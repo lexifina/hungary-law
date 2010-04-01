@@ -1,4 +1,4 @@
-## 12. §[^20] Zártcélú távközlő hálózatban rádiótávközlő berendezésekhez, állomásokhoz, hálózatokhoz, rendszerekhez nem polgári célú frekvenciát csak a külön jogszabályban megállapított – a nem polgári célú frekvenciagazdálkodás körébe tartozó – szervezetek részére lehet igényelni, illetőleg általuk használni, ezek engedélyezésével kapcsolatos hatósági ügyekben a külön jogszabályokban foglaltaknak megfelelően a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság jár el.
+## 12. §[^21] Zártcélú távközlő hálózatban rádiótávközlő berendezésekhez, állomásokhoz, hálózatokhoz, rendszerekhez nem polgári célú frekvenciát csak a külön jogszabályban megállapított – a nem polgári célú frekvenciagazdálkodás körébe tartozó – szervezetek részére lehet igényelni, illetőleg általuk használni, ezek engedélyezésével kapcsolatos hatósági ügyekben a külön jogszabályokban foglaltaknak megfelelően a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság jár el.
 
 ## Távközlési építmények engedélyezése
 
@@ -10,4 +10,4 @@
 
 (4) Zártcélú távközlő hálózatban a közcélú távközlő hálózathoz csatlakozó állandóhelyű rádiótávközlő egyedi berendezés, illetve több berendezésből álló együttes (rádiós vagy mikrohullámú irány, hálózat, műholdas rendszer stb.) telepítésére, üzemeltetésére vonatkozó műszaki terveket csak vezető (minősített) tervezői jogosultsággal rendelkező tervező készítheti, és a megvalósításhoz, csatlakoztatáshoz – a külön jogszabályok szerinti – hatósági engedélyeket az építtetőnek be kell szereznie.
 
-[^20]: A 12. § a 276/2006. (XII. 23.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^21]: A 12. § a 276/2006. (XII. 23.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

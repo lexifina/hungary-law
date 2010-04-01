@@ -1,4 +1,4 @@
-9. § (1)[^15] Ha a helyközi bérelt (előkészített) összeköttetést több szolgáltató együttesen biztosítja, a koordinációs feladat ellátására az a távközlési szolgáltató köteles, amelyhez az igényt a hálózatgazda útján a Magyar Honvédség, a kormányzati, rendvédelmi, igazságszolgáltatási szerv bejelentette.
+9. § (1)[^16] Ha a helyközi bérelt (előkészített) összeköttetést több szolgáltató együttesen biztosítja, a koordinációs feladat ellátására az a távközlési szolgáltató köteles, amelyhez az igényt a hálózatgazda útján a Magyar Honvédség, a kormányzati, rendvédelmi, igazságszolgáltatási szerv bejelentette.
 
 (2) Nemzetközi bérelt összeköttetés létesítését minden esetben a tevékenység végzésére jogosult szolgáltatótól kell megrendelni.
 
@@ -24,4 +24,4 @@ g) meghibásodás vagy a szolgáltatás minőségének romlása esetén fogadni 
 
 (6) A közcélú távközlési szolgáltatók közötti hálózati szerződéseket az (1)–(5) bekezdésben foglaltaknak megfelelően – szükség esetén – módosítani kell.
 
-[^15]: A 9. § (1) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 1. § 22. pontja szerint módosított szöveg.
+[^16]: A 9. § (1) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 1. § 22. pontja szerint módosított szöveg.

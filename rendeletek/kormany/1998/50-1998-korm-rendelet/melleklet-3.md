@@ -24,7 +24,7 @@
 
 ## c) ha több évre szóló áramköri bérleti szerződés megkötését vállalja.
 
-## 7. A hálózatgazda előfizetői állomásainak, helyi és helyközi bérelt vonalai szolgáltatás-hozzáférési pontjainak áthelyezése az ország területén a távközlési szolgáltató(k) műszaki lehetőségei függvényében az érvényes szabályozás[^42] szerint történik.
+## 7. A hálózatgazda előfizetői állomásainak, helyi és helyközi bérelt vonalai szolgáltatás-hozzáférési pontjainak áthelyezése az ország területén a távközlési szolgáltató(k) műszaki lehetőségei függvényében az érvényes szabályozás[^43] szerint történik.
 
 ## 8. A hálózatgazda feladatai ellátásához határozott időre szóló helyi vagy helyközi ideiglenes összeköttetést rendelhet az alábbiak szerint:
 
@@ -42,7 +42,7 @@
 
 ## III. A zártcélú hálózattulajdonosnak nyújtott sajátos szolgáltatások díjazása
 
-## 10.[^43] A Magyar Honvédség, valamint a kormányzati, rendvédelmi szervek sajátos feladataikból adódóan a közcélútól eltérő szolgáltatásokat is igénybe vehetnek. Ezek feltételeire a felek által kötött szerződések vonatkoznak, amelyeknél a további pontokban foglaltakat kell alapul venni.
+## 10.[^44] A Magyar Honvédség, valamint a kormányzati, rendvédelmi szervek sajátos feladataikból adódóan a közcélútól eltérő szolgáltatásokat is igénybe vehetnek. Ezek feltételeire a felek által kötött szerződések vonatkoznak, amelyeknél a további pontokban foglaltakat kell alapul venni.
 
 ## 11. Az ,,M'' zártcélú hálózatok esetében:
 
@@ -56,8 +56,8 @@
 
 ## 14. A rendelet 24. §-ának (6) bekezdésében foglalt kormányzati, védelmi, nemzetbiztonsági célú adatszolgáltatás díjtalan; az ettől eltérő adatok szolgáltatása a hírközlési hatósági adatszolgáltatással megegyező módon, térítés ellenében történik.
 
-3. számú melléklet az 50/1998. (III. 27.) Korm. rendelethez[^44]
+3. számú melléklet az 50/1998. (III. 27.) Korm. rendelethez[^45]
 
-[^42]: Lásd a közcélú távbeszélő szolgáltatás-hozzáférési pont létesítéséért fizetendő egyszeri belépési díjról szóló 11/1995. (VII. 12.) KHVM rendeletet.
-[^43]: A 2. számú melléklet III. pontjának 10. alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 22. pontja szerint módosított szöveg.
-[^44]: A 3. számú mellékletet a 100/2004. (IV. 27.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^43]: Lásd a közcélú távbeszélő szolgáltatás-hozzáférési pont létesítéséért fizetendő egyszeri belépési díjról szóló 11/1995. (VII. 12.) KHVM rendeletet.
+[^44]: A 2. számú melléklet III. pontjának 10. alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 22. pontja szerint módosított szöveg.
+[^45]: A 3. számú mellékletet a 100/2004. (IV. 27.) Korm. rendelet 32. §-a hatályon kívül helyezte.

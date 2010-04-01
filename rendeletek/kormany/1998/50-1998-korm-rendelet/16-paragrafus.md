@@ -10,6 +10,6 @@ c) a zártcélú távközlő hálózatokban a közcélú (különcélú) távkö
 
 d) a közcélú távközlő hálózatokban nem használt, valamint a logikai (algoritmikus) elkülönítést megvalósító speciális berendezésekre vonatkozó hatósági engedélyhez csak a berendezés csatlakozási felületének műszaki adatait kell megadni, amelyek hitelességéért a kérelmező felelős.
 
-(2)[^25] A zártcélú távközlő hálózatra kapcsolt végberendezésnek típusjóváhagyási és forgalomba hozatali engedéllyel kell rendelkeznie. Kivételt képeznek az e rendelet 19. §-ában foglaltak, valamint a hálózati eszközökkel együtt szállított és/vagy más hálózatokra nem rákapcsolható végberendezések, amelyek típusjóváhagyásának a hálózati eszközökkel együtt kell megtörténnie.
+(2)[^26] A zártcélú távközlő hálózatra kapcsolt végberendezésnek típusjóváhagyási és forgalomba hozatali engedéllyel kell rendelkeznie. Kivételt képeznek az e rendelet 19. §-ában foglaltak, valamint a hálózati eszközökkel együtt szállított és/vagy más hálózatokra nem rákapcsolható végberendezések, amelyek típusjóváhagyásának a hálózati eszközökkel együtt kell megtörténnie.
 
-[^25]: A 16. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 141. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 16. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 141. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
