@@ -1,0 +1,3 @@
+## 11. § A büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 9/2002. (IV. 9.) IM rendelet [a továbbiakban: 9/2002. (IV. 9.) IM rendelet] 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a tanács elnöke az ügydöntő határozatában részletfizetést [Btk. 51. § (4) bekezdés] vagy az ügydöntő határozat kihirdetése után nyomban előterjesztett kérelemre halasztást vagy részletfizetést engedélyezett, ezt a büntető határozatról kiállított értesítőlap e célra szolgáló rovatában, illetve „Megjegyzés” rovatában – a halasztás tartamának, a részletfizetésre vonatkozó adatoknak a megjelölésével – feltünteti.”
