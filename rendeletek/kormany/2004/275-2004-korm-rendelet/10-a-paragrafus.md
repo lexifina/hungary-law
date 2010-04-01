@@ -4,7 +4,7 @@
 
 (3)[^42] A Natura 2000 területen előforduló kiemelt közösségi jelentőségű élőhelytípusra vagy kiemelt közösségi jelentőségű fajra várhatóan jelentős hatással lévő olyan terv vagy beruházás elfogadása, illetőleg engedélyezése előtt, amelyhez – a (2) bekezdésben felsoroltakon kívül – egyéb kiemelt fontosságú közérdek fűződik, ki kell kérni az Európai Bizottság véleményét. Egyéb kiemelt fontosságú közérdeknek minősülhetnek különösen a 4. § (2) bekezdés a) pontjában foglalt, az ország társadalmi-gazdasági fejlődését szolgáló célok.
 
-(4)[^43] A (3) bekezdés szerinti beruházás engedélyezése előtt az Európai Bizottság véleményét a felügyelőség a 8. számú melléklet szerinti adatlap alapján – az államtitokról és szolgálati titokról szóló külön törvényben foglaltak figyelembevételével – a miniszter útján kéri ki.
+(4)[^43] A (3) bekezdés szerinti beruházás engedélyezése előtt az Európai Bizottság véleményét a felügyelőség a 8. számú melléklet szerinti adatlap alapján – a minősített adat védelméről szóló 2009. évi CLV. törvényben foglaltak figyelembevételével – a miniszter útján kéri ki.
 
 (5)[^44]
 
@@ -13,6 +13,6 @@
 [^40]: A 10/A. §-t a 201/2006. (X. 2.) Korm. rendelet 10. §-a iktatta be.
 [^41]: A 10/A. § (1) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
 [^42]: A 10/A. § (3) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^43]: A 10/A. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 375. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 10/A. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 375. §-a, a 90/2010. (III. 26.) Korm. rendelet 69. § (14) bekezdése szerint módosított szöveg.
 [^44]: A 10/A. § (5) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 7. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^45]: A 10/A. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 375. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
