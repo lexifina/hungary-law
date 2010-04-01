@@ -7,3 +7,11 @@
 2. Az Art. 2. számú melléklet I/Határidők/3./A/b) alpontja helyébe a következő rendelkezés lép:
 
 „b) Az adózónak az 1. számú melléklet I/B/2./c) pontja szerint bevallott társasági adóelőleg-kiegészítést a tárgyév utolsó hónapjának 20. napjáig kell megfizetnie.”
+
+3. Az Art. 2. számú melléklet IV. pont alatti alcím helyébe a következő alcím lép:
+
+„A jövedéki adóval kapcsolatban a vámhatósághoz teljesítendő befizetések”
+
+4. Az Art. 2. számú melléklet IV. pontja a következő alcímmel és rendelkezéssel egészül ki:
+
+„Általános rendelkezések:
