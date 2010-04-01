@@ -54,9 +54,7 @@ Az elnök, az alelnökök, a monetáris tanács és a felügyelő bizottság tag
 
 (6) A felügyelő bizottság további tagjainak tiszteletdíja az MNB elnöke MNB-től származó keresetének 10%-a.''
 
-(7) Az MNB törvény 54. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-,,(1) Az MNB alkalmazottai és felügyelő bizottsági tagjai kötelesek a feladatkörük ellátása során tudomásukra jutott államtitkot, banktitkot, értékpapírtitkot és üzleti titkot megőrizni. Ez a kötelezettség a megbízatás megszűnését követően is fennmarad.''
+(7)
 
 (8) Az MNB törvény 55. §-a helyébe a következő rendelkezés lép:
 
