@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | --- | --- | --- |
 | 2008-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1995-125-00-00.21 |
 | 2010-03-24 | 2010. évi XL. törvény | 1995-125-00-00.22 |
+| 2010-04-01 | 2009. évi CLV. törvény | 1995-125-00-00.23 |

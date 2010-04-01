@@ -18,10 +18,10 @@ h) a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X
 
 i) felderíti a terrorcselekményt (Btk. 261. §), ha a bejelentés a Nemzetbiztonsági Hivatalhoz érkezett, illetve arról a Nemzetbiztonsági Hivatal szerzett tudomást;)
 
-j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), az államtitoksértés (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), és a rémhírterjesztés (Btk. 270. §) bűncselekményekre vonatkozóan;
+j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §) és a közveszéllyel fenyegetés (Btk. 270/A. §) bűncselekményekre vonatkozóan,
 
 k) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 
 l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
 
-m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó iparbiztonsági ellenőrzéseket.
+m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.

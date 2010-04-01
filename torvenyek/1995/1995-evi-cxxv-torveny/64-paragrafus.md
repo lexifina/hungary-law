@@ -4,4 +4,4 @@
 
 (3) Ha a fedőintézmény megszűnik, vagyona a nemzetbiztonsági szolgálatokat illeti.
 
-(4) Az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései a fedővállalkozásra nem vonatkoznak.
+(4) Az államháztartásról szóló törvény rendelkezései a fedővállalkozásra nem vonatkoznak.

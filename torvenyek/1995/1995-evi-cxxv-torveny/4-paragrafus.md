@@ -14,4 +14,4 @@ f) ellátja a kormányzati tevékenység szempontjából fontos, külföldön l�
 
 g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
 
-h) ellátja a rejtjeltevékenység szakirányítását, hatósági engedélyezését, felügyeletét, és rejtjelkulcsot állít elő.
+h) végzi a minősített adatok védelmére használt rejtjelző eljárások, algoritmusok, valamint az országhatáron kívül rejtjelzésre használt eszközök kriptográfiai bevizsgálását és minősítését, továbbá rejtjelkulcsot állít elő.

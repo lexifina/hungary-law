@@ -6,4 +6,4 @@
 
 (4) A kezdeményező a nemzetbiztonsági szolgálattól kapott szakvéleményt – az Országgyűlés elnöke a 19. § (7) bekezdése szerint korlátozással – döntése kialakításánál szabadon mérlegeli. Ha a Nemzeti Biztonsági Felügyelethez továbbított szakvélemény kockázati tényezőt tartalmaz, a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítvány nem adható ki.
 
-(5) Az ellenőrzéshez kitöltött kérdőív, valamint az ellenőrzés során a szolgálatok által beszerzett adatok államtitoknak minősülnek.
+(5)

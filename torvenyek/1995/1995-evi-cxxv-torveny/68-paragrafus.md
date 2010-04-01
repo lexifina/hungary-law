@@ -4,16 +4,26 @@
 
 (3) A fontos és bizalmas munkakört betöltő személyek körét a 2. számú melléklet tartalmazza.
 
-(4) A fontos és bizalmas munkakörbe jelölt személyekre vonatkozó szabályok szerint kijelölésük, illetve megbizatásuk előtt egyszeri biztonsági ellenőrzést kell kezdeményezni az alábbi személyek tekintetében:
+(4) A fontos és bizalmas munkakörbe jelölt, illetve ilyen munkakört betöltő személyekre vonatkozó szabályok szerint – az (5) bekezdésben foglaltak kivételével – kijelölésük, megbízásuk előtt, valamint e megbízásuk, munkakörük betöltése alatt legalább ötévenként ellenőrzést kell kezdeményezni
 
-a) a titkos információgyűjtést engedélyező bíró,
+a) az e törvény szerinti titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró,
 
 b) valamennyi miniszter,
 
 c) a Bizottság és a Honvédelmi Bizottság tagja, illetve e két bizottság eljárásában közreműködő szakértő,
 
-d) az 55. §-ban meghatározott kijelölt ügyész,
+d) amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia, az Országgyűlés által létrehozott vizsgálóbizottság, eseti bizottság tagja, valamint a bizottság eljárásában közreműködő szakértő,
 
-e) az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény szerinti titokbirtokos szervvel közreműködő olyan személy, akinek feladata ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdésében szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismernie,
+e) az 55. §-ban meghatározott kijelölt ügyész,
 
-f) a Független Rendészeti Panasztestület tagjai.
+f) amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia, a minősített adat védelméről szóló törvény szerinti minősített adatot kezelő szervvel közreműködő, illetve gazdálkodó szervezetnél minősített adatot felhasználó személy,
+
+g) ha megfelelő szintű ellenőrzését még nem folytatták le, vagy érvényes ellenőrzéssel nem rendelkezik, állami vagy közfeladat ellátásához szükséges „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adat felhasználására jogosult személy,
+
+h) a Független Rendészeti Panasztestület tagjai
+
+tekintetében.
+
+(5) A (4) bekezdés g) pontja szerinti ellenőrzést nem kell kezdeményezni a minősített adat védelméről szóló törvény 13. §-ának (3)–(4) bekezdésében, valamint a 14. § (2) bekezdésében szereplő személyek, továbbá – a (4) bekezdés c), d) és h) pontjában meghatározottak kivételével – az országgyűlési képviselő, az Európai Parlament Magyarországon megválasztott képviselője és az önkormányzati képviselő tekintetében.
+
+(6) Amennyiben a fontos és bizalmas munkakörbe jelölt, vagy ilyen munkakört betöltő, továbbá a (4) bekezdésben meghatározott személyek tekintetében öt éven belül biztonsági kockázati tényezőt nem tartalmazó – az új kinevezéshez, kijelöléshez vagy megbízáshoz, illetve a közreműködéshez szükséges ellenőrzéssel legalább azonos szintű – biztonsági szakvélemény került kibocsátásra, a kezdeményezésre jogosult mérlegelési jogkörében dönt az érintett személy ellenőrzésének kezdeményezéséről.

@@ -4,7 +4,7 @@ a) az élet elleni vagy a testi épséget súlyosan veszélyeztető támadás, i
 
 b) az alkotmányos rend erőszakos megváltoztatása (Btk. 139. §), a rombolás (Btk. 142. §), a kémkedés (Btk. 147. §), a népirtás (Btk. 155. §), a közveszélyokozás (Btk. 259. §), a terrorcselekmény (Btk. 261. §), a légijármű hatalomba kerítése (Btk. 262. §) bűncselekmények elkövetésének megakadályozására vagy megszakítására;
 
-c) a nemzetbiztonsági szolgálattal összefüggő államtitoknak személy vagy dolog elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
+c) a nemzetbiztonsági szolgálattal összefüggő „Szigorúan titkos!” minősítési szintű minősített adatnak személy elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
 
 d) a nemzetbiztonsági szolgálat objektumát ért vagy azt közvetlenül fenyegető támadás elhárítására.
 

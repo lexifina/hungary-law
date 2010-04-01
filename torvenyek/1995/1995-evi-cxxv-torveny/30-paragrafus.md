@@ -4,4 +4,4 @@
 
 (3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, az Országgyűlési Biztos Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
-(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza. A munkaviszony létesítésének nemzetbiztonsági jellege államtitok, kivéve, ha a megállapodást kötő felek eltérően rendelkeznek.
+(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza.

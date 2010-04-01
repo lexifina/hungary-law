@@ -10,7 +10,7 @@ tekintetében.
 
 (2) Az Országgyűlés elnöke kezdeményezi az ellenőrzést
 
-a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába jelölt képviselők,
+a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába, illetve – ha a feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, eseti bizottságba jelölt személy,
 
 b) az Országgyűlés Hivatalának vezető beosztású munkatársai
 
@@ -46,7 +46,9 @@ f) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezete
 
 g) a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
 
-h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek
+h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek,
+
+i) az irányítása vagy felügyelete alatt álló minősített adatot kezelő szerv vezetője
 
 tekintetében.
 
@@ -66,12 +68,12 @@ tekintetében.
 
 (9) A nemzetbiztonsági szolgálatok főigazgatói kezdeményezik az ellenőrzést a nemzetbiztonsági szolgálatok munkatársai tekintetében.
 
-(10) A Fővárosi Bíróság elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bírói tisztségre jelölt személyek tekintetében.
+(10) A Fővárosi Bíróság elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró tekintetében.
 
-(11) A Nemzetbiztonsági Bizottság elnöke kezdeményezi az ellenőrzést a Bizottság eljárása során szakértőnek jelölt személyek tekintetében. A Honvédelmi Bizottság elnöke kezdeményezi az ellenőrzést a Honvédelmi Bizottság eljárása során szakértőnek jelölt személyek tekintetében.
+(11) Az országgyűlési bizottság elnöke kezdeményezi az ellenőrzést a bizottság eljárásában közreműködő szakértő tekintetében, amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia.
 
-(12) A legfőbb ügyész kezdeményezi az ellenőrzést az általa az 55. § alapján kijelölt ügyész tekintetében.
+(12) A legfőbb ügyész kezdeményezi az ellenőrzést az 55. § alapján kijelölt ügyész tekintetében.
 
-(13) A titokbirtokos szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének e) pontjában és a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
+(13) A minősített adatot kezelő szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének f) és g) pontjában, valamint a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
 
-(14) A Nemzeti Biztonsági Felügyelet elnöke kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatokat szükséges megismerniük, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
+(14) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.

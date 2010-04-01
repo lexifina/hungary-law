@@ -1,11 +1,5 @@
 3. számú melléklet az 1995. évi CXXV. törvényhez
 
-Szigorúan titkos!
-
-Különösen fontos!
-
-(kitöltés után)
-
 BIZTONSÁGI KÉRDŐÍV
 
 fontos és bizalmas munkakör betöltésére jelölt,
@@ -141,12 +135,6 @@ Budapest, 19………………………………
 ………………………………………………………………
 
 aláírás, cím
-
-Szigorúan titkos!
-
-Különösen fontos!
-
-(kitöltés után)
 
 BIZTONSÁGI KÉRDŐÍV
 
@@ -288,7 +276,7 @@ Jövedelmi viszonyaival, anyagi helyzetével összefüggő adatok
 
 23. Főfoglalkozásából származó éves bruttó összjövedelme:
 
-24. Főfoglalkozásán kívüli bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai:
+24. Főfoglalkozásán kívüli éves bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai:
 
 25. Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénzügyi kötelezettségei 5 évre visszamenőleg:
 
@@ -365,12 +353,6 @@ Budapest, 19………………………………
 ………………………………………………………………
 
 aláírás, cím
-
-Szigorúan titkos!
-
-Különösen fontos!
-
-(kitöltés után)
 
 BIZTONSÁGI KÉRDŐÍV
 

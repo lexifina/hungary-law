@@ -30,12 +30,14 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 14. a minisztériumi főosztályvezetők és az azonos jogállású állami vezetők,
 
-15. az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői,
+15. az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői, felügyelő bizottsági tagjai,
 
-16. a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
+16. a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai és felügyelő bizottsági tagjai,
 
 17. a nemzetbiztonsági szolgálatok munkatársai,
 
-18. a minisztériumokon, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-a (2)–(6) bekezdéseiben szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismerniük, illetve a munkakörük külső, leplezett támadás által fenyegetett,
+18. a minisztériumokon, az autonóm államigazgatási szerveken, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk,
 
-19. a 18. pont hatálya alá nem tartozó, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény szerinti titokbirtokos szervezeten belül a vezető által meghatározott olyan személyek, akiknek feladataik ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-a (2)–(6) bekezdéseiben szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismerniük.
+18/A. a minősített adat védelméről szóló törvény szerinti „Bizalmas!” vagy annál magasabb minősítési szintű adatot kezelő szerv vezetője,
+
+19. a 18. pont hatálya alá nem tartozó, a minősített adat védelméről szóló törvény szerinti minősített adatot kezelő szervezeten belül a vezető által – a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel egyetértésben – meghatározott olyan személyek, akiknek feladataik ellátásához „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk.

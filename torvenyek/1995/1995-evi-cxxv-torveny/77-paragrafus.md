@@ -2,7 +2,7 @@
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
-a) a rejtjeltevékenység szakirányításának és hatósági felügyeletének rendjét;
+a)
 
 b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
 

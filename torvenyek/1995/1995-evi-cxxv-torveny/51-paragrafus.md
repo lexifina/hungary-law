@@ -1,4 +1,4 @@
-51. § (1) A miniszter, illetve a főigazgatók hozzájárulásával hozhatók nyilvánosságra – az állam- és szolgálati titkot tartalmazó adatokon túlmenően – a nemzetbiztonsági szolgálatok
+51. § (1) A miniszter, illetve a főigazgatók hozzájárulásával hozhatók nyilvánosságra – a minősített adatokon túlmenően – a nemzetbiztonsági szolgálatok
 
 a) objektumaival és személyi állományával,
 
