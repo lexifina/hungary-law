@@ -12,6 +12,6 @@ b) bármely más, az a) pont alá nem tartozó nem adóalany személynek, szerve
 
 a) a Héa-irányelv 3. cikke (1) bekezdésének, a termékek Közösségen belüli beszerzése után egyébként nem kell adót fizetniük; és
 
-b) a jövedékiadó-köteles termékekre vonatkozó általános rendelkezésekről és e termékek tartásáról, szállításáról és ellenőrzéséről szóló 92/12 EGK tanácsi irányelvnek (a továbbiakban: Jövedékiadó-irányelv), a jövedéki termék beszerzése után jövedékiadó-fizetési kötelezettsége keletkezik.
+b) a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló 2008/118/EK tanácsi irányelvnek (a továbbiakban: Jövedékiadó-irányelv), a jövedéki termék beszerzése után jövedékiadó-fizetési kötelezettsége keletkezik.
 
 (4) Mentes az adó alól továbbá a termék 12. § (1) bekezdése szerinti értékesítése, feltéve, hogy az az (1)–(3) bekezdések bármelyike szerint adómentesség alá tartozna, ha a termék beszerzője egy másik adóalany lenne.
