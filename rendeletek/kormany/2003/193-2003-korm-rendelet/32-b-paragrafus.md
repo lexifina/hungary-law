@@ -1,6 +1,6 @@
 ## Az önkormányzatok társulásaival kapcsolatos különleges szabályok
 
-32/B. §[^108] (1) A belső ellenőrzési feladat társulás keretében történő ellátása (továbbiakban: társult feladatellátás) esetében az e rendeletben foglalt szabályokat – eltérő megállapodás hiányában – az e §-ban meghatározott eltérésekkel kell alkalmazni.
+32/B. §[^109] (1) A belső ellenőrzési feladat társulás keretében történő ellátása (továbbiakban: társult feladatellátás) esetében az e rendeletben foglalt szabályokat – eltérő megállapodás hiányában – az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) A társult önkormányzatok stratégiai ellenőrzési tervének és éves ellenőrzési tervének összeállítása a belső ellenőrzési feladatok és a rendelkezésre álló kapacitások összehangolásának érdekében az érintett önkormányzatok jegyzője írásos véleményének figyelembevételével történik.
 
@@ -24,4 +24,4 @@ b) a társulásra és az általa irányított költségvetési szervekre vonatko
 
 (10) Az éves ellenőrzési jelentést önkormányzatonként, illetve a társulásra külön-külön kell készíteni a 31. § szerinti tartalommal.
 
-[^108]: A 32/B. §-t és azt azt megelőző alcímet a 180/2009. (IX. 4.) Korm. rendelet 11. §-a iktatta be.
+[^109]: A 32/B. §-t és azt azt megelőző alcímet a 180/2009. (IX. 4.) Korm. rendelet 11. §-a iktatta be.

@@ -14,6 +14,6 @@ f) informatikai rendszer-tesztelési eljárások.
 
 (2) Az ellenőrzés során az ellenőrzött szerv, illetve szervezeti egység vezetőjétől szükség esetén teljességi nyilatkozatot kell kérni, amelyben az ellenőrzött szerv, illetve szervezeti egység vezetője igazolja, hogy az ellenőrzött feladattal összefüggő, felelősségi körébe tartozó valamennyi okmányt, illetve információt hiánytalanul az ellenőr rendelkezésére bocsátotta.
 
-(3)[^74]
+(3)[^75]
 
-[^74]: A 26. § (3) bekezdését a 67/2007. (IV. 11.) Korm. rendelet 19. § (6) bekezdése hatályon kívül helyezte.
+[^75]: A 26. § (3) bekezdését a 67/2007. (IV. 11.) Korm. rendelet 19. § (6) bekezdése hatályon kívül helyezte.
