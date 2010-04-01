@@ -1,3 +1,5 @@
 ## 64. § A rendelet általános szabályait az e fejezetben megállapított bűnjelekre, az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-## Állam- és szolgálati titok, nyilvánosságra hozatalában korlátozott adat
+## Minősített adat, nyilvánosságra hozatalában korlátozott adat[^42]
+
+[^42]: A 65. §-t megelőző alcím a 8/2010. (III. 25.) IRM–PM együttes rendelet 3. §-ával megállapított szöveg.
