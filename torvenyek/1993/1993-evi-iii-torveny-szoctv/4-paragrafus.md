@@ -24,7 +24,7 @@ Nem minősül jövedelemnek
 
 6. a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás,
 
-7. annak az alkalmi munkavállalói könyvvel történő foglalkoztatásnak a havi ellenértéke, amely a teljes munkaidőben foglalkoztatott munkavállaló külön jogszabály szerinti kötelező legkisebb munkabérének (minimálbér) 50%-át nem haladja meg,
+7. annak az alkalmi munkavállalói könyvvel történő foglalkoztatásnak, illetőleg az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzésnek a havi ellenértéke, amely a teljes munkaidőben foglalkoztatott munkavállaló külön jogszabály szerinti kötelező legkisebb munkabérének (minimálbér) 50%-át nem haladja meg,
 
 8. a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíj,
 

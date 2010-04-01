@@ -6,7 +6,7 @@ aa) akire vonatkozóan a 34. § szerinti körülmények valamelyike bekövetkeze
 
 ab) aki az aktív korúak ellátására való jogosultság feltételeinek vagy összegének felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza, így különösen ha a nyilatkozattételi, iratbemutatási kötelezettségének írásbeli felszólítás ellenére sem tesz eleget,
 
-ac) aki keresőtevékenységet folytat, ide nem értve a közfoglalkoztatást, valamint az alkalmi munkavállalói könyvvel történő munkavégzést,
+ac) aki keresőtevékenységet folytat, ide nem értve a közfoglalkoztatást, valamint az egyszerűsített foglalkoztatásról szóló törvény szerint legfeljebb harmincegy napra létesített munkaviszony keretében történő munkavégzést,
 
 ad) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten jogerősen megállapította;
 
