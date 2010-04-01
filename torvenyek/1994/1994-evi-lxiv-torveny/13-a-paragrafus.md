@@ -1,4 +1,4 @@
-13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) pontja szerint szűnik meg, feltéve, hogy
+13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy
 
 a) folyamatosan legalább három éve polgármesteri tisztséget tölt be, és a tisztségének megszűnését követő harmadik naptári év végéig a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
 

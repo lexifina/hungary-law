@@ -28,6 +28,8 @@ b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képvise
 
 c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben.
 
+[d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.]
+
 (3) A polgármester foglalkoztatási jogviszonya megszűnik:
 
 a) tisztségének megszűnésével, a tisztség megszűnése napján,
