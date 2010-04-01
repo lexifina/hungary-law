@@ -100,6 +100,12 @@ I. FEJEZET
 
 | 7. | A „Megfelelőségi nyilatkozattal” történő forgalomba helyezés esetén – az engedélyezési és ellenőrzési tevékenységért fizetendő díj – megegyezik a 4. pontban a jármű kategóriájához meghatározott forgalomba helyezés előtti vizsgálat díjával |  |
 
+| 8. | A biztosító értesítése alapján végzett, a közlekedési balesettel érintett jármű műszaki vizsgálatának díja |  |
+
+| 8.1. | vizsgáló állomáson végzett műszaki megvizsgálás esetén | 8 200 |
+
+| 8.2. | egyéb gépjárműfenntartó szervezet telephelyén végzett vizsgálat esetén | 13 600 |
+
 II. FEJEZET
 
 ## A KÖZÚTI JÁRMŰVEK KÖRNYEZETVÉDELMI FELÜLVIZSGÁLATÁNAK SZABÁLYAIRÓL SZÓLÓ EGYÜTTES MINISZTERI RENDELET ALAPJÁN VÉGZETT HATÓSÁGI ELJÁRÁSOK ÉS TEVÉKENYSÉGEK DÍJAI
@@ -142,4 +148,4 @@ III. FEJEZET
 
 IV. FEJEZET
 
-[^14]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell.
+[^14]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a szerint módosított szöveg.
