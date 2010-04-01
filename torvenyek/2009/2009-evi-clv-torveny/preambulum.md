@@ -1,0 +1,1 @@
+Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása érdekében, a közérdekű adatok megismerésének alkotmányos jogából, illetve e jog kizárólag szükséges és arányos mértékű korlátozásának lehetőségéből kiindulva, a minősített adat védelméről a következő törvényt alkotja:

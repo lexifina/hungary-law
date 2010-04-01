@@ -1,0 +1,3 @@
+21. § (1) A Nemzeti Biztonsági Felügyeletnek a 20. § (2) bekezdés a) és b) pontjában meghatározott hatáskörében hozott döntésével szemben az érintett a kézbesítéstől számított 15 napon belül keresettel fordulhat a Fővárosi Bírósághoz. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni. A Fővárosi Bíróság határozata ellen fellebbezésnek nincs helye.
+
+(2) A minősített adat védelmének szakmai felügyeletéért felelős miniszter az ezzel kapcsolatos tevékenységéről szükség szerint, de legalább évente egyszer tájékoztatja az Országgyűlés nemzetbiztonsági, valamint honvédelmi és rendészeti ügyekkel foglalkozó bizottságát.

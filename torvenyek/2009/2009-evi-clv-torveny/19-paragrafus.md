@@ -1,0 +1,5 @@
+## Egyéb védelmi kötelezettségek
+
+19. § (1) Ha valakinek olyan külföldi minősített adat kerül a birtokába, amelynek felhasználására nem jogosult, illetve ismeretlen helyről származó, olyan nemzeti minősített adat került a birtokába, amelynek minősítője nem azonosítható, köteles azt a Nemzeti Biztonsági Felügyeletnek haladéktalanul átadni. A fellelés körülményeiről és az adathordozó átadásáról jegyzőkönyvet kell készíteni. Ha az ismeretlen helyről származó nemzeti minősített adat minősítője ismert, az adatot a minősítőnek kell haladéktalanul átadni.
+
+(2) Ha a felhasználó tudomására jut, hogy a minősített adat védelmére vonatkozó szabályokat megsértették, erről a biztonsági vezetőt haladéktalanul tájékoztatja. Ha e törvényt vagy a végrehajtásáról szóló rendelkezéseket olyan módon sértették meg, hogy a „Szigorúan titkos!”, a „Titkos!”, valamint a „Bizalmas!” minősítési szintű adat ezáltal illetéktelen személy részére hozzáférhetővé válhatott, vagy ennek veszélye fennáll, a minősített adatot kezelő szerv vezetője a minősítőt és a Nemzeti Biztonsági Felügyeletet köteles erről tájékoztatni.
