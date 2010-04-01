@@ -1,4 +1,4 @@
-## 16. §[^22] A 15. § (1) bekezdése szerinti felhasználó fogyasztási igénybejelentésének elmulasztása esetén fogyasztási igénybejelentésként az előző gáznapra megadott értéket kell tekinteni. Ha az előző gáznapra vonatkozóan sincs érvényes fogyasztási igénybejelentés, a fogyasztási igénybejelentés értékét az elszámolás szempontjából 0-nak (nulla) kell tekinteni.
+## 16. § A 15. § (1) bekezdése szerinti felhasználó fogyasztási igénybejelentésének elmulasztása esetén fogyasztási igénybejelentésként az előző gáznapra megadott értéket kell tekinteni. Ha az előző gáznapra vonatkozóan sincs érvényes fogyasztási igénybejelentés, a fogyasztási igénybejelentés értékét az elszámolás szempontjából 0-nak (nulla) kell tekinteni.
 
 ## Vegyes rendelkezések
 
@@ -17,5 +17,3 @@ a) az így számított átlagos fűtőértéknek,
 b) a vásárolt földgáz köbméterben mért mennyiségének, és
 
 c) a vásárlás időpontjában az egységnyi hőmennyiségre vonatkozó díjnak
-
-[^22]: A 16. § e rendelet 19. § (2) bekezdése alapján hatályát veszti 2010. július 1-jén.

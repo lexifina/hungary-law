@@ -26,7 +26,7 @@
 
 ## 2.6. A nem téli fogyasztási időszakra lekötött teljesítmény, amely után a felhasználó egy időpontban legalább 3 hónapra köt le teljesítményt, a lekötött teljesítmény a gázév hátralévő – téli fogyasztási időszakon kívüli – részében térítésmentesen vehető igénybe.
 
-8. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^35]
+8. melléklet a 28/2009. (VI. 25.) KHEM rendelethez
 
 Hőmérséklet-mérési pontok felsorolása
 
@@ -105,5 +105,3 @@ Hőmérséklet-mérési pontok felsorolása
 | Záhony | Mándok |
 
 | Zalaegerszeg | Nagylengyel 1-1. Nagylengyel, 1-2, Nagylengyel KTD ZRG, Pókaszepetk 1-1, Pókaszepetk 1-2, Zalaegerszeg 1+2, Zalaegerszeg 1, Zalaegerszeg 2, Nagylengyel KTD NLT, Nagylengyel KTD NLT-3 |
-
-[^35]: A 8. melléklet e rendelet 19. § (2) bekezdése alapján hatályát veszti 2010. július 1-jén.

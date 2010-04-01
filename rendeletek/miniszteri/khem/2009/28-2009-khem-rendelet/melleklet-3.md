@@ -38,6 +38,6 @@
 
 ## A likviditási tényező mértéke: 0,55%
 
-3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^33]
+3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^10]
 
-[^33]: A 3. melléklet I. pont I.2. alpontja, II. pont I.2. alpontja, III. pont I.2. alpontja, IV. pont I.2. alpontja e rendelet 19. § (2) bekezdése alapján hatályát veszti 2010. július 1-jén. A 3. számú melléklet a 33/2009. (VI. 30.) KHEM rendelet 21. § (3) bekezdése szerint módosított szöveg.
+[^10]: A 3. számú melléklet a 33/2009. (VI. 30.) KHEM rendelet 21. § (3) bekezdése szerint módosított szöveg.

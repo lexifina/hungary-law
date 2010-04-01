@@ -1,3 +1,3 @@
-1. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^31]
+1. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^8]
 
-[^31]: Az 1. melléklet a 71/2009. (XII. 7.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet a 23/2010. (III. 24.) KHEM rendelet 1. §-ával megállapított szöveg.
