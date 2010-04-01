@@ -25,11 +25,3 @@
 (5) A díj a (4) bekezdés szerinti végzés jogerőre emelkedésétől számított harminc napon belül esedékes. A kifizetésről a Gazdasági Versenyhivatal bírságbevételi számlája terhére kell intézkedni.
 
 (6) Ha a jutalmat vissza kell fizetni, ennek az eljáró versenytanács e tárgyban, legkésőbb a visszafizetést megalapozó határozat jogerőre emelkedésétől számított harminc napon belül hozott külön végzése alapján van helye. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet. A visszafizetendő díj adók módjára behajtandó köztartozásnak minősül.”
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
