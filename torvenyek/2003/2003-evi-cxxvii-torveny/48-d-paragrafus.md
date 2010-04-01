@@ -9,3 +9,5 @@ a) az (1) bekezdés alapján megismert személyes adatokat az engedélyezési el
 b) a (2) bekezdés alapján megismert személyes adatokat a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
 
 kezeli.
+
+(4) A csomagküldő kereskedő adóügyi képviselője esetében a nyilvántartásba vételi eljárás kezdeményezése és lefolytatása, illetve a nyilvántartásba vételhez meghatározott, a 35. § (3) bekezdése szerinti feltétel fennállásának hatósági ellenőrzése során az adatigénylésre, adatátvételre és adatkezelésre vonatkozóan az (1)–(3) bekezdésben meghatározott rendelkezéseket megfelelően kell alkalmazni.

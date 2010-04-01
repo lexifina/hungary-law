@@ -2,7 +2,7 @@
 
 ## EGYES ADÓZÁSI ÉS ELJÁRÁSI SZABÁLYOK
 
-48. § (1) A harmadik országból behozott jövedéki termékre a jövedéki termék nem közösségi áru jellegének fennállásáig, valamint a belföldről harmadik országba kiszállításra kerülő adózatlan jövedéki termékre – az e törvényben szabályozott rendelkezésekkel összhangban – a vámjogszabályok rendelkezéseit kell alkalmazni.
+48. § (1) A harmadik országból behozott jövedéki termékre a jövedéki termék nem közösségi áru jellegének fennállásáig, illetve – a vámjogszabályok szerinti alakiságok elvégzése tekintetében – a 7. § 3. pont a) alpont ab) alpont szerinti területről behozott jövedéki termékre, valamint a belföldről harmadik országba kiszállításra kerülő adózatlan jövedéki termékre – az e törvényben szabályozott rendelkezésekkel összhangban – a vámjogszabályok rendelkezéseit kell alkalmazni.
 
 (2) Az (1) bekezdésben foglaltak kivételével
 
@@ -36,7 +36,7 @@ b) a vagyonfelosztás megtörténtével a hitelező, illetve – végelszámolá
 
 adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jövedéki terméket átvevő személy kérelmére – állapítja meg az adót.
 
-(9) Önadózás esetén az adó alapját és az adót naptári hónaponként kell megállapítani, kivéve, ha jogszabály másként rendelkezik. Az adómentes felhasználó az adóbevallási kötelezettségének azon tárgynegyedévet követő hó 20-áig köteles eleget tenni és az adót megfizetni, amelyben a 14. § (4) bekezdése szerint beállt az adómegállapítási és adófizetési kötelezettsége. A nulla adómértékű szőlőborra nem kell adóbevallást benyújtani.
+(9) Önadózás esetén az adó alapját és az adót naptári hónaponként kell megállapítani, kivéve, ha jogszabály másként rendelkezik. Az adómentes felhasználó az adóbevallási kötelezettségének azon tárgynegyedévet követő hó 20. napjáig köteles eleget tenni és az adót megfizetni, amelyben a 14. § (4) bekezdése szerint beállt az adómegállapítási és adófizetési kötelezettsége. A bejegyzett feladó havonta tesz adóbevallást abban az esetben is, ha a tárgyhónapban nem keletkezett adófizetési kötelezettsége. A nulla adómértékű szőlőborra nem kell adóbevallást benyújtani.
 
 (10) A vámhatóság által a (7) bekezdés b), c) pontja alapján kivetett adót az adókivetésről szóló határozat közlését követő 8 napon belül meg kell fizetni.
 
@@ -63,3 +63,5 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 (21) Az adóraktár-engedélyes, az adómentes felhasználó vagy a felhasználói engedélyes terhére a kötelező érvényű vámtarifabesorolással vagy annak megváltoztatásával összefüggő adókötelezettség, illetve jogkövetkezmény a vámtarifabesorolás kötelezővé válásának napját megelőző időszakra nem állapítható meg.
 
 (22) Az adóraktári engedélynek, a keretengedélynek vagy a felhasználói engedélynek a kötelező érvényű vámtarifabesorolás miatt szükségessé váló módosítása iránti kérelmet a kötelező érvényű vámtarifabesorolásról szóló határozat kézhezvételének napját követő 15 napon belül kell benyújtani vagy az engedélyt visszaadni.
+
+(23) A termékkísérő okmány, az üzemszüneti TKO, az üzemszüneti átvételi elismervény és az egyszerűsített kísérő okmány szigorú számadású bizonylat, amellyel kapcsolatban elkövetett jogsértésre a számlára, a nyugtára vonatkozó rendelkezéseket kell alkalmazni.

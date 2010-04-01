@@ -8,9 +8,17 @@ a) az adóraktár engedélyese az adóraktárában tárolja, raktározza;
 
 b) az adómentes felhasználó az üzemében, raktárában tárolja, raktározza;
 
-c) az adóraktár engedélyese az adóraktárából, illetve az adómentes felhasználó az üzeméből, raktárából a 11. § feltételeinek megfelelően adófelfüggesztéssel szállítja, és a betárolás, a harmadik országba való kiléptetés visszaigazolása még nem történt meg, de legfeljebb a kitárolást követő 30. napig.
+c) az adóraktár engedélyese az adóraktárából, illetve az adómentes felhasználó az üzeméből, raktárából a 11. § feltételeinek megfelelően belföldön adófelfüggesztéssel szállítja.
 
-(3) A jövedéki termék importálásával keletkező adókötelezettség esetén az adófizetési kötelezettség felfüggesztésre kerül, ha a jövedéki terméket az importálást követően közvetlenül adóraktárba, illetve adómentes felhasználó üzemébe, raktárába szállítják (ideértve azt az esetet is, ha a harmadik országból vámeljárás keretében behozott és közvetlenül adóraktárba beszállított jövedéki termék a vámjogi szabadforgalomba bocsátás időpontjában adóraktárban található), és a vámkezeléshez az importáló bemutatta annak az adóraktárnak az adóraktári engedélyét, illetve annak az üzemnek, raktárnak a keretengedélyét, ahová a jövedéki terméket szállítják. Amennyiben az importáló személye nem azonos az adóraktár-engedélyes, illetve az adómentes felhasználó személyével, az adófizetési kötelezettség felfüggesztéséhez be kell mutatni az adóraktár-engedélyesnek az importált jövedéki termék befogadásáról adott nyilatkozatát, vagy az adómentes felhasználó megbízását a jövedéki termék importálására, továbbá nyilatkozatát a még rendelkezésére álló adómentes beszerzési keretéről.
+(3) A jövedéki termék importálásával keletkező adókötelezettség esetén az adófizetési kötelezettség felfüggesztésre kerül, ha
+
+a) az importálás helye adóraktár, illetve adómentes felhasználó üzeme, raktára;
+
+b) a jövedéki terméket az importálás helyéről e-TKO-val közvetlenül adóraktárba vagy adómentes felhasználóhoz szállítják, és amennyiben az e-TKO tervezetének kiállítója
+
+ba) adóraktár-engedélyes vagy adómentes felhasználó, a 38. §, illetve a 42. § szerinti jövedéki biztosítékuk összege eléri a harmadik országból behozott jövedéki termékre megállapított adó összegét,
+
+bb) bejegyzett feladó, a bejegyzett feladó jövedéki biztosítékot nyújt a feladott jövedéki termék adójának megfelelő összegben, illetve az általa nyújtott, – a 19. § (7) bekezdés rendelkezését is figyelembe véve – rendelkezésre álló jövedéki biztosíték a feladott jövedéki termék adójára fedezetet biztosít.
 
 (4) Ha az adóraktári engedély megszűnik – kivéve a (6)–(7) bekezdésben foglalt esetet –, az adómegállapítási és adófizetési kötelezettség továbbra is adófelfüggesztés alatt áll a készleten maradt jövedéki terméknek másik adóraktárba történő betárolásáig vagy a szabadforgalomba bocsátásáig, de legfeljebb az engedély megszűnését követő 30. napig.
 
@@ -21,3 +29,5 @@ c) az adóraktár engedélyese az adóraktárából, illetve az adómentes felha
 (7) Ha az adóraktári engedély, illetve az adómentes felhasználó keretengedélye végelszámolás miatt szűnik meg, az adómegállapítási és adófizetési kötelezettség továbbra is adófelfüggesztés alatt áll a készleten maradt jövedéki terméknek a végelszámolás keretében történő szabadforgalomba bocsátásáig vagy másik adóraktárba, adómentes felhasználóhoz való betárolásáig, illetve a vagyonfelosztást követően történő kitárolásáig, de legfeljebb a végelszámolás kezdő időpontjától számított 180 napig.
 
 (8) Amennyiben az adóraktári engedélynek vagy az adómentes felhasználó keretengedélyének megszűnését követő 30 napon belül felszámolási vagy végelszámolási eljárás indul, a készleten maradt jövedéki termék utáni adómegállapítási és adófizetési kötelezettségre a (6)–(7) bekezdés rendelkezését kell alkalmazni.
+
+(9) A jövedéki terméket belföldi rendeltetéssel feladó bejegyzett feladóra a 26/A. § (1), (3)–(5) bekezdés rendelkezéseit értelemszerűen alkalmazni kell azzal, hogy jövedéki biztosítéka az elektronikus átvételi elismervény 11. § (8) bekezdés szerint részére történő továbbításával egyidejűleg szabadul fel, illetve válik ismételten felhasználhatóvá.

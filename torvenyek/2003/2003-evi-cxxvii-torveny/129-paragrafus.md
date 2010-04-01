@@ -6,15 +6,15 @@ a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, 
 
 b)
 
-c) a központi kapcsolattartó szerv, valamint a vegyvizsgáló szerv vagy szervek kijelölését.
+c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő nyilvántartásba vételét végző szerv kijelölését.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben határozza meg
 
-a) az adóraktári engedély, a keretengedély, a jövedéki engedély iránti kérelemre, a bejegyzett/nem bejegyzett kereskedő, adóképviselő, a csomagküldő kereskedő, az adóügyi képviselő, és a felhasználói engedélyes engedélyezésére, a nyilvántartásba vett felhasználó nyilvántartásba vételére, a mobil palackozó és a mobil palackozóval végzett palackozási tevékenység bejelentésére, az üzemi motorikusgáztöltő-állomás üzemeltetőjének bejelentkezésére és vámhatósági nyilvántartásba vételre, továbbá a jövedéki biztosíték nyújtására vonatkozó részletes szabályokat;
+a) az adóraktári engedély, a keretengedély, a jövedéki engedély iránti kérelemre, a bejegyzett kereskedő, a bejegyzett feladó és a felhasználói engedélyes engedélyezésére, a csomagküldő kereskedő, az adóügyi képviselő és a nyilvántartásba vett felhasználó nyilvántartásba vételére, a mobil palackozó és a mobil palackozóval végzett palackozási tevékenység bejelentésére, az üzemi motorikusgáz-töltő állomás üzemeltetőjének bejelentkezésére és vámhatósági nyilvántartásba vételére, továbbá a jövedéki biztosíték nyújtására vonatkozó részletes szabályokat;
 
 b) a jövedéki termék, a megfigyelt termék előállítására, adómentes felhasználására, forgalmazására, szállítására, beszerzésére, beszerzésének és kiszállításának bejelentési kötelezettségére, tárolására, felhasználására, a figyelembe vehető veszteségnormákra vonatkozó részletes szabályokat;
 
-c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, a bizonylatok kiállítására, a jövedéki termékek és a megfigyelt termékek elszámolására, valamint az alkoholtermék-készletforgalmi szabályzatra vonatkozó részletes szabályokat;
+c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására, valamint az alkoholtermék-készletforgalmi szabályzatra vonatkozó részletes szabályokat;
 
 d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
 
@@ -48,7 +48,9 @@ s) a 35. § (1) bekezdés g) pontjának gb) alpontja szerinti egyéb szakképes�
 
 t) a bioüzemanyag kísérleti előállítást végző üzemben történő előállítása engedélyezésének feltételeit, valamint a bioüzemanyag-adóraktár engedélyesére vonatkozó bizonylatolás, nyilvántartás és elszámolás részletes szabályait;
 
-u) a jövedékiadó-bevallás, valamint a vámhatóság felé teljesítendő, e törvényben előírt adatszolgáltatások, elszámolások, bejelentések (értesítések), illetve a zárjegy- és adójegy-megrendelések elektronikus úton történő benyújtásának módját és technikai feltételeit.
+u) a jövedékiadó-bevallás, valamint a vámhatóság felé teljesítendő, e törvényben előírt adatszolgáltatások, elszámolások, bejelentések (értesítések), illetve a zárjegy- és adójegy-megrendelések elektronikus úton történő benyújtásának módját és technikai feltételeit;
+
+v) az e-TKO tervezet és az elektronikus átvételi elismervény 20. § (1) bekezdés szerinti módon történő benyújtásához, továbbításához szükséges eljárás részletes szabályait.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter és a honvédelemért felelős miniszter arra, hogy együttes rendeletben határozza meg
 
@@ -64,4 +66,4 @@ c) az adómegállapítási és adófizetési kötelezettség alóli, e törvény
 
 (6)
 
-(7) Felhatalmazást kap az adópolitikáért felelős miniszter és a külpolitikáért felelős miniszter arra, hogy együttes rendeletben határozza meg a diplomáciai és konzuli képviselet, a diplomáciai és konzuli képviselet tagja, valamint a nemzetközi szervezet vagy képviselete és ezek tisztviselője által megfizetett adó, továbbá az általuk az adójeggyel ellátott dohánygyártmány után megfizetett általános forgalmi adó visszaigénylésének részletes szabályait.
+(7) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy – a külpolitikáért felelős miniszterrel és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a diplomáciai és konzuli képviselet, a diplomáciai és konzuli képviselet tagja, a nemzetközi szervezet vagy képviselete és ezek tisztviselője, valamint az ezekkel egy tekintet alá eső személyek és szervezetek által megfizetett adó, továbbá az általuk adójeggyel ellátott dohánygyártmány után megfizetett általános forgalmi adó visszaigénylésének részletes szabályait.

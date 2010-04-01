@@ -6,22 +6,28 @@
 
 ## ZÁRÓ RENDELKEZÉS
 
-122. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+122. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács – legutóbb a Tanács 2004/106/EK irányelvével módosított – 92/12/EGK irányelve a jövedéki termékekre vonatkozó általános rendelkezésekről és e termékek tartásáról, szállításáról és ellenőrzéséről;
+a) a Tanács 2008/118/EK irányelve (2008. december 16.) a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről,
 
-b) a Tanács – legutóbb a Tanács 2003/117/EK irányelvével módosított – 92/79/EGK irányelve a cigaretták adójának közelítéséről;
+b) a Tanács 2003/96/EK irányelve (2003. október 27.) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről,
 
-c) a Tanács – legutóbb a Tanács 2003/117/EK irányelvével módosított – 92/80/EGK irányelve a cigarettán kívüli egyéb dohánygyártmányok adójának közelítéséről;
+c) a Tanács 2004/74/EK irányelve (2004. április 29.) a 2003/96/EK irányelvnek az energiatermékek és a villamos energia vonatkozásában egyes tagállamok részére az ideiglenes adómentesség vagy kedvezményes adómérték alkalmazásának lehetősége tekintetében történő módosításáról,
 
-d) a Tanács – legutóbb a Tanács 2002/10/EGK irányelvével módosított – 95/59/EGK irányelve a dohánygyártmányok fogyasztását érintő, a forgalmi adón kívüli egyéb adókról;
+d) a Tanács 92/83/EGK irányelve (1992. október 19.) az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról,
 
-e) a Tanács 92/83/EGK irányelve az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról;
+e) a Tanács 92/84/EGK irányelve (1992. október 19.) az alkohol és az alkoholtartalmú italok jövedékiadó-mértékének közelítéséről,
 
-f) a Tanács 92/84/EGK irányelve az alkohol és az alkoholtartalmú italok jövedéki adó mértékének közelítéséről;
+f) a Tanács 92/79/EGK irányelve (1992. október 19.) a cigaretták adójának közelítéséről,
 
-g) a Tanács 2003/96/EK irányelve az energiatermékek és a villamos áram közösségi adóztatási keretének átalakításáról;
+g) a Tanács 92/80/EGK irányelve (1992. október 19.) a cigarettán kívüli dohánygyártmány adójának közelítéséről,
 
-h) a Tanács 95/60/EK irányelve a gázolaj és a kerozin adóügyi jelölőanyagáról;
+h) a Tanács 95/59/EK irányelve (1995. november 27.) a dohánygyártmányok fogyasztását érintő, a forgalmi adón kívüli egyéb adókról,
 
-i) a Tanács – legutóbb a Tanács 2000/47/EK irányelvével módosított – 69/169/EGK irányelve a nemzetközi utazás során alkalmazott import forgalmi és jövedéki adó alól nyújtott mentességre vonatkozó törvényi, rendeleti vagy közigazgatási intézkedés által megállapított rendelkezés összehangolásáról.
+i) a Tanács 1999/81/EK irányelve (1999. július 29.) a cigaretták adójának közelítéséről szóló 92/79/EGK irányelv, a cigarettán kívüli dohánygyártmányok adójának közelítéséről szóló 92/80/EGK irányelv és a dohánygyártmányok fogyasztását érintő, a forgalmi adón kívüli egyéb adókról szóló 95/59/EK irányelv módosításáról,
+
+j) a Tanács 2002/10/EK irányelve (2002. február 12.) a feldolgozott dohányra kivetett jövedéki adók szerkezete és adókulcsai tekintetében a 92/79/EGK, a 92/80/EGK és a 95/59/EK irányelv módosításáról,
+
+k) a Tanács 2007/74/EK irányelve (2007. december 20.) a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről,
+
+l) a Tanács 2008/55/EK irányelve (2008. május 26.) az egyes lefölözésekből, vámokból, adókból és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról.

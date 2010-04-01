@@ -1,7 +1,17 @@
 ## A vámhatóság különös jogosultsága az adó beszedésére
 
-23. § (1) Amennyiben kétséget kizáróan, igazoltan megállapítható, hogy közösségi adófelfüggesztési eljárásban, belföldön keresztül szállított jövedéki termék belföldön tűnt el, vagy az adóköteles hiány belföldön keletkezett, vagy a jövedéki termék eltűnését, adóköteles hiányát belföldön derítették fel, a vámhatóság jogosult az adó beszedésére a cselekmény felderítésekor belföldön hatályos adómérték figyelembevételével.
+23. § (1) Abban az esetben, ha
+
+a) a vámhatóság megállapítja, hogy a közösségi adófelfüggesztési eljárásban más tagállamban feladott, belföldön átszállított jövedéki termék adófelfüggesztés alóli szabálytalan kikerülése belföldön következett be, vagy
+
+b) a közösségi adófelfüggesztési eljárásban más tagállamban feladott, belföldön átszállított jövedéki termék adófelfüggesztés alóli szabálytalan kikerülésének helye ugyan nem állapítható meg, de azt a vámhatóság belföldön észleli,
+
+a vámhatóság jogosult – az a) pont szerinti esetben a szabálytalanság megtörténtekor, a b) pont szerinti esetben a szabálytalanság felderítésekor belföldön hatályos adómérték figyelembevételével – az adó beszedésére.
 
 (2) Az (1) bekezdés szerinti esetben adófizetésre kötelezett az a személy, aki a közösségi adófelfüggesztési eljárásban végzett szállításra a jövedéki biztosítékot nyújtotta.
 
-(3) A vámhatóság az adó (1)–(2) bekezdés szerinti beszedéséről köteles haladéktalanul tájékoztatni a jövedéki termék feladása szerinti tagállam illetékes hatóságát.
+(3) A vámhatóság az (1) bekezdés a), illetve b) pontban foglalt esetről, illetve annak alapján keletkezett adóbeszedési jogosultságáról értesítést küld a feladás helye szerinti tagállam illetékes hatóságának.
+
+(4) A vámhatóság adóbeszedési joga az (1) bekezdés a) pontja szerinti esetben a jövedéki termék más tagállam adóraktárából történt kitárolásától vagy más tagállam bejegyzett feladója általi feladásától számított 3 éven belül áll fenn.
+
+(5) Az (1) bekezdés b) pontja alapján beszedett adót a vámhatóság a (2) bekezdés szerinti személynek – a vámhatóság által küldött értesítést követően benyújtott kérelme alapján – visszatéríti, ha a jövedéki termék kitárolásától, illetve feladásától számított 3 éven belül megállapítják, hogy az adófelfüggesztés alóli szabálytalan kikerülés ténylegesen mely más tagállamban következett be. Az adó-visszatérítés az adó más tagállamban történt kivetéséről a tagállam illetékes hatósága által kiállított, vámhatóságnak kiadott hivatalos értesítés birtokában teljesíthető.

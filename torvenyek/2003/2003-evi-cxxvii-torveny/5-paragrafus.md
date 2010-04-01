@@ -6,6 +6,8 @@
 
 (3) Az Európai Unió adóügyi együttműködési szabályainak jövedéki adóval kapcsolatos alkalmazása tekintetében a vámhatóság Kormány által kijelölt szerve (a továbbiakban: központi kapcsolattartó szerv) jár el.
 
-(4) Helyszíni ellenőrzés keretében a jövedéki terméket forgalmazóknál az adóhatóság köteles jövedéki ellenőrzést is lefolytatni, az adófelfüggesztés alatt álló jövedéki termékek forgalmazásának ellenőrzése kivételével.
+(4) A csomagküldő kereskedő és a csomagküldő kereskedő adóügyi képviselője e törvény szerinti nyilvántartásba vételével kapcsolatos ügyekben a vámhatóság Kormány által kijelölt szerve (a továbbiakban: csomagküldő kereskedő nyilvántartásba vételét végző szerv) jár el.
 
-(5) Halaszthatatlan ellenőrzési és eljárási cselekményeket a hatáskörrel rendelkező szerv az illetékességi területén kívül is végezhet, amelyről haladéktalanul tájékoztatja az illetékességgel rendelkezőt.
+(5) Helyszíni ellenőrzés keretében a jövedéki terméket forgalmazóknál az adóhatóság köteles jövedéki ellenőrzést is lefolytatni, az adófelfüggesztés alatt álló jövedéki termékek forgalmazásának ellenőrzése kivételével.
+
+(6) Halaszthatatlan ellenőrzési és eljárási cselekményeket a hatáskörrel rendelkező szerv az illetékességi területén kívül is végezhet, amelyről haladéktalanul tájékoztatja az illetékességgel rendelkezőt.

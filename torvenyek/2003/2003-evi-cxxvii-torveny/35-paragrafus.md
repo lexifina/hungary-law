@@ -10,7 +10,7 @@ d) aki a 38. § szerinti jövedéki biztosítékot nyújtja (rendelkezésre bocs
 
 e) aki az adóraktári engedély kiadása évét követő évtől független könyvvizsgáló által hitelesített (auditált) mérleggel rendelkezik;
 
-f) aki a jövedéki termék adó-felfüggesztéssel és adózottan történő kitárolására vonatkozó, a 40. § (9) bekezdésében előírt adatszolgáltatási kötelezettséget a vámhatósággal közvetlen számítógépes kapcsolati rendszerben, elektronikus úton teljesíti;
+f) aki a 40. § (9) bekezdésében előírt adatszolgáltatási kötelezettségét elektronikus úton, a vámhatósággal létesített közvetlen számítógépes kapcsolati rendszerben teljesíti;
 
 g) aki
 

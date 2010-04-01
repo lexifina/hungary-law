@@ -28,9 +28,9 @@ adható.
 
 a) a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló helyen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzlet és az üzlet áruellátását biztosító raktár együttes területére (a továbbiakban: tranzitadóraktár),
 
-b) a vámraktárban és a vámszabadterület raktározási célra elkülönített területén kialakított raktárra, ha ott belföldi adóraktárból betárolt alkoholterméket kizárólag harmadik országba történő kiléptetés céljából raktároznak (a továbbiakban: vámadóraktár).
+b)
 
-(3) A tranzit- és a vámadóraktárban alkoholtermék mellett adózatlan sör, bor, pezsgő, köztes alkoholtermék és dohánygyártmány a (2) bekezdés szerinti céllal történő adómentes tárolása is megengedett.
+(3) A tranzitadóraktárban alkoholtermék mellett adózatlan sör, bor, pezsgő, köztes alkoholtermék és dohánygyártmány a (2) bekezdés szerinti céllal történő adómentes tárolása is megengedett.
 
 (4) Az italgyár és a szeszfőzde engedélyesének üzemi szeszraktárába nem saját előállítású, 2208 vámtarifaszám alá tartozó alkoholtermék legfeljebb az egy naptári év alatt előállított, a 73. § (9)–(10) bekezdése szerinti kiszerelésű, saját gyártású alkoholtermék 25%-ának megfelelő mennyiségben tárolható be évente. Az italgyár és a szeszfőzde engedélyese ezt meghaladó mennyiséget abban az esetben tárolhat be az üzemi szeszraktárába, ha a (6) bekezdésben foglalt feltételt, továbbá az alkoholtároló adóraktár esetében nyújtandó jövedéki biztosítékot külön teljesíti. A szeszüzem engedélyesének üzemi szeszraktárába nem saját előállítású, 2207 vámtarifaszám alá tartozó alkoholtermék legfeljebb az egy naptári év alatt előállított saját gyártású alkoholtermék 25%-ának megfelelő mennyiségben tárolható be évente.
 

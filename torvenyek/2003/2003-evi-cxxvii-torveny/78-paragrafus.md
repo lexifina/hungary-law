@@ -18,7 +18,7 @@ adható.
 
 (3) A sörtároló adóraktárban a sörön kívül adózatlan, a 73. § (9)–(10) bekezdése szerint kiszerelt alkoholtermék, bor, pezsgő és köztes alkoholtermék tárolása is megengedett.
 
-(4) Az (1) bekezdésben foglalt eseteken kívül a sör adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra és vámadóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
+(4) Az (1) bekezdésben foglalt eseteken kívül a sör adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
 
 (5) A sörtároló adóraktárra a 72. § (6) bekezdésének rendelkezéseit is alkalmazni kell.
 

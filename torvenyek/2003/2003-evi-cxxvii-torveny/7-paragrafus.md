@@ -36,23 +36,47 @@ o) a cseppfolyósított szénhidrogénnek a külön jogszabály szerint pébég�
 
 p) nemzeti vagy uniós támogatás igénybevételével megvalósuló, a kutatás-fejlesztésről és technológiai innovációról szóló törvény szerinti kísérleti fejlesztés (a továbbiakban: kísérleti fejlesztés) keretében a külön jogszabály szerinti bioüzemanyagnak (a továbbiakban: bioüzemanyag) adózott benzinbe vagy adózott gázolajba adózottan történő bekeverését, amennyiben azt a vámhatóságnak előzetesen bejelentették (a továbbiakban: kísérleti célú előállítás).
 
-2. jövedéki termék importálása: jövedéki terméknek harmadik országból közvetlenül vagy más tagállam(ok)on keresztül belföldre történő behozatala, beleértve az e § 3. pontjának a) alpontjában megjelölt területekről és a Csatorna-szigetekről történő behozatalt is. Amennyiben a jövedéki termék a vámeljárás keretében lép be belföldre, az importálás a vámeljárásnak a jövedéki termék vámjogi szabadforgalomba bocsátását eredményező lezárásával egyidejűleg valósul meg;
+2. jövedéki termék importálása: jövedéki terméknek harmadik országból közvetlenül vagy más tagállam(ok)on keresztül belföldre történő behozatala azzal, hogy amennyiben a jövedéki termék vámeljárás keretében lép be belföldre, az importálás a vámeljárásnak a jövedéki termék vámjogi szabad forgalomba bocsátását eredményező lezárásával egyidejűleg valósul meg;
+
+2/A. importálás helye: az a hely, ahol a jövedéki termék a vámjogi szabad forgalomba bocsátásakor van;
 
 3. Közösség: az Európai Gazdasági Közösséget létrehozó szerződésben meghatározott tagállamok területe azzal az eltéréssel, hogy
 
-a) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno és Campione d'Italia területe, valamint a Luganói-tó olasz vizei, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint a Kanári-szigetek, a Francia Köztársaság esetében a Francia Köztársaság tengeren túli megyéi nem tekintendők a tagállamhoz tartozónak,
+a) nem tekintendők a tagállamhoz tartozónak
 
-b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man-sziget Nagy-Britannia és Észak-Írország Egyesült Királysága területéhez, San Marino az Olasz Köztársaság területéhez tartozónak tekintendő;
+aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno és Campione d'Italia területe, valamint a Luganói-tó olasz vizei, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint
+
+ab) a Francia Köztársaság esetében a Francia Köztársaság tengeren túli megyéi, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Ĺland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
+
+b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man sziget az Egyesült Királyság területéhez, San Marino az Olasz Köztársaság területéhez, az Egyesült Királyság ciprusi felségterületei (Akrotiri és Dhekelia) Ciprus területéhez tartozónak tekintendő;
 
 4. tagállam: az Európai Unió tagállama a 3. pont a) és b) alpontjában foglalt eltérések alkalmazásával;
 
-5. harmadik ország: a Közösségen kívüli területen található állam, ideértve az EFTA-országokat is;
+5. harmadik ország: a Közösségen kívül található állam, illetve terület;
 
-6. EFTA-ország: Norvégia, Svájc, Liechtenstein, Izland;
+6.
 
-7. közösségi adófelfüggesztési eljárás: az adó fizetésének halasztása a Közösségen belül az e törvény 19–22. §-a és 24–26. §-a szerint szállított, illetve tagállam(ok)on keresztül harmadik országból vagy harmadik országba vámeljárásban szállított jövedéki termékekre;
+7. közösségi adófelfüggesztési eljárás: az adó fizetésének halasztása a jövedéki termék 18. § (1)–(4) bekezdéseiben meghatározott viszonylatban történő, 19–22. §-ok és 24–26/B. §-ok szerint végzett szállítása során;
 
-8. belső közösségi árutovábbítási eljárás: a Vámkódex 163. cikkének 2. a) pontja szerinti, az áruk a Közösség vámterületén belüli szállítása során alkalmazandó eljárás;
+7/A. e-TKO: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló, 2003. július 16-ai 1152/2003/EK európai parlamenti és tanácsi határozattal létrehozott, a Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszerben (a továbbiakban: uniós számítógépes rendszer) a jövedéki termék feladója által kitöltött, a tagállam illetékes hatósága által megadott egyedi adminisztratív hivatkozási kóddal (a továbbiakban: AHK-szám) ellátott, a Bizottságnak a 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról szóló 2009. július 24-ei 684/2009/EK rendeletében (a továbbiakban: EK rendelet) meghatározott adattartalmú elektronikus okmány;
+
+7/B. elektronikus átvételi elismervény: az e-TKO-val feladott jövedéki termék címzettje által a jövedéki termék átvételéről a 20. § (1) bekezdés a) vagy b) pont szerint benyújtott, az EK rendeletben meghatározott adattartalmú elektronikus okmány;
+
+7/C. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön a vámhatóság) által az uniós számítógépes rendszerben kiállított, az EK rendeletben meghatározott adattartalmú elektronikus okmány;
+
+7/D. kiléptető vámhivatal: a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 1993. július 2-ai 2454/93/EGK bizottsági rendelet 793. cikkének (2) bekezdésében említett kiléptető vámhivatal;
+
+7/E. kivitel helye szerinti tagállam: az a tagállam, amelyben a vámjogszabályok szerinti kiviteli vámkezelést kérik;
+
+7/F. üzemszüneti TKO: az e-TKO tervezetében [20. § (1) bekezdés] szereplőkkel azonos adatokat és rovathivatkozásokat tartalmazó, az EK rendelet vonatkozó rendelkezései szerint kiállított papír alapú okmány;
+
+7/G. üzemszüneti átvételi elismervény: az elektronikus átvételi elismervényben foglaltakkal azonos adatokat és rovathivatkozásokat tartalmazó, a címzett adóraktár-engedélyes, bejegyzett kereskedő által kiállított papír alapú okmány,
+
+7/H. üzemszüneti kiviteli elismervény: az elektronikus kiviteli elismervényben foglaltakkal azonos adatokat és rovathivatkozásokat tartalmazó, a kivitel helye szerinti tagállam illetékes hatósága által kiállított papír alapú okmány;
+
+7/I. adófelfüggesztés alóli szabálytalan kikerülés: olyan cselekmény vagy olyan körülmény fennállása, amely nem eredményezi a közösségi adófelfüggesztési eljárásban szállított jövedéki termékre felfüggesztett adómegállapítási és adófizetési kötelezettség alóli, 21. § (1) bekezdés, illetve 26/B. § (3) bekezdés szerinti mentesülést;
+
+8.
 
 9. vámtarifaszám: a Tanács 2658/87/EGK rendeletének
 
@@ -72,41 +96,29 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 15. tagállami adóraktár-engedélyes: az a más tagállamban gazdasági tevékenységet folytató személy, aki adóraktár működtetésére a tagállama szabályai szerinti érvényes engedéllyel rendelkezik;
 
-16. bejegyzett kereskedő: az a személy, aki a vámhatóság e törvényben meghatározott engedélye birtokában, illetve valamely tagállam illetékes hatóságának a jóváhagyása alapján jogosult más tagállamból a közösségi adófelfüggesztési eljárásban szállított jövedéki termék rendszeres fogadására;
+16. bejegyzett kereskedő: az a személy, aki a rendeltetési hely szerinti tagállam illetékes hatósága (belföldön a vámhatóság) által kiadott engedély alapján, gazdasági tevékenysége keretében jogosult más tagállamból a közösségi adófelfüggesztési eljárásban szállított jövedéki termék rendszeres vagy eseti fogadására;
 
-17. nem bejegyzett kereskedő: az a személy, aki a vámhatóság, illetve valamely tagállam illetékes hatóságának eseti jóváhagyásával jogosult más tagállamból a közösségi adófelfüggesztési eljárásban szállított jövedéki termék eseti fogadására;
+17. bejegyzett feladó: az a személy, aki a vámjogi szabad forgalomba bocsátás helye szerinti tagállam illetékes hatósága (belföldön a vámhatóság) által kiadott engedély alapján, gazdasági tevékenysége keretében jogosult arra, hogy – az e-TKO tervezetének kiállításával – rendelkezzen a harmadik országból behozott, vámjogilag szabad forgalomba bocsátott jövedéki terméknek az importálás helyéről az adó fizetésének halasztása mellett az e törvényben meghatározott rendeltetési helyre történő továbbszállításáról;
 
 18. adómentes felhasználó: a jövedéki termék adómentes beszerzésére az e törvényben meghatározott engedéllyel rendelkező, a jövedéki terméket az e törvényben meghatározott adómentes célra felhasználó személy;
 
 19. felhasználói engedélyes: az a személy, aki – az e törvényben meghatározott engedély birtokában – jogosult egyéb ellenőrzött ásványolaj beszerzésére, felhasználására, kiszerelésére, megfigyelt termék beszerzésére, előállítására, felhasználására, kiszerelésére, a teljesen denaturált alkoholtermék kiszerelésére;
 
-20. közjogi intézmény:
+20.
 
-a) a minisztériumok, a tárca nélküli miniszterek hivatali szervei, a központi költségvetésben önálló fejezettel rendelkező szervek, továbbá más, fejezeti jogosítványokkal felhatalmazott szervek – ideértve a Magyar Tudományos Akadémiát mint köztestületet is –, valamint a felügyeletük alá tartozó költségvetési szervek;
-
-b) a helyi önkormányzatok és a helyi kisebbségi önkormányzatok, valamint a felügyeletük alá tartozó költségvetési szervek,
-
-c) az elkülönített állami pénzalapok és azok kezelői,
-
-d) a társadalombiztosítás pénzügyi alapjai és a társadalombiztosítási költségvetési szervek,
-
-e) az országos kisebbségi önkormányzatok és az országos kisebbségi önkormányzati költségvetési szervek,
-
-f) a területfejlesztésről és a területrendezésről szóló törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsok és munkaszervezeteik;
-
-21. gazdasági tevékenység: a bevétel elérése érdekében vagy azt eredményező módon rendszeresen vagy üzletszerűen végzett tevékenység;
+21. gazdasági tevékenység: a bevétel elérése érdekében vagy azt eredményező módon rendszeresen vagy üzletszerűen, független formában végzett tevékenység;
 
 21/A. gazdasági célú légiközlekedési tevékenység: bevétel elérése érdekében vagy azt eredményező módon rendszeresen vagy üzletszerűen, ellenszolgáltatás fejében, légi közlekedési tevékenység keretében végzett személy- vagy áruszállítás;
 
-22. szabadforgalomba bocsátás: a jövedéki termék adóraktárból, tagállami adóraktárból, illetve adómentes felhasználó üzeméből történő kitárolása – kivéve, ha a kitárolás adóraktárba, tagállami adóraktárba, más tagállam bejegyzett/nem bejegyzett kereskedője részére, harmadik országba vagy adómentes felhasználó részére történik –; a jövedéki termék bejegyzett/nem bejegyzett kereskedő általi fogadása; az adóraktárban a szőlőbornak a külön jogszabályban meghatározott termelői borkimérés céljára történő felhasználása; a harmadik országból behozott jövedéki termék vámjogi szabadforgalomba bocsátását eredményező vámkezelése vagy a vámhatóság olyan intézkedése, amelynek eredményeként a jövedéki terméket vámjogilag szabadforgalomba bocsátottnak kell tekinteni, ha a vámkezelést vagy az intézkedést követően a jövedéki terméket nem tárolják be adóraktárba vagy adómentes felhasználóhoz;
+22. szabad forgalomba bocsátás: a jövedéki termék adóraktárból, tagállami adóraktárból, illetve adómentes felhasználó üzeméből történő kitárolása – kivéve, ha a kitárolás adóraktárba, tagállami adóraktárba, más tagállam bejegyzett kereskedője részére, harmadik országba vagy adómentes felhasználó részére történik –; a jövedéki termék bejegyzett kereskedő általi fogadása; az adóraktárban a szőlőbor termelői borkimérés céljára történő felhasználása; a harmadik országból behozott jövedéki termék vámjogi szabad forgalomba bocsátását eredményező vámkezelése vagy a vámhatóság olyan intézkedése, amelynek eredményeként a jövedéki terméket vámjogilag szabad forgalomba bocsátottnak kell tekinteni, ha a jövedéki terméket a vámkezelést vagy az intézkedést követően nem tárolják be adóraktárba, adómentes felhasználóhoz, vagy azt nem adja fel bejegyzett feladó a 18. § (2) bekezdésben hivatkozott 18. § (1) bekezdés szerinti rendeltetési hellyel;
 
 23. szabadforgalom: a szabadforgalomba bocsátott jövedéki termékekkel folytatott gazdasági tevékenység;
 
 24. kitárolás: a jövedéki termék fizikai mozgatása, amelynek közvetlen következményeként a jövedéki termék az adóraktár területét, az adómentes felhasználó vagy a felhasználói engedélyes üzemét, raktárát elhagyja;
 
-25. betárolás: a jövedéki termék fizikai mozgatása, amelynek közvetlen következményeként a jövedéki termék az adóraktár területére vagy az adómentes felhasználó üzemébe, raktárába beszállításra kerül. Amennyiben a harmadik országból vámeljárás keretében behozott és közvetlenül adóraktárba beszállított jövedéki termék vámjogi szabadforgalomba bocsátása adóraktárban történik, a betárolás a jövedéki termék vámjogi szabadforgalomba bocsátásával valósul meg;
+25. betárolás: az adófelfüggesztéssel, illetve a közösségi adófelfüggesztési eljárásban szállított jövedéki termék fizikai mozgatása, amelynek közvetlen következményeként a jövedéki termék a címzett adóraktárába, illetve üzemébe, raktárába beszállításra és a címzett által az e törvény szerinti okmányon feltüntetett rendeltetési helyen ténylegesen átvételre kerül. Amennyiben a harmadik országból vámeljárás keretében behozott és közvetlenül adóraktárba beszállított jövedéki termék vámjogi szabad forgalomba bocsátása adóraktárban, illetve adómentes felhasználó üzemében, raktárában történik, a betárolás a jövedéki termék vámjogi szabad forgalomba bocsátásával valósul meg;
 
-26. jövedéki termék fogadása: bejegyzett/nem bejegyzett kereskedő részére más tagállamból közösségi adófelfüggesztési eljárásban belföldre szállított jövedéki termék átvétele a terméket kísérő okmányon [20. § (1)–(2) bekezdés] feltüntetett rendeltetési helyen;
+26. jövedéki termék fogadása: bejegyzett kereskedő részére más tagállamból közösségi adófelfüggesztési eljárásban belföldre szállított jövedéki termék tényleges átvétele az e-TKO-n feltüntetett rendeltetési helyen;
 
 27. jövedéki ügy: a jövedéki termékkel, az adójeggyel, a zárjeggyel összefüggő adó- és egyéb kötelezettségek teljesítése, hatósági felügyelete, jövedéki ellenőrzése és az ezekkel kapcsolatos eljárás;
 
@@ -158,8 +170,8 @@ f) a területfejlesztésről és a területrendezésről szóló törvény hatá
 
 45. csomagátvizsgáló berendezés: olyan eszköz, amely a csomag felbontása nélkül a csomagban lévő tárgy körvonalait, formáját, méretét teszi láthatóvá.
 
-[46. teljes megsemmisülés vagy helyrehozhatatlan károsodás: a jövedéki termék tulajdonságaiból adódó vagy előre nem látható körülmények – kivéve lopás – vagy vis major miatt bekövetkezett olyan megsemmisülés vagy károsodás, amely a jövedéki termékként történő felhasználásra való alkalmatlanságot eredményezi;
+46. teljes megsemmisülés vagy helyrehozhatatlan károsodás: a jövedéki termék tulajdonságaiból adódó vagy előre nem látható körülmények – kivéve lopás – vagy vis major miatt bekövetkezett olyan megsemmisülés vagy károsodás, amely a jövedéki termékként történő felhasználásra való alkalmatlanságot eredményezi;
 
-47. magánszemély: jövedéki termékkel gazdasági tevékenységet nem folytató természetes személy;]
+47. magánszemély: jövedéki termékkel gazdasági tevékenységet nem folytató természetes személy;
 
 48. termelői borkimérés: az egyszerűsített adóraktárban a saját termelésű szőlőbornak elvitelre vagy borkóstolás céljából helyben fogyasztásra, nem a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. § 30. pontja szerinti vendéglátás keretében történő értékesítése.

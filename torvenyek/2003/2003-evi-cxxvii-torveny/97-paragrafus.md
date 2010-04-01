@@ -20,7 +20,7 @@ d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 szá
 
 (4) Az általános forgalmi adó alapja az (5) bekezdés szerinti, az általános forgalmi adót is tartalmazó kiskereskedelmi eladási ár. Az általános forgalmi adó mértéke az áfatörvény általános adó mértékének megfelelő azon százalékérték, amelyet akkor kell alkalmazni, amikor az adott pénzösszeget úgy kell tekinteni, mint amely fizetendő általános forgalmi adót is tartalmaz.
 
-(5) Kiskereskedelmi eladási ár – a (6) bekezdésben foglalt eltéréssel – a dohánygyártmány adóraktár engedélyese, a bejegyzett/nem bejegyzett kereskedő, illetve az importáló által meghatározott, az adójegyen feltüntetett, az adót és az általános forgalmi adót tartalmazó ár.
+(5) Kiskereskedelmi eladási ár – a (6) bekezdésben foglalt eltéréssel – a dohánygyártmány adóraktár engedélyese, a bejegyzett kereskedő, illetve az importáló által meghatározott, az adójegyen feltüntetett, az adót és az általános forgalmi adót tartalmazó ár.
 
 (6) Az adójegy nélküli dohánygyártmány esetében, ha ugyanazon termékválasztékot
 

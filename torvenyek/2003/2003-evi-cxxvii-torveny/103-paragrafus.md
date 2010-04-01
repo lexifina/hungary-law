@@ -18,17 +18,17 @@ c) a szabadforgalomba bocsátott, az e bekezdés a) és b) pontjában nem említ
 
 d) a szabadforgalomba bocsátott jövedéki termék bértárolása, kivéve az üzemi motorikusgáztöltő-állomás tárolótartályának az üzemeltetővel egy telephelyen működő személy részére szerződés alapján végzett bértárolást;
 
-e) jövedéki termék gazdasági tevékenység keretében, kereskedelmi vagy felhasználási céllal vagy egy közjogi intézmény céljaira más tagállamból, nem közösségi adófelfüggesztési eljárás keretében történő behozatala vagy gazdasági tevékenység keretében más tagállamba történő kivitele, nem értve ide a jövedéki termék adóraktár-engedélyes általi kivitelét, adóraktár-engedélyes vagy felhasználói engedélyes általi behozatalát, jövedéki terméknek jogi személyek és jogi személyiség nélküli szervezetek által történő, a 29. § (2) bekezdés alapján nem gazdasági célú beszerzésnek minősíthető behozatalát vagy ilyennek minősíthető kivitelét, továbbá a jövedéki termék csomagküldő kereskedelem keretében történő behozatalát, kivitelét (a továbbiakban: közösségi kereskedelmi tevékenység);
+e) a szabad forgalomba bocsátott jövedéki termék gazdasági tevékenység keretében, a 27. § (2) bekezdés szerinti kereskedelmi célú beszerzés céljára más tagállamba történő kiszállítása vagy más tagállamból történő behozatala, nem értve ide a szabad forgalomba bocsátott jövedéki termék adóraktár-engedélyes általi kivitelét, adóraktár-engedélyes vagy felhasználói engedélyes általi behozatalát, a jövedéki termék csomagküldő kereskedelem keretében történő behozatalát, kivitelét (a továbbiakban: közösségi kereskedelmi tevékenység);
 
-2. nem jövedéki engedélyes kereskedelmi tevékenység: a (4)–(6) bekezdésben foglalt eltéréssel a szabadforgalomba bocsátott jövedéki terméknek nem az 1. pont szerinti jövedéki engedélyes kereskedelmi, vagy nem a 3. pont szerinti exporttevékenység keretében történő beszerzése, készletezése és értékesítése, az e bekezdés 1. pontjának e) alpontjában és 3. pontjában említett kivételekkel;
+2. nem jövedéki engedélyes kereskedelmi tevékenység: a (4)–(6) bekezdésben foglalt eltéréssel a szabad forgalomba bocsátott jövedéki terméknek nem az 1. pont szerinti jövedéki engedélyes kereskedelmi, vagy nem a 3. pont szerinti exporttevékenység keretében történő beszerzése, készletezése és értékesítése, kivéve az e bekezdés 1. pontjának e) alpontjában említett kivételeket, valamint a magánszemély adómentes és adóköteles behozatalát más tagállamból vagy harmadik országból;
 
 3. export- és importtevékenység: az a tevékenység, amelynek során a személy jövedéki termék harmadik országból történő behozatalát vagy harmadik országba történő kivitelét gazdasági tevékenység keretében saját nevében végzi, kivéve
 
-a) a 9. § (1)–(2) bekezdésében foglalt, valamint az Utasforgalmi tv. szerint adómentes termék behozatalát,
+a) a 9. § (1)–(2) bekezdése szerinti adómentes jövedéki termék behozatalát,
 
 b)
 
-c) a jövedéki termék jogi személyek és jogi személyiség nélküli szervezetek által történő, a 29. § (2) bekezdés alapján nem gazdasági célú beszerzésnek minősíthető behozatalát vagy ilyennek minősíthető kivitelét,
+c) jövedéki terméknek a behozatalát vagy kivitelét jövedéki termékkel gazdasági tevékenységet nem folytató gazdálkodó szervezet által,
 
 d) az ideiglenes behozatali vámeljárás jogcímén jövedéki termék kiállításra történő behozatalát,
 

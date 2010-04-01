@@ -10,7 +10,7 @@ c) a pezsgőüzem engedélyesének a gyártóüzeme területén vagy a gyártó�
 
 d) a kiszerelt pezsgő önálló tárolását, raktározását végző raktárra (a továbbiakban: pezsgőtároló adóraktárra).
 
-(2) Az (1) bekezdésben foglalt eseteken kívül a pezsgő adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra és vámadóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
+(2) Az (1) bekezdésben foglalt eseteken kívül a pezsgő adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
 
 (3) A jövedéki biztosítékot – ide nem értve a (2) bekezdés szerinti adóraktárt – adóraktár engedélyesenként legfeljebb 30 millió forint, illetve a pezsgőtároló adóraktár esetében legalább 1 millió forint, de legfeljebb 30 millió forint értékben kell nyújtani. Amennyiben az e törvény 38. § (2) bekezdés szerinti, az (5) bekezdés rendelkezését is figyelembe véve meghatározott jövedéki biztosíték összege nem éri el az 500 ezer forintot, a jövedéki biztosíték nyújtásától az (1) bekezdés a)–c) pontja szerinti adóraktárak esetében el kell tekinteni.
 
