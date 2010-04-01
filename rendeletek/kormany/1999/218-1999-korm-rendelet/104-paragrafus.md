@@ -4,6 +4,6 @@
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^143] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az ÁNTSZ regionális vagy kistérségi intézete hatáskörébe is tartozik.
+(2)[^145] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az ÁNTSZ regionális vagy kistérségi intézete hatáskörébe is tartozik.
 
-[^143]: A 104. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^145]: A 104. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

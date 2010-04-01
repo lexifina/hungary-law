@@ -4,7 +4,7 @@
 
 ## A légiközlekedés biztonságát szolgáló szabályok megszegése
 
-58/A. §[^82] (1) Aki a légiközlekedés biztonságát szolgáló szabályokat megszegi vagy a repülés biztonságát szolgáló létesítmények, illetőleg berendezések működését zavarja,
+58/A. §[^84] (1) Aki a légiközlekedés biztonságát szolgáló szabályokat megszegi vagy a repülés biztonságát szolgáló létesítmények, illetőleg berendezések működését zavarja,
 
 százezer forintig terjedő pénzbírsággal sújtható.
 
@@ -16,4 +16,4 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-[^82]: Az 58/A. §-t és az előtte lévő alcímet a 23/2000. (III. 8.) Korm. rendelet 12. §-a iktatta a szövegbe.
+[^84]: Az 58/A. §-t és az előtte lévő alcímet a 23/2000. (III. 8.) Korm. rendelet 12. §-a iktatta a szövegbe.

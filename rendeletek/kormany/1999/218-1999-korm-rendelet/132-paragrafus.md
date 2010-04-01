@@ -12,6 +12,6 @@ b) kazán vagy nyomástartó berendezés, illetőleg tároló tartály üzemelte
 
 harmincezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^162] Az (1)–(2) bekezdésben meghatározott szabálysértés esetén az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, továbbá a bányakapitányság hatáskörébe is tartozik.
+(3)[^164] Az (1)–(2) bekezdésben meghatározott szabálysértés esetén az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, továbbá a bányakapitányság hatáskörébe is tartozik.
 
-[^162]: A 132. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a és 6. § b) pontja szerint módosított szöveg.
+[^164]: A 132. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a és 6. § b) pontja szerint módosított szöveg.

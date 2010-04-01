@@ -1,4 +1,4 @@
-## 63/A. §[^89]
+## 63/A. §[^91]
 
 ## Érvénytelen hatósági engedéllyel vagy jelzéssel való közlekedés
 
@@ -8,7 +8,7 @@
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-(3)[^90] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(3)[^92] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^89]: A 63/A. §-t és az azt megelőző alcímet a 269/2005. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 156/2009. (VII. 29.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
-[^90]: A 64. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 15. §-a iktatta be.
+[^91]: A 63/A. §-t és az azt megelőző alcímet a 269/2005. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 156/2009. (VII. 29.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
+[^92]: A 64. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 15. §-a iktatta be.

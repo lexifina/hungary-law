@@ -4,6 +4,6 @@
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^123] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
+(2)[^125] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
 
-[^123]: A 91. § (2) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
+[^125]: A 91. § (2) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.

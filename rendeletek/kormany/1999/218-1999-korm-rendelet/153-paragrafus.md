@@ -10,6 +10,6 @@
 
 (2) E rendelet 52. §-a 2000. január 1-jén lép hatályba.
 
-(3)[^183]
+(3)[^185]
 
-[^183]: A 153. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1189. pontja hatályon kívül helyezte.
+[^185]: A 153. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1189. pontja hatályon kívül helyezte.

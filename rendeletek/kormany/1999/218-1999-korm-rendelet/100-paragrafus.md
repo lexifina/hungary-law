@@ -12,6 +12,6 @@ b) termelő-, illetőleg biztonsági berendezés üzemeltetésére, karbantartá
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^138] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség és a bányakapitányság hatáskörébe is tartozik.
+(3)[^140] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség és a bányakapitányság hatáskörébe is tartozik.
 
-[^138]: A 100. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a és 6. § b) pontja szerint módosított szöveg.
+[^140]: A 100. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a és 6. § b) pontja szerint módosított szöveg.

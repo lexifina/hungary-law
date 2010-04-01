@@ -6,6 +6,6 @@
 
 (2) Azt az árut, amelyre nézve az (1) bekezdésben meghatározott szabálysértést elkövették, el lehet kobozni.
 
-(3)[^107] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve, az ÁNTSZ regionális vagy kistérségi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
+(3)[^109] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve, az ÁNTSZ regionális vagy kistérségi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
 
-[^107]: A 77. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^109]: A 77. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
