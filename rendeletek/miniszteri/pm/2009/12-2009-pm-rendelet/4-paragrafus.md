@@ -4,6 +4,6 @@
 
 (2) Az adózó (képviselője) az adóbevallási és adatszolgáltatási kötelezettségének teljesítését az ügyfélkapun keresztül kezdeményezheti.
 
-(3)[^6]
+(3)[^7]
 
-[^6]: A 4. § (3) bekezdését a 17/2009. (IX. 29.) PM rendelet 28. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^7]: A 4. § (3) bekezdését a 17/2009. (IX. 29.) PM rendelet 28. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
