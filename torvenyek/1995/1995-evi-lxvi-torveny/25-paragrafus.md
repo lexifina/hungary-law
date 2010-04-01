@@ -1,4 +1,4 @@
-25. § (1) A minősítő által meghatározott érvényességi idő lejártáig az államtitkot, szolgálati titkot vagy törvényben meghatározott egyéb más titkot tartalmazó levéltári anyagban csak a minősítő hozzájárulásával folytatható kutatás.
+25. § (1) A minősítő által meghatározott érvényességi idő lejártáig a minősített adatot vagy törvényben meghatározott egyéb más titkot tartalmazó levéltári anyagban csak a minősítő hozzájárulásával folytatható kutatás.
 
 (2) Nem engedélyezhető a kutatás
 

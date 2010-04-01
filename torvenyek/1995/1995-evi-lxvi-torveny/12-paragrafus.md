@@ -8,8 +8,8 @@
 
 (4) A közlevéltár tizenöt éven belül keletkezett közirat átvételére csak jogszabály alapján kötelezhető.
 
-(5) A tizenöt évnél régebben keletkezett, államtitkot vagy szolgálati titkot tartalmazó, nem selejtezhető iratokat a minősítő által meghatározott érvényességi idő lejártát követő naptári év végéig kell az illetékes közlevéltárnak átadni.
+(5) A tizenöt évnél régebben keletkezett, minősített adatot tartalmazó, nem selejtezhető iratokat a minősítő által meghatározott érvényességi idő lejártát követő naptári év végéig kell az illetékes közlevéltárnak átadni.
 
-(6) Az iratokat őrző szerv kezdeményezésére az illetékes közlevéltár az érvényességi idő lejárta előtt is átvehet államtitkot vagy szolgálati titkot tartalmazó iratokat, ha azok megfelelő őrzésének és kezelésének feltételeit biztosítani tudja.
+(6) Az iratokat őrző szerv kezdeményezésére az illetékes közlevéltár az érvényességi idő lejárta előtt is átvehet minősített adatot tartalmazó iratokat, ha azok megfelelő őrzésének és kezelésének feltételeit biztosítani tudja.
 
 (7) A közfeladatot ellátó szerv azoknak a nem selejtezhető iratoknak a használatát, amelyek a 22. § (1) bekezdésében meghatározott kutatási korlátozási idő eltelte után is az őrizetében vannak, a közlevéltárban lévő anyagra vonatkozó szabályok szerint köteles biztosítani.

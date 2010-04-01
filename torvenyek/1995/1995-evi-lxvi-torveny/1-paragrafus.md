@@ -12,4 +12,4 @@ b) bármely szerv irattári anyagának, továbbá a természetes személyek irat
 
 c) a levéltári anyag használata során a közérdekű adatok megismerését és a tudományos kutatás szabadságát garantáló alkotmányos alapjogok érvényesítése a személyiséghez és a személyes adatokhoz fűződő alkotmányos alapjogok védelmével együtt valósuljon meg;
 
-d) az államtitkot és a szolgálati titkot képező adatok védelme érvényre juthasson.
+d) a minősített adatok védelme érvényre juthasson.
