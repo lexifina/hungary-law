@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés r) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
