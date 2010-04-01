@@ -1,5 +1,0 @@
-57. § (1) A rendszerre csak a Felügyelet által engedélyezett operációs rendszer és egyéb szoftver telepíthető, amelyek jogosult felhasználásra vonatkozó tanúsítványait az üzemeltető szervnél kell őrizni. A biztonsági területre nem engedélyezett szoftver, illetve hardver, adathordozó, valamint saját tulajdonú, adat rögzítésére és továbbítására szolgáló eszköz nem vihető be.
-
-(2) Az operációs rendszer, az alkalmazói programok és a segédprogramok telepítő lemezeit vagy biztonsági másolatait megfelelő biztonsági feltételek között kell tárolni. Szükség esetén a szoftver helyreállítása csak ezekről történhet.
-
-(3) A rendszeren csak a biztonsági dokumentációban szereplő szoftverek alkalmazhatóak, más szoftverek alkalmazása nem engedélyezhető. Utólagosan telepített szoftver esetében a dokumentációt erre vonatkozóan ki kell egészíteni. Ha a rendszerre nem a gyártó által védett adathordozón forgalmazott új szoftvert telepítenek, a telepítést megelőzően különálló számítógépen biztonsági ellenőrzést kell végrehajtani, elsősorban vírus vagy más rosszindulatú szoftver kiszűrése érdekében.

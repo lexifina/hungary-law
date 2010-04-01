@@ -1,3 +1,0 @@
-58. § (1) A rendszer működését szabályozó konfigurációs beállításokhoz és a biztonsági célú naplózott adatokhoz csak az illetékes biztonsági felügyeletnek lehet hozzáférése. Az operációs rendszeren és annak biztonsági beállításain változtatást az illetékes biztonsági felügyelet engedélyezhet.
-
-(2) A rendszerhez történő hozzáférést megelőzően a felhasználót minden alkalommal megbízhatóan azonosítani kell. Ez személyes használatra kiadott és egyidejűleg nyilvántartásba vett felhasználói névvel, valamint ehhez tartozó jelszóval, vagy ennél nagyobb biztonságot jelentő technológiával történhet. A felhasználókhoz az ,,ismerete szükséges'' elv alkalmazásával írási, olvasási, módosítási, törlési stb. jogokat lehet engedélyezni.

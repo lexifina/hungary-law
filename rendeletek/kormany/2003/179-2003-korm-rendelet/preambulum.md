@@ -1,1 +1,0 @@
-Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény módosításáról szóló 1998. évi LXXX. törvény 5. §-ában kapott felhatalmazás alapján a külföldi minősítéssel és jelöléssel ellátott adatok védelmének szabályairól a Kormány a következőket rendeli el:
