@@ -1,6 +1,6 @@
-## 11. §[^21] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 11. §[^24] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-1. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^22]
+1. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^25]
 
 ## Az egyszeri berepülési engedély iránti kérelem adattartalma
 
@@ -28,5 +28,5 @@
 
 12. A kérelmező aláírása / Signature of the applicant.
 
-[^21]: A 11. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1295. pontja szerint módosított szöveg.
-[^22]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 11. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1295. pontja szerint módosított szöveg.
+[^25]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
