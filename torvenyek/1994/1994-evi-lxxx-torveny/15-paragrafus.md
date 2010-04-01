@@ -4,7 +4,7 @@
 
 (3) Az eskü szövege a következő:
 
-,,Én ………………………… ügyész esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek, az Alkotmányt és a jogszabályokat megtartom, és ügyészi munkám során megtartatom, hivatali kötelezettségemnek legjobb tudásom szerint eleget teszek. Az állami és szolgálati titkot megőrzöm. Törvényes kötelezettségeim teljesítése során elfogulatlanul és részrehajlás nélkül járok el. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én ………………………… ügyész esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek, az Alkotmányt és a jogszabályokat megtartom, és ügyészi munkám során megtartatom, hivatali kötelezettségemnek legjobb tudásom szerint eleget teszek. A minősített adatot megőrzöm. Törvényes kötelezettségeim teljesítése során elfogulatlanul és részrehajlás nélkül járok el. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 (4) A legfőbb ügyész helyettes a köztársasági elnök előtt, a többi ügyész pedig a munkáltatói jogkör gyakorlója előtt tesz esküt.
 

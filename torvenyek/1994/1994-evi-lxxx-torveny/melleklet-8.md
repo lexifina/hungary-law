@@ -132,7 +132,7 @@ c) Vegyes ügyek:
 
 — elfogultsági bejelentések;
 
-— szolgálati titoktartás alóli felmentés;
+— titoktartási kötelezettség alóli felmentés;
 
 — szakértői ügyek;
 
