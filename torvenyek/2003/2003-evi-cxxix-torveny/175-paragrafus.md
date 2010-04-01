@@ -1,6 +1,6 @@
 175. § E fejezet szerinti eljárást nem kell alkalmazni
 
-a) az államtitkot vagy szolgálati titkot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre;
+a) a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre;
 
 b) nemzetközi szerződésben meghatározott külön eljárás alapján történő beszerzésre, tervpályázatra, ha az Európai Unión kívüli állammal kötött szerződés projekt közös megvalósításával, illetőleg hasznosításával összefüggő beszerzésre, tervpályázatra vonatkozik;
 

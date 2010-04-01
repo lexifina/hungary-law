@@ -2,7 +2,7 @@
 
 29. § (1) E fejezet szerinti eljárást nem kell alkalmazni
 
-a) az államtitkot vagy szolgálati titkot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
+a) a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
 
 b) a védelem terén az ország alapvető biztonsági érdekeit érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, illetőleg szolgáltatások megrendelésére, összhangban az Európai Közösséget létrehozó szerződés 296. cikkével;
 

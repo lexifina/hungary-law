@@ -16,7 +16,7 @@ f) az építési beruházás esetében a közbeszerzésekkel kapcsolatos részle
 
 g) a gyógyszerek és a gyógyászati segédeszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – részletes szabályait;
 
-h) az államtitkot vagy a szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
+h) a minősített adatot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
 
 i) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokat;
 
