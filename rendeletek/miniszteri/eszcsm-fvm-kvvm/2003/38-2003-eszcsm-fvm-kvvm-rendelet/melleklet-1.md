@@ -40,7 +40,7 @@ Jelmagyarázat:[^58]
 
 |  |  |  |  |  |  |  |  | Az ipari felhasználásra engedélyezett termék címkéjén és/vagy biztonsági adatlapján fel kell tüntetni azt, hogy a frissen kezelt faárut a kezelést követően fedett helyen vagy kemény, nem áteresztő tartón kell tárolni, hogy így közvetlenül a talajba vagy vízbe ne kerülhessen belőle anyag és a kiváló anyagrészeket újrahasználat vagy ártalmatlanítás céljából össze kell gyűjteni. |
 
-|  |  |  |  |  |  |  |  | 7.3. A termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy az időjárásnak kitett fa kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtétele révén. |
+|  |  |  |  |  |  |  |  | 7.3. A termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy az időjárásnak kitett fa kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtétele révén.] |
 
 | 866. | propi- konazol | 1-[[2-(2,4-diklór- fenil)-4-propil- 1,3-dioxolán-2- il]metil]-1H-1,2,4- triazol EK-szám: 262-104-4 CAS-szám: 60207-90-1 | 930 g/kg | 2010. április 1. | 2012. március 31. | 2020. március 31. | 8 | 8.1. Engedély a következő feltételekkel adható ki: A kockázatértékelés során tett megállapítások fényében az ipari és/vagy foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközzel kell használni, kivéve, ha a termék engedélyezése iránti kérelem alapján bizonyított, hogy az ipari és/vagy foglalkozásszerű felhasználókat fenyegető kockázatok más módon is elfogadható szintre csökkenthetőek. |
 
@@ -50,7 +50,7 @@ Jelmagyarázat:[^58]
 
 |  |  |  |  |  |  |  |  | 8.3. A termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy az időjárásnak kitett fa kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével. |
 
-| 9.67 | IPBC | 3-jód-2-propinil- butilkarbamát EK-szám: 259-627-5 CAS-szám: 55406-53-6 | 980 g/kg | 2010. július 1. | 2012. június 30. | 2020. június 30. | 8 | 9.1. Engedély a következő feltételekkel adható ki: A kockázatértékelés során tett megállapítások fényében az ipari és/vagy foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelem alapján bizonyított, hogy az ipari és/vagy foglalkozásszerű felhasználókat fenyegető kockázatok más módon is elfogadható szintre csökkenthetőek. |
+| [9.67 | IPBC | 3-jód-2-propinil- butilkarbamát EK-szám: 259-627-5 CAS-szám: 55406-53-6 | 980 g/kg | 2010. július 1. | 2012. június 30. | 2020. június 30. | 8 | 9.1. Engedély a következő feltételekkel adható ki: A kockázatértékelés során tett megállapítások fényében az ipari és/vagy foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelem alapján bizonyított, hogy az ipari és/vagy foglalkozásszerű felhasználókat fenyegető kockázatok más módon is elfogadható szintre csökkenthetőek. |
 
 |  |  |  |  |  |  |  |  | 9.2. A talaj és a víz vonatkozásában megállapított kockázatok fényében megfelelő kockázatcsökkentő intézkedéseket kell hozni e környezeti elemek védelmére. |
 
@@ -62,7 +62,7 @@ Jelmagyarázat:[^58]
 
 |  |  |  |  |  |  |  |  | 10.2.2. A kockázatértékelés során tett megállapításokra figyelemmel a termékeket megfelelő egyéni védőeszközzel kell használni, kivéve, ha a termék engedélyeztetéséhez benyújtott kérelem bizonyítja, hogy más eszközökkel is elfogadható szintre lehet csökkenteni a felhasználókat érintő kockázatot. |
 
-|  |  |  |  |  |  |  |  | 10.2.3. A gyermekekre vonatkozóan megállapított kockázatra figyelemmel a gyermekekkel közvetlen kapcsolatba kerülő faanyag kezelésére nem használhatók ezek a termékek. |
+|  |  |  |  |  |  |  |  | 10.2.3. A gyermekekre vonatkozóan megállapított kockázatra figyelemmel a gyermekekkel közvetlen kapcsolatba kerülő faanyag kezelésére nem használhatók ezek a termékek.] |
 
 | 11.69 | difenakum | 3-(3-bifenil-4-il-1, 2,3,4-tetrahidro- 1-naftil)-4-hidro- xikumarin EK-szám: 259-978-4 CAS-szám: 56073-07-5 | 960 g/kg | 2010. április 1. | 2012. március 31. | 2015. március 31. | 14 | 11.1. Tekintettel arra, hogy a hatóanyag a környezetben tartósan megmaradhat, biológiailag felhalmozódhat és mérgező, illetve a környezetben rendkívül tartósan megmaradhat és biológiailag rendkívüli mértékben felhalmozódhat, azt az e mellékletbe való felvételének megújítása előtt a 10. § (8) bekezdése szerinti összehasonlító kockázatértékelésnek kell alávetni. 11.2. Engedély a következő feltételekkel adható ki: 11.2.1. A hatóanyag névleges koncentrációja a termékben nem haladhatja meg a 75 mg/kg arányt, és csak használatra kész termékek engedélyezhetők. |
 
@@ -72,15 +72,15 @@ Jelmagyarázat:[^58]
 
 |  |  |  |  |  |  |  |  | 11.2.4. Az emberek, a nem célzott állatok és a környezet elsődleges és másodlagos expozícióját az összes szükséges és rendelkezésre álló kockázatcsökkentő intézkedés figyelembevétele és alkalmazása révén minimalizálni szükséges. Ilyenek többek között a foglalkozásszerű felhasználásra való korlátozás, a kiszerelés maximális mennyiségének korlátozása, valamint a jogosulatlan felnyitás ellen védett, biztonságos rágcsálóirtó szerelvények használatára vonatkozó kötelezettségek rögzítése. |
 
-| 12.70 | Tiabendazol | 2-tiazol-4-il-1H- benzimidazol EK-szám: 205-725-8 CAS-szám: 148-79-8 | 985 g/kg | 2010. július 1. | 2012. június 30. | 2020. június 30. | 8 | 12.1. Engedély a következő feltételekkel adható ki: A kockázatértékelés során tett megállapítások fényében a kétlépcsős vákuumkezelési és merítési alkalmazásokban használt, az ipari és/vagy foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelem alapján bizonyított, hogy az ipari és/vagy foglalkozásszerű felhasználókat fenyegető kockázatok más módon is elfogadható szintre csökkenthetőek. |
+| [12.70 | Tiabendazol | 2-tiazol-4-il-1H- benzimidazol EK-szám: 205-725-8 CAS-szám: 148-79-8 | 985 g/kg | 2010. július 1. | 2012. június 30. | 2020. június 30. | 8 | 12.1. Engedély a következő feltételekkel adható ki: A kockázatértékelés során tett megállapítások fényében a kétlépcsős vákuumkezelési és merítési alkalmazásokban használt, az ipari és/vagy foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelem alapján bizonyított, hogy az ipari és/vagy foglalkozásszerű felhasználókat fenyegető kockázatok más módon is elfogadható szintre csökkenthetőek. |
 
 |  |  |  |  |  |  |  |  | 12.2. A talajra és a vízre vonatkozóan megállapított kockázatokra figyelemmel megfelelő kockázatcsökkentő intézkedéseket kell hozni e környezeti elemek védelmére. |
 
-|  |  |  |  |  |  |  |  | Az ipari felhasználásra engedélyezett termékek címkéjén és/vagy biztonsági adatlapján fel kell tüntetni azt, hogy a frissen kezelt faárut a kezelést követően fedett helyen vagy kemény, nem áteresztő tartón kell tárolni, hogy így közvetlenül a talajba vagy vízbe ne kerülhessen belőle anyag és a kiváló anyagrészeket újrahasználat vagy ártalmatlanítás céljából össze kell gyűjteni. 12.3. Termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy az időjárásnak kitett fa kezelésére, kivéve, ha a benyújtott adatok igazolják, hogy a termék – szükség esetén a megfelelő kockázatcsökkentő intézkedések megtétele révén – megfelel az 5. § és a 6. számú melléklet követelményeinek. |
+|  |  |  |  |  |  |  |  | Az ipari felhasználásra engedélyezett termékek címkéjén és/vagy biztonsági adatlapján fel kell tüntetni azt, hogy a frissen kezelt faárut a kezelést követően fedett helyen vagy kemény, nem áteresztő tartón kell tárolni, hogy így közvetlenül a talajba vagy vízbe ne kerülhessen belőle anyag és a kiváló anyagrészeket újrahasználat vagy ártalmatlanítás céljából össze kell gyűjteni. 12.3. Termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy az időjárásnak kitett fa kezelésére, kivéve, ha a benyújtott adatok igazolják, hogy a termék – szükség esetén a megfelelő kockázatcsökkentő intézkedések megtétele révén – megfelel az 5. § és a 6. számú melléklet követelményeinek.] |
 
 | 13.71 | Tebukonazol | 1-(4-klórfenil)- 4,4-dimetil-3- (1,2,4-triazol- 1-il-metil)pentán- 3-ol EK-szám: 403-640-2 CAS-szám: 107534-96-3 | 950 g/kg | 2010. április 1. | 2012. március 31. | 2020. március 31. | 8 | 13.1. Engedély a következő feltételekkel adható ki: A talaj és a víz vonatkozásában megállapított kockázatok fényében megfelelő kockázatcsökkentő intézkedéseket kell hozni e környezeti elemek védelmére. Az ipari felhasználásra engedélyezett termék címkéjén és/vagy biztonsági adatlapján fel kell tüntetni azt, hogy a kezelt faárut a kezelést követően fedett helyen vagy kemény, nem áteresztő helyen kell tárolni a talajba és a vízbe irányuló közvetlen veszteségek elkerülése és a |
 
-|  |  |  |  |  |  |  |  | veszteségek újrahasználatra vagy ártalmatlanításra való összegyűjtésének lehetővé tétele céljából. 13.2. Termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy a víz hatásának folyamatosan kitett fa kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével.] |
+|  |  |  |  |  |  |  |  | veszteségek újrahasználatra vagy ártalmatlanításra való összegyűjtésének lehetővé tétele céljából. 13.2. Termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy a víz hatásának folyamatosan kitett fa kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével. |
 
 59 A táblázat 1. pontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (2) bekezdése alapján 2009. január 1-jén lépett hatályba.
 
@@ -96,17 +96,17 @@ Jelmagyarázat:[^58]
 
 65 A táblázat 7. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (5) bekezdése alapján 2010. július 1-jén lép hatályba.
 
-66 A táblázat 8. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (4) bekezdése alapján 2010. április 1-jén lép hatályba.
+66 A táblázat 8. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (4) bekezdése alapján 2010. április 1-jén lépett hatályba.
 
 67 A táblázat 9. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (5) bekezdése alapján 2010. július 1-jén lép hatályba.
 
 68 A táblázat 10. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (5) bekezdése alapján 2010. július 1-jén lép hatályba.
 
-69 A táblázat 11. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (4) bekezdése alapján 2010. április 1-jén lép hatályba.
+69 A táblázat 11. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (4) bekezdése alapján 2010. április 1-jén lépett hatályba.
 
 70 A táblázat 12. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (5) bekezdése alapján 2010. július 1-jén lép hatályba.
 
-71 A táblázat 13. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (4) bekezdése alapján 2010. április 1-jén lép hatályba.
+71 A táblázat 13. pontja a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 2. § (4) bekezdése alapján 2010. április 1-jén lépett hatályba.
 
 [^57]: Az 1. számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának a) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. január 1-jén. Az 1. számú melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 1. §-a szerint módosított szöveg.
 [^58]: A jelmagyarázat a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (2) bekezdése alapján 2009. január 1-jén lépett hatályba.
