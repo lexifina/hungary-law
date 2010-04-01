@@ -1,0 +1,1 @@
+## „(5) A vezetői engedély kiállítása során annak érvényességét az ügyfél kérelmére úgy kell meghatározni, hogy a lejáratának időpontja megegyezzen a 4. számú melléklet C. pontja szerinti vezetői engedély 11. sorában feltüntetett kategória érvényesség időpontjával.”
