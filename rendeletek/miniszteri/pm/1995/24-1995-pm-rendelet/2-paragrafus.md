@@ -4,7 +4,7 @@
 
 (2) A pénztárgép, illetve taxaméter típusát az APEH elnöke akkor hagyja jóvá, ha
 
-a)[^16] készpénzzel vagy készpénz-helyettesítő eszközzel történő bevételek kimutatására (rögzítésére) alkalmas;
+a)[^17] készpénzzel vagy készpénz-helyettesítő eszközzel történő bevételek kimutatására (rögzítésére) alkalmas;
 
 b) azzal nyugta kibocsátható;
 
@@ -20,7 +20,7 @@ g) a napi értékesítések (díjak) végösszegét az adómemóriában a hozzá
 
 h) az adómemóriától történő megszakítás, az adómemória betelte vagy illetéktelen beavatkozás esetén nem működik (automatikusan leáll);
 
-i)[^17] az adómemória csere esetére az adómemória típusára vonatkozó gyártói és forgalmazói nyilatkozatokat a kérelem tartalmazza.
+i)[^18] az adómemória csere esetére az adómemória típusára vonatkozó gyártói és forgalmazói nyilatkozatokat a kérelem tartalmazza.
 
 (3) A pénztárgép jóváhagyásának a (2) bekezdésben foglaltakon kívüli feltétele, hogy
 
@@ -28,7 +28,7 @@ a) készüljön ellenőrző szalag a kibocsátott nyugtáról és a napi forgalm
 
 b) számítógépes rendszerű, pénztárgép funkcióval ellátott berendezések pénztárgép programja a többi programtól elkülönüljön.
 
-(4)[^18] A pénztárgép típusjóváhagyásának további feltétele, hogy a forgalmazó rendelkezzen a 79/1997. (XII. 31.) IKIM rendeletben előírt CE megfelelőségi dokumentációval, és a gyártó megfelelőségi nyilatkozatával.
+(4)[^19] A pénztárgép típusjóváhagyásának további feltétele, hogy a forgalmazó rendelkezzen a 79/1997. (XII. 31.) IKIM rendeletben előírt CE megfelelőségi dokumentációval, és a gyártó megfelelőségi nyilatkozatával.
 
 (5) A taxaméter jóváhagyásának a (2) bekezdésben foglaltakon kívüli feltétele, hogy
 
@@ -48,6 +48,6 @@ d) az adómemóriába a napi forgalom záráskényszerrel rögzítődjön (a nap
 
 (9) A típusengedélyt meg kell adni annak a kérelmezőnek is, amely (aki) a pénztárgépet kizárólag saját használatra kívánja importálni vagy előállítani, ha az mindenben megfelel az e rendeletben és az APEH közleményben előírt követelményeknek.
 
-[^16]: A 2. § (2) bekezdésének a) pontja a 34/1999. (XII. 26.) PM rendelet 2. §-ával megállapított szöveg.
-[^17]: A 2. § (2) bekezdésének i) pontját a 34/1999. (XII. 26.) PM rendelet 2. §-a iktatta be.
-[^18]: A 2. § (4) bekezdése a 8/1999. (III. 5.) PM rendelet 3. §-ával megállapított szöveg.
+[^17]: A 2. § (2) bekezdésének a) pontja a 34/1999. (XII. 26.) PM rendelet 2. §-ával megállapított szöveg.
+[^18]: A 2. § (2) bekezdésének i) pontját a 34/1999. (XII. 26.) PM rendelet 2. §-a iktatta be.
+[^19]: A 2. § (4) bekezdése a 8/1999. (III. 5.) PM rendelet 3. §-ával megállapított szöveg.

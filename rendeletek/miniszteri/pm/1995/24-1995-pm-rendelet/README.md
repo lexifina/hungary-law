@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-24-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1995-24-20-53.16 | 24/1995. (XI. 22.) PM rendelet |
+| 2010-04-01 | 1995-24-20-53.17 | 41/2009. (XII. 22.) PM rendelet |

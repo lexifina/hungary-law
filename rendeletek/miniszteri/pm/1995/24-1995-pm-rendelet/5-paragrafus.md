@@ -1,4 +1,4 @@
-5. §[^27] (1) Ha a javítás azonnal nem végezhető el lehetőség szerint azonnal, de legkésőbb 3 napon belül a szerviz köteles cserepénztárgépet (taxamétert) biztosítani. A cseregép adatait az erre a célra szolgáló külön lapon, valamint a naplóban fel kell tüntetnie. A javítás befejezését követően a szerviznek mind a visszaadott cseregép (cserekészülék), mind a javított gép (készülék) bevételi adatait a naplóba aláírásokkal igazoltan be kell írnia.
+5. §[^28] (1) Ha a javítás azonnal nem végezhető el lehetőség szerint azonnal, de legkésőbb 3 napon belül a szerviz köteles cserepénztárgépet (taxamétert) biztosítani. A cseregép adatait az erre a célra szolgáló külön lapon, valamint a naplóban fel kell tüntetnie. A javítás befejezését követően a szerviznek mind a visszaadott cseregép (cserekészülék), mind a javított gép (készülék) bevételi adatait a naplóba aláírásokkal igazoltan be kell írnia.
 
 (2) Ha a pénztárgép, illetve a taxaméter nem javítható, akkor erről a szerviznek jegyzőkönyvet kell felvennie, amelyet haladéktalanul meg kell küldeni az üzemeltető székhelye, illetve belföldi székhely hiányában telephelye szerinti APEH megyei (budapesti) igazgatóságának. A jegyzőkönyvben szerepeltetni kell az adómemória kiolvasott adatait vagy annak kiolvashatatlanságát.
 
@@ -12,4 +12,4 @@
 
 (7) Ha a szerviz javítási, nyilvántartási, adatszolgáltatási kötelezettségét – az ellenőrzés tapasztalata vagy a forgalmazó, illetve a használó jelzése alapján – nem a hatályos jogszabályoknak megfelelően teljesíti, akkor a területileg illetékes állami adóhatóság mulasztási bírságot szabhat ki, ismétlődés vagy súlyosabb kötelezettségszegés esetén az APEH elnöke a szervizelési jogot megvonhatja.
 
-[^27]: Az 5. § a 34/1999. (XII. 26.) PM rendelet 4. §-ával megállapított szöveg.
+[^28]: Az 5. § a 34/1999. (XII. 26.) PM rendelet 4. §-ával megállapított szöveg.
