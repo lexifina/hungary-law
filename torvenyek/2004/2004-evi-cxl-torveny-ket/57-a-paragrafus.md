@@ -8,4 +8,4 @@
 
 (5) Ha a szemlét a hatóság informatikai eszköz útján végzi, a szemle elvégzésére való jogosultság igazolását követően jogszabály, személyes adatok tekintetében törvény által meghatározott körben a szemletárgy birtokosának a hatóság részére – szükség szerint az informatikai rendszerhez történő hozzáférés technikai és jogosultsági feltételeinek biztosításával – hozzáférést kell biztosítania az adatokhoz.
 
-(6) A szemletárgy birtokosa az államtitkot, a szolgálati titkot tartalmazó szemletárgy felmutatására nem kötelezhető, ha nem kapott felmentést a szemletárgyra vonatkozó titoktartási kötelezettség alól.
+(6) A szemletárgy birtokosa a minősített adatot, tartalmazó szemletárgy felmutatására nem kötelezhető, ha nem kapott felmentést a szemletárgyra vonatkozó titoktartási kötelezettség alól.

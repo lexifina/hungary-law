@@ -24,7 +24,7 @@ j) központi elektronikus szolgáltató rendszer: az elektronikus közszolgálta
 
 k)–m)
 
-n) törvény által védett titok: az államtitok, a szolgálati titok, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok;
+n) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok;
 
 o) ügyfélkapu: az elektronikus közszolgáltatásról szóló törvény szerinti ügyfélkapu;
 

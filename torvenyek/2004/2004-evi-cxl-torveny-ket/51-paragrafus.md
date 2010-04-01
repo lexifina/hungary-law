@@ -8,7 +8,7 @@
 
 (4) A törvényen vagy kormányrendeleten alapuló adatszolgáltatást az ügyfél, illetve kérelemre indult eljárásban az ellenérdekű ügyfél akkor tagadhatja meg, ha
 
-a) nem kapott felmentést az államtitoknak vagy szolgálati titoknak minősített adatra vonatkozó titoktartási kötelezettség alól,
+a) nem kapott felmentést a minősített adatra vonatkozó titoktartási kötelezettség alól,
 
 b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
 

@@ -4,7 +4,7 @@ a) a döntés tervezetébe az eljárás jogerős befejezéséig,
 
 b) az olyan iratba, amelyből következtetés vonható le annak a személynek a kilétére, akire vonatkozóan a hatóság a természetes személyazonosító adatok és a lakcím zárt kezelését rendelte el,
 
-c) betekintési vagy megismerési engedély hiányában az államtitkot vagy szolgálati titkot tartalmazó iratba,
+c) felhasználói vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba,
 
 d) az egyéb védett adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az iratbetekintésre jogosult személyt törvényben biztosított jogai gyakorlásában.
 
