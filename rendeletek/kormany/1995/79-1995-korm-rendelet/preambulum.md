@@ -1,1 +1,0 @@
-Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény (a továbbiakban: Ttv.) 30. §-ának (1) bekezdésében kapott felhatalmazás alapján az államtitoknak, illetve szolgálati titoknak minősülő adatok kezelésének rendjéről a Kormány a következőket rendeli el:

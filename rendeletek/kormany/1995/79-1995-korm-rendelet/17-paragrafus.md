@@ -1,3 +1,0 @@
-## 16. §[^5] Államtitok esetén az ,,Államtitok!'' megjelölést, szolgálati titok esetén a ,,Szolgálati titok!'' megjelölést, továbbá a minősítési jelölést, az érvényességi időt, a minősítő nevét és beosztását, az adat magyar származását jelölő országjelet (MK/HU) az adat nyilvántartására és azonosítására szolgáló jelzéssel együtt az adathordozón, és ha van ilyen, annak borítóján is fel kell tüntetni. Több lapból álló papíralapú adathordozón a minősítési jelölést minden egyes lapon, annak felső részén és alsó részén középen is fel kell tüntetni.
-
-[^5]: A 16. § a 179/2003. (XI. 5.) Korm. rendelet 66. §-ának (1) bekezdésével megállapított szöveg.
