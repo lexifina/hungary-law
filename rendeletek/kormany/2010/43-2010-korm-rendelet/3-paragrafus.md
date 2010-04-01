@@ -1,0 +1,101 @@
+## 2. § A Végrehajtási Szabályzat módosításának angol nyelven hiteles szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+## „DECISION OF THE ADMINISTRATIVE COUNCIL
+
+## of 25 March 2009 amending the Implementing Regulations to the European Patent Convention
+
+## THE ADMINISTRATIVE COUNCIL OF THE EUROPEAN PATENT ORGANISATION,
+
+## Considering that amendments to Rules 36, 57 and 135 EPC are necessary and useful in the light of recent developments,
+
+## Having regard to the European Patent Convention (EPC), and in particular Article 33(1)(c) thereof,
+
+## On a proposal from the President of the European Patent Office,
+
+## Having regard to the opinion of the Committee on Patent Law,
+
+## HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+## The Implementing Regulations to the EPC shall be amended as follows:
+
+## 1. Rule 36 (1) and (2) shall be amended to read as follows:
+
+## „(1) The applicant may file a divisional application relating to any pending earlier European patent application, provided that:
+
+## (a) the divisional application is filed before the expiry of a time limit of twenty-four months from the Examining Division's first communication in respect of the earliest application for which a communication has been issued, or
+
+## (b) the divisional application is filed before the expiry of a time limit of twenty-four months from any communication in which the Examining Division has objected that the earlier application does not meet the requirements of Article 82, provided it was raising that specific objection for the first time.
+
+## (2) A divisional application shall be filed in the language of the proceedings for the earlier application. If the latter was not in an official language of the European Patent Office, the divisional application may be filed in the language of the earlier application; a translation into the language of the proceedings for the earlier application shall then be filed within two months of the filing of the divisional application. The divisional application shall be filed with the European Patent Office in Munich, The Hague or Berlin.”
+
+## 2. Rule 57(a) shall be amended to read as follows:
+
+## „(a) a translation of the application required under Article 14, paragraph 2, under Rule 36, paragraph 2, second sentence, or under Rule 40, paragraph 3, second sentence, has been filed in due time;”
+
+## 3. Rule 135(2) shall be amended to read as follows:
+
+## „(2) Further processing shall be ruled out in respect of the periods referred to in Article 121, paragraph 4, and of the periods under Rule 6, paragraph 1, Rule 16, paragraph 1(a), Rule 31, paragraph 2, Rule 36, paragraphs 1(a), 1(b) and 2, Rule 40, paragraph 3, Rule 51, paragraphs 2 to 5, Rule 52, paragraphs 2 and 3, Rules 55, 56, 58, 59, 64 and Rule 112, paragraph 2.”
+
+## Article 2
+
+## 1. This decision shall enter into force on 1 April 2010.
+
+## 2. Rule 36(1) and (2), as amended by this decision, shall apply to divisional applications filed on or after that date.
+
+## Article 3
+
+## The following transitional provisions shall apply to the amended provisions. If the time limits provided for in amended Rule 36(1) EPC have expired before 1 April 2010, a divisional application may still be filed within six months of that date. If they are still running on 1 April 2010, they will continue to do so for not less than six months. Amended Rule 135(2) EPC shall apply to these transitional periods.”
+
+## „AZ IGAZGATÓTANÁCS HATÁROZATA
+
+## (2009. március 25.) az Európai Szabadalmi Egyezmény Végrehajtási Szabályzatának módosításáról
+
+## AZ EURÓPAI SZABADALMI SZERVEZET IGAZGATÓTANÁCSA,
+
+## figyelembe véve, hogy az Európai Szabadalmi Egyezmény 36., 57. és 135. szabályainak módosítása a legutóbbi fejleményekre tekintettel szükséges és hasznos,
+
+## tekintettel az Európai Szabadalmi Egyezményre (ESZE) és annak 33. cikke (1) bekezdésének c) pontjára,
+
+## az Európai Szabadalmi Hivatal elnökének javaslatára,
+
+## tekintettel a Szabadalmi Jogi Bizottság állásfoglalására,
+
+## A KÖVETKEZŐKÉPPEN HATÁROZOTT:
+
+## 1. cikk
+
+## Az Európai Szabadalmi Egyezmény Végrehajtási Szabályzata a következőképpen módosul:
+
+## 1. A 36. szabály (1) és (2) bekezdése a következőképpen módosul:
+
+## „(1) A bejelentő bármely függőben lévő korábbi európai szabadalmi bejelentéssel kapcsolatban megosztással keletkező bejelentést nyújthat be, feltéve hogy:
+
+## a) a megosztással keletkező bejelentést a vizsgálati osztály azon legkorábbi bejelentésre vonatkozó első felhívásától számított huszonnégy hónapos határidőn belül nyújtják be, amely tekintetében felhívást bocsátottak ki, vagy
+
+## b) a megosztással keletkező bejelentést bármely olyan felhívástól számított huszonnégy hónapos határidőn belül nyújtják be, amelyben a vizsgálati osztály kifogásolta, hogy a korábbi bejelentés nem felel meg a 82. cikkben foglalt követelményeknek, feltéve, hogy a vizsgálati osztály ezt a kifogást először hozta fel.
+
+## (2) A megosztással keletkező bejelentést a korábbi bejelentés eljárásának nyelvén kell benyújtani. Ha a korábbi bejelentést nem az Európai Szabadalmi Hivatal hivatalos nyelveinek egyikén nyújtották be, a megosztással keletkező bejelentés benyújtható a korábbi bejelentés nyelvén is. Ez utóbbi esetben a korábbi bejelentés eljárásának nyelvére történő fordítást a megosztással keletkező bejelentés benyújtásától számított két hónapon belül be kell nyújtani. A megosztással keletkező bejelentést az Európai Szabadalmi Hivatalhoz kell benyújtani Münchenben, Hágában vagy Berlinben.
+
+## 2. Az 57. szabály a) pontja a következőképpen módosul:
+
+## „a) kellő időben benyújtották-e a bejelentésnek a 14. cikk (2) bekezdésében, a 36. szabály (2) bekezdésének második mondatában vagy a 40. szabály (3) bekezdésének második mondatában előírt fordítását;”
+
+## 3. A 135. szabály (2) bekezdése a következőképpen módosul:
+
+## „(2) Az eljárás folytatásának nincs helye a 121. cikk (4) bekezdésében, illetve a 6. szabály (1) bekezdésében, a 16. szabály (1) bekezdésének a) pontjában, a 31. szabály (2) bekezdésében, a 36. szabály (1) bekezdésének a) és b) pontjában, illetve (2) bekezdésében, a 40. szabály (3) bekezdésében, az 51. szabály (2)–(5) bekezdéseiben, az 52. szabály (2) és (3) bekezdésében, az 55., 56., 58., 59. és 64. szabályban, valamint a 112. szabály (2) bekezdésében említett határidők tekintetében.”
+
+## 2. cikk
+
+## 1. Ez a határozat 2010. április 1-jén lép hatályba.
+
+## 2. A 36. szabály e határozattal módosított (1) és (2) bekezdéseit azokra a megosztással keletkező bejelentésekre kell alkalmazni, amelyeket ezen a napon vagy ezt követően nyújtottak be.
+
+## 3. cikk
+
+## A módosított rendelkezéseket a következő átmeneti rendelkezésekkel kell alkalmazni. Ha az ESZE Végrehajtási Szabályzata módosított 36. szabályának (1) bekezdésében meghatározott határidők 2010. április 1-jét megelőzően járnak le, a megosztással keletkező bejelentést ettől az időponttól számított hat hónapon belül is be lehet nyújtani. Ha ezek a határidők 2010. április 1-jén még nem jártak le, akkor ettől az időponttól számítva még legalább hat hónapig nyitva állnak. Ezekre az átmeneti időszakokra az ESZE Végrehajtási Szabályzata módosított 135. szabályának (2) bekezdésében foglaltakat is alkalmazni kell.”
+
+3. § (1) Ez a rendelet 2010. április 1-jén lép hatályba.
+
+(2) Az e rendelet végrehajtásához szükséges intézkedésekről a Magyar Szabadalmi Hivatal elnöke gondoskodik.
