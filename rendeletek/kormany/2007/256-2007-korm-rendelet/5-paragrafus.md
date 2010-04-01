@@ -12,23 +12,25 @@ a)[^5] a Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatósága 
 
 b)[^6] a Közvetlen Támogatások Igazgatósága ellátja a hatáskörébe sorolt, a területhez, az állatlétszámhoz, illetve jövedelempótláshoz kötött intézkedésekkel, továbbá a kölcsönös megfeleltetéssel,
 
-c) az Intervenciós Intézkedések Igazgatósága ellátja a hatáskörébe sorolt, az intervenciós intézkedésekkel és egyes további, a feldolgozott termékekhez kapcsolódó intézkedésekkel,
+c)[^7] az Intervenciós Intézkedések Igazgatósága ellátja a hatáskörébe sorolt, az intervenciós intézkedésekkel és egyes további, a feldolgozott termékekhez kapcsolódó intézkedésekkel, valamint a cukorrépa-termelők cukoripari szerkezet-átalakításhoz kapcsolódó támogatásaival,
 
-d)[^7] a Vidékfejlesztési Támogatások Igazgatósága ellátja az Új Magyarország Vidékfejlesztési Programhoz kapcsolódó beruházási és szolgáltatási, a közösségi halászati intézkedésekkel, továbbá a Nemzeti Diverzifikáció Programhoz kapcsolódó intézkedésekkel,
+d)[^8] a Vidékfejlesztési Támogatások Igazgatósága ellátja az Új Magyarország Vidékfejlesztési Programhoz kapcsolódó beruházási és szolgáltatási, a közösségi halászati intézkedésekkel, továbbá a Nemzeti Diverzifikációs Programhoz kapcsolódó fejlesztési intézkedésekkel,
 
 e) a Pénzügyi Igazgatóság ellátja az intézkedésekhez kapcsolódó kifizetési és követelési feladatokkal,
 
-f) a Területi Igazgatóság ellátja az ügyfél-nyilvántartási rendszer vezetésével
+f)[^9] a Területi Igazgatóság ellátja az ügyfél-nyilvántartási rendszer vezetésével, valamint a monitoring adatszolgáltatási kötelezettség elmulasztásával
 
 ## összefüggő első fokú hatósági feladatokat.
 
-(4)–(5)[^8]
+(4)–(5)[^10]
 
-(6)[^9]
+(6)[^11]
 
 [^4]: A 4/A. §-t a 149/2008. (V. 29.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. április 1-jét követően hatályba lépett jogszabályok alapján benyújtott kérelmekkel, illetve ezen időpontot követően közzétett pályázati kiírások alapján benyújtott pályázatokkal kapcsolatos döntés-előkészítési és döntéshozatali eljárásra kell alkalmazni.
 [^5]: Az 5. § (3) bekezdés a) pontja a 91/2009. (IV. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (3) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 568–569. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: Az 5. § (3) bekezdés d) pontja a 182/2009. (IX. 10.) Korm. rendelet 568–569. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: Az 5. § (4)–(5) bekezdését a 80/2008. (IV. 4.) Korm. rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 218/2008. (VIII. 30.) Korm. rendelet 25. § (1) bekezdésének b) pontja.
-[^9]: Az 5. § (6) bekezdését a 80/2008. (IV. 4.) Korm. rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 49/2009. (III. 6.) Korm. rendelet 2. § (2) bekezdése.
+[^7]: Az 5. § (3) bekezdés c) pontja a 88/2010. (III. 26.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (3) bekezdés d) pontja a 88/2010. (III. 26.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (3) bekezdés f) pontja a 88/2010. (III. 26.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (4)–(5) bekezdését a 80/2008. (IV. 4.) Korm. rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 218/2008. (VIII. 30.) Korm. rendelet 25. § (1) bekezdésének b) pontja.
+[^11]: Az 5. § (6) bekezdését a 80/2008. (IV. 4.) Korm. rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 49/2009. (III. 6.) Korm. rendelet 2. § (2) bekezdése.
