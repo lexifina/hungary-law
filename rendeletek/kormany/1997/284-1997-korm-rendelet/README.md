@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1997-284-20-22.14 | 284/1997. (XII. 23.) Korm. rendelet |
+| 2010-04-01 | 1997-284-20-22.15 | 336/2009. (XII. 29.) Korm. rendelet |

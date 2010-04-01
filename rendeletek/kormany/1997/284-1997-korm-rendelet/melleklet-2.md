@@ -106,4 +106,6 @@
 
 | keretében kerül sor. | A mellkas-szűrővizsgálat közfinanszírozásban érvényesíthető díja |
 
-[^15]: A 2. számú melléklet a 336/2009. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+| 15. | A foglalkoztathatóság szakvéleményezése | 3000 Ft/fő/eset |
+
+[^15]: A 2. számú melléklet a 336/2009. (XII. 29.) Korm. rendelet 18. §-ával megállapított, a 87/2010. (III. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
