@@ -29,11 +29,3 @@ a) az Avtv. 25. § (1) bekezdés utolsó mondata,
 b) az Nbtv. 30. § (4) bekezdés második mondata, 42. § (1) bekezdése, 52. § (2) és (3) bekezdése, 64. § (4) bekezdésében az „1992. évi XXXVIII.” szövegrész, 72. § (5) bekezdése, 77. § (1) bekezdés a) pontja, 90. §-a, a 3. számú mellékletében szereplő „A”, „B”, „C” típusú biztonsági kérdőíveken a „Szigorúan titkos! Különösen fontos! (kitöltés után)” jelölés,
 
 c) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programjában való részvételhez szükséges törvénymódosításokról szóló 2000. évi XXXVI. törvény 3. §-a.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
