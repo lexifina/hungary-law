@@ -200,13 +200,13 @@ Határidő: 2010. december 31.
 
 Indikátor: 5 támogatott program évente
 
-IV. 3. Támogatni kell a határon túli magyarság tehetségsegítő szervezeteivel együttműködésben kidolgozott programok megvalósítását.
+IV. 3.[^2] Támogatni kell a határon túli magyarság tehetségsegítő szervezeteivel együttműködésben kidolgozott programok, és ennek keretében az Ady Endre Tehetséggondozó Ösztöndíjrendszer megvalósítását.
 
 Felelős: oktatási és kulturális miniszter
 
 Határidő: 2010. december 31.
 
-Indikátor: 10 támogatott program évente
+Indikátor: Ady Endre Tehetséggondozó Ösztöndíjrendszer, és kilenc további támogatott program évente
 
 V. Egyenlő hozzáférés biztosítása
 
@@ -385,3 +385,5 @@ külügyminiszter
 Határidő: 2010. december 31.
 
 Indikátor: idegen nyelvű kommunikációs anyagok, legalább 5 EU-adaptálásra előkészített hazai jó gyakorlat
+
+[^2]: A Melléklet IV. alcím 3. pontja a 1082/2010. (III. 31.) Korm. határozat 3. pontjával megállapított szöveg.
