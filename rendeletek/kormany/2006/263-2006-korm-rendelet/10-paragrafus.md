@@ -1,6 +1,8 @@
+## 9/A. §[^97] A 91/2010. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított 4. § (8) bekezdést a 91/2010. (III. 31.) Korm. rendelet hatálybalépését követően indult vagy megismételt – a regisztrációs adó különös szabályok szerint történő megállapítására irányuló – eljárásokban kell alkalmazni.
+
 ## Az Európai Unió jogának való megfelelés
 
-10. §[^97] (1) Ez a rendelet – a Kkt. 48. § (3) bekezdés 19. pontjában foglalt felhatalmazás alapján megalkotott végrehajtási jogszabállyal együtt – megállapítja a 2135/98/EK tanácsi rendelettel módosított, a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
+10. §[^98] (1) Ez a rendelet – a Kkt. 48. § (3) bekezdés 19. pontjában foglalt felhatalmazás alapján megalkotott végrehajtási jogszabállyal együtt – megállapítja a 2135/98/EK tanácsi rendelettel módosított, a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
 
 (2) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -14,12 +16,13 @@ d) Az Európai Parlament és a Tanács 216/2008/EK rendelete (2008. február 20.
 
 e) az Európai Parlament és Tanács 1107/2006/EK rendelete (2006. július 5.) a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól,
 
-f)[^98] a Bizottság 262/2009/EK rendelete (2009. március 30.) az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról,
+f)[^99] a Bizottság 262/2009/EK rendelete (2009. március 30.) az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról,
 
-g)[^99] az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
+g)[^100] az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
 
 (3) Ez a rendelet a harmadik országok közösségi repülőtereket használó légijárműveinek biztonságáról szóló, 2004. április 21-i 2004/36/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^97]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 487. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^98]: A 10. § (2) bekezdés f) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^99]: A 10. § (2) bekezdés g) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^97]: A 9/A. §-t a 91/2010. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^98]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 487. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^99]: A 10. § (2) bekezdés f) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^100]: A 10. § (2) bekezdés g) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

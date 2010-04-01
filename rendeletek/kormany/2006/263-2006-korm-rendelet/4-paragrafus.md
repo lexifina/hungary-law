@@ -44,7 +44,15 @@ d) a tachográf-kártya nyilvántartás központi adatkezelési és nemzetközi 
 
 (7)[^22] Ha a regionális igazgatóság hatáskörébe tartozó út esetében a tervezett építmény több regionális igazgatóság illetékességi területét érinti, azon regionális igazgatóság jár el az építmény egészére vonatkozóan, amelynek területén a hosszabb útszakasz van, ha pedig azok egyenlő hosszúságúak, azon regionális igazgatóság jár el, amelyhez a kérelmet korábban benyújtották.
 
-(8)[^23] A Kormány a regisztrációs adóról szóló 2003. évi CX. törvény 10/C. §-ában meghatározott szakhatóságként a Nemzeti Közlekedési Hatóság Dél-alföldi Regionális Igazgatóságát jelöli ki.
+(8)[^23] A Kormány a regisztrációs adóról szóló 2003. évi CX. törvény 10/C. §-ában meghatározott szakhatóságként azokban az eljárásokban, ahol első fokon
+
+a) a Vám- és Pénzügyőri Hivatal Békéscsaba jár el, első fokú eljárásban a Nemzeti Közlekedési Hatóság Dél-alföldi Regionális Igazgatóságát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központi Hivatalát,
+
+b) a Vám- és Pénzügyőri Hivatal Tatabánya jár el, első fokú eljárásban a Nemzeti Közlekedési Hatóság Közép-dunántúli Regionális Igazgatóságát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központi Hivatalát, és
+
+c) a Vám- és Pénzügyőri Hivatal Szombathely jár el, első fokú eljárásban a Nemzeti Közlekedési Hatóság Nyugat-dunántúli Regionális Igazgatóságát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központi Hivatalát,
+
+jelöli ki.
 
 (9)[^24] A Kormány a közlekedési igazgatási hatóságnak az erre a célra rendszeresített, zárt közúti halottszállító jármű forgalmi engedélyének a kiadására irányuló közigazgatási hatósági eljárásában – a jármű rakodóterében szállítható halottak forgalmi engedélybe bejegyezhető számának meghatározása kérdésében – első fokú eljárásban a területileg illetékes regionális igazgatóságot, másodfokú eljárásban a Központi Hivatalt szakhatóságként jelöli ki.
 
@@ -81,7 +89,7 @@ g) a veszélyes áru szállítási biztonsági tanácsadói tevékenység.
 [^20]: A 4. § (5) bekezdésének a) pontja a 166/2007. (VI. 28.) Korm. rendelet 10. § (2) bekezdésének a) pontja, a 105/2009. (V. 14.) Korm. rendelet 4. § (5) bekezdésének b) pontja szerint módosított szöveg.
 [^21]: A 4. § (6) bekezdését a 166/2007. (VI. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^22]: A 4. § (7) bekezdését a 166/2007. (VI. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^23]: A 4. § (8) bekezdését a 62/2008. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 4. § (8) bekezdését a 62/2008. (III. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 91/2010. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^24]: A 4. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^25]: A 4. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^26]: A 4. § (10) bekezdés b) pontja a 14/2010. (II. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
