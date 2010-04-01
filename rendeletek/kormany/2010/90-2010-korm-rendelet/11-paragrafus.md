@@ -1,0 +1,9 @@
+11. § (1) A minősített adatot kezelő szerv biztonsági vezetője kezdeményezi a Nemzeti Biztonsági Felügyeletnél a külföldi minősített adatra érvényes személyi biztonsági tanúsítvány kiadását a NATO, NYEU, valamint az EU és az EU intézményei minősített adataihoz hozzáférő felhasználók és közreműködők részére.
+
+(2) Az (1) bekezdés szerinti kezdeményezés a kérelmező vezetéknevét, utónevét, születési helyét, születési idejét, állampolgárságát, a munkáltató és a munkakör megnevezését, a megismerni kívánt adatfajta minősítési szintjét tartalmazó, a Miniszterelnöki Hivatal és a Nemzeti Biztonsági Felügyelet honlapján közzétett adatlap kitöltésével történik.
+
+(3) A gazdálkodó szervezetek esetében a NATO, NYEU, valamint EU és az EU intézményei minősített adataihoz, továbbá a nemzeti minősített adathoz hozzáférő felhasználók részére a gazdálkodó szervezet biztonsági vezetője kezdeményezi a Nemzeti Biztonsági Felügyeletnél a NATO, NYEU, valamint EU és az EU intézményei adataira, továbbá a nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány kiadását.
+
+(4) A (3) bekezdés szerinti kezdeményezés a kérelmező vezetéknevét, utónevét, születési helyét, születési idejét, állampolgárságát, a munkáltató és a munkakör megnevezését, a megismerni kívánt adatfajta minősítési szintjét tartalmazó adattartalmú, a Miniszterelnöki Hivatal és a Nemzeti Biztonsági Felügyelet honlapján közzétett adatlap kitöltésével történik.
+
+(5) A személyi biztonsági tanúsítvány kiadásához – kivéve azon esetet, amikor a nemzetbiztonsági szolgálatokról szóló törvény alapján a Nemzeti Biztonsági Felügyelet elnöke a kezdeményező – a minősített adatot kezelő szerv biztonsági vezetője a (2) és (4) bekezdésben hivatkozott adatlapot a nemzetbiztonsági szolgálatokról szóló törvény 72. § (1) bekezdésében meghatározott szakvélemény másolatával együtt megküldi a Nemzeti Biztonsági Felügyelet részére.

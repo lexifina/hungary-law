@@ -1,0 +1,3 @@
+44. § (1) Az egy ügyben keletkezett és együtt kezelt különböző adatokat tartalmazó adathordozók – ideértve a nem minősítettek is – együtt kezelhetők. Iktatásuk a minősített adatok nyilvántartására szolgáló iktatókönyvben az elsőnek érkezett vagy keletkezett minősített adat iktatószámának soron következő alszámaira történik.
+
+(2) Az iktatáskor a titkos ügykezelő a minősített adat hordozóján vagy – ha ezt az adathordozó jellege kizárja – külön kísérőlapon vagy az elektronikus minősített adattól adminisztratív módon elválaszthatatlan kezelésű elektronikus adatállományban feltünteti a minősített adat iktatószámát.

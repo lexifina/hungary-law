@@ -1,0 +1,3 @@
+45. § (1) Az aktuális év iktatókönyvben történő lezárása az aktuális év utolsó munkanapján az utolsó főszámra történt iktatás után – a papír alapú iktatókönyvben az utolsó főszámot követő aláhúzással, keltezéssel, aláírással és hivatalos bélyegző lenyomatának elhelyezésével, iratkezelési szoftver alkalmazása esetén a lezárást követő főszámra történő iktatás kizárásának biztosításával – történik.
+
+(2) Azon iratkezelési segédlet, amelyből a kezelt minősített adatok tartalmára vonatkozóan valamilyen érdemi információ levonható, a kezelt adatoknak megfelelő, legmagasabb megismételt minősítési jelölést tartalmazza.
