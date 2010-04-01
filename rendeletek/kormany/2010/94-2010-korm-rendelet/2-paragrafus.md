@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Bosznia-Hercegovina Kormánya között pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
