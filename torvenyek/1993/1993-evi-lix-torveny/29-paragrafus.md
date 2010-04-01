@@ -62,7 +62,7 @@ I. Az országgyűlési biztos a Magyar Honvédséget érintő vizsgálata során
 
 7. Az MH részletezett költségvetési, számítási, fejlesztési anyagába.
 
-8. Más országok védelmi minisztériumaival és hadseregeivel kötött olyan együttműködési megállapodásokba és tervekbe, valamint a haditechnikai eszközök azon adataiba, melyeket a felek kölcsönösen államtitoknak minősítenek.
+8. Más országok védelmi minisztériumaival és hadseregeivel kötött olyan együttműködési megállapodásokba és tervekbe, valamint a haditechnikai eszközök azon adataiba, melyeket a felek kölcsönösen „Szigorúan titkos!” minősítésű adatnak minősítenek.
 
 9. A hadászati felderítés eszközeire, működésére, valamint az MH felderítés elleni védelmére vonatkozó összesített adatokat tartalmazó iratokba.
 
@@ -80,7 +80,7 @@ II. Az országgyűlési biztos a nemzetbiztonsági szolgálatokat érintő eljá
 
 6. A számítástechnikai eszközök számával, elhelyezésével, működésével, illetve az alkalmazott software-ekkel kapcsolatos dokumentumokba.
 
-7. A rejtjel tevékenységgel, annak szakirányításával és hatósági felügyeletével kapcsolatos dokumentumokba.
+7. A rejtjeltevékenységgel kapcsolatos dokumentumokba.
 
 8. A biztonsági okmányvédelemmel és technológiai ellenőrzéssel kapcsolatos dokumentumokba.
 
@@ -94,23 +94,25 @@ II. Az országgyűlési biztos a nemzetbiztonsági szolgálatokat érintő eljá
 
 III. Az országgyűlési biztos a rendőrséget érintő eljárása során nem tekinthet be:
 
-1. Más államok rendőri szerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a rendőrség valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok állam- vagy szolgálati titokként történő védelmét kérik.
+1. Más államok rendőri szerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a rendőrség valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok minősített adatként történő védelmét kérik.
 
 2. A rendőrség nemzetközi kapcsolataira vonatkozó azon minősített dokumentumokba, megállapodásokba, amelyek a nemzetközi szervezett bűnözés (ideértve a kábítószer-kereskedelmet, a pénzmosást és a terrorcselekményeket) felderítésére és a cselekmények megelőzésére vonatkozó konkrét kötelezettségvállalást tartalmazzák.
 
 3. A nemzetbiztonsági szolgálatoknak a rendőrséggel történő együttműködésével kapcsolatos, és az abból származó, vagy arra vonatkozó minden olyan adatba, amelyet a törvény mellékletének II. szám alatti pontjai felsorolnak.
 
-4. A rendőrségi, illetve a rendőrség által védett objektumok, valamint a rendőrség által védett személyek őrzésvédelmi terveibe, a védelmi berendezésekre, őrségekre, őrhelyekre vonatkozó dokumentációkba, leírásokba.
+4. A rendőrségi, illetve a rendőrség által védett objektumok, valamint a rendőrség által védett személyek őrzés-védelmi terveibe, a védelmi berendezésekre, őrségekre, őrhelyekre vonatkozó dokumentációkba, leírásokba.
 
-5. Az ügyben érintett személyzeti anyagaiba, kivéve, ha ezt az érintett személy írásban kéri.
+5. Az ügyben érintett személyzeti anyagaiba, kivéve, ha ezt az érintett személy írásban igényli.
 
-6. A rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő dokumentumokba, kivéve, ha a jogsérelem az együttműködő személyt érte, s a kivizsgálást maga kéri.
+6. A rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő dokumentumokba, kivéve ha a jogsérelem az együttműködő személyt érte, s a kivizsgálást maga kéri.
 
-7. A rendőrség által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó, vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumokra.
+7. A rendőrség által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumokba.
 
 8. A rendőrség rejtjeles híradásával kapcsolatos adatok, eszközök, dokumentációk, iratok, valamint a kormányzati célú frekvencia nyilvántartásával kapcsolatos összesített adatokba.
 
 9. A tanú személyi adataiba, ha azok zárt kezelését a büntetőeljárásról szóló törvény alapján elrendelték.
+
+10. A Magyar Honvédséggel, a nemzetbiztonsági szolgálatokkal kötött együttműködési megállapodásokba, amelyeket a felek „Szigorúan titkos!” minősítési szintű adatnak minősítettek.
 
 IV.
 
@@ -118,7 +120,7 @@ V.
 
 VI. Az országgyűlési biztos a Vám- és Pénzügyőrséget (a továbbiakban: VP) érintő eljárása során nem tekinthet be:
 
-1. Más államok vámszerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a VP valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok állam- vagy szolgálati titokként történő védelmét kérik.
+1. Más államok vámszerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a VP valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok minősített adatként történő védelmét kérik.
 
 2. A VP nemzetközi kapcsolataira vonatkozó azon minősített dokumentumokba, megállapodásokba, amelyek a nemzetközi szervezett bűnözés (ideértve a kábítószer-kereskedelmet, a pénzmosást és a terrorcselekményeket) felderítésére és a cselekmények megelőzésére vonatkozó konkrét kötelezettségvállalást tartalmazzák.
 
@@ -149,3 +151,7 @@ VII. Az országgyűlési biztos az ügyészség nyomozást végző szervét éri
 4. Az ügyben érintett személyzeti anyagaiba, kivéve, ha ezt az érintett személy írásban kéri.
 
 5. A rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő dokumentumokba, kivéve, ha a jogsérelem az együttműködő személyt érte, s a kivizsgálást maga kéri.
+
+VIII. Az országgyűlési biztos a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait érintő eljárása során nem tekinthet be:
+
+A rejtjeltevékenység szakirányításával és hatósági engedélyezésével, felügyeletével kapcsolatos dokumentumokba.
