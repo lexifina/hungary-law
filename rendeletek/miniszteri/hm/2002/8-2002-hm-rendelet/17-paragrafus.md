@@ -22,7 +22,7 @@ k)[^23] a hivatásos állományúak nyugdíjának a Hjt. 214–214/A. §-a szeri
 
 l) a jogalap nélkül felvett ellátás visszafizetéséről;
 
-m)[^24] a Hjt. 259. § (6) bekezdése szerinti jogosultságról a Magyar Honvédség hivatásos és szerződéses állományú katonáink jogállásáról szóló 2001. évi XCV. törvény módosításáról szóló 2009. évi CXLII. törvény 32. § (3) bekezdése alapján.
+m)[^24]
 
 [^17]: A 17. § nyitó szövegrésze az 5/2010. (III. 9.) HM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^18]: A 17. § d) pontja a 21/2008. (IX. 16.) HM rendelet 9. §-ával megállapított szöveg.
@@ -31,4 +31,4 @@ m)[^24] a Hjt. 259. § (6) bekezdése szerinti jogosultságról a Magyar Honvéd
 [^21]: A 17. § i) pontja a 22/2009. (XII. 29.) HM rendelet 21. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^22]: A 17. § j) pontja a 22/2009. (XII. 29.) HM rendelet 21. § (6) bekezdés b) pontja szerint módosított szöveg.
 [^23]: A 17. § k) pontja a 21/2008. (IX. 16.) HM rendelet 16. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^24]: A 17. § m) pontját a 22/2009. (XII. 29.) HM rendelet 7. §-a iktatta be.
+[^24]: A 17. § m) pontját a 22/2009. (XII. 29.) HM rendelet 7. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 21. § (2) bekezdése. E módosító rendelet 21. § (10) bekezdése alapján a 2010. április 1-jén folyamatban lévő ügyekben is alkalmazni kell.

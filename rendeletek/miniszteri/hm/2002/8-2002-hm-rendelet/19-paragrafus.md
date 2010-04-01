@@ -18,9 +18,9 @@ g) a feltételek hiányában vagy a kötelezően előírt felülvizsgálaton val
 
 h) az özvegyi nyugdíj, az árvaellátás és a szülői nyugdíj ismételt megállapítására (feléledésére) irányuló igényről;
 
-i)[^28] a Hjt. 259. §-ának (6) bekezdés szerinti jogosultságról benyújtott kérelemről.
+i)[^28]
 
 [^25]: A 18. § a 21/2008. (IX. 16.) HM rendelet 10. §-ával megállapított szöveg.
 [^26]: A 19. § a 21/2008. (IX. 16.) HM rendelet 11. §-ával megállapított, nyitó szövegrésze az 5/2010. (III. 9.) HM rendelet 4. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^27]: A 19. § e) pontja a 22/2009. (XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^28]: A 19. § i) pontját a 22/2009. (XII. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^28]: A 19. § i) pontját a 22/2009. (XII. 29.) HM rendelet 8. § (2) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 21. § (2) bekezdése. E módosító rendelet 21. § (10) bekezdése alapján a 2010. április 1-jén folyamatban lévő ügyekben is alkalmazni kell.
