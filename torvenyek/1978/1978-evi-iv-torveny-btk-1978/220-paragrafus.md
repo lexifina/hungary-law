@@ -4,4 +4,4 @@
 
 III. CÍM
 
-Az államtitok és a szolgálati titok megsértése
+Visszaélés minősített adattal

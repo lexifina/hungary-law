@@ -10,7 +10,7 @@ c) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmé
 
 d) a vagyonra, amelyet a bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása végett szolgáltattak vagy arra szántak,
 
-e) a vagyonra, amely az adott vagyoni előny tárgya volt.
+e) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
 
 (2) A vagyonelkobzást el kell rendelni arra a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyonra is, amellyel más gazdagodott. Ha gazdálkodó szervezet gazdagodott ilyen vagyonnal, a vagyonelkobzást vele szemben kell elrendelni.
 

@@ -1,11 +1,5 @@
-## Államtitoksértés feljelentésének elmulasztása
+## Értelmező rendelkezések
 
-223. § (1) Aki hitelt érdemlő tudomást szerez arról, hogy
+223. § (1) E Cím alkalmazásában szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adaton a minősített adat védelméről szóló törvényben ilyen minősítésű nemzeti, vagy nemzetközi szerződésben, az Európai Unió jogi aktusában e minősítésű adatnak megfeleltetett külföldi minősített adatot kell érteni.
 
-a) államtitoksértés elkövetése készül,
-
-b) még le nem leplezett szándékos államtitoksértést követtek el,
-
-és erről a hatóságnak – mihelyt teheti – nem tesz jelentést, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
-
-(2) Az (1) bekezdés alapján az elkövető hozzátartozója nem büntethető.
+(2) A büntetőjogi védelem a minősítés kezdeményezésétől számított 30 napig kiterjed arra az adatra is, amelynek a minősítését kezdeményezték, de a cselekmény elkövetésekor a minősítési eljárást még nem fejezték be, és erről az elkövető tudomással bír.
