@@ -36,15 +36,23 @@ a)[^47] Pest megye és Budapest közigazgatási területét kivéve a megyeszék
 
 b)[^48] Pest megye és Budapest közigazgatási területén a 17. számú Vám- és Pénzügyőri Hivatal, a Buda-térségi Vám- és Pénzügyőri Hivatal, a Dél-Pest térségi Vám- és Pénzügyőri Hivatal és az Észak-Pest térségi Vám- és Pénzügyőri Hivatal,
 
-c)[^49] a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Vám- és Pénzügyőri Hivatal Pápa.
+c)[^49] a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Vám- és Pénzügyőri Hivatal Pápa,
 
-(18)[^50] A (17) bekezdéstől eltérően a regisztrációsadó-visszatérítési eljárásban a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv jár el.
+d)[^50] a regisztrációs adó különös szabályok szerint történő megállapítása, beszedése és ellenőrzése tekintetében
 
-(19)[^51] A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló törvényben foglalt adóztatási, nyilvántartásba vételi feladatok végrehajtására a gazdálkodó székhelye, ennek hiányában telephelye szerint illetékes regionális ellenőrzési központ jár el, a hatósági felügyelet keretében történő hatósági ellenőrzés végrehajtására a gazdálkodó székhelye, telephelye szerinti vám- és pénzügyőri hivatal, míg Budapesten és Pest megyében a 2. számú mellékletben kijelölt hivatal illetékes.
+da) ha a kérelmező lakóhelye vagy székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye vagy Szabolcs-Szatmár-Bereg megye területén található, a Vám- és Pénzügyőri Hivatal Békéscsaba,
 
-(20)[^52] A környezetvédelmi termékdíj megfizetésére kötelezett külföldi vállalkozás esetében a termékdíjköteles termékkel végzett tevékenység bejelentése, a termékdíj bevallása, befizetése, kiszabása, visszaigénylése, ellenőrzése során a pénzügyi képviselő székhelye szerinti regionális ellenőrzési központ, pénzügyi képviselő hiányában a Regionális Ellenőrzési Központ Budapest illetékes.
+db) ha a kérelmező lakóhelye vagy székhelye Budapest, Baranya megye, Fejér megye, Heves megye, Komárom-Esztergom megye, Nógrád megye, Pest megye vagy Tolna megye területén található, a Vám- és Pénzügyőri Hivatal Tatabánya, vagy
 
-(21)[^53] A VPKr. 15. § (1) bekezdés r) pontja szerinti fémkereskedelmi hatósági feladatok tekintetében Budapest és Pest megye közigazgatási területén a 17. számú Vám- és Pénzügyőri Hivatal illetékes.
+dc) ha a kérelmező lakóhelye vagy székhelye Győr-Moson-Sopron megye, Somogy megye, Vas megye, Veszprém megye vagy Zala megye területén található, a Vám- és Pénzügyőri Hivatal Szombathely.
+
+(18)[^51] A (17) bekezdéstől eltérően a regisztrációsadó-visszatérítési eljárásban a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv jár el.
+
+(19)[^52] A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló törvényben foglalt adóztatási, nyilvántartásba vételi feladatok végrehajtására a gazdálkodó székhelye, ennek hiányában telephelye szerint illetékes regionális ellenőrzési központ jár el, a hatósági felügyelet keretében történő hatósági ellenőrzés végrehajtására a gazdálkodó székhelye, telephelye szerinti vám- és pénzügyőri hivatal, míg Budapesten és Pest megyében a 2. számú mellékletben kijelölt hivatal illetékes.
+
+(20)[^53] A környezetvédelmi termékdíj megfizetésére kötelezett külföldi vállalkozás esetében a termékdíjköteles termékkel végzett tevékenység bejelentése, a termékdíj bevallása, befizetése, kiszabása, visszaigénylése, ellenőrzése során a pénzügyi képviselő székhelye szerinti regionális ellenőrzési központ, pénzügyi képviselő hiányában a Regionális Ellenőrzési Központ Budapest illetékes.
+
+(21)[^54] A VPKr. 15. § (1) bekezdés r) pontja szerinti fémkereskedelmi hatósági feladatok tekintetében Budapest és Pest megye közigazgatási területén a 17. számú Vám- és Pénzügyőri Hivatal illetékes.
 
 [^30]: A 16. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 28. § (5) és (9) bekezdése szerint módosított szöveg.
 [^31]: A 16. § (2) bekezdése a 44/2008. (XII. 31.) PM rendelet 28. § (7) bekezdése szerint módosított szöveg.
@@ -66,7 +74,8 @@ c)[^49] a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországa
 [^47]: A 16. § (17) bekezdés a) pontja a 28/2009. (XI. 30.) PM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^48]: A 16. § (17) bekezdés b) pontja a 44/2008. (XII. 31.) PM rendelet 28. § (6) bekezdése szerint módosított szöveg.
 [^49]: A 16. § (17) bekezdés c) pontja a 44/2008. (XII. 31.) PM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^50]: A 16. § új (18) bekezdését a 28/2009. (XI. 30.) PM rendelet 10. § (3) bekezdése iktatta be, egyidejűleg az eredeti (18)–(19) bekezdés számozását (19)–(20) bekezdésre változtatta.
-[^51]: A 16. § (18) bekezdését a 48/2007. (XII. 29.) PM rendelet 16. § (2) bekezdése iktatta be, szövege a 44/2008. (XII. 31.) PM rendelet 15. § (3) bekezdésével megállapított szöveg. A 16. § eredeti (18) bekezdésének számozását (19) bekezdésre változtatta a 28/2009. (XI. 30.) PM rendelet 10. § (3) bekezdése.
-[^52]: A 16. § (19) bekezdését a 44/2008. (XII. 31.) PM rendelet 15. § (4) bekezdése iktatta be, számozását (20) bekezdésre változtatta a 28/2009. (XI. 30.) PM rendelet 10. § (3) bekezdése.
-[^53]: A 16. § (21) bekezdését a 45/2009. (XII. 30.) PM rendelet 2. §-a iktatta be.
+[^50]: A 16. § (17) bekezdés d) pontját a 10/2010. (III. 31.) PM rendelet 1. § (1) bekezdése iktatta be.
+[^51]: A 16. § új (18) bekezdését a 28/2009. (XI. 30.) PM rendelet 10. § (3) bekezdése iktatta be, egyidejűleg az eredeti (18)–(19) bekezdés számozását (19)–(20) bekezdésre változtatta.
+[^52]: A 16. § (18) bekezdését a 48/2007. (XII. 29.) PM rendelet 16. § (2) bekezdése iktatta be, szövege a 44/2008. (XII. 31.) PM rendelet 15. § (3) bekezdésével megállapított szöveg. A 16. § eredeti (18) bekezdésének számozását (19) bekezdésre változtatta a 28/2009. (XI. 30.) PM rendelet 10. § (3) bekezdése.
+[^53]: A 16. § (19) bekezdését a 44/2008. (XII. 31.) PM rendelet 15. § (4) bekezdése iktatta be, számozását (20) bekezdésre változtatta a 28/2009. (XI. 30.) PM rendelet 10. § (3) bekezdése.
+[^54]: A 16. § (21) bekezdését a 45/2009. (XII. 30.) PM rendelet 2. §-a iktatta be.

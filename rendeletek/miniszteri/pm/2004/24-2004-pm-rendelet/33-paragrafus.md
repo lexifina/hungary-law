@@ -1,4 +1,4 @@
-## 33. §[^73] Románia és Bulgária Európai Unióhoz történő csatlakozása következtében a Vám- és Pénzügyőrség 2007. január 1-jével megszűnő szervei és azok jogutódjai:
+## 33. §[^74] Románia és Bulgária Európai Unióhoz történő csatlakozása következtében a Vám- és Pénzügyőrség 2007. január 1-jével megszűnő szervei és azok jogutódjai:
 
 a) Vámhivatal Csengersima, jogutódja Fővámhivatal Nyíregyháza,
 
@@ -14,4 +14,4 @@ f) Vámhivatal Lökösháza, jogutódja Fővámhivatal Békéscsaba,
 
 g) Vámhivatal Nagylak, jogutódja Fővámhivatal Szeged.
 
-[^73]: A 33. §-t a 43/2006. (XII. 26.) PM rendelet 12. §-a iktatta be.
+[^74]: A 33. §-t a 43/2006. (XII. 26.) PM rendelet 12. §-a iktatta be.

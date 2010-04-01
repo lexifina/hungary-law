@@ -1,4 +1,4 @@
-## 20. §[^64] A postaforgalomra vonatkozó illetékességi szabályokat külön jogszabály tartalmazza.
+## 20. §[^65] A postaforgalomra vonatkozó illetékességi szabályokat külön jogszabály tartalmazza.
 
 ## II. KÜLÖNLEGES ESZKÖZÖK ÉS MÓDSZEREK ENGEDÉLYEZÉSÉVEL ÉS IGÉNYBEVÉTELÉVEL KAPCSOLATOS ELJÁRÁSI SZABÁLYOK
 
@@ -18,4 +18,4 @@ d) a sürgősségi elrendelés esetén ennek okára és az elrendelés időpontj
 
 (4) A kérelmet három számozott példányban kell elkészíteni, és ezeket a titkos ügykezelés szabályai szerint kell a bírónak megküldeni. Az elbírálás után a kérelemből két példányt az előterjesztő részére kell megküldeni.
 
-[^64]: A 20. § a 44/2008. (XII. 31.) PM rendelet 16. §-ával megállapított szöveg.
+[^65]: A 20. § a 44/2008. (XII. 31.) PM rendelet 16. §-ával megállapított szöveg.

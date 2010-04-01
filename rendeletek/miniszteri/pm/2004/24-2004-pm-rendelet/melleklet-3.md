@@ -834,6 +834,6 @@
 
 ## Illetékessége a Magyar Köztársaság területére terjed ki.
 
-3. számú melléklet a 24/2004 (IV. 23.) PM rendelethez[^76]
+3. számú melléklet a 24/2004 (IV. 23.) PM rendelethez[^78]
 
-[^76]: A 3. számú mellékletet a 44/2008. (XII. 31.) PM rendelet 44. § (2) bekezdése hatályon kívül helyezte.
+[^78]: A 3. számú mellékletet a 44/2008. (XII. 31.) PM rendelet 44. § (2) bekezdése hatályon kívül helyezte.

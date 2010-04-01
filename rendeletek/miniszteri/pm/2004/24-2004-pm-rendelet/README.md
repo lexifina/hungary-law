@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-24-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2004-24-20-53.20 | 24/2004. (IV. 23.) PM rendelet |
+| 2010-04-01 | 2004-24-20-53.21 | 10/2010. (III. 31.) PM rendelet |

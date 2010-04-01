@@ -1344,6 +1344,6 @@
 
 ## Vám- és Pénzügyőri Hivatal Letenye illetékessége a letenyei határátkelőhely és a murakeresztúri vasúti határátkelőhely területére terjed ki.
 
-2. számú melléklet a 24/2004. (IV. 23.) PM rendelethez[^75]
+2. számú melléklet a 24/2004. (IV. 23.) PM rendelethez[^77]
 
-[^75]: A 2. számú melléklet a 48/2005. (XII. 27.) PM rendelet 7. § (2) bekezdése, a 6/2008. (III. 28.) PM rendelet 1. § (3) bekezdése, a 44/2008. (XII. 31.) PM rendelet 17. § (2) bekezdése, 28. § (17) bekezdése és 44. § (3) bekezdése, a 28/2009. (XI. 30.) PM rendelet 13. § (2) bekezdése, a 45/2009. (XII. 30.) PM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^77]: A 2. számú melléklet a 48/2005. (XII. 27.) PM rendelet 7. § (2) bekezdése, a 6/2008. (III. 28.) PM rendelet 1. § (3) bekezdése, a 44/2008. (XII. 31.) PM rendelet 17. § (2) bekezdése, 28. § (17) bekezdése és 44. § (3) bekezdése, a 28/2009. (XI. 30.) PM rendelet 13. § (2) bekezdése, a 45/2009. (XII. 30.) PM rendelet 5. § (2) bekezdése szerint módosított szöveg.
