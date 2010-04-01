@@ -1,1 +1,0 @@
-## 8. § A szolgáltatás igénybevevőinek lehetőséget kell biztosítani telefon összeköttetések létrehozására és fenntartására a szolgáltatásra igénybe vett telefonhálózattal összekapcsolt más nyilvános telefonhálózat hálózati végpontjaival is.
