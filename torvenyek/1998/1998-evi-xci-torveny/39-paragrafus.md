@@ -56,7 +56,7 @@ c) az egészségügyi intézmények egymásnak nyújtott szakmai szolgáltatása
 
 d) az APEH 1999-re vonatkozó adatszolgáltatásának és az 1998. évre, valamint az azt megelőző évekre fennmaradó tartozások — különösen a tartozást mutató folyószámla-állomány vonatkozásában — kezelésének eljárási rendjét rendeletben szabályozza.
 
-(7) Az Alk.tv. melléklete helyébe az e törvény 32. §-ában megállapított rendelkezések hatálybalépésének időpontjától e törvény 8. számú melléklete lép.
+(7)
 
 (8) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosításáról szóló 1998. évi LXVII. törvény
 
