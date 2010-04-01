@@ -24,7 +24,7 @@ b) a szolgáltatást nyújtó orvos személyében bekövetkezett változást ann
 
 (5)[^7] A foglalkozás-egészségügyi szolgáltató, illetve a szolgáltatást nyújtó orvos személyében bekövetkezett változás esetén a szolgáltatást korábban nyújtó szolgáltató, illetve orvos köteles a foglalkozás-egészségügyi feladatok ellátásához szükséges dokumentumokat – egészségügyi adatok esetében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezéseire figyelemmel – a foglalkozás egészségügyi szolgáltatást biztosító szolgáltató részére átadni.
 
-(6)[^8] Azok a munkáltatók, akik nem tartanak fenn szolgálatot, továbbá a munkaügyi központok, a települési önkormányzatok és a szakképző intézmények a külön jogszabályban meghatározott vizsgálatok elvégzése ellenében – eltérő megállapodás hiányában – az 1. számú mellékletben meghatározott térítési díjat fizetik a szolgáltatást nyújtónak.
+(6)[^8]
 
 (7)[^9] Ha a szakmai alkalmassági vizsgálatra beutalt munkanélküli vizsgálata alkalmatlan minősítéssel zárul és emiatt a foglalkoztathatóság vizsgálatára kerül sor, a munkaügyi központ – eltérő megállapodás hiányában – a foglalkoztathatóság vizsgálatának a megállapodásuk szerinti térítési díját köteles megfizetni.
 
@@ -34,6 +34,6 @@ b) a szolgáltatást nyújtó orvos személyében bekövetkezett változást ann
 [^5]: A 2. § új (3) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (6) bekezdésre változtatta.
 [^6]: A 2. § új (4) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (7) bekezdésre változtatta.
 [^7]: A 2. § új (5) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdésének számozását (8) bekezdésre változtatta.
-[^8]: A 2. § (3) bekezdése a 64/2000. (V. 9.) Korm. rendelet 5.§-ával megállapított szöveg. A 2. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése.
+[^8]: A 2. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése. A 2. § (6) bekezdését a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
 [^9]: A 2. § új (4) bekezdését a 9/1999. (I. 27.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, s egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatta. A 2. § (4) bekezdésének számozását (7) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése.
 [^10]: A 2. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 9/1999. (I. 27.) Korm. rendelet 2. §-ának (2) bekezdése. A 2. § (5) bekezdésének számozását (8) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése.
