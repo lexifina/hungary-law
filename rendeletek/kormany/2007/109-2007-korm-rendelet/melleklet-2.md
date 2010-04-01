@@ -58,7 +58,7 @@
 
 ## 29. a fenti állami szervek körébe nem tartozó, a hálózatgazda jóváhagyásával az EDR hálózathoz külön megállapodás alapján kapcsolódó, jellemzően készenléti feladatokat ellátó szervezetek, amelyek a közigazgatási szervezetek szolgáltatását kiegészítő feladatokat, illetve közszolgáltatásokat látnak el, vagy kritikus fontosságú infrastruktúrát üzemeltetnek.
 
-2. számú melléklet a 109/2007. (V. 15.) Korm. rendelethez
+2. számú melléklet a 109/2007. (V. 15.) Korm. rendelethez[^19]
 
 Az EDR használati szabályzata
 
@@ -332,7 +332,7 @@ Az EDR használatára kizárólag szolgálati célból (szolgálati beszélgeté
 
 A Szervezet VPN-jének működtetését és felügyeletét, valamint a rádióterminálok programozását, a forgalmi csoportok kialakítását és az egyéb beállításokat Szervezet illetékes vezetője szabályozza.
 
-Az EDR használata során tapasztalt rendszerszintű, valamint diszpécserekre és rádióterminálokra vonatkozó hiányosságok és hibák, illetve egyéb bejelentések vétele érdekében a szolgáltató, 24 órás munkarendben ügyfélszolgálatot[^18] működtet. Az ügyfélszolgálat a hiba jellegétől függően a VPN menedzsmenttől, a kijelölt diszpécserektől, illetve az egyes felhasználóktól fogadja a bejelentéseket.
+Az EDR használata során tapasztalt rendszerszintű, valamint diszpécserekre és rádióterminálokra vonatkozó hiányosságok és hibák, illetve egyéb bejelentések vétele érdekében a szolgáltató, 24 órás munkarendben ügyfélszolgálatot[^20] működtet. Az ügyfélszolgálat a hiba jellegétől függően a VPN menedzsmenttől, a kijelölt diszpécserektől, illetve az egyes felhasználóktól fogadja a bejelentéseket.
 
 A szolgáltató az EDR hálózaton kívülről érkező bejelentés jogosságáról visszahívással győződik meg. Ennek érdekében az Szervezet illetékes vezetője az érintett szervezetekkel történt egyeztetést követően megadja az ügyfélszolgálat részére a hibabejelentésre jogosult diszpécserek elérhetőségét.
 
@@ -812,7 +812,7 @@ Az informatikai biztonsággal összefüggő jogszabályok:
 
 3. 1998. évi VI. törvény az egyének védelméről a személyes adatok gépi feldolgozása során
 
-4. 1995. évi LXV. törvény (Ttv.) az államtitokról és a szolgálati titokról.
+4. 2009. évi CLV. törvény (Mavtv.) a minősített adat védelméről
 
 5.1. Megkívánt biztonsági szint
 
@@ -914,4 +914,5 @@ q) folyamatos tájékoztatást kérni a menedzsmentközpont részére biztosí
 
 A Felhasználók, a Hálózatgazda értesítése mellett a hibaelhárítás rendjét, illetve a karbantartási feladatok ellátását közvetlenül a Szolgáltatóval, annak e célból fenntartott Ügyfélszolgálatán keresztül intézik az adott Felhasználó és a Szolgáltató között létrejövő egyedi megállapodás alapján. Az egyedi megállapodás tartalmát a Hálózatgazda hagyja jóvá.
 
-[^18]: Jelenlegi elérhetőség: 06-1/265-6500, 06-80/430-000, ugyfelszolgalat@pro-m.hu
+[^19]: A 2. számú melléklet a 90/2010. (III. 26.) Korm. rendelet 69. § (22) bekezdése szerint módosított szöveg.
+[^20]: Jelenlegi elérhetőség: 06-1/265-6500, 06-80/430-000, ugyfelszolgalat@pro-m.hu

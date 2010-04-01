@@ -8,7 +8,7 @@ A Schengeni Megállapodás Schengenben, 1990. június 19-én aláírt Végrehajt
 
 A Magyar Állammal kötött szerződés alapján az EDR szolgáltatást nyújtó szervezet.
 
-3.[^1] VPN:
+3.[^2] VPN:
 
 Virtuális magánhálózat (Virtual Private Network). Használatával a VPN-en belül kapcsolatba lépő felek egy fizikailag elkülönült magánhálózatnak megfelelő biztonsággal kommunikálhatnak. Az EDR egységes infrastruktúráján a VPN a rendszer által biztosított szolgáltatás hozzáférési lehetőség, a felhasználó szempontjából önálló, zárt rádióhálózatként viselkedő virtuális, országos, regionális vagy helyi kiterjedésű hálózat, amely a rendszer által biztosított hierarchia legfelső szintjéről szervezhető. Egy VPN-en belül többszintű hierarchia létrehozása biztosítható a technológia által korlátozott módon.
 
@@ -24,4 +24,4 @@ Egy vagy több, a felhasználói körbe tartozó szervezet részére virtuális 
 
 A rendelet 1. számú mellékletében felsorolt szervezetek.
 
-[^1]: Az 1. § 3. pontja a 222/2008. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 3. pontja a 222/2008. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
