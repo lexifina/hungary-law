@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-141-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-06-01 | 2008-141-20-22.2 | 141/2008. (V. 16.) Korm. rendelet |
+| 2010-04-01 | 2008-141-20-22.3 | 90/2010. (III. 26.) Korm. rendelet |
