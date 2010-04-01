@@ -1,4 +1,4 @@
-25. § (1) Az adatvédelmi biztos figyelemmel kíséri a személyes adatok védelmének, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánossága érvényesülésének feltételeit. Javaslatot tesz az adatkezelést, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánosságát érintő jogszabályok megalkotására, illetve módosítására, véleményezi az ilyen jogszabályok tervezetét. Kezdeményezheti az államtitokkörben, valamint a szolgálati titokkörben meghatározott adatfajták szűkítését vagy bővítését.
+25. § (1) Az adatvédelmi biztos figyelemmel kíséri a személyes adatok védelmének, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánossága érvényesülésének feltételeit. Javaslatot tesz az adatkezelést, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánosságát érintő jogszabályok megalkotására, illetve módosítására, véleményezi az ilyen jogszabályok tervezetét.
 
 (2) Az adatvédelmi biztos a jogellenes adatkezelés észlelése esetén az adatkezelőt az adatkezelés megszüntetésére szólítja fel. Az adatkezelő haladéktalanul köteles megtenni a szükséges intézkedéseket, és erről 30 napon belül írásban tájékoztatni az adatvédelmi biztost.
 

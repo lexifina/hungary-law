@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdésben meghatározott szervek rendszeresen elektronikusan vagy más módon közzéteszik, továbbá erre irányuló igény esetén a 20. § rendelkezései szerint hozzáférhetővé teszik a tevékenységükkel kapcsolatos legfontosabb – így különösen a hatáskörükre, illetékességükre, szervezeti felépítésükre, szakmai tevékenységükre, annak eredményességére is kiterjedő értékelésére, a birtokukban lévő adatfajtákra és a működésükről szóló jogszabályokra, valamint a gazdálkodásukra vonatkozó – adatokat. A tájékoztatás módját, a vonatkozó adatok körét jogszabály is megállapíthatja.
 
-(3) Az (1) bekezdésben említetteknek lehetővé kell tenniük, hogy a kezelésükben lévő közérdekű adatot bárki megismerhesse, kivéve, ha az adatot törvény alapján az arra jogosult szerv állam- vagy szolgálati titokká nyilvánította, illetve ha az nemzetközi szerződésből eredő kötelezettség alapján minősített adat, továbbá, ha a közérdekű adatok nyilvánosságához való jogot – az adatfajták meghatározásával – törvény
+(3) Az (1) bekezdésben említetteknek lehetővé kell tenniük, hogy a kezelésükben lévő közérdekű adatot bárki megismerhesse, kivéve, ha az adatot törvény alapján az arra jogosult szerv minősítette, illetve ha az nemzetközi szerződésből eredő kötelezettség alapján minősített adat, továbbá, ha a közérdekű adatok nyilvánosságához való jogot – az adatfajták meghatározásával – törvény
 
 a) honvédelmi;
 
