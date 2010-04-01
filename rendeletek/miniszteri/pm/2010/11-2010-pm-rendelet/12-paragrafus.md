@@ -1,0 +1,1 @@
+## 11. § A kérelem hiteles magyar fordítás és diplomáciai felülhitelesítés mellőzésével is benyújtható, ha azt a Közösség érintett tagállamának hivatalosként elismert nyelvén vagy a Közösség valamely munkanyelvén (angol, francia, német) állították ki.
