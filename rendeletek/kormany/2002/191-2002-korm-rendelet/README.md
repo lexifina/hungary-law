@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-191-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2002-191-20-22.14 | 191/2002. (IX. 4.) Korm. rendelet |
+| 2010-04-01 | 2002-191-20-22.15 | 90/2010. (III. 26.) Korm. rendelet |

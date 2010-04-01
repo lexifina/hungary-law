@@ -18,6 +18,8 @@
 
 ## 6. A szervezetnek felelősségbiztosítást kell kötnie, mivel a szavatosságot a vonatkozó jogszabályok alapján az államnak kell viselnie, vagy a vizsgálatokat közvetlenül az államnak kell elvégeznie.
 
-## 7. A szervezet személyzete a feladatok elvégzésével kapcsolatos összes olyan információ tekintetében köteles a szolgálati titkot megtartani, amelyhez e rendelet keretében ellátott vagy más – e rendelet alapján hatályos – jogszabályban előírt feladatai ellátása során hozzájutott.
+## 7.[^80] A szervezet személyzete a feladatok elvégzésével kapcsolatos összes olyan információ tekintetében köteles a minősített adatot megtartani, amelyhez e rendelet keretében ellátott vagy más – e rendelet alapján hatályos – jogszabályban előírt feladatai ellátása során hozzájutott.
 
 4. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez
+
+[^80]: A 3.számú melléklet 7. pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (5) bekezdése szerint módosított szöveg.
