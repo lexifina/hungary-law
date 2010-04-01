@@ -1,12 +1,15 @@
-12. § (1)[^24] A rendészetért felelős miniszter veszélyeztetettség esetén – a használóval egyetértésben – más létesítmény rendőrség által történő ideiglenes őrzését is elrendelheti a veszélyeztetettség fennállásának időtartamára.
+12. §[^40] (1) A Köztársasági Őrezred megelőző-védelmi tevékenysége körében végzett veszélyeztetettség-értékelés alapján a rendészetért felelős miniszter – a használóval egyetértésben – más létesítmény Köztársasági Őrezred által történő, ideiglenes jellegű őrzését és védelmét is elrendelheti a veszélyeztetettség fennállásának időtartamára.
 
-(2)[^25] Az (1) bekezdés szerinti őrzés a rendészetért felelős miniszter döntése szerint a be- és kilépők ellenőrzésére, az épület munkaidőn kívüli külső biztosítására, vagy a teljes körű őrzés-védelemre terjedhet ki.
+(2) Az (1) bekezdés szerinti őrzés és védelem a rendészetért felelős miniszter döntése szerint
 
-(3)[^26] A Kormány döntéséig a rendészetért felelős miniszter utasításban intézkedik a veszélyeztetett létesítmény rendőrség által történő ideiglenes őrzésére.
+a) a be- és kilépő személyek, valamint csomagjaik ellenőrzésére,
 
-(4)[^27] A veszélyeztetettség fennállását a rendőrség erre kijelölt szerve folyamatosan értékeli, és megszűnése esetén javaslatot tesz az őrzés megszüntetésére.
+b) az épület munkaidőn kívüli technikai biztosítására, vagy
 
-[^24]: A 12. § (1) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
-[^25]: A 12. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
-[^26]: A 12. § (3) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 14. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
-[^27]: A 12. § (4) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 14. §-ával megállapított szöveg.
+c) a 11. § (2) bekezdésben foglalt intézkedések egyidejű alkalmazására
+
+terjed ki.
+
+(3) A veszélyeztetettség fennállását a Köztársasági Őrezred folyamatosan értékeli, és megszűnése esetén javaslatot tesz az (1) bekezdés szerinti őrzés és védelem megszüntetésére.
+
+[^40]: A 12. § a 63/2010. (III. 18.) Korm. rendelet 8. §-ával megállapított szöveg.

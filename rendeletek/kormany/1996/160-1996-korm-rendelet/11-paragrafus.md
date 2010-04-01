@@ -1,12 +1,32 @@
 ## A létesítmények védelme
 
-11. § (1)[^22] A mellékletben kijelölt létesítmények – az Országház és az Országgyűlés Irodaháza tekintetében a végrehajtásra vonatkozó külön jogszabály szerinti – folyamatos őrzését és védelmét a rendőrség erre kijelölt szerve végzi.
+11. §[^38] (1) A kijelölt létesítmények folyamatos őrzését és védelmét a Köztársasági Őrezred végzi.
 
-(2) A létesítmény védelme a külső technikai biztosításra, a be- és kilépő személy, valamint csomagjai ellenőrzésére, az érkező szállítmánynak és küldeménynek biztonsági ellenőrzésére terjed ki.
+(2) A kijelölt létesítmény védelme
 
-(3) Az Országház és az Országgyűlés Irodaháza esetében a külső technikai biztosításra, a be- és kilépő személy, valamint csomagjaik ellenőrzésére, a külső-belső őrzésre, a közvetlen környezetüknek, az érkező szállítmánynak és küldeménynek biztonsági ellenőrzésére vonatkozó végrehajtási szabályokat külön jogszabály tartalmazza.
+a) a létesítmény technikai biztosítására,
 
-(4)[^23] A kijelölt létesítményt a létesítmény kezelője (használója) az őrzés biztonságához feltétlenül szükséges biztonságtechnikai eszközökkel és berendezésekkel szereli fel, valamint biztosítja az őrzését ellátó állomány megfelelő szintű elhelyezését. A biztonságtechnikai eszközök és berendezések alkalmassága tekintetében a rendőrség véleményt nyilvánít.
+b) a be- és kilépő személyek, valamint csomagjaik ellenőrzésére,
 
-[^22]: A 11. § (1) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^23]: A 11. § (4) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
+c) a létesítmény közvetlen környezetének, továbbá az érkező szállítmányok és küldemények biztonsági ellenőrzésére, és
+
+d) a külső-belső őrzésre
+
+terjed ki.
+
+(3) A kijelölt létesítményt a létesítmény kezelője (használója) az őrzés biztonságához szükséges biztonságtechnikai eszközökkel és berendezésekkel szerelteti fel, és biztosítja az őrzést ellátó állomány megfelelő szintű elhelyezését. A létesítmény kezelője (használója) költségére a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét a Köztársasági Őrezred végzi.
+
+(4) Az Információs Hivatal központi objektuma esetében
+
+a) a létesítmény technikai biztosítása kizárólag a külső biztosításra terjed ki, továbbá
+
+b) a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét az Információs Hivatal végzi.
+
+[(5)[^39] A Nemzetbiztonsági Szakszolgálat központi objektuma esetében
+
+a) a létesítmény védelme kizárólag a létesítmény közvetlen környezetének biztonsági ellenőrzésére és külső őrzésére terjed ki, továbbá
+
+b) a (3) bekezdésben foglaltakat – az őrzést ellátó állomány megfelelő szintű elhelyezésének biztosítására vonatkozó kötelezettség kivételével – nem kell alkalmazni.]
+
+[^38]: A 11. § a 63/2010. (III. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^39]: A 11. § (5) bekezdését a 63/2010. (III. 18.) Korm. rendelet 7. § (2) bekezdése iktatta be. [E módosító rendelet 14. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
