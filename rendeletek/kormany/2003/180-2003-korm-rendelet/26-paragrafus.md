@@ -1,3 +1,0 @@
-26. § (1) A Telephely Biztonsági Tanúsítvány a kiállítástól számított 5 évig érvényes. Amennyiben a gazdálkodó szervezet a 23. § (3) bekezdésében meghatározott biztonsági követelményeket nem teljesíti, a Felügyelet a kiadott Telephely Biztonsági Tanúsítványt visszavonja.
-
-(2) A Telephely Biztonsági Tanúsítvány érvényességi idejének meghosszabbítása érdekében, a Telephely Biztonsági Tanúsítvány érvényességi idejének lejáratát megelőző hat hónapon belül a 21–22. §-okban meghatározott ellenőrzések újbóli végrehajtása szükséges. A gazdálkodó szervezet a Telephely Biztonsági Tanúsítvány megújítására vonatkozó szándékát az érvényességi idő lejáratát megelőző 6. hónapban a Felügyelet felé jelzi.

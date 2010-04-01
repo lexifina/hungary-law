@@ -1,3 +1,0 @@
-9. § (1) Mindazon NATO, NYEU, illetve EU rendezvényre, ahol külföldi minősítéssel és jelöléssel ellátott adatokról tárgyalnak, vagy ha azt a NATO, NYEU, illetve EU előírások egyébként megkövetelik, a kérelmező nyilvántartásba vett Személyi Biztonsági Tanúsítványáról egy példányban készült angol nyelvű Igazolást a Felügyelet a rendező szerv biztonsági megbízottjához továbbítja. Az Igazolás kiállítását minden alkalommal az 1., 2., illetve a 3. számú mellékletben szereplő Adatlap teljes kitöltésével kell kérelmezni a Felügyelettől. A kiállított Igazolást a rendező szerv biztonsági megbízottja kezeli.
-
-(2) Amennyiben egyes NATO, NYEU, illetve EU szervek esetében a kért Igazolás formája eltérő, akkor az ott alkalmazott formanyomtatvány megküldése is szükséges.

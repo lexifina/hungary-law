@@ -1,7 +1,0 @@
-## 6. § A külföldi minősítéssel és jelöléssel ellátott adatokhoz a hozzáférés csak azon személyek számára engedélyezhető, akiknek az Nbtv. 71. §-a (2) bekezdésének b) pontjában meghatározott szintű nemzetbiztonsági ellenőrzése megtörtént, kockázati tényező személyükkel kapcsolatban nem merült fel, a külföldi minősítéssel és jelöléssel ellátott adatok ismerete állami vagy közfeladat végrehajtásához szükséges, és rendelkeznek az erre vonatkozó, a Felügyelet által nyilvántartásba vett Személyi Biztonsági Tanúsítvánnyal és az erről szóló Igazolással.
-
-7. § (1) A Személyi Biztonsági Tanúsítvány nyilvántartásba vételét a külföldi minősítéssel és jelöléssel ellátott adatok védelmének szakmai irányítását, illetve felügyeletét végző szerv vagy – ha ilyen nincs – közvetlenül a kezdeményező szerv (a továbbiakban: kérelmező) biztonsági megbízottja az 1., 2., illetve a 3. számú mellékletben szereplő Adatlap kitöltésével kérelmezi a Felügyelettől.
-
-(2) A Személyi Biztonsági Tanúsítvány nyilvántartásba vételéhez a kérelmező – kivéve azon esetet, amikor az Nbtv. 69. §-ának (14) bekezdése alapján a Felügyelet elnöke a kezdeményező – az 1., 2., illetve a 3. számú mellékletben szereplő Adatlapot az Nbtv. 72. §-ának (1) bekezdésében meghatározott szakvélemény másolatával együtt megküldi a Felügyelet részére.
-
-(3) A kérelmező felelőssége, hogy csak olyan személy részére kérje Személyi Biztonsági Tanúsítvány nyilvántartásba vételét, akinek a külföldi minősítéssel és jelöléssel ellátott adat megismerése, illetve kezelése állami vagy közfeladat végrehajtásához szükséges.
