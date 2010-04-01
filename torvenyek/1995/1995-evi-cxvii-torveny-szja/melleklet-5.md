@@ -398,19 +398,7 @@ A nyilvántartás tartalmazza:
 
 – a kiselejtezett készlet mennyiségét és szokásos piaci értékét.
 
-11. Alkalmi foglalkoztatás nyilvántartása
-
-A magánszemélynek munkavállaló – külön törvény rendelkezései szerinti – alkalmi munkavállalói könyvvel történő foglalkoztatása esetén a külön törvény szerinti nyilvántartást munkavállalónkénti bontásban úgy kell vezetnie, hogy az legalább a következő adatokat tartalmazza:
-
-– a munkavállaló természetes azonosító adatait és adóazonosító jelét,
-
-– az alkalmi munkavállalói könyv sorszámát,
-
-– a kifizetett munkadíjat,
-
-– az alkalmi munkavállalói könyvben érvényesített közteherjegy(ek) értékét,
-
-– a munkavállaló aláírását.
+11.
 
 12.
 
