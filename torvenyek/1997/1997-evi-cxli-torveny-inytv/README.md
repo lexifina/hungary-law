@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-141-00-00.24 |
 | 2010-01-02 | 2009. évi CXLIV. törvény | 1997-141-00-00.25 |
+| 2010-04-01 | 2010. évi XLIII. törvény | 1997-141-00-00.26 |

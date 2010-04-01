@@ -11,3 +11,5 @@ b) a nyilvántartás tárgyát képező épület, építmény létesítését, i
 (4) Nincs szükség külön bejelentésre, ha a (2) és (3) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
 (5) Az ingatlan adataiban hatósági határozattal, továbbá a település igazgatási, belterületi határának módosításával kapcsolatban bekövetkezett változásokat az eljáró hatóság jelenti be az ingatlanügyi hatóságnak.
+
+[(6) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.]
