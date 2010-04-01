@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-43-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-43-20-22.3 | 43/2003. (III. 31.) Korm. rendelet |
+| 2010-04-01 | 2003-43-20-22.4 | 90/2010. (III. 26.) Korm. rendelet |
