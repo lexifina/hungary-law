@@ -44,6 +44,6 @@
 
 ## Tudományos munkakör csak a megyei és országos közművelődési szakmai tanácsadást, szolgáltatást végző szervezetekben létesíthető.
 
-3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^58]
+3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^59]
 
-[^58]: A 3. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^59]: A 3. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

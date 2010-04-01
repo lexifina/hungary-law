@@ -164,7 +164,7 @@
 
 | A munkamegosztás szempontjából elkülönült gazdasági, műszaki, üzemeltetési és igazgatási szervezeti egység irányítója | 100 |
 
-4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^59]
+4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^60]
 
 A honvédelmi ágazatba tartozó közgyűjteményi intézményekben foglalkoztatott közalkalmazottak munkaköreinek megnevezése,
 
@@ -322,4 +322,4 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 61 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
 
-[^59]: A 4. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^60]: A 4. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.

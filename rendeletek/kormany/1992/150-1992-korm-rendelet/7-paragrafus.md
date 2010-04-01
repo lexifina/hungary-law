@@ -14,11 +14,11 @@
 
 (6)[^25] A bizottság tagja a Közalkalmazotti Tanács, illetve a reprezentatív szakszervezet által delegált egy-egy tag, továbbá egy országos szakmai szervezet képviselője is.
 
-(7) A pályázat tartalma csak a pályázó beleegyezésével közölhető a megbízón és az elbíráló bizottság tagjain kívül más személlyel. A bíráló bizottság üléséről készült jegyzőkönyvre (hangfelvételre) a szolgálati titok védelmére vonatkozó előírások az irányadóak.
+(7)[^26] A pályázat tartalma csak a pályázó beleegyezésével közölhető a megbízón és az elbíráló bizottság tagjain kívül más személlyel.
 
-(8)[^26] A magasabb vezetői és az intézményvezetői beosztásra megbízást a munkáltatói jogkör gyakorlója ad a bizottság javaslatának figyelembevételével.
+(8)[^27] A magasabb vezetői és az intézményvezetői beosztásra megbízást a munkáltatói jogkör gyakorlója ad a bizottság javaslatának figyelembevételével.
 
-(9) Magasabb vezető megbízásához és annak visszavonásához — amennyiben nem a fenntartó a munkáltatói jogkör gyakorlója — szükséges a fenntartó egyetértése is. Nincs szükség ilyen egyetértésre a közgyűjteményi, közművelődési intézmény főosztályvezetőjének megbízása, illetve megbízásának visszavonása esetében.[^27]
+(9) Magasabb vezető megbízásához és annak visszavonásához — amennyiben nem a fenntartó a munkáltatói jogkör gyakorlója — szükséges a fenntartó egyetértése is. Nincs szükség ilyen egyetértésre a közgyűjteményi, közművelődési intézmény főosztályvezetőjének megbízása, illetve megbízásának visszavonása esetében.[^28]
 
 (10) A pályázatokat a benyújtási határidőt követően 30 napon belül kell elbírálni. Amennyiben a pályázat eredménytelen, a pályázatot 90 napon belül meg kell ismételni.
 
@@ -26,5 +26,6 @@
 [^23]: A 7. § (2) bekezdése a 112/2001. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^24]: A 7. § (4) bekezdése a 3/2009. (I. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^25]: A 7. § (6) bekezdése a 3/2009. (I. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^26]: A 7. § (8) bekezdése a 3/2009. (I. 10.) Korm. rendelet 12. §-ának b) pontja szerint módosított szöveg.
-[^27]: A 7. § (9) bekezdésének utolsó mondatát a 16/1997. (I. 31.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^26]: A 7. § (7) bekezdése a 90/2010. (III. 26.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^27]: A 7. § (8) bekezdése a 3/2009. (I. 10.) Korm. rendelet 12. §-ának b) pontja szerint módosított szöveg.
+[^28]: A 7. § (9) bekezdésének utolsó mondatát a 16/1997. (I. 31.) Korm. rendelet 2. §-a iktatta a szövegbe.
