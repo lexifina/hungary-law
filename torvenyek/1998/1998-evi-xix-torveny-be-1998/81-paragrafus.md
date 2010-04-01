@@ -10,6 +10,6 @@ c) akitől a testi vagy szellemi állapota miatt nyilvánvalóan nem várható h
 
 d) a hatósági tanú olyan tényekre, adatokra, körülményekre nézve, amelyre titoktartási kötelezettség terheli, és ez alól a bíróság, az ügyész, illetőleg a nyomozó hatóság nem mentette fel.
 
-(2) Államtitoknak vagy szolgálati titoknak minősülő tényről nem hallgatható ki tanúként az, aki a titoktartási kötelezettség alól nem kapott felmentést.
+(2) Minősített adatról nem hallgatható ki tanúként az, aki a titoktartási kötelezettség alól nem kapott felmentést.
 
-(3) A (2) bekezdésben meghatározott esetben az államtitokról és a szolgálati titokról szóló törvényben meghatározott minősítő az ügyész, illetőleg a bíróság megkeresésére dönt a felmentés megadásáról vagy a titoktartási kötelezettség fenntartásáról. A felmentésre irányuló megkeresésben azonosításra alkalmas módon meg kell jelölni azokat a kérdéseket, amelyekre a felmentést kérik.
+(3) A (2) bekezdésben meghatározott esetben a minősített adat védelméről szóló törvényben meghatározott minősítő az ügyész, illetőleg a bíróság megkeresésére dönt a felmentés megadásáról vagy a titoktartási kötelezettség fenntartásáról. A felmentésre irányuló megkeresésben azonosításra alkalmas módon meg kell jelölni azokat a kérdéseket, amelyekre a felmentést kérik.

@@ -6,7 +6,7 @@ b) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő sza
 
 c) az emberkereskedelem, a tiltott pornográf felvétellel visszaélés, a kitartottság, a kerítés, az embercsempészés, a hivatali visszaélés és a bűnpártolás három évig terjedő szabadságvesztéssel fenyegetett alakzata,
 
-d) szolgálati titoksértés bűncselekménye,
+d) visszaélés minősített adattal bűncselekménye,
 
 e) az a)–d) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete
 

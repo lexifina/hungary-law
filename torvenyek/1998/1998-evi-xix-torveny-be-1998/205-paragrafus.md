@@ -1,6 +1,6 @@
 ## A titkos adatszerzés eredményének megismerése
 
-205. § (1) A titkos adatszerzés során keletkezett és rögzített adatok megóvásáról az ügyész, illetőleg a titkos adatszerzést folytatott nyomozó hatóság az államtitokról és a szolgálati titokról szóló törvényben szabályozottak szerint gondoskodik.
+205. § (1) A titkos adatszerzés során keletkezett és rögzített adatok megóvásáról az ügyész, illetőleg a titkos adatszerzést folytatott nyomozó hatóság a minősített adat védelméről szóló törvényben szabályozottak szerint gondoskodik.
 
 (2) A titkos adatszerzés tényét, valamint az azzal beszerzett és rögzített adatot a titkos adatszerzés végrehajtása során, illetőleg azt követően mindaddig, amíg a titkos adatszerzésről szóló jelentést az ügyész nem csatolta az iratokhoz, az engedélyező bíró, az ügyész és a nyomozó hatóság, valamint az ügyész és a nyomozó hatóság hivatali felettese (szolgálati elöljárója) ismerheti meg. A titkos adatszerzés engedélyezésével kapcsolatos bírósági iratokat az engedélyező bíró ügyelosztást végző vezetője, valamint a 207. § (1) bekezdésében meghatározott igazgatási vezetője is megismerheti.
 

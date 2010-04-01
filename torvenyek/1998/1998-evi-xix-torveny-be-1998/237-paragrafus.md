@@ -12,6 +12,6 @@ b) az eljárásban részt vevő kiskorú védelme érdekében,
 
 c) az eljárásban részt vevő személyek (V. Fejezet) vagy a tanú védelme érdekében,
 
-d) az államtitok vagy szolgálati titok megőrzése végett.
+d) a minősített adat védelme végett.
 
 (4) A nyilvánosság kizárása az eljárás bármely szakaszában indítványozható.

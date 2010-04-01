@@ -23,9 +23,3 @@ e)
 f) az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a pszichiátriai fekvőbeteg-intézetben az elmeállapot megfigyelésével kapcsolatos költségeket és ezek elszámolását az egészségügyért felelős miniszterrel együttesen,
 
 g) a tolmácsra és a fordítóra vonatkozó rendelkezéseket, a tolmács és a fordító díjazására és az általuk felszámítható költségekre vonatkozó részletes szabályokat az érintett miniszterekkel együttesen,
-
-h) a házi őrizet végrehajtási szabályait, valamint a lakhelyelhagyási tilalommal összefüggésben a terhelt mozgását nyomon követő eszköz alkalmazásának szabályait a rendészetért felelős miniszterrel együttesen,
-
-i) az óvadék letétele esetén a bírósági letét szabályait,
-
-j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,

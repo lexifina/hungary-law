@@ -4,4 +4,4 @@
 
 (3) A nyilvánosság kizárása esetén a sértett, ha nincs képviselője, illetőleg a vádlott, ha nincs védője, indítványozhatja, hogy a tárgyalás helyszínén tartózkodó, általa megnevezett személy – kivéve a tárgyaláson kihallgatandó személyt – legyen jelen a tárgyaláson. Ha a nyilvánosságot a bíróság a 237. § (3) bekezdésének d) pontja alapján zárta ki, ilyen indítvány nem terjeszthető elő. Az indítvány tárgyában hozott határozat ellen fellebbezésnek nincs helye.
 
-(4) Ha a bíróság zárt tárgyalást rendel el, figyelmezteti a résztvevőket arra, hogy a tárgyaláson elhangzottakról tájékoztatást nem adhatnak, szükség esetén figyelmezteti őket az államtitok és a szolgálati titok megsértésének következményeire. A figyelmeztetést a jegyzőkönyvben fel kell tüntetni.
+(4) Ha a bíróság zárt tárgyalást rendel el, figyelmezteti a résztvevőket arra, hogy a tárgyaláson elhangzottakról tájékoztatást nem adhatnak, szükség esetén figyelmezteti őket a minősített adattal visszaélés büntetőjogi következményeire. A figyelmeztetést a jegyzőkönyvben fel kell tüntetni.
