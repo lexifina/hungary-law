@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2005-314-20-22.14 | 314/2005. (XII. 25.) Korm. rendelet |
+| 2010-04-01 | 2005-314-20-22.15 | 90/2010. (III. 26.) Korm. rendelet |

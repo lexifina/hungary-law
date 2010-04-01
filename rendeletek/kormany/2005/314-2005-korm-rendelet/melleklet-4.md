@@ -378,7 +378,7 @@ bc) a tevékenység helye és területigénye, az igénybe veendő terület hasz
 
 bd) a tevékenység megvalósításához szükséges létesítmény(ek) (felsorolása és helye),
 
-be) kapcsolódó műveletek[^81],
+be) kapcsolódó műveletek[^82],
 
 bf) a tervezett technológia, illetve, ahol nem értelmezhető, a tevékenység megvalósításának leírása (ideértve az anyagfelhasználás főbb mutatóinak megadását),
 
@@ -406,7 +406,7 @@ fb) a hatásfolyamatok milyen területekre terjedhetnek ki; e területeket térk
 
 fc) az fb) pont szerinti területről rendelkezésre álló környezeti állapot, területhasználati és demográfiai adatok, valamint a hatásfolyamatok jellegének ismeretében milyen és mennyire jelentős környezeti állapotváltozások (hatások) léphetnek fel,
 
-fd)[^82] a Natura 2000 területet érintő hatások, a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások alapján.
+fd)[^83] a Natura 2000 területet érintő hatások, a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások alapján.
 
 2. A csak a 2. mellékletbe tartozó tevékenységek esetén
 
@@ -428,21 +428,22 @@ h) az engedélykérő által tanulmányozott főbb alternatívák rövid leírá
 
 i) a nyilvánosság tájékoztatása érdekében esetlegesen megtett intézkedések bemutatása és a vélemények összefoglalása,
 
-j)[^83] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
+j)[^84] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
 
 3. Az 1–3. mellékletbe tartozó tevékenységek dokumentációjának egyéb (közös) követelményei
 
 a) az engedélykérő azonosító adatai;
 
-b) azokat az adatokat, amelyek államtitoknak, szolgálati titoknak minősülnek, vagy a környezethasználó szerint üzleti titkot képeznek, azt így megjelölve, elkülönítve kell ismertetni a dokumentációban, és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesítenie, amelyek a tevékenység megítélését lehetővé teszik;
+b)[^85] minősített adatot, vagy a környezethasználó szerint üzleti titkot képező adatot, így megjelölve, elkülönítve kell ismertetni a dokumentációban és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesíteni, amelyek a tevékenység megítélést lehetővé teszik;
 
 c) ha a tevékenység során alkalmazandó technológia, felhasználandó anyagok és előállítandó termék környezetvédelmi minősítése korábban már megtörtént, a vonatkozó minősítési okiratot (okiratokat) csatolni kell;
 
 d) országhatáron átterjedő környezeti hatás bekövetkezésének lehetősége;
 
-e)[^84]
+e)[^86]
 
-[^81]: Kapcsolódó művelet a tevékenység a) telepítése miatt megnyitott anyagnyerő- vagy lerakóhelyek létesítése és üzemeltetése; b) telepítéséhez és megvalósításához szükséges szállítás, raktározás, tárolás; c) megvalósítása során keletkező hulladék és szennyvíz kezelése; d) energia- és vízellátása, ha az saját energiaellátó rendszerrel vagy vízkivétellel történik.
-[^82]: A 4. számú melléklet 1. f) pont fd) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^83]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
-[^84]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^82]: Kapcsolódó művelet a tevékenység a) telepítése miatt megnyitott anyagnyerő- vagy lerakóhelyek létesítése és üzemeltetése; b) telepítéséhez és megvalósításához szükséges szállítás, raktározás, tárolás; c) megvalósítása során keletkező hulladék és szennyvíz kezelése; d) energia- és vízellátása, ha az saját energiaellátó rendszerrel vagy vízkivétellel történik.
+[^83]: A 4. számú melléklet 1. f) pont fd) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^84]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^85]: A 4. melléklet 3. pont b) alpontja a 90/2010. (III. 26.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^86]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.

@@ -28,7 +28,7 @@ c) abszorpciós kapacitása (beleértve az érintett környezeti elemek és rend
 
 ca) vizes élőhelyek, hegyvidéki és erdőterületek,
 
-cb)[^85] védett természeti területek, Natura 2000 területek, természeti területek, érzékeny természeti területek, az ökológiai hálózat elemei,
+cb)[^87] védett természeti területek, Natura 2000 területek, természeti területek, érzékeny természeti területek, az ökológiai hálózat elemei,
 
 Natura 2000 területen különösen:
 
@@ -62,4 +62,4 @@ g) tartósságuk, gyakoriságuk, visszafordíthatóságuk (figyelembe véve az e
 
 h) a végső hatásviselőket (embert, természeti rendszereket) érő káros vagy zavaró hatások mértéke.
 
-[^85]: Az 5. számú melléklet 2. pont cb) alpontja a 266/2008. (XI. 6.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^87]: Az 5. számú melléklet 2. pont cb) alpontja a 266/2008. (XI. 6.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
