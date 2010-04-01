@@ -1,5 +1,3 @@
-## 1. § E rendelet előírásait a szervezett munkavégzés keretében végzett minden olyan tevékenységre alkalmazni kell, amikor a munkavégzés során a munkavállalók azbesztből vagy azbeszttartalmú termékből, illetve azbeszttartalmú termékkel végzett tevékenységből származó kockázatnak (azbeszt-expozíciónak) ténylegesen vagy feltételezhetően ki vannak téve.
-
 ## 2. § E rendelet alkalmazásában:
 
 a) azbesztnek minősülnek az alábbi rostos szerkezetű szilikátok:

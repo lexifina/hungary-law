@@ -2,7 +2,7 @@
 
 (2) Az azbeszt-expozícióban foglalkoztatott munkavállalók orvosi vizsgálatánál figyelembe veendő különös szempontokat a melléklet tartalmazza.
 
-(3)[^3] A foglalkozás-egészségügyi szolgálat az azbesztexpozíciónak kitett munkavállalóról a külön jogszabály szerint vezeti az egészségügyi dokumentációt. Az egészségügyi dokumentáció másolatát kérésre az illetékes munkavédelmi felügyelőség rendelkezésére kell bocsátani. A munkavállaló számára biztosítani kell a rá vonatkozó egészségügyi dokumentáció megismerésének lehetőségét.
+(3)[^4] A foglalkozás-egészségügyi szolgálat az azbesztexpozíciónak kitett munkavállalóról a külön jogszabály szerint vezeti az egészségügyi dokumentációt. Az egészségügyi dokumentáció másolatát kérésre az illetékes munkavédelmi felügyelőség rendelkezésére kell bocsátani. A munkavállaló számára biztosítani kell a rá vonatkozó egészségügyi dokumentáció megismerésének lehetőségét.
 
 (4) Az (1) bekezdés szerinti vizsgálatot végző foglalkozás-egészségügyi szolgálat orvosa javaslatot tesz a munkavállaló számára szükséges egyéni védő- és megelőző intézkedésekre, ami szükség esetén a munkavállalónak az azbeszt-expozíció alóli kivonása is lehet.
 
@@ -16,4 +16,4 @@ b) javaslatot tesz az egészségi állapotuk orvosi ellenőrzésének az azbeszt
 
 (7) A kizárólag a 3. § (2) bekezdés szerinti kockázatnak kitett munkavállalók egészségügyi alkalmasságának elbírálását az (1)–(6) bekezdésben írtaktól eltérően, a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabály előírásai szerint kell végezni.
 
-[^3]: A 16. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (9) bekezdése szerint módosított szöveg.
+[^4]: A 16. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (9) bekezdése szerint módosított szöveg.
