@@ -36,7 +36,7 @@ a) a 28. § (1) bekezdésének a)–c) pontjában, valamint e)–g) pontjában m
 
 b) ha az álláskereső az álláskeresési segély folyósítási időtartamát kimerítette.
 
-(8) A (7) bekezdésben foglaltakon kívül az (1) bekezdés a)–b) pontjában meghatározott esetben meg kell szüntetni az álláskeresési segély folyósítását, ha az álláskereső kereső tevékenységet folytat, kivéve az alkalmi munkavállalói könyvvel folytatott kereső tevékenységet.
+(8) A (7) bekezdésben foglaltakon kívül az (1) bekezdés a)–b) pontjában meghatározott esetben meg kell szüntetni az álláskeresési segély folyósítását, ha az álláskereső kereső tevékenységet folytat, kivéve az alkalmi foglalkoztatásnak minősülő munkaviszonyt.
 
 (9) Az álláskeresési segély folyósítására a 28. § (2) bekezdésében foglaltakat megfelelően alkalmazni kell.
 

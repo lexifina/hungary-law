@@ -42,7 +42,7 @@ adható.
 
 (7)
 
-(8) A külön törvény alapján alkalmi munkavállalói könyvvel (a továbbiakban: AM könyv) rendelkező álláskereső személy részére keresetpótló juttatás akkor állapítható meg, ha kötelezettséget vállal arra, hogy az AM könyvet az állami foglalkoztatási szerv által megjelölt időpontban bemutatja.
+(8) Az alkalmi foglalkoztatásnak minősülő munkaviszonyt létesített álláskereső személy részére keresetpótló juttatás akkor állapítható meg, ha kötelezettséget vállal arra, hogy az egyszerűsített foglalkoztatását az állami foglalkoztatási szervnek a foglalkoztatást követő legkésőbb harmadik munkanapon bejelenti.
 
 (9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget, vagy alkalmi foglalkoztatásnak minősülő jogviszonyban állt.
 

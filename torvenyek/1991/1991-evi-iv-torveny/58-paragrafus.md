@@ -30,7 +30,7 @@ d) álláskereső: az a személy, aki
 
 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és
 
-4. az alkalmi foglalkoztatásnak minősülő jogviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és
+4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és
 
 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit
 
@@ -70,7 +70,7 @@ l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által fe
 
 m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahelymegtartási esélyei testi vagy szellemi károsodása miatt csökkennek. Ettől eltérően a 41/A. § alkalmazása szempontjából a megváltozott munkaképességű személy fogalmát külön jogszabály határozza meg,
 
-n) alkalmi foglalkoztatásnak minősülő munkaviszony: az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény 2. §-ának (1)–(2) bekezdésében meghatározott jogviszony,
+n) alkalmi foglalkoztatásnak minősülő munkaviszony: az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka,
 
 o) közhasznú tevékenység: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. §-ának c) pontjában felsorolt tevékenységek,
 
