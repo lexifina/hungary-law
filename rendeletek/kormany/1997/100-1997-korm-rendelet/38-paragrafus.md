@@ -1,6 +1,6 @@
-38. §[^202] (1)[^203] Ha a vizsgázó befejezte a tétel kifejtését, a kérdező tanár rávezeti az általa javasolt értékelést az osztályozó ívre.
+38. §[^204] (1)[^205] Ha a vizsgázó befejezte a tétel kifejtését, a kérdező tanár rávezeti az általa javasolt értékelést az osztályozó ívre.
 
 (2) Azt követően, hogy a vizsganapon valamennyi vizsgázó befejezte a vizsgázást, előzetesen értékelni kell az azon a napon vizsgázók teljesítményét. A javasolt értékelést az elnök által vezetett osztályozó ívre kell ráírni.
 
-[^202]: A 38. § a 233/2004. (VIII. 6.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^203]: A 38. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^204]: A 38. § a 233/2004. (VIII. 6.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^205]: A 38. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
