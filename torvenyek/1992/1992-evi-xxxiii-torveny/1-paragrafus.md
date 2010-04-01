@@ -10,7 +10,7 @@
 
 (3) A 25/A–25/C. § hatálya – az ott meghatározottak szerint – kiterjed a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és a köztisztviselőre, illetve a munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a közszolgálati jogviszony, illetve a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
-(4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közhasznú munkavégzés, közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az alkalmi munkavállalói könyvvel foglalkoztatott munkavállalóra.
+(4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közhasznú munkavégzés, közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
 (5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. §, az 53. § (1) bekezdés, az 53/A–53/B. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
 
