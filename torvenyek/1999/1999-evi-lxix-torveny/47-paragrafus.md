@@ -10,7 +10,7 @@
 
 (3) Az eljárás alá vont személy az eljárás valamennyi szakaszában az eljárás résztvevőihez kérdést intézhet, észrevételeket, indítványokat tehet, a szabálysértési hatóságtól, az ügyésztől és a bíróságtól felvilágosítást kérhet.
 
-(4) Az eljárás alá vont személy az ügy iratait az eljárás bármely szakaszában megtekintheti, azokról másolatot kérhet, illetve készíthet. Az államtitkot vagy szolgálati titkot tartalmazó másolatot a hatóság épületéből nem viheti ki.
+(4) Az eljárás alá vont személy az ügy iratait az eljárás bármely szakaszában megtekintheti, azokról másolatot kérhet, illetve készíthet. A minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki.
 
 Vhr.12. § (1) Az eljárás alá vont személynek az ügy irataiba történő betekintését, az általa kért másolati iratok kiadását – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései szerint – az eljárás megindításától az eljárás befejezéséig biztosítani kell. A betekintés és a másolati iratok kiadásának tényét az iraton fel kell jegyezni.
 

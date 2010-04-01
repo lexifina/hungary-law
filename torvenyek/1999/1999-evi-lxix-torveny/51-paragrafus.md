@@ -6,7 +6,7 @@
 
 a) az eljárás során az őt érintő iratokat megtekintheti, azokról másolatot kérhet, illetőleg készíthet;
 
-b) az államtitkot vagy szolgálati titkot tartalmazó másolatot a hatóság épületéből nem viheti ki;
+b) a minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki;
 
 c) az eljárás minden szakaszában észrevételt, indítványt tehet, jogairól és kötelességeiről az eljáró hatóságtól felvilágosítást kérhet;
 
