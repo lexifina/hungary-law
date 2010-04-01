@@ -4,156 +4,160 @@
 
 ## KÉRELEM
 
-## a bejegyzett/nem bejegyzett kereskedői tevékenység folytatásának engedélyezésére
+## a bejegyzett kereskedői tevékenység folytatásának engedélyezésére
 
-## I. Személyi adatok
+| I. | Személyi adatok |
 
-## 1. Egyéni vállalkozó esetében
+| 1. | Egyéni vállalkozó esetében |
 
-## 1.1. Neve:
+| 1.1. | Neve: |
 
-## 1.2. Születési helye, ideje:
+| 1.2. | Születési helye, ideje: |
 
-## 1.3. Anyja neve:
+| 1.3. | Anyja neve: |
 
-## 1.4. Állampolgársága:
+| 1.4. | Állampolgársága: |
 
-## 1.5. Állandó lakóhelye (tartózkodási helye):
+| 1.5. | Állandó lakóhelye (tartózkodási helye): |
 
-## 1.6. Székhelye (ennek hiányában levelezési címe):
+| 1.6. | Székhelye (ennek hiányában levelezési címe): |
 
-## 1.7. Személyazonosító igazolvány (útlevél) száma:
+| 1.7. | Személyazonosító igazolvány (útlevél) száma: |
 
-## 1.8. Vállalkozói igazolvány száma, kelte, kiadó hatóság megnevezése:
+| 1.8. | Vállalkozói igazolvány száma, kelte, kiadó hatóság megnevezése: |
 
-## 1.9. Adószáma/közösségi adószáma:
+| 1.9. | Adószáma/közösségi adószáma: |
 
-## 1.10. Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma:
+| 1.10. | Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma: |
 
-## 2. Jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
+| 2. | Jogi személy, jogi személyiséggel nem rendelkező szervezet esetében |
 
-## 2.1. Neve (elnevezése):
+| 2.1. | Neve (elnevezése): |
 
-## 2.2. Rövidített neve:
+| 2.2. | Rövidített neve: |
 
-## 2.3. Cégbírósági bejegyzés száma, kelte:
+| 2.3. | Cégbírósági bejegyzés száma, kelte: |
 
-## 2.4. Székhelye (ennek hiányában telephelye):
+| 2.4. | Székhelye (ennek hiányában telephelye): |
 
-## 2.5. Adószáma/közösségi adószáma:
+| 2.5. | Adószáma/közösségi adószáma: |
 
-## 2.6. Egységes statisztikai jelzőszáma:
+| 2.6. | Egységes statisztikai jelzőszáma: |
 
-## 2.7. Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma:
+| 2.7. | Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma: |
 
-## 2.8. Levelezési címe:
+| 2.8. | Levelezési címe: |
 
-## 2.9. A vezető neve:
+| 2.9. | A vezető neve: |
 
-## 2.10. Születési helye, ideje:
+| 2.10. | Születési helye, ideje: |
 
-## 2.11. Anyja neve:
+| 2.11. | Anyja neve: |
 
-## 2.12. Állampolgársága:
+| 2.12. | Állampolgársága: |
 
-## 2.13. Állandó lakóhelye (tartózkodási helye):
+| 2.13. | Állandó lakóhelye (tartózkodási helye): |
 
-## 2.14. Személyazonosító igazolvány (útlevél) száma:
+| 2.14. | Személyazonosító igazolvány (útlevél) száma: |
 
-## 3.[^527] Köztartozásokra vonatkozó adatok
+| 3. | Köztartozásokra vonatkozó adatok: |
 
-## 3.1. Köztartozásmentes adózónak minősülésről kiállított igazolás száma, kiadásának kelte:
+| 3.1. | Köztartozásmentes adózónak minősülésről kiállított igazolás száma, kiadásának kelte: |
 
-## 3.2. Köztartozásmentes adózói adatbázisban szerepel: igen – nem
+| 3.2. | Köztartozásmentes adózói adatbázisban szerepel: igen – nem |
 
-## 4. Nyilatkozatok
+| 4. | Nyilatkozatok |
 
-## 4.1. Egyéb köztartozásra:
+| 4.1. | Egyéb köztartozásra: |
 
-## 4.2. Csőd-, felszámolási vagy végelszámolási eljárásra:
+| 4.2. | Csőd-, felszámolási vagy végelszámolási eljárásra: |
 
-## 4.3. Kettős könyvvezetésre:
+| 4.3. | Kettős könyvvezetésre: |
 
-## 4.4. Szja törvény szerinti nyilvántartás vezetésre:
+| 4.4. | Szja törvény szerinti nyilvántartás vezetésre: |
 
-## 4.5. Az éves beszámoló hitelesítésére:
+| 4.5. | Az éves beszámoló hitelesítésére: |
 
-## 4.6.[^528]
+| 4.6. | Jövedéki biztosítékra (felajánlott összeg, teljesítési módja): |
 
-## 4.7. Jövedéki biztosítékra (felajánlott összeg, teljesítési módja):
+| 4.7. | Kizárólag adómentes felhasználó részére végzett ásványolaj vagy alkoholtermék behozatalra (adómentes felhasználó neve, jövedéki száma/engedélykérelme száma, dátuma): |
 
-## 4.8. Az adóképviselő alkalmazására (neve, jövedéki száma/engedélykérelme száma, dátuma):
+| II. | Kérelmezett tevékenység jellege |
 
-## 4.9. Kizárólag adómentes felhasználó részére végzett ásványolaj vagy alkoholtermék behozatalra (adómentes felhasználó
+| 1. | A Jöt. 24. § (1) bekezdés szerinti bejegyzett kereskedői tevékenység: |
 
-## neve, jövedéki száma/engedélykérelme száma, dátuma):
+| 2. | Eseti bejegyzett kereskedői tevékenység: |
 
-## II. Fogadóhelyre vonatkozó adatok (fogadóhelyenként)
+| III. | Fogadóhelyre vonatkozó adatok (fogadóhelyenként) |
 
-## 1. Fogadóhely címe:
+| 1. | Fogadóhely címe: |
 
-## 2. Fogadóhely helyrajzi száma:
+| 2. | Fogadóhely helyrajzi száma: |
 
-## 3. Fogadóhelyen végzett tevékenység
+| 3. | Fogadóhelyen végzett tevékenység |
 
-## 3.1. Jövedéki termék fogadóhelyen történő fizikai beraktározás (lefejtés) nélküli fogadása:
+| 3.1. | Jövedéki termék fogadóhelyen történő fizikai beraktározás (lefejtés) nélküli fogadása: |
 
-## 3.2. Jövedéki termék fogadása és egyidejűleg a fogadóhelyen történő fizikai beraktározása (lefejtése)
+| 3.2. | Jövedéki termék fogadása és egyidejűleg a fogadóhelyen történő fizikai beraktározása (lefejtése) kereskedelmi célra (jövedéki száma/működési engedély száma): |
 
-## kereskedelmi célra (jövedéki száma/működési engedély száma):
+| 3.3. | Jövedéki termék fogadása és egyidejűleg a fogadóhelyen történő fizikai beraktározása (lefejtése) termelési (feldolgozási) célra: |
 
-## 3.3. Jövedéki termék fogadása és egyidejűleg a fogadóhelyen történő fizikai beraktározása (lefejtése)
+| 3.3.1. | A Jöt. szerinti adómentes célra |
 
-## termelési (feldolgozási) célra:
+| 3.3.1.1. | saját keretengedéllyel (kérelmező keretengedélyének jövedéki száma, érvényességi ideje): |
 
-## 3.3.1. A Jöt. szerinti adómentes célra keretengedéllyel (keretengedély jövedéki száma, érvényes-
+| 3.3.1.2. | keretengedély nélkül a kérelmező által: |
 
-## ségi ideje):
+| 3.3.2. | Felhasználói engedéllyel (a kérelmező felhasználói engedélyének száma, érvényességi ideje): |
 
-## 3.3.2. A Jöt. szerinti adómentes célra keretengedély nélkül:
+| 3.3.3. | A Jöt. 25. § (6) bekezdése szerinti esetben ásványolajnak vagy alkoholterméknek adómentes felhasználó általi felhasználására (az adómentes felhasználó keretengedélyének jövedéki száma, érvényességi ideje): |
 
-## 3.3.3. A Jöt. 25. § (6) bekezdése szerinti esetben ásványolajnak vagy alkoholterméknek adómentes felhasználó általi fel-
+| 3.3.4. | Egyéb felhasználásra: |
 
-## használására (keretengedély jövedéki száma, érvényességi ideje):
+| 4. | A fogadóhely használati jogcíme |
 
-## 3.3.4. Egyéb felhasználásra:
+| 4.1. | Saját tulajdon esetén a tulajdoni hányad: |
 
-## 4. A fogadóhely használati jogcíme
+| 4.2. | Bérleti szerződés (határozott időtartamú/határozatlan időtartamú): |
 
-## 4.1. Saját tulajdon esetén a tulajdoni hányad:
+| 4.3. | Vasúttársasággal/vasúti iparvágánnyal rendelkező személlyel kötött megállapodás alapján: |
 
-## 4.2. Bérleti szerződés (határozott időtartamú/határozatlan időtartamú):
+| 4.4. | Adómentes felhasználó telephelye a Jöt. 25. § (6) bekezdése szerinti esetben: |
 
-## 4.3. Vasúttársasággal/vasúti iparvágánnyal rendelkező személlyel kötött megállapodás alapján:
+| 4.5. | Egyéb |
 
-## 4.4. Adómentes felhasználó telephelye a Jöt. 25. § (6) bekezdése szerinti esetben:
+| 5. | Tagállamból adófelfüggesztéssel fogadott jövedéki termék |
 
-## 4.5. Egyéb
+| 5.1. | Megnevezése: |
 
-## 5. Tagállamból adófelfüggesztéssel fogadott jövedéki termék
+| 5.2. | Vámtarifaszáma: |
 
-## 5.1. Megnevezése:
+| 5.3. | Fajtakódja: |
 
-## 5.2. Vámtarifaszáma:
+| IV. | Eseti bejegyzett kereskedői tevékenység kérelmezése esetén egyéb adatok |
 
-## 5.3. Fajtakódja:
+| 1. | Tagállamból adófelfüggesztéssel fogadni kívánt jövedéki termék feladójának |
 
-## 6. Termékkísérő okmány aláírására jogosultak
+| 1.1. | Neve (elnevezése): |
 
-## 6.1. Neve:
+| 1.2. | Székhelye (ennek hiányában telephelye) címe: |
 
-## 6.2. Munkaköre:
+| 1.3. | Közösségi adószáma: |
 
-## 6.3. Beosztása:
+| 1.4. | Engedélyének jövedéki száma: |
 
-## III. A csatolt okiratok db száma és megnevezése
+| 2. | Tagállamból adófelfüggesztéssel fogadni kívánt jövedéki termék feladójának |
 
-## Kelt:
+| 2.1. | Mennyisége (adómérték alapjául szolgáló mennyiségi egységben kifejezve): |
 
-## a kérelmező aláírása (bélyegzője)
+| 2.2. | Fogadóhelyre való megérkezésének várható időpontja: |
 
-5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^529]
+| V. | A csatolt okiratok db száma és megnevezése |
 
-[^527]: A 4. számú melléklet I. pont 3. alpontja a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^528]: A 4. számú melléklet I. pont 4.6. alpontját a 17/2009. (IX. 29.) PM rendelet 20. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^529]: Az 5. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése és 20. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+|  | Kelt: |
+
+|  | ......................................................................... a kérelmező aláírása (bélyegzője) |
+
+5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^558]
+
+[^558]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított szöveg.

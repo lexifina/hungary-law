@@ -150,6 +150,6 @@
 
 |  |  |  | a kérelmező aláírása (bélyegzője) |
 
-4. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^526]
+4. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^557]
 
-[^526]: A 4. számú melléklet a 46/2004. (XII. 29.) PM rendelet 26. §-ának (2) bekezdésével megállapított, a 40/2007. (XII. 29.) PM rendelet 40. § (1) és (6) bekezdése szerint módosított szöveg.
+[^557]: A 4. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (4) bekezdésével megállapított szöveg.

@@ -1,26 +1,26 @@
 ## Termékkísérő okmány
 
-75. § (1) A Jöt. 11. § (3) bekezdésében meghatározott termékkísérő okmány a jövedéki adóbevallások (termékmérleg-nyilvántartások) szigorú számadású bizonylataként is szolgál.
+75. §[^316] (1) E rendelet alkalmazásában – e rendelet eltérő rendelkezése hiányában –
 
-(2) A termékkísérő okmányt magyar nyelven kell kitölteni.
+a) termékkísérő okmány alatt a Jöt. 40. § (1) bekezdés a) pont szerinti okmányokat,
 
-(3) A termékkísérő okmány formanyomtatványként történő előállítása kizárólag a Vám- és Pénzügyőrség Országos Parancsnoksága (a továbbiakban: országos parancsnokság) engedélyével, az engedélyben meghatározott feltételek szerint végezhető.
+b) a termékkísérő okmány száma alatt
 
-(4)[^304] A termékkísérő okmányt az adóraktár engedélyese a regionális ellenőrzési központ engedélye alapján számítógéppel előállíthatja a regionális ellenőrzési központ által kiadott, az engedélyben meghatározott sorszámtartományon belüli azonosító számok felhasználásával. A tárgyhót követő hónap 10. napjáig az egyszerűsített adóraktár-engedélyes, a sörfőzde adóraktár-engedélyes és a kizárólag bérfőzést végző szeszfőzde adóraktár-engedélyes a tárgyhóban felhasznált, számítógéppel előállított termékkísérő okmányok azonosító számait megadja a regionális ellenőrzési központnak, vagy amennyiben a tárgyhóban nem állított ki termékkísérő okmányt, erről tájékoztatja a regionális ellenőrzési központot.
+ba) a Jöt. 7. § 7/A. pontjában meghatározott e-TKO (e rendelet alkalmazásában: e-TKO) esetében a vámhatóság által hozzárendelt, a Jöt. 7. § 7/A. pontjában meghatározott AHK-számot,
 
-(5) A termékkísérő okmányként alkalmazott kereskedelmi okmányokra a (2)–(4) bekezdés rendelkezéseit kell értelemszerűen alkalmazni.
+bb) a Jöt. 7. § 7/F. pontjában meghatározott üzemszüneti TKO (e rendelet alkalmazásában: üzemszüneti TKO) esetében a feladó által az okmányhoz rendelt helyi hivatkozási számot
 
-(6)[^305] A termékkísérő okmány 3. példányát a tagállami feladónak történő visszaküldés előtt a hatósági felügyeletet ellátó vám- és pénzügyőri hivatallal kell ellenjegyeztetni.
+kell érteni.
 
-(7)[^306] Amennyiben a tagállamba kiszállított jövedéki termékre felfüggesztett adómegállapítási és adófizetési kötelezettség alóli végleges mentesüléshez szükséges visszaigazolás a jövedéki termék adóraktárból történt kitárolását követő 45 napon belül nem érkezett meg, vagy a visszaigazolt mennyiség – a rendeltetési hely szerinti tagállam illetékes hatósága által elfogadott szállítási veszteségen túl – hiányt vagy többletet mutat, az adóraktár-engedélyesnek a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalt kell értesítenie.
+(2) Az e-TKO tervezetében kiegészítő adatként a jövedéki termék Jöt. szerinti vámtarifaszámát és fajtakódját kell megadni.
 
-(8) Más tagállamban kis bortermelőnek elismert személy termékkísérő okmány helyett a Bizottság 884/2001 EK rendelete 3. cikk (2) b) pontja szerinti kísérő okmánnyal (a továbbiakban: borkísérő okmány) is szállíthat adófelfüggesztéssel szőlőbort Magyarországra.
+(3) Kötelező kitölteni
 
-(9) Amennyiben jövedéki termék harmadik országba más tagállamokon keresztül közösségi adófelfüggesztési eljárásban történő kivitele esetén a termékkísérő okmány 3. példánya nem érkezik vissza, de a kiléptetés helye szerinti tagállam vagy a fogadó harmadik ország illetékes hatósága által aláírt (ellenjegyzett) egyéb bizonylat tanúsítja, hogy az áru elhagyta a Közösség területét, az adóraktár-engedélyes véglegesen mentesül a harmadik országba kivitt jövedéki termékre felfüggesztett adómegállapítási és adófizetési kötelezettsége alól.
+a) az e-TKO tervezetben a 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról szóló 2009. július 24-i 684/2009/EK bizottsági rendelet (a továbbiakban: EK rendelet) I. mellékletének 1. táblázata szerinti 9. c, 12. a)–b), valamint a 17. p rovatokat is,
 
-(10)[^307] A vámhatóság kérelemre – a 37/B. §-ban foglaltak szerint – engedélyezi, hogy az adóraktár-engedélyes – kivéve a kísérleti előállítást végző üzem, illetve az egyszerűsített adóraktár engedélyese – a termékkísérő okmányon az arra jogosult személy aláírása helyett a Bizottsági rendelet 2a. cikke szerinti különleges bélyegzőt alkalmazzon mind a belföldön végzett, mind a Közösségen belüli termékforgalomban, továbbá a Közösségen kívüli rendeltetéssel indított szállítások esetén is.
+b) az EK rendelet szerint a rendeltetési hely megváltoztatása esetén alkalmazandó üzenetben az EK rendelet I. melléklete 3. táblázatának 2. f rovatát is.
 
-[^304]: A 75. § (4) bekezdése a 40/2007. (XII. 29.) PM rendelet 21. § (1) bekezdésével megállapított és a 44/2008. (XII. 31.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
-[^305]: A 75. § (6) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (7) bekezdése szerint módosított szöveg.
-[^306]: A 75. § (7) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (10) bekezdése szerint módosított szöveg.
-[^307]: A 75. § (10) bekezdését a 40/2007. (XII. 29.) PM rendelet 21. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 42. § (5) bekezdését.
+[(4)[^317] A Jöt. 7. § 7/B. pontjában meghatározott elektronikus átvételi elismervényben (a továbbiakban: elektronikus átvételi elismervény) kiegészítő adatként meg kell adni a jövedéki termék Jöt. szerinti vámtarifaszámát és fajtakódját.]
+
+[^316]: A 75. § a 44/2009. (XII. 29.) PM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 51. §-a alapján a 2009: CXIII. törvény 69. §-a szerinti esetekben a 8/2004. (III. 10.) PM rendelet termékkísérő okmányok aláírására jogosultak hitelesített aláírásmintájával kapcsolatos, valamint 75. §-ának 2010. március 31-én hatályos rendelkezéseit kell alkalmazni.
+[^317]: A 75. § (4) bekezdését a 44/2009. (XII. 29.) PM rendelet 21. § (2) bekezdése iktatta be. [E módosító rendelet 44. § (3) bekezdése alapján a rendelkezés 2011. január 1-jén lép hatályba.]

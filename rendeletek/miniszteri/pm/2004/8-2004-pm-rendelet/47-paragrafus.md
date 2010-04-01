@@ -1,4 +1,4 @@
-47. § (1)[^214] A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal az alkoholtermék adóraktár hitelesített üzemi berendezéseit azonosító jellel és elmozdulásuk megakadályozása végett hivatalos zárral látja el.
+47. § (1)[^225] A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal az alkoholtermék adóraktár hitelesített üzemi berendezéseit azonosító jellel és elmozdulásuk megakadályozása végett hivatalos zárral látja el.
 
 (2) Hivatalos zárat alkalmazni kell
 
@@ -10,7 +10,7 @@ c) a szeszpalackozóban, az üzemi szeszraktárban a tárolótartályra és a fo
 
 d) a szeszfőzdében a zárt rendszerű teljes üzemi berendezésre, beleértve a finomítókészülék alszeszvíz elvezető csövét is;
 
-e)[^215] a hatósági felügyeletet ellátó vám- és pénzügyőri hivatali engedély megszerzéséig azokra a szeszgyártásra alkalmas desztillálóberendezésekre, amelyeket rendeltetésszerűen nem a szesz előállítására használnak, kivéve a 48. § (4) bekezdésében szereplő desztillálóberendezéseket.
+e)[^226] a hatósági felügyeletet ellátó vám- és pénzügyőri hivatali engedély megszerzéséig azokra a szeszgyártásra alkalmas desztillálóberendezésekre, amelyeket rendeltetésszerűen nem a szesz előállítására használnak, kivéve a 48. § (4) bekezdésében szereplő desztillálóberendezéseket.
 
-[^214]: A 47. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^215]: A 47. § (2) bekezdésének e) pontja a 33/2006. (XII. 25.) PM rendelet 24. § (7) bekezdése és a 44/2008. (XII. 31.) PM rendelet 35. § (2) bekezdése szerint módosított szöveg.
+[^225]: A 47. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^226]: A 47. § (2) bekezdésének e) pontja a 33/2006. (XII. 25.) PM rendelet 24. § (7) bekezdése és a 44/2008. (XII. 31.) PM rendelet 35. § (2) bekezdése szerint módosított szöveg.

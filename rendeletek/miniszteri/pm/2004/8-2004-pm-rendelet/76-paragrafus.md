@@ -1,20 +1,23 @@
 ## Termékkísérő okmány alkalmazása belföldi termékforgalom esetén
 
-76. § (1) A termékkísérő okmány 10., 14. és 23. rovatát a jövedéki termékek belföldön végzett szállítása esetén nem kell kitölteni.
+76. § (1)[^319]
 
-(2) Az ásványolajok belföldön történő csővezetékes szállítása, átadása esetén, termékkísérő okmánynak az átadás-átvételi jegyzőkönyvet kell tekinteni, amennyiben a termékkísérő okmányban előírt valamennyi adatot tartalmazza.
+(2)[^320] Az ásványolajok adófelfüggesztéssel végzett, belföldön történő csővezetékes szállítása esetén termékkísérő okmánynak a 44. számú melléklet szerinti adattartalmú átadási-átvételi jegyzőkönyvet kell tekinteni, melyet szállítmányonként kell kiállítani. Az átadás-átvételi jegyzőkönyvet a kitároló adóraktár-engedélyes legkésőbb a kitárolást követő 10 munkanapon belül köteles megküldeni a vámhatóságnak.
 
-(3)[^308] Az üzemanyag petróleumnak és a repülőbenzinnek (a továbbiakban: repülőgép üzemanyag) repülőtéri adóraktárból légi közlekedési tevékenységet végző légi járműbe való kitárolása, vagy ilyen légi járműből való lefejtése és a repülőtéri adóraktárba való betárolása esetén a 43. számú melléklet szerinti adatokat is tartalmazó bizonylat termékkísérő okmánynak minősül, amelyet szigorú számadás alá vont nyomtatványként kell kezelni.
+(3)[^321] Az üzemanyag petróleumnak és a repülőbenzinnek (a továbbiakban: repülőgép üzemanyag) repülőtéri adóraktárból légi közlekedési tevékenységet végző légi járműbe való kitárolása, vagy ilyen légi járműből való lefejtése és a repülőtéri adóraktárba való betárolása esetén a 43. számú melléklet szerinti adatokat is tartalmazó bizonylat termékkísérő okmánynak minősül, amelyet szigorú számadás alá vont nyomtatványként kell kezelni.
 
-(4) Az adófelfüggesztéssel szállított jövedéki terméket fogadó adóraktár-engedélyesnek és adómentes felhasználónak a ténylegesen átvett mennyiséget kell a termékkísérő okmányon visszaigazolnia a kitároló adóraktárnak.
+(4)[^322]
 
-(5)–(7)[^309]
+(5)–(7)[^323]
 
-(8)[^310] A hajó üzemanyagtartályába betöltött gázolajról kiállított termékkísérő okmányon a 7. rovatban a címzett mellett a hajó nevét és lajstromozási jelét, a 16. rovatban a pontos időpont meghatározásánál az órát is fel kell tüntetni.
+(8)[^324] A Jöt. 13. § (1) bekezdés g) pontja szerinti esetben az adómegállapítási és adófizetési kötelezettség alóli végleges mentesüléshez a 45. számú melléklet szerinti adattartalommal kiállított, szigorú számadású bizonylat szükséges. A bizonylat egyik példányát át kell adni a hajó üzemeltetője vagy a képviseletére jogosult személy részére.
 
-(9)[^311] A jövedéki termék adóraktárból végleges rendeltetéssel harmadik országba közvetlenül Magyarországról történő kiléptetése esetén, amennyiben az exportáló személye nem azonos az adóraktár engedélyesének személyével, az exportáló a 36. számú melléklet szerinti adattartalmú, szigorú számadású formanyomtatványon a kiviteli ellenőrzést megelőzően az adóraktár hatósági felügyeletét ellátó vám- és pénzügyőri hivatal által ellenjegyzett kiszállítási nyilatkozatot köteles átadni az adóraktár-engedélyesnek, amelyet a jövedéki termék kiszállításakor a termékkísérő okmányhoz, illetve a borkísérő okmányhoz kell csatolni. A termékkísérő okmányon, illetve a borkísérő okmányon a harmadik országba való kiléptetés vám- és pénzügyőri hivatal általi igazolásának feltétele a kiszállítási nyilatkozat csatolása a vámokmányokhoz.
+(9)[^325] A hajó üzemanyagtartályába betöltött gázolajról kiállított e-TKO tervezet 5.b rovatában a címzett mellett a hajó nevét, 16.b rovatában a hajó lajstromozási jelét, 9.f rovatában a pontos időpont meghatározásánál az órát is fel kell tüntetni. Az e-TKO tervezetet a kikötői adóraktár engedélyese a gázolaj hajóba történt betöltését követően állítja ki.
 
-[^308]: A 76. § (3) bekezdése a 45/2005. (XII. 26.) PM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^309]: A 76. § (5)–(7) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
-[^310]: A 76. § (8) bekezdése a 45/2005. (XII. 26.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^311]: A 76. § (9) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^319]: A 76. § (1) bekezdését a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^320]: A 76. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^321]: A 76. § (3) bekezdése a 45/2005. (XII. 26.) PM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^322]: A 76. § (4) bekezdését a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^323]: A 76. § (5)–(7) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
+[^324]: A 76. § (8) bekezdése a 44/2009. (XII. 29.) PM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^325]: A 76. § (9) bekezdése a 44/2009. (XII. 29.) PM rendelet 23. § (2) bekezdésével megállapított szöveg.

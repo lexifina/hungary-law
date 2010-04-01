@@ -120,7 +120,7 @@
 
 |  |  | 4.3. | Saját tulajdon esetén a tulajdoni hányad: |
 
-|  | 5. | Tároló adóraktár, tranzitadóraktár, vámadóraktár esetén |
+|  | 5. | Tároló adóraktár, tranzitadóraktár esetén |
 
 |  |  | 5.1. | Tárolt jövedéki termék megnevezése: |
 
@@ -144,7 +144,7 @@
 
 |  | 7. | Az adóraktár tároló/keverő tartályainak adatai (azonosítószám, űrtartalom, hitelesítési bizonyítvány száma, érvényességi ideje): |
 
-|  | 8. | Termékkísérő okmány, borkísérő okmány és egyszerűsített kísérő okmány aláírására jogosultak [kivéve ha az adóraktári engedélykérelemmel egyidejűleg a 75. § (10) bekezdésben, illetve a 78. § (3) bekezdésben említett különleges bélyegzőt alkalmazó bizonylat-kiállító program engedélyezését kérik] |
+|  | 8. | A 76. § (2)–(3) bekezdés szerinti termékkísérő okmány, borkísérő okmány és egyszerűsített kísérő okmány aláírására jogosultak [kivéve ha az adóraktári engedélykérelemmel egyidejűleg a 78. § (3) bekezdésben említett különleges bélyegzőt alkalmazó bizonylat-kiállító program engedélyezését kérik] |
 
 |  |  | 8.1. | Neve: |
 
@@ -204,6 +204,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^522]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^552]
 
-[^522]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be.
+[^552]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be.

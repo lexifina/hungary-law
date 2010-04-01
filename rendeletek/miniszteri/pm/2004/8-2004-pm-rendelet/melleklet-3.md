@@ -168,15 +168,7 @@
 
 |  | 7. | Üzem (raktár) gyártási (tároló) kapacitása: |
 
-|  | 8. | Termékkísérő okmány aláírására jogosultak |
-
-|  |  | 8.1. | Neve: |
-
-|  |  | 8.2. | Munkaköre: |
-
-|  |  | 8.3. | Beosztása: |
-
-|  |  | 8.4. |  |
+|  | 8. |  |
 
 |  | 9. | Felelős üzemvezető: |
 
@@ -206,6 +198,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^525]
+3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^556]
 
-[^525]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a 19. § (2) bekezdése szerint módosított rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^556]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a 19. § (2) bekezdése szerint módosított rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

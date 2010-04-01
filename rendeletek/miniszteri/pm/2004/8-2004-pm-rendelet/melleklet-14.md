@@ -53,5 +53,3 @@
 |  |  |  | az engedélyező regionális ellenőrzési központ aláírása (bélyegzője) |
 
 14. számú melléklet a 8/2004. (III. 10.) PM rendelethez
-
-Kötelező Érvényű Vámtarifabesorolás (KÉV) iránti kérelem

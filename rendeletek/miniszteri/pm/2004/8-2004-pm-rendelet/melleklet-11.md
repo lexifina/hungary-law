@@ -68,6 +68,6 @@
 
 |  | az engedélyező regionális ellenőrzési központ aláírása (bélyegzője) |
 
-11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^535]
+11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^564]
 
-[^535]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^564]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.

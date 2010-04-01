@@ -1,6 +1,6 @@
-## 123. §[^481]
+## 123. §[^510]
 
-124. § (1)[^482] A lefoglalt termékről a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal olyan nyilvántartást köteles vezetni, amelybe a lefoglalt termékkel kapcsolatos valamennyi adat, intézkedés bevezetésre kerül.
+124. § (1)[^511] A lefoglalt termékről a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal olyan nyilvántartást köteles vezetni, amelybe a lefoglalt termékkel kapcsolatos valamennyi adat, intézkedés bevezetésre kerül.
 
 (2) Az (1) bekezdés szerinti nyilvántartásnak tartalmaznia kell
 
@@ -12,11 +12,11 @@ c) a lefoglalás időpontját, helyét;
 
 d) a lefoglalt termék őrzési helyét, az azonosításához szükséges adatokat;
 
-e)[^483] a lefoglalás megszüntetését elrendelő végzés számát, keltét;
+e)[^512] a lefoglalás megszüntetését elrendelő végzés számát, keltét;
 
 f) a termék kiadásának időpontját, illetőleg ennek hiányában a részére kifizetett összeget;
 
-g)[^484] az elkobzást elrendelő jogerős végzés számát, keltét;
+g)[^513] az elkobzást elrendelő jogerős végzés számát, keltét;
 
 h) a megsemmisítés időpontját, helyét, módját;
 
@@ -26,7 +26,7 @@ j) az értékesítés időpontját, adatait;
 
 k) a lefoglalt termékkel kapcsolatban felmerült valamennyi költséget, bevételt és annak rendezettségét.
 
-[^481]: A 123. §-t a 33/2006. (XII. 25.) PM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^482]: A 124. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^483]: A 124. § (2) bekezdésének e) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^484]: A 124. § (2) bekezdésének g) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^510]: A 123. §-t a 33/2006. (XII. 25.) PM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^511]: A 124. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^512]: A 124. § (2) bekezdésének e) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^513]: A 124. § (2) bekezdésének g) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
