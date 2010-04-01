@@ -24,6 +24,6 @@ c) szolgáltatási díj esetében az elektronikus közszolgáltató által megje
 
 (6) Amennyiben az illeték (igazgatási szolgáltatási díj) megfizetése a kérelem elektronikus benyújtása esetén az (5) bekezdésben meghatározott időpontig nem történt meg, akkor az eljáró szerv elektronikus úton felhívja az ügyfelet, hogy nyolc napon belül fizesse meg az eljárásért fizetendő eljárási illetéket vagy igazgatási szolgáltatási díjat. A fizetési kötelezettség mértékéről, módjáról és határidejéről, valamint a mulasztás jogkövetkezményéről az eljáró szerv a kérelmezőt egyidejűleg tájékoztatja.
 
-(7)[^2] A fizetési kötelezettséget eredményező eljárásnál alkalmazott elektronikus űrlapon fel kell tüntetni a fizetési kötelezettség teljesítésének lehetséges módjait, a fizetési számlaszámot, az eljárás azonosító kódját, a feltüntetendő további adatokat és a befizetés a kérelem benyújtásához viszonyított időpontját.
+(7)[^3] A fizetési kötelezettséget eredményező eljárásnál alkalmazott elektronikus űrlapon fel kell tüntetni a fizetési kötelezettség teljesítésének lehetséges módjait, a fizetési számlaszámot, az eljárás azonosító kódját, a feltüntetendő további adatokat és a befizetés a kérelem benyújtásához viszonyított időpontját.
 
-[^2]: A 40. § (7) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 66. §-a szerint módosított szöveg.
+[^3]: A 40. § (7) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 66. §-a szerint módosított szöveg.

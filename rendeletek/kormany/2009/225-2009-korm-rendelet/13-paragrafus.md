@@ -1,3 +1,5 @@
+## 12/A. §[^2] A központi ügyfélszolgálat jogszabály által meghatározott feladatai ellátása érdekében a 12. § (2) bekezdésében meghatározotton túl további helyi díjazású tarifával hívható hívószámot határozhat meg.
+
 ## Személyes adatok kezelésének módja
 
 13. § (1) Telefonos szolgáltatás igénybevételével nyújtott ügyfél-tájékoztatás esetén a felhasználó neve és elérhetőségei (elektronikus levélcím, telefonszám, központi rendszer cím) csak akkor kérhető, ha
@@ -17,3 +19,5 @@ c) elektronikus irat vagy űrlap küldését kéri.
 (5) Ha a (1) bekezdés szerinti esetben a felhasználó a telefonos szolgáltatás során – szóbeli közlése szerint – nem kíván hozzájárulni az ügye intézéséhez szükséges adatok kezeléséhez, a telefonos szolgáltatás során hangrögzítésre nem kerül sor. Ebben az esetben azonban – adatkezelési hozzájárulás hiányában – a felhasználó személyes elérhetőségét, illetve azonosítását igénylő szolgáltatások nem válnak a felhasználó számára elérhetővé.
 
 (6) A központi rendszer szolgáltatásainak igénybevételéről keletkezett adatok személyazonosításra alkalmatlan módon statisztikai célra felhasználhatók.
+
+[^2]: A 12/A. §-t a 87/2010. (III. 26.) Korm. rendelet 10. §-a iktatta be.
