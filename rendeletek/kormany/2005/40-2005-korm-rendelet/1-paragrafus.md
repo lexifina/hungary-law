@@ -8,7 +8,7 @@
 
 (2) E rendelet hatálya kiterjed az NSIP keretében Magyarországon lefolytatásra kerülő beszerzési eljárásokban részt vevő szervezetekre, valamint a beszerzési eljárásokban résztvevőkre.
 
-(3) E rendelet keretében lefolytatásra kerülő beszerzési eljárásokban – azok titokvédelmi minősítési szintjének megfelelően – ajánlattevőként az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről szóló 164/2002. (VIII. 2.) Korm. rendelet alapján „NATO Beszállításra Alkalmas” vagy „Minősített NATO Beszállításra Alkalmas” határozattal rendelkező, Magyarországon nyilvántartott gazdálkodó szervezetek vehetnek részt, kivéve a (4) bekezdésben foglaltakat.
+(3)[^2] E rendelet keretében lefolytatásra kerülő beszerzési eljárásokban – azok titokvédelmi minősítési szintjének megfelelően – ajánlattevőként az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről szóló 164/2002. (VIII. 2.) Korm. rendelet alapján „NATO Beszállításra Alkalmas” vagy „NATO Beszállításra Alkalmas” határozattal és NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvánnyal rendelkező, Magyarországon nyilvántartott gazdálkodó szervezetek vehetnek részt, kivéve a (4) bekezdésben foglaltakat.
 
 (4) Ha a (3) bekezdésben meghatározott minősített gazdálkodó szervezetek között nincs olyan, amelyik a beszerzés tárgyát képező szakterülettel foglalkozik, illetőleg van, de a lefolytatott beszerzési eljárásban ajánlatot nem tett, abban az esetben a feladat végrehajtása érdekében az ajánlatkérőnek joga van megfelelő felkészültséggel rendelkező, de korábban még nem minősített gazdálkodó szervezettől – e rendelet eljárási szabályai szerint – ajánlatot kérni. Ebben az esetben az eljárást megindító hirdetményben, ajánlattételi felhívásban rendelkezni kell arról, hogy a (3) bekezdés szerinti szervezeteken kívül egyéb gazdálkodó szervezetek is részt vehetnek az eljárásban. A feladat titokvédelmi minősítési szintjének megfelelően az ajánlattétel előtt az ajánlattevő minősítését el kell végezni.
 
@@ -19,3 +19,4 @@
 (7) E rendelet hatálya a Kbt.-ben meghatározott árubeszerzésre, szolgáltatás megrendelésére, építési beruházásra terjed ki.
 
 [^1]: Az 1. § (1) bekezdése az 59/2009. (III. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 92/2010. (III. 31.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
