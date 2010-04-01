@@ -12,7 +12,8 @@ való megfelelést szolgálja.
 
 (4)[^3]
 
-(5) E rendelet 2. § (1) bekezdésének 20. pontja 2010. március 31-én hatályát veszti. Ez a bekezdés 2010. április 1-jén hatályát veszti.
+(5)[^4]
 
 [^2]: Az 5. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
 [^3]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^4]: Az 5. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
