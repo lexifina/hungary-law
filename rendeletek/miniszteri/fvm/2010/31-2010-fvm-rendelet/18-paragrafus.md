@@ -1,3 +1,0 @@
-## 17. § Az R. 44. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Adott területre vonatkozóan ugyanazon kérelmező jogosult az egységes kérelemről szóló rendelet szerinti egységes kérelem keretén belül igényelhető területalapú, így az agrár-környezetgazdálkodási, a kedvezőtlen adottságú területek, valamint a Natura 2000 támogatások igénybevételére. Az MVH a kifizetési kérelem adatait a fenti területalapú támogatások adatbázisával összeveti, és ha ugyanazon terület vonatkozásában a kérelmezők személye nem azonos, úgy a támogatásra jogosultat egyszeri alkalommal a jogszerű földhasználat tisztázására szólítja fel.”
