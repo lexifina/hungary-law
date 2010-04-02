@@ -1,12 +1,15 @@
-## 8. §
+## 8. §[^17]
 
-(1) Az orvosi alkalmassági vizsgálatot első fokon végző egészségügyi szervek:
+(1) Az orvosi alkalmassági vizsgálatot első fokon végző egészségügyi szerv:
 
-a)[^9] a II. alkalmassági csoportra elvégzett vizsgálat esetén az illetékes háziorvos, illetve, ha a vizsgálatra jelentkező személy a Magyar Államvasutak alkalmazottja, az illetékes vasútüzemorvos;
+a) a II. alkalmassági csoport esetében – a KR1. 23. § (1) bekezdésében meghatározott személy kivételével – a vizsgált személy háziorvosa,
 
-b) az I. alkalmassági csoportra elvégzett vizsgálat esetén, ha az érintett személy olyan munkáltatóval áll munkaviszonyban, ahol üzemi orvos, üzemkörzeti orvos működik, az üzemi orvos, egyébként az illetékes üzemegészségügyi szakrendelés orvosa.
+b) az I. alkalmassági csoport esetében az az egészségügyi szerv, amely az érintett személy foglalkozás-egészségügyi ellátására a foglalkozás-egészségügyi szolgáltatásról szóló jogszabály szerint jogosult.
 
-(2)[^10] A pszichológiai alkalmassági vizsgálatot első fokon — az I. alkalmassági csoport vonatkozásában — az OKK–OMFI által felkért szaklaboratóriumok végzik, melyek listáját az OKK–OMFI módszertani útmutatóban teszi közzé. A II. alkalmassági csoport tekintetében — figyelemmel a 4. § (3) bekezdésében foglaltakra — a vizsgálat elvégzésére első fokon a klinikai szakpszichológusok illetékesek.
+(2) A KR1. 23. § (1) bekezdésében meghatározott személy esetében az orvosi alkalmassági vizsgálatot a KR2. 7. § (1) és 8. § (1) bekezdésében meghatározott egészségügyi szervek végzik.
 
-[^9]: A 8. § (1) bekezdésénak a) pontja a 14/1992. (VI. 26.) NM rendelet 5. §-ával megállapított szöveg.
-[^10]: A 8. § (2) bekezdése a 6/1999. (IV. 2.) EüM rendelet 11. §-ának b) pontja szerint módosított szöveg.
+(3) A pszichológiai alkalmassági vizsgálat elvégzéséről az I. alkalmassági csoport tekintetében első fokon az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (a továbbiakban: OMFI) gondoskodik.
+
+(4) A II. alkalmassági csoport tekintetében a pszichológiai alkalmassági vizsgálatot első fokon klinikai szakpszichológus vagy sport szakpszichológus végezheti.
+
+[^17]: A 8. § a 9/2010. (III. 18.) EüM rendelet 8. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 ## 5. Elmebetegség bármely formája.
 
-## II.[^19] Szemészeti szempontból első fokon kizáró oknak tekintendő egészségi állapotok, melyek az 5. § (3) bekezdésében meghatározott szakértői vizsgálat elvégzését teszik szükségessé
+## II.[^33] Szemészeti szempontból szakorvosi véleményezést igénylő megbetegedések
 
 ## 1. az I. alkalmassági csoportban:
 
@@ -34,7 +34,7 @@
 
 ## – csőlátótér.
 
-## III. Lőfegyver megszerzésére, tartására való egészségi alkalmasság vizsgálata kapcsán szakmai mérlegelést szükségessé tevő egészségi okok:
+## III.[^34] Lőfegyver megszerzésére, tartására való egészségi alkalmasság vizsgálata kapcsán szakorvosi véleményezést igénylő egyéb megbetegedések:
 
 ## 1. Beszéd útján történő kommunikáció nehezített volta (hangképzési, beszéd- és/vagy hallászavar).
 
@@ -54,10 +54,13 @@
 
 ## 6. Központi és perifériás idegrendszer bármilyen betegsége, és annak maradványtünetei, ha olyan funkciókiesést okoznak, hogy a lőfegyver biztonságos használatát befolyásolják.
 
-## 7. Azok a megbetegedések (testi fogyatékosságok), amelyek következtében a lőfegyver tartása a lőfegyvert tartó, használó vagy más számára veszélyt jelent.
+## 7.[^35]
 
 2. számú melléklet
 
-a 22/1991. (XI. 15.) NM rendelethez
+a 22/1991. (XI. 15.) NM rendelethez[^36]
 
-[^19]: Az 1. számú melléklet II. pontja a 13/1997. (VI. 20.) NM rendelet 1. §-ával megállapított szöveg.
+[^33]: Az 1. számú melléklet II. pontja a 13/1997. (VI. 20.) NM rendelet 1. §-ával megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^34]: Az 1. számú melléklet III. pont nyitó szövegrésze a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^35]: Az 1. számú melléklet III. pont 7. alpontját a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^36]: A 2. számú melléklet a 9/2010. (III. 18.) EüM rendelet 13. § (2) bekezdésével megállapított szöveg.

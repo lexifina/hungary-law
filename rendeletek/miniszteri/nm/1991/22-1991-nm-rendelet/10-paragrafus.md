@@ -1,5 +1,11 @@
-## 10. §
+## 10. §[^22]
 
-(1) Az orvosi alkalmassági vizsgálatot másodfokon — mindkét alkalmassági kategória esetében — a munkaköri alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 4/1981. (III. 31.) EüM rendelet 13. § (2) bekezdésének a)—c) pontjaiban meghatározott szervek végzik.
+(1) Az orvosi alkalmassági vizsgálatot másodfokon – a KR1. 23. § (1) bekezdésében meghatározott személy kivételével – a foglalkozás-egészségügyi szolgáltatásról szóló jogszabály szerint foglalkozás-egészségügyi szakellátási szolgáltatást nyújtó egészségügyi szerv végzi.
 
-(2) A másodfokú pszichológiai alkalmassági vizsgálatot — mindkét alkalmassági csoport tekintetében — az Országos Ideg- és Elmegyógyászati Intézetben szervezett bizottság végzi.
+(2) A KR1. 23. § (1) bekezdésében meghatározott személy tekintetében felülvéleményezési kérelem esetén az orvosi alkalmassági vizsgálatot a KR2. 11. §-ában meghatározott egészségügyi szervek végzik.
+
+(3) A másodfokú pszichológiai alkalmassági vizsgálat elvégzéséről az OMFI gondoskodik.
+
+(4) A pszichológiai alkalmassági vizsgálatban részt vevő intézmények körét az OMFI a honlapján közzéteszi.
+
+[^22]: A 10. § a 9/2010. (III. 18.) EüM rendelet 11. §-ával megállapított szöveg.

@@ -4,6 +4,6 @@
 
 1. számú melléklet
 
-a 22/1991. (XI. 15.) NM rendelethez[^18]
+a 22/1991. (XI. 15.) NM rendelethez[^32]
 
-[^18]: Az 1. számú melléklet a 14/1992. (VI. 26.) NM rendelet 9. §-ával megállapított szöveg.
+[^32]: Az 1. számú melléklet a 14/1992. (VI. 26.) NM rendelet 9. §-ával megállapított szöveg.

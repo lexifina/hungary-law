@@ -1,3 +1,3 @@
-## 15. §
+## 15. §[^29]
 
-## A R. 17. § (1) bekezdésének c) pontjában meghatározott sportolövők egészségi alkalmassági vizsgálatára a sportolók sportorvosi vizsgálatáról szóló 9/1990. (XII. 29.) NM rendelet rendelkezéseit kell alkalmazni.
+[^29]: A 15. §-t a 9/2010. (III. 18.) EüM rendelet 16. § d) pontja hatályon kívül helyezte.

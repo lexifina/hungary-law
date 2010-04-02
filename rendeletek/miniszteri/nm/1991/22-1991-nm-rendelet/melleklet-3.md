@@ -1,18 +1,16 @@
 ## EGÉSZSÉGÜGYI VIZSGÁLATI LAP
 
-## Lőfegyvert nem foglalkozásszerűen használó személyek részére
-
-## (*A körzeti orvos tölti ki **A II. fokú orvosi alkalmasságot vizsgáló szerv tölti ki!)
-
 ## Előzetes orvosi vizsgálat:*
 
 ## Név:
 
 ## Szül. év, hó, nap:
 
-## Anyja neve: Lakcím:
+## Anyja neve:
 
-## Foglalkozása:
+## Lakcím:
+
+## Foglalkozása (csak az I. alkalmassági csoportba tartozó vizsgált személy esetében kell kitölteni):
 
 ## Vizsgálat időpontja:
 
@@ -20,7 +18,7 @@
 
 ## Intézmény neve:
 
-## Jelenlegi panaszok: (chr. betegbség, gyógyszerszedés stb.)
+## Kórelőzmény (krónikus betegség, gyógyszerszedés stb.):
 
 ## Bőr, látható nyálkahártyák:
 
@@ -40,8 +38,6 @@
 
 ## Máj: Sérv:
 
-## Húgy és ivarszervek vizsgálata:
-
 ## Idegrendszer, Romberg:
 
 ## Halló- és egyensúlyszerv:
@@ -52,21 +48,19 @@
 
 ## Laboratóriumi vizsgálati eredmények:
 
-## Az elvégzett előzetes orvosi (és pszichológiai) alkalmassági vizsgálat alapján lőfegyver tartására*
+## Pszichológiai vizsgálat eredménye:
 
-## — alkalmas
+## Az elvégzett előzetes orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására
 
-## — időlegesen/véglegesen alkalmatlan*[^20]
+## –  alkalmas
 
-## Egyéb megjegyzések:*
+## –  alkalmatlan
 
-## A II. fokú egészségügyi alkalmassági vizsgálatot végző szerv megállapításai:**
+## Egyéb megjegyzések:
 
-## (Csatolandó az ,,EGÉSZSÉGÜGYI VIZSGÁLATI LAP''-hoz!)
+## A másodfokú egészségügyi alkalmassági vizsgálatot végző szerv megállapításai:**
 
-## (*A körzeti orvos tölti ki! **A II. fokú alkalmasságot vizsgáló szerv tölti ki!)
-
-## Időszakos és soronkívüli orvosi vizsgálat:*
+## Időszakos és soron kívüli orvosi vizsgálat:*
 
 ## Ideje:
 
@@ -74,19 +68,29 @@
 
 ## Statusában beállott változások:
 
-## Az elvégzett időszakos/soron kívüli orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására*
+## Az elvégzett időszakos/soron kívüli orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására
 
-## — alkalmas
+## –  alkalmas
 
-## — időlegesen/véglegesen alkalmatlan***
+## –  alkalmatlan
 
-## Egyéb megjegyzések:*
+## Egyéb megjegyzések:
 
-## A II. fokú egészségügyi vizsgálatot végző szerv megállapításai:**
+## A másodfokú egészségügyi vizsgálatot végző szerv megállapításai:**
 
-3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^21]
+## Dátum
 
-A pszichológiai alkalmasság vizsgálatának tartalma első fokon:
+## P. H.
+
+## Aláírás
+
+## * Az első fokú orvosi alkalmasságot vizsgáló szerv tölti ki!
+
+## ** A másodfokú orvosi alkalmasságot vizsgáló szerv tölti ki!
+
+3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^37]
+
+A pszichológiai alkalmassági vizsgálat tartalma:
 
 1. klinikai pszichológiai interjú
 
@@ -108,5 +112,4 @@ A pszichológiai alkalmasság vizsgálatának tartalma első fokon:
 
 – projektív tesztekkel.
 
-[^20]: A nem kívánt rész törlendő!
-[^21]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^37]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
