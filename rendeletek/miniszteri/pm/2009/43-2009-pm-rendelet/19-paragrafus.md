@@ -1,9 +1,8 @@
-19. § (1) Hatályát veszti:
+## 18. §[^4]
 
-a) a zárjegy alkalmazásának, a zárjeggyel való elszámolásnak a részletes szabályairól szóló 36/1997. (XI. 26.) PM rendelet,
-
-b) a zárjegy alkalmazásának, a zárjeggyel való elszámolásnak a részletes szabályairól szóló 36/1997. (XI. 26.) PM rendelet módosításáról szóló 11/2008. (V. 9.) PM rendelet.
-
-(2) Hatályát veszti a 2. § (1) bekezdés b) pontjának a „vagy nem bejegyzett kereskedői” szövegrésze.
+19. § (1)–(2)[^5]
 
 (3) 2010. április 2-án hatályát veszti a 18. §, az e § (1) és (2) bekezdése, valamint az 5. melléklet. E bekezdés 2010. április 3-án hatályát veszti.
+
+[^4]: A 18. §-t a 19. § (3) bekezdése hatályon kívül helyezte.
+[^5]: A 19. § (1)–(2) bekezdését a 19. § (3) bekezdése hatályon kívül helyezte.
