@@ -1,10 +1,4 @@
-## 43. § Az ER. 3. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-## [A (2) bekezdés szerinti bejelentést a képviselőnek]
-
-## „d) zárjegy- vagy adójegymegrendelés esetén az annak benyújtására jogszabályban meghatározott időpontot megelőző 3. munkanapig”
-
-## [kell megtennie.]
+## 42–43. §[^5]
 
 ## Záró rendelkezések
 
@@ -17,3 +11,5 @@
 (4) 2010. április 2-án hatályát veszti az 1–20. §, a 21. § (1) bekezdése, a 22–43. §, a 45–48. §, a 49. § (1) és (2) bekezdése, az 50. §, valamint az 1–23. melléklet. E bekezdés 2010. április 3-án hatályát veszti.
 
 (5) 2011. január 2-án hatályát veszti a 21. § (2) bekezdése és 49. § (3) bekezdése. E bekezdés 2011. január 3-án hatályát veszti.
+
+[^5]: A 42–43. §-t a 44. § (4) bekezdése hatályon kívül helyezte.
