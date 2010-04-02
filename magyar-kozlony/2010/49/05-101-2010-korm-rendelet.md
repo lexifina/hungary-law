@@ -1,0 +1,125 @@
+# A Kormány 101/2010. (IV. 2.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 49. szám, 2010. április 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d21a6b237291de7b836f1e20722c8196d6aea5e1/dokumentumok/27811b436aeaf4a741d843e7e7ba0a41a43c015a/letoltes)
+
+---
+
+A Kormány 101/2010. (IV. 2.) Korm. rendelete
+az elemek és akkumulátorok hulladékainak visszavételéről szóló
+181/2008. (VII. 8.) Korm. rendelet módosításáról
+A Kormány a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+1. §
+Az elemek és akkumulátorok hulladékainak visszavételéről szóló 181/2008. (VII. 8.) Kormány rendelet (a továb biak ban:
+Kr.) 8/A. §-a helyébe a következő rendelkezés lép:
+„8/A. § A gyártó az e rendelet szerinti kötelezettség keletkezését követő 15 napon belül nyilvántartásba vétel céljából
+a 2. melléklet szerinti adatokat a Főfelügyelőségnek bejelenti.”
+2. §
+A Kr. 8/B. §-a a következő (4)–(5) bekezdéssel egészül ki:
+„(4) A gyártó e rendelet szerinti tevékenysége megszüntetését a Főfelügyelőségnek bejelenti. A bejelentés alapján
+a Főfelügyelőség a gyártót törli a nyilvántartásból.
+(5) A nyilvántartásba vételi, az adatmódosítási és a törlés iránti bejelentést formanyomtatványon vagy elektronikus
+űrlapon kell benyújtani. A formanyomtatványt és az elektronikus űrlapot a Főfelügyelőség honlapján és a kormányzati
+portálon kell közzétenni, illetve azt a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továb biak ban:
+felügyelőség) és a Főfelügyelőség a gyártó rendelkezésére bocsátja.”
+3. §
+A Kr. 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) A gyártó és az átvevő a 3. melléklet szerinti adattartalommal és határidőkkel a Főfelügyelőség számára adatot
+szolgáltat.
+(2) Az adatszolgáltatási kötelezettséget formanyomtatványon vagy elektronikus űrlapon kell teljesíteni. A forma-
+nyomtatványt és az elektronikus űrlapot a Főfelügyelőség honlapján és a kormányzati portálon kell közzétenni, illetve
+a felügyelőség és a Főfelügyelőség a gyártó rendelkezésére bocsátja.
+(3) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli
+szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési, megfigyelési adataival való
+egyezésért az adatszolgáltatásra kötelezett felel.”
+4. §
+A Kr. 16. §-a helyébe a következő rendelkezés lép:
+„16. § Ez a rendelet
+a) az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK
+irányelv hatályon kívül helyezéséről szóló, 2006. szeptember 6-i 2006/66/EK európai parlament és tanácsi irányelvnek,
+és
+
+b) a 2006/66/EK európai parlamenti és tanácsi irányelvvel összhangban az elemek és akkumulátorok gyártóinak
+nyilvántartásba vételére vonatkozó követelmények megállapításáról szóló, 2009. augusztus 5-i 2009/603/EK
+bizottsági határozatnak
+ való megfelelést szolgálja.”
+5. §
+(1) A Kr. 2. melléklete helyébe az 1. melléklet lép.
+(2) A Kr. a 2. melléklet szerinti 3. melléklettel egészül ki.
+6. §
+A Kr.
+a)
+15. § (6) bekezdésében
+aa)
+a „2. melléklet 2. táblázata” szövegrész helyébe a „3. melléklet 1.2. pontja” szöveg,
+ab)
+a „2. melléklet 3. és 4. táblázata” szövegrész helyébe a „3. melléklet 1.3. pontja” szöveg,
+b)
+a 15. § (10) bekezdésében
+ba)
+a „2. melléklet 1., 5., és 6. táblázata” szövegrész helyébe a „3. melléklet 1.1., 1.5. és 1.6. pontja” szöveg,
+bb)
+a „2. melléklet 2. táblázata” szövegrész helyébe a „3. melléklet 1.2. pontja” szöveg,
+bc)
+a „2. melléklet 3. és 4. táblázata” szövegrész helyébe a „3. melléklet 1.3. pontja” szöveg
+lép.
+7. §
+(1) Hatályát veszti a Kr. 12. § (1) bekezdése, 15. § (6) bekezdésében az „a 2. melléklet 1., 5. és 6. táblázata szerinti adatokat
+első alkalommal 2010. évben,” szövegrész, a központosított közbeszerzési rendszerről, valamint a központi beszerző
+szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet 1. mellékletének Kommunikációs eszközök és
+szolgáltatások alcímében az „- Internetszolgáltatás”, Irodatechnikai berendezések és szolgáltatások alcímében a „-
+Faxok”, valamint Egészségügyi termékek alcímében a „- Radiológiai filmek, erősítőfóliák, vegyszerek, képlemezek”
+szövegrész, valamint a védelmi feladatokban részt vevő elektronikus hírközlési, illetve postai szolgáltatók kijelöléséről és
+felkészülési feladataik meghatározásáról szóló 24/2004. (VIII. 16.) IHM rendelet.
+(2) A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet „A kizárólag üzletben
+forgalmazható termékekre, valamint az ilyen termékeket forgalmazó üzletek működési engedélyezésére vonatkozó
+szabályok” alcíme a következő 10/A. §-sal egészül ki:
+„10/A. § (1) A hatályos működési engedéllyel rendelkező üzletet működtető kereskedő a május 1. és szeptember 30. közötti
+időszakban megrendezésre kerülő, egybefüggően legfeljebb tíz napon át tartó kulturális fesztiválok területén az ideiglenes
+jelleggel kifejezetten erre a célra létesített vagy használt épületben, illetve önálló rendeltetési egységet képező
+épületrészben, illetve helyiségben (a továbbiakban: az üzlet időszakos fióküzlete) a fesztivál helyszíne szerinti település,
+Budapesten kerületi önkormányzat jegyzőjének engedélye alapján forgalmazhatja a 3. melléklet 2-7. pontjában foglalt
+termékkörbe nem tartozó terméket.
+(2) Az (1) bekezdés szerinti engedély kiadása iránti eljárásra az üzlet működési engedélye kiadására vonatkozó
+szabályokat a 7. § (4) bekezdése és a 8. § (4) bekezdése kivételével alkalmazni kell.”
+8. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba, és a kihirdetését követő 16. napon hatályát veszti.
+9. §
+Ez a rendelet a 2006/66/EK európai parlamenti és tanácsi irányelvvel összhangban az elemek és akkumulátorok
+gyártóinak nyilvántartásba vételére vonatkozó követelmények megállapításáról szóló, 2009. augusztus 8-i
+2009/603/EK bizottsági határozatnak való megfelelést szolgálja.
+Bajnai Gordon s. k.,
+miniszterelnök
+1. melléklet a 101/2010. (IV. 2.) Korm. rendelethez
+„2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez
+A gyártó nyilvántartásához szükséges adatok
+1. A gyártó neve, adószáma, KÜJ száma, székhelye, elérhetősége, kapcsolattartójának neve;
+
+2. A gyártó által Magyarországon képviselt, illetve forgalmazott márkanevek, amennyiben vannak ilyenek;
+3. A gyártó által forgalmazott elem, illetve akkumulátor típusa (hordozható, ipari, gépjármű);
+4. A kötelezettség teljesítésének módja (egyéni vagy koordináló szervezeten keresztüli teljesítés);
+5. A nyilvántartásba vételi kérelem keltezése, és a gyártó nyilatkozata a megadott adatok valódiságáról.”
+2. melléklet a 101/2010. (IV. 2.) Korm. rendelethez
+„3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez
+A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt adatok
+1. A gyártó és az átvevő adatszolgáltatási kötelezettsége tárgyévet követő év február 20-ig:
+1.1. A gyártó által a tárgyévben forgalmazott elem, illetve akkumulátor mennyisége, kilogramm;
+1.2. A gyártó által a tárgyévet megelőző évben forgalmazott elem, illetve akkumulátor mennyisége, kilogramm;
+1.3. A gyártó által a tárgyévet kettővel megelőző évben forgalmazott elem, illetve akkumulátor mennyisége, kilogramm;
+1.4. A gyártó által a tárgyévben és a tárgyévet megelőző két évben forgalmazott hordozható elem, illetve akkumulátor
+mennyiségének átlaga;
+1.5. A gyártó tárgyévi begyűjtési kötelezettsége (kilogramm) és a tárgyévi begyűjtési arány;
+1.6. A gyártó által a tárgyévben visszavett, begyűjtött és kezelt elem, illetve akkumulátor hulladék mennyisége
+(kilogramm) hasznosítónként megbontva, újrafeldolgozási hatékonysági mutatóval, a Magyar Köztársaság területén
+kívüli hulladékkezelés esetén a kiviteli engedély száma;
+1.7. Az átvevő által megállapodásban átvállalt hulladékmennyiség, kilogramm.
+2. A gyártó és az átvevő adatszolgáltatási kötelezettsége tárgyév február 20-ig:
+2.1. A gyártó visszavételi, begyűjtési és kezelési kötelezettsége ellátásának biztosítására képzett tárgyévi biztosíték
+összege és típusa, amennyiben biztosítékképzésre köteles;
+2.2. Az átvevő a vele szerződésben álló gyártók (partnerek) adatai és az átvállalt hulladékmennyiség (kilogramm);
+3. Az elemek és akkumulátorok adatszolgáltatásban feltüntetendő típusai:
+3.1. Savas ólomakkumulátor
+3.2. Lúgos akkumulátor (ebből Ni-Cd akkumulátor)
+3.3. Gomb elem és akkumulátor (ebből 0,0005–2% közötti higanytartalmú)
+3.4. Egyéb elemek és akkumulátorok
+3.5. Összesített mennyiség”
