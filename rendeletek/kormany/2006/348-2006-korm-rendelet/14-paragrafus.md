@@ -1,4 +1,4 @@
-## 13. § Védelemben részesülő állatfaj egyedének bemutatása akkor engedélyezhető, ha összhangban van a természetvédelmi érdekekkel, és oktatási, ismeretterjesztési vagy tudományos célból szükséges, valamint a kérelmező rendelkezik tartási engedéllyel, továbbá élő egyed esetében az adott fajra vonatkozó, az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló külön jogszabály[^16] szerinti feltételeket a bemutatás helyén és annak teljes időtartama alatt biztosítja.
+## 13. § Védelemben részesülő állatfaj egyedének bemutatása akkor engedélyezhető, ha összhangban van a természetvédelmi érdekekkel, és oktatási, ismeretterjesztési vagy tudományos célból szükséges, valamint a kérelmező rendelkezik tartási engedéllyel, továbbá élő egyed esetében az adott fajra vonatkozó, az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló külön jogszabály[^21] szerinti feltételeket a bemutatás helyén és annak teljes időtartama alatt biztosítja.
 
 ## A solymászatra vonatkozó szabályok
 
@@ -12,4 +12,4 @@
 
 (5) A (3) bekezdés szempontjából kultúrtörténeti hagyományápolásnak minősül a solymászatnak mint történelmi vadászati módszernek a természetvédelmi jogszabályokkal összeegyeztethető gyakorlása, az ehhez szükséges solymászmadarak hazai létszámának fenntartására irányuló befogás, tenyésztés, idomítás, illetve a solymászat mint vadászati módszer – szervezett rendezvényen történő – ismeretterjesztési célú gyakorlati bemutatása.
 
-[^16]: Az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelet 1. számú melléklete.
+[^21]: Az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelet 1. számú melléklete.

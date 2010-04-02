@@ -56,7 +56,7 @@
 
 | a vizsgabizottság tagja | a vizsgabizottság tagja |
 
-4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^28]
+4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^41]
 
 ## A védelemben részesülő állatfajok tartása, bemutatása, hasznosítása iránti kérelem tartalma
 
@@ -164,4 +164,4 @@
 
 15. A külön jogszabály szerinti működési engedéllyel rendelkező állatkerteknek kizárólag az e melléklet 1., 2., 7–13., 14.2., 14.3., valamint a 15. pont első francia bekezdése szerinti adatokat és dokumentumokat kell megadni és becsatolni.
 
-[^28]: A 4. számú melléklet a 325/2007. (XII. 11.) Korm. rendelet 8. §-a, a 182/2009. (IX. 10.) Korm. rendelet 520. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 4. számú melléklet a 325/2007. (XII. 11.) Korm. rendelet 8. §-a, a 182/2009. (IX. 10.) Korm. rendelet 520. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

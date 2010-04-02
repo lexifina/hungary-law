@@ -14,13 +14,19 @@ f) emlős-, madár- és hüllőfajok esetében az egyed 5. számú melléklet sz
 
 g) az ellenőrzés feltételeinek biztosításáról;
 
-h)[^19] az engedély időbeli hatályáról;
+h)[^30] az engedély időbeli hatályáról;
 
 i) tenyésztés engedélyezése esetén a szaporulat tartásáról, a tenyésztésre használható hím- és nőivarú példányokról;
 
 j) kutatás engedélyezése esetén a kutatási jelentés, illetve a kutatás eredményéből származó adatok tartalmáról, formájáról, gyakoriságáról, címzettjéről és a kutatási jelentés készítésére kötelezett személyről;
 
-k)[^20] a védelemben részesülő állatfajok egyedének természetből való befogására, illetve elpusztítására vonatkozó engedélyezés esetén az engedélyezett tevékenység végrehajtásának eredményéről szóló jelentéstételi kötelezettségről.
+k)[^31] a védelemben részesülő állatfajok egyedének természetből való befogására, illetve elpusztítására vonatkozó engedélyezés esetén az engedélyezett tevékenység végrehajtásának eredményéről szóló jelentéstételi kötelezettségről;
 
-[^19]: A 18. § h) pontja a 182/2009. (IX. 10.) Korm. rendelet 520. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^20]: A 18. § k) pontját a 325/2007. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+l)[^32] az állat elpusztulása esetére a tetem elhelyezésének, ártalmatlanításának helyéről, módjáról, időtartamáról, valamint a tetem megsemmisítéséről;
+
+m)[^33] a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet hatálya alá tartozó védelemben részesülő állat egyede esetében a származási igazolásban, az eredetigazolásban vagy a tenyésztői bizonylatban szereplő adatokról.
+
+[^30]: A 18. § h) pontja a 182/2009. (IX. 10.) Korm. rendelet 520. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: A 18. § k) pontját a 325/2007. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+[^32]: A 18. § l) pontját a 84/2010. (III. 25.) Korm. rendelet 10. §-a iktatta be.
+[^33]: A 18. § m) pontját a 84/2010. (III. 25.) Korm. rendelet 10. §-a iktatta be.

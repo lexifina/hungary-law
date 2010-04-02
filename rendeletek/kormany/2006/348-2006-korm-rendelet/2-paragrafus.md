@@ -10,7 +10,7 @@ c) közérdek: a természetvédelmi érdek, valamint a természetvédelmi érdek
 
 d) származék: az elpusztult élőlény, az élettelen egyed azonosítható része, illetve az a termék vagy készítmény, amelyről csomagolása vagy egyéb irat, adat vagy körülmény alapján megállapítható, hogy a felsoroltak valamelyikéből készült, illetve ezek valamelyikéből származó összetevőt tartalmaz;
 
-e) tartás: a hasznosítás, valamint a bemutatás kivételével a védelemben részesülő állatfaj egyedének birtokba, illetve élőállat gyűjteményben tartása – ideértve az eladásra történő tartást is –, különösen az egyed gondozása, országhatáron belüli, nem eladásra történő szállítása, idomítása, továbbá preparátumának birtokban tartása;
+e)[^2] tartás: a hasznosítás, a bemutatás és a mentési szállítás kivételével a védelemben részesülő állatfaj egyedének birtokban vagy élőállat gyűjteményben tartása – ideértve az eladásra történő tartást, valamint az egyed gondozását, országhatáron belüli, nem eladásra történő szállítását, idomítását, továbbá preparátumának birtokban tartását is;
 
 f) hasznosítás: a védelemben részesülő állatfaj egyedének – a bemutatás kivételével történő – bármilyen igénybevétele, amely az egyed élettevékenységét, túlélési vagy szaporodási esélyeit, fennmaradását befolyásolja, így különösen
 
@@ -32,4 +32,9 @@ g) bemutatás: a védelemben részesülő állatfaj egyedének közszemlére té
 
 h) kutatás: a védelemben részesülő állatfaj egyedének tudományos célú hasznosítása, különösen a vérvétel, gyűrűzés, egyéb jelölés – kivéve a fogságban lévő egyedek azonosításához szükséges jelölés –, biometriai adatok megfogással járó felvétele, vegyi, biokémiai készítményekkel történő kezelés, szabadtéri kísérlet;
 
-i) szelektív kutatási módszer: olyan kutatási módszer, amelynek alkalmazása esetén a kutatás tárgyát képező állatfajok köre már a kutatás tervezésekor pontosan behatárolható.
+i) szelektív kutatási módszer: olyan kutatási módszer, amelynek alkalmazása esetén a kutatás tárgyát képező állatfajok köre már a kutatás tervezésekor pontosan behatárolható;
+
+j)[^3] mentési szállítás: védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartása, gondozása, belföldi szállítása, amely az egyed mentőközpontba való eljuttatásáig tart.
+
+[^2]: A 2. § e) pontja a 84/2010. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § j) pontját a 84/2010. (III. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.

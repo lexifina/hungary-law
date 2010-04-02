@@ -1,9 +1,13 @@
-21. § (1)[^22] A fokozottan védett állatfajok engedéllyel tartott egyedeiről a Főfelügyelőség, az egyéb védelemben részesülő állatfajok engedéllyel tartott egyedeiről a felügyelőség nyilvántartást vezet.
+21. §[^36] (1) Engedéllyel tartott
 
-(2)[^23] A vadon élő madarak védelméről szóló, 1979. április 2-i 79/409/EK tanácsi irányelv 9. cikkének (3) bekezdése alapján az irányelv 5., 6., 7. és 8. cikkében foglalt rendelkezésektől való eltérésnek, illetve a természetes élőhelyek és a vadon élő növény- és állatvilág megőrzéséről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv 16. cikkének (1) és (2) bekezdése alapján az irányelv 12., 13. és 14. cikkében, valamint a 15. cikk a) és b) pontjában foglaltaktól való eltérésnek minősülő engedélyekről, valamint az e rendelet 18. § k) pontja alapján begyűjtött adatokról a fokozottan védett állatfajok tekintetében a Főfelügyelőség, az egyéb védelemben részesülő állatfajok tekintetében a felügyelőség nyilvántartást vezet.
+a) solymászmadárról a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség
 
-(3)[^24] A Főfelügyelőség, valamint a felügyelőség a megelőző tárgyévre vonatkozó, az (1), illetőleg a (2) bekezdés szerint nyilvántartott adatait minden év május 31-ig megküldi a minisztérium részére.
+b) egyéb fokozottan védett állatfaj egyedéről a Főfelügyelőség, vagy
 
-[^22]: A 21. § eredeti szövegének számozását (1) bekezdésre változtatta a 325/2007. (XII. 11.) Korm. rendelet 6. §-a.
-[^23]: A 21. § (2) bekezdését a 325/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
-[^24]: A 21. § (3) bekezdését a 325/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
+c) az a)–b) pont alá nem tartozó, védelemben részesülő állatfaj egyedéről a felügyelőség
+
+## nyilvántartást vezet.
+
+(2) Az (1) bekezdésben meghatározott hatóságok a megelőző tárgyévre vonatkozóan az (1) bekezdés szerint nyilvántartott adatokat, a 3. § (1) bekezdésben foglalt engedélyek, valamint a 18. § k) pontja szerinti jelentésekről vezetett nyilvántartás adatait minden év május 31-ig megküldik a minisztérium részére.
+
+[^36]: A 21. § a 84/2010. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.

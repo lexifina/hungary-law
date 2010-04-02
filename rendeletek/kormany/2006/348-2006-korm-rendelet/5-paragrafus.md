@@ -1,15 +1,7 @@
-5. § (1) Nem kaphat tartási, bemutatási és hasznosítási engedélyt, illetőleg nem lehet felelős személy, akit
+5. §[^11] (1) Védelemben részesülő állatfaj valamely épületbe tévedt egyedének megfogása – ha az egyedet a megfogást követően közvetlenül szabadon bocsátják – nem minősül tartásnak vagy befogásnak.
 
-a) természetkárosítás, állatkínzás bűncselekménye elkövetése miatt jogerősen felelősségre vontak, a büntetett előélethez fűződő hátrányos következmények alóli mentesítéséig, de legalább az ítélet jogerőre emelkedését követő öt évig;
+(2) A védelemben részesülő állatfaj egyede által lakó-, élő-, költő-, búvó- vagy pihenőhelyként használt épületrészen külső felújítás vagy karbantartás a természetvédelmi hatóság engedélyével végezhető.
 
-b)[^8] a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedését követő három évig; vagy
+(3) A (2) bekezdés szerinti tevékenység engedélyezhető, ha az nem veszélyezteti az egyed élettevékenységét, túlélési vagy szaporodási esélyeit, továbbá fennmaradását. A természetvédelmi hatóság az engedélyben meghatározza a tevékenység végzésének feltételeit.
 
-c) természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedését követő három évig.
-
-(2) Felelős személy az lehet, aki
-
-a) nagykorú;
-
-b) rendelkezik – a gyűrűzési és jelölési tevékenység kivételével – az 1. számú melléklet szerinti szakirányú végzettséggel és gyakorlattal.
-
-[^8]: Az 5. § (1) bekezdésének b) pontja a 325/2007. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 5. § a 84/2010. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
