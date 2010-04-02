@@ -1,1 +1,0 @@
-Az adózás rendjéről szóló 2003. évi XCII. törvény 175. § (13) bekezdésében, valamint – a 2. § és a 3. § (4) bekezdés b) pontja vonatkozásában – 175. § (12) bekezdésében kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
