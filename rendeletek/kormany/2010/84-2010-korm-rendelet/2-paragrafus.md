@@ -1,0 +1,1 @@
+## „j) mentési szállítás: védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartása, gondozása, belföldi szállítása, amely az egyed mentőközpontba való eljuttatásáig tart.”
