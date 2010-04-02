@@ -1,448 +1,346 @@
-## A Mezőgazdasági Szakigazgatási Hivatal
-
-## területi szerveinek illetékességi területe
+## A Mezőgazdasági Szakigazgatási Hivatal területi szerveinek illetékességi területe
 
 ## az erdészeti hatósági ügyekben
 
-## 1. Fővárosi és Pest Megyei Mezőgazdasági Szakigazgatási Hivatal, Budapest
+## 1. Fővárosi és Pest Megyei MgSzH Erdészeti Igazgatósága
 
-## A) Erdészeti tervezési körzet száma és neve
+## Erdőtervezési körzet neve
 
-## 313. Komáromi
+## 1. Alsó-Tápió-vidéki
 
-## 411. Pilismaróti
+## 2. Budai-hegyek
 
-## 412. Visegrádi
+## 3. Budapesti
 
-## 413. Szentendrei
+## 4. Csévharaszt-Felső-Tápió-vidéki
 
-## 421. Csákvári
+## 5. Dél-Vértesi
 
-## 422. Tatabánya-Oroszlányi
+## 6. Gerecsei
 
-## 423. Süttői
+## 7. Gerecse-Vértesi
 
-## 424. Bajnai
+## 8. Gödöllői-dombság
 
-## 425. Pilisszentkereszti
+## 9. Mezőföldi
 
-## 426. Budakeszi
+## 10. Mezőföld-Sárrét
 
-## 427. Budapesti
+## 11. Nagykőrösi
 
-## 462. Kisbéri
+## 12. Pilisi-Visegrádi
 
-## 463. Mecsérpusztai
+## 13. Pilismaróti
 
-## 592. Valkói
+## 14. Pusztavacsi
 
-## 593. Gödöllői
+## 15. Súri-Bakonyaljai
 
-## 615. Székesfehérvári
+## 16. Szentendrei
 
-## 612. Sárosdi
+## 2. Veszprém Megyei MgSzH Erdészeti Igazgatósága
 
-## 613. Soponyai
+## Erdőtervezési körzet neve
 
-## 621. Ráckevei
+## 1. Bakonyszentlászlói
 
-## 811. Monori
+## 2. Balatonfüredi
 
-## 812. Ceglédi
+## 3. Devecseri
 
-## 813. Pusztavacsi
+## 4. Farkasgyepüi
 
-## 814. Abonyi
+## 5. Kab-hegyi
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## 6. Keszthelyi-hegység
 
-## Pilisi Parkerdő Zrt.
+## 7. Pápai
 
-## VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt.
+## 8. Tapolcai
 
-## Vértesi Erdészeti és Faipari Zrt.
+## 9. Várpalotai
 
-## HM Budapesti Erdőgazdaság Zrt. Táborfalvai, Süttői és Lovasberényi Erdészeti Igazgatóságai
+## 10. Zirci
 
-## 2. Hajdú-Bihar Megyei Mezőgazdasági Szakigazgatási Hivatal, Debrecen
+## 3. Vas Megyei MgSzH Erdészeti Igazgatósága
 
-## A) Erdészeti tervezési körzet száma és neve
+## Erdőtervezési körzet neve
 
-## 711. Jászsági
+## 1. Alpokaljai
 
-## 912. Tiszacsegei
+## 2. Alsó-Kemenesháti
 
-## 913. Tiszavasvári
+## 3. Alsó-Őrségi
 
-## 921. Szolnoki
+## 4. Dél-Hansági
 
-## 922. Tiszafüredi
+## 5. Észak-Hanság és Szigetközi
 
-## 951. Hajdúhadházi
+## 6. Felső-Kemenesháti
 
-## 952. Püspökladányi
+## 7. Felső-Őrségi
 
-## 968. Debrecen-Halápi
+## 8. Gyöngyös-Pinka-menti
 
-## 954. Bihari
+## 9. Győri
 
-## 961. Nyíregyházi
+## 10. Kemenesi cser
 
-## 962. Kisvárdai
+## 11. Körmendi
 
-## 963. Baktalórántházi
+## 12. Pannonhalmi-Téti
 
-## 964. Nyírbátori
+## 13. Rábaközi-Iváni cser
 
-## 965. Nyírbélteki
+## 14. Répce-síki
 
-## 966. Guthi
+## 15. Sárvári-Rábamente
 
-## 971. Szatmár-Beregi
+## 16. Sopron-Fertőmelléki
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## 17. Vendvidéki
 
-## Nagykunsági Erdészeti és Faipari Zrt.
+## 4. Zala Megyei MgSzH Erdészeti Igazgatósága
 
-## Nyírségi Erdészeti Zrt.
+## Erdőtervezési körzet neve
 
-## 3. Heves Megyei Mezőgazdasági Szakigazgatási Hivatal, Eger
+## 1. Bajcsai
 
-## A) Erdészeti tervezési körzet száma és neve
+## 2. Baki
 
-## 545. Szilvásváradi
+## 3. Bánokszentgyörgyi
 
-## 546. Egri
+## 4. Kanizsai
 
-## 547. Felsőtárkányi
+## 5. Keszthelyi
 
-## 552. Tarnaleleszi
+## 6. Lenti
 
-## 553. Pétervásárai
+## 7. Letenyei
 
-## 555. Nyugat-Borsodi
+## 8. Szentgyörgyvölgyi
 
-## 561. Gyöngyössolymosi
+## 9. Zalacsányi
 
-## 562. Parádi
+## 10. Zalaegerszegi
 
-## 563. Nagybátonyi
+## 11. Zalakomári
 
-## 564. Verpeléti
+## 5. Somogy Megyei MgSzH Erdészeti Igazgatósága
 
-## 571. Romhányi
+## Erdőtervezési körzet neve
 
-## 572. Szécsényi/Észak-Cserháti
+## 1. Barcsi
 
-## 575. Berceli
+## 2. Igali
 
-## 576. Salgótarjáni
+## 3. Iharosi
 
-## 577. Litke-Kisterenyei
+## 4. Kaszói
 
-## 581. Kemencei/Észak-Börzsönyi
+## 5. Kelet-Zselic
 
-## 582. Diósjenő-Királyréti
+## 6. Lábodi
 
-## 583. Nagymarosi
+## 7. Marcali
 
-## 591. Váci
+## 8. Nagyatádi
 
-## 724. Hatvan-Hevesi
+## 9. Nagybajomi
 
-## 911. Kiskörei
+## 10. Nyugat-Ormánsági
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## 11. Nyugat-Zselic
 
-## EGERERDŐ Erdészeti Zrt.
+## 12. Somogyvári
 
-## Ipoly Erdő Zrt.
+## 13. Zamárdi
 
-## HM Budapesti Erdőgazdaság Zrt. Bujáki Erdészeti Igazgatósága
+## 6. Baranya Megyei MgSzH Erdészeti Igazgatósága
 
-## 4. Somogy Megyei Mezőgazdasági Szakigazgatási Hivatal, Kaposvár
+## Erdőtervezési körzet neve
 
-## A) Erdészeti tervezési körzet száma és neve
+## 1. Bátaszék-Bonyhádi
 
-## 155. Iharosi
+## 2. Bédai
 
-## 211. Marcali
+## 3. Dél-Baranyai
 
-## 212. Nagybajomi
+## 4. Gemenci
 
-## 213. Nagyatádi
+## 5. Hetvehelyi
 
-## 214. Lábodi
+## 6. Hőgyészi
 
-## 215. Barcsi
+## 7. Kárászi
 
-## 221. Somogyvári
+## 8. Kisvaszari
 
-## 222. Zamárdi
+## 9. Nagydorogi
 
-## 223. Igali
+## 10. Pécsi
 
-## 231. Zselicségi
+## 11. Pécsváradi
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## 12. Pincehelyi
 
-## Somogyi Erdészeti és Faipari Zrt.
+## 13. Sásdi
 
-## HM Kaszó Erdőgazdaság Zrt.
+## 14. Sellyei
 
-## 5. Bács-Kiskun Megyei Mezőgazdasági Szakigazgatási Hivatal, Kecskemét
+## 15. Szigetvári
 
-## A) Erdészeti tervezési körzet száma és neve
+## 16. Tamási
 
-## 631. Solti
+## 17. Vajszlói
 
-## 644. Bajai
+## 7. Bács-Kiskun Megyei MgSzH Erdészeti Igazgatósága
 
-## 821. Kerekegyházi
+## Erdőtervezési körzet neve
 
-## 822. Kecskeméti
+## 1. Alsó-Duna-menti
 
-## 823. Bugaci
+## 2. Ásotthalmi
 
-## 824. Kiskőrösi
+## 3. Bajai
 
-## 825. Hajósi
+## 4. Bugaci
 
-## 826. Császártöltési
+## 5. Harkakötönyi
 
-## 827. Kiskunhalasi
+## 6. Kecskeméti
 
-## 828. Harkakötönyi
+## 7. Kelebiai
 
-## 829. Bócsai
+## 8. Kiskőrösi
 
-## 831. Kistelek-Sándorfalvi
+## 9. Kiskunhalasi
 
-## 832. Ásotthalmi
+## 10. Kisteleki
 
-## 841. Pandúri
+## 11. Körös-Maros közi
 
-## 842. Kelebiai
+## 12. Körös-vidéki
 
-## 934. Marosszög-Csanádi
+## 13. Közép-Duna-menti
 
-## 941. Vésztői
+## 14. Marosszög-Csanádi
 
-## 944. Körös–Maros közi
+## 8. Hajdú-Bihar Megyei MgSzH Erdészeti Igazgatósága
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## Erdőtervezési körzet neve
 
-## Délalföldi Erdészeti Zrt.
+## 1. Baktalórántházai
 
-## Kiskunsági Erdészeti és Faipari Zrt.
+## 2. Debrecen-Halápi
 
-## 6. Borsod-Abaúj-Zemplén Megyei Mezőgazdasági Szakigazgatási Hivatal, Miskolc
+## 3. Guthi
 
-## A) Erdészeti tervezési körzet száma és neve
+## 4. Hajdúhát-Bihari
 
-## 511. Jósvafő-Tornai
+## 5. Közép-Tiszai
 
-## 521. Bánhorváti
+## 6. Nyirbátori
 
-## 522. Sajóvölgyi
+## 7. Nyíregyházi
 
-## 523. Szendrői
+## 8. Rétköz-Beregi
 
-## 524. Edelényi
+## 9. Szatmár-Nagyecsedi
 
-## 525. Hernádvölgyi
+## 10. Szolnok-Jászsági
 
-## 526. Tállyai
+## 9. Borsod-Abaúj-Zemplén Megyei MgSzH Erdészeti Igazgatósága
 
-## 527. Fónyi
+## Erdőtervezési körzet neve
 
-## 531. Telkibányai
+## 1. Alsó-Hegyközi
 
-## 532. Hegyközi
+## 2. Bánhorváti
 
-## 533. Sárospataki
+## 3. Bodrogközi
 
-## 534. Erdőhorváti
+## 4. Csereháti
 
-## 541. Parasznyai
+## 5. Dél-Borsodi
 
-## 542. Lillafüredi
+## 6. Dél-Bükki
 
-## 543. Répáshutai
+## 7. Erdőbényei
 
-## 544. Mocsolyási
+## 8. Erdőhorváti
 
-## 723. Tiszakeszi
+## 9. Felső-Hegyközi
 
-## 731. Bodrogközi
+## 10. Fónyi
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## 11. Gömöri
 
-## Észak-Magyarországi Erdőgazdasági Zrt.
+## 12. Gönci
 
-## 7. Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal, Pécs
+## 13. Hernádvölgyi
 
-## A) Erdészeti tervezési körzet száma és neve
+## 14. Jósvafői
 
-## 224. Tamási
+## 15. Lillafüredi
 
-## 225. Pincehelyi
+## 16. Parasznyai
 
-## 226. Hőgyészi
+## 17. Sárospataki
 
-## 227. Bátaszék-Bonyhádi
+## 18. Szendrői
 
-## 232. Sásdi
+## 19. Szerencsi
 
-## 233. Kisvaszari
+## 20. Tornai
 
-## 234. Szigetvári
+## 10. Heves Megyei MgSzH Erdészeti Igazgatósága
 
-## 241. Hetvehelyi
+## Erdőtervezési körzet neve
 
-## 242. Pécsi
+## 1. Berceli
 
-## 243. Kárászi
+## 2. Diósjenő-Királyréti
 
-## 244. Pécsváradi
+## 3. Egri
 
-## 251. Sellyei
+## 4. Felsőtárkányi
 
-## 252. Vajszlói
+## 5. Gödöllői
 
-## 253. Dél-Baranyai
+## 6. Gyöngyössolymosi
 
-## 261. Nagydorogi
+## 7. Hatvan-Hevesi
 
-## 643. Bédai
+## 8. Kelet-Cserháti
 
-## 645. Gemenci
+## 9. Kemencei
 
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
+## 10. Kiskörei
 
-## Gemenci Erdő- és Vadgazdaság Zrt.
+## 11. Nagybátonyi
 
-## GYULAJ Erdészeti és Vadászati Zrt.
+## 12. Nagymarosi
 
-## Mecseki Erdészeti Zrt.
+## 13. Nyugat-Borsodi
 
-## 8. Vas Megyei Mezőgazdasági Szakigazgatási Hivatal, Szombathely
+## 14. Parádi
 
-## A) Erdészeti tervezési körzet száma és neve
+## 15. Pétervásárai
 
-## 111. Soproni
+## 16. Romhányi
 
-## 112. Kőszegi
+## 17. Salgótarjáni
 
-## 113. Szombathelyi
+## 18. Szécsényi
 
-## 121. Celldömölki
+## 19. Szilvásváradi
 
-## 122. Vasvári
+## 20. Tarnaleleszi
 
-## 123. Körmendi
+## 21. Váci
 
-## 133. Felső-Őrségi
-
-## 134. Alsó-Őrségi
-
-## 311. Mosoni
-
-## 312. Győri
-
-## 314. Észak-Hansági
-
-## 315. Dél-Hansági
-
-## 321. Vasegerszegi
-
-## 322. Sárvári
-
-## 323. Kemenesháti
-
-## 324. Rábaközi
-
-## 461. Ravazdi
-
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
-
-## Kisalföldi Erdőgazdaság Zrt.
-
-## Szombathelyi Erdészeti Zrt.
-
-## Tanulmányi Erdőgazdaság Zrt.
-
-## 9. Veszprém Megyei Mezőgazdasági Szakigazgatási Hivatal, Veszprém
-
-## A) Erdészeti tervezési körzet száma és neve
-
-## 441. Keszthelyi-hegységi
-
-## 442. Sümegi
-
-## 443. Monostorapáti
-
-## 444. Balatonfüredi
-
-## 451. Ugodi
-
-## 452. Bakonyszentlászlói
-
-## 453. Zirci
-
-## 454. Herendi
-
-## 455. Farkasgyepűi
-
-## 458. Várpalotai
-
-## 459. Kab-hegyi
-
-## 464. Pápai
-
-## 465. Devecseri
-
-## 466. Kertai
-
-## 614. Balatonfűzfői
-
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
-
-## BAKONYERDŐ Erdészeti és Faipari Zrt.
-
-## HM Veszprémi Erdőgazdaság Zrt.
-
-## HM Budapesti Erdőgazdaság Zrt. Uzsai Erdészeti Igazgatósága
-
-## 10. Zala Megyei Mezőgazdasági Szakigazgatási Hivatal, Zalaegerszeg
-
-## A) Erdészeti tervezési körzet száma és neve
-
-## 124. Zalaegerszegi
-
-## 125. Baki
-
-## 131. Szentgyörgyvölgyi
-
-## 132. Lenti
-
-## 141. Bánokszentgyörgyi
-
-## 142. Letenyei
-
-## 151. Zalacsányi
-
-## 152. Zalakomári
-
-## 153. Kanizsai
-
-## 154. Bajcsai
-
-## 156. Keszthelyi
-
-## B) Erdészeti tervezési körzethez tartozó erdőgazdaságok jegyzéke
-
-## Zalai Erdészet és Faipari Zrt.
+## 22. Verpeléti
 
 4. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^116]
 

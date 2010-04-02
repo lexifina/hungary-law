@@ -26,4 +26,4 @@ l) közreműködik a kábítószer előállítására alkalmas növények termes
 
 m) a tagállami állampolgárok termőföld tulajdonszerzésével kapcsolatosan környezettanulmányt készít, amelynek alapján igazolást ad ki a tagállami állampolgárok mezőgazdasági tevékenységének folytatásáról.
 
-[^79]: A 42. § h) pontját a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés g) pontja hatályon kívül helyezte, újonnan a 88/2010. (III. 26.) Korm rendelet 15. §-a iktatta be.
+[^79]: A 42. § h) pontját a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés g) pontja hatályon kívül helyezte, újonnan a 88/2010. (III. 26.) Korm. rendelet 15. §-a iktatta be.
