@@ -10,10 +10,10 @@ c) természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határoz
 
 (2) Nem adható a tanácsi rendelet 4. cikke szerinti importengedély, az 5. cikke szerinti exportengedély és re-export bizonylat, valamint EU-bizonylat olyan kérelmező részére, akit külföldi bíróság, illetve hatóság
 
-a)[^2]
+a)[^9]
 
 b) a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vont, a határozat jogerőre emelkedését követő három évig, vagy
 
 c) természetvédelmi, illetve állatvédelmi bírsággal sújtott, a határozat jogerőre emelkedését követő három évig,
 
-[^2]: A 11. § (2) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 650. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 11. § (2) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 650. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

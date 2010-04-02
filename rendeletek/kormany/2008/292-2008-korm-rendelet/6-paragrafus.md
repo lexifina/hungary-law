@@ -24,8 +24,10 @@ h) harmadik országból történő behozatal esetén a jogszerű behozatalt igaz
 
 i) az átadás dátumát, valamint hiteles aláírást.
 
-(4) Az igazgatási hatóság a 3. számú melléklet szerint eredetigazolást állít ki
+(4)[^5] A Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség a 3. számú melléklet szerint eredetigazolást állít ki
 
-a) a 2004. november 22. napját megelőzően az igazgatási hatóság által nyilvántartott példányok esetében, ha tenyésztői bizonylat, származási igazolás, a tanácsi rendelet a 8. cikk (3) bekezdése és a 9. cikk (2) bekezdése szerinti bizonylat (a továbbiakban: EU-bizonylat), valamint a tanácsi rendelet 4. cikke szerinti importengedély, 5. cikke szerinti exportengedély és re-export bizonylat nem került kiadásra, és
+a) a 2004. november 22. napját megelőzően az igazgatási hatóság által nyilvántartott példányok esetében, ha tenyésztői bizonylat, származási igazolás, EU-bizonylat, valamint a tanácsi rendelet 4. cikke szerinti importengedély, 5. cikke szerinti exportengedély és re-export bizonylat nem került kiadásra, valamint
 
 b) a lefoglalt, illetve elkobzott példányok esetében.
+
+[^5]: A 6. § (4) bekezdése a 84/2010. (III. 25.) Korm. rendelet 19. §-ával megállapított szöveg.
