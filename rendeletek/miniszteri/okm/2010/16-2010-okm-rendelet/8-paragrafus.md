@@ -1,0 +1,21 @@
+## 7. § A támogatási igényhez csatolni kell a fenntartó 8. számú melléklet szerinti nyilatkozatát arról, hogy rendelkezik a közoktatási törvény 105. §-ában meghatározott közoktatási esélyegyenlőségi intézkedési tervvel. E rendelkezéseket önkormányzati társulások tekintetében azzal az eltéréssel kell alkalmazni, hogy a nyilatkozatot a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvényben, valamint a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvényben az egyes társulási típusoknál meghatározott döntéshozó szerv vagy személy adja ki. A közoktatási humánszolgáltató közoktatási esélyegyenlőségi intézkedési terv hiányában arról nyilatkozik, hogy nevelési programja tartalmazza az esélyegyenlőséget szolgáló intézkedéseket.
+
+## 4. Közös rendelkezések
+
+8. § (1) Az első és második részletre vonatkozó igénylést
+
+a) az 1. § (1) bekezdés a) pontjában meghatározott fenntartók az Igazgatósághoz egy eredeti és egy hitelesített másolati példányban, papír alapon, postai úton, valamint elektronikusan,
+
+b) az 1. § (1) bekezdés b)–c) pontjában meghatározott fenntartók egy eredeti és egy hitelesített másolati példányban, papír alapon, postai úton, valamint elektronikus formában az OKM Támogatáskezelő részére küldik meg.
+
+Az elektronikus benyújtás kizárólag az OKM Támogatáskezelő honlapján található, erre a célra kialakított elektronikus rendszeren keresztül történik. Minden támogatási cél esetében – helyi önkormányzatok kivételével – mellékelni kell a 10. számú melléklet szerinti nyilatkozatot arról, hogy az igénylő rendezett munkaügyi kapcsolatokkal rendelkezik.
+
+(2) A közoktatási humánszolgáltatók az OKM Támogatáskezelő részére az igényléssel egyidejűleg megküldik a fenntartó létezését igazoló, 30 napnál nem régebbi bírósági bejegyzést vagy cégkivonatot és a fenntartó képviselője aláírási címpéldányának másolatát.
+
+(3) Az Igazgatóság és az OKM Támogatáskezelő részéről kizárólag azok az igénylések kerülnek felülvizsgálatra és továbbításra, amelyeket az igénylő elektronikus és postai úton is határidőre megküldött. A második részletre vonatkozóan az igénylés beküldésének elmulasztása esetén az igénylő mindkét részletre elveszti támogatási jogosultságát.
+
+(4) A benyújtott igényekre való jogosultságot az OKM Támogatáskezelő a helyszínen, továbbá a jogosultságot igazoló dokumentumok bekérése útján is jogosult ellenőrizni.
+
+(5) A helyi önkormányzatok esetén az Igazgatóság, a közoktatási humánszolgáltatók és a központi költségvetési szervként működő felsőoktatási intézmények esetén az OKM Támogatáskezelő a határidőig benyújtott igények feldolgozása során szükség esetén a beérkezéstől számított öt munkanapon belül, nyolc napos határidővel hiánypótlásra hívja fel a támogatást igénylőt. Amennyiben az 1. § (1) bekezdés a) pontja szerinti fenntartó a felhívásnak nem tesz eleget vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt elutasítja és erről értesíti a fenntartót. Amennyiben az 1. § b)–c) pontja szerinti fenntartó a felhívásnak nem tesz eleget vagy nem megfelelően teljesíti azt, az OKM Támogatáskezelő a támogatási igényt elutasítja és erről értesíti a fenntartót.
+
+(6) Amennyiben a fenntartó az igénylési határidőt önhibáján kívül elmulasztotta, igazolási kérelmet nyújthat be az elmulasztott határidővel számított öt munkanapon belül. Az igazolási kérelemmel együtt az elmulasztott igénylést is pótolni kell. Az igazolási kérelem benyújtására nyitva álló határidő jogvesztő. Az 1. § (1) bekezdésének a) pontjában meghatározott fenntartók esetén az Igazgatóság az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 64/B. § (3) bekezdését figyelembe véve, az 1. § (1) bekezdésének b)–c) pontjában meghatározott fenntartók esetén az OKM Támogatáskezelő a határidőig benyújtott igények szabályszerűségi felülvizsgálata során, szükség esetén a beérkezéstől számított öt munkanapon belül, nyolc napos határidővel hiánypótlásra hívja fel a támogatást igénylőt. Amennyiben a fenntartó a felhívásnak nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja, az OKM Támogatáskezelő a támogatási igényt elutasítja, és erről értesíti a fenntartót és az OKM-et.
