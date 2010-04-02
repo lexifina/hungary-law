@@ -10,7 +10,7 @@
 
 (5) A melléklet 4., 6., 7. és 9. pontja 2010. július 1-jén lép hatályba.
 
-(6)[^1]
+(6)[^2]
 
 (7) A (6) bekezdés e rendelet hatálybalépését követő napon hatályát veszti.
 
@@ -26,4 +26,4 @@ c) melléklet 5., 8. és 10. pontja 2010. április 2-án
 
 (9) E rendelet 2010. július 2-án hatályát veszti.
 
-[^1]: A 2. § (6) bekezdése e rendelet 2. § (7) bekezdése alapján hatályát vesztette.
+[^2]: A 2. § (6) bekezdése e rendelet 2. § (7) bekezdése alapján hatályát vesztette.

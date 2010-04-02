@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-7-20-0B
 | --- | --- | --- |
 | 2009-11-02 | 2009-7-20-0B.3 | 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet |
 | 2010-02-02 | 2009-7-20-0B.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-04-02 | 2009-7-20-0B.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
