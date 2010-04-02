@@ -1,40 +1,22 @@
 ## A TeIR feladata
 
-## 3. § A TeIR az 1. §-ban meghatározott céljának megvalósítása érdekében:
+3. §[^8] (1) A TeIR térítésmentesen mindenki számára elérhetővé teszi a területfejlesztési és területrendezési tevékenységhez kapcsolódó legfontosabb dokumentumokat (elemzések, értékelések, hírek, szakmai jogszabályok, irányelvek, módszertani segédletek, tervbemutatók, helyes gyakorlat példái, szakkifejezések glosszáriuma, EU dokumentumok), valamint a rendszer meta-adatbázisát az interneten, az alrendszerként működtetett szakmai portál (a továbbiakban: TÉRPORT alrendszer) segítségével.
 
-(1) térítésmentesen mindenki számára elérhetővé teszi a területfejlesztési és területrendezési tevékenységhez kapcsolódó legfontosabb dokumentumokat – elemzések, értékelések, hírek, szakmai jogszabályok, irányelvek, módszertani segédletek, tervbemutatók, helyes gyakorlat példái, szakkifejezések glosszáriuma, EU dokumentumok –, valamint a rendszer meta-adatbázisát és az alapadatokat az Interneten, az alrendszerként működtetett szakmai portál (TÉRPORT[^1]) segítségével;
-
-(2) a TeIR átveszi és feldolgozza, továbbá egységes adatbázis-szerkezetben tárolja:
+(2) A TeIR átveszi és feldolgozza, továbbá egységes adatbázis-szerkezetben tárolja
 
 a) az országos és az európai uniós, valamint egyéb nemzetközi adatgyűjtésen alapuló, az egyes térségek helyzetére jellemző adatokat,
 
 b) a területi támogatási rendszerek adatait,
 
-c) az ország és az Európai Unió területére kiterjedő, helyhez kötött információkat tartalmazó adatokat (digitális térképi adatbázisokat),
+c) az ország és az Európai Unió területére kiterjedő, a területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerhez szükséges téradatokat tartalmazó digitális térképi adatbázisokat, és
 
-d) a terület- és településfejlesztési, valamint a terület- és településrendezési tevékenységhez kapcsolódó szöveges és térképi dokumentumok adatait;
+d) a terület- és településfejlesztési, valamint a terület- és településrendezési tevékenységhez kapcsolódó szöveges és térképi dokumentumok adatait.
 
-(3) a TeIR internetes szolgáltatásokat biztosít az információk
+(3) A TeIR biztosítja a hazai projektekre, térbeli objektumokra, térségekre, az országra és egyéb, településhatárokkal meghatározható területekre, valamint az Európai Unió területére vonatkozó adatok internetes megjelenítését és elemzését.
 
-a) települési,
+(4) A TeIR szolgáltatása biztosítja a téradatok esetében azok térinformatikai feldolgozhatóságát.
 
-b) kistérségi,
-
-c) megyei,
-
-d) kiemelt térségi,
-
-e) regionális,
-
-f) országos,
-
-g) valamint a Központi Statisztikai Hivatal (a továbbiakban: KSH) területi számjelrendszere szerinti egyéb speciális területre vonatkozó,
-
-h) településhatárok mentén összeállítható egyedi területi szinten történő elemzéséhez, megjelenítéséhez;
-
-(4) a TeIR szolgáltatása biztosítja a helyhez kötött információk esetében azok térinformatikai feldolgozhatóságát;
-
-(5) a TeIR szolgáltatása biztosítja az információk képi megjelenítését és nyomtatását az alábbi formátumokban:
+(5) A TeIR szolgáltatása biztosítja az információk képi megjelenítését nyomtatásra alkalmas formában, a következő formátumokban:
 
 a) dokumentum,
 
@@ -42,10 +24,10 @@ b) riport,
 
 c) diagram,
 
-d) kartogram,
+d) kartogram és
 
-e) korlátozott felbontású raszteres térkép;
+e) korlátozott felbontású raszteres térkép.
 
 (6) a TeIR szolgáltatása biztosítja az egyes támogatási rendszerekre vonatkozó – adat- és titokvédelmi szabályok hatálya alá nem eső – adatok projektszintű lekérdezését és megjelenítését.
 
-[^1]: A TÉRPORT alrendszer a www.terport.hu címen érhető el.
+[^8]: A 3. § a 65/2010. (III. 18.) Korm. rendelet 2. §-ával megállapított szöveg.

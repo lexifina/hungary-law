@@ -22,20 +22,18 @@ g) vonatkoztatási egység időszaka,
 
 h) az a jogszabály, amely alapján az adatgyűjtés történik.
 
-(4) A TeIR az 1. számú mellékletben meghatározott témakörökben – az adat jellegének, illetve az adatgyűjtésnek megfelelően – a következő szintekre vonatkozó adatokat tartalmaz:
+(4)[^9] A TeIR az 1. számú mellékletben meghatározott témaköröket, számszerű és térbeli adatokat (a továbbiakban együtt: témakörök) tekintve – az adat jellegének, illetve az adatgyűjtésnek megfelelően – a következő szintekre vonatkozó adatokat tartalmaz:
 
 a) projekt,
 
-b) objektum,
+b) térbeli objektum,
 
 c) település,
 
-d) kistérség,
+d) térség,
 
-e) megye,
+e) az ország és
 
-f) régió,
+f) az Európai Unió.
 
-g) ország vagy
-
-h) Európai Unió.
+[^9]: A 4. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,15 +1,19 @@
 ## A TeIR adatkörei, az adatgyűjtések és az adatátadás
 
-6. § (1) Az 1. számú mellékletben felsorolt témakörökkel kapcsolatos adatok egyrészről a Kormány által évenként elfogadásra kerülő Országos Statisztikai Adatgyűjtési Programban (a továbbiakban: OSAP) szereplő, másrészről OSAP-on kívüli adatgyűjtésekből kerülnek átvételre a TeIR-be.
+6. §[^11] (1) A TeIR az 1. számú mellékletben meghatározott témakörök szerint csoportosítja a TeIR adatbázisának tartalmát.
 
-(2) A TeIR adatgyűjtése a KSH közreműködésével a következőképpen valósul meg:
+(2) Az (1) bekezdés szerinti adatbázis
 
-a) a KSH az éves OSAP előkészítésébe bevonja a TeIR üzemeltetőjét,
+a) az Országos Statisztikai Adatgyűjtési Program (a továbbiakban: OSAP) keretében gyűjtött adatokból,
 
-b) a KSH biztosítja az általa gyűjtött, az OSAP-ból származó adatokhoz való hozzáférést.
+b) az OSAP-ban nem szereplő adatokból, valamint
 
-(3) Az OSAP-ban szereplő adatok átadásáért – amelyeket nem a KSH gyűjt – az érintett adatgyűjtő szerv vezetője felelős.
+c) az OSAP adatokból előállított önálló adatbázisokból
 
-(4) Az OSAP-ban nem szereplő, illetve az OSAP adatokból előállított önálló adatbázisokból a TeIR részére átadandó adatgyűjtéseket részletesen a 2. számú melléklet sorolja fel. A melléklet tartalmazza az adatgyűjtő, illetve adatátadó szervezeteket és az adatátadásra vonatkozó határidőket, gyakoriságokat.
+áll.
 
-(5) A TeIR üzemeltetője a szolgáltatások végtermékén is köteles feltüntetni az adat forrását.
+(3) A (2) bekezdés szerinti adatokhoz való hozzáférést az adatkezelő szervezet biztosítja.
+
+(4) A (2) bekezdés b) és c) pontjában meghatározott adatok körét, az adatkezelő szervezeteket, valamint az adatszolgáltatás gyakoriságát és határidejét a 2. számú melléklet határozza meg.
+
+[^11]: A 6. § a 65/2010. (III. 18.) Korm. rendelet 4. §-ával megállapított szöveg.

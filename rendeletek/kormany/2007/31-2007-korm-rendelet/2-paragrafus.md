@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-a) alapadat: az adatgyűjtő szervezetektől átvett feldolgozatlan adat,
+a)[^1]
 
 b) térinformatika: a helyhez kötődő adatok digitális térképi alapú feldolgozását támogató informatikai módszerek és eszközök összessége,
 
@@ -28,14 +28,28 @@ l) az adat mértékegysége: az a fizikai mértékviszony, amelyben az adat menn
 
 m) adatgyűjtési időszak: az adat rögzítésének ideje,
 
-n) vonatkoztatási egység: az a területegység, amelyre az adat vonatkozik vagy vonatkoztatható (projekt, objektum, település, kistérség, megye, régió, ország, Európai Unió),
+n)[^2] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
 
 o) vonatkoztatási egység időszaka: azon időszak, amelyben a vonatkoztatási egység állapota érvényes,
 
 p) projekt: tartalmilag és formailag részletesen kidolgozott, megfelelő pénzügyi háttérrel és végrehajtási ütemezéssel rendelkező fejlesztési elképzelés,
 
-q) objektum: az épített, táji és természeti környezet térképi információinak legkisebb elemi egysége, amelyre vonatkozóan térbeli adatok rendelkezésre állnak,
+q)[^3] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
 
-r) üzemeltető: a TeIR kapcsán a rendszer működtetésével (adatgyűjtések átvételével, információszolgáltatással, karbantartással, nyilvántartással és fejlesztés javaslatok megtételével) megbízott szervezet,
+r)[^4]
 
-s) oktatási célú hozzáférés: középiskolai és felsőoktatási képzés keretében dokumentumok, térképek megtekintése, elemzése, területi elemzések bemutatása, összeállítása, valamint ezek – TeIR-re való hivatkozással történő – felhasználása a diákok iskolai feladatainak, illetve szakdolgozatainak elkészítésében.
+s) oktatási célú hozzáférés: középiskolai és felsőoktatási képzés keretében dokumentumok, térképek megtekintése, elemzése, területi elemzések bemutatása, összeállítása, valamint ezek – TeIR-re való hivatkozással történő – felhasználása a diákok iskolai feladatainak, illetve szakdolgozatainak elkészítésében,
+
+t)[^5] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
+
+u)[^6] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
+
+v)[^7] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
+
+[^1]: A 2. § a) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^2]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.

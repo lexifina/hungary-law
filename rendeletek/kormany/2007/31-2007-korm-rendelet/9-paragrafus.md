@@ -2,4 +2,6 @@
 
 (2) A költségtérítésből származó bevételt a központi költségvetésnek a miniszter által felügyelt fejezetében kell elszámolni, és azt a TeIR üzemeltetésére, illetve fejlesztésére kell fordítani.
 
-(3) Az (1) bekezdésében meghatározott szervezetek a szolgáltatás igénybevételéhez a TeIR üzemeltetőjével határozott vagy határozatlan időtartamú szerződést kötnek a 10. § szerinti Üzemeltetési Szabályzat alapján.
+(3)[^22] Az (1) bekezdésében meghatározott szervezetek a szolgáltatás igénybevételéhez a TeIR üzemeltetőjével határozott vagy határozatlan időtartamú szerződést kötnek a TeIR Üzemeltetési Szabályzata alapján.
+
+[^22]: A 9. § (3) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
