@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-16-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1999-02-20 | 1999-16-20-22.1 | 16/1999. (II. 5.) Korm. rendelet |
+| 2010-04-02 | 1999-16-20-22.2 | 67/2010. (III. 18.) Korm. rendelet |

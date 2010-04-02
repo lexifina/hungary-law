@@ -6,4 +6,8 @@ b) a rendezvény szervezőjének külön igénye alapján a Gytv. hatálya alá 
 
 c) a nem közterületen tartott rendezvények közrendvédelmi biztosítása;
 
-d) a nem közterületnek minősülő helyek, objektumok biztosítása, tűzszerészeti átvizsgálása.
+d) a nem közterületnek minősülő helyek, objektumok biztosítása, tűzszerészeti átvizsgálása;
+
+e)[^1] a lőfegyver, lőszer vagy lőszerelem rendőrség által történő tárolása.
+
+[^1]: Az 1. § e) pontját a 67/2010. (III. 18.) Korm. rendelet 1. §-a iktatta be.
