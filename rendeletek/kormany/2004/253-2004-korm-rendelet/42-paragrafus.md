@@ -4,8 +4,19 @@
 
 (2) Rövid lőfegyvert az (1) bekezdésben meghatározott egyéb feltételek betartása mellett, falhoz, padlóhoz vagy szekrényhez rögzített biztonsági zárral rendelkező lemezdobozban is lehet tárolni.
 
-(3) A 10 darabot meghaladó darabszámú lőfegyver és 1000 darabot meghaladó lőszer, valamint „A” kategóriába tartozó lőfegyver tárolása esetén a tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni.
+(3)[^71] A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, valamint a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel kell ellátni
 
-(4) Ha a (3) bekezdésben említett lőfegyver vagy lőszer tárolása lakott területen kívül történik, a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel kell ellátni.
+a) „A” kategóriába tartozó lőfegyver,
+
+b) 10 darabot meghaladó számú lőfegyver, illetve 1000 darabot meghaladó számú lőszer, vagy
+
+c) lőfegyvernek vagy lőszernek a 28. § (2) bekezdés b) vagy c) pontja alapján kiadott engedéllyel rendelkező szervezet által történő
+
+tárolása esetén.
+
+(4)[^72] Ha a (3) bekezdésben említett lőfegyver vagy lőszer tárolása lakott területen kívül történik, a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel kell ellátni.
 
 (5) A lőszert a lőfegyvertől elkülönítve, biztonsági zárral rendelkező lemezszekrényben vagy falhoz, padlóhoz, szekrényhez rögzített biztonsági zárral rendelkező lemezdobozban, illetéktelen személyektől elzárva kell tárolni.
+
+[^71]: A 42. § (3) bekezdése a 67/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^72]: A 42. § (4) bekezdését a 67/2010. (III. 18.) Korm. rendelet 11. §-a hatályon kívül helyezte. [E módosító rendelet 12. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.]

@@ -6,6 +6,6 @@
 
 (4) Lőpor és csappantyú tárolására szolgáló helyiségben nem lehet nyílt lánggal üzemelő berendezés, tilos a dohányzás és nyílt láng használata.
 
-(5)[^58] A lőfegyver-kereskedő lőszer (lőszerelem) tárolóhelyének engedélyezésére irányuló eljárásban a döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
+(5)[^73] A lőfegyver-kereskedő lőszer (lőszerelem) tárolóhelyének engedélyezésére irányuló eljárásban a döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
 
-[^58]: A 43. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 10. pontja és a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^73]: A 43. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 10. pontja és a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
