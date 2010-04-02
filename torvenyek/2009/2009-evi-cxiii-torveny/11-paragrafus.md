@@ -1,3 +1,0 @@
-11. § A Jöt. 19. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A (2) bekezdés szerint nyújtott szállítási jövedéki biztosíték felszabadul, illetve ismételten felhasználhatóvá válik az elektronikus átvételi elismervény, illetve az elektronikus kiviteli elismervény szerinti visszaigazolás alapján, az elektronikus átvételi elismervénynek, illetve az elektronikus kiviteli elismervénynek a rendeltetési hely, illetve a kivitel helye szerinti tagállam illetékes hatósága által az uniós számítógépes rendszerben a vámhatóságnak történt megküldésével egyidejűleg, illetve a 21. § (9) bekezdés szerinti esetben az a) pont szerinti igazolás vámhatósághoz történt benyújtásának vagy a b) pont szerinti igazolás vámhatóság általi elfogadásának napján.”

@@ -1,5 +1,1 @@
-65. § (1) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 89. §-a (3) bekezdésének b) pontjában az „a jövedékiadó-köteles termékekre vonatkozó általános rendelkezésekről és e termékek tartásáról, szállításáról és ellenőrzéséről szóló 92/12/EGK tanácsi irányelvnek” szövegrész helyébe az „a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló 2008/118/EK tanácsi irányelvnek” szövegrész lép.
-
-(2) Az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvény 9. §-ának 3. pontjában az „a jövedékiadó-köteles termékekre vonatkozó általános rendelkezésekről és e termékek tartásáról, szállításáról és ellenőrzéséről szóló 92/12/EGK tanácsi irányelvnek” szövegrész helyébe az „a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló 2008/118/EK tanácsi irányelvnek” szövegrész lép.
-
-(3) A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény 2. §-ának (1) bekezdésében a „bejegyzett és nem bejegyezett kereskedőre” szövegrész helyébe a „bejegyezett kereskedőre, bejegyzett feladóra” szövegrész lép.
+65. §

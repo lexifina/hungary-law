@@ -1,3 +1,0 @@
-54. § A Jöt. 106. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A jövedéki engedélyes kereskedőnek a beszerzett, az értékesített és a készleten lévő jövedéki termék eredetét, származását hitelt érdemlően igazolnia kell. A jövedéki engedélyes kereskedő – az 5,5 térfogatszázaléknál alacsonyabb alkoholtartalmú, legfeljebb 0,33 literes kiszerelésű termék kivételével – az alkoholterméket – a 73. § (2) bekezdésében foglalt eltéréssel – csak zárjeggyel és – a 73. § (10) bekezdésében foglalt eltéréssel, illetve a gyógyszer-nagykereskedelem kivételével – 2 litert meg nem haladó göngyölegben, a dohánygyártmányt csak adójeggyel, a bort palackos vagy hivatalos zárral ellátott kannás, hordós kiszerelésben szerezheti be, készletezheti, értékesítheti.”
