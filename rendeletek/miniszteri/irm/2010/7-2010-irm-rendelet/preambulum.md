@@ -1,0 +1,1 @@
+A büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés h) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) és n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
