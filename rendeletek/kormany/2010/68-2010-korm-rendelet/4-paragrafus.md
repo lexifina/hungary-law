@@ -1,0 +1,1 @@
+## „(4) Ha a kezességi szerződés azért nem köthető meg, mert az Áht. 33. § (5)–(7) bekezdésében foglalt feltételek nem állnak fenn, akkor az államháztartásért felelős miniszter kezdeményezi a Kormány kezességvállalással kapcsolatos határozatának visszavonását.”
