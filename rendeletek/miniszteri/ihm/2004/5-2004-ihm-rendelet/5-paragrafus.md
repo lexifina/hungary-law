@@ -2,4 +2,12 @@
 
 5. § (1) Első osztályba azok a rádióberendezések és elektronikus hírközlő végberendezések tartoznak, amelyek korlátozás nélkül forgalomba hozhatók és üzembe helyezhetők.
 
-(2) Második osztályba azok a rádióberendezések tartoznak, amelyek forgalomba hozatalánál a 4. § (4) bekezdés szerint kell eljárni, és amelyek forgalomba hozatala, illetőleg forgalmazása a 9. § (2) bekezdés szerinti korlátozások alá eshet.
+(2)[^28] Második osztályba azok a rádióberendezések tartoznak,
+
+a) amelyek üzembe helyezése vagy üzemben tartása az Eht. 69. § (5) bekezdése szerinti korlátozások (így különösen: egyedi rádióengedély) alá esik,
+
+b) amelyek forgalomba hozatalánál a 4. § (4) bekezdése szerint kell eljárni, vagy
+
+c) amelyek forgalomba hozatala vagy forgalmazása a 9. § (2) bekezdése szerinti korlátozások alá esik.
+
+[^28]: Az 5. § (2) bekezdése az 5/2010. (III. 26.) MeHVM rendelet 2. §-ával megállapított szöveg.

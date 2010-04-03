@@ -1,6 +1,6 @@
 ## A 10. § (2)–(4) bekezdésében hivatkozott
 
-## megfelelőség értékelési eljárás[^37]
+## megfelelőség értékelési eljárás[^65]
 
 ## Teljes minőségbiztosítás
 
@@ -84,4 +84,4 @@
 
 6. számú melléklet az 5/2004. (IV. 13.) IHM rendelethez
 
-[^37]: Lásd az MSZ 25051 10. fejezetét.
+[^65]: Lásd az MSZ 25051 10. fejezetét.
