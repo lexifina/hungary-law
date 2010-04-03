@@ -34,9 +34,9 @@
 
 ## 1 Nagyobb számú kiállítási tárgy esetén mellékletként csatolható!
 
-8. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^122]
+8. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^133]
 
-## KÖTELEZVÉNY
+KÖTELEZVÉNY
 
 a ................................ Múzeumban ...-tól ...-ig tartó ......................................... című kiállításhoz
 
@@ -92,4 +92,4 @@ Budapest, [dátum]
 
 Garantőr
 
-[^122]: A 8. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^133]: A 8. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.

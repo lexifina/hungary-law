@@ -1,4 +1,4 @@
-8/A. §[^72] (1)[^73] Egyszerű kezesség esetén a jogosult a kötelezettel szemben minden olyan, a jogérvényesítésre irányuló jognyilatkozatot és jogcselekményt köteles megtenni a beváltást megelőzően, amely az adott helyzetben általában elvárható.
+8/A. §[^76] (1)[^77] Egyszerű kezesség esetén a jogosult a kötelezettel szemben minden olyan, a jogérvényesítésre irányuló jognyilatkozatot és jogcselekményt köteles megtenni a beváltást megelőzően, amely az adott helyzetben általában elvárható.
 
 (2) Az (1) bekezdést figyelembe véve a jogosult köteles:
 
@@ -12,5 +12,5 @@ b) ennek sikertelensége esetén követelését fizetési meghagyással vagy vé
 
 (5) A jogosultnak az (1)–(3) bekezdésekben foglalt kötelezettsége felróható megszegéséből eredő kárt a kezessel szemben nem lehet érvényesíteni.
 
-[^72]: A 8/A. §-t a 40/2007. (III. 13.) Korm. rendelet 9. §-a iktatta be.
-[^73]: A 8/A. § (1) bekezdését a 40/2007. (III. 13.) Korm. rendelet 19. § (12) bekezdése alapján csak a 2007. március 28. napja után vállalt kezességek esetében kell alkalmazni.
+[^76]: A 8/A. §-t a 40/2007. (III. 13.) Korm. rendelet 9. §-a iktatta be.
+[^77]: A 8/A. § (1) bekezdését a 40/2007. (III. 13.) Korm. rendelet 19. § (12) bekezdése alapján csak a 2007. március 28. napja után vállalt kezességek esetében kell alkalmazni.

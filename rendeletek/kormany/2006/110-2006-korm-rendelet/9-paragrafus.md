@@ -16,6 +16,6 @@ g) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jo
 
 (2) A kötelezett nem teljesítése esetén a hitelintézet a hitel felmondását megelőzően belső szabályai szerint felszólítja az adóst a tartozás rendezésére.
 
-(3)[^80] Amennyiben az állami kezességvállalással érintett hitelszerződés felmondásra kerül, vagy a véglejáratkor a kölcsönt az adós még nem fizette teljesen vissza, a hitelintézet az e rendelet 4. számú melléklete szerinti igénylőlap felhasználásával – a 8/C. § (2) bekezdés szerinti jogvesztő határidőn belül – érvényesítheti az állami készfizető kezességvállalásból eredő jogait az állami adóhatóságnál.
+(3)[^87] Amennyiben az állami kezességvállalással érintett hitelszerződés felmondásra kerül, vagy a véglejáratkor a kölcsönt az adós még nem fizette teljesen vissza, a hitelintézet az e rendelet 4. számú melléklete szerinti igénylőlap felhasználásával – a 8/C. § (2) bekezdés szerinti jogvesztő határidőn belül – érvényesítheti az állami készfizető kezességvállalásból eredő jogait az állami adóhatóságnál.
 
-[^80]: A 9. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^87]: A 9. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-6. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^117]
+6. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^128]
 
-## Igénylőlap
+Igénylőlap
 
 a fagykárt és aszálykárt szenvedett mezőgazdasági termelők kárenyhítését szolgáló kormányzati intézkedésekről szóló 1072/2003. (VII. 18.) Korm. határozat, a 2003. évben fagykárt és aszálykárt szenvedett mezőgazdasági termelők kárenyhítését szolgáló kormányzati intézkedések egyes feltételeinek megállapításáról szóló 1039/2006. (IV. 7.) Korm. határozat, valamint a Hajdú-Bét Rt. és a Parmalat Hungária Rt. fizetésképtelensége miatt kialakult válságos helyzet kezelését célzó kedvezményes hitelkonstrukció bevezetéséről szóló 1041/2004. (IV. 29.) Korm. határozat alapján vállalt állami kezesség beváltásához
 
@@ -30,7 +30,7 @@ Szerződés összege:
 
 Szerződés lejárata:
 
-A kölcsönszerződés adatai a – felsorolt Korm. határozatok alapján megkötött – kezesi szerződés 10. pontja által előírt adatszolgáltatási táblázatban szerepeltek/nem szerepeltek[^118]:
+A kölcsönszerződés adatai a – felsorolt Korm. határozatok alapján megkötött – kezességi szerződés 10. pontja által előírt adatszolgáltatási táblázatban szerepeltek/nem szerepeltek[^129]:
 
 A kölcsönszerződés módosítására sor került/nem került sor1:
 
@@ -68,15 +68,13 @@ A kezességbeváltást megelőzően megtett jogcselekmények:
 
 Nyilatkozat az adatszolgáltatási kötelezettség teljesítéséről:
 
-Nyilatkozat arról, hogy az adósnak volt-e korábbi hiteleiből adódó állami kezesség érvényesítése:
-
 5. Mellékletként csatolandók
 
 Hitelszerződés és annak mellékletét képező dokumentumok
 
 Hitelszerződés-módosítások és annak mellékletét képező dokumentumok
 
-A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^119]
+A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^130]
 
 A 3. pontban foglalt egyéb kezességvállalást igazoló dokumentumok
 
@@ -114,9 +112,9 @@ Dátum: ..............................
 
 ...................................................
 
-aláírás[^120]
+aláírás[^131]
 
-[^117]: A 6. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (4) bekezdése szerint módosított szöveg.
-[^118]: A megfelelő rész aláhúzandó.
-[^119]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.
-[^120]: A jogosult bank cégszerű aláírása, illetve a jogosultak nevében eljáró bank cégszerű aláírása.
+[^128]: A 6. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (4) bekezdése, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) és (3) bekezdése szerint módosított szöveg.
+[^129]: A megfelelő rész aláhúzandó.
+[^130]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.
+[^131]: A jogosult bank cégszerű aláírása, illetve a jogosultak nevében eljáró bank cégszerű aláírása.

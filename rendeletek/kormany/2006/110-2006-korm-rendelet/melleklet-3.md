@@ -1,6 +1,6 @@
-3. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^112]
+3. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^123]
 
-## Igénylőlap az egyedi állami kezesség, garancia és viszontgarancia beváltásához
+Igénylőlap az egyedi állami kezesség, garancia és viszontgarancia beváltásához
 
 Igénylőlap az egyedi állami kezesség, garancia és viszontgarancia beváltásához
 
@@ -32,7 +32,7 @@ Bankszámlaszáma:
 
 Kormányhatározat száma:
 
-Hitelszerződés (követelést megalapozó szerződés), valamint egyedi viszontgarancia esetében kezesi szerződés, valamint a hitelviszonyt megtestesítő értékpapír
+Hitelszerződés (követelést megalapozó szerződés), valamint egyedi viszontgarancia esetében kezességi szerződés, valamint a hitelviszonyt megtestesítő értékpapír
 
 – kelte/forgalomba hozatalának időpontja:
 
@@ -82,4 +82,4 @@ aláírás
 
 1 Csak a megfelelő kötelezettségvállalási típust kell szerepeltetni!
 
-[^112]: A 3. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^123]: A 3. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 68/2010. (III. 19.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.

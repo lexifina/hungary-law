@@ -1,4 +1,4 @@
-6/C. §[^55] (1) Fedezetcsereként csak olyan ingatlan fogadható el, amely – a kölcsönszerződésben rögzített állami készfizető kezességvállalás arányát is figyelembe véve – a hitelintézet fedezetértékelési szabályzata alapján fedezetet nyújt a fennálló kölcsönre, kamataira és kezelési költségeire. Fedezetcsere esetén a hitelintézet az új fedezetként elfogadott ingatlanra vonatkozóan az eredeti feltételek szerint állapítja meg a kezesség mértékét, melyet a kölcsönszerződésben köteles rögzíteni.
+6/C. §[^58] (1) Fedezetcsereként csak olyan ingatlan fogadható el, amely – a kölcsönszerződésben rögzített állami készfizető kezességvállalás arányát is figyelembe véve – a hitelintézet fedezetértékelési szabályzata alapján fedezetet nyújt a fennálló kölcsönre, kamataira és kezelési költségeire. Fedezetcsere esetén a hitelintézet az új fedezetként elfogadott ingatlanra vonatkozóan az eredeti feltételek szerint állapítja meg a kezesség mértékét, melyet a kölcsönszerződésben köteles rögzíteni.
 
 (2) Az állami készfizető kezesség beváltása esetén a Magyar Államnak az Áht. 33. § (13) bekezdése szerinti követelése a fedezetcsere során új fedezetként felajánlott ingatlanon is kielégíthető.
 
@@ -8,4 +8,4 @@
 
 (5) A futamidő hosszabbítással járó, 6/A. § (2) bekezdés b), c) és h) pontja szerinti fizetési könnyítések alkalmazása esetén állami kamattámogatás a lakástámogatási rendeletnek az eredeti kölcsönszerződés megkötésének időpontjában hatályos 12. §-ában és 13. §-ában meghatározottak szerint, az eredeti kölcsönszerződésben rögzített futamidő kezdő napjától számított, legfeljebb első 20 évére vehető igénybe.
 
-[^55]: A 6/C. §-t a 118/2009. (VI. 4.) Korm. rendelet 3. §-a iktatta be.
+[^58]: A 6/C. §-t a 118/2009. (VI. 4.) Korm. rendelet 3. §-a iktatta be.

@@ -1,6 +1,6 @@
-5. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^114]
+5. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^125]
 
-## Igénylőlap az állami agrár kezességek beváltásához
+Igénylőlap az állami agrár kezességek beváltásához
 
 Igénylőlap az állami agrár kezességek beváltásához
 
@@ -32,7 +32,7 @@ Szerződés lejárata:
 
 A szerződéskötéskor figyelembe vett (Kezes felé bejelentett), az FVM által igazolt állami kezességvállalás mértéke és összege:
 
-Ha rendelet másként nem rendelkezik a beváltáskor fennálló tőke összege:[^115]
+Ha rendelet másként nem rendelkezik a beváltáskor fennálló tőke összege:[^126]
 
 Ha rendelet másként nem rendelkezik a beváltáskor fennálló tőkeösszeg támogatási okiratban rögzített %-a:
 
@@ -64,15 +64,13 @@ A kezességbeváltást megelőzően megtett jogcselekmények:
 
 Nyilatkozat az adatszolgáltatási kötelezettségét teljesítéséről:
 
-Nyilatkozat arról, hogy az adósnak volt-e korábbi hiteleiből adódó kezességérvényesítése:
-
 5. Mellékletként csatolandók
 
 Hitelszerződés és annak mellékletét képező dokumentumok
 
 Hitelszerződés-módosítások és annak mellékletét képező dokumentumok
 
-A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^116]
+A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^127]
 
 A 3. pontban foglalt egyéb kezességvállalást igazoló dokumentumok
 
@@ -110,6 +108,6 @@ Dátum: ............................
 
 cégszerű aláírás
 
-[^114]: Az 5. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
-[^115]: Amennyiben egy hitel állami kezességvállalással és viszontgaranciával is érintett az állami kezesség beváltásánál a hitelgarancia-intézmény által kiutalt tőkeösszeg csökkenti a fennálló tőketartozást.
-[^116]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.
+[^125]: Az 5. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (3) bekezdése, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^126]: Amennyiben egy hitel állami kezességvállalással és viszontgaranciával is érintett az állami kezesség beváltásánál a hitelgarancia-intézmény által kiutalt tőkeösszeg csökkenti a fennálló tőketartozást.
+[^127]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.

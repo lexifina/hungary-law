@@ -8,9 +8,7 @@ b)[^3] garantőr: az államháztartásért felelős miniszter által képviselt 
 
 c)[^4]
 
-d) egyszerű kezesség: olyan kezesség, amelynek beváltása a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 274. §-ának (1) bekezdése és az Áht. 18/C. §-ának (3) bekezdése szerint történik;
-
-e)[^5] készfizető kezesség: olyan kezesség, amelynek beváltása a Ptk. 274. §-ának (2) bekezdése és az Áht. 18/C. §-ának (3) bekezdése szerint történik;
+d)–e)[^5]
 
 f)[^6]
 
@@ -42,13 +40,13 @@ l)–m)[^11]
 
 (4)[^13] Az állami kezességre vonatkozó szabályokat – az e rendeletben meghatározott kivételekkel – az állami garanciák esetében is megfelelően alkalmazni kell.
 
-(5)[^14] A rendelet hatálya nem terjed ki a pénzügyi közvetítő rendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény 5. §-a (1) bekezdésének a) pontja és 7. §-ának (1) bekezdése szerinti állami garanciavállalásra.
+(5)[^14]
 
 [^1]: Az 1. § (1) bekezdése a 40/2007. (III. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdésének a) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdésének b) pontja a 40/2007. (III. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2) bekezdésének c) pontját a 40/2007. (III. 13.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
-[^5]: Az 1. § (2) bekezdésének e) pontja a 40/2007. (III. 13.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés d)–e) pontját a 68/2010. (III. 19.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
 [^6]: Az 1. § (2) bekezdésének f) pontját a 40/2007. (III. 13.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
 [^7]: Az 1. § (2) bekezdésének g) pontja a 40/2007. (III. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (2) bekezdésének h) pontja a 40/2007. (III. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
@@ -57,4 +55,4 @@ l)–m)[^11]
 [^11]: Az 1. § (2) bekezdésének l)–m) pontját a 40/2007. (III. 13.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
 [^12]: Az 1. § (3) bekezdését a 40/2007. (III. 13.) Korm. rendelet 1. § (6) bekezdése iktatta be.
 [^13]: Az 1. § (4) bekezdését a 40/2007. (III. 13.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^14]: Az 1. § (5) bekezdését a 89/2009. (IV. 14.) Korm. rendelet 10. §-a iktatta be.
+[^14]: Az 1. § (5) bekezdését a 89/2009. (IV. 14.) Korm. rendelet 10. §-a iktatta be, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
