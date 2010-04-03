@@ -1,4 +1,4 @@
-## 42–43. §[^5]
+## 42–43. §[^6]
 
 ## Záró rendelkezések
 
@@ -8,8 +8,10 @@
 
 (3) 2011. január 1-jén lép hatályba a 21. § (2) bekezdése és 49. § (3) bekezdése.
 
-(4) 2010. április 2-án hatályát veszti az 1–20. §, a 21. § (1) bekezdése, a 22–43. §, a 45–48. §, a 49. § (1) és (2) bekezdése, az 50. §, valamint az 1–23. melléklet. E bekezdés 2010. április 3-án hatályát veszti.
+(4)[^7]
 
-(5) 2011. január 2-án hatályát veszti a 21. § (2) bekezdése és 49. § (3) bekezdése. E bekezdés 2011. január 3-án hatályát veszti.
+(5)[^8] 2011. január 2-án hatályát veszti a 21. § (2) bekezdése és 49. § (3) bekezdése. E bekezdés 2011. január 3-án hatályát veszti.
 
-[^5]: A 42–43. §-t a 44. § (4) bekezdése hatályon kívül helyezte.
+[^6]: A 42–43. §-t a 44. § (4) bekezdése hatályon kívül helyezte.
+[^7]: A 44. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^8]: A 44. § (5) bekezdése ugyanezen bekezdés alapján hatályát veszti 2011. január 3. napjával.
