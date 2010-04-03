@@ -1,0 +1,13 @@
+## Robbantás nem elektromos gyutaccsal
+
+80. § (1) Egy fúrólyukban csak azonos fajtájú gyutacs használható, több gyutaccsal való indítás szükségessége esetén a fúrólyukban különböző késleltetés is alkalmazható az eltérő hosszúságú nem elektromos vezetékekből adódó késleltetések figyelembevételével.
+
+(2) A gyutacs vezetéket a fúrólyukban toldani nem lehet.
+
+(3) A nem elektromos vezetéket éles késsel, a tengelyére merőlegesen kell elvágni.
+
+(4) A nem elektromos hálózat villamos gyutaccsal történő indítása esetén a villamos gyutacs teljes hosszában, szorosan, elmozdulás-mentesen kell érintkeznie az indítandó vezetékkel.
+
+(5) A robbantási munka tartama alatt biztosítani kell, hogy a robbantóhálózatot csak a robbantómester tudja indítani.
+
+(6) A gyutacsvezeték-tekercset hurokképződés nélkül kell szétbontani. Szétbontás közben a gyutacsvezeték befogásának helyét húzó igénybevételnek kitenni nem lehet.

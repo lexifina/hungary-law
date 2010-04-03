@@ -1,0 +1,1 @@
+## Tűzvédelmi berendezésre vonatkozó előírások
