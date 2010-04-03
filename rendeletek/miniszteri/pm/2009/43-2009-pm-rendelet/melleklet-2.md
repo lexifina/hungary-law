@@ -76,6 +76,6 @@
 
 ## A 80 x 16 mm és a 100 x 16 mm méretű zárjegy esetén 20 000 darabonként, a 45 x 12 mm méretű zárjegy esetén 25 000 darabonként dobozba rakva oly módon, hogy a zárjegyek a dobozt teljes terjedelmében kitöltsék.
 
-2. melléklet a 43/2009. (XII. 29.) PM rendelethez[^6]
+2. melléklet a 43/2009. (XII. 29.) PM rendelethez[^7]
 
-[^6]: A 2. melléklet a 18. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 18. § (2) bekezdése szerint módosított szöveg.
