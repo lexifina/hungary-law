@@ -30,6 +30,6 @@ m) a Keretmegállapodás mellékleteinek áttekintése és szükség szerinti m�
 
 n) a következő évre vonatkozó munkaterv.
 
-(3)[^23] A programszintű Éves Jelentést legkésőbb az éves monitoring megbeszélés előtt egy hónappal meg kell küldeni az éves ülés minden résztvevőjének.
+(3)[^48] A programszintű Éves Jelentést legkésőbb az éves monitoring megbeszélés előtt egy hónappal meg kell küldeni az éves ülés minden résztvevőjének.
 
-[^23]: A 37. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^48]: A 37. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.

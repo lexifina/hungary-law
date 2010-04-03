@@ -8,6 +8,6 @@
 
 (3) Az NKE az éves ellenőrzési tervet a (2) bekezdésben foglaltakat követően haladéktalanul megküldi a svájci hatóság részére.
 
-(4)[^51] Az NFÜ belső ellenőrzési egysége, valamint a KSz és a TKSz belső ellenőrzési részlegei az általuk lefolytatott ellenőrzésekről szóló jelentést az NKE-n keresztül 40 napon belül megküldik a KEHI részére.
+(4)[^77] Az NFÜ belső ellenőrzési egysége, valamint a KSz és a TKSz belső ellenőrzési részlegei az általuk lefolytatott ellenőrzésekről szóló jelentést az NKE-n keresztül 40 napon belül megküldik a KEHI részére.
 
-[^51]: A 76. § (4) bekezdése a 226/2009. (X. 14.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^77]: A 76. § (4) bekezdése a 226/2009. (X. 14.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -4,15 +4,15 @@
 
 ## A PÉNZÜGYI LEBONYOLÍTÁS RENDJE
 
-## Fizetési számlák[^27]
+## Fizetési számlák[^53]
 
-56. § (1)[^28] A svájci hatóságtól érkező átutalások fogadására, illetve a szabálytalanul felhasznált vagy fel nem használt támogatások visszafizetésére az NFÜ által a Kincstárban nyitott forint fizetési számla (a továbbiakban: programszámla) szolgál.
+56. § (1)[^54] A svájci hatóságtól érkező átutalások fogadására, illetve a szabálytalanul felhasznált vagy fel nem használt támogatások visszafizetésére az NFÜ által a Kincstárban nyitott forint fizetési számla (a továbbiakban: programszámla) szolgál.
 
-(2)[^29] Az NFÜ kezelésében lévő fizetési számla forintban vezetett fizetési számla, a vezetéséből adódó bárminemű költség elszámolása közvetlenül a központi költségvetés, Pénzügyminisztérium fejezet terhére történik.
+(2)[^55] Az NFÜ kezelésében lévő fizetési számla forintban vezetett fizetési számla, a vezetéséből adódó bárminemű költség elszámolása közvetlenül a központi költségvetés, Pénzügyminisztérium fejezet terhére történik.
 
-(3)[^30] A Kincstár a fizetési számla kivonatot egy eredeti példányban állítja elő, amelyet az NFÜ-nek küld meg.
+(3)[^56] A Kincstár a fizetési számla kivonatot egy eredeti példányban állítja elő, amelyet az NFÜ-nek küld meg.
 
-[^27]: Az 56. § (1) bekezdését megelőző alcím a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
-[^28]: Az 56. § (1) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
-[^29]: Az 56. § (2) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
-[^30]: Az 56. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^53]: Az 56. § (1) bekezdését megelőző alcím a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^54]: Az 56. § (1) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^55]: Az 56. § (2) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^56]: Az 56. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.

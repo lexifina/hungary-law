@@ -12,7 +12,7 @@ c) a 800/2008/EK rendelet 1. cikk (6) bekezdésében meghatározott támogatáso
 
 (3) E rendelet alapján vissza nem térítendő támogatást lehet nyújtani.
 
-(4)[^56] E rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül egy vagy több kritérium teljesül:
+(4)[^87] E rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül egy vagy több kritérium teljesül:
 
 a) a támogatás segítségével lényegesen megnövekszik a projekt mérete,
 
@@ -30,4 +30,4 @@ e) vagy regionális beruházási támogatás esetében a projekt a támogatás h
 
 (7) Az (5) bekezdéstől eltérően, amennyiben a célvállalkozás e rendelet 110. §-a szerinti kockázatitőke- befektetés intézkedés alapján kapott tőkét – az e rendelet 100–106. §-ai szerinti kutatás-fejlesztési támogatást kivéve – a tőkejuttatástól számított három éven belül a 800/2008/EK rendelet hatálya alá tartozó támogatási jogcímen támogatás iránti kérelmet nyújt be – a nyújtott tőke összegéig – támogatás intenzitását, vagy a maximális elszámolható költségeket 20 százalékkal csökkenteni kell.
 
-[^56]: A 87. § (4) bekezdése a 226/2009. (X. 14.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^87]: A 87. § (4) bekezdése a 226/2009. (X. 14.) Korm. rendelet 31. §-ával megállapított szöveg.

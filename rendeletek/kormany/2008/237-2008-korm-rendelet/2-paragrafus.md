@@ -2,13 +2,13 @@
 
 2. § (1)[^1] E rendelet alkalmazásában
 
-1. állami támogatás: az Európai Közösséget létrehozó Szerződés (a továbbiakban: EK Szerződés) 87. cikkének (1) bekezdése és az EK Szerződés 87. és 88. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti támogatás;
+1.[^2] állami támogatás: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSZ) 107. cikk (1) bekezdése és az 1998/2006/EK bizottsági rendelet szerinti támogatás;
 
 2. általános elvek: a Keretmegállapodás 1. mellékletében rögzített irányelvek és stratégiák;
 
 3. Értékelő Bizottság: a Keretmegállapodásban létrehozott, külön szabályzatban meghatározott összetételű szerv, amely megvizsgálja a Projekttervezetet a Keretmegállapodásban rögzített és az egyes pályázati felhívásokban meghatározott kritériumok alapján;
 
-4.[^2] forráslehívás: azon tevékenységek elnevezése, melyek eredményeképpen a támogatás összege rendelkezésre áll a lebonyolítási fizetési számlákon annak érdekében, hogy a Projekt Végrehajtó támogatásra jogosult számlái vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatai alapján őt megillető támogatás összege, illetve a folyósítandó előleg átutalásra kerüljön;
+4.[^3] forráslehívás: azon tevékenységek elnevezése, melyek eredményeképpen a támogatás összege rendelkezésre áll a lebonyolítási fizetési számlákon annak érdekében, hogy a Projekt Végrehajtó támogatásra jogosult számlái vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatai alapján őt megillető támogatás összege, illetve a folyósítandó előleg átutalásra kerüljön;
 
 5. földrajzi összpontosítás: összpontosítás a két periférikus és kevésbé fejlett régióra (Észak-Magyarország és Észak-Alföld), amelyekben a Hozzájárulás legalább 40%-a kerül felhasználásra;
 
@@ -72,15 +72,27 @@
 
 (2) E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában
 
-1. acélipar: a 800/2008/EK bizottsági rendelet 2. cikk 29. pontjában meghatározott fogalom;
+1.[^4]
 
 2. alapkutatás: a 800/2008/EK bizottsági rendelet 30. cikk 2. pontjában meghatározott fogalom;
 
+2a.[^5] alternatív helyzet: olyan beruházás megvalósítását jelenti, amely műszaki szempontból hasonló (azaz a közvetlenül a környezetvédelmi többletberuházáshoz kapcsolódó jellemzők kivételével termelőkapacitása és minden egyéb műszaki jellemzője azonos a beruházáséval és üzletileg hiteles alternatívát jelent) az értékelés tárgyát képező beruházáshoz, de alacsonyabb környezetvédelmi szintet képvisel, és amennyiben vannak ilyenek, megfelel a vonatkozó kötelező közösségi szabványoknak, valamint hitelt érdemlően megvalósítható lenne támogatás nélkül;
+
 3. általános képzés: a 800/2008/EK bizottsági rendelet 38. cikk 2. pontjában meghatározott fogalom;
+
+3a.[^6] belső szolgáltató: vasúti személyszállítási közszolgáltatás esetén a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § (2) bekezdés 21. pontja, és közúti személyszállítási közszolgáltatás esetén az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény (a továbbiakban: Atv.) 2. § f) pontja szerinti fogalom;
 
 4. bérköltség: a 800/2008/EK bizottsági rendelet 2. cikk 15. pontjában meghatározott fogalom;
 
 5. célvállalkozás: a 800/2008/EK bizottsági rendelet 28. cikk 8. pontjában meghatározott fogalom;
+
+5a.[^7] diszkont kamatláb: az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet (a továbbiakban: 85/2004. Korm. rendelet) 1. § 36. pontja szerinti kamatláb;
+
+5b.[^8] elszámolható költség: a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
+
+5c.[^9] energiamegtakarítási intézkedések: azok az intézkedések, amelyek révén a vállalkozások csökkenteni tudják a termelési folyamatban felmerülő energiafelhasználást;
+
+5d.[^10] érték: a személyszállítás tekintetében valamely szolgáltatás, útvonal, közszolgáltatási szerződés vagy ellentételezési rendszer értéke, amely megfelel a közszolgáltató vagy közszolgáltatók általános forgalmi adó (a továbbiakban: ÁFA) nélküli teljes bevételének, beleértve a hatóságok által kifizetett, bármilyen jellegű ellentételezéseket is, valamint az olyan menetjegyek eladásából származó bevételeket, amelyeket nem fizetnek vissza a kérdéses a települési (fővárosi) önkormányzat számára;
 
 6. fogyatékkal élő munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 20. pontjában meghatározott fogalom;
 
@@ -106,7 +118,19 @@
 
 17. kockázati tőke: a 800/2008/EK bizottsági rendelet 2. cikk 27. pontjában meghatározott fogalom;
 
-18. közszolgáltatás: az EK Szerződés 86. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás;
+17a.[^11] környezetvédelem: minden olyan intézkedés, amely a fizikai környezetnek vagy a természeti erőforrásoknak a kedvezményezett saját tevékenységei által történő károsodásának felszámolására vagy megakadályozására, e károsodás bekövetkezése kockázatának csökkentésére, vagy a természeti erőforrások hatékonyabb felhasználására irányul, beleértve az energia-megtakarítási intézkedéseket és a megújuló energiaforrások használatát is;
+
+17b.[^12] közösségi szabvány: olyan kötelező közösségi szabvány, amely környezeti mutatókra ír elő a vállalkozások által elérendő szinteket, vagy a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló 2008. január 15-i 2008/1/EK európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára vonatkozó kötelezettség;
+
+18.[^13] közszolgáltatás: az EUMSZ 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás;
+
+18a.[^14] közszolgáltató: a személyszállítási ágazathoz kapcsolódó közszolgáltatás vonatkozásában, bármely köz- vagy magánvállalkozás vagy e vállalkozások csoportja, amely személyszállítási közszolgáltatásokat működtet, vagy bármely olyan közjogi szerv, amely személyszállítási közszolgáltatásokat nyújt;
+
+18b.[^15] közszolgáltatási kötelezettség: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk e) pontjában meghatározott fogalom;
+
+18c.[^16] közszolgáltatási ellentételezés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk g) pontjában meghatározott fogalom;
+
+18d.[^17] közszolgáltatási szerződés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk i) pontjában meghatározott fogalom;
 
 19. közvetlenül a beruházási projekt által teremtett munkahelyek: a 800/2008/EK bizottsági rendelet 2. cikk 14. pontjában meghatározott fogalom;
 
@@ -122,6 +146,10 @@
 
 25. magvető tőke: a 800/2008/EK bizottsági rendelet 28. cikk 4. pontjában meghatározott fogalom;
 
+25a.[^18] megújuló energiaforrás: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontjában meghatározott energiaforrás;
+
+25b.[^19] megújuló energiaforrásokból származó energia: a kizárólag megújuló energiaforrásokat felhasználó erőművek által végzett energiatermelés, valamint hagyományos energiaforrásokat is alkalmazó vegyes létesítményekben megújuló energiaforrásokból nyert, az energiaérték alapján számított energiarész, beleértve a tárolórendszerek feltöltésére használt megújuló villamos energiát, a tárolórendszerek eredményeként nyert villamos energia kivételével;
+
 26. mezőgazdasági termék: a 800/2008/EK bizottsági rendelet 2. cikk 22. pontjában meghatározott fogalom;
 
 26. mezőgazdasági termék feldolgozása: a 800/2008/EK bizottsági rendelet 2. cikk 23. pontjában meghatározott fogalom;
@@ -130,11 +158,13 @@
 
 28. nagyberuházás: a 800/2008/EK bizottsági rendelet 2. cikk 12. pontjában meghatározott fogalom;
 
-29. nehéz helyzetben lévő vállalkozás: e rendelet mellékletében meghatározott vállalkozás. Egy kkv.-t akkor kell nehéz helyzetben lévőnek tekinteni, ha megfelel a 800/2008/EK bizottsági rendelet 1. cikk (7) bekezdésében meghatározott feltételeknek;
+29.[^20] nehéz helyzetben lévő vállalkozás: a 85/2004. (IV. 19.) Korm. rendelet 8. számú mellékletében meghatározott vállalkozás;
 
 30. növekedési tőke: a 800/2008/EK bizottsági rendelet 28. cikk 6. pontjában meghatározott fogalom;
 
-31. referenciaráta: a támogatástartalom és az elszámolható költség jelenértékének kiszámításához használt mutatószám; amelyet az EK Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK tanácsi rendelet végrehajtásáról szóló 2004. április 21-i 794/2004/EK bizottsági rendelet 9. cikke, valamint a referencia kamatláb és a leszámítolási kamatláb megállapítási módjának módosításáról szóló 2008/C 14/02 számú bizottsági közlemény alapján az Európai Bizottság határoz meg, a pénzügyminiszter közleményt ad ki róla, valamint közzéteszi a Pénzügyminisztérium honlapján;
+30a.[^21] női vállalkozó által újonnan létrehozott vállalkozás: a 800/2008/EK bizottsági rendelet 2. cikk 28. pontjában meghatározott vállalkozás;
+
+31.[^22] referencia alapkamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott kamatláb;
 
 32. saját forrás: a Projekt Végrehajtó által a fejlesztési programhoz igénybe vett, támogatásnak nem minősülő forrás;
 
@@ -144,23 +174,46 @@
 
 35. szakképzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontjában meghatározott fogalom;
 
+35a.[^23] személyszállítási közszolgáltatás: a nyilvánosság számára megkülönböztetés nélkül és folyamatosan nyújtott általános gazdasági érdekű személyszállítási szolgáltatás;
+
 36. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A és B csoportba sorolt szén kitermelése;
 
 37. szintetikusszál-ipar: a 800/2008/EK bizottsági rendelet 2. cikk 30. pontjában meghatározott fogalom;
 
-38. támogatási intenzitás: az EK Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendeletben meghatározott fogalom;
+38.[^24] támogatási intenzitás: a 85/2004. (IV. 19.) Korm. rendelet 1. § 24. pontjában meghatározott támogatási mérték;
 
-39. támogatástartalom: az EK Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendeletben meghatározott fogalom;
+39.[^25] támogatástartalom: a 85/2004. (IV. 19.) Korm. rendelet 1. § 31. pontjában meghatározott érték;
 
-40. támogatott területek:
+40.[^26] támogatott területek: az EUMSZ 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl, az EUMSZ 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
 
-– az EK szerződés 87. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl,
-
-– az EK szerződés 87. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
-
-41. tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontjában meghatározott fogalom;
+41.[^27] tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontja szerinti, illetve környezetvédelmi támogatások esetében a 800/2008/EK bizottsági rendelet 17. cikk 12. pontja szerinti eszköz;
 
 42. védett munkahely: a 800/2008/EK bizottsági rendelet 2. cikk 21. pontjában meghatározott fogalom.
 
 [^1]: A 2. § (1) bekezdése a 226/2009. (X. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 4. pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 1. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 4. pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés 1. pontját a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^5]: A 2. § (2) bekezdés 2a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdés 3a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § (2) bekezdés 5a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^8]: A 2. § (2) bekezdés 5b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^9]: A 2. § (2) bekezdés 5c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^10]: A 2. § (2) bekezdés 5d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^11]: A 2. § (2) bekezdés 17a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^12]: A 2. § (2) bekezdés 17b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^13]: A 2. § (2) bekezdés 18. pontja a 95/2010. (III. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^14]: A 2. § (2) bekezdés 18a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^15]: A 2. § (2) bekezdés 18b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^16]: A 2. § (2) bekezdés 18c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^17]: A 2. § (2) bekezdés 18d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^18]: A 2. § (2) bekezdés 25a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^19]: A 2. § (2) bekezdés 25b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^20]: A 2. § (2) bekezdés 29. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^21]: A 2. § (2) bekezdés 30a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^22]: A 2. § (2) bekezdés 31. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^23]: A 2. § (2) bekezdés 35a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^24]: A 2. § (2) bekezdés 38. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^25]: A 2. § (2) bekezdés 39. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^26]: A 2. § (2) bekezdés 40. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^27]: A 2. § (2) bekezdés 41. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.

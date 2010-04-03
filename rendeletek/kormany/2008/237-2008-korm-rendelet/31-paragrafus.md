@@ -6,15 +6,15 @@ a) a célzott eredményekhez és a végrehajtási ütemtervhez mért fizikai és
 
 b) a célzott eredményektől és a végrehajtási ütemtervtől való eltéréseket, indokolással és a javasolt korrekciós intézkedésekkel együtt,
 
-c)[^21] a közbeszerzéssel, valamint a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését,
+c)[^46] a közbeszerzéssel, valamint a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését,
 
 d) a ténylegesen fölmerült költségek és a vonatkozó kifizetések támogatási jogcím szerinti listáját, alátámasztva a kapcsolódó bizonylatokkal,
 
 e) a kifizetett támogatásra jutó önerő kifizetésének igazolását a kapcsolódó bizonylatokkal,
 
-f)[^22] az alátámasztó bizonylatok megfelelőségéről szóló, 75. § szerinti könyvvizsgálói ellenőrzési jelentést a Végrehajtási Megállapodásban meghatározottak szerint,
+f)[^47] az alátámasztó bizonylatok megfelelőségéről szóló, 75. § szerinti könyvvizsgálói ellenőrzési jelentést a Végrehajtási Megállapodásban meghatározottak szerint,
 
 g) a kifizetési kérelmet.
 
-[^21]: A 31. § (2) bekezdésének c) pontja a 226/2009. (X. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^22]: A 31. § (2) bekezdésének f) pontja a 226/2009. (X. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^46]: A 31. § (2) bekezdésének c) pontja a 226/2009. (X. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^47]: A 31. § (2) bekezdésének f) pontja a 226/2009. (X. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

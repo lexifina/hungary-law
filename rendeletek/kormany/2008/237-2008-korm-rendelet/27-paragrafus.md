@@ -26,13 +26,13 @@ h) ellátja a Svájci–Magyar Együttműködési Programra vonatkozóan a nyilv
 
 i) külön előírások szerint monitoring rendszert működtet.
 
-(3)[^9] Az NKE pénzügyi lebonyolításhoz kapcsolódó feladatai tekintetében
+(3)[^34] Az NKE pénzügyi lebonyolításhoz kapcsolódó feladatai tekintetében
 
 a) elkülönített folyószámlát (a továbbiakban: programszámla) nyit a Magyar Államkincstárban (a továbbiakban: Kincstár) a svájci hatóság által átutalt támogatások fogadására és visszafizetésére,
 
 b) intézkedik a svájci hatóság által átutalt támogatások fejezeti kezelésű előirányzat-felhasználási keretszámlára (a továbbiakban: EFK) történő továbbutalásáról,
 
-c)[^10] biztosítja a kifizetendő támogatás összegének rendelkezésre állását a lebonyolítási forint fizetési számlán, annak érdekében, hogy a Projekt Végrehajtó, illetőleg partnere jóváhagyott kifizetési igénylése alapján a támogatás összege, illetve a folyósítandó előleg átutalásra kerülhessen,
+c)[^35] biztosítja a kifizetendő támogatás összegének rendelkezésre állását a lebonyolítási forint fizetési számlán, annak érdekében, hogy a Projekt Végrehajtó, illetőleg partnere jóváhagyott kifizetési igénylése alapján a támogatás összege, illetve a folyósítandó előleg átutalásra kerülhessen,
 
 d) hitelesíti a KSz által benyújtott elszámolásokat, és továbbítja azokat a svájci hatóság felé,
 
@@ -52,21 +52,21 @@ e) tájékoztatást nyújt a Projekt Végrehajtónak a projektek lebonyolítás�
 
 f) pénzügyi szempontból ellenőrzi az Időközi jelentéseket és a Projektzáró jelentést, továbbá nyomon követi e jelentéseken keresztül a projektek megvalósításához kapcsolódó mérföldkövekkel összhangban azok előrehaladását,
 
-g)[^11] beszámol a végrehajtás előrehaladásáról az éves megbeszélésen,
+g)[^36] beszámol a végrehajtás előrehaladásáról az éves megbeszélésen,
 
-h)[^12] tekintettel arra, hogy a közbeszerzési eljárások lebonyolítását a Projekt Végrehajtó végzi el, a KSz a közbeszerzési eljárás megindítása előtt, majd az eredményhirdetést megelőzően ellenőrzi a közbeszerzési dokumentumokat a közbeszerzésekre vonatkozó jogszabályoknak való megfelelés és a műszaki minőségbiztosítás szempontjából,
+h)[^37] tekintettel arra, hogy a közbeszerzési eljárások lebonyolítását a Projekt Végrehajtó végzi el, a KSz a közbeszerzési eljárás megindítása előtt, majd az eredményhirdetést megelőzően ellenőrzi a közbeszerzési dokumentumokat a közbeszerzésekre vonatkozó jogszabályoknak való megfelelés és a műszaki minőségbiztosítás szempontjából,
 
-i)[^13] megfigyelőként jelen lehet a közbeszerzési ajánlatok bontása és bírálata során,
+i)[^38] megfigyelőként jelen lehet a közbeszerzési ajánlatok bontása és bírálata során,
 
-j)[^14] a Pályázati Alap esetén a pályázat közzétételét megelőzően ellenőrzi a pályázati dokumentációt, megfigyelőként jelen lehet a pályázatok értékelése során,
+j)[^39] a Pályázati Alap esetén a pályázat közzétételét megelőzően ellenőrzi a pályázati dokumentációt, megfigyelőként jelen lehet a pályázatok értékelése során,
 
-k)[^15] a projekt végrehajtásáról rendszeresen jelent az NKE részére,
+k)[^40] a projekt végrehajtásáról rendszeresen jelent az NKE részére,
 
-l)[^16] adatot szolgáltat a programszintű Éves Jelentéshez,
+l)[^41] adatot szolgáltat a programszintű Éves Jelentéshez,
 
-m)[^17] kifizeti a Projekt Végrehajtóknak, illetőleg a partnereknek az előlegeket, valamint a támogatások összegét a projektekre benyújtott elszámolások alapján, továbbá a megítélt projekt előkészítési támogatást,
+m)[^42] kifizeti a Projekt Végrehajtóknak, illetőleg a partnereknek az előlegeket, valamint a támogatások összegét a projektekre benyújtott elszámolások alapján, továbbá a megítélt projekt előkészítési támogatást,
 
-n)[^18] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a közös eljárásrend szerinti dokumentumokat.
+n)[^43] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a közös eljárásrend szerinti dokumentumokat.
 
 (5) A TKSz további pályáztatással szétosztja a Pályázati Alap és Ösztöndíjalap esetén a Pályázati Alap és Ösztöndíjalap keretében rendelkezésre álló támogatást.
 
@@ -80,16 +80,16 @@ c) nyilvántartást vezet a svájci hatóságnak benyújtott visszatérítési k
 
 d) a pénzforgalomról szóló időszakos jelentést ellenőrzi és megküldi az NKE részére,
 
-e)[^19] a megfelelő pénzügyi ellenőrzések biztosítása érdekében a támogatások lebonyolításában érintett szervezeteknél helyszíni vizsgálatot végezhet.
+e)[^44] a megfelelő pénzügyi ellenőrzések biztosítása érdekében a támogatások lebonyolításában érintett szervezeteknél helyszíni vizsgálatot végezhet.
 
-[^9]: A 27. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^10]: A 27. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
-[^11]: A 27. § (4) bekezdésének g) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^12]: A 27. § (4) bekezdésének h) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^13]: A 27. § (4) bekezdésének i) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^14]: A 27. § (4) bekezdésének j) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^15]: A 27. § (4) bekezdésének k) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^16]: A 27. § (4) bekezdésének l) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^17]: A 27. § (4) bekezdésének m) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^18]: A 27. § (4) bekezdésének n) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^19]: A 27. § (6) bekezdésének e) pontját a 226/2009. (X. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^34]: A 27. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^35]: A 27. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^36]: A 27. § (4) bekezdésének g) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^37]: A 27. § (4) bekezdésének h) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^38]: A 27. § (4) bekezdésének i) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^39]: A 27. § (4) bekezdésének j) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^40]: A 27. § (4) bekezdésének k) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^41]: A 27. § (4) bekezdésének l) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^42]: A 27. § (4) bekezdésének m) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^43]: A 27. § (4) bekezdésének n) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^44]: A 27. § (6) bekezdésének e) pontját a 226/2009. (X. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.

@@ -1,8 +1,8 @@
 ## 112. § A Svájci–Magyar Együttműködési Program keretében annak a pályázónak nyújtható támogatás, aki megfelel az Áht. rendezett munkaügyi kapcsolatokra vonatkozó előírásainak.
 
-## Az átmeneti támogatásokra vonatkozó szabályok[^59]
+## Az átmeneti támogatásokra vonatkozó szabályok[^98]
 
-112/A. §[^60] (1) Az átmeneti támogatásként nyújtott összes támogatás támogatástartalma vállalkozásonként nem haladhatja meg az 500 000 eurónak megfelelő forintösszeget, figyelemmel a (2) bekezdésben foglaltakra.
+112/A. §[^99] (1) Az átmeneti támogatásként nyújtott összes támogatás támogatástartalma vállalkozásonként nem haladhatja meg az 500 000 eurónak megfelelő forintösszeget, figyelemmel a (2) bekezdésben foglaltakra.
 
 (2) A több részletben fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni.
 
@@ -12,5 +12,5 @@
 
 (5) Azonos elszámolható költségek tekintetében az átmeneti támogatás nem halmozható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi az adott állami támogatásra vonatkozóan rögzített támogatási intenzitást.
 
-[^59]: A 112/A. §-t megelőző alcímet a 226/2009. (X. 14.) Korm. rendelet 33. §-a iktatta be.
-[^60]: A 112/A. §-t a 226/2009. (X. 14.) Korm. rendelet 33. §-a iktatta be.
+[^98]: A 112/A. §-t megelőző alcímet a 226/2009. (X. 14.) Korm. rendelet 33. §-a iktatta be.
+[^99]: A 112/A. §-t a 226/2009. (X. 14.) Korm. rendelet 33. §-a iktatta be.
