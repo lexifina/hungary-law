@@ -1,6 +1,6 @@
 ## Rádióberendezés lepecsételése
 
-23. § (1) A hatóság a rádióállomás rádióberendezését az Eht. 68. §-ában meghatározott piacfelügyeleti intézkedésén túl, kérelemre lepecsételi, ha
+23. § (1)[^33] A hatóság a rádióállomás rádióberendezését az Eht. 68. §-ában meghatározott piacfelügyeleti intézkedésén túl lepecsételheti, ha
 
 a) a rádióengedély érvényessége megszűnt, vagy
 
@@ -12,7 +12,7 @@ b) a rádióállomás üzemben tartását szüneteltetik.
 
 a) a lepecsételés helyét és idejét,
 
-b) a rádióállomás üzemben tartójának azonosítási adatait,
+b)[^34] a rádióállomás üzemben tartójának természetes személyazonosító és lakcím adatait, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a cég megnevezését, székhelyét és adószámát,
 
 c) a jogokra és kötelezettségekre való figyelmeztetést,
 
@@ -33,3 +33,6 @@ j) a lepecsételést végző köztisztviselő, illetőleg jegyzőkönyvvezető n
 (4) A lepecsételt berendezés őrzési helyét a hatóság határozza meg.
 
 (5) A pecsét kizárólag a hatóság által vagy a hatóság írásbeli hozzájárulásával távolítható el.
+
+[^33]: A 23. § (1) bekezdés nyitó szövegrésze a 6/2010. (III. 26.) MeHVM rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^34]: A 23. § (3) bekezdés b) pontja a 6/2010. (III. 26.) MeHVM rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.

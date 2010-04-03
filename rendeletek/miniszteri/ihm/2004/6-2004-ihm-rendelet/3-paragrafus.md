@@ -18,12 +18,13 @@ d) a 7. § (1) bekezdésben felsorolt rádióállomások, rádiórendszerek eset
 
 e) azon rádióállomások esetében, amelyeket bemutatók, rendezvények vagy sportesemények alkalmából, két hétnél rövidebb ideig terveznek üzemben tartani, és
 
-f) azon rádióállomások, rádiórendszerek esetében, amelyeket a frekvenciasávok felhasználási szabályainak megállapításáról szóló miniszteri rendelet alapján az egyedi engedélyezési kötelezettség alól mentesülnek.
+f)[^8] azon rádióállomások, rádiórendszerek esetében, amelyek a frekvenciasávok felhasználási szabályainak megállapításáról szóló jogszabály alapján az egyedi engedélyezési kötelezettség alól mentesülnek vagy az üzemben tartásuk egyszerűsített rádióengedély alapján történik.
 
-(3) A frekvenciakijelölés során figyelemmel kell lenni a rádiófrekvenciás spektrum hatékony és megfelelő használatára, a káros zavarás elkerülésére és külön jogszabályban[^7] meghatározott közegészségügyi szempontokra.
+(3) A frekvenciakijelölés során figyelemmel kell lenni a rádiófrekvenciás spektrum hatékony és megfelelő használatára, a káros zavarás elkerülésére és külön jogszabályban[^9] meghatározott közegészségügyi szempontokra.
 
 (4) A (3) bekezdésben foglalt követelmények betartása érdekében a hatóság a frekvenciahasználatot korlátozhatja (különösen a sugárzási jellemzők korlátozásával), vagy a frekvenciakijelölés iránti kérelmet elutasíthatja.
 
 (5) A hatóság a kérelmezőt a frekvenciakijelölésben blokkgazdálkodásra jogosíthatja fel, ha a frekvenciahasználati jogosultságot a kérelmező árverésen vagy pályázaton nyerte el, illetőleg ha azt kéri, és a blokkgazdálkodás a frekvenciasávok felhasználási szabályainak megállapításáról szóló miniszteri rendeletnek megfelel.
 
-[^7]: A vezeték nélküli távközlési építmény által kibocsátott elektromágneses sugárzás egészségügyi határértékeiről szóló 32/2000. (XI. 16.) EüM rendelet.
+[^8]: A 3. § (2) bekezdés f) pontja a 6/2010. (III. 26.) MeHVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^9]: A vezeték nélküli távközlési építmény által kibocsátott elektromágneses sugárzás egészségügyi határértékeiről szóló 32/2000. (XI. 16.) EüM rendelet.

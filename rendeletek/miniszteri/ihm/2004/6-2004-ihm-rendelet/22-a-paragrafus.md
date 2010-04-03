@@ -1,4 +1,4 @@
-22/A. §[^13] (1) A frekvenciahasználati jogosultság, illetve jog átruházásához a hatóság jóváhagyását az eredeti jogosult, illetve engedélyes és a frekvenciahasználati jogosultságot, jogot szerezni szándékozó vállalkozás együttesen köteles kérelmezni.
+22/A. §[^32] (1) A frekvenciahasználati jogosultság, illetve jog átruházásához a hatóság jóváhagyását az eredeti jogosult, illetve engedélyes és a frekvenciahasználati jogosultságot, jogot szerezni szándékozó vállalkozás együttesen köteles kérelmezni.
 
 (2) A hatóság az átruházáshoz a frekvenciasávok felhasználási szabályainak megállapításáról szóló miniszteri rendelet szerinti feltételek teljesítése esetén járulhat hozzá.
 
@@ -6,4 +6,4 @@
 
 (4) A hatóság a frekvenciahasználati jogosultság, illetve jog átruházását jóváhagyó határozatát köteles a Hírközlési Értesítőben, két országos napilapban, valamint elektronikus úton honlapján közzétenni a miniszter egyidejű tájékoztatása mellett.
 
-[^13]: A 22/A. §-t a 25/2004. (VIII. 19.) IHM rendelet 5. §-a iktatta be.
+[^32]: A 22/A. §-t a 25/2004. (VIII. 19.) IHM rendelet 5. §-a iktatta be.

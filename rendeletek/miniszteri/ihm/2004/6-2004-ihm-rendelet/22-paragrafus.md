@@ -10,6 +10,6 @@ a) jogszabály, különösen jogszabállyal kihirdetett nemzetközi kötelezetts
 
 b) a műsorszolgáltatási vagy más frekvenciahasználati jogosultság megszűnt.
 
-(3)[^12] A hatóság a pályázati, illetve árverési eljárás során szerzett frekvenciahasználati jogosultságot megállapító határozatot a frekvenciahasználati jogosultsággal rendelkező vállalkozás kérelmére köteles visszavonni az informatikai és hírközlési miniszter egyidejű tájékoztatása mellett.
+(3)[^31] A hatóság a pályázati, illetve árverési eljárás során szerzett frekvenciahasználati jogosultságot megállapító határozatot a frekvenciahasználati jogosultsággal rendelkező vállalkozás kérelmére köteles visszavonni az informatikai és hírközlési miniszter egyidejű tájékoztatása mellett.
 
-[^12]: A 22. § (3) bekezdését a 25/2004. (VIII. 19.) IHM rendelet 4. §-a iktatta be.
+[^31]: A 22. § (3) bekezdését a 25/2004. (VIII. 19.) IHM rendelet 4. §-a iktatta be.

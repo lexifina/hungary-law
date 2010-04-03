@@ -6,15 +6,15 @@
 
 a) a frekvenciakijelölés és rádióengedély kiadására, módosítására, visszavonására, érvényességi idejére,
 
-b)[^1] a frekvenciahasználati jogosultság visszavonásával, valamint a frekvenciahasználati jogosultság, illetve jog átruházásával kapcsolatos hatósági eljárásra,
+b)[^2] a frekvenciahasználati jogosultság visszavonásával, valamint a frekvenciahasználati jogosultság, illetve jog átruházásával kapcsolatos hatósági eljárásra,
 
-c)[^2] a rádióforgalmazás szabályaira,
+c)[^3] a rádióforgalmazás szabályaira,
 
-d)[^3] a rádióellenőrzésre, -megfigyelésre, -felderítésre, -zavarvizsgálatra és -zavarelhárításra, a nemzeti és nemzetközi rádió-mérő és -zavarelhárító szolgálati (a továbbiakban: mérőszolgálat) tevékenységre,
+d)[^4] a rádióellenőrzésre, -megfigyelésre, -felderítésre, -zavarvizsgálatra és -zavarelhárításra, a nemzeti és nemzetközi rádió-mérő és -zavarelhárító szolgálati (a továbbiakban: mérőszolgálat) tevékenységre,
 
-e)[^4] a hatósági adatszolgáltatás rendjére, és
+e)[^5] a hatósági adatszolgáltatás rendjére, és
 
-f)[^5] a hatósági nyilvántartásra.
+f)[^6] a hatósági nyilvántartásra.
 
 ## terjed ki.
 
@@ -32,8 +32,8 @@ c) nagyfrekvenciás jelet vagy mellékhatást keltő berendezést, villamos vagy
 
 (4) A rendelet hatálya alá tartozó hatósági feladatokat a Nemzeti Hírközlési Hatóság (a továbbiakban: hatóság) látja el.
 
-[^1]: Az 1. § új b) pontját a 25/2004. (VIII. 19.) IHM rendelet 3. §-a iktatta be, egyidejűleg az eredeti b)–e) pontok jelölését c)–f) pontra változtatva.
-[^2]: Az 1. § eredeti b) pontjának jelölését c) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
-[^3]: Az 1. § eredeti c) pontjának jelölését d) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
-[^4]: Az 1. § eredeti d) pontjának jelölését e) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
-[^5]: Az 1. § eredeti e) pontjának jelölését f) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
+[^2]: Az 1. § új b) pontját a 25/2004. (VIII. 19.) IHM rendelet 3. §-a iktatta be, egyidejűleg az eredeti b)–e) pontok jelölését c)–f) pontra változtatva.
+[^3]: Az 1. § eredeti b) pontjának jelölését c) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
+[^4]: Az 1. § eredeti c) pontjának jelölését d) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
+[^5]: Az 1. § eredeti d) pontjának jelölését e) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.
+[^6]: Az 1. § eredeti e) pontjának jelölését f) pontra változtatta a 25/2004. (VIII. 19.) IHM rendelet 3. §-a.

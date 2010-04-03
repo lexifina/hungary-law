@@ -2,9 +2,9 @@
 
 (2) A kérelemnek tartalmaznia kell:
 
-a) a kérelmező azonosítási adatait,
+a)[^20] a kérelmező természetes személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát és adóazonosító jelét, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a cégadatait,
 
-b) a frekvenciadíj fizetőjének azonosítási adatait és bankszámlaszámát,
+b)[^21] a frekvenciadíj fizetőjének természetes személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét és bankszámlaszámát, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a cégadatait,
 
 c) a felhasználni kívánt frekvenciát, csatornát vagy frekvenciasávot,
 
@@ -18,7 +18,7 @@ g) a mérési jegyzőkönyvet, ha azt a frekvenciakijelölésben előírták,
 
 h) amennyiben a rádióengedélyt elektronikus hírközlési szolgáltatás nyújtásához kérik, úgy a szolgáltatás nyilvántartásba vételi számát, vagy a koncessziós szerződésre történő hivatkozást,
 
-i) engedélyköteles rejtjelező eszköz használata esetén az Országos Rejtjelfelügyelet engedélyének azonosító számát,
+i)[^22] engedélyköteles rejtjelező eszköz használata esetén a rejtjel-felügyeleti jogkörben eljáró hatóság engedélyének azonosító számát,
 
 j) az üzemben tartás legalább egy és legfeljebb kilenc naptári hónapon át tartó szüneteltetése iránti igényt, valamint
 
@@ -34,10 +34,15 @@ k) a frekvenciakijelölésben a rádióengedély megszerzésének feltételekén
 
 (7) A keretengedély iránti igényt a kérelemben fel kell tüntetni. Ilyen esetben a kérelemnek nem kell tartalmaznia a (2) bekezdés d)–g) pontjaiban felsoroltakat.
 
-(8) A földi mozgószolgálat vagy a földfelszíni műsorszóró szolgálat 400 W ERP-t bármely irányban meghaladó teljesítményű rádióállomása rádióengedély iránti kérelméhez csatolni kell a ,,Fodor József'' Országos Közegészségügyi Központ Országos ,,Frédéric Joliot-Curie'' Sugárbiológiai és Sugáregészségügyi Kutató Intézetének a sugár-egészségügyi követelményekre vonatkozó, mérések alapján kiadott szakvéleményét, amennyiben a rádióállomás telepítése – külön jogszabály szerint – beépítésre szánt lakó-, vegyes, kereskedelmi, szolgáltató, valamint üdülőterületen történt, kivéve, ha
+(8)[^23] A földi mozgószolgálat vagy a földfelszíni műsorszóró szolgálat 5 kW ERP-t bármely irányban meghaladó teljesítményű rádióállomása rádióengedély iránti kérelméhez csatolni kell az Országos „Frederic Joliot Curie” Sugárbiológiai és Sugáregészségügyi Kutató Intézetnek (OSSKI) a sugáregészségügyi követelményekre vonatkozó, mérések alapján kiadott szakvéleményét, amennyiben a rádióállomás telepítése – külön jogszabály szerint – beépítésre szánt lakó-, vegyes, kereskedelmi, szolgáltató, valamint üdülőterületen történt, kivéve, ha
 
-a) a rádióállomás üzemben tartási ideje nem haladja meg a 60 napot,
+a) a rádióállomás üzemben tartási ideje évente nem haladja meg a 60 napot,
 
 b) a kérelmező igazolni tudja, hogy a szakvélemény nem került 30 napon belül kiadásra, vagy
 
 c) a rádióengedély módosítása, hosszabbítása iránti kérelem nem vonatkozik a sugárzási jellemzők megváltoztatására.
+
+[^20]: A 13. § (2) bekezdés a) pontja a 6/2010. (III. 26.) MeHVM rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^21]: A 13. § (2) bekezdés b) pontja a 6/2010. (III. 26.) MeHVM rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^22]: A 13. § (2) bekezdés i) pontja a 6/2010. (III. 26.) MeHVM rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^23]: A 13. § (8) bekezdése a 6/2010. (III. 26.) MeHVM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a 2010. április 3. napját követően indult hatósági eljárásokban kell alkalmazni.
