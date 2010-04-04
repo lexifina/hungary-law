@@ -1,5 +1,0 @@
-## 5. § Az R. 8. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(4) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB tv.) 5. § (1) bekezdés a) pontja, továbbá a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Eximbank tv.) 6. § (1) bekezdés a) pontja szerint vállalt állami kezesség esetében az adatszolgáltatási kötelezettséget a jogosult helyett külön megállapodás nélkül az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB) és a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság teljesíti.
-
-## (5) Legkésőbb az első adatszolgáltatási kötelezettség határidejét megelőző 20 naptári napon belül a Magyar Államkincstártól kérni kell az adatszolgáltatóként történő nyilvántartásba vételt. A Magyar Államkincstár 5 munkanapon belül elektronikus úton megküldi az adatszolgáltatás teljesítéséhez szükséges azonosítót és az adatszolgáltatás módjáról szóló részletes tájékoztatást.”
