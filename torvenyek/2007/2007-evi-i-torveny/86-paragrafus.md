@@ -38,4 +38,10 @@ d) a központi idegenrendészeti nyilvántartás adatfeldolgozó szervét.
 
 (5) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben a diplomáciai vagy egyéb mentességet élvező személyek beutazásának és tartózkodásának egyes szabályait rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében – más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
+
+a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+
+b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+
+(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
