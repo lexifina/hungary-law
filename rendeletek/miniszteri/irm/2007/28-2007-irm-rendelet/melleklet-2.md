@@ -1,16 +1,16 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^12]
 
 Az egyes eljárások díja
 
 |  | I. Vízumdíjak |  |
 
-| 1. | Repülőtéri tranzitvízum, átutazóvízum vagy rövid időtartamú tartózkodásra jogosító vízum kiadására irányuló eljárás díja | 60 EUR |
+| 1. |  |  |
 
-| 2. | Átutazóvízum vagy rövid időtartamú tartózkodásra jogosító vízum meghosszabbítására irányuló eljárás díja | 5 000 Ft |
+| 2. |  |  |
 
 | 3. | Szezonális munkavállalási vízum kiadására irányuló eljárás díja | 40 EUR |
 
-| 4. | Magyar állampolgár harmadik ország állampolgárságával rendelkező, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény hatálya alá tartozó családtagja beutazásra jogosító vízumának kiadására irányuló eljárás díja | 60 EUR |
+| 4. |  |  |
 
 |  | II. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak |  |
 
@@ -107,3 +107,5 @@ Az egyes eljárások díja
 | 1. | Meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 4 000 Ft |
 
 | 2. | Fellebbezési kérelem díja | 5 500 Ft |
+
+[^12]: A 2. melléklet a 12/2010. (IV. 2.) IRM rendelet 3. § (1) bekezdése szerint módosított szöveg.
