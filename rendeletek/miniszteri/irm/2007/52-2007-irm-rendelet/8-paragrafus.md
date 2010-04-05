@@ -10,7 +10,9 @@ c) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megad
 
 a) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról;
 
-b) a Tanács 343/2003/EK (2003. február 18.) rendelete az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról.
+b) a Tanács 343/2003/EK (2003. február 18.) rendelete az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról;
+
+c)[^4] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet).
 
 Melléklet az 52/2007. (XII. 11.) IRM rendelethez
 
@@ -51,3 +53,5 @@ A befogadó állomás házirendje
 17. A befogadó állomáson elhelyezett menekült, oltalmazott, valamint menedékes a befogadó állomás végleges elhagyásának szándékát köteles a menekültügyi hatóság ügyintézőjének, valamint a befogadó állomás igazgatójának bejelenteni. A véglegesen távozó külföldi a részére átadott leltári tárgyakkal a befogadó állomás elhagyásakor elszámolni köteles.
 
 18. A befogadó állomáson elhelyezett, valamint a látogató az általa a befogadó állomásnak okozott kárt köteles megtéríteni.
+
+[^4]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
