@@ -2,20 +2,20 @@
 
 ## A harmadik országbeli állampolgárok ellenőrzése
 
-146. § (1)[^115] A Tv. 67. § (4) bekezdésének alkalmazása során a rendőr azt a harmadik országbeli állampolgárt,
+146. § (1)[^108] A Tv. 67. § (4) bekezdésének alkalmazása során a rendőr azt a harmadik országbeli állampolgárt,
 
 a) aki az ellenőrzés során magát lejárt vagy érvénytelen tartózkodásra jogosító engedéllyel igazolta, vagy az ellenőrzés során magyarországi tartózkodásának jogszerűségét nem tudta igazolni,
 
-aa)[^116] ha vele szemben a 114. § (2) bekezdése alapján a Határőrség rendelhet el idegenrendészeti kiutasítást, a Rendőrség ellenőrzés helye szerint illetékes helyi szervéhez,
+aa)[^109] ha vele szemben a 114. § (2) bekezdése alapján a Határőrség rendelhet el idegenrendészeti kiutasítást, a Rendőrség ellenőrzés helye szerint illetékes helyi szervéhez,
 
 ab) egyéb esetben az ellenőrzés helye szerint illetékes regionális igazgatósághoz,
 
-b)[^117] aki a személyazonosságát nem tudta igazolni, a Rendőrség ellenőrzés helye szerint illetékes helyi szervéhez
+b)[^110] aki a személyazonosságát nem tudta igazolni, a Rendőrség ellenőrzés helye szerint illetékes helyi szervéhez
 
 ## – ha a harmadik országbeli állampolgárral szemben büntetőeljárás lefolytatásának nincs helye – előállítja, illetve visszatartás intézkedést alkalmazhat.
 
 (2) Az előállítás időtartamát az intézkedés kezdetétől kell számítani. Az előállítás a személyi szabadságot csak a szükséges ideig, de legfeljebb nyolc órán át korlátozhatja. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot az előállító szerv vezetője egy alkalommal négy órával meghosszabbíthatja. A visszatartás időtartama az előállítás időtartamának lejártakor kezdődik, és nem haladhatja meg a tizenkét órát.
 
-[^115]: A 146. § (1) bekezdésének felvezető szövege a 327/2007. (XII. 11.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^116]: A 146. § (1) bekezdése a) pontjának aa) alpontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^117]: A 146. § (1) bekezdésének b) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^108]: A 146. § (1) bekezdésének felvezető szövege a 327/2007. (XII. 11.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^109]: A 146. § (1) bekezdése a) pontjának aa) alpontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^110]: A 146. § (1) bekezdésének b) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

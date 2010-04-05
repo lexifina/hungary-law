@@ -1,4 +1,4 @@
-## 125. §[^102] A Tv. 53. § (1) bekezdése alapján az arcképmás és ujjnyomat adatokat a regionális igazgatóság, illetve a Rendőrség rögzíti.
+## 125. §[^95] A Tv. 53. § (1) bekezdése alapján az arcképmás és ujjnyomat adatokat a regionális igazgatóság, illetve a Rendőrség rögzíti.
 
 ## Az őrizet
 
@@ -6,7 +6,7 @@
 
 (2) Kiutasítást előkészítő őrizetet
 
-a)[^103] ha a harmadik országbeli állampolgár személyazonossága tisztázatlan, a Rendőrség,
+a)[^96] ha a harmadik országbeli állampolgár személyazonossága tisztázatlan, a Rendőrség,
 
 b) ha a harmadik országbeli állampolgár tartózkodásának jogszerűsége tisztázatlan, a regionális igazgatóság
 
@@ -24,5 +24,5 @@ a) kiutazásának feltételei nem biztosíthatóak;
 
 b) egészségi állapota miatt huzamos kórházi kezelést igényel.
 
-[^102]: A 125. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^103]: A 126. § (2) bekezdésének a) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^95]: A 125. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^96]: A 126. § (2) bekezdésének a) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

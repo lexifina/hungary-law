@@ -8,7 +8,7 @@ b) alkalmi munkavállalói könyvvel;
 
 c) a gazdasági tevékenységre vonatkozó üzleti tervvel;
 
-d)[^70] egyéni vállalkozói igazolvánnyal, ennek hiányában az egyéni vállalkozói nyilvántartási számmal;
+d)[^62] egyéni vállalkozói igazolvánnyal, ennek hiányában az egyéni vállalkozói nyilvántartási számmal;
 
 e) mezőgazdasági őstermelői igazolvánnyal;
 
@@ -22,4 +22,4 @@ a) a gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési cé
 
 b) a kérelmező harmadik országbeli állampolgár tartózkodása a Magyar Köztársaság területén a gazdasági társaság működése szempontjából elengedhetetlen, és a kérelemhez csatolt üzleti terv alapján valószínűsíthető, hogy a gazdasági társaság a kérelmező megélhetését is biztosító bevételt fog elérni.
 
-[^70]: Az 59. § (1) bekezdés d) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^62]: Az 59. § (1) bekezdés d) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

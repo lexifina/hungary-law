@@ -10,7 +10,7 @@ c) a harmadik országbeli állampolgár eltartására kötelezhető hozzátartoz
 
 d) a karitatív szervezetek által rendelkezésre bocsátott szálláshelyet,
 
-e)[^105] heveny egészségkárosodás elhárítása időtartamára – az egészségügyi államigazgatási szerv véleményének kikérésével – az indokolt gyógykezelés végzése céljából fekvőbeteg-ellátást nyújtó egészségügyi intézményt, valamint
+e)[^98] heveny egészségkárosodás elhárítása időtartamára – az egészségügyi államigazgatási szerv véleményének kikérésével – az indokolt gyógykezelés végzése céljából fekvőbeteg-ellátást nyújtó egészségügyi intézményt, valamint
 
 f) az igénybevétel egyéb jogszabályi feltételeinek megfelelő harmadik országbeli állampolgár esetén személyes gondoskodást nyújtó szociális intézményt
 
@@ -32,4 +32,4 @@ b) kiskorú harmadik országbeli állampolgár és a felügyeletét gyakorló sz
 
 (6) Ha a harmadik országbeli állampolgár kiskorú, az ő, valamint a felügyeletét gyakorló szülőnek a Tv. 63. § (2) bekezdése szerinti kérelmét minden esetben megalapozottnak kell tekinteni.
 
-[^105]: A 130. § (1) bekezdés e) pontja a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^98]: A 130. § (1) bekezdés e) pontja a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

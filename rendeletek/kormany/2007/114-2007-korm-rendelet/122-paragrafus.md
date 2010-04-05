@@ -1,4 +1,4 @@
-## 121. §[^98] A jogerős és végrehajtható határozattal kiutasított harmadik országbeli állampolgár kiléptetéséről a Rendőrség – a Tv. 102. § (1) bekezdés a) pontja szerinti adatok, továbbá a kiléptetés időpontjának és helyének közlésével – haladéktalanul értesíti a központi adatkezelő szervet.
+## 121. §[^91] A jogerős és végrehajtható határozattal kiutasított harmadik országbeli állampolgár kiléptetéséről a Rendőrség – a Tv. 102. § (1) bekezdés a) pontja szerinti adatok, továbbá a kiléptetés időpontjának és helyének közlésével – haladéktalanul értesíti a központi adatkezelő szervet.
 
 ## A bíróság által elrendelt kiutasítás végrehajtása
 
@@ -14,4 +14,4 @@ a) a beutazási és tartózkodási tilalom nyilvántartásba vétele,
 
 b) a harmadik országbeli állampolgár tartózkodásra jogosító engedélyének visszavonása
 
-[^98]: A 121. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^91]: A 121. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

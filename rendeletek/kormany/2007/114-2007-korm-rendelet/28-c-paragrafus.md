@@ -1,4 +1,4 @@
-28/C. §[^40] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
+28/C. §[^31] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
 
 a) a kishatárforgalmi engedély kiadási feltételeit nem teljesíti;
 
@@ -20,4 +20,4 @@ c) hamis adatot tartalmaz, vagy meghamisították;
 
 d) jogosultja meghalt.
 
-[^40]: A 28/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^31]: A 28/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.

@@ -30,11 +30,11 @@ f) más hitelt érdemlő módon.
 
 (6) A három hónapot meghaladó tartózkodásra jogosító vízum, valamint a tartózkodási engedély kiadására irányuló eljárásban a megélhetés különösen az alábbiakkal igazolható:
 
-a)[^41] magyar fizetőeszközzel vagy magyarországi hitelintézetnél átváltható külföldi fizetőeszközzel;
+a)[^32] magyar fizetőeszközzel vagy magyarországi hitelintézetnél átváltható külföldi fizetőeszközzel;
 
-b)[^42] a harmadik országbeli állampolgárt magyarországi pénzforgalmi szolgáltatónál készpénz felvételére jogosító okirattal (fizetési számlaszerződés, betétkönyv stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
+b)[^33] a harmadik országbeli állampolgárt magyarországi pénzforgalmi szolgáltatónál készpénz felvételére jogosító okirattal (fizetési számlaszerződés, betétkönyv stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
 
-c)[^43] magyarországi kereskedelmi forgalomban elfogadott készpénz-helyettesítő fizetőeszközzel (csekk, hitelkártya stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
+c)[^34] magyarországi kereskedelmi forgalomban elfogadott készpénz-helyettesítő fizetőeszközzel (csekk, hitelkártya stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
 
 d) hatósági hozzájárulással ellátott érvényes meghívólevéllel;
 
@@ -66,6 +66,6 @@ c) nemzetközi szerződés vagy megállapodás alapján jogosult a magyar biztos
 
 d) a megélhetését igazoló okiratok alapján egészségügyi ellátása költségeit biztosítani képes.
 
-[^41]: A 29. § (6) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^42]: A 29. § (6) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^43]: A 29. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^32]: A 29. § (6) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^33]: A 29. § (6) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^34]: A 29. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.

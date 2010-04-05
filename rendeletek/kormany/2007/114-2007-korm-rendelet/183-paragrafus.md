@@ -36,45 +36,25 @@ e) a vízumok, köztük az átutazó tengerészek számára kibocsátandó vízu
 
 f) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i, 562/2006/EK európai parlamenti és tanácsi rendelet,
 
-g)[^140] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet
+g)[^136] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet,
+
+h)[^137] a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet;
+
+i)[^138] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-I. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^139]
 
-Repülőtéri tranzitvízum beszerzésének kötelezettsége alá eső országok
+II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^140]
 
-Fülöp-szigetek
+Vízum
 
-Guinea
+1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendeletben, a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2002. február 18-i 334/2002/EK tanácsi rendeletben, és a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2008. július 24-i 856/2008/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
 
-Kamerun
+Kishatárforgalmi engedély okmány
 
-Libanon
-
-Libéria
-
-Ruanda
-
-Sierra Leone
-
-Szenegál
-
-Szíria
-
-Szudán
-
-II. melléklet a 114/2007. (V. 24.) Korm. rendelethez
-
-Vízumokmányok
-
-1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i, 1683/95/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
-
-2. Vízum beillesztésére szolgáló külön lap: az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i, 333/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
-
-Kishatárforgalmi engedély okmány[^141]
-
-3.[^142] Kishatárforgalmi engedély: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú okmány.
+2. Kishatárforgalmi engedély: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben meghatározott formájú okmány.
 
 Az okmány formátuma: matrica.
 
@@ -348,6 +328,8 @@ Az okmány adattartalma:
 
 8. kiállító szerv
 
-[^140]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
-[^141]: A II. melléklet 3. pontjának alcímét a 327/2007. (XII. 11.) Korm. rendelet 7. §-a iktatta be.
-[^142]: A II. melléklet 3. pontját a 327/2007. (XII. 11.) Korm. rendelet 7. §-a iktatta be.
+[^136]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
+[^137]: A 183. § (2) bekezdés h) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
+[^138]: A 183. § (2) bekezdés i) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
+[^139]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^140]: A II. melléklet a 96/2010. (III. 31.) Korm. rendelet 23. §-ával megállapított szöveg.

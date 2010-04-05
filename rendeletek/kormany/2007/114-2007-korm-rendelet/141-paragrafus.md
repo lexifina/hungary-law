@@ -4,7 +4,7 @@
 
 (2) A Hivatal a kérelmező állam külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmének kézhezvételét követően hozzájárulásáról haladéktalanul, de legkésőbb két napon belül tájékoztatja a kérelmező állam kijelölt hatóságát. E határidő kellően indokolt esetben – a kérelmező állam kijelölt hatóságának egyidejű értesítésével – legfeljebb 48 órával meghosszabbítható.
 
-(3)[^109] A légi átszállításhoz történő hozzájárulás megadásáról a Hivatal – a külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmet mellékelve – haladéktalanul értesíti a Rendőrséget.
+(3)[^102] A légi átszállításhoz történő hozzájárulás megadásáról a Hivatal – a külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmet mellékelve – haladéktalanul értesíti a Rendőrséget.
 
 (4) A Magyar Köztársaság területén történő légi átszállításhoz történő hozzájárulását a Hivatal megtagadja, illetve visszavonja, amennyiben az érintett harmadik országbeli állampolgár vonatkozásában a Tv. 51. §-ban meghatározott visszaküldési tilalom áll fenn.
 
@@ -22,7 +22,7 @@ e) a harmadik országbeli állampolgár átszállítása veszélyezteti a Magyar
 
 (6) A légi átszállításhoz való hozzájárulás visszavonásáról – a visszavonás okának megjelölésével –, illetve az átszállítást lehetetlenné tevő egyéb okokról a kérelmező állam kijelölt hatóságát haladéktalanul tájékoztatni kell.
 
-(7)[^110] A légi átszállításhoz történő hozzájárulás esetén a Rendőrség a légi átszállításhoz külön jogszabályban meghatározott segítséget nyújt.
+(7)[^103] A légi átszállításhoz történő hozzájárulás esetén a Rendőrség a légi átszállításhoz külön jogszabályban meghatározott segítséget nyújt.
 
-[^109]: A 141. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^110]: A 141. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^102]: A 141. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^103]: A 141. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

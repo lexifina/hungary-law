@@ -1,5 +1,9 @@
-24. § (1)[^32] A központi vízumhatóság a Tv. 9. § (6) bekezdésében meghatározott hozzájárulás megadása, valamint a Tv. 111. § (6) bekezdése alapján kiadott miniszteri rendelet szerinti egyeztetés során történő válaszadás előtt köteles a vízumkérelemről a Nemzetbiztonsági Hivatal véleményét kérni.
+## 23. §[^22]
 
-(2) A Nemzetbiztonsági Hivatal köteles a központi vízumhatóság megkeresésében foglaltaknak hét napon belül eleget tenni.
+24. § (1)[^23] A központi vízumhatóság a Tv. 9. § (1) bekezdésében meghatározott hozzájárulás megadása, valamint a Tv. 111. § (6) bekezdés b) pontja szerinti egyeztetés során történő válaszadás előtt köteles a vízumkérelemről a Nemzetbiztonsági Hivatal véleményét kérni.
 
-[^32]: A 24. § (1) bekezdésében a „ , valamint a Tv. 111. § (6) bekezdése alapján kiadott miniszteri rendelet szerinti egyeztetés során történő válaszadás” szövegrész e rendelet 182. § (2) bekezdésének l) pontja alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lépett hatályba. A 2007/801/EK tanácsi határozat 1. cikk (1) bekezdése alapján a schengeni vívmányokat 2007. december 21-től, a légi határokra vonatkozóan 2008. március 30-tól kell alkalmazni.
+(2)[^24] A Nemzetbiztonsági Hivatal köteles a központi vízumhatóság megkeresésében foglaltaknak hat napon belül eleget tenni.
+
+[^22]: A 23. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^23]: A 24. § (1) bekezdése a 96/2010. (III. 31.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^24]: A 24. § (2) bekezdése a 96/2010. (III. 31.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.

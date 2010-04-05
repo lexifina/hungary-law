@@ -10,9 +10,9 @@
 
 (6) Ha a harmadik országbeli állampolgár a vízum kiadására irányuló eljárásban igazolja a pénzbírság, illetve a helyszíni bírság utólag történő megfizetését, a konzuli tisztviselő – a beutazási és tartózkodási tilalom törlése érdekében – a befizetés tényéről a befizető természetes személyazonosító adatainak, állampolgárságának, úti okmánya számának, a határozat vagy a helyszíni bírság ügyszámának, a befizetésre került bírság összegének és az ügyben eljárt hatóság vagy szerv megnevezésének közlésével haladéktalanul tájékoztatja a beutazási és tartózkodási tilalmat elrendelő regionális igazgatóságot.
 
-(7)[^93] Amennyiben a Rendőrség a határátkelőhelyen történő személyellenőrzés során megállapítja, hogy a harmadik országbeli állampolgárral szemben kizárólag a pénzbírság, illetőleg helyszíni bírság meg nem fizetése miatt rendeltek el beutazási és tartózkodási tilalmat, köteles a harmadik országbeli állampolgárt tájékoztatni arról, hogy a tartozását utólag, készpénzben is megfizetheti.
+(7)[^85] Amennyiben a Rendőrség a határátkelőhelyen történő személyellenőrzés során megállapítja, hogy a harmadik országbeli állampolgárral szemben kizárólag a pénzbírság, illetőleg helyszíni bírság meg nem fizetése miatt rendeltek el beutazási és tartózkodási tilalmat, köteles a harmadik országbeli állampolgárt tájékoztatni arról, hogy a tartozását utólag, készpénzben is megfizetheti.
 
-(8)[^94] Ha a harmadik országbeli állampolgár utólag, készpénzben teljesíti fizetési kötelezettségét, vagy rendelkezik a befizetés átutalását igazoló bizonylattal, a Rendőrség a beutazási és tartózkodási tilalom törlését követően engedélyezi beléptetését.
+(8)[^86] Ha a harmadik országbeli állampolgár utólag, készpénzben teljesíti fizetési kötelezettségét, vagy rendelkezik a befizetés átutalását igazoló bizonylattal, a Rendőrség a beutazási és tartózkodási tilalom törlését követően engedélyezi beléptetését.
 
-[^93]: A 115. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^94]: A 115. § (8) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a, a 314/2009. (XII. 28.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^85]: A 115. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^86]: A 115. § (8) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a, a 314/2009. (XII. 28.) Korm. rendelet 67. §-a szerint módosított szöveg.
