@@ -1,4 +1,4 @@
-2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^2]
+2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^3]
 
 ## A Magyar Köztársaság által elismert egyéb okmányok listája
 
@@ -108,4 +108,4 @@ b) úti okmány palesztin menekültek részére
 
 25. Tunézia – különleges útlevél
 
-[^2]: A 2. melléklet a 25/2010. (II. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. melléklet a 25/2010. (II. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
