@@ -1,4 +1,4 @@
-18/C. §[^17] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
+18/C. §[^20] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
 
 a) a kishatárforgalmi engedély kiadási feltételeit nem teljesíti;
 
@@ -16,4 +16,4 @@ c) hamis adatot tartalmaz, vagy meghamisították;
 
 d) jogosultja meghalt.
 
-[^17]: A 18/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 18/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.

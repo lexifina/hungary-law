@@ -1,5 +1,10 @@
-16. § (1) Az a vízumkiadó hatóság, amely eljárása során a vízum érvénytelenségére okot adó körülményről tudomást szerez, a vízumot visszavonja, és a 15. § a) pontjában meghatározott esetben gondoskodik a vízum pótlásáról.
+## 15. §[^12]
 
-(2)[^11] A más schengeni állam által kiadott vízum visszavonásáról haladéktalanul értesíteni kell a vízumot kiadó schengeni államot.
+16. §[^13] (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a Magyar Köztársaság területére történő beutazást megelőzően az a vízumkiadó hatóság dönt, amely eljárása során a vízum megsemmisítésére vagy visszavonására okot adó körülményről tudomást szerez.
 
-[^11]: A 16. § (2) bekezdése e rendelet 79. § (2) bekezdésének a) pontja alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lépett hatályba. A hatálybalépés időpontja a 2007. december 6. napján kelt 2007/801/EK tanácsi határozat 1. cikke alapján 2007. december 21.
+(2) Az 562/2006/EK európai parlamenti és tanácsi rendeletnek a Vízumkódex 55. cikkével módosított V. melléklet A. részében foglaltak alapján a három hónapot meg nem haladó tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a Rendőrség dönt.
+
+(3) A Magyar Köztársaság területén tartózkodó harmadik ország állampolgárságával rendelkező családtag három hónapot meg nem haladó tartózkodásra jogosító vízumának megsemmisítéséről vagy visszavonásáról a harmadik ország állampolgárságával rendelkező családtag lakóhelye, ennek hiányában szokásos tartózkodási helye szerint illetékes regionális igazgatóság dönt.
+
+[^12]: A 15. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^13]: A 16. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 42. § (1) A regionális igazgatóság az úti okmányának, személyazonosító igazolványának, illetve tartózkodási jogát igazoló okmányának eltulajdonítását, megsemmisülését, illetőleg elvesztését bejelentő EGT-állampolgárnak vagy családtagnak – az állampolgárság valószínűsítése esetén – díjmentesen igazolást állít ki a bejelentés tényéről.
 
-(2)[^26] Ha az EGT-állampolgár vagy családtag az úti okmányának, illetve személyazonosító igazolványának eltűnése miatt a rendőrségnél feljelentést tesz, a rendőrség az úti okmány, illetve személyazonosító igazolvány eltűnésének tényéről haladéktalanul értesíti a regionális igazgatóságot.
+(2)[^30] Ha az EGT-állampolgár vagy családtag az úti okmányának, illetve személyazonosító igazolványának eltűnése miatt a rendőrségnél feljelentést tesz, a rendőrség az úti okmány, illetve személyazonosító igazolvány eltűnésének tényéről haladéktalanul értesíti a regionális igazgatóságot.
 
 (3) Ha az elveszettnek, megsemmisültnek hitt okmányt tulajdonosa megtalálja, és részére új úti okmányt vagy tartózkodási jogot igazoló okmányt még nem adtak ki, a tartózkodási jogot ideiglenes igazoló igazolást a kiállító hatóságnak le kell adnia.
 
@@ -14,4 +14,4 @@
 
 (7) Ha a Tv.-ben meghatározott eljárások során kiadható, kitöltetlen tartózkodási jogot igazoló okmány holléte ismeretlen, a Hivatal az okmány körözését rendeli el.
 
-[^26]: A 42. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 544. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 42. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 544. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

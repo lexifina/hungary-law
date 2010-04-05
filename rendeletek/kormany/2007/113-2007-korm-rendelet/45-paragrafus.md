@@ -8,10 +8,10 @@
 
 (4) A visszaküldési tilalom vizsgálata az EGT-állampolgárral, illetve a családtaggal szemben elrendelt kitoloncolási őrizet végrehajtását, illetve a kijelölt helyen való tartózkodás kötelezettségét nem érinti.
 
-(5)[^27] Az eljáró hatóság az idegenrendészeti eljárást, illetve a határozat végrehajtását felfüggeszti, és a regionális igazgatóságnál kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
+(5)[^31] Az eljáró hatóság az idegenrendészeti eljárást, illetve a határozat végrehajtását felfüggeszti, és a regionális igazgatóságnál kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
 
 (6) A Tv. 34. § (1) bekezdése szerinti tilalom fennállását nem alapozhatja meg az a körülmény, hogy az EGT-állampolgár vagy a családtag részére a származási államának külképviselete nem állítja ki a hazatérésre szolgáló úti okmányt.
 
 (7) A regionális igazgatóság a visszaküldés akadályának fennállását folyamatosan, de a központi idegenrendészeti nyilvántartó szerv megkeresése alapján legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság az EGT-állampolgárral vagy a családtaggal szemben a felfüggesztett idegenrendészeti eljárást lefolytatja.
 
-[^27]: A 45. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 544. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: A 45. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 544. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

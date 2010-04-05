@@ -1,5 +1,3 @@
-## 78. § A regionális igazgatóság a Tv. 80. § (1) bekezdésében meghatározott adatokat a központi adatkezelő szerv részére továbbítja.
-
 ## Hatálybalépés
 
 79. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2007. július 1-jén lép hatályba.
@@ -12,6 +10,6 @@ b) 17. és 18. §-a
 
 ## a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
 
-(3)–(4)[^48]
+(3)–(4)[^54]
 
-[^48]: A 79. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 94. pontja hatályon kívül helyezte.
+[^54]: A 79. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 94. pontja hatályon kívül helyezte.

@@ -1,11 +1,17 @@
-17. §[^12] (1) A központi vízumhatóság Tv.-ben meghatározott feladatát a Hivatal látja el.
+17. §[^14] (1) A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Hivatal látja el.
 
-(2) A Hivatal megkeresi az egyeztetést kérő schengeni államok központi hatóságait, nyilatkozzanak arra nézve, hogy a vízum kiadásához hozzájárulnak-e.
+(2) Ha – a Tv. 3. § (6) bekezdése alapján – a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához a központi vízumhatóság hozzájárulása szükséges, a konzuli tisztviselő köteles a vízumkérelmet a benyújtást követően haladéktalanul felterjeszteni a központi vízumhatósághoz.
 
-(3) Ha a megkeresett központi hatóságok bármelyike részéről nemleges válasz érkezik, a Hivatal legfeljebb korlátozott területi érvényességű vízum kiadásához járulhat hozzá.
+(3) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulásáról vagy a hozzájárulás megtagadásáról
 
-(4) Ha a megkeresett központi hatóságtól a megkeresés részére történt továbbításától számított hét napon vagy a meghosszabbított határidőn belül nem érkezik válasz, a hozzájárulást megadottnak kell tekinteni.
+a) ha a Tv. 3. § (7) bekezdése szerinti egyeztetésre nincs szükség, vagy attól a központi vízumhatóság eltekint, vagy a Vízumkódex 8. cikke szerinti képviseleti megállapodás szerint az egyeztetést a képviselő tagállam végzi, a vízumkérelem felterjesztésétől számított hét napon belül,
 
-(5) A megkeresett központi hatóság a válaszadás határidejét meghosszabbíthatja. A Hivatal erről tájékoztatja a konzuli tisztviselőt vagy a vízum iránti kérelem tekintetében eljáró más szervet.
+b) a Tv. 3. § (7) bekezdése szerinti egyeztetés esetén, valamennyi válasz beérkezését vagy a válaszok beérkezésére nyitva álló határidő lejártát követően haladéktalanul
 
-[^12]: A 17. § e rendelet 79. § (2) bekezdésének b) pontja alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lépett hatályba. A hatálybalépés időpontja a 2007. december 6. napján kelt 2007/801/EK tanácsi határozat 1. cikke alapján 2007. december 21.
+tájékoztatja a konzuli tisztviselőt.
+
+(4) Ha a központi vízumhatóság a vízumkérelem felterjesztését követően megállapítja, hogy a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet el kell utasítani, akkor a Tv. 3. § (7) bekezdése szerinti egyeztetéstől eltekint.
+
+(5) Ha a központi vízumhatóság úgy ítéli meg, hogy a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítására okot adó körülmény nem áll fenn, a vízumkérelem felterjesztését követően megkeresi az egyeztetést kérő schengeni államok központi hatóságait, nyilatkozzanak arra nézve, hogy a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához hozzájárulnak-e.
+
+[^14]: A 17. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
