@@ -2,6 +2,6 @@
 
 ## A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROKRA VONATKOZÓ SZABÁLYOK
 
-13. § (1) A vízumokmányt a „Vízumokra vonatkozó közös konzuli utasítás a diplomáciai és konzuli képviseletek számára” 13. mellékletének megfelelően kell kitölteni.
+13. §[^1]
 
-(2) Ha a vízum külön lapon történő kiadására a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet (a továbbiakban: Harmtv. vhr.) 18. § (2) bekezdés vagy 27. § (2) bekezdés második fordulata alapján kerül sor, a külön lapot bélyegzőlenyomattal kell ellátni.
+[^1]: A 13–14. §-t a 12/2010. (IV. 2.) IRM rendelet 3. § (2) bekezdése hatályon kívül helyezte.

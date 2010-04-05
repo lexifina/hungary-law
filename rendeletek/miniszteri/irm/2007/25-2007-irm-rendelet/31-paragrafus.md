@@ -4,6 +4,6 @@
 
 (2) Ez a rendelet a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^10] Ez a rendelet a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3)[^12] Ez a rendelet a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^10]: A 31. § (3) bekezdését az 51/2007. (XII. 11.) IRM rendelet 2. §-a iktatta be.
+[^12]: A 31. § (3) bekezdését az 51/2007. (XII. 11.) IRM rendelet 2. §-a iktatta be.

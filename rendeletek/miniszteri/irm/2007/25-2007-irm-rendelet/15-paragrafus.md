@@ -1,1 +1,0 @@
-## 14. § Az érvénytelen vízumokmányt a vízumot visszavonó, az okmány cseréjét vagy pótlását végző vízumkiadó hatóság „ÉRVÉNYTELEN” szövegű, nedves bélyegzőlenyomat elhelyezésével érvényteleníti, és gondoskodik az érvénytelenség tényének, okának és időpontjának a központi idegenrendészeti nyilvántartásba történő bejegyzéséről.
