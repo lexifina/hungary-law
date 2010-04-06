@@ -1,0 +1,3 @@
+1. § (1) A Magyar Népköztársaság Belügyminisztériuma által keletkeztetett Egységes Gépi Prioráló Rendszer „G” és „H” jelű nyilvántartása, „K” jelű adattára, illetve az azokban található adatok minősítésének felülvizsgálata során az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény (a továbbiakban: ÁSZTLtv.), a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.), valamint e rendelet rendelkezései szerint kell eljárni.
+
+(2) Az (1) bekezdésben meghatározott adathordozók, illetve az azokon található adatok esetében a Mavtv. 8. § (2) bekezdése alapján a minősítő hatásköreit a Nemzetbiztonsági Hivatal főigazgatója gyakorolja.
