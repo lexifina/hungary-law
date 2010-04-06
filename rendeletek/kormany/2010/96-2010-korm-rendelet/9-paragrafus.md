@@ -1,1 +1,0 @@
-## 8. § Az Szmtv. Vhr. 37. § (2) bekezdésében az „– a 13. §-ban meghatározott esetben –” szövegrész helyébe a „– ha a három hónapot meg nem haladó tartózkodásra jogosító vízumot külön lapon adták ki –” szöveg lép.
