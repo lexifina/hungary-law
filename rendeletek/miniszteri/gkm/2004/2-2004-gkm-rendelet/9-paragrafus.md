@@ -1,9 +1,12 @@
-9. § (1) Az elismerés iránti, továbbá ha tengeri úszólétesítmény nemzetközi egyezményben előírt bizonyítványának kiállítására nem elismert szervezet kér felhatalmazást, az elismerés és felhatalmazás iránti kérelemben részletesen bizonyítani kell, hogy a kérelmező szervezet megfelel e rendelet 1. számú mellékletében foglalt követelményeknek.
+9. § (1)[^10] Az elismerés iránti, valamint – ha tengeri úszólétesítmény nemzetközi egyezményben előírt bizonyítványának kiállítására nem elismert szervezet kér felhatalmazást – az elismerés és a felhatalmazás iránti kérelemben részletesen bizonyítani kell, hogy a kérelmező szervezet megfelel a 391/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésében meghatározott követelményeknek.
 
-(2) Az elismerés iránti kérelmet a miniszter a bizottság javaslatára – az 1. számú mellékletben foglalt követelményeknek való megfelelést igazoló dokumentációval együtt – elbírálásra továbbítja az Európai Bizottsághoz.
+(2)[^11] A miniszter a kérelmet a bizottság javaslatára – a 391/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésében foglaltak követelményeknek való megfelelést igazoló dokumentációval együtt – elbírálásra továbbítja az Európai Bizottság részére.
 
-(3) Az a vizsgáló, ellenőrző és tanúsító szervezet, amely az 1. számú melléklet 1.2. és 1.3. pontjában foglalt követelmények kivételével a mellékletben meghatározott további követelményeknek megfelel, hároméves időtartamra korlátozott elismerést kérhet. A korlátozott elismerés iránti kérelemre az elismerés iránti kérelemre, az e bekezdés szerint elismert szervezetekre az elismert szervezetekre vonatkozó rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy az 1. számú melléklet szerinti követelményeknek megfelelés vizsgálatakor az 1.2. és 1.3. pontot nem kell figyelembe venni.
+(3)[^12]
 
-(4)[^8] Nemzetközi egyezmény rendelkezése alapján adható felmentés esetében felmentési bizonyítványt első alkalommal a felhatalmazott szervezet a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) Közép-magyarországi Regionális Igazgatósága hozzájárulásával állíthat ki.
+(4)[^13] Nemzetközi egyezmény rendelkezése alapján adható felmentés esetében felmentési bizonyítványt első alkalommal a felhatalmazott szervezet a hajózási hatóság hozzájárulásával állíthat ki.
 
-[^8]: A 9. § (4) bekezdése a 95/2006. (XII. 27.) GKM rendelet 55. § a) pontja szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 9. § (2) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 9. § (3) bekezdését a 28/2010. (IV. 2.) KHEM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^13]: A 9. § (4) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.

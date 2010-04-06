@@ -110,15 +110,11 @@
 
 | igen / yes |  | nem / no |
 
-## 9. Teljesíti-e a szervezet az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek elismeréséről, kijelöléséről és felhatalmazásáról szóló 2/2004. (I. 5.) GKM rendelet 1. számú mellékletében foglalt követelményeket? / Indicate whether your organization fulfils the requirements listed in Annex 1 to the Decree 2/2004. (I. 5.) GKM on recognization and notification of organizations for examination, control and certification of the conformity of floating installations
+## 9. Teljesíti-e a szervezet a hajófelügyeleti és hajóvizsgáló szervezetek közös szabályairól és szabványairól szóló, 2009. április 23-ai 391/2009/EK európai parlamenti és tanácsi rendelet I. mellékletében, valamint az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek elismeréséről, kijelöléséről és felhatalmazásáról szóló 2/2004. (I. 5.) GKM rendelet 1. számú mellékletében foglalt követelményeket? / Indicate whether your organization fulfils the requirements listed in Annex 1 of Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and in Annex 1 to the Decree 2/2004. (I. 5.) GKM on recognition and notification of organizations for examination, control and certification of the conformity of floating installations.
 
-| igen / yes |  | részben / partially, |
+## igen/yes részben/partially,
 
-## és pedig / if partially, indicate details:
-
-## …………………………………………………………………………………………………………..….….….….….
-
-## …….….….….….………………………………………………………………………………………………………..
+## és pedig/if partially, indicate details:
 
 ## 10. Tagja-e a Hajóosztályozó Társaságok Nemzetközi Szövetségének (IACS) / Indicate whether your Classification Society is a member of the International Association of Classification Societies – IACS
 
@@ -210,6 +206,6 @@
 
 ## Protocol on qualification made by the National Accreditation Body (NAT)
 
-3. számú melléklet a 2/2004. (I. 5.) GKM rendelethez[^17]
+3. számú melléklet a 2/2004. (I. 5.) GKM rendelethez[^31]
 
-[^17]: A 3. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: A 3. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
