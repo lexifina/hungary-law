@@ -1,0 +1,5 @@
+## „(6) Az 1122/2009/EK bizottsági rendelet alkalmazásában a meg nem felelés ismételtnek minősül, ha az 1. mellékletben foglalt ugyanazon HMKÁ előírás megsértése három egymást követő éven belül legalább két alkalommal került megállapításra, feltéve, hogy a földhasználót értesítették a korábbi HMKÁ előírásnak való meg nem felelésről, és a földhasználónak lehetősége volt megtenni a szükséges intézkedéseket az előzőleg megállapított HMKÁ meg nem felelés megszüntetésére.
+
+## (7) Ha a földhasználó vonatkozásában több alkalommal megállapításra került ugyanazon HMKÁ előírásnak való meg nem felelés, akkor az 1122/2009/EK bizottsági rendelet 71. cikk (5) és (6) bekezdései, valamint a 72. cikk (2) bekezdése alapján kell eljárni.
+
+## (8) Ha az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 17. § (4) bekezdésében foglalt rendelkezés megsértése miatt az élelmiszerlánc-felügyeleti szerv eljárást indít, tájékoztatja a Mezőgazdasági és Vidékfejlesztési Hivatalt (a továbbiakban: MVH), amely alapján az MVH az 1. melléklet 7. pontjában foglalt előírás meg nem felelésének megállapítása és a földhasználó azonosítása érdekében eljárást kezdeményez.”
