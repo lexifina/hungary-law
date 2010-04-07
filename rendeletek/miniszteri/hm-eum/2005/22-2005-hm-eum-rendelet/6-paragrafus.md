@@ -24,7 +24,7 @@ IX. rovat: légiforgalmi irányító;
 
 RMSZ rovat: repülőműszaki földi szakszemélyzet.
 
-(2) Az állami célú légiközlekedés repülőműszaki földi szakszemélyzete alkalmasságát a hivatásos és szerződéses állomány egészségi alkalmasságáról szóló, külön jogszabályokban foglaltak szerinti feltételek alkalmazásával és a foglalkozás-egészségügyi sajátosságok szem előtt tartásával kell megállapítani és minősíteni[^2].
+(2) Az állami célú légiközlekedés repülőműszaki földi szakszemélyzete alkalmasságát a hivatásos és szerződéses állomány egészségi alkalmasságáról szóló, külön jogszabályokban foglaltak szerinti feltételek alkalmazásával és a foglalkozás-egészségügyi sajátosságok szem előtt tartásával kell megállapítani és minősíteni[^6].
 
 (3) A Táblázat szerint a következő alkalmassági fokozatok állapíthatók meg:
 
@@ -66,4 +66,4 @@ d) „K”: a szakszolgálati tevékenység teljes körű és hatékony ellátá
 
 e) „KLGS”: különleges elbírálás esetén alkalmazott jelölés.
 
-[^2]: A 4/2003. (I. 31.) HM rendelet, továbbá a 21/2000. (VIII. 23.) BM–IM–TNM együttes rendelet.
+[^6]: A 4/2003. (I. 31.) HM rendelet, továbbá a 21/2000. (VIII. 23.) BM–IM–TNM együttes rendelet.

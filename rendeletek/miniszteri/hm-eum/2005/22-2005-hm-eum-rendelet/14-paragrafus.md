@@ -24,7 +24,7 @@ i) az alapellátást végző orvos véleménye.
 
 (3) Az (1) bekezdés g) pontja szerinti orvosi bizonyítvány a minősített személy következő adatait tartalmazza:
 
-a) neve, születési éve, anyja neve, rendfokozata, szervezete, beosztása, repülőszakmai beosztásának kezdete,
+a)[^16] családi és utóneve, születési családi és utóneve, születési ideje, anyja születési családi és utóneve, rendfokozata, szervezete, beosztása, repülőszakmai beosztásának kezdete,
 
 b) a légijármű típusa,
 
@@ -40,8 +40,12 @@ g) a kórisme a Táblázat vonatkozó pontjának megjelölésével és repülőe
 
 (4) Az (1) bekezdésben foglalt
 
-a) a), e) és f) pontok szerinti okmányokat az MH KRK,
+a)[^17] a), e) és f) pontok szerinti okmányokat a REKI,
 
 b) b) és h) pontok szerinti okmányokat az alapellátást végző egészségügyi szolgálat,
 
-c) i) pont szerinti orvosi vélemény egy-egy példányát az MH KRK és az alapellátást végző egészségügyi szolgálat
+c)[^18] i) pont szerinti orvosi vélemény egy-egy példányát a REKI és az alapellátást végző egészségügyi szolgálat
+
+[^16]: A 14. § (3) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 14. § (4) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 14. § (4) bekezdés c) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

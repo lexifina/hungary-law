@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-22-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2005-22-20-15.3 | 22/2005. (VI. 14.) HM–EüM együttes rendelet |
+| 2010-04-07 | 2005-22-20-15.4 | 6/2010. (III. 30.) HM–EüM együttes rendelet |
