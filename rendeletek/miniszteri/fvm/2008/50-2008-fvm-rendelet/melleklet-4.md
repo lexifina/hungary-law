@@ -2,9 +2,9 @@
 
 ## Mérték
 
-## Gazdaságon belüli: A meg nem felelés és hatásai a gazdálkodó földterületére, valamint az egybeművelt tábla földterületére korlátozódik, a meg nem felelés kis mértékű, a meg nem feleléssel érintett területek korlátozott részt tesznek ki a gazdaság összterületéből;
+## Kismértékű: A meg nem felelés és hatásai a gazdálkodó földterületére, valamint az egybeművelt tábla földterületére korlátozódik, a meg nem felelés kis mértékű, a meg nem feleléssel érintett területek korlátozott részt tesznek ki a gazdaság összterületéből;
 
-## Gazdaságon kívüli: A meg nem felelés és hatásai a más gazdálkodó földterületére is kiterjed, illetve a meg nem felelés nagy mértékű, a meg nem feleléssel érintett területek jelentős részt tesznek ki a gazdaság összterületéből;
+## Nagymértékű: A meg nem felelés és hatásai a más gazdálkodó földterületére is kiterjed, illetve a meg nem felelés nagy mértékű, a meg nem feleléssel érintett területek jelentős részt tesznek ki a gazdaság összterületéből;
 
 ## Súlyosság
 
@@ -22,6 +22,6 @@
 
 ## Maradandó: a meg nem felelés maradandó következményekkel járt a helyes mezőgazdasági és környezeti állapot fenntartásának vonatkozásában, hatásuk a gazdaság jelentős részére kiterjed, az érintett mezőgazdasági kultúrák, illetve a talaj nagy mértékben károsodtak.
 
-4. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^18]
+4. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^37]
 
-[^18]: A 4. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^37]: A 4. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
