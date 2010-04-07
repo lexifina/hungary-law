@@ -2,6 +2,9 @@
 
 38. § (1) A repülési jártasság fenntartása érdekében az engedélyes három havonta legalább egy oktatói repülést hajt végre, ennek hiányában ellenőrző oktatói repülési feladatot kell végrehajtania.
 
-(2) Az engedély érvényességének meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a jogosítás lejártát megelőző tizenkét hónapban rendszeres oktatói vagy ellenőrző feladatot látott el.
+(2)[^28] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a jogosítás lejártát megelőző tizenkét hónapban rendszeres oktatói vagy ellenőrző feladatot látott el.
 
-(3) Az oktató repülőgépvezető szakszolgálati engedély érvényességének meghosszabbításakor a pályázó elméleti vizsgát a 33. § (2) bekezdés és a 36. § (2) bekezdés szerinti tárgyakból tesz.
+(3)[^29] Az oktató repülőgépvezető szakszolgálati engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 33. § (2) bekezdés és a 36. § (2) bekezdés szerinti tárgyakból tesz.
+
+[^28]: A 38. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 38. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

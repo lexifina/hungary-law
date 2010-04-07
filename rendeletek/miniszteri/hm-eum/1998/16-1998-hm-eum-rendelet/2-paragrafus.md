@@ -4,13 +4,13 @@
 
 a) Pályázó: a jogszabályban megjelölt feltételekkel rendelkező személy, aki az állományilletékes parancsnok útján hatósági szakszolgálati vizsgáztatásra jelentkezik;
 
-b) Engedélyes: aki eredményes hatósági vizsgát tett, a szakszolgálati engedélye érvényességének fennálltáig;
+b)[^1] Engedélyes: aki eredményes hatósági vizsgát tett, a szakszolgálati engedélye időbeli hatályának fennálltáig;
 
 c) Hatóság: az Lt. 3. §-ának (2) bekezdése szerinti katonai légügyi hatóság;
 
 d) Légiközlekedési hatóság: az Lt. 3. §-ának (1) bekezdése szerinti légiközlekedési hatóság;
 
-e) Légijárművezetői kiképzés alatt álló személy: aki szakszolgálati engedéllyel nem rendelkezik és a légijárművezetői gyakorlati kiképzését megkezdte; kiképzés alatt állónak kell tekinteni azt is, aki érvényes szakszolgálati engedéllyel rendelkezik, de számára új légijármű típus átképzésen vesz részt;
+e)[^2] Légijárművezetői kiképzés alatt álló személy: aki szakszolgálati engedéllyel nem rendelkezik és a légijárművezetői gyakorlati kiképzését megkezdte; kiképzés alatt állónak kell tekinteni azt is, aki hatályos szakszolgálati engedéllyel rendelkezik, de számára új légijármű típus átképzésen vesz részt;
 
 f) Egészségi alkalmasság a szakszolgálat ellátására: az egyénnek olyan testi és lelki egyensúlyi állapota, amely lehetővé teszi a szakszolgálat elvárásainak teljesítését úgy, hogy ennek teljesítésekor a speciális fizikai és pszichikai terheléseket zavartalan alkalmazkodással és a feladatok biztonságos végrehajtásával valósítja meg;
 
@@ -107,3 +107,6 @@ C) repülőműszaki földi szakszemélyzet:
 a) légijármű szerelő,
 
 b) a tevékenységi kört felügyelő, a tevékenységet szervező ellenőr.
+
+[^1]: A 2. § b) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § e) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

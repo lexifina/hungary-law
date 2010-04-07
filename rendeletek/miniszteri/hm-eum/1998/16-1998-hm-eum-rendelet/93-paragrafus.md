@@ -2,7 +2,7 @@
 
 93. § (1) Az oktató fedélzeti rádiós szakszolgálati engedély kiadásának feltétele, hogy a pályázó rendelkezik
 
-a) érvényes fedélzeti rádiós szakszolgálati engedéllyel,
+a)[^74] hatályos fedélzeti rádiós szakszolgálati engedéllyel,
 
 b) legalább 500 óra repült idővel.
 
@@ -15,3 +15,5 @@ a) az oktatott által elkövetett hibák felismerésére és azok kijavításár
 b) az oktatottnak feladatra történő felkészítésére, valamint
 
 c) az oktatott teljesítményének értékelésére.
+
+[^74]: A 93. § (1) bekezdés a) pontja a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

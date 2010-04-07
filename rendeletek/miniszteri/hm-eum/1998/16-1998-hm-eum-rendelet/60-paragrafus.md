@@ -2,7 +2,7 @@
 
 60. § (1) A helikopter berepülő másodpilóta szakszolgálati engedély kiadásának feltétele, hogy a pályázó rendelkezik
 
-a) érvényes helikopter-másodpilóta szakszolgálati engedéllyel, továbbá
+a)[^48] hatályos helikopter-másodpilóta szakszolgálati engedéllyel, továbbá
 
 b) 800 óra repült idővel.
 
@@ -21,3 +21,5 @@ b) annak végrehajtására hatósági berepülőpilótával,
 c) a feladat értékelésére, továbbá
 
 d) a berepülés adatainak berepülési jegyzőkönyvben való rögzítésére.
+
+[^48]: A 60. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

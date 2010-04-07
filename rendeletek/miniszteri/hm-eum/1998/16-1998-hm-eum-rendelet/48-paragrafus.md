@@ -2,7 +2,7 @@
 
 48. § (1) A szállító repülőgép gépparancsnok szakszolgálati engedély kiadásának feltétele, hogy a pályázó
 
-a) rendelkezik érvényes szállító repülőgép másodpilóta szakszolgálati engedéllyel,
+a)[^38] rendelkezik hatályos szállító repülőgép másodpilóta szakszolgálati engedéllyel,
 
 b) befejezte a parancsnoki kiképzést,
 
@@ -15,3 +15,5 @@ a) a gépparancsnok hatásköre és feladatai,
 b) repülésbiztonsági előírások, eljárások.
 
 (3) A gyakorlati vizsgán a pályázónak a 42. § (3) bekezdésben foglaltakon túl számot kell adnia a parancsnoki felkészültségéről, valamint a döntéshozatali képességéről.
+
+[^38]: A 48. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

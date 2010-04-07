@@ -1,4 +1,4 @@
-## 115. § Az oktató szakszolgálati engedély érvényességének meghosszabbítására repülőtéri irányító esetében a 106. §, bevezető irányító esetén a 109. §, körzeti irányító esetén a 112. § irányadó.
+## 115. §[^90] Az oktató szakszolgálati engedély időbeli hatályának meghosszabbítására repülőtéri irányító esetében a 106. §, bevezető irányító esetén a 109. §, körzeti irányító esetén a 112. § irányadó.
 
 ## XVI. Fejezet
 
@@ -19,3 +19,5 @@ c) I. típusú minősítő.
 a) a kategóriába sorolt légijármű üzemben tartásának jogosítására a besorolási kategória és az egyik, besorolt légijárműtípus megnevezésével, valamint a szakterület feltüntetésével (kategória jogosítás), vagy
 
 b) a kategóriába nem sorolt légijármű üzembentartásának jogosítására, a légijármű típusa megnevezésével, valamint a szakterület feltüntetésével (típus jogosítás).
+
+[^90]: A 115. § a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

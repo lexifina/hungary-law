@@ -2,7 +2,7 @@
 
 66. § (1) A helikopter oktató-gépparancsnok szakszolgálati engedély kiadásának feltétele, hogy a pályázó
 
-a) rendelkezik érvényes helikopter-gépparancsnok szakszolgálati engedéllyel,
+a)[^54] rendelkezik hatályos helikopter-gépparancsnok szakszolgálati engedéllyel,
 
 b) befejezte az oktatói kiképzést, továbbá
 
@@ -23,3 +23,5 @@ a) a helikoptervezetői feladatok végrehajtására és bemutatására,
 b) a vizsgáztató által létrehozott hibajelenségek felismerésére, azok megszüntetésére, továbbá
 
 c) a repülési feladat elemzésére.
+
+[^54]: A 66. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
