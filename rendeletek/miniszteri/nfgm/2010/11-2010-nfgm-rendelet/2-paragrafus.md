@@ -1,3 +1,0 @@
-## 1. § A nemzeti fejlesztési és gazdasági miniszter által adományozható elismerésekről szóló 21/2008. (X. 22.) NFGM rendelet (a továbbiakban: R.) 7. §-a a következő (2) bekezdéssel egészül ki:
-
-## „(2) A miniszter 2010. április 6-án 17 db egyszeri posztumusz Ybl Miklós díjat adományoz az Ybl-díj alapítása és az 1990. közötti időszakban kimagasló egyéni építészeti alkotó tevékenységet folytató építészek elismeréséül. Az elismerés adományozására a 3. § (7) bekezdés szerinti Díjbizottság tesz javaslatot. A posztumusz díjjal érem és az adományozást igazoló oklevél jár. A 3. § (10) bekezdés rendelkezéseit ezen elismerésre nem kell alkalmazni.”
