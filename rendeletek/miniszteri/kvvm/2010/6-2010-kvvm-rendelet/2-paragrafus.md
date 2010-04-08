@@ -1,0 +1,1 @@
+## 1. § A 9/1989. (VIII. 24.) KVM rendelettel védetté nyilvánított, valamint a Karancs-Medves Tájvédelmi Körzet védettségének fenntartásáról szóló 132/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Karancs-Medves Tájvédelmi Körzet természetvédelmi kezelési tervét az 1. melléklet szerint állapítom meg.
