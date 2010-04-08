@@ -18,7 +18,7 @@
 
 | 6. | Pécs környéke | F | C | F | D | F | O-I | F | F | F | F | B |
 
-| 7. | Visonta környéke | D | E | F | D | F | O-I | F | F | F | F | D |
+| 7. |  |  |  |  |  |  |  |  |  |  |  |
 
 | 8. | Sajó Völgye | F | C | D | B | E | O-I | E | F | F | F | B |
 
@@ -324,27 +324,27 @@
 
 | 16115 | 2 | PELLÉRD | 6 | DDT |
 
-| 24554 | 10 | ABASÁR | 7 | ÉM |
+| 24554 | 10 | ABASÁR | 10 | ÉM |
 
-| 09201 | 10 | DETK | 7 | ÉM |
+| 09201 | 10 | DETK | 10 | ÉM |
 
-| 07515 | 10 | DOMOSZLÓ | 7 | ÉM |
+| 07515 | 10 | DOMOSZLÓ | 10 | ÉM |
 
-| 05236 | 10 | GYÖNGYÖS | 7 | ÉM |
+| 05236 | 10 | GYÖNGYÖS | 10 | ÉM |
 
-| 17534 | 10 | GYÖNGYÖSHALÁSZ | 7 | ÉM |
+| 17534 | 10 | GYÖNGYÖSHALÁSZ | 10 | ÉM |
 
-| 11411 | 10 | HALMAJUGRA | 7 | ÉM |
+| 11411 | 10 | HALMAJUGRA | 10 | ÉM |
 
-| 05935 | 10 | KARÁCSOND | 7 | ÉM |
+| 05935 | 10 | KARÁCSOND | 10 | ÉM |
 
-| 15796 | 10 | LUDAS | 7 | ÉM |
+| 15796 | 10 | LUDAS | 10 | ÉM |
 
-| 16540 | 10 | MARKAZ | 7 | ÉM |
+| 16540 | 10 | MARKAZ | 10 | ÉM |
 
-| 05759 | 10 | VÉCS | 7 | ÉM |
+| 05759 | 10 | VÉCS | 10 | ÉM |
 
-| 31246 | 10 | VISONTA | 7 | ÉM |
+| 31246 | 10 | VISONTA | 10 | ÉM |
 
 | 33093 | 5 | ALACSKA | 8 | ÉM |
 
@@ -444,7 +444,7 @@
 
 | 06673 | 19 | AJKA |  | KDT |
 
-| 03522 | 3 | BAJA |  | DDT |
+| 03522 | 3 | BAJA |  | ATI |
 
 | 15200 | 4 | BÉKÉSCSABA |  | ATI |
 
@@ -490,4 +490,4 @@ A felügyelőség jelölése:
 
 | NYDT | Nyugat-Dunántúli Környezetvédelmi Felügyelőség |
 
-[^4]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 1. §-a szerint módosított szöveg.
