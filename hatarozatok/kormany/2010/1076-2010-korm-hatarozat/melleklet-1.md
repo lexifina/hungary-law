@@ -1,0 +1,395 @@
+## 1. A Kormány
+
+## a) egyetért a Nemzeti Energiahatékonysági Cselekvési Terv intézkedéseinek a végrehajtásával, a 2008–2016. közötti időszakra szóló évi 1–1%, valamint a 2020-ig elérendő 20%-os energia-megtakarítás szükségességével;
+
+## b) a Nemzeti Energiahatékonysági Cselekvési Terv végrehajtása érdekében elfogadja az e határozat 1. mellékletében foglalt intézkedési tervet, felhívja, illetve felkéri az ott megjelölt felelősöket az intézkedések végrehajtására;
+
+## c) felhívja az érintett minisztereket, hogy vizsgálják meg a következő Új Magyarország fejlesztési periódusban egy önálló, az energiapolitikáért felelős miniszter szakmai irányításával működő energetikai operatív program indításának a lehetőségét és a biztosítható költségkeret mértékét;
+
+## Felelős: a fejlesztéspolitikáért felelős miniszter
+
+## az energiapolitikáért felelős miniszter
+
+## a környezetvédelemért felelős miniszter
+
+## Határidő: 2013. december 31.
+
+## d) felhívja az érintett minisztereket, hogy vizsgálják meg a 2012 utáni aukcióskvóta-kiosztásból származó bevételekből az energiatakarékossági és a megújuló energia hasznosítási intézkedések támogatásának lehetőségét, tegyenek javaslatot a bevételek allokálására;
+
+## Felelős: a környezetvédelemért felelős miniszter
+
+## az államháztartásért felelős miniszter
+
+## az energiapolitikáért felelős miniszter
+
+## Határidő: 2010. augusztus 31.
+
+## e) felhívja az energiapolitikáért felelős minisztert, továbbá az európai integrációs ügyekért felelős minisztert, hogy a módosított Nemzeti Energiahatékonysági Cselekvési Tervet – az Európai Parlament és Tanács 2006/32/EK irányelvének 14. cikk (2) bekezdésének megfelelően – küldjék meg az Európai Bizottságnak.
+
+## Felelős: az energiapolitikáért felelős miniszter
+
+## 2. Ez a határozat a közzétételét követő nyolcadik napon lép hatályba.
+
+## 3. Hatályát veszti a Magyarország Nemzeti Energiahatékonysági Cselekvési Tervéről szóló 2019/2008. (II. 23.) Korm. határozat.
+
+1. melléklet az 1076/2010. (III. 31.) Korm. határozathoz
+
+INTÉZKEDÉSI PROGRAM
+
+Magyarország Nemzeti Energiahatékonysági Cselekvési Tervének megvalósítása érdekében
+
+1. Zöld Beruházási Rendszer (ZBR) indítása
+
+A Zöld Beruházási Rendszer (a továbbiakban: ZBR) támogatások célja többek között a hagyományos és az iparosított technológiával épült lakóépületek, illetve egyéb épületek számszerű széndioxid kibocsátás-csökkenést és energia-megtakarítást eredményező felújítása, illetve e lakóépületek gépészeti rendszereinek, berendezéseinek a korszerűsítése, felújítása.
+
+A ZBR több alprogramot fog össze:
+
+– a ZBR Klímabarát Otthon Panel Alprogramja 2009. június végén kiírásra került; ez a program a klímavédelmi prioritások mellett az iparosított technológiával épült lakóépületek energiatakarékosságát, energiahatékonyságának a növelését támogatja,
+
+– a ZBR Klímabarát Otthon Energiahatékonysági Alprogramja 2009. december 15-én kiírásra került; az alprogram a klímavédelmi prioritások mellett a hagyományos építésű épületek energiatakarékos korszerűsítését, illetve új energiatakarékos lakóépületek építését támogatja,
+
+– a ZBR egyéb, kidolgozás alatt álló programjai.
+
+A ZBR pályázataiban és a projektek megvalósítása után számszerűen kell igazolni az elért széndioxid emisszió-megtakarításokat.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: a környezetvédelemért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+a lakásgazdálkodásért és lakáspolitikáért felelős miniszter
+
+2. Egyedi mérések, mini hőközpontok alkalmazása a távhőszolgáltatásban
+
+A támogatás célja a jelenleg általánosnak tekinthető hőközponti mérési rendszer továbbfejlesztése, a fűtési rendszer lakásonkénti szabályozásának és az átvett hőmennyiség lakásonkénti mérésének kialakítása.
+
+Az intézkedés jellege, időbeli ütemezése: a fejlesztéshez szükséges támogatási rendszer kialakítása 2010-ben, a támogatási rendszer elindítása 2011-ben
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+a lakásgazdálkodásért és lakáspolitikáért felelős miniszter
+
+3. Energiahatékonysági tanácsadói hálózat működésének fejlesztése
+
+A tanácsadó szervezetek feladata a hozzájuk forduló érdeklődők közvetlen támogatása mellett képzések szervezése, kampányok lebonyolítása, nyomtatványok kidolgozása és terjesztése, a különböző energiatakarékossági akciókban való közreműködés, koordináció a hasonló célú civil szervezetekkel annak érdekében, hogy az energiafogyasztók ismereti szintje emelkedjen és az energiatakarékossági célú kezdeményezések hatásfoka javuljon. A tanácsadó hálózat működésének a hatására a társadalom, a termelés különböző területein energetikai korszerűsítésekre irányuló beruházások indulnak meg.
+
+Az intézkedés jellege, időbeli ütemezése: 2009-ben a nemzeti energia ügynökség (Energia központ) kijelölése az energiahatékonysági tanácsadói hálózat rendszerének kialakítására, irányítására
+
+Felelős: az energiapolitikáért felelős miniszter
+
+4. Épületenergetikai követelmények előírásainak következetes alkalmazása és ellenőrzése, az épületenergetikai előírások fokozatos szigorítása
+
+Az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet szerint új épületekre és a meglévő 1000 m2 -nél nagyobb hasznos alapterületű épületek jelentős felújítására vonatkozóan új épületenergetikai követelményeket érvényesítenek az építkezési engedélyezés során. Az épületek külső határoló szerkezeteinek hőátbocsátására vonatkozó minimumkövetelmények mellett az épület teljes energiafogyasztására is érvényben van követelmény, figyelembe véve a felhasznált energiahordozót is. Az elérhető energia-megtakarítások realizálása érdekében a követelmények betartását szigorúan ellenőrizni kell.
+
+Az épületenergetikai követelmények fokozatos szigorításával el kell érni, hogy az EU- elvárásokkal összhangban 2018. december 31-től valamennyi új középület, 2020. december 31-től valamennyi új épület „közel zéró energiafelhasználású” legyen.
+
+Az intézkedés jellege, időbeli ütemezése: a követelmények felülvizsgálata, a szigorítás ütemezésének kidolgozása 2010. II. félévében
+
+Felelős: az építésügyért felelős miniszter
+
+5. Épületek energetikai tanúsítvány rendszerének a működtetése
+
+Az intézkedés eredményeként az épületekről, illetve lakásokról energetikai adatlap készül, amely összefoglalóan ismerteti az építmény energetikai, energiahatékonysági jellemzőit. Az adatlapról az épület tulajdonosa, tulajdonosváltás esetén a vásárló gyorsan és hatékonyan tud információt szerezni az ingatlan energiahatékonysági jellemzőiről.
+
+Az energiatanúsítvány rendszer jelenlegi jogi háttere szigorodhat, ha az Európai Unió e téren vizsgált szigorító intézkedései kötelezővé válnak.
+
+Az intézkedés jellege, időbeli ütemezése: a jogi szabályozás szerint
+
+Felelős: az építésügyért felelős miniszter
+
+6. Háztartási kazánok minimális energiahatékonysági követelményeinek előírása
+
+A minimális energiahatékonysági követelmények meghatározását követően lehetőség nyílik a minimális energiahatékonysági követelményeket nem teljesítő kazánok kiszűrésére. Egy kapcsolódó pénzügyi alapból kedvezményes hitelt célszerű folyósítani a minimális követelményeket nem teljesítő kazánpark lecserélésére.
+
+Az intézkedés jellege, időbeli ütemezése: jogi szabályozás szerint
+
+Felelős: az iparügyekért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+7. Háztartási kazánok és klímaberendezések energiahatékonysági címkézése
+
+Az új beszerzésű kazánok hatásfokjellemzőinek közérthető hangsúlyozása elősegíti az energetikailag hatékonyabb kazánpark fokozatos kialakulását.
+
+Az intézkedés jellege, időbeli ütemezése: a jogszabályok elkészítése, a tervezett intézkedés indítása 2010-ben
+
+Felelős: az iparügyekért felelős miniszter
+
+8. Háztartási villany- és gázbojlerek energiahatékonysági címkézése
+
+Vízmelegítésre a magyar háztartások 60%-a villany- vagy gázbojlert használ. A széles körű felhasználás indokolja a címkézést, amely elősegíti a felhasználói berendezés-állomány korszerűsödését.
+
+Az intézkedés jellege, időbeli ütemezése: a jogszabályok elkészítése, a tervezett intézkedés indítása 2010-ben
+
+Felelős: az iparügyekért felelős miniszter
+
+9. Támogatás nyújtása a kiemelt energiahatékonyságú, „A” címkéjű háztartási hűtőgépek, a kiemelt energiahatékonyságú, „A” címkéjű háztartási fagyasztógépek és egyéb háztartási gépek vásárlásához, a régi készülék cseréjével
+
+A magyar háztartások több mint 90%-a használ hűtőt és csaknem 60%-a fagyasztót. A hűtők és a fagyasztók jelentős része korszerűtlen, nagy energiafelhasználású. Támogatással ösztönözve az elöregedett hűtők, fagyasztók és egyéb háztartási gépek cseréjét, ezáltal jelentős háztartási elektromos fogyasztás-mérséklést lehet elérni. A hazai gyártású gépek vásárlásánál a támogatás mértékét magasabban kell megállapítani.
+
+Az intézkedés jellege, időbeli ütemezése: a támogatási konstrukció (a ZBR keretében) előkészítése 2010. I. félévében; a támogatás elindítása 2010. II. félévében
+
+Felelős: a környezetvédelemért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+10. Energiatakarékos világító berendezések (kompakt fénycsövek) elterjedésének fokozása
+
+Az Európai Unió 244/2009/EK rendelete alapján 2012 végéig megszűnik a hagyományos izzók előállítása és kereskedelme, helyüket az energiatakarékos világítótestek veszik át.
+
+Az energiatakarékos világítótestek élettartama 8–10-szerese, energiafogyasztása harmada vagy negyede a hagyományos izzóénak. Áruk azonban átlagosan 5–6-szoros. Az elérhető megtakarítások bemutatásával, tudatformálással elő kell segíteni a világító berendezések elterjedését, ezáltal csökkenteni a világítási célú elektromos fogyasztást.
+
+Az intézkedés jellege, időbeli ütemezése: jogi intézkedés, folyamatos
+
+Felelős: az iparügyekért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+11. Energiahatékonysági képzési anyagok alapfokú, illetve a középfokú oktatásban való alkalmazása
+
+Az energiahatékonyságot a Nemzeti Alaptanterv, illetve a kerettantervek alapján több tantárgyban oktatják az alapfokú és középfokú oktatásban. Az energiahatékonyság alap és középfokú képzésben történő oktatása elősegíti az energiatudatos életforma kialakulását.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: az energiapolitikáért felelős miniszter
+
+az oktatásért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+12. Önkormányzati képzés, tudatformálás, tanácsadás az UNDP/GEF projektek során
+
+Az UNDP projekt során nyújtott képzések, információs kampányok tapasztalatai alapján a tudatformálás az önkormányzati szakemberek körében a projekt 2008. június 30-i lezárása után is tovább folytatandó. A folytatás során fokozott hangsúlyt kell fektetni a tapasztalatcserére, az aktuális finanszírozási lehetőségekre, az energiahatékonysági auditok és megvalósíthatósági tanulmányok praktikus kérdéseire.
+
+Az intézkedés jellege, időbeli ütemezése: tudatformálási rendszer aktualizálása, a tervezett intézkedés indítása 2010-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+a fejlesztéspolitikáért felelős miniszter
+
+13. Környezet és Infrastruktúra Operatív Program megvalósítása
+
+Az operatív program 2004–2006 között vissza nem térítendő beruházási támogatással ösztönzi az energiatakarékossági és a megújuló energiahordozó felhasználás növelésére irányuló beruházásokat. A beruházások megvalósításának a jelentős része átnyúlik a 2008–2016. időszakra.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+14. Környezet és Energia Operatív Program „Hatékony energiafelhasználás” konstrukció hatékonyságának és támogatási keretének a növelése
+
+Az energiatakarékossági célkitűzések teljesíthetősége érdekében a Környezet és Energia Operatív Program (a továbbiakban: KEOP) „Hatékony energiafelhasználás” konstrukció keretének növelése a KEOP energetikai célú előirányzatai közötti (illetve a továbbiakban az operatív programok esetleges felülvizsgálata nyomán az operatív programok közötti) átcsoportosításokkal, a pályázati rendszer hatékonyabbá tételével.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+15. „Harmadik feles finanszírozás” – KEOP konstrukció
+
+Az önkormányzati és állami intézményeknél ESCO cégek által megvalósított beruházásokat összefogó konstrukció arra alapoz, hogy a beruházást elvégző vállalkozás alapvetően a megvalósuló energia-megtakarításból teremtse elő az energiahatékonysági beruházáshoz szükséges fedezetet.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+16. Energiafelhasználás mérséklésének ösztönzése a Regionális Operatív Programokban
+
+A Regionális Operatív Program támogatási célcsoportjait elsősorban az önkormányzatok, intézmények, egyházak és civil szervezetek jelentik, továbbá a szociális típusú város-rehabilitáció esetében a panelépületek közös tulajdonú részeiben finanszírozható lakossági energiatakarékossági beruházás. Az elérhető energia-megtakarítások fokozása érdekében minden Regionális Operatív Programban külön konstrukciót kell indítani az energiatakarékosság ösztönzése céljából.
+
+Az intézkedés jellege, időbeli ütemezése: azonnal
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+a lakásgazdálkodásért és lakáspolitikáért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+17. ESCO típusú beruházások szabályozás oldali elősegítése
+
+A szabályozási környezet kialakításával, illetve továbbfejlesztésével ki kell alakítani az ESCO vállalkozások működésének feltételeit. Ennek keretében definiálni kell és meg kell különböztetni más vállalkozásoktól az ESCO vállalkozásokat (tevékenységi kör, jogi státusz meghatározása) és működésüket támogató finanszírozási lehetőségeket kell kialakítani.
+
+Az intézkedés jellege, időbeli ütemezése: a jogi szabályozás kialakítása és a működést támogató finanszírozás indítása 2011-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+a gazdaságpolitikáért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+18. A közbeszerzésekhez kapcsolódó energiahatékonysági irányelvek kidolgozása és alkalmazása
+
+Az energiahatékonysági és környezetvédelmi szempontoknak prioritást kell adni a közbeszerzési eljárásokban. Ennek érdekében olyan iránymutatásokat kell kidolgozni, amelyek elősegítik, hogy a közbeszerzési eljárások objektíven mérhető energiahatékonysági szempontrendszert és ehhez tartozó gazdasági értékelést is tartalmazzanak. A központosított közbeszerzések esetében energiatakarékos vagy nagyobb energiahatékonyságú termékek beszerzését kell megvalósítani.
+
+Az intézkedés jellege, időbeli ütemezése: az iránymutatások kialakítása, a központosított közbeszerzések során kötelezően alkalmazandó energiahatékonysági szempontok bevezetése 2010-ben; az iránymutatások alkalmazása 2011-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+az igazságügyért felelős miniszter
+
+19. Az irodai berendezésekre vonatkozó minimális energiahatékonysági követelmények kidolgozása
+
+A leggyakrabban használt irodai berendezésekre (berendezés-kategóriákra) energiahatékonysági kategóriákat és minimumkövetelményeket kell kialakítani és a központosított (kormányzati hatáskörű) beszerzéseknél kötelező szemponttá kell tenni a minél alacsonyabb energiaigényű termékek beszerzését. A jövőben törekedni kell arra, hogy energiahatékonyság meghatározó kritériumként való kezelése általánossá váljon.
+
+Az intézkedés jellege, időbeli ütemezése: az irodai berendezésekre vonatkozó energiahatékonysági kategóriák és követelmények kialakítása, definiálása 2010-ben;
+
+jogszabályalkotás 2011-ben
+
+Felelős: az iparügyekért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+20. Energiahatékonysági Hitel Alap folytatása a hitelalap növelésével
+
+A konstrukció célkitűzése energiahordozó-megtakarítás az energiahatékonysági intézkedések és megújuló energiák kiaknázása által. A feltételrendszer módosításával kell növelni az elérhető energiatakarékossági eredményeket.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: az energiapolitikáért felelős miniszter
+
+21. A távhő ellátórendszerek felújítása, a távhőszolgáltatás versenyképesebbé tétele
+
+Állami támogatásokkal és kedvezményes kamatozású hitellel fel kell gyorsítani a KEOP jelenlegi támogatásainak kihelyezését. A támogatások hatására bekövetkező korszerűsítések az ellátási költségek mérséklődését eredményezik.
+
+Támogatandó területek:
+
+– a kis közösségi, kisebb kapacitású és megújuló energiát hasznosító kapcsolt hő- és villamosenergia-termelés növelése,
+
+– a szolgáltató (primer) oldali energetikai korszerűsítés, veszteségcsökkentés, hőközponti korszerűsítés,
+
+– fogyasztó (szekunder) oldali szabályozás, költségmegosztás megvalósítása.
+
+Az intézkedés jellege, időbeli ütemezése: folyamatos
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+az agrár-vidékfejlesztésért felelős miniszter
+
+a lakásgazdálkodásért és lakáspolitikáért felelős miniszter
+
+22. Energetikus kötelező jellegű alkalmazása a nagy energiafogyasztóknál
+
+Az energetikusi rendszer kialakításával párhuzamosan az energetikusok számára szakmai továbbképzési rendszer előírása, amelyhez az Országos Képzési Jegyzékben szereplő oktatási anyagok megfelelő hátteret biztosítanak. A szakmai továbbképzésben nem csak a fenti rendszer szerint kötelezően alkalmazott energetikusok, hanem a kisebb energiafogyasztású cégek energetikusai is részt vehetnek.
+
+Az intézkedés jellege, időbeli ütemezése: az energetikusi továbbképzési rendszer szakmai követelményeinek a kialakítása, jogszabályalkotás a nagyfogyasztóknál az energetikusok kötelező alkalmazásáról 2011-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+a szakképzésért felelős miniszter
+
+23. Nagyfogyasztók kötelező jellegű energiafogyasztási beszámolója
+
+Adott éves energiafogyasztás feletti nagyfogyasztókat jogszabályban kötelezni kell arra, hogy
+
+a) előírtak szerinti részletes beszámolót adjanak energia-felhasználással, illetve energiahatékonyság-javítással kapcsolatos adataikról,
+
+b) készítsenek energiahatékonyság-javítási munkatervet és ennek megvalósításáról rendszeresen számoljanak be.
+
+Az intézkedés jellege, időbeli ütemezése: jogszabályalkotás, a tervezett rendszer elindítása 2011-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+24. Önkéntes megállapodások (audit elvégzése, energiatakarékosság) elősegítése
+
+Az állam megállapodásokat köt az energetika fontos csoportjaival, pl.:
+
+– az energia intenzív (nem emisszió-kereskedelem hatálya alá eső) iparágakkal,
+
+– az energiahatékonyságot javító intézkedéseket nyújtó szolgáltatókkal, kiskereskedelmi energiaértékesítő vállalatokkal, a kis elosztói rendszert üzemeltetőkkel,
+
+– egyes végfelhasználói készülékeket előállító gyártókkal.
+
+A megállapodások keretében a nevezett csoportok kötelezik magukat a hatékony energiafelhasználásra, pl.:
+
+– energiafelhasználás csökkentésére, illetve a csökkentés ösztönzésére,
+
+– hatékonyabb energiaszolgáltató technológiák alkalmazására,
+
+– jobb energiahatékonysági mutatókkal rendelkező gyártmányok kifejlesztésére.
+
+Az intézkedés jellege, időbeli ütemezése: önkéntes kötelezettségvállalások rendszere indul 2010-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+25. Veszteséghő hasznosítás (füstgáz, transzformátorok, kemencék stb.)
+
+Az operatív programok keretében, célzott támogatásokkal elő kell segíteni a különböző technológiák esetenként jelentős mértékű hulladékhő hasznosítását. Ilyen lehetőségek: a füstgázok veszteséghőjének a hasznosítása, kazánoknál, kemencéknél, a hulladékhő, illetve a hűtőközeg hőtartalmának hasznosítása kompresszoroknál, nagyteljesítményű szárítóknál, transzformátoroknál.
+
+Az intézkedés jellege, időbeli ütemezése: indul 2010-ben
+
+Felelős: a fejlesztéspolitikáért felelős miniszter
+
+az energiapolitikáért felelős miniszter
+
+26. A nehéz közúti gépjárművek által fizetendő útdíj fenntartása és kiterjesztése
+
+A kiterjesztendő útdíj hatására mérséklődik a tehergépkocsik üres futása, javulni fog a raksúly kapacitás kihasználása és egyes fuvarfeladatok a környezetkímélő, energiahatékonyabb szállítási módok felé tolódnak.
+
+Az intézkedés jellege, időbeli ütemezése: meglévő intézkedés fenntartása, bővítése folyamatos intézkedésekkel
+
+Felelős: az energiapolitikáért felelős miniszter
+
+27. P+R rendszer az energiahatékony személyi közlekedésért
+
+Vizsgálni kell biztonságos parkolóházak létesítését a tömegközlekedési hálózat belvárosi határpontjain. A parkolóházakat díjmentesen vagy jelentős díjkedvezménnyel lehet igénybe venni, amennyiben a jármű vezetője P+R rendszerben használja azt. Ennek ellenőrzésére egységes elektronikus jegy- és bérletrendszert kell bevezetni, amellyel ellenőrizhető, hogy a jármű vezetője a parkolás után használt e tömegközlekedési eszközt.
+
+Az intézkedés jellege, időbeli ütemezése: a vizsgálat indítása 2011-ben
+
+Felelős: a közlekedésért felelős miniszter
+
+28. Tudatformálás – speciális fogyasztói csoportok oktatása
+
+A társadalom energiatudatossága növelésének az érdekében létrehozandó kiegészítő oktatás. Az energiahatékonyság témakörének az oktatásba integrálása nem csak a közép- és általános iskolásokra kell, hogy kiterjedjen, hanem alapismereti követelményrendszert kell megfogalmazni az olyan csoportok számára, akik munkájukon keresztül példát adnak, befolyásolnak, vagy ismereteket adnak át. Ezért fontos, hogy az oktatási program kiterjedjen a
+
+– nem speciálisan energetikusi felsőoktatási intézmények hallgatóira,
+
+– önkormányzati és vállalati szakemberekre, akik munkakörük szerint energiagazdálkodással foglalkoznak.
+
+Az intézkedés jellege, időbeli ütemezése: a tervezett intézkedés megindítása 2011-ben
+
+Felelős: az energiapolitikáért felelős miniszter
+
+az oktatásért felelős miniszter
+
+a környezetvédelemért felelős miniszter
+
+29. Elektronikus fogyasztásmérési-rendszer bevezetése
+
+A Magyar Energia Hivatal vizsgálja az energia-végfelhasználás hatékonyságáról és az energetikai szolgáltatásokról, valamint a 93/76/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2006. április 5-i 2006/32/EK európai parlamenti és tanácsi irányelv 13. cikkében meghatározott elektronikus fogyasztásmérési-rendszer bevezetésének technikai – technológiai, és pénzügyi feltételeit és folyamatosan tájékoztatja a Kormányt.
+
+Az intézkedés jellege, időbeli ütemezése: A Hivatal az elektronikus fogyasztásmérési-rendszer bevezetéséről a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 14/A. §-a és a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 8/A. §-a szerinti tájékoztatást a Kormány részére első alkalommal 2009-ben készítette el, ezt követően ez évente történik a bevezetésig
+
+Felelős: a Magyar Energia Hivatal vezetője
+
+30. A közlekedést érintő intézkedések, amelyek energiatakarékossági, környezetvédelmi hatásait az EU-elvárások szerinti időpontban készítendő, 2020-ig szóló cselekvési tervben kell figyelembe venni
+
+A 2016-ig szóló Cselekvési Tervben nem számszerűsített intézkedések:
+
+– Az Európai Parlament és Tanács COM 2008/779 irányelv tervezete előírja, hogy a gumiabroncsokon jelölve legyen az energiahatékonyság. Mivel a gumiabroncsok a gépjárművek üzemanyag felhasználásának 20–30%-áért felelősek, így az üzemanyag hatékony gumiabroncsok nagyarányú előretörése jelentős energia-megtakarítást eredményezhet.
+
+– A Közlekedési Stratégia egyes közlekedés-korszerűsítéssel kapcsolatos kívánalmai (autóbusz rekonstrukciós program, a tömegközlekedés energiahatékonyságának a javítása, illetve a vízi szállítások előtérbe helyezése) a közlekedés energiaigényének a jelentős mérséklődését eredményezhetik.
+
+– Komoly nevelő – és energiaigényt mérséklő – hatása van a KHEM által szervezett autómentes napok intézkedésnek, illetve a kerékpáros közlekedés ösztönzésének, valamint a környezettudatos vezetés (ÖKO DRIVING) elterjedésének.
+
+Az intézkedés jellege, időbeli ütemezése: az EU-elvárások szerint
+
+Felelős: az energiapolitikáért felelős miniszter
