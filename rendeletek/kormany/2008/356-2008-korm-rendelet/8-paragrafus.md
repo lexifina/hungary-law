@@ -8,6 +8,10 @@ b) az orvosigazgatói (szakmai intézményvezető-helyettesi), ápolási igazgat
 
 c) egészségügyi szolgáltatást nem nyújtó költségvetési szervnél az intézményvezető általános vagy szakmai helyettesítését magában foglaló vezetői megbízás.
 
+d)[^3] az egészségügyi közszolgáltató költségvetési szerv vezető testülete tagjának megbízása.
+
 (2) A 7. § b) pontja szerinti eset kivételével a gazdasági igazgatói – vagy az (1) bekezdés c) pontja szerinti intézmény esetében a gazdasági vezetői – feladatok ellátására önálló vezetői munkakört kell létesíteni, amely magasabb vezetői beosztásnak minősül.
 
 (3) Vezetőnek minősül az (1) és (2) bekezdésben foglaltak kivételével az intézmény önálló szervezeti egységének vezetője, valamint a munkamegosztás szempontjából elkülönült szervezeti egység vezetője.
+
+[^3]: A 8. § (1) bekezdés d) pontját a 75/2010. (III. 25.) Korm. rendelet 3. §-a iktatta be.

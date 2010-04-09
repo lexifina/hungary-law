@@ -1,24 +1,24 @@
-## I. Vezetői pótlékok az egészségügyi ágazatban
+## „I. Vezetői pótlékok az egészségügyi ágazatban
 
-## 1. Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének pótléka
+## 1. Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének, valamint az egészségügyi közszolgáltató költségvetési szerv vezető testülete tagjainak pótléka
 
 ## a) gyógyító-megelőző ellátást biztosító intézetben a pótlékalap 300%-a,
 
-## b) gyógyító-megelőző ellátást közvetlenül nem biztosító intézetekben a pótlékalap 200%-a
+## b) gyógyító-megelőző ellátást közvetlenül nem biztosító intézetekben a pótlékalap 200%-a.
 
-## 2. Az önkormányzatok által fenntartott intézetek intézményvezetőjének pótléka
+## 2. Az önkormányzatok által fenntartott intézetek intézményvezetőjének, valamint az egészségügyi közszolgáltató költségvetési szerv vezető testülete tagjainak pótléka
 
 ## a) gyógyító-megelőző fekvőbeteg-ellátást biztosító intézményben a pótlékalap 250%-a,
 
-## b) az ágazati feladatok ellátásában részt vevő egyéb egészségügyi intézményben (szolgálatnál) a pótlékalap 200%-a
+## b) az ágazati feladatok ellátásában részt vevő egyéb egészségügyi intézményben (szolgálatnál) a pótlékalap 200%-a.
 
-## 3. Az országos feladatot ellátó, országos és állami intézetekben, az önkormányzatok által fenntartott gyógyító-megelőző fekvőbeteg-ellátást biztosító intézményekben
+## 3. Az országos feladatot ellátó, országos és állami intézetekben, az önkormányzatok által fenntartott gyógyító-megelőző fekvőbeteg-ellátást biztosító intézményekben,
 
-## a) az intézményvezető helyettese(i) (ideértve a nem önálló járóbeteg-ellátó intézetek vezetőit is) és az önállóan gazdálkodó intézmény gazdasági vezetője esetében a pótlékalap 150%-a,
+## a) az intézményvezető helyettese (helyettesei) (ideértve a nem önálló járóbeteg-ellátó intézetek vezetőit is), az önállóan működő és gazdálkodó intézmény gazdasági vezetője, esetében a pótlékalap 150%-a,
 
 ## b) szervezeti egységek, részlegek vezetői, egyéb vezetői esetében a pótlékalap 100%-a,
 
-## c) a gyógyító-megelőző ellátást közvetlenül nem nyújtó intézetekben, az ágazati feladatok ellátásában részt vevő egyéb egészségügyi intézményben (szolgálatnál) a pótlékalap 100%-a.
+## c) valamennyi közalkalmazott esetében a gyógyító-megelőző ellátást közvetlenül nem nyújtó intézetekben, az ágazati feladatok ellátásában részt vevő egyéb egészségügyi intézményben (szolgálatnál) a pótlékalap 100%-a.
 
 ## II. Vezetői pótlékok az igazságügyi és rendészeti miniszter ágazati irányítása alá tartozó fegyveres szerveknél
 
@@ -36,7 +36,7 @@
 
 ## c) alosztályvezető: a pótlékalap 100%-a
 
-4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez
+4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^16]
 
 A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztályokba sorolása
 
@@ -48,7 +48,7 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | A | B | C | D | E | F | G | H | I | J |
 
-| Vezetői munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
+| I. Vezetői munkakörök: |
 
 | Pályáztatásra kötelezett |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -61,6 +61,8 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 | igazgató (ápolási, orvos) |  |  |  |  |  | * | * | * | * | * |  |
 
 | b) Vezető beosztás |  |  |  |  |  |  |  |  |  |  |  |
+
+| hivatalvezető |  |  |  |  |  |  | * | * | * | * |  |
 
 | rendelőintézet igazgató |  |  |  |  |  |  |  | * | * | * |  |
 
@@ -132,6 +134,8 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | konduktor |  |  |  |  |  | * | * |  |  |  |  |
 
+| vezető közegészségügyi felügyelő |  |  |  |  |  |  | * | * | * |  |  |
+
 | közegészségügyi felügyelő |  |  |  |  |  | * | * | * |  |  |  |
 
 | vegyész |  |  |  |  |  | * | * |  |  |  |  |
@@ -156,6 +160,10 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
+| egészségügyi gázmester |  |  |  | * | * | * |  |  |  |  |  |
+
+| üzemeltetés vezető |  |  |  |  |  | * | * | * |  |  |  |
+
 | főelőadó |  |  |  |  | * | * | * |  |  |  |  |
 
 | előadó |  |  |  | * | * | * |  |  |  |  |  |
@@ -171,6 +179,8 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 | szakoktató |  |  |  | * | * | * |  |  |  |  |  |
 
 | asszisztens |  |  | * | * |  |  |  |  |  |  |  |
+
+| laborasszisztens |  |  |  | * | * |  |  |  |  |  |  |
 
 | ápoló/nő |  |  | * | * | * | * |  |  |  |  |  |
 
@@ -204,7 +214,13 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | gépmester |  |  | * | * | * |  |  |  |  |  |  |
 
-| raktárvezető, raktáros |  |  | * | * | * |  |  |  |  |  |  |
+| raktárvezető |  |  | * | * | * |  |  |  |  |  |  |
+
+| raktárvezető helyettes |  |  |  |  |  |  |  |  |  |  |  |
+
+| raktáros |  | * | * |  |  |  |  |  |  |  |  |
+
+| stúdiós |  |  | * | * |  |  |  |  |  |  |  |
 
 | pénztáros |  |  | * | * | * |  |  |  |  |  |  |
 
@@ -217,3 +233,5 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 | egészségügyi kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
 1 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
+
+[^16]: A 4. melléklet a 75/2010. (III. 25.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

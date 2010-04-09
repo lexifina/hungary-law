@@ -29,3 +29,7 @@ d) a száz százalékban állami, illetve helyi önkormányzati tulajdonú közh
 (5) Az 1992. július 1. előtt kiadott, de már hatályon kívül helyezett jogszabály alapján, a Kjt. 84. § (2) bekezdésére és az R. 17. §-ára figyelemmel megállapított 50%-os mértékű pótlék ezen a jogcímen tovább nem folyósítható.
 
 (6) Az R. 16. § (4) bekezdése alapján – az R. 16. § (2) bekezdésben foglalt munkakörökön túlmenően – megállapított munkahelyi pótlék tekintetében e rendeletre figyelemmel a kollektív szerződést annak hatályossága alatt nem kötelező felülvizsgálni.
+
+(7)[^14] E rendelet 4. mellékletének – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet módosításáról szóló 75/2010. (III. 25.) Korm. rendelet (a továbbiakban: Kr.) 2. melléklet 7. pontjával megállapított – rendelkezéseit a Kr. hatálybalépését követően létesített közalkalmazotti jogviszony esetén kell alkalmazni.
+
+[^14]: A 24. § (7) bekezdését a 75/2010. (III. 25.) Korm. rendelet 9. §-a iktatta be.
