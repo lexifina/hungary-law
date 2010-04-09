@@ -1,0 +1,85 @@
+# A Kormány 108/2010. (IV. 9.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 51. szám, 2010. április 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cb69e147e046b5b916f8aa263ae63efd35c783ac/dokumentumok/74036d370c668a7769e5b2acda98443dfb180d48/letoltes)
+
+---
+
+A Kormány 108/2010. (IV. 9.) Korm. rendelete
+a légiközlekedéssel összefüggő egyes jogszabályok módosításáról
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az 1. és
+a 3. alcím tekintetében az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. §
+(1) bekezdés b) és c) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló
+141/1995. (XI. 30.) Korm. rendelet módosítása
+1. § A légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet
+(a továbbiakban: R1.) a következő 26/A. §-sal egészül ki:
+„26/A. § (1) A Nemzeti Repülésbiztonsági Program alapján kidolgozott, a légiközlekedési hatóság által elfogadott
+Repülésbiztonság-irányítási Rendszert kell működtetnie valamennyi
+a) légiközlekedési szakszemélyzet – kivéve a lajstromozásra nem kötelezett légi járművek vezetői – képzésére
+engedéllyel rendelkező képzési szervezetnek, amelyek szolgáltatásának ellátása közben repülésbiztonsági kockázat
+merülhet fel,
+b) gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légi jármű
+üzemben tartójának,
+c) karbantartó szervezetnek,
+d) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezetnek,
+e) kereskedelmi repülőtér üzemben tartójának.
+(2) A léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló, 2005. december
+20-i 2096/2005/EK bizottsági rendeletben a légiforgalmi szolgálatokra meghatározott Repülésbiztonság-irányítási
+Rendszernek a Nemzeti Repülésbiztonsági Programon kell alapulnia.”
+2. § Az R1. 26. §-át megelőző alcímben az „Az Lt. 64. §-ához” szövegrész helyébe az „Az Lt. 64. §-ához, 65/A. §-ához
+és 66. §-ához” szöveg lép.
+3. § Az R1. 29. §-a helyébe a következő rendelkezés lép:
+„29. § Ez a rendelet
+a) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint
+a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló,
+2008. február 20-i 216/2008/EK európai parlamenti és a tanácsi rendeletnek,
+b) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex)
+létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és a tanácsi rendeletnek,
+c) a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló, 2005. december
+20-i 2096/2005/EK bizottsági rendelet II. melléklet 4. pontjának
+a végrehajtásához szükséges rendelkezéseket állapítja meg.”
+4. § Hatályát veszti az R1. 21. §-a, 21. §-át megelőző alcíme, 22. § (4) bekezdésében a „légi jármű rendszeres használatára
+nem nyilvános” szövegrész.
+2. A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosítása
+5. § A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: R2.) 5. § (5) bekezdése
+a következő 38. és 39. ponttal egészül ki:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„38. elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység
+végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér
+üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási
+Rendszert, valamint ellenőrzi annak működtetését,
+
+39. kiadja a földi kiszolgáláshoz szükséges engedélyt, a földi kiszolgálás feltételeinek és engedélyezési rendjének
+szabályairól szóló jogszabályban foglaltak alapján korlátozza a földi kiszolgálók számát, kiválasztási eljárást folytat le,
+kidolgozza és honlapján közzéteszi a kiválasztási folyamatot és a kiválasztási szempontokat tartalmazó hatósági
+tájékoztatót, különleges intézkedést rendel el, jóváhagyja a repülőtér üzemben tartója által készített, a különleges
+intézkedéseket megalapozó korlátozások felszámolása érdekében készített intézkedési tervet és ellenőrzi annak,
+továbbá a számviteli elkülönítés végrehajtását.”
+6. § (1) Az R2. 10. § (2) bekezdése a következő h) ponttal egészül ki:
+(Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:)
+„h) a Bizottság 2010. február 5-i 127/2010/EU rendelete a légi járművek és repüléstechnikai termékek, alkatrészek
+és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő
+szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról.”
+(2) Az R2. 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ez a rendelet
+a) a közösségi repülőterek földi kiszolgálási piacára való bejutásról szóló, 1996. október 15-i 96/67/EGK tanácsi
+irányelvnek és
+b) a harmadik országok közösségi repülőtereket használó légi járműveinek biztonságáról szóló, 2004. április 21-i
+2004/36/EK európai parlamenti és tanácsi irányelvnek
+való megfelelést szolgálja.”
+3. A közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló
+133/2008. (V. 14.) Korm. rendelet módosítása
+7. § A közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet
+a következő 4/A. §-sal egészül ki:
+„4/A. § A miniszter a közlekedésért való felelőssége körében a repülésbiztonsággal összefüggő tevékenységek
+szervezett irányítása érdekében Nemzeti Repülésbiztonsági Programot működtet,
+a) amely a repülésbiztonság összehangolt irányítása érdekében szükséges stratégiai célokat határozza meg, és
+b) amelyet a polgári légiközlekedésben részt vevő szervezetek hajtanak végre.”
+4. Záró rendelkezések
+8. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+9. § (1) Ez a rendelet a közösségi repülőterek földi kiszolgálási piacára való bejutásról szóló, 1996. október 15-i 96/67/EGK
+tanácsi irányelvnek való megfelelést szolgálja.
+(2) Ez a rendelet a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló, 2005.
+december 20-i 2096/2005/EK bizottsági rendelet II. melléklet 4. pontjának a végrehajtását szolgálja.
+Bajnai Gordon s. k.,
+miniszterelnök

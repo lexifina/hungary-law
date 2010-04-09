@@ -1,0 +1,242 @@
+# A Kormány 107/2010. (IV. 9.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 51. szám, 2010. április 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cb69e147e046b5b916f8aa263ae63efd35c783ac/dokumentumok/74036d370c668a7769e5b2acda98443dfb180d48/letoltes)
+
+---
+
+A Kormány 107/2010. (IV. 9.) Korm. rendelete
+a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások
+fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet
+módosításáról
+A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi
+LXXX. törvény 58. § (1) bekezdés i) és k) pontjában, e rendelet 1. és 2. §-a tekintetében a) pontjában, e rendelet 3. §-a tekintetében
+c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+a Kormány a következőket rendeli el:
+1. §
+A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló
+1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet (a továb biak ban: R.) 5/G. §-a helyébe
+a következő rendelkezés lép:
+„5/G. § (1) A Tbj. 25/A. § b) pontja alkalmazásában nem minősül munkaviszonnyal rendelkezőnek a munkavállaló, ha
+fizetés nélküli szabadságon van.
+(2) A Tbj. 25/A. § c) pontja alkalmazásában öregségi nyugdíjkorhatár alatt a hivatásos állomány tagjai esetében
+a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló tör vény ben és a Magyar Honvédség
+hivatásos és szerződéses állományú katonáinak jogállásáról szóló tör vény ben meghatározott hivatásos szolgálat felső
+korhatárát kell érteni.”
+2. §
+Az R. 16. §-a helyébe a következő rendelkezés lép:
+„16. § (1) A (2) bekezdésben nem említett esetben a külföldi pénznemben keletkezett bevételből a járulékalapot
+a Magyar Nemzeti Bank (a továb biak ban: MNB) hivatalos – a jövedelem megszerzésének napját megelőző hónap
+
+15. napján érvényes – devizaárfolyamának alkalmazásával kell forintra átszámítani. Olyan külföldi pénznem esetén,
+amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot
+kell a forintra történő átszámításhoz figye lembe venni.
+(2) Az (1) bekezdés rendelkezésétől eltérően, ha a külföldi pénznemben keletkezett bevételből az Szja tv. szerinti
+adóelőleg-alap számításnál figye lembe vett jövedelem képezi a járulékalapot, a forintra történő átszámítás
+megegyezik az adóelőleg-alap számításnál figye lembe vett jövedelem megállapításakor az Szja tv. szabályai szerint
+alkalmazott átszámítással.”
+3. §
+Az R. 22. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Az OEP a nyilvántartása szerint taj-számmal rendelkező személyek természetes személyazonosító adatairól,
+lakcíméről, taj-számáról, valamint azok változásáról adatot szolgáltat az ONYF-nek. Az adatok átadásának módjáról
+az OEP és az ONYF megállapodást köt.”
+4. §
+Az R. a 22. §-t köve tően a következő 23–26. §-sal egészül ki:
+„23. § (1) A 24–27/B. § rendelkezéseit
+a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő
+alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet, a szociális biztonsági rendszereknek
+a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet
+végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet,
+az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések által pusztán
+állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi
+rendelet,
+b) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi
+rendelet, a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó
+eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet
+[a továb biak ban a) és b) pont együtt: koordinációs rendeletek] és
+c) a Magyar Köztársaság által kötött szociális biztonsági egyezmény (a továb biak ban: egyezmény)
+által előírt, az alkalmazandó jog meghatározására irányuló eljárásban kell alkalmazni.
+(2) A 26–27/B. § alkalmazásában
+a) munkavállaló: a Tbj. 5. § (1) bekezdés a), b), g), h) pontjában és (2) bekezdésében meghatározott jogviszonyban álló
+személy, a Tbj. szerinti társas vállalkozó, és a külföldi jog szerint annak megfelelő jogviszonyban álló személy,
+b) munkaviszony: az a) pont szerinti személy munkavégzésre irányuló jogviszonya,
+c) munkáltató: az a) pont szerinti személy foglalkoztatója,
+d) önálló vállalkozó: a Tbj. szerinti egyéni vállalkozó, a Tbj. 5. § (1) bekezdés i) pontja szerinti mezőgazdasági
+őstermelő, és a külföldi jog szerint annak megfelelő személy.
+24. § (1) A koordinációs rendeletek és az egyezmény rendelkezései szerinti kiküldetés (a továb biak ban:
+kiküldetés) esetén az alkalmazandó jog meghatározása érdekében a munkáltató – az OEP által erre a célra
+rendszeresített és honlapján közzétett nyomtatványon – a székhelye szerint ille té kes REP-nek az alábbi adatokat
+szolgáltatja:
+a) munkáltató neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
+b) a kiküldött munkavállaló természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, a kérelmet
+benyújtó munkáltatóval fennálló munkaviszony kezdete,
+c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006.
+december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám (egyéni vállalkozó esetén
+szakmakód), amelynek megfelelő tevékenységre a kiküldött munkavállalót a kiküldetés ideje alatt foglalkoztatja,
+d) a külföldi vállalkozás (személy) neve és címe, amelynél a kiküldött munkát végez, vagy ennek hiányában a külföldi
+foglalkoztatás helye (címe), és
+e) a kiküldetés tervezett időtartama.
+(2) A munkáltató nyilatkozik továbbá arról, hogy
+a) a munkavállaló a kiküldetés kezdőnapját megelőzően rendelkezik legalább 30 napi biztosítással,
+b) a kiküldetés időtartama alatt folyamatosan fenntartja a munkaviszonyt a kiküldött munkavállalóval,
+c) a kiküldetés időtartama alatt is folyamatosan teljesíti a járulékkötelezettségeket,
+d) a munkavállalót nem abból a célból küldi ki, hogy egy korábban kiküldött munkavállalót felváltson,
+
+e) a kiküldetési időszak lejártával biztosítja a munkavállaló továbbfoglalkoztatását,
+f) a kiküldetés helye szerinti államban a magyarországi tevékenységéhez hasonló, de legalább azzal – a gazdasági
+tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet,
+valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006.
+december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 1. melléklete szerint – azonos nemzetgazdasági
+ágazatba tartozó tevékenységet folytat,
+g) Magyarországon jelentős gazdasági tevékenységet folytat, és
+h) belföldön nem csak a vállalat irányításában vagy igazgatásában dolgozó irodai alkalmazottakat foglalkoztat.
+(3) A jelentős belföldi gazdasági tevékenység alátámasztására a munkáltató közli
+a) külföldi telephellyel rendelkező vállalkozás esetén a kiküldetést megelőző adóévre vonatkozó összes bevételén
+belül a nem külföldi gazdálkodásból származó összes bevételeit,
+b) egyszerűsített beszámoló készítésére kötelezett gazdálkodó, egyéni vállalkozó, bevételi nyilvántartást vezető
+egyszerűsített vállalkozói adó hatálya alá tartozó adóalany esetén az előző adóévi összes bevételén belül a belföldi
+tevékenységből származó összes bevételeit.
+25. § (1) Kiküldetésnél a magyar jog alkalmazandó jogként való meghatározásának feltétele, hogy a kiküldő
+munkáltató jelentős gazdasági tevékenységet folytasson belföldön.
+(2) Jelentős belföldi gazdasági tevékenység akkor áll fenn, ha
+a) a munkáltató vállalja, hogy a kiküldetés teljes időtartama alatt a belföldi és a külföldi gazdasági tevékenység
+(termelés, forgalmazás és egyéb szolgáltatói tevékenység) folytatása során foglalkoztatott munkavállalók átlagos
+állományi létszámán belül a belföldön foglalkoztatottak aránya eléri, vagy
+b) a 24. § (3) bekezdés a) pontjában említett nem külföldi gazdálkodásból származó bevétel vagy a 24. § (3) bekezdés
+b) pontjában említett belföldi tevékenységből származó bevétel összes bevételen belüli aránya elérte
+a 25 százalékot.
+(3) A magyar jog alkalmazandó jogként meghatározható – a (2) bekezdésben meghatározott feltételek hiányában –
+akkor is, ha a munkáltató olyan tényeket, körülményeket igazol, amelyből a jelentős belföldi gazdasági tevékenység
+ valószínűsíthető (így különösen, ha a vállalkozás belföldön folyamatos termelőtevékenységet végez).
+(4) A jelentős gazdasági tevékenységgel kapcsolatos feltételt teljesítettnek kell tekinteni akkor is, ha a munkáltató
+a) legalább 25 százalékos tulajdoni hányaddal rendelkezik egy olyan vállalkozásban, amelynél teljesül a jelentős
+gazdasági tevékenység feltétele, vagy
+b) a munkáltató jogelődje teljesíti a jelentős gazdasági tevékenység feltételét.
+(5) Nem kell a jelentős gazdasági tevékenységet vizsgálni, ha a munkáltató a munkavállalót a számvitelről szóló
+tör vény szerinti kapcsolt vállalkozásához küldi ki.
+(6) Nem állapítható meg a magyar jog alkalmazandó jogként, ha
+a) a foglalkoztató
+aa) a cégbíróság által jogerősen be nem jegyzett előtársaság, vagy
+ab) a kiküldetés teljes időtartama alatt csak olyan munkavállalókat foglalkoztat belföldön, akik a cég irányításával
+vagy adminisztratív tevékenységével kapcsolatos feladatokat látnak el, vagy
+b) a munkavállaló
+ba) nem rendelkezik a kiküldetés kezdőnapját megelőzően legalább 30 napi biztosítással,
+bb) munkaviszonyának létesítésére azért került sor, hogy a kiküldetés helye szerinti államban a munkáltató által
+korábban kiküldött munkavállalót felváltson,
+bc) korábban ugyanabban az államban volt – a koordinációs rendeletekben, illetve egyezményben – a kiküldetésre
+meghatározott leghosszabb időtartamig kiküldött, és a korábbi kiküldetés lejártától nem telt el 60 nap, vagy
+bd) kiküldetésére azért kerül sor, hogy a kiküldetés helye szerinti vállalkozás a munkavállalót egy másik vállalkozás
+rendelkezésére bocsássa, vagy másik tagállamba küldje tovább.
+26. § (1) Ha az önálló vállalkozó belföldön folytatott vállalkozói tevékenységét átmenetileg a koordinációs rendeletek
+hatálya alá tartozó másik tagállamban vagy egyezményben részes másik államban (a továb biak ban együtt: másik
+állam) folytatja, a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási
+helye vagy vállalkozásának székhelye szerint ille té kes REP-nek – az OEP által erre a célra rendszeresített és honlapján
+közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
+a) természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, vállalkozásának nyilvántartási száma,
+
+b) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006.
+december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett szakmakód,
+amelynek megfelelő tevékenységet a másik államban folytat,
+c) annak a külföldi vállalkozásnak (személynek) a neve és címe, amelynél munkát végez, vagy ennek hiányában
+a külföldön folytatott tevékenység helye (címe), és
+d) a másik államban történő munkavégzés tervezett időtartama.
+(2) A koordinációs rendeletekben, illetve egyezményben előírt feltételek teljesítése esetén a REP alkalmazandó
+jogként meghatározza a magyar jogot és ezt igazolja.”
+5. §
+Az R. 27. §-a helyébe a következő rendelkezés lép:
+„27. § (1) Ha a munkavállaló, az önálló vállalkozó belföldi munkavégzése mellett, azzal egyidejűleg munkavállalóként
+vagy önálló vállalkozóként másik államban is végez munkát, a koordinációs rendeletek vagy az egyezmény
+rendelkezései alapján a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye,
+tartózkodási helye vagy munkáltatójának székhelye szerint ille té kes REP-nek – az OEP által erre a célra rendszeresített
+és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
+a) természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, az önálló vállalkozó nyilvántartási
+száma,
+b) a munkáltató(k) neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
+c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006.
+december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám vagy szakmakód,
+amelynek megfelelő tevékenységet végez a munkavállaló a külföldi munkáltató részére, illetve amelynek megfelelő
+tevékenységet végez az önálló vállalkozó a másik államban,
+d) ha a munkavállaló belföldön és a másik államban is munkavállaló, a belföldi és külföldi munkaviszonyához
+kapcsolódó munkaidő mértéke és munkabér (egyéb díjazás) összege, és azok egymáshoz viszonyított aránya, és
+e) ha az önálló vállalkozó belföldön és a másik államban is önálló vállalkozó, a belföldön és külföldön elért vállalkozói
+bevétel összege, és azok egymáshoz viszonyított aránya.
+(2) Az (1) bekezdés szerinti adatok igazolására a munkavállalónak csatolnia kell a másik államban teljesítendő
+munkavégzés alapjául szolgáló, a munkavégzésre irányuló jogviszony létesítéséről szóló szerződést, az önálló
+vállalkozónak az e tevékenysége folytatásához szükséges, vagy arra való jogosultságot igazoló okiratot.
+(3) Ha a munkavállaló, az önálló vállalkozó belföldön és a másik államban is munkavállaló, illetve önálló vállalkozó,
+a magyar jog alkalmazásának megállapítására a belföldön fennálló lakóhely alapján akkor kerülhet sor, ha
+a) a munkavállaló belföldön fennálló munkaviszonyához kapcsolódó munkaidő vagy munkabér (egyéb díjazás) eléri
+az összes munkaidő, illetve munkabér (díjazás) 25 százalékát,
+b) az önálló vállalkozó belföldön elért bevétele eléri az összes vállalkozói bevételének 25 százalékát.”
+6. §
+Az R. a 27. §-t köve tően a következő 27/A. §-sal és 27/B. §-sal egészül ki:
+„27/A. § (1) Ha a REP alkalmazandó jogként a magyar jogot megállapítja, erről – az erre irányuló kérelem benyújtásától
+számított 22 munkanapon belül – hatósági bizonyítványt (a továb biak ban: igazolás) állít ki, és meghatározza annak
+időbeli hatályát és feltételeit. Az igazolás tanúsítja, hogy a munkavállaló, önálló vállalkozó a másik államban történő
+munkavégzése idején is a magyar társadalombiztosítási jogszabályok hatálya alatt áll.
+(2) Ha a korábbi kiküldetés lejártát követő 60 napon belül a munkáltató ugyanazon munkavállalóját ugyanazon
+államba kívánja kiküldeni, a magyar jog akkor alkalmazható az újabb kiküldetésre, ha annak időtartama a korábbi
+kiküldetéssel együtt sem haladja meg a koordinációs rendeletekben, illetve az egyezményben meghatározott
+leghosszabb időtartamot.
+(3) Ha a kiküldetés legfeljebb 2 hónapig megszakad, azt továbbra is folyamatos kiküldetésnek kell tekinteni.
+(4) Ha a koordinációs rendeletek szerinti kiküldetés egymást köve tően több államba történik, az alkalmazandó jog
+elbírálása és az igazolás kiállítása államonként külön-külön történik.
+(5) Ha az alkalmazandó jog meghatározásának és az arról szóló igazolás kiadásának alapjául szolgáló körülményekben
+olyan változás következik be, amely miatt a biztosítási kötelezettség már nem áll fenn, vagy nem a magyar jog alapján
+áll fenn, vagy pedig érinti az igazolás hatályát (így különösen, ha a kiküldetés tervezett időtartama alatt
+a munkaviszony szünetel vagy megszűnik, vagy az önálló vállalkozó másik államban folytatott tevékenységét
+megszünteti), erről a munkáltató és a munkavállaló, illetve az önálló vállalkozó haladéktalanul tájékoztatja a REP-et,
+amely az igazolást a változás napjától hatálytalanítja.
+
+(6) Ha a REP hivatalból megállapítja, hogy a magyar jog alkalmazásának feltételei az igazolás kiadását köve tően már
+nem teljesülnek vagy eleve nem álltak fenn, az igazolást módosítja, vagy visszavonja, és kezdeményezi a másik
+állambeli biztosítási kötelezettség megállapítását.
+27/B. § (1) A koordinációs rendeletekben és az egyezményben meghatározott szabályok alóli kivétel megállapítását
+a munkáltató és a munkavállaló, illetve az önálló vállalkozó az OEP-től kérheti.
+(2) A kivétel megállapításának akkor lehet helye, ha
+a) a kiküldetés, illetve az önálló vállalkozó átmeneti külföldi tevékenységének időtartama előre láthatóan meghaladja
+a koordinációs rendeletben, illetve az egyezményben meghatározott leghosszabb időtartamot,
+b) kivétel megállapítása hiányában a munkavállalóra, önálló vállalkozóra egyszerre több állam jogát kellene
+alkalmazni, vagy
+c) olyan egyéb, különös méltánylást érdemlő körülmény áll fenn, amely indokolttá teszi a kivétel megállapítását.
+(3) A kérelmező a kérelem benyújtásával egyidejűleg igazolja azokat a tényeket, körülményeket, amelyekre
+tekintettel a kivétel megállapítását kéri.”
+7. §
+Az R. a következő 30. §-sal és 31. §-sal egészül ki:
+„30. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről
+ szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet módosításáról szóló 107/2010.
+(IV. 9.) Korm. rendelettel megállapított
+a) 5/G. § (2) bekezdése a munkavállaló választása szerint 2010. január 1-jétől visszamenőlegesen alkalmazható,
+b) 23–27/B. §-t a 2010. április 30-át köve tően indult ügyekben kell alkalmazni.
+31. § Ez a rendelet a 23–27/B. §-ban
+a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő
+alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet II. címének, a szociális biztonsági rendszereknek
+a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet
+végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet
+III. címének, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések
+által pusztán állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i
+859/2003/EK tanácsi rendelet 1. és 2. cikkének, és
+b) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi
+rendelet II. címének, a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására
+vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet
+II. címének
+végrehajtásához szükséges rendelkezéseket állapít meg.”
+8. §
+Ez a rendelet 2010. május 1-jén lép hatályba és a hatálybalépését követő napon hatályát veszti.
+9. §
+Ez a rendelet a 4–6. §-ban
+a)
+a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő
+alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet II. címének, a szociális biztonsági
+rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló
+1408/71/EGK rendelet végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i
+574/72/EGK tanácsi rendelet III. címének, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely
+harmadik ország e rendelkezések által pusztán állampolgárságuk okán nem érintett állampolgáraira való
+kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi rendelet 1. és 2. cikkének, és
+b)
+a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti
+és tanácsi rendelet II. címének, a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet
+végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti
+és tanácsi rendelet II. címének
+végrehajtásához szükséges rendelkezéseket állapít meg.
+Bajnai Gordon s. k.,
+miniszterelnök
