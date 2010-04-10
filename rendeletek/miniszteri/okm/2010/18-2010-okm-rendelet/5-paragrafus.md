@@ -1,0 +1,5 @@
+5. § (1) A támogatásban részesített önkormányzatok összesített adatait az OKM 2010. július 31-ig utalványozás céljából az önkormányzat KSH kódjának, településtípus nélküli megnevezésének és az ezer forintra kerekített támogatási összegnek a feltüntetésével papír alapon és elektronikus úton – az ebr42 rendszerben – is megküldi az ÖM részére. A támogatás folyósításáról az ÖM utalványozása alapján a Magyar Államkincstár az augusztus havi nettó finanszírozás keretében egy összegben intézkedik.
+
+(2) A támogatásban részesített közoktatási humánszolgáltatók egyösszegű finanszírozásához a fedezetet az OKM az Igazgatóság részére a 2010. októberi normatíva átutalásához szükséges kerettel egyidejűleg biztosítja a költségvetési törvény XX. fejezet, 11. cím, 2. alcím, 3. jogcímcsoport „Közoktatási célú humánszolgáltatás és kiegészítő támogatás” előirányzata terhére.
+
+(3) A központi költségvetési szervként működő felsőoktatási intézmények számára az e rendelet alapján megítélt támogatás folyósításáról a fenntartójuk a költségvetési törvény XX. fejezet, 11. cím, 2. alcím, 17. jogcímcsoport „Gyakorlóiskolák normatív támogatása” előirányzat terhére gondoskodik.

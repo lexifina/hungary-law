@@ -1,0 +1,15 @@
+2. § (1) A fenntartó a támogatási igényt papír alapon kettő eredeti példányban postai úton, továbbá elektronikusan is az 1. mellékletben foglalt adatlapok megküldésével legkésőbb 2010. április 16-ig nyújthatja be, a helyi önkormányzatok a Magyar Államkincstár területileg illetékes szervéhez (a továbbiakban: Igazgatóság), a közoktatási humánszolgáltatók és a központi költségvetési szervként működő felsőoktatási intézmények az Oktatási és Kulturális Minisztérium Támogatáskezelő Igazgatóságához (a továbbiakban: OKM Támogatáskezelő). Az elektronikus benyújtás kizárólag az OKM Támogatáskezelő honlapján található, erre a célra kialakított elektronikus rendszeren keresztül történik.
+
+(2) Amennyiben a fenntartó az igénylési határidőt önhibáján kívül elmulasztotta, az elmulasztott határidőtől számított öt munkanapon belül igazolási kérelmet nyújthat be. Az igazolási kérelemmel egyidejűleg az elmulasztott igénylést is pótolni kell. Az igazolási kérelem benyújtására nyitva álló határidő elmulasztása jogvesztő.
+
+(3) A támogatás felhasználható
+
+a) az alapfokú művészetoktatási intézmény vagy alapfokú művészetoktatási tevékenységet ellátó intézményegység, tagintézmény működési jellegű kiadásainak (személyi juttatások és munkaadókat terhelő járulékok, dologi kiadások, egyéb működési célú kiadások) fedezésére, valamint
+
+b) olyan tevékenység finanszírozására, amely új vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszközök létrehozására irányul, valamint a meglevő tárgyi eszközök műszaki, technikai paramétereinek korszerűsítését valósítja meg (fejlesztés) az alapfokú művészetoktatási intézményben vagy az alapfokú művészetoktatási tevékenységet ellátó intézményegységben, tagintézményben.
+
+(4) Az elnyert támogatás legalább 50%-át a (3) bekezdés b) pontjában foglaltak szerinti tárgyi eszközök beszerzésére kell fordítani, különös tekintettel az alapfokú művészetoktatás követelményei és tantervi programjának bevezetéséről és kiadásáról szóló 27/1998. (VI. 10.) MKM rendeletben előírtak megvalósulását szolgáló, az oktatás-neveléshez szükséges felszerelések, taneszközök korszerűsítésére és beszerzésére.
+
+(5) Az elnyert támogatást a miniszteri döntést követően 2010. december 31-ig lehet felhasználni, a 2010. december 31-én – az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 72. § (1) bekezdésében szabályozott – kötelezettségvállalással terhelt maradvány 2011. június 30-ig használható fel.
+
+(6) A fenntartó a támogatási összeget a 4. § (6) bekezdés alapján meghozott miniszteri döntés szerint köteles felhasználni, és csak arra a közoktatási intézményére fordíthatja, amelyre a támogatást elnyerte, a fenntartó döntése alapján az eszközöket a közoktatási intézmény is beszerezheti. Azok a fenntartók, amelyek e rendelet alapján több, általuk fenntartott intézmény vonatkozásában részesülnek támogatásban, a különböző intézmények tevékenységére tekintettel elnyert támogatást az intézmények között nem csoportosíthatják át. A támogatást abban az intézményben kell felhasználni, és arra a célra, amely intézmény tevékenységére tekintettel a támogatás megállapításra került.
