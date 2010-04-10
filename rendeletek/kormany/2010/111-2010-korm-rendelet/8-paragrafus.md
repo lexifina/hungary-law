@@ -1,0 +1,15 @@
+## 3. A szakmai vizsgát szervező intézménnyel szemben kiszabható bírság
+
+8. §[^8] (1) A szakképesítésért felelős miniszter a teljes munkaidőben foglalkoztatott munkavállaló jogszabály szerinti kötelező legkisebb munkabér (a továbbiakban: minimálbér) havi összege ötszörösének megfelelő mértékű bírságot szab ki, ha a vizsgaszervező intézmény a szakmai vizsga szakmai ellenőrzése során feltárt jogszabálysértést a szakképesítésért felelős miniszter az Szt. szerinti intézkedése ellenére nem szüntette meg.
+
+(2) A Hivatal a minimálbér havi összege hétszeresének megfelelő mértékű bírságot szab ki, ha a vizsgaszervező intézmény a törzslapok megküldésére, vagy kijavítására vonatkozó kötelezettségének a Hivatal az Szt. szerinti intézkedése ellenére nem tett eleget.
+
+(3) A Hivatal a minimálbér havi összege ötszörösének megfelelő mértékű bírságot szab ki, ha a vizsgaszervező intézmény a vizsgaszervezéssel összefüggő tevékenységének ellenőrzése során feltárt, a (2) bekezdés alá nem tartozó egyéb jogszabálysértést a Hivatal az Szt. szerinti intézkedése ellenére nem szüntette meg.
+
+(4) A Hivatal a szakmai vizsga szervezésére jogosító engedély hiányában vizsgaszervezési tevékenységet folytató intézménnyel szemben a minimálbér havi összege tízszeresének megfelelő mértékű bírságot szab ki.
+
+(5) A Hivatal által kiszabott bírságot a Munkaerőpiaci Alap (a továbbiakban: MPA) lebonyolítási számlájára kell befizetni. A befizetett bírság összege az MPA képzési alaprészét illeti meg.
+
+(6) A szakképesítésért felelős miniszter által kiszabott bírságot az általa vezetett minisztérium Igazgatási számlájára kell befizetni.
+
+[^8]: A 8. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
