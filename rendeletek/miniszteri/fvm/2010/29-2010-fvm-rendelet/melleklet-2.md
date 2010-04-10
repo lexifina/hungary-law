@@ -6,7 +6,7 @@
 
 | 1. | spárga | ZOL14 |  |
 
-| 2. | fűszerpaprika | ZOL 27 |  |
+| 2. | fűszerpaprika | AGF01 |  |
 
 | 3. | torma | ZOL 36 |  |
 
@@ -24,7 +24,7 @@
 
 | 10. | alma | ULT01 | 800 |
 
-| 11. | szilva | UKLT06 | 400 |
+| 11. | szilva | ULT06 | 400 |
 
 2. melléklet a 29/2010. (III. 30.) FVM rendelethez
 
