@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-199-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 1998-199-20-22.8 | 199/1998. (XII. 4.) Korm. rendelet |
+| 2010-04-10 | 1998-199-20-22.9 | 103/2010. (IV. 7.) Korm. rendelet |

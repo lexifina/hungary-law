@@ -32,7 +32,11 @@ h) naprakész nyilvántartást vezet azokról az oktatókról, akik pályázat a
 
 i)[^34] ellátja mindazokat a továbbképzéssel, vezetőképzéssel kapcsolatos feladatokat, amelyekkel a Miniszterelnöki Hivatalt vezető miniszter esetenként megbízza;
 
-j)[^35] ellátja a közigazgatás személyi állományával kapcsolatos kormányzati távoktatási központ feladatait.
+j)[^35] ellátja a közigazgatás személyi állományával kapcsolatos kormányzati távoktatási központ feladatait;
+
+k)[^36] a tárgyévet követő április 30-ig értékelő jelentést készít a közigazgatási továbbképzés rendszerének működéséről a miniszter számára,
+
+l)[^37] működteti a közigazgatási versenyvizsga- és képzésmenedzsment rendszert.
 
 [^28]: A 13. § (1) bekezdése a 279/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdésének e) pontja, a 252/2008. (X. 14.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg.
 [^29]: A 13. § (2) bekezdése a 279/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdésének e) pontja szerint módosított szöveg.
@@ -42,3 +46,5 @@ j)[^35] ellátja a közigazgatás személyi állományával kapcsolatos kormány
 [^33]: A 13. § (4) bekezdésének b) pontja a 279/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdésének e) pontja szerint módosított szöveg.
 [^34]: A 13. § (4) bekezdésének i) pontja a 279/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdésének e) pontja szerint módosított szöveg.
 [^35]: A 13. § (4) bekezdésének j) pontját a 234/2001. (XII. 10.) Korm. rendelet 9. §-ának (2) bekezdése iktatta a szövegbe.
+[^36]: A 13. § (4) bekezdés k) pontját a 103/2010. (IV. 7.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^37]: A 13. § (4) bekezdés l) pontját a 103/2010. (IV. 7.) Korm. rendelet 21. § (2) bekezdése iktatta be.

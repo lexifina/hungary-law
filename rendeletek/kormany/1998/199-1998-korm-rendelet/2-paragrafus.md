@@ -8,7 +8,7 @@
 
 a) a közigazgatási gyakornoki felkészítés,
 
-b)[^2] a közigazgatási alapvizsgára felkészítés (felkészülés),
+b)[^3] a közigazgatási alapvizsgára felkészítés (felkészülés),
 
 c) a közigazgatási szakvizsgára felkészítés (felkészülés),
 
@@ -22,7 +22,7 @@ g) közigazgatási vezetőképzés, vezető-továbbképzés (a továbbiakban egy
 
 h) a hazai vagy külföldi ösztöndíj, tanulmányút, hazai vagy nemzetközi konferencia, tapasztalatcsere, képesség- és készségfejlesztő tréning,
 
-i)[^3] a köztisztviselők Európai Uniós felkészítésével kapcsolatos továbbképzés;
+i)[^4] a köztisztviselők Európai Uniós felkészítésével kapcsolatos továbbképzés;
 
 3. iskolarendszerű továbbképzés: a közoktatás területén középiskolában, szakiskolában magasabb iskolai végzettség, illetve második vagy további szakképesítés megszerzésére irányuló képzés, a felsőoktatásban második vagy további alapképzés, kiegészítő alapképzés, akkreditált iskolai rendszerű felsőfokú szakképzés, szakirányú továbbképzés, tudományos továbbképzés;
 
@@ -30,8 +30,8 @@ i)[^3] a köztisztviselők Európai Uniós felkészítésével kapcsolatos tová
 
 5. vezetőképzés: a vezető-utánpótlásként számításba vett köztisztviselő felkészítése képzés keretében a vezetői feladatok ellátására;
 
-6.[^4] vezető továbbképzés: vezető köztisztviselők szakmai, vezetési, szervezési, személyiségfejlesztő tárgykörű iskolarendszerű vagy iskolarendszeren kívüli képzése, továbbképzése, a nemzetközi közigazgatási programok keretében szervezett továbbképzések és tanulmányutak.
+6.[^5] vezető továbbképzés: vezető köztisztviselők szakmai, vezetési, szervezési, személyiségfejlesztő tárgykörű iskolarendszerű vagy iskolarendszeren kívüli képzése, továbbképzése, a nemzetközi közigazgatási programok keretében szervezett továbbképzések és tanulmányutak.
 
-[^2]: A 2. § 2. b) pontja a 234/2001. (XII. 10.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 2. pontjának i) alpontját a 234/2001. (XII. 10.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^4]: A 2. § 6. pontja a 234/2001. (XII. 10.) Korm. rendelet 2. §-ának (3) bekezdésével megállapított szöveg.
+[^3]: A 2. § 2. b) pontja a 234/2001. (XII. 10.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 2. pontjának i) alpontját a 234/2001. (XII. 10.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^5]: A 2. § 6. pontja a 234/2001. (XII. 10.) Korm. rendelet 2. §-ának (3) bekezdésével megállapított szöveg.
