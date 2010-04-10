@@ -18,7 +18,7 @@
 
 | vizsgáztató bizottság elnöke |
 
-3. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^43]
+3. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^44]
 
 ## A közigazgatási szakvizsga kötelező és választható vizsgatárgyai
 
@@ -40,4 +40,4 @@
 
 – önkormányzati közigazgatás (így különösen az önkormányzatok feladatrendszere – ideértve államigazgatási feladataikat is – a testületek működtetése, a helyi közszolgáltatások igazgatása, a helyi jogalkotás, az önkormányzati költségvetés és gazdálkodás).
 
-[^43]: A 3. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^44]: A 3. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.

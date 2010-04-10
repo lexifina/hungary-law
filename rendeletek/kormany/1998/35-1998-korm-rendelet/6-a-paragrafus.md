@@ -8,6 +8,9 @@
 
 (5)[^30] A munkáltató a köztisztviselőt a felkészítő tanfolyam időtartamára köteles mentesíteni a munkavégzés alól, aki erre az időre illetményére jogosult.
 
+(6)[^31] A felkészítő tanfolyamon való részvétel a vizsgára bocsátásnak nem feltétele.
+
 [^28]: A 6/A. §-t a 107/2001. (VI. 21.) Korm. rendelet 6. §-a iktatta a szövegbe.
 [^29]: A 6/A. § (1) bekezdése a 235/2001. (XII. 10.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított és a 279/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdésének b) pontja szerint módosított szöveg.
 [^30]: A 6/A. § (5) bekezdése a 235/2001. (XII. 10.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^31]: A 6/A. § (6) bekezdését a 103/2010. (IV. 7.) Korm. rendelet 19. § (1) bekezdése iktatta be.
