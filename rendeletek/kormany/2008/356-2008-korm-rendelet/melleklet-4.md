@@ -214,9 +214,7 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | gépmester |  |  | * | * | * |  |  |  |  |  |  |
 
-| raktárvezető |  |  | * | * | * |  |  |  |  |  |  |
-
-| raktárvezető helyettes |  |  |  |  |  |  |  |  |  |  |  |
+| raktárvezető, raktárvezető helyettes |  |  | * | * | * |  |  |  |  |  |  |
 
 | raktáros |  | * | * |  |  |  |  |  |  |  |  |
 
@@ -234,4 +232,4 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 1 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
 
-[^16]: A 4. melléklet a 75/2010. (III. 25.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 4. melléklet a 75/2010. (III. 25.) Korm. rendelet 10. § (2) bekezdése, a 111/2010. (IV. 9.) Korm. rendelet 15. §-a szerint módosított szöveg.
