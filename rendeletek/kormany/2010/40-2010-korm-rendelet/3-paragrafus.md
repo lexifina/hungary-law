@@ -1,4 +1,4 @@
-## 3. § A szakmai kollégium
+## 3. §[^4] A Kollégium
 
 a) véleményezi
 
@@ -18,4 +18,7 @@ b) véleményezi a KSZK éves beszámolóját,
 
 c) lefolytatja a felvételi eljárást, dönt a felvételről, valamint
 
-d) tevékenységéről tájékoztatja a Közigazgatási Továbbképzési Kollégiumot.
+d)[^5]
+
+[^4]: A 3. § nyitó szövegrésze a 103/2010. (IV. 7.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 3. § d) pontját a 103/2010. (IV. 7.) Korm. rendelet 22. § (4) bekezdése hatályon kívül helyezte.

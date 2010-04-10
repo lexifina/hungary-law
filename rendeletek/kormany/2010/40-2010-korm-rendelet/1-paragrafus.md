@@ -2,6 +2,9 @@
 
 1. § (1) Az állami közigazgatási felsővezetői képzés kialakításáért, működtetéséért, valamint fejlesztéséért a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter (a továbbiakban: miniszter) felel.
 
-(2) A miniszternek az (1) bekezdés szerinti tevékenységét segítő, tanácsadó, véleményező, javaslattevő szakértői testülete az állami közigazgatási felsővezetői képzési szakmai kollégium (a továbbiakban: szakmai kollégium). A szakmai kollégium titkársági feladatait a miniszter által vezetett központi államigazgatási szerv köztisztviselői közül kijelölt titkár látja el.
+(2)[^2] A miniszternek az (1) bekezdés szerinti tevékenységében a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ (a továbbiakban: KSZK), valamint a Közigazgatási Továbbképzési Kollégium (a továbbiakban: Kollégium) közreműködik.
 
-(3) A szakmai kollégium legfeljebb hét tagból áll. A szakmai kollégium tagja a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ (a továbbiakban: KSZK) vezetője, a többi tagot – a KSZK vezetőjének javaslata alapján – a miniszter kéri fel öt éves időtartamra. A miniszter valamely tag helyett bármikor új tagot kérhet fel.
+(3)[^3]
+
+[^2]: Az 1. § (2) bekezdése a 103/2010. (IV. 7.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdését a 103/2010. (IV. 7.) Korm. rendelet 22. § (4) bekezdése hatályon kívül helyezte.

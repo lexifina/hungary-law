@@ -6,8 +6,10 @@ b) felsőfokú végzettséggel, valamint a központi államigazgatásban legalá
 
 c) közigazgatási területen tudományos fokozattal, vagy legalább hétéves, kutatóintézetben szerzett tapasztalattal rendelkezik, vagy
 
-d) egyéb különleges tudományos vagy szakmai tapasztalatára tekintettel felkérésére a szakmai kollégium javaslatot tesz.
+d)[^10] egyéb különleges tudományos vagy szakmai tapasztalatára tekintettel felkérésére a Kollégium javaslatot tesz.
 
 (2) Az oktatókat a képzést folytató intézmény oktatói kivételével a miniszter kéri fel.
 
 (3) Az oktatók jegyzékét a KSZK a honlapján közzéteszi.
+
+[^10]: A 10. § (1) bekezdés d) pontja a 103/2010. (IV. 7.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg.
