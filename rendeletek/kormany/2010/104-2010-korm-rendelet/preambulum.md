@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 6/A. § b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében a következőket rendeli el:
