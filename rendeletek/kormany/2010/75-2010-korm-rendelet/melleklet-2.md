@@ -22,7 +22,7 @@
 
 ## c) valamennyi közalkalmazott esetében a gyógyító-megelőző ellátást közvetlenül nem nyújtó intézetekben, az ágazati feladatok ellátásában részt vevő egyéb egészségügyi intézményben (szolgálatnál) a pótlékalap 100%-a.”
 
-2. melléklet a 75/2010. (III. 25.) Korm. rendelethez
+2. melléklet a 75/2010. (III. 25.) Korm. rendelethez[^2]
 
 1. Az R. 4. számú melléklete „Vezetői munkakörök” sor helyébe a következő rendelkezés lép:
 
@@ -66,15 +66,7 @@
 
 |  |  |  |  |  |  |  |  |  |  |  | ” |
 
-6. Az R. 4. számú melléklete a „II. Egészségügyi munkakörök, b) Szakalkalmazottak, Pályáztatás alól mentesített, raktárvezető, raktáros” sor helyébe a következő rendelkezés lép:
-
-„
-
-| raktárvezető |  |  | * | * | * |  |  |  |  |  |  |
-
-| raktárvezető helyettes |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  | ” |
+6.
 
 7. Az R. 4. számú melléklete a „II. Egészségügyi munkakörök, b) Szakalkalmazottak, Pályáztatás alól mentesített, raktárvezető, raktáros” sort követően a következő rendelkezéssel egészül ki:
 
@@ -85,3 +77,5 @@
 | stúdiós |  |  | * | * |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  |  |  |  |  | ” |
+
+[^2]: A 2. melléklet a 111/2010. (IV. 9.) Korm. rendelet 17. §-a szerint módosított szöveg.
