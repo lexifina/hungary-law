@@ -1,3 +1,0 @@
-## 1. § A környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló 33/2005. (XII. 27.) KvVM rendelet módosításáról szóló 4/2010. (II. 25.) KvVM rendelet 1. melléklet I. pont 24.7.2.1. alpontjának a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló 33/2005. (XII. 27.) KvVM rendelet 1. melléklet I. pont 20.5.1. pontját módosító rendelkezése a „10 000 001–100 000 000 Ft” szövegrész helyett a „0–100 000 000 Ft” szöveggel lép hatályba.
-
-2. § E rendelet 2010. április 10. napján lép hatályba, és a hatálybalépését követő napon hatályát veszti.
