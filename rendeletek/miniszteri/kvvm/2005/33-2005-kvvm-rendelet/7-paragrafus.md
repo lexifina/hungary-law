@@ -1,1 +1,0 @@
-## értelemszerűen kell alkalmazni azzal az eltéréssel, hogy ahol a törvény „illetékhivatalt” említ azon az „eljárásra illetékes és hatáskörrel rendelkező közigazgatási szervet”, ahol „illetéket” említ azon „díjat”, ahol „leletet” említ azon „jegyzőkönyvet” kell érteni.
