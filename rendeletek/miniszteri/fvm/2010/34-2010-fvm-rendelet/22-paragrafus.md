@@ -1,1 +1,3 @@
-## 21. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló 36/2009. (IV. 3.) FVM rendelet (a továbbiakban: R.).
+## 20–21. §[^1]
+
+[^1]: A 20–21. §-t a 23. § (1) bekezdése hatályon kívül helyezte.
