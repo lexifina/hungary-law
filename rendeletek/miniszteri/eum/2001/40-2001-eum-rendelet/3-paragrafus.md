@@ -12,8 +12,8 @@ c) a gyártandó kozmetikai termék 1. számú melléklet szerinti terméktípus
 
 d) a termékinformációs dokumentáció tárolási helyét.
 
-(4)[^16] A kistérségi intézet a gyártási tevékenység bejelentésének nyilvántartásba vételéhez kiegészítő adatokat kérhet, illetőleg helyszíni ellenőrzést végezhet, a nyilvántartásba vételről a bejelentőt értesíti.
+(4)[^16]
 
 [^14]: A 3. § az 5/2004. (II. 10.) ESZCSM rendelet 3. §-ával megállapított szöveg.
 [^15]: A 3. § (1) bekezdése a 27/2007. (VI. 11.) EüM rendelet 5. § (4) bekezdésének a) pontja szerint módosított szöveg.
-[^16]: A 3. § (4) bekezdése a 27/2007. (VI. 11.) EüM rendelet 5. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^16]: A 3. § (4) bekezdését a 14/2010. (IV. 7.) EüM rendelet 8. § a) pontja hatályon kívül helyezte.

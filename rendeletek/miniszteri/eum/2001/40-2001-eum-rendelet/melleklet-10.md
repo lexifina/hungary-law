@@ -1,32 +1,28 @@
 ## Kozmetikai termék bejelentéséhez, kozmetikai termékkel kapcsolatos kérelemhez szükséges adatok
 
-## I. A kozmetikai termék bejelentéséhez (nyilvántartásba vételi eljárásához) szükséges adatok
+## I.[^91] A kozmetikai termék bejelentéséhez (nyilvántartásba vételi eljárásához) szükséges adatok
 
 ## 1. A bejelentő (cég) neve, címe, telephelye (elérhetősége).
 
 ## 2. Az előállító (cég) neve, címe, telephelye (elérhetősége).
 
-## 3. A termék(ek)
+## 3. A termék (termékek)
 
-## – megnevezése,
+## a) megnevezése,
 
-## – rendeltetése,
+## b) rendeltetése,
 
-## – csomagolási egysége(i).
+## c) csomagolási egysége (egységei).
 
-## –
+## 4. Annak ténye, hogy a terméket (termékeket) Magyarországon gyártották-e.
 
-## 4. A termék(ek)et Magyarországon gyártották:
+## 5. Annak ténye, hogy a terméket (termékeket) Magyarországon hozták-e be először az Európai Gazdasági Térség területére.
 
-## igen nem
+## 6. Az 5. § (1) bekezdésében előírt adatok hozzáférhetőségi helye, a cég neve, címe (ország, város, utca, házszám), kontakt személy neve, telefon-/faxszáma, és – ha van – elektronikus levélcíme.
 
-## 5. A termék(ek)et Magyarországon hozták be először az Európai Gazdasági Térség területére:
+## 7. A kiállító neve, címe, a kiállítás kelte, cégszerű aláírás.
 
-## igen nem
-
-## 6. Az 5. § (1) bekezdésben előírt adatok hozzáférhetőségi helye, a cég neve, címe – ország, város, utca, házszám –, kontakt személy neve, telefon-/faxszáma.
-
-## 7. A kiállító neve, címe, a kiállítás dátuma, cégszerű aláírás, bélyegző.
+## 8. A termék eredeti címkéje, vagy annak – olvasható – másolata, elektronikus fényképe, vagy a címke teljes adattartalma.
 
 ## II. A kozmetikai termék 7. § (2) bekezdés szerinti összetevő engedélyezése iránti kérelemhez szükséges adatok
 
@@ -72,6 +68,7 @@
 
 ## 7. Annak ismertetése, hogy az Európai Unió bármely tagállamában nyújtottak-e be titkosítási kérelmet az adott összetevővel kapcsolatban, illetve a meghozott döntés.
 
-10. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^86]
+10. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^92]
 
-[^86]: A 10. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette; újonnan beiktatta a 3/2004. (XI. 17.) EüM rendelet 4. § (3) bekezdése
+[^91]: A 9. számú melléklet I. pontja a 14/2010. (IV. 7.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^92]: A 10. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette; újonnan beiktatta a 3/2004. (XI. 17.) EüM rendelet 4. § (3) bekezdése

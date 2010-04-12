@@ -1,6 +1,6 @@
-## Az állatkísérletek jóváhagyott alternatív módszereinek jegyzéke[^87]
+## Az állatkísérletek jóváhagyott alternatív módszereinek jegyzéke[^93]
 
-## A Közös Kutatóközpont Alternatív Módszerek Validálásával Foglalkozó Európai Központja (ECVAM) által jóváhagyott, külön jogszabályban nem szereplő módszerek:[^88]
+## A Közös Kutatóközpont Alternatív Módszerek Validálásával Foglalkozó Európai Központja (ECVAM) által jóváhagyott, külön jogszabályban nem szereplő módszerek:[^94]
 
 ## Hivatkozási szám A
 
@@ -8,7 +8,7 @@
 
 ## A helyettesítés teljes vagy részleges C
 
-11. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^89]
+11. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^95]
 
 A kozmetikai termékeken az állatkísérletek hiányára vonatkozó tájékoztatókkal kapcsolatos iránymutatásokról
 
@@ -50,6 +50,6 @@ b) „nem bíztak meg harmadik személyt az állatkísérlet elvégzésével”:
 
 Bármely személy, aki tájékoztatót kíván használni annak jelölésére, hogy nem végeztek állatkísérletet, szabadon választhatja meg a tájékoztató szövegezését, illetve használhat bármely figuratív képet vagy egyéb jelet, amennyiben az R. minden idevágó követelménye teljesül.
 
-[^87]: Az alternatív módszerek feltüntetésére a közösségi jegyzékbe történő felvételt követően kerül sor.
-[^88]: A 10. számú melléklet bevezető szövege a 48/2006. (XII. 28.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^89]: A 11. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette, újonnan a 48/2006. (XII. 28.) EüM rendelet 6. § (3) bekezdése iktatta be.
+[^93]: Az alternatív módszerek feltüntetésére a közösségi jegyzékbe történő felvételt követően kerül sor.
+[^94]: A 10. számú melléklet bevezető szövege a 48/2006. (XII. 28.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^95]: A 11. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette, újonnan a 48/2006. (XII. 28.) EüM rendelet 6. § (3) bekezdése iktatta be.

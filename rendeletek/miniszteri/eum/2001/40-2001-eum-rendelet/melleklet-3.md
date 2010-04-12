@@ -584,7 +584,7 @@
 
 ## 292. Metirapon*
 
-## 293. A 96/29/Euratom[^78] irányelvben meghatározott radioaktív anyagok
+## 293. A 96/29/Euratom[^83] irányelvben meghatározott radioaktív anyagok
 
 ## Az irányelv a dolgozók és a lakosság egészségének védelme érdekében alapvető biztonsági szabályokat fektet le az ionizáló sugárzásból származó veszélyekkel szemben
 
@@ -2798,7 +2798,7 @@
 
 ## * Ebben a mellékletben a csillaggal jelzett nevek közlésre kerültek a Gyógyszeripari Termékek Nemzetközi Nem Védjegyzett Nevek (INN), Javasolt Nemzetközi Nem Védjegyzett Nevek 1–33 listán, WHO, Genf, 1975. augusztus.
 
-3. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^79]
+3. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^84]
 
-[^78]: OJ L 159, 29.6.1996, p.1.
-[^79]: A 3. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (3) bekezdésével megállapított, valamint a 14. § (9) bekezdése szerint módosított szöveg. A 3. számú melléklet a 3/2004. (XI. 17.) EüM rendelet 4. § (2) bekezdése és 5. § (3)–(4) bekezdése, a 61/2005. (XII. 20.) EüM rendelet 2. § (1)–(2) bekezdése, a 17/2006. (IV. 19.) EüM rendelet 4. § (2) bekezdése és (3) bekezdésének b)–c) pontja, a 48/2006. (XII. 28.) EüM rendelet 6. § (1) bekezdése, a 47/2007. (X. 31.) EüM rendelet 4. § (1) bekezdése, a 3/2008. (I. 11.) EüM rendelet 3. §-a, 4. § (6)–(7) bekezdése, a 37/2008. (IX. 26.) EüM rendelet 4. §-a, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés a)–b) pontja, a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^83]: OJ L 159, 29.6.1996, p.1.
+[^84]: A 3. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (3) bekezdésével megállapított, valamint a 14. § (9) bekezdése szerint módosított szöveg. A 3. számú melléklet a 3/2004. (XI. 17.) EüM rendelet 4. § (2) bekezdése és 5. § (3)–(4) bekezdése, a 61/2005. (XII. 20.) EüM rendelet 2. § (1)–(2) bekezdése, a 17/2006. (IV. 19.) EüM rendelet 4. § (2) bekezdése és (3) bekezdésének b)–c) pontja, a 48/2006. (XII. 28.) EüM rendelet 6. § (1) bekezdése, a 47/2007. (X. 31.) EüM rendelet 4. § (1) bekezdése, a 3/2008. (I. 11.) EüM rendelet 3. §-a, 4. § (6)–(7) bekezdése, a 37/2008. (IX. 26.) EüM rendelet 4. §-a, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés a)–b) pontja, a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg.

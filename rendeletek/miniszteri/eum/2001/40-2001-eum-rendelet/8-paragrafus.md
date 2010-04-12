@@ -1,6 +1,6 @@
 8. § (1) A kozmetikai terméket olyan külső, illetve közvetlen csomagolással kell ellátni, amely
 
-a)–b)[^33]
+a)–b)[^35]
 
 c) véd a külső szennyeződéstől, ha szükséges a levegőtől és a fénytől,
 
@@ -10,4 +10,4 @@ e) biztosítja, hogy a termék a minőségmegőrzési időn belül megőrizze er
 
 (2) A csomagolóanyag nem veszélyeztetheti a felhasználó egészségét és nem befolyásolhatja károsan a termék minőségét.
 
-[^33]: A 8. § (1) bekezdésének a)–b) pontját az 5/2004. (II. 10.) ESZCSM rendelet 14. § (6) bekezdésének e) pontja hatályon kívül helyezte.
+[^35]: A 8. § (1) bekezdésének a)–b) pontját az 5/2004. (II. 10.) ESZCSM rendelet 14. § (6) bekezdésének e) pontja hatályon kívül helyezte.
