@@ -14,11 +14,11 @@
 
 (7) Amennyiben az ültetvény nem termő időszakában az ügyfél ápolási kötelezettségeit nem teljesíti, a hiányokat nem pótolja, úgy köteles az ellenőrzési jegyzőkönyvben meghatározott hiány mértékének megfelelő támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
 
-(8)[^49] Amennyiben az üzem által az 1 hektárra vetített mezőgazdasági szolgáltatások nélkül számított mezőgazdasági árbevétel az aktiválást követő első lezárt gazdasági évben 30%-ot meghaladóan marad el az aktiválást követő első gazdasági évre vállalt 1 hektárra jutó árbevételtől, úgy a 30%-ot meghaladó csökkentésen túl százalékpontonként a támogatási összeg 5%-át kell visszafizetni.
+(8)[^49]
 
 (9)[^50] Amennyiben az ellenőrzés során megállapítást nyer, hogy az ügyfél az 5. számú mellékletben vállalt öntözési rendszer kiépítését nem teljesíti a beruházás befejezéséig, úgy köteles a már felvett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
 
 [^47]: A 9. § (3) bekezdése a 162/2009. (XI. 26.) FVM rendelet 2. §-ával megállapított szöveg.
 [^48]: A 9. § (5) bekezdését a 7/2008. (I. 19.) FVM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
-[^49]: A 9. § (8) bekezdését a 112/2007. (X. 6.) FVM rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^49]: A 9. § (8) bekezdését a 112/2007. (X. 6.) FVM rendelet 7. § (2) bekezdése iktatta be, a 35/2010. (IV. 9.) FVM rendelet 15. §-a hatályon kívül helyezte.
 [^50]: A 9. § (9) bekezdését a 112/2007. (X. 6.) FVM rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
