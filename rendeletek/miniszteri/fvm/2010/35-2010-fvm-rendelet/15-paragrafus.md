@@ -1,0 +1,3 @@
+## 14. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 75/2007. (VII. 27.) FVM rendelet (a továbbiakban: R.) a következő 12. §-sal egészül ki:
+
+## „12. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból kertészeti ültetvények korszerűsítéséhez, korszerű ültetvények telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 35/2010. (IV. 9.) FVM rendelet (a továbbiakban: kertészeti ültetvény rendelet) 15. §-ával hatályon kívül helyezett 9. § (8) bekezdését a kertészeti ültetvény rendelet hatálybalépésekor folyamatban lévő ügyekben nem kell alkalmazni.”
