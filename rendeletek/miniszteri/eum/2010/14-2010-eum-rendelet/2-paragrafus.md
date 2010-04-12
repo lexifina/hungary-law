@@ -1,0 +1,3 @@
+## 1. § A kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről és közegészségügyi ellenőrzéséről szóló 40/2001. (XI. 23.) EüM rendelet (a továbbiakban: R.) 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az engedélynek tartalmaznia kell a nyilvántartási számot, amely helyettesíti az összetevőt a 9. § (1) bekezdés i) pontjában előírt felsorolásban. A nyilvántartási szám hét számjegyből áll, az első kettő a titkosítás engedélyezésének évszáma, a következő kettő a Magyarországhoz hozzárendelt „21” kódszám, az utolsó három számjegyet az OÉTI határozza meg.”
