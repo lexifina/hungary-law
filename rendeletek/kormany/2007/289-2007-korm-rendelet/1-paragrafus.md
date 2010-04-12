@@ -92,9 +92,9 @@ jc) a szolgáltatás díját díjszétosztás nélkül fizető társasházi fogy
 
 k) fogyasztási időszak: a számlán feltüntetett hőmennyiség felhasználásának időszaka;
 
-l)[^4] jogosultsági időszak: a 2009. január 1-je és 2010. április 30-a közötti időszak;
+l)[^4] jogosultsági időszak: a 2009. január 1-je és 2010. június 30-a közötti időszak;
 
-m)[^5] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2010. április 30-án történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
+m)[^5] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2010. június 30-án történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
 
 n) fogyasztási jelleggörbe: az éves gázfogyasztás naptári hónapokra eső részének százalékos arányát tartalmazó adatsor;
 
@@ -103,5 +103,5 @@ o) közös képviselő: a társasház szolgáltató felé történő képviselet
 [^1]: Az 1. § a) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § b) pontjának 4. alpontja a 286/2008. (XI. 28.) Korm. rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 10. § (3) bekezdése alapján a 2008. november 30-án folyamatban lévő ügyekre a 2008. november 29-én hatályos rendelkezésket kell alkalmazni.
 [^3]: Az 1. § c) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § l) pontja a 290/2009. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (4)–(5) bekezdését.
-[^5]: Az 1. § m) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított, a 290/2009. (XII. 18.) Korm. rendelet 6. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 6. § (3) bekezdése alapján a 2009. december 31-éig felhasznált hőmennyiségre tekintettel a 2009. december 31-éig hatályos rendelkezések alapján járó távhődíj-juttatás érvényesítésére és elszámolására a 2009. december 31-én hatályos rendelkezéseket kell alkalmazni.
+[^4]: Az 1. § l) pontja a 112/2010. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (2)–(3) bekezdését.
+[^5]: Az 1. § m) pontja a 112/2010. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.

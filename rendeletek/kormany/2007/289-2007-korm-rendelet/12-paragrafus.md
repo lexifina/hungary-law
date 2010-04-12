@@ -1,6 +1,6 @@
-12. § (1)[^40]
+12. § (1)[^42]
 
-(2)[^41]
+(2)[^43]
 
-[^40]: A 12. § (1) bekezdése e rendelet 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 12. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^42]: A 12. § (1) bekezdése e rendelet 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 12. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
