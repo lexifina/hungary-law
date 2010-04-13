@@ -1,4 +1,4 @@
-## 18. § A 17. §, valamint e szakasz 2010. április 13-án hatályát veszti.
+## 18. §[^2]
 
 1. melléklet a 15/2010. (III. 5.) KHEM rendelethez
 
@@ -17,3 +17,5 @@
 6. Nyugat-dunántúli Regionális Közlekedési Szakbizottság a Nyugat-dunántúli Régió vonatkozásában;
 
 7. Dél-dunántúli Regionális Közlekedési Szakbizottság a Dél-dunántúli Régió vonatkozásában.
+
+[^2]: A 18. § ugyanezen § alapján hatályát vesztette.
