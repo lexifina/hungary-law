@@ -1,12 +1,12 @@
-## Kilencedik Fejezet[^278]
+## Kilencedik Fejezet[^277]
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-69. § (1)[^279] Ez a rendelet a következő közösségi jogi aktusoknak való megfelelést szolgálja:
+69. § (1)[^278] Ez a rendelet a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 69/464/EGK irányelve (1969. december 8.) a burgonyarák elleni védekezésről,
 
-b) a Tanács 69/465/EGK irányelve (1969. december 8.) a közönséges burgonya-fonálféreg elleni védekezésről,
+b)[^279] A Tanács 2007/33/EK irányelve (2007. június 11.) a burgonya-fonálféreg elleni védekezésről és a 69/465/EGK irányelv hatályon kívül helyezéséről,
 
 c)[^280] a Tanács 2006/91/EK irányelve (2006. november 7.) a kaliforniai pajzstetű elleni védekezésről,
 
@@ -34,11 +34,11 @@ n)[^284] a Tanács 98/57/EK irányelve (1998. július 20.) a Ralstonia solanacea
 
 o)[^285] a Tanács 2000/29/EK irányelve (2000. május 22.) a növényeket vagy növényi termékeket károsító szervezeteknek a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről, valamint az azt módosító,
 
-1. a Bizottság 2001/33/EK, 2002/28/EK, 2002/36/EK, 2003/22/EK, 2003/47/EK, 2003/116/EK, 2004/31/EK, 2004/70/EK, 2004/102/EK, 2005/16/EK, 2005/77/EK, 2006/14/EK, 2006/35/EK, 2007/41/EK, 2008/64/EK, 2008/109/EK és 2009/7/EK irányelve, valamint a Tanács 2002/89/EK, 2005/15/EK irányelve,
+1. a Bizottság 2001/33/EK, 2002/28/EK, 2002/36/EK, 2003/22/EK, 2003/47/EK, 2003/116/EK, 2004/31/EK, 2004/70/EK, 2004/102/EK, 2005/16/EK, 2005/77/EK, 2006/14/EK, 2006/35/EK, 2007/41/EK, 2008/64/EK, 2008/109/EK, 2009/7/EK, 2009/118/EK és 2010/1/EU irányelve, valamint a Tanács 2002/89/EK, 2005/15/EK irányelve,
 
-2. az Európai Parlament és a Tanács 882/2004/EK rendelete (2004. április 29.) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről.
+2. az Európai Parlament és a Tanács 882/2004/EK rendelete (2004. április 29.) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről,
 
-p)[^286] a Bizottság 2001/32/EK irányelve (2001. május 8.) a Közösségen belül található, különleges növényegészségügyi kockázatnak kitett zónák elismeréséről és a 92/76/EGK irányelv hatályon kívül helyezéséről, valamint az azt módosító, a Bizottság 2002/29/EK, 2003/21/EK, 2003/46/EK, 2004/32/EK, 2005/18/EK, 2006/36/EK, 2007/40/EK irányelve,
+p)[^286]
 
 q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. melléklet (A csatlakozási okmány 20. cikkében hivatkozott lista), 6. Mezőgazdaság cím, B Állat- és növény-egészségügyi jogszabályok, II. Növény-egészségügyi jogszabályok fejezet 5. pontja.
 
@@ -54,7 +54,7 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 
 5.[^291] a Bizottság 2003/63/EK határozata (2003. január 28.) a tagállamok számára a 2000/29/EK tanácsi irányelvtől a Kuba egyes tartományaiból származó, nem vetőburgonyának szánt burgonya tekintetében való átmeneti eltérések megállapításának engedélyezéséről, valamint az azt módosító 2005/649/EK, 2008/882/EK bizottsági határozat,
 
-6.[^292] a Bizottság 2004/4/EK határozata (2003. december 22.) a Pseudomonas solanacearum (Smith) Smith elterjedése elleni, Egyiptomra vonatkozó szükséghelyzeti intézkedések tagállamok által történő meghozatalának ideiglenes engedélyezéséről, valamint az azt módosító 2004/836/EK, 2005/840/EK, 2006/749/EK, 2007/842/EK, 2008/857/EK bizottsági határozat,
+6.[^292] a Bizottság 2004/4/EK határozata (2003. december 22.) a Pseudomonas solanacearum (Smith) Smith elterjedése elleni, Egyiptomra vonatkozó szükséghelyzeti intézkedések tagállamok által történő meghozatalának ideiglenes engedélyezéséről, valamint az azt módosító 2004/836/EK, 2005/840/EK, 2006/749/EK, 2007/842/EK, 2008/857/EK és 2009/839/EK bizottsági határozat,
 
 7. a Bizottság 2004/200/EK határozata (2004. február 27.) a Pepino mosaic virus (PepMV) Közösségbe való behurcolása és a Közösségen belüli elterjedése elleni intézkedésekről,
 
@@ -66,7 +66,7 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 
 11.[^295] a Bizottság 2006/916/EK határozata (2006. december 11.) a Horvátországból vagy a Macedónia volt Jugoszláv Köztársaságból származó Vitis L. növényekre a termés kivételével vonatkozóan a 2000/29/EK tanácsi irányelv egyes rendelkezéseitől való eltérésről,
 
-12.[^296] a Bizottság 2006/133/EK határozata (2006. február 13.) a Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (a fenyőfa fonalférge) elterjedése elleni, Portugáliának az attól ismerten mentes területein kívüli más területeire vonatkozó ideiglenes kiegészítő intézkedéseknek a tagállamok számára történő előírásáról, valamint az azt módosító 2008/341/EK, 2008/378/EK, 2008/684/EK, 2008/790/EK, 2008/954/EK bizottsági határozat
+12.[^296] a Bizottság 2006/133/EK határozata (2006. február 13.) a Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (a fenyőfa fonalférge) elterjedése elleni, Portugáliának az attól ismerten mentes területein kívüli más területeire vonatkozó ideiglenes kiegészítő intézkedéseknek a tagállamok számára történő előírásáról, valamint az azt módosító 2008/341/EK, 2008/378/EK, 2008/684/EK, 2008/790/EK, 2008/954/EK, 2009/420/EK, 2009/462/EK és 2009/993/EK bizottsági határozat,
 
 13.[^297] a Bizottság 2006/464/EK határozata (2006. június 27.) a Dryocosmus kuriphilus Yasumatsu Közösségbe történő behurcolásának és Közösségen belüli elterjedésének a megelőzése elleni ideiglenes szükséghelyzeti intézkedésekről,
 
@@ -88,27 +88,28 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 
 22.[^306] a Bizottság 2008/840/EK határozata (2008. november 7.) az Anoplophora chinensis (Forster) Közösségbe történő behurcolásának és Közösségen belüli elterjedésének megelőzését célzó sürgősségi intézkedésekről.
 
-(3)[^307] Ez a rendelet a Közösségben a meghatározott növény-egészségügyi kockázatoknak kitett védett övezetek elismeréséről szóló, 2008. július 4-i 690/2008/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3)[^307] Ez a rendelet a Közösségben a meghatározott növény-egészségügyi kockázatoknak kitett védett övezetek elismeréséről szóló, 2008. július 4-i 690/2008/EK bizottsági rendelet, valamint az azt módosító 17/2010/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^278]: Az eredeti Nyolcadik fejezet számozását a 37/2003. (IV. 4.) FVM rendelet 24. §-a Kilencedik fejezetre változtatta.
-[^279]: A 69. § a 48/2005. (V. 28.) FVM rendelet 2. §-ával megállapított szöveg, számozását (1) bekezdésre változtatta az 56/2006. (VIII. 1.) FVM rendelet 5. § (3) bekezdése.
+[^277]: Az eredeti Nyolcadik fejezet számozását a 37/2003. (IV. 4.) FVM rendelet 24. §-a Kilencedik fejezetre változtatta.
+[^278]: A 69. § a 48/2005. (V. 28.) FVM rendelet 2. §-ával megállapított szöveg, számozását (1) bekezdésre változtatta az 56/2006. (VIII. 1.) FVM rendelet 5. § (3) bekezdése.
+[^279]: A 69. § (1) bekezdés b) pontja a 30/2010. (III. 30.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^280]: A 69. § (1) bekezdésének c) pontja a 65/2007. (VII. 23.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^281]: A 69. § g) pontja a 16/2006. (II. 24.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^282]: A 69. § (1) bekezdésének j) pontja a 65/2007. (VII. 23.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^283]: A 69. § (1) bekezdésének l) pontja a 72/2009. (VI. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^284]: A 69. § (1) bekezdésének n) pontja a 65/2007. (VII. 23.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^285]: A 69. § (1) bekezdésének o) pontja a 72/2009. (VI. 25.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^286]: A 69. § (1) bekezdésének p) pontja az 5/2008. (I. 17.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^285]: A 69. § (1) bekezdés o) pontja a 30/2010. (III. 30.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^286]: A 69. § (1) bekezdés p) pontját a 30/2010. (III. 30.) FVM rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^287]: A 69. § (2) bekezdését az 56/2006. (VIII. 1.) FVM rendelet 5. § (3) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
 [^288]: A 69. § (2) bekezdésének 2. pontja az 5/2008. (I. 17.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^289]: A 69. § (2) bekezdésének 3. pontja a 65/2007. (VII. 23.) FVM rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^290]: A 69. § (2) bekezdés 4. pontja a 10/2009. (II. 25.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^291]: A 69. § (2) bekezdés 5. pontja a 10/2009. (II. 25.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^292]: A 69. § (2) bekezdés 6. pontja a 10/2009. (II. 25.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^292]: A 69. § (2) bekezdés 6. pontja a 30/2010. (III. 30.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^293]: A 69. § (2) bekezdésének 8. pontja az 5/2008. (I. 17.) FVM rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^294]: A 69. § (2) bekezdésének 9. pontja a 12/2007. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^295]: A 69. § (2) bekezdésének 11. pontja a 65/2007. (VII. 23.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^296]: A 69. § (2) bekezdés 12. pontja a 10/2009. (II. 25.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^296]: A 69. § (2) bekezdés 12. pontja a 30/2010. (III. 30.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^297]: A 69. § (2) bekezdésének 13. pontját a 78/2006. (XI. 17.) FVM rendelet 2. §-a iktatta be.
 [^298]: A 69. § (2) bekezdésének 14. pontját a 78/2006. (XI. 17.) FVM rendelet 2. §-a iktatta be.
 [^299]: A 69. § (2) bekezdésének 15. pontját az 5/2008. (I. 17.) FVM rendelet 3. § (5) bekezdése iktatta be.
@@ -119,4 +120,4 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 [^304]: A 69. § (2) bekezdésének 20. pontját az 5/2008. (I. 17.) FVM rendelet 3. § (5) bekezdése iktatta be.
 [^305]: A 69. § (2) bekezdés 21. pontját a 10/2009. (II. 25.) FVM rendelet 10. § (5) bekezdése iktatta be.
 [^306]: A 69. § (2) bekezdés 22. pontját a 10/2009. (II. 25.) FVM rendelet 10. § (5) bekezdése iktatta be.
-[^307]: A 69. § (3) bekezdését a 10/2009. (II. 25.) FVM rendelet 10. § (6) bekezdése iktatta be.
+[^307]: A 69. § (3) bekezdését a 10/2009. (II. 25.) FVM rendelet 10. § (6) bekezdése iktatta be, szövege a 30/2010. (III. 30.) FVM rendelet 6. § (5) bekezdésével megállapított szöveg.

@@ -36,7 +36,7 @@
 
 | 4401 22 00 | Nem tűlevelű fa forgácsa vagy apró darabjai. |
 
-| ex 4401 30 90 | Fahulladék és törmelék (a fűrészpor kivételével), amely nincs rönkökbe, brikettbe, labdacsokba (pellet) vagy hasonló alakra tömörítve. |
+| ex 4401 30 80 |  | Fahulladék és törmelék (a fűrészpor kivételével), amely nincs rönkökbe, brikettbe, labdacsokba (pellet) vagy hasonló alakra tömörítve. |
 
 | 4403 10 00 | Megmunkálatlan fa, festékkel, páccal, kreozottal vagy más tartósítószerrel kezelve, függetlenül attól, hogy kéreg- vagy szijácsmentes-e, illetve durván négyszögletesre alakított-e. |
 
@@ -58,7 +58,7 @@
 
 ## 2. Olyan növények, növényi termékek és egyéb anyagok, amelyeket növénytermesztéssel hivatásszerűen foglalkozó személyeknek történő előállításra és értékesítésre felhatalmazott termelő termesztett, és amelyek esetében a tagállamok felelős hatóságai biztosítják, hogy a nevezett növények, növényi termékek és egyéb anyagok előállítása más termékektől egyértelműen elkülönítve történik. A növényútlevél-kiállítás kötelezettsége nem vonatkozik a végső felhasználónak való értékesítésre termesztett és előkészített növényekre, növényi termékekre és egyéb anyagokra.
 
-## 2.1. Az alábbi nemzetségekbe tartozó növényfajok ültetésre szánt növényei, a vetőmag kivételével: Abies Mill., Apium graveolens L., Argyranthemum spp., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC) Des Moul., Dianthus L. és hibridjeik, Exarum spp., Fragaria L., Gerbera Cass., Gypsophila L., az Impatiens L. új-guineai hibridjeinek minden fajtája, Lactuta spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l'Hérit. ex Air., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Quercus L., Rubus L., Spinada L., Tanacetum L., Tsuga Carr. és Verbena L. és egyéb lágyszárú növények, kivéve az ültetésre szánt Gramineae családba tartozó növényeket, valamint a hagymát, a hagymagumót, a rizómát, a vetőmagot és a gumót.
+## 2.1. Az alábbi nemzetségekbe tartozó növényfajok ültetésre szánt növényei, a vetőmag kivételével: Abies Mill., Apium graveolens L., Argyranthemum spp., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC) Des Moul., Dianthus L. és hibridjeik, Exarum spp., Fragaria L., Gerbera Cass., Gypsophila L., az Impatiens L. új-guineai hibridjeinek minden fajtája, Lactuta spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l’Hérit. ex Air., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Quercus L., Rubus L., Spinada L., Tanacetum L., Tsuga Carr. és Verbena L. és egyéb lágyszárú növények ültetésre szánt növényei, kivéve a Gramineae családba tartozókat, valamint a hagymát, a hagymagumót, a rizómát, a vetőmagot és a gumót.
 
 ## 2.2. A Solanaceae családba tartozó fajok ültetésre szánt növényei, az 1.3. pontban hivatkozottak kivételével, illetve a vetőmag kivételével, de beleértve a Brugmansia Pers. spp. nemzetséghez tartozó növények és a Solanum jasminoides Paxton faj vetőmagvait.
 
@@ -70,9 +70,7 @@
 
 ## 2.5. A Pinus L. nemzetséghez tartozó növények és a Pseudotsuga menziesii faj vetőmagvai, valamint a szaporítási célú tobozok.
 
-## 3. Az alábbi növények ültetésre szánt hagymái és hagymagumói, amelyeket növénytermesztéssel hivatásszerűen foglalkozó személyeknek történő előállításra és értékesítésre felhatalmazott termelő termesztett, és amelyek esetében a tagállamok felelős hatóságai biztosítják, hogy a nevezett növények, növényi termékek és egyéb anyagok előállítása más termékektől egyértelműen elkülönítve történik. A növényútlevél-kiállítás kötelezettsége nem vonatkozik a végső felhasználónak való értékesítésre termesztett és előkészített növényekre, növényi termékekre és egyéb anyagokra.
-
-## Camassia Lindl., Chionodoxa Boiss., Crocus flavus Weston „Golden Yellow”, Galanthus L., Galtonia candicans (Baker) Decne., a Gladiolus Tourn. ex L. mikroszaporítású változatai és hibridjei, pl. Gladiolus callianthus Marais, Gladiolus colvillei Sweet, Gladiolus nanus hort., Gladiolus ramosus hort. és Gladiolus tubergenii hort., Hyacinthus L., Iris L., Ismene Herbert, Muscari Miller, Narcissus L., Orinthogalum L., Puschkinia Adams, Scilla L., Tigridia Juss. és Tulipa L.
+## 3. Az alábbi növények ültetésre szánt hagymái, hagymagumói és rhizómái, amelyeket növénytermesztéssel hivatásszerűen foglalkozó személyeknek történő előállításra és értékesítésre felhatalmazott termelő termesztett, és amelyek esetében a tagállamok felelős hatóságai biztosítják, hogy a nevezett növények, növényi termékek és egyéb anyagok előállítása más termékektől egyértelműen elkülönítve történik: Camassia Lindl., Chionodoxa Boiss., Crocus flavus Weston „Golden Yellow”, Galanthus L., Galtonia candicans (Baker) Decne.; a Gladiolus Tourn. ex L. törpe változatai és hibridjei (pl. Gladiolus callianthus Marais, Gladiolus colvillei Sweet, Gladiolus nanus hort., Gladiolus ramosus hort. és Gladiolus tubergenii hort.), Hyacinthus L., Iris L., Ismene Herbert, Muscari Miller, Narcissus L., Orinthogalum L., Puschkinia Adams, Scilla L., Tigridia Juss. és Tulipa L. A növényútlevél-kiállítás kötelezettsége nem vonatkozik a végső felhasználónak való értékesítésre termesztett és előkészített növényekre, növényi termékekre és egyéb anyagokra.
 
 ## 4. Az 1. és 2. pontban szereplő rendelkezések betartása mellett, a következő nemzetségekbe, illetve fajba tartozó, ültetésre szánt növények – ide nem értve a vetőmagot –, amelyek olyan harmadik országból származnak, ahol az Anoplophora chinensis (Forster) előfordul vagy egy tagállam olyan területéről, amelyet az Anoplophora chinensis (Forster) fertőzésének felszámolására és előfordulásának ellenőrzésére körülhatároltak: Acer spp., Aesculus hippocastanum, Alnus spp., Betula spp., Carpinus spp., Citrus spp., Corylus spp., Cotoneaster spp., Fagus spp., Lagerstroemia spp., Malus spp., Platanus spp., Populus spp., Prunus spp., Pyrus spp., Salix spp., and Ulmus spp.
 
@@ -218,9 +216,9 @@
 
 | 4401 22 00 | Nem tűlevelű fa forgácsa vagy apró darabjai. |
 
-| 4401 30 10 | Fűrészpor. |
+| ex 4401 30 40 |  | Fűrészpor, amely nincs rönkökbe, brikettbe, labdacsokba (pellet) vagy hasonló alakra tömörítve (agglomerálva). |
 
-| ex 4401 30 90 | Egyéb fahulladék és törmelék, amely nincs rönkökbe, brikettbe, labdacsokba (pellet) vagy hasonló alakra tömörítve. |
+| ex 4401 30 80 | Egyéb fahulladék és törmelék, amely nincs rönkökbe, brikettbe, labdacsokba (pellet) vagy hasonló alakra tömörítve. |
 
 | 4403 10 00 | Megmunkálatlan fa, festékkel, páccal, kreozottal vagy más tartósítószerrel kezelve, függetlenül attól, hogy kéreg- vagy szijácsmentes-e, illetve durván négyszögletesre alakított-e. |
 
@@ -252,7 +250,7 @@
 
 ## 7. a) Talaj vagy termesztő közeg mint olyan, amely teljes egészében vagy részben talajból vagy szilárd szerves anyagokból, például növényi részekből, tőzeget vagy fakérget is magában foglaló humuszból áll, a teljes egészében tőzegből álló kivételével.
 
-## b) Növényekhez tapadt vagy azokhoz tartozó, teljes egészében vagy részben az a) pontban meghatározott anyagból vagy teljes egészében vagy részben tőzegből vagy a növények életképességének megőrzésére szánt, bármilyen szilárd anyagból álló, Törökországból, Fehéroroszországból, Georgiaból, Moldovából, Oroszországból, Ukrajnából, valamint Algérián, Egyiptomon, Izraelen, Líbián, Marokkón és Tunézián kívüli nem európai országokból származó talaj és termesztő közeg.
+## b) Növényekhez tapadt vagy azokhoz tartozó, teljes egészében vagy részben az a) pontban meghatározott anyagból vagy teljes egészében vagy részben tőzegből vagy a növények életképességének megőrzésére szánt, bármilyen szilárd anyagból álló, Törökországból, Fehéroroszországból, Grúziából, Moldovából, Oroszországból, Ukrajnából, valamint Algérián, Egyiptomon, Izraelen, Líbián, Marokkón és Tunézián kívüli nem európai országokból származó talaj és termesztő közeg.
 
 ## 8. Az Afganisztánból, Dél-Afrikából, Indiából, Irakból, Iránból, Mexikóból, Nepálból, Pakisztánból és az Egyesült Államokból származó Triticum, Secale és X Triticosecale nemzetségbe tartozó gabonanövények szemtermése.
 
@@ -334,35 +332,59 @@ A lárvával fertőzött területet zárlat alá kell helyezni, azon a következ
 
 1.1.2.[^317] Globodera rostochiensis (Wollenweber) Behrens és Globodera pallida (Stone) Behrens
 
-A fertőzött területet, termesztő berendezést, tárolóhelyet, növényállományt, növényanyagot, szaporító- és ültetvényanyagot zárlat alá kell helyezni. Szaporító- és ültetvényanyag előállítás esetén a növényállományt a szaporításból véglegesen ki kell zárni. A károsító meghatározásának évében a területen előállított burgonya csak tapadóföldet nem tartalmazó áruburgonyaként értékesíthető.
+1.1.2.1. A burgonya-fonálféreg 1.1.2.3. pontban felsorolt gazdanövényeinek és egyéb gyökeres, hagymás növényeknek a telepítése előtti kötelező talajvizsgálatok és az áruburgonya terület legalább 0,5%-án a burgonya-fonálféreg jelenlétének kiderítésére végzett hatósági ellenőrzések adatairól az MgSzH területi szerve kötelező nyilvántartást vezet, beleértve a mentes vizsgálati eredmények feljegyzését is. Az áruburgonyában végzett felderítés adatait ˙minden év április 1-jéig kell eljuttatni a Bizottságnak.
 
-A fertőzött táblán, termesztő berendezésben a burgonya-fonálférgek gazdanövényének ültetése, illetve az egyéb, átültetésre kerülő nem gazdanövény (palánta, gyümölcs-, szőlő és dísznövény faiskolai áru), valamint hagymás, gumós és gyökgumós növény ültetése és a fertőzött területen való tárolása tilos. Amennyiben e növényeket a károsító meghatározásának évében állították elő a területen, akkor azok csak tapadóföldtől megtisztítva forgalmazhatók.
+1.1.2.2. Hatóságilag fertőzöttnek kell nyilvánítani az olyan parcellát vagy termesztőberendezést, amelynek talajából a hatósági vizsgálat vagy felderítés során fonálféreg-fertőzöttséget mutattak ki.
 
-Közepesen (10–60 tojás/g talaj) vagy erősen fertőzött területeken (60 feletti tojás/g talaj) az észlelés évében nematicid kezelést kell végrehajtani.Ősszel totális hatású talajfertőtlenítővel, tavasszal pedig rezisztens fajta ültetésével egy időben, sziszterikus nematiciddel történő kezelést kell végrehajtani.
+1.1.2.3. Hatóságilag fertőzöttnek kell nyilvánítani az olyan parcelláról származó burgonyát vagy az alábbi azon növényeket, melyek:
 
-A fertőzött területeken a gazdanövény gyomokat és a burgonya árvakelést május 31-ig kötelezően ki kell irtani. A területen dolgozó munkagépeket és szállító eszközöket a helyszín elhagyása előtt meg kell tisztítani. A fertőzött tároló helyet a burgonya felhasználása után fertőtleníteni kell.
+a) a kártevők gyökeres gazdanövényei: Capsicum annuum, Lycopersicon esculentum, Solanum melongena,
 
-Fertőzött táblán áruburgonya termesztésére a jelen lévő kártevő patotípusra rezisztens burgonyafajta engedélyezhető az alábbi feltételekkel:
+b) egyéb gyökeres növények: Allium porrum, Beta vulgaris, Brassica spp., Fragaria, Asparagus,
 
-a)[^318] a rezisztens fajta ültetésének szándékát a termelő köteles bejelenteni az MgSzH illetékes területi szerve részére, a tárgyévet megelőző év szeptember 30-ig,
+c) ültetésre szánt, talajban termesztett hagyma, gumó, rizóma azok kivételével, amelyek esetében a csomagolás alapján vagy más módon bizonyított, hogy azokat nem hivatásszerűen vágott virág előállítással foglalkozó végfelhasználónak történő értékesítésre szánják: Allium ascalonicum, Allium cepa, Dahlia, Gladiolus, Hyacinthus, Iris, Lilium, Narcissus, Tulipa,
 
-b)[^319] az MgSzH területi szerve által vett mintából kinyert fonálférgek patotípus tesztjét az erre kijelölt speciális laboratórium végzi, bioteszttel vagy biokémiai eljárással, az eredményről értesíti az MgSzH illetékes területi szervét,
+és egy olyan parcelláról származnak, amelyet a hatósági vizsgálat vagy felderítés nyomán burgonyafonálféreggel fertőzöttnek nyilvánítottak, vagy amelyek olyan talajjal érintkeztek, amelyben burgonya-fonálférget találtak.
 
-c)[^320] a patotípus ismeretében az MgSzH területi szerve meghatározza a rezisztens burgonya fajtát és a vetésterületnek megfelelő vetőgumó mennyiséget,
+Fertőzöttnek kell nyilvánítani e növények tárolóhelyeit is.
 
-d)[^321] az MgSzH területi szerve június 15–30. között területi szemlén vizsgálja az esetleges fonálféreg fertőzöttséget és ellenőrzi az eredetitől eltérő patotípus kiszelektálódást, valamint közepesen és erősen fertőzött területeken (50–100 tojás/g talaj) elrendeli a talajfertőtlenítést,
+1.1.2.4. A fertőzöttnek nyilvánított parcellára az MgSzH területi szerve az alábbi intézkedéseket hozza:
 
-e) rezisztens fajta termése csak mosás után értékesíthető.
+1.1.2.4. 1. A fertőzöttnek nyilvánított parcellán
 
-f)[^322] az engedélyezett rezisztens fajtákat, korai fajták esetében minimum 3 éves, más fajták esetében minimum 4 éves vetésforgóban lehet termeszteni. A kizárólag saját célra termelt étkezési burgonya esetében rezisztens fajta termesztése évente engedélyezhető.
+a) nem ültethető vetőburgonya termesztésére szánt burgonya; és
 
-Fertőzött táblán csalogató növény (érzékeny áruburgonya fajta) termesztése is engedélyezhető, amennyiben betakarítása vagy a növényállomány megsemmisítése a fonálféreg nőstények ivaréretté válása előtt megtörténik.
+b) nem ültethetők vagy tárolhatók az 1.1.2.3. a)–c) pontban említett, ültetésre szánt növények. Az adott parcellán azonban ültethetők az 1.1.2.3. b)–c) pontban felsorolt növények, ha azokat a betakarítás után alávetik az alábbi, hatóságilag jóváhagyott intézkedések valamelyikének úgy, hogy ennek következtében nem áll fenn a burgonya-fonálféreg elterjedésének azonosítható kockázata. Az intézkedés lehet:
 
-A zárlat akkor oldható fel, illetve a kártevők elterjedésének megakadályozására hozott korlátozó intézkedések akkor vonhatók vissza, ha a fonálférgek már nem mutathatók ki a talajból.
+– megfelelő módszerekkel végzett fertőtlenítés, annak érdekében, hogy ne álljon fenn a burgonya-fonálféreg elterjedésének azonosítható veszélye;
 
-Egy burgonyafajta akkor tekinthető a közönséges burgonya-fonalféreg (Globodera rostochiensis) patotípusával szemben rezisztens fajtának, ha termesztése során az adott patotípus egyedszámában évenkénti természetes csökkenés tapasztalható.
+– a talaj lemosással vagy kefével történő eltávolítása egészen addig, amíg az gyakorlatilag mentes lesz a talajmaradványoktól.
 
-Az MgSzH Központ minden év január 1-je előtt közli a Bizottsággal azoknak a hatósági vizsgálat során a közönséges burgonya-fonalféreggel (Globodera rostochiensis) szemben ellenálló burgonyafajtáknak a listáját, amelyeket forgalmazásra engedélyeztek. Továbbá bejelenti azokat a patotípusokat, amelyekkel szemben a burgonyafajták ellenálló képességgel rendelkeznek.
+1.1.2.4.2. A fertőzöttnek nyilvánított, áruburgonya és ipari célra termesztett burgonya ültetésére használt parcellákat alá kell vetni a burgonya-fonálféreg felszámolását célzó, a fertőzöttségi szintnek megfelelő hatósági védekezési programnak. Ez tartalmazza a termesztési és forgalomba hozatali rendszerrel összefüggő intézkedéseket, a kémiai védekezés, valamint a meghatározott legmagasabb rezisztenciafokú ellenálló burgonyafajták használatának előírását, valamint egyéb intézkedéseket. Az MgSzH Központ e programról írásban tájékoztatja a Bizottságot és a többi tagállamot.
+
+Azon burgonyafajták esetében, amelyek ellenállóságáról az MgSZH Központ még nem értesítette a Bizottságot 2009 előtt, az ellenállóképesség fokát az MgSzH erre jogosult szervezeti egysége állapítja meg az útmutatójában megállapított, a standard pontszámokat jelölő táblázat szerint.
+
+1.1.2.5. A fertőzöttnek nyilvánított parcelláról származó növényekre az MgSzH területi szerve az alábbi intézkedéseket hozza:
+
+1.1.2.5.1. A fertőzöttnek nyilvánított parcelláról származó vetőburgonya vagy az 1.1.2.3. a) pontban felsorolt növények nem ültethetők el, kivéve, ha az MgSZH illetékes területi szervének felügyelete mellett, a hatóság által elfogadott olyan tudományos bizonyítékon alapuló, megfelelő módszer alkalmazásával fertőtlenítették, hogy nem áll fenn a burgonya-fonálféreg elterjedésének veszélye.
+
+1.1.2.5.2. A fertőzöttnek nyilvánított parcelláról származó, ipari feldolgozásra vagy forgalmazásra szánt áruburgonyát hatóságilag jóváhagyott hulladékártalmatlanító eljárásokkal rendelkező feldolgozó vagy osztályozó üzembe kell szállítani, biztosítva azt, hogy nem áll fenn a burgonya-fonálféreg elterjedésének veszélye.
+
+1.1.2.5.3. A fertőzöttnek nyilvánított parcelláról származó, 1.1.2.3. b)–c) pontban felsorolt növények nem ültethetők el, kivéve, ha, azokat alávetették az alábbi, hatóságilag jóváhagyott intézkedések valamelyikének, és így már nem fertőzőek. Az intézkedés lehet:
+
+– megfelelő módszerekkel végzett fertőtlenítés,
+
+– a talaj lemosással vagy kefével történő eltávolítása egészen addig, amíg az gyakorlatilag mentes lesz a talajmaradványoktól.
+
+1.1.2.5.4. A fertőzöttnek nyilvánított tárolót fertőtleníteni kell.
+
+1.1.2.6. Az MgSZH területi szerveinek be kell jelenteniük az MgSZH Központnak a fonálféreg fajok összetételében, a patotípusban, vagy a virulenciacsoportban beálló változással kapcsolatos gyanújukat. Minden ilyen esetben a hatóság által elfogadott megfelelő módszerekkel el kell végezni a burgonya-fonálféreg fajok és – adott esetben – a patotípus vagy virulenciacsoport vizsgálatát az előzetes eredmények megerősítésére. A megerősített eredményre vonatkozó adatokat évente, legkésőbb december 31-ig írásban meg kell küldeni a Bizottságnak és a többi tagállamnak.
+
+1.1.2.7. Az MgSZH Központ minden évben legkésőbb január 31-ig írásban megküldi a Bizottságnak és a többi tagállamnak azon új burgonyafajták jegyzékét, amelyeket a hatósági vizsgálat ellenállónak talált a burgonya- fonálféreggel szemben. Meg kell adni azokat a fajokat, patotípusokat, virulenciacsoportokat vagy populációkat, amelyekkel szemben a fajták ellenállóak, továbbá az ellenállóképesség fokát, valamint azt az évet, amelyben az ellenállóképességüket megállapították.
+
+1.1.2.8. A hatósági vizsgálat vagy felderítés alapján fertőzöttnek nyilvánított parcella feloldható a korlátozások alól, ha a burgonya-fonálféreg jelenlétének kimutatásától vagy az utolsó burgonyaterméstől számított legalább hat éves időszakot követően elvégzik az MgSzH által közzétett módszertani kézikönyv szerinti ismételt hatósági mintavételt és laboratóriumi vizsgálatot, melynek eredménye alapján burgonya-fonálféregől mentes a parcella. A korlátozási időszak 3 évre csökkenthető, ha közben megtették a megfelelő, hatóságilag jóváhagyott védekezési intézkedéseket.
+
+1.1.2.9. A rendelet 16. §-val összhangban kísérleti vagy tudományos célú tevékenység, valamint fajtaszelekciós munka végzése céljából eltérések engedélyezhetők az 1.1.2.4. és 1.1.2.5. pontban említett intézkedésektől.
 
 1.1.3. Meloidogyne chitwoodi Golden et al. és patotípusai, Meloidogyne fallax Karssen
 
@@ -374,11 +396,11 @@ A zárlat bioteszttel megállapított fonálféreg mentesség után oldható fel
 
 A fertőzött rizs és szamóca szaporító- és ültetvényanyag előállító területet, termesztő berendezést, növényállományt zárlat alá kell helyezni. A fertőzött szamóca anyanövényeket el kell távolítani és meg kell semmisíteni. A károsítóval fertőzött rizs vetőmag, valamint a fertőzött területről származó fertőzésmentes szamóca szaporító- és ültetvényanyag csak a fonálférgek elpusztítására alkalmas hőterápiás kezelés eredményes végrehajtása után hozható forgalomba. A zárlat a fonálféreg menteség megállapítása után oldható fel.
 
-1.1.5.[^323] Ditylenchus destructor Thorne, Ditylenchus dipsaci (Kühn) Filipjev,
+1.1.5.[^318] Ditylenchus destructor Thorne, Ditylenchus dipsaci (Kühn) Filipjev,
 
 A rendelet 2. számú melléklet A. rész II. szakasz a) 5. és 6. pontjában meghatározott növényfajok fertőzött szaporító- és ültetvényanyag előállító területét, termesztő berendezését, növényállományát, szaporító- és ültetvényanyagát zárlat alá kell helyezni. Fertőzött szaporító- és ültetvényanyag forgalomba hozatala csak a fonálférgek elpusztítására alkalmas kezelés (hőterápia vagy gázosítás) eredményes végrehajtása után engedélyezhető. A fertőzött lucerna és komló ültetvényt a további szaporító- és ültetvényanyag előállításból ki kell zárni. A fertőzött területen a károsító gazdanövényei 3 évig nem termeszthetők. A fertőzött területen kötelező vetésváltást és a károsító faj, illetve patotípus gazdanövényei ültetésének tilalmát kell előírni. A zárlat a fertőzés megállapítását követően 3 év múlva, bioteszttel megállapított fonálféreg mentesség után oldható fel.
 
-1.1.6.[^324] Rhadopholus similis(Cobb) Thorne
+1.1.6.[^319] Rhadopholus similis(Cobb) Thorne
 
 A rendelet 2. számú melléklet A. rész II. szakasz a) 7. pontjában meghatározott növényfajok fertőzött területét, termesztő berendezését, növényállományát, növényanyagát, szaporító- és ültetvényanyagát zárlat alá kell helyezni, és a károsító gazdanövényeinek termesztését meg kell tiltani. Szaporító- és ültetvényanyag előállítás esetén a növényállományt a szaporításból véglegesen ki kell zárni. A fertőzött szaporító- és ültetvényanyagot meg kell semmisíteni. A zárlat ideje alatt termelt nem gyökeres termés (pl. levélzöldségfélék) és a vágott virág forgalomba hozható.
 
@@ -388,11 +410,11 @@ A zárlat a bioteszttel megállapított fonálféreg mentesség után oldható f
 
 A fertőzést optimális időben, hatékony védekezéssel kell megszüntetni. Az exportra közvetlen veszélyt jelentő fertőzött területekre, szállítási útvonalakra, berakóhelyekre, csomagolóhelyekre szükség esetén a termelő költségére kötelező védekezést, a fertőzés eredményes felszámolásáig exportszállítási korlátozást kell elrendelni. A korlátozás feloldására csak a fertőzésmentesség folyamatos biztosítását követően kerülhet sor.
 
-1.1.8.[^325] Liriomyza bryoniae (Kaltenbach), Liriomyza huidobrensis (Blanchard), Liriomyza trifolii (Burgess), Opogona sacchari (Bojer), Popillia japonica Newman, Rhagoletis completa Cresson, Rhagoletis indifferens Curran, Rhizoecus hibisci Kawai & Takagi, Spodoptera littoralis (Boisduval)
+1.1.8.[^320] Liriomyza bryoniae (Kaltenbach), Liriomyza huidobrensis (Blanchard), Liriomyza trifolii (Burgess), Opogona sacchari (Bojer), Popillia japonica Newman, Rhagoletis completa Cresson, Rhagoletis indifferens Curran, Rhizoecus hibisci Kawai & Takagi, Spodoptera littoralis (Boisduval)
 
 A fertőzött területet, termesztő berendezést, növényállományt zárlat alá kell helyezni. A zárlat alatti terület növényei, szaporító- és ültetvényanyagai, a vágott virágok kivételével, a fertőzés felszámolásáig nem hozhatók forgalomba. Szükség esetén a termelő költségére kötelező védekezést, valamint a fertőzött növények megsemmisítését kell elrendelni. A zárlat a fertőzés felszámolását követő 3 hónap múlva oldható fel.
 
-1.1.9.[^326] Bursaphelenchus xylophilus (Steiner and Buhere) Nicklet et al.
+1.1.9.[^321] Bursaphelenchus xylophilus (Steiner and Buhere) Nicklet et al.
 
 1.1.9.1. A 2. számú melléklet A rész I. szakasz a) 8. pontjában meghatározott fogékony növényfajok fertőzött területét, tárolóhelyét, növényállományát és növényanyagát zárlat alá kell helyezni. A fertőzött növényeket, növényállományt hatósági ellenőrzés mellett ki kell vágni, és a fertőzött területen égetéssel meg kell semmisíteni.
 
@@ -474,19 +496,19 @@ e) az e fából származó faforgácsot ipari célra kell hasznosítani e jóvá
 
 1.1.9.6. Azokról a területekről származó fogékony tűlevelűek (Coniferales) fafeldolgozás során képződött fahulladéka esetében, ahol a Bursaphelenchus xylophilus (Steiner and Buhere) Nicklet et al. előfordul, az MgSzH illetékes területi szerve elrendeli, hogy a fahulladékot hatósági ellenőrzés mellett megfelelő helyen azonnal el kell égetni, vagy ipari feldolgozó üzemben tüzelőanyagként kell hasznosítani vagy gázosításnak kell alávetni a károsítótól történő mentesítés céljából.
 
-1.1.9.7. Azokról a területekről származó fogékony tűlevelűek (Coniferales) faanyagából újonnan készített csomagolóanyag esetében, a Thuja L. kivételével, ahol a Bursaphelenchus xylophilus (Steiner and Buhere) Nicklet et al. előfordul, az MgSzH illetékes területi szerve elrendeli, hogy a csomagolóládák, rekeszek, dobok és hasonló csomagolóanyagok, raklapok, keretezett rakodólapok és egyéb raklapok, illetve raklapkeretek, alátétfa, térköztartók és állványok – beleértve azokat is, amelyek nem tartották meg természetes gömbfa formájukat – fogékony faanyagára a FAO növény-egészségügyi intézkedésekre vonatkozó 15. számú nemzetközi szabványa (A nemzetközi kereskedelemben használt fa csomagolóanyag szabályozására vonatkozó iránymutatások) I. mellékletében foglalt jóváhagyott intézkedések valamelyikét kell alkalmazni, és a szabvány II. mellékletének megfelelően kell forgalmazni.
+1.1.9.7.[^322] Azokról a területekről származó fogékony tűlevelűek (Coniferales) faanyagából újonnan készített csomagolóanyag esetében, a Thuja L. kivételével, ahol a Bursaphelenchus xylophilus (Steiner and Buhere) Nicklet et al. előfordul, az MgSzH illetékes területi szerve elrendeli, hogy a csomagolóládák, rekeszek, dobok és hasonló csomagolóanyagok – a teljes egészükben legfeljebb 6 mm vastagságú faanyagból készült dobozok kivételével – raklapok, keretezett rakodólapok és egyéb raklapok, illetve raklapkeretek, alátétfa, térköztartók és állványok – beleértve azokat is, amelyek nem tartották meg természetes gömbfa formájukat – fogékony faanyagára a FAO növény-egészségügyi intézkedésekre vonatkozó 15. számú nemzetközi szabványa (A nemzetközi kereskedelemben használt fa csomagolóanyag szabályozására vonatkozó iránymutatások) I. mellékletében foglalt jóváhagyott intézkedések valamelyikét kell alkalmazni, és a szabvány II. mellékletének megfelelően kell forgalmazni.
 
 1.1.9.8. A zárlat legkorábban az utolsó fertőzés felszámolását követő 1 év után oldható fel.
 
-1.1.10.[^327] Circulifer haematoceps, Circulifer tenellus
+1.1.10.[^323] Circulifer haematoceps, Circulifer tenellus
 
 A rendelet 2. számú melléklet A. rész II. szakasz a) 2. és 3. pontjában meghatározott növényfajok fertőzött területét, termesztő berendezését, növényállományát, növényanyagát, szaporító- és ültetvényanyagát zárlat alá kell helyezni. A fertőzött növényeket, növényállomány részt vagy gócokat meg kell semmisíteni. Szaporító- és ültetvényanyag előállítás esetén a növényállományt a szaporításból véglegesen ki kell zárni. A zárlat a fertőzés felszámolását követő vegetációs időszak végén oldható fel.
 
-1.1.11.[^328] Daktulospharia vitifoliae (Fitch)
+1.1.11.[^324] Daktulospharia vitifoliae (Fitch)
 
 A Vitis L. növényfajok szaporító- és ültetvényanyagát előállító, a filoxéra gyökérlakó alakjának kártételét és tüneteit mutató fertőzött területet, növényállományt és a forgalmazás alatt álló szaporító- és ültetvényanyagot, ezek forgalomba hozatalára kijelölt helyeket zárlat alá kell helyezni. A gyökérlakó alakkal fertőzött szaporító- és ültetvényanyagot meg kell semmisíteni. Egyéb hasznosítási célú, a gyökérlakó alak kártételét és tüneteit mutató, valamint valamennyi levéllakó alakkal fertőzött növényállományban szállítási és forgalomba hozatali korlátozás mellett a termelő költségére kötelező védekezést kell elrendelni. A zárlat és a korlátozás a fertőzött egyedek megsemmisítése, illetve a fertőtlenítés eredményes elvégzése után oldható fel.
 
-1.1.12.[^329] Anoplophora chinensis (Forster)
+1.1.12.[^325] Anoplophora chinensis (Forster)
 
 1.1.12.1. Az 5. számú melléklet A része II. szakaszának 16.1. pontjában meghatározott fogékony növényfajok Anoplophora chinensis károsítóval való fertőzésének észlelése esetén a területet, a tárolóhelyet, a növényállományt és a növényanyagot zárlat alá kell helyezni. A fertőzött növényeket, növényállományt hatósági felügyelet mellett meg kell semmisíteni.
 
@@ -514,7 +536,7 @@ b) A fertőzött területen és a pufferzónában évente felderítést kell vé
 
 1.2. Baktériumok
 
-1.2.1.[^330] Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al.
+1.2.1.[^326] Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al.
 
 1.2.1.1. A fertőzés veszélyének felmerülésétől (tünetek vizuális észlelése, vagy az immunofluoreszcens festési tesztszűrővizsgálat pozitív eredménye) a megerősítő vagy elvető laboratóriumi vizsgálat befejezéséig az MgSzH területi szerve:
 
@@ -556,7 +578,7 @@ c) kijelöli a fertőzött körzetet az a) bekezdés szerint megállapított fer
 
 a) Amennyiben a külön közleményben megjelentetett módszerekkel elvégzett laboratóriumi vizsgálat megerősítette, hogy a gumóból, növényből vagy növényi részből származó minta fertőzött a kórokozóval, a bejelentést azonnal meg kell tenni. A jelentésnek legalább a burgonyatétel fajtáját, típusát (áru, vető stb.) és amennyiben értelmezhető, a szaporítási fokozatát kell tartalmaznia.
 
-b) Amennyiben fennáll a veszélye annak, hogy másik tagállam(ok)ból érkező vagy oda szállított burgonya befertőződhetett, az MgSzH Központ haladéktalanul értesíti az érintett tagállamo(ka)t, majd az értesítés tényét közli a Bizottsággal.
+b)[^327] Amennyiben fennáll a veszélye annak, hogy másik tagállam(ok)ból érkező vagy oda szállított burgonya befertőződhetett, az MgSzH Központ haladéktalanul értesíti az érintett tagállamo(ka)t, majd az értesítés tényét közli a Bizottsággal.
 
 Az értesítés tartalmazza:
 
@@ -568,7 +590,7 @@ Az értesítés tartalmazza:
 
 – a feladott (szállított) tétel nagyságát,
 
-– a növényútlevél másolatát vagy legalább a növényútlevél számát, adott esetben a termelő vagy a forgalmazó regisztrációs számát és a szállítólevél másolatát.
+– a növényútlevél másolatát vagy legalább a növényútlevél számát, adott esetben a termelő vagy a forgalmazó növény-egészségügyi nyilvántartási számát és a szállítólevél másolatát.
 
 c) Amennyiben az összes vizsgálat lezárult, az MgSzH Központ minden egyes esetben értesítést küld az alábbiakról:
 
@@ -706,7 +728,7 @@ A fertőzött tételek kezelésére, elhelyezésére és feldolgozására is a f
 
 1.2.1.12. A zárlat a választott alternatívában meghatározott utolsó termesztési év végén akkor oldható fel, ha a termelő az előírtakat betartotta.
 
-1.2.2.[^331] Ralstonia solanacearum (Smith) Yabuuchi et al.
+1.2.2.[^328] Ralstonia solanacearum (Smith) Yabuuchi et al.
 
 1.2.2.1. A fertőzés veszélyének felmerülésétől (tünetek vizuális észlelése, vagy az immunofluoreszcens festési tesztszűrővizsgálat pozitív eredménye) a megerősítő vagy elvető laboratóriumi vizsgálat befejezéséig az MgSzH területi szerve:
 
@@ -758,21 +780,16 @@ ce) valamennyi feldolgozó/manipuláló gép, szárazföldi/vízi szállítóesz
 
 cf) valamennyi gumó vagy növény, amelyek a ce) bekezdésben felsorolt építmények vagy tárgyak bármelyikében tárolásra kerültek, vagy azok bármelyikével érintkezésbe kerültek, ezen építmények és tárgyak tisztítását és fertőtlenítését megelőzően,
 
-cg) az 1.2.2.2.1. pontban előírt vizsgálat és laboratóriumi teszt eredményeként azok a burgonyagumók vagy növények, amelyek egyenes- vagy oldalági klonális kapcsolatban állnak a b) bekezdés szerint fertőzöttnek minősített gumókkal vagy növényekkel, és azok a paradicsom növények, amelyek ugyanabból a forrásból származnak, mint a b) bekezdés szerint fertőzöttnek minősülő növények, és amelyek a klonális kapcsolat miatt feltételezetten fertőzöttek, annak ellenére, hogy a laboratóriumi vizsgálat alapján mentesek a kórokozótól. A fertőzött és a klonális kapcsolatban álló gumók vagy növények azonosságának megerősítésére az MgSzH területi szerve fajtavizsgálat elvégzését rendelheti el,
-
 [^316]: A 7. számú melléklet címe a 65/2007. (VII. 23.) FVM rendelet 9. § (4) bekezdésével megállapított szöveg.
-[^317]: A 7. számú melléklet 1.1.2. pontjának záró szövegrésze a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^318]: A 7. számú melléklet 1.1.2. pontjának a) alpontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^319]: A 7. számú melléklet 1.1.2. pontjának b) alpontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^320]: A 7. számú melléklet 1.1.2. pontjának c) alpontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^321]: A 7. számú melléklet 1.1.2. pontjának d) alpontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^322]: A 7. számú melléklet 1.1.2. f) pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
-[^323]: A 7. számú melléklet 1.1.5. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
-[^324]: A 7. számú melléklet 1.1.6. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
-[^325]: A 7. számú melléklet 1.1.8. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
-[^326]: A 7. számú melléklet 1.1.9. pontja a 10/2009. (II. 25.) FVM rendelet 11. § (6) bekezdésével megállapított szöveg.
-[^327]: A 7. számú melléklet 1.1.10. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
-[^328]: A 7. számú melléklet 1.1.11. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdésével megállapított szöveg.
-[^329]: A 7. számú melléklet 1.1.12. pontját a 10/2009. (II. 25.) FVM rendelet 11. § (6) bekezdése iktatta be.
-[^330]: A 7. számú melléklet 1.2.1. pontja a 65/2007. (VII. 23.) FVM rendelet 9. § (4) bekezdésével megállapított szöveg.
-[^331]: A 7. számú melléklet 1.2.2. pontja a 65/2007. (VII. 23.) FVM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^317]: A 7. számú melléklet 1.1.2. pontja a 30/2010. (III. 30.) FVM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^318]: A 7. számú melléklet 1.1.5. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
+[^319]: A 7. számú melléklet 1.1.6. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
+[^320]: A 7. számú melléklet 1.1.8. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
+[^321]: A 7. számú melléklet 1.1.9. pontja a 10/2009. (II. 25.) FVM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^322]: A 7. számú melléklet 1.1.9.7. pontja a 30/2010. (III. 30.) FVM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^323]: A 7. számú melléklet 1.1.10. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdése szerint módosított szöveg.
+[^324]: A 7. számú melléklet 1.1.11. pontja a 37/2003. (IV. 4.) FVM rendelet 40. §-ának (3) bekezdésével megállapított szöveg.
+[^325]: A 7. számú melléklet 1.1.12. pontját a 10/2009. (II. 25.) FVM rendelet 11. § (6) bekezdése iktatta be.
+[^326]: A 7. számú melléklet 1.2.1. pontja a 65/2007. (VII. 23.) FVM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^327]: A 7. számú melléklet 1.2.1.3. pont b) alpontja a 30/2010. (III. 30.) FVM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^328]: A 7. számú melléklet 1.2.2. pontja a 65/2007. (VII. 23.) FVM rendelet 9. § (4) bekezdésével megállapított szöveg.

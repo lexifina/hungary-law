@@ -1,11 +1,11 @@
-## 36/C. § A növényútlevelet
+## 36/C. §[^142] A növényútlevelet
 
-a)[^143] az MgSzH területi szerve, vagy
+a) az MgSzH területi szerve, vagy
 
-b)[^144] fémzárolt szaporítóanyag esetén, amennyiben a növényegészségügyi feltételek teljesítését az MgSzH területi szerve igazolta, az MgSzH Központ,
+b) igazolási rendszerben termesztett (fémzárolt vagy certifikált) szaporítóanyag esetén, amennyiben a növény- egészségügyi feltételek teljesítését az MgSzH területi szerve igazolta, az MgSzH erre jogosult szervezeti egysége, vagy
 
-c)[^145] az MgSzH területi szerve eseti felhatalmazása alapján a termelő, előállító, felvásárló, gyűjtőraktározó, forgalmazó vagy az importőr
+c) az MgSzH területi szerve eseti felhatalmazása alapján a termelő, előállító, felvásárló, gyűjtőraktározó, forgalmazó, importőr
 
-[^143]: A 36/C. § a) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^144]: A 36/C. § b) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^145]: A 36/C. § c) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+állítja elő és – ha szükséges – tárolja.
+
+[^142]: A 36/C. § a 30/2010. (III. 30.) FVM rendelet 2. §-ával megállapított szöveg.

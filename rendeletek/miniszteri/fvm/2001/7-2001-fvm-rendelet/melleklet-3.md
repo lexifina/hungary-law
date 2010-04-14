@@ -194,7 +194,7 @@
 
 | 4. Daktulospharia vitifoliae (Fitch) syn.: Viteus vitifoliae (Fitch) | Vitis L. növények, a termés és a vetőmag kivételével |
 
-| 5. Ditylenchus destructor Thorne | Ültetésre szánt Crocus L. virághagymái és gumói, a Gladiolus Toum. ex L. nemzetség mikroszaporítású fajtái és azok hibridjei, úgymint Gladiolus callianthus Marais, Gladiolus colvillei Sweet, Gladiolus nanus hort., Gladiolus ramosus hort., Gladiolus tubergenii hort., Hyacinthus L., Iris L., Trigridia Juss, Tulipa L., valamint az ültetésre szánt burgonyagumók (Solanum tuberosum L.) |
+| 5. Ditylenchus destructor Thorne | Ültetésre szánt Crocus L. virághagymái és gumói, a Gladiolus Toum. ex L. nemzetség törpe fajtái és azok hibridjei, úgymint Gladiolus callianthus Marais, Gladiolus colvillei Sweet, Gladiolus nanus hort., Gladiolus ramosus hort., Gladiolus tubergenii hort., Hyacinthus L., Iris L., Trigridia Juss, Tulipa L., valamint az ültetésre szánt burgonyagumók (Solanum tuberosum L.) |
 
 | 6. Ditylenchus dipsaci (Kühn) Filipjev | Az Allium ascalonicum L., Allium cepa L. és Allium schoenoprasum L. ültetésre szánt vetőmagja és hagymája és az ültetésre szánt Allium porrum L. növények, a Camassia Lindl., Chionodoxa Boiss., Crocus flavus Weston „Golden Yellow”, Galanthus L., Galtonia candicans (Baker) Decne, Hyacinthus L., Ismene Herbert, Muscari Miller, Narcissus L., Ornithogalum L., Puschkinia Adams, Scilla L., Tulipa L. ültetésre szánt hagymái és gumói, valamint a Medicago sativa L. vetőmagja |
 
@@ -334,7 +334,7 @@
 
 | 7. Sternochetus mangiferae Fabricius | Harmadik országokból származó Mangifera spp. vetőmagja | Spanyolország (Granada és Malaga), Portugália (Alentejo, Algarve és Madeira) |
 
-| 8. Thaumetopoea pityocampa (Den. és Schiff.) | Pinus L. növényfajok ültetésre szánt növényei, a termés és a vetőmag kivételével | Spanyolország (Ibiza) |
+| 8. |  |  |
 
 ## b) Baktériumok
 
@@ -342,21 +342,13 @@
 
 | 1. Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins és Jones | Phaseolus vulgaris L. és Dolichos Jacq. vetőmagja | Görögország, Spanyolország, Portugália |
 
-| 2. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekhez tartozó növények részei, a termés, vetőmag és ültetésre szánt növények kivételével, de beleértve a beporzásra szolgáló élő pollent: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. | a) Spanyolország, Észtország, Franciaország (Korzika), Olaszország (Abruzzi; Basilicata; Calabria; Campania; Friuli-Venezia Giulia; Lazio; Liguria Marche; Molise; Piedmont; Szardínia; Szicília; Toscana; Umbria; Valle d’ Aosta) és Lettország, Portugália, Finnország, az Egyesült Királyság (Észak-Írország, Man-sziget és a Csatorna-szigetek) esetében. |
-
-|  |  | 2008. március 31-ig: |
-
-|  |  | b) Írország, Olaszország (Apulia; Emilia-Romagna: Forlí-Cesena (a 9. számú országos főúttól – a Via Emiliától – |
-
-|  |  | északra fekvő megyei terület kivételével), Parma, Piacenza és Rimini tartomány (a 9. számú országos főúttól |
-
-|  |  | – a Via Emiliától – északra fekvő megyei terület kivételével); Lombardia; Veneto: kivéve Rovigo tartományban Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquá Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara közigazgatási terület, valamint Padova tartományban Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani, Masi közigazgatási terület és Verona tartományban Palu, Roverchiara, Legnago, Castagnaro, Ronco all” Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari közigazgatási terület); Litvánia, Ausztria [Burgenland, Karintia, Alsó-Ausztria, Tirol (lienzi közigazgatási terület), Stájerország, Bécs], Szlovénia (Gorenjska és Maribor régiókat kivéve), Szlovákia [Blahó, Felsővámos és Ekecs (Dunaszerdahely megye), Garamdamásd és Garamkelecsény (Lőcse megye), Nagyrépény (Topolcsány megye), Málnapatak (Poltár megye), Tornagörgő (Rozsnyó megye), Nagykázmér, Legenye, Kisgéres, Szenteske és Zétény (Tőketerebes megye) települések kivételével], esetében |
+| 2. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekhez tartozó növények részei, a termés, vetőmag és ültetésre szánt növények kivételével, de beleértve a beporzásra szolgáló élő pollent: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. | Spanyolország, Észtország, Franciaország (Korzika), Írország, Olaszország (Abruzzo, Apúlia, Basilicata, Calabria, Campania, Emilia-Romagna (Parma és Piacenza megye) Friuli-Venezia Giulia, Lazio, Liguria, Lombardia (Mantua megye kivételével) Marche, Molise, Piedmont, Szardinia, Szicília, Toscana, Umbria, Valle d’Aosta, Veneto (kivéve: Rovigo és Velence megye, valamint Padova megyében Castelbaldo, Barbona, Boara Pisani, Masi, Piacenza d’Adige, S. Urbano, Vescovana közigazgatási terület és Verona megyében az A4 autópályától délre fekvő terület), Lettország, Litvánia, Portugália, Szlovénia (Gorenjska, Koroška, Maribor and Notranjska régiókat kivéve), Szlovákia [Blahó, Felsővámos és Ekecs (Dunaszerdahely megye), Garamdamásd és Garamkelecsény (Lőcse megye), Málnapatak (Poltár megye), Tornagörgő (Rozsnyó megye), Nagyrépény (Topolcsány megye), Nagykázmér, Legenye, Kisgéres, Szenteske és Zétény (Tőketerebes megye) települések kivételével], Finnország, az Egyesült Királyság (Észak-Írország, Man-sziget és a Csatorna-szigetek) |
 
 ## c) Gombák
 
 | Károsító | A fertőzés tárgya | Védett zóna (zónák) |
 
-| 1. Cryphonectria parasitica (Murrill.) Barr. | Faanyag, kivéve a kérgezett fát, továbbá a Castanea Mill hántolt fakérge | Csehország, Görögország (Kréta, Leszbosz), Írország, Svédország, Egyesült Királyság (Man-sziget kivételével) |
+| 1. Cryphonectria parasitica (Murrill.) Barr. | Faanyag, kivéve a kérgezett fát, továbbá a Castanea Mill hántolt fakérge | Csehország, Írország, Svédország, Egyesült Királyság (Man-sziget kivételével) |
 
 | 2. Glomerella gossypii Edgerton | Gossypium spp. vetőmagja és termése (toktermése) | Görögország |
 
