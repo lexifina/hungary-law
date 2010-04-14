@@ -6,4 +6,6 @@
 
 (3) Az energiafelhasználási támogatás megállapítására irányuló, e rendelet hatálybalépésének napján folyamatban lévő ügyekben az R. e rendelettel módosított 1. § l) pontjában és 3. § (3) bekezdésében foglaltakat alkalmazni kell.
 
-(4) Azon fogyasztónak, akinek az R. e rendelettel megállapított 3. § (3) bekezdés b) pontja szerinti részidőszakban a támogatás az ott meghatározott hőmennyiség egészére tekintettel érvényesítésre került, az R. e rendelettel megállapított 3. § (3) bekezdés c) pontja szerinti részidőszakban a támogatás az ott meghatározott hőmennyiségre tekintettel jár.
+(4)[^1] Azon fogyasztónak, akinek az R. 3. § (3) bekezdés b) pontja szerinti részidőszakban a támogatás az ott meghatározott hőmennyiség egészére tekintettel érvényesítésre került, az R. e rendelettel megállapított 3. § (3) bekezdés c) pontja szerinti részidőszakban a támogatás az ott meghatározott hőmennyiségre tekintettel jár.
+
+[^1]: A 3. § (4) bekezdése a 114/2010. (IV. 13.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
