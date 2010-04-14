@@ -1,0 +1,1 @@
+## 8. § A miniszter a 6–7. §-ok alapján fennálló fizetési kötelezettségről hivatalos iratként postára adott levélben tájékoztatja a kedvezményezettet. A kedvezményezett a tájékoztatás kézhezvételét követő 20 munkanapon belül teljesíti fizetési kötelezettségét.
