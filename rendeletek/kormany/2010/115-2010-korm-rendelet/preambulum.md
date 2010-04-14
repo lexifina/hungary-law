@@ -1,0 +1,1 @@
+A Kormány az évszázados sorsközösségen alapuló lengyel-magyar barátságra tekintettel, osztozva a lengyel nemzetnek Lech Aleksander Kaczyński, a Lengyel Köztáraság elnöke halála miatt érzett gyászában, a következő rendeletet alkotja:
