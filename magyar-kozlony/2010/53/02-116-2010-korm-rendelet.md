@@ -1,0 +1,564 @@
+# A Kormány 116/2010. (IV. 15.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 53. szám, 2010. április 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d2943e05d8195d3641649f07f98e35aa5cd8614a/dokumentumok/959ec8dd4e7fcfac0d75140832630dedbcc3f85b/letoltes)
+
+---
+
+A Kormány 116/2010. (IV. 15.) Korm. rendelete
+egyes energetikai tárgyú kormányrendeletek módosításáról
+A Kormány a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (1) bekezdés g) pontjában,
+a 2. § tekintetében a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 30. pontjában,
+a 3–11., 28. § tekintetében a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 2., 3., 5., 7., 19., 34. pontjában, és
+a 12–27. § tekintetében a földgázellátásról szóló 2008. évi XL. törvény 132. § 2., 8., 25., 26., 28. pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva
+a következőket rendeli el:
+1. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló
+157/2005. (VIII. 15.) Korm. rendelet módosítása
+1. §
+A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet
+3. melléklete a következő új 18.8. ponttal egészül ki:
+„18.8. Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára
+történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe
+eséstől számított második naptól alkalmazhatók.”
+2. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló
+382/2007. (XII. 23.) Korm. rendelet módosítása
+2. §
+A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet 37. §-a
+a következő új (6)–(7) bekezdéssel egészül ki:
+„(6) Az egyszerűsített engedélyezési eljárás során a szakhatóság eljárására irányadó ügyintézési határidő nem
+hosszabbítható meg.
+(7) Ha az egyszerűsített engedélyezési eljárás során a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást, és
+ellenérdekű ügyfél az első fokú eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.”
+3. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló
+273/2007. (X. 19.) Korm. rendelet módosítása
+3. §
+A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.)
+Korm. rendelet (a továb biak ban: VET Vhr.) 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Amennyiben a felhasználó megváltoztatja felhasználási helyét, érvényes villamosenergia-vásárlásra vonatkozó
+szerződését más engedélyessel történő szerződéskötés vagy a villamosenergia-fogyasztással történő felhagyás
+érdekében felmondja, a hálózati engedélyes a felhasználó szándékának írásbeli bejelentését követő öt munkanapon
+belül köteles a felhasználó és a részére villamos energiát értékesítő engedélyes között végelszámolás alapjául szolgáló
+mérőállást az üzletszabályzat vagy a hálózat használati szerződés rendelkezései szerint rögzíteni. A rögzített
+mérőállást a hálózati engedélyes köteles az érintett kereskedők felé a rögzítést követő két munkanapon belül
+megadni.”
+4. §
+A VET. Vhr. 21/A. § (1)–(2) bekezdései helyébe a következő rendelkezések lépnek:
+„21/A. § (1) Az engedélyes biztosítja, hogy a számlázás és az elszámolás a tényleges energiafogyasztáson alapuljon,
+megjelenítése világos, érthető módon történjen, a távlehívható fogyasztásmérővel rendelkező felhasználó esetén
+minden alkalommal, a távlehívható mérővel nem rendelkező felhasználó (profil elszámolású felhasználó) esetén
+
+a (2) bekezdésben foglaltaknak meg fele lően. A távleolvasott adatokhoz való, internetes honlapon keresztül történő
+hozzáférést az engedélyes az üzletszabályzatában meghatározott módon biztosítja a felhasználó számára.
+(2) A villamosenergia-kereskedő köteles évente egy alkalommal az elszámoló számlán vagy ahhoz csatoltan
+tájékoztatásul feltüntetni:
+a) a villamos energia tényleges, aktuálisan alkalmazott (és évközi árváltozás esetén az évközi időszakos) értékesítési
+árát és az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges
+energiafogyasztást,
+b) a felhasználó elszámoló számlában elszámolt energiafogyasztásának az azt megelőző elszámolási időszakban mért
+fogyasztással való összehasonlítását, ha ez az adat ugyanazon szerződés alapján rendelkezésre áll,
+c) a lakossági fogyasztók részére az átlagos villamosenergia-fogyasztással történő összehasonlítást, vagy
+az összehasonlítási lehetőség elérhetőségét, és
+d) a 23/A. §-ban megjelölt elérhetőséget.”
+5. §
+A VET Vhr. 24. §-a a következő (12) bekezdéssel egészül ki:
+„(12) A (2) bekezdés szerinti tájékoztatást a villamosenergia-kereskedő naptári évenként egyszer köteles teljesíteni. Ezt
+köve tően – kivéve, ha a védendő fogyasztó szociálisan rászorulóként való nyilvántartásba vételének jogszabályi
+feltételei az utolsó tájékoztatás óta változtak és a lakossági fogyasztó személyében változás következett
+be – a (2) bekezdés szerinti tájékoztatási kötelezettségét a villamosenergia-kereskedő a naptári éven belül a védendő
+fogyasztói nyilvántartásba történő felvétel lehetőségére vonatkozó emlékeztető megküldésével is teljesítheti.”
+6. §
+A VET Vhr. 28. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A beadványok intézése során az engedélyesnek 15 napos határidőn belül érdemben írásban választ kell adnia
+a felhasználó részére. A 15 napos válaszadási határidő a (3) bekezdés szerinti eljárási ille té kesség megállapításának,
+ illetve a (4) bekezdés szerinti egyeztetéseknek az időtartamával meghosszabbodhat, ha ezen eljárások lefolytatásának
+helye van. A válaszadási határidőbe nem számít bele a felhasználóval történő időpont egyeztetéstől a beadvánnyal
+kapcsolatos helyszíni vizsgálat elvégzéséig eltelt idő.”
+7. §
+A VET Vhr. 29. §-a helyébe a következő rendelkezés lép:
+„29. § (1) Az engedélyes üzletszabályzatában köteles a felhasználói beadványok kezelésére, valamint a felhasználók
+panaszai benyújtására vonatkozó részletes szabályokat feltüntetni.
+(2) A 28. § (3)–(4) bekezdéseiben foglaltakat nem lehet alkalmazni, ha az elosztó és a kereskedő ügyfélszolgálati
+tevékenységét azonos szervezeti egység vagy szervezet látja el.”
+8. §
+(1) A VET Vhr. 32. § (6)–(7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) Az előre fizető mérő felszerelésével egyidejűleg a mérő felszereléséig felhalmozódott és fennálló tartozások
+kiegyenlítéséről a villamosenergia-kereskedő és a szociálisan rászoruló fogyasztó köteles megállapodni.
+A részletfizetés időtartama nem lehet kevesebb, mint a megállapodást megelőző 12 hónapban számlázott
+fogyasztásból számított
+a) az előző év azonos időszakra vonatkoztatott 1 havi fogyasztásának ellenértékét meg nem haladó tartozás esetén
+4 hónap,
+b) az előző év azonos időszakra vonatkoztatott 1 havi fogyasztásának ellenértékét meghaladó, de 3 havi
+fogyasztásának ellenértékét meg nem haladó tartozás esetén 10 hónap, vagy
+c) az előző év azonos időszakra vonatkoztatott 3 havi fogyasztásának ellenértékét meghaladó tartozás esetén
+12 hónap.
+A részletfizetés időtartama alatt a kedvezménnyel érintett díjfizetési kötelezettség vonatkozásában a fogyasztót
+kamatfizetési kötelezettség nem terhelheti.
+(7) Amennyiben a lakossági fogyasztó a díjtartozás miatti kikapcsolás időtartama alatt vagy a díjtartozás miatti
+kikapcsolást köve tően kezdeményezi a szociálisan rászoruló fogyasztók nyilvántartásába történő felvételét, akkor
+ezzel egyidejűleg – a nyilvántartásba történő felvételének esetére – kérheti az előre fizető mérő felszerelését
+a (6) bekezdésben foglalt feltételekkel.”
+(2) A VET Vhr. 32. §-a a következő (9) bekezdéssel egészül ki:
+„(9) A (6) bekezdés szerinti megállapodásban a felek kötelesek rögzíteni, hogy ha a szociálisan rászoruló fogyasztó
+a teljesítéssel késedelembe esik, az előre fizető mérő feltöltésekor
+
+a) 75 000 forintnál kisebb összegű tartozás esetén a szociálisan rászoruló fogyasztó által befizetett összeg 25%-át,
+vagy
+b) 75 000 forint vagy annál nagyobb összegű tartozás esetén a szociálisan rászoruló fogyasztó által befizetett összeg
+50%-át
+a kereskedő a fennálló tartozás csökkentésére fordíthatja, feltéve, hogy az előre fizető mérő felszerelésével kapcsolatos
+tájékoztatási kötelezettségének a VET-ben, valamint e rendeletben foglaltaknak meg fele lően eleget tett.”
+9. §
+(1) A VET Vhr. 1. számú melléklete az 1. melléklet szerint módosul.
+(2) A VET Vhr. 1. számú melléklete a 2. melléklet szerint módosul.
+(3) A VET Vhr. 2. számú melléklete a 3. melléklet szerint módosul.
+(4) A VET Vhr. 21. számú melléklete a 4. melléklet szerint módosul.
+10. §
+(1) A VET Vhr. 23. §-ának (1), (3), valamint (11) bekezdésében „a villamosenergia-kereskedő és az egyetemes szolgáltató”
+szövegrész helyébe az „egyetemes szolgáltató” szöveg, a VET Vhr. 23. §-ának (9) bekezdésében a „kereskedő”
+szövegrész helyébe az „egyetemes szolgáltató” szöveg, a VET Vhr. 23. §-ának (12), valamint (14) bekezdésében
+a „villamosenergia-kereskedő” szövegrész helyébe az „egyetemes szolgáltató” szöveg, a VET Vhr. 23. §
+(13) bekezdésében a „villamosenergia-kereskedőkre” szövegrész helyébe az „egyetemes szolgáltatókra” szöveg, a VET
+Vhr. 23. § (15) bekezdésében a „kereskedelmi, illetve egyetemes szolgáltatói” szövegrész helyébe „egyetemes
+szolgáltatói” szöveg lép.
+(2) A VET Vhr. 24. §-ának (9) bekezdésében a „postai kézbesítés második megkísérlésének napját követő 5. munkanapon”
+szövegrész helyébe a „postai kézbesítés megkísérlésének napját követő 10. munkanapon” szövegrész, a 28. §-ának
+(8) bekezdésében a „felhasználó által nem elfogadható minőségben adott válasza” szövegrész helyébe a „felhasználó
+részéről nem elfogadható minőségben adott válasza” szövegrész, az „egyéb felhasználó esetén” szövegrész helyébe
+a „vagy” szövegrész lép.
+11. §
+Hatályát veszti a VET Vhr. 28. § (8) bekezdésében az „a lakossági fogyasztó esetén” szövegrész.
+4. A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló
+19/2009. (I. 30.) Korm. rendelet módosítása
+12. §
+A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet
+(a továb biak ban: GET Vhr.) 1. § (1) bekezdése a következő 5a. ponttal egészül ki:
+[1. § (1) E rendelet alkalmazásában:]
+„5a. Fogyasztási jelleggörbe: az engedélyes üzletszabályzatában közzétett, az éves gázfogyasztás naptári hónapokra
+eső részének százalékos arányát tartalmazó adatsor.”
+13. §
+A GET Vhr. 23/A. §-a helyébe a következő rendelkezés lép:
+„23/A. § A földgázkereskedő köteles honlapján közzétenni és ügyfélszolgálatán térítésmentesen a felhasználók
+rendelkezésére bocsátani a szolgáltatási területén működő, az épületek energetikai jellemzőinek tanúsításáról szóló
+176/2008. (VI. 30.) Korm. rendelet 9. §-a szerint kijelölt vagy akkreditált energiaauditot, energetikai szolgáltatást végző
+tanúsítók listáját és elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok
+hozzáférhetőségét.”
+14. §
+A GET Vhr. 24. §-a a következő (12) bekezdéssel egészül ki:
+„(12) A (2) bekezdés szerinti tájékoztatást a földgázkereskedő naptári évenként egyszer köteles teljesíteni. Ezt
+köve tően – kivéve, ha a védendő fogyasztó szociálisan rászorulóként való nyilvántartásba vételének jogszabályi
+feltételei az utolsó tájékoztatás óta változtak, vagy a lakossági fogyasztó személyében változás következett
+be – a (2) bekezdés szerinti tájékoztatási kötelezettségét a földgázkereskedő a naptári éven belül a védendő fogyasztói
+nyilvántartásba történő felvétel lehetőségére vonatkozó emlékeztető megküldésével is teljesítheti.”
+15. §
+A GET Vhr. 51. § (1)–(3) bekezdései helyébe a következő rendelkezések lépnek:
+„(1) A földgázkereskedő köteles a felhasználó felmondását a kézhezvételtől számított 8 munkanapon belül levélben
+visszaigazolni, egyidejűleg a felhasználó részére tájékoztatást adni az elszámolás feltételeiről, a felmondás esetleges
+
+akadályairól, továbbá a GET 71. § (3) bekezdése szerinti igazolásokat kiadni a felhasználási hely egyedi azonosítójának
+feltüntetésével. A felhasználó felmondási jogának kizárása semmis, azonban – az egyetemes szolgáltatáson kívüli
+körben – a felek megfelelő ellentételezés fejében a felmondás jogának korlátozásában vagy határozott idejű
+szerződésben is megállapodhatnak.
+(2) A felhasználót ellátó földgázkereskedő az ellátás megszűnésének időpontját megelőző 10. napig köteles
+a rendszerüzemeltetőknél a földgázelosztási szerződés módosítását kezdeményezni. Az új földgázkereskedő
+a felhasználó megbízásából a korábbi kereskedelmi szerződés megszűnésének napja előtt legalább 8 nappal köteles
+a 87. § (1) bekezdés szerinti átadandó kapacitás tekintetében a földgázelosztási szerződést megkötni vagy módosítani
+a felhasználási hely egyedi azonosító számának alkalmazásával.
+(3) A felmondási jog gyakorlásának feltételeként előírt – GET 37. § (1) bekezdés szerinti – igazolás átadása esetén
+a korábbi földgázkereskedő köteles a kapacitásszerződéseit az ellátás megszűnésének napjára az érintett, általa
+korábban az adott felhasználó számára lekötött kapacitásokkal csökkenteni.”
+16. §
+(1) A GET Vhr. 52. § (1)–(2) bekezdései helyébe a következő rendelkezések lépnek:
+„(1) Kereskedőváltás esetén a felhasználó és a korábbi földgázkereskedő kötelesek egymással elszámolni. A tartozás
+meghatározásának és megfizetésének módjára a földgázkereskedő üzletszabályzatában előírtak irányadók azzal,
+hogy az üzletszabályzatban – az egyetemes szolgáltatásra nem jogosult felhasználók részére – az elszámolás módja
+tekintetében legalább két változatot kell kialakítani. Az elszámolási módok közül történő választásra a felhasználó
+jogosult. Ha a felhasználó a felajánlott elszámolási módok közül nem választott, vagy a választásáról a kereskedőváltás
+időpontjáig írásban nem értesíti a földgázkereskedőt, az elszámolás a földgázkereskedő által választott módszer
+szerint történik.
+(2) Az elszámolás a következők szerint történhet:
+a) egyetemes szolgáltatásra jogosult felhasználó esetén
+1. a földgázkereskedő a felmondás visszaigazolásával egyidejűleg a felhasználó felé előlegszámlát állít ki
+a kereskedőváltás napjáig várhatóan felhasználásra kerülő mennyiségről; az előleg összegét a Vhr. 2. számú melléklet
+8. § (8) bekezdése szerint kell megállapítani,
+2. az előlegszámla fizetési határideje a kereskedőváltás napját megelőző 15. nap,
+3. a felek kötelesek a kereskedőváltás napjával a kereskedőváltást követő 8 napon belül egymással elszámolni, és
+4. az elszámolásra kerülő földgázmennyiség megállapítása a felhasználót a kereskedőváltásig ellátó engedélyes
+üzletszabályzata szerint történik.
+b) egyetemes szolgáltatásra nem jogosult felhasználó esetén az alkalmazott elszámolási módot a felhasználó és
+a földgázkereskedő a választást követő 8 munkanapon belül köteles megállapodásban rögzíteni. Ha a felek előleg
+fizetésében állapodnak meg, az előlegszámla értékének meghatározásakor figye lembe vehető földgázmennyiség
+nem haladhatja meg az előző év adott, a felmondással érintett időszakában elfogyasztott mennyiség 1,2-szeresét.”
+(2) A GET Vhr. 52. § (4) bekezdés helyébe a következő rendelkezés lép:
+„(4) Ha a (2) bekezdés a) pontjának 2. alpontja szerinti fizetési határidőre a felhasználó a számláit nem rendezi,
+a felhasználót ellátó földgázkereskedővel fennálló szerződés nem szűnik meg, és a földgázkereskedő köteles erről
+a földgázelosztót és az ellátásra szerződést kötő új földgázkereskedőt 2 munkanapon belül értesíteni.”
+17. §
+A GET Vhr. 53. § (11)–(12) bekezdései helyébe a következő rendelkezések lépnek:
+„(11) A földgázelosztó az egyetemes szolgáltatóra vonatkozó rendelkezések szerint köteles ügyfélszolgálati irodát
+létesíteni. A földgázelosztó és az egyetemes szolgáltató megállapodása esetén a földgázelosztói ügyfélszolgálat
+az egyetemes szolgáltatói ügyfélszolgálattal közös helyiségben is működtethető.
+(12) Közös helyiségben működtetett elosztó hálózati és egyetemes szolgáltatói ügyfélszolgálat esetén az ügyfelek
+számára az egyes jogviszonyokkal összefüggő önálló ügyintézés lehetőségét biztosítani kell.”
+18. §
+A GET Vhr. 54. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A beadványok intézése során az engedélyesnek 15 napos határidőn belül érdemben írásban választ kell adnia
+a felhasználó részére. A 15 napos válaszadási határidő a (3) bekezdés szerinti eljárási ille té kesség megállapításának,
+ illetve a (4) bekezdés szerinti egyeztetéseknek az időtartamával meghosszabbodhat, ha ezen eljárások lefolytatásának
+helye van. A válaszadási határidőbe nem számít bele a felhasználóval történő időpont egyeztetéstől a beadvánnyal
+kapcsolatos helyszíni vizsgálat elvégzéséig eltelt idő.”
+
+19. §
+A GET Vhr. 55. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az 54. § (3)–(4) bekezdéseiben foglaltakat nem lehet alkalmazni, ha a földgázelosztó és a földgázkereskedő
+ügyfélszolgálati tevékenységét azonos szervezeti egység vagy szervezet látja el.”
+20. §
+(1) A GET Vhr. 58. § (6)–(7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) Az előre fizető mérő felszerelésével egyidejűleg a mérő felszereléséig felhalmozódott és fennálló tartozások
+kiegyenlítéséről a földgázkereskedő és a szociálisan rászoruló fogyasztó köteles megállapodni. A részletfizetés
+időtartama nem lehet kevesebb, mint a megállapodást megelőző 12 hónap fogyasztása külön jogszabályban és
+az üzletszabályzatban előírt jelleggörbe szerinti felosztásából származó fogyasztás alapján meghatározott,
+a) az előző év azonos időszakra vonatkoztatott 1 havi fogyasztásának ellenértékét meg nem haladó tartozás esetén
+4 hónap,
+b) az előző év azonos időszakának 1 havi fogyasztásának ellenértékét meghaladó, de 3 havi fogyasztásának
+ellenértékét meg nem haladó tartozás esetén 10 hónap, vagy
+c) az előző év azonos időszakának 3 havi fogyasztásának ellenértékét meghaladó tartozás esetén 12 hónap.
+A részletfizetés időtartama alatt a kedvezménnyel érintett díjfizetési kötelezettség vonatkozásában a fogyasztót
+kamatfizetési kötelezettség nem terhelheti.
+(7) Amennyiben a lakossági fogyasztó a díjtartozás miatti kikapcsolás időtartama alatt vagy a díjtartozás miatti
+kikapcsolást köve tően kezdeményezi a szociálisan rászoruló fogyasztók nyilvántartásába történő felvételét, akkor
+ezzel egyidejűleg – a nyilvántartásba történő felvételének esetére – kérheti az előre fizető mérő felszerelését
+a (6) bekezdésben foglalt feltételekkel.”
+(2) A GET Vhr. 58. §-a a következő (9) bekezdéssel egészül ki:
+„(9) A (6) bekezdés szerinti megállapodásban a felek kötelesek rögzíteni, hogy ha a szociálisan rászoruló fogyasztó
+a teljesítéssel késedelembe esik, az előre fizető mérő feltöltésekor
+a) 150 000 forintnál kisebb összegű tartozás esetén a szociálisan rászoruló fogyasztó által befizetett összeg 25%-át,
+vagy
+b) 150 000 forint vagy annál nagyobb összegű tartozás esetén a szociálisan rászoruló fogyasztó által befizetett összeg
+50%-át
+a földgázkereskedő a fennálló tartozás csökkentésére fordíthatja, feltéve, hogy az előre fizető mérő felszerelésével
+kapcsolatos tájékoztatási kötelezettségének a GET-ben, valamint e rendeletben foglaltaknak meg fele lően eleget tett.”
+21. §
+A GET Vhr. 73. §-át köve tően a következő 73/A. §-sal egészül ki:
+„73/A. § (1) A felhasználási hely tulajdonosa a felhasználási helyet bérlőnek vagy egyéb jogcímen használónak
+a kapacitás lekötésének jogát átadhatja.
+(2) Az ingatlan (1) bekezdés szerinti jogszerű használója a nyilvántartott kapacitás mértékéig jogosult kapacitás
+lekötésre. A felhasználási hely vásárolt és nyilvántartott kapacitásainak mértékéről kizárólag a felhasználási hely
+tulajdonosa rendelkezhet.
+(3) Ha az (1) bekezdés szerinti jogszerű használónak a nyilvántartott kapacitáshoz történő hozzáférése
+szerződésszegés, vagy jogszabály rendelkezése folytán felfüggesztésre kerül, a felhasználási hely tulajdonosa akkor
+rendelkezhet ismételten a nyilvántartott kapacitásokról, ha ő vagy a kapacitás feletti rendelkezési joggal bíró személy
+biztosítja a felfüggesztés megszüntetéséhez szükséges garanciákat és feltételeket.
+(4) A felhasználási hely tulajdonosa akkor rendelkezhet ismételten a nyilvántartott kapacitások lekötésének jogával,
+ha az (1) bekezdésben meghatározott jogcím megszűnt, vagy a felek írásban megállapodtak a rendelkezési jog
+visszaszármaztatásáról és e megállapodás az érintett rendszerüzemeltetőnek bemutatásra került.
+(5) Ha a nyilvántartott kapacitások lekötésével történő rendelkezési jog a felhasználási hely tulajdonosához
+visszakerül, és ezen kapacitások szerződéssel is lekötöttek, a felhasználási hely tulajdonosa köteles a kapacitás
+szerződésekben a korábbi jogosult helyébe lépni.”
+22. §
+(1) A GET Vhr. 90. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A felhasználó az ÜKSZ-ben rögzített éves kapacitás lekötési folyamat során jogosult a nyilvántartott kapacitásait
+egy vagy több gázévre lekötni. A nyilvántartott kapacitást a legutolsó szerződéses értékre kell csökkenteni, ha két
+egymást követő gázévben a nyilvántartott érték nem került lekötésre. Ha a felhasználó – a vásárolt kapacitás
+terhére – növelni kívánja a nyilvántartott értéket, kérnie kell a nyilvántartást vezetőnél a többletigény nyilvántartásba
+vételét. A rendszerüzemeltetőnek az ÜKSZ-ben meghatározott kapacitás lekötési folyamatban foglaltak
+
+figye lembe véte lével az üzletszabályzatában részletes eljárásrendet kell kialakítania a szabad kapacitások felhasználói
+nyilvántartásba vételére.”
+(2) A GET Vhr. 90. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A nyilvántartott kapacitásigényt nem meghaladó forrásoldali kapacitásigényre legfeljebb két gázévre köthető
+szerződés. A nyilvántartott kapacitásigényt meghaladó forrásoldali kapacitásigényre legfeljebb egy gázévre köthető
+szerződés, ha a rendszeren van szabad kapacitás.”
+23. §
+A GET Vhr. 115/A. § (1)–(2) bekezdései helyébe a következő rendelkezések lépnek:
+„115/A. § (1) Az engedélyes biztosítja, hogy a számlázás és az elszámolás a tényleges energiafogyasztáson alapuljon,
+megjelenítése világos, érthető módon történjen, a távlehívható fogyasztásmérővel rendelkező felhasználó esetén
+minden alkalommal, a távlehívható mérővel nem rendelkező felhasználó esetén pedig a (2) bekezdésben foglaltaknak
+meg fele lően. A távleolvasott adatokhoz való, internetes honlapon keresztül történő hozzáférést az engedélyes
+az üzletszabályzatában meghatározott módon biztosítja a felhasználó számára.
+(2) A földgázkereskedő és az egyetemes szolgáltató köteles évente egy alkalommal az elszámoló számlán vagy ahhoz
+csatoltan tájékoztatásul feltüntetni:
+a) a földgáz tényleges, aktuális (és évközi árváltozás esetén az évközi időszakos) értékesítési árát és az elszámolási
+időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást,
+b) a felhasználó elszámoló számlában elszámolt energiafogyasztásának az azt megelőző elszámolási időszakban mért
+fogyasztásnak az összehasonlítását, ha ez az adat ugyanazon szerződés alapján rendelkezésre áll,
+c) a lakossági fogyasztók részére az átlagos földgázfogyasztással történő összehasonlítást vagy az összehasonlítási
+lehetőség elérhetőségét, és
+d) a 23/A. §-ban megjelölt elérhetőséget.”
+24. §
+A GET Vhr. 156. §-a helyébe a következő rendelkezés lép:
+„156. § (1) A rendszerüzemeltető a határkeresztező vezetékre vonatkozó hosszú távú kapacitás lekötések során
+lehetővé teszi a vezeték szabad kapacitásának a 2009/2010. gázévet követő két gázévre történő lekötését az ÜKSZ-ben
+meghatározott, az igények beérkezésének sorrendjén alapuló eljárásrend szerint.
+(2) A 2012/13. gázévre és az azt követő gázévekre vonatkozó hosszú távú kapacitás lekötések során a határkeresztező
+vezeték kapacitásait az ÜKSZ-ben meghatározott aukciós allokációs technikával kell felosztani az engedélyesek között.
+(3) A rendszerirányító az ÜKSZ módosításának a (2) bekezdés rendelkezéseivel összhangban álló tervezetét 2010.
+október 1-jéig jóváhagyásra benyújtja a Hivatalhoz.”
+25. §
+(1) A GET Vhr. 1. számú melléklete az 5. melléklet szerint módosul.
+(2) A GET Vhr. 2. számú melléklete a 6. melléklet szerint módosul.
+(3) A GET Vhr. 2. számú melléklete a 7. melléklet szerint módosul.
+(4) A GET Vhr. a 8. melléklet szerinti 13. számú melléklettel egészül ki.
+26. §
+(1) A GET Vhr. 24. §-ának (9) bekezdésében a „postai kézbesítés második megkísérlésének napját követő 5. munkanapon”
+szövegrész helyébe a „postai kézbesítés megkísérlésének napját követő 10. munkanapon” szövegrész, az 51. §
+(6) bekezdésében a „földgázkereskedő” szövegrész helyébe a „felhasználó, vagy az érintett földgázkereskedő”
+szövegrész, a „kérelmet nyújthat be” szövegrész helyébe az „írásban kérelmet nyújthat be” szövegrész, az 54. §-ának
+(8) bekezdésében a „felhasználó által nem elfogadható minőségben adott válasza” szövegrész helyébe a „felhasználó
+részéről nem elfogadható minőségben adott válasza” szövegrész, az „egyéb felhasználó esetén” szövegrész helyébe
+a „vagy” szövegrész lép.
+(2) A GET Vhr. 57. §-ának (4) bekezdésében és az 58. §-ának (6) bekezdésében a „külön jogszabályban és” szövegrész
+helyébe „a 13. számú mellékletben szereplő vagy” szövegrész lép.
+27. §
+Hatályát veszti a GET Vhr. 54. § (4) bekezdésének utolsó mondata, valamint az 54. § (8) bekezdésében az „a lakossági
+fogyasztó esetén” szövegrész.
+
+5. Záró rendelkezések
+28. §
+A VET Vhr. 128. §-a helyébe a következő rendelkezés lép:
+„128. § E rendeletnek – az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 116/2010. (IV. 15.) Korm.
+rendelet (a továb biak ban: R.) 6. §-ával megállapított – 28. § (5) bekezdését a folyamatban lévő ügyekben is alkalmazni
+kell azzal, hogy a 15 napos határidőt az R. 6. §-ának hatálybalépésétől kell számítani.”
+29. §
+(1) Ez a rendelet – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 1–8. §-a, 9. § (1) és (3)–(4) bekezdése, 10–21. §-a, 22. § (1) bekezdése, 23. §-a, 25. § (1)–(2) és (4) bekezdése és
+26–28. §-a az e rendelet kihirdetését követő hónap első napján lép hatályba.
+(3) E rendelet 9. § (2) bekezdése, valamint 25. § (3) bekezdése a kihirdetést követő hetedik hónap első napján lép hatályba.
+(4) A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 25. § (7) és
+(8) bekezdése helyébe a következő rendelkezések lépnek:
+„(7) Az (5) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás
+(bankgarancia, biztosítási szerződés alapján kiállított – garanciát tartalmazó – biztosítói kötelezvény, hitelintézet vagy
+biztosító szerződésben vállalt készfizető kezessége), zálogjog, óvadék vagy a bányászatért felelős miniszter által
+kezelt, a bányabezárásra fordítandó központi költségvetési előirányzat alapján, támogatási szerződéssel lekötött
+keretösszeg szolgálhat.
+(8) A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez
+a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti
+megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről
+a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.”
+Bajnai Gordon s. k.,
+miniszterelnök
+1. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+1. A VET Vhr. 1. számú melléklet 7. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Ha a felhasználó a felhasználási helyről elköltözik vagy az egyetemes szolgáltatás igénybevételével felhagy,
+az egyetemes szolgáltató köteles 2 munkanapon belül felhívni az elosztó hálózati engedélyest a csatlakozó és
+mérőberendezés állapotának helyszíni ellenőrzésére. A felhívásra az elosztó az erről szóló értesítés kézhezvételétől
+számított 5 munkanapon belül köteles az ellenőrzést térítésmentesen elvégezni, és az ellenőrzés
+eredményét – ideértve a mérőállást is – jegyzőkönyvben rögzíteni. Az ellenőrzéssel, annak körülményeivel, illetve
+eredményével kapcsolatos véleményeltérését, állásfoglalását a felhasználó jogosult a jegyzőkönyvben feltüntetni.
+A jegyzőkönyv felek által aláírt egy példányát az egyetemes szolgáltató köteles a felhasználónak átadni, másik
+példányát megőrizni, és esetleges hatósági ellenőrzés vagy felhasználói panasz ügyintézése esetén az eljáró
+hatóságnak bemutatni. Az ettől eltérő eljárásrend – tekintet nélkül arra, hogy az ellenőrzést az elosztó hálózati
+engedélyes végzi – az egyetemes szolgáltató súlyos szerződésszegésének minősül.”
+2. A VET Vhr. 1. számú melléklet 9. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az elszámolási időszak időtartamában, valamint a számlázási időszakban a felek a villamosenergia-vásárlási
+szerződésben állapodnak meg. Erre vonatkozó eltérő megállapodás hiányában az elszámolási időszak a leolvasási
+időszakkal egyezik meg. Ha az elszámolási, illetve a leolvasási időszak időtartama az egy hónapot meghaladja, akkor
+az egyetemes szolgáltató – ha a felek eltérően nem állapodtak meg – az elszámolási időszak hónapjainak számánál
+eggyel kevesebb számú részszámlát jogosult kibocsátani. Az egyetemes szolgáltató az elszámolási időszak utolsó
+napjára köteles elszámoló számlát kibocsátani és a felhasználóval az elszámolási időszakra vonatkozóan teljeskörűen
+elszámolni.”
+
+3. A VET Vhr. 1. számú melléklet 9. §-a a következő (14) bekezdéssel egészül ki:
+„(14) Ha a felhasználó a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő
+készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől
+számított második naptól alkalmazhatók.”
+4. A VET Vhr. 1. számú melléklet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(10) A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla
+kiegyenlítésére csak akkor van halasztó hatálya, ha a számla összege az előző év azonos időszakára vetített díj 150%-át
+meghaladja.”
+2. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+A VET Vhr. 1. számú melléklet 9. §-a a következő (15) bekezdéssel egészül ki:
+„(15) Az egyetemes szolgáltató a felhasználó kérésére a részszámlát, valamint az elszámoló számlát elektronikus úton
+bocsátja ki.”
+3. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+1. A VET Vhr. 2. számú melléklet 8. § (2) bekezdése helyébe a következő rendelkezés lép, egyidejűleg az eredeti
+(2) bekezdés számozása (3) bekezdésre módosul:
+„(2) A VET 36. § (2) bekezdés e) pontja szerinti szüneteltetés időtartama nem haladhatja meg:
+a) március 1. és november 30. között egynapos munka esetén a 12 órát, többnapos munka esetén a napi 8 órát és
+összesen a heti 3 napot, valamint a havi 5 napot, és
+b) december 1. és február 29. között egynapos munka esetén a 8 órát, többnapos munka esetén a napi 6 órát és
+összesen a heti 3 napot, valamint a havi 5 napot.
+Nem lakossági fogyasztó esetén a felek a fentiektől eltérően is megállapodhatnak.”
+2. A VET Vhr. 2. számú melléklet 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A fogyasztásmérő-berendezés hitelességi idejének lejárta miatti cseréje esetén szükséges munkavégzés,
+a fogyasztásmérő-berendezés ellenőrző leolvasása, vagy a felhasználási helyhez tartozó mérőhelyen történő
+munkavégzés időpontjáról a hálózati engedélyes a (4) bekezdésben meghatározott határidőknek meg fele lően,
+írásban köteles a rendszerhasználót értesíteni. Amennyiben a rendszerhasználó számára az értesítésben megadott
+időpont nem megfelelő, a hálózati engedélyes köteles a rendszerhasználóval egyeztetni a megfelelő időpont
+kijelölése érdekében. A rendszerhasználó köteles a hálózati engedélyes által megküldött értesítésben megjelölt, vagy
+a közös megegyezéssel kijelölt időpontban a hálózati engedélyes felhasználási helyhez tartozó mérőhelyen történő
+munkavégzését lehetővé tenni.”
+3. A VET Vhr. 2. számú melléklete a „Szerződésszegés” alcímet köve tően és a 23. §-át megelőzően a következő 22/A. §-sal
+egészül ki:
+„22/A. § (1) A felhasználási helyen végzett ellenőrzés során annak eredményét minden esetben írásbeli
+dokumentumban kell rögzíteni (ténymegállapító jegyzőkönyv, egyszerűsített jegyzőkönyv, mérő felülvizsgálati lap,
+munkalap stb.).
+(2) A felhasználási helyen végzett ellenőrzés csak a felhasználó, vagy képviselője, vagy független tanú jelenlétében
+folytatható le.
+(3) Az ellenőrzést végzőknek az ellenőrzés megkezdésekor egyértelműen közölni kell a felhasználóval vagy
+képviselőjével, vagy a tanúval az eljárás célját.
+(4) Az ellenőrzést végzőknek fel kell kérni a felhasználót vagy képviselőjét, vagy a tanút, hogy az ellenőrzés teljes
+időtartama alatt tartózkodjon az ellenőrzés helyszínen. Amennyiben a felkért személy ennek a kérésnek nem tesz
+eleget, ennek tényét az írásbeli dokumentumban rögzíteni kell.
+(5) Az ellenőrzést végzők nem intézhetnek a felhasználóhoz vagy képviselőjéhez, vagy a tanúhoz olyan kérést,
+amelynek teljesítése az ellenőrzés helyszínének elhagyását igényli.
+
+(6) A felhasználó vagy képviselője az (1) bekezdés szerinti ellenőrzés során az ellenőrzést végzőkkel köteles
+együttműködni, így különösen a felhasználási helyre történő bejutást és az ellenőrzést lehetővé tenni, annak teljes
+időtartama alatt a helyszínen tartózkodni, a felvett írásbeli dokumentumot aláírni. Az ellenőrzéssel, annak
+körülményeivel, illetve eredményével kapcsolatos állásfoglalását a felhasználó, vagy képviselője jogosult
+a jegyzőkönyvben feltüntetni. (7) Ha az ellenőrzés során az ellenőrzést végzők szerződésszegést, vagy annak alapos
+gyanúját állapítják meg, arról videofelvételt vagy fényképet kell készíteni olyan módon, hogy az alkalmas legyen
+a jegyzőkönyvben rögzített tények bizonyítására.
+(8) A szerződésszegés vagy annak alapos gyanúja esetén felvett ténymegállapító jegyzőkönyv tartalmi
+követelményeit a hálózati engedélyes üzletszabályzata tartalmazza.”
+4. A VET Vhr. 2. számú melléklet 23. §-a helyébe a következő rendelkezés lép:
+„23. § (1) A szerződésszegés azon eseteit, amelyeknél azonnali felmondásnak van helye, valamint a kötbérre vonatkozó
+részletes rendelkezéseket – a (2) bekezdésben foglalt kivétellel – a hálózati engedélyes üzletszabályzata tartalmazza,
+egyebekben a szerződésszegésre a VET és a Ptk. általános szabályai az irányadók.
+(2) A VET 47. § (9) bekezdése, valamint e rendelet 25. §-ának (5) bekezdése szerinti határidőre figyelemmel
+amennyiben a tartozás rendezését követő visszakapcsolásra 48 óránál később kerül sor a hálózati engedélyes köteles
+kötbért fizetni a felhasználónak. A kötbér mértéke a villamos elosztó hálózati engedélyesek és az egyetemes
+szolgáltató által a felhasználó igénye alapján, külön díj ellenében végezhető szolgáltatások köréről és díjairól szóló
+rendeletben meghatározott, a felhasználónak a villamosenergia-ellátásból való jogszerű kizárása (kikapcsolása) utáni
+visszakapcsolásáért kért külön díj
+a) 50%-a, amennyiben a hálózati engedélyes érdekkörében felmerült okból a visszakapcsolásra a felhasználó
+tartozásának rendezését követő 48 óránál később, de 72 órán belül kerül sor,
+b) 100%-a, amennyiben a hálózati engedélyes érdekkörében felmerült okból a visszakapcsolásra a felhasználó
+tartozásának rendezését követő 72 óránál később kerül sor.
+(3) Amennyiben a tartozás rendezését követő visszakapcsolásra vonatkozó jogszabályi határidők elmulasztása
+az egyetemes szolgáltató érdekkörében felmerült okból történt, a hálózati engedélyes a felhasználónak kifizetett
+kötbért az egyetemes szolgáltatótól követelheti.”
+4. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+A VET Vhr. 21. számú mellékletének II. 2. pontja a övetkező v) alponttal egészül ki:
+[2. Az elosztó hálózati engedélyesek kötelesek az I. pontban előírtakon felül üzletszabályzatukban szabályozni, illetve
+feltüntetni:]
+„v) az alaptevékenységen kívül végzett tevékenységek bemutatását, így különösen
+va) az engedélyes által végzett, az alaptevékenységhez kapcsolódó szolgáltatások felsorolását, és
+vb) az engedélyes által a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő
+szolgáltatások körét és díját.”
+5. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+1. A GET Vhr. 1. számú melléklet 44. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A rögzített mérőállást az elosztói engedélyes köteles az érintett kereskedők felé a rögzítést követő két
+munkanapon belül megadni.”
+2. A GET Vhr. 1. számú melléklet 46. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
+[(2) A rendszerhasználó részéről a földgázelosztási szerződés megszegésének minősül különösen, ha ő, vagy a vele
+szerződésben álló felhasználó:]
+„i) a fogyasztói vezetéket engedély nélkül átalakítja, továbbá a felhasználó vagy a megbízásából eljáró, gázszerelőnek
+nem minősülő személy a fogyasztói vezetéket megbontja.”
+
+3. A GET Vhr. 1. számú melléklet 46. § (2) bekezdése az i) pontját köve tően a következő í) ponttal egészül ki:
+[(2) A rendszerhasználó részéről a földgázelosztási szerződés megszegésének minősül különösen, ha ő, vagy a vele
+szerződésben álló felhasználó:]
+„í) a műszaki-biztonsági követelményeknek nem megfelelő csatlakozóvezetéket, felhasználói berendezést használ,
+vagy azokat az életre, a testi épségre, az egészségre vagy a vagyonbiztonságra veszélyes módon használja,”
+4. A GET Vhr. 1. számú melléklet 47. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[47. § (1) A 46. § (2) bekezdés f) pontja szerinti szabálytalan vételezésnek minősül, ha a felhasználó:]
+„a) a gázmérőn vagy mérési rendszeren elhelyezett nyomóbélyegzővel lezárt zárópecsét vagy egyéb jogi zár
+(a továb biak ban együtt: plomba) sérülését a földgázkereskedőnek, vagy a földgázelosztónak a sérülés észlelését
+követő 2 munkanapon belül nem jelenti be, illetve a plomba sérülésének körülményei a felhasználó vétlenségét nem
+támasztják alá,”
+5. A GET Vhr. 1. számú melléklet 47. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[47. § (1) A 46. § (2) bekezdés f) pontja szerinti szabálytalan vételezésnek minősül, ha a felhasználó:]
+„f) a nyomás alatti gázellátó rendszert (szállító- és elosztóvezetéket vagy a csatlakozóvezetéket) megbontja,
+a gázmérőt vagy a mérési rendszert, vagy a nyomásszabályozót jogosulatlanul eltávolítja, vagy a szerződésben
+meghatározott felhasználási helyen kívüli területre vezet át földgázt, és ezen magatartások valamelyikével méretlenül
+vételez,”
+6. A GET Vhr. 1. számú melléklet 48. §-a helyébe a következő rendelkezés lép:
+„48. § (1) A felhasználási helyen végzett ellenőrzés eredményét minden esetben írásbeli dokumentumban kell
+rögzíteni (ténymegállapító jegyzőkönyv, egyszerűsített jegyzőkönyv, mérő felülvizsgálati lap, munkalap stb.).
+(2) A felhasználási helyen végzett ellenőrzés csak a felhasználó, vagy képviselője, vagy tanú jelenlétében folytatható
+le.
+(3) Az ellenőrzést végzőknek az ellenőrzés megkezdésekor egyértelműen közölni kell a felhasználóval, képviselőjével,
+vagy a tanúval az eljárás célját.
+(4) Az ellenőrzést végzőknek fel kell kérni a felhasználót, képviselőjét, vagy a tanút, hogy az ellenőrzés teljes
+időtartama alatt tartózkodjon az ellenőrzés helyszínen. Ha a felkért személy ennek a kérésnek nem tesz eleget, ennek
+tényét az írásbeli dokumentumban rögzíteni kell.
+(5) Az ellenőrzést végzők nem intézhetnek a felhasználó, képviselője vagy a tanú felé olyan kérést, amelynek
+teljesítése az ellenőrzés helyszínének elhagyását igényli.
+(6) A felhasználó vagy képviselője az (1) bekezdés szerinti ellenőrzés során az ellenőrzést végzőkkel köteles
+együttműködni, így különösen a felhasználási helyre történő bejutást és az ellenőrzést lehetővé tenni, annak teljes
+időtartama alatt a helyszínen tartózkodni, az írásbeli dokumentumot aláírni. Az ellenőrzéssel, annak körülményeivel,
+ illetve eredményével kapcsolatos állásfoglalását a felhasználó, vagy képviselője jogosult a jegyzőkönyvben
+feltüntetni.
+(7) Ha az ellenőrzés során az ellenőrzést végzők szerződésszegést, vagy annak alapos gyanúját állapítják meg, arról
+videofelvételt vagy fényképet kell készíteni olyan módon, hogy az alkalmas legyen a jegyzőkönyvben rögzített tények
+bizonyítására.
+(8) A szerződésszegés vagy annak alapos gyanúja esetén felvett ténymegállapító jegyzőkönyv tartalmi
+követelményeit az elosztói engedélyes üzletszabályzata tartalmazza.
+(9) Ha a szabálytalan vételezés pontos időtartama hitelt érdemlően nem állapítható meg, havi mérőleolvasásos
+felhasználó esetén legfeljebb 30 napos, egyéb esetekben 50 napos vélelmezett fogyasztási időtartamot kell
+figye lembe venni.”
+7. Hatályát veszti a GET Vhr. 1. számú melléklet 47. § (1) bekezdés g) pontjában „a felhasználó” szövegrész.
+6. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+1. A GET Vhr. 2. számú melléklet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha a felhasználó a felhasználási helyről elköltözik vagy az egyetemes szolgáltatás igénybevételével felhagy,
+az egyetemes szolgáltató köteles 2 munkanapon belül felhívni a földgázelosztót a csatlakozóvezeték és
+mérőberendezés állapotának helyszíni ellenőrzésére. A felhívásra a földgázelosztó az erről szóló értesítés
+kézhezvételétől számított 5 munkanapon belül köteles az ellenőrzést térítésmentesen elvégezni, és az ellenőrzés
+
+eredményét – ideértve a mérőállást is – jegyzőkönyvben rögzíteni. Az ellenőrzéssel, annak körülményeivel, illetve
+eredményével kapcsolatos állásfoglalását a felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek
+által aláírt egy példányát az egyetemes szolgáltató köteles a felhasználónak átadni, másik példányát megőrizni és
+esetleges hatósági ellenőrzés vagy felhasználói panasz ügyintézése esetén az eljáró hatóságnak bemutatni.
+E kötelezettségek megszegése – tekintet nélkül arra, hogy az ellenőrzést a földgázelosztó végzi – az egyetemes
+szolgáltató súlyos szerződésszegésének minősül.”
+2. A GET Vhr. 2. számú melléklet 10. §-a a következő új (16) bekezdéssel egészül ki:
+(16) Ha a felhasználó a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő
+készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől
+számított második naptól alkalmazhatók.”
+3. A GET Vhr. 2. számú melléklet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(10) A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla
+kifizetésére csak akkor van halasztó hatálya, ha a számlán elszámolt földgázmennyiség az előző év azonos időszakára
+vetített mennyiség 150%-át meghaladja. Azonos időszak alatt egyforma elszámolási időszak értendő. Ha
+az elszámolási időszak mértékében változás következik be, az azonos időszakra vetített mennyiséget jogszabályban,
+illetve az egyetemes szolgáltató üzletszabályzatában meghatározott jelleggörbe szerinti megosztással kell
+kiszámítani.”
+4. A GET Vhr. 2. számú melléklet 13. § (1) bekezdés 4. pontja helyébe a következő rendelkezés lép:
+[13. § (1) A felhasználó szerződésszegésének esetei:]
+„4. a fogyasztói vezetéket engedély nélkül átalakítja, továbbá a felhasználó vagy a megbízásából eljáró, gázszerelőnek
+nem minősülő személy a fogyasztói vezetéket megbontja.”
+5. A GET Vhr. 2. számú melléklet 14. § (1) bekezdés helyébe a következő rendelkezés lép:
+„(1) Szabálytalan vételezésnek minősül különösen, ha a felhasználó a Gázelosztási Szabályzat 47. § (1) bekezdése
+szerinti magatartások valamelyikét tanúsítja.”
+6. A GET Vhr. 2. számú melléklet 14. § (2) bekezdés helyébe a következő rendelkezés lép:
+„(2) A plomba sérülésére az egyetemes szolgáltató csak abban az esetben hivatkozhat, ha azokat a felhasználó
+dokumentáltan, azonosítható módon, sérülésmentes állapotban vette át az engedélyestől. A plombák számára,
+azonosítójára és sérülésmentes külsejére vonatkozóan a felhasználót írásban tájékoztatni kell.”
+7. A GET Vhr. 2. számú melléklet 14. § (4) bekezdés helyébe a következő rendelkezés lép:
+„(4) A 12–14. §-ban meghatározott szerződésszegések jogkövetkezményei alkalmazásának részletes
+szabályait – az (5)–(6) bekezdésekben foglalt kivétellel – az egyetemes szolgáltató üzletszabályzata tartalmazza.”
+8. A GET Vhr. 2. számú melléklet 14. §-a a következő új (5)–(6) bekezdéssel egészül ki:
+„(5) A GET 38. §-ának (1) bekezdés f) pontjában meghatározott szerződésszegés esetén az egyetemes szolgáltató
+kötbért köteles fizetni a felhasználónak, amelynek mértéke a földgáz elosztói és egyetemes szolgáltatói engedélyesek
+vagy megbízottaik által fogyasztói igény alapján, külön díj ellenében végezhető szolgáltatások kizárólagos körének
+meghatározásáról szóló rendeletben meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása
+(kikapcsolása) utáni visszakapcsolásáért kért külön díj
+a) 50%-a, amennyiben az elosztói engedélyes vagy az egyetemes szolgáltatói engedélyes érdekkörében felmerült
+okból a visszakapcsolásra a fogyasztó tartozásának rendezését követő 48 óránál később, de 72 órán belül kerül sor,
+b) 100%-a, amennyiben az elosztói engedélyes vagy az egyetemes szolgáltatói engedélyes érdekkörében felmerült
+okból a visszakapcsolásra a fogyasztó tartozásának rendezését követő 72 óránál később kerül sor.
+(6) Amennyiben a tartozás rendezését követő visszakapcsolásra vonatkozó jogszabályi határidők elmulasztása
+a földgázelosztó érdekkörében felmerült okból történt, az egyetemes szolgáltató a felhasználónak kifizetett kötbért
+a földgázelosztótól követelheti.”
+9. A GET Vhr. 2. sz. melléklet 10. § (5) bekezdésében a „külön jogszabályban, illetve” szövegrész helyébe a „13. számú
+mellékletben vagy” szövegrész, a 11. § (1) bekezdésében a „jogszabályban, illetve” szövegrész helyébe „a 13. számú
+mellékletben vagy” szövegrész lép.
+10. Hatályát veszti a GET Vhr. 2. számú melléklet 13. § (1) bekezdés 2. pontja és az 5. pont b) alpontja.
+
+7. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+A GET Vhr. 2. számú melléklet 10. §-a a következő új (17) bekezdéssel egészül ki:
+„(17) Az egyetemes szolgáltató a felhasználó kérésére a részszámlát, valamint az elszámoló számlát elektronikus úton
+bocsátja ki.”
+8. melléklet a 116/2010. (IV. 15.) Korm. rendelethez
+„13. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
+Fogyasztási jelleggörbe
+A B C D E F G
+1 Hónap Január Február Március Április Május Június
+2 Éves fogyasztás %-a 19,4281 16,3743 14,0081 8,0834 2,8712 0,9973
+3 Hónap Július Augusztus Szeptember Október November December
+4 Éves fogyasztás %-a 0,8046 0,8877 1,7422 5,8505 11,7688 17,1838
+A kereskedő jogosult a felhasználói szokások és fogyasztási adatok elemzése alapján a fenti jelleggörbe mellett
+továbbiakat alkalmazni, ha azokat üzletszabályzatában szerepelteti.”
+
+V.
+A Kor mány tag ja i nak ren de le tei
