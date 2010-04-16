@@ -28,15 +28,15 @@ c) nagy/középfeszültségű, közép/középfeszültségű, közép/kisfeszül
 
 a) kisfeszültségű hálózat építése esetén
 
-1.[^20] szabadvezeték: 3600 Ft/m,
+1.[^21] szabadvezeték: 3600 Ft/m,
 
-2.[^21] földkábel: 8400 Ft/m,
+2.[^22] földkábel: 8400 Ft/m,
 
 b) középfeszültségű hálózat építése esetén
 
-1.[^22] szabadvezeték: 4200 Ft/m,
+1.[^23] szabadvezeték: 4200 Ft/m,
 
-2.[^23] földkábel: 9600 Ft/m.
+2.[^24] földkábel: 9600 Ft/m.
 
 (4) A lakóparkok, többlakásos lakóépületek, engedélyköteles magánvezetékek csatlakozási pontjáig kiépítendő közcélú hálózatok esetén a (3) bekezdés szerinti megállapodást a beruházó, illetve a magánvezeték üzemeltetője is megkötheti a hálózati engedélyessel. A csatlakozási díj megfizetésével, illetve visszatérítésével kapcsolatos további részletes szabályokat a hálózati engedélyes az üzletszabályzatában határozza meg.
 
@@ -46,7 +46,7 @@ b) középfeszültségű hálózat építése esetén
 
 (7) Ha a hálózati engedélyes saját kockázatára a már ismert rendszerhasználók igényét meghaladó hosszúságú közcélú vezetéket létesít, akkor az erre a vezetékszakaszra később csatlakozó rendszerhasználóktól közcélú vezeték- létesítési díjat az (1)–(3) bekezdésnek e vezetékszakaszra történő alkalmazásával kérhet.
 
-[^20]: A 7. § (3) bekezdése a) pontjának 1. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
-[^21]: A 7. § (3) bekezdése a) pontjának 2. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
-[^22]: A 7. § (3) bekezdése b) pontjának 1. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
-[^23]: A 7. § (3) bekezdése b) pontjának 2. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
+[^21]: A 7. § (3) bekezdése a) pontjának 1. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
+[^22]: A 7. § (3) bekezdése a) pontjának 2. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
+[^23]: A 7. § (3) bekezdése b) pontjának 1. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
+[^24]: A 7. § (3) bekezdése b) pontjának 2. alpontja a 42/2008. (XII. 31.) KHEM rendelet 4. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.

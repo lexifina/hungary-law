@@ -10,7 +10,7 @@
 
 (5) A (4) bekezdés szerinti visszafizetést követően a rendszerhasználó csak 12 hónap elteltével vehet igénybe ugyanarra a csatlakozási pontra magasabb rendelkezésre álló teljesítményt. A csatlakozási díjat újabb teljesítménynövelés esetén – a többletteljesítményre vonatkozóan – e rendelet szerint meg kell fizetni.
 
-(6)[^1] Az 1. § a) pont szerinti csatlakozó rendszerhasználó esetében a csatlakozási pontot és a kiindulási pontot a hálózati engedélyesnek és a rendszerhasználónak közösen kell kijelölnie a rendszerhasználó számára legkedvezőbb műszaki és pénzügyi szempontok, valamint a legkisebb költség elvének figyelembevételével.
+(6)[^2] Az 1. § a) pont szerinti csatlakozó rendszerhasználó esetében a csatlakozási pontot és a kiindulási pontot a hálózati engedélyesnek és a rendszerhasználónak közösen kell kijelölnie a rendszerhasználó számára legkedvezőbb műszaki és pénzügyi szempontok, valamint a legkisebb költség elvének figyelembevételével.
 
 (7) A csatlakozást a műszaki feltételek figyelembevételével a rendszerhasználó számára legkedvezőbb időtartamon belül lehetővé kell tenni.
 
@@ -18,7 +18,7 @@
 
 (9) E rendelet rendelkezéseit csatlakozási pontonként önállóan kell alkalmazni.
 
-(10)[^2] A közcélú hálózaton a csatlakozási pontig
+(10)[^3] A közcélú hálózaton a csatlakozási pontig
 
 a) az e rendelet szerint csatlakozási díj megfizetése ellenében a hálózati engedélyes által, vagy
 
@@ -26,8 +26,8 @@ b) a rendszerhasználó és a hálózati engedélyes közötti megállapodás al
 
 megépített és üzembe helyezett vezetékek, átalakító és kapcsoló berendezések – jogszabály eltérő rendelkezése hiányában – a hálózati engedélyesek tulajdonában lévő közcélú hálózat részét képezik.
 
-(11)[^3] A Magyar Energia Hivatal (a továbbiakban: Hivatal) a VET 159. § s) pontja szerint dönt a csatlakozással kapcsolatos rendszerhasználói panaszok ügyében.
+(11)[^4] A Magyar Energia Hivatal (a továbbiakban: Hivatal) a VET 159. § s) pontja szerint dönt a csatlakozással kapcsolatos rendszerhasználói panaszok ügyében.
 
-[^1]: A 3. § (6) bekezdése a 42/2008. (XII. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
-[^2]: A 3. § (10) bekezdése a 69/2009. (XII. 4.) KHEM rendelet 6. §-ával megállapított szöveg.
-[^3]: A 3. § (11) bekezdése a 42/2008. (XII. 31.) KHEM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (6) bekezdése a 42/2008. (XII. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
+[^3]: A 3. § (10) bekezdése a 69/2009. (XII. 4.) KHEM rendelet 6. §-ával megállapított szöveg.
+[^4]: A 3. § (11) bekezdése a 42/2008. (XII. 31.) KHEM rendelet 4. § (3) bekezdése szerint módosított szöveg.

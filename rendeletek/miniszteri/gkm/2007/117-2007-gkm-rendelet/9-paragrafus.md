@@ -6,7 +6,7 @@ a) a villamos energia belső piacára vonatkozó közös szabályokról és a 96
 
 b) a belső villamosenergia-piacon a megújuló energiaforrásokból előállított villamos energia támogatásáról szóló 2001/77/EK (2001. szeptember 27.) európai parlamenti és tanácsi irányelv 7. cikk.
 
-Melléklet a 117/2007. (XII. 29.) GKM rendelethez[^25]
+Melléklet a 117/2007. (XII. 29.) GKM rendelethez[^26]
 
 A rendszerhasználó részére visszafizetendő összeg meghatározása teljesítménycsökkentés esetén
 
@@ -26,4 +26,4 @@ Tt a felhasználó által a korábban megfizetett csatlakozási díjjal megvás�
 
 Y a Magyar Nemzeti Bank által közzétett a csatlakozási díj befizetése és a visszaigénylés közötti évekre vonatkozó fogyasztói árindex.
 
-[^25]: A melléklet a 42/2008. (XII. 31.) KHEM rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
+[^26]: A melléklet a 42/2008. (XII. 31.) KHEM rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a hálózati engedélyes által 2009. január 1. napjáig kiadott előzetes írásbeli tájékoztatóban már vállalt, de még nem teljesített igényekre a 2008. december 31-ig érvényes díjakat és feltételeket kell alkalmazni.
