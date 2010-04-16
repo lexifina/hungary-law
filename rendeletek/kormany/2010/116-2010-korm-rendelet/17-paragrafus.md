@@ -1,0 +1,1 @@
+## „(4) Ha a (2) bekezdés a) pontjának 2. alpontja szerinti fizetési határidőre a felhasználó a számláit nem rendezi, a felhasználót ellátó földgázkereskedővel fennálló szerződés nem szűnik meg, és a földgázkereskedő köteles erről a földgázelosztót és az ellátásra szerződést kötő új földgázkereskedőt 2 munkanapon belül értesíteni.”

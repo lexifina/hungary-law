@@ -1,0 +1,3 @@
+## 14. § A GET Vhr. 24. §-a a következő (12) bekezdéssel egészül ki:
+
+## „(12) A (2) bekezdés szerinti tájékoztatást a földgázkereskedő naptári évenként egyszer köteles teljesíteni. Ezt követően – kivéve, ha a védendő fogyasztó szociálisan rászorulóként való nyilvántartásba vételének jogszabályi feltételei az utolsó tájékoztatás óta változtak, vagy a lakossági fogyasztó személyében változás következett be – a (2) bekezdés szerinti tájékoztatási kötelezettségét a földgázkereskedő a naptári éven belül a védendő fogyasztói nyilvántartásba történő felvétel lehetőségére vonatkozó emlékeztető megküldésével is teljesítheti.”
