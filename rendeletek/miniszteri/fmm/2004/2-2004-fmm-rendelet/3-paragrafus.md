@@ -1,4 +1,4 @@
-## 2/A. §[^3] Amennyiben az adatlap, illetőleg az Mt. 41/A. §-ának (3) bekezdése alapján letétbe helyezésre benyújtott kollektív szerződés hiányosan vagy pontatlanul tartalmazza a 3. § (2) bekezdésének a)–d) pontjában szereplő adatokat, a minisztérium a kollektív szerződést nem veszi nyilvántartásba.
+## 2/A. §[^4] Amennyiben az adatlap, illetőleg az Mt. 41/A. §-ának (3) bekezdése alapján letétbe helyezésre benyújtott kollektív szerződés hiányosan vagy pontatlanul tartalmazza a 3. § (2) bekezdésének a)–d) pontjában szereplő adatokat, a minisztérium a kollektív szerződést nem veszi nyilvántartásba.
 
 3. § (1) A minisztérium a kollektív szerződés nyilvántartásba vételekor:
 
@@ -24,4 +24,4 @@ e) a nyilvántartási számot.
 
 (3) A számítógépen vezetett nyilvántartás tartalma nyilvános.
 
-[^3]: A 2/A. §-t az 1/2008. (II. 29.) SZMM rendelet 3. §-a iktatta be.
+[^4]: A 2/A. §-t az 1/2008. (II. 29.) SZMM rendelet 3. §-a iktatta be.

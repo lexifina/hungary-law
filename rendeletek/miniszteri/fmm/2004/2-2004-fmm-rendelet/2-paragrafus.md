@@ -1,6 +1,6 @@
 ## 1. §[^1] A kollektív szerződést a társadalmi párbeszédért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) a szerződést kötő felek együttes bejelentése alapján nyilvántartásba veszi.
 
-2. §[^2] (1) A kollektív szerződést kötő felek bejelentési kötelezettségüket az erre a célra szolgáló, az 1–5. számú mellékletekben szereplő adatlapnak
+2. §[^2] (1)[^3] A kollektív szerződést kötő felek bejelentési kötelezettségüket a minisztérium honlapján erre a célra rendszeresített Munkaügyi Kapcsolatok Információs Rendszer keretében található kollektív szerződés nyilvántartási menüpont alatt közzétett, a rendelet melléklete szerinti adattartalmú adatlapnak
 
 a) a kitöltésével és a minisztériumba postai úton történő megküldésével, vagy
 
@@ -18,3 +18,4 @@ b) a (2) bekezdésben meghatározott módon történő elektronikus kitöltésé
 
 [^1]: Az 1. § az 1/2008. (II. 29.) SZMM rendelet 1. §-ával megállapított és a 22/2009. (IX. 30.) SZMM rendelet 12. § (2) bekezdése szerint módosított szöveg.
 [^2]: A 2. § az 1/2008. (II. 29.) SZMM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a 2008. március 1. napján már nyilvántartásba vett kollektív szerződést kötő felek az elektronikus bejelentéshez szükséges belépési azonosító kódot a fenti dátumot követő 45 napon belül postai úton kapják meg.
+[^3]: A 2. § (1) bekezdése a 9/2010. (IV. 13.) SZMM rendelet 1. §-ával megállapított szöveg.
