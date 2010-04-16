@@ -1,3 +1,3 @@
-154. §[^205] Azon kistérségekben, ahol e rendelet hatálybalépésekor ügyfélszolgálati iroda nem működik, ügyfélszolgálati fiókirodát kell létesíteni legkésőbb 2009. december 31-ig.
+154. §[^206] Azon kistérségekben, ahol e rendelet hatálybalépésekor ügyfélszolgálati iroda nem működik, ügyfélszolgálati fiókirodát kell létesíteni legkésőbb 2009. december 31-ig.
 
-[^205]: A Vhr. 154. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^206]: A Vhr. 154. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

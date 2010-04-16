@@ -48,7 +48,7 @@
 
 ## (6) Az igénybejelentés megtételével a felhasználó hozzájárul a szerződés teljesítéséhez szükséges személyes adatainak a földgázelosztó részére történő átadásához.
 
-## (7)[^224] A felhasználói igénybejelentés intézése során az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező elosztó hálózati engedélyes köteles együttműködni. Ennek keretében kötelesek a felhasználó bekapcsolásához és a szolgáltatás megkezdéséhez szükséges információkat egymásnak átadni.
+## (7)[^225] A felhasználói igénybejelentés intézése során az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező elosztó hálózati engedélyes köteles együttműködni. Ennek keretében kötelesek a felhasználó bekapcsolásához és a szolgáltatás megkezdéséhez szükséges információkat egymásnak átadni.
 
 ## (8) Az egyetemes szolgáltatási szerződés alapján a felhasználó részére a rendszerirányítási, földgázszállítási, -tárolási és -elosztási szolgáltatásokat biztosítottnak kell tekinteni.
 
@@ -344,4 +344,4 @@ d) külső-belső elszámolások.
 
 16. A szervezett földgázpiac működtetésére vonatkozó jogszabályok alkalmazásának részletei.
 
-[^224]: A Vhr. 2. számú melléklet 4. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^225]: A Vhr. 2. számú melléklet 4. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

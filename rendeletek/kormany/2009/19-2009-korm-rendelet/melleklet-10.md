@@ -387,11 +387,3 @@ A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek vég
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
 b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
-
-c) a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
-
-d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
-
-e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
-
-f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy

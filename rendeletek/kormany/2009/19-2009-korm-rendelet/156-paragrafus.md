@@ -1,3 +1,7 @@
-156. §[^207]
+156. §[^208] (1) A rendszerüzemeltető a határkeresztező vezetékre vonatkozó hosszú távú kapacitás lekötések során lehetővé teszi a vezeték szabad kapacitásának a 2009/2010. gázévet követő két gázévre történő lekötését az ÜKSZ-ben meghatározott, az igények beérkezésének sorrendjén alapuló eljárásrend szerint.
 
-[^207]: A Vhr. 156. §-át a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(2) A 2012/13. gázévre és az azt követő gázévekre vonatkozó hosszú távú kapacitás lekötések során a határkeresztező vezeték kapacitásait az ÜKSZ-ben meghatározott aukciós allokációs technikával kell felosztani az engedélyesek között.
+
+(3) A rendszerirányító az ÜKSZ módosításának a (2) bekezdés rendelkezéseivel összhangban álló tervezetét 2010. október 1-jéig jóváhagyásra benyújtja a Hivatalhoz.
+
+[^208]: A Vhr. 156. §-át a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte, újonnan a 116/2010. (IV. 15.) Korm. rendelet 24. §-a iktatta be.
