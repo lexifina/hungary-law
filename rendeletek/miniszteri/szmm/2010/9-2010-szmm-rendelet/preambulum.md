@@ -1,0 +1,1 @@
+A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 41/A. § (4) bekezdésében kapott felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
