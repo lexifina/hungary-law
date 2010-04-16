@@ -1,0 +1,126 @@
+# A Kormány 120/2010. (IV. 16.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 55. szám, 2010. április 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/769e51f7e54c7e6a763ded0c51caf5f52e829cce/dokumentumok/e4a71a4ad344eff4c44994a90eb891aeeb06ca0e/letoltes)
+
+---
+
+A Kormány 120/2010. (IV. 16.) Korm. rendelete
+a helyi esélyegyenlőségi program elkészítésének szempontjairól
+A Kormány az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 63/A. §
+(15) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében
+eljárva a következőket rendeli el:
+1. A helyi esélyegyenlőségi program elkészítésének eljárása
+1. § (1) A helyi önkormányzat, illetve a többcélú kistérségi társulás az Országos Esélyegyenlőségi Szakértői Névjegyzékből
+kijelölt esélyegyenlőségi szakértőt (a továbbiakban: szakértő) vonja be a helyi esélyegyenlőségi program
+elkészítésébe.
+(2) A szakértő e rendeletben meghatározott feladatainak ellátásához a helyi önkormányzat, illetve a többcélú kistérségi
+társulás segítséget nyújt.
+2. § (1) A szakértő helyzetelemzés során a település, a többcélú kistérségi társulás és – az adott közfeladat társulási formában
+történő ellátása esetén – más társulás, illetve a megye sajátosságaihoz igazodó módszerrel megállapítja, hogy
+atelepülésen,atársulásbanrésztvevőtelepüléseken,illetveamegyébenélőhátrányoshelyzetű társadalmicsoportok,
+különösen a mélyszegénységben élők, romák, fogyatékos személyek és nők, a teljes lakossághoz viszonyítva milyen
+foglalkoztatási, képzettségi, szociális, lakhatási, területi, egészségügyi mutatókkal rendelkeznek és ezek alapján
+az adott település, a társulás, illetve a megye milyen esélyegyenlőtlenségi problémákkal küzd.
+(2) A helyzetelemzés elkészítése során az esélyegyenlőségi szakértő felhasználja a Központi Statisztikai Hivatal,
+a Foglalkoztatási Szolgálat, a település, a társulás, illetve a megye rendelkezésére álló nyilvántartások anonimizált
+adatait, valamint más rendelkezésére álló nyilvántartásokat.
+(3) A szakértői helyzetelemzés ismeretében a helyi önkormányzat, illetve a többcélú kistérségi társulás helyzetelemzést
+fogad el.
+3. § (1) Az elfogadott helyzetelemzés alapján a szakértő intézkedési tervjavaslatot készít az esélyegyenlőtlenségek
+csökkentésére.
+(2) A szakértő által előkészített tervjavaslat ismeretében a helyi önkormányzat, illetve a többcélú kistérségi társulás
+elfogadja a helyi esélyegyenlőségi programot.
+(3) A helyi önkormányzat, illetve a többcélú kistérségi társulás dönthet úgy, hogy a szakértő a helyzetelemzését és
+az intézkedési tervjavaslatát együtt készíti el.
+(4) A szakértő az elfogadott helyi esélyegyenlőségi programot abból a szempontból véleményezi, hogy az alkalmas-e
+az esélyegyenlőtlenségek csökkentésére.
+4. § (1) A többcélú kistérségi társulás esélyegyenlőségi programja tekintetében e rendeletet azzal kell alkalmazni, hogy
+a társulási megállapodásban rögzített feladatok tekintetében kell feltárni a problémákat és meghatározni a szükséges
+intézkedéseket.
+(2) Ha a települési önkormányzat valamely közszolgáltatást többcélú kistérségi társulási megállapodás alapján lát el,
+az adott közszolgáltatásra vonatkozó helyzetelemzést és intézkedéseket a települési önkormányzat helyi
+esélyegyenlőségi programjának nem kell tartalmaznia.
+(3) Ha a települési önkormányzat valamely közszolgáltatást többcélú kistérségi társulási megállapodástól eltérő társulási
+megállapodás alapján lát el, azon közszolgáltatástekintetében a helyi esélyegyenlőségi programot a társulásban részt
+vevő valamennyi település lakosságára vonatkozóan, a társulásban érintett településekkel a társulási tanácsban
+egyeztetett tartalommal kell elkészíteni.
+5. § A helyi esélyegyenlőségi program elkészítésének elősegítésére az esélyegyenlőségért felelős miniszter módszertani
+segédletet ad ki.
+6. § A helyi önkormányzat, illetve a többcélú kistérségi társulás az Egyenlő Bánásmód Hatóság honlapján és saját
+honlapján a helyi esélyegyenlőségi programot, valamint a szakértő által készített véleményt közzéteszi.
+
+2. A helyi esélyegyenlőségi program elkészítésének szempontjai
+7. § (1) A helyi esélyegyenlőségi programban a nők és férfiak esélyegyenlőtlenségének, a mélyszegénységben élők, romák
+esélyegyenlőtlenségének, valamint a fogyatékos személyek esélyegyenlőtlenségének csökkentésére irányuló
+intézkedések csak akkor mellőzhetők, ha egyértelműen megállapítható, hogy
+a) ilyen esélyegyenlőtlenség nincs jelen, vagy
+b) az ilyen esélyegyenlőtlenség a helyi önkormányzat, illetve a többcélú kistérségi társulás hatáskörébe tartozó
+intézkedésekkel tovább nem csökkenthető.
+(2) A nők és férfiak esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+a) a társadalmi problémák nemek szerinti értelmezésének, a nemek eltérő szükségletei ismeretének és
+elismerésének hiányára,
+b) a nők gazdasági függésére, kiszolgáltatottságára,
+c) a nőket érő erőszakra,
+d) arra, hogy a reprodukciós jogok sérülésének elkerülése érdekében van-e megfelelő tájékoztatás és hatékony
+segítségnyújtás a településen a családtervezés, anya- és gyermekgondozás területén,
+e) a nők közéletben, gazdasági életben való aránytalan részvételére.
+(3) A mélyszegénységben élők, romák esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+a) a foglalkoztatási, egészségügyi, szociális helyzet tekintetében
+aa) a saját fenntartású intézményekben való foglalkoztatottság növelésére,
+ab) a szűrőprogramokon történő részvételi arány növelésére, az egészségügyi szolgáltatások elérhetőségének
+javítására, valamint a gyermekek alultápláltságának csökkentésére,
+b) a lakhatási szegregáció tekintetében
+ba) a területi szegregáció mértékére,
+bb) a megfelelő minőségű közszolgáltatásokhoz való egyenlő esélyű hozzáférés biztosítására,
+bc) a lakosság integrációját támogató közösségfejlesztő programokra,
+bd) a tervezett beavatkozások és a településfejlesztési dokumentumok összhangjára,
+c) a halmozottan hátrányos helyzetű gyerekek közoktatási esélyegyenlősége tekintetében
+ca) az intézmények között és az egyes intézményeken belüli szegregáció mértékére,
+cb) az intézmények között az oktatás hatékonyságában mutatkozó eltérésekre,
+cc) a tanulók iskolai eredményességében mutatkozó eltérésekre,
+cd) a halmozottan hátrányos helyzetű gyerekek óvodai ellátására.
+(4) A fogyatékos személyek esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+a) a közszférában és a versenypiacon a fogyatékos személyek teljes lakossághoz viszonyított arányuknak megfelelő
+mértékű foglalkoztatására,
+b) az egészségügyi ellátások elérhetőségére,
+c) az egészségügyi ellátórendszer és rehabilitációs intézmények közti információáramlásra és együttműködésre,
+d) a szociális szolgáltatások szerepére a fogyatékos személyek rehabilitációjában,
+e) a közoktatási intézmények elérhetőségére, hozzáférhetőségére,
+f) az egyenlő esélyű hozzáférés biztosítása érdekében
+fa) az önkormányzati közszolgáltatásokat nyújtó épületek akadálymentesítésére,
+fb) az önkormányzati közszolgáltatások információs és kommunikációs akadálymentesítésére,
+fc) az építésügyi hatóságok felkészültségére az akadálymentesítés építészeti szempontjainak vizsgálatában,
+fd) a helyi tömegközlekedés akadálymentesítésére.
+8. § (1) Az intézkedési tervben meghatározott intézkedések célja különösen:
+a) a lakhatási és oktatási szegregáció felszámolása, integrált lakókörnyezet kialakítása,
+b) a hátrányos helyzetű társadalmi csoportok képzettségi és foglalkoztatottsági szintjének növelése,
+c) az oktatásban, képzésben megjelenő sztereotipikus pályaorientáció megváltoztatása,
+d) a közszolgáltatásokhoz, egészségügyi és szociális szolgáltatásokhoz való egyenlő esélyű hozzáférés
+megteremtése,
+e) az egyenlő bánásmód követelményének érvényesítése a helyi önkormányzat döntéshozatalában, az általa
+fenntartott vagy támogatott intézményekben, és az önkormányzat által ellenőrzött szolgáltatások körében,
+f) ahátrányoshelyzetűcsoportoktagjairészvételénekelősegítéseadöntéshozatalbanésaközügyekirányításában.
+(2) Azegyesintézkedésekhezkapcsolódóanmegkellhatározniavégrehajtásfelelősét,határidejétésaköltségekforrását.
+
+3. Felülvizsgálat
+9. § Felül kell vizsgálni a helyi esélyegyenlőségi programot,
+a) ha a helyzetelemzés alapjául szolgáló adatok lényegesen megváltoztak, és emiatt az intézkedési terv átdolgozása
+szükséges,
+b) az elfogadását, vagy az a) pont szerinti felülvizsgálatát követő két év elteltével.
+10. § (1) A felülvizsgálatnak ki kell terjednie
+a) arra, hogy a helyzetelemzés továbbra is helytálló-e,
+b) a lejárt határidejű intézkedések teljesülésére és eredményeinek felmérésére.
+(2) A felülvizsgálatra az Országos Esélyegyenlőségi Szakértői Névjegyzékből kijelölt, a helyi esélyegyenlőségi program
+előkészítésében közre nem működött esélyegyenlőségi szakértő tesz javaslatot.
+(3) A helyi önkormányzat, illetve a többcélú kistérségi társulás a felülvizsgálati javaslat alapján
+a) módosítja a helyi esélyegyenlőségi programot,
+b) új helyi esélyegyenlőségi programot fogad el.
+4. Záró rendelkezések
+11. § (1) E rendelet 2010. május 1. napján lép hatályba.
+(2) E rendelet rövidítése: Hepr.
+(3) Ha a helyi önkormányzatok vagy az önkormányzati társulás 2010. április 30-áig az egyenlő bánásmódról és
+az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 2010. április 30-áig hatályos 63. § (5) bekezdése szerinti
+önkormányzati esélyegyenlőségi programot fogadott el, ezt a programot e rendelet felülvizsgálatra vonatkozó szabályai
+szerint 2011. június 30-ig kell felülvizsgálni és módosítani, vagy új esélyegyenlőségi programot kiadni.
+Bajnai Gordon s. k.,
+miniszterelnök
