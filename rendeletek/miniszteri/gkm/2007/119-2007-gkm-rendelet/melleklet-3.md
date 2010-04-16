@@ -154,13 +154,13 @@
 
 ## aa) időszakos árszabással,
 
-## [ab)[^37] idényjellegű, egy zónaidős árszabással,]
+## ab)[^37] idényjellegű, egy zónaidős árszabással,
 
 ## b) nem egyetemes szolgáltatási villamosenergia-vásárlási szerződése alapján az ellátási szabályzatok szerinti vezérelt, külön mért villamos energia felhasználás szerint
 
 ## ba) az elosztói engedélyes vezérlési programjának megfelelően,
 
-## [bb)[^38] az adott felhasználási helyen kizárólag a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet (a továbbiakban: RK.) szerinti mélyvölgy időszakban]
+## bb)[^38] az adott felhasználási helyen kizárólag a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet (a továbbiakban: RK.) szerinti mélyvölgy időszakban
 
 ## vételez.
 
@@ -176,7 +176,7 @@
 
 ## aa) időszakos árszabással,
 
-## [ab)[^41] idényjellegű, egy zónaidős árszabással,]
+## ab)[^41] idényjellegű, egy zónaidős árszabással,
 
 ## b) nem egyetemes szolgáltatási villamosenergia-vásárlási szerződése alapján az ellátási szabályzatok szerinti vezérelt, külön mért villamos energia felhasználás szerint
 
@@ -209,10 +209,10 @@
 [^34]: A 2. számú melléklet B) rész 2.4.1. alpontja a 43/2008. (XII. 31.) KHEM rendelet 7. § (7) bekezdésével megállapított szöveg.
 [^35]: A 2. számú melléklet B) rész 2.6. alpontja a 43/2008. (XII. 31.) KHEM rendelet 7. § (8) bekezdésével megállapított szöveg.
 [^36]: A 2. számú melléklet B) rész 2.6.2. alpontja a 69/2009. (XII. 4.) KHEM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^37]: A 2. számú melléklet B) rész 2.6.2. pont ab) alpontja a 69/2009. (XII. 4.) KHEM rendelet 8. § (2) bekezdése alapján 2010. április 16-án lép hatályba.
-[^38]: A 2. számú melléklet B) rész 2.6.2. pont bb) alpontja a 69/2009. (XII. 4.) KHEM rendelet 8. § (2) bekezdése alapján 2010. április 16-án lép hatályba.
+[^37]: A 2. számú melléklet B) rész 2.6.2. pont ab) alpontja a 69/2009. (XII. 4.) KHEM rendelet 8. § (2) bekezdése alapján 2010. április 16-án lépett hatályba.
+[^38]: A 2. számú melléklet B) rész 2.6.2. pont bb) alpontja a 69/2009. (XII. 4.) KHEM rendelet 8. § (2) bekezdése alapján 2010. április 16-án lépett hatályba.
 [^39]: A 2. számú melléklet B) rész 2.7. alpontja a 43/2008. (XII. 31.) KHEM rendelet 7. § (8) bekezdésével megállapított szöveg.
 [^40]: A 2. számú melléklet B) rész 2.7.2. alpontja a 69/2009. (XII. 4.) KHEM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^41]: A 2. számú melléklet B) rész 2.7.2. pont ab) alpontja a 69/2009. (XII. 4.) KHEM rendelet 8. § (2) bekezdése alapján 2010. április 16-án lép hatályba.
+[^41]: A 2. számú melléklet B) rész 2.7.2. pont ab) alpontja a 69/2009. (XII. 4.) KHEM rendelet 8. § (2) bekezdése alapján 2010. április 16-án lépett hatályba.
 [^42]: A 2. számú melléklet B) rész 2.7.4. alpontját a 69/2009. (XII. 4.) KHEM rendelet 5. § (2) bekezdése iktatta be.
 [^43]: A 2. számú melléklet B) rész 2.8. alpontját a 43/2008. (XII. 31.) KHEM rendelet 7. § (8) bekezdése iktatta be.
