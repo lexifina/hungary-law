@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-12-20-2
 | 2009-10-02 | 2003-12-20-22.2 | 12/2003. (I. 30.) Korm. rendelet |
 | 2010-02-02 | 2003-12-20-22.3 | 12/2010. (II. 2.) Korm. rendelet |
 | 2010-04-14 | 2003-12-20-22.4 | 114/2010. (IV. 13.) Korm. rendelet |
+| 2010-04-16 | 2003-12-20-22.5 | 12/2010. (II. 2.) Korm. rendelet |
