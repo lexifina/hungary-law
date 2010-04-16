@@ -1,0 +1,11 @@
+12. § (1) A támogatás csak abban az esetben igényelhető az általános forgalmi adót is tartalmazó összköltségnek a saját résszel csökkentett összege után, ha a kedvezményezettnek a támogatásból finanszírozott beszerzése kapcsán az általános forgalmi adóról szóló törvény szerint általános forgalmi adó (a továbbiakban: áfa) levonási joga nincs. Amennyiben a kedvezményezett áfa-levonási joggal rendelkezik, a támogatást a visszaigényelhető áfa-összeg után nem lehet igénybe venni.
+
+(2) Az előirányzatok terhére nyújtott egyedi vagy pályázati támogatások folyósítása előfinanszírozással vagy utólagosan, a kedvezményezett által benyújtott elszámolások alapján – teljesítményarányosan és forrásarányosan – vagy időarányosan történhet.
+
+(3) A kedvezményezett működéséhez nyújtott támogatások biztosítása időarányosan történik. Az időarányostól eltérő folyósítást a kedvezményezett írásbeli kérelemmel kezdeményezheti. Az időarányostól eltérő felhasználást – a szerződés módosításával – a támogatást nyújtó abban az esetben engedélyezi, ha a kedvezményezett a pénzforgalmi terve benyújtásával igazolja, hogy a támogatás időarányos folyósítása a folyamatos működését veszélyeztetné. A teljesítményarányos finanszírozás kivételével a kedvezményezettek a támogatás felhasználásáról utólag, legkésőbb a költségvetési évet követő év június 30-áig kötelesek elszámolni.
+
+(4) Nem uniós forrásból biztosított támogatási előleg egy összegben vagy részletekben történő folyósítására az Ámr. 150. §-ának figyelembevételével, és csak akkor kerülhet sor, ha a teljesítményarányos finanszírozás a támogatási cél megvalósítását nem teszi lehetővé. Támogatási előleg folyósítására a támogatási szerződésben rögzített összegben és feltételeknek megfelelően kerülhet sor.
+
+(5) Támogatási előleg részletekben történő finanszírozásának módja – a kötelezettségvállaló döntése alapján – lehet gördülő jellegű, a további folyósítás feltételeként kiköthető továbbá az előleggel való elszámolás.
+
+(6) A támogatás visszavonása vagy a támogatási szerződéstől való elállás esetén a már átutalt támogatási összeg, továbbá annak kamata megfizetésére irányuló visszakövetelés érvényesítését a támogatás forrásaként meghatározott előirányzat javára kell teljesíteni. A kamat csak az előirányzat céljának megfelelően használható fel.
