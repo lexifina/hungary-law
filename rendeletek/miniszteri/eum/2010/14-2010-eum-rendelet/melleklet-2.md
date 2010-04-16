@@ -416,30 +416,6 @@
 
 ## 9. Az R. 3. számú melléklet 2. részében foglalt táblázat g:3., g:4., g:5., g:6., g:10., g:11., g:12., g:16., g:19., g:20., g:21., g:22., g:25., g:26., g:27., g:29., g:31., g:32., g:33., g:34., g:35., g:36., g:37., g:38., g:39., g:44., g:48., g:49., g:50., g:55. és g:56. mezőjében a „2009. 12. 31.” szövegrész helyébe a „2010. 12. 31.” szöveg lép.
 
-2. melléklet a 14/2010. (IV. 7.) EüM rendelethez
+2. melléklet a 14/2010. (IV. 7.) EüM rendelethez[^5]
 
-Az R. 9. számú melléklet I. pontja helyébe a következő rendelkezés lép:
-
-„I. A kozmetikai termék bejelentéséhez (nyilvántartásba vételi eljárásához) szükséges adatok
-
-1. A bejelentő (cég) neve, címe, telephelye (elérhetősége).
-
-2. Az előállító (cég) neve, címe, telephelye (elérhetősége).
-
-3. A termék (termékek)
-
-a) megnevezése,
-
-b) rendeltetése,
-
-c) csomagolási egysége (egységei).
-
-4. Annak ténye, hogy a terméket (termékeket) Magyarországon gyártották-e.
-
-5. Annak ténye, hogy a terméket (termékeket) Magyarországon hozták-e be először az Európai Gazdasági Térség területére.
-
-6. Az 5. § (1) bekezdésében előírt adatok hozzáférhetőségi helye, a cég neve, címe (ország, város, utca, házszám), kontakt személy neve, telefon-/faxszáma, és – ha van – elektronikus levélcíme.
-
-7. A kiállító neve, címe, a kiállítás kelte, cégszerű aláírás.
-
-8. A termék eredeti címkéje, vagy annak – olvasható – másolata, elektronikus fényképe, vagy a címke teljes adattartalma.”
+[^5]: A 2. mellékletet a 10. § hatályon kívül helyezte.
