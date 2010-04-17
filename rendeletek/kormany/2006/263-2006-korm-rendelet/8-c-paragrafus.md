@@ -1,4 +1,4 @@
-8/C. §[^80] (1) A Kormány a környezetvédelmi szempontból korlátozott légtér hajtóművel felszerelt légijárművel, valamint hőlégballonnal történő igénybevételének előzetes hatósági engedélyezési eljárásában
+8/C. §[^82] (1) A Kormány a környezetvédelmi szempontból korlátozott légtér hajtóművel felszerelt légijárművel, valamint hőlégballonnal történő igénybevételének előzetes hatósági engedélyezési eljárásában
 
 a) térképezés céljából történő repülés,
 
@@ -20,11 +20,11 @@ a) értékeli az engedélyezés tárgyát képező tevékenységnek a védett é
 
 b) a természeti értékek veszélyeztetésének elkerülése, valamint a veszélyeztetés mértékének csökkentése érdekében – a repülési szabályok figyelembevételével – a repülési útvonalra, a repülési magasságra, illetve a repülés időtartamára vonatkozóan feltételeket határozhat meg.
 
-(3)[^81] A Kormány a légijármű rendszeres használatára nem nyilvános fel- és leszállóhely létesítésének engedélyezésére irányuló eljárásban – annak elbírálása kérdésében, hogy a tevékenység a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+(3)[^83] A Kormány a légijármű rendszeres használatára nem nyilvános fel- és leszállóhely létesítésének engedélyezésére irányuló eljárásban – annak elbírálása kérdésében, hogy a tevékenység a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(4)[^82] A Kormány a repülőterek, légitársaságok, földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi szolgálatok légiközlekedés-védelmi tisztje kijelölésének jóváhagyására irányuló eljárásban – a kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – a Nemzetbiztonsági Hivatalt szakhatóságként jelöli ki.
+(4)[^84] A Kormány a repülőterek, légitársaságok, földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi szolgálatok légiközlekedés-védelmi tisztje kijelölésének jóváhagyására irányuló eljárásban – a kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – a Nemzetbiztonsági Hivatalt szakhatóságként jelöli ki.
 
-(5)[^83] A Kormány a 2320/2002/EK rendelet 4. cikke (2) bekezdésének c) pontjával összhangban a szigorított védelmi területre történő belépés során egyes személyek, illetve csoportok részére a tiltott tárgyak bevitelének tilalma alóli felmentés megadására irányuló eljárásban
+(5)[^85] A Kormány a 2320/2002/EK rendelet 4. cikke (2) bekezdésének c) pontjával összhangban a szigorított védelmi területre történő belépés során egyes személyek, illetve csoportok részére a tiltott tárgyak bevitelének tilalma alóli felmentés megadására irányuló eljárásban
 
 a) – a tiltott tárgyak biztonságos őrzése, tárolása feltételeinek való megfelelés, valamint annak elbírálása kérdésében, hogy a tiltott tárgy, annak beviteli céljára figyelemmel, kockázatot jelent-e a légiközlekedés biztonságára vagy a közbiztonságra – a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot,
 
@@ -34,7 +34,7 @@ c) – annak elbírálása kérdésében, hogy biztosítottak-e a vámeljárás 
 
 szakhatóságként jelöli ki.
 
-[^80]: A 8/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^81]: A 8/C. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^82]: A 8/C. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^83]: A 8/C. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^82]: A 8/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^83]: A 8/C. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^84]: A 8/C. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^85]: A 8/C. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

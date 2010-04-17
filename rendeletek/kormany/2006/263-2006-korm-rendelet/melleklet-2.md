@@ -18,6 +18,6 @@
 
 | Nemzeti Közlekedési Hatóság Észak-magyarországi Regionális Igazgatósága | Eger | Heves megye, Borsod-Abaúj-Zemplén megye és Nógrád megye |
 
-2. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^101]
+2. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^105]
 
-[^101]: A 2. melléklet a 166/2007. (VI. 28.) Korm. rendelet 10. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^105]: A 2. melléklet a 166/2007. (VI. 28.) Korm. rendelet 10. § (2) bekezdésének b) pontja szerint módosított szöveg.

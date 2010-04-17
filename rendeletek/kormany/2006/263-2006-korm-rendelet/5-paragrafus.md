@@ -102,11 +102,15 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 37.[^37] ellátja a légi járműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon légi járművek esetében, amelyek külön jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek.
 
-(6)[^38] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+38.[^38] elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
 
-(7)[^39] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 munkanap.
+39.[^39] kiadja a földi kiszolgáláshoz szükséges engedélyt, a földi kiszolgálás feltételeinek és engedélyezési rendjének szabályairól szóló jogszabályban foglaltak alapján korlátozza a földi kiszolgálók számát, kiválasztási eljárást folytat le, kidolgozza és honlapján közzéteszi a kiválasztási folyamatot és a kiválasztási szempontokat tartalmazó hatósági tájékoztatót, különleges intézkedést rendel el, jóváhagyja a repülőtér üzemben tartója által készített, a különleges intézkedéseket megalapozó korlátozások felszámolása érdekében készített intézkedési tervet és ellenőrzi annak, továbbá a számviteli elkülönítés végrehajtását.
 
-(8)[^40] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
+(6)[^40] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+
+(7)[^41] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 munkanap.
+
+(8)[^42] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
 
 a) légijármű és légijármű berendezés karbantartó szervezetek jóváhagyása,
 
@@ -126,11 +130,11 @@ h) repülőtér létesítésének, fejlesztésének és megszüntetésének enge
 
 i) repülőtér zajgátló védőövezetének kijelölése.
 
-(9)[^41] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+(9)[^43] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
-(10)[^42] Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.
+(10)[^44] Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.
 
-(11)[^43] Ha az (5) bekezdés 23. pontja szerinti eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság 10 munkanapon belül bocsátja ki a hiánypótlási felhívást.
+(11)[^45] Ha az (5) bekezdés 23. pontja szerinti eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság 10 munkanapon belül bocsátja ki a hiánypótlási felhívást.
 
 [^28]: Az 5. § (2) bekezdése a 166/2007. (VI. 28.) Korm. rendelet 10. § (2) bekezdésének c) pontja szerint módosított szöveg.
 [^29]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -142,9 +146,11 @@ i) repülőtér zajgátló védőövezetének kijelölése.
 [^35]: Az 5. § (5) bekezdés 35. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^36]: Az 5. § (5) bekezdés 36. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^37]: Az 5. § (5) bekezdés 37. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^38]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^40]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^41]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^42]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
-[^43]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése.
+[^38]: Az 5. § (5) bekezdés 38. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
+[^39]: Az 5. § (5) bekezdés 39. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
+[^40]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
+[^45]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése.

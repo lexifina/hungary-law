@@ -1,6 +1,6 @@
-## A hajózási hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^90]
+## A hajózási hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^92]
 
-8/E. §[^91] (1)[^92] A Kormány a kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, továbbá fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint az adatváltozás átvezetésére irányuló eljárásban, továbbá ezen eljárások vonatkozásában a tervtől való eltérés engedélyezésére irányuló eljárásban, az 5. melléklet I. pontjában meghatározott feltételek esetén és szakkérdésben, az 5. melléklet I. pontjában maghatározott hatóságokat szakhatóságként jelöli ki. Az eljárásban hozott döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
+8/E. §[^93] (1)[^94] A Kormány a kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, továbbá fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint az adatváltozás átvezetésére irányuló eljárásban, továbbá ezen eljárások vonatkozásában a tervtől való eltérés engedélyezésére irányuló eljárásban, az 5. melléklet I. pontjában meghatározott feltételek esetén és szakkérdésben, az 5. melléklet I. pontjában maghatározott hatóságokat szakhatóságként jelöli ki. Az eljárásban hozott döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
 
 (2) A Kormány a hajókiemelő berendezés elvi létesítési, létesítési, használatbavételi, továbbá fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint az adatváltozás átvezetésére irányuló eljárásban, valamint ezen eljárások vonatkozásában a tervtől való eltérés engedélyezése iránti eljárásban, az 5. melléklet II. pontjában meghatározott feltételek esetén és szakkérdésben, az 5. melléklet II. pontjában meghatározott hatóságokat szakhatóságként jelöli ki.
 
@@ -8,6 +8,6 @@
 
 (4) A Kormány úszóműves rakodóhelyre, hajóállomásra, úszóműállásra, hajóhídra, veszteglőhelyre, vízisportpályára és vízi repülőtérre vonatkozó létesítési, fennmaradási és használatba vételi engedélyezési eljárásban, valamint ezen eljárások vonatkozásában a tervtől való eltérés engedélyezése iránti eljárásban, az 5. melléklet IV. pontjában meghatározott esetekben és szakkérdésben, az 5. melléklet IV. pontjában meghatározott hatóságokat szakhatóságként jelöli ki.
 
-[^90]: A 8/E. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^91]: A 8/E. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^92]: A 8/E. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^92]: A 8/E. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^93]: A 8/E. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^94]: A 8/E. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
