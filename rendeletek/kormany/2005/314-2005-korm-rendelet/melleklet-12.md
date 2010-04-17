@@ -1,4 +1,4 @@
-12. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^95]
+12. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^105]
 
 Az előzetes konzultációban részt vevő közigazgatási szervek
 
@@ -22,4 +22,4 @@ Az előzetes konzultációban részt vevő közigazgatási szervek
 
 | 9. | Ha a kérelem a területfejlesztési koncepciók, programok és a területrendezési tervek tartalmi követelményeiről szóló jogszabály szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | állami főépítész |
 
-[^95]: A 12. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte, újonnan a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^105]: A 12. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte, újonnan a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.

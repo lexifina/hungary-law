@@ -206,7 +206,7 @@
 
 | 87. | I. rendű főút (ha nem tartozik az 1. mellékletbe) |
 
-| 88. | Országos közúthálózati kategóriába sorolható út5 (ha nem tartozik az 1. mellékletbe), ha – 50 ha-nál nagyobb erdőtömböt szel át, vagy – védett természeti területen halad át, vagy – gyógyhelyen a tervezett átlagos napi forgalom 1800 egységjármű vagy annál több |
+| 88. | 1. Országos közúthálózati kategóriába sorolható út (ha nem tartozik az 1. mellékletbe vagy a 87. pontba), ha a) 50 ha-nál nagyobb erdőtömböt szel át, b) védett természeti területen halad át, c)  Natura 2000 területen halad át, vagy d) gyógyhelyen a tervezett átlagos napi forgalom 1800 egységjármű vagy annál több 2. Kerékpárút védett természeti területen vagy Natura 2000 területen |
 
 | 89. | Erdőgazdasági vagy mezőgazdasági út védett természeti területen 1 km hossztól |
 
@@ -361,89 +361,3 @@
 ## 11 Területfoglaláson a tevékenység megvalósításához szükséges telek, vagy telkek teljes és összes területét kell érteni.
 
 4. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
-
-## Az előzetes vizsgálati dokumentáció tartalma
-
-1. Az 1. vagy a 3. mellékletbe tartozó tevékenységek esetén
-
-a) a tervezett tevékenység célja;
-
-b) a tervezett tevékenység számításba vett változatainak alapadatai
-
-ba) a tevékenység volumene,
-
-bb) a telepítés és a működés (használat) megkezdésének várható időpontja és időtartama, a kapacitáskihasználás tervezett időbeli megoszlása,
-
-bc) a tevékenység helye és területigénye, az igénybe veendő terület használatának jelenlegi és a településrendezési tervben rögzített módja,
-
-bd) a tevékenység megvalósításához szükséges létesítmény(ek) (felsorolása és helye),
-
-be) kapcsolódó műveletek[^82],
-
-bf) a tervezett technológia, illetve, ahol nem értelmezhető, a tevékenység megvalósításának leírása (ideértve az anyagfelhasználás főbb mutatóinak megadását),
-
-bg) Magyarországon új, külföldön már alkalmazott technológia bevezetése esetében külföldi referencia,
-
-bh) a tevékenységhez szükséges teher- és személyszállítás nagyságrendje (szállításigényessége), szolgáltatást nyújtó tevékenységnél a szolgáltatást igénybe vevők által keltett jármű- és személyforgalomé is,
-
-bi) a már tervbe vett környezetvédelmi létesítmények és intézkedések,
-
-bj) a ba)–bi) pont szerinti adatok bizonytalansága (rendelkezésre állása), megadva azt, hogy a tervezés mely későbbi szakaszában és milyen információk ismeretében lehet azokat pontosítani,
-
-bk) a telepítési hely lehatárolása térképen, megjelölve a telepítési hely szomszédságában meglévő, illetve – a településrendezési tervben szereplő – tervezett területfelhasználási módokat;
-
-c) a számításba vett változatok összefüggése olyan korábbi, különösen terület- vagy településfejlesztési, illetve rendezési tervekkel, infrastruktúra-fejlesztési döntésekkel és természeti erőforrás felhasználási vagy védelmi koncepciókkal, amelyek befolyásolták a telepítési hely és a megvalósítási mód kiválasztását;
-
-d) nyomvonalas létesítménynél a tervezett nyomvonal továbbvezetésének és távlati kiépítésének ismertetése, és a továbbvezetés tervezése során figyelembe vett környezeti szempontok, feltárt környezeti hatások összegzése;
-
-e) a b) pontban számításba vett változatok környezetterhelése és környezet-igénybevétele (a továbbiakban együtt: hatótényezők) várható mértékének előzetes becslése a tevékenység szakaszaiként [6. § (2) bekezdés] elkülönítve, az esetlegesen környezetterhelést okozó balesetek vagy meghibásodások előfordulási lehetőségeire figyelemmel;
-
-f) a környezetre várhatóan gyakorolt hatások előzetes becslése, különösen
-
-fa) a hatótényezők milyen jellegű hatásfolyamatokat indíthatnak el, új telepítésnél annak becslése is, hogy a terület állapota és funkciói miként változhatnak meg a telepítés következtében,
-
-fb) a hatásfolyamatok milyen területekre terjedhetnek ki; e területeket térképen is körül kell határolni,
-
-fc) az fb) pont szerinti területről rendelkezésre álló környezeti állapot, területhasználati és demográfiai adatok, valamint a hatásfolyamatok jellegének ismeretében milyen és mennyire jelentős környezeti állapotváltozások (hatások) léphetnek fel,
-
-fd)[^83] a Natura 2000 területet érintő hatások, a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások alapján.
-
-2. A csak a 2. mellékletbe tartozó tevékenységek esetén
-
-a) a létesítmény, tevékenység telepítési helyének jellemzői,
-
-b) a tervezett létesítmény, illetve tevékenység leírása, beleértve a telephelyen lévő műszakilag kapcsolódó létesítményeket,
-
-c) a tervezett létesítmény, illetve tevékenység 2. melléklet szerinti besorolása,
-
-d) a létesítmény tervezett termelési kapacitása,
-
-e) az alkalmazandó technikák rövid ismertetése,
-
-f) a létesítmény várható környezeti hatásainak leírása,
-
-g) a létesítményben tervezett tevékenység hatásterületének meghatározása a szakterületi jogszabályok figyelembevételével, kiemelve az esetleges országhatáron átterjedő hatásokat,
-
-h) az engedélykérő által tanulmányozott főbb alternatívák rövid leírása,
-
-i) a nyilvánosság tájékoztatása érdekében esetlegesen megtett intézkedések bemutatása és a vélemények összefoglalása,
-
-j)[^84] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
-
-3. Az 1–3. mellékletbe tartozó tevékenységek dokumentációjának egyéb (közös) követelményei
-
-a) az engedélykérő azonosító adatai;
-
-b)[^85] minősített adatot, vagy a környezethasználó szerint üzleti titkot képező adatot, így megjelölve, elkülönítve kell ismertetni a dokumentációban és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesíteni, amelyek a tevékenység megítélést lehetővé teszik;
-
-c) ha a tevékenység során alkalmazandó technológia, felhasználandó anyagok és előállítandó termék környezetvédelmi minősítése korábban már megtörtént, a vonatkozó minősítési okiratot (okiratokat) csatolni kell;
-
-d) országhatáron átterjedő környezeti hatás bekövetkezésének lehetősége;
-
-e)[^86]
-
-[^82]: Kapcsolódó művelet a tevékenység a) telepítése miatt megnyitott anyagnyerő- vagy lerakóhelyek létesítése és üzemeltetése; b) telepítéséhez és megvalósításához szükséges szállítás, raktározás, tárolás; c) megvalósítása során keletkező hulladék és szennyvíz kezelése; d) energia- és vízellátása, ha az saját energiaellátó rendszerrel vagy vízkivétellel történik.
-[^83]: A 4. számú melléklet 1. f) pont fd) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^84]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
-[^85]: A 4. melléklet 3. pont b) alpontja a 90/2010. (III. 26.) Korm. rendelet 68. §-ával megállapított szöveg.
-[^86]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.

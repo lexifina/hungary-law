@@ -2,15 +2,13 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-a) érintett nyilvánosság: az a természetes személy, jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet,
+a)[^5] érintett nyilvánosság: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 
-aa) akire (amelyre) az e rendelet szerinti eljárásban hozott döntés kihat, vagy kihathat, vagy
+aa) amelyre az e rendelet szerinti eljárásban hozott döntés kihat, vagy kihathat, vagy
 
-ab) aki (amely) az e rendelet szerinti eljárásban hozott döntésben egyébként érdekelt.
+ab) amely az e rendelet szerinti eljárásban hozott döntésben egyébként érdekelt, ideértve a Kvt. 98. § (1) bekezdésében foglalt környezetvédelmi szervezetet is;
 
-A Kvt. 98. §-ának (1) bekezdése szerinti környezetvédelmi szervezet mindig érdekeltnek minősül.
-
-b)[^5] környezethasználó: aki – a Kvt. 4. § 9. pontjára figyelemmel – az 1. § szerinti tevékenység megvalósítását kérelmezi vagy olyat folytat.
+b)[^6] környezethasználó: aki – a Kvt. 4. § 9. pontjára figyelemmel – az 1. § szerinti tevékenység megvalósítását kérelmezi vagy olyat folytat.
 
 (2) A környezeti hatásvizsgálati eljárás szempontjából
 
@@ -66,4 +64,5 @@ d) jelentős változtatás: az üzemeltetésben, annak körülményeiben, funkci
 
 e) jelentős változás: a tevékenységben az üzemeltető szándéka nélkül bekövetkezett olyan módosulás, amely a tevékenység környezetre vagy az emberi egészségre gyakorolt hatását kedvezőtlenül befolyásolja.
 
-[^5]: A 2. § (1) bekezdés b) pontja a 151/2009. (VII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^5]: A 2. § a) pontja a 110/2010. (IV. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés b) pontja a 151/2009. (VII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.

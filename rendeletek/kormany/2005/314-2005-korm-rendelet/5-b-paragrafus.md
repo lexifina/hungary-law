@@ -1,4 +1,4 @@
-5/B. §[^21] (1) A felügyelőség a nyilvánosság észrevételeinek beérkezését követően – a vélemény tartalmának kialakítása érdekében – szóbeli konzultációt tarthat, illetve a környezethasználó vagy az 5/A. § (2) bekezdés szerinti közigazgatási szerv kérelmére szóbeli konzultációt tart, amelyre meghívja az 5/A. § (2) bekezdés szerinti közigazgatási szerveket és a környezethasználót.
+5/B. §[^25] (1) A felügyelőség a nyilvánosság észrevételeinek beérkezését követően – a vélemény tartalmának kialakítása érdekében – szóbeli konzultációt tarthat, illetve a környezethasználó vagy az 5/A. § (2) bekezdés szerinti közigazgatási szerv kérelmére szóbeli konzultációt tart, amelyre meghívja az 5/A. § (2) bekezdés szerinti közigazgatási szerveket és a környezethasználót.
 
 (2) A felügyelőség a konzultációs kérelembe, az (1) bekezdés szerinti szóbeli konzultációról készült összefoglalóba, valamint a közigazgatási szervek észrevételeibe a betekintést – a rendelkezésre állásukat, illetve a szóbeli konzultációt követő öt munkanapon belül – lehetővé teszi.
 
@@ -26,4 +26,4 @@ f) ha valamely Natura 2000 területre jelentős környezeti hatás várható, az
 
 (8) A környezethasználó a vélemény megadását követő két éven belül nyújthat be kérelmet a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránt. Ha a felügyelőség határidőben véleményt nem ad, a környezethasználó a vélemény hiányában is benyújthatja a kérelmet a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránt.
 
-[^21]: Az 5/B. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^25]: Az 5/B. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.

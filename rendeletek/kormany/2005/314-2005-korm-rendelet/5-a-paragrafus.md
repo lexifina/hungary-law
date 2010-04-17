@@ -1,6 +1,6 @@
-## ELŐZETES KONZULTÁCIÓ[^18]
+## ELŐZETES KONZULTÁCIÓ[^22]
 
-5/A. §[^19] (1) A felügyelőség a környezethasználó kezdeményezésére a 3–5. § szerinti előzetes vizsgálat helyett előzetes konzultációt folytat le, ha a környezethasználó olyan tevékenység megvalósítását tervezi, amely
+5/A. §[^23] (1) A felügyelőség a környezethasználó kezdeményezésére a 3–5. § szerinti előzetes vizsgálat helyett előzetes konzultációt folytat le, ha a környezethasználó olyan tevékenység megvalósítását tervezi, amely
 
 a) az 1. számú mellékletben szerepel;
 
@@ -10,7 +10,7 @@ c) a 2. számú mellékletben szerepel, azonban nem tartozik a 3. számú mellé
 
 (2) Az előzetes konzultáció célja, hogy a környezeti hatástanulmány, illetve az egységes környezethasználati engedély iránti kérelem tartalmi követelményeiről a felügyelőség véleményt, a 12. számú mellékletben meghatározott közigazgatási szervek és a nyilvánosság észrevételt adjon.
 
-(3)[^20] Az előzetes konzultációra irányuló kezdeményezéshez csatolni kell a 4. számú melléklet szerinti tartalmi követelményeknek megfelelő dokumentációt (a továbbiakban a kezdeményezés és a dokumentáció együtt: konzultációs kérelem), amelynek egyes részeit a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő is elkészítheti. A konzultációs kérelmet a felügyelőségnek nyolc nyomtatott példányban és elektronikus adathordozón is be kell nyújtani.
+(3)[^24] Az előzetes konzultációra irányuló kezdeményezéshez csatolni kell a 4. számú melléklet szerinti tartalmi követelményeknek megfelelő dokumentációt (a továbbiakban a kezdeményezés és a dokumentáció együtt: konzultációs kérelem), amelynek egyes részeit a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő is elkészítheti. A konzultációs kérelmet a felügyelőségnek nyolc nyomtatott példányban és elektronikus adathordozón is be kell nyújtani.
 
 (4) A felügyelőség a konzultációs kérelmet megküldi a (2) bekezdés szerinti közigazgatási szerveknek, amelyek arra 15 napon belül észrevételt tehetnek.
 
@@ -32,6 +32,6 @@ f) a tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be 
 
 (7) A felügyelőség – az (5)–(6) bekezdéstől eltérően – katonai titokvédelem alá eső tevékenység esetén csak a telepítés helye szerinti, valamint a feltételezetten érintett települések jegyzőjét tájékoztatja a konzultációs kérelemről.
 
-[^18]: Az 5/A. §-t megelőző címet a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^19]: Az 5/A. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^20]: Az 5/A. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: Az 5/A. §-t megelőző címet a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^23]: Az 5/A. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^24]: Az 5/A. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (5) bekezdésével megállapított, a 110/2010. (IV. 9.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
