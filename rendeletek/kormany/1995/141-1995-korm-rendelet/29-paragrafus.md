@@ -1,7 +1,11 @@
-29. §[^35] Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+29. §[^38] Ez a rendelet
 
-a) az Európai Parlament és a Tanács 216/2008/EK rendelete (2008. február 20.) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről,
+a) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és a tanácsi rendeletnek,
 
-b) az Európai Parlament és a Tanács 562/2006/EK rendelete (2006. március 15.) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról.
+b) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és a tanácsi rendeletnek,
 
-[^35]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.
+c) a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló, 2005. december 20-i 2096/2005/EK bizottsági rendelet II. melléklet 4. pontjának
+
+a végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+[^38]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 108/2010. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
