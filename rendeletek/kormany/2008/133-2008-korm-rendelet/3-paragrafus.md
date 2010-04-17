@@ -54,7 +54,7 @@ i) az energiahatékonyság és energiatakarékosság fokozása érdekében teend
 
 (3) A miniszter a bányászati ügyekért való felelőssége körében előkészíti a bányászatról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(4)[^4]
+(4)[^5]
 
 (5) A miniszter a postaügyért való felelőssége körében előkészíti különösen
 
@@ -62,4 +62,4 @@ a) a postai tevékenységről,
 
 b) a postai szolgáltatások ellátásáról
 
-[^4]: A 3. § (4) bekezdését a 285/2008. (XI. 28.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 3. § (4) bekezdését a 285/2008. (XI. 28.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
