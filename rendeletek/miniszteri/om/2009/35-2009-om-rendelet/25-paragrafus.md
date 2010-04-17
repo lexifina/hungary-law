@@ -4,7 +4,7 @@
 
 (2) E rendelet hatálybalépésével egyidejűleg hatályát veszti a választási eljárásról szóló 1997. évi C. törvénynek az országgyűlési képviselők választásán történő végrehajtásáról szóló 60/2005. (XII. 21.) BM rendelet.
 
-Melléklet a 35/2009. (XII. 30.) ÖM rendelethez
+Melléklet a 35/2009. (XII. 30.) ÖM rendelethez[^2]
 
 Az országgyűlési képviselők választásán használandó nyomtatványok
 
@@ -148,73 +148,7 @@ A névjegyzék összeállításakor a névjegyzéken szereplő választópolgár
 
 Melléklet 1/b. minta
 
-(az első fordulóban a szavazóhelyiségbe kerülő névjegyzék mintája)
-
-|  | Lapszám: _____ | Forduló:_1__ |
-
-NÉVJEGYZÉK AZ ORSZÁGGYŰLÉSI KÉPVISELŐK VÁLASZTÁSÁHOZ
-
-(a szavazás napja)
-
-(Országgyűlési egyéni választókerület/település)
-
-…… számú szavazókör
-
-| 1. | CSALÁDI ÉS UTÓNÉV személyi azonosító SZÜLETÉSI NÉV LAKCÍM |
-
-| 2. | MINTA BÉLA ÁRPÁD 1-341231-1234 1111 PÉLDA UTCA 2. A ÉP. B LPH 3. EM. |
-
-| 3. | MINTA BÉLA ÁRPÁD 1-500101-5678 1111 PÉLDA UTCA 2. A ÉP. B LPH 3. EM. |
-
-| 4. | MINTA LAJOSNÉ 2-221222-2222 NAGY ÁGNES 1111 PÉLDA UTCA 1. |
-
-| 5. | MINTA MÁRTA 2-560302-0011 KOVÁCS ERZSÉBET 1111 PÉLDA UTCA 3. |
-
-| ….. | ……………………………………… ..………………………… …………………………………. …………………………………………………………... |
-
-a névjegyzék utolsó oldalán:
-
-A névjegyzék zárásakor a névjegyzékben lévő választópolgárok száma (A): …………
-
 Melléklet 1/c. minta
-
-(a második fordulóban a szavazóhelyiségbe kerülő névjegyzék mintája)
-
-|  | Lapszám: _____ | Forduló:_2__ |
-
-NÉVJEGYZÉK AZ ORSZÁGGYŰLÉSI KÉPVISELŐK VÁLASZTÁSÁHOZ
-
-(a szavazás napja)
-
-(Országgyűlési egyéni választókerület/település)
-
-…… számú szavazókör
-
-| 1. | CSALÁDI ÉS UTÓNÉV személyi azonosító SZÜLETÉSI NÉV LAKCÍM Jelzés: első fordulóra kiadott igazolás (OEVK, település) ha csak az egyik választókerületben szavazhat |
-
-| 2. | MINTA BÉLA ÁRPÁD 1-341231-1234 1111 PÉLDA UTCA 2. A ÉP. B LPH 3. EM. |
-
-| 3. | MINTA BÉLA ÁRPÁD 1-500101-5678 1111 PÉLDA UTCA 2. A ÉP. B LPH 3. EM. igazolás kiadva az 1. fordulóra: Komárom-Esztergom Megye 4. OEVK, Komárom |
-
-| 4. | MINTA JÓZSEFNÉ 2-020202-0202 KISS ÉVA 1111 PÉLDA UTCA 4. igazolás kiadva az 1. fordulóra: Pest Megye 4. OEVK, Gödöllő CSAK EGYÉNI |
-
-| 5. | MINTA KÁROLY 1-111111-1111 1111 PÉLDA UTCA 4. igazolás kiadva az 1. fordulóra: Budapest 15. OEVK, Budapest, XI. ker. CSAK LISTÁS |
-
-| 6. | MINTA LAJOSNÉ 2-221222-2222 NAGY ÁGNES 1111 PÉLDA UTCA 1. |
-
-| 7. | MINTA MÁRTA 2-910402-0011 KOVÁCS ERZSÉBET 1111 PÉLDA UTCA 3. |
-
-| ….. | ……………………………………… ……………………………... …………………………………. …………………………………………………………... |
-
-a névjegyzék utolsó oldalán:
-
-A névjegyzék zárásakor a névjegyzékben lévő választópolgárok száma
-
-az egyéni választókerületben (A): …………
-
-A névjegyzék zárásakor a névjegyzékben lévő választópolgárok száma
-
-a területi választókerületben (A): …………
 
 Melléklet 2. minta
 
@@ -755,3 +689,91 @@ Melléklet 12. minta
 | A jelölő szervezet(ek) száma: |  |  |  |
 
 | Hivatalos neve (közös jelölt esetén a jelölő szervezetek neve az alábbi sorrendben lesz feltüntetve a szavazólapon): | Képviselőjének aláírása: |
+
+| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Kelt: …………………………, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  | a jelölt aláírása |
+
+* A jelölésről való lemondás esetén csak a fejrovatot, valamint az (1) és (2) rovatot kell kitölteni.
+
+Melléklet 13. minta
+
+| M1 |  | ORSZÁGGYŰLÉSI KÉPVISELŐK VÁLASZTÁSA |  | 1 |
+
+TERÜLETI LISTA BEJELENTÉSE
+
+| A |  |  |  |  | évi országgyűlési képviselő-választáson |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | megyében / fővárosban |
+
+| területi listát állítunk, |
+
+| ⬜amelynek nyilvántartásba vételét a következő adatokkal kezdeményezzük |
+
+| ⬜amelynek nyilvántartásba vett adatait az alábbiakra módosítjuk |
+
+A választás során adatainkat az alábbiak szerint kívánjuk szerepeltetni:
+
+TERÜLETI LISTA ADATAI:
+
+(1) A lista típusa:
+
+⬜ önálló
+
+⬜ közös
+
+| (2) A lista rövidített neve (INTERNET-en jelenik meg): |
+
+| a) magyar nyelven: |
+
+| b) angol nyelven: |
+
+| (3) A lista betűszavas rövidítése: (INTERNET-en jelenik meg): |
+
+Melléklet 13. minta
+
+| M1 |  |  |  | 2 |
+
+A LISTÁT ÁLLÍTÓ JELÖLŐ SZERVEZET(EK) LISTA ÜGYÉBEN FELHATALMAZOTT KÉPVISELŐJÉNEK:
+
+| a) neve: |
+
+| b) értesítési címe: |
+
+| postai irányítószám: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| település + kerület: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| c) közterület neve, jellege (út/utca/tér/stb.), házszám, épület, lépcsőház, szint (fsz., emelet stb.), ajtó: |
+
+| d) telefonszám: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| faxszám: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| e-mail cím: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+A LISTA KÖLTSÉGVETÉSI TÁMOGATÁSÁHOZ (CSAK KÖZÖS LISTA ESETÉN KELL KITÖLTENI):
+
+| a) bank neve: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| b) bankszámla száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Melléklet 13. minta
+
+| M1 |  |  |  | 3 |
+
+| A listát állító jelölő szervezet(ek) száma: |  |  |  |
+
+| A listát állító jelölő szervezet(ek) hivatalos neve: | (közös lista esetén a jelölő szervezetek neve az alábbi sorrendben lesz feltüntetve a szavazólapon) |
+
+[^2]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a szerint módosított szöveg.

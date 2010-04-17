@@ -18,11 +18,19 @@ g) közreműködik a szavazóköri jegyzőkönyv, a szavazás közben történt 
 
 h) közreműködik a szavazóurnáknak, a szavazóköri jegyzőkönyveknek, valamint az egyéb választási iratoknak a HVI hivatali helyiségébe történő szállításában.
 
-(2) A kijelölt szavazókör SZSZB-je mellett működő jegyzőkönyvvezető
+(2)[^1] A kijelölt szavazókör SZSZB-je mellett működő jegyzőkönyvvezető az (1) bekezdésben foglalt feladatokon túl, az SZSZB döntése alapján
 
-a) az SZSZB döntése alapján gondoskodik – a segédlista felhasználásával – a névjegyzék és az F jegyzék kézi továbbvezetéséről,
+a) a választópolgár nevénél lévő körbe tett megjelöléssel gondoskodik az igazolás alapján névjegyzékbe vett választópolgár névjegyzékbe vételének dokumentálásáról,
 
-b) a szavazás befejezését követően a névjegyzéket az utolsó sorszám után következő sor áthúzásával lezárja, felvezeti a névjegyzékre a zárásig felvettek, valamint a névjegyzéken a záráskor szereplő választópolgárok számát (a második fordulóban választókerületenként), valamint aláírásával és lebélyegzéssel hitelesíti a névjegyzéket (a választójogosultak számának megállapításakor a névjegyzékben szereplő választópolgárt csak abban a választókerületben (területi vagy egyéni) kell figyelembe venni, amelyben szavazhat).
+b) a szavazás befejezését követően
+
+ba) gondoskodik a „Névjegyzékbe vehető választópolgárok” listáján az a) pont szerint nem jelölt tételek áthúzásáról,
+
+bb) gondoskodik az a) pont szerint jelölt tételeknek – a névjegyzék nyomtatásakor utolsó sorszámon szereplő választópolgár sorszámától folytatva – folyamatos sorszámozással történő ellátásáról (ettől kezdve a „Névjegyzékbe vehető választópolgárok” listája a névjegyzék részét képezi),
+
+bc) felvezeti a szavazás napján igazolás alapján a névjegyzékbe felvett választópolgárok számát, valamint aláírásával és lebélyegzéssel hitelesíti a névjegyzéket,
+
+bd) az „F” jegyzékre felvezeti az igazolás alapján névjegyzékbe vett választópolgárok adatait.
 
 (3) A HVI
 
@@ -35,3 +43,5 @@ c) fogadja és – ellenőrzést követően – az informatikai rendszerben hala
 d) fogadja a szavazóköri jegyzőkönyveket, azokat jogi és számszaki szempontból ellenőrzi, és haladéktalanul elvégzi az adatbeviteli teendőket (számítógépes adatfeldolgozásra a jegyzőkönyvek 1. példánya szolgál); a HVI a hibásan vagy hiányosan kitöltött jegyzőkönyvre felhívja az SZSZB figyelmét, és a jegyzőkönyv javítását követően intézkedik az adatok informatikai rendszerbeli korrekciójáról is, valamint
 
 e) fogadja a szavazóurnákat és a kijelölt szavazókörből az F jegyzéket, azt ellenőrzi, és elvégzi az adatbeviteli teendőket.
+
+[^1]: A 7. § (2) bekezdése a 10/2010. (IV. 16.) ÖM rendelet 1. §-ával megállapított szöveg.
