@@ -1,0 +1,1 @@
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az 1. és a 3. alcím tekintetében az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés b) és c) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
