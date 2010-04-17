@@ -8,8 +8,6 @@
 
 ## – Aktív és passzív hálózati elemek
 
-## – Internetszolgáltatás
-
 ## – Mobil kommunikációs eszközök és szolgáltatások
 
 ## – Zártcélú mobil kommunikációs eszközök és szolgáltatások
@@ -35,8 +33,6 @@
 ## – Nyomtatók
 
 ## – Másolók és sokszorosítók
-
-## – Faxok
 
 ## – Iratmegsemmisítő gépek
 
@@ -109,8 +105,6 @@
 ## – Egyszerhasználatos injekciós tűk
 
 ## – Zárt vérvételi rendszerek
-
-## – Radiológiai filmek, erősítőfóliák, vegyszerek, képlemezek
 
 ## Étkezési hozzájárulás juttatását támogató szolgáltatások
 
