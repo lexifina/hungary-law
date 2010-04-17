@@ -1,4 +1,4 @@
-## 9. §[^20]
+## 9. §[^20] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet és a vízi közlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló 30/2003. (III. 18.) Korm. rendelet módosításáról szóló 110/2010. (IV. 9.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 10. § (1) A 12 főnél több utas rendeltetésszerű szállítására engedélyezett személyhajó e rendelet alkalmazásában nagyhajónak minősül.
 
@@ -90,7 +90,7 @@ b)[^41] a kérelmező tulajdonában lévő, és az adott vízterületre alkalmas
 
 c) a hajózási hatóság által kiadott képzési engedély száma.
 
-[^20]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 876. pontja hatályon kívül helyezte.
+[^20]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 876. pontja hatályon kívül helyezte, újonnan a 110/2010. (IV. 9.) Korm. rendelet 9. §-a iktatta be.
 [^21]: A 10. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^22]: A 10. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 876. pontja hatályon kívül helyezte.
 [^23]: A melléklet bevezető szövegrésze 182/2009. (IX. 10.) Korm. rendelet 290. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
