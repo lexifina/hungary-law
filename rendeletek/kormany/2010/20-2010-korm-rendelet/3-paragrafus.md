@@ -10,6 +10,8 @@
 
 (6) Az 1. § (3) bekezdése c) pontja esetében a KHEM – a PM-mel történő előzetes egyeztetés után – az Abtv. 11 §-a alapján költségtérítésre jogosult helyközi közszolgáltatást végző társaságokkal kötött közszolgáltatási szerződés záradékában rendelkezik a költségtérítésről. A költségtérítés folyósításáról a KHEM az APEH felé az e szerződés záradékában foglalt ütemezés alapján intézkedik. Az APEH a költségtérítést az igényléstől számított 15 napon belül folyósítja.
 
-(7) Az 1. § (3) bekezdésének a)–d) pontokban foglalt költségtérítéseknek az adott negyedév végéig kifizetett együttes összege nem haladhatja meg az év kezdetétől az adott negyedév végéig az 1. § (3) bekezdése szerinti költségvetési előirányzatból – egyenletes ütemű kifizetést feltételezve – időarányosan esedékes összeget.
+(7)[^2]
 
 (8) Az 1. § (3) bekezdésének a)–b) és d pontja szerinti szolgáltatók a havi költségtérítést a tárgyhó első napjától igényelhetik, amelyet az APEH az igénylést követő 15 napon belül folyósít.
+
+[^2]: A 3. § (7) bekezdését a 121/2010. (IV. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte.

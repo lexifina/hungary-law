@@ -16,10 +16,12 @@ M Ft
 
 2010. év
 
-| a) | költségtérítés a MÁV-START Vasúti Személyszállító Zrt. (a továbbiakban: MÁV-START) a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 27. § (1) bekezdése szerinti szerződés alapján végzett személyszállítási közszolgáltatásaihoz | 122 400,0 |
+| a)2 | költségtérítés a MÁV-START Vasúti Személyszállító Zrt. (a továbbiakban: MÁV-START) a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 27. § (1) bekezdése szerinti szerződés alapján végzett személyszállítási közszolgáltatásaihoz | 144 763,0 |
 
 | b) | költségtérítés a Győr-Sopron-Ebenfurti Vasút Zrt. (a továbbiakban: GYSEV) a Vtv. 27. § (1) bekezdése szerinti szerződés alapján végzett személyszállítási közszolgáltatásaihoz | 5 500,0 |
 
 | c) | költségtérítés az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény (a továbbiakban: Abtv.) 9. § (1) bekezdése szerinti szerződéssel rendelkező autóbusszal szolgáltatást végző társaságok (a továbbiakban: autóbusszal szolgáltatást végző társaságok) helyközi személyszállítási közszolgáltatásaihoz | 24 700,0 |
 
 | d) | költségtérítés a GYSEV által működtetett vasúti pályahálózathoz | 1 300,0 |
+
+2 Az 1. § (3) bekezdés a) pontja a 121/2010. (IV. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
