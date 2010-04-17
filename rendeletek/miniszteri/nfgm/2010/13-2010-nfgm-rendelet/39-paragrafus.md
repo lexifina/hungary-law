@@ -1,3 +1,3 @@
-39. § (1) Hatályát veszti a Nemzeti Fejlesztési Ügynökség felügyelete alá, a XIX. Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok 2009. évi felhasználásának rendjéről szóló 11/2009. (IV. 14.) NFGM rendelet.
+39. §[^2]
 
-(2) E § az e rendelet hatálybalépését követő napon hatályát veszti.
+[^2]: A 39. §-t a (2) bekezdés hatályon kívül helyezte.
