@@ -38,6 +38,6 @@
 
 ## K: a tárgyévre vonatkozó begyűjtési arány.
 
-2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^46]
+2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^52]
 
-[^46]: A 2. számú melléklet a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 629. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 2. számú melléklet a 101/2010. (IV. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

@@ -4,28 +4,30 @@
 
 (2) E rendelet 9. §-ának (4) bekezdése 2009. július 1-jén, 17. §-ának (4) bekezdése és 3. melléklete 2009. január 1-jén lép hatályba.
 
-(3)[^35]
+(3)[^38]
 
-(4)[^36]
+(4)[^39]
 
-(5)[^37]
+(5)[^40]
 
-(6) Az adatszolgáltatási kötelezettség teljesítése során a 2. melléklet 1., 5. és 6. táblázata szerinti adatokat első alkalommal 2010. évben, a 2. melléklet 2. táblázata szerinti adatokat első alkalommal 2011. évben, a 2. melléklet 3. és 4. táblázata szerinti adatokat első alkalommal 2012. évben kell benyújtani. Ez a bekezdés 2012. február 21-én hatályát veszti.
+(6)[^41] Az adatszolgáltatási kötelezettség teljesítése során a 3. melléklet 1.2. pontja szerinti adatokat első alkalommal 2011. évben, a 3. melléklet 1.3. pontja szerinti adatokat első alkalommal 2012. évben kell benyújtani. Ez a bekezdés 2012. február 21-én hatályát veszti.
 
-(7)[^38] Az 1. mellékletben a begyűjtési kötelezettség mértékét meghatározó számítási képletben 2009-ben a begyűjtési arányt csak a 2009-ben forgalmazott mennyiséggel kell megszorozni, 2010-ben pedig csak a 2009–2010. évben forgalmazott mennyiség átlagával. Ez a bekezdés 2011. január 1-jén hatályát veszti.
+(7)[^42] Az 1. mellékletben a begyűjtési kötelezettség mértékét meghatározó számítási képletben 2009-ben a begyűjtési arányt csak a 2009-ben forgalmazott mennyiséggel kell megszorozni, 2010-ben pedig csak a 2009–2010. évben forgalmazott mennyiség átlagával. Ez a bekezdés 2011. január 1-jén hatályát veszti.
 
-(8)[^39]
+(8)[^43]
 
-(9)[^40] Az e jogszabály szerinti tevékenységét tárgyévben megkezdő gyártó begyűjtési kötelezettségének megállapításához az 1. melléklet szerinti számítási képletben a begyűjtési arányt a tevékenység megkezdésének évében forgalmazott mennyiséggel kell megszorozni, az ezt követő évben pedig csak a tevékenység megkezdésének évében és az azt követő évben forgalmazott mennyiség átlagával.
+(9)[^44] Az e jogszabály szerinti tevékenységét tárgyévben megkezdő gyártó begyűjtési kötelezettségének megállapításához az 1. melléklet szerinti számítási képletben a begyűjtési arányt a tevékenység megkezdésének évében forgalmazott mennyiséggel kell megszorozni, az ezt követő évben pedig csak a tevékenység megkezdésének évében és az azt követő évben forgalmazott mennyiség átlagával.
 
-(10) Az e jogszabály szerinti tevékenységét tárgyévben megkezdő gyártó adatszolgáltatási kötelezettsége teljesítése során a 2. melléklet 1., 5. és 6. táblázata szerinti adatokat első alkalommal a tevékenység megkezdését követő évben, a 2. melléklet 2. táblázata szerinti adatokat első alkalommal a tevékenység megkezdését követő második évben, a 2. melléklet 3. és 4. táblázata szerinti adatokat első alkalommal a tevékenység megkezdését követő harmadik évben nyújtja be.
+(10)[^45] Az e jogszabály szerinti tevékenységét tárgyévben megkezdő gyártó adatszolgáltatási kötelezettsége teljesítése során a 3. melléklet 1.1., 1.5. és 1.6. pontja szerinti adatokat első alkalommal a tevékenység megkezdését követő évben, a 3. melléklet 1.2. pontja szerinti adatokat első alkalommal a tevékenység megkezdését követő második évben, a 3. melléklet 1.3. pontja szerinti adatokat első alkalommal a tevékenység megkezdését követő harmadik évben nyújtja be.
 
-(11)[^41]
+(11)[^46]
 
-[^35]: A 15. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^36]: A 15. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^37]: A 15. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^38]: A 15. § (7) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^39]: A 15. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^40]: A 15. § (9) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^41]: A 15. § (11) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^38]: A 15. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^39]: A 15. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^40]: A 15. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^41]: A 15. § (6) bekezdése a 101/2010. (IV. 2.) Korm. rendelet 6. § a) pont aa)–ab) alpontja és 7. § (1) bekezdése szerint módosított szöveg.
+[^42]: A 15. § (7) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^43]: A 15. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^44]: A 15. § (9) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^45]: A 15. § (10) bekezdése a 101/2010. (IV. 2.) Korm. rendelet 6. § b) pont ba)–bc) alpontja szerint módosított szöveg.
+[^46]: A 15. § (11) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

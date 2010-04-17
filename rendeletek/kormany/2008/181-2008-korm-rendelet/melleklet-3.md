@@ -1,181 +1,51 @@
-## Adatlap az adatszolgáltatási kötelezettség teljesítéséhez
+## A gyártó nyilvántartásához szükséges adatok
 
-## 1. Gyártó adatai
+## 1. A gyártó neve, adószáma, KÜJ száma, székhelye, elérhetősége, kapcsolattartójának neve;
 
-## Rövidített név:
+## 2. A gyártó által Magyarországon képviselt, illetve forgalmazott márkanevek, amennyiben vannak ilyenek;
 
-## Teljes név:
+## 3. A gyártó által forgalmazott elem, illetve akkumulátor típusa (hordozható, ipari, gépjármű);
 
-## Országjel:
+## 4. A kötelezettség teljesítésének módja (egyéni vagy koordináló szervezeten keresztüli teljesítés);
 
-## Székhely:
+## 5. A nyilvántartásba vételi kérelem keltezése, és a gyártó nyilatkozata a megadott adatok valódiságáról.
 
-## Adószám:
+3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^53]
 
-## KÜJ szám:
+A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt adatok
 
-## GLN szám (ha van):
+1. A gyártó és az átvevő adatszolgáltatási kötelezettsége tárgyévet követő év február 20-ig:
 
-## Kapcsolattartó neve:
+1.1. A gyártó által a tárgyévben forgalmazott elem, illetve akkumulátor mennyisége, kilogramm;
 
-## telefonszáma:
+1.2. A gyártó által a tárgyévet megelőző évben forgalmazott elem, illetve akkumulátor mennyisége, kilogramm;
 
-## e-mail címe:
+1.3. A gyártó által a tárgyévet kettővel megelőző évben forgalmazott elem, illetve akkumulátor mennyisége, kilogramm;
 
-## faxszáma:
+1.4. A gyártó által a tárgyévben és a tárgyévet megelőző két évben forgalmazott hordozható elem, illetve akkumulátor mennyiségének átlaga;
 
-## 2. A gyártó visszavételi, begyűjtési és hulladékkezelési kötelezettségének teljesítési módja:
+1.5. A gyártó tárgyévi begyűjtési kötelezettsége (kilogramm) és a tárgyévi begyűjtési arány;
 
-## (1) Koordináló szervezeten keresztül történő teljesítés esetén
+1.6. A gyártó által a tárgyévben visszavett, begyűjtött és kezelt elem, illetve akkumulátor hulladék mennyisége (kilogramm) hasznosítónként megbontva, újrafeldolgozási hatékonysági mutatóval, a Magyar Köztársaság területén kívüli hulladékkezelés esetén a kiviteli engedély száma;
 
-## Koordináló szervezet:
+1.7. Az átvevő által megállapodásban átvállalt hulladékmennyiség, kilogramm.
 
-## – neve, székhelye, adószáma:
+2. A gyártó és az átvevő adatszolgáltatási kötelezettsége tárgyév február 20-ig:
 
-## – engedély száma:
+2.1. A gyártó visszavételi, begyűjtési és kezelési kötelezettsége ellátásának biztosítására képzett tárgyévi biztosíték összege és típusa, amennyiben biztosítékképzésre köteles;
 
-## – KÜJ száma:
+2.2. Az átvevő a vele szerződésben álló gyártók (partnerek) adatai és az átvállalt hulladékmennyiség (kilogramm);
 
-## (2) Átvevő útján való teljesítés esetén
+3. Az elemek és akkumulátorok adatszolgáltatásban feltüntetendő típusai:
 
-## A hulladék átvevő(k):
+3.1. Savas ólomakkumulátor
 
-## a) neve, székhelye, adószáma:
+3.2. Lúgos akkumulátor (ebből Ni-Cd akkumulátor)
 
-## b) hulladékkezelési engedély száma, a kiállító hatóság megnevezése:
+3.3. Gomb elem és akkumulátor (ebből 0,0005–2% közötti higanytartalmú)
 
-## c) KÜJ száma:
+3.4. Egyéb elemek és akkumulátorok
 
-## 3. Biztosítékképzés adatai [10. § (7) bekezdés alá tartozóknak nem kell kitölteni]
+3.5. Összesített mennyiség
 
-## Biztosíték formája:
-
-## a) hitelintézet vagy biztosító által vállalt garancia, illetve ezzel egyenértékű bankári kötelezettségvállalás;
-
-## b) biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény;
-
-## c) hitelintézetnél biztosíték céljából elhelyezett, elkülönítetten kezelt és zárolt pénzösszeg;
-
-## d) biztosítási szerződés.
-
-## Pénzintézet neve, székhelye:
-
-## Biztosíték összege:
-
-## 4. A gyártó által a tárgyévben forgalmazott mennyiség [kg]
-
-## 1. táblázat
-
-|  | Hordozható elemek és akkumulátorok | Ipari elemek és akkumulátorok | Gépjármű elemek és akkumulátorok |
-
-| Savas ólomakkumulátor47 |  |  |  |
-
-| Nagy kapacitású lúgos akkumulátor48 A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Kis kapacitású lúgos akkumulátor49 A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombakkumulátor A 0,0005–2% közötti higanytartalmúakat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombelem |  |  |  |
-
-| Egyéb elemek és akkumulátorok |  |  |  |
-
-| Összesen |  |  |  |
-
-## 47 Savas elektrolit közeget és fémólmot tartalmazó akkumulátor.
-
-## 48 5 Ah-nál nagyobb kapacitású lúgos akkumulátor, amelynek elektrolit közege lúg, fémtartalma általában nikkel és kadmium (ideértve a más fémtartalmúakat is).
-
-## 49 5 Ah-nál kisebb kapacitású lúgos akkumulátor, amelynek elektrolit közege lúg, fémtartalma általában nikkel és kadmium (ideértve a más fémtartalmúakat is).
-
-## A gyártó által a tárgyévet megelőző évben forgalmazott mennyiség [kg]
-
-## 2. táblázat
-
-|  | Hordozható elemek és akkumulátorok | Ipari elemek és akkumulátorok | Gépjármű elemek és akkumulátorok |
-
-| Savas ólomakkumulátor |  |  |  |
-
-| Nagy kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Kis kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombakkumulátor A 0,0005–2% közötti higanytartalmúakat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombelem |  |  |  |
-
-| Egyéb elemek és akkumulátorok |  |  |  |
-
-| Összesen |  |  |  |
-
-## A gyártó által a tárgyévet kettővel megelőző évben forgalmazott mennyiség [kg]
-
-## 3. táblázat
-
-|  | Hordozható elemek és akkumulátorok | Ipari elemek és akkumulátorok | Gépjármű elemek és akkumulátorok |
-
-| Savas ólomakkumulátor |  |  |  |
-
-| Nagy kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Kis kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombakkumulátor A 0,0005–2% közötti higanytartalmúakat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombelem |  |  |  |
-
-| Egyéb elemek és akkumulátorok |  |  |  |
-
-| Összesen |  |  |  |
-
-## 5. A tárgyévre vonatkozó begyűjtési kötelezettség
-
-## 4. táblázat
-
-| Az elmúlt három évben forgalmazott hordozható elemek és akkumulátorok átlagos éves tömege (kg) | Begyűjtési arány a tárgyévre | Begyűjtési kötelezettség a tárgyévre (kg) |
-
-## 6. A tárgyévben begyűjtött hulladék elem és akkumulátor mennyisége [kg] (a gyártó által, átvevőnként, valamint összesítve)
-
-## 5. táblázat
-
-|  | Hordozható elemek és akkumulátorok | Ipari elemek és akkumulátorok | Gépjármű elemek és akkumulátorok |
-
-| Savas ólomakkumulátor |  |  |  |
-
-| Nagy kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Kis kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombakkumulátor A 0,0005–2% közötti higanytartalmúakat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombelem |  |  |  |
-
-| Egyéb elemek és akkumulátorok |  |  |  |
-
-| Összesen |  |  |  |
-
-## 7. A tárgyévben anyagában hasznosított hulladék elem és akkumulátor mennyisége [kg] (hasznosítónként feltüntetve az egyes hatékonysági mutatókat)
-
-## 6. táblázat
-
-|  | Hordozható elemek és akkumulátorok | Ipari elemek és akkumulátorok | Gépjármű elemek és akkumulátorok |
-
-| Savas ólomakkumulátor |  |  |  |
-
-| Nagy kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Kis kapacitású lúgos akkumulátor A Ni-Cd akkumulátorokat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombakkumulátor A 0,0005–2% közötti higanytartalmúakat külön (zárójelben) meg kell adni. |  |  |  |
-
-| Gombelem |  |  |  |
-
-| Egyéb elemek és akkumulátorok |  |  |  |
-
-| Összesen |  |  |  |
-
-## *-gal meg kell jelölni a Magyar Köztársaság területén kívül anyagában hasznosított mennyiségeket.
-
-3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^47]
-
-[^47]: A 3. számú melléklet a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg. A 3. számú melléklet e rendelet 15. § (3) bekezdése alapján hatályát vesztette.
+[^53]: A 3. számú mellékletet a 217/2008. (VIII. 29.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte, újonnan a 101/2010. (IV. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
