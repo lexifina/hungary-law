@@ -1,0 +1,5 @@
+5. § (1) Az MVH legkésőbb a támogatási jogosultságot megállapító határozat jogerőre emelkedésétől számított negyven munkanapon belül intézkedik a támogatás kifizetéséről.
+
+(2) A 4. § (5) bekezdése szerinti esetben az integrátor vagy a termelői csoport köteles a támogatást a jogosult cukorrépa-termelők részére a kifizetést követő tizenöt napon belül továbbítani. A támogatás továbbításánál az elosztás arányai tekintetében a támogatás mértékére és kiszámítási módjára vonatkozó szabályok irányadóak.
+
+(3) Az integrátor vagy a termelői csoport köteles a támogatási összegek átutalását követő negyven napon belül az MVH felé benyújtani az egyes integrált termelőkre vagy tagokra vonatkozó támogatási összeg részletes kiszámítását, valamint az átutalás tényét bizonyító dokumentumokat (pl. bankszámla kivonat másolata). Ha a támogatás nem kerül továbbításra határidőn belül, az MVH a Tv. 69. §-ában meghatározott jogkövetkezmények alkalmazásán túl hivatalból megállapítja és folyósítja az integrált termelőnek vagy a termelői csoport tagoknak közvetlenül járó támogatási összeget.

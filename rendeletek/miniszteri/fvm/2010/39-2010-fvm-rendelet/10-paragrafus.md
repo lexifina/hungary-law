@@ -1,0 +1,1 @@
+## „9. § E rendeletnek a cukorrépa-termelők 2010. évi nemzeti kiegészítő támogatásáról szóló 39/2010. (IV. 15.) FVM rendelet (a továbbiakban: támogatási rendelet) 9. § (1) bekezdésével kiegészített 2. § (4) bekezdésében foglaltakat a támogatási rendelet hatálybalépését megelőzően indult és folyamatban lévő ügyekben alkalmazni kell.”
