@@ -1,3 +1,0 @@
-## 2. § A Kr. 3. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) A környezethasználó előzetes vizsgálat iránti kérelmet nyújthat be a felügyelőséghez, ha olyan tevékenység megvalósítását tervezi, amely megfelel a 3. számú mellékletben szereplő tevékenységnek, azonban az abban meghatározott küszöbértéket nem éri el vagy az ott szereplő kritériumot nem teljesíti, feltéve, hogy a tevékenység nem tartozik a 2. számú mellékletbe. Ha a felügyelőség az előzetes vizsgálat során az 5. § (2) bekezdés d) pont da) alpontja szerint dönt, akkor a tevékenység megkezdéséhez környezetvédelmi engedély szükséges.”
