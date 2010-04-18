@@ -24,9 +24,9 @@
 
 ## j) Vállalást arra, hogy a gyárbezárással közvetlenül érintettek és a hozzátartozóik körében helyzetfelmérés készül, annak érdekében, hogy a valós igényeknek megfelelő részletes intézkedések, programok kerüljenek kidolgozásra.
 
-## k)[^20] A cukorgyár munkavállalóinak érdekképviseletével kötött megállapodás becsatolását.
+## k)[^24] A cukorgyár munkavállalóinak érdekképviseletével kötött megállapodás becsatolását.
 
-## l)[^21]
+## l)[^25]
 
 ## m) Tartalmazza a további intézkedéseket a térségben megszűnő munkahelyek pótlására, új vállalkozás létrejöttének ösztönzésére, hogy minél előbb, minél több új munkahely jöjjön létre.
 
@@ -40,7 +40,7 @@
 
 ## b) a területileg illetékes környezetvédelmi hatóság által elfogadásra kerültek.
 
-2. számú melléklet a 80/2006. (XI. 23.) FVM rendelethez[^22]
+2. számú melléklet a 80/2006. (XI. 23.) FVM rendelethez[^26]
 
 I.
 
@@ -132,6 +132,6 @@ Cukorrépatermelők Szövetsége
 
 | Sorszám | Integráltak neve | Regisztrációs száma | Integrált címe | 2004/2005. évben leszállított mennyiség (t) | 2005/2006. évben leszállított mennyiség (t) | 2006/2007. évben leszállított mennyiség (t) | Integrált aláírása |
 
-[^20]: Az 1. számú melléklet I. rész k) pontjának második mondatát a 69/2008. (V. 24.) FVM rendelet 6. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^21]: Az 1. számú melléklet I. rész l) pontját a 69/2008. (V. 24.) FVM rendelet 6. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^22]: A 2. számú mellékletet a 69/2008. (V. 24.) FVM rendelet 5. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva.
+[^24]: Az 1. számú melléklet I. rész k) pontjának második mondatát a 69/2008. (V. 24.) FVM rendelet 6. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet I. rész l) pontját a 69/2008. (V. 24.) FVM rendelet 6. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^26]: A 2. számú mellékletet a 69/2008. (V. 24.) FVM rendelet 5. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva.

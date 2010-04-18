@@ -6,9 +6,9 @@ a) a Tanács 320/2006/EK rendelete (2006. február 20.) a Közösségen belül a
 
 b) a Bizottság 968/2006/EK rendelete (2006. június 27.) a Közösségen belül a cukoripar szerkezetátalakítására szolgáló ideiglenes rendszer megállapításáról szóló 320/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról;
 
-c)[^17] a Tanács 1261/2007/EK rendelete (2007. október 9.) a Közösségen belül a cukoripar szerkezetátalakítására szolgáló ideiglenes rendszer megállapításáról szóló 320/2006/EK rendelet módosításáról;
+c)[^19] a Tanács 1261/2007/EK rendelete (2007. október 9.) a Közösségen belül a cukoripar szerkezetátalakítására szolgáló ideiglenes rendszer megállapításáról szóló 320/2006/EK rendelet módosításáról;
 
-d)[^18] a Bizottság 1264/2007/EK rendelete (2007. október 26.) a Közösségen belül a cukoripar szerkezetátalakítására szolgáló ideiglenes rendszer megállapításáról szóló 320/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 968/2006/EK rendelet módosításáról.
+d)[^20] a Bizottság 1264/2007/EK rendelete (2007. október 26.) a Közösségen belül a cukoripar szerkezetátalakítására szolgáló ideiglenes rendszer megállapításáról szóló 320/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 968/2006/EK rendelet módosításáról.
 
-[^17]: A 7. § c) pontját a 69/2008. (V. 24.) FVM rendelet 4. §-a iktatta be.
-[^18]: A 7. § d) pontját a 69/2008. (V. 24.) FVM rendelet 4. §-a iktatta be.
+[^19]: A 7. § c) pontját a 69/2008. (V. 24.) FVM rendelet 4. §-a iktatta be.
+[^20]: A 7. § d) pontját a 69/2008. (V. 24.) FVM rendelet 4. §-a iktatta be.
