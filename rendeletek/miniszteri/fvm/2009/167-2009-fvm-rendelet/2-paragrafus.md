@@ -13,3 +13,7 @@ e) a cukorrépa-termelő a cukorrépa-termelők nemzeti kiegészítő támogatá
 (2) A támogatást a jogtulajdonos igényelheti. Ha a jogtulajdonos cukorrépa-szállítási jogát a referencia-időszakban más cukorrépa-termelők is használták, akkor a megítélt támogatás 50%-a azon cukorrépa-termelőket illeti meg, akik a referencia-időszakban a jogtulajdonos cukorrépa-szállítási joga alapján cukorrépát termeltek.
 
 (3) A (2) bekezdés szerinti esetben a támogatás 50%-át a referencia-időszak során szállított cukorrépa-mennyiség arányában kell azon cukorrépa-termelők között felosztani, akik ugyanazt a cukorrépa-szállítási jogot használták. A felosztás során a jogtulajdonos saját termelését is arányosan figyelembe kell venni.
+
+(4)[^2] Az (1) bekezdés e) pontjától eltérően részbeni támogatásra jogosult az, aki kvótajogosult részére történő cukorrépa termeléssel felhagyott, azonban egyéb hasznosítási célzattal a korábbi mértéket meg nem haladó területen cukorrépát termelt. Ebben az esetben az arányos támogatás mértékét a referencia időszakban használt vetésterület és a kvótavisszaadást követően használt vetésterület arányában kell megállapítani.
+
+[^2]: A 2. § (4) bekezdését a 39/2010. (IV. 15.) FVM rendelet 9. § (1) bekezdése iktatta be.
