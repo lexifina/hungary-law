@@ -1,7 +1,6 @@
-## 10. §[^3]
+## 10. §[^4]
 
-11. § (1) A 8–10. § e rendelet hatálybalépését követő napon hatályát veszti.
+11. §[^5]
 
-(2) Ez a § az (1) bekezdésben meghatározott napot követő napon hatályát veszti.
-
-[^3]: A 10. §-t a 11. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 10. §-t a 11. § (1) bekezdése hatályon kívül helyezte.
+[^5]: A 11. §-t a (2) bekezdés hatályon kívül helyezte.
