@@ -44,6 +44,6 @@
 
 ## aláírás
 
-3. számú melléklet a 29/1999. (X. 6.) KHVM rendelethez[^58]
+3. számú melléklet a 29/1999. (X. 6.) KHVM rendelethez[^60]
 
-[^58]: A 3. számú mellékletet a 9/2000. (IV. 19.) KHVM rendelet 5. §-ának (2) bekezdése iktatta be, majd az 5/2003. (III. 24.) IHM rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.
+[^60]: A 3. számú mellékletet a 9/2000. (IV. 19.) KHVM rendelet 5. §-ának (2) bekezdése iktatta be, majd az 5/2003. (III. 24.) IHM rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.

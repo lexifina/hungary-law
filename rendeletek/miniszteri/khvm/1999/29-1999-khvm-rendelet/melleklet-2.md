@@ -1,6 +1,6 @@
-## Az elektronikus hírközlési építmények hatósági engedélyezési eljárásaiban közreműködő közművek és más szervezetek:[^55]
+## Az elektronikus hírközlési építmények hatósági engedélyezési eljárásaiban közreműködő közművek és más szervezetek:[^57]
 
-## [SZAKHATÓSÁGOK][^56]
+## [SZAKHATÓSÁGOK][^58]
 
 ## KÖZMŰVEK ÉS MÁS SZERVEZETEK
 
@@ -32,8 +32,8 @@
 
 ## K: A nyomvonalas létesítmények egységes, naprakész nyilvántartásának fenntartása.
 
-2. számú melléklet a 29/1999. (X. 6.) KHVM rendelethez[^57]
+2. számú melléklet a 29/1999. (X. 6.) KHVM rendelethez[^59]
 
-[^55]: Az 1. számú melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 81. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^56]: Az 1. számú melléklet „Szakhatóságok” című részét a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 81. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^57]: A 2. számú melléklet a 7/2006. (V. 17.) IHM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.
+[^57]: Az 1. számú melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 81. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^58]: Az 1. számú melléklet „Szakhatóságok” című részét a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 81. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 2. számú melléklet a 7/2006. (V. 17.) IHM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.

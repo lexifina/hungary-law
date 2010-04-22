@@ -1,6 +1,6 @@
-## A hírközlési hatósági engedély iránti kérelem[^7]
+## A hírközlési hatósági engedély iránti kérelem[^9]
 
-4. §[^8] (1) Az engedély iránti kérelmet az ügyfél vagy törvényes képviselője, illetve meghatalmazottja (a továbbiakban: építtető) e rendelet 2. melléklete szerinti nyomtatványon terjesztheti elő.
+4. §[^10] (1) Az engedély iránti kérelmet az ügyfél vagy törvényes képviselője, illetve meghatalmazottja (a továbbiakban: építtető) e rendelet 2. melléklete szerinti nyomtatványon terjesztheti elő.
 
 (2) Az építtető nem köteles az (1) bekezdés szerinti engedély iránti kérelem benyújtásával engedélyezési eljárást kezdeményezni, ha az elektronikus hírközlési építmény építése, használatbavétele vagy bontása
 
@@ -38,5 +38,5 @@ c) a megvalósult létesítmény műszaki leírását, vázrajzát, amelyből me
 
 d) az érintett közművek tulajdonosainak hozzájáruló nyilatkozatát.
 
-[^7]: A 4. §-t megelőző cím a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg.
-[^8]: A 4. § a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.
+[^9]: A 4. §-t megelőző cím a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 4. § a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.

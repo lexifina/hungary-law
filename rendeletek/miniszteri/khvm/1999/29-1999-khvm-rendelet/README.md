@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-29-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 1999-29-20-6B.15 | 29/1999. (X. 6.) KHVM rendelet |
+| 2010-04-22 | 1999-29-20-6B.16 | 54/2013. (IX. 25.) NFM rendelet |

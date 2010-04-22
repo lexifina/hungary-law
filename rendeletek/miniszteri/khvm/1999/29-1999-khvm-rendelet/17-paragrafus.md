@@ -1,6 +1,6 @@
-## Használatbavételi engedélyezési eljárás[^36]
+## Használatbavételi engedélyezési eljárás[^38]
 
-17. §[^37] (1) Az építési engedély alapján létesített elektronikus hírközlési építmény használatbavételéhez szükséges engedély iránti kérelmet az építtetőnek az építési munka befejezésétől számított harminc napon belül kell benyújtania a hatósághoz.
+17. §[^39] (1) Az építési engedély alapján létesített elektronikus hírközlési építmény használatbavételéhez szükséges engedély iránti kérelmet az építtetőnek az építési munka befejezésétől számított harminc napon belül kell benyújtania a hatósághoz.
 
 (2) A használatbavételi engedélyt az elektronikus hírközlő hálózat egyes önállóan üzembe helyezhető szakaszaira is lehet kérni.
 
@@ -36,10 +36,10 @@ a) az elektronikus hírközlési építmény a jogszabályoknak, műszaki előí
 
 b) az elektronikus hírközlési építmény rendeltetésszerű használatra alkalmatlan, vagy
 
-c)[^38]
+c)[^40]
 
 (7) Ha az építtető olyan különcélú elektronikus hírközlő hálózat használatát kívánja megváltoztatni, amelyet e jogszabály hatálybalépése előtt a rá vonatkozó külön szabályok szerint hatósági engedély nélkül létesítettek, a hatóságtól erre használatbavételi engedélyt kell kérnie. Használatbavételi engedélyre van szükség abban az esetben is, ha a korábban más céllal – jogszerűen – létesült elektronikus hírközlési építmény rendeltetése megváltozik. A kérelemhez – a (4) bekezdésben foglaltakon túl – csatolni kell a 10. § szerinti mellékleteket is.
 
-[^36]: A 17. §-t megelőző cím a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg.
-[^37]: A 17. § a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.
-[^38]: A 17. § (6) bekezdés c) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 81. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^38]: A 17. §-t megelőző cím a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg.
+[^39]: A 17. § a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.
+[^40]: A 17. § (6) bekezdés c) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 81. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

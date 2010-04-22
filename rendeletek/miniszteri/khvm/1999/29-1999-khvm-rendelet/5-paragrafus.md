@@ -1,6 +1,6 @@
-## Az építési, fennmaradási és bontási jogosultság igazolása[^9]
+## Az építési, fennmaradási és bontási jogosultság igazolása[^11]
 
-## 5. §[^10] Az építtető az építési, fennmaradási és bontási (a továbbiakban: építési) jogosultságát igazolhatja:
+## 5. §[^12] Az építtető az építési, fennmaradási és bontási (a továbbiakban: építési) jogosultságát igazolhatja:
 
 a) saját tulajdonban lévő ingatlanon történő építési tevékenység végzése esetén
 
@@ -24,5 +24,5 @@ d) közös tulajdonban álló ingatlanon történő építési tevékenység vé
 
 e) társasházi tulajdon esetén az erről szóló külön jogszabályban meghatározottak szerint.
 
-[^9]: Az 5. §-t megelőző cím a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg.
-[^10]: Az 5. § a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.
+[^11]: Az 5. §-t megelőző cím a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 5. § a 7/2006. (V. 17.) IHM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit a 2006. június 1. napját követően indult engedélyezési eljárásokban kell alkalmazni.
