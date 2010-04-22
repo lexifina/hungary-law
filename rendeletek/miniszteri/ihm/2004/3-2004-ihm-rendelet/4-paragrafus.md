@@ -1,6 +1,6 @@
 ## Az ajánlat tartalma
 
-4. §[^5] (1) Az ajánlattevők ajánlatukban kötelesek meghatározni
+4. §[^6] (1) Az ajánlattevők ajánlatukban kötelesek meghatározni
 
 a) az egyetemes szolgáltatás tárgyát,
 
@@ -24,4 +24,4 @@ f) az ajánlati felhívásban előírt egyéb követelményekre vonatkozó aján
 
 (6) Az ajánlattevők ajánlataikhoz az ajánlati felhívásban az egyetemes szolgáltatási szerződések megkötésére vonatkozó határidőkig kötve vannak, azokat csak a 7. § szerinti tárgyalások során, a miniszter felhívására módosíthatják.
 
-[^5]: A 4. § a 3/2008. (II. 21.) GKM rendelet 4. §-ával megállapított szöveg.
+[^6]: A 4. § a 3/2008. (II. 21.) GKM rendelet 4. §-ával megállapított szöveg.
