@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban, 1991. február 26. napján elfogadott egyezményhez kapcsolódó, a stratégiai környezeti vizsgálatról szóló, Kijevben, 2003. május 21-én elfogadott jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
