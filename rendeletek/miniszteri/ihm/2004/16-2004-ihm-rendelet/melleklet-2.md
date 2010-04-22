@@ -18,6 +18,6 @@
 
 ## 7. Beszédcélú hívásvégződtetés egyedi mobil rádiótelefon hálózatokban.
 
-2. számú melléklet a 16/2004. (IV. 24.) IHM rendelethez[^7]
+2. számú melléklet a 16/2004. (IV. 24.) IHM rendelethez[^9]
 
-[^7]: Az új 2. számú mellékletet a 31/2004. (XII. 16.) IHM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 3. számú mellékletre változtatva. A 2. számú mellékletet a 8/2009. (X. 9.) MeHVM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^9]: Az új 2. számú mellékletet a 31/2004. (XII. 16.) IHM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 3. számú mellékletre változtatva. A 2. számú mellékletet a 8/2009. (X. 9.) MeHVM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
