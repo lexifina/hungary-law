@@ -1,5 +1,8 @@
-## Nyilvános telefonállomások közvetlen nettó elkerülhető költségének meghatározása
+## Nyilvános telefonállomások[^7]
 
-5. § (1) Az egyetemes nyilvános telefonállomások közvetlen nettó elkerülhető költségét e rendelet mellékletének 3. pontja szerint kell megállapítani.
+5. §[^8] (1) A tárgyévi várható nettó elkerülhető költségek, és egységköltségek számítása a szolgáltató megelőző legutolsó évi, a hatóság által jóváhagyott számviteli szétválasztás kimutatásán alapulnak. A nettó elkerülhető költségek kiszámításánál csak a ténylegesen felmerülő közvetlen költségek vehetők számításba.
 
-(2) A szolgáltató az egyetemes szolgáltatási kötelezettség miatt üzemeltetett nyilvános állomások elkerülhető költségét veheti figyelembe.
+(2) A nyilvános telefonállomások nettó elkerülhető költségének, valamint egységköltségének megállapítása e rendelet 1. melléklet 2. pontja szerint történik.
+
+[^7]: Az 5. §-t megelőző alcím a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.

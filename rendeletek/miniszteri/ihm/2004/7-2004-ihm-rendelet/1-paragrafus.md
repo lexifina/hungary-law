@@ -1,7 +1,9 @@
-## 1. § E rendelet hatálya
+## 1. §[^2] E rendelet hatálya
 
-a) az elektronikus hírközlési szolgáltatókra,
+a) az Eht. 117. §-a szerinti egyetemes elektronikus hírközlési szolgáltatást (a továbbiakban: egyetemes szolgáltatás) nyújtó egyetemes szolgáltatóra (a továbbiakban: szolgáltató) és
 
-b) az Egyetemes Elektronikus Hírközlési Támogatási Kasszára,
+b) a Nemzeti Hírközlési Hatóságra (a továbbiakban: hatóság)
 
-c) a Nemzeti Hírközlési Hatóságra
+terjed ki.
+
+[^2]: Az 1. § a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.

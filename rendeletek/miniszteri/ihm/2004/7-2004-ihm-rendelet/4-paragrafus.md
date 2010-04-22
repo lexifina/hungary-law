@@ -1,21 +1,11 @@
-## 3. § Az előfizetői névjegyzék elérhetővé tételének közvetlen nettó elkerülhető költségét a szolgáltató minden esetben e rendelet mellékletének 1. pontja szerint köteles meghatározni.
+## 3. §[^4] A szolgáltató azon szolgáltatások esetében készít nettó elkerülhető költségszámítást, amelyekre vonatkozóan az egyetemes szolgáltatási szerződésben kérte az ebből eredő méltánytalan többletteher megtérítését.
 
-## Telefon hálózathoz való hozzáférés közvetlen nettó elkerülhető költségének meghatározása
+## Telefonhálózathoz való hozzáférés[^5]
 
-## Potenciálisan veszteséges szolgáltatási területek
+4. §[^6] (1) A tárgyévi nettó elkerülhető költségek számítása a szolgáltató hatóság által jóváhagyott számviteli szétválasztás kimutatásán alapulnak. A nettó elkerülhető költségek kiszámításában szereplő közvetlen költségek, valamint a kiszámításban szereplő tárgyi eszközök és immateriális javak tárgyévben aktivált értékei megegyeznek a szolgáltató főkönyvi és analitikus nyilvántartásaiban foglalt értékekkel.
 
-4. § (1) Az egyetemes hozzáférési szolgáltatási kötelezettség nettó elkerülhető költségének meghatározásakor a szolgáltató a veszteséges szolgáltatási területeken nyújtott telefon hálózathoz való hozzáférési szolgáltatás nettó elkerülhető költségét veheti figyelembe e rendelet mellékletének 2. a) pontja szerint.
+(2) A telefonhálózathoz való hozzáférés biztosítása nettó elkerülhető költség megállapítása e rendelet 1. melléklet 1. pontja szerint történik.
 
-(2) A szolgáltató köteles szolgáltatási területét elemzési egységekre bontani. A legkisebb elemzési egység a belföldi számozási körzet vagy az egyetemes szolgáltatási szerződésben meghatározottak szerint megállapított kisebb elemzési egység.
-
-(3) A veszteséges területek kiválasztására a szolgáltatónak előzetes értékelést kell készítenie, amellyel kiválaszthatja elemzési egységei közül azokat, amelyeken csak az egyetemes szolgáltatási kötelezettség miatt kezdte meg a nyilvánosan elérhető telefonszolgáltatás nyújtását (potenciálisan veszteséges terület).
-
-(4) A költségek meghatározása során a szolgáltatónak kell bizonyítania, hogy a területi egységköltségek felhasználásával számított összes költség nem eredményez magasabb költséget, mint amelyet a szolgáltató – amennyiben előfizetői hurok átengedésre vonatkozó referenciaajánlat készítésére kötelezett – összes szolgáltatási területének szempontjából átlagolt, a teljesen felosztott költségek módszertana (a továbbiakban: FDC) alkalmazásával meghatározott egységköltségek használata eredményezett volna.
-
-(5) A forgalmi szolgáltatásokkal kapcsolatos nettó elkerülhető költségek megállapításakor a szolgáltatót terheli annak bizonyítása, hogy
-
-a) a forgalmi költségek kiszámításakor ugyanabból a hosszú távú, előremutató különbözeti költségek költségszámítási módszer alapján elkészített modellből (a továbbiakban: LRIC modell) indult ki, amelyet a nettó elkerülhető költségek számítása során figyelembe vett év összekapcsolási díjainak kiszámítására alkalmazott;
-
-b) e rendelet mellékletének 2. b) pontjában meghatározott két LRIC modell között nincs több eltérés, mint amennyit a nettó elkerülhető költségek kiszámítására e rendelet által előírt módszertan indokol.
-
-(6) Azon hívások, amelyek akkor sem vesznének el a szolgáltató számára, ha a potenciálisan veszteséges szolgáltatási területen megszüntetné a szolgáltatás nyújtását, mert a hívó fél helyettesítő eszközök igénybevételével bonyolítaná le a hívást (a továbbiakban: helyettesítő hívások), bevételeinek meghatározása során a helyettesítő hívások arányának meghatározására a szolgáltató által kidolgozott módszert a Nemzeti Hírközlési Hatóság megvizsgálja és dönt annak megalapozottságáról, ha a módszert nem tartja indokoltnak, meghatározza a helyettesítő hívások arányát.
+[^4]: A 3. §-t megelőző alcím a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdése alapján hatályát vesztette. A 3. § a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. §-t megelőző alcím a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. §-t megelőző „Telefon hálózathoz való hozzáférés közvetlen nettó elkerülhető költségének meghatározása” cím a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdése alapján hatályát vesztette. A 4. § a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.

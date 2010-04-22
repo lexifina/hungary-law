@@ -1,4 +1,4 @@
-## 7. § E rendelet mellékletének 5. pontjában felsorolt közvetett előnyök számszerűsítésének módját a Nemzeti Hírközlési Hatóság ellenőrzi. Amennyiben a közvetett előnyök szolgáltató általi számszerűsítésének módját nem tartja elfogadhatónak, megállapítja a szolgáltató által alkalmazandó módszertant.
+## 7. §[^12] A belföldi tudakozó szolgáltatás nettó elkerülhető költségének megállapítása e rendelet 1. melléklet 4. pontjában foglaltak alapján történik.
 
 ## Záró rendelkezések
 
@@ -6,126 +6,147 @@
 
 (2) E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Parlament és a Tanács egyetemes szolgáltatásról és az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelvével (Egyetemes szolgáltatási irányelv) összeegyeztethető szabályozást tartalmaz.
 
-Melléklet a 7/2004. (IV. 20.) IHM rendelethez
+Melléklet a 7/2004. (IV. 20.) IHM rendelethez[^13]
 
 A nettó elkerülhető költség számítása
 
-Az egyetemes szolgáltatások nettó elkerülhető költsége a figyelembe vehető szolgáltatások közvetlen nettó elkerülhető költségeinek összege és a közvetett előnyök számszerűsítésével kapott összeg különbségeként határozható meg.
+Az egyetemes szolgáltatások nettó elkerülhető költsége a figyelembe vehető szolgáltatások bevételeinek és költségeinek különbségeként határozható meg.
 
-1. Előfizetői névjegyzék elérhetővé tétele közvetlen nettó elkerülhető költségének meghatározása
+SZÁMÍTÁSI LÉPÉSEK
 
-Az előfizetői névjegyzék közvetlen nettó elkerülhető költségét a névjegyzék előállításával és az előfizetőkhöz való eljuttatásával kapcsolatos költségek és a névjegyzékkel kapcsolatos bevételek különbségeként kell megállapítani. A költségek megállapításánál kizárólag a névjegyzék előállításával és előfizetőkhöz való eljuttatásával kapcsolatos költségeket lehet figyelembe venni. Az előfizetői névjegyzékben található adatok gyűjtésével, tárolásával és feldolgozásával kapcsolatos költségek a számítás során nem vehetők figyelembe. A bevételek meghatározásánál figyelembe kell venni a névjegyzék mint reklámhordozó felület értékesítéséből származó bevételeket.
+1. Telefonhálózathoz való hozzáférés nettó elkerülhető költségének meghatározása
 
-2. Telefon hálózathoz való hozzáférés közvetlen nettó elkerülhető költségének meghatározása
+1.1. A támogatásba bevont hozzáférési vonalak kiválasztása
 
-2. a) Potenciálisan veszteséges szolgáltatási területek kiválasztása
+1.2. A támogatásba bevont hozzáférési vonalak kiépítése tényleges költségének meghatározása
 
-Az előzetes értékelést úgy kell megtervezni, hogy annak eredménye alapján átlátható módon megállapítható legyen, hogy egy adott elemzési terület esetében üzleti megfontolásból vagy egyetemes szolgáltatási kötelezettsége miatt építette ki nyilvános telefonhálózatát. A nyilvános telefonhálózat kiépítése akkor nem tekinthető üzleti célúnak, ha már a beruházás pillanatában egyértelműen kimutatható, hogy a szolgáltató nyilvános telefonhálózat kiépítésével kapcsolatos befektetései az adott szolgáltatási területen biztosan nem fognak megtérülni. Az értékelési módszer kidolgozása a szolgáltató feladata. Az értékelési módszer egy elemzési egységről nem dönthet olyan adatok alapján, amelyeket a szolgáltató csak az adott terület nyilvános telefonhálózatba kötése után tudna előállítani.
+1.3. A hozzáférési vonalak bevételének meghatározása
 
-2. b) A potenciálisan veszteséges területek költségeinek meghatározása
+A. Telefonhálózathoz való hozzáférés nettó elkerülhető költsége: = 1.2.–1.3.
 
-A megállapított potenciálisan veszteséges szolgáltatási területek nettó elkerülhető költségének kiszámításakor a szolgáltató meghatározza az adott területen nyújtott hozzáférési hálózati szolgáltatással kapcsolatos költségeket. A hozzáférési hálózat költségének meghatározása során figyelembe kell venni minden olyan költséget, amely egyetemes vagy nem egyetemes szolgáltatás hozzáférési költségeként merült fel. Így be kell számítani különösen a következő szolgáltatások költségét:
+2. Nyilvános telefonállomások nettó elkerülhető költségének és egységköltségnek meghatározása
 
-– Nyilvános telefonhálózathoz való hozzáférés.
+2.1. A költségszámításba bevont, veszteségesen üzemeltethető nyilvános telefonállomások kiválasztása, száma (2.1.3.)
 
-– ISDN hozzáférés.
+2.2. A nyilvános telefonállomások költségének meghatározása
 
-– Bérelt vonali hozzáférés.
+2.3. A 2.1. pontban kiválasztott veszteségesen üzemeltethető nyilvános telefonállomások átlagos bevételének meghatározása
 
-– Szélessávú internet hozzáférés.
+A. Nyilvános telefonállomások összes nettó elkerülhető költsége: = (2.2.–2.3.) × 2.1.3
 
-A hozzáférési szolgáltatások nettó elkerülhető költségeinek kiszámításakor a szolgáltató a múltbeli költségek (a továbbiakban: HCA) módszertanából és az FDC módszertanából kiindulva határozza meg a költségeit. A HCA és FDC módszertan részletes elveit az elektronikus hírközlési szolgáltatások költségszámítására vonatkozó szabályokról szóló 18/2003. (XII. 27.) IHM rendelet tartalmazza.
+B. Nyilvános telefonállomások nettó elkerülhető egységköltsége: = A ÷ 2.1.3
 
-A hozzáférési szolgáltatások nettó elkerülhető költségeinek megállapítása során a szolgáltató az egyes szolgáltatási területekre jellemző szolgáltatási egységköltséget határoz meg. Az adott terület összes hozzáférési költségét az adott területre jellemző egységköltségek és az adott területhez kapcsolódó szolgáltatásokat igénybe vevő előfizetők számának szorzataként kell meghatározni.
+3. Előfizetői névjegyzék elérhetővé tétele közvetlen nettó elkerülhető költségének meghatározása
 
-A HCA költségfelosztás esetén a felosztott költségeket és a költségfelosztás modelljét a szolgáltató összeveti a számviteli nyilvántartásában szereplő összegekkel és a számviteli szétválasztás során alkalmazott modellel.
+3.1. Az előfizetői névjegyzék elérhetővé tételével kapcsolatos költségek
 
-A kiválasztott potenciálisan veszteséges szolgáltatási területek nettó elkerülhető költségeinek megállapításakor meg kell határozni az adott terület fogyasztói által generált forgalmi szolgáltatásokból eredő összes költséget is. A költségek kiszámításakor figyelembe kell venni minden, a terület fogyasztói által kezdeményezett és fogadott forgalmi szolgáltatás költségét, így az összekapcsolási költségeket is.
+3.2. Az előfizetői névjegyzékkel kapcsolatos bevételek
 
-A forgalmi szolgáltatásokkal kapcsolatos nettó elkerülhető költségek megállapításakor a szolgáltató a folyó költségek módszertanából (a továbbiakban: CCA) és a LRIC modellből kiindulva határozza meg költségeit, tehát a forgalmi szolgáltatások LRIC modellben meghatározott, a teljes szolgáltatási terület szempontjából átlagolt egységköltségeit alkalmazza. A CCA és LRIC módszertan részletes elveit az elektronikus hírközlési szolgáltatások költségszámítására vonatkozó szabályokról szóló 18/2003. (XII. 27.) IHM rendelet tartalmazza. A forgalmi szolgáltatásokkal kapcsolatos költségeket az adott egységköltségek és a hozzá kapcsolódó szolgáltatás forgalmának szorzataként kell előállítani. A számítás során a szolgáltató a LRIC költségmodelljében csak a változó és a komponens-specifikus fix költségeit oszthatja fel, a közös költségek felosztására nincs lehetőség.
-
-Amennyiben a szolgáltató egyéb, az egyetemes hozzáférési és forgalmi szolgáltatásokon kívüli nyilvánosan elérhető telefonszolgáltatással kapcsolatos olyan szolgáltatást is nyújt a kiválasztott potenciálisan veszteséges szolgáltatási területen, amelyet a terület nyilvánosan elérhető telefonszolgáltatásának megszüntetése után nem szolgáltatna tovább, továbbá ezen szolgáltatások költségét a szolgáltató meg tudja határozni, akkor a nettó elkerülhető költségek számításakor ezen költségeket is figyelembe kell venni. Az e pontban foglalt szolgáltatások esetében a szolgáltató a HCA módszertanból és az FDC módszertanból kiindulva határozza meg ezen szolgáltatások költségeit.
-
-A potenciálisan veszteséges területek összes költsége a hozzáférési, forgalmi és egyéb szolgáltatások költségeinek összegeként határozható meg, figyelemmel a 2. a) pontban foglaltakra.
-
-2. c) A potenciálisan veszteséges területek bevételeinek meghatározása
-
-Potenciálisan veszteséges szolgáltatási területek esetén a szolgáltató minden nyilvánosan elérhető telefonszolgáltatással kapcsolatos bevételt figyelembe vesz, ehhez minden egyetemes és nem egyetemes hozzáférési szolgáltatás, így különösen a 2. b) pont alatt felsorolt hozzáférési szolgáltatások egyszeri és rendszeres díjainak figyelembevétele szükséges.
-
-Az egyetemes előfizetésnél kedvezőbb díjazású csomagok előfizetői esetében a díjcsomag előfizetési és belépési bevételeit a szolgáltatók a nettó elkerülhető költség számítása során úgy korrigálja, hogy az egyetemes szolgáltatás vonatkozó rendszeres, illetve egyszeri bevételeinek feleljen meg. Az egyetemes díjcsomagnál kedvezőbb díjazású díjcsomagnak az egyetemes előfizetési díjnál alacsonyabb előfizetési díjat tartalmazó csomagokat kell tekinteni.
-
-Az egyetemes hozzáférési szolgáltatás egyszeri díjai esetében a szolgáltató által adott kedvezményeket nem lehet figyelembe venni. A számítás során a kedvezményes egyszeri díjakat a mindenkori listaár mértékére kell korrigálni.
-
-A potenciálisan veszteséges szolgáltatási területek esetében szükséges azon forgalmi szolgáltatások bevételeinek meghatározása is, amelyek elvesznének az adott egyetemes szolgáltatás megszűnésével, ennek megfelelően szükséges minden, a területen belül lebonyolított, a területről kimenő és a területre bejövő forgalmi szolgáltatás bevételének figyelembevétele.
-
-A részben vagy teljes egészében a hívott fél által fizetett hívások esetén figyelembe kell venni a hívott féltől származó bevételeket is.
-
-A bevételek számításánál a kapcsolódó összekapcsolási bevételeket is figyelembe kell venni.
-
-Amennyiben a szolgáltató a rendelkezésére álló forgalmi adatok alapján nem tudja egyértelműen a potenciálisan veszteséges szolgáltatási területekre lebontva meghatározni a forgalmi bevételeket, egyszerűsített számítási modelleket alkalmazhat, amelyek a fogyasztók átlagos forgalmi profilja alapján becsülik ezen területek vonatkozó forgalmát.
-
-A szolgáltatók a nettó elkerülhető költségszámítás során meghatározott forgalmi bevételeket csökkenthetik a helyettesítő hívások bevételeivel.
-
-A helyettesítő hívások arányának megfelelően a forgalmi szolgáltatások 2. b) pont szerint kiszámított költségeit is csökkenteni kell.
-
-A potenciálisan veszteséges területek költségeinek és bevételeinek megállapítása során a szolgáltatónak részletesen dokumentálja a költségek és a bevételek számítása során alkalmazott szolgáltatásmennyiségeket. Adott szolgáltatás bevételének és költségének számításakor a figyelembe vett szolgáltatásmennyiségeknek meg kell egyezniük.
-
-2. d) Közvetlen nettó elkerülhető költségszámítás
-
-Azon potenciálisan veszteséges területek esetében, amelyek a 2. b) pont szerint meghatározott költség és 2 c) pont szerint meghatározott bevétel különbsége alapján is veszteségesek a szolgáltató számára, a szolgáltató kimutatja azon egyéni fogyasztók számát, akik a szolgáltatási területhez tartoznak és egyetemes díjcsomagot, vagy az egyetemes díjcsomagnál kedvezőbb díjazású csomagot vesznek igénybe. Ezen egyéni fogyasztók számának meghatározása után a szolgáltató megállapítja, hogy az adott területhez tartozó ilyen egyéni fogyasztók tekintetében mennyi költség és bevétel keletkezett. A bevételek és költségek meghatározása során minden, a fogyasztóhoz kötődő bevételt és költséget figyelembe kell venni a 2. a) és 2. b) pontokban foglaltak alkalmazásával. Ezen költségek és bevételek különbsége határozza meg az adott terület közvetlen nettó elkerülhető költségét.
-
-Az egyes veszteséges szolgáltatási területek kiszámított nettó elkerülhető költségeinek összegzésével a szolgáltató meghatározza a veszteséges szolgáltatási területek összes közvetlen nettó elkerülhető költségét.
-
-3. Nyilvános telefonállomások közvetlen nettó elkerülhető költségének meghatározása
-
-A nyilvános állomások közvetlen nettó elkerülhető költségét az alábbi lépések szerint kell meghatározni:
-
-3. a) A költségszámításba bevont nyilvános telefonállomások kiválasztása
-
-A szolgáltató meghatározza azon nyilvános telefonállomásait, amelyeket csak az egyetemes szolgáltatási kötelezettség miatt üzemeltet. Amennyiben a szolgáltató az Eht. 117. § b) pontja alapján meghatározható területi egységeken belül a törvény által kötelezően üzemeltetendőnél több nyilvános telefonállomást üzemeltet, akkor a költségszámítás során csak a közterületen vagy a közönség számára legalább heti 6 napon, 6 órában nyitva álló épületben vagy helyiségben lévő, a törvény által előírt számú, legkevésbé veszteséges telefonállomásokat veheti figyelembe. Amennyiben az Eht. szerint kevesebb nyilvános állomás üzemeltetése szükséges, mint a korábbi szabályozás szerint, akkor a szolgáltató által leszerelt állomások leszerelési költségei is figyelembe vehetők a költségszámítás során.
-
-3. b) A nyilvános telefonállomások költségének meghatározása
-
-A 3. a) pont szerint meghatározott nyilvános telefonállomások összes költségének kiszámításához a szolgáltató megállapítja az egy telefonállomásra eső, a forgalmi szolgáltatásokból eredő és a nem forgalmi szolgáltatásokból eredő jellemző költségeket. A nem forgalmi szolgáltatásokból eredő költségek kiszámításakor az átlagos nyilvános telefonállomásra eső költségeket kell meghatározni.
-
-A nyilvános telefonállomások nem hívásforgalommal összefüggő költségeinek kiszámításakor a szolgáltató a HCA módszertanából és az FDC módszertanából kiindulva határozza meg költségeit.
-
-A nyilvános telefonállomások hívásforgalommal összefüggő költségeinek kiszámításakor a szolgáltató a 2. b) pontban a forgalmi szolgáltatásokkal kapcsolatban leírt módszertan alapján határozza meg a költségeit.
-
-Az így kapott egységköltségeket megszorozva az egyetemes szolgáltatási kötelezettség miatt üzemeltetett nyilvános állomások számával, meg kell határozni az egyetemes szolgáltatási kötelezettség miatt üzemeltetett nyilvános állomások összes költségét.
-
-3. c) A nyilvános telefonállomások bevételének meghatározása
-
-A nyilvános telefonállomások esetében a szolgáltató azon forgalmi szolgáltatások bevételeit határozza meg, amelyek elvesznének az adott egyetemes szolgáltatás megszűnésével.
-
-A nyilvános telefonállomások esetében a használók által az állomásról indított vagy általuk fogadott hívások bevételeit is meg kell határozni.
-
-A bevételekbe a kapcsolódó összekapcsolási bevételeket is be kell számítani.
-
-Amennyiben a szolgáltató a rendelkezésére álló forgalmi adatalapján nem tudja egyértelműen a nyilvános telefonállomásokra lebontva meghatározni a forgalmi bevételeket, egyszerűsített számítási modelleket alkalmazhat, amelyek a nyilvános telefonállomások átlagos forgalmi profilja alapján becsülik meg a nyilvános telefonállomások vonatkozó forgalmát.
-
-Az így meghatározott bevételeket a nyilvános telefonállomásra vetítve kapható meg egy telefonállomás átlagos bevétele, amelyet az egyetemes szolgáltatás miatt üzemeltetett nyilvános telefonállomások számával szorozva kell megállapítani a szolgáltatás bevételét.
-
-3. d) Közvetlen nettó elkerülhető költségszámítás
-
-Az egyetemes nyilvános telefonállomásokra jutó költségek és bevételek különbsége adja meg a nyilvános telefonállomások közvetlen nettó elkerülhető költségét.
+A. Az előfizetői névjegyzék nettó elkerülhető költsége: = 3.1.–3.2.
 
 4. Országos belföldi tudakozó nyújtása
 
-A belföldi tudakozó szolgáltatás nettó elkerülhető költségének megállapítása során a szolgáltató kizárólag azokat a költségeket veszi figyelembe, amelyek a belföldi tudakozó szolgáltatással kapcsolatban merültek fel. (Így a nemzetközi tudakozó vagy a különleges tudakozó szolgáltatással kapcsolatos költségek a számítás során nem vehetőek figyelembe.)
+4.1. Az országos belföldi tudakozó költsége
 
-5. Közvetett előnyök számszerűsítése
+4.2. Az országos belföldi tudakozó bevételei
 
-A közvetett előnyök számszerűsítése során különösen a következő, az egyetemes szolgáltatási kötelezettségből származó előnyök hatásait kell meghatározni:
+A. Országos belföldi tudakozó nyújtása nettó elkerülhető költsége: = 4.1.–4.2.
 
-– Életgörbe hatás: egy szolgáltatási területet, illetve nyilvános telefonállomást akkor lehet veszteségesnek tekinteni, ha az azzal kapcsolatos befektetés nettó jelenértéke negatív. Amennyiben egy szolgáltatási területtel, illetve nyilvános telefonállomással kapcsolatos befektetés nettó jelenértéke pozitív, akkor az adott szolgáltatási terület, illetve nyilvános telefonállomás annak ellenére sem tekinthető veszteségesnek, hogy az egyetemes szolgáltatási kötelezettség nettó elkerülhető költsége számításának évében az adott szolgáltatási területtel, illetve nyilvános telefonállomással kapcsolatban nettó elkerülhető költség állapítható meg.
+SZÁMÍTÁSI LÉPÉSEK MEGHATÁROZÁSA
 
-– Vállalati megítélés javulása: az egyetemes szolgáltatási kötelezettségnek való megfelelés hatására javul az egyetemes szolgáltató megítélése, és így a fogyasztók hűségükkel jutalmazzák az egyetemes szolgáltatót a versenytársak kedvezőbb ajánlatával szemben.
+1. Telefonhálózathoz való hozzáférés nettó elkerülhető költségének meghatározása
 
-– Jelenlevőség értéke: az egyetemes szolgáltató esetében a jelenlevőség előnyökkel jár, hiszen a fogyasztók számára természetes, hogy a szolgáltató szolgáltatási területén bárhol, bárki számára elérhetők az általa nyújtott szolgáltatások.
+1.1. A támogatásba bevont hozzáférési vonalak kiválasztása
 
-– Fogyasztói és fogyasztási adatbázisok értéke: az egyetemes szolgáltató helyzetének köszönhetően jelentős ismeretekkel rendelkezik előfizetőinek szokásairól. Az előfizetőkről rendelkezésre álló adatok, adatbázisok a piacon értéket jelentenek.
+A szolgáltató meghatározza, hogy számviteli kimutatásaiban adott aktivált értékű előfizetői hozzáférési vonal az egyetemes szolgáltatási kötelezettség hatálya alá tartozik-e, és így igényelhető-e utána egyetemes támogatás. Nem vehető a számviteli kimutatásokban aktivált előfizetői hozzáférési vonal figyelembe, ha az adott előfizetői hozzáférési pont tekintetében a szolgáltató egyetemes szolgáltatási szerződéskötési kötelezettsége alapján az egyetemes elektronikus hírközlési szolgáltatás nyújtásának részletes pénzügyi és műszaki feltételeiről és követelményeiről szóló 97/2010. (III. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a szerint nem volt köteles hozzáférési vonalat kiépíteni.
 
-– Nyilvános telefonállomások hirdetési felülete: a nyilvános telefonállomásokkal összefüggő előny a telefonfülkéken található szolgáltatói védjegy reklámértéke a nyilvános telefonállomás helyétől függően.
+1.2. A támogatásba bevont hozzáférési vonalak kiépítése tényleges költségének meghatározása
 
-– Számlalevelekkel kapcsolatos reklámtevékenység értéke: a számlalevelekkel együtt küldött reklámanyagok többletköltség felmerülése nélkül teszik elérhetővé az egyetemes szolgáltató számára előfizetőit.
+A szolgáltató – számviteli kimutatásai alapján – meghatározza az 1.1. pontban kiválasztott előfizetői hozzáférési vonalak tárgyévben aktivált értékét, melynek megfelelőségét beruházási számlákkal vagy a könyveiben elszámolt aktivált saját teljesítménnyel igazolja.
+
+A szolgáltató meghatározza az 1.1. pont alapján kiválasztott hozzáférési vonalak tárgyévben aktivált értékének azon részét, amely közvetlenül és csak az igényelt hozzáférési ponton egyetemes előfizetői hozzáférési szolgáltatás nyújtása érdekében merült fel.
+
+A hozzáférési vonalak összes tényleges kiépítési költségei meghatározása során figyelembe kell venni a szolgalmi és használati jogok létesítésére kiterjedő költségeket, valamint a szolgalmi és használati jog alapítása körében, a szolgáltató által az ingatlan tulajdonosa részére megfizetett kártalanítás összegét is.
+
+Amennyiben egy szolgáltató olyan hálózati elemek aktivált értékét is be kívánja számítani, amelyek alkalmasak más hozzáférési vonalak egyes elemeinek kiváltására, úgy a következőképpen kell eljárnia:
+
+– meghatározza az adott hálózati elem kapacitásának elméleti maximumát, azaz azt, hogy az adott hálózati elem, az alkalmazott technológiától függetlenül maximálisan hány darab előfizetői hozzáférési pont kiszolgálására alkalmas;
+
+– az adott hálózati elem aktivált értékét a szolgáltató elosztja az előző pontban meghatározott értékkel;
+
+– a hozzáférési vonalak költségének kiszámításakor olyan hálózati elem esetében, amely más hozzáférési vonalak egyes elemeinek kiváltására alkalmas az adott eszköz aktivált értékének előző pont szerint meghatározott része vehető figyelembe.
+
+1.3. A hozzáférési vonalak bevételének meghatározása
+
+A szolgáltató – számviteli kimutatásai alapján – meghatározza az 1.1. pont alapján kiválasztott hozzáférési vonalak bevételét. A bevételek meghatározása során figyelembe kell venni
+
+a) az előfizetőtől beszedett egyszeri díjakat,
+
+b) az előfizető által a Korm. rendelet 3. § (1) bekezdés c) vagy d) pontja alapján megfizetett összeget,
+
+c) amennyiben a hozzáférésen helyhez kötött telefonszolgáltatáson kívül, a funkcionális internet hozzáféréshez elegendő adatátviteli sebességű szolgáltatástól nagyobb adatátviteli sebességű szolgáltatás vagy műsorterjesztési szolgáltatást is igénybe vesz, ezen szolgáltatásoknak a szolgáltató általános szerződési feltételeiben meghatározott 12 havi díját.
+
+A. A telefonhálózathoz való hozzáférés nettó elkerülhető költség kiszámítása
+
+Az egyetemes szolgáltatási kötelezettség teljesítse érdekében nyújtott hozzáférési vonalak tárgyévre vonatkozó közvetlen nettó elkerülhető költsége az 1.1. pont szerint kiválasztott hozzáférési vonalak 1.2. pont szerinti tárgyévre vonatkozó tényleges aktivált értékének és az 1.3. pont szerinti tárgyévre vonatkozó bevételének különbsége.
+
+2. Nyilvános telefonállomások nettó elkerülhető költségének meghatározása
+
+2.1. A költségszámításba bevont, veszteségesen üzemeltethető nyilvános telefonállomások kiválasztása, száma
+
+1. A szolgáltató településenként meghatározza azon nyilvános telefonállomásait, melyeket az egyetemes szolgáltatási kötelezettség miatt üzemeltet. Ezen állomások számának meghatározása során szükséges a nyilvános telefonállomások kialakításával és elhelyezésével kapcsolatos követelményeket figyelembe venni.
+
+2. Következő lépésben a szolgáltató az előző pontban meghatározott nyilvános telefonállomások közül kiválasztja azokat, amelyek üzemeltetése adott évben nyereséges számára, azaz amelyek esetén a realizált bevételek meghaladják a 2.2. pontban meghatározott nyilvános telefonállomások egységköltségét.
+
+3. A szolgáltató a nyilvános telefonállomások üzemeltetésével kapcsolatos támogatási igény kiszámításakor azon nyilvános telefonállomásaira határoz meg támogatási igényt, amelyek üzemeltetése az 1. pont szerinti állomásokból a 2. pont alapján kiválasztott nyilvános telefonállomásokon felül szükséges.
+
+2.2. A nyilvános telefonállomások költségének meghatározása
+
+A nyilvános állomások költségeit a szolgáltató a hatóság által kirótt számviteli szétválasztás kötelezettségre vonatkozó előírásoknak megfelelően elkészített, benyújtott és a hatóság által jóváhagyott számviteli szétválasztás kimutatásban (számviteli szétválasztás modellben) a helyhez kötött kiskereskedelmi üzletág nyilvános állomások üzleti területének múltbeli költsége (HCA) alapján határozza meg. A számviteli szétválasztási modellben a nyilvános állomások összes költségeként meghatározható összeg és az összesen üzemeltetett nyilvános állomás darabszámának hányadosa a nyilvános telefonállomások egységköltsége.
+
+2.3. A 2.1. pontban kiválasztott veszteségesen üzemeltethető nyilvános telefonállomások átlagos bevételének meghatározása
+
+1. A nyilvános telefonállomások esetében a szolgáltató azon forgalmi szolgáltatások bevételeit és a reklámcélból hasznosított telefonállomások esetében a reklámcélú hasznosításból származó bevételeket határozza meg, amelyek elvesznének az adott nyilvános telefonállomás megszűnésével (leszerelésével). Az egyes nyilvános telefonállomások bevételeinek meghatározását a szolgáltató a számviteli szétválasztásban szereplő nyilvános telefonállomások részletes analitikája alapján végzi el. A nyilvános telefonállomások esetében a használók által az állomásról indított vagy általuk fogadott hívások bevételeit kell meghatározni.
+
+2. A nyilvános telefonállomások egy állomásra jutó átlagos bevétele a 2.1.3. pontban kiválasztott nyilvános telefonállomások egyedi bevételei összegének és a 2.1.3. szerinti nyilvános telefonállomások számának hányadosa.
+
+A. A nyilvános telefonállomások nettó elkerülhető költségének meghatározása
+
+A 2.2. pontban meghatározott egységköltség, valamint a 2.3.2. pont szerinti átlagos bevétel különbsége és a 2.1.3. pont szerint kiválasztott nyilvános telefonállomások számának szorzata.
+
+B. A nyilvános telefonállomások nettó elkerülhető egységköltségének meghatározása
+
+Az A. pont szerinti nettó elkerülhető költség és a 2.1.3. szerint kiválasztott veszteségesen üzemeltethető nyilvános telefonállomások darabszámának hányadosa a nyilvános telefonállomások nettó elkerülhető egységköltsége.
+
+3. Előfizetői névjegyzék elérhetővé tétele közvetlen nettó elkerülhető költségének meghatározása
+
+3.1. Az előfizetői névjegyzék elérhetővé tételével kapcsolatos költségek
+
+A költségek megállapításánál a névjegyzék előállításával és előfizetőkhöz való eljuttatásával kapcsolatos költségeket, valamint az előfizetői névjegyzékben található adatok gyűjtésével, tárolásával és feldolgozásával kapcsolatos költségek előfizetői névjegyzék szolgáltatásra aktivált részét lehet figyelembe venni.
+
+3.2. Az előfizetői névjegyzékkel kapcsolatos bevételek
+
+Az előfizetői névjegyzék bevételeinek meghatározásánál figyelembe kell venni a névjegyzék, mint reklámhordozó felület (kiemelt előfizetői megjelenés, előfizetői reklámok stb.) értékesítéséből származó bevételeket.
+
+A. Az előfizetői névjegyzék nettó elkerülhető költsége
+
+A névjegyzék elérhetővé tételével kapcsolatos költségek és a névjegyzékkel kapcsolatos bevételek különbségeként kell megállapítani.
+
+4. Országos belföldi tudakozó nyújtása
+
+4.1. Az országos belföldi tudakozó költségének meghatározása
+
+Az országos belföldi tudakozó szolgáltatás nettó elkerülhető költségének megállapítása során a szolgáltató kizárólag azokat a költségeket veszi figyelembe, amelyek a belföldi tudakozó szolgáltatással kapcsolatban merültek fel. A nemzetközi tudakozó vagy a különleges tudakozó szolgáltatással kapcsolatos költségek a számítás során nem vehetőek figyelembe.
+
+A költségek megállapításánál a névjegyzék előállításával és előfizetőkhöz való eljuttatásával, valamint az előfizetői névjegyzékben található adatok gyűjtésével, tárolásával és feldolgozásával kapcsolatos költségeket lehet figyelembe venni.
+
+4.2. Az országos belföldi tudakozó bevételeinek meghatározása
+
+Az országos belföldi tudakozó szolgáltatás bevételeinek meghatározásakor a szolgáltatás által a szolgáltatásban érintett valamennyi szolgáltató hálózatában generált forgalmi szolgáltatásból származó bevételt együttesen figyelembe kell venni.
+
+A. Országos belföldi tudakozó nyújtása nettó elkerülhető költség kiszámítása
+
+A 4.1. pont szerint költségek és 4.2. pont szerinti bevételek különbsége adja meg az országos belföldi tudakozó szolgáltatás nettó elkerülhető költségét.
+
+[^12]: A 7. § a 8/2010. (IV. 21.) MeHVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: A melléklet a 8/2010. (IV. 21.) MeHVM rendelet 3. § (2) bekezdésével megállapított szöveg.
