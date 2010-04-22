@@ -6,10 +6,10 @@
 
 (3) A hívásfelépítési díj a hívó és a hívott előfizetői hozzáférési pont közötti távközlési összeköttetés felépítéséért sikeres hívásonként számítható fel.
 
-(4)[^2] A felszámítható forgalmi díj összegét a percdíjnak a díjazási időszak és a hívott díjzóna által meghatározott, a szolgáltató általános szerződési feltételeiben szereplő 1 másodpercre jutó hányadának és a hívás másodpercben mért időtartamának a szorzata határozza meg.
+(4)[^3]
 
 (5) Ha a hívás időtartama két különböző díjazási időszakra esik, a díjazást a tényleges díjazási időszakoknak megfelelően kell alkalmazni.
 
 (6) Az e § szerinti díjakat szolgáltató a mérést követően az előfizetőnek utólag számítja fel.
 
-[^2]: Az 5. § (4) bekezdése a 10/2003. (VI. 27.) IHM rendelet 6. §-ának (3) bekezdése szerint módosított szöveg.
+[^3]: Az 5. § (4) bekezdését a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.

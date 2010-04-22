@@ -34,12 +34,6 @@ főállomás (különvonalú állomás) 90 000 Ft
 
 ikerállomás 75 000 Ft
 
-2. Ikerállomás főállomássá alakításának legmagasabb díja (kivéve, ha az átalakítást a szolgáltató kezdeményezi):
+2–3.[^20]
 
-egyéni igénylők, előfizetők 3 000 Ft/vonal
-
-üzleti igénylők, előfizetők 10 000 Ft/vonal
-
-3.[^16] a 10. § (1) bekezdésével kapcsolatos legmagasabb díj: 2 000 Ft
-
-[^16]: A 2. számú melléklet 3. pontja a 10/2003. (VI. 27.) IHM rendelet 6. §-ának (3) bekezdése szerint módosított szöveg.
+[^20]: A 2. számú melléklet 2–3. pontját a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.
