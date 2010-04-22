@@ -6,7 +6,11 @@
 
 66. § (1) Állatgyógyászati készítményekkel, illetve azok hatóanyagával nagykereskedelmi tevékenységet folytatni csak azt követően lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban az MgSzH Központ szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárul.
 
-(2) Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik, mentesülnek a Helyes Nagykereskedelmi Gyakorlat által támasztott különleges követelmények teljesítése alól.
+(2)[^48] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik,
+
+a) mentesülnek a Helyes Nagykereskedelmi Gyakorlat által támasztott különleges követelmények teljesítése alól,
+
+b) az állatgyógyászati készítményeket kizárólag állatgyógyászati készítmény nagykereskedelmére jogosító működési engedéllyel rendelkezőnek adhatja ki.
 
 (3) A működési engedély iránti kérelemnek tartalmaznia kell:
 
@@ -39,3 +43,5 @@ j) a minőségi kifogások és a feltételezett mellékhatások bejelentéseinek
 (6) Ha a nagykereskedő állatgyógyászati készítmények alapanyagát képező – anabolikus, fertőzés elleni, parazitaellenes, gyulladáscsökkentő, hormonhatású, pszichotróp – hatóanyagok forgalmazására is jogosult, a 66–68. §, a 71–75. §, illetve a 78. § nagykereskedelmi tevékenységre vonatkozó rendelkezéseit a 75. § előírásaival összhangban kell alkalmazni a hatóanyagokkal kapcsolatos tevékenységére is.
 
 (7) A szakhatósági állásfoglalásban foglaltaktól az engedély módosítását követően lehet eltérni.
+
+[^48]: A 66. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.

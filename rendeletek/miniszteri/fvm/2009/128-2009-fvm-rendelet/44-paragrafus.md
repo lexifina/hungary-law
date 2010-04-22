@@ -16,7 +16,7 @@ ad) kiszerelési formáját,
 
 ae) a gyártó nevét és a gyártóhely címét,
 
-af) amennyiben forgalomba kerül a forgalmazó nevét, címét, telephelyét, a forgalmazó nevét, címét, telephelyét,
+af)[^40] amennyiben forgalomba kerül,
 
 ag) amennyiben közvetlen felhasználásra kerül a felhasználás célját, a felhasználó nevét, lakó-, illetve székhelyének és a felhasználás szerinti telephelyének címét,
 
@@ -29,3 +29,5 @@ bb) a hatóanyag gyártójának nevét, a gyártóhely címét,
 bc) a hatóanyag felhasználásának célját, a felhasználó nevét, lakó-, illetve székhelyének és a felhasználás szerinti telephelyének címét.
 
 (4) Az MgSzH Központ az állatgyógyászati készítmények harmadik országból történő behozatala esetén a (2) vagy (3) bekezdés szerinti engedély másolatát – lehetőleg elektronikus úton – az MgSzH területi szervén keresztül megküldi az MgSzH forgalmazás, illetve felhasználás helye szerint illetékes kerületi hivatalának.
+
+[^40]: A 44. § (3) bekezdés a) pont af) alpontja a 33/2010. (IV. 7.) FVM rendelet 12. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.

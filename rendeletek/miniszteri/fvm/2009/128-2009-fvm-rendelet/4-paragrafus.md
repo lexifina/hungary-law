@@ -113,3 +113,70 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 48. Validálás: dokumentált minőségbiztosítási eljárás, amely nagyfokú biztosítékot nyújt arra, hogy egy adott folyamat, módszer vagy rendszer egyenletes megbízhatósággal szolgáltat az előre meghatározott elfogadhatósági követelményeknek megfelelő eredményt.
 
 49. Vizsgálati készítmény: forgalomba hozatali engedéllyel még nem rendelkező, fejlesztés alatt álló állatgyógyászati készítmény, amelyet laboratóriumi, illetve laboratóriumon kívüli kipróbálás céljára állítanak elő.
+
+50.[^4] Állategészségügyi biocid termék: a 1/A. § (2) bekezdésének d) pontja szerinti termékcsoportok valamelyikébe besorolható biocid hatóanyag, vagy egy vagy több biocid hatóanyagot tartalmazó készítmény – a felhasználóknak szánt kiszerelési formákban –, melynek célja, hogy állategészségügyi alkalmazás során valamely kártékony biológiai szervezetet kémiai vagy biológiai eszközökkel elpusztítson, kártékony biológiai szervezetet, illetve külső élősködőt elriasszon, ártalmatlanítson, károkozásában akadályozzon, vagy más módon korlátozó hatást gyakoroljon rá.
+
+51.[^5] Állatgyógyászati ápolószer: olyan termék, amely az állati testtel (így különösen bőr, szőrzet, karom, pata, külső hallójárat, szemkörnyék, tőgy, külső nemi szervek, fogak, fogíny, szájnyálkahártya), vagy annak környezetével kerül érintkezésbe elsődlegesen olyan céllal, hogy azokat tisztítsa, illatosítsa, hidratálja, kondicionálja, védje, ápolja, azok megjelenését megváltoztassa, a kellemetlen szagot enyhítse, vagy az állatokat egymáshoz szoktassa, illetve egymástól távol tartsa.
+
+52.[^6] Állatgyógyászatban használatos gyógyhatású készítmény: olyan állatokon alkalmazható készítmény, amely nem minősül állatgyógyászati készítménynek, vagy állategészségügyi biocid terméknek, és amely állatok betegségeinek kiegészítő kezelésére alkalmazható, valamint kedvező biológiai hatással rendelkezik, továbbá előírásszerű használata esetén nincs káros hatása, illetve mellékhatása, továbbá élelmiszertermelő állatokon történő alkalmazás esetén nincs élelmezés-egészségügyi várakozási ideje, valamint a fogyasztók számára egészségi ártalmat nem okoz.
+
+53.[^7] Állatgyógyászati segédanyag: a gerinces állatok testével érintkezésbe kerülő, állatorvosi beavatkozást segítő, jelző értékű vagy diagnosztikai vizsgálatot elősegítő anyag.
+
+54.[^8] Állati vérkészítmény: emlősállatok véréből származó állatgyógyászati készítmény; az állati vérkészítmény az 1774/2002/EK rendelet I. melléklete 4. pontja szerinti vérterméknek, valamint az 1774/2002/EK rendelet I. melléklete 54. pontja szerinti műszaki terméknek minősül.
+
+55.[^9] Állati vérkészítményt előállító hely: az állati vérkészítmény előállítására szolgáló az 1774/2002/EK rendelet I. melléklete 53. pontja szerinti műszaki üzem.
+
+56.[^10] Biocid hatóanyag: anyag, mikroorganizmus, ideértve a vírusokat és gombákat is, amely a kártékony biológiai szervezetekre, vagy azokkal szemben általános vagy meghatározott hatást gyakorol.
+
+57.[^11] Donor: az az emlősállat, amelyből másik állatnak, illetve saját maga számára gyógyító vagy megelőző céllal vért vagy vérkomponenst vesznek le.
+
+58.[^12] Fehérvérsejt- és thrombocytaszegény teljes vér: tartalmazza a donor vérének sejtes elemei közül a vörösvérsejteket (nyomokban thrombocytákat és fehérvérsejteket is) és a vér nem sejtes elemeit, valamint a vértartósító oldat anyagait.
+
+59.[^13] Friss fagyasztott vérplazma (FFP): a vérvételtől számított 8 órán belül szeparált vérplazma –18°C-ra történő fagyasztásával előállított készítmény, mely tartalmazza a vér nem sejtes elemeit, valamint a vértartósító oldat anyagait.
+
+60.[^14] Friss teljes vér: a donor vérének összes sejtes – melyek közül a fehérvérsejtek és a thrombocyták funkcionálisan aktívak – és nem sejtes elemét, valamint a vértartósító oldat anyagait tartalmazza. A készítmény a vérvételtől számítva 24 óráig minősül friss teljes vérnek, ezután tartósított teljes vérnek kell minősíteni.
+
+61.[^15] Krioprecipitátum: friss fagyasztott plazma 4°C-on való felolvasztásakor keletkező csapadék.
+
+62.[^16] Recipiens: az állati vérkészítményt kapó emlősállat.
+
+63.[^17] Szermaradékok: az állategészségügyi biocid termék felhasználása után visszamaradó anyag vagy anyagok maradékai, ideértve ezeknek az anyagoknak az anyagcsere-, bomlás- és reakciótermékeit is.
+
+64.[^18] Tartósított teljes vér: a donor vérének összes sejtes – melyek közül a fehérvérsejtek és thrombocyták funkcionálisan inaktívak – és nem sejtes elemét, valamint a vértartósító oldat anyagait tartalmazza. Eltarthatósága a vértartósító anyagoktól függ.
+
+65.[^19] Termékismertető: az állatgyógyászatban használatos gyógyhatású készítményhez, ápolószerhez és segédanyaghoz mellékelt, a felhasználó tájékoztatására szolgáló nyomtatvány.
+
+66.[^20] Thrombocytadús plazma: egy egység vérből (hozzávetőlegesen 450 ml) az ún. „buffy coat” technikával készített megközelítőleg 40 ml mennyiségű oldat, mely 5x1010 koncentrációban tartalmaz funkcionálisan aktív thrombocytákat.
+
+67.[^21] Transzfúzió: gyógyító vagy megelőző célzattal vér vagy vérkészítmény bejuttatása a recipiens emlősállat érrendszerébe.
+
+68.[^22] Véradás: olyan folyamat, mely során vért vesznek le valamely donortól azzal a céllal, hogy azt a későbbiekben állati vérkészítmény előállításához használják.
+
+69.[^23] Vérdepó: ellenőrzött tárolórendszer, amely biztonságosan elzárható, fertőzésmentes környezetben, meghatározott hőmérsékleten, elkülönítetten biztosítja az azonosítható terápiás vérkészítmény tartós tárolását.
+
+70.[^24] Vörösvérsejtkoncentrátum: egy egység vérből előállított saját plazmában szegény készítmény, mely minimálisan 0,7 l/l koncentrációban tartalmaz vörösvérsejteket és a vértartósító oldat anyagait.
+
+71.[^25] Vérszérum: Alvadási faktorokat nem tartalmazó vérplazma.
+
+[^4]: A 4. § 50. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^5]: A 4. § 51. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^6]: A 4. § 52. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^7]: A 4. § 53. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^8]: A 4. § 54. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^9]: A 4. § 55. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^10]: A 4. § 56. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^11]: A 4. § 57. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^12]: A 4. § 58. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^13]: A 4. § 59. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^14]: A 4. § 60. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^15]: A 4. § 61. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^16]: A 4. § 62. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^17]: A 4. § 63. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^18]: A 4. § 64. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^19]: A 4. § 65. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^20]: A 4. § 66. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^21]: A 4. § 67. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^22]: A 4. § 68. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^23]: A 4. § 69. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^24]: A 4. § 70. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^25]: A 4. § 71. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.

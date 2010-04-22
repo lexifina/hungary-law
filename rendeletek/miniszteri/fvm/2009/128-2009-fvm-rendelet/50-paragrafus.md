@@ -4,13 +4,13 @@
 
 (2) A gyógyszergyártási engedély jogosultja köteles:
 
-a) a gyártásban és a minőség-ellenőrzésben a külön jogszabályban előírtaknak megfelelő szakképzettségű személyzetet foglalkoztatni,
+a)[^42] a gyártásban és a minőség-ellenőrzésben az e rendeletben előírtaknak megfelelő szakképzettségű személyzetet foglalkoztatni,
 
 b) kizárólag a hatályos jogszabályok előírásainak megfelelő állatgyógyászati készítményeket birtokában tartani,
 
 c) az MgSzH Központot értesíteni
 
-ca) a 45. § szerinti feltételekben tervezett változtatás szándékáról előzetesen,
+ca)[^43]
 
 cb) abban az esetben, ha az 52. § szerinti meghatalmazott személy személyében váratlan, előre nem látható változás áll be, haladéktalanul,
 
@@ -37,3 +37,6 @@ h) a nyilvántartást 3 évig megőrizni és helyszíni ellenőrzés esetén az 
 i) az aktualizált Gyártóhely Alapadatait („Site Master File”) évente az MgSzH Központ rendelkezésére bocsátani.
 
 (3) A törzskönyvezett állatgyógyászati készítmények előállításának feltételeit a 7. számú melléklet és az Európai Bizottság által kiadott közösségi útmutató – az Eudralex „Good Manufacturing Practice” című 4. kötete – rögzíti, amelynek mindenkori magyar változatát az MgSzH Központ a honlapján és a minisztérium hivatalos lapjában közzéteszi.
+
+[^42]: Az 50. § (2) bekezdés a) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^43]: Az 50. § (2) bekezdés c) pont ca) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § f) pontja hatályon kívül helyezte.

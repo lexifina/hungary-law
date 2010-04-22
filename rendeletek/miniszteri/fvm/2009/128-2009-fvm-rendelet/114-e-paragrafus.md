@@ -1,0 +1,11 @@
+## II. Fejezet
+
+## A FORGALOMBA HOZATALRA ENGEDÉLYEZETT ÁLLATEGÉSZSÉGÜGYI BIOCID TERMÉKEKRE VONATKOZÓ SZABÁLYOK
+
+## Az állategészségügyi biocid termékek nyilvántartása, a termékek felülvizsgálata és az engedélyek módosítása
+
+114/E. § (1) Az MgSzH Központ nyilvántartást vezet a hazai forgalomba hozatalra engedélyezett állategészségügyi biocid termékekről, és azt honlapján nyilvánosan hozzáférhetővé teszi.
+
+(2) Az MgSzH Központ a minisztérium hivatalos lapjában közzéteszi a nyilvántartásba bejegyzett és forgalomba hozatalra engedélyezett állategészségügyi biocid termékek következő adatait: a magyarországi forgalmazó neve (cégneve), címe (székhelye), a termék neve, kiszerelése, hatóanyagai, hatóanyagainak mennyisége, veszélyességi besorolása, felhasználási területe, célállatfajok, adagolása, fertőtlenítőszerek esetében az alkalmazási koncentráció, behatási idő, antimikrobiális spektrum, és a forgalomba hozatali engedély száma.
+
+(3) Legkésőbb a tevékenység megkezdésével egyidejűleg a veszélyes besorolású biocid termékkel történő tevékenységet a kémiai biztonságról szóló törvény és a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló külön jogszabály szerint be kell jelenteni az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSz) területileg illetékes kistérségi intézete részére.

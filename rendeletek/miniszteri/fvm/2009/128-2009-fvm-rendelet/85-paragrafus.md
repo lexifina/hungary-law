@@ -30,7 +30,7 @@ e) bármely, a helyszíni ellenőrzés tárgyával összefüggő dokumentumról 
 
 f) a forgalomba hozatali engedély jogosultjánál vagy bárki másnál, aki az engedélyes megbízásából a mellékhatás-figyelő rendszerre vonatkozó rendelkezések szerinti tevékenységet folytatja, ellenőrizni a helyiségeket, a nyilvántartásokat és a d) pont szerinti dokumentumokat,
 
-g) minőségi hiba, illegális gyártás, hamisítás, csalás vagy annak alapos gyanúja esetén a fellelhető készletet az előállítására szolgáló hatóanyagokkal együtt zár alá venni, illetve a terméknek a forgalomból való helyi vagy országos kivonását elrendelni,
+g)[^58] minőségi hiba, illegális gyártás, illegális kereskedelem, hamisítás, csalás vagy annak alapos gyanúja esetén a fellelhető készletet az előállítására szolgáló hatóanyagokkal együtt zár alá venni, illetve a terméknek a forgalomból való helyi vagy országos kivonását elrendelni,
 
 h) a gyógyszerkészítmények vonatkozásában működő az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet szerinti Gyors Riasztási Rendszeren (Rapid Alert System, a továbbiakban: RAS) keresztül érkező minőségi hiba vagy annak alapos gyanúja esetén a RAS szabályai szerint intézkedni, illetve a rendszeren keresztül intézkedést kezdeményezni,
 
@@ -43,3 +43,5 @@ i) állategészségügyi vagy közegészségügyi veszély, illetve minőségi h
 (7) Amennyiben az Európai Bizottság és valamely harmadik ország között megkötött megállapodás másként nem rendelkezik, az MgSzH Központ megkövetelheti a harmadik országbeli gyártótól, hogy vesse alá magát az (1) bekezdés szerinti helyszíni ellenőrzésnek. A lefolytatott helyszíni ellenőrzést követő 90 napon belül az MgSzH Központ kiállítja a gyártó részére a GMP igazolást, ha a helyszíni ellenőrzés megállapította, hogy a gyártó megfelel az európai közösségi jog által megkövetelt GMP elveinek és útmutatóinak. Az MgSzH Központ az általa kiadott GMP igazolásokat továbbítja az Európai Gyógyszer Ügynökség által működtetett közösségi adatbázisba.
 
 (8) Ha az (1) bekezdés szerint lefolytatott helyszíni ellenőrzésnek az a végkövetkeztetése, hogy a gyártó nem felel meg az európai közösségi jog által megkövetelt GMP elveinek és útmutatóinak, ezt az információt az MgSzH Központ továbbítja a (7) bekezdés szerinti adatbázisba.
+
+[^58]: A 85. § (4) bekezdés g) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.

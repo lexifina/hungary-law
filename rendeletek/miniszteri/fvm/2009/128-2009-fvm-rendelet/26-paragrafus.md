@@ -34,9 +34,9 @@ ca) SPC-jét,
 
 cb) használati utasítását,
 
-cc) címkéjét, valamint
+cc)[^31] címkéjét.
 
-cd) minden egyes kiszerelésének csomagolási szövegét.
+cd)[^32]
 
 (2) A forgalmazás megkezdésének feltétele a forgalomba hozatali engedélynek megfelelő nyomdai végleg-minta MgSzH Központ részére történő előzetes benyújtása.
 
@@ -65,3 +65,6 @@ e) törzskönyvi száma,
 f) forgalomba hozatali engedély száma.
 
 (9) Az MgSzH Központ a minisztérium hivatalos lapjában évente legalább négy alkalommal közzéteszi a törzskönyvből törölt állatgyógyászati készítmények körét és adatait, valamint a törlés időpontját. A közleményt az MgSzH Központ honlapján is közzéteszi.
+
+[^31]: A 26. § (1) bekezdés c) pont cc) alpontja a 33/2010. (IV. 7.) FVM rendelet 12. § b) pontja szerint módosított szöveg.
+[^32]: A 26. § (1) bekezdés c) pont cd) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § c) pontja hatályon kívül helyezte.

@@ -12,6 +12,9 @@ gyártásáért.
 
 (3) A készítmény forgalomból való kivonását az MgSzH Központ rendeli el. A forgalomba hozatali engedély jogosultja a gyártóval együttműködve köteles gondoskodni a minőségi hibás termék forgalomból való haladéktalan kivonásáról. A forgalomból való kivonás jegyzőkönyvét a forgalomba hozatali engedély jogosultja az MgSzH Központnak küldi meg.
 
-(4) Amennyiben valamely engedélyezett tevékenység szüneteltetésének ideje a 2 év időtartamot eléri, azt a gyártó köteles bejelenteni az MgSzH Központnak. A szüneteltetett tevékenység vonatkozásában az MgSzH Központ a gyógyszergyártási engedélyt visszavonja.
+(4)[^45] Amennyiben valamely engedélyezett tevékenység szüneteltetésének ideje a 2 év időtartamot eléri, azt a gyártó köteles bejelenteni az MgSzH Központnak.
 
-(5) A gyógyszergyártási engedély jogosultjának a gyógyszergyártásra engedélyezett telephelyen nem gyógyszernek minősülő készítmény gyártásához az MgSzH Központ előzetes engedélye szükséges.
+(5)[^46] A gyógyszergyártási engedély jogosultjának a gyógyszergyártásra engedélyezett üzemben nem gyógyszernek minősülő készítmény gyártásához az MgSzH Központ engedélye szükséges.
+
+[^45]: Az 53. § (4) bekezdése a 33/2010. (IV. 7.) FVM rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^46]: Az 53. § (5) bekezdése a 33/2010. (IV. 7.) FVM rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
