@@ -1,0 +1,1 @@
+## 38. § A kedvezményezett írásban benyújtott kérelme alapján a megítélt támogatás legfeljebb 40%-áig támogatási előleg adható. Előleg igénybevétele esetén a támogatás fennmaradó része az előleggel való elszámolás elfogadását követően és a teljesítést igazoló számla alapján igényelhető.

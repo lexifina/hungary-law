@@ -1,0 +1,1 @@
+## 3. § A TRFC terhére vállalt kötelezettségek pénzügyi teljesítését legkésőbb 2011. december 31-ig kell biztosítani. Az elszámolás alapját képező dokumentumok beérkezésének végső határideje 2011. november 30.
