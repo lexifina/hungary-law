@@ -1,0 +1,1 @@
+## 10. § Ha a miniszter a hatósági ellenőrzés során megállapítja, hogy a szakértő nem felel meg a szakértői tevékenység folytatására való jogosultságra vonatkozó jogszabályi előírásoknak, a jogosultság igazolásáig határozatban megtiltja a szakértői tevékenység folytatását.
