@@ -2,11 +2,11 @@
 
 8. § (1) A védekezésre való felkészülés és a megelőzés során a KKB:
 
-a)[^20] A Magyar Köztársaság nemzeti biztonsági stratégiáját meghatározó kormányhatározat[^21] értelmében előzetesen véleményezi a katasztrófák elleni védekezésért felelős miniszter által összeállított katasztrófavédelmi stratégia tervezetét, előkészíti a megelőzés és felkészülés éves nemzeti tervét, annak költségvetését,
+a)[^21] A Magyar Köztársaság nemzeti biztonsági stratégiáját meghatározó kormányhatározat[^22] értelmében előzetesen véleményezi a katasztrófák elleni védekezésért felelős miniszter által összeállított katasztrófavédelmi stratégia tervezetét,
 
 b) meghatározza az előre jelzett katasztrófák bekövetkezésének valószínűségi szintjét, amikor a védekezést külön intézkedés nélkül meg kell kezdeni, ehhez rögzíti a felkészülés módját, javaslatot tesz a Kormánynak az előrejelzés közzétételére jogosult szervezet kijelölésére és a közzététel rendjére,
 
-c)[^22] értékeli az előző év súlyos balesetei, katasztrófái kezelésének, a nemzetközi együttműködésnek és a kölcsönös segítségnyújtásnak, valamint az előző évi felkészülés tapasztalatait, erről, illetve a következő év katasztrófavédelmi, felkészülési, megelőzési feladatairól, a központi államigazgatási szervek katasztrófavédelmi gyakorlatairól, a következő évek ezirányú tevékenységének fő irányairól évente előterjesztést készít a Kormány részére,
+c)[^23] értékeli az előző év súlyos balesetei, katasztrófái kezelésének, a nemzetközi együttműködésnek és a kölcsönös segítségnyújtásnak, valamint az előző évi felkészülés tapasztalatait,
 
 d) éves feladattervében meghatározza a felkészüléssel kapcsolatos feladatait,
 
@@ -38,7 +38,7 @@ b) tájékoztatást ad a védekezésben érintett szervek részére a katasztró
 
 c) hírközlő eszközök útján rendszeresen tájékozatja a lakosságot a katasztrófaveszélyről, illetve annak elmúltáról,
 
-d)[^23] összehangolja a minisztériumok és más központi államigazgatási szervek védekezéssel kapcsolatos szakmai tevékenységét,
+d)[^24] összehangolja a minisztériumok és más központi államigazgatási szervek védekezéssel kapcsolatos szakmai tevékenységét,
 
 e) több megyét érintő katasztrófa esetén kormánydöntésre előkészíti a védekezésben részt vevő területi szervezetek feladataira és az anyagi eszközök átcsoportosítására, a központi eszközök és tartalékok igénybevételére vonatkozó döntéseket,
 
@@ -60,10 +60,10 @@ b) értékeli a károk felmérésének eredményeit, és javaslatot tesz a Korm�
 
 c) javaslatot tesz a Kormánynak a vis maior alap, illetve a központi költségvetésből biztosított pénzeszközök felhasználásának ellenőrzésére, javaslatot készít a felhasznált vis maior alap kiegészítésére.
 
-(4)[^24] A KKB a károk felmérését, a kormányzati pénzeszközök, segélyek felosztását a helyreállításra biztosított pénzeszközök felhasználását, illetve azok ellenőrzését a Kormány általános hatáskörű területi államigazgatási szerve, a pénzügyi lebonyolítást a Magyar Államkincstár Területi Igazgatóságai (a továbbiakban: Igazgatóság) bevonásával végzi.
+(4)[^25] A KKB a károk felmérését, a kormányzati pénzeszközök, segélyek felosztását a helyreállításra biztosított pénzeszközök felhasználását, illetve azok ellenőrzését a Kormány általános hatáskörű területi államigazgatási szerve, a pénzügyi lebonyolítást a Magyar Államkincstár Területi Igazgatóságai (a továbbiakban: Igazgatóság) bevonásával végzi.
 
-[^20]: A 8. § (1) bekezdésének a) pontja a 168/2005. (VIII. 24.) Korm. rendelet 1. §-ával megállapított, valamint a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^21]: A Magyar Köztársaság nemzeti biztonsági stratégiájáról szóló 2073/2004. (IV. 15.) Korm. határozat.
-[^22]: A 8. § (1) bekezdésének c) pontja a 95/2009. (IV. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^23]: A 8. § (2) bekezdésének d) pontja a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^24]: A 8. § (4) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 98. §-ának a) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 42. pontja szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdésének a) pontja a 168/2005. (VIII. 24.) Korm. rendelet 1. §-ával megállapított, valamint a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése, a 122/2010. (IV. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^22]: A Magyar Köztársaság nemzeti biztonsági stratégiájáról szóló 2073/2004. (IV. 15.) Korm. határozat.
+[^23]: A 8. § (1) bekezdésének c) pontja a 95/2009. (IV. 24.) Korm. rendelet 7. §-ával megállapított, a 122/2010. (IV. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^24]: A 8. § (2) bekezdésének d) pontja a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^25]: A 8. § (4) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 98. §-ának a) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 42. pontja szerint módosított szöveg.

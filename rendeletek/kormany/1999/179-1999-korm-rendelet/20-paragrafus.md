@@ -1,3 +1,3 @@
-20. §[^48]
+20. §[^49]
 
-[^48]: A 20. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1205. pontja hatályon kívül helyezte.
+[^49]: A 20. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1205. pontja hatályon kívül helyezte.

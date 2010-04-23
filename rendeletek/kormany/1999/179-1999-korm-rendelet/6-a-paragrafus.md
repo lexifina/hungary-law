@@ -16,7 +16,7 @@ c) figyelemmel kíséri
 
 ca) a KKB határozatainak és az érintett szervek, szervezetek együttműködésének megvalósulását,
 
-cb) a Magyar Köztársaság katasztrófa-veszélyeztetettségére, a katasztrófák hatásai elleni védekezésre vonatkozó nemzeti stratégia, valamint a megelőzés és a felkészülés éves nemzeti terve előkészítését, a kapcsolódó költségvetések tervezését,
+cb)[^20] a Magyar Köztársaság katasztrófa-veszélyeztetettségére, a katasztrófák hatásai elleni védekezésre vonatkozó nemzeti stratégia előkészítését, a kapcsolódó költségvetések tervezését,
 
 cc) az országos katasztrófavédelmi információs rendszer létrehozásáról, a KKB Kommunikációs és Információs Központjának kiépítéséről és működtetéséről szóló javaslatok megvalósulását,
 
@@ -54,3 +54,4 @@ j) biztosítják a védekezési munkabizottságok működésének feltételeit, 
 
 [^18]: A 6/A. §-t megelőző alcímet a 95/2009. (IV. 24.) Korm. rendelet 6. §-a iktatta be.
 [^19]: A 6/A. §-t a 95/2009. (IV. 24.) Korm. rendelet 6. §-a iktatta be.
+[^20]: A 6/A § c) pont cb) alpontja a 122/2010. (IV. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
