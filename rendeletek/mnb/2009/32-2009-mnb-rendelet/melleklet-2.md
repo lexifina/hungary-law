@@ -128,6 +128,8 @@
 
 | AL1 | Napi jelentés az egyes követelések és kötelezettségek könyv szerinti bruttó állományáról | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | elrendelést követő első alkalommal a tárgynapot követő 1. munkanap 12:00 óra; az elrendelést követő második naptól a tárgynapot követő 1. munkanap 11:00 óra | MNB Statisztika |
 
+| AL2 | Napi jelentés a cash-flow adatokról | kijelölt bankok, szakosított hitelintézetek, ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | tárgynap 12:00 óra | MNB Statisztika |
+
 | L10 | Felvett vállalati, illetve késedelemben lévő háztartási hitelek adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | havi | elektronikus úton | a tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
 
 | SL1 | Önkormányzati finanszírozás | kijelölt bankok, szakosított hitelintézetek, ezen típusú EGT fióktelepek | egyedi elrendelés alapján negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 12. munkanap 12:00 óra | MNB Statisztika |
@@ -262,7 +264,7 @@
 
 | Z02 | A háztartások jövedelmére és fogyasztására vonatkozó anonimizált adatok | KSH | éves | elektronikus úton (elektro- nikus adathor- dozó) | megállapodás szerint | MNB Monetáris stratégia és közgazda- sági elemzés |
 
-2. melléklet a 32/2009. (XII. 1.) MNB rendelethez
+2. melléklet a 32/2009. (XII. 1.) MNB rendelethez[^4]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -1136,7 +1138,7 @@ GMU tagországok
 
 A GMU tagországokra ugyanazt a szektorbontást kell alkalmazni, mint a belföld esetében. Az ettől való eltérések a következők:
 
-A GMU monetáris pénzügyi intézmények szektora az alábbi két alszektorra bomlik[^2]:
+A GMU monetáris pénzügyi intézmények szektora az alábbi két alszektorra bomlik[^5]:
 
 –  GMU jegybankok, EKB és tartalékolási kötelezettség alá eső GMU monetáris pénzügyi intézmények, valamint
 
@@ -1728,4 +1730,5 @@ A4. tábla: Forgalom névleges értéken, 2010. áprilisban
 
 (millió USD-ben)
 
-[^2]: Az egyes intézmények két alszektor szerinti besorolásához segítséget ad az Európai Központi Bank honlapján elhelyezett ún. MFI lista, amelynek pontos elérési útvonala az MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti listát tartalmazó file-ban található.
+[^4]: A 2. melléklet a 7/2010. (IV. 16.) MNB rendelet 2. §-a szerint módosított szöveg.
+[^5]: Az egyes intézmények két alszektor szerinti besorolásához segítséget ad az Európai Központi Bank honlapján elhelyezett ún. MFI lista, amelynek pontos elérési útvonala az MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti listát tartalmazó file-ban található.

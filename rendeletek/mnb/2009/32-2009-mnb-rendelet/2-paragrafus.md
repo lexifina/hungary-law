@@ -2,6 +2,6 @@
 
 2. § (1) Az adatszolgáltatók az e rendelet 1. mellékletében felsorolt információkat az ott meghatározott módon, gyakorisággal és határidőben szolgáltatják a Magyar Nemzeti Bank (a továbbiakban: MNB) részére.
 
-(2) A hitelintézetek által a Pénzügyi Szervezetek Állami Felügyelete részére szolgáltatandó adatok köréről és az adatszolgáltatás módjáról szóló PM rendeletben[^1] 20A, illetve F20A sorkód alatt meghatározott információkat a bank, a szakosított hitelintézet, illetve az Európai Gazdasági Térségről szóló megállapodásban részes (valamely más) tagállamban székhellyel rendelkező ezen típusú pénzügyi intézmények magyarországi fióktelepe (a továbbiakban: EGT fióktelep) az ott meghatározott gyakorisággal és határidőben, az MNB elektronikus adatbefogadási rendszerén (a továbbiakban: EBEAD) keresztül szolgáltatja az MNB részére is.
+(2) A hitelintézetek által a Pénzügyi Szervezetek Állami Felügyelete részére szolgáltatandó adatok köréről és az adatszolgáltatás módjáról szóló PM rendeletben[^2] 20A, illetve F20A sorkód alatt meghatározott információkat a bank, a szakosított hitelintézet, illetve az Európai Gazdasági Térségről szóló megállapodásban részes (valamely más) tagállamban székhellyel rendelkező ezen típusú pénzügyi intézmények magyarországi fióktelepe (a továbbiakban: EGT fióktelep) az ott meghatározott gyakorisággal és határidőben, az MNB elektronikus adatbefogadási rendszerén (a továbbiakban: EBEAD) keresztül szolgáltatja az MNB részére is.
 
-[^1]: Lásd a 45/2008. (XII. 31.) PM rendeletet.
+[^2]: Lásd a 45/2008. (XII. 31.) PM rendeletet.
