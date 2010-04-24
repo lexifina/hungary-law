@@ -1,0 +1,3 @@
+## „(7) Ha az engedély iránti kérelem benyújtására valamely más tagállamban kerül sor, és ezzel egyidejűleg a kérelmező szándéknyilatkozatban jelzi az OTH-nak a más tagállamban kiadandó engedély elismertetésének igényét, a termék továbbra is forgalomban tartható.
+
+## (8) Az első termékengedély megadását követő 90 napon belül a kérelmezőnek be kell nyújtania a más tagállamban kiadott engedély elismeréséhez szükséges, a 4. § szerinti dokumentumokat az OTH-nak. Ha a döntést követő 90 napon belül az elismeréshez szükséges dokumentumok beadására nem kerül sor, a termék a határidő lejártát követően nem forgalmazható. A termék engedélyezésének elutasítása esetén a termék a döntés hatálybalépésének napjától nem forgalmazható.”
