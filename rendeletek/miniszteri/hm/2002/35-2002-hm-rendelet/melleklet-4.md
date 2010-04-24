@@ -1,81 +1,85 @@
-## BELFÖLDI EGYÉNI, CSALÁDOS ÜDÜLÉS
+## 1. Belföldi egyéni, családos üdülés
 
-|  | Elő-utószezon | Főszezon |
+|  | A | B | C | D |
 
-| teljes panzió | teljes panzió |
+| 1. | üdülő megnevezése | szoba kategória | elő-utószezoni teljes panzió nettó térítési díja (Ft/fő/vendégéjszaka) | főszezoni teljes panzió nettó térítési díja (Ft/fő/vendégéjszaka) |
 
-| Az üdülő megnevezése | Szoba kategória | nettó térítési díj (fő/nap) | nettó térítési díj (fő/nap) |
+| 2. | Annavölgy | faház komfort nélkül | 1240 | 1360 |
 
-| Annavölgy | faház komfort nélkül | 1 240 | 1 360 |
+| 3. | fürdőszobás szoba | 1960 | 2720 |
 
-|  | fürdőszobás szoba | 1 960 | 2 720 |
+| 4. | Balatonkenese | I.-es villa | 3720 | 4400 |
 
-| Balatonkenese | I.-es villa | 3 720 | 4 400 |
+| 5. | II.III.A-B villa | 3040 | 3960 |
 
-|  | II.III.A-B villa | 3 040 | 3 960 |
+| 6. | I.szálló, folyóvizes szoba WC nélkül | 1600 | 1880 |
 
-|  | I. szálló, folyóvizes szoba WC nélkül | 1 600 | 1 880 |
+| 7. | I.szálló, fürdőszobás szoba WC nélkül | 1680 | 2040 |
 
-|  | I. szálló, fürdőszobás szoba WC nélkül | 1 680 | 2 040 |
+| 8. | III. szálló apartman | 3120 | 4040 |
 
-|  | III. szálló apartman | 3 120 | 4 040 |
+| 9. | IV. szálló lakosztály | 2520 | 3640 |
 
-|  | IV. szálló lakosztály | 2 520 | 3 640 |
+| 10. | „I.-II. szálló; IV.-es villa fürdőszobás szoba” | 2120 | 2960 |
 
-|  | I.–II.–IV. szálló; IV.-es villa fürdőszobás szoba | 2 120 | 2 960 |
+| 11. | IV. szálló fürdőszobás szoba | 2120 | 2960 |
 
-| Balatonkenese faház | komfortos faház | 2 120 | 2 960 |
+| 12. | faház | 2120 | 2960 |
 
-| Buják | fürdőszobás szoba | 1 960 | 2 720 |
+| 13. | Buják | fürdőszobás szoba | 1960 | 2720 |
 
-|  | lakosztály | 3 120 | 3 640 |
+| 14. | lakosztály | 3120 | 3640 |
 
-| Erdőbénye | fürdőszobás szoba | 1 960 | 2 720 |
+| 15. | Erdőbénye | fürdőszobás szoba | 1960 | 2720 |
 
-|  | folyóvizes szoba WC nélkül | 1 600 | 1 880 |
+| 16. | folyóvizes szoba WC nélkül | 1600 | 1880 |
 
-|  | lakosztály | 3 120 | 3 640 |
+| 17. | lakosztály | 3120 | 3640 |
 
-|  | villa | 3 120 | 4 040 |
+| 18. | villa | 3120 | 4040 |
 
-| Göd | fürdőszobás szoba | 1 960 | 2 720 |
+| 19. | Göd | fürdőszobás szoba | 1960 | 2720 |
 
-|  | lakosztály | 3 120 | 3 640 |
+| 20. | lakosztály | 3120 | 3640 |
 
-| Hajdúszoboszló | komfortos faház | 1 680 | 2 040 |
+| 21. | Hajdúszoboszló | komfortos faház | 1680 | 2040 |
 
-|  | fürdőszobás szoba | 1 800 | 2 040 |
+| 22. | fürdőszobás szoba | 1800 | 2040 |
 
-|  | lakosztály | 3 120 | 3 640 |
+| 23. | lakosztály | 3120 | 3640 |
 
-| Mátraháza | fürdőszobás szoba | 1 960 | 2 720 |
+| 24. | Mátraháza | fürdőszobás szoba | 1960 | 2720 |
 
-|  | lakosztály | 3 120 | 3 640 |
+| 25. | lakosztály | 3120 | 3640 |
 
-| KORK | vendégegység (ház, szoba) | 1 520 | 1 520 |
+| 26. | KORK | vendégegység (ház, szoba) | 1520 | 1520 |
 
-| BELFÖLDI GYERMEKÜDÜLÉS HAZAI GYERMEKÜDÜLŐBEN |
+## 2. Belföldi gyermeküdülés hazai gyermeküdülőben
 
-| V4 gyermektábor | 1 fő/14 nap, 13 éj | 29 400 |
+|  | A | B |
 
-| Balatonkenese faház | 1 fő/12 nap, 11 éj | 22 280 |
+| 1. | az üdülés megnevezése | az üdülés nettó térítési díja |
 
-| KÜLFÖLDI EGYÉNI, CSALÁDOS ÉS GYERMEKÜDÜLÉS |
+| 2. | nemzetközi gyermektábor | fő/13 vendégéjszaka: 29 400 Ft |
 
-| külföldi egyszerűsített csereüdültetés (egyéni utazással) | 2 960 fő/nap |
+| 3. | Balatonkenese | fő/11 vendégéjszaka: 22 280 Ft |
 
-| külföldi egyszerűsített csereüdültetés (légi szállítással) | 8 400 fő/nap |
+## 3. Külföldi egyéni, családos és gyermeküdülés
 
-| külföldi gyermek csereüdültetés | 41 920 fő/tábor |
+|  | A | B |
 
-| International CLIMS Camp (ICC) | 380 EUR + 36 960 fő/tábor |
+| 1. | az üdülés megnevezése | az üdülés nettó térítési díja |
 
-| külföldi egyszerűsített csereüdültetés (Mallorca) | 165 520 fő/turnus |
+| 2. | külföldi egyszerűsített csereüdültetés egyéni utazással | fő/vendégéjszaka: 2 960 Ft |
 
-| külföldi egyszerűsített csereüdültetés (Malaga) | 142 800 fő/turnus |
+| 3. | külföldi egyszerűsített csereüdültetés légi szállítással | fő/vendégéjszaka: 8 400 Ft |
 
-| külföldi egyszerűsített csereüdültetés (Portugália) | 165520 fő/turnus |
+| 4. | ICC | fő/turnus: bruttó 420 Euro |
 
-| regisztrációs költség | befizetett térítési díj 20% |
+| 5. | külföldi egyszerűsített csereüdültetés (Mallorca) | fő/turnus: 127 840 Ft |
+
+| 6. | külföldi egyszerűsített csereüdültetés (Malaga) | fő/turnus: 127 840 Ft |
+
+| 7. | külföldi egyszerűsített csereüdültetés (Portugália) | fő/turnus: 151 840 Ft |
 
 4. számú melléklet a 35/2002. (V. 10.) HM rendelethez

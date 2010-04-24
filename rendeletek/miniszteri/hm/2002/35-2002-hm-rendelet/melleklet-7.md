@@ -16,7 +16,7 @@
 
 | pótigény | (engedélyező aláírása) |
 
-## HM Üdültetési E. R. Kht. Kereskedelmi Igazgatóság
+## HM Kft.
 
 ## (Illetékes HM szerv útján)
 
@@ -66,6 +66,6 @@
 
 |  | megrendelő parancsnok |
 
-7. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^61]
+7. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^89]
 
-[^61]: A 7. számú mellékletet a 17/2003. (V. 6.) HM rendelet 9. §-a iktatta be, a 10/2004. (IV. 22.) HM rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte.
+[^89]: A 7. számú mellékletet a 17/2003. (V. 6.) HM rendelet 9. §-a iktatta be, a 10/2004. (IV. 22.) HM rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte.

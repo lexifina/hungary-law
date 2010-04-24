@@ -48,6 +48,6 @@
 
 | Kitöltési útmutató: (1.) A szolgáltató tölti ki. (2.) A megfelelő szavakat kell aláhúzni, csak az adatlapot aláíró igényjogosultra vonatkozik. (3.) A megfelelő szavakat kell aláhúzni. (4.) A megfelelő szavakat kell aláhúzni, kímélő menüsor igénylése esetén a kért étrend típusát kell feltüntetni. (5.) Irányítószám, helységnév, utca/tér/köz stb., házszám sorrendben kell kitölteni. (6.) Csak akkor kell kitölteni, ha eltér az adatlapot aláíró igényjogosult lakcímétől. (7.) Hétközi-hétvégi üdülés estén az igényjogosult tölti ki és írja alá, egyéb esetekben az üdültetési felelős. (8.) Csak regeneráló pihenés esetén kell kitölteni. |
 
-3. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^58]
+3. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^86]
 
-[^58]: A 3. számú melléklet a 9/2009. (VII. 6.) HM rendelet 3. §-ával megállapított szöveg.
+[^86]: A 3. számú melléklet a 8/2010. (IV. 23.) HM rendelet 14. §-ával megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.

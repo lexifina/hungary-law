@@ -24,6 +24,6 @@
 
 | Üdülés helye | Időpont | Időtartam | Parancs szám | Megjegyzés |
 
-5. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^59]
+5. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^87]
 
-[^59]: Az 5. számú mellékletet a 17/2003. (V. 6.) HM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 9/2006. (III. 23.) HM rendelet 6. § (1) bekezdése.
+[^87]: Az 5. számú mellékletet a 17/2003. (V. 6.) HM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 9/2006. (III. 23.) HM rendelet 6. § (1) bekezdése.

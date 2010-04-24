@@ -14,6 +14,6 @@
 
 ## 7. MH összhaderőnemi középszintű irányító szerve
 
-2. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^57]
+2. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^85]
 
-[^57]: A 2. számú melléklet a 14/2008. (VI. 13.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^85]: A 2. számú melléklet a 14/2008. (VI. 13.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
