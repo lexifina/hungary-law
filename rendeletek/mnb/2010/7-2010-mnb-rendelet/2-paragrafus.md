@@ -1,0 +1,1 @@
+## 1. § A jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 32/2009. (XII. 1.) MNB rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
