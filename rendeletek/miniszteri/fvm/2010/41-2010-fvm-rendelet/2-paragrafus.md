@@ -1,3 +1,0 @@
-## 1. § A juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási rendszeréről szóló 182/2009. (XII. 30.) FVM rendelet (a továbbiakban: R.) 10. §-a helyébe a következő rendelkezés lép:
-
-## „10. § Ha a jelölőeszköz az állat füléből kiesett, elveszett, vagy olyan mértékben károsodott, hogy a rajta lévő felirat vagy elektronikus jel nem olvasható, annak pótlását szolgáló új füljelző megrendeléséről az állattartónak legkésőbb a 12. § szerinti éves leltárkor, pótlásáról vagy cseréjéről pedig a lehető leghamarabb, de legkésőbb az állat értékesítéséig, vagy vágóhídra kerüléséig gondoskodnia kell. A jelölőeszközt az útmutatóban leírtak szerint bármilyen engedélyezett típussal lehet pótolni a 4. és 5. §-ban rögzített előírások betartásával.”
