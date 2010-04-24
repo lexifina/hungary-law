@@ -2,7 +2,7 @@
 
 2. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 18/1996. (VII. 25.) BM rendelethez[^1]
+Melléklet a 18/1996. (VII. 25.) BM rendelethez[^2]
 
 Körzeti polgári védelmi parancsnokságok székhelye és illetékességi területe
 
@@ -186,7 +186,7 @@ Pécs székhelyű körzeti parancsnokság
 
 14. Bogád
 
-15. Cserkút III.
+15. Cserkút
 
 16. Egyházaskozár
 
@@ -286,7 +286,7 @@ Pécs székhelyű körzeti parancsnokság
 
 64. Palé
 
-65. Pellérd III.
+65. Pellérd IV.
 
 66. Pereked
 
@@ -768,7 +768,7 @@ Kalocsa székhelyű körzeti parancsnokság
 
 26.
 
-27. Solt II.
+27. Solt I.
 
 28.
 
@@ -1868,7 +1868,7 @@ Hódmezővásárhely székhelyű körzeti parancsnokság
 
 6. Földeák III.
 
-7. Hódmezővásárhely II.
+7. Hódmezővásárhely I.
 
 8. Királyhegyes IV.
 
@@ -2152,7 +2152,7 @@ Székesfehérvár székhelyű körzeti parancsnokság
 
 39. Nádasdladány III.
 
-40.[^2] Óbarok IV.
+40.[^3] Óbarok IV.
 
 40. Pákozd
 
@@ -2936,11 +2936,11 @@ Gyöngyös székhelyű körzeti parancsnokság
 
 20. Halmajugra
 
-21. Hatvan* I.
+21. Hatvan I.
 
 22. Heréd
 
-23. Heves* II.
+23. Heves II.
 
 24. Hevesvezekény
 
@@ -2948,59 +2948,63 @@ Gyöngyös székhelyű körzeti parancsnokság
 
 26. Karácsond
 
-27. Kisköre II.
+27. Kerekharaszt
 
-28. Kisnána
+28. Kisköre II.
 
-29. Kömlő
+29. Kisnána
 
-30. Lőrinci II.
+30. Kömlő
 
-31. Ludas III.
+31. Lőrinci II.
 
-32. Markaz
+32. Ludas III.
 
-33. Mátraszentimre
+33. Markaz
 
-34. Nagyfüged II.
+34. Mátraszentimre
 
-35. Nagykökényes
+35. Nagyfüged II.
 
-36. Nagyréde III.
+36. Nagykökényes
 
-37. Petőfibánya
+37. Nagyréde III.
 
-38. Pély II.
+38. Pálosvörösmart
 
-39. Rózsaszentmárton
+39. Petőfibánya
 
-40. Szücsi
+40. Pély II.
 
-41. Tarnabod II.
+41. Rózsaszentmárton
 
-42. Tarnaméra II.
+42. Szücsi
 
-43. Tarnaörs II.
+43. Tarnabod II.
 
-44. Tarnaszentmiklós II.
+44. Tarnaméra II.
 
-45. Tarnazsadány II.
+45. Tarnaörs II.
 
-46. Tenk
+46. Tarnaszentmiklós II.
 
-47. Tiszanána II.
+47. Tarnazsadány II.
 
-48. Vámosgyörk II.
+48. Tenk
 
-49. Vécs
+49. Tiszanána II.
 
-50. Visonta
+50. Vámosgyörk II.
 
-51. Visznek II.
+51. Vécs
 
-52. Zagyvaszántó II.
+52. Visonta
 
-53. Zaránk II.
+53. Visznek II.
+
+54. Zagyvaszántó II.
+
+55. Zaránk II.
 
 JÁSZ-NAGYKUN-SZOLNOK MEGYE
 
@@ -5174,97 +5178,69 @@ Szekszárd székhelyű körzeti parancsnokság
 
 Tamási székhelyű körzeti parancsnokság
 
-1.
+1. Belecska
 
-2. Belecska
+2. Diósberény
 
-3.
+3. Dúzs
 
-4.
+4. Értény
 
-5.
+5. Felsőnyék
 
-6. Diósberény
+6. Fürged
 
-7.
+7. Gyönk II.
 
-8.
+8. Hőgyész
 
-9. Dúzs
+9. Iregszemcse II.
 
-10. Értény
+10. Kalaznó II.
 
-11. Felsőnyék
+11. Keszőhidegkút
 
-12. Fürged
+12. Kisszékely II.
 
-13. Gyönk II.
+13. Koppányszántó
 
-14.
+14. Magyarkeszi
 
-15. Hőgyész
+15. Miszla II.
 
-16. Iregszemcse II.
+16. Mucsi
 
-17.
+17. Nagykónyi
 
-18. Kalaznó II.
+18. Nagyszékely II.
 
-19.
+19. Nagyszokoly
 
-20.
+20. Ozora
 
-21. Keszőhidegkút
+21. Pári
 
-22. Kisszékely II.
+22. Pincehely I.
 
-23.
+23. Regöly
 
-24. Koppányszántó
+24. Simontornya II.
 
-25.
+25. Szakadát II.
 
-26.
+26. Szakály II.
 
-27. Magyarkeszi
+27. Szárazd
 
-28. Miszla II.
+28. Tamási II.
 
-29. Mucsi
+29. Tolnanémedi
 
-30. Nagykónyi
+30. Udvari II.
 
-31. Nagyszékely II.
+31. Újireg
 
-32. Nagyszokoly
-
-33.
-
-34. Ozora
-
-35. Pincehely I.
-
-36. Regöly
-
-37. Simontornya II.
-
-38. Szakadát II.
-
-39. Szakály II.
-
-40.
-
-41. Szárazd
-
-42. Tamási II.
-
-43. Tolnanémedi
-
-44. Udvari II.
-
-45. Újireg
-
-46. Varsád II.
+32. Varsád II.
 
 VAS MEGYE
 
@@ -5446,25 +5422,25 @@ _______
 
 Sárvár székhelyű körzeti parancsnokság
 
-1. Bejcgyertyános
+1. Bejcgyertyános IV.
 
 2. Boba
 
 3. Borgáta
 
-4. Bögöt
+4. Bögöt IV.
 
 5. Bögöte
 
-6. Bő III.
+6. Bő II.
 
 7. Celldömölk* I.
 
-8. Chernelházadamonya III.
+8. Chernelházadamonya II.
 
 9. Csánig I.
 
-10. Csénye
+10. Csénye IV.
 
 11. Csönge II.
 
@@ -5474,9 +5450,9 @@ Sárvár székhelyű körzeti parancsnokság
 
 14. Gérce
 
-15. Gór III.
+15. Gór II.
 
-16. Hegyfalu III.
+16. Hegyfalu II.
 
 17. Hosszúpereszteg III.
 
@@ -5516,7 +5492,7 @@ Sárvár székhelyű körzeti parancsnokság
 
 35. Lócs IV.
 
-36. Megyehíd
+36. Megyehíd IV.
 
 37. Meggyeskovácsi
 
@@ -5526,7 +5502,7 @@ Sárvár székhelyű körzeti parancsnokság
 
 40. Mesteri
 
-41. Nagygeresd III.
+41. Nagygeresd II.
 
 42. Nagysimonyi
 
@@ -5546,7 +5522,7 @@ Sárvár székhelyű körzeti parancsnokság
 
 50. Pápóc II.
 
-51. Pecöl
+51. Pecöl IV.
 
 52. Porpác
 
@@ -5594,17 +5570,17 @@ Szombathely székhelyű körzeti parancsnokság
 
 1. Acsád IV.
 
-2. Balogunyom IV.
+2. Balogunyom II.
 
 3. Bozzai IV.
 
-4. Bozsok IV.
+4. Bozsok II.
 
-5. Bucsu IV.
+5. Bucsu II.
 
-6. Bük IV.
+6. Bük II.
 
-7. Cák IV.
+7. Cák II.
 
 8. Csempeszkopács IV.
 
@@ -5614,7 +5590,7 @@ Szombathely székhelyű körzeti parancsnokság
 
 11. Felsőcsatár IV.
 
-12. Gencsapáti IV.
+12. Gencsapáti II.
 
 13. Gyanógeregye IV.
 
@@ -5632,11 +5608,11 @@ Szombathely székhelyű körzeti parancsnokság
 
 20. Kőszeg* IV.
 
-21. Kőszegdoroszló IV.
+21. Kőszegdoroszló II.
 
 22. Kőszegpaty IV.
 
-23. Kőszegszerdahely IV.
+23. Kőszegszerdahely II.
 
 24. Lukácsháza IV.
 
@@ -5670,15 +5646,15 @@ Szombathely székhelyű körzeti parancsnokság
 
 39. Sé II.
 
-40. Sorkifalud IV.
+40. Sorkifalud II.
 
-41. Sorkikápolna IV.
+41. Sorkikápolna II.
 
 42. Sorokpolány IV.
 
 43. Söpte IV.
 
-44. Szentpéterfa IV.
+44. Szentpéterfa II.
 
 45. Szombathely I.
 
@@ -5704,7 +5680,7 @@ Szombathely székhelyű körzeti parancsnokság
 
 56. Vát IV.
 
-57. Velem IV.
+57. Velem II.
 
 58. Vép IV.
 
@@ -6248,7 +6224,7 @@ Keszthely székhelyű körzeti parancsnokság
 
 17. Karmacs
 
-18. Kehidakustány
+18. Kehidakustány II.
 
 19. Keszthely II.
 
@@ -6428,7 +6404,7 @@ Lenti székhelyű körzeti parancsnokság
 
 53. Petrivente IV.
 
-54. Pórszombat III.
+54. Pórszombat IV.
 
 55. Pördefölde IV.
 
@@ -6592,7 +6568,7 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 7. Becsvölgye IV.
 
-8. Bezeréd
+8. Bezeréd II.
 
 9. Bocfölde
 
@@ -6614,7 +6590,7 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 18. Gellénháza II.
 
-19. Gombosszeg IV.
+19. Gombosszeg II.
 
 20. Gősfa IV.
 
@@ -6624,7 +6600,7 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 23. Hottó IV.
 
-24. Iborfia IV.
+24. Iborfia II.
 
 25. Kávás IV.
 
@@ -6638,11 +6614,11 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 30. Kispáli IV.
 
-31. Kustánszeg IV.
+31. Kustánszeg II.
 
 32. Lakhegy IV.
 
-33. Lickóvadamos III.
+33. Lickóvadamos II.
 
 34. Milejszeg
 
@@ -6666,7 +6642,7 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 44. Nemesszentandrás
 
-45. Németfalu IV.
+45. Németfalu II.
 
 46. Orbányosfa II.
 
@@ -6692,7 +6668,7 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 57. Pusztaszentlászló II.
 
-58. Salomvár IV.
+58. Salomvár II.
 
 59. Sárhida IV.
 
@@ -6716,7 +6692,7 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 69. Zalacséb II.
 
-70. Zalaegerszeg II.
+70. Zalaegerszeg I.
 
 71. Zalaháshágy IV.
 
@@ -6736,5 +6712,5 @@ Zalaegerszeg székhelyű körzeti parancsnokság
 
 79. Zalatárnok IV.
 
-[^1]: A melléklet a 35/1997. (V. 30.) BM rendelet 1. §-a, az 5/2001. (III. 30.) BM rendelet 1. §-a, a 29/2002. (X. 29.) BM rendelet 1. §-a, a 14/2003. (IV. 3.) BM rendelet 1. §-a, az 51/2004. (IX. 8.) BM rendelet 1. §-a és 2. § (2) bekezdése, a 6/2005. (III. 4.) BM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 27/2006. (V. 22.) BM rendelet 1–19. §-a és 20. § (2)–(3) bekezdése, a 14/2007. (V. 17.) ÖTM rendelet 1–8. §-a, a 20/2008. (III. 28.) ÖTM rendelet 1–9. §-a, a 17/2009. (IV. 2.) ÖM rendelet 1–5. §-a szerint módosított szöveg.
-[^2]: A Székesfehérvár székhelyű körzeti parancsnoksághoz az 5/2001. (III. 30.) BM rendelet 1. §-a által – számozás nélkül – beiktatott Óbarok számozását az 51/2004. (IX. 8.) BM rendelet 1. §-a állapította meg, azonban az ezt követő sorszámozás megváltoztatásáról nem rendelkezett, így két 40. sorszámú település található a felsorolásban.
+[^2]: A melléklet a 35/1997. (V. 30.) BM rendelet 1. §-a, az 5/2001. (III. 30.) BM rendelet 1. §-a, a 29/2002. (X. 29.) BM rendelet 1. §-a, a 14/2003. (IV. 3.) BM rendelet 1. §-a, az 51/2004. (IX. 8.) BM rendelet 1. §-a és 2. § (2) bekezdése, a 6/2005. (III. 4.) BM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 27/2006. (V. 22.) BM rendelet 1–19. §-a és 20. § (2)–(3) bekezdése, a 14/2007. (V. 17.) ÖTM rendelet 1–8. §-a, a 20/2008. (III. 28.) ÖTM rendelet 1–9. §-a, a 17/2009. (IV. 2.) ÖM rendelet 1–5. §-a, a 9/2010. (IV. 16.) ÖM rendelet 1. §-a szerint módosított szöveg.
+[^3]: A Székesfehérvár székhelyű körzeti parancsnoksághoz az 5/2001. (III. 30.) BM rendelet 1. §-a által – számozás nélkül – beiktatott Óbarok számozását az 51/2004. (IX. 8.) BM rendelet 1. §-a állapította meg, azonban az ezt követő sorszámozás megváltoztatásáról nem rendelkezett, így két 40. sorszámú település található a felsorolásban.
