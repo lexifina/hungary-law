@@ -1,0 +1,1 @@
+A polgári védelemről szóló 1996. évi XXXVII. törvény 42. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
