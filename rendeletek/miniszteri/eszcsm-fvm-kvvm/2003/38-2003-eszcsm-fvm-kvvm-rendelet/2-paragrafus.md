@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-a)[^3] biocid termék: hatóanyag, illetve egy vagy több hatóanyagot tartalmazó készítmény, a felhasználóknak szánt kiszerelési formákban, melynek az a célja, hogy valamely kártékony biológiai szervezetet kémiai vagy biológiai eszközökkel elpusztítson, elriasszon, ártalmatlanítson, károkozásában akadályozzon, illetőleg valamilyen más módon korlátozó hatást gyakoroljon rá, és besorolható az 5. számú melléklet szerinti valamely terméktípusba;
+a)[^4] biocid termék: hatóanyag, illetve egy vagy több hatóanyagot tartalmazó készítmény, a felhasználóknak szánt kiszerelési formákban, melynek az a célja, hogy valamely kártékony biológiai szervezetet kémiai vagy biológiai eszközökkel elpusztítson, elriasszon, ártalmatlanítson, károkozásában akadályozzon, illetőleg valamilyen más módon korlátozó hatást gyakoroljon rá, és besorolható az 5. számú melléklet szerinti valamely terméktípusba;
 
 b) kis kockázattal járó biocid termék: olyan biocid termék, amely az 1/a) számú mellékletben felsorolt anyagon kívül más potenciálisan veszélyes anyagot nem tartalmaz. Felhasználási körülményei között az ilyen biocid termék az emberre, az állatokra és a környezetre csak kis kockázatot jelent;
 
@@ -16,7 +16,7 @@ f) kártékony biológiai szervezet (célszervezet): bármely biológiai szervez
 
 g) szermaradékok: a biocid termék felhasználása után visszamaradó anyag vagy anyagok maradékai, ideértve ezeknek az anyagoknak és termékeknek az anyagcsere-, bomlás- vagy reakció termékeit is;
 
-h)[^4] forgalomba hozatal: biocid termék térítés ellenében vagy ingyenesen történő rendelkezésre bocsátása, illetőleg ezt követő raktározása, kivéve, ha a raktározást az Európai Gazdasági Térség vámterületéről való kiszállítás vagy ártalmatlanítás követi. Biocid terméknek az Európai Gazdasági Térség vámterületére történő behozatala e rendelet alkalmazásában forgalomba hozatalnak tekintendő;
+h)[^5] forgalomba hozatal: biocid termék térítés ellenében vagy ingyenesen történő rendelkezésre bocsátása, illetőleg ezt követő raktározása, kivéve, ha a raktározást az Európai Gazdasági Térség vámterületéről való kiszállítás vagy ártalmatlanítás követi. Biocid terméknek az Európai Gazdasági Térség vámterületére történő behozatala e rendelet alkalmazásában forgalomba hozatalnak tekintendő;
 
 i) engedélyezés: közigazgatási eljárás, amelyben az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) az erre irányuló kérelem benyújtását követően engedélyezi valamely biocid termék forgalomba hozatalát;
 
@@ -32,5 +32,5 @@ n) ADI: emberre vonatkozó elfogadható napi felvétel, az emberi szervezetbe ju
 
 o) MRL: maximális biocid maradék határérték.
 
-[^3]: A 2. § a) pontja e rendelet 32. §-ának (2) bekezdése alapján 2003. július 27. napján lép hatályba.
-[^4]: A 2. § h) pontja a 22/2006. (V. 17.) EüM–FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § a) pontja e rendelet 32. §-ának (2) bekezdése alapján 2003. július 27. napján lép hatályba.
+[^5]: A 2. § h) pontja a 22/2006. (V. 17.) EüM–FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.

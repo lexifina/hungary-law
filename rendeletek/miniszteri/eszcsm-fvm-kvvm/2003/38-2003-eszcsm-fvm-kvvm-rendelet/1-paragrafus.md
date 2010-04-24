@@ -6,5 +6,8 @@
 
 (3) A 20. §-ban foglalt rendelkezések nem alkalmazhatóak a biocid termékek vasúton, közúton, vízi úton, tengeren vagy légi úton történő szállítására.
 
+(4)[^3] Az állatgyógyászati terméknek minősülő állategészségügyi biocid termékre – annak valamennyi hatóanyaga közösségi jegyzékbe történő felvételéig – az állatgyógyászati termékekről szóló jogszabály rendelkezéseit kell alkalmazni.
+
 [^1]: Az 1. § (1) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 1. §-a iktatta be.

@@ -6,7 +6,7 @@ a) olyan hatóanyag esetében, amely az Európai Unióban 2000. május 14-én m�
 
 b) olyan hatóanyag esetében, amely az Európai Unióban 2000. május 14-én már forgalomban volt
 
-ba) 2000. május 14-től számított 10 évig kivéve, ha az ilyen információ felhasználásának tilalmára külön jogszabály ennél hosszabb időt állapít meg. A külön jogszabály alapján védelem alatt álló adatok az ország területén az adat védelmét elrendelő jogszabályban foglalt hosszabb határidő lejártáig, de 2000. május 14-től számított legfeljebb 10 évig nem használhatók fel,
+ba)[^32] 2000. május 14-től számított 14 évig,
 
 bb) a hatóanyagnak az 1. vagy 1/a) számú melléklet szerinti közösségi jegyzékbe történő felvételétől számított 10 évig feltéve, hogy az adatot a hatóanyag, illetve az azonos hatóanyaggal készült további terméktípus 1. vagy 1/a) számú melléklet szerinti közösségi jegyzékbe történő első felvételének alátámasztására nyújtották be;
 
@@ -24,7 +24,7 @@ a) olyan hatóanyagot tartalmazó biocid termék engedélyezése, illetve regisz
 
 b) olyan hatóanyagot tartalmazó biocid termék engedélyezése, illetve regisztrációja vagy ezek módosítása esetében, amely az Európai Unióban 2000. május 14-én forgalomban volt
 
-ba) 2000. május 14-től számított 10 évig kivéve, ha az adat felhasználásának tilalmát külön jogszabály ennél hosszabb időtartamban határozza meg. A külön jogszabály alapján védelem alatt álló adatok az ország területén az adat védelmét elrendelő jogszabályban foglalt hosszabb határidő lejártáig, de 2000. május 14-től számított legfeljebb 10 évig nem használhatóak fel,
+ba)[^33] 2000. május 14-től számított 14 évig,
 
 bb) a hatóanyagnak az 1. vagy 1/a) számú mellékletek szerinti közösségi jegyzékbe történő felvételétől számított 10 évig feltéve, hogy az adatot a hatóanyag, illetve azonos hatóanyaggal készült további terméktípus 1. vagy 1/a) számú mellékletek szerinti közösségi jegyzékbe történő első felvételének alátámasztására nyújtották be;
 
@@ -33,3 +33,6 @@ c) bármely biocid termék engedélyezése, illetve regisztrálása vagy ezek m�
 ca) a biocid termék engedélyezési feltételeinek megváltozása miatt, vagy
 
 cb) a hatóanyag 1. illetve 1/a) számú melléklet szerinti közösségi jegyzékbe történt felvételének további fenntartása érdekében
+
+[^32]: A 12. § (1) bekezdés b) pont ba) alpontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^33]: A 12. § (2) bekezdés b) pont ba) alpontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 7. § (2) bekezdésével megállapított szöveg.

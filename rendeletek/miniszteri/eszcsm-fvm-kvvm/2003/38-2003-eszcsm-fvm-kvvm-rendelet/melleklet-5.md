@@ -1,10 +1,10 @@
 ## 1/a) számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-## együttes rendelethez[^59]
+## együttes rendelethez[^71]
 
 ## A kis kockázattal járó biocid termékek hatóanyagainak jegyzéke
 
-## Jelmagyarázat:[^60]
+## Jelmagyarázat:[^72]
 
 ## (1) Nem vonatkozik a több hatóanyagot is tartalmazó termékekre, amelyek esetében a 16. § (3) bekezdésének való megfelelés határideje az egyes hatóanyagokra vonatkozó rendelkezésekben meghatározott határidők közül a legkésőbbi.
 
@@ -20,7 +20,7 @@
 
 ## együttes rendelethez
 
-## A biocid termékben felhasználható alapanyagok jegyzéke[^61]
+## A biocid termékben felhasználható alapanyagok jegyzéke[^73]
 
 ## 2/a) számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
@@ -480,7 +480,7 @@
 
 ## – Javaslatok a csomagolásra és a feliratozásra (Kbtv.-ben foglaltaknak megfelelően)
 
-## –[^62] Javaslat a biztonsági adatlapokra, ahol szükséges (az 1907/2006/EK európai parlamenti és tanácsi rendeletben foglaltaknak megfelelően)
+## –[^74] Javaslat a biztonsági adatlapokra, ahol szükséges (az 1907/2006/EK európai parlamenti és tanácsi rendeletben foglaltaknak megfelelően)
 
 ## – Indoklás az osztályozáshoz és feliratozáshoz a Kbtv.-ben foglaltaknak megfelelően
 
@@ -736,7 +736,7 @@
 
 ## 4/a) számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-## együttes rendelethez[^63]
+## együttes rendelethez[^75]
 
 ## AZ AKTÍV HATÓANYAGOK ADATAI
 
@@ -982,7 +982,7 @@
 
 ## 4/b) számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-## együttes rendelethez[^64]
+## együttes rendelethez[^76]
 
 ## A BIOCID TERMÉKEK ADATAI
 
@@ -1204,12 +1204,12 @@
 
 5. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^65]
+együttes rendelethez[^77]
 
-[^59]: Az 1/a) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának b) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. november 1-jén.
-[^60]: A jelmagyarázat a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (4) bekezdése alapján 2009. november 1-jén lépett hatályba.
-[^61]: A jegyzéken szereplő alapanyagok feltüntetésére az alapanyagok közösségi jegyzékbe történő felvételét követően kerül sor.
-[^62]: A 2/b) számú melléklet IX. pontjának második franciabekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdésének a) pontjával megállapított szöveg.
-[^63]: A 4/a) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának c) pontjával megállapított szöveg.
-[^64]: A 4/b) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának c) pontjával megállapított szöveg.
-[^65]: Az 5. számú melléklet e rendelet 32. §-ának (2) bekezdése alapján 2003. július 27. napján lép hatályba.
+[^71]: Az 1/a) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának b) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. november 1-jén.
+[^72]: A jelmagyarázat a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (4) bekezdése alapján 2009. november 1-jén lépett hatályba.
+[^73]: A jegyzéken szereplő alapanyagok feltüntetésére az alapanyagok közösségi jegyzékbe történő felvételét követően kerül sor.
+[^74]: A 2/b) számú melléklet IX. pontjának második franciabekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdésének a) pontjával megállapított szöveg.
+[^75]: A 4/a) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának c) pontjával megállapított szöveg.
+[^76]: A 4/b) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának c) pontjával megállapított szöveg.
+[^77]: Az 5. számú melléklet e rendelet 32. §-ának (2) bekezdése alapján 2003. július 27. napján lép hatályba.

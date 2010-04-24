@@ -2,7 +2,7 @@
 
 ## és regisztrációk elismerése
 
-4. § (1)[^7] A 12. §-ra figyelemmel a valamely tagállamban már kiadott engedélyt, illetve regisztrációt az OTH elismeri és a biocid terméket engedélyezi, illetve regisztrálja, feltéve, hogy a biocid termék hatóanyaga szerepel az 1. vagy az 1/a) számú mellékletben. Az engedély elismerésére irányuló kérelemnek tartalmaznia kell a dokumentációnak a 8. § (2) bekezdés a) pontjában és a 2/b) számú melléklet X. fejezetében előírtak szerinti összefoglalását és a tagállamban kiadott érvényes engedély hitelesített másolatát. A kis kockázattal járó biocid termék regisztrálásának elismeréséhez a kérelemnek tartalmaznia kell a 8. § (3) bekezdésében foglalt adatokat, kivéve a hatékonyságra vonatkozó információkat. Ez utóbbiakról összefoglalót kell készíteni.
+4. § (1)[^8] A 12. §-ra figyelemmel a valamely tagállamban már kiadott engedélyt, illetve regisztrációt az OTH elismeri és a biocid terméket engedélyezi, illetve regisztrálja, feltéve, hogy a biocid termék hatóanyaga szerepel az 1. vagy az 1/a) számú mellékletben. Az engedély elismerésére irányuló kérelemnek tartalmaznia kell a dokumentációnak a 8. § (2) bekezdés a) pontjában és a 2/b) számú melléklet X. fejezetében előírtak szerinti összefoglalását és a tagállamban kiadott érvényes engedély hitelesített másolatát. A kis kockázattal járó biocid termék regisztrálásának elismeréséhez a kérelemnek tartalmaznia kell a 8. § (3) bekezdésében foglalt adatokat, kivéve a hatékonyságra vonatkozó információkat. Ez utóbbiakról összefoglalót kell készíteni.
 
 (2) Ha az OTH az 5. §-nak megfelelően azt állapítja meg, hogy Magyarországon a biocid termék
 
@@ -22,4 +22,4 @@ c) felhasználásának fontos körülményei – így különösen az éghajlat 
 
 (6) Az OTH elutasíthatja az 5. számú melléklet 15., 17. és 23. terméktípusaira megadott engedélyek elismerését, feltéve, hogy ez a korlátozás indokolt. Az OTH ezen döntéséről tájékoztatja valamennyi tagállam illetékes hatóságát, a Bizottságot, valamint a kérelmezőt és megjelöli döntésének okait.
 
-[^7]: A 4. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 48. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^8]: A 4. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 48. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
