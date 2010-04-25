@@ -88,4 +88,6 @@
 
 | 30. | Akrolein | Akrilaldehid EK-szám: 203-453-4 CAS-szám: 107-02-8 | 913 g/kg | 2010. szeptember 1. | Nem alkalmazható | 2020. augusztus 31. | 12 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – ha ez a termék esetében releváns – értékelést kell folytatni a termék által okozott hatásoknak esetlegesen kitett azon népességcsoportokra, valamint azon felhasználási vagy expozíciós körülményekre vonatkozóan, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. Az engedély a következő feltételekkel adható ki: 1. Az akroleint tartalmazó szennyvizeket az elvezetést megelőzően ellenőrizni kell, kivéve, ha a környezetet érintő kockázatok igazolhatóan más módon is csökkent- hetőek. A tengeri környezetet érintő kockázatokra tekintettel – szükség szerint – a szennyvizeket az elvezetést megelőzően alkalmas tartályokban vagy tározókban kell tárolni, vagy megfelelően kezelni kell. 2. Az ipari, illetve foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, és biztonságos munkafolyamatokat kell létrehozni, kivéve, ha a termék engedélyezése iránti kérelem bizonyítja, hogy az ipari, illetve a foglalkozásszerű felhasználókat érintő kockázatok más módon is elfogadható szintre csökkenthetőek. |
 
-2. melléklet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelethez
+2–4. melléklet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelethez[^4]
+
+[^4]: A 2–4. mellékletet a 17. § (2) bekezdése hatályon kívül helyezte.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-17-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-04-24 | 2010-17-20-0B.1 | 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet |
+| 2010-04-25 | 2010-17-20-0B.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
