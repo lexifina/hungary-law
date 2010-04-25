@@ -1,1 +1,0 @@
-## 14. § A kijelölt vizsgáló, ellenőrző, illetve tanúsító szervezetnek folyamatosan meg kell felelnie a kijelölés feltételeinek. A kijelölt szervezet tevékenységével kapcsolatos panasszal a kijelölőhöz kell fordulni.

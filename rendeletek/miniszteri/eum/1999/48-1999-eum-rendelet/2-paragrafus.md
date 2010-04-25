@@ -1,1 +1,0 @@
-## 1. § E rendelet hatálya kiterjed az egészségügyi miniszter (a továbbiakban: kijelölő) feladat- és hatáskörébe utalt területek vonatkozásában az orvostechnikai eszközök megfelelőségét vizsgáló, ellenőrző vagy tanúsító szervezetek kijelölésére.

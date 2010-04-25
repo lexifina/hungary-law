@@ -1,1 +1,0 @@
-## 17. § A kijelölt szervezet köteles a kijelölés alapján végzett tevékenysége során kiadott vizsgálati jegyzőkönyveket, tanúsító okmányokat és minden egyéb, ezzel kapcsolatos iratot 10 évig megőrizni.
