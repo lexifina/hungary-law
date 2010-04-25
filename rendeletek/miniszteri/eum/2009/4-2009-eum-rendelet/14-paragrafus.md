@@ -14,4 +14,6 @@
 
 (7) A kijelölt szervezet döntésétől számított 15 napon belül tájékoztatja a Hivatalt minden kibocsátott, módosított, kiegészített, felfüggesztett, visszavont vagy elutasított tanúsítványról, valamint tájékoztatja a többi kijelölt szervezetet minden felfüggesztett, visszavont vagy elutasított tanúsítványról, továbbá megkeresésre a kibocsátott tanúsítványokról. A Hivatal a kijelölt szervezet tájékoztatása alapján értesíti a Bizottságot és az EGT tagállamokat. A kijelölt szervezet a Hivatal megkeresésére rendelkezésére bocsát minden, a tevékenységével összefüggő egyéb információt.
 
-(8) A kijelölt szervezet szakmai ellenőrzését – az Egészségügyi Minisztérium szakmai felügyelete alatt működő, orvostechnikai eszközök megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésének szabályairól szóló 48/1999. (X. 6.) EüM rendelet szerinti Kijelölő Bizottság (a továbbiakban: Kijelölő Bizottság) kérésére vagy saját kezdeményezésre – a Hivatal végzi. Amennyiben felmerül, hogy a kijelölt szervezet a tanúsítványt e rendelet megsértésével állította ki, a Hivatal köteles az érintett területre vonatkozó ellenőrzést lefolytatni, és az ellenőrzés eredményéről a Kijelölő Bizottságot értesíteni.
+(8)[^4]
+
+[^4]: A 14. § (8) bekezdését a 18/2010. (IV. 20.) EüM rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.

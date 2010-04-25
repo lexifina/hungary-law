@@ -1,4 +1,4 @@
-## A. Rendelésre készült eszközökre vonatkozó nyilatkozat[^5]
+## A. Rendelésre készült eszközökre vonatkozó nyilatkozat[^6]
 
 ## 1. Rendelésre készült eszközök vagy klinikai vizsgálatra szánt eszközök esetén a gyártónak vagy meghatalmazott képviselőjének össze kell állítania a 2. pontban szereplő adatokat tartalmazó nyilatkozatot.
 
@@ -18,7 +18,7 @@
 
 ## f) nyilatkozatot arról, hogy az eszköz megfelel az 1. mellékletben lefektetett alapvető követelményeknek, megjelölve azokat – ha vannak ilyenek –, amelyeket nem tartottak meg teljesen, ennek indokolásával együtt.
 
-## 2.2.[^6]
+## 2.2.[^7]
 
 ## 3. A gyártónak vállalnia kell, hogy a Hivatal rendelkezésére bocsát:
 
@@ -26,13 +26,13 @@
 
 ## A gyártó minden szükséges intézkedést megtesz annak érdekében, hogy a gyártás során előállított eszközöknek az előző bekezdés szerinti dokumentációval való megegyezőségét biztosítsa.
 
-## 3.2.[^7]
+## 3.2.[^8]
 
 ## 4. Az e melléklettel kapcsolatos nyilatkozatokban felsorolt adatokat legalább 5 évig meg kell őrizni, beültethető eszközök esetében pedig legalább 15 évig.
 
 ## 5. Rendelésre készült eszközök vonatkozásában a gyártó arra vonatkozó vállalását, hogy olyan módszeres eljárást hoz létre és tart naprakész állapotban, amellyel felülvizsgálja és dokumentálja az eszközről a gyártás után szerzett tapasztalatokat, beleértve a 10. melléklet rendelkezéseit, és intézkedik a szükséges korrekciókról. Ez a vállalás arra is kötelezi a gyártót, hogy a 21. §-nak megfelelően haladéktalanul jelentse az ott részletezett eseményeket.
 
-## B. Rendelésre készült eszközökre vonatkozó nyilatkozat[^8]
+## B. Rendelésre készült eszközökre vonatkozó nyilatkozat[^9]
 
 ## 1. Rendelésre készült eszközök vagy klinikai vizsgálatra szánt eszközök esetén a gyártónak vagy meghatalmazott képviselőjének össze kell állítania a 2. pontban szereplő adatokat tartalmazó nyilatkozatot.
 
@@ -52,13 +52,13 @@
 
 ## f) nyilatkozatot arról, hogy az eszköz megfelel az 1. mellékletben lefektetett alapvető követelményeknek, megjelölve azokat – ha vannak ilyenek –, amelyeket nem tartottak meg teljesen, ennek indokolásával együtt.
 
-## 2.2.[^9]
+## 2.2.[^10]
 
 ## 3. A gyártónak vállalnia kell, hogy a Hivatal rendelkezésére bocsát:
 
 ## 3.1. Rendelésre készült eszközök esetében olyan dokumentációt, amelyben fel van tüntetve a gyártás helye (helyei) és amely lehetővé teszi az eszköz terveinek, gyártásának és teljesítőképességének megismerését, ideértve a tervezett teljesítőképességet is, hogy lehetőség legyen az e rendelet követelményeinek való megfelelés értékelésére. A gyártó minden szükséges intézkedést megtesz annak érdekében, hogy a gyártás során előállított eszközöknek a dokumentációval való megegyezőségét biztosítsa.
 
-## 3.2.[^10]
+## 3.2.[^11]
 
 ## 4. Az e melléklettel kapcsolatos nyilatkozatokban felsorolt adatokat az utolsó termék gyártásától számított legalább tizenöt évig meg kell őrizni.
 
@@ -66,9 +66,9 @@
 
 9. melléklet a 4/2009. (III. 17.) EüM rendelethez
 
-[^5]: A 8. melléklet A. rész címe a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^6]: A 8. melléklet A. rész 2.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
-[^7]: A 8. melléklet A. rész 3.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
-[^8]: A 8. melléklet B. rész címe a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^9]: A 8. melléklet B. rész 2.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
-[^10]: A 8. melléklet B. rész 3.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
+[^6]: A 8. melléklet A. rész címe a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 8. melléklet A. rész 2.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
+[^8]: A 8. melléklet A. rész 3.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
+[^9]: A 8. melléklet B. rész címe a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 8. melléklet B. rész 2.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.
+[^11]: A 8. melléklet B. rész 3.2. pontja a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés d) pontja alapján nem lép hatályba.

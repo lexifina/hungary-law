@@ -8,6 +8,6 @@
 
 (4) Az intézet (2)–(3) bekezdés szerinti határozatai ellen – a Ket. szerint – jogorvoslatnak van helye.
 
-(5)[^4] A gyártó, a forgalmazó vagy a meghatalmazott képviselő a tárgyévet megelőző naptári évben forgalomba hozott, a II.a osztályba tartozó, kifejezetten eszközök fertőtlenítésére szánt – biocidnak minősülő hatóanyagot tartalmazó – eszközről tárgyév március hónap első napjáig a 14. melléklet szerinti adatlap megküldésével köteles tájékoztatni az OKBI-t. Az OKBI a bejelentések alapján elkészített jegyzéket továbbítja az Országos Tisztifőorvosi Hivatalnak.
+(5)[^5] A gyártó, a forgalmazó vagy a meghatalmazott képviselő a tárgyévet megelőző naptári évben forgalomba hozott, a II.a osztályba tartozó, kifejezetten eszközök fertőtlenítésére szánt – biocidnak minősülő hatóanyagot tartalmazó – eszközről tárgyév március hónap első napjáig a 14. melléklet szerinti adatlap megküldésével köteles tájékoztatni az OKBI-t. Az OKBI a bejelentések alapján elkészített jegyzéket továbbítja az Országos Tisztifőorvosi Hivatalnak.
 
-[^4]: A 28. § (5) bekezdése a 33/2009. (X. 20.) EüM rendelet 26. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 28. § (5) bekezdése a 33/2009. (X. 20.) EüM rendelet 26. § (5) bekezdés b) pontja szerint módosított szöveg.
