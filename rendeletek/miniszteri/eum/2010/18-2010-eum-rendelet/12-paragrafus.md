@@ -1,8 +1,4 @@
-12. § (1) Hatályát veszti
-
-a) az Egészségügyi Minisztérium szakmai felügyelete alatt működő, orvostechnikai eszközök megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésének szabályairól szóló 48/1999. (X. 6.) EüM rendelet,
-
-b) az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 14. § (8) bekezdése.
+12. § (1)[^1]
 
 (2) Az e rendelet hatálybalépését követő napon hatályát veszti az (1) bekezdés.
 
@@ -11,3 +7,5 @@ b) az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 14.
 (4) 2010. június 2-án hatályát veszti a 10. § (3) bekezdése.
 
 (5) Ez a § 2010. június 3-án hatályát veszti.
+
+[^1]: A 12. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
