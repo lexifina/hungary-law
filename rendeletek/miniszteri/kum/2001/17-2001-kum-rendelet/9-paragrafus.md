@@ -2,13 +2,13 @@
 
 (2) A védelemnyújtáshoz, lehetőség szerint, a következő adatokat kell tisztázni:
 
-a) a fogva tartott személyazonosító adatait és lakcímét,
+a)[^5] a fogva tartott természetes személyazonosító adatait és lakcímét,
 
 b) a fogva tartott legközelebbi hozzátartozója nevét, lakcímét és azt, hogy a fogva tartott kéri-e az ő vagy más személyek értesítését,
 
 c) a fogva tartást elrendelő hatóság megnevezését, a fogva tartás alapjául szolgáló bűncselekményt, a fogva tartás helyét, várható leghosszabb idejét,
 
-d) van-e a fogva tartottnak jogi képviselője, ha igen, annak nevét és egyéb adatait,
+d)[^6] van-e a fogva tartottnak jogi képviselője, ha igen, annak nevét és címét,
 
 e) van-e helye óvadék fejében szabadlábra helyezésnek,
 
@@ -23,3 +23,6 @@ f) a kiszabható büntetést, különös tekintettel a halálbüntetésre.
 (6) Ha a fogva tartott óvadék fejében történő szabadlábra helyezésére van lehetőség, és a fogva tartott nem rendelkezik az óvadék letételéhez szükséges összeggel, a konzul a Tv. 5. § (2) bekezdés c) pontjában meghatározott segítséget nyújtja.
 
 (7) A konzuli tisztviselő a jogerősen elítélt magyar állampolgárt – amennyiben ennek lehetősége nemzetközi egyezményben vagy az elítélés helye szerinti állam belső jogában biztosított – tájékoztatja a büntetés végrehajtása átengedésének és a büntetés Magyarországon történő letöltésének lehetőségeiről.
+
+[^5]: A 9. § (2) bekezdés a) pontja az 1/2010. (IV. 23.) KüM rendelet 3. §-a szerint módosított szöveg.
+[^6]: A 9. § (2) bekezdés d) pontja az 1/2010. (IV. 23.) KüM rendelet 3. §-a szerint módosított szöveg.
