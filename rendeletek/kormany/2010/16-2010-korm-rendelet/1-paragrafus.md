@@ -24,4 +24,11 @@ d) a költségvetésből származó pénzeszközökből megvalósuló területfe
 
 e) az Országos Területfejlesztési Tanács, a térségi fejlesztési tanácsok, a regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok, valamint a kistérségi fejlesztési tanácsok üléseiről készült jegyzőkönyvek;
 
-f) az önkéntesen átadott dokumentációk, gyűjtemények, dokumentumtárak, szakvélemények.
+f) az önkéntesen átadott dokumentációk, gyűjtemények, dokumentumtárak, szakvélemények;
+
+g)[^1] a területi monitoring rendszerről szóló kormányrendeletben előírt és meghatározott módon elkészített, országos, kiemelt térségi, regionális és megyei szintű monitoring jelentés, éves elemző jelentés, a területi folyamatok alakulásáról szóló jelentés;
+
+h)[^2] a területi monitoring rendszerről szóló kormányrendeletben előírt és meghatározott módon elkészített, országos, kiemelt térségi, regionális, megyei és kistérségi szintű fejlesztési koncepció, program és terv értékelő, elemző jelentése.
+
+[^1]: Az 1. § g) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^2]: Az 1. § h) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be.

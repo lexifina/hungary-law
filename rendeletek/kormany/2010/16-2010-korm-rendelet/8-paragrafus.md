@@ -4,6 +4,6 @@
 
 (2) A Rendelet alapján gyűjtött dokumentációkat 2019. december 31-ig kell e rendelet szabályai szerint az új nyilvántartási rendszerbe illeszteni.
 
-(3)[^1] A 2005. szeptember 1-jét követően az e rendelet hatálybalépéséig kiadott, területrendezési eljárás során hozott határozat egy példányát az állami főépítész a Dokumentációs Központ részére 2010. szeptember 30-ig megküldi.
+(3)[^4] A 2005. szeptember 1-jét követően az e rendelet hatálybalépéséig kiadott, területrendezési eljárás során hozott határozat egy példányát az állami főépítész a Dokumentációs Központ részére 2010. szeptember 30-ig megküldi.
 
-[^1]: A 8. § (3) bekezdését a 10. § (3) bekezdése hatályon kívül helyezte 2010. október 1. napjával.
+[^4]: A 8. § (3) bekezdését a 10. § (3) bekezdése hatályon kívül helyezte 2010. október 1. napjával.

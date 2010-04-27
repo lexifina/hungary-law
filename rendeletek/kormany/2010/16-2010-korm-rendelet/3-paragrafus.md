@@ -31,3 +31,7 @@ f) az alkalmazott számítógépes program megnevezése,
 g) a munka kezdetének és befejezésének időpontja, és
 
 h) a különleges kezelésre való utalás.
+
+(10)[^3] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
+
+[^3]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
