@@ -1,0 +1,1 @@
+## 7. § Az Adattáron történő átvezetés alapjául szolgáló termőhelytérképet az erdészeti hatóság készíti el. Más által készített termőhelytérképet az erdészeti hatóság csak felülvizsgálat után használhat fel az Adattáron történő átvezetésre.
