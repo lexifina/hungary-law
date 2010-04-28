@@ -46,9 +46,9 @@ db) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő
 
 a) a jogosultsági időszak 2009. január 1-jétől 2009. december 31-éig terjedő részidőszakában legfeljebb 68 000 MJ, nagycsaládos háztartás esetében legfeljebb 136 000 MJ,
 
-b) a jogosultsági időszak 2010. január 1-jétől 2010. április 30-áig terjedő részidőszakában legfeljebb 40 800 MJ, nagycsaládos háztartás esetében legfeljebb 81 600 MJ
+b)[^15] a jogosultsági időszak 2010. január 1-jétől 2010. június 30-áig terjedő részidőszakában legfeljebb 43 400 MJ, nagycsaládos háztartás esetében legfeljebb 86 800 MJ
 
-c)[^15] a jogosultsági időszak 2010. május 1-jétől 2010. június 30-áig terjedő részidőszakában legfeljebb 2600 MJ, nagycsaládos háztartás esetében legfeljebb 5200 MJ
+c)[^16]
 
 hőmennyiségre jár.
 
@@ -72,10 +72,11 @@ b) a távhőszolgáltatás díját közvetlen számlázás alapján fizető fogy
 
 (10) Az elszámolási időszakra megállapított fogyasztásból a támogatás alapját képező, jogosultsági időszakra eső fogyasztást a 8. § (4)–(6) bekezdésében foglaltak szerint kell megállapítani.
 
-(11)[^16]
+(11)[^17]
 
 [^12]: A 3. § (1) bekezdése a 112/2010. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. § (2)–(3) bekezdését.
 [^13]: A 3. § (2) bekezdése a 112/2010. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. § (2)–(3) bekezdését.
 [^14]: A 3. § (3) bekezdése a 290/2009. (XII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (3)–(6) bekezdését.
-[^15]: A 3. § (3) bekezdés c) pontját a 112/2010. (IV. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 3. § (4) bekezdését.
-[^16]: A 3. § (11) bekezdését a 137/2009. (VI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 290/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdés a) pontja.
+[^15]: A 3. § (3) bekezdés b) pontja a 136/2010. (IV. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. § (3) bekezdés c) pontját a 112/2010. (IV. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 136/2010. (IV. 27.) Korm. rendelet 2. § (2) bekezdés a) pontja.
+[^17]: A 3. § (11) bekezdését a 137/2009. (VI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 290/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdés a) pontja.
