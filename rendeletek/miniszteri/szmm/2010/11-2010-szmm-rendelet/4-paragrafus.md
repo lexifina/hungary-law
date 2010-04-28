@@ -1,0 +1,9 @@
+## 3. § A települési önkormányzat által nyári gyermekétkeztetés céljára igénybe vehető elvi keretösszeget és a megyénkénti elvi keretösszeget a Gyvt. 20/A. §-a szerinti pénzbeli támogatásban részesülő gyermekek és a Gyvt. 20/B. § (4) bekezdése szerinti pótlékra jogosító gyermekek 2009. július és 2009. november havi együttes létszámadataiból számított átlag 21,5%-át alapul véve az 1. melléklet tartalmazza.
+
+4. § (1) A települési önkormányzat jegyzője – a gyermekjóléti szolgálat közreműködésével – 2010. május 21-éig felméri a nyári gyermekétkeztetés iránti igényeket.
+
+(2) A települési önkormányzat jegyzője a nyári gyermekétkeztetés iránti igényeket összesíti és 2010. május 27-éig értesíti az illetékes regionális szociális és gyámhivatalt, illetve annak területi osztályát (a továbbiakban együtt: szociális és gyámhivatal) arról, hogy a települési önkormányzat milyen arányban kívánja igénybe venni az 1. mellékletben a rá vonatkozóan megállapított elvi keretösszeget és a megyében esetlegesen keletkező előirányzat-maradvány esetén mekkora többletigénye van a települési önkormányzatnak.
+
+(3) A megyében esetlegesen keletkező előirányzat-maradványból támogatásra az a települési önkormányzat jelenthet be igényt, amely vonatkozásában az 1. melléklet keretösszeget nem határoz meg, vagy a felmerült igényekhez képest kisebb keretösszeget határoz meg, feltéve, hogy a települési önkormányzat a támogatásból az e rendeletben meghatározottak szerint a rendszeres gyermekvédelmi kedvezményben részesülő gyermekek étkeztetését biztosítja.
+
+(4) Ha valamelyik települési önkormányzat nem vagy nem teljes egészében igényli az 1. mellékletben a rá vonatkozóan megállapított elvi keretösszeget, a szociális és gyámhivatal a fennmaradó összeget – a megyében bejelentett összes többletigény és az egyes települési önkormányzatok által bejelentett többletigények arányában – szétosztja a többletigényt bejelentő települési önkormányzatok között.

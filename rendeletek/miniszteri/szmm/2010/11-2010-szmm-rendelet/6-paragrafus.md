@@ -1,0 +1,7 @@
+6. § (1) Az országosan esetlegesen keletkező előirányzat-maradványból támogatásra 2010. július 20-áig a gyermekek és az ifjúság védelméért felelős miniszternél az a települési önkormányzat jelenthet be igényt, amely vonatkozásában az 1. melléklet keretösszeget nem határoz meg, vagy a felmerült igényekhez képest kisebb keretösszeget határoz meg, feltéve, hogy a települési önkormányzat a támogatásból az e rendeletben meghatározottak szerint a rendszeres gyermekvédelmi kedvezményben részesülő gyermekek étkeztetését biztosítja.
+
+(2) Az országosan esetlegesen keletkező előirányzat-maradványból történő támogatás kifizetéséről a gyermekek és az ifjúság védelméért felelős miniszter 2010. július 30-áig dönt, amelyről haladéktalanul értesíti a többletigényt bejelentő települési önkormányzatot és a helyi önkormányzatokért felelős minisztert.
+
+(3) Ha a támogatási igények meghaladják az országosan keletkező előirányzat-maradvány összegét, az országosan keletkező előirányzat-maradvány összegének felosztásáról a gyermekek és az ifjúság védelméért felelős miniszter az országosan bejelentett összes többletigény és az egyes települési önkormányzatok által bejelentett többletigények arányában dönt.
+
+(4) Az országosan esetlegesen keletkező előirányzat-maradványból történő támogatás kifizetéséről – a gyermekek és az ifjúság védelméért felelős miniszter döntése alapján – a helyi önkormányzatokért felelős miniszter az országosan keletkező előirányzat-maradvány keretén belül, a Magyar Államkincstáron keresztül 2010. augusztus 13-áig gondoskodik.
