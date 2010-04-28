@@ -8,69 +8,53 @@ Melléklet az 50/2008. (III. 14.) Korm. rendelethez[^5]
 
 Képzési és tudományos célú normatívák (E Ft/fő/év)
 
-| Megnevezés | Képzési normatívák | Tudo- mányos normatívák |
+| Megnevezés | Képzési normatívák |  |
 
-| Szakok, képzési területek | Doktori | Mester- képzés (MA, MSc) | Alap- képzés (BA, BSc) | Osztatlan | Egyetemi | Főiskolai |
+| Szakok, képzési területek | Doktori | Mester képzés (MA, MSc) | Alapképzés (BA, BSc) | Osztatlan | Egyetemi | Főiskolai | Tudományos normatívák |
 
-| orvos, fogorvos, állatorvos |  |  |  | 813 | 813 |  |  |
+| orvos, fogorvos, állatorvos |  |  |  | 720 | 720 |  |  |
 
-| gyógyszerész |  |  |  | 767 | 767 |  |  |
+| gyógyszerész |  |  |  | 679 | 679 |  |  |
 
-| építész, építőművész |  |  |  | 507 | 507 |  |  |
+| építész, építőművész |  |  |  | 449 | 449 |  |  |
 
-| jogász |  |  |  | 338 | 338 |  |  |
+| jogász |  |  |  | 299 | 299 |  |  |
 
 | mester tanár |  | 683 |  |  |  |  |  |
 
-| művészeti, művészetközvetítő |  | 1040 | 585 | 767 | 767 | 560 |  |
+| művészeti, művészetközvetítő |  | 1040 | 518 | 679 | 679 | 518 |  |
 
-| egészségügyi |  | 683 | 585 |  | 767 | 560 |  |
+| egészségügyi |  | 683 | 518 |  | 679 | 518 |  |
 
-| repülőmérnöki |  |  | 585 |  |  | 585 |  |
+| repülőmérnöki |  |  | 518 |  |  | 518 |  |
 
-| agrár |  | 683 | 390 |  | 507 | 360 |  |
+| agrár, műszaki, természet- tudományi, informatika, sporttudományi, nemzetiségi, szociális, pszichológia |  | 683 | 345 | 449 | 449 | 345 |  |
 
-| műszaki |  | 683 | 390 |  | 507 | 360 |  |
+| gyógypedagógus, konduktor |  | 683 | 518 |  | 518 | 518 |  |
 
-| természettudományi |  | 683 | 390 |  | 507 | 360 |  |
+| gazdasági, jogi-igazgatási, bölcsész, társadalomtudományi |  | 455 | 230 |  | 230 | 210 |  |
 
-| informatikai |  | 683 | 390 |  | 507 | 360 |  |
+| tanító-óvó |  |  | 230 |  |  | 210 |  |
 
-| testkultúra |  | 683 | 390 |  | 507 | 360 |  |
+| hitéleti |  | 455 | 230 | 323 | 230 | 210 |  |
 
-| nemzetiségi |  | 683 | 390 |  | 507 | 360 |  |
+| teljes munkaidős oktatók |  |  |  |  |  |  | 1200 |
 
-| gyógypedagógia, konduktor |  |  | 585 |  | 585 | 585 |  |
+| számított kutatók |  |  |  |  |  |  | 1200 |
 
-| szociális, pszichológia |  | 683 | 390 |  | 507 | 360 |  |
+| minősített teljes munkaidős oktatók |  |  |  |  |  |  | 1600 |
 
-| közgazdasági |  | 455 | 260 |  | 260 | 220 |  |
+| fokozatot szerzettek |  |  |  |  |  |  | 1200 |
 
-| jogi, igazgatási |  | 455 | 260 |  | 260 | 220 |  |
-
-| bölcsész, társadalomtudományi |  | 455 | 260 |  | 260 | 220 |  |
-
-| tanító-óvó |  |  | 260 |  | 260 | 220 |  |
-
-| hitéleti |  | 455 | 260 | 358 | 260 | 220 |  |
-
-| teljes munkaidős oktatók |  |  |  |  |  |  | 1400 |
-
-| számított kutatók |  |  |  |  |  |  | 1400 |
-
-| minősített teljes munkaidős oktatók |  |  |  |  |  |  | 1900 |
-
-| fokozatot szerzettek |  |  |  |  |  |  | 1400 |
-
-| odaítélt fokozatok |  |  |  |  |  |  | 700 |
+| odaítélt fokozatok |  |  |  |  |  |  | 600 |
 
 | államilag támogatott doktoranduszok |  |  |  |  |  |  |  |
 
-| – társadalomtudományi, bölcsész, művészeti | 650 |  |  |  |  |  | 500 |
+| társ.tud. bölcsész, művészeti | 650 |  |  |  |  |  | 450 |
 
-| – természettudományi, műszaki, művészeti DLA | 975 |  |  |  |  |  | 900 |
+| term.tud., műszaki, művészeti DLA | 975 |  |  |  |  |  | 810 |
 
 | fogyatékossággal élő hallgatók után járó kiegészítő támogatás normatívája | 120 |
 
 [^4]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 7. pontja hatályon kívül helyezte.
-[^5]: A mellékletet a 70/2008. (IV. 3.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit 2008. január 1. napjától kell alkalmazni.
+[^5]: A melléklet a 123/2010. (IV. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
