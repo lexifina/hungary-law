@@ -30,7 +30,7 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 12. | 1–2–84/500 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő kerámiatárgyak (2. kiadás)4 | A Tanács 84/500/EGK irányelve, valamint az ezt módosító, a Bizottság 2005/31/EK irányelve | 2006. május 20. |
 
-| 13. | 1–2–88/344 | Az élelmiszerek előállítása során felhasználható extrakciós oldószerek | A Tanács 88/344/EGK irányelve, valamint az ezt módosító, a Tanács 92/115/EGK irányelve, az Európai Parlament és a Tanács 94/52/EK és 97/60/EK irányelvei | 2004. május 1. |
+| 13. |  |  |  |  |
 
 | 14. | 1–2–88/388 | Az élelmiszerekben használható aromaanyagok és az előállításukra szolgáló nyersanyagok | A Tanács 88/388/EGK irányelve, valamint az ezt módosító, a Bizottság 91/71/EGK irányelve | 2004. május 1. |
 
@@ -72,43 +72,43 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 33. |  |  |  |  |
 
-| 34. | 1–3–76/621 | Az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav- tartalom (2. kiadás)8 | A Tanács 76/621/EGK irányelve | 2006. szeptember 1. |
+| 34. |  |  |  |  |
 
 | 35. |  |  |  |  |
 
-| 36. | 1–3–89/108 | A gyorsfagyasztott élelmiszerek (2. kiadás)9 | A Tanács 89/108/EGK irányelve | 2006. szeptember 1. |
+| 36. |  |  |  |  |
 
 | 37. |  |  |  |  |
 
-| 38. | 1–3–92/2 | A gyorsfagyasztott élelmiszerek hőmérsékletének hatósági ellenőrzésére vonatkozó mintavételi eljárás és vizsgálati módszer (2. kiadás)10 | A Bizottság 92/2/EGK irányelve | 2006. szeptember 1. |
+| 38. |  |  |  |  |
 
-| 39. | 1–3–1999/4 | Kávé- és cikóriakivonatok (2. kiadás)11 | Az Európai Parlament és a Tanács 1999/4/EK irányelve | 2007. január 1. |
+| 39. |  |  |  |  |
 
-| 40. | 1–3–2000/36 | Az emberi fogyasztásra szánt kakaó- és csokoládétermékek (2. kiadás)12 | Az Európai Parlament és a Tanács 2000/36/EK irányelve | 2007. január 1. |
+| 40. |  |  |  |  |
 
 | 41. |  |  |  |  |
 
-| 42. | 1–3–2001/111 | Emberi fogyasztásra szánt egyes cukortermékek (2. kiadás)13 | A Tanács 2001/111/EK irányelve | 2007. január 1. |
+| 42. |  |  |  |  |
 
 | 43. |  |  |  |  |
 
-| 44. | 1–3–2001/113 | Az emberi fogyasztásra szánt gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrém (2. kiadás)14 | A Tanács 2001/113/EK irányelve | 2007. január 1. |
+| 44. |  |  |  |  |
 
-| 45. | 1–3–2001/114 | Részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékek (Sűrített tej és tejpor) (2. kiadás)15 | A Tanács 2001/114/EK irányelve, valamint az ezt módosító Csatlakozási Okmány | 2006. szeptember 1. |
+| 45. |  |  |  |  |
 
 | 46. | 3–1–76/766 | Az etilalkohol – víz elegyek alkoholtartalmának meghatározásához szükséges táblázat | A Tanács 76/766/EGK irányelve | 2004. május 1. |
 
 | 47. | 3–1–79/796 | A cukortermékek vizsgálati módszerei | A Bizottság 79/796/EGK irányelve | 2004. május 1. |
 
-| 48. | 3–1–79/1067 | Sűrített tej és tejporfélék vizsgálata (2. kiadás)16 | A Bizottság 79/1067/EGK irányelve | 2007. július 1. |
+| 48. | 3–1–79/1067 | Sűrített tej és tejporfélék vizsgálata (2. kiadás)8 | A Bizottság 79/1067/EGK irányelve | 2007. július 1. |
 
-| 49. | 3–1–80/891 | Étolaj, étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszere (2. kiadás)17 | A Bizottság 80/891/EGK irányelve | 2007. január 1. |
+| 49. | 3–1–80/891 | Étolaj, étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszere (2. kiadás)9 | A Bizottság 80/891/EGK irányelve | 2007. január 1. |
 
-| 50. | 3–1–85/503 | Étkezési kazeinek és kazeinátok vizsgálati módszerei (2. kiadás)18 | A Bizottság 85/503/EGK irányelve | 2007. július 1. |
+| 50. | 3–1–85/503 | Étkezési kazeinek és kazeinátok vizsgálati módszerei (2. kiadás)10 | A Bizottság 85/503/EGK irányelve | 2007. július 1. |
 
-| 51. | 3–1–86/424 | Az étkezési kazeinek és kazeinátok mintavételi módszerei (2. kiadás)19 | A Bizottság 86/424/EGK irányelve | 2007. július 1. |
+| 51. | 3–1–86/424 | Az étkezési kazeinek és kazeinátok mintavételi módszerei (2. kiadás)11 | A Bizottság 86/424/EGK irányelve | 2007. július 1. |
 
-| 52. | 3–1–87/524 | Sűrített tej és tejporfélék mintavételi módszerei (2. kiadás)20 | A Bizottság 87/524/EGK | 2007. július 1. |
+| 52. | 3–1–87/524 | Sűrített tej és tejporfélék mintavételi módszerei (2. kiadás)12 | A Bizottság 87/524/EGK | 2007. július 1. |
 
 | 53. | 3–1–91/180 | A nyers- és a hőkezelt tej vizsgálati módszerei | A Bizottság 91/180/EGK határozata | 2004. május 1. |
 
@@ -132,21 +132,21 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 63. |  |  |  |  |
 
-| 64. | 1–2–2005/79 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményeiről szóló 1–2–2002/72 előírás módosításáról21 | A Bizottság 2005/79/EK irányelve | 2006. december 1. |
+| 64. | 1–2–2005/79 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményeiről szóló 1–2–2002/72 előírás módosításáról13 | A Bizottság 2005/79/EK irányelve | 2006. december 1. |
 
 | 65. |  |  |  |  |
 
 | 66. |  |  |  |  |
 
-| 67. | 1–3–2006/128 | Az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról szóló 95/31/EK irányelv módosításáról és helyesbítéséről22 | A Bizottság 2006/128/EK irányelve | 2008. február 15. |
+| 67. | 1–3–2006/128 | Az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról szóló 95/31/EK irányelv módosításáról és helyesbítéséről14 | A Bizottság 2006/128/EK irányelve | 2008. február 15. |
 
 | 68. |  |  |  |  |
 
-| 69. | 1-2-2007/19 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagok és műanyag tárgyak komponensei kioldódásának vizsgálatához alkalmazandó élelmiszer-utánzó modellanyagok listájának megállapításáról szóló 85/572/EGK tanácsi irányelv módosításáról23 | A Bizottság 2007/19/EK irányelve | 2008. április 1. |
+| 69. | 1-2-2007/19 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagok és műanyag tárgyak komponensei kioldódásának vizsgálatához alkalmazandó élelmiszer-utánzó modellanyagok listájának megállapításáról szóló 85/572/EGK tanácsi irányelv módosításáról15 | A Bizottság 2007/19/EK irányelve | 2008. április 1. |
 
-| 70. | 1-3-2007/61 | Az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló 1-3-2001/114 számú előírás módosításáról24 | A Tanács 2007/61/EK irányelve | 2008. július 1. |
+| 70. |  |  |  |  |
 
-| 71. | 1-2-2008/39 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv módosításáról25 | A Bizottság 2008/39/EK irányelve | 2009. március 1. |
+| 71. | 1-2-2008/39 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv módosításáról16 | A Bizottság 2008/39/EK irányelve | 2009. március 1. |
 
 3 A 152/2009. (XI. 12.) FVM rendelet 2. § (3) bekezdése alapján a melléklet 2. sora szerinti, a Magyar Élelmiszerkönyv 1-1-90/496 számú előírása 2. kiadásának megfelelő, de a 152/2009. (XI. 12.) FVM rendelet 1. melléklete szerinti új előírásainak nem megfelelő termékek 2012. október 31-ig forgalmazhatóak.
 
@@ -158,41 +158,23 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 7 Az előírást a 2/2005. (I. 11.) FVM rendelet melléklete tartalmazza.
 
-8 Az előírást az 57/2006. (VIII. 4.) FVM rendelet melléklete tartalmazza.
+8 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
-9 Az előírást az 57/2006. (VIII. 4.) FVM rendelet melléklete tartalmazza.
+9 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
 
-10 Az előírást az 57/2006. (VIII. 4.) FVM rendelet melléklete tartalmazza.
+10 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
-11 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
+11 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
-12 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
+12 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
 13 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
 
-14 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
+14 Az előírást az 57/2007. (VII. 6.) FVM rendelet melléklete tartalmazza.
 
-15 Az előírást az 57/2006. (VIII. 4.) FVM rendelet melléklete tartalmazza.
+15 Az előírást a 6/2008. (I. 17.) FVM rendelet melléklete tartalmazza.
 
-16 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-17 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
-
-18 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-19 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-20 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-21 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
-
-22 Az előírást az 57/2007. (VII. 6.) FVM rendelet melléklete tartalmazza.
-
-23 Az előírást a 6/2008. (I. 17.) FVM rendelet melléklete tartalmazza.
-
-24 Az előírást a 68/2008. (V. 16.) FVM rendelet melléklete tartalmazza.
-
-25 Az előírást a 117/2008. (IX. 5.) FVM rendelet melléklete tartalmazza.
+16 Az előírást a 117/2008. (IX. 5.) FVM rendelet melléklete tartalmazza.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 1. sorszámú előírása[^3]
 
@@ -3476,1149 +3458,25 @@ Megjegyzések a 2. és a 3. számú mellékletben szereplő „Korlátozások, i
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 34. sorszámú előírása[^14]
 
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–76/621 számú előírás
-
-(2. kiadás – 2006.)
-
-Az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav-tartalom
-
-1. §
-
-Ez az előírás vonatkozik
-
-a) az emberi fogyasztásra szánt olajokra, zsírokra és ezek elegyeire,
-
-b) azokra az élelmiszerekre, amelyek 5%-ban vagy ezt meghaladó mennyiségben hozzáadott olajat vagy hozzáadott zsírt tartalmaznak.
-
-2. §
-
-Az 1. § szerinti élelmiszerek erukasav-tartalma a bennük található összes zsírsav 5%-ánál több nem lehet.
-
-3. §
-
-Az erukasav-tartalom meghatározására szolgáló mintavételi és vizsgálati módszereket a Magyar Élelmiszerkönyv 3–1–80/891 számú előírása tartalmazza.
-
-4. §
-
-Ez az előírás 2006. szeptember 1-jén lép hatályba, ezzel egyidejűleg az 1–3–76/621 számú előírás 1995-ben jóváhagyott 1. kiadása hatályát veszti.
-
-5. §
-
-Ez az előírás a közvetlenül emberi fogyasztásra szánt olajok (étolajok) és zsírok (étkezési zsírok), valamint a hozzáadott olajokat és zsírokat tartalmazó élelmiszerek erukasav-tartalma legmagasabb szintjének rögzítéséről szóló, 1976. július 20-i 76/621/EGK tanácsi irányelvnek való megfelelést szolgálja.
-
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 35. sorszámú előírása[^15]
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 36. sorszámú előírása[^16]
 
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–89/108 számú előírás
-
-(2. kiadás – 2006.)
-
-A gyorsfagyasztott élelmiszerek
-
-1. §
-
-(1) Ez az előírás a gyorsfagyasztott élelmiszerekre vonatkozik.
-
-(2) Ezen előírás szerint gyorsfagyasztott élelmiszer az olyan élelmiszer, amelyet
-
-a) olyan gyorsfagyasztási folyamatnak vetnek alá, amely során a termék a maximális kristályképződés tartományán a termék jellegétől függően, de a lehető leggyorsabban halad át; ennek eredményeként a termikus kiegyenlítődést követően a termék minden pontjának hőmérséklete –18 °C vagy ennél kisebb érték lesz, és
-
-b) erre utaló megnevezéssel forgalmaznak.
-
-(3) Ezen előírás értelmében az étkezési jég és a jégkrém nem gyorsfagyasztott élelmiszer.
-
-2. §
-
-Csak az 1. § (2) bekezdése szerinti gyorsfagyasztott élelmiszert szabad a 8. és 9. §-ban megadott jelöléssel ellátni.
-
-3. §
-
-(1) A gyorsfagyasztott élelmiszer nyersanyagának épnek, egészségesnek és frissnek kell lennie.
-
-(2) A kémiai, biokémiai és mikrobiológiai változások minimumra csökkentése érdekében a nyersanyagok előkészítését és a gyorsfagyasztást – megfelelő gépekkel, illetve berendezésekkel – haladéktalanul el kell végezni.
-
-4. §
-
-A gyorsfagyasztott élelmiszerekkel a következő fagyasztó közegek kerülhetnek közvetlen kapcsolatba:
-
-a) levegő,
-
-b) nitrogén,
-
-c) szén-dioxid.
-
-5. §
-
-(1) A gyorsfagyasztott élelmiszer hőmérsékletének a termék minden pontján állandóan –18 °C-osnak vagy kisebbnek kell lennie. Szállításkor rövid ingadozással maximum 3 °C-kal lehet nagyobb.
-
-(2) A termék hőmérséklete a jó tárolási és szállítási gyakorlat betartásával a helyi elosztási és a kiskereskedelmi tárolás során –18 °C-nál
-
-a) legfeljebb 3 °C-kal lehet nagyobb,
-
-b) a kiskereskedelmi hűtőpultokban és a kiskereskedelembe történő helyi kiszállítás során legfeljebb 6 °C-kal lehet nagyobb.
-
-6. §
-
-Biztosítani kell,
-
-a) hogy a gyorsfagyasztáshoz, tároláshoz, szállításhoz és a helyi áruelosztáshoz használt berendezések, valamint a hűtőpultok alkalmasak legyenek az előírások betartására,
-
-b) a gyorsfagyasztott élelmiszerek hőmérsékletének ellenőrzését.
-
-7. §
-
-A gyorsfagyasztott élelmiszert úgy kell csomagolni, hogy a csomagolás védje a terméket a mikrobiológiai és egyéb szennyeződésektől, valamint a kiszáradástól.
-
-8. §
-
-A további feldolgozás nélkül a végső felhasználóhoz – beleértve a vendéglátást, kórházakat, üzemi étkeztetést és hasonló létesítményeket – kerülő gyorsfagyasztott termékekre az általános jelölési előírásokon túl a következők vonatkoznak:
-
-a) a megnevezést a „gyorsfagyasztott” szóval kell kiegészíteni,
-
-b) a minőségmegőrzési időhöz kiegészítően meg kell adni a tárolási hőmérsékletet (és/vagy a tárolásra alkalmas berendezést), valamint a hozzá tartozó időtartamot, ameddig a termék a vevőnél még felhasználható,
-
-c) a címkén szerepelnie kell a tétel azonosítását lehetővé tevő megjelölésnek,
-
-d) egyértelműen fel kell tüntetni, hogy a terméket felengedtetés után nem szabad újrafagyasztani.
-
-9. §
-
-(1) Az 1. § (2) bekezdésében meghatározott azon termékek jelölésének, amelyek sem végső felhasználóhoz, sem a vendéglátáshoz, kórházakhoz, üzemi étkezdékhez és hasonló intézményekhez nem kerülnek, csak a következőket kell tartalmaznia:
-
-a) megnevezés, kiegészítve a gyorsfagyasztott szóval,
-
-b) nettó tömeg,
-
-c) a tétel azonosítására szolgáló megjelölés,
-
-d) az előállító vagy csomagoló vagy forgalmazó cég neve (címe).
-
-(2) Az (1) bekezdés szerinti megjelöléseket a termék burkolatán, a tartályán, a csomagolásán vagy megfelelő címkén kell feltüntetni.
-
-10. §
-
-A gyorsfagyasztott élelmiszerek, valamint a szállítási és raktározási, tárolási hőmérsékletük ellenőrzését az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerek hőmérsékletének a szállítóeszközökben, raktárakban és tárolókban történő ellenőrzéséről szóló, 2005. január 12-i 37/2005/EK bizottság rendelet és a Magyar Élelmiszerkönyv 1–3–92/2 számú előírása szerint kell végezni.
-
-11. §
-
-(1) Ez az előírás 2006. szeptember 1-jén lép hatályba.
-
-(2) Ezen előírás hatálybalépésével a Magyar Élelmiszerkönyv 1–3–89/108 számú előírásának 1995-ben jóváhagyott 1. kiadása hatályát veszti.
-
-12. §
-
-Ez az előírás az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1988. december 21-i 89/108/EGK tanácsi irányelvnek való megfelelést szolgálja.
-
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 38. sorszámú előírása[^17]
-
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–92/2 számú előírás
-
-(2. kiadás – 2006.)
-
-A gyorsfagyasztott élelmiszerek hőmérsékletének hatósági ellenőrzésére vonatkozó
-
-mintavételi eljárás és vizsgálati módszer
-
-1. §
-
-A hatósági hőmérséklet-ellenőrzési vizsgálatot akkor kell elvégezni az 1. számú, illetve 2. számú mellékletben ismertetett eljárás és módszer szerint, ha felmerül annak a gyanúja, hogy az élelmiszer hőmérséklete nem felel meg a Magyar Élelmiszerkönyv gyorsfagyasztott élelmiszerekre vonatkozó 1–3–89/108 számú előírásának (a továbbiakban: 1–3–89/108 számú előírás).
-
-2. §
-
-Más, tudományosan elfogadott vizsgálati módszer is használható, de abban az esetben, ha a mért érték a jelen előírás szerint mérttől eltér, ezen vizsgálati módszer szerint kapott eredmény a döntő.
-
-3. §
-
-(1) Ez az előírás 2006. szeptember 1-jén lép hatályba.
-
-(2) Ezen előírás hatálybalépésével a Magyar Élelmiszerkönyv 1–3–92/2 számú előírásának 1995-ben jóváhagyott 1. kiadása hatályát veszti
-
-4. §
-
-Ez az előírás az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1992. január 13-i 92/2/EGK bizottsági irányelvnek való megfelelést szolgálja.
-
-1. számú melléklet az 1–3–92/2 számú előíráshoz
-
-Gyorsfagyasztott élelmiszerek hőmérsékletének hatósági ellenőrzésére vonatkozó mintavételi eljárás
-
-Az ellenőrzésre kiválasztandó minták
-
-A kiválasztandó minták típusának és számának olyannak kell lennie, hogy hőmérsékletük az ellenőrzött szállítmány legnagyobb hőmérsékletű pontjait képviselje.
-
-1. Tárolás (hűtő-tároló terek; hűtőkamrák)
-
-A mintákat a tároló néhány kritikus pontjáról kell kiválasztani, például az ajtók mellől (alsóbb és felsőbb rétegekből), a tároló közepének környékéről (alsóbb és felsőbb rétegekből) és a hűtőberendezésnél a levegő visszatérítésének közeléből. Figyelembe kell venni a termékek tárolásának időtartamát (a hőmérséklet stabilizálódása miatt).
-
-2. Szállítás
-
-a) Mintavétel szállítás közben: amennyiben a mintát szállítás során kell venni, úgy azt a szállítmánynak az ajtók vagy ajtópárok nyílásának széle melletti alsó és felső részéből kell venni.
-
-b) Kirakodás során végzett mintavétel:
-
-a szállítmányból 4–4 mintát kell venni a következő kritikus pontokon levő tételei közül:
-
-– az ajtók nyíló része mellett fekvő tétel aljáról és tetejéről,
-
-– a tétel felső hátsó részéből (a hűtőberendezéstől a lehető legtávolabb levő helyről),
-
-– a tétel közepéről,
-
-– a tétel elülső részének közepéből (a hűtőberendezéshez lehető legközelebb fekvő részről),
-
-– a tétel első síkjának alsó és felső sarkából (a lehető legközelebb a hűtőberendezésnek a légbeszívó részéhez).
-
-3. Kereskedelmi hűtőpultok
-
-A hűtőpult legnagyobb hőmérsékletű pontjait reprezentáló három helyről egy-egy mintát kell venni.
-
-2. számú melléklet az 1–3–92/2 számú előíráshoz
-
-Gyorsfagyasztott élelmiszerek hőmérséklet-mérési módszere
-
-1. Alkalmazási terület
-
-Az 1–3–89/108 számú előírása 1. §-ának 2. pontja szerinti gyorsfagyasztást követő hőmérséklet stabilizációja után, a hőmérsékletnek a termék minden pontján –18 °C-nak vagy annál kisebbnek kell lennie. Kisebb hőmérséklet-eltérések az 1–3–89/108 számú előírás 5. §-a szerint engedélyezettek.
-
-2. Alapelv
-
-A gyorsfagyasztott élelmiszerek hőmérsékletének mérésekor az 1. számú melléklet szerint kiválasztott minták megfelelő eszközök segítségével mért hőmérsékletét kell pontosan lejegyezni.
-
-3. A hőmérséklet definíciója
-
-„Hőmérséklet”-en azt a hőmérsékletet értjük, amelyet egy meghatározott helyen mérnek a mérőműszer vagy eszköz hőérzékeny részével.
-
-4. Felszerelés
-
-4.1. Hőmérsékletmérő eszköz
-
-4.2. Termékfúró eszköz
-
-Egy könnyen tisztítható, hegyes fémszerszámot kell használni (például jéglyukasztó, kézifúró, rúdfúró).
-
-5. A hőmérsékletmérő eszközök általános jellemzői
-
-A hőmérsékletmérő eszköznek a következő jellemzőknek kell megfelelnie:
-
-a) a beállási sebessége olyan legyen, hogy 3 perc alatt érje el a kezdeti és végső leolvasási érték különbségének 90%-át,
-
-b) a pontossága –20 °C és +30 °C közötti tartományban ±0,5 °C legyen,
-
-c) ha a környező hőmérséklet –20 °C és +30 °C közötti, a mérési pontosság változása használat közben nem lehet nagyobb 0,3 °C-nál,
-
-d) 0,1 °C pontosságú mérésre alkalmas legyen,
-
-e) pontosságát rendszeres időközönként ellenőrizzék,
-
-f) legyen érvényes kalibrációs igazolása,
-
-g) érzékelő része (szonda) könnyen tisztítható legyen,
-
-h) érzékelő része úgy legyen kialakítva, hogy jó hőmérsékleti érintkezést biztosítson a termékkel,
-
-i) elektromos része a páralecsapódástól védve legyen.
-
-6. A mérési eljárás
-
-6.1. Az eszközök előhűtése
-
-A hőmérő érzékelő része és a termékfúró eszköz legyen előhűtve, mielőtt a termék hőmérsékletét mérnék vele. Az eszközök hőmérséklete – amennyire csak lehetséges – közelítse meg a termék hőmérsékletét.
-
-6.2. A minták előkészítése a hőmérséklet méréséhez
-
-Ha szükséges, a gyorsfagyasztott termékeknél az előhűtött termékfúró eszköz segítségével akkora lyukat kell készíteni a termékben, amelybe a szonda szorosan illeszkedik. A lyuk mélysége a termék típusától függ (a 6.3. pont előírásai szerint).
-
-6.3. A termék hőmérsékletének mérése
-
-A minta előkészítése és hőmérsékletének mérése lehetőleg hűtött környezetben történjen, a következőképpen:
-
-a) ha a termék méretei ezt lehetővé teszik, az előhűtött szondát a termék felszínétől számított 2,5 cm mélységbe kell helyezni,
-
-b) ha az a) pontban leírtak végrehajtása nem lehetséges, a szondát a felszíntől a szonda átmérőjének legalább három-négyszeres méretéig kell a mintába behelyezni,
-
-c) bizonyos élelmiszerek (például zöldborsó) méretük vagy összetételük miatt nem fúrhatók át; ezekben az esetekben az élelmiszercsomag belső hőmérsékletét az élelmiszerrel érintkező levegő hőmérsékletének mérésével kell megállapítani úgy, hogy egy megfelelően előhűtött éles végű szondát az élelmiszerrel érintkező módon a csomag közepébe szúrnak,
-
-d) a hőmérsékletet akkor kell leolvasni, ha az már nem változik.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 39. sorszámú előírása[^18]
 
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–1999/4 számú előírás
-
-(2. kiadás – 2006.)
-
-Kávé- és cikóriakivonatok
-
-1. §
-
-Ez az előírás a mellékletben meghatározott kávékivonatokra és cikóriakivonatokra vonatkozik. Ez az előírás nem vonatkozik a cukorral pörkölt kávéból készült szárított kávékivonatra (café torrefacto soluble).
-
-2. §
-
-(1) A termékeket a vonatkozó jogszabályokban előírtak szerint kell jelölni, e §-ban foglaltak figyelembevételével.
-
-(2) A kereskedelmi forgalomba kerülő termék megnevezésére a mellékletben felsorolt neveket kell használni. A termékek megnevezését ki kell egészíteni
-
-a) ,,sűrítmény” vagy „sűrítményformában” vagy
-
-b) ,,folyadék” vagy „folyadékformában”
-
-megfelelő kifejezéssel.
-
-(3) A termék megnevezését az alábbi esetekben a „koncentrált” jelzővel lehet kiegészíteni:
-
-a) a melléklet 1. c) pontja szerinti termékek esetén, ha a kávéból származó szárazanyag-tartalom több mint 25 tömegszázalék,
-
-b) a melléklet 2. c) pontja szerinti termékek esetén, ha a cikóriából származó szárazanyag-tartalom több mint 45 tömegszázalék.
-
-(4) A jelölésnek tartalmaznia kell a melléklet 1. pontjában meghatározott termékeknél a „koffeinmentesített” vagy a „koffeinmentes” szavakat, ha a vízmentes koffeintartalom a kávéból származó szárazanyagra számítva legfeljebb 0,3 tömegszázalék. Ennek a tájékoztatásnak a megnevezéssel azonos látómezőben kell lennie.
-
-(5) A melléklet 1. c) és 2. c) pontjai szerinti termékeknél a jelölésben szerepelnie kell a „cukorral”, „cukorral tartósított”, „hozzáadott cukorral” vagy „cukorral pörkölve” kifejezésnek, amelyben a „cukor” szót a felhasznált cukortípusok nevének (neveinek) kell helyettesítenie. Ennek a tájékoztatásnak a megnevezéssel azonos látómezőben kell lennie.
-
-(6) A jelölésben fel kell tüntetni a melléklet 1. b) és 1. c) pontjaiban meghatározott termékeknél a kávéból származó minimális szárazanyag-tartalmat, és a melléklet 2. b) és 2. c) pontjaiban meghatározott termékek esetén pedig a cikóriából származó minimális szárazanyag-tartalmat. Ezeket a mennyiségeket a késztermék tömegére számítva, tömegszázalékban kell megadni.
-
-3. §
-
-Ez az előírás 2007. január 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek az 1–3–1999/4 számú előírása 2000-ben jóváhagyott 2. kiadása hatályát veszti.
-
-4. §
-
-Ez az előírás a kávé- és cikóriakivonatokról szóló 1999. február 22-i 1999/4//EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Melléklet
-
-az 1–3–1999/4 számú előíráshoz
-
-A termékek megnevezése, meghatározása
-
-és jellemzőik
-
-1. Kávékivonat, oldódó kávékivonat, oldódó kávé, instant kávé, kávéextrakt vagy azonnal oldódó kávé
-
-Olyan termékek, amelyeket a pörkölt kávéból kizárólag vizes extrakcióval különböző koncentrációban nyernek, kizárva mindenféle savas vagy lúgos hidrolízises eljárást.
-
-A kivonat tartalmazza a kávé oldódó és aromatikus összetevőit, de tartalmazhat a kávéból származó oldhatatlan olajokat és nyomokban egyéb oldhatatlan anyagokat, amelyeket technikailag lehetetlen eltávolítani.
-
-A kávéból származó szárazanyag-tartalomnak:
-
-a) szárított kávékivonat (pl. por, granulátum) esetén legalább 95 tömegszázaléknak,
-
-b) kávékivonat-sűrítmény esetén legfeljebb 85 tömegszázaléknak és legalább 70 tömegszázaléknak,
-
-c) folyékony kávékivonat esetén legfeljebb 55 tömegszázaléknak és több mint 15 tömegszázaléknak
-
-kell lennie.
-
-A szilárd vagy a sűrítmény formájú kávékivonat csak a kávéból extrakcióval kivont alkotórészeket tartalmazhatja. A folyékony kávékivonat pörkölt vagy pörköletlen cukorféléket legfeljebb 12 tömegszázalékban tartalmazhat.
-
-2. Cikóriakivonat, oldódó cikória, instant cikória, szárított cikóriakivonat, cikória-extrakt vagy azonnal oldódó cikória
-
-Olyan termékek, amelyeket a pörkölt cikóriából kizárólag vizes extrakcióval különböző koncentrációban nyernek, kizárva mindenféle savas vagy lúgos hidrolízises eljárást.
-
-A cikória a Cichorium Intybus L. növény gyökere, amelyet nem a hajtatott cikória termelésére használnak, hanem megfelelő tisztítást követően szárítanak és pörkölnek.
-
-A cikóriából származó szárazanyag-tartalomnak:
-
-a) szárított cikóriakivonat (pl. por, granulátum) esetén legalább 95 tömegszázaléknak,
-
-b) cikóriakivonat-sűrítmény esetén legfeljebb 85 tömegszázaléknak és legalább 70 tömegszázaléknak,
-
-c) folyékony cikóriakivonat esetén legfeljebb 55 tömegszázaléknak és több mint 25 tömegszázaléknak
-
-kell lennie.
-
-A szilárd vagy a sűrítmény formájú cikóriakivonat legfeljebb 1 tömegszázalék nem cikóriából származó szárazanyagot tartalmazhat. A folyékony cikóriakivonat pörkölt vagy pörköletlen cukorféléket legfeljebb 35 tömegszázalékban tartalmazhat.
-
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 40. sorszámú előírása[^19]
 
-MAGYAR ÉLELMISZERKÖNYV
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 42. sorszámú előírása[^20]
 
-(Codex Alimentarius Hungaricus)
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 43. sorszámú előírása[^21]
 
-1–3–2000/36 számú előírás
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 44. sorszámú előírása[^22]
 
-(2. kiadás – 2006.)
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 45. sorszámú előírása[^23]
 
-Az emberi fogyasztásra szánt kakaó-
-
-és csokoládétermékek
-
-1. §
-
-Ezen előírás értelmében kakaó- és csokoládétermékeknek az 1. számú mellékletben meghatározott termékek minősülnek.
-
-2. §
-
-(1) Az 1. számú melléklet A) fejezetének 3., 4., 5., 6., 8. és 9. pontjaiban felsorolt csokoládétermékekhez felhasználhatók a 2. számú mellékletben felsorolt nem kakaóvaj növényi zsírok. A hozzáadott mennyiség nem haladhatja meg az 1. számú melléklet B) fejezetében megengedett anyagok levonása utáni késztermék mennyiségének 5%-át és nem csökkentheti a termékre minimálisan előírt kakaóvaj vagy kakaóanyag mennyiségét.
-
-(2) Az (1) bekezdésnek megfelelő, nem kakaóvaj növényi zsírt tartalmazó csokoládétermékek forgalmazásának feltételei:
-
-a) a 3. §-ban foglaltak szerinti megjelölést ki kell egészíteni a következő szöveggel: „kakaóvajhoz adott növényi zsírokat tartalmaz”,
-
-b) a szövegnek jól olvashatónak, az összetevők listájával egy látómezőben, de a felsorolástól világosan elkülönítve, legalább ugyanakkora betűkkel és a megnevezés mellett kell lennie. A megnevezés ezen a helyen kívül máshol is elhelyezhető.
-
-3. §
-
-(1) Az 1. számú mellékletben felsorolt megnevezéseket csak az ott felsorolt termékekre szabad alkalmazni, és a kereskedelemben ezek szerint kell a termékeket megnevezni. Ezek a megnevezések, kiegészítve (az egyéb szabályozásokkal összhangban) alkalmazhatók más termékek megnevezésére is, ha e termékek nem téveszthetők össze az 1. számú mellékletben meghatározott termékekkel (például: forró csokoládé).
-
-(2) Ha az 1. számú melléklet A) fejezetének 3., 4., 5., 6., 7. és 10. pontjaiban meghatározott termékeket vegyesen is forgalmazzák, akkor „vegyes csokoládé” (’assorted chocolates’) vagy „vegyes töltött csokoládé” (’assorted filled chocolates’) vagy hasonló megnevezéseket kell használni. Ebben az esetben a választék összes termékéről készülhet egyetlen, az összetevőket tartalmazó lista.
-
-(3) Az 1. számú melléklet A) fejezetének 2. c), 2. d), 3., 4., 5., 8. és 9. pontjaiban meghatározott termékek jelölésének tartalmaznia kell az összes kakaó szárazanyag-tartalmat, a következőképpen: „kakaó szárazanyag legalább ...%”.
-
-(4) Az 1. számú melléklet A) fejezetének 2. b) és a 2. d) pontja második felében meghatározott termékek esetében a jelölésen fel kell tüntetni a kakaóvaj-tartalmat.
-
-(5) Az 1. számú melléklet A) fejezetében meghatározott „csokoládé (’chocolate’), „tejcsokoládé” (’milk chocolate’) és „mártócsokoládé” (’couverture chocolate’) kereskedelmi megnevezések kiegészíthetők a minőségi ismertetőjelekre vonatkozó információval vagy leírással, feltéve, hogy a termék tartalmaz:
-
-a) csokoládé esetében legalább 43% összes kakaó szárazanyagot, amelyből legalább 26% kakaóvaj,
-
-b) tejcsokoládé esetében legalább 30% összes kakaó szárazanyagot és legalább 18% tej szárazanyagot, amely részben vagy egészen dehidratált teljes tej, félig vagy teljesen fölözött tej, tejszín, vagy részben vagy teljesen dehidratált tejszín, vaj vagy tejzsír, továbbá legalább 4,5% tejzsírt,
-
-c) mártócsokoládé esetében legalább 16% zsírmentes kakaó szárazanyagot.
-
-4. §
-
-Ez az előírás 2007. január 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek a kakaó- és csokoládétermékekről szóló 1–3–2000/36 számú előírása 2001-ben jóváhagyott 1. kiadása hatályát veszti.
-
-5. §
-
-Ez az előírás az emberi fogyasztásra szánt kakaó- és csokoládétermékekről szóló, 2000. június 23-i 2000/36/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-1. számú melléklet
-
-az 1–3–2000/36 számú előíráshoz
-
-A termékek megnevezései, meghatározásai
-
-és jellemzői
-
-A) Megnevezések és meghatározások
-
-1. Kakaóvaj
-
-Kakaóvajnak nevezzük a kakaóbabból vagy a kakaóbab részeiből nyert zsírt, amelynek
-
-– a szabadzsírsav-tartalma (olajsavban kifejezve) legfeljebb 1,75%,
-
-– az el nem szappanosítható anyag tartalma (petroléterrel meghatározva) legfeljebb 0,5%, kivéve a préselt kakaóvajat, amelyben legfeljebb 0,35% lehet.
-
-2. a) Kakaó, kakaópor
-
-Tisztított, hántolt és pörkölt kakaóbabból nyert por alakú termék. A terméknek legfeljebb 9% vizet és legalább 20% kakaóvajat (szárazanyagra számítva) kell tartalmaznia.
-
-b) Zsírszegény kakaó, zsírszegény kakaópor
-
-Olyan termék, amely kevesebb mint 20% kakaóvajat tartalmaz a szárazanyag tömegére számítva.
-
-c) Porított csokoládé, csokoládépor
-
-Olyan termék, amely kakaópor és cukrok keverékéből áll, és legalább 32% kakaóport tartalmaz.
-
-d) Ivócsokoládé-por, édesített kakaó, édesített kakaópor
-
-Olyan termék, amely kakaópor és cukrok keverékéből áll, és legalább 25% kakaóport tartalmaz. A megnevezést a „zsírszegény” megjelölésnek kell kísérnie, ha a termék a b) pont szerint zsírszegény.
-
-3. Csokoládé (étcsokoládé)
-
-a) Olyan termék, amely kakaótermékekből és cukrokból készül, kielégíti a b) pontban foglaltakat, legalább 35% összes kakaó szárazanyagot tartalmaz, ebből legalább 18% a kakaóvaj és legalább 14% a zsírmentes kakaó szárazanyag.
-
-b) Abban az esetben, ha a megnevezést kiegészítik az alábbi szavakkal:
-
-– ,,csokoládédara” (’vermicelli’) vagy „csokoládépehely” (’flakes’): a granulált vagy a pelyhekből álló terméknek legalább 32% összes kakaó szárazanyagot kell tartalmaznia, ebből legalább 12% kakaóvaj és legalább 14% zsírmentes kakaó szárazanyag;
-
-– ,,mártócsokoládé” (’couverture’): a terméknek legalább 35% összes kakaó szárazanyagot kell tartalmaznia, ebből legalább 31% kakaóvaj és legalább 2,5% zsírmentes kakaó szárazanyag;
-
-– ,,Gianduja” (vagy a „gianduja” szó valamilyen származéka) csokoládé: a termék egyrészt olyan csokoládéból készüljön, amely legalább 32% összes kakaó szárazanyagot tartalmaz, és ebből a zsírmentes kakaó szárazanyag-tartalom legalább 8%, másrészt a finoman aprított törökmogyoróból olyan mennyiséget tartalmazzon, hogy 100 g termékben legalább 20 g és legfeljebb 40 g törökmogyoró legyen. Felhasználhatók még:
-
-= sűrített tej és/vagy tej szárazanyag olyan arányban, hogy a késztermék legfeljebb 5% tej szárazanyagot tartalmazhat,
-
-= mandulaféleségek, törökmogyoró és más diófajták, egészben vagy törve, olyan mennyiségben, hogy az aprított törökmogyoróval együtt ezek a termék teljes tömegének a 60%-át nem haladhatják meg.
-
-4. Tejcsokoládé
-
-a) Olyan termék, amely kakaótermékekből, cukrokból és tejből vagy tejtermékekből áll, és amelyek a b) pontban foglaltakkal összhangban tartalmaznak:
-
-– legalább 25% összes kakaó szárazanyagot,
-
-– legalább 14% tej szárazanyagot, amely lehet részben vagy teljesen dehidratált teljes tej, félig vagy teljesen fölözött tej, tejszín, vagy részben vagy teljesen dehidratált tejszín, vaj vagy tejzsír,
-
-– legalább 2,5% zsírmentes kakaó szárazanyagot,
-
-– legalább 3,5% tejzsírt,
-
-– legalább 25% összes zsírt (kakaóvajat és tejzsírt).
-
-b) Abban az esetben, ha a megnevezést kiegészítik az alábbi szavakkal:
-
-– ,,tejcsokoládédara” (‘vermicelli’) vagy „tejcsokoládépehely” (’flakes’): a granulált vagy a pelyhekből álló terméknek legalább 20% összes kakaó szárazanyagot, és legalább 12% tej szárazanyagot kell tartalmaznia, amely lehet részben vagy teljesen dehidratált teljes tej, félig vagy teljesen fölözött tej, tejszín, vagy részben vagy teljesen dehidratált tejszín, vaj vagy tejzsír, és tartalmaznia kell továbbá legalább 12% összes zsírt (kakaóvaj és tejzsír),
-
-– ,,mártótejcsokoládé” (’couverture’): a terméknek legalább 31% összes zsírt (kakaóvaj és tejzsír) kell tartalmaznia,
-
-– ,,Gianduja” (vagy a ’gianduja’ szó származékai) mogyorós tejcsokoládé: a termék egyrészt olyan tejcsokoládéból készüljön, amely legalább 10% tej szárazanyagot tartalmaz, amely lehet részben vagy egészben dehidratált teljes tej, félig vagy teljesen fölözött tej, tejszín, vagy részben vagy teljesen dehidratált tejszín, vaj vagy tejzsír, másrészt a finoman aprított törökmogyoróból olyan mennyiséget tartalmazzon, hogy 100 g termékben legalább 15 g és legfeljebb 40 g törökmogyoró legyen. Mandulaféleségek, törökmogyoró és más dióféleségek ugyancsak felhasználhatók, egészben vagy törve, olyan mennyiségben, hogy az aprított törökmogyoróval együtt ezek mennyisége a termék tömegének 60%-át nem haladhatja meg.
-
-c) Ha a megnevezésben a „tej” szót helyettesíti:
-
-– a „tejszín”: a termék tejzsírtartalma legalább 5,5% legyen,
-
-– a „sovány tej” (,,fölözött tej”): a termék tejzsírtartalma legfeljebb 1% lehet.
-
-5. Háztartási tejcsokoládé (’Family milk chocolate’)
-
-Olyan termék, amely kakaótermékekből, cukrokból és tejtermékekből készül, és amely tartalmaz:
-
-– legalább 20% összes kakaó szárazanyagot,
-
-– legalább 20% tej szárazanyagot, amely lehet részben vagy egészben dehidratált teljes tej, félig vagy teljesen fölözött tej, tejszín, vagy részben vagy teljesen dehidratált tejszín, vaj vagy tejzsír,
-
-– legalább 2,5% zsírmentes kakaó szárazanyagot,
-
-– legalább 5% tejzsírt,
-
-– legalább 25% összes zsírt (kakaóvaj és tejzsír).
-
-6. Fehér csokoládé
-
-Olyan termék, amely kakaóvajból, tejből vagy tejtermékekből és cukrokból készül, és amely legalább 20% kakaóvajat és legalább 14% tej szárazanyagot tartalmaz, amely lehet részben vagy teljesen dehidratált teljes tej, félig vagy teljesen fölözött tej, tejszín, vagy részben vagy teljesen dehidratált tejszín, vaj vagy tejzsír, és amelyben a tejzsír legalább 3,5%.
-
-7. Töltött csokoládé (’Filled chocolate’), csokoládé ... töltelékkel (’chocolate with ... filling’), csokoládé ... belsővel/korpussszal (’chocolate with ... centre’)
-
-Olyan töltött termék, amelynek külső része a 3., 4., 5. és 6. pontokban meghatározott termékek valamelyikéből áll. Ezek a megnevezések nem használhatók olyan termékekre, amelyek korpusza sütőipari termék, cukrászsütemény, biszkvit (tartós édesipari lisztes készítmény) vagy jégkrém.
-
-Az ilyen megnevezésű termékek külső csokoládé részének hányada a termék összes tömegének legalább 25%-a legyen.
-
-8. ’Chocolate a la taza[^20]’ (Asztali csokoládé)
-
-Olyan termék, amely kakaótermékekből, cukrokból és lisztből vagy búza-, rizs- vagy kukoricakeményítőből készül, és amely legalább 35% összes kakaó szárazanyagot tartalmaz, ebből legalább 18% a kakaóvaj és legalább 14% a zsírmentes kakaó szárazanyag, és legfeljebb 8% a liszt vagy a keményítő.
-
-9. ’Chocolate familiar a la taza1’ (Háztartási asztali csokoládé)
-
-Olyan termék, amely kakaótermékekből, cukrokból, és lisztből vagy búza-, rizs- vagy kukoricakeményítőből készül, és amely legalább 30% összes kakaó szárazanyagot tartalmaz, ebből legalább 18% a kakaóvaj és legalább 12% a zsírmentes kakaó szárazanyag, és legfeljebb 18% a liszt vagy a keményítő.
-
-10. Praliné, falatnyi csokoládé
-
-Olyan „falatnyi” nagyságú termék, amely
-
-– töltött csokoládé, vagy
-
-– tömör csokoládé, vagy a 3., 4., 5. vagy 6. pontban meghatározott valamelyik csokoládéféleség és más élelmiszerek kombinációja vagy keveréke, feltéve, hogy a csokoládé a termék összes tömegének legalább 25%-át teszi ki.
-
-B) Szabadon választható engedélyezett összetevők
-
-Ehető anyagok felhasználása
-
-1. A 2. §-ban és a B) fejezet 2. pontjában foglalt követelmények betartása mellett felhasználhatók más anyagok is az A) fejezet 3., 4., 5., 6., 8. és 9. pontjaiban meghatározott csokoládétermékekhez.
-
-Azonban
-
-– állati zsírokat és azok készítményeit – a tejeredetűeket kivéve – tilos felhasználni,
-
-– lisztek, granulált vagy porított keményítő felhasználása csak abban az esetben engedélyezett, ha ez összhangban van az A) fejezet 8. és 9. pontjaiban foglaltakkal.
-
-Az ilyen anyagok mennyisége a késztermék összes tömegének 40%-át nem haladhatja meg.
-
-2. Az A) fejezet 2., 3., 4., 5., 6., 8. és 9. pontjaiban meghatározott termékekhez csak olyan ízesítőanyagok használhatók, amelyek nem utánozzák a csokoládé vagy a tejzsír ízét.
-
-C) A százalékok kiszámítása
-
-Az A) fejezet 3., 4., 5., 6., 8. és 9. pontjaiban meghatározott termékek minimális kakaó szárazanyag, kakaóvaj, tej szárazanyag, tejzsír tartalmát a B) fejezetben engedélyezett összetevők tömegének levonása után kell számítani. Az A) fejezet 7. és 10. pontjaiban meghatározott termékek esetén a minimális tartalmat a B) fejezetben engedélyezett összetevők és a töltelék tömegének levonása után kell számítani.
-
-Az A) fejezet 7. és 10. pontjaiban meghatározott termékek csokoládé tartalmát a tölteléket is magában foglaló termék összes tömegére vonatkoztatva kell kiszámítani.
-
-D) Cukrok
-
-Ezen előírásban szereplő cukrok nem korlátozódnak azokra, amelyeket az MÉ 1–3–2001/111 „Emberi fogyasztásra szánt egyes cukortermékek” előírás felsorol.
-
-2. számú melléklet
-
-az 1–3–2000/36 számú előíráshoz
-
-A 2. § (1) bekezdésében említett növényi zsírok
-
-A 2. § 1. pontjában hivatkozott növényi zsírok, önmagukban vagy keverékekben, kakaóvaj-ekvivalensek (kakaóvaj-egyenértékűek), és az alábbi feltételeknek kell eleget tenniük:
-
-a) olyan laurinsav-mentes növényi zsírok, amelyek POP, POSt és StOSt típusú[^21] szimmetrikus, egyszeresen telítetlen trigliceridekben gazdagok;
-
-b) bármilyen arányban keverhetők kakaóvajjal és annak fizikai tulajdonságaival (olvadáspont és kristályosodási hőmérséklet, olvadási sebesség, temperálási igény) kompatibilisek;
-
-c) csak finomítási és/vagy frakcionálási eljárásokkal készülnek, amelyek kizárják a triglicerid-szerkezet enzimes megváltozását.
-
-A fenti kritériumoknak megfelelően, az alábbi növényi zsírok használhatók, amelyeket a listán felsorolt növényekből nyernek:
-
-| A növényi zsír szokásos neve | A felsorolt zsírokat tartalmazó növények tudományos elnevezése |
-
-| 1. Illipe, Borneo-faggyú vagy Tengkawang | Shorea spp. |
-
-| 2. Pálmaolaj | Elaeis guineensis, Elaeis olifera |
-
-| 3. Sal (egy K-indiai fafajta) | Shorea robusta |
-
-| 4. Shea | Butyrospermum parkii |
-
-| 5. Kokum gurgi | Garcinia indica |
-
-| 6. Mango magzsír | Mangifera indica |
-
-A jégkrém és a hasonló, fagyasztott termékek gyártásához készülő csokoládéban a kókuszolaj használata is engedélyezett.
-
-Az 56/2004. (IV. 24.) FVM rendelet mellékletének 42. sorszámú előírása[^22]
-
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–2001/111 számú előírás
-
-(2. kiadás – 2006.)
-
-Emberi fogyasztásra szánt egyes cukortermékek
-
-1. §
-
-(1) Ezen előírás értelmében cukortermékeknek a melléklet A) részében meghatározott termékek minősülnek.
-
-(2) Az előírás nem vonatkozik a melléklet A) részében meghatározott termékekre, ha azok porcukor, kandiscukor, süvegcukor formájában kerülnek forgalomba.
-
-2. §
-
-(1) Az élelmiszerek jelölésére vonatkozó általános előírásokon túlmenően, a melléklet A) részében felsorolt termékekre az e §-ban foglalt követelmények vonatkoznak.
-
-(2) Az e §-ban leírtak fenntartásával, a melléklet A) részében felsorolt megnevezések csak az ezen előírásnak megfelelő termékekre használhatók.
-
-(3) A melléklet A) részének 2. pontjában megadott terméknév alkalmazható a 3. pontjában meghatározott termékre is.
-
-(4) A 20 g-nál kisebb nettó tömegű, előre csomagolt termékek esetében a nettó tömeget nem szükséges feltüntetni a csomagoláson.
-
-(5) A cukoroldat, invertcukor-oldat és invertcukor-szirup szárazanyag-tartalmát és invertcukor-tartalmát fel kell tüntetni a jelölésen.
-
-(6) Az oldatban kristályos részt is tartalmazó invertcukor-szirup jelölésén fel kell tüntetni a „kristályos részt tartalmaz” feliratot.
-
-(7) Ha a melléklet A) részének 7. és 8. pontjában megadott termékek szárazanyagra számítva 5%-nál több fruktózt tartalmaznak, „glükóz-fruktózszörp” vagy „fruktóz-glükózszörp”, illetve „szárított glükóz-fruktózszörp” vagy „szárított fruktóz-glükózszörp” elnevezést kapnak attól függően, hogy a glükóz vagy a fruktóz aránya a nagyobb.
-
-3. §
-
-Ez az előírás 2007. január 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek az egyes cukortermékekről szóló 1–3–2001/111 számú előírása 2003-ban jóváhagyott 1. kiadása hatályát veszti.
-
-4. §
-
-Ez az előírás az emberi fogyasztásra szánt egyes cukorfajtákról szóló, 2001. december 20-i 2001/111/EK tanácsi irányelvnek való megfelelést szolgálja.
-
-Melléklet az 1–3–2001/111 számú előíráshoz
-
-Cukortermékek
-
-A) Termékmegnevezések és -meghatározások
-
-1. Félfehér kristálycukor (félfehér cukor)[^(1)]
-
-Tisztított és kristályosított szacharóz, egynemű, szemcsés, az alábbi jellemzőkkel:
-
-| a) polarizáció: | legalább | 99,5 °Z(2) |
-
-| b) invertcukor-tartalom: | legfeljebb | 0,1 tömegszázalék |
-
-| c) szárítási tömegveszteség: | legfeljebb | 0,1 tömegszázalék |
-
-(2) °Z: A Nemzetközi Cukorskála egysége. 100 °Z egyenlő 26,000 g levegőben mért tömegű tiszta szacharóz desztillált vízzel 20 °C-on 100,00 cm3-re feltöltött oldatának optikai forgatásával.
-
-2. Kristálycukor (cukor vagy fehércukor)(1)
-
-Tisztított és kristályosított szacharóz, egynemű, szemcsés, az alábbi jellemzőkkel:
-
-| a) polarizáció: | legalább | 99,7 °Z |
-
-| b) invertcukor-tartalom: | legfeljebb | 0,04 tömegszázalék |
-
-| c) szárítási tömegveszteség: | legfeljebb | 0,06 tömegszázalék |
-
-| d) értékpont szilárdszínre: | legfeljebb | 9, a B) rész a) pontja szerint meghatározva |
-
-3. Finomított kristálycukor (extra fehércukor)(1)
-
-Olyan termék, amelynek jellemzői megfelelnek a 2. a), b) és c) pontban megadott követelményeknek, és a melléklet B) része alapján számított értékpontok összege nem haladja meg a 8-at, ezen belül:
-
-| a) értékpont szilárdszínre: | legfeljebb | 4 |
-
-| b) értékpont hamutartalomra: | legfeljebb | 6 |
-
-| c) értékpont oldatban mért színre: | legfeljebb | 3 |
-
-4. Cukoroldat[^(3)]
-
-Szacharóz vizes oldata, az alábbi jellemzőkkel:
-
-| a) szárazanyag-tartalom: | legalább | 62 tömegszázalék |
-
-| b) invertcukor-tartalom (fruktóz-dextróz hányados: 1,0 ±0,2): | legfeljebb | 3 tömegszázalék szárazanyagra számítva |
-
-| c) vezetőképesség-méréssel meghatározott hamu: | legfeljebb | 0,1 tömegszázalék szárazanyagra számítva, a B) rész b) pontja szerint meghatározva |
-
-| d) szín oldatban: | legfeljebb | 45 ICUMSA-egység |
-
-5. Invertcukor-oldat[^(4)]
-
-Hidrolízissel részben invertált szacharóz vizes oldata, amely esetleg kristályos részt is tartalmaz, és amelyben az invertcukor nincs túlsúlyban, az alábbi jellemzőkkel:
-
-| a) szárazanyag-tartalom: | legalább | 62 tömegszázalék |
-
-| b) invertcukor-tartalom (fruktóz-dextróz hányados: 1,0 ±0,1): |  | 3–50 tömegszázalék szárazanyagra számítva |
-
-| c) vezetőképesség-méréssel meghatározott hamu: | legfeljebb | 0,4 tömegszázalék szárazanyagra számítva, a B) rész b) pontja szerint meghatározva |
-
-6. Invertcukor-szirup(4)
-
-Hidrolízissel részben invertált szacharóz esetleg kristályos részt is tartalmazó vizes oldata, amelyben az invertcukor van túlsúlyban, az alábbi jellemzőkkel:
-
-| a) szárazanyag-tartalom: | legalább | 62 tömegszázalék |
-
-| b) invertcukor-tartalom (fruktóz-dextróz hányados: 1,0 ±0,1): | több mint | 50 tömegszázalék szárazanyagra számítva |
-
-| c) vezetőképesség-méréssel meghatározott hamu: | legfeljebb | 0,4 tömegszázalék szárazanyagra számítva, a B) rész b) pontja szerint meghatározva |
-
-7. Glükózszirup
-
-Keményítőből és/vagy inulinból előállított étkezési szacharidok tisztított és koncentrált vizes oldata az alábbi jellemzőkkel:
-
-| a) szárazanyag-tartalom: | legalább | 70 tömegszázalék |
-
-| b) dextróz-egyenérték (DE): | legalább | 20 tömegszázalék szárazanyagra számítva és D-glükózban kifejezve |
-
-| c) szulfáthamu: | legfeljebb | 1 tömegszázalék szárazanyagra számítva |
-
-8. Szárított glükózszirup
-
-Részben szárított glükózszirup, az alábbi jellemzőkkel:
-
-| a) szárazanyag-tartalom: | legalább | 93 tömegszázalék |
-
-| b) dextróz-ekvivalens (DE): | legalább | 20 tömegszázalék szárazanyagra számítva és D-glükózban kifejezve |
-
-| c) szulfáthamu: | legfeljebb | 1 tömegszázalék szárazanyagra számítva |
-
-9. Dextróz vagy dextróz-monohidrát
-
-Tisztított és kristályosított, egy molekula kristályvizet tartalmazó D-glükóz az alábbi jellemzőkkel:
-
-| a) dextróz(D-glükóz)-tartalom: | legalább | 99,5 tömegszázalék szárazanyagra számítva |
-
-| b) szárazanyag-tartalom: | legalább | 90,0 tömegszázalék |
-
-| c) szulfáthamu: | legfeljebb | 0,25 tömegszázalék szárazanyagra számítva |
-
-10. Dextróz vagy vízmentes dextróz (dextróz anhidrid)
-
-Tisztított és kristályosított, kristályvizet nem tartalmazó D-glükóz, az alábbi jellemzőkkel:
-
-| a) dextróz(D-glükóz)-tartalom: | legalább | 99,5 tömegszázalék szárazanyagra számítva |
-
-| b) szárazanyag-tartalom: | legalább | 98 tömegszázalék |
-
-| c) szulfáthamu: | legfeljebb | 0,25 tömegszázalék szárazanyagra számítva |
-
-11. Fruktóz
-
-Tisztított és kristályosított D-fruktóz az alábbi jellemzőkkel:
-
-| a) fruktóztartalom: | legalább | 98 tömegszázalék szárazanyagra számítva |
-
-| b) glükóztartalom: | legfeljebb | 0,5 tömegszázalék |
-
-| c) szárítási tömegveszteség: | legfeljebb | 0,5 tömegszázalék |
-
-| d) vezetőképesség-méréssel meghatározott hamu: | legfeljebb | 0,1 tömegszázalék szárazanyagra számítva, a B) rész b) pontja szerint meghatározva |
-
-B) A szilárdszín, hamu, oldatban mért szín értékpontjainak meghatározása
-
-Egy értékpont megfelel:
-
-a) szilárdszín esetén 0,5 etalonegységnek, az intervenciós hivatalok által felvásárolt cukor minőségének meghatározására szolgáló módszerek megállapításáról szóló, 1969. július 1-jei 1265/69/EGK bizottsági rendelet (a továbbiakban: 1265/69/EGK rendelet) melléklete A. fejezetének, 2. pontja szerint meghatározva;
-
-b) hamu esetében 0,0018%-nak, az 1265/69/EGK rendelet melléklete A. fejezetének 1. pontja szerint meghatározva;
-
-c) oldatban mért szín esetén 7,5 ICUMSA-egységnek, az 1265/69/EGK rendelet melléklete A. fejezetének 3. pontja szerint meghatározva.
-
-Az 56/2004. (IV. 24.) FVM rendelet mellékletének 43. sorszámú előírása[^23]
-
-Az 56/2004. (IV. 24.) FVM rendelet mellékletének 44. sorszámú előírása[^24]
-
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–2001/113 számú előírás
-
-(2. kiadás – 2006.)
-
-Az emberi fogyasztásra szánt gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrém
-
-1. §
-
-Az előírás az 1. számú mellékletben meghatározott termékekre vonatkozik, de nem terjed ki a finom pékáruk, sütemények, tartós lisztesáruk előállításához felhasznált termékekre.
-
-2. §
-
-(1) Az élelmiszerekre vonatkozó általános előírásokon túl, ezt az előírást az 1. számú mellékletben meghatározott termékekre az e §-ban foglalt feltételekkel kell alkalmazni.
-
-(2) Az 1. számú mellékletben felsorolt termékmegnevezések csak az oda besorolt termékekre alkalmazhatók, és azok kizárólag a megfelelő megnevezéssel kerülhetnek forgalomba. Az 1. számú mellékletben feltüntetett megnevezések kiegészíthetők a gyakorlatban használt más megnevezésekkel is, amelyek azonban nem téveszthetők össze az 1. számú mellékletben felsoroltakkal.
-
-(3) A termék megnevezésében fel kell tüntetni az előállításához felhasznált gyümölcs(ök) nevét, a bemért tömegük szerinti csökkenő sorrendben. Három- vagy többféle gyümölcs alapanyag felhasználása esetén a termék megnevezésében szereplő gyümölcsök felsorolása helyett a „Vegyes gyümölcs” vagy ehhez hasonló kifejezés, vagy a felhasznált gyümölcsök számszerű megadása használható.
-
-(4) A termékjelölésnek tartalmaznia kell a gyümölcstartalomra utaló kifejezést a „Készült ... g gyümölcs/100 g” feltüntetésével, ahol a végtermékre vonatkoztatva kell megadni a mennyiségeket. A gyümölcstartalom alatt a termék gyártásához felhasznált gyümölcs mennyiségét kell érteni, a kivonat készítéséhez felhasznált víz nélkül.
-
-(5) A jelölésnek tartalmaznia kell: „Összes cukortartalom ...... g/100 g”, ahol a késztermékben 20 °C-on, refraktométerrel, ± 3 ref.% pontossággal meghatározott értéket kell feltüntetni. A cukortartalmat azonban nem szükséges feltüntetni abban az esetben, ha a Magyar Élelmiszerkönyvnek az élelmiszerek tápérték jelöléséről szóló 1–1–90/496 számú előírása szerinti tápértékjelölésben ez szerepel.
-
-(6) A (4) és (5) bekezdés szerinti jelöléseket a termék nevével azonos látómezőben, jól láthatóan kell feltüntetni.
-
-(7) A termék kén-dioxid-tartalmát 10 mg/kg-ot meghaladó mennyiség esetén a termék összetevőinek felsorolásában is meg kell adni.
-
-3. §
-
-Az 1. számú mellékletben meghatározott termékekhez csak a 2. számú mellékletben felsorolt összetevők és a 3. számú mellékletben megadott nyersanyagok használhatók fel, a Magyar Élelmiszerkönyvnek az élelmiszerekhez engedélyezett adalékanyagok általános előírásairól szóló 1–2–89/107 számú előírás és ennek hatékonyabb alkalmazását szolgáló, a Magyar Élelmiszerkönyvnek az adalékanyagokra vonatkozó részletes előírásai betartása mellett.
-
-4. §
-
-Ez az előírás 2007. január 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek a gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrémről szóló 1–3–2001/113 számú előírása 2002-ben jóváhagyott 1. kiadása hatályát veszti.
-
-5. §
-
-Ez az előírás az emberi fogyasztásra szánt gyümölcsdzsemekről, zselékről, marmeládokról és a cukrozott gesztenyekrémről szóló, 2001. december 20-i 2001/113/EK tanácsi irányelvnek való megfelelést szolgálja.
-
-1. számú melléklet
-
-az 1–3–2001/113 számú előíráshoz
-
-A termékek megnevezései, meghatározásai
-
-és jellemzői
-
-1. A termékek meghatározásai
-
-– A „dzsem” cukor, pulp és/vagy egy- vagy többfajta gyümölcspüré és víz megfelelő kocsonyás állományú keveréke.
-
-A citrusdzsem előállítható egész, csíkozott és/vagy szeletelt gyümölcsből is.
-
-1000 g késztermék pulp- és/vagy gyümölcspüré-tartalma nem lehet kevesebb mint
-
-= 350 g általános szabályként,
-
-= 250 g piros ribiszke, madárberkenye, homoktövis, fekete ribiszke, csipkebogyó és birsalma esetében,
-
-= 150 g gyömbér esetében,
-
-= 160 g kasualma esetében,
-
-= 60 g passiógyümölcs esetében.
-
-= Az „extradzsem” cukor, egy- vagy többféle sűrítetlen gyümölcspulp és víz megfelelően zselés állapotú keveréke. A csipkebogyó, a mag nélküli málna, fekete szeder, fekete ribiszke, áfonya és piros ribiszke extradzsem előállítható az adott gyümölcsből készített sűrítetlen püréből is. A citrus extradzsem előállítható egész, csíkozott és/vagy szeletelt gyümölcsből is.
-
-Alma, körte, szilva, sárgadinnye, görögdinnye, szőlő, sütőtök, uborka és paradicsom más gyümölccsel keverve nem használható extradzsem előállításához.
-
-1000 g késztermék pulptartalma nem lehet kevesebb, mint:
-
-= 450 g általános szabályként,
-
-= 350 g piros ribiszke, madárberkenye, homoktövis, fekete ribiszke, csipkebogyó és birsalma esetében,
-
-= 250 g gyömbér esetében,
-
-= 230 g kasualma esetében,
-
-= 80 g passiógyümölcs esetében.
-
-– A „zselé” cukor, gyümölcslé és/vagy egy- vagy többféle gyümölcs vizes kivonatának megfelelően zselés keveréke.
-
-1000 g késztermék előállításához felhasznált gyümölcslé és/vagy vizes kivonat mennyisége nem lehet kevesebb mint a dzsem előállításához előírt mennyiség. Ezeket a mennyiségeket a kivonat készítéséhez felhasznált víz mennyisége nélkül kell számítani.
-
-– ,,Extrazselé” esetében az 1000 g késztermék előállításához felhasznált gyümölcslé és/vagy vizes kivonat mennyisége nem lehet kevesebb, mint az extradzsem előállításához előírt mennyiség. Ezeket a mennyiségeket a kivonat készítéséhez felhasznált víz mennyisége nélkül kell számítani. Alma, körte, szilva, sárgadinnye, görögdinnye, szőlő, sütőtök, uborka és paradicsom más gyümölccsel keverve nem használható az extrazselé előállításához.
-
-– A „marmelád” víz, cukor és meghatározott citrustermékek (pulp, püré, lé, vizes kivonat és héj) megfelelően zselés állományú keveréke. 1000 g késztermék előállításához felhasznált citrusgyümölcs mennyisége nem lehet kevesebb mint 200 g, amelyből legalább 75 g-nak az endokarpiumból kell származnia. A ’zselémarmelád’ megnevezés abban az esetben alkalmazható, amikor a termék nem tartalmaz oldhatatlan részeket, kivéve a kis mennyiségű finoman szeletelt héjat.
-
-– A „cukrozott gesztenyekrém” víz, cukor és legalább 380 g gesztenye (Castanea sativa) keveréke 1000 g késztermékre számítva.
-
-2. Az 1. pontban meghatározott termékek szárazanyag-tartalma legalább 60% refraktométerrel mérve, kivéve azokat a termékeket, amelyek esetében a cukrot részben vagy teljesen édesítőszerrel helyettesítették.
-
-Az élelmiszerek jelölésére vonatkozó általános előírások betartása mellett egyes speciális, külön meghatározott esetekben az első részben meghatározott termékekre fenntartott megnevezések 60%-nál kisebb refrakciójú termékekre is alkalmazhatók.
-
-3. Többféle gyümölcsből készült termék esetében az 1. pontban meghatározott minimális gyümölcstartalmakat az egyes gyümölcsfélékre a százalékban megadott mennyiségük arányában kell alkalmazni.
-
-2. számú melléklet
-
-az 1–3–2001/113 számú előíráshoz
-
-Felhasználható összetevők
-
-Az 1. számú mellékletben felsorolt termékekhez a következő kiegészítő összetevők használhatók:
-
-– a Magyar Élelmiszerkönyvnek a mézről szóló 1–3–2001/110 számú előírása szerinti méz: valamennyi termékhez, mint a cukrok teljes vagy részbeni helyettesítője,
-
-– gyümölcslé: csak a dzsemekhez,
-
-– citrus gyümölcslé: más gyümölcstípusokból előállított termék esetében: csak a dzsemek, extradzsemek, zselék és extrazselék esetében,
-
-– piros gyümölcsök leve: csak a következő gyümölcsökből előállított dzsemhez vagy extradzsemhez: csipkebogyó, szamóca, málna, egres, piros ribiszke, szilva és rebarbara,
-
-– céklalé: csak a következő gyümölcsökből készült dzsemhez és zseléhez: szamóca, málna, egres, piros ribiszke és szilva,
-
-– citrusfélék illóolaja: csak a marmeládhoz vagy a zselémarmeládhoz,
-
-– étkezési olajok és zsírok: habzásgátlóként valamennyi termékhez,
-
-– pektinoldat: valamennyi termékhez,
-
-– citrushéj: dzsemhez, extradzsemhez, zseléhez és extrazseléhez,
-
-– Pelargonium odoratissimum levele (citromillatú muskátli): birsalmából készült dzsemhez, extradzsemhez, zseléhez, extrazseléhez,
-
-– alkohol, bor és likőrbor, dió, mogyoró és mandula, aromás növények, fűszerek, vanília és vaníliakivonat: minden termékhez,
-
-– vanillin: minden termékhez.
-
-3. számú melléklet
-
-az 1–3–2001/113 számú előíráshoz
-
-Felhasználható nyersanyagok
-
-A) A nyersanyagok meghatározása
-
-1. Gyümölcs:
-
-– friss, egészséges, megfelelően érett, ép, valamennyi hasznos összetevőjét tartalmazó gyümölcs a szennyező anyagok és a feldolgozásra nem megfelelő részek eltávolítása után,
-
-– ezen előírás szempontjából a paradicsom, a rebarbara levélnyelének ehető része, a sárgarépa, az édesburgonya (Batata), az uborka, a sütőtök és a dinnyefélék is gyümölcsnek számítanak,
-
-– a gyömbér (Zingiber officinale) a növény ehető részét jelenti friss állapotban vagy tartósítva. A gyömbér lehet szárított vagy szirupban tartósított.
-
-2. (Gyümölcs)pulp:
-
-A gyümölcs ehető része, esetenként a héj, illetve a bőr, a magok és a hasonló részek nélkül, szeletelve vagy zúzva, de nem szitán áttörve.
-
-3. (Gyümölcs)püré:
-
-A gyümölcs ehető része, szükség szerint a héj, illetve a bőr, a magok és a hasonló részek nélkül, melyet szitán áttörve vagy hasonló művelettel nyernek.
-
-4. Vizes (gyümölcs)kivonat:
-
-A vizes gyümölcskivonat a szükségszerűen fellépő veszteségektől eltekintve tartalmazza a felhasznált gyümölcs valamennyi vízben oldható összetevőjét.
-
-5. Cukor:
-
-Az engedélyezett cukrok a következők:
-
-– a Magyar Élelmiszerkönyvnek az emberi fogyasztásra szánt egyes cukortermékekről szóló 1–3–2001/111 számú előírása szerinti cukor,
-
-– fruktózszirup,
-
-– gyümölcsből kivont cukrok,
-
-– barna cukor.
-
-B) A nyersanyagok kezelése
-
-1. Az A) rész 1., 2., 3. és 4. pontjai szerinti nyersanyagok a következő módon kezelhetők:
-
-– hőkezelés, hűtés vagy fagyasztás,
-
-– fagyasztva szárítás,
-
-– sűrítés, technológiailag lehetséges mértékben,
-
-– az „extra” megjelölésű termékek gyártásához használt alapanyagok kivételével: kén-dioxid (E 220) vagy sóinak (E 221, E 222, E 223, E 224, E 226 és E 227) hozzáadása a Magyar Élelmiszerkönyvnek az élelmiszerekben használható adalékanyagok, az édesítőszerek és a színezékek kivételével című 1–2–95/2 számú előírása szerint.
-
-2. A dzsem előállításához felhasznált sárgabarack és szilva a fagyasztva szárításon kívül más módon is vízteleníthető.
-
-3. A citrushéj sós lében is tartósítható.
-
-Az 56/2004. (IV. 24.) FVM rendelet mellékletének 45. sorszámú előírása[^25]
-
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1–3–2001/114 számú előírás
-
-(2. kiadás – 2006.)
-
-Részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékek
-
-(Sűrített tej és tejpor)
-
-1. §
-
-Ez az előírás az 1. számú mellékletben meghatározott, részben vagy teljesen dehidratált tartós tejtermékekre (sűrített tej és tejpor) vonatkozik.
-
-2. §
-
-Az 1. számú mellékletben meghatározott termékekhez a Magyar Élelmiszerkönyv élelmiszerek tápérték jelölésére vonatkozó 1–1–90/496 számú előírás (a továbbiakban: 1–1–90/496 számú előírás) rendelkezéseinek betartásával, vitaminok hozzáadása megengedett.
-
-3. §
-
-(1) Az 1. számú mellékletben felsorolt élelmiszerekre az általános jelölési előírásokon túlmenően e §-ban foglaltakat is alkalmazni kell.
-
-(2) Az 1. számú mellékletben felsorolt megnevezések csak az ott meghatározott termékekre alkalmazhatók és azokat – a (3) bekezdésben felsorolt esetek kivételével – változtatás nélkül kell alkalmazni a forgalomba hozott termékek megnevezésére és megjelölésére.
-
-(3) Az 1. számú mellékletben felsorolt megnevezések helyett a 2. számú mellékletben felsorolt megnevezések az ott megjelölt nyelven és feltételek mellett használhatóak.
-
-(4) A termék jelölésében fel kell tüntetni a végtermék tömegére vonatkoztatott tejzsírtartalmat százalékban (m/m) kifejezve, kivéve az 1. számú melléklet 1. d) és g), valamint 2. d) pontjaiban meghatározott termékeket, továbbá fel kell tüntetni a tejeredetű zsírmentes szárazanyag-tartalmat az 1. számú melléklet 1. pontjában meghatározott termékek esetében. Ezeket az adatokat a termék megnevezésének közelében kell feltüntetni.
-
-(5) Az 1. számú melléklet 2. pontjában feltüntetett termékek jelölésében meg kell adni a hígítás vagy az eredeti állapot visszaállításának módjára vonatkozó ajánlásokat, továbbá az így hígított vagy visszaállított termékek zsírtartalmát.
-
-(6) Ha a terméket 20 g-nál kisebb tömegű egyedi csomagolásba, majd gyűjtőcsomagolásba helyezik, az ebben a paragrafusban előírt külön jelöléseket csak a gyűjtőcsomagoláson kell feltüntetni, kivéve a (2) bekezdésben előírtakat.
-
-(7) Az 1. számú melléklet 2. pontja szerinti termékek jelölésében fel kell tüntetni, hogy a termékek 12 hónapnál fiatalabb csecsemők élelmezésére nem ajánlottak.
-
-4. §
-
-(1) Ez az előírás 2006. szeptember 1-jén lép hatályba.
-
-(2) Ezen előírás hatálybalépésével a Magyar Élelmiszerkönyv 1–3–2001/114 számú előírásának 2003-ban jóváhagyott 1. kiadása hatályát veszti.
-
-5. §
-
-Ez az előírás az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló, 2001. december 20-i 2001/114/EK tanácsi irányelvnek, valamint az azt módosító, a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló Okmánynak való megfelelést szolgálja.
-
-1. számú melléklet az 1–3–2001/114 számú előíráshoz
-
-A termékek meghatározásai és megnevezései
-
-1. Részben dehidratált tej (sűrített tej)
-
-Ez a megnevezés azt az édesített vagy nem édesített folyékony termékcsoportot jelöli, amelyet részleges vízelvonással közvetlenül nyernek tejből, teljesen vagy részben fölözött tejből, vagy ezek keverékéből, amely tartalmazhat még hozzáadott tejszínt vagy teljesen dehidratált tejet (tejport) vagy mindkettőt, amelyben a hozzáadott teljesen dehidratált tej aránya a késztermék tejeredetű szárazanyag-tartalmának legfeljebb 25% (m/m)-a lehet.
-
-– A cukrozatlan sűrített tej típusai:
-
-a) Nagy zsírtartalmú sűrített tej
-
-Részben dehidratált tej, amelynek zsírtartalma legalább 15% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 26,5% (m/m).
-
-b) Sűrített tej
-
-Részben dehidratált tej, amelynek zsírtartalma legalább 7,5% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 25% (m/m).
-
-c) Félzsíros sűrített tej vagy részben fölözött sűrített tej
-
-Részben dehidratált tej, amelynek zsírtartalma legalább 1% (m/m), de legfeljebb 7,5% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 20% (m/m).
-
-d) Sovány sűrített tej
-
-Részben dehidratált tej, amelynek zsírtartalma legfeljebb 1% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 20% (m/m).
-
-– A cukrozott sűrített tej típusai:
-
-e) Cukrozott sűrített tej
-
-Részben dehidratált tej, amely cukor (félfehér kristálycukor, kristálycukor, finomított kristálycukor) felhasználásával készül, és amelynek zsírtartalma legalább 8% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 28% (m/m).
-
-f) Félzsíros cukrozott sűrített tej vagy részben fölözött cukrozott sűrített tej
-
-Részben dehidratált tej, amely cukor (félfehér kristálycukor, kristálycukor, finomított kristálycukor) felhasználásával készül, és amelynek zsírtartalma legalább 1% (m/m), de legfeljebb 8% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 24% (m/m).
-
-g) Sovány cukrozott sűrített tej
-
-Részben dehidratált tej, amely cukor (félfehér kristálycukor, kristálycukor, finomított kristálycukor) felhasználásával készül, és amelynek zsírtartalma legfeljebb 1% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 24% (m/m).
-
-2. Teljesen dehidratált tej (tejpor)
-
-Ez a megnevezés azt a szilárd termékcsoportot jelöli, amelynek víztartalma a végtermékben legfeljebb 5% (m/m), és amelyet a víztartalom elvonásával közvetlenül nyernek tejből, teljesen vagy részben fölözött tejből, tejszínből vagy ezek keverékéből.
-
-a) Nagy zsírtartalmú tejpor vagy szárított nagy zsírtartalmú tej
-
-Dehidratált tej, amelynek zsírtartalma legalább 42% (m/m).
-
-b) Zsíros vagy teljes tejpor vagy szárított zsíros, illetve teljes tej
-
-Dehidratált tej, amelynek zsírtartalma legalább 26% (m/m), de kevesebb mint 42% (m/m).
-
-c) Félzsíros tejpor vagy szárított félzsíros tej, illetve részben fölözött félzsíros tej
-
-Dehidratált tej, amelynek zsírtartalma több mint 1,5% (m/m), de kevesebb mint 26% (m/m).
-
-d) Sovány tejpor vagy szárított sovány tej
-
-Dehidratált tej, amelynek zsírtartalma legfeljebb 1,5% (m/m).
-
-3. Gyártási előírások
-
-a) Az 1. pont e)–g) alpontjaiban meghatározott termékek gyártásához a végtermékre vonatkoztatva legfeljebb 0,03% (m/m) tejcukor hozzáadása megengedett.
-
-b) Az 1. és 2. pontokban meghatározott termékek tartósítása – a nyers tej, a hőkezelt tej és a tejalapú termékek előállítására és forgalmazására vonatkozó higiéniai előírások maradéktalan betartásával – a következő kezelésekkel történik:
-
-– hőkezeléssel (sterilezés, UHT stb.) az 1. pont a)–d) alpontjaiban meghatározott termékek esetében,
-
-– cukor (szacharóz) hozzáadásával az 1. pont e)–g) alpontjaiban meghatározott termékeknél,
-
-– vízelvonással (dehidratálással) a 2. pontban meghatározott termékeknél.
-
-4. Engedélyezett egyéb anyagok
-
-A jelen mellékletben meghatározott termékek gyártásához ezen előírás 2. §-a értelmében vitaminok hozzáadása – az 1–1–90/496 számú előírás rendelkezéseinek betartásával – megengedett.
-
-2. számú melléklet az 1–3–2001/114 számú előíráshoz
-
-Az 1. számú mellékletben felsorolt egyes termékek különleges megnevezése
-
-a) Az angol „evaporated milk” kifejezés azt az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti, amely legalább 9% (m/m) zsírt és legalább 31% (m/m) összes tejeredetű szárazanyagot tartalmaz.
-
-b) A francia „lait demi-écrémé concentré” és „lait demi-écrémé concentré non sucré”, a spanyol „leche evaporada semidesnatada”, a holland „geevaporeerde halfvolle melk” vagy „halfvolle koffiemelk” és az angol „evaporated semi-skimmed milk” kifejezések azokat az 1. számú melléklet 1. pont c) alpontjában meghatározott termékeket jelentik, amelyek zsírtartalma 4 és 4,5% (m/m) között van és szárazanyag-tartalmuk legalább 24% (m/m).
-
-c) A dán „kondenseret kaffeflrde” és a német „kondensierte Kaffeesahne” kifejezések az 1. számú melléklet 1. pont a) alpontjában meghatározott terméket jelentik.
-
-d) A dán „flrdepulver”, a német „Rahmpulver” és „Sahnepulver”, a francia „créme en poudre”, a holland „roompoeder”, a svéd „gräddpulver” és a finn „kermajauhe” kifejezések az 1. számú melléklet 2. pont a) alpontjában meghatározott terméket jelentik.
-
-e) A francia „lait demi-écrémé concentré sucré”, a spanyol „leche condensada semidesnatada”, a holland „gecondenseerde halfvolle melk met suiker” kifejezések azokat az 1. számú melléklet 1. pont f) alpontjában meghatározott termékeket jelentik, amelyeknek a zsírtartalma 4 és 4,5% (m/m) között van és a tejeredetű szárazanyag-tartalma legalább 28% (m/m).
-
-f) A francia „lait demi-écrémé en poudre”, a holland „halfvolle melkpoeder” és az angol „semi-skimmed milk powder” vagy „dried semi-skimmed milk” kifejezések azokat az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelentik, amelyek zsírtartalma 14 és 16% (m/m) között van.
-
-g) A portugál „leite em pó meio gordo” kifejezés azt az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek a zsírtartalma 13 és 26% (m/m) között van.
-
-h) A holland „koffiemelk” kifejezés az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti.
-
-i) A finn „rasvaton maitojauhe” kifejezés az 1. számú melléklet 2. pont d) alpontjában meghatározott terméket jelenti.
-
-j) A spanyol „leche en polvo semidesnatada” kifejezés az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 10 és 16% (m/m) között van.
-
-k) A máltai „halib evaporat” kifejezés az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti.
-
-l) A máltai „halib evaporat b’kontenut baxx ta’ xaham” kifejezés az 1. számú melléklet 1. pont c) alpontjában meghatározott terméket jelenti.
-
-m) Az észt „koorepulber” az 1. számú melléklet 2. pont a) alpontjában meghatározott terméket jelenti.
-
-n) Az észt „piimapulber” az 1. számú melléklet 2. pont b) alpontjában meghatározott terméket jelenti.
-
-o) Az észt „väherasvane kondenspiim” az 1. számú melléklet 1. pont c) alpontjában meghatározott terméket jelenti.
-
-p) Az észt „magustatud väherasvane kondenspiim” az 1. számú melléklet 1. pont f) alpontjában meghatározott terméket jelenti.
-
-q) Az észt „väherasvane piimapulber” az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti.
-
-r) A cseh „zahuštěná neslazená smetana” az 1. számú melléklet 1. pont a) alpontjában meghatározott terméket jelenti.
-
-s) A cseh „zahuštěné neslazené plnotučné mléko” az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti.
-
-t) A cseh „zahuštěné neslazené polotučné mléko” az 1. számú melléklet 1. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 4 és 4,5% (m/m) között van.
-
-u) A cseh „zahuštěné neslazené plnotučné mléko” az 1. számú melléklet 1. pont e) alpontjában meghatározott terméket jelenti.
-
-v) A cseh „zahuštěné neslazené polotučné mléko” az 1. számú melléklet 1. pont f) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 4 és 4,5% (m/m) között van.
-
-w) A cseh „sušená smetana” az 1. számú melléklet 2. pont a) alpontjában meghatározott terméket jelenti.
-
-x) A cseh „sušené polotučné mléko” az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 14 és 16% (m/m) között van.
-
-Az 56/2004. (IV. 24.) FVM rendelet mellékletének 48. sorszámú előírása[^26]
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 48. sorszámú előírása[^24]
 
 MAGYAR ÉLELMISZERKÖNYV
 
@@ -5314,8 +4172,1284 @@ A szűrlet inverzió előtti és utáni forgatóképességéből számítjuk ki 
 
 4.1. Cink-acetát oldat, 1 mólos: 21,9 g kristályos cink-acetátot (Zn(C2H3O2)2 . 2H2O) és 3 ml jégecetet vízzel 100 ml-re feltöltünk.
 
+4.2. Kálium-hexaciano-ferrát/II/ oldat 0,25 mólos : 10,6 g kristályos kálium-hexaciano-ferrát/II/-ot (K4(Fe(CN)6) . 3H2O vízzel 100 ml-re feltöltünk.
+
+4.3. Sósav-oldat, 6,35 + 0,20 mólos (20–22%), vagy 5,0 + 0,2 mólos (16–18%)
+
+4.4. Ammónia-oldat, 2,0 + 0,2 mólos, kb. 3,5% (m/m)
+
+4.5. Ecetsav-oldat, 2,0 + 0,2 mólos, 12% (m/m)
+
+4.6. Brómtimolkék-indikátor 1%-os (m/v) etanolos oldata.
+
+5. Eszközök
+
+5.1. Mérleg, 10 mg-os pontosságú
+
+5.2. Polarimétercső, 2 dm-es, pontosan kalibrált hosszúságú
+
+5.3. Polariméter vagy szachariméter:
+
+a) polariméter nátriumfénnyel vagy zöld higanyfénnyel (higanygőzlámpa prizmával vagy speciális Wrattenszűrővel Nr. 77A), legalább 0,05 szögfok leolvasási pontossággal,
+
+b) szachariméter nemzetközi cukorskálával, 6%-os kálium-bikromát oldat 15 mm vastag szűrőjén átvezetett fehér fénnyel vagy nátriumfénnyel. A nemzetközi cukorskálán a leolvasási pontosság legalább 0,1 fok legyen.
+
+5.4. Vízfürdő, 60±1 °C-ra beállítható.
+
+6. A vizsgálat menete
+
+6.1. Ellenőrző vizsgálat
+
+A módszer, a reagensek és a készülékek ellenőrzésére a következő módszerrel kettős ellenőrző vizsgálatot végzünk 100 g tej, vagy 110 g soványtej és 18,00 g tiszta szacharóz felhasználásával. Ez a keverék 40,00 g 45% szacharóztartalmú sűrített tejnek felel meg. A cukortartalmat a 7. pontban megadott képlettel számítjuk ki, ahol az 1. képletben szereplő M, F és P a bemért tejmennyiséget, a tej zsír- és fehérjetartalmát jelenti, a 2. képletben szereplő M helyére 40,00 számot kell beírni. A megállapított értékek középértéke a tényleges 45%-tól legfeljebb 0,2%-kal térhet el.
+
+6.2. Meghatározás
+
+6.2.1. A jól összekevert mintából kb. 40 g-ot 10 mg pontossággal 100 ml térfogatú főzőpohárba mérünk. 50 ml forróvizet (80–90 °C) adunk hozzá és alaposan összekeverjük.
+
+6.2.2. A keveréket 200 ml-es mérőlombikba maradéktalanul áttöltjük és a főzőpoharat kis mennyiségű desztillált vízzel többször átöblítjük. A desztillált víz hőmérséklete 60 °C, összes térfogata 120–150 ml legyen. Összekeverjük és szobahőfokra hűtjük.
+
+6.2.3. 5 ml hígított ammónia-oldatot (4.4.) adunk hozzá, újra összekeverjük és 15 percig állni hagyjuk.
+
+6.2.4. Az ammóniát ekvivalens mennyiségű ecetsav-oldat (4.5.) hozzáadásával semlegesítjük. Előzetesen a pontos mennyiséget az ammónia-oldat brómtimolkék indikátor (4.6.) jelenlétében történő titrálásával állapítjuk meg. Összekeverjük az oldatot.
+
+6.2.5. 12,5 ml cink-acetát oldatot (4.1.) adunk hozzá, miközben a megdöntött lombikot körkörösen forgatjuk.
+
+6.2.6. Az acetát-oldat adagolásával azonos módon 12,5 ml kálium-hexaciano-ferrát (4.2.) oldatot adunk hozzá.
+
+6.2.7. A lombik tartalmát 20 °C-ra beállítjuk és 20 °C-os vízzel a 200 ml-es jelig töltjük.
+
+Megjegyzés:
+
+Eddig a műveletig a víz vagy a reagensek adagolását úgy kell végezni, hogy a légbuborékok képződését elkerüljük. Ugyanebből a célból minden keverést a lombik óvatos körkörös forgatásával és nem rázogatással kell végezni. A 200 ml végtérfogatra való feltöltést megelőzően keletkezett légbuborékokat a lombikra kapcsolt vákuumszivattyúval és a lombik körkörös mozgatásával távolítjuk el.
+
+6.2.8. A lombikot száraz dugóval lezárjuk, és erős rázással alaposan összekeverjük.
+
+6.2.9. Néhány percig állni hagyjuk, majd száraz szűrőpapíron átszűrjük, a szürlet első 25 ml-ét kiöntjük.
+
+6.2.10. Közvetlen polarizáció: meghatározzuk a szürlet optikai forgatóképességét 20±1 °C-on.
+
+6.2.11. Inverzió: az előbbiek szerint nyert szürletből 40 ml-t 50 ml-es mérőlombikba pipettázunk. 6,0 ml 6,35 mólos vagy 7,5 ml 5,0 mólos sósavat (4.3.) adunk hozzá.
+
+A lombikot 15 percre 60 °C-os vízfürdőbe állítjuk úgy, hogy a lombik a nyakáig belemerüljön. Az első 5 percben körkörös mozgatással keverjük, ezalatt a lombik tartalmának el kell érnie a vízfürdő hőmérsékletét. 20 °C-ra lehűtjük és 20 °C-os vízzel a 50 ml-es jelig feltöltjük. Összekeverjük és ezen a hőmérsékleten 1 órán keresztül állni hagyjuk.
+
+6.2.12. Inverzió utáni polarizáció
+
+Az invertált oldat forgatóképességét 20±0,2 °C-on mérjük. (Ha a polarizálócsőben a folyadék hőmérséklete több mint 0,2 °C-kal eltér a 20 °C-tól, akkor a 7.2. pontban megadott hőmérsékletkorrekciót kell alkalmazni.)
+
+7. Az eredmények kiszámítása
+
+7.1. Számítás
+
+A szacharóztartalom kiszámítását a következő képletek szerint végezzük:
+
+| 1. v= | M | ⋅ (1,08F+1,55P) |
+
+| 100 |
+
+| 2. S= | D–1,25I | ⋅ | V–v | ⋅ | V | % |
+
+| Q | V | L ⋅ M |
+
+ahol:
+
+S = szacharóztartalom,
+
+M = a bemért minta tömege g-ban,
+
+F = a minta zsírtartalma %-ban,
+
+P = a minta fehérjetartalma (N×6,38) %-ban,
+
+V = az a térfogat ml-ben, amire a mintát a szűrés előtt felhígítjuk,
+
+v = a szűréskor képződött csapadék térfogat korrekciója ml-ben,
+
+D = a közvetlen polarizációs érték (az inverzió előtti polarizáció),
+
+I = az inverzió utáni polarizációs érték,
+
+L = a polarimétercső hossza dm-ben,
+
+Q = inverziós faktor, amelynek az értékére a következőkben térünk ki.
+
+Megjegyzések:
+
+a) Ha pontosan 40,00 g sűrített tejet mértünk be, és nátriumlámpás polariméter szögfokot és 2 dm-es polarimétercsövet használunk 20±0,1 °C-on, akkor a normál sűrített tej (C=9) szacharóztartalmát a következő képlettel számítjuk ki:
+
+S = (D–1,25 I) × (2,833–0,00612 F–0,00878 P)
+
+b) Ha a polarizációt inverzió után a megadott 20 °C-tól (T) eltérő hőmérsékleten mértük, az értéket meg kell szorozni a következő faktorral: [1+0,0037 (T–20)]
+
+7.2. Az inverziós faktor (Q) értéke
+
+A következő képletek megadják a Q pontos értékét különböző fényforrások, különböző koncentrációk és hőmérsékletek esetén:
+
+nátriumfénynél és polariméter szögfokban mérve:
+
+Q = 0,8825+0,0006 (C–9)–0,0033 (T–20),
+
+zöld higanyfénynél és polariméter szögfokban mérve:
+
+Q = 1,0392+0,0007 (C–9)–0,0039 (T–20),
+
+fehér fénynél bikromátszűrővel és nemzetközi cukorskálával ellátott szachariméterrel mérve:
+
+Q = 2,549+0,0017 (C–9)–0,0095 (T–20).
+
+Az előbbi képletekben a betűk jelentése:
+
+C = a polarimetriás mérésnek megfelelő összes cukortartalom az invertált oldatban, százalékban,
+
+T = az invertált oldat hőmérséklete a polarimetriás mérés alatt.
+
+1. megjegyzés:
+
+Az invertált oldatban lévő összes cukortartalmat %-ban (C) a közvetlen polarizációs érték és az inverzió utáni polarizációs érték a szacharóz, laktóz és invertcukor specifikus forgatóképességének normál értékével a szokásos módon lehet kiszámítani.
+
+A 0,0006 (C–9) korrekció csak akkor pontos, ha C kb. = 9, szokásos sűrített tejnél ez a korrekció elhagyható, mivel C 9-hez közel van.
+
+2. megjegyzés:
+
+A 20 °C mérési hőmérséklethez képest 1 °C hőmérséklet eltérés a közvetlen leolvasásban keveset jelent, de az inverzió utáni leolvasásnál a 0,2 °C-nál nagyobb eltérés esetén már korrekcióra van szükség. A 0,0033 (T–20) korrekció stb. csak 18 °C–22 °C között pontos.
+
+8. Ismételhetőség
+
+A párhuzamos vizsgálatok eredményei között, azaz ugyanazon vizsgáló által, ugyanabból a mintából egyidejűleg vagy közvetlenül egymás után végzett vizsgálatok eredménye között a megengedett eltérés legfeljebb 0,3 g szacharóz/100 g termék lehet.
+
+6. módszer: Tejsav és laktáttartalom meghatározás
+
+1. Tárgy és alkalmazási terület
+
+Ezzel a módszerrel a következő termékek tejsav- és laktáttartalmát határozzuk meg:
+
+– emelt zsírtartalmú tejpor,
+
+– teljes tejpor,
+
+– félzsíros tejpor,
+
+– sovány tejpor.
+
+2. Fogalommeghatározás
+
+A tejpor tejsav- és laktáttartalma: az ezzel a módszerrel meghatározott tejsav- és laktáttartalom, tejsavban kifejezve.
+
+3. A módszer elve
+
+Réz-szulfát és kalcium-hidroxid egyidejű adagolása után a zsírt, a fehérjét és laktózt szűréssel eltávolítjuk. A szürletben lévő tejsavat tömény kénsavval réz-szulfát jelenlétében acetaldehiddé alakítjuk. Az acetaldehidet 4-hidroxi-difenillel fotometriásan meghatározzuk. A tejsav és laktáttartalmat tejsav mg/100 g zsírmentes szárazanyag értékben adjuk meg.
+
+4. Vegyszerek
+
+4.1. Réz/II/szulfát oldat: 250 g réz/II/szulfátot (CuSO4 . 5H2O) vízben oldunk, és 1000 ml-re feltöltjük.
+
+4.2. Kálcium-hidroxid-szuszpenzió:
+
+4.2.1. 300 g kálcium-hidroxidot [Ca(OH)2] mozsárban összesen 900 ml víz felhasználásával eldörzsöljük. A szuszpenziót a felhasználás előtt frissen készítjük.
+
+4.2.2. Másik változat: 300 g kálcium-hidroxidot [Ca(OH)2] mozsárban összesen 1400 ml víz felhasználásával eldörzsölünk. A szuszpenziót a felhasználás előtt frissen készítjük.
+
+4.3. Kénsavas réz/II/szulfát oldat: 300 ml kénsavhoz (95,5–97,0% (m/m) H2SO4) 0,5 ml réz/II/szulfát oldatot (4.1.) adunk.
+
+4.4. 4-hidroxi-difenil oldat (C6H5C6H4OH): 0,75 g 4-hidroxi-difenilt enyhe melegítés és keverés közben 5 gramm NaOH/100 ml koncentrációjú vizes nátrium-hidroxid oldat 5 ml-ében feloldunk. Mérőlombikban vízzel 50 ml-re feltöltjük. Az oldatot sötét, hűvös helyen, barna folyadéküvegben tároljuk. Ne használjuk, ha színváltozás vagy zavarosodás lép fel. Legfeljebb 72 óráig tárolható.
+
+4.5. Tejsav kalibráló oldat: közvetlenül a felhasználás előtt 0,1067 g lítium-laktátot (CH3CHOHCOOLi) vízben feloldunk és mérőlombikban 1000 ml-re feltöltünk. Ennek az oldatnak 1 ml-e 0,1 mg tejsavnak felel meg.
+
+4.6. Visszaállított normál tej: jó minőségű tejpor mintákat előzőleg megvizsgálunk. A kalibrációs görbe felvételéhez azokat a mintákat választjuk ki, amelyek tejsav tartalma a legkisebb, legfeljebb 30 mg/100 g zsírmentes szárazanyag tartalommal. A műveleteket a 6.2.1. és a 6.2.2. szerint végezzük.
+
+5. Eszközök
+
+5.1. Analitikai mérleg
+
+5.2. Spektrofotométer, 570 nm hullámhosszra beállítható
+
+5.3. Vízfürdő, 30+2 °C-ra beállítható
+
+5.4. Dörzsmozsár törővel
+
+5.5. Szürőpapír, (Schleicher és Schüll 595, Whatman 1 vagy azzal egyenértékű)
+
+5.6. Reagensüveg Pyrex vagy azzal egyenértékű üvegből (mérete: 25x150 mm)
+
+Megjegyzés:
+
+Minden üvegedény teljesen tiszta legyen, és csak ehhez a vizsgálathoz használjuk. A csapadékot tartalmazó üvegedényeket tömény sósavas kiöblítés után mosogassuk el.
+
+6. A vizsgálat menete
+
+6.1. Vakpróba
+
+Vakpróbát készítünk, amelyhez 30 ml vizet töltünk egy 50 ml-es mérőlombikba és a 6.2.4–6.2.11. műveleteket elvégezzük. Ha a vakpróba eredménye vízzel szemben mérve a 20 mg tejsav/100 mg zsírmentes szárazanyagnak megfelelő értéket túllépi, a reagenseket felül kell vizsgálni, a szennyezett reagenseket, illetve reagenst mással kell pótolni. A vakpróbát a minta vizsgálatával egyidejűleg kell végezni.
+
+6.2. Meghatározás
+
+Megjegyzés:
+
+Különösen nyállal és izzadsággal való szennyeződéstől óvjuk a mintákat.
+
+6.2.1. A minta zsírmentes szárazanyagtartalmát (a) megkapjuk, ha 100-ból levonjuk a zsírtartalmat (meghatározása a 4. módszerrel) és a víztartalmat (meghatározása a 2. módszerrel).
+
+| 6.2.2. A minta | 1000 | g-ját 0,1 g pontossággal lemérjük. |
+
+| a–10 |
+
+Ehhez a mintamennyiséghez 100 ml vizet adunk és alaposan összekeverjük.
+
+6.2.3. Az így kapott oldatból 5 ml-t 50 ml-es mérőlombikba pipettázunk és vízzel kb. 30 ml-re felhígítjuk.
+
+6.2.4. Forgatás közben lassan hozzáadunk 5 ml réz-szulfát oldatot (4.1.) és 10 percig állni hagyjuk.
+
+6.2.5. Forgatás közben lassan hozzáadunk 5 ml kálcium-hidroxid szuszpenziót (4.2.1.) vagy 10 ml kalcium-hidroxid szuszpenziót (4.2.2.).
+
+6.2.6. Vízzel 50 ml-re feltöltjük, erősen összerázzuk, 10 percig állni hagyjuk, majd szűrjük. A szürlet első részét elöntjük.
+
+6.2.7. A szürlet 1 ml-ét reagensüvegbe pipettázzuk (5.6.).
+
+6.2.8. Bürettával vagy osztott pipettával a kénsav-réz-szulfát-oldatból (4.3.) 6,0 ml-t a reagensüvegbe adagolunk. Összekeverjük.
+
+6.2.9. A reagensüveget 5 percen keresztül forró vízfürdőn melegítjük. Folyó vízzel szobahőfokra hűtjük.
+
+6.2.10. Két csepp 4-hidroxi-difenil-reagenst (4.4.) adunk hozzá és erősen összerázzuk, hogy a reagens az egész folyadékban egyenletesen eloszoljon. A reagensüveget 30±2 °C hőmérsékletű vízfürdőbe helyezzük, 15 percen keresztül benne hagyjuk és időnként rázogatjuk.
+
+6.2.11. A reagensüveget 90 másodpercre forró vízfürdőbe helyezzük, majd folyó vízzel szobahőmérsékletre hűtjük.
+
+6.2.12. Az optikai sűrűséget a vakpróbával szemben (6.1.) 3 órán belül az 5.2. pontban megadott hullámhosszon mérjük.
+
+6.2.13. Amennyiben az optikai sűrűség a kalibrációs görbe legmagasabb pontját túllépi, a 6.2.6. szerint nyert szürlet megfelelő hígításával kapott mintával a vizsgálatot megismételjük.
+
+6.3. A kalibrációs görbe felvétele
+
+6.3.1. A visszaállított tej (4.6.) 5 ml-ét 5 db 50 ml-es mérőlombikba pipettázzuk. Ezekbe a lombikokba 0, 1, 2, 3, 4 ml kalibráló oldatot (4.5.) pipettázunk. Az így kapott oldatok 0, 20, 40, 60, 80 mg tejsav/100 g zsírmentes szárazanyag koncentrációnak felelnek meg.
+
+6.3.2. Vízzel kb. 30 ml-re hígítjuk és a 6.2.4–6.2.11. pontban leírtak szerint járunk el.
+
+6.3.3. A standard (6.3.1.) optikai sűrűségét a vakpróbával (6.1.) szemben az 5.2. pontban megadott hullámhosszon mérjük. Az optikai sűrűség adatait a 6.3.1. pontban megadott 0 mg, 20 mg, 40 mg, 60 mg, 80 mg/100 g zsírmentes szárazanyagra vonatkoztatott tejsav mennyiségének függvényében diagramon ábrázoljuk. Ezeknek a pontoknak legjobban megfelelő egyenest megrajzoljuk, és a kalibrációs görbét úgy készítjük el, hogy az egyenes önmagával párhuzamosan eltolva a koordinátarendszer nullpontját metssze.
+
+7. Az eredmények kiszámítása
+
+A minta 6.2.12. vagy 6.2.13. szerint mért optikai sűrűségét a kalibrációs görbe segítségével tejsav mg/100 g zsírmentes szárazanyag értékre számoljuk át. Az eredményt a hígítási faktorral megszorozzuk, amennyiben a szürletet a 6.2.13. szerint hígítottuk.
+
+8. Ismételhetőség
+
+A párhuzamos vizsgálatok eredményei között, azaz ugyanazon vizsgáló által, ugyanabból a mintából egyidejűleg vagy közvetlenül egymás után végzett vizsgálati eredmények között a megengedett eltérés legfeljebb 8 mg tejsav/100 g zsírmentes szárazanyag lehet 80 mg/100 g mért értékig. Nagyobb értékeknél ez a különbség a legkisebb érték 10%-nál nem lehet nagyobb.
+
+7. módszer: Foszfatáz-aktivitás meghatározás (módosított Sanders-Sagar-eljárás)
+
+1. Tárgy és alkalmazási terület
+
+Ez a módszer a foszfatáz-aktivitás meghatározását írja le a következő termékekben:
+
+– emelt zsírtartalmú tejpor,
+
+– teljes tejpor,
+
+– félzsíros tejpor,
+
+– sovány tejpor.
+
+2. Fogalommeghatározás
+
+A foszfatáz-aktivitás a jelenlévő aktív, alkalikus foszfatáz mennyiségének a mértéke. Ezt az értéket az 1 ml hígított tejből, az itt leírt módszerrel felszabadított fenol µg-ban állapítjuk meg.
+
+3. A módszer elve
+
+A tejpor foszfatáz-aktivitását a foszfatáz azon képessége alapján határozzuk meg, hogy dinátrium-fenil-foszfátból fenolt képes felszabadítani. Az alább leírt feltételek közt felszabaduló fenol mennyiségét spektrofotometriás méréssel, a Gibb reagenssel kialakított szín mérése útján határozzuk meg.
+
+4. Vegyszerek
+
+4.1. A oldat
+
+Bárium-borát-hidroxid-puffer: pH 10,6±0,1 20 °C-on. 25,0 g bárium-hidroxidot (Ba(OH)2 . 8H2O) vízben oldunk és 500 ml-re felhígítjuk. 11,0 g bórsavat (H3BO3) vízben feloldunk és 500 ml-re felhígítjuk.
+
+Mindkét oldatot 50 °C-ra felmelegítjük és összekeverjük. Az elegyet rázogatva szobahőmérsékletre hűtjük. A pH-értékét bárium-hidroxid-oldattal 10,6±0,1-re állítjuk be és leszűrjük. Az oldatot jól zárható edényben tároljuk. A puffert felhasználás előtt azonos mennyiségű vízzel felhígítjuk.
+
+4.2. B oldat
+
+Színképző puffer: 6,0 g nátrium-metaborátot (NaBO2) vagy (12,5 g NaBO2 . 4H2O) és 20 g nátrium-kloridot (NaCl) vízben feloldunk és 1000 ml-re feltöltjük.
+
+4.3. C oldat
+
+Szubsztrátum-puffer oldat
+
+4.3.1. 0,5 g dinátrium-fenil-foszfátot (Na2C6H5PO4 . 2H2O) 4,5 ml B oldatban (4.2.) feloldunk. Az E oldatból (4.5.) 2 cseppet adunk hozzá, és 30 percig állni hagyjuk. A színanyagot 2,5 ml butanollal (4.10.) extraháljuk. Amennyiben szükséges, a színanyag extrakciót megismételjük. A kivonás után a butanolt kiöntjük. Az oldat hűtőszekrényben több napig eltartható. A felhasználás előtt a színezéket újra kifejlesztjük és extraháljuk.
+
+4.3.2. Ebből az oldatból 1 ml-t egy 100 ml-es mérőlombikba viszünk át és az A oldattal jelig töltjük. A pufferoldatot közvetlenül a felhasználás előtt készítjük el.
+
+4.4. D oldat
+
+Csapadékképző reagens: 3,0 g cink-szulfátot (ZnSO4 . 7H2O) és 0,6 g réz-szulfátot (CuSO4 . 5H2O) vízben feloldunk, és 100 ml-re feltöltjük.
+
+4.5. E oldat
+
+Gibb reagens: 0,040 g 2,6-dibrómkinon-1,4-klórimidet (C6H2Br2ClNO) 10 ml 96%-os etil-alkoholban feloldunk. Az oldatot sötét üvegben hűtőszekrényben tároljuk. Elszíneződött reagens nem használható.
+
+4.6. Színhígító puffer
+
+A színképző B oldatból (4.2.) 10 ml-t vízzel 100 ml-re hígítunk.
+
+4.7. Réz-szulfát oldat
+
+0,05 g réz(II)-szulfátot (CuSO4 . 5H2O) vízben oldunk és vízzel 100 ml-re feltöltjük.
+
+4.8. Fenol törzsoldat
+
+0,200±0,001 g tiszta fenolt vízben oldunk és mérőlombikban 100 ml-re feltöltjük. Az oldat hűtőszekrényben néhány hónapig eltartható. Ebből az oldatból 10 ml-t vízzel 100 ml-re feltöltünk. Ezen hígított oldat 1 ml-e 200 µg fenolt tartalmaz és további hígítások előállításához is felhasználható.
+
+4.9. Kiforralt desztillált víz
+
+4.10. n-butanol
+
+5. Eszközök
+
+5.1. Analitikai mérleg
+
+5.2. Vízfürdő, 37±1 °C-ra beállítható
+
+5.3. Spektrofotométer, 610 nm hullámhossznál történő méréshez
+
+5.4. Szűrőpapír (Schleicher és Schüll 597, Whatman 42 vagy más, azonos minőségű szűrőpapír)
+
+5.5. Vízfürdő, forrásban lévő
+
+5.6. Alumíniumfólia
+
+6. A minta előkészítése
+
+A minta 10 g-ját (0,1 g pontossággal lemérve) 90 ml vízben feloldjuk. A por feloldása közben a hőmérséklet semmiképpen sem lehet 35 °C-nál nagyobb.
+
+7. A vizsgálat menete
+
+7.1. Óvórendszabályok
+
+1. Kerüljük a napfény hatását.
+
+2. Minden üvegeszközt, a dugókat és a felszereléseket állandóan tisztán kell tartani, vízzel leöblíteni és kifőzni, vagy gőzzel kezelni.
+
+3. A műanyagok alkalmazását (például dugók) kerüljük, mivel azok fenolt tartalmazhatnak.
+
+4. A nyál foszfatázt tartalmaz; a nyálnyomokkal való szennyeződést gondosan kerülni kell.
+
+7.2. Meghatározás
+
+7.2.1. Két reagensüvegbe a 6. szerint előkészített, visszaállított tejből 1-1 ml-t adagolunk.
+
+7.2.2. A reagensüvegek egyikét 2 percen keresztül forrásban lévő vízfürdőben melegítjük. A reagensüveget és a vízfürdőt (5.5.) egy alufóliával bevont főzőpohárral (5.6.) lefedjük, annak biztosítására, hogy a reagensüveg teljes egészében átforrósodjon. Hideg vízzel szobahőfokra hűtjük. Ezt a reagensüveget a vakpróbához használjuk. Ettől a ponttól kezdődően mindkét reagensüveget azonos módon kezeljük.
+
+7.2.3. 10 ml C oldatot (4.3.2.) adunk hozzá, összekeverjük, és a reagensüvegeket 37 °C-os vízfürdőbe (5.2.) állítjuk.
+
+7.2.4. 60 percig vízfürdőben inkubáljuk és időnként összerázzuk.
+
+7.2.5. A reagensüvegeket rögtön a forrásban lévő vízfürdőbe (5.5.) állítjuk és 2 percig hevítjük, hideg vízzel szobahőmérsékletre hűtjük.
+
+7.2.6. A D oldatból 1 ml-t (4.4.) hozzáadunk, összekeverjük, és száraz szűrőpapíron szűrjük, az első szürleteket mindaddig elöntjük, amíg tiszta folyadékot nem kapunk.
+
+7.2.7. Mindkét szürletből 5 ml-t reagensüvegekbe adagolunk, 5 ml B oldatot (4.2.) és 0,1 ml E oldatot (4.5.) adunk hozzá. Összekeverjük.
+
+7.2.8. A szín kialakulásához 30 percig szobahőfokon napfénytől védve állni hagyjuk.
+
+7.2.9. Az optikai sűrűséget a vakpróbával szemben az 5.3. alatt megadott hullámhosszon mérjük.
+
+7.2.10. A meghatározást megismételjük, ha az oldat optikai sűrűsége az 5.3. pont szerint kapott 20 mg-os fenol standardénál nagyobb. Ha ezt az értéket túlléptük, a visszaállított tej (6.) térfogatát olyan tej megfelelő térfogatával hígítjuk fel, amelyet a 7.2.2. szerint a foszfatáz inaktiválására gondosan felforraltunk.
+
+7.3. A kalibrációs görbe felvétele
+
+7.3.1. 4 db 100 ml-es mérőlombikba 1, 3, 5 és 10 ml-t mérünk be a 4.8. szerint felhígított kalibráló oldatból és vízzel jelig töltjük. Ezek a hígítások ml-enként 2, 6, 10 és 20 µg fenolt tartalmaznak.
+
+7.3.2. 1 ml vizet, illetve a referenciaoldatok 1 ml-ét (7.3.1.) a reagensüvegekbe pipettázzuk, hogy olyan mintasorozatot kapjunk, amely 0, 2, 6, 10 és 20 µg fenolt tartalmaz.
+
+7.3.3. Egymás után minden reagensüvegbe 1 ml réz-szulfát-oldatot (4.7.), 5 ml színhigító puffert (4.6.), 3 ml vizet és 0,1 ml E oldatot (4.5.) adunk. Összekeverjük.
+
+7.3.4. A reagensüvegeket szobahőmérsékleten napfénytől védve 30 percig állni hagyjuk.
+
+7.3.5. A reagensüvegekből kivett oldatok optikai sűrűségét a vakpróbahoz viszonyítva az 5.3. pontban megadott hullámhosszon megmérjük.
+
+7.3.6. Az optikai sűrűséget a 7.2. pontban megadottak szerint µg-ban mért fenol mennyiség függvényében kalibrációs görbén ábrázoljuk.
+
+8. Az eredmények kiszámítása
+
+8.1. A 7.2.9. szerint kapott értékeket a kalibrációs görbe felhasználásával µg fenolra számítjuk át.
+
+8.2. A µg fenolban kifejezett foszfatáz-aktívitást a visszaállított tej 1 ml-ére vonatkoztatva a következő képlettel számítjuk ki:
+
+Foszfatáz-aktivitás = 2,4×P
+
+ahol
+
+P = a fenolmennyiség µg-ban a 8.1. szerint.
+
+8.3. Ha a 7.2.10. szerinti hígítás szükséges volt, úgy a 8.2. szerinti eredményeket még a hígítási faktorral is meg kell szorozni.
+
+9. Ismételhetőség
+
+Párhuzamos vizsgálatok eredményei között, azaz ugyanazon vizsgáló által, ugyanazon mintából egyidejűleg vagy közvetlenül egymás után végzett vizsgálatok eredménye közt a megengedett eltérés legfeljebb 2 µg felszabadított fenol/ml visszaállított tej lehet.
+
+8. módszer: Foszfatáz-aktivitás meghatározása (Aschaffenburg–Mullen-módszer)
+
+1. Tárgy és alkalmazási terület
+
+Ez a módszer a foszfatáz-aktivitás meghatározását írja le a következő termékekben:
+
+– zsíros tejpor,
+
+– teljes tejpor,
+
+– félzsíros tejpor,
+
+– sovány tejpor.
+
+2. Fogalommeghatározás
+
+A tejpor foszfatáz-aktivitása a termékben lévő aktív alkalikus foszfatáz mennyiségének a mértéke. Ezt az értéket a visszaállított minta 1 ml-éből az itt leírt módszerrel felszabaduló p-nitrofenol µg-ban határozzuk meg.
+
+3. A módszer elve
+
+A visszaállított mintát 10,2 pH-jú szubsztrát-pufferrel felhígítjuk és 37 °C hőmérsékleten termosztáljuk. A mintában lévő alkalikus foszfatáz ezen körülmények között a dinátrium-p-nitrofenil-foszfátból p-nitrofenolt szabadít fel. A felszabadított p-nitrofenolt standard színes üvegekkel való közvetlen összehasonlítással, egyszerű komparátorban, visszavert fényben meghatározzuk.
+
+4. Vegyszerek
+
+4.1. Nátrium-karbonát-hidrogénkarbonát puffer
+
+3,5 g vízmentes nátrium-karbonátot és 1,5 g nátrium-hidrogénkarbonátot vízben feloldunk és mérőlombikban 1000 ml-re feltöltjük.
+
+4.2. Szubsztrát-puffer-oldat
+
+1,5 g dinátrium-p-nitrofenil-foszfátot nátrium-karbonát/hidrogénkarbonát pufferben (4.1.) feloldunk, és mérőlombikban a pufferrel (4.1.) 1000 ml-re feltöltjük. Az oldat egy hónapig stabilis marad, ha hűtőszekrényben (4 °C-on vagy az alatti hőfokon) tároljuk, azonban a tárolt oldatból színvizsgálatot kell végezni, lásd: 7. pont 3. megjegyzés.
+
+4.3. Csapadékképző reagensek
+
+4.3.1. Cink-szulfát oldat
+
+30,8 g cink-szulfátot vízben feloldunk és mérőlombikban 100 ml-re feltöltjük.
+
+4.3.2. Kálium-ferrocianid oldat
+
+17,2 g kálium-ferrocianid-trihidrátot vízben feloldunk és mérőlombikban 100 ml-re feltöltjük.
+
+5. Eszközök
+
+5.1. Analitikai mérleg
+
+5.2. Vízfürdő, termosztáttal 37±1 °C-ra beállítható
+
+5.3. Komparátor, különleges p-nitrofenol µg/ml tej értékre hitelesített, standard, színes üveg tárcsával és 2 db, 25 mm-es küvettával.
+
+6. A minta előkészítése
+
+10 g tejport 90 ml vízben feloldunk. A tejpor oldási hőmérséklete nem lépheti túl a 35 °C-t.
+
+7. A vizsgálat menete
+
+Óvintézkedések:
+
+1. Felhasználás után a reagensüvegeket ki kell üríteni, vízzel kiöblíteni, lúgos mosószert tartalmazó forró vízben kimosni, és tiszta forró vízzel kiöblíteni. Felhasználás előtt vízzel ki kell öblíteni és megszárítani. Használat után a pipettákat alaposan, tiszta hideg folyóvízben rögtön ki kell öblíteni, végül a felhasználás előtt vízzel ki kell öblíteni és megszárítani.
+
+2. A reagensüvegeket felhasználás után rögtön forró folyóvízzel alaposan le kell öblíteni, majd 2 percen keresztül vízben kifőzni.
+
+3. A szubsztrát-puffer-oldat (4.2.) legalább 1 hónapig stabil marad, ha azt hűtőszekrényben 4 °C-on vagy annál kisebb hőmérsékleten tároljuk. Az esetleges instabilitást sárga szín megjelenése jelzi. Vizsgálat közben a minták mellett mindig azonos mennyiségű szubsztrat-puffer oldatot tartalmazó kontroll mintát is olvassunk le. Az oldatot ne használjuk, ha olyan elszíneződés lép fel, amely a komparátor 25 mm-es küvettájában desztillált vízzel szemben mérve 10 µg-nál nagyobb értéknek felel meg.
+
+4. Minden mintához külön pipettát használjunk, hogy a pipetta nyállal való szennyeződését elkerüljük.
+
+5. A mintát a legrövidebb időre sem szabad közvetlen napfény hatásának kitenni.
+
+7.1. Meghatározás
+
+7.1.1. A szubsztrát-puffer 15 ml-ét tiszta, száraz reagens üvegbe pipettázzuk, majd hozzáadjuk a vizsgálandó visszaállított minta (6.) 2 ml-ét. A reagensüveget lezárjuk, forgatással összekeverjük, és 37 °C hőmérsékletű vízfürdőbe tesszük.
+
+7.1.2. Egyidejűleg egy másik reagensüvegben lévő 15 ml szubsztrát-pufferhoz 2 ml kiforralt, visszaállított mintát adunk és a vizsgálandó mintával azonos módon vízfürdőbe helyezzük.
+
+7.1.3. 2 óra múlva mindkét reagensüveget a vízfürdőből kivesszük, 0,5 ml cink-szulfát oldatot (4.3.1.) adunk hozzá, a dugóval az üvegeket lezárjuk, erősen összerázzuk és 3 percig állni hagyjuk. Hozzáadunk 0,5 ml kálium-ferrocianid oldatot (4.3.2.), alaposan összekeverjük, szűrjük, a tiszta szürletet tiszta reagensüvegben felfogjuk.
+
+7.1.4. A szürletet 25 mm-es küvettába visszük, és a kifőzött minta szürletével a komparátorban speciális tárcsa (5.3.) segítségével összehasonlítjuk.
+
+8. A eredmények kiszámítása
+
+A 7.1.4. szerint közvetlenül leolvasott értékeket µg p-nitrofenol/ml visszaállított mintára adjuk meg.
+
+9. Ismételhetőség
+
+Párhuzamos vizsgálatok között, azaz ugyanazon vizsgáló által, ugyanazon mintából egyidejűleg vagy közvetlenül egymás után végzett két vizsgálat eredménye között a megengedett eltérés legfeljebb 2 µg nitrofenol/ml visszaállított tej lehet.
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 49. sorszámú előírása[^25]
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+Hivatalos Élelmiszervizsgálati Módszergyűjtemény
+
+3–1–80/891 számú előírás
+
+(2. kiadás – 2006.)
+
+Étolaj, étkezési zsír, valamint ezek hozzáadásával
+
+készült élelmiszerek erukasav-tartalmának
+
+meghatározási módszere
+
+1. §
+
+A Magyar Élelmiszerkönyvnek az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav-tartalomról szóló 1–3–76/621 számú előírása 1. §-ában szereplő termékek erukasav-tartalmának meghatározását a mellékletben leírt módszer szerint kell elvégezni.
+
+2. §
+
+Ez az előírás 2007. január 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek az étolaj, étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározásáról szóló 3–1–80/891 számú előírása 1995-ben jóváhagyott 1. kiadása hatályát veszti.
+
+3. §
+
+Ez az előírás a közvetlenül emberi fogyasztásra szánt olajok (étolajok) és zsírok (étkezési zsírok), valamint a hozzáadott olajokat és zsírokat tartalmazó élelmiszerek erukasav-tartalmának meghatározására vonatkozó közösségi vizsgálati módszerekről szóló, 1980. július 25-i 80/891/EGK bizottsági irányelvnek való megfelelést szolgálja.
+
+Melléklet
+
+a 3–1–80/891 számú előíráshoz
+
+Az erukasav-tartalom meghatározása
+
+1. Tárgy és alkalmazási terület
+
+Ezzel a módszerrel az erukasav-tartalmat lehet meghatározni
+
+a) olajokban és zsírokban, az esetleg jelen levő cetolajsav (a dokozénsav cisz-izomérje, amely a halolajokban fordul elő) mellett;
+
+b) hidrogénezett olajokban és zsírokban a cetolajsav és a dokozénsav transz-izomérjei mellett.
+
+2. Fogalommeghatározás
+
+Erukasav-tartalom: az erukasav mennyisége a leírt módszer szerint meghatározva.
+
+3. A módszer elve
+
+A zsírsavak metilésztereit ezüst-nitrátot tartalmazó vékonyréteg lemezen kis hőmérsékleten elválasztjuk. Az elválasztott észterek mennyiségét gázkromatográffal meghatározzuk.
+
+4. Vegyszerek
+
+4.1. Víz
+
+4.1.1. Ha az oldáshoz, hígításhoz és mosáshoz vizet használunk, úgy azon mindig desztillált vizet, vagy azzal azonos minőségű ionmentes vizet értünk.
+
+4.1.2. Ha „oldásnál” vagy „hígításnál” a reagensre semmilyen utasítás nincs megadva, úgy az mindig vízben történő oldás, illetve vízzel történő hígítást jelent.
+
+4.2. Vegyszerminőség
+
+Amennyiben semmilyen ellenkező utasítás nincs, az összes felhasznált vegyszernek „analitikai legtisztább” (alt.) minőségűnek kell lennie.
+
+4.3. Frissen desztillált dietil-éter, peroxidmentes.
+
+4.4. n-Hexán.
+
+4.5. Szilikagél G (Kieselgel G), réteg-kromatográfiás célra.
+
+4.6. Szilikagél G (Kieselgel G), oszlop-kromatográfiás célra.
+
+4.7. Ezüst-nitrát oldat, 200 g/l: 24 g ezüst-nitrátot vízben feloldunk, majd vízzel 120 ml-re feltöltjük.
+
+4.8. Erukasav-metilészter oldat, 5 mg/ml: 50 mg erukasav-metilésztert néhány ml n-hexánban feloldunk, majd n-hexánnal 10 ml-re feltöltjük.
+
+4.9. Tetrakozánsav-metilészter oldat, belső standard, 0,25 mg/ml: 25 mg tetrakozánsav-metilésztert néhány ml n-hexánban oldunk (mint a 4.8.-nál) és 100 ml-re feltöltjük.
+
+4.10. Futtatószer: toluol: n-hexán = 90:10 arányú (v/v) elegye.
+
+4.11. 2,7-diklór-fluoreszcein oldat, 0,5 g/l: 50 mg 2,7-diklór-fluoreszceint melegítés és keverés közben 100 ml 50%-os vizes metanolban oldunk.
+
+5. Eszközök
+
+5.1. Analitikai mérleg 0,1 mg mérési pontossággal
+
+5.2. Vékonyréteg-kromatográfiás eszközök és a következők:
+
+5.2.1. Fagyasztószekrény, amelynek tároló-hőmérséklete mínusz 20 °C és mínusz 25 °C között van
+
+5.2.2. Üveglapok, 200 mm × 200 mm-es
+
+5.2.3. UV-lámpa
+
+5.2.4. Üvegoszlop, 200 mm hosszú, belső átmérője 10 mm, üveggyapottal vagy üvegszűrő lappal ellátva, ennek hiányában kis üveg szűrőtölcsér is használható
+
+5.2.5. Eszközök az oldatok vékony csík vagy vonal formájában történő felviteléhez.
+
+5.3. Gázkromatográf elektronikus integrátorral, MSZ ISO 5508 szerint.
+
+6. A minta előkészítése
+
+6.1. Általános rész
+
+A vizsgálandó minta mennyisége 50 g, amennyiben nagyobb mennyiségre nincs szükség.
+
+6.2. A minta vizsgálat előtti előkészítése
+
+A mintát vizsgálat előtt homogenizálni kell.
+
+6.3. Tárolás
+
+Az előkészített mintát állandóan egy jól zárható edényben kell tárolni.
+
+7. A vizsgálat menete
+
+7.1. A zsírsav-metilészterek előállítása.
+
+Kb. 400 mg olaj- vagy zsírmintából az MSZ ISO 5509 szerint zsírsavmetilészter oldatot állítunk elő, amely kb. 50 mg/ml zsírsavmetilésztert tartalmaz hexánban oldva.
+
+7.2. Vékonyréteg-kromatográfia.
+
+7.2.1. A rétegek előállítása.
+
+60 g szilikagélt (4.5.) és 120 ml ezüst-nitrát oldatot (4.7.) egy 500 ml-es gömblombikba mérünk és homogén szuszpenzió előállítása céljából egy percig rázzuk. A szuszpenziót a szokásos módon kb. 0,5 mm rétegvastagságban a lemezre felvisszük. A mennyiség 5 db 200 mm × 200 mm-es lemez befedésére elegendő. A lemezeket levegőn megszárítjuk (a legjobb kb. 30 percig sötétben végezni); utána kb. 2 óra 30 percig 100 °C-on szárítószekrényben szárítjuk, aktiváljuk. Az aktiválás után a lemezeket amilyen gyorsan csak lehet, használjuk fel, ha szükséges sötétben kell azokat tárolni és felhasználás előtt újból aktiválni.
+
+Megjegyzés: 110 °C-os egyórás aktiválás elegendő, amennyiben a lemezek színe eközben nem sötétedik meg. Amennyiben az oldalhatást el akarjuk kerülni, úgy minden lemezre az oldalaktól és a felső széltől 10 mm távolságra, a rétegre egy vonalat karcoljunk, mielőtt a lemezt használnánk.
+
+7.2.2. A metilészter felvitele.
+
+Felvivőeszközzel (5.2.5.) a mintából előállított metilészter oldatból (7.1.) 50 μl-t felviszünk a rétegre kb. 50 mm-es vonalban, legalább 40 mm-re az oldalaktól és 10 mm-re a lemez alsó szélétől. Ezután felviszünk 100 μl-t a mintából előállított metilészter oldatot (7.1.) és az erukasav-metilészter oldatot (4.8.) 1:1 arányú keverékéből. A lemez fényérzékenysége miatt az oldatok felvitelénél különös figyelemmel kell eljárni. A metilészter felvitele után a lemez alsó szélét dietil-éterbe meríthetjük addig, amíg az éterfront kb. 5 mm-el a startvonal fölé emelkedik. Ezáltal a metilészter egy szűk csíkban koncentrálódik.
+
+Megjegyzés: felvihetünk még 50 μl erukasav-metilészteroldatot (4.8.) a lemezre abból a célból, hogy kifejlesztés után az erukasav-metilésztert tartalmazó zónában az azonosítást megkönnyítsük (lásd: az ábrát).
+
+7.2.3. A kromatogram kifejlesztése
+
+A megfelelő futtatószert (4.10.) a futtatókádba öntjük úgy, hogy magassága 5 mm legyen, és a fedőt rátéve egy fagyasztószekrénybe tesszük (5.2.1.), amelynek hőmérséklete mínusz 25 °C, vagy ehhez közel álló hőfokú. Bizonyos esetben célszerű lehet a futtatókád kibélelése, például szűrőpapírral (kb. két óra múlva alkalmas a kromatogram kifejlesztésére).
+
+A lemezt óvatosan a futtatókádba állítjuk és hagyjuk a folyadékot kb. a lemez magasságának feléig, kétharmadáig felfutni. A lemez kivétele után az oldószert a lemezről gyenge nitrogénárammal elpárologtatjuk. Ezután a lemezt újra a futtatókádba tesszük, és hagyjuk a folyadékot a lemez felső széléig felfutni. Végül a lemezt újra kivesszük, és a fent leírtak szerint nitrogénárammal megszárítjuk, majd 2,7-diklór-fluoreszcein oldattal (4.11.) lepermetezzük.
+
+UV-fényben lehet meghatározni a minta erukasav-metilészter zónáját, összehasonlítva az erukasav-metilésztert tartalmazó minta intenzívebb zónájával (lásd az ábrát).
+
+7.2.4. A metilészter-frakció elkülönítése.
+
+A minta erukasav-metilésztert tartalmazó zónáját a lemezről teljes mennyiségben lekaparjuk és egy 50 ml-es lombikba tesszük.
+
+Az erukasav-metilészter feletti és alatti szilikagélt, amely az összes többi zsírsavmetilészter frakciót tartalmazza, a lemezről hasonlóan lekaparjuk és egy másik 50 ml-es lombikba tesszük. Mindegyik lombikba 1,0 ml tetrakozánsav-metilésztert tartalmazó standard oldatot (4.9.) és 10 ml dietil-étert mérünk (4.3.). Összekeverjük és mindkét lombik tartalmát egyenként egy-egy kb. 1 g szilikagélt (4.6.) tartalmazó oszlopra vagy üveg szűrőtölcsérre (5.2.4.) visszük.
+
+Az észtert háromszor-négyszer 10 ml dietil-éterrel eluáljuk. Az eluátumokat kis lombikba gyűjtjük, gyenge nitrogénáramban az oldószer nagy részét óvatosan, kis részletekben elpárologtatjuk és azután kúpos végű üvegcsékbe átvisszük. A maradék oldószert nitrogénáramban elpárologtatjuk, a metilészter az üvegcse aljában koncentrálódik.
+
+Végül a metilésztert kb. 25–50 μl hexánban feloldjuk. (4.4.)
+
+7.3. Gázkromatográfia
+
+7.3.1. Az MSZ ISO 5508 szerint leírt módszer alapján 1–2 μl metilészteroldatot befecskendezünk.
+
+a) az erukasav-metilésztert tartalmazó frakcióból, és
+
+b) abból a frakcióból, amely a többi zsírsav-metilésztert tartalmazza.
+
+7.3.2. Elektronikus integrátor segítségével a következő csúcs alatti területeket határozzuk meg:
+
+7.3.2.1. az erukasav-metilésztert tartalmazó frakció kromatogramjából:
+
+a) erukasav-metilészter (E),
+
+b) belső standard (L1),
+
+c) az összes metilészter a belső standard nélkül (EF);
+
+7.3.2.2. a többi zsírsav metilészterét tartalmazó frakció kromatogramjából:
+
+a) az összes metilészter a belső standard nélkül (RF),
+
+b) a belső standard (L2).
+
+8. Az eredmények kiszámítása
+
+8.1. Számítás és képletek
+
+8.1.1. A minta erukasav-tartalmát, amelyet mint metilésztert az összes metilészter százalékában fejezzük ki, a következő képlettel számítjuk ki:
+
+ahol:
+
+E, EF, RF, L1 és L2 a csúcs alatti területeket jelentik a 7.3.2. pontnak megfelelően, amelyeket szükség esetén egy hitelesítési faktorral korrigáltunk.
+
+Az előző képlettel meghatározott erukasav-metilészter tartalom jelenti a minta erukasav-tartalmát az összes zsírsavra vonatkoztatva.
+
+8.1.2. Ha a csúcs alatti területeket százalékban fejezzük ki, akkor EF és RF-ként a következő értékeket alkalmazhatjuk:
+
+EF = 100–L1
+
+RF = 100–L2
+
+8.1.3. A 8.1.1. szerinti képlet feltételezi, hogy a minta tetrakozánsav-tartalma elhanyagolható. Ha a tetrakozánsav mennyisége mégis számottevő, úgy a tetrakozánsav értékét (L2), amelyet a maradék frakció kromatogramjából határoztuk meg, csökkenteni kell:
+
+(L2–T2)-re
+
+ahol:
+
+T2=és
+
+T2 = a mintából származó tetrakozánsav-metilészter csúcs alatti területe, amely a részterülete a többi zsírsav-metilészter frakcióban lévő belső standard csúcs alatti területének.
+
+P2 = a palmitinsav-metilészter csúcs alatti területe a többi zsírsavészter frakciójának kromatogramjában.
+
+T0 = a tetrakozánsav-metilészter csúcs alatti területe az összes zsírsavat tartalmazó eredeti minta metilésztereinek kromatogramjában.
+
+P0 = a palmitinsav-metilészter csúcs alatti területe az összes zsírsavat tartalmazó eredeti minta metilésztereinek kromatogramjában.
+
+9. Ismételhetőség
+
+Az ugyanazon a mintán, egy időben vagy gyors egymásutánban, azonos körülmények között, ugyanazon személy által elvégzett két meghatározás eredménye közötti különbség nem haladhatja meg az eredmény 10%-át vagy 0,5 grammot 100 gramm mintában, a magasabb érték figyelembevételével.
+
+Ábra
+
+Erukasav-, cetolajsav- és dokozénsav transz-izomerek metilésztereinek vékonyréteg-kromatogramja
+
+1 Minta
+
+2 Erukasav-metilészter
+
+3 Minta + erukasav-metilészter
+
+____________
+
+(1) Az erukasav-metilészter-frakció egyéb, egy kettőskötést tartalmazó szénláncú zsírsav-metilésztereket is tartalmaz, de nem tartalmaz cetolajsav-metilésztert.
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 50. sorszámú előírása[^26]
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+3–1–85/503 számú előírás
+
+(2. kiadás – 2006.)
+
+Étkezési kazeinek és kazeinátok vizsgálati módszerei
+
+1. §
+
+Az 1. számú mellékletben rögzített összetevők vizsgálatához a 2. számú mellékletben leírt módszereket kell alkalmazni.
+
+2. §
+
+Ez az előírás 2007. július 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek az étkezési kazeinek és kazeinátok vizsgálatáról szóló 3–1–85/503 számú előírása 1995-ben jóváhagyott 1. kiadása hatályát veszti.
+
+3. §
+
+Ez az előírás az étkezési kazeinek és kazeinátok vizsgálati módszereiről szóló, 1985. október 25-i 85/503/EGK bizottsági irányelvnek való megfelelést szolgálja.
+
+1. számú melléklet a 3–1–85/503 számú előírás 2. kiadásához
+
+Étkezési kazeinek és kazeinátok analitikai vizsgálata
+
+I. Minta-előkészítés és általános követelmények
+
+II. Víztartalom meghatározás
+
+– savas kazeinben a II. melléklet 1. módszere szerint
+
+– oltós kazeinben a II. melléklet 1. módszere szerint
+
+– kazeinátban a II. melléklet 1. módszere szerint
+
+III. Fehérjetartalom meghatározás
+
+– savas kazeinben a II. melléklet 2. módszere szerint
+
+– oltós kazeinben a II. melléklet 2. módszere szerint
+
+– kazeinátban a II. melléklet 2. módszere szerint
+
+IV. Titrálható savasság meghatározás
+
+– savas kazeinben a II. melléklet 3. módszere szerint
+
+V. Hamutartalom meghatározás (P2O5-ot beleértve)
+
+– savas kazeinben a II. melléklet 4. módszere szerint
+
+– oltós kazeinben a II. melléklet 5. módszere szerint
+
+VI. pH-érték meghatározás
+
+– kazeinátban a II. melléklet 6. módszere szerint
+
+2. számú melléklet a 3–1–85/503 számú előírás 2. kiadásához
+
+Analitikai módszerek az étkezési kazein és kazeinát összetételének meghatározásához
+
+Minta-előkészítés és általános követelmények
+
+1. Minta előkészítése
+
+1.1. Általános követelmények
+
+A laboratóriumi vizsgálatokhoz rendelkezésre álló minta mennyisége legalább 200 g legyen.
+
+1.2. A minta előkészítése a laboratóriumi vizsgálathoz
+
+1.2.1. A mintát az edény állandó rázásával és forgatásával gondosan összekeverjük és az összes csomót eloszlatjuk (ehhez a mintát légmentesen zárható és elegendő befogadóképességű, a mintánál kétszer nagyobb térfogatú edénybe tesszük).
+
+1.2.2. Az alaposan összekevert mintából (1.2.1.) 50 g körüli reprezentatív mennyiséget a szitába (3.3.) teszünk.
+
+1.2.3. Ha az 50 g-ot a szita (3.3.) teljesen vagy majdnem teljesen [legalább 95% (m/m)-át] átengedi, úgy az 1.2.1. szerint járunk el.
+
+1.2.4. Ellenkező esetben az 50 g-ot egy darálóval (3.4.) addig aprítjuk, amíg a szitálási előírásoknak meg nem felel (1.2.3.). Az átszitált minta teljes mennyiségét rögtön légmentesen zárható és megfelelő méretű edénybe öntjük (a méret a minta térfogatának kétszerese legyen) és állandó rázással és forgatással összekeverjük.
+
+Ügyeljünk arra, hogy a folyamat alatt a minta nedvességtartalma ne változzon.
+
+1.2.5. Ha a mintát előkészítettük, a vizsgálatot a lehető leggyorsabban el kell végezni.
+
+1.3. Tárolóedény
+
+A mintát lég- és nedvességmentesen zárható edényben kell tárolni.
+
+2. Vegyszerek
+
+2.1. Vízre vonatkozó előírás
+
+2.1.1. Oldás, hígítás vagy mosás esetén mindig desztillált vizet vagy azzal azonos minőségű vizet használjunk.
+
+2.1.2. Ahol az „oldás” vagy „hígítás” szó szerepel minden magyarázat nélkül, ott mindig „vizes oldatot” vagy „vízzel való hígítást” értünk.
+
+2.2. Vegyszerek tisztasága
+
+Minden vegyszer analitikailag legtisztább minőségű legyen, ha nincs más előírás.
+
+3. Eszközök
+
+3.1. A szokásos laboratóriumi eszközök, különösképpen:
+
+3.2. Analitikai mérleg, legalább 0,1 mg leolvasási pontossággal
+
+3.3. Ellenőrző szita
+
+Fedővel lezárt, fémhuzalszövet szita, átmérője 200 mm, névleges lyukbősége 500 µm. A szitára és a huzalátmérőre megengedett eltérést az ISO 3310/1 szabvány tartalmazza. (Ellenőrző sziták. Műszaki követelmények és vizsgálat I. rész: Fémhuzalszövet ISO 3310/l–1975). A szitához egy gyűjtőedény tartozik.
+
+3.4. Daráló, amivel szükség esetén (1.2.4.) a laboratóriumi minta túlzott felmelegedés, nedvességcsökkenés vagy -növekedés nélkül felaprítható.
+
+Kalapácsos daráló nem alkalmazható.
+
+4. Az eredmények megadása
+
+A vizsgálati jegyzőkönyvben megadott eredmény legalább két olyan meghatározás középértéke legyen, amelyek ismételhetősége az adott analitikai módszernek megfelel.
+
+Ha nincs más előírás, az eredményeket tömegszázalékban [% (m/m)] kell megadni.
+
+5. Vizsgálati jegyzőkönyv
+
+A vizsgálati jegyzőkönyvben az analitikai módszert és az eredményeket kell megadni. Kiegészítésképpen meg kell adni minden olyan részletet, amelyet a módszer nem ír elő vagy választható, valamint azokat a körülményeket, amelyek az eredményeket befolyásolhatták. A jegyzőkönyvnek a minta azonosításához szükséges minden adatot tartalmaznia kell.
+
+1. módszer: A víztartalom meghatározás
+
+1. Tárgy és alkalmazási terület
+
+Ez a módszer a
+
+– savas kazeinek,
+
+– oltós kazeinek,
+
+– kazeinátok
+
+víztartalmának meghatározására szolgál.
+
+2. Fogalommeghatározás
+
+A kazein és kazeinát víztartalma: a leírt módszer szerinti tömegveszteség.
+
+3. A módszer elve
+
+102±1 °C hőmérsékletű szárítószekrényben légköri nyomáson tömegállandóságig szárítva a minta visszamaradt tömegét határozzuk meg. A tömegveszteséget a minta tömegének százalékában adjuk meg.
+
+4. Eszközök
+
+4.1. Analitikai mérleg, 0,1 mg pontosságú
+
+4.2. Bemérőedények lapos aljjal, a kísérleti körülmények között nem rozsdásodó anyagból, pl. nikkelből, alumíniumból, saválló acélból vagy üvegből. Fedelük szorosan záró, de könnyen levehető legyen. Megfelelő méretek: 60–80 mm-ig, magasság kb. 25 mm.
+
+4.3. Szárítószekrény, légköri nyomáson működő, jól szellőző, 102±1 °C hőmérsékletre termosztáttal beállítható. A hőmérséklet a szekrény minden pontján azonos legyen.
+
+4.4. Exszikkátor frissen aktívált nedvességindikátort tartalmazó szilikagéllel, vagy azonos hatékonyságú szárítóközeggel.
+
+4.5. Megfelelő szerszám az edények mozgatásához, pl. laboratóriumi edényfogó.
+
+5. A vizsgálat menete
+
+5.1. A vizsgálandó minta előkészítése
+
+Lásd: I. Mintaelőkészítés és általános követelmények 1.2. pont.
+
+5.2. A bemérőedény előkészítése
+
+5.2.1. A fedetlen bemérőedényt és fedelét (4.2.) a 102±1 °C hőmérsékletre beállított szárítószekrényben (4.3.) legalább 1 óra hosszat szárítjuk.
+
+5.2.2. Ezután a fedelet az edényre helyezzük, a lezárt edényt exszikkátorba (4.4.) tesszük és a mérlegszoba hőmérsékletére hűtjük, majd 0,1 mg pontossággal mérjük (M0).
+
+5.3. Bemérés
+
+3–5 g vizsgálandó mintát (5.1.) a bemérőedénybe mérünk, az edényt a fedéllel lefedjük és tartalmát 0,1 mg pontossággal lemérjük (M1).
+
+5.4. Meghatározás
+
+5.4.1. A fedetlen bemérőedényt és a fedelet 102±1 °C hőmérsékletre beállított szárítószekrénybe (4.3.) helyezzük 4 órára.
+
+5.4.2. A fedelet újra az edényre helyezzük, az exszikkátorba (4.4.) tesszük, a mérlegszoba hőmérsékletére hűtjük, majd 0,1 mg pontossággal mérjük.
+
+5.4.3. Végül a fedetlen edényt fedéllel együtt a szárítószekrényben 1 óra hosszat melegítjük, majd az 5.4.2. szerinti műveleteket megismételjük.
+
+5.4.4. Ha az 5.4.3. művelet után kapott tömeg az 5.4.2. művelet utáni tömegnél több mint 1 mg-mal kisebb, az 5.4.3. pontban leírtakat megismételjük.
+
+Ha a tömeg növekszik, a számolásnál (6.) a legkisebb értéket vesszük figyelembe.
+
+A véglegesen elfogadott tömeg M2 g lesz.
+
+Az összes szárítási idő általában 6 óránál nem hosszabb.
+
+6. Az eredmény kiszámítása
+
+A minta víztartalmát tömegszázalékban a következő képlettel számítjuk ki:
+
+|  | M1–M2 | ⋅100 |
+
+|  | M1–M0 |
+
+ahol:
+
+M0 = a bemérőedény és a fedél tömege g-ban az 5.2. művelet után,
+
+M1 = az edény, a fedél és a minta együttes tömege g-ban szárítás előtt (5.3.)
+
+M2 = az edény, a fedél és a minta együttes tömege szárítás után (5.4.3.) vagy (5.4.4.)
+
+7. Ismételhetőség
+
+Párhuzamos vizsgálatok között, ugyanazon mintából, ugyanazon vizsgáló által egy időben vagy közvetlenül egymás után végzett két meghatározás eredménye közötti különbség nem lehet több, mint 0,1 g víz/100 g termék [0,1% (m/m)].
+
+2. módszer: A fehérjetartalom meghatározása
+
+1. Tárgy és alkalmazási terület
+
+Ez a módszer a
+
+– savas kazeinek,
+
+– oltós kazeinek,
+
+– kazeinátok
+
+fehérjetartalmának meghatározására szolgál, kivéve az ammónium-kazeinátot vagy más ammónium- vagy nitrogén vegyületeket tartalmazó kazeinátokat.
+
+2. Fogalommeghatározás
+
+Fehérjetartalom: az ezzel a módszerrel meghatározott nitrogéntartalom 6,38-as faktorral megszorozva, tömegszázalékban kifejezve.
+
+3. A módszer elve
+
+Ismert mennyiségű mintát kálium-szulfát és kénsav elegyével, réz(II)-szulfát katalizátor jelenlétében elroncsolunk, hogy a szerves nitrogént ammóniumsó nitrogénjévé alakítsuk. Az ammóniát desztilláljuk, bórsavoldatban felfogjuk, majd sósav mérőoldattal titráljuk. A nitrogéntartalmat 6,38-as faktorral szorozva fehérje-tartalommá számítjuk át.
+
+4. Vegyszerek
+
+4.1. Kénsav, tömény sűrűsége 1,84 g/ml
+
+4.2. Kálium-szulfát, vízmentes (K2SO4)
+
+4.3. Réz(II)-szulfát-pentahidrát (CuSO4 . 5H2O)
+
+4.4. Szacharóz (C12H22O11)
+
+4.5. Bórsav, 40 g/l oldat
+
+4.6. Nátrium-hidroxid, 30% (m/m) vizes oldat karbonátmentes
+
+4.7. Sósav, 0,1 mol/l
+
+4.8. Indikátorkeverék: 2 g/l, legalább 95% (v/v) etanolban oldott metilvörös oldatot és 1 g/l, legalább 95% (v/v) etanolban oldott metilénkék oldatot azonos térfogatarányban összekeverünk.
+
+5. Eszközök
+
+5.1. Analitikai mérleg, 0,1 mg pontosságú
+
+5.2. Kjeldahl-lombik, 500 ml-es
+
+5.3. Roncsolókészülék, amely a Kjeldahl-lombikot (5.2.) ferde helyzetben tartja olyan melegítőberendezéssel, amellyel elkerülhető, hogy a folyadékfelszín feletti lombikrész felhevüljön.
+
+5.4. Hűtő, egyenes belső csővel
+
+5.5. Biztonsági gömbbel ellátott visszafolyó cső, amely a hűtő alsó részéhez csiszolattal vagy gumicsővel csatlakozik. Amennyiben gumicsatlakozást használunk, az ne legyen túl hosszú.
+
+5.6. Desztilláló feltét, amely a Kjeldahl-lombikhoz (5.2.) és a hűtőhöz (5.4.) puha, jól záró gumiból, vagy más megfelelő anyagból készült dugóval csatlakozik.
+
+5.7. Erlenmeyer-lombik, 500 ml-es
+
+5.8. Mérőhenger, 50 ml-es és 100 ml-es
+
+5.9. Büretta, 50 ml-es, 0,1 ml-es osztással
+
+5.10. Forrást elősegítő anyag
+
+5.10.1. A roncsoláshoz: kis porcelándarabkák vagy üveggyöngyök
+
+5.10.2. A desztillációhoz: forrkő darabkák (csak egyszer használhatók)
+
+6. A vizsgálat menete
+
+6.1. A minta előkészítése
+
+Lásd: I. Minta-előkészítés és általános követelmények 1.2. pont.
+
+6.2. Elővizsgálat az ammónium-nitrogén ellenőrzésére
+
+Ha azt feltételezzük, hogy ammónium-kazeinát vagy más ammónium-vegyület van jelen, hajtsuk végre a következő elővizsgálatot:
+
+1 g mintához egy kis Erlenmeyer-lombikban 10 ml vizet és 100 mg magnézium-oxidot adunk. A lombik belső falára tapadt összes magnézium-oxidot az oldatba beleöblítjük és a lombikot parafadugóval lezárjuk. A dugó és az üvegnyak közé nedves vörös-lakmuszpapír csíkot helyezünk. A lombik tartalmát gondosan összerázzuk, és a lombikot 60–65 °C-os vízfürdőn melegítjük. Ha a lakmuszpapír 15 percen belül kékre színeződik, ammónia van jelen, és a módszer nem alkalmazható (lásd: 1. pont).
+
+6.3. Vakpróba
+
+A minta nitrogéntartalmának meghatározásával egy időben 0,5 g szacharóz jelenlétében vakpróbát is készítünk ugyanazon készülékben, minden reagens ugyanazon mennyiségével és ugyanazzal az eljárással, mint amit a 6.5. pontban leírtunk; ha a vakpróba titrálásra 0,1 mol/l töménységű savból 0,5 ml-nél több fogy, a vegyszereket ellenőrizni kell és a szennyezetteket meg kell tisztítani vagy ki kell cserélni.
+
+6.4. Bemérés
+
+Kjeldahl-lombikba (5.2.) 0,3–0,4 g vizsgálandó mintát (6.1.) 0,1 mg pontossággal bemérünk.
+
+6.5. Meghatározás
+
+6.5.1. A lombikba néhány porcellándarabkát vagy üveggyöngyöt (5.10.1.) és kb. 10 g vízmentes kálium-szulfátot (4.2.) adunk. Ezután hozzáadunk 0,2 g réz(II)-szulfátot (4.3.), a lombik nyakát vízzel utánaöblítjük, végül 20 ml tömény kénsavat (4.1.) és a lombik tartalmát összekeverjük.
+
+A lombikot a roncsolókészüléken (5.3.) lassan melegítjük, amíg a habképződés meg nem szűnik. Lassan erősítjük a hevítést és addig folytatjuk, amíg az oldat már egyetlen fekete részecskét sem tartalmaz és halvány zöldeskék színű nem lesz. A lombikot melegítés közben időnként óvatosan összerázzuk.
+
+A forralást úgy kell szabályozni, hogy a gőzök a lombik nyakának közepén kondenzálódjanak. A forralást a helyi túlmelegedést elkerülve 90 pecig folytatjuk. Végül a lombikot tartalmával együtt szobahőmérsékletre hűtjük. Azután óvatosan hozzáadunk 200 ml vizet és néhány darab forrkövet (5.10.2.), összekeverjük és újra lehűtjük.
+
+6.5.2. Az Erlenmeyer-lombikba (5.7.) 50 ml bórsavoldatot (4.5.) és 4 csepp indikátort (4.8.) adunk és tartalmát összekeverjük. A lombikot a hűtő (5.4.) alá csatlakoztatjuk úgy, hogy a lefolyócső vége (5.5.) a bórsavoldatba merüljön. Mérőhengerrel (5.8.) 80 ml nátrium-hidroxid oldatot (4.6.) töltünk a Kjeldahl-lombikba. Ezalatt a lombikot megdöntve tartjuk úgy, hogy a nátrium-hidroxid oldat a lombik belső falán végigfolyva alsó réteget képezzen. Ezután a Kjeldahl-lombikot azonnal a feltét (5.6.) segítségével a hűtőhöz csatlakoztatjuk. A Kjeldahl-lombikot óvatosan megforgatjuk, hogy tartalma összekeveredjen. A felhabzás elkerülésére lassan melegítjük.
+
+A desztillációt 150 ml desztillátum összegyűléséig – kb. 30 percen keresztül – folytatjuk. A desztillátum hőmérséklete 25 °C alatt legyen. Kb. 2 perccel a desztilláció befejezése előtt az Erlenmeyer-lombikot úgy süllyesztjük, hogy a cső vége már ne érjen bele a savoldatba, a cső végét kevés vízzel leöblítjük. A melegítést befejezzük, eltávolítjuk a csövet úgy, hogy mind a belső, mind a külső falát kevés vízzel leöblítjük és az öblítővizet az Erlenmeyer-lombikban felfogjuk.
+
+6.5.3. Az Erlenmeyer-lombikban felfogott desztillátumot 0,1 mol/l töménységű sósavoldattal (4.7.) megtitráljuk.
+
+7. Az eredmények kiszámítása
+
+A minta fehérjetartalmát tömegszázalékban kifejezve a következő képlettel határozzuk meg:
+
+|  | (V1–V2) ⋅ T ⋅ 14 ⋅ 100 ⋅ 6,38 | = | 8,932 ⋅ (V1–V2) ⋅ T |
+
+|  | m ⋅ 1000 | m |
+
+ahol:
+
+V1 = a meghatározáshoz (6.5.) fogyott sósav mérőoldat (4.7.) térfogata ml-ben
+
+V2 = a vakpróbára (6.3.) fogyott sósav mérőoldat (4.7.) térfogata ml-ben
+
+T = a sósav mérőoldat (4.7.) faktora
+
+m = a bemért minta tömege g-ban
+
+A fehérjetartalmat 0,1% (m/m) pontossággal kell megadni.
+
+8. Ismételhetőség
+
+Párhuzamos, azaz ugyanazon vizsgáló által ugyanazon mintából azonos időben, vagy közvetlenül egymás után végzett vizsgálatok között a megengedett eltérés legfeljebb 0,5 g fehérje/100 g termék [0,5% (m/m)].
+
+3. módszer: A titrálható savasság meghatározása
+
+1. Tárgy és alkalmazási terület
+
+A módszer a savkazein titrálható savasságának meghatározására szolgál.
+
+2. Fogalommeghatározás
+
+Titrálható savasság: 0,1 mol/l töménységű nátrium-hidroxid mérőoldat ml-ben mért térfogata, amely a termék 1 g-ja vizes extraktumának közömbösítéséhez szükséges.
+
+3. A módszer elve
+
+A minta 60 °C-on kivont vizes extraktumát szűrjük. A szűrletet nátrium-hidroxid mérőoldattal fenolftalein indikátor jelenlétében megtitráljuk.
+
+4. Vegyszerek
+
+Az eljáráshoz vagy a reagensekhez szükséges vizet előzetesen 10 percen át forralva szén-dioxid-mentesíteni kell.
+
+4.1. Nátrium-hidroxid mérőoldat, 0,1 mol/l
+
+4.2. Fenolftalein indikátor 10 g/l, etanolos oldat 95% (v/v), közömbösített
+
+5. Eszközök
+
+5.1. Analitikai mérleg, 0,1 mg pontosságú
+
+5.2. Erlenmeyer-lombik, 500 ml-es, becsiszolt dugóval
+
+5.3. Pipetta, 100 ml-es
+
+5.4. Pipetta, 0,5 ml indikátoroldat (4.2.) adagolására
+
+5.5. Erlenmeyer-lombik, 250 ml-es
+
+5.6. Mérőhenger, 250 ml-es
+
+5.7. Büretta, 0,1 ml osztással
+
+5.8. Vízfürdő, hőmérséklete 60±2 °C-ra szabályozható
+
+5.9. Megfelelő szűrő
+
+6. A vizsgálat menete
+
+6.1. A vizsgálandó minta előkészítése
+
+(Lásd: az I. Minta-előkészítés és általános követelmények 1.2. pont)
+
+6.2. Bemérés
+
+Kb. 10 g mintát (6.1.) 10 mg pontossággal lemérünk és Erlenmeyer-lombikba (5.2.) tesszük.
+
+6.3. Meghatározás
+
+250 ml-es mérőhengerrel (5.6.) 200 ml frissen kiforralt és lehűtött, majd 60 °C-ra melegített vizet Erlenmeyer-lombikba mérünk. A lombikot lezárjuk, rázással összekeverjük és 60 °C-ra beállított vízfürdőben (5.8.) 30 percen keresztül melegítjük. A lombikot 10 perces időközönként összerázzuk. Szűrjük és a szűrletet 20 °C-ra lehűtjük. A szűrlet tiszta legyen. A lehűtött szűrlet 100 ml-ét pipettával (5.3.) Erlenmeyer-lombikba (5.5.) mérjük. Pipettával (5.4.) hozzáadunk 0,5 ml fenolftalelein indikátor-oldatot (4.2.). Addig titráljuk a nátrium-hidroxid mérőoldattal (4.1.), amíg halvány rózsaszínű nem lesz, és a szín legalább 30 másodpercig meg is marad. A fogyott mennyiséget 0,01 ml pontossággal leolvassuk és feljegyezzük.
+
+7. Az eredmény kiszámítása
+
+A kazein titrálható savasságát a következő képlettel számítjuk ki:
+
+20 ⋅ V ⋅ T
+
+m
+
+ahol:
+
+V = a fogyott normál nátrium-hidroxid oldat (4.1.) térfogata, ml-ben,
+
+T = a nátrium-hidroxid oldat faktora (4.1.), mol/l,
+
+m = a bemért minta tömege, g-ban.
+
+A titrálható savasságot két tizedes pontossággal fejezzük ki.
+
+8. Ismételhetőség
+
+A párhuzamos, azaz ugyanazon vizsgáló által ugyanazon mintából, azonos időben, vagy közvetlenül egymás után végzett vizsgálatok között a megengedett eltérés legfeljebb 0,02 ml 0,1 mol/l nátrium-hidroxid mérőoldat/1 g termék.
+
+4. módszer: A hamutartalom meghatározás (P2O5-ot beleértve)
+
+1. Tárgy és alkalmazási terület
+
+A módszer a savas kazein hamutartalmának (P2O5-ot beleértve) meghatározására szolgál.
+
+2. Fogalommeghatározás
+
+Hamutartalom (P2O5-ot beleértve): a következőkben leírt módszerrel meghatározott hamutartalom.
+
+3. A módszer elve
+
+A vizsgálandó mintát 825±25 °C-on az összes szerves eredetű foszfort megkötő magnézium-acetát jelenlétében elhamvasztjuk. A hamutartalmat a maradék és a magnézium-acetátból származó hamu mennyiség különbsége adja.
+
+4. Vegyszerek
+
+4.1. Magnézium-acetát-tetrahidrát oldat, 120 g/l
+
+A magnézium-acetát-tetrahidrát (Mg(CH3CO2)2 . 4H2O) 120 g-ját vízben oldjuk, és 1 literre feltöltjük.
+
+5. Eszközök
+
+5.1. Analitikai mérleg, 0,1 mg pontosságú
+
+5.2. Pipetta, 5 ml-es
+
+5.3. Izzítótégely, kvarcból vagy platinából, átmérője kb. 70 mm, magassága 25–50 mm
+
+5.4. Szárítószekrény, 102±1 °C-ra beállítható
+
+5.5. Izzítókemence, 825±25 °C-ra beállítható
+
+5.6. Vízfürdő, forrásban tartható
+
+5.7. Exszikkátor, nedvességre érzékeny indikátort tartalmazó frissen aktívált szilikagéllel vagy azonos hatékonyságú szárítóközeggel.
+
+6. A vizsgálat menete
+
+6.1. A vizsgálandó minta előkészítése
+
+Lásd: I. Minta-előkészítés és általános követelmények 1.2. pont.
+
+6.2. Az izzítótégely előkészítése
+
+Két izzítótégelyt a 825±25 °C-ra beállított izzítókemencében (5.5.) 30 percig hevítünk. Azután az izzítótégelyeket exszikkátorban (5.7.) a mérlegszoba hőmérsékletére hűtjük és 0,1 mg pontossággal mérjük.
+
+6.3. Bemérés
+
+A fenti módon előkészített izzítótégelybe (A) kb. 3 g vizsgálandó mintát (6.1.) 0,1 mg pontossággal bemérünk.
+
+6.4. Meghatározás
+
+Az izzítótégelybe (A) pipettával (5.2.) pontosan 5 ml magnézium-acetát oldatot (4.1.) adunk úgy, hogy az egész minta átnedvesedjen, ezután 20 percig állni hagyjuk.
+
+Egy másik előkészített izzítótégelybe (B) pipettával (5.2.) pontosan 5 ml magnézium-acetát oldatot (4.1.) adunk. Mindkét izzítótégely (A és B) tartalmát forrásban lévő vízfürdőn (5.6.) szárazra pároljuk.
+
+Mindkét izzítótégelyt 30 percre a 102±1 °C-ra beálllított szárítószekrénybe (5.4.) helyezzük. Az A jelű izzítótégely tartalmát kis lánggal melegített forró lapon vagy infravörös lámpa alatt addig hevítjük, amíg a vizsgálandó anyagmennyiség teljesen el nem szenesedik. Ügyeljünk arra, hogy a tartalma lángra ne lobbanjon.
+
+Mindkét tégelyt (A és B) 825±25 °C-ra beállított izzítókemencébe (5.5.) tesszük és legalább 1 óra hosszat a kemencében hagyjuk, míg az A tégelyben elszenesedett részeket már nem találunk. Mindkét izzítótégelyt exszikkátorban (5.7.) a mérlegszoba hőmérsékletére hűtjük, majd 0,1 mg pontossággal mérjük.
+
+Az elektromos izzítókemencében (5.5.) történő hevítést a lehűtést és a mérést mindaddig ismételjük, amíg a tömeg 1 mg pontossággal állandó marad, vagy növekedni nem kezd. A legkisebb tömeget jegyezzük fel.
+
+7. Az eredmény kiszámítása
+
+A hamutartalmat (P2O5-ot beleértve) tömegszázalékban kifejezve a következő képlettel számítjuk:
+
+|  | (m1 – m2) – (m3 – m4) | ⋅ 100 |
+
+|  | m0 |
+
+ahol:
+
+m0 = a bemért minta tömege g-ban,
+
+m1 = az A izzítótégely és a maradék tömege g-ban,
+
+m2 = az előkészített A tégely tömege g-ban,
+
+m3 = a B izzítótégely és a maradék tömege g-ban,
+
+m4 = az előkészített B izzítótégely tömege g-ban.
+
+Az eredményeket 0,01% (m/m) pontossággal adjuk meg.
+
+8. Ismételhetőség
+
+Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között egyidőben vagy közvetlenül egymás után végzett két meghatározás eredménye között a különbség legfeljebb 0,1 g/100 g termék [0,1% (m/m)] lehet.
+
+5. módszer: A hamutartalom meghatározása (P2O5-ot is beleértve)
+
+1. Tárgy és alkalmazási terület
+
+Ez a módszer oltós kazeinben lévő hamutartalom meghatározására szolgál.
+
+2. Fogalommeghatározás
+
+A hamutartalom (P2O5-ot beleértve): ezzel a módszerrel meghatározott hamutartalom.
+
+3. A módszer elve
+
+A minta ismert mennyiségét 825±25 °C-on tömegállandóságig hamvasztjuk. A maradékot mérjük és az eredményt a minta tömegszázalékában adjuk meg.
+
+4. Eszközök
+
+4.1. Analitikai mérleg, 0,1 mg pontosságú
+
+4.2. Izzítótégely kvarcból vagy platinából, átmérője kb. 70 mm, magassága 25–50 mm
+
+4.3. Elektromos izzítókemence 825±25 °C-ra szabályozható
+
+4.4. Exszikkátor, nedvességre érzékeny indikátort tartalmazó frissen aktivált szilikagéllel, vagy azonos hatékonyságú szárítóközeggel
+
+5. A vizsgálat menete
+
+5.1. A vizsgálandó minta előkészítése
+
+Lásd: I. Minta-előkészítés és általános körülmények (1.2. pont).
+
+5.2. Az izzítótégely előkészítése
+
+Az izzítótégelyt a 825±25 °C-ra beállított elektromos izzítókemencében (4.3.) 30 percen keresztül izzítjuk. Ezután exszikkátorban (4.4.) a mérlegszoba hőmérsékletére hűtjük és 0,1 mg pontossággal mérjük.
+
+5.3. Bemérés
+
+A fenti módon előkészített izzítótégelybe a vizsgálandó mintából (5.1.) közvetlenül vagy visszaméréssel kb. 3 g-ot 0,1 mg pontossággal bemérünk.
+
+5.4. Meghatározás
+
+Az izzítótégelyt tartalmával együtt kis lángon vagy infravörös lámpával a mintamennyiség teljes elszenesedéséig hevítjük. Ügyeljünk arra, hogy a tartalom lángra ne lobbanjon.
+
+Ezután az izzítótégelyt 825±25 °C hőmérsékletre beállított elektromos izzítókemencébe (4.3.) tesszük és legalább 1 óra hosszat, az izzítótégelyben lévő szénrészecskék teljes eltűnéséig hevítjük.
+
+Ezután az izzítótégelyt exszikkátorban (4.4.) a mérleg-szoba hőmérsékletére hűtjük és 0,1 mg pontossággal mérjük. Az izzítást, a lehűtést és a mérést addig ismételjük, amíg a tömeg 1 mg pontossággal állandó marad, vagy növekedni nem kezd. A legkisebb tömeget jegyezzük fel.
+
+6. Az eredmény kiszámítása
+
+A minta hamutartalmát tömegszázalékban a következő képlettel számítjuk ki:
+
 [^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 240. pontja hatályon kívül helyezte.
-[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával. A melléklet a 26/2010. (III. 19.) FVM rendelet 4. §-a és 5. § (5) bekezdése szerint módosított szöveg.
+[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával. A melléklet a 26/2010. (III. 19.) FVM rendelet 4. §-a és 5. § (5) bekezdése, a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés a)–d) pontja szerint módosított szöveg.
 [^3]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^4]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 72/2005. (VIII. 15.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
 [^5]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 17. sorszámú előírás a 6/2008. (I. 17.) FVM rendelet 2. §-a szerint módosított szöveg.
@@ -5328,19 +5462,16 @@ A szűrlet inverzió előtti és utáni forgatóképességéből számítjuk ki 
 [^12]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 30. sorszámú előírást az 57/2006. (VIII. 4.) FVM rendelet 2. § (2) bekezdésének a) pontja hatályon kívül helyezte.
 [^13]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 2/2005. (I. 11.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
 [^*-ben]: European inventory of existing commercial chemical substances. Európai kereskedelmi forgalomban lévő kémiai anyagok adattára.
-[^14]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
+[^14]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés b) pontja hatályon kívül helyezte.
 [^15]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés f) pontja hatáyon kívül helyezte.
-[^16]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
-[^17]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
-[^18]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg.
-[^19]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg.
-[^20]: Az Európai Unió néhány tagállamában gyártott hagyományos termék.
-[^21]: P (palmitinsav), O (olajsav), St (sztearinsav).
-[^22]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg.
-[^(1)]: A termék csomagolásán a zárójelben lévő megnevezést nem kell feltüntetni.
-[^(3)]: A „fehér” jelző használható az olyan cukoroldat megnevezésében, amelynek a színe nem haladja meg a 25 ICUMSA egységet a B) rész c) pontja szerint meghatározva.
-[^(4)]: A „fehér” jelző használható olyan invertcukor-oldat és invertcukor-szirup megnevezésében, amelynek: – a vezetőképesség-méréssel meghatározott hamuja nem haladja meg a 0,1%-ot, – oldatban mért színe nem haladja meg a 25 ICUMSA egységet, a B) rész c) pontja szerinti módszerrel meghatározva.
-[^23]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés f) pontja hatályon kvül helyezte.
-[^24]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg.
-[^25]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
+[^16]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^17]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés c) pontja hatályon kívül helyezte.
+[^19]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés c) pontja hatályon kívül helyezte.
+[^20]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés c) pontja hatályon kívül helyezte.
+[^21]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés f) pontja hatályon kvül helyezte.
+[^22]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés c) pontja hatályon kívül helyezte.
+[^23]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^24]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg.
+[^25]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg.
 [^26]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg.
