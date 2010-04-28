@@ -1266,6 +1266,8 @@
 
 |  |  | /nassgepökelt (3.1.); és hasonló termékek Jellied veal and brisket (3.2.) |  |  |
 
+| E szám | Név | Élelmiszer | Az előállítás során hozzáadható legnagyobb mennyiség (NaNO3-ben kifejezve) | Legmagasabb maradékszint (NaNO3-ben kifejezve) |
+
 | E 251 E 252 | nátrium-nitrát(z) kálium-nitrát(z) | Nem hőkezelt, száraz húskészítmények | 150 mg/kg |  |
 
 | Hagyományos sós lében pácolt húskészítmények (1.): |  |  |

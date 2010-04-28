@@ -682,6 +682,6 @@
 
 ## (1) Megjegyzés: kapszulás termékek esetében a kapszulára nem vonatkozik az előírás.
 
-5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^12]
+5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^34]
 
-[^12]: Az 5. melléklet a 2. § (4) bekezdése alapján 2010. január 20-án lép hatályba.
+[^34]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
