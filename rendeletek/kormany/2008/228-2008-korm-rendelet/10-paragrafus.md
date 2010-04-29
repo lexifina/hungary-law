@@ -8,11 +8,11 @@
 
 (3) A Közös Irányító Hatóság a közösségi hozzájárulás forráslehívási dokumentáció benyújtását követően dönt annak jóváhagyásáról vagy elutasításáról, és jóváhagyás esetén gondoskodik a közösségi támogatás átutalásáról az általa kezelt programszámla egyenlegének erejéig az euró lebonyolítási bankszámlára. A Közös Irányító Hatóság az euró program számláról részteljesítést nem végez. Amennyiben a programszámla egyenlege nem elegendő az utalás teljesítéséhez, a Közös Irányító Hatóság gondoskodik a megfelelő összeg Európai Bizottságtól történő lehívásáról.
 
-(4)[^16] A pénzügyi átutalási egység a lebonyolítási fizetési számlán történt jóváírásról szóló fizetési számla kivonat kézhezvételét követően indítja a Kedvezményezettek fizetési számláinak javára a közösségi támogatások kifizetésre jóváhagyott összegét euróban.
+(4)[^22] A pénzügyi átutalási egység a lebonyolítási fizetési számlán történt jóváírásról szóló fizetési számla kivonat kézhezvételét követően indítja a Kedvezményezettek fizetési számláinak javára a közösségi támogatások kifizetésre jóváhagyott összegét euróban.
 
 (5) Az euró lebonyolítási bankszámláról csak akkor lehet átutalást kezdeményezni, ha a kifizetési kérelemmel kapcsolatos adatok az IMIR 2007–2013-ben rögzítésre és jóváhagyásra kerültek.
 
-(6)[^17] A Közös Irányító Hatóság és Nemzeti Hatóság minden hónap 10-éig gondoskodik a Kedvezményezetteknek juttatott közösségi forrásokról az elkészítés hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyamon készült – a kincstári rendszer működésével kapcsolatos pénzügyi szolgáltatások teljesítésének rendjéről szóló miniszteri rendeletben szabályozott – kiegészítő szelvény megküldéséről a Kincstárnak.
+(6)[^23] A Közös Irányító Hatóság és Nemzeti Hatóság minden hónap 10-éig gondoskodik a Kedvezményezetteknek juttatott közösségi forrásokról az elkészítés hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyamon készült – a kincstári rendszer működésével kapcsolatos pénzügyi szolgáltatások teljesítésének rendjéről szóló miniszteri rendeletben szabályozott – kiegészítő szelvény megküldéséről a Kincstárnak.
 
-[^16]: A 10. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése szerint módosított szöveg.
-[^17]: A 10. § (6) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^22]: A 10. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 10. § (6) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 54. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-23. §[^43] (1) A szabálytalansági vizsgálat eredményéről – a szabálytalanság hiányának megállapítása esetében is – a szabálytalansági vizsgálat vezetője szabálytalanság-vizsgálati jelentést készít.
+23. §[^53] (1) A szabálytalansági vizsgálat eredményéről – a szabálytalanság hiányának megállapítása esetében is – a szabálytalansági vizsgálat vezetője szabálytalanság-vizsgálati jelentést készít.
 
 (2) A szabálytalanság-vizsgálati jelentésnek legalább a következőket kell tartalmaznia:
 
@@ -32,11 +32,11 @@ c) amennyiben szükséges az alkalmazandó intézkedésre vonatkozó javaslatot,
 
 a) annak megállapításával, hogy nem történt szabálytalanság és a szabálytalansági eljárás intézkedés nélküli megszüntetésével, vagy
 
-b) a szabálytalanság megtörténtét megállapító, az eljárást lezáró és szükség esetén intézkedést elrendelő döntéssel.
+b)[^54] a szabálytalanság megtörténtét megállapító, és – amennyiben szükséges – további, a szabálytalansággal arányos intézkedést elrendelő döntéssel, így különösen a hazai partner részére kifizetett támogatás részleges vagy teljes visszafizetésének elrendelésével.
 
-(6) A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján lefolytatott közbeszerzésre, illetve a közbeszerzési eljárásra vonatkozó egyéb jogszabályok megsértésének gyanúja esetén a szabálytalansági vizsgálatot lefolytató szervezet vezetője a Kbt. 327. § (2) bekezdésében foglaltakkal összhangban köteles a Közbeszerzési Döntőbizottság eljárását kezdeményezni, és ezzel egyidejűleg dönt a szabálytalansági vizsgálat (13) bekezdés szerinti felfüggesztéséről.
+(6)[^55] A Kbt. alapján lefolytatott közbeszerzésre, illetve a közbeszerzési eljárásra vonatkozó egyéb jogszabályok megsértésének gyanúja esetén a szabálytalansági vizsgálatot lefolytató szervezet vezetője a Kbt. 327. § (2) bekezdésében foglaltakkal összhangban köteles a Közbeszerzési Döntőbizottság eljárását kezdeményezni, és ezzel egyidejűleg dönt a szabálytalansági vizsgálat (13) bekezdés szerinti felfüggesztéséről.
 
-(7) Közbeszerzést érintő szabálytalanság megállapításának esetében a szabálytalanság megtörténtét megállapító döntés meghozatalát követően a szabálytalansággal érintett közbeszerzési eljárást lefolytató személy (pl. közbeszerzési tanácsadó) részére a támogatásból kifizetendő díj összege kifizetése megtagadható, visszakövetelhető, illetve a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
+(7)[^56] Közbeszerzést érintő szabálytalanság megállapítása esetén a szabálytalansággal érintett közbeszerzési eljárásban, az ajánlatkérő nevében eljáró vagy az eljárásba bevont személyek részére a támogatásból kifizetendő díj összegére eső támogatás kifizetése megtagadható, visszakövetelhető, és a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
 
 (8) A szabálytalansági vizsgálat alapján elrendelt intézkedést a nemzeti hatóság vezetője állapítja meg, a hitelesítési tevékenységre kijelölt szervezet által lefolytatott szabálytalansági vizsgálat esetén a nemzeti hatóság vezetőjének jóvá kell hagynia. Amennyiben a nemzeti hatóság vezetője az intézkedést nem hagyja jóvá, akkor a hitelesítési tevékenységre kijelölt szervezetet legfeljebb két alkalommal új eljárás lefolytatására kötelezheti, az elrendelt intézkedést megváltoztathatja, vagy saját hatáskörben új eljárást folytathat le.
 
@@ -50,4 +50,7 @@ b) a szabálytalanság megtörténtét megállapító, az eljárást lezáró é
 
 (13) Ha a szabálytalanság megállapításához bíróság vagy hatóság előzetes döntése, vagy szakértői vizsgálat szükséges, a szabálytalansági vizsgálatot lefolytató szervezet vezetője a szabálytalansági vizsgálatot felfüggeszti a hatáskörrel rendelkező hatóság határozatának meghozataláig, illetve a szakvélemény kézhezvételéig. A felfüggesztés időtartama a (11) bekezdésben meghatározott elintézési határidőbe nem számít bele. A nemzeti hatóság, illetve a hitelesítési tevékenységre kijelölt szervezet vezetője a szabálytalansági vizsgálat felfüggesztésének elrendelésével egyidejűleg elrendeli a kifizetések felfüggesztését.
 
-[^43]: A 23. § a 160/2009. (VIII. 3.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. augusztus 6. napját követően megindított szabálytalansági vizsgálatokra kell alkalmazni.
+[^53]: A 23. § a 160/2009. (VIII. 3.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. augusztus 6. napját követően megindított szabálytalansági vizsgálatokra kell alkalmazni.
+[^54]: A 23. § (5) bekezdés b) pontja a 137/2010. (IV. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^55]: A 23. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^56]: A 23. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

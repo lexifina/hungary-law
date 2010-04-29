@@ -30,4 +30,12 @@ m) a teljesítés igazolását.
 
 (3) A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezet köteles gondoskodni a közbeszerzésekről szóló 2003. évi CXXIX. törvény és a közbeszerzésekre vonatkozó közösségi rendelkezések előírásai teljesülésének ellenőrzéséről.
 
-(4) A hitelesítési tevékenységre kijelölt szervezet jogosult a közbeszerzési eljárás valamennyi dokumentumát a partnertől bekérni, illetve az eljárás bármely szakaszában képviselőt delegálni.
+(4)[^36] A hazai partner által lefolytatott valamennyi közbeszerzési eljárás esetében a hitelesítési tevékenységre kijelölt szervezet jogosult a közbeszerzési eljárás valamennyi dokumentumát a hazai partnertől bekérni. A közösségi értékhatárt elérő vagy meghaladó értékű közbeszerzések esetében a hazai partner
+
+a) a közbeszerzési eljárás megindítása előtt legalább 15 munkanappal,
+
+b) a rendkívüli sürgősség miatt alkalmazott hirdetmény nélküli tárgyalásos eljárás során az ajánlat benyújtását megelőző 5 munkanapon belül
+
+köteles megküldeni a hitelesítési tevékenységre kijelölt szervezet részére az eljárást megindító ajánlati (ajánlattételi) felhívást, valamint – amennyiben annak készítése a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) szerint kötelező – az ajánlati dokumentációt, vagy kétszakaszos eljárás esetén, ha a hazai partner készített részvételi dokumentációt.
+
+[^36]: A 14. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
