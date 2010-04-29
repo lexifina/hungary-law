@@ -13,3 +13,7 @@
 (3) A Nemzeti Hatóság az Igazoló Hatóság által meghatározott formában és tartalommal hitelesítési jelentést állít ki, melyben nyilatkozik az adott időszakban a hazai ellenőrzési rendszerek megfelelőségéről, az adott operatív program keretében kifizetett közkiadásokról, valamint az esetleges szabálytalanságokról és behajtott összegekről, és minden negyedévet követő hónap 15-ig megküldi a Közös Technikai Titkárságnak.
 
 (4) Az Irányító Hatóság, a Nemzeti Hatóság, az Igazoló Hatóság, a Közös Technikai Titkárság, a hitelesítési tevékenységre kijelölt szervezet, valamint a pénzügyi átutalási egység a szerződéskötés és a pénzügyi lebonyolítás folyamataiban és ezen folyamatok adatainak az IMIR 2007–2013-ba történő bevitele során biztosítják a négy szem elvének érvényesülését.
+
+(5)[^73] Az előleggel történő elszámolás részleteit a pénzügyi lebonyolítás és a folyamatba épített ellenőrzés eljárásrendjeiben kell rögzíteni.
+
+[^73]: A 37. § (5) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 27. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 2. § Az 1. § (1) bekezdésében meghatározott Alapok és a hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során e rendelet eltérő rendelkezése hiányában az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.) rendelkezéseit kell alkalmazni.
+## 2. §[^1] Az 1. § (1) bekezdésében meghatározott Alapok és a hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során e rendelet eltérő rendelkezése hiányában az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) rendelkezéseit kell alkalmazni.
 
 ## Értelmező rendelkezések
 
@@ -6,11 +6,11 @@
 
 1. átutalás igénylési dokumentáció: a közös Igazoló Hatóság (a továbbiakban: Igazoló Hatóság) által kiállított átutalási kérelem, költségnyilatkozat és költségigazoló nyilatkozat, amely alapján az Európai Bizottság átutalja a közösségi támogatást;
 
-2. bankszámla: a Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett, a közösségi támogatások, illetve a hazai társfinanszírozás pénzforgalmának lebonyolítására szolgáló, fejezeti kezelésű előirányzat-felhasználási keretszámla, a lebonyolítási euró számla, közös programszámla, továbbá a vezető partner által a közösségi támogatás, illetve a hazai partner által a hazai társfinanszírozás fogadására szolgáló kincstári vagy pénzügyi intézmény által vezetett fizetési számla;
+2.[^2] fizetési számla: a Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett, a közösségi támogatások, illetve a hazai társfinanszírozás pénzforgalmának lebonyolítására szolgáló, fejezeti kezelésű előirányzat-felhasználási keretszámla, a lebonyolítási euró számla, közös programszámla, továbbá a vezető partner által a közösségi támogatás, illetve a hazai partner által a hazai társfinanszírozás fogadására szolgáló kincstári vagy pénzügyi intézmény által vezetett fizetési számla;
 
 3. forrásgazda: az Alapok előirányzatai esetében a tervezési, előirányzat-módosítási, felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettségek viselője és jogok gyakorlója;
 
-4. forráslehívás: azon tevékenységek összessége, melynek eredményeképpen a közösségi támogatás és a hazai társfinanszírozás összege rendelkezésre áll a lebonyolítási euró bankszámlán annak érdekében, hogy a közösségi támogatás és a hazai társfinanszírozás összege a vezető partner, a partner és a TA projekt kedvezményezettjének a bankszámlájára átutalásra kerüljön;
+4.[^3] forráslehívás: azon tevékenységek összessége, melynek eredményeképpen a közösségi támogatás és a hazai társfinanszírozás összege rendelkezésre áll a lebonyolítási euró fizetési számlán annak érdekében, hogy a közösségi támogatás és a hazai társfinanszírozás összege a vezető partner, a partner és a TA projekt kedvezményezettjének a fizetési számlájára átutalásra kerüljön;
 
 5. hazai társfinanszírozás: központi költségvetési és elkülönített állami pénzalapokból származó finanszírozás;
 
@@ -55,3 +55,7 @@
 25. vezető partner: több jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság által közösen megvalósítandó projekt esetén a projekt megvalósításának egészéért felelősséget viselő, az Alapokból származó közösségi támogatásban részesülő fél.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmak a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendeletben (a továbbiakban: Kijelölő Rendelet), az 1083/2006/EK rendeletben foglaltak szerint értelmezendők.
+
+[^1]: A 2. § a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés 2. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés 4. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
