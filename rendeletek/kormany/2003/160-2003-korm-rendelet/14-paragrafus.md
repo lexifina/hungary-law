@@ -1,10 +1,10 @@
-## 13/A. §[^58] A Tv. 2. §-a (3) bekezdésének alkalmazása során a kincstár alatt a Magyar Államkincstárat kell érteni.
+## 13/A. §[^70] A Tv. 2. §-a (3) bekezdésének alkalmazása során a kincstár alatt a Magyar Államkincstárat kell érteni.
 
 ## Záró rendelkezés
 
 14. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-Melléklet a 160/2003. (X. 7.) Korm. rendelethez[^59]
+Melléklet a 160/2003. (X. 7.) Korm. rendelethez[^71]
 
 NYILATKOZAT
 
@@ -148,5 +148,5 @@ ___________
 
 5 Amennyiben ezt a nyilatkozatot a civil szervezet megtagadja, nem jogosult a civil jelöltállítási rendszerben való részvételre!
 
-[^58]: A 13/A. §-t a 321/2006. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^59]: A melléklet a 18/2005. (II. 10.) Korm. rendelet 9. §-a és 10. §-a (2) bekezdésének l)–m) pontja, a 21/2008. (II. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^70]: A 13/A. §-t a 321/2006. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^71]: A melléklet a 18/2005. (II. 10.) Korm. rendelet 9. §-a és 10. §-a (2) bekezdésének l)–m) pontja, a 21/2008. (II. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.
