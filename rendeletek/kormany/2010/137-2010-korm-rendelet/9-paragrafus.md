@@ -1,0 +1,3 @@
+## 8. § Az R1. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A hitelesítési tevékenységre kijelölt szervezet a megállapított szabálytalanságokról, a megtett intézkedésekről és azok eredményéről – a döntést követő 5 munkanapon belül – az Európai Bizottság által meghatározott formában és tartalommal jelentést küld a nemzeti hatóság részére. A hitelesítési tevékenységre kijelölt szervezet a kezdeti jelentést követően a szabálytalan összeg teljes behajtásáig minden negyedévet követő két héten belül nyomon követési jelentést küld a nemzeti hatóság részére az államigazgatási, bírósági eljárások helyzetéről és azok eredményéről.”

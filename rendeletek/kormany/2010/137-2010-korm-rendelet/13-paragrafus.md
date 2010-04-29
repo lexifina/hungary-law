@@ -1,0 +1,3 @@
+## 12. § Az R2. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A lebonyolítási euró fizetési számla a vezető partner által benyújtott és jóváhagyott fizetési kérelem alapján közösségi támogatásra jogosult költségek Alapokból történő megtérítésére, az Egyetértési Nyilatkozatban – az 5. § (5) bekezdésében foglaltak figyelembevételével – meghatározott mértékben a vezető partner részére folyósítandó előleg kifizetésére és a vezető partner által bármilyen jogcímen történő visszafizetésére, valamint a TA források kifizetésére szolgál. Ezen lebonyolítási euró fizetési számlák fölött az Irányító Hatóság és a Nemzeti Hatóság rendelkezési jogot biztosíthat a pénzügyi átutalási egységnek, a TA források átutalásának kivételével.”
