@@ -1,6 +1,6 @@
 74/A. § (1) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-a) az Európai Parlament és a Tanács 2320/2002/EK rendelete (2002. december 16.) a polgári légiközlekedés biztonsága területén közös szabályok létrehozásáról, 12. cikk;
+a) az Európai Parlament és a Tanács 300/2008/EK rendelete (2008. március 11.) a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről;
 
 b) az Európai Parlament és a Tanács 261/2004/EK rendelete (2004. február 11.) a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról, és a 295/91/EGK rendelet hatályon kívül helyezéséről, 16. cikk;
 

@@ -14,7 +14,7 @@
 
 (6) A légi közlekedés védelme érdekében – külön jogszabályban meghatározott eljárási rend szerint – a munkavállalókat, továbbá az eseti munkavégzés céljából a repülőtér nyilvánosság számára hozzá nem férhető zárt területére kíséret nélkül belépő személyeket ellenőrizni kell.
 
-(7) A polgári légiközlekedés biztonsága területén közös szabályok létrehozásáról szóló, 2002. december 16-i 2320/2002/EK európai parlamenti és tanácsi rendeletben meghatározott repülőtér azon területére, ahol a belépés korlátozott (a továbbiakban: zárt terület) nem léphet be és a légiközlekedés területén – e törvény eltérő rendelkezése hiányában – nem foglalkoztatható
+(7) A polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletben meghatározott repülőtér azon területére, ahol a belépés korlátozott (a továbbiakban: zárt terület) nem léphet be és a légiközlekedés területén – e törvény eltérő rendelkezése hiányában – nem foglalkoztatható
 
 a) aki büntetett előéletű,
 
