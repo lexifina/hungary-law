@@ -1,0 +1,1 @@
+## „(4) A madárinfluenza terjedésének megakadályozása érdekében az (1) és (2) bekezdés szerinti felmentéseket is figyelembe vevő további intézkedések a 2005/94/EK tanácsi irányelv 64. cikk (3) bekezdésében meghatározott eljárással kerülnek elfogadásra.”
