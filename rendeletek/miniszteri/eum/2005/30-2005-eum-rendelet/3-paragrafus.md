@@ -58,17 +58,18 @@ b) szükség esetén megemlíti, hogy milyen hatással van a gyógyszer a járm�
 
 c) felsorolja azokat a segédanyagokat, amelyeket a gyógyszer biztonságos és hatásos felhasználása érdekében fontos ismerni, és szerepelnek az Európai Unió Bizottsága által közzétett részletes útmutatásban.
 
-(4) A betegtájékoztató véglegezése céljából a gyógyszer indikációja szerinti betegek célcsoportjaival konzultációt kell lefolytatni annak érdekében, hogy a betegtájékoztató jól olvasható, egyértelmű és könnyen használható legyen. Ennek eredményét a betegtájékoztató szövegének tükröznie kell. A forgalomba hozatali engedély jogosultjának a betegek érdekképviseleti szervezeteinek kérésére rendelkezésre kell bocsátania a betegtájékoztatót a vakok és gyengén látók számára megfelelő formában is.
+(4)[^5] A betegtájékoztató véglegezése céljából a gyógyszer indikációja szerinti betegek célcsoportjaival konzultációt kell lefolytatni annak érdekében, hogy a betegtájékoztató jól olvasható, egyértelmű és könnyen értelmezhető legyen. Ennek eredményét a betegtájékoztató szövegének tükröznie kell. A forgalomba hozatali engedély jogosultjának a beteg közvetlen megkeresésére, vagy a betegek érdek-képviseleti szervezetének kérésére – a betegek részéről érkezett, dokumentált megkeresések alapján – rendelkezésre kell bocsátania a betegtájékoztatót a vakok és gyengén látók információszerzését lehetővé tevő formában is.
 
 (5) A betegtájékoztató szövegének összhangban kell lennie a gyógyszer alkalmazási előírásában foglaltakkal.
 
 (6) Radioaktív gyógyszer esetén a (2) bekezdés szerinti betegtájékoztatónak tartalmaznia kell azokat az óvintézkedéseket is, amelyeket a felhasználónak és a betegnek a gyógyszer elkészítése és alkalmazása során meg kell tennie, valamint azokat a különleges óvintézkedéseket, amelyek a csomagolás és annak fel nem használt tartalmának speciális ártalmatlanítására vonatkoznak.
 
-(7)[^5] A hagyományos növényi gyógyszerek címkéjének és betegtájékoztatójának e rendeletben meghatározottakon kívül tartalmaznia kell, hogy
+(7)[^6] A hagyományos növényi gyógyszerek címkéjének és betegtájékoztatójának e rendeletben meghatározottakon kívül tartalmaznia kell, hogy
 
 a) a termék hagyományos növényi gyógyszer, kizárólag a régóta fennálló használaton alapuló, meghatározott javallatokra alkalmazandó, és
 
 b) a felhasználónak orvossal vagy gyógyszerésszel egyeztetnie kell, ha a tünetek a gyógyszer használata alatt fennmaradnak, vagy a betegtájékoztatóban nem említett mellékhatások lépnek fel.
 
 [^4]: A 3. § (2) bekezdésének bevezető szövegrésze az 53/2008. (XII. 31.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (7) bekezdését az 52/2005. (XI. 18.) EüM rendelet 40. § (7) bekezdésének b) pontja iktatta be.
+[^5]: A 3. § (4) bekezdése a 20/2010. (IV. 29.) EüM rendelet 6. §-ával megállapított szöveg.
+[^6]: A 3. § (7) bekezdését az 52/2005. (XI. 18.) EüM rendelet 40. § (7) bekezdésének b) pontja iktatta be.
