@@ -1,1 +1,0 @@
-## 2. § A Hszt. 2. számú melléklete szerint a miniszter és a büntetés-végrehajtás országos parancsnoka (a továbbiakban: országos parancsnok) munkáltatói jogkörében nem szereplő egyes munkáltatói jogköröket, továbbá az ezek gyakorlására feljogosított vezetői beosztásokat e rendelet melléklete tartalmazza.
