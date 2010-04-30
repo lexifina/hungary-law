@@ -1,5 +1,0 @@
-28. § (1) A Menedzsment Csoport a végső kedvezményezett által beküldött havi jelentés beérkezésétől számított 20 napon belül havi projekt előrehaladási jelentést állít ki, melyben nyilatkozik, hogy meggyőződött arról, hogy a megelőző hónapban jóváhagyott, rögzített és a végső kedvezményezett részére kiutalt támogatási összegekkel kapcsolatos dokumentum alapú ellenőrzéseket, továbbá a helyszíni vizsgálatokat elvégezte. A Menedzsment Csoport a havi projekt előrehaladási jelentést továbbítja a Hitelesítő Hatóság részére.
-
-(2) A Felelős Hatóság – a Hitelesítő Hatóság által kiállított költségigazoló nyilatkozat figyelembevételével – elkészíti, és az Európai Bizottság részére benyújtja az éves programok végrehajtásáról szóló előrehaladási jelentéseket, illetve zárójelentéseket.
-
-(3) A pályázati dokumentációt, a megállapodást, az (1) és (2) bekezdésben foglalt jelentéseket, a kifizetésekkel kapcsolatos adatokat, a helyszíni vizsgálatok dokumentumait, illetve a monitoring tevékenységet támogató egyéb adatokat a Menedzsment Csoport feltölti az informatikai rendszerbe.

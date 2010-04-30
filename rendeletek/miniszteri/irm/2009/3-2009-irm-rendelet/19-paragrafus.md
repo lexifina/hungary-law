@@ -1,1 +1,0 @@
-## 18. § A pénzügyi irányítási és ellenőrzési tevékenység tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.), valamint az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.) előírásai az irányadók.

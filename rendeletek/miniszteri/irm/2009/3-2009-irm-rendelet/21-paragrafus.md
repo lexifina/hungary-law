@@ -1,1 +1,0 @@
-## Közösségi hozzájárulás rendezése

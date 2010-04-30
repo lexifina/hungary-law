@@ -1,7 +1,0 @@
-## 19. § A pénzügyi lebonyolítás során olyan irányítási és ellenőrzési rendszert kell kialakítani, amely biztosítja az Alapokból társfinanszírozott intézkedések teljesítésének és az igényelt kiadások hitelességének ellenőrzését, valamint biztosítja az alkalmazandó nemzeti és közösségi jogszabályok betartását, különösen a kiadások támogathatósága, a közbeszerzések, az állami támogatás, a tisztességes verseny és az esélyegyenlőség tárgyában. Az irányítási és ellenőrzési intézményrendszer működése a Szolidaritási alapokhoz kapcsolódó technikai költségkeret terhére finanszírozható.
-
-20. § (1) A Felelős Személy és a Hitelesítő Hatóság vezetője e rendelet melléklete szerint köteles nyilatkozni az általa működtetett irányítási és ellenőrzési rendszerek megfelelő és megbízható működéséről.
-
-(2) Ha az (1) bekezdésben meghatározott szervezetnél év közben változás történik a szervezet vezetője személyében, továbbá ha a szervezet átalakul vagy megszűnik, a távozó vezető (átalakuló vagy megszűnő szervezet vezetője) köteles a nyilatkozatot az addig eltelt időszak vonatkozásában kitölteni, a nyilatkozatot az új vezetőnek átadni, aki köteles azt az éves beszámolóhoz mellékelni saját nyilatkozatával együtt.
-
-(3) A Felelős Hatóság és a Hitelesítő Hatóság vezetője a saját szervezetére vonatkozó nyilatkozatot a tárgyévet követő év május 31-ig megküldi az államháztartásért felelős miniszter részére.
