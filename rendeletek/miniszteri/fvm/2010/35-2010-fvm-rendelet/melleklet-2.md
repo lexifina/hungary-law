@@ -1,6 +1,6 @@
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 1 | Faj | Tőszám (db/ha) | Maximális fajlagos költségek a 4. § (1) bekezdés. a)–d) pontjában foglaltakra (ezer Ft/ha) | Kötelező termesztésben tartás a termőre fordulástól (év) | Elvárt hozamok a termőre fordulás utáni 3 év átlagában (t/ha) | Legkisebb támogatható ültetvényméret (ha) | Legkisebb támogatható táblaméret (ha) | Ültetvény termőre fordulásának ideje (év) | Maximálisan elszámolható éves ápolási költségek a fajlagos telepítési költségek százalékában (%) | Intenzív ültetvény minimális követelményrendszere | Öntözési követelmények |
+| 1 | Faj | Tőszám (db/ha) | Maximális fajlagos költségek a 6. § (1) bekezdés. a)–d) pontjában foglaltakra (ezer Ft/ha) | Kötelező termesztésben tartás a termőre fordulástól (év) | Elvárt hozamok a termőre fordulás utáni 3 év átlagában (t/ha) | Legkisebb támogatható ültetvényméret (ha) | Legkisebb támogatható táblaméret (ha) | Ültetvény termőre fordulásának ideje (év) | Maximálisan elszámolható éves ápolási költségek a fajlagos telepítési költségek százalékában (%) | Intenzív ültetvény minimális követelményrendszere | Öntözési követelmények |
 
 | 2 | alma | 1451–2000 | 4300 | 10 | 30 | 5 | 0,5 | 4 | 15 | támrendszer, öntözési és tápanyagutánpótlási rendszer, kerítés | csepegtető vagy mikroszórófej és felső öntözés |
 

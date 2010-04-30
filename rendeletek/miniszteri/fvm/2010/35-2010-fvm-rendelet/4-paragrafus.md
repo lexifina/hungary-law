@@ -8,7 +8,7 @@ b) zöldség-gyümölcs termelői csoport, termelői szervezet vagy azok leányv
 
 c) a mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (EUME).
 
-(2) Az (1) bekezdés b) pontjában meghatározott feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalnia kell, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben megfelel az (1) bekezdés c) pontjában meghatározott feltételeknek.
+(2)[^1] Az (1) bekezdés c) pontjában meghatározott feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalnia kell, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben megfelel az (1) bekezdés c) pontjában meghatározott feltételeknek.
 
 (3) Az ültetvény területének növelése abban az esetben támogatható, ha a beruházás alapján az ültetvény területe eléri az 1. mellékletben foglalt táblázat F oszlopában az adott fajra vonatkozó legkisebb ültetvényméretet azzal, hogy a régi és az új ültetvény együttesen egy adott megyén belüli vagy közvetlenül szomszédos megyében elhelyezkedő ültetvényt alkot.
 
@@ -33,3 +33,5 @@ eb) ha a támogatási kérelem benyújtásakor az ügyfél művelésében lévő
 f) a telepítési engedély szerint megvalósítani a beruházást.
 
 (6) Egy ügyfél egy támogatási kérelemben külön-külön és mindhárom célterületre vonatkozóan is igényelhet támogatást.
+
+[^1]: A 4. § (2) bekezdése a 49/2010. (IV. 27.) FVM rendelet 8. § (1) bekezdése szerint módosított szöveg.
