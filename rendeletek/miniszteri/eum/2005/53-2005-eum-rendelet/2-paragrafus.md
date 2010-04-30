@@ -8,4 +8,6 @@ b) hagyományos növényi gyógyszer.
 
 (2) Gyógyszerré minősíthető át a gyógytermék, ha gyógyhatása az OGYI-hoz – a nyilvántartásbavétel során – benyújtott dokumentációja szerint bizonyított.
 
-(3) Amennyiben az OGYI az új dokumentáció értékelése alapján a (2) bekezdés szerinti forgalomba hozatali engedélyt kiadja, a forgalomba hozatali engedély kiadásakor még forgalomban lévő gyógytermékek a csomagolásukon megjelölt felhasználhatósági idő lejártáig, de legkésőbb 2011. április 1-jéig forgalmazhatók.
+(3)[^1]
+
+[^1]: A 2. § (3) bekezdését a 20/2010. (IV. 29.) EüM rendelet 10. §-a hatályon kívül helyezte.

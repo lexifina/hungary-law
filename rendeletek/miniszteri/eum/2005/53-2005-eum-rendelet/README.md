@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-53-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2005-53-20-0B.2 | 53/2005. (XI. 18.) EüM rendelet |
+| 2010-04-30 | 2005-53-20-0B.3 | 20/2010. (IV. 29.) EüM rendelet |
