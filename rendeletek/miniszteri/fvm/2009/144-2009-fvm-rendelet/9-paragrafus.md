@@ -18,7 +18,7 @@ b) az ügyfél természetes személy, nem áll a gazdálkodási tevékenységév
 
 (7) A kifizetési kérelmet
 
-a) 2010. április 1. és április 30.,
+a)[^2] 2010. április 1. és május 31.,
 
 b) 2010. október 1. és október 31.,
 
@@ -33,3 +33,5 @@ a) az első, építéssel kapcsolatos kifizetési kérelemhez mellékelni kell a
 b) építésiengedély-köteles tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell a hatáskörrel rendelkező építésügyi hatóságnak a létesítmény használatbavételéről szóló jogerős engedélyét,
 
 c) termálkútfúrás és termálkút fennmaradását biztosító beruházások esetén az első, építéssel kapcsolatos kifizetési kérelemhez mellékelni kell a jogerős létesítési vízjogi engedély hiteles másolatát, valamint az utolsó kifizetési kérelemhez a jogerős üzemeltetési vízjogi engedély hiteles másolatát.
+
+[^2]: A 9. § (7) bekezdés a) pontja a 49/2010. (IV. 27.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.

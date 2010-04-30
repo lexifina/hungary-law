@@ -14,10 +14,12 @@ b) amelyet korábban nyújtottak be, ha az a) pont alapján nem lehet különbs�
 
 (5) A kifizetést az MVH az ügyfélnek az MVH-nál az ügyfél-regisztrációs rendszerben nyilvántartott bankszámlájára történő átutalással teljesíti
 
-a) a 2010. április 1. és április 30. közötti időszakban benyújtott kifizetési kérelem esetében 2010. szeptember 1. és szeptember 30. között,
+a)[^3] a 2010. április 1. és május 31. közötti időszakban benyújtott kifizetési kérelem esetében 2010. szeptember 1. és szeptember 30. között,
 
 b) a 2010. október 1. és október 30. közötti időszakban benyújtott kifizetési kérelem esetében 2011. március 1. és március 31. között,
 
 c) a 2011. április 1. és április 30. közötti időszakban benyújtott kifizetési kérelem esetében 2011. szeptember 1. és szeptember 30. között.
 
 (6) A támogatás forintban kerül kifizetésre. Az ügyfél részére engedélyezett kifizetések teljes összege nem haladhatja meg a jogerős támogatási határozatban rögzített támogatási összeget és a támogatási összegnek a támogatás részletes feltételeit megállapító jogszabályban meghatározott felső határát. A támogatás részletes feltételeit megállapító jogszabályokban euróban meghatározott összegek átváltása az Európai Központi Bank (a továbbiakban: EKB) által közzétett, azon év január 1-jei árfolyamon történik, amikor a támogatás odaítélésére vonatkozó határozat meghozatalára sor került.
+
+[^3]: A 10. § (5) bekezdés a) pontja a 49/2010. (IV. 27.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.
