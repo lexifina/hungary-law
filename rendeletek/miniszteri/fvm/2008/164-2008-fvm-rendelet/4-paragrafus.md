@@ -42,7 +42,7 @@ e) az általa beoltott, embert mart állat oltottságáról a megmart embert kez
 
 f)[^1]
 
-g)[^2] az MgSzH által kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
+g)[^2] az MgSzH által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
 
 h)[^3] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
 
@@ -52,13 +52,13 @@ a) ellenőrzi az oltást végző állatorvost (a jelentési és nyilvántartási
 
 b) nyilvántartja az embert mart és a megfigyelés alá helyezett, egyedileg azonosított, továbbá az 5. § (2) bekezdésében leírt állatokat;
 
-c)[^4] szervezett oltás esetén engedélyezi az ebek összevezetését, meghatározza annak helyét, idejét, és az összevezetés feltételeit a Kamara illetékes területi szervezetének javaslata alapján;
+c)[^4]
 
 d) évenként összesíti az illetékességi területén beoltott ebek számát az (5) bekezdés c) pontjában leírt jelentések alapján;
 
 e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végrehajtását, továbbá jogsértés esetén az Éltv. 56. §-a szerint jogkövetkezményeket alkalmazhat.
 
 [^1]: A 4. § (5) bekezdésének f) pontját a 23. § (2) bekezdése hatályon kívül helyezte.
-[^2]: A 4. § (5) bekezdésének g) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
+[^2]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja szerint módosított szöveg.
 [^3]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
-[^4]: A 4. § (6) bekezdés c) pontja a 63/2009. (V. 20.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (6) bekezdés c) pontját a 42/2010. (IV. 22.) FVM rendelet 17. §-a hatályon kívül helyezte.

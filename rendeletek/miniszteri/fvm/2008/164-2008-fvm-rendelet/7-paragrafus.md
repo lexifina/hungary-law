@@ -1,29 +1,19 @@
-7. § (1) A 6. § (3) bekezdésében leírt immunizálás elvégezhető:
+7. §[^5] (1) A 6. § (3) bekezdésében leírt immunizálás elvégezhető:
 
 a) engedélyezett állat-egészségügyi szolgáltató létesítményben,
 
 b) az állattartó kérésére az állat tartási helyén,
 
-c)[^5] a Kamara illetékes területi szervezetének javaslata alapján, összevezetve, a kerületi főállatorvos engedélyével, az általa meghatározott összevezetési szabályok szerint.
+c) a Kamara területi szervezete által javasolt településeken vagy településrészeken összevezetve.
 
 (2) Az állat-egészségügyi szolgáltató létesítményben kampányszerűen végzett immunizálás nem minősül összevezetett oltásnak.
 
-(3) Oltás céljából történő eb-összevezetésre a kerületi főállatorvos a járványhelyzet figyelembevételével csak abban az esetben adhat engedélyt, ha az adott településen vagy településrészen nincs engedélyezett állat-egészségügyi szolgáltató létesítmény, továbbá ha a településszerkezet és az immunizálandó ebek száma nem teszi lehetővé az állatok tartási helyén történő oltás elvégzését.
+(3) A magánállatorvos az (1) bekezdés c) pontja szerinti immunizálási szándékát, annak tervezett időpontja előtt 14 nappal, az összevezetés tervezett időpontjának és pontosan azonosítható helyszínének megjelölésével írásban köteles bejelenteni a kerületi főállatorvosnak és a Kamara területi szervének.
 
-(4) Az ebek oltási céllal történő összevezetésére vonatkozó engedély
+(4) Az oltás céljából történő eb-összevezetést a kerületi főállatorvos megtilthatja kedvezőtlen járványhelyzet esetén, vagy ha az összevezetés állategészségügyi, állatjóléti vagy személyi feltételei nem adottak.
 
-a) az oltandó ebek számára tekintettel,
+(5) Az oltás céljából történő eb-összevezetés helyszínére a Kamara területi szervezete akkor tehet javaslatot, ha az adott településen vagy településrészen nincs engedélyezett állat-egészségügyi szolgáltató létesítmény, továbbá ha a településszerkezet és az immunizálandó ebek száma nem teszi lehetővé az állatok tartási helyén történő oltás elvégzését.
 
-b) az összevezetett ebek, az immunizálást végző magánállatorvos, a közreműködők egészségének és testi épségének biztosítását szem előtt tartva,
+(6) A Kamara területi szervezete az (5) bekezdés szerinti javaslatát az MgSzH területi szervével egyetértésben teszi meg, és javaslatáról értesíti tagjait, az érintett települések jegyzőit, valamint az MgSzH területi szervét.
 
-c) az állat-egészségügyi és közegészségügyi szempontok figyelembevételével,
-
-d) állatjólléti feltételek előírásával
-
-## adható.
-
-(5) Az ebek oltásra történő összevezetésére vonatkozó engedély a magánállatorvosnak az állatok tartási helye szerint illetékes kerületi főállatorvoshoz benyújtott kérelmére adható. A kérelemnek tartalmaznia kell az összevezetés szükségességének részletes indoklását, az oltó állatorvos nevét, az oltás tervezett helyét, időpontját, valamint a várhatóan összevezetésre kerülő állatok számát. A kérelemhez csatolni kell a Kamara (1) bekezdés c) pontja szerinti javaslatát.
-
-(6) A kiadott határozatot a kerületi főállatorvos az összevezetés kérelmezett helye szerint illetékes település jegyzőjének és a Kamara javaslatot tevő szervezetének is köteles megküldeni.
-
-[^5]: A 7. § (1) bekezdés c) pontja a 63/2009. (V. 20.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^5]: A 7. § a 42/2010. (IV. 22.) FVM rendelet 15. §-ával megállapított szöveg.
