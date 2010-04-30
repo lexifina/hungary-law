@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-3. §[^1] (1) Az egyetemes szolgáltatás keretében értékesített villamos energia elszámolására vonatkozóan az egyetemes szolgáltatónak teljes ellátás alapú szerződés keretében a következő árszabásokra kell ajánlatot tennie a felhasználók részére:
+3. §[^2] (1) Az egyetemes szolgáltatás keretében értékesített villamos energia elszámolására vonatkozóan az egyetemes szolgáltatónak teljes ellátás alapú szerződés keretében a következő árszabásokra kell ajánlatot tennie a felhasználók részére:
 
 a) általános, egy zónaidős („A1”) árszabás,
 
@@ -10,7 +10,7 @@ c) közintézményi, két zónaidős („A3”) árszabás,
 
 d) időszakos („B”) árszabás,
 
-e)[^2] idényjellegű, egy zónaidős („H”) árszabás.
+e)[^3] idényjellegű, egy zónaidős („H”) árszabás.
 
 (2) Az „A1” és a „H” árszabás esetén az egyetemes szolgáltató – zónaidőtől függetlenül – egy naptári napon belül azonos árat köteles alkalmazni.
 
@@ -18,7 +18,7 @@ e)[^2] idényjellegű, egy zónaidős („H”) árszabás.
 
 (4) Az egyetemes szolgáltató legalacsonyabb árú „B” árszabásának ára nem haladhatja meg az „A1” árszabásához tartozó (legmagasabb) ár 70%-át.
 
-(5)[^3] Az egyetemes szolgáltató „H” árszabásának ára nem haladhatja meg a legalacsonyabb árú „B” árszabásához tartozó árat.
+(5)[^4] Az egyetemes szolgáltató „H” árszabásának ára nem haladhatja meg a legalacsonyabb árú „B” árszabásához tartozó árat.
 
 (6) Az „A2” és „A3” árszabást a zónaidőnkénti villamosenergia-fogyasztás mérési feltételeinek megléte, valamint a (16) bekezdésben meghatározott esetben lehet alkalmazni.
 
@@ -26,7 +26,7 @@ e)[^2] idényjellegű, egy zónaidős („H”) árszabás.
 
 (8) A (7) bekezdés szerinti felhasználói berendezések részére az egyetemes szolgáltató – az elosztóval, valamint az átviteli rendszerirányítóval kötendő megállapodás alapján – naponta összesen minimum 8 (a nyári időszámítás idején 7) óra időtartamra köteles a villamosenergia-ellátást biztosítani, amiből munkanapokon legalább 5, legfeljebb 6 (a nyári időszámítás idején legalább 4, legfeljebb 5) óra eshet az 1. számú mellékletben meghatározott völgyidőszakba. A csúcsidőszakba eső villamosenergia-ellátás alkalmankénti időtartama nem lehet rövidebb 30 percnél.
 
-(9)[^4] A „H” árszabás szerint számolható el a központi fűtésről és melegvíz-szolgáltatásról szóló kormányrendelet szerinti fűtési idényben a külön mért felhasználói áramkörre állandó jelleggel, megfelelő segédeszköz (szerszám) hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatott, legalább 3 jósági fokú hőszivattyúk és a napenergiából és egyéb megújuló energiaforrásokból nyert hőt épületek hőellátására hasznosító berendezések üzemeltetését közvetlenül szolgáló készülékek (pl. keringetőszivattyúk, automatikák) villamosenergia-fogyasztása.
+(9)[^5] A „H” árszabás szerint számolható el a központi fűtésről és melegvíz-szolgáltatásról szóló kormányrendelet szerinti fűtési idényben a külön mért felhasználói áramkörre állandó jelleggel, megfelelő segédeszköz (szerszám) hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatott, legalább 3 jósági fokú (levegő-víz hőszivattyú esetén +2 Celsius fok levegő-, és +35 Celsius fok előremenő vízhőmérsékletnél mérve) hőszivattyúk, és a napenergiából és egyéb megújuló energiaforrásokból nyert hőt épületek hőellátására hasznosító berendezések üzemeltetését közvetlenül szolgáló készülékek (pl. keringetőszivattyúk, automatikák) villamosenergia-fogyasztása. A berendezések alkalmazására vonatkozó további feltételeket az egyetemes szolgáltató és az elosztó az üzletszabályzatában határozza meg.
 
 (10) A (7) és (9) bekezdések rendelkezéseinek megsértése a villamos energia egyetemes szolgáltatási szerződés megszegésének minősül.
 
@@ -44,7 +44,7 @@ e)[^2] idényjellegű, egy zónaidős („H”) árszabás.
 
 (17) A felhasználó az „A1”, „A2”, „A3” árszabások mellé „B” és „H” árszabást is választhat.
 
-[^1]: A 3. § a 70/2009. (XII. 4.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 3. § (1) bekezdés e) pontja a 70/2009. (XII. 4.) KHEM rendelet 4. § (2) bekezdése alapján 2010. április 16-án lépett hatályba.
-[^3]: A 3. § (5) bekezdése a 70/2009. (XII. 4.) KHEM rendelet 4. § (2) bekezdése alapján 2010. április 16-án lépett hatályba
-[^4]: A 3. § (9) bekezdése a 70/2009. (XII. 4.) KHEM rendelet 4. § (2) bekezdése alapján 2010. április 16-án lépett hatályba. A (9) bekezdést megállapító 70/2009. (XII. 4.) KHEM rendelet 1. §-át a 30/2010. (IV. 15.) KHEM rendelet 1. §-a módosította volna 2010. május 1. napjával, azonban a 70/2009. (XII. 4.) KHEM rendelet 2010. április 17. napjával hatályát vesztette, így a módosítás nem végrehajtható.
+[^2]: A 3. § a 70/2009. (XII. 4.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés e) pontja a 70/2009. (XII. 4.) KHEM rendelet 4. § (2) bekezdése alapján 2010. április 16-án lépett hatályba.
+[^4]: A 3. § (5) bekezdése a 70/2009. (XII. 4.) KHEM rendelet 4. § (2) bekezdése alapján 2010. április 16-án lépett hatályba
+[^5]: A 3. § (9) bekezdése a 70/2009. (XII. 4.) KHEM rendelet 4. § (2) bekezdése alapján 2010. április 16-án lépett hatályba. A (9) bekezdés a 36/2010. (IV. 29.) KHEM rendelet 1. §-ával megállapított szöveg.

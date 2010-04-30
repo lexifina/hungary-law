@@ -14,7 +14,7 @@
 
 ## 2. Nem munkanapnak számító napokon a csúcsidőszak is völgyidőszaknak minősül.
 
-2. számú melléklet a 44/2008. (XII. 31.) KHEM rendelethez[^14]
+2. számú melléklet a 44/2008. (XII. 31.) KHEM rendelethez[^15]
 
 Az egyetemes szolgáltatási ár képzése
 
@@ -76,4 +76,4 @@ M: az egyetemes szolgáltatás 5. § (6) bekezdés szerinti (legnagyobb átlagos
 
 D: Az 5. § (9) bekezdése szerinti eltérésnek megfelelő összeg; Ft.
 
-[^14]: A 2. számú melléklet az 5/2009. (II. 25.) KHEM rendelet 1. §-a, a 70/2009. (XII. 4.) KHEM rendelet – 79/2009. (XII. 22.) KHEM rendelet 2. §-a szerint módosított – 3. §-a szerint módosított szöveg.
+[^15]: A 2. számú melléklet az 5/2009. (II. 25.) KHEM rendelet 1. §-a, a 70/2009. (XII. 4.) KHEM rendelet – 79/2009. (XII. 22.) KHEM rendelet 2. §-a szerint módosított – 3. §-a szerint módosított szöveg.
