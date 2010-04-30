@@ -1,0 +1,3 @@
+2. § (1) Az 1. §-ban foglaltakon túl mentesül a digitális írástudás megszerzését szolgáló képzési részek alól az a képzésben részt vevő felnőtt is, aki rendelkezik az Fktv. 20/A. § (2) bekezdésében meghatározott képzési részek elvégzését tanúsító, a képző intézmény által kiadott igazolással.
+
+(2) Vizsgakötelezettséget tartalmazó digitális írástudás megszerzését szolgáló képzési program esetén a képzésben részt vevő felnőtt a vizsga alól csak abban az esetben mentesül, ha a mentesség alapjául szolgáló képzés során a digitális írástudás megszerzését szolgáló képzési programban előírt vizsgakötelezettségét eredményesen teljesítette, és rendelkezik a vizsgakötelezettség eredményes teljesítését tanúsító megfelelő dokumentummal.
