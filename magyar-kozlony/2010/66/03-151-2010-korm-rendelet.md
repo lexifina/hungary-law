@@ -1,0 +1,163 @@
+# A Kormány 151/2010. (IV. 30.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 66. szám, 2010. április 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e4cfff8eb2b0d8ee48c18f08c8cb13fc3fdfad2e/dokumentumok/5fd8fd38966dd20b5a9b44954c564f47ef31b8f8/letoltes)
+
+---
+
+A Kormány 151/2010. (IV. 30.) Korm. rendelete
+a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény
+végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés c) pontjában,
+a 2. §-nak a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm.
+rendelet 7/A. § (1)–(2) bekezdését megállapító rendelkezése tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi
+LXXXIII. törvény 83. § (2) bekezdés w) pontjában,
+az 5. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés u) pontjában és
+a 7. § tekintetében a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás
+általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (1) bekezdés f) pontjában
+kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
+1. §
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm.
+rendelet (a továb biak ban: Vhr.) 1. § (2) bekezdése a következő e)–l) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„e) funkcionális alcsoport: az MSZ EN ISO 9999 szabvány szerinti hatodik szintű tizenkétjegyű besorolási csoport
+(ISO12),
+f) funkcionális csoport: az MSZ EN ISO 9999 szabvány szerinti ötödik szintű tízjegyű besorolási csoport (ISO10),
+g) funkcionális elv szerinti fixcsoport: funkcionális csoport vagy funkcionális alcsoport szintjén megképzett
+támogatási csoport,
+h) közfinanszírozás alapjául elfogadott ár: az OEP által az árhoz nyújtott támogatás számításához figye lembe vett
+nettó összeg,
+i) rendeltetés szerinti fixcsoport: rendeltetési csoport szintjén megképzett támogatási csoport,
+j) rendeltetési csoport: az MSZ EN ISO 9999 szabvány szerinti negyedik szintű nyolcjegyű besorolási csoport (ISO8),
+k) rövid használati idejű eszköz: hat hónapnál nem hosszabb kihordási idejű, egyszer használatos eszköznek nem
+minősülő gyógyászati segédeszköz,
+l) kombinált kiszerelés: olyan gyógyászati segédeszköz, amely úgy jön létre, hogy a forgalomba hozó kettő vagy több,
+általa forgalomba hozott, azonos kihordási idejű, egyszer használatos vagy rövid használati idejű eszközt – az eszközök
+csomagolására vonatkozó szabályok betartásával – gyárilag egy kiszerelésbe helyez, és e kiszerelésre vonatkozóan
+a Gyftv. 32. §-a szerinti külön kérelmet nyújt be az OEP-hez.”
+2. §
+A Vhr. 7/A. §-a helyébe a következő rendelkezés lép:
+„7/A. § (1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továb biak ban: gyógyintézeti)
+kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha
+számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő
+ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy
+használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa
+rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő
+szakvizsgával rendelkezik.
+(2) A biztosított az Ebtv. 21. § (2) bekezdése alapján akkor is jogosult a gyógyászati segédeszközök
+társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról,
+javításáról és kölcsönzéséről szóló miniszteri rendeletben (a továb biak ban: R.) foglalt feltételek szerint támogatásban
+részesülő
+a) fogpótlás és fogszabályozó készülék, valamint tartozékai árához nyújtott támogatásra, ha ezek kiszolgáltatására
+fogászati ellátást nyújtó egészségügyi szolgáltatónál,
+b) hallásjavító készülék és tartozékai árához nyújtott támogatásra, ha ezek kiszolgáltatására a gyógyászati
+segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendeletben
+foglalt feltételekkel audiológiai szakrendelésen,
+c) egyedi méretvétel alapján egyedileg készített kontaktlencse árához nyújtott támogatásra, ha ennek
+kiszolgáltatására szemészeti szakellátást nyújtó egészségügyi szolgáltatónál vagy
+
+d) egyedi méretvétel alapján egyedileg gyártott protézis, ortézis árához, valamint mozgásszervi rehabilitáció és
+teamrendszerű felírás keretében rendelhető eszköz árához nyújtott támogatásra, ha ennek kiszolgáltatására
+ortopédiai, traumatológiai, rehabilitációs vagy sebészeti szakellátást nyújtó egészségügyi szolgáltatónál nyújtott
+ellátás keretében
+kerül sor.
+(3) Az OEP a gyógyászati segédeszközök közfinanszírozás alapjául elfogadott árához vagy közfinanszírozás alapjául
+megállapított kölcsönzési napidíjához nyújtott támogatást a következő támogatási technikákkal állapíthatja meg:
+a) százalékos mértékű támogatás vagy
+b) támogatási csoportra meghatározott fix összegű támogatás, ezen belül
+ba) eszközre meghatározott fix összegű támogatás, vagy
+bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatás.
+(4) Önálló funkcionális elv szerinti fixcsoport állapítható meg adott funkcionális alcsoportra, valamint funkcionális
+csoportra vonatkozóan.
+(5) Önálló rendeltetés szerinti fixcsoport állapítható meg adott rendeltetési csoportra.”
+3. §
+A Vhr. 7/B. §-a helyébe a következő rendelkezés lép:
+„7/B. § (1) Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti
+támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
+a) 98%-os támogatási mérték,
+b) 90%-os támogatási mérték,
+c) 80%-os támogatási mérték,
+d) 70%-os támogatási mérték,
+e) 50%-os támogatási mérték vagy
+f) 0%-os támogatási mérték.
+(2) Az eszköz árához nyújtott támogatás összege a 7/A. § (3) bekezdés a) pontja szerinti, százalékos mértékű
+támogatásban részesített támogatási csoportban az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz
+támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+(3) A 7/A. § (3) bekezdés b) pont ba) alpontja szerinti, eszközre meghatározott fix összegű támogatási csoportban
+a) a referenciaeszköz árához nyújtott támogatás összege a referenciaeszköz közfinanszírozás alapjául elfogadott
+árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+b) azon eszköz árához nyújtott támogatás összege, amelynek az OEP határozatában szereplő közfinanszírozás
+alapjául elfogadott ára a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaösszeggel,
+c) azon eszköz árához nyújtott támogatás összege, amelynek az OEP határozatában szereplő közfinanszírozás alapjául
+elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz
+támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+(4) A 7/A. § (3) bekezdés b) pont bb) alpontja szerinti, az eszköz valamely fizikai paraméterének fajlagos egységére
+meghatározott fix összegű támogatási csoportban a fajlagos egységre jutó támogatás összege
+a) a referenciaeszköz esetében a referenciaeszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz
+támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+b) azon eszköz esetében, amelynek egy fajlagos egységére jutó, az OEP határozatában szereplő közfinanszírozás
+alapjául elfogadott ára (a továb biak ban: fajlagos közfinanszírozás alapjául elfogadott ár) a referenciaeszközével
+azonos vagy annál magasabb, megegyezik a referenciaeszköz fajlagos egységére jutó támogatás összegével,
+c) azon eszköz esetében, amelynek fajlagos közfinanszírozás alapjául elfogadott ára a referenciaeszközénél
+alacsonyabb, az eszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára
+vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+(5) A kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz közfinanszírozás alapjául elfogadott
+kölcsönzési napidíjához nyújtott támogatás összege
+a) a referenciaeszköz esetében a referenciaeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és
+az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+b) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési
+napidíja a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaeszköz közfinanszírozás
+alapjául elfogadott kölcsönzési napidíjához nyújtott támogatás összegével,
+
+c) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési
+napidíja a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának
+és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+(6) A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök
+külön-külön vett támogatási összegeinek egyszerű számtani összege. A kombinált kiszerelések csak akkor
+részesíthetők támogatásban, ha kizárólag azonos kihordási idejű eszközöket tartalmaznak.”
+4. §
+A Vhr. 7/C. §-a helyébe a következő rendelkezés lép:
+„7/C. § (1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb
+közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy
+fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául
+elfogadott árú gyógyászati segédeszköz,
+a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
+b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző
+hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét egymást követő hónapban
+az összes támogatási jogcímet együttesen figye lembe véve az elszámolt támogatás tekintetében az 5%-ot elérte.
+(2) A referenciaeszköz használatához elengedhetetlenül szükséges tartozékoknak a termékkel együttesen kell
+a legalacsonyabb közfinanszírozás alapjául elfogadott árral, vagy a termék valamely fizikai paraméterének egy fajlagos
+egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául
+elfogadott árral rendelkezniük.
+(3) Az R. szerint támogatással kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz esetében
+– az (1) bekezdéstől eltérően – referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó,
+legalacsonyabb közfinanszírozás alapjául elfogadott kölcsönzési napidíjú gyógyászati segédeszköz,
+a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
+b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző
+hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét egymást követő hónapban az összes
+támogatási jogcímet együttesen figye lembe véve az elszámolt kölcsönzési napidíj-támogatás tekintetében az 5%-ot elérte.
+(4) A Gyftv. 32/A. §-a szerinti eljárásokban az OEP kilencven napon belül dönt.
+(5) A meghatározott eszközre vagy eszközökre irányuló felülvizsgálat kivételével a Gyftv. 32/A. §-a szerinti eljárásokban, és
+egy adott funkcionális csoportra vonatkozó követelményjegyzék összeállításakor az OEP kikéri az ille té kes szakmai
+kollégium, az Egészségügyi Stratégiai Kutató Intézet és a minőségtanúsításra kijelölt szervezet véleményét.
+(6) A Gyftv. 32. § (4) bekezdése szerinti eljárásokban az OEP kikéri a kérelem tárgya szerinti ille té kes szakmai kollégium
+véleményét.”
+5. §
+A Vhr. 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A támogatásban nem részesülő cochleáris implantátum alkalmazása során az egyes tartós fogyasztási cikkekre
+vonatkozó kötelező jótállásról szóló kormányrendeletben foglalt kötelező jótállási időtartamon túli meghibásodás
+esetén az alkatrészek cseréjéhez és javítási díjához nyújtott támogatás mértéke a csere vagy a javítás díjának 90%-a,
+melynek elszámolására az OEP megállapodást köthet a szolgáltatóval.”
+6. §
+A Vhr. 50. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.)
+Korm. rendelet módosításáról szóló 151/2010. (IV. 30.) Korm. rendelettel megállapított 1. § (2) bekezdés e–l) pontját és
+7/A–7/C. §-t a 2010. május 31-e után indult eljárásokban kell alkalmazni.”
+7. §
+Hatályát veszti a Vhr. 10/C. § (1) bekezdés e) pontja.
+8. §
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2010. május 1-jén lép hatályba, és ez a rendelet 2010. június 2-án
+hatályát veszti.
+(2) Az 1–4. § és a 6. § 2010. június 1-jén lép hatályba.
+Bajnai Gordon s. k.,
+miniszterelnök
