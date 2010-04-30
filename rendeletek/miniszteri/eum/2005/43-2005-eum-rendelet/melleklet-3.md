@@ -4,7 +4,7 @@
 
 ## bélyegzőlenyomata:
 
-| Értesítő kódszáma | Beteg TAJ száma | Ellenőrzött szer neve* | Adagolás | Kezelés első napja | Egy alkalommal rendelt mennyiség | A rendelés gyakorisága |
+| Értesítő azonosítója | Beteg TAJ száma | Ellenőrzött szer neve* | Adagolás | Kezelés első napja | Egy alkalommal rendelt mennyiség | A rendelés gyakorisága |
 
 ## * Törzskönyvi név, hatáserősség, illetve magisztrális szernél a hatóanyag nemzetközi neve és mennyisége egy adagolási egységben.
 

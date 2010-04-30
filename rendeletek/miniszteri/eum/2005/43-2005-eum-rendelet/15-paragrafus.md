@@ -8,6 +8,6 @@
 
 (4) A törött, kiszóródott ellenőrzött anyagot össze kell gyűjteni és tárolását a 16. § (1) bekezdés szerint kell biztosítani.
 
-(5)[^34] Ha a közforgalmú gyógyszertár szakmai ellenőrzésekor valamely ellenőrzött szer készletében az 14. §-ban meghatározott hiányon felüli hiány mutatkozik, az ÁNTSZ regionális tisztifőgyógyszerésze jegyzőkönyvet vesz fel és haladéktalanul értesíti a kábítószer rendészetet. Amennyiben a rendészeti ellenőrzést végző hatóság tár fel hiányosságokat, a jegyzőkönyv elkészítésével egyidejűleg értesíti az ÁNTSZ regionális tisztifőgyógyszerészét.
+(5)[^36] Ha a közforgalmú gyógyszertár szakmai ellenőrzésekor valamely ellenőrzött szer készletében az 14. §-ban meghatározott hiányon felüli hiány mutatkozik, az ÁNTSZ regionális tisztifőgyógyszerésze jegyzőkönyvet vesz fel és haladéktalanul értesíti a kábítószer rendészetet. Amennyiben a rendészeti ellenőrzést végző hatóság tár fel hiányosságokat, a jegyzőkönyv elkészítésével egyidejűleg értesíti az ÁNTSZ regionális tisztifőgyógyszerészét.
 
-[^34]: A 15. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^36]: A 15. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése szerint módosított szöveg.

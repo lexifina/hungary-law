@@ -24,13 +24,14 @@ b) a beteg gyógykezeléséhez az első vagy előző alkalommal rendelt ellenőr
 
 c) a betegnek az először rendelt adagnál nagyobb mennyiségű ellenőrzött szerre van folyamatosan szüksége,
 
-d) a háziorvos vagy a gyógyszert kiadó gyógyszerész kezdeményezi az ellenőrzött szer helyettesítését más, az OGYI által egyenértékűnek, illetve a terápia során helyettesíthetőnek minősített forgalomba hozatalra engedélyezett ellenőrzött készítménnyel.
+d)[^16]
 
-(11)[^16] A háziorvosnak a 2. számú melléklet szerinti, lefűzött nyilvántartó lapokat vagy egy ezzel azonos adattartalmú kábítószer nyilvántartó füzetet kell vezetnie a beteg dokumentációján alapuló adattartalommal. A háziorvos köteles a nyilvántartást az egészségügyi, valamint a rendészeti hatóságoknak helyszíni ellenőrzés alkalmával bemutatni.
+(11)[^17] A háziorvosnak a 2. számú melléklet szerinti, lefűzött nyilvántartó lapokat vagy egy ezzel azonos adattartalmú kábítószer nyilvántartó füzetet kell vezetnie a beteg dokumentációján alapuló adattartalommal. A háziorvos köteles a nyilvántartást az egészségügyi, valamint a rendészeti hatóságoknak helyszíni ellenőrzés alkalmával bemutatni.
 
 [^11]: A 6. § (1) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (5) bekezdése szerint módosított szöveg.
 [^12]: A 6. § (3) bekezdése a 44/2008. (XI. 28.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^13]: A 6. § (4) bekezdése a 44/2008. (XI. 28.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^14]: A 6. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^15]: A 6. § (7) bekezdése a 44/2008. (XI. 28.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^16]: A 6. § (11) bekezdése a 44/2008. (XI. 28.) EüM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^16]: A 6. § (10) bekezdés d) pontját a 20/2010. (IV. 29.) EüM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^17]: A 6. § (11) bekezdése a 44/2008. (XI. 28.) EüM rendelet 4. § (3) bekezdésével megállapított szöveg.

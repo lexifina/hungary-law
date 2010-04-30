@@ -2,7 +2,7 @@
 
 ## A háziorvos neve, címe, telefonszáma:
 
-## 1. Az értesítő kódja:
+## 1. Az értesítő azonosítója:
 
 ## 2. A beteg neve:
 
@@ -24,15 +24,15 @@
 
 ## 11. Rendelkezés a korábbi, azonos vagy más ellenőrzött szerre vonatkozó értesítő(k)ről:
 
-## A korábbi értesítő kódszáma A lejáratig érvényben marad Érvénytelen
+## A korábbi értesítő azonosítója A lejáratig érvényben marad Érvénytelen
 
 ## ..................................................
 
-## A korábbi értesítő kódszáma A lejáratig érvényben marad Érvénytelen
+## A korábbi értesítő azonosítója A lejáratig érvényben marad Érvénytelen
 
 ## ..................................................
 
-## A korábbi értesítő kódszáma A lejáratig érvényben marad Érvénytelen
+## A korábbi értesítő azonosítója A lejáratig érvényben marad Érvénytelen
 
 ## ..................................................
 
@@ -42,4 +42,6 @@
 
 ## P. H.
 
-2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez
+2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^45]
+
+[^45]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja szerint módosított szöveg.
