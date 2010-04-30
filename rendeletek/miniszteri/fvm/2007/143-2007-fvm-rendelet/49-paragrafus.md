@@ -8,7 +8,7 @@
 
 (3) Amennyiben szerológiailag pozitív állományból a vírus nem kerül kimutatásra, a korlátozó intézkedéseket fel kell oldani az alábbiak figyelembevételével:
 
-a) Szeropozitív állományokból származó tenyésztojás csak Magyarországon keltethető és az abból kikelő naposbaromfi is csak itt telepíthető le, kivéve ha az Európai Unió tagállamának az illetékes Állategészségügyi Szolgálata előzetesen hozzájárul a szeropozitív állományból származó tenyésztojás, illetve napos baromfi befogadásához.
+a)[^51] Szeropozitív állományokból származó tenyésztojás csak Magyarországon keltethető és az abból kikelő naposbaromfi is csak itt telepíthető le, kivéve ha az Európai Unió tagállamának az Állategészségügyi Szolgálata előzetesen hozzájárul a szeropozitív állományból származó tenyésztojás, illetve napos baromfi befogadásához.
 
 b) A keltetőbe való beszállítás alapfeltétele a keltető telephelye szerint illetékes igazgatóság hozzájárulása, melynek megléte esetén a származási állomány szerint illetékes igazgatóság engedélyezi a tojások kiszállítását.
 
@@ -45,3 +45,5 @@ o) A szeropozitív állományok levágott állataiból származó termékeket a 
 p) A (2) bekezdésben előírt vizsgálatok állami költségvetésből történnek.
 
 q) Felmentések csak a tojásrakási szezon végéig adhatók, utána az érintett állományok továbbtartása tenyésztési célból tilos. Az ilyen állományok csak vágóhídra szállíthatók.
+
+[^51]: A 49. § (3) bekezdés a) pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.

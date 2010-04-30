@@ -1,15 +1,5 @@
-## 4. § Az országos főállatorvos a külön bizottsági iránymutatással összhangban határozatban előírja a különböző baromfifajokban, valamint vadon élő madarakban a madárinfluenza vírus H5 és H7 altípusával való fertőzöttség előfordulási gyakoriságának kimutatására irányuló megfigyelési programok végrehajtását.
+## 4. §[^8] Az országos főállatorvos a baromfi és a vadon élő madarak madárinfluenzájára vonatkozó tagállami felügyeleti programok végrehajtásáról és a 2004/450/EK határozat módosításáról szóló, 2007. április 13-i 2007/268/EK bizottsági határozatban foglaltakkal összhangban dönt a különböző baromfifajokban, valamint vadon élő madarakban a madárinfluenza vírus H5 és H7 altípusával való fertőzöttség előfordulási gyakoriságának kimutatására irányuló megfigyelési programok végrehajtásáról.
 
 ## Jelentések
 
-5. § (1) A madárinfluenza bejelentési kötelezettség alá tartozó betegség. Aki e betegséget vagy a betegség gyanúját észleli, vagy arról tudomást szerez, haladéktalanul köteles erről közvetlenül vagy közvetve értesíteni az állatorvost, illetve az illetékes állategészségügyi hatóságot.
-
-(2) A bejelentési kötelezettség akkor is fennáll, ha egészségesnek látszó állaton vágás során fertőzöttségre gyanút keltő elváltozást észleltek.
-
-(3) A bejelentést szóban, írásban, személyesen vagy megbízott útján is lehet teljesíteni.
-
-(4) A bejelentésnek tartalmaznia kell:
-
-a) a baromfit, illetve a más fogságban tartott madarat tartó nevét, címét;
-
-b) a tartás helyét, vadon élő madár esetén az észlelés helyét.
+[^8]: A 4. § a 42/2010. (IV. 22.) FVM rendelet 2. §-ával megállapított szöveg.

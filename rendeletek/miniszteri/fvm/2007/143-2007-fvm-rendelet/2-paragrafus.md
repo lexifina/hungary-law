@@ -54,13 +54,13 @@ b) kedvtelésből
 
 19. kontaktgazdaság: olyan gazdaság, ahonnan a madárinfluenza vírus máshová bekerülhetett, vagy amelybe a madárinfluenza vírust annak fekvése, a személyek, baromfi vagy más, fogságban tartott madarak, vagy járművek mozgása eredményeképpen vagy bármely más módon behurcolhatták;
 
-20. hatósági állatorvos: a Mezőgazdasági Szakigazgatási Hivatal létrehozásáról és működéséről szóló 274/2006. (XII. 23.) Korm. rendelet 13. §-ában meghatározott állatorvos;
+20.[^1]
 
-21. igazgatóság: a Mezőgazdasági Szakigazgatási Hivatal illetékes területi szerve;
+21.[^2] igazgatóság: a Mezőgazdasági Szakigazgatási Hivatal területi szerve;
 
 22. hatósági megfigyelés: egy adott gazdaságban tartott baromfi vagy más, fogságban tartott madár vagy emlős egészségügyi állapotának a hatósági állatorvos által végzett, madárinfluenzára irányuló gondos figyelemmel kísérése;
 
-23. hatósági felügyelet: az illetékes állategészségügyi hatóság intézkedései annak ellenőrzésére, hogy az e rendeletben foglalt követelményeket, valamint az állategészségügyi hatóságtól származó, az említett követelmények teljesítésére vonatkozó utasításokat betartották, illetve betartják-e;
+23.[^3] hatósági felügyelet: az állategészségügyi hatóság intézkedései annak ellenőrzésére, hogy az e rendeletben foglalt követelményeket, valamint az állategészségügyi hatóságtól származó, az említett követelmények teljesítésére vonatkozó utasításokat betartották, illetve betartják-e;
 
 24. leölés: minden olyan eljárás a levágáson kívül, amely egy emlős, baromfi vagy más, fogságban tartott madár halálát okozza;
 
@@ -70,13 +70,13 @@ b) kedvtelésből
 
 a) a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelet, vagy
 
-b) külön jogszabályban meghatározott szabályok szerint;
+b)[^4] az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályok szerint;
 
 27. elsődleges járványkitörés: olyan járványkitörés, amely járványtanilag nem kapcsolódik azonos megyében korábban előfordult kitöréshez, vagy egy másik megyében történt első járványkitörés;
 
-28. járványkitörés gyanúja: ha az illetékes állategészségügyi hatóság egy gazdaságban a madárinfluenza jelenlétére gyanakszik, mert a kórokozó vírust laboratóriumban kimutatták, de annak további tulajdonságait még nem határozták meg, vagy a klinikai tünetek, és a kórbonctani elváltozások alapján járványkitörés kialakulásától lehet tartani;
+28.[^5] járványkitörés gyanúja: ha az állategészségügyi hatóság egy gazdaságban a madárinfluenza jelenlétére gyanakszik, mert a kórokozó vírust laboratóriumban kimutatták, de annak további tulajdonságait még nem határozták meg, vagy a klinikai tünetek, és a kórbonctani elváltozások alapján járványkitörés kialakulásától lehet tartani;
 
-29. járványkitörés: madárinfluenza megállapítása valamely gazdaságban az illetékes állategészségügyi hatóság által az 1. pontban meghatározott kórokozó vírus kimutatásával, illetve az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a madárinfluenzára jellemző klinikai tünetek és kórbonctani elváltozások alapján;
+29.[^6] járványkitörés: madárinfluenza megállapítása valamely gazdaságban az állategészségügyi hatóság által az 1. pontban meghatározott kórokozó vírus kimutatásával, illetve az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a madárinfluenzára jellemző klinikai tünetek és kórbonctani elváltozások alapján;
 
 30. a fertőzött és beoltott állatok megkülönböztetésének stratégiája (DIVA-stratégia): olyan védőoltás-stratégia, amely lehetővé teszi a beoltott/fertőzött és a beoltott/nem fertőzött állatok megkülönböztetését, a vadvírus elleni antitestek kimutatására tervezett diagnosztikai vizsgálat és a be nem oltott jelzőmadarak alkalmazásával;
 
@@ -87,3 +87,10 @@ b) külön jogszabályban meghatározott szabályok szerint;
 33. Országos Járványvédelmi Központ (OJK): a Mezőgazdasági Szakigazgatási Hivatal Központján belüli, járványfelszámolást irányító országos szervezet, melynek felállítását az országos főállatorvos rendeli el járványkitörés vagy annak gyanúja esetén;
 
 34. emlős: az emlősök osztályába tartozó állat.
+
+[^1]: A 2. § 20. pontját a 42/2010. (IV. 22.) FVM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § 21. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § 23. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 26. pont b) alpontja a 42/2010. (IV. 22.) FVM rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 28. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 29. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.

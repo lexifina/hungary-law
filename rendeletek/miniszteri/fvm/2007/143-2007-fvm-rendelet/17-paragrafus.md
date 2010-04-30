@@ -6,4 +6,6 @@ b) minden fontos információra a gazdaságba bevitt vagy onnan kivitt baromfir�
 
 (2) A védő- és a megfigyelési körzetek határán a körzet fő közlekedési útjain jól látható „Védőkörzeti zárlat madárinfluenza miatt”, illetve „Madárinfluenza megfigyelési körzet” feliratú táblát kell elhelyezni. Továbbá biztosítani kell, hogy a védő- és a megfigyelési körzetekben alkalmazott korlátozások által érintett valamennyi személy a helyben szokásos módon értesüljön az érvényben lévő korlátozásokról.
 
-(3) Amennyiben a járványügyi információk és egyéb körülmények, bizonyítékok alátámasztják, az Országos Járványvédelmi Központ vezetője előzetes jóváhagyásával és az általa meghatározott kiegészítő intézkedések alkalmazásával az igazgatóság elrendelheti a baromfi vagy más, fogságban tartott madarak veszélyeztetett gazdaságban és területeken való, megelőző célú levágását és leölését megelőző célú felszámolási program végrehajtását is beleértve.
+(3)[^25] Amennyiben a járványügyi információk és egyéb körülmények, bizonyítékok alátámasztják, az Országos Járványvédelmi Központ vezetője egyetértésével és az általa meghatározott kiegészítő intézkedések alkalmazásával az igazgatóság elrendelheti a baromfi vagy más, fogságban tartott madarak veszélyeztetett gazdaságban és területeken való, megelőző célú levágását és leölését megelőző célú felszámolási program végrehajtását is beleértve.
+
+[^25]: A 17. § (3) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § h) pontja szerint módosított szöveg.

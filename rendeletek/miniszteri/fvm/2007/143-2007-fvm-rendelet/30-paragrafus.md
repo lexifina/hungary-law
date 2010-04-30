@@ -2,7 +2,7 @@
 
 ## A MEGFIGYELÉSI KÖRZETBEN ALKALMAZANDÓ INTÉZKEDÉSEK
 
-30. § (1) A megfigyelési körzetben az illetékes igazgatóságnak minden baromfitartó gazdaságot a lehető leghamarabb számba kell venni.
+30. § (1)[^32] A megfigyelési körzetben az igazgatóságnak minden baromfitartó gazdaságot a lehető leghamarabb számba kell venni.
 
 (2) Tilos a baromfi, tojásrakás előtt álló baromfi, napos baromfi és tojás megfigyelési körzeten belüli mozgatása, kivéve a megfigyelési körzeten át közúton vagy vasúton történő, kirakodás vagy megállás nélküli átszállítást. E tilalom alól az igazgatóság a madárinfluenza terjedésének megelőzését célzó megfelelő járványvédelmi intézkedések alkalmazása után adhat felmentést.
 
@@ -36,8 +36,11 @@ b) nincs hozzáférésük olyan ketrechez vagy területhez, ahol ilyen háztáji
 
 (8) A gazdaságban 19. § (6) bekezdésben felsorolt változásokat jelenteni kell az állategészségügyi hatóságnak.
 
-(9) Tilos a használt alom, trágya vagy hígtrágya elszállítása vagy szétszórása, amennyiben az igazgatóság azt nem engedélyezte. A járványvédelmi intézkedések betartása mellett engedélyezhető a trágyának a megfigyelési körzetben fekvő gazdaságból valamely kijelölt telepre történő szállítása, az a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelettel vagy külön jogszabályban meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés céljából történő köztes tárolás céljából.
+(9)[^33] Tilos a használt alom, trágya vagy hígtrágya elszállítása vagy szétszórása, amennyiben az igazgatóság azt nem engedélyezte. A járványvédelmi intézkedések betartása mellett engedélyezhető a trágyának a megfigyelési körzetben fekvő gazdaságból valamely kijelölt telepre történő szállítása, az a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelettel vagy az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés céljából történő köztes tárolás céljából.
 
 (10) Tilos a vásárok, piacok, kiállítások, illetve a baromfi vagy más, fogságban tartott madarak egyéb bemutatóinak, illetve versenyeinek tartása.
 
 (11) Baromfi vadállomány-újratelepítési céllal nem engedhető szabadon.
+
+[^32]: A 30. § (1) bekezdése a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^33]: A 30. § (9) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § k) pontja szerint módosított szöveg.

@@ -44,10 +44,16 @@ ia) nem érintkeznek a háztáji baromfival vagy más, fogságban tartott szárn
 
 ib) nincs hozzáférésük olyan ketrechez vagy területhez, ahol ilyen háztáji baromfit vagy más, fogságban tartott madarakat tartanak;
 
-j) tilos a használt almot, trágyát vagy hígtrágyát elszállítani vagy szétszórni. Az igazgatóság engedélyezheti azonban a trágya vagy hígtrágya járványvédelmi intézkedések melletti, korlátozás alatt álló gazdaságokból kijelölt telepre történő szállítását, az 1774/2002/EK rendelettel vagy a külön jogszabályban foglaltakkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés célját szolgáló köztes tárolás céljából;
+j)[^39] tilos a használt almot, trágyát vagy hígtrágyát elszállítani vagy szétszórni. Az igazgatóság engedélyezheti azonban a trágya vagy hígtrágya járványvédelmi intézkedések melletti, korlátozás alatt álló gazdaságokból kijelölt telepre történő szállítását, az 1774/2002/EK rendelettel vagy az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés célját szolgáló köztes tárolás céljából;
 
 k) tilos az igazgatóság engedélye nélküli vásárok, piacok, kiállítások, vagy a baromfi vagy más, fogságban tartott madarak egyéb bemutatóinak, illetve versenyeinek megtartása;
 
 l) tilos a baromfi vagy más, fogságban tartott madarak vadállomány újratelepítését célzó szabadon engedése.
 
-(3) Az e Címben meghatározott intézkedéseken túlmenően, az Országos Járványvédelmi Központ vezetője a kockázatértékelés alapján további intézkedéseket vezethet be, és erről az országos főállatorvos tájékoztatja a Bizottságot, illetve intézkedését a külön jogszabálynak megfelelően kiegészítheti, módosíthatja.
+(3)[^40] Az e Címben meghatározott intézkedéseken túlmenően, az Országos Járványvédelmi Központ vezetője a kockázatértékelés alapján további intézkedéseket vezethet be, és erről az országos főállatorvos tájékoztatja a Bizottságot.
+
+(4)[^41] A madárinfluenza terjedésének megakadályozása érdekében szükséges további intézkedések a 2005/94/EK tanácsi irányelv 64. cikk (3) bekezdésében meghatározott eljárás szerint kerülnek elfogadásra.
+
+[^39]: A 42. § (2) bekezdés j) pontja a 42/2010. (IV. 22) FVM rendelet 13. § l) pontja szerint módosított szöveg.
+[^40]: A 42. § (3) bekezdése a 42/2010. (IV. 22.) FVM rendelet 14. § f) pontja szerint módosított szöveg.
+[^41]: A 42. § (4) bekezdését a 42/2010. (IV. 22.) FVM rendelet 7. §-a iktatta be.
