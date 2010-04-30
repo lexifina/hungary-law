@@ -38,7 +38,7 @@ c)–d)[^12]
 
 (8)[^15] Amennyiben korábban már ugyanazon gyógyszer vonatkozásában ugyanarra a javallatra az OGYI engedélyezte az alkalmazást, nem kell tartalmaznia a kérelemnek a (4) bekezdés d) pontja szerinti bizonyítékokat, valamint a (6) bekezdés szerinti esetben a (4) bekezdés b) pontja szerinti indokokat sem.
 
-(9)[^16] A (6) bekezdés szerinti esetben a beteg kezelése az adott gyógyszerrel megkezdhető, és amennyiben az OGYI a GyT. 25. § (8) bekezdésében a sürgős szükség esetére megállapított határidőben nem hoz határozatot, az engedélyt megadottnak kell tekintetni.
+(9)[^16] A (6) bekezdés szerinti esetben a beteg kezelése az adott gyógyszerrel megkezdhető, és ha az OGYI a GyT. 25. § (8) bekezdésében a sürgős szükség esetére megállapított határidőben nem dönt, az engedélyt megadottnak kell tekinteni.
 
 (10)[^17] Az indikáción túli gyógyszerrendelés sürgős szükséggé történő minősítése abban az esetben indokolt, ha a kérelmezett gyógyszer a beteg életveszélyes állapotának kezelésére, vagy közvetlen életveszély elhárítására szolgál. A sürgős szükség fennállását a kezelőorvosnak a kérelemben részletesen indokolnia kell.
 
@@ -59,7 +59,7 @@ c)–d)[^12]
 [^13]: A 2/A. § (6) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^14]: A 2/A. § (7) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^15]: A 2/A. § (8) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
-[^16]: A 2/A. § (9) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: A 2/A. § (9) bekezdése a 20/2010. (IV. 29.) EüM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^17]: A 2/A. § (10) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^18]: A 2/A. § (11) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^19]: A 2/A. § (12) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 1. § (6) bekezdése iktatta be, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.

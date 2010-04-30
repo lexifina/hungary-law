@@ -2,13 +2,11 @@
 
 3. §[^21] (1)[^22] Az orvos – a 2/A. §-ban, jelen § (5)–(8) bekezdésében, valamint a 4. §-ban foglaltak kivételével – Magyarországon, illetve az Európai Unió Bizottsága által forgalomba hozatalra engedélyezett gyógyszert, valamint magisztrális gyógyszert rendelhet. Az orvos magisztrális gyógyszer alkotórészeként az OGYI közleményében közzétett gyógyszeranyagokat rendelheti, ennek hiányában kerülhet sor forgalomba hozatalra engedélyezett gyógyszer magisztrális alkotórészként történő rendelésére.
 
-(2)[^23] A forgalomba hozatalra engedélyezett gyógyszerek külön jogszabály szerinti listáját az OGYI hivatalos közleményben teszi közzé. A magisztrális gyógyszerek készítéséhez felhasználható gyógyszeranyagok listáját az OGYI hivatalos közleménye tartalmazza az alábbiak szerint:
+(2)[^23] A forgalomba hozatalra engedélyezett gyógyszerek listáját, továbbá a magisztrális gyógyszerek készítéséhez felhasználható gyógyszeranyagok listáját az OGYI honlapján közzéteszi az alábbiak szerint:
 
-a) a gyógyszeranyagok teljes körét legalább évente egy alkalommal, valamint
+a) a gyógyszeranyagok teljes körét legalább évente egy alkalommal, és
 
-b) a gyógyszeranyagok listájának változását naptári negyedévente,
-
-## az OGYI hivatalos kiadványában, valamint honlapján közzéteszi.
+b) a gyógyszeranyagok listájának változását naptári negyedévente.
 
 (3)[^24] A (2) bekezdés a)–b) pontja szerinti közlemény a gyógyszeranyag megnevezését, minőségét és gyógyászati célra egyszeri alkalommal kiadható mennyiségét tartalmazza.
 
@@ -36,5 +34,5 @@ c) az orvos által rendelkezésre bocsátott adatok alapján – véleménye sze
 
 [^21]: A 3. § a 47/2005. (XI. 4.) EüM rendelet 3. §-ával megállapított szöveg.
 [^22]: A 3. § (1) bekezdése a 39/2008. (X. 18.) EüM rendelet 3. §-ával megállapított szöveg.
-[^23]: A 3. § (2) bekezdése a 47/2005. (XI. 4.) EüM rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^23]: A 3. § (2) bekezdése a 20/2010. (IV. 29.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^24]: A 3. § (3) bekezdése a 47/2005. (XI. 4.) EüM rendelet 19. § (5) bekezdésével megállapított szöveg.
