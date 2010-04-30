@@ -1,25 +1,19 @@
 ## Kivonás
 
-36. § (1) Az OGYI a Gytv. 17–18. § szerinti forgalomból történő kivonásról és a forgalmazás felfüggesztéséről a Gytv. 17–18. §-ban foglaltak mellett
+36. § (1)[^45] Az OGYI a Gytv. 17–18. §-a szerinti, valamint az Ügynökségtől vagy valamelyik tagállamtól származó, forgalomból történő kivonásról vagy a forgalmazás felfüggesztéséről szóló döntést a Gytv. 17–18. §-ában foglaltak mellett a honlapján is közzéteszi, továbbá annak tartalmáról
 
-a) a jogosultat,
+a) az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) országos tiszti főgyógyszerészét,
 
-b) az Egészségügyi Minisztériumot,
+b) a gyógyszer kis- és nagykereskedelmi forgalmazásra engedéllyel rendelkezőket, és
 
-c) az Egészségügyi Minisztérium közvetlen felügyelete alá tartozó egészségügyi intézményeket,
+c) az intézeti gyógyszertárakat
 
-d) az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) országos tiszti főgyógyszerészét,
+elektronikus levélben tájékoztatja.
 
-e) a Környezetvédelmi és Vízügyi Minisztérium, a Honvédelmi Minisztérium és a Belügyminisztérium felügyelete alá tartozó egészségügyi intézményeket,
+(2)[^46] Az OGYI a Gytv. 17–18. §-a szerinti forgalomból történő kivonásról vagy a forgalmazás felfüggesztéséről szóló döntéséről elektronikus levélben tájékoztatja a tagállamokat és az Ügynökséget is.
 
-f) a tagállamokat,
+(3)[^47]
 
-g) az Ügynökséget
-
-## közvetlenül értesíti.
-
-(2)[^13] Az ÁNTSZ országos tiszti főgyógyszerésze a gyógyszer forgalomba hozatali engedélyének visszavonásáról, gyártási tételének (tételeinek) forgalomból történő kivonásáról vagy forgalmazásának felfüggesztéséről szóló OGYI határozat kézhezvételét követő 48 órán belül az OGYI részére megküldi az ÁNTSZ regionális intézetének tiszti főgyógyszerésze által a gyógyszertárak részére kiküldött értesítések másolatát. Az OGYI az (1) bekezdés szerinti döntését honlapján haladéktalanul közzéteszi.
-
-(3) Amennyiben az OGYI tudomására jut, hogy az Ügynökség vagy valamelyik tagállam a gyógyszer forgalomba hozatali engedélyét visszavonta, gyártási tételét (tételeit) a forgalomból kivonta vagy annak forgalmazását felfüggesztette, az ezzel kapcsolatos döntéséről szükség esetén értesíti az ÁNTSZ országos tiszti főgyógyszerészét. Ebben az esetben is a (2) bekezdés szerint kell eljárni.
-
-[^13]: A 36. § (2) bekezdése a 41/2007. (IX. 19.) EüM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^45]: A 36. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (17) bekezdésével megállapított szöveg.
+[^46]: A 36. § (2) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (17) bekezdésével megállapított szöveg.
+[^47]: A 36. § (3) bekezdését a 20/2010. (IV. 29.) EüM rendelet 4. § l) pontja hatályon kívül helyezte.

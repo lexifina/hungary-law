@@ -2,11 +2,7 @@
 
 (2) Az (1) bekezdés szerinti kérelemnek az – 1. számú mellékletben foglaltak alapján – tartalmaznia kell:
 
-a) a kérelmező
-
-aa) nevét, illetve cégnevét,
-
-ab) lakóhelye vagy székhelye megnevezését, továbbá a számlázási és levelezési címét;
+a)[^11] a kérelmező számlázási és levelezési címét;
 
 b) a gyógyszer nevét;
 
@@ -57,3 +53,5 @@ t) amennyiben a gyógyszerrel kapcsolatosan a Magyar Köztársaságon kívül fo
 (4) A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli az OGYI-val.
 
 (5) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez oly mértékben, hogy azzal összetéveszthető legyen.
+
+[^11]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.

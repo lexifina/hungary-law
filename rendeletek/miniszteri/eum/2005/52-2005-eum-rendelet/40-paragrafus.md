@@ -1,4 +1,4 @@
-40. §[^18] (1) A gyógyszerek gyógyszertáron kívüli forgalmazása során
+40. §[^55] (1) A gyógyszerek gyógyszertáron kívüli forgalmazása során
 
 a) biztosítani kell a gyógyszer forgalomba hozatali engedélyében meghatározott, a különleges tárolásra vonatkozó előírásokat;
 
@@ -12,4 +12,4 @@ c) gondoskodni kell a lejárt felhasználhatósági idejű vagy a forgalomból k
 
 (4) A gyógyszer-kiskereskedelmi tevékenységet folytató üzletnek száraznak, fűthetőnek és szellőztethetőnek, résmentes padozatúnak, a polcoknak lemoshatónak, fertőtlenítőszeres tisztításra, vegyszeres kezelésre alkalmasnak kell lennie.
 
-[^18]: Az új 40. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be, egyidejűleg az eredeti 40. § számozását 45. §-ra változtatva.
+[^55]: Az új 40. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be, egyidejűleg az eredeti 40. § számozását 45. §-ra változtatva.

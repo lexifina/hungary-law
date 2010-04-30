@@ -1,4 +1,4 @@
-43. §[^21] (1) A gyógyszer-kiskereskedelmi tevékenység folytatásához szükséges elektronikus információs rendszereket az OGYI az üzletnek a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 68. §-ának (1) bekezdése szerinti engedélyezési eljárása során szakvélemény keretében minősíti.
+43. §[^58] (1)[^59] A gyógyszerek biztonságos alkalmazásához szükséges tájékoztatást nyújtó elektronikus információs rendszereket az OGYI az üzletnek a Gyftv. 68. § (1) bekezdése szerinti engedélyezési eljárása során szakvélemény keretében minősíti.
 
 (2) Az OGYI az (1) bekezdés szerinti szakvélemény adása során figyelembe veszi, hogy az (1) bekezdés szerinti elektronikus információs rendszer a gyógyszertáron kívül is forgalmazható gyógyszerek forgalomba hozatali engedélyezési eljárása során jóváhagyott – az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendeletben meghatározottak szerinti – betegtájékoztatóban szereplő információkkal azonos tartalmú tájékoztatást biztosít-e a gyógyszer alkalmazásával, különböző gyógyszerekkel való kölcsönhatásával és más gyógyszerekkel való esetleges együttes alkalmazásával kapcsolatosan.
 
@@ -6,4 +6,5 @@
 
 (4) A gyógyszer-kiskereskedelmi tevékenységet folytató a gyógyszerhulladék lakosságtól történő begyűjtésében a nyitvatartási ideje alatt a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet 8. §-a szerinti engedély birtokában részt vesz. A humán gyógyszerek és csomagolásuk hulladékainak kezeléséről szóló 20/2005. (VI. 10.) EüM rendelet 4–5. §-ában foglaltakat a gyógyszer-kiskereskedelmi tevékenységet folytató tekintetében értelemszerűen alkalmazni kell.
 
-[^21]: A 43. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
+[^58]: A 43. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
+[^59]: A 43. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (21) bekezdésével megállapított szöveg.

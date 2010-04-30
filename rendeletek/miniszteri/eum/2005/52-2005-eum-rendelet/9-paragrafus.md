@@ -12,11 +12,7 @@ c) ártalmatlanságát a hígítás foka garantálja (azaz törzsoldattartalma l
 
 (3) Az egyszerűsített forgalomba hozatali engedélyezési eljárás során a kérelemnek az 5. § (2) bekezdésétől eltérően az alábbiakat kell tartalmaznia:
 
-a) kérelmező
-
-aa) nevét, illetve cégnevét,
-
-ab) lakóhelye vagy székhelye megnevezését, továbbá a számlázási és levelezési címét;
+a)[^16] a kérelmező számlázási és levelezési címét;
 
 b) a gyógyszer nevét;
 
@@ -41,3 +37,5 @@ i) a 15. § (2) bekezdés szerinti dokumentumot;
 j) a külső és a közvetlen csomagolás tervezetét;
 
 k) a gyógyszerforma (valamely hígítása) kiszerelésének mintáját.
+
+[^16]: A 9. § (3) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (7) bekezdésével megállapított szöveg.

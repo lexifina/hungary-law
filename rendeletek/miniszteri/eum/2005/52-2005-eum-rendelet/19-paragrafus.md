@@ -1,6 +1,8 @@
+## 18/A. §[^30] Ha az EGT-ben valamely gyógyszer osztályozásának módosítását jelentős preklinikai vagy klinikai tanulmányok alapján engedélyezték, az OGYI, amikor más kérelmező vagy forgalomba hozatali engedély jogosultja ugyanazon hatóanyag besorolásának módosítására irányuló kérelmét vizsgálja, nem veszi figyelembe e vizsgálatok eredményeit egy éven át azt követően, hogy az első módosítást engedélyezték. E § alkalmazása során a 7. § (2)–(9) bekezdését is alkalmazni kell.
+
 ## A forgalomba hozatali engedély nyilvántartása
 
-19. § (1) A gyógyszer – a (2)–(4) bekezdésben meghatározott gyógyszerek kivételével – nyilvántartási számot kap. A nyilvántartási szám
+19. § (1)[^31] A gyógyszer nyilvántartási számot kap. A nyilvántartási szám
 
 a) OGYI-T-jelzésből,
 
@@ -27,3 +29,6 @@ a) OGYI-TN-jelzésből,
 b) sorszámból,
 
 c) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból áll.
+
+[^30]: A 18/A. §-t a 20/2010. (IV. 29.) EüM rendelet 1. § (11) bekezdése iktatta be.
+[^31]: A 19. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § g) pontja szerint módosított szöveg.

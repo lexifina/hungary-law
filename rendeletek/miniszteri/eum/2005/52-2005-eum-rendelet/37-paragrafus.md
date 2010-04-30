@@ -8,13 +8,13 @@
 
 (4) A jogosult az EGT-n kívüli, a „Gyógyszerek szabályozása az Európai Közösségben” című kiadványban szereplő útmutatónak megfelelően valamennyi feltételezett súlyos, nem várt mellékhatást, valamint bármely fertőző kórokozónak a gyógyszer útján történő feltételezett átvitelét haladéktalanul, de legkésőbb a tudomására jutást követő 15 napig köteles az Ügynökségnek és azoknak a tagállamoknak bejelenteni, ahol a gyógyszert forgalomba hozatalra engedélyezték.
 
-(5)[^14] A jogosult gondoskodik arról, hogy a (2)–(4) bekezdéstől eltérve azon gyógyszerek esetében, amelyeket a 20–29. §-ban meghatározott eljárás szabályai szerint engedélyeztek, az összes, az EGT-ben előforduló feltételezett súlyos mellékhatást olyan módon jelentsék be, hogy az a referencia-tagállam számára hozzáférhető legyen.
+(5)[^48] A jogosult gondoskodik arról, hogy a (2)–(4) bekezdéstől eltérve azon gyógyszerek esetében, amelyeket a 20–29. §-ban meghatározott eljárás szabályai szerint engedélyeztek, az összes, az EGT-ben előforduló feltételezett súlyos mellékhatást olyan módon jelentsék be, hogy az a referencia-tagállam számára hozzáférhető legyen.
 
 (6) Az OGYI abban az esetben, ha a Magyar Köztársaság a referencia-tagállam, az (5) bekezdés szerinti feltételezett súlyos mellékhatásokat elemzi és nyomon követi.
 
 (7) Amennyiben az OGYI a forgalomba hozatal engedély kiadását szigorúbb feltételhez nem köti, a jogosult a (2) bekezdés szerinti feltételezett mellékhatásokról nyilvántartást vezet, és az azokról szóló Időszakos Gyógyszerbiztonsági Jelentéseket az OGYI-nak kérésre haladéktalanul, vagy az engedélyezést követően a tényleges forgalomba hozatal megkezdéséig legalább hathavonta, a tényleges forgalmazást követő első két évben minden hatodik hónapban, majd az ezt követő két évben évente egy alkalommal, azt követően pedig három évente egy alkalommal küldi meg. Az Időszakos Gyógyszerbiztonsági Jelentés tartalmazza a gyógyszer előny/kockázat arányának tudományos értékelését is.
 
-(8) A forgalomba hozatali engedély kiállítását követően a jogosult az 1084/2003/EK bizottsági rendeletben megállapított eljárásnak megfelelően kérheti a (7) bekezdésben jelölt időszakok módosítását.
+(8)[^49] A forgalomba hozatali engedély kiállítását követően a jogosult az 1234/2008/EK bizottsági rendeletben megállapított eljárásnak megfelelően kérheti a (7) bekezdésben jelölt időszakok módosítását.
 
 (9) A gyógyszert alkalmazó orvos, illetve a kiszolgáltatást végző gyógyszerész az általa észlelt vagy tudomására jutott súlyos vagy váratlan mellékhatást, illetve annak gyanúját haladéktalanul, de legkésőbb a tudomására jutást követő 15 napon belül jelenti az OGYI-nak.
 
@@ -30,4 +30,5 @@
 
 (15) A (14) bekezdés szerinti információközlésnek objektívnek és egyértelműnek kell lennie.
 
-[^14]: A 37. § (5) bekezdése az 53/2008. (XII. 31.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^48]: A 37. § (5) bekezdése az 53/2008. (XII. 31.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^49]: A 37. § (8) bekezdése a 20/2010. (IV. 29.) EüM rendelet 3. § g) pontja szerint módosított szöveg.

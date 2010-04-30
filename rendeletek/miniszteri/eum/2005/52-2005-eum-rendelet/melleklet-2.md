@@ -52,19 +52,17 @@
 
 ## A forgalomba hozatali engedély iránti kérelemhez csatolandó, egy, az 1-től az 5-ös fejezetig mindent magában foglaló tartalomjegyzék.
 
-## 1.2. Engedély iránti kérelem
+## 1.2.[^73] Engedély iránti kérelem
 
 ## A kérelem tárgyát képező gyógyszert a következő adatok azonosítják:
 
-## A készítmény neve, a hatóanyag(ok) neve(i), gyógyszerformája, beadásának (alkalmazásának) módja, hatáserőssége, végső megjelenési formája, beleértve a csomagolást is.
+## A készítmény neve, a hatóanyag/hatóanyagok neve/nevei, gyógyszerformája, beadásának (alkalmazásának) módja, hatáserőssége, végső megjelenési formája, beleértve a csomagolást is.
 
-## A kérelmezőnek meg kell adnia a saját, a gyártó, illetve a gyártás minden folyamatában résztvevő(k) – ideértve a végtermék és a hatóanyag gyártóját is – helyét és címét, valamint ahol ez szükséges, az importőr nevét és címét is.
+## A kérelmezőnek meg kell adnia a saját, a gyártó, illetve a gyártás minden folyamatában résztvevő/résztvevők – ideértve a végtermék és a hatóanyag gyártóját is – helyét és címét, valamint ahol ez szükséges, az importőr nevét és címét is.
 
 ## A kérelmezőnek meg kell jelölnie a kérelem típusát, továbbá, hogy milyen mintákat nyújtott be, ha vannak ilyenek.
 
-## Az adminisztratív adatokhoz mellékelendő a külön jogszabályban meghatározott gyógyszergyártási engedély, azoknak az országoknak a listájával, amelyek ezt elfogadták, az alkalmazási előírások másolata, ahogy azt a tagállamok elfogadták, valamint azoknak az országoknak a listája, ahová a kérelmet benyújtották.
-
-## Az engedély iránti kérelem megkönnyítésére az OGYI kiadja az Európai Közösségek által előírt engedélyezési formanyomtatvány magyar fordítását. Amint azt ez a formanyomtatvány felvázolja, a kérelmezőnek be kell nyújtania többek között a kérelem alapjául szolgáló gyógyszer részletes adatait, a kérelem jogi alapját, a forgalomba hozatali engedély jogosultját (a továbbiakban: jogosult), a gyógyszer gyártóját, információt a „ritka betegségek gyógyszere” státusú gyógyszerről, tudományos szakvéleményt és gyermekgyógyászati fejlesztési programot.
+## Az adminisztratív adatokhoz mellékelendő a gyógyszergyártási engedély, azoknak az országoknak a listájával, amelyek ezt elfogadták, az alkalmazási előírások másolata, ahogy azt a tagállamok elfogadták, valamint azoknak az országoknak a listája, ahová a kérelmet benyújtották.
 
 ## 1.3. Az alkalmazási előírás, a címkeszöveg és betegtájékoztató
 
@@ -1032,7 +1030,7 @@
 
 ## a) A 7. § (12) bekezdése szerint beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, és be kell nyújtania az eredeti forgalomba hozatali engedély tulajdonosának beleegyezését, hogy kereszthivatkozással élhet a 4. és 5. fejezetének tartalmát illetően.
 
-## b) A 7. § (10) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
+## b)[^74] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
 
 ## Ezen termékek esetében a nem-klinikai/klinikai áttekintéseknek/összefoglalóknak a következő elemekre kell különösen koncentrálniuk:
 
@@ -1362,275 +1360,321 @@
 
 ## – Ha egy kérelmező egy ritka betegség gyógyszerének engedélyezése során hivatkozik a 7. § (1) bekezdésére és jelen melléklet 2. részének 1. fejezetére (megalapozott és elfogadott gyógyászati felhasználás), a hivatkozott anyag rendszeres és dokumentált használata vonatkozhat – mint korlátozási mód – ezen anyag használatára.
 
-## 4. RÉSZ
+## 4. RÉSZ[^75]
 
-## FEJLETT TERÁPIÁS GYÓGYSZEREK
+## FEJLETT (ÚJSZERŰ) TERÁPIÁS GYÓGYSZERKÉSZÍTMÉNYEK
 
-## A fejlett terápiás gyógyszerek olyan készítmények, melyek gyártási folyamata különböző génátvitellel előállított biomolekulákon alapul, illetve biológiailag módosított sejtek, hatóanyagként vagy hatóanyag részeként való felhasználására koncentrál.
+## 1. BEVEZETÉS
 
-## E gyógyszerek esetében, a forgalomba hozatal iránti kérelem dossziéjának meg kell felelnie a jelen melléklet 1. részében leírt formai követelményeknek.
+## Az 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontjában meghatározott fejlett (újszerű) terápiás gyógyszerkészítmények forgalomba hozatali engedélyére irányuló kérelmek az 1. részben leírt formai követelményeket (1., 2., 3., 4. és 5. fejezet) követik.
 
-## Alkalmazni kell az 1–5. fejezetben leírtakat is. A genetikailag módosított szervezeteknek a környezetbe való körültekintő kibocsátását illetően figyelmet kell fordítani a genetikailag módosított szervezetnek a befogadóban való fennmaradására, a lehetséges replikációra, vagy változásra a környezetbe való kibocsátás esetén. A környezetre gyakorolt hatásokra vonatkozó információkat a melléklet 1. fejezetében kell feltüntetni.
+## A biológiai gyógyszerkészítményekre az 1. rész 3., 4. és 5. fejezetében foglalt szakmai követelmények is alkalmazandók. A 3., 4. és 5. cím rendelkezik arról, hogy a fejlett (újszerű) terápiás gyógyszerkészítményekre az 1. részben foglalt követelmények hogyan alkalmazandók. A fejlett (újszerű) terápiás gyógyszerkészítmények sajátosságaira tekintettel további követelmények is megállapításra kerültek.
 
-## 1. GÉNTERÁPIÁS GYÓGYSZEREK
+## A fejlett (újszerű) terápiás készítmények sajátossága miatt kockázat alapú megközelítés alkalmazható a forgalomba hozatali kérelemben benyújtandó minőségi, nem-klinikai és klinikai adatok mennyiségére, összhangban a „Bevezetés és általános elvek” cím (4) bekezdésében említett gyógyszerkészítmények minőségével, biztonságával és hatékonyságával kapcsolatos tudományos iránymutatásokkal.
 
-## (HUMÁN ÉS XENOGENIKUS)
+## A kockázatelemzés a fejlesztés teljes folyamatára kiterjedhet. A figyelembe vehető kockázati tényezők a következők: a sejtek származása (autológ, allogén, xenogén), szaporodó- és/vagy differenciálódóképessége, immunválasz kiváltó képessége, a sejtmanipuláció szintje, a sejtek bioaktív molekulákkal vagy szerkezeti anyagokkal való kombinációja, a génterápiás gyógyszerek természete, az in vivo használt vírusok vagy mikroorganizmusok szaporodóképessége, a nukleinsav-szekvenciák vagy gének genomba való beépülésének szintje, a hosszú távú működőképesség, az onkogenitás kockázata és az alkalmazás vagy adagolás módja.
 
-## Jelen melléklet esetében génterápiás gyógyszeren olyan készítményt értünk, melyet olyan gyártási folyamatok sorozataként állítottak elő, melyet egy profilaktikus, diagnosztikus, vagy terápiás gén (azaz egy darab nukleinsav) emberi vagy állati sejtbe történő átvitelének és későbbi in vivo expressziójának célzatával állítottak elő, ex vivo vagy in vivo módszerekkel. A génátvitelhez szükség van egy expressziós rendszerre, ami egy szállítórendszerben tárolódik, ezt a szállító rendszert vektornak nevezzük, ami lehet virális vagy nem-virális eredetű. A vektort emberi vagy állati sejt is tartalmazhatja.
+## A kockázatelemzésben figyelembe vehetőek a más kapcsolódó fejlett (újszerű) terápiás gyógyszerkészítmények esetében rendelkezésre álló releváns, nem-klinikai és klinikai adatok vagy tapasztalatok is.
 
-## 1.1. A génterápiás gyógyszerek sokfélesége
+## Az e melléklet követelményeitől való bármilyen eltérést a kérelmezési dokumentáció 2. fejezetében tudományosan meg kell indokolni. Ha a fent leírt kockázatelemzést alkalmazzák, azt szintén a 2. fejezetben kell leírni. Ebben az esetben az alkalmazott módszert, a felismert kockázatok természetét és a kockázatalapú megközelítés fejlesztési és értékelési programra vetített esetleges következményeit meg kell vitatni, és a kockázatelemzésből eredő bármely, e melléklet követelményeitől való eltérést le kell írni.
 
-## a) Allogenikus vagy xenogenikus sejt alapú génterápiás gyógyszerek
+## 2. AZ 1. RÉSZ 3. FEJEZETÉVEL KAPCSOLATOS KÜLÖNLEGES KÖVETELMÉNYEK
 
-## A vektort előre elkészített és a gazdasejtbe való átvitel előtt tárolják.
+## 2.1. A fejlett (újszerű) terápiás gyógyszerkészítmények mindegyikére vonatkozó különleges követelmények
 
-## A sejteket korábban kinyerték és korlátozott életképességű sejtbankként feldolgozzák (gyűjtéssel vagy primér sejtek beszerzéséből alapítva).
+## Nyomonkövetési rendszert kell kialakítani és működtetni annak érdekében, hogy az adott készítmény és annak alapanyagai, illetve nyersanyagai – beleértve minden olyan anyagot, amellyel a benne fellelhető szövetek és sejtek érintkezésbe kerülnek – nyomon követhetőek legyenek a beszerzés, a gyártás, a csomagolás, a tárolás, a szállítás és a készítmény felhasználási helye szerinti egészségügyi szolgáltatónak történő átadása során.
 
-## A vektor által genetikailag módosított sejtek jelentik a hatóanyagot.
+## E rendelkezést a vérsejteken kívüli emberi sejtek és szövetek tekintetében az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról szóló 2004. március 31-i 2004/23/EK európai parlamenti és tanácsi irányelv, az emberi vérsejtek tekintetében pedig az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról, valamint a 2001/83/EK irányelv módosításáról szóló 2003. január 27-i 2002/98/EK európai parlamenti és tanácsi irányelv követhetőségre vonatkozó rendelkezéseivel összhangban kell alkalmazni.
 
-## A késztermék előállításához még további lépéseket is el lehet végezni. Ilyen gyógyszereket adott számú páciensnek adnak be.
+## 2.2. A génterápiás gyógyszerekre vonatkozó különleges követelmények
 
-## b) Autológ humán sejtek felhasználásával készült génterápiás készítmények
+## 2.2.1. Bevezetés: késztermék, hatóanyag és alapanyagok
 
-## A hatóanyag előre elkészített vektorok csoportja, melyet az autológ sejtekbe való átvitel előtt tárolnak.
+## 2.2.1.1. Rekombináns nukleinsav-szekvenciát/nukleinsav-szekvenciákat vagy genetikailag módosított mikroorganizmust/mikroorganizmusokat vagy vírust/vírusokat tartalmazó génterápiás gyógyszer
 
-## A késztermék előállításához még további lépéseket is el lehet végezni.
+## A kész gyógyszerkészítmény a tervezett gyógyászati felhasználásra szolgáló végleges elsődleges tartályba csomagolt formulált termék, amely nukleinsav-szekvenciát/nukleinsav-szekvenciákat vagy genetikailag módosított mikroorganizmust/mikroorganizmusokat vagy vírust/vírusokat tartalmaz. A kész gyógyszerkészítmény orvostechnikai eszközzel vagy aktív implantátummal kombinálható.
 
-## Ezeket a termékeket olyan sejtekből preparálják, melyeket egy páciensből nyertek. A sejteket ezután genetikailag módosítják, egy előre elkészített preparált vektor felhasználásával, mely a megfelelő gént tartalmazza, amit előre elkészítettek és ami a hatóanyagot képezi. A készítményt visszainjekciózzák a betegbe, ez definíció szerint egy beteget jelent. Az egész gyártási folyamat a sejtek pácienstől való begyűjtésétől a visszainjekciózásig egy beavatkozásnak tekintendő.
+## A hatóanyag rekombináns nukleinsav-szekvenciából/nukleinsav-szekvenciákból vagy genetikailag módosított mikroorganizmusból/mikroorganizmusokból vagy vírusból/vírusokból áll.
 
-## c) Inszertált génállományú (profilaktikus, diagnosztikus vagy terápiás) frissen készített vektorok bevitele
+## 2.2.1.2. Genetikailag módosított sejteket tartalmazó génterápiás gyógyszer
 
-## A hatóanyag egy csoport előre elkészített vektor.
+## A kész gyógyszerkészítmény a tervezett gyógyászati felhasználásra szolgáló végleges elsődleges tartályba csomagolt formulált genetikailag módosított sejteket tartalmaz. A kész gyógyszerkészítmény orvostechnikai eszközzel vagy aktív implantátummal kombinálható.
 
-## A késztermék előállításához még további lépéseket is el lehet végezni. Ilyen gyógyszereket különböző pácienseknek adnak be.
+## A hatóanyag a 2.2.1.1. alpontban leírt genetikailag módosított sejtekből álló készítmények egyike.
 
-## A genetikai anyag átvitele az előre elkészített vektor páciensbe történő direkt beinjekciózásával történik.
+## 2.2.1.3. A vírusokból vagy vírusvektorokból álló készítmények esetében az alapanyagok azok a komponensek, amelyekből a vírusvektor származik, azaz a vírusvektor-törzstenyészet vagy a pakoló sejtvonal transzfektálására használt plazmidok és a pakoló sejtvonal törzsállománya.
 
-## 1.2. A 3. fejezetre vonatkozó különleges követelmények
+## 2.2.1.4. A plazmidokból, nem vírusvektorokból és vírusokon vagy vírusvektorokon kívüli genetikailag módosított mikroorganizmusból/mikroorganizmusokból álló készítmények esetében az alapanyagok a termelő sejt előállítására használt komponensek, azaz a plazmid, a befogadó baktériumok és a rekombináns mikrobiális sejtek törzsállománya.
 
-## A génterápiás gyógyszerek közé tartoznak:
+## 2.2.1.5. A genetikailag módosított sejtek esetében az alapanyagok a genetikailag módosított sejtek létrehozásához használt komponensek, azaz a vektor előállításához használt alapanyagok, a vektor és az emberi vagy állati sejtek. A vektor előállításához használt sejtbank rendszertől kezdődően mindvégig a helyes gyártási gyakorlat elvei alkalmazandók.
 
-## – nyers nukleinsav;
+## 2.2.2. Különleges követelmények
 
-## – komplex nukleinsav vagy nem-virális vektorok;
+## Az 1. rész 3.2.1. és 3.2.2. alpontjában előírt követelményeken túl
 
-## – virális vektorok;
+## a) a dokumentációban le kell írni:
 
-## – genetikailag módosított sejtek.
+## aa) a hatóanyag gyártásához felhasznált valamennyi alapanyagot, ideértve az emberi vagy állati sejtek genetikai módosításához szükséges készítményeket, és a genetikailag módosított sejtek ezt követő szaporítását és tárolását, számításba véve a tisztítási lépések esetleges elmaradását,
 
-## Mint más gyógyszernél, itt is felismerhető a gyártási folyamat három fő eleme, azaz
+## ab) mikroorganizmust vagy vírust tartalmazó készítmények esetében a genetikai módosítást, a szekvencia-analízist, a virulencia csökkentést, egyes szövetek és sejttípusok tropizmusát, a mikroorganizmus vagy vírus sejtciklus-függését, a patogenitást és a szülői törzs tulajdonságait,
 
-## – kiindulási anyagok: azok az anyagok, melyekből a hatóanyag készül, úgy, mint a kérdéses gén, az expressziós plazmidok, a sejtbankok és vírustörzsek, vagy nem-virális vektorok;
+## ac) az eljárással és a termékkel kapcsolatos szennyeződéseket, különösen a szaporodóképes vírusszennyeződést, ha a vektort szaporodásképtelenre tervezték;
 
-## – hatóanyagok: rekombináns vektor, vírus, nyers vagy komplex plazmidok, vírustermelő sejtek, in vitro genetikailag módosított sejtek;
+## b) a plazmidok esetében a készítmény felhasználhatósági ideje alatt meg kell határozni a különböző plazmid formák mennyiségét;
 
-## – késztermék: a közvetlen tartóba formulált hatóanyag, a tervezett orvosi felhasználásra. A génterápiás készítmény típusától függően, a beviteli mód és a felhasználási körülmények szükségessé tehetik a páciens sejtjeinek ex vivo kezelését.
+## c) a genetikailag módosított sejtek esetében meg kell vizsgálni a sejtek jellemzőit a genetikai módosítás előtt és után, valamint bármilyen későbbi fagyasztási/tárolási eljárás előtt és után is.
 
-## Különös figyelmet kell fordítani a következő elemekre:
+## A genetikailag módosított sejtek esetében a génterápiás gyógyszerekre vonatkozó különleges követelményeken túl a szomatikus sejtterápiás gyógyszerekre és a módosított szövet alapú készítményekre vonatkozó minőségi követelmények (lásd a 3.3. alpontot) is alkalmazandók.
 
-## a) A génterápiás gyógyszer jellemzőire vonatkozó információkat be kell nyújtani, beleértve a célsejtpopulációban történő expresszálódását is. Csatolni kell a forrásra, szerkezetre, a kódoló génszekvencia meghatározására és igazolására, valamint az integritására és stabilitására vonatkozó információkat is. A terápiás génen kívül be kell nyújtani a többi gén komplett szekvenciáját, a szabályozó elemeket és a klónozó vektort (vector backbone) is.
+## 2.3. A szomatikus sejtterápiás gyógyszerekre és a módosított szövet alapú készítményekre vonatkozó különleges követelmények
 
-## b) A gén átvitelére és szállítására használt vektor jellemzésére szolgáló információkat is be kell nyújtani. Ennek tartalmaznia kell a fiziko-kémiai, illetve a biológiai/immunológiai jellemzést.
+## 2.3.1. Bevezetés: késztermék, hatóanyag és alapanyagok
 
-## Azon gyógyszerek esetében, melyeknél mikroorganizmust (baktérium vagy vírus) használtak, hogy megkönnyítsék a génátvitelt (biológiai génátvitel), be kell nyújtani a szülői törzs pathogenezisére és a különböző szövetek, illetve sejttípusok iránti tropizmusára vonatkozó adatokat csakúgy, mint a kölcsönhatás sejtciklus függésére vonatkozó információkat.
+## A kész gyógyszer a tervezett gyógyászati felhasználásra szolgáló végleges elsődleges tartályba csomagolt formulált hatóanyag, illetve kombinált fejlett (újszerű) terápiás gyógyszerkészítmény esetén annak végleges kombinációja.
 
-## Azoknál a gyógyszereknél, melyeknél nem biológiai eszközöket használtak a génátvitel megkönnyítésére, az összetevők fiziko-kémiai tulajdonságait egyenként és kombinációban is csatolni kell.
+## A hatóanyag módosított sejtekből és/vagy szövetekből áll.
 
-## c) A sejtbankokra és az alapkészletek (seed lot) létrehozására és jellemzésére vonatkozó alapelveket kell alkalmazni a génátvitellel készült gyógyszereknél is.
+## A manipulált sejtekhez kapcsolódó és egyben szerves részüket képező többi anyag (például vázfehérjék, mátrixfehérjék, eszközök, bioanyagok, biomolekulák és/vagy egyéb komponensek) akkor is alapanyagnak tekintendő, ha nem biológiai eredetű.
 
-## d) A rekombináns vektort tartalmazó sejtek forrását is meg kell adni.
+## A hatóanyag gyártása során használt anyagok (például táptalajok, növekedési faktorok) nem képezik a hatóanyag részét, nyersanyagoknak tekintendők.
 
-## Dokumentálni kell az emberi forrás jellemzőit, mint kor, nem, a mikrobiológiai és virológiai vizsgálatok eredményei, a kizárási kritériumok és a származási ország.
+## 2.3.2. Különleges követelmények
 
-## Állati sejtek esetében, a következő elemekre vonatkozó részletes információkat kell benyújtani:
+## Az 1. rész 3.2.1. és 3.2.2. alpontjában előírt követelményeken túl a következő követelmények alkalmazandók:
 
-## – az állatok származása;
+## 2.3.2.1. Alapanyagok:
 
-## – állattenyésztés és gondozás;
+## a) A 2004/23/EK európai parlamenti és tanácsi irányelvvel összhangban az alapanyagként felhasznált emberi szövetek és sejtek adományozásáról, gyűjtéséről és vizsgálatáról összefoglaló tájékoztatást kell nyújtani. Ha alapanyagként nem egészséges sejteket vagy szöveteket (például rákos szövetet) használnak, használatukat meg kell indokolni.
 
-## – transzgenikus állatok (előállítási eljárások, a transzgenikus sejtek leírása, az inszertált gén típusa);
+## b) Allogén sejtpopuláció gyűjtése esetén le kell írni a gyűjtés módját és szempontjait, továbbá a nyomonkövethetőséget biztosító intézkedéseket.
 
-## – a forrás/donor állaton elvégzett vizsgálatok a fertőzések megelőzésére és ellenőrzésére;
+## c) Az emberi vagy állati szövetek és sejtek potenciális variabilitását figyelembe kell venni a gyártási eljárás validálásánál, a hatóanyag és a késztermék jellemzésénél, a vizsgálati eljárások fejlesztésénél, a minőségi határértékek és a stabilitás meghatározásánál.
 
-## – vizsgálat a fertőző ágensekre;
+## d) A xenogén sejt alapú készítmények esetében tájékoztatást kell nyújtani az állatok származásáról (például földrajzi származás, állattenyésztés, kor), az átvételi kritériumokról, a forrás/donor állatokban előforduló fertőzések megelőzésére és figyelemmel kísérésére alkalmazott intézkedésekről, az állatok fertőző ágensek tekintetében végzett vizsgálatáról, ideértve a vertikálisan terjedő mikroorganizmusokat és vírusokat is, valamint az állattartó létesítmények alkalmasságának igazolását.
 
-## – berendezések;
+## e) A genetikailag módosított állatokból származó sejtalapú készítmények esetében le kell írni a genetikai módosításban érintett sejtek speciális jellemzőit. Részletesen ki kell térni a transzgénikus állat jellemzésére, illetve annak létrehozási módjára.
 
-## – a kiindulási és nyersanyagok ellenőrzése.
+## f) A sejtek genetikai módosításához a 3.2. alpontban előírt szakmai követelmények alkalmazandók.
 
-## A sejt begyűjtésére vonatkozó módszertani információkat, beleértve a helyet, a szövet típusát, az operálási eljárást, szállítást, tárolást, követhetőséget csakúgy, mint a begyűjtési folyamat során elvégzett vizsgálatokat, dokumentálni kell.
+## g) Le kell írni és igazolni kell minden, a módosított sejtekhez kapcsolódó és azok szerves részét képező további anyag (vázfehérjék, mátrixfehérjék, eszközök, bioanyagok, biomolekulák vagy egyéb komponensek) vizsgálati sémáját.
 
-## e) A virológiai biztonsági értékelések csakúgy, mint a termékek követhetősége a donortól a késztermékig, a benyújtandó dokumentáció fontos részét képezik. Így például ki kell zárni replikációra képes vírusok jelenlétét a replikációra nem képes virális vektor törzsekben.
+## h) Olyan vázfehérjék, mátrixfehérjék és eszközök esetében, amelyek megfelelnek az orvostechnikai eszköz vagy aktív implantátum fogalom meghatározásának, meg kell adni a kombinált fejlett (újszerű) terápiás gyógyszerkészítmény értékeléséhez a 3.4. alpontban előírt információkat.
 
-## 2. SEJTTERÁPIÁS GYÓGYSZEREK
+## 2.3.2.2. Gyártási folyamat:
 
-## (HUMÁN ÉS XENOGENIKUS)
+## a) A gyártási folyamatot validálni kell annak érdekében, hogy biztosított legyen a gyártási tételek és az eljárások állandósága, a sejtek funkcionális integritása és megfelelő differenciáltsági állapota a teljes gyártási folyamat során, valamint a szállítás ideje alatt egészen az alkalmazás vagy a bevitel megkezdésének pillanatáig.
 
-## Jelen melléklet értelmében sejtterápiás gyógyszereken azt értjük, amikor embereken autológ (a pácienstől saját magától származó), allogenikus (egy másik embertől származó), vagy xenogenikus (állatból származó) élő testi sejteket használnak, ezen testi sejtek biológiai jellemzőit lényegesen megváltoztatták, hogy terápiás, diagnosztikus vagy preventív hatást érjenek el metabolikus, farmakológiai vagy immunológiai úton. Ez a beavatkozás magában foglalja autológ sejtpopulációk ex vivo expanzióját, vagy aktivációját (pl. adoptív immunoterápia), allogenikus vagy xenogenikus sejtek ex vivo vagy in vivo orvosi eszközökkel történő használatát [pl. mikrokapszulák, biodegradábilis vagy nem biodegradábilis természetes sejtkörnyezetek (intrinsic matrix scaffolds)].
+## b) Ha a sejtek közvetlenül mátrixfehérjében, vázfehérjében vagy eszközben/eszközön növekednek, információt kell szolgáltatni a sejttenyésztési folyamat validálásáról a sejtnövekedés, a funkció és a kombináció integritása tekintetében.
 
-## A sejtterápiás gyógyszerekkel kapcsolatos sajátos követelmények a 3. fejezetre vonatkozóan a következők:
+## 2.3.2.3. Jellemzés és ellenőrzési stratégia
 
-## A testi sejtterápiás gyógyszerek tartalmaznak:
+## a) A jellemzésnek releváns információt kell tartalmaznia a sejtpopuláció vagy a sejtkeverék tulajdonságairól, úgymint azonosság, tisztaság, életképesség, aktivitás, kromoszómavizsgálat, tumorigenitás és a tervezett gyógyászati alkalmazásra való alkalmasság. Bizonyítani kell a sejtek genetikai stabilitását.
 
-## – kvalitatív vagy kvantitatív szempontból, immunológiailag, metabolikusan, vagy más funkciós tulajdonságukban megváltoztatott sejtek;
+## b) Minőségi és lehetőség szerint mennyiségi információkat kell nyújtani a termékkel vagy eljárással kapcsolatos szennyeződésekről, valamint minden olyan anyagról, amely az előállítás során bomlástermékeket eredményezhet. A szennyezés-meghatározás körét, részletességét meg kell indokolni.
 
-## – osztályozott, kiválogatott, megváltoztatott sejtek, melyek később egy gyártási folyamaton mentek keresztül, a késztermék előállítása céljából;
+## c) Indololni kell, ha bizonyos felszabadítási vizsgálatokat a hatóanyagok vagy a kész termék helyett csak a kulcsfontosságú köztes anyagokon és/vagy gyártásközi vizsgálat keretében lehet elvégezni.
 
-## – manipulált sejtek, melyeket nem celluláris komponensekkel kombináltak (pl. biológiai és inert mátrixok vagy orvosi eszközök), melyek a fő kívánt hatást váltják ki a késztermékben;
+## d) Ha a sejtalapú készítmény egyik komponenseként biológiailag aktív molekulák (például növekedési faktorok, citokinek) vannak jelen, jellemezni kell hatásukat és a hatóanyag más komponenseivel való kölcsönhatásukat.
 
-## – autológ sejtszármazékok, melyek sajátos tenyésztési körülmények között expresszálódtak;
+## e) Ha a háromdimenziós szerkezet a tervezett funkció része, a sejtalapú készítmények jellemzésének részeként meg kell adni a differenciálódási állapotot, a sejtek szerkezeti és funkcionális felépítését és adott esetben a létrehozott extracelluláris mátrixot. Szükség esetén a fizikai-kémiai jellemzést nem-klinikai vizsgálatokkal kell kiegészíteni.
 
-## – genetikailag vagy más módon módosított sejtek, melyeket azért módosítottak, hogy olyan funkcionális homológ vagy nem homológ tulajdonsággal rendelkezzenek, mellyel korábban nem rendelkeztek.
+## 2.3.2.4. Segédanyagok
 
-## Az egész gyártási folyamatot a sejteknek a betegtől való begyűjtésétől (autológ esetben) kezdve, a sejtek páciensbe történő újrainjekciózásáig egy beavatkozásnak tekintjük.
+## Ha a sejt vagy szövet alapú gyógyszerkészítményben segédanyagot/segédanyagokat (például a szállító közeg komponensei) alkalmaznak, ezekre az 1. részben meghatározott, az új segédanyagokkal szemben támasztott követelmények alkalmazandók, kivéve, ha adatok állnak rendelkezésre a sejtek vagy szövetek és a segédanyagok közötti kölcsönhatásról.
 
-## Mint más gyógyszernél, itt is felismerhető a gyártási folyamat három fő eleme:
+## 2.3.2.5. Fejlesztési vizsgálatok
 
-## – kiindulási anyagok: azok az anyagok, amelyekből a hatóanyagot gyártották, azaz szervek, szövetek, testnedvek vagy sejtek;
+## A fejlesztési program leírásának ki kell térnie az anyagok és eljárások kiválasztására. A végleges összetételben külön hangsúlyt kell fektetni a sejtpopuláció integritására.
 
-## – hatóanyagok: manipulált sejtek, sejtlizátumok, proliferáló sejtek és inert mátrixokkal és orvosi eszközökkel együtt használt sejtek;
+## 2.3.2.6. Referenciaanyagok
 
-## – késztermékek: a tervezett orvosi felhasználásra kész, a végső, közvetlen tárolóedénybe formulált hatóanyag.
+## A dokumentációban fel kell tüntetni és jellemezni kell a hatóanyag és/vagy a késztermék szempontjából releváns és specifikus referencia standardot.
 
-## a) A hatóanyag(ok)ra vonatkozó általános információk
+## 2.4. Az eszközöket tartalmazó fejlett (újszerű) terápiás gyógyszerkészítményekre vonatkozó különleges követelmények
 
-## A sejtterápiás gyógyszerek hatóanyagai olyan sejtekből állnak, melyek egy in vitro feldolgozási eljárás következményeként az eredeti biológiai és élettani funkciójuktól eltérő profilaktikus, diagnosztikus és terápiás tulajdonságokkal rendelkeznek.
+## 2.4.1. Az 1394/2007/EK európai parlamenti és tanácsi rendelet 7. cikke szerinti eszközöket tartalmazó fejlett (újszerű) terápiás gyógyszerkészítmények
 
-## Ez a bekezdés írja le a szóban forgó sejteket és kultúrákat. Dokumentálni kell a szöveteket, szerveket és biológiai folyadékokat, melyekből a sejtek származnak, dokumentálni kell továbbá a donáció autológ, allogenikus vagy xenogenikus természetét, valamint a minta földrajzi származását is. Részletezni kell a sejtek begyűjtését, a további feldolgozás előtti mintavételt és tárolást. Allogenikus sejtek esetén, különös figyelmet kell fordítani a folyamat legelső lépésére, a donorok kiválasztására. Be kell nyújtani az elvégzett beavatkozás típusáról és a hatóanyagként használt sejt élettani funkciójáról szóló jelentést.
+## Le kell írni a készítmény fizikai jellemzőit és működését, valamint a készítmény tervezési módszereit.
 
-## b) A hatóanyag kiindulási anyagaira vonatkozó információk
+## Le kell írni a gének, sejtek és/vagy szövetek, valamint a szerkezeti komponensek közötti kölcsönhatást és összeférhetőséget.
 
-## 1. Humán testi sejtek
+## 2.4.2. Az 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés d) pontjában meghatározott kombinált fejlett (újszerű) terápiás gyógyszerkészítmények
 
-## A humán testi sejt terápiás gyógyszerek, meghatározott számú (csoport) életképes sejtből állnak, melyeket egy gyártási folyamat során szereztek, ez a gyártási folyamat, vagy emberből nyert szövetek vagy szervek szintjén kezdődött, vagy egy jól meghatározott sejtbank szintjén, ahol a sejtbank alapját folytonos sejtvonalak alkotják. Ezen bekezdés értelmében hatóanyagon emberi sejtek oltócsíra csoportját értjük, készterméken pedig a tervezett orvosi felhasználásra megformált emberi oltócsírák csoportját.
+## A kombinált fejlett (újszerű) terápiás gyógyszerkészítmény sejtes vagy szöveti része esetében a szomatikus sejtterápiás gyógyszerekre és a módosított szövet alapú készítményekre a 2.3. alpontban meghatározott különleges követelmények, valamint a genetikailag módosított sejtek esetében a génterápiás gyógyszerekre a 2.2. alpontban meghatározott különleges követelmények alkalmazandók.
 
-## A kiindulási anyagokat és a gyártási folyamat minden lépését teljesen dokumentálni kell, különösen a virológiai biztonsági szempontokat.
+## Ha a késztermék gyártása, alkalmazása vagy bevitele során az orvostechnikai eszköz vagy az aktív implantátum a sejtekhez kapcsolódik, a késztermék szerves részének kell őket tekinteni.
 
-## (1) Szervek, szövetek, testnedvek és emberi eredetű sejtek
+## Meg kell adni a hatóanyag vagy a késztermék szerves részét képező orvostechnikai eszközzel vagy az aktív implantátummal kapcsolatos olyan információkat, amelyek relevánsak a kombinált fejlett (újszerű) terápiás gyógyszerkészítmény értékelése szempontjából. Ezek az információk a következők:
 
-## Az emberi forrás jellemzőit, mint kor, nem, mikrobiológiai állapot, kizárási kritériumok és a származási ország, dokumentálni kell.
+## a) információk a választott orvostechnikai eszközről vagy implantátumról és tervezett funkciójukról, valamint annak bizonyítása, hogy az eszköz összeférhető a készítmény más komponenseivel;
 
-## A mintavétel leírását, beleértve a helyet, a típust, az operálási eljárást, a gyűjtést, a szállítást, a tárolást és követhetőséget csakúgy, mint a mintavétel során elvégzett vizsgálatokat is dokumentálni kell.
+## b) bizonyíték arra, hogy az orvostechnikai eszköz rész megfelel az orvostechnikai eszközökről szóló 1993. június 14-i 93/42/EGK tanácsi irányelv I. mellékletében előírt alapvető követelményeknek, az aktív implantátum rész pedig megfelel az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 1990. június 20-i 90/385/EGK tanácsi irányelv I. mellékletében előírt alapvető követelményeknek;
 
-## (2) Sejtbank rendszerek
+## c) szükség esetén bizonyíték arra, hogy az orvostechnikai eszköz vagy az implantátum megfelel a 93/42/EGK tanácsi irányelvben az állati eredetű szövet felhasználásával gyártott orvostechnikai eszközökre vonatkozóan előírt követelmények tekintetében részletes előírások megállapításáról szóló 2003. április 23-i 2003/32/EK bizottsági irányelvben előírt BSE/TSE-követelményeknek;
 
-## Az 1. részben leírt vonatkozó követelményeket kell alkalmazni a sejtbank rendszerek előállítása és minőségi ellenőrzése során is. Ez lényegében az allogenikus és xenogenikus sejtekre vonatkozik.
+## d) szükség esetén az orvostechnikai eszköz részen vagy az aktív implantátum részen a kijelölt szervezet által a 93/42/EGK tanácsi irányelvvel vagy a 90/385/EGK tanácsi irányelvvel összhangban végzett bármely értékelés eredményei.
 
-## (3) Segédanyagok és orvosi segédeszközök
+## A kijelölt szervezet, amely a d) pontban említett értékelést végezte, a 93/42/EGK tanácsi irányelvvel vagy a 90/385/EGK tanácsi irányelvvel összhangban a kérelmet értékelő illetékes hatóság kérésére rendelkezésre bocsát minden olyan információt, amely az értékeléshez kapcsolódik. Ezek tartalmazhatják az érintett megfelelőség-értékelési kérelemben található információkat és dokumentumokat, ha szükségesek a kombinált fejlett (újszerű) terápiás gyógyszerkészítmény egészének értékeléséhez.
 
-## Információt kell nyújtani minden nyersanyag használatával kapcsolatban (pl. cytokinek, növekedési faktorok, tenyésztő közeg) vagy a segédanyagokkal és orvosi eszközökkel kapcsolatban (pl. sejtválogató eszközök, biokompatibilis polimerek, mátrix, rostok, gyöngyök) a biokompatibilitás és funkció szempontjából, valamint a fertőző ágensek kockázatának szempontjából.
+## 3. AZ 1. RÉSZ 4. FEJEZETÉVEL KAPCSOLATOS KÜLÖNLEGES KÖVETELMÉNYEK
 
-## 2. Állati testi sejtek (xenogenikus)
+## 3.1. A fejlett (újszerű) terápiás gyógyszerkészítmények mindegyikére vonatkozó különleges követelmények
 
-## A következő elemekre vonatkozó részletes információkat kell benyújtani:
+## Az 1. rész 4. fejezetének a gyógyszerkészítmények farmakológiai és toxikológiai vizsgálatáról szóló követelményei nem mindig megfelelőek a fejlett (újszerű) terápiás gyógyszerkészítmények egyedülálló és sokféle szerkezeti és biológiai tulajdonságai miatt. A 3.1., 3.2. és 3.3. alpontban szereplő szakmai követelmények leírják, hogy az 1. rész 1. fejezetének követelményei hogyan alkalmazandók a fejlett (újszerű) terápiás gyógyszerkészítményekre. Figyelembe véve a fejlett (újszerű) terápiás gyógyszerkészítmények sajátosságait, további követelmények állapíthatók meg.
 
-## – Az állatok származása
+## A nem-klinikai fejlesztés ésszerűségét és a releváns fajok és modellek (in vitro vagy in vivo) kiválasztásához használt kritériumokat a nem-klinikai áttekintésben kell megvitatni és indokolni. A kiválasztott állatkísérleti modell/modellek károsodott immunrendszerű, génkiütéses, humanizált vagy transzgénikus állatok is lehet/lehetnek. Az immunogenitási és immunotoxicitási vizsgálatok elvégzéséhez különösen ajánlott homológ modellek (például egérben vizsgált egérsejtek) vagy betegségutánzó modellek alkalmazása.
 
-## – Állattenyésztés és gondozás
+## Az 1. rész 1. fejezet követelményein túl igazolni kell a késztermékekben előforduló összes szerkezeti komponens (például mátrixok, vázfehérjék és eszközök) és bármely más további anyag (például sejtkészítmények, biomolekulák és kémiai anyagok) biztonságosságát, alkalmasságát és biokompatibilitását. Figyelembe kell venni a fizikai, mechanikai, kémiai és biológiai tulajdonságaikat is.
 
-## – A genetikailag módosított állatokra vonatkozó információk [az előállítási eljárások, a transzgenikus sejtek jellemzése, az inszertált vagy kivágott (knockout) gén természete]
+## 3.2. A génterápiás gyógyszerekre vonatkozó különleges követelmények
 
-## – A forrás/donor állaton elvégzett vizsgálatok a fertőzések megelőzésére és ellenőrzésére
+## A nem-klinikai biztonsági adatok megfelelő szintjének meghatározására végzett nem-klinikai vizsgálatok mértékének és típusának megállapításához figyelembe kell venni a génterápiás gyógyszer tervezését és típusát.
 
-## – A fertőző ágensekre elvégzett vizsgálatok, beleértve a vertikálisan átvitt mikroorganizmusokat (az endogén retro vírusok is)
+## 3.2.1. Farmakológia
 
-## – Berendezések
+## a) A javasolt terápiás alkalmazással kapcsolatos hatásokra vonatkozóan in vitro és in vivo vizsgálatokat (azaz farmakodinámiai „koncepcióhatékonysági” vizsgálatokat) kell végezni olyan modellek és releváns állatfajok felhasználásával, amelyek igazolják, hogy a nukleinsav-szekvencia eléri a tervezett célt (célszervet vagy -sejtet), és biztosítja a tervezett funkciót (expressziós szintet és funkcionális aktivitást). A klinikai vizsgálatokban meg kell adni a nukleinsav-szekvencia működésének időtartamát és a javasolt adagolási sémát.
 
-## – Sejtbank rendszerek
+## b) A cél szelektivitása: ha a génterápiás gyógyszert úgy tervezik, hogy szelektív vagy korlátozott célú funkciója legyen, vizsgálatokkal kell igazolni a specifikusságot és a célsejtekben és -szövetekben a funkció és aktivitás időtartamát.
 
-## – A kiindulási és nyersanyagok ellenőrzése
+## 3.2.2. Farmakokinetika
 
-## a) A hatóanyag(ok) és a késztermék gyártási folyamatára vonatkozó információk
+## a) A biodisztribúciós vizsgálatoknak ki kell terjedniük a perzisztencia, a kiürülés és a mobilizáció vizsgálatára, továbbá a csírasejtvonal-transzmisszió kockázatára.
 
-## A gyártási folyamat különböző lépéseit, mint a szövet/szerv elkülönítése, a keresett sejtpopuláció kiválasztása, az in vitro sejtkultúra, akár fizikai-kémiai ágensekkel, akár génátvitellel történő sejttranszformáció körülményeit dokumentálni kell.
+## b) A szóródással és a harmadik félnek való átadás kockázatával kapcsolatos vizsgálatokat a környezeti kockázatbecsléssel együtt kell benyújtani, hacsak nincs megfelelő indokolás a kérelemben ezek elhagyhatóságáról az érintett készítmény típusa okán.
 
-## b) A hatóanyagok jellemzése
+## 3.2.3. Toxikológia
 
-## Minden, a tervezett orvosi felhasználás szemszögéből a kérdéses sejtpopulációra vonatkozó jellemzőt, úgy mint a sejtek azonosítását (mely fajból származik, citogenetikai sávozás, morfológiai analízis), tisztaságát (véletlenül bekerülő és átvihető mikrobiális ágensek és sejtes szennyeződések), hatékonyságát (meghatározott biológiai aktivitás) és megfelelőségét (karyológia és tumorogenitási vizsgálatok) be kell nyújtani.
+## a) Értékelni kell a kész génterápiás készítmény toxicitását. Ezen túlmenően a készítmény típusától függően fontolóra kell venni a hatóanyag és a segédanyagok külön vizsgálatát, és értékelni kell az olyan expresszálódott nukleinsav-szekvenciával kapcsolatos termékek in vivo hatását, amelyeket nem fiziológiai funkciók betöltésére terveztek.
 
-## c) A késztermék gyógyszerészeti fejlesztése
+## b) Az egyszeri alkalmazás esetén fellépő toxicitás vizsgálattal együtt biztonsági farmakológiai és farmakokinetikai vizsgálatok is végzhetők például a perzisztencia megállapítása céljából.
 
-## A használt specifikus beviteli mód mellett (intravénás infúzió, helyi injekció, transzplantációs sebészet), információt kell adni a használt lehetséges orvosi eszközökről is, (biokompatibilis polimerek, mátrix, rostok, gyöngyök) a biokompatibilitás és tartósság szemszögéből.
+## c) Több adagosra tervezett készítmény esetén vizsgálni kell az ismételt adag alkalmazása során fellépő toxicitást is. Az alkalmazás módjának és rendszerének ismertetésében megfelelően ki kell térni a tervezett klinikai adagolásra. Olyan esetekben, amikor az egyszeri adagolás az emberekben a nukleinsav-szekvenciák hosszabb időtartamú működését eredményezi, fontolóra kell venni az ismételt toxicitási vizsgálat elvégzését. A génterápiás gyógyszer perzisztenciájától és a várható potenciális kockázatoktól függően a vizsgálatok időtartama hosszabb lehet, mint a standard toxicitási vizsgálatoké. Az időtartamot indokolni kell.
 
-## d) Követhetőség
+## d) Meg kell vizsgálni a genotoxicitást. Standard genotoxicitási vizsgálatokat csak akkor kell végezni, ha az egy adott szennyeződést vagy a célba juttató rendszer egy komponensét hivatott vizsgálni.
 
-## Egy részletes folyamatábrát kell benyújtani, ami biztosítja a termékek nyomonkövethetőségét a donortól a késztermékig.
+## e) Meg kell vizsgálni a karcinogenitást. Nincs szükség a rágcsálók standard, egész életen át tartó karcinogenitási vizsgálatára. A készítmény típusától függően azonban a releváns in vivo/in vitro modellekben értékelni kell a tumorgenikus potenciált.
 
-## 3. A GÉNTERÁPIA ÉS A SEJTTERÁPIA
+## f) Reprodukciós és fejlődési toxicitás: vizsgálatot kell végezni a termékenységi és általános reprodukciós funkcióra kifejtett hatásról. Embrio-fötális és perinatális toxicitási és csírasejtvonal-transzmissziós vizsgálatokat kell végezni, ha más megfelelő indoklás nincs a kérelemben az érintett készítmény típusa alapján.
 
-## (HUMÁN ÉS XENOGENIKUS)
+## g) További toxicitási vizsgálatok:
 
-## 4. ÉS 5. FEJEZETRE VONATKOZÓ
+## ga) Integrációs vizsgálatok: integrációs vizsgálatot kell végezni mindegyik génterápiás gyógyszeren, hacsak nem indokolt e vizsgálat mellőzése, például mert a nukleinsav-szekvenciák nem lépnek be a sejtmagba. Olyan génterápiás gyógyszerek esetében, amelyek várhatóan nem képesek integrálódni, de a biodisztribúciós adatok csírasejtvonal-transzmisszió kockázatát tárják fel, integrációs vizsgálatot kell végezni.
 
-## KÜLÖNLEGES KÖVETELMÉNYEI
+## gb) Immunogenicitás és immunotoxicitás: a potenciális immunogenikus és immunotoxikus hatásokat meg kell vizsgálni.
 
-## 3.1. 4. fejezet
+## 3.3. A szomatikus sejtterápiás gyógyszerekre és a módosított szövet alapú készítményekre vonatkozó különleges követelmények
 
-## Egyértelmű, hogy a génterápiás és testi sejt terápiás gyógyszerek esetén a 4. fejezetben leírt hagyományos követelmények a gyógyszerek nem-klinikai vizsgálatára vonatkozóan nem mindig megfelelőek, a kérdéses termékek strukturális és biológiai egyedisége és sokfélesége miatt, értve ezen a magas fajspecificitást, az alanyok specificitását, az immunológiai korlátokat és a pleiotróp válaszok különbözőségét.
+## 3.3.1. Farmakológia
 
-## Azokat az érveket, melyek alátámasztják a nem-klinikai fejlesztés és a fajok és modellek kiválasztásánál használt kritériumokat, a 2. fejezetben kell leírni.
+## a) Az elsődleges farmakológiai vizsgálatoknak igazolniuk kell a terápiás koncepció hatékonyságát. A sejtalapú készítmények esetében meg kell vizsgálni a környező szövettel való kölcsönhatását.
 
-## Szükséges lehet meghatározni és kifejleszteni új állatmodelleket, hogy segítsék a sajátos felfedezések kivetítését a funkcionális végpontokon, és az embereken használt készítmények toxicitásának kivetítését az in vivo aktivitásra. Be kell nyújtani ezen állatmodellek használatának tudományos indoklását, hogy hogyan támasztják alá a biztonsági adatokat és hogyan bizonyítják a hatásosságot.
+## b) Meg kell határozni a készítmény hatékony dózisát, valamint a készítmény típusától függően az adagolás gyakoriságát.
 
-## 3.2. 5. fejezet
+## c) A másodlagos farmakológiai vizsgálatok eredményét olyan potenciális fiziológiai hatás értékeléséhez kell számításba venni, amely nem kapcsolódik a szomatikus sejtterápiás gyógyszer, a módosított szövet alapú készítmény vagy a további anyagok alkalmazásával elérni kívánt terápiás hatásához, mivel a szóban forgó fehérjén/fehérjéken kívüli biológiailag aktív molekulák kiválasztódhatnak, vagy a szóban forgó fehérjének nem kívánt célhelyei lehetnek.
 
-## A fejlett terápiás gyógyszerek hatásosságát az 5. fejezetben leírtak szerint kell igazolni. Néhány termék és terápiás javallat esetében azonban nem lehetséges a hagyományos klinikai vizsgálatok elvégzése. Az aktuális útmutatóktól való minden eltérést a 2. fejezetben indokolni kell.
+## 3.3.2. Farmakokinetika
 
-## A fejlett terápiás gyógyszerek klinikai fejlesztésének lehetnek sajátos vonásai a hatóanyagok komplex és labilis természete miatt. További megfontolásokat igényel a sejtek életképességével, proliferációjával, migrációjával és differenciációjával (testi sejtterápia esetén) kapcsolatos kérdések miatt, továbbá a termékek felhasználásának speciális klinikai körülményei miatt, valamint a génexpresszión keresztül való speciális hatásmód (testi sejtterápia esetén) miatt.
+## a) Nem szükséges elvégezni az abszorpció, a disztribúció, a metabolizmus és a kiválasztódás vizsgálatára irányuló hagyományos farmakokinetikai vizsgálatokat. Az olyan paramétereket azonban, mint például az életképesség, az élettartam, a disztribúció, a növekedés, a differenciálódás és vándorlás, meg kell vizsgálni, ha más megfelelő indoklás nincs a kérelemben az érintett készítmény típusa alapján.
 
-## A fejlett terápiás készítmények forgalomba hozatali engedély iránti kérelménél a kérelemben külön ki kell emelni ezen termékek fertőző ágensekkel való lehetséges szennyezettségéből fakadó veszélyeket. Külön hangsúlyt kell fektetni egyrészt a fejlesztés korai stádiumára, beleértve sejtterápiás készítmények esetén a donorok kiválasztását, valamint az egész terápiás beavatkozásra, másrészt pedig a termék megfelelő kezelésére és bevitelére.
+## b) Szisztémásan aktív biomolekulákat előállító szomatikus sejtterápiás gyógyszerek és módosított szövet alapú készítmények esetében meg kell vizsgálni a molekulák disztribúcióját, expressziójuk időtartamát és mennyiségét.
 
-## A kérelem 5. fejezetének tartalmaznia kell a recipiensben lévő élő sejtek funkciójára és fejlődésére vonatkozó vizsgálatokat és ellenőrzéseket, hogy megelőzzék a fertőző ágensek recipiensbe történő bevitelét, és hogy minimalizáljanak minden lehetséges népegészségügyi kockázatot.
+## 3.3.3. Toxikológia
 
-## 3.2.1. Humán farmakológiai és hatásossági vizsgálatok
+## a) Értékelni kell a kész gyógyszer toxicitását. Meg kell fontolni a hatóanyag/hatóanyagok, segédanyagok, további anyagok és az eljárással kapcsolatos bármilyen szennyeződés egyedi vizsgálatát.
 
-## A humán farmakológiai vizsgálatoknak információt kell nyújtania a várható hatásmódról, a várható hatásosságról az igazolt végpontok alapján, a biodisztribúcióról, a megfelelő dózisról, az adagolás rendjéről, a beviteli módokról, vagy a hatásossági vizsgálatok elvégzéséhez kívánatos használati módokról.
+## b) A megfigyelések időtartama hosszabb lehet, mint a standard toxicitási vizsgálatok esetében, és figyelembe kell venni a gyógyszerkészítmény várható élettartamát, farmakodinámiai és farmakokinetikai adottságaival együtt. Az időtartamot igazolni kell.
 
-## A hagyományos farmakokinetikai vizsgálatok nem minden esetben megfelelőek néhány fejlett terápiás gyógyszer esetében. Néha az egészséges önkénteseken végzett vizsgálatok nem elvégezhetőek, és a dózis és a kinetika megállapítása nehéz a klinikai vizsgálatokban. Szükséges azonban tanulmányozni a termék disztribúcióját és in vivo viselkedését, beleértve a sejtproliferációt és a hosszú távú funkciót csakúgy, mint a géntermék méretét és disztribúcióját, valamint a kívánatos génexpresszió időtartamát. Megfelelő teszteket kell elvégezni, és ha szükséges, teszteket kell kifejleszteni a sejttermék, vagy az emberi szervezetben a kívánt gént expresszáló sejt nyomon követésére és a bevitt vagy átvitt sejtek funkciójának ellenőrzésére.
+## c) A készítmény tumorgenikus potenciálja tekintetében szükséges elvégezni a hagyományos karcinogenitási és genotoxicitási vizsgálatokat.
 
-## A fejlett terápiás készítmény biztonsági és hatékonysági értékelésének tartalmaznia kell a terápiás eljárás, mint egység körültekintő leírását és értékelését, beleértve a speciális beviteli módokat (mint a sejtek átvitelét ex vivo, az in vitro manipulációkat vagy a beavatkozási technikák használatát) és a lehetséges kísérő terápiákat beleértve az immunoszuppresszív, antivirális és citotoxikus kezeléseket).
+## d) Meg kell vizsgálni a potenciális immunogenikus és immunotoxikus hatásokat.
 
-## Az egész eljárást klinikai vizsgálatoknak kell alávetni, és le kell írni a terméktájékoztatóban.
+## e) Állati sejteket tartalmazó sejtalapú készítmények esetében meg kell vizsgálni a velük járó különleges biztonsági aggályokat, mint például a xenogén kórokozók emberre való átterjedését.
 
-## 3.2.2. Biztonság
+## 4. AZ 1. RÉSZ 5. FEJEZETÉVEL KAPCSOLATOS KÜLÖNLEGES KÖVETELMÉNYEK
 
-## A gyógyszerre vagy az expresszált proteinekre adott immunválaszokból fakadó biztonsági kérdések szempontjából az immunkilökődést, az immunszuppressziót és az immunizolátor készülékek üzemzavarát is tekintetbe kell venni.
+## 4.1. A fejlett (újszerű) terápiás gyógyszerkészítmények mindegyikére vonatkozó különleges követelmények
 
-## Bizonyos fejlett génterápiás és testi sejt terápiás gyógyszerek (pl. xenogenikus sejtterápia és bizonyos génátviteli termékek) tartalmazhatnak replikációra képes részeket, illetve fertőző ágenseket. A pácienst folyamatosan vizsgálni kell esetleges fertőzések kialakulása miatt, illetve ezek patológiás következményeire az engedélyezés előtti és utáni fázisokban; ezt a felügyeletet ki kell terjeszteni a pácienssel szoros kapcsolatban állókra is, beleértve az egészségügyi ellátásban részt vevőket is.
+## 4.1.1. A 4. rész e címének különleges követelményei az 1. rész 5. fejezetében meghatározott követelményeket egészítik ki.
 
-## Az átvihető ágensekkel való fertőzés veszélye nem küszöbölhető ki teljesen bizonyos testi sejtterápiás és bizonyos génátviteli gyógyszereknél. A kockázat minimalizálható a 3. fejezetben leírt megfelelő intézkedésekkel.
+## 4.1.2. Ha a fejlett (újszerű) terápiás gyógyszerkészítmény klinikai alkalmazása különleges kísérő terápiát és sebészeti beavatkozásokat igényel, meg kell vizsgálni és le kell írni a teljes terápiás eljárást. A klinikai fejlesztés alatt ismertetni kell ezen eljárások standardizálását és optimalizálását is.
 
-## A gyártási folyamat során alkalmazott intézkedéseket ki kell egészíteni kísérő vizsgálati eljárásokkal, minőségellenőrzési eljárásokkal, és a megfelelő felügyeleti eljárásokkal, melyeket az 5. fejezetben kell leírni.
+## A sebészeti beavatkozás során tájékoztatást kell nyújtani a fejlett (újszerű) terápiás gyógyszerkészítmény alkalmazásához, beültetéséhez vagy beviteléhez használt azon orvostechnikai eszközökről, amelyek befolyásolhatják a fejlett (újszerű) terápiás készítmény hatékonyságát vagy biztonságát.
 
-## Bizonyos testi sejtterápiás gyógyszerek használatát átmenetileg vagy véglegesen korlátozni kell olyan intézményekre, melyek dokumentált szakértelemmel és felszereléssel rendelkeznek ahhoz, hogy biztosítsák a páciensek biztonságának nyomon követését. Hasonló megközelítés szükséges lehet néhány génterápiás készítmény esetében is, melyeknél fennáll a veszélye, hogy replikációra képes fertőző ágenseket hordoznak magukban.
+## Meg kell határozni az alkalmazáshoz, a beültetéshez, a bevitelhez vagy a nyomonkövetési tevékenységekhez szükséges különleges szakértelmet. Adott esetben rendelkezésre kell bocsátani az egészségügyi szakembereknek a készítmények használatáról, alkalmazásáról, beültetéséről vagy beviteli eljárásairól szóló képzési tervét is.
 
-## A hosszú távú megfigyelési szempontoknál tekintetbe kell venni a késői komplikációk kifejlődését is, és ahol fontos, a beadványban ezt jelezni is kell.
+## 4.1.3. Mivel a fejlett (újszerű) terápiás gyógyszerkészítmények természetéből adódóan előállítási folyamatuk a klinikai fejlesztés során változhat, az összehasonlíthatóságról további vizsgálatok válhatnak szükségessé.
 
-## Ahol szükséges, a kérelmezőnek be kell nyújtania egy részletes kockázatkezelési tervet, mely vonatkozik a páciens klinikai és laboratóriumi adataira, a felmerülő epidemiológiai adatokra és ha szükséges a donorból és recipiensből származó szövetminták archívumára is. Egy ilyen rendszernek az a feladata, hogy biztosítsa a gyógyszer nyomon követhetőségét és mellékhatásgyanús jelek esetén a gyors válaszlépéseket.
+## 4.1.4. A klinikai fejlesztés során meg kell vizsgálni a potenciálisan fertőző ágensekből vagy az állati forrásokból származó anyagok használatából adódó kockázatokat és a csökkentésükre hozott intézkedéseket.
 
-## 4. A XENOTRANSZPLANTÁCIÓS GYÓGYSZEREKKEL
+## 4.1.5. A dózis és az alkalmazás gyakoriságának meghatározására dózis-hatás vizsgálatokat kell végezni.
 
-## KAPCSOLATOS KÜLÖNLEGES NYILATKOZAT
+## 4.1.6. A feltételezett indikációkban való hatékonyságot a klinikai vizsgálatok releváns eredményeivel kell alátámasztani a tervezett alkalmazásra klinikailag releváns végpontok felhasználásával. Bizonyos klinikai helyzetekben a hosszú távú hatékonyságot is be kell bizonyítani. Meg kell adni a hosszú távú hatékonyság értékelésének stratégiáját.
 
-## E melléklet értelmében, xenotranszplantációnak minősül minden olyan eljárás, mely során állatokból származó élő szövetek vagy szervek vagy olyan emberi testnedvek, sejtek, szövetek vagy szervek, melyek ex vivo kapcsolatba kerültek élő állati sejtekkel, szövetekkel vagy szervekkel, emberi recipiensbe történő transzplantációja, implantációja vagy infúziója megy végbe.
+## 4.1.7. A kockázatkezelési tervbe be kell építeni a biztonság és a hatékonyság hosszú távú nyomon követésének stratégiáját.
 
-## Ebből a szempontból a következő elemekre vonatkozó részletes információkat kell benyújtani a sajátos útmutatók alapján:
+## 4.1.8. A kombinált fejlett (újszerű) terápiás gyógyszerkészítmények esetében a biztonsági és hatékonysági vizsgálatokat a kombinált készítmények egészére kell tervezni és azokon kell elvégezni.
 
-## – Az állatok származása
+## 4.2. A génterápiás gyógyszerekre vonatkozó különleges követelmények
 
-## – Állattenyésztés és -gondozás
+## 4.2.1. Humán farmakokinetikai vizsgálatok
 
-## – A genetikailag módosított állatokra vonatkozó információk [az előállítási eljárások, a transzgenikus sejtek jellemzése, az inszertált vagy kivágott (knockout) gén természete]
+## A humán farmakokinetikai vizsgálatoknak a következő szempontokat kell figyelembe venniük:
 
-## – A forrás/donor állaton elvégzett vizsgálatok a fertőzések megelőzésére és ellenőrzésére
+## a) szóródási vizsgálatok a génterápiás gyógyszerek kiválasztódásának vizsgálatára;
 
-## – A fertőző ágensekre elvégzett vizsgálatok
+## b) biodisztribúciós vizsgálatok;
 
-## – Berendezések
+## c) a gyógyszerkészítmény és a génexpressziós termékek (például kifejeződő fehérjék vagy genomikus szignatúra) farmakokinetikai vizsgálatai.
 
-## – A kiindulási és nyersanyagok ellenőrzése
+## 4.2.2. Humán farmakodinámiai vizsgálatok
 
-## – Nyomon követhetőség
+## A humán farmakodinámiai vizsgálatok a génterápiás gyógyszer bevitele után a nukleinsav-szekvencia expressziójával és funkciójával foglalkoznak.
+
+## 4.2.3. Biztonsági vizsgálatok
+
+## A biztonsági vizsgálatok szempontjai:
+
+## a) szaporodóképes vektor megjelenése;
+
+## b) új törzsek megjelenése;
+
+## c) a meglévő genomikus szekvenciák átrendeződése;
+
+## d) az inszerciós mutagenezisből adódó daganatsejt-proliferáció.
+
+## 4.3. A szomatikus sejtterápiás gyógyszerekre vonatkozó különleges követelmények
+
+## 4.3.1. Aktív biomolekula/biomolekulák előállításán alapuló szomatikus sejtterápiás gyógyszerek
+
+## Lehetőség szerint meg kell adni a biomolekula/biomolekulák farmakokinetikai tulajdonságait (különösen a disztribúciót, az expresszió időtartamát és mennyiségét).
+
+## 4.3.2. A szomatikus sejtterápiás gyógyszerek komponenseinek biodisztribúciója, perzisztenciája és hosszú távon sikeres beültetése
+
+## A szomatikus sejtterápiás gyógyszerek komponenseinek biodisztribúciójával, perzisztenciájával és hosszú távon sikeres beültetésével a klinikai fejlesztés során kell foglalkozni.
+
+## 4.3.3. Biztonsági vizsgálatok
+
+## A biztonsági vizsgálatok szempontjai:
+
+## a) a bevitel utáni disztribúció és sikeres beültetés;
+
+## b) ektopikus beültetés;
+
+## c) onkogenikus transzformáció és sejt-/szövetvonal megtartása.
+
+## 4.4. A módosított szövet alapú készítményekre vonatkozó különös követelmények
+
+## 4.4.1. Farmakokinetikai vizsgálatok
+
+## Ha a hagyományos farmakokinetikai vizsgálatok a módosított szövet alapú készítmények szempontjából nem relevánsak, a módosított szövet alapú készítmény komponenseinek biodisztribúciójával, perzisztenciájával és bomlásával a klinikai fejlesztés során kell foglalkozni.
+
+## 4.4.2. Farmakodinámiai vizsgálatok
+
+## A farmakodinámiai vizsgálatokat a módosított szövet alapú készítmények sajátosságaihoz kell igazítani. Igazolni kell az elérni kívánt regeneráció, helyreállítás vagy helyettesítési koncepció hatékonyságát és a készítmény kinetikáját. Figyelembe kell venni a tervezett funkcióval/funkciókkal és a szerkezettel kapcsolatos megfelelő farmakodinámiai markereket.
+
+## 4.4.3. Biztonsági vizsgálatok
+
+## A 4.3.3. alpontot kell alkalmazni.
 
 2. számú melléklet az 52/2005. (XI. 18.) EüM rendelethez
 
@@ -1695,3 +1739,7 @@
 11. VÁRHATÓ SUGÁRTERHELÉS
 
 12. RADIOAKTÍV GYÓGYSZEREK ELKÉSZÍTÉSÉRE VONATKOZÓ ÚTMUTATÁSOK
+
+[^73]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^74]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
+[^75]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.

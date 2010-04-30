@@ -1,6 +1,6 @@
 11. § (1) A 10. § (1) bekezdés szerinti kérelemnek az 5. § (2) bekezdésétől eltérően a következőket kell tartalmaznia:
 
-a) az 5. § (2) bekezdés a)–j), továbbá kb) és r) pontjaiban foglaltakat;
+a)[^17] az 5. § (2) bekezdés a)–j), továbbá ka) és r) pontjában foglaltakat;
 
 b) a gyógyszer külső csomagolásának, közvetlen csomagolásának, valamint betegtájékoztatójának mintáját az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló rendeletnek megfelelően, továbbá a 2. számú mellékletnek megfelelően az alkalmazási előírás tervezetét az 5. pont kivételével;
 
@@ -29,3 +29,5 @@ f) irodalmi adatokat vagy szakértői jelentéseket a (3) bekezdésre vonatkozó
 a) új monográfiát negyedévente,
 
 b) összes érvényes monográfiát évente egyszer
+
+[^17]: A 11. § (1) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § b) pontja szerint módosított szöveg.

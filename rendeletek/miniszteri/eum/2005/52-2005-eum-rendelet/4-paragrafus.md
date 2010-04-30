@@ -1,4 +1,4 @@
-## 3. §[^3] A gyógyszer forgalomba hozatalának engedélyezésével kapcsolatos – a Gytv.-ben, illetve az e rendeletben meghatározott – hatósági feladatok az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) hatáskörébe tartoznak. Az immunológiai gyógyszer forgalomba hozatala engedélyezése során, illetve a forgalmazást érintő hatósági eljárásokban az Állami Népegészségügyi és Tisztiorvosi Szolgálat Johan Béla Országos Epidemiológiai Központ (a továbbiakban: OEK) működik közre.
+## 3. §[^9]
 
 ## A forgalomba hozatali engedély iránti kérelem
 
@@ -12,6 +12,7 @@ ab) az olyan gyógyszer, amely alkalmazásának módja, gyógyszerformája, hat�
 
 ac) az új gyógyszer-kombináció;
 
-b) új gyógyszernek minősülhet az olyan gyógyszer is, amelynek adagolása, javallata vagy gyártásának módja a már engedélyezettől eltér. Az új gyógyszerré minősülés szempontjait az OGYI a honlapján közzéteszi.
+b)[^10] új gyógyszernek minősülhet az olyan gyógyszer is, amelynek adagolása, javallata vagy gyártásának módja a már engedélyezettől eltér.
 
-[^3]: A 3. § a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 3. §-t a 20/2010. (IV. 29.) EüM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^10]: A 4. § b) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.

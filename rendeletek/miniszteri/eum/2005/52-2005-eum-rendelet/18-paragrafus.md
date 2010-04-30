@@ -1,12 +1,12 @@
 ## A gyógyszerek osztályozása
 
-18. § (1) A forgalomba hozatali engedély kiállításakor az OGYI a gyógyszerek osztályozását a következők szerint határozza meg:
+18. § (1)[^27] Az OGYI a gyógyszerek osztályozását a következők szerint határozza meg:
 
 a) I. csoport: orvosi rendelvény nélkül is kiadható gyógyszerek (VN),
 
 b) II. csoport: kizárólag orvosi rendelvényhez kötött gyógyszerek (V vagy J vagy SZ vagy I).
 
-(2) Az (1) bekezdés b) pontja szerinti, kizárólag orvosi rendelvényhez kötött gyógyszereket az OGYI a forgalomba hozatali engedélyükben a következő további alcsoportokba is besorolja, amely besorolásokat a 33. § szerinti közzétételkor feltünteti:
+(2)[^28] Az (1) bekezdés b) pontja szerinti, kizárólag orvosi rendelvényhez kötött gyógyszereket az OGYI a következő további alcsoportokba is besorolja, amely besorolásokat a 33. § szerinti közzétételkor feltünteti:
 
 a) orvosi rendelvényhez kötött gyógyszerek (V);
 
@@ -54,8 +54,12 @@ c) azt – gyógyszerészeti tulajdonságai vagy újszerűsége, illetve közeg�
 
 (6) Azok a gyógyszerek, amelyek nem felelnek meg a (3)–(5) bekezdésekben foglaltaknak, orvosi rendelvény nélkül is kiadható gyógyszereknek minősülnek.
 
-(7) Az OGYI a forgalomba hozatali engedélyben megállapítja a gyógyszerek (1)–(6) bekezdés szerinti osztályozását a 2. § (2) bekezdésének 1. vagy 2. pontja szerinti típusát.
+(7)[^29] Az OGYI megállapítja a gyógyszerek (1)–(6) bekezdés szerinti osztályozását a 2. § (2) bekezdésének 1. vagy 2. pontja szerinti típusát.
 
 (8) Az OGYI a gyógyszerek (1)–(7) bekezdés szerinti osztályozását akkor, ha új tények jutnak tudomására felülvizsgálja és szükség szerint módosítja.
 
 (9) Az OGYI a gyógyszerek osztályozás szerinti listáját évente frissíti, figyelemmel a 33. § (1) bekezdésének a) pontjában meghatározott közzétételi kötelezettségére.
+
+[^27]: A 18. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 3. § e) pontja szerint módosított szöveg.
+[^28]: A 18. § (2) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § e) pontja szerint módosított szöveg.
+[^29]: A 18. § (7) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § f) pontja szerint módosított szöveg.

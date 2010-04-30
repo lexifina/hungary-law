@@ -1,10 +1,10 @@
-7. § (1)[^4] Nem kell a kérelemhez csatolni az 5. § (2) bekezdés kb) és kc) alpontjaiban jelölt dokumentumokat, amennyiben a kérelmező bizonyítani tudja, hogy a gyógyszer valamely olyan referencia-gyógyszer generikuma,
+7. § (1)[^12] Nem kell a kérelemhez csatolni az 5. § (2) bekezdés kb) és kc) alpontjaiban jelölt dokumentumokat, amennyiben a kérelmező bizonyítani tudja, hogy a gyógyszer valamely olyan referencia-gyógyszer generikuma,
 
 a) amelyet valamely tagállam illetékes hatósága vagy a Bizottság legalább nyolc éve engedélyezett, vagy
 
 b) melynek forgalomba hozatalra engedélyezése iránti kérelmet valamely tagállamban vagy a Bizottságnál 2005. október 30. napját megelőzően nyújtották be és azt valamely tagállam illetékes hatósága vagy a Bizottság legalább hat éve engedélyezte.
 
-(2) Az (1) bekezdést kell alkalmazni akkor is, ha a referencia-gyógyszernek abban a tagállamban nincs forgalomba hozatali engedélye, ahol a generikus gyógyszerre vonatkozó (1) bekezdés szerinti kérelmet benyújtották. Ebben az esetben a kérelmezőnek a kérelemben meg kell jelölnie referencia-gyógyszert engedélyező tagállam nevét.
+(2)[^13] Az (1) bekezdést kell alkalmazni akkor is, ha a referencia-gyógyszer Magyarországon nem rendelkezik forgalomba hozatali engedéllyel. Ebben az esetben a kérelmezőnek a kérelemben meg kell jelölnie a referencia-gyógyszert engedélyező tagállam nevét.
 
 (3) Az OGYI a referencia-gyógyszert engedélyező tagállamtól igazolást kér az engedélyezés tényéről, referenciatermék teljes összetételéről és szükség esetén más releváns dokumentumokról.
 
@@ -16,7 +16,7 @@ b) melynek forgalomba hozatalra engedélyezése iránti kérelmet valamely tagá
 
 (7) Abban az esetben, ha a gyógyszer nem generikus gyógyszer, vagy a bioegyenértékűsége biohasznosulási vizsgálatok útján nem igazolható, vagy megváltoztatták a hatóanyago(ka)t, a terápiás javallatokat, a hatáserősséget, a gyógyszerformát vagy az alkalmazási módot a referencia-gyógyszerhez képest, be kell nyújtani a megfelelő, az 5. § (2) bekezdésének kb) és kc) pontjai szerinti vizsgálatok eredményeit.
 
-(8)[^5] Amennyiben valamely biológiai gyógyszer, amely hasonlít a referencia biológiai gyógyszerre, nem felel meg a generikus gyógyszer fogalommeghatározásában foglalt feltételeknek, elsősorban a nyersanyagokkal kapcsolatos vagy a biológiai gyógyszer és a referencia biológiai gyógyszer gyártási folyamataiban mutatkozó különbségek miatt, a hasonló biológiai gyógyszerré minősüléshez meg kell adni a megfelelő, az 5. § (2) bekezdésének kb) és kc) pontjai szerinti vizsgálatok eredményeit e feltételekre vonatkozóan, amely kiegészítő adatok típusának és mennyiségének meg kell felelnie az 1. számú mellékletben és a vonatkozó részletes, az Ügynökség bizottsága által kiadott, OGYI honlapján közzétett, útmutatóban megadott feltételeknek. A referencia-gyógyszer dokumentációjából az egyéb vizsgálatok és kísérletek eredményeit nem kell megadni.
+(8)[^14] Amennyiben valamely biológiai gyógyszer, amely hasonlít a referencia biológiai gyógyszerre, nem felel meg a generikus gyógyszer fogalommeghatározásában foglalt feltételeknek, elsősorban a nyersanyagokkal kapcsolatos vagy a biológiai gyógyszer és a referencia biológiai gyógyszer gyártási folyamataiban mutatkozó különbségek miatt, a hasonló biológiai gyógyszerré minősüléshez meg kell adni a megfelelő, az 5. § (2) bekezdésének kb) és kc) pontjai szerinti vizsgálatok eredményeit e feltételekre vonatkozóan, amely kiegészítő adatok típusának és mennyiségének meg kell felelnie az 1. számú mellékletben és a vonatkozó részletes, az Ügynökség bizottsága által kiadott, OGYI honlapján közzétett, útmutatóban megadott feltételeknek. A referencia-gyógyszer dokumentációjából az egyéb vizsgálatok és kísérletek eredményeit nem kell megadni.
 
 (9) Az (1)–(3) bekezdés alkalmazásához szükséges tanulmányok és vizsgálatok, valamint az azokból adódó gyakorlati követelmények végrehajtása nem sérti a szabadalmi jogokat vagy a gyógyszerekre vonatkozó kiegészítő szabadalmi oltalmi tanúsítványt.
 
@@ -26,5 +26,6 @@ b) melynek forgalomba hozatalra engedélyezése iránti kérelmet valamely tagá
 
 (12) A forgalomba hozatali engedéllyel rendelkező gyógyszer esetén a forgalomba hozatali engedély jogosultja (a továbbiakban: jogosult) hozzájárulhat ahhoz, hogy felhasználják a gyógyszerre vonatkozó 5. § (2) bekezdésének k) pontja szerinti dokumentációt vagy annak egy részét azzal a céllal, hogy elbírálják az olyan egyéb gyógyszerekre vonatkozó későbbi kérelmeket, amelyek a hatóanyagok tekintetében azonos minőségi és mennyiségi összetétellel rendelkeznek, és azonos a gyógyszerformájuk.
 
-[^4]: A 7. § (1) bekezdése a 21/2009. (VII. 14.) EüM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 7. § (8) bekezdése a 44/2006. (XII. 27.) EüM rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdése a 21/2009. (VII. 14.) EüM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 7. § (2) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^14]: A 7. § (8) bekezdése a 44/2006. (XII. 27.) EüM rendelet 3. § (4) bekezdése szerint módosított szöveg.
