@@ -10,4 +10,4 @@ b) a minimális várakozási idő 6 hónaptól 2 évig terjedő meghosszabbítá
 
 (3) Akinek a pénzbírság vagy a minimális várakozási idő 6 hónaptól 2 évig terjedő meghosszabbítása fenyítését felfüggesztették, a felfüggesztés tartama alatt úgy kell tekinteni, mintha a fenyítés hatálya alatt állna, ez az időtartam azonban nem lehet hosszabb, mint a maximális várakozási idő.
 
-(4) Akit a bíróság rendfokozatot vagy a szolgálati viszonyt érintő mellékbüntetéssel sújtott, 1 évig a fenyítés hatálya alatt állónak kell tekinteni.
+(4) Akit a bíróság rendfokozatot vagy a szolgálati viszonyt érintő büntetéssel sújtott, 1 évig a fenyítés hatálya alatt állónak kell tekinteni.

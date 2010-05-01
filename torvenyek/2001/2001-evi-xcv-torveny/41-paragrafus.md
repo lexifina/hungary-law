@@ -1,6 +1,6 @@
 ## A szolgálati viszony létesítésének feltételei
 
-41. § (1) A szolgálati viszony önkéntes jelentkezés alapján azzal a 18. életévét betöltött, de 47 évesnél nem idősebb, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező, büntetlen előéletű, a rendfokozati állománycsoporthoz meghatározott iskolai végzettségű (szakképesítésű), magyar állampolgársággal rendelkező személlyel létesíthető, aki a szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas és elfogadja egyes alkotmányos jogainak e törvény szerinti korlátozását.
+41. § (1) A szolgálati viszony önkéntes jelentkezés alapján azzal a 18. életévét betöltött, de 47 évesnél nem idősebb, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező, a rendfokozati állománycsoporthoz meghatározott iskolai végzettségű (szakképesítésű), magyar állampolgársággal rendelkező személlyel létesíthető, aki a szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas és elfogadja egyes alkotmányos jogainak e törvény szerinti korlátozását.
 
 (2) Nem létesíthető szolgálati viszony azzal,
 

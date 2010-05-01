@@ -4,8 +4,12 @@ a) a betegség és az egészségügyi szabadság, valamint az egészségi okból
 
 b) a beteg gyermek ápolásának ideje vagy ilyen célból, illetőleg a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság;
 
-c) a terhesség ideje, a szülést követő 3 hónap, a szülési szabadság, a gyermekgondozás céljából – a gyermek három éves koráig – kapott illetménynélküli szabadság, valamint illetménynélküli szabadság igénybevétele nélkül is a gyermekgondozási segély folyósításának ideje;
+c) a terhesség ideje, a szülést követő 3 hónap, a szülési szabadság és a gyermekgondozás céljából kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
 
-d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság.
+d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság;
+
+e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak az állomány szolgálati vagy rokkantsági nyugdíjra jogosult, illetőleg a szolgálatra méltatlanná vált tagja szolgálati viszonyának a megszüntetésére.
+
+(3) Az (1) bekezdés c) pontja szerinti védelem az illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette.
