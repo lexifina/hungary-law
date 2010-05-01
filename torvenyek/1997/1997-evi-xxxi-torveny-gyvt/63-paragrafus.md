@@ -1,4 +1,4 @@
-63. § A gyermekvédelmi szakszolgáltatás – a gyermekotthon e törvényben meghatározott feladatára tekintettel – az átmeneti és a tartós nevelésbe vett gyermek gyámja (hivatásos gyámja), gondozója egyéni program szerinti gondozási, nevelési tevékenységének segítése és szakmai ellenőrzése érdekében
+63. § [(1)] A gyermekvédelmi szakszolgáltatás – a gyermekotthon e törvényben meghatározott feladatára tekintettel – az átmeneti és a tartós nevelésbe vett gyermek gyámja (hivatásos gyámja), gondozója egyéni program szerinti gondozási, nevelési tevékenységének segítése és szakmai ellenőrzése érdekében
 
 a) elkészíti a gyermek egyéni gondozási-nevelési tervét,
 

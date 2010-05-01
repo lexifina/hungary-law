@@ -74,7 +74,7 @@ a) a gyermek, illetve a fiatalkorú által elkövetett bűncselekményre,
 
 b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
 
-c) a Ptk. 685. §-ának b) pontja szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
+c) a Polgári Törvénykönyv szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
 
 vonatkozó adatokat kezelhet.
 

@@ -18,16 +18,6 @@ c) a kapcsolattartási ügyekben.
 
 (7) A gyámhivatal által kiszabott, illetve megállapított eljárási bírság, eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint. A behajtásról a kötelezett lakóhelye szerinti települési önkormányzat jegyzője adóügyi hatáskörében gondoskodik.
 
-[(8) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek érdekében hivatalból elrendelt gyermekvédelmi közvetítői eljárás költségeit – a (9) bekezdésben foglalt kivétellel – a gyámhivatal viseli.
-
-(9) A gyermekvédelmi közvetítői eljárás igénybevétele esetén a gyámhivatal – az ügy eldöntésére való tekintet nélkül – az eljárásban felmerült és a gyermekvédelmi közvetítői eljárásban a másik szülő által fizetett valamennyi költség megfizetésére kötelezi azt a szülőt,
-
-a) aki a gyermekvédelmi közvetítői eljárásban létrejött megállapodás ellenére a gyámhivatal előtt nem köt egyezséget,
-
-b) akinek a magatartása vagy mulasztása miatt a gyermekvédelmi közvetítői eljárás lefolytatása meghiúsult.]
-
-[(10)]
-
 (11) Az eseti gondnok munkadíját és költségeit a gyámhivatal fizeti meg, ha az
 
 a) hagyatéki eljárásban vagy

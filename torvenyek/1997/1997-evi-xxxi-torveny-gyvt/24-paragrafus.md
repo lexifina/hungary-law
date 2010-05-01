@@ -40,6 +40,6 @@ b) a tárgyhónap 15-ét követően következik be, a gyermektartásdíj megelő
 
 kell kifizetni.
 
-(8) A megelőlegezett gyermektartásdíjat a kötelezett a Ptk. 232. §-ának (2) bekezdésében meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
+(8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
 
 (9) A megelőlegezett gyermektartásdíj behajtása során a hátralékra a települési önkormányzat jegyzője adóügyi hatáskörében indokolt esetben méltányosságból részletfizetést vagy kamatelengedést engedélyezhet. A települési önkormányzat jegyzője adóügyi hatáskörében a hátralék teljes összegét akkor engedheti el, ha a kötelezett gyermeke a reá tekintettel megelőlegezett gyermektartásdíjat hagyatéki teherként megörökli.

@@ -64,7 +64,7 @@ h) az országos örökbefogadási nyilvántartásra vonatkozó részletes szabá
 
 i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait,
 
-j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait.
+j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
