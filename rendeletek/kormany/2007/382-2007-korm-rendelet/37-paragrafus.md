@@ -28,7 +28,13 @@ g) a VET 173. §-a szerinti egyszerűsített üzemeltetési engedély
 
 (5) Az egyszerűsített eljárás során szerzett jogok és kötelezettségek gyakorlása tekintetében egyebekben az adott eljárásra vonatkozó rendelkezések az irányadók.
 
+(6)[^50] Az egyszerűsített engedélyezési eljárás során a szakhatóság eljárására irányadó ügyintézési határidő nem hosszabbítható meg.
+
+(7)[^51] Ha az egyszerűsített engedélyezési eljárás során a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást, és ellenérdekű ügyfél az első fokú eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.
+
 [^46]: A 37. § (1) bekezdésének e) pontját a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének a) pontja hatályon kívül helyezte.
 [^47]: A 37. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 606. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^48]: A 37. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^49]: A 37. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: A 37. § (6) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 2. §-a iktatta be.
+[^51]: A 37. § (7) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 2. §-a iktatta be.

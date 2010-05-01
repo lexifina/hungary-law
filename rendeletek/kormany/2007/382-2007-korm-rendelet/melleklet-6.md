@@ -1,4 +1,4 @@
-6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^82]
+6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^84]
 
 ## Az üzemeltetési engedély iránti kérelem adattartalma
 
@@ -28,4 +28,4 @@ d) kivitelezés tervezett befejezési időpontja,
 
 8. Üzembe helyezési eljárás ideje.
 
-[^82]: A 6. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^84]: A 6. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

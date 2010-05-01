@@ -1,6 +1,6 @@
 ## 40. § E rendeletben foglalt eljárásokban az eljárási cselekmények 2009. december 28-ig elektronikusan nem gyakorolhatók.
 
-1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^51]
+1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^53]
 
 ## A vezetékjog engedélyezése és az építési engedély iránti kérelem adattartalma
 
@@ -66,4 +66,4 @@ e) átalakító és kapcsoló berendezés típusa.
 
 13. A kérelmező nyilatkozata arról, hogy a hálózat (vezeték) megépítése az érintett ingatlanok rendeltetésszerű használatát lényegesen nem akadályozza.
 
-[^51]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
