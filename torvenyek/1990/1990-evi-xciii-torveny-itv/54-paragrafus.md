@@ -4,7 +4,7 @@
 
 a) a szabadságvesztés, a közérdekű munka végrehajtásának megkezdésére irányuló halasztás, illetve a közérdekű munka félbeszakítása iránti kérelem,
 
-b) a pénzbüntetés, a pénzmellékbüntetés, az államot illető bűnügyi költség vagy rendbírság megfizetésére irányuló halasztás, illetve részletfizetés iránti kérelem
+b) a pénzbüntetés, az államot illető bűnügyi költség vagy rendbírság megfizetésére irányuló halasztás, illetve részletfizetés iránti kérelem
 
 esetében.
 
