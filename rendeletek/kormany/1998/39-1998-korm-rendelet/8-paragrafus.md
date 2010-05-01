@@ -4,9 +4,9 @@
 
 (2) E § (3)–(6) bekezdése a kihirdetést követő 3. napon lép hatályba.
 
-(3)[^22] E rendelet az EK Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+(3)[^24] E rendelet az EK Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-(4)—(7)[^23]
+(4)—(7)[^25]
 
-[^22]: A 8. § (3) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 166/2008. (VI. 27.) Korm. rendelet 2. §-a iktatta be.
-[^23]: A 8. § (4)–(7) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^24]: A 8. § (3) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 166/2008. (VI. 27.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 8. § (4)–(7) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.
