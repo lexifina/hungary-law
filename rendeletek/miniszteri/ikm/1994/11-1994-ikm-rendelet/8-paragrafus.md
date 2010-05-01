@@ -6,15 +6,13 @@
 
 (2)[^17]
 
-(3)[^18] Létesítési és használatba vételi engedély olyan tartályokra, tartály csoportokra adható, amelyek az éghető folyadékok és olvadékok tárolására alkalmas kivitelűek, aktív és passzív korrózió-védelemmel vannak ellátva. Az alkalmasság akkor bizonyított, ha a tartály
+(3)[^18] Létesítési és használatbavételi engedély olyan tartályokra, tartály csoportokra adható, amelyek az éghető folyadékok és olvadékok tárolására alkalmas kivitelűek, aktív és passzív korrózióvédelemmel vannak ellátva. Az alkalmasság akkor bizonyított, ha a tartály
 
 a) gyártója az adott felhasználási célra való alkalmasságról írásban megfelelőségi nyilatkozatot tett, vagy
 
 b) kísérő dokumentációjából megállapítható, hogy kifejezetten a kívánt célra gyártották, illetve más célok mellett erre is alkalmas, vagy
 
 c) adott célra való alkalmasságát az ügyfél kérelmére a hatóság megállapította.
-
-A c) pont szerinti vizsgálathoz esetleg szükséges, például anyagvizsgálati, szakértői stb. költségek a kérelmezőt terhelik, függetlenül a vizsgálat végső eredményétől.
 
 (4)[^19] A létesítési és használatbavételi engedélyezési eljárás rendjét — a kőolaj és kőolajtermékek tartályainak vízvédelmi követelményeiről szóló szabvány előírásainak figyelembevételével — a rendelet 4. számú melléklete tartalmazza.
 
@@ -37,7 +35,7 @@ Az engedélyező hatóság az ütemterv elfogadásáról államigazgatási eljá
 [^15]: A 7. §-t az 58/2004. (IV. 24.) GKM rendelet 2. §-a hatályon kívül helyezte.
 [^16]: A 8. § (1) bekezdése a 64/2003. (X. 18.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^17]: A 8. § új (2) bekezdését a 64/2003. (X. 18.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatva. A 8. § (2) bekezdését a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: A 8. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 64/2003. (X. 18.) GKM rendelet 3. § (2) bekezdése; szövege az 58/2004. (IV. 24.) GKM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 8. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 64/2003. (X. 18.) GKM rendelet 3. § (2) bekezdése; szövege a 16/2010. (IV. 28.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^19]: A 8. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 64/2003. (X. 18.) GKM rendelet 3. § (2) bekezdése.
 [^20]: A 8. § (4) bekezdése a 44/1995. (IX. 15.) IKM rendelet 2. §-ával megállapított szöveg. A (4) bekezdés számozását (5) bekezdésre változtatta a 64/2003. (X. 18.) GKM rendelet 3. § (2) bekezdése, negyedik mondatát a 3. § (3) bekezdése iktatta be; e módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2003. szeptember 23. után indult eljárásokban is alkalmazni kell.
 [^21]: A 8. § (5) bekezdése a 44/1995. (IX. 15.) IKM rendelet 2. §-ával megállapított szöveg, számozását (6) bekezdésre változtatta a 64/2003. (X. 18.) GKM rendelet 3. § (2) bekezdése, hatályon kívül helyezte ez utóbbi módosító rendelet 5. § (1) bekezdése.
