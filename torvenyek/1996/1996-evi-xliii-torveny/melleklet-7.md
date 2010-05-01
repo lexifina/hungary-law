@@ -123,21 +123,3 @@ VI. A szolgálat teljesítésének adatai:
 – a fegyveres szervek tanintézeteiben folytatott tanulmányok,
 
 – szolgálati besorolás fegyvernem, szakcsapat, szolgálati ág,
-
-– továbbképzés(ek),
-
-– tanulmányi szerződés,
-
-– berendelés, vezénylés,
-
-– kitüntetések, egyéb elismerések,
-
-– fenyítés(ek) és a folyamatban levő fegyelmi eljárások adatai,
-
-– folyamatban levő büntetőeljárás(ok), büntető ügyben hozott érdemi döntések adatai
-
-– legutóbbi minősítés ideje,
-
-– külföldi szolgálati hely(ek), idő,
-
-– szabadságolási adatok,
