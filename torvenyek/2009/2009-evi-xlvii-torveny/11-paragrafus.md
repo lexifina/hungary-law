@@ -14,15 +14,15 @@ cc) elkövetői és elkövetési alakzatot,
 
 cd) bűncselekmény elkövetésének helyét, idejét,
 
-ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső vagy többszörös visszaeső,
+ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
 
 cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 
 d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 
-e) a kiszabott fő- és mellékbüntetés nemét (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát), mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+e) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 
-f) a fő- és mellékbüntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 
 g) összbüntetésbe foglalás esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 
@@ -46,4 +46,4 @@ c) a büntetés félbeszakítása esetén az engedélyező megnevezését, hatá
 
 d) a szabadon bocsátás napját,
 
-e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, továbbá e mellékbüntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
+e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.

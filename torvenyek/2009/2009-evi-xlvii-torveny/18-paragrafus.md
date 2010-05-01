@@ -12,12 +12,12 @@ kell nyilvántartani.
 
 (2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
-(3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett
+(3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 
 a) szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
 
-b) pénzbüntetés esetén a mentesítés beálltától számított három évig
+b)
 
 kell nyilvántartani.
 
-(4) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat szándékos bűncselekmény miatt kiszabott mellékbüntetés esetén – tekintet nélkül arra, hogy főbüntetés kiszabása helyett vagy a mellett történik – a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig kell nyilvántartani.
+(4) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat szándékos bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig kell nyilvántartani.

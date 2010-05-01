@@ -22,7 +22,7 @@ d) a megrovást alkalmazó ügyészség megnevezését, határozatának számát
 
 e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 
-f) a kiszabott fő- és mellékbüntetés nemét (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát), mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
+f) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
 
 g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját;
 

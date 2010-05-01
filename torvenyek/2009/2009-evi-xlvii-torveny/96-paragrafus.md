@@ -16,7 +16,7 @@ a) a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére tört
 
 b) a bűnügyi és rendészeti biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartások által teljesített adatszolgáltatás rendjét,
 
-c) az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, továbbá az ujj- és tenyérnyomat, valamint szájnyálkahártya-törlet levételének részletes technikai szabályait
+c) az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, továbbá az ujj- és tenyérnyomat, valamint szájnyálkahártya-törlet levételének részletes technikai szabályait, továbbá a DNS-profil meghatározásának szakmai-módszertani követelményeit
 
 rendeletben állapítsa meg.
 

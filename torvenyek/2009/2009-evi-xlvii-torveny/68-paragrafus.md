@@ -4,7 +4,7 @@
 
 a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
-b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
 
 c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból.
 
