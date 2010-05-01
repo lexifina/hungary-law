@@ -1,11 +1,13 @@
-14. § (1) A testületi tag megbízatásának az Fgytv. 24. § (1) bekezdésének b)–e) pontja alapján történő megszűnése esetén a tag pótlása érdekében
+14. §[^17] (1) A testületi tag megbízatásának az Fgytv. 24. § (1) bekezdés b)–f) pontja alapján történő megszűnése esetén, a tag pótlására irányuló eljárásban,
 
-a) ha a tag a fogyasztóvédelmi szervezetek által kijelölt személy volt, a 3. § (2) és (4) bekezdését, a 4–10. §-t, valamint a 13. § (2) bekezdését,
+a) ha a tag a fogyasztóvédelmi szervezetek által kijelölt személy volt, a 3. § (2) és (4) bekezdését és a 3/A–10. §-t,
 
-b) ha a tag a kamarák által kijelölt személy volt, a 3. § (3) és (4) bekezdését, a 11. §-t, valamint a 13. § (2) bekezdését
+b) ha a tag a kamarák által kijelölt személy volt, a 3. § (3) és (4) bekezdését és a 11. §-t
 
-## kell alkalmazni azzal, hogy a 3. § (2), illetve (3) bekezdésének alkalmazásában kijelölendő összes tagként azoknak a tagoknak a számát kell megjelölni, amelyek megbízatásának megszűnése miatt pótlásra van szükség.
+kell alkalmazni azzal, hogy a 3. § (2), illetve (3) bekezdésének alkalmazásában kijelölendő összes tagként azoknak a tagoknak a számát kell megjelölni, akik megbízatásának megszűnése miatt pótlásra van szükség.
 
-(2) A testületi tag pótlására irányuló eljárás esetén a tag megbízatásának megszűnéséről való tudomásszerzést követő öt napon belül kell a 3. § szerinti hirdetményt közzétenni, illetve felhívást megtenni.
+(2) A tag pótlására irányuló eljárás esetén a tag megbízatásának megszűnéséről való tudomásszerzést követő öt munkanapon belül, vagy az elnök megbízatásának megszűnéséről való tudomásszerzést követő tizenöt munkanapon belül kell a 3. § szerinti hirdetményt közzétenni, vagy felhívást megtenni.
 
-(3) Ha az elnök megbízatása szűnik meg, a pótlásra irányuló eljárás lefolytatásáról az elnökhelyettes, ennek hiányában pedig a hirdetmény közzétételéről, illetve a felhívás megtételéről a testület tagjai közül a kamarák és a fogyasztóvédelmi szervezetek által együttesen kijelölt tagokból álló háromfős testület intézkedik.
+(3) A tag pótlására irányuló eljárás során kijelölt személy megbízatása a békéltető testület megbízatásának lejártáig szól.
+
+[^17]: A 14. § a 131/2010. (IV. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
