@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2002-40-20-22.11 | 40/2002. (III. 21.) Korm. rendelet |
+| 2010-05-01 | 2002-40-20-22.12 | 129/2010. (IV. 21.) Korm. rendelet |
