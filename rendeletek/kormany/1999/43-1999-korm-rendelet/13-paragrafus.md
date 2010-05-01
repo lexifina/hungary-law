@@ -2,7 +2,7 @@
 
 a) biztosított, azonban az adott szolgálathoz nem jelentkezett be, vagy
 
-b)[^105] nemzetközi egyezmény, vagy a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet alapján jogosult az ellátásra [a továbbiakban a)–b) együtt: eseti ellátás],
+b)[^105] nemzetközi egyezmény, vagy a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján jogosult az ellátásra [a továbbiakban a)–b) együtt: eseti ellátás],
 
 ## a szolgáltató a (3)–(5) bekezdésben meghatározottak szerint részesül az E. Alapból díjazásban.
 
@@ -16,7 +16,7 @@ b)[^105] nemzetközi egyezmény, vagy a szociális biztonsági rendszereknek a K
 
 [^103]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
 [^104]: A 13. § (1) bekezdésének felvezető szövege a 329/2005. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^105]: A 13. § (1) bekezdésének b) pontja a 329/2005. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^105]: A 13. § (1) bekezdésének b) pontja a 329/2005. (XII. 29.) Korm. rendelet 5. §-ával megállapított és a 139/2010. (IV. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^106]: A 13. § (3) bekezdése a 257/2001. (XII. 19.) Korm. rendelet 7. §-ával megállapított, a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésnek a) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
 [^107]: A 13. § (4) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, valamint a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének c) pontja szerint módosított szöveg.
 [^108]: A 13. § (5) bekezdése a 21/2000. (III. 3.) Korm. rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
