@@ -1,6 +1,6 @@
 ## be kell nyújtani.
 
-15. §[^89] (1) A jogosultnak a családi pótlékot folyósító Igazgatósághoz vagy családtámogatási kifizetőhelyhez benyújtott írásbeli nyilatkozata alapján a hatóság a jogosult részére járó családi pótlékot – a jogosult nyilatkozatában meghatározott időtartamban – a krízishelyzetbe került személyek támogatásáról szóló jogszabályban a támogatás forrásául meghatározott előirányzat (a továbbiakban: előirányzat) javára folyósítja.
+15. §[^91] (1) A jogosultnak a családi pótlékot folyósító Igazgatósághoz vagy családtámogatási kifizetőhelyhez benyújtott írásbeli nyilatkozata alapján a hatóság a jogosult részére járó családi pótlékot – a jogosult nyilatkozatában meghatározott időtartamban – a krízishelyzetbe került személyek támogatásáról szóló jogszabályban a támogatás forrásául meghatározott előirányzat (a továbbiakban: előirányzat) javára folyósítja.
 
 (2) Az (1) bekezdés szerinti írásbeli nyilatkozat tartalmazza
 
@@ -16,4 +16,4 @@ d) a jogosult arra vonatkozó nyilatkozatát, hogy hozzájárul-e a nevének, il
 
 (4) A családi pótlékot folyósító hatóság a családi pótléknak az előirányzat javára első alkalommal történő folyósításával egyidejűleg továbbítja a miniszter részére a (2) bekezdés d) pontja szerinti hozzájáruló nyilatkozatot, valamint tájékoztatást ad a (2) bekezdés b) pontjában foglalt adatról.
 
-[^89]: A 15. §-t a 238/2002. (XI. 8.) Korm. rendelet 9. § (2) bekezdésének a) pontja, a 15. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1257. pontja hatályon kívül helyezte, újonnan a 176/2009. (VIII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^91]: A 15. §-t a 238/2002. (XI. 8.) Korm. rendelet 9. § (2) bekezdésének a) pontja, a 15. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1257. pontja hatályon kívül helyezte, újonnan a 176/2009. (VIII. 29.) Korm. rendelet 11. §-a iktatta be.

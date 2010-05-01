@@ -20,7 +20,7 @@ ah)[^17] az ellátásra jogosult nevének, fizetési számlaszámának vagy lakc
 
 ai)[^18] az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve abban az államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez (a továbbiakban: EGT-állam) történő munkavállalás vagy önálló vállalkozói tevékenység folytatásának tényét,
 
-aj)[^19] az ellátásra jogosult Cst. 45. §-a (2) bekezdésének c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új élettársi (bejegyzett élettársi) kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. §-a (2) bekezdésének a) és e) pontjában, valamint a Cst. 45. §-ának (5) bekezdésében meghatározott adatát;
+aj)[^19] az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új élettársi vagy bejegyzett élettársi kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott adatát;
 
 b) a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
 
@@ -42,7 +42,7 @@ bh)[^23] nagyszülő által igénybe vett gyermekgondozási segély esetében mi
 
 bi)[^24] az ellátásra jogosult nevének, fizetési számlaszámának vagy lakcímének megváltozását,
 
-bj)[^25] a gyermeknek az ellátásra jogosult háztartásából történő kikerülését, továbbá – gyermeknevelési támogatás esetében – ha a háztartásba a 3. életévét még be nem töltött kiskorú kerül,
+bj)[^25] a gyermeknek az ellátásra jogosult háztartásából történő kikerülését, továbbá – gyermeknevelési támogatás esetében – ha a háztartásba a 2. életévét még be nem töltött kiskorú kerül,
 
 bk)[^26] ha a gyermeknevelési támogatásra jogosult személy folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 24. §-ának (1)–(2) bekezdésében megjelölt módon és időtartamban történik,
 
@@ -59,12 +59,12 @@ cb) a gyermek – méltányossági gyermekgondozási segély megállapítására
 [^16]: A 3. § ac) alpontja a 211/1999. (XII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 3. § a) pontjának ah) alpontját a 21/2004. (II. 13.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 280/2005. (XII. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított, valamint a 176/2009. (VIII. 29.) Korm. rendelet 19. § (7) bekezdésének a) pontja szerint módosított szöveg.
 [^18]: A 3. § ai) alpontját a 176/2009. (VIII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^19]: A 3. § aj) alpontját a 176/2009. (VIII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^19]: A 3. § a) pont aj) alpontját a 176/2009. (VIII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 140/2010. (IV. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^20]: A 3. § b) pontjának bb) alpontja a 280/2005. (XII. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^21]: A 3. § b) pontjának bc) alpontja a 280/2005. (XII. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^22]: A 3. § b) pontjának be) alpontja a 280/2005. (XII. 20.) Korm. rendelet 10. § (4) bekezdésének a) pontja szerint módosított szöveg.
 [^23]: A 3. § b) pontjának bh) alpontját a 22/2002. (II. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
 [^24]: A 3. § b) pontjának bi) alpontját a 21/2004. (II. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 280/2005. (XII. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított, valamint a 176/2009. (VIII. 29.) Korm. rendelet 19. § (7) bekezdésének a) pontja szerint módosított szöveg.
-[^25]: A 3. § b) pontjának bj) alpontját a 280/2005. (XII. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be. A 3. § bj alpontjában a „3. életévét” szövegrész helyébe a 176/2009. (VIII. 29.) Korm. rendelet 19. § (8) bekezdése alapján a „2. életévét” szöveg lép; a rendelkezés 2010. május 1-én lép hatályba.
+[^25]: A 3. § b) pontjának bj) alpontját a 280/2005. (XII. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 19. § (8) bekezdése szerint módosított szöveg.
 [^26]: A 3. § b) pontjának bk) alpontját a 280/2005.(XII. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^27]: A 3. § bl) alpontját a 176/2009. (VIII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

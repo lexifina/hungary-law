@@ -12,9 +12,9 @@
 
 ## – a kérelmező aláíróhelye.
 
-8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^172]
+8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^173]
 
-## Az 1408/71/EGK Tanácsi rendelet hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma
+## A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma[^174]
 
 I. A kérelmezővel kapcsolatos adatok
 
@@ -48,4 +48,5 @@ II. A kérelmező házastársával, bejegyzett élettárásával, élettársáva
 
 III. A kérelmezővel, a házastársával (bejegyzett élettárásával, élettársával), valamint a gyermek(ek)kel kapcsolatos további adatok
 
-[^172]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^173]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^174]: A 8. számú melléklet címe a 140/2010. (IV. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.

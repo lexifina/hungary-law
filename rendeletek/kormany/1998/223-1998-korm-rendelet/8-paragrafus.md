@@ -22,6 +22,8 @@ b) a családtámogatási kifizetőhely augusztus 31-éig, a 7. § (1) bekezdés�
 
 küldi meg a jogosultaknak. Amennyiben a jogosult nyilatkozata szerint az (1) bekezdés szerinti gyermek tanulói, illetve hallgatói jogviszonya fennáll, de az igazolást nem csatolja, a hatóság adatszolgáltatási kérelemmel fordul az Oktatási Hivatalhoz. A beszámított gyermekek után járó családi pótlék-különbözetet a hatóság az október hónapra járó családi pótlékkal egyidejűleg folyósítja.
 
+(5)[^66] Első egyetemi szintű alapképzésben vesz részt az a hallgató is, aki az alapfokozat megszerzését követően – folyamatos képzésben – első mesterképzésben, vagy aki első egységes, osztatlan képzésben vesz részt.
+
 [^59]: A 8. § a 22/2002. (II. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^60]: A 8. § (1) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
 [^61]: A 8. § (1) bekezdésének a) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének d) pontja szerint módosított szöveg.
@@ -29,3 +31,4 @@ küldi meg a jogosultaknak. Amennyiben a jogosult nyilatkozata szerint az (1) be
 [^63]: A 8. § (1) bekezdésének bb) alpontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének e) pontja szerint módosított szöveg.
 [^64]: A 8. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^65]: A 8. § (4) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^66]: A 8. § (5) bekezdését a 140/2010. (IV. 28.) Korm. rendelet 6. §-a iktatta be.

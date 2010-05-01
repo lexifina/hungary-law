@@ -96,6 +96,6 @@
 
 ## – a kérelmező aláíróhelye.
 
-4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^167]
+4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^168]
 
-[^167]: A 4. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^168]: A 4. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

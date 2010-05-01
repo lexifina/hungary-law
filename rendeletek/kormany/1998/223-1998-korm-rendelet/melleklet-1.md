@@ -1,3 +1,3 @@
-1. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^163]
+1. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^164]
 
-[^163]: Az 1. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^164]: Az 1. számú melléklet a 140/2010. (IV. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
