@@ -1,4 +1,4 @@
-## 3/A. §[^5] A régészeti lelőhelyek feltárásának, illetve a régészeti lelőhely, lelet megtalálója anyagi elismerésének részletes szabályairól szóló 18/2001. (X. 18.) NKÖM rendelet 1. §-ában meghatározott nagyberuházás esetén – terepbejárási dokumentációt is tartalmazó – hatástanulmányt kell készíteni.
+## 3/A. §[^6] A régészeti lelőhelyek feltárásának, illetve a régészeti lelőhely, lelet megtalálója anyagi elismerésének részletes szabályairól szóló 18/2001. (X. 18.) NKÖM rendelet 1. §-ában meghatározott nagyberuházás esetén – terepbejárási dokumentációt is tartalmazó – hatástanulmányt kell készíteni.
 
 ## A hatástanulmány tartalmi követelményei
 
@@ -34,4 +34,4 @@ e) Nyilatkozat:
 
 a hatástanulmány készítőjének nyilatkozata arról, hogy a tervezett megoldás megfelel az örökségvédelmi jogszabályoknak és hatósági előírásoknak, továbbá, hogy a hatástanulmány elkészítésére jogosultsággal rendelkezik.
 
-[^5]: A 3/A. §-t a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdésének d) pontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^6]: A 3/A. §-t a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdésének d) pontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
