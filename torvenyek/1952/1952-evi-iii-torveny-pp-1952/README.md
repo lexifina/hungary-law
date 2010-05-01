@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1952-3-00-00.73 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1952-3-00-00.74 |
+| 2010-05-01 | 2009. évi LXVIII. törvény | 1952-3-00-00.75 |

@@ -20,7 +20,7 @@ b) az ügygondnok részére járó díjazást az adópolitikáért felelős mini
 
 c) a bírósági letétkezelés szabályait;
 
-d) a gondnokság alá helyezettek névjegyzékének adatairól vezetett számítógépes nyilvántartás igénybevételének részletes szabályait, illetve a költségtérítés összegét;
+d)
 
 e) azon perek körét, amelyekben a felet tárgyi költségfeljegyzési jog illeti meg, és e perekben azokat a költségeket, amelyeket a fél a tárgyi költségfeljegyzési jog ellenére is köteles előlegezni, illetve viselni, az adópolitikáért felelős miniszterrel egyetértésben;
 
