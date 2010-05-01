@@ -1,4 +1,4 @@
-33. §[^41] (1) A fogyasztó a fogyatékkal élő fogyasztók nyilvántartásába történő felvételére való, saját vagy a háztartásában lakó – a VET 3. § 19. pontja szerinti juttatások valamelyikében részesülő – más személy fogyatékosságára tekintettel fennálló jogosultságát
+33. §[^53] (1) A fogyasztó a fogyatékkal élő fogyasztók nyilvántartásába történő felvételére való, saját vagy a háztartásában lakó – a VET 3. § 19. pontja szerinti juttatások valamelyikében részesülő – más személy fogyatékosságára tekintettel fennálló jogosultságát
 
 a) a 23/b. számú melléklet A)–B) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
@@ -16,4 +16,4 @@ c) olyan jellegű fogyatékosság, illetve olyan gyógykezelési mód, amely, il
 
 (3) A vakok személyi járadékában részesülő személy esetén e jogosultság igazolása alapján a (2) bekezdés a) pontja szerinti csoportba tartozást vélelmezni kell, és nem kell a 23/b. számú melléklet szerinti formanyomtatvány C) részét kitölteni, ha a vakok személyi járadékában részesülő személy egyéb fogyatékosság alapján további csoportba történő felvételét nem kívánja kezdeményezni.
 
-[^41]: A Vhr. 33. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (8) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+[^53]: A Vhr. 33. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (8) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.

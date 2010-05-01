@@ -1,8 +1,8 @@
 ## (A VET 50. §-ához)
 
-## Közszolgáltatási kötelezettség keretében villamosenergia-vételezésre jogosult szervezetek köre[^26]
+## Közszolgáltatási kötelezettség keretében villamosenergia-vételezésre jogosult szervezetek köre[^34]
 
-26/A. §[^27] (1) Az egyetemes szolgáltatóhoz tett igénybejelentés esetén közszolgáltatási kötelezettség keretében az egyetemes szolgáltatóra vonatkozó VET 48. §-a, valamint a VET 50. § (2) bekezdése szerinti szerződéskötési kötelezettség kedvezményezettjeként, az egyetemes szolgáltatásra vonatkozó árképzési szabályoknak megfelelő áron a következő szervezetek jogosultak az egyetemes szolgáltatóval villamosenergia-vásárlási szerződést kötni, ha a VET 50. § (3) bekezdése alapján egyébként nem jogosultak egyetemes szolgáltatásra:
+26/A. §[^35] (1) Az egyetemes szolgáltatóhoz tett igénybejelentés esetén közszolgáltatási kötelezettség keretében az egyetemes szolgáltatóra vonatkozó VET 48. §-a, valamint a VET 50. § (2) bekezdése szerinti szerződéskötési kötelezettség kedvezményezettjeként, az egyetemes szolgáltatásra vonatkozó árképzési szabályoknak megfelelő áron a következő szervezetek jogosultak az egyetemes szolgáltatóval villamosenergia-vásárlási szerződést kötni, ha a VET 50. § (3) bekezdése alapján egyébként nem jogosultak egyetemes szolgáltatásra:
 
 a) a Magyar Államkincstár által vezetett törzskönyvi nyilvántartásba bejegyzett költségvetési szervek, kisebbségi önkormányzatok, a helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok társulásai, a települési önkormányzatok társulása, többcélú kistérségi társulások;
 
@@ -28,5 +28,5 @@ c) az alapítvány, a közalapítvány és annak alapító okiratban jogi szemé
 
 (4) Az egyetemes szolgáltatóval megkötésre kerülő villamosenergia-vásárlási szerződésre egyebekben az általános rendelkezések alkalmazandóak azzal, hogy az e §-ban meghatározott jogosultakat az egyetemes szolgáltatással járó ellátási kötelezettségen, az áralkalmazáson, és a végső menedékes jogintézménye keretében biztosított ellátási jogosultságon kívül egyéb kedvezmény nem illeti meg.
 
-[^26]: A Vhr. 26/A. §-át megelőző alcímet a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^27]: A Vhr. 26/A. §-át a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^34]: A Vhr. 26/A. §-át megelőző alcímet a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^35]: A Vhr. 26/A. §-át a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.

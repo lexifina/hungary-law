@@ -234,7 +234,13 @@ s) az ügyfélszolgálati fiókirodán ellátandó ügytípusokat;
 
 t) a csatlakozási szerződés és a hálózathasználati szerződés mintáját;
 
-u) a szerződés nélkül villamos energiát vételező személyekkel szembeni eljárás rendjét, az ellátásban való részvétel jogszerűvé tételének módját.
+u) a szerződés nélkül villamos energiát vételező személyekkel szembeni eljárás rendjét, az ellátásban való részvétel jogszerűvé tételének módját;
+
+v)[^153] az alaptevékenységen kívül végzett tevékenységek bemutatását, így különösen
+
+va) az engedélyes által végzett, az alaptevékenységhez kapcsolódó szolgáltatások felsorolását, és
+
+vb) az engedélyes által a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő szolgáltatások körét és díját.
 
 3. A szervezett villamosenergia-piac engedélyese üzletszabályzatában az I. pontban foglaltakon túl köteles szabályozni, illetve feltüntetni:
 
@@ -283,3 +289,5 @@ d) a fejlesztési tervek végrehajtásának rendjét;
 e) az üzemzavar és korlátozás esetén alkalmazandó szabályokat;
 
 f) a villamosenergia-piac más résztvevőivel való együttműködés műszaki feltételeit.
+
+[^153]: A Vhr. 21. számú melléklet II. 2. pont v) alpontját a 116/2010. (IV. 15.) Korm. rendelet 9. § (4) bekezdése iktatta be.

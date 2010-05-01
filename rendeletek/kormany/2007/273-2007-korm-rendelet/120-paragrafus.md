@@ -14,7 +14,7 @@ d) az adott csatlakozási pont tekintetében jogosult-e és meddig a felhasznál
 
 e) egyetemes szolgáltatásra nem jogosult felhasználók esetén azt, hogy a közüzemi engedélyes kérelmezte-e a VET 176. §-ának (2) bekezdése szerinti törvényes jogutódláshoz szükséges, villamosenergia-kereskedelemre vonatkozó működési engedélyt.
 
-(3)[^107] Az egyetemes szolgáltatásra jogot szerzett kereskedő a VET 176. § (3) bekezdésében foglalt kötelezettségének teljesítése érdekében 2009. március 31-ig köteles – a 2008. január 1-jén vagy azt követően szerződést kötött felhasználók kivételével – minden általa ellátott felhasználót írásban legalább a következőkről tájékoztatni:
+(3)[^119] Az egyetemes szolgáltatásra jogot szerzett kereskedő a VET 176. § (3) bekezdésében foglalt kötelezettségének teljesítése érdekében 2009. március 31-ig köteles – a 2008. január 1-jén vagy azt követően szerződést kötött felhasználók kivételével – minden általa ellátott felhasználót írásban legalább a következőkről tájékoztatni:
 
 a) saját elérhetőségeiről (ügyfélszolgálatok, telefon, e-mail cím, honlap címe),
 
@@ -36,15 +36,15 @@ ha) az írásbeli közüzemi szerződéssel rendelkező felhasználók esetében
 
 hb) az írásbeli közüzemi szerződéssel nem rendelkező felhasználók esetében az egyetemes szolgáltatást az egyetemes szolgáltató üzletszabályzatának mellékletét képező mintaszerződés feltételei szerint kell biztosítani és igénybe venni.
 
-(4)[^108] Abban az esetben, ha a felhasználó a megküldött tájékoztatás alapján az egyetemes szolgáltatási szerződését meg kívánja kötni, az egyetemes szolgáltató köteles 30 napon belül a felhasználóhoz eljuttatni, vagy az ügyfélszolgálaton történő személyes eljárás esetén rendelkezésére bocsátani az egyetemes szolgáltatásra vonatkozó szerződési ajánlatát.
+(4)[^120] Abban az esetben, ha a felhasználó a megküldött tájékoztatás alapján az egyetemes szolgáltatási szerződését meg kívánja kötni, az egyetemes szolgáltató köteles 30 napon belül a felhasználóhoz eljuttatni, vagy az ügyfélszolgálaton történő személyes eljárás esetén rendelkezésére bocsátani az egyetemes szolgáltatásra vonatkozó szerződési ajánlatát.
 
-(5)[^109] A (3) bekezdés ha) pontjának hatálya alá tartozó felhasználók esetében 2010. január 1-jétől úgy kell eljárni, mintha a felhasználó a hálózathasználati szerződésnek a VET 63. §-a szerinti megbízási jogviszony keretében történő kezelését kérte volna.
+(5)[^121] A (3) bekezdés ha) pontjának hatálya alá tartozó felhasználók esetében 2010. január 1-jétől úgy kell eljárni, mintha a felhasználó a hálózathasználati szerződésnek a VET 63. §-a szerinti megbízási jogviszony keretében történő kezelését kérte volna.
 
-(6)[^110] Az egyetemes szolgáltató a VET és az e rendelet rendelkezéseinek megfelelő új szerződésekről naprakész nyilvántartást vezet, amelynek alapján az új szerződéssel rendelkező felhasználók számáról, és azoknak az összes felhasználóhoz viszonyított arányáról a Hivatalt 2009. szeptember 30-tól negyedévente tájékoztatja.
+(6)[^122] Az egyetemes szolgáltató a VET és az e rendelet rendelkezéseinek megfelelő új szerződésekről naprakész nyilvántartást vezet, amelynek alapján az új szerződéssel rendelkező felhasználók számáról, és azoknak az összes felhasználóhoz viszonyított arányáról a Hivatalt 2009. szeptember 30-tól negyedévente tájékoztatja.
 
-(7)[^111] Az egyetemes szolgáltató köteles az egyetemes szolgáltatási szerződést 2009. december 31-ig nem kötő felhasználókkal – azoknak az egyetemes szolgáltató ügyfélszolgálatán bármely ügyben történő személyes ügyintézése esetén – a VET és az e rendelet rendelkezéseinek megfelelő új szerződés megkötését, valamint a hálózathasználati szerződés – a felhasználó igénye esetén az egyetemes szolgáltató általi – kezelésére vonatkozó nyilatkozattételt kezdeményezni.
+(7)[^123] Az egyetemes szolgáltató köteles az egyetemes szolgáltatási szerződést 2009. december 31-ig nem kötő felhasználókkal – azoknak az egyetemes szolgáltató ügyfélszolgálatán bármely ügyben történő személyes ügyintézése esetén – a VET és az e rendelet rendelkezéseinek megfelelő új szerződés megkötését, valamint a hálózathasználati szerződés – a felhasználó igénye esetén az egyetemes szolgáltató általi – kezelésére vonatkozó nyilatkozattételt kezdeményezni.
 
-(8)[^112] Az elosztó köteles 2009. június 30-ig minden, a hálózatára csatlakozott, külön hálózathasználati szerződéssel még nem rendelkező, vagy a hálózathasználati szerződésnek az egyetemes szolgáltató általi kezelését nem igénylő felhasználót legalább a következőkről tájékoztatni:
+(8)[^124] Az elosztó köteles 2009. június 30-ig minden, a hálózatára csatlakozott, külön hálózathasználati szerződéssel még nem rendelkező, vagy a hálózathasználati szerződésnek az egyetemes szolgáltató általi kezelését nem igénylő felhasználót legalább a következőkről tájékoztatni:
 
 a) saját elérhetőségeiről (ügyfélszolgálatok, telefon, e-mail cím, honlap címe),
 
@@ -56,21 +56,21 @@ d) a hálózathasználati szerződés 2009. december 31-ig történő megkötés
 
 e) az általános szerződési feltételeket tartalmazó üzletszabályzat hozzáférhetőségére vonatkozó információkról.
 
-(9)[^113] Abban az esetben, ha a felhasználó a megküldött tájékoztatás alapján a hálózati szerződését meg kívánja kötni, az elosztó köteles 30 napon belül a felhasználóhoz eljuttatni, vagy ügyfélszolgálaton történő személyes eljárás esetén rendelkezésére bocsátani a hálózat használati szerződéses ajánlatát.
+(9)[^125] Abban az esetben, ha a felhasználó a megküldött tájékoztatás alapján a hálózati szerződését meg kívánja kötni, az elosztó köteles 30 napon belül a felhasználóhoz eljuttatni, vagy ügyfélszolgálaton történő személyes eljárás esetén rendelkezésére bocsátani a hálózat használati szerződéses ajánlatát.
 
-(10)[^114] Az elosztó a VET és e rendelet rendelkezéseinek megfelelő új szerződésekről – a VET 63. §-a szerint megbízási jogviszony keretében kezelt szerződéseket elkülönítve – naprakész nyilvántartást vezet, amelynek alapján az új szerződéssel rendelkező felhasználók számáról, és azoknak az összes felhasználóhoz viszonyított arányáról a Hivatalt 2009. szeptember 30-tól negyedévente tájékoztatja.
+(10)[^126] Az elosztó a VET és e rendelet rendelkezéseinek megfelelő új szerződésekről – a VET 63. §-a szerint megbízási jogviszony keretében kezelt szerződéseket elkülönítve – naprakész nyilvántartást vezet, amelynek alapján az új szerződéssel rendelkező felhasználók számáról, és azoknak az összes felhasználóhoz viszonyított arányáról a Hivatalt 2009. szeptember 30-tól negyedévente tájékoztatja.
 
-(11)[^115] Az elosztó köteles a hálózathasználati szerződés 2009. december 31-ig nem kötő felhasználókkal – azoknak az elosztó ügyfélszolgálatán bármely ügyben történő személyes ügyintézése esetén – a VET és e rendelet rendelkezéseinek megfelelő új szerződés megkötését kezdeményezni.
+(11)[^127] Az elosztó köteles a hálózathasználati szerződés 2009. december 31-ig nem kötő felhasználókkal – azoknak az elosztó ügyfélszolgálatán bármely ügyben történő személyes ügyintézése esetén – a VET és e rendelet rendelkezéseinek megfelelő új szerződés megkötését kezdeményezni.
 
-(12)[^116] A tájékoztatók szövegét a Hivatal részére előzetesen be kell mutatni. A Hivatal elrendelheti a jogszabályi követelményeket nem teljesítő vagy megtévesztő tájékoztató módosítását.
+(12)[^128] A tájékoztatók szövegét a Hivatal részére előzetesen be kell mutatni. A Hivatal elrendelheti a jogszabályi követelményeket nem teljesítő vagy megtévesztő tájékoztató módosítását.
 
-[^107]: A Vhr. 120. §-ának (3) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^108]: A Vhr. 120. §-ának (4) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^109]: A Vhr. 120. §-ának (5) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^110]: A Vhr. 120. §-ának (6) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^111]: A Vhr. 120. §-ának (7) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^112]: A Vhr. 120. §-ának (8) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^113]: A Vhr. 120. §-ának (9) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^114]: A Vhr. 120. §-ának (10) bekezdését a 350/2008. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^115]: A Vhr. 120. §-ának (11) bekezdését a 350/2008. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^116]: A Vhr. 120. §-ának (12) bekezdését a 350/2008. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^119]: A Vhr. 120. §-ának (3) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^120]: A Vhr. 120. §-ának (4) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^121]: A Vhr. 120. §-ának (5) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^122]: A Vhr. 120. §-ának (6) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^123]: A Vhr. 120. §-ának (7) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^124]: A Vhr. 120. §-ának (8) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^125]: A Vhr. 120. §-ának (9) bekezdése a 350/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^126]: A Vhr. 120. §-ának (10) bekezdését a 350/2008. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^127]: A Vhr. 120. §-ának (11) bekezdését a 350/2008. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^128]: A Vhr. 120. §-ának (12) bekezdését a 350/2008. (XII. 31.) Korm. rendelet 3. §-a iktatta be.

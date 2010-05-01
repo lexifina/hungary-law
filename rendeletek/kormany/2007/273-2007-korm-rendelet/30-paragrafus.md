@@ -2,7 +2,7 @@
 
 ## Védendő fogyasztókra vonatkozó részletes szabályok
 
-30. §[^29] (1) A VET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
+30. §[^40] (1) A VET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
@@ -40,4 +40,4 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 
 (9) Jogosultságának a VET 65. § (4) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
-[^29]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+[^40]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
