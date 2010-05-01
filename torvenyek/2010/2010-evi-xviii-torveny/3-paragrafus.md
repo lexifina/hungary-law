@@ -1,0 +1,1 @@
+3. § A gondnokolt és a gondnok adatait az Országos Igazságszolgáltatási Tanács Hivatala (a továbbiakban: Hivatal) a gondnokság fennállása alatt, illetve a gondnokság megszűnését követő öt évig kezeli. Ha a gondnokot a tisztségéből felmentették, a rá vonatkozó adatokat a Hivatal a felmentés időpontjától számított öt évig kezeli.

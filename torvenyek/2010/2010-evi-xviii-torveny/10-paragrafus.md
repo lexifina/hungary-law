@@ -1,0 +1,1 @@
+10. § Az előzetes jognyilatkozatot tevő személyek és az előzetes jognyilatkozataik adatait a Hivatal az előzetes jognyilatkozat visszavonásáig, illetve az előzetes jognyilatkozatot tevő személy haláláig tartja nyilván.
