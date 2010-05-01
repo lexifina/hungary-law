@@ -34,7 +34,10 @@ e) az egészségi állapotát,
 
 f) az esetleges káros szenvedélyeit,
 
-g) a jövedelmi, vagyoni viszonyait.
+g) a jövedelmi, vagyoni viszonyait,
+
+h)[^4] a hozzátartozók közötti erőszakra, vagy veszélyeztetettségre utaló tények leírását, az azok megszüntetése érdekében tett, vagy javasolt intézkedések bemutatását.
 
 [^2]: A 2. § a 12/2006. (III. 23.) IM rendelet 14. §-ával megállapított szöveg.
 [^3]: A 3. § (3) bekezdésének a) pontja a 41/2009. (IX. 15.) IRM rendelet 33. § (1) bekezdésével megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. § (3) bekezdés h) pontját a 11/2010. (III. 31.) IRM rendelet 31. §-a iktatta be.

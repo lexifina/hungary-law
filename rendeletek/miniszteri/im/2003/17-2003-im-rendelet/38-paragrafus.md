@@ -1,3 +1,3 @@
-## 37. §[^39]
+## 37. §[^42]
 
-[^39]: A 37. §-t a 12/2006. (III. 23.) IM rendelet 34. § (2) bekezdésének d) pontja hatályon kívül helyezte.
+[^42]: A 37. §-t a 12/2006. (III. 23.) IM rendelet 34. § (2) bekezdésének d) pontja hatályon kívül helyezte.

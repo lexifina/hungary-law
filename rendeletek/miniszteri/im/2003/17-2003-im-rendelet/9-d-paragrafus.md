@@ -1,4 +1,4 @@
-9/D. §[^14] (1) Közvetítői eljárás során felmerült költség a közvetítői eljárás megindításától (Bkt. 6. §) annak befejezéséig [Bkt. 15. § (1) bek.] a felek érdekkörében felmerült, igazolt, a tevékeny megbánást megalapozó megegyezés létrejöttéhez szükséges költség, így különösen:
+9/D. §[^15] (1) Közvetítői eljárás során felmerült költség a közvetítői eljárás megindításától (Bkt. 6. §) annak befejezéséig [Bkt. 15. § (1) bek.] a felek érdekkörében felmerült, igazolt, a tevékeny megbánást megalapozó megegyezés létrejöttéhez szükséges költség, így különösen:
 
 a) a sértettnek, a terheltnek, ezek törvényes képviselőinek, illetve a Bkt. 7. §-ának (3) bekezdésében meghatározott segítőinek készkiadása,
 
@@ -16,4 +16,4 @@ d) a tolmács költségtérítése és díja.
 
 (5) A közvetítői eljárás során felmerült, az Igazságügyi Hivatal által fizetett vagy előlegezett költségeket a közvetítői eljárás befejezésekor a közvetítő a költségjegyzék lezárásával és összegzésével állapítja meg.
 
-[^14]: A 9/D. §-t az 1/2007. (I. 25.) IRM rendelet 2. §-a iktatta be. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^15]: A 9/D. §-t az 1/2007. (I. 25.) IRM rendelet 2. §-a iktatta be. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

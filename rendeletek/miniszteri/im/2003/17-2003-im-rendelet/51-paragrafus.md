@@ -1,6 +1,6 @@
-## 50. §[^47]
+## 50. §[^52]
 
-## VIII. Fejezet[^48]
+## VIII. Fejezet[^53]
 
 ## ZÁRÓ RENDELKEZÉSEK
 
@@ -18,8 +18,8 @@ d) az ER. módosításáról szóló 19/2002. (XII. 12.) IM rendelet 1. §-a, 3.
 
 (2) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-Melléklet a 17/2003. (VI. 24.) IM rendelethez[^49]
+Melléklet a 17/2003. (VI. 24.) IM rendelethez[^54]
 
-[^47]: Az 50. §-t a 36/2004. (XI. 24.) IM rendelet 4. § (3) bekezdése hatályon kívül helyezte.
-[^48]: Az eredeti VII. Fejezetének számozását VIII. Fejezetre változtatta az 1/2007. (I. 25.) IRM rendelet 2. §-a.
-[^49]: A mellékletet a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 75. pontja hatályon kívül helyezte.
+[^52]: Az 50. §-t a 36/2004. (XI. 24.) IM rendelet 4. § (3) bekezdése hatályon kívül helyezte.
+[^53]: Az eredeti VII. Fejezetének számozását VIII. Fejezetre változtatta az 1/2007. (I. 25.) IRM rendelet 2. §-a.
+[^54]: A mellékletet a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 75. pontja hatályon kívül helyezte.

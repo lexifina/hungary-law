@@ -1,6 +1,6 @@
 ## 38. § Fiatalkorú esetében külön magatartási szabályt a büntetés-végrehajtási bíró részére a pártfogó felügyelő is javasolhat.
 
-## VI. Fejezet[^40]
+## VI. Fejezet[^43]
 
 ## AZ UTÓGONDOZÁS
 
@@ -12,4 +12,4 @@ a) az elítélt tájékoztatása az esetleg elveszett iratai pótlásának, ha s
 
 b) az elítélt családjának, gondozójának a felkészítése az elítélt lehetőség szerinti visszafogadására.
 
-[^40]: Az eredeti V. Fejezetének számozását VI. Fejezetre változtatta az 1/2007. (I. 25.) IRM rendelet 2. §-a.
+[^43]: Az eredeti V. Fejezetének számozását VI. Fejezetre változtatta az 1/2007. (I. 25.) IRM rendelet 2. §-a.

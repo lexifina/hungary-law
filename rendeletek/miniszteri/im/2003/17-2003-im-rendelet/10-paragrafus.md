@@ -1,4 +1,4 @@
-## IV. Fejezet[^15]
+## IV. Fejezet[^16]
 
 ## A KÖZÉRDEKŰ MUNKA VÉGREHAJTÁSÁNAK SZERVEZÉSE ÉS ELLENŐRZÉSE
 
@@ -10,4 +10,4 @@
 
 (3) Ha a munkahely harminc napon belül nem küld értesítést a közérdekű munka végrehajtásának megkezdéséről, ennek okáról a pártfogó felügyelő tájékozódik.
 
-[^15]: Az eredeti III. Fejezetének számozását IV. Fejezetre változtatta az 1/2007. (I. 25.) IRM rendelet 2. §-a.
+[^16]: Az eredeti III. Fejezetének számozását IV. Fejezetre változtatta az 1/2007. (I. 25.) IRM rendelet 2. §-a.

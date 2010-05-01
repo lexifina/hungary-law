@@ -4,13 +4,13 @@
 
 a) a közérdekű munka végrehajtásának félbeszakítását kéri,
 
-b)[^21] gyermekgondozási segélyben vagy gyermekgondozási díjban részesül, illetőleg,
+b)[^22] gyermekgondozási segélyben vagy gyermekgondozási díjban részesül, illetőleg,
 
-c)[^22]
+c)[^23]
 
 d) az elítéltet más ügyben végrehajtandó szabadságvesztésre ítélték.
 
 (2) A pártfogó felügyelő beszerzi az elbíráláshoz szükséges iratokat, és az (1) bekezdés a) pontja esetében véleményt nyilvánít.
 
-[^21]: A 16. § (1) bekezdésének b) pontja a 10/2005. (VI. 16.) IM rendelet 13. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^22]: A 16. § (1) bekezdésének c) pontját a 10/2005. (VI. 16.) IM rendelet 13. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^22]: A 16. § (1) bekezdésének b) pontja a 10/2005. (VI. 16.) IM rendelet 13. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^23]: A 16. § (1) bekezdésének c) pontját a 10/2005. (VI. 16.) IM rendelet 13. § (3) bekezdésének c) pontja hatályon kívül helyezte.
