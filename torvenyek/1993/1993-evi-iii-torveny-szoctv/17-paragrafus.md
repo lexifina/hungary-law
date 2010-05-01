@@ -8,7 +8,7 @@ b) természetben nyújtott szociális ellátás esetén a dolog visszaszolgálta
 
 c) a személyes gondoskodást nyújtó szociális ellátás esetében az intézményi térítési díj teljes összegének megfizetésére [a továbbiakban: a)–c) pont alattiak együtt: megtérítés].
 
-(2) Az (1) bekezdés szerinti megtérítést a Ptk. 232. § (2) bekezdésében meghatározott kamattal megemelt összegben kell visszafizetni. Kamat csak a szociális ellátás jogosulatlan és rosszhiszemű igénybevétele és az erről való tudomásszerzés közötti időtartamra számítható fel.
+(2) Az (1) bekezdés szerinti megtérítést a Ptk. 232. § (2) bekezdésében meghatározott kamattal megemelt összegben kell visszafizetni. [Az (1) bekezdés szerinti megtérítést az elrendelése jogerőre emelkedésének napján érvényes jegybanki alapkamattal megemelt összegben kell visszafizetni.] Kamat csak a szociális ellátás jogosulatlan és rosszhiszemű igénybevétele és az erről való tudomásszerzés közötti időtartamra számítható fel.
 
 (3) A szociális hatáskört gyakorló szerv a jogosulatlanul és rosszhiszeműen igénybe vett ellátás megtérítését az igénybevételről való tudomásszerzésétől számított három hónapon belül rendelheti el. Nem lehet a megtérítést elrendelni, ha az igénybevételtől, illetőleg folyamatos ellátás esetén az ellátás megszűnésétől egy év már eltelt.
 
