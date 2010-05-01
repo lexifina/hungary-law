@@ -1,12 +1,12 @@
 7. § (1) A munkaügyi központ központi szervezete
 
-a)[^24] irányítja és ellenőrzi a munkaügyi központ kirendeltségeinek tevékenységét, ennek keretében
+a)[^26] irányítja és ellenőrzi a munkaügyi központ kirendeltségeinek tevékenységét, ennek keretében
 
 1. a miniszter, a Hivatal és a munkaügyi tanácsok ajánlásainak megfelelően módszertani útmutatók, szakmai ajánlások készítésével segíti a hatósági és szolgáltató tevékenységet;
 
 2. közreműködik a munkatársak szakmai képzésében;
 
-3.[^25] biztosítja a kirendeltségek szakmai tevékenységének ellátásához szükséges feltételeket;
+3.[^27] biztosítja a kirendeltségek szakmai tevékenységének ellátásához szükséges feltételeket;
 
 b) a megváltozott munkaképességű álláskeresők foglalkozási rehabilitációjával kapcsolatos feladatai körében
 
@@ -62,8 +62,8 @@ b) a felnőttképzési intézmények nyilvántartásba vételével
 
 ## kapcsolatos ügyekben.
 
-(3)[^26] A Kormány a magán-munkaközvetítési tevékenység tekintetében a Szolgtv. szerinti szolgáltatás felügyeletét ellátó hatóságként a munkaügyi központ központi szervezetét jelöli ki.
+(3)[^28] A Kormány a magán-munkaközvetítési tevékenység tekintetében a Szolgtv. szerinti szolgáltatás felügyeletét ellátó hatóságként a munkaügyi központ központi szervezetét jelöli ki.
 
-[^24]: A 7. § (1) bekezdése a) pontjának felvezető szövege az 53/2007. (III. 28.) Korm. rendelet 18. § (1) bekezdése a) pontjának aa) alpontja szerint módosított szöveg.
-[^25]: A 7. § (1) bekezdése a) pontjának 3. alpontja az 53/2007. (III. 28.) Korm. rendelet 18. § (1) bekezdése a) pontjának aa) alpontja szerint módosított szöveg.
-[^26]: A 7. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 497. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 7. § (1) bekezdése a) pontjának felvezető szövege az 53/2007. (III. 28.) Korm. rendelet 18. § (1) bekezdése a) pontjának aa) alpontja szerint módosított szöveg.
+[^27]: A 7. § (1) bekezdése a) pontjának 3. alpontja az 53/2007. (III. 28.) Korm. rendelet 18. § (1) bekezdése a) pontjának aa) alpontja szerint módosított szöveg.
+[^28]: A 7. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 497. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
