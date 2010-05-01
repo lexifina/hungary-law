@@ -74,39 +74,41 @@
 
 ## 0,98 ∙ fn ≤ f ≤ 1,02 ∙ fn;
 
-## a teljesítménytényező tartománya legalább cosφ = 0,5 induktív és cosϕ = 0,8 kapacitív közötti.
+## a teljesítménytényező tartománya legalább cosϕ = 0,5 induktív és cosϕ = 0,8 kapacitív közötti.
 
 ## 3. Legnagyobb megengedett hiba (MPE)
 
-## A különböző mért és befolyásoló mennyiségek hatását (a, b, c, …) külön-külön értékelik, mialatt az összes többi mért és befolyásoló mennyiséget viszonylag állandóan a referenciaértékeiken tartják. A mérési hibát, amely nem lépheti túl a 2. táblázatban meghatározott legnagyobb megengedett hibát (MPE) – a következőképpen számítják ki:
+## 3.1. A különböző mért és befolyásoló mennyiségek hatását (a, b, c, ...) külön-külön értékelik, mialatt az összes többi mért és befolyásoló mennyiséget viszonylag állandóan a referenciaértékeiken tartják. A mérési hibát, amely nem lépheti túl a 2. táblázatban meghatározott legnagyobb megengedett hibát (MPE) – a következőképpen számítják ki:
 
-## Mérési hiba =
+## 3.2. Amennyiben a fogyasztásmérő változó terhelőáram mellett működik, a százalékos eltérések nem haladhatják meg a 2. táblázatban megadott határértékeket.
 
-## Amennyiben a fogyasztásmérő változó terhelőáram mellett működik, a százalékos eltérések nem haladhatják meg a 2. táblázatban megadott határértékeket.
-
-## 2. táblázat
+## 2. táblázat
 
 ## A legnagyobb megengedett hiba (MPE) az előírt működési feltételek, valamint a meghatározott terhelőáram és üzemi hőmérséklet mellett százalékban
 
-|  | Üzemi hőmérsékletek | Üzemi hőmérsékletek | Üzemi hőmérsékletek | Üzemi hőmérsékletek |
+|  | A | B | C | D |
 
-| + 5°C ... + 30°C | –10°C ... + 5°C vagy + 30°C ... + 40°C | – 5°C ... –10°C vagy + 40°C ... + 55°C | – 40°C ... –25°C vagy + 55°C ... + 70°C |
+| 1. | Üzemi hőmérsékletek | Üzemi hőmérsékletek | Üzemi hőmérsékletek | Üzemi hőmérsékletek |
 
-| Mérőosztály | A | B | C | A | B | C | A | B | C | A | B | C |
+| +5°C ... +30°C | –10°C...+5°C vagy +30°C ... +40°C | –5°C ... –10°C vagy +40°C ... +55°C | –40°C ... –25°C vagy +55°C ... +70°C |
 
-| Egyfázisú fogyasztásmérő; háromfázisú fogyasztásmérő, szimmetrikus terheléssel |
+| 2. Mérőosztály | A | B | C | A | B | C | A | B | C | A | B | C |
 
-| Imin ≤ I < Itr | 3,5 | 2 | 1 | 5 | 2,5 | 1,3 | 7 | 3,5 | 1,7 | 9 | 4 | 2 |
+| 3. Egyfázisú fogyasztásmérő; háromfázisú fogyasztásmérő, szimmetrikus terheléssel |
 
-| Itr ≤ I ≤ Imax | 3,5 | 2 | 0,7 | 4,5 | 2,5 | 1 | 7 | 3,5 | 1,3 | 9 | 4 | 1,5 |
+| 3.1. Imin ≤ I < Itr | 3,5 | 2 | 1 | 5 | 2,5 | 1,3 | 7 | 3,5 | 1,7 | 9 | 4 | 2 |
 
-| Háromfázisú fogyasztásmérő egyfázisú terhelés mellett |
+| 3.2. Itr ≤ I ≤ Imax | 3,5 | 2 | 0,7 | 4,5 | 2,5 | 1 | 7 | 3,5 | 1,3 | 9 | 4 | 1,5 |
 
-| Itr ≤ I ≤ Imax lásd az alábbi kivételt | 4 | 2,5 | 1 | 5 | 3 | 1,3 | 7 | 4 | 1,7 | 9 | 4,5 | 2 |
+| 4. Háromfázisú fogyasztásmérő egyfázisú terhelés mellett |
 
-| A háromfázisú elektromechanikus fogyasztásmérők esetében az egyfázisú terhelés mellett az áramerősség-tartomány 5Itr ≤ I ≤ Imax értékre korlátozódik. |
+| 4.1. Itr ≤ I ≤ Imaxlásd az alábbi kivételt | 4 | 2,5 | 1 | 5 | 3 | 1,3 | 7 | 4 | 1,7 | 9 | 4,5 | 2 |
 
-## Amennyiben a fogyasztásmérő különböző hőmérséklet-tartományokban működik, annak megfelelő legnagyobb megengedett hibaértéket kell alkalmazni.
+| 5. A háromfázisú elektromechanikus fogyasztásmérők esetében az egyfázisú terhelés mellett az áramerősség-tartomány 5Itr ≤ I ≤ Imax értékre korlátozódik. |
+
+| 6. Amennyiben a fogyasztásmérő különböző hőmérséklet-tartományokban működik, annak megfelelő legnagyobb megengedett hibaértéket kell alkalmazni. |
+
+| 7. A mérő nem használhatja ki a legnagyobb megengedett hibára (MPE) vonatkozó értékeket, és nem hozhatja rendszeresen kedvezőbb helyzetbe a részt vevő felek egyikét. |
 
 ## 4. A zavarok megengedett hatása
 
@@ -194,4 +196,6 @@
 
 ## c) A fogyasztásmérő áramerősség mérési tartományát a fogyasztó előirányzott vagy várható fogyasztási igényének megfelelően kell kiválasztani.
 
-19. melléklet a 8/2006. (II. 27.) GKM rendelethez
+19. melléklet a 8/2006. (II. 27.) GKM rendelethez[^11]
+
+[^11]: A 19. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (8) bekezdése szerint módosított szöveg.

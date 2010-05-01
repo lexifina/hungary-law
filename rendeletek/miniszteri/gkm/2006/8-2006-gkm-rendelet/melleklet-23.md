@@ -4,7 +4,7 @@
 
 ## Fogalommeghatározások
 
-## Viteldíjjelző: A viteldíjjelző olyan eszköz, amely egy jeladóval[^4] együtt működtetve egy mérőműszert képez.
+## Viteldíjjelző: A viteldíjjelző olyan eszköz, amely egy jeladóval[^14] együtt működtetve egy mérőműszert képez.
 
 ## Az eszköz méri az út időtartamát, és a távolsági jeladótól kapott jelek alapján kiszámítja a megtett távolságot. Ezen kívül a kiszámított távolság és/vagy az út lemért időtartama alapján kiszámítja és kijelzi az utazásért fizetendő viteldíjat.
 
@@ -166,4 +166,4 @@
 
 23. melléklet a 8/2006. (II. 27.) GKM rendelethez
 
-[^4]: A távolsági jeladó nem tartozik e rendelet hatálya alá.
+[^14]: A távolsági jeladó nem tartozik e rendelet hatálya alá.

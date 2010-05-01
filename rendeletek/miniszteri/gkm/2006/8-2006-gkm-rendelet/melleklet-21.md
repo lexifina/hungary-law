@@ -172,6 +172,8 @@
 
 ## 2.7. A 2.6. pont a) követelménye nemcsak az átszámításra, hanem az összes számításra is alkalmazandó.
 
+## 2.8.  A mérőrendszer nem használhatja ki a legnagyobb megengedett hibára (MPE) vonatkozó értékeket, és nem hozhatja rendszeresen kedvezőbb helyzetbe a részt vevő felek egyikét.
+
 ## 3. A zavarok legnagyobb megengedhető hatása
 
 ## 3.1. Az elektromágneses zavarok csak a következőkben meghatározott mértékben hathatnak a mérőrendszerre:
@@ -252,6 +254,6 @@
 
 ## A mért mennyiséget milliliterben, köbcentiméterben, literben, köbméterben, grammban, kilogrammban vagy tonnában kell megjeleníteni, de LPG mérés esetén a kijelzés tömegben történjen.
 
-21. melléklet a 8/2006. (II. 27.) GKM rendelethez[^3]
+21. melléklet a 8/2006. (II. 27.) GKM rendelethez[^13]
 
-[^3]: A 21. számú melléklet a 13/2008. (VIII. 8.) NFGM–FVM együttes rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^13]: A 21. számú melléklet a 13/2008. (VIII. 8.) NFGM–FVM együttes rendelet 9. § (4) bekezdése szerint módosított szöveg.

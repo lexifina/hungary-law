@@ -60,13 +60,15 @@
 
 ## 3. A teljes hőfogyasztás-mérőkre alkalmazott legnagyobb megengedett hiba (MPE)
 
-## Az önálló hőfogyasztás-mérőkre alkalmazandó helyes értékre vonatkozó legnagyobb megengedett relatív hiba az egyes pontossági osztályok esetén százalékban kifejezve:
+## 3.1.  Az önálló hőfogyasztás-mérőkre alkalmazandó helyes értékre vonatkozó legnagyobb megengedett relatív hiba az egyes pontossági osztályok esetén százalékban kifejezve:
 
-## – az 1. osztályra: E = Ef + Et + Ec (Ef; Et; Ec a 7.1÷7.3. pontok szerint),
+## 3.1.1.  az 1. osztályra: E = Ef + Et + Ec (Ef; Et; Ec a 7.1 ÷ 7.3. pontok szerint),
 
-## – a 2. osztályra: E = Ef + Et + Ec (Ef; Et; Ec a 7.1÷7.3. pontok szerint),
+## 3.1.2.  a 2. osztályra: E = Ef + Et + Ec (Ef; Et; Ec a 7.1 ÷ 7–3. pontok szerint),
 
-## – a 3. osztályra: E = Ef + Et + Ec (Ef; Et; Ec a 7.1÷7.3. pontok szerint).
+## 3.1.3.  a 3. osztályra: E = Ef + Et + Ec (Ef; Et; Ec a 7.1 ÷ 7.3. pontok szerint).
+
+## 3.2.  A teljes hőfogyasztás-mérő nem használhatja ki a legnagyobb megengedett hibára (MPE) vonatkozó értékeket, és nem hozhatja rendszeresen kedvezőbb helyzetbe a részt vevő felek egyikét.
 
 ## 4. Az elektromágneses zavarok megengedett hatása
 
@@ -142,4 +144,6 @@
 
 ## c) Az 1.1–1.4. pont követelményei tekintetében biztosítani kell, hogy a forgalmazó vagy a mérő felszerelésére jogszabály alapján kijelölt személy úgy határozza meg a jellemzőket, hogy a mérő az előirányzott vagy előrelátható fogyasztást pontosan tudja mérni.
 
-20. melléklet a 8/2006. (II. 27.) GKM rendelethez
+20. melléklet a 8/2006. (II. 27.) GKM rendelethez[^12]
+
+[^12]: A 20. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (9) bekezdése szerint módosított szöveg.

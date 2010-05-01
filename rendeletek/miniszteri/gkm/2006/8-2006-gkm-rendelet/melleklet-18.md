@@ -50,15 +50,17 @@
 
 ## 2.1. Gázmérők, amelyek a mérési feltételek melletti térfogatot vagy a tömeget jelzik ki.
 
-## 1. táblázat
+## 1. táblázat
 
-|  | Osztály | 1,5 | 1,0 |
+|  | A | B | C |
 
-|  | Qmin ≤ Q < Qt | 3% | 2% |
+|  | 1. Osztály | 1,5 | 1,0 |
 
-|  | Qt ≤ Q ≤ Qmax | 1,5% | 1% |
+|  | 2. Qmin ≤ Q < Qt | 3% | 2% |
 
-## Amennyiben a Qt és a Qmax közötti összes hibának ugyanaz az előjele, akkor az 1,5 osztály esetében egyikük sem lépheti túl az 1%-ot, az 1,0 osztály esetében pedig a 0,5%-ot.
+|  | 3. Qt ≤ Q ≤ Qmax | 1,5% | 1% |
+
+## 2.1.1. A gázmérő nem használhatja ki a legnagyobb megengedett hibára (MPE) vonatkozó értékeket, és nem hozhatja rendszeresen kedvezőbb helyzetbe a részt vevő felek egyikét.
 
 ## 2.2. A hőmérséklet-korrekciós gázmérőkre, amelyek kizárólag a korrigált mennyiséget jelzik ki, egy 30 °C-os hőmérséklet-tartományon belül – amely szimmetrikus egy, a gyártó által megadott 15 °C és 25 °C közötti hőmérsékletre – 0,5%-kal nagyobb legnagyobb megengedett hibaérték (MPE) vonatkozik. E tartományon kívül 10 °C-onként további 0,5%-os MPE növekedés megengedett.
 
@@ -138,13 +140,15 @@
 
 ## 8. Legnagyobb megengedett hiba (MPE)
 
-## – 20 °C-os (± 3 °C) környezeti hőmérséklet, 60%-os (± 15%) környezeti páratartalom és névleges tápfeszültség esetén 0,5%.
+## 8.1.  20 °C-os (±3 °C) környezeti hőmérséklet, 60%-os (±15%) környezeti páratartalom és névleges tápfeszültség esetén 0,5%.
 
-## – hőmérséklet-számítóegységre névleges működési feltételek mellett 0,7%.
+## 8.2.  hőmérséklet-számítóegységre névleges működési feltételek mellett 0,7%.
 
-## – az egyéb számítóegységekre a névleges működési feltételek mellett 1%.
+## 8.3.  az egyéb számítóegységekre a névleges működési feltételek mellett 1%.
 
-## Megjegyzés: A gázmérő hibája nincs figyelembe véve.
+## 8.4.  Megjegyzés: A gázmérő hibája nincs figyelembe véve.
+
+## 8.5.  A számítóegység nem használhatja ki a legnagyobb megengedett hibára (MPE) vonatkozó értékeket, és nem hozhatja rendszeresen kedvezőbb helyzetbe a részt vevő felek egyikét.
 
 ## 9. Alkalmasság
 
@@ -160,4 +164,6 @@
 
 ## c) Az 1.2. és 1.3. pont követelményei tekintetében biztosítani kell, hogy a forgalmazó vagy a mérő felszerelésére jogszabály alapján kijelölt személy úgy határozza meg a jellemzőket, hogy a mérő az előirányzott vagy előrelátható fogyasztást pontosan tudja mérni.
 
-18. melléklet a 8/2006. (II. 27.) GKM rendelethez
+18. melléklet a 8/2006. (II. 27.) GKM rendelethez[^10]
+
+[^10]: A 18. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (7) bekezdése szerint módosított szöveg.

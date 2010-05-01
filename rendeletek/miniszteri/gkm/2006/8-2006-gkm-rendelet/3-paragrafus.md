@@ -8,7 +8,7 @@ b) részegység: a mellékletekben felsorolt olyan szerkezeti egység, amely fü
 
 c) szabályozott metrológiai ellenőrzés: a mérőműszer alkalmazási területére irányuló, a közérdekkel, a közegészségüggyel, a közbiztonsággal, a közrenddel, a környezetvédelemmel, a fogyasztóvédelemmel, az adók és vámok kivetésével, valamint a tisztességes kereskedelemmel kapcsolatos mérési feladatok ellenőrzése;
 
-d) gyártó: olyan természetes vagy jogi személy, aki a műszernek a saját neve alatt történő forgalomba hozatalakor, illetve saját céljaira történő üzembe helyezésekor felelős azért, hogy a mérőműszer megfelel e rendelet előírásainak;
+d)[^1] gyártó: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 7. pontjában meghatározott személy;
 
 e) forgalomba hozatal: egy végfelhasználó számára szánt mérőműszernek az Európai Gazdasági Térségben (a továbbiakban: EGT) első alkalommal, ellenszolgáltatás fejében vagy térítésmentesen történő hozzáférhetővé tétele;
 
@@ -16,6 +16,9 @@ f) üzembe helyezés: a végfelhasználó számára szánt műszer első rendelt
 
 g) meghatalmazott képviselő: az EGT-n belül letelepedett vagy ott székhellyel rendelkező természetes vagy jogi személy, aki a gyártó írásos meghatalmazása alapján e rendelet szerint meghatározott feladatokban a gyártó nevében eljár;
 
-h) honosított harmonizált szabvány: olyan műszaki előírás, melyet a CEN, a CENELEC vagy az ETSI vagy e szervezetek közül kettő vagy valamennyi az Európai Bizottság (a továbbiakban: Bizottság) kérésére fogadott el a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról, továbbá az információs társadalommal összefüggő szolgáltatásokra vonatkozó szabályokról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv értelmében, és amelyet a Bizottság és az európai szabványügyi szervezetek által kölcsönösen elfogadott általános iránymutatásokkal összhangban fogalmaztak meg, és amelyet a magyar eljárási rendnek megfelelően nemzeti szabványként közzétettek;
+h)[^2] honosított harmonizált szabvány: a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet 1. § b) pontjában meghatározott szabvány;
 
 i) OIML ajánlás: az Organisation Internationale de Métrologie Légale (a továbbiakban: OIML) által elfogadott műszaki előírásokat tartalmazó dokumentum.
+
+[^1]: A 3. § d) pontja a 16/2010. (IV. 28.) NFGM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § h) pontja a 16/2010. (IV. 28.) NFGM rendelet 19. § (2) bekezdésével megállapított szöveg.
