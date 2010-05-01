@@ -1,1 +1,0 @@
-A köztisztviselők továbbképzéséről és a közigazgatási vezetőképzésről szóló 199/1998. (XII. 4.) Korm. rendelet 17. §-ának (5) bekezdésében kapott felhatalmazás alapján – figyelemmel a kiemelt főtisztviselői és a központi tisztikar működtetéséről szóló 164/2001. (IX. 14.) Korm. rendeletben (a továbbiakban: R.) foglaltakra – a következőket rendelem el:
