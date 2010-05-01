@@ -14,7 +14,7 @@
 
 | 15. | A Tanács 2000/75/EK irányelve (2000. november 20.) a kéknyelv betegség elleni védekezésre és felszámolására vonatkozó külön rendelkezések megállapításáról 3. cikk | – Mezőgazdasági Szakigazgatási Hivatal Központja és területi szervei (állategészségügyi hatósági jogkörben) |
 
-3. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^17]
+3. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^23]
 
 | Tanácsi rendelet szerinti sorszám | EK irányelv/rendelet | Hatáskörrel rendelkező ellenőrző szervek |
 
@@ -24,4 +24,4 @@
 
 | 18. | A Tanács 98/58/EK irányelve (1998. július 20.) a tenyésztés céljából tartott állatok védelméről 4. cikk | – Mezőgazdasági Szakigazgatási Hivatal Központja és területi szervei (állatvédelmi hatósági jogkörben) |
 
-[^17]: A 3. számú melléklet e rendelet 5. § (2) bekezdésének b) pontja alapján 2013. január 1-jén lép hatályba.
+[^23]: A 3. számú melléklet e rendelet 5. § (2) bekezdésének b) pontja alapján 2013. január 1-jén lép hatályba.
