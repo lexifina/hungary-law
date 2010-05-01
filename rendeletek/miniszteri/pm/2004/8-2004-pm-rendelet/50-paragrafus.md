@@ -8,8 +8,8 @@ b) lefejtés és készletfelvétel alkalmával a tárolótartály folyadékáll�
 
 ## alapján, a hivatalos szeszátszámítási táblázatok alkalmazásával kell megállapítani.
 
-(3)[^235] A valódi szeszfok megállapítására hitelesített szeszfokmérőt vagy hitelesített alkoholsűrűség-mérőt szabad alkalmazni, illetve az E85 esetén az a hatályos MSZ szerinti vizsgálati módszerrel is történhet.
+(3)[^237] A valódi szeszfok megállapítására hitelesített szeszfokmérőt vagy hitelesített alkoholsűrűség-mérőt szabad alkalmazni, illetve az E85 esetén az a hatályos MSZ szerinti vizsgálati módszerrel is történhet.
 
 (4) Valódi szeszfok alatt a szeszfokmérőn leolvasott szeszfoknak 20 °C-ra átszámított értékét kell érteni.
 
-[^235]: Az 50. § (3) bekezdése a 33/2006. (XII. 25.) PM rendelet 11. §-ával megállapított szöveg.
+[^237]: Az 50. § (3) bekezdése a 33/2006. (XII. 25.) PM rendelet 11. §-ával megállapított szöveg.

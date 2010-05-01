@@ -1,4 +1,4 @@
-122. §[^507] (1)[^508] Az elkobzott termék, dolog, eszköz értékesítésből befolyt összegből elsődlegesen az értékesítéssel kapcsolatos költségeket, majd a lefoglalt termék, dolog, eszköz tárolásával, őrzésével, szállításával kapcsolatos költségtartozást, illetve a szakértői vizsgálat díjtartozását, ezt követően a jogerősen kiszabott jövedéki adót kell kiegyenlíteni, végül a fennmaradó összeget a jövedéki bírság bevételek között kell elszámolni. Az elszámolás eredményeként a költség-, díj-, adó-, bírság- és pótléktartozások értelemszerűen részben vagy egészben megfizetettnek minősülnek. Az elszámolásról a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal külön végzésben rendelkezik.
+122. §[^509] (1)[^510] Az elkobzott termék, dolog, eszköz értékesítésből befolyt összegből elsődlegesen az értékesítéssel kapcsolatos költségeket, majd a lefoglalt termék, dolog, eszköz tárolásával, őrzésével, szállításával kapcsolatos költségtartozást, illetve a szakértői vizsgálat díjtartozását, ezt követően a jogerősen kiszabott jövedéki adót kell kiegyenlíteni, végül a fennmaradó összeget a jövedéki bírság bevételek között kell elszámolni. Az elszámolás eredményeként a költség-, díj-, adó-, bírság- és pótléktartozások értelemszerűen részben vagy egészben megfizetettnek minősülnek. Az elszámolásról a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal külön végzésben rendelkezik.
 
 (2) A kiadni rendelt, de át nem vett lefoglalt terméknek, dolognak, eszköznek a Jöt. 119. § (8) bekezdése szerinti értékesítéséből befolyt ellenértékből az értékesítési, valamint a lefoglalás megszüntetéséről rendelkező végzés közlésének napját követő nap és az értékesítés napja közötti időtartamra eső tárolási költség levonását követően fennmaradt összeg adható ki az átvételre jogosult személynek.
 
@@ -6,8 +6,8 @@
 
 (4) Amennyiben a Jöt. 119. § (9) bekezdésben meghatározott határidő eredménytelenül telik el, a Jöt. 119. § (6) bekezdés a) és c) pontja alapján kiadni rendelt, de át nem vett lefoglalt dolog, eszköz értékesítéséből befolyt ellenértéket az (1) bekezdés rendelkezései szerint kell elszámolni, és az ott meghatározott költségek és köztartozások levonását követően fennmaradt összeg adható át a magyar állam számára. A Jöt. 119. § (6) bekezdés e) pontja alapján kiadni rendelt, de át nem vett lefoglalt eszköz értékesítéséből befolyt ellenértékből a jövedéki adó-, bírság- és pótléktartozások összege nem vonható le.
 
-(5)[^509] A Jöt. 120. § (7) bekezdés c) pontja alá tartozó, megsemmisítésre kerülő termék, eszköz megsemmisítéséről készített jegyzőkönyvhöz a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak azokat az iratokat is csatolnia kell, amelyek az értékesítés eredménytelenségét bizonyítják.
+(5)[^511] A Jöt. 120. § (7) bekezdés c) pontja alá tartozó, megsemmisítésre kerülő termék, eszköz megsemmisítéséről készített jegyzőkönyvhöz a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak azokat az iratokat is csatolnia kell, amelyek az értékesítés eredménytelenségét bizonyítják.
 
-[^507]: A 122. § a 40/2007. (XII. 29.) PM rendelet 34. §-ával megállapított szöveg.
-[^508]: A 122. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^509]: A 122. § (5) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (8) bekezdése szerint módosított szöveg.
+[^509]: A 122. § a 40/2007. (XII. 29.) PM rendelet 34. §-ával megállapított szöveg.
+[^510]: A 122. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^511]: A 122. § (5) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (8) bekezdése szerint módosított szöveg.

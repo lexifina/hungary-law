@@ -26,8 +26,8 @@
 
 | Hely: Dátum: |  | Aláírás |  | Bélyegző |
 
-15. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^568]
+15. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^570]
 
 A bejegyzett kereskedő szállítási nyilvántartása
 
-[^568]: A 15. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (8) bekezdése szerint módosított szöveg.
+[^570]: A 15. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (8) bekezdése szerint módosított szöveg.

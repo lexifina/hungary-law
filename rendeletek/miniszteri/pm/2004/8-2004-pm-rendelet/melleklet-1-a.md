@@ -204,6 +204,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^552]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^554]
 
-[^552]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be.
+[^554]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be.
