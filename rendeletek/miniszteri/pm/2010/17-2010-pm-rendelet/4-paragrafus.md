@@ -1,0 +1,1 @@
+## 3. § A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény egyes rendelkezéseinek végrehajtásáról szóló 8/2004. (III. 10.) PM rendelet (a továbbiakban: R2.) 29. § (4) bekezdés c) pontjában a „bankszámlaszámát” szövegrész helyébe a „fizetési számlaszámát” szöveg lép.

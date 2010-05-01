@@ -1,0 +1,1 @@
+## „12/A. § Az egyes pénzügyminiszteri rendeletek módosításáról szóló 17/2010. (IV. 28.) PM rendelet 2. § (2) bekezdésével módosított 12. § (1) bekezdést a hatálybalépését követően benyújtott kérelmek esetében kell alkalmazni.”
