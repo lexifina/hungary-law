@@ -1,10 +1,4 @@
-4. § (1) Önkéntes lehet
-
-a) a cselekvőképes személy,
-
-b) a korlátozottan cselekvőképes személy,
-
-c) a tizedik életévét betöltött, kiskorúsága miatt cselekvőképtelen személy.
+4. § (1) Önkéntes az lehet, aki tizedik életévét betöltötte.
 
 (2) Az önkéntes elláthat minden olyan tevékenységet,
 
