@@ -1,0 +1,1 @@
+## 12. § A Hivatal a HTM törvény 8. § (1) bekezdése szerinti esetekben hozott határozatainak jogerőre emelkedését követő 90 napon belül határoz a jogosulatlan beszámítás megállapításáról és a visszafizetendő állami támogatások csökkentésére jogosulatlanul beszámított átállási költség visszafizetéséről.

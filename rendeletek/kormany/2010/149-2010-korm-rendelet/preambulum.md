@@ -1,0 +1,1 @@
+A Kormány villamos energiával összefüggő egyes kérdésekről szóló 2008. évi LXX. törvény 11. § (1) bekezdés a) pont aa) és ab) alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
