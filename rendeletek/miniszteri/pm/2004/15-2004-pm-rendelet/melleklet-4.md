@@ -182,6 +182,6 @@
 
 ## A korrekciós bizonylatot 2 példányban kell kitölteni, amelynek egyik példányát a vámhatóság leigazolja, majd visszaküldi a kérelmezőnek.
 
-4. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^148]
+4. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^149]
 
-[^148]: A 4. számú melléklet a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés c) pontja, a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^149]: A 4. számú melléklet a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés c) pontja, a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

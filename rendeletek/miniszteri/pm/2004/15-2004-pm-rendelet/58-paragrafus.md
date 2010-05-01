@@ -10,7 +10,7 @@ d) az a)–c) pontokban nem említett tárolás esetén megkezdett 100 kg-onkén
 
 (2) Az (1) bekezdésében meghatározott díjat akkor kell a vámtartozással egyidejűleg megfizetni vagy elszámolni, ha a vámhatóság által üzemeltetett raktárból való kitárolás szabadforgalomba bocsátással történik, vagy ha az árut a vámhatóság értékesíti. Amennyiben az árunak a vámhatóság által üzemeltetett raktárból való kitárolása olyan vámeljárásban történik, amely vámfizetéssel nem jár, a raktárdíjat az árunak a vámhatóság által üzemeltetett raktárból való kitárolása előtt meg kell fizetni.
 
-(3)[^76]
+(3)[^77]
 
 (4) Mentesek a raktárdíj fizetési kötelezettsége alól a kizárólag a vámhatóság által üzemeltetett raktárban raktározott alábbi áruk:
 
@@ -32,4 +32,4 @@ A c) pont alkalmazásában a kiadást elrendelő jogerős határozat kézbesít�
 
 (6) A Vám- és Pénzügyőrség által kezelt elektronikus adatbázisokban tárolt közérdekű adatok költségtérítés, illetve az adatbázisok felépítését leíró műszaki információkat tartalmazó dokumentációk díjazás ellenében – figyelembe véve az adat- és titokvédelmi jogszabályok rendelkezéseit – hozzáférhetők. A rendszeres információszolgáltatás a Vám- és Pénzügyőrséggel kötött külön szerződés alapján, díjazás ellenében lehetséges. A hozzáférhetővé tett adatok, valamint műszaki dokumentációk körét, illetve az eseti adat- és információszolgáltatás ellenértékét az országos parancsnok tájékoztatóban teszi közzé. A rendszeres adat- és információszolgáltatás esetén fizetendő ellenérték mértékét a vonatkozó ,,általános szerződési feltételek'' határozza meg.
 
-[^76]: Az 58. § (3) bekezdését a 45/2004. (XII. 29.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
+[^77]: Az 58. § (3) bekezdését a 45/2004. (XII. 29.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.

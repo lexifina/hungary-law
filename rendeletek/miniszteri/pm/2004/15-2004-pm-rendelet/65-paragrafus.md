@@ -2,7 +2,7 @@
 
 ## XI. ADATFELDOLGOZÁSI TECHNIKA ALKALMAZÁSÁHOZ SZÜKSÉGES FELTÉTELEK
 
-65. §[^94] (1) Az EK végrehajtási rendelet 372. cikk (1) bekezdés f) pontja szerinti egyszerűsített árutovábbítási eljárás alá vont árukat a 17. számú Vám- és Pénzügyőri Hivatal engedélyével a fuvarozó a rendeltetési vám- és pénzügyőri hivatalban elektronikusan is vám elé állíthatja.
+65. §[^95] (1) Az EK végrehajtási rendelet 372. cikk (1) bekezdés f) pontja szerinti egyszerűsített árutovábbítási eljárás alá vont árukat a 17. számú Vám- és Pénzügyőri Hivatal engedélyével a fuvarozó a rendeltetési vám- és pénzügyőri hivatalban elektronikusan is vám elé állíthatja.
 
 (2) A 17. számú Vám- és Pénzügyőri Hivatal elektronikus vám elé állítást annak engedélyez, aki a vámhatóság által kiadott, a vámhatóság honlapján közzétett technikai leírás alapján az elektronikus bejelentés feltételeit a bevizsgálási eljárás során teljesíti.
 
@@ -28,4 +28,4 @@ b) az engedélyezés feltételei már nem állnak fenn, továbbá
 
 c) az engedélyes jogszabályi kötelezettségeinek a vámhatóság figyelmeztetését követően ismételten nem tesz eleget.
 
-[^94]: A 65. § a 28/2009. (XI. 30.) PM rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 17. §-át.
+[^95]: A 65. § a 28/2009. (XI. 30.) PM rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 17. §-át.

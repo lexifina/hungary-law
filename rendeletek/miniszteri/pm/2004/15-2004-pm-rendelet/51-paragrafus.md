@@ -34,9 +34,10 @@ g) a fizetési kötelezettséget megállapító határozat számát.
 
 (9) A befizetési bizonylatnak nem kell tartalmaznia a (8) bekezdés e) és g) pontjában foglalt adatokat, ha a halasztott vámfizetésről szóló engedélye – az ügyfél kérelmére – az összevont fizetés lehetőségét tartalmazza.
 
-(10) A számlavezető vámszerv a vámadós javára keletkezett visszafizetéseket csak a nála bejelentett bankszámlákra, vagy bankszámlával nem rendelkező személy esetén annak bejelentett lakcímére utalhatja vissza.
+(10)[^55] A számlavezető vámszerv a vámadós javára keletkezett visszafizetéseket csak a nála bejelentett fizetési számlákra, vagy fizetési számlával nem rendelkező személy esetén annak bejelentett lakcímére fizetési számláról történő készpénz-kifizetésként utalhatja vissza.
 
 [^51]: Az 50/A. §-t az 51/2005. (XII. 28.) PM rendelet 4. §-a iktatta be.
 [^52]: Az 51. § (2) bekezdése a 44/2008. (XII. 31.) PM rendelet 27. § (10) és (13) bekezdése szerint módosított szöveg.
 [^53]: Az 51. § (4) bekezdése a 44/2008. (XII. 31.) PM rendelet 2. §-ával megállapított szöveg.
 [^54]: Az 51. § (7) bekezdése a 44/2008. (XII. 31.) PM rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^55]: Az 51. § (10) bekezdése a 17/2010. (IV. 28.) PM rendelet 4. §-a szerint módosított szöveg.

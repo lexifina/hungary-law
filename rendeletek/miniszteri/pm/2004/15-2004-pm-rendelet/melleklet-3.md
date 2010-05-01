@@ -72,6 +72,6 @@
 
 | 10032000-01501449 | VPOP fémkereskedelmi letétek elszámolási számla |
 
-3. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^147]
+3. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^148]
 
-[^147]: A 3. számú melléklet a 48/2007. (XII. 29.) PM rendelet 11. § (3) bekezdésével megállapított és a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés b) pontja szerint módosított szöveg.
+[^148]: A 3. számú melléklet a 48/2007. (XII. 29.) PM rendelet 11. § (3) bekezdésével megállapított és a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés b) pontja szerint módosított szöveg.
