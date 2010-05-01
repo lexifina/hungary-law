@@ -6,13 +6,13 @@ a) Finanszírozási terv: az 1. § (2) bekezdésében megjelölt eljárások ker
 
 b) Finanszírozási igény: az irányító hatóság részére éves és havi rendszerességgel összeállított finanszírozási igény, amely tartalmazza a fejezeti költségvetés terhére kifizetendő támogatások összegeit, és amelyeknek a rendelkezésre állását a Fejezeti kezelésű előirányzat-felhasználási keretszámlán elsősorban a megjelölt alapokból, annak hiányában pedig – visszapótlási kötelezettséggel – a Kincstári Egységes Számla (a továbbiakban: KESZ) terhére biztosítani szükséges.
 
-c)[^2] Forráslehívás: az a tevékenység, amelynek során biztosítják a támogatás összegének rendelkezésre állását a lebonyolítási (pénzforgalmi) számlákon annak érdekében, hogy az ügyfelek számára megállapított támogatási összege, illetve támogatási előleg átutalásra kerüljön.
+c)[^3] Forráslehívás: az a tevékenység, amelynek során biztosítják a támogatás összegének rendelkezésre állását a lebonyolítási (pénzforgalmi) számlákon annak érdekében, hogy az ügyfelek számára megállapított támogatási összege, illetve támogatási előleg átutalásra kerüljön.
 
 d) Támogatási előleg: az ügyfelek az alapokból finanszírozott intézkedések jogcímeiről rendelkező közösségi, illetve nemzeti jogszabályok előírásai szerint – megfelelő biztosíték ellenében – folyósított összeg.
 
-e) Kiadásigazoló nyilatkozat: az EMVA és EMGA esetében összeállított nyilatkozat, amelynek keretében benyújtja támogatásigénylését az Európai Unió Bizottsága felé.
+e)[^4] Kiadásigazoló nyilatkozat: az EMVA és EMGA esetében összeállított nyilatkozat, amelynek keretében az MVH benyújtja támogatás igénylését az Európai Bizottsághoz.
 
-f) EHA költségnyilatkozat: az a nyilatkozat, melynek keretében benyújtja támogatásigénylését az Európai Unió Bizottsága felé.
+f)[^5] EHA költségnyilatkozat: az EHA esetében összeállított nyilatkozat, amelynek keretében az igazoló hatóság benyújtja támogatás igénylését az Európai Bizottsághoz.
 
 g) Közösségi hozzájárulás: az alapokból finanszírozott intézkedések esetén az Európai Bizottság által átutalt összegek.
 
@@ -32,15 +32,22 @@ n) Magántárolás támogatása: a túltermelés okozta termékfelesleg piacra j
 
 o) EU költségvetési nómenklatúra: az EMGA-ból történő kifizetésekhez, elszámolásokhoz és jelentésekhez kapcsolódó költségvetési kódstruktúra.
 
-p)[^3] Támogatási irat: az MVH által kibocsátott az intézkedésben való részvételi jogosultságot, a támogatás mértékét, illetve az intézkedésben való részvétel feltételeit megállapító határozat.
+p)[^6] Támogatási irat: az MVH által kibocsátott az intézkedésben való részvételi jogosultságot, a támogatás mértékét, illetve az intézkedésben való részvétel feltételeit megállapító határozat.
 
 q) Információs Rendszer (a továbbiakban: IR): az MVH által fejlesztett és működtetett, az alapok, valamint hazai forrásból megvalósuló programokkal és projektekkel kapcsolatos menedzsment (végrehajtási és kifizetési) és monitoring, illetve ellenőrzési, szabálytalanságkezelési és számviteli feladatokat támogató információ-technológiai rendszer.
 
-r) Forrásgazda: az agrárpolitikáért felelős miniszter.
+r)[^7]
 
-s) Négy szem elve: a feladatok elkülönítését jelenti úgy, hogy egy személy az EMGA, illetve az EMVA terhére írt összegek kifizetésének engedélyezési, kifizetési vagy könyvelési feladatait láthatja el úgy, hogy annak elvégzését egy arra kijelölt másik személy felügyeli.
+s)[^8] Négy szem elve: a feladatok elkülönítését jelenti, amelynek eredményeképpen egy személy az EMGA, az EMVA, valamint az EHA terhére írt összegek kifizetésének engedélyezési, kifizetési vagy könyvelési feladatait úgy látja el, hogy annak elvégzését egy arra kijelölt másik személy felügyeli.
 
 t) Igazoló nyilatkozat: a kifizető ügynökségnek a 885/2006/EK bizottsági rendelet 3. cikke szerinti, az adott pénzügyi évre vonatkozó beszámolójához csatolt nyilatkozata.
 
-[^2]: A 2. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 535. §-a, a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
-[^3]: A 2. § p) pontja a 182/2009. (IX. 10.) Korm. rendelet 535. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+u)[^9] Támogatásra jogosult költség: az ügyfél által az alapokból finanszírozott műveletek végrehajtása érdekében kifizetett kiadások, költségek, amelyek az alapok végrehajtását szabályozó közösségi, nemzeti jogszabályokban vagy programokban támogatásra jogosultként kerültek meghatározásra.
+
+[^3]: A 2. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 535. §-a, a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. § e) pontja a 138/2010. (IV. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § f) pontja a 138/2010. (IV. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § p) pontja a 182/2009. (IX. 10.) Korm. rendelet 535. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 2. § r) pontját a 138/2010. (IV. 28.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^8]: A 2. § s) pontja a 138/2010. (IV. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § u) pontját a 138/2010. (IV. 28.) Korm. rendelet 2. § (3) bekezdése iktatta be.

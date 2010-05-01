@@ -6,7 +6,7 @@
 
 1. § (1) E rendelet hatálya kiterjed az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA), az Európai Halászati Alap (a továbbiakban: EHA), valamint az Európai Mezőgazdasági Garancia Alap (a továbbiakban: EMGA), (a továbbiakban együtt: alapok) által finanszírozott programok és intézkedések pénzügyi tervezésében, pénzügyi és számviteli lebonyolításában részt vevő alábbi szervekre:
 
-a) a földművelésügyi és vidékfejlesztési miniszterre mint forrásgazdára, felügyeleti szervre és irányító hatóságra,
+a)[^1] a földművelésügyi és vidékfejlesztési miniszterre mint forrásgazdára, felügyeleti szervre, irányító hatóságra és igazoló hatóságra,
 
 b) a Mezőgazdasági és Vidékfejlesztési Hivatalra (a továbbiakban: MVH) mint mezőgazdasági és vidékfejlesztési támogatási szervre,
 
@@ -18,7 +18,7 @@ e) az Adó- és Pénzügyi Ellenőrzési Hivatalra (a továbbiakban: állami ad�
 
 f) a törvény 11. §-a (3) bekezdésének b)–f) pontjaiban meghatározott végrehajtási feladatot ellátó szervekre, illetve szervezetekre,
 
-g)[^1] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
+g)[^2] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
 
 (2) E rendelet hatálya kiterjed továbbá:
 
@@ -48,4 +48,5 @@ da) árfolyamnyereségek,
 
 db) a központi intervenciós intézkedések költségei és az EU átalány közötti különbség.
 
-[^1]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 138/2010. (IV. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.

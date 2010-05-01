@@ -2,4 +2,6 @@
 
 (2) A szabálytalanságok és csalások megelőzése érdekében az MVH saját szervezetén belül kijelöl egy szervezeti egységet a VPOP OLAF Koordinációs Irodával való együttműködés biztosítására.
 
-(3) Az MVH feladata annak biztosítása, hogy a már kifizetett, lehívásra került, de szabálytalanul felhasznált támogatási összegek az ügyfelektől behajtásra kerüljenek. A behajtott összeg közösségi támogatási részét az MVH az Európai Bizottsággal, míg a nemzeti támogatási részét az irányító hatósággal számolja el.
+(3)[^57] Az MVH feladata annak biztosítása, hogy a már kifizetett, lehívásra került, de szabálytalanul felhasznált támogatási összegek az ügyfelektől behajtásra kerüljenek. A behajtott összeg közösségi támogatási részét az MVH az Európai Bizottsággal, míg a nemzeti támogatási részét a forrásgazdával számolja el.
+
+[^57]: A 23. § (3) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 18. § j) pontja szerint módosított szöveg.
