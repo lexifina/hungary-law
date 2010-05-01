@@ -120,7 +120,9 @@ történő átcsoportosításáról.
 
 R. 5/F. §[^42] Ha a korkedvezményre jogosító munkakörben végzett tevékenység nem áll fenn a teljes időszakban (pl. a teljes naptári hónapban, naptári évben), amelyre a jövedelmet kifizetik vagy juttatják, akkor a korkedvezmény-biztosítási járulék alapjaként a jövedelem (társadalombiztosítási járulékalap) azon időszakra (naptári napokra) jutó arányos részét kell figyelembe venni, amely alatt a biztosított korkedvezményre jogosultságot szerez.
 
-R. 5/G. §[^43] A Tbj. 25/A. §-a b) pontjának alkalmazásában nem minősül munkaviszonnyal rendelkezőnek a munkavállaló, ha fizetés nélküli szabadságon van.
+R. 5/G. §[^43] (1) A Tbj. 25/A. § b) pontja alkalmazásában nem minősül munkaviszonnyal rendelkezőnek a munkavállaló, ha fizetés nélküli szabadságon van.
+
+(2) A Tbj. 25/A. § c) pontja alkalmazásában öregségi nyugdíjkorhatár alatt a hivatásos állomány tagjai esetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben és a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvényben meghatározott hivatásos szolgálat felső korhatárát kell érteni.
 
 R. 6. § (1)[^44] A társas, illetve az egyéni vállalkozó járulékfizetési alsó határának kiszámításánál havonta meg kell állapítani, hogy a tárgyév során már kiosztott jövedelem, illetve az elszámolt vállalkozói kivét havi átlagban eléri-e a tárgyév január hónapjától, illetőleg a vállalkozói tevékenység kezdetétől a tárgyhónapig számított, a Tbj. 27. § (1)–(2) bekezdésében és 29. § (1)–(3) bekezdésében meghatározott tevékenységre jellemző keresetet, illetőleg bejelentés teljesítése esetén a minimálbér összegét. Ha a kiosztott jövedelem, illetve vállalkozói kivét havi átlagos összege kevesebb a tevékenységre jellemző keresetnél, illetőleg a minimálbér összegénél, a járulékot a különbözet után is meg kell fizetni.
 
@@ -228,7 +230,9 @@ R. 14. §[^88]
 
 R. 15. §[^89]
 
-R. 16. §[^90] A külföldi pénznemben keletkezett járulékalapot képező jövedelmet a Magyar Nemzeti Bank (a továbbiakban: MNB) hivatalos, a megszerzés napját megelőző hónap 15. napján érvényes devizaárfolyamának alapulvételével kell forintra átszámítani. Az olyan külföldi pénznem esetében, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot kell a forintra történő átszámításhoz figyelembe venni.
+R. 16. §[^90] (1) A (2) bekezdésben nem említett esetben a külföldi pénznemben keletkezett bevételből a járulékalapot a Magyar Nemzeti Bank (a továbbiakban: MNB) hivatalos – a jövedelem megszerzésének napját megelőző hónap 15. napján érvényes – devizaárfolyamának alkalmazásával kell forintra átszámítani. Olyan külföldi pénznem esetén, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot kell a forintra történő átszámításhoz figyelembe venni.
+
+(2) Az (1) bekezdés rendelkezésétől eltérően, ha a külföldi pénznemben keletkezett bevételből az Szja tv. szerinti adóelőleg-alap számításnál figyelembe vett jövedelem képezi a járulékalapot, a forintra történő átszámítás megegyezik az adóelőleg-alap számításnál figyelembe vett jövedelem megállapításakor az Szja tv. szabályai szerint alkalmazott átszámítással.
 
 R. 17. §[^91] (1)[^92] A Tbj. 46. §-ának (1) bekezdése szerinti nyilvántartás tartalmazza a biztosítással járó jogviszony megnevezését, a biztosítási kötelezettség kezdetét, továbbá az igazolás átvételének elismerését.
 
@@ -390,35 +394,179 @@ R. 22. § (1)[^132] A Magyar Államkincstár Regionális Igazgatósága a Tbj.
 
 (7)[^138] Az (1)–(3) bekezdés szerinti bejelentést elektronikus úton vagy gépi adathordozón, a (4) bekezdés szerinti bejelentést az erre a célra rendszeresített nyomtatványon kell teljesíteni.
 
-(8)[^139]
+(8)[^139] Az OEP a nyilvántartása szerint taj-számmal rendelkező személyek természetes személyazonosító adatairól, lakcíméről, taj-számáról, valamint azok változásáról adatot szolgáltat az ONYF-nek. Az adatok átadásának módjáról az OEP és az ONYF megállapodást köt.
 
 (9)[^140] Az egészségügyi szolgáltatásra való jogosultság megállapítása érdekében a Tbj. 39. §-ának (2) bekezdése szerint járulékfizetésre kötelezett személyekre vonatkozó adatok átadásának módjáról az állami adóhatóság és az OEP megállapodást köt.
 
 (10)[^141] Az OEP a Tbj. 54. § (2) bekezdésének a) pontja és (3) bekezdése szerinti ellenőrzése során a biztosítási jogviszony utólagos megállapításáról vagy törléséről határozatot hoznak, ha a járulék utólagos megállapítására elévülés miatt részben vagy egészben már nincs lehetőség.
 
-R. 23–24. §[^142]
+R. 23. §[^142] (1) A 24–27/B. § rendelkezéseit
 
-R. 25. §[^143]
+a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet, a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések által pusztán állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi rendelet,
 
-R. 26. §[^144]
+b) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet, a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet
 
-R. 27. §[^145] Az OEP a nyilvántartása szerint TAJ-számmal rendelkező személyek TAJ-számáról, személyi- és lakcímadatairól, valamint azok változásáról adatot szolgáltat az ONYF-nek. Az adatok átadásának módjáról az OEP és az ONYF megállapodást köt.
+[a továbbiakban a) és b) pont együtt: koordinációs rendeletek] és
 
-R. 28. § (1)[^146] Ez a rendelet – a (2) bekezdésben foglalt eltéréssel – 1998. január 1-jén lép hatályba.
+c) a Magyar Köztársaság által kötött szociális biztonsági egyezmény (a továbbiakban: egyezmény)
+
+által előírt, az alkalmazandó jog meghatározására irányuló eljárásban kell alkalmazni.
+
+(2) A 26–27/B. § alkalmazásában
+
+a) munkavállaló: a Tbj. 5. § (1) bekezdés a), b), g), h) pontjában és (2) bekezdésében meghatározott jogviszonyban álló személy, a Tbj. szerinti társas vállalkozó, és a külföldi jog szerint annak megfelelő jogviszonyban álló személy,
+
+b) munkaviszony: az a) pont szerinti személy munkavégzésre irányuló jogviszonya,
+
+c) munkáltató: az a) pont szerinti személy foglalkoztatója,
+
+d) önálló vállalkozó: a Tbj. szerinti egyéni vállalkozó, a Tbj. 5. § (1) bekezdés i) pontja szerinti mezőgazdasági őstermelő, és a külföldi jog szerint annak megfelelő személy.
+
+R. 24. §[^143] (1) A koordinációs rendeletek és az egyezmény rendelkezései szerinti kiküldetés (a továbbiakban: kiküldetés) esetén az alkalmazandó jog meghatározása érdekében a munkáltató – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – a székhelye szerint illetékes REP-nek az alábbi adatokat szolgáltatja:
+
+a) munkáltató neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
+
+b) a kiküldött munkavállaló természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, a kérelmet benyújtó munkáltatóval fennálló munkaviszony kezdete,
+
+c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám (egyéni vállalkozó esetén szakmakód), amelynek megfelelő tevékenységre a kiküldött munkavállalót a kiküldetés ideje alatt foglalkoztatja,
+
+d) a külföldi vállalkozás (személy) neve és címe, amelynél a kiküldött munkát végez, vagy ennek hiányában a külföldi foglalkoztatás helye (címe), és
+
+e) a kiküldetés tervezett időtartama.
+
+(2) A munkáltató nyilatkozik továbbá arról, hogy
+
+a) a munkavállaló a kiküldetés kezdőnapját megelőzően rendelkezik legalább 30 napi biztosítással,
+
+b) a kiküldetés időtartama alatt folyamatosan fenntartja a munkaviszonyt a kiküldött munkavállalóval,
+
+c) a kiküldetés időtartama alatt is folyamatosan teljesíti a járulékkötelezettségeket,
+
+d) a munkavállalót nem abból a célból küldi ki, hogy egy korábban kiküldött munkavállalót felváltson,
+
+e) a kiküldetési időszak lejártával biztosítja a munkavállaló továbbfoglalkoztatását,
+
+f) a kiküldetés helye szerinti államban a magyarországi tevékenységéhez hasonló, de legalább azzal – a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 1. melléklete szerint – azonos nemzetgazdasági ágazatba tartozó tevékenységet folytat,
+
+g) Magyarországon jelentős gazdasági tevékenységet folytat, és
+
+h) belföldön nem csak a vállalat irányításában vagy igazgatásában dolgozó irodai alkalmazottakat foglalkoztat.
+
+(3) A jelentős belföldi gazdasági tevékenység alátámasztására a munkáltató közli
+
+a) külföldi telephellyel rendelkező vállalkozás esetén a kiküldetést megelőző adóévre vonatkozó összes bevételén belül a nem külföldi gazdálkodásból származó összes bevételeit,
+
+b) egyszerűsített beszámoló készítésére kötelezett gazdálkodó, egyéni vállalkozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adó hatálya alá tartozó adóalany esetén az előző adóévi összes bevételén belül a belföldi tevékenységből származó összes bevételeit.
+
+R. 25. §[^144] (1) Kiküldetésnél a magyar jog alkalmazandó jogként való meghatározásának feltétele, hogy a kiküldő munkáltató jelentős gazdasági tevékenységet folytasson belföldön.
+
+(2) Jelentős belföldi gazdasági tevékenység akkor áll fenn, ha
+
+a) a munkáltató vállalja, hogy a kiküldetés teljes időtartama alatt a belföldi és a külföldi gazdasági tevékenység (termelés, forgalmazás és egyéb szolgáltatói tevékenység) folytatása során foglalkoztatott munkavállalók átlagos állományi létszámán belül a belföldön foglalkoztatottak aránya eléri, vagy
+
+b) a 24. § (3) bekezdés a) pontjában említett nem külföldi gazdálkodásból származó bevétel vagy a 24. § (3) bekezdés b) pontjában említett belföldi tevékenységből származó bevétel összes bevételen belüli aránya elérte
+
+a 25 százalékot.
+
+(3) A magyar jog alkalmazandó jogként meghatározható – a (2) bekezdésben meghatározott feltételek hiányában – akkor is, ha a munkáltató olyan tényeket, körülményeket igazol, amelyből a jelentős belföldi gazdasági tevékenység valószínűsíthető (így különösen, ha a vállalkozás belföldön folyamatos termelőtevékenységet végez).
+
+(4) A jelentős gazdasági tevékenységgel kapcsolatos feltételt teljesítettnek kell tekinteni akkor is, ha a munkáltató
+
+a) legalább 25 százalékos tulajdoni hányaddal rendelkezik egy olyan vállalkozásban, amelynél teljesül a jelentős gazdasági tevékenység feltétele, vagy
+
+b) a munkáltató jogelődje teljesíti a jelentős gazdasági tevékenység feltételét.
+
+(5) Nem kell a jelentős gazdasági tevékenységet vizsgálni, ha a munkáltató a munkavállalót a számvitelről szóló törvény szerinti kapcsolt vállalkozásához küldi ki.
+
+(6) Nem állapítható meg a magyar jog alkalmazandó jogként, ha
+
+a) a foglalkoztató
+
+aa) a cégbíróság által jogerősen be nem jegyzett előtársaság, vagy
+
+ab) a kiküldetés teljes időtartama alatt csak olyan munkavállalókat foglalkoztat belföldön, akik a cég irányításával vagy adminisztratív tevékenységével kapcsolatos feladatokat látnak el, vagy
+
+b) a munkavállaló
+
+ba) nem rendelkezik a kiküldetés kezdőnapját megelőzően legalább 30 napi biztosítással,
+
+bb) munkaviszonyának létesítésére azért került sor, hogy a kiküldetés helye szerinti államban a munkáltató által korábban kiküldött munkavállalót felváltson,
+
+bc) korábban ugyanabban az államban volt – a koordinációs rendeletekben, illetve egyezményben – a kiküldetésre meghatározott leghosszabb időtartamig kiküldött, és a korábbi kiküldetés lejártától nem telt el 60 nap, vagy
+
+bd) kiküldetésére azért kerül sor, hogy a kiküldetés helye szerinti vállalkozás a munkavállalót egy másik vállalkozás rendelkezésére bocsássa, vagy másik tagállamba küldje tovább.
+
+R. 26. §[^145] (1) Ha az önálló vállalkozó belföldön folytatott vállalkozói tevékenységét átmenetileg a koordinációs rendeletek hatálya alá tartozó másik tagállamban vagy egyezményben részes másik államban (a továbbiakban együtt: másik állam) folytatja, a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy vállalkozásának székhelye szerint illetékes REP-nek – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
+
+a) természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, vállalkozásának nyilvántartási száma,
+
+b) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett szakmakód, amelynek megfelelő tevékenységet a másik államban folytat,
+
+c) annak a külföldi vállalkozásnak (személynek) a neve és címe, amelynél munkát végez, vagy ennek hiányában a külföldön folytatott tevékenység helye (címe), és
+
+d) a másik államban történő munkavégzés tervezett időtartama.
+
+(2) A koordinációs rendeletekben, illetve egyezményben előírt feltételek teljesítése esetén a REP alkalmazandó jogként meghatározza a magyar jogot és ezt igazolja.
+
+R. 27. §[^146] (1) Ha a munkavállaló, az önálló vállalkozó belföldi munkavégzése mellett, azzal egyidejűleg munkavállalóként vagy önálló vállalkozóként másik államban is végez munkát, a koordinációs rendeletek vagy az egyezmény rendelkezései alapján a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy munkáltatójának székhelye szerint illetékes REP-nek – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
+
+a) természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, az önálló vállalkozó nyilvántartási száma,
+
+b) a munkáltató(k) neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
+
+c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám vagy szakmakód, amelynek megfelelő tevékenységet végez a munkavállaló a külföldi munkáltató részére, illetve amelynek megfelelő tevékenységet végez az önálló vállalkozó a másik államban,
+
+d) ha a munkavállaló belföldön és a másik államban is munkavállaló, a belföldi és külföldi munkaviszonyához kapcsolódó munkaidő mértéke és munkabér (egyéb díjazás) összege, és azok egymáshoz viszonyított aránya, és
+
+e) ha az önálló vállalkozó belföldön és a másik államban is önálló vállalkozó, a belföldön és külföldön elért vállalkozói bevétel összege, és azok egymáshoz viszonyított aránya.
+
+(2) Az (1) bekezdés szerinti adatok igazolására a munkavállalónak csatolnia kell a másik államban teljesítendő munkavégzés alapjául szolgáló, a munkavégzésre irányuló jogviszony létesítéséről szóló szerződést, az önálló vállalkozónak az e tevékenysége folytatásához szükséges, vagy arra való jogosultságot igazoló okiratot.
+
+(3) Ha a munkavállaló, az önálló vállalkozó belföldön és a másik államban is munkavállaló, illetve önálló vállalkozó, a magyar jog alkalmazásának megállapítására a belföldön fennálló lakóhely alapján akkor kerülhet sor, ha
+
+a) a munkavállaló belföldön fennálló munkaviszonyához kapcsolódó munkaidő vagy munkabér (egyéb díjazás) eléri az összes munkaidő, illetve munkabér (díjazás) 25 százalékát,
+
+b) az önálló vállalkozó belföldön elért bevétele eléri az összes vállalkozói bevételének 25 százalékát.
+
+R. 27/A. §[^147] (1) Ha a REP alkalmazandó jogként a magyar jogot megállapítja, erről – az erre irányuló kérelem benyújtásától számított 22 munkanapon belül – hatósági bizonyítványt (a továbbiakban: igazolás) állít ki, és meghatározza annak időbeli hatályát és feltételeit. Az igazolás tanúsítja, hogy a munkavállaló, önálló vállalkozó a másik államban történő munkavégzése idején is a magyar társadalombiztosítási jogszabályok hatálya alatt áll.
+
+(2) Ha a korábbi kiküldetés lejártát követő 60 napon belül a munkáltató ugyanazon munkavállalóját ugyanazon államba kívánja kiküldeni, a magyar jog akkor alkalmazható az újabb kiküldetésre, ha annak időtartama a korábbi kiküldetéssel együtt sem haladja meg a koordinációs rendeletekben, illetve az egyezményben meghatározott leghosszabb időtartamot.
+
+(3) Ha a kiküldetés legfeljebb 2 hónapig megszakad, azt továbbra is folyamatos kiküldetésnek kell tekinteni.
+
+(4) Ha a koordinációs rendeletek szerinti kiküldetés egymást követően több államba történik, az alkalmazandó jog elbírálása és az igazolás kiállítása államonként külön-külön történik.
+
+(5) Ha az alkalmazandó jog meghatározásának és az arról szóló igazolás kiadásának alapjául szolgáló körülményekben olyan változás következik be, amely miatt a biztosítási kötelezettség már nem áll fenn, vagy nem a magyar jog alapján áll fenn, vagy pedig érinti az igazolás hatályát (így különösen, ha a kiküldetés tervezett időtartama alatt a munkaviszony szünetel vagy megszűnik, vagy az önálló vállalkozó másik államban folytatott tevékenységét megszünteti), erről a munkáltató és a munkavállaló, illetve az önálló vállalkozó haladéktalanul tájékoztatja a REP-et, amely az igazolást a változás napjától hatálytalanítja.
+
+(6) Ha a REP hivatalból megállapítja, hogy a magyar jog alkalmazásának feltételei az igazolás kiadását követően már nem teljesülnek vagy eleve nem álltak fenn, az igazolást módosítja, vagy visszavonja, és kezdeményezi a másik állambeli biztosítási kötelezettség megállapítását.
+
+R. 27/B. §[^148] (1) A koordinációs rendeletekben és az egyezményben meghatározott szabályok alóli kivétel megállapítását a munkáltató és a munkavállaló, illetve az önálló vállalkozó az OEP-től kérheti.
+
+(2) A kivétel megállapításának akkor lehet helye, ha
+
+a) a kiküldetés, illetve az önálló vállalkozó átmeneti külföldi tevékenységének időtartama előre láthatóan meghaladja a koordinációs rendeletben, illetve az egyezményben meghatározott leghosszabb időtartamot,
+
+b) kivétel megállapítása hiányában a munkavállalóra, önálló vállalkozóra egyszerre több állam jogát kellene alkalmazni, vagy
+
+c) olyan egyéb, különös méltánylást érdemlő körülmény áll fenn, amely indokolttá teszi a kivétel megállapítását.
+
+(3) A kérelmező a kérelem benyújtásával egyidejűleg igazolja azokat a tényeket, körülményeket, amelyekre tekintettel a kivétel megállapítását kéri.
+
+R. 28. § (1)[^149] Ez a rendelet – a (2) bekezdésben foglalt eltéréssel – 1998. január 1-jén lép hatályba.
 
 (2) A 3–4. §-ok felhasználási szerződésre vonatkozó rendelkezései 1997. december 13-án lépnek hatályba azzal, hogy a biztosítás 1997. december 12-ét követő időtartamra vonatkozó elbírálásánál e rendelet rendelkezéseit kell alkalmazni akkor is, ha a felhasználási szerződés megkötésére az említett időpontot megelőzően került sor.
 
-(3)[^147]
+(3)[^150]
 
 (4) E rendelet szabályait az 1997. évi LXXIV. törvény hatálya alá tartozó munkáltatók esetében nem kell alkalmazni.
 
 (5) A Tbj. alkalmazásában a gyermekgondozási segély összege alatt a 10/1982. (IV. 16.) MT rendelet alapján folyósított gyermekgondozási segély esetén a jövedelempótlékkal növelt összeget kell érteni.
 
-(6)[^148] A 19. § szerinti adatszolgáltatási és megfizetési kötelezettséget a TÁH számfejtési körébe tartozó önkormányzatok és intézményeik vonatkozásában a TÁH-ok teljesítik.
+(6)[^151] A 19. § szerinti adatszolgáltatási és megfizetési kötelezettséget a TÁH számfejtési körébe tartozó önkormányzatok és intézményeik vonatkozásában a TÁH-ok teljesítik.
 
-R. 29. §[^149] (1)[^150] A foglalkoztató által külföldön foglalkoztatott biztosított esetében a foglalkoztatás 1996. december 31-e és 1999. január 1-je közötti időtartamának szolgálati időként történő elismerésére a megállapodás megkötésére irányuló kérelmet a foglalkoztató székhelye szerint illetékes nyugdíjbiztosítási igazgatási szervnél előterjeszteni. A kérelemben nyilatkozni kell arra vonatkozóan, hogy a foglalkoztató mely személy(ek) után, milyen időtartamra (naptári évre, évekre, hónapra, hónapokra, napra, napokra) kívánja a megállapodást megkötni, illetőleg vállalni a nyugdíjbiztosítási és a nyugdíjjárulék megfizetését. Az előterjesztett kérelemben közölni kell
+R. 29. §[^152] (1)[^153] A foglalkoztató által külföldön foglalkoztatott biztosított esetében a foglalkoztatás 1996. december 31-e és 1999. január 1-je közötti időtartamának szolgálati időként történő elismerésére a megállapodás megkötésére irányuló kérelmet a foglalkoztató székhelye szerint illetékes nyugdíjbiztosítási igazgatási szervnél előterjeszteni. A kérelemben nyilatkozni kell arra vonatkozóan, hogy a foglalkoztató mely személy(ek) után, milyen időtartamra (naptári évre, évekre, hónapra, hónapokra, napra, napokra) kívánja a megállapodást megkötni, illetőleg vállalni a nyugdíjbiztosítási és a nyugdíjjárulék megfizetését. Az előterjesztett kérelemben közölni kell
 
-a)[^151] a foglalkoztató nevét, címét, székhelyét (telephelyét), pénzforgalmi számlaszámát (törzsszámát), a társadalombiztosítás kifizetőhely működésének tényét,
+a)[^154] a foglalkoztató nevét, címét, székhelyét (telephelyét), pénzforgalmi számlaszámát (törzsszámát), a társadalombiztosítás kifizetőhely működésének tényét,
 
 b) a biztosítottak személyi adatait [TAJ szám, születési év, hónap, nap, neve (előző név), leánykori neve, anyja neve, születési helye], a fennálló (fennállt) biztosítási jogviszony időtartamát, ezen időtartamon belül a külföldi foglalkoztatás idejét és tényét, alkalmazásának minőségét,
 
@@ -430,7 +578,21 @@ d) a külföldön foglalkoztatott biztosított(ak) munkaszerződésében meghat�
 
 (3) A nyugdíjbiztosítási igazgatási szerv a megállapodás megkötése és a befizetett nyugdíjbiztosítási és nyugdíjjárulék alapján intézkedik a Nyugdíjbiztosítási Egyéni Nyilvántartólap kiállításáról.
 
-(4)[^152] Ha a megállapodást kötő foglalkoztató, vagy a biztosított a megállapodás alapján vállalt járulékfizetési kötelezettségét az előírt határnapig nem teljesíti, a megállapodás érvénytelenné válik. A járulékfizetés csak akkor tekinthető teljesítettnek, ha a megállapodás szerinti nyugdíjbiztosítási és nyugdíjjárulék megfizetése egyaránt megtörtént.
+(4)[^155] Ha a megállapodást kötő foglalkoztató, vagy a biztosított a megállapodás alapján vállalt járulékfizetési kötelezettségét az előírt határnapig nem teljesíti, a megállapodás érvénytelenné válik. A járulékfizetés csak akkor tekinthető teljesítettnek, ha a megállapodás szerinti nyugdíjbiztosítási és nyugdíjjárulék megfizetése egyaránt megtörtént.
+
+R. 30. §[^156] A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet módosításáról szóló 107/2010. (IV. 9.) Korm. rendelettel megállapított
+
+a) 5/G. § (2) bekezdése a munkavállaló választása szerint 2010. január 1-jétől visszamenőlegesen alkalmazható,
+
+b) 23–27/B. §-t a 2010. április 30-át követően indult ügyekben kell alkalmazni.
+
+R. 31. §[^157] Ez a rendelet a 23–27/B. §-ban
+
+a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet II. címének, a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet III. címének, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések által pusztán állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi rendelet 1. és 2. cikkének, és
+
+b) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet II. címének, a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet II. címének
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^1]: Az R. 1. §-át a 328/2004. (XII. 11.) Korm. rendelet 8. §-ának b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^2]: Az R. 1. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 333/2008. (XII. 30.) Korm. rendelet 1. §-a.
@@ -474,7 +636,7 @@ d) a külföldön foglalkoztatott biztosított(ak) munkaszerződésében meghat�
 [^40]: Az R. 5/D. § (6) bekezdését a 202/1999. (XII. 26.) Korm. rendelet 5. §-ának (2) bekezdése iktatta be, szövege a 328/2004. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^41]: Az R. 5/E. §-át a 174/2005. (IX. 1.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, e módosító rendelet 5. §-ának (2) bekezdése alapján a rendelkezést 2005. október 1-jétől kell alkalmazni.
 [^42]: Az R. 5/F. §-át a 366/2007. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
-[^43]: Az R. 5/G. §-át a 331/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^43]: Az R. 5/G. §-át a 331/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^44]: Az R. eredeti 6. §-ának megjelölését (1) bekezdésre változtatta a 278/1997. (XII. 23.) Korm. rendelet 1. §-a, szövege a 159/2006. (VII. 27.) Korm. rendelet 3. §-ával megállapított, a 328/2006. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének b) pontja, a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének c) pontja, a 331/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^45]: A 6. § (2) bekezdését a 278/1997. (XII. 23.) Korm. rendelet 1. §-a iktatta be, s egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva. A (2) bekezdés a 331/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^46]: Az R. 6/A. §-át a 294/2002. (XII. 27.) Korm. rendelet 7. §-a iktatta a szövegbe.
@@ -521,7 +683,7 @@ d) a külföldön foglalkoztatott biztosított(ak) munkaszerződésében meghat�
 [^87]: A 13/A. § (2) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
 [^88]: Az R. 14. §-a a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
 [^89]: Az R. 15. §-át a 221/1998. (XII. 30.) Korm. rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 259/2001. (XII. 19.) Korm. rendelet 6. §-a iktatta a szövegbe. A 258/2003. (XII. 24.) Korm. rendelet 13. §-a (1) bekezdésének b) pontja újra hatályon kívül helyezte.
-[^90]: A 16. §-t a 278/1997. ( XII. 23.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 129/2004. (IV. 29.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^90]: Az R. 16. §-át a 278/1997. ( XII. 23.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 129/2004. (IV. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^91]: Az R. 17. §-át a 202/1999. (XII. 26.) Korm. rendelet 19. §-a (1) bekezdésének b) pontja hatályon kívül helyezte. Újonnan megállapította a 208/2000. (XII. 11.) Korm. rendelet 6. §-a.
 [^92]: Az R. 17. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^93]: Az R. 17/A. §-át a 221/1998. (XII. 30.) Korm. rendelet 15. §-a iktatta be. A 17/A. § a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
@@ -570,17 +732,22 @@ d) a külföldön foglalkoztatott biztosított(ak) munkaszerződésében meghat�
 [^136]: Az R. 22. §-ának eredeti (4) bekezdés számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (5) bekezdésre változtatta. Az R. 22. § (5) bekezdése a 328/2004. (XII. 11.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja, a 159/2006. (VII. 27.) Korm. rendelet 18. § (2) bekezdésének a) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 20. pontja szerint módosított szöveg.
 [^137]: Az R. 22. §-a eredeti (5) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. § (1) bekezdése (6) bekezdésre változtatta. A (6) bekezdést a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
 [^138]: Az R. 22. §-a eredeti (6) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (7) bekezdésre változtatta. A (7) bekezdést a 174/2005. (IX. 1.) Korm. rendelet 5. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^139]: Az R. 22. §-ának (8) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének f) pontja.
+[^139]: Az R. 22. §-ának (8) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének f) pontja, újonnan a 107/2010. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
 [^140]: Az R. 22. §-ának (9) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be. Szövege a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
 [^141]: Az R. 22. §-ának (10) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 12. §-a iktatta be, szövege a 328/2004. (XII. 11.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 123–124. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^142]: Az R. 23–24. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte.
-[^143]: Az R. 25. §-át újonnan a 28/2007. (II. 28.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja.
-[^144]: Az R. 26. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte.
-[^145]: Az R. 27. §-át a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 28/2007. (II. 28.) Korm. rendelet 9. §-a iktatta be.
-[^146]: Az R. 28. § (1) bekezdés második–harmadik mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
-[^147]: Az R. 28. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
-[^148]: Az R. 28. §-ának (6) bekezdése a 64/1998. (III. 31.) Korm. rendelet 15. §-ával megállapított szöveg, a 26. §-nak (3) bekezdése a „19.§ ”-ra hivatkozást „ 22. §”-ra módosította.
-[^149]: Az R. 29. §-át a 221/1998. (XII. 30.) Korm. rendelet 23. §-a iktatta a szövegbe.
-[^150]: Az R. 29. §-ának (1) bekezdése a 208/2000. (XII. 11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése, felvezető szövegének első mondata a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének j) pontja szerint módosított szöveg.
-[^151]: Az R. 29. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^152]: Az R. 29. §-a (4) bekezdésének első mondatát a 208/2000. (XII.11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése hatályon kívül helyezte.
+[^142]: Az R. 23. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^143]: Az R. 24. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^144]: Az R. 25. §-át újonnan a 28/2007. (II. 28.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^145]: Az R. 26. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^146]: Az R. 27. §-át a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 28/2007. (II. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^147]: Az R. 27/A. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
+[^148]: Az R. 27/B. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
+[^149]: Az R. 28. § (1) bekezdés második–harmadik mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
+[^150]: Az R. 28. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
+[^151]: Az R. 28. §-ának (6) bekezdése a 64/1998. (III. 31.) Korm. rendelet 15. §-ával megállapított szöveg, a 26. §-nak (3) bekezdése a „19.§ ”-ra hivatkozást „ 22. §”-ra módosította.
+[^152]: Az R. 29. §-át a 221/1998. (XII. 30.) Korm. rendelet 23. §-a iktatta a szövegbe.
+[^153]: Az R. 29. §-ának (1) bekezdése a 208/2000. (XII. 11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése, felvezető szövegének első mondata a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének j) pontja szerint módosított szöveg.
+[^154]: Az R. 29. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^155]: Az R. 29. §-a (4) bekezdésének első mondatát a 208/2000. (XII.11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése hatályon kívül helyezte.
+[^156]: Az R. 30. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
+[^157]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
