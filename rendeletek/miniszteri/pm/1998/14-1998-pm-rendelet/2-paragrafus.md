@@ -14,15 +14,16 @@
 
 (7) Az (5)–(6) bekezdés szerinti, bankgaranciában nyújtott jövedéki biztosítéknak olyan eredeti, meghatározott határnapig érvényes, visszavonhatatlan vagy a Jöt. 38. § (11) bekezdése szerint visszavonható bankgaranciának kell lennie, amelynek összegén belül a garanciát nyújtó hitelintézet kötelezettséget vállal arra, hogy a fizetési kötelezettségre adott halasztás lejártát követően fennálló tartozás esetén, a Hivatal igénybejelentése alapján – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – teljesít. A bankgaranciában a Hivatalt kizárólagos kedvezményezettként kell megjelölni. A bankgarancia érvényességi idejének legalább 30 nappal meg kell haladnia a fizetési kötelezettségre adott halasztás lejárta időpontját.
 
-(8) Amennyiben az adójegy-felhasználó nem kér fizetési halasztást, a megrendelt adójegyeket az adójegy átvételével keletkező fizetési kötelezettsége teljesítésének igazolása mellett veheti át. Igazolásként bankszámlakivonat vagy a terhelés megtörténtéről szóló banki igazolás eredeti példánya fogadható el.
+(8)[^7] Amennyiben az adójegy-felhasználó nem kér fizetési halasztást, a megrendelt adójegyeket az adójegy átvételével keletkező fizetési kötelezettsége teljesítésének igazolása mellett veheti át. Igazolásként fizetésiszámla-kivonat vagy a terhelés megtörténtéről szóló banki igazolás eredeti példánya fogadható el.
 
-(9)[^7] A Hivatal az adójegyek kiadásának engedélyezése során megállapítja az adójegyek utáni fizetési kötelezettséget. Amennyiben az adójegy-felhasználónak a vámhatóság felé meg nem fizetett jövedéki adó vagy általános forgalmi adó tartozása van – nem értve ide, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, a Hivatal az adójegyek kiadásáról elutasítja.
+(9)[^8] A Hivatal az adójegyek kiadásának engedélyezése során megállapítja az adójegyek utáni fizetési kötelezettséget. Amennyiben az adójegy-felhasználónak a vámhatóság felé meg nem fizetett jövedéki adó vagy általános forgalmi adó tartozása van – nem értve ide, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, a Hivatal az adójegyek kiadásáról elutasítja.
 
-(10)[^8]
+(10)[^9]
 
 [^3]: A 2. § és az azt megelőző alcím a 16/2004. (IV. 21.) PM rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § (2) bekezdése a 17/2009. (IX. 29.) PM rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^5]: A 2. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 45. § (2) bekezdése szerint módosított szöveg.
 [^6]: A 2. § (6) bekezdése a 31/2008. (XII. 19.) PM rendelet 1. §-ával megállapított, a 44/2009. (XII. 29.) PM rendelet 45. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 2. § (9) bekezdése a 17/2009. (IX. 29.) PM rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^8]: A 2. § (10) bekezdését a 44/2009. (XII. 29.) PM rendelet 48. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 2. § (8) bekezdése a 17/2010. (IV. 28.) PM rendelet 1. §-a szerint módosított szöveg.
+[^8]: A 2. § (9) bekezdése a 17/2009. (IX. 29.) PM rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^9]: A 2. § (10) bekezdését a 44/2009. (XII. 29.) PM rendelet 48. § (1) bekezdése hatályon kívül helyezte.

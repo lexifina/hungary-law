@@ -90,6 +90,6 @@
 
 ## kérelmező (adójegy-felhasználó) aláírása
 
-3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^63]
+3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^65]
 
-[^63]: A 3. számú melléklet a 29/2007. (XII. 20.) PM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^65]: A 3. számú melléklet a 29/2007. (XII. 20.) PM rendelet 5. § (1) bekezdésével megállapított szöveg.

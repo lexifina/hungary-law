@@ -18,7 +18,7 @@
 
 ## d) gyártás közben megsérült adójegyek
 
-## e)[^65] tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
+## e)[^67] tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
 
 ## Összesen
 
@@ -26,11 +26,11 @@
 
 ## Tárgyhóban átvett adójegyek
 
-## III.[^66] Leírható (a Hivatalhoz visszaküldött, megsemmisített, elszámolt) adójegyek
+## III.[^68] Leírható (a Hivatalhoz visszaküldött, megsemmisített, elszámolt) adójegyek
 
-## a)[^67] minőséghibás, Hivatalhoz visszaküldött adójegyek
+## a)[^69] minőséghibás, Hivatalhoz visszaküldött adójegyek
 
-## b)[^68] sértetlen, Hivatalhoz visszaküldött adójegyek
+## b)[^70] sértetlen, Hivatalhoz visszaküldött adójegyek
 
 ## c) gyártás közben megsérült, adóraktárban megsemmisített adójegyek
 
@@ -56,7 +56,7 @@
 
 ## d) gyártás közben megsérült adójegyek
 
-## e)[^69] tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
+## e)[^71] tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
 
 ## Összesen
 
@@ -64,7 +64,7 @@
 
 ## VI. Tárgyhóban szabadforgalomba került dohánygyártmányokon lévő adójegyek (adójeggyel megfizetett tárgyhavi adófizetési kötelezettség) (I.+II.–III.–IV.–V.)
 
-5. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^70]
+5. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^72]
 
 A bejegyzett kereskedő havi adójegy-elszámolása (adójegyfajtánként)
 
@@ -122,9 +122,9 @@ A bejegyzett kereskedő havi adójegy-elszámolása (adójegyfajtánként)
 
 | VI. | Tárgyhóban szabadforgalomba került dohánygyártmányokon lévő adójegyek (adójeggyel megfizetett tárgyhavi adófizetési kötelezettség) (I.+II.–III.–IV.–V.) |
 
-[^65]: A 4. számú melléklet I. pontjának e) alpontját a 29/2007. (XII. 20.) PM rendelet 5. § (2) bekezdése iktatta be.
-[^66]: A 4. számú melléklete III. részének címe a 16/2004. (IV. 21.) PM rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
-[^67]: A 4. számú melléklete III. részének a) pontja a 16/2004. (IV. 21.) PM rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
-[^68]: A 4. számú melléklete III. részének b) pontja a 16/2004. (IV. 21.) PM rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
-[^69]: A 4. számú melléklet IV. pontjának e) alpontját a 29/2007. (XII. 20.) PM rendelet 5. § (3) bekezdése iktatta be.
-[^70]: Az 5. számú mellékletet a 16/2004. (IV. 21.) PM rendelet 11. §-a iktatta a szövegbe.
+[^67]: A 4. számú melléklet I. pontjának e) alpontját a 29/2007. (XII. 20.) PM rendelet 5. § (2) bekezdése iktatta be.
+[^68]: A 4. számú melléklete III. részének címe a 16/2004. (IV. 21.) PM rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
+[^69]: A 4. számú melléklete III. részének a) pontja a 16/2004. (IV. 21.) PM rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
+[^70]: A 4. számú melléklete III. részének b) pontja a 16/2004. (IV. 21.) PM rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
+[^71]: A 4. számú melléklet IV. pontjának e) alpontját a 29/2007. (XII. 20.) PM rendelet 5. § (3) bekezdése iktatta be.
+[^72]: Az 5. számú mellékletet a 16/2004. (IV. 21.) PM rendelet 11. §-a iktatta a szövegbe.

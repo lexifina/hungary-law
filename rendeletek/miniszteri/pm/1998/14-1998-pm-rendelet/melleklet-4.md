@@ -140,6 +140,6 @@
 
 ## A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
 
-4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^64]
+4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^66]
 
-[^64]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.
+[^66]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.
