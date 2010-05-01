@@ -9,11 +9,3 @@
 a) a Polgári Perrendtartásról szóló 1952. évi III. törvény 395. § (4) bekezdés d) pontja,
 
 b) a gondnokoltak számítógépen vezetett országos névjegyzékéről és a névjegyzék adataiból történő felvilágosítás adásról, valamint annak költségtérítéséről szóló 13/2002. (VII. 24.) IM rendelet.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
