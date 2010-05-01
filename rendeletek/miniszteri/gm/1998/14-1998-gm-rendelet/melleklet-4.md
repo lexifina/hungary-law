@@ -140,8 +140,8 @@ IV. fejezet 4. melléklet
 
 V. Fejezet 4. melléklet
 
-## Diagram[^46]
+## Diagram[^47]
 
 VI. fejezet 4. melléklet
 
-[^46]: Lásd 1998. MK 106. szám 6732. oldal.
+[^47]: Lásd 1998. MK 106. szám 6732. oldal.

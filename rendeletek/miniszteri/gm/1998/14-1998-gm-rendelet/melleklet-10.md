@@ -74,9 +74,9 @@ A 3. számjelű irányelvnek megfelelő típusengedéllyel rendelkező
 
 és az irányelv szerinti vizsgálatokon megfelelt, hegesztett kivitelű,
 
-ötvözetlen acélból készült palackok megjelölése[^51]
+ötvözetlen acélból készült palackok megjelölése[^52]
 
-VII–IX. Fejezet[^52]
+VII–IX. Fejezet[^53]
 
-[^51]: Lásd 1998. MK 106. szám 6740. oldal.
-[^52]: A melléklet VII–IX. Fejezetét a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^52]: Lásd 1998. MK 106. szám 6740. oldal.
+[^53]: A melléklet VII–IX. Fejezetét a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.

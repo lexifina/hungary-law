@@ -160,7 +160,7 @@ IV. fejezet 3. melléklet
 
 V. fejezet 3. melléklet
 
-## A C alaktényező számértékei domborított fenekekhez[^45]
+## A C alaktényező számértékei domborított fenekekhez[^46]
 
 | A C alaktényező számértékei domborított fenekekhez |
 
@@ -242,4 +242,4 @@ V. fejezet 3. melléklet
 
 VI. fejezet 3. melléklet
 
-[^45]: Lásd 1998. MK 106. szám 6731. oldal.
+[^46]: Lásd 1998. MK 106. szám 6731. oldal.

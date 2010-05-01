@@ -1,10 +1,10 @@
-## Kristályközi korróziónak alávetett próbatestek elkészítése metallográfiai vizsgálathoz[^39]
+## Kristályközi korróziónak alávetett próbatestek elkészítése metallográfiai vizsgálathoz[^40]
 
 V. Fejezet 7. melléklet
 
-## Szakító próbatest[^49]
+## Szakító próbatest[^50]
 
 VI. fejezet 7. melléklet
 
-[^39]: Lásd 1998. MK 106. szám 6722. oldal.
-[^49]: Lásd 1998. MK 106. szám 6735. oldal.
+[^40]: Lásd 1998. MK 106. szám 6722. oldal.
+[^50]: Lásd 1998. MK 106. szám 6735. oldal.

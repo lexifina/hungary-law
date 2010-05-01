@@ -116,7 +116,7 @@
 
 ## 2.29. Vizsgáló, tanúsító szervezetek:
 
-## a) kijelölt vizsgáló szervezet: a gyártómű vagy gyártási eljárás alkalmasságát, vagy a termék típus, termék előírásoknak való megfelelőségét vizsgáló, értékelő és tanúsító szervezet, amely tevékenységében és szervezetileg független, szakmailag felkészült, és amelyet meghatározott feladat ellátására az illetékes miniszter jogszabály alapján kijelölt, illetőleg az illetékes hatóság elismer, és ezt a tényt a feladatok és a szervezet azonosító számának megadásával a minisztérium hivatalos lapjában közzétették,
+## a)[^6] kijelölt szervezet: a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 2. § h) és k) pontjában foglaltak szerint megfelelőségértékelési tanúsításra és vizsgálatra engedéllyel rendelkező szervezet, amelynek kijelölt megfelelőségértékelési területe e rendelet mellékletének IV. fejezet 4. pontjában, V. fejezet 4. pontjában és VI. fejezet 4. pontjában meghatározott termék,
 
 ## b) akkreditált vizsgáló szervezet: olyan független vizsgáló szervezet, amelyet a Nemzeti Akkreditáló Testület tanúsítási eljárásban auditál, megvizsgál és tanúsít a meghatározott feladatok ellátására való alkalmasságra, és ezt hivatalos lapban közzéteszi.
 
@@ -208,7 +208,7 @@
 
 ## 3.1.8. A palack váll egyik szegmensében a gyártásra, vele szemben a töltésre vonatkozó megjelöléseket kell elhelyezni. A két szegmens között, időrendi sorrendben, kell az időszakos biztonságtechnikai ellenőrzések adatait beütni.
 
-## 3.2.[^6] Színjelzés
+## 3.2.[^7] Színjelzés
 
 ## E Szabályzat hatálya alá tartozó palackot a hengeres felső részén a benne tárolható gáz megjelölésére az MSZ EN 1089–3 és az MSZ EN 1089–3/A1 szabvány szerinti színjelzéssel kell ellátni. Az új színjelölésre történő átállást 2007. június 30-ig kell befejezni.
 
@@ -262,13 +262,13 @@
 
 ## I. fejezet melléklete
 
-## A palack megjelölése[^7]
+## A palack megjelölése[^8]
 
 ## II. Fejezet
 
 ## Műszaki-biztonsági felügyeleti eljárások
 
-## 1.[^8] Engedélyezési eljárások
+## 1.[^9] Engedélyezési eljárások
 
 ## Az R. 3. §-ában felsorolt tevékenységek közül a következőkre kérhetnek engedélyt a gazdálkodó szervezetek (a továbbiakban: kérelmezők):
 
@@ -284,7 +284,7 @@
 
 ## – a töltési tevékenység végzésére.
 
-## 1.1.[^9]
+## 1.1.[^10]
 
 ## 1.2. Töltetváltoztatással kapcsolatos engedélyezési eljárások
 
@@ -298,11 +298,11 @@
 
 ## 1.2.3. A gáztöltet megváltoztatását csak a Felügyelet engedélye alapján, az időszakos vizsgálat keretében lehet elvégezni.
 
-## 1.2.4.[^10] Ha a Felügyelet a palackba a korábban engedélyezett gáz helyett más gáz töltését engedélyezte, akkor az időszakos biztonságtechnikai ellenőrzés alkalmával a palack megfelelőségét – az új gáz és taratömeg (sűrített gázok palackjainál üres tömeg) megjelölés után – az ellenőrzést végző szervezet bélyegzőjének beütésével igazolja.
+## 1.2.4.[^11] Ha a Felügyelet a palackba a korábban engedélyezett gáz helyett más gáz töltését engedélyezte, akkor az időszakos biztonságtechnikai ellenőrzés alkalmával a palack megfelelőségét – az új gáz és taratömeg (sűrített gázok palackjainál üres tömeg) megjelölés után – az ellenőrzést végző szervezet bélyegzőjének beütésével igazolja.
 
 ## 1.2.5. A korábban hidrogén tárolására használt palackot a Felügyelet csak állapotfelmérő vizsgálat elvégzése után – annak kedvező eredménye esetén – engedélyez 15 bar próbanyomásnál nagyobb próbanyomású vagy mérgező és/vagy maró gáztöltetre.
 
-## 1.3.[^11]
+## 1.3.[^12]
 
 ## 1.4. A palack, palackszelep és nyomáscsökkentő javításának, illetőleg átalakításának engedélyezése
 
@@ -344,7 +344,7 @@
 
 ## 2. Ellenőrzések
 
-## 2.1.[^12]
+## 2.1.[^13]
 
 ## 2.2. Időszakos biztonságtechnikai ellenőrzés
 
@@ -530,17 +530,17 @@
 
 ## Az általános ellenőrzés kiterjed:
 
-## 2.7.1.1.[^13] a palackok és az engedélyköteles szerelvények használatához, javításához, átalakításához és a töltéshez szükséges engedélyek meglétére,
+## 2.7.1.1.[^14] a palackok és az engedélyköteles szerelvények használatához, javításához, átalakításához és a töltéshez szükséges engedélyek meglétére,
 
 ## 2.7.1.2. az előírt vizsgálatok elvégzésének ellenőrzésére, valamint arra, hogy a palackoknak van-e érvényes felügyeleti ellenőrzésről, illetőleg időszakos biztonságtechnikai ellenőrzésről igazolása, és hogy a Szabályzatnak megfelelően üzemeltetik-e.
 
-## 2.7.2.[^14]
+## 2.7.2.[^15]
 
-## 2.7.3.[^15] Üzemi Ellenőrzés
+## 2.7.3.[^16] Üzemi Ellenőrzés
 
 ## Az üzemi ellenőrzés arra terjed ki, hogy a palackok és szerelvényeik javításánál, átalakításánál, töltésénél, üzemeltetésénél és kezelésénél a biztonsági előírásokat betartják-e.
 
-## 2.7.4.[^16] Az általános és az üzemi ellenőrzések gyakorisága.
+## 2.7.4.[^17] Az általános és az üzemi ellenőrzések gyakorisága.
 
 ## Általános és üzemi ellenőrzésre esetenként, szúrópróbaszerűen, előzetes bejelentés nélkül kerül sor.
 
@@ -550,7 +550,7 @@
 
 ## 3.1.1. A Felügyelet a kiadott engedélyek másodpéldányát az engedély lejártától számított 2 évig irattárában megőrzi.
 
-## 3.1.2.[^17]
+## 3.1.2.[^18]
 
 ## 3.1.3. Az időszakos biztonságtechnikai ellenőrzésről készült nyilvántartási lapot a Felügyelet a következő időszakos ellenőrzés időpontjáig őrzi meg.
 
@@ -584,25 +584,25 @@
 
 ## Általános műszaki előírások
 
-## 1.[^18]
+## 1.[^19]
 
 ## 2. Gyártási előírások
 
-## 2.1.–2.2.5.6.[^19]
+## 2.1.–2.2.5.6.[^20]
 
 ## 2.2.6. Szerelvények
 
 ## 2.2.6.1. Palackszelep
 
-## a) A szelepnek minőségi bizonyítvánnyal[^20] kell rendelkeznie.
+## a) A szelepnek minőségi bizonyítvánnyal[^21] kell rendelkeznie.
 
 ## b) A palackokra csak olyan szelepet szabad felszerelni, amely lehetővé teszi a biztonságos, szivárgásmentes töltést, ürítést és a palack bármely helyzetében a szivárgásmentes tárolást.
 
 ## c) Oxigén és más oxidáló gáz tárolásra szolgáló palack szelepénél nem szabad olajszármazékú, illetőleg olajjal szennyezett tömítést alkalmazni.
 
-## d) A palacknak és szelepének kúpos menete feleljen meg a vonatkozó előírásoknak.[^21] Becsavarás után a szelep és a palack ütköző lapjai nem érhetnek össze. A szelep tövében legalább kettő, de legfeljebb öt szabad menetnek kell maradni. A szelep becsavarási nyomatéka nem lehet nagyobb a palackgyártó által meghatározott értékénél.
+## d) A palacknak és szelepének kúpos menete feleljen meg a vonatkozó előírásoknak.[^22] Becsavarás után a szelep és a palack ütköző lapjai nem érhetnek össze. A szelep tövében legalább kettő, de legfeljebb öt szabad menetnek kell maradni. A szelep becsavarási nyomatéka nem lehet nagyobb a palackgyártó által meghatározott értékénél.
 
-## e) A szelep kivezető csatlakozó menete feleljen meg a vonatkozó előírásoknak.[^22]
+## e) A szelep kivezető csatlakozó menete feleljen meg a vonatkozó előírásoknak.[^23]
 
 ## 2.2.6.2. Menetes záróanya, menetes záródugó
 
@@ -640,13 +640,13 @@
 
 ## 2.2.8. A gázhordók és az azokra felszerelendő szerelvények és tartozékok tervezését és gyártását a vonatkozó szabványok,* valamint az ADR/RID előírások szerint kell végezni.
 
-## 2.2.9.[^23]
+## 2.2.9.[^24]
 
-## 2.3.–2.4.[^24]
+## 2.3.–2.4.[^25]
 
 ## 3. Műszaki ellenőrző vizsgálatok
 
-## 3.1.–3.2.3.[^25]
+## 3.1.–3.2.3.[^26]
 
 ## 3.3. A szelepvédő tartozékok ellenőrző vizsgálata
 
@@ -730,7 +730,7 @@
 
 ## 3.5.7. Az 1–3. táblázatokban megadott értéktől eltérően, a nagytisztaságú (tisztaság > 99,99%) nemesgázok, CH4 és N2, valamint ezek keverékei tárolására szolgáló palackokat, 10 évenként kell időszakos biztonságtechnikai ellenőrzésnek alávetni.
 
-## 3.5.8.[^26] Egyéb előírások
+## 3.5.8.[^27] Egyéb előírások
 
 ## Az 1., 2., 3. táblázatban felsorolt gázok palackjaira, valamint az ezekben a táblázatokban nem szereplő gázok palackjaira is be kell tartani az ADR-RID P200-as csomagolási utasításait.
 
@@ -808,7 +808,7 @@
 
 |  | 2190 | oxigén-difluorid, sűrített | OF2 | 28 (bar) | 200 | 2 |
 
-## 2. táblázat[^27]
+## 2. táblázat[^28]
 
 | A gáz | Eng. töltet- tömeg (kg/l) vagy töltetnyo- más (bar) (jelölve) | Időszakos biztonság-technikai ellenőrzés |
 
@@ -1006,7 +1006,7 @@
 
 ## 4.3. A palackok kezelése, tárolása, szállítása
 
-## Cseppfolyósított szénhidrogén gázokkal és keverékeivel töltött palackok kezelésére, tárolására és szállítására a Gáz- és Olajipari Műszaki Biztonsági Szabályzat, valamint az ADR/RID előírások, más töltetű palackokra a vonatkozó szabvány,[^28] valamint az ADR/RID előírások érvényesek.
+## Cseppfolyósított szénhidrogén gázokkal és keverékeivel töltött palackok kezelésére, tárolására és szállítására a Gáz- és Olajipari Műszaki Biztonsági Szabályzat, valamint az ADR/RID előírások, más töltetű palackokra a vonatkozó szabvány,[^29] valamint az ADR/RID előírások érvényesek.
 
 ## 4.4. A palack kezelési, használati útmutatója
 
@@ -1070,7 +1070,7 @@
 
 ## 1.4. Normalizáló hőkezelés:
 
-## a kész palack olyan hőkezelése, ahol a palackot egyenletesen az acél felső átalakulási pontja (AC3) fölötti hőmérsékletre hevítik, majd nyugvó levegőn hűtik le;[^29] ha a normalizálás után további felmelegítés szükséges (pl. festéshez), a hőmérsékletnek az acél alsó átalakulási pontja (AC1) alatt kell lenni.
+## a kész palack olyan hőkezelése, ahol a palackot egyenletesen az acél felső átalakulási pontja (AC3) fölötti hőmérsékletre hevítik, majd nyugvó levegőn hűtik le;[^30] ha a normalizálás után további felmelegítés szükséges (pl. festéshez), a hőmérsékletnek az acél alsó átalakulási pontja (AC1) alatt kell lenni.
 
 ## 1.5. Nemesítés:
 
@@ -1370,7 +1370,7 @@
 
 ## 4. Típusvizsgálat, típusvizsgálat ellenőrzése, típusengedélyezés
 
-## A Szabályzat II. fejezete 1.1. pontjában leírtak figyelembevételével minden palackcsaládon[^30] és palacktípuson[^31] típusvizsgálatot kell végezni, amelyet kijelölt vizsgáló szervezet vagy a gyártómű végez a Felügyelet ellenőrzése alatt.
+## A Szabályzat II. fejezete 1.1. pontjában leírtak figyelembevételével minden palackcsaládon[^31] és palacktípuson[^32] típusvizsgálatot kell végezni, amelyet kijelölt vizsgáló szervezet vagy a gyártómű végez a Felügyelet ellenőrzése alatt.
 
 ## 4.1. A típusvizsgálat elvégzésének módja
 
@@ -1548,7 +1548,7 @@ IV. fejezet 1. melléklet
 
 ## és az irányelv szerinti vizsgálatokon megfelelt, acélból készült,
 
-## varrat nélküli palackok megjelölése[^33]
+## varrat nélküli palackok megjelölése[^34]
 
 ## V. Fejezet
 
@@ -1890,7 +1890,7 @@ IV. fejezet 1. melléklet
 
 ## 4. Típusvizsgálat, típusvizsgálat ellenőrzése, típusengedélyezés
 
-## A Szabályzat II. fejezete 1.1. pontjában leírtak figyelembevételével minden palackcsaládon[^34] és palacktípuson[^35] típusvizsgálatot kell végezni, amelyet kijelölt vizsgáló szervezet vagy a gyártómű végez a Felügyelet ellenőrzése alatt.
+## A Szabályzat II. fejezete 1.1. pontjában leírtak figyelembevételével minden palackcsaládon[^35] és palacktípuson[^36] típusvizsgálatot kell végezni, amelyet kijelölt vizsgáló szervezet vagy a gyártómű végez a Felügyelet ellenőrzése alatt.
 
 ## 4.1. A típusvizsgálat elvégzésének módja
 
@@ -2350,7 +2350,7 @@ IV. fejezet 1. melléklet
 
 V. fejezet 1. melléklet
 
-## A gyűrű alakú próbatestek kivágásának és a feszültségkorróziós vizsgálat elvégzésének vázlata[^40]
+## A gyűrű alakú próbatestek kivágásának és a feszültségkorróziós vizsgálat elvégzésének vázlata[^41]
 
 ## VI. Fejezet
 
@@ -2410,7 +2410,7 @@ V. fejezet 1. melléklet
 
 ## 1.3. Normalizáló hőkezelés
 
-## a kész palack olyan hőkezelése, amelynél a palack egyenletesen az acél felső átalakulási pontja (AC3) fölötti hőmérsékletre hevítik, majd nyugvó levegőn hűtik le.[^41]
+## a kész palack olyan hőkezelése, amelynél a palack egyenletesen az acél felső átalakulási pontja (AC3) fölötti hőmérsékletre hevítik, majd nyugvó levegőn hűtik le.[^42]
 
 ## 1.4. Feszültségcsökkentő izzítás
 
@@ -2722,7 +2722,7 @@ V. fejezet 1. melléklet
 
 ## 4. Típusvizsgálat, típusvizsgálat ellenőrzése, típusengedélyezés
 
-## A Szabályzat II. fejezete 1.1. pontjában leírtak figyelembevételével minden palackcsaládon[^42] és palacktípuson[^43] típusvizsgálatot kell végezni, amelyet kijelölt vizsgáló szervezet vagy a gyártómű végez a Felügyelet ellenőrzése alatt.
+## A Szabályzat II. fejezete 1.1. pontjában leírtak figyelembevételével minden palackcsaládon[^43] és palacktípuson[^44] típusvizsgálatot kell végezni, amelyet kijelölt vizsgáló szervezet vagy a gyártómű végez a Felügyelet ellenőrzése alatt.
 
 ## 4.1. A típusvizsgálat elvégzésének módja
 
@@ -2900,36 +2900,37 @@ VI. fejezet 1. melléklet
 
 [^4]: A melléklet I. Fejezetének 1.2.15. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
 [^5]: A melléklet I. fejezetének 2.5. pontja a 87/2006. (XII. 26.) GKM rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^6]: A melléklet I. Fejezetének 3.2. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
-[^7]: Lásd 1998. MK 106. szám 6682. oldal.
-[^8]: A melléklet II. Fejezetének 1. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^9]: A melléklet II. Fejezetének 1.1. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^10]: A melléklet II. Fejezetének 1.2.4. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
-[^11]: A melléklet II. Fejezetének 1.3. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^12]: A melléklet II. Fejezetének 2.1. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^13]: A melléklet II. Fejezetének 2.7.1.1. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
-[^14]: A melléklet II. Fejezetének 2.7.2. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^15]: A melléklet II. Fejezetének 2.7.3. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^6]: A melléklet I. Fejezet 2. Fogalmak alcím 2.29. pont a) alpontja a 16/2010. (IV. 28.) NFGM rendelet 11. §-ával megállapított szöveg.
+[^7]: A melléklet I. Fejezetének 3.2. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^8]: Lásd 1998. MK 106. szám 6682. oldal.
+[^9]: A melléklet II. Fejezetének 1. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^10]: A melléklet II. Fejezetének 1.1. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^11]: A melléklet II. Fejezetének 1.2.4. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^12]: A melléklet II. Fejezetének 1.3. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^13]: A melléklet II. Fejezetének 2.1. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^14]: A melléklet II. Fejezetének 2.7.1.1. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^15]: A melléklet II. Fejezetének 2.7.2. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
 [^16]: A melléklet II. Fejezetének 2.7.3. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
-[^17]: A melléklet II. Fejezetének 3.1.2. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^18]: A melléklet III. Fejezetének 1. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^19]: A melléklet III. Fejezetének 2.1.–2.2.5.6. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^20]: MSZ EN 10204 2.3. pont szerinti.
-[^21]: MSZ 132
-[^22]: MSZ 5992
-[^23]: A melléklet III. Fejezetének 2.2.9. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^24]: A melléklet III. Fejezetének 2.3.–2.4. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^25]: A melléklet III. Fejezetének 3.1.–3.2.3. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^26]: A melléklet III. Fejezetének 3.5.8. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
-[^27]: A melléklet 2. számú táblázata a 94/2003. (XII. 18.) GKM rendelet 10. §-ának (5) bekezdésével megállapított szöveg.
-[^28]: MSZ 6292
-[^29]: MSZ EN 10052 szerint.
-[^30]: Értelmezése a Szabályzat I. fejezetének 2.21. pontja szerint.
-[^31]: Értelmezése a Szabályzat I. fejezetének 2.22. pontja szerint.
-[^33]: Lásd 1998. MK 106. szám 6707. oldal.
-[^34]: Értelmezése a Szabályzat I. fejezetének 2.21. pontja szerint.
-[^35]: Értelmezése a Szabályzat I. fejezetének 2.22. pontja szerint.
-[^40]: Lásd 1998. MK 106. szám 6723. oldal.
-[^41]: MSZ EN 10052 szerint.
-[^42]: Értelmezése a Szabályzat I. fejezetének 2.21. pontja szerint.
-[^43]: Értelmezése a Szabályzat I. fejezetének 2.22. pontja szerint.
+[^17]: A melléklet II. Fejezetének 2.7.3. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^18]: A melléklet II. Fejezetének 3.1.2. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^19]: A melléklet III. Fejezetének 1. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^20]: A melléklet III. Fejezetének 2.1.–2.2.5.6. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^21]: MSZ EN 10204 2.3. pont szerinti.
+[^22]: MSZ 132
+[^23]: MSZ 5992
+[^24]: A melléklet III. Fejezetének 2.2.9. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^25]: A melléklet III. Fejezetének 2.3.–2.4. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^26]: A melléklet III. Fejezetének 3.1.–3.2.3. pontját a 39/2004. (IV. 7.) GKM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^27]: A melléklet III. Fejezetének 3.5.8. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^28]: A melléklet 2. számú táblázata a 94/2003. (XII. 18.) GKM rendelet 10. §-ának (5) bekezdésével megállapított szöveg.
+[^29]: MSZ 6292
+[^30]: MSZ EN 10052 szerint.
+[^31]: Értelmezése a Szabályzat I. fejezetének 2.21. pontja szerint.
+[^32]: Értelmezése a Szabályzat I. fejezetének 2.22. pontja szerint.
+[^34]: Lásd 1998. MK 106. szám 6707. oldal.
+[^35]: Értelmezése a Szabályzat I. fejezetének 2.21. pontja szerint.
+[^36]: Értelmezése a Szabályzat I. fejezetének 2.22. pontja szerint.
+[^41]: Lásd 1998. MK 106. szám 6723. oldal.
+[^42]: MSZ EN 10052 szerint.
+[^43]: Értelmezése a Szabályzat I. fejezetének 2.21. pontja szerint.
+[^44]: Értelmezése a Szabályzat I. fejezetének 2.22. pontja szerint.
