@@ -1,7 +1,7 @@
-38. §[^56] (1) A szervezett földgázpiaci engedélyes az ÜKSZ hatálya alá tartozik, köteles annak rendelkezéseit betartani, az ügyletek teljesítése és elszámolása során köteles az engedélyesekkel együttműködni. Az együttműködés részletes feltételeit az ÜKSZ határozza meg.
+38. §[^59] (1) A szervezett földgázpiaci engedélyes az ÜKSZ hatálya alá tartozik, köteles annak rendelkezéseit betartani, az ügyletek teljesítése és elszámolása során köteles az engedélyesekkel együttműködni. Az együttműködés részletes feltételeit az ÜKSZ határozza meg.
 
 (2) A szervezett földgázpiaci engedélyes az ÜKSZ rendelkezéseivel összhangban köteles elkészíteni a szervezett földgázpiacon folyó kereskedés szabályait tartalmazó szervezett földgázpiaci szabályzatot. A szervezett földgázpiaci szabályzatot és annak módosításait a Hivatal hagyja jóvá, elkészítésének, közzétételének szabályait külön törvény tartalmazza.
 
 (3) A szervezett földgázpiaci szabályzat rendelkezései a szervezett földgázpiacon történő részvétel tekintetében és a kereskedés során kötelezően alkalmazandók. A szervezett földgázpiaci szabályzatot úgy kell kialakítani, hogy biztosítsa a biztonságos és átlátható kereskedést, valamint segítse elő a regionális földgázpiacok kialakítását és összekapcsolását. Ha a biztonságos és átlátható kereskedés a piaci folyamatok kedvezőtlen alakulása miatt nem biztosítható, a szervezett földgázpiaci engedélyes jogosult a kereskedés időleges felfüggesztésére. A felfüggesztés részletes szabályait – a földgázellátási zavar és válsághelyzet esetén alkalmazandó törvényi rendelkezésekkel összhangban – a szervezett földgázpiaci szabályzat tartalmazza.
 
-[^56]: A Vhr. 38. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^59]: A Vhr. 38. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

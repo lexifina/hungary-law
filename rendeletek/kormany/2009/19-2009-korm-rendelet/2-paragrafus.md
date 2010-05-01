@@ -2,7 +2,7 @@
 
 ## Rendszerirányítás
 
-2. §[^7] (1) A rendszerirányítói működési engedélyt kérelmező földgázszállítónak rendelkeznie kell a rendszerirányítói tevékenység végzéséhez szükséges pénzügyi és tárgyi eszközökkel, személyi állománnyal, módszerekkel, eljárásokkal, ezen belül különösen
+2. §[^8] (1) A rendszerirányítói működési engedélyt kérelmező földgázszállítónak rendelkeznie kell a rendszerirányítói tevékenység végzéséhez szükséges pénzügyi és tárgyi eszközökkel, személyi állománnyal, módszerekkel, eljárásokkal, ezen belül különösen
 
 a) a GET-ben előírt engedélyesi tevékenység ellátására alkalmas, a rendszerüzemeltetők informatikai rendszerével is együttműködő adatforgalmi és informatikai rendszerrel,
 
@@ -22,4 +22,4 @@ c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön el
 
 (3) A rendszerirányításra vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének I. fejezetében meghatározott iratokat kell benyújtani.
 
-[^7]: A Vhr. 2. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^8]: A Vhr. 2. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

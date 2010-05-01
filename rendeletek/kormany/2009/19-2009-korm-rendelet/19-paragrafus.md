@@ -1,4 +1,4 @@
-19. §[^30] (1) A biztonsági földgáztárolást végző engedélyes köteles:
+19. §[^31] (1) A biztonsági földgáztárolást végző engedélyes köteles:
 
 a) a biztonsági földgázkészletet az egyéb készleteitől nyilvántartásaiban és számviteli rendszerében elkülönítetten kezelni,
 
@@ -12,4 +12,4 @@ c) az üzletszabályzata részeként a biztonsági földgázkészlet tárolásá
 
 (4) A biztonsági földgázkészletre a hozzáférés általános szabályai nem alkalmazhatók, nem esik az árszabályozás alá, és ezen tárolókapacitás kereskedelmi célra szabad, nem megszakítható kapacitásként nem ajánlható fel.
 
-[^30]: A Vhr. 19. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^31]: A Vhr. 19. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

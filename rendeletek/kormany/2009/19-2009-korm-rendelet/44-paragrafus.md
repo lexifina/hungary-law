@@ -1,4 +1,4 @@
-44. §[^63] A piaci verseny hatékonyságának elemzésekor a Hivatal figyelembe veszi:
+44. §[^66] A piaci verseny hatékonyságának elemzésekor a Hivatal figyelembe veszi:
 
 a) az érintett piacon működő három legnagyobb piaci részesedéssel rendelkező engedélyes együttes piaci részesedését, alkalmazva a 45. § a) pontjában az engedélyes piaci erejének megítélésére vonatkozó szabályokat,
 
@@ -10,4 +10,4 @@ d) a felhasználók szolgáltató váltásának mértékét, azaz a vizsgált id
 
 e) az érintett piacon megfigyelhető verseny többi piacra gyakorolt hatását.
 
-[^63]: A Vhr. 44. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^66]: A Vhr. 44. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -14,6 +14,8 @@
 
 5. Felhasználói beadvány: olyan kérelem, megkeresés, amely a felhasználó engedélyessel fennálló, földgáz-értékesítéssel vagy földgázelosztással összefüggő jogviszonyával, annak létrehozásával, megszüntetésével összefüggő egyéni, a felhasználót érintő igény elintézésére irányul,
 
+5a.[^2] Fogyasztási jelleggörbe: az engedélyes üzletszabályzatában közzétett, az éves gázfogyasztás naptári hónapokra eső részének százalékos arányát tartalmazó adatsor.
+
 6. Gázhónap: adott naptári hónap adott napján reggel 06:00-tól a következő naptári hónap azon napján reggel 06:00-ig, amely számánál fogva a kezdőnapnak megfelel,
 
 7. Hosszú távra lekötött kapacitás: egy gázévre vagy azt meghaladó időtartamra szerződéssel lekötött szállító-, elosztó- és tárolókapacitás,
@@ -48,21 +50,22 @@
 
 22. Szigetüzem: olyan földgáz vezetékrendszer, amely csak termelői rendszerhez csatlakozik és a földgáz fizikai betáplálása az együttműködő földgázrendszerről nem biztosítható,
 
-23.[^2] energetikai szolgáltatás: olyan szerződés alapján nyújtott tevékenység vagy eljárás, amely egy épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás tekintetében az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy elsődleges energia-megtakarításokhoz vezet, beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést,
+23.[^3] energetikai szolgáltatás: olyan szerződés alapján nyújtott tevékenység vagy eljárás, amely egy épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás tekintetében az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy elsődleges energia-megtakarításokhoz vezet, beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést,
 
-24.[^3] energiaaudit: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit,
+24.[^4] energiaaudit: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit,
 
-25.[^4] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa,
+25.[^5] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa,
 
-26.[^5] energiahatékonyságot javító intézkedések: minden olyan intézkedés, amely az energiahatékonyság igazolható, mérhető vagy megbecsülhető növekedéséhez vezet,
+26.[^6] energiahatékonyságot javító intézkedések: minden olyan intézkedés, amely az energiahatékonyság igazolható, mérhető vagy megbecsülhető növekedéséhez vezet,
 
-27.[^6] energiahatékonyságot javító programok: a felhasználók egyes csoportjaira vonatkozó energiahatékonyságot javító intézkedések összessége.
+27.[^7] energiahatékonyságot javító programok: a felhasználók egyes csoportjaira vonatkozó energiahatékonyságot javító intézkedések összessége.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. §-a szerint kell értelmezni.
 
 [^1]: A Vhr. 1. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^2]: A Vhr. 1. § (1) bekezdés 23. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^3]: A Vhr. 1. § (1) bekezdés 24. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^4]: A Vhr. 1. § (1) bekezdés 25. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^5]: A Vhr. 1. § (1) bekezdés 26. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^6]: A Vhr. 1. § (1) bekezdés 27. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^2]: A Vhr. 1. § (1) bekezdés 5a. pontját a 116/2010. (IV. 15.) Korm. rendelet 12. §-a iktatta be.
+[^3]: A Vhr. 1. § (1) bekezdés 23. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A Vhr. 1. § (1) bekezdés 24. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^5]: A Vhr. 1. § (1) bekezdés 25. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^6]: A Vhr. 1. § (1) bekezdés 26. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^7]: A Vhr. 1. § (1) bekezdés 27. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.

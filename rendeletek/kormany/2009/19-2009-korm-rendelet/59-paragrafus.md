@@ -1,4 +1,4 @@
-59. §[^81] (1) A fogyasztó a fogyatékkal élő fogyasztók nyilvántartásába történő felvételére való, saját vagy a háztartásában lakó – a GET 3. § 22. pontja szerinti juttatások valamelyikében részesülő – más személy fogyatékosságára tekintettel fennálló jogosultságát
+59. §[^100] (1) A fogyasztó a fogyatékkal élő fogyasztók nyilvántartásába történő felvételére való, saját vagy a háztartásában lakó – a GET 3. § 22. pontja szerinti juttatások valamelyikében részesülő – más személy fogyatékosságára tekintettel fennálló jogosultságát
 
 a) a 10. számú melléklet A)–B) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
@@ -16,4 +16,4 @@ c) olyan jellegű fogyatékosság, amely a fogyatékkal élő személy életét 
 
 (3) A vakok személyi járadékában részesülő személy esetén e jogosultság igazolása alapján a (2) bekezdés a) pontja szerinti csoportba tartozást vélelmezni kell, és nem kell a 10. számú melléklet szerinti formanyomtatvány C) részét kitölteni, ha a vakok személyi járadékában részesülő személy egyéb fogyatékosság alapján további csoportba történő felvételét nem kívánja kezdeményezni.
 
-[^81]: A Vhr. 59. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^100]: A Vhr. 59. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -2,7 +2,7 @@
 
 ## A megfelelési programra vonatkozó szabályok
 
-138. §[^180] (1) A rendszerüzemeltetők által a GET 121. § (6) bekezdése alapján kidolgozott megfelelési programot a földgázszállítási, elosztási és tárolási engedélyes legalább négyévenként aktualizálja, és jóváhagyásra benyújtja a Hivatalnak.
+138. §[^203] (1) A rendszerüzemeltetők által a GET 121. § (6) bekezdése alapján kidolgozott megfelelési programot a földgázszállítási, elosztási és tárolási engedélyes legalább négyévenként aktualizálja, és jóváhagyásra benyújtja a Hivatalnak.
 
 (2) Az aktualizált megfelelési programot az adott évi megfelelési jelentéssel együtt kell a Hivatalhoz benyújtani.
 
@@ -46,4 +46,4 @@
 
 18. a megfelelési program és a megfelelési jelentés összeállításáért felelős, a földgázszállítási, elosztási és tárolási engedélyesnél található vezető (szervezeti egység) kijelölése.
 
-[^180]: A Vhr. 138. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^203]: A Vhr. 138. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

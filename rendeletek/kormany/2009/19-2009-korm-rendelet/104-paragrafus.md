@@ -1,6 +1,6 @@
 ## Informatikai rendszer fejlesztése, üzemeltetése
 
-104. §[^140] (1) A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
+104. §[^161] (1) A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
 
 a) biztosítsa a felhasználók kapacitásainak nyilvántartását,
 
@@ -28,4 +28,4 @@ c) az adatforgalom biztonsági követelményeit.
 
 (4) Az informatikai elvárásokat a rendszerüzemeltetők és a rendszerhasználók kötelesek az ÜKSZ-ben előírt módon biztosítani.
 
-[^140]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^161]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

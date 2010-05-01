@@ -1,4 +1,4 @@
-37. §[^55] (1) A szervezett földgázpiacon földgázra, kapacitásokra, kiegyensúlyozó földgázra szóló opciós, határidős, csere-, valamint bármely más származtatott ügylet, eszköz kereskedelme végezhető, függetlenül attól, hogy azokat pénzben kell kiegyenlíteni vagy az ügyletben részt vevő felek valamelyikének választása szerint fizikai leszállítással teljesíthetők.
+37. §[^58] (1) A szervezett földgázpiacon földgázra, kapacitásokra, kiegyensúlyozó földgázra szóló opciós, határidős, csere-, valamint bármely más származtatott ügylet, eszköz kereskedelme végezhető, függetlenül attól, hogy azokat pénzben kell kiegyenlíteni vagy az ügyletben részt vevő felek valamelyikének választása szerint fizikai leszállítással teljesíthetők.
 
 (2) A szervezett földgázpiacon a termelő, a földgázkereskedő, a felhasználó, valamint a hidraulikai egyensúly biztosításához és a hálózati veszteség pótlásához szükséges mértékig a rendszerüzemeltetők köthetnek ügyleteket, ha megfelelnek a szervezett földgázpiaci szabályzatban előírt feltételeknek (a továbbiakban: kereskedésre jogosultak).
 
@@ -12,4 +12,4 @@
 
 (7) Külön jogszabály meghatározott mértékű és feltételek szerinti értékesítési kötelezettséget írhat elő a szervezett földgázpiacon.
 
-[^55]: A Vhr. 37. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^58]: A Vhr. 37. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

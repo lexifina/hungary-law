@@ -1,4 +1,4 @@
-4. §[^9] (1) A kérelmezőnek rendelkeznie kell
+4. §[^10] (1) A kérelmezőnek rendelkeznie kell
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgázszállítási tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
@@ -34,4 +34,4 @@ d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban
 
 (4) A földgázszállító a (3) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók vagy más, önálló vállalkozások, illetve felhasználók.
 
-[^9]: A Vhr. 4. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^10]: A Vhr. 4. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

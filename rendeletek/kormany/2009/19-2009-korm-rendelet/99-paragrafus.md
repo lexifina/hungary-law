@@ -2,7 +2,7 @@
 
 ## Célvezeték
 
-99. §[^134] (1) A felhasználó vagy a polgári jog általános szabályai szerint meghatalmazott képviselője írásbeli megkeresésére a földgázszállító, illetve a földgázelosztó nyilatkozik arra vonatkozóan, hogy a felhasználó
+99. §[^155] (1) A felhasználó vagy a polgári jog általános szabályai szerint meghatalmazott képviselője írásbeli megkeresésére a földgázszállító, illetve a földgázelosztó nyilatkozik arra vonatkozóan, hogy a felhasználó
 
 a) földgázzal ellátott-e,
 
@@ -20,7 +20,7 @@ c) annak létrehozására vonatkozó csatlakozási megállapodással, vagy a fel
 
 (6) Ha az engedélyes az (5) bekezdés szerinti megkeresésre nem válaszol vagy az (1)–(3) bekezdésben meghatározott nyilatkozatokat és igazolásokat az előírt tartalommal határidőben nem adja ki, a Hivatal az engedélyessel szemben a GET 119. §-ában meghatározott jogkövetkezményeket alkalmazza. Az engedélyes nyilatkozata hiányában a Hivatal úgy tekinti, hogy az engedélyes nem rendelkezik szabad kapacitással. Az így engedélyezett célvezeték esetén, az ebből származó, az engedélyesnél keletkező pénzügyi és jogkövetkezmények az engedélyest terhelik.
 
-(7)[^135] A felhasználó vagy képviselője az (1)–(3) bekezdésben meghatározott nyilatkozatokat és igazolásokat, valamint a célvezeték részletes műszaki leírását a létesítéshez szükséges előzetes hozzájárulás iránti kérelem mellékleteként köteles a Hivatalhoz benyújtani.
+(7)[^156] A felhasználó vagy képviselője az (1)–(3) bekezdésben meghatározott nyilatkozatokat és igazolásokat, valamint a célvezeték részletes műszaki leírását a létesítéshez szükséges előzetes hozzájárulás iránti kérelem mellékleteként köteles a Hivatalhoz benyújtani.
 
 (8) A Hivatal a kérelem elbírálásakor köteles a célvezeték létesítésének a rendszerszintű költségekre kifejtett hatását a rendszerüzemeltetők korábbi fejlesztéseinek alapjául szolgáló igényfelmérések, továbbá fejlesztési tervek figyelembevételével megállapítani.
 
@@ -28,5 +28,5 @@ c) annak létrehozására vonatkozó csatlakozási megállapodással, vagy a fel
 
 (10) Meglévő vezeték célvezetékké történő minősítéséhez a Hivatal előzetes hozzájárulást adhat ki, azonban ezen határozata nem mentesíti a kérelmezőt a műszaki-biztonsági engedélyeztetés lefolytatása alól.
 
-[^134]: A Vhr. 99. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^135]: A Vhr. 99. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^155]: A Vhr. 99. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^156]: A Vhr. 99. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

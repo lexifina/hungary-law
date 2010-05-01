@@ -1,4 +1,4 @@
-68. §[^92] (1) A szállító- vagy elosztóvezetékhez csatlakozó földgáztermelő köteles:
+68. §[^111] (1) A szállító- vagy elosztóvezetékhez csatlakozó földgáztermelő köteles:
 
 a) a csatlakozó rendszerüzemeltetővel együttműködési megállapodást kötni, amely tartalmazza a földgázforgalommal kapcsolatos, az ÜKSZ rendelkezéseinek megfelelően kialakított eljárásokat,
 
@@ -14,7 +14,7 @@ f) a megelőző gázévben forgalmazott földgáztól eltérő földgázminősé
 
 g) a csatlakozási nyomás biztosításáról gondoskodni,
 
-h)[^93] a saját rendszerén olyan műszaki megoldást és eszközt alkalmazni, amely képes azonnal megszüntetni a nem megfelelő minőségű földgáz betáplálását, továbbá a betáplálást azonnal megszüntetni, ha a termelt földgáz nem felel meg a 67. § (2) bekezdés d) pontja szerinti nyilatkozatban foglaltaknak. Ha a földgáztermelő ezen kötelezettségeinek nem tesz eleget, a nem megfelelő minőségű földgáz betáplálásából eredő károkat köteles megtéríteni.
+h)[^112] a saját rendszerén olyan műszaki megoldást és eszközt alkalmazni, amely képes azonnal megszüntetni a nem megfelelő minőségű földgáz betáplálását, továbbá a betáplálást azonnal megszüntetni, ha a termelt földgáz nem felel meg a 67. § (2) bekezdés d) pontja szerinti nyilatkozatban foglaltaknak. Ha a földgáztermelő ezen kötelezettségeinek nem tesz eleget, a nem megfelelő minőségű földgáz betáplálásából eredő károkat köteles megtéríteni.
 
 (2) A földgáztermelő és a csatlakozó rendszerüzemeltető köteles megállapodni a földgáz mennyiségi és minőségi méréséről, az alkalmazandó eszközök köréről és tulajdonjogáról, valamint a bizonylatolásról.
 
@@ -28,5 +28,5 @@ h)[^93] a saját rendszerén olyan műszaki megoldást és eszközt alkalmazni, 
 
 (7) A földgáztermelő köteles a termelésben bekövetkező az előrejelzéseitől eltérő mennyiségi és minőségi változást haladéktalanul bejelenteni a csatlakozó rendszerüzemeltetőnek. Ha az eltérést a rendszerüzemeltető nem fogadja el, vagy a földgáztermelő a bejelentést elmulasztja köteles a rendszerüzemeltető ezzel összefüggésben keletkező, igazolt költségeit, kárát megtéríteni.
 
-[^92]: A Vhr. 68. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^93]: A Vhr. 68. § (1) bekezdés h) pontját a 139/2009. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
+[^111]: A Vhr. 68. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^112]: A Vhr. 68. § (1) bekezdés h) pontját a 139/2009. (VI. 30.) Korm. rendelet 3. §-a iktatta be.

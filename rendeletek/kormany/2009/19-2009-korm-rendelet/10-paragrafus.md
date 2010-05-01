@@ -1,4 +1,4 @@
-10. §[^17] A földgázelosztó köteles:
+10. §[^18] A földgázelosztó köteles:
 
 a) az egyensúlyozáshoz szükséges, a rendszerhasználók tényleges földgázforgalmazására vonatkozó adatszolgáltatási tevékenységét gáznapon belül a csatlakozó szállítóvezetéket üzemeltető engedélyessel összehangolni a közöttük lévő együttműködési megállapodásban és az ÜKSZ-ben foglaltak szerint,
 
@@ -8,4 +8,4 @@ c) az együttműködő földgázrendszer egyensúlyának megbomlásakor a földg
 
 d) az egyetemes szolgáltató részére minden év január 30-ig megadni az elosztóvezetékről vételező már bekötött és az év közben várhatóan bekötésre kerülő egyetemes szolgáltatásra jogosult felhasználók számát és fogyasztását profilcsoportonkénti bontásban.
 
-[^17]: A Vhr. 10. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^18]: A Vhr. 10. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

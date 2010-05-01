@@ -1,4 +1,4 @@
-60. §[^82] (1) Az 59. § (2) bekezdés a) pontja szerinti körbe tartozó fogyatékkal élő fogyasztót nem kell személyes körülményeinek megfelelő, különleges bánásmódban részesíteni, ha háztartásában van olyan nagykorú személy, aki nem minősül fogyatékkal élőnek.
+60. §[^101] (1) Az 59. § (2) bekezdés a) pontja szerinti körbe tartozó fogyatékkal élő fogyasztót nem kell személyes körülményeinek megfelelő, különleges bánásmódban részesíteni, ha háztartásában van olyan nagykorú személy, aki nem minősül fogyatékkal élőnek.
 
 (2) A fogyatékkal élő fogyasztó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja.
 
@@ -30,4 +30,4 @@ f) az érintett engedélyes üzletszabályzatában meghatározott, a fogyatékka
 
 (10) Jogosultságának a GET 66. § (6) bekezdése szerinti ismételt igazolására a fogyatékkal élő fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
-[^82]: A Vhr. 60. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^101]: A Vhr. 60. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -1,13 +1,15 @@
-115/A. §[^148] (1) Az engedélyes biztosítja, hogy a számlázás a tényleges energiafogyasztáson alapuljon, megjelenítése világos, érthető módon történjen, és az elszámolás a távlehívható fogyasztásmérővel rendelkező felhasználó részére minden alkalommal az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt, a távlehívható mérővel nem rendelkező felhasználó részére pedig a (2) bekezdésben foglaltaknak megfelelően történjen.
+115/A. §[^169] (1)[^170] Az engedélyes biztosítja, hogy a számlázás és az elszámolás a tényleges energiafogyasztáson alapuljon, megjelenítése világos, érthető módon történjen, a távlehívható fogyasztásmérővel rendelkező felhasználó esetén minden alkalommal, a távlehívható mérővel nem rendelkező felhasználó esetén pedig a (2) bekezdésben foglaltaknak megfelelően. A távleolvasott adatokhoz való, internetes honlapon keresztül történő hozzáférést az engedélyes az üzletszabályzatában meghatározott módon biztosítja a felhasználó számára.
 
-(2) A földgázkereskedő és az egyetemes szolgáltató köteles évente egy alkalommal az elszámoló számlán vagy ahhoz csatoltan tájékoztatásul feltüntetni:
+(2)[^171] A földgázkereskedő és az egyetemes szolgáltató köteles évente egy alkalommal az elszámoló számlán vagy ahhoz csatoltan tájékoztatásul feltüntetni:
 
-a) a földgáz tényleges, aktuális (és évközi árváltozás esetén az évközi időszakos) átlagos értékesítési árát és az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást,
+a) a földgáz tényleges, aktuális (és évközi árváltozás esetén az évközi időszakos) értékesítési árát és az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást,
 
-b) a felhasználó aktuális energiafogyasztásának és az előző év ugyanezen időszakában mért fogyasztásnak az összehasonlítását,
+b) a felhasználó elszámoló számlában elszámolt energiafogyasztásának az azt megelőző elszámolási időszakban mért fogyasztásnak az összehasonlítását, ha ez az adat ugyanazon szerződés alapján rendelkezésre áll,
 
-c) ugyanazon felhasználói kategóriába tartozó átlagos földgázfogyasztással történő összehasonlítását,
+c) a lakossági fogyasztók részére az átlagos földgázfogyasztással történő összehasonlítást vagy az összehasonlítási lehetőség elérhetőségét, és
 
-d) a működési, illetve szolgáltatási területén energiaauditot, energetikai szolgáltatást végző szervezetek, továbbá az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerint kijelölt vagy akkreditált tanúsítók listáját és elérhetőségét, beleértve a honlapok címeit is, ahol hozzáférhetőek az energiahatékonyságot javító intézkedésekre, programokra vonatkozó információk.
+d) a 23/A. §-ban megjelölt elérhetőséget.
 
-[^148]: A Vhr. 115/A. §-át a 64/2009. (III. 31.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^169]: A Vhr. 115/A. §-át a 64/2009. (III. 31.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^170]: A Vhr. 115/A. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^171]: A Vhr. 115/A. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 23. §-ával megállapított szöveg.

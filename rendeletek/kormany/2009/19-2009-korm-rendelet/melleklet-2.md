@@ -348,6 +348,8 @@
 
 ## (4) Rendszerhasználónak nem minősülő új felhasználó köteles 15 napon belül bejelenteni a változást az egyetemes szolgáltatójának vagy földgázkereskedőjének, amely megköti a földgázelosztási szerződést.
 
+## (5)[^248] A rögzített mérőállást az elosztói engedélyes köteles az érintett kereskedők felé a rögzítést követő két munkanapon belül megadni.
+
 ## 45. § Kereskedőváltás esetén a rendszerhasználó köteles az elosztói szolgáltatás megkezdését legalább 15 nappal megelőzően a földgázelosztóval a földgázelosztási szerződést megkötni.
 
 ## A földgázelosztási szerződés megszegésének esetei
@@ -386,7 +388,9 @@
 
 ## h) a felhasználási helyen olyan gázmérő üzemel, amely érvényes hitelesítéssel nem rendelkezik, és megállapodás alapján annak hitelesítésére a rendszerhasználó köteles,
 
-## i) a nyomás alatti gázellátó rendszert (szállító- és elosztóvezetéket vagy a csatlakozóvezetéket) megbontja, továbbá ha a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja,
+## i)[^249] a fogyasztói vezetéket engedély nélkül átalakítja, továbbá a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja,
+
+## í)[^250] a műszaki-biztonsági követelményeknek nem megfelelő csatlakozóvezetéket, felhasználói berendezést használ, vagy azokat az életre, a testi épségre, az egészségre vagy a vagyonbiztonságra veszélyes módon használja,
 
 ## j) a fentieken kívül a földgázelosztási szerződésben, a földgázelosztó üzletszabályzatában és a hatályos jogszabályokban foglaltakat egyéb módon megsérti, illetőleg az azokban foglalt lényeges kötelezettségének nem tesz eleget.
 
@@ -396,7 +400,7 @@
 
 ## 47. § (1) A 46. § (2) bekezdés f) pontja szerinti szabálytalan vételezésnek minősül, ha a felhasználó:
 
-## a) a gázmérőn vagy mérési rendszeren elhelyezett külön jogszabály szerinti nyomóbélyegzővel lezárt fémzár (a továbbiakban: plomba) sérülését a földgázkereskedőnek, vagy a földgázelosztónak a sérülés észlelését követő 2 munkanapon belül nem jelenti be, illetve a plomba sérülésének körülményei a felhasználó vétlenségét nem támasztják alá,
+## a)[^251] a gázmérőn vagy mérési rendszeren elhelyezett nyomóbélyegzővel lezárt zárópecsét vagy egyéb jogi zár (a továbbiakban együtt: plomba) sérülését a földgázkereskedőnek, vagy a földgázelosztónak a sérülés észlelését követő 2 munkanapon belül nem jelenti be, illetve a plomba sérülésének körülményei a felhasználó vétlenségét nem támasztják alá,
 
 ## b) a gázmérőn vagy mérési rendszeren elhelyezett plomba, vagy a mérőberendezés megrongálásával a gázmérőt méretlen gáz felhasználására alkalmassá teszi,
 
@@ -406,9 +410,9 @@
 
 ## e) a szolgáltatás szüneteltetése esetén önkényes visszakapcsolással vételez,
 
-## f) a nyomás alatti gázellátó rendszert (szállító- és elosztóvezetéket vagy a csatlakozóvezetéket) megbontja, a gázmérőt vagy a mérési rendszert, vagy a nyomásszabályozót jogosulatlanul eltávolítja, továbbá amennyiben a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja, engedély nélkül átalakítja,
+## f)[^252] a nyomás alatti gázellátó rendszert (szállító- és elosztóvezetéket vagy a csatlakozóvezetéket) megbontja, a gázmérőt vagy a mérési rendszert, vagy a nyomásszabályozót jogosulatlanul eltávolítja, vagy a szerződésben meghatározott felhasználási helyen kívüli területre vezet át földgázt, és ezen magatartások valamelyikével méretlenül vételez,
 
-## g) a felhasználó a gázmérő nélküli fogyasztás – földgázelosztó üzletszabályzatában meghatározott – feltételeit megszegi.
+## g)[^253] a gázmérő nélküli fogyasztás – földgázelosztó üzletszabályzatában meghatározott – feltételeit megszegi.
 
 ## (2) A plomba sérülésére az engedélyes csak abban az esetben hivatkozhat, ha azokat a felhasználó dokumentáltan, azonosítható módon, sérülésmentes állapotban vette át a földgázelosztótól. A plombák számára, azonosítójára és sérülésmentes külsejére vonatkozóan a felhasználót írásban tájékoztatni kell.
 
@@ -416,7 +420,23 @@
 
 ## (4) Ha a felhasználó a szabálytalan vételezés tényét, vagy annak valamely elemét vitatja, a mérőberendezés kötelező szakértői vizsgálatát az elosztói engedélyes köteles igazságügyi szakértői névjegyzékben szereplő szakértővel elvégeztetni. A vizsgálat megrendelésének és lebonyolításának szabályait a földgázelosztó üzletszabályzata tartalmazza.
 
-## 48. § Szabálytalan vételezés esetén a felhasznált földgáz mennyiségét becsléssel – a beépített gázkészülékek összteljesítménye alapján – kell megállapítani a szabálytalan vételezés időtartamára. Ha a szabálytalan vételezés pontos időtartama hitelt érdemlően nem állapítható meg, havi mérőleolvasásos felhasználó esetén legfeljebb 30 napos, egyéb esetekben 50 napos vélelmezett fogyasztási ellenérték követelhető. A szabálytalan vételezés során, a felhasznált földgáz elszámolási árának megállapítására a kiegyensúlyozó földgáz – az időszakban kialakult – legmagasabb ára, rendszerhasználatra a rendszerhasználati díjakat tartalmazó rendelet pótdíjazásra vonatkozó szabályai alkalmazandók.
+## 48. §[^254] (1) A felhasználási helyen végzett ellenőrzés eredményét minden esetben írásbeli dokumentumban kell rögzíteni (ténymegállapító jegyzőkönyv, egyszerűsített jegyzőkönyv, mérő felülvizsgálati lap, munkalap stb.).
+
+## (2) A felhasználási helyen végzett ellenőrzés csak a felhasználó, vagy képviselője, vagy tanú jelenlétében folytatható le.
+
+## (3) Az ellenőrzést végzőknek az ellenőrzés megkezdésekor egyértelműen közölni kell a felhasználóval, képviselőjével, vagy a tanúval az eljárás célját.
+
+## (4) Az ellenőrzést végzőknek fel kell kérni a felhasználót, képviselőjét, vagy a tanút, hogy az ellenőrzés teljes időtartama alatt tartózkodjon az ellenőrzés helyszínen. Ha a felkért személy ennek a kérésnek nem tesz eleget, ennek tényét az írásbeli dokumentumban rögzíteni kell.
+
+## (5) Az ellenőrzést végzők nem intézhetnek a felhasználó, képviselője vagy a tanú felé olyan kérést, amelynek teljesítése az ellenőrzés helyszínének elhagyását igényli.
+
+## (6) A felhasználó vagy képviselője az (1) bekezdés szerinti ellenőrzés során az ellenőrzést végzőkkel köteles együttműködni, így különösen a felhasználási helyre történő bejutást és az ellenőrzést lehetővé tenni, annak teljes időtartama alatt a helyszínen tartózkodni, az írásbeli dokumentumot aláírni. Az ellenőrzéssel, annak körülményeivel, illetve eredményével kapcsolatos állásfoglalását a felhasználó, vagy képviselője jogosult a jegyzőkönyvben feltüntetni.
+
+## (7) Ha az ellenőrzés során az ellenőrzést végzők szerződésszegést, vagy annak alapos gyanúját állapítják meg, arról videofelvételt vagy fényképet kell készíteni olyan módon, hogy az alkalmas legyen a jegyzőkönyvben rögzített tények bizonyítására.
+
+## (8) A szerződésszegés vagy annak alapos gyanúja esetén felvett ténymegállapító jegyzőkönyv tartalmi követelményeit az elosztói engedélyes üzletszabályzata tartalmazza.
+
+## (9) Ha a szabálytalan vételezés pontos időtartama hitelt érdemlően nem állapítható meg, havi mérőleolvasásos felhasználó esetén legfeljebb 30 napos, egyéb esetekben 50 napos vélelmezett fogyasztási időtartamot kell figyelembe venni.
 
 ## Szerződés nélküli rendszerhasználat
 
@@ -425,3 +445,11 @@
 ## (2) A felhasználó szerződés nélküli vételezésének jogkövetkezményeit a földgázelosztó üzletszabályzata tartalmazza.
 
 2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
+
+[^248]: A Vhr. 1. számú melléklet 44. § (5) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^249]: A Vhr. 1. számú melléklet 46. § (2) bekezdés i) pontja a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^250]: A Vhr. 1. számú melléklet 46. § (2) bekezdés í) pontját a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^251]: A Vhr. 1. számú melléklet 47. § (1) bekezdés a) pontja a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^252]: A Vhr. 1. számú melléklet 47. § (1) bekezdés f) pontja a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^253]: A Vhr. 1. számú melléklet 47. § (1) bekezdés g) pontja a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdése szerint módosított szöveg.
+[^254]: A Vhr. 1. számú melléklet 48. §-a a 116/2010. (IV. 15.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
