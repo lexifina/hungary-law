@@ -16,7 +16,7 @@ d) alapító okiratának száma, kelte, cégjegyzékszáma,
 
 e) gazdálkodási formája, tevékenységének felsorolása,
 
-f) belföldi bankszámlaszáma, ahova a kérelem visszavonása esetén a díj visszatérítését kéri.
+f)[^13] belföldi fizetési számlaszáma, ahova a kérelem visszavonása esetén a díj visszatérítését kéri.
 
 2. A program részletes leírása, így különösen:
 
@@ -107,3 +107,5 @@ A rendelet 4. §-ában meghatározott nyilatkozatok, iratok.
 9. Az igazgatási szolgáltatási díj megfizetését igazoló bizonylat másolata.
 
 10. A kérelem kelte, a Szervező képviseletére jogosult személy aláírása.
+
+[^13]: A melléklet 1. pont f) alpontja a 17/2010. (IV. 28.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.
