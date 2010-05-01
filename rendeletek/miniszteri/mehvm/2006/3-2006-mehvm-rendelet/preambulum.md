@@ -1,1 +1,0 @@
-A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 76. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
