@@ -2,17 +2,17 @@
 
 | 1. | Csatlakozóvezeték és felhasználói berendezés létesítése, üzembe helyezése, karbantartása, üzemzavar elhárítása, felhagyása | 1.1. | Gázvezeték és -készülékszerelő mestervizsga | – |
 
-| 1.2 Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök, gázvezeték és -készülékszerelő, gázfogyasztóberendezés és csőhálózat-szerelő szakképesítés | 3 |
+| 1.2 Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök és gázfogyasztó berendezés és csőhálózat-szerelő szakképesítés. | 3 |
 
-| 1.3. Épületgépész technikus, gázipari technikus, gázvezeték és -készülékszerelő, gázfogyasztóberendezés és csőhálózat-szerelő szakképesítés | 3 |
+| 1.3. Épületgépész technikus, gázipari technikus és gázfogyasztó berendezés és csőhálózat-szerelő szakképesítés. | 3 |
 
 | 2. | Felhasználói berendezés létesítése, üzembe helyezése, karbantartása, üzemzavar elhárítása, felhagyása | 2.1. | Gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga vagy gázvezeték és -készülékszerelő mestervizsga | – |
 
 | 2.2. Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök és gáz- és tüzeléstechnikai műszerész szakképesítés | 3 |
 
-| 2.3. Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szaküzemmérnök, gázfogyasztóberendezés és csőhálózat-szerelő szakképesítés | 3 |
+| 2.3.  Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök, és gáz- és tüzeléstechnikai műszerész szakképesítés. | 3 |
 
-| 2.4. Épületgépész technikus, gázipari technikus, gáz- és tüzeléstechnikai műszerész szakképesítés | 3 |
+| 2.4. Épületgépész technikus, gázipari technikus, és gáz- és tüzeléstechnikai műszerész szakképesítés. | 3 |
 
 | 2.5. Épületgépész technikus, gázipari technikus és gázfogyasztóberendezés és csőhálózat-szerelő szakképesítés | 3 |
 
@@ -32,11 +32,9 @@
 
 ## c) A csatlakozó és fogyasztói vezeték létesítésére a 2. mellékletben megjelölt képesítéssel, végzettséggel és az alkalmazott technológiához más jogszabályban előírt feltételeknek megfelelő gázszerelő jogosult.
 
-3. melléklet a 30/2009. (XI. 26.) NFGM rendelethez
+3. melléklet a 30/2009. (XI. 26.) NFGM rendelethez[^2]
 
-A gázszerelői igazolvány érvényességének továbbképzés után történő meghosszabbítására,
-
-illetve gázszerelői igazolvány pótlására irányuló kérelem adattartalma
+A gázszerelői igazolvány érvényességének továbbképzés után történő meghosszabbítására, illetve gázszerelői igazolvány pótlására irányuló kérelem adattartalma
 
 | I. | Tevékenység megnevezése |
 
@@ -62,6 +60,10 @@ illetve gázszerelői igazolvány pótlására irányuló kérelem adattartalma
 
 | III. | A kérelemhez mellékletben csatolt igazolások, nyilatkozatok felsorolása |
 
-| 1. | A Hatóság nyilvántartásba vételről kiállított gázszerelői igazolvány (érvényességének hosszabbítása esetén) – |
+| 1. | A Hatóság nyilvántartásba vételről kiállított gázszerelői igazolvány (érvényességének hosszabbítása esetén) | – |
 
 | 2. | A továbbképzésről szóló igazolás vagy annak hiteles másolata | – |
+
+| 3. | Igazolványkép (2 db, egy évnél nem régebbi) |
+
+[^2]: A 3. melléklet a 16/2010. (IV. 28.) NFGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
