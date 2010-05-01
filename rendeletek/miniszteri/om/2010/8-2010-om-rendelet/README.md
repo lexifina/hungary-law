@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-8-20-2L
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-03-03 | 2010-8-20-2L.1 | 8/2010. (II. 26.) ÖM rendelet |
+| 2010-05-01 | 2010-8-20-2L.2 | 14/2010. (IV. 30.) ÖM rendelet |

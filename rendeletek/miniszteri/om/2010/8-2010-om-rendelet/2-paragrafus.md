@@ -1,6 +1,6 @@
 ## 2. Általános rendelkezések
 
-2. § (1) Az EU Önerő Alap támogatás igényelhető az Európai Unió támogatásai (a továbbiakban: uniós támogatás) iránt a 2007–2013 programozási időszakra a (2) bekezdés szerinti célok megvalósítása érdekében benyújtott és nyertes önkormányzati fejlesztési célú pályázatokhoz szükséges saját forrás kiegészítéséhez, amennyiben:
+2. § (1)[^4] Az EU Önerő Alap támogatás igényelhető az Európai Unió támogatásai (a továbbiakban: uniós támogatás) iránt a 2007–2013 programozási időszakra a (2) bekezdés szerinti célok megvalósítása érdekében benyújtott és nyertes önkormányzati, kisebbségi önkormányzati fejlesztési célú pályázatokhoz szükséges saját forrás kiegészítéséhez, amennyiben:
 
 a) az uniós forrásról szóló – legalább első körös – támogatói döntés 2009. évben megszületett, és
 
@@ -43,3 +43,5 @@ infrastrukturális fejlesztéseihez elnyert uniós támogatás saját forrás ki
 (3) A pályázó EU Önerő Alap támogatást akkor igényelhet, ha a fejlesztés nem kezdődött meg, vagy amennyiben a fejlesztés megvalósítása folyamatban van, annak műszaki-pénzügyi lezárása az EU Önerő Alap támogatási igény benyújtását követő 60 napon belül nem történik meg.
 
 (4) A pályázó az EU Önerő Alap támogatásra benyújthatja igényét abban az esetben is, ha az uniós támogatást az általa fenntartott költségvetési szerv nyerte el.
+
+[^4]: A 2. § (1) bekezdése a 14/2010. (IV. 30.) ÖM rendelet 2. §-ával megállapított szöveg.

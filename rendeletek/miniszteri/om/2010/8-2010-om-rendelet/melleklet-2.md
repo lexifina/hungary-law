@@ -2,11 +2,11 @@
 
 ## I. Pályázó adatai:
 
-## 1. Önkormányzat/többcélú kistérségi társulás neve:
+## 1. Önkormányzat/Kisebbségi önkormányzat/Többcélú Kistérségi Társulás/neve:
 
-## 2. Önkormányzati társulás (kivéve többcélú kistérségi társulás1) neve:
+## 2. Önkormányzati társulás (kivéve többcélú kistérségi társulás) neve:
 
-## 3. Önkormányzat/Székhely önkormányzat/Többcélú Kistérségi
+## 3. Önkormányzat/Kisebbségi önkormányzat/Székhely önkormányzat/Többcélú Kistérségi
 
 ## Társulás elérhetősége:
 
@@ -16,9 +16,9 @@
 
 ## e-mail:
 
-## 4. Önkormányzat/Székhely önkormányzat/Többcélú Kistérségi Társulás adószáma:
+## 4. Önkormányzat/Kisebbségi önkormányzat/Székhely önkormányzat/Többcélú Kistérségi Társulás adószáma:
 
-## 5. Önkormányzat/Székhely önkormányzat/Többcélú Kistérségi Társulás törzsszáma:
+## 5. Önkormányzat/Kisebbségi önkormányzat/Székhely önkormányzat/Többcélú Kistérségi Társulás törzsszáma:
 
 ## 6. Az EU Önerő Alap igénylést előkészítő személy(ek) neve:
 
@@ -42,11 +42,11 @@
 
 ## Hozzájárulok, hogy az államháztartásról szóló 1992. évi XXXVIII. törvény 18/C. § (14) bekezdésében meghatározott adatokat a 18/C. § (12) és (13) bekezdésében felsorolt szervek a 13/A. § (5)–(8) bekezdésben, valamint a 18/C. § (12)–(13) bekezdésben foglaltak szerint felhasználják.
 
-## Kelt: ...................., 20 ... év .............. hó .......... nap
+## Kelt: ......................., 20... év ..................... hó ........... nap
 
-## ...........................................................................
+## .................................................................................................
 
-## az önkormányzatot/Társulást képviselő aláírása
+## az önkormányzatot/Kisebbségi önkormányzatot/Társulást képviselő aláírása
 
 ## Az I. 2. pont szerinti társulásnak (valamennyi tagot feltüntetve) a 2. mellékletet is kell töltenie!
 
