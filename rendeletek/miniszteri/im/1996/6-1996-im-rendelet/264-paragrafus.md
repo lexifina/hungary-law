@@ -2,6 +2,6 @@
 
 264. § (1) E rendelet – a (2) bekezdésben foglalt kivétellel – 1996. október 1. napján lép hatályba.
 
-(2)[^209]
+(2)[^223]
 
-[^209]: A 264. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 157. pontja hatályon kívül helyezte.
+[^223]: A 264. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 157. pontja hatályon kívül helyezte.

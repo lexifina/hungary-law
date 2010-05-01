@@ -2,7 +2,7 @@
 
 34. § (1) Az elítéltet megillető jogok gyakorlásának és a kötelességek teljesítésének rendjét házirendben kell szabályozni.
 
-(2)[^31] A házirend tartalmazza:
+(2)[^34] A házirend tartalmazza:
 
 a) az elítéltek napirendjét;
 
@@ -24,22 +24,22 @@ i) az egyházi szertartások, a karitatív és a missziós rendezvények időren
 
 j) a távbeszélő készülék használatának rendjét és feltételeit;
 
-k)[^32] az elítéltnél tartható tárgyak fajtánként meghatározott mennyiségét [21. § (1) bek.];
+k)[^35] az elítéltnél tartható tárgyak fajtánként meghatározott mennyiségét [21. § (1) bek.];
 
-l)[^33] a körleten betartandó balesetvédelmi és tűzvédelmi előírásokat;
+l)[^36] a körleten betartandó balesetvédelmi és tűzvédelmi előírásokat;
 
-m)[^34] a dohányzással kapcsolatos rendelkezéseket.
+m)[^37] a dohányzással kapcsolatos rendelkezéseket.
 
-(3)[^35] Az elítéltet a házirendben tájékoztatni kell a pártfogó felügyelői szolgálat önkéntes igénybevételének lehetőségéről.
+(3)[^38] Az elítéltet a házirendben tájékoztatni kell a pártfogó felügyelői szolgálat önkéntes igénybevételének lehetőségéről.
 
-(4)[^36] A házirend megtartására, valamint megszegésének a következményeire az elítéltet figyelmeztetni kell.
+(4)[^39] A házirend megtartására, valamint megszegésének a következményeire az elítéltet figyelmeztetni kell.
 
-(5)[^37] A házirendtől csak a parancsnok engedélyével lehet eltérni.
+(5)[^40] A házirendtől csak a parancsnok engedélyével lehet eltérni.
 
-[^31]: A 34. § (2) bekezdése a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének b) pontja szerint módosított szöveg.
-[^32]: A 34. § (2) bekezdésének k) pontját a 18/2002. (XI. 30.) IM rendelet 9. §-a iktatta a szövegbe.
-[^33]: A 34. § (2) bekezdésének l) pontját a 18/2002. (XI. 30.) IM rendelet 9. §-a iktatta a szövegbe.
-[^34]: A 34. § (2) bekezdésének m) pontját a 18/2002. (XI. 30.) IM rendelet 9. §-a iktatta a szövegbe.
-[^35]: A 34. § új (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^36]: A 34. § eredeti (3) bekezdésének számozását a 24/2003. (VII. 1.) IM rendelet 4. §-a (4) bekezdésre változtatta.
-[^37]: A 34. § eredeti (4) bekezdésének számozását a 24/2003. (VII. 1.) IM rendelet 4. §-a (5) bekezdésre változtatta.
+[^34]: A 34. § (2) bekezdése a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének b) pontja szerint módosított szöveg.
+[^35]: A 34. § (2) bekezdésének k) pontját a 18/2002. (XI. 30.) IM rendelet 9. §-a iktatta a szövegbe.
+[^36]: A 34. § (2) bekezdésének l) pontját a 18/2002. (XI. 30.) IM rendelet 9. §-a iktatta a szövegbe.
+[^37]: A 34. § (2) bekezdésének m) pontját a 18/2002. (XI. 30.) IM rendelet 9. §-a iktatta a szövegbe.
+[^38]: A 34. § új (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
+[^39]: A 34. § eredeti (3) bekezdésének számozását a 24/2003. (VII. 1.) IM rendelet 4. §-a (4) bekezdésre változtatta.
+[^40]: A 34. § eredeti (4) bekezdésének számozását a 24/2003. (VII. 1.) IM rendelet 4. §-a (5) bekezdésre változtatta.

@@ -1,4 +1,4 @@
-## 52. §[^61] A parancsnok biztonsági okból, rendkívüli esemény bekövetkezésének a megelőzése, megszakítása vagy felszámolása érdekében – a kiváltó ok megszűnéséig, a végrehajtási fokozattól függetlenül – elrendelheti az elítéltek elhelyezési körletén az ajtók zárva tartását.
+## 52. §[^65] A parancsnok biztonsági okból, rendkívüli esemény bekövetkezésének a megelőzése, megszakítása vagy felszámolása érdekében – a kiváltó ok megszűnéséig, a végrehajtási fokozattól függetlenül – elrendelheti az elítéltek elhelyezési körletén az ajtók zárva tartását.
 
 ## Egyes jogok gyakorlásának a felfüggesztése
 
@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdés szerinti intézkedés alatt is engedélyezhető, hogy az elítélt a súlyosan beteg hozzátartozóját meglátogassa, részt vegyen a hozzátartozója temetésén.
 
-(3)[^62] A jogok gyakorlásának a felfüggesztéséről az érintett elítélteket, továbbá a lehetőségek szerint mindazokat – a hatóságokat, a látogatásra és csomagküldésre jogosultakat – értesíteni kell, akikre az intézkedés végrehajtása kihat.
+(3)[^66] A jogok gyakorlásának a felfüggesztéséről az érintett elítélteket, továbbá a lehetőségek szerint mindazokat – a hatóságokat, a látogatásra és csomagküldésre jogosultakat – értesíteni kell, akikre az intézkedés végrehajtása kihat.
 
-[^61]: Az 52. § a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének b) pontja szerint módosított szöveg.
-[^62]: Az 53. § (3) bekezdése a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének b) pontja szerint módosított szöveg.
+[^65]: Az 52. § a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének b) pontja szerint módosított szöveg.
+[^66]: Az 53. § (3) bekezdése a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének b) pontja szerint módosított szöveg.

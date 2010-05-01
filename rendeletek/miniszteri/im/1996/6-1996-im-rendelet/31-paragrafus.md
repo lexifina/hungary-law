@@ -16,6 +16,6 @@ e) jogszabály így rendelkezik.
 
 (3) Az elítélt a (2) bekezdés szerinti intézetbe csak akkor szállítható, ha ott a szabadságvesztés végrehajtási fokozatára, illetve az elítéltek elkülönítésére vonatkozó jogszabályi rendelkezések végrehajtása biztosított.
 
-(4)[^30] Ha az elítélt más intézetben való elhelyezését kéri, a kérelmet a fogva tartó intézet parancsnokához kell benyújtani. Az intézet parancsnoka a kérelmet az (1) bekezdés szerinti szervezeti egységhez terjeszti fel.
+(4)[^33] Ha az elítélt más intézetben való elhelyezését kéri, a kérelmet a fogva tartó intézet parancsnokához kell benyújtani. Az intézet parancsnoka a kérelmet az (1) bekezdés szerinti szervezeti egységhez terjeszti fel.
 
-[^30]: A 31. § (4) bekezdését a 10/2006. (VII. 25.) IRM rendelet 1. §-a iktatta be.
+[^33]: A 31. § (4) bekezdését a 10/2006. (VII. 25.) IRM rendelet 1. §-a iktatta be.

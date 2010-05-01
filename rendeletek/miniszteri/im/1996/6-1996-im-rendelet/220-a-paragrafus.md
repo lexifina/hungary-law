@@ -1,4 +1,4 @@
-## VIII. CÍM[^178]
+## VIII. CÍM[^189]
 
 ## A KATONÁKRA VONATKOZÓ RENDELKEZÉSEK
 
@@ -6,4 +6,4 @@
 
 (2) A szabadságvesztés félbeszakítását katonai érdekből [Bv. tvr. 22. § (1) bek.] az állományilletékes parancsnok kezdeményezheti.
 
-[^178]: A II. fejezet új VIII. címét (220/A–220/F. §) a 61/2007. (XII. 23.) IRM rendelet 6. §-a iktatta be, egyidejűleg az eredeti VIII. fejezet számozását IX. fejezetre változtatva.
+[^189]: A II. fejezet új VIII. címét (220/A–220/F. §) a 61/2007. (XII. 23.) IRM rendelet 6. §-a iktatta be, egyidejűleg az eredeti VIII. fejezet számozását IX. fejezetre változtatva.

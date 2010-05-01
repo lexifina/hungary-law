@@ -2,6 +2,6 @@
 
 (2) Az elítélt letéti pénzéből – ha nem dolgozik – a szabadulás idejére a 161. § (3) bekezdés szerinti összeget tartalékolni kell.
 
-(3)[^112]
+(3)[^117]
 
-[^112]: A 158. § (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^117]: A 158. § (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.

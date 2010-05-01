@@ -1,3 +1,3 @@
-## 210/A. §[^172] A fiatalkorú elítéltek részére – amennyiben annak feltételei biztosítottak – naponta lehetővé kell tenni a meleg vizes fürdést (zuhanyozást).
+## 210/A. §[^183] A fiatalkorú elítéltek részére – amennyiben annak feltételei biztosítottak – naponta lehetővé kell tenni a meleg vizes fürdést (zuhanyozást).
 
-[^172]: A 210/A. §-t a 18/2002. (XI. 30.) IM rendelet 57. §-a iktatta a szövegbe.
+[^183]: A 210/A. §-t a 18/2002. (XI. 30.) IM rendelet 57. §-a iktatta a szövegbe.

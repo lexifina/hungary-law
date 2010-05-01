@@ -2,7 +2,7 @@
 
 14. § (1) Ha a bíróság felhívására az elítélt az illetékes megyei (fővárosi) intézet hivatali idejében jelentkezik, az intézet
 
-a) haladéktalanul megkéri az illetékes bíróságtól a bírói értesítést, az ítéletkiadmányt, illetőleg a mellékbüntetésről szóló értesítést;
+a)[^10] haladéktalanul megkéri az illetékes bíróságtól a bírói értesítést, az ítéletkiadmányt, a foglalkozásról eltiltásról, járművezetéstől eltiltásról, kiutasításról, illetve mellékbüntetésről szóló értesítést;
 
 b) az elítéltet ellátja hitelezett utazási igazolvánnyal és útba indítja a végrehajtásra kijelölt intézetbe;
 
@@ -33,3 +33,5 @@ g) a személyazonossága kétséges;
 h) az utazást nem vállalja, vagy alapos okból feltételezhető, hogy a jelentkezési kötelezettségének nem tesz eleget;
 
 i) a bíróság vagy az ügyész a szabadságvesztés ideiglenes foganatbavételét rendelte el.
+
+[^10]: A 14. § (1) bekezdés a) pontja a 11/2010. (III. 31.) IRM rendelet 3. §-ával megállapított szöveg.

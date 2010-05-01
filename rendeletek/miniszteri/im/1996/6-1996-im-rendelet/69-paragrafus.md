@@ -10,6 +10,8 @@
 
 a) aki az előzetes letartóztatását a szabadságvesztést végrehajtó intézetben töltötte, és a (2) bekezdésben foglalt feladatokat már elvégezték;
 
-b) akinek a kényszergyógyítását rendelték el;
+b)[^72]
 
 c) akit a személyiségzavara miatt az IMEI-ben vizsgálnak ki.
+
+[^72]: A 69. § (4) bekezdés b) pontját a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés a) pontja hatályon kívül helyezte.

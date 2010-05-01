@@ -34,7 +34,7 @@
 
 ## – az előzetesen letartóztatottnál saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
 
-## 3.[^211] Élelmiszerek, étkezési eszközök:
+## 3.[^225] Élelmiszerek, étkezési eszközök:
 
 ## – az intézetben vásárolt vagy csomagban beküldhető élelmiszerek;
 
@@ -54,7 +54,7 @@
 
 ## – pohár.
 
-## 4.[^212] Dohányáruk:
+## 4.[^226] Dohányáruk:
 
 ## – cigaretta, szivar, dohány;
 
@@ -80,7 +80,7 @@
 
 ## – elemmel működtethető zsebrádió, fülhallgató;
 
-## –[^213] maximum 37 cm-es képátmérőjű, hordozható, teletext nélküli tv-készülék;
+## –[^227] maximum 37 cm-es képátmérőjű, hordozható, teletext nélküli tv-készülék;
 
 ## – karóra;
 
@@ -98,6 +98,6 @@
 
 2. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^211]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^212]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^213]: Az 1. számú melléklet 6. pontjának harmadik gondolatjeles bekezdése a 18/2002. (XI. 30.) IM rendelet 66. §-ának (2) bekezdésével megállapított szöveg.
+[^225]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^226]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^227]: Az 1. számú melléklet 6. pontjának harmadik gondolatjeles bekezdése a 18/2002. (XI. 30.) IM rendelet 66. §-ának (2) bekezdésével megállapított szöveg.

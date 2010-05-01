@@ -1,4 +1,4 @@
-76/C. §[^74] (1) Az elítélt írásbeli kérelmére a prevenciós részlegen történő elhelyezést meg kell szüntetni.
+76/C. §[^79] (1) Az elítélt írásbeli kérelmére a prevenciós részlegen történő elhelyezést meg kell szüntetni.
 
 (2) Az elítélt prevenciós részlegen történő elhelyezésének megszüntetését kell kezdeményezni, ha
 
@@ -8,4 +8,4 @@ b) az elítélt az intézetben vagy azon kívül súlyos fegyelemsértést, ille
 
 (3) A prevenciós részlegből a (2) bekezdés szerinti kihelyezésről – a nevelő javaslata alapján – a befogadási bizottság dönt.
 
-[^74]: A 76/C. §-t a 18/2002. (XI. 30.) IM rendelet 24. §-a iktatta a szövegbe.
+[^79]: A 76/C. §-t a 18/2002. (XI. 30.) IM rendelet 24. §-a iktatta a szövegbe.
