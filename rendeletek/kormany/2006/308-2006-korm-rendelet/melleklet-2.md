@@ -18,7 +18,7 @@
 
 | 9. Dél-alföldi Iroda | Szeged | a kulturális örökség ingatlan elemeinek védelme (az 1. pont kivételével) | Bács-Kiskun megye, Békés megye, Csongrád megye |
 
-2. számú melléklet a 308/2006. (XII. 23.) Korm. rendelethez[^24]
+2. számú melléklet a 308/2006. (XII. 23.) Korm. rendelethez[^21]
 
 A Kulturális Örökségvédelmi Hivatal szakhatósági feladatkörébe tartozó szakkérdések
 
@@ -116,4 +116,4 @@ II. A műemléki jelentőségű területet érintő más hatóságok előtt indu
 
 3.4. a reklámhordozóknak, fényforrásoknak, illetve egyéb homlokzati szerelvényeknek és berendezéseknek a terület, illetve épület történeti jellegéhez illeszkedő alkalmazása.
 
-[^24]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 206. pontja hatályon kívül helyezte, újonnan a 362/2008. (XII. 31.) Korm. rendelet 5. § (3) bekezdése iktatta be. Ez utóbbi módosító rendelet 45. § (3) bekezdése alapján a 2009. március 31-éig megindult eljárásokban a Kulturális Örökségvédelmi Hivatal szakhatóságként történő bevonására a 2009. február 28-án hatályos rendelkezéseket kell alkalmazni.
+[^21]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 206. pontja hatályon kívül helyezte, újonnan a 362/2008. (XII. 31.) Korm. rendelet 5. § (3) bekezdése iktatta be. Ez utóbbi módosító rendelet 45. § (3) bekezdése alapján a 2009. március 31-éig megindult eljárásokban a Kulturális Örökségvédelmi Hivatal szakhatóságként történő bevonására a 2009. február 28-án hatályos rendelkezéseket kell alkalmazni.
