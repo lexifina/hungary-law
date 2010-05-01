@@ -1,0 +1,1 @@
+7. § A munkavállaló a munkába járás címén járó utazási költségtérítés igénybevételével egyidejűleg nyilatkozik a lakóhelyéről és a tartózkodási helyéről, valamint arról, hogy a napi munkába járás a lakóhelyéről vagy a tartózkodási helyéről történik-e.
