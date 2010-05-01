@@ -24,7 +24,7 @@ d)[^108] a támogatott termékre közgyógyellátás jogcímén jogosultak eset�
 
 (3)[^110] A (2) bekezdésben foglaltak esetén a biztosított részére a javított eszközzel azonos rendeltetésű eszközcsoportba tartozó új terméket rendelni nem lehet, kivéve a kihordási időn belüli felírhatóság szabályaival azonos esetben. Ha a kihordási idő leteltét követően az eszközzel azonos rendeltetésű eszközcsoportba tartozó új terméket rendeltek, a (2) bekezdésben foglalt javítási díjhoz nyújtott támogatás nem vehető igénybe.
 
-(4)[^111] Az árhoz nyújtott támogatásban nem részesülő, finanszírozott ellátás keretében beültetett cochlearis implantátum rendeltetésszerű használata során a külön jogszabályban foglalt kötelező jótállási időtartamon túli meghibásodása esetén az alkatrészek cseréjéhez és javítási díjához nyújtott külön jogszabályban meghatározott mértékű támogatás elszámolására az OEP megállapodást köthet a szolgáltatóval.
+(4)[^111] A támogatásban nem részesülő cochleáris implantátum alkalmazása során az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló kormányrendeletben foglalt kötelező jótállási időtartamon túli meghibásodás esetén az alkatrészek cseréjéhez és javítási díjához nyújtott támogatás mértéke a csere vagy a javítás díjának 90%-a, melynek elszámolására az OEP megállapodást köthet a szolgáltatóval.
 
 (5)[^112] Az árhoz nyújtott támogatásban nem részesülő gyógyászati segédeszközök kölcsönzési díjához nyújtott támogatás mértéke a kölcsönzési díj áfával növelt összegének külön jogszabályban meghatározott százaléka.
 
@@ -45,7 +45,7 @@ b) a javítás munkadíja, mely a javítás munkafázisainak órában kifejezett
 [^108]: A Vhr. 8. § (1) bekezdésének d) pontját a 91/2004. (IV. 26.) Korm. rendelet 5. §-a iktatta a szövegbe.
 [^109]: A Vhr. 8. §-ának (2) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^110]: A Vhr. 8. § (3) bekezdése a 283/2008. (XI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^111]: A Vhr. 8. §-ának új (4) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (4)–(7) bekezdésének számozását (5)–(8) bekezdésre változtatta.
+[^111]: A Vhr. 8. §-ának új (4) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (4)–(7) bekezdésének számozását (5)–(8) bekezdésre változtatta. A Vhr. 8. § (4) bekezdése a 151/2010. (IV. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^112]: A Vhr. 8. §-ának (4) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be. A (4) bekezdés számozását (5) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 3. §-a.
 [^113]: A Vhr. 8. § (5) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 172/2007. (VI. 29.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. Az (5) bekezdés számozását (6) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 3. §-a.
 [^114]: A Vhr. 8. §-ának (6) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 10. § (3) bekezdése iktatta be. A (6) bekezdés számozását (7) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 3. §-a.
