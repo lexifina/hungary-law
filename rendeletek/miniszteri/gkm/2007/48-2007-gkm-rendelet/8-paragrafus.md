@@ -32,9 +32,9 @@ b) a járművet poggyászával, ruházatával vagy más módon beszennyezi.
 
 (4) A megállapított menetdíj vagy pótjegy díján felül 6000 Ft pótdíjat fizet az, aki
 
-a)[^15]
+a)[^16]
 
-b)[^16] érvénytelen jeggyel, bérlettel vagy érvénytelen utazási igazolvánnyal kísérli meg az utazást, illetve érvénytelen (pl. lejárt érvényességű) kedvezményre jogosító igazolvánnyal, igazolással veszi igénybe a kedvezményt,
+b)[^17] érvénytelen jeggyel, bérlettel vagy érvénytelen utazási igazolvánnyal kísérli meg az utazást, illetve érvénytelen (pl. lejárt érvényességű) kedvezményre jogosító igazolvánnyal, igazolással veszi igénybe a kedvezményt,
 
 c) a menetdíjat, viteldíjat, pótdíjat a vonaton nem fizeti meg,
 
@@ -54,5 +54,5 @@ h) aki a vasúton a kéziféket, a vészféket vagy vészfékjelzőt kényszerí
 
 (7) Az egyes menetjegyek, bérletek és más utazási igazolványok érvénytelenségének eseteit részletesen a szolgáltatók díjszabása tartalmazza.
 
-[^15]: A 8. § (4) bekezdésének a) pontját a 4/2008. (II. 29.) GKM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^16]: A 8. § (4) bekezdésének b) pontja a 4/2008. (II. 29.) GKM rendelet 2. §-ával megállapított szöveg.
+[^16]: A 8. § (4) bekezdésének a) pontját a 4/2008. (II. 29.) GKM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^17]: A 8. § (4) bekezdésének b) pontja a 4/2008. (II. 29.) GKM rendelet 2. §-ával megállapított szöveg.

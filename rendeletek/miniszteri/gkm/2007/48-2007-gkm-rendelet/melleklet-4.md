@@ -2,39 +2,39 @@
 
 ## 1. A díjak az autóbuszok ülőhelyeitől és komfortfokozatától függően a következők:
 
-| Díjcsoport | Ülőhely (fő) |  | Kerekítve |
+|  | A | B | C | D | E | F |
 
-| alap | komfort | kiemelt komfort |
+| 1 | Díjcsoport | Ülőhely (fő) |  | alap | komfort | kiemelt komfortú |
 
-| I. | 9-20 fő | forint/km | 225 | 295 | 385 |
+| 2 | I. | 9–20 fő | forint/km | 225 | 295 | 385 |
 
-|  |  | forint/óra | 2 810 | 3 690 | 4 810 |
+| 3 | forint/óra | 2 810 | 3 690 | 4 810 |
 
-|  |  | Legcsekélyebb díj (forint) | 14 100 | 18 500 | 24 100 |
+| 4 | Legcsekélyebb díj (forint) | 14 100 | 18 500 | 24 100 |
 
-| II. | 21-40 fő | forint/km | 295 | 385 | 455 |
+| 5 | II. | 21–40 fő | forint/km | 295 | 385 | 455 |
 
-|  |  | forint/óra | 3 690 | 4 810 | 5 690 |
+| 6 | forint/óra | 3 690 | 4 810 | 5 690 |
 
-|  |  | Legcsekélyebb díj (forint) | 18 500 | 24 100 | 28 500 |
+| 7 | Legcsekélyebb díj (forint) | 18 500 | 24 100 | 28 500 |
 
-| III. | 41-54 fő | forint/km | 385 | 455 | 540 |
+| 8 | III. | 41–54 fő | forint/km | 385 | 455 | 540 |
 
-|  |  | forint/óra | 4 810 | 5 690 | 6 750 |
+| 9 | forint/óra | 4 810 | 5 690 | 6 750 |
 
-|  |  | Legcsekélyebb díj (forint) | 24 100 | 28 500 | 33 800 |
+| 10 | Legcsekélyebb díj (forint) | 24 100 | 28 500 | 33 800 |
 
-| IV. | 55 felett | forint/km | 455 | 540 | 625 |
+| 11 | IV. | 55 felett | forint/km | 455 | 540 | 625 |
 
-|  |  | forint/óra | 5 690 | 6 750 | 7 810 |
+| 12 | forint/óra | 5 690 | 6 750 | 7 810 |
 
-|  |  | Legcsekélyebb díj (forint) | 28 500 | 33 800 | 39 100 |
+| 13 | Legcsekélyebb díj (forint) | 28 500 | 33 800 | 39 100 |
 
-| V. | Csuklós | forint/km | 575 |  |
+| 14 | V. | Csuklós | forint/km forint/óra | 575 |  |
 
-|  |  | forint/óra | 7 190 |  |
+| 15 | 7 190 |
 
-|  |  | Legcsekélyebb díj (forint) | 36 000 |  |
+| 16 | Legcsekélyebb díj (forint) | 36 000 |
 
 ## Az ülőhelyek számának meghatározásánál a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet szerinti besorolást kell alkalmazni.
 
@@ -42,41 +42,33 @@
 
 ## b) A „komfort” kategóriába tartozó autóbuszoknak legalább a következő felszereltséggel kell rendelkezniük:
 
-## – napvédő roletta vagy függöny az utasablaknál,
+## –  napvédő roletta vagy függöny az utasablaknál,
 
-## – mikrofon és hangerősítő az autóbusz-vezető vagy utaskísérő számára (kivéve a 20 fő alatti befogadóképességű autóbuszokat), utastéri hangszórók,
+## –  mikrofon és hangerősítő az autóbusz-vezető vagy utaskísérő számára (kivéve a 20 fő alatti befogadóképességű autóbuszokat), utastéri hangszórók,
 
-## – az utastértől elkülönített, külön zárható poggyásztér vagy utánfutó (kivéve a 20 fő alatti befogadóképesség),
+## –  az utastértől elkülönített, külön zárható poggyásztér vagy utánfutó (kivéve a 20 fő alatti befogadóképesség),
 
-## – légkondicionálás.
+## –  légkondicionálás.
 
 ## c) A „kiemelt komfort” kategóriájú autóbuszoknak a „komfortos” kategória követelményein felül rendelkezniük kell:
 
-## – videóval (41 fő feletti befogadóképesség esetén legalább 2 képernyővel),
+## –  videóval (41 fő feletti befogadóképesség esetén legalább 2 képernyővel),
 
-## – forróital-automatával,
+## –  forróital-automatával,
 
-## – vízöblítéses vagy kémiai működtetésű WC-vel,
+## –  vízöblítéses vagy kémiai működtetésű WC-vel,
 
-## – az átjáró felé kimozdítható üléssel,
+## –  az átjáró felé kimozdítható üléssel,
 
-## – 20 fő alatti befogadóképesség esetén is mikrofonnal és hangerősítővel és az autóbusz-vezető vagy utaskísérő számára utastéri hangszórókkal.
+## –  20 fő alatti befogadóképesség esetén is mikrofonnal és hangerősítővel és az autóbusz-vezető vagy utaskísérő számára utastéri hangszórókkal.
 
 ## A „komfortos” és a „kiemelt komfortú” fokozatba akkor sorolható valamely autóbusz, ha a fokozatra meghatározott feltételek mindegyikének megfelel.
 
 ## 3. A díjszámítás módját az határozza meg, hogy a különjárat időtartama legfeljebb 72 óra vagy azt meghaladja.
 
-## a) A 72 óra vagy ennél rövidebb időtartamú különjáratért a díjat vagylagos számítással úgy kell megállapítani, hogy az autóbusz ülőhelyszámára, illetve típusára és komfortfokozatára érvényes óra-, illetve kilométerdíjat meg kell szorozni a díjszámítási idővel, illetőleg a díjszámítási távolsággal.
+## a) A 72 óra vagy ennél rövidebb időtartamú különjáratért a díjat vagylagos számítással úgy kell megállapítani, hogy az autóbusz ülőhelyszámára, illetve típusára és komfortfokozatára érvényes óra-, illetve kilométerdíjat meg kell szorozni a díjszámítási idővel, illetőleg a díjszámítási távolsággal. A két eredmény közül a magasabb díjat kell felszámítani. Ha az így számított díj nem éri el autóbuszonként a legcsekélyebb díjat, úgy megállapodás szerinti, de legfeljebb a legcsekélyebb díjnak megfelelő a fizetendő díj. Ha a különjáratot – ugyanazon személyekből álló csoport szállítása céljából – egy nap folyamán többször kell kiállítani, a legcsekélyebb díjat a napi szállítások befejezése után, egyszer lehet felszámítani. A díjszámítási idő: a garázsból (telephelyről) indulástól, a garázsba (telephelyre) visszaérkezésig eltelt idő, az általános kerekítési szabályok szerint egész órára kerekítve. A díjszámítási távolság: a garázsból (telephelyről) indulástól a garázsba (telephelyre) visszaérkezésig megtett kilométer, az általános kerekítési szabályok szerint egész kilométerre kerekítve.
 
-## A két eredmény közül a magasabb díjat kell felszámítani. Ha az így számított díj nem éri el autóbuszonként a legcsekélyebb díjat, úgy megállapodás szerinti, de legfeljebb a legcsekélyebb díjnak megfelelő a fizetendő díj. Ha a különjáratot – ugyanazon személyekből álló csoport szállítása céljából – egy nap folyamán többször kell kiállítani, a legcsekélyebb díjat a napi szállítások befejezése után, egyszer lehet felszámítani.
-
-## A díjszámítási idő: a garázsból (telephelyről) indulástól, a garázsba (telephelyre) visszaérkezésig eltelt idő, az általános kerekítési szabályok szerint egész órára kerekítve.
-
-## A díjszámítási távolság: a garázsból (telephelyről) indulástól a garázsba (telephelyre) visszaérkezésig megtett kilométer, az általános kerekítési szabályok szerint egész kilométerre kerekítve.
-
-## b) A 72 órát meghaladó különjáratok díját – az autóbusz ülőhelyszámára és komfortfokozatára figyelemmel – a megtett távolság alapján kell megállapítani.
-
-## A díjszámítási távolságot az a) pontban előírtak szerint kell meghatározni, ha azonban autóbuszonként és naptári naponként a teljesítmény nem éri el a 100 km-t, megegyezés szerinti, de legfeljebb 100 km vehető számításba. Minden megkezdett 24 óra teljes napnak számít.
+## b) A 72 órát meghaladó különjáratok díját – az autóbusz ülőhelyszámára és komfortfokozatára figyelemmel – a megtett távolság alapján kell megállapítani. A díjszámítási távolságot az a) pontban előírtak szerint kell meghatározni, ha azonban autóbuszonként és naptári naponként a teljesítmény nem éri el a 100 km-t, megegyezés szerinti, de legfeljebb 100 km vehető számításba. Minden megkezdett 24 óra teljes napnak számít.
 
 ## c) A különjárat által megtett kilométer-távolságot az autóbusz menetíró készüléke, annak hiányában a kilométer-számláló szerkezet állása alapján kell megállapítani. Ha a kilométer-számláló szerkezet útközben meghibásodik, a kilométer-távolságot a mindenkori legújabb kiadású úthálózati térkép alapján kell kiszámítani.
 
@@ -86,6 +78,6 @@
 
 ## 6. A különjárat teljesítése során felmerülő autópálya-használati, parkolási és kompdíjak a megrendelőt terhelik.
 
-4. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^22]
+4. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^23]
 
-[^22]: A 4. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^23]: A 4. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
