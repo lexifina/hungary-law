@@ -4,6 +4,8 @@
 
 (3) A (2) bekezdésben jelzett időt az IMEI főigazgató főorvosa egy hónappal meghosszabbíthatja. Az egy hónap, illetve a meghosszabbított időtartam elteltét követően az elítéltet gyógyító-nevelő csoportba kell elhelyezni.
 
-(4) A kényszergyógyításra kötelezett elítélttel kapcsolatban az R. 174. §-ában foglaltak szerint kell eljárni.
+(4)[^20]
 
 (5) Ha a vizsgálat megállapítása szerint a fogvatartott elmeállapota miatt a szabadságvesztést nem lehet végrehajtani, a 25. § (2)–(4) bekezdéseinek a szabályait kell alkalmazni.
+
+[^20]: A 24. § (4) bekezdését a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés c) pontja hatályon kívül helyezte.
