@@ -1,4 +1,4 @@
-## 54. §[^67] Ha a közérdekű munkát kiszabó ítélet a helyi bíróság előtt emelkedik jogerőre, a tanács elnöke a 11. § értelemszerű alkalmazásával jár el.
+## 54. §[^79] Ha a közérdekű munkát kiszabó ítélet a helyi bíróság előtt emelkedik jogerőre, a tanács elnöke a 11. § értelemszerű alkalmazásával jár el.
 
 55. § (1) A kezelőiroda a közérdekű munkáról szóló értesítőlapokat összegyűjti, és azokról tíznaponként gyűjtőjegyzéket készít, amelyet folyamatosan növekvő sorszámmal lát el.
 
@@ -12,4 +12,4 @@
 
 (6) A kezelőiroda vezetője a továbbiakban a 13. § (2)–(6) bekezdésének értelemszerű alkalmazásával jár el úgy, hogy megjelöli azt a megyei bíróságot is, amelynek bv. csoportja a büntetést előírta.
 
-[^67]: Az 54. § a 23/2003. (VI. 26.) IM rendelet 21. §-ával megállapított szöveg.
+[^79]: Az 54. § a 23/2003. (VI. 26.) IM rendelet 21. §-ával megállapított szöveg.

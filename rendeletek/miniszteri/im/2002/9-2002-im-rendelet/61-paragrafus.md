@@ -1,4 +1,4 @@
-## 60. §[^71] A bíróság nem állít ki értesítőlapot, ha a kiszabott közérdekű munka a Btk. 69. §-a, illetőleg a Be. 587. §-ának (3) bekezdése alapján nem hajtható végre.
+## 60. §[^83] A bíróság nem állít ki értesítőlapot, ha a kiszabott közérdekű munka a Btk. 69. §-a, illetőleg a Be. 587. §-ának (3) bekezdése alapján nem hajtható végre.
 
 ## A közérdekű munka foganatba vétele
 
@@ -6,4 +6,4 @@
 
 (2) A bv. előadó a részjegyzéken feljegyzi azokat az előírási tételszámokat, amelyek alatt az ügyeket előírta, majd a részjegyzék egyik példányát az első fokon eljárt bíróságnak visszaküldi.
 
-[^71]: A 60. § a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^83]: A 60. § a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének a) pontja szerint módosított szöveg.

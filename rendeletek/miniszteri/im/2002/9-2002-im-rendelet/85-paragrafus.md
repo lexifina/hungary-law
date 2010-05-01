@@ -8,6 +8,6 @@
 
 (5) Ha a bűnügyi költség megfizetésére kötelezettet a bíróság kiutasította, a BGH a bűnügyi költség megfizetéséről az idegenrendészeti központi adatkezelő szervet értesíti.
 
-(6)[^110] Az ügyész által megállapított bűnügyi költség esetén az (1)–(4) bekezdés rendelkezéseit értelemszerűen kell alkalmazni azzal, hogy halasztás vagy részletfizetés nem engedélyezhető.
+(6)[^129] Az ügyész által megállapított bűnügyi költség esetén az (1)–(4) bekezdés rendelkezéseit értelemszerűen kell alkalmazni azzal, hogy halasztás vagy részletfizetés nem engedélyezhető.
 
-[^110]: A 85. § (6) bekezdését a 14/2006. (III. 28.) IM rendelet 7. §-a iktatta be.
+[^129]: A 85. § (6) bekezdését a 14/2006. (III. 28.) IM rendelet 7. §-a iktatta be.

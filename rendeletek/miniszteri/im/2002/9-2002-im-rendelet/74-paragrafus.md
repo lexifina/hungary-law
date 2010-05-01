@@ -1,7 +1,8 @@
-74. § (1)[^103] Nem kell egységes értesítőlapot kiállítani a pénzbüntetésről, ha annak végrehajtását a bíróság felfüggesztette, vagy a pénzbüntetést az előzetes fogvatartással, illetőleg házi őrizettel teljes egészében lerovottnak nyilvánította.
+74. § (1)[^117] Nem kell egységes értesítőlapot kiállítani a pénzbüntetésről, ha a pénzbüntetést az előzetes fogvatartással, illetőleg házi őrizettel teljes egészében lerovottnak nyilvánította.
 
 (2) Ha a bíróság az államot megillető bűnügyi költség megfizetésére egyetemleges kötelezettséget állapít meg, az erre vonatkozó adatokat csak az első helyen megnevezett elítélttel szemben kiállított egységes értesítőlapon kell feltüntetni, egyben a jogerős határozatot meg kell küldeni a BGH részére. A további elítéltek tekintetében egyéb okból kiállított egységes értesítőlapon csupán az egyetemleges kötelezettséget előíró jogerős határozat számára kell utalni.
 
-(3) Ha a bíróság a pénzbüntetés mellett kiutasítást alkalmazott, a tanács elnöke a pénzbüntetésről kiállított egységes értesítőlapon a kiutasítás alkalmazását feltünteti.
+(3)[^118]
 
-[^103]: A 74. § (1) bekezdése a 23/2003. (VI. 26.) IM rendelet 31. §-ával megállapított szöveg.
+[^117]: A 74. § (1) bekezdése a 23/2003. (VI. 26.) IM rendelet 31. §-ával megállapított, a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^118]: A 74. § (3) bekezdését a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés d) pontja hatályon kívül helyezte.

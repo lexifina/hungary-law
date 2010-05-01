@@ -14,7 +14,7 @@ f)[^7] feltételes szabadság megszüntetése esetén, ha arra az ítélet joger
 
 (2)[^8] A másodfokú bíróság által kiállított értesítőlapon az első fokon eljárt bíróság, a harmadfokú bíróság által kiállított értesítőlapon az első fokon és a másodfokon eljárt bíróság megnevezését, ügyszámát és határozata keltét is fel kell tüntetni.
 
-(3) Ha a tanács elnöke az ügydöntő határozat kihirdetése után nyomban előterjesztett kérelemre halasztást vagy részletfizetést engedélyezett, ezt a büntető határozatról kiállított értesítőlap e célra szolgáló rovatában, illetőleg ,,Megjegyzés'' rovatában – a halasztás tartamának, a részletfizetésre vonatkozó adatoknak a megjelölésével – feltünteti.
+(3)[^9] Ha a tanács elnöke az ügydöntő határozatában részletfizetést [Btk. 51. § (4) bekezdés] vagy az ügydöntő határozat kihirdetése után nyomban előterjesztett kérelemre halasztást vagy részletfizetést engedélyezett, ezt a büntető határozatról kiállított értesítőlap e célra szolgáló rovatában, illetve „Megjegyzés” rovatában – a halasztás tartamának, a részletfizetésre vonatkozó adatoknak a megjelölésével – feltünteti.
 
 (4) A tanács elnöke, a (3) bekezdés esetén kívül, a halasztás vagy részletfizetés engedélyezése tárgyában hozott jogerős határozat kiadmányát – ha erről tudomása van, a büntetés, intézkedés vagy vagyoni jellegű joghátrány előírási tételszámára hivatkozással – haladéktalanul megküldi a végrehajtásról gondoskodó büntetés-végrehajtási csoportnak, illetve a bírósági gazdasági hivatalnak.
 
@@ -22,3 +22,4 @@ f)[^7] feltételes szabadság megszüntetése esetén, ha arra az ítélet joger
 [^6]: A 3. § (1) bekezdésének e) pontját a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
 [^7]: A 3. § (1) bekezdés f) pontja a 30/2009. (VIII. 7.) IRM rendelet 1. §-ával megállapított szöveg.
 [^8]: A 3. § (2) bekezdése a 11/2006. (VII. 25.) IRM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. § (3) bekezdése a 11/2010. (III. 31.) IRM rendelet 11. §-ával megállapított szöveg.

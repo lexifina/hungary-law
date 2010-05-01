@@ -1,9 +1,11 @@
-98. § (1) A bv. előadó a II. jelzésű mellékbüntetési értesítőlapot szabadságvesztésről szóló értesítőlappal, valamint az ítélet két kiadmányával együtt adja át a bv. intézetnek – illetőleg az ítéletkiadmányt pótlólag megküldi – és az értesítőlapon feljegyzi az ítélet jogerőre emelkedésétől a szabadságvesztés megkezdéséig a mellékbüntetés tartamába beszámítható időt.
+## Mellékbüntetés végrehajtása összbüntetésbe foglalás esetén
 
-(2) Ha a bíróság a fogva levő terheltre vonatkozó szabadságvesztésről szóló értesítőlapot közvetlenül a bv. intézetnek adta át, a bv. előadó a II. jelzésű mellékbüntetési értesítőlapot az (1) bekezdésben írt feljegyzés nélkül haladéktalanul adja át a bv. intézetnek.
+98. § (1) Olyan büntetések összbüntetésbe foglalása esetén, amelyek mellett azonos tartamú mellékbüntetéseket szabtak ki, a bíróság az összbüntetésről kiállított értesítőlapon megjelöli, hogy a mellékbüntetések közül melyiket kell végrehajtani.
 
-(3) A bv. előadó a I. jelzésű mellékbüntetési értesítőlapot a 95. § (2) bekezdésben megjelölt hatóságnak küldi meg.
+(2) Összbüntetésbe foglalás esetén a mellékbüntetésről újabb értesítőlapot nem kell kiállítani.
 
-(4) Ha a 95. § (3) és (4) bekezdésben foglaltak szerint a közügyektől eltiltással kapcsolatosan külön mellékbüntetési értesítőlapot kell kiállítani, a bíróság – III-as számozástól a soron következő római számmal ellátott – mellékbüntetési értesítőlapot a 95. (3) és (4) bekezdésben megjelölt szervnek, szervezetnek küldi meg.
+(3) Ha a bíróság az összbüntetésről kiállított értesítőlapon megjelölte, hogy a mellékbüntetések közül melyiket kell végrehajtani, a bv. előadó – amennyiben ez szükséges – a bv. intézettől megkéri a II. jelzésű mellékbüntetési értesítőlapot, és a végrehajtásra kerülő mellékbüntetésre vonatkozó II. jelzésű értesítőlapra feljegyzi azt az összbüntetési ítéletet, amelynek alapján a mellékbüntetést végre kell hajtani.
 
-(5) Kitiltás és kiutasítás esetén a bv. előadó a I. jelzésű mellékbüntetési értesítőlapon feljegyzi, hogy az elítéltnek a szabadságvesztés megkezdésére szóló felhívása milyen időpontra történt, illetőleg azt, hogy az elítélt a szabadságvesztést tölti.
+(4) A bv. előadó a végrehajtásra nem kerülő mellékbüntetésre vonatkozó II. jelzésű értesítőlapra feljegyzi, hogy a mellékbüntetést milyen összbüntetési ítélet alapján nem kell végrehajtani.
+
+(5) A bv. előadó az összbüntetésről kiállított értesítőlappal együtt a végrehajtásra kerülő mellékbüntetésre vonatkozó II. jelzésű értesítőlapot a bv. intézetnek, a végre nem hajtandó mellékbüntetésre vonatkozó II. jelzésű értesítőlapot a 95. § (2) bekezdésében megjelölt hatóságnak küldi meg.

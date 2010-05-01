@@ -8,6 +8,6 @@
 
 (4) Ha a szabadságvesztésről szóló értesítőlapot a megyei bíróság közvetlenül a bv. csoportnak küldte meg, a bv. előadó a (2) bekezdés és a 14. § (2) bekezdése szerint jár el.
 
-(5)[^45] Ha a szabadságvesztésről szóló értesítőlapot az ítélőtábla, illetőleg a Legfelsőbb Bíróság küldte meg a bv. csoportnak, a bv. előadó a szabadságvesztés végrehajtási ügy előírási tételszámát átiratban közli az első fokú bírósággal.
+(5)[^52] Ha a szabadságvesztésről szóló értesítőlapot az ítélőtábla, illetőleg a Legfelsőbb Bíróság küldte meg a bv. csoportnak, a bv. előadó a szabadságvesztés végrehajtási ügy előírási tételszámát átiratban közli az első fokú bírósággal.
 
-[^45]: A 22. § (5) bekezdése a 23/2003. (VI. 26.) IM rendelet 13. §-ával megállapított szöveg.
+[^52]: A 22. § (5) bekezdése a 23/2003. (VI. 26.) IM rendelet 13. §-ával megállapított szöveg.

@@ -1,15 +1,11 @@
-## Végrehajtandó szabadságvesztés mellett kiszabott mellékbüntetés
+97. § (1) A bv. előadó a II. jelzésű mellékbüntetésről kiállított értesítőlapot a szabadságvesztésről szóló értesítőlappal, valamint az ítélet két kiadmányával együtt adja át a bv. intézetnek – vagy az ítéletkiadmányt pótlólag megküldi – és az értesítőlapon feljegyzi az ítélet jogerőre emelkedésétől a szabadságvesztés megkezdéséig a mellékbüntetés tartamába beszámítható időt.
 
-97. § (1) A bíróság az értesítőlapot – mellékbüntetésenként külön-külön – két példányban állítja ki, ha a mellékbüntetést olyan szabadságvesztés mellett szabta ki,
+(2) Ha a bíróság a fogva levő terheltre vonatkozó szabadságvesztésről szóló értesítőlapot közvetlenül a bv. intézetnek adta át, a bv. előadó a II. jelzésű mellékbüntetésről kiállított értesítőlapot az (1) bekezdésben írt feljegyzés nélkül haladéktalanul adja át a bv. intézetnek.
 
-a) amelynek a végrehajtását nem függesztette fel,
+(3) A bv. előadó az I. jelzésű mellékbüntetésről kiállított értesítőlapot a 95. § (2) bekezdésben megjelölt hatóságnak küldi meg.
 
-b)[^136] amelyet az előzetes fogvatartással, illetőleg házi őrizettel kitöltöttnek vett, azonban a terhelt a határozat jogerőre emelkedésekor akár abban, akár más ügyben fogva van.
+(4) Ha a 95. § (3) és (4) bekezdésben foglaltak szerint a közügyektől eltiltással kapcsolatosan külön mellékbüntetési értesítőlapot kell kiállítani, a bíróság a – III-as számozástól a soron következő római számmal ellátott – mellékbüntetésről kiállított értesítőlapot a 95. § (3) és (4) bekezdésben megjelölt személynek, szervnek, szervezetnek küldi meg.
 
-(2) A bíróság az értesítőlap egyik példányát ,,I'', a másik példányát ,,II'' jelzéssel látja el.
+(5) Kitiltás esetén a bv. előadó az I. jelzésű mellékbüntetésről kiállított értesítőlapon feljegyzi, hogy az elítéltnek a szabadságvesztés megkezdésére szóló felhívása milyen időpontra történt vagy azt, hogy az elítélt a szabadságvesztést tölti.
 
-(3) A bíróság az I. és a II. jelzésű értesítőlapot az illetékes bv. csoportnak küldi meg.
-
-(4) Ha a bíróság az elítéltet a foglalkozás gyakorlásától, a járművezetéstől végleges hatállyal eltiltotta, illetőleg végleges hatállyal kiutasította, a I. jelzésű mellékbüntetési értesítőlapot a 95. § (2) bekezdés szerinti hatóságnak küldi meg, és a bv. csoportnak csak II. jelzésű mellékbüntetési értesítőlapot küld.
-
-[^136]: A 97. § (1) bekezdésének b) pontja a 23/2003. (VI. 26.) IM rendelet 38. §-ával megállapított szöveg.
+(6) Az elítélt szabadításával egyidejűleg a bv. intézet a II. jelzésű mellékbüntetési értesítőlapot – a beszámításra vonatkozó adatok kitöltését követően – a 95. § (2) bekezdésben megjelölt hatóságnak küldi meg.

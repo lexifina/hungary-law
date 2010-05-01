@@ -1,4 +1,4 @@
-## 48. §[^64] Ha a bv. bíró, illetőleg a másodfokú bíróság az elítélt feltételes szabadságát megszünteti, vagy a szabadságvesztés ideiglenes foganatba vételét rendeli el, a végzését megküldi annak a pártfogó felügyelői szolgálatnak, amely az elítélt pártfogó felügyeletét végrehajtotta.
+## 48. §[^74] Ha a bv. bíró, illetőleg a másodfokú bíróság az elítélt feltételes szabadságát megszünteti, vagy a szabadságvesztés ideiglenes foganatba vételét rendeli el, a végzését megküldi annak a pártfogó felügyelői szolgálatnak, amely az elítélt pártfogó felügyeletét végrehajtotta.
 
 ## A szabadságvesztés végrehajtási fokozatának megváltoztatása
 
@@ -10,4 +10,4 @@
 
 (4) A bv. bíró az (1)–(3) bekezdés szerint jár el akkor is, ha az elítélt megváltozott magatartására figyelemmel a bv. intézet a határozat hatályon kívül helyezésére tesz előterjesztést.
 
-[^64]: A 48. § a 23/2003. (VI. 26.) IM rendelet 19. §-ával megállapított, a 12/2006. (III. 23.) IM rendelet 34. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^74]: A 48. § a 23/2003. (VI. 26.) IM rendelet 19. §-ával megállapított, a 12/2006. (III. 23.) IM rendelet 34. § (3) bekezdésének b) pontja szerint módosított szöveg.
