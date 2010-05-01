@@ -6,6 +6,6 @@
 
 88. § (1) Ez a rendelet 2003. július 1. napján lép hatályba.
 
-(2)[^82]
+(2)[^85]
 
-[^82]: A 88. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 101. pontja hatályon kívül helyezte.
+[^85]: A 88. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 101. pontja hatályon kívül helyezte.

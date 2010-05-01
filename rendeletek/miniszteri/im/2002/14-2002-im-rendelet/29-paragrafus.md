@@ -44,11 +44,11 @@ a) büntető ügyszakban
 
 20. egyéb (vegyes) ügy,
 
-21.[^14] harmadfokú büntetőügy,
+21.[^17] harmadfokú büntetőügy,
 
-22.[^15] fiatalkorú harmadfokú büntetőügye,
+22.[^18] fiatalkorú harmadfokú büntetőügye,
 
-23.[^16] felterjesztett kifogás az eljárás elhúzódása miatt;
+23.[^19] felterjesztett kifogás az eljárás elhúzódása miatt;
 
 b) szabálysértési ügyek
 
@@ -66,7 +66,7 @@ b) szabálysértési ügyek
 
 7. szabálysértési perújítási ügy,
 
-8.[^17] a kifogást elbíráló végzés ellen benyújtott, tárgyalás tartására irányuló kérelem;
+8.[^20] a kifogást elbíráló végzés ellen benyújtott, tárgyalás tartására irányuló kérelem;
 
 c) polgári ügyszakban
 
@@ -82,7 +82,7 @@ c) polgári ügyszakban
 
 6. felülvizsgálati ügy,
 
-7.[^18] felterjesztett kifogás az eljárás elhúzódása miatt;
+7.[^21] felterjesztett kifogás az eljárás elhúzódása miatt;
 
 d) munkaügyi ügyekben
 
@@ -98,7 +98,7 @@ d) munkaügyi ügyekben
 
 6. felülvizsgálati ügy,
 
-7.[^19] felterjesztett kifogás az eljárás elhúzódása miatt;
+7.[^22] felterjesztett kifogás az eljárás elhúzódása miatt;
 
 e) közigazgatási ügyszakban
 
@@ -116,12 +116,12 @@ e) közigazgatási ügyszakban
 
 7. választási kifogás,
 
-8.[^20] felterjesztett kifogás az eljárás elhúzódása miatt.
+8.[^23] felterjesztett kifogás az eljárás elhúzódása miatt.
 
-[^14]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^15]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^16]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^17]: A 29. § b) pontjának 8. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: A 29. § c) pontjának 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^19]: A 29. § d) pontjának 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^20]: A 29. § e) pontjának 8. alpontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte, újonnan a 26/2006. (V. 18.) IM rendelet 3. § (5) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^17]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^18]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^19]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^20]: A 29. § b) pontjának 8. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^21]: A 29. § c) pontjának 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: A 29. § d) pontjának 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^23]: A 29. § e) pontjának 8. alpontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte, újonnan a 26/2006. (V. 18.) IM rendelet 3. § (5) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

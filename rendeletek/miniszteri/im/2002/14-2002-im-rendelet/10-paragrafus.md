@@ -10,6 +10,7 @@
 
 (4) A határozat tervezetéről, a tanácskozási jegyzőkönyvről, a különvéleményről, a tanács tagjainak a feljegyzéseiről felvilágosítás nem adható.
 
-(5) A névjegyzéket vezető bíróság a gondnokoltak névjegyzékéből (21. §) – az általa nyilvántartott adatokról – felvilágosítást a gondnokoltak számítógépen vezetett országos névjegyzékéről és a névjegyzék adataiból történő felvilágosítás adásról, valamint annak költségtérítéséről szóló 13/2002. (VII. 24.) IM rendelet 2–4. §-ában foglaltak szerint, költségtérítés nélkül ad.
+(5)[^6]
 
 [^5]: A 9. § a 22/2004. (V. 18.) IM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^6]: A 10. § (5) bekezdését a 18/2010. (IV. 30.) IRM rendelet 4. §-a hatályon kívül helyezte.
