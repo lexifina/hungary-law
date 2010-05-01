@@ -230,6 +230,8 @@
 
 ## 18.7.2. a fogyasztó aktuális energiafogyasztásának és az előző év ugyanezen időszakában mért fogyasztásának az összehasonlítását.
 
+## 18.8.[^27] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
+
 ## 19.1. Hőközponti mérés esetén a távhőszolgáltató a szolgáltatás díját a közüzemi szerződés rendelkezéseinek megfelelően a felhasználó vagy a díjfizetők részére számlázza.
 
 ## 19.2. Abban az esetben, ha a felhasználó épületrészenkénti díjszétosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által megadott és meghatározott díjszétosztási arányoknak megfelelően végrehajtani. A díjszétosztási arányok megállapítása céljára a 19.4. pontban foglaltak szerint fűtési és költségmegosztó melegvíz mennyiségmérők is alkalmazhatók.
@@ -308,7 +310,7 @@
 
 ## 26.3.7. jelen rendelet 4. mellékletében meghatározott információkat, (az egyes táblázatokat a 4. mellékletben meghatározott módon).
 
-## 26.3.8.[^27] a működési területén az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerinti, az épületek energetikai jellemzőinek tanúsítását végzők, továbbá az energiaauditot, energetikai szolgáltatást végző, külön jogszabály alapján kijelölt vagy akkreditált szervezetek nyilvántartásának elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
+## 26.3.8.[^28] a működési területén az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerinti, az épületek energetikai jellemzőinek tanúsítását végzők, továbbá az energiaauditot, energetikai szolgáltatást végző, külön jogszabály alapján kijelölt vagy akkreditált szervezetek nyilvántartásának elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
 
 ## 26.4. A felhasználók, illetve díjfizetők részére kiállított számlán fel kell tüntetni a távhőszolgáltató honlapjának elérhetőségi adatait, továbbá annak a hőközpontnak a honlapon szereplő azonosító adatait, melynél lehetőség van a felhasználó által igényelt távhő teljesítmény befolyásolására.
 
@@ -322,7 +324,7 @@
 
 4. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
-Gazdálkodásra vonatkozó gazdasági és műszaki információk[^28]
+Gazdálkodásra vonatkozó gazdasági és műszaki információk[^29]
 
 I. táblázat
 
@@ -545,5 +547,6 @@ Az előző évben az elszámolási mérések helyét jelentő hőközpontokban e
 * Felhasználó igénye szerint, vagy általános szabályok szerint meghatározott külső hőmérséklet alapján végzett fűtési szolgáltatás napjainak száma.
 
 [^26]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^27]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 414. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^28]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.
+[^27]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 414. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.
