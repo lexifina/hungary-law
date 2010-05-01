@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-38-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2006-38-20-53.2 | 38/2006. (XII. 25.) PM rendelet |
+| 2010-05-01 | 2006-38-20-53.3 | 17/2010. (IV. 28.) PM rendelet |

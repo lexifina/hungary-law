@@ -58,7 +58,7 @@ g) a díj megfizetését igazoló, a hitelintézet által cégszerűen aláírt 
 
 11. az adózó nyilatkozatát a befizetendő díj összegéről;
 
-12. a bankszámlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem elutasítása esetén;
+12.[^6] a fizetési számlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem elutasítása esetén;
 
 13. egyéb, az adózó által fontosnak tartott körülmények megjelölését;
 
@@ -77,3 +77,5 @@ e) hozzájárul a kérelem elbírálásához szükséges, adózásával összef�
 15. az adózó (felelős vezető) vagy képviselője cégszerű aláírását;
 
 16. az adótanácsadó, adószakértő, okleveles adószakértő vagy ügyvéd cégszerű aláírását (ellenjegyzését).
+
+[^6]: A melléklet 12. pontja a 17/2010. (IV. 28.) PM rendelet 5. §-a szerint módosított szöveg.
