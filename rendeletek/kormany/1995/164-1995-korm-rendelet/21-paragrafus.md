@@ -1,5 +1,3 @@
-## 20/A. §[^96] Ez a rendelet az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
-
 ## Záró rendelkezések
 
 21. § (1)[^97] Ez a rendelet 1996. január 1. napjával lép hatályba.
@@ -34,7 +32,6 @@ e) gyógykezeltetést,
 
 (9)–(10)[^102]
 
-[^96]: A 20/A. §-t a 339/2007. (XII. 15.) Korm. rendelet 24. §-a iktatta be.
 [^97]: A 21. § (1) bekezdés bevezető szövegrésze a 118/2008. (V. 8.) Korm. rendelet 1. § 1394. pontja szerint módosított szöveg.
 [^98]: A 21. § (1) bekezdés a)–b) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 1394. pontja hatályon kívül helyezte.
 [^99]: A 21. § (2) bekezdése a 225/1996. (XII. 26.) Korm. rendelet 9. §-ával megállapított, valamint a 213/2007. (VIII. 7.) Korm. rendelet 18. § e) pontjának eb)–ec) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 75. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
