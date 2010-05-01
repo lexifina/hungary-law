@@ -2,7 +2,7 @@
 
 ## A megfelelőségi tanúsítvány tartalmi követelményei
 
-1. A tanúsító szervezet neve, címe, a kijelölési okirat száma;
+1.[^14] A kijelölt szervezet neve, címe, a kijelölési okirat száma;
 
 2. a megrendelő neve, címe;
 
@@ -26,8 +26,11 @@ g) a komposztálhatóság megfelel a vonatkozó, honosított összehangolt szabv
 
 [Megfelelés akkor áll fenn, ha a csomagolásra és a csomagolás-összetevőkre vonatkozóan külön-külön – az a)–c) pontokban előírt követelmények mindegyikét [újrahasználható csomagolás esetén a d) pont szerint is] és az e)–g) pontokban előírt követelmények legalább egyikét tekintve – az értékelés eredménye megfelelő.]
 
-5. a vizsgálatokat végző (külső vagy belső) vizsgálóhelyek neve, címe, kijelölési okiratuk száma;
+5.[^15] a vizsgálatokat végző (külső vagy belső) akkreditált vizsgálóhelyek neve, címe, akkreditálási okiratuk száma;
 
 6. a tanúsítvány érvényességi ideje;
 
 7. a megfelelőségi tanúsítvány azonosító száma, a kiadás dátuma, a kiállító cégszerű aláírása.
+
+[^14]: A 3. melléklet 1. pontja a 16/2010. (IV. 28.) NFGM rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 3. melléklet 5. pontja a 16/2010. (IV. 28.) NFGM rendelet 21. § (7) bekezdésével megállapított szöveg.

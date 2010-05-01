@@ -1,14 +1,16 @@
 ## Az összesített gyártói megfelelőségi nyilatkozat tartalmi követelményei
 
-## A csomagolás (csomagolt termék) gyártójának neve és címe:
+## 1. A csomagolás (csomagolt termék) gyártójának neve és címe:
 
-## A csomagolás megnevezése és leírása:
+## 2. A csomagolás megnevezése és leírása:
 
-## A csomagolás-összetevők megnevezése (anyagok feltüntetésével, figyelembe véve a felvitt bevonatok, feliratok anyagait is):
+## 3. A csomagolás-összetevők megnevezése (anyagok feltüntetésével, figyelembe véve a felvitt bevonatok, feliratok anyagait is):
 
-## A csomagolás-értékelési eredmények összesítése (csomagolás-összetevőkre vonatkozó megfelelőségi igazolások, valamint saját értékelési eredmények és/vagy kijelölt tanúsító szervezet által adott megfelelőségi tanúsítvány alapján):
+## 4. A csomagolás-értékelési eredmények összesítése (csomagolás-összetevőkre vonatkozó megfelelőségi igazolások, valamint saját értékelési eredmények és/vagy kijelölt szervezet által adott megfelelőségi tanúsítvány alapján):
 
-| Követelmény | Értékelési módszerhez referenciaként szolgáló összehangolt szabvány* jele | Értékelés eredménye | Értékelési dokumentumok azonosítója |
+| A | B | C | D |
+
+| Követelmény | Értékelési módszerhez referenciaként szolgáló összehangolt szabvány jele | Értékelés eredménye | Értékelési dokumentumok azonosítója |
 
 | 1. Anyagfelhasználás minimalizálása | MSZ EN 13428 |  |  |
 
@@ -24,33 +26,33 @@
 
 | 7. Szerves hasznosíthatóság | MSZ EN 13432 |  |  |
 
-## * Vagy az illetékes ellenőrző hatóság által azzal egyenértékűnek elfogadott módszer.
+## 5. A megfelelés megállapítása:
 
-## A megfelelés megállapítása:
+## 6. (Megfelelés akkor áll fenn, ha az 1. táblázatban meghatározott 1–3. pontok mindegyike, valamint az 5–7. pontok legalább egyikét tekintve az értékelés eredménye „megfelelő”. Ha a csomagolást újrahasználatra tervezték, az 1. táblázatban meghatározott 4. pont szerint is megfelelőnek kell lennie.)
 
-## (Megfelelés akkor áll fenn, ha az 1–3. pontok mindegyike, valamint az 5–7. pontok legalább egyikét tekintve az értékelés eredménye „megfelelő”. Ha a csomagolást újrahasználatra tervezték, a 4. pont szerint is megfelelőnek kell lennie.)
+## 7. Az értékelési eredmények alapján ez a csomagolás megfelel a környezetvédelmi követelményeknek.
 
-## Az értékelési eredmények alapján ez a csomagolás megfelel a környezetvédelmi követelményeknek.
+## Dátum: ...........................................................
 
-## Dátum: ..........................................................
-
-## ................................................................
+## .........................................................
 
 ## cégszerű aláírás
 
-2. melléklet a 91/2006. (XII. 26.) GKM rendelethez
+2. melléklet a 91/2006. (XII. 26.) GKM rendelethez[^13]
 
 ## A csomagolás-összetevőre vonatkozó megfelelőségi igazolás tartalmi követelményei
 
-## A csomagolás-összetevő gyártójának neve és címe:
+1. A csomagolás-összetevő gyártójának neve és címe:
 
-## A csomagolás-összetevő megnevezése (anyagok feltüntetésével, figyelembe véve a felvitt bevonatok, feliratok anyagait is):
+2. A csomagolás-összetevő megnevezése (anyagok feltüntetésével, figyelembe véve a felvitt bevonatok, feliratok anyagait is):
 
-## A csomagolás-összetevőre vonatkozó értékelési eredmények összesítése (saját értékelési eredmények és/vagy kijelölt tanúsító szervezet által adott megfelelőségi tanúsítvány alapján):
+3. A csomagolás-összetevőre vonatkozó értékelési eredmények összesítése (saját értékelési eredmények és/vagy kijelölt szervezet által adott megfelelőségi tanúsítvány alapján):
 
-1. A csomagolás-összetevőre vonatkozó értékelési eredmények összesítése:
+4. A csomagolás-összetevőre vonatkozó értékelési eredmények összesítése:
 
-| Követelmény | Értékelési módszerhez referenciaként szolgáló összehangolt szabvány* jele | Értékelés eredménye | Értékelési dokumentumok azonosítója |
+| A | B | C | D |
+
+| Követelmény | Értékelési módszerhez referenciaként szolgáló összehangolt szabvány jele | Értékelés eredménye | Értékelési dokumentumok azonosítója |
 
 | 1. Nehézfémtartalom határérték alatti | MSZ EN 13428 MSZ CR 13695–1 |  |  |
 
@@ -64,16 +66,16 @@
 
 | 6. Szerves hasznosíthatóság | MSZ EN 13432 |  |  |
 
-* Vagy illetékes ellenőrző hatóság által azzal egyenértékűnek elfogadott módszer.
+5. (Megfelelés akkor áll fenn, ha az 1. táblázatban meghatározott 1–2. pontok mindegyikét, valamint a 4–6. pontok legalább egyikét tekintve az értékelés eredménye „megfelelő”. Ha a csomagolás-összetevőt újrahasználatra tervezték, akkor az 1. táblázatban meghatározott 3. pont szerinti vizsgálatot a csomagolás forgalomba hozójával együtt kell elvégezni.)
 
-(Megfelelés akkor áll fenn, ha az 1–2. pontok mindegyikét, valamint a 4–6. pontok legalább egyikét tekintve az értékelés eredménye „megfelelő”. Ha a csomagolás-összetevőt újrahasználatra tervezték, akkor a 3. pont szerinti vizsgálatot a csomagolás forgalomba hozójával együtt kell elvégezni.)
-
-2. A megfelelés megállapítása:
+6. A megfelelés megállapítása:
 
 Az értékelési eredmények alapján ez a csomagolás-összetevő megfelel a környezetvédelmi követelményeknek.
 
-Dátum: ..........................................................
+Dátum: ...........................................................
 
-................................................................
+.........................................................
 
 cégszerű aláírás
+
+[^13]: A 2. melléklet a 16/2010. (IV. 28.) NFGM rendelet 21. § (6) bekezdésével megállapított szöveg.

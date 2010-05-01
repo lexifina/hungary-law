@@ -6,9 +6,9 @@
 
 (3) A gyártó az összesített gyártói megfelelőségi nyilatkozat elkészítéséhez az egyes csomagolás-összetevők előállítója által a 2. mellékletben meghatározott tartalommal kiállított megfelelőségi igazolásokat is felhasználja.
 
-(4) A csomagolás és az egyes csomagolás-összetevők környezetvédelmi követelményeknek való megfelelősége értékelésére az 5. § szerint kijelölt tanúsító szervezet is felkérhető. Az értékelés eredményéről a tanúsító szervezet a 3. mellékletben meghatározott tartalmú megfelelőségi tanúsítványt állít ki.
+(4)[^4] A csomagolás és az egyes csomagolás-összetevők környezetvédelmi követelményeknek való megfelelősége értékelésére az 5. § szerint kijelölt szervezet is felkérhető. Az értékelés eredményéről a kijelölt szervezet a 3. mellékletben meghatározott tartalmú megfelelőségi tanúsítványt állít ki.
 
-(5)[^3] Az összesített gyártói megfelelőségi nyilatkozat és a megfelelőségi igazolás elkészítéséhez regisztrált csomagolási szakértő közreműködése is igénybe vehető.
+(5)[^5] Az összesített gyártói megfelelőségi nyilatkozat és a megfelelőségi igazolás elkészítéséhez regisztrált csomagolási szakértő közreműködése is igénybe vehető.
 
 (6) Az R. 6. § (4) bekezdésének a)–c) pontjában meghatározott anyagmennyiségeket éves felhasználásukban nem meghaladó gyártók a csomagolás környezetvédelmi megfelelőségét a csomagolás-összetevők előállítója által készített, a 2. mellékletben meghatározott tartalmú megfelelőségi igazolással igazolhatják.
 
@@ -20,4 +20,5 @@
 
 (10) A csomagolás kialakításának vagy a csomagolás-összetevők alapvető jellemzőinek (így különösen az alapanyag, szerkezet, összetétel) megváltoztatása esetén, a gyártónak és a csomagolás-összetevő előállítójának új megfelelőség-igazolási eljárást kell lefolytatnia és azt a (2), illetve (3) bekezdésben foglaltak szerint dokumentálnia.
 
-[^3]: A 3. § (5) bekezdése e rendelet 7. § (2) bekezdése alapján 2007. június 30-án lép hatályba.
+[^4]: A 3. § (4) bekezdése a 16/2010. (IV. 28.) NFGM rendelet 22. § (1) és (2) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (5) bekezdése e rendelet 7. § (2) bekezdése alapján 2007. június 30-án lép hatályba.
