@@ -1,5 +1,3 @@
-## 24. § Genetikai azonosítási, azonosság megállapítási, leszármazási és származás-megállapítási (apaság, anyaság, rokonság) szakkérdésben a sejtmagi, illetve mitokondriális genomban lokalizált egyszerű, összetett és komplex genetikai jellegek alapján adható szakvélemény.
-
 ## Írásszakértői vizsgálat
 
 25. § (1) Ha a szakkérdés annak megállapítására irányul, hogy
