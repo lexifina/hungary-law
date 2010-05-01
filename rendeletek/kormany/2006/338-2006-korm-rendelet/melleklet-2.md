@@ -6670,6 +6670,6 @@
 
 2. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^41]
+338/2006. (XII. 23.) Korm. rendelethez[^51]
 
-[^41]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^51]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 129/2010. (IV. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.

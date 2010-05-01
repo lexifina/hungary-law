@@ -1,56 +1,54 @@
-## A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dokumentáció tartalma
+## A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dokumentáció tartalma és a telekalakítási dokumentáció záradéka
 
-## 1. Az állami alapadatok adatszolgáltatási számlájának száma
+## 1. A telekalakítási dokumentáció tartalma
 
-## 2. felhasznált hiteles adatok megjelölése
+## 1.1. az állami alapadatok adatszolgáltatási számlájának száma
 
-## 3. mérési és számítási jegyzőkönyv
+## 1.2. a mérési és számítási jegyzőkönyv
 
-## 4. mérési és számítási vázlat
+## 1.3. a mérési és számítási vázlat
 
-## 5. koordinátajegyzék
+## 1.4. a koordinátajegyzék
 
-## 6. területszámítási jegyzőkönyv
+## 1.5. a területszámítási jegyzőkönyv
 
-## 7. digitális változási vázrajz
+## 1.6. a változási vázrajz és a hozzátartozó területkimutatás digitális adatállománya és ezek legalább 5 kinyomtatott példánya, eredeti aláírásokkal és bélyegzővel ellátva
 
-## 8. a digitális változási vázrajz legalább 5 kinyomtatott eredeti példánya, aláírásokkal és bélyegzővel ellátva
+## 1.7. a tervezési és kitűzési (kiosztási) vázlat
 
-## 9. területkimutatás
+## 1.8. műszaki leírás [a készítő neve, felelős tervező neve, a munkaszám, a munka megnevezése, település, fekvés, érintett tel(k)ek helyrajzi száma(i), változás típusa a felhasznált hiteles adatok megjelölése]
 
-## 10. tervezési és kitűzési (kiosztási) vázlatot
+## 1.9. vizsgálati jegyzőkönyv (ha a változás előtti és változás utáni telkek db száma együttesen 5-nél több)
 
-## 11. ha a változás előtti és utáni telkek együttes száma 5 db-nál több
+## 1.10. az ingatlan-nyilvántartási térképi adatok felhasználásával, alkalmas (1:2000, 1:1000, 1:500) méretarányban elkészített telekalakítási helyszínrajz, amely a következőket tartalmazza:
 
-## a) műszaki leírás
+## 1.10.1. a telekalakítással érintett telkek, a telekalakítás utáni állapot szerint,
 
-## b) vizsgálati jegyzőkönyv
+## 1.10.2. a telekalakítással érintett telkeken meglévő építmények kontúrvonalai,
 
-## 12. telekalakítási helyszínrajz, az ingatlan-nyilvántartási térképnek megfelelő méretarányban, amely a következőket tartalmazza:
+## 1.10.3. a bontás alatt álló épületek „bontás alatt” megjegyzéssel,
 
-## a) a telekalakítással érintett telkek, a telekalakítás utáni állapot szerint,
+## 1.10.4. a telekalakítással érintett telken lévő összes építmény távolsága a tervezett telekhatártól, és a létrejövő telekméretek, beépített telek esetén a telkek eredeti és a telekalakítás utáni beépítési százaléka,
 
-## b) a telekalakítással érintett telkeken meglévő (és nem bontásra szánt) építmények kontúrvonalai,
+## 1.10.5. az épített környezet alakításáról és védelméről szóló törvény szerinti, a településrendezési eszközökben beépítésre szánt területeken lévő földrészleteknél 20%-nál nagyobb átlagos lejtésviszonyok esetén az 1 méterenkénti szintvonalak,
 
-## c) a telekalakítással érintett teleken meglévő építmények közül a telekalakítással érintett telekhatárhoz 4,0 m-en belül eső építmények távolsága,
+## 1.10.6. utat érintő telekalakítás esetén az útkategóriának, a közút területváltozásának feltüntetése,
 
-## d) a telekalakítással érintett teleken tervezett, jogerős és végrehajtható építési engedéllyel rendelkező, vagy bejelentés alapján nyilvántartásba vett építmények közül a telekalakítással érintett telekhatárhoz 4,0 m-en belül eső építmények távolsága a tervezett telekhatártól,
+## 1.11. a digitális adatállományok [változási vázrajz, telekalakítási helyszínrajz, mérési és számítási vázlat, tervezési és kitűzési (kiosztási) vázlat PDF formátumban, változási állomány DAT adatcsere-formátumban, egyéb munkarészek táblázatos, illetve dokumentum formátumban] nem újraírható adathordozón
 
-## e) a 20%-nál nagyobb átlagos lejtésviszonyok esetén a másfél méterenkénti szintvonalak,
+## 1.12. a telekalakítási dokumentáció tartalomjegyzéke.
 
-## f) utat érintő telekalakítás esetén az útkategóriának, a közút területváltozásának feltüntetése,
+## 2. A telekalakítási záradék
 
-## g) a tervezett telekalakítás után létrejövő telekméretek, beépített telkek esetén megjelölve a telek beépítettsége mértékének a változását is
+## A földhivatal a telekalakítás engedélyezése esetén a változási vázrajzot
 
-## 13. digitális adatállományok (változási vázrajz, változási állomány, telekalakítási helyszínrajz, egyéb digitális munkarész) nem újra írható adathordozón
+## »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat jogerőre emelkedésétől számított egy évig hatályos.«
 
-## 14. kísérő bizonylat (a készítő neve, a munkaszáma, a munka megnevezése, település, fekvés, érintett telek(ek) helyrajzi száma(i), változás típusa)
-
-## 15. a telekalakítási dokumentáció tartalomjegyzéke
+## záradékszöveggel látja el.
 
 4. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^43]
+338/2006. (XII. 23.) Korm. rendelethez[^53]
 
 A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -76,4 +74,6 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 7. | Erdő megosztása. | A fenntartható erdőgazdálkodás vizsgálata az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. §-a alapján. | Mezőgazdasági Szakigazgatási Hivatal területi szerve | Mezőgazdasági Szakigazgatási Hivatal Központja |
 
-[^43]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+| 8. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – régészeti lelőhely, régészeti védőövezet, illetve műemléki terület jogi jelleg ténye van feljegyezve, vagy amelynek helyrajzi száma szerepel a Kulturális Örökségvédelmi Hivatalról szóló 308/2006. (XII. 23.) Korm. rendelet 1. § (6) bekezdése szerinti adatbázisban | Annak elbírálása kérdésében, hogy a telekalakítás a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
+
+[^53]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 129/2010. (IV. 21.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.

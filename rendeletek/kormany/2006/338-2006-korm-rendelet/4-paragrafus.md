@@ -1,4 +1,4 @@
-4. §[^8] (1) A földhivatalt a hivatalvezető vezeti.
+4. §[^10] (1) A földhivatalt a hivatalvezető vezeti.
 
 (2) A kinevezési és a munkáltatói jogkört
 
@@ -12,4 +12,4 @@ c) a körzeti földhivatali dolgozók és a körzeti földhivatali kirendeltség
 
 (3) A megyei földhivatalnál a gazdasági vezető megbízása a miniszter hatáskörébe tartozik, a munkáltatói jogkört a megyei földhivatal vezetője gyakorolja.
 
-[^8]: A 4. § a 357/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 4. § a 357/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
