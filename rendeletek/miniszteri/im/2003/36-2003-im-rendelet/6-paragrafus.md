@@ -8,7 +8,7 @@
 
 – a beteg lakóhelye (tartózkodási helye) szerint illetékes rendőrkapitányságot,
 
-–[^3] a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: KEKKH),
+–[^5] a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: KEKKH),
 
 – hadköteles esetén az illetékes hadkiegészítő parancsnokságot,
 
@@ -16,7 +16,7 @@
 
 (3) Ha a beteg nem magyar állampolgár, akkor befogadásáról késedelem nélkül értesíteni kell az állampolgársága szerint illetékes diplomáciai vagy konzuli képviseletet (a továbbiakban: illetékes külképviselet). Az értesítés csak akkor mellőzhető, ha a beteg az írásbeli nyilatkozatában ezt kifejezetten kéri. Ha a külföldi beteg többes állampolgár, az általa megjelölt külképviseletet kell értesíteni.
 
-(4)[^4] A beteg úti okmányát a KEKKH-nak, a Magyar Honvédség vagy a rendvédelmi szervek hivatásos (szerződéses) állományú tagja szolgálati igazolványát a kiállító szervnek kell megküldeni.
+(4)[^6] A beteg úti okmányát a KEKKH-nak, a Magyar Honvédség vagy a rendvédelmi szervek hivatásos (szerződéses) állományú tagja szolgálati igazolványát a kiállító szervnek kell megküldeni.
 
-[^3]: A 6. § (2) bekezdésének harmadik francia bekezdése a 8/2007. (III. 6.) IRM rendelet 3. § (5) bekezdésével megállapított szöveg.
-[^4]: A 6. § (4) bekezdése a 6/2006. (VII. 25.) IRM rendelet 1. §-ával megállapított, a 8/2007. (III. 6.) IRM rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^5]: A 6. § (2) bekezdésének harmadik francia bekezdése a 8/2007. (III. 6.) IRM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^6]: A 6. § (4) bekezdése a 6/2006. (VII. 25.) IRM rendelet 1. §-ával megállapított, a 8/2007. (III. 6.) IRM rendelet 3. § (5) bekezdése szerint módosított szöveg.
