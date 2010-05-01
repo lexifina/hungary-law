@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. bejelentett szervezet: a nemzeti fejlesztési és gazdasági miniszter (a továbbiakban: miniszter) által külön jogszabály szerint a gépek és biztonsági berendezések vizsgálatára, ellenőrzésére és tanúsítására kijelölt, a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelv szerint bejelentett szervezet;
+1.[^1] bejelentett szervezet: a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 2. § a) pontjában meghatározott szervezet, amely kielégíti a 11. számú mellékletben foglalt feltételeket és amelynek kijelölt megfelelőségértékelési területe a 4. mellékletben megadott gépkategóriák, és az 5. § (3) és (4) bekezdésben ismertetett megfelelőségértékelési eljárások szerint meghatározott;
 
 2. biztonsági berendezés: a 2. mellékletben felsorolt biztonsági berendezés, amelyet biztonsági feladat ellátása érdekében önállóan hoznak forgalomba, és amelynek hibája vagy hibás működése személyek biztonságát vagy egészségét veszélyeztetheti, és amely nem szükséges a gép működéséhez vagy amelyet általános alkatrészekkel pótolni lehet;
 
@@ -26,9 +26,9 @@ d) az a), b) és c) pontban meghatározott együttes vagy a 14. pontban meghatá
 
 e) kizárólag közvetlen emberi erővel hajtott, összekapcsolt alkatrészek és alkotóelemek együttese, amelyek közül legalább egy mozog, és amelyeket teher emelésének céljából kapcsoltak össze;
 
-8. gyártó: a fogyasztóvédelemről szóló 1997. évi CLV. törvény 2. § k) pontjában meghatározott gyártó; ilyen személy hiányában gyártónak kell tekinteni bármely természetes vagy jogi személyt vagy jogi személyiség nélküli gazdasági társaságot és szervezetet, aki vagy amely a gépet vagy a részben kész gépet forgalomba hozza, üzembe helyezi;
+8.[^2] gyártó vagy meghatalmazott képviselő: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 3. és 4. pontjában meghatározott személy;
 
-9. honosított harmonizált szabvány: elismert szabványügyi testület által, az Európai Bizottság (a továbbiakban: Bizottság) megbízása alapján a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelvben megállapított eljárással összhangban az európai követelmények meghatározása céljából elfogadott, kötelező erővel nem bíró műszaki előírás, amelyet a magyar eljárási rendnek megfelelően nemzeti szabványként közzétettek;
+9.[^3] honosított harmonizált szabvány: a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2008. (XII. 28.) Korm. rendelet 1. § b) pontjában meghatározott szabvány;
 
 10. láncok, kötelek és hevederek: olyan láncok, kötelek vagy hevederek, amelyeket emelőgépek és emelőgép-tartozékok részeként emelés céljára terveztek és gyártottak;
 
@@ -43,3 +43,7 @@ e) kizárólag közvetlen emberi erővel hajtott, összekapcsolt alkatrészek é
 15. üzembe helyezés: a gép első, az EGT területén történő rendeltetésszerű használatbavétele;
 
 16. teherfelvevő eszköz: olyan, a teher megtartását szolgáló és az emelőgéphez kapcsolható tartozék vagy alkatrész, amelyet a berendezés és a teher közé vagy a teherre magára helyeztek, vagy amely a teher részét képezi, és amelyet önállóan hoznak forgalomba; a hevederek és elemeik is teherfelvevő eszköznek minősülnek.
+
+[^1]: A 2. § 1. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 8. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 9. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (2) bekezdésével megállapított szöveg.

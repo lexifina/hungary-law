@@ -6,17 +6,15 @@
 
 1. A gyártónak vagy meghatalmazott képviselőjének a 8. melléklet „A” részében meghatározott műszaki dokumentációt minden egyes típusra el kell készítenie.
 
-2. A gyártónak vagy meghatalmazott képviselőjének az EK-típusvizsgálatra irányuló kérelmet minden egyes típusra be kell nyújtania az általa kiválasztott bejelentett szervezethez.
+2.[^5] Az EK-típusvizsgálatot a gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője az általa választott bejelentett szervezettel végezteti el. E célból a gyártó, vagy a meghatalmazott képviselő köteles átadni a bejelentett szervezetnek
 
-A kérelemnek tartalmaznia kell:
+2.1. a gyártó és indokolt esetben meghatalmazott képviselője nevét és címét,
 
-a) a gyártó és indokolt esetben meghatalmazott képviselője nevét és címét,
+2.2. egy írásos nyilatkozatot arról, hogy a kérelmet más bejelentett szervezethez nem nyújtották be és
 
-b) egy írásos nyilatkozatot arról, hogy a kérelmet más bejelentett szervezethez nem nyújtották be és
+2.3. a műszaki dokumentációt.
 
-c) a műszaki dokumentációt.
-
-A kérelmezőnek a bejelentett szervezet rendelkezésére kell bocsátania egy mintát a típusból. A bejelentett szervezet kérhet további mintákat, ha azt a vizsgálati program megkívánja.
+2.4. A kérelmezőnek a bejelentett szervezet rendelkezésére kell bocsátania egy mintát a típusból. A bejelentett szervezet kérhet további mintákat, ha azt a vizsgálati program megkívánja.
 
 3. A bejelentett szervezet:
 
@@ -53,3 +51,5 @@ Ha a bejelentett szervezet megállapítja, hogy a műszaki ismeretek adott fejle
 A gyártó és a bejelentett szervezet a tanúsítvány, a műszaki dokumentáció és valamennyi vonatkozó dokumentum másolatát a tanúsítvány kiadásának dátumától számított 15 évig megőrzi.
 
 9.4. Abban az esetben, ha az EK-típusvizsgálati tanúsítványt nem újítják meg, a gyártónak az érintett gép forgalmazását meg kell szüntetnie.
+
+[^5]: A 6. számú melléklet 2. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (3) bekezdésével megállapított szöveg.

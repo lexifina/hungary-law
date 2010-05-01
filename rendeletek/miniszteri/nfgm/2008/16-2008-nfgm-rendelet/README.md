@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-16-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-29 | 2008-16-20-2K.1 | 16/2008. (VIII. 30.) NFGM rendelet |
+| 2010-05-01 | 2008-16-20-2K.2 | 16/2010. (IV. 28.) NFGM rendelet |

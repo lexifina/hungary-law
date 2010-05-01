@@ -14,6 +14,8 @@
 
 3. A CE-jelölés különböző elemeinek magassága azonos, de 5 mm-nél kisebb nem lehet. Ezt a minimális méretet nem kell tekintetbe venni kisméretű gépek esetében.
 
-4. A CE-jelölést a gyártó vagy meghatalmazott képviselője nevének közvetlen közelében kell elhelyezni, ugyanolyan módszerrel rögzítve.
+4.[^6] A CE-jelölést a gyártó vagy meghatalmazott képviselője nevének közvetlen közelében kell elhelyezni, ugyanolyan módszerrel rögzítve.
 
-Ha az 5. § (3) bekezdés c) pontjában és az 5. § (4) bekezdés b) pontjában említett teljes minőségbiztosítási eljárást alkalmazták, a CE-jelölés után fel kell tüntetni a bejelentett szervezet azonosítóját.
+Ha az 5. § (3) bekezdés c) pontjában és az 5. § (4) bekezdés b) pontjában említett teljes minőségbiztosítási eljárást alkalmazták, a CE-jelölés után fel kell tüntetni a bejelentett szervezet azonosító számát.
+
+[^6]: A 10. számú melléklet 4. pontja a 16/2010. (IV. 28.) NFGM rendelet 26. §-a szerint módosított szöveg.
