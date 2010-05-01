@@ -8,4 +8,6 @@ c) forgalomba hozatal: a játszótéri eszköz visszterhes vagy térítésmentes
 
 d) ellenőrzés: a telepített játszótéri eszköz vizsgálata és megfelelőségének megállapítása a biztonságossági követelmények alapján, elsősorban a vonatkozó szabvány figyelembevételével és szakmai értékítélet alapján értelmezett általános követelmények szerint;
 
-e) kijelölt vizsgáló, tanúsító, ellenőrző szervezet: a gazdasági és közlekedési miniszter által játszótéri eszközök vizsgálatára, tanúsítására és ellenőrzésére külön-külön vagy együttesen, külön jogszabály előírásai szerint kijelölt szervezet (a továbbiakban: kijelölt szervezet).
+e)[^1] kijelölt szervezet: a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 2. § h) pontjában megfelelőségértékelési tanúsításra, valamint 2. § k) pontjában megfelelőségértékelési vizsgálatra meghatározott szervezet, amelynek kijelölt megfelelőségértékelési területe e rendelet 2. § b) pontjában meghatározott termék.
+
+[^1]: A 2. § e) pontja a 16/2010. (IV. 28.) NFGM rendelet 16. §-ával megállapított szöveg.

@@ -12,6 +12,8 @@ d) az ajánlott korcsoport,
 
 e) a szabvány jelzete, amelynek a játszótéri eszköz megfelel,
 
-f) a tanúsító szervezet által kiadott tanúsítvány másolata.
+f)[^6] a kijelölt szervezet által kiadott tanúsítvány másolata.
 
 (3) Szükség esetén a játszótéri eszközt el kell látni olyan magyar nyelvű figyelmeztető felirattal, amely a lehetséges veszélyekre felhívja a felhasználó figyelmét, különös tekintettel a 3 év alatti gyerekek számára hozzáférhető eszközökre.
+
+[^6]: Az 6. § (2) bekezdés f) pontja a 16/2010. (IV. 28.) NFGM rendelet 17. § (2) bekezdése szerint módosított szöveg.
