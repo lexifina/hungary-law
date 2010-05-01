@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^137]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^138]
 
 Be- és kijelentésre kötelezett betegségek felsorolása
 
@@ -4276,4 +4276,4 @@ BNO10: J00-J06
 
 4. Lappangási idő: A kórokozótól függően 1–7 nap.
 
-[^137]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a szerint módosított szöveg.
+[^138]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a szerint módosított szöveg.
