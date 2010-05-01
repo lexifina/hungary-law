@@ -8,8 +8,10 @@ c) a műemlék, műemléki jelentőségű terület leírását, a műemlék bere
 
 d) a műemlék funkcióját, tudományos kutatásának és feltárásának adatait,
 
-e) a műemlékre vonatkozó hatósági (szakhatósági) határozatok számát, keltét, jogerejét és az elrendelt intézkedések tartalmát,
+e)[^3] a műemlékre vonatkozó hatósági határozatok, szakhatósági állásfoglalások számát, keltét, jogerejét és az elrendelt intézkedések tartalmát,
 
 f) örökségvédelmi bírságkategóriába történő besorolását.
 
 (2) Listás elővédelem esetén az (1) bekezdés a) és b) pontjában foglaltakat kell értelemszerűen alkalmazni.
+
+[^3]: A 3. § (1) bekezdés e) pontja a 19/2010. (IV. 23.) OKM rendelelet 6. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
