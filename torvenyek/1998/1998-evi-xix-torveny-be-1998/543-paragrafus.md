@@ -2,4 +2,4 @@
 
 ## A TÁRGYALÁS MELLŐZÉSE
 
-543. § E törvény rendelkezéseit a tárgyalás mellőzésével végrehajtásában felfüggesztett szabadságvesztés, pénzbüntetés kiszabása, illetőleg mellékbüntetés önálló büntetésként való alkalmazása vagy próbára bocsátás esetén az e fejezetben foglalt eltérésekkel kell alkalmazni.
+543. § E törvény rendelkezéseit a tárgyalás mellőzésével folytatott eljárásban az e fejezetben foglalt eltérésekkel kell alkalmazni.

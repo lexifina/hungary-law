@@ -1,6 +1,6 @@
 547. § (1) A bíróság a végzésben
 
-a) végrehajtásában felfüggesztett szabadságvesztés vagy pénzbüntetés kiszabása esetén mellékbüntetésként foglalkozástól eltiltást, járművezetéstől eltiltást vagy kiutasítást – katonával szemben lefokozást, a szolgálati viszony megszüntetését, rendfokozatban visszavetést és a várakozási idő meghosszabbítását is –, végrehajtásában felfüggesztett szabadságvesztés kiszabása esetén pénzmellékbüntetést alkalmazhat,
+a) végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást, kitiltást – katonával szemben lefokozást, szolgálati viszony megszüntetését, rendfokozatban visszavetést és a várakozási idő meghosszabbítását is – alkalmazhat,
 
 b) végrehajtásában felfüggesztett szabadságvesztés kiszabása vagy próbára bocsátás esetén pártfogó felügyeletet is alkalmazhat,
 
@@ -16,7 +16,7 @@ e) az ügyek egyesítéséről, elkülönítéséről, az eljárás felfüggeszt
 
 a) a bűncselekmény megjelölését,
 
-b) a kiszabott szabadságvesztést, pénzbüntetést, illetőleg önálló büntetésként alkalmazott mellékbüntetést, próbára bocsátást vagy megrovást,
+b) a kiszabott büntetést, mellékbüntetést, az alkalmazott próbára bocsátást vagy megrovást,
 
 c) a jogszabályon alapuló egyéb rendelkezéseket,
 

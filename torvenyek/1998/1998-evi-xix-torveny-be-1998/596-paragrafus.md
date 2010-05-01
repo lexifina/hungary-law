@@ -14,7 +14,7 @@
 
 (7) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedést meg kell szüntetni, ha a büntetés végrehajthatósága megszűnt.
 
-(8) Ha a bíróság a terhelttel szemben nem végrehajtandó szabadságvesztés mellett alkalmazott kiutasítás mellékbüntetést, és az ügydöntő határozat a kihirdetésekor jogerőre emelkedik, a bíróság a kiutasítás mellékbüntetés végrehajtása érdekében elrendeli a terheltnek az illetékes idegenrendészeti hatósághoz történő előállítását. Az előállítás végrehajtása érdekében a tanács elnöke a rendőrséget keresi meg.
+(8) Ha a bíróság a terhelttel szemben nem végrehajtandó szabadságvesztés mellett alkalmazott kiutasítást, és az ügydöntő határozat a kihirdetésekor jogerőre emelkedik, a bíróság a kiutasítás végrehajtása érdekében elrendeli a terheltnek az illetékes idegenrendészeti hatósághoz történő előállítását. Az előállítás végrehajtása érdekében a tanács elnöke a rendőrséget keresi meg.
 
 III. CÍM
 

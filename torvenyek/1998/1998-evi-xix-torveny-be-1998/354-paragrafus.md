@@ -10,17 +10,19 @@
 
 a) büntetést azzal szemben, akinek az ügyét első fokon önállóan alkalmazott intézkedéssel bírálták el,
 
-b) pénzbüntetés helyett közérdekű munkát vagy szabadságvesztést, közérdekű munka helyett szabadságvesztést,
+b) közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
 
-c) felfüggesztett szabadságvesztés helyett végrehajtandó szabadságvesztést; végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése mellett sem,
+c) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadságvesztést, végrehajtandó szabadságvesztést,
 
-d) végrehajtandó pénzbüntetés vagy közérdekű munka helyett felfüggesztett szabadságvesztést,
+d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
 
-e) felfüggesztett pénzbüntetés helyett végrehajtandó pénzbüntetést, végrehajtandó pénzbüntetés helyett nagyobb összegű pénzbüntetést, annak felfüggesztése mellett sem,
+e) részben felfüggesztett szabadságvesztés helyett rövidebb tartamú végrehajtandó szabadságvesztést,
 
-f) az első fokú bíróság által nem alkalmazott mellékbüntetést,
+f) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
 
-g) az első fokon főbüntetés helyett önálló büntetésként alkalmazott mellékbüntetés helyett főbüntetést.
+g) az elsőfokú bíróság által nem alkalmazott mellékbüntetést,
+
+h) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem.]
 
 (5) Ha az első fokú bíróság az elkobzásról, illetőleg a vagyonelkobzásról a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
 

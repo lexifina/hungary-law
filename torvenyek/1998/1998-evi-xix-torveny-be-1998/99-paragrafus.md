@@ -4,9 +4,9 @@
 
 (2) Szakértő alkalmazása kötelező, ha
 
-a) a bizonyítandó tény, illetőleg az eldöntendő kérdés személy kóros elmeállapota, alkohol-, illetőleg kábítószer-függősége,
+a) a bizonyítandó tény, illetőleg az eldöntendő kérdés személy kóros elmeállapota, illetőleg kábítószer-függősége,
 
-b) a bizonyítandó tény, illetőleg az eldöntendő kérdés kényszergyógykezelés vagy kényszergyógyítás szükségessége,
+b) a bizonyítandó tény, illetőleg az eldöntendő kérdés kényszergyógykezelés szükségessége,
 
 c) a személyazonosítást biológiai vizsgálattal végzik,
 
