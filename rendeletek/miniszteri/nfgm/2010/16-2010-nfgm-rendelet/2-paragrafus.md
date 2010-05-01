@@ -1,0 +1,1 @@
+## „(4) Az (1) bekezdésben előírt bejelentési kötelezettség során a hatóság köteles a bejelentés nyilvántartásba történő bejegyzéséről szóló határozatot a területileg illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséggel közölni.”

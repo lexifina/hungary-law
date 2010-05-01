@@ -1,0 +1,1 @@
+## 3. Az egyes veszélyes anyagok csomagolásának gyermekek számára biztonságos zárással és tapintással érzékelhető, veszélyre utaló jelképpel történő ellátásáról szóló 8/1998. (II. 4.) IKIM rendelet hatályon kívül helyezése
