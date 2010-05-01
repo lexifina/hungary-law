@@ -4,6 +4,8 @@
 
 (2) Az elektronikus úton vezetett nyilvántartás tartalmilag megegyezik a papír alapon vezetett nyilvántartással.
 
-(3) A nyilvántartás során gondoskodni kell a titokvédelem és az adatvédelem követelményeinek megtartásáról.
+(3)[^17]
 
 (4) A számítógépen tárolt adatokat naponta két példányban számítástechnikai adathordozóra kell menteni, és a két példányt egymástól elkülönítve, az adatok eredeti tárolási helyétől eltérő helyen kell tárolni.
+
+[^17]: A 16. § (3) bekezdését a 8/2010. (III. 25.) IRM–PM együttes rendelet 5. §-a hatályon kívül helyezte.

@@ -6,9 +6,9 @@
 
 a) értékének és minőségének megállapításával megbízott szakértő részére költségtérítés és munkadíj címén,
 
-b)[^24] szakszerű kezelésével megbízott gazdálkodó szervezet részére őrzési és kezelési díj (költség) címén, továbbá állagának megóvásával és karbantartásával megbízott gazdálkodó szervezet részére költségtérítés és munkadíj címén,
+b)[^25] szakszerű kezelésével megbízott gazdálkodó szervezet részére őrzési és kezelési díj (költség) címén, továbbá állagának megóvásával és karbantartásával megbízott gazdálkodó szervezet részére költségtérítés és munkadíj címén,
 
-c)[^25] megfelelő fuvarköltség (szállítási díj) ellenében történő szállításával, illetve a bűnjel magyar pénz átutalásával,
+c)[^26] megfelelő fuvarköltség (szállítási díj) ellenében történő szállításával, illetve a bűnjel magyar pénz átutalásával,
 
 d) megsemmisítésével kapcsolatban
 
@@ -20,5 +20,5 @@ d) megsemmisítésével kapcsolatban
 
 (4) Az (1) bekezdés c) pontja alapján nincs helye bűnügyi költség bejegyzésének, ha a bűnjelet a hatóság saját gépkocsijával vagy más eszközével szállítják, illetőleg, ha a bűnjel szállításával kapcsolatban a hatóság a költségvetése terhére fuvarköltséget (szállítási díjat) másnak nem fizet.
 
-[^24]: A 30. § (1) bekezdés b) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^25]: A 30. § (1) bekezdés c) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 10. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^25]: A 30. § (1) bekezdés b) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^26]: A 30. § (1) bekezdés c) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 10. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
