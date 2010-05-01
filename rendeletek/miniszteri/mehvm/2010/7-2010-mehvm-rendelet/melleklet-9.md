@@ -308,7 +308,7 @@ szakmai teljesítésigazoló:
 
 – a kisebbség- és nemzetpolitikáért felelős szakállamtitkár
 
-9/3/10 Egyéb civil és nonprofit szervezetek támogatása
+9/3/10 Egyéb civil és nonprofit szervezetek támogatása[^1]
 
 Az előirányzat célja olyan szervezetek működésének segítése, amelyek különféle eszközökkel próbálnak választ adni a magyar társadalmat, illetve a demokratikus berendezkedést érő kihívásokra. Az egyedi támogatások célja a civil társadalom erősítése. A támogatott szervezetek akár tudományos tevékenységet, akár közösségi fejlesztő munkát is végezhetnek.
 
@@ -318,7 +318,7 @@ kötelezettségvállaló:
 
 szakmai teljesítésigazoló:
 
-– a 2009. május 7-ig megkötött szerződések esetében a Miniszterelnöki Kabinetirodát vezető államtitkár, vagy a Miniszterelnöki Kabinetiroda operatív működéséért felelős szakállamtitkár, egyéb esetben az adott szerződés kötelezettségvállalója. A Miniszteri Kabinet vezetője hatáskörébe tartozó esetekben a teljesítésigazolásra a pénzügyi elszámolás Költségvetési Főosztály által történő előzetes ellenőrzése után kerül sor.
+– a 2009. május 7-ig megkötött szerződések esetében a Miniszterelnöki Kabinetirodát vezető államtitkár, vagy a Miniszterelnöki Kabinetiroda operatív működéséért felelős szakállamtitkár, egyéb esetben az adott szerződés kötelezettségvállalója, ennek hiányában vagy az adott tisztség betöltetlensége esetén a miniszter által kijelölt személy. A Miniszteri Kabinet vezetője hatáskörébe tartozó esetekben a teljesítésigazolásra a pénzügyi elszámolás Költségvetési Főosztály által történő előzetes ellenőrzése után kerül sor.
 
 9/3/11 Tom Lantos Alapítvány támogatása
 
@@ -589,3 +589,5 @@ E jogcímről általános működési és feladatarányos támogatásra jogosult
 kötelezettségvállaló:
 
 – kisebbségpolitikáért felelős miniszter
+
+[^1]: A 9. számú melléklet b) pont 9/3/10 alcíme a 10/2010. (IV. 30.) MeHVM rendelet 1. §-a szerint módosított szöveg.
