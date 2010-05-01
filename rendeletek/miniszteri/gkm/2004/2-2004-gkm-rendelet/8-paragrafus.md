@@ -4,6 +4,6 @@
 
 (3) A bizottság a kijelölésről, illetve felhatalmazásról annak megadását követő nyolc napon belül értesíti az első fokú hajózási hatóságot. Az elismerési, kijelölési, illetve felhatalmazási eljárással kapcsolatos valamennyi dokumentációt (kérelmet, kérelemhez benyújtott mellékleteket) a bizottság köteles megőrizni.
 
-(4)[^9] A kijelölésekről, illetve felhatalmazásokról a bizottság nyilvántartást vezet. Az elismerésről, kijelölésről, felhatalmazásról, illetve azok megszűnéséről, visszavonásáról és felfüggesztéséről a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a közlekedésért felelős miniszter által vezetett minisztérium honlapján tájékoztatót kell közzé tenni.
+(4)[^10] A kijelölésekről, illetve felhatalmazásokról a bizottság nyilvántartást vezet. Az elismerésről, kijelölésről, felhatalmazásról, illetve azok megszűnéséről, visszavonásáról és felfüggesztéséről a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a közlekedésért felelős miniszter által vezetett minisztérium honlapján tájékoztatót kell közzé tenni.
 
-[^9]: A 8. § (4) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 8. pontja szerint módosított szöveg.
+[^10]: A 8. § (4) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 8. pontja szerint módosított szöveg.

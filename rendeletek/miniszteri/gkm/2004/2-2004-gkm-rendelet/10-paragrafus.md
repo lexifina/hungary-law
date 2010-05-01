@@ -1,6 +1,6 @@
 10. § (1) Elismert szervezetnek nemzetközi egyezményben előírt bizonyítványok kiállítására történő felhatalmazása esetén a bizottság az elismert szervezettel kötendő, a Nemzetközi Tengerészeti Szervezetben elfogadott tartalmú megállapodást készít elő és azt a 4. számú melléklet szerinti felhatalmazási okirattal, valamint a felhatalmazást indokoló javaslatával együtt a miniszternek jóváhagyásra és aláírásra bemutatja.
 
-(2)[^14] Az elismert szervezettel kötendő írásbeli megállapodásnak hátrányos megkülönböztetéstől mentesnek kell lennie. A megállapodás megkötésének feltétele, hogy a felek megállapodnak
+(2)[^15] Az elismert szervezettel kötendő írásbeli megállapodásnak hátrányos megkülönböztetéstől mentesnek kell lennie. A megállapodás megkötésének feltétele, hogy a felek megállapodnak
 
 a) a Nemzetközi Tengerészeti Szervezet (a továbbiakban: IMO) A.739(18) határozat 2. függelékében a hajózási hatóság nevében eljáró elismert szervezet felhatalmazására vonatkozóan felsorolt szerződéses feltételekben, figyelemmel az IMO Tengerészeti Biztonsági Bizottsága 710. számú körlevelének (MSC/Circular 710) és a Tengeri Környezetvédelmi Bizottság 307. számú körlevelének (MEPC/Circular 307) mellékleteiben és függelékeiben szereplő útmutatásokra,
 
@@ -20,4 +20,4 @@ e) a felhatalmazott szervezetnek az általa osztályozott hajókra, a hajók osz
 
 (3) A miniszter az általa adott felhatalmazásról, a felhatalmazott szervezettel kötött felhatalmazási megállapodás megküldése útján írásban értesíti az Európai Bizottságot.
 
-[^14]: A 10. § (2) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 10. § (2) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 5. §-ával megállapított szöveg.

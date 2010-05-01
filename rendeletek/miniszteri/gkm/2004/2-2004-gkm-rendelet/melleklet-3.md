@@ -206,6 +206,6 @@
 
 ## Protocol on qualification made by the National Accreditation Body (NAT)
 
-3. számú melléklet a 2/2004. (I. 5.) GKM rendelethez[^31]
+3. számú melléklet a 2/2004. (I. 5.) GKM rendelethez[^32]
 
-[^31]: A 3. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 3. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

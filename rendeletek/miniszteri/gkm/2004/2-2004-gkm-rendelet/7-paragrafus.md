@@ -1,4 +1,4 @@
-7. § (1)[^7] A 391/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti elismerés, felhatalmazás, valamint az e rendelet szerinti kijelölés iránti kérelmet a 2. számú mellékletben foglalt formanyomtatványon a bizottsághoz kell benyújtani.
+7. § (1)[^8] A 391/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti elismerés, felhatalmazás, valamint az e rendelet szerinti kijelölés iránti kérelmet a 2. számú mellékletben foglalt formanyomtatványon a bizottsághoz kell benyújtani.
 
 (2) A kérelemhez csatolni kell:
 
@@ -26,7 +26,7 @@ b) a nemzetközi tanúsítási rendszerben kapott elismerések másolata;
 
 c) egyéb, a kijelölés iránti kérelemben megjelölt tevékenységre vonatkozó referencia.
 
-(4)[^8] A kérelmezőnek igazolnia kell, hogy a szervezeti felépítés, általános működés és a szervezeten belüli minőségbiztosítási rendszer tekintetében megfelel a 391/2009/EK európai parlamenti és tanácsi rendelet I. mellékletében meghatározott minimumkövetelményeknek és – ha a kérelem osztályozásra nem kötelezett belvízi hajó, úszómunkagép, felszereléseik vagy kedvtelési célú jármű megfelelőségének vizsgálatára, ellenőrzésére és tanúsítására szóló kijelölésre vonatkozik – az 1. számú mellékletben meghatározott különös követelményeknek.
+(4)[^9] A kérelmezőnek igazolnia kell, hogy a szervezeti felépítés, általános működés és a szervezeten belüli minőségbiztosítási rendszer tekintetében megfelel a 391/2009/EK európai parlamenti és tanácsi rendelet I. mellékletében meghatározott minimumkövetelményeknek és – ha a kérelem osztályozásra nem kötelezett belvízi hajó, úszómunkagép, felszereléseik vagy kedvtelési célú jármű megfelelőségének vizsgálatára, ellenőrzésére és tanúsítására szóló kijelölésre vonatkozik – az 1. számú mellékletben meghatározott különös követelményeknek.
 
-[^7]: A 7. § (1) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 7. § (4) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 7. § (1) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (4) bekezdése a 28/2010. (IV. 2.) KHEM rendelet 3. § (2) bekezdésével megállapított szöveg.
