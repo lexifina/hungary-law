@@ -54,7 +54,7 @@ e) a hiteles cégaláírási nyilatkozat (a közjegyzői aláírás-hitelesíté
 
 11. az adózó nyilatkozatát a befizetendő díj összegéről;
 
-12. a bankszámlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem elutasítása esetén;
+12. a fizetési számlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem elutasítása esetén;
 
 13. egyéb, az adózó által fontosnak tartott körülmények megjelölését;
 
@@ -182,4 +182,4 @@ Az ügyvéd (adótanácsadó) cégszerű aláírása:
 
 dátum
 
-[^3]: A melléklet a 17/2009. (IX. 29.) PM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^3]: A melléklet a 17/2009. (IX. 29.) PM rendelet 2. §-ával megállapított, a 17/2010. (IV. 28.) PM rendelet 6. §-a szerint módosított szöveg.
