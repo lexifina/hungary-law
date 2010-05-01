@@ -20,9 +20,9 @@ c) az engedély kiadása után merül fel olyan tény, adat vagy körülmény, a
 
 d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyosan megszegi, vagy az állammal szembeni kötelezettségének ismételten nem tesz eleget.
 
-Az eltiltás pénznyerő automaták üzemeltetése esetén meghatározott játékteremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
+Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékteremben, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) Az állami adóhatóság a játékkaszinó és az elektronikus kaszinó működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.
+(3) Az állami adóhatóság a játékkaszinó, az elektronikus kaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 

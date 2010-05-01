@@ -10,7 +10,9 @@ b) pénznyerő automaták üzemeltetése,
 
 c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
 
-d) a lóversenyfogadás és az a)—c) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
+d) kártyaterem üzemeltetése,
+
+e) a lóversenyfogadás és az a)–d) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
 
 (4) A Magyar Köztársaság területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
 

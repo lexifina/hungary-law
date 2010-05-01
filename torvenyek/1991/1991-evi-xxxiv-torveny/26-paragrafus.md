@@ -22,13 +22,13 @@ Nem adható engedély olyan pénznyerő automatára, amely az e bekezdés a) vag
 
 (3) Pénznyerő automata csak játékkaszinóban vagy — kizárólag e célból alapított gazdasági társaság által — játékteremben üzemeltethető. Egy játékkaszinó-egységben vagy egy játékteremben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat.
 
-[(4) A játékkaszinóban üzemeltetett pénznyerő automatának
+(4) A játékkaszinóban üzemeltetett pénznyerő automatának
 
 a) 100 000 játékonként az összes tét legalább 80%-át, vagy
 
 b) a normális eloszlás sűrűségfüggvényének megfelelően, az összes tét legalább 85%-át legalább 95%-os valószínűséggel
 
-nyereményként ki kell adnia.]
+nyereményként ki kell adnia.
 
 (5) A játéktermet az állami adóhatóság az engedélyben I. vagy II. kategóriába sorolja be. A II. kategóriába tartozó játékteremben legfeljebb 2 db II. kategóriába tartozó pénznyerő automata üzemeltethető.
 

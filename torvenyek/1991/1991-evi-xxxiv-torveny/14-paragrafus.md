@@ -14,7 +14,9 @@ c) pénznyerő automata üzemeltetése,
 
 d) kaszinójáték,
 
-e) fogadás.
+e) fogadás,
+
+f) kártyajáték.
 
 1. CÍM
 

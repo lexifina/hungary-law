@@ -1,4 +1,4 @@
-2. § (1) Az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban meghatározott tevékenység, valamint az 1. § (3) bekezdésének b) pontjában meghatározott tevékenység liberalizált tevékenység.
+2. § (1) Az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban meghatározott tevékenység, valamint az 1. § (3) bekezdésének b) és d) pontjaiban meghatározott tevékenység liberalizált tevékenység.
 
 (2) Szerencsejáték szervező tevékenység folytatásához — az e törvényben meghatározott kivétellel — az állami adóhatóság engedélye szükséges.
 

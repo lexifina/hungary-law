@@ -12,7 +12,7 @@ c) a játéktervvel,
 
 d) a sorsolásos játékokkal és a fogadásokkal,
 
-e) a pénznyerő automaták, játékautomaták, játéktermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
+e) a pénznyerő automaták, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
 
 f)
 
