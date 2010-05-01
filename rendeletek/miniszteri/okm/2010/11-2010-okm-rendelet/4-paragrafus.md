@@ -48,7 +48,7 @@ g) bejelentési kötelezettség teljesítésének vállalásáról arra nézve, 
 
 h) arról, hogy az Áht. 64/B. § (1) bekezdése szerinti esetekben a miniszter által megállapított jogosulatlanul igénybe vett támogatás összegét és annak kamatait az Áht.-ben foglaltak szerint visszafizeti,
 
-i) arról, hogy az Áht. 64/B. § (1) bekezdése szerinti esetekben a miniszter által megállapított jogosulatlanul igénybe vett támogatás összegét és annak kamatait az Áht.-ben foglaltak szerint visszafizeti,
+i)[^2]
 
 j) annak tudomásul vételéről, hogy amennyiben a kedvezményezett a támogatás felhasználása során a fizetendő általános forgalmi adóból rá áthárított vagy az általa megállapított adót levonta, vagy a keletkező adóterhet másra áthárította, a levonásba helyezett, illetve áthárított adó összegét a támogatásból nem számolhatja el, továbbá mellékeli a kedvezményezett nyilatkozatát arról, hogy a kedvezményezett a támogatás célja tekintetében adólevonási joggal rendelkezik-e,
 
@@ -67,3 +67,5 @@ p) a 3. § (2) bekezdés i) pontjában foglaltak vizsgálatához való hozzájá
 q) arról, hogy támogatás elnyerése esetén a pénzforgalom lebonyolításáról szóló 18/2009. (VIII. 6.) MNB rendelet 34. §-a szerinti felhatalmazó levelet ad a Kincstár részére az Áht. 64/D. § (11) bekezdése szerinti beszedési megbízás benyújtására.
 
 (6) A nyilatkozatokat egy okiratba foglalva szükséges a kérelemhez csatolni, amely nem lehet a támogatási kérelem benyújtásának napjától számított 30 napnál régebbi.
+
+[^2]: A 4. § (5) bekezdés i) pontját a 19/2010. (IV. 23.) OKM rendelet 6. § (5) bekezdése hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
