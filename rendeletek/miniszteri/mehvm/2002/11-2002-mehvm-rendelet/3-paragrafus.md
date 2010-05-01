@@ -1,1 +1,0 @@
-3. § A rendelet a kihirdetése napján lép hatályba. A hatálybalépéssel egyidejűleg a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter irányítási feladatok ellátását segítő szervezete elnevezéséről szóló 5/1997. (VIII. 6.) TNM rendelet hatályát veszti.
