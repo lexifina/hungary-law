@@ -4,9 +4,9 @@
 
 a) villamossági termék: az 50 és 1000 V közötti névleges feszültségű váltakozó áramra, valamint a 75 és 1500 V közötti egyenáramra készített bármely villamossági termék, a rendelet 2. számú mellékletében felsorolt termékek és területek kivételével;
 
-b) gyártó: az a gazdálkodó szervezet, amely teljes felelősséggel bír a termék tervezéséért, gyártásáért, csomagolásáért és jelöléséért a forgalomba hozatal előtt, függetlenül attól, hogy ezeket a feladatokat ő vagy megbízásából más végzi. Gyártónak tekintendő az is, aki jelentős változtatásokat vagy bővítéseket végez meglévő villamossági terméken, vagy villamossági termékekből egy új, összetett villamossági terméket állít elő;
+b)[^4] gyártó: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 7. pontjában meghatározott személy,
 
-c)[^3] a gyártó Európai Unióban letelepedett képviselője: bármely, a jelen rendeletben előírt feladat, eljárás a gyártó helyett és nevében való teljesítésére, illetve elvégzésére a gyártó által meghatalmazott természetes vagy jogi személy;
+c)[^5] a gyártó Európai Unióban letelepedett képviselője: bármely, a jelen rendeletben előírt feladat, eljárás a gyártó helyett és nevében való teljesítésére, illetve elvégzésére a gyártó által meghatalmazott természetes vagy jogi személy;
 
 d) importáló: a külkereskedő, illetve a külkereskedelmi bizományi szerződés esetén a megbízó;
 
@@ -16,18 +16,22 @@ Nem számít forgalomba hozatalnak, ha a raktározás bizonyítottan azért tör
 
 Nem számít forgalomba hozatalnak az az eset, ha a terméket műszaki vizsgálatnak vetik alá, vagy múzeumi, illetve demonstrációs célokra használják fel;
 
-f)[^4] EK megfelelőségi nyilatkozat: a gyártó vagy az Európai Unióban letelepedett képviselőjének írásbeli nyilatkozata, amely igazolja a termék e rendelet előírásainak történő megfelelését;
+f)[^6] EK megfelelőségi nyilatkozat: a gyártó vagy az Európai Unióban letelepedett képviselőjének írásbeli nyilatkozata, amely igazolja a termék e rendelet előírásainak történő megfelelését;
 
-g)[^5] EK típusvizsgálati tanúsítvány: tanúsító szervezet által kiadott dokumentum annak igazolására, hogy a tervezett gyártás reprezentatív mintapéldánya teljesíti a terméktípusra vonatkozó európai közösségi követelményeket.
+g)[^7] EK típusvizsgálati tanúsítvány: bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a tervezett gyártás reprezentatív mintapéldánya teljesíti a terméktípusra vonatkozó európai közösségi követelményeket.
 
-h)[^6] tanúsító szervezet: e rendeletet kiadó miniszter által az EK típusvizsgálati tanúsítvány kiadásra külön jogszabály[^7] alapján kijelölt szervezet, amelynek a bejelentése az Európai Bizottsághoz és az Európai Unió tagállamaihoz megtörtént;
+h)[^8] bejelentett szervezet: a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 2. § a) pontjában meghatározott szervezet;
 
 i) rendeltetésszerű használat: a termék használati-kezelési útmutatójában vagy a termékismertetőben feltüntetett, a gyártó által tervezett célnak, esetleg előírt használati módnak megfelelő használat;
 
-j) honosított harmonizált szabvány: a CEN vagy a CENELEC által jóváhagyott és az Európai Közösségek Hivatalos Lapjában kihirdetett európai szabvány, amelyet a vonatkozó magyar eljárási rendnek megfelelően honosítottak, és hivatalosan közzétettek.
+j)[^9] harmonizált szabvány: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott szabvány, amelynek hivatkozását az Európai Unió Hivatalos Lapjában közzéteszik;
 
-[^3]: A 2. § c) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § f) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § g) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § h) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított szöveg.
-[^7]: A műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet. A műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésének részletes szabályairól szóló 4/1999. (II. 24.) GM rendelet.
+k)[^10] honosított harmonizált szabvány: a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet 1. § b) pontjában meghatározott szabvány.
+
+[^4]: A 2. § b) pontja a 16/2010. (IV. 28.) NFGM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § c) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § f) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § g) pontja a 86/2004. (VI. 10.) GKM rendelet 1. §-ával megállapított, a 16/2010. (IV. 28.) NFGM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 2. § h) pontja a 16/2010. (IV. 28.) NFGM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § j) pontja a 16/2010. (IV. 28.) NFGM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § k) pontját a 16/2010. (IV. 28.) NFGM rendelet 3. § (4) bekezdése iktatta be.
