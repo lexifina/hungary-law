@@ -560,7 +560,11 @@ rablás bűntette
 
 |
 
-321. § (3) bek. a) és c) pont és (4) bek. b)–c) pont
+321. § (3) bekezdés c) pont,
+
+(4) bekezdés a), c) és d pont,
+
+valamint (5) bekezdés a) és b) pont
 
 |
 
@@ -568,7 +572,7 @@ kifosztás bűntette
 
 |
 
-322. § (2) bek. b) pont
+322. § (2) bek. b) pont,
 
 |
 

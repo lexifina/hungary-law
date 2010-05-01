@@ -8,7 +8,7 @@ b) ha a bűncselekmény szabadságvesztés büntetéssel nem büntethető, vagy 
 
 c) ha a büntetőeljárás eredményeként nem kerül sor személyi szabadságot korlátozó intézkedés alkalmazására;
 
-d) ha a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés vagy pénzmellékbüntetés szabható ki, illetőleg alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
+d) ha a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés szabható ki, illetőleg alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
 
 e) ha a személy beleegyezett az átadásába, és ezzel egyidejűleg lemondott a specialitás szabályának alkalmazásáról;
 
