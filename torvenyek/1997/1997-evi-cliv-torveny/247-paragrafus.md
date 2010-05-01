@@ -231,13 +231,3 @@ b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek
 c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
 
 ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
-
-cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-
-cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
-
-ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
-
-cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
