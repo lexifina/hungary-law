@@ -6,6 +6,7 @@
 
 (3)[^1]
 
-(4) A 2. § (7) bekezdése szerinti előirányzat felhasználásával kapcsolatban az Ámr. 113. § (2)–(3) szerinti nyilatkozatokat a 2010. január 1. és az e rendelet hatálybalépése közötti időszakban vagy a 2009. évben kötött és 2010. évben kifizetés alapjául szolgáló megállapodások esetében a támogatásban részesülőknek 2010. április 30-áig kell benyújtaniuk.
+(4)[^2]
 
 [^1]: A 32. § (3) bekezdését a 33. § (1) bekezdése hatályon kívül helyezte.
+[^2]: A 32. § (4) bekezdését a 33. § (2) bekezdése hatályon kívül helyezte.
