@@ -36,7 +36,7 @@ b)[^46] autista, testi, érzékszervi, értelmi vagy beszédfogyatékos állapot
 
 ## igazolható.
 
-(6)[^47]
+(6)[^47] Ha az egészségkárosodott személy esetében a (2) bekezdés szerinti szakvélemény vagy szakhatósági állásfoglalás időbeli hatálya lejárt és az egészségkárosodott személy az időbeli hatály lejárta előtt újabb szakhatósági állásfoglalást nem nyújtott be, a jegyző – szakhatósági állásfoglalás kiadása céljából – megkeresi a szakértői bizottságot.
 
 (7)[^48] A (3) bekezdés b)–d) pontja szerint kiadott igazolásnak tartalmaznia kell, hogy az érintett személy rendelkezik-e hatályos álláskeresési megállapodással.
 
@@ -47,5 +47,5 @@ b)[^46] autista, testi, érzékszervi, értelmi vagy beszédfogyatékos állapot
 [^44]: A 15. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^45]: A 15. § (4) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^46]: A 15. § (5) bekezdésének b) pontja a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ad) alpontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
-[^47]: A 15. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A 15. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 140/2010. (IV. 28.) Korm. rendelet 16. §-a iktatta be.
 [^48]: A 15. § (7) bekezdését a 75/2009. (IV. 8.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 452. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
