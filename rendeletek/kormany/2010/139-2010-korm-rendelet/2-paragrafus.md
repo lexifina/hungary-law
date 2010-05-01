@@ -1,0 +1,1 @@
+## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 12/A. § (6) bekezdésében a „Közösségi rendelet” szövegrész helyébe a „szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek” szöveg lép.
