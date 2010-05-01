@@ -6,7 +6,7 @@ a) az elvégzendő vagy folytatandó tevékenység leírását, illetve meghatá
 
 b) a tevékenységgel érintett kulturális örökségi elem azonosításra alkalmas megjelölését,
 
-c)[^10] a tervezett beavatkozás mértékétől és jellegétől függően
+c)[^21] a tervezett beavatkozás mértékétől és jellegétől függően
 
 ca) örökségvédelmi hatástanulmányt,
 
@@ -18,4 +18,4 @@ cb) beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuhá
 
 (4) Az előzetes nyilatkozat alapján hatósági engedélyhez kötött tevékenység nem folytatható.
 
-[^10]: A 20. § (1) bekezdésének c) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ee) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^21]: A 20. § (1) bekezdésének c) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ee) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.

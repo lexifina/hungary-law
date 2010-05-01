@@ -16,7 +16,7 @@ c) kutatási szakterületenként a kutatást végző felelős szakember nevét, 
 
 d) kutatási szakterületenként kutatási tervet.
 
-(3) A Hivatal engedélye az erről szóló határozatának végrehajthatóvá válásától számított 1 év után érvényét veszti, kivéve, ha az engedélyezett tevékenységet megkezdték, és 2 éven belül az 11. § (6) bekezdésében foglaltak szerinti bejelentés megtörtént.
+(3)[^14] A Hivatal engedélye az erről szóló határozatának végrehajthatóvá válásától számított 1 év után hatályát veszti, kivéve, ha az engedélyezett tevékenységet megkezdték, és 2 éven belül az 11. § (6) bekezdésében foglaltak szerinti bejelentés megtörtént.
 
 (4) A Hivatal engedélyében feltételeket írhat elő.
 
@@ -35,3 +35,5 @@ b) a kutatás folyamatának leírását, eredményének összefoglalását, rajz
 c) a felhasznált szakirodalmat, a történeti forrásokat és ezek feldolgozását,
 
 d) helyreállítási, illetve restaurálási javaslatot.
+
+[^14]: A 11. § (3) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

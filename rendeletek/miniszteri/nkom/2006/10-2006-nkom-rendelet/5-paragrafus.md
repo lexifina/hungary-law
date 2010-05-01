@@ -20,9 +20,9 @@ f) belsőépítészeti és (meg)világítási tervet,
 
 g) épületgépészeti és elektromos tervet,
 
-h)[^1] örökségvédelmi hatástanulmányt,
+h)[^4] örökségvédelmi hatástanulmányt,
 
-i)[^2] beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
+i)[^5] beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
 
 (3) A Hivatal az engedély megadását megtagadja, ha
 
@@ -44,5 +44,5 @@ b) a benyújtott terv a kutatási eredmények figyelmen kívül hagyásával ké
 
 (7) Használatbavételi engedélyhez nem kötött építési munkák befejezését a Hivatalnál 8 napon belül jelenteni kell. A bejelentéshez fotódokumentációt kell mellékelni. A bejelentés elmulasztása az engedély nélküli használat jogkövetkezményeit vonja maga után.
 
-[^1]: Az 5. § (2) bekezdésének h) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ea) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
-[^2]: Az 5. § (2) bekezdésének i) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ea) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^4]: Az 5. § (2) bekezdésének h) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ea) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^5]: Az 5. § (2) bekezdésének i) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ea) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.

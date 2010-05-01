@@ -64,15 +64,16 @@ b) az ingatlan építéstörténetére vonatkozó adatok beszerzését,
 
 c) épületdiagnosztikai kutatás elvégzését,
 
-d)[^6] örökségvédelmi hatástanulmányt,
+d)[^10] örökségvédelmi hatástanulmányt,
 
-e)[^7] beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
+e)[^11] beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
 
 (6) Az engedély megtagadása vonatkozásában az 5. § (3)–(4) bekezdéseit kell megfelelően alkalmazni.
 
-(7) A Hivatal engedélye az erről szóló határozatának végrehajthatóvá válásától számított 1 év után érvényét veszti, kivéve, ha az engedélyezett tevékenységet megkezdték és 2 éven belül a 9. § (8) bekezdésében foglaltak szerinti bejelentés megtörtént.
+(7)[^12] A Hivatal engedélye az erről szóló határozatának végrehajthatóvá válásától számított 1 év után hatályát veszti, kivéve, ha az engedélyezett tevékenységet megkezdték és 2 éven belül a 9. § (8) bekezdésében foglaltak szerinti bejelentés megtörtént.
 
 (8) Az engedélyezett munkák befejezése vonatkozásában az 5. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-[^6]: A 9. § (5) bekezdésének d) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
-[^7]: A 9. § (5) bekezdésének e) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^10]: A 9. § (5) bekezdésének d) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^11]: A 9. § (5) bekezdésének e) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^12]: A 9. § (7) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

@@ -24,7 +24,7 @@ c) a restaurálás során használandó eszközök, anyagok, eljárások, módsz
 
 (4) A Hivatal indokolt esetben az 5. § (2) bekezdésének a)–d) pontjaiban foglalt mellékletek benyújtását is előírhatja.
 
-(5) A Hivatal engedélye annak végrehajthatóvá válásától számított 1 év után érvényét veszti, kivéve, ha az engedélyezett tevékenységet megkezdték, és 3 éven belül a 14. § (6) bekezdésében foglaltak szerinti bejelentés megtörtént.
+(5)[^18] A Hivatal engedélye annak végrehajthatóvá válásától számított 1 év után hatályát veszti, kivéve, ha az engedélyezett tevékenységet megkezdték, és 3 éven belül a 14. § (6) bekezdésében foglaltak szerinti bejelentés megtörtént.
 
 (6) A beavatkozás befejezése vonatkozásában az 5. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
@@ -39,3 +39,5 @@ c) a megerősítéshez, a felület vagy szerkezet védelméhez használt anyagok
 d) rajz- és fotódokumentációt kísérő szöveggel: a tárgy restaurálás előtti, kezelés közbeni és utáni, illetve helyreállítás utáni állapotáról,
 
 e) a további kezelésre és tárolásra vonatkozó javaslatokat.
+
+[^18]: A 14. § (5) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
