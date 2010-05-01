@@ -1,3 +1,5 @@
 9. § (1) Ha a művelési ág, a földrészlet területe vagy határvonala, a föld minősége, valamint a minőségi osztály határvonalának változása miatt a mintatér megszűnik, akkor helyette helyszíni eljárással (osztályba sorozással) új mintateret kell kijelölni, és a változást a mintatér jegyzéken át kell vezetni.
 
-(2) A több megye területére kiterjedő becslőjárás esetén a járási mintaterek felülvizsgálatával, újak kijelölésével kapcsolatos munkálatokat illetékességi területükre kiterjedően az érintett megyei földhivatalok végzik. A változásról szóló értesítést, illetve új járási mintatér kijelölése esetén annak leírását valamennyi érintett megyei földhivatalnak meg kell küldeni. Véleményeltérés esetén az érdekelt földhivatalok egyeztetett véleménye alapján kell az új járási mintatér helyét kiválasztani, illetve a leírást elkészíteni.
+(2)[^1]
+
+[^1]: A 9. § (2) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.

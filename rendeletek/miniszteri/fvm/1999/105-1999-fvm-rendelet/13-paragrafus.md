@@ -1,3 +1,5 @@
 13. § (1) A települések közötti közigazgatási határváltozás esetében, ha a növekvő és a csökkenő település azonos becslőjárásba tartozik, a földek minőségi osztályát – ha azok a természetbeni állapottal egyezőek – nem lehet megváltoztatni.
 
-(2) Ha a települések különböző becslőjárásba tartoznak, a területátcsatolással kapcsolatos földminősítési kérdésekben a megyei, illetve fővárosi (továbbiakban: megyei) földhivatal dönt.
+(2)[^2]
+
+[^2]: A 13. § (2) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
