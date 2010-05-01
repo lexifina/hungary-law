@@ -20,12 +20,15 @@ f) a 7. számú adatlapon a Bnytv. 11. § (1) bekezdés l) pontjában meghatáro
 
 g) a 7. számú adatlapon az eljárás tárgyát, a Bnytv. 11. § (1) bekezdés l) pontjában meghatározott adatokat, valamint az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha a korábban kiszabott felfüggesztett szabadságvesztés végrehajtását utólag különleges eljárás keretében rendelte el,
 
-h) a 7. számú adatlapon az alapügyben eljárt bíróság megnevezését és határozatának számát, valamint a pénzmellékbüntetés helyébe lépő szabadságvesztés utólagos meghatározásáról szóló határozat számát és keltét, az eljáró bíróság megnevezését és az így meghatározott szabadságvesztés mértékét vagy a pénzmellékbüntetés szabadságvesztésre való átváltoztatásáról szóló határozat számát és keltét, az eljáró bíróság megnevezését és az így meghatározott szabadságvesztés mértékét,
+h)[^1] a 7. számú adatlapon az alapügyben eljárt bíróság megnevezését és határozatának számát, valamint a pénzbüntetés szabadságvesztésre való átváltoztatásáról szóló határozat számát és keltét, az eljáró bíróság megnevezését és az így meghatározott szabadságvesztés mértékét,
 
-i) a 8. számú adatlapon az eljárt bíróság megnevezését, határozatának számát, a pénzmellékbüntetés megfizetésének napját, ha a terhelt a pénzmellékbüntetést – tekintet nélkül a pénzmellékbüntetés helyébe lépő szabadságvesztés utólagos meghatározására – megfizette,
+i)[^2] a 8. számú adatlapon az eljárt bíróság megnevezését, határozatának számát, a pénzbüntetés megfizetésének napját, ha a terhelt a pénzbüntetést megfizette,
 
 j) az erről szóló külön értesítés (átirat) megküldésével az alapeljárás során eljárt bíróság megnevezését, határozatának számát, a határozat jogerőre emelkedésének napját, valamint a Bnytv. 11. § (1) bekezdés c) és h) pontjában meghatározott adatokat, ha az elítélt az ítélet jogerőre emelkedését követően kegyelemben részesült.
 
 (2) Ha a bíróság az ítéletében nem valamennyi vád tárgyává tett cselekményben állapította meg a vádlott bűnösségét, hozott felmentő ítéletet vagy szüntette meg az eljárást, az elítélésről, a felmentésről és az eljárás megszüntetéséről külön 4. számú adatlapok kitöltésével közli az adatokat a bűnügyi nyilvántartó szervvel.
 
 (3) Az (1) és (2) bekezdésben meghatározott adatközlést a bíróságnak a nyilvántartásba vételt megalapozó vagy a nyilvántartásban kezelt adatok megváltozását eredményező határozatának jogerőre emelkedése napjától számított három munkanapon belül kell teljesíteni.
+
+[^1]: A 15. § (1) bekezdés h) pontja a 11/2010. (III. 31.) IRM rendelet 40. §-ával megállapított szöveg.
+[^2]: A 15. § (1) bekezdés i) pontja a 11/2010. (III. 31.) IRM rendelet 40. §-ával megállapított szöveg.
