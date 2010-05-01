@@ -12,6 +12,6 @@
 
 |  | Fénykép helye |  |
 
-4. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^43]
+4. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^44]
 
-[^43]: A 4. számú melléklet a 17/2009. (IX. 29.) PM rendelet 82. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^44]: A 4. számú melléklet a 17/2009. (IX. 29.) PM rendelet 82. §-ával megállapított, a 17/2010. (IV. 28.) PM rendelet 8. §-a szerint módosított szöveg.
