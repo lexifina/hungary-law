@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1995-117-00-00.76 |
 | 2010-03-01 | 2010. évi XII. törvény | 1995-117-00-00.77 |
 | 2010-04-01 | 2009. évi CLII. törvény | 1995-117-00-00.78 |
+| 2010-05-01 | 2010. évi V. törvény | 1995-117-00-00.79 |
