@@ -1,3 +1,3 @@
-## 14. §[^41] A célvizsgálat egy vagy több ellenőrzési szempont alapján lefolytatott ellenőrzés.
+## 14. §[^48] A célvizsgálat egy vagy több ellenőrzési szempont alapján lefolytatott ellenőrzés.
 
-[^41]: A 14. § második mondatát a 19/2006. (VII. 31.) PM rendelet 42. § (6) bekezdése hatályon kívül helyezte.
+[^48]: A 14. § második mondatát a 19/2006. (VII. 31.) PM rendelet 42. § (6) bekezdése hatályon kívül helyezte.

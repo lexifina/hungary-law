@@ -1,6 +1,6 @@
-## Elektronikus kaszinókkal kapcsolatos különös rendelkezések[^131]
+## Elektronikus kaszinókkal kapcsolatos különös rendelkezések[^143]
 
-39/A. §[^132] (1) Az elektronikus kaszinónak a következő feltételeknek megfelelő videotechnikai ellenőrzési rendszerrel kell rendelkeznie:
+39/A. §[^144] (1)[^145] Az elektronikus kaszinónak a következő feltételeknek megfelelő videorendszerrel kell rendelkeznie:
 
 a) a videorendszerrel valamennyi, az elektronikus kaszinóban folyó játéknak megfigyelhetőnek kell lennie, a kamerákat úgy kell beállítani, típusát úgy kell kiválasztani, hogy az egyes pénznyerő automaták és a játék menete a képernyőn egyaránt jól látható és követhető legyen,
 
@@ -10,7 +10,7 @@ c) az elektronikus kaszinóban olyan kamerákat is szükséges elhelyezni, amely
 
 d) valamennyi kamerának alkalmasnak kell lennie arra, hogy a közvetített kép másodperc részletezettséggel és pontossággal tartalmazza a dátumot és az időpontot, illetve, hogy a képpel együtt a hangot is továbbítsa.
 
-(2) A szervező a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerint köteles tájékoztatni a játékosokat a kép- és hangfelvétel készítésének feltételeiről, különösen a videotechnikai rendszer működtetéséről, a videofelvétel céljáról, valamint arról, hogy a játékosok kitől tájékozódhatnak az adatkezelésről.
+(2)[^146] A szervező a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerint köteles tájékoztatni a játékosokat a kép- és hangfelvétel készítésének feltételeiről, különösen a videorendszer működtetéséről, a videofelvétel céljáról, valamint arról, hogy a játékosok kitől tájékozódhatnak az adatkezelésről.
 
 (3) Az elektronikus kaszinóban a szervező köteles a játékosok vendéglátását biztosítani egy ezen tevékenységet végző személy útján.
 
@@ -18,5 +18,7 @@ d) valamennyi kamerának alkalmasnak kell lennie arra, hogy a közvetített kép
 
 (5) Az elektronikus kaszinó alapterületéből a játékhelyenkénti 3 négyzetméter alatt kizárólag a pénznyerő automaták elhelyezésére szolgáló területet kell érteni. Az elektronikus kaszinónak ezen területen felül a vendégek kiszolgálására alkalmas, legalább 15 négyzetméter eladótérrel kell rendelkeznie.
 
-[^131]: A 39/A. §-t megelőző alcímet a 19/2006. (VII. 31.) PM rendelet 15. §-a iktatta be.
-[^132]: A 39/A. §-t a 19/2006. (VII. 31.) PM rendelet 15. §-a iktatta be.
+[^143]: A 39/A. §-t megelőző alcímet a 19/2006. (VII. 31.) PM rendelet 15. §-a iktatta be.
+[^144]: A 39/A. §-t a 19/2006. (VII. 31.) PM rendelet 15. §-a iktatta be.
+[^145]: A 39/A. § (1) bekezdés nyitó szövegrésze a 16/2010. (IV. 28.) PM rendelet 18. § (8) bekezdése szerint módosított szöveg.
+[^146]: A 39/A. § (2) bekezdése a 16/2010. (IV. 28.) PM rendelet 18. § (8) bekezdése szerint módosított szöveg.

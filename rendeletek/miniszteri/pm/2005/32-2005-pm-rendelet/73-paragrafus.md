@@ -1,6 +1,6 @@
 ## Elszámolás, nyilvántartás
 
-73. § (1)[^244] A fogadásokról az állami adóhatóság által az engedélyben meghatározott időszakonként és meghatározott formában időszaki, a fogadás megszűnését követő százhúsz napon belül pedig végelszámolást kell készíteni. Az állami adóhatóság dönt a végelszámolás jóváhagyásáról. A 22. § (2)–(4), (8) és (9) bekezdését megfelelően alkalmazni kell.
+73. § (1)[^271] A fogadásokról az állami adóhatóság által az engedélyben meghatározott időszakonként és meghatározott formában időszaki, a fogadás megszűnését követő százhúsz napon belül pedig végelszámolást kell készíteni. Az állami adóhatóság dönt a végelszámolás jóváhagyásáról. A 22. § (2)–(4), (8) és (9) bekezdését megfelelően alkalmazni kell.
 
 (2) Az időszaki és végelszámolásnak legalább a következő adatokat kell tartalmaznia:
 
@@ -34,9 +34,9 @@ b) bukmékeri rendszerű fogadás esetén
 
 7. az át nem vett nyereményeket és az emiatt fizetendő játékadót.
 
-(3)[^245] Számítógépes rendszer alkalmazásával történő elszámolás esetén az alkalmazásra kerülő számítógépes programok és az ehhez kapcsolódó nyilvántartási rendszerek leírását meg kell küldeni az állami adóhatóságnak.
+(3)[^272] Számítógépes rendszer alkalmazásával történő elszámolás esetén az alkalmazásra kerülő számítógépes programok és az ehhez kapcsolódó nyilvántartási rendszerek leírását meg kell küldeni az állami adóhatóságnak.
 
 (4) A totalizatőri rendszerű fogadások esetén a meg nem nyert és az át nem vett nyeremények elkülönített alapjaira, valamint a nyeremények halmozódására a 22. § (10)–(12) bekezdését megfelelően alkalmazni kell.
 
-[^244]: A 73. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 66. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^245]: A 73. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^271]: A 73. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 66. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^272]: A 73. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

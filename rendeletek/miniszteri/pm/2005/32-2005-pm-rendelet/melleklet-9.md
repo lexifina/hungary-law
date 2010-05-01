@@ -90,6 +90,6 @@
 
 ## Az összes PA lezárását követően az egyenleg oszlopa (g) összesítésre kerül. Ha a hónap közben a játékteremben működő PA-k adatai nem férnek el egy bizonylaton, az átvitel és az átvezetés mezők használatával a következő sorszámú bizonylaton kell az érintett játékterem összesítését elvégezni, majd az „Átvitel/Összesen” mezőben feltüntetni, a megfelelő rész aláhúzásával.
 
-9. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^315]
+9. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^351]
 
-[^315]: A 9. számú melléklet a 17/2009. (IX. 29.) PM rendelet 65. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^351]: A 9. számú melléklet a 17/2009. (IX. 29.) PM rendelet 65. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

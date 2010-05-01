@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-32-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2005-32-20-53.13 | 32/2005. (X. 21.) PM rendelet |
+| 2010-05-01 | 2005-32-20-53.14 | 16/2010. (IV. 28.) PM rendelet |

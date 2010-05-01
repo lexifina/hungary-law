@@ -1,4 +1,4 @@
-1/A. §[^7] (1) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező az állami adóhatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
+1/A. §[^9] (1) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező az állami adóhatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
 
 (2) Zárt számítástechnikai rendszer útján előállított és kinyomtatott nyereményigazolás abban az esetben alkalmas szerencsejáték-felügyeleti azonosításra, ha szigorú számadás alá vonása úgy valósul meg, hogy a nyereményigazolás kibocsátására szolgáló számítástechnikai program kihagyás és ismétlés nélkül, folyamatosan biztosítja a sorszámozást, továbbá a nyereményigazolás-példányok hiánytalan elszámolása biztosított.
 
@@ -10,4 +10,4 @@
 
 (6) A zárt számítástechnikai rendszeren keresztül kiállított nyereményigazolást legalább annyi példányban kell kinyomtatni, hogy a játékos részére átadható, illetve szükség szerint az állami adóhatóság részére megküldhető legyen. A nyereményigazolás átvételét a szervező köteles dokumentálni a nyertes nyereményigazolásra vezetett aláírásával, vagy a postán megküldött nyereményigazolás átvételét tartalmazó tértivevénnyel.
 
-[^7]: Az 1/A. §-t a 40/2008. (XII. 31.) PM rendelet 1. §-a iktatta be.
+[^9]: Az 1/A. §-t a 40/2008. (XII. 31.) PM rendelet 1. §-a iktatta be.

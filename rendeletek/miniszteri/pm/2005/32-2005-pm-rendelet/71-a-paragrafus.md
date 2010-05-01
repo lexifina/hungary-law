@@ -1,8 +1,8 @@
 ## A lóversenyfogadás szervezésének
 
-## különös szabályai[^235]
+## különös szabályai[^262]
 
-71/A. §[^236] (1) A ló- és agárversenyeken nem köthetnek fogadást
+71/A. §[^263] (1) A ló- és agárversenyeken nem köthetnek fogadást
 
 a) a szervező alkalmazottai,
 
@@ -18,5 +18,5 @@ e) az a)–d) pontokban meghatározott személyek közeli hozzátartozói.
 
 (3) A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
 
-[^235]: A 71/A. §-t megelőző alcímet a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
-[^236]: A 71/A. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
+[^262]: A 71/A. §-t megelőző alcímet a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
+[^263]: A 71/A. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.

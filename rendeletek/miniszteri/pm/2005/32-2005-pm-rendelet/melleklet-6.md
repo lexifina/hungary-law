@@ -2,6 +2,6 @@
 
 ## B) Engedély II. kategóriába sorolt pénznyerő automata üzemeltetésére
 
-6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^298]
+6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^334]
 
-[^298]: A 6. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba.
+[^334]: A 6. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba.

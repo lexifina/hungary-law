@@ -26,6 +26,6 @@ f) a sorsolásos játékban történő részvételre vonatkozó, az 1. § (5) be
 
 (3) A hírközlő eszközök és rendszerek útján szervezett sorsolásos játék esetén a játékos számára a játékban való részvételt megelőzően megismerhetővé kell tenni a részvételi szabályzatot.
 
-(4)[^59] A hírközlő eszközök és rendszerek igénybevételével szervezett számsorsjáték és egyéb sorsolásos játék engedélyezési eljárása során a szervezőnek az Szjtv. 2. §-ának (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
+(4)[^66] A hírközlő eszközök és rendszerek igénybevételével szervezett számsorsjáték és egyéb sorsolásos játék engedélyezési eljárása során a szervezőnek az Szjtv. 2. §-ának (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
 
-[^59]: A 18. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^66]: A 18. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 7. §-ával megállapított szöveg.
