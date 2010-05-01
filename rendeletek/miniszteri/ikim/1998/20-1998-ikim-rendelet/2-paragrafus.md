@@ -22,18 +22,20 @@ i) részterhelés: az üzemi teljesítmény és a névleges teljesítmény száz
 
 j) átlagos vízhőmérséklet: a kazán ki- és belépő oldalán mért vízhőmérsékletek számtani átlaga;
 
-k)[^4] honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos Lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően nemzeti szabványként közzétettek;
+k)[^4] honosított harmonizált szabvány: a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet 1. § b) pontjában meghatározott szabvány;
 
 l)[^5]
 
-m)[^6] tanúsító szervezet: a gazdasági és közlekedési miniszter (a továbbiakban: miniszter) által külön jogszabály előírásai szerint a gázfogyasztó készülékek vagy részegység vizsgálatára, ellenőrzésére és tanúsítására kijelölt, az Európai Bizottságnak és a tagállamoknak a 92/42/EK tanácsi irányelv 8. cikke szerint bejelentett szervezet;
+m)[^6] bejelentett szervezet: a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 2. § a) pontjában meghatározott szervezet;
 
 n) EK megfelelőségi nyilatkozat: a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője írásbeli nyilatkozata, hogy a kazán a típusmintának és e rendelet előírásainak megfelel;
 
-o) EK megfelelőségi tanúsítvány: a tanúsító szervezet által kiadott dokumentum annak igazolására, hogy a kazán megfelel az EK típusvizsgálati tanúsítvány szerinti típusnak;
+o)[^7] EK megfelelőségi tanúsítvány: a bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a kazán megfelel az EK típusvizsgálati tanúsítvány szerinti típusnak;
 
-p) EK típusvizsgálati tanúsítvány: a tanúsító szervezet által kiadott dokumentum annak igazolására, hogy a kazán megfelel a rendeletben előírt hatásfok követelményeknek.
+p)[^8] EK típusvizsgálati tanúsítvány: a bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a kazán megfelel a rendeletben előírt hatásfok követelményeknek.
 
-[^4]: A 2. § k) pontja a 30/2004. (III. 16.) GKM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § k) pontja a 16/2010. (IV. 28.) NFGM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § l) pontját a 30/2004. (III. 16.) GKM rendelet 9. §-a (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^6]: A 2. § m) pontja a 30/2004. (III. 16.) GKM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § m) pontja a 16/2010. (IV. 28.) NFGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § o) pontja a 16/2010. (IV. 28.) NFGM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 2. § p) pontja a 16/2010. (IV. 28.) NFGM rendelet 7. § (1) bekezdése szerint módosított szöveg.

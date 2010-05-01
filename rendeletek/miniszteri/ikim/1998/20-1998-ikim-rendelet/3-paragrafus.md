@@ -1,8 +1,8 @@
 ## Általános hatásfok követelmények
 
-3. §[^7] (1)[^8] A kazánt úgy kell tervezni, gyártani, kialakítani, forgalomba hozni és üzembe helyezni, hogy megfeleljen a külön jogszabályban meghatározott öko-tervezési követelményeknek, valamint az 1. számú mellékletben meghatározott hatásfok-követelményeknek.
+3. §[^9] (1)[^10] A kazánt úgy kell tervezni, gyártani, kialakítani, forgalomba hozni és üzembe helyezni, hogy megfeleljen a külön jogszabályban meghatározott öko-tervezési követelményeknek, valamint az 1. számú mellékletben meghatározott hatásfok-követelményeknek.
 
-(2)[^9] A kazán részegységeinek és a beépített anyagoknak alkalmasnak kell lenniük arra, hogy az összeszerelést követően a kazán megfeleljen az (1) bekezdésben meghatározott követelményeknek.
+(2)[^11] A kazán részegységeinek és a beépített anyagoknak alkalmasnak kell lenniük arra, hogy az összeszerelést követően a kazán megfeleljen az (1) bekezdésben meghatározott követelményeknek.
 
 (3) A honosított harmonizált szabvány hatásfok követelményeinek megfelelően gyártott gázfogyasztó készülékeket vagy részegységet úgy kell tekintetni, mint amelyek megfelelnek a rendelet 1. számú mellékletben meghatározott hatásfok követelményeknek.
 
@@ -14,6 +14,6 @@
 
 (7) A központi fűtés és melegvíz-szolgáltatást biztosító, kettősfunkciójú kazánok esetén az (1) bekezdésben meghatározott hatásfok követelmények kizárólag a fűtési funkcióra vonatkoznak.
 
-[^7]: A 3. § a 30/2004. (III. 16.) GKM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 3. § (1) bekezdése a 92/2007. (XI. 22.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (2) bekezdése a 92/2007. (XI. 22.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § a 30/2004. (III. 16.) GKM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdése a 92/2007. (XI. 22.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdése a 92/2007. (XI. 22.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
