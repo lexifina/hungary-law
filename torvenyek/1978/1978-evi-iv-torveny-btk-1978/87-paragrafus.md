@@ -1,6 +1,6 @@
 ## A büntetés enyhítése
 
-87. § (1) A büntetési tételnél enyhébb főbüntetés szabható ki, ha annak legkisebb mértéke a 83. § rendelkezéseire figyelemmel túl szigorú.
+87. § (1) A büntetési tételnél enyhébb büntetés szabható ki, ha annak legkisebb mértéke a 83. § rendelkezéseire figyelemmel túl szigorú.
 
 (2) Az (1) bekezdés alapján, ha a büntetési tétel legkisebb mértéke
 
@@ -10,9 +10,9 @@ b) öt évi szabadságvesztés, ehelyett legkevesebb két évi szabadságveszté
 
 c) két évi szabadságvesztés, ehelyett legkevesebb egy évi szabadságvesztést;
 
-d) egy évi szabadságvesztés, ehelyett rövidebb tartamú szabadságvesztést, közérdekű munkát, vagy ha – az elkövető különös méltánylást érdemlő személyi körülményeire figyelemmel – ez is túl szigorú, pénzbüntetést;
+d) egy évi szabadságvesztés, ehelyett rövidebb tartamú szabadságvesztést,
 
-e) egy évnél rövidebb tartamú szabadságvesztés, ehelyett közérdekű munkát vagy pénzbüntetést
+e) egy évnél rövidebb tartamú szabadságvesztés, ehelyett büntetést a 38. § (3) bekezdése alapján
 
 lehet kiszabni.
 

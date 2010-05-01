@@ -18,4 +18,4 @@ b) bűnszövetségben
 
 követik el.
 
-(4) A büntetés vétség miatt egy évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a bélyeghamisítást kisebb, vagy azt el nem érő értékű bélyegre követik el.
+(4) A büntetés vétség miatt egy évig terjedő szabadságvesztés, ha a bélyeghamisítást kisebb, vagy azt el nem érő értékű bélyegre követik el.

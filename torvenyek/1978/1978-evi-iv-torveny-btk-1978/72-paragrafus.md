@@ -4,7 +4,17 @@
 
 (2)–(3)
 
-(4) Nem bocsátható próbára a többszörös visszaeső.
+(4) Nem bocsátható próbára
+
+a) a többszörös visszaeső,
+
+b) aki a bűncselekményt bűnszervezetben követte el,
+
+c) aki a szándékos bűncselekményt a szabadságvesztésre ítélése után, a végrehajtás befejezése előtt követte el,
+
+d) aki a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt
+
+követte el.
 
 (5) A próbaidő tartama egy évtől három évig terjedhet; a tartamot években kell meghatározni.
 

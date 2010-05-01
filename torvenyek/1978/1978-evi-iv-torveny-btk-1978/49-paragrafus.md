@@ -6,4 +6,4 @@
 
 (3) A közérdekű munkát az elítélt – ha jogszabály másként nem rendelkezik – hetenként legalább egy napon, a heti pihenőnapon vagy a szabadidejében díjazás nélkül végzi.
 
-(4) A közérdekű munka legrövidebb tartama egy nap, leghosszabb tartama ötven nap. Egy napi közérdekű munkának hat óra munkavégzés felel meg.
+(4) A közérdekű munka tartamát órákban kell meghatározni, legkisebb mértéke negyvenkettő, legnagyobb mértéke háromszáz óra.

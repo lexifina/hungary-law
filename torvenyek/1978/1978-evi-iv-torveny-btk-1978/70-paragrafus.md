@@ -8,7 +8,7 @@
 
 3. a kényszergyógykezelés,
 
-4. az alkoholisták kényszergyógyítása,
+4.
 
 5. az elkobzás,
 

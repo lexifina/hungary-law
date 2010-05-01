@@ -1,6 +1,6 @@
 ## Segítségnyújtás elmulasztása
 
-172. § (1) Aki nem nyújt tőle várható segítséget sérült vagy olyan személynek, akinek az élete vagy testi épsége közvetlen veszélyben van, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+172. § (1) Aki nem nyújt tőle várható segítséget sérült vagy olyan személynek, akinek az élete vagy testi épsége közvetlen veszélyben van, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a sértett meghal, és életét a segítségnyújtás megmenthette volna.
 

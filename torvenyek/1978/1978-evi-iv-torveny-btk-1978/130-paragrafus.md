@@ -1,13 +1,11 @@
 ## A katonai mellékbüntetések
 
-130. § (1) Katonával szemben – ha a közügyektől nem tiltják el – a következő mellékbüntetések is alkalmazhatók:
+130. § (1) Katonával szemben
 
-a) lefokozás,
+a) rendfokozatban visszavetés,
 
-b) a szolgálati viszony megszüntetése,
+b) várakozási idő meghosszabbítása
 
-c) rendfokozatban visszavetés,
+büntetés mellett szabható ki.
 
-d) a várakozási idő meghosszabbítása.
-
-(2) Az (1) bekezdés a)–b) pontjában felsorolt mellékbüntetések önállóan, főbüntetés helyett is alkalmazhatók.
+(2) Katonai mellékbüntetés alkalmazásának nincs helye katonai büntetés mellett, vagy ha a katonát a közügyektől eltiltják.

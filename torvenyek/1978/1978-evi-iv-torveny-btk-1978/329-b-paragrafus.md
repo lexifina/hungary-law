@@ -6,7 +6,7 @@ a) készít, előállít,
 
 b) átad, forgalomba hoz, vagy azzal kereskedik,
 
-vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki a szerzői jogról szóló törvényben meghatározott hatásos műszaki intézkedés megkerülése céljából az ehhez szükséges vagy ezt könnyítő gazdasági, műszaki, szervezési ismeretet másnak a rendelkezésére bocsátja.
 

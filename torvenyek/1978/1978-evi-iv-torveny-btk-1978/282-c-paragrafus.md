@@ -8,6 +8,6 @@
 
 (5) Ha a bűncselekményt a kábítószerfüggő személy csekély mennyiségre követi el, a büntetés vétség miatt
 
-a) az (1) vagy a (2) bekezdés esetén egy évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés,
+a) az (1) vagy a (2) bekezdés esetén egy évig terjedő szabadságvesztés,
 
-b) a (3) bekezdés esetén két évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés.
+b) a (3) bekezdés esetén két évig terjedő szabadságvesztés.

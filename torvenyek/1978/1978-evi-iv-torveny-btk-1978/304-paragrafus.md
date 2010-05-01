@@ -20,4 +20,4 @@ követik el.
 
 (3) A büntetés öt évig terjedő szabadságvesztés, ha a pénzhamisítást váltópénzre, illetve kisebb, vagy azt el nem érő értékű pénzre követik el.
 
-(4) Aki pénzhamisításra irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(4) Aki pénzhamisításra irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.

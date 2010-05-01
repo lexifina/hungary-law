@@ -2,7 +2,7 @@
 
 102. § (1) A törvény erejénél fogva áll be a mentesítés
 
-a) közérdekű munka, pénzbüntetés és főbüntetés helyett alkalmazott mellékbüntetés esetén – foglalkozástól eltiltás vagy járművezetéstől eltiltás esetén a foglalkozás vagy a járművezetés gyakorlásának joga kivételével – az ítélet jogerőre emelkedésének napján;
+a) közérdekű munka, pénzbüntetés foglalkozástól eltiltás, járművezetéstől eltiltás és kiutasítás esetén – foglalkozástól eltiltás vagy járművezetéstől eltiltás esetén a foglalkozás vagy a járművezetés gyakorlásának joga kivételével – az ítélet jogerőre emelkedésének napján;
 
 b) felfüggesztett szabadságvesztés esetén a próbaidő leteltének napján;
 

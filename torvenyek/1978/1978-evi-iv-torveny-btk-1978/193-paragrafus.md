@@ -8,4 +8,4 @@ a) gyógy- vagy nevelőintézet alkalmazottja foglalkozása körében,
 
 b) a tizennyolcadik életévét be nem töltött személy nevelésére, felügyeletére vagy gondozására köteles személy követi el.
 
-(3) Ha a bűncselekményt a gyógy- vagy nevelőintézet alkalmazottja foglalkozása körében gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(3) Ha a bűncselekményt a gyógy- vagy nevelőintézet alkalmazottja foglalkozása körében gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.

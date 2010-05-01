@@ -1,27 +1,35 @@
 ## A büntetési nemek
 
-38. § (1) Főbüntetések
+38. § (1) Büntetések
 
-1. a szabadságvesztés,
+a) a szabadságvesztés,
 
-2. a közérdekű munka,
+b) a közérdekű munka,
 
-3. a pénzbüntetés.
+c) a pénzbüntetés,
+
+d) a foglalkozástól eltiltás,
+
+e) a járművezetéstől eltiltás,
+
+f) a kiutasítás.
 
 (2) Mellékbüntetések
 
-1. a közügyektől eltiltás,
+a) a közügyektől eltiltás,
 
-2. a foglalkozástól eltiltás,
+b) a kitiltás.
 
-3. a járművezetéstől eltiltás,
+(3) Ha a bűncselekmény büntetési tételének felső határa három évi szabadságvesztésnél nem súlyosabb, akkor szabadságvesztés helyett közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás, illetőleg e büntetések közül több is kiszabható.
 
-4. a kitiltás,
+(4) A büntetések – az (5) és (6) bekezdésben foglalt kivétellel – egymás mellett is kiszabhatók.
 
-5. a kiutasítás,
+(5) Ha a bűncselekményt e törvény kizárólag pénzbüntetéssel rendeli büntetni, e büntetés helyett vagy mellett más büntetés nem szabható ki.
 
-6.
+(6) Nem szabható ki
 
-7. a pénzmellékbüntetés.
+a) szabadságvesztés mellett közérdekű munka,
 
-(3) A (2) bekezdés 2–3. és 5. pontjában felsorolt mellékbüntetések önállóan, főbüntetés kiszabása helyett (88. §) is alkalmazhatók, ha az alkalmazásuk egyéb törvényi feltételei fennállnak.
+b) kiutasítás mellett közérdekű munka vagy pénzbüntetés.
+
+(7) Közügyektől eltiltás vagy kitiltás szabadságvesztés mellett szabható ki.

@@ -1,6 +1,6 @@
 ## Járművezetés tiltott átengedése
 
-189. § (1) Aki a vasúti, vagy légi jármű, valamint gépi meghajtású vízi jármű vagy úszó munkagép avagy közúton gépi meghajtású jármű vezetését szeszes italtól befolyásolt állapotban levő vagy a vezetésre egyéb okból alkalmatlan személynek engedi át, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+189. § (1) Aki a vasúti, vagy légi jármű, valamint gépi meghajtású vízi jármű vagy úszó munkagép avagy közúton gépi meghajtású jármű vezetését szeszes italtól befolyásolt állapotban levő vagy a vezetésre egyéb okból alkalmatlan személynek engedi át, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt
 

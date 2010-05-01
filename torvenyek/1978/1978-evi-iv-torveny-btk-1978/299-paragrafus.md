@@ -6,4 +6,4 @@ a) a gazdálkodó szervezet a székhelyén (telephelyén, fióktelepén) ne legy
 
 b) közhitelű nyilvántartásba olyan személy kerüljön a gazdálkodó szervezet képviseletére jogosult személyként bejegyzésre, akinek lakóhelye (tartózkodási helye) ismeretlen, vagy ismeretlennek minősül, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki közhitelű nyilvántartásba bejegyzendő, gazdasági tevékenységhez kapcsolódó adat, jog vagy tény bejelentését, illetve ilyen adat, jog vagy tény változásának bejelentését elmulasztja, ha a bejelentési kötelezettségét jogszabály írja elő, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(2) Aki közhitelű nyilvántartásba bejegyzendő, gazdasági tevékenységhez kapcsolódó adat, jog vagy tény bejelentését, illetve ilyen adat, jog vagy tény változásának bejelentését elmulasztja, ha a bejelentési kötelezettségét jogszabály írja elő, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.

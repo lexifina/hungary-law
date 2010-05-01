@@ -1,6 +1,6 @@
 ## Garázdaság
 
-271. § (1) Aki olyan kihívóan közösségellenes, erőszakos magatartást tanúsít, amely alkalmas arra, hogy másokban megbotránkozást vagy riadalmat keltsen, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+271. § (1) Aki olyan kihívóan közösségellenes, erőszakos magatartást tanúsít, amely alkalmas arra, hogy másokban megbotránkozást vagy riadalmat keltsen, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a garázdaságot
 

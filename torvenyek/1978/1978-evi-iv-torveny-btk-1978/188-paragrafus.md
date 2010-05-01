@@ -1,6 +1,6 @@
 ## Járművezetés ittas vagy bódult állapotban
 
-188. § (1) Aki szeszes italtól befolyásolt állapotban vagy a vezetési képességre hátrányosan ható szer befolyása alatt vasúti vagy légi járművet, valamint gépi meghajtású vízi járművet vagy úszó munkagépet, avagy közúton gépi meghajtású járművet vezet, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+188. § (1) Aki szeszes italtól befolyásolt állapotban vagy a vezetési képességre hátrányosan ható szer befolyása alatt vasúti vagy légi járművet, valamint gépi meghajtású vízi járművet vagy úszó munkagépet, avagy közúton gépi meghajtású járművet vezet, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt
 

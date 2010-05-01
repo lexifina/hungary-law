@@ -1,11 +1,7 @@
-## [A szabadságvesztés végrehajtásának részbeni felfüggesztése]
+## A szabadságvesztés végrehajtásának részbeni felfüggesztése
 
-90. § A büntetés végrehajtása nem függeszthető fel, ha
+90. § (1) A két évet meghaladó, de öt évnél nem hosszabb tartamú szabadságvesztés kiszabása esetén a szabadságvesztés fele részének végrehajtása próbaidőre felfüggeszthető, ha – különösen az elkövető személyi körülményeire figyelemmel – alaposan feltehető, hogy a büntetés célja annak végrehajtása nélkül is elérhető.
 
-a) a szándékos bűncselekményt a szabadságvesztés végrehajtásának befejezése előtt vagy felfüggesztésének próbaideje alatt követték el,
+(2) A próbaidő tartama két évtől öt évig terjedhet, de a felfüggesztett résznél rövidebb nem lehet. A próbaidőt években és hónapokban kell meghatározni. A próbaidő a végrehajtandó rész letöltése után kezdődik.
 
-b)
-
-c) az elkövető a bűncselekményt bűnszervezetben vagy erőszakos többszörös visszaesőként követte el,
-
-d)–e)
+(3) A szabadságvesztés végrehajtandó részéből az elítélt nem bocsátható feltételes szabadságra.

@@ -1,6 +1,6 @@
 ## Közúti baleset okozása
 
-187. § (1) Aki a közúti közlekedés szabályainak megszegésével másnak vagy másoknak gondatlanságból súlyos testi sértést okoz, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+187. § (1) Aki a közúti közlekedés szabályainak megszegésével másnak vagy másoknak gondatlanságból súlyos testi sértést okoz, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés
 

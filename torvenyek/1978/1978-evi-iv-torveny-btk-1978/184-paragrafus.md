@@ -18,6 +18,6 @@ d) öt évtől tizenöt évig terjedő szabadságvesztés, ha a bűncselekmény 
 
 okoz.
 
-(3) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdésben meghatározott esetekben, az ott tett megkülönböztetéshez képest, két évig, három évig, öt évig, illetve két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+(3) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, a (2) bekezdésben meghatározott esetekben, az ott tett megkülönböztetéshez képest, két évig, három évig, öt évig, illetve két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
 (4) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – azzal szemben, aki a veszélyt, mielőtt abból káros következmény származott volna, önként megszünteti.

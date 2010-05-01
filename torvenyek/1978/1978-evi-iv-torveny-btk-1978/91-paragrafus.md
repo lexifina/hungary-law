@@ -1,13 +1,19 @@
-## [A szabadságvesztés végrehajtásának felfüggesztésére és részbeni felfüggesztésére vonatkozó közös szabályok]
+## A szabadságvesztés végrehajtásának felfüggesztésére és részbeni felfüggesztésére vonatkozó közös szabályok
 
-91. § (1) A felfüggesztett büntetést végre kell hajtani, ha
+91. § (1) A szabadságvesztés végrehajtása nem függeszthető fel, ha az elkövető
 
-a) a próbaidő alatt megállapítják, hogy a büntetés végrehajtását a 90. §-ban foglalt kizáró ok ellenére függesztették fel.
+a) erőszakos többszörös visszaeső,
 
-b) az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik,
+b) a bűncselekményt bűnszervezetben követte el,
 
-c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi.
+c) a szándékos bűncselekményt a szabadságvesztés végrehajtásának befejezése előtt vagy felfüggesztésének próbaideje alatt követte el.
 
-(2)
+(2) Ha az elkövetőn olyan szabadságvesztést hajtanak végre, amely miatt a felfüggesztett szabadságvesztés végrehajtását nem lehet elrendelni, akkor a próbaidő a szabadságvesztés tartamával meghosszabbodik.
 
-(3) A felfüggesztett pénzbüntetést akkor is végre kell hajtani, ha az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt felfüggesztett szabadságvesztésre, közérdekű munkára vagy végrehajtandó pénzbüntetésre ítélik.
+(3) A (2) bekezdés szerinti rendelkezést a közérdekű munka és pénzbüntetés helyébe lépő szabadságvesztés esetén is alkalmazni kell.
+
+(4) A (2) és (3) bekezdés esetén a próbaidő tartama az öt évet meghaladhatja.
+
+(5) Ha az elkövetőt többször ítélik próbaidőre felfüggesztett szabadságvesztésre, és a szabadságvesztések próbaideje még nem telt el, valamennyi próbaidő párhuzamosan telik.
+
+(6) A szabadságvesztés végrehajtásának felfüggesztésével egyidejűleg az elkövető pártfogó felügyelet alá helyezhető. Ha az elkövető visszaeső, pártfogó felügyelet alatt áll.

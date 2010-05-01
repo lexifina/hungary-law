@@ -1,6 +1,6 @@
 ## Csempészet
 
-312. § (1) Aki nem közösségi árut a vámellenőrzés alól elvon, vagy a vámtartozás, a nem közösségi adók és díjak, illetve a biztosíték megállapítása vagy beszedése szempontjából lényeges körülmények tekintetében valótlan nyilatkozatot tesz, és ezzel a vámbevételt csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+312. § (1) Aki nem közösségi árut a vámellenőrzés alól elvon, vagy a vámtartozás, a nem közösségi adók és díjak, illetve a biztosíték megállapítása vagy beszedése szempontjából lényeges körülmények tekintetében valótlan nyilatkozatot tesz, és ezzel a vámbevételt csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 

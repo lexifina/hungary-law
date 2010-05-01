@@ -4,7 +4,7 @@ a) dolgot gazdasági tevékenység gyakorlása során felhasználja,
 
 b) dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe,
 
-és gondatlanságból nem tud a dolog ezen eredetéről, vétség miatt két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+és gondatlanságból nem tud a dolog ezen eredetéről, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés vétség miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott cselekményt
 

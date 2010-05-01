@@ -2,7 +2,7 @@
 
 326. § (1) Aki csempészetből, lopásból, sikkasztásból, csalásból, hűtlen kezelésből, rablásból, kifosztásból, zsarolásból, jogtalan elsajátításból vagy orgazdaságból származó dolgot vagyoni haszon végett megszerez, elrejt vagy elidegenítésében közreműködik, orgazdaságot követ el.
 
-(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha az orgazdaságot
+(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha az orgazdaságot
 
 a) kisebb értékre,
 

@@ -4,4 +4,4 @@ a) mást nyomozó hatóság, ügyész, bíróság vagy szabálysértési hatós�
 
 b) más ellen szabálysértésre vagy fegyelmi vétségre vonatkozó koholt bizonyítékot hoz az a) pontban megjelölt hatóság tudomására,
 
-vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.

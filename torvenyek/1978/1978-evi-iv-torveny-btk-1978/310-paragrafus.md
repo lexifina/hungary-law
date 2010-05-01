@@ -1,6 +1,6 @@
 ## Adócsalás
 
-310. § (1) Aki az adókötelezettség megállapítása szempontjából jelentős tényre (adatra) vonatkozóan valótlan tartalmú nyilatkozatot tesz, vagy ilyen tényt (adatot) a hatóság elől elhallgat, és ezzel vagy más megtévesztő magatartással az adóbevételt csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+310. § (1) Aki az adókötelezettség megállapítása szempontjából jelentős tényre (adatra) vonatkozóan valótlan tartalmú nyilatkozatot tesz, vagy ilyen tényt (adatot) a hatóság elől elhallgat, és ezzel vagy más megtévesztő magatartással az adóbevételt csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a bűncselekmény folytán az adóbevétel nagyobb mértékben csökken.
 

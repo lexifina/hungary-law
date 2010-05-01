@@ -1,6 +1,6 @@
 ## Visszaélés jövedékkel
 
-311. § (1) Aki a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban megállapított feltétel hiányában vagy hatósági engedély nélkül jövedéki terméket előállít, megszerez, tart, forgalomba hoz vagy azzal kereskedik, és ezzel a jövedéki adóbevételt kisebb mértékben csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+311. § (1) Aki a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban megállapított feltétel hiányában vagy hatósági engedély nélkül jövedéki terméket előállít, megszerez, tart, forgalomba hoz vagy azzal kereskedik, és ezzel a jövedéki adóbevételt kisebb mértékben csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 

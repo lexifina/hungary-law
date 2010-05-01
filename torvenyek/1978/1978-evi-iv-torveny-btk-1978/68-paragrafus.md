@@ -1,9 +1,7 @@
-68. § (1) A főbüntetés elévülésének határideje a büntetést kiszabó határozat jogerőre emelkedésének napján, ha pedig a büntetés végrehajtását felfüggesztik, a próbaidő leteltének napján kezdődik. Ha az elítélt a szabadságvesztés végrehajtása alatt megszökik, az elévülés határideje a szökés napjával ismét elkezdődik.
+68. § (1) A büntetés elévülésének határideje a büntetést kiszabó határozat jogerőre emelkedésének napjával, ha pedig a szabadságvesztés végrehajtását részben vagy egészben felfüggesztik, a próbaidő leteltének a napjával kezdődik.
 
-(2) A kiutasítás elévülésének határideje, ha főbüntetés mellett alkalmazzák, a főbüntetés végrehajtása befejezésének, illetőleg a végrehajthatósága megszűnésének napján, egyéb esetben a határozat jogerőre emelkedésének napján kezdődik.
+(2) Ha az elítélt a szabadságvesztés végrehajtása alatt megszökik, az elévülés határideje a szökés napjával ismét elkezdődik.
 
-(3) A pénzmellékbüntetés elévülésének határideje a főbüntetés végrehajtása befejezésének, illetőleg végrehajthatósága megszűnésének napján, ha pedig a szabadságvesztés végrehajtását felfüggesztik, a próbaidő leteltének napján kezdődik.
+(3) A szabadságvesztés mellett kiszabott büntetés elévülésének határideje a szabadságvesztés végrehajtása befejezésének, illetőleg a végrehajthatósága megszűnésének napján kezdődik.
 
-(4) Az elévülést félbeszakítja az elítélt ellen a büntetés végrehajtása végett tett intézkedés. A félbeszakítás napjával az elévülés határideje ismét elkezdődik.
-
-(5) A pénzmellékbüntetés alkalmazása esetén akár a főbüntetés, akár e mellékbüntetés végrehajtása iránt tett intézkedés mindkét büntetés elévülését félbeszakítja.
+(4) Az elévülést félbeszakítja az elítélt ellen a büntetés végrehajtása végett tett intézkedés. A félbeszakítás napjával az elévülés ismét elkezdődik.

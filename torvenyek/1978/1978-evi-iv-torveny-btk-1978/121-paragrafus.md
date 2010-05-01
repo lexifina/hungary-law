@@ -10,4 +10,4 @@ c) a büntetés kitöltésének vagy végrehajthatósága megszűnésének napj�
 
 (2) A szándékos bűncselekmény miatt kiszabott, egy évet meghaladó szabadságvesztés kitöltése után a bíróság a fiatalkorút, kérelemre, mentesítésben részesíti, amennyiben erre érdemes.
 
-(3) A fiatalkorú mentesítését nem akadályozza az, hogy a pénzmellékbüntetés végrehajtása nem fejeződött be, vagy végrehajthatósága nem szűnt meg.
+(3)

@@ -1,6 +1,6 @@
 ## Testi sértés
 
-170. § (1) Aki más testi épségét vagy egészségét sérti, ha a sérülés vagy a betegség nyolc napon belül gyógyul, a könnyű testi sértés vétségét követi el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+170. § (1) Aki más testi épségét vagy egészségét sérti, ha a sérülés vagy a betegség nyolc napon belül gyógyul, a könnyű testi sértés vétségét követi el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha a testi sértéssel okozott sérülés vagy betegség nyolc napon túl gyógyul, az elkövető a súlyos testi sértés bűntettét követi el és három évig terjedő szabadságvesztéssel büntetendő.
 
@@ -12,6 +12,6 @@
 
 (6) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a testi sértés életveszélyt vagy halált okoz.
 
-(7) Aki a súlyos testi sértést gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (4) bekezdésben meghatározott esetben három évig, életveszélyes sérülés okozása esetén öt évig terjedő szabadságvesztéssel büntetendő.
+(7) Aki a súlyos testi sértést gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, a (4) bekezdésben meghatározott esetben három évig, életveszélyes sérülés okozása esetén öt évig terjedő szabadságvesztéssel büntetendő.
 
 (8) Az (1) bekezdésben meghatározott vétség elkövetője csak magánindítványra büntethető.

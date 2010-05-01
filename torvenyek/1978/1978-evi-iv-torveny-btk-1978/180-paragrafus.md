@@ -6,6 +6,6 @@ a) a sértett munkakörének ellátásával, közmegbízatásának teljesítés�
 
 b) nagy nyilvánosság előtt
 
-a becsület csorbítására alkalmas kifejezést használ, vagy egyéb ilyen cselekményt követ el, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+a becsület csorbítására alkalmas kifejezést használ, vagy egyéb ilyen cselekményt követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki a becsületsértést tettlegesen követi el.

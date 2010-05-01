@@ -16,4 +16,4 @@ c) a 233. § (1) bekezdésének b) pontja esetén kívül büntető vagy polgár
 
 (5) A polgári ügyben elkövetett hamis tanúzás büntetése bűntett miatt három évig, ha pedig az ügy tárgya különösen nagy vagyoni érték vagy különösen jelentős egyéb érdek, öt évig terjedő szabadságvesztés.
 
-(6) Aki a hamis tanúzást gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(6) Aki a hamis tanúzást gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.

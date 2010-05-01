@@ -6,7 +6,7 @@ a) gerinces állatot indokolatlanul oly módon bántalmaz, vagy gerinces állatt
 
 b) állattartóként, háziasított emlősállatot vagy az ember környezetében tartott veszélyes állatot elűzi, elhagyja vagy kiteszi,
 
-vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki a vadászatról szóló törvény által tiltott vadászati eszközzel vagy tiltott vadászati módon vadászik, illetőleg a halászatról szóló törvény által tiltott halfogási eszközzel vagy módon halászik vagy horgászik.
 

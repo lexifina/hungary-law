@@ -10,7 +10,7 @@ c) a hamis, a hamisított vagy a jogosulatlanul használt készpénz-helyettesí
 
 és ezzel kárt okoz, készpénz-helyettesítő fizetési eszközzel visszaélést követ el.
 
-(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a készpénz-helyettesítő fizetési eszközzel visszaélés kisebb kárt okoz, vagy a bűncselekményi értékhatárt meg nem haladó kárt okozó készpénz-helyettesítő fizetési eszközzel visszaélést
+(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha a készpénz-helyettesítő fizetési eszközzel visszaélés kisebb kárt okoz, vagy a bűncselekményi értékhatárt meg nem haladó kárt okozó készpénz-helyettesítő fizetési eszközzel visszaélést
 
 a) bűnszövetségben,
 
@@ -56,7 +56,7 @@ a) olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizár
 
 b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz,
 
-vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (8) A (2)–(7) bekezdés szerint büntetendő az is, aki a készpénz-helyettesítő fizetési eszközzel visszaélést valamely gazdálkodó szervezet által kibocsátott olyan kártyára követi el, amely a kibocsátó áruja árának kiegyenlítésére alkalmas.
 

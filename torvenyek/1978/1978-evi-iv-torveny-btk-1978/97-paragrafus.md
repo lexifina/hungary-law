@@ -5,3 +5,5 @@
 (2) A különös és a többszörös visszaesővel szemben a büntetés a 87. § (2) bekezdése alapján csak különös méltánylást érdemlő esetben enyhíthető. Azzal szemben, aki erőszakos többszörös visszaesőnek minősül, a büntetés enyhítésének nincs helye.
 
 (3) Az (1) bekezdésben meghatározott súlyosabb jogkövetkezmények nem alkalmazhatók, ha e törvény Különös Része a különös visszaesőként történő elkövetést a bűncselekmény súlyosabban minősülő eseteként rendeli büntetni.
+
+(4) Az erőszakos többszörös visszaesővel szemben a 38. § (3) bekezdése alkalmazásának nincs helye.

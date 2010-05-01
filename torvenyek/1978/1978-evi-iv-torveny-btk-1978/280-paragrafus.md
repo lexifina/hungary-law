@@ -12,7 +12,7 @@ bűntettet követ el, és az a) pontban meghatározott esetben három évig, a b
 
 (2) Aki személyes használatra szolgáló mennyiséget meghaladó, ózonréteget károsító anyagot vagy ilyen anyagot tartalmazó terméket az ország területére behoz, onnan kivisz, vagy azt forgalomba hozza, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés a) pontja, illetve a (2) bekezdés esetén egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, az (1) bekezdés b) pontja esetén két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, c) pontja esetén három évig terjedő szabadságvesztéssel büntetendő.
+(3) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés a) pontja, illetve a (2) bekezdés esetén egy évig terjedő szabadságvesztéssel, az (1) bekezdés b) pontja esetén két évig terjedő szabadságvesztéssel, c) pontja esetén három évig terjedő szabadságvesztéssel büntetendő.
 
 (4) Az (1) bekezdés a) pontja, valamint a (3) bekezdés első és második fordulata esetén az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az első fokú ítélet meghozataláig a cselekménye által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezetet helyreállítja.
 

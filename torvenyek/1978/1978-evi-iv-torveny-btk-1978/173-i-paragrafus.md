@@ -12,7 +12,7 @@ b) bűnszövetségben
 
 követik el.
 
-(4) Aki az emberi test tiltott felhasználására irányuló előkészületet követ el, vétség miatt az (1) bekezdés esetén egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdés esetén két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(4) Aki az emberi test tiltott felhasználására irányuló előkészületet követ el, vétség miatt az (1) bekezdés esetén egy évig terjedő szabadságvesztéssel, a (2) bekezdés esetén két évig terjedő szabadságvesztéssel büntetendő.
 
 III. CÍM
 

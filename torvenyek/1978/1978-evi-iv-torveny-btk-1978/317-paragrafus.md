@@ -2,7 +2,7 @@
 
 317. § (1) Aki a rábízott idegen dolgot jogtalanul eltulajdonítja, vagy azzal sajátjaként rendelkezik, sikkasztást követ el.
 
-(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a sikkasztást kisebb értékre vagy a szabálysértési értékre elkövetett sikkasztást
+(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha a sikkasztást kisebb értékre vagy a szabálysértési értékre elkövetett sikkasztást
 
 a) bűnszövetségben,
 

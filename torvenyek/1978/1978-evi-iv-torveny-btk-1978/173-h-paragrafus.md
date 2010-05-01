@@ -12,6 +12,6 @@ a jogosult beleegyezése, illetőleg hozzájárulása nélkül végez, vagy a jo
 
 (2) Az (1) bekezdés szerint büntetendő, aki tiltakozó nyilatkozat ellenére halottból szervet, illetőleg szövetet távolít el.
 
-(3) Aki a beleegyezéshez, illetőleg hozzájáruláshoz kötött, az (1) bekezdés szerinti egészségügyi beavatkozást, orvostudományi kutatást, szerv- vagy szövetkivételt, illetőleg szerv- vagy szövetátültetést gondatlanságból a jogosult beleegyezése, illetőleg hozzájárulása nélkül végez, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(3) Aki a beleegyezéshez, illetőleg hozzájáruláshoz kötött, az (1) bekezdés szerinti egészségügyi beavatkozást, orvostudományi kutatást, szerv- vagy szövetkivételt, illetőleg szerv- vagy szövetátültetést gondatlanságból a jogosult beleegyezése, illetőleg hozzájárulása nélkül végez, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (4) Az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője magánindítványra büntethető, kivéve, ha azzal összefüggően nem magánindítványra büntetendő bűncselekményt is elkövet. A (2) bekezdés esetén a magánindítványt az egészségügyről szóló törvényben meghatározott, nyilatkozatra jogosult személy terjesztheti elő.

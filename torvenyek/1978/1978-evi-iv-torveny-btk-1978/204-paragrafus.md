@@ -10,7 +10,7 @@
 
 (5) Két évtől nyolc évig terjedő szabadságvesztéssel büntetendő, aki a (3)–(4) bekezdésben írt bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
 
-(6) Aki tizennyolcadik életévét be nem töltött személyt, vagy személyeket pornográf felvételen, avagy pornográf jellegű műsorban való szereplésre felhív, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(6) Aki tizennyolcadik életévét be nem töltött személyt, vagy személyeket pornográf felvételen, avagy pornográf jellegű műsorban való szereplésre felhív, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (7) E § alkalmazásában
 

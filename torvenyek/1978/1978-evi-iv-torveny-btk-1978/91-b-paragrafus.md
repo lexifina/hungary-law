@@ -1,0 +1,1 @@
+91/B. § A büntetés végrehajtásának kegyelemből történt felfüggesztése esetén a végrehajtás elrendelésére a felfüggesztett büntetés végrehajtására vonatkozó rendelkezést [91/A. §] megfelelően alkalmazni kell.

@@ -1,1 +1,9 @@
-91/A. § A büntetés végrehajtásának kegyelemből történt felfüggesztése esetén a végrehajtás elrendelésére a felfüggesztett büntetés végrehajtására vonatkozó rendelkezést [91. § (1) bek. b) és c) pontja és (3) bek.] megfelelően alkalmazni kell.
+91/A. § A felfüggesztett szabadságvesztést végre kell hajtani, ha
+
+a) a próbaidő alatt megállapítják, hogy a szabadságvesztés végrehajtását a 91. § (1) bekezdésében foglalt kizáró ok ellenére függesztették fel,
+
+b) az elkövetőt a szabadságvesztés végrehajtandó része alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik,
+
+c) az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik,
+
+d) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi.

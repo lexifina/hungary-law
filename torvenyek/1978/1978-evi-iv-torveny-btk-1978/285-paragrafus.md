@@ -1,6 +1,6 @@
 ## Kuruzslás
 
-285. § (1) Aki jogosulatlanul, ellenszolgáltatásért vagy rendszeresen az orvosi gyakorlat körébe tartozó tevékenységet fejt ki, vétséget követ el és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+285. § (1) Aki jogosulatlanul, ellenszolgáltatásért vagy rendszeresen az orvosi gyakorlat körébe tartozó tevékenységet fejt ki, vétséget követ el és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a kuruzslást az orvosi gyakorlatra jogosultság színlelésével követik el.
 

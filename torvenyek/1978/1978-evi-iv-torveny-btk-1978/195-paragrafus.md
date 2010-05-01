@@ -6,6 +6,6 @@
 
 (3) Bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő az a nagykorú személy, aki a kiskorúval kényszermunkát végeztet.
 
-(4) Aki a bírósági vagy hatósági határozat alapján nála elhelyezett kiskorú és a kiskorúval kapcsolattartásra jogosult személy közötti kapcsolat kialakítását vagy fenntartását a kapcsolattartás kikényszerítése érdekében alkalmazott bírság kiszabását követően is akadályozza, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(4) Aki a bírósági vagy hatósági határozat alapján nála elhelyezett kiskorú és a kiskorúval kapcsolattartásra jogosult személy közötti kapcsolat kialakítását vagy fenntartását a kapcsolattartás kikényszerítése érdekében alkalmazott bírság kiszabását követően is akadályozza, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (5) Az (1) bekezdés alkalmazásában a kiskorú gondozására, nevelésére vagy felügyeletére köteles személynek kell tekinteni a szülői felügyeletet gyakorló szülő, illetve gyám élettársát, továbbá a szülői felügyeleti jogától megfosztott szülőt, ha a kiskorúval közös háztartásban vagy egy lakásban él.

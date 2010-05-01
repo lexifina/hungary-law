@@ -1,6 +1,6 @@
 ## Foglalkozás körében elkövetett veszélyeztetés
 
-171. § (1) Aki foglalkozása szabályainak megszegésével más vagy mások életét, testi épségét vagy egészségét gondatlanságból közvetlen veszélynek teszi ki, vagy testi sértést okoz, vétséget követ el és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+171. § (1) Aki foglalkozása szabályainak megszegésével más vagy mások életét, testi épségét vagy egészségét gondatlanságból közvetlen veszélynek teszi ki, vagy testi sértést okoz, vétséget követ el és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés
 

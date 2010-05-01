@@ -30,7 +30,7 @@ a) az (1) bekezdés a) és b) pontjában meghatározott természetkárosítás a
 
 b) a (2) bekezdésben meghatározott természetkárosítás az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló jogszabály szerinti különleges madárvédelmi terület, különleges természetmegőrzési terület, vagy annak jelölt terület, illetve kiemelt jelentőségű természetmegőrzési terület, vagy annak jelölt terület, védett természeti terület, barlang, illetve élő szervezetek életközössége vagy azok élőhelye jelentős károsodását vagy megsemmisülését okozza.
 
-(4) Aki a (3) bekezdésben meghatározott természetkárosítást gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(4) Aki a (3) bekezdésben meghatározott természetkárosítást gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (5) E § alkalmazásában élő szervezet egyede:
 

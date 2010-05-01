@@ -14,4 +14,4 @@ követik el.
 
 (3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a magzatelhajtás halált okoz.
 
-(4) Az a nő, aki magzatát elhajtja vagy elhajtatja, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(4) Az a nő, aki magzatát elhajtja vagy elhajtatja, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.

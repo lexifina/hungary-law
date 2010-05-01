@@ -1,6 +1,6 @@
 ## Jövedéki orgazdaság
 
-311/A. § (1) Aki vagyoni haszonszerzés céljából más által jövedéki adózás alól elvont terméket megszerez, tart, felhasznál, forgalomba hoz vagy azzal kereskedik, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+311/A. § (1) Aki vagyoni haszonszerzés céljából más által jövedéki adózás alól elvont terméket megszerez, tart, felhasznál, forgalomba hoz vagy azzal kereskedik, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 

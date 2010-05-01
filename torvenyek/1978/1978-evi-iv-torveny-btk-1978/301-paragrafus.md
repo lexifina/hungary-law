@@ -1,6 +1,6 @@
 ## Árdrágítás
 
-301. § (1) Aki áruért a hatósági árnál vagy a reá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+301. § (1) Aki áruért a hatósági árnál vagy a reá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha az árdrágítást
 

@@ -6,4 +6,4 @@ a) a gazdálkodó szervezet vagyoni helyzetéről vagy vezető állású személ
 
 b) pénzügyi eszközre vonatkozó színlelt ügylet kötésével
 
-a gazdálkodó szervezet tagját vagy tagjait megtéveszti, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+a gazdálkodó szervezet tagját vagy tagjait megtéveszti, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.

@@ -2,7 +2,7 @@
 
 319. § (1) Akit idegen vagyon kezelésével bíztak meg, és ebből folyó kötelességének megszegésével vagyoni hátrányt okoz, hűtlen kezelést követ el.
 
-(2) A büntetés vétség miatt egy évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a hűtlen kezelés kisebb vagyoni hátrányt okoz.
+(2) A büntetés vétség miatt egy évig terjedő szabadságvesztés, ha a hűtlen kezelés kisebb vagyoni hátrányt okoz.
 
 (3) A büntetés bűntett miatt
 

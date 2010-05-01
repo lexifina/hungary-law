@@ -2,7 +2,7 @@
 
 324. § (1) Aki idegen vagyontárgy megsemmisítésével vagy megrongálásával kárt okoz, rongálást követ el.
 
-(2) A büntetés vétség miatt egy évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha
+(2) A büntetés vétség miatt egy évig terjedő szabadságvesztés, ha
 
 a) a rongálás kisebb kárt okoz,
 

@@ -1,1 +1,1 @@
-234. § Aki mást hatóság előtt bűncselekmény elkövetésével azért vádol hamisan, mert gondatlanságból nem tud arról, hogy tényállítása valótlan vagy a bizonyíték hamis, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+234. § Aki mást hatóság előtt bűncselekmény elkövetésével azért vádol hamisan, mert gondatlanságból nem tud arról, hogy tényállítása valótlan vagy a bizonyíték hamis, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.

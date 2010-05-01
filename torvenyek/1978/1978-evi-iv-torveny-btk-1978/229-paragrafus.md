@@ -10,7 +10,7 @@
 
 (5) Aki a hivatalos személyt vagy a külföldi hivatalos személyt az eljárása miatt bántalmazza, az (1)–(4) bekezdés szerint büntetendő akkor is, ha a bántalmazott a bűncselekmény elkövetésekor már nem hivatalos személy, vagy nem külföldi hivatalos személy.
 
-(6) Aki hivatalos személy elleni erőszakra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(6) Aki hivatalos személy elleni erőszakra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (7) Nem büntethető a (4) bekezdés alapján a csoport résztvevője, ha a csoportot önként vagy a hatóság felhívására elhagyja.
 

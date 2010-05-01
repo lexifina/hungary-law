@@ -2,7 +2,7 @@
 
 318. § (1) Aki jogtalan haszonszerzés végett mást tévedésbe ejt, vagy tévedésben tart és ezzel kárt okoz, csalást követ el.
 
-(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a csalás kisebb kárt okoz, vagy a szabálysértési értékhatárt meg nem haladó kárt okozó csalást
+(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha a csalás kisebb kárt okoz, vagy a szabálysértési értékhatárt meg nem haladó kárt okozó csalást
 
 a) bűnszövetségben,
 

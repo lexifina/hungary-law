@@ -1,6 +1,6 @@
 ## Tartás elmulasztása
 
-196. § (1) Aki jogszabályon alapuló és végrehajtható hatósági határozatban előírt tartási kötelezettségét önhibájából nem teljesíti, vétséget követ el és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+196. § (1) Aki jogszabályon alapuló és végrehajtható hatósági határozatban előírt tartási kötelezettségét önhibájából nem teljesíti, vétséget követ el és két évig terjedő szabadságvesztéssel büntetendő.
 
 (2)
 

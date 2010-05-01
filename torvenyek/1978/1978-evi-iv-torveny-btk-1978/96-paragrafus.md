@@ -1,3 +1,3 @@
-96. § (1) Mellékbüntetések nem foglalhatók összbüntetésbe, úgyszintén a pénzmellékbüntetés helyébe lépő szabadságvesztés sem.
+96. § (1) Ha a foglalkozástól eltiltást, járművezetéstől eltiltást vagy kiutasítást szabadságvesztés mellett szabták ki, és a szabadságvesztés büntetéseket összbüntetésbe foglalták, akkor több, azonos tartalmú foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás közül azt kell végrehajtani, amelyik az elítéltre hátrányosabb.
 
-(2) Azonos tartalmú mellékbüntetések közül – a pénzmellékbüntetés kivételével – azt kell végrehajtani, amelyik az elítéltre hátrányosabb. Ez irányadó a főbüntetés helyett alkalmazott mellékbüntetésre is.
+(2) Mellékbüntetések nem foglalhatók összbüntetésbe. Azonos tartalmú mellékbüntetések közül azt kell végrehajtani, amelyik az elítéltre hátrányosabb.

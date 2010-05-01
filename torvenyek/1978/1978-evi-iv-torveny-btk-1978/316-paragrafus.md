@@ -6,7 +6,7 @@
 
 316. § (1) Aki idegen dolgot mástól azért vesz el, hogy azt jogtalanul eltulajdonítsa, lopást követ el.
 
-(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a lopást kisebb értékre, vagy a szabálysértési értékre elkövetett lopást
+(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha a lopást kisebb értékre, vagy a szabálysértési értékre elkövetett lopást
 
 a) bűnszövetségben,
 

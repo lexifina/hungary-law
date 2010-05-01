@@ -1,13 +1,5 @@
-## A pénzmellékbüntetés
+## A kitiltás
 
-## [A kitiltás]
+64. § (1) A törvényben meghatározott esetekben azt, akit szabadságvesztésre ítélnek egy vagy több helységből vagy az ország meghatározott részéből ki lehet tiltani, ha e helyeken tartózkodása a közérdeket veszélyezteti.
 
-64. § (1) Akit határozott tartamú szabadságvesztésre ítélnek, és megfelelő keresete (jövedelme) vagy vagyona van
-
-a) pénzmellékbüntetésre kell ítélni, ha a bűncselekményt haszonszerzés céljából követi el,
-
-b) pénzmellékbüntetésre lehet ítélni, ha ezzel újabb bűncselekmény elkövetésétől hatásosabban lehet visszatartani.
-
-(2) A pénzmellékbüntetés legalacsonyabb összege tízezer forint, legmagasabb összege tízmillió forint.
-
-(3)
+(2) A kitiltás legrövidebb tartama egy év, leghosszabb tartama öt év. A foglalkozástól eltiltás tartamának számítására vonatkozó rendelkezést [57. § (2) bekezdés] a kitiltás esetében megfelelően alkalmazni kell.

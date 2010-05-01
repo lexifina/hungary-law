@@ -10,7 +10,7 @@ bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetend
 
 (2) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt a hulladékgazdálkodásról szóló törvény szerinti veszélyes hulladékra követik el.
 
-(3) Aki a bűncselekményt gondatlanságból követi el, vétség miatt az (1) bekezdés esetén egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdés esetén két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+(3) Aki a bűncselekményt gondatlanságból követi el, vétség miatt az (1) bekezdés esetén egy évig terjedő szabadságvesztéssel, a (2) bekezdés esetén két évig terjedő szabadságvesztéssel büntetendő.
 
 (4) E § alkalmazásában
 

@@ -8,7 +8,7 @@ b)
 
 c) az áru minőségének megrontásával
 
-a vásárlókat megkárosító tevékenységet folytat, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+a vásárlókat megkárosító tevékenységet folytat, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő az is, aki az ott felsorolt cselekményeket gazdasági jellegű szolgáltatás során a megrendelők sérelmére követi el.
 
