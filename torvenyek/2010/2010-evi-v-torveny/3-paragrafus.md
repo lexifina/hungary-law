@@ -1,0 +1,3 @@
+3. § Az Szjtv. 9. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az engedély kizárólag az abban foglalt, illetőleg az engedélyben meghatározott tagokból álló szerencsejáték szervezőre, az ott meghatározott időtartamra, az abban foglalt feltételekkel és jóváhagyott játéktervre, a játékkaszinó, játékterem, kártyaterem és bingójáték esetén – a 27. § (3) bekezdés figyelembevételével – az engedélyben meghatározott épületre, vagy helyiségre vonatkozik. Az engedély másra át nem ruházható. A játéktervtől csak az állami adóhatóság engedélyével lehet eltérni. Az eltérés a játékosok érdekeit vagy mások jóhiszeműen szerzett jogait nem sértheti.”
