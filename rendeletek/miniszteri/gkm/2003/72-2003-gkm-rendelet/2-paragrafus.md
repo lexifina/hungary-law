@@ -16,9 +16,9 @@ a) az Országos Munkabiztonsági és Munkaügyi Főfelügyelőség egy fő,
 
 b) a Magyar Kereskedelmi Engedélyezési Hivatal egy fő,
 
-c) a Magyar Villamos Művek Részvénytársaság egy fő,
+c)[^2] a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság egy fő,
 
-d) a Magyar Elektrotechnikai Egyesület egy fő,
+d)[^3] a Magyar Elektrotechnikai Egyesület négy fő,
 
 e) az Áramszolgáltatók Egyesülése egy fő.
 
@@ -27,3 +27,5 @@ Az öt bizottsági tagot a Gazdasági és Közlekedési Minisztérium bízza meg
 (4) A FAM Bizottság tagjai közül megválasztja elnökét és jóváhagyja működési szabályzatát. A FAM Bizottság ülésein a Gazdasági és Közlekedési Minisztérium képviselője tanácskozási joggal vesz részt.
 
 [^1]: A 2. § (3) bekezdése a 127/2005. (XII. 29.) GKM rendelet 19. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdés c) pontja a 16/2010. (IV. 28.) NFGM rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdés d) pontja a 16/2010. (IV. 28.) NFGM rendelet 15. § (2) bekezdése szerint módosított szöveg.
