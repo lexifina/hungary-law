@@ -1,4 +1,4 @@
-## 8. §[^7] A védetté nyilvánítási eljárásban e rendelet mellékletében felsorolt közgyűjtemények és intézmények szakértőként működnek közre. Azoknál a kulturális javaknál, amelyek a felsorolt közgyűjtemények egyikének gyűjtőkörébe sem tartoznak, a Hivatal szükség esetén szakértő bevonásával dönt a védettségről.
+## 8. §[^8] A védetté nyilvánítási eljárásban e rendelet mellékletében felsorolt közgyűjtemények és intézmények szakértőként működnek közre. Azoknál a kulturális javaknál, amelyek a felsorolt közgyűjtemények egyikének gyűjtőkörébe sem tartoznak, a Hivatal szükség esetén szakértő bevonásával dönt a védettségről.
 
 ## 9. § Az ingó örökségi elemek védetté nyilvánításával kapcsolatos szakvélemény tartalmazza
 
@@ -10,4 +10,4 @@ c) indokolással ellátott javaslatot az ingó örökségi elem védetté nyilv�
 
 d) védetté nyilvánításra irányuló javaslat esetén az ingó örökségi elem őrzésére, kezelésére és bírságolási kategória szerinti besorolására vonatkozó javaslatot.
 
-[^7]: A 8. § a 8/2006. (III. 21.) NKÖM rendelet 2. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.
+[^8]: A 8. § a 8/2006. (III. 21.) NKÖM rendelet 2. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.

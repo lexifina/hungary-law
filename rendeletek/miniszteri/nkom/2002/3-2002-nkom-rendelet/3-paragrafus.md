@@ -18,9 +18,9 @@ f) a fenntartható használat főbb szempontjait.
 
 (2) A Hivatal a védetté nyilvánítás előkészítése során
 
-a) szakértők – régészeti örökség esetén elsősorban a területileg illetékes múzeum – közreműködését veheti igénybe, akik szolgáltatják a hiányzó adatokat,
+a)[^3] az adott kérdésben szakértelemmel rendelkező személyek – régészeti örökség esetén elsősorban a területileg illetékes múzeum – közreműködését veheti igénybe, akik szolgáltatják a hiányzó adatokat,
 
-b)[^3] szükség esetén egyeztető tárgyalást tart.
+b)[^4] szükség esetén egyeztető tárgyalást tart.
 
 (3) A Hivatal
 
@@ -28,8 +28,9 @@ a) előterjesztést készít az örökségi ingatlan elem védetté nyilvánít�
 
 b) határozatával az örökségi ingatlan elemet ideiglenesen védetté nyilvánítja vagy – műemléki érték esetén – elővédelmi listára veszi, és erről a területileg illetékes múzeumot is értesíti.
 
-(4)[^4] A védetté nyilvánítás előkészítése során észrevételt tehetnek mindazok, akik a védetté nyilvánítási eljárás megindításáról értesültek, valamint akiknek az adott ingatlanra vonatkozó jogát a védelem érinti.
+(4)[^5] A védetté nyilvánítás előkészítése során észrevételt tehetnek mindazok, akik a védetté nyilvánítási eljárás megindításáról értesültek, valamint akiknek az adott ingatlanra vonatkozó jogát a védelem érinti.
 
 [^2]: A 3. § (1) bekezdésének b) pontja a 8/2006. (III. 21.) NKÖM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.
-[^3]: A 3. § (2) bekezdésének b) pontja a 8/2006. (III. 21.) NKÖM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.
-[^4]: A 3. § (4) bekezdése a 8/2006. (III. 21.) NKÖM rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.
+[^3]: A 3. § (2) bekezdés a) pontja a 19/2010. (IV. 23.) OKM rendelet 6. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 3. § (2) bekezdésének b) pontja a 8/2006. (III. 21.) NKÖM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.
+[^5]: A 3. § (4) bekezdése a 8/2006. (III. 21.) NKÖM rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2006. március 29. napja után indított eljárásokban kell alkalmazni.

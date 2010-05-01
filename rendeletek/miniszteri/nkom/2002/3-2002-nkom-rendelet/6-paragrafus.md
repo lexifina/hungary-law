@@ -20,8 +20,8 @@ c) az örökségi ingó elemek olyan köre, amely egy-egy kulturális területne
 
 d) azon örökségi ingó elemek, melyek jelentőségét egy meghatározott környezethez fűződő kapcsolatuk adja (pl. műemlékek ingó tartozékai, természettudományi anyag),
 
-e)[^6] azok a nem könyvtárban őrzött kulturális javak, amelyek könyvtárban muzeális dokumentumnak minősülhetnek és a magyarországi könyvtárakban a fennmaradáshoz szükséges legfeljebb három példányban találhatók meg.
+e)[^7] azok a nem könyvtárban őrzött kulturális javak, amelyek könyvtárban muzeális dokumentumnak minősülhetnek és a magyarországi könyvtárakban a fennmaradáshoz szükséges legfeljebb három példányban találhatók meg.
 
 f) a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 33. §-a szerinti maradandó értékű iratok, irategyüttesek.
 
-[^6]: A 6. § (2) bekezdésének e) pontja a 22/2005. (VII. 18.) NKÖM rendelet 8. §-ának (4) bekezdésével megállapított szöveg.
+[^7]: A 6. § (2) bekezdésének e) pontja a 22/2005. (VII. 18.) NKÖM rendelet 8. §-ának (4) bekezdésével megállapított szöveg.
