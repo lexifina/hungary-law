@@ -22,7 +22,7 @@ b) a támogatásértékű bevétel, amely az elkülönített állami pénzalapb�
 
 c) a közszolgáltatási és vállalkozási bevétel, amely a költségvetési szerv alap-, kiegészítő és kisegítő közszolgáltató tevékenysége, valamint vállalkozási tevékenysége során az a), b) és d) pontban meg nem jelölt jogcímen keletkező működési és felhalmozási célú bevételből,
 
-d) a közhatalmi bevétel, amely az igazgatási szolgáltatási díjnak, a felügyeleti díjnak, a pénzbüntetésnek, a pénzmellékbüntetésnek, továbbá a bírságbevételnek a fizetési kötelezettséget előíró jogszabályban meghatározott mértékéből,
+d) a közhatalmi bevétel, amely az igazgatási szolgáltatási díjnak, a felügyeleti díjnak, a pénzbüntetésnek, továbbá a bírságbevételnek a fizetési kötelezettséget előíró jogszabályban meghatározott mértékéből,
 
 e) az átvett pénzeszköz, amely a c)–d) pontba nem tartozó jogcímen államháztartáson kívülről,
 
