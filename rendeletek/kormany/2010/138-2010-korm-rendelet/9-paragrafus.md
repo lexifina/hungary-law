@@ -1,0 +1,3 @@
+## 8. § Az R. 8. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) Ha az ügyfél vagy az adatszolgáltatásra kötelezett a pénzügyi lebonyolítás során a támogatás folyósításához szükséges adatokat nem bocsátja az MVH rendelkezésére, az adat pótlására vonatkozó felszólítás kézhezvételét követő egy év elteltével elveszíti a támogatás folyósítására vonatkozó jogosultságát. Ha az ügyfél a támogatás folyósításáról lemond, akkor az erről szóló nyilatkozat MVH-hoz történő beérkezését követő napjától a lemondással érintett műveletre vonatkozóan támogatás a részére nem folyósítható. A nem folyósított összeget az MVH a kötelezettségek közül a könyveiből kivezeti.”

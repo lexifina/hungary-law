@@ -1,0 +1,1 @@
+## „u) Támogatásra jogosult költség: az ügyfél által az alapokból finanszírozott műveletek végrehajtása érdekében kifizetett kiadások, költségek, amelyek az alapok végrehajtását szabályozó közösségi, nemzeti jogszabályokban vagy programokban támogatásra jogosultként kerültek meghatározásra.”

@@ -1,0 +1,3 @@
+## 15. § Az R. 26. §-a a következő (1) bekezdéssel egészül ki:
+
+## „(1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, valamint az Európai Mezőgazdasági Garancia Alapból támogatott programok és intézkedések pénzügyi, számviteli és ellenőrzési rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.) Korm. rendelet módosításáról szóló 138/2010. (IV. 28.) Korm. rendelettel (a továbbiakban: 1. módosító rendelet) megállapított rendelkezéseit az 1. módosító rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
