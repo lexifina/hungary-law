@@ -1,6 +1,6 @@
 ## Egyéb rendelkezések
 
-21. § (1)[^74] A Mehib Rt. által az Állam készfizető kezessége mellett vállalt biztosítások általános szerződéses feltételeit a pénzügyminiszter hagyja jóvá.
+21. § (1)[^74] A Mehib Rt. által az Állam készfizető kezessége mellett vállalt biztosítások általános szerződéses feltételeit a Mehib Rt. Igazgatósága hagyja jóvá.
 
 (2) A Mehib Rt. csak azokat a bankgaranciákat biztosíthatja, amelynek esetleges beváltásából fakadó fizetési kötelezettségekért a központi költségvetés nem felel.
 
@@ -18,7 +18,7 @@
 
 (9)[^79] A Biztosító 2010. december 31-ig a 4. melléklet szerinti védzáradék igénybevételére vonatkozó eljárásnál az alkalmazást a fedezet hiányára kiadott egyetlen, jól ismert, nemzetközi magántulajdonú exporthitel biztosító és egy nemzeti hitelbiztosító által kiadott igazolással vagy legalább négy elismert exportőr által kiadott arra vonatkozó igazolással is igazolhatja, hogy meghatározott műveletek esetében a magánbiztosítók megtagadták a fedezetet.
 
-[^74]: A 21. § (1) bekezdése a 48/2003. (IV. 3.) Korm. rendelet 10. §-ával megállapított, az 50/2010. (III. 9.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^74]: A 21. § (1) bekezdése a 48/2003. (IV. 3.) Korm. rendelet 10. §-ával megállapított, az 50/2010. (III. 9.) Korm. rendelet 20. § (1) és (2) bekezdése szerint módosított szöveg.
 [^75]: A 21. § (3) bekezdése a 303/2005. (XII. 25.) Korm. rendelet 16. §-a, az 50/2010. (III. 9.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
 [^76]: A 21. § (5) bekezdése e rendelet 22. §-ának (5) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lépett hatályba. A 21. § (5) bekezdésének második mondatát a 303/2005. (XII. 25.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^77]: A 21. § (6) bekezdése az 50/2010. (III. 9.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
