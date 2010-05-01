@@ -22,7 +22,11 @@ A berendezéseket, védelmi rendszereket egyedi robbanásveszélyes környezetre
 
 g)[^4] rendeltetésszerű használat: a berendezés, védelmi rendszer és az 1. § (2) bekezdése szerinti eszköz alkalmazási csoportjának, kategóriájának megfelelően, a gyártó által javasolt alkalmazás, amely a berendezés biztonságos használatához szükséges;
 
-h) honosított harmonizált európai szabvány: az európai szabványügyi szervezetek által jóváhagyott és az Európai Közösségek Hivatalos Lapjában közzétett szabvány, amelyet a magyar eljárási rendnek megfelelően honosítottak, és nemzeti szabványként közzétettek.
+h)[^5] bejelentett szervezet: a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 2. § a) pontjában meghatározott szervezet;
+
+i)[^6] honosított harmonizált szabvány: a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet 1. § b) pontjában meghatározott szabvány.
 
 [^3]: A 3. § c) pontja a 31/2003. (V. 16.) GKM rendelet 2. §-ával megállapított szöveg.
 [^4]: A 3. § g) pontja a 49/2004. (IV. 22.) GKM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § h) pontja a 16/2010. (IV. 28.) NFGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § i) pontját a 16/2010. (IV. 28.) NFGM rendelet 12. § (2) bekezdése iktatta be.

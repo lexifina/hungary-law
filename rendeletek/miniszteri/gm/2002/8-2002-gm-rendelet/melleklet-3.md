@@ -82,7 +82,7 @@
 
 ## – szükség esetén a berendezéshez vagy védelmi rendszerhez illeszthető eszközök alapvető jellegzetességeit.
 
-## b)[^28] A gépkönyvet a gyártónak vagy Európai Közösségben letelepedett meghatalmazott képviselőjének magyar nyelven kell elkészítenie.
+## b)[^32] A gépkönyvet a gyártónak vagy Európai Közösségben letelepedett meghatalmazott képviselőjének magyar nyelven kell elkészítenie.
 
 ## Üzembe helyezéskor minden berendezéshez és védelmi rendszerhez mellékelni kell a gépkönyv fordítását azon ország nyelvére vagy nyelveire, ahol a berendezést vagy védelmi rendszert használni fogják, valamint az eredeti nyelvű gépkönyvet.
 
@@ -128,7 +128,7 @@
 
 ## Ha a berendezések és védelmi rendszerek magának a robbanásvédelemnek a részét képező házban vagy zárt tokozásban helyezkednek el, ez utóbbiak csak speciális szerszám segítségével, vagy a megfelelő védelmi intézkedések megtétele után lehessenek nyithatók.
 
-## 1.2.7.[^29] Egyéb veszélyekkel szembeni védelem
+## 1.2.7.[^33] Egyéb veszélyekkel szembeni védelem
 
 ## Külön jogszabály eltérő rendelkezésének hiányában a berendezéseket és védelmi rendszereket oly módon kell tervezni és legyártani, hogy
 
@@ -376,5 +376,5 @@
 
 3. számú melléklet a 8/2002. (II. 16.) GM rendelethez
 
-[^28]: A 2. számú melléklet 1.0.6. pontjának b) alpontja a 49/2004. (IV. 22.) GKM rendelet 11. § (2) bekezdésének g) pontja szerint módosított szöveg.
-[^29]: A 2. számú melléklet 1.2.7. pontja a 31/2003. (V. 16.) GKM rendelet 7. §-ával megállapított szöveg.
+[^32]: A 2. számú melléklet 1.0.6. pontjának b) alpontja a 49/2004. (IV. 22.) GKM rendelet 11. § (2) bekezdésének g) pontja szerint módosított szöveg.
+[^33]: A 2. számú melléklet 1.2.7. pontja a 31/2003. (V. 16.) GKM rendelet 7. §-ával megállapított szöveg.
