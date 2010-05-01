@@ -60,11 +60,31 @@
 
 ## Az ilyen éghető anyagok nem jelenthetnek gyulladási veszélyt a játékban alkalmazott más anyagok számára.
 
-## b) Az a játék, amely a működéséhez veszélyes anyagokat vagy készítményeket tartalmaz – különösen a kémiai kísérletekhez, modellépítéshez, műanyagból vagy kerámiából való formázáshoz, zománcozáshoz, fényképészeti vagy hasonló munkákhoz –, nem tartalmazhat olyan anyagot és készítményt, amely gyúlékonnyá válhat a nem éghető illó komponensek kiválása miatt.
+## b)[^41] Az a játék, amely a működéséhez veszélyes anyagokat vagy keverékeket tartalmaz – különösen a kémiai kísérletekhez, modellépítéshez, műanyagból vagy kerámiából való formázáshoz, zománcozáshoz, fényképészeti vagy hasonló munkákhoz –, nem tartalmazhat olyan anyagot és keveréket, amely gyúlékonnyá válhat a nem éghető illó komponensek kiválása miatt.
+
+## [b)[^42] A játékok nem tartalmazhatnak nem gyúlékony komponenseik elpárolgása miatt gyúlékonnyá váló anyagokat vagy keverékeket, amennyiben az ilyen játékok működéséhez – különösen kémiai kísérletekhez, modellezéshez, műanyag- vagy agyagformázáshoz, zománcozáshoz, fényképezéshez vagy hasonló tevékenységekhez szükséges anyagok és felszerelések esetén – elengedhetetlen, hogy a 67/548/EGK irányelvben veszélyesként meghatározott keverékeket vagy az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet I. mellékletében meghatározott, alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagokat tartalmazzanak:
+
+## ba) a 2.1–2.4., 2.6. és 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., 2.10., 2.12., és 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája és a 2.15. veszélyességi osztály A–F. típusa;
+
+## bb) a 3.1–3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály;
+
+## bc) a 4.1. veszélyességi osztály;
+
+## bd) az 5.1. veszélyességi osztály.]
+
+## [b)[^43] A játékok nem tartalmazhatnak nem gyúlékony komponenseik elpárolgása miatt gyúlékonnyá váló anyagokat vagy keverékeket, amennyiben az ilyen játékok működéséhez – különösen kémiai kísérletekhez, modellezéshez, műanyag- vagy agyagformázáshoz, zománcozáshoz, fényképezéshez vagy hasonló tevékenységekhez szükséges anyagok és felszerelések esetén – elengedhetetlen, hogy az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet I. mellékletében meghatározott, alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagokat vagy keverékeket tartalmazzanak:
+
+## ba) a 2.1–2.4., 2.6. és 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., 2.10., 2.12., és 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája, és a 2.15. veszélyességi osztály A–F. típusa;
+
+## bb) a 3.1–3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály;
+
+## bc) a 4.1. veszélyességi osztály;
+
+## bd) az 5.1. veszélyességi osztály.]
 
 ## c) A játék nem lehet robbanásveszélyes, illetve nem tartalmazhat robbanásveszélyes elemet vagy anyagot a 2. § (1) bekezdésében meghatározott módon történő használat esetén.
 
-## d) A játék, különösen a kémiai játék, nem tartalmazhat olyan anyagokat vagy készítményeket,
+## d)[^44] A játék, különösen a kémiai játék, nem tartalmazhat olyan anyagokat vagy keverékeket,
 
 ## da) amelyek összekeveréskor felrobbanhatnak vegyi reakció vagy felmelegedés útján, vagy oxidáló anyagokkal való keveredéskor,
 
@@ -90,11 +110,43 @@
 
 ## A műanyag gyermekjátéknak eleget kell tennie a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet 1-2-82/711. előírásának.
 
-## c) A játék nem tartalmazhat az egyes veszélyes anyagokkal, illetve veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló 41/2000. (XII. 20.) EüM–KöM együttes rendelet szerinti veszélyes anyagokat vagy készítményeket olyan mennyiségben, amely veszélyeztetheti a játékot használó gyermek egészségét.
+## 3.1.[^45] A játék nem tartalmazhat az egyes veszélyes anyagokkal, illetve veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló 41/2000. (XII. 20.) EüM–KöM együttes rendelet szerinti veszélyes anyagokat vagy keverékeket olyan mennyiségben, amely veszélyeztetheti a játékot használó gyermek egészségét.
 
-## Kifejezetten tilos játékban veszélyes anyagokat vagy készítményeket alkalmazni.
+## 3.2.[^46] Kifejezetten tilos játékban veszélyes anyagokat vagy keverékeket alkalmazni.
 
-## Ha azonban bizonyos játék rendeltetéséhez korlátozott mennyiségű ilyen anyag vagy készítmény elengedhetetlenül szükséges – különösen a kémiai kísérletekhez, modellépítéshez, hőre lágyuló anyagból vagy kerámiából való formázáshoz, zománcozáshoz, fényképészeti vagy hasonló tevékenységhez szükséges anyagok és felszerelési tárgyak esetén – akkor ezek használata megengedhető, ha azt a maximális mennyiséget nem lépi túl, amelyet minden anyagra vagy készítményre a vonatkozó előírások megadnak, feltéve, hogy az engedélyezett anyagok és készítmények megfelelnek a 4. számú melléklet 4. pontjában foglaltakon túl az osztályozásra és megjelölésre vonatkozó előírásoknak is.
+## 3.3.[^47] Ha azonban bizonyos játék rendeltetéséhez korlátozott mennyiségű ilyen anyag vagy keverék elengedhetetlenül szükséges – különösen a kémiai kísérletekhez, modellépítéshez, hőre lágyuló anyagból vagy kerámiából való formázáshoz, zománcozáshoz, fényképészeti vagy hasonló tevékenységhez szükséges anyagok és felszerelési tárgyak esetén –, akkor ezek használata megengedhető, ha azt a maximális mennyiséget nem lépi túl, amelyet minden anyagra vagy keverékre a vonatkozó előírások megadnak, feltéve, hogy az engedélyezett anyagok és keverékek megfelelnek a 4. számú melléklet 4. pontjában foglaltakon túl az osztályozásra és megjelölésre vonatkozó előírásoknak is.
+
+## [3.1.[^48] A játékok nem tartalmazhatnak a tagállamoknak veszélyes készítmények osztályozására, csomagolására és címkézésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről szóló, 1999. május 31-i 1999/45/EK európai parlamenti és tanácsi irányelv értelmében vett veszélyes keverékeket vagy az 1272/2008/EK rendelet I. mellékletében meghatározott, alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagokat:
+
+## 3.1.1. a 2.1–2.4., 2.6. és 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., 2.10., 2.12., és 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája és a 2.15. veszélyességi osztály A–F. típusa;
+
+## 3.1.2. a 3.1–3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály;
+
+## 3.1.3. a 4.1. veszélyességi osztály;
+
+## 3.1.4. a 5.1. veszélyességi osztály
+
+## a játékot használó gyermekek egészségét károsító mennyiségben. Minden esetben szigorúan tilos játékban olyan veszélyes anyagokat vagy keverékeket alkalmazni, amelyek a játék használata során ilyen minőségükben kerülnek felhasználásra.
+
+## 3.2.[^49] Kifejezetten tilos játékban veszélyes anyagokat vagy keverékeket alkalmazni.
+
+## 3.3.[^50] Ha azonban bizonyos játék rendeltetéséhez korlátozott mennyiségű ilyen anyag vagy keverék elengedhetetlenül szükséges – különösen a kémiai kísérletekhez, modellépítéshez, hőre lágyuló anyagból vagy kerámiából való formázáshoz, zománcozáshoz, fényképészeti vagy hasonló tevékenységhez szükséges anyagok és felszerelési tárgyak esetén – akkor ezek használata megengedhető, ha azt a maximális mennyiséget nem lépi túl, amelyet minden anyagra vagy keverékre a vonatkozó előírások megadnak, feltéve, hogy az engedélyezett anyagok és keverékek megfelelnek a 4. számú melléklet 4. pontjában foglaltakon túl az osztályozásra és megjelölésre vonatkozó előírásoknak is.]
+
+## [3.1.[^51] A játékok nem tartalmazhatnak az 1272/2008/EK rendelet I. mellékletében meghatározott, alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagokat vagy keverékeket:
+
+## 3.1.1. a 2.1–2.4., 2.6. és 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., 2.10., 2.12., és 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája és a 2.15. veszélyességi osztály A–F. típusa;
+
+## 3.1.2. a 3.1–3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály;
+
+## 3.1.3. a 4.1. veszélyességi osztály;
+
+## 3.1.4. a 5.1. veszélyességi osztály
+
+## a játékot használó gyermekek egészségét károsító mennyiségben. Minden esetben szigorúan tilos játékban olyan veszélyes anyagokat vagy keverékeket alkalmazni, amelyek a játék használata során ilyen minőségükben kerülnek felhasználásra.
+
+## 3.2.[^52] Kifejezetten tilos játékban veszélyes anyagokat vagy keverékeket alkalmazni.
+
+## 3.3.[^53] Ha azonban bizonyos játék rendeltetéséhez korlátozott mennyiségű ilyen anyag vagy keverék elengedhetetlenül szükséges – különösen a kémiai kísérletekhez, modellépítéshez, hőre lágyuló anyagból vagy kerámiából való formázáshoz, zománcozáshoz, fényképészeti vagy hasonló tevékenységhez szükséges anyagok és felszerelési tárgyak esetén – akkor ezek használata megengedhető, ha azt a maximális mennyiséget nem lépi túl, amelyet minden anyagra vagy keverékre a vonatkozó előírások megadnak, feltéve, hogy az engedélyezett anyagok és keverékek megfelelnek a 4. számú melléklet 4. pontjában foglaltakon túl az osztályozásra és megjelölésre vonatkozó előírásoknak is.]
 
 ## 4. Villamos tulajdonságok
 
@@ -113,3 +165,17 @@
 ## A játék nem tartalmazhat olyan radioaktív elemeket vagy anyagokat, amelyek sugárzása a háttérsugárzást meghaladja.
 
 3. számú melléklet a 24/1998. (IV. 29.) IKIM–NM együttes rendelethez
+
+[^41]: A 2. számú melléklet II. Kockázatok alcím 2. Gyúlékonyság b) pontja a 16/2010. (IV. 28.) NFGM rendelet 10. § (1) és (2) bekezdése szerint módosított szöveg.
+[^42]: A 2. számú melléklet II. Kockázatok alcím 2. Gyúlékonyság b) pontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (2) bekezdése alapján a 2010. december 1. napján lép hatályba.]
+[^43]: A 2. számú melléklet II. Kockázatok alcím 2. Gyúlékonyság b) pontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (3) bekezdése alapján a 2015. június 1. napján lép hatályba.]
+[^44]: A 2. számú melléklet II. Kockázatok alcím 2. Gyúlékonyság d) pontja a 16/2010. (IV. 28.) NFGM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^45]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok c) pont szövegét megállapította és megjelölését 3.1.–3.3. alpontra változtatta a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdése.
+[^46]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok c) pont szövegét megállapította és megjelölését 3.1.–3.3. alpontra változtatta a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdése.
+[^47]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok c) pont szövegét megállapította és megjelölését 3.1.–3.3. alpontra változtatta a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdése.
+[^48]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok pont 3.1. alpontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (2) bekezdése alapján a 2010. december 1. napján lép hatályba.]
+[^49]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok pont 3.2. alpontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (2) bekezdése alapján a 2010. december 1. napján lép hatályba.]
+[^50]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok pont 3.3. alpontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (2) bekezdése alapján a 2010. december 1. napján lép hatályba.]
+[^51]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok pont 3.1. alpontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (3) bekezdése alapján a 2015. június 1. napján lép hatályba.]
+[^52]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok pont 3.2. alpontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (3) bekezdése alapján a 2015. június 1. napján lép hatályba.]
+[^53]: A 2. számú melléklet II. Kockázatok alcím 3. Kémiai tulajdonságok pont 3.3. alpontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (3) bekezdése alapján a 2015. június 1. napján lép hatályba.]

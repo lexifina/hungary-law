@@ -38,9 +38,37 @@ Ezenfelül a játékhoz használati utasítást kell mellékelni, amely a műkö
 
 4. Veszélyes anyagokat vagy készítményeket tartalmazó játék. Kémiai játék
 
-a) A velejáróan veszélyes anyagokat vagy készítményeket tartalmazó játék esetében a használati utasítás a veszélyes anyagokra és készítményekre vonatkozó jogszabály figyelembevételével figyelmeztessen az ezen anyagok vagy készítmények veszélyes tulajdonságára, és jelölje meg a felhasználó által teendő, a játék típusától függően megnevezett veszélyek elkerülése érdekében szükséges védőintézkedéseket. Meg kell adni azt is, hogy milyen elsősegélyt kell nyújtani a játék használatából származó súlyos baleset esetén. Fel kell hívni a figyelmet arra is, hogy a játékot a nagyon kis gyermek számára nem hozzáférhető helyen kell tartani.
+a)[^54] A velejáróan veszélyes anyagokat vagy készítményeket tartalmazó játék esetében a használati utasítás a veszélyes anyagokra és keverékekre vonatkozó jogszabály figyelembevételével figyelmeztessen az ezen anyagok vagy készítmények veszélyes tulajdonságára, és jelölje meg a felhasználó által teendő, a játék típusától függően megnevezett veszélyek elkerülése érdekében szükséges védőintézkedéseket. Meg kell adni azt is, hogy milyen elsősegélyt kell nyújtani a játék használatából származó súlyos baleset esetén. Fel kell hívni a figyelmet arra is, hogy a játékot a nagyon kis gyermek számára nem hozzáférhető helyen kell tartani.
 
-b)[^41] Az a) pontban előírt figyelmeztetéseken felül a kémiai kísérletező készlet csomagolásán a következő szöveget is fel kell tüntetni:
+[4. Veszélyes anyagokat vagy keverékeket tartalmazó játékok. Kémiai játékok[^55]
+
+a)[^56] Az 1272/2008/EK rendeletben meghatározott rendelkezések alkalmazásának sérelme nélkül, a veszélyes keverékeket vagy az 1272/2008/EK rendelet I. mellékletében meghatározott alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagokat tartalmazó játékok használati utasítása:
+
+aa) a 2.1–2.4., 2.6. és 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., 2.10., 2.12., és 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája és a 2.15. veszélyességi osztály A–F. típusa;
+
+ab) a 3.1–3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály;
+
+ac) a 4.1. veszélyességi osztály;
+
+ad) az 5.1. veszélyességi osztály
+
+figyelmeztet ezen anyagok vagy keverékek veszélyes jellegére, és jelzi azokat az óvintézkedéseket, amelyek segítségével a használó elkerülheti a velük kapcsolatos veszélyeket, amelyeket játéktípusonként röviden összefoglalnak. Továbbá leírják, hogy az ilyen típusú játék használatakor bekövetkező súlyos baleset esetén milyen elsősegélyt kell nyújtani. Arra is fel kell hívni a figyelmet, hogy a játék kisgyermekek számára nem hozzáférhető helyen tartandó.]
+
+[4. Veszélyes anyagokat vagy keverékeket tartalmazó játékok. Kémiai játékok[^57]
+
+a)[^58] Az 1272/2008/EK rendeletben meghatározott rendelkezések alkalmazásának sérelme nélkül, a rendelet I. mellékletében meghatározott, alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagokat vagy keverékeket tartalmazó játékok használati utasítása:
+
+aa) a 2.1–2.4., 2.6. és 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., 2.10., 2.12., és 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája és a 2.15. veszélyességi osztály A–F. típusa;
+
+ab) a 3.1–3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály;
+
+ac) a 4.1. veszélyességi osztály;
+
+ad) az 5.1. veszélyességi osztály
+
+figyelmeztet ezen anyagok vagy keverékek veszélyes jellegére, és jelzi azokat az óvintézkedéseket, amelyek segítségével a használó elkerülheti a velük kapcsolatos veszélyeket, amelyeket játéktípusonként röviden összefoglalnak. Továbbá leírják, hogy az ilyen típusú játék használatakor bekövetkező súlyos baleset esetén milyen elsősegélyt kell nyújtani. Arra is fel kell hívni a figyelmet, hogy a játék kisgyermekek számára nem hozzáférhető helyen tartandó.]
+
+b)[^59] Az a) pontban előírt figyelmeztetéseken felül a kémiai kísérletező készlet csomagolásán a következő szöveget is fel kell tüntetni:
 
 ,,Figyelem! Csak ... éven felüli gyermekek számára. Felnőtt személy felügyelete mellett használható!'' (Az életkori korlátozást a gyártó határozza meg.)
 
@@ -60,4 +88,9 @@ Azon a játékon, amelyet a 2. számú melléklet II. 1. f) pontjában foglalt �
 
 ,,Figyelem! Csak sekély vízben és felügyelet mellett szabad használni!''
 
-[^41]: A 4. számú melléklet 4. pontjának b) alpontja az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének b) pontja, a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^54]: A 4. számú melléklet 4. a) pontja a 16/2010. (IV. 28.) NFGM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^55]: A 4. számú melléklet 4. pont alcíme a 16/2010. (IV. 28.) NFGM rendelet 9. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (2) bekezdése alapján a 2010. december 1. napján lép hatályba.]
+[^56]: A 4. számú melléklet 4. a) pontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (2) bekezdése alapján a 2010. december 1. napján lép hatályba.]
+[^57]: A 4. számú melléklet 4. pont alcíme a 16/2010. (IV. 28.) NFGM rendelet 9. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (3) bekezdése alapján a 2015. június 1. napján lép hatályba.]
+[^58]: A 4. számú melléklet 4. a) pontja a 16/2010. (IV. 28.) NFGM rendelet 9. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 29. § (3) bekezdése alapján a 2015. június 1. napján lép hatályba.]
+[^59]: A 4. számú melléklet 4. pontjának b) alpontja az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének b) pontja, a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
