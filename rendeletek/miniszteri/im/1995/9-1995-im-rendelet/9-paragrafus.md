@@ -1,4 +1,4 @@
-## 8. §[^11] Az Egyezmény 16. Cikke alapján előterjesztett kérelem tárgyában az igazságügyi és rendészeti miniszter dönt. Az átszállításról az Országos Rendőr-főkapitányság Interpol Magyar Nemzeti Iroda a rendőrség különleges szolgálata közreműködésével gondoskodik, és az átszállítás megtörténte után a felmerült költségekre vonatkozó költségjegyzéket az átutalási számlaszám megjelölésével az igazságügyi és rendészeti miniszternek küldi meg.
+## 8/A. §[^13] E rendeletben a szabadságvesztésre vonatkozó szabályok a részben felfüggesztett szabadságvesztés végrehajtandó részére is alkalmazandók.
 
 ## Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az Egyezmény alkalmazásában szabadságelvonással járó intézkedésen magyar bíróság ítélete esetén kényszer-gyógykezelést (Btk. 74. §), illetőleg javítóintézeti nevelést (Btk. 118. §) kell érteni.
 
-[^11]: A 8. § a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 53. pontja szerint módosított szöveg.
+[^13]: A 8/A. §-t a 11/2010. (III. 31.) IRM rendelet 1. §-a iktatta be.
