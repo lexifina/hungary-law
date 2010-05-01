@@ -1,3 +1,0 @@
-1. § (1) Az e rendelet 1. számú mellékletében megjelölt szakterületeken szakértőként az működhet, aki a nemzeti kulturális örökség miniszterétől (a továbbiakban: miniszter) – a (2) bekezdésben meghatározott személyek kivételével – szakértői működésre jogosító engedélyt (a továbbiakban: szakértői engedély) kapott és bejegyezték a Szakértői, illetve a Vizsgáztatási névjegyzékbe (a továbbiakban együtt: névjegyzék).
-
-(2) A Magyar Tudományos Akadémia rendes és levelező tagja, a tudományos fokozattal rendelkező személy, az egyetemi tanár, valamint a kulturális szakterületen a 3. számú mellékletben felsorolt szakmai vagy művészeti állami díjjal (címmel) kitüntetett személy a szakterületén szakértői engedély nélkül kérheti a névjegyzékbe történő felvételét.
