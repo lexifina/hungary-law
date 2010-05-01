@@ -1,0 +1,3 @@
+## 3. § Az R. 3. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) A vidékfejlesztési támogatásról szóló közösségi szabályok szerinti tápanyag-gazdálkodásra, valamint a növényvédőszer-használatra vonatkozó minimumkövetelmények betartását, a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 7-i 1975/2006/EK bizottsági rendelet 19. cikk (1) bekezdésére tekintettel a Mezőgazdasági Szakigazgatási Hivatal Központja és területi szervei ellenőrzik.”
