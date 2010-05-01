@@ -630,7 +630,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendéglátó-ipari szakképzettség vagy középiskolai végzettség és az OKJ szerint: középfokú kereskedelmi jellegű vagy idegenforgalmi szakképesítés.
 
-46.[^34] Földügyi és térképészeti igazgatási feladatkör
+46.[^34] Földügyi és térképészeti, valamint telekalakítási igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1435,7 +1435,7 @@ középiskolai végzettség és vízügyi, vízgazdálkodási, agrártechnikusi 
 [^31]: A 3. számú melléklet 31. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^32]: A 3. számú melléklet 39. pontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
 [^33]: A 3. számú melléklet 45. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^34]: A 3. számú melléklet 46. pontjának első bekezdése az 54/2006. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^34]: A 3. számú melléklet 46. pontjának első bekezdése az 54/2006. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. A 46. pont címe a 129/2010. (IV. 21.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^35]: A 3. számú melléklete 66. pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (7) bekezdésével megállapított szöveg.
 [^36]: A 3. számú melléklet 70. pontjának I. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^37]: A 3. számú melléklet 76. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
