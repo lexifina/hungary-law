@@ -1,1 +1,0 @@
-## 19. § Hatályát veszti az R. 2. § r) pontja, az R. 14. § (2) bekezdésében az „a 2007-es pénzügyi évtől az 1782/2003/EK rendeletben előírt közvetlen kifizetésekre, illetve a 2008-as pénzügyi évtől” szövegrész.
