@@ -1,1 +1,0 @@
-106. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 68/A. §-ában az „A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezéseit” szöveg helyébe az „Az Mt. rendelkezéseit” szöveg lép.

@@ -1,1 +1,0 @@
-112. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 11. § (6) bekezdésében a „b)–d)” szövegrész helyébe a „b) és c)” szöveg lép.

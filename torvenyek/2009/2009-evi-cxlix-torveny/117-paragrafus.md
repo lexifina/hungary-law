@@ -1,1 +1,0 @@
-117. § Hatályát veszti a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 15. § (1) bekezdés b) pontjában az „ , illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította, a bírság kiszabását, a szankció alkalmazását, vagy az ítélet jogerőre emelkedését követő öt évig” szövegrész.
