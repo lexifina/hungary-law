@@ -72,7 +72,7 @@ h) a pályázat elbírálásának határidejét.
 
 (18)[^45] A (16)–(17) bekezdésben szabályozott vezetői megbízást a helyi önkormányzat képviselő-testülete, közgyűlése adja. A vezetői megbízáshoz be kell szerezni a helyi kisebbségi önkormányzat egyetértését, ha a közoktatási intézmény a Kt. 121. §-ának (6) bekezdése szerint kisebbségi intézmény.
 
-(19) A munkáltató kiemelkedő tevékenysége alapján, megbízása lejártakor az intézményvezetőnek címzetes óvodavezetői, illetőleg címzetes igazgatói címet adományozhat.
+(19)[^46] A munkáltató kiemelkedő tevékenysége alapján, megbízása lejártát követően az intézményvezetőnek címzetes óvodavezetői, illetőleg címzetes igazgatói címet adományozhat.
 
 [^29]: Az 5. §-t megelőző jogszabályi hivatkozás a 323/2008. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^30]: Az 5. § (1) bekezdése a 323/2008. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
@@ -91,3 +91,4 @@ h) a pályázat elbírálásának határidejét.
 [^43]: Az 5. § (16) bekezdése a 17/2010. (II. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^44]: Az 5. § (17) bekezdése a 98/2000. (VI. 22.) Korm. rendelet 1. § (8) bekezdése, a 17/2010. (II. 5.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^45]: Az 5. § (18) bekezdése a 143/2003. (IX. 9.) Korm. rendelet 1. §-ával megállapított, a 290/2006. (XII. 23.) Korm. rendelet 5. § (3) bekezdése, a 17/2010. (II. 5.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^46]: Az 5. § (19) bekezdése a 150/2010. (IV. 30.) Korm. rendelet 18. §-ával megállapított szöveg.

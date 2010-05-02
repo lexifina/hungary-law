@@ -16,7 +16,7 @@ c)[^12] határozatlan idejű kinevezésére abban az intézményben kerül sor, 
 
 (2)[^13] Nem állapítható meg próbaidő annak a részére sem, aki
 
-a)[^14] a Kt. 18. § (6) bekezdésében meghatározott munkakörben eltöltött legalább öt év szakmai gyakorlattal rendelkezik, feltéve, hogy pedagógus-munkakörre szóló kinevezése mellett magasabb vezetői megbízást kap,
+a)[^14] a Kt. 18. § (5)–(6) bekezdésében meghatározott munkakörben eltöltött legalább öt év szakmai gyakorlattal rendelkezik, feltéve, hogy pedagógus-munkakörre szóló kinevezése mellett magasabb vezetői megbízást kap.
 
 b)[^15] a pedagógiai intézet alaptevékenysége szerinti munkakörben legalább tíz év szakmai gyakorlattal rendelkezik, feltéve, hogy magasabb vezetői megbízást kap.
 
@@ -26,5 +26,5 @@ b)[^15] a pedagógiai intézet alaptevékenysége szerinti munkakörben legaláb
 [^11]: A 3/A. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 323/2008. (XII. 29.) Korm. rendelet 1. § (2) bekezdése.
 [^12]: A 3/A. § (1) bekezdés c) pontja a 323/2008. (XII. 29.) Korm. rendelet 20. § (3) bekezdése szerint módosított szöveg.
 [^13]: A 3/A. § (2) bekezdését a 323/2008. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
-[^14]: A 3/A. § (2) bekezdés a) pontja a 17/2010. (II. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 3/A. § (2) bekezdés a) pontja a 150/2010. (IV. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^15]: A 3/A. § (2) bekezdés b) pontja a 17/2010. (II. 5.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
