@@ -20,10 +20,8 @@
 
 ## c) a vezérlőegység nyomtatott áramköri lapjában (a továbbiakban: alaplap) az átkötések nem megengedhetőek, ezek vizsgálata.”
 
-(3) A Vhr. 3. számú melléklet II. pontja a következő új 10. ponttal egészül ki:
-
-(II. A pénznyerő automata hitelesítése esetén:)
-
-## „10. A vezérlőegység alaplapján az átkötési tilalom ellenőrzése.”
+(3)[^9]
 
 (4) A Vhr. 3. számú melléklet IV. pontja helyébe a következő rendelkezés lép:
+
+[^9]: A 16. § (3) bekezdését a 20. § (7) bekezdése hatályon kívül helyezte.
