@@ -1,3 +1,5 @@
+## 63. §[^3]
+
 1. melléklet a 17/2010. (IV. 29.) IRM rendelethez
 
 NYILATKOZAT
@@ -39,3 +41,5 @@ P. H.
 ...............................................
 
 aláírás
+
+[^3]: A 63. §-t a (2) bekezdés hatályon kívül helyezte.
