@@ -18,6 +18,6 @@
 
 ## Kezes
 
-4. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^41]
+4. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^44]
 
-[^41]: A 4. számú melléklet a 14/2008. (V. 16.) PM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^44]: A 4. számú melléklet a 14/2008. (V. 16.) PM rendelet 6. § (3) bekezdésével megállapított szöveg.

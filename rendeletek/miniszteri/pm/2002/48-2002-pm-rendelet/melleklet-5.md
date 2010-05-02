@@ -16,7 +16,7 @@
 
 ## Hitelgarancia Zrt.
 
-5. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^42]
+5. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^45]
 
 Negyedéves jelentés a külön jogszabályokban meghatározott hitelkonstrukciókkal kapcsolatos kötelezettségállományról 200..... év ...... negyedév
 
@@ -62,4 +62,4 @@ Budapest, 200.........................
 
 Kezes
 
-[^42]: Az 5. számú mellékletet a 14/2008. (V. 16.) PM rendelet 6. § (4) bekezdése iktatta be. E módosító rendelet 8. §-a alapján az 5. számú melléklet szerinti adatszolgáltatást első ízben a 2008. második negyedévi adatszolgáltatásnál kell teljesíteni.
+[^45]: Az 5. számú mellékletet a 14/2008. (V. 16.) PM rendelet 6. § (4) bekezdése iktatta be. E módosító rendelet 8. §-a alapján az 5. számú melléklet szerinti adatszolgáltatást első ízben a 2008. második negyedévi adatszolgáltatásnál kell teljesíteni.

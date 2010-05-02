@@ -1,4 +1,4 @@
-## 5. §[^27]
+## 5. §[^28]
 
 ## A Széchenyi vállalkozói kártyahitelhez kapcsolódó szabályok
 
@@ -6,4 +6,4 @@
 
 (2) A Részvénytársaság az engedményezésből származó vételárral csökkenti az igényelt viszontgarancia összegét, és az elszámolási íveken már a csökkentett összeget tünteti fel. A követelés engedményezésével a követelés behajtása lezárul, ezért az elszámolási ívek benyújtásával a részletes elszámolás is megtörténik.
 
-[^27]: Az 5. §-t a 6/2009. (IV. 8.) PM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^28]: Az 5. §-t a 6/2009. (IV. 8.) PM rendelet 7. § (3) bekezdése hatályon kívül helyezte.

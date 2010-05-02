@@ -14,7 +14,7 @@
 
 ## Kezes
 
-2. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^40]
+2. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^43]
 
 1. számú táblázat
 
@@ -56,4 +56,4 @@ Budapest, 200..... év .................... hó ..... nap
 
 Kezes
 
-[^40]: A 2. számú melléklet a 14/2008. (V. 16.) PM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^43]: A 2. számú melléklet a 14/2008. (V. 16.) PM rendelet 6. § (2) bekezdésével megállapított szöveg.
