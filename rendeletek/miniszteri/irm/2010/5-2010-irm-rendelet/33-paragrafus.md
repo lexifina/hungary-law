@@ -1,5 +1,3 @@
-33. § (1) A 32. § (3) bekezdése e rendelet hatálybalépését követő napon hatályát veszti.
+33. §[^4]
 
-(2) A 32. § (4) bekezdése 2010. május 1-jén hatályát veszti.
-
-(3) E paragrafus 2010. május 2-án hatályát veszti.
+[^4]: A 33. § a (3) bekezdés alapján hatályát vesztette.
