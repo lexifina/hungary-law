@@ -21,3 +21,7 @@ bc) a központi költségvetésnek a Nemzeti Fejlesztési Ügynökség elnöke f
 (3) A Nemzeti Tehetség Program feladatainak segítésére az (1) bekezdés ac) pontja szerinti, az Oktatásért Közalapítványnak (a továbbiakban: Közalapítvány) juttatott eszközök felhasználása fölött a Közalapítvány kuratóriuma a Nemzeti Tehetségügyi Koordinációs Fórum javaslatának mérlegelésével dönt.
 
 (4) Az (1) bekezdés bc) alpontjában meghatározott intézkedéseknek az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.) 79. §-a (1) bekezdésének b) pontja szerinti támogatási konstrukcióit a Nemzeti Tehetségügyi Koordinációs Fórum javaslatának mérlegelésével kell kidolgozni, illetve lehet módosítani. A vélemény megadására rendelkezésre álló határidő a véleménykérés beérkezésétől számított 15 munkanap. A határidő jogvesztő.
+
+(5)[^1] A Nemzeti Tehetségügyi Koordinációs Fórum javaslatának mérlegelésével a Közalapítvány kuratóriuma az (1) bekezdés a) pontjában meghatározott források terhére meghívásos pályázatot is hirdethet.
+
+[^1]: Az 1. § (5) bekezdését a 150/2010. (IV. 30.) Korm. rendelet 24. §-a iktatta be.

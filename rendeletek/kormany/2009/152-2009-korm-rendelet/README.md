@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-08-07 | 2009-152-20-22.1 | 152/2009. (VII. 23.) Korm. rendelet |
+| 2010-05-02 | 2009-152-20-22.2 | 150/2010. (IV. 30.) Korm. rendelet |
