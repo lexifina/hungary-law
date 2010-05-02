@@ -1,3 +1,3 @@
-## 17. §[^40]
+## 17. §[^61]
 
-[^40]: A 17. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte.
+[^61]: A 17. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte.

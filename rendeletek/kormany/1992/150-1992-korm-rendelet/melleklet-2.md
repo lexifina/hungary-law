@@ -1,267 +1,335 @@
 ## Kulturális közalkalmazotti munkakörök
 
-| Munkakör megnevezése | Fizetési osztályok |
+|  | A Munkakör megnevezése | B Fizetési osztályok |
 
 | A | B | C | D | E | F | G | H | I | J |
 
-| Előadóművészeti intézménynél művészi és egyéb művészeti munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 1. | Előadó-művészeti intézménynél művészi és művészeti munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | rendező |  |  |  |  |  | * |  | * |  |  |
+| 1.1 | rendező |  |  |  |  |  | * |  | * |  |  |
 
-|  | karmester, karnagy |  |  |  |  |  | * |  | * |  |  |
+| 1.2 | karmester, karnagy |  |  |  |  |  | * |  | * |  |  |
 
-|  | balettmester, koreográfus |  |  |  |  |  | * |  | * |  |  |
+| 1.3 | balettmester, koreográfus |  |  |  |  |  | * |  | * |  |  |
 
-|  | dramaturg |  |  |  |  |  | * |  | * |  |  |
+| 1.4 | dramaturg |  |  |  |  |  | * |  | * |  |  |
 
-|  | lektor |  |  |  |  |  | * |  | * |  |  |
+| 1.5 | lektor |  |  |  |  |  | * |  | * |  |  |
 
-|  | színész |  |  |  |  | * | * |  | * |  |  |
+| 1.6 | színész |  |  |  |  | * | * |  | * |  |  |
 
-|  | magánénekes |  |  |  | * |  | * |  | * |  |  |
+| 1.7 | bábszínész |  |  |  |  | * | * |  | * |  |  |
 
-|  | magántáncos |  |  |  | * | * | * |  | * |  |  |
+| 1.8 | magánénekes |  |  |  | * |  | * |  | * |  |  |
 
-|  | énekes, hangszeres szólista |  |  |  | * |  | * |  | * |  |  |
+| 1.9 | magántáncos, első magántáncos |  |  |  | * | * | * |  | * |  |  |
 
-|  | táncos szólista |  |  |  | * | * | * |  | * |  |  |
+| 1.10 | énekes, hangszeres szólista |  |  |  | * |  | * |  | * |  |  |
 
-|  | vers- és prózamondó |  |  |  | * | * | * |  | * |  |  |
+| 1.11 | táncos szólista |  |  |  | * | * | * |  | * |  |  |
 
-|  | opera-, szimfonikus és kamarazenei tag |  |  |  | * |  | * |  | * |  |  |
+| 1.12 | vers- és prózamondó |  |  |  | * | * | * |  | * |  |  |
 
-|  | játékmester |  |  |  |  | * | * |  | * |  |  |
+| 1.13 | opera-, szimfonikus és kamarazenei tag |  |  |  | * |  | * |  | * |  |  |
 
-|  | korrepetítor, énekmester |  |  |  | * |  | * |  | * |  |  |
+| 1.14 | játékmester |  |  |  |  | * | * |  | * |  |  |
 
-|  | díszlet-, jelmeztervező |  |  |  |  |  |  |  | * |  |  |
+| 1.15 | korrepetítor, énekmester |  |  |  | * |  | * |  | * |  |  |
 
-|  | népi zenekar vezető |  |  |  | * |  | * |  | * |  |  |
+| 1.16 | díszlet-, jelmeztervező |  |  |  |  |  |  |  | * |  |  |
 
-|  | festő, szobrász, bábtervező |  |  |  | * |  |  |  | * |  |  |
+| 1.17 | népi zenekar vezető |  |  |  | * |  | * |  | * |  |  |
 
-|  | bábkészítő |  |  |  | * |  |  |  |  |  |  |
+| 1.18 | festő, szobrász, bábtervező |  |  |  | * |  |  |  | * |  |  |
 
-|  | énekkari tag | * | * |  | * |  | * |  | * |  |  |
+| 1.19 | bábkészítő |  |  |  | * |  |  |  |  |  |  |
 
-|  | egyéb zenekari tag | * | * |  | * |  | * |  |  |  |  |
+| 1.20 | énekkari tag | * | * |  | * |  | * |  | * |  |  |
 
-|  | tánckari tag | * | * |  | * | * | * |  | * |  |  |
+| 1.21 | egyéb zenekari tag | * | * |  | * |  | * |  |  |  |  |
 
-|  | artista |  |  |  | * | * | * |  |  |  |  |
+| 1.22 | tánckari tag | * | * |  | * | * | * |  | * |  |  |
 
-|  | pantomimes |  |  |  | * | * | * |  |  |  |  |
+| 1.23 | artista |  |  |  | * | * | * |  |  |  |  |
 
-|  | segédrendező, asszisztens |  |  | * |  |  | * |  |  |  |  |
+| 1.24 | pantomimes |  |  |  | * | * | * |  |  |  |  |
 
-|  | ügyelő, súgó |  |  | * |  |  | * |  |  |  |  |
+| 1.25 | segédrendező, asszisztens |  |  | * |  |  | * |  |  |  |  |
 
-|  | szcenikus |  |  |  | * | * | * |  | * |  |  |
+| 1.26 | ügyelő, súgó |  |  | * |  |  | * |  |  |  |  |
 
-|  | segédszínész, gyakorlatos színész |  |  |  | * |  | * |  |  |  |  |
+| 1.27 | szcenikus |  |  |  | * | * | * |  | * |  |  |
 
-|  | csoportos szereplő (statiszta) | * | * | * |  |  |  |  |  |  |  |
+| 1.28 | segédszínész |  |  |  | * |  | * |  |  |  |  |
 
-| Alkotóművészeti intézménynél művészeti szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 1.29 | csoportos szereplő (statiszta) | * | * | * |  |  |  |  |  |  |  |
 
-|  | művészeti főtanácsadó |  |  |  |  |  |  |  | * | * | * |
+| 2. | Alkotóművészeti intézménynél művészeti szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | művészeti tanácsadó |  |  |  |  |  | * |  |  |  |  |
+| 2.1 | művészeti főtanácsadó |  |  |  |  |  |  |  | * | * | * |
 
-|  | művészettörténész-kiállításrendező |  |  |  |  |  |  |  | * | * | * |
+| 2.2 | művészeti tanácsadó |  |  |  |  |  | * |  |  |  |  |
 
-|  | kiállításrendező |  |  |  |  |  | * |  | * |  |  |
+| 2.3 | művészettörténész-kiállításrendező |  |  |  |  |  |  |  | * | * | * |
 
-|  | gyűjteménykezelő, adattáros |  |  | * |  |  |  |  |  |  |  |
+| 2.4 | kiállításrendező |  |  |  |  |  | * |  | * |  |  |
 
-| Levéltári szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 2.5 | gyűjteménykezelő, adattáros |  |  | * |  |  |  |  |  |  |  |
 
-|  | főlevéltáros |  |  |  |  |  |  |  | * | * | * |
+| 3. | Levéltári szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | levéltáros |  |  |  |  |  | * |  | * |  |  |
+| 3.1 | főlevéltáros |  |  |  |  |  |  |  | * | * | * |
 
-|  | segédlevéltáros |  |  |  |  | * | * |  | * |  |  |
+| 3.2 | levéltáros |  |  |  |  |  | * |  | * | * | * |
 
-|  | levéltári főrestaurátor |  |  |  |  |  |  |  | * | * | * |
+| 3.3 | segédlevéltáros |  |  |  |  | * | * |  | * |  |  |
 
-|  | levéltári restaurátor |  |  |  |  | * | * |  | * |  |  |
+| 3.4 | levéltári asszisztens |  |  |  |  |  | * | * |  |  |  |
 
-|  | levéltári segédrestaurátor |  |  | * | * |  |  |  |  |  |  |
+| 3.5 | levéltári főrestaurátor |  |  |  |  |  |  |  | * | * | * |
 
-|  | levéltári könyvtáros |  |  |  |  |  | * | * | * | * | * |
+| 3.6 | levéltári restaurátor |  |  |  |  | * | * |  | * | * | * |
 
-|  | levéltári könyvtáros asszisztens |  |  |  | * |  |  |  |  |  |  |
+| 3.7 | levéltári segédrestaurátor |  |  | * | * |  |  |  |  |  |  |
 
-|  | levéltári kezelő |  |  | * | * |  |  |  |  |  |  |
+| 3.8 | levéltári könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | levéltári fotós |  |  |  | * | * | * |  | * | * | * |
+| 3.9 | levéltári könyvtári asszisztens |  |  |  | * |  |  |  |  |  |  |
 
-|  | levéltári könyvkötő |  |  | * | * |  |  |  |  |  |  |
+| 3.10 | levéltári kezelő |  |  | * | * |  |  |  |  |  |  |
 
-|  | levéltári informatikus |  |  |  |  |  | * |  | * | * | * |
+| 3.11 | levéltári fotós |  |  |  | * | * | * |  | * |  |  |
 
-|  | levéltári rendszerszervező |  |  |  |  |  | * |  | * | * | * |
+| 3.12 | levéltári könyvkötő |  |  | * | * |  |  |  |  |  |  |
 
-|  | levéltári adatrögzítő |  |  | * | * | * |  |  |  |  |  |
+| 3.13 | levéltári informatikus |  |  |  |  |  | * |  | * | * | * |
 
-| Muzeális intézményi szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 3.14 | levéltári rendszerszervező |  |  |  |  |  | * |  | * | * | * |
 
-|  | főmuzeológus |  |  |  |  |  |  |  | * | * | * |
+| 3.15 | levéltári adatrögzítő |  |  | * | * | * |  |  |  |  |  |
 
-|  | muzeológus |  |  |  |  |  |  |  | * | * | * |
+| 4. | Muzeális intézményi szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | segédmuzeológus |  |  |  |  |  |  |  | * | * | * |
+| 4.1 | főmuzeológus (vagy főkurátor) |  |  |  |  |  |  |  | * | * | * |
 
-|  | főrestaurátor |  |  |  |  |  |  |  | * | * | * |
+| 4.2 | muzeológus (vagy kurátor) |  |  |  |  |  | * | * | * | * | * |
 
-|  | restaurátor |  |  |  |  | * |  | * | * | * | * |
+| 4.3 | segédmuzeológus (vagy segédkurátor) |  |  |  |  |  | * | * | * | * | * |
 
-|  | segédrestaurátor |  |  |  |  | * |  | * | * | * | * |
+| 4.4 | muzeológus asszisztens |  |  |  |  |  | * | * |  |  |  |
 
-|  | műtárgyvédelmi munkatárs (műtárgyvédelmi asszisztens) |  |  |  | * |  |  |  |  |  |  |
+| 4.5 | műtárgykölcsönzési szakember (vagy múzeumi regisztrátor) |  |  |  |  |  | * | * | * | * |  |
 
-|  | muzeológus asszisztens |  |  |  |  |  | * | * |  |  |  |
+| 4.6 | főrestaurátor |  |  |  |  |  |  |  | * | * | * |
 
-|  | műtárgyvédelmi munkatárs (múzeumi gyűjtemény- és raktárkezelő) |  |  |  | * | * | * | * |  |  |  |
+| 4.7 | restaurátor |  |  |  |  | * |  | * | * | * | * |
 
-|  | múzeumi könyvtáros |  |  |  |  |  | * | * | * | * | * |
+| 4.8 | segédrestaurátor |  |  |  |  | * |  | * | * | * | * |
 
-|  | múzeumi segédkönyvtáros |  |  |  |  | * |  |  |  |  |  |
+| 4.9 | műtárgyvédelmi munkatárs: restaurátor technikus |  |  |  |  | * |  |  |  |  |  |
 
-|  | múzeumi könyvtáros asszisztens |  |  |  | * |  |  |  |  |  |  |
+| 4.10 | műtárgyvédelmi munkatárs: műtárgyvédelmi asszisztens |  |  |  | * |  |  |  |  |  |  |
 
-|  | múzeumpedagógus |  |  |  |  |  | * | * | * | * | * |
+| 4.11 | műtárgyvédelmi munkatárs: múzeumi preparátor |  |  |  | * | * | * | * |  |  |  |
 
-|  | múzeumi mediátor, animátor, tárlatvezető |  |  |  |  |  | * | * | * | * | * |
+| 4.12 | műtárgyvédelmi munkatárs: múzeumi gyűjtemény- és raktárkezelő |  |  |  | * | * | * | * |  |  |  |
 
-|  | múzeumi kulturális menedzser, múzeumi közművelődési szakember |  |  |  |  |  | * | * | * | * | * |
+| 4.13 | múzeumi könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | múzeumi fotós |  |  |  | * | * | * | * | * | * | * |
+| 4.14 | múzeumi segédkönyvtáros |  |  |  |  | * |  |  |  |  |  |
 
-|  | régésztechnikus |  |  |  |  |  | * |  |  |  |  |
+| 4.15 | múzeumi könyvtári asszisztens |  |  |  | * |  |  |  |  |  |  |
 
-|  | múzeumi kiállítástervező |  |  |  | * | * | * | * | * | * | * |
+| 4.16 | múzeumi adattáros |  |  |  | * | * | * | * | * | * |  |
 
-|  | műtárgyvédelmi munkatárs (múzeumi preparátor) |  |  |  | * |  |  |  |  |  |  |
+| 4.17 | vezető múzeumpedagógus |  |  |  |  |  | * | * | * | * | * |
 
-|  | múzeumi adattáros |  |  |  | * | * | * | * | * | * |  |
+| 4.18 | múzeumpedagógus |  |  |  |  |  | * | * | * | * | * |
 
-|  | múzeumi informatikus |  |  |  |  |  | * |  | * | * | * |
+| 4.19 | múzeumi közművelődési szakember vagy múzeumi kulturális menedzser |  |  |  |  |  | * | * | * | * | * |
 
-|  | múzeumi rendszerszervező |  |  |  |  |  | * |  | * | * | * |
+| 4.20 | múzeumi marketing-, reklám- és kommunikációs szakember |  |  |  |  |  | * | * | * | * | * |
 
-|  | múzeumi adatrögzítő |  |  | * | * | * |  |  |  |  |  |
+| 4.21 | tárlatvezető (vagy múzeumi mediátor vagy múzeumi animátor) |  |  |  |  |  | * | * | * | * |  |
 
-| Könyvtári szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 4.22 | múzeumi fotós |  |  |  | * | * | * | * | * | * | * |
 
-|  | főkönyvtáros |  |  |  |  |  |  |  |  | * | * |
+| 4.23 | régésztechnikus |  |  |  |  |  | * |  |  |  |  |
 
-|  | könyvtáros |  |  |  |  |  | * | * | * |  |  |
+| 4.24 | múzeumi geodéta vagy múzeumi rajzoló |  |  |  | * | * | * | * | * | * |  |
 
-|  | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
+| 4.25 | múzeumi grafikus vagy kiállítás-tervező |  |  |  |  |  | * | * | * | * | * |
 
-|  | szaktájékoztató |  |  |  |  |  | * | * | * | * | * |
+| 4.26 | múzeumi kiállítás-kivitelező |  |  |  | * | * | * | * | * | * |  |
 
-|  | formai, tárgyi feldolgozó |  |  |  |  |  | * | * | * | * |  |
+| 4.27 | múzeumi informatikus |  |  |  |  |  | * |  | * | * | * |
 
-|  | könyvtári szakinformatikus, informatikus |  |  |  |  |  | * | * | * | * |  |
+| 4.28 | múzeumi rendszerszervező |  |  |  |  |  | * |  | * | * | * |
 
-|  | könyvtári rendszerszervező, rendszerszervező |  |  |  |  |  | * | * | * | * |  |
+| 4.29 | múzeumi adatrögzítő |  |  | * | * | * |  |  |  |  |  |
 
-|  | zenei könyvtáros |  |  |  |  |  | * | * | * | * |  |
+| 4.30 | múzeumi kiadvány- vagy múzeumi honlapszerkesztő |  |  |  |  |  | * | * | * | * | * |
 
-|  | gyermekkönyvtáros |  |  |  |  |  | * | * | * | * |  |
+| 4.31 | vezető teremőr |  |  |  |  | * | * | * |  |  |  |
 
-|  | helyismereti könyvtáros |  |  |  |  |  | * | * | * | * |  |
+| 4.32 | teremőr vagy közönségkapcsolati szakember |  |  |  | * | * | * |  |  |  |  |
 
-|  | segédkönyvtáros |  |  |  |  | * |  |  |  |  |  |
+| 4.33 | múzeumi jogász |  |  |  |  |  |  |  | * | * | * |
 
-|  | könyvtáros asszisztens |  |  |  | * |  |  |  |  |  |  |
+| 5. | Könyvtári szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | raktáros |  | * | * |  |  |  |  |  |  |  |
+| 5.1 | főkönyvtáros |  |  |  |  |  |  |  |  | * | * |
 
-|  | adatrögzítő |  |  | * | * | * |  |  |  |  |  |
+| 5.2 | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
 
-|  | könyvtári restaurátor |  |  |  | * | * | * |  | * | * |  |
+| 5.3 | könyvtáros, informatikus könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-| Közművelődési szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 5.4 | bibliográfus, feldolgozó |  |  |  |  |  | * | * | * | * | * |
 
-|  | I. |  |  |  |  |  |  |  |  |  |  |
+| 5.5 | gyermekkönyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | közművelődési szakember I. |  |  |  |  |  |  |  | * | * | * |
+| 5.6 | gyűjteményszervező könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | közművelődési szakember II. |  |  |  |  |  | * | * |  |  |  |
+| 5.7 | helyismereti könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | közművelődési szakember III. |  |  |  | * |  |  |  |  |  |  |
+| 5.8 | olvasószolgálati könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | A közművelődési munkát közvetlenül segítő munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 5.9 | tájékoztató, szaktájékoztató könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
+| 5.10 | zenei könyvtáros |  |  |  |  |  | * | * | * | * | * |
 
-|  | informatikus |  |  |  |  |  | * | * | * |  |  |
+| 5.11 | könyvtári restaurátor |  |  |  | * | * | * |  | * | * | * |
 
-|  | közszolgálati és közösségi média szerkesztő és szervező |  |  |  |  | * | * | * | * |  |  |
+| 5.12 | könyvtári szakinformatikus |  |  |  |  |  | * | * | * | * | * |
 
-|  | művészeti vezető |  |  |  | * | * | * | * | * | * | * |
+| 5.13 | informatikus |  |  |  | * | * | * | * | * | * | * |
 
-|  | népijáték- és kismesterségek oktató |  |  |  |  | * |  |  |  |  |  |
+| 5.14 | segédkönyvtáros |  |  |  |  | * |  |  |  |  |  |
 
-|  | marketing és reklámszervező |  |  |  |  | * | * | * |  |  |  |
+| 5.15 | könyvtáros asszisztens |  |  |  | * |  |  |  |  |  |  |
 
-|  | sportszervező |  | * |  | * | * | * | * | * | * |  |
+| 5.16 | könyvtári könyvkötő |  |  | * | * |  |  |  |  |  |  |
 
-|  | A közművelődési munkát segítő egyéb munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 5.17 | könyvtárkezelő |  |  | * |  |  |  |  |  |  |  |
 
-|  | dekoratőr |  |  | * | * |  | * |  | * |  |  |
+| 5.18 | raktáros |  | * | * |  |  |  |  |  |  |  |
 
-|  | mozgókép-forgalmazó |  |  | * | * | * |  |  |  |  |  |
+| 5.19 | adatrögzítő |  |  | * | * | * |  |  |  |  |  |
 
-|  | II. |  |  |  |  |  |  |  |  |  |  |
+| 6. | Kép- és hangarchívumi szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | Állat- és növénykertek közművelődést segítő szakmai munkakörei |  |  |  |  |  |  |  |  |  |  |
+| 6.1 | főarchivátor |  |  |  |  |  |  |  | * | * | * |
 
-|  | közművelődési szakember I. |  |  |  |  |  |  |  | * | * | * |
+| 6.2 | archivátor |  |  |  |  |  |  |  | * | * | * |
 
-|  | közművelődési szakember II. |  |  |  |  |  | * | * |  |  |  |
+| 6.3 | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
 
-|  | közművelődési szakember III. |  |  |  | * |  |  |  |  |  |  |
+| 6.4 | nemzetközi referens |  |  |  |  |  | * |  | * | * | * |
 
-|  | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
+| 6.5 | szaktájékoztató |  |  |  |  |  | * | * | * | * | * |
 
-|  | zoopedagógus |  |  |  |  |  | * | * | * | * | * |
+| 6.6 | adatbáziskezelő |  |  |  |  |  | * | * | * | * | * |
 
-|  | könyvtáros |  |  |  |  |  | * | * | * | * | * |
+| 6.7 | filmes szakkönyvtáros |  |  |  |  |  |  | * | * | * | * |
 
-|  | segédkönyvtáros |  |  |  |  | * |  |  |  |  |  |
+| 6.8 | fotó-plakát gyűjteményvezető |  |  |  |  |  | * |  | * | * | * |
 
-|  | könyvtáros asszisztens |  |  |  | * |  |  |  |  |  |  |
+| 6.9 | elektronikus tár gyűjteményvezető |  |  |  |  |  | * |  | * | * | * |
 
-|  | fotós, videotechnikus |  | * |  | * |  | * |  |  |  |  |
+| 6.10 | technikai főmunkatárs |  |  |  |  |  |  |  | * | * | * |
 
-|  | kiállításrendező |  |  | * | * |  | * |  | * |  |  |
+| 6.11 | technikai munkatárs |  |  |  |  |  | * |  | * | * | * |
 
-|  | preparátor |  |  |  | * |  | * |  |  |  |  |
+| 6.12 | mozgókép restaurátor |  |  |  |  |  | * |  | * | * | * |
 
-|  | zajtáros, dokumentátor, sajtóarchiváló |  |  |  | * |  |  |  |  |  |  |
+| 6.13 | főraktáros |  | * | * | * |  |  |  |  |  |  |
 
-|  | adattáros |  |  | * |  |  |  |  |  |  |  |
+| 6.14 | raktáros |  | * | * |  |  |  |  |  |  |  |
 
-| Egyéb közalkalmazotti munkakörök |  |  |  |  |  |  |  |  |  |  |
+| 6.15 | kiadvány főszerkesztő |  |  |  |  |  |  |  | * | * | * |
 
-|  | kulturális menedzser |  |  |  |  |  |  |  | * | * | * |
+| 6.16 | kiadvány szerkesztő |  |  |  |  |  | * |  | * | * | * |
 
-|  | kulturális szervező |  |  |  |  |  | * | * | * | * |  |
+| 6.17 | honlap szerkesztő |  |  |  |  |  | * |  | * | * | * |
 
-|  | biztonsági szakreferens |  |  |  |  |  | * | * | * | * | * |
+| 6.18 | filmmúzeum moziüzemvezető |  |  |  |  |  | * |  | * | * | * |
 
-|  | gazdasági, műszaki, igazgatási szakalkalmazott |  |  |  |  |  | * | * | * | * | * |
+| 6.19 | mozgóképforgalmazó szakreferens |  |  | * | * | * |  |  |  |  |  |
 
-|  | gazdasági, műszaki, igazgatási ügyintéző |  | * | * | * | * |  |  |  |  |  |
+| 7. | Közművelődési szakmai munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-|  | ügyviteli alkalmazott | * | * | * | * |  |  |  |  |  |  |
+| 7.1.1 | közművelődési szakember I. |  |  |  |  |  |  |  | * | * | * |
 
-|  | műszaki, fenntartási, üzemviteli alkalmazott, szakmunkás, segédmunkás, kisegítő alkalmazott | * | * | * | * |  |  |  |  |  |  |
+| 7.1.2 | közművelődési szakember II. |  |  |  |  |  | * | * |  |  |  |
 
-2. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^58]
+| 7.1.3 | közművelődési szakember III. |  |  |  | * |  |  |  |  |  |  |
 
-[^58]: A 2. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+| 7.2. | A közművelődési munkát közvetlenül segítő munkakörök |  |  |  |  |  |  |  |  |  |  |
+
+| 7.2.1 | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
+
+| 7.2.2 | informatikus |  |  |  |  |  | * | * | * |  |  |
+
+| 7.2.3 | közszolgálati és közösségi média szerkesztő és szervező |  |  |  |  | * | * | * | * |  |  |
+
+| 7.2.4 | művészeti vezető |  |  |  | * | * | * | * | * | * | * |
+
+| 7.2.5 | népijáték- és kismesterségek oktató |  |  |  |  | * |  |  |  |  |  |
+
+| 7.2.6 | marketing és reklámszervező |  |  |  |  | * | * | * |  |  |  |
+
+| 7.2.7 | sportszervező |  | * |  | * | * | * | * | * | * |  |
+
+| 7.3. | A közművelődési munkát segítő egyéb munkakörök |  |  |  |  |  |  |  |  |  |  |
+
+| 7.3.1 | dekoratőr |  |  | * | * |  | * |  | * |  |  |
+
+| 7.3.2 | mozgókép-forgalmazó |  |  | * | * | * |  |  |  |  |  |
+
+| 7.4. | Állat- és növénykertek közművelődést segítő szakmai munkakörei |  |  |  |  |  |  |  |  |  |  |
+
+| 7.4.1 | közművelődési szakember I. |  |  |  |  |  |  |  | * | * | * |
+
+| 7.4.2 | közművelődési szakember II. |  |  |  |  |  | * | * |  |  |  |
+
+| 7.4.3 | közművelődési szakember III. |  |  |  | * |  |  |  |  |  |  |
+
+| 7.4.4 | tudományos kutató |  |  |  |  |  |  |  | * | * | * |
+
+| 7.4.5 | zoopedagógus |  |  |  |  |  | * | * | * | * | * |
+
+| 7.4.6 | könyvtáros |  |  |  |  |  | * | * | * | * | * |
+
+| 7.4.7 | segédkönyvtáros |  |  |  |  | * |  |  |  |  |  |
+
+| 7.4.8 | könyvtári asszisztens |  |  |  | * |  |  |  |  |  |  |
+
+| 7.4.9 | fotós, videotechnikus |  | * |  | * |  | * |  |  |  |  |
+
+| 7.4.10 | kiállításrendező |  |  | * | * |  | * |  | * |  |  |
+
+| 7.4.11 | preparátor |  |  |  | * |  | * |  |  |  |  |
+
+| 7.4.12 | zajtáros, dokumentátor, sajtóarchiváló |  |  |  | * |  |  |  |  |  |  |
+
+| 7.4.13 | adattáros |  |  | * |  |  |  |  |  |  |  |
+
+| 8. | Egyéb közalkalmazotti munkakörök |  |  |  |  |  |  |  |  |  |  |
+
+| 8.1 | kulturális menedzser |  |  |  |  |  |  |  | * | * | * |
+
+| 8.2 | kulturális szervező |  |  |  |  |  | * | * | * | * |  |
+
+| 8.3 | biztonsági szakreferens |  |  |  |  |  | * | * | * | * | * |
+
+| 8.4 | gazdasági, műszaki, igazgatási szakalkalmazott |  |  |  |  |  | * | * | * | * | * |
+
+| 8.5 | gazdasági, műszaki, igazgatási ügyintéző |  | * | * | * | * |  |  |  |  |  |
+
+| 8.6 | ügyviteli alkalmazott | * | * | * | * |  |  |  |  |  |  |
+
+| 8.7 | műszaki, fenntartási, üzemviteli alkalmazott, szakmunkás, segédmunkás, kisegítő alkalmazott | * | * | * | * |  |  |  |  |  |  |
+
+2. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^89]
+
+[^89]: A 2. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

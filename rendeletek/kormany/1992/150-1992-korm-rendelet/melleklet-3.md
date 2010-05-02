@@ -1,49 +1,47 @@
 ## Tudományos munkakörök jegyzéke
 
-## Múzeumok:
+|  | A Intézmény | B Tudományos munkakör megnevezése |
 
-## főmuzeológus
+| 1. | Múzeumok: |  |
 
-## muzeológus
+| 1.1. |  | főmuzeológus |
 
-## főrestaurátor
+| 1.2. |  | muzeológus |
 
-## felsőfokú végzettséggel rendelkező restaurátor
+| 1.3. |  | főrestaurátor |
 
-## felsőfokú végzettséggel és legalább 3 éves múzeumi szakmai gyakorlattal rendelkező múzeumi könyvtáros
+| 1.4. |  | felsőfokú végzettséggel rendelkező restaurátor |
 
-## felsőfokú végzettséggel és legalább 3 éves múzeumi szakmai gyakorlattal rendelkező közművelődési szakember, múzeumpedagógus
+| 1.5. |  | felsőfokú végzettséggel és legalább 3 éves múzeumi szakmai gyakorlattal rendelkező múzeumi könyvtáros |
 
-## Tudományos munkakör csak a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti múzeumi működési engedéllyel rendelkező intézményben létesíthető.
+| 1.6. |  | felsőfokú végzettséggel és legalább 3 éves múzeumi szakmai gyakorlattal rendelkező közművelődési szakember, múzeumpedagógus |
 
-## Könyvtárak:
+| 2. | Könyvtárak: |  |
 
-## Tudományos fokozattal rendelkező munkatárs.
+| 2.1. |  | tudományos fokozattal rendelkező munkatárs által betöltött munkakör |
 
-## Az a felsőfokú iskolai végzettséggel rendelkező közalkalmazott, aki a könyvtári és információs tevékenység vagy az intézmény szakterületéhez kapcsolódó valamely terület elméletével, történetével, alkotói fejlesztésével foglalkozik, legalább munkaidejének fele részében.
+| 2.2. |  | az a felsőfokú iskolai végzettséggel rendelkező közalkalmazott, aki a könyvtári és információs tevékenység vagy az intézmény szakterületéhez kapcsolódó valamely terület elméletével, történetével, alkotói fejlesztésével foglalkozik, legalább munkaidejének fele részében |
 
-## Tudományos munkakör csak az Országos Széchenyi Könyvtárban, országos feladatkörű szakkönyvtárban, egyetemi-főiskolai könyvtárban, megyei könyvtárban létesíthető.
+| 3. | Levéltárak: |  |
 
-## Levéltár:
+| 3.1. |  | főlevéltáros |
 
-## Tudományos fokozattal rendelkező munkatárs:
+| 3.2. |  | levéltáros |
 
-## főlevéltáros
+| 3.3. |  | főrestaurátor, restaurátor |
 
-## levéltáros
+| 3.4. |  | felsőfokú végzettséggel és legalább 3 éves gyakorlattal rendelkező levéltári könyvtáros |
 
-## felsőfokú végzettséggel rendelkező (fő)restaurátor
+| 4. | Kép- és hangarchívumok: |  |
 
-## felsőfokú végzettséggel rendelkező levéltári könyvtáros
+| 4.1. |  | tudományos kutató |
 
-## Közművelődés:
+| 5. | Közművelődési intézmények: |  |
 
-## Tudományos fokozattal rendelkező munkatárs:
+| 5.1. |  | tudományos fokozattal rendelkező közművelődési szakember I. |
 
-## tudományos kutató
+| 5.2. |  | tudományos kutató |
 
-## Tudományos munkakör csak a megyei és országos közművelődési szakmai tanácsadást, szolgáltatást végző szervezetekben létesíthető.
+3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^90]
 
-3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^59]
-
-[^59]: A 3. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^90]: A 3. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.

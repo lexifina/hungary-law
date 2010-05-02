@@ -1,5 +1,3 @@
-## 10. §[^31]
+## 10. §[^49]
 
-## [A Kjt. 54. § (2) bekezdéséhez]
-
-[^31]: A 10. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte.
+[^49]: A 10. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte. A 10. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § g) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-1. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^57]
+1. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^88]
 
-[^57]: Az 1. számú melléklet a 3/2009. (I. 10.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^88]: Az 1. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

@@ -1,14 +1,13 @@
-## 13. §
+## 13. §[^55]
 
-## A pótszabadságra jogosult tudományos munkatársak és ennél magasabb munkakörű közalkalmazottak jegyzékét a rendelet 2. számú melléklete tartalmazza.
+## [A Kjt. 61. § (1) bekezdéséhez][^56]
 
-## [A Kjt. 61. § (1) bekezdéséhez][^34]
-
-## 14. §[^35]
+## 14. §[^57]
 
 (1) Az egyes fizetési osztályokba tartozó munkaköröket és elnevezésüket az 1. számú melléklet tartalmazza.
 
 (2) A fizetési osztályba való besorolásnál – az (1) bekezdésben foglaltakon túlmenően – az egyes kulturális közalkalmazotti munkakörök betöltéséhez szükséges képesítési és egyéb feltételekről szóló 2/1993. (I. 30.) MKM rendeletet kell alkalmazni.
 
-[^34]: A 14. §-t megelőző jogszabályi hivatkozás a 3/2009. (I. 10.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^35]: A 14. § és a megelőző cím a 16/1997. (I. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^55]: A 13. §-t és az azt megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § j) pontja hatályon kívül helyezte.
+[^56]: A 14. §-t megelőző jogszabályi hivatkozás a 3/2009. (I. 10.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^57]: A 14. § és a megelőző cím a 16/1997. (I. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
