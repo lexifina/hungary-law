@@ -1,0 +1,1 @@
+## „g) a Bizottság 736/2008/EK rendeletét (2008. július 22.) a Szerződés 87. és 88. cikkének a halászati termékek előállításával, feldolgozásával és forgalmazásával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról (HL L 201., 2008. 07. 30., 16–28. o.),”

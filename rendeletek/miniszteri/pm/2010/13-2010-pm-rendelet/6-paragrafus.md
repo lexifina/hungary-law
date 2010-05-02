@@ -1,0 +1,5 @@
+## 5. § Az R. 8/A. § (4) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a 8/A. § a következő (4a) bekezdéssel egészül ki:
+
+## „(4) Nem beruházási célú alapügylet esetében a kezességgel fedezett alapügylet összege nem haladhatja meg a kedvezményezett a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 79. §-a szerint számított 2008. évi személyi jellegű ráfordításainak összegét. Amennyiben a vállalkozást 2008. január 1-én vagy azt követően alapították, az alapügylet összege nem haladhatja meg a kedvezményezett a 2008-ban kezdődő pénzügyi év Sztv. 79. §-a szerint számított személyi jellegű ráfordításai és a 2009-ben kezdődő pénzügyi évére vonatkozóan becsült éves, az Sztv. 79. §-a szerint számított személyi jellegű ráfordításai átlagát.
+
+## (4a) Beruházási célú alapügylet esetében a kezességgel fedezett alapügylet összege nem haladhatja meg a (4) bekezdésben meghatározott összeg és az Európai Unió 27 tagállamának az Európai Közösségek Statisztikai Hivatala által az alapügylet megkötése előtt legutoljára közzétett átlagos havi bérköltségei alapján számított éves összeg közül a nagyobbat.”

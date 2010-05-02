@@ -1,0 +1,1 @@
+## 6. § Az R. 1. § (1) bekezdésében az „a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény (a továbbiakban: Kvt.) előírásaiban szereplő mértékig” szövegrész helyébe az „a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvénynek (a továbbiakban: Kvt.) az Alapítványra és Részvénytársaságra vonatkozó rendelkezéseiben,” szöveg lép.
