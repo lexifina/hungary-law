@@ -1,0 +1,1 @@
+## „(9) Magasabb vezető megbízásához – amennyiben nem a fenntartó a munkáltatói jogkör gyakorlója – szükséges a fenntartó egyetértése is. Nincs szükség ilyen egyetértésre a közgyűjteményi, közművelődési intézmény főosztályvezetőjének megbízása esetében.”
