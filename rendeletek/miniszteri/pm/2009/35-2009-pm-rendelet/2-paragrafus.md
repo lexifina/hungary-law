@@ -1,3 +1,0 @@
-## 1. § Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet (a továbbiakban: Vhr.) 64. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A szervező napi készpénz záró állományának havi szintű átlaga nem haladhatja meg a játékosok számára teljesítendő kifizetésekhez szükséges, a játéktervben meghatározott mértéket. Amennyiben a nyeremény kifizetése a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 63. § (1) bekezdése szerinti fizetési módok szerint történik, a fizetési megbízás közlemény rovatában a „Nyereményigazolás céljára nem alkalmas” szöveget kell feltüntetni.”
