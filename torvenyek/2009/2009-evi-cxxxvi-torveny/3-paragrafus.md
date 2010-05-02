@@ -1,3 +1,0 @@
-3. § Az Sztv. a 24. §-t követően a következő 24/A. §-sal egészül ki:
-
-„24/A. § A közlekedési szabálysértéssel okozott kár kivételével elzárás és pénzbírság alkalmazása esetén a kiszabható büntetési tétel felső határa a felére csökken, ha az eljárás alá vont személy a sértettnek a szabálysértéssel okozott kárt – a szabálysértési hatóság határozatának, illetve a bíróság első fokú határozatának meghozataláig megtérítette.”

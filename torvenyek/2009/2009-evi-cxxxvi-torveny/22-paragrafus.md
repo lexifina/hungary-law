@@ -1,3 +1,0 @@
-22. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 48. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróság a feltételes szabadságot megszünteti, ha az elítéltet az ítélet jogerőre emelkedését megelőzően vagy azt követően elkövetett bűncselekmény miatt a feltételes szabadság alatt végrehajtandó szabadságvesztésre ítélik. A bíróság a feltételes szabadságot megszünteti, ha az elítéltet a feltételes szabadság alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik. Ha az elítéltet egyéb büntetésre ítélik, vagy ha a magatartási szabályokat megszegi, a bíróság a feltételes szabadságot megszüntetheti.”
