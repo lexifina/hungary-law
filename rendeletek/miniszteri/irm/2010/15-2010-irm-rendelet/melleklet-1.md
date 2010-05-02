@@ -1,3 +1,5 @@
+## 4. §[^3]
+
 1. melléklet a 15/2010. (IV. 22.) IRM rendelethez
 
 Egyes alacsonyabb szintű munkáltatói jogkörök, továbbá az ezek gyakorlására feljogosított elöljárók
@@ -51,3 +53,5 @@ Egyes alacsonyabb szintű munkáltatói jogkörök, továbbá az ezek gyakorlás
 | 23. | főtisztet, tisztet, zászlóst és tiszthelyettest | * | * |  |  |
 
 | 24. | bv. gazdálkodó szervhez vezényelt főtisztet, tisztet, zászlóst és tiszthelyettest | * | * |  |  |
+
+[^3]: A 4. § a (2) bekezdés alapján hatályát vesztette.
