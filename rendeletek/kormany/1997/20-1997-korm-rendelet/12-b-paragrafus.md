@@ -1,4 +1,4 @@
-12/B. §[^44] (1) A KIR-ben nyilvántartott közoktatási intézmény azonosítója (a továbbiakban: OM azonosító) hat számjegyből áll. A közoktatási intézménynek egy OM azonosítója lehet. A közoktatási intézmény – jogszabályban meghatározott esetben – hivatalos iratain köteles feltüntetni az OM azonosítót. OM azonosító hiányában az irat érvénytelen. A közoktatási intézmény OM azonosítója, a közérdekű és a közérdekből nyilvános adatai a KIR honlapjáról kinyomtathatók.
+12/B. §[^45] (1) A KIR-ben nyilvántartott közoktatási intézmény azonosítója (a továbbiakban: OM azonosító) hat számjegyből áll. A közoktatási intézménynek egy OM azonosítója lehet. A közoktatási intézmény – jogszabályban meghatározott esetben – hivatalos iratain köteles feltüntetni az OM azonosítót. OM azonosító hiányában az irat érvénytelen. A közoktatási intézmény OM azonosítója, a közérdekű és a közérdekből nyilvános adatai a KIR honlapjáról kinyomtathatók.
 
 (2) Az Oktatási Hivatal a közoktatási intézmény megszüntetésekor, átszervezésekor, nevének megváltoztatásakor, átsorolásakor, átalakításakor, illetve a fenntartói jog átadásakor (a továbbiakban együtt: változás) az OM azonosítóval kapcsolatban a következők szerint jár el:
 
@@ -36,4 +36,4 @@ b) a fenntartó a közoktatási intézmény működtetését egy nevelési évig
 
 (11) Az Oktatási Hivatal a közoktatási intézménytörzs adatai alapján összeállítja a közoktatási intézmények hivatalos jegyzékét, és azt évente egyszer a KIR honlapján közzéteszi.
 
-[^44]: A 12/B. §-t a 273/2000. (XII. 27.) Korm. rendelet 2. §-ának (8) bekezdése iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^45]: A 12/B. §-t a 273/2000. (XII. 27.) Korm. rendelet 2. §-ának (8) bekezdése iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.

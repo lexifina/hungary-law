@@ -20,7 +20,9 @@ b) a működési engedéllyel rendelkező közoktatási intézmény nyilvántart
 
 c) a (2) bekezdés b)–d) pontja szerinti közoktatási intézmény nem közoktatási feladatát engedélyező – jogerősítő záradékkal ellátott – működési engedélyét,
 
-d) a nem helyi önkormányzati fenntartású költségvetési szerv közoktatási intézmény törzskönyvi nyilvántartásba vételéről szóló igazolást.
+d) a nem helyi önkormányzati fenntartású költségvetési szerv közoktatási intézmény törzskönyvi nyilvántartásba vételéről szóló igazolást,
+
+e)[^44] a közoktatási intézmény egységes szerkezetű alapító okiratát.
 
 (4) A helyi önkormányzat, illetve valamely társulási formája által fenntartott közoktatási intézmény alapító okiratát és a törzskönyvi nyilvántartásba vételről szóló igazolást a Magyar Államkincstár fenntartó székhelye szerint illetékes Regionális Igazgatósága (a továbbiakban: Igazgatóság) a bejegyzést követő öt munkanapon belül juttatja el a KIR részére.
 
@@ -36,3 +38,4 @@ d) a nem helyi önkormányzati fenntartású költségvetési szerv közoktatás
 
 [^42]: A 12/A. §-t megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 8. §-a iktatta a szövegbe.
 [^43]: A 12/A. §-t a 196/1999. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^44]: A 12/A. § (3) bekezdés e) pontját a 150/2010. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
