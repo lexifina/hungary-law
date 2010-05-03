@@ -1,1 +1,0 @@
-## „(9) A közoktatási intézmény szakmailag nem önálló tagintézménye vezetőjének megbízása tekintetében az (5) bekezdés a) pontjában és a (6) bekezdésben foglaltakat megfelelően alkalmazni kell. Alkalmazni kell továbbá az 5. § (2), (5) és (14) bekezdésében foglaltakat is.”

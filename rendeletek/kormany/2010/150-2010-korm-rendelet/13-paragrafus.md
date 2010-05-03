@@ -1,1 +1,0 @@
-## „h) felsőfokú közművelődési szakképzettségek: felsőfokú oktatási intézményben szerzett népművelő, közművelődési előadó, művelődésszervező, művelődési menedzser, művelődési (és felnőttképzési) menedzser, andragógus (művelődésszervező szakirány), kulturális mediátor diploma, oklevél.”
