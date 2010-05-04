@@ -12,5 +12,5 @@
 
 (6)[^44]
 
-[^43]: A 35. § (5) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § (1) bekezdés k) pontja szerint módosítottszöveg.
+[^43]: A 35. § (5) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § (1) bekezdés k) pontja szerint módosított szöveg.
 [^44]: A 35. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

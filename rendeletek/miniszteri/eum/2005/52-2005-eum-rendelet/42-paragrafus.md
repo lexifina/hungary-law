@@ -1,6 +1,6 @@
-## 41. §[^56] Az üzletnek a fogyasztók számára nyitva álló helyiségben a gyógyszert úgy kell elhelyezni, hogy az a fogyasztó számára ne legyen közvetlenül hozzáférhető, a zárható szekrényből a fogyasztó csak a gyógyszer-kiskereskedelmi tevékenységet folytató feladatkörében eljáró személy közreműködésével férhessen hozzá. A gyógyszer forgalomba hozatali engedélyében a gyógyszer tárolására az OGYI az üzletre is vonatkozó különleges tárolási feltételeket (pl. fénytől védett, illetve hűvös helyen történő tárolás) határozhat meg.
+## 41. §[^59] Az üzletnek a fogyasztók számára nyitva álló helyiségben a gyógyszert úgy kell elhelyezni, hogy az a fogyasztó számára ne legyen közvetlenül hozzáférhető, a zárható szekrényből a fogyasztó csak a gyógyszer-kiskereskedelmi tevékenységet folytató feladatkörében eljáró személy közreműködésével férhessen hozzá. A gyógyszer forgalomba hozatali engedélyében a gyógyszer tárolására az OGYI az üzletre is vonatkozó különleges tárolási feltételeket (pl. fénytől védett, illetve hűvös helyen történő tárolás) határozhat meg.
 
-42. §[^57] (1) A gyógyszer-kiskereskedelmi tevékenységet folytató üzletnek a gyógyszerkészletéről olyan nyilvántartást kell vezetnie, amelyből a gyógyszerek aktuális készlet- és forgalmi adatai megállapíthatók.
+42. §[^60] (1) A gyógyszer-kiskereskedelmi tevékenységet folytató üzletnek a gyógyszerkészletéről olyan nyilvántartást kell vezetnie, amelyből a gyógyszerek aktuális készlet- és forgalmi adatai megállapíthatók.
 
 (2) Az (1) bekezdés szerinti nyilvántartásnak legalább az alábbi adatokat kell tartalmaznia:
 
@@ -22,5 +22,5 @@ c) a gyógyszert kiszállító nagykereskedő megnevezését.
 
 (3) Gyógyszertáron kívül is forgalmazható gyógyszer ajándékként, mintaként, vásárlásra jogosító utalvány ellenében és egyéb természetbeni rabattként sem közvetlenül, sem közvetett formában a betegnek, fogyasztónak nem forgalmazható, nem adható és nem ajánlható fel.
 
-[^56]: A 41. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
-[^57]: A 42. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
+[^59]: A 41. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
+[^60]: A 42. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
