@@ -1,10 +1,11 @@
 ## Támogatás rendezése
 
-72. § (1)[^46] A KPSZE a felelős vezető által aláírt, a finanszírozási mechanizmus támogatás összegét tartalmazó „Támogatásigénylés a kifizető hatóságtól” bizonylatot és a kapcsolódó dokumentumokat a projektgazda előlegfizetésre vonatkozó kifizetése kérelme esetén közvetlenül, a projekt-előrehaladási jelentés esetén pedig a Nemzeti Kapcsolattartón keresztül küldi meg a kifizető hatóságnak.
+72. § (1)[^86] A Nemzeti Kapcsolattartó a felelős vezető által aláírt, a finanszírozási mechanizmus támogatás összegét tartalmazó „Támogatásigénylés a Kifizető Hatóságtól” bizonylatot és a kapcsolódó dokumentumokat megküldi a Kifizető Hatóságnak.
 
-(2)[^47] A kifizető hatóság a „Támogatásigénylés a kifizető hatóságtól” bizonylat jóváhagyását és az FMI által átutalt támogatások jóváírásáról szóló (bank)számlakivonat kézhezvételét követő 5 munkanapon belül gondoskodik a jóváírt támogatás teljes összegének továbbutalásáról a fejezeti kezelésű előirányzat-felhasználási keretszámla javára projektenkénti bontásban.
+(2)[^87] A Kifizető Hatóság a „Támogatásigénylés a Kifizető Hatóságtól” bizonylat jóváhagyását és az FMI által átutalt támogatások jóváírásáról szóló (bank)számlakivonat kézhezvételét követő 5 munkanapon belül gondoskodik a jóváírt támogatás teljes összegének továbbutalásáról a fejezeti kezelésű előirányzat-felhasználási keretszámla javára projektenkénti bontásban.
 
-(3) A kifizető hatóság csak abban az esetben utalja át az FMI-tól kapott támogatás összegét az előirányzat-felhasználási keretszámlára, ha arról az adott összeget korábban már kifizették.
+(3)[^88] A Kifizető Hatóság csak abban az esetben utalja át az FMI-tól kapott támogatás összegét az előirányzat-felhasználási keretszámlára, ha arról az adott összeget korábban már kifizették.
 
-[^46]: A 72. § (1) bekezdése a 265/2007. (X. 10.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^47]: A 72. § (2) bekezdése a 265/2007. (X. 10.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^86]: A 72. § (1) bekezdése a 155/2010. (V. 4.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^87]: A 72. § (2) bekezdése a 265/2007. (X. 10.) Korm. rendelet 20. §-ával megállapított, a 155/2010. (V. 4.) Korm. rendelet 57. § (4) és (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^88]: A 72. § (3) bekezdése a 155/2010. (V. 4.) Korm. rendelet 57. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

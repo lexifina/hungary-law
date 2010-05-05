@@ -4,9 +4,9 @@
 
 92/I. § (1) A támogatott beruházásnak meg kell felelnie a következő feltételek egyikének:
 
-a) a beruházás a közösségi szabványok túlteljesítése révén lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti szabványok meglététől;
+a)[^120] a beruházás a közösségi szabványok túlteljesítése révén lehetővé teszi a projektgazdát, illetőleg a végső kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti szabványok meglététől;
 
-b) a beruházás lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését a közösségi szabványok hiányában.
+b)[^121] a beruházás lehetővé teszi a projektgazda, illetőleg a végső kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését a közösségi szabványok hiányában.
 
 (2) Nem nyújtható támogatás, ha a tervezett fejlesztések annak biztosítására irányulnak, hogy a társaság megfeleljen a már elfogadott, de még hatályban nem lévő közösségi szabványoknak.
 
@@ -31,3 +31,6 @@ b) ha a vállalkozás olyan nemzeti szabványokhoz igazodik vagy olyanokat telje
 c) szabványok hiányában a támogatható költségek azon beruházási költségek, amelyek szükségesek ahhoz, hogy magasabb környezetvédelmi szintet valósítsanak meg annál, mint amelyet a környezetvédelmi támogatás hiányában az érintett vállalkozás vagy vállalkozások elérnének.
 
 (8) Más vállalkozás hulladékának gazdálkodásával kapcsolatos beruházásokhoz nyújtott támogatás nem mentesülhet e cikk alapján.
+
+[^120]: A 92/I. § (1) bekezdés a) pontja a 155/2010. (V. 4.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^121]: A 92/I. § (1) bekezdés b) pontja a 155/2010. (V. 4.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

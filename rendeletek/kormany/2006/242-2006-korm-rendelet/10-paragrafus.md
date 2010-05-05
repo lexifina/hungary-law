@@ -10,6 +10,6 @@ a) nem kormányzati szervezetek,
 
 b) ösztöndíjprogramok megvalósítása.
 
-(4)[^12]
+(4)[^11]
 
-[^12]: A 10. § (4) bekezdését a 265/2007. (X. 10.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
+[^11]: A 10. § (4) bekezdését a 265/2007. (X. 10.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.

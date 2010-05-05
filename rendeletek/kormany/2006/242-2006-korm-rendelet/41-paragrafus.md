@@ -1,4 +1,4 @@
-41. § (1)[^30] A projektgazda projekt-előrehaladási jelentéseket készít, amelyek a Nemzeti Kapcsolattartó monitoring tevékenységének és a kifizető hatóság lehívási kérelmének alapjául szolgálnak. A projekt-előrehaladási jelentést a támogatási megállapodásban meghatározott végrehajtási ütemezésnek megfelelően kell elkészíteni, és a jelentéseknek legalább három hónapot kell átfogniuk. A projektgazda a projekt-előrehaladási jelentéssel együtt köteles kifizetési kérelmet benyújtani. A projekt-előrehaladási jelentés benyújtásának határideje legkésőbb a végrehajtási ütemezés szerinti beszámolási időszakot követő 30. nap.
+41. § (1)[^50] A projektgazda projekt-előrehaladási jelentéseket készít, amelyek a Nemzeti Kapcsolattartó monitoring tevékenységének és a Kifizető Hatóság lehívási kérelmének alapjául szolgálnak. A projekt-előrehaladási jelentést a végrehajtási szerződésben meghatározott végrehajtási ütemezésnek megfelelően kell elkészíteni, és a jelentéseknek legalább három hónapot kell átfogniuk. A projektgazda a projekt-előrehaladási jelentéssel együtt köteles kifizetési kérelmet benyújtani. A projekt-előrehaladási jelentés benyújtásának határideje legkésőbb a végrehajtási ütemezés szerinti beszámolási időszakot követő 30. nap. Amennyiben a projektgazda a beszámolási időszakot követően kapja meg az aktualizált projekt-előrehaladási jelentést, akkor a kézhezvételtől számított 30 napon belül köteles a projektelőrehaladási jelentést benyújtani.
 
 (2) A projekt-előrehaladási jelentések tartalmazzák
 
@@ -16,4 +16,7 @@ f) az alátámasztó bizonylatok megfelelőségéről szóló könyvvizsgálói 
 
 g) a kifizetési kérelmet.
 
-[^30]: A 41. § (1) bekezdése a 265/2007. (X. 10.) Korm. rendelet 10. §-ával megállapított szöveg.
+h)[^51] a végrehajtási szerződésben megfogalmazott speciális feltételek teljesítését igazoló dokumentumokat.
+
+[^50]: A 41. § (1) bekezdése a 155/2010. (V. 4.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^51]: A 41. § (2) bekezdés h) pontját a 155/2010. (V. 4.) Korm. rendelet 14. § (2) bekezdése iktatta be. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

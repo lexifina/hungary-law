@@ -10,7 +10,7 @@ c) kísérleti fejlesztés.
 
 (2) Abban az esetben, ha egy projekt több feladatot foglal magában, az egyes feladatokat minősíteni kell aszerint, hogy az első albekezdésben felsorolt kutatásfajták valamelyikébe tartoznak-e, vagy nem tartoznak azok egyikébe sem.
 
-(3) A támogatási intenzitást külön kell megállapítani az egyes kedvezményezettekre, ideértve az (5) bekezdés b) pontjának ba) alpontja szerinti együttműködési projektben résztvevőket. Amennyiben olyan kutatási-fejlesztési projekt részesül támogatásban, amely kutatási szervezetek és vállalkozások, együttműködésében valósul meg, az adott projekthez nyújtott közvetlen kormányzati hozzájárulás és – amennyiben támogatásnak minősül – a kutatási szervezetek projekthez nyújtott hozzájárulása nem haladhatja meg az egyes kedvezményezettre alkalmazandó támogatási intenzitást.
+(3)[^125] A támogatási intenzitást külön kell megállapítani az egyes projektgazdára, illetőleg a végső kedvezményezettekre, ideértve az (5) bekezdés b) pontjának ba) alpontja szerinti együttműködési projektben résztvevőket. Amennyiben olyan kutatási-fejlesztési projekt részesül támogatásban, amely kutatási szervezetek és vállalkozások együttműködésében valósul meg, az adott projekthez nyújtott közvetlen kormányzati hozzájárulás és – amennyiben támogatásnak minősül – a kutatási szervezetek projekthez nyújtott hozzájárulása nem haladhatja meg az egyes projektgazdára, illetőleg végső kedvezményezettre alkalmazandó támogatási intenzitást.
 
 (4) A támogatási intenzitás nem haladhatja meg:
 
@@ -57,3 +57,5 @@ e) további általános költségek, amelyek közvetlenül a kutatási projekt e
 f) egyéb működési költségek, beleértve az anyagköltségeket, és hasonló termékek költségeit, amelyek közvetlenül a kutatási tevékenység eredményeként merülnek fel.
 
 (7) Valamennyi elszámolható költségnek a kutatás-fejlesztés adott fajtájához kell kapcsolódnia.
+
+[^125]: A 92/R. § (3) bekezdése a 155/2010. (V. 4.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

@@ -1,16 +1,17 @@
-## 9. Fejezet[^53]
+## 9. Fejezet[^101]
 
-## AZ FMI RÉSZÉRE VEZETETT SZÁMVITELI NYILVÁNTARTÁS, VALAMINT AZ ADATSZOLGÁLTATÁS RENDJE
+## A számviteli nyilvántartás, valamint adatszolgáltatás rendje[^102]
 
-83. § (1) Az FMI, a Nemzeti Kapcsolattartó és az ellenőrzést végző szervezetek részére történő adatszolgáltatást biztosító könyvvezetési, beszámolási és adatszolgáltatási kötelezettségeknek az e rendelet szerinti elkülönített számviteli nyilvántartással kell eleget tenni, amelyet a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: számviteli törvény) foglalt számviteli alapelvek figyelembevételével vezetett, elkülönített, eredményszemléletű kettős könyvviteli nyilvántartásokkal kell biztosítani.
+83. §[^103] (1) Az FMI, a Nemzeti Kapcsolattartó és az ellenőrzést végző szervezetek részére történő adatszolgáltatást biztosító könyvvezetési, beszámolási és adatszolgáltatási kötelezettségeknek az e rendelet szerinti elkülönített számviteli nyilvántartással kell eleget tenni, amelyet a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: számviteli törvény) foglalt számviteli alapelvek figyelembevételével vezetett, elkülönített, eredményszemléletű kettős könyvviteli nyilvántartásokkal kell biztosítani.
 
-(2) Az (1) bekezdés szerinti számviteli nyilvántartást a kifizető hatóságnak és a KPSZE-nek kell vezetnie.
+(2) Az (1) bekezdés szerinti számviteli nyilvántartást a Kifizető Hatóságnak és a Végrehajtó Ügynökségnek kell vezetnie.
 
-(3)[^54] A számviteli nyilvántartás vezetéséhez a kifizető hatóság és a KPSZE – a megfelelő modul rendelkezésre bocsátását követően – az Egységes Információs és Monitoring Rendszert (a továbbiakban: EMIR rendszert) alkalmazzák.
+(3) A számviteli nyilvántartás vezetéséhez a Kifizető Hatóság és a Végrehajtó Ügynökség, a megfelelő modul rendelkezésre bocsátását követően az EMIR-t alkalmazza.
 
-(4) Az EMIR rendszerben mind a követeléseket és azok pénzügyi teljesítését, mind a kötelezettségeket és azok pénzügyi teljesítését projektgazdánként kell kimutatni.
+(4) Az EMIR-ben mind a követeléseket és azok pénzügyi teljesítését, mind a kötelezettségeket és azok pénzügyi teljesítését projektenként kell kimutatni.
 
-(5) A KPSZE és a kifizető hatóság a számviteli nyilvántartás vezetésére vonatkozó közös szabályokról – az egységes beszámolás és adatszolgáltatás érdekében – külön kétoldalú megállapodásban rendelkezik.
+(5) A Végrehajtó Ügynökség és a Kifizető Hatóság a számviteli nyilvántartás vezetésére vonatkozó közös szabályokról – az egységes beszámolás és adatszolgáltatás érdekében – külön kétoldalú megállapodásban rendelkezik.
 
-[^53]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.
-[^54]: A 83. § (3) bekezdése a 265/2007. (X. 10.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^101]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.
+[^102]: A 83. §-t megelőző alcím a 155/2010. (V. 4.) Korm. rendelet 36. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^103]: A 83. § a 155/2010. (V. 4.) Korm. rendelet 36. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

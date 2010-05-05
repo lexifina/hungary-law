@@ -1,9 +1,17 @@
-## 66. §[^40] A 63–64. §-okban említett (bank)számlákhoz kapcsolódó, a Magyar Államkincstár által kiállított (bank)számlakivonatok adatainak naprakész pénzügyi nyilvántartásáról az információtechnológiai rendszerben a (bank)számla felett rendelkező fél gondoskodik.
+## 66. §[^76] A 63–64/A. §-okban említett (bank)számlákhoz kapcsolódó, a Magyar Államkincstár által kiállított (bank)számlakivonatok adatainak naprakész pénzügyi nyilvántartásáról az EMIR-ben a (bank)számla felett rendelkező fél gondoskodik.
 
-## Előlegfizetés és elszámolás a projektgazdával
+## Forráslehívás[^77]
 
-67. § (1) A KPSZE a projektgazdák lehívási kérelme ellenében gondoskodik a végrehajtási szerződésben meghatározott mértékű előleg fejezeti kezelésű előirányzat-felhasználási keretszámláról történő átutalásáról.
+67. §[^78] (1) A Nemzeti Kapcsolattartó biztosítja a támogatás összegének rendelkezésre állását a lebonyolítási bankszámlákon, annak érdekében, hogy a projektgazda támogatásra jogosult számlái vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatai alapján őt megillető támogatás összege, illetve a folyósítandó előleg átutalásra kerüljön.
 
-(2) A Nemzeti Fejlesztési Terv operatív programjai és az EQUAL Közösségi Kezdeményezés Program esetében alkalmazandó biztosítékokkal kapcsolatos szabályokról szóló 54/2005. (III. 26.) Korm. rendelet előlegre és biztosítékokra vonatkozó rendelkezéseit a finanszírozási mechanizmusok végrehajtás során is alkalmazni kell.
+(2) Minden egyes forráslehívási folyamat során a Nemzeti Kapcsolattartó vagy a Végrehajtó Ügynökség összeállítja az EMIR-ben a forráslehívási dokumentációt, amely a rendszerbe korábban bevitt, még le nem hívott támogatásra jogosult kifizetési kérelmek, TA esetében a számlák összesítését jelenti. A forráslehívási dokumentáció elkészültéről a Végrehajtó Ügynökség haladéktalanul tájékoztatja a Nemzeti Kapcsolattartót. Az elektronikusan összeállított forráslehívási dokumentációt a Végrehajtó Ügynökség kinyomtatja és aláírja. A Nemzeti Kapcsolattartó a Végrehajtó Ügynökség elektronikus értesítése és elektronikus dokumentációja vagy a benyújtott, nyomtatott dokumentáció alapján jóváhagyja a forráslehívást. Amennyiben a jóváhagyás a Végrehajtó Ügynökség elektronikus értesítése, elektronikus dokumentációja alapján történik, a forráslehívási dokumentációt a Nemzeti Kapcsolattartó jóváhagyását követően ki kell nyomtatni, aláírással kell igazolni.
 
-[^40]: A 66. § a 265/2007. (X. 10.) Korm. rendelet 28. § (3) bekezdése szerint módosított szöveg.
+(3) A forráslehívási dokumentáció benyújtását követő 5 munkanapon belül a Nemzeti Kapcsolattartó intézkedik a jóváhagyott támogatási összeg előirányzat-felhasználási keretszámláról az adott lebonyolítási számlára történő utalásáról.
+
+(4) A forráslehívás jóváhagyása után a fejezeti kezelésű előirányzat-felhasználási keretszámláról csak akkor lehet átutalást kezdeményezni, ha az adatok az EMIR-ben rögzítésre és jóváhagyásra kerültek.
+
+(5) Amennyiben az EMIR nem biztosítja a forráslehívás elkészítését, akkor az érintett felelős szervezet működési kézikönyvében részletezett megfelelő dokumentáltság mellett annak elkészítése az EMIR-en kívül is papír alapon rendezhető. Ez esetben az érintett szerveknek biztosítaniuk kell az EMIR-en kívüli forráslehívás dokumentálásának alátámasztását.
+
+[^76]: A 66. § a 155/2010. (V. 4.) Korm. rendelet 26. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^77]: A 67. §-t megelőző alcím a 155/2010. (V. 4.) Korm. rendelet 27. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^78]: A 67. § a 155/2010. (V. 4.) Korm. rendelet 27. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

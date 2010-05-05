@@ -1,4 +1,4 @@
-## 11. Fejezet[^56]
+## 11. Fejezet[^112]
 
 ## Alkalmazandó állami támogatási és a rendezett munkaügyi kapcsolatokkal összefüggő szabályok
 
@@ -22,6 +22,7 @@ g) csekély összegű támogatások esetében az Európai Közösséget létreho
 
 h) közszolgáltatások finanszírozása esetén támogatás az EK Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában nyújtott állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat szabályaival, valamint e rendelet 92/Z. §-ában foglaltakkal összhangban nyújtható.
 
-(3) A kedvezményezetteknek és a támogatást nyújtó szervnek a támogatás igénylését, felhasználását, ellenőrzését alátámasztó bizonylatokat, dokumentumokat és nyilvántartásokat, valamint minden olyan nyilvántartást, amely az elszámolható költségeket és a megengedhető maximális támogatási intenzitás betartására vonatkozó információkat tartalmazza, a támogatás odaítélésétől számított 10 évig –, illetve amennyiben más jogszabály ennél hosszabb megőrzési időt rendel, annak megfelelő ideig – meg kell őrizniük. Írásbeli kérelemre az érintett tagállam 20 munkanapon belül vagy a kérelemben meghatározott ennél hosszabb időtartamon belül minden olyan információról tájékoztatást nyújt a Bizottság részére, amelyet a Bizottság szükségesnek tart e rendelet alkalmazásának ellenőrzéséhez.
+(3)[^113] A projektgazdának, a végső kedvezményezetteknek és a támogatást nyújtó szervnek a támogatás igénylését, felhasználását, ellenőrzését alátámasztó bizonylatokat, dokumentumokat és nyilvántartásokat, valamint minden olyan nyilvántartást, amely az elszámolható költségeket és a megengedhető maximális támogatási intenzitás betartására vonatkozó információkat tartalmazza, a támogatás odaítélésétől számított 10 évig – illetve amennyiben más jogszabály ennél hosszabb megőrzési időt rendel, annak megfelelő ideig – meg kell őrizniük. Írásbeli kérelemre az érintett tagállam 20 munkanapon belül vagy a kérelemben meghatározott ennél hosszabb időtartamon belül minden olyan információról tájékoztatást nyújt a Bizottság részére, amelyet a Bizottság szükségesnek tart e rendelet alkalmazásának ellenőrzéséhez.
 
-[^56]: A 11. Fejezet számozása a Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg. A 11. Fejezet (92–93. §) a 97/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^112]: A 11. Fejezet számozása a Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg. A 11. Fejezet (92–93. §) a 97/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^113]: A 92. § (3) bekezdése a 155/2010. (V. 4.) Korm. rendelet 41. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

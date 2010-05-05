@@ -1,3 +1,3 @@
-## 38. §[^29] A projektgazda biztosítja, hogy a KPSZE a közbeszerzési ajánlatok bontása és bírálata során megfigyelőként jelen lehessen. A KPSZE megfigyelője a bírálat menetéről jelentést készít a KPSZE vezetője számára, a jelentést egyidejűleg a projektgazdának is megküldi.
+## 38. §[^46] A projektgazda, illetőleg a partner biztosítja, hogy a Végrehajtó Ügynökség a közbeszerzési ajánlatok bontása és bírálata során megfigyelőként jelen lehessen. A Végrehajtó Ügynökség megfigyelője a bírálat menetéről jelentést készít a Végrehajtó Ügynökség vezetője számára, a jelentést egyidejűleg a projektgazdának is megküldi.
 
-[^29]: A 38. § a 265/2007. (X. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^46]: A 38. § a 155/2010. (V. 4.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

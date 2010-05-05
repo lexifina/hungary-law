@@ -6,29 +6,35 @@
 
 34. § (1) A finanszírozási mechanizmusok végrehajtásában részt vevő intézmények az együttműködési megállapodásokban foglalt feladataikat a következő tevékenységeken keresztül látják el.
 
-(2) A Nemzeti Kapcsolattartó
+(2)[^36] A Nemzeti Kapcsolattartó
 
 a) megköti a támogatási megállapodásokat,
 
 b) ellenjegyzi a végrehajtási szerződést,
 
-c) a 27. § (4) bekezdésével összhangban továbbítja a KPSZE által előzetesen ellenőrzött szerződésmódosítási kérelmeket az FMI részére,
+c) a 27. § (4) bekezdésével összhangban továbbíthatja a Végrehajtó Ügynökség által előzetesen ellenőrzött szerződésmódosítási kérelmeket az FMI részére,
 
-d) jóváhagyja a projekt-előrehaladási jelentést,
+d) jóváhagyja a 40. § (1) bekezdésben felsorolt jelentéseket,
 
-e) megszervezi és vezeti a monitoring bizottsági üléseket,
+e) a projektzáró jelentésben összefoglalót készít a projektről,
 
-f) véglegesíti az éves jelentést és benyújtja az FMI részére,
+f) megszervezi és vezeti a monitoring bizottsági üléseket,
 
-g) megrendezi és elnökli az éves megbeszéléseket,
+g) véglegesíti az Éves Jelentést és benyújtja az FMI részére,
 
-h) elkészíti a finanszírozási mechanizmusokra vonatkozó költségvetési előirányzat tervezetét,
+h) megrendezi és elnököli az éves megbeszéléseket,
 
-i)[^22] a finanszírozási mechanizmusokra vonatkozóan információtechnológiai rendszert (a továbbiakban: információtechnológiai rendszer) fejlesztet és működtet.
+i) elkészíti a finanszírozási mechanizmusokra vonatkozó költségvetési előirányzat tervezetét,
 
-(3) A KPSZE
+j) a finanszírozási mechanizmusokra vonatkozóan az Egységes Monitoring Információs Rendszerben (a továbbiakban: EMIR) modulokat fejlesztet és működtet,
 
-a)[^23] előkészíti a végrehajtási szerződéseket,
+k) biztosítja a kifizetendő támogatás összegének rendelkezésre állását a lebonyolítási forint bankszámlákon, annak érdekében, hogy a projektgazda jóváhagyott kifizetési igénylése alapján a támogatás összege, illetve a folyósítandó előleg átutalásra kerüljön,
+
+l) TA projekt esetében ellátja a szakmai teljesítésigazolást.
+
+(3)[^37] A Végrehajtó Ügynökség
+
+a)[^38] előkészíti a végrehajtási szerződéseket,
 
 b) a projektgazdával megköti a végrehajtási szerződést,
 
@@ -52,26 +58,29 @@ k) adatot szolgáltat az éves monitoring jelentéshez,
 
 l) kifizeti a projektgazdáknak a végrehajtási megállapodásban meghatározott mértékű előlegeket, valamint a támogatások összegét a projektekre benyújtott elszámolások alapján,
 
-m)[^24] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a közös eljárásrend szerinti dokumentumokat,
+m)[^39] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a szükséges dokumentumokat,
 
-n)[^25] részt vesz az információtechnológiai rendszer vonatkozó moduljának fejlesztésében és adatokkal való folyamatos feltöltésében,
+n)[^40] részt vesz az EMIR vonatkozó moduljának fejlesztésében és adatokkal való folyamatos feltöltésében,
 
 o) vezeti a finanszírozási mechanizmusokra vonatkozó, a 83–86. §-ok szerinti számviteli nyilvántartásait.
 
-(4) A kifizető hatóság
+(4)[^41] A Kifizető Hatóság
 
 a) számlát nyit a Magyar Államkincstárban az FMI által átutalt támogatások fogadására és visszafizetésére finanszírozási mechanizmusonkénti bontásban,
 
-b)[^26] intézkedik az FMI által átutalt támogatások fejezeti kezelésű előirányzat-felhasználási keretszámlára történő továbbutalásáról,
+b)[^42] intézkedik az FMI által átutalt támogatások fejezeti kezelésű előirányzat-felhasználási keretszámlára történő továbbutalásáról,
 
-c) igazolja a KPSZE által benyújtott elszámolásokat és továbbítja azokat az FMI részére,
+c)[^43] igazolja a Nemzeti Kapcsolattartó által benyújtott elszámolásokat és továbbítja azokat az FMI részére,
 
 d) vezeti a finanszírozási mechanizmusokra vonatkozó, 83–86. §-ok szerinti számviteli nyilvántartásait,
 
 e) ellenőrzi a pénzügyi lebonyolítás menetét.
 
-[^22]: A 34. § (2) bekezdésének i) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^23]: A 34. § (3) bekezdésének a) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^24]: A 34. § (3) bekezdésének m) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^25]: A 34. § (3) bekezdésének n) pontja a 265/2007. (X. 10.) Korm. rendelet 28. § (3) bekezdése szerint módosított szöveg.
-[^26]: A 34. § (4) bekezdésének b) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^36]: A 34. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^37]: A 34. § (3) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 57. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a rendelkezést a folyamatban levő ügyekre is alkalmazni kell.
+[^38]: A 34. § (3) bekezdésének a) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^39]: A 34. § (3) bekezdés m) pontja a 155/2010. (V. 4.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^40]: A 34. § (3) bekezdésének n) pontja a 265/2007. (X. 10.) Korm. rendelet 28. § (3) bekezdése, a 155/2010. (V. 4.) Korm. rendelet 57. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^41]: A 34. § (4) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 57. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^42]: A 34. § (4) bekezdésének b) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^43]: A 34. § (4) bekezdés c) pontja a 155/2010. (V. 4.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

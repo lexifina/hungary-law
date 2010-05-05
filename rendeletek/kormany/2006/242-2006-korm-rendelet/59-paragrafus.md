@@ -1,6 +1,4 @@
-## 58. § A technikai segítségnyújtási keretre történő pályázást a lebonyolításban részt vevő intézmények összehangolják. A technikai segítségnyújtásként elszámolható kiadások az 59. § (1) bekezdése szerinti költségvetési előirányzat terhére teljesíthetők. Az előirányzatról csak olyan kiadások finanszírozhatók, amelyek az érintett költségvetési fejezetek intézményi előirányzatairól nem részesülnek, illetve nem részesülhetnek támogatásban.
-
-## 5. Fejezet[^38]
+## 5. Fejezet[^69]
 
 ## A KÖLTSÉGVETÉSI TERVEZÉS RENDJE
 
@@ -8,4 +6,4 @@
 
 (2) A nem központi költségvetési szerv projektgazdák esetén kizárólag a finanszírozási mechanizmusokból származó támogatásokat kell a költségvetésben megjeleníteni.
 
-[^38]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.
+[^69]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.

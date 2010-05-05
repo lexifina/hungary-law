@@ -1,4 +1,4 @@
-## 39. § Amennyiben a KPSZE megfigyelője eljárásrendi szabálytalanságot észlel, ezt jelentésében jelzi a KPSZE vezetőjének és a közbeszerzési bíráló bizottság elnökének.
+## 39. §[^47] Amennyiben a Végrehajtó Ügynökség megfigyelője eljárásrendi szabálytalanságot észlel, ezt jelentésében jelzi a Végrehajtó Ügynökség vezetőjének és a közbeszerzési bíráló bizottság elnökének.
 
 ## Jelentéstétel és monitoring
 
@@ -6,10 +6,14 @@
 
 a) projekt-előrehaladási jelentés,
 
-b) éves projektjelentés,
+b)[^48] kibővített projekt-előrehaladási jelentés,
 
 c) projektzáró jelentés.
 
-(2) A jelentéstételi kötelezettség kezdő időpontja minden projekt esetében a kötelezettségvállalás, azaz a támogatási megállapodás hatálybalépésének időpontja.
+(2)[^49] A jelentéstételi kötelezettség kezdő időpontja minden projekt esetében a támogatási ajánlatban meghatározott időpont.
 
 (3) A jelentéseket az FMI által meghatározott formátumban kell elkészíteni.
+
+[^47]: A 39. § a 155/2010. (V. 4.) Korm. rendelet 57. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a rendelkezést a folyamatban levő ügyekre is alkalmazni kell.
+[^48]: A 40. § (1) bekezdés b) pontja a 155/2010. (V. 4.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^49]: A 40. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
