@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2010-01-13 | 2009. évi CXXXVI. törvény | 1998-19-00-00.37 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1998-19-00-00.38 |
 | 2010-05-01 | 2009. évi CXXXVI. törvény | 1998-19-00-00.39 |
+| 2010-05-05 | 56/2010. (V. 5.) AB határozat | 1998-19-00-00.40 |
