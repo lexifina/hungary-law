@@ -1,0 +1,3 @@
+## 48. § Az R. 92/R. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A támogatási intenzitást külön kell megállapítani az egyes projektgazdára, illetőleg a végső kedvezményezettekre, ideértve az (5) bekezdés b) pontjának ba) alpontja szerinti együttműködési projektben résztvevőket. Amennyiben olyan kutatási-fejlesztési projekt részesül támogatásban, amely kutatási szervezetek és vállalkozások együttműködésében valósul meg, az adott projekthez nyújtott közvetlen kormányzati hozzájárulás és – amennyiben támogatásnak minősül – a kutatási szervezetek projekthez nyújtott hozzájárulása nem haladhatja meg az egyes projektgazdára, illetőleg végső kedvezményezettre alkalmazandó támogatási intenzitást.”

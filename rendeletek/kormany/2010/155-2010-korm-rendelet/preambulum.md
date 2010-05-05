@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdésének a)–b) pontjaiban megállapított feladatkörében eljárva, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdésének v) pontjában kapott felhatalmazás alapján a következőket rendeli el:
