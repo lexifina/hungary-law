@@ -1,0 +1,5 @@
+36. § (1) Az Fttv. 16. § (4) bekezdésében foglalt rendelkezés alapján az állami alapadatok felhasználásával végzett – legalább egy felmérési tömb vagy egy közterületi földrészlet területét érintő – tervezési célú térképek készítése esetén a közterületi földrészletek főbb töréspontjaira ellenőrző mérést kell végezni, a földrészletek természetbeni és jogi határvonala közötti eltérések feltárása érdekében.
+
+(2) Az ellenőrző mérések eredményét a határpontokat tartalmazó vektoros adatállományban vagy pontszámokkal beazonosítható koordináta jegyzékben elektronikus dokumentum formában, valamint az ellenőrző pontmeghatározás mérési adatait elektronikus formában kell a földhivatalnak átadni. Az ellenőrzések eredményét tartalmazó munkarészek kísérő bizonylattal együtt elektronikus levél formájában is benyújthatók a földhivatalhoz.
+
+(3) Az átadott munkarészeket a földhivatal nem záradékolja, az állami alapadatok ellenőrző mérése során meghatározott koordinátákat településenkénti bontásban, az állami alapadatoktól elkülönítve tárolja.

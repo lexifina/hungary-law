@@ -1,0 +1,3 @@
+25. § (1) Felmérési, térképezési és területszámítási hiba kijavításához készített változási vázrajz esetén a változás előtti és utáni területösszegek eltérhetnek. Ezekben az esetekben a közigazgatási egység területelszámolását el kell készíteni.
+
+(2) A területszámítás során a változással meghatározott vonalpontot töréspontként kell kezelni. A vonalponttal érintett, de egyébként nem változó földrészleteket geometriai változással érintett objektumnak kell tekinteni. A területszámításba az ilyen alakzatot is be kell vonni. A változási vázrajz területkimutatásába ezeket a földrészleteket nem kell felvenni.

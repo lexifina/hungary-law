@@ -1,0 +1,3 @@
+62. § (1) Ha a határvonalak azonosítása során egy közigazgatási egység teljes belterületi vagy különleges külterületi fekvését lefedő ingatlan-nyilvántartási térképi adatbázis alapján a földrészlet határok jelentős részénél a 1. vagy a 2. melléklet táblázataiban megadott értékeket lényegesen meghaladó eltérések állapíthatók meg, akkor a megyei földhivatallal egyezetett műszaki, technológiai megoldást kell alkalmazni mindaddig, amíg az érintett közigazgatási egység vagy fekvés újfelmérése nem történik meg.
+
+(2) A megyei földhivatalnak a technológiai eljárás kialakítása során figyelembe kell vennie a változási vázrajz készítésének célját, valamint az ellentmondások feloldására alkalmazható – gazdaságosan és rövid átfutási idő alatt elvégezhető – műszaki megoldásokat.
