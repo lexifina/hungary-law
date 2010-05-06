@@ -1,6 +1,6 @@
 ## 2. § A megbízott képesítési feltétele:
 
-a)[^1] a környezetvédelmi megbízott alkalmazásának feltételéhez kötött környezethasználatok meghatározásáról szóló 93/1996. (VII. 4.) Korm. rendelet (a továbbiakban: R.) melléklete A) csoportba sorolt tevékenységek esetén
+a)[^2] a környezetvédelmi megbízott alkalmazásának feltételéhez kötött környezethasználatok meghatározásáról szóló 93/1996. (VII. 4.) Korm. rendelet (a továbbiakban: R.) melléklete A) csoportba sorolt tevékenységek esetén
 
 – környezetmérnöki képesítés; vagy
 
@@ -12,9 +12,9 @@ a)[^1] a környezetvédelmi megbízott alkalmazásának feltételéhez kötött 
 
 – környezet és hidrotechnológus (OKJ-szám: 54 5470 01) képesítés;
 
-b)[^2]
+b)[^3]
 
-c)[^3] az R. mellékletében a B) csoportba sorolt tevékenységek esetén legalább az alább felsorolt középfokú környezetvédelmi képesítések valamelyike:
+c)[^4] az R. mellékletében a B) csoportba sorolt tevékenységek esetén legalább az alább felsorolt középfokú környezetvédelmi képesítések valamelyike:
 
 – környezetvédelmi szakelőadó (OKJ-szám: 53 5470 03),
 
@@ -34,6 +34,6 @@ c)[^3] az R. mellékletében a B) csoportba sorolt tevékenységek esetén legal
 
 – közlekedésépítő, környezetvédő technikus (OKJ-szám: 52 5832 03),
 
-[^1]: A 2. § a) pontja a 8/2000. (V. 18.) KöM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^2]: A 2. § b) pontját a 2/2001. (I. 11.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
-[^3]: A 2. § c) pontja a 8/2000. (V. 18.) KöM rendelet 1. §-ának (3) bekezdésével megállapított szöveg.
+[^2]: A 2. § a) pontja a 8/2000. (V. 18.) KöM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^3]: A 2. § b) pontját a 2/2001. (I. 11.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § c) pontja a 8/2000. (V. 18.) KöM rendelet 1. §-ának (3) bekezdésével megállapított szöveg.
