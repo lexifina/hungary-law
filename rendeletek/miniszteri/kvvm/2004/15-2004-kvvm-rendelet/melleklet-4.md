@@ -1022,7 +1022,7 @@
 
 ## …………………………………………………………………………………………………
 
-4. számú melléklet a 15/2004. (X. 8.) KvVM rendelethez[^12]
+4. számú melléklet a 15/2004. (X. 8.) KvVM rendelethez[^13]
 
 Adatlapok az átvevő adatszolgáltatási kötelezettségének teljesítéséhez
 
@@ -1164,4 +1164,4 @@ P. H.
 
 cégszerű aláírás
 
-[^12]: A 4. számú melléklet a 28/2008. (XII. 10.) KvVM rendelet 4. § (1)–(2) bekezdése szerint módosított szöveg.
+[^13]: A 4. számú melléklet a 28/2008. (XII. 10.) KvVM rendelet 4. § (1)–(2) bekezdése szerint módosított szöveg.

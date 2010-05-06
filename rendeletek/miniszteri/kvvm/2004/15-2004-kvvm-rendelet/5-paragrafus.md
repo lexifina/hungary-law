@@ -1,6 +1,6 @@
-5. § (1) Az adatszolgáltatás nyomtatványon vagy elektronikus úton, a külön jogszabályban[^4] meghatározottak szerinti minősített elektronikus aláírással ellátott elektronikus okirat útján teljesíthető.
+5. § (1) Az adatszolgáltatás nyomtatványon vagy elektronikus úton, a külön jogszabályban[^5] meghatározottak szerinti minősített elektronikus aláírással ellátott elektronikus okirat útján teljesíthető.
 
-(2)[^5] Az e rendeletben foglaltaknak nem megfelelő adatot szolgáltató kötelezettet a Főfelügyelőség az adatszolgáltatás legfeljebb harminc napon belüli helyesbítésére szólítja fel.
+(2)[^6] Az e rendeletben foglaltaknak nem megfelelő adatot szolgáltató kötelezettet a Főfelügyelőség az adatszolgáltatás legfeljebb harminc napon belüli helyesbítésére szólítja fel.
 
-[^4]: Az elektronikus aláírásról szóló 2001. évi XXXV. törvény.
-[^5]: Az 5. § (2) bekezdése a 26/2005. (XI. 4.) KvVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az elektronikus aláírásról szóló 2001. évi XXXV. törvény.
+[^6]: Az 5. § (2) bekezdése a 26/2005. (XI. 4.) KvVM rendelet 1. § (1) bekezdésével megállapított szöveg.

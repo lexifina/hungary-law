@@ -2,7 +2,7 @@
 
 ## A gyártó adatszolgáltatási kötelezettsége
 
-4. § (1) A gyártó – a külön jogszabályban foglaltakon túl – az Országos Környezet- és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) számára adatot szolgáltat:
+4. § (1)[^4] A gyártó – a külön jogszabályban foglaltakon túl – az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) számára adatot szolgáltat:
 
 a) a tárgyév január 31. napjáig az előző évben a Magyar Köztársaságban forgalomba hozott elektromos berendezés mennyiségéről, a tárgyévben várható mennyiségéről tömeg és darabszám tekintetében, berendezéskategóriánként,
 
@@ -23,3 +23,5 @@ b) tárgyév február 20. napjáig arról, hogy mely gyártókkal, milyen mennyi
 (4) Az átvevő adatszolgáltatási kötelezettségét az e rendelet 4. számú mellékletében foglalt adatlapokon teljesíti.
 
 (5) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési megfigyelési adataival való egyezésért az adatszolgáltatásra kötelezett felel.
+
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés h) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

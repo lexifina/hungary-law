@@ -6,7 +6,7 @@
 
 ## – higanyt tartalmazó komponensek mint például kapcsolók, háttérvilágítást biztosító lámpák;
 
-## –[^10] az elemek és akkumulátorok visszavételéről szóló külön jogszabály hatálya alá tartozó elemek, illetve akkumulátorok;
+## –[^11] az elemek és akkumulátorok visszavételéről szóló külön jogszabály hatálya alá tartozó elemek, illetve akkumulátorok;
 
 ## – a mobiltelefonok nyomtatott áramkörei általánosan, illetve egyéb eszközök nyomtatott áramkörei, amennyiben a nyomtatott áramköri lap nagyobb, mint 10 cm2;
 
@@ -44,4 +44,4 @@
 
 2. számú melléklet a 15/2004. (X. 8.) KvVM rendelethez
 
-[^10]: Az 1. számú melléklet 1. pontjának harmadik franciabekezdése a 21/2008. (VIII. 30.) KvVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1. számú melléklet 1. pontjának harmadik franciabekezdése a 21/2008. (VIII. 30.) KvVM rendelet 10. § (1) bekezdésével megállapított szöveg.
