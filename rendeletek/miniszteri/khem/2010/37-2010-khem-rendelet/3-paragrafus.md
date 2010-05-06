@@ -1,0 +1,1 @@
+## „(6) A katonai légügyi hatóság az (5) bekezdésben foglalt adatokat – közzététel céljából – a légtér működésének megkezdése előtt legkésőbb 7 nappal megküldi a légiforgalmi tájékoztató szolgálatnak.”
