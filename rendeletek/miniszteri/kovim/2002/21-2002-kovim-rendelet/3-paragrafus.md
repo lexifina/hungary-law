@@ -2,7 +2,7 @@
 
 3. § (1) Az ivóvíz-szolgáltató mű (a továbbiakban: vízmű) szakszerű és biztonságos üzemeltetésével kapcsolatos műszaki, technológiai, biztonságtechnikai és közegészségügyi előírásokat, továbbá az egyes tevékenységek gyakorlásának személyi feltételeit üzemeltetési szabályzatban kell meghatározni.
 
-(2)[^2] Az üzemeltetési szabályzatot és az üzemeltetési utasítást a területileg illetékes vízügyi felügyelet (a továbbiakban: vízügyi hatóság), illetve az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) területileg illetékes megyei intézetének előzetes egyetértésével az üzemeltető készíti el.
+(2)[^2] Az üzemeltetési szabályzatot és az üzemeltetési utasítást az üzemeltető készíti el.
 
 (3) Az üzemeltetési szabályzat tartalmazza különösen
 
@@ -30,4 +30,4 @@ b) a vizsgálandó fizikai, kémiai és biológiai összetevők,
 
 c) a vizsgálandó minták száma
 
-[^2]: A 3. § (2) bekezdése az 1/2004. (II. 6.) KvVM rendelet 13. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése az 1/2004. (II. 6.) KvVM rendelet 13. §-a, a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés l) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

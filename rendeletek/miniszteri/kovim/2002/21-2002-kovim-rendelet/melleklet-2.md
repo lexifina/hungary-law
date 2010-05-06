@@ -152,6 +152,6 @@
 
 ## Továbbá az egyenértékűnek minősülő képesítések.
 
-2. számú melléklet a 21/2002. (IV. 25.) KöViM rendelethez[^20]
+2. számú melléklet a 21/2002. (IV. 25.) KöViM rendelethez[^25]
 
-[^20]: A 2. számú mellékletet a 165/2004. (V. 21.) Korm. rendelet 3. §-ának c) pontja hatályon kívül helyezte.
+[^25]: A 2. számú mellékletet a 165/2004. (V. 21.) Korm. rendelet 3. §-ának c) pontja hatályon kívül helyezte.

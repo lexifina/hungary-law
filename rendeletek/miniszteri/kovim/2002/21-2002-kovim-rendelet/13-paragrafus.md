@@ -1,9 +1,5 @@
 13. § (1) A víziközművek üzemeltetésének követelményeire vonatkozó szabályok megtartását a közmű helye szerint illetékes vízügyi hatóság ellenőrzi.
 
-(2) Jogszabállyal vagy hatósági előírással ellentétes üzemelés esetén – az ellenőrzés megállapításaitól függően – a vízügyi hatóság köteles:
+(2)[^20]
 
-a) az ellenőrzés eredményéről az üzemeltetőt, valamint a víziközmű tulajdonosát tájékoztatni, egyidejűleg felhívni a hiányosságok megszüntetésére;
-
-b) a hatáskörébe tartozó ügyben – különösen a vízjogi engedély felülvizsgálatával, módosításával vagy visszavonásával kapcsolatos, illetve hivatalból indított egyéb eljárásban – hatósági jogkörét gyakorolni;
-
-c) a feltárt hiányosság jellege szerint hatáskörrel rendelkező más szervet megkeresni.
+[^20]: A 13. § (2) bekezdését a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés l) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -2,7 +2,7 @@
 
 (2) A közüzemi ivóvíz-szolgáltatáshoz szükséges üzemviteli laboratóriumi vizsgálatokról az üzemeltető saját vagy megbízott laboratórium útján gondoskodik.
 
-(3) A minőség-ellenőrzést szolgáló vizsgálatok végzésére csak a külön jogszabály[^10] szerint alkalmasnak elfogadott laboratórium jogosult.
+(3) A minőség-ellenőrzést szolgáló vizsgálatok végzésére csak a külön jogszabály[^11] szerint alkalmasnak elfogadott laboratórium jogosult.
 
 (4) Saját laboratórium esetén a vizsgálatok tárgyi feltételeinek biztosításáról, így legalább két laboratóriumi helyiség kialakításáról, az előírt műszerek, felszerelések meglétéről, a vizsgálatot végző személyek számára a vonatkozó műszaki előírások hozzáférhetőségéről az üzemeltetőnek gondoskodnia kell.
 
@@ -10,4 +10,4 @@
 
 (6) Saját laboratórium esetén üzemeltetőnek a laboratóriumi munka megbízhatóságának ellenőrzésére olyan belső vizsgálati rendszert kell működtetnie, amely alkalmas a vizsgálati minták azonosítására, a vizsgálati módszerek belső ellenőrzésére, az eszközök és műszerek karbantartásának, továbbá a vizsgálati eredményeknek az ellenőrzésére és nyilvántartására. A rendszer működtetéséért a laboratórium vezetője a felelős.
 
-[^10]: 201/2001. (X. 25.) Korm. r. az ivóvíz minőségi követelményeiről és ellenőrzési rendjéről 10. § (10) bekezdése.
+[^11]: 201/2001. (X. 25.) Korm. r. az ivóvíz minőségi követelményeiről és ellenőrzési rendjéről 10. § (10) bekezdése.

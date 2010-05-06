@@ -1,7 +1,9 @@
 5. § (1) A vízmű üzemeltetője gondoskodik arról, hogy a víz termelését, kezelését, szállítását szolgáló építmények, műtárgyak, gépészeti, elektromos, irányítástechnikai berendezések, vízminőség-ellenőrző műszerek rendeltetésszerűen és szakszerűen működjenek, a vízbázis vizét és a már kitermelt vizet szennyeződés ne érje, valamint, hogy a szolgáltatott (felhasználásra kerülő) víz minősége megfeleljen a közegészségügyi előírásoknak, az ivóvízminőségű vízre vonatkozó jogszabályokban előírt fizikai, kémiai, biológiai, bakteriológiai követelményeknek.
 
-(2) Ha a vízminőség nem felel meg az (1) bekezdésben megjelölt követelményeknek, erről az üzemeltető – az üzemeltetési szabályzatban előírt módon – haladéktalanul értesíti a fogyasztókat, az érintett önkormányzatot (önkormányzatokat) és a vízügyi hatóságot, továbbá az ÁNTSZ illetékes megyei intézetét is, amely az üzemeltetés további feltételeiről határoz.
+(2)[^3] Ha a vízminőség nem felel meg az (1) bekezdésben megjelölt követelményeknek, erről az üzemeltető – az üzemeltetési szabályzatban előírt módon – haladéktalanul értesíti a fogyasztókat, az érintett önkormányzatot (önkormányzatokat) és a vízügyi hatóságot, továbbá az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) illetékes megyei intézetét, amely dönt az üzemeltetés további feltételeiről.
 
 (3) Ha a víz minőségének megváltozása műszaki hibát valószínűsít, akkor azt haladéktalanul meg kell állapítani, és egyidejűleg a hibaelhárítást meg kell kezdeni.
 
 (4) A hiba elhárítása után csak akkor szabad a vízművet (annak érintett egységét) üzembe helyezni, ha a vízjogi engedélyben, illetve más rendelkezésekben meghatározott feltételek maradéktalanul teljesülnek. Ha a víz szennyezettsége (fertőzöttsége) valószínűsíthető, az ÁNTSZ az újbóli üzembe helyezés feltételéül szabhatja a vízminőségellenőrző vizsgálatok kedvező eredményét.
+
+[^3]: Az 5. § (2) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés f) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

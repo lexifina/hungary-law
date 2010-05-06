@@ -64,9 +64,9 @@
 
 ## kémiai oxigénigény (KOIps) mg/l
 
-## összes cianid[^21] μg/l
+## összes cianid[^26] μg/l
 
-## arzén[^22] μg/l
+## arzén[^27] μg/l
 
 ## Kiegészítő kémiai vizsgálatok K
 
@@ -320,5 +320,5 @@ _______
 
 A **-gal jelölt komponens csak az időszakosan termeltetett kutak, esetén vizsgálandók.
 
-[^21]: Csak akkor kell mérni, ha a szolgáltatott vízben kimutatható.
-[^22]: Csak akkor kell mérni, ha a kevert (szolgáltatott) vízben külön jogszabály szerinti 10 μg/l vagy 50 μg/l határértéket meghaladó érték az előző két évben előfordult.
+[^26]: Csak akkor kell mérni, ha a szolgáltatott vízben kimutatható.
+[^27]: Csak akkor kell mérni, ha a kevert (szolgáltatott) vízben külön jogszabály szerinti 10 μg/l vagy 50 μg/l határértéket meghaladó érték az előző két évben előfordult.
