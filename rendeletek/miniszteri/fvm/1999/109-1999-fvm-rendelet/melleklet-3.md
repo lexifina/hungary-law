@@ -94,7 +94,7 @@
 
 | . |  |  |  |  |  |  |  |  |  |  |
 
-3. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^112]
+3. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^113]
 
 ## Kérelem tulajdoni lap másolat szolgáltatása iránt
 
@@ -122,4 +122,4 @@ III. Költségviselő adatai
 
 IV.  A kérelemmel érintett ingatlan(ok) megjelölése
 
-[^112]: A 3. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 3. számú melléklete iktatta be, szövege a 44/2006. (VI. 13.) FVM rendelet 25. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2006. június 21. napját követően indult földmérési munkáknál kell alkalmazni.
+[^113]: A 3. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 3. számú melléklete iktatta be, szövege a 44/2006. (VI. 13.) FVM rendelet 25. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2006. június 21. napját követően indult földmérési munkáknál kell alkalmazni.

@@ -92,6 +92,6 @@
 
 ## 8 Azon kérelmek után, melyek nem tartoznak a Díjtv. 32/A. § (2), (3) bekezdése, illetve a nyomtatványban nem említett (5) és (6) bekezdésének hatálya alá, 5000 Ft általános mértékű igazgatási szolgáltatási díj fizetendő.
 
-2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^111]
+2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^112]
 
-[^111]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^112]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

@@ -1,4 +1,4 @@
-119/F. §[^107] (1) A megváltozott adatok tulajdoni lapokon történő feltüntetése után a tulajdoni lapokat és a külön jogszabályban meghatározott állami földmérési alaptérképet, valamint a hozzá tartozó területjegyzéket az illetékes körzeti földhivatalnál harminc napra közszemlére kell tenni. Erről az érdekelteket a helyben szokásos módon és egy országos napilapban közzétett közlemény útján kell értesíteni.
+119/F. §[^108] (1) A megváltozott adatok tulajdoni lapokon történő feltüntetése után a tulajdoni lapokat és a külön jogszabályban meghatározott állami földmérési alaptérképet, valamint a hozzá tartozó területjegyzéket az illetékes körzeti földhivatalnál harminc napra közszemlére kell tenni. Erről az érdekelteket a helyben szokásos módon és egy országos napilapban közzétett közlemény útján kell értesíteni.
 
 (2) A közszemlére tétel ideje alatt az érdekeltek az általuk kifogásolt térképi és ingatlan-nyilvántartási tartalommal kapcsolatban a körzeti földhivatalnál felszólalással élhetnek.
 
@@ -8,4 +8,4 @@
 
 (5) Az átalakított ingatlan-nyilvántartás a közszemle utolsó napját követő napon érvénybe lép, melyről a körzeti földhivatal határozatot hoz. A határozat fellebbezésre tekintet nélkül végrehajtható.
 
-[^107]: A 119/F. §-t a 117/2005. (XII. 19.) FVM rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^108]: A 119/F. §-t a 117/2005. (XII. 19.) FVM rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

@@ -70,7 +70,7 @@
 
 ## szabályszerű aláírás
 
-6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^115]
+6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^116]
 
 ## Elektronikus úton benyújtható kérelem
 
@@ -108,4 +108,4 @@ A kérelem tárgyához kapcsolódó, korábban a földhivatalhoz benyújtott ké
 
 Kelt: ....................................................................
 
-[^115]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését. A 6. számú melléklet e módosító rendelet 51. § (3) bekezdése alapján 2007. január 1. napján lépett hatályba, ezen időponttól az a beadvány, amelyhez melléklet nem tartozik, a 6. számú mellékletben meghatározott nyomtatvány alkalmazásával elektronikus úton is benyújtható.
+[^116]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését. A 6. számú melléklet e módosító rendelet 51. § (3) bekezdése alapján 2007. január 1. napján lépett hatályba, ezen időponttól az a beadvány, amelyhez melléklet nem tartozik, a 6. számú mellékletben meghatározott nyomtatvány alkalmazásával elektronikus úton is benyújtható.
