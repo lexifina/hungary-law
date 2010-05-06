@@ -1,0 +1,1 @@
+## 2. § A vízügyi hatóságnak a mértékadó árvízszintekkel összefüggő követelményeket a tervezett létesítmények vízjogi engedélyezésekor, szakhatósági állásfoglalásában vagy a vízügyi hatósági ellenőrzés során érvényesítenie kell.
