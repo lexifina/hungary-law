@@ -10,7 +10,7 @@
 
 (3) A Felügyelőséghez benyújtott, a hulladéklerakóra vonatkozó környezetvédelmi engedély, illetőleg egységes környezethasználati engedély iránti kérelemnek az (1) bekezdés szerinti külön jogszabályban előírtakon túl a következőket kell tartalmaznia:
 
-a) a kérelmező és az üzemeltető (ha az nem azonos a kérelmezővel) nevét, címét és KSH azonosító kódját;
+a)[^16]
 
 b) abban az esetben, ha a hulladéklerakó termőföld területén létesül, a földhivatalnak a termőföld más célú hasznosítását lehetővé tevő határozatát;
 
@@ -35,3 +35,4 @@ k) a rekultivációra és az utógondozásra vonatkozó előzetes terv (a továb
 l) a hulladéklerakó működése során esetlegesen bekövetkező környezetkárosodások felszámolását, valamint a hulladéklerakó rekultivációját és utógondozását szolgáló, külön jogszabály szerinti környezetvédelmi biztosíték alapját képező pénzügyi források meglétének igazolása.
 
 [^15]: A 7. § a 92/2007. (XI. 28.) KvVM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^16]: A 7. § (3) bekezdés a) pontját a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés o) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

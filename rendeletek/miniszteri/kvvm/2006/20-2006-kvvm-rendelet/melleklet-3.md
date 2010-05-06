@@ -374,7 +374,7 @@
 
 ## – a hulladéklerakó kibocsátása (beleértve a csurgalékvizet is) a kockázatértékelés alapján nem jelent számottevő környezeti kockázat növekedést.
 
-3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^38]
+3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^39]
 
 ## Monitoringrendszer a hulladéklerakó üzemeltetési és az utógondozási időszakában
 
@@ -530,4 +530,4 @@ d) a vízelvezető és -kezelő rendszerek (csapadékvíz, csurgalékvíz) heten
 
 e) a hulladéklerakó-gáz gyűjtőrendszer hetenként egy alkalommal történő ellenőrzése és karbantartása szükség szerint, de évente legalább egyszer.
 
-[^38]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján rendelkezéseit alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^39]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján rendelkezéseit alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.

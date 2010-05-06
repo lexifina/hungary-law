@@ -16,9 +16,9 @@ d) a biztonsági létesítmények és intézkedések ellenőrzésének, valamint
 
 e) a hulladéklerakó üzemeltetéséhez szükséges létszámot és eszközöket.
 
-(3) Az üzemeltetési tervhez csatolni kell a külön jogszabályok[^18] alapján elkészített kárelhárítási tervet, tűzvédelmi szabályzatot.
+(3) Az üzemeltetési tervhez csatolni kell a külön jogszabályok[^19] alapján elkészített kárelhárítási tervet, tűzvédelmi szabályzatot.
 
-(4) Az üzemeltetőnek a hulladéklerakó működtetéséhez a külön jogszabályban[^19] meghatározott szakképzettséggel rendelkező környezetvédelmi megbízottat kell alkalmaznia, és biztosítania kell a hulladéklerakó dolgozói számára a szakmai továbbképzést, oktatást.
+(4) Az üzemeltetőnek a hulladéklerakó működtetéséhez a külön jogszabályban[^20] meghatározott szakképzettséggel rendelkező környezetvédelmi megbízottat kell alkalmaznia, és biztosítania kell a hulladéklerakó dolgozói számára a szakmai továbbképzést, oktatást.
 
-[^18]: A vízminőségi kárelhárítással összefüggő üzemi tervek készítésének, karbantartásának és korszerűsítésének szabályairól szóló 21/1999. (VII. 22.) KHVM–KöM együttes rendelet, a tűzvédelmi szabályzat készítéséről szóló 30/1996. (XII. 6.) BM rendelet.
-[^19]: A környezetvédelmi megbízott alkalmazási és képesítési feltételeiről szóló 11/1996. (VII. 4.) KTM rendelet.
+[^19]: A vízminőségi kárelhárítással összefüggő üzemi tervek készítésének, karbantartásának és korszerűsítésének szabályairól szóló 21/1999. (VII. 22.) KHVM–KöM együttes rendelet, a tűzvédelmi szabályzat készítéséről szóló 30/1996. (XII. 6.) BM rendelet.
+[^20]: A környezetvédelmi megbízott alkalmazási és képesítési feltételeiről szóló 11/1996. (VII. 4.) KTM rendelet.
