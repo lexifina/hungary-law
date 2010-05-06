@@ -10,7 +10,7 @@ Hivatkozási szám: .......
 
 GÁZVIZSGÁLATI ADATLAP
 
-kút felmérő/technológiai* vizsgálatához[^7]
+kút felmérő/technológiai* vizsgálatához[^8]
 
 | 1. számú adatlap |
 
@@ -50,7 +50,7 @@ Hivatkozási szám: .......
 
 GÁZVIZSGÁLATI ADATLAP
 
-vízműrendszer felmérő/technológiai* vizsgálatához[^8]
+vízműrendszer felmérő/technológiai* vizsgálatához[^9]
 
 | 2. számú adatlap |
 
@@ -90,7 +90,7 @@ Nyilvántartási szám: ....
 
 Hivatkozási szám: .......
 
-GÁZELEMZÉSI ADATLAP[^9]
+GÁZELEMZÉSI ADATLAP[^10]
 
 Az 1. számú adatlappal érvényes
 
@@ -148,7 +148,7 @@ Az 1. számú adatlappal érvényes
 
 | vizsgáló | felelős vezető |
 
-4. számú adatlap[^10]
+4. számú adatlap[^11]
 
 | 4. Számú adatlap |
 
@@ -164,7 +164,7 @@ Az 1. számú adatlappal érvényes
 
 | mintavevő | felelős vezető |
 
-[^7]: Lásd 1997. MK 75. szám 5271. oldal.
-[^8]: Lásd 1997. MK 75. szám 5272. oldal.
-[^9]: Lásd 1997. MK 75. szám 5273. oldal.
-[^10]: Lásd 1997. MK 75. szám 5274. oldal.
+[^8]: Lásd 1997. MK 75. szám 5271. oldal.
+[^9]: Lásd 1997. MK 75. szám 5272. oldal.
+[^10]: Lásd 1997. MK 75. szám 5273. oldal.
+[^11]: Lásd 1997. MK 75. szám 5274. oldal.

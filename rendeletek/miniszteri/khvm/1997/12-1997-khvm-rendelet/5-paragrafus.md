@@ -4,8 +4,8 @@
 
 (2) E rendelet előírásait a folyamatban lévő vízjogi engedélyezési eljárás során alkalmazni kell.
 
-(3)[^6]
+(3)[^7]
 
 (4) Ha a vízügyi hatóság az engedélyest a víz gázmentesítésére kötelezi, a gázmentesítés megoldására ideiglenes intézkedéshez kötötten legfeljebb 2 év időtartamú határidőt állapíthat meg.
 
-[^6]: Az 5. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 22. §-ának 26. pontja hatályon kívül helyezte.
+[^7]: Az 5. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 22. §-ának 26. pontja hatályon kívül helyezte.
