@@ -302,6 +302,6 @@
 
 | 4. | kótált pont | 94 |  | 1 |  | 0 |  |
 
-7. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^1]
+7. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^2]
 
-[^1]: A 7. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 7. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
