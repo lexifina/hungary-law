@@ -1,1 +1,0 @@
-A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény 29. § (2) bekezdés a) és e) pontjában kapott felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának i) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
