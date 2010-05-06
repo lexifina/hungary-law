@@ -12,9 +12,9 @@ c) a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a tov
 
 (3) Ha a bejegyzés alapjául az (1) bekezdés c) pontjában meghatározott eset szolgál, a Minisztérium köteles a bejegyzés előtt helyszíni szemlét tartani. Nem kell helyszíni szemlét tartani abban az esetben, ha az (1) bekezdés c) pontja szerinti tudomásszerzés a Minisztérium nyilvántartás vezetésével megbízott köztisztviselője által történt.
 
-(4)[^7] A barlang – e rendelet alapján nyilvántartott – adataiban bekövetkezett ingatlan-nyilvántartási adatváltozásról az illetékes földhivatal a változás ingatlan-nyilvántartási bejegyzéséről szóló határozat egy példányának megküldésével értesíti a Minisztériumot. Ez az értesítés nem pótolja a határozatnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 78. §-ának (1) bekezdésében foglalt közlést.
+(4)[^7] A barlang – e rendelet alapján nyilvántartott – adataiban bekövetkezett ingatlan-nyilvántartási adatváltozásról az illetékes földhivatal a változás ingatlan-nyilvántartási bejegyzéséről szóló határozat egy példányának megküldésével értesíti a Minisztériumot. Ez az értesítés nem pótolja a határozatnak a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közlést.
 
 (5) A Nyilvántartás alapadataihoz kapcsolódó mellékletek tekintetében az (1)–(4) bekezdések rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a dokumentumok valóságtartalmáért azok kiállítója tartozik helytállni.
 
 [^6]: A 7. § (1) bekezdése a 3/2005. (II. 22.) KvVM rendelet 4. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^7]: A 7. § (4) bekezdése az 1/2006. (I. 13.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 7. § (4) bekezdése az 1/2006. (I. 13.) KvVM rendelet 1. §-ával megállapított, a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

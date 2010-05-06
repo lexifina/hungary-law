@@ -1,4 +1,4 @@
-17/C. §[^28] (1) A 11. § (1) bekezdés a) pontjában meghatározott látogatás céljából barlangi búvármerülés – feltéve, hogy a merülésben részt vevő személyek mindegyike rendelkezik barlangi búvár képzettséggel – kizárólag az e rendelet 5. számú mellékletének A) pontjában felsorolt barlangokban, az ott megjelölt gyakorisággal végezhető.
+17/C. §[^35] (1) A 11. § (1) bekezdés a) pontjában meghatározott látogatás céljából barlangi búvármerülés – feltéve, hogy a merülésben részt vevő személyek mindegyike rendelkezik barlangi búvár képzettséggel – kizárólag az e rendelet 5. számú mellékletének A) pontjában felsorolt barlangokban, az ott megjelölt gyakorisággal végezhető.
 
 (2) Az igazgatóság vagyonkezelői hozzájárulásával látogatható barlangban, barlangszakaszban végzendő, látogatási célú merülés esetén, amennyiben a merülés helyszínének elérése száraz barlangjáraton keresztül lehetséges, a merülésvezetőnek barlangi túravezető vagy barlangi kutatásvezető képzettséggel is rendelkeznie kell, vagy a résztvevőket a merülés helyszínéig ilyen képzettséggel rendelkező személynek kell kísérnie.
 
@@ -6,4 +6,4 @@
 
 (4) Látogatási célú barlangi búvármerülésre engedély csak meghatározott időpontra adható.
 
-[^28]: A 17/C. §-t a 3/2007. (I. 22.) KvVM rendelet 10. §-a iktatta be.
+[^35]: A 17/C. §-t a 3/2007. (I. 22.) KvVM rendelet 10. §-a iktatta be.

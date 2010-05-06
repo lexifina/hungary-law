@@ -1,8 +1,8 @@
 ## leteltével kerülhet sor.
 
-## A barlangi búvármerülés feltételei[^24]
+## A barlangi búvármerülés feltételei[^29]
 
-17/A. §[^25] (1) Barlangi búvármerülésre az a természetes vagy jogi személy kaphat engedélyt, aki vagy akinek a merülésért felelős személye (a továbbiakban együtt: merülésvezető) rendelkezik a külön törvény[^26] hatálya alá tartozó sportági szakszövetség (a továbbiakban: szakszövetség) által elismert barlangi búvár és merülésvezető képzettséggel, és a tervezett merülést is ő vezeti.
+17/A. §[^30] (1) Barlangi búvármerülésre az a természetes vagy jogi személy kaphat engedélyt, aki vagy akinek a merülésért felelős személye (a továbbiakban együtt: merülésvezető) rendelkezik a külön törvény[^31] hatálya alá tartozó sportági szakszövetség (a továbbiakban: szakszövetség) által elismert barlangi búvár és merülésvezető képzettséggel, és a tervezett merülést is ő vezeti.
 
 (2) A barlangi búvármerülésben kizárólag búvársportra vonatkozó érvényes orvosi alkalmassági igazolással és barlangi búvárkodásra kiterjedő egyéni biztosítással, továbbá – a (3) bekezdésben meghatározott kivétellel – barlangi búvár képzettséggel rendelkező személyek vehetnek részt.
 
@@ -20,10 +20,12 @@ b) az általa a merülési szabályzatban foglaltak szerint elkészített és a 
 
 (7) A merülés során bekövetkező baleset esetén az igazgatóságot haladéktalanul értesíteni kell.
 
-(8) Az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, továbbá az olyan államban megszerzett barlangi búvár és merülés-vezetői képzettség, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, a magyar képzettséggel egyenértékűnek minősülhet. Az ilyen képzettséggel rendelkező személy a szakszövetségnél a képzettségét igazoló dokumentum bemutatásával kérheti annak az (1) bekezdésben meghatározott képzettséggel azonos hatályúként történő elismerését.
+(8)[^32]
 
-(9) A (8) bekezdésben meghatározott képzettség elismeréséről a szakszövetség dönt szükség esetén az egyedi esetben megállapított különbözeti vizsga előírásával.
+(9)[^33]
 
-[^24]: A 17/A. §-t megelőző alcímet a 3/2007. (I. 22.) KvVM rendelet 10. §-a iktatta be.
-[^25]: A 17/A. §-t a 3/2007. (I. 22.) KvVM rendelet 10. §-a iktatta be.
-[^26]: A sportról szóló 2004. évi I. törvény.
+[^29]: A 17/A. §-t megelőző alcímet a 3/2007. (I. 22.) KvVM rendelet 10. §-a iktatta be.
+[^30]: A 17/A. §-t a 3/2007. (I. 22.) KvVM rendelet 10. §-a iktatta be.
+[^31]: A sportról szóló 2004. évi I. törvény.
+[^32]: A 17/A. § (8) bekezdését a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 17/A. § (9) bekezdését a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

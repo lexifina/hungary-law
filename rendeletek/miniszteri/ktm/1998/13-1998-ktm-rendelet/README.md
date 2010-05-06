@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-13-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1998-13-20-6D.6 | 13/1998. (V. 6.) KTM rendelet |
+| 2010-05-06 | 1998-13-20-6D.7 | 10/2010. (IV. 28.) KvVM rendelet |
