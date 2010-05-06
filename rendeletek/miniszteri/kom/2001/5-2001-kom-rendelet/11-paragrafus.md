@@ -1,1 +1,3 @@
-## 10. § Az e rendeletben meghatározott kötelezettségek teljesítésének ellenőrzése az illetékes környezetvédelmi felügyelőség hatásköre. A kötelezettségek teljesítésének elmulasztása, továbbá a kezelésre vonatkozó előírások megszegése esetén – a rendelkezések megszegőivel szemben – a külön jogszabályokban meghatározott szankciókat kell alkalmazni.
+## 10. §[^2]
+
+[^2]: A 10. §-t a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés k) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

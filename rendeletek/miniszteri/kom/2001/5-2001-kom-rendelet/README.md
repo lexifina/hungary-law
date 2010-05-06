@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-5-20-66
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2001-03-01 | 2001-5-20-66.1 | 5/2001. (II. 23.) KöM rendelet |
+| 2010-05-06 | 2001-5-20-66.2 | 10/2010. (IV. 28.) KvVM rendelet |
