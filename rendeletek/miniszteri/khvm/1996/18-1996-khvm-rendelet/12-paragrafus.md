@@ -1,5 +1,6 @@
-12. § (1) Ez a rendelet 1996. július 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően indult, e jogszabállyal érintett eljárásokban kell alkalmazni.
+12. §[^31] (1) Ez a rendelet 1996. július 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően indult, e jogszabállyal érintett eljárásokban kell alkalmazni.
 
-(2)[^25]
+(2)[^32]
 
-[^25]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 22. §-ának 33. pontja hatályon kívül helyezte.
+[^31]: [A 13. §-nak a 38/2011. (V. 18.) VM rendelet 3. §-ával beiktatott, a 9. § (1) bekezdése alapján 2011. szeptember 15-étől hatályos szövege: „13. § Ez a rendelet a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének, valamint b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének való megfelelést szolgálja.”.]
+[^32]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 22. §-ának 33. pontja hatályon kívül helyezte. [A 12. § (2) bekezdésnek a 38/2011. (V. 18.) VM rendelet 2. §-ával beiktatott, a 9. § (1) bekezdése alapján 2011. szeptember 15-étől hatályos szövege: „(2) E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes rendeletek módosításáról szóló 38/2011. (V. 18.) VM rendelettel megállapított rendelkezéseit a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelet hatályba lépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.”.]

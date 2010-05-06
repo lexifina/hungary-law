@@ -62,6 +62,6 @@
 
 ## db) a vízrendezéssel érintett terület helyszínrajzát.
 
-2. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^26]
+2. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^33]
 
-[^26]: A 2. számú melléklet a 101/2007. (XII. 23.) KvVM rendelet 14. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult eljárásokban kell alkalmazni.
+[^33]: A 2. számú melléklet a 101/2007. (XII. 23.) KvVM rendelet 14. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult eljárásokban kell alkalmazni.

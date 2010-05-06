@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-18-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 1996-18-20-6B.11 | 18/1996. (VI. 13.) KHVM rendelet |
+| 2010-05-06 | 1996-18-20-6B.12 | 10/2010. (IV. 28.) KvVM rendelet |
