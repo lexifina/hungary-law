@@ -40,6 +40,7 @@ igényelheti.
 
 (7) A KÖVIZIG-ek védekezési készletének legalább 80%-át a védelmi szakaszokra kell elosztani, és azokat a védelmi szakasz raktáraiban, a fennmaradó részt központi raktárban kell tárolni.
 
-(8) A védekezési készlet országos tartalékát a kijelölt KÖVIZIG, valamint az Árvízvédelmi és Belvízvédelmi Központi Szervezet Közhasznú Társaság (a továbbiakban: ÁBKSZ Kht.) tárolja és karbantartja.
+(8)[^6] A védekezési készlet országos tartalékát a kijelölt KÖVIZIG tárolja és karbantartja.
 
 [^5]: A 7. § (1) bekezdésének b) pontja az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdésének b) pontja alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^6]: A 7. § (8) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés e) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
