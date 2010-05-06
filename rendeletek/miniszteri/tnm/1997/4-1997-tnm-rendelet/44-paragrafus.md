@@ -4,7 +4,7 @@
 
 44. § (1) Az illetményelőleg folyósításához a Hivatal gazdasági szervénél illetményelőleg-keretet kell képezni, mely a mindenkori január havi hivatali szintű rendszeres személyi juttatások 5%-ától 15%-áig terjedhet.
 
-(2)[^30]
+(2)[^42]
 
 (3) Nem engedélyezhető illetményelőleg a ht. állomány tagjának, ha a szolgálati viszonyának megszüntetése bármilyen okból folyamatban van, próbaidősök esetén a próbaidő első 3 hónapjában, illetve, ha a ht. állomány tagja a korábban részére engedélyezett illetményelőleget még teljes egészében nem törlesztette.
 
@@ -18,4 +18,4 @@
 
 (8) A (4)–(5) bekezdésben meghatározottak szerint kifizetett illetményelőleg mentes a személyi jövedelemadó-fizetési kötelezettség alól. Amennyiben az érintett a felvett illetményelőleget nem téríti vissza, vagy azt más fizeti meg, akkor az előleg a személyi jövedelemadóról szóló hatályos jogszabályokban foglaltaknak megfelelően adóköteles bevételnek minősül.
 
-[^30]: A 44. § (2) bekezdését a 7/2001. (XI. 23.) TNM rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.
+[^42]: A 44. § (2) bekezdését a 7/2001. (XI. 23.) TNM rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.

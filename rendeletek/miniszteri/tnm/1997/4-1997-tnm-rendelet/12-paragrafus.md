@@ -8,8 +8,8 @@ b) tisztnek tanácsosi
 
 címet adományozhat.
 
-(2)[^10] Az érintett Hivatal éves költségvetésében meghatározott hivatásos állomány – adott év január 1-jén érvényes állománytábla szerinti – létszámának legfeljebb 7%-a erejéig adományozható a tanácsosi, legfeljebb 5%-a erejéig a főtanácsosi cím.
+(2)[^11] Az érintett Hivatal éves költségvetésében meghatározott hivatásos állomány – adott év január 1-jén érvényes állománytábla szerinti – létszámának legfeljebb 7%-a erejéig adományozható a tanácsosi, legfeljebb 5%-a erejéig a főtanácsosi cím.
 
 (3) A cím adományozásáról és a címpótlék folyósításáról állományparancsban kell rendelkezni.
 
-[^10]: A 12. § (2) bekezdése az 5/2004. (XII. 25.) MeHVM rendelet 1. §-ával megállapított szöveg.
+[^11]: A 12. § (2) bekezdése az 5/2004. (XII. 25.) MeHVM rendelet 1. §-ával megállapított szöveg.

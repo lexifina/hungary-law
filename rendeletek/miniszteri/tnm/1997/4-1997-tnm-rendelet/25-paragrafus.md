@@ -2,7 +2,7 @@
 
 ## A kiküldetés költségtérítésének szabályozása
 
-25. § (1) Belföldi kiküldetésnek minősül, ha a ht. állomány tagja a kiküldetés elrendelésére jogosult vezető utasítására szolgálati feladatait a szervezeti egység székhelyének közigazgatási határán kívül látja el. Kiküldetést teljesít az is, akit valamely más – szervezeti egysége székhelyének közigazgatási határán kívüli – egységhez (szolgálati helyre) rendeltek. Tartós kiküldetésnek minősül, ha a kiküldetés időtartama a 30 naptári napot meghaladja.
+25. § (1)[^33]
 
 (2) Szolgálati jellegű utazás a szolgálati jogviszonnyal egyébként összefüggő, de kiküldetésnek nem minősülő, a szolgálati hely közigazgatási határán túli utazás.
 
@@ -15,3 +15,5 @@
 (6) A kiküldetés szempontjából indulási hely a kiküldetést teljesítő szolgálati helye. A kiküldetést elrendelő vezető indokolt esetben ettől eltérően is rendelkezhet, amit a menetlevélen külön fel kell tüntetni. Az utazás megkezdésének és befejezésének időpontja a menetrend szerinti közlekedési eszköz indulási és érkezési ideje.
 
 (7) Nem menetrend szerinti közlekedési eszközzel történő utazás esetén a távollét időtartama az indulási helyről történő elindulás és az oda való visszaérkezés közötti idő. Ha a kiküldetés az indulási helyre való visszaérkezés előtt befejeződik, az időpont, amikor a kiküldetéssel összefüggő tevékenységet befejezték.
+
+[^33]: A 25. § (1) bekezdését a 3/2010. (IV. 28.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
