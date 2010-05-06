@@ -14,7 +14,7 @@
 
 | 4. Környezetgazdálkodási Intézet | 1068 Budapest, Szófia u. 9. |
 
-| 5. Árvízvédelmi és Belvízvédelmi Szervezet (ÁBKSZ) Közhasznú Társaság | 1211 Budapest, Szabadkikötő út 4. |
+| 5. |  |
 
 | 6. Közép-Duna-völgyi Vízügyi Igazgatóság | 1088 Budapest, Rákóczi út 41. |
 
