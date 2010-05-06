@@ -510,7 +510,7 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez
+együttes rendelethez[^11]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -616,22 +616,6 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 2 km sugarú kör a 471003N 0180824E középpont körül |
 
-| LHR23 | Devecser | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 470458N 0172406E középpont körül |
-
-| LHR24 | Kaposvár | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 462404N 0174455E középpont körül |
-
-| LHR25 | Ságváriliget | 3000’ (900 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 0,5 km sugarú kör a 473103N 0185734E középpont körül |
-
-| LHR28 | Recsk | 3000’ (900 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 475749N 0200610E középpont körül |
-
 | LHR29 | Nyírtelek | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
 
 | 2,5 km sugarú kör a 480150N 0213827E középpont körül |
@@ -732,7 +716,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 474156N | 0204928E |
 
-| Hevesi füves puszták II. | 1500’ (450 m) AGL | Március 1.–július 31. között | természetvédelem |
+| Hevesi füves puszták II. | 1500’ (450 m) AGL | Március 2.–július 31. között | természetvédelem |
 
 | 474826N | 0210041E |
 
@@ -742,7 +726,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 472648N | 0202534E |
 
-| 472723N | 0201344E | 1000’ (300 m) AGL | Augusztus 1.–február 28. között | természetvédelem |
+| 472723N | 0201344E | 1000’ (300 m) AGL | Augusztus 1.–március 1. között | természetvédelem |
 
 | 474430N | 0201528E |
 
@@ -794,7 +778,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 471834N | 0211342E |
 
-| Alsó-Tisza-völgy | 1500’ (450 m) AGL | Február 1.–július 31. között. | természetvédelem |
+| Alsó-Tisza-völgy | 1500’ (450 m) AGL | Egész évben | természetvédelem |
 
 | 464459N | 0195832E |
 
@@ -803,6 +787,10 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 | 462310N | 0201739E |
 
 | 462338N | 0195959E |
+
+| 463723N | 0195943E |
+
+| 463254N | 0195304E |
 
 | 463547N | 0195107E |
 
@@ -822,6 +810,8 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 462015N | 0185620E |
 
+| 461526N | 0185503E |
+
 | 460945N | 0185637E |
 
 | 460205N | 0184456E |
@@ -833,6 +823,24 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 | 462202N | 0184439E |
 
 | 462317N | 0184615E |
+
+| Béda-Karapancsa | 1500’ (450 m) AGL | Március 2.–június 30. között | természetvédelem |
+
+| 460316N | 0184306E |
+
+| 460144N | 0184055E |
+
+| 455507N | 0183939E |
+
+| Országhatár | 1000’ (300 m) AGL | Július 1.–március 1. között | természetvédelem |
+
+| 455606N | 0185427E |
+
+| 460945N | 0185637E |
+
+| 460205N | 0184456E |
+
+| 460316N | 0184306E |
 
 | Tapolcai-medence | 1500’ (450 m) AGL | Egész évben | természetvédelem |
 
@@ -862,7 +870,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 464323N | 0163210E |
 
-| 4642452N | 0162223E |
+| 464252N | 0162223E |
 
 | Országhatár |
 
@@ -956,9 +964,9 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 470723N | 0183139E |
 
-| 470948N | 183228E |
+| 470948N | 0183228E |
 
-| 471049N | 183137E |
+| 471049N | 0183137E |
 
 | 471308N | 0183139E |
 
@@ -1036,7 +1044,11 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 465004N | 0192716E |
 
-| 463313N | 0191700E |
+| 463639N | 0191858E |
+
+| 464022N | 0191351E |
+
+| 463334N | 0191413E |
 
 | 463435N | 0185817E |
 
@@ -1331,3 +1343,5 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 | LHD55 | Szügy | 2300’ (700 m) AMSL / GND | Lőtér. Hétfő 06.00 LT– péntek 22.00 LT között. |
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
+
+[^11]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a szerint módosított szöveg.

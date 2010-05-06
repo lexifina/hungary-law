@@ -22,7 +22,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez
+együttes rendelethez[^10]
 
 ## ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS AZ IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -716,6 +716,56 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 462300N | 0200000E |
 
+| Börgönd TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint csak Börgönd TIZ2 és TIZ3 légterekkel együtt működhet |
+
+| 471301N | 0181832E |
+
+| 471833N | 0182354E |
+
+| 471842N | 0183545E |
+
+| 465707N | 0183721E |
+
+| 465448N | 0182729E |
+
+| 465523N | 0181838E |
+
+| 470933N | 0181924E |
+
+| 471301N | 0181832E |
+
+| Börgönd TIZ2 | 7500’ (2300 m) AMSL/2000’ (600 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ3 légterekkel együtt működhet |
+
+| 471301N | 0181832E |
+
+| 472148N | 0181621E |
+
+| 472147N | 0183628E |
+
+| 470908N | 0184432E |
+
+| 471301N | 0181832E |
+
+| Börgönd TIZ3 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ2 légterekkel együtt működhet” |
+
+| 471301N | 0181832E |
+
+| 470908N | 0184432E |
+
+| 470623N | 0184817E |
+
+| 465611N | 0185125E |
+
+| 465054N | 0183452E |
+
+| 465115N | 0182246E |
+
+| 465523N | 0181838E |
+
+| 470933N | 0181924E |
+
+| 471301N | 0181832E |
+
 | LHSG1 | 2500’ (750 m) AMSL / GND | (ICAO „G”) Csak VFR repülések számára. Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
 | 473720N | 0185425E |
@@ -812,9 +862,9 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 473900N | 0190300E |
 
-| LHSG20A | Koordinált légtér: 4000’ (1350 m) AMSL / 2000’ (600 m) AMSL | (ICAO „G”) Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| LHSG20A | Koordinált légtér: 4000’ (1200 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 2 km sugarú kör a 473704N 0190836E középpont körül |
+| 2 km sugarú kör a 473704N 0190836E középpont körül |
 
 | LHSG21 | 2500’ (750 m) AMSL / GND | (ICAO „G”) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
@@ -905,3 +955,5 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 | További szabályok: 1. Koordinált légtér igénylésére az LHSG1, LHSG2/V, LHSG3 légterek esetében Budaörs repülőtér, Farkashegy repülőtér, Hármashatár-hegy repülőtér üzemben tartója, az LHSG10 légtér esetében az Esztergomi repülőtér üzemben tartója, az LHSG2/S légtér esetében a Szabad Repülők Szövetsége és az LHSG20, LHSG20/A, LHSG21, LHSG22, LHSG23, LHSG24, LHSG25 légterek esetében a Dunakeszi repülőtér üzemben tartója jogosult. 2. A koordinációs feladatok az LHSG1, LHSG2/V, LHSG3 légterek esetében Budaörs repülőtér, Farkashegy repülőtér, Hármashatár-hegy repülőterek üzembentartójának valamelyike, vagy a körzeti repüléstájékoztató szolgálatot ellátó szervezet – a három repülőtérrel kötött megállapodás alapján –, az LHSG10 légtér esetében az Esztergom repülőtér üzemben tartója, az LHSG2/S légtér esetében a Szabad Repülők Szövetsége és az LHSG20, LHSG20/A, LHSG21, LHSG22, LHSG23, LHSG24, LHSG25 légterek esetében a Dunakeszi repülőtér üzemben tartója jogosult ellátni. |
 
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
+
+[^10]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a szerint módosított szöveg.

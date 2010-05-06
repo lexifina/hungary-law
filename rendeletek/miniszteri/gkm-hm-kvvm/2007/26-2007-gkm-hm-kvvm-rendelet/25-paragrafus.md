@@ -2,7 +2,7 @@
 
 25. § (1) Ez a rendelet 2007. május 10-én lép hatályba.
 
-(2)–(3)[^5]
+(2)–(3)[^8]
 
 (4) A 6. § (4) bekezdésében meghatározott korlátozások a rendelet hatálybalépése előtt kiadott engedéllyel rendelkező nem nyilvános fel- és leszállóhelyek esetében nem alkalmazhatók az engedély érvényességi idejének lejártáig.
 
@@ -12,4 +12,4 @@ a) a Bizottság 2150/2005/EK rendelete (2005. december 23.) a rugalmas légtérf
 
 b) a Bizottság 730/2006/EK rendelete (2006. május 11.) a légtér 195-ös repülési szint fölötti osztályozásáról és a látvarepülési szabályok szerinti járatok e szint fölötti útvonaláról, 3. cikk és 4. cikk.
 
-[^5]: A 25. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 22. pontja hatályon kívül helyezte.
+[^8]: A 25. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 22. pontja hatályon kívül helyezte.
