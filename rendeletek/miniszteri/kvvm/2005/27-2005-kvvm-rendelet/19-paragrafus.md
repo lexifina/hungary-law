@@ -2,7 +2,7 @@
 
 19. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)–(3)[^5]
+(2)–(3)[^15]
 
 (4) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -18,7 +18,7 @@ b) A Bizottság 95/337/EK határozata (1995. július 25.) a vízügyi ágazatra 
 
 c) A Bizottság 2000/479/EK határozata (2000. július 17.) a környezetszennyezés integrált megelőzéséről és csökkentéséről (IPPC) szóló 96/61/EK tanácsi irányelv 15. cikke alapján egy európai szennyezőanyag-kibocsátási nyilvántartás (EPER) kialakításáról, A1, A2 melléklet;
 
-d)[^6] az Európai Parlament és a Tanácsi rendelete 166/2006/EK (2006. január 18.) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról.
+d)[^16] az Európai Parlament és a Tanácsi rendelete 166/2006/EK (2006. január 18.) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról.
 
-[^5]: A 19. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 47. pontja hatályon kívül helyezte.
-[^6]: A 19. § (5) bekezdésének d) pontját a 25/2007. (VII. 30.) KvVM rendelet 2. §-a iktatta be.
+[^15]: A 19. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 47. pontja hatályon kívül helyezte.
+[^16]: A 19. § (5) bekezdésének d) pontját a 25/2007. (VII. 30.) KvVM rendelet 2. §-a iktatta be.
