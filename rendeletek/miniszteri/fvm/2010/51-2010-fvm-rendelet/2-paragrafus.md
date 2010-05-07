@@ -1,0 +1,3 @@
+## 1. § A földművelésügyi ágazathoz tartozó szakképesítések szakmai és vizsgakövetelményei kiadásáról szóló 8/2008. (I. 23.) FVM rendelet (a továbbiakban: R.) 1. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Az 1. mellékletben felsorolt valamennyi szakképesítés tekintetében jogosult szakmai vizsga szervezésére az FVM Közép-magyarországi Agrár-szakképző Központ Bercsényi Miklós Élelmiszeripari Szakképző Iskola, Kollégium és FVM Gyakorlóiskola, az FVM Kelet-magyarországi Agrár-szakképző Központ Mezőgazdasági Szakképző Iskola és Kollégium és az FVM Dunántúli Agrár-szakképző Központ Csapó Dániel Középiskola, Mezőgazdasági Szakképző Iskola és Kollégium.”
