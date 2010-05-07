@@ -2,7 +2,7 @@
 
 (2) E rendelet alapján legfeljebb 750 millió Ft keretösszegig a 2009. évi elkülönített keretek terhére, a 2009. évben támogatás fizethető ki a 2008. évre elkülönített támogatási keretösszeg kimerülésének határnapjáig hiányosan benyújtott, de ezt követően hiánypótolt és teljessé vált kérelmekre, amelyek esetében a hiánypótlásra felszólító végzés meghozatalára a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 55. § (2) bekezdése szerinti 60 napon túl került sor.
 
-(3) A (2) bekezdés alapján a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által jóváhagyott támogatások a 2009. évre rendelkezésre álló, mindösszesen 4 milliárd Ft összegű, az R. 4. számú mellékletében foglalt, fajonként és termékenként elkülönített támogatási keretösszegeket terhelik. A (2) bekezdés szerinti keretösszeg elkülönített támogatási keretenkénti maradványa a 6. számú melléklet szerinti negyedik negyedévi keretösszeget növeli.
+(3)[^3] A (2) bekezdés alapján a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által jóváhagyott támogatások a 2009. évre rendelkezésre álló, mindösszesen 4 milliárd Ft összegű, az R. 4. számú mellékletében foglalt, fajonként és termékenként elkülönített támogatási keretösszegeket terhelik.
 
 (4) A (2) bekezdés alapján megállapított támogatásokon felüli 2009. évi támogatási keretösszeget a 2009. január 1. és december 31. között levágott összes baromfifélére, továbbá továbbtartásra (tömésre) nevelt libára és kacsára, beólazott jércére és beólazott előnevelt pulykára vonatkozóan benyújtott jogszerű igények között kell felosztani, a 6. számú melléklet szerint. Tyúk és pulyka esetében a 2008. évben beólazott, de 2009. évben levágott állományra is igényelhető támogatás.
 
@@ -17,3 +17,5 @@
 (9) Az MVH a támogatásról szóló döntéshozatalt, illetve a szükséges forrás rendelkezésre állását követően intézkedik a támogatás kifizetéséről. A támogatás átutalása a kérelmezőnek az MVH ügyfél-nyilvántartási rendszerében szereplő bankszámlájára történik.
 
 (10) A beérkezett összes igényről, a jóváhagyott igényekről és a kifizetett támogatásról az MVH a tárgynegyedévet követően tájékoztatást küld az agrárpolitikáért felelős miniszternek.
+
+[^3]: A 9. § (3) bekezdése az 55/2010. (V. 6.) FVM rendelet 5. §-a szerint módosított szöveg.
