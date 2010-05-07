@@ -1,1 +1,0 @@
-## 5. § A létesítési engedély egyévi időtartamra szól. A közlekedési és vízügyi miniszter, illetve a honvédelmi miniszter a létesítési engedély időtartamát az engedély megadásának alapjául szolgáló feltételek változatlan teljesítése esetén kérelemre, egy alkalommal, egy évvel meghosszabbíthatja.
