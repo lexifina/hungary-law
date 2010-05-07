@@ -1,6 +1,6 @@
 ## 4. Az egységes kérelem benyújtása
 
-5. § (1) Az ügyfél az egységes kérelmét a tárgyév május 15-ig ügyfélkapun keresztül, elektronikus úton köteles benyújtani. Az egységes kérelem elektronikus benyújtásával egyidejűleg annak egyes mellékleteit – ha az adott támogatási jogcímre vonatkozó jogszabály vagy e rendelet annak csatolását előírja – papír alapon kell benyújtani az MVH-hoz, a 2. § (1) bekezdés 9–10., 14., 16. és 18. pontjai szerinti jogcímek esetén az ügyfél lakóhelye, székhelye szerint illetékes Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) területi szervéhez.
+5. § (1)[^6] Az ügyfél az egységes kérelmét a tárgyév május 15-ig ügyfélkapun keresztül, elektronikus úton köteles benyújtani. Az egységes kérelem elektronikus benyújtásával egyidejűleg annak egyes mellékleteit – ha az adott támogatási jogcímre vonatkozó jogszabály vagy e rendelet annak csatolását előírja – papír alapon kell benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH), a 2. § (1) bekezdés 9–10., 14., 16. és 18. pontjai szerinti jogcímek esetén az ügyfél lakóhelye, székhelye szerint illetékes Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) területi szervéhez.
 
 (2) Az elektronikus úton, ügyfélkapus azonosítással történő benyújtási kötelezettség az (1) bekezdésben foglaltakon kívül kiterjed az adatváltozás bejelentésére is a módosítás, a pontosítás, a visszavonás, a másodvetés bejelentése és a vis maior kérelem vonatkozásában. A mellékletekre vonatkozó adatváltozásokat és a hasznosító személyében bekövetkezett változást papír alapon kell az ügyfélnek bejelentenie.
 
@@ -19,3 +19,5 @@ d) azon jogcímeket és kapcsolódó eljárási cselekményeket, amelyekre a meg
 e) a meghatalmazás érvényességéhez szükséges formai kellékeket.
 
 (5) A meghatalmazást postai úton vagy személyesen kell benyújtani az ügyfél lakóhelye vagy székhelye szerint illetékes MVH területi kirendeltségéhez, legkésőbb azon kérelem benyújtására nyitva álló határidőn belül, amelyre a meghatalmazás vonatkozik.
+
+[^6]: Az 5. § (1) bekezdése az 55/2010. (V. 6.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.

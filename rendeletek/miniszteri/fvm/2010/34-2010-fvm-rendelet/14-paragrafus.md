@@ -20,7 +20,7 @@ a) nem haladja meg a referenciaterület méretének az 1122/2009/EK bizottsági 
 
 b) meghaladja a toleranciával számolt referenciaterületet, akkor az MVH értesíti az érintett ügyfeleket és egyúttal felszólítja őket a kérelemben megadott adatoknak a valóságnak megfelelő helyesbítésére.
 
-(4) A (3) bekezdés b) pontja szerinti végzésben meg kell jelölni az érintett referenciaterületre egységes kérelmet benyújtó ügyfelet és az egységes kérelmében foglaltaknak megfelelően a táblára vonatkozó adatokat.
+(4)[^10] A (3) bekezdés b) pontja szerinti végzésben meg kell jelölni az érintett referenciaterületre egységes kérelmet benyújtó ügyfelet és az egységes kérelmében foglaltaknak megfelelően a bejelentett táblára vonatkozó adatokat.
 
 (5) Ha a (3) bekezdés b) pontja alapján megállapított túligénylés az ügyfelek által benyújtott válaszok szerinti helyesbítéseket követően részben vagy egészben továbbra is fennáll, az MVH
 
@@ -29,3 +29,5 @@ a) a toleranciával számolt referenciaterületet meg nem haladó túligénylés
 b) a toleranciával számolt referenciaterületet meghaladó túligénylés esetén fizikai ellenőrzést folytat le az érintett referenciaterület vonatkozásában.
 
 (6) Az (5) bekezdés szerinti fizikai ellenőrzést nem kell lefolytatni, ha a (3) bekezdés b) pontja szerinti végzésben foglalt határidőt a kérelmet benyújtó ügyfél elmulasztotta. Ebben az esetben az MVH a határidőt elmulasztó ügyfél egységes kérelmében bejelentett, túligénylésben érintett területeit a túligénylés mértékének megfelelően csökkenti.
+
+[^10]: A 14. § (4) bekezdése az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.

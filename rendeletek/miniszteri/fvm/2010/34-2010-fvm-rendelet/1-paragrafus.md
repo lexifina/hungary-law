@@ -14,7 +14,7 @@
 
 6. hasznosítás: a mezőgazdasági földterületnek adott jogcímekben előírt növénykultúrával, növényfajjal, növényfajtával vagy azok keverékével történő hasznosítása, pihentetése az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet (a továbbiakban: HMKÁ rendelet) 1. számú mellékletében foglalt előírások betartása mellett;
 
-7. jogszerű földhasználó: a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet szerinti földhasználati nyilvántartásba (a továbbiakban: földhasználati nyilvántartás) a tárgyév május 31-i dátum szerinti állapotnak megfelelően bejegyzett földhasználó, akinek a jogszerű földhasználatát a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a földhasználati nyilvántartás adatai alapján ellenőrizheti;
+7.[^1] jogszerű földhasználó: a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet szerinti földhasználati nyilvántartásba (a továbbiakban: földhasználati nyilvántartás) a tárgyév május 31-i dátum szerinti állapotnak megfelelően földhasználóként bejegyzett ügyfél, vagy az az ügyfél, akinek földhasználati joga önhibáján kívüli okból nem került a földhasználati nyilvántartásba bejegyzésre és a földhasználati jogosultságát igazoló egyéb bizonyító erejű okirattal rendelkezik;
 
 8. kölcsönös megfeleltetés: a közvetlen mezőgazdasági támogatások, valamint az egyes vidékfejlesztési és borpiaci támogatások egységes feltételrendszere, amely a Jogszabályban Foglalt Gazdálkodási Követelményekből és a Helyes Mezőgazdasági és Környezeti Állapot előírásaiból, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet (a továbbiakban: agrár-környezetgazdálkodási rendelet) alapján igénybe vehető támogatás esetén a tápanyag-gazdálkodásra, valamint a növényvédőszer-használatra vonatkozó minimumkövetelményekből áll;
 
@@ -30,6 +30,9 @@
 
 14. referenciaterület mérete: a támogatható terület mérete, valamint az egybeművelt tábla fizikai ellenőrzés során mért területe;
 
-15. tábla: a mezőgazdasági parcellán belüli, az ügyfél által az egységes kérelemben bejelentett legkisebb, azonos hasznosítású összefüggő földterület, amelyen egy földhasználó egy növényfajt termeszt, beleértve a takarmánykeverékeket és a vegyesgyümölcsösöket is, valamint amelyet nem metszhet kötelezettségvállalással érintett terület;
+15.[^2] bejelentett tábla: a mezőgazdasági parcellán belüli, az ügyfél által az egységes kérelemben bejelentett legkisebb, azonos hasznosítású összefüggő földterület, amelyen egy földhasználó egy növényfajt termeszt, beleértve a takarmánykeverékeket és a vegyesgyümölcsösöket is, valamint amelyet nem metszhet kötelezettségvállalással érintett terület;
 
 16. támogatható terület: a MePAR rendelet 1. § g) pontja szerinti terület.
+
+[^1]: Az 1. § 7. pontja az 55/2010. (V. 6.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 15. pontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.

@@ -14,11 +14,11 @@ d) a beérkezett egységes kérelem érkeztetési számát.
 
 a) az ügyfélazonosító adatokat,
 
-b) az egységes kérelemben feltüntetett táblák adatait:
+b)[^7] az egységes kérelemben szereplő bejelentett táblák adatait:
 
 ba) a fizikai blokk azonosító számát,
 
-bb) a tábla sorszámát,
+bb)[^8] a bejelentett tábla sorszámát,
 
 bc) a hasznosítás típusát,
 
@@ -29,3 +29,6 @@ c) a bejelentett jogcímeket,
 d) az ügyfél ügyfél-nyilvántartási rendszerben rögzített bankszámlaszámát, valamint
 
 e) az egységes kérelem benyújtásának időpontját.
+
+[^7]: A 7. § (3) bekezdés b) pontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^8]: A 7. § (3) bekezdés b) pont bb) alpontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
