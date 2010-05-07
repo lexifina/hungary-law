@@ -1,8 +1,8 @@
-## 7. §[^43] A támogatási kérelmek bírálatát – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS az 1. számú mellékletben, a LEADER HACS területére megállapított pontozási rendszer alapján végzett értékeléssel, továbbá a Törvény 32. § (1) bekezdés c) pontja szerinti rangsor állításával végzi. A támogatási kérelmek rangsorolása után a rendelkezésre álló keret alapján az MVH hozza meg a támogatási határozatot.
+## 7. §[^45] A támogatási kérelmek bírálatát – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS az 1. számú mellékletben, a LEADER HACS területére megállapított pontozási rendszer alapján végzett értékeléssel, továbbá a Törvény 32. § (1) bekezdés c) pontja szerinti rangsor állításával végzi. A támogatási kérelmek rangsorolása után a rendelkezésre álló keret alapján az MVH hozza meg a támogatási határozatot.
 
 ## A kifizetési kérelem benyújtása
 
-8. §[^44] (1) A kifizetési kérelmet postai úton 2009-től kezdődően évente
+8. §[^46] (1) A kifizetési kérelmet postai úton 2009-től kezdődően évente
 
 a) január 1. és január 31.,
 
@@ -44,5 +44,5 @@ i) az ügyfél aláírása.
 
 (4) Az utolsó kifizetési kérelemhez csatolni kell a 3. § (1) bekezdés d) pontjában meghatározott kültéri, közcélú feladatokat ellátó játszótereket érintő fejlesztés esetén a játszótéri eszközök biztonságosságáról szóló 78/2003. (XI. 27.) GKM rendelet 3. §-a szerinti megfelelőségi tanúsítványokat, továbbá a használatbavétel engedélyezésére vonatkozó dokumentumokat.
 
-[^43]: A 7. § a 161/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.
-[^44]: A 8. § a 161/2009. (XI. 19.) FVM rendelet 7. §-ával megállapított szöveg.
+[^45]: A 7. § a 161/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.
+[^46]: A 8. § a 161/2009. (XI. 19.) FVM rendelet 7. §-ával megállapított szöveg.
