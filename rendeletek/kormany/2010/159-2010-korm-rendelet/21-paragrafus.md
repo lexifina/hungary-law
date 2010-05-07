@@ -1,0 +1,3 @@
+21. § (1) A létesítési engedélyezési eljárás során hozott határozat a hozzá tartozó, jóváhagyási záradékkal és bélyegzőlenyomattal ellátott műszaki dokumentációban foglaltakkal együtt érvényes.
+
+(2) A légiközlekedési hatóság a létesítési engedély megadása esetén a határozat jogerőre emelkedése után az engedélyezésre benyújtott műszaki tervek egy példányát a műszaki tervnyilvántartásában helyezi el, engedélyezési záradékkal és bélyegzőlenyomattal ellátott egy példányát a kérelmezőknek kiadja. A légiközlekedési hatóság kérelemre a műszaki dokumentáció azon további példányait is ellátja engedélyezési záradékkal, amelyeket a kérelmező e célból nyújtott be.

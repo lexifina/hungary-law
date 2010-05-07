@@ -1,0 +1,25 @@
+## 3. A határozat tartalma
+
+14. § (1) Az elvi létesítési engedély megadásáról vagy megtagadásáról szóló határozatnak – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túlmenően – tartalmaznia kell
+
+a) a határozattal érintett ingatlan címét, helyrajzi számát, továbbá a területet határoló sarokpontok Egységes Országos Vetületi rendszerben vagy geodéziai világrendszerben (a továbbiakban: WGS'84 rendszer) meghatározott koordinátáit,
+
+b) az engedély megadásának esetleges feltételeit és minden olyan eseti hatósági előírást, amelyet az elvi létesítési engedéllyel kapcsolatban az általános érvényű hatósági előírásokon és határozatokon felül vagy azoktól eltérően alkalmazni kell, valamint
+
+c) az engedély hatályának időtartamát, amely nem haladhatja meg az egy évet. Az engedély időbeli hatálya, ha a vonatkozó jogszabályok időközben nem változtak meg, egy ízben legfeljebb egy évvel meghosszabbítható.
+
+(2) Az elvi létesítési engedély a létesítési engedély megadását illetően a légiközlekedési hatóságot az (1) bekezdésben foglaltak keretei között és az (5) bekezdés figyelembevételével köti azokban a kérdésekben, amelyekről az elvi létesítési engedélyben kifejezetten rendelkezett, kivéve, ha a vonatkozó jogszabályok a létesítési, engedélyezési eljárás megindítását megelőzően megváltoztak.
+
+(3) Az 1. mellékletben felsorolt általános építmények tekintetében az eljárás lefolytatására és az elvi létesítési engedélyre az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 35. § (2) és (3) bekezdésének az elvi építési engedélyre vonatkozó előírásait alkalmazni kell.
+
+(4) Az elvi létesítési engedély hatályát veszti, ha
+
+a) a jogerőre emelkedésétől számított egy év elteltéig
+
+aa) létesítési engedélyt a repülőtérre nem kértek, vagy
+
+ab) az elvi létesítési engedély meghosszabbítását nem kérték, vagy
+
+b) az igénybe venni tervezett területre időközben létesítési engedélyt adtak ki.
+
+(5) Az elvi létesítési engedély időbeli hatálya alatt más kérelmezőnek az engedélyben meghatározott területen repülőtér létesítésére elvi létesítési engedély nem adható.

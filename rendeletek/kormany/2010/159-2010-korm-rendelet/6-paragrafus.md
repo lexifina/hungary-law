@@ -1,0 +1,11 @@
+6. § (1) A kérelmező létesítési, megszüntetési jogosultsága a következő iratokkal igazolható:
+
+a) létesítés kérelmezése esetén az érintett földrészletre vonatkozó tulajdon-, vagyonkezelői, földhasználati jogát feltüntető egy hónapnál nem régebbi hiteles tulajdoni lap másolattal, hagyatékátadó végzéssel, bírósági vagy államigazgatási határozattal, vagy – haszonélvezettel terhelt ingatlan esetében – a haszonélvező hozzájáruló nyilatkozatával vagy az ezt pótló jogerős bírósági ítélettel,
+
+b) az a) pont alá nem tartozó minden egyéb munka esetében – a tulajdonjogra, vagyonkezelői vagy földhasználati jogra vonatkozó nyilatkozatával és – haszonélvezettel terhelt ingatlan esetében – a haszonélvező hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel,
+
+c) idegen tulajdonban álló ingatlanon történő létesítés esetében az ingatlannal rendelkezni jogosult hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel, vagy a kisajátítási eljárás útján megszerzett ingatlan birtokba adását vagy a kisajátítási határozat azonnali végrehajtását elrendelő határozattal, továbbá
+
+d) közös tulajdonban álló ingatlanon történő létesítés kérelmezése esetén – a tulajdonostárs hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel.
+
+(2) Ha a kérelmező az engedély iránti kérelemhez az (1) bekezdés a) pontjában meghatározott tulajdoni lap másolatot nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
