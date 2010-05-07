@@ -1,6 +1,6 @@
-## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^71]
+## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^75]
 
-7/A. §[^72] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a Hatóságot jelöli ki.
+7/A. §[^76] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a Hatóságot jelöli ki.
 
 (2) Elsőfokú építésfelügyeleti hatóságként
 
@@ -10,7 +10,7 @@ b) az a) pont hatálya alá nem tartozó közúti közlekedési építmények vo
 
 ## jár el.
 
-(3) Elsőfokú építésfelügyeleti hatóságként a légiközlekedési építmények vonatkozásában a Légiközlekedési Igazgatóság jár el.
+(3)[^77] Első fokú építésfelügyeleti hatóságként a légiközlekedési építmények vonatkozásában – az állami repülések céljára szolgáló honvédelmi és katonai célú építmények kivételével – a Légiközlekedési Igazgatóság jár el.
 
 (4) Elsőfokú építésfelügyeleti hatóságként
 
@@ -26,5 +26,6 @@ a) a komp és révátkelőhelyek, úszóműves kikötőhelyek, úszóműálláso
 
 b) az a) pont hatálya alá nem tartozó víziközlekedési építmények vonatkozásában a Kiemelt Ügyek Igazgatósága
 
-[^71]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
-[^72]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+[^75]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+[^76]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+[^77]: A 7/A. § (3) bekezdése a 159/2010. (V. 6.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.

@@ -36,7 +36,7 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 4. a lajstromozásra kötelezett légijárművek egyedi légialkalmasságának vizsgálata és ellenőrzése, valamint a légialkalmassági bizonyítvány kiadása és időbeli hatályának meghosszabbítása,
 
-5.[^33] az állami repülések célját szolgáló repülőtér kivételével a repülőtér létesítésére, fenntartására és megváltoztatására szóló engedély kiadása,
+5.[^33]
 
 6. a repülőterek állapotának és üzemben tartásának vizsgálata és ellenőrzése, valamint a repülőtér üzemben tartási engedélyének kiadása és időbeli hatályának meghosszabbítása, a repülőtérrendek jóváhagyása,
 
@@ -52,7 +52,7 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 12. légialkalmassági bizonyítvány nélküli kísérleti, próba- vagy műszaki célú repülés engedélyezése,
 
-13. a légiközlekedési építmények építésfelügyeletének ellátása,
+13.[^34]
 
 14. a menetjegyek kiállításának engedélyezése a légitársaság részére,
 
@@ -94,23 +94,23 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 33. a légitársaság üzletszabályzatának jóváhagyása és teljesítésének ellenőrzése, a repülőterek ellenőrzése, a repülőtér üzemben tartási engedélyének kiadása és időbeli hatályának meghosszabbítása, valamint a repülőtérrendek jóváhagyása során feladatkörében gondoskodik a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásáról,
 
-34.[^34] a gazdasági célú légi közlekedési tevékenység engedélyezése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendeletnek való megfelelésről, kivéve annak 23. és 24. cikkében foglaltakat;
+34.[^35] a gazdasági célú légi közlekedési tevékenység engedélyezése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendeletnek való megfelelésről, kivéve annak 23. és 24. cikkében foglaltakat;
 
-35.[^35] a légitársaság üzletszabályzatának jóváhagyása és teljesítésének ellenőrzése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 23. és 24. cikkének való megfelelésről;
+35.[^36] a légitársaság üzletszabályzatának jóváhagyása és teljesítésének ellenőrzése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 23. és 24. cikkének való megfelelésről;
 
-36.[^36] gondoskodik az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról szóló, 2009. március 30-i 262/2009/EK bizottsági rendeletben meghatározott lekérdezési kód kiosztásáról és a kapcsolódó feladatok végrehajtásáról;
+36.[^37] gondoskodik az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról szóló, 2009. március 30-i 262/2009/EK bizottsági rendeletben meghatározott lekérdezési kód kiosztásáról és a kapcsolódó feladatok végrehajtásáról;
 
-37.[^37] ellátja a légi járműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon légi járművek esetében, amelyek külön jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek.
+37.[^38] ellátja a légi járműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon légi járművek esetében, amelyek külön jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek.
 
-38.[^38] elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
+38.[^39] elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
 
-39.[^39] kiadja a földi kiszolgáláshoz szükséges engedélyt, a földi kiszolgálás feltételeinek és engedélyezési rendjének szabályairól szóló jogszabályban foglaltak alapján korlátozza a földi kiszolgálók számát, kiválasztási eljárást folytat le, kidolgozza és honlapján közzéteszi a kiválasztási folyamatot és a kiválasztási szempontokat tartalmazó hatósági tájékoztatót, különleges intézkedést rendel el, jóváhagyja a repülőtér üzemben tartója által készített, a különleges intézkedéseket megalapozó korlátozások felszámolása érdekében készített intézkedési tervet és ellenőrzi annak, továbbá a számviteli elkülönítés végrehajtását.
+39.[^40] kiadja a földi kiszolgáláshoz szükséges engedélyt, a földi kiszolgálás feltételeinek és engedélyezési rendjének szabályairól szóló jogszabályban foglaltak alapján korlátozza a földi kiszolgálók számát, kiválasztási eljárást folytat le, kidolgozza és honlapján közzéteszi a kiválasztási folyamatot és a kiválasztási szempontokat tartalmazó hatósági tájékoztatót, különleges intézkedést rendel el, jóváhagyja a repülőtér üzemben tartója által készített, a különleges intézkedéseket megalapozó korlátozások felszámolása érdekében készített intézkedési tervet és ellenőrzi annak, továbbá a számviteli elkülönítés végrehajtását.
 
-(6)[^40] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+(6)[^41] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
-(7)[^41] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 munkanap.
+(7)[^42] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 munkanap.
 
-(8)[^42] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
+(8)[^43] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
 
 a) légijármű és légijármű berendezés karbantartó szervezetek jóváhagyása,
 
@@ -130,27 +130,28 @@ h) repülőtér létesítésének, fejlesztésének és megszüntetésének enge
 
 i) repülőtér zajgátló védőövezetének kijelölése.
 
-(9)[^43] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+(9)[^44] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
-(10)[^44] Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.
+(10)[^45] Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.
 
-(11)[^45] Ha az (5) bekezdés 23. pontja szerinti eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság 10 munkanapon belül bocsátja ki a hiánypótlási felhívást.
+(11)[^46] Ha az (5) bekezdés 23. pontja szerinti eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság 10 munkanapon belül bocsátja ki a hiánypótlási felhívást.
 
 [^28]: Az 5. § (2) bekezdése a 166/2007. (VI. 28.) Korm. rendelet 10. § (2) bekezdésének c) pontja szerint módosított szöveg.
 [^29]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^30]: Az 5. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^31]: Az 5. § (4) bekezdés c) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
 [^32]: Az 5. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: Az 5. § (5) bekezdés 5. pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^34]: Az 5. § (5) bekezdés 34. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^35]: Az 5. § (5) bekezdés 35. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^36]: Az 5. § (5) bekezdés 36. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^37]: Az 5. § (5) bekezdés 37. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^38]: Az 5. § (5) bekezdés 38. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
-[^39]: Az 5. § (5) bekezdés 39. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
-[^40]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^41]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^42]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^43]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^44]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
-[^45]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése.
+[^33]: Az 5. § (5) bekezdés 5. pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^34]: Az 5. § (5) bekezdés 13. pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^35]: Az 5. § (5) bekezdés 34. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^36]: Az 5. § (5) bekezdés 35. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^37]: Az 5. § (5) bekezdés 36. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^38]: Az 5. § (5) bekezdés 37. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^39]: Az 5. § (5) bekezdés 38. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
+[^40]: Az 5. § (5) bekezdés 39. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
+[^41]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
+[^46]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése.

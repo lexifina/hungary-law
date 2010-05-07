@@ -1,6 +1,6 @@
-## A légiközlekedési hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^78]
+## A légiközlekedési hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^83]
 
-8/B. §[^79] (1) A Kormány a repülőtér légi közlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban,
+8/B. §[^84] (1) A Kormány a repülőtér légi közlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban,
 
 a) – abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez szükséges feltételeknek, valamint teljesülnek-e a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletben foglalt alapkövetelmények – első fokú eljárásban a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot, valamint
 
@@ -8,21 +8,31 @@ b) – a létesítendő kis repülőtér működésének megzavarására irányu
 
 ## szakhatóságként jelöli ki.
 
-(2) A Kormány a polgári repülőtér létesítésére és fejlesztésére irányuló eljárásban, valamint az állami repülőtér létesítésére és fejlesztésére irányuló eljárásban
+(2)[^85] A Kormány a polgári repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények fennmaradásának engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban
 
-a) – abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez, nemzetközi repülőtér esetében a határellenőrzéshez szükséges feltételeknek, továbbá teljesülnek-e a repülőtérre vonatkozó biztonsági alapkövetelmények – a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot,
+a) – abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez, nemzetközi repülőtér esetében a határellenőrzéshez szükséges feltételeknek, továbbá teljesülnek-e a repülőtérre vonatkozó biztonsági alapkövetelmények – első fokú eljárásban a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot,
 
-b)[^80] a katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatóságát,
+b) a katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében első fokú eljárásban az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatóságát, másodfokú eljárásban az Országos Katasztrófavédelmi Főigazgatóságot,
 
-c) – abban a kérdésben, hogy a repülőtér tervezett meteorológiai műszerezettsége, a műszerek mennyisége, elhelyezése, illetve mérési pontossága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, a futópályák tervezett kiépítése az uralkodó széliránynak megfelelő-e, hiteles éghajlati adatokból, megfelelő szakismerettel készült-e az engedélyezési dokumentációnak a repülések végrehajtása szempontjából mérvadó meteorológiai körülményeket bemutató része – az Országos Meteorológiai Szolgálatot,
+c) – abban a kérdésben, hogy a repülőtér tervezett meteorológiai műszerezettsége, a műszerek mennyisége, elhelyezése, illetve mérési pontossága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, a futópályák tervezett kiépítése az uralkodó széliránynak megfelelő-e, hiteles éghajlati adatokból, megfelelő szakismerettel készült-e az engedélyezési dokumentációnak a repülések végrehajtása szempontjából mérvadó meteorológiai körülményeket bemutató része – első fokú eljárásban az Országos Meteorológiai Szolgálatot,
 
-d) termőföldön megvalósuló tevékenység esetén – a termőföld minőségi védelme kérdésében – a Mezőgazdasági Szakigazgatási Hivatal területi szervét,
+d) termőföldön megvalósuló tevékenység esetén – a termőföld minőségi védelme kérdésében – első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal területi szervét, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatalt,
 
-e) – az egészségkárosító kockázatok és esetleges hatások, valamint a repülőtér környezetében a légi közlekedésből adódó zaj és rezgés okozta, egészségre gyakorolt hatások vizsgálatával kapcsolatos szakkérdésben – az Állami Népegészségügyi és Tisztiorvosi Szolgálat kistérségi, fővárosi kerületi intézetét,
+e) – az egészségkárosító kockázatok és esetleges hatások, valamint a repülőtér környezetében a légiközlekedésből adódó zaj és rezgés okozta, egészségre gyakorolt hatások vizsgálatával kapcsolatos szakkérdésben – első fokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat kistérségi, fővárosi kerületi intézetét, másodfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézetét,
 
-f) ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak, a felszín alatti vizek és ivóvízbázisok védelmére vonatkozó szabályoknak, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – az környezetvédelmi, természetvédelmi és vízügyi felügyelőséget,
+f) ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, az V. osztályú repülőtér kivételével – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak, a felszín alatti vizek és ivóvízbázisok védelmére vonatkozó szabályoknak, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséget,
 
-g) nemzetközi forgalom számára tervezett repülőtér esetén – annak elbírálása kérdésében, hogy biztosítottak-e a vámeljárás feltételei – a Vám- és Pénzügyőrség Országos Parancsnokságát
+g) nemzetközi forgalom számára tervezett repülőtér esetében – annak elbírálása kérdésében, hogy biztosítottak-e a vámeljárás feltételei – a Vám- és Pénzügyőrség Országos Parancsnokságát,
+
+h) – annak elbírálása kérdésében, hogy a tervezett tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e,
+
+ha) amennyiben a repülőtér létesítésére, valamint a repülőtér fejlesztése esetén a futópályák számának növelésére, műszaki jellemzőinek megváltoztatására, füves repülőtéren szilárd burkolatú futópálya kiépítésére, a meglévő futópálya hosszának hosszabbítására, gurulóút hálózat bővítésére, továbbá a több megvalósulási szakaszra bontott építkezés esetében a további szakaszokban megépítendő építmény építésére irányuló tevékenység régészeti lelőhelyen vagy régészeti védőövezet területén valósul meg, vagy
+
+hb) ha a tevékenység műemléki területen vagy műemléket érintően valósul meg,
+
+első fokú eljárásban a Kulturális Örökségvédelmi Hivatal területi szervét, másodfokú eljárásban a Kulturális Örökségvédelmi Hivatal központi szervét,
+
+i) a repülőtér területén lévő, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építményekkel kapcsolatos eljárásokban – a helyi építési szabályzatnak, a szabályozási tervnek, az általános érvényű kötelező építésügyi előírásoknak, valamint az épített környezet alakításáról és védelméről szóló törvényben foglalt feltételeknek való megfelelés kérdésében – az első fokú eljárásban a repülőtér fekvése szerinti regionális államigazgatási hivatalt, a másodfokú eljárásban az építésügyért felelős minisztert
 
 ## szakhatóságként jelöli ki.
 
@@ -52,9 +62,16 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 
 ## szakhatóságként jelöli ki.
 
-(7)[^81]
+(7)[^86] A Kormány a nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárásban – annak kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, a Magyar Köztársaság légterének védelmét ellátó szolgálatok tevékenységét, vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők állami célú légiközlekedéssel kapcsolatos feladatainak ellátását akadályozza-e – a honvédelemért felelős minisztert szakhatóságként jelöli ki.
 
-[^78]: A 8/B. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^79]: A 8/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^80]: A 8/B. § (2) bekezdés b) pontja a 261/2009. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^81]: A 8/B. § (7) bekezdését a 84/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése.
+(8)[^87] A Kormány a leszállóhely létesítésére és megszüntetésére irányuló eljárásban
+
+a) a katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében első fokú eljárásban az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatóságát, másodfokú eljárásban az Országos Katasztrófavédelmi Főigazgatóságot, valamint
+
+b) – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak, a felszín alatti vizek és ivóvízbázisok védelmére vonatkozó szabályoknak, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséget
+
+[^83]: A 8/B. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^84]: A 8/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^85]: A 8/B. § (2) bekezdése a 159/2010. (V. 6.) Korm. rendelet 46. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^86]: A 8/B. § (7) bekezdését a 84/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése, újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 43. §-át.
+[^87]: A 8/B. § (8) bekezdését a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 43. §-át.
