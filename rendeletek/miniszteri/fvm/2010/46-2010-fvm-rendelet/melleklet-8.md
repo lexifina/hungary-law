@@ -1,3 +1,3 @@
-8. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^3]
+8. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^4]
 
-[^3]: A 8. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 8. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
