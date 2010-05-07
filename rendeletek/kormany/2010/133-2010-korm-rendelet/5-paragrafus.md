@@ -1,0 +1,5 @@
+5. § (1) Ha a javaslat az OKJ-ből törölt szakképesítés újrafelvételére vagy szakképesítés OKJ-ból való törlésére irányul, akkor a szakképesítésért felelős miniszter a beérkezéstől számított harminc napon belül az NSZFI és az OKJ bizottság véleménye nélkül is továbbíthatja a javaslatot a miniszternek, kezdeményezve az OKJ módosítását.
+
+(2) Ha a felsőfokú szakképesítés felvételére vonatkozó javaslatot a felsőoktatási intézmény és a gazdasági (szakmai) kamara a szakképesítésért felelős miniszterrel kötött megállapodás alapján dolgozta ki és a javaslattal a szakképesítésért felelős miniszter egyetért, akkor az NSZFI és az OKJ bizottság véleménye nélkül, harminc napon belül továbbítja a javaslatot a miniszternek, kezdeményezve az OKJ módosítását.
+
+(3) Ha a szakképesítésért felelős miniszter a 3. § (1) bekezdése szerinti javaslat nélkül kezdeményezi az OKJ módosítását, akkor a kezdeményezéséhez mellékelnie kell a 3. § (2) és (3) bekezdésében meghatározott dokumentumokat, és az NSZFI és az OKJ bizottság véleményét is.

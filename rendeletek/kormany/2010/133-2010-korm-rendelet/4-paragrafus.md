@@ -1,0 +1,7 @@
+4. § (1) A szakképesítésért felelős miniszter a javaslatot nyolc napon belül a 3. § (2) és (3) bekezdése szerinti dokumentumokkal együtt véleményezésre megküldi a Nemzeti Szakképzési és Felnőttképzési Intézetnek (a továbbiakban: NSZFI) és egyidejűleg az Sztv. 4. § (3) bekezdés b) pontjában meghatározott, a szakképzési szerkezet folyamatos fejlesztését és korszerűsítését szolgáló bizottságnak (a továbbiakban: OKJ bizottság) vagy elutasítja azt. Az elutasításról és annak indokairól tájékoztatja a javaslattevőt.
+
+(2) Az NSZFI a szakképesítésért felelős miniszter által megküldött javaslattal kapcsolatos szakmai véleményét, a javaslatnak az NSZFI-be való megérkezésétől számított harminc napon belül megküldi a szakképesítésért felelős miniszternek és az OKJ bizottságnak.
+
+(3) Az OKJ bizottság a szakképesítésért felelős miniszter által megküldött javaslattal kapcsolatos szakmai véleményét, a javaslatnak az OKJ bizottsághoz való megérkezésétől számított negyvenöt napon belül küldi meg a szakképesítésért felelős miniszternek.
+
+(4) A szakképesítésért felelős miniszter az OKJ bizottság véleményének megérkezésétől számított tizenöt napon belül – az NSZFI és az OKJ bizottság szakmai véleménye figyelembevételével – dönt a javaslat szerinti OKJ módosítás kezdeményezéséről és a 3. § (2) és (3) bekezdésében meghatározott dokumentumokkal, valamint az NSZFI és az OKJ bizottság véleményével együtt megküldi a miniszternek kezdeményezve az OKJ módosítását, vagy elutasítja a javaslatot. Az elutasításról és annak indokairól tájékoztatja a javaslattevőt.
