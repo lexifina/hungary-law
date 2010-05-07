@@ -1,8 +1,8 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^24] A támogatási kérelmet postai úton 2010. október 1. és október 31. között, azt követően évente május 1. és május 31. között, valamint október 1. és október 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
+6. § (1)[^26] A támogatási kérelmet postai úton 2010. október 1. és október 31. között, azt követően évente május 1. és május 31. között, valamint október 1. és október 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
 
-(2)[^25] A támogatási kérelemnek a következőket kell tartalmaznia:
+(2)[^27] A támogatási kérelemnek a következőket kell tartalmaznia:
 
 a) az ügyfél azonosítására vonatkozó adatok,
 
@@ -20,7 +20,7 @@ g) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 h) az ügyfél aláírása.
 
-(3)[^26]
+(3)[^28]
 
 (4) A támogatási kérelemhez csatolni kell:
 
@@ -34,7 +34,7 @@ d) a tervezett fejlesztés megvalósulási helyének feltüntetésével kiegész
 
 e) az értékeléshez az 1. számú mellékletben meghatározott igazolásokat, nyilatkozatokat, dokumentumokat;
 
-f)[^27]
+f)[^29]
 
 g) amennyiben a fejlesztés az 5. számú mellékletben szereplő településen valósul meg, akkor az ügyfél nyilatkozatát, hogy a fejlesztés a település külterületén, tanyás térségén valósul meg;
 
@@ -54,13 +54,13 @@ a) a 3. § (1) bekezdés a)–c) pontjaiban meghatározott célterületre irány
 
 b) a 3. § (1) bekezdés a) pont ab) alpontjában meghatározott célterületre irányuló fejlesztés megvalósítása esetén biztosítani az építmény legalább heti öt napon való rendszeres látogathatóságát.
 
-(7)[^28] Ha az ügyfél a (4) bekezdés h) és i) pontjában meghatározott értékhatárokra tekintettel nem köteles üzleti vagy működtetési és fenntarthatósági tervet benyújtani, kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
+(7)[^30] Ha az ügyfél a (4) bekezdés h) és i) pontjában meghatározott értékhatárokra tekintettel nem köteles üzleti vagy működtetési és fenntarthatósági tervet benyújtani, kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
-(8)[^29] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségétől. Benyújtásuk esetén a fejezeteket a (7) bekezdésben meghatározott arányosítást követően a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
+(8)[^31] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségétől. Benyújtásuk esetén a fejezeteket a (7) bekezdésben meghatározott arányosítást követően a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^24]: A 6. § (1) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított, a 15/2010. (II. 25.) FVM rendelet 7. § (6) bekezdése szerint módosított szöveg.
-[^25]: A 6. § (2) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^26]: A 6. § (3) bekezdését a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
-[^27]: A 6. § (4) bekezdésének f) pontját a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
-[^28]: A 6. § (7) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
-[^29]: A 6. § (8) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
+[^26]: A 6. § (1) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított, a 15/2010. (II. 25.) FVM rendelet 7. § (6) bekezdése szerint módosított szöveg.
+[^27]: A 6. § (2) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6. § (3) bekezdését a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
+[^29]: A 6. § (4) bekezdésének f) pontját a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
+[^30]: A 6. § (7) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 6. § (8) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.

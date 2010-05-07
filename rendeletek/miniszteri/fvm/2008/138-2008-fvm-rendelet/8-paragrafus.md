@@ -1,8 +1,8 @@
-## 7. §[^30] A támogatási kérelmek bírálatát – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS az 1. számú mellékletben, a LEADER HACS területére megállapított pontozási rendszer alapján végzett értékeléssel, továbbá a Törvény 32. § (1) bekezdés c) pontja szerinti rangsor állításával végzi. A támogatási kérelmek rangsorolása után a rendelkezésre álló keret alapján az MVH hozza meg a támogatási határozatot.
+## 7. §[^32] A támogatási kérelmek bírálatát – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS az 1. számú mellékletben, a LEADER HACS területére megállapított pontozási rendszer alapján végzett értékeléssel, továbbá a Törvény 32. § (1) bekezdés c) pontja szerinti rangsor állításával végzi. A támogatási kérelmek rangsorolása után a rendelkezésre álló keret alapján az MVH hozza meg a támogatási határozatot.
 
 ## A kifizetési kérelem benyújtása
 
-8. §[^31] (1) A kifizetési kérelmet postai úton 2009-től kezdődően évente
+8. §[^33] (1) A kifizetési kérelmet postai úton 2009-től kezdődően évente
 
 a) január 1. és január 31.,
 
@@ -42,5 +42,5 @@ h) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 i) az ügyfél aláírása.
 
-[^30]: A 7. § a 159/2009. (XI. 19.) FVM rendelet 5. §-ával megállapított szöveg.
-[^31]: A 8. § a 159/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.
+[^32]: A 7. § a 159/2009. (XI. 19.) FVM rendelet 5. §-ával megállapított szöveg.
+[^33]: A 8. § a 159/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.

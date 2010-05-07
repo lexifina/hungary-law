@@ -2,19 +2,19 @@
 
 3. § (1) E rendelet alapján támogatás vehető igénybe:
 
-a)[^9] helyi vagy országos védelem alatt álló építmények, építményrészek (a továbbiakban: 1. célterület):
+a)[^11] helyi vagy országos védelem alatt álló építmény, építményrész esetén
 
-aa) külső felújítására,
+aa) az építmény, építményrész külső felújítására,
 
-ab) építmény rendszeres látogathatóságának biztosítása esetén az érintett épület vagy épületrész belső felújítására, korszerűsítésére,
+ab) az építmény, építményrész rendszeres látogathatóságának biztosítása esetén az építmény, építményrész belső felújítására, korszerűsítésére,
 
-ac) építmény rendszeres látogathatóságának biztosítása esetén, az épület közvetlen megközelítését szolgáló gyalogutak kialakítására,
+ac) az építmény, építményrész rendszeres látogathatóságának biztosítása esetén az építmény közvetlen megközelítését szolgáló gyalogutak kialakítására,
 
 ad) építmény rendszeres látogathatóságának biztosítása esetén parkoló kialakítására,
 
-ae) kapcsolódó zöld felületeinek rendezésére, létrehozására, felújítására,
+ae) az építményhez, építményrészhez kapcsolódó zöld felület rendezésére, létrehozására, felújítására,
 
-af) kapcsolódó kerítésének kialakításra, felújítására;
+af) az építményhez, építményrészhez kapcsolódó kerítés kialakítására, felújítására (a továbbiakban együtt: 1. célterület);
 
 b) a természeti és a történelmi tájkép, valamint az azt alkotó táji elemek állapotának javítására, kialakítására (a továbbiakban: 2. célterület):
 
@@ -36,7 +36,7 @@ cc) helyi természeti, történelmi és kulturális értékekről, környezet v�
 
 a) önálló települési alapinfrastruktúra-fejlesztésre, így különösen gázhálózat, elektromos hálózat, ivóvízhálózat, szennyvízhálózat, csapadékvíz-elvezető rendszer, tűzi- víz vezetékek, tűzi-víz tárolók, utak, járdák, vasutak, átereszek, vízi létesítmények, hulladékkezelő, egyedi szennyvízelhelyezés, hírközlési, informatikai hálózat fejlesztésére;
 
-b)[^10] az ingatlan azon belső részének felújítására, átalakítására, illetve ezen ingatlanokban található eszközök beszerzésére, amely a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. § (4) bekezdésében meghatározott, az önkormányzat által kötelezően ellátandó közoktatási, egészségügyi és szociális feladatok, valamint közigazgatási funkciók ellátására szolgál;
+b)[^12] az ingatlan azon belső részének felújítására, átalakítására, illetve ezen ingatlanokban található eszközök beszerzésére, amely a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. § (4) bekezdésében meghatározott, az önkormányzat által kötelezően ellátandó közoktatási, egészségügyi és szociális feladatok, valamint közigazgatási funkciók ellátására szolgál;
 
 c) lakóépület belső részének felújítására, korszerűsítésére;
 
@@ -52,19 +52,19 @@ h) lakóépület, valamint kastély, vár kertjének, parkjának rendbetételér
 
 i) az Integrált Közösségi és Szolgáltatói Tér címmel rendelkező épületen megvalósuló fejlesztésre;
 
-j)[^11]
+j)[^13]
 
 k) hordalékok takarítására (mederkotrás, -tisztítás, iszaptalanítás);
 
-l)[^12] élő állat vásárlására;
+l)[^14] élő állat vásárlására;
 
-m)[^13] önkormányzati bérlakás felújítására, korszerűsítésére.
+m)[^15] önkormányzati bérlakás felújítására, korszerűsítésére.
 
-(4)[^14] Ha az (1) bekezdés a) pontjában foglalt fejlesztések közvetlenül csak egy épületrészt érintenek, akkor az érintett kiadásokat alapterület-arányosan meg kell osztani, és az elszámolható kiadások között csak az e rendelet alapján támogatható épületrészre arányosan jutó kiadások szerepelhetnek.
+(4)[^16] Ha az (1) bekezdés a) pontjában foglalt fejlesztések közvetlenül csak egy épületrészt érintenek, akkor az érintett kiadásokat alapterület-arányosan meg kell osztani, és az elszámolható kiadások között csak az e rendelet alapján támogatható épületrészre arányosan jutó kiadások szerepelhetnek.
 
-[^9]: A 3. § (1) bekezdésének a) pontja a 159/2009. (XI. 19.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (3) bekezdésének b) pontja a 159/2009. (XI. 19.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^11]: A 3. § (3) bekezdésének j) pontját a 94/2009. (VII. 28.) FVM rendelet 4. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
-[^12]: A 3. § (3) bekezdés l) pontját a 171/2008. (XII. 31.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^13]: A 3. § (3) bekezdés m) pontját a 171/2008. (XII. 31.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^14]: A 3. § (4) bekezdését a 159/2009. (XI. 19.) FVM rendelet 2. § (3) bekezdése iktatta be.
+[^11]: A 3. § (1) bekezdés a) pontja az 56/2010. (V. 6.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^12]: A 3. § (3) bekezdésének b) pontja a 159/2009. (XI. 19.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § (3) bekezdésének j) pontját a 94/2009. (VII. 28.) FVM rendelet 4. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
+[^14]: A 3. § (3) bekezdés l) pontját a 171/2008. (XII. 31.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^15]: A 3. § (3) bekezdés m) pontját a 171/2008. (XII. 31.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: A 3. § (4) bekezdését a 159/2009. (XI. 19.) FVM rendelet 2. § (3) bekezdése iktatta be.
