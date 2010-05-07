@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-1-20-45
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-11-14 | 2006-1-20-45.9 | 1/2006. (II. 17.) OM rendelet |
+| 2010-05-07 | 2006-1-20-45.10 | 133/2010. (IV. 22.) Korm. rendelet |
