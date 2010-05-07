@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-8
 | --- | --- | --- |
 | 2010-04-07 | 2010-29-20-82.1 | 29/2010. (III. 30.) FVM rendelet |
 | 2010-04-10 | 2010-29-20-82.2 | 34/2010. (IV. 9.) FVM rendelet |
+| 2010-05-07 | 2010-29-20-82.3 | 55/2010. (V. 6.) FVM rendelet |
