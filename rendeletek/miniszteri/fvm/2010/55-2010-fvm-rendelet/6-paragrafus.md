@@ -1,0 +1,1 @@
+## 5. § Hatályát veszti a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet módosításáról szóló 57/2009. (IV. 29.) FVM rendelet 9. § (3) bekezdésének második mondata.
