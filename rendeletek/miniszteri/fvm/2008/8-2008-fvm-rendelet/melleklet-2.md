@@ -528,7 +528,7 @@ Megnevezés: Palackozógép-kezelő
 
 | Élelmiszer-ipari gépsor- és rendszerüzemeltető | – | 1200 |
 
-II.[^2]
+II.[^4]
 
 Egyéb adatok
 
@@ -5388,7 +5388,7 @@ Megnevezés: Többfunkciós fakitermelőgép kezelője
 
 | Erdőgazdasági gépkezelő |  | 1000 |
 
-II.[^3]
+II.[^5]
 
 Egyéb adatok
 
@@ -7636,13 +7636,5 @@ C Gépkönyv, kezelési és karbantartási utasítás
 
 D Szállító- és rakodógépek jellemzői
 
-D Gépek, eszközök működési elvei, szerkezeti egységei
-
-C A gépek beállításának elvei
-
-C A vezérgép, a géplánc fogalma
-
-C A környezeti adottságok géphasználatot befolyásoló hatásai
-
-[^2]: A 2. számú melléklet 1. sorszámú „ÉLELMISZER-IPARI GÉPSOR- ÉS RENDSZERÜZEMELTETŐ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI” részének II. pontja a 152/2008. (XI. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a folyamatban lévő iskolarendszeren kívüli képzéseket és a 2008. szeptember 1. előtt megkezdett iskolai rendszerű képzéseket a megkezdésükkor hatályos szakmai vizsgakövetelményeket megállapító rendelet alapján kell befejezni.
-[^3]: A 2. számú melléklet 2. sorszámú „ERDŐGAZDASÁGI GÉPKEZELŐ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI” részének II. pontja a 152/2008. (XI. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a folyamatban lévő iskolarendszeren kívüli képzéseket és a 2008. szeptember 1. előtt megkezdett iskolai rendszerű képzéseket a megkezdésükkor hatályos szakmai vizsgakövetelményeket megállapító rendelet alapján kell befejezni.
+[^4]: A 2. számú melléklet 1. sorszámú „ÉLELMISZER-IPARI GÉPSOR- ÉS RENDSZERÜZEMELTETŐ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI” részének II. pontja a 152/2008. (XI. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a folyamatban lévő iskolarendszeren kívüli képzéseket és a 2008. szeptember 1. előtt megkezdett iskolai rendszerű képzéseket a megkezdésükkor hatályos szakmai vizsgakövetelményeket megállapító rendelet alapján kell befejezni.
+[^5]: A 2. számú melléklet 2. sorszámú „ERDŐGAZDASÁGI GÉPKEZELŐ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI” részének II. pontja a 152/2008. (XI. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a folyamatban lévő iskolarendszeren kívüli képzéseket és a 2008. szeptember 1. előtt megkezdett iskolai rendszerű képzéseket a megkezdésükkor hatályos szakmai vizsgakövetelményeket megállapító rendelet alapján kell befejezni.
