@@ -4,112 +4,98 @@
 
 ## számáról és megoszlásáról
 
-## I.
+## Táblázat a tábornoki és az ezredesi rendfokozattal rendszeresített státusok megnevezéséről, számáról és megoszlásáról
 
-## TÁBORNOKI RENDFOKOZATTAL RENDSZERESÍTETT STÁTUSOK
+## 1. TÁBORNOKI RENDFOKOZATTAL RENDSZERESÍTETT STÁTUSOK
 
-## A.[^149]
+## 1.1. Fegyveres szervek
 
-## Fegyveres szervek
+|  | A | B |
 
-## Katasztrófavédelem
+| 1. | Katasztrófavédelem |  |
 
-## – Központi szervek (OKF):
+| 2. | – Központi szervek (OKF): |  |
 
-## = főigazgató 1
+| 3. | = főigazgató | 1 |
 
-## = főigazgató-helyettes (hatósági) 1
+| 4. | = főigazgató-helyettes (hatósági) | 1 |
 
-## = főigazgató-helyettes (veszélyhelyzet
+| 5. | = főigazgató-helyettes (veszélyhelyzet kezelési) | 1 |
 
-## kezelési) 1
+| 6. | = főigazgató-helyettes (gazdasági) | 1 |
 
-## = főigazgató-helyettes (gazdasági) 1
+| 7. | – Területi szervek: |  |
 
-## – Területi szervek:
+| 8. | = igazgató (fővárosi polgári védelmi) | 1 |
 
-## = igazgató (fővárosi polgári védelmi) 1
+| 9. | Hivatásos önkormányzati tűzoltóság |  |
 
-## Hivatásos önkormányzati tűzoltóság
+| 10. | – Területi szervek |  |
 
-## – Területi szervek:
+| 11. | = tűzoltóparancsnok (fővárosi) | 1 |
 
-## = tűzoltóparancsnok (fővárosi) 1
+| 12. | Összesen: | 6 |
 
-## -------------
+## 1.2. Egyéb szervek
 
-## Összesen: 6
+|  | A | B |
 
-## B.[^150]
+| 1. | BM egyes hivatali szervezeti egységei |  |
 
-## Egyéb szervek
+| 2. | – főosztályvezető (Felügyeleti és Biztonsági Főosztály, Védelmi Hivatal) | 3 |
 
-## BM egyes hivatali szervezeti egységei
+| 3. |  |  |
 
-## – főosztályvezető (Felügyeleti és Biztonsági Főosztály, Védelmi Hivatal) 3
+| 4. | Tábornoki rendfokozattal rendszeresített státusok összesen: | 9 |
 
-## -------------
-
-## Összesen: 8
-
-## Tábornoki rendfokozattal rendszeresített státusok összesen: 58
-
-## II.
-
-## EZREDESI RENDFOKOZATTAL
-
-## RENDSZERESÍTETT STÁTUSOK
-
-## A.[^151]
+## 2. EZREDESI RENDFOKOZATTAL RENDSZERESÍTETT STÁTUSOK
 
 ## Fegyveres szervek
 
-## Katasztrófavédelem
+|  | A | B |
 
-## – Központi szervek (OKF):
+| 1. | Katasztrófavédelem |  |
 
-## = főosztályvezető 14
+| 2. | – Központi szervek (OKF): |  |
 
-## = hivatalvezető 1
+| 3. | = főosztályvezető | 14 |
 
-## – Területi szervek:
+| 4. | = hivatalvezető | 1 |
 
-## = igazgató (megyei katasztrófavédelmi) 19
+| 5. | – Területi szervek |  |
 
-## = igazgató (repülőtéri katasztrófavédelmi) 1
+| 6. | = igazgató (megyei katasztrófavédelmi) | 19 |
 
-## = igazgató-helyettes (fővárosi polgári
+| 7. | = igazgató (Katasztrófavédelmi Oktatási Központ) | 1 |
 
-## védelmi) 2
+| 8. | = igazgató (repülőtéri katasztrófavédelmi) | 1 |
 
-## = igazgató-helyettes (megyei katasztrófavédelmi) 19
+| 9. | = igazgató-helyettes (fővárosi polgári védelmi) | 2 |
 
-## = igazgató-helyettes (repülőtéri katasztrófavédelmi) 1
+| 10. | = igazgató-helyettes (megyei katasztrófavédelmi) | 19 |
 
-## Hivatásos önkormányzati tűzoltóság
+| 11. | = igazgató-helyettes (Katasztrófavédelmi Oktatási Központ) | 2 |
 
-## – Területi szervek:
+| 12. | = igazgató-helyettes (repülőtéri katasztrófavédelmi) | 1 |
 
-## = tűzoltóparancsnok-helyettes (fővárosi) 2
+| 13. | Hivatásos önkormányzati tűzoltóság |  |
 
-## = főosztályvezető (fővárosi) 7
+| 14. | – Területi szervek: |  |
 
-## – Helyi szervek:
+| 15. | = tűzoltóparancsnok-helyettes (fővárosi) | 2 |
 
-## = tűzoltóparancsnok (V., VI., VII., VIII., valamint XX., XXI., XXIII. kerületi, megyeszékhelyi és érdi hivatásos önkormányzati tűzoltóság)
+| 16. | = gazdasági igazgató (fővárosi) | 1 |
 
-## = főosztályvezető (régióvezető Közép-pesti Tűzmegelőzési Régió, Észak-pesti Tűzmegelőzési Régió, Dél-pesti Tűzmegelőzési Régió, Budai Tűzmegelőzési Régió) 25
+| 17. | = főosztályvezető (fővárosi) | 7 |
 
-## -------------
+| 18. | = főosztályvezető (régióvezető Közép-pesti Tűzmegelőzési Régió, Észak-pesti Tűzmegelőzési Régió, Dél-pesti Tűzmegelőzési Régió, Budai Tűzmegelőzési Régió) | 4 |
 
-## Összesen: 91
+| 19. | – Helyi szervek: |  |
 
-## B.[^152]
+| 20. | = tűzoltóparancsnok (megyeszékhelyi, mentési parancsnok (Közép-pesti Tűzoltási Mentési) | 19 |
 
-2. számú melléklet a 11/1997. (II. 18.) BM rendelethez[^153]
+| 21. | Összesen: | 93 |
 
-[^149]: Az 1. számú melléklet I. rész A. pontjához tartozó táblázat a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^150]: Az 1. számú melléklet I. rész B. pontjához tartozó táblázat a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^151]: Az 1. számú melléklet II. rész A. pontjához tartozó táblázat a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^152]: Az 1. számú melléklet II. rész B. pontjához tartozó táblázatot a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^153]: A 2. számú mellékletet a 19/2008. (III. 28.) ÖTM rendelet 2. §-a hatályon kívül helyezte. A katasztrófavédelmi szerveknél és a hivatásos önkormányzati tűzoltóságoknál rendszeresített hivatásos beosztások meghatározása tekintetében lásd a 19/2008. (III. 28.) ÖTM rendeletet.
+2. számú melléklet a 11/1997. (II. 18.) BM rendelethez[^149]
+
+[^149]: A 2. számú mellékletet a 19/2008. (III. 28.) ÖTM rendelet 2. §-a hatályon kívül helyezte. A katasztrófavédelmi szerveknél és a hivatásos önkormányzati tűzoltóságoknál rendszeresített hivatásos beosztások meghatározása tekintetében lásd a 19/2008. (III. 28.) ÖTM rendeletet.

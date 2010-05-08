@@ -32,7 +32,7 @@
 
 ## – A hivatásos állomány tagja, amikor rendkívüli körülmények miatt (árvíz, helyi katasztrófa stb.) a szolgálati vagy az állományilletékes parancsnok által meghatározott helyen kell tartózkodnia és feladatokat végeznie.
 
-6. számú melléklet a 11/1997. (II. 18.) BM rendelethez[^157]
+6. számú melléklet a 11/1997. (II. 18.) BM rendelethez[^153]
 
 Táblázat
 
@@ -354,4 +354,4 @@ a munkáltatói jogkörök szintjeihez kapcsolódó egyes munkáltatói jogkör�
 
 Megjegyzés:
 
-[^157]: A 6. számú melléklet a 42/2005. (X. 18.) BM rendelet 22. §-ával megállapított, a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^153]: A 6. számú melléklet a 42/2005. (X. 18.) BM rendelet 22. §-ával megállapított, a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés e) pontja szerint módosított szöveg.
