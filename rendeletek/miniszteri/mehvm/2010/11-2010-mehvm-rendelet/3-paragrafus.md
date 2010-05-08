@@ -1,0 +1,1 @@
+## 2. § A digitális archiválás szabályairól szóló 114/2007. (XII. 29.) GKM rendelet 1. § (2) bekezdésében a „nem terjed ki” szövegrész helyébe a „– a Magyar Közlöny és a Hivatalos Értesítő elektronikus dokumentumként kiadott lapszámainak digitális archiválása kivételével – nem terjed ki” szöveg lép.
