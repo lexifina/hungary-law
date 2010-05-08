@@ -1,6 +1,6 @@
-## Adatvédelem és titoktartás[^110]
+## Adatvédelem és titoktartás[^113]
 
-39/A. §[^111] (1) Az engedélyezéshez a kérelmező által benyújtott saját adatok más fél előnyére kizárólag a (2) és (3) bekezdés szerinti védelmi idő lejártával vagy az adat tulajdonosának írásbeli hozzájárulásával használhatók fel.
+39/A. §[^114] (1) Az engedélyezéshez a kérelmező által benyújtott saját adatok más fél előnyére kizárólag a (2) és (3) bekezdés szerinti védelmi idő lejártával vagy az adat tulajdonosának írásbeli hozzájárulásával használhatók fel.
 
 (2) Új hatóanyagok engedélyezéséhez benyújtott adatok védelmi ideje 10 év, a pótlólag benyújtott új adatok védelmi ideje pedig a kérelemmel egyidejűleg benyújtott adatokra fennmaradó idő, de legalább 5 év.
 
@@ -12,5 +12,5 @@
 
 (6) A kérelmező és az engedélyes köteles legkésőbb 15 napon belül az engedélyező hatóság tudomására hozni, ha engedélyezték bármely olyan adat vagy dokumentáció közzétételét, amely korábban az (5) bekezdés szerint titoktartási kötelezettség alá tartozott.
 
-[^110]: A 39/A. §-t megelőző alcímet a 15/2009. (III. 6.) FVM rendelet 30. §-a iktatta be.
-[^111]: A 39/A. §-t a 15/2009. (III. 6.) FVM rendelet 30. §-a iktatta be; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^113]: A 39/A. §-t megelőző alcímet a 15/2009. (III. 6.) FVM rendelet 30. §-a iktatta be.
+[^114]: A 39/A. §-t a 15/2009. (III. 6.) FVM rendelet 30. §-a iktatta be; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

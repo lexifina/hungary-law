@@ -8,7 +8,7 @@
 
 (5) Amennyiben a csomagolóeszközön lévő címkén kevés hely áll rendelkezésre, akkor az előírt adatokat részletes használati utasításban kell minden kiszerelési egységhez mellékelni.
 
-(6)[^99] A címkén az előírtakon kívül csak olyan további adatok, információk tüntethetők fel, amelyek nem ellentétesek az engedélyokirat előírásaival. A címkén nem kötelező az összes engedélyezett kultúrát feltüntetni, amennyiben az engedélyező hatóság az engedélyokiratban, illetve korábban engedélyezett készítmények esetén külön határozatában erre előzetesen engedélyt adott.
+(6)[^102] A címkén az előírtakon kívül csak olyan további adatok, információk tüntethetők fel, amelyek nem ellentétesek az engedélyokirat előírásaival. A címkén nem kötelező az összes engedélyezett kultúrát feltüntetni, amennyiben az engedélyező hatóság az engedélyokiratban, illetve korábban engedélyezett készítmények esetén külön határozatában erre előzetesen engedélyt adott.
 
 (7) A címkén nem tüntethető fel ,,nem veszélyes'', ,,nem toxikus'', illetve ezekhez hasonló besorolások, vagy amely az érintett növényvédő szer veszélyeinek alulértékelését eredményezheti. A címkén feltüntethető arra való utalás, hogy a növényvédő szer használható méhek vagy más nem célzott élő szervezetek tevékenysége idején, vagy a kultúrnövények, illetve gyomnövények virágzásának idején, amennyiben az engedély kifejezetten a méhek vagy más meghatározott élő szervezetek tevékeny időszakára szól, és azok számára a lehető legkisebb veszélyforrást jelenti.
 
@@ -16,10 +16,10 @@
 
 (9) Amennyiben az engedélyező hatóság az ember egészségének, a környezet védelmének érdekében további mondatok címkén való feltüntetését tartja indokoltnak, arról a Szerződő Államokat tájékoztatni kell, illetve a Bizottság állásfoglalását kell kérnie.
 
-(10)[^100] A címkézésre vonatkozó gyakorlati előírásokat a Gyűjtemény részét képező Címkézési útmutató tartalmazza.
+(10)[^103] A címkézésre vonatkozó gyakorlati előírásokat a Gyűjtemény részét képező Címkézési útmutató tartalmazza.
 
-(11)[^101] A vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról szóló 1907/2006/EK rendelet tájékoztatási kötelezettségre vonatkozó 31. cikkét, különös tekintettel a forgalmazók és felhasználók biztonsági adatlappal való ellátására, a növényvédő szerekkel kapcsolatban is alkalmazni kell.
+(11)[^104] A vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról szóló 1907/2006/EK rendelet tájékoztatási kötelezettségre vonatkozó 31. cikkét, különös tekintettel a forgalmazók és felhasználók biztonsági adatlappal való ellátására, a növényvédő szerekkel kapcsolatban is alkalmazni kell.
 
-[^99]: A 31. § (6) bekezdése a 15/2009. (III. 6.) FVM rendelet 28. § (1) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^100]: A 31. § (10) bekezdése a 15/2009. (III. 6.) FVM rendelet 28. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^101]: A 31. § (11) bekezdését a 15/2009. (III. 6.) FVM rendelet 28. § (2) bekezdése iktatta be; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^102]: A 31. § (6) bekezdése a 15/2009. (III. 6.) FVM rendelet 28. § (1) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^103]: A 31. § (10) bekezdése a 15/2009. (III. 6.) FVM rendelet 28. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^104]: A 31. § (11) bekezdését a 15/2009. (III. 6.) FVM rendelet 28. § (2) bekezdése iktatta be; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

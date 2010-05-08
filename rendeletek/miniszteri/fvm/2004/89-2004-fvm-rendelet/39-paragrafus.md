@@ -1,4 +1,4 @@
-## 38. §[^107]
+## 38. §[^110]
 
 ## Jelentési kötelezettség
 
@@ -16,11 +16,11 @@ a) negyedévenként a kiadott és visszavont növényvédő szer engedélyekről
 
 5. a rendeltetésszerű alkalmazást vagy alkalmazásokat,
 
-6.[^108]
+6.[^111]
 
 7. ahol indokolt, az engedély visszavonásának okait,
 
-8.[^109]
+8.[^112]
 
 b) évente az engedélyezett növényvédő szerek jegyzékéről,
 
@@ -28,6 +28,6 @@ c) az 1. számú melléklet A. részében szereplő azon hatóanyagokat tartalma
 
 d) a növényvédő szerre és a hatóanyag veszélyességére vonatkozó, az engedélyes által benyújtott új adatokról.
 
-[^107]: A 38. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének g) pontja hatályon kívül helyezte.
-[^108]: A 39. § a) pontjának 6. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
-[^109]: A 39. § a) pontjának 8. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
+[^110]: A 38. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^111]: A 39. § a) pontjának 6. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
+[^112]: A 39. § a) pontjának 8. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
