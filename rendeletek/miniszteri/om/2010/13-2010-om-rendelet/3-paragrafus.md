@@ -1,0 +1,1 @@
+## 2. § A belügyminiszter irányítása alá tartozó szervek és az önkormányzati tűzoltóság hivatásos szolgálati viszonyban álló tagjaival kapcsolatos munkáltatói jogkörök szabályozásáról, valamint e szerveknél rendszeresített hivatásos beosztások meghatározásáról szóló 11/1997. (II. 18.) BM rendelet 1 számú melléklete a 2. melléklet szerint módosul.

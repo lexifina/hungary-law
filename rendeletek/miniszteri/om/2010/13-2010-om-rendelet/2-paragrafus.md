@@ -1,0 +1,1 @@
+## 1. § A katasztrófavédelmi szerveknél és a hivatásos önkormányzati tűzoltóságoknál rendszeresített hivatásos beosztások meghatározásáról szóló 19/2008. (III. 28.) ÖTM rendelet melléklete az 1. melléklet szerint módosul.
