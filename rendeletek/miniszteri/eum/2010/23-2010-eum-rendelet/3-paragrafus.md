@@ -1,0 +1,1 @@
+## „10. § A 2. § (2) bekezdésében foglalt adattovábbítási kötelezettségét az Eütv. 114. § (3) bekezdés g) pontja szerinti szervnek első alkalommal 2010. július 31-éig, a 2010. január 1-je és 2010. június 30-a közötti időszakra vonatkozó adatok tekintetében kell teljesítenie.”
