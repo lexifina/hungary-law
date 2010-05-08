@@ -1,0 +1,5 @@
+## 5. § A KEKKH biztosítja a HVI vezetője részére az informatikai rendszerben a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartásának elérését a kisebbségi választói jegyzékbe felvételét kérő polgár állampolgársága és választójoga ellenőrzéséhez.
+
+6. § (1) A HVI vezetője legkésőbb a kérelem beérkezését követő munkanapon – a július 15-én beérkező kérelem esetén a beérkezés napján – határozattal dönt a kérelmező kisebbségi választói jegyzékbe vételéről. A határozatot a HVI a kérelmező lakcímére haladéktalanul megküldi.
+
+(2) Ha a választópolgár több kisebbség választói jegyzékébe is kéri felvételét, a HVI vezetője a kérelmező valamennyi kérelmét elutasítja. Ha a már kisebbségi választói jegyzékbe vett választópolgár kéri egy másik kisebbség kisebbségi választói jegyzékébe történő felvételét, a HVI vezetője törli a kisebbségi választói jegyzékből, és megtagadja a kisebbségi választói jegyzékbe való felvételét az újabb kérelem alapján.

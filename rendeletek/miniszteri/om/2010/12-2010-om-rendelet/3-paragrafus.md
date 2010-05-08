@@ -1,0 +1,3 @@
+3. § (1) Az Országos Választási Iroda (a továbbiakban: OVI) gondoskodik a választási eljárásról szóló 1997. évi C. törvény (a továbbiakban: Ve.) 115/E. § (1) bekezdésében meghatározott tájékoztató, a Ve. 11. számú melléklete szerinti kérelemnyomtatvány, valamint az azok kézbesítéséhez szükséges, a választópolgárok nevét és lakcímét tartalmazó etikettek elkészítéséről.
+
+(2) Az OVI a kérelemnyomtatványokat, a tájékoztatót, valamint az azok továbbításához szükséges etiketteket és borítékokat a fővárosi és Pest megyei HVI-k részére közvetlenül, a többi HVI részére a területi választási irodák (a továbbiakban: TVI) útján május 15-ig megküldi.
