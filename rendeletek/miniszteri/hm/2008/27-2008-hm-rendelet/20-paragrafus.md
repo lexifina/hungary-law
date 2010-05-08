@@ -18,15 +18,15 @@
 
 (6) A kegyeleti gondoskodás e rendeletben meghatározott egyéb formái és feladatai az (1) bekezdésben meghatározott minősítés esetén nem alkalmazhatók.”
 
-Melléklet a 27/2008. (XII. 31.) HM rendelethez
+Melléklet a 27/2008. (XII. 31.) HM rendelethez[^7]
 
 A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
-| Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék %-a1 |
+| Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék %-a8 |
 
 | A | B | C | D | E | F | G | H | I | J |
 
-| Vezetői munkakörök: |
+| 1. Vezetői munkakörök: |
 
 | Pályáztatásra kötelezett: |
 
@@ -53,6 +53,8 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 | katolikus tábori püspök |  |  |  |  |  |  |  |  |  |  |  |
 
 | b) Vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
+
+| Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
 | igazgató |  |  |  |  |  |  |  | * | * | * |  |
 
@@ -90,12 +92,6 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | irodavezető-helyettes |  |  |  |  | * | * |  |  |  |  |  |
 
-| Főkönyvtáros, könyvtáros |  |  |  |  |  | * | * | * |  |  |  |
-
-| könyvtárvezető |  |  |  |  |  | * | * | * |  |  |  |
-
-| könyvtárvezető-helyettes |  |  |  |  |  | * | * | * |  |  |  |
-
 | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
 | csoportvezető |  |  |  | * | * | * | * | * | * | * |  |
@@ -106,7 +102,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | műhelyvezető |  |  | * | * | * | * | * | * |  |  |  |
 
-| részlegvezető (ügyviteli) |  | * |  | * | * | * | * | * |  |  |  |
+| részlegvezető (ügyviteli) |  | * | * | * | * | * | * | * |  |  |  |
 
 | szolgálatvezető |  |  | * | * | * | * | * | * |  |  |  |
 
@@ -123,10 +119,6 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 | ellenőr, főellenőr |  |  |  |  |  | * | * | * | * |  |  |
 
 | mérnök, főmérnök |  |  |  |  |  | * | * | * | * | * |  |
-
-| Kulturális menedzser |  |  |  |  |  | * | * | * |  |  |  |
-
-| Népművelő szervező |  |  |  |  |  | * | * | * |  |  |  |
 
 | főelőadó (igazgatási, számviteli, vámügyi, informatikai, gazdasági stb.) |  |  |  |  | * | * | * | * | * | * |  |
 
@@ -154,7 +146,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
-| adminisztrátor |  |  |  | * |  |  |  |  |  |  |  |
+| adminisztrátor |  |  | * | * |  |  |  |  |  |  |  |
 
 | vezető ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
 
@@ -202,8 +194,6 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | üzemeltető |  |  | * | * | * |  |  |  |  |  |  |
 
-| állatgondozó | * | * | * |  |  |  |  |  |  |  |  |
-
 | betanított munkás | * | * |  |  |  |  |  |  |  |  |  |
 
 | műszerész |  |  | * | * | * |  |  |  |  |  |  |
@@ -222,7 +212,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | szakács, főszakács |  |  | * | * |  |  |  |  |  |  |  |
 
-| szakmunkás |  |  | * | * |  |  |  |  |  |  |  |
+| szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
 
 | nyomdász, nyomdavezető |  |  | * | * | * |  |  |  |  |  |  |
 
@@ -230,9 +220,11 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | gépmester |  |  | * | * | * |  |  |  |  |  |  |
 
-| pincér (felszolgáló) |  | * | * | * |  |  |  |  |  |  |  |
+| pincér (felszolgáló) | * | * | * | * |  |  |  |  |  |  |  |
 
-| raktáros, raktárvezető |  |  | * | * |  |  |  |  |  |  |  |
+| raktárvezető; raktárvezető helyettes |  |  | * | * | * |  |  |  |  |  |  |
+
+| raktáros |  | * | * |  |  |  |  |  |  |  |  |
 
 | tűzoltó |  | * | * | * |  |  |  |  |  |  |  |
 
@@ -240,7 +232,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | tűzoltó váltásparancsnok |  | * | * | * |  |  |  |  |  |  |  |
 
-| anyagmozgató | * | * | * |  |  |  |  |  |  |  |  |
+| Anyagmozgató; targoncavezető | * | * | * |  |  |  |  |  |  |  |  |
 
 | gondnok | * | * | * |  |  |  |  |  |  |  |  |
 
@@ -250,4 +242,6 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | takarító | * |  |  |  |  |  |  |  |  |  |  |
 
-1 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
+8 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
+
+[^7]: A Melléklet a 7/2010. (IV. 23.) HM rendelet 5. § és 6. § (3) bekezdése szerint módosított szöveg.
