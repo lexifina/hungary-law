@@ -48,7 +48,7 @@
 
 4. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^53]
+338/2006. (XII. 23.) Korm. rendelethez[^54]
 
 A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -76,4 +76,4 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 8. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – régészeti lelőhely, régészeti védőövezet, illetve műemléki terület jogi jelleg ténye van feljegyezve, vagy amelynek helyrajzi száma szerepel a Kulturális Örökségvédelmi Hivatalról szóló 308/2006. (XII. 23.) Korm. rendelet 1. § (6) bekezdése szerinti adatbázisban | Annak elbírálása kérdésében, hogy a telekalakítás a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
 
-[^53]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 129/2010. (IV. 21.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^54]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 129/2010. (IV. 21.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-338-20-
 | 2010-01-01 | 2006-338-20-22.11 | 338/2006. (XII. 23.) Korm. rendelet |
 | 2010-02-25 | 2006-338-20-22.12 | 31/2010. (II. 22.) Korm. rendelet |
 | 2010-05-01 | 2006-338-20-22.13 | 129/2010. (IV. 21.) Korm. rendelet |
+| 2010-05-08 | 2006-338-20-22.14 | 152/2010. (IV. 30.) Korm. rendelet |

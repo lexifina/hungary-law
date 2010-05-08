@@ -6670,6 +6670,6 @@
 
 2. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^51]
+338/2006. (XII. 23.) Korm. rendelethez[^52]
 
-[^51]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 129/2010. (IV. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^52]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 129/2010. (IV. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
