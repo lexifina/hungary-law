@@ -2,7 +2,7 @@
 
 2. § Ez a rendelet 2006. január 1-jén lép hatályba.
 
-Melléklet a 7/2005. (XII. 28.) MeHVM rendelethez
+Melléklet a 7/2005. (XII. 28.) MeHVM rendelethez[^2]
 
 Általános közzétételi lista
 
@@ -12,7 +12,7 @@ I. Szervezeti, személyzeti adatok
 
 | 1. | A polgári nemzetbiztonsági szolgálat hivatalos neve, székhelye, postai címe, telefon- és telefaxszáma, elektronikus levélcíme, honlapja, (amennyiben a szolgálat honlapja tartalmazza, a megyei kirendeltség címe, elérhetősége) | A változásokat követően azonnal | Az előző állapot törlendő |
 
-| 2. | A polgári nemzetbiztonsági szolgálat szervezeti felépítése igazgatósági szintig, a törvényben meghatározott feladatai megjelölésével | A változásokat követően azonnal | Az előző állapot törlendő |
+| 2. | A polgári nemzetbiztonsági szolgálatok szervezeti felépítése igazgatósági szintig, továbbá a hatósági feladatokat ellátó szervezeti egységek, a törvényben meghatározott feladataik rögzítésével | A változásokat követően azonnal | Az előző állapot törlendő |
 
 | 3. | A polgári nemzetbiztonsági szolgálat főigazgatója és helyettesei neve, beosztása, rendfokozata | A változásokat követően azonnal | Az előző állapot törlendő |
 
@@ -41,3 +41,5 @@ III. Gazdálkodási adatok
 | 1. | A költségvetési törvényben szereplő, polgári nemzetbiztonsági szolgálatok cím alatt található adatok | A változásokat követően azonnal | A külön jogszabályban meghatározott ideig, de legalább 5 évig archívumban tartásával |
 
 | 2. | Az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő – a külön jogszabályban meghatározott értékű – árubeszerzésre, építési beruházásra, szolgáltatás megrendelésére, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására vonatkozó, a közbeszerzésekről szóló 2003. évi CXXIX. törvény szerinti eljárások alapján létrejött szerződések - ide nem értve az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 143/2004. (IV. 29.) Korm. rendelet alapján létrejött szerződéseket – megnevezése (típusa), tárgya, a szerződést kötő felek neve, a szerződés értéke, határozott időre kötött szerződés esetében annak időtartama | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 5 évig archívumban tartásával |
+
+[^2]: A melléklet a 4/2010. (IV. 30.) PTNM rendelet 1. §-a szerint módosított szöveg.
