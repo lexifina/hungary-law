@@ -6,11 +6,11 @@
 
 (3) E rendelet hatálya nem terjed ki:
 
-a) a természetes személy fizetési nehézsége és késedelme miatt a meglévő hitelei módosítására, átütemezésére, amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik és az új hitel nem tartozik
+a)[^1] a természetes személy fizetési nehézsége és késedelme miatt a meglévő hitelei módosítására, átütemezésére, amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik és az új hitel
 
-aa) a 4. § (2) bekezdésének b) pontjában kezelt kategóriába, ha az eredeti hitel euró alapú hitel vagy euróhitel,
+aa) euróhitel, euró alapú hitel vagy forinthitel, ha az eredeti hitel euró alapú hitel, euróhitel vagy más devizahitel,
 
-ab) a 4. § (2) bekezdésében kezelt kategóriákba, ha az eredeti hitel forinthitel;
+ab) forinthitel, ha az eredeti hitel forinthitel;
 
 b) a már fennálló hitellel rendelkező természetes személy fizetőképességének biztosítása érdekében ugyanazon hitelnyújtónál történő új hitel nyújtására, ha az további eladósodottságot csak a fizetőképesség helyreállításával indokolt mértékig eredményez;
 
@@ -24,12 +24,18 @@ e) a Nemzeti Fejlesztési és Gazdasági Minisztérium egyes fejezeti kezelésű
 
 (5) E rendelet 6. §-át nem kell alkalmazni az állami kezességvállalással biztosított lakáscélú kölcsönökre.
 
-(6) E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitelnyújtónál történő kiváltására, ha
+(6)[^2] E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitelnyújtónál felvett kölcsönnel történő kiváltására, ha
 
-a) ezáltal a hiteltartozás kiváltáskor fennálló összege – devizahitel esetén a hitel eredeti devizanemében meghatározott összeg – nem növekszik, és
+a) ezáltal a hiteltartozás összege nem növekszik, és
 
-b) az új hitel nem tartozik
+b) az új hitel
 
-ba) a 4. § (2) bekezdésének b) pontjában kezelt kategóriába, ha az eredeti hitel euró alapú hitel vagy euróhitel,
+ba) euróhitel, euró alapú hitel vagy forinthitel, ha az eredeti hitel euró alapú hitel, euróhitel vagy más devizahitel,
 
-bb) a 4. § (2) bekezdésében kezelt kategóriákba, ha az eredeti hitel forinthitel.
+bb) forinthitel, ha az eredeti hitel forinthitel.
+
+(7)[^3] A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
+
+[^1]: Az 1. § (3) bekezdés a) pontja a 152/2010. (IV. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (6) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (7) bekezdését a 152/2010. (IV. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be.
