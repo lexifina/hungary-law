@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-149-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-05-01 | 2010-149-20-22.1 | 149/2010. (IV. 29.) Korm. rendelet |
+| 2010-05-08 | 2010-149-20-22.2 | 162/2010. (V. 7.) Korm. rendelet |
