@@ -2,386 +2,369 @@
 
 2. §[^1] A rendelet a kihirdetését követő napon lép hatályba.
 
-Melléklet a 19/2008. (III. 28.) ÖTM rendelethez
+Melléklet a 19/2008. (III. 28.) ÖTM rendelethez[^2]
 
 KATASZTRÓFAVÉDELEM (polgári védelem, hivatásos állami tűzoltóság)
 
 Vezetői munkakörök
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+|  | A | B | C | D | E | F | G | H |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 1. | Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| K ö z p o n t i | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | Főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | Főigazgató-helyettes |
+| 3. | Központi | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | Főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| főosztályvezetői illetményre jogosult | Főosztályvezető | ezredes | egyetem, vagy főiskola |
+| 4. | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | Főigazgató-helyettes |
 
-| Hivatalvezető |
+| 5. | főosztályvezetői illetményre jogosult | Főosztályvezető | ezredes | egyetem vagy főiskola |
 
-| Szóvivő |
+| 6. | Hivatalvezető |
 
-| főosztályvezető- helyettesi illetményre jogosult | Főosztályvezető-helyettes | alezredes | RSZV |
+| 7. | Szóvivő |
 
-| osztályvezetői illetményre jogosult | Osztályvezető | alezredes |
+| 8. | főosztályvezető-helyettesi illetményre jogosult | Főosztályvezető-helyettes | alezredes |
 
-| Titkárságvezető |
+| 9. | osztályvezetői illetményre jogosult | Osztályvezető | alezredes |
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 10. | Titkárságvezető |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 11. | Területi | főosztályvezetői illetményre jogosult | Igazgató (fővárosi polgári védelmi) | tábornok | egyetem | RSZV |
 
-| T e r ü l e t i | főosztályvezetői illetményre jogosult | Igazgató(fővárosi polgári védelmi) | tábornok | egyetem | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 12. | Igazgató (megyei katasztrófavédelmi) | ezredes | egyetem vagy főiskola |
 
-| Igazgató(megyei katasztrófavédelmi) | ezredes | egyetem, vagy főiskola |
+| 13. | Igazgató (KOK, repülőtéri katasztrófavédelmi) |
 
-| Igazgató(KOK, repülőtéri katasztrófavédelmi) |
+| 14. | főosztályvezető-helyettesi illetményre jogosult | Igazgatóhelyettes (fővárosi polgári védelmi) |
 
-| főosztályvezető- helyettesi illetményre jogosult | Igazgató-helyettes(fővárosi polgári védelmi) |
+| 15. | Igazgatóhelyettes (megyei katasztrófavédelmi) |
 
-| Igazgató-helyettes(megyei katasztrófavédelmi) |
+| 16. | Igazgatóhelyettes (KOK, repülőtéri katasztrófavédelmi) |
 
-| Igazgató-helyettes(KOK, repülőtéri katasztrófavédelmi) |
+| 17. | osztályvezetői illetményre jogosult | Osztályvezető | alezredes |
 
-| osztályvezetői illetményre jogosult | Osztályvezető–––––––––––––––––––––––––––––––– Karmester | alezredes |
+| 18. | Karmester |
 
-| Szakcsoportvezető (KOK) |
+| 19. | Szakcsoportvezető (KOK) |
 
-| H e l y i | osztályvezetői illetményre jogosult | Tűzoltóparancsnok(Országház) |  |  |  | RSZV |  |
+| 20. | Helyi | osztályvezetői illetményre jogosult | Tűzoltóparancsnok (Országház) |
 
-| Kirendeltség-vezető(polgári védelmi) |
+| 21. |  |  | Kirendeltség-vezető (polgári védelmi) |  |  |  | RSZV |  |
 
 I. Besorolási osztály
 
-| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+|  | A | B | C | D | E | F | G | H |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 1. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| K ö z p o n t i | VI. | Osztályvezető-helyettes | alezredes | egyetem, vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| Alosztályvezető |
+| 3. | Központi | VI. | Osztályvezető-helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| Kiemelt főreferens |
+| 4. | Alosztályvezető |
 
-| Munkabiztonsági főfelügyelő |
+| 5. | Kiemelt főreferens |
 
-| Vezető ügyeletes |
+| 6. | Munkabiztonsági főfelügyelő |
 
-| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 7. | Vezető ügyeletes |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 8. | V. | Csoportvezető mentésszervezési, megelőzésiveszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | pszichológiai alkalmasság |
 
-| K ö z p o n t i | V. | Csoportvezető mentésszervezési, megelőzésiveszélyhelyzet-kezelési, mentési,lakosságvédelmi, oktatási, képzési,ellenőrzési, hatósági, engedélyezési,balesetelhárítási, minősített időszaki |  | egyetem, vagyfőiskola | szakirányú felsőfokú |  | pszichológiai alkalmasság |
+| 9. | Kiemelt főelőadó mentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki |
 
-| Kiemelt főelőadó mentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki |
+| 10. | IV. | Főelőadó mentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki | őrnagy |
 
-| IV. | Főelőadómentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki | őrnagy |
+| 11. | III. | Előadó mentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki | százados |
 
-| III. | Előadómentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki | százados |
+| 12. | II. | Fogalmazó mentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki |
 
-| II. | Fogalmazó mentésszervezési, megelőzési veszélyhelyzet-kezelési, mentési, lakosságvédelmi, oktatási, képzési, ellenőrzési, hatósági, engedélyezési, balesetelhárítási, minősített időszaki |
+| 13. | I. | Szerződéses |
 
-| I. | Szerződéses |
+| 14. | Pályakezdő | hadnagy |
 
-|  | Pályakezdő | hadnagy |
+| 15. | Területi | VI. | Osztályvezető-helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| Szerv | Beosztási kategória | Munkakör(beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 16. |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 17. |
 
-| T e r ü l e t i | VI. | Osztályvezető-helyettes | alezredes | egyetem, vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 18. | Alosztályvezető |
 
-| Alosztályvezető |
+| 19. | Nevelési parancsnok |
 
-| Nevelési parancsnok |
+| 20. | Kiemelt főreferens |
 
-| Kiemelt főreferens |
+| 21. | V. | Csoportvezető veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | pszichológiai alkalmasság |
 
-| Szerv | Beosztási kategória | Munkakör(beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 22. | Kiemelt főtanár |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 23. | Kiemelt főelőadó veszélyhelyzet-kezelési, felderítési, – megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
 
-| T e r ü l e t i | V. | Csoportvezető veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) | alezredes | egyetem, vagyfőiskola | szakirányú felsőfokú |  | pszichológiai alkalmasság |
+| 24. | Kiemelt főellenőr |
 
-| Kiemelt főtanár |
+| 25. | Ügyeletvezető |
 
-| Kiemelt főelőadó veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
+| 26. | Karmester-helyettes |
 
-| Kiemelt főellenőr |
+| 27. | IV. | Főelőadó veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) | őrnagy |
 
-| Ügyeletvezető Karmester-helyettes |
+| 28. | Főtanár |
 
-| IV. | Főelőadóveszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) | őrnagy |
+| 29. | Ügyeletes |
 
-| Főtanár |
+| 30. | III. | Előadó veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) | százados |
 
-| Ügyeletes |
+| 31. | Tanár |
 
-| T e r ü l e t i | III. | Előadóveszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) | százados | egyetem, vagyfőiskola | szakirányú felsőfokú |  | pszichológiai alkalmasság |
+| 32. | Ügyeletes |
 
-| Tanár |
+| 33. | Oktató |
 
-| Ügyeletes |
+| 34. | II. | Fogalmazó veszélyhelyzet-kezelési, felderítési -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
 
-| Oktató |
+| 35. | I. | Szerződéses |
 
-| II. | Fogalmazó veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
+| 36. | Pályakezdő | hadnagy |
 
-| I. | Szerződéses |
+| 37. | Helyi | V. | Szolgálatparancsnok (Repülőtér) | alezredes |
 
-|  | Pályakezdő | hadnagy |
+| 38. | Szolgálatparancsnok (Országház) |
 
-| H e l y i | V. | Szolgálatparancsnok (Repülőtér) | alezredes |
+| 39. | IV. | Szolgálatparancsnok-helyettes (Repülőtér) | őrnagy |
 
-| Szolgálatparancsnok (Országház) |
+| 40. | III. | Hírközpontvezető (Repülőtér) | százados |
 
-| IV. | Szolgálatparancsnok-helyettes (Repülőtér) | őrnagy |
+| 41. | II. |  |
 
-| III. | Hírközpontvezető (Repülőtér) | százados |
+| 42. | I. | Szerződéses |
 
-| II. |  |
-
-| I. | Szerződéses |
-
-|  | Pályakezdő | hadnagy |
+| 43. | Pályakezdő | hadnagy |
 
 II. Besorolási osztály
 
-| Szerv | Beosztási kategória | Munkakör(beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+|  | A | B | C | D | E | F | G | H |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 1. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| T e r ü l e t i | IV. | Szolgálatvezető | főtörzszászlós | középiskola | szakirányú középfokú |  | pszichológiai alkalmasság |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| Technikai ügyeletes |
+| 3. | Területi | IV. | Szolgálatvezető | főtörzs- zászlós | középiskola | szakirányú középfokú |  | pszichológiai alkalmasság |
 
-| Szolgálatparancsnok-helyettes |
+| 4. | Technikai ügyeletes |
 
-| Szakoktató |
+| 5. | Szolgálatparancsnok-helyettes |
 
-| Ügyeletes |
+| 6. | Szakoktató |
 
-| III. | Segédelőadó veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
+| 7. | Ügyeletes |
 
-| Műmester |
+| 8. | III. | Segédelőadó veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
 
-| Kiképző |
+| 9. | Műmester |
 
-| Technikusveszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
+| 10. | Kiképző |
 
-| Ügyeletes |
+| 11. | Technikus veszélyhelyzet-kezelési, felderítési, -megelőzési, hatósági, mentés- és védelemszervezési, alkalmazási és irányítási, ellenőrzési, lakosságvédelmi, óvóhelyi, iskola rendszerű szakképzési intézmény, (szaktanári, oktatói, kiképzői) |
 
-| II. | Gépjárművezető** | főtörzsőrmester | középiskola vagy szakiskola | szakirányú alapfokú |
+| 12. | Ügyeletes |
 
-| I. | Szerződéses |
+| 13. | II. | Gépjárművezető** | főtörzs- őrmester | középiskola vagy szakiskola | szakirányú alapfokú |
 
-|  | Pályakezdő | őrmester |
+| 14. | I. | Szerződéses |
 
-| Szerv | Beosztási kategória | Munkakör(beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 15. | Pályakezdő | őrmester |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 16. | Helyi | IV. | Szolgálatvezető | főtörzszászlós | középiskola | szakirányú középfokú |
 
-| H e l y i | IV. | Szolgálatvezető | főtörzszászlós | középiskola | szakirányú középfokú |  | pszichológiai alkalmasság |
+| 17. | Szerparancsnok (Repülőtér) |
 
-| Szerparancsnok (Repülőtér) |
+| 18. | III. | Különleges szerkezelő (Repülőtér) |
 
-| III. | Különleges szerkezelő (Repülőtér) |
+| 19. | II. | Beosztott tűzoltó** | főtörzs- őrmester | középiskola vagy szakiskola | szakirányú alapfokú |
 
-| II. | Beosztott tűzoltó** | főtörzsőrmester | középiskola vagy szakiskola | szakirányú alapfokú |
+| 20. | Gépjárművezető** |  |
 
-| Gépjárművezető** |
+| 21. | I. | Szerződéses |  |
 
-| I. | Szerződéses |
+| 22. | Pályakezdő | őrmester |
 
-|  | Pályakezdő | őrmester |
+[HIVATÁSOS ÖNKORMÁNYZATI TŰZOLTÓSÁG
 
-HIVATÁSOS ÖNKORMÁNYZATI TŰZOLTÓSÁG
+Vezetői munkakörök]
 
-Vezetői munkakörök
+|  | A | B | C | D | E | F | G | H |
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 1. | Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| T e r ü l e t i | főosztályvezetői illetményre jogosult | Tűzoltóparancsnok (fővárosi) | tábornok | egyetem | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 3. | Területi | főosztályvezetői illetményre jogosult | Tűzoltóparancsnok (fővárosi) | tábornok | egyetem | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| Tűzoltóparancsnok-helyettes (fővárosi) | ezredes | egyetem, vagy főiskola |
+| 4. | Tűzoltóparancsnok-helyettes (fővárosi hatósági) (fővárosi mentési) | ezredes | egyetem vagy főiskola |
 
-| főosztályvezető-helyettesi illetményre jogosult | Főosztályvezető (fővárosi) |
+| 5. | Igazgató (fővárosi gazdasági) |
 
-| Szolgálatvezető (fővárosi) | alezredes |
+| 6. | főosztályvezető-helyettesi illetményre jogosult | Főosztályvezető (fővárosi) (megelőzési régióvezető fővárosi) |
 
-| Főosztályvezető-helyettes (fővárosi) |
+| 7. | Szolgálatvezető (fővárosi) Főosztályvezető-helyettes (fővárosi) | alezredes |
 
-| osztályvezetői illetményre jogosult | Osztályvezető |
+| 8. | osztályvezetői illetményre jogosult | Osztályvezető |
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 9. | Helyi | főosztályvezetői illetményre jogosult | Tűzoltóparancsnok (megyeszékhelyi) | ezredes |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 10. | Mentési parancsnok (Közép-Pesti Tűo. Ment. Pk.) |
 
-| H e l y i | főosztályvezetői illetményre jogosult | Tűzoltóparancsnok (megyeszékhelyi, Érdi tűzoltóság) | ezredes |  |  |  |  |
+| 11. | főosztályvezetői illetményre jogosult | Tűzoltóparancsnok (készenléti egységgel rendelkező tűzoltóság) | alezredes |
 
-| főosztályvezető-helyettesi illetményre jogosult | Tűzoltóparancsnok (Közép-Pesti Tűo.Ment.Pk,) |
+| 12. | Mentési parancsnok (fővárosi) |
 
-| főosztályvezetői illetményre jogosult | Tűzoltóparancsnok (készenléti egységgel rendelkező tűzoltóság | alezredes |
+| 13. | osztályvezetői illetményre jogosult | Tűzoltóparancsnok (készenléti egységgel nem rendelkező tűzoltóság) |
 
-| osztályvezetői illetményre jogosult | Tűzoltóparancsnok (készenléti egységgel nem rendelkező tűzoltóság) |
-
-| Osztályvezető |
+| 14. | Osztályvezető (készenléti egységgel rendelkező tűzoltóság) |
 
 I. Besorolási osztály
 
-| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+|  | A | B | C | D | E | F | G | H |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 1. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| T e r ü l e t i | VI. | Osztályvezető-helyettes | alezredes | egyetem, vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| Alosztályvezető |
+| 3. | Területi | VI. | Osztályvezető-helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| Kiemelt főreferens |
+| 4. | Alosztályvezető |
 
-| Tűzoltási csoportvezető |
+| 5. | Kiemelt főreferens |
 
-| Ügyeletvezető |
+| 6. | Tűzoltási csoportvezető |
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 7. | Ügyeletvezető |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 8. | V. | Csoportvezető tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetésirányítási, biztonság-technikai, kiképzési, hírforgalmi, szolgálatszervezési, minősített időszaki, erőnlét-fejlesztési | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | pszichológiai alkalmasság |
 
-| T e r ü l e t i | V. | Csoportvezető tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés-irányítási, biztonság-technikai, kiképzési, hírforgalmi, szolgálatszervezési, minősített időszaki, erőnlét-fejlesztési | alezredes | egyetem, vagyfőiskola | szakirányú felsőfokú |  | pszichológiai alkalmasság |
+| 9. | Kiemelt főelőadó tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés-irányítási, biztonság-technikai, kiképzési, szolgálatszervezési, minősített időszaki, munkavédelmi, hírforgalmi, erőnlétfejlesztési |
 
-| Kiemelt főelőadó tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés-irányítási, biztonság-technikai, kiképzési, szolgálatszervezési, minősített időszaki, munkavédelmi, hírforgalmi, erőnlét-fejlesztési |
+| 10. | Szakágvezető tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetésirányítási, biztonságtechnikai, kiképzési, szolgálatszervezési |
 
-| Szakágvezetőtűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés- irányítási, biztonság- technikai, kiképzési, szolgálatszervezési |
+| 11. | Háttérparancsnok |
 
-| Háttérparancsnok |
+| 12. | IV. | Főelőadó tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetésirányítási, biztonság-technikai, kiképzési, szolgálatszervezési, készenléti, hírforgalmi | őrnagy | egyetem vagy főiskola | szakirányú felsőfokú | pszichológiai alkalmasság |
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 13. | Mérnök tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés-irányítási, biztonság-technikai, kiképzési, szolgálatszervezési |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 14. | Szakreferens tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetésirányítási, biztonság-technikai, kiképzési, szolgálatszervezési |
 
-| T e r ü l e t i | IV. | Főelőadótűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés- irányítási, biztonság-technikai, kiképzési, szolgálatszervezési, készenléti, hírforgalmi | őrnagy | egyetem, vagy főiskola | szakirányú felsőfokú |  | pszichológiai alkalmasság |
+| 15. | Törzstiszt |
 
-| Mérnöktűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés-irányítási, biztonság-technikai, kiképzési, szolgálatszervezési |
+| 16. | III. | Előadó tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetésirányítási, biztonság-technikai, kiképzési, szolgálatszervezési | százados |
 
-| Szakreferenstűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés- irányítási, biztonság-technikai, kiképzési, szolgálatszervezési |
+| 17. | Hírközpontvezető |
 
-| Törzstiszt |
+| 18. | II. | Fogalmazó tűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetésirányítási, biztonság-technikai, kiképzési, szolgálatszervezési |  |  |  |  |  |
 
-| III. | Előadótűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés-irányítási, biztonság-technikai, kiképzési, szolgálatszervezési | százados |
+| 19. | I. | Szerződéses |
 
-| Hírközpontvezető |
+| 20. | Pályakezdő | hadnagy |
 
-|  | II. | Fogalmazótűzoltási és műszaki mentési, tűzmegelőzési, tűzvizsgálati, hatósági, szakhatósági, bevetés- irányítási, biztonság-technikai, kiképzési, szolgálatszervezési |
+| 21. | Helyi | VI. | Osztályvezető-helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| I. | Szerződéses |
+| 22. | Alosztályvezető |
 
-|  | Pályakezdő | hadnagy |
+| 23. | Kiemelt főreferens |
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 24. | V. | Csoportvezető tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 25. | Kiemelt főelőadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, |
 
-| H e l y i | VI. | Osztályvezető-helyettes | alezredes | egyetem, vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 26. | Szolgálatparancsnok |
 
-| Alosztályvezető |
+| 27. | IV. | Főelőadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési | őrnagy |
 
-| Kiemelt főreferens |
+| 28. | Rohamparancsnok |
 
-| V. | Csoportvezetőtűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, |  |
+| 29. | Hajóskapitány (tűzoltóhajó) |
 
-| Kiemelt főelőadótűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, |
+| 30. | Búvár-szolgálatvezető |
 
-| Szolgálatparancsnok |
+| 31. | Szolgálatparancsnok-helyettes |
 
-| IV. | Főelőadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési | őrnagy |
+| 32. | III. | Előadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési | százados |
 
-| Rohamparancsnok |
+| 33. | Főgépész (tűzoltóható) |
 
-| Hajóskapitány (tűzoltóhajó) |
+| 34. | Merülés-vezető |
 
-| Búvár-szolgálatvezető |
+| 35. | II. | Fogalmazó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési |
 
-| Szolgálatparancsnok-helyettes |
+| 36. | I. | Szerződéses |
 
-| III. | Előadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési | százados |
-
-| Főgépész (tűzoltóható) |
-
-| Merülés-vezető |
-
-| II. | Fogalmazó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési |
-
-| I. | Szerződéses |
-
-|  | Pályakezdő | hadnagy |
+| 37. | Pályakezdő | hadnagy |
 
 II. Besorolási osztály
 
-| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+|  | A | B | C | D | E | F | G | H |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 1. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| T e r ü l e t i | IV. | Szolgálatvezető | főtörzszászlós | középiskola | szakirányú középfokú |  | pszichológiai alkalmasság |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| III. | Segédelőadótűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, tűzvizsgáló technikus. hírforgalmi, készenléti |
+| 3. | Területi | IV. | Szolgálatvezető | főtörzszászlós | középiskola | szakirányú alapfokú |  | pszichológiai alkalmasság |
 
-| Hírközpont vezető-helyettes |
+| 4. | III. | Segédelőadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, tűzvizsgáló technikus, hírforgalmi, készenléti |
 
-| II. | Gépjárművezető** | főtörzsőrmester | középiskola vagy szakiskola | szakirányú alapfokú |
+| 5. | Hírközpont vezető-helyettes |
 
-| I. | Szerződéses |
+| 6. | II. | Gépjárművezető** | főtörzs- őrmester | középiskola vagy szakiskola |
 
-|  | Pályakezdő | őrmester |
+| 7. | I. | Szerződéses |
 
-| Szerv | Beosztási kategória | Munkakör(beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| 8. | Pályakezdő | őrmester |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| 9. | Helyi | IV. | Rohamparancsnok-helyettes | főtörzszászlós | középiskola | szakirány középfokú |
 
-| H e l y i | IV. | Rohamparancsnok-helyettes | főtörzszászlós | középiskola | szakirány középfokú |  | pszichológiai alkalmasság |
+| 10. | Szolgálatparancsnok-helyettes |
 
-| Szolgálatparancsnok-helyettes |
+| 11. | Merülésvezető-helyettes |
 
-| Merülésvezető-helyettes |
+| 12. | Szerparancsnok |
 
-| Szerparancsnok |
+| 13. | III. | Technikus tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési |
 
-| III. | Technikustűzoltási és műszaki mentési, tűzmegelőzési, kiképzési |
+| 14. | Segédelőadó tűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, speciális |
 
-| Segédelőadótűzoltási és műszaki mentési, tűzmegelőzési, kiképzési, speciális |
+| 15. | Vegyi mentesítő |
 
-| Vegyi mentesítő |
+| 16. | Mentésvezető |
 
-| Mentésvezető |
+| 17. | Különleges szerkezelő | szakirányú alapfokú |
 
-| Különleges szerkezelő |  |
+| 18. | Hírközpontkezelő | középiskola vagy szakiskola |
 
-| Hírközpontkezelő | középiskola, vagy szakiskola | szakirányú alapfokú |
+| 19. | Gépész (tűzoltóhajó) |
 
-| Gépész (tűzoltóhajó) |
+| 20. | Kormányos |
 
-| Kormányos |
+| 21. | Mentőszer-kezelő | főtörzs- őrmester |
 
-| Mentőszer-kezelő |
+| 22. | II. | Beosztott tűzoltó** |
 
-| II. | Beosztott tűzoltó** | főtörzsőrmester |
+| 23. | Búvár** |
 
-| Búvár** |
+| 24. | Gépjárművezető** |
 
-| Gépjárművezető** |
+| 25. | Matróz ** |
 
-| Matróz ** |
+| 26. | Híradós** |
 
-| Híradós** |
+| 27. | I. | Szerződéses |
 
-| I. | Szerződéses |
-
-|  | Pályakezdő | őrmester |
+| 28. |  | Pályakezdő | őrmester |
 
 Megjegyzés: a **-gal jelzett tiszthelyettesi beosztásoknál a szakirányú középfokú szakmai iskolai végzettséggel rendelkezők illetmény besorolás szempontjából eggyel magasabb beosztási kategóriába sorolhatók.
 
 RSZV: rendészeti szakvizsga
 
 [^1]: A 2. § a 118/2008. (V. 8.) Korm. rendelet 42. §-ának 1. pontja szerint módosított szöveg.
+[^2]: A melléklet a 13/2010. (IV. 30.) ÖM rendelet 1. §-ával megállapított szöveg.
