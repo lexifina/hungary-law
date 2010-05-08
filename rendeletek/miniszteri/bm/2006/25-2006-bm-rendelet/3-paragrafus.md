@@ -1,1 +1,0 @@
-## Területi választási iroda feladata
