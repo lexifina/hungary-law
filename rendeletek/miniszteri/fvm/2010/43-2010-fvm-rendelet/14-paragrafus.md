@@ -1,0 +1,7 @@
+## 13. § A földhasználó, illetve a termelő felhívására – előzetes egyeztetést követően – a vadakra veszélyes növényvédő szer használatakor az érintett területen vadgazdálkodásra jogosult köteles közreműködni a vadak riasztásában.
+
+14. § (1) Vizek és vízfolyások környezetében az engedélyokirat szerint vízben vagy vízfolyásban nem alkalmazható, vízi szervezetekre veszélyes növényvédő szert csak a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló rendeletben előírt, a parttól mért biztonsági távolságok megtartásával szabad kijuttatni, illetve a permetlevet előkészíteni.
+
+(2) Tilos növényvédő szert tárolni a Balaton, a Velencei-tó, a Tisza-tó és a Fertő-tó, valamint a fürdőzésre kijelölt vizek partvonalának teljes hosszában mért egy kilométer széles távolságon, természeti területeken, valamint a védett természeti területeken és azok határától mért egy kilométeres távolságon belül, valamint vízművek, víznyerő helyek, víztározók védőterületén belül, továbbá ár- és belvízveszélyes területeken. E korlátozás nem vonatkozik a kiskereskedelmi egységek, valamint a termelő saját felhasználását szolgáló 25 kg alatti összes mennyiségre.
+
+(3) Vízbázisok védőövezetein növényvédő szerekkel kapcsolatos tevékenységek végzését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló külön jogszabály előírásainak megfelelően lehet végezni.

@@ -1,0 +1,61 @@
+27. § (1) Növényvédő szer kizárólag olyan szilárd aljzatburkolatú helyen tárolható, ahol a talajvíz az év egyetlen szakaszában sem emelkedik a tároló szint fölé, valamint ahol biztosított, hogy a tárolt anyag sem közvetlenül, sem közvetve nem jut a felszíni vagy felszín alatti vizekbe, továbbá az esetlegesen kiszóródott, kiömlött anyagok összegyűjtése megoldható.
+
+(2) A raktározás során be kell tartani a felszíni és felszín alatti vizek és a földtani közeg védelmére vonatkozó külön jogszabályban előírt környezetvédelmi követelményeket.
+
+(3) Növényvédő szert emberek és állatok tartózkodására, valamint élelmiszer és takarmány tárolására szolgáló helyiségtől elkülönített raktárban, vagy illetéktelen személyek által hozzá nem férhető helyen és módon elhelyezett szekrényben, tűz- és robbanásveszélyt kizáró, egészséget és környezetet nem veszélyeztető módon szabad tárolni úgy, hogy szennyeződés esetén a környezet maradéktalan tisztítása biztosítható legyen.
+
+(4) A raktárnak a következő műszaki, biztonsági feltételeknek kell megfelelnie:
+
+a) a raktárnak a szabadból kell nyílnia, átjárás nélkül megközelíthetőnek kell lennie, nem lehet közös fala – a raktári tevékenységhez kapcsolódó helyiségek kivételével – állandó vagy ideiglenes emberi vagy állati tartózkodásra szolgáló építménnyel, illetve olyan helyiséggel, ahol élelmiszerrel, gyógyszerrel, illetve takarmánnyal kapcsolatos tevékenységet folytatnak,
+
+b) a raktárnak a túlzott felmelegedéstől vagy lehűléstől védettnek kell lennie,
+
+c) a raktár nyílászáróinak meg kell felelniük az általános biztonsági követelményeknek,
+
+d) gondoskodni kell arról, hogy a csapadékvíz a helyiségbe ne juthasson be,
+
+e) gondoskodni kell a zárt raktár folyamatos szellőztetéséről,
+
+f) a raktár padlózatának, falainak, berendezési tárgyainak lemoshatónak, tisztíthatónak kell lenniük,
+
+g) a raktár bejáratát tömör, szükség esetén fémráccsal megerősített, biztonsági záras, magasított küszöbű ajtóval kell ellátni, amelynek kulcsát kizárólag a raktáros, illetve megbízott helyettese kezelheti,
+
+h) a raktár ajtajára, jól látható helyen és módon a „Méregraktár” vagy „Növényvédő szer raktár” és „Idegeneknek belépni tilos!” feliratot kell elhelyezni,
+
+i) növényvédő szer raktárt más célra használni csak az egészségügyi államigazgatási szerv által előírt mentesítés után szabad.
+
+(5) Munkaterületen az egynapi felhasználásra előkészített növényvédő szer biztonságosan zárható, alkalmi raktárban is tárolható. Az alkalmi raktár más célra kizárólag az esetleges növényvédő szer szennyeződés maradéktalan eltávolítása után használható.
+
+(6) Növényvédő szer raktárban kizárólag a raktározással és a felhasználáshoz szükséges növényvédő szer kimérésével összefüggő munka végezhető, munkavégzőkön és hatósági ellenőrzést végző személyeken kívül más nem tartózkodhat ott.
+
+(7) Növényvédő szer eredeti zárt csomagolásban, vagy a használat után ismét visszazárt eredeti csomagolásban, illetve a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló külön jogszabályban meghatározott módon átcsomagolva tárolható.
+
+(8) Mikro és makro szervezeteket tartalmazó növényvédő szer tárolására, szállítására és felhasználására a növényvédő szerekre vonatkozó előírásokat kell alkalmazni, ha az engedélyokirat másként nem rendelkezik.
+
+(9) A növényvédő szer raktárban a növényvédő szerektől elkülönítetten kell tárolni
+
+a) a kiürült, de növényvédő szer átcsomagolására felhasználható, kívül, belül szabályszerűen megtisztított és lezárható növényvédő szer csomagolóeszközt,
+
+b) a sérült csomagolású, azonosíthatatlan, szennyezett és lejárt felhasználhatósági idejű szavatosságú szereket, ártalmatlanításra váró göngyölegeket, illetve szennyezett védőfelszerelést.
+
+(10) A raktárba belépni, növényvédő szert a raktárba be-, illetve onnan kivinni, ott bármilyen tevékenységet folytatni kizárólag a raktáros jelenlétében és hozzájárulásával, a szükséges egyéni védőeszközök használatával szabad.
+
+(11) A tárolt növényvédő szer engedélyokiratában az előkészítőnek előírt védőeszközöket és az elsősegélynyújtáshoz szükséges felszerelést biztosítani kell. A raktár épületében vagy annak közvetlen közelében ezek elhelyezésére, valamint a ruhaváltásra és a tisztálkodásra alkalmas, elkülönített helyiségeket kell létesíteni.
+
+(12) A raktárt el kell látni a növényvédő szerek szállításához, rakodásához, méréséhez, valamint a takarításhoz szükséges, feltűnő módon megjelölt, más célra nem használható munkaeszközökkel.
+
+(13) A raktárban a következő anyagokat és eszközöket szabad tárolni:
+
+a) sértetlen csomagolású növényvédő szereket, termésnövelő anyagokat,
+
+b) elkülönítetten kezelt kiürült, kívül és belül szabályszerűen megtisztított növényvédő szer csomagolóeszközöket,
+
+c) az ártalmatlanításra váró hulladékokat és sérült csomagolású vagy kiselejtezett növényvédő szer készleteket,
+
+d) a növényvédő szerek szállításához, rakodásához, méréséhez és a növényvédő szer raktár takarításához szükséges munkaeszközöket,
+
+e) az egészségügyi államigazgatási szerv és környezetvédelmi hatóság által megadott feltételekkel egyéb vegyi anyagot, illetve szükség szerinti csomagolásban egyéb termékeket.
+
+(14) A kiskereskedelmi üzletek növényvédő szert az áruraktár elkülönített részében – más termékkel nem érintkező, élelmiszertől, takarmánytól elzárt légterű – az általános biztonsági követelményeknek megfelelő, a (4) bekezdés h) pontja szerint feliratozott helyiségben is tárolhatnak, az (1) bekezdésben, a (4) bekezdés c)–e) pontjában, továbbá a (11) bekezdés második mondatában, a (12) bekezdésben, valamint a (13) bekezdés a) és c)–e) pontjában foglalt feltételek megtartásával.
+
+(15) Azon logisztikai raktárak, melyek megfelelnek a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló külön jogszabályban és annak végrehajtására kiadott jogszabályokban foglaltaknak, mentesülnek a (4)–(5), (9) és a (12)–(14) bekezdésekben előírt kötelezettségek teljesítése alól.
