@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-17-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-17-20-53.5 | 17/2003. (VII. 1.) PM–IM együttes rendelet |
+| 2010-05-09 | 2003-17-20-53.6 | 19/2010. (V. 6.) PM–IRM együttes rendelet |

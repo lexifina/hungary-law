@@ -1,4 +1,4 @@
-## 139. §[^79] Nem alkalmazhatók a Be. XXI. fejezetének rendelkezései azzal a gyanúsítottal szemben, aki az eljárás alapjául szolgáló bűncselekményt (bűncselekményeket) részben a tizennyolcadik életévének betöltése előtt, részben azt követően követte el.
+## 139. §[^83] Nem alkalmazhatók a Be. XXI. fejezetének rendelkezései azzal a gyanúsítottal szemben, aki az eljárás alapjául szolgáló bűncselekményt (bűncselekményeket) részben a tizennyolcadik életévének betöltése előtt, részben azt követően követte el.
 
 ## A Be. 450. §-ához
 
@@ -12,4 +12,4 @@
 
 (4) A nyomozó hatóság a fiatalkorú ügyében a Gyvtv. alapján tett intézkedéséről, az intézkedésről szóló irat másolatának megküldésével haladéktalanul értesíti az ügyészt.
 
-[^79]: A 139. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 40. §-ával megállapított szöveg.
+[^83]: A 139. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 40. §-ával megállapított szöveg.

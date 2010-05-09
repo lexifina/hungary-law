@@ -12,7 +12,7 @@ b) a bűncselekmény Btk. szerinti megjelölését,
 
 c) a gyanúsítottnak a Be. 117. §-a (1) bekezdésében megjelölt adatait, és az előéletére vonatkozó adatokat,
 
-d)[^50] őrizetben levő gyanúsított esetén az őrizet kezdő időpontját a nap és az óra megjelölésével,
+d)[^53] őrizetben levő gyanúsított esetén az őrizet kezdő időpontját a nap és az óra megjelölésével,
 
 e) a bűncselekmény történeti tényállását,
 
@@ -22,7 +22,7 @@ g) javaslatot az előzetes letartóztatás indítványozására a Be. 129. §-á
 
 h) mindazon körülményeket, amelyek az indítványhoz szükségesek, így különösen azt, hogy a gyanúsítottnak meghatalmazott védője van, vagy védelemről kirendelés útján gondoskodtak, a fogva tartás helyét, a védő értesítési helyét, illetőleg – magánindítványra üldözendő bűncselekmény esetén – a magánindítvány előterjesztésére utalást.
 
-(3)[^51] Ha a nyomozó hatóság az előzetes letartóztatás rendőrségi fogdán történő végrehajtását tartja indokoltnak, az előzetes letartóztatás indítványozására irányuló előterjesztésnek a (2) bekezdésben foglaltakon túl tartalmaznia kell az erre tett javaslatot, az elhelyezés kért időtartamát, az ezen időtartam alatt elvégzendő nyomozási cselekmények felsorolását, és azoknak a körülményeknek a megjelölését, amelyek a rendőrségi fogdán történő elhelyezést a nyomozási cselekmények elvégzése érdekében indokolttá teszik.
+(3)[^54] Ha a nyomozó hatóság az előzetes letartóztatás rendőrségi fogdán történő végrehajtását tartja indokoltnak, az előzetes letartóztatás indítványozására irányuló előterjesztésnek a (2) bekezdésben foglaltakon túl tartalmaznia kell az erre tett javaslatot, az elhelyezés kért időtartamát, az ezen időtartam alatt elvégzendő nyomozási cselekmények felsorolását, és azoknak a körülményeknek a megjelölését, amelyek a rendőrségi fogdán történő elhelyezést a nyomozási cselekmények elvégzése érdekében indokolttá teszik.
 
-[^50]: A 64. § (2) bekezdésének d) pontja a 24/2006. (IX. 28.) PM–IRM együttes rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^51]: A 64. § (3) bekezdését a 24/2006. (IX. 28.) PM–IRM együttes rendelet 24. § (2) bekezdése iktatta be.
+[^53]: A 64. § (2) bekezdésének d) pontja a 24/2006. (IX. 28.) PM–IRM együttes rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^54]: A 64. § (3) bekezdését a 24/2006. (IX. 28.) PM–IRM együttes rendelet 24. § (2) bekezdése iktatta be.

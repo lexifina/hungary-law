@@ -1,4 +1,4 @@
-## 115. §[^65] A büntetés-végrehajtási intézetben fogva tartottal kapcsolatos megkeresés csak a fogva tartott kihallgatására, – ha mindkét fogva tartott ugyanabban a büntetés-végrehajtási intézetben van – szembesítésükre, – ha az iratok terjedelme lehetővé teszi – iratismertetés végrehajtására, valamint a fogva tartott büntetés-végrehajtási intézetben levő érték-, illetve tárgyletétjéből történő lefoglalásra irányulhat. Más nyomozási cselekmény, valamint a büntetés-végrehajtási intézetben el nem végezhető iratismertetés végrehajtásához a fogva tartottat ki kell kérni.
+## 115. §[^69] A büntetés-végrehajtási intézetben fogva tartottal kapcsolatos megkeresés csak a fogva tartott kihallgatására, – ha mindkét fogva tartott ugyanabban a büntetés-végrehajtási intézetben van – szembesítésükre, – ha az iratok terjedelme lehetővé teszi – iratismertetés végrehajtására, valamint a fogva tartott büntetés-végrehajtási intézetben levő érték-, illetve tárgyletétjéből történő lefoglalásra irányulhat. Más nyomozási cselekmény, valamint a büntetés-végrehajtási intézetben el nem végezhető iratismertetés végrehajtásához a fogva tartottat ki kell kérni.
 
 ## A nyomozás tervezése
 
@@ -20,4 +20,4 @@ c) milyen további nyomozási cselekményeket, milyen határidővel kell végreh
 
 (6) A nyomozási tervet a nyomozási iratok irattári példányában kell kezelni.
 
-[^65]: A 115. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 33. §-ával megállapított szöveg.
+[^69]: A 115. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 33. §-ával megállapított szöveg.

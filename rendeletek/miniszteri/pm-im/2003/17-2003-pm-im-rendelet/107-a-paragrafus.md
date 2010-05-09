@@ -1,8 +1,8 @@
 ## A Be. 172/A. §-ához
 
-## (A feljelentés kiegészítése)[^60]
+## (A feljelentés kiegészítése)[^64]
 
-107/A. §[^61] (1) Ha a feljelentés alapján nem állapítható meg, hogy fennáll-e a bűncselekmény gyanúja, illetve az, hogy az eljárásnak van-e törvényi akadálya, feljelentés kiegészítése rendelhető el. Ennek keretében a nyomozó hatóság a Be. 172/A. §-ának (2) bekezdése szerinti adatszerző tevékenységet folytathat.
+107/A. §[^65] (1) Ha a feljelentés alapján nem állapítható meg, hogy fennáll-e a bűncselekmény gyanúja, illetve az, hogy az eljárásnak van-e törvényi akadálya, feljelentés kiegészítése rendelhető el. Ennek keretében a nyomozó hatóság a Be. 172/A. §-ának (2) bekezdése szerinti adatszerző tevékenységet folytathat.
 
 (2) Ha a feljelentésben több bűncselekmény került megjelölésre és ezek között van olyan cselekmény, mely tekintetében – a feljelentés adatai alapján – fennáll a bűncselekmény gyanúja, nem rendelhető el feljelentés kiegészítés annak megállapítására, hogy a további cselekmények vonatkozásában is fennáll-e bűncselekmény elkövetésének gyanúja.
 
@@ -14,5 +14,5 @@
 
 (6) Ha az ügyész a feljelentés kiegészítését a Be. 35. §-ának (2) bekezdése alapján a nyomozó szerv hatáskörébe utalta, a feljelentés esetleges elutasításáról a nyomozó szerv – a Be. 174. § (2) bekezdésében foglalt esetekben – dönt.
 
-[^60]: A 107/A. §-t megelőző alcímet a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
-[^61]: A 107/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
+[^64]: A 107/A. §-t megelőző alcímet a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.
+[^65]: A 107/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 30. §-a iktatta be.

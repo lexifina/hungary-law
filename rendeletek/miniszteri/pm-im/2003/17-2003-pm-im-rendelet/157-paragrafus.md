@@ -1,7 +1,7 @@
-## 156. §[^82] Ha a rendőrségi fogdában őrizetben vagy előzetes letartóztatásban ügyészi engedéllyel rendőrségi fogdában lévő gyanúsítottat az ügyész bíróság elé kívánja állítani, akkor az ügyész rendelkezése alapján a fogva tartott befogadására a rendelvényt ki kell állítani.
+## 156. §[^86] Ha a rendőrségi fogdában őrizetben vagy előzetes letartóztatásban ügyészi engedéllyel rendőrségi fogdában lévő gyanúsítottat az ügyész bíróság elé kívánja állítani, akkor az ügyész rendelkezése alapján a fogva tartott befogadására a rendelvényt ki kell állítani.
 
 ## A Be. 526. §-ához
 
 ## (Eljárás a távollévő terhelttel szemben)
 
-[^82]: A 156. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 42. §-ával megállapított szöveg.
+[^86]: A 156. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 42. §-ával megállapított szöveg.
