@@ -1,5 +1,0 @@
-A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (4) és (7) bekezdésében kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § c) pontjában meghatározott feladatkörömben eljárva – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (5) bekezdése alapján a Miniszterelnöki Hivatalt vezető miniszter feladat- és hatásköréről szóló 29/2008. (II. 19.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott feladatkörében eljáró Miniszterelnöki Hivatalt vezető miniszterrel egyetértésben – és
-
-a 2. § és a 2. melléklet tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (2) bekezdés 1. és 2. pontjában kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § c) pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
