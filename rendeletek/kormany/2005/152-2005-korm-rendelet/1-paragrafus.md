@@ -6,11 +6,12 @@ a) Út a középiskolába ösztöndíj, amelynek célja a résztvevő tanulók f
 
 b) Út az érettségihez ösztöndíj, amelynek célja a részt vevő tanulók támogatása a középiskola sikeres befejezése céljából;
 
-c) Út a szakmához ösztöndíj, amelynek célja a részt vevő tanulók esetében megteremteni a kapcsolatot a munkaerőpiac igényei és a beiskolázás között, különös tekintettel a hiányszakmákra [a továbbiakban az a)–c) pontok együtt: esélyegyenlőségi ösztöndíjak]; valamint
+c)[^2] Út a szakmához ösztöndíj, amelynek célja a részt vevő szakiskolai tanulók sikeres tanulmányainak elősegítése, tanulási nehézségeinek leküzdése [a továbbiakban az a)–c) pontok együtt: esélyegyenlőségi ösztöndíjak]; valamint
 
-d)[^2] Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
+d)[^3] Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
 
 (3) Az Ösztöndíjprogram céljának megvalósulását a tanulók közoktatási intézményei és mentorok segítik.
 
 [^1]: Az 1. § (2) bekezdésének bevezető szövegrésze a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdésének d) pontja a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontja a 157/2010. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a 2010. május 9. napját követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
+[^3]: Az 1. § (2) bekezdésének d) pontja a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
