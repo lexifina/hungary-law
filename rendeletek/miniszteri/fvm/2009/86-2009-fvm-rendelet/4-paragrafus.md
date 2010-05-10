@@ -1,6 +1,6 @@
 ## Ültetvénytelepítés és -kivágás
 
-4. §[^4] (1) A telepítési, illetve kivágási engedély iránti kérelmet (a továbbiakban: kérelem) a telepítés, illetve a kivágás tervezett megkezdése előtt legalább kettő hónappal, helyrajzi számonként külön, a kérelemben megjelölt terület fekvése szerint illetékes hegybíróhoz kell benyújtani.
+4. §[^5] (1) A telepítési, illetve kivágási engedély iránti kérelmet (a továbbiakban: kérelem) a telepítés, illetve a kivágás tervezett megkezdése előtt legalább kettő hónappal, helyrajzi számonként külön, a kérelemben megjelölt terület fekvése szerint illetékes hegybíróhoz kell benyújtani.
 
 (2) Engedélyt az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet kaphat, aki (amely):
 
@@ -30,24 +30,27 @@ d) telepítés esetén a kérelmező birtokában lévő, a telepítési engedél
 
 e) kivágás, valamint pótlás, vagy fajtaváltás esetén a Hegyközségi Informatikai Rendszerből (HEGYIR) nyomtatott szőlőültetvény kataszteri kivonatot;
 
-f)[^5]
+f)[^6] pótlási, fajtaváltási engedély iránti kérelemhez gyökérnemes (saját gyökerű) szaporítóanyag felhasználása esetén a talaj immuitásáról szóló laboratóriumi jegyzőkönyv másolatát;
 
-g)[^6] telepítési, pótlási, fajtaváltási engedély iránti kérelemhez a külön jogszabályban előírt – öt évnél nem régebbi – ültetvénytelepítést megalapozó talajvédelmi terv másolatát, amely gyökérnemes (saját gyökerű) szaporítóanyag felhasználása esetén tartalmazza a talaj filoxéra ellenállóságának igazolását;
+g)[^7] telepítési engedély iránti kérelemhez a külön jogszabályban előírt – öt évnél nem régebbi – ültetvénytelepítést megalapozó talajvédelmi terv másolatát, amely gyökérnemes (saját gyökerű) szaporítóanyag felhasználása esetén tartalmazza a talaj filoxéra ellenállóságának igazolását;
 
 h) törzsültetvény telepítése esetén a külön jogszabályban előírt, az MgSzH Központja által kiadott előzetes engedély másolatát;
 
-i) kísérleti ültetvénytelepítés esetén az MgSzH Központ által kiadott hozzájáruló nyilatkozat másolatát.
+i)[^8] kísérleti ültetvénytelepítés esetén a telepítési szándék bejelentéséről az MgSzH Központ által kiállított hatósági bizonyítványt.
 
-(5) A kérelmet a hegybíró megvizsgálja és véleményezi az alábbi szempontok alapján:
+(5)[^9] A kérelmet a hegybíró az alábbi szempontok alapján vizsgálja meg:
 
-a) a telepítés megfelel-e a hegyközségi rendtartásnak;
+a) a telepítés megfelel-e a hegyközségi rendtartásnak, valamint
 
 b) a betelepíteni kívánt összefüggő terület határától meghatározott ültetési távolság eléri-e legalább a sortávolság felét.
 
-(6) A kérelmet a kézhezvételtől számított nyolc munkanapon belül a hegybíró a véleményével együtt továbbítja az MVH PKI részére.
+(6)[^10] A kérelmet a benyújtástól számított nyolc munkanapon belül a hegybíró az (5) bekezdésben foglaltakkal kapcsolatos megállapításaival, valamint az engedély iránti kérelemmel kapcsolatos javaslatával együtt továbbítja az MVH PKI részére.
 
 (7) Alanyültetvény telepítése, valamint pótlás vagy fajtaváltás esetén a telepítésre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal az eltéréssel, hogy a (4) bekezdés d) pontjában előírtakat nem kell alkalmazni.
 
-[^4]: A 4. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^5]: A 4. § (4) bekezdés f) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^6]: A 4. § (4) bekezdés g) pontja a 134/2009. (X. 14.) FVM rendelet 16. §-ával megállapított szöveg.
+[^5]: A 4. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
+[^6]: A 4. § (4) bekezdés f) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan az 59/2010. (V. 7.) FVM rendelet 1. § (1) bekezdése iktatta be.
+[^7]: A 4. § (4) bekezdés g) pontja az 59/2010. (V. 7.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (4) bekezdés i) pontja az 59/2010. (V. 7.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (5) bekezdése az 59/2010. (V. 7.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (6) bekezdése az 59/2010. (V. 7.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.

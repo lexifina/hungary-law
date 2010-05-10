@@ -1,6 +1,6 @@
 ## Telepítési jog nélkül végzett telepítés
 
-14. §[^16] (1) A tanácsi rendelet 90. cikkében meghatározott telepítési tilalom megszegésével, 2004. április 30-a után telepített szőlőültetvényt ki kell vágni, illetve az ültetvényen keletkezett termést lepárlás céljára kell leadni.
+14. §[^35] (1)[^36] A tanácsi rendelet 85g. cikkében meghatározott telepítési tilalom megszegésével, 2004. április 30-a után telepített szőlőültetvényt ki kell vágni, illetve az ültetvényen keletkezett termést lepárlás céljára kell leadni.
 
 (2) Az (1) bekezdés szerinti, telepítési jog nélkül telepített ültetvények termése kizárólag olyan alkohol készítése céljára adható le, amelynek alkoholtartalma a 80 térfogatszázalékot meghaladja.
 
@@ -24,10 +24,12 @@ b) a jövedéki adóról és a jövedéki termékek forgalmazásának különös
 
 c) a 8/2004. (III. 10.) PM rendelet 28. számú melléklete szerinti, a vámhatóság által ellenjegyzett termékmérleg nyilvántartások másolatait azokra a hónapokra, amelyekben az adott termék lepárlásra került,
 
-d) az előállított alkoholra vonatkozó, az MgSzH Borminősítési Igazgatósága által kiállított minősítési bizonylatot tételenként.
+d)[^37] az előállított alkoholra vonatkozó, az MgSzH Borminősítési Igazgatósága által kiállított minősítési bizonyítványt tételenként.
 
 (10) Amennyiben a lepárló üzem a – a lepárlásról szóló szerződés alapján – beszállított termésnek a lepárlását igazoló, előző pontban meghatározott dokumentumait határidőre nem nyújtja be, az MVH az eljárási törvény 71. §-a szerinti mulasztási bírságot szab ki.
 
 (11) A lepárlással kapcsolatban felmerült összes költség a használót terheli.
 
-[^16]: A 14. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
+[^35]: A 14. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
+[^36]: A 14. § (1) bekezdése az 59/2010. (V. 7.) FVM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^37]: A 14. § (9) bekezdés d) pontja az 59/2010. (V. 7.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-9. §[^11] (1) Az újratelepítési jog átruházása esetén az átadó és az átvevő közösen kötelesek kérelmezni az átruházni kívánt újratelepítési jog átvezetését a nyilvántartásban.
+9. §[^25] (1) Az újratelepítési jog átruházása esetén az átadó és az átvevő közösen kötelesek kérelmezni az átruházni kívánt újratelepítési jog átvezetését a nyilvántartásban.
 
 (2) A közös kérelmet az erre a célra rendszeresített, az MVH közleményében közzétett nyomtatványon kell benyújtani, melynek tartalmaznia kell az átadó birtokában lévő, átruházni kívánt újratelepítési jogra vonatkozó alábbi adatokat:
 
@@ -8,7 +8,7 @@ b) kivágási engedély száma,
 
 c) kivágás ideje.
 
-(3) A kérelem csak abban az esetben hagyható jóvá, ha az átadó és az átvevő is eleget tett az eljárási törvény 28. § (1) bekezdésében előírt regisztrációs kötelezettségének.
+(3)[^26] Az újratelepítési jog átruházásának ténye csak akkor jegyezhető be a nyilvántartásba, ha az átadó és az átvevő is eleget tett az eljárási törvény 28. § (1) bekezdésében előírt regisztrációs kötelezettségének.
 
 (4) A kérelemhez csatolni kell:
 
@@ -18,4 +18,5 @@ b) az átvevő 1. számú melléklet szerinti nyilatkozatát a jog felhasználá
 
 (5) A kérelemről az MVH PKI dönt.
 
-[^11]: A 9. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
+[^25]: A 9. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
+[^26]: A 9. § (3) bekezdése az 59/2010. (V. 7.) FVM rendelet 13. §-a szerint módosított szöveg.
