@@ -1,0 +1,7 @@
+17. § (1) Ha az MVH az ellenőrzése során megállapítja, hogy a közoktatási intézmény nem tett eleget a jogszabályokban vagy a megállapodásban előírt kötelezettségeinek, akkor a közoktatási intézmény által ki nem osztott támogatott termék e rendelet alapján kiszámított ellenértéke a közoktatási intézménynél jogosulatlanul igénybe vett támogatásnak minősül.
+
+(2) Ha az MVH az ellenőrzése során megállapítja, hogy az alma 8. § (5) bekezdés szerinti gyakoriságú kiosztása azért állt elő, mert a tanulók megállapodásban meghatározott száma meghaladta a megállapodás megkötésekor fennálló tanulói létszámot, az így kiosztott támogatott termék e rendelet alapján kiszámított ellenértéke a közoktatási intézménynél jogosulatlanul igénybe vett támogatásnak minősül.
+
+(3) Ha az MVH az ellenőrzése során megállapítja, hogy a közoktatási intézmény nem tett eleget a 15. § (2) bekezdése szerinti kötelezettségének, akkor a közoktatási intézmény által kiosztott támogatott termék e rendelet alapján kiszámított ellenértékének 5%-a a közoktatási intézménynél jogosulatlanul igénybe vett támogatásnak minősül.
+
+(4) Ha az MVH az ellenőrzése során megállapítja, hogy a közoktatási intézmény nem tett eleget a 8. § szerinti megállapodásban a 10. § (1) bekezdés 13. pontja szerint vállalt kötelezettségének, akkor a közoktatási intézmény által kiosztott támogatott termék e rendelet alapján kiszámított ellenértékének 20%-a a közoktatási intézménynél jogosulatlanul igénybe vett támogatásnak minősül.
