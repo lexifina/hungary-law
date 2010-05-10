@@ -8,6 +8,7 @@
 
 (3)–(7)[^1]
 
-(8) A (3)–(7) bekezdés a rendelet hatálybalépését követő napon hatályát veszti. E bekezdés a hatálybalépést követő 2. napon hatályát veszti.
+(8)[^2]
 
 [^1]: A 48. § (3)–(7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^2]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
