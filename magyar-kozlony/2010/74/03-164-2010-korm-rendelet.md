@@ -1,0 +1,168 @@
+# A Kormány 164/2010. (V. 11.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 74. szám, 2010. május 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/02f69c94ebdf518b76c08754e59ab0c209b837e4/dokumentumok/834730357cbea0c5a8d9a0c806e65c813dfef740/letoltes)
+
+---
+
+A Kormány 164/2010. (V. 11.) Korm. rendelete
+az Európai Uniós előcsatlakozási eszközök és az Átmeneti Támogatás felhasználásának pénzügyi
+tervezési, lebonyolítási, számviteli és ellenőrzési rendjéről szóló 119/2004. (IV. 29.) Korm. rendelet
+és a Nemzeti Fejlesztési Ügynökségről szóló 130/2006. (VI. 15.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés
+a) és b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az Európai Uniós előcsatlakozási eszközök és az Átmeneti Támogatás felhasználásának pénzügyi
+tervezési, lebonyolítási, számviteli és ellenőrzési rendjéről szóló 119/2004. (IV. 29.) Korm. rendelet
+módosítása
+1. §
+Az Európai Uniós előcsatlakozási eszközök és az Átmeneti Támogatás felhasználásának pénzügyi tervezési,
+lebonyolítási, számviteli és ellenőrzési rendjéről szóló 119/2004. (IV. 29.) Korm. rendelet (a továb biak ban: R.) II. Fejezete
+az „A PHARE ÉS AZ ÁTMENETI TÁMOGATÁS INTÉZMÉNYEI” megjelölést köve tően a következő alcímmel és 9/A. §-sal
+egészül ki:
+„A Központi Pénzügyi és Szerződéskötő Egység
+9/A. § (1) A Phare intézményfejlesztési programjai és az Átmeneti Támogatás programjai esetében
+a kedvezményezettek kiválasztására irányuló pályáztatási feladatokat, a támogatások felhasználásával összefüggő
+közbeszerzési eljárások lebonyolítását, a szerződéskötéssel, nyilvántartással, a pénzügyi lebonyolítással és a pénzügyi
+zárással kapcsolatos feladatokat a Központi Pénzügyi és Szerződéskötő Egység (a továb biak ban: KPSZE) mint
+végrehajtó szervezet látja el.
+(2) A Kormány a KPSZE feladatainak ellátására a Phare intézményfejlesztési programjai és az Átmeneti Támogatás
+programjai végrehajtó szervezeteként a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.-t jelöli ki.”
+2. §
+Az R. 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az összes jóváhagyott, Európai Bizottság által átutalt EU forrás fogadása a Kincstárban nyitott, normál piaci
+feltételek mellett kamatozó, euróban vezetett devizaszámlákon történik. Az Európai Bizottság elő írásai szerint
+az EU források fogadására, támogatási eszközök programjaira elkülönítetten nyitott számlák felett kizárólag a PM
+Nemzeti Programengedélyező Iroda rendelkezik. A számlák kezelésével kapcsolatos költség elszámolása közvetlenül
+a központi költségvetésből történik a Pénzügyminisztérium fejezet terhére.”
+3. §
+(1) Az R. 32. §-a helyébe a következő rendelkezés lép:
+„32. § (1) Ha az Európai Bizottság visszafizetési kötelezettséget vagy levonást állapít meg, a PM Nemzeti
+Programengedélyező Iroda kezdeményezésére a Programengedélyező intézkedik a szabálytalan felhasználásból vagy
+más okból eredő összegnek és kamatának, vagy a programzárás végén fennmaradó, fel nem használt összegnek
+az Európai Bizottság részére történő visszafizetéséről.
+(2) Az (1) bekezdés szerint visszafizetendő, visszapótlandó összeg a szabálytalanságért felelős fejezetet terheli, kivéve,
+ha a szabálytalanságért a Programengedélyező, illetve a végrehajtó szervezet a felelős. A Programengedélyező, illetve
+a végrehajtó szervezet felelőssége esetén a visszafizetendő összeg a végrehajtó szervezet fejezeti felügyeletét ellátó
+szervet – a KPSZE mint végrehajtó szervezet esetén a költségvetés XIX. Uniós fejlesztések fejezetét – terheli.
+(3) A Nemzeti Programengedélyező nevében a PM Nemzeti Programengedélyező Iroda intézkedik a visszafizetendő
+EU támogatás összegének és nettó kamatának az Európai Bizottság részére történő visszautalásáról.
+(4) Amennyiben a végrehajtó szervezet visszafizetésre vonatkozó intézkedése két hónapon belül eredménytelennek
+bizonyul, a szabálytalanul felhasznált EU támogatási összeg visszautalásáról a PM Nemzeti Programengedélyező Iroda
+számlája javára a Phare és Átmeneti Támogatás projektjeinek hazai társfinanszírozási részét biztosító fejezet köteles
+gondoskodni. Amennyiben a szabálytalanságban érintett összeg a későbbiekben behajtásra kerül, a végrehajtó
+szervezet gondoskodik annak a program szakmai lebonyolításáért felelős fejezet költségvetése részére történő
+visszatérítéséről.
+(5) A Programengedélyező a visszafizetési felszólítás kézhezvételétől számított 5 napon belül tájékoztatja a Nemzeti
+Programengedélyezőt és a Nemzeti Koordinátort, a visszafizetési felszólítás kézhezvételétől számított 30 napon belül
+pedig a Kormányt is, ha a visszafizetési felszólításban meghatározott összeg meghaladja az egymillió eurót.
+
+(6) Ha a visszafizetési felszólítást a Programengedélyező vitatja, a vita rendezésének – a Nemzeti Programengedélyező
+és a Nemzeti Koordinátor folyamatos tájékoztatása melletti – felelőssége és költsége a Programengedélyezőt terheli.
+Az egymillió eurót meghaladó visszafizetési felszólítás esetén a Programengedélyező a felszólítás kézhezvételétől
+számított 30 napon belül a vitarendezés irányára és tartalmára vonatkozó állásfoglalást kér a Kormánytól.”
+(2) Az R. a 32. §-t köve tően a következő 32/A. §-sal egészül ki:
+„32/A. § (1) A 32. §-ban foglaltakban a Programengedélyezőre vonatkozó kötelezettségek adott program
+lebonyolítására kijelölt végrehajtó szervezet vezetőjét vagy a kijelölt Programengedélyezőt terhelik. Az 1998. év előtti
+Phare programok tekintetében a 32. §-ban foglalt kötelezettségek az adott Phare program lebonyolítására megkötött,
+az Európai Bizottság és Magyarország között létrejött megállapodásban kijelölt szervezet vezetőjét terhelik.
+(2) Amennyiben az (1) bekezdésben meghatározott végrehajtó szervezet vezetője saját hatáskörben nem tudja
+biztosítani a 32. §-ban foglaltakat, akkor köteles a végrehajtó szervezet a társfinanszírozást biztosító fejezettel
+együttműködve gondoskodni azok végrehajtásáról.
+(3) A Nemzeti Programengedélyező és a Nemzeti Koordinátor kérésére a Programengedélyező – vagy
+az (1) bekezdésben meghatározottak alapján a végrehajtó szervezet vezetője – köteles minden információt,
+adatszolgáltatást megadni adott program vonatkozásában, ha az Európai Bizottság felé történő pénzügyi
+adatszolgáltatásokhoz kapcsolódik.”
+4. §
+Az R. 56. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés szerinti jelentések alapján a KEHI összefoglaló jelentést készít. Az összefoglaló jelentést a KEHI
+minden év május 31-ig megtárgyalásra megküldi az ÁBPE Tárcaközi Bizottság részére. Az összefoglaló jelentést a KEHI,
+mint Illetékes Nemzeti Pénzügyi Ellenőrző Szervezet ezt köve tően minden év június 30-ig megküldi
+a pénzügyminiszter, az Európai Bizottság és a Nemzeti Programengedélyező részére.”
+5. §
+(1) Az R. 58. és 59. §-a helyébe a következő rendelkezés lép:
+„58. § (1) A szabálytalanságok jelentése érdekében az MVH, a végrehajtó szervezetek, (a továb biak ban együtt:
+szabálytalansági vizsgálatot lefolytató szervezet), valamint a PM Nemzeti Programengedélyező Iroda együttműködik
+az OLAF Koordinációs Irodával.
+(2) A szabálytalansági vizsgálatot lefolytató szervezet vezetője – jogszabály vagy megállapodás alapján – kijelöli
+a szabálytalansági ügyek nyilvántartásáért és jelentéséért felelős szervezeti egységet vagy személyt (a továb biak ban:
+szabálytalanság-felelős). A szabálytalanság-felelős nem lehet a függetlenített belső ellenőrzési egység.
+(3) A szabálytalanság-felelős
+a) gondoskodik a szabálytalanságok nyilvántartásáról,
+b) elkészíti a szabálytalanságok kivizsgálására és a szükséges intézkedésekre vonatkozó javaslatot,
+c) nyomon követi a szabálytalanságokkal kapcsolatos döntések végrehajtását, valamint
+d) összeállítja a szabálytalanságokkal kapcsolatos negyedéves jelentéseket.
+59. § (1) A szabálytalansági vizsgálatot lefolytató szervezet vezetője köteles intézkedni a programok elő írásai szerinti és
+a szabályszerű lebonyolítás érdekében szükséges korrekciókról és a személyi felelősség megállapításáról.
+(2) A szabálytalansági jelentési rendszer koordinációjáért a Nemzeti Programengedélyező a felelős.
+(3) A szabálytalansági vizsgálatot lefolytató szervezet a megtett intézkedésekről és azok eredményeiről
+5 munkanapon belül köteles tájékoztatni a Nemzeti Programengedélyezőt.”
+(2) Az R. az 59. §-t köve tően a következő 59/A. és 59/B. §-sal egészül ki:
+„59/A. § (1) A szabálytalansági vizsgálatot lefolytató szervezet a tárgynegyedévet követő 45 napon belül, ha
+szabálytalanság vagy visszaélés gyanúja merült fel, ennek tényéről, ilyen hiányában arról tájékoztatja a Nemzeti
+Programengedélyezőt, hogy a program lebonyolítása során nem merült fel szabálytalanság vagy visszaélés.
+(2) A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalansági eljárások indításáról, a megtett intézkedések
+végrehajtásáról és azok eredményeiről a – szabálytalanságról hozott döntést követő 5 munkanapon belül – jelentést
+küld a Nemzeti Programengedélyező részére abban az esetben, ha a szabálytalanság újfajta jogellenes gyakorlat
+elkövetésére utal.
+(3) Az (1) bekezdés szerinti negyedéves jelentések alapján a Nemzeti Programengedélyező a negyedévet követő hét
+héten belül köteles jelentést küldeni az EDIS Bizottság, az ÁBPE Tárcaközi Bizottság és az OLAF Koordinációs Iroda
+részére a programok lebonyolítása során észlelt és azokkal kapcsolatos szabálytalanságokról vagy visszaélésekről,
+az ezekkel kapcsolatban megtett intézkedésekről, valamint a folyamatban levő államigazgatási, bírósági eljárások
+
+helyzetéről. A jelentéseket az OLAF Koordinációs Iroda megküldi az Európai Bizottság (Európai Csalásellenes Hivatal)
+részére.
+(4) A (2) bekezdés szerinti jelentést a Nemzeti Programengedélyező köteles a kézhezvételt követő 5 munkanapon
+belül megküldeni az EDIS Bizottság, az ÁBPE Tárcaközi Bizottság és az OLAF Koordinációs Iroda részére. A jelentést
+az OLAF Koordinációs Iroda megküldi az Európai Bizottság (Európai Csalásellenes Hivatal) részére.
+(5) A Programengedélyező gondoskodik a szabálytalanul felhasznált összegnek – a szabálytalansági döntéstől
+számított két hónapon belül történő – behajtásáról.
+59/B. § A szabálytalansági vizsgálatot lefolytató szervezeteknél a szabálytalansági vizsgálat lefolytatásában részt vevő
+minden személynek összeférhetetlenségi és pártatlansági nyilatkozatot kell tennie.”
+6. §
+Az R.
+a)
+2. § 11. pontjában az „ESZA Európai Szociális Alap Nemzeti Programirányító Iroda Társadalmi Szolgáltató Kht.,
+a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Kht.” szövegrész helyébe az „ESZA Társadalmi Szolgáltató
+Nonprofit Kft., a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.” szöveg,
+b)
+3. § (1) bekezdésében és 10. § (1) bekezdésében a „helyettes államtitkár” szövegrészek helyébe a „szakállamtitkár”
+szöveg,
+c)
+24. § (1) bekezdésében a „szakmai lebonyolításért felelős Programengedélyező” szövegrész helyébe
+a „végrehajtó szervezet vezetője” szöveg,
+d)
+27. §-ában az „az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet 70–77. §-aiban”
+szövegrész helyébe az „az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet
+(a továb biak ban: Ámr.) 108–154. §-ában” szöveg,
+e)
+30. § c) pontjában a „határidejeit” szövegrész helyébe a „határidőit” szöveg,
+f)
+40. § (3) bekezdésében a „gondoskodni, a tervezési körirattal, illetve a mindenkori költségvetési tör vény
+elő írásaival” szövegrész helyébe a „gondoskodni az Áht. elő írásaival” szöveg,
+g)
+47. § (1) bekezdésében az „államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet”
+szövegrész helyébe az „Ámr.” szöveg,
+h)
+64. §-ában a „PM Nemzeti Programengedélyező Iroda, az MVH, valamint a végrehajtó” szövegrész helyébe
+a „szabálytalansági vizsgálatot lefolytató” szöveg
+lép.
+7. §
+Hatályát veszti az R. 2. § 8. és 12. pontja, 42. § (2) bekezdés c) pontja, 61. §-a és 65. §-a.
+2. A Nemzeti Fejlesztési Ügynökségről szóló 130/2006. (VI. 15.) Korm. rendelet módosítása
+8. §
+A Nemzeti Fejlesztési Ügynökségről szóló 130/2006. (VI. 15.) Korm. rendelet (a továb biak ban: R2.) 2. §-a a következő
+l) ponttal egészül ki:
+[Az Ügynökség:]
+„l) ellátja a Svájci–Magyar Együttműködési Program tekintetében a Nemzeti Koordinációs Egység feladatait.”
+9. §
+Az R2. 2. § i) pontja helyébe a következő rendelkezés lép:
+[Az Ügynökség:]
+„i) ellátja a PHARE programokkal kapcsolatos szervezési és koordinációs feladatokat, e tevékenységében
+a Segélykoordinációs Bizottság támogatja, ellátja továbbá a Schengen Alappal kapcsolatos szervezési és koordinációs
+feladatokat;”
+3. Záró rendelkezések
+10. §
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő harmadik napon lép hatályba, és 2010.
+július 1-jén hatályát veszti.
+(2) Az 1–7. § és a 9. § 2010. június 30-án lép hatályba.
+Bajnai Gordon s. k.,
+miniszterelnök
