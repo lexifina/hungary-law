@@ -1,0 +1,1 @@
+## „(5) Az ingatlan-nyilvántartás átalakításáról szóló határozat – a (2) bekezdés szerinti felszólalástól és a (3) bekezdés szerinti határozat jogerőre emelkedésétől függetlenül – a közszemle utolsó napját követő napon hatályba lép.”
