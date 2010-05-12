@@ -8,6 +8,6 @@
 
 (2) E rendelet 12. §-ának, 16. §-ának és 53. §-ának rendelkezéseit 2007. január 1-jétől kell alkalmazni.
 
-(3)[^22]
+(3)[^36]
 
-[^22]: A 74. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 2. pontja hatályon kívül helyezte.
+[^36]: A 74. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 2. pontja hatályon kívül helyezte.

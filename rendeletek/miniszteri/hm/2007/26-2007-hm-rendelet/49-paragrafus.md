@@ -8,6 +8,9 @@
 
 (3) Amennyiben a nemzetközi szervezet által folyósított napidíj pénzneme eltér a katonai megfigyelő részére megállapítandó külföldi napidíj-kiegészítés pénznemétől, abban az esetben a nemzetközi szervezet által folyósított összeget a jogosultság időpontját megelőző hónap tizenötödik napján érvényes, hivatalos MNB devizaárfolyamon át kell számítani a napidíj-kiegészítés pénznemére.
 
-(4)[^20] Az (1) bekezdés szerinti külföldi napidíj-kiegészítés összegének megállapítása során figyelembe veendő – az 52. § (2) bekezdése szerinti – külföldi napidíj kategóriát a kiküldött által külföldön ellátott katonai megfigyelői beosztás (állományjegyzékben rögzített szintje) alapján kell meghatározni. Amennyiben a külföldön ellátott katonai megfigyelői beosztás szintje nem egyértelműen beazonosítható, akkor a kiküldött által betöltött hazai beosztás alapján kell a külföldi napidíj kategóriát meghatározni.
+(4)[^32] Az (1) bekezdés szerinti külföldi napidíj-kiegészítés összegének megállapítása során figyelembe veendő – az 52. § (2) bekezdése szerinti – külföldi napidíj kategóriát a kiküldött által külföldön ellátott katonai megfigyelői beosztás (állományjegyzékben rögzített szintje) alapján kell meghatározni. Amennyiben a külföldön ellátott katonai megfigyelői beosztás szintje nem egyértelműen beazonosítható, akkor a kiküldött által betöltött hazai beosztás alapján kell a külföldi napidíj kategóriát meghatározni.
 
-[^20]: A 49. § (4) bekezdését a 24/2008. (X. 21.) HM rendelet 4. §-a iktatta be. E módosító rendelet 6. § (3) bekezdése alapján a rendelkezést csak a 2008. november 1. napját követően kiküldöttek esetében kell alkalmazni.
+(6)[^33] A külföldi napidíj-kiegészítést a jogosultak részére havonta utólag, legkésőbb a tárgyhónapot követő hónap 5. napjáig kell kifizetni.
+
+[^32]: A 49. § (4) bekezdését a 24/2008. (X. 21.) HM rendelet 4. §-a iktatta be. E módosító rendelet 6. § (3) bekezdése alapján a rendelkezést csak a 2008. november 1. napját követően kiküldöttek esetében kell alkalmazni.
+[^33]: A 49. § (6) bekezdését a 9/2010. (V. 4.) HM rendelet 8. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.

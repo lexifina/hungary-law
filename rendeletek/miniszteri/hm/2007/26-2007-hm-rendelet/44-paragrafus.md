@@ -1,4 +1,4 @@
-## 43. §[^19] Ha a kiküldött részére a kiküldetés helyén térítésmentes étkezés biztosított, akkor az 52. § (5) bekezdés rendelkezését kell alkalmazni.
+## 43. §[^31] Ha a kiküldött részére a kiküldetés helyén térítésmentes étkezés biztosított, akkor az 52. § (5) bekezdés rendelkezését kell alkalmazni.
 
 ## Utazási költségek
 
@@ -8,4 +8,4 @@
 
 (3) Az (1)–(2) bekezdések szerinti utazásoknál igénybe vehető utazási eszközt az engedélyező elöljáró jogosult meghatározni.
 
-[^19]: A 43. § a 13/2008. (VI. 3.) HM rendelet 6. §-ával megállapított szöveg.
+[^31]: A 43. § a 13/2008. (VI. 3.) HM rendelet 6. §-ával megállapított szöveg.

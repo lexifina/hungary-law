@@ -1,4 +1,4 @@
-## 2. § A honvédségnél foglalkoztatott köztisztviselők tartós külföldi szolgálatára vonatkozó szabályokat a Korm. rendelet tartalmazza azzal, hogy a honvédség által biztosított munkakörök ellátására kiküldöttek esetében a devizaszorzószámot e rendelet 1. számú melléklete alapján kell megállapítani. A köztisztviselők ideiglenes külföldi szolgálata, valamint tartós vagy ideiglenes külföldi tanulmányai alatt folyósítandó külföldi juttatásokat külön rendelkezés állapítja meg.
+## 2. §[^1] A honvédségnél foglalkoztatott köztisztviselők tartós külföldi szolgálatára vonatkozó szabályokat a Korm. rendelet tartalmazza azzal, hogy a honvédség által biztosított munkakörök ellátására kiküldöttek esetében a devizaszorzószámot 1. számú melléklet, és az adott országra irányadó alapellátmányt az 5. számú melléklet alapján kell megállapítani. A köztisztviselők ideiglenes külföldi szolgálata, valamint tartós vagy ideiglenes külföldi tanulmányai alatt folyósítandó külföldi juttatásokat külön rendelkezés állapítja meg.
 
 ## Értelmező rendelkezések
 
@@ -16,7 +16,7 @@ e) állomáshely: az az ország vagy földrajzilag körülhatárolt terület, ah
 
 f) harmadik ország: a Magyar Köztársaságtól, valamint az állomáshelytől eltérő ország vagy földrajzilag körülhatárolt terület;
 
-g)[^1] kiküldetés: a tartós külföldi szolgálat időtartama alatt, illetve időtartamtól függetlenül a béketámogató műveletben való részvétel során az állomáshely szerinti vagy harmadik országban, illetve a Magyar Köztársaság területén – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített ideiglenes külföldi szolgálat, illetve szolgálati út;
+g)[^2] kiküldetés: a tartós külföldi szolgálat időtartama alatt, illetve időtartamtól függetlenül a béketámogató műveletben való részvétel során az állomáshely szerinti vagy harmadik országban, illetve a Magyar Köztársaság területén – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített ideiglenes külföldi szolgálat, illetve szolgálati út;
 
 h) kiküldő: a külföldi szolgálatra vagy külföldi tanulmányra történő vezénylést, kihelyezést elrendelő személy;
 
@@ -74,4 +74,5 @@ r) katonai megfigyelő: nemzetközi szervezet felkérése alapján és szervezé
 
 s) fogadó fél: a külföldi képzést felajánló (azt esetlegesen pénzügyileg támogató) külföldi – kormányzati vagy egyéb, nem kormányzati – szerv.
 
-[^1]: A 3. § g) pontja a 13/2008. (VI. 3.) HM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § a 9/2010. (V. 4.) HM rendelet 10. § a) pontja szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
+[^2]: A 3. § g) pontja a 13/2008. (VI. 3.) HM rendelet 1. §-ával megállapított szöveg.
