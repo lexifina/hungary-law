@@ -1,104 +1,91 @@
-7. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez
+7. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^39]
 
 ## Teljes körű minőségbiztosítás
 
-1.[^35] A gyártó, aki megfelel a 2. pont szerinti követelményeknek, biztosítja és igazolja, hogy az érintett berendezés megfelel e rendelet követelményeinek. A berendezésre a gyártónak vagy annak a Magyar Köztársaságban letelepedett meghatalmazott képviselőjének a 2. § követelményei szerint rögzítenie kell az információkkal kiegészített megfelelőségi jelölést, a zajcímkét, és ki kell állítania az 5. § szerinti EK megfelelőségi nyilatkozatot.
+1. A gyártó, aki megfelel a 2. pont szerinti követelményeknek, biztosítja és igazolja, hogy az érintett berendezés megfelel e rendelet követelményeinek. A berendezésre a gyártónak vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselőjének a 2. § követelményei szerint rögzítenie kell a CE-jelölést, a zajcímkét, és ki kell állítania az 5. § szerinti EK megfelelőségi nyilatkozatot.
 
-2. A gyártónak a tervezésre, gyártásra, végtermék ellenőrzésre és vizsgálatra vonatkozóan a 3. pont szerint működtetnie kell a jóváhagyott minőségbiztosítási rendszert, amelyet a 4. pont szerinti felügyeletnek kell alávetnie.
+2. A gyártónak a tervezésre, gyártásra, végtermék-ellenőrzésre és vizsgálatra vonatkozóan a 3. pont szerint működtetnie kell a jóváhagyott minőségirányítási rendszert, amelyet a 4. pont szerinti felügyeletnek kell alávetnie.
 
-3. Minőségbiztosítási rendszer
+3. Minőségirányítási rendszer
 
-3.1.[^36] A gyártónak a minőségbiztosítási rendszere értékelésére kérelmet kell benyújtania az általa választott kijelölt tanúsító szervezethez.
+3.1. A gyártónak a minőségirányítási rendszere megfelelőségértékelését bejelentett szervezettel kell elvégeztetnie. E célból a gyártó köteles a bejelentett szervezet rendelkezésére bocsátani:
 
-A kérelemnek tartalmaznia kell:
+3.1.1. a tervezett berendezéstípusra vonatkozó minden lényeges információt, beleértve a már tervezési vagy gyártási fázisban lévő valamennyi berendezés műszaki dokumentációját, amely legalább a következő információkat tartalmazza:
 
-– a tervezett berendezés-típusra vonatkozó minden lényeges információt, beleértve a már tervezési vagy gyártási fázisban lévő valamennyi berendezés műszaki dokumentációját, amely legalább a következő információkat tartalmazza:
+3.1.1.1. a gyártó és az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője nevét és címét,
 
-= a gyártó és a Magyar Köztársaságban letelepedett meghatalmazott képviselője nevét és címét,
+3.1.1.2. a berendezés leírását,
 
-= a berendezés leírását,
+3.1.1.3. a berendezés márkajelét,
 
-= márkajelét,
+3.1.1.4. a berendezés kereskedelmi elnevezését,
 
-= kereskedelmi elnevezését,
+3.1.1.5. a berendezés típusát, sorozatszámát,
 
-= típusát, sorozatszámát,
+3.1.1.6. a berendezés azonosítására alkalmas műszaki adatokat és a zajkibocsátás értékelésének adatait, szükség esetén vázlatrajzokat is, és minden olyan leírást és magyarázatot, amely ezek megértéséhez szükséges,
 
-= a berendezés azonosítására alkalmas műszaki adatokat és a zajkibocsátás értékelésének adatait, szükség esetén vázlatrajzokat is, és minden olyan leírást és magyarázatot, amely ezek megértéséhez szükséges,
+3.1.1.7. az e rendeletre történő hivatkozást,
 
-= e rendeletre történő hivatkozást,
+3.1.1.8. az e rendelet rendelkezéseivel összhangban elvégzett zajmérések műszaki jegyzőkönyvét,
 
-= e rendelet rendelkezéseivel összhangban elvégzett zajmérések műszaki jegyzőkönyvét,
+3.1.1.9. az alkalmazott műszaki eljárásokat és a gyártásból adódó bizonytalanságok értékelésének eredményeit és ezek hatását a garantált zajszintre,
 
-= az alkalmazott műszaki eljárásokat és a gyártásból adódó bizonytalanságok értékelésének eredményeit és ezek hatását a garantált zajszintre,
+3.1.1.10. az EK megfelelőségi nyilatkozat egy másolatát,
 
-= az EK megfelelőségi nyilatkozat egy másolatát,
+3.1.1.11. a minőségirányítási rendszerrel kapcsolatos dokumentációt.
 
-– a minőségbiztosítási rendszerrel kapcsolatos dokumentációt.
+3.2. A minőségirányítási rendszernek biztosítania kell a termék minden rá vonatkozó rendelet követelményei szerinti megfelelését. A gyártónak az általa alkalmazott valamennyi elemet, követelményt és rendelkezést írott minőségpolitikai előírások, eljárások és utasítások formájában szisztematikusan és rendszeresen dokumentálnia kell. A minőségirányítási rendszer dokumentációját a minőségpolitikai előírások és eljárások közös értelmezésével kell engedélyezni minőségirányítási programok, tervek, kezelési utasítások és jegyzőkönyvek formájában.
 
-3.2. A minőségbiztosítási rendszernek biztosítania kell a termék minden rá vonatkozó rendelet követelményei szerinti megfelelését.
+3.3. A 3.2. pont szerinti dokumentációnak a következőket kell tartalmaznia:
 
-A gyártónak az általa alkalmazott valamennyi elemet, követelményt és rendelkezést írott minőségpolitikai előírások, eljárások és utasítások formájában szisztematikusan és rendszeresen dokumentálnia kell. A minőségbiztosítási rendszer dokumentációját a minőségpolitikai előírások és eljárások közös értelmezésével kell engedélyezni minőségbiztosítási programok, tervek, kezelési utasítások és jegyzőkönyvek formájában.
+3.3.1. a minőségi célkitűzést és a szervezeti felépítést, a tervezéssel és termékminőséggel foglalkozó vezetők felelősségét és jogkörét,
 
-3.3.
+3.3.2. az egyes termékre elkészítendő műszaki dokumentációt, amely legalább a 3.1. pont szerinti műszaki dokumentációval kapcsolatos információkat tartalmazza,
 
-a) A 3.2. pont szerinti dokumentáció megfelelő leírást adjon a következőkről:
+3.3.3. a tervezés-ellenőrzési és tervezés-felülvizsgálati módszereket, folyamatokat és tevékenységeket, amelyeket akkor alkalmaznak, amikor az érintett berendezés-kategóriához tartozó termékeket tervezik,
 
-– a minőségi célkitűzésekről és a szervezeti felépítésről, a tervezéssel és termékminőséggel foglalkozó vezetők felelősségéről és jogköréről,
+3.3.4. a megfelelő gyártási, minőség-ellenőrzési és minőségirányítási módszereket, folyamatokat és az alkalmazandó módszeres tevékenységeket,
 
-– az egyes termékre elkészítendő műszaki dokumentációról, amely legalább a 3.1. pont szerinti műszaki dokumentációval kapcsolatos információkat tartalmazza,
+3.3.5. a gyártás előtt, közben és után végzett vizsgálatokat és ellenőrzéseket, valamint ezek végzésének gyakoriságát,
 
-– a tervezés-ellenőrzési és tervezés-felülvizsgálati módszerekről, folyamatokról és tevékenységekről, amelyeket akkor alkalmaznak, amikor az érintett berendezés-kategóriához tartozó termékeket tervezik,
+3.3.6. a minőségi jegyzőkönyveket, mint például az ellenőrzésekről készített jelentések és adataik, a kalibrációs adatok, az érintett személyzet minősítéséről szóló tájékoztatók stb.,
 
-– a megfelelő gyártási, minőségellenőrzési és minőségbiztosítási módszerekről, folyamatokról és az alkalmazandó módszeres tevékenységekről,
+3.3.7. olyan eszközöket, amelyek a megkövetelt tervezési és termékminőségi, valamint a minőségirányítási rendszer hatékony ellenőrzését biztosítják.
 
-– a gyártás előtt, közben és után végzett vizsgálatokról és ellenőrzésekről, valamint ezek végzésének gyakoriságáról,
+3.4. A bejelentett szervezetnek meg kell győződnie arról, hogy a minőségirányítási rendszer kielégíti a 3.2. pont szerinti követelményeket, feltételezve, hogy ezek a követelmények megfelelnek az MSZ EN ISO 9001 végrehajtását biztosító minőségirányítási rendszereknek.
 
-– a minőségi jegyzőkönyvekről, mint például az ellenőrzésekről készített jelentések és adataik, a kalibrációs adatok, az érintett személyzet minősítéséről szóló tájékoztatók stb.,
+3.5. Az ellenőrzést végző csoportnak legalább egy olyan taggal kell rendelkeznie, akinek gyakorlata van az adott termék gyártástechnológiája terén. Az értékelési eljárás részeként felmérő helyszíni bejárást kell tartani a gyártó létesítményeiben.
 
-– olyan eszközökről, amelyek a megkövetelt tervezési és termékminőségi, valamint a minőségbiztosítási rendszer hatékony ellenőrzését biztosítják.
+3.6. A döntésről értesíteni kell a gyártót. Az értesítésnek tartalmaznia kell a vizsgálat megállapításait és a döntés indokolását.
 
-b) A kijelölt tanúsító szervezetnek meg kell győződnie arról, hogy a minőségbiztosítási rendszer kielégíti a 3.2. pont szerinti követelményeket, feltételezve, hogy ezek a követelmények megfelelnek az MSZ EN ISO 9001 végrehajtását biztosító minőségbiztosítási rendszereknek.
+3.7. A gyártónak kötelezettséget kell vállalnia arra, hogy a jóváhagyásnak megfelelően teljesíti a minőségirányítási rendszerből származó kötelezettségeket, és annak teljesítését megfelelő módon és hatékonyan fenntartja.
 
-c) Az ellenőrzést végző csoportnak legalább egy olyan taggal kell rendelkeznie, akinek gyakorlata van az adott termék gyártástechnológiája terén. Az értékelési eljárás részeként felmérő helyszíni bejárást kell tartani a gyártó létesítményeiben.
+3.7.1. A gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője a minőségirányítási rendszer minden módosításáról folyamatosan tájékoztatja a minőségirányítási rendszer megfelelőségértékelését elvégző bejelentett szervezetet.
 
-d) A döntésről értesíteni kell a gyártót. Az értesítésnek tartalmaznia kell a vizsgálat megállapításait és a döntés indokolását.
+3.7.2. A bejelentett szervezetnek értékelnie kell a javasolt módosításokat és el kell döntenie, hogy a módosított minőségirányítási rendszer továbbra is teljesíti-e a 3.2. pont szerinti követelményeket, vagy újabb megfelelőségértékelésre van szükség. Az értékelés eredményéről és annak indokairól a bejelentett szervezet tájékoztatja a gyártót.
 
-3.4.
+4. A bejelentett szervezet felelősségével végzett felügyelet
 
-a) A gyártónak kötelezettséget kell vállalnia arra, hogy a jóváhagyásnak megfelelően teljesíti a minőség-biztosítási rendszerből származó kötelezettségeket, és annak teljesítését megfelelő módon és hatékonyan fenntartja.
+4.1. A felügyelet célja annak biztosítása, hogy a gyártó pontosan teljesítse a jóváhagyott minőségirányítási rendszerből eredő kötelezettségeit.
 
-b) A gyártó vagy annak a Magyar Köztársaságban letelepedett meghatalmazott képviselője a minőségbiztosítási rendszer minden módosításáról folyamatosan tájékoztatja a minőségbiztosítási rendszert elfogadó kijelölt tanúsító szervezetet.
+4.2. A gyártó köteles a bejelentett szervezet számára rendelkezésre bocsátani a szükséges információkat, így különösen:
 
-c) A kijelölt tanúsító szervezetnek értékelnie kell a javasolt módosításokat és el kell döntenie, hogy a módosított minőségbiztosítási rendszer továbbra is teljesíti-e a 3.2. pont szerinti követelményeket, vagy újabb értékelésre van szükség.
+4.2.1. a minőségirányítási rendszer dokumentációját,
 
-d) A 3.4. c) pont szerinti döntésről értesíteni kell a gyártót. Az értesítésnek tartalmaznia kell a vizsgálat megállapításait és a döntés indokolását.
+4.2.2. a tervezés minőségirányítási rendszere előirányzott minőségadatainak (például: elemzési eredmények, számítások, vizsgálatok stb.) jegyzékét,
 
-4. A kijelölt tanúsító szervezet felelősségével végzett felügyelet
+4.2.3. a gyártás minőségirányítási rendszere előirányzott minőségadatainak (például: az ellenőrzésekről készített jegyzőkönyvek és adataik, a kalibrációs adatok, az érintett személyzet minősítéséről szóló tájékoztatók stb.) jegyzékét.
 
-4.1. A felügyelet célja annak biztosítása, hogy a gyártó pontosan teljesítse a jóváhagyott minőségbiztosítási rendszerből eredő kötelezettségeit.
+4.3. A bejelentett szervezet időszakonként ellenőrzést hajt végre és az ellenőrzésről jelentést ad át a gyártónak, annak biztosítására, hogy a gyártó fenntartsa és alkalmazza a minőségirányítási rendszert.
 
-4.2. A gyártónak lehetővé kell tennie, hogy a kijelölt tanúsító szervezet felügyelet céljából beléphessen a tervezés, a gyártás, az ellenőrzés és a vizsgálat, valamint a tárolás helyszíneire, helyiségeibe és biztosítania kell számára a szükséges információkat, különösen:
-
-– a minőségbiztosítási rendszer dokumentációját,
-
-– a tervezés minőségbiztosítási rendszere előirányzott minőségadatainak (például: elemzési eredmények, számítások, vizsgálatok stb.) jegyzékét,
-
-– a gyártás minőségbiztosítási rendszere előirányzott minőségadatainak (például: az ellenőrzésekről készített jegyzőkönyvek és adataik, a kalibrációs adatok, az érintett személyzet minősítéséről szóló tájékoztatók stb.) jegyzékét.
-
-4.3. A kijelölt tanúsító szervezet időszakonként ellenőrzést hajt végre és az ellenőrzésről jelentést ad át a gyártónak, annak biztosítására, hogy a gyártó fenntartsa és alkalmazza a minőségbiztosítási rendszert.
-
-4.4. A kijelölt tanúsító szervezet váratlan helyszíni ellenőrzéseket tart a gyártónál. Ezen ellenőrzések során a kijelölt tanúsító szervezet ellenőrző vizsgálatokat végezhet, vagy ha szükséges végeztethet annak igazolására, hogy a minőségbiztosítási rendszer helyesen működik. A kijelölt tanúsító szervezet az ellenőrzéséről jelentést és ha vizsgálatot is végzett, akkor vizsgálati jelentést is ad át a gyártónak.
+4.4. A bejelentett szervezet váratlan helyszíni ellenőrzéseket tart a gyártónál. Ezen ellenőrzések során a bejelentett szervezet ellenőrző vizsgálatokat végezhet, vagy ha szükséges végeztethet annak igazolására, hogy a minőségirányítási rendszer helyesen működik. A bejelentett szervezet az ellenőrzéséről jelentést, és ha vizsgálatot is végzett, akkor vizsgálati jelentést is ad át a gyártónak.
 
 5. A gyártónak legalább az utolsó berendezés legyártását követő 10. év végéig meg kell őriznie és a hatóságok számára elérhetővé kell tennie:
 
-– az ezen melléklet 3.1. pontja szerinti kérelmet,
+5.1. a 3.1. pontjának megfelelően a gyártó számára rendelkezésre bocsátott adatokat,
 
-– a 3.4. b) pont szerinti naprakész állapotot,
+5.2. a 3.7. pont szerinti naprakész állapotot,
 
-– a kijelölt tanúsító szervezet 3.4. d) pontban, valamint a 4.3. és a 4.4. pontokban említett döntéseit és jelentéseit.
+5.3. a bejelentett szervezet 3.7.2. pontban, valamint a 4.3. és a 4.4. pontban említett megállapításait és jelentéseit.
 
-6. Minden kijelölt tanúsító szervezet megadja a többi kijelölt tanúsító szervezet számára a minőségbiztosítási rendszer jóváhagyására és visszavonására vonatkozó információkat.
-
-[^35]: A 7. számú melléklet 1. pontja a 125/2006. (V. 19.) Korm. rendelet 11. § (1) bekezdésének b) pontja szerint módosított szöveg.
-[^36]: A 7. számú melléklet 3. pontjának 3.1. alpontja a 125/2006. (V. 19.) Korm. rendelet 11. § (1) bekezdésének c) pontja szerint módosított szöveg.
+[^39]: A 7. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.

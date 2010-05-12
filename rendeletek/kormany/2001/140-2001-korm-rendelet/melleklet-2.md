@@ -114,7 +114,7 @@ Ezeket a berendezéseket teherautókra, trélerekre vagy különleges járművek
 
 Ideiglenesen telepített berendezés, amely anyagok szállítására alkalmas, gépi hajtású szalag segítségével.
 
-13.[^26] Járműre szerelt hűtőgépek
+13.[^34] Járműre szerelt hűtőgépek
 
 Raktéri hűtő berendezés, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet szerinti N2, N3, O3 és O4 kategóriájú járműveken.
 
@@ -254,4 +254,4 @@ Olyan jármű, amelyre egy dobot szereltek fel, a készre kevert betonnak a beto
 
 A gép részei a vízszivattyú és a hajtó rendszer. A vízszivattyú olyan berendezés, amely a vizet alacsonyabb energiájú szintről magasabb energiájú szintre emeli.
 
-[^26]: A 2. számú melléklet 13. pontja a 125/2006. (V. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^34]: A 2. számú melléklet 13. pontja a 125/2006. (V. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
