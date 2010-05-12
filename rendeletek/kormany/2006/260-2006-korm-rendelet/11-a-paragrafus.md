@@ -1,10 +1,10 @@
-## Építésügyi hatóság kijelölése[^28]
+## Építésügyi hatóság kijelölése[^34]
 
-11/A. §[^29] (1) A Kormány – a (3) bekezdésben meghatározott körben – építésügyi hatóságként a Hivatalt jelöli ki.
+11/A. §[^35] (1) A Kormány – a (3) bekezdésben meghatározott körben – építésügyi hatóságként a Hivatalt jelöli ki.
 
-(2)[^30] Az (1) bekezdésben meghatározott hatósági eljárásban építésügyi jogkörben első fokon a Hivatal illetékes területi mérésügyi és műszaki biztonsági hatósága, másodfokon a Hivatal központi szerve jár el.
+(2)[^36] Az (1) bekezdésben meghatározott hatósági eljárásban építésügyi jogkörben első fokon a Hivatal illetékes területi mérésügyi és műszaki biztonsági hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(3)[^31] A Hivatal építésügyi hatóságként jár el
+(3)[^37] A Hivatal építésügyi hatóságként jár el
 
 a) az alábbi sajátos építményfajták tekintetében
 
@@ -30,7 +30,10 @@ aj) ipari és mezőgazdasági célú hőfejlesztő-hőhasznosító, gáz- és ol
 
 b) a külön jogszabályban meghatározott villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték engedélyezésével kapcsolatos hatósági eljárásokban.
 
-[^28]: A 11/A. §-t megelőző alcímet a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
-[^29]: A 11/A. §-t a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
-[^30]: A 11/A. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^31]: A 11/A. § (3) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+(4)[^38] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték, vagy a közvetlen vezeték több területi mérésügyi és műszaki biztonsági hatóság illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
+
+[^34]: A 11/A. §-t megelőző alcímet a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
+[^35]: A 11/A. §-t a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
+[^36]: A 11/A. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^37]: A 11/A. § (3) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^38]: A 11/A. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 14. § (7) bekezdése iktatta be.
