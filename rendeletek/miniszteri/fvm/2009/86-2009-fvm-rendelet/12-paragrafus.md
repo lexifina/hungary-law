@@ -27,7 +27,7 @@ a) az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában
 b)[^33] az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások feltételeit meghatározó FVM rendelet alapján benyújtott kérelemre kiadott támogatási határozat, vagy kizárólag forráshiány miatti elutasításról szóló döntés másolatát,
 
 [^29]: A 12. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^30]: A 12. § (2) bekezdése az 59/2010. (V. 7.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^31]: A 12. § (6) bekezdés d) pontját az 59/2010. (V. 7.) FVM rendelet 6. § (2) bekezdése iktatta be.
-[^32]: A 12. § (6) bekezdés e) pontját az 59/2010. (V. 7.) FVM rendelet 6. § (2) bekezdése iktatta be.
-[^33]: A 12. § (7) bekezdés b) pontja az 59/2010. (V. 7.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^30]: A 12. § (2) bekezdése a 63/2010. (V. 11.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^31]: A 12. § (2) bekezdés d) pontját a 63/2010. (V. 11.) FVM rendelet 6. § (2) bekezdése iktatta be.
+[^32]: A 12. § (2) bekezdés e) pontját a 63/2010. (V. 11.) FVM rendelet 6. § (2) bekezdése iktatta be.
+[^33]: A 12. § (7) bekezdés b) pontja a 63/2010. (V. 11.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.

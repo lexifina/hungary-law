@@ -5,4 +5,4 @@
 (3) A miniszter minden év március 1-jéig megküldi az Európai Bizottság részére a szőlőtermelési potenciálról szóló jegyzéket, valamint az engedély nélkül telepített ültetvényekről szóló tájékoztatást.
 
 [^3]: A 3. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^4]: A 3. § (1) bekezdése az 59/2010. (V. 7.) FVM rendelet 9. §-a szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 63/2010. (V. 11.) FVM rendelet 9. §-a szerint módosított szöveg.

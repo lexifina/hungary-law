@@ -7,5 +7,5 @@
 (4) Amennyiben az engedélyes a bejelentési kötelezettségét elmulasztja, a hegybíró a Btv. 51/A. §-a alapján mulasztási bírságot szab ki.
 
 [^16]: A 6. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^17]: A 6. § (1) bekezdése az 59/2010. (V. 7.) FVM rendelet 3. §-ával megállapított szöveg.
-[^18]: A 6. § (3) bekezdése az 59/2010. (V. 7.) FVM rendelet 11. §-a szerint módosított szöveg.
+[^17]: A 6. § (1) bekezdése a 63/2010. (V. 11.) FVM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 6. § (3) bekezdése a 63/2010. (V. 11.) FVM rendelet 11. §-a szerint módosított szöveg.

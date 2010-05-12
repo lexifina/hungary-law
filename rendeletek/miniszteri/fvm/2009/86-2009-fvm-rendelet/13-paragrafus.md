@@ -16,4 +16,4 @@
 
 (8) Amennyiben a kérelmező fizetési kötelezettségének határidőben nem tesz eleget, úgy az MVH PKI az újratelepítési jog vásárlása iránti kérelmet elutasítja.
 
-[^34]: A 13. § az 59/2010. (V. 7.) FVM rendelet 7. §-ával megállapított szöveg.
+[^34]: A 13. § a 63/2010. (V. 11.) FVM rendelet 7. §-ával megállapított szöveg.

@@ -31,5 +31,5 @@ d)[^37] az előállított alkoholra vonatkozó, az MgSzH Borminősítési Igazga
 (11) A lepárlással kapcsolatban felmerült összes költség a használót terheli.
 
 [^35]: A 14. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^36]: A 14. § (1) bekezdése az 59/2010. (V. 7.) FVM rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^37]: A 14. § (9) bekezdés d) pontja az 59/2010. (V. 7.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 14. § (1) bekezdése a 63/2010. (V. 11.) FVM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^37]: A 14. § (9) bekezdés d) pontja a 63/2010. (V. 11.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.

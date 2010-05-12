@@ -19,4 +19,4 @@ b) az átvevő 1. számú melléklet szerinti nyilatkozatát a jog felhasználá
 (5) A kérelemről az MVH PKI dönt.
 
 [^25]: A 9. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^26]: A 9. § (3) bekezdése az 59/2010. (V. 7.) FVM rendelet 13. §-a szerint módosított szöveg.
+[^26]: A 9. § (3) bekezdése a 63/2010. (V. 11.) FVM rendelet 13. §-a szerint módosított szöveg.

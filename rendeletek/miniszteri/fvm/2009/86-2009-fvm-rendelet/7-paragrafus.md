@@ -19,7 +19,7 @@ c)[^22] 2008. augusztus 1. után engedéllyel végzett ültetvénykivágás alap
 (6)[^23] A fel nem használt újratelepítési jogok – időbeli hatályuk lejártával – határozathozatal nélkül, az MVH által vezetett telepítési jogtartalékba kerülnek.
 
 [^19]: A 7. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^20]: A 7. § (3) bekezdése az 59/2010. (V. 7.) FVM rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^21]: A 7. § (4) bekezdése az 59/2010. (V. 7.) FVM rendelet 4. §-ával megállapított szöveg.
-[^22]: A 7. § (5) bekezdés c) pontja az 59/2010. (V. 7.) FVM rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 7. § (6) bekezdése az 59/2010. (V. 7.) FVM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 7. § (3) bekezdése a 63/2010. (V. 11.) FVM rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^21]: A 7. § (4) bekezdése a 63/2010. (V. 11.) FVM rendelet 4. §-ával megállapított szöveg.
+[^22]: A 7. § (5) bekezdés c) pontja a 63/2010. (V. 11.) FVM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 7. § (6) bekezdése a 63/2010. (V. 11.) FVM rendelet 12. § (3) bekezdése szerint módosított szöveg.

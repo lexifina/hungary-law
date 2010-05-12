@@ -9,7 +9,7 @@
 (5)[^15] Az időbeli hatály lejárta előtt, indokolt esetben, az engedélyes kérheti az engedély visszavonását. Az engedély alapjául szolgáló újratelepítési jog az engedély visszavonását követően átruházható vagy új engedély alapját képezheti.
 
 [^11]: Az 5. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^12]: Az 5. § (1) bekezdése az 59/2010. (V. 7.) FVM rendelet 2. §-ával megállapított szöveg.
-[^13]: Az 5. § (2) bekezdése az 59/2010. (V. 7.) FVM rendelet 2. §-ával megállapított szöveg.
-[^14]: Az 5. § (3) bekezdése az 59/2010. (V. 7.) FVM rendelet 2. §-ával megállapított szöveg.
-[^15]: Az 5. § (5) bekezdése az 59/2010. (V. 7.) FVM rendelet 10. §-a szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdése a 63/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
+[^13]: Az 5. § (2) bekezdése a 63/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
+[^14]: Az 5. § (3) bekezdése a 63/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
+[^15]: Az 5. § (5) bekezdése a 63/2010. (V. 11.) FVM rendelet 10. §-a szerint módosított szöveg.

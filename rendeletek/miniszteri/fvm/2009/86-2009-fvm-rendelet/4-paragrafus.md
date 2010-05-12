@@ -49,8 +49,8 @@ b) a betelepíteni kívánt összefüggő terület határától meghatározott �
 (7) Alanyültetvény telepítése, valamint pótlás vagy fajtaváltás esetén a telepítésre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal az eltéréssel, hogy a (4) bekezdés d) pontjában előírtakat nem kell alkalmazni.
 
 [^5]: A 4. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^6]: A 4. § (4) bekezdés f) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan az 59/2010. (V. 7.) FVM rendelet 1. § (1) bekezdése iktatta be.
-[^7]: A 4. § (4) bekezdés g) pontja az 59/2010. (V. 7.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 4. § (4) bekezdés i) pontja az 59/2010. (V. 7.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^9]: A 4. § (5) bekezdése az 59/2010. (V. 7.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^10]: A 4. § (6) bekezdése az 59/2010. (V. 7.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: A 4. § (4) bekezdés f) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan az 59/2010. (V. 7.) FVM rendelet 1. § (1) bekezdése iktatta be, szövege a 63/2010. (V. 11.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (4) bekezdés g) pontja a 63/2010. (V. 11.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (4) bekezdés i) pontja a 63/2010. (V. 11.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (5) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (6) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.

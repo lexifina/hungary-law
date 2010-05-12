@@ -4,4 +4,4 @@
 
 (3) Az ügyfél kérelmére az MVH huszonkét munkanapon belül az újratelepítési jog nyilvántartás alapján másolatot vagy kivonatot állít ki.
 
-[^24]: A 8. § az 59/2010. (V. 7.) FVM rendelet 5. §-ával megállapított szöveg.
+[^24]: A 8. § a 63/2010. (V. 11.) FVM rendelet 5. §-ával megállapított szöveg.
