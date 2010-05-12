@@ -1,8 +1,14 @@
 17. § (1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba, azzal, hogy rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2)[^1]
+(2)[^3]
 
-(3)[^2]
+(3)[^4]
+
+(4)[^5] A számítógépes ingatlan-nyilvántartási rendszerből lekérdezés útján szolgáltatható egyes ingatlan-nyilvántartási adatok szolgáltatásáról és igazgatási szolgáltatási díjáról, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításáról és a díjak megfizetésének részletes szabályairól szóló 176/2009. (XII. 28.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
+
+a) 92. §-ával módosított 4. §-át,
+
+b) 96. §-ával módosított 8. §-át a Mr. hatálybalépését[^6] követően indult ügyekben kell alkalmazni.
 
 Melléklet a 176/2009. (XII. 28.) FVM rendelethez
 
@@ -50,5 +56,7 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez
 
 | Földmérési és Távérzékelési Intézet | 10032000-01474527-00000000 |
 
-[^1]: A 17. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^2]: A 17. § (3) bekezdése ugyanezen bekezdés alapján hatályát veszette.
+[^3]: A 17. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^4]: A 17. § (3) bekezdése ugyanezen bekezdés alapján hatályát veszette.
+[^5]: A 17. § (4) bekezdését a 48/2010. (IV. 27.) FVM rendelet 94. §-a iktatta be.
+[^6]: A hatálybalépés időpontja: 2010. május 12.
