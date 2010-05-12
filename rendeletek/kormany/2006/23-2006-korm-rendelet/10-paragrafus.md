@@ -14,9 +14,9 @@ b) a létesítési engedély számát és keltét az engedélyező megnevezésé
 
 c) az üzemeltető megnevezését és címét,
 
-d) ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőség értékelését végzőjének megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását. Több nyomástartó berendezésből álló rendszer esetén az előzőeket értelemszerűen kell figyelembe venni,
+d)[^34] ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőségértékelést végző bejelentett szervezet megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását,
 
-e)[^34] a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását,
+e)[^35] a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását,
 
 f) a nyomástartó berendezés egyedi, illetve a rendszer védelmét ellátó nyomáshatároló beépítési helyét, kategóriáját, valamint műszaki jellemzőit (típus, jellemző teljesítménytényező, beállítási – a legnagyobb üzemnyomás – nyomás) és az alkalmazott megfelelőség értékelési eljárás szerint elvégzett eredményes vizsgálatok felsorolását, valamint az egyéb biztonsági berendezések ismertetését és beépítési helyüket.
 
@@ -39,4 +39,5 @@ g) jelentést az esetleg előírt próbaüzem tapasztalatairól.
 (6) A 8. § (8) bekezdés szerinti létesítési engedélyben szereplő nyomástartó berendezés használatbavétele az alapadatokat tartalmazó kérelem alapján is engedélyezhető, ha a rendelkezésre álló és engedélyezett típusdokumentum értelemszerűen tartalmazza a (4) és (5) bekezdésekben megkövetelt adatokat és mellékleteket.
 
 [^33]: A 10. § (2) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^34]: A 10. § (4) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^34]: A 10. § (4) bekezdés d) pontja a 163/2010. (V. 11.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^35]: A 10. § (4) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
