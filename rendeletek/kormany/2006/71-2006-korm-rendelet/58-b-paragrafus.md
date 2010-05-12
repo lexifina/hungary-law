@@ -1,8 +1,8 @@
-## 58/A. §[^47] A Honvéd Vezérkar főnöke az ügy érdemi elbírálására jogosult hatóság megkeresésére haladéktalanul tájékoztatást ad arról, hogy az adott eljárásban fennállnak-e a szakhatóságként történő bevonásának és közreműködésének a feltételei.
+## 58/A. §[^48] A Honvéd Vezérkar főnöke az ügy érdemi elbírálására jogosult hatóság megkeresésére haladéktalanul tájékoztatást ad arról, hogy az adott eljárásban fennállnak-e a szakhatóságként történő bevonásának és közreműködésének a feltételei.
 
-## A honvédelmi miniszter által létrehozott hatóságok eljárásaiban közreműködő szakhatóságok kijelölése[^48]
+## A honvédelmi miniszter által létrehozott hatóságok eljárásaiban közreműködő szakhatóságok kijelölése[^49]
 
-58/B. §[^49] (1) A Kormány a Honvédség Közegészségügyi-Járványügyi Szolgálatának
+58/B. §[^50] (1) A Kormány a Honvédség Közegészségügyi-Járványügyi Szolgálatának
 
 a) a radioaktív anyag rendszeresítését, használatba vételét, birtoklását, termelését, előállítását, tárolását, felhasználását, átalakítását szolgáló épület, építmény, helyiség, műtárgy (a továbbiakban együtt: létesítmény) létesítési, üzembe helyezési, üzemeltetési, átalakítási, javítási, megszüntetési eljárásában,
 
@@ -20,6 +20,6 @@ b) az (1) bekezdésben meghatározott, valamint a radioaktív anyagot vagy ioniz
 
 c) az ionizáló sugárzást létrehozó berendezés, létesítmény létrehozása, átadása, a használat bármilyen jogcímen való átengedése, előállítása, üzemeltetése, átalakítása, megszüntetése engedélyezése iránti eljárásában, a radioaktív anyagot vagy ionizáló sugárzást létrehozó berendezést tartalmazó haditechnikai termék rendszeresítési, alkalmazásba, használatba vételi, kivonási, megszüntetési eljárásában – a honvédségi biztonságtechnikai követelményeknek való megfelelés kérdésében –
 
-[^47]: Az 58/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^48]: Az 58/B. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^49]: Az 58/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^48]: Az 58/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^49]: Az 58/B. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^50]: Az 58/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

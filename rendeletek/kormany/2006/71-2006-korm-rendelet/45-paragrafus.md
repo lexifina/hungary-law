@@ -6,8 +6,9 @@ a) a hazai eszköz- és anyagfejlesztések tervezéséhez igényeket és adatoka
 
 b) a nemzetgazdaság minősített időszaki tervezéséhez adatot szolgáltat a gazdaságfelkészítési rendszerbe bevont tervező szervek számára,
 
-c) a minőség- (megfelelőség-) tanúsításról és az akkreditálásról szóló jogszabályokkal összhangban meghatározza a Honvédség minőségügyi intézményrendszerére és annak működésére vonatkozó követelményeket,
+c)[^35] az akkreditálásról szóló jogszabályokkal összhangban meghatározza a Honvédség minőségügyi intézményrendszerére és annak működésére vonatkozó követelményeket,
 
 d) együttműködik a Magyar Szabványügyi Testülettel és az érdekelt miniszterekkel a katonai szabványosítás fő irányainak meghatározásában, a szabványok kidolgozásában.
 
 [^34]: A 45. § előtti alcím a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 45. § c) pontja a 163/2010. (V. 11.) Korm. rendelet 13. §-a szerint módosított szöveg.
