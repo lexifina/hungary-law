@@ -1,6 +1,6 @@
-## 27. § Bírósági jogorvoslati kérelem (a bejegyzésről, feljegyzésről, változásvezetésről szóló földhivatali határozat megváltoztatása iránti kereset), valamint az annak alapján indult perben hozott bírósági határozat ellen rendkívüli perorvoslatként előterjesztett felülvizsgálati kérelem benyújtására vonatkozó feljegyzésben fel kell tüntetni annak a határozatnak a számát és annak a bejegyzésnek a sorszámát, amellyel kapcsolatban a jogorvoslati kérelmet, illetőleg felülvizsgálati kérelmet benyújtották.
+## 27. §[^49] Bírósági jogorvoslati kérelemre, valamint az annak alapján indult perben hozott bírósági döntés ellen rendkívüli perorvoslatként előterjesztett felülvizsgálati kérelem benyújtására vonatkozó feljegyzésben fel kell tüntetni annak a döntésnek a számát és annak a bejegyzésnek a sorszámát, amellyel kapcsolatban a bírósági jogorvoslati kérelmet vagy a felülvizsgálati kérelmet benyújtották.
 
-## Elidegenítési és terhelési tilalom
+## 23.[^50] Elidegenítési és terhelési tilalom
 
 28. § (1) A szerződésen vagy végrendeleten alapuló elidegenítési és terhelési tilalmat csak a tulajdonjog bejegyzésével egyidejűleg lehet feljegyezni az átruházott egész ingatlanra vagy egész tulajdoni illetőségre, illetve ezek eszmei hányadára.
 
@@ -9,3 +9,6 @@
 (3) Ha elidegenítési és terhelési tilalmat jegyeztek be, szerződésen alapuló további jogokat csak a tilalom jogosultjának hozzájárulásával lehet bejegyezni. Nem szükséges a tilalom jogosultjának hozzájárulása a végrehajtási jog bejegyzéséhez.
 
 (4) Az öröklési szerződésen alapuló elidegenítési és terhelési tilalmat az örökhagyóval szerződött fél javára tulajdonjog bejegyzése nélkül, önállóan kell bejegyezni a szerződéssel lekötött ingatlanra vagy eszmei hányadra.
+
+[^49]: A 27. § a 48/2010. (IV. 27.) FVM rendelet 29. §-ával megállapított szöveg.
+[^50]: A 23. alcím a 48/2010. (IV. 27.) FVM rendelet 30. §-ával megállapított szöveg.

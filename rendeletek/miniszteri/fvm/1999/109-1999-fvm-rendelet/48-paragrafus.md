@@ -1,24 +1,24 @@
-## Fásított terület
+## 45.[^85] Fásított terület
 
-48. §[^32] (1) A külön jogszabály rendelkezésére figyelemmel fásított terület művelési ágban kell nyilvántartani a 400 m2-t elérő, 1500 m2-nél kisebb kiterjedésű:
+48. §[^86] (1) Fásított terület művelési ágban kell nyilvántartani
 
-a) erdő által elfoglalt területet (facsoport területét),
+a) a nem erdei fafajokkal borított területet,
 
-b) legalább három sor erdei fával fedett területet (erdősávot).
+b) a település külterületén az arborétum által elfoglalt területet,
 
-(2) Az (1) bekezdésben foglaltakon túlmenően fásított terület művelési ágban kell nyilvántartani még:
+c) az üzemmel, majorral, közüzemi létesítményekkel, továbbá úttal, vasúttal, töltéssel, árokkal, csatornával, valamint az egyéb vonalas műszaki létesítménnyel azonos földrészleten lévő
 
-a) a legfeljebb 50%-ban erdei fafajokkal fedett, a külön jogszabályban meghatározott fás legelőt,
+ca) olyan fával borított területet, amelynek területnagysága egy hektárnál kisebb vagy
 
-b) külön jogszabály szerinti fasor területét,
+cb) olyan egy hektár vagy annál nagyobb fával borított sáv területét, amelynek kiterjedése – a szélső fák egymástól mért tőtávolsága szerint – átlagosan húsz méternél keskenyebb,
 
-c) nem erdei fafajokkal borított területet,
+d) az Evt.-ben meghatározott
 
-d) külön jogszabályban meghatározott faültetvényt,
+da) szabad rendelkezésű erdő területét,
 
-e) a 47. § (2) bekezdés a)–b) pontok hatálya alá nem tartozó üzem vagy major fásított területét,
+db) facsoport és fasor (fásítások) által elfoglalt területet.
 
-f)[^33] a hengeres típusú fás szárú energetikai ültetvényt.
+(2) Az (1) bekezdésben foglaltakon túlmenően fásított terület művelési ágban kell nyilvántartani még a hengeres típusú fás szárú energetikai ültetvényt.
 
-[^32]: A 48. § a 117/2005. (XII. 19.) FVM rendelet 20. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^33]: A 48. § (2) bekezdésének f) pontja a 45/2007. (VI. 11.) FVM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^85]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
+[^86]: A 48. § a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.

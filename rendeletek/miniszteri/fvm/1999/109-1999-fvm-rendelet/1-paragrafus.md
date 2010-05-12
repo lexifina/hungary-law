@@ -1,5 +1,8 @@
-## Az ingatlan-nyilvántartás tárgya és tartalma
+## I. Fejezet
 
-## Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: tv.) 90. §-ának (1) bekezdésében kapott felhatalmazás alapján – az igazságügy-miniszterrel, a pénzügyminiszterrel, valamint a belügyminiszterrel egyetértésben – a következőket rendelem el:
+## A TULAJDONI LAP[^2]
 
-## A tulajdoni lap részei
+## 1.[^3] A tulajdoni lap részei
+
+[^2]: Az I. fejezet megjelölését és címét a 48/2010. (IV. 27.) FVM rendelet 1. §-a iktatta be.
+[^3]: Az 1. alcím a 48/2010. (IV. 27.) FVM rendelet 2. §-ával megállapított szöveg.

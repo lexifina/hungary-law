@@ -1,111 +1,67 @@
-## TakarNet szolgáltatások igénybevétele iránti kérelem
+## 1. A TakarNet szolgáltatások igénybevétele iránti kérelem természetes személy kérelmező esetén az alábbi adatokat tartalmazza:
 
-## természetes személyek számára
+## 1.1. az igénylő anyja születési családi- és utóneve, igénylő születési neve, születési hely, születési idő;
 
-## Igénylő adatai:
+## 1.2. az igénylő tevékenységének jellege (például: közjegyző, ügyvéd, bírósági végrehajtó stb.);
 
-## Igénylő családi és utóneve/anyja születési neve:
+## 1.3. kamarai tagság kezdete;
 
-## ................................................................................................./
+## 1.4. érvényes kamarai tagság száma;
 
-## Igénylő születési neve:
+## 1.5. igénylő értesítési címe;
 
-## Születési hely:
+## 1.6. a költségviselő neve és címe, amennyiben személye nem egyezik az igénylővel;
 
-## Születési idő:
+## 1.7. a kérelem indoklása;
 
-## Igénylő tevékenységének jellege (például: közjegyző, ügyvéd, bírósági végrehajtó stb.):
+## 1.8. mellékletek megjelölése;
 
-## Kamarai tagság kezdete:
+## 1.9. a kérelem keltének helye és ideje;
 
-## Érvényes kamarai tagság száma:
+## 1.10. az igénylő aláírása, és bélyegzőjének lenyomata.
 
-## Igénylő lakcíme:
+## 2. A TakarNet szolgáltatások igénybevétele iránti kérelem jogi személy vagy jogi személyiség nélküli egyéb szervezet kérelmező esetén az alábbi adatokat tartalmazza:
 
-## Telefon: .......................................... Fax: .......................................... e-mail cím:
+## 2.1. az igénylő tevékenységének jellege (például: bank, önkormányzat, ingatlaniroda stb.);
 
-## Költségviselő neve és címe (ha nem egyezik az igénylővel):
+## 2.2. az igénylő képviseletében eljáró személy beosztása;
 
-## A kérelem indokolása:
+## 2.3. a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet igénylő esetén annak statisztikai számjele;
 
-## A kérelemhez mellékelni kell az illetékes kamara 30 napnál nem régebben kiállított igazolását arról, hogy a kérelmező kamarai tagsága fennáll, és arról, hogy az igénybejelentő közjegyzői szolgálatát/ügyvédi tevékenységét nem szünetelteti, valamint nem áll fegyelmi eljárás hatálya alatt.
+## 2.4. az igénylő értesítési címe;
 
-## Mellékletek: ....................................................................................................
+## 2.5. az igénylő telephelye;
 
-## Kelt: ......................................................
+## 2.6. a kérelem indoklása;
 
-## ........................................................
+## 2.7. mellékletek megjelölése;
 
-## aláírás/bélyegző
+## 2.8. a kérelem keltének helye és ideje;
 
-## TakarNet szolgáltatások igénybevétele iránti kérelem
+## 2.9. az igénylő szabályszerű aláírása.
 
-## jogi személyek és jogi személyiség nélküli egyéb szervezetek számára
+6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^228]
 
-## Igénylő adatai:
+1. A tv. alapján elektronikus úton benyújtható kérelem természetes személy kérelmező esetén az alábbi adatokat tartalmazza:
 
-## Igénylő megnevezése:
+1.1. a kérelemmel érintett ingatlan (ingatlanok) megjelölése: település neve, ingatlan fekvése, ingatlan helyrajzi száma;
 
-## Igénylő tevékenységének jellege (például: bank, önkormányzat, ingatlaniroda stb.):
+1.2. a kérelem tárgyának megjelölése;
 
-## Az igénylő képviseletében eljáró személy neve és beosztása:
+1.3. a kérelemhez kapcsolódó, korábban a földhivatalhoz benyújtott kérelmek, beadványok iktatószámának megjelölése;
 
-## Igénylő statisztikai számjele:
+1.4. a kérelem keltének helye és ideje.
 
-## Igénylő székhelye:
+2. A tv. alapján elektronikus úton benyújtható kérelem jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet kérelmező esetén az alábbi adatokat tartalmazza:
 
-## Igénylő telephelye:
+2.1. a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet kérelmező esetén statisztikai számjel;
 
-## Telefon: .......................................... Fax: .......................................... e-mail cím:
+2.2. a kérelemmel érintett ingatlan (ingatlanok) megjelölése: település neve, ingatlan fekvése, ingatlan helyrajzi száma;
 
-## A kérelem indokolása:
+2.3. a kérelem tárgyának megjelölése;
 
-## A közigazgatási szervek kivételével az igénylőnek a kérelemhez csatolnia kell a keletkezésüket tanúsító, illetőleg konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát, vagy a regisztráló hatóság (cégbíróság, megyei bíróság) által vezetett közhiteles nyilvántartás tartalmáról a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározottak szerint kiállított 30 napnál nem régebbi közjegyzői tanúsítványt. Ha a jogi személy és a jogi személyiséggel nem rendelkező szervezet fennállását közhiteles nyilvántartás tanúsítja, a kérelemhez elegendő csatolni a nyilvántartásról készített 30 napnál nem régebbi hiteles másolatot.
+2.4. a kérelemhez kapcsolódó, korábban a földhivatalhoz benyújtott kérelmek, beadványok iktatószámának megjelölése;
 
-## Mellékletek: ....................................................................................................
+2.5. a kérelem keltének helye és ideje.
 
-## Kelt: ......................................................
-
-## ...........................................................
-
-## szabályszerű aláírás
-
-6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^116]
-
-## Elektronikus úton benyújtható kérelem
-
-## természetes személyek részére, ha a kérelemhez melléklet nem tartozik
-
-I. Kérelmező adatai
-
-| családi név: utónév: lakcím: irányítószám: [ ] [ ] [ ] [ ] / helység: …………………/ utca: …………………./ házszám: személyi azonosító: [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] e-mail cím: |
-
-II. A kérelemmel érintett ingatlan(ok) megjelölése (település neve/az ingatlan fekvése/az ingatlan helyrajzi száma)
-
-III. A kérelem tárgya
-
-## A kérelem tárgyához kapcsolódó, korábban a földhivatalhoz benyújtott kérelmek, beadványok iktatószáma:
-
-## Kelt: ....................................................................
-
-## Elektronikus úton benyújtható kérelem
-
-## jogi személyek/jogi személyiséggel nem rendelkező szervezetek részére, ha a kérelemhez melléklet nem tartozik
-
-I. Kérelmező adatai
-
-| megnevezés: statisztikai azonosító: székhely/telephely: irányítószám: [ ] [ ] [ ] [ ] / helység: ................................ / utca: ............................... / házszám: e-mail cím: |
-
-II. A kérelmező képviseletében eljáró természetes személy/jogi képviselő adatai
-
-| családi név: utónév: lakcím: irányítószám: [ ] [ ] [ ] [ ] / helység: ................................ / utca: ............................... / házszám: e-mail cím: |
-
-III. A kérelemmel érintett ingatlan(ok) megjelölése (település neve/az ingatlan fekvése/az ingatlan helyrajzi száma)
-
-IV. A kérelem tárgya
-
-A kérelem tárgyához kapcsolódó, korábban a földhivatalhoz benyújtott kérelmek, beadványok iktatószáma:
-
-Kelt: ....................................................................
-
-[^116]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését. A 6. számú melléklet e módosító rendelet 51. § (3) bekezdése alapján 2007. január 1. napján lépett hatályba, ezen időponttól az a beadvány, amelyhez melléklet nem tartozik, a 6. számú mellékletben meghatározott nyomtatvány alkalmazásával elektronikus úton is benyújtható.
+[^228]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

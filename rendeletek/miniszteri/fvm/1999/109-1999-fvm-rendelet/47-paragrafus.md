@@ -1,25 +1,20 @@
 ## 46. § Nádas művelési ágban kell nyilvántartani azt a területet, amelyen ipari, építkezési vagy mezőgazdasági felhasználásra alkalmas nád vagy gyékény terem.
 
-## Erdő
+## 44.[^83] Erdő
 
-47. §[^31] (1) Erdő művelési ágban kell nyilvántartani a külön jogszabályban meghatározott erdei fafajokkal fedett 1500 m2-t elérő, vagy azt meghaladó:
+47. §[^84] (1) Erdő művelési ágban kell nyilvántartani – a 48. § (1) bekezdés d) pont da) alpont szerinti szabad rendelkezésű erdő kivételével – azt a területet, amely az Evt. szerint erdőnek minősül.
 
-a) erdő által elfoglalt területet, ideértve a beerdősült és az időlegesen igénybe vett földterületet is, az erdőben található nyiladékokkal és tűzpásztákkal együtt,
+(2) Az (1) bekezdésben foglaltakon túlmenően erdő művelési ágban kell nyilvántartani az Evt.-ben meghatározott erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek közül
 
-b) legalább három sor erdei fával fedett területet (erdősávot),
+a) a tisztást,
 
-c) azt a területet, amelyen az erdő telepítését (magvetést, csemeteültetést, dugványozást) elvégezték,
+b) a kopárt,
 
-d) az a) pont szerinti erdő területét a külön jogszabály szerint fennálló erdőfelújítási kötelezettség alatt fátlan állapotban is,
+c) az erdei farakodó és készletező helyet,
 
-e) területi korlátozás nélkül a külön jogszabály alapján az erdőgazdálkodási tevékenységet közvetlenül szolgáló, nem állandó jellegű erdészeti magánutat.
+d) az erdészeti létesítményhez tartozó területet,
 
-(2) Erdő művelési ágba tartozik az 1 ha-t meghaladó és a fák tőnél mért távolsága szerint 20 méternél szélesebb, erdei fafajokkal 50%-ot meghaladó mértékben fedett terület, ha az
+e) a 6 méternél szélesebb nyiladékot és tűzpásztát.
 
-a) gyárak, üzemek és egyéb ipari létesítmények, valamint a majorok bekerített területén van,
-
-b) út, vasút, valamint egyéb műszaki létesítménnyel azonos földrészleten van és a létesítmény rendeltetésszerű használatához szükséges,
-
-c) folyót, önálló földrészletnek minősülő patakot, csatornát szegélyez, illetve a mederben keletkezett zátonyon van.
-
-[^31]: A 47. § a 117/2005. (XII. 19.) FVM rendelet 19. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^83]: A 44. alcím a 48/2010. (IV. 27.) FVM rendelet 51. §-ával megállapított szöveg.
+[^84]: A 47. § a 48/2010. (IV. 27.) FVM rendelet 51. §-ával megállapított szöveg.

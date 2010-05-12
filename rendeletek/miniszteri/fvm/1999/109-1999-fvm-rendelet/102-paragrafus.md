@@ -1,3 +1,3 @@
-## 101. §[^88]
+## 101. §[^177]
 
-[^88]: A 101. §-t a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.
+[^177]: A 101. §-t a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.

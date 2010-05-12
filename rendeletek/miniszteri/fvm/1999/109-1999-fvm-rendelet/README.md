@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | --- | --- | --- |
 | 2009-05-08 | 1999-109-20-82.8 | 109/1999. (XII. 29.) FVM rendelet |
 | 2010-05-06 | 1999-109-20-82.9 | 58/2009. (IV. 30.) FVM rendelet |
+| 2010-05-12 | 1999-109-20-82.10 | 48/2010. (IV. 27.) FVM rendelet |

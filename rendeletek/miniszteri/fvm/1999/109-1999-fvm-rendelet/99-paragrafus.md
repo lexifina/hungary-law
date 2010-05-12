@@ -1,1 +1,3 @@
-## 98. § A külföldre irányuló megkeresést, továbbá a külföldi szerv vagy személy megkeresésére, illetőleg kérelmére adott választ – ha nemzetközi szerződés vagy jogszabály másként nem rendelkezik – a hatáskörrel rendelkező miniszter útján a külügyminiszterhez kell felterjeszteni.
+## 98. §[^173]
+
+[^173]: A 98. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

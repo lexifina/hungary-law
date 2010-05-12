@@ -1,125 +1,23 @@
-## Tulajdoni lap
+3. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^225]
 
-| (Földhivatal neve) |  |  |  | (Lapszám) |
+A tulajdonilap-másolat szolgáltatása iránti kérelem az alábbi adatokat tartalmazza:
 
-| (Földhivatal címe) |  |  |  |  |
+1. tulajdoni lap másolatot igénylő természetes személy anyja születési családi és utónevét, születési helyét, születési idejét;
 
-| Tulajdoni lap (kiadás dátuma) |
+2. amennyiben a tulajdoni lap másolatot igénylő jogi személy, vagy jogi személyisséggel nem rendelkező egyéb szervezet nevében jár el, akkor a fenti adatokon túl fel kell tüntetni a jogi személy, vagy jogi személyisséggel nem rendelkező a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet statisztikai számjelét, bélyegzőjének lenyomatát;
 
-| (helységnév) |  |  |  |  |
+3. a költségviselő adatainak megjelölése: költségviselő neve, vagy megnevezése, költségviselő címe, vagy székhelye;
 
-| (fekvés) | HRSZ: | Cím (utca, házszám): | Szektor: ..................... | Térképszelvény: ........ |
+4. a kérelemmel érintett ingatlan (ingatlanok) megjelölése: település neve, ingatlan fekvése, ingatlan helyrajzi száma, másolat típusa (hiteles, teljes, szemle), igényelt másolatok száma;
 
-| széljegy: |  |  |  |  |
+5. a kérelem keltének helye és ideje;
 
-| I. Rész |
+6. a kérelmező aláírása;
 
-| 1. Az ingatlan adatai: |  |  |  |  |  |  |  |  |
+7. személyazonosításra szolgáló okmány megnevezése és száma;
 
-| Alrészlet adatok |  |  |  |  |  | Alosztály adatok |
+8. a kérelemben megjelölt – a személyazonosságot, illetve a képviseleti jogosultságot igazoló – adatok ellenőrzésére vonatkozó ügyintézői záradék;
 
-| művelési ág | (kivett megnevezés) | min. o. | terület |  | kat. t. jöv. | terület | kat. t. jöv. |
+9. a kérelmező tulajdonilap-másolat átvételét igazoló aláírása.
 
-|  |  |  | ha | m2 | k. | fill. | ha | m2 | k. | fill. |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| (sorszám) | (jogi jelleg) | (bejegyző határozat) | [(törlő határozat) TÖRÖLT] |
-
-|  | (kiegészítő szöveges megjegyzés) |  |  |  |  |  |  |  |
-
-| (sorszám) | (telki szolgalmi jog) | (bejegyző határozat) | [(törlő határozat) TÖRÖLT] |
-
-|  | (kiegészítő szöveges megjegyzés) |  |  |  |  |  |  |  |
-
-| (sorszám) | (szöveges bejegyzés) | (bejegyző határozat) | [(törlő határozat) TÖRÖLT] |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| II. Rész |
-
-| (sorszám) | hányad: |  |  |
-
-|  | jogcím: | (bejegyző határozat) | [(törlő határozat) TÖRÖLT] |
-
-|  | jogállás: |  |  |  |  |  |  |  |  |  |
-
-|  | név: |  |  |  |  |  |  |  |  |  |
-
-|  | [szül. név:] |  |  |  |  |  |  |  |  |  |
-
-|  | [szül. év:] |  |  |  |  |  |  |  |  |  |
-
-|  | [a. szül. név:] |  |  |  |  |  |  |  |  |  |
-
-|  | cím: |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| III. Rész |
-
-| (sorszám) | (jog, tény megnevezés) |  |  |
-
-|  | [(lejárati dátum)] |  |  |  |  |  |
-
-|  | (kiegészítő szöveges megjegyzés) | (bejegyző határozat) | [(törlő határozat) TÖRÖLT] |
-
-|  | jogosult |  |  |  |  |  |  |  |  |  |
-
-|  | név: |  |  |  |  |  |  |  |  |  |
-
-|  | [szül. név:] |  |  |  |  |  |  |  |  |  |
-
-|  | [szül. év:] |  |  |  |  |  |  |  |  |  |
-
-|  | [a. szül. név:] |  |  |  |  |  |  |  |  |  |
-
-|  | cím: |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-| . |  |  |  |  |  |  |  |  |  |  |
-
-3. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^113]
-
-## Kérelem tulajdoni lap másolat szolgáltatása iránt
-
-## (megrendelő)
-
-## Iktató bélyegző helye
-
-## Kérelem
-
-## tulajdoni lap másolat szolgáltatása iránt
-
-## (megrendelő)
-
-I.  A tulajdoni lap másolatot igénylő adatai
-
-| családi név: utónév: anyja születési neve: születési hely: születési idő: [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-
-II.  Jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megnevezése
-
-| Amennyiben a tulajdoni lap másolatot igénylő jogi személy, illetve jogi személyiséggel nem rendelkező egyéb szervezet nevében jár el, az I. pontban foglalt adatokon túlmenően az alábbiakban fel kell tüntetni a szervezet megnevezését is. Jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megnevezése: |
-
-III. Költségviselő adatai
-
-| Költségviselő neve (megnevezése): Költségviselő címe (székhelye): |
-
-IV.  A kérelemmel érintett ingatlan(ok) megjelölése
-
-[^113]: A 3. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 3. számú melléklete iktatta be, szövege a 44/2006. (VI. 13.) FVM rendelet 25. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2006. június 21. napját követően indult földmérési munkáknál kell alkalmazni.
+[^225]: A 3. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 3. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

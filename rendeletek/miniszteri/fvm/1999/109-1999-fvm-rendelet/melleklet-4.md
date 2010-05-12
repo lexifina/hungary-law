@@ -1,23 +1,19 @@
-| Település neve | Az ingatlan fekvése | Az ingatlan helyrajzi száma | A másolat típusa (hiteles/nem hiteles) | A másolat típusa (teljes/szemle/ részleges) | Az igényelt másolatok száma |
+4. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^226]
 
-## Kelt: .......................................................
+A tulajdoni lapba történő betekintés iránti kérelem az alábbi adatokat tartalmazza:
 
-## .........................................................................
+1. a betekintő természetes személy anyja születési családi- és utónevét, születési helyét, születési idejét;
 
-## kérelmező aláírása
+2. amennyiben a betekintő jogi személy, vagy jogi személyisséggel nem rendelkező egyéb szervezet nevében jár el, akkor a fenti adatokon túl fel kell tüntetni a jogi személy, vagy jogi személyisséggel nem rendelkező a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet statisztikai számjelét, bélyegzőjének lenyomatát;
 
-## A Földhivatal tölti ki!
+3. a betekintéssel érintett ingatlan (ingatlanok) megjelölése: település neve, ingatlan fekvése, ingatlan helyrajzi száma;
 
-| V. Személyazonosságot igazoló okmány megnevezése: száma: A kérelemben szereplő adatokat a személyazonosság igazolására szolgáló okmányból ellenőriztem. ..................................................... ügyintéző aláírása |
+4. a kérelem keltének helye és ideje;
 
-4. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^114]
+5. a kérelmező aláírása;
 
-## Kérelem a tulajdoni lapba történő betekintés iránt
+6. személyazonosításra szolgáló okmány megnevezése és száma;
 
-I.   A betekintő adatai
+7. a betekintő betekintés megtörténtét igazoló aláírása.
 
-| családi név: utónév: anyja születési neve: születési hely: születési idő: [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-
-II.   A betekintéssel érintett ingatlan(ok) megjelölése
-
-[^114]: A 4. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 4. számú melléklete iktatta be, szövege a 44/2006. (VI. 13.) FVM rendelet 25. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2006. június 21. napját követően indult földmérési munkáknál kell alkalmazni.
+[^226]: A 4. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 4. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

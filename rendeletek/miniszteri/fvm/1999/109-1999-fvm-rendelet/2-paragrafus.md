@@ -1,27 +1,37 @@
-## 1. §[^1] A tulajdoni lap három részből áll.[^2]
+## 1. §[^4] A tulajdoni lap három részből áll.[^5]
 
-## 2. § A tulajdoni lap I. része az ingatlan következő adatait tartalmazza:
+## 2. §[^6] A tulajdoni lap I. része az alábbi adatokat tartalmazza:
 
-a) a település nevét, ahol az ingatlan fekszik,
+a) a művelési ág és a művelés alól kivett terület elnevezése, alrészlet jele,
 
-b) az ingatlan helyrajzi számát, fekvésének (belterület, külterület) megjelölését és területnagyságát,
+b) a minőségi osztály, kataszteri tisztajövedelem,
 
-c) belterületen – és amennyiben rendelkezésre áll – külterületen lévő ingatlannál az utca (tér, körút stb.) nevét és a házszámot,
+c) az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.),
 
-d)[^3] a művelési ágat és a művelés alól kivett terület elnevezését, alrészlet jelét,
+d) utalás az ingatlan mindenkori tulajdonosát megillető telki szolgalmi, illetve földhasználati jogra,
 
-e) a minőségi osztályt, kataszteri tisztajövedelmet,
+e) az ingatlan jogi jellege,
 
-f) az épület fő rendeltetés szerinti jellegét (lakóház, üdülő, gazdasági épület stb.),
+f) a település neve, ahol az ingatlan fekszik,
 
-g) utalást az ingatlan mindenkori tulajdonosát megillető telki szolgalmi, illetőleg földhasználati jogra,
+g) az ingatlan helyrajzi száma, fekvésének (belterület, külterület) megjelölése és területnagysága,
 
-h) az ingatlan jogi jellegét (társasház, szövetkezeti ház, műemlék, bányatelek, helyi vagy országos jelentőségű védett terület, régészeti vagy történeti jelentőségű védett terület, tanya stb.),
+h) a zártkert megjelölés a termőföldről szóló törvény hatálybalépése előtt zártkertinek minősülő ingatlanok esetében
 
-i) földminősítési mintatér megjelölését,
+i) belterületen – és amennyiben rendelkezésre áll – külterületen lévő ingatlannál az utca (tér, körút stb.) neve és a házszám (helyrajzi szám),
 
-j) ingatlan-nyilvántartási szempontból szükséges egyéb adatot.
+j) ingatlan-nyilvántartási szempontból szükséges egyéb adat,
 
-[^1]: Az 1. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^2]: A Magyar Közlöny 2000. évi 10. számában közzétett helyesbítésnek megfelelő szöveg.
-[^3]: A 2. § d) pontja a 117/2005. (XII. 19.) FVM rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+k) bejegyzés sorszáma,
+
+l) bejegyző határozat száma, és a bejegyzés alapjául szolgáló beadvány érkezésének időpontja,
+
+m) törlő határozat száma, és a törlés alapjául szolgáló beadvány érkezésének időpontja,
+
+n) törölt bejegyzésre való utalás,
+
+o) kiegészítő szöveges bejegyzés.
+
+[^4]: Az 1. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^5]: A Magyar Közlöny 2000. évi 10. számában közzétett helyesbítésnek megfelelő szöveg.
+[^6]: A 2. § a 48/2010. (IV. 27.) FVM rendelet 3. §-ával megállapított szöveg.

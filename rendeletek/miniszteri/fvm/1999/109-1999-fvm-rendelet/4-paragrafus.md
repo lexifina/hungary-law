@@ -1,63 +1,85 @@
-4. § (1) A tulajdoni lap III. része az ingatlanhoz kapcsolódó következő jogokat, illetve azok jogosultját tartalmazza:
+4. §[^8] (1) A tulajdoni lap III. része az ingatlanhoz kapcsolódó következő jogokat, illetve azok jogosultját tartalmazza:
 
-a) megállapodáson és bírósági határozaton alapuló földhasználati jogot, haszonélvezeti jogot és használat jogát,
+a) földhasználati jog, haszonélvezeti jog és használat joga,
 
-b) lakásszövetkezeti tagot megillető állandó használati jogot,
+b) lakásszövetkezeti tagot megillető állandó használati jog,
 
-c) telki szolgalmi jogot,
+c) az ingatlant terhelő telki szolgalmi jog,
 
-d) állandó jellegű földmérési jelek, valamint villamosberendezések elhelyezését biztosító használati jogot, továbbá vezetékjogot, vízvezetési és bányaszolgalmi jogot, valamint törvény rendelkezésén alapuló közérdekű szolgalmi és használati jogot,
+d) állandó jellegű földmérési jelek, valamint villamosberendezések elhelyezését biztosító használati jog, továbbá vezetékjog, vízvezetési és bányaszolgalmi jog, valamint törvény rendelkezésén alapuló közérdekű szolgalmi és használati jog,
 
-e) elő- és visszavásárlási, valamint vételi jogot,
+e) elő- és visszavásárlási, valamint vételi jog,
 
-f) tartási és életjáradéki jogot,
+f) tartási és életjáradéki jog,
 
-g) jelzálogjogot (önálló zálogjogot) és végrehajtási jogot.
+g) jelzálogjog (önálló zálogjog) és végrehajtási jog.
 
 (2) A tulajdoni lap III. része tartalmazza továbbá az ingatlanhoz vagy a bejegyzett jogokhoz, illetve annak jogosultjaihoz kapcsolódó következő tényeket:
 
-a) a III. részben bejegyzett jogosult kiskorúságát vagy gondnokság alá helyezésének tényét,
+1. a III. részen bejegyzett jogosult kiskorúsága vagy gondnokság alá helyezésének ténye,
 
-b) a jogosulttal szemben megindított felszámolási eljárást, végelszámolást,
+2. a jogosulttal szemben megindított felszámolási eljárás, végelszámolás ténye az ügyszám megjelölésével,
 
-c) a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégjegyzékéről történő törlésének tényét,
+3. a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégnyilvántartásból történő törlésének ténye,
 
-d) bírósági ítéleten alapuló tulajdoni korlátozást,
+4. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-e) bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének tényét, valamint egyéb építésügyi korlátozást,
+5. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás,
 
-f) kisajátítási és telekalakítási eljárás megindításának tényét,
+6. kisajátítási és telekalakítási eljárás megindításának ténye,
 
-g)[^4] a körzeti földhivatali határozat elleni fellebbezés és a megyei földhivatali határozat elleni bírósági jogorvoslati kérelem benyújtásának tényét,
+7. ingatlanügyi hatósági döntéssel szembeni fellebbezés, illetve bírósági jogorvoslati kérelem benyújtásának ténye,
 
-h)[^5] a bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló, vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati kérelem benyújtásának tényét,
+8. a bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló, vagy azzal kapcsolatos bírósági döntés elleni felülvizsgálati kérelem benyújtásának ténye,
 
-i) a szerződésen vagy végintézkedésen alapuló elidegenítési és terhelési tilalmat,
+9. elidegenítési és terhelési tilalom,
 
-j) a tv. 64. §-ában meghatározott perek és büntetőeljárás megindítását,
+10. a tv. 64. §-ában meghatározott perek és büntetőeljárás megindítása,
 
-k)[^6] az árverés, a nyilvános pályázat kitűzésének tényét,
+11. az árverés, a nyilvános pályázat kitűzésének ténye,
 
-l)[^7] a zárlatot, zár alá vételt, zár alá vételt megelőző biztosítási intézkedést,
+12. a zárlat, zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, valamint az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására irányuló zárlat ténye,
 
-m) tulajdonjog fenntartással történt eladást,
+13. tulajdonjog fenntartással történt eladás ténye,
 
-n)[^8] a bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítását,
+14. a bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
 
-o) a törölt zálogjog ranghelyének fenntartását, a ranghellyel való rendelkezés jogáról való lemondást, valamint jelzálogjog ranghelyének előzetes biztosítását,
+15. a törölt zálogjog ranghelyének fenntartása, a ranghellyel való rendelkezés jogáról való lemondás, valamint jelzálogjog ranghelyének előzetes biztosítása,
 
-p) ranghely megváltoztatását,
+16. ranghely megváltoztatása,
 
-q) az ingatlan-nyilvántartási eljárás felfüggesztésének tényét,
+17. az ingatlan-nyilvántartási eljárás felfüggesztésének ténye,
 
-r) jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét,
+18. jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
 
-s) az épület létesítésének vagy lebontásának a tényét,
+19. az épület létesítésének vagy lebontásának ténye,
 
-t) olyan egyéb jogot vagy tényt, amelynek bejegyzését törvény elrendeli.
+20. a társasházakról szóló 2003. évi CXXXIII. törvény 10. § (2) bekezdés szerinti, a közös tulajdon átruházására az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársakat feljogosító alapító okirat elfogadása, módosítása, a módosítás időpontja, vagy a társasházakról szóló 2003. évi CXXXIII. törvény 10. § (3) bekezdés szerinti, az összes tulajdoni hányad legalább négyötödét képviselő tulajdonostársaknak a közös tulajdon átruházásáról szóló közgyűlési határozata szerinti alapító okirat módosítása, a módosítás időpontja,
 
-[^4]: A 4. § (2) bekezdésének g) pontja a 117/2005. (XII. 19.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^5]: A 4. § (2) bekezdésének h) pontja a 117/2005. (XII. 19.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^6]: A 4. § (2) bekezdésének k) pontja a 117/2005. (XII. 19.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^7]: A 4. § (2) bekezdésének l) pontja a 117/2005. (XII. 19.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^8]: A 4. § (2) bekezdésének n) pontja a 117/2005. (XII. 19.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+21. földminősítési mintatér megjelölése,
+
+22. olyan egyéb jog vagy tény, amelynek bejegyzését vagy feljegyzését törvény elrendeli.
+
+(3) A tulajdoni lap III. része tartalmazza továbbá az ingatlan III. részen szereplő adataihoz, vagy a III. részen bejegyzett jogokhoz, feljegyzett tényekhez, illetve azok jogosultjaihoz kapcsolódó következő adatokat.
+
+a) a bejegyzés, feljegyzés sorszáma;
+
+b) a jog, tény megnevezése;
+
+c) a bejegyzett joghoz, feljegyzett tényhez kapcsolódó lejárati dátum;
+
+d) a jogosult természetes személy természetes személyazonosító adatai, lakcíme; jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén annak megnevezése, székhelye (telephelye),
+
+e) bejegyző határozat száma, és a bejegyzés alapjául szolgáló beadvány érkezésének időpontja,
+
+f) törlő határozat száma, és a törlés alapjául szolgáló beadvány érkezésének időpontja,
+
+g) törölt bejegyzésre való utalás,
+
+h) kiegészítő szöveges bejegyzés.
+
+(4) A tulajdoni lap természetes személy jogosult esetén tartalmazza a személyi azonosítót, a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet esetén annak statisztikai számjelét.
+
+(5) A tulajdoni lap tartalmazza továbbá a széljegyet.
+
+[^8]: A 4. § a 48/2010. (IV. 27.) FVM rendelet 5. §-ával megállapított szöveg.

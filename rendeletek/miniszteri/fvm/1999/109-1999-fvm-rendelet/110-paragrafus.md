@@ -1,1 +1,3 @@
-## Perfeljegyzés
+## 63.[^186] Perfeljegyzés
+
+[^186]: A 63. alcím a 48/2010. (IV. 27.) FVM rendelet 81. §-ával megállapított szöveg.

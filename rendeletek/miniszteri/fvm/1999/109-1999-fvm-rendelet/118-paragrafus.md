@@ -1,7 +1,12 @@
-## 117. §[^101] A mezőgazdasági termelést folytatók tulajdonában (vagyonkezelésében) lévő területekről törzsszám szerint – a földművelésügyi és vidékfejlesztési miniszter által meghatározott – összesített kimutatást kell készíteni. Ebben településenként fel kell tüntetni a gazdálkodók tulajdonában (vagyonkezelésében) lévő, az ország bármely területén fekvő földek művelési ágak szerint részletezett területi és kataszteri tiszta jövedelmi adatait.
+## 117. §[^197] A mezőgazdasági termelést folytatók tulajdonában (vagyonkezelésében) lévő területekről törzsszám szerint – az ingatlan-nyilvántartásért felelős miniszter által meghatározott – összesített kimutatást kell készíteni. Ebben településenként fel kell tüntetni a gazdálkodók tulajdonában (vagyonkezelésében) lévő, az ország bármely területén fekvő földek művelési ágak szerint részletezett területi és kataszteri tiszta jövedelmi adatait.
 
-118. § (1) Kérelemre – külön jogszabályban meghatározott díjért – az ingatlanok adatait tartalmazó földkönyv készíthető a település egész területére, annak egy részére, illetőleg egyes ingatlanokra vonatkozóan.
+118. §[^198] (1) Kérelemre a település egész területére vagy annak egy részére (fekvés) vonatkozó, az ingatlanok (3) bekezdésben meghatározott adatait tartalmazó földkönyv, illetve legalább tíz ingatlanra vonatkozó földkönyvi kivonat készíthető.
 
-(2) A földkönyv az adatbázisból bárki számára lekérdezhető. Szolgáltatása számítástechnikai adathordozón vagy kinyomtatott formában történhet.
+(2) A földkönyv vagy földkönyvi kivonat szolgáltatása számítástechnikai adathordozón vagy kinyomtatott formában történhet.
 
-[^101]: A 117. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+(3) A földkönyv vagy földkönyvi kivonat tartalmazza az ingatlanok címét, helyrajzi számát, és alrészletenkénti bontásban azok területnagyságát, művelési ágát, minőségi osztályát, valamint aranykorona értékét.
+
+(4) A tulajdonosi adatokkal kiegészített földkönyv – a (3) bekezdésben foglaltakon túl – tartalmazza a tulajdonos nevét és az ingatlan-nyilvántartásban feltüntetett lakcímét.
+
+[^197]: A 117. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése, a 48/2010. (IV. 27.) FVM rendelet 95. §-a szerint módosított szöveg.
+[^198]: A 118. § a 48/2010. (IV. 27.) FVM rendelet 85. §-ával megállapított szöveg.
