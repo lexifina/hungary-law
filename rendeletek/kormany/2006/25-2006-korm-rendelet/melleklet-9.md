@@ -90,7 +90,7 @@
 
 ## Amennyiben egy alkategóriába a cég által gyártott vagy forgalmazott, illetve gyártott és forgalmazott márkatermékek közül több is tartozik, az adott alkategóriánál az oda sorolt különböző márkatermékek – előbbiek szerint számított – összesített VOC tartalmának összegzését kell feltüntetni, ugyancsak kg-ban kifejezve.
 
-9. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^32]
+9. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^35]
 
 Adatlap a rendelet hatálya alá tartozó termékekre vonatkozó éves adatszolgáltatási kötelezettség teljesítéséhez
 
@@ -102,4 +102,4 @@ A 2004/42/EK irányelv által említett termékek … évben forgalomba hozott t
 
 | B. Járművek javító fényezésére szolgáló termékek összesen |  |  |  |
 
-[^32]: A 9. számú mellékletet a 280/2008. (XI. 28.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^35]: A 9. számú mellékletet a 280/2008. (XI. 28.) Korm. rendelet 6. § (5) bekezdése iktatta be.

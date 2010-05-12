@@ -32,7 +32,7 @@
 
 ## B. Járművek
 
-## javító fényezésére szolgáló termékek VOC-tartalmának felső határértékei[^25]
+## javító fényezésére szolgáló termékek VOC-tartalmának felső határértékei[^28]
 
 |  | Termék alkategória | Bevonóanyagok | VOC g/l* (2007. I. 1.) |
 
@@ -48,7 +48,7 @@
 
 ## * g/l a termék használatra kész állapotában. Az a) alkategória kivételével a használatra kész termék összes víztartalma kivonandó.
 
-3. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^26]
+3. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^29]
 
-[^25]: A 2. számú melléklet B. pontja a 280/2008. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^26]: A 3. számú melléklet a 280/2008. (XI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^28]: A 2. számú melléklet B. pontja a 280/2008. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^29]: A 3. számú melléklet a 280/2008. (XI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

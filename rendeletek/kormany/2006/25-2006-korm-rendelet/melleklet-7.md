@@ -26,6 +26,6 @@
 
 ## b) a szakképesítést igazoló bizonyítvány vagy annak közjegyző által hitelesített másolata.
 
-7. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^30]
+7. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^33]
 
-[^30]: A 7. számú mellékletet a 280/2008. (XI. 28.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^33]: A 7. számú mellékletet a 280/2008. (XI. 28.) Korm. rendelet 6. § (5) bekezdése iktatta be.

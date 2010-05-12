@@ -1,6 +1,6 @@
-## Illékony szerves oldószer tartalmú termékek forgalmazása[^2]
+## Illékony szerves oldószer tartalmú termékek forgalmazása[^4]
 
-3. §[^3] (1) A kötelezett az 1. számú mellékletben meghatározott kategóriákba tartozó terméket akkor forgalmazhat, ha rendelkezik a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) engedélyével.
+3. §[^5] (1) A kötelezett az 1. számú mellékletben meghatározott kategóriákba tartozó terméket akkor forgalmazhat, ha rendelkezik a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) engedélyével.
 
 (2) Az (1) bekezdés szerinti engedéllyel rendelkezőkről a Hivatal nyilvántartást vezet a következő tartalommal: a kötelezett megnevezése, székhelyének és telephelyének elérhetősége (postai cím, telefon, fax, elektronikus levelezési cím), nyilvántartási száma. A nyilvántartást a Hivatal a honlapján bárki számára ingyenesen és korlátozás nélkül elérhető módon folyamatosan közzéteszi.
 
@@ -26,5 +26,5 @@ b) az e rendelet alapján ellenőrzésre jogosult hatóságok megállapítása s
 
 (8) Az a kötelezett, amelynek az engedélyét a Hivatal a (6) bekezdés b) pontja alapján visszavonta, az engedély visszavonásának napjától számított egy éven belül nem kaphat engedélyt.
 
-[^2]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
