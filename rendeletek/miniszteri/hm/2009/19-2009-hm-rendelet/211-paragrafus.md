@@ -2,7 +2,7 @@
 
 a) önkormányzati tulajdonú lakásban bérlőként (bérlőtársként), a bérlő házastársaként, továbbá az 5. § (1) bekezdés c) pontja szerinti feltételeknek megfelelő élettársaként lakik, és
 
-b) a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 69. § (1) bekezdésben meghatározott lakbér mértékét.
+b)[^17] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
 
 (2) A lakbértámogatásra való jogosultság szempontjából szolgálati érdekű áthelyezésnek minősül:
 
@@ -45,3 +45,5 @@ nem haladhatja meg.
 (6) A lakbértámogatás iránti kérelmet a lakásbérleti szerződés csatolásával az illetékes helyi lakásgazdálkodási szervhez lehet benyújtani. A helyi lakásgazdálkodási szerv a kérelmet érdemben megvizsgálja, és az (1) bekezdésben megállapított feltételek fennállása esetén a (4)–(5) bekezdés szerint megállapított lakbértámogatás összegének közlésével megküldi a folyósító szervnek.
 
 (7) A lakbértámogatásra való jogosultság a kérelem benyújtásának időpontját megelőző hatállyal nem állapítható meg, illetőleg nem igazolható. A lakbértámogatás folyósítása számla leadása ellenében történik.
+
+[^17]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.

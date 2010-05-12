@@ -64,7 +64,7 @@ c) magánbefektető: az olyan természetes vagy jogi személy, továbbá jogi sz
 
 a) HM központi közgazdasági és pénzügyi feladatokat ellátó szerve a HM Közgazdasági és Pénzügyi Ügynökség,
 
-b) HM központi lakásgazdálkodási szerv a HM Védelemgazdasági Főosztály,
+b)[^1] HM központi lakásgazdálkodási szerv a HM Védelmi Tervezési és Vagyongazdálkodási Főosztály, Központi Lakásgazdálkodás-felügyeleti és Építéshatósági Osztály,
 
 c) területi lakásgazdálkodási szerv a HM Infrastrukturális Ügynökség,
 
@@ -97,3 +97,5 @@ b) más helyőrségben lévő katonai szervezet állományába nevezték ki, hel
 a) beosztásának (11) bekezdés a) pontja szerinti megszűnését követően rendelkezési állományba helyezték, majd a rendelkezési állományból a (11) bekezdés b) pontja szerint nevezték ki, helyezték át, vezényelték, vagy
 
 b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új katonai képesség létrehozásával összefüggésben nevezték ki, helyezték át a korábbi beosztásáétól eltérő településen lévő katonai szervezet állományába.
+
+[^1]: A 3. § (9) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 1. pontja szerint módosított szöveg.

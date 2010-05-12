@@ -1,6 +1,6 @@
 68. § (1) Ha a lakásbérlet megszűnését követően a 34. § (1) bekezdés szerinti bérbeadás nem lehetséges, a lakás volt bérlője a (2)–(4) bekezdésben foglalt esetek kivételével e rendeletben meghatározott megfelelő elhelyezésre tarthat igényt.
 
-(2) Nem tarthat igényt megfelelő elhelyezésre az, akinek a lakásbérlete a Lakástörvény 24. §-a (1) bekezdés a)–d) pontjában, valamint a 30. §-ban foglalt felmondással szűnt meg.
+(2)[^10] Nem tarthat igényt megfelelő elhelyezésre az, akinek a lakásbérlete a Lakástörvény 24. §-a (1) bekezdés a)–d) pontjában, valamint 28. §-ában foglalt felmondással szűnt meg.
 
 (3) Nem tarthat igényt megfelelő elhelyezésre az a volt bérlő, akinek a HM szolgálati lakásra 1994. január 1-je előtt határozatlan időtartamra, továbbá a HM rendelkezésű lakásra a 30. § (1) bekezdés, továbbá a 31. § (1) bekezdés szerinti feltétel bekövetkezéséig szólóan kötött bérleti szerződése azért szűnt meg, mert
 
@@ -33,3 +33,5 @@ a) szerződésben kikötött határozott idő elteltével,
 b) 9. § (1) bekezdésben foglalt kizáró ok alóli felmentés alapján kapott lakás tekintetében, a 30. § (1) bekezdés, továbbá a 31. § (1) bekezdés szerint kikötött feltétel bekövetkezésével,
 
 c) 30. § (1) bekezdéstől, továbbá a 31. § (1) bekezdéstől eltérően kikötött feltétel bekövetkezésével
+
+[^10]: A 68. § (2) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 10. pontja szerint módosított szöveg.

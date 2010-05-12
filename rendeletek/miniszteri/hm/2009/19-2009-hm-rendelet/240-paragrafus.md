@@ -1,4 +1,4 @@
-## 239. § A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokkal összefüggő feladatok ellátását – beleértve a HM Központi Lakásbizottság személyi összetételét és titkárának feladatait – HM utasítás állapítja meg.[^2]
+## 239. § A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokkal összefüggő feladatok ellátását – beleértve a HM Központi Lakásbizottság személyi összetételét és titkárának feladatait – HM utasítás állapítja meg.[^19]
 
 ## XX. Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) A rendelet 199. §-a 2011. január 1-jén lép hatályba.
 
-[^2]: Lásd a 26/2010. (II. 26.) HM utasítást.
+[^19]: Lásd a 26/2010. (II. 26.) HM utasítást.

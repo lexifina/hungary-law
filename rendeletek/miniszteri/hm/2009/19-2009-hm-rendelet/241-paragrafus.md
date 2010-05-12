@@ -16,11 +16,11 @@
 
 (9) Az állami tulajdonú HM vagyonkezelői jogú lakásra a rendelet hatálybalépését megelőzően létrejött adásvételi szerződés vonatkozásában továbbra is a szerződés megkötésekor hatályos rendelkezéseket kell alkalmazni.
 
-(10) A 139. §-t és a 206. § (2) bekezdését a hatálybalépést követően benyújtott terhelési és átjegyzési kérelem elbírálása során kell alkalmazni.
+(10)[^20] A 159. §-t és a 206. § (2) bekezdését a hatálybalépést követően benyújtott terhelési és átjegyzési kérelem elbírálása során kell alkalmazni.
 
 (11) A 179. § (3) bekezdés b) pontját, a 180. § b) és c) pontját, valamint a 181. §-t a 2009. december 31-ét követően benyújtott vissza nem térítendő juttatás iránti kérelmek vonatkozásában kell alkalmazni. A 2010. január 1-jét megelőzően benyújtott, de még nem teljesített kérelmeket a benyújtáskor hatályos rendelkezések alapján kell elbírálni.
 
-(12) A 187. § (1) bekezdés b)–d) és f) pontját, a 189. § b) és c) pontját, a 192. § (2) bekezdését, valamint a 195. § c) és f)–g) pontját a 2009. december 31-ét követően benyújtott munkáltatói kölcsön iránti kérelmek vonatkozásában kell alkalmazni. A 2010. január 1-jét megelőzően benyújtott, de még nem teljesített kérelmeket a benyújtáskor hatályos rendelkezések alapján kell elbírálni.
+(12)[^21] A 187. § (1) bekezdés b)–c) és e)–f) pontját, a 189. § b) és c) pontját, a 192. § (2) bekezdését, valamint a 195. § c) és f)–g) pontját a 2009. december 31-ét követően benyújtott munkáltatói kölcsön iránti kérelmek vonatkozásában kell alkalmazni. A 2010. január 1-jét megelőzően benyújtott, de még nem teljesített kérelmeket a benyújtáskor hatályos rendelkezések alapján kell elbírálni.
 
 (13) A rendelet hatálybalépését megelőzően benyújtott és a teljesítés várható időpontja vonatkozásában már visszaigazolt munkáltatói kölcsön és vissza nem térítendő juttatás iránti kérelmek besorolására, teljesítésére, továbbá a rendelkezésre álló pénzügyi fedezet meghatározott részének célfeladatra történő átcsoportosítása esetén a 199. § hatálybalépéséig a Honvédelmi Minisztérium rendelkezése alatt lévő lakások és helyiségek bérletéről, elidegenítéséről, valamint a lakhatás támogatásáról szóló 6/1994. (IV. 30.) HM rendelet 166. §-át kell alkalmazni. A 199. § szerinti besorolást az e rendelet hatálybalépését megelőzően benyújtott, és a teljesítés várható időpontja vonatkozásában még vissza nem igazolt kérelmekre is kiterjedően kell elvégezni. A be-, illetőleg átsorolásról a kérelmezőket az ok megjelölésével kell tájékoztatni.
 
@@ -33,3 +33,6 @@
 (17) Az illetékes helyi lakásgazdálkodási szerv a hatálybalépéstől számított három hónapon belül az állományilletékes parancsnok bevonásával köteles megvizsgálni, hogy a 217. § (1) bekezdés g) pontjában foglalt megszüntető ok az albérletidíj-hozzájárulásban részesülő személy vonatkozásában fennáll-e. Amennyiben a megszüntető ok fennáll, a helyi lakásgazdálkodási szerv az albérletidíj-hozzájárulásban részesülő személyt 30 napos határidővel írásban hívja fel igazolási kötelezettségének teljesítésére. A határidő eredménytelen elteltét követően az albérletidíj-hozzájárulás folyósításának megszüntetésére haladéktalanul intézkedni kell.
 
 (18) A 218. § (3) bekezdését a rendelet hatálybalépését követően nyújtott vissza nem térítendő juttatás és munkáltatói kölcsön esetében kell alkalmazni.
+
+[^20]: A 241. § (10) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 18. pontja szerint módosított szöveg.
+[^21]: A 241. § (12) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 19. pontja szerint módosított szöveg.
