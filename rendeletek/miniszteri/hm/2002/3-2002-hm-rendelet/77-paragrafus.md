@@ -1,3 +1,3 @@
-## 76. §[^104]
+## 76. §[^106]
 
-[^104]: A 76. §-t a 15/2008. (VI. 20.) HM rendelet 19. § (1) bekezdésének g) pontja hatályon kívül helyezte.
+[^106]: A 76. §-t a 15/2008. (VI. 20.) HM rendelet 19. § (1) bekezdésének g) pontja hatályon kívül helyezte.

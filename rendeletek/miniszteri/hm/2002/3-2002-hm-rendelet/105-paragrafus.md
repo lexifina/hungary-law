@@ -26,8 +26,8 @@ c) maradványként a bevételek és a kiadások egyenlegét.
 
 – a kiadott tárgy értékét.
 
-(4)[^129] Az általános parancsnoki jutalmazási keret képzéséről, felhasználásáról, a megállapított magasabb parancsnoki és meghatározott célú jutalmazási keretek felhasználásáról a honvédség közgazdasági és pénzügyi szervezete központi elektronikus nyilvántartást vezet. Az általános parancsnoki jutalmazási keret félévenként időarányosan használható fel.
+(4)[^131] Az általános parancsnoki jutalmazási keret képzéséről, felhasználásáról, a megállapított magasabb parancsnoki és meghatározott célú jutalmazási keretek felhasználásáról a honvédség közgazdasági és pénzügyi szervezete központi elektronikus nyilvántartást vezet. Az általános parancsnoki jutalmazási keret félévenként időarányosan használható fel.
 
 (5) A magasabb parancsnoki és a meghatározott célú jutalmazási keretekről szintén nyilvántartást kell vezetni.
 
-[^129]: A 105. § (4) bekezdése a 6/2009. (VI. 4.) HM rendelet 15. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
+[^131]: A 105. § (4) bekezdése a 6/2009. (VI. 4.) HM rendelet 15. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.

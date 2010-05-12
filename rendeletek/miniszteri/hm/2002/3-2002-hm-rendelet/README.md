@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-15
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2002-3-20-15.36 | 3/2002. (I. 25.) HM rendelet |
+| 2010-05-12 | 2002-3-20-15.37 | 9/2010. (V. 4.) HM rendelet |

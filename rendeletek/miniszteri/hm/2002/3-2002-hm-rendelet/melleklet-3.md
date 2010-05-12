@@ -30,6 +30,6 @@
 
 | 5. | – fizetési osztálytól függetlenül a magasabb vezető, – egyetemi tanár, kutatóprofesszor, tudományos tanácsadó | 75% |
 
-3. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^152]
+3. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^154]
 
-[^152]: A 3. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
+[^154]: A 3. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
