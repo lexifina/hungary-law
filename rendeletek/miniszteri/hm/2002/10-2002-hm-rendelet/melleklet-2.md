@@ -72,6 +72,10 @@
 
 | – katonai attaséhelyettes |  |  | X |  |  |
 
+| 4.3. Illetmény-visszatartás |  |  |  |  |  |
+
+| – ezredes |  | X |  |  |  |
+
 | 5. | Vezénylés külföldi szolgálatra | 5.1. A Hjt. 2. § (32) bekezdés a) pontja szerinti esetben |  |  |  |  |  |
 
 | – zászlós, tiszthelyettes, tisztes |  | X |  |  |  |
@@ -169,6 +173,10 @@
 |  |  | – őrnagy | X | X | X | X |  |
 
 |  |  | – szds-tisztes |  |  |  |  | X |
+
+|  |  | 6.13. Rész-szolgálatteljesítés engedélyezése |  |  |  |  |  |
+
+|  |  | – tiszt, zászlós, tiszthelyettes, tisztes | X | X |  |  |  |
 
 | 7. | Hazai beiskolázás | 7.1. Hazai képzés |  |  |  |  |  |
 

@@ -1,4 +1,4 @@
-## 62. §[^56] Szolgálati beosztáshoz nem tartozó az a feladatkör, amelynek végrehajtását jogszabály vagy HM utasítás rendeli el, és nem szerepel az állomány tagjának munkaköri leírásában.
+## 62. §[^56] Szolgálati beosztáshoz nem tartozó az a feladatkör, amelynek végrehajtását jogszabály, HM utasítás vagy a katonai nemzetbiztonsági szolgálatok főigazgatói által kiadott utasítás rendeli el, és nem szerepel az állomány tagjának munkaköri leírásában.
 
 ## Szolgálati viszony szüneteltetése
 
@@ -8,4 +8,4 @@
 
 (3) A szüneteltetés időtartamát a Hjt. 54. §-a (1) bekezdésének megfelelően kell megállapítani.
 
-[^56]: A 62. § a 22/2009. (XII. 29.) HM rendelet 21. § (7) bekezdése szerint módosított szöveg.
+[^56]: A 62. § a 22/2009. (XII. 29.) HM rendelet 21. § (7) bekezdése, a 9/2010. (V. 4.) HM rendelet 2. § (1) bekezdése szerint módosított szöveg.
