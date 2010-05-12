@@ -1,5 +1,3 @@
-## 33. § Ez a rendelet a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és a tanácsi irányelv 8., 9. és 16. cikkének való megfelelést szolgálja.
-
 1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez
 
 ## A) A bejelentésköteles kereskedelmi tevékenység folytatásáról szóló bejelentés kötelező adattartalma
