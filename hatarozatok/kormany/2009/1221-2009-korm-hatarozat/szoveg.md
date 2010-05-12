@@ -10,7 +10,7 @@
 
 6. A 2009. évi, határátlépéssel járó csapatmozgások engedélyezéséről szóló 2188/2008. (XII. 29.) Korm. határozat 2009. december 31-én hatályát veszti.
 
-Melléklet az 1221/2009. (XII. 28.) Korm. határozathoz
+Melléklet az 1221/2009. (XII. 28.) Korm. határozathoz[^2]
 
 A 2010. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -26,7 +26,7 @@ A 2010. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 4. | A109/10 | STEADFAST ILLUSION 2010 interoperabilitási gyakorlat | MK KBH | Bulgária | II–III. n. é. | 50 |
 
-| 5. | A111/10 | STEADFAST JOIST 2010 NRF értékelő gyakorlat | HM HKF | NATO európai tagállam | I–IV. n. é. | 15 |
+| 5. | A111/10 | STEADFAST JUNO (JOINST) 2010 NRF értékelő gyakorlat | HM HKF | NATO európai tagállam | I–IV. n. é. | 20 |
 
 | 6. | A118/10 | BRILLIANT COMET I-II 2010 NRF gyakorlat | HM HKF | NATO európai tagállam | I–IV. n. é. | 15 |
 
@@ -48,7 +48,7 @@ A 2010. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 15. | B116/10 | LOGEX 2010 logisztikai gyakorlat | MH ÖHP | NATO európai tagállam | I–IV. n. é. | 50 |
 
-| 16. | B118/10 | BRILLIANT SWORD 2010 NRF felkészítés és kiképzés | MH ÖHP | NATO európai tagállam | I– IV. n. é. | 50 |
+| 16. | B118/10 | NOBLE (BRILLIANT) SWORD 2010 NRF értékelő gyakorlat | MH ÖHP | NATO európai tagállam | I– IV. n. é. | 50 |
 
 | 17. | B122/10 | JACKAL STONE 2010 különleges erők gyakorlata | MH ÖHP | NATO európai tagállam | I– IV. n. é. | 300 |
 
@@ -94,13 +94,13 @@ A 2010. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 3. | B103/10 | BLONDE AVALANCHE 2010 „Tisza”magyar-román-szlovák- ukrán zászlóalj katasztrófaelhárító gyakorlat | MH ÖHP | Ukrajna | III–IV. n. é. | 150 |
 
-| 4. | B140/10 | SÁRARANY MEZŐ 2010 cseh-magyar-szlovák vegyivédelmi gyakorlat | MH ÖHP | Szlovákia | I–IV. n. é. | 50 |
+| 4. | B140/10 | SÁRARANY MEZŐ 2010 cseh-magyar-szlovák vegyivédelmi gyakorlat | MH ÖHP | Szlovákia | I–IV. n. é. | 90 |
 
 | 5. | B153/10 | V4 műszaki gyakorlat 2010 | MH ÖHP | Csehország | I–IV. n. é. | 70 |
 
 | 6. | B155/10 | CBRN W&R 2010 gyakorlat | MH ÖHP | Európai állam | I–IV. n. é. | 70 |
 
-| 7. | B158/10 | TISZA román-magyar-szerb közös katasztrófavédelmi gyakorlat 2010 | MH ÖHP | Magyarország | I–IV. n. é. | 25 |
+| 7. | B158/10 | TISZA 2010 román-magyar-szerb közös katasztrófavédelmi gyakorlat | MH ÖHP | Magyarország | I–IV. n. é. | 75 |
 
 | 8. | B206/10 | ROHAMLÖVÉSZ 2010 Magyar-amerikai közös kiképzés | MH ÖHP | Magyarország | I–IV. n. é. | 100 |
 
@@ -154,7 +154,7 @@ A 2010. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 33. | Z251/10 | Hallgatói csereprogram (gyakorlat) a Mária Terézia katonai akadémiával 2010 | ZMNE | Magyarország, Ausztria | I–IV. n. é. | 20 |
 
-| 34. | Z252/10 | FOURLOG 2010 nemzetközi logisztikai kiképzés | ZMNE | Ausztria, Magyarország, Cseh Köztársaság | I–IV. n. é. | 40 |
+| 34. | Z252/10 | FOURLOG 2010 nemzetközi logisztikai kiképzés | ZMNE | Ausztria, Magyarország, Cseh Köztársaság | I–IV. n. é. | 80 |
 
 | 35. | Z253/10 | MAGLITE 2010 hallgatói logisztikai kiképzés | ZMNE | Magyarország, Egyesült Királyság | I–IV. n. é. | 50 |
 
@@ -201,3 +201,5 @@ A 2010. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 7. | ENSZ UNFIL békefenntartó misszió keretében történő áthaladások | 2010. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
 | 8. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2010. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
+
+[^2]: A melléklet az 1115/2010. (V. 11.) Korm. határozat 1. és 2. pontja szerint módosított szöveg.

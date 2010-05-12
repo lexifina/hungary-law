@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-1221-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-1221-30-22.1 | 1221/2009. (XII. 28.) Korm. határozat |
+| 2010-05-12 | 2009-1221-30-22.2 | 1311/2010. (XII. 27.) Korm. határozat |
