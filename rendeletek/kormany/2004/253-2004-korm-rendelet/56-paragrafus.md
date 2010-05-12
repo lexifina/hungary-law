@@ -1,4 +1,4 @@
-## 55. §[^98]
+## 55. §[^99]
 
 ## Az Európai Közösségek jogszabályaihoz való közelítés
 
@@ -8,4 +8,4 @@ a) az Európai Közösségek Tanácsának a fegyverek megszerzésének és tart�
 
 b) az Európai Közösségek Tanácsának a polgári felhasználású robbanóanyagok forgalmazására és felügyeletére vonatkozó rendelkezések harmonizációjáról szóló 93/15/EGK irányelvének 10. és 11. cikkével összeegyeztethető szabályozást tartalmaz.
 
-[^98]: Az 55. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.
+[^99]: Az 55. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.

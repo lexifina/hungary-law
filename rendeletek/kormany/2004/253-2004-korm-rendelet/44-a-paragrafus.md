@@ -1,7 +1,7 @@
-44/A. §[^75] (1) Aki az engedéllyel tartott lőfegyver, lőszer vagy lőszerelem tárolásának e rendeletben meghatározott feltételeit átmenetileg nem tudja biztosítani, a lőfegyver, lőszer vagy lőszerelem rendőrségi tárolását kezdeményezheti a rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló kormányrendeletben meghatározottak szerint.
+44/A. §[^76] (1) Aki az engedéllyel tartott lőfegyver, lőszer vagy lőszerelem tárolásának e rendeletben meghatározott feltételeit átmenetileg nem tudja biztosítani, a lőfegyver, lőszer vagy lőszerelem rendőrségi tárolását kezdeményezheti a rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló kormányrendeletben meghatározottak szerint.
 
 (2) A lőfegyver, lőszer vagy lőszerelem rendőrségi tárolásának időtartama legfeljebb 180 nap.
 
 (3) Ha a (2) bekezdés szerinti időtartam lejártát követő 5 munkanapon belül a lőfegyver, lőszer vagy lőszerelem visszavételére nem kerül sor, az engedélyt, valamint az európai lőfegyvertartási engedélyt vissza kell vonni.
 
-[^75]: A 44/A. §-t a 67/2010. (III. 18.) Korm. rendelet 7. §-a iktatta be.
+[^76]: A 44/A. §-t a 67/2010. (III. 18.) Korm. rendelet 7. §-a iktatta be.
