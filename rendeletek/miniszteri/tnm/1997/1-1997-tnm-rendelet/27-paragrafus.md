@@ -1,1 +1,3 @@
-## 26. § A hivatásos státusznak a főigazgató javaslatára történő átminősítése esetén a ht. állomány tagja más beosztásba helyezéséig, illetve szolgálati viszonyának megszűnéséig változatlan feltételekkel – eltérő státuszon – a ht. állományra vonatkozó jogosultságok biztosítása mellett továbbfoglalkoztatható.
+## 26. §[^24]
+
+[^24]: A 26. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.

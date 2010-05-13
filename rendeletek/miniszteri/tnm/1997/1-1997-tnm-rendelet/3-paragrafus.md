@@ -10,12 +10,13 @@ a) megfelel a tervezett beosztásához előírt képesítési követelményeknek
 
 b) férfiak esetében sorkatonai szolgálatot teljesített vagy az alól mentesített;
 
-c) megfelel a tervezett beosztásához szükséges általános és – a vonatkozó miniszteri utasításban meghatározott – speciális egészségügyi, pszichológiai és fizikai alkalmassági követelményeknek (beleértve a poligráfos vizsgálat elvégzését);
+c)[^4] megfelel a tervezett beosztásához szükséges általános és – a vonatkozó miniszteri utasításban meghatározott – speciális egészségügyi, pszichológiai és fizikai alkalmassági követelményeknek;
 
 d) nem tagja pártnak, politikai tevékenységet nem folytat, illetve párt, a Hszt. 21. §-ának (2) bekezdésében meghatározott szervezet érdekében – szolgálati viszonyának fennállása idején – nem jár el;
 
 e) hozzájárult a nemzetbiztonsági ellenőrzés lefolytatásához, és az ellenőrzés nem tárt fel olyan kockázati tényezőt, amely a hivatásos szolgálatra kihatással lehet;
 
-f)[^4] a Hszt. 245/B. §-a (1) bekezdésének a)–c) pontjaiban meghatározott nyilatkozatokat megteszi, amennyiben a Hszt. 245/B. §-a (1) bekezdése alapján erre kötelezett.
+f)[^5] az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben előírt nyilatkozatokat megteszi, amennyiben tervezett beosztása vagyonnyilatkozat tételéhez kötött.
 
-[^4]: A 3. § f) pontját az 5/2001. (XI. 23.) TNM rendelet 2. §-a iktatta a szövegbe.
+[^4]: A 3. § c) pontja a 2/2010. (IV. 28.) PTNM rendelet 9. §-a szerint módosított szöveg.
+[^5]: A 3. § f) pontját az 5/2001. (XI. 23.) TNM rendelet 2. §-a iktatta be, szövege a 2/2010. (IV. 28.) PTNM rendelet 1. §-ával megállapított szöveg.

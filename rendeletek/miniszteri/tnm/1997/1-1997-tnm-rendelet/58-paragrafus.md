@@ -14,6 +14,6 @@
 
 (7) A ki nem vett szabadság iránti igény 3 év alatt elévül.
 
-(8)[^31] A szolgálati viszony megszűnése, illetve a más fegyveres szervhez történő végleges áthelyezés esetén, ha a jogszerűen járó szabadság kiadására nincs lehetőség, a szabadságot pénzben kell megváltani. Egyéb esetben a szabadság pénzbeli megváltására nem kerülhet sor.
+(8)[^41] A szolgálati viszony megszűnése, a más fegyveres szervhez vagy a Magyar Honvédség állományába történő végleges áthelyezés esetén, ha a jogszerűen járó szabadság kiadására nincs lehetőség, a szabadságot pénzben kell megváltani.
 
-[^31]: Az 58. § (8) bekezdésének első mondata a 10/2003. (IX. 22.) MeHVM rendelet 4. §-ával megállapított szöveg.
+[^41]: Az 58. § (8) bekezdése a 2/2010. (IV. 28.) PTNM rendelet 6. §-ával megállapított szöveg.

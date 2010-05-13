@@ -2,4 +2,6 @@
 
 35. § (1) Nemzetbiztonsági szempontból való alkalmatlanság esetén az alkalmatlanságot jelentő oknak az állományilletékes parancsnok tudomására jutását követően haladéktalanul intézkedni kell a szolgálati viszony megszüntetéséről.
 
-(2) Ilyen esetben a ht. állomány tagját a felmentési idő teljes tartamára mentesíteni kell a szolgálati kötelezettség teljesítése alól.
+(2)[^33]
+
+[^33]: A 35. § (2) bekezdését a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.

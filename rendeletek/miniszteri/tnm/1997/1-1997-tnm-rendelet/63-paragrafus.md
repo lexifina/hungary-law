@@ -1,11 +1,11 @@
-## 62. §[^33] E rendelet alkalmazásában állományilletékes parancsnoknak kell tekinteni a Hivatal ht. állományának vezetői besorolású tagját, ha az általa vezetett egység önálló állománytáblával rendelkezik, és a Hivatal Szervezeti és Működési Szabályzata szerint önálló szervezeti egységnek minősül. Az állományilletékes parancsnok jogkörét közvetlen, vezető beosztású alárendeltjére átruházhatja, ennek módját és a konkrét illetékesség megosztását a főigazgató határozza meg.
+## 62. §[^45] E rendelet alkalmazásában állományilletékes parancsnoknak kell tekinteni a Hivatal ht. állományának vezetői besorolású tagját, ha az általa vezetett egység önálló állománytáblával rendelkezik, és a Hivatal Szervezeti és Működési Szabályzata szerint önálló szervezeti egységnek minősül. Az állományilletékes parancsnok jogkörét közvetlen, vezető beosztású alárendeltjére átruházhatja, ennek módját és a konkrét illetékesség megosztását a főigazgató határozza meg.
 
 63. § (1) E rendelet a kihirdetést követő hónap első napján lép hatályba, rendelkezéseit a már folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)–(3)[^34]
+(2)–(3)[^46]
 
-(4)[^35] Ahol e rendelet 1. besorolási osztályt említ, és jogszabály másként nem rendelkezik, ott a vezetői besorolási szintet is érteni kell.
+(4)[^47] Ahol e rendelet 1. besorolási osztályt említ, és jogszabály másként nem rendelkezik, ott a vezetői besorolási szintet is érteni kell.
 
-[^33]: A 62. § első mondata az 5/2001. (XI. 23.) TNM rendelet 13. §-ával megállapított szöveg.
-[^34]: A 63. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 47. §-ának 30. pontja hatályon kívül helyezte.
-[^35]: A 63. § (4) bekezdését az 5/2001. (XI. 23.) TNM rendelet 14. §-a iktatta a szövegbe.
+[^45]: A 62. § első mondata az 5/2001. (XI. 23.) TNM rendelet 13. §-ával megállapított szöveg.
+[^46]: A 63. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 47. §-ának 30. pontja hatályon kívül helyezte.
+[^47]: A 63. § (4) bekezdését az 5/2001. (XI. 23.) TNM rendelet 14. §-a iktatta a szövegbe.

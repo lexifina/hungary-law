@@ -1,4 +1,4 @@
-## 48. § A ht. állomány tagja szolgálati tevékenységére vonatkozó munkarendet, a szolgálati és pihenőidő biztosításának rendjét a főigazgató utasításban szabályozza.
+## 48. §[^37]
 
 ## A hivatásos állomány előmenetele
 
@@ -13,3 +13,5 @@ a) a beosztásban nyújtott szakmai teljesítmény figyelembevételével magasab
 b) a szolgálati beosztáshoz, várakozási időhöz és végzettséghez kötött magasabb rendfokozatba történő előléptetés, kinevezés;
 
 c) magasabb beosztási kategóriába, illetve fizetési fokozatba sorolás.
+
+[^37]: A 48. §-t megelőző alcímet, hivatkozást és a 48. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.

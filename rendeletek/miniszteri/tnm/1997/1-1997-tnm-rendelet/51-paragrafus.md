@@ -1,3 +1,5 @@
-51. § (1) Az első rendfokozatba történő kinevezést követően, a további magasabb rendfokozatokba az előmenetel – alezredesi rendfokozattal bezárólag – előléptetéssel történik. Ezredesi rendfokozatba történő kinevezésre a főigazgató, tábornoki rendfokozatokba történő kinevezésre a miniszter tesz javaslatot.
+51. § (1)[^38]
 
 (2) Az egyes munkakörökhöz, beosztásokhoz tartozó rendfokozati előírásokat a Hivatal állománytáblájában is rögzíteni kell.
+
+[^38]: Az 51. § (1) bekezdését a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.
