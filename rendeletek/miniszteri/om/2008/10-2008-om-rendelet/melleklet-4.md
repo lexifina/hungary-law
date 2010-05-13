@@ -1,14 +1,4 @@
-## A hivatásos katasztrófavédelmi szervek,
-
-## a tűzoltóságok, a katasztrófavédelmi, tűzvédelmi
-
-## és polgári védelmi képzés irányítását és felügyeletét ellátó központi közigazgatási szervezetek és ez irányú tevékenységet végző szervezeti egységei, tagjai,
-
-## az oktatást folytató intézmények tagjai,
-
-## valamint az ez irányú szakágazatokban foglalkoztatottak által e rendelet hatálybalépése előtt megindított képzések (szaktanfolyamok) során megszerzett szakmai képesítéseinek szintje
-
-## az alkalmazó szervek, illetve munkakörök szerint
+## A hivatásos katasztrófavédelmi szervek, a tűzoltóságok, a katasztrófavédelmi, tűzvédelmi és polgári védelmi képzés irányítását és felügyeletét ellátó központi közigazgatási szervezetek és ez irányú tevékenységet végző szervezeti egységei, tagjai, az oktatást folytató intézmények tagjai, valamint az ez irányú szakágazatokban foglalkoztatottak által 2002. január 31. előtt megszerzett szakmai képesítések szintje az alkalmazó szervek, illetve munkakörök szerint[^35]
 
 ## 1. Katasztrófavédelem és polgári védelem szakterülete
 
@@ -104,7 +94,7 @@
 
 ## – egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítés,
 
-## – a tűzoltó technikusképző szakon szerzett szakképesítés, a 2002. december 31. előtt megkezdett felsőfokú iskolai tanulmányokban szerzett végzettséggel együtt,
+## –[^36] a 2002. december 31. előtt megszerzett tűzoltó technikusi képesítés ugyanezen időpontig megszerzett állami felsőfokú végzettséggel együtt,
 
 ## – a kétéves nappali vagy hároméves levelező tisztképző szakon és a BM Akadémia Tűzoltó Tagozatán szerzett képesítés, a 2002. december 31. előtt megkezdett felsőfokú iskolai tanulmányokban szerzett végzettséggel együtt,
 
@@ -128,4 +118,8 @@
 
 ## – tűzoltó (tiszti) alapismereti tanfolyami képesítés, illetve tiszti alapismereti vizsga.
 
-4. melléklet a 10/2008. (X. 30.) ÖM rendelethez
+4. melléklet a 10/2008. (X. 30.) ÖM rendelethez[^37]
+
+[^35]: A 3. melléklet címe a 11/2010. (IV. 28.) ÖM rendelet 7. §-ával megállapított szöveg.
+[^36]: A 3. melléklet 2.1.3. pont hetedik franciabekezdése a 11/2010. (IV. 29.) ÖM rendelet 7. §-ával megállapított szöveg.
+[^37]: A 4. melléklet a 11/2010. (IV. 28.) ÖM rendelet 8. §-ával megállapított szöveg.

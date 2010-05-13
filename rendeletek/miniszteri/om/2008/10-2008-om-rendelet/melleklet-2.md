@@ -68,7 +68,7 @@
 
 ## – had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány BSc (főiskolai szintű),
 
-## – rendészeti igazgatás szak, katasztrófavédelmi szakirány BSc (főiskolai szintű) (a 2006–2009 között beiskolázottak részére),
+## –[^9] rendészeti igazgatás szak, katasztrófavédelmi szakirány BSc (főiskolai szintű)
 
 ## – rendészeti igazgatási szak tűzvédelmi szakirány,
 
@@ -205,3 +205,5 @@
 ## – rendészeti szervező szakképzés, tűzoltó szervező elágazás.
 
 2. melléklet a 10/2008. (X. 30.) ÖM rendelethez
+
+[^9]: Az 1. melléklet 2.1.3. alpont hatodik franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 5. §-ával megállapított szöveg.

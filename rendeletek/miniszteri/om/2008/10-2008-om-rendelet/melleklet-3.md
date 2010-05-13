@@ -36,11 +36,11 @@
 
 ## – kismotorfecskendő és átemelő szivattyú kezelői szaktanfolyam.
 
-## 3. A KOK által szervezhető továbbképző tanfolyamok:
+## 3.[^10] A KOK által szervezhető továbbképzések, tanfolyamok:
 
 ## – tűzoltás-vezetési és szolgálati továbbképző szaktanfolyam,
 
-## – tűzvizsgálói továbbképző tanfolyam,
+## –[^11] tűzvizsgálói tanfolyam,
 
 ## – irodai szoftverek továbbképző szaktanfolyam,
 
@@ -50,7 +50,7 @@
 
 ## – polgári védelmi szakmai továbbképző tanfolyam,
 
-## – Egységes Digitális Rádiórendszer továbbképző tanfolyam,
+## –[^12] Egységes Digitális Rádiórendszer kezelői tanfolyam,
 
 ## – hírközpont kezelői továbbképző tanfolyam,
 
@@ -108,7 +108,7 @@
 
 ## – a tanfolyamon való részvétel,
 
-## – a hiányzás nem haladja meg képzési programban meghatározott órakeretet
+## –[^13] a hiányzás nem haladhatja meg a képzési programban meghatározott órakeret 10%-át.
 
 ## 4.1.1.5.2. Tűzoltótechnika-kezelői alaptanfolyamhoz kötött gépcsaládok és géptípusok esetén:
 
@@ -118,7 +118,7 @@
 
 ## – a vizsgára jelentkezőnek rendelkezni kell a 2002. december 31-ig megszerzett, az 57/1997. (X. 21.) BM rendelet előírásainak megfelelő nehézgépkezelői szakképesítéssel (bizonyítvány) és nehézgépkezelő jogosítvánnyal, vagy a 2003. január 1-jét követően megszerzett tűzoltótechnika-kezelői alaptanfolyami végzettséggel,
 
-## – a hiányzás nem haladja meg képzési programban meghatározott órakeretet.
+## –[^14] a hiányzás nem haladhatja meg a képzési programban meghatározott órakeret 10%-át.
 
 ## 4.1.1.5.3. Tűzoltótechnika-kezelői alaptanfolyamhoz nem kötött gépcsaládok és géptípusok esetén:
 
@@ -126,7 +126,7 @@
 
 ## – a géptípusra vonatkozó gyakorlati idő teljesítése (vizsgára jelentkezéskor az igazolást kötelező leadni),
 
-## – a hiányzás nem haladja meg képzési programban meghatározott órakeretet.
+## –[^15] a hiányzás nem haladhatja meg a képzési programban meghatározott órakeret 10%-át.
 
 ## 4.1.1.6. A vizsgáztatás rendje
 
@@ -178,7 +178,7 @@
 
 ## – Javítóvizsgát abból a vizsgarészből vagy tananyag egységből (tantárgyból) kell tenni, amelyből elégtelen osztályzat született.
 
-## – Javítóvizsgát az eredménytelenül zárult vizsgarészből kell tenni.
+## –[^16]
 
 ## – Javítóvizsga korlátlan számban tehető.
 
@@ -214,6 +214,8 @@
 
 ## – a tűzoltótechnika-kezelői tanfolyamhoz kötött adott gép, gépi berendezés és gépjármű kezeléséhez szükséges egészségügyi alkalmasság.
 
+## –[^17] legalább egy év készenléti szolgálatban eltöltött idő.
+
 ## A tanfolyam tananyagának főbb tananyag egységei (tantárgyai):
 
 ## – Munkavédelem és biztonságtechnika
@@ -232,7 +234,7 @@
 
 ## – legalább tűzoltó szakképesítés (OKJ azonosító szám: 32 8915 01, illetve 51 861 01 0000 00 00), vagy a 2002. december 31. előtt szerzett 6 hetes alapfokú tűzoltó tanfolyami végzettség,
 
-## – a kezelői feladatok ellátásához szükséges egészségügyi alkalmasság, ami magába foglalja a magasban végzett tűzoltási és mentési feladatok végzésére való egészségügyi alkalmasságot,
+## –[^18] a kezelői feladatok ellátásához szükséges foglalkozás-egészségügyi alkalmasság, ami magába foglalja a magasban végzett tűzoltási és mentési feladatok végzésére való egészségügyi alkalmasságot,
 
 ## – tűzoltótechnika-kezelői alaptanfolyami végzettség.
 
@@ -632,7 +634,7 @@
 
 ## – gyakorló szolgálat teljesítése,
 
-## – a KOK által előírt gyakorlati és önképzési feladatok igazolt teljesítése.
+## –[^19] a képzési programban előírt gyakorlati és önképzési feladatok igazolt teljesítése.
 
 ## 4.2.3.1.7. A vizsga részei:
 
@@ -674,11 +676,9 @@
 
 ## A bizonyítvány az OKF által meghatározott kreditpont megszerzésére jogosít.
 
-## 4.2.3.1.13. A képzés költsége:
+## 4.2.3.1.13.[^20]
 
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
-
-## 4.2.3.2. Tűzvizsgálói továbbképző tanfolyam
+## 4.2.3.2.[^21] Tűzvizsgálói tanfolyam
 
 ## 4.2.3.2.1. A tanfolyam elvégzésével betölthető beosztások, végrehajtható feladatok:
 
@@ -687,6 +687,8 @@
 ## 4.2.3.2.2. A beiskolázás feltételei:
 
 ## – Az állam által elismert felsőfokú végzettség és felsőszintű szakmai végzettség.
+
+## –[^22] A felső szintű szakmai végzettség megszerzését követően legalább egy év szolgálati helyen eltöltött gyakorlati idő.
 
 ## 4.2.3.2.3. A képzésre történő jelentkezés feltételei, esetleges szabályai:
 
@@ -710,13 +712,15 @@
 
 ## – tűzvizsgálatot követő intézkedések.
 
-## 4.2.3.2.6. A vizsgára bocsátás feltételei:
+## 4.2.3.2.6.[^23] A vizsgára bocsátás feltételei:
 
 ## – A tanfolyamon történő részvétel.
 
-## – A hiányzási óraszám nem haladhatja meg a teljes óraszám 15%-át.
+## – A hiányzási óraszám nem haladhatja meg a képzés óraszámának 10%-át.
 
-## – Valós tűzesemény vizsgálati dokumentációjának elkészítése.
+## – Valós tűzesemény vizsgálati dokumentációjának elkészítése, és az adatvédelmi szabályok megtartásával történő megküldése (fiktív adatokkal) a KOK Tanulmányi Osztályára.
+
+## – A vizsgára a tanfolyam befejezésétől számított 6 hónapon belül lehet jelentkezni.
 
 ## 4.2.3.2.7. A vizsga részei:
 
@@ -820,9 +824,7 @@
 
 ## A bizonyítványt birtokló személy kezelheti az irodai szoftvert, képes a szoftver funkciójának megfelelően önálló feladatok végrehajtására.
 
-## 4.2.3.3.13. A képzés költsége:
-
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
+## 4.2.3.3.13.[^24]
 
 ## 4.2.3.4. Speciális szakmai szoftverek továbbképző szaktanfolyam
 
@@ -880,9 +882,7 @@
 
 ## A bizonyítványt birtokló személy kezelheti a speciális szoftvert, képes a szoftver funkciójának megfelelően önálló feladatok végrehajtására.
 
-## 4.2.3.4.13. A képzés költsége:
-
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
+## 4.2.3.4.13.[^25]
 
 ## 4.2.3.5. Veszélyhelyzeti felderítő csoport (VFCS) továbbképző tanfolyam
 
@@ -890,9 +890,9 @@
 
 ## A veszélyhelyzeti felderítő csoportban és a veszélyhelyzeti felderítő szolgálatban rendszeresített beosztásokat ellátók számára.
 
-## 4.2.3.5.2. A beiskolázás feltételei:
+## 4.2.3.5.2.[^26] A beiskolázás feltételei:
 
-## Az állam által elismert középfokú végzettség, alapfokú szakmai képzettség és a feladat ellátásához szükséges egészségügyi alkalmasság.
+## Az állam által elismert középfokú végzettség, alapfokú szakmai képzettség és a feladat ellátásához szükséges foglalkozás-egészségügyi alkalmasság.
 
 ## 4.2.3.5.3. A képzésre történő jelentkezés feltételei, esetleges szabályai:
 
@@ -906,7 +906,7 @@
 
 ## – radiológiai-biológiai és vegyi védelmi ismeretek,
 
-## – veszélyes azonos azonosítása, adatbázisok kezelése,
+## –[^27] veszélyes anyagok azonosítása, adatbázisok kezelése,
 
 ## – veszélyes áru szállítási ismeret,
 
@@ -938,7 +938,7 @@
 
 ## – A vizsga elméleti és gyakorlati részből áll. Az elméleti vizsga írásban történik.
 
-## – Írásbeli és gyakorlati.
+## –[^28]
 
 ## 4.2.3.5.8. A vizsgabizottság összetétele:
 
@@ -982,9 +982,7 @@
 
 ## A veszélyhelyzeti felderítő csoportban és a veszélyhelyzeti felderítő szolgálatban rendszeresített beosztások (VFCS parancsnok, technikus, kezelő) betöltésére jogosít a kiadott bizonyítvány.
 
-## 4.2.3.5.13. A képzés költsége:
-
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
+## 4.2.3.5.13.[^29]
 
 ## 4.2.3.6. Polgári védelmi szakmai továbbképző tanfolyam
 
@@ -1054,11 +1052,9 @@
 
 ## A tanfolyam elvégzését igazoló dokumentum feljogosít az adott szakmai feladatok elvégzésére.
 
-## 4.2.3.6.13. A képzés költsége:
+## 4.2.3.6.13.[^30]
 
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
-
-## 4.2.3.7. Egységes Digitális Rádiórendszer (EDR) továbbképző tanfolyam
+## 4.2.3.7.[^31] Egységes Digitális Rádiórendszer (EDR) kezelői tanfolyam
 
 ## 4.2.3.7.1. A tanfolyam elvégzésével betölthető beosztások, végrehajtható feladatok:
 
@@ -1134,9 +1130,7 @@
 
 ## – a DWS-C&M (menedzser diszpécser-munkaállomás kezelői) tanfolyamot elvégzőt (a kommunikációs feladatok elvégzésén túl) menedzseri feladatok (szervezetek, rádió-előfizetők, munkaállomás-felhasználók, csoportok, átfedő-csoportok és kliensalkalmazások kezelése, az OKF ITFO által létrehozott szervezeti struktúrájának ismertetése, csoportok szervezésének elvei) elvégzésére jogosít a bizonyítvány.
 
-## 4.2.3.7.13. A képzés költsége:
-
-## A tanfolyam a hivatásos katasztrófavédelmi és tűzoltó szervek, valamint az önkéntes tűzoltóságok részéről beiskolázottak számára tandíjmentes.
+## 4.2.3.7.13.[^32]
 
 ## 4.2.3.8. Hírközpont kezelői továbbképző tanfolyam
 
@@ -1208,9 +1202,7 @@
 
 ## A bizonyítványt birtokló személy kezelheti a hírközpontokhoz és ügyeleti pultokhoz tartozó hírforgalmi eszközöket, digitális rádiókat, valamint az ügyeleti munkát segítő szoftvereket; továbbá képes a riasztás és káresemény felszámolás során önálló feladatok végrehajtására.
 
-## 4.2.3.8.13. A képzés költsége:
-
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
+## 4.2.3.8.13.[^33]
 
 ## 4.2.3.9. Tűzoltó alaptanfolyam
 
@@ -1302,8 +1294,32 @@
 
 ## A tanfolyam elvégzését igazoló dokumentum feljogosít az adott szakmai feladatok elvégzésére.
 
-## 4.2.3.10.13. A képzés költsége:
-
-## A képzés e rendelet 15. § (4) pontja alapján tanfolyami díj köteles, amit a beiskolázó szerv fizet.
+## 4.2.3.10.13.[^34]
 
 3. melléklet a 10/2008. (X. 30.) ÖM rendelethez
+
+[^10]: A 2. melléklet 3. pont nyitó szövegrésze a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^11]: A 2. melléklet 3. pont második franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^12]: A 2. melléklet 3. pont hetedik franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^13]: A 2. melléklet 4.1.1.5.1. pont második franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^14]: A 2. melléklet 4.1.1.5.2. pont negyedik franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^15]: A 2. melléklet 4.1.1.5.3. pont harmadik franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^16]: A 2. melléklet 4.1.1.7. pont tizenharmadik franciabekezdését a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 2. melléklet 4.2.1.1. pont harmadik franciabekezdését a 11/2010. (IV. 28.) ÖM rendelet 6. §-a iktatta be.
+[^18]: A 2. melléklet 4.2.1.2. pont második franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 2. melléklet 4.2.3.1.6. pont negyedik franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^20]: A 2. melléklet 4.2.3.1.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^21]: A 2. melléklet 4.2.3.2. pontja a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^22]: A 2. melléklet 4.2.3.2.2. pont második franciabekezdését a 11/2010. (IV. 28.) ÖM rendelet 6. §-a iktatta be.
+[^23]: A 2. melléklet 4.2.3.2.6. pontja a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^24]: A 2. melléklet 4.2.3.3.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^25]: A 2. melléklet 4.2.3.4.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 2. melléklet 4.2.3.5.2. pontja a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^27]: A 2. melléklet 4.2.3.5.5. pont harmadik franciabekezdése a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^28]: A 2. melléklet 4.2.3.5.7. pont második franciabekezdését a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^29]: A 2. melléklet 4.2.3.5.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^30]: A 2. melléklet 4.2.3.6.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^31]: A 2. melléklet 4.2.3.7. pontja a 11/2010. (IV. 28.) ÖM rendelet 6. §-ával megállapított szöveg.
+[^32]: A 2. melléklet 4.2.3.7.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 2. melléklet 4.2.3.8.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^34]: A 2. melléklet 4.2.3.10.13. pontját a 11/2010. (IV. 28.) ÖM rendelet 10. § (2) bekezdése hatályon kívül helyezte.

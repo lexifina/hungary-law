@@ -34,8 +34,10 @@
 
 ## – a BM Akadémia Tűzoltó Tagozatán,
 
-## – a tűzoltótechnikus-képző szakon, valamint a kétéves nappali vagy hároméves levelező tisztképző szakon,
+## –[^38] a 2002. előtt tűzoltótechnikus-képző szakon, valamint a kétéves nappali vagy hároméves levelező tisztképző szakon,
 
 ## – a hároméves levelező tűzvédelmi előadói, illetve tűzvédelmi vezetői szakon, valamint a tűzvédelmi szakelőadói szakon (OKJ azonosító szám: 71 8915 01) szerzett képesítés, illetőleg szakképzettség.
 
 7. melléklet a 10/2008. (X. 30.) ÖM rendelethez
+
+[^38]: A 6. melléklet 1.3. pont nyolcadik franciabekezdése a 11/2010. (IV. 29.) ÖM rendelet 9. §-ával megállapított szöveg.
