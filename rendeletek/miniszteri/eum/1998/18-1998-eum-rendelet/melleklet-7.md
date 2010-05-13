@@ -48,7 +48,7 @@
 
 ## Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet alapján általános sebészet, gyermeksebészet, ortopédia és traumatológia tevékenységre működési engedéllyel rendelkező egészségügyi szolgáltatók.
 
-7. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^55]
+7. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^53]
 
 ## A szövetek (sejtek) donoraira vonatkozó kiválasztási kritériumok (a reproduktív sejtek donorai kivételével)
 
@@ -62,7 +62,7 @@ A donorok kiválasztási kritériumai az egyes sejtek/szövetek alkalmazásához
 
 1.1.2. Ismeretlen eredetű betegség a kórtörténetben.
 
-1.1.3.[^56] Rosszindulatú betegség, kivéve teljesen gyógyult in situ carcinoma. Cornea átültetés esetén nem kizáró ok a donor rosszindulatú daganatos betegsége, kivéve a hematológiai daganatos megbetegedéseket, a retinoblastomát és az elülső szemcsarnok rosszindulatú daganatát.
+1.1.3.[^54] Rosszindulatú betegség, kivéve teljesen gyógyult in situ carcinoma. Cornea átültetés esetén nem kizáró ok a donor rosszindulatú daganatos betegsége, kivéve a hematológiai daganatos megbetegedéseket, a retinoblastomát és az elülső szemcsarnok rosszindulatú daganatát.
 
 1.1.4. Átvihető szivacsos encephalopathiák (TSE-k; például Creutzfeld–Jakob-kór, variáns Creutzfeld– Jakob-kór): aki a családi anamnézis szerint veszélyeztett a TSE kialakulása tekintetében; akinél szaruhártya vagy kemény agyhártya (dura mater) transzplantáció történt, és az, aki korábban emberi agyalapi mirigyből készült gyógyszereket kapott. A Creutzfeld–Jakob-kór új variációja esetében szükség szerint további óvintézkedéseket kell tenni.
 
@@ -114,5 +114,5 @@ c) vérképző őssejtek esetében az örökletes tényezők átvitelének lehet
 
 tényére tekintettel.
 
-[^55]: A 7. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (1) bekezdése iktatta be.
-[^56]: A 7. számú melléklet 1. pontjának 1.1.3. alpontja az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^53]: A 7. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (1) bekezdése iktatta be.
+[^54]: A 7. számú melléklet 1. pontjának 1.1.3. alpontja az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.

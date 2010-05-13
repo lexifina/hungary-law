@@ -1,4 +1,4 @@
-8. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^57]
+8. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^55]
 
 ## A szövet-, sejtdonorok esetében elvégzendő laboratóriumi vizsgálatok (a reproduktív sejtek donorai kivételével)
 
@@ -38,4 +38,4 @@ A szövet- és sejtfeldolgozó és -tároló egységek az 50%-nál magasabb plaz
 
 2.8. Újszülött donor esetében a biológiai vizsgálatokat a donor édesanyján is el lehet végezni, elkerülendő a csecsemőn végzendő orvosilag indokolatlan eljárásokat.
 
-[^57]: A 8. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (2) bekezdése iktatta be.
+[^55]: A 8. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (2) bekezdése iktatta be.

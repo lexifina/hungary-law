@@ -172,4 +172,4 @@
 
 [^49]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^50]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
-[^51]: Az 5. számú melléklet a 3/2003. (II. 1.) ESZCSM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^51]: Az 5. számú melléklet a 26/2010. (V. 12.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
