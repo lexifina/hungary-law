@@ -1,0 +1,3 @@
+35. § (1) A meghatalmazott ügynök a tevékenység megkezdése előtt benyújtott, kinevezése iránti kérelmének elbírálása során a légiközlekedési hatóság a rendőrség és NBH véleményét kikéri.
+
+(2) A kérelemhez csatolni kell a meghatalmazott ügynök védelmi tisztjének kinevezését, valamint a védelmi programot. A védelmi programban foglaltak teljesülését helyszíni szemle során ellenőrzi a légiközlekedési hatóság. A meghatalmazott ügynök védelmi programjának – amennyiben kéri listás szállító kinevezését is – tartalmaznia kell a listás szállító kinevezésének eljárását, légiközlekedés védelmi minőségbiztosítási ellenőrzését és tevékenységének felügyeletét.

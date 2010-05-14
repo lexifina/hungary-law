@@ -1,0 +1,13 @@
+## 29. Költségek viselése
+
+43. § (1) A nemzetközi kereskedelmi repülőtéren az együttműködő hatóságok légiközlekedés védelmi feladatának ellátásához szükséges elhelyezéséről, repülőtéri műszaki-technikai eszközök, berendezések létesítéséről és fejlesztéséről a repülőtér üzemben tartója saját költségén gondoskodik.
+
+(2) Az együttműködő hatóságokat a légiközlekedés védelmével összefüggő feladataik ellátásához szükséges ingatlanok, helyiségek használatáért bérleti díj-fizetési kötelezettség nem terheli. Az ingatlanok berendezésével és a műszaki-technikai felszereltséggel, a közműszolgáltatással (energia, víz, csatorna) járó költségeket a hatóságok saját költségvetésükből fedezik.
+
+(3) Az együttműködő hatóságok a légiközlekedés védelmi feladataik és az ahhoz szükséges szervezet működtetéséhez szükséges költségeiket saját költségvetésükből fedezik.
+
+(4) A nemzetközi légi forgalom számára ideiglenes vagy eseti jelleggel megnyitott repülőtéren az együttműködő hatóságok ideiglenes elhelyezéséről és működési feltételeiről, valamint a műszaki-technikai eszközök és berendezések ideiglenes telepítéséről a repülőtér üzemben tartója saját költségén gondoskodik.
+
+(5) A repülőtér üzemben tartója és a légitársaság a légiközlekedés védelmi intézkedések végrehajtása érdekében az utastól díjat szedhet. A beszedett díjat az együttműködő hatóságokkal történt előzetes egyeztetést követően, kizárólag az érintett repülőtéren, vagy az adott légitársaságnál légiközlekedés védelmi feladatokra, a védelmi rendszer fenntartására, fejlesztésére lehet fordítani, amelyről elkülönített elszámolást kell készíteni. A díj felhasználásáról a repülőtér üzemben tartója és a légitársaság a tárgyévet követő március 1-jéig jelentést készít a légiközlekedési hatóság részére.
+
+(6) Az (5) bekezdés szerinti jelentésben foglaltakat, valamint a felhasználás jogszerűségét a légiközlekedési hatóság ellenőrzi. Ha a repülőtér védelmi költségei felhasználására beruházási fejlesztési terv kerül jóváhagyásra, úgy a költségek a beruházási fejlesztési terv időtartamára arányosan eloszthatóak.

@@ -1,0 +1,17 @@
+## 4. § Az LVB
+
+a) rendszeresen áttekinti a polgári légiközlekedés és létesítményei biztonságának helyzetét,
+
+b) javaslatot tesz a légiközlekedés védelme érdekében szükséges jogszabály-módosításokra és egyéb intézkedésekre,
+
+c) előkészíti
+
+ca) a Nemzeti Polgári Légiközlekedés Védelmi Programot,
+
+cb) a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programot és
+
+cc) a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programot
+
+[a továbbiakban a ca)–cc) alpontok együtt: nemzeti légiközlekedés védelmi programok],
+
+d) tájékoztatást kér a honvédelemről és a Magyar Honvédségről szóló törvény szerinti műveleti rendszer működésében közreműködő, annak végrehajtása miatt esetlegesen bekövetkező hatások megelőzésében, felszámolásában és semlegesítésében hatáskörrel rendelkező szervektől a feladatkörükben végrehajtott felkészülésükről, az alkalmazni kívánt intézkedési tervükről és a végrehajtott gyakorlatokról.
