@@ -1,1 +1,0 @@
-## 30. § Amennyiben a hévíz ásvány- vagy gyógyvíz, a vízkezelés technológiáját egyedi vizsgálatok alapján kell meghatározni. A gyógyvizet csak olyan technológiával lehet kezelni, amely a víz gyógyászatilag jelentős tényezőit károsan nem befolyásolja.

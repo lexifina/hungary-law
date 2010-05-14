@@ -1,1 +1,0 @@
-## 5. § Ha egy vízimunka, illetve létesítmény megakadályozza a folyón, illetve vízfolyáson a közlekedést, úgy az engedélyes – megfelelő műszaki megoldás megvalósításával – köteles gondoskodni az áthaladás és a hosszirányú ökológiai átjárhatóság feltételeinek biztosításáról.

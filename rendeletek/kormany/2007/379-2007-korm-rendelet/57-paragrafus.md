@@ -1,1 +1,0 @@
-## 56. § Folyó- és tószabályozásnál a biológiai, ökológiai, halélettani szempontokat is figyelembe kell venni. A folyókon épült elzárásoknál ökológiailag megfelelő hallépcsőket kell kiépíteni, melyeket az elzárás kiépítőjének, haszonélvezőjének kell megépítenie, üzemeltetnie, fenntartania addig, míg a folyón az elzárás az átjárhatóságot akadályozza.
