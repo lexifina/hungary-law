@@ -12,6 +12,6 @@ c) nukleáris létesítmény engedélyesével szemben a nukleáris fegyverek elt
 
 d) minden egyéb engedélyessel szemben az a)–c) pontokon túli egyéb hatósági ügyekben a 3 millió forintot.
 
-(3)[^16] A (2) bekezdés a) és b) pontja esetében, ha az engedélyben meghatározott követelmények megszegését más, a feladatkörében eljáró hatóság észleli, az OAH e hatóság kezdeményezésére folytatja le a bírságolási eljárást.
+(3)[^17] A (2) bekezdés a) és b) pontja esetében, ha az engedélyben meghatározott követelmények megszegését más, a feladatkörében eljáró hatóság észleli, az OAH e hatóság kezdeményezésére folytatja le a bírságolási eljárást.
 
-[^16]: A 17. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^17]: A 17. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

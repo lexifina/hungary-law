@@ -1,4 +1,4 @@
-3. § (1)[^1] Az OAH hatáskörébe tartozik:
+3. § (1)[^2] Az OAH hatáskörébe tartozik:
 
 a) a nukleáris létesítmény telepítéséhez, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, átalakításához, üzemen kívül helyezéséhez, megszüntetéséhez szükséges nukleáris biztonsági engedélyezés, a nukleáris létesítmény baleset-elhárítási intézkedési tervének jóváhagyása
 
@@ -22,16 +22,16 @@ j) a nukleáris üzemanyagciklussal összefüggő távlati tervezésre, kutatás
 
 k) a radioaktív hulladékok országhatáron át való szállításának engedélyezése, illetve jóváhagyása
 
-l)[^2] radioaktív anyagoknak a Magyar Köztársaság és EU tagállamok közötti szállításának engedélyezése, illetve jóváhagyása
+l)[^3] radioaktív anyagoknak a Magyar Köztársaság és EU tagállamok közötti szállításának engedélyezése, illetve jóváhagyása
 
-m)[^3] az atomkár-felelősségre vonatkozó biztosítási vagy más pénzügyi fedezet meglétének nyilvántartása és ellenőrzése.
+m)[^4] az atomkár-felelősségre vonatkozó biztosítási vagy más pénzügyi fedezet meglétének nyilvántartása és ellenőrzése.
 
-(2)[^4]
+(2)[^5]
 
-(3)[^5] Az OAH a Szervezeti és Működési Szabályzatát az At. által meghatározott társhatóságoknak megküldi.
+(3)[^6] Az OAH a Szervezeti és Működési Szabályzatát az At. által meghatározott társhatóságoknak megküldi.
 
-[^1]: A 3. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 298. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 3. § (1) bekezdésének új l) pontját a 155/2004. (V. 14.) Korm. rendelet 22. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti l) pont jelölését m) pontra változtatva.
-[^3]: A 3. § (1) bekezdés eredeti l) pontjának számozását a 155/2004. (V. 14.) Korm. rendelet 22. §-ának (1) bekezdése m) pontra változtatta.
-[^4]: A 3. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 299. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A 3. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 43. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^2]: A 3. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 298. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 3. § (1) bekezdésének új l) pontját a 155/2004. (V. 14.) Korm. rendelet 22. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti l) pont jelölését m) pontra változtatva.
+[^4]: A 3. § (1) bekezdés eredeti l) pontjának számozását a 155/2004. (V. 14.) Korm. rendelet 22. §-ának (1) bekezdése m) pontra változtatta.
+[^5]: A 3. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 299. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 3. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 43. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

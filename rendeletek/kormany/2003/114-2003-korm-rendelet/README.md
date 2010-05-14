@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-114-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2003-114-20-22.7 | 114/2003. (VII. 29.) Korm. rendelet |
+| 2010-05-14 | 2003-114-20-22.8 | 112/2011. (VII. 4.) Korm. rendelet |
