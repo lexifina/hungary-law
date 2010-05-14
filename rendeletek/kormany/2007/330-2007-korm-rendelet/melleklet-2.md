@@ -1,1795 +1,1798 @@
 ## A határterülethez tartozó települések
 
-## Baranya megye
+## 1. Baranya megye
 
-## Adorjás
+## 1.1. Adorjás
 
-## Alsószentmárton
+## 1.2. Alsószentmárton
 
-## Bár
+## 1.3. Bár
 
-## Baranyahidvég
+## 1.4. Baranyahidvég
 
-## Beremend
+## 1.5. Beremend
 
-## Bezedek
+## 1.6. Bezedek
 
-## Bogdása
+## 1.7. Bogdása
 
-## Bóly
+## 1.8. Bóly
 
-## Borjád
+## 1.9. Borjád
 
-## Cún
+## 1.10. Cún
 
-## Csányoszró
+## 1.11. Csányoszró
 
-## Diósviszló
+## 1.12. Diósviszló
 
-## Drávacsehi
+## 1.13. Drávacsehi
 
-## Drávacsepely
+## 1.14. Drávacsepely
 
-## Drávafok
+## 1.15. Drávafok
 
-## Drávaiványi
+## 1.16. Drávaiványi
 
-## Drávakeresztúr
+## 1.17. Drávakeresztúr
 
-## Drávapalkonya
+## 1.18. Drávapalkonya
 
-## Drávapiski
+## 1.19. Drávapiski
 
-## Drávaszabolcs
+## 1.20. Drávaszabolcs
 
-## Drávaszerdahely
+## 1.21. Drávaszerdahely
 
-## Drávasztára
+## 1.22. Drávasztára
 
-## Dunaszekcső
+## 1.23. Dunaszekcső
 
-## Egyházasharaszti
+## 1.24. Egyházasharaszti
 
-## Endrőc
+## 1.25. Endrőc
 
-## Felsőszentmárton
+## 1.26. Felsőszentmárton
 
-## Gordisa
+## 1.27. Gordisa
 
-## Gyöngyösmellék
+## 1.28. Gyöngyösmellék
 
-## Harkány
+## 1.29. Harkány
 
-## Hirics
+## 1.30. Hirics
 
-## Homorúd
+## 1.31. Homorúd
 
-## Illocska
+## 1.32. Illocska
 
-## Ipacsfa
+## 1.33. Ipacsfa
 
-## Ivándárda
+## 1.34. Ivándárda
 
-## Kákics
+## 1.35. Kákics
 
-## Kásád
+## 1.36. Kásád
 
-## Kémes
+## 1.37. Kémes
 
-## Kemse
+## 1.38. Kemse
 
-## Kétújfalu
+## 1.39. Kétújfalu
 
-## Kisharsány
+## 1.40. Kisharsány
 
-## Kislippó
+## 1.41. Kislippó
 
-## Kistapolca
+## 1.42. Kistapolca
 
-## Kisszentmárton
+## 1.43. Kisszentmárton
 
-## Kórós
+## 1.44. Kórós
 
-## Kovácshida
+## 1.45. Kovácshida
 
-## Kölked
+## 1.46. Kölked
 
-## Lánycsók
+## 1.47. Lánycsók
 
-## Lapáncsa
+## 1.48. Lapáncsa
 
-## Lippó
+## 1.49. Lippó
 
-## Lúzsok
+## 1.50. Lúzsok
 
-## Magyarbóly
+## 1.51. Magyarbóly
 
-## Majs
+## 1.52. Majs
 
-## Márfa
+## 1.53. Márfa
 
-## Markóc
+## 1.54. Markóc
 
-## Marócsa
+## 1.55. Marócsa
 
-## Márok
+## 1.56. Márok
 
-## Matty
+## 1.57. Matty
 
-## Mohács
+## 1.58. Mohács
 
-## Nagycsány
+## 1.59. Nagycsány
 
-## Nagyharsány
+## 1.60. Nagyharsány
 
-## Nagynyárád
+## 1.61. Nagynyárád
 
-## Nagytótfalu
+## 1.62. Nagytótfalu
 
-## Old
+## 1.63. Old
 
-## Piskó
+## 1.64. Piskó
 
-## Rádfalva
+## 1.65. Rádfalva
 
-## Sámod
+## 1.66. Sámod
 
-## Sárok
+## 1.67. Sárok
 
-## Sátorhely
+## 1.68. Sátorhely
 
-## Sellye
+## 1.69. Sellye
 
-## Siklós
+## 1.70. Siklós
 
-## Siklósnagyfalu
+## 1.71. Siklósnagyfalu
 
-## Sósvertike
+## 1.72. Sósvertike
 
-## Szaporca
+## 1.73. Szaporca
 
-## Szörény
+## 1.74. Szörény
 
-## Teklafalu
+## 1.75. Teklafalu
 
-## Tésenfa
+## 1.76. Tésenfa
 
-## Töttös
+## 1.77. Töttös
 
-## Udvar
+## 1.78. Udvar
 
-## Vajszló
+## 1.79. Vajszló
 
-## Vejti
+## 1.80. Vejti
 
-## Villány
+## 1.81. Villány
 
-## Villánykövesd
+## 1.82. Villánykövesd
 
-## Zádor
+## 1.83. Zádor
 
-## Zaláta
+## 1.84. Zaláta
 
-## Bács-Kiskun megye
+## 2. Bács-Kiskun megye
 
-## Balotaszállás
+## 2.1. Balotaszállás
 
-## Bácsalmás
+## 2.2. Bácsalmás
 
-## Bácsbokod
+## 2.3. Bácsbokod
 
-## Bácsborsód
+## 2.4. Bácsborsód
 
-## Bácsszentgyörgy
+## 2.5. Bácsszentgyörgy
 
-## Bácsszőlős
+## 2.6. Bácsszőlős
 
-## Bátmonostor
+## 2.7. Bátmonostor
 
-## Csátalja
+## 2.8. Csátalja
 
-## Csikéria
+## 2.9. Csikéria
 
-## Dávod
+## 2.10. Dávod
 
-## Dunafalva
+## 2.11. Dunafalva
 
-## Gara
+## 2.12. Gara
 
-## Hercegszántó
+## 2.13. Hercegszántó
 
-## Katymár
+## 2.14. Katymár
 
-## Kelebia
+## 2.15. Kelebia
 
-## Kisszállás
+## 2.16. Kisszállás
 
-## Kunbaja
+## 2.17. Kunbaja
 
-## Madaras
+## 2.18. Madaras
 
-## Mátételke
+## 2.19. Mátételke
 
-## Mélykút
+## 2.20. Mélykút
 
-## Nagybaracska
+## 2.21. Nagybaracska
 
-## Tataháza
+## 2.22. Tataháza
 
-## Tompa
+## 2.23. Tompa
 
-## Vaskút
+## 2.24. Vaskút
 
-## Békés megye
+## 3. Békés megye
 
-## Almáskamarás
+## 3.1. Almáskamarás
 
-## Battonya
+## 3.2. Battonya
 
-## Biharugra
+## 3.3. Biharugra
 
-## Doboz
+## 3.4. Doboz
 
-## Dombegyház
+## 3.5. Dombegyház
 
-## Dombiratos
+## 3.6. Dombiratos
 
-## Elek
+## 3.7. Elek
 
-## Geszt
+## 3.8. Geszt
 
-## Gyula
+## 3.9. Gyula
 
-## Kaszaper
+## 3.10. Kaszaper
 
-## Kétegyháza
+## 3.11. Kétegyháza
 
-## Kevermes
+## 3.12. Kevermes
 
-## Kisdombegyház
+## 3.13. Kisdombegyház
 
-## Körösnagyharsány
+## 3.14. Körösnagyharsány
 
-## Kőrösújfalu
+## 3.15. Kőrösújfalu
 
-## Kötegyán
+## 3.16. Kötegyán
 
-## Kunágota
+## 3.17. Kunágota
 
-## Lőkösháza
+## 3.18. Lőkösháza
 
-## Magyarbánhegyes
+## 3.19. Magyarbánhegyes
 
-## Magyardombegyház
+## 3.20. Magyardombegyház
 
-## Medgyesegyháza
+## 3.21. Medgyesegyháza
 
-## Méhkerék
+## 3.22. Méhkerék
 
-## Mezőgyán
+## 3.23. Mezőgyán
 
-## Mezőhegyes
+## 3.24. Mezőhegyes
 
-## Mezőkovácsháza
+## 3.25. Mezőkovácsháza
 
-## Nagybánhegyes
+## 3.26. Nagybánhegyes
 
-## Nagykamarás
+## 3.27. Nagykamarás
 
-## Okány
+## 3.28. Okány
 
-## Pusztaottlaka
+## 3.29. Pusztaottlaka
 
-## Sarkad
+## 3.30. Sarkad
 
-## Sarkadkeresztúr
+## 3.31. Sarkadkeresztúr
 
-## Szabadkígyós
+## 3.32. Szabadkígyós
 
-## Tótkomlós
+## 3.33. Tótkomlós
 
-## Újszalonta
+## 3.34. Újszalonta
 
-## Végegyháza
+## 3.35. Végegyháza
 
-## Zsadány
+## 3.36. Zsadány
 
-## Borsod-Abaúj-Zemplén megye
+## 4. Borsod-Abaúj-Zemplén megye
 
-## Abaújvár
+## 4.1. Abaújvár
 
-## Aggtelek
+## 4.2. Aggtelek
 
-## Alsóberecki
+## 4.3. Alsóberecki
 
-## Alsóregmec
+## 4.4. Alsóregmec
 
-## Alsószuha
+## 4.5. Alsószuha
 
-## Arló
+## 4.6. Arló
 
-## Bánréve
+## 4.7. Bánréve
 
-## Becskeháza
+## 4.8. Becskeháza
 
-## Bodroghalom
+## 4.9. Bodroghalom
 
-## Bodrogolaszi
+## 4.10. Bodrogolaszi
 
-## Bódvalenke
+## 4.11. Bódvalenke
 
-## Bódvarákó
+## 4.12. Bódvarákó
 
-## Bódvaszilas
+## 4.13. Bódvaszilas
 
-## Borsodnádasd
+## 4.14. Borsodnádasd
 
-## Borsodszentgyörgy
+## 4.15. Borsodszentgyörgy
 
-## Bózsva
+## 4.16. Bózsva
 
-## Büttös
+## 4.17. Büttös
 
-## Cigánd
+## 4.18. Cigánd
 
-## Csenyéte
+## 4.19. Csenyéte
 
-## Dámóc
+## 4.20. Dámóc
 
-## Debréte
+## 4.21. Debréte
 
-## Domaháza
+## 4.22. Domaháza
 
-## Égerszög
+## 4.23. Égerszög
 
-## Farkaslyuk
+## 4.24. Farkaslyuk
 
-## Fáj
+## 4.25. Fáj
 
-## Felsőberecki
+## 4.26. Felsőberecki
 
-## Felsőgagy
+## 4.27. Felsőgagy
 
-## Felsőregmec
+## 4.28. Felsőregmec
 
-## Filkeháza
+## 4.29. Filkeháza
 
-## Fulókércs
+## 4.30. Fulókércs
 
-## Füzér
+## 4.31. Füzér
 
-## Füzérkajata
+## 4.32. Füzérkajata
 
-## Füzérkomlós
+## 4.33. Füzérkomlós
 
-## Füzérradvány
+## 4.34. Füzérradvány
 
-## Gagyvendégi
+## 4.35. Gagyvendégi
 
-## Gömörszőlős
+## 4.36. Gömörszőlős
 
-## Gönc
+## 4.37. Gönc
 
-## Göncruszka
+## 4.38. Göncruszka
 
-## Györgytarló
+## 4.39. Györgytarló
 
-## Hangony
+## 4.40. Hangony
 
-## Hercegkút
+## 4.41. Hercegkút
 
-## Hernádpetri
+## 4.42. Hernádpetri
 
-## Hernádszurdok
+## 4.43. Hernádszurdok
 
-## Hernádvécse
+## 4.44. Hernádvécse
 
-## Hét
+## 4.45. Hét
 
-## Hidasnémeti
+## 4.46. Hidasnémeti
 
-## Hidvégardó
+## 4.47. Hidvégardó
 
-## Hollóháza
+## 4.48. Hollóháza
 
-## Imola
+## 4.49. Imola
 
-## Járdánháza
+## 4.50. Járdánháza
 
-## Jósvafő
+## 4.51. Jósvafő
 
-## Kánó
+## 4.52. Kánó
 
-## Kány
+## 4.53. Kány
 
-## Karcsa
+## 4.54. Karcsa
 
-## Karos
+## 4.55. Karos
 
-## Kéked
+## 4.56. Kéked
 
-## Kelemér
+## 4.57. Kelemér
 
-## Keresztéte
+## 4.58. Keresztéte
 
-## Királd
+## 4.59. Királd
 
-## Kishuta
+## 4.60. Kishuta
 
-## Kisrozvágy
+## 4.61. Kisrozvágy
 
-## Kissikátor
+## 4.62. Kissikátor
 
-## Komjáti
+## 4.63. Komjáti
 
-## Kovácsvágás
+## 4.64. Kovácsvágás
 
-## Krasznokvajda
+## 4.65. Krasznokvajda
 
-## Lácacséke
+## 4.66. Lácacséke
 
-## Litka
+## 4.67. Litka
 
-## Makkoshotyka
+## 4.68. Makkoshotyka
 
-## Martonyi
+## 4.69. Martonyi
 
-## Mikóháza
+## 4.70. Mikóháza
 
-## Nagyhuta
+## 4.71. Nagyhuta
 
-## Nagyrozvágy
+## 4.72. Nagyrozvágy
 
-## Nyíri
+## 4.73. Nyíri
 
-## Ózd
+## 4.74. Ózd
 
-## Pácin
+## 4.75. Pácin
 
-## Pálháza
+## 4.76. Pálháza
 
-## Pamlény
+## 4.77. Pamlény
 
-## Pányok
+## 4.78. Pányok
 
-## Perecse
+## 4.79. Perecse
 
-## Perkupa
+## 4.80. Perkupa
 
-## Pusztafalu
+## 4.81. Pusztafalu
 
-## Pusztaradvány
+## 4.82. Pusztaradvány
 
-## Putnok
+## 4.83. Putnok
 
-## Ragály
+## 4.84. Ragály
 
-## Révleányvár
+## 4.85. Révleányvár
 
-## Ricse
+## 4.86. Ricse
 
-## Sajómercse
+## 4.87. Sajómercse
 
-## Sajónémeti
+## 4.88. Sajónémeti
 
-## Sajópüspöki
+## 4.89. Sajópüspöki
 
-## Sajóvelezd
+## 4.90. Sajóvelezd
 
-## Sárazsadány
+## 4.91. Sárazsadány
 
-## Sárospatak
+## 4.92. Sárospatak
 
-## Sátoraljaújhely
+## 4.93. Sátoraljaújhely
 
-## Semjén
+## 4.94. Semjén
 
-## Serényfalva
+## 4.95. Serényfalva
 
-## Szalonna
+## 4.96. Szalonna
 
-## Szászfa
+## 4.97. Szászfa
 
-## Szemere
+## 4.98. Szemere
 
-## Szin
+## 4.99. Szin
 
-## Szinpetri
+## 4.100. Szinpetri
 
-## Szögliget
+## 4.101. Szögliget
 
-## Szőlősardó
+## 4.102. Szőlősardó
 
-## Szuhafő
+## 4.103. Szuhafő
 
-## Telkibánya
+## 4.104. Telkibánya
 
-## Teresztenye
+## 4.105. Teresztenye
 
-## Tiszacsermely
+## 4.106. Tiszacsermely
 
-## Tiszakarád
+## 4.107. Tiszakarád
 
-## Tornabarakony
+## 4.108. Tornabarakony
 
-## Tornakápolna
+## 4.109. Tornakápolna
 
-## Tornanádaska
+## 4.110. Tornanádaska
 
-## Tornaszentandrás
+## 4.111. Tornaszentandrás
 
-## Tornaszentjakab
+## 4.112. Tornaszentjakab
 
-## Tornyosnémeti
+## 4.113. Tornyosnémeti
 
-## Trizs
+## 4.114. Trizs
 
-## Vágáshuta
+## 4.115. Vágáshuta
 
-## Vajdácska
+## 4.116. Vajdácska
 
-## Varbóc
+## 4.117. Varbóc
 
-## Vilyvitány
+## 4.118. Vilyvitány
 
-## Viszló
+## 4.119. Viszló
 
-## Zádorfalva
+## 4.120. Zádorfalva
 
-## Zemplénagárd
+## 4.121. Zemplénagárd
 
-## Zsujta
+## 4.122. Zsujta
 
-## Csongrád megye
+## 5. Csongrád megye
 
-## Ambrózfalva
+## 5.1. Ambrózfalva
 
-## Apátfalva
+## 5.2. Apátfalva
 
-## Ásotthalom
+## 5.3. Ásotthalom
 
-## Csanádalberti
+## 5.4. Csanádalberti
 
-## Csanádpalota
+## 5.5. Csanádpalota
 
-## Deszk
+## 5.6. Deszk
 
-## Domaszék
+## 5.7. Domaszék
 
-## Ferencszállás
+## 5.8. Ferencszállás
 
-## Királyhegyes
+## 5.9. Királyhegyes
 
-## Kiszombor
+## 5.10. Kiszombor
 
-## Klárafalva
+## 5.11. Klárafalva
 
-## Kövegy
+## 5.12. Kövegy
 
-## Kübekháza
+## 5.13. Kübekháza
 
-## Magyarcsanád
+## 5.14. Magyarcsanád
 
-## Makó
+## 5.15. Makó
 
-## Maroslele
+## 5.16. Maroslele
 
-## Mórahalom
+## 5.17. Mórahalom
 
-## Nagyér
+## 5.18. Nagyér
 
-## Nagylak
+## 5.19. Nagylak
 
-## Öttömös
+## 5.20. Öttömös
 
-## Pitvaros
+## 5.21. Pitvaros
 
-## Röszke
+## 5.22. Röszke
 
-## Ruzsa
+## 5.23. Ruzsa
 
-## Szeged
+## 5.24. Szeged
 
-## Tiszasziget
+## 5.25. Tiszasziget
 
-## Újszentiván
+## 5.26. Újszentiván
 
-## Zákányszék
+## 5.27. Zákányszék
 
-## Győr-Moson-Sopron megye
+## 6. Győr-Moson-Sopron megye
 
-## Abda
+## 6.1. Abda
 
-## Acsalag
+## 6.2. Acsalag
 
-## Ágfalva
+## 6.3. Ágfalva
 
-## Agyagosszergény
+## 6.4. Agyagosszergény
 
-## Ásványráró
+## 6.5. Ásványráró
 
-## Babót
+## 6.6. Babót
 
-## Barbacs
+## 6.7. Barbacs
 
-## Bezenye
+## 6.8. Bezenye
 
-## Bezi
+## 6.9. Bezi
 
-## Börcs
+## 6.10. Böres
 
-## Bőny
+## 6.11. Bőny
 
-## Bősárkány
+## 6.12. Bősárkány
 
-## Cakóháza
+## 6.13. Cakóháza
 
-## Csorna
+## 6.14. Csorna
 
-## Darnózseli
+## 6.15. Darnózseli
 
-## Dör
+## 6.16. Dör
 
-## Dunakiliti
+## 6.17. Dunakiliti
 
-## Dunaremete
+## 6.18. Dunaremete
 
-## Dunaszeg
+## 6.19. Dunaszeg
 
-## Dunaszentpál
+## 6.20. Dunaszentpál
 
-## Dunasziget
+## 6.21. Dunasziget
 
-## Ebergőc
+## 6.22. Ebergőc
 
-## Egyházasfalu
+## 6.23. Egyházasfalu
 
-## Enese
+## 6.24. Enese
 
-## Farád
+## 6.25. Farád
 
-## Fehértó
+## 6.26. Fehértó
 
-## Feketeerdő
+## 6.27. Feketeerdő
 
-## Fertőboz
+## 6.28. Fertőboz
 
-## Fertőd
+## 6.29. Fertőd
 
-## Fertőendréd
+## 6.30. Fertőendréd
 
-## Fertőhomok
+## 6.31. Fertőhomok
 
-## Fertőrákos
+## 6.32. Fertőrákos
 
-## Fertőszentmiklós
+## 6.33. Fertőszentmiklós
 
-## Fertőszéplak
+## 6.34. Fertőszéplak
 
-## Gönyű
+## 6.35. Gönyű
 
-## Gyalóka
+## 6.36. Gyalóka
 
-## Győr
+## 6.37. Győr
 
-## Győrladamér
+## 6.38. Győrladamér
 
-## Győrsövényház
+## 6.39. Győrsövényház
 
-## Győrújfalu
+## 6.40. Győrújfalu
 
-## Győrzámoly
+## 6.41. Győrzámoly
 
-## Halászi
+## 6.42. Halászi
 
-## Harka
+## 6.43. Harka
 
-## Hédervár
+## 6.44. Hédervár
 
-## Hegyeshalom
+## 6.45. Hegyeshalom
 
-## Hegykő
+## 6.46. Hegykő
 
-## Hidegség
+## 6.47. Hidegség
 
-## Ikrény
+## 6.48. Ikrény
 
-## Jánossomorja
+## 6.49. Jánossomorja
 
-## Kapuvár
+## 6.50. Kapuvár
 
-## Kimle
+## 6.51. Kimle
 
-## Kisbajcs
+## 6.52. Kisbajcs
 
-## Kisbodak
+## 6.53. Kisbodak
 
-## Kóny
+## 6.54. Kóny
 
-## Kópháza
+## 6.55. Kópháza
 
-## Kunsziget
+## 6.56. Kunsziget
 
-## Levél
+## 6.57. Levél
 
-## Lébény
+## 6.58. Lébény
 
-## Lipót
+## 6.59. Lipót
 
-## Lövő
+## 6.60. Lövő
 
-## Maglóca
+## 6.61. Maglóca
 
-## Markotabödöge
+## 6.62. Markotabödöge
 
-## Máriakálnok
+## 6.63. Máriakálnok
 
-## Mecsér
+## 6.64. Mecsér
 
-## Mosonmagyaróvár
+## 6.65. Mosonmagyaróvár
 
-## Mosonszentmiklós
+## 6.66. Mosonszentmiklós
 
-## Mosonszolnok
+## 6.67. Mosonszolnok
 
-## Nagybajcs
+## [6.67/A.[^9] Mosonudvar]
 
-## Nagycenk
+## 6.68. Nagybajcs
 
-## Nagylózs
+## 6.69. Nagycenk
 
-## Nagyszentjános
+## 6.70. Nagylózs
 
-## Nemeskér
+## 6.71. Nagyszentjános
 
-## Osli
+## 6.72. Nemeskér
 
-## Öttevény
+## 6.73. Osli
 
-## Pereszteg
+## 6.74. Öttevény
 
-## Petőháza
+## 6.75. Pereszteg
 
-## Pinnye
+## 6.76. Petőháza
 
-## Püski
+## 6.77. Pinnye
 
-## Rábapatona
+## 6.78. Püski
 
-## Rábatamási
+## 6.79. Rábapatona
 
-## Rajka
+## 6.80. Rábatamási
 
-## Répcevis
+## 6.81. Rajka
 
-## Röjtökmuzsaj
+## 6.82. Répcevis
 
-## Sarród
+## 6.83. Röjtökmuzsaj
 
-## Sopron
+## 6.84. Sarród
 
-## Sopronhorpács
+## 6.85. Sopron
 
-## Sopronkövesd
+## 6.86. Sopronhorpács
 
-## Szakony
+## 6.87. Sopronkövesd
 
-## Szárföld
+## 6.88. Szakony
 
-## Tárnokréti
+## 6.89. Szárföld
 
-## Újrónafő
+## 6.90. Tárnokréti
 
-## Und
+## 6.91. Újrónafő
 
-## Vámosszabadi
+## 6.92. Und
 
-## Várbalog
+## 6.93. Vámosszabadi
 
-## Vének
+## 6.94. Várbalog
 
-## Veszkény
+## 6.95. Vének
 
-## Vitnyéd
+## 6.96. Veszkény
 
-## Völcsej
+## 6.97. Vitnyéd
 
-## Zsira
+## 6.98. Völcsej
 
-## Hajdú-Bihar megye
+## 6.99. Zsira
 
-## Álmosd
+## 7. Hajdú-Bihar megye
 
-## Ártánd
+## 7.1. Álmosd
 
-## Bagamér
+## 7.2. Ártánd
 
-## Bedő
+## 7.3. Bagamér
 
-## Berekböszörmény
+## 7.4. Bedő
 
-## Berettyóújfalu
+## 7.5. Berekböszörmény
 
-## Biharkeresztes
+## 7.6. Berettyóújfalu
 
-## Bojt
+## 7.7. Biharkeresztes
 
-## Debrecen
+## 7.8. Bojt
 
-## Derecske
+## 7.9. Debrecen
 
-## Esztár
+## 7.10. Derecske
 
-## Fülöp
+## 7.11. Esztár
 
-## Gáborján
+## 7.12. Fülöp
 
-## Hajdúbagos
+## 7.13. Gáborján
 
-## Hajdúsámson
+## 7.14. Hajdúbagos
 
-## Hencida
+## 7.15. Hajdúsámson
 
-## Hosszúpályi
+## 7.16. Hencida
 
-## Kismarja
+## 7.17. Hosszúpályi
 
-## Kokad
+## 7.18. Kismarja
 
-## Komádi
+## 7.19. Kokad
 
-## Konyár
+## 7.20. Komádi
 
-## Körösszakál
+## 7.21. Konyár
 
-## Körösszegapáti
+## 7.22. Körösszakál
 
-## Létavértes
+## 7.23. Körösszegapáti
 
-## Magyarhomorog
+## 7.24. Létavértes
 
-## Mezőpeterd
+## 7.25. Magyarhomorog
 
-## Mezősas
+## 7.26. Mezőpeterd
 
-## Mikepércs
+## 7.27. Mezősas
 
-## Monostorpályi
+## 7.28. Mikepércs
 
-## Nagykereki
+## 7.29. Monostorpályi
 
-## Nyírábrány
+## 7.30. Nagykereki
 
-## Nyíracsád
+## 7.31. Nyírábrány
 
-## Nyíradony
+## 7.32. Nyíracsád
 
-## Nyírmártonfalva
+## 7.33. Nyíradony
 
-## Pocsaj
+## 7.34. Nyírmártonfalva
 
-## Sáránd
+## 7.35. Pocsaj
 
-## Szentpéterszeg
+## 7.36. Sáránd
 
-## Tépe
+## 7.37. Szentpéterszeg
 
-## Told
+## 7.38. Tépe
 
-## Újléta
+## 7.39. Told
 
-## Vámospércs
+## 7.40. Újléta
 
-## Váncsod
+## 7.41. Vámospércs
 
-## Komárom-Esztergom megye
+## 7.42. Váncsod
 
-## Ács
+## 8. Komárom-Esztergom megye
 
-## Almásfüzitő
+## 8.1. Ács
 
-## Baj
+## 8.2. Almásfüzitő
 
-## Bajót
+## 8.3. Baj
 
-## Bana
+## 8.4. Bajót
 
-## Bábolna
+## 8.5. Bana
 
-## Csolnok
+## 8.6. Bábolna
 
-## Dorog
+## 8.7. Csolnok
 
-## Dömös
+## 8.8. Dorog
 
-## Dunaalmás
+## 8.9. Dömös
 
-## Dunaszentmiklós
+## 8.10. Dunaalmás
 
-## Esztergom
+## 8.11. Dunaszentmiklós
 
-## Kisigmánd
+## 8.12. Esztergom
 
-## Kesztölc
+## 8.13. Kisigmánd
 
-## Kocs
+## 8.14. Kesztölc
 
-## Komárom
+## 8.15. Kocs
 
-## Lábatlan
+## 8.16. Komárom
 
-## Mocsa
+## 8.17. Lábatlan
 
-## Mogyorósbánya
+## 8.18. Mocsa
 
-## Nagysáp
+## 8.19. Mogyorósbánya
 
-## Naszály
+## 8.20. Nagysáp
 
-## Neszmély
+## 8.21. Naszály
 
-## Nyergesújfalu
+## 8.22. Neszmély
 
-## Pilismarót
+## 8.23. Nyergesújfalu
 
-## Sárisáp
+## 8.24. Pilismarót
 
-## Süttő
+## 8.25. Sárisáp
 
-## Szomód
+## 8.26. Süttő
 
-## Tata
+## 8.27. Szomód
 
-## Tardos
+## 8.28. Tata
 
-## Tát
+## 8.29. Tardos
 
-## Tokod
+## 8.30. Tát
 
-## Nógrád megye
+## 8.31. Tokod
 
-## Balassagyarmat
+## 9. Nógrád megye
 
-## Bárna
+## 9.1. Balassagyarmat
 
-## Borsosberény
+## 9.2. Bárna
 
-## Cered
+## 9.3. Borsosberény
 
-## Csesztve
+## 9.4. Cered
 
-## Csitár
+## 9.5. Csesztve
 
-## Debercsény
+## 9.6. Csitár
 
-## Dejtár
+## 9.7. Debercsény
 
-## Diósjenő
+## 9.8. Dejtár
 
-## Drégelypalánk
+## 9.9. Diósjenő
 
-## Egyházasgerge
+## 9.10. Drégelypalánk
 
-## Endrefalva
+## 9.11. Egyházasgerge
 
-## Érsekvadkert
+## 9.12. Endrefalva
 
-## Etes
+## 9.13. Érsekvadkert
 
-## Hollókő
+## 9.14. Etes
 
-## Hont
+## 9.15. Hollókő
 
-## Horpács
+## 9.16. Hont
 
-## Hugyag
+## 9.17. Horpács
 
-## Iliny
+## 9.18. Hugyag
 
-## Ipolyszög
+## 9.19. Iliny
 
-## Ipolytarnóc
+## 9.20. Ipolyszög
 
-## Ipolyvece
+## 9.21. Ipolytarnóc
 
-## Karancsalja
+## 9.22. Ipolyvece
 
-## Karancsberény
+## 9.23. Karancsalja
 
-## Karancskeszi
+## 9.24. Karancsberény
 
-## Karancslapujtő
+## 9.25. Karancskeszi
 
-## Karancsság
+## 9.26. Karancslapujtő
 
-## Kazár
+## 9.27. Karancsság
 
-## Litke
+## 9.28. Kazár
 
-## Ludányhalászi
+## 9.29. Litke
 
-## Magyargéc
+## 9.30. Ludányhalászi
 
-## Magyarnándor
+## 9.31. Magyargéc
 
-## Mátraszele
+## 9.32. Magyarnándor
 
-## Mihálygerge
+## 9.33. Mátraszele
 
-## Mohora
+## 9.34. Mihálygerge
 
-## Nagylóc
+## 9.35. Mohora
 
-## Nagyoroszi
+## 9.36. Nagylóc
 
-## Nógrádmarcal
+## 9.37. Nagyoroszi
 
-## Nógrádmegyer
+## 9.38. Nógrádmarcal
 
-## Nógrádsipek
+## 9.39. Nógrádmegyer
 
-## Nógrádszakál
+## 9.40. Nógrádsipek
 
-## Őrhalom
+## 9.41. Nógrádszakál
 
-## Patak
+## 9.42. Őrhalom
 
-## Patvarc
+## 9.43. Patak
 
-## Piliny
+## 9.44. Patvarc
 
-## Pusztaberki
+## 9.45. Piliny
 
-## Rimóc
+## 9.46. Pusztaberki
 
-## Salgótarján
+## 9.47. Rimóc
 
-## Ságújfalu
+## 9.48. Salgótarján
 
-## Somoskőújfalu
+## 9.49. Ságújfalu
 
-## Szalmatercs
+## 9.50. Somoskőújfalu
 
-## Szátok
+## 9.51. Szalmatercs
 
-## Szécsény
+## 9.52. Szátok
 
-## Szécsényfelfalu
+## 9.53. Szécsény
 
-## Szilaspogony
+## 9.54. Szécsényfelfalu
 
-## Szügy
+## 9.55. Szilaspogony
 
-## Tereske
+## 9.56. Szügy
 
-## Varsány
+## 9.57. Tereske
 
-## Zabar
+## 9.58. Varsány
 
-## Pest megye
+## 9.59. Zabar
 
-## Bernecebaráti
+## 10. Pest megye
 
-## Ipolydamásd
+## 10.1. Bernecebaráti
 
-## Ipolytölgyes
+## 10.2. Ipolydamásd
 
-## Kemence
+## 10.3. Ipolytölgyes
 
-## Kóspallag
+## 10.4. Kemence
 
-## Letkés
+## 10.5. Kóspallag
 
-## Márianosztra
+## 10.6. Letkés
 
-## Nagybörzsöny
+## 10.7. Márianosztra
 
-## Perőcsény
+## 10.8. Nagybörzsöny
 
-## Szob
+## 10.9. Perőcsény
 
-## Tésa
+## 10.10. Szob
 
-## Vámosmikola
+## 10.11. Tésa
 
-## Zebegény
+## 10.12. Vámosmikola
 
-## Somogy megye
+## 10.13. Zebegény
 
-## Babócsa
+## 11. Somogy megye
 
-## Bakháza
+## 11.1. Babócsa
 
-## Barcs
+## 11.2. Bakháza
 
-## Bélavár
+## 11.3. Barcs
 
-## Berzence
+## 11.4. Bélavár
 
-## Bolhó
+## 11.5. Berzence
 
-## Csokonyavisonta
+## 11.6. Bolhó
 
-## Csurgó
+## 11.7. Csokonyavisonta
 
-## Csurgónagymarton
+## 11.8. Csurgó
 
-## Darány
+## 11.9. Csurgónagymarton
 
-## Drávagárdony
+## 11.10. Darány
 
-## Drávatamási
+## 11.11. Drávagárdony
 
-## Gyékényes
+## 11.12. Drávatamási
 
-## Háromfa
+## 11.13. Gyékényes
 
-## Heresznye
+## 11.14. Háromfa
 
-## Istvándi
+## 11.15. Heresznye
 
-## Kastélyosdombó
+## 11.16. Istvándi
 
-## Komlósd
+## 11.17. Kastélyosdombó
 
-## Lakócsa
+## 11.18. Komlósd
 
-## Nagyatád
+## 11.19. Lakócsa
 
-## Őrtilos
+## 11.20. Nagyatád
 
-## Péterhida
+## 11.21. Őrtilos
 
-## Porrog
+## 11.22. Péterhida
 
-## Porrogszentkirály
+## 11.23. Porrog
 
-## Porrogszentpál
+## 11.24. Porrogszentkirály
 
-## Potony
+## 11.25. Porrogszentpál
 
-## Rinyaújlak
+## 11.26. Potony
 
-## Rinyaújnép
+## 11.27. Rinyaújlak
 
-## Somogyaracs
+## 11.28. Rinyaújnép
 
-## Somogybükkösd
+## 11.29. Somogyaracs
 
-## Somogyudvarhely
+## 11.30. Somogybükkösd
 
-## Szenta
+## 11.31. Somogyudvarhely
 
-## Szentborbás
+## 11.32. Szenta
 
-## Szulok
+## 11.33. Szentborbás
 
-## Tarany
+## 11.34. Szulok
 
-## Tótújfalu
+## 11.35. Tarany
 
-## Vízvár
+## 11.36. Tótújfalu
 
-## Zákány
+## 11.37. Vízvár
 
-## Zákányfalu
+## 11.38. Zákány
 
-## Szabolcs-Szatmár-Bereg megye
+## 11.39. Zákányfalu
 
-## Anarcs
+## 12. Szabolcs-Szatmár-Bereg megye
 
-## Aranyosapáti
+## 12.1. Anarcs
 
-## Barabás
+## 12.2. Aranyosapáti
 
-## Bátorliget
+## 12.3. Barabás
 
-## Benk
+## 12.4. Bátorliget
 
-## Beregdaróc
+## 12.5. Benk
 
-## Beregsurány
+## 12.6. Beregdaróc
 
-## Botpalád
+## 12.7. Beregsurány
 
-## Cégénydányád
+## 12.8. Botpalád
 
-## Csaholc
+## 12.9. Cégénydányád
 
-## Csaroda
+## 12.10. Csaholc
 
-## Császló
+## 12.11. Csaroda
 
-## Csegöld
+## 12.12. Császló
 
-## Csenger
+## 12.13. Csegöld
 
-## Csengersima
+## 12.14. Csenger
 
-## Csengerújfalu
+## 12.15. Csengersima
 
-## Darnó
+## 12.16. Csengerújfalu
 
-## Dombrád
+## 12.17. Darnó
 
-## Döge
+## 12.18. Dombrád
 
-## Encsencs
+## 12.19. Döge
 
-## Eperjeske
+## 12.20. Encsencs
 
-## Fábiánháza
+## 12.21. Eperjeske
 
-## Fehérgyarmat
+## 12.22. Fábiánháza
 
-## Fényeslitke
+## 12.23. Fehérgyarmat
 
-## Fülesd
+## 12.24. Fényeslitke
 
-## Fülpösdaróc
+## 12.25. Fülesd
 
-## Gacsály
+## 12.26. Fülpösdaróc
 
-## Garbolc
+## 12.27. Gacsály
 
-## Géberjén
+## 12.28. Garbolc
 
-## Gelénes
+## 12.29. Géberjén
 
-## Gemzse
+## 12.30. Gelénes
 
-## Gulács
+## 12.31. Gemzse
 
-## Győröcske
+## 12.32. Gulács
 
-## Győrtelek
+## 12.33. Győröcske
 
-## Gyügye
+## 12.34. Győrtelek
 
-## Gyüre
+## 12.35. Gyügye
 
-## Hermánszeg
+## 12.36. Gyüre
 
-## Hetefejércse
+## 12.37. Hermánszeg
 
-## Ilk
+## 12.38. Hetefejércse
 
-## Jánd
+## 12.39. Ilk
 
-## Jánkmajtis
+## 12.40. Jánd
 
-## Jéke
+## 12.41. Jánkmajtis
 
-## Kékcse
+## 12.42. Jéke
 
-## Kérsemjén
+## 12.43. Kékcse
 
-## Kisar
+## 12.44. Kérsemjén
 
-## Kishódos
+## 12.45. Kisar
 
-## Kisnamény
+## 12.46. Kishódos
 
-## Kispalád
+## 12.47. Kisnamény
 
-## Kisvarsány
+## 12.48. Kispalád
 
-## Kisszekeres
+## 12.49. Kisvarsány
 
-## Kisvárda
+## 12.50. Kisszekeres
 
-## Kocsord
+## 12.51. Kisvárda
 
-## Komlódtótfalu
+## 12.52. Kocsord
 
-## Komoró
+## 12.53. Komlódtótfalu
 
-## Kölcse
+## 12.54. Komoró
 
-## Kömörő
+## 12.55. Kölcse
 
-## Lónya
+## 12.56. Kömörő
 
-## Lövőpetri
+## 12.57. Lónya
 
-## Magosliget
+## 12.58. Lövőpetri
 
-## Mánd
+## 12.59. Magosliget
 
-## Mándok
+## 12.60. Mánd
 
-## Márokpapi
+## 12.61. Mándok
 
-## Mátészalka
+## 12.62. Márokpapi
 
-## Mátyus
+## 12.63. Mátészalka
 
-## Méhtelek
+## 12.64. Mátyus
 
-## Mérk
+## 12.65. Méhtelek
 
-## Mezőladány
+## 12.66. Mérk
 
-## Milota
+## 12.67. Mezőladány
 
-## Nábrád
+## 12.68. Milota
 
-## Nagyar
+## 12.69. Nábrád
 
-## Nagydobos
+## 12.70. Nagyar
 
-## Nagyecsed
+## 12.71. Nagydobos
 
-## Nagyhódos
+## 12.72. Nagyecsed
 
-## Nagyszekeres
+## 12.73. Nagyhódos
 
-## Nagyvarsány
+## 12.74. Nagyszekeres
 
-## Nemesborzova
+## 12.75. Nagyvarsány
 
-## Nyírbátor
+## 12.76. Nemesborzova
 
-## Nyírbéltek
+## 12.77. Nyírbátor
 
-## Nyírbogát
+## 12.78. Nyírbéltek
 
-## Nyírcsaholy
+## 12.79. Nyírbogát
 
-## Nyírcsászári
+## 12.80. Nyírcsaholy
 
-## Nyírkáta
+## 12.81. Nyírcsászári
 
-## Nyírlövő
+## 12.82. Nyírkáta
 
-## Nyírlugos
+## 12.83. Nyírlövő
 
-## Nyírmeggyes
+## 12.84. Nyírlugos
 
-## Nyírmihálydi
+## 12.85. Nyírmeggyes
 
-## Nyírpilis
+## 12.86. Nyírmihálydi
 
-## Nyírvasvári
+## 12.87. Nyírpilis
 
-## Olcsva
+## 12.88. Nyírvasvári
 
-## Olcsvaapáti
+## 12.89. Olcsva
 
-## Ópályi
+## 12.90. Olcsvaapáti
 
-## Ököritófülpös
+## 12.91. Ópályi
 
-## Ömböly
+## 12.92. Ököritófülpös
 
-## Panyola
+## 12.93. Ömböly
 
-## Pap
+## 12.94. Panyola
 
-## Pátyod
+## 12.95. Pap
 
-## Penészlek
+## 12.96. Pátyod
 
-## Penyige
+## 12.97. Penészlek
 
-## Piricse
+## 12.98. Penyige
 
-## Porcsalma
+## 12.99. Piricse
 
-## Rápolt
+## 12.100. Porcsalma
 
-## Rozsály
+## 12.101. Rápolt
 
-## Sonkád
+## 12.102. Rozsály
 
-## Szabolcsbáka
+## 12.103. Sonkád
 
-## Szabolcsveresmart
+## 12.104. Szabolcsbáka
 
-## Szamosangyalos
+## 12.105. Szabolcsveresmart
 
-## Szamosbecs
+## 12.106. Szamosangyalos
 
-## Szamoskér
+## 12.107. Szamosbecs
 
-## Szamossályi
+## 12.108. Szamoskér
 
-## Szamostatárfalva
+## 12.109. Szamossályi
 
-## Szamosújlak
+## 12.110. Szamostatárfalva
 
-## Szamosszeg
+## 12.111. Szamosújlak
 
-## Szatmárcseke
+## 12.112. Szamosszeg
 
-## Tákos
+## 12.113. Szatmárcseke
 
-## Tarpa
+## 12.114. Tákos
 
-## Terem
+## 12.115. Tarpa
 
-## Tiborszállás
+## 12.116. Terem
 
-## Tiszaadony
+## 12.117. Tiborszállás
 
-## Tiszabecs
+## 12.118. Tiszaadony
 
-## Tiszabezdéd
+## 12.119. Tiszabecs
 
-## Tiszacsécse
+## 12.120. Tiszabezdéd
 
-## Tiszakanyár
+## 12.121. Tiszacsécse
 
-## Tiszakerecseny
+## 12.122. Tiszakanyár
 
-## Tiszakóród
+## 12.123. Tiszakerecseny
 
-## Tiszamogyorós
+## 12.124. Tiszakóród
 
-## Tiszaszalka
+## 12.125. Tiszamogyorós
 
-## Tiszaszentmárton
+## 12.126. Tiszaszalka
 
-## Tiszavid
+## 12.127. Tiszaszentmárton
 
-## Tisztaberek
+## 12.128. Tiszavid
 
-## Tivadar
+## 12.129. Tisztaberek
 
-## Tornyospálca
+## 12.130. Tivadar
 
-## Tunyogmatolcs
+## 12.131. Tornyospálca
 
-## Túristvándi
+## 12.132. Tunyogmatolcs
 
-## Túrricse
+## 12.133. Túristvándi
 
-## Tuzsér
+## 12.134. Túrricse
 
-## Tyukod
+## 12.135. Tuzsér
 
-## Újkenéz
+## 12.136. Tyukod
 
-## Ura
+## 12.137. Újkenéz
 
-## Uszka
+## 12.138. Ura
 
-## Vállaj
+## 12.139. Uszka
 
-## Vámosatya
+## 12.140. Vállaj
 
-## Vámosoroszi
+## 12.141. Vámosatya
 
-## Vásárosnamény
+## 12.142. Vámosoroszi
 
-## Záhony
+## 12.143. Vásárosnamény
 
-## Zajta
+## 12.144. Záhony
 
-## Zsarolyán
+## 12.145. Zajta
 
-## Zsurk
+## 12.146. Zsarolyán
 
-## Vas megye
+## 12.147. Zsurk
 
-## Alsószölnök
+## 13. Vas megye
 
-## Apátistvánfalva
+## 13.1. Alsószölnök
 
-## Bajánsenye
+## 13.2. Apátistvánfalva
 
-## Balogunyom
+## 13.3. Bajánsenye
 
-## Bozsok
+## 13.4. Balogunyom
 
-## Bucsu
+## 13.5. Bozsok
 
-## Cák
+## 13.6. Bucsu
 
-## Csákánydoroszló
+## 13.7. Cák
 
-## Csörötnek
+## 13.8. Csákánydoroszló
 
-## Daraboshegy
+## 13.9. Csörötnek
 
-## Dozmat
+## 13.10. Daraboshegy
 
-## Egyházasrádóc
+## 13.11. Dozmat
 
-## Felsőcsatár
+## 13.12. Egyházasrádóc
 
-## Felsőmarác
+## 13.13. Felsőcsatár
 
-## Felsőszölnök
+## 13.14. Felsőmarác
 
-## Gasztony
+## 13.15. Felsőszölnök
 
-## Gencsapáti
+## 13.16. Gasztony
 
-## Gyöngyösfalu
+## 13.17. Gencsapáti
 
-## Halogy
+## 13.18. Gyöngyösfalu
 
-## Harasztifalu
+## 13.19. Halogy
 
-## Hegyhátszentjakab
+## 13.20. Harasztifalu
 
-## Hegyhátszentmárton
+## 13.21. Hegyhátszentjakab
 
-## Horvátlövő
+## 13.22. Hegyhátszentmárton
 
-## Horvátzsidány
+## 13.23. Horvátlövő
 
-## Ispánk
+## 13.24. Horvátzsidány
 
-## Ivánc
+## 13.25. Ispánk
 
-## Ják
+## 13.26. Ivánc
 
-## Kemestaródfa
+## 13.27. Ják
 
-## Kercaszomor
+## 13.28. Kemestaródfa
 
-## Kerkáskápolna
+## 13.29. Kercaszomor
 
-## Kétvölgy
+## 13.30. Kerkáskápolna
 
-## Kisrákos
+## 13.31. Kétvölgy
 
-## Kisunyom
+## 13.32. Kisrákos
 
-## Kiszsidány
+## 13.33. Kisunyom
 
-## Kondorfa
+## 13.34. Kiszsidány
 
-## Körmend
+## 13.35. Kondorfa
 
-## Kőszeg
+## 13.36. Körmend
 
-## Kőszegdoroszló
+## 13.37. Kőszeg
 
-## Kőszegszerdahely
+## 13.38. Kőszegdoroszló
 
-## Lukácsháza
+## 13.39. Kőszegszerdahely
 
-## Magyarlak
+## 13.40. Lukácsháza
 
-## Magyarnádalja
+## 13.41. Magyarlak
 
-## Magyarszecsőd
+## 13.42. Magyarnádalja
 
-## Magyarszombatfa
+## 13.43. Magyarszecsőd
 
-## Nagykölked
+## 13.44. Magyarszombatfa
 
-## Nagyrákos
+## 13.45. Nagykölked
 
-## Nádasd
+## 13.46. Nagyrákos
 
-## Nárai
+## 13.47. Nádasd
 
-## Narda
+## 13.48. Nárai
 
-## Nemescsó
+## 13.49. Narda
 
-## Nemesmedves
+## 13.50. Nemescsó
 
-## Ólmod
+## 13.51. Nemesmedves
 
-## Orfalu
+## 13.52. Ólmod
 
-## Őrimagyarósd
+## 13.53. Orfalu
 
-## Őriszentpéter
+## 13.54. Őrimagyarósd
 
-## Pankasz
+## 13.55. Őriszentpéter
 
-## Perenye
+## 13.56. Pankasz
 
-## Peresznye
+## 13.57. Perenye
 
-## Pinkamindszent
+## 13.58. Peresznye
 
-## Pornóapáti
+## 13.59. Pinkamindszent
 
-## Pusztacsó
+## 13.60. Pornóapáti
 
-## Rábagyarmat
+## 13.61. Pusztacsó
 
-## Rátót
+## 13.62. Rábagyarmat
 
-## Rádóckölked
+## 13.63. Rátót
 
-## Rönök
+## 13.64. Rádóckölked
 
-## Sé
+## 13.65. Rönök
 
-## Szaknyér
+## 13.66. Sé
 
-## Szakonyfalu
+## 13.67. Szaknyér
 
-## Szalafő
+## 13.68. Szakonyfalu
 
-## Szatta
+## 13.69. Szalafő
 
-## Szentgotthárd
+## 13.70. Szatta
 
-## Szentpéterfa
+## 13.71. Szentgotthárd
 
-## Szombathely
+## 13.72. Szentpéterfa
 
-## Szőce
+## 13.73. Szombathely
 
-## Torony
+## 13.74. Szőce
 
-## Vasalja
+## 13.75. Torony
 
-## Vaskeresztes
+## 13.76. Vasalja
 
-## Vasszentmihály
+## 13.77. Vaskeresztes
 
-## Velem
+## 13.78. Vasszentmihály
 
-## Velemér
+## 13.79. Velem
 
-## Viszák
+## 13.80. Velemér
 
-## Zala megye
+## 13.81. Viszák
 
-## Alsószenterzsébet
+## 14. Zala megye
 
-## Baglad
+## 14.1. Alsószenterzsébet
 
-## Bánokszentgyörgy
+## 14.2. Baglad
 
-## Bázakerettye
+## 14.3. Bánokszentgyörgy
 
-## Becsehely
+## 14.4. Bázakerettye
 
-## Belezna
+## 14.5. Becsehely
 
-## Belsősárd
+## 14.6. Belezna
 
-## Borsfa
+## 14.7. Belsősárd
 
-## Bödeháza
+## 14.8. Borsfa
 
-## Csertalakos
+## 14.9. Bödeháza
 
-## Csesztreg
+## 14.10. Csertalakos
 
-## Csömödér
+## 14.11. Csesztreg
 
-## Csörnyeföld
+## 14.12. Csömödér
 
-## Dobri
+## 14.13. Csörnyeföld
 
-## Eszteregnye
+## 14.14. Dobri
 
-## Felsőszenterzsébet
+## 14.15. Eszteregnye
 
-## Fityeház
+## 14.16. Felsőszenterzsébet
 
-## Gáborjánháza
+## 14.17. Fityeház
 
-## Gosztola
+## 14.18. Gáborjánháza
 
-## Hernyék
+## 14.19. Gosztola
 
-## Iklódbördőce
+## 14.20. Hernyék
 
-## Kányavár
+## 14.21. Iklódbördőce
 
-## Kálócfa
+## 14.22. Kányavár
 
-## Kerkabarabás
+## 14.23. Kálócfa
 
-## Kerkafalva
+## 14.24. Kerkabarabás
 
-## Kerkakutas
+## 14.25. Kerkafalva
 
-## Kerkaszentkirály
+## 14.26. Kerkakutas
 
-## Kerkateskánd
+## 14.27. Kerkaszentkirály
 
-## Kiscsehi
+## 14.28. Kerkateskánd
 
-## Kistolmács
+## 14.29. Kiscsehi
 
-## Kozmadombja
+## 14.30. Kistolmács
 
-## Külsősárd
+## 14.31. Kozmadombja
 
-## Lasztonya
+## 14.32. Külsősárd
 
-## Lendvadedes
+## 14.33. Lasztonya
 
-## Lendvajakabfa
+## 14.34. Lendvadedes
 
-## Lenti
+## 14.35. Lendvajakabfa
 
-## Letenye
+## 14.36. Lenti
 
-## Lispeszentadorján
+## 14.37. Letenye
 
-## Liszó
+## 14.38. Lispeszentadorján
 
-## Lovászi
+## 14.39. Liszó
 
-## Magyarföld
+## 14.40. Lovászi
 
-## Maróc
+## 14.41. Magyarföld
 
-## Márokföld
+## 14.42. Maróc
 
-## Molnári
+## 14.43. Márokföld
 
-## Murakeresztúr
+## 14.44. Molnári
 
-## Murarátka
+## 14.45. Murakeresztúr
 
-## Muraszemenye
+## 14.46. Murarátka
 
-## Nagykanizsa
+## 14.47. Muraszemenye
 
-## Nemesnép
+## 14.48. Nagykanizsa
 
-## Nemespátró
+## 14.49. Nemesnép
 
-## Nova
+## 14.50. Nemespátró
 
-## Páka
+## 14.51. Nova
 
-## Petrivente
+## 14.52. Páka
 
-## Pórszombat
+## 14.53. Petrivente
 
-## Ramocsa
+## 14.54. Pórszombat
 
-## Rédics
+## 14.55. Ramocsa
 
-## Resznek
+## 14.56. Rédics
 
-## Rigyác
+## 14.57. Resznek
 
-## Semjénháza
+## 14.58. Rigyác
 
-## Sormás
+## 14.59. Semjénháza
 
-## Surd
+## 14.60. Sormás
 
-## Szécsisziget
+## 14.61. Surd
 
-## Szentgyörgyvölgy
+## 14.62. Szécsisziget
 
-## Szentmargitfalva
+## 14.63. Szentgyörgyvölgy
 
-## Szepetnek
+## 14.64. Szentmargitfalva
 
-## Szijártóháza
+## 14.65. Szepetnek
 
-## Szilvágy
+## 14.66. Szijártóháza
 
-## Tormafölde
+## 14.67. Szilvágy
 
-## Tornyiszentmiklós
+## 14.68. Tormafölde
 
-## Tótszentmárton
+## 14.69. Tornyiszentmiklós
 
-## Tótszerdahely
+## 14.70. Tótszentmárton
 
-## Valkonya
+## 14.71. Tótszerdahely
 
-## Várfölde
+## 14.72. Valkonya
 
-## Zajk
+## 14.73. Várfölde
 
-## Zalabaksa
+## 14.74. Zajk
 
-## Zalalövő
+## 14.75. Zalabaksa
 
-## Zalaszombatfa
+## 14.76. Zalalövő
 
-2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^8]
+## 14.77. Zalaszombatfa
 
-[^8]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^10]
+
+[^9]: Az 1. melléklet 6.67/A. pontját a 148/2010. (IV. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezés a helyi önkormányzati képviselők és polgármesterek 2010. évi általános választása napján lép hatályba.
+[^10]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
