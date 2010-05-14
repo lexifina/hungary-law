@@ -1,0 +1,1 @@
+## 16. § A rendszerre, valamint a rendszer minősített adathordozóira vonatkozó személyi biztonsági követelményekre a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló kormányrendelet előírásai az irányadóak az e fejezetben foglalt kiegészítésekkel.

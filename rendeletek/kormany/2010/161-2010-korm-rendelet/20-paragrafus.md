@@ -1,0 +1,1 @@
+## 19. § A munkakörbe kinevezésre jogosult vezető a rejtjel-hozzáférési engedélyben feltünteti azokat a tárgyköröket, valamint meghatározott rejtjelanyagokat, amelyekre az engedély vonatkozik. Amennyiben a felhasználás feltételei megszűnnek, a kinevezésre jogosult vezető az engedélyt haladéktalanul visszavonja.
