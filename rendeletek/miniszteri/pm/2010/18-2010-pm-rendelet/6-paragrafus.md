@@ -1,0 +1,1 @@
+## 5. § A képzésben való részvétel feltétele, hogy a résztvevő legalább középfokú végzettséggel rendelkezzen, és hozzájáruljon az igazolás kiállítása céljából természetes személyazonosító adatai és lakcímadatai képző szerv általi kezeléséhez.

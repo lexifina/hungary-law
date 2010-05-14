@@ -1,0 +1,1 @@
+## 17. § Sikertelen hatósági vizsgát követő újabb hatósági vizsgára történő jelentkezés a 3. mellékletben megjelölt jelentkezési lap megfelelő kitöltésével történik, amelyhez csatolni kell a vizsgadíj újbóli befizetésére vonatkozó igazolást.

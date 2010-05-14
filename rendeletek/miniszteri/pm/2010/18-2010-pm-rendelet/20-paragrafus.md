@@ -1,0 +1,3 @@
+20. § (1) Ha a jelentkező a hatósági vizsgán nem vesz részt, a képző szerv útján a Hatósághoz a vizsgaidőpontot 2 munkanappal megelőzően írásban benyújtott kérelmében kérheti a díj visszatérítését. A Hatóság a díjat visszatéríti, ha a kérelem határidőben megérkezik.
+
+(2) Ha a vizsgázó a hatósági vizsgán önhibáján kívüli váratlan okból nem jelent meg, az akadály megszűnésétől számított 8 munkanapon belül, de legkésőbb az elmulasztott vizsgaidőpontot követő 45 munkanapon belül írásban a képző szerv útján benyújtott kérelemben – a körülményekre vonatkozó igazolás csatolásával – kérheti a díj utólagos visszatérítését, vagy térítésmentesen új vizsgaidőpont biztosítását.
