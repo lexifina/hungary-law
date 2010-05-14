@@ -2,7 +2,7 @@
 
 (2) A finanszírozási eljárásrendnek tartalmaznia kell
 
-a) a finanszírozási eljárásrend címét, azonosítószámát,
+a)[^1] a finanszírozási eljárásrend címét,
 
 b) a finanszírozási eljárásrend tárgyát képező betegség, illetve betegségcsoport megnevezését, BNO kódját, a kórkép leírását, illetve a szükséges közfinanszírozott eljárás, (eljárások) (diagnosztikus és terápiás technológiák) megnevezéseit a külön jogszabályban rögzített finanszírozási kódokkal,
 
@@ -14,13 +14,11 @@ e) a finanszírozási eljárásrend háttéranyaga alapján a betegellátáshoz 
 
 f) a biztosító számára a szakmai ellenőrzés alapját képező ellenőrzési sarokpontok megjelenítését,
 
-g) a finanszírozási eljárásrend technológiai értékelésére vonatkozó, a döntést megalapozó hatásossági, költséghatékonysági mutatókat,
+g)[^2]
 
 h) a finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorokat,
 
-i) a finanszírozási eljárásrend alkalmazásának kezdő napját azzal, hogy az nem lehet a finanszírozási eljárásrend 5. § (3) bekezdése szerinti közzétételét követő 60. napnál korábbi, és
-
-j) a finanszírozási eljárásrend érvényességének határidejét és a felülvizsgálat tervezett időpontját.
+i)–j)[^3]
 
 (3) A finanszírozási eljárásrend háttéranyagának tartalmaznia kell
 
@@ -41,3 +39,7 @@ g) a tervezet és a háttéranyag előkészítésében közreműködő személye
 h) az adott szakmai anyagokra történő hivatkozások jegyzékét, és
 
 i) a költségvetési kihatások elemzését.
+
+[^1]: A 3. § (2) bekezdés a) pontja a 30/2010. (V. 13.) EüM rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdés g) pontját a 30/2010. (V. 13.) EüM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^3]: A 3. § (2) bekezdés i)–j) pontját a 30/2010. (V. 13.) EüM rendelet 2. § b) pontja hatályon kívül helyezte.
