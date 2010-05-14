@@ -1,6 +1,4 @@
-## 4. §[^3]
-
-5. §[^4]
+5. §[^7]
 
 Melléklet a 162/2009. (XI. 26.) FVM rendelethez
 
@@ -2252,5 +2250,4 @@ II) 3.2. célterület
 
 ”
 
-[^3]: A 4. §-t az 5. § hatályon kívül helyezte.
-[^4]: Az 5. § ugyanezen § alapján hatályát vesztette.
+[^7]: Az 5. § ugyanezen § alapján hatályát vesztette.
