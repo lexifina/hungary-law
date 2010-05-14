@@ -2,16 +2,27 @@
 
 ## Fogalmak
 
-2. § (1) E rendelet alkalmazásában:
+2. § (1)[^1] E rendelet alkalmazásában
 
-a) erdő: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a továbbiakban: Evt.) 5. §-a, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény végrehajtásának szabályairól szóló 29/1997. (IV. 30.) FM rendelet 3. § (1) bekezdése szerint meghatározott terület;
+a) erdő: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 6. § (1) bekezdésében ekként meghatározott fogalom,
 
-b) erdőgazdálkodó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki az Evt. 13. § (1)–(2) bekezdése szerint – az erdészeti hatóságként eljáró Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: erdészeti hatóság) által – nyilvántartásba vett erdőgazdálkodó;
+b) erdőgazdálkodó: az Evt. 17. § (1) bekezdése szerinti tulajdonos vagy jogszerű használó,
 
-c) üzemterv: az Evt. 26–27. §-a szerinti üzemterv;
+c) jogosult mezőgazdasági terület: az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS) igénybevételével kapcsolatos egyes kérdésekről szóló külön jogszabály alapján a Mezőgazdasági Parcella Azonosító Rendszerben támogathatónak minősített terület,
 
-d) első kivitel: az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti potenciál helyreállítására nyújtandó támogatások igénybevételének részletes szabályairól szóló 32/2008. (III. 27.) FVM rendelet 2. § 5. pontja szerinti tevékenység;
+d) szakszemélyzet: az Evt. 5. § 7. pontja szerinti erdészeti szakszemélyzet,
 
-e) őshonos fafaj: a 3. számú mellékletben felsorolt fafajok.
+e) szakmai képzettség: az 4. melléklet szerinti képzettség,
 
-(2) Az e rendeletben nem szabályozott kérdésekben az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) szabályai alkalmazandók.
+f) üzemterv: az Evt. 113. § (4) bekezdése szerinti terv.
+
+(2)[^2] Az e rendeletben nem szabályozott kérdésekben
+
+a) az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.),
+
+b) az Evt. és
+
+c) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet szabályai, fogalmai alkalmazandók.
+
+[^1]: A 2. § (1) bekezdése a 69/2010. (V. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 69/2010. (V. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
