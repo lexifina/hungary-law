@@ -1,0 +1,5 @@
+## „32/A. § (1) A 32. §-ban foglaltakban a Programengedélyezőre vonatkozó kötelezettségek adott program lebonyolítására kijelölt végrehajtó szervezet vezetőjét vagy a kijelölt Programengedélyezőt terhelik. Az 1998. év előtti Phare programok tekintetében a 32. §-ban foglalt kötelezettségek az adott Phare program lebonyolítására megkötött, az Európai Bizottság és Magyarország között létrejött megállapodásban kijelölt szervezet vezetőjét terhelik.
+
+## (2) Amennyiben az (1) bekezdésben meghatározott végrehajtó szervezet vezetője saját hatáskörben nem tudja biztosítani a 32. §-ban foglaltakat, akkor köteles a végrehajtó szervezet a társfinanszírozást biztosító fejezettel együttműködve gondoskodni azok végrehajtásáról.
+
+## (3) A Nemzeti Programengedélyező és a Nemzeti Koordinátor kérésére a Programengedélyező – vagy az (1) bekezdésben meghatározottak alapján a végrehajtó szervezet vezetője – köteles minden információt, adatszolgáltatást megadni adott program vonatkozásában, ha az Európai Bizottság felé történő pénzügyi adatszolgáltatásokhoz kapcsolódik.”
