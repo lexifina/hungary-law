@@ -1,4 +1,4 @@
-16. § (1)[^36] A felnőttképzést folytató intézmény által kidolgozott képzési program akkreditációja iránti kérelem elbírálása során a FAT a 15. § (1) bekezdésében meghatározott feltételek fennállását vizsgálja. A FAT a képzési program sajátosságai alapján állapítja meg a programakkreditáció hatályát. Az akkreditált képzési programot alkotó modulok önállóan nem képeznek akkreditált programot.
+16. § (1)[^36] A felnőttképzést folytató intézmény által kidolgozott képzési program akkreditációja iránti kérelem elbírálása során a FAT a 15. § (1) bekezdésében meghatározott feltételek fennállását vizsgálja. A FAT a képzési program sajátosságai alapján állapítja meg a programakkreditáció hatályát.
 
 (2) A 15. § (2) bekezdése szerinti esetben a programakkreditációs eljárás keretében a FAT vizsgálja
 
@@ -28,7 +28,7 @@ e) a programot indító és regisztrált felsőoktatási intézmény nevét, cí
 
 (8)[^42] Ha a felsőoktatási intézménynek a programakkreditációs tanúsítványban szereplő adataiban változás következik be, erről az Oktatási Hivatal tíz munkanapon belül tájékoztatja a FAT-ot. Ilyen esetben a FAT a 14. § (2) bekezdésének megfelelően jár el.
 
-[^36]: A 16. § (1) bekezdése a 100/2010. (IV. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^36]: A 16. § (1) bekezdése a 100/2010. (IV. 2.) Korm. rendelet 4. §-ával megállapított, a 175/2010. (V. 12.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^37]: A 16. § (3) bekezdése a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének l) pontja szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
 [^38]: A 16. § (5) bekezdése a 294/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének b) pontja szerint módosított szöveg.
 [^39]: A 16. § új (6) bekezdését a 373/2007. (XII. 23.) Korm. rendelet 5. §-a iktatta be, egyidejűleg az eredeti (6) bekezdésének számozását (7) bekezdésre változtatva. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
