@@ -1,1 +1,0 @@
-## „f) képzéssel kapcsolatos egyéb költség: a képzéshez kapcsolódó utazási, élelmezési, szállás, tanszer, tankönyv, jegyzet, bizonyítvány, a vizsgabizottság működésével kapcsolatos költségek, a képzéshez külső szervektől térítéssel igénybevett technikai eszközök költségei, valamint a képzéshez szükséges foglalkozás-egészségügyi alkalmassági vizsgálatok költségei.”
