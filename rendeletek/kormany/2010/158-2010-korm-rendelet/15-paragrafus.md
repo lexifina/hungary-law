@@ -1,0 +1,1 @@
+## 14. § Ha a Non-Annex I. termékeket az Európai Unió valamely más tagállamát nem érintve, közvetlenül Magyarországról exportálják, az MVH a vonatkozó exportbizonyítványt elektronikus formában tárolja.

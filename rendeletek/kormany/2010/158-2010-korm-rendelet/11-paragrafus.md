@@ -1,0 +1,5 @@
+## 10. § Az élő szarvasmarha közösségi vámterületről történő kivitelénél a 1254/1999/EK rendelete részletes szabályairól az export-visszatérítés feltételét képező, az élő szarvasmarha szállítás alatti jólétének betartása vonatkozásában szóló, 2003. április 9-i 639/2003/EK bizottsági rendelet által meghatározott hatósági állatorvosi jelentést a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) hatósági állatorvosa állítja ki. Az ügyfél köteles a kiléptető ponton tartózkodó hatósági állatorvost 24 órával a szállítmány megérkezése előtt értesíteni.
+
+11. § (1) Kifejlett hímivarú szarvasmarhából származó friss vagy hűtött hús kivitele esetén a rendkívüli export-visszatérítés igényléséhez szükséges vágási bizonyítványt az MgSzH Központja állítja ki.
+
+(2) A vágási bizonyítvány iránti kérelmet a marha- és borjúhúsra vonatkozó rendkívüli export-visszatérítések feltételeinek megállapításáról szóló, 2007. április 20-i 433/2007/EK bizottsági rendelet I. melléklete szerinti formanyomtatványon kell az MgSzH Központjához benyújtani.
