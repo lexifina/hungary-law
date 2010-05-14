@@ -1,6 +1,6 @@
 ## A minőségi védelem
 
-10. §[^69] (1) Szennyező anyagok felszín alatti vízbe történő bevezetésének megelőzésére vagy korlátozására, a felszín alatti vizek jó minőségi állapotának biztosítása érdekében tevékenység
+10. §[^70] (1) Szennyező anyagok felszín alatti vízbe történő bevezetésének megelőzésére vagy korlátozására, a felszín alatti vizek jó minőségi állapotának biztosítása érdekében tevékenység
 
 a) végzése során szennyező anyag, illetve lebomlása esetén ilyen anyagok keletkezéséhez vezető anyagok használata, illetve elhelyezése csak környezetvédelmi megelőző intézkedéssel, és – az engedélyezhető közvetlen bevezetések kivételével – műszaki védelemmel folytatható;
 
@@ -22,7 +22,7 @@ ab) bevezetése minden olyan mesterséges tóba, amely közvetlen kapcsolatban v
 
 ac) mélyművelésű bányában történő elhelyezése, kivéve az ideiglenes jelleggel, a műszaki üzemi tervben az adott nyersanyag bányászatához engedélyezett anyagot,
 
-ad) a felszín alatti vizek állapota szempontjából fokozottan érzékeny területen a felszín alatti vízbe történő közvetett bevezetése;
+ad)[^71] a felszín alatti vizek állapota szempontjából fokozottan érzékeny területen a felszín alatti vízbe történő közvetett bevezetése, kivéve egyedi szennyvízkezelő berendezésekkel tisztított háztartási szennyvíz bevezetésének a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott eseteit;
 
 b) a felszín alatti vízbe veszélyes anyagok közvetett bevezetése. Ezt a követelményt kell alkalmazni az olyan területen levő, vagy olyan területre ráfolyó időszakos vízfolyásba történő bevezetés esetén is, ahol a felszín alatti víz szintje tartósan alacsonyabban van, mint a vízfolyás fenékszintje.
 
@@ -56,4 +56,5 @@ b) műszakilag nem előzhető meg, illetve nem korlátozható az emberi egészs�
 
 (11) Az (E) egyedi szennyezettségi határérték addig alkalmazható, míg a földtani közeg és a felszín alatti víz állapota tovább nem romlik, és a szennyezettség nem mutat emelkedő tendenciát a monitoring eredmények alapján.
 
-[^69]: A 10. § a 302/2008. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^70]: A 10. § a 302/2008. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^71]: A 10. § (2) bekezdés a) pont ad) alpontja a 147/2010. (IV. 29.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg.

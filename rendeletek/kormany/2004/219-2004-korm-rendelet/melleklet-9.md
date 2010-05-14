@@ -1,8 +1,8 @@
 9. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez
 
-## Beavatkozás záródokumentációjának tartalma[^305]
+## Beavatkozás záródokumentációjának tartalma[^309]
 
-1.[^306] Alapadatok
+1.[^310] Alapadatok
 
 a) A beavatkozás helyszíne (szennyezett terület) pontos lehatárolása, sarokponti EOV koordináta, helyrajzi szám(ok), ingatlan-nyilvántartási, továbbá az áttekintő a 1:10 000 méretarányú térkép, valamint a beavatkozás helyszínére vonatkozóan a település nevét, az ingatlan fekvését, a belterületen lévő ingatlannál az utca nevét és a házszámot, a területnagyságát, a művelési ágát és a művelés alól kivett terület elnevezését.
 
@@ -26,13 +26,13 @@ i) A károsodás ingatlan-nyilvántartásba történő bejegyeztetésére vonatk
 
 a) Már elvégzett kármentesítési szakaszok, kárelhárítás, kárenyhítés, tényfeltárás, a kiindulási szennyezettségi állapot rövid bemutatása.
 
-b)[^307] A kármentesítési eljárás során kiadott korábbi határozatok [különösen: tényfeltárás elrendelése, tényfeltárási terv elfogadása, tényfeltárási záródokumentáció elfogadása, (D) kármentesítési célállapot határérték megállapítása, károsodás ingatlan-nyilvántartásba történő bejegyeztetése, beavatkozás elrendelése, beavatkozási terv elfogadása] ismertetése.
+b)[^311] A kármentesítési eljárás során kiadott korábbi határozatok [különösen: tényfeltárás elrendelése, tényfeltárási terv elfogadása, tényfeltárási záródokumentáció elfogadása, (D) kármentesítési célállapot határérték megállapítása, károsodás ingatlan-nyilvántartásba történő bejegyeztetése, beavatkozás elrendelése, beavatkozási terv elfogadása] ismertetése.
 
-3.[^308] Az elvégzett beavatkozás, továbbá a beavatkozás során alkalmazott technológia/technológiák rövid bemutatása.
+3.[^312] Az elvégzett beavatkozás, továbbá a beavatkozás során alkalmazott technológia/technológiák rövid bemutatása.
 
-4.[^309] Az elvégzett beavatkozás részletes leírása
+4.[^313] Az elvégzett beavatkozás részletes leírása
 
-a)[^310] Az elvégzett beavatkozás lépései.
+a)[^314] Az elvégzett beavatkozás lépései.
 
 b) Az egyes lépéseknél alkalmazott technológiák és azok költségeinek bemutatása.
 
@@ -40,19 +40,19 @@ c) Alkalmazott berendezések, létesítmények és azok költségeinek bemutatá
 
 d) A beavatkozás dokumentálásának bemutatása, pl. építési és/vagy üzemi napló.
 
-e)[^311] Az elvégzett beavatkozás során, az alkalmazott technológia alkalmasságának mérésekkel igazolt bemutatása (így például: kimenő, bemenő talaj, talajvíz, levegő analitika), jogszabályi (így például: levegős, felszíni vizes, felszín alatti vizes) megfelelőség igazolása.
+e)[^315] Az elvégzett beavatkozás során, az alkalmazott technológia alkalmasságának mérésekkel igazolt bemutatása (így például: kimenő, bemenő talaj, talajvíz, levegő analitika), jogszabályi (így például: levegős, felszíni vizes, felszín alatti vizes) megfelelőség igazolása.
 
 f) Az alkalmazott technológiák megfelelősség igazolása a 31. §. (4) bekezdése szerint.
 
-g)[^312] A beavatkozás alatt folytatott monitoring vizsgálatok eredményeinek összefoglalása és értékelése, külön kitérve az alkalmazott kármentesítési technológia környezetre gyakorolt, mérésekkel igazolt hatásvizsgálatára.
+g)[^316] A beavatkozás alatt folytatott monitoring vizsgálatok eredményeinek összefoglalása és értékelése, külön kitérve az alkalmazott kármentesítési technológia környezetre gyakorolt, mérésekkel igazolt hatásvizsgálatára.
 
-h)[^313] Az elvégzett beavatkozás időtartama, az esetleges határidő módosulások igazolása, indokolása.
+h)[^317] Az elvégzett beavatkozás időtartama, az esetleges határidő módosulások igazolása, indokolása.
 
-i)[^314] Beavatkozás során a munka- és egészségvédelmi feltételrendszerek ismertetése, jogszabályi megfelelőségének igazolása.
+i)[^318] Beavatkozás során a munka- és egészségvédelmi feltételrendszerek ismertetése, jogszabályi megfelelőségének igazolása.
 
-j)[^315] A beavatkozáshoz kapcsolódó külön engedélyezési eljárás keretébe tartozó tevékenységek bemutatása.
+j)[^319] A beavatkozáshoz kapcsolódó külön engedélyezési eljárás keretébe tartozó tevékenységek bemutatása.
 
-5.[^316] A beavatkozás eredménye
+5.[^320] A beavatkozás eredménye
 
 a) Az elért környezeti állapot térben lehatárolva, szennyező anyagonként a (D) kármentesítési célállapot határértékhez viszonyítva.
 
@@ -62,11 +62,11 @@ ba) a hátrahagyott, térben lehatárolt szennyező anyagok minőségének, menn
 
 bb) a fennmaradó szennyezett terület térbeli lehatárolása,
 
-bc)[^317] a fennmaradó kármentesítési mennyiségi kockázat leírása,
+bc)[^321] a fennmaradó kármentesítési mennyiségi kockázat leírása,
 
 bd) a fennmaradó – (B) szennyezettségi határértéket meghaladó – szennyezettség miatt a jelenlegi és jövőbeni területhasználatokat érintő korlátok bemutatása.
 
-6.[^318] A beavatkozás során üzemeltetett kármentesítési monitoring bemutatása
+6.[^322] A beavatkozás során üzemeltetett kármentesítési monitoring bemutatása
 
 a) A monitoring rendszer létesítményeinek bemutatása.
 
@@ -98,7 +98,7 @@ g) Külön jogszabály szerinti dokumentációk.
 
 h) A monitoring eredményeinek rövid, összefoglaló bemutatása, külön kitérve az alkalmazott kármentesítési technológia környezetre gyakorolt hatásának vizsgálatára.
 
-7.[^319] Kármentesítési monitoringra vonatkozó tervjavaslat
+7.[^323] Kármentesítési monitoringra vonatkozó tervjavaslat
 
 A tervjavaslat tartalmazza a beavatkozás hatékonyságát ellenőrző kármentesítési monitoringot az alábbi szerkezetben.
 
@@ -120,24 +120,24 @@ a) A kármentesítés keretében kitermelt szennyező és egyéb szennyező anya
 
 b) A már elvégzett kármentesítési szakasz(ok), illetve a külön jogszabály szerinti kárelhárítás költségeinek részletes felsorolása, és az esetlegesen még fennmaradt, várhatóan jelentkező kármentesítési munkák becsült költségei.
 
-c)[^320] A kármentesítési beavatkozás befejezésével elbontott létesítmények bemutatása, a hozzájuk tartozó dokumentációkkal.
+c)[^324] A kármentesítési beavatkozás befejezésével elbontott létesítmények bemutatása, a hozzájuk tartozó dokumentációkkal.
 
-A 2. a), 4. c), 4. g), 5. a), 5. ba), 5. bb), 6. a), 6. b), 6. fg), 7. ab), 7. b) és 9. c) pontok szerinti adatokat és információkat térképen és ábrán (pl. vízföldtani szelvényen) is be kell mutatni. A bemutatás – a vizsgált terület és a szennyezettség változékonyságától függően – történhet egy-egy térképen és ábrán összevont formában vagy külön-külön annyi térképen és ábrán, amennyi az egyértelmű szemléltetéshez szükséges.[^321]
+A 2. a), 4. c), 4. g), 5. a), 5. ba), 5. bb), 6. a), 6. b), 6. fg), 7. ab), 7. b) és 9. c) pontok szerinti adatokat és információkat térképen és ábrán (pl. vízföldtani szelvényen) is be kell mutatni. A bemutatás – a vizsgált terület és a szennyezettség változékonyságától függően – történhet egy-egy térképen és ábrán összevont formában vagy külön-külön annyi térképen és ábrán, amennyi az egyértelmű szemléltetéshez szükséges.[^325]
 
-[^305]: A 9. számú melléklet címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^306]: A 9. számú melléklet 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 357. § (14) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^307]: A 9. számú melléklet 2. pontjának b) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1)–(2) bekezdése szerint módosított szöveg.
-[^308]: A 9. számú melléklet 3. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^309]: A 9. számú melléklet 4. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^310]: A 9. számú melléklet 4. pontjának a) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^311]: A 9. számú melléklet 4. pontjának e) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^312]: A 9. számú melléklet 4. pontjának g) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^313]: A 9. számú melléklet 4. pontjának h) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^314]: A 9. számú melléklet 4. pontjának i) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^315]: A 9. számú melléklet 4. pontjának j) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^316]: A 9. számú melléklet 5. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^317]: A 9. számú melléklet 5. bc) alpontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^318]: A 9. számú melléklet 6. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^319]: A 9. számú melléklet 7. pontjának felvezető szövege a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^320]: A 9. számú melléklet 9. pontjának c) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^321]: A 9. számú melléklet záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^309]: A 9. számú melléklet címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^310]: A 9. számú melléklet 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 357. § (14) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^311]: A 9. számú melléklet 2. pontjának b) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1)–(2) bekezdése szerint módosított szöveg.
+[^312]: A 9. számú melléklet 3. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^313]: A 9. számú melléklet 4. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^314]: A 9. számú melléklet 4. pontjának a) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^315]: A 9. számú melléklet 4. pontjának e) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^316]: A 9. számú melléklet 4. pontjának g) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^317]: A 9. számú melléklet 4. pontjának h) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^318]: A 9. számú melléklet 4. pontjának i) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^319]: A 9. számú melléklet 4. pontjának j) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^320]: A 9. számú melléklet 5. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^321]: A 9. számú melléklet 5. bc) alpontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^322]: A 9. számú melléklet 6. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^323]: A 9. számú melléklet 7. pontjának felvezető szövege a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^324]: A 9. számú melléklet 9. pontjának c) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^325]: A 9. számú melléklet záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

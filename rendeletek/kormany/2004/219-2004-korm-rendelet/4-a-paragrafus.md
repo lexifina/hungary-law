@@ -1,8 +1,8 @@
 ## A felszín alatti víztest kémiai állapotának
 
-## értékelése[^46]
+## értékelése[^47]
 
-4/A. §[^47] (1) A felszín alatti víztestek kémiai állapotának értékelése során az alábbi kritériumokat kell figyelembe venni összhangban a 4. § (5) bekezdés a) pontjával:
+4/A. §[^48] (1) A felszín alatti víztestek kémiai állapotának értékelése során az alábbi kritériumokat kell figyelembe venni összhangban a 4. § (5) bekezdés a) pontjával:
 
 a) a felszín alatti vízre vonatkozó minőségi előírásokat,
 
@@ -20,5 +20,5 @@ b) azokra a szennyező anyagokra, szennyező anyag csoportokra és szennyezési 
 
 (5) A (3) bekezdés szerint a szennyező anyagokra meghatározott küszöbértékeket a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben törölni lehet, amennyiben a megfelelő szennyező anyagok, szennyező anyagok csoportjai, vagy szennyezési indikátorok az érintett felszín alatti víztestet már nem veszélyeztetik. A küszöbértékeket tartalmazó felsorolás bármely ilyen jellegű változtatásáról jelentésben be kell számolni az Európai Unió Bizottságának a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervek időszakos felülvizsgálatának keretében.
 
-[^46]: A 4/A. §-t megelőző alcímet a 302/2008. (XII. 17.) Korm. rendelet 3. §-a iktatta be.
-[^47]: A 4/A. §-t a 302/2008. (XII. 17.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^47]: A 4/A. §-t megelőző alcímet a 302/2008. (XII. 17.) Korm. rendelet 3. §-a iktatta be.
+[^48]: A 4/A. §-t a 302/2008. (XII. 17.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
