@@ -322,19 +322,21 @@
 
 ## 2.31. belépésre jogosító fényképes és ideiglenes belépőkártyák a Paksi Atomerőmű fokozottan őrzött üzemi területére;
 
-## 2.32. belépésre jogosító igazolványok a Budapest Ferihegy Nemzetközi Repülőtérre;
+## 2.32.[^60] a repülőtér üzemben tartója által kibocsátott belépésre jogosító igazolványok a nemzetközi kereskedelmi repülőterek területére;
 
 ## 2.33. belépésre jogosító igazolványok a HungaroControl Magyar Légiforgalmi Szolgálat Zrt. objektumaiba;
 
-## 2.34. behajtási és útvonalengedélyek Budapest Ferihegy Nemzetközi Repülőtérre;
+## 2.34.[^61] a repülőtér üzemben tartója által kibocsátott behajtási és útvonalengedélyek a nemzetközi kereskedelmi repülőterek területére;
 
-## 2.35. a Budapest Ferihegy Nemzetközi Repülőtér területén alkalmazott belterületi gépjármű-vezetői engedélyek.
+## 2.35.[^62] a nemzetközi kereskedelmi repülőtér területén alkalmazott belterületi gépjármű-vezetői engedélyek;
+
+## 2.36.[^63] a légiközlekedési védelmi hatósági felügyelet és a légiközlekedés védelmi ellenőrzés ellátására jogosult személyek részére kiállított a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre jogosító okmány.
 
 ## 3. Egyéb okmányok
 
 ## A Kormány által határozatban meghatározott egyes kiemelt jelentőségű események, rendezvények igazolványai, belépési engedélyei.
 
-2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^60]
+2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^64]
 
 ## Az okmányvédelmi kategóriák meghatározásánál irányadó szempontok
 
@@ -363,4 +365,8 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^57]: Az 1. számú melléklet II. részének 1.95. pontja a 156/2008. (VI. 6.) Korm. rendelet 2. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 2. § (5) bekezdése alapján a Magyar Vasúti Hivatal jogutódja – a Ktv. 14. § (1) bekezdés c) pontjának alkalmazása szempontjából is – a Nemzeti Közlekedési Hatóság; lásd még a 2. § (4) bekezdését.
 [^58]: Az 1. számú melléklet III. részének 1.98. alpontja a 226/2007. (VIII. 31.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^59]: Az 1. számú melléklet III. részének 2.29. pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 7. pontja hatályon kívül helyezte.
-[^60]: A 2. számú melléklet címe a 299/2006. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^60]: Az 1. számú melléklet III. pont 2.32. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^61]: Az 1. számú melléklet III. pont 2.34. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^62]: Az 1. számú melléklet III. pont 2.35. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^63]: Az 1. számú melléklet III. pont 2.36. alpontját a 169/2010. (V. 11.) Korm. rendelet 47. §-a iktatta be.
+[^64]: A 2. számú melléklet címe a 299/2006. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
