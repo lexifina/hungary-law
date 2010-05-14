@@ -1,10 +1,10 @@
 ## A területazonosítási kérelem benyújtása
 
-39. § (1)[^34] A támogatási kérelmet benyújtott ügyfélnek – a jogerős elutasító határozattal vagy jogerős, eljárást megszüntető végzéssel rendelkező ügyfél kivételével – a kifizetési kérelmet megelőzően, de legkésőbb május 15-ig elektronikus úton területazonosítási kérelmet kell benyújtania az MVH részére, melyen meg kell jelölnie:
+39. § (1)[^34] A támogatási kérelmet benyújtott ügyfélnek – a jogerős elutasító határozattal vagy jogerős, eljárást megszüntető végzéssel rendelkező ügyfél kivételével – a kifizetési kérelmet megelőzően, de legkésőbb május 15-ig, a 2010. évben legkésőbb június 9-ig, elektronikus úton területazonosítási kérelmet kell benyújtania az MVH részére, amelyen meg kell jelölnie:
 
 a) a jogerős, előzetesen jóváhagyott területeket tartalmazó, támogatási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkező előzetesen támogatásra jogosultnak a támogatási határozattal előzetesen jóváhagyott területeket magába foglaló kötelezettségvállalással érintett egybefüggő terület vagy területek legalább 3 méter pontossággal megadott EOV koordinátáit,
 
-b) a nem jogerős támogatási határozattal rendelkező ügyfélnek legfeljebb a támogatási kérelmében fizikai blokkonként igényelt nagyságú területre vonatkozóan a terület vagy területek legalább 3 méter pontossággal megadott EOV koordinátáit
+b) a nem jogerős támogatási határozattal rendelkező ügyfélnek legfeljebb a támogatási kérelmében fizikai blokkonként igényelt nagyságú területre vonatkozóan a terület vagy területek legalább 3 méter pontossággal megadott EOV koordinátáit.
 
 (2) Az EOV koordináták megadása abban az esetben is kötelező, ha a támogatott terület egybeesik a fizikai blokk támogatható területével.
 
@@ -32,7 +32,7 @@ b) az (1) bekezdés b) pontja alapján benyújtott területazonosítási kérele
 
 (11) A 23/2007. (IV. 17.) FVM rendelet 13. § (2) bekezdésétől eltérően a területazonosítási kérelemhez nem kell mellékelni a blokktérképet.
 
-[^34]: A 39. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^34]: A 39. § (1) bekezdése a 69/2010. (V. 13.) FVM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^35]: A 39. § (3) bekezdése a 31/2010. (III. 30.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^36]: A 39. § (4) bekezdése a 31/2010. (III. 30.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^37]: A 39. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.

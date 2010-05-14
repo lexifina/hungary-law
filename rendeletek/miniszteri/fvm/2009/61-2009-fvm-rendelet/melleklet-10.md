@@ -30,6 +30,6 @@
 
 | 11 | d) da) | Nádgazdálkodás | Nád |
 
-10. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^72]
+10. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^73]
 
-[^72]: A 10. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^73]: A 10. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
