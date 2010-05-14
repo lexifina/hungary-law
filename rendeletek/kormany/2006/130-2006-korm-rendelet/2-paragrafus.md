@@ -22,7 +22,10 @@ i) ellátja a PHARE programokkal és a Schengen Alappal kapcsolatos szervezési 
 
 j) ellátja az Átmeneti Támogatási Alappal, a Norvég Finanszírozási Mechanizmussal, illetve az EGT Finanszírozási Mechanizmussal kapcsolatos előkészítési, szervezési és koordinációs feladatokat, illetve az ikerintézményi (twinning) programmal kapcsolatos nemzeti koordinációt;
 
-k)[^2] ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programok irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről.
+k)[^2] ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programok irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről;
+
+l)[^3] ellátja a Svájci–Magyar Együttműködési Program tekintetében a Nemzeti Koordinációs Egység feladatait.
 
 [^1]: A 2. § a) pontját a 104/2008. (IV. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^2]: A 2. § k) pontját a 163/2009. (VIII. 6.) Korm. rendelet 35. § (1) bekezdése iktatta be.
+[^3]: A 2. § l) pontját a 164/2010. (V. 11.) Korm. rendelet 8. §-a iktatta be.
