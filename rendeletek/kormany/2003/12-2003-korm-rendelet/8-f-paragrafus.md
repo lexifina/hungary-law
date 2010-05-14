@@ -1,4 +1,4 @@
-8/F. §[^19] (1) Ha az önkormányzat elővásárlási jogát nem gyakorolja, az adóhatóság
+8/F. §[^21] (1) Ha az önkormányzat elővásárlási jogát nem gyakorolja, az adóhatóság
 
 a) erről a tényről elektronikus úton értesíti a jogosultat és a nyertes elektronikus árverezőt,
 
@@ -20,4 +20,4 @@ b) a nyertes ajánlathoz kapcsolódó előleget a nyertes elektronikus árverez�
 
 (6) Az adóhatóság nem tartozik felelősséggel a jogosult téves vagy hibás adatszolgáltatásából eredő esetleges károkért.
 
-[^19]: A 8/F. §-t a 114/2010. (IV. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.
+[^21]: A 8/F. §-t a 114/2010. (IV. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.
