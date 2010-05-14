@@ -1,0 +1,1 @@
+## 29. § Az árvízvédelmi műre vonatkozó biztonsági követelményeket az árvízvédelmi mű 2. § 4., 13. és 20. pontjában meghatározott fajtájának megfelelően kell meghatározni a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet előírásai alapján.

@@ -1,0 +1,1 @@
+## 8. § Ha közcélú vízilétesítmény közérdekű célú üzemeltetésén kívüli üzemeltetés lehetőségét az üzemeltetési szabályzat lehetővé teszi, akkor abban meg kell határozni az ahhoz tartozó üzemrendet, az érdekeltek körét és a költségviselőket.

@@ -1,0 +1,1 @@
+## 54. § Ha a felszíni víz gravitációs levonulása a megengedett vízszint mellett a vízjogi engedélyben előírt idő alatt nem érhető el, akkor a kármentesítést, illetve a károk csökkentését a területhasználatnak megfelelően vízkormányzással, vízvisszatartással, szivattyús átemeléssel kell biztosítani.

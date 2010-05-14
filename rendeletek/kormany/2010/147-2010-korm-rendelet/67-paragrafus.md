@@ -1,0 +1,3 @@
+67. § (1) A víziállást a mértékadó igénybevétel, a szél, a hullámzás, a jégnyomás, a hasznosítás jellege és módja, valamint a helyi környezeti adottságok figyelembevételével kell megtervezni, méretezni és kivitelezni. A víziállás nem akadályozhatja a meder fenntartását, az ár- és a belvíz elleni védekezést, valamint a hajózást.
+
+(2) A víziállást és tartozékait a jég kártételeitől védett helyen szabad létesíteni és olyan anyagból, olyan szerkezettel és méretekkel, oly módon kell kialakítani, hogy az minden vízállásnál és kedvezőtlen időjárási viszonyok között is biztonságosan legyen használható, a víz levonulását ne akadályozza, és ne veszélyeztesse a vizek állapotát.

@@ -1,0 +1,3 @@
+42. § (1) A part állandósítására szolgáló végleges partvédő műveket a meder kezelőjének hozzájárulásával, a Balaton esetében a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló törvény rendelkezései szerint készült partvonal-szabályozási, vízpart-rehabilitációs tanulmánytervbe és vízpart-rehabilitációs tervbe illeszkedően, az ideiglenes partvédő műveket pedig a meder kezelőjének az előírásai szerint kell kialakítani.
+
+(2) A megrongálódott partvédő művek helyreállítása során vizsgálni kell a természetközeli megoldások alkalmazásának lehetőségét.
