@@ -20,7 +20,7 @@
 
 ## aláírás
 
-5. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^25]
+5. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^35]
 
 Jelentkezési lap a hatósági vizsgára
 
@@ -54,4 +54,4 @@ Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak felt�
 
 aláírás
 
-[^25]: Az 5. számú melléklet a 41/2008. (XII. 31.) PM rendelet 8. §-ával megállapított szöveg.
+[^35]: Az 5. számú melléklet a 41/2008. (XII. 31.) PM rendelet 8. §-ával megállapított szöveg.

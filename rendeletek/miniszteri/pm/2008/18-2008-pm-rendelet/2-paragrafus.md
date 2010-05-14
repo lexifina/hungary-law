@@ -18,7 +18,9 @@ b) megnevezik a 4. § (1) bekezdése szerinti igazolás kiállítására jogosul
 
 c) rendelkeznek a 3. § szerinti képzési programmal,
 
-d) rendelkeznek a képzéshez és vizsgáztatáshoz szükséges személyi és tárgyi feltételekkel.
+d) rendelkeznek a képzéshez és vizsgáztatáshoz szükséges személyi és tárgyi feltételekkel,
+
+e)[^3] az 5. § (3) bekezdésének c) és e) pontjában foglaltak miatti törlésére a jegyzékbe való felvételére irányuló kérelmének benyújtását megelőző két éven belül nem került sor.
 
 (5) A hatósági képzés az 1. számú mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a függő biztosításközvetítői vizsgára, a 2. számú mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a független biztosításközvetítői vizsgára történő felkészítést biztosítja.
 
@@ -37,3 +39,4 @@ d) a jegyzékből való törlés időpontját és okát.
 (8) A képző szerv jegyzékben foglalt adatait a tevékenység ellenőrzése, valamint egyéb hatósági, bírósági eljárásban történő felhasználás céljából a Hatóság a képző szerv jegyzékből való törlését követően 5 évig megőrzi.
 
 [^2]: A 2. § a 37/2009. (XII. 22.) PM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § (4) bekezdés e) pontját a 18/2010. (IV. 29.) PM rendelet 22. § (1) bekezdése iktatta be.
