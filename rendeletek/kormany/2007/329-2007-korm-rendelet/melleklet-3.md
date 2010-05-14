@@ -1,355 +1,353 @@
 ## A rendőrkapitányságok elnevezése és székhelye
 
-## Bács-Kiskun Megyei Rendőr-főkapitányság
+## 1. Bács-Kiskun Megyei Rendőr-főkapitányság
 
-## Kecskeméti Rendőrkapitányság, Kecskemét
+## 1.1. Kecskeméti Rendőrkapitányság, Kecskemét
 
-## Bajai Rendőrkapitányság, Baja
+## 1.2. Bajai Rendőrkapitányság, Baja
 
-## Kalocsai Rendőrkapitányság, Kalocsa
+## 1.3. Kalocsai Rendőrkapitányság, Kalocsa
 
-## Kiskőrösi Rendőrkapitányság, Kiskőrös
+## 1.4. Kiskőrösi Rendőrkapitányság, Kiskőrös
 
-## Kiskunfélegyházi Rendőrkapitányság, Kiskunfélegyháza
+## 1.5. Kiskunfélegyházi Rendőrkapitányság, Kiskunfélegyháza
 
-## Kiskunhalasi Rendőrkapitányság, Kiskunhalas
+## 1.6. Kiskunhalasi Rendőrkapitányság, Kiskunhalas
 
-## Kunszentmiklósi Rendőrkapitányság, Kunszentmiklós
+## 1.7. Kunszentmiklósi Rendőrkapitányság, Kunszentmiklós
 
-## Baranya Megyei Rendőr-főkapitányság
+## 2. Baranya Megyei Rendőr-főkapitányság
 
-## Pécsi Rendőrkapitányság, Pécs
+## 2.1. Pécsi Rendőrkapitányság, Pécs
 
-## Komlói Rendőrkapitányság, Komló
+## 2.2. Komlói Rendőrkapitányság, Komló
 
-## Siklósi Rendőrkapitányság, Siklós
+## 2.3. Siklósi Rendőrkapitányság, Siklós
 
-## Mohácsi Rendőrkapitányság, Mohács
+## 2.4. Mohácsi Rendőrkapitányság, Mohács
 
-## Szigetvári Rendőrkapitányság, Szigetvár
+## 2.5. Szigetvári Rendőrkapitányság, Szigetvár
 
-## Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság
+## 3. Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság
 
-## Miskolci Rendőrkapitányság, Miskolc
+## 3.1. Miskolci Rendőrkapitányság, Miskolc
 
-## Edelényi Rendőrkapitányság, Edelény
+## 3.2. Edelényi Rendőrkapitányság, Edelény
 
-## Encsi Rendőrkapitányság, Encs
+## 3.3. Encsi Rendőrkapitányság, Encs
 
-## Kazincbarcikai Rendőrkapitányság, Kazincbarcika
+## 3.4. Kazincbarcikai Rendőrkapitányság, Kazincbarcika
 
-## Mezőkövesdi Rendőrkapitányság, Mezőkövesd
+## 3.5. Mezőkövesdi Rendőrkapitányság, Mezőkövesd
 
-## Ózdi Rendőrkapitányság, Ózd
+## 3.6. Ózdi Rendőrkapitányság, Ózd
 
-## Sárospataki Rendőrkapitányság, Sárospatak
+## 3.7. Sárospataki Rendőrkapitányság, Sárospatak
 
-## Sátoraljaújhelyi Rendőrkapitányság, Sátoraljaújhely
+## 3.8. Sátoraljaújhelyi Rendőrkapitányság, Sátoraljaújhely
 
-## Szerencsi Rendőrkapitányság, Szerencs
+## 3.9. Szerencsi Rendőrkapitányság, Szerencs
 
-## Tiszaújvárosi Rendőrkapitányság, Tiszaújváros
+## 3.10. Tiszaújvárosi Rendőrkapitányság, Tiszaújváros
 
-## Békés Megyei Rendőr-főkapitányság
+## 4. Békés Megyei Rendőr-főkapitányság
 
-## Békéscsabai Rendőrkapitányság, Békéscsaba
+## 4.1. Békéscsabai Rendőrkapitányság, Békéscsaba
 
-## Gyulai Rendőrkapitányság, Gyula
+## 4.2. Gyulai Rendőrkapitányság, Gyula
 
-## Orosházi Rendőrkapitányság, Orosháza
+## 4.3. Orosházi Rendőrkapitányság, Orosháza
 
-## Békési Rendőrkapitányság, Békés
+## 4.4. Békési Rendőrkapitányság, Békés
 
-## Mezőkovácsházi Rendőrkapitányság, Mezőkovácsháza
+## 4.5. Mezőkovácsházi Rendőrkapitányság, Mezőkovácsháza
 
-## Szarvasi Rendőrkapitányság, Szarvas
+## 4.6. Szarvasi Rendőrkapitányság, Szarvas
 
-## Szeghalmi Rendőrkapitányság, Szeghalom
+## 4.7. Szeghalmi Rendőrkapitányság, Szeghalom
 
-## Sarkadi Rendőrkapitányság, Sarkad
+## 4.8. Sarkadi Rendőrkapitányság, Sarkad
 
-## Budapesti Rendőr-főkapitányság
+## 5. Budapesti Rendőr-főkapitányság
 
-## BRFK I. kerületi Rendőrkapitányság, Budapest
+## 5.1. BRFK I. kerületi Rendőrkapitányság, Budapest
 
-## BRFK II. kerületi Rendőrkapitányság, Budapest
+## 5.2. BRFK II. kerületi Rendőrkapitányság, Budapest
 
-## BRFK III. kerületi Rendőrkapitányság, Budapest
+## 5.3. BRFK III. kerületi Rendőrkapitányság, Budapest
 
-## BRFK IV. kerületi Rendőrkapitányság, Budapest
+## 5.4. BRFK IV. kerületi Rendőrkapitányság, Budapest
 
-## BRFK V. kerületi Rendőrkapitányság, Budapest
+## 5.5. BRFK V. kerületi Rendőrkapitányság, Budapest
 
-## BRFK VI. kerületi Rendőrkapitányság, Budapest
+## 5.6. BRFK VI. kerületi Rendőrkapitányság, Budapest
 
-## BRFK VII. kerületi Rendőrkapitányság, Budapest
+## 5.7. BRFK VII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK VIII. kerületi Rendőrkapitányság, Budapest
+## 5.8. BRFK VIII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK IX. kerületi Rendőrkapitányság, Budapest
+## 5.9. BRFK IX. kerületi Rendőrkapitányság, Budapest
 
-## BRFK X. kerületi Rendőrkapitányság, Budapest
+## 5.10. BRFK X. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XI. kerületi Rendőrkapitányság, Budapest
+## 5.11. BRFK XI. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XII. kerületi Rendőrkapitányság, Budapest
+## 5.12. BRFK XII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XIII. kerületi Rendőrkapitányság, Budapest
+## 5.13. BRFK XIII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XIV. kerületi Rendőrkapitányság, Budapest
+## 5.14. BRFK XIV. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XV. kerületi Rendőrkapitányság, Budapest
+## 5.15. BRFK XV. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XVI. kerületi Rendőrkapitányság, Budapest
+## 5.16. BRFK XVI. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XVII. kerületi Rendőrkapitányság, Budapest
+## 5.17. BRFK XVII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XVIII. kerületi Rendőrkapitányság, Budapest
+## 5.18. BRFK XVIII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XIX. kerületi Rendőrkapitányság, Budapest
+## 5.19. BRFK XIX. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XX. és XXIII. kerületi Rendőrkapitányság, Budapest
+## 5.20. BRFK XX. és XXIII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XXI. kerületi Rendőrkapitányság, Budapest
+## 5.21. BRFK XXI. kerületi Rendőrkapitányság, Budapest
 
-## BRFK XXII. kerületi Rendőrkapitányság, Budapest
+## 5.22. BRFK XXII. kerületi Rendőrkapitányság, Budapest
 
-## BRFK Dunai Vízirendészeti Rendőrkapitányság, Budapest
+## 5.23. BRFK Dunai Vízirendészeti Rendőrkapitányság, Budapest
 
-## Csongrád Megyei Rendőr-főkapitányság
+## 6. Csongrád Megyei Rendőr-főkapitányság
 
-## Szegedi Rendőrkapitányság, Szeged
+## 6.1. Szegedi Rendőrkapitányság, Szeged
 
-## Hódmezővásárhelyi Rendőrkapitányság, Hódmezővásárhely
+## 6.2. Hódmezővásárhelyi Rendőrkapitányság, Hódmezővásárhely
 
-## Makói Rendőrkapitányság, Makó
+## 6.3. Makói Rendőrkapitányság, Makó
 
-## Szentesi Rendőrkapitányság, Szentes
+## 6.4. Szentesi Rendőrkapitányság, Szentes
 
-## Csongrádi Rendőrkapitányság, Csongrád
+## 6.5. Csongrádi Rendőrkapitányság, Csongrád
 
-## Kisteleki Rendőrkapitányság, Kistelek
+## 6.6. Kisteleki Rendőrkapitányság, Kistelek
 
-## Fejér Megyei Rendőr-főkapitányság
+## 7. Fejér Megyei Rendőr-főkapitányság
 
-## Székesfehérvári Rendőrkapitányság, Székesfehérvár
+## 7.1. Székesfehérvári Rendőrkapitányság, Székesfehérvár
 
-## Dunaújvárosi Rendőrkapitányság, Dunaújváros
+## 7.2. Dunaújvárosi Rendőrkapitányság, Dunaújváros
 
-## Bicskei Rendőrkapitányság, Bicske
+## 7.3. Bicskei Rendőrkapitányság, Bicske
 
-## Móri Rendőrkapitányság, Mór
+## 7.4. Móri Rendőrkapitányság, Mór
 
-## Sárbogárdi Rendőrkapitányság, Sárbogárd
+## 7.5. Sárbogárdi Rendőrkapitányság, Sárbogárd
 
-## Gárdonyi Rendőrkapitányság, Gárdony
+## 7.6. Gárdonyi Rendőrkapitányság, Gárdony
 
-## Győr-Moson-Sopron Megyei Rendőr-főkapitányság
+## 8. Győr-Moson-Sopron Megyei Rendőr-főkapitányság
 
-## Győri Rendőrkapitányság, Győr
+## 8.1. Győri Rendőrkapitányság, Győr
 
-## Soproni Rendőrkapitányság, Sopron
+## 8.2. Soproni Rendőrkapitányság, Sopron
 
-## Mosonmagyaróvári Rendőrkapitányság, Moson-
+## 8.3. Mosonmagyaróvári Rendőrkapitányság, Mosonmagyaróvár
 
-## magyaróvár
+## 8.4. Csornai Rendőrkapitányság, Csorna
 
-## Csornai Rendőrkapitányság, Csorna
+## 8.5. Kapuvári Rendőrkapitányság, Kapuvár
 
-## Kapuvári Rendőrkapitányság, Kapuvár
+## 9. Hajdú-Bihar Megyei Rendőr-főkapitányság
 
-## Hajdú-Bihar Megyei Rendőr-főkapitányság
+## 9.1. Debreceni Rendőrkapitányság, Debrecen
 
-## Debreceni Rendőrkapitányság, Debrecen
+## 9.2. Balmazújvárosi Rendőrkapitányság, Balmazújváros
 
-## Balmazújvárosi Rendőrkapitányság, Balmazújváros
+## 9.3. Berettyóújfalui Rendőrkapitányság, Berettyóújfalu
 
-## Berettyóújfalui Rendőrkapitányság, Berettyóújfalu
+## 9.4. Hajdúböszörményi Rendőrkapitányság, Hajdúböszörmény
 
-## Hajdúböszörményi Rendőrkapitányság, Hajdúböszörmény
+## 9.5. Hajdúhadházi Rendőrkapitányság, Hajdúhadház
 
-## Hajdúhadházi Rendőrkapitányság, Hajdúhadház
+## 9.6. Hajdúnánási Rendőrkapitányság, Hajdúnánás
 
-## Hajdúnánási Rendőrkapitányság, Hajdúnánás
+## 9.7. Hajdúszoboszlói Rendőrkapitányság, Hajdúszoboszló
 
-## Hajdúszoboszlói Rendőrkapitányság, Hajdúszoboszló
+## 9.8. Püspökladányi Rendőrkapitányság, Püspökladány
 
-## Püspökladányi Rendőrkapitányság, Püspökladány
+## 10. Heves Megyei Rendőr-főkapitányság
 
-## Heves Megyei Rendőr-főkapitányság
+## 10.1. Egri Rendőrkapitányság, Eger
 
-## Egri Rendőrkapitányság, Eger
+## 10.2. Gyöngyösi Rendőrkapitányság, Gyöngyös
 
-## Gyöngyösi Rendőrkapitányság, Gyöngyös
+## 10.3. Hatvani Rendőrkapitányság, Hatvan
 
-## Hatvani Rendőrkapitányság, Hatvan
+## 10.4. Hevesi Rendőrkapitányság, Heves
 
-## Hevesi Rendőrkapitányság, Heves
+## 10.5. Füzesabonyi Rendőrkapitányság, Füzesabony
 
-## Füzesabonyi Rendőrkapitányság, Füzesabony
+## 11. Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság
 
-## Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság
+## 11.1. Jászberényi Rendőrkapitányság, Jászberény
 
-## Jászberényi Rendőrkapitányság, Jászberény
+## 11.2. Karcagi Rendőrkapitányság, Karcag
 
-## Karcagi Rendőrkapitányság, Karcag
+## 11.3. Kunszentmártoni Rendőrkapitányság, Kunszentmárton
 
-## Kunszentmártoni Rendőrkapitányság, Kunszentmárton
+## 11.4. Mezőtúri Rendőrkapitányság, Mezőtúr
 
-## Mezőtúri Rendőrkapitányság, Mezőtúr
+## 11.5. Szolnoki Rendőrkapitányság, Szolnok
 
-## Szolnoki Rendőrkapitányság, Szolnok
+## 11.6. Tiszafüredi Rendőrkapitányság, Tiszafüred
 
-## Tiszafüredi Rendőrkapitányság, Tiszafüred
+## 11.7. Tiszai Vízirendészeti Rendőrkapitányság, Szolnok
 
-## Tiszai Vízirendészeti Rendőrkapitányság, Szolnok
+## 11.8. Törökszentmiklósi Rendőrkapitányság, Törökszentmiklós
 
-## Törökszentmiklósi Rendőrkapitányság, Törökszentmiklós
+## 12. Komárom-Esztergom Megyei Rendőr-főkapitányság
 
-## Komárom-Esztergom Megyei Rendőr-főkapitányság
+## 12.1. Tatabányai Rendőrkapitányság, Tatabánya
 
-## Tatabányai Rendőrkapitányság, Tatabánya
+## 12.2. Esztergomi Rendőrkapitányság, Esztergom
 
-## Esztergomi Rendőrkapitányság, Esztergom
+## 12.3. Komáromi Rendőrkapitányság, Komárom
 
-## Komáromi Rendőrkapitányság, Komárom
+## 12.4. Tatai Rendőrkapitányság, Tata
 
-## Tatai Rendőrkapitányság, Tata
+## 12.5. Oroszlányi Rendőrkapitányság, Oroszlány
 
-## Oroszlányi Rendőrkapitányság, Oroszlány
+## 12.6. Dorogi Rendőrkapitányság, Dorog
 
-## Dorogi Rendőrkapitányság, Dorog
+## 12.7. Kisbéri Rendőrkapitányság, Kisbér
 
-## Kisbéri Rendőrkapitányság, Kisbér
+## 13. Nógrád Megyei Rendőr-főkapitányság
 
-## Nógrád Megyei Rendőr-főkapitányság
+## 13.1. Salgótarjáni Rendőrkapitányság, Salgótarján
 
-## Salgótarjáni Rendőrkapitányság, Salgótarján
+## 13.2. Balassagyarmati Rendőrkapitányság, Balassagyarmat
 
-## Balassagyarmati Rendőrkapitányság, Balassagyarmat
+## 13.3. Pásztói Rendőrkapitányság, Pásztó
 
-## Pásztói Rendőrkapitányság, Pásztó
+## 13.4. Rétsági Rendőrkapitányság, Rétság
 
-## Rétsági Rendőrkapitányság, Rétság
+## 13.5. Szécsényi Rendőrkapitányság, Szécsény
 
-## Szécsényi Rendőrkapitányság, Szécsény
+## 13.6. Bátonyterenyei Rendőrkapitányság, Bátonyterenye
 
-## Bátonyterenyei Rendőrkapitányság, Bátonyterenye
+## 14. Pest Megyei Rendőr-főkapitányság
 
-## Pest Megyei Rendőr-főkapitányság
+## 14.1. Budaörsi Rendőrkapitányság, Budaörs
 
-## Budaörsi Rendőrkapitányság, Budaörs
+## 14.2. Ceglédi Rendőrkapitányság, Cegléd
 
-## Ceglédi Rendőrkapitányság, Cegléd
+## 14.3. Dabasi Rendőrkapitányság, Dabas
 
-## Dabasi Rendőrkapitányság, Dabas
+## 14.4. Dunakeszi Rendőrkapitányság, Dunakeszi
 
-## Dunakeszi Rendőrkapitányság, Dunakeszi
+## 14.5. Érdi Rendőrkapitányság, Érd
 
-## Érdi Rendőrkapitányság, Érd
+## 14.6. Gödöllői Rendőrkapitányság, Gödöllő
 
-## Gödöllői Rendőrkapitányság, Gödöllő
+## 14.7. Monori Rendőrkapitányság, Monor
 
-## Monori Rendőrkapitányság, Monor
+## 14.8. Nagykátai Rendőrkapitányság, Nagykáta
 
-## Nagykátai Rendőrkapitányság, Nagykáta
+## 14.9. Nagykőrösi Rendőrkapitányság, Nagykőrös
 
-## Nagykőrösi Rendőrkapitányság, Nagykőrös
+## 14.10. Ráckevei Rendőrkapitányság, Ráckeve
 
-## Ráckevei Rendőrkapitányság, Ráckeve
+## 14.11. Szentendrei Rendőrkapitányság, Szentendre
 
-## Szentendrei Rendőrkapitányság, Szentendre
+## 14.12. Szigetszentmiklósi Rendőrkapitányság, Szigetszentmiklós
 
-## Szigetszentmiklósi Rendőrkapitányság, Szigetszentmiklós
+## 14.13. Váci Rendőrkapitányság, Vác
 
-## Váci Rendőrkapitányság, Vác
+## 15. Somogy Megyei Rendőr-főkapitányság
 
-## Somogy Megyei Rendőr-főkapitányság
+## 15.1. Kaposvári Rendőrkapitányság, Kaposvár
 
-## Kaposvári Rendőrkapitányság, Kaposvár
+## 15.2. Barcsi Rendőrkapitányság, Barcs
 
-## Barcsi Rendőrkapitányság, Barcs
+## 15.3. Marcali Rendőrkapitányság, Marcali
 
-## Marcali Rendőrkapitányság, Marcali
+## 15.4. Nagyatádi Rendőrkapitányság, Nagyatád
 
-## Nagyatádi Rendőrkapitányság, Nagyatád
+## 15.5. Siófoki Rendőrkapitányság, Siófok
 
-## Siófoki Rendőrkapitányság, Siófok
+## 15.6. Fonyódi Rendőrkapitányság, Fonyód
 
-## Fonyódi Rendőrkapitányság, Fonyód
+## 15.7. Balatoni Vízirendészeti Rendőrkapitányság, Siófok
 
-## Balatoni Vízirendészeti Rendőrkapitányság, Siófok
+## 16. Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság
 
-## Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság
+## 16.1. Nyíregyházi Rendőrkapitányság, Nyíregyháza
 
-## Nyíregyházi Rendőrkapitányság, Nyíregyháza
+## 16.2. Fehérgyarmati Rendőrkapitányság, Fehérgyarmat
 
-## Fehérgyarmati Rendőrkapitányság, Fehérgyarmat
+## 16.3. Kisvárdai Rendőrkapitányság, Kisvárda
 
-## Kisvárdai Rendőrkapitányság, Kisvárda
+## 16.4. Mátészalkai Rendőrkapitányság, Mátészalka
 
-## Mátészalkai Rendőrkapitányság, Mátészalka
+## 16.5. Nyírbátori Rendőrkapitányság, Nyírbátor
 
-## Nyírbátori Rendőrkapitányság, Nyírbátor
+## 16.6. Vásárosnaményi Rendőrkapitányság, Vásárosnamény
 
-## Vásárosnaményi Rendőrkapitányság, Vásárosnamény
+## 16.7. Záhonyi Rendőrkapitányság, Záhony
 
-## Záhonyi Rendőrkapitányság, Záhony
+## 16.8. Tiszavasvári Rendőrkapitányság, Tiszavasvári
 
-## Tiszavasvári Rendőrkapitányság, Tiszavasvári
+## 17. Tolna Megyei Rendőr-főkapitányság
 
-## Tolna Megyei Rendőr-főkapitányság
+## 17.1. Szekszárdi Rendőrkapitányság, Szekszárd
 
-## Szekszárdi Rendőrkapitányság, Szekszárd
+## 17.2. Bonyhádi Rendőrkapitányság, Bonyhád
 
-## Bonyhádi Rendőrkapitányság, Bonyhád
+## 17.3. Dombóvári Rendőrkapitányság, Dombóvár
 
-## Dombóvári Rendőrkapitányság, Dombóvár
+## 17.4. Paksi Rendőrkapitányság, Paks
 
-## Paksi Rendőrkapitányság, Paks
+## 17.5. Tamási Rendőrkapitányság, Tamási
 
-## Tamási Rendőrkapitányság, Tamási
+## 18. Vas Megyei Rendőr-főkapitányság
 
-## Vas Megyei Rendőr-főkapitányság
+## 18.1. Szombathelyi Rendőrkapitányság, Szombathely
 
-## Szombathelyi Rendőrkapitányság, Szombathely
+## 18.2. Kőszegi Rendőrkapitányság, Kőszeg
 
-## Kőszegi Rendőrkapitányság, Kőszeg
+## 18.3. Celldömölki Rendőrkapitányság, Celldömölk
 
-## Celldömölki Rendőrkapitányság, Celldömölk
+## 18.4. Körmendi Rendőrkapitányság, Körmend
 
-## Körmendi Rendőrkapitányság, Körmend
+## 18.5. Sárvári Rendőrkapitányság, Sárvár
 
-## Sárvári Rendőrkapitányság, Sárvár
+## 18.6. Vasvári Rendőrkapitányság, Vasvár
 
-## Vasvári Rendőrkapitányság, Vasvár
+## 19. Veszprém Megyei Rendőr-főkapitányság
 
-## Veszprém Megyei Rendőr-főkapitányság
+## 19.1. Veszprémi Rendőrkapitányság, Veszprém
 
-## Veszprémi Rendőrkapitányság, Veszprém
+## 19.2. Ajkai Rendőrkapitányság, Ajka
 
-## Ajkai Rendőrkapitányság, Ajka
+## 19.3. Balatonalmádi Rendőrkapitányság, Balatonalmádi
 
-## Balatonalmádi Rendőrkapitányság, Balatonalmádi
+## 19.4. Balatonfüredi Rendőrkapitányság, Balatonfüred
 
-## Balatonfüredi Rendőrkapitányság, Balatonfüred
+## 19.5. Pápai Rendőrkapitányság, Pápa
 
-## Pápai Rendőrkapitányság, Pápa
+## 19.6. Tapolcai Rendőrkapitányság, Tapolca
 
-## Tapolcai Rendőrkapitányság, Tapolca
+## 19.7. Várpalotai Rendőrkapitányság, Várpalota
 
-## Várpalotai Rendőrkapitányság, Várpalota
+## 20. Zala Megyei Rendőr-főkapitányság
 
-## Zala Megyei Rendőr-főkapitányság
+## 20.1. Zalaegerszegi Rendőrkapitányság, Zalaegerszeg
 
-## Zalaegerszegi Rendőrkapitányság, Zalaegerszeg
+## 20.2. Nagykanizsai Rendőrkapitányság, Nagykanizsa
 
-## Nagykanizsai Rendőrkapitányság, Nagykanizsa
+## 20.3. Keszthelyi Rendőrkapitányság, Keszthely
 
-## Keszthelyi Rendőrkapitányság, Keszthely
+## 20.4. Lenti Rendőrkapitányság, Lenti
 
-## Lenti Rendőrkapitányság, Lenti
+3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^61]
 
-3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^53]
-
-[^53]: A 3. melléklet a 181/2009. (IX. 4.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^61]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

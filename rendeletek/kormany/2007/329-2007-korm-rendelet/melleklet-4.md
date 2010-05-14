@@ -1,65 +1,73 @@
-## A határrendészeti kirendeltségek elnevezése és székhelye:
+## A határrendészeti kirendeltségek elnevezése és székhelye
 
-## Bács-Kiskun megye
+## 1. Bács-Kiskun megye
 
-## Határrendészeti Kirendeltség Hercegszántó, Hercegszántó
+## 1.1. Határrendészeti Kirendeltség Hercegszántó, Hercegszántó
 
-## Határrendészeti Kirendeltség Bácsbokod, Bácsbokod
+## 1.2. Határrendészeti Kirendeltség Bácsbokod, Bácsbokod
 
-## Határrendészeti Kirendeltség Bácsalmás, Bácsalmás
+## 1.3. Határrendészeti Kirendeltség Bácsalmás, Bácsalmás
 
-## Határrendészeti Kirendeltség Kelebia, Kelebia
+## 1.4. Határrendészeti Kirendeltség Kelebia, Kelebia
 
-## Békés megye
+## 2. Békés megye
 
-## Határrendészeti Kirendeltség Battonya, Battonya
+## 2.1. Határrendészeti Kirendeltség Battonya, Battonya
 
-## Határrendészeti Kirendeltség Lőkösháza, Lőkösháza
+## 2.2. Határrendészeti Kirendeltség Lőkösháza, Lőkösháza
 
-## Határrendészeti Kirendeltség Gyula, Gyula
+## 2.3. Határrendészeti Kirendeltség Gyula, Gyula
 
-## Határrendészeti Kirendeltség Kötegyán, Kötegyán
+## 2.4. Határrendészeti Kirendeltség Kötegyán, Kötegyán
 
-## Határrendészeti Kirendeltség Biharugra, Biharugra
+## 2.5. Határrendészeti Kirendeltség Biharugra, Biharugra
 
-## Csongrád megye
+## 3. Csongrád megye
 
-## Határrendészeti Kirendeltség Szeged, Szeged
+## 3.1. Határrendészeti Kirendeltség Szeged, Szeged
 
-## Határrendészeti Kirendeltség Kiszombor, Kiszombor
+## 3.2. Határrendészeti Kirendeltség Kiszombor, Kiszombor
 
-## Határrendészeti Kirendeltség Nagylak, Nagylak
+## 3.3. Határrendészeti Kirendeltség Nagylak, Nagylak
 
-## Hajdú-Bihar megye
+## 4. Hajdú-Bihar megye
 
-## Határrendészeti Kirendeltség Biharkeresztes, Biharkeresztes
+## 4.1. Határrendészeti Kirendeltség Biharkeresztes, Biharkeresztes
 
-## Határrendészeti Kirendeltség Létavértes, Létavértes
+## 4.2. Határrendészeti Kirendeltség Létavértes, Létavértes
 
-## Határrendészeti Kirendeltség Nyírábrány, Nyírábrány
+## 4.3. Határrendészeti Kirendeltség Nyírábrány, Nyírábrány
 
-## Szabolcs-Szatmár-Bereg megye
+## 5. Szabolcs-Szatmár-Bereg megye
 
-## Határrendészeti Kirendeltség Nyírbátor, Nyírbátor
+## 5.1. Határrendészeti Kirendeltség Nyírbátor, Nyírbátor
 
-## Határrendészeti Kirendeltség Csenger, Csenger
+## 5.2. Határrendészeti Kirendeltség Csenger, Csenger
 
-## Határrendészeti Kirendeltség Kölcse, Kölcse
+## 5.3. Határrendészeti Kirendeltség Kölcse, Kölcse
 
-## Határrendészeti Kirendeltség Beregsurány, Beregsurány
+## 5.4. Határrendészeti Kirendeltség Beregsurány, Beregsurány
 
-## Határrendészeti Kirendeltség Barabás, Barabás
+## 5.5. Határrendészeti Kirendeltség Barabás, Barabás
 
-## Határrendészeti Kirendeltség Záhony, Záhony
+## 5.6. Határrendészeti Kirendeltség Záhony, Záhony
 
-4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^54]
+4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^62]
 
 A külön jogszabály szerinti pirotechnikai tevékenység engedélyezésére irányuló eljárásban közreműködő szakhatóságok
 
-| Bevonás és közreműködés feltétele | Szakkérdés | 1. fokú szakhatóság | 2. fokú szakhatóság |
+|  | A | B | C | D |
 
-| Pirotechnikai termék védett természeti területen való felhasználásának engedélyezése. | Annak elbírálása kérdésében, hogy a pirotechnikai termék felhasználása a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 1 | Bevonás és közreműködés feltétele | Szakkérdés | 1. fokú szakhatóság | 2. fokú szakhatóság |
 
-| Minden esetben. | a) tűzvédelmi szempontból a védőterület meghatározása; b) a védőterületen belül található létesítményeket és más veszélyforrások vizsgálata; c) a tűz jelzéséhez és oltásához szükséges eszközök meglétének vizsgálata; d) a felhasználók tűzvédelmi szakvizsgájának ellenőrzése. | az illetékes megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Tűzoltóparancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| 2 | Pirotechnikai termék védett természeti területen való felhasználásának engedélyezése | Annak elbírálása kérdésében, hogy a pirotechnikai termék felhasználása a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e | Környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^54]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+| 3 | Minden esetben | Tűzvédelmi szempontból a védőterület meghatározása | Az illetékes megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Tűzoltóparancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+
+| 4 | A védőterületen belül található létesítmények és más veszélyforrások vizsgálata |
+
+| 5 | A tűz jelzéséhez és oltásához szükséges eszközök meglétének vizsgálata |
+
+| 6 | A felhasználók tűzvédelmi szakvizsgájának ellenőrzése |
+
+[^62]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 148/2010. (IV. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

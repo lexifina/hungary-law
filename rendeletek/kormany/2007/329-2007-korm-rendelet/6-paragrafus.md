@@ -80,13 +80,7 @@ g)[^13] dönt a jogerősen elkobzott kábítószerek, pszichotróp anyagok jogsz
 
 h)[^14] lefolytatja – a Rendőrség közrendvédelmi, közlekedésrendészeti, valamint határrendészeti szolgálatának közvetlen helyszíni beavatkozásra rendszeresített (vonuló) gépjárművei, valamint a rendőrség által a védett személyek szállítására rendszeresített gépjárművei kivételével – a Rendőrség, továbbá a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a hivatásos katasztrófavédelmi szervek, a főfoglalkozású létesítményi tűzoltóság, a tűzoltó egyesület, a Magyar Honvédség, a Legfőbb Ügyészség, illetve a közlekedési balesetek szakmai vizsgálatát végző Közlekedésbiztonsági Szervezet által üzemben tartott gépjárművek megkülönböztető jelzéseinek felszerelésére és használatára, valamint a hatáskörébe tartozó közúti közlekedés biztonságára vonatkozó hatósági eljárást,
 
-i)[^15] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével –
-
-ia) az ORFK állományába tartozó hivatásos állományú tag, valamint
-
-ib) a rendőrségi fogdában fogvatartott
-
-rendkívüli halála esetén,
+i)[^15] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével – az ORFK állományába tartozó hivatásos állományú tag rendkívüli halála esetén,
 
 j)[^16] ellátja a személyek államhatáron történő átadás-átvételével kapcsolatos hatósági feladatokat, és másodfokon eljár az idegenrendészeti jogszabályokban meghatározott esetekben,
 
@@ -108,7 +102,7 @@ m)[^19] engedélyezi a fegyveres biztonsági őrség lőfegyverrel, lőszerrel �
 [^12]: A 6. § (3) bekezdés f) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^13]: A 6. § (3) bekezdés új g) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be, egyidejűleg az eredeti g)–j) pontok megjelölését h)–k) pontra változtatta, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^14]: A 6. § (3) bekezdés eredeti g) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése h) pontra változtatta, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 6. § (3) bekezdés eredeti h) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése i) pontra változtatta, szövege a 334/2009. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 6. § (3) bekezdés eredeti h) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése i) pontra változtatta, szövege a 148/2010. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^16]: A 6. § (3) bekezdés eredeti i) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése j) pontra változtatta.
 [^17]: A 6. § (3) bekezdés j) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni. A 6. § (3) bekezdés eredeti j) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése k) pontra változtatta.
 [^18]: A 6. § (3) bekezdés l) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

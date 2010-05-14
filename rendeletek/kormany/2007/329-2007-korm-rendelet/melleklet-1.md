@@ -1,53 +1,61 @@
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^59]
 
-1. Országos Rendőr-főkapitányság, Budapest.
+## A Rendőrség egyes szerveinek elnevezése és székhelye
 
-2. Budapesti Rendőr-főkapitányság, Budapest.
+1. A Rendőrség központi szervének székhelye
 
-3. Baranya Megyei Rendőr-főkapitányság, Pécs.
+1.1. Országos Rendőr-főkapitányság, Budapest
 
-4. Bács-Kiskun Megyei Rendőr-főkapitányság, Kecskemét.
+2. Az Rtv. 4. § (3) bekezdése alapján létrehozott rendőri szervek székhelye
 
-5. Békés Megyei Rendőr-főkapitányság, Békéscsaba.
+2.1. Köztársasági Őrezred, Budapest
 
-6. Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság, Miskolc.
+2.2. Nemzeti Nyomozó Iroda, Budapest
 
-7. Csongrád Megyei Rendőr-főkapitányság, Szeged.
+2.3. Készenléti Rendőrség, Budapest
 
-8. Fejér Megyei Rendőr-főkapitányság, Székesfehérvár.
+2.4. Repülőtéri Rendőr Igazgatóság, Budapest
 
-9. Győr-Moson-Sopron Megyei Rendőr-főkapitányság, Győr.
+3. A rendőr-főkapitányságok elnevezése és székhelye
 
-10. Hajdú-Bihar Megyei Rendőr-főkapitányság, Debrecen.
+3.1. Budapesti Rendőr-főkapitányság, Budapest
 
-11. Heves Megyei Rendőr-főkapitányság, Eger.
+3.2. Baranya Megyei Rendőr-főkapitányság, Pécs
 
-12. Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság, Szolnok.
+3.3. Bács-Kiskun Megyei Rendőr-főkapitányság, Kecskemét
 
-13. Komárom-Esztergom Megyei Rendőr-főkapitányság, Tatabánya.
+3.4. Békés Megyei Rendőr-főkapitányság, Békéscsaba
 
-14. Nógrád Megyei Rendőr-főkapitányság, Salgótarján.
+3.5. Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság, Miskolc
 
-15. Pest Megyei Rendőr-főkapitányság, Budapest.
+3.6. Csongrád Megyei Rendőr-főkapitányság, Szeged
 
-16. Somogy Megyei Rendőr-főkapitányság, Kaposvár.
+3.7. Fejér Megyei Rendőr-főkapitányság, Székesfehérvár
 
-17. Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság, Nyíregyháza.
+3.8. Győr-Moson-Sopron Megyei Rendőr-főkapitányság, Győr
 
-18. Tolna Megyei Rendőr-főkapitányság, Szekszárd.
+3.9. Hajdú-Bihar Megyei Rendőr-főkapitányság, Debrecen
 
-19. Vas Megyei Rendőr-főkapitányság, Szombathely.
+3.10. Heves Megyei Rendőr-főkapitányság, Eger
 
-20. Veszprém Megyei Rendőr-főkapitányság Veszprém.
+3.11. Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság, Szolnok
 
-21. Zala Megyei Rendőr-főkapitányság Zalaegerszeg.
+3.12. Komárom-Esztergom Megyei Rendőr-főkapitányság, Tatabánya
 
-Az Rtv. 4. § (3) bekezdése alapján létrehozott rendőri szervek:
+3.13. Nógrád Megyei Rendőr-főkapitányság, Salgótarján
 
-a) Köztársasági Őrezred, Budapest.
+3.14. Pest Megyei Rendőr-főkapitányság, Budapest
 
-b) Nemzeti Nyomozó Iroda, Budapest.
+3.15. Somogy Megyei Rendőr-főkapitányság, Kaposvár
 
-c) Készenléti Rendőrség, Budapest.
+3.16. Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság, Nyíregyháza
 
-d) Repülőtéri Rendőr Igazgatóság, Budapest.
+3.17. Tolna Megyei Rendőr-főkapitányság, Szekszárd
+
+3.18. Vas Megyei Rendőr-főkapitányság, Szombathely
+
+3.19. Veszprém Megyei Rendőr-főkapitányság, Veszprém
+
+3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
+
+[^59]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
