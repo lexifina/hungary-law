@@ -18,6 +18,8 @@ vállal, ideértve az áru vagy szolgáltatás megrendeléséről elküldött é
 
 (4) Az Országgyűlés által megválasztott személyek a tisztségük ellátásával összefüggő feladatok tekintetében, az 1990. évi LVI. törvény 5. §-ának (2) bekezdésében megjelölt személyek az ott meghatározott keret tekintetében jogosultak kötelezettségvállalásra.
 
+(4a)[^2] A kormányzati tevékenység összehangolásáért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 25. § (1) bekezdésében meghatározott testületek tagját írásban megbízhatja kötelezettség vállalására. A megbízásban a kötelezettségvállalás összeghatárát keretjelleggel meg kell határozni.
+
 (5) Az európai uniós forrásból finanszírozott normatív jellegű (mérlegelést nem igénylő) támogatások esetében a kötelezettséget vállaló szerv vezetője a közreműködő szervezet alkalmazásában álló személyt is megbízhat írásban a kötelezettség vállalására. A megbízásban a kötelezettségvállalás összeghatárát keretjelleggel meg kell határozni.
 
 (6) A helyi önkormányzat nevében az önkormányzati hivatal költségvetési előirányzatai terhére – a (7) bekezdésben meghatározott kivétellel – a polgármester vagy az általa felhatalmazott személy vállalhat kötelezettséget.
@@ -35,3 +37,5 @@ vállal, ideértve az áru vagy szolgáltatás megrendeléséről elküldött é
 (12) Kincstári körön kívüli természetes és jogi személyekkel, jogi személyiség nélküli egyéb szervezetekkel szemben fennálló kötelezettségek külön írásbeli kötelezettségvállalás és ellenjegyzés nélkül is teljesíthetőek, ha a kötelezettség jogosultsági feltételeit, annak összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét jogszabály, nemzetközi szervezetben való tagsági viszony, illetve jogerős bírósági, hatósági döntés teljes körűen meghatározza, így különösen a normatív és normatív jellegű hozzájárulások, nemzetközi kötelezettséggel kapcsolatos hozzájárulások, kártalanítási, kártérítési és megtérítési kötelezettségek, valamint az adományozott díjakhoz, kitüntetésekhez kapcsolódó pénzbeli juttatások esetében, azonban e rendeletnek a kötelezettségvállalások teljesítésére (érvényesítés, utalványozás, az utalvány ellenjegyzése) és nyilvántartására vonatkozó szabályait ilyen esetben is alkalmazni kell.
 
 (13) Fejezeti kezelésű előirányzatok esetében a szakmai, műszaki teljesítés határidejét úgy kell megállapítani, hogy a pénzügyi teljesítés határideje – ha jogszabály másként nem rendelkezik – nem haladhatja meg a tárgyévet követő év június 30-át.
+
+[^2]: A 72. § (4a) bekezdését a 169/2010. (V. 11.) Korm. rendelet 52. § (5) bekezdése iktatta be.

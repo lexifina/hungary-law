@@ -6,4 +6,6 @@
 
 (3) A kockázatkezelés keretében meg kell határozni az egyes kockázatokkal kapcsolatos intézkedéseket és megtételük módját.
 
-(4) A szervezet működésében rejlő kockázatos területek kiválasztására objektív kockázatelemzési módszert kell alkalmazni a pénzügyminiszter által kiadott módszertani útmutatók alapján.
+(4)[^3] A szervezet működésében rejlő kockázatos területek kiválasztását a pénzügyminiszter által kiadott, kötelező erővel nem rendelkező módszertani útmutató segíti.
+
+[^3]: A 157. § (4) bekezdése a 169/2010. (V. 11.) Korm. rendelet 52. § (6) bekezdésével megállapított szöveg.

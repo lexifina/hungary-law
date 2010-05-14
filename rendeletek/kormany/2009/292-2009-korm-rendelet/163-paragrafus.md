@@ -56,7 +56,7 @@ kötelezettségvállalások és kifizetések egyenkénti vizsgálatára.
 
 a) a kijelölt szerv állományába tartozó valamennyi személytől írásbeli és szóbeli tájékoztatást kérni,
 
-b)[^2] a kijelölt szerv tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében levő bármely adatot – ideértve a minősített adatokat, továbbá üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni, azokról vagy azok egy részéről a kijelölt szerv költségére másolatot készíteni,
+b)[^4] a kijelölt szerv tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében levő bármely adatot – ideértve a minősített adatokat, továbbá üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni, azokról vagy azok egy részéről a kijelölt szerv költségére másolatot készíteni,
 
 c) az egyes kötelezettségvállalásokat előzetesen véleményezni, különösen a célnak való megfelelőség, a szükségszerűség, az időszerűség, a forrásszükséglet, a fedezet megléte, illetve a kifizetés ütemezettsége vonatkozásában,
 
@@ -78,4 +78,4 @@ d) a kifizetéseket megelőzően vizsgálni a kötelezettségvállalás és a fo
 
 (16) A költségvetési szervhez kijelölt kincstári biztos, felsőoktatási kincstári megbízott köteles a kincstárnokot munkájában támogatni.
 
-[^2]: A 163. § (8) bekezdés b) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (26) bekezdése szerint módosított szöveg.
+[^4]: A 163. § (8) bekezdés b) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (26) bekezdése szerint módosított szöveg.
