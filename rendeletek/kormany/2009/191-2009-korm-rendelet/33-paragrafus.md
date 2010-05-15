@@ -1,23 +1,45 @@
 ## Birtokbaadás, használatbavételi engedély megkérése
 
-33. § (1) Az építmény műszaki átadás-átvételét, a hibák, hiányok és hiányosságok kijavítását, pótlását, valamint – az e rendeletben meghatározott esetekben – az építtetői fedezetkezelői elszámolás és az építési műszaki ellenőri teljesítésigazolás, továbbá a szerződésben megállapított ellenérték teljes kézhezvételét követően – a szerződés teljesítéseként – a fővállalkozó kivitelező az építtető birtokába adja az építményt, építményrészt, továbbá átadja a rendeltetésszerű és biztonságos használhatóságot igazoló felelős műszaki vezetői nyilatkozatot, az építési-bontási hulladék tárolására, elszállítására vonatkozó 5. melléklet szerinti tartalmú hulladék-nyilvántartó lapot, a kivitelezési dokumentációt vagy az épület tényleges megvalósulásának megfelelő módosítást is tartalmazó megvalósítási dokumentációt, az építmény, építményrész kezelési és karbantartási útmutatóját, és ha rendelkezésre áll, az energetikai tanúsítványt, továbbá minden olyan egyéb dokumentumot, igazolást, nyilatkozatot, amely az építtető számára a használatbavételi engedély megkéréséhez szükséges. Ezek összeállításában a kivitelezési dokumentáció tervezője, az építőipari kivitelezési tevékenységben részt vevő alvállalkozó kivitelezők és a beszállítók kötelesek együttműködni.
+33. §[^85] (1) A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, valamint az e rendeletben meghatározott esetekben az építtetői fedezetkezelői elszámolás és az építési műszaki ellenőri teljesítésigazolás, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező az építtető birtokába adja az építményt, építményrészt, továbbá átadja
 
-(2) A birtokbaadás során a fővállalkozó kivitelező – az (1) bekezdésben foglaltakon túlmenően – az építtetőnek átadja az őt megillető építési naplópéldányt, az építési napló összes mellékletét, a megvalósítási dokumentációt és a jótállási dokumentumokat, így különösen:
+a) a rendeltetésszerű és biztonságos használhatóságot igazoló felelős műszaki vezetői nyilatkozatot,
 
-a) a főbb mozgatható építményszerkezetek kezelési útmutatóját, használati utasítást,
+b) az építési-bontási hulladék tárolására, elszállítására vonatkozó 5. mellékletnek megfelelő tartalmú hulladék-nyilvántartó lapot,
 
-b) üzemeltetési, használati és karbantartási utasítást,
+c) a kivitelezési dokumentációt vagy az épület tényleges megvalósulásának megfelelő módosítást is tartalmazó megvalósítási dokumentációt,
 
-c) a nyomáspróba jegyzőkönyveit,
+d) az építmény, építményrész kezelési és karbantartási útmutatóját,
 
-d) a mérési jegyzőkönyveket és az elvégzett működési próbák jegyzőkönyveit,
+e) ha rendelkezésre áll, az energetikai tanúsítványt, és
 
-e) a villamos berendezés első felülvizsgálatának eredményéről készített minősítő iratot,
+f) minden olyan egyéb dokumentumot, igazolást, nyilatkozatot, amely az építtető számára a használatbavételi engedély megkéréséhez szükséges.
 
-f) a beépített szerelvények, berendezések, burkolatok, egyéb tartozékok jótállási jegyét,
+(2) Az (1) bekezdésben foglalt dokumentációk összeállításában a kivitelezési dokumentáció tervezője, az építőipari kivitelezési tevékenységben részt vevő alvállalkozó kivitelezők és a beszállítók kötelesek együttműködni.
 
-g) a közüzemi mérőórák jótállási jegyét, hitelesítési jegyzőkönyveit,
+(3) A birtokbaadás során a fővállalkozó kivitelező – az (1) bekezdésben foglaltakon túlmenően – az építtetőnek átadja
 
-h) az építmény használatával összefüggő későbbi munkákhoz kapcsolódó – külön jogszabály szerinti – biztonsági és egészségvédelmi tervet.
+a) az őt megillető építési naplópéldányt annak összes mellékletével,
 
-(3) Az építtető az építmény rendeltetésszerű és biztonságos használatra alkalmassá válását követően – a külön jogszabályban foglaltak szerint – az építésügyi hatóságtól használatbavételi engedélyt kér vagy használatbavételi bejelentést tesz.
+b) a megvalósítási dokumentációt,
+
+c) a jótállási dokumentumokat,
+
+ca) a főbb mozgatható építményszerkezetek kezelési útmutatóját, használati utasítást,
+
+cb) üzemeltetési, használati és karbantartási utasítást,
+
+cc) a nyomáspróba jegyzőkönyveit,
+
+cd) a mérési jegyzőkönyveket és az elvégzett működési próbák jegyzőkönyveit,
+
+ce) a villamos berendezés első felülvizsgálatának eredményéről készített minősítő iratot,
+
+cf) a beépített szerelvények, berendezések, burkolatok, egyéb tartozékok jótállási jegyét,
+
+cg) a közüzemi mérőórák jótállási jegyét, hitelesítési jegyzőkönyveit,
+
+ch) az építmény használatával összefüggő későbbi munkákhoz kapcsolódó biztonsági és egészségvédelmi tervet.
+
+(4) Az építtető és a fővállalkozó kivitelező erre irányuló megállapodása szerint a birtokbaadási eljárásra a használatbavételi engedély megszerzését, használatbavételi bejelentés megtörténtét követően is sor kerülhet azzal, hogy az e rendeletben meghatározottak szerint az építtetői fedezetkezelői elszámolás és az építési műszaki ellenőri teljesítésigazolás, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező az építtető részére átadja az (1) bekezdésben meghatározott dokumentumokat.
+
+[^85]: A 33. § a 182/2010. (V. 14.) Korm. rendelet 5. § (34) bekezdésével megállapított szöveg.

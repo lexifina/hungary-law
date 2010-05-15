@@ -10,7 +10,7 @@
 
 ## e) Minden felmért adat bejegyzésénél külön sorban kell feltüntetni (esetleg az építményre, építményrészre hivatkozással) a munkanemet (pl. I. földmunka), majd a következő sorban a kelet és szint adatát, vonalas építkezésnél a szelvényszámot, a költségvetési (pótköltségvetési) tételszámot (naplóoldalszámot), amelyre a bejegyzendő adatok vonatkoznak. A hivatkozási szám után címszószerűen be kell írni a felmért tétel megnevezését (pl. földkiemelés III. o.).
 
-4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez
+4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^97]
 
 ## Az építési tevékenység megkezdésének előzetes bejelentése
 
@@ -88,8 +88,16 @@ b) címe (irányítószám, település, utca, házszám, emelet, ajtó vagy Pf.
 
 c) névjegyzéki száma: ME-
 
-10. Az építtető (beruházó) mint adatszolgáltató nyilatkozata:
+10. Építtetői fedezetkezelő adatai (ha jogszabály előírja építtetői fedezetkezelő közreműködését)
+
+a) neve:
+
+b) címe:
+
+11. Az építtető, beruházó, mint adatszolgáltató nyilatkozata:
 
 Kijelentem, hogy az adatbejelentésben közölt adatok a valóságnak megfelelőek.
 
-Kelt:  200 év  hó   nap
+Kelt: ..........................., ........... év .............................. hó .......... nap
+
+[^97]: A 4. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.

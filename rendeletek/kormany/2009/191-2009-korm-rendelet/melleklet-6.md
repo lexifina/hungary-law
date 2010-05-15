@@ -62,30 +62,32 @@
 
 | Összesen: |  |  |  |
 
-6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez
+6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^98]
 
-## Az építési tevékenység megkezdésének utólagos bejelentése
+Az építési tevékenység megkezdésének utólagos bejelentése
 
-Iktatószám:
+Iktatószám: ..........................
 
 Adatok:
 
-1. Az építési tevékenységgel érintett ingatlan címe, helyrajzi száma:
+1. Az építési tevékenységgel érintett ingatlan címe, helyrajzi száma: .........................................
 
-2. Az építtető (bejelentő) neve, címe:
+2. Az építtető neve, címe: .............................
 
-3. A bejelentés tárgyára vonatkozó jogerős építésügyi hatósági engedély (bejelentés) megnevezése, száma, kelte:
+3. A bejelentés tárgyára vonatkozó jogerős építésügyi hatósági engedély megnevezése, száma, kelte, építésügyi hatóság megnevezése: .............................................................................
 
-Kérelem:
+Bejelentem, hogy az 1. pontban megjelölt ingatlanon tervezett új építmény, építményrész, meglévő építmény bővítése, átalakítása, korszerűsítése, felújítása, helyreállítása, elmozdítása, fennmaradása és továbbépítése, egyéb építési tevékenység
 
-Alulírott   (név, cím) bejelentem, hogy az 1. pontban megjelölt ingatlanon tervezett új építmény, építményrész, meglévő építmény bővítése, átalakítása, korszerűsítése, felújítása, helyreállítása, elmozdítása, fennmaradása és továbbépítése, egyéb építési tevékenység végzése
+a) az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított 50 millió forint számított építményértéket nem éri el és nem haladja meg, az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint nem tartozik az építtetői fedezetkezelés hatálya alá, nem tartozik a közbeszerzésekről szóló 2003. évi CXXIX. törvény hatálya alá, valamint a továbbépítésre vonatkozóan az 50 millió forint számított építményértéket nem éri el,
 
-a) az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított 50 millió forint számított építmény-értéket nem éri el és nem haladja meg, nem tartozik az építtetői fedezetkezelés hatálya alá, nem tartozik a közbeszerzésekről szóló 2003. évi CXXIX. törvény hatálya alá, valamint a továbbépítésre vonatkozóan az 50 millió forint számított építmény-értéket nem éri el,
+b) végzését ............................... (dátum) a vállalkozó kivitelező megkezdte, az építési naplót megnyitotta.
 
-b) az építőipari kivitelezési tevékenységét   (dátum) a vállalkozó kivitelező megkezdte, az építési naplót megnyitotta.
+Kelt: .................................., .................. év ..................................... hó ........ nap
 
-Kelt:  ,   év  hó   nap
+........................................................
 
 aláírás
 
-(bejelentő, építtető)
+(építtető)
+
+[^98]: A 6. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

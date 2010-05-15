@@ -10,9 +10,9 @@ ab) bejegyzett tevékenységi körét,
 
 ac) telephelye – több telephely esetén telephelyei – címét,
 
-ad) az építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező szakmunkásainak számát tevékenységi körönként, azt is megjelölve személyenként, hogy vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban áll,
+ad)[^86] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, a szakképesítéssel rendelkező egyéni vállalkozó kivételével,
 
-ae) a felelős műszaki vezetői feladatok ellátására jogosult alkalmazottainak számát, azt is megjelölve személyenként, hogy vele munkaviszonyban, tagsági vagy megbízási jogviszonyban áll, továbbá azokat a kivitelezési tevékenységeket, amelyek tekintetében legalább egyikük felelős műszaki vezetői feladatok ellátására jogosult,
+ae)[^87] rendelkezésére álló felelős műszaki vezetői feladatok ellátására jogosult foglalkoztatottak vagy munkavégzésre irányuló egyéb jogviszonyban állók számát, és
 
 af) nyilatkozatát arról, hogy az Étv. 39. § (2) bekezdésében meghatározott feltételeket egyébként teljesíti, továbbá
 
@@ -39,3 +39,6 @@ c) a bejelentést tevő nyilatkozatát a bejelentés (ideértve az igazolás cé
 (4) A Magyar Kereskedelmi és Iparkamara (a továbbiakban: MKIK) a bejelentő számára a nyilvántartásba vétellel egyidejűleg nyilvántartási számot ad ki.
 
 (5) A bejelentés elektronikus úton vagy elektronikus adathordozón is benyújtható.
+
+[^86]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.
+[^87]: A 35. § (1) bekezdés a) pont ae) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.

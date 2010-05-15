@@ -6,10 +6,12 @@ b) a fedezetkezelői számla adatait,
 
 c) az építtető részéről annak igazolását, hogy a szerződésben megjelölt fedezetkezelői számla felett kizárólagos rendelkezési jogot biztosít az építtetői fedezetkezelő részére,
 
-d) az építőipari kivitelezési tevékenység teljes fedezetének – összeg szerint meghatározott – igazolt forrását, az építtetői fedezetkezelő rendelkezése alá helyezésének ütemezését, felhasználásának módját,
+d)[^9] az építőipari kivitelezési tevékenység teljes fedezetének – összeg szerint meghatározott – igazolt forrását, az építtetői fedezetkezelő rendelkezése alá helyezésének ütemezését, felhasználásának módját, ideértve az építtető által a fővállalkozó kivitelezőnek nyújtott, saját vagy egyéb forrásból származó előleget is,
 
 e) a felek megállapodása esetén a fővállalkozó kivitelező által a nem vagy nem szerződésszerű teljesítés esetére nyújtott teljesítési biztosíték összegének meghatározását, biztosításának formáját, célját, felhasználásának lehetőségét,
 
 f) a fővállalkozó kivitelező részéről annak igazolását, hogy a szerződésben megjelölt kötelezettségei teljesítésének érdekében általa nyújtott biztosíték összegének felhasználása kizárólag a fedezetkezelői számlán keresztül lehetséges,
 
 g) a fővállalkozó kivitelező részére az építtetői fedezetkezelő által meghatározott, az elektronikus alvállalkozói nyilvántartás (a továbbiakban: alvállalkozói nyilvántartás) használatát biztosító kódot.
+
+[^9]: A 4. § d) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.

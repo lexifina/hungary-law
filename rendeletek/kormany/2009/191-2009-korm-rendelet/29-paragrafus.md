@@ -24,4 +24,6 @@ aa) fővállalkozó kivitelező (több fővállalkozó vagy alvállalkozó kivit
 
 ab) felelős műszaki vezető (több felelős műszaki vezető esetén a kezdéskor ismert összes felelős műszaki vezető),
 
-ac) ha jogszabály építési műszaki ellenőr alkalmazását előírja vagy építési műszaki ellenőr alkalmazására kerül sor, az építési műszaki ellenőr
+ac)[^76] ha jogszabály építési műszaki ellenőr alkalmazását előírja vagy építési műszaki ellenőr alkalmazására kerül sor, az építési műszaki ellenőr
+
+[^76]: A 29. § (2) bekezdés a) pont ac) alpontja a 182/2010. (V. 14.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.

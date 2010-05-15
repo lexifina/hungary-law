@@ -1,6 +1,6 @@
 ## A tervező
 
-9. § (1) Az építtető vagy megbízása alapján a fővállalkozó kivitelező, illetve a beruházáslebonyolító a jogosultsággal rendelkező építészeti-műszaki tervezővel (a továbbiakban: tervező) a kivitelezési dokumentáció elkészítésére tervezési szerződést köt, melyet az építésügyi hatósági engedélyhez kötött építmények, építési tevékenységek esetén írásba kell foglalni.
+9. § (1)[^12] Az építtető, vagy megbízása alapján a fővállalkozó kivitelező vagy a beruházáslebonyolító a jogosultsággal rendelkező tervezővel a kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
 
 (2) A tervezési szerződés tartalmazza
 
@@ -50,6 +50,9 @@ f) annak ismertetését, ha az engedélyezési dokumentációtól – a jogszab�
 
 (7) A tervező az Étv. 33. § (1) bekezdésében foglaltakon túlmenően felelős az általa készített kivitelezési dokumentáció technológiai megvalósíthatóságáért.
 
-(8) A kivitelezési dokumentációt az (5) bekezdés szerinti nyilatkozatával a tervező a szerződésben megállapított ellenérték kézhezvételét követően – a tervezési szerződés teljesítéseként – aláírásával ellátva felhasználás céljából az (1) bekezdés szerinti szerződő fél birtokába adja.
+(8)[^13] A kivitelezési dokumentációt az (5) bekezdés szerinti nyilatkozatával a tervező a szerződésben megállapított ellenérték kézhezvételekor – a tervezési szerződés teljesítéseként – aláírásával ellátva felhasználás céljából az (1) bekezdés szerinti szerződő fél birtokába adja.
 
 (9) A tervező biztosítja a tervellenőr számára a tervek szakaszos rendelkezésre bocsátását.
+
+[^12]: A 9. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^13]: A 9. § (8) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 6. pontja szerint módosított szöveg.

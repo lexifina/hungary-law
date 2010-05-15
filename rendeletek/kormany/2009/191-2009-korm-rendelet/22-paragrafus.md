@@ -18,7 +18,9 @@ ac) 1000 m3 bruttó térfogat,
 
 ad) 7,5 m-es építménymagasság és
 
-ae) 5,4 m-es szerkezeti nyílásméret (falköz, oszlopköz, előregyártott födém), előregyártott födémszerkezet, vagy
+ae)[^71] az af) alpont kivételével 5,4 m-es szerkezeti nyílásméret, vagy
+
+af)[^72] 6,6 m-es falköz, oszlopköz méretű előregyártott födémszerkezet, vagy
 
 b) a bejelentéshez kötött építményt, építési tevékenységet érintő építőipari kivitelezési tevékenység esetén, vagy
 
@@ -44,7 +46,7 @@ aa) az épület tartószerkezete vagy annak elemei monolit vasbeton,
 
 ab) az aa) alpontban foglaltak kivételével a teherhordó szerkezet 5,4 m-es fal- vagy oszlopköznél nagyobb kiváltást tartalmaz,
 
-ac) előregyártott födémszerkezet 6,6 m-es fal- vagy oszlopköznél nagyobb kiváltást tartalmaz,
+ac)[^73] előregyártott födémszerkezet 6,6 m-es fal- vagy oszlopköznél nagyobb,
 
 ad) a tetőszerkezetben a talpszelemenek távolsága, vagy bárhol lévő megtámasztás nélküli áthidalás meghaladja a 6,0 m-t,
 
@@ -58,7 +60,7 @@ d) energetikai számítást kell készíteni a külön jogszabályban meghatáro
 
 a) a (3) bekezdés b)–g) pont és a (4) bekezdés hatálya alá nem tartozó építmény,
 
-b) a (3) bekezdés a) pontjában meghatározott mértéket meghaladó építmény,
+b)[^74] a (3) bekezdés a) pont aa)–ad) alpontjában meghatározott mértéket meghaladó építmény,
 
 c) közhasználatú épület,
 
@@ -69,3 +71,8 @@ e) üzemeléstechnológiai (gyártás-, javítás-, vizsgálat-, konyha-, egész
 építőipari kivitelezési tevékenysége esetében.
 
 (7) A kivitelezési dokumentáció tartalma – az Étv. 38. § (2) bekezdésében foglaltak kivételével – nem térhet el a jogerős építésügyi hatósági engedélyben, illetve műemlék esetén az örökségvédelmi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól, illetve a bejelentéshez mellékelt dokumentáció tartalmától. Ennek betartásáért a tervező felel.
+
+[^71]: A 22. § (3) bekezdés a) pont ae) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (27) bekezdésével megállapított szöveg.
+[^72]: A 22. § (3) bekezdés a) pont af) alpontját a 182/2010. (V. 14.) Korm. rendelet 5. § (27) bekezdése iktatta be.
+[^73]: A 22. § (5) bekezdés a) pont ac) alpontja a 182/2010. (V. 14.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^74]: A 22. § (6) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (28) bekezdésével megállapított szöveg.

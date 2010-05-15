@@ -4,23 +4,21 @@
 
 (2) Az építtetői fedezetkezelő a teljesítésigazolásban megjelölt összegről kiállított számla alapján, a teljesítésigazolásban elismert ellenértéket a rendelkezése alá helyezett fedezetből a fővállalkozó kivitelező részére köteles – a (4) és (6) bekezdésben meghatározottak figyelembevételével – fizetési határidőn belül kifizetni.
 
-(3) Az építtetői fedezetkezelő az építőipari kivitelezési tevékenység fedezetével – a (4)–(6) bekezdés szerinti eset összegének kivételével – az építtető felé az építőipari kivitelezési tevékenységre vonatkozó szabályok szerinti birtokba adást követő öt munkanapon belül számol el.
+(3)[^58] Az építtetői fedezetkezelő az építőipari kivitelezési tevékenység fedezetével – a (4)–(6) bekezdés szerinti eset összegének kivételével – az építtető és a fővállalkozó kivitelező felé az építőipari kivitelezési tevékenység befejezéseként benyújtott végszámla kiegyenlítését követő öt munkanapon belül számol el.
 
-(4) Az építtetői fedezetkezelő – az alvállalkozói nyilvántartás adatai alapján – a fővállalkozó kivitelező esedékes számlája kiegyenlítéséből köteles
+(4)[^59] Az építtetői fedezetkezelő – az alvállalkozói nyilvántartás adatai alapján – a fővállalkozó kivitelező esedékes számlája kiegyenlítéséből köteles
 
-a) visszatartani a szerződés teljesítésében részt vevő alvállalkozó által a teljesítésigazolás alapján számlázott, de részére határidőre ki nem egyenlített követelésnek megfelelő összeg,
+a) visszatartani a fővállalkozó teljesítésében részt vevő alvállalkozó által a teljesítésigazolás alapján számlázott, de részére ki nem egyenlített követelésnek megfelelő összeg kifizetését, és a visszatartásról haladéktalanul köteles értesíteni azt az alvállalkozót, aki a teljesítésigazolás tartalmát vitatta, vagy
 
-b) harminc napra felfüggeszteni a szerződés teljesítésében részt vevő alvállalkozó kivitelező által – amennyiben a teljesítésigazolás kézhez vételétől számított nyolc munkanapon belül az alvállalkozói nyilvántartásban jelezve vitatja a felelős műszaki vezető által kiadott teljesítésigazolás tartalmát – megjelölt ellenérték, de legfeljebb a részére járó adott teljesítési szakasz szerződésben rögzített ellenértéke és a teljesítésigazolásban jóváhagyott összeg közti különbözetnek megfelelő összeg
-
-kifizetését. Az építtetői fedezetkezelő a visszatartásáról haladéktalanul köteles értesíteni azt az alvállalkozót, aki a ki nem egyenlített követelés fennállását jelezte.
+b) harminc napra felfüggeszteni a fővállalkozó teljesítésében részt vevő alvállalkozó kivitelező – ha a teljesítésigazolás kézhez vételétől számított öt munkanapon belül az alvállalkozói nyilvántartásban jelezve vitatja a felelős műszaki vezető által kiadott teljesítésigazolás tartalmát – által megjelölt ellenérték, de legfeljebb a részére járó adott teljesítési szakasz szerződésben rögzített ellenértéke és a teljesítésigazolásban jóváhagyott összeg közti különbözetnek megfelelő összeg kifizetését.
 
 (5) Az építtetői fedezetkezelő
 
-a) a (4) bekezdés a) pontja szerint visszatartott összeget haladéktalanul kifizeti a teljesítésigazolással elismert, de határidőre ki nem egyenlített követelés jogosultjának,
+a)[^60] a (4) bekezdés a) pontja szerint visszatartott összeget haladéktalanul kifizeti a teljesítésigazolással elismert, de határidőre ki nem egyenlített követelés jogosultjának, ha az alvállalkozóval szemben ellenszolgáltatásra kötelezett a fedezetkezelő írásbeli felszólítására két munkanapon belül nem igazolja a kifizetést,
 
 b) az alvállalkozóval szemben ellenszolgáltatásra kötelezett vállalkozó kivitelező részére a visszatartott összeget kifizeti, ha az alvállalkozó nem igazolja a (4) bekezdés b) pontja szerinti felfüggesztés időtartama alatt a teljesítésigazoláson túli összeg vonatkozásában a vitarendezési eljárás megindítását vagy a vitatott követelés kiegyenlítése megtörténik.
 
-(6) Amennyiben a (4) bekezdés b) pontja szerinti vita eldöntése érdekében közvetítői, bírósági vagy választottbírósági eljárás indul, akkor az építtetői fedezetkezelő a (4) bekezdés b) pontja szerinti összeget a döntésig visszatartja és a jogerős döntésnek, illetve közvetítői eljárás esetén az egyezségnek megfelelően a visszatartott összeget kifizeti. Az építtetői fedezetkezelő által visszatartott összeg kifizetése az egyéb igények érvényesítését nem érinti.
+(6)[^61] Amennyiben a (4) bekezdés b) pontja szerinti vita eldöntése érdekében közvetítői, bírósági vagy választottbírósági eljárás indul, akkor az építtetői fedezetkezelő a (4) bekezdés b) pontja szerinti összeget a döntésig visszatartja és a jogerős döntésnek, illetve közvetítői eljárás esetén az egyezségnek megfelelően a visszatartott összeget – az alvállalkozó által az ellenszolgáltatásra kötelezett vállalkozó kivitelező nevére kiállított számla ellenében – kifizeti. Az építtetői fedezetkezelő által visszatartott összeg kifizetése az egyéb igények érvényesítését nem érinti.
 
 (7) Ha az alvállalkozó a bírósági vagy választottbírósági eljárás megindításának igazolására nyitva álló határidő alatt – ezen eljárások megindítása helyett – külön törvényben meghatározott közvetítői eljárást megindító nyilatkozatot (a felek és a közvetítő által aláírt szerződést) juttat el az építtetői fedezetkezelőnek, az építtetői fedezetkezelő a kifizetés felfüggesztésének megszüntetéséről a (8) bekezdés szerint intézkedik.
 
@@ -39,3 +37,8 @@ b) a közvetítői eljárás megállapodás nélkül vagy nem fejeződik be és 
 (9) A külön törvényben meghatározott közvetítői eljárást megindító nyilatkozatban (ideértve a felek és a közvetítő által aláírt megbízási szerződést) a felek és a közvetítő megállapodhatnak abban, hogy a közvetítői eljárásban a vita kimenetelében érdekelt egyéb személyek is részt vegyenek.
 
 (10) Az építtetői fedezetkezelő a (4) bekezdés szerinti fővállalkozó kivitelezővel szembeni kifizetésből történő visszatartási kötelezettségét a fővállalkozó kivitelező által nyújtott – a visszatartandó összegnek megfelelő mértékű, a visszatartás célját szolgáló – bankgarancia elfogadásával is teljesítheti.
+
+[^58]: A 20. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 20. pontja szerint módosított szöveg.
+[^59]: A 20. § (4) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (19) bekezdésével megállapított szöveg.
+[^60]: A 20. § (5) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (20) bekezdésével megállapított szöveg.
+[^61]: A 20. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 21. pontja szerint módosított szöveg.

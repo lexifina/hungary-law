@@ -8,7 +8,7 @@
 
 a) az építőipari kivitelezési tevékenység folytatására,
 
-b) az építőipari kivitelezési tevékenység megvalósításában részt vevő építtető, beruházáslebonyolító, tervező, tervellenőr, kivitelező, felelős műszaki vezető, tervezői művezető, építési műszaki ellenőr és az építtetői fedezetkezelő feladataira,
+b)[^1] az építőipari kivitelezési tevékenység megvalósításában részt vevő építtető, beruházáslebonyolító, építészeti-műszaki tervező (a továbbiakban: tervező), tervellenőr, kivitelező, felelős műszaki vezető, tervezői művezető, építési műszaki ellenőr és az építtetői fedezetkezelő feladataira,
 
 c) az építési napló, az építési napló alvállalkozói nyilvántartása és a felmérési napló vezetésére,
 
@@ -20,7 +20,7 @@ f) az építőipari kivitelezési tevékenység megkezdésével kapcsolatos elj�
 
 g) az építőipari kivitelezési tevékenység befejezésével kapcsolatos eljárásokra,
 
-h) a tervezési és az építési szerződés kötelező tartalmi és formai előírásaira,
+h)[^2] az építészeti-műszaki tervezési (a továbbiakban: tervezési) és az építési szerződés kötelező tartalmi és formai előírásaira,
 
 i) a vállalkozói díjjal kapcsolatos szabályozásra,
 
@@ -31,3 +31,6 @@ j) az építőipari kivitelezési tevékenységet végzők névjegyzékének a v
 (3) E rendeletnek az építőipari kivitelezési tevékenységgel kapcsolatos adatszolgáltatásra vonatkozó előírásait az atomenergia alkalmazására szolgáló, a nemzetbiztonsági, a honvédelmi és a katonai célú építményekre nem kell alkalmazni.
 
 (4) A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) hatálya alá tartozó építési beruházások esetében a Kbt. és az építési beruházások közbeszerzésekkel kapcsolatos részletes szabályairól szóló kormányrendelet által nem szabályozott kérdésekben e rendelet előírásait kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés h) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.

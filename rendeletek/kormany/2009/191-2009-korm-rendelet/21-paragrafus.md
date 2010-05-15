@@ -1,14 +1,16 @@
-21. § (1) Az építtetői fedezetkezelő a fővállalkozó kivitelező által nyújtott teljesítési biztosítékot szerződésben meghatározott kötelezettség nem teljesítése esetén, az építtető kezdeményezésére és az építési műszaki ellenőr igazolása alapján az építési szerződésben meghatározott igazolt kiadások kiegyenlítésére használja fel.
+21. § (1)[^63] Az építtetői fedezetkezelő a fővállalkozó kivitelező által nyújtott teljesítési biztosítékot az építési szerződésben meghatározott kötelezettség nem teljesítése esetén, az építtető kezdeményezésére és az építési műszaki ellenőr igazolása alapján az építési szerződésben meghatározott kiadások kiegyenlítésére használja fel. Ha az építtető az építési szerződésben rögzített feltételek hiányában kezdeményezi a fővállalkozó kivitelező által nyújtott teljesítési biztosíték felhasználását, vagy az építtető által lehívott teljesítési biztosíték építési szerződésben meghatározott célra történő felhasználásához az építési műszaki ellenőr nem adja ki az igazolást, az építtetői fedezetkezelő nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére.
+
+(1a)[^64] Ha az építtetői fedezetkezelő az (1) bekezdés szerint nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére, az építtetői fedezetkezelő a közreműködése keretében egyeztetést folytat az építtetővel és a fővállalkozó kivitelezővel. Az építtetői fedezetkezelő a létrejött megállapodásának megfelelően intézkedik a fedezetkezelői számlán lévő teljesítési biztosíték felhasználásáról.
 
 (2) Az építtetői fedezetkezelő az alvállalkozói nyilvántartás működtetése keretében
 
-a) tájékoztatja a vállalkozó (fővállalkozó) és alvállalkozó kivitelezőt az őt terhelő nyilvántartás-kitöltési kötelezettségéről,
+a)[^65] tájékoztatja az építtetőt és a fővállalkozó kivitelezőt a felelősségi körükbe tartozó nyilvántartás-kitöltési kötelezettségről,
 
-b) a vállalkozói szintnek megfelelő egyéni kódot biztosít a vállalkozó és alvállalkozó kivitelező részére az alvállalkozói nyilvántartásba történő belépéshez,
+b)[^66] egyéni kódot biztosít az építtető és a fővállalkozó kivitelező részére az alvállalkozói nyilvántartásba történő belépéshez,
 
-c) az alvállalkozó kivitelező igénye esetén és nyilatkozata alapján rögzíti az adatait az alvállalkozói nyilvántartásban,
+c)[^67]
 
-d) figyelemmel kíséri a vállalkozó és alvállalkozó kivitelező általi nyilvántartás-kitöltési kötelezettség teljesítését,
+d)[^68] figyelemmel kíséri a fővállalkozó kivitelező nyilvántartás-kitöltési kötelezettségének teljesítését,
 
 e) figyelemmel kíséri az alvállalkozói teljesítések határidőben történő kifizetését,
 
@@ -24,4 +26,12 @@ g) haladéktalanul értesíti az alvállalkozói nyilvántartásban szereplő ö
 
 h) haladéktalanul értesítési az alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha a fedezetkezelői szerződés a 17. § (8) bekezdés szerint megszűnik.
 
-(3) Az építtetői fedezetkezelő az alvállalkozói nyilvántartást közreműködésének 17. § (7) vagy (8) bekezdés, vagy 20. § (6) bekezdés szerinti befejezését követő harminc napig köteles működtetni.
+(3)[^69] Az építtetői fedezetkezelő az elektronikus alvállalkozói nyilvántartást a fedezetkezelői szerződés megkötésétől legkésőbb közreműködésének 17. § (7) vagy (8) bekezdése, vagy 20. § (6) bekezdése szerinti befejezését követő harminc napig működteti.
+
+[^63]: A 21. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdésével megállapított szöveg.
+[^64]: A 21. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdése iktatta be.
+[^65]: A 21. § (2) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
+[^66]: A 21. § (2) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
+[^67]: A 21. § (2) bekezdés c) pontját a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^68]: A 21. § (2) bekezdés d) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (24) bekezdésével megállapított szöveg.
+[^69]: A 21. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (25) bekezdésével megállapított szöveg.

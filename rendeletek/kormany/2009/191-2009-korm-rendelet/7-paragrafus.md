@@ -20,4 +20,8 @@ f) a műszaki átadás-átvételi és a birtokbaadási eljárásban való részv
 
 g) az igazoltan elvégzett teljesítések pénzügyi elszámolásának ellenőrzése,
 
-h) a 17. § (2) bekezdés szerinti esetben gondoskodni az építtetői fedezetkezelő közreműködéséről.
+h) a 17. § (2) bekezdés szerinti esetben gondoskodni az építtetői fedezetkezelő közreműködéséről,
+
+i)[^11] a 16. § (3) bekezdés p) pontja esetében a teljesítésigazolás kiállítása és a fővállalkozó kivitelező által számlázható összeg meghatározása, továbbá ezeknek – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – a fővállalkozó kivitelező, valamint építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése.
+
+[^11]: A 7. § (2) bekezdés i) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (4) bekezdése iktatta be.

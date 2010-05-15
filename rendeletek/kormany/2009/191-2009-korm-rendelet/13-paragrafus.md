@@ -38,7 +38,7 @@ lc) a szerződésben meghatározott alvállalkozói díj és a teljesítésigazo
 
 m) a kiállított teljesítésigazolásnak az alvállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől – ha szerződés vagy jogszabály átadás-átvételi eljárást határoz meg, ennek lezárásától – számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül az alvállalkozó kivitelező részére történő megküldése, és annak adatainak az alvállalkozói nyilvántartásba való felvitele,
 
-n)[^3] értesíti az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket.
+n)[^16] értesíti az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket.
 
 (4) A felelős műszaki vezető – a külön jogszabályban meghatározottak szerint – az építési munkaterületről származó természetes építőanyagok és a bontott építési termékek – szükség szerint szakértővel történő – vizsgálatát követően dönt azok kezeléséről, építési célra való megfelelősségéről, ismételt felhasználhatóságáról, beépíthetőségéről. Döntését az építési naplóba be kell jegyeznie.
 
@@ -52,7 +52,7 @@ b) a használatbavételi engedélyezési eljáráshoz szükséges felelős műsz
 
 (7) A felelős műszaki vezető egyes tevékenységek (pl. munkahelyi irányítás), illetve építési-szerelési szakterületek irányításával a tevékenységnek megfelelő – külön jogszabály szerinti – képesítéssel rendelkező személyt is megbízhat.
 
-(8) Az építmények olyan jellegű felújítási, helyreállítási, átalakítási vagy korszerűsítési tevékenységét, melynek során
+(8)[^17] Az építmények olyan jellegű felújítási, helyreállítási, átalakítási vagy korszerűsítési tevékenységét, melynek során
 
 a) az építmény tartószerkezeti rendszere nem változik meg, vagy
 
@@ -62,6 +62,7 @@ c) ha égéstermék elvezetésére szolgáló bármilyen szerkezetű égésterm�
 
 d) az építmény homlokzatának megváltoztatása (kivéve a védett építményeket) nem jár együtt annak teherhordó szerkezeti változtatásával,
 
-a munka jellegének megfelelő szakmunkás-képesítéssel rendelkező személy felelős műszaki vezető irányítása nélkül is végezheti.
+a munka jellegének megfelelő szakmunkás-képesítéssel rendelkező személy vállalkozó kivitelezőként felelős műszaki vezető irányítása nélkül is végezheti, ha alvállalkozót nem vesz igénybe.
 
-[^3]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^16]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^17]: A 13. § (8) bekezdés záró szövegrésze a 182/2010. (V. 14.) Korm. rendelet 7. § 9. pontja szerint módosított szöveg.
