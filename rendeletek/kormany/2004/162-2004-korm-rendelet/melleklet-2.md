@@ -2,7 +2,11 @@
 
 ## I. Általános követelmények
 
-## 1. A dokumentáció tartalma a jogerős, végrehajtható és érvényes építési vagy létesítési hatósági engedélyokirat és a hozzá tartozó dokumentáció alapján készített írásos dokumentumok és tervrajzok összessége.
+## 1.[^30] A dokumentáció tartalma
+
+## a) építésügyi hatósági engedélyhez kötött építési tevékenység esetén a jogerős építésügyi hatósági engedély és a hozzá tartozó, jóváhagyott építészeti-műszaki dokumentáció,
+
+## b) egyéb esetben az e rendeletben meghatározott követelmények alapján készített írásos dokumentumok és tervrajzok összessége.
 
 ## 2. A dokumentációban meg kell határozni, az építmény jellegének megfelelő szakterületi sajátosságoknak, tartalmi követelményeknek megfelelő részletezettséggel:
 
@@ -72,9 +76,9 @@
 
 ## c) részlettervek, az építmény olyan részeinek, szerkezeteinek és azok összeépítésének rajzai, melyek az általános terveken kellően nem ábrázolhatók.
 
-## 4. Költségvetési kiírás.
+## 4.[^31] Árazatlan költségvetési kiírás, amely tartalmazza az építési beruházás megvalósításához szükséges összes elkülöníthető munkafázis tételszámát, megnevezését, mennyiségét, munkaidőnormát, valamint az ajánlattevő általi beárazást lehetővé tevő üres anyagköltség, munkadíj és gépköltség rovatot.
 
-2. számú melléklet a 162/2004. (V. 21.) Korm. rendelethez[^20]
+2. számú melléklet a 162/2004. (V. 21.) Korm. rendelethez[^32]
 
 Műemlékekkel kapcsolatos követelmények
 
@@ -98,4 +102,6 @@ bd) az esztétikai helyreállítási javaslat,
 
 be) a kezelések várható eredményei és kockázata.
 
-[^20]: A 2. számú melléklet a 207/2008. (VIII. 27.) Korm. rendelet 28. §-ával megállapított szöveg. E módosító rendelet 29. § (3) bekezdés d) pontja alapján a rendelkezést a 2008. szeptember 1. napja után indított közbeszerzési eljárásokban kell alkalmazni.
+[^30]: Az 1. számú melléklet I. fejezet 1. pontja a 182/2010. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^31]: Az 1. számú melléklet II. fejezet 4. pontja a 182/2010. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^32]: A 2. számú melléklet a 207/2008. (VIII. 27.) Korm. rendelet 28. §-ával megállapított szöveg. E módosító rendelet 29. § (3) bekezdés d) pontja alapján a rendelkezést a 2008. szeptember 1. napja után indított közbeszerzési eljárásokban kell alkalmazni.

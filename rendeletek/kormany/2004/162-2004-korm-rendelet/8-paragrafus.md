@@ -1,4 +1,4 @@
-## 7. § Kivitelezésre irányuló építési beruházás esetén az ajánlatkérőnek a dokumentációt azokban az esetekben is – legalább az 1. számú melléklet szerinti tartalommal – el kell készítenie, amelyekben a Kbt. egyébként nem teszi kötelezővé a dokumentáció készítését.
+## 7. §[^10] Építőipari kivitelezési tevékenységre irányuló építési beruházás esetén az ajánlatkérőnek a dokumentációt – a 3. § (3)–(6) bekezdésében foglaltak kivételével – azokban az esetekben is legalább az 1. számú melléklet szerinti tartalommal kell elkészítenie, amelyekben a Kbt. egyébként nem teszi kötelezővé a dokumentáció készítését.
 
 8. § (1) A kivitelezésre irányuló építési beruházás esetén a dokumentáció tartalmát az 1. számú mellékletben előírt általános követelmények figyelembevételén túl úgy kell megállapítani, hogy annak tartalmaznia kell legalább:
 
@@ -18,18 +18,19 @@ e) az ajánlattevőtől kért javasolt technológiai, munkaszervezési vagy egy�
 
 (4) A dokumentációban az ajánlatkérőnek – a Kbt. 58. §-ával, illetve 190. §-ával összhangban – részletesen meg kell határoznia, hogy az építési beruházás során, illetve a tervezett és felhasznált anyagokra, késztermékekre és berendezésekre vonatkozóan mely szabványok alkalmazását kívánja meg, és az azoknak való megfelelőség igazolása milyen módon történik, ha annak módját jogszabály nem írja elő.
 
-(5)[^10] Az ajánlatkérő az építési beruházás megvalósítására irányuló közbeszerzési eljárásban
+(5)[^11] Az ajánlatkérő az építési beruházás megvalósítására irányuló közbeszerzési eljárásban
 
-a) a jótállási kötelezettségek teljesítésének biztosítására legfeljebb a szerződéses ellenérték 5%-ának,
+a) a jótállási kötelezettségek teljesítésének biztosítására legfeljebb a nettó szerződéses ellenérték 5%-ának,
 
-b) a szavatossági kötelezettségek teljesítésének biztosítására legfeljebb a szerződéses ellenérték 3%-ának
+b) a szavatossági kötelezettségek teljesítésének biztosítására legfeljebb a nettó szerződéses ellenérték 3%-ának
 
 megfelelő mértékű biztosítékot írhat elő.
 
-(6)[^11] Az ajánlatkérő az építési beruházás megvalósítására irányuló közbeszerzési eljárásban – az (5) bekezdés szerinti és az előleg visszafizetési biztosítékokon túlmenően – legfeljebb a szerződéses ellenérték 7%-ának megfelelő mértékű, a szerződés teljesítéséhez kapcsolódó további biztosítékot írhat elő.
+(6)[^12] Az ajánlatkérő az építési beruházás megvalósítására irányuló közbeszerzési eljárásban – az (5) bekezdés szerinti biztosíték, az előleg-visszafizetési biztosíték és a késedelem esetére kikötött kötbér kivételével – legfeljebb a nettó szerződéses ellenérték 7%-ának megfelelő mértékű, a szerződés teljesítéséhez kapcsolódó további biztosítékot írhat elő.
 
-(7)[^12] Az (5) és (6) bekezdésben foglaltakat – a Kbt. 143. és 144. §-a szerinti közbeszerzési eljárások kivételével – nem kell alkalmazni a Kbt. 26. §-a szerinti építési koncesszióra.
+(7)[^13] Az (5) és (6) bekezdésben foglaltakat – a Kbt. 143. és 144. §-a szerinti közbeszerzési eljárások kivételével – nem kell alkalmazni a Kbt. 26. §-a szerinti építési koncesszióra.
 
-[^10]: A 8. § (5) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 60. § (5) bekezdése alapján a rendelkezést a 2009. október 1. napját követően megkezdett közbeszerzési eljárásokban kell alkalmazni.
-[^11]: A 8. § (6) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 60. § (5) bekezdése alapján a rendelkezést a 2009. október 1. napját követően megkezdett közbeszerzési eljárásokban kell alkalmazni.
-[^12]: A 8. § (7) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 60. § (5) bekezdése alapján a rendelkezést a 2009. október 1. napját követően megkezdett közbeszerzési eljárásokban kell alkalmazni.
+[^10]: A 7. § a 182/2010. (V. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 8. § (5) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 182/2010. (V. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^12]: A 8. § (6) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 182/2010. (V. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 8. § (7) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 60. § (5) bekezdése alapján a rendelkezést a 2009. október 1. napját követően megkezdett közbeszerzési eljárásokban kell alkalmazni.

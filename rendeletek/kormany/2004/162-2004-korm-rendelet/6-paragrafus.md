@@ -4,7 +4,7 @@
 
 (2)[^8]
 
-(3)[^9] A beruházáslebonyolító feladata az ajánlatkérő általános megbízottjaként az építőipari kivitelezési tevékenységről, az építési naplóról és a kivitelezési dokumentáció tartalmáról szóló jogszabályban a beruházáslebonyolító feladataként meghatározottak az alábbiakkal kiegészítve;
+(3)[^9] A beruházáslebonyolító feladata az ajánlatkérő általános megbízottjaként az építőipari kivitelezési tevékenységről szóló kormányrendeletben a beruházáslebonyolító feladataként meghatározottak az alábbiakkal kiegészítve;
 
 a) a kivitelezésre vonatkozó ajánlati, részvételi, illetőleg ajánlati felhívás elkészítése, a dokumentáció elkészíttetése,
 
@@ -14,4 +14,4 @@ b) az építtető ajánlatkérő által az építési beruházásra irányuló k
 
 [^7]: Az 5. §-t a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdés e) pontja hatályon kívül helyezte.
 [^8]: A 6. § (2) bekezdését a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdés e) pontja hatályon kívül helyezte.
-[^9]: A 6. § (3) bekezdése a 207/2008. (VIII. 27.) Korm. rendelet 27. §-ával megállapított szöveg. E módosító rendelet 29. § (3) bekezdés d) pontja alapján a rendelkezést a 2008. szeptember 1. napja után indított közbeszerzési eljárásokban kell alkalmazni.
+[^9]: A 6. § (3) bekezdése a 207/2008. (VIII. 27.) Korm. rendelet 27. §-ával megállapított szöveg. A (3) bekezdés nyitó szövegrésze a 182/2010. (V. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
