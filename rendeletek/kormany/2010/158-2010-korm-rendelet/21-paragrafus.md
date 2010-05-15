@@ -1,1 +1,3 @@
-## 20. § Hatályát veszti a mezőgazdasági és élelmiszer-ipari termékek exportjával összefüggő intézkedések végrehajtásának általános szabályairól szóló 29/2004. (II. 28.) Korm. rendelet (a továbbiakban: 29/2004. (II. 28.) Korm. rendelet).
+## 20. §[^1]
+
+[^1]: A 20. §-t a 22. § (1) bekezdése hatályon kívül helyezte.
