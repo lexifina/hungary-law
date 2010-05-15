@@ -14,4 +14,21 @@ b) a borászati termék forgalomba hozatali engedély iránti kérelmen szerepl�
 
 (5) A forgalomba hozatali engedélyt bortételenként kell kiadni.
 
-(6) Amennyiben a forgalomba hozatali engedéllyel rendelkező bortételt továbbfeldolgozás céljából több bortételre bontják meg, abban az esetben a kérelem alapján a borászati hatóság a bor forgalomba hozatali engedélyének bevonását követően bortételenként új forgalomba hozatali engedélyt állít ki. Ebben az esetben a forgalomba hozatali engedély kiadását érintő eljárásban résztvevőket értesíteni kell a változásról. A tételenként kiadott bor forgalomba hozatali engedély adattartalmának a bormennyiséget és a forgalomba hozatali engedély számát tekintve meg kell egyeznie a bevont forgalomba hozatali engedélyben szereplő, a borászati terméket meghatározó adatokkal. A tételenként összegzett mennyiség nem térhet el a bevont forgalomba hozatali engedély alapján a pincekönyvben nyilvántartott bormennyiségtől. A kérelemhez mellékelni kell a pincekönyv vonatkozó részének másolatát is.
+(6)[^20] Ha a forgalomba hozatali engedéllyel rendelkező bortételt továbbfeldolgozás céljából több bortételre bontják meg, akkor a Btv. 23. § (7) bekezdése szerint a továbbfeldolgozás megkezdése előtt 3 munkanappal a borászati üzem köteles írásban megküldeni a borászati hatóság központi szerve és a bor tárolási helye szerint illetékes hegybíró részére:
+
+a) tétel forgalomba hozatali engedélyének számát,
+
+b) a bortétel megnevezését és mennyiségét,
+
+c) már forgalomba hozott bortétel mennyiségét,
+
+d) a változatlan formában forgalmazni kívánt bortétel mennyiségét,
+
+e) a továbbfeldolgozásra szánt bortétel mennyiségét és
+
+f) a tétel tárolásának pontos helyét.
+
+(7)[^21] A (6) bekezdés szerinti bejelentés alapján a borászati hatóság a minősített mennyiséget a bejelentett mennyiségre csökkenti.
+
+[^20]: A 39. § (6) bekezdése a 64/2010. (V. 12.) FVM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^21]: A 39. § (7) bekezdését a 64/2010. (V. 12.) FVM rendelet 11. § (2) bekezdése iktatta be.

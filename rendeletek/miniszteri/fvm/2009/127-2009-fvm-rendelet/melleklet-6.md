@@ -1,103 +1,69 @@
 ## Értékesítési jelentés a forgalomba hozott borokról
 
-## (a pincekönyv alapján tölti ki a termelő és adja le a gazdasági aktát vezető hegybírónak)
+| Borvidék: | Adatszolgáltató neve |
 
-| Borvidék: | Adatszolgáltató neve: | GA szám: | Adóraktári szám: |
+| Hegyközség | Címe: |
 
-| Hegyközség: | Címe: | Nyilvántartási szám: |
+|  | GA száma: |
 
-| Termékkategória | Értékesítés |
+|  | A | B | C | D | E | F |
 
-| folyóbor (>60 liter) | kannás kiszerelés (2–60 liter) | palackos értékesítés (<2 liter) | értékesítés összesen (liter) (kannás+palackos) | mind- összesen (liter) |
+| 1. | Termékkategória | Értékesítés |
 
-| fehér | nettó átlagár | vörös/ rozé | nettó átlagár | fehér | nettó átlagár | vörös/ rozé | nettó átlagár | fehér | nettó átlagár | vörös/ rozé | nettó átlagár | fehér | vörös/ rozé |
+| 2. | Folyóbor (>60 liter) | 60 liter alatti tárolóedényben kiszerelt értékesítés | Mind- összesen (liter) |
 
-| 1. Belföldi értékesítés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | fehér | vörös/rozé | fehér | vörös/rozé |  |
 
-| 1.1. Kereskedőnek értékesített (Pincekönyv Termékértékesítés 2-es 3-as jogcím) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | 1. Belföldi értékesítés |  |  |  |  |  |
 
-| ........ OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | Oltalom alatt álló eredetmegjelöléses bor(ok): |  |  |  |  |  |
 
-| ........ OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | – ... OEM |  |  |  |  |  |
 
-| ........ OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | – ... OEM |  |  |  |  |  |
 
-| ........ OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | Oltalom alatt álló földrajzi jelzéses bor(ok) |  |  |  |  |  |
 
-| Nem OEM/OFJ fajtabor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | – ... OFJ |  |  |  |  |  |
 
-| Nem OEM/OFJ bor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | – ... OFJ |  |  |  |  |  |
 
-| Más bor: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. | Nem OEM/OFJ fajtabor(ok) |  |  |  |  |  |
 
-| 1.2. Pincéből végső fogyasztónak értékesített (Pincekönyv Termékértékesítés 6-os 7-es és 8-as jogcím) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | Nem OEM/OFJ bor(ok) |  |  |  |  |  |
 
-| ........ OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | Más bor: |  |  |  |  |  |
 
-| ........ OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. | 2. EU tagországba történő értékesítés |  |  |  |  |  |
 
-| ........ OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11. | Oltalom alatt álló eredetmegjelöléses bor(ok) |  |  |  |  |  |
 
-| ........ OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. | Oltalom alatt álló földrajzi jelzéses bor(ok) |  |  |  |  |  |
 
-| Nem OEM/OFJ fajtabor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 13. | Nem OEM/OFJ fajtabor(ok) |  |  |  |  |  |
 
-| Nem OEM/OFJ bor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 14. | Nem OEM/OFJ bor(ok) |  |  |  |  |  |
 
-| Más bor: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15. | Más bor: |  |  |  |  |  |
 
-| 1.3. Adóraktárnak értékesített (Pincekönyv Termékértékesítés 1-es jogcím) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 16. | 3. Harmadik országba értékesítés (export) |  |  |  |  |  |
 
-| ....... OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 17. | Oltalom alatt álló eredetmegjelöléses bor(ok) |  |  |  |  |  |
 
-| ....... OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 18. | Oltalom alatt álló földrajzi jelzéses bor(ok) |  |  |  |  |  |
 
-| ....... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 19. | Nem OEM/OFJ fajtabor(ok) |  |  |  |  |  |
 
-| ....... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20. | Nem OEM/OFJ bor(ok) |  |  |  |  |  |
 
-| Nem OEM/OFJ fajtabor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 21. | Más bor: |  |  |  |  |  |
 
-| Nem OEM/OFJ bor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Kelt: .........................
 
-| Más bor: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## ..................................................
 
-| 2. EU tagországba történő értékesítés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## adatszolgáltató aláírása
 
-| ....... OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^52]
 
-| ....... OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ....... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ....... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Nem OEM/OFJ fajtabor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Nem OEM/OFJ bor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Más bor: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 3. Harmadik országba értékesítés (export) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ....... OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ....... OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ....... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ....... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Nem OEM/OFJ fajtabor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Nem OEM/OFJ bor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Más bor: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-## Kelt: .............................................................................
-
-## ...........................................................................................
-
-## Hegyközségi tag/Adatszolgáltató aláírása
-
-6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+[^52]: A 6. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (5) bekezdésével megállapított szöveg.

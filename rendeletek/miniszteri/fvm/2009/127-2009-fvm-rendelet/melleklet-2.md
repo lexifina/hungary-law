@@ -1,10 +1,10 @@
 ## A borvidékek és a hozzájuk tartozó települések meghatározása
 
-## 1. Csongrádi borvidék: Csongrád, Hódmezővásárhely, Balástya, Csengele, Kistelek, Pusztaszer, Szatymaz, Ásotthalom, Bordány, Domaszék, Kiskundorozsma, Mórahalom, Zákányszék, Zsombó, Forráskút, Öttömös, Pusztamérges, Ruzsa, Üllés.
+## 1.[^44] Csongrádi borvidék: Csongrád, Hódmezővásárhely, Balástya, Csengele, Kistelek, Pusztaszer, Szatymaz, Ásotthalom, Bordány, Domaszék, Szeged, Mórahalom, Zákányszék, Zsombó, Forráskút, Öttömös, Pusztamérges, Ruzsa, Üllés.
 
 ## 2. Hajós-Bajai borvidék: Baja, Bátmonostor, Borota, Császártöltés, Csátalja, Csávoly, Dávod, Dusnok, Érsekcsanád, Érsekhalma, Hajós, Nagybaracska, Nemesnádudvar, Rém, Sükösd, Vaskút.
 
-## 3. Kunsági borvidék: Bácsalmás, Bácsszőlős, Csikéria, Jánoshalma, Kelebia, Kéleshalom, Kunbaja, Kunfehértó, Mélykút, Tompa, Abony, Albertirsa, Bénye, Cegléd, Ceglédbercel, Csemő, Dány, Gomba, Hernád, Inárcs, Jászberény, Jászszentandrás, Kakucs, Kóka, Monor, Monorierdő, Nagykőrös, Nyársapát, Ócsa, Örkény, Pilis, Tóalmás, Tápiószentmárton, Tápiószele, Újlengyel, Apostag, Dunapataj, Dunavecse, Dömsöd, Harta, Solt, Ráckeve, Szigetcsép, Szigetszentmárton, Szigetújfalu, Tököl, Ágasegyháza, Fülöpháza, Izsák, Kunszentmiklós, Orgovány, Páhi, Szabadszállás, Ballószög, Bugac, Felsőlajos, Fülöpjakab, Helvécia, Jakabszállás, Kecskemét, Kerekegyháza, Kiskunfélegyháza, Kunbaracs, Kunszállás, Ladánybene, Lajosmizse, Akasztó, Bócsa, Csengőd, Imrehegy, Fülöpszállás, Kaskantyú, Kecel, Kiskőrös, Pirtó, Soltszentimre, Soltvadkert, Tabdi, Tázlár, Balotaszállás, Csólyospálos, Harkakötöny, Jászszentlászló, Kiskunhalas, Kiskunmajsa, Kisszállás, Móricgát, Szank, Zsana, Cibakháza, Cserkeszőlő, Csépa, Kocsér, Lakitelek, Nagyrév, Nyárlőrinc, Szelevény, Szentkirály, Tiszaalpár, Tiszajenő, Tiszaföldvár, Tiszainoka, Tiszakécske, Tiszakürt, Tiszasas, Tiszaug.
+## 3.[^45] Kunsági borvidék Bácsalmás, Bácsszőlős, Csikéria, Jánoshalma, Kelebia, Kéleshalom, Kunbaja, Kunfehértó, Mélykút, Tompa, Abony, Albertirsa, Bénye, Cegléd, Ceglédbercel, Csemő, Dány, Gomba, Hernád, Inárcs, Jászberény, Jászszentandrás, Kakucs, Kóka, Monor, Monorierdő, Nagykáta, Nagykőrös, Nyársapát, Ócsa, Örkény, Pilis, Tóalmás, Tápiószentmárton, Tápiószele, Újlengyel, Apostag, Dunapataj, Dunavecse, Dömsöd, Harta, Solt, Ráckeve, Szigetcsép, Szigetszentmárton, Szigetújfalu, Tököl, Ágasegyháza, Fülöpháza, Izsák, Kunszentmiklós, Orgovány, Páhi, Szabadszállás, Ballószög, Bugac, Felsőlajos, Fülöpjakab, Helvécia, Jakabszállás, Kecskemét, Kerekegyháza, Kiskunfélegyháza, Kunbaracs, Kunszállás, Ladánybene, Lajosmizse, Akasztó, Bócsa, Csengőd, Imrehegy, Fülöpszállás, Kaskantyú, Kecel, Kiskőrös, Pirtó, Soltszentimre, Soltvadkert, Tabdi, Tázlár, Balotaszállás, Csólyospálos, Harkakötöny, Jászszentlászló, Kiskunhalas, Kiskunmajsa, Kisszállás, Móricgát, Szank, Zsana, Cibakháza, Cserkeszőlő, Csépa, Kocsér, Lakitelek, Nagyrév, Nyárlőrinc, Szelevény, Szentkirály, Tiszaalpár, Tiszajenő, Tiszaföldvár, Tiszainoka, Tiszakécske, Tiszakürt, Tiszasas, Tiszaug.
 
 ## 4. Neszmélyi borvidék: Ászár, Bársonyos, Császár, Csép, Ete, Kerékteleki, Kisbér, Nagyigmánd, Vérteskethely, Baj, Bajót, Dunaalmás, Dunaszentmiklós, Esztergom, Kesztölc, Kocs, Lábatlan, Mocsa, Neszmély, Nyergesújfalu, Mogyorósbánya, Süttő, Szomód, Tata, Tát, Tokod, Vértesszőlős.
 
@@ -44,4 +44,8 @@
 
 ## 22. Tolnai borvidék: Aba, Aparhant, Bátaapáti, Bikács, Bonyhád, Bonyhádvarasd, Bölcske, Dunaföldvár, Dunaszentgyörgy, Duzs, Fácánkert, Felsőnyék, Grábóc, Gyönk, Györe, Györköny, Hidas, Hőgyész, Igar, Iregszemcse, Izmény, Kisdorog, Kismányok, Kisszékely, Kisvejke, Kölesd, Lengyel, Lajoskomárom, Madocsa, Magyarkeszi, Mezőkomárom, Mórágy, Mőcsény, Mucsfa, Mucsi, Nagydorog, Nagyszékely, Nagymányok, Nagyszokoly, Ozora, Paks, Pincehely, Regöly, Sárszentlőrinc, Seregélyes, Simontornya, Szabadhidvég, Tamási, Tengelic, Tevel, Tolna, Tolnanémedi, Váralja, Závod.
 
-2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^46]
+
+[^44]: Az 1. számú melléklet 1. pontja a 64/2010. (V. 12.) FVM rendelet 25. § (1) bekezdése szerint módosított szöveg.
+[^45]: Az 1. számú melléklet 3. pontja a 64/2010. (V. 12.) FVM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^46]: A 2. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (2) bekezdése szerint módosított szöveg.

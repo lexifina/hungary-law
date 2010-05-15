@@ -4,7 +4,7 @@
 
 a) adatszolgáltatással kapcsolatos fogalmak:
 
-1. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK bizottsági rendelet (a továbbiakban: 436/2009/EK rendelet) I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás;
+1.[^1] gazdasági akta: a 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás;
 
 2. gazdasági aktát vezető hegybíró: az a hegybíró, aki az adatszolgáltató szőlőültetvénye, illetve borászati üzeme szerint illetékes hegybírója által nyilvántartott adatok összesítésével összeállítja, nyilvántartja, kezeli az adatszolgáltatóra vonatkozó gazdasági aktát;
 
@@ -71,3 +71,5 @@ c) laboratóriumi vizsgálatokkal kapcsolatos fogalmak:
 9. palackállóság: palackálló az a bor, amely szakszerű szállítási, tárolási és fogyasztási körülmények mellett a vonatkozó előírásokban meghatározottak szerint tiszta és üledékmentes marad, érzékszervi tulajdonságai hátrányosan nem változnak meg;
 
 10. vizsgálat: a megmintázott termékhalmaz az Európai Unió által elfogadott módszerrel történő – érzékszervi, fizikai, kémiai, kiszerelési, jelölési, mikrobiológiai, toxikológiai, radiológiai – vizsgálata a fogyaszthatóság, forgalmazhatóság engedélyezésének érdekében.
+
+[^1]: Az 1. § a) pont 1. alpontja a 64/2010. (V. 12.) FVM rendelet 26. § (1) bekezdése szerint módosított szöveg.

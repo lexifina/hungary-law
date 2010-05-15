@@ -1,97 +1,57 @@
 ## Bor- és mustkészlet jelentés
 
-## (termelő tölti ki és adja le a gazdasági aktát vezető hegybírónak)
+## (július 31-i állapot) Beadási határidő: augusztus 15.
 
-|  | Borvidék: | Hegyközség: |  |
+| Borvidék: | Hegyközség: |  |
 
-|  | július 31-ei állapot | Beadási határidő: augusztus 15. |  |
+|  |  | .......Év |
 
-|  | Hegyközségi tag/Adatszolgáltató |  |  | ....... Év |
+| Hegyközségi tag/Adatszolgáltató neve |  |
 
-|  | neve: |  |  |  | GA száma: Nyilvántartási szám: |
+| Címe: |  |  |
 
-|  | Címe: |  |  |  |  |
+| GA száma: |  |  |
 
-|  | Adóraktár eng. szám.: |  |
+|  | A | B | C | D |
 
-|  | Termékkategória | Készletmennyiség (hl) | Visszaminősítés |
+| 1. | Borászati termékek kategóriái | Készletmennyiség (hl) |
 
-|  | (termékkategória csoport) | fehér | vörös/rozé | Összesen | fehér | vörös/rozé |
+| 2. | (termékkategória csoport) | fehér | vörös/rozé | Összesen |
 
-| Bor forgalomba hozatali engedéllyel | ........ OEM |  |  |  | hl | hl |
+| 3. | Borok |
 
-| ........ OEM |  |  |  |  |
+| 4. | ............ OEM |  |  |  |
 
-| ........ OEM |  |  |  |  |
+| 5. | ............ OEM |  |  |  |
 
-| ........ OFJ |  |  |  |  |
+| 6. | ............ OFJ |  |  |  |
 
-| ........ OFJ |  |  |  |  |
+| 7. | ............ OFJ |  |  |  |
 
-| ........ OFJ |  |  |  | Visszaminősítés...... | Kategóriába |
+| 8. | Nem OEM/ OFJ fajtabor |  |  |  |
 
-| Nem OEM/OFJ fajtabor |  |  |  |  |  |
+| 9. | Nem OEM/ OFJ bor |  |  |  |
 
-| Nem OEM/OFJ bor |  |  |  |  |  |
+| 10. | Az EU más tagországaiból származó borok |  |  |  |
 
-| EU más tagországaiból származó borok |  |  |  |  |  |
+| 11. | 3. országból származó borok |  |  |  |
 
-| 3. országból származó borok |  |  |  |  |  |
+| 12. | Mustok |
 
-| más borok: |  |  |  |  |  |
+| 13. | Sűrített szőlőmust |  |  |  |
 
-| likőrbor |  |  |  |  |  |
+| 14. | Finomított szőlőmust-sűrítmény |  |  |  |
 
-| ízesített bor |  |  |  |  |  |
+| 15. | Tartósított must |  |  |  |
 
-| szénsavas bor |  |  |  |  |  |
+| 16. | Részben erjedt szőlőmust |  |  |  |
 
-| Bor forgalomba hozatali engedély nélkül |  |  |  |  |  |  |
+## Kelt: .....................
 
-| ........ OEM-re alkalmas |  |  |  |  |  |
+## ......................................................................................
 
-| ........ OEM-re alkalmas |  |  |  |  |  |
+## hegyközségi tag/adatszolgáltató aláírása
 
-| ........ OEM-re alkalmas |  |  |  |  |  |
+7. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^53]
 
-| ........ OFJ-re alkalmas |  |  |  |  |  |
-
-| ........ OFJ-re alkalmas |  |  |  |  |  |
-
-| ........ OFJ-re alkalmas |  |  |  |  |  |
-
-| Nem OEM/ OFJ fajtaborra alkalmas |  |  |  |  |  |
-
-| Nem OEM/ OFJ bor |  |  |  |  |  |
-
-| EU más tagországaiból származó borok |  |  |  |  |  |
-
-| 3.országból származó borok |  |  |  |  |
-
-| más borok: |  |  |  |  |
-
-| likőrbor |  |  |  |  |
-
-| ízesített bor |  |  |  |  |
-
-| szénsavas bor |  |  |  |  |
-
-| Must | Sűrített szőlőmust |  |  |  |  |
-
-| Finomított szőlőmust- sűrítmény |  |  |  |  |
-
-| Tartósított must |  |  |  |  |
-
-| más mustok: |  |  |  |  |
-
-| részben erjedt szőlőmust |  |  |  |  |
-
-| töppedt szőlőből részben erjedt szőlőmust |  |  |  |  |
-
-## Kelt: .............................................................................
-
-## .......................................................................................
-
-## Hegyközségi tag/Adatszolgáltató aláírása
-
-7. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+[^53]: A 7. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (6) bekezdésével megállapított szöveg.

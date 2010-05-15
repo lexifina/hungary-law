@@ -1,27 +1,19 @@
 ## Az analitikai vizsgálatok rendje
 
-## 37. § Az analitikai vizsgálatoknak a 607/2009/EK tanácsi rendelet 26. cikk a) pont (i) alpontjában, valamint a termékleírásokban meghatározottakon túl az alábbiakra ki kell terjedniük:
+## 37. §[^18] Az analitikai vizsgálatoknak a 607/2009/EK bizottsági rendelet 26. cikk a) pont (i) alpontjában, valamint a termékleírásokban meghatározottakon túl az alábbiakra ki kell terjedniük:
 
 a) sűrűség,
 
-b) összes extrakt,
+b) összes extrakttartalom,
 
 c) cukormentes extrakttartalom,
 
 d) szabad kénessavtartalom,
 
-e) malvidin-diglükozid tartalom,
+e) malvidin-diglükozid tartalom a kékszőlőből készült borok esetén,
 
-f) hamutartalom,
+f) hamutartalom és
 
-g) pH érték, valamint
+g) pH érték.
 
-h) palackozva forgalomba hozni kívánt borok esetében:
-
-ha) hidegpróba,
-
-hb) melegpróba,
-
-hc) levegőpróba,
-
-hd) rázópróba.
+[^18]: A 37. § a 64/2010. (V. 12.) FVM rendelet 9. §-ával megállapított szöveg.

@@ -4,44 +4,41 @@
 
 ## I. Fejezet
 
-## A BOROK FORGALOMBA HOZATALÁNAK ÉS ELLENŐRZÉSÉNEK RÉSZLETES SZABÁLYAI
+## A BOROK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^13]
 
 ## A forgalomba hozatalhoz szükséges minták
 
-31. § (1) Amennyiben a Btv. vagy a termékleírás másképp nem rendelkezik, a borászati termékek forgalomba hozatalához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok 44. § (1) bekezdésében foglaltak szerinti lezárásáról.
+31. §[^14] (1) Ha a Btv. másképp nem rendelkezik, a borászati termékek forgalomba hozatalához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
 
-(2) OEM-borok esetén a minták csak a hegybíró jelenlétében vehetők, úgy, hogy azokat a hegybíró zárja le.
+(2) Ha a HBB működési szabályzata, vagy a borvidéki rendtartás úgy rendelkezik, az adott OFJ- vagy OEM-bor esetén a borászati termékek forgalomba hozatalához szükséges minták:
 
-(3) A mintavételről készült jegyzőkönyvben a mintavétel körülményeinek leírásán túlmenően rögzíteni kell a borászati termék címkéjén feltüntetni kívánt:
+a) csak a hegybíró jelenlétében vehetők, úgy, hogy azokat a hegybíró zárja le, vagy
 
-a) oltalom alatt álló eredetmegjelölést vagy földrajzi jelzést,
+b) a forgalomba hozó általi lezárását a hegybíró ellenjegyzi.
 
-b) szőlőfajta vagy szőlőfajták nevét,
+(3) A mintavételről készült jegyzőkönyvben az alábbi adatokat kell rögzíteni:
 
-c) hagyományos kifejezést vagy kifejezéseket,
+a) az előállító neve,
 
-d) e rendelet 56. §-ában meghatározott egyéb korlátozottan használható kifejezést vagy kifejezéseket, illetve
+b) a mintavétel helye és időpontja,
 
-e) azon kifejezést vagy kifejezéseket, melyek használatát a termékleírás szabályozza.
+c) a mintavevő aláírása,
 
-(4) OEM- vagy OFJ-bor esetén a mintákat a helyi borbíráló bizottság (a továbbiakban: HBB) titkára a 44. §-ban meghatározott módon azonosítóval látja el.
+d) a bor származási bizonyítvány száma.
 
-(5) A forgalomba hozatalhoz legalább 4 palack mintát és legalább 4 palack ellenmintát kell venni, melyek felhasználása az alábbiak szerint történik:
+(4) A forgalomba hozatali kérelem igényléséhez vett minták közül:
 
-a) 2 palack minta az érzékszervi minősítés alapjául szolgál,
+a) a helyi borbíráló bizottság eljárásrendjében meghatározott számú minta az érzékszervi minősítés alapjául,
 
-b) 2 palack minta az analitikai vizsgálatok elvégzésére szolgál,
+b) 3 palack minta az analitikai vizsgálatok elvégzésére szolgál.
 
-c) legalább 4 palack ellenminta a forgalomba hozónál marad.
+(5) A (4) bekezdésben meghatározott mintákhoz minden esetben mellékelni kell a (2) bekezdésben meghatározott jegyzőkönyvet, melyet helyettesíthet a borászati hatóság által rendszeresített, a forgalomba hozatali engedély iránti kérelmet tartalmazó nyomtatvány.
 
-(6) A palackozva forgalomba hozni kívánt borászati termékek esetében az (5) bekezdés b) pontjától eltérően az analitikai vizsgálatok elvégzéséhez 6 palack minta leadása szükséges.
+(6) A minták egyenként legalább 0,5 liter borászati terméket tartalmaznak.
 
-(7) Az (5) bekezdésben meghatározott mintákhoz minden esetben mellékelni kell a (3) bekezdésben meghatározott jegyzőkönyvet.
+(7) A mintát úgy kell lezárni (pecséttel, viaszpecséttel, zsugorfóliával vagy kengyelszerűen elhelyezett ragasztószalaggal), hogy a mintához a zárás megsértése nélkül ne lehessen hozzáférni. A lezáráson vagy a mintán fel kell tüntetni a (2) bekezdésben meghatározott mintavételi jegyzőkönyv sorszámát.
 
-(8) Az ellenminták megőrzése és tárolása a forgalomba hozó felelőssége. Az ellenmintákat az adott tételből meglévő készletek értékesítését követő egy évig kell megőrizni.
+(8) A forgalomba hozó ellenmintára tarthat igényt. Ebben az esetben a forgalomba hozónak a (4) bekezdésben meghatározott számú mintánál annyival több mintát kell átadnia a minősítést végző részére, ahány ellenmintára igényt tart. A minősítést végző az átadott minták közül kiválasztja az ellenmintát, hitelesíti annak lezárását, és a forgalomba hozó részére átadja.
 
-(9) A minták egyenként legalább 0,5 liter borászati terméket tartalmaznak.
-
-(10) A (9) bekezdés rendelkezése alól kivételt jelentenek a Tokaji Eszencia és Tokaji Aszúeszencia borok, melyek esetében a mintának legalább 0,2 liter bort kell tartalmaznia.
-
-(11) A mintavétel egyéb szabályait illetően a 42–47. §-ok az irányadóak, amelytől OEM- vagy OFJ-bor esetén a termékleírás megfogalmazhat eltérő rendelkezéseket.
+[^13]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított szöveg.
+[^14]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.

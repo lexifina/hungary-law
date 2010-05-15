@@ -1,73 +1,67 @@
-## Szüreti jelentés*
+## Szüreti jelentés
 
-| Hegyközségi tag / Adatszolgáltató: | Név: | Cím: | GA szám: | Nyilvántartási szám: |  |
+| Hegyközségi tag/ Adatszolgáltató: | Név | Cím | GA szám: | Nyilvántartási szám: |
 
-| Évjárat: | Termőterület | Szüretelt szőlő | Szőlő felhasználása |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S |
 
-| termékkategória, (termékkategória csoport) | ha | település | hrsz. | dűlő | fajta | poten- ciális alkohol V/V% | mennyiség g (q/hl) | nyilatkozattevő általi borrá történő feldolgozás (a pincekönyv alapján) | ...................................................... szövetkezetnek szállítva | ................................................................ borkészítő felvásárlónak | egyéb rendeltetés |
+| 1. | Évjárat: | Termőterület | Szüretelt szőlő | Szőlő felhasználása |
 
-| fehér | kék | fehér | vörös | szőlő | must | szőlő | must |  |  |
+| 2. | Termékkategória, (termékkategória csoport) | Ha | Település (hrsz., dűlő) | fajta | Poten- ciális alko- hol %vol | Mennyiség (q/hl) | Nyilatkozattevő általi borrá történő feldolgozás (a pincekönyv alapján) | ..................... szövetkezetnek szállítva | ......................... Borkészítő felvásárlónak | Egyéb rendeltetés |
 
-| fehér | kék | fehér | vörös | fehér | kék | fehér | vörös |  |  |
+| 3. | fehér | kék | fehér | vörös | Szőlő | Must | Szőlő | Must |  |  |
 
-| ................................ Oltalom alatt álló eredetmegjelöléssel ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | fehér | kék | fehér | vörös | fehér | kék | fehér | vörös |  |  |
 
-| ................................ OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | .................... Oltalom alatt álló eredetmegjelöléssel ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ................................ OEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | .................... Oltalom alatt álló földrajzi jelzéssel ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ................................ Oltalom alatt álló földrajzi jelzéssel ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. | Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott fajtaborok előállítására szánt szőlőültetvény: ................ fajta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ............................... OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| .............................. OFJ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | Más borok előállítására szánt ültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott fajtaborok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott bortétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
 
-| ...................... fajta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ...................... fajta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Más borok előállítására szánt ültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-## Kelt: .....................................................
-
-## ..........................................................................................
+## Kelt: ...................................................................................
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-## * Gazdasági aktát nyilvántartó hegybíró részére leadni 2009/2010-ben, 2010/2011-től a GA nyilvántartó hegybíró állítja össze
-
-## Leadási, illetve összeállítási határidő: január 15.
-
 ## Termelési jelentés a felvásárolt szőlőről
 
-## (a szőlőfelvásárlással foglalkozó termelő tölti ki a pincekönyv alapján és a borászati üzem helye szerint illetékes hegybírónak adja le)
+| Borvidék: | Hegyközség |  |  |  |
 
-| Borvidék: | Hegyközség: |
-
-| Hegyközségi | Tag | / |  |  |
-
-| Adatszolgáltató: | Név: | Cím: | Bejelentett termék(ek) nyilvántartási helye: |
+| Hegyközségi tag/Adatszolgáltató: | Név: | Cím: | Bejelentett termék(ek) nyilvántartási helye: |  |
 
 | Nyilvántartási szám: | GA szám: | Adóraktári szám: | Település: | Cím: |
 
 | Borpiaci év: |  |  |  |  |
 
-| A felhasznált termékek kategóriái | Beszállítás | Szőlőterület adatai | szőlő (hl/q) | A borászati év kezdete óta előállított termékek és borkészleteken kívüli egyéb készletek a jelentés elkészítésének időpontjában (hektóliterben) |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | X | Y | Z | AA |
 
-| név | szőlő származási bizonyítvány száma | település | dűlő | hrsz. | terület (ha) | ................. OEM | ................. OFJ | Nem OEM/OFJ (FN) ................ fajtájú fajtabor | Nem OEM / OFJ (egyéb FN) bor | Más |
+| 1. | A fel- hasz- nált ter- mé- kek kate- góriái | Beszállítás | Szőlőterület adatai | Szőlő (hl/q) | A borászati év kezdete óta előállított termékek és borkészleteken kívüli egyéb készletek a jelentés elkészítésének időpontjában (hektoliterben) |
 
-| must | bor | must | bor | must | bor | must | bor | must | bor |
+| 2. | Név | szőlő szár- ma- zási bizo- nyít- vány száma | Tele- pülés (hrsz., dűlő) | terü- let (ha) | ........ OEM | ........ OFJ | Nem OEM/OFJ (FN) ........ fajtájú fajtabor | Nem OEM/OFJ (egyéb FN) bor | Más |
 
-| fehér | vörös/ rozé | fehér | vörös/ rozé | fehér | vörös/ rozé | fehér | vörös/ rozé | fehér | vörös/ rozé | fehér | vörös/rozé | fehér | vörös/ rozé | fehér | vörös/ rozé | fehér | vörös/ rozé | fehér | vörös/ rozé |
+| 3. | Must | Bor | Must | Bor | Must | Bor | Must | Bor | Must | Bor |
 
-## Kelt: .............................................................................
+| 4. | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé | fehér | vörös/rozé |
 
-## ...........................................................................................
+| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 7. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 8. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott bortétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
+
+## Kelt: .....................................................................................
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^51]
+
+[^51]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## 35. § Az FN borok érzékszervi vizsgálata kizárólag a bor forgalomba hozhatóságának eldöntésére irányul, és azt a borászati hatóság végzi.
-
 ## Az Országos Borszakértő Bizottság
 
 36. § (1) Az Országos Borszakértő Bizottság (a továbbiakban: OBB) 20 tagból áll. Tagjait, elnökét és elnökhelyettesét a miniszter a szőlőtermesztés és a borászat elméleti és gyakorlati szakemberei közül három évre kéri fel. Az OBB titkársági feladatait a borászati hatóság látja el.

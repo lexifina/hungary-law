@@ -40,4 +40,6 @@
 
 ## (az OBB elnökének aláírása)
 
-15. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+15. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^60]
+
+[^60]: A 15. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (9) bekezdése szerint módosított szöveg.

@@ -24,7 +24,7 @@
 
 | Tételszám | Termőterület | Szüretelt szőlő |
 
-| származási ország | település | dűlő | terület (ha) | hrsz. | fajta és vagy kód | fehér/kék | termékkategória, ............. OEM/ .......... OFJ/ ............. fajtájú FN/FN és vagy bortípus (az oltalom alatt álló eredetmegjelölés vagy oltalom alatt álló földrajzi jelzés szerinti területnél kisebb földrajzi egység neve, hagyományos kifejezés, korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés) | potenciális alkohol (V/V%) | szőlő felhasználása* | mennyiség** (q) |
+| származási ország | település | dűlő | terület (ha) | hrsz. | fajta és vagy kód | fehér/kék | termékkategória, ............. OEM/ .......... OFJ/ ............. fajtájú FN/FN és vagy bortípus (az oltalom alatt álló eredetmegjelölés vagy oltalom alatt álló földrajzi jelzés szerinti területnél kisebb földrajzi egység neve, hagyományos kifejezés, korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés) | potenciális alkohol (% vol) | szőlő felhasználása* | mennyiség** (q) |
 
 | 1. |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -60,4 +60,6 @@
 
 ## Bizonyítványt kérelmező aláírása
 
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^55]
+
+[^55]: A 9. számú melléklet a 64/2010. (V. 12.) FVM rendelet 27. § (9) bekezdése szerint módosított szöveg.

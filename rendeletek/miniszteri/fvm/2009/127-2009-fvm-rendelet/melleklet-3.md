@@ -248,66 +248,76 @@
 
 ## Borászati tevékenységet és kapacitást regisztráló adatlap
 
-## (a borászati helye szerint illetékes hegybíró vezeti)
+## (a borászat helye szerint illetékes hegybíró vezet)
 
-## Borvidék
+| Borvidék | Hegyközség (vagy hegyközségi tanács) |
 
-## Hegyközség (vagy hegyközségi tanács)
+| Hegyközségi tag/Adatszolgáltató | Név: |
 
-## Nyilatkozattevő: Név: Cím:
+| Nyilvántartási szám: | Cím: |
 
-## Nyilvántartási szám: Gazdasági akta (GA) szám:
+|  | GA szám: |
 
-## Pince területe m2 Szőlőfeldolgozó teljesítménye (t/h):
+| Pince területe: ..... m2 | Szőlőfeldolgozó teljesítménye: ........t/h |
 
-## Musthűtő teljesítmény: kJ
+|  | Musthűtő teljesítmény: ...... kJ |
 
-| Borelőállítás | Szőlőfeldolgozás (t) | Borkészítés (hl) | Érlelés (hl) | Pezsgőkészítés (hl) | Kannatöltés (hl) | Palackozás (hl) |
+|  | A | B | C | D | E | F | G |
 
-| ........ OEM |  |  |  |  |  |  |
+| 1. | Borászati termék előállítása | Szőlő- feldolgozás | Bor- készítés | Érlelés | Pezsgő- készítés | Kanna- töltés | Palackozás |
 
-| ........ OEM |  |  |  |  |  |  |
+| 2. | .......... OEM |  |  |  |  |  |  |
 
-| ........ OFJ |  |  |  |  |  |  |
+| 3. | .......... OEM |  |  |  |  |  |  |
 
-| ........ OFJ |  |  |  |  |  |  |
+| 4. | .......... OFJ |  |  |  |  |  |  |
 
-| Nem OEM/OFJ (FN) fajtabor ........ fajta ........ fajta Nem OEM/OFJ (egyéb FN) bor |  |  |  |  |  |  |
+| 5. | .......... OFJ |  |  |  |  |  |  |
 
-| Más bor: |  |  |  |  |  |  |
+| 6. | Nem OEM/OFJ fajtabor |  |  |  |  |  |  |
 
-| Habzóbor |  |  |  |  |  |  |
+| 7. | – .......... fajta |  |  |  |  |  |  |
 
-| Likőrbor |  |  |  |  |  |  |
+| 8. | – .......... fajta |  |  |  |  |  |  |
 
-| Ízesített bor |  |  |  |  |  |  |
+| 9. | Nem OEM/OFJ bor |  |  |  |  |  |  |
 
-| Tárolótér összesen: | hl |  |  |
+| 10. | Egyéb borászati termék: |  |  |  |  |  |  |
 
-| Ebből: |  |  |  |
+| 11. | – habzóbor |  |  |  |  |  |  |
 
-| Erjesztőtér | hl | fahordó | hl |
+| 12. | – likőrbor |  |  |  |  |  |  |
 
-| Tárolótér | hl | vasbeton | hl |
+| 13. | – ... |  |  |  |  |  |  |
 
-|  |  | saválló acél | hl |
+| 14. | Ízesített bor |  |  |  |  |  |  |
 
-|  |  | nyomásálló tartály | hl |
+## (a végezni kívánt tevékenységet jelölje x-szel!)
 
-|  |  | egyéb fémtartály | hl |
+| Tárolótér összesen: | hl |  |  |  |
 
-|  |  | műanyag | hl |
+| ebből: |  |  |  |  |
 
-|  |  | egyéb | hl |
+| – erjesztőtér: | hl |  | fahordó | hl |
 
-| Töltőgépek száma: | db | Palackozó teljesítménye | palack/h |
+| – tárolótér: | hl |  | vasbeton | hl |
 
-## Kelt: ............................................................................
+|  |  |  | saválló acél | hl |
 
-## .................................................................................
+|  |  |  | nyomásálló tartály | hl |
 
-## Hegyközségi tag/Adatszolgáltató
+|  |  |  | egyéb fémtartály | hl |
 
-## aláírása
+|  |  |  | műanyag | hl |
+
+|  |  |  | egyéb | hl |
+
+| Töltőgépek száma: | db |  | Palackozó teljesítménye | palack/h |
+
+## Kelt: ..............................................
+
+## ............................................................................................
+
+## hegyközségi tag/adatszolgáltató aláírása
 
 3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez

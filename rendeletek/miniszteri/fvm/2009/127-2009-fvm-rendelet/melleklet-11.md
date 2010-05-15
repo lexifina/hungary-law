@@ -1,69 +1,67 @@
 ## Bor származási bizonyítvány kérelem
 
-## (A kérelemhez csatolni kell a kérelemben felsorolt szőlő származási bizonyítványok 1. számú példányát)
+| Hegyközségi Tanács: |  | Hegyközség neve: |  |
 
-## Hegyközségi Tanács: Hegyközség neve:
+| Termelő neve: |  |  | Felvásárló neve: |
 
-| Termelő neve: |  |  | Felvásárló neve: |  |
+| Termelő címe: |  |  | Címe: |
 
-| Termelő címe: |  | Címe: |  |
+| Nyilvántartási száma: |  |  | Nyilvántartási száma: |
 
-| Nyilvántartási száma: |  | Nyilvántartási száma: |  |
+| GA száma: |  |  | GA száma: |
 
-| GA száma: |  | GA száma: |  |
+| Bor tárolási helye: |  |  |  |  |  |
 
-## Bor tárolási helye:
+| Kérelmezett tétel megnevezése: |  |  |  |  |
 
-## Kérelmezett tétel megnevezése:
+| Borkezelésre vonatkozó nyilatkozatok |  |  |  |
 
-| Borkezelésre vonatkozó nyilatkozatok |  |  |
+| Természetes alkoholtartalom növelés történt | ◻igen; ◻nem |  |  |  |
 
-| Természetes alkoholtartalom növelés történt |  | ⬜igen; ⬜nem |
+| Bor édesítése történt | ◻igen; ◻nem |  |  |  |
 
-| Bor édesítése történt |  | ⬜igen; ⬜nem |
+| must/bor savtartalmának növelése történt | ◻igen; ◻nem |  |  |  |
 
-| Must/bor savtartalmának növelése történt |  | ⬜igen; ⬜nem |
+| must/bor savtartalmának csökkentése történt | ◻igen; ◻nem |  |  |  |
 
-| Must/bor savtartalmának csökkentése történt |  | ⬜igen; ⬜nem |
+| Szín: | fehér/rozé/vörös | Származási ország: |  |  |
 
-## Szín: fehér/rozé/vörös Származási ország:
+| Bor készültségi foka: | Termék típusa**: |  |  |  |
 
-## Bor készültségi foka: Termék típusa**:
+|  | A | B | C | D | E | F |
 
-| Tételszám | Bevonandó szőlő / bor származási bizonyítvány sorszáma | Település | Dűlő | Hrsz. | Fajta | Évjárat | Termékkategória, ….OEM/ ….OFJ/ … fajtájú FN/FN és vagy bortípus (az oltalom alatt álló eredetmegjelölés vagy oltalom alatt álló földrajzi jelzés szerinti területnél kisebb földrajzi egység neve, hagyományos kifejezés, korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés) | Potenciális alkohol (V/V%) | Mennyiség* (hl) |
+| 1. | Tétel- szám | Bevonandó szőlő / bor származási bizonyítvány/forgalomba hozatali engedély sorszáma | A címkén feltüntetni kívánt OEM, OFJ vagy fajtanév | A címkén feltüntetni kívánt, az 52. §-ban meghatározott kisebb földrajzi egység neve, hagyományos kifejezés, az 56. §-ban meghatározott egyéb korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés | Összes alkohol (%vol) | Mennyiség* (hl) |
 
-| 1. |  |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |
 
-| 2. |  |  |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |
 
-| ÖSSZESEN |  |
+| 5. |  | ÖSSZESEN |
 
 ## * Pincekönyv alapján
 
-## ** 1234/2007/EK tanácsi rendelet XIb. melléklete szerinti kategóriák: bor, likőrbor ….
+## ** 1234/2007/EK rendelet XIb. számú melléklete szerinti kategóriák.
 
 ## Megjegyzés:
 
 ## A kérelem aláírásával a kérelmező igazolja, hogy a kérelemben feltüntetett tételre vonatkozó adatok a valóságnak megfelelnek.
 
-## Kelt: ...............................................................
+## Kelt:...........................
 
-## ......................................................................................
+## ..................................................................
 
 ## Bizonyítványt kérelmező aláírása
 
-## A kérelemben megjelölt származási bizonyítvány ..........................., .................. számú példányát a kérelmezőtől átvettem.
+## Kelt:...........................
 
-## Kelt: ...............................................................
-
-## P. H.
-
-## ......................................................................................
+## .......................................
 
 ## Hegybíró aláírása
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^3]
+## P. H.
 
-[^3]: A 11. számú melléklet a 134/2009. (X. 14.) FVM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^57]
+
+[^57]: A 11. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (8) bekezdésével megállapított szöveg.

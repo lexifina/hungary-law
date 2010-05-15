@@ -6,6 +6,8 @@
 
 (3) Tartályban, tartálykocsiban lévő termékből húzott mintát, a szállítóhordókból pedig – azonos tétel esetén – átlagmintát kell venni. Vezetékből mintát venni nem szabad.
 
-(4) A mustból vett mintát, ha a mintavétel célja a cukorösszetétel meghatározása, 140 g/l-es (14% m/m) nátrium-hidroxid oldattal, vagy 1 g/l kénessavnak megfelelő kálium-metabiszulfittal kell tartósítani. A tartósítószer teljes mennyiségét fel kell oldani. A tartósítást, valamint a tartósítószer megnevezését a mérgezés veszélyére való figyelmeztetéssel a minta címkéjén és az ellenőrzésről készült jegyzőkönyvben vagy hivatalos feljegyzésben fel kell tüntetni.
+(4)[^22] A mustból vett mintát, ha a mintavétel célja a cukorösszetétel meghatározása, literenként 10 g nátriumhidroxiddal vagy 2 g kálium-metabiszulfittal kell tartósítani. A tartósítószer teljes mennyiségét fel kell oldani. A tartósítást, valamint a tartósítószer megnevezését a mérgezés veszélyére való figyelmeztetéssel a minta címkéjén és az ellenőrzésről készült jegyzőkönyvben vagy hivatalos feljegyzésben fel kell tüntetni.
 
 (5) Amennyiben az (1)–(4) bekezdésekben leírt feltételek nem állnak fenn, a mintavevő azoktól eltérhet. Az eltérés okát és módját feljegyzésben vagy jegyzőkönyvben kell rögzíteni.
+
+[^22]: A 43. § (4) bekezdése a 64/2010. (V. 12.) FVM rendelet 12. §-ával megállapított szöveg.
