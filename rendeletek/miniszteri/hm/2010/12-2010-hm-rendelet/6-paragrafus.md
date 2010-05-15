@@ -1,0 +1,19 @@
+## 5. § Az R. 28. §-a helyébe a következő rendelkezés lép:
+
+## „28. § (1) A honvédelmi szervezet állományába tartozó hivatásos és tartalékos katona munkába járással kapcsolatos utazási költségeit – e jogszabály eltérő rendelkezése hiányában – a munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) és e rendelet szabályai szerint kell megállapítani és folyósítani. A külföldi szolgálatra, tanulmányok folytatására vezényeltek (kirendeltek) napi munkába járási és hazautazási költségtérítéseit a Magyar Honvédség külföldi szolgálatot teljesítő és külföldi tanulmányokat folytató személyi állománya devizaellátmányáról és egyes ellátmányon kívüli pénzbeli járandóságairól szóló 26/2007. (VI. 20.) HM rendelet szerint kell megtéríteni.
+
+## (2) E fejezet rendelkezéseit az alapkiképzésre és felkészítésre behívott tartalékos katona esetében is alkalmazni kell.
+
+## (3) A hivatásos és tartalékos katona, továbbá a közalkalmazott részére – eltérő rendelkezés hiányában – a Korm. rendelet 3. § (2) és (3) bekezdése szerinti költségtérítések mértékét a napi munkába járás és hazautazás esetén 86%-os mértékben kell megállapítani. A munkába járási költségtérítésre jogosult hivatásos- és tartalékos katona esetében – a hazautazással kapcsolatos költségtérítésnek – a Korm. rendelet 3. § (3) bekezdésében meghatározott felső korlátját nem kell alkalmazni.
+
+## (4) A Korm. rendelet 5. §-ában említett esetben a közigazgatási határon belüli munkába járás költségeinek megtérítését az állományilletékes parancsnok jogosult engedélyezni.
+
+## (5) Az állományilletékes parancsnok – a Korm. rendelet 4. §-ában nem említett esetben – a hivatásos, a tartalékos katona és a közalkalmazott kérelmére engedélyezheti a helyközi munkába járási költségek megtérítését akkor is, ha a hivatásos, a tartalékos katona és a közalkalmazott a helyközi munkába járáshoz közösségi közlekedési eszközt nem vesz igénybe. Ebben az esetben a személyi jövedelemadóról szóló törvényben munkába járás költségtérítése címén a lakóhely vagy a tartózkodási hely és a szolgálatteljesítési hely közötti (szilárd burkolatú közforgalmú úton mért legrövidebb oda-vissza) távolságra egységesen 9-Ft/km normaköltséget figyelembe véve kell folyósítani a költségtérítést.
+
+## (6) A helyközi munkába járásra szolgáló félhavi, havi vagy 30 napos bérletektől eltérő díjszabású és a helyközi munkába járással összefüggésben vásárolt Budapest, vagy egyéb helyi negyedéves-, féléves- és éves bérlet elszámolását az egyéb jogosultsági feltételek megléte esetén, a gazdaságosság és az e célra rendelkezésre álló költségvetési előirányzat függvényében, az esetleges visszatérítési lehetőség figyelembevételével az állományilletékes parancsnok jogosult engedélyezni. A MÁV START Klub kártyacsaládból csak a „Bónusz kártya” ára számolható el.
+
+## (7) A negyedéves, féléves és éves bérlet vásárlására az állományilletékes parancsnok előleg folyósítását akkor engedélyezheti, ha az ehhez szükséges fedezet az engedélyezés időpontjában rendelkezésre áll. Az elszámolás feltétele a bérletről szóló, a honvédelmi szervezet nevére kiállított számla leadása.
+
+## (8) A negyedévesnél hosszabb időszakra érvényes bérlet (vagy azt helyettesítő kártya) gazdaságosságának megállapításakor figyelembe kell venni, hogy a bérlet használatára jogosító feltételekben bekövetkező változások – különösen a szolgálati jogviszony esetleges megszűnése – esetén az ezzel összefüggésben keletkező esetleges kár miként térül meg. Az ezzel kapcsolatos feladatokat a 16. §-ban említett belső intézkedésben kell részletesen szabályozni.
+
+## (9) Az állományilletékes parancsnok kérelemre, parancsban engedélyezi a munkába járási költségek megtérítését, ideértve az átutazás céljából helyi közösségi közlekedéssel megvalósuló munkába járási költségek megtérítését is.”

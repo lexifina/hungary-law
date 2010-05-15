@@ -1,0 +1,3 @@
+## 2. § Az R. 2. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) E rendelet alkalmazásában helyközi utazásnak minősül a belföldi közforgalmú vasút, a helyközi (távolsági) autóbuszjárat, az elővárosi autóbusz és a HÉV járatain a közigazgatási határon kívülről a célállomásig történő munkába járási utazás, amennyiben erre külön helyi bérlet vagy menetjegy váltása nem szükséges. Ha a munkahely szerinti településen belüli útszakaszra külön bérlet vagy menetjegy váltása kötelező, akkor a közigazgatási határhoz, e településen belül, a legközelebbi állomásig (megállóig) történő utazást kell helyközi utazásnak tekinteni.”
