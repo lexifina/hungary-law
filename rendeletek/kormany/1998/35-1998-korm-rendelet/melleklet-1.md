@@ -1,6 +1,6 @@
-## 8. §[^35]
+## 8. §[^30]
 
-1. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^36]
+1. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^31]
 
 ## A közigazgatási szakvizsga vizsgaszabályzata
 
@@ -12,7 +12,7 @@
 
 4. A vizsgára jelentkezni az e célra rendszeresített nyomtatványon lehet. A jelentkezési lapot (1. függelék) a munkáltató bocsátja a jelölt rendelkezésére.
 
-5.[^37] A jelentkezési lapot a munkáltató – a választott vizsgaidőszakot megelőzően két hónappal a tantárgyválasztást, valamint a közigazgatási gyakorlatot igazoló záradék aláírása után – megküldi a vizsgaszervezőnek. A felkészítő tanfolyam díját, valamint a vizsgadíjat a munkáltató a vizsgaszervező által kiállított számla alapján utólag fizeti meg. Ha a felkészítő tanfolyam és vizsga díját a központi költségvetés biztosítja, az összegek átutalása a teljesítést követően történik.
+5.[^32] A jelentkezési lapot a munkáltató – a választott vizsgaidőszakot megelőzően két hónappal a tantárgyválasztást, valamint a közigazgatási gyakorlatot igazoló záradék aláírása után – megküldi a vizsgaszervezőnek. A felkészítő tanfolyam díját, valamint a vizsgadíjat a munkáltató a vizsgaszervező által kiállított számla alapján utólag fizeti meg. Ha a felkészítő tanfolyam és vizsga díját a központi költségvetés biztosítja, az összegek átutalása a teljesítést követően történik.
 
 6. A vizsgaszervező a jelentkezést nyilvántartásba veszi, s a felkészítő tanfolyam, illetve az első vizsgatárgyból tett vizsga időpontja előtt legalább 30 nappal tájékoztatja a jelöltet – a munkáltatóján keresztül – a felkészítő tanfolyam, illetve a vizsga napjáról, kezdési időpontjáról, helyéről.
 
@@ -22,9 +22,9 @@
 
 9. A vizsgaszervező által meghatározott, visszaigazolt vizsgaidőpont módosítása – bármelyik vizsgatárgyból – csak különösen indokolt esetben engedélyezhető. Az új időpont meghatározásáról kizárólag a vizsgaszervező dönthet. A vizsgáról igazolatlan távolmaradás következménye javítóvizsgára utasítás.
 
-10.[^38] A szakvizsgaszervező a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
+10.[^33] A szakvizsgaszervező a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
 
-11.[^39] A bizottság munkáját a vizsga rendjéért, szabályosságáért felelős elnök vezeti, s a szakvizsgaszervező által kijelölt vizsgabiztos segíti. A háromtagú vizsgabizottságnak jelen kell lennie a vizsgák írásbeli vizsgarészén is, s a vizsgarészt követően helyben azonnal ki kell javítaniuk és minősíteniük az írásbeli dolgozatokat. Vizsgabiztos a szakvizsgaszervező alkalmazásában álló köztisztviselő lehet (a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ esetében legalább középiskolai végzettségű munkatárs). Feladatai: 1. gondoskodik a vizsga lebonyolításához szükséges technikai feltételekről; 2. az írásbeli vizsgához szükséges feladatokat és segédleteket a jelöltek rendelkezésére bocsátja; 3. az írásbeli vizsgán felügyelőként segíti a bizottságot a rend fenntartásában, a visszaélések megakadályozásában; 4. gondoskodik a vizsgajegyzőkönyvek (2. függelék) és bizonyítványok (2. számú melléklet) kitöltéséről, ellenőrzi adataik pontosságát és valódiságát; 5. vezeti a vizsganyilvántartó könyvet (3. függelék).
+11.[^34] A bizottság munkáját a vizsga rendjéért, szabályosságáért felelős elnök vezeti, s a szakvizsgaszervező által kijelölt vizsgabiztos segíti. A háromtagú vizsgabizottságnak jelen kell lennie a vizsgák írásbeli vizsgarészén is, s a vizsgarészt követően helyben azonnal ki kell javítaniuk és minősíteniük az írásbeli dolgozatokat. Vizsgabiztos a szakvizsgaszervező alkalmazásában álló köztisztviselő lehet (a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ esetében legalább középiskolai végzettségű munkatárs). Feladatai: 1. gondoskodik a vizsga lebonyolításához szükséges technikai feltételekről; 2. az írásbeli vizsgához szükséges feladatokat és segédleteket a jelöltek rendelkezésére bocsátja; 3. az írásbeli vizsgán felügyelőként segíti a bizottságot a rend fenntartásában, a visszaélések megakadályozásában; 4. gondoskodik a vizsgajegyzőkönyvek (2. függelék) és bizonyítványok (2. számú melléklet) kitöltéséről, ellenőrzi adataik pontosságát és valódiságát; 5. vezeti a vizsganyilvántartó könyvet (3. függelék).
 
 12. Az írásbeli vizsgafeladatok megoldásához szükséges kellékeket (pl. hitelesített feladatlapok, a feladat megoldásához használható lepecsételt papírok) a vizsgaszervező bocsátja a jelöltek rendelkezésére.
 
@@ -60,8 +60,8 @@ Az eredménytelen vizsgát csak a vizsgajegyzőkönyvben kell szerepeltetni. A j
 
 21. Egy-egy vizsgacsoportba legfeljebb 20 főt lehet beosztani.
 
-[^35]: A 8. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1292. pontja hatályon kívül helyezte.
-[^36]: Az 1. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^37]: Az 1. számú melléklet 5. pontjának negyedik mondatát a 252/2008. (X. 14.) Korm. rendelet 5. § (5) bekezdése hatályon kívül helyezte.
-[^38]: Az 1. számú melléklet 10. pontja a 279/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^39]: Az 1. számú melléklet 11. pontja a 279/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^30]: A 8. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1292. pontja hatályon kívül helyezte.
+[^31]: Az 1. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^32]: Az 1. számú melléklet 5. pontjának negyedik mondatát a 252/2008. (X. 14.) Korm. rendelet 5. § (5) bekezdése hatályon kívül helyezte.
+[^33]: Az 1. számú melléklet 10. pontja a 279/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^34]: Az 1. számú melléklet 11. pontja a 279/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdésének b) pontja szerint módosított szöveg.

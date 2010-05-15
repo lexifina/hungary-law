@@ -1,4 +1,4 @@
-## 1. függelék[^40]
+## 1. függelék[^35]
 
 ## JELENTKEZÉSI LAP közigazgatási szakvizsgára
 
@@ -32,7 +32,7 @@
 
 |  | hivatali szervezet vezetője |
 
-## 2. függelék[^41]
+## 2. függelék[^36]
 
 ## JEGYZŐKÖNYV
 
@@ -84,7 +84,7 @@
 
 | vizsgáztató bizottság elnöke |
 
-## 3. függelék[^42]
+## 3. függelék[^37]
 
 ## VIZSGANYILVÁNTARTÓ KÖNYV
 
@@ -94,9 +94,9 @@
 
 | minősítése | kelte |
 
-2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^43]
+2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^38]
 
-[^40]: Az 1. számú melléklet 1. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^41]: Az 1. számú melléklet 2. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^42]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^43]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: Az 1. számú melléklet 1. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: Az 1. számú melléklet 2. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^37]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^38]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
