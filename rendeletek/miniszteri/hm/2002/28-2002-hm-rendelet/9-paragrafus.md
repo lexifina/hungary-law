@@ -8,4 +8,7 @@
 
 (3) A megszüntetésről szóló nyilatkozatot az engedélyezési kérelemhez, illetve a bejelentéshez kell csatolni.
 
+(4)[^4] Az állomány tagja által a HM tárcán belül létesített köztisztviselői és közalkalmazotti jogviszonyában csakis illetményre, illetve a jogállási törvény által kötelezően megállapítandó pótlékra jogosult.
+
 [^3]: A 8. §-t és az azt megelőző alcímet a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 9. § (4) bekezdését a 12/2010. (V. 12.) HM rendelet 8. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a 2010. május havi munkába járással kapcsolatos kifizetésekre kell alkalmazni. Alkalmazására lásd a módosító rendelet 10. § (2) bekezdését.
