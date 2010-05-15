@@ -6,7 +6,7 @@
 
 Melléklet a 89/2005. (X. 11.) FVM–EüM–ICSSZEM–PM
 
-együttes rendelethez
+együttes rendelethez[^2]
 
 Az élelmiszer-ellenőrzési igazgatási szolgáltatás díjai
 
@@ -18,7 +18,7 @@ Az élelmiszer-ellenőrzési igazgatási szolgáltatás díjai
 
 | 1.1.3. | Nem állati eredetű élelmiszert előállító üzem vagy élelmiszeripari vállalkozás nyilvántartásba vétele | 15 000 |
 
-| 1.1.4. | Elsődleges élelmiszert termelők és alapterméket forgalmazók nyilvántartásba vétele | 15 000 |
+| 1.1.4. | Engedélyköteles élelmiszerek kiskereskedelmi forgalomba hozatalának engedélyezése, valamint kistermelők alkalmi rendezvények nyilvántartásba vétele | 15 000 |
 
 | 1.2.1. | Állati eredetű élelmiszert előállító – az élelmiszerek előállításának és forgalmazásának élelmiszer-higiéniai feltételeiről szóló 90/2003. (VII. 30.) FVM–ESZCSM–GKM együttes rendelet szerint – jóváhagyott üzem vagy élelmiszeripari vállalkozás tervbírálata | 50 000 |
 
@@ -1821,3 +1821,5 @@ Rövidítések jegyzéke
 | UV | – ultraibolya frekvencia-tartomány |
 
 | VRK | – vékonyréteg-kromatográfia |
+
+[^2]: A melléklet az 52/2010. (IV. 30.) FVM rendelet 9. § (3) bekezdése szerint módosított szöveg.
