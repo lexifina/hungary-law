@@ -42,6 +42,6 @@
 
 | 17. | II/I–IV | „A”–,,B” fizetési osztály | III. besorolási osztály | 1,1–1,5 |
 
-2. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^38]
+2. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^45]
 
-[^38]: A 2. számú melléklet a 4/2009. (IV. 22.) HM rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
+[^45]: A 2. számú melléklet a 4/2009. (IV. 22.) HM rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.

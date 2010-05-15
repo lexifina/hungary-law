@@ -22,6 +22,6 @@ f) a 66. § szerint kinttartózkodó családtagok után családtagi pótlék.
 
 (3) A hat hónapnál hosszabb, de tizennyolc hónapot meg nem haladó időtartamú külföldi tanulmányok esetén a szabadságra történő haza- és visszautazással összefüggésben az (1) bekezdés e) pontjában meghatározott költségtérítés – a kiküldött kérelmére – a kiküldött helyett házastársa (élettársa), illetve a 7. § (2) bekezdésében említett jogszabály szerint családi pótlékra jogosító gyermeke utazásának fedezetére is igénybe vehető.
 
-(4)[^35] Az (1) bekezdés d)–e) pontjait a családtagi pótlékra jogosító hozzátartozók tekintetében is alkalmazni kell.
+(4)[^42] Az (1) bekezdés d)–e) pontjait a családtagi pótlékra jogosító hozzátartozók tekintetében is alkalmazni kell.
 
-[^35]: A 63. § (4) bekezdését a 9/2010. (V. 4.) HM rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
+[^42]: A 63. § (4) bekezdését a 9/2010. (V. 4.) HM rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
