@@ -1,4 +1,4 @@
-## 44. §[^61] A honvédelmi szervezet állományába nem tartozó személyek részére honvédelmi feladattal vagy szolgálati üggyel összefüggésben (pl. szolgálati viszony létesítése), továbbá ünnepségen, rendezvényen történő részvétel céljából történt meghívás esetén az utazási költségek a kifizetést engedélyező – kötelezettségvállalásra jogosult – parancsnok parancsa alapján számolhatók el. Az elszámoláshoz csatolni kell az utazási költségről szóló számlát (egyszerűsített számlát).
+## 44. §[^63] A honvédelmi szervezet állományába nem tartozó személyek részére honvédelmi feladattal vagy szolgálati üggyel összefüggésben (pl. szolgálati viszony létesítése), továbbá ünnepségen, rendezvényen történő részvétel céljából történt meghívás esetén az utazási költségek a kifizetést engedélyező – kötelezettségvállalásra jogosult – parancsnok parancsa alapján számolhatók el. Az elszámoláshoz csatolni kell az utazási költségről szóló számlát (egyszerűsített számlát).
 
 ## A helyi szolgálati utazások
 
@@ -8,7 +8,7 @@
 
 (3) A helyi szolgálati utazáshoz taxi, CASCO biztosítással rendelkező saját vagy más bérelt gépjármű csak az állományilletékes parancsnok előzetes engedélyével – a 18. §-ban foglaltak szerint – vehető igénybe.
 
-(4)[^62] Szolgálati (hivatali) utazások alkalmával felmerülő parkolási díjak megtérítését a menetlevélhez csatolt bizonylat (számla, egyszerűsített számla, nyugta) alapján a parancsnok engedélyezi.
+(4)[^64] Szolgálati (hivatali) utazások alkalmával felmerülő parkolási díjak megtérítését a menetlevélhez csatolt bizonylat (számla, egyszerűsített számla, nyugta) alapján a parancsnok engedélyezi.
 
-[^61]: A 44. § utolsó mondatát a 46/2005. (XII. 22.) HM rendelet 17. § (1) bekezdése hatályon kívül helyezte.
-[^62]: A 45. § (4) bekezdése a 46/2005. (XII. 22.) HM rendelet 16. §-ával megállapított szöveg.
+[^63]: A 44. § utolsó mondatát a 46/2005. (XII. 22.) HM rendelet 17. § (1) bekezdése hatályon kívül helyezte.
+[^64]: A 45. § (4) bekezdése a 46/2005. (XII. 22.) HM rendelet 16. §-ával megállapított szöveg.

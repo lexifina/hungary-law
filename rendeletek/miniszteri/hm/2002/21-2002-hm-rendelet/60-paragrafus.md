@@ -1,3 +1,5 @@
+## 59/A. §[^67] A személyi állomány helyi közösségi közlekedési eszközzel történő (munkába járási) utazási költségeinek részbeni vagy egészbeni átvállalását, a 29. § (3) bekezdése szerinti utazás kivételével, az e célra rendelkezésre álló költségvetési előirányzat terhére az elöljáró parancsnok jóváhagyásával az állományilletékes parancsnok engedélyezheti. A katonai nemzetbiztonsági szolgálatoknál ezt a jogkört a főigazgató gyakorolja.
+
 ## VII. Fejezet
 
 ## HATÁLYBALÉPÉS
@@ -117,3 +119,5 @@ Ennek megfelelően a ,,nyilatkozat'' szövegben kipontozott helyen ,,nem'' vagy 
 12. A ,,H'' jelű elismervényt a menetlevél 2. sz. példányán a pénzügyi és számviteli szerv erre feljogosított beosztottja írja alá. Ha az átvevő nem jogosult az ,,ellenjegyzésre'', úgy (a 2. sz. példányon) az ellenjegyzésre utaló szöveget át kell húzni. Az 1. sz. példányon ez a blokk az ,,ellenjegyzésre'' szolgál, ezért az ,,átvételre'' utaló szövegrészt kell áthúzni.
 
 13. A rontott vagy fel nem használt menetlevél-nyomtatvány lapokat vissza kell helyezni a tömbbe. A betelt tömböket (tőszelvényeket) a tömb utolsó lapjával együtt kell elhelyezni a pénztárbizonylatok között.
+
+[^67]: Az 59/A. §-t a 12/2010. (V. 12.) HM rendelet 7. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a 2010. május havi munkába járással kapcsolatos kifizetésekre kell alkalmazni. Alkalmazására lásd még a módosító rendelet 10. § (2) bekezdését.
