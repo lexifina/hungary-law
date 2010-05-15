@@ -1,8 +1,8 @@
-## A közvetett támogatásra vonatkozó speciális szabályok[^98]
+## A közvetett támogatásra vonatkozó speciális szabályok[^101]
 
-27. § (1)[^99] Közvetett támogatás esetében a címzettek kiválasztása és a támogatás felhasználása során alkalmazandó eljárást, valamint a projektgazda és a címzettek között kötendő szerződés fő pontjait az NFÜ a miniszterrel egyetértésben a felhívásban, vagy ennek hiányában a projektgazda a projektjavaslatban határozza meg.
+27. § (1)[^102] Közvetett támogatás esetében a címzettek kiválasztása és a támogatás felhasználása során alkalmazandó eljárást, valamint a projektgazda és a címzettek között kötendő szerződés fő pontjait az NFÜ a miniszterrel egyetértésben a felhívásban, vagy ennek hiányában a projektgazda a projektjavaslatban határozza meg.
 
-(2)[^100] A projekt gazda tájékoztatja a közreműködő szervezetet a támogatás igénylésének feltételeiről. A közreműködő szervezet a tájékoztatást közzététel céljából továbbítja az NFÜ-nek és a kormányzati internetes portál fenntartójának.
+(2)[^103] A projekt gazda tájékoztatja a közreműködő szervezetet a támogatás igénylésének feltételeiről. A közreműködő szervezet a tájékoztatást közzététel céljából továbbítja az NFÜ-nek és a kormányzati internetes portál fenntartójának.
 
 (3) Az NFÜ és a közreműködő szervezet jogosult a projekt gazdánál és a címzetteknél is helyszíni szemlét tartani a támogatás szabályszerű felhasználásának ellenőrzése céljából.
 
@@ -10,6 +10,6 @@
 
 (5) Az NFÜ kezdeményezése esetén a megvalósítás rendszeres nyomon követésére projekt irányító bizottság kerül felállításra. A projekt irányító bizottságba tagot delegál a projekt gazda, az NFÜ, a közreműködő szervezet és a miniszter.
 
-[^98]: A 27. §-t megelőző alcím a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 27. §-ával megállapított szöveg.
-[^99]: A 27. § (1) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 27. §-ával megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^100]: A 27. § (2) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 29. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^101]: A 27. §-t megelőző alcím a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 27. §-ával megállapított szöveg.
+[^102]: A 27. § (1) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 27. §-ával megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^103]: A 27. § (2) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 29. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

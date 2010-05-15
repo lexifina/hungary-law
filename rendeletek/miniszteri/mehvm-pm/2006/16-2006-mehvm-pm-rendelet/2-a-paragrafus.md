@@ -1,6 +1,6 @@
 ## Eljárási alapelvek
 
-2/A. §[^7] (1) Az NFÜ és a közreműködő szervezet az eljárása során köteles megtartani és másokkal is megtartatni a jogszabályok rendelkezéseit. Hatáskörét a jogszabályokban előírt célok megvalósítása érdekében, jogkörét a jogalkotó által meghatározott szempontok figyelembevételével és az adott ügy egyedi sajátosságaira tekintettel gyakorolja.
+2/A. §[^8] (1) Az NFÜ és a közreműködő szervezet az eljárása során köteles megtartani és másokkal is megtartatni a jogszabályok rendelkezéseit. Hatáskörét a jogszabályokban előírt célok megvalósítása érdekében, jogkörét a jogalkotó által meghatározott szempontok figyelembevételével és az adott ügy egyedi sajátosságaira tekintettel gyakorolja.
 
 (2) Az NFÜ és a közreműködő szervezet a hatáskörének gyakorlásával nem élhet vissza, hatásköre gyakorlása során a szakszerűség, az egyszerűség és a projektgazdával való együttműködés követelményeinek megfelelően köteles eljárni.
 
@@ -16,4 +16,4 @@
 
 (8) Valamely adat igazolása – az adatváltozás kivételével – a projektgazdától csak egy alkalommal kérhető.
 
-[^7]: A 2/A. §-t és az azt megelőző alcímet a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 2. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^8]: A 2/A. §-t és az azt megelőző alcímet a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 2. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

@@ -22,7 +22,7 @@ b) az elszámolható költségek ismertetését;
 
 c) a projekt javaslat benyújtásának módját, helyét és határidejét;
 
-d)[^12] a projektkiválasztás és -megvalósítás eljárásrendjét, különösen a közreműködő szervezetnek a projektjavaslat benyújtását követő tevékenységeit és ezek határidőit, a hiánypótlás szabályait, a részletes pontozásos szempontrendszert, a panasztétel lehetőségét, a támogatás folyósításának formáját, a kifizetési kérelmek benyújtásának gyakoriságát, valamint a biztosítékokra vonatkozó szabályokat;
+d)[^13] a projektkiválasztás és -megvalósítás eljárásrendjét, különösen a közreműködő szervezetnek a projektjavaslat benyújtását követő tevékenységeit és ezek határidőit, a hiánypótlás szabályait, a részletes pontozásos szempontrendszert, a panasztétel lehetőségét, a támogatás folyósításának formáját, a kifizetési kérelmek benyújtásának gyakoriságát, valamint a biztosítékokra vonatkozó szabályokat;
 
 e) további részletes információk elérhetőségét.
 
@@ -30,7 +30,7 @@ e) további részletes információk elérhetőségét.
 
 (6) Az NFÜ a felhívásban az (5) bekezdésben felsoroltakon túl kizárólag a projekt gazda megfelelősége, alkalmassága, és a projekt javaslat megfelelősége megítéléséhez az adott támogatási konstrukció esetében szükséges mellékletek csatolását követelheti meg.
 
-(7)[^13] Az NFÜ a pénzügyminiszterrel egyetértésben kidolgozza az elszámolható költségek nemzeti szabályait az 1083/2006/EK rendelet 56. cikke (4) bekezdésének megfelelően.
+(7)[^14] Az NFÜ a pénzügyminiszterrel egyetértésben kidolgozza az elszámolható költségek nemzeti szabályait az 1083/2006/EK rendelet 56. cikke (4) bekezdésének megfelelően.
 
-[^12]: A 4. § (4) bekezdésének d) pontja a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^13]: A 4. § (7) bekezdését a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 4. § (2) bekezdése iktatta be. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^13]: A 4. § (4) bekezdésének d) pontja a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^14]: A 4. § (7) bekezdését a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 4. § (2) bekezdése iktatta be. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

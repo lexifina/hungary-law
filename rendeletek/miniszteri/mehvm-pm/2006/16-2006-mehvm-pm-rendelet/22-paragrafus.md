@@ -1,4 +1,4 @@
-22. §[^88] (1) Az 1 milliárd forintot meghaladó támogatással megvalósuló projektek keretében lefolytatott valamennyi beszerzés, illetve ilyenek előkészítésére vonatkozó beszerzés esetén – a 20. §-ban foglaltak mellett – a (2)–(8) bekezdésben meghatározott eljárás alkalmazandó.
+22. §[^90] (1) Az 1 milliárd forintot meghaladó támogatással megvalósuló projektek keretében lefolytatott valamennyi beszerzés, illetve ilyenek előkészítésére vonatkozó beszerzés esetén – a 20. §-ban foglaltak mellett – a (2)–(8) bekezdésben meghatározott eljárás alkalmazandó.
 
 (2) A kedvezményezett a közbeszerzési eljárás megindítása előtt legalább 30 munkanappal, illetve rendkívüli sürgősség miatt alkalmazott hirdetmény nélküli tárgyalásos eljárás esetén haladéktalanul a beszerzés 12 hónapnál nem régebbi költségkalkulációját a közreműködő szervezet részére megküldi.
 
@@ -14,4 +14,4 @@
 
 (8) A közreműködő szervezet vezetője – egyetértése esetén – a szerződést ellenjegyezheti. Ha a pályázati útmutató vagy a támogatási szerződés így rendelkezik, illetve az 5 milliárd forintot meghaladó támogatással megvalósuló projektek közösségi értékhatár feletti beszerzései esetében a közreműködő szervezet vezetője – egyetértése esetén – a szerződést ellenjegyzi, és ebben az esetben támogatás csak a közreműködő szervezet vezetője által ellenjegyzett szerződés alapján felmerülő költségekre folyósítható.
 
-[^88]: A 22. § a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 20. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^90]: A 22. § a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 20. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
