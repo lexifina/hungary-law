@@ -1,0 +1,1 @@
+## 3. § Más schengeni állam központi vízumhatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulásának megadása előtt az 1. §-ban meghatározott esetekben folytat a 810/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése szerinti egyeztetést a központi vízumhatósággal.
