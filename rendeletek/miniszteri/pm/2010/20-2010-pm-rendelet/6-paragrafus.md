@@ -1,0 +1,5 @@
+6. § (1) A Vtvr. 72. § (8) bekezdésében a „918/83/EGK rendelet 45. cikkében” szövegrész helyébe a „1186/2009/EK rendelet 41. cikkében” szöveg lép.
+
+(2) A vámmentes vámkezelésre jogosultak köréről szóló 26/2004. (IV. 28.) PM rendelet 1. § (1) bekezdésében „a vámkönnyítések közösségi rendszerének felállításáról szóló 918/83/EGK” szövegrész helyébe „a vámmentességek közösségi rendszerének felállításáról szóló 1186/2009/EK” szöveg „az érdekelt minisztérium” szövegrész helyébe „a feladatkör szerint érintett miniszter” szöveg, az 1. § (2) bekezdésében „az érdekelt minisztérium” szövegrész helyébe „a feladatkör szerint érintett miniszter” szöveg, a „XIV. Cím” szövegrész helyébe „XIII. Fejezet” szöveg, a 3. § a) pontjában „az érintett minisztériumokkal” szöveg helyett „a feladatkör szerint érintett miniszterekkel”szöveg lép.
+
+(3) A katonai csapat- és árumozgásokra vonatkozó vámeljárás különös szabályairól szóló 42/2004. (XI. 17.) PM rendelet 1. § (1) bekezdés a) pontjában „a Tanács 918/83/EGK rendelete a vámkönnyítések” szövegrész helyébe „a Tanács 1186/2009/EK rendelete a vámmentességek” szöveg lép.
