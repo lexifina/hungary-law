@@ -1,251 +1,163 @@
-## Kérelem a nem orvostechnikai eszköz státusú gyógyászati segédeszköz
+## A nem orvostechnikai eszköz státusú gyógyászati segédeszköz társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
 
-## társadalombiztosítási támogatásba történő befogadásához
+## Nem tölthető ki orvostechnikai eszközökre, humán és állati eredetű transzplantátumokra, szövetekre vagy sejtekre; egyéb, a külön jogszabály szerint gyógyszernek minősülő termékre (ideértve a humán vérszármazékból készült gyógyszereket is), a munkavédelemről szóló törvény hatálya alá tartozó egyéni védőeszközökre; valamint kozmetikai termékekre.
 
-## Nem tölthető ki orvostechnikai eszközökre, humán és állati eredetű transzplantátumokra, szövetekre vagy sejtekre egyéb; a külön jogszabály szerint gyógyszernek minősülő termékre (ideértve a humán vérszármazékból készült gyógyszereket is), a munkavédelemről szóló 1993. évi XCIII. törvény hatálya alá tartozó egyéni védőeszközökre; valamint a külön jogszabály hatálya alá tartozó kozmetikai termékekre.
+## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
 
-## Mire irányul a kérelem?
+## 2. A kérelem azonosító alapadatai
 
-## □ Árhoz nyújtott támogatás megállapítására már támogatott csoporton belül
+## 2.1. A kérelmezett eszköz megnevezése és kiszerelése a kérelem 4.1. pontjával megegyezően
 
-## □ alaptípus (amelyre a termékcsalád befogadását a kérelmező kezdeményezi)
+## 2.2. A kérelmezett eszköz ISO kódja a kérelem 4.2. pontjával megegyezően
 
-## □ az alaptípus méretváltozata
+## 2.3. A kérelmezett eszköz alkalmazási területe BNO megadásával a kérelem 7.1. pontjával megegyezően
 
-## □ az alaptípus színváltozata
+## 2.4. A kérelmezett eszköz árajánlata a kérelem 9.1. pontjával megegyezően
 
-## □ Árhoz nyújtott támogatás megállapítására még nem támogatott csoporton belül
+## 2.5. A kérelmezett támogatási % a kérelem 9.2. pontjával megegyezően
 
-## □ alaptípus (amelyre a termékcsalád befogadását a kérelmező kezdeményezi)
+## 3. A kérelmező adatai
 
-## □ az alaptípus méretváltozata
+## 3.1. Társadalombiztosítási támogatást kérelmező, a gyógyászati segédeszköz gyártója, vagy a gyártó meghatalmazott képviselője (a továbbiakban: kérelmező)
 
-## □ az alaptípus színváltozata
+## 3.1.1. Név, pontos cím, telefon/faxszám
 
-## □ Már befogadott gyógyászati segédeszköz kihordási idejének megváltoztatására
+## 3.1.2. Honlap és e-mail cím
 
-## □ Már befogadott gyógyászati segédeszköz indikációjának megváltoztatására
+## 3.1.3. Kapcsolattartó neve, elérhetősége, telefon/faxszáma, e-mail címe
 
-## □ Már befogadott gyógyászati segédeszköz támogatási mértékének megváltoztatására
+## 3.2. A termék gyártója (amennyiben nem a termék gyártója a kérelmező)
 
-## □ Már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére
+## 3.2.1. Név, pontos cím, telefon/faxszám
 
-## □ Már befogadott gyógyászati segédeszköz névváltoztatására
+## 3.2.2. Honlap és e-mail cím
 
-## □ Már befogadott gyógyászati segédeszköz méretváltoztatására
+## 3.3. A kérelmező mely szakmai/érdekvédelmi szervezetnek, ipartestületnek tagja, azonosító száma
 
-## (A felsoroltak közül csak egy jelölhető meg X jellel vagy aláhúzással)
+## 3.4. Nyilatkozat arról, hogy rendelkezik-e a kérelmező kijelölt vagy akkreditált tanúsító szervezet által tanúsított minőségirányítási rendszerrel. Ha igen:
 
-## A kérelem azonosító alapadatai:
+## 3.4.1. A tanúsítvány száma
 
-| Beadás dátuma (OEP tölti ki a beérkezési dátumbélyegző alapján) |  |
+## 3.4.2. A tanúsítvány érvényessége
 
-| A kérelmezett eszköz megnevezése és kiszerelése a kérelem 2.1.pontjával megegyezően |  |
+## 3.4.3. A tanúsított tevékenység
 
-| A kérelmezett eszköz ISO kódja a kérelem 2.2. pontjával megegyezően |  |
+## 3.4.4. Milyen szabvány/előírás alapján van tanúsítva
 
-| A kérelmezett eszköz alkalmazási területe BNO megadásával a kérelem 5.1. pontjával megegyezően |  |
+## 4. Az eszköz azonosító adatai
 
-| A kérelmezett eszköz árajánlata a kérelem 7.1. pontjával megegyezően |  |
+## 4.1. Az eszköz megnevezése, kiszerelése
 
-| A kérelmezett támogatási % A kérelem 7.2. pontjával megegyezően |  |
+## 4.2. ISO kódja
 
-| Az igazgatási szolgáltatási díj befizetésének dátuma, összege: |  |
+## 4.3. EAN kódja
 
-## 1. A kérelmező adatai:
+## 4.4. Típus/modell neve
 
-| 1.1. Társadalombiztosítási támogatást kérelmező, a gyógyászati segédeszköz gyártója, vagy a gyártó meghatalmazott képviselője (a továbbiakban: kérelmező): 1.1.1. Név, pontos cím, tel/fax szám: 1.1.2. Honlap és e-mail cím*: 1.1.3. Kapcsolattartó neve, elérhetősége, telefon/fax száma, e-mail címe: |
+## 4.5. Kereskedelmi vámtarifa besorolása
 
-| 1.2. A Kérelmező (kérjük jelölje be a megfelelő helyen): □ a termék gyártója □ a termék gyártójának meghatalmazott képviselője |
+## 4.6. Áfa kulcsa
 
-| 1.3. A termék gyártója (amennyiben nem a termék gyártója a Kérelmező): 1.3.1. Név, pontos cím, tel/fax szám: 1.3.2. Honlap és e-mail cím: |
+## 5. Az eszköz ismertetése
 
-| 1.4. A Kérelmező mely szakmai/érdekvédelmi szervezetnek, ipartestületnek tagja, azonosító száma: |
+## 5.1. Az eszköz és tartozékai anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) (vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
 
-| 1.5. Rendelkezik-e a Kérelmező kijelölt illetve akkreditált tanúsító szervezet által tanúsított minőségirányítási rendszerrel? □ igen □nem 1.5.1. A tanúsítvány száma: 1.5.2. A tanúsítvány érvényessége: 1.5.3. A tanúsított tevékenység: 1.5.4. Milyen szabvány/előírás alapján van tanúsítva: □ ISO 13485:2003 (MSZ EN ISO 13485:2004) □ ISO 9001:2000 (MSZ EN ISO 9001:2001) □ egyéb: …… |
+## 5.2. Az eszköz egyszerű leírása és alkalmazási célja: ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
 
-## 2. Az eszköz azonosító adatai:
+## 5.3 Tartozékok, kiegészítők
 
-| 2.1. Az eszköz megnevezése, kiszerelése, mérete: |
+## 5.3.1. A rendeltetésszerű működéshez szükséges (és az árban foglalt) tartozékok felsorolása, alkalmazásuk célja, leírása
 
-| 2.2. ISO kódja: |
+## 5.3.2. A rendeltetésszerű működéshez esetenként szükséges és az árban nem kifejezett, az alapfelszereltségen túli speciális, külön rendelhető tartozékok felsorolása, alkalmazásuk célja, leírása
 
-| 2.3. EAN kódja: |
+## 5.3.3. A rendeltetésszerű használathoz elengedhetetlen tartozékok, kiegészítők tételes felsorolása
 
-| 2.4. Típus/modell neve: |
+## 5.4. A kérelmezett eszközre jellemzően használt és értelmezett mennyiségi és minőségi adatok, specifikált műszaki jellemzők
 
-| 2.5. Kereskedelmi vámtarifa besorolása: |
+## 5.5. A kérelmezett kereskedelmi csomagolási és mennyiségi egység leírása
 
-| 2.6. ÁFA kulcsa: |
+## 5.6. Javaslat az eszköz kihordási idejére
 
-## 3. Az eszköz ismertetése:
+## 5.7. Egyéb raktározási (fény-, hőmérséklet-, helyzetérzékenység), eltarthatósági (lejárati, eltarthatósági, hitelesítési idő), szállíthatósági (törékenység, nedvességérzékenység) információk az eszközzel kapcsolatban
 
-| 3.A.) Tartós használatra szánt eszköz esetén kérjük csatolja CD-n az eszköz legalább 1,5 MP (megapixel) felbontású színes fényképét legalább öt különböző látószögből |
+## 6. Az eszköz jótállási, karbantartási, szervizadatai
 
-| 3.B) Tartós használatra szánt eszköz esetén kérjük csatolja CD-n, mozgókép módban az eszköz használatát bemutató ismertetőt, a használat kezdetétől a végéig min. 5 max. 10 percben. |
+## 6.1. Tervezett élettartam rendeltetésszerű használat, rendszeres szakszerű átvizsgálás és szükségszerű javítások esetén
 
-| 3.C.) Nem tartós használatra szánt eszköz esetén a 3. A), illetőleg 3. B) pontok szerinti ismertető helyett 10 db termékminta (vagy 1 gyűjtő csomagolás) csatolható |
+## 6.2. A gyártó által egyoldalúan vállalt, az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló kormányrendelettől eltérő többletjótállási idő
 
-| 3.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) /vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban/ |
+## 6.3. Szervizállomások neve, címe, telefon/faxszáma
 
-| 3.2. Az eszköz egyszerű leírása és alkalmazási célja: ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata) |
+## 6.4. Nyilatkozat arról, hogy az alkatrészellátás folyamatossága biztosított-e
 
-| 3.3 Tartozékok, kiegészítők 3.3.1. A rendeltetésszerű működéshez szükséges (és az árban foglalt) tartozékok felsorolása alkalmazásuk célja, leírása. |
+## 6.5. Nyilatkozat a javítások vállalt határidejéről
 
-| 3.3.2. A rendeltetésszerű működéshez esetenként szükséges és az árban nem kifejezett, az alapfelszereltségen túli speciális, külön rendelhető tartozékok felsorolása alkalmazásuk célja, leírása. |
+## 6.6. Nyilatkozat arról, hogy a javítás időtartama alatt csereeszköz biztosított-e
 
-| 3.3.3. A rendeltetésszerű használathoz elengedhetetlen tartozékok, kiegészítők tételes felsorolása |
+## 7. Az eszköz orvosszakmai jellemzői
 
-| 3.4. A kérelmezett eszközre jellemzően használt és értelmezett mennyiségi és minőségi adatok, specifikált műszaki jellemzői: : |
+## 7.1. A kérelmező javaslata az eszköz alkalmazási területére vonatkozó, „A betegségek és az egészséggel kapcsolatos problémák nemzetközi statisztikai osztályozása” szerinti BNO-WHO besorolásra
 
-| 3.5. A kérelmezett kereskedelmi csomagolási és mennyiségi egység leírása |
+## 7.2. Az eszköz szükségességének ideje/jellemzője a különböző alkalmazásokban (akut, krónikus, élethosszig tartó ellátásban alkalmazott termék)
 
-| 3.6. A kérelmezett eszköz használatban levő címkéje (terméken, csomagoláson MSZ EN 12182 szerint) másolatát kérjük, csatolja |
+## 7.3. Nyilatkozat arról, hogy szükséges-e az eszköz rendeltetésszerű használatához beállítás, adaptáció vagy betanítás
 
-| 3.7. Használati útmutató (MSZ EN 12182 szerint) (kérjük, csatolja) |
+## 7.3.1. Ha igen: nyilatkozat arról, hogy ki végzi (orvos, asszisztens, gyógytornász, egyéb) és hol
 
-| 3.8. Javasolt kihordási idő: |
+## 7.4. Azonos vagy hasonló rendeltetésű támogatott gyógyászati segédeszköz/segédeszközök megnevezése
 
-| 3.9. Egyéb raktározási (fény-, hőmérséklet-, helyzetérzékenység) eltarthatósági (lejárati-, eltarthatósági, hitelesítési idő) szállíthatósági (törékenység, nedvességérzékenység) stb. információk az eszközzel kapcsolatban: |
+## 7.5. Az eszköz rendelhetőségére, forgalmazására, használatára vonatkozó (esetleges) különleges szabály/szabályok, feltétel/feltételek
 
-## 4. Az eszköz jótállási, karbantartási, szervizadatai:
+## 8. Az eszköz megfelelőségi igazolása
 
-| 4.1. Tervezett élettartam – rendeltetésszerű használat, rendszeres szakszerű átvizsgálás és szükségszerű javítások esetén: …… hónap |
+## 8.1. Nyilatkozat arra vonatkozóan, hogy rendelkezik-e a gyártó a termékre vonatkozóan a követelmények megfelelőségét igazoló dokumentumokkal
 
-| 4.2. Kérjük csatolja a gyártó adott termékcsoportra vonatkozó javítási statisztikáját (karbantartás költségeit megjelölve) 2 évre visszamenőleg |
+## 8.2. A tanúsítvány száma, érvényessége
 
-| 4.3. A gyártó által egyoldalúan vállalt, a rendelettől eltérő többlet jótállási idő: …… hónap (Az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról a 151/2003. (IX. 22.) számú Korm. rendelet rendelkezik.) |
+## 8.3. A tanúsított termék
 
-| 4.4. Szervízállomások: |
+## 8.4. Milyen szabvány/előírás alapján van tanúsítva
 
-|  | Név | Cím | Tel/Fax |  |
+## 9. Az eszköz árára, társadalombiztosítási támogatására vonatkozó paraméterek
 
-| 4.5. Az alkatrészellátás folyamatossága biztosított-e? □ igen □nem |
+## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-| 4.6. A javítások vállalt határideje: ...…nap ......hét ..….hónap |
+## A 2. § (4) bekezdés q) pontja szerinti nyilatkozatot alátámasztó számítások
 
-| 4.7. A javítás időtartama alatt csereeszköz biztosított-e? □ igen □nem |
+## 9.2. A kérelmező által kért társadalombiztosítási támogatás mértéke és jellege
 
-## 5. Az eszköz orvos szakmai jellemzői:
+## 9.3. Az eszközzel azonos funkcionális (ISO) csoportba tartozó eszközök társadalombiztosítási támogatása Magyarországon
 
-| 5.1. A támogatást igénylő javaslata az eszköz alkalmazási területére vonatkozó, „ A betegségek és az egészséggel kapcsolatos problémák nemzetközi statisztikai osztályozása” szerinti BNO-WHO besorolásra: |
+## 9.4. A gyártó által forgalmazott – esetleg eltérő elnevezésű – eszköz termelői ára az Európai Közösség országaiban
 
-| 5.2. Az eszköz szükségességének ideje/jellemzője (fejtse ki mi a használat jellemzője, gyakorisága a különböző alkalmazásokban): □ akut □ krónikus □ élethosszig tartó ellátásban alkalmazott termék |
+## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
 
-| 5.3. Szükséges-e az eszköz rendeltetésszerű használatához beállítás, adaptáció vagy betanítás? (kérjük aláhúzni, hogy melyik) □ igen □nem 5.3.1. Ha igen: ki végzi és hol? □ Orvos:………………………………….……… □ Asszisztens:…………………………………… □ Gyógytornász:………………………….……… □ egyéb:………..:……………………………….. |
+## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembevételével)
 
-| 5.4. Azonos, vagy hasonló rendeltetésű támogatott gyógyászati segédeszköz(ök) megnevezése: |
+## 11. Szakorvosi vélemény
 
-| 5.5. Az eszköz rendelhetőségére, forgalmazására, használatára vonatkozó(esetleges) külföldi különleges szabály(ok), feltétel(ek): |
+## 11.1. Nyilatkozat arról, hogy klinika vagy megyei kórház által kiállított vagy korábban országos intézettől beszerzett, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
 
-## 6. Az eszköz megfelelőségi igazolása
+## 11.2. Az eszköz pontos megnevezése, meghatározása
 
-| 6. Rendelkezik-e a gyártó a termékre vonatkozóan a követelmények megfelelőségét igazoló dokumentumokkal □ igen □nem 6.1. A tanúsítvány száma: 6.2. A tanúsítvány érvényessége: 6.3. A tanúsított termék: 6.4. Milyen szabvány/előírás alapján van tanúsítva: □ 89/336/EEC EMC □ egyéb: 6.5. Amennyiben az a forgalmazáshoz szükséges, az eszköz CE jelölésének használatára való jogosultság alátámasztására kérjük csatolja a regisztrációról szóló igazolást magyar nyelven (magyar nyelvre való fordítás esetén az eredetit és a fordítást is kérjük mellékelni). |
+## 11.3. A vélemény elkészítésének módja (hány betegen, milyen körülmények között történt az eszköz kipróbálása, összehasonlító vizsgálatok)
 
-## Az eszköz árára és társadalombiztosítási támogatására vonatkozó paraméterek:
+## 11.4. Funkcionális alkalmasság
 
-| 7.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység): E rendelet. 2. § (4) bekezdés q) pontja szerinti nyilatkozatot alátámasztó számítások |  |
+## 11.5. A használati útmutató megfelelőségének véleményezése (szakszerűség, érthetőség)
 
-|  |  | Tb. támogatás nélkül | Tb. támogatás mellett |  |
+## 11.6. Javasolt indikációs területek
 
-|  | (Ft) | (Ft) |  |
+## 11.7. Kontraindikáció, indoklással
 
-|  | várható termékforgalom (darab) |  |  |  |
+## 11.8. Felírási/felírhatósági szakmai feltételek
 
-|  | Egy termékre vetített − közvetlen előállítási költség |  |  |  |
+## 11.9. Egyéb (összehasonlítás hasonló eszközökkel, műszaki és minőségi észrevételek stb.)
 
-|  | − rezsi költség |  |  |  |
+## 11.10. Állásfoglalás arra vonatkozóan, hogy az eszköz gyógyászati segédeszközként való használatával egyetért-e
 
-|  | − nyereség |  |  |  |
+## 11.11. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-|  | A termék termelői ára |  |  |  |
+4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^117]
 
-|  |  | árrés | − forgalmazással kapcsolatban felmerülő közvetlen költségek |  |  |  |
-
-|  | − rezsi költségek |  |  |  |
-
-|  | − nyereség |  |  |  |
-
-|  | A termék nettó fogyasztói ára |  |  |  |
-
-| 7.2. A kérelmező által kért társadalombiztosítási támogatás mértéke és jellege: ........%, és/vagy ......................Ft/ mennyiségi egység |
-
-| 7.3. Az eszközzel azonos funkcionális (ISO) csoportba tartozó eszközök társadalombiztosítási támogatása Magyarországon: |
-
-| Az eszköz megnevezése | Nettó közfinanszírozás alapjául elfogadott ára | A támogatás mértéke | A támogatás nettó összege |
-
-| 7.4. A gyártó által forgalmazott eszköz (esetleg eltérő elnevezésű) eszköz termelői ára az Európai Közösség országaiban: |
-
-| Ország | Az eszköz megnevezése | A biztosítói támogatás mértéke, jellege | Az eszköz fogyasztói ára Euroban vagy az érintett ország hivatalos pénznemében* |
-
-## * Kérjük, jelölje meg a forrás elérhetőségét. Az árösszehasonlítás céljából Ft-ra történő átszámításnál a kérelem beadásának hónapját megelőző hónap 15. napján hivatalos MNB deviza középárfolyam kerül alkalmazásra.
-
-## 8. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
-
-| 8.1. Készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, illetve kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján)? /Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembe vételével/ □ igen □nem Ha, igen kérjük csatolja. 8.2. Kérjük, csatolja az eszközre vonatkozó publikációk jegyzékét. 8.3. Kérjük csatolja az eszközre vonatkozó egyéb hazai/külföldi referenciákat. |
-
-| 9. Klinika vagy megyei kórház által kiállított (illetve korábban országos intézettől beszerzett, öt évnél nem régebbi) szakorvosi vélemény: □ 1. rendelkezésre áll □ 2. nem áll rendelkezésre Az 1. válasz jelölése esetén kérjük, hogy a Szakorvosi Véleményt kitöltve, a kérelem leadásával egyidejűleg beadni szíveskedjenek. Továbbá kérjük, hogy a véleményező szakorvosa szakvélemény minden oldalát pecsétjével és aláírásával ellátni szíveskedjen. |
-
-## A kérelem kitöltésére vonatkozó információk, elvárások
-
-## 1. Az adatokat és a megjelölt dokumentumokat hiánytalanul kell kitölteni, illetve mellékelni. Amennyiben az adott eszköz esetében az adatlap valamely pontja nem értelmezhető, a pont teljes áthúzásával, több lehetséges alternatíva esetén a megfelelő információ melletti □ jel beikszelésével választható ki a megfelelő.
-
-## 2. Egyszerű méretváltozási és névváltozási kérelem esetén a kérelmezett méret- vagy névváltozás tekintetében érintett eszköz minden dokumentációját be kell nyújtani és csatolni kell az EMKI vagy a külön jogszabály szerint kijelölt szerv igazolását a társadalombiztosítási támogatásba már befogadott 13−15 jegyű ISO kóddal jelölt eszköz és a kérelmezett eszköz azonosságáról.
-
-## 3. Amennyiben a gyártó és a kérelmező nem azonos, a gyártónak írásos meghatalmazást kell kiállítani a kérelmezőnek és azt a kérelemhez eredetiben csatolni kell.
-
-## 4. Az eszköz kipróbálásáról vagy a 5.6. pont szerinti klinikai értékelést vagy a 9. pont szerinti Szakorvosi vélemény valamelyikét kell mellékelni.
-
-## 5. A kitöltött adatok helyessége: A kérelmező garantálja az általa rendelkezésre bocsátott információk helyességét.
-
-## 6. A kérelmező kötelezettséget vállal arra, hogy az eszköz befogadása esetén a kérelem adataiban bekövetkezett változásokról haladéktalanul értesíti az OEP-et.
-
-## Kelt.: ………………………..
-
-## P. H.
-
-## ...............................................
-
-## aláírás
-
-## Szakorvosi vélemény
-
-## Klinikán vagy megyei kórházban dolgozó szakorvos (illetve korábban beszerzett, országos intézet orvosának öt évnél nem régebbi) szakvéleménye és besorolása a megfelelő csoportba, kiemelve a finom indikációs különbségeket, előnyöket, a támogatotti körben szereplő eszközökhöz képest:(kérjük, csatolja!)
-
-| 1. Az eszköz pontos megnevezése, meghatározása: |
-
-| 2. A vélemény elkészítésének módja: (hány betegen, milyen körülmények között történt az eszköz kipróbálása, összehasonlító vizsgálatok, stb.) |
-
-| 3. Funkcionális alkalmasság: |
-
-| 4. A használati útmutató megfelelőségének véleményezése (szakszerűség, érthetőség): |
-
-| 5. Javasolt indikációs területek: |
-
-| 6. Kontraindikáció, indoklással: |
-
-| 7. Felírási/felírhatósági szakmai feltételek: |
-
-| 8. Egyéb/összehasonlítás hasonló eszközökkel, műszaki és minőségi észrevételek, stb./: |
-
-| 9. Állásfoglalás: Az eszköz gyógyászati segédeszközként való használatával □ egyetértek □ nem értek egyet. |
-
-| 10. A véleményező neve: |
-
-| 11. Szakképzettségei: |
-
-| 12. Beosztása: |
-
-| 13. Munkahelye: |
-
-## A vélemény kiadásának kelte:
-
-## P. H.
-
-## ...............................................
-
-## aláírás
-
-4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^92]
-
-[^92]: A 4. számú melléklet a 8/2008. (III. 4.) EüM rendelet 12. §-a, az 56/2008. (XII. 31.) EüM rendelet 18. §-a és 23. § (10) bekezdése szerint módosított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^117]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-10. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^97]
+10. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^122]
 
-[^97]: A 10. számú melléklet a 25/2009. (VIII. 3.) EüM rendelet 6. §-ával megállapított, az 52/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^122]: A 10. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (7) bekezdésével megállapított szöveg.

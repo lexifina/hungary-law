@@ -1,5 +1,9 @@
-5. § (1)–(2)[^36]
+5. §[^39] (1) Az OEP a Gtv. 32. § (4) bekezdése szerinti kérelmekről teljes körű értékelést követően dönt.
 
-(3) A Gtv. 32. §-ának (4) bekezdése szerinti eljárást abban az esetben kell alkalmazni, amikor a befogadási kérelemben megjelölt ár az adott funkcionális csoportba tartozó legalacsonyabb árú gyógyászati segédeszköz áránál legalább 5%-kal alacsonyabb.
+(2) Az OEP a Gtv. 32. § (4) bekezdése szerinti eljárásokban szakértőként kirendeli az Egészségügyi Stratégiai Kutatóintézetet (a továbbiakban: ESKI), hogy elvégezze a kérelem kritikai értékelését.
 
-[^36]: Az 5. § (1)–(2) bekezdését a 38/2009. (XI. 6.) EüM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
+(3) Az ESKI a kirendelés kézhezvételét követő 30 munkanapon belül küldi meg szakvéleményét az OEP-nek.
+
+(4) A teljes körű értékelés részét képezi az illetékes szakmai kollégium véleménye és az ESKI szakvéleménye.
+
+[^39]: Az 5. § a 34/2010. (V. 14.) EüM rendelet 3. §-ával megállapított szöveg.

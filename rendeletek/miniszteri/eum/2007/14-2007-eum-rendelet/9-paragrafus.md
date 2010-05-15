@@ -1,13 +1,11 @@
-9. §[^60] (1) A támogatási csoportok képzése a Korm. rendelet 7/C. §-ában foglaltak alapján folyamatosan történik. Az OEP az érvényes referenciaárakat és eszközöket, valamint az adott támogatási csoportban szereplő eszközök érvényes árát és támogatását elektronikus honlapján közzéteszi.
+9. §[^62] (1) Az OEP hivatalból indított fixesítési eljárás során, félévente újraképzi a gyógyászati segédeszközöknek a Korm. rendelet 7/A. §-a és 7/B. §-a szerinti támogatási csoportjait.
 
-(2) A közzétett árakra bármely időpontban, a támogatási csoportban lévő gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője tehet árcsökkentési ajánlatot. Amennyiben az árcsökkentési ajánlat a referenciatermék áránál legalább 5%-kal alacsonyabb árat eredményez, és a termék megfelel a Korm. rendelet 7/C. §-ában foglalt – a referenciatermékké válás feltételeit tartalmazó – rendelkezéseknek, az OEP az adott naptári negyedév utolsó munkanapjával újraképzi az adott támogatási csoportot.
+(2) A fixesítési eljárás a Korm. rendelet 7/A–7/C. §-ában foglaltak figyelembevételével
 
-(3) A (2) bekezdésben foglalt támogatási csoport újraképzésének keretében az OEP az árcsökkentési ajánlat benyújtásától számított öt munkanapon belül értesíti valamennyi, az adott támogatási csoportban lévő eszköz gyártóját vagy annak meghatalmazott képviselőjét, hogy hivatalból eljárást indított. Felhívja az ügyfeleket, hogy amennyiben a megtett árajánlathoz képest árcsökkentéssel kívánnak élni, úgy azt a támogatási csoportképzést (naptári negyedév utolsó munkanapja) megelőző tizenöt munkanapig van lehetőségük nyilvánosan az OEP honlapján megtenni. E határidő elteltével az OEP honlapján meghatározza a referenciaterméket, annak támogatását, a csoportban lévő valamennyi további eszköz árát, és a hozzá nyújtott fix összegű támogatás mértékét.
+a) FFX-csoportok megképzésére vagy újraképzésére vagy
 
-(4) Az OEP a (3) bekezdés szerinti közzététellel egyidejűleg felhívja az adott támogatási csoportban lévő eszköz gyártóját vagy annak meghatalmazott képviselőjét, hogy egy alkalommal a (3) bekezdés szerinti eljárás eredményeként kialakult referenciaár mértékéig terjedően bármilyen árcsökkentési ajánlattal kívánnak élni, azt a (3) bekezdés szerinti közzétételt követő három munkanapon belül tehetik meg azzal, hogy az ajánlat a (3) bekezdés szerinti eljárás során kialakult referencia termék státuszát, valamint a referenciaárat nem befolyásolja. Ezen határidő elteltével az OEP – határozatában – meghatározza a referenciaterméket, annak támogatását, a csoportban lévő valamennyi további eszköz árát, és a hozzá nyújtott fix összegű támogatás mértékét, és ezen adatokat honlapján közzéteszi.
+b) RFX-csoportok megképzésére vagy újraképzésére
 
-(5) Az OEP minden év június 30. napjáig közzéteszi a július 1-jétől érvényes referenciaösszeget és eszközöket, valamint az adott támogatási csoportban szereplő eszközök július 1-jétől érvényes árát és támogatását.
+irányulhat.
 
-(6) Amennyiben a (2) és (3) bekezdésben foglaltak alapján nem történik a támogatási csoportokban változás, a júliusi referenciaösszeg meghatározása az adott naptári év április 1. napjával érvényes árak alapján történik.
-
-[^60]: A 9. § az 56/2008. (XII. 31.) EüM rendelet 8. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^62]: A 9. § a 34/2010. (V. 14.) EüM rendelet 8. §-ával megállapított szöveg.

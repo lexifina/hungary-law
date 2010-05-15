@@ -1,3 +1,3 @@
-1. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^89]
+1. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^114]
 
-[^89]: Az 1. számú melléklet az 56/2008. (XII. 31.) EüM rendelet 15. §-a és 23. § (10) bekezdése szerint módosított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^114]: Az 1. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg.

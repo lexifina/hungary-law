@@ -16,9 +16,9 @@ g) az eszköz által elérhető életminőség javítás mértékét, az eszköz
 
 h) az eszköz gyártására vonatkozó, bármely nemzeti rendszerben akkreditált, elismert tanúsító szervezettől származó ISO 9001 vagy azzal egyenértékű tanúsítványt;
 
-i)[^31]
+i)[^34]
 
-(2)[^32] A gyógyászati segédeszközök befogadásánál az alábbi gazdasági szempontokat kell figyelembe venni:
+(2)[^35] A gyógyászati segédeszközök befogadásánál az alábbi gazdasági szempontokat kell figyelembe venni:
 
 a) az eszköz árát, szavatosságát, kihordási idejét, az EMKI által igazolt tartósságát, élettartamát;
 
@@ -26,13 +26,13 @@ b) az Egészségbiztosítási Alap kiadásaiban az eszköz támogatásával vár
 
 c) azt, hogy csak bizonyított hatásosságú és költséghatékonyságú eszköz fogadható be;
 
-d)[^33] a 8. számú melléklet szerinti, T-jelű, tartós használatra szánt, valamint a 10. számú melléklet szerinti kölcsönzés keretében kiszolgáltatható eszközök esetében az üzemeltetési vagy szolgáltatási költségeket;
+d)[^36] a 8. számú melléklet szerinti, T-jelű, tartós használatra szánt, valamint a 10. számú melléklet szerinti kölcsönzés keretében kiszolgáltatható eszközök esetében az üzemeltetési vagy szolgáltatási költségeket;
 
 e) a 2. § (4) bekezdés kd)–ke) alpontja szerinti nyilatkozatban foglaltakat;
 
 f) ápolási eszköz kölcsönzésbe történő befogadása esetén azt, hogy az adott eszköz kölcsönzési díjához – a maximális (6 hónapos) kölcsönzési időre – számított társadalombiztosítási támogatás ne érje el a referenciaeszköz közfinanszírozás alapjául elfogadott nettó árához számított társadalombiztosítási támogatás 70%-át, referenciaeszköz áránál alacsonyabb árú termék esetén a csoportra jellemző százalékos mértékkel számított támogatás 70%-át.
 
-(3)[^34] A (2) bekezdésben foglaltakon túl az eszköz típusától függően figyelembe kell venni:
+(3)[^37] A (2) bekezdésben foglaltakon túl az eszköz típusától függően figyelembe kell venni:
 
 a) az eszköz alkalmazásával összefüggő mérhető paramétereit,
 
@@ -42,10 +42,10 @@ c) a szolgáltató folyamatos működési rendjét,
 
 d) a tartós használatra szánt, valamint egyedi méretvétel alapján készített, továbbá kölcsönözhető eszköz esetén a szolgáltatás teljességét, különös tekintettel az állapotfelmérésre, a méretvételre, az egyéni adottságok és igények felmérésére, a próbára, a beállításokra és az átadásra.
 
-(4)[^35] A 8. számú melléklet szerinti tartós használatra szánt eszköz árához nyújtott támogatás összege – a külön jogszabály szerinti méltányosság kivételével – a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát nem haladhatja meg. A nem tartós használatra szánt eszköz esetében a hat hónap alatt támogatással rendelhető mennyiségű eszköz árához nyújtott támogatás összege nem haladhatja meg a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát.
+(4)[^38] A 8. számú melléklet szerinti tartós használatra szánt eszköz árához nyújtott támogatás összege – a külön jogszabály szerinti méltányosság kivételével – a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát nem haladhatja meg. A nem tartós használatra szánt eszköz esetében a hat hónap alatt támogatással rendelhető mennyiségű eszköz árához nyújtott támogatás összege nem haladhatja meg a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát.
 
-[^31]: A 4. § (1) bekezdésének i) pontját a 8/2008. (III. 4.) EüM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése.
-[^32]: A 4. § (2) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
-[^33]: A 4. § (2) bekezdésének d) pontja a 25/2009. (VIII. 3.) EüM rendelet 1. §-ával megállapított szöveg.
-[^34]: A 4. § (3) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
-[^35]: A 4. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^34]: A 4. § (1) bekezdésének i) pontját a 8/2008. (III. 4.) EüM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése.
+[^35]: A 4. § (2) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^36]: A 4. § (2) bekezdésének d) pontja a 25/2009. (VIII. 3.) EüM rendelet 1. §-ával megállapított szöveg.
+[^37]: A 4. § (3) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^38]: A 4. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.

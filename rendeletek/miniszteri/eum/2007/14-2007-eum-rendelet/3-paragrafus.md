@@ -1,6 +1,6 @@
 ## 3. § A gyógyászati segédeszközök befogadásának alapelvei:
 
-a)[^30] fogyatékosság-életfunkció-betegség figyelembevétele: az emberi szervezet egészét vagy egy részét érintő működési hiánynak, csökkenésnek, annak mértékének, valamint a gyógyászati segédeszköznek az önálló életvitelre, társadalmi beilleszkedésre gyakorolt hatásának figyelembevétele;
+a)[^33] fogyatékosság-életfunkció-betegség figyelembevétele: az emberi szervezet egészét vagy egy részét érintő működési hiánynak, csökkenésnek, annak mértékének, valamint a gyógyászati segédeszköznek az önálló életvitelre, társadalmi beilleszkedésre gyakorolt hatásának figyelembevétele;
 
 b) méltányosság érvényesítése: törekedni kell, hogy – különös tekintettel a halmozottan hátrányos helyzetű betegcsoportokra – minden fogyatékkal élő biztosított számára legyen támogatással hozzáférhető eszköz;
 
@@ -16,4 +16,4 @@ g) költségvetési keretek figyelembevétele, finanszírozhatóság: figyelembe
 
 h) eredményesség: az eszköz a napi gyakorlatban a használat során a kívánt mértékben javítja a beteg életkörülményeit.
 
-[^30]: A 3. § a) pontja az 56/2008. (XII. 31.) EüM rendelet 3. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^33]: A 3. § a) pontja az 56/2008. (XII. 31.) EüM rendelet 3. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
