@@ -4,4 +4,6 @@
 
 (2) A vizsgadíjkedvezmény iránti kérelmet a KSZK-hoz kell benyújtani a vizsgára történő jelentkezéskor.
 
-(3) A kedvezmény iránti kérelem elutasításával szemben panasszal lehet élni a Miniszterelnöki Hivatalt vezető miniszternél, aki azt 15 napon belül elbírálja.
+(3)[^16] A kedvezmény iránti kérelem elutasításával szemben panasszal lehet élni a miniszternél, aki azt 15 napon belül elbírálja.
+
+[^16]: A 22. § (3) bekezdése a 153/2010. (V. 4.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.

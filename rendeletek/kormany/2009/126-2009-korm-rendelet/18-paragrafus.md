@@ -1,3 +1,5 @@
+## 17. §[^14]
+
 ## A versenyvizsga értékelése, a vizsgabizonyítvány
 
 18. § (1) A versenyvizsga írásbeli és szóbeli vizsgarészét külön kell értékelni. Az írásbeli vizsgarész részvizsgáit külön kell értékelni.
@@ -17,3 +19,5 @@
 (8) Az eredményes versenyvizsgáról a vizsgázó e rendelet 3. számú mellékletében meghatározott formában kiállított bizonyítványt kap, amely átvételére a szóbeli vizsgarészt követően az eredményhirdetéskor kerül sor. A bizonyítványt a vizsgabizottság elnöke és tagjai írják alá és a vizsgaszervező pecsétjével hitelesíti. Az elveszett vagy megsemmisült bizonyítvány pótlására – a vizsganyilvántartó-könyv (4. számú melléklet) alapján – a vizsgaszervező tanúsítványt állít ki. A tanúsítvány kiállításának díja a köztisztviselői illetményalap 20%-a. A tanúsítvány tartalma megegyezik a bizonyítványéval. A tanúsítvány kiállításának díja a vizsgaszervezőt illeti meg.
 
 (9) Az iratok kézbesítésére a hivatalos iratok kézbesítésére vonatkozó szabályok az irányadók.
+
+[^14]: A 17. §-t és az azt megelőző "A vizsgáztatói névjegyzék" alcímet a 153/2010. (V. 4.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
