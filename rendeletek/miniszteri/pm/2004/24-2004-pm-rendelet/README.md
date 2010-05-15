@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-24-20-5
 | 2010-01-01 | 2004-24-20-53.20 | 24/2004. (IV. 23.) PM rendelet |
 | 2010-04-01 | 2004-24-20-53.21 | 10/2010. (III. 31.) PM rendelet |
 | 2010-04-03 | 2004-24-20-53.22 | 10/2010. (III. 31.) PM rendelet |
+| 2010-05-15 | 2004-24-20-53.23 | 2010: CXXII. törvény |

@@ -852,7 +852,7 @@
 
 ## s) Vám- és Pénzügyőri Hivatal Nyíregyháza illetékessége kiterjed – a t) és u) pontokban foglalt kivétellel – Szabolcs-Szatmár-Bereg megye közigazgatási területére,
 
-## t)[^77] Vám- és Pénzügyőri Hivatal Kisvárda illetékessége – vámigazgatási ügyekben Eperjeske, Fényeslitke, Győröcske, Komoró, Mándok, Tiszabezdéd, Tiszaszentmárton, Tornyospálca, Tuzsér, Záhony, Zsurk kivételével – kiterjed az alábbi településekre:
+## t)[^78] Vám- és Pénzügyőri Hivatal Kisvárda illetékessége – vámigazgatási ügyekben Eperjeske, Fényeslitke, Győröcske, Komoró, Mándok, Tiszabezdéd, Tiszaszentmárton, Tornyospálca, Tuzsér, Záhony, Zsurk kivételével – kiterjed az alábbi településekre:
 
 ## Ajak
 
@@ -1316,7 +1316,7 @@
 
 ## Zsira
 
-## II.[^78]
+## II.[^79]
 
 ## A Vám- és Pénzügyőrségnek az Európai Unió külső vámhatárán működő vám- és pénzügyőri hivatalainak illetékessége:
 
@@ -1344,12 +1344,12 @@
 
 ## l) Vám- és Pénzügyőri Hivatal Letenye illetékessége a letenyei határátkelőhely és a murakeresztúri vasúti határátkelőhely területére terjed ki,
 
-## m) 1. számú Repülőtéri Vám- és Pénzügyőri Hivatal illetékessége szabálysértési ügyekben és vámigazgatási ügyekben – az utasok kézi- és feladott poggyászaival összefüggésben indult vámigazgatási és a jövedéki ügyek kivételével – a következő helyekre terjed ki: Ferihegyi Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575) területére, és
+## m) 1. számú Repülőtéri Vám- és Pénzügyőri Hivatal illetékessége szabálysértési ügyekben és vámigazgatási ügyekben – az utasok kézi- és feladott poggyászaival összefüggésben indult vámigazgatási és a jövedéki ügyek kivételével – a következő helyekre terjed ki: Ferihegyi Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575.) területére, és
 
 ## n) 2. számú Repülőtéri Vám- és Pénzügyőri Hivatal illetékessége a szabálysértési ügyek, a VPKr. 16. § (1) bekezdése alapján hatáskörébe tartozó jövedéki ügyek és az utasok kézi- és feladott poggyászaival összefüggésben indult vámigazgatási ügyek tekintetében, továbbá a VPKr. 15. § (1) bekezdés m) pontja alapján hatáskörébe tartozó környezetvédelmi termékdíj hatósági ügyek vonatkozásában a következő helyekre terjed ki: Ferihegyi Nemzetközi Repülőtér, Budapesti Nemzetközi Hajókikötő és légi forgalom tekintetében Pest megye közigazgatási területére.
 
-2. számú melléklet a 24/2004. (IV. 23.) PM rendelethez[^79]
+2. számú melléklet a 24/2004. (IV. 23.) PM rendelethez[^80]
 
-[^77]: Az 1. számú melléklet I. pont t) alpontja a 10/2010. (III. 31.) PM rendelet 2. §-a szerint módosított szöveg.
-[^78]: Az 1. számú melléklet II. pontja a 10/2010. (III. 31.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^79]: A 2. számú melléklet a 48/2005. (XII. 27.) PM rendelet 7. § (2) bekezdése, a 6/2008. (III. 28.) PM rendelet 1. § (3) bekezdése, a 44/2008. (XII. 31.) PM rendelet 17. § (2) bekezdése, 28. § (17) bekezdése és 44. § (3) bekezdése, a 28/2009. (XI. 30.) PM rendelet 13. § (2) bekezdése, a 45/2009. (XII. 30.) PM rendelet 5. § (2) bekezdése, a 10/2010. (III. 31.) PM rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^78]: Az 1. számú melléklet I. pont t) alpontja a 10/2010. (III. 31.) PM rendelet 2. §-a, a 20/2010. (V. 12.) PM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^79]: Az 1. számú melléklet II. pontja a 20/2010. (V. 12.) PM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^80]: A 2. számú melléklet a 48/2005. (XII. 27.) PM rendelet 7. § (2) bekezdése, a 6/2008. (III. 28.) PM rendelet 1. § (3) bekezdése, a 44/2008. (XII. 31.) PM rendelet 17. § (2) bekezdése, 28. § (17) bekezdése és 44. § (3) bekezdése, a 28/2009. (XI. 30.) PM rendelet 13. § (2) bekezdése, a 45/2009. (XII. 30.) PM rendelet 5. § (2) bekezdése, a 10/2010. (III. 31.) PM rendelet 1. § (4) bekezdése, a 20/2010. (V. 12.) PM rendelet 3. § (3) bekezdése szerint módosított szöveg.
