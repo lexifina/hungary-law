@@ -56,6 +56,6 @@
 
 | .......................................... aláírás | P. H. .............................................. pénzügyőr aláírása |
 
-5. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^150]
+5. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^151]
 
-[^150]: Az 5. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^151]: Az 5. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (1) bekezdésével megállapított szöveg.

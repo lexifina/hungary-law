@@ -52,7 +52,7 @@
 
 ## 1. A Módosító lap vagy azzal egyező adattartalmú és formátumú bizonylat a címzett vagy a vámkezelést kérő által – fénymásolás útján, nyomdailag vagy más módon szabadon – előállított adatlap.
 
-## 2.[^165] A Módosító lapot egy példányban kiállítva kell csatolni az alapvámkezelést végző (anya)vámhivatalnál benyújtott kérelmekhez azokban az esetekben, amikor a kérelem olyan EV-vel vagy határozattal kapcsolatos utólagos intézkedésre vonatkozik, amelynek az 1. Bejelentés rovatában IM, EU, CO vagy A kód került alkalmazásra. Utólagos intézkedésnek minősül e szemponttól:
+## 2.[^166] A Módosító lapot egy példányban kiállítva kell csatolni az alapvámkezelést végző (anya)vámhivatalnál benyújtott kérelmekhez azokban az esetekben, amikor a kérelem olyan EV-vel vagy határozattal kapcsolatos utólagos intézkedésre vonatkozik, amelynek az 1. Bejelentés rovatában IM, EU, CO vagy A kód került alkalmazásra. Utólagos intézkedésnek minősül e szemponttól:
 
 ## – a határozat kijavítása, kiegészítése,
 
@@ -80,7 +80,7 @@
 
 ## 10. A Módosító lap az írásbeli kérelem melléklete, azon a vámhivatal javítást nem végez, a kérelemtől eltérő döntését határozatában indokolja.
 
-12. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^166]
+12. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^167]
 
 Értékhatárok nemzeti valutában kifejezett összege
 
@@ -128,5 +128,5 @@
 
 | Török líra Új török líra | 11 209 710 000 11 209,71 | 2 241 940 000 2 241,94 | 934 140 000 934,14 |
 
-[^165]: A 11. számú melléklet "Kitöltési szabályzat a Módosító lap alkalmazásához (behozatali irányú vámkezelés esetén)" 2. pontja az 51/2005. (XII. 28.) PM rendelet 9. § (5) bekezdésével megállapított szöveg.
-[^166]: A 12. számú mellékletet a 45/2004. (XII. 29.) PM rendelet 4. §-nak (3) bekezdése iktatta be, a módosító rendelet szövege a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.
+[^166]: A 11. számú melléklet "Kitöltési szabályzat a Módosító lap alkalmazásához (behozatali irányú vámkezelés esetén)" 2. pontja az 51/2005. (XII. 28.) PM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^167]: A 12. számú mellékletet a 45/2004. (XII. 29.) PM rendelet 4. §-nak (3) bekezdése iktatta be, a módosító rendelet szövege a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.

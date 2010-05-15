@@ -16,7 +16,7 @@
 
 ## 3. Vámkontingens kérelmek benyújtása, elfogadása
 
-## 3.1.[^154] Normál eljárás
+## 3.1.[^155] Normál eljárás
 
 ## A Közösségi rendelkezés által megnyitott és az ún. automatikus vámkontingens kiosztási rendszerben kiosztásra kerülő vámkontingensekre vonatkozó kérelmet a vámkezelést kérő normál eljárásban a szabad forgalom számára történő vámkezelés céljából benyújtásra kerülő EV megfelelő módon történő kitöltésével nyújthat be, melyen kívül külön vámkontingens iránti kérelmet benyújtani nem kell.
 
@@ -38,7 +38,7 @@
 
 ## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített bejelentést engedélyeztek, a vámkontingens kérelem (megfelelő módon kitöltött hiányos adattartalmú EV okmány) akkor számít benyújtottnak, ha valamennyi a vámkontingens alkalmazásához szükséges okmány rendelkezésre áll. Ezzel az előfeltétellel megengedett az EV-n hiányos árunyilatkozattal tett vámkezelési kérelem útján történő vámkontingens kérelmezés.
 
-## 3.2.2.[^155] Egyszerűsített bejelentés egyszerűsített eljárással (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
+## 3.2.2.[^156] Egyszerűsített bejelentés egyszerűsített eljárással (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
 
 ## Ha a vámkódex 76. cikk (1) bekezdés b) pontja szerinti egyszerűsített bejelentést engedélyeztek, a vámkontingens kérelem akkor számít benyújtottnak, ha
 
@@ -62,7 +62,7 @@
 
 ## A kérelem azonban csak akkor számít szabályszerűen benyújtottnak, ha rendelkezésre állnak a szükséges okmányok és az áru fizikailag a megengedett helyen található.
 
-## 4.[^156] Vámkontingens kérelmek továbbítása, a kérelmekre kapott válaszok fogadása
+## 4.[^157] Vámkontingens kérelmek továbbítása, a kérelmekre kapott válaszok fogadása
 
 ## A Vám- és pénzügyőri hivatal a hozzá benyújtott és általa elfogadott vámkontingens kérelmeket megküldi a Nemzeti Kontingenskezelő Központba, mely azokat – ellenőrzést követően – a vámkontingensek kiosztását végző szervhez Brüsszelbe továbbítja. A kontingenskérelmekre adott válaszok közlését követően a Nemzeti Kontingenskezelő Központ értesíti a további intézkedések megtételére jogosult vámszervet.
 
@@ -76,7 +76,7 @@
 
 ## Azon vámkezelések esetében, ahol a kontingenskérelem a vámkezelés elvégzését követően kerül benyújtásra, a vámkezelési kérelem módosításának elfogadási dátuma alapján kerül a kérelem – kiosztási eljárás céljából – Brüsszelben besorolásra.
 
-## 7.[^157] Visszamenőleges hatállyal megnyitott vámkontingensek
+## 7.[^158] Visszamenőleges hatállyal megnyitott vámkontingensek
 
 ## Amennyiben egy közösségi szabályozás által visszamenőleges hatállyal kerül megnyitásra egy vámkontingens, úgy a vámkontingens igénybevételére lehetőség van mindazon áruk esetében, melynek szabad forgalom számára történő vámkezelése a vonatkozó vámkontingens érvényességének kezdő időpontját követően került elvégzésre. A vámkontingens megnyitását visszamenőleges hatállyal elrendelő jogszabály közzétételét követően van lehetőség áru szabad forgalom számára történő vámkezelését végző vám- és pénzügyőri hivatalnál a kérdéses vámkontingens igénylésére.
 
@@ -96,11 +96,11 @@
 
 ## A vámplafont létrehozó közösségi jogszabályban meghatározott kedvezményes plafon vámtétel csak akkor alkalmazható, ha a vámkezelést kérő a kedvezményt kérelmezi, és valamennyi, a vámplafon alkalmazásához szükséges okmány rendelkezésre áll.
 
-## 8.2.1.[^158] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
+## 8.2.1.[^159] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
 
 ## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített árunyilatkozatot a vám- és pénzügyőri hivatal elfogadta, a közösségi rendelkezés által megnyitott vámplafonokra vonatkozó kérelem (megfelelő módon kitöltött hiányos adattartalmú EV okmány) akkor fogadható el, ha valamennyi, a vámplafon alkalmazásához szükséges okmány rendelkezésre áll.
 
-## 8.2.2.[^159] Egyszerűsített bejelentéssel (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
+## 8.2.2.[^160] Egyszerűsített bejelentéssel (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
 
 ## Ha a vámkódex 76. cikk (1) bekezdés b) pontja szerinti egyszerűsített bejelentést engedélyeztek, a vámplafon kérelem akkor számít benyújtottnak, ha
 
@@ -140,7 +140,7 @@
 
 ## 9.2.2. Egyszerűsített eljárás
 
-## 9.2.2.1.[^160] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
+## 9.2.2.1.[^161] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
 
 ## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített árunyilatkozatot a vám- és pénzügyőri hivatal elfogadta, a megfigyelés alá eső termékek szabad forgalom számára történő vámkezelése céljából benyújtott hiányos adattartalmú EV okmány 44. rovatában kell az importált áru megfigyelési rendelésszámát feltüntetni, illetve az EV okmánynak tartalmaznia kell az érintett áru nettó tömegére vonatkozó adatot a megfigyelést elrendelő közösségi jogszabályban meghatározott mennyiségi egységben.
 
@@ -152,7 +152,7 @@
 
 ## Ha a vámkódex 76. cikk (1) bekezdés b) pontja szerinti egyszerűsített eljárást engedélyeztek, a megfigyelés alá eső termékek szabad forgalom számára történő vámkezelése céljából benyújtott kiegészítő árunyilatkozat 44. rovatában kell az importált áru megfigyelési rendelésszámát feltüntetni, illetve az EV okmánynak tartalmaznia kell az érintett áru nettó tömegére vonatkozó adatot a megfigyelést elrendelő közösségi jogszabályban meghatározott mennyiségi egységben.
 
-## 1. számú minta[^161]
+## 1. számú minta[^162]
 
 | Vámkontingenst/vámplafont kérelmező adatai: |
 
@@ -198,7 +198,7 @@
 
 |  | cégszerű aláírás |
 
-## 2. számú minta[^162]
+## 2. számú minta[^163]
 
 |  | Vám- és Pénzügyőrség Közép-Magyarországi Regionális Parancsnoksága Nemzeti Kontingenskezelő Központ | Vámkontingenst kérelmező adatai: VP ID: Név: Levelezési cím, telefon: Telefax: |
 
@@ -234,15 +234,15 @@
 
 |  | cégszerű aláírás |
 
-10. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^163]
+10. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^164]
 
-[^154]: A 9. számú melléklet 3.1. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
-[^155]: A 9. számú melléklet 3.2.2. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
-[^156]: A 9. számú melléklet 4. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja, a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése, továbbá 37. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^157]: A 9. számú melléklet 7. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
-[^158]: A 9. számú melléklet 8.2.1. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
-[^159]: A 9. számú melléklet 8.2.2. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
-[^160]: A 9. számú melléklet 9.2.2.1. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
-[^161]: A 9. számú melléklet 1. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^162]: A 9. számú melléklet 2. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^163]: A 10. számú melléklet a 48/2007. (XII. 29.) PM rendelet 11. § (4) bekezdésével megállapított és a 44/2008. (XII. 31.) PM rendelet 27. § (17) bekezdése szerint módosított szöveg.
+[^155]: A 9. számú melléklet 3.1. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
+[^156]: A 9. számú melléklet 3.2.2. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
+[^157]: A 9. számú melléklet 4. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja, a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése, továbbá 37. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^158]: A 9. számú melléklet 7. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
+[^159]: A 9. számú melléklet 8.2.1. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
+[^160]: A 9. számú melléklet 8.2.2. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
+[^161]: A 9. számú melléklet 9.2.2.1. pontja a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés e) pontja szerint módosított szöveg.
+[^162]: A 9. számú melléklet 1. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^163]: A 9. számú melléklet 2. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^164]: A 10. számú melléklet a 48/2007. (XII. 29.) PM rendelet 11. § (4) bekezdésével megállapított és a 44/2008. (XII. 31.) PM rendelet 27. § (17) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-11. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^164]
+11. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^165]
 
-[^164]: A 11. számú mellékletet a 37/2004. (VIII. 11.) PM rendelet 12. § (1) bekezdése iktatta be.
+[^165]: A 11. számú mellékletet a 37/2004. (VIII. 11.) PM rendelet 12. § (1) bekezdése iktatta be.

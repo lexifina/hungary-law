@@ -26,6 +26,6 @@
 
 ## A kezes példánya
 
-2. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^147]
+2. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^148]
 
-[^147]: A 2. számú melléklet a 48/2007. (XII. 29.) PM rendelet 11. § (2) bekezdésével megállapított és a 44/2008. (XII. 31.) PM rendelet 27. § (16) bekezdése, a 45/2009. (XII. 30.) PM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^148]: A 2. számú melléklet a 20/2010. (V. 12.) PM rendelet 2. § (1) bekezdésével megállapított szöveg.

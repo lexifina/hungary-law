@@ -1,4 +1,4 @@
-## Korrekciós Bizonylat
+## Folyószámla feletti rendelkezés Bizonylat
 
 ## (folyószámla műveletek lebonyolításához)
 
@@ -6,7 +6,7 @@
 
 ## Adóazonosító szám:
 
-## Hivatkozási szám: Lapszám:
+## Hivatkozási szám:   Lapszám: ..............................
 
 | Sor- szám | Módosítás típusa | Eredeti és mód. adat | Határozat, bevallás száma | Számla szám | Dátum | Összeg | Jelleg |
 
@@ -50,35 +50,37 @@
 
 |  |  | Módosított |  |  |  |  |  |
 
-## Kiállító cégszerű aláírása
+| Kiállító cégszerű aláírása | Hatóság hivatalos feljegyzései! |  |
 
-|  | Hatóság hivatalos feljegyzései! Iktatószám: Kelte: |
+| ...................................................... |  |  |
 
-| Kiállítás kelte: |
+| Kiállítás kelte: | Iktatószám:.................................... | Kelte: .................................................... |
 
-| Lekönyvelte | Ellenőrizte |
+| ..................................................... | ....................................................... | ................................................................ |
+
+|  | Lekönyvelte | Ellenőrizte |
 
 ## Kitöltési útmutató
 
-## A korrekciós bizonylatot akkor szükséges kitölteni, ha a folyószámlán lekönyvelt adatok és a rendelkezésére álló bizonylatok alapján megállapított adatok eltérnek egymástól.
+## A Folyószámla Feletti Rendelkezés Bizonylatot akkor szükséges kitölteni, ha a folyószámlán lekönyvelt adatok és a rendelkezésére álló bizonylatok alapján megállapított adatok eltérnek egymástól.
 
-| Eredeti adat: | a folyószámlán szereplő adatok |  |
+## Eredeti adat: a folyószámlán szereplő adatok
 
-| Módosított adat: | az eredeti adat hogyan szerepeljen |  |
+## Módosított adat: az eredeti adat hogyan szerepeljen
 
-| Módosítás típusai: | előírás módosítása | EM |
+## Módosítás típusai: előírás módosítása EM
 
-|  | előírás törlése | ET |
+## előírás törlése ET
 
-|  | új felvitel | U |
+## új felvitel U
 
-|  | jóváírás pótlása | EJ |
+## jóváírás pótlása EJ
 
-|  | banki adat módosítása | BM |
+## banki adat módosítása BM
 
-|  | visszautalás pótlása | BV |
+## visszautalás pótlása BV
 
-|  | számlák között átvezetés | BÁ |
+## számlák között átvezetés BÁ
 
 ## Számlaszámok
 
@@ -102,7 +104,7 @@
 
 | 10 | VPOP uniós vámbevételek lebonyolítási számla | 10032000-01820203 |
 
-| 1 | VPOP külföldi gépjármű adó bevételi számla | 10032000-01037234 |
+| 11 | VPOP külföldi gépjármű adó bevételi számla | 10032000-01037234 |
 
 | 12 | VPOP vámletét bevételi számla | 10032000-01501418 |
 
@@ -122,25 +124,27 @@
 
 | 20 | VPOP környezetvédelmi termékdíj adóbevételi számla | 10032000-01037454 |
 
-| 21 | VPOP környezetvédelmi termékdíj bírság, kamat és pótlék bevételi számla | 10032000-01037447 |
+| 21 | VPOP késedelmi pótlék bevételi számla | 10032000-01037447 |
+
+| 22 | VPOP értékesítési bevétel bevételi számla | 10032000-01036714 |
 
 | 41 | VPOP üzemanyagok jövedéki adója bevételi számla | 10032000-01037306 |
 
 | 42 | VPOP egyéb termékek jövedéki adója bevételi számla | 10032000-01037313 |
 
-| 43 | VPOP bírság, kamat és késedelmi pótlék bevételi számla | 10032000-01037337 |
+| 43 | VPOP bírság, kamat és önellenőrzési pótlék bevételi számla | 10032000-01037337 |
 
 | 44 | VPOP bérfőzési szeszadó bevételi számla | 10032000-01037320 |
 
 | 45 | VPOP jövedéki letétek elszámolási számla | 10032000-01501401 |
 
-| 46 | VPOP dohánygyártmány jövedéki adó bevételi számla | 10032000-01037344 |
+| 46 | VPOP dohánygyártmány jövedéki adóbevételi számla | 10032000-01037344 |
 
 | 47 | VPOP dohánygyártmány áfa bevételi számla | 10032000-01037351 |
 
 | 48 | VPOP jövedéki bírság bevételi számla | 10032000-01037265 |
 
-| 49 | VPOP szőlőbor jövedéki adó bevételi számla | 10032000-01037368 |
+| 49 | VPOP szőlőbor jövedéki adóbevételi számla | 10032000-01037368 |
 
 | 50 | VPOP energiaadó bevételi számla | 10032000-01037375 |
 
@@ -148,17 +152,21 @@
 
 | 52 | VPOP csempészett, hamisított PMI cigaretták átmeneti számla | 10032000-01501432 |
 
+| 53 | VPOP fémkereskedelmi bírság bevételi számla | 10032000-01037461 |
+
+| 54 | VPOP fémkereskedelmi letétek elszámolási számla | 10032000-01501449 |
+
 | 99 | VPOP vám- és adóbírság, kamat bevételi számla | 10032000-01037241 |
 
-| Dátum: | eredeti adat: | ami a folyószámlán található |
+| Dátum: | eredeti adat: | ami a folyószámlán található ami okmányokkal igazolt helyes adat |
 
-|  | módosított adat: | ami okmányokkal igazolt helyes adat |
+|  | módosított adat: |  |
 
 | Jelleg: | fizetési kötelezettség | pénzforgalom |
 
-|  | előírás: | T | befizetés: | K |
+|  | előírás: T | befizetés: K |
 
-|  | jóváírás: | K | visszautalás: | T |
+|  | jóváírás: K | visszautalás: T” |
 
 ## A módosítás típusainak értelmezése
 
@@ -178,10 +186,10 @@
 
 ## A folyószámlák összevezetését (jogelőd, jogutód vonatkozásában) külön kérelemmel kell kezdeményezni.
 
-## A korrekciós bizonylathoz minden esetben csatolni kell a vonatkozó mellékleteket (pl. banki bizonylatok, határozatok).
+## A Folyószámla Feletti Rendelkezés Bizonylathoz minden esetben csatolni kell a vonatkozó mellékleteket (pl. banki bizonylatok, határozatok).
 
-## A korrekciós bizonylatot 2 példányban kell kitölteni, amelynek egyik példányát a vámhatóság leigazolja, majd visszaküldi a kérelmezőnek.
+## A Folyószámla Feletti Rendelkezés Bizonylatot 1 példányban kell kitölteni.
 
-4. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^149]
+4. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^150]
 
-[^149]: A 4. számú melléklet a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés c) pontja, a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^150]: A 4. számú melléklet a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés c) pontja, a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

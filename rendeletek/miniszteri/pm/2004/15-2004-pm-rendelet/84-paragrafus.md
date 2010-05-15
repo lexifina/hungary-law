@@ -1,6 +1,6 @@
 ## 83. § Azok az ügyfelek, akik 2004. május 1-je előtt kerültek felvételre a Vám- és Pénzügyőrség nyilvántartásába, és ezt az időpontot követően a Vtv. 17. §-ának (1) bekezdése alapján nem regisztráltatják magukat 2004. május 1-jéig, azok a vámtörvény 157. §-ának (2) és (4) bekezdésében meghatározott adataikban bekövetkezett változásokat a változást követő 15 napon belül a számlavezető vámszervnél kötelesek e rendelet hatálybalépésétől számított, a vámtörvényben meghatározott elévülési időn belül írásban bejelenteni.
 
-84. §[^141] (1)–(2)[^142]
+84. §[^142] (1)–(2)[^143]
 
 (3) A Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásának napja előtt benyújtott egyszerűsített vámárunyilatkozathoz – ide értve a helyi vámkezelés esetén a nyilvántartásba történő bejegyzést is – a csatlakozás napját követően benyújtott kiegészítő árunyilatkozat alapján keletkezett jogviszonyokra is a Vtv. 75. §-a (1) bekezdésének b) pontjában foglaltakat kell alkalmazni.
 
@@ -10,5 +10,5 @@
 
 (6) Abban az eseten, ha az áru a vámtörvény 1. §-a 16. pontjának e) alpontja szerint vámárunak minősül és a vámfelügyelet megszüntetését a vámtörvény a kiviteli okmány bemutatásához köti, a kiviteli okmány helyett az Európai Unió tagállamaiba történő kiszállítás igazolásaként a másik tagállamban lévő, az áru címzettjének az áru átvételét igazoló okiratát kell elfogadni. A vámtörvényben előírt elszámoláshoz az áru címzettjének az áru átvételét igazoló okirat mellett a kumulációs vámteher megfizetéséről szóló igazolást is be kell csatolni.
 
-[^141]: A 84. § e rendelet 81. §-ának (2) bekezdése alapján 2004. április 5. napján lép hatályba.
-[^142]: A 84. § (1)–(2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 94. pontja hatályon kívül helyezte.
+[^142]: A 84. § e rendelet 81. §-ának (2) bekezdése alapján 2004. április 5. napján lép hatályba.
+[^143]: A 84. § (1)–(2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 94. pontja hatályon kívül helyezte.
