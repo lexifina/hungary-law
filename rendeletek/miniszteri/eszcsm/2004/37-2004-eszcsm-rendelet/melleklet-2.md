@@ -1,322 +1,457 @@
-## Étrend-kiegészítők gyártásához felhasználható vitaminok és ásványi anyagok
-
-| 1. Vitaminok | 2. Ásványi anyagok |
-
-| A-vitamin (RE μg) | Kalcium (mg) |
-
-| D-vitamin (μg) | Magnézium (mg) |
-
-| E-vitamin (α-TE mg) | Vas (mg) |
-
-| K-vitamin (μg) | Réz (μg) |
-
-| B1-vitamin (mg) | Jód (μg) |
-
-| B2-vitamin (mg) | Cink (mg) |
-
-| Niacin (NE mg) | Mangán (mg) |
-
-| Pantoténsav (mg) | Nátrium (mg) |
-
-| B6-vitamin (mg) | Kálium (mg) |
-
-| Folsav (μg) | Szelén (μg) |
-
-| B12-vitamin (μg ) | Króm (μg) |
-
-| Biotin (μg) | Molibdén (μg) |
-
-| C-vitamin (mg) | Fluorid (mg) |
-
-| Klorid (mg) |
-
-| Foszfor (mg) |
-
-2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez
+2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^17]
 
 ## Étrend-kiegészítők gyártásához felhasználható vitamin és ásványi anyag vegyületek
 
-A) Vitaminok
+1. Vitaminok
 
-1. A-vitamin
+1.1. A-vitamin
 
-retinol
+1.1.1. retinol
 
-retinil-acetát
+1.1.2. retinil-acetát
 
-retinil-palmitát
+1.1.3. retinil-palmitát
 
-béta-karotin
+1.1.4. béta-karotin
 
-2. D-vitamin
+1.2. D-vitamin
 
-kolekalciferol
+1.2.1. kolekalciferol
 
-ergokalciferol
+1.2.2. ergokalciferol
 
-3. E-vitamin
+1.3. E-vitamin
 
-D-alfa-tokoferol
+1.3.1. D-alfa-tokoferol
 
-DL-alfa-tokoferol
+1.3.2. DL-alfa-tokoferol
 
-D-alfa-tokoferil-acetát
+1.3.3. D-alfa-tokoferil-acetát
 
-DL-alfa-tokoferil-acetát
+1.3.4. DL-alfa-tokoferil-acetát
 
-D-alfa-tokoferil-hidroszukcinát
+1.3.5. D-alfa-tokoferilsav-szukcinát
 
-4. K-vitamin
+1.3.6. vegyes tokoferolok (1)
 
-fillokinon (fitomenadion)
+1.3.7. tokotrienol-tokoferol (2)
 
-5. B1-vitamin
+1.4. K-vitamin
 
-tiamin-hidroklorid
+1.4.1. fillokinon (fitomenadion)
 
-tiamin-mononitrát
+1.4.2. menakinon (3)
 
-6. B2-vitamin
+1.5. B1-vitamin
 
-riboflavin
+1.5.1. tiamin-hidroklorid
 
-riboflavin-5'-foszfát nátriumsója
+1.5.2. tiamin-mononitrát
 
-7. Niacin
+1.5.3. tiamin-monofoszfát-klorid
 
-nikotinsav
+1.5.4. tiamin-pirofoszfát-klorid
 
-nikotinsavamid
+1.6. B2-vitamin
 
-8. Pantoténsav
+1.6.1. riboflavin
 
-kalcium-D-pantotenát
+1.6.2. riboflavin–5’-foszfát nátriumsója
 
-nátrium-D-pantotenát
+1.7. Niacin
 
-dexpantenol
+1.7.1. nikotinsav
 
-9. B6-vitamin
+1.7.2. nikotinamid
 
-piridoxin-hidroklorid
+1.7.3. inozit-hexanikotinát (inozit-hexaniacinát)
 
-piridoxin-5'-foszfát
+1.8. Pantoténsav
 
-10.[^14] Folát
+1.8.1. kalcium-D-pantotenát
 
-pteroilmonoglutaminsav
+1.8.2. nátrium-D-pantotenát
 
-kálcium-L-metil-folát
+1.8.3. dexpantenol
 
-11. B12-vitamin
+1.8.4. pantetin
 
-cianokobalamin
+1.9. B6-vitamin
 
-12. Biotin
+1.9.1. piridoxin-hidroklorid
 
-D-biotin
+1.9.2. piridoxin–5’-foszfát
 
-13. C-vitamin
+1.9.3. piridoxál–5’-foszfát
 
-L-aszkorbinsav
+1.10. Folát
 
-nátrium-L-aszkorbát
+1.10.1. pteroilmonoglutaminsav
 
-kalcium-L-aszkorbát
+1.10.2. kalcium-L-metil-folát
 
-kálium-L-aszkorbát
+1.11. B12-vitamin
 
-L-aszkorbil-6-palmitát
+1.11.1. cianokobalamin
 
-B) Ásványi anyagok[^15]
+1.11.2. hidroxokobalamin
 
-Kalcium
+1.11.3. 5’-deoxiadenozilkobalamin
 
-kalcium-karbonát
+1.11.4. metilkobalamin
 
-kalcium-klorid
+1.12. Biotin
 
-kalcium citromsavval alkotott sói
+1.12.1. D-biotin
 
-kalcium-glükonát
+1.13. C-vitamin
 
-kalcium-glicerofoszfát
+1.13.1. L-aszkorbinsav
 
-kalcium-laktát
+1.13.2. nátrium-L-aszkorbát
 
-kalcium ortofoszforsavval alkotott sói
+1.13.3. kalcium-L-aszkorbát (4)
 
-kalcium-hidroxid
+1.13.4. kálium-L-aszkorbát
 
-kalcium-oxid
+1.13.5. L-aszkorbil–6-palmitát
 
-Magnézium
+1.13.6. magnézium-L-aszkorbát
 
-magnézium-acetát
+1.13.7. cink-L-aszkorbát
 
-magnézium-karbonát
+2. Ásványi anyagok
 
-magnézium-klorid
+2.1. Kalcium
 
-magnézium citromsavval alkotott sói
+2.1.1. kalcium-acetát
 
-magnézium-glükonát
+2.1.2. kalcium-L-aszkorbát
 
-magnézium-glicerofoszfát
+2.1.3. kalcium-biszglicinát
 
-magnézium-laktát
+2.1.4. kalcium-karbonát
 
-magnézium ortofoszforsavval alkotott sói
+2.1.5. kalcium-klorid
 
-magnézium-hidroxid
+2.1.6. kalcium-citrát-malát
 
-magnézium-oxid
+2.1.7. kalcium citromsavval alkotott sói
 
-magnézium-szulfát
+2.1.8. kalcium-glükonát
 
-Vas
+2.1.9. kalcium-glicerofoszfát
 
-vas(II)-karbonát (ferro-karbonát)
+2.1.10. kalcium-laktát
 
-vas(II)-citrát (ferro-citrát)
+2.1.11. kalcium-piruvát
 
-vas(III)-ammonium-citrát (ferri-ammonium-citrát)
+2.1.12. kalcium ortofoszforsavval alkotott sói
 
-vas(II)-glükonát (ferro-glükonát)
+2.1.13. kalcium-szukcinát
 
-vas(II)-fumarát (ferro-fumarát)
+2.1.14. kalcium-hidroxid
 
-vas(III)-nátrium-difoszfát (ferri-nátrium-difoszfát)
+2.1.15. kalcium-L-lizinát
 
-vas(II)-laktát (ferro-laktát)
+2.1.16. kalcium-malát
 
-vas(II)-szulfát (ferro-szulfát)
+2.1.17. kalcium-oxid
 
-vas(III)-difoszfát [vas(III)-pirofoszfát, ferri- difoszfát]
+2.1.18. kalcium-L-pidolát
 
-vas(III)-szaharát (ferri-szaharát)
+2.1.19. kalcium-L-treonát
 
-elemi vas (karbonil, elektrolitikus, hidrogénnel redukált)
+2.1.20. kalcium-szulfát
 
-vas-biszglicinát
+2.2. Magnézium
 
-Réz
+2.2.1. magnézium-acetát
 
-réz(II)-karbonát (kupri-karbonát)
+2.2.2. magnézium-L-aszkorbát
 
-réz(II)-citrát (kupri-citrát)
+2.2.3. magnézium-biszglicinát
 
-réz(II)-glükonát (kupri-glükonát)
+2.2.4. magnézium-karbonát
 
-réz(II)-szulfát (kupri-szulfát)
+2.2.5. magnézium-klorid
 
-réz-lizin komplex
+2.2.6. magnézium citromsavval alkotott sói
 
-Jód
+2.2.7. magnézium-glükonát
 
-nátrium-jodid
+2.2.8. magnézium-glicerofoszfát
 
-nátrium-jodát
+2.2.9. magnézium ortofoszforsavval alkotott sói
 
-kálium-jodid
+2.2.10. magnézium-laktát
 
-kálium-jodát
+2.2.11. magnézium-L-lizinát
 
-Cink
+2.2.12. magnézium-hidroxid
 
-cink-acetát
+2.2.13. magnézium-malát
 
-cink-klorid
+2.2.14. magnézium-oxid
 
-cink-citrát
+2.2.15. magnézium-L-pidolát
 
-cink-glükonát
+2.2.16. magnézium-kálium-citrát
 
-cink-laktát
+2.2.17. magnézium-piruvát
 
-cink-oxid
+2.2.18. magnézium-szukcinát
 
-cink-karbonát
+2.2.19. magnézium-szulfát
 
-cink-szulfát
+2.2.20. magnézium-taurát
 
-Mangán
+2.2.21. magnézium-acetil-taurát
 
-mangán-karbonát
+2.3. Vas
 
-mangán-klorid
+2.3.1. vas(II)-karbonát (ferro-karbonát)
 
-mangán-citrát
+2.3.2. vas(II)-citrát (ferro-citrát)
 
-mangán-glükonát
+2.3.3. vas(III)-ammónium-citrát (ferri-ammónium-citrát)
 
-mangán-glicerofoszfát
+2.3.4. vas(II)-glükonát (ferro-glükonát)
 
-mangán-szulfát
+2.3.5. vas(II)-fumarát (ferro-fumarát)
 
-Nátrium
+2.3.6. vas(III)-nátrium-difoszfát (ferri-nátrium-difoszfát)
 
-nátrium-bikarbonát (hidrogén-karbonát)
+2.3.7. vas(II)-laktát (ferro-laktát)
 
-nátrium-karbonát
+2.3.8. vas(II)-szulfát (ferro-szulfát)
 
-nátrium-klorid
+2.3.9. vas(III)-difoszfát [vas(III)-pirofoszfát, ferri-difoszfát]
 
-nátrium-citrát
+2.3.10. vas(III)-szaharát (ferri-szaharát)
 
-nátrium-glükonát
+2.3.11. elemi vas (karbonil, elektrolitikus, hidrogénnel redukált)
 
-nátrium-laktát
+2.3.12. vas(II)-biszglicinát (ferro-biszglicinát)
 
-nátrium-hidroxid
+2.3.13. vas (II)-L-pidolát (ferro-L-pidolát)
 
-nátrium ortofoszforsavval alkotott sói
+2.3.14. vas(II)-foszfát (ferro-foszfát)
 
-Kálium
+2.3.15. vas(II)-taurát (ferro-taurát)
 
-kálium-bikarbonát (hidrogén-karbonát)
+2.4. Réz
 
-kálium-karbonát
+2.4.1. réz(II)-karbonát (kupri-karbonát)
 
-kálium-klorid
+2.4.2. réz(II)-citrát (kupri-citrát)
 
-kálium-citrát
+2.4.3. réz(II)-glükonát (kupri-glükonát)
 
-kálium-glükonát
+2.4.4. réz(II)-szulfát (kupri-szulfát)
 
-kálium-glicerofoszfát
+2.4.5. réz-L-aszpartát
 
-kálium-laktát
+2.4.6. réz-biszglicinát
 
-kálium-hidroxid
+2.4.7. réz-lizin komplex
 
-kálium ortofoszforsavval alkotott sói
+2.4.8. réz(II)-oxid
 
-Szelén
+2.5. Jód
 
-nátrium-szelenát
+2.5.1. nátrium-jodid
 
-nátrium-hidrogén-szelenit
+2.5.2. nátrium-jodát
 
-nátrium-szelenit
+2.5.3. kálium-jodid
 
-Króm (III)
+2.5.4. kálium-jodát
 
-króm-klorid
+2.6. Cink
 
-króm-szulfát
+2.6.1. cink-acetát
 
-Molibdén
+2.6.2. cink-L-aszkorbát
 
-ammónium-molibdát
+2.6.3. cink-L-aszpartát
 
-nátrium-molibdát
+2.6.4. cink-biszglicinát
 
-Fluor
+2.6.5. cink-klorid
 
-kálium-fluorid
+2.6.6. cink-citrát
 
-nátrium-fluorid
+2.6.7. cink-glükonát
 
-[^14]: A 2. számú melléklet A) részének 10. pontja a 29/2007. (VI. 18.) EüM rendelet 2. §-ával megállapított szöveg.
-[^15]: A 2. számú melléklet B) része a 86/2004. (X. 1.) ESZCSM rendelet 3. § (3) bekezdésének b) pontja, a 29/2007. (VI. 18.) EüM rendelet 2. §-a szerint módosított szöveg.
+2.6.8. cink-laktát
+
+2.6.9. cink-L-lizinát
+
+2.6.10. cink-malát
+
+2.6.11. cink-mono-L-metionin-szulfát
+
+2.6.12. cink-oxid
+
+2.6.13. cink-karbonát
+
+2.6.14. cink-L-pidolát
+
+2.6.15. cink-pikolinát
+
+2.6.16. cink-szulfát
+
+2.7. Mangán
+
+2.7.1. mangán-aszkorbát
+
+2.7.2. mangán-L-aszpartát
+
+2.7.3. mangán-biszglicinát
+
+2.7.4. mangán-karbonát
+
+2.7.5. mangán-klorid
+
+2.7.6. mangán-citrát
+
+2.7.7. mangán-glükonát
+
+2.7.8. mangán-glicerofoszfát
+
+2.7.9. mangán-pidolát
+
+2.7.10. mangán-szulfát
+
+2.8. Nátrium
+
+2.8.1. nátrium-bikarbonát (hidrogén-karbonát)
+
+2.8.2. nátrium-karbonát
+
+2.8.3. nátrium-klorid
+
+2.8.4. nátrium-citrát
+
+2.8.5. nátrium-glükonát
+
+2.8.6. nátrium-laktát
+
+2.8.7. nátrium-hidroxid
+
+2.8.8. nátrium ortofoszforsavval alkotott sói
+
+2.9. Kálium
+
+2.9.1. kálium-bikarbonát (hidrogén-karbonát)
+
+2.9.2. kálium-karbonát
+
+2.9.3. kálium-klorid
+
+2.9.4. kálium-citrát
+
+2.9.5. kálium-glükonát
+
+2.9.6. kálium-glicerofoszfát
+
+2.9.7. kálium-laktát
+
+2.9.8. kálium-hidroxid
+
+2.9.9. kálium-L-pidolát
+
+2.9.10. kálium-malát
+
+2.9.11. kálium ortofoszforsavval alkotott sói
+
+2.10. Szelén
+
+2.10.1. L-szeleno-metionin
+
+2.10.2. szelénnel dúsított élesztő (5)
+
+2.10.3. szelénessav
+
+2.10.4. nátrium-szelenát
+
+2.10.5. nátrium-hidrogén-szelenit
+
+2.10.6. nátrium-szelenit
+
+2.11. Króm
+
+2.11.1. króm(III)-klorid
+
+2.11.2. króm(III)-laktát-trihidrát
+
+2.11.3. króm-nitrát
+
+2.11.4. króm(III)-pikolinát
+
+2.11.5. króm(III)-szulfát
+
+2.12. Molibdén
+
+2.12.1. ammónium-molibdát (molibdén (VI))
+
+2.12.2. kálium-molibdát (molibdén (VI))
+
+2.12.3. nátrium-molibdát (molibdén (VI))
+
+2.13. Fluor
+
+2.13.1. kalcium-fluorid
+
+2.13.2. kálium-fluorid
+
+2.13.3. nátrium-fluorid
+
+2.13.4. nátrium-monofluor-foszfát
+
+2.14. Bór
+
+2.14.1. bórsav
+
+2.14.2. nátrium-borát (borax)
+
+2.15. Szilícium
+
+2.15.1. kolin-stabilizált ortokovasav
+
+2.15.2. szilícium-dioxid
+
+2.15.3. kovasav (6)
+
+3. Megjegyzések
+
+3.1. (1) alfa-tokoferol < 20%, béta-tokoferol < 10%, gamma-tokoferol 50–70% és delta-tokoferol 10–30%
+
+3.2. (2) Az egyes tokoferolok és tokotrienolok jellemző szintjei:
+
+3.2.1. 115 mg/g alfa-tokoferol (101 mg/g minimum)
+
+3.2.2. 5 mg/g béta-tokoferol (< 1 mg/g minimum)
+
+3.2.3. 45 mg/g gamma-tokoferol (25 mg/g minimum)
+
+3.2.4. 12 mg/g delta-tokoferol (3 mg/g minimum)
+
+3.2.5. 67 mg/g alfa-tokotrienol (30 mg/g minimum)
+
+3.2.6. < 1mg/g béta-tokotrienol (< 1 mg/g minimum)
+
+3.2.7. 82 mg/g gamma-tokotrienol (45 mg/g minimum)
+
+3.2.8. 5 mg/g delta-tokotrienol (< 1 mg/g minimum)
+
+3.3. (3) A menakinon főként menakinon–7 formában fordul elő, és kismértékben menakinon–6 formában.
+
+3.4. (4) Legfeljebb 2% treonátot tartalmazhat.
+
+3.5. (5) Szelénnel dúsított élesztők, melyeket nátrium-szelenit – mint szelénforrás – jelenlétében tenyésztéssel állítanak elő és melyek szárított, forgalmazott formában legfeljebb 2,5 mg Se/g-ot tartalmaznak. A szelén-metionin az élesztőben előforduló domináns szerves szelénfajta (a termékben előforduló összes kivont szelén mennyiség 60–85%-a). Az egyéb szerves szelénvegyületek – beleértve a szelenociszteint – aránya nem haladhatja meg az összes kivont szelén mennyiségének 10%-át. A szervetlen szelén szintje normál esetben nem haladhatja meg az összes kivont szelén mennyiségének 1%-át.
+
+3.6. (6) Gél formájában.
+
+[^17]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg.

@@ -4,6 +4,6 @@
 
 (3) A 2. számú mellékletben felsorolt olyan anyag esetében, amelynek tisztasági követelményeit sem hazai jogszabály, sem európai közösségi előírás nem határozza meg, a nemzetközi testületek általánosan elfogadott javaslatait kell figyelembe venni.
 
-(4) A legfeljebb 2009. december 31-ig étrend-kiegészítőben felhasználható vitaminokat és ásványi anyagok, illetve azok felhasználható formáit a 3. számú melléklet tartalmazza.
+(4)–(5)[^1]
 
-(5) A (4) bekezdés szerinti anyagok tisztasági követelményei tekintetében a (2) és (3) bekezdésben írtakat kell figyelembe venni.
+[^1]: A 4. § (4)–(5) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés a) pontja hatályon kívül helyezte.
