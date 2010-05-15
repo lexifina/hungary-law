@@ -1,4 +1,4 @@
-## 3. § A Tpt. 61. §-a szerinti, a szavazati jog mértékének bejelentésére és közzétételére vonatkozó kötelezettségnek az 5. mellékletben meghatározott formanyomtatványon kell eleget tenni.
+## 3. §[^1] A Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettséget, továbbá a Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettség alóli mentesülés bejelentését az Európai Bizottság által meghatározott tartalmú, a Pénzügyi Szervezetek Állami Felügyelete által üzemeltetett honlapon közzétett formanyomtatvány alkalmazásával kell teljesíteni.
 
 4. § (1) A szabályozott információ korlátozástól mentes elérhetősége érdekében a kibocsátó a szabályozott információt
 
@@ -41,3 +41,5 @@ b) a szabályozott információ média részére történő megküldésének nap
 c) a szabályozott információ terjesztéséhez használt közvetítő eszközt,
 
 d) a szabályozott információra elrendelt embargóra vonatkozó részleteket.
+
+[^1]: A 3. § a 21/2010. (V. 12.) PM rendelet 1. §-ával megállapított szöveg.

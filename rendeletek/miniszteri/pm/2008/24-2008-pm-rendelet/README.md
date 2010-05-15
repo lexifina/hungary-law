@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-24-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-08-30 | 2008-24-20-53.1 | 24/2008. (VIII. 15.) PM rendelet |
+| 2010-05-15 | 2008-24-20-53.2 | 21/2010. (V. 12.) PM rendelet |

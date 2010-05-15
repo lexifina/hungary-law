@@ -1,15 +1,16 @@
 5. § (1) A kibocsátó a honlapján biztosítja a szabályozott információ folyamatos elérhetőségét.
 
-(2) A honlapon a szabályozott információt úgy kell elérhetővé tenni, hogy az
+(2)[^2] A honlapon a szabályozott információt úgy kell elérhetővé tenni, hogy az
 
-a) a közzétételt követő legalább egy évig a honlap főoldalán jól látható „közlemény”,
+a) a közzétételt követő legalább egy évig adott üzleti évre vonatkozóan év szerinti bontásban a honlap főoldalán jól látható és beazonosítható legyen,
 
-b) a közzétételt követő egy év után a honlap főoldalán jól látható „archívum”
-
-## menüpont (link) alatt legfeljebb két további lépéssel elérhető legyen.
+b) a közzétételt követő egy év után a honlap főoldalán jól látható és beazonosítható menüpont (link) alatt – az üzleti évekre vonatkozó bontásban – elérhető legyen.
 
 (3) A már közzétett szabályozott információ módosítása esetén
 
-a) a szabályozott információt a módosítás jelölésével (az új szöveget aláhúzva, az elhagyott szöveget félkövéren, szögletes zárójelek között jelölve) újra közzé kell tenni,
+a)[^3] a szabályozott információt a módosítás egyértelmű jelölésével újra közzé kell tenni,
 
 b) feltűnő módon jelezni kell, hogy az módosításra került.
+
+[^2]: Az 5. § (2) bekezdése a 21/2010. (V. 12.) PM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (3) bekezdés a) pontja a 21/2010. (V. 12.) PM rendelet 2. § (2) bekezdésével megállapított szöveg.
