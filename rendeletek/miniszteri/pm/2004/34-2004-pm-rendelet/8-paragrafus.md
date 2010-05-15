@@ -1,10 +1,10 @@
-## 7. §[^5]
+## 7. §[^9]
 
 ## Hatálybalépés
 
 8. § (1) E rendelet – a (2) bekezdés kivételével – 2004. augusztus 1. napján lép hatályba.
 
-(2)[^6]
+(2)[^10]
 
-[^5]: A 7. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 84. pontja hatályon kívül helyezte.
-[^6]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 84. pontja hatályon kívül helyezte.
+[^9]: A 7. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 84. pontja hatályon kívül helyezte.
+[^10]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 84. pontja hatályon kívül helyezte.

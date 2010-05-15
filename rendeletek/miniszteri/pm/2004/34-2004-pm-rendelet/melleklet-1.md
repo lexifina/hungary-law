@@ -1,3 +1,3 @@
-1. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^7]
+1. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^11]
 
-[^7]: Az 1. számú melléklet a 28/2009. (XI. 30.) PM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 1. számú melléklet a 20/2010. (V. 12.) PM rendelet 5. § (1) bekezdésével megállapított szöveg.

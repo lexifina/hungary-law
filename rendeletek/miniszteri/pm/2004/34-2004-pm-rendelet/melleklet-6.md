@@ -60,6 +60,6 @@
 
 | P | Parancsnok igénylése alapján |
 
-6. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^12]
+6. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^16]
 
-[^12]: A 6. számú melléklet a 28/2009. (XI. 30.) PM rendelet 13. § (8) bekezdésével megállapított szöveg.
+[^16]: A 6. számú melléklet a 20/2010. (V. 12.) PM rendelet 5. § (3) bekezdésével megállapított szöveg.

@@ -102,6 +102,6 @@
 
 | P | Parancsnok igénylése alapján |
 
-3. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^9]
+3. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^13]
 
-[^9]: A 3. számú melléklet a 44/2008. (XII. 31.) PM rendelet 25. § (3) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (5) bekezdése szerint módosított szöveg.
+[^13]: A 3. számú melléklet a 20/2010. (V. 12.) PM rendelet 5. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 7. §-a alapján a 3. melléklet I. rész II. pontjában a „jövedéki szállítmányok” szövegrész helyébe a „jövedéki szállítmányok, valamint a(z) – belföldi relációban szállított – adózott jövedéki szállítmányok” szöveg lép. E módosító rendelet 9. § (2) bekezdése alapján a rendelkezés 2011. január 1-jén lép hatályba.]

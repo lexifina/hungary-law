@@ -1,10 +1,10 @@
-## A Szabálysértési Adatkezelő Rendszert kezelő szervek és a hozzáférési jogosultságok
+## A RobotzsaruNeo rendszer szabálysértési modulját kezelő szervek és a hozzáférési jogosultságok
 
-| Adatkezelők | Illetékesség | Adatszolgáltatás | Priorálás |
+|  |  | Adatszolgáltatás | Priorálás |
 
-| olvasás | adatfelvitel | módosítás | személyre | cégre |
+|  |  | olvasás | adatfelvitel | módosítás |
 
-| saját adatokban (aktuális eljáró!) | felügyelete alatt dolgozó szervek adatai | saját adatokban (aktuális eljáró!) | felügyelete alatt dolgozó szervek adatai | saját adatokban (aktuális eljáró!) | felügyelete alatt dolgozó szervek adatai |
+| Adatkezelők | Illetékesség | saját adatokban (aktuális elöljáró!) | felügyelete alatt dolgozó szervek adatai | saját adatokban (aktuális elöljáró!) | felügyelete alatt dolgozó szervek adatai | saját adatokban (aktuális elöljáró!) | felügyelete alatt dolgozó szervek adatai | személyre | cégre |
 
 | Vám- és Pénzügyőrség Országos Parancsnoksága |
 
@@ -20,7 +20,7 @@
 
 | Ügyeletes tisztje | Országos hozzáférési jog | x | x |  |  |  |  | x | x |
 
-| Kommunikációs tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője és kijelölt tagja | Országos hozzáférési jog | x | x |  |  |  |  | x | x |
+| Kommunikációs tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője és kijelölt tagja | Országos hozzáférési jog | x | x |  |  |  |  |  |  |
 
 | Vámigazgatási tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője, vezetőjének helyettese, osztályvezetője és elemzője | Országos hozzáférési jog | x | c |  |  |  |  |  | x |
 
@@ -28,17 +28,17 @@
 
 | Jövedéki igazgatási tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője, vezetőjének helyettese, osztályvezetője és elemzője | Országos hozzáférési jog | x | c |  |  |  |  | x | x |
 
-| Bűnüldözési tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | x | x |  | x |  | x | x |
+| Bűnüldözési tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | x | x | x | x | x | x | x |
 
-| Vámigazgatási tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | c | x |  | x |  |  | x |
+| Vámigazgatási tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | c |  |  |  |  |  | x |
 
-| Ellenőrzési tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | c | x |  | x |  |  | x |
+| Ellenőrzési tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | c |  |  |  |  |  | x |
 
-| Jövedéki igazgatási tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | c | x |  | x |  | x | x |
+| Jövedéki igazgatási tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője által kijelölt tagjai | Országos hozzáférési jog | x | c |  |  |  |  | x | x |
 
 | Vám- és Pénzügyőrség Központi Bűnüldözési Parancsnoksága |
 
-| Parancsnoka, parancsnokhelyettese, osztályvezetői, elemzői, ügyeletes tisztje | Országos hozzáférési jog | x | x |  |  |  |  | x | x |
+| Parancsnoka, parancsnokhelyettese, osztályvezetői, elemzői | Országos hozzáférési jog | x | x |  |  |  |  | x | x |
 
 | Műveleti tevékenységet végző szervezeti egységének tagjai | Országos hozzáférési jog | x | x |  |  |  |  | x | x |
 
@@ -46,7 +46,7 @@
 
 | Vám- és Pénzügyőrség Bűnügyi Ellátó Nyomozó Hivatala |
 
-| Parancsnoka, parancsnokhelyettese, osztályvezetői, és a parancsnok által kijelölt tagjai | Országos hozzáférési jog |  |  |  |  |  |  | x | x |
+| Parancsnoka, parancsnokhelyettese, osztályvezetői és a parancsnok által kijelölt tagjai | Országos hozzáférési jog |  |  |  |  |  |  | x | x |
 
 | Vám- és Pénzügyőrség regionális parancsnokságai |
 
@@ -64,19 +64,19 @@
 
 | Parancsnoka, parancsnokhelyettese, osztályvezetője | Országos hozzáférési jog | x | c |  |  |  |  |  | x |
 
-| Parancsnok által kijelölt tagjai | Országos hozzáférési jog | x | c | x |  | x |  |  | x |
+| Parancsnok által kijelölt tagjai | Országos hozzáférési jog | x | c |  |  |  |  |  | x |
 
 | Központi Járőrszolgálat Parancsnoksága |
 
-| Parancsnoka, parancsnokhelyettese, századparancsnoka, ügyeletes tisztje | Országos hozzáférési jog | x |  |  |  |  |  | x | x |
+| Parancsnoka, parancsnokhelyettese, bevetési osztályok vezetői, ügyeletes tisztje | Országos hozzáférési jog | x |  |  |  |  |  | x | x |
 
 | Parancsnok által kijelölt tagjai | Országos hozzáférési jog | x |  | x |  | x |  | x | x |
 
-| Vám- és Pénzügyőrség rendszerfejlesztését felelős szerve |
+| Vám- és Pénzügyőrség rendszerfejlesztésért felelős szerve |
 
 | Parancsnok által kijelölt tagja | Országos hozzáférési jog | c | c |  |  |  |  |  |  |
 
-| Vám- és Pénzügyőri Hivatalok/Megyeszékhelyen működő Vám- és Pénzügyőri Hivatalok |
+| Vám- és Pénzügyőri Hivatalok |
 
 | Parancsnoka, parancsnokhelyettese | Saját szerv adataihoz hozzáférési jog | x |  |  |  |  |  | x | x |
 
@@ -86,10 +86,10 @@
 
 ## Megjegyzés:
 
-## X: AZ ADATOK TELJES KÖRÉRE VONATKOZÓ JOGOSULTSÁG.
+## x: Az adatok teljes körére vonatkozó jogosultság.
 
-## C: A SZEMÉLYES ADATOK KIVÉTELÉVEL AZ ADATOKHOZ VALÓ HOZZÁFÉRÉSI JOG.
+## c: A személyes adatok kivételével az adatokhoz való hozzáférési jog.
 
-2. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^8]
+2. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^12]
 
-[^8]: A 2. számú melléklet a 44/2008. (XII. 31.) PM rendelet 25. § (2) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 2. számú melléklet a 44/2008. (XII. 31.) PM rendelet 25. § (2) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (4) bekezdése szerint módosított szöveg.
