@@ -47,4 +47,4 @@ szerinti hatóanyagot tartalmazó kozmetikai termék legkésőbb 2011. október 
 [^57]: A 11. § (8) bekezdésének b) pontja a 3/2008. (I. 11.) EüM rendelet 4. § (8) bekezdésének b) pontja szerint módosított szöveg.
 [^58]: A 11. § (9) bekezdését a 47/2007. (X. 31.) EüM rendelet 2. §-a iktatta be.
 [^59]: A 11. § (10) bekezdését a 47/2007. (X. 31.) EüM rendelet 5. § (7) bekezdése iktatta be; a rendelkezés e módosító rendelet 5. § (2) bekezdése alapján 2007. november 21. napján lépett hatályba.
-[^60]: A 11. § (11) bekezdését a 14/2010. (IV. 7.) EüM rendelet 2. §-a iktatta be.
+[^60]: A 10. § (11) bekezdését a 14/2010. (IV. 7.) EüM rendelet 2. §-a iktatta be.
