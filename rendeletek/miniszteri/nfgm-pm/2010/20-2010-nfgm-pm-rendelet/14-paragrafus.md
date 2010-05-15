@@ -1,0 +1,5 @@
+## 13. § Az R. a következő 29. §-sal egészül ki:
+
+## „29. § (1) A 2007–2013 időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának általános eljárási szabályairól szóló együttes rendelet módosításáról szóló 20/2010. (V. 13.) NFGM–PM rendelettel (a továbbiakban: Módr.) megállapított 1/B. §-t, 6. § (10) bekezdését, 8. § (10) bekezdését, 10. § (1) bekezdését és 17. § (1) bekezdését a Módr. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+## (2) A Módr.-tel megállapított 15. § (2) bekezdését, 20. § (2)–(4) bekezdését, 20. § (5) és (6) bekezdését, 21–21/A. §-t, valamint 22–22/C. §-t a Regionális Operatív Programok tekintetében 2010. július 1-jét követően megindított közbeszerzési eljárások esetén, más operatív programok tekintetében az egyes fejlesztéspolitikai tárgyú kormányrendeletek módosításáról szóló 181/2010. (V. 13.) Korm. rendelet kihirdetését követő 120. napon vagy azt követően megindított közbeszerzési eljárások tekintetében kell alkalmazni.”

@@ -1,0 +1,3 @@
+## 4. § Az R. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A döntésről a közreműködő szervezet az Ámr. 112. § (5) bekezdésében foglaltak szerint tájékoztatja a projektgazdát. Csökkentett elszámolható összköltség, csökkentett támogatás vagy elutasítás esetén a közreműködő szervezet részletes indokolást ad. Feltételes támogatás esetén a közreműködő szervezet meghatározza a 7. § (8) bekezdés d) pontja szerinti feltételeket. A közreműködő szervezet döntésről szóló tájékoztatása tartalmazza a projekt javaslat elutasítása, csökkentett összköltséggel történő támogatása vagy feltételekkel történő támogatása esetén a panasz benyújtásának lehetőségét, módját.”
