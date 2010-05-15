@@ -28,6 +28,6 @@ e) a NATO okmányok fedezetével érkezett és vámraktárba betárolt katonai �
 
 f) az engedélyezett feladó és engedélyezett címzett kérelemhez a cégkivonat és az aláírási címpéldány helyett a közhivatal jogállásra vonatkozó nyilatkozatot kell elfogadni, továbbá nem kell megkövetelni a csőd-, felszámolási és végelszámolási eljárásra vonatkozó nyilatkozatot.
 
-(3)[^5] A vám- és pénzügyőri hivatal a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv kérelmére a katonai vámáru szállítóeszközről történő kirakását soron kívül engedélyezheti.
+(3)[^6] A vám- és pénzügyőri hivatal a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv kérelmére a katonai vámáru szállítóeszközről történő kirakását soron kívül engedélyezheti.
 
-[^5]: Az 5. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 41. §-a szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 41. §-a szerint módosított szöveg.
