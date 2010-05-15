@@ -1,0 +1,3 @@
+## 3. § Az Épköz. 6. § (3) bekezdésében az „építőipari kivitelezési tevékenységről, az építési naplóról és a kivitelezési dokumentáció tartalmáról szóló jogszabályban” szövegrész helyébe az „építőipari kivitelezési tevékenységről szóló kormányrendeletben” szöveg, 8/B. § (1) bekezdésben az „ – ellenszolgáltatás nélkül használható – elektronikus közbeszerzési költségvetési kiírási program segítségével” szövegrész helyébe az „ – ellenszolgáltatás nélkül használható és elektronikus igazoló kódot generáló – elektronikus közbeszerzési költségvetési kiírási program (a továbbiakban: elektronikus költségvetési kiírási program) segítségével” szöveg lép.
+
+## 2. Az építésfelügyeleti tevékenységről szóló 291/2007. (X. 31.) Korm. rendelet módosítása
