@@ -70,6 +70,8 @@
 
 | 34. | Ingatlanvagyon-értékelő és közvetítő | az ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítő szolgáltató (lakóhelye) székhelye – működési területe – szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
+| 35. | Átláthatósági biztos | Közbeszerzések Tanácsa |
+
 2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^19]
 
 Az Etv. 41. § (1) bekezdése szerinti előzetes ellenőrzés alá tartozó szabályozott szakmák
