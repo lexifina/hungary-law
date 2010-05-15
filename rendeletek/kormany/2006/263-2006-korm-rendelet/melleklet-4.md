@@ -26,6 +26,6 @@
 
 | 10. | Ha az út régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósul meg meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^132]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^134]
 
-[^132]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^134]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
