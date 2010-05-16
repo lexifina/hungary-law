@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-79-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-09-08 | 2007-79-20-82.4 | 79/2007. (VII. 30.) FVM rendelet |
+| 2010-05-16 | 2007-79-20-82.5 | 70/2010. (V. 13.) FVM rendelet |
