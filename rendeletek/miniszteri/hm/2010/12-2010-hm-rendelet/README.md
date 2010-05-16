@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-12-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-05-15 | 2010-12-20-15.1 | 12/2010. (V. 12.) HM rendelet |
+| 2010-05-16 | 2010-12-20-15.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
