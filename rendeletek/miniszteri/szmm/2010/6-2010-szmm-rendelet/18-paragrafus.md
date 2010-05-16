@@ -4,4 +4,6 @@
 
 (3) A kötelezettségvállaló a támogatási szerződésben a kedvezményezett részletes indokolással alátámasztott írásbeli kérelme alapján az időarányostól eltérő folyósítást engedélyezhet. Ha az eltérő finanszírozást megalapozó indok a szerződés megkötését követően merül fel, a szerződést módosítani kell.
 
-(4) Amennyiben a működési támogatás kedvezményezettje a tárgyévet megelőző évben is részesült működési támogatásban, a tárgyévi támogatási szerződés megkötésére és a kifizetések megkezdésére az előző évi szakmai beszámoló és pénzügyi elszámolás benyújtása és annak elfogadása után kerülhet sor.
+(4)[^2] Amennyiben a működési támogatás – ide nem értve a Nemzeti Civil Alapprogram terhére folyósított támogatást – kedvezményezettje a tárgyévet megelőző évben is részesült működési támogatásban, a tárgyévi támogatási szerződés megkötésére és a kifizetések megkezdésére az előző évi szakmai beszámoló és pénzügyi elszámolás benyújtása és annak elfogadása után kerülhet sor. A Nemzeti Civil Alapprogram terhére folyósított működési támogatásból részesülő kedvezményezettekre vonatkozó ezen kivételi jogcím nem mentesít a 20. § (4) bekezdés szerinti jogkövetkezmények alkalmazása alól.
+
+[^2]: A 18. § (4) bekezdése a 18/2010. (V. 13.) SZMM rendelet 1. §-ával megállapított szöveg.

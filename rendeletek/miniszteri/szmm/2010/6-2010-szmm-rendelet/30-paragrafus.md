@@ -1,3 +1,3 @@
-## 29. §[^1]
+## 29. §[^3]
 
-[^1]: A 29. §-t a 30. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 29. §-t a 30. § (1) bekezdése hatályon kívül helyezte.
