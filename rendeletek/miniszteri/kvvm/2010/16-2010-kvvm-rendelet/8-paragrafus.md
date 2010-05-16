@@ -1,0 +1,3 @@
+8. § (1) A Tárcaközi Bizottság a beérkezett pályázatok megvizsgálása után tesz javaslatot a lakossági ivóvízés csatornaszolgáltatás fajlagos ráfordításai támogatásának odaítélésénél figyelembe vehető tényleges küszöbértékekre, amelyek nem lehetnek alacsonyabbak, mint a 2. § (1) bekezdés e) pontjának ea)-ec) pontjaiban megadott értékek.
+
+(2) Amennyiben a támogatási keretösszeg mértéke eltér a bírálati szempontok alapján megítélhető támogatások összesített mértékétől, a Tárcaközi Bizottság döntésétől függően a támogatás összege a támogatási keretösszeg mértékének megfelelően egyenlő arányban módosításra kerül.
