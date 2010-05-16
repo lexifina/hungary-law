@@ -12,7 +12,9 @@ b)[^81] a fejlesztéspolitikáért felelős miniszter, hogy – az államháztar
 
 (4)[^83] A Kormány a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program Pénzügyi eszközök intézkedésének végrehajtása érdekében a 2. § (1) bekezdés t) pontjában és a 12/A. § (1) bekezdésében meghatározott forráskezelő szervezetként a Magyar Vállalkozásfinanszírozási Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
 
-(5)[^84] Ez a rendelet a következő közösségi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg:
+(4a)[^84] A Kormány a Regionális Operatív Programok Akcióterveiben nevesített Regionális Tőkebefektetési Alap komponensek vonatkozásában alapkezelő szervezetként a Regionális Tőkealap-kezelő Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
+
+(5)[^85] Ez a rendelet a következő közösségi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a Tanács 1083/2006/EK rendelete (2006. július 11.) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről;
 
@@ -22,7 +24,7 @@ c) az Európai Parlament és a Tanács 1081/2006/EK rendelete (2006. július 5.)
 
 d) a Tanács 1084/2006/EK rendelete (2006. július 11.) a Kohéziós Alap létrehozásáról és az 1164/94/EK rendelet hatályon kívül helyezéséről;
 
-e)[^85] a Bizottság 1828/2006/EK rendelete az 1083/2006/EK tanácsi rendelet végrehajtásának részletes szabályairól.
+e)[^86] a Bizottság 1828/2006/EK rendelete az 1083/2006/EK tanácsi rendelet végrehajtásának részletes szabályairól.
 
 [^77]: A 21. § új (2) bekezdését a 105/2007. (V. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdésének számozását (3)–(4) bekezdésre változtatva.
 [^78]: A 21. § eredeti (2) bekezdésének számozását a 105/2007. (V. 9.) Korm. rendelet 6. § (1) bekezdése (3) bekezdésre változtatta.
@@ -31,5 +33,6 @@ e)[^85] a Bizottság 1828/2006/EK rendelete az 1083/2006/EK tanácsi rendelet v�
 [^81]: A 21. § (3) bekezdésének b) pontja a 67/2008. (III. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^82]: Lásd a 4/2007. (I. 30.) MeHVM–GKM együttes rendeletet, az 5/2007. (II. 2.) MeHVM–SZMM együttes rendeletet, a 6/2007. (II. 6.) MeHVM–GKM együttes rendeletet, a 11/2007. (III. 28.) MeHVM–ÖTM együttes rendeletet, a 14/2007. (V. 8.) MeHVM–ÖTM együttes rendeletet, a 15/2007. (V. 10.) MeHVM–KvVM együttes rendeletet, a 16/2007. (V. 11.) MeHVM–ÖTM együttes rendeletet, a 24/2007. (VIII. 29.) MeHVM–GKM–KvVM együttes rendeletet, a 26/2007. (X. 5.) ÖTM–GKM együttes rendeletet, a 9/2008. (VII. 25.) NFGM rendeletet.
 [^83]: A 21. § új (4) bekezdését a 262/2007. (X. 4.) Korm. rendelet 10. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (5) bekezdésre változtatta.
-[^84]: A 21. § eredeti (3) bekezdésének számozását a 105/2007. (V. 9.) Korm. rendelet 6. § (1) bekezdése (4) bekezdésre, a 262/2007. (X. 4.) Korm. rendelet 10. § (3) bekezdése (5) bekezdésre változtatta.
-[^85]: A 21. § (5) bekezdésének e) pontját a 262/2007. (X. 4.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^84]: A 21. § (4a) bekezdését a 181/2010. (V. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 182/2010. (V. 14.) Korm. rendelet 10. § (12) bekezdése szerint módosított szöveg.
+[^85]: A 21. § eredeti (3) bekezdésének számozását a 105/2007. (V. 9.) Korm. rendelet 6. § (1) bekezdése (4) bekezdésre, a 262/2007. (X. 4.) Korm. rendelet 10. § (3) bekezdése (5) bekezdésre változtatta.
+[^86]: A 21. § (5) bekezdésének e) pontját a 262/2007. (X. 4.) Korm. rendelet 10. § (2) bekezdése iktatta be.

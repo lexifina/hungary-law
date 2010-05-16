@@ -26,7 +26,7 @@ f) elfogultságát a bíráló bizottság megállapítja.
 
 (6)[^73] A projektek folyamatba épített (dokumentum alapú, illetve helyszíni) ellenőrzését, illetve kifizetése engedélyezését nem végezheti olyan személy, akivel szemben az (1) bekezdés szerinti kizáró ok fennáll. A folyamatba épített (dokumentum alapú, illetve helyszíni) ellenőrzést ellátó személy, illetve a Polgári Törvénykönyv szerinti közeli hozzátartozója nem vehet részt sem ugyanazon projektre vonatkozó projekt javaslat elbírálásában, sem a kifizetés engedélyezésében.
 
-(7)[^74] Az (1)–(5) bekezdés rendelkezéseit nem kell alkalmazni olyan projektek esetében, amelyeknél a projekt javaslatot az NFÜ vagy minisztérium nyújtotta be, de a projektet más személy vagy szervezet valósítja meg.
+(7)[^74] Az (1)–(6) bekezdés rendelkezéseit nem kell alkalmazni az NFÜ által benyújtott és megvalósított, valamint az NFÜ vagy minisztérium által benyújtott, de más szervezet által megvalósított projektek esetében.
 
 (8) Kutatás-fejlesztési projektek támogatására irányuló támogatási konstrukciók esetében az (1) bekezdés a) pontját nem kell alkalmazni.
 
@@ -36,5 +36,5 @@ f) elfogultságát a bíráló bizottság megállapítja.
 [^71]: A 18. § (2) bekezdése a 359/2008. (XII. 31.) Korm. rendelet 34. § (6) bekezdésével megállapított szöveg.
 [^72]: A 18. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 41. §-a szerint módosított szöveg.
 [^73]: A 18. § (6) bekezdése a 179/2009. (IX. 4.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^74]: A 18. § (7) bekezdése a 179/2009. (IX. 4.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^74]: A 18. § (7) bekezdése a 181/2010. (V. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^75]: A 18. § (9) bekezdését a 262/2007. (X. 4.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
