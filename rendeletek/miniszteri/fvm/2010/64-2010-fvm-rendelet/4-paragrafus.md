@@ -1,1 +1,0 @@
-## „(8) A (6) bekezdés szerint kiadott bor származási bizonyítványon akkor is fel kell tüntetni az alkoholtartalom-növelés vagy az édesítés tényét, ha azt nem azon a tételen végezték, amelye a borszármazási bizonyítványt kérik, hanem egy vagy több résztételnél, amiből a végső bortétel áll.”
