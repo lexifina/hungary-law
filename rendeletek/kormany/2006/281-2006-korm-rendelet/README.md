@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-281-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-31 | 2006-281-20-22.12 | 281/2006. (XII. 23.) Korm. rendelet |
+| 2010-05-16 | 2006-281-20-22.13 | 181/2010. (V. 13.) Korm. rendelet |

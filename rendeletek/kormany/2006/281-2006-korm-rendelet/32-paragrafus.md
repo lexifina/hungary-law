@@ -1,4 +1,4 @@
-32. §[^103] (1) A folyamatba épített ellenőrzés részeként a Nemzeti Fejlesztési Ügynökségnek vagy a közreműködő szervezetnek – az államháztartásért felelős miniszter által közzétett módszertani útmutatónak megfelelően – gondoskodnia kell a kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek helyszíni ellenőrzéséről.
+32. §[^107] (1) A folyamatba épített ellenőrzés részeként a Nemzeti Fejlesztési Ügynökségnek vagy a közreműködő szervezetnek – az államháztartásért felelős miniszter által közzétett módszertani útmutatónak megfelelően – gondoskodnia kell a kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek helyszíni ellenőrzéséről.
 
 (2) A 10 és 25 millió forint közötti támogatással megvalósuló projektek esetében a közreműködő szervezet a projektek – kockázatelemzés alapján kiválasztott – legalább 25%-át a projekt befejezését megelőzően a helyszínen ellenőrzi.
 
@@ -24,11 +24,14 @@ g) a közbeszerzésekre vonatkozó közösségi és nemzeti szabályok betartás
 
 h) az állami támogatás, a környezetvédelem, az esélyegyenlőség és a fenntartható fejlődés követelményeinek betartását,
 
-i)[^104] a projekt szintű elkülönített számviteli nyilvántartás vezetését.
+i)[^108] a projekt szintű elkülönített számviteli nyilvántartás vezetését.
 
 (6) A helyszíni ellenőrzések keretében a kifizetési igénylésben szereplő költségek elszámolhatóságának megállapításához ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítő(k)ben feltüntetett, de másolatban be nem nyújtott számlákat is, a számlákhoz kapcsolódó szerződéseket, és az azokhoz a kapcsolódó teljesítésigazolásokat, valamint a számlák mellé be nem nyújtott kifizetést igazoló egyéb dokumentumokat.
 
 (7) A folyamatba épített ellenőrzéseket megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-[^103]: A 32. § a 359/2008. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^104]: A 32. § (5) bekezdésének i) pontját a 179/2009. (IX. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+(8)[^109] A Magyar Államkincstár, az irányító hatóság vagy az irányító hatóság által megbízott szerv az általa végzett helyszíni ellenőrzésekről készített jegyzőkönyvet a tárgyhónapot követő hónap 20. napjáig megküldi az Igazoló Hatóság részére.
+
+[^107]: A 32. § a 359/2008. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^108]: A 32. § (5) bekezdésének i) pontját a 179/2009. (IX. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^109]: A 32. § (8) bekezdését a 181/2010. (V. 13.) Korm. rendelet 16. § (2) bekezdése iktatta be.

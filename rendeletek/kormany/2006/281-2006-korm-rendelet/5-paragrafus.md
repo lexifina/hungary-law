@@ -12,11 +12,11 @@ a) olyan pénzügyi irányítási és kontroll rendszert kialakítani és műkö
 
 b) a tervezés, a pályáztatás, a szerződéskötés, a pénzügyi lebonyolítás, számvitel és a monitoring feladatok megfelelő szabályozásáról a vonatkozó belső szabályzataikban és munkaköri leírásokban gondoskodni, figyelemmel arra, hogy az egyes feladatokat és azok ellenőrzését ugyanaz a személy nem végezheti,
 
-c)[^17] a pályáztatás, szerződéskötés és a pénzügyi lebonyolítás folyamataiban és ezen folyamatok adatainak az EMIR-be történő bevitele során biztosítani a négy szem elvének érvényesülését,
+c)[^20] a pályáztatás, szerződéskötés és a pénzügyi lebonyolítás folyamataiban és ezen folyamatok adatainak az EMIR-be történő bevitele során biztosítani a négy szem elvének érvényesülését,
 
 d) gondoskodni az ellenőrzési nyomvonal, a szabálytalanságkezelési és a kockázatkezelési eljárásrend kialakításáról, továbbá a közbeszerzési eljárások ellenőrzésének belső eljárásrendjének szabályozásáról, valamint az esetleges változások haladéktalan átvezetéséről.
 
-(3)[^18] A Nemzeti Fejlesztési Ügynökség és a közreműködő szervezetek kötelesek közreműködő szervezeti tevékenység bevételeit és kiadásait operatív programonként elkülönítő nyilvántartás vezetését biztosítani.
+(3)[^21] A Nemzeti Fejlesztési Ügynökség és a közreműködő szervezetek kötelesek közreműködő szervezeti tevékenység bevételeit és kiadásait operatív programonként elkülönítő nyilvántartás vezetését biztosítani.
 
-[^17]: Az 5. § (2) bekezdés c) pontja a 359/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: Az 5. § (3) bekezdését a 402/2007. (XII. 27.) Korm. rendelet 1. §-a iktatta be, alkalmazására lásd e módosító rendelet 32. § (1) bekezdését.
+[^20]: Az 5. § (2) bekezdés c) pontja a 359/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^21]: Az 5. § (3) bekezdését a 402/2007. (XII. 27.) Korm. rendelet 1. §-a iktatta be, alkalmazására lásd e módosító rendelet 32. § (1) bekezdését.

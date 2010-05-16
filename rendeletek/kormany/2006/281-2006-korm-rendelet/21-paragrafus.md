@@ -1,4 +1,4 @@
-21. § (1)[^73] A projekt költségnövekményét – jogszabály eltérő rendelkezése hiányában – a kedvezményezett finanszírozza. Nagyprojekt esetében a költségnövekmény finanszírozása a (2)–(5) bekezdés szerint történik.
+21. § (1)[^79] A projekt költségnövekményét – jogszabály eltérő rendelkezése hiányában – a kedvezményezett finanszírozza. Nagyprojekt esetében a költségnövekmény finanszírozása a (2)–(5) bekezdés szerint történik.
 
 (2) Amennyiben a nagyprojekt költsége a kedvezményezett által nem befolyásolható körülmény miatt növekedett meg, a kedvezményezett kérelmezheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
 
@@ -8,4 +8,4 @@
 
 (5) A nagyprojekt támogatásának növeléséről a Kormány jogosult dönteni.
 
-[^73]: A 21. § (1) bekezdése a 179/2009. (IX. 4.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^79]: A 21. § (1) bekezdése a 179/2009. (IX. 4.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

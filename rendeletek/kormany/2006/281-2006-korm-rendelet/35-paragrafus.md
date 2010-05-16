@@ -6,6 +6,6 @@
 
 (4) A Nemzeti Fejlesztési Ügynökség vagy a közreműködő szervezet a Közbeszerzési Döntőbizottság érdemi határozatának megismerését követően haladéktalanul dönt a határozattal érintett projekt támogatásának további feltételeiről, szükség szerint a támogatási szerződés módosításáról, vagy a támogatási szerződéstől való elállásról.
 
-(5)[^108] Ha a kedvezményezett és/vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által lefolytatott közbeszerzési eljáráshoz kapcsolódó közbeszerzési döntőbizottsági határozat bírósági felülvizsgálatát kérték, a kedvezményezett a megtámadott Közbeszerzési Döntőbizottság határozatának megküldésével haladéktalanul tájékoztatja a Nemzeti Fejlesztési Ügynökséget vagy a közreműködő szervezetet a bírósági eljárás elindításáról és annak eredményéről.
+(5)[^113] Ha a kedvezményezett és/vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által lefolytatott közbeszerzési eljáráshoz kapcsolódó közbeszerzési döntőbizottsági határozat bírósági felülvizsgálatát kérték, a kedvezményezett a megtámadott Közbeszerzési Döntőbizottság határozatának megküldésével haladéktalanul tájékoztatja a Nemzeti Fejlesztési Ügynökséget vagy a közreműködő szervezetet a bírósági eljárás elindításáról és annak eredményéről.
 
-[^108]: A 35. § (5) bekezdése a 346/2007. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^113]: A 35. § (5) bekezdése a 346/2007. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

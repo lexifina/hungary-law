@@ -1,5 +1,3 @@
-## 67. §[^173]
-
 ## Az Európai Unió jogának való megfelelés
 
 ## 68. § Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
@@ -11,5 +9,3 @@ b) az Európai Parlament és a Tanács 1080/2006/EK Rendelete (2006. július 5.)
 c) az Európai Parlament és a Tanács 1081/2006/EK Rendelete (2006. július 5.) az Európai Szociális Alapról és az 1784/1999/EK rendelet hatályon kívül helyezéséről;
 
 d) a Tanács 1084/2006/EK Rendelete (2006. július 11.) a Kohéziós Alap létrehozásáról és az 1164/94/EK rendelet hatályon kívül helyezéséről.
-
-[^173]: A 67. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 223. pontja hatályon kívül helyezte.

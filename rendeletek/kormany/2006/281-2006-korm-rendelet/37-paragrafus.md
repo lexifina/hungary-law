@@ -8,9 +8,9 @@
 
 (5) A szervezet vezetője 2 munkanapon belül dönt a szabálytalansági vizsgálat elindításáról vagy az arra irányuló javaslat elutasításáról, vagy dönt a szabálytalansági gyanú kivizsgálására vonatkozó javaslat és a kapcsolódó dokumentumoknak az érintett szervezethez történő átadásáról, melyről egyidejűleg értesíti a szervezet szabálytalanság- felelősét, továbbá – közreműködő szervezet esetén – a Nemzeti Fejlesztési Ügynökséget.
 
-(6)[^109] A szabálytalansági vizsgálat elindításáról való döntés esetén, azzal egyidejűleg ki kell jelölni a szabálytalansági vizsgálat vezetőjét, valamint a vizsgálatba bevonandó szakértőket. A szabálytalanság-felelős a szabálytalansági vizsgálat elindításának vagy elutasításának tényét 2 munkanapon belül rögzíti az EMIR-ben.
+(6)[^114] A szabálytalansági vizsgálat elindításáról való döntés esetén, azzal egyidejűleg ki kell jelölni a szabálytalansági vizsgálat vezetőjét, valamint a vizsgálatba bevonandó szakértőket. A szabálytalanság-felelős a szabálytalansági vizsgálat elindításának vagy elutasításának tényét 2 munkanapon belül rögzíti az EMIR-ben.
 
-(7)[^110] A közreműködő szervezet, illetve az irányító hatóság vezetője az eljárás során bármikor dönthet a kifizetés felfüggesztéséről. A kifizetés felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.
+(7)[^115] A közreműködő szervezet, illetve az irányító hatóság vezetője az eljárás során bármikor dönthet a kifizetés felfüggesztéséről. A kifizetés felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.
 
-[^109]: A 37. § (6) bekezdése a 402/2007. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 32. § (1) bekezdését.
-[^110]: A 37. § (7) bekezdését a 359/2008. (XII. 31.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^114]: A 37. § (6) bekezdése a 402/2007. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 32. § (1) bekezdését.
+[^115]: A 37. § (7) bekezdését a 359/2008. (XII. 31.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

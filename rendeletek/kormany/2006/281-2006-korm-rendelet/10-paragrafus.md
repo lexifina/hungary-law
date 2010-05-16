@@ -2,14 +2,14 @@
 
 (2) A fejezeti kezelésű előirányzat-felhasználási keretszámlák felett a Nemzeti Fejlesztési Ügynökség rendelkezik, de átadhatja a rendelkezés jogát olyan közreműködő szervezetnek, amely államháztartási szervezet.
 
-(3)[^35] A pénzforgalmi számlák feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
+(3)[^39] A pénzforgalmi számlák feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
-(4)[^36] A pénzforgalmi számlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetésből történik a Pénzügyminisztérium fejezet terhére.
+(4)[^40] A pénzforgalmi számlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetésből történik a Pénzügyminisztérium fejezet terhére.
 
-(5)[^37] A pénzforgalmi számlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
+(5)[^41] A pénzforgalmi számlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
 
 (6) Az EMIR-ben kiállított átutalási megbízásokat elektronikus formában kell pénzügyi teljesítésre átadni a Magyar Államkincstárnak.
 
-[^35]: A 10. § (3) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
-[^36]: A 10. § (4) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
-[^37]: A 10. § (5) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
+[^39]: A 10. § (3) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
+[^40]: A 10. § (4) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
+[^41]: A 10. § (5) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
