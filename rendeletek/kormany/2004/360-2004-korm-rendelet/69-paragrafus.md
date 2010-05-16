@@ -1,3 +1,3 @@
-## 68. §[^145]
+## 68. §[^150]
 
-[^145]: A 68. §-t a 138/2008. (V. 16.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^150]: A 68. §-t a 138/2008. (V. 16.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.

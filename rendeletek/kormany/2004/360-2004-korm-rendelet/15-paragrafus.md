@@ -6,9 +6,9 @@
 
 (4) A (bank)számlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetés terhére történik a Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére.
 
-(5)[^41] A fejezeti kezelésű előirányzat-felhasználási keretszámlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
+(5)[^43] A fejezeti kezelésű előirányzat-felhasználási keretszámlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
 
-(6)[^42] Az EMIR rendszerben kiállított átutalási megbízásokat elektronikus formában kell pénzügyi teljesítésre átadni a Magyar Államkincstárnak.
+(6)[^44] Az EMIR rendszerben kiállított átutalási megbízásokat elektronikus formában kell pénzügyi teljesítésre átadni a Magyar Államkincstárnak.
 
-[^41]: A 15. § (5) bekezdését a 202/2006. (X. 5.) Korm. rendelet 9. §-a iktatta be.
-[^42]: A 15. § (6) bekezdését a 202/2006. (X. 5.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 47. § (1) bekezdése alapján a rendelkezést 2006. november 1-jétől kell alkalmazni.
+[^43]: A 15. § (5) bekezdését a 202/2006. (X. 5.) Korm. rendelet 9. §-a iktatta be.
+[^44]: A 15. § (6) bekezdését a 202/2006. (X. 5.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 47. § (1) bekezdése alapján a rendelkezést 2006. november 1-jétől kell alkalmazni.

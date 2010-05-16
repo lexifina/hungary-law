@@ -18,7 +18,7 @@
 
 | számvitelért felelős vezető | a szervezet felelős vezetője |
 
-4. számú melléklet a 360/2004. (XII. 26.) Korm. rendelethez[^154]
+4. számú melléklet a 360/2004. (XII. 26.) Korm. rendelethez[^159]
 
 NYILATKOZAT
 
@@ -40,4 +40,4 @@ Budapest, 20... ...................................... .......
 
 | számvitelért felelős vezető | a szervezet felelős vezetője |
 
-[^154]: A 4. számú mellékletet a 127/2009. (VI. 15.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^159]: A 4. számú mellékletet a 127/2009. (VI. 15.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

@@ -10,7 +10,7 @@ b) a forrásgazda által megnyitott vonatkozó fejezeti kezelésű előirányzat
 
 c) a felelősségi körébe tartozó adott Kohéziós Alap projektekre vonatkozó lebonyolítási (bank)számlák megnyitása;
 
-d)[^34] benyújtott elszámolások, számlák vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatok vizsgálata, hogy azok megfelelnek a szerződéses feltételeknek, a költségek elszámolhatóak, megfelelnek a hazai és közösségi előírásoknak;
+d)[^36] benyújtott elszámolások, számlák vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatok vizsgálata, hogy azok megfelelnek a szerződéses feltételeknek, a költségek elszámolhatóak, megfelelnek a hazai és közösségi előírásoknak;
 
 e) gondoskodás a saját erő adott projektre vonatkozó lebonyolítási (bank)számlára történő beutalásáról;
 
@@ -22,7 +22,7 @@ h) felelősségi körébe tartozó e rendelet 2. § (1) bekezdésének 8. pontj�
 
 i) a támogatás igazolt összegének átutalására vonatkozó megbízásnak a Magyar Államkincstár részére történő továbbítása a projekt vonatkozó lebonyolítási (bank)számlán történt jóváírásról szóló bankszámlakivonat kézhezvételét követő 5 munkanapon belül, amellyel szemben semmilyen levonás, visszatartás vagy egyéb költség nem érvényesíthető;
 
-j)[^35] pénzügyi irányítási és ellenőrzési rendszer működtetése, különös tekintettel az elszámolható költségek folyamatos ellenőrzésére, a számlák vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatok ellenőrzésére, a teljesítésigazolás, valamint a kifizetés engedélyezése előtti ellenőrzésekre;
+j)[^37] pénzügyi irányítási és ellenőrzési rendszer működtetése, különös tekintettel az elszámolható költségek folyamatos ellenőrzésére, a számlák vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatok ellenőrzésére, a teljesítésigazolás, valamint a kifizetés engedélyezése előtti ellenőrzésekre;
 
 k) a felelősségi körébe tartozó, adott projektre vonatkozó kifizetéseknek az Európai Bizottság felé történő elszámoláshoz a költségnyilatkozatok projektenkénti összeállítása, hitelesítése és továbbítása az irányító hatóság felé;
 
@@ -40,21 +40,21 @@ q) számviteli nyilvántartás vezetése e rendelet 36–39. §-ai szerint;
 
 r) finanszírozási és ellenőrzési szabályzatok készítése, illetve azok, valamint módosításaik megküldése az irányító hatóság részére;
 
-s)[^36] gondoskodás az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően;
+s)[^38] gondoskodás az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően;
 
 t) az adatok folyamatos rögzítése és jóváhagyása a mindennapi tevékenység során az EMIR rendszerben projektenként és szerződésenként, valamint ebből a rendszerből nyert jelentések, illetve adatszolgáltatás eljuttatása a kifizető hatóság és az irányító hatóság részére;
 
-u)[^37] rendelkezés arról, hogy a folyamatba épített helyszíni ellenőrzést ellátó személy, illetve a Ptk. 685. §-ának b) pontja szerinti közeli hozzátartozója nem hagyhat jóvá kifizetést;
+u)[^39] rendelkezés arról, hogy a folyamatba épített helyszíni ellenőrzést ellátó személy, illetve a Ptk. 685. §-ának b) pontja szerinti közeli hozzátartozója nem hagyhat jóvá kifizetést;
 
-v)[^38] együttműködés a forrásgazdával a likviditáskezelési rendszer működtetésében;
+v)[^40] együttműködés a forrásgazdával a likviditáskezelési rendszer működtetésében;
 
-z)[^39] a 2. § (1) bekezdés 22. pont szerinti útmutatóban meghatározott rendben gondoskodás a forráslehívás kapcsolódó dokumentumainak forrásgazdához történő továbbításáról.
+z)[^41] a 2. § (1) bekezdés 22. pont szerinti útmutatóban meghatározott rendben gondoskodás a forráslehívás kapcsolódó dokumentumainak forrásgazdához történő továbbításáról.
 
 (3) A Kohéziós Alap közreműködő szervezet köteles a (2) bekezdésben meghatározott eljárásrendből fakadó kötelezettségeit a kedvezményezettel kötendő támogatási szerződésben érvényesíteni.
 
-[^34]: A 12. § (2) bekezdésének d) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^35]: A 12. § (2) bekezdésének j) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^36]: A 12. § (2) bekezdésének s) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^37]: A 12. § (2) bekezdésének u) pontja a 202/2006. (X. 5.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^38]: A 12. § (2) bekezdésének v) pontját a 202/2006. (X. 5.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^39]: A 12. § (2) bekezdésének z) pontját a 202/2006. (X. 5.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^36]: A 12. § (2) bekezdésének d) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^37]: A 12. § (2) bekezdésének j) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 12. § (2) bekezdésének s) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 12. § (2) bekezdésének u) pontja a 202/2006. (X. 5.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^40]: A 12. § (2) bekezdésének v) pontját a 202/2006. (X. 5.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^41]: A 12. § (2) bekezdésének z) pontját a 202/2006. (X. 5.) Korm. rendelet 7. § (2) bekezdése iktatta be.

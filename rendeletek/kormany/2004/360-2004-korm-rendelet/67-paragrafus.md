@@ -1,3 +1,4 @@
-## 66. § Az Európai Unió Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott intézkedések pénzügyi, számviteli és ellenőrzési lebonyolítási rendjéről szóló 92/2004. (IV. 27.) Korm. rendelet 6. §-a az alábbi (6) bekezdéssel egészül ki:
+## 66. §[^148] E rendeletnek az egyes fejlesztéspolitikai tárgyú kormányrendeletek módosításáról szóló 181/2010. (V. 13.) Korm. rendelet 1–4. §-ával megállapított 1. §-át, 3. § (1) bekezdését, 47. § (6) bekezdését, 65. § (6) és (8) bekezdését az egyes fejlesztéspolitikai tárgyú kormányrendeletek módosításáról szóló 181/2010. (V. 13.) Korm. rendelet hatálybalépésekor[^149] folyamatban lévő eljárásokban is alkalmazni kell.
 
-## „(6) A (bank)számlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetés terhére történik a Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére.”
+[^148]: A 66. § a 181/2010. (V. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^149]: A hatálybalépés időpontja: 2010. május 16.

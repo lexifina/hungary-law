@@ -24,6 +24,6 @@ j) rendelkezés arról, hogy a folyamatba épített helyszíni ellenőrzést ell
 
 k) a kedvezményezett által elkövetett szerződésszegésből és visszafizetési kötelezettséggel nyújtott támogatásokból eredő követelések kezelése;
 
-l)[^31] a kifizető hatóság felé küldendő hitelesítési jelentés összeállítása.
+l)[^33] a kifizető hatóság felé küldendő hitelesítési jelentés összeállítása.
 
-[^31]: A 8. § (2) bekezdésének l) pontját a 403/2007. (XII. 27.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 8. § (2) bekezdésének l) pontját a 403/2007. (XII. 27.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

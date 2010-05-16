@@ -38,6 +38,6 @@
 
 ## aláírás
 
-2. számú melléklet a 360/2004. (XII. 26.) Korm. rendelet 36. §-ához[^152]
+2. számú melléklet a 360/2004. (XII. 26.) Korm. rendelet 36. §-ához[^157]
 
-[^152]: A 2. számú mellékletet a 281/2006. (XII. 23.) Korm. rendelet 66. § (18) bekezdése iktatta be.
+[^157]: A 2. számú mellékletet a 281/2006. (XII. 23.) Korm. rendelet 66. § (18) bekezdése iktatta be.
