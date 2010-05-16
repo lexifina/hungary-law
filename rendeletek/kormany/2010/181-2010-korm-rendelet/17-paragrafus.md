@@ -1,0 +1,1 @@
+## „(8) A Magyar Államkincstár, az irányító hatóság vagy az irányító hatóság által megbízott szerv az általa végzett helyszíni ellenőrzésekről készített jegyzőkönyvet a tárgyhónapot követő hónap 20. napjáig megküldi az Igazoló Hatóság részére.”
