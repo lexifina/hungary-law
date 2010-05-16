@@ -32,7 +32,9 @@ n)[^6] reprezentációs ajándék: a LEADER HACS területéről származó helyi
 
 o)[^7] ÚMVP IV. tengely alapján jogosult települések: a 10 000 fő lakosságszámnál kevesebb vagy a 120 fő/km2-nél alacsonyabb népsűrűséggel rendelkező települések a Budapest agglomerációjához tartozó települések kivételével;
 
-p)[^8] vezető tisztségviselő: a LEADER HACS vagy a HVK önálló jogi személyiségű szervezet vezető testületének tagja, egyesület esetében az egyesület elnökségének, felügyelő bizottságának tagja, nonprofit gazdasági társaság esetében a felügyelő bizottság tagja, továbbá a közös tulajdonú üzletrész közös képviselője.
+p)[^8] vezető tisztségviselő: a LEADER HACS vagy a HVK önálló jogi személyiségű szervezet vezető testületének tagja, egyesület esetében az egyesület elnökségének, felügyelő bizottságának tagja, nonprofit gazdasági társaság esetében a felügyelő bizottság tagja, továbbá a közös tulajdonú üzletrész közös képviselője;
+
+q)[^9] üzemeltetési időszak: a támogatás keretében beszerzésre kerülő eszközök vonatkozásában az üzemeltetési kötelezettség a kifizetési kérelem benyújtásától számított öt évig tart.
 
 [^1]: Az 1. § d) pontja a 8/2009. (II. 4.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^2]: Az 1. § e) pontja a 8/2009. (II. 4.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
@@ -42,3 +44,4 @@ p)[^8] vezető tisztségviselő: a LEADER HACS vagy a HVK önálló jogi személ
 [^6]: Az 1. § n) pontját a 123/2009. (IX. 17.) FVM rendelet 1. § (2) bekezdése iktatta be.
 [^7]: Az 1. § o) pontját a 123/2009. (IX. 17.) FVM rendelet 1. § (2) bekezdése iktatta be.
 [^8]: Az 1. § p) pontját a 123/2009. (IX. 17.) FVM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § q) pontját a 70/2010. (V. 13.) FVM rendelet 12. §-a iktatta be.

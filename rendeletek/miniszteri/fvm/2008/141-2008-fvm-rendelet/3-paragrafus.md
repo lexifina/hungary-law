@@ -8,7 +8,7 @@ a) a HVS éves felülvizsgálatában való közreműködésre, valamint a HVS el
 
 b) irodahelyiség fenntartására a LEADER HACS vagy HVK által lefedett tervezési területen, az FVM rendelet alapján az adott tervezési területre elkészített HVS-ben foglaltak megvalósítása érdekében;
 
-c)[^9] a HVK és a LEADER HACS által a HVS megvalósítását támogató, az 5. számú melléklet szerinti adattartalmú, a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM) honlapján közzétett formanyomtatványon az IH által előzetesen jóváhagyott olyan szakmai tanulmányok, helyzetfeltáró elemzések készítésére, amelyek a LEADER HACS-ok és a HVK-k teljes területét vagy fejlesztési szempontból több stratégiai jelentőségű területét érintik, továbbá a meglévő tanulmányok, elemzések aktualizálására;
+c)[^10] a HVK és a LEADER HACS által a HVS megvalósítását támogató, az 5. számú melléklet szerinti adattartalmú, a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM) honlapján közzétett formanyomtatványon az IH által előzetesen jóváhagyott olyan szakmai tanulmányok, helyzetfeltáró elemzések készítésére, amelyek a LEADER HACS-ok és a HVK-k teljes területét vagy fejlesztési szempontból több stratégiai jelentőségű területét érintik, továbbá a meglévő tanulmányok, elemzések aktualizálására;
 
 d) a HVS végrehajtásában közreműködők felkészítésére, képzésére, továbbképzésére a támogatott intézkedések vonatkozásában;
 
@@ -24,11 +24,11 @@ i) a LEADER HACS-ok, valamint a HVK-k területén működő Helyi Vidékfejleszt
 
 j) az IH által közvetlenül a LEADER HACS, illetve a HVK számára az ÚMVP végrehajtása érdekében a munkatervben meghatározott feladatok elvégzésére;
 
-k)[^10] 2009. október 1-jétől az ÚMVP III. tengely szerinti, nem horizontális intézkedések, valamint a LEADER intézkedések keretében benyújtott támogatási és kifizetési kérelmek feldolgozásában, értékelésében való, az MVH-val kötött külön delegálási szerződés alapján történő közreműködésre;
+k)[^11] 2009. október 1-jétől az ÚMVP III. tengely szerinti, nem horizontális intézkedések, valamint a LEADER intézkedések keretében benyújtott támogatási és kifizetési kérelmek feldolgozásában, értékelésében való, az MVH-val kötött külön delegálási szerződés alapján történő közreműködésre;
 
-l)[^11] az ÚMVP végrehajtása, a HVS népszerűsítése, a LEADER HACS vagy a HVK népszerűsítése érdekében a LEADER HACS, valamint a HVK által a munkatervben meghatározott egyéb feladatok elvégzésére.
+l)[^12] az ÚMVP végrehajtása, a HVS népszerűsítése, a LEADER HACS vagy a HVK népszerűsítése érdekében a LEADER HACS, valamint a HVK által a munkatervben meghatározott egyéb feladatok elvégzésére.
 
-(2)[^12] Az (1) bekezdés b) és e) pontjában meghatározott feladat akkor minősül teljesítettnek, ha a LEADER HACS, illetve a HVK
+(2)[^13] Az (1) bekezdés b) és e) pontjában meghatározott feladat akkor minősül teljesítettnek, ha a LEADER HACS, illetve a HVK
 
 a) a területén az (1) bekezdés b) pontja szerinti, külön bejárattal rendelkező, legalább 20 m2 -es, önálló, vezetékes telefonnal, faxszal, valamint szélessávú internet kapcsolattal ellátott irodát üzemeltet, amely legalább heti 5 napon keresztül legalább napi 8 órában az ügyfelek rendelkezésére áll, és hetente legalább egy alkalommal, legalább 2 órával meghosszabbított nyitva tartással működik,
 
@@ -38,7 +38,7 @@ c) az ÚMVP támogatott intézkedései vonatkozásában 2009-től, a támogatás
 
 d) a végső kedvezményezettek tájékoztatása érdekében rendszeresen aktualizált honlapot működtet.
 
-(3)[^13] Az (1) bekezdés k) pontjában meghatározott feladatot a LEADER HACS vagy a HVK 2009. október 1-jétől akkor láthatja el, ha
+(3)[^14] Az (1) bekezdés k) pontjában meghatározott feladatot a LEADER HACS vagy a HVK 2009. október 1-jétől akkor láthatja el, ha
 
 a) a LEADER HACS legalább 1 fő szakmai, főállású munkaszervezet-vezetőt és legalább 2 fő főállású ügyintézőt alkalmaz,
 
@@ -46,14 +46,14 @@ b) a LEADER HACS által fenntartott iroda a (2) bekezdés a) pontjában megjelö
 
 c) a 2009. október 1-je után felvett munkatársak a 8. számú mellékletben szereplő személyi feltételeknek megfelelnek.
 
-(4)[^14] Az ÚMVP IV. tengely alapján nem jogosult településen a (2) bekezdés a) pontja szerinti iroda 2009. október 1-jétől az IH jóváhagyásával üzemeltethető.
+(4)[^15] Az ÚMVP IV. tengely alapján nem jogosult településen a (2) bekezdés a) pontja szerinti iroda 2009. október 1-jétől az IH jóváhagyásával üzemeltethető.
 
-(5)[^15] A (2) bekezdés b) pontja szerinti munkaszervezet-vezetői állást csak főállású munkatárs láthatja el, ezen feladat másodállásban nem végezhető.
+(5)[^16] A (2) bekezdés b) pontja szerinti munkaszervezet-vezetői állást csak főállású munkatárs láthatja el, ezen feladat másodállásban nem végezhető.
 
-[^9]: A 3. § (1) bekezdésének c) pontja a 123/2009. (IX. 17.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (1) bekezdésének k) pontját a 123/2009. (IX. 17.) FVM rendelet 2. § (2) bekezdése iktatta be.
-[^11]: A 3. § (1) bekezdésének l) pontját a 123/2009. (IX. 17.) FVM rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A 3. § (2) bekezdése a 123/2009. (IX. 17.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^13]: A 3. § (3) bekezdését a 123/2009. (IX. 17.) FVM rendelet 2. § (4) bekezdése iktatta be.
-[^14]: A 3. § (4) bekezdését a 123/2009. (IX. 17.) FVM rendelet 2. § (4) bekezdése iktatta be.
-[^15]: A 3. § (5) bekezdését a 123/2009. (IX. 17.) FVM rendelet 2. § (4) bekezdése iktatta be.
+[^10]: A 3. § (1) bekezdésének c) pontja a 123/2009. (IX. 17.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdésének k) pontját a 123/2009. (IX. 17.) FVM rendelet 2. § (2) bekezdése iktatta be.
+[^12]: A 3. § (1) bekezdésének l) pontját a 123/2009. (IX. 17.) FVM rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 3. § (2) bekezdése a 123/2009. (IX. 17.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § (3) bekezdését a 123/2009. (IX. 17.) FVM rendelet 2. § (4) bekezdése iktatta be.
+[^15]: A 3. § (4) bekezdését a 123/2009. (IX. 17.) FVM rendelet 2. § (4) bekezdése iktatta be.
+[^16]: A 3. § (5) bekezdését a 123/2009. (IX. 17.) FVM rendelet 2. § (4) bekezdése iktatta be.

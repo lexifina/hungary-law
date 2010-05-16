@@ -1,199 +1,351 @@
-## A 141/2008. (X. 30.) FVM rendelet alapján elszámolható,
+## A 141/2008. (X. 30.) FVM rendelet alapján elszámolható, működéshez kötődő dologi jellegű kiadások (SZJ03, TESZOR)
 
-## működéshez kötődő dologi jellegű kiadások (SZJ03)
+| SZJ 03 | Megnevezés | TEÁOR’08, TESZOR 08 | Megnevezés |
 
-| 2224 | Nyomdai előkészítő tevékenység |
+| 2211 | Könyvkiadás | 58.11 | Könyvkiadás |
 
-| 2211 | Könyvkiadás |
+| 2212 | Napilapkiadás | 58.13 | Napilapkiadás |
 
-| 2212 | Napilapkiadás |
+| 2213 | Időszaki kiadvány kiadása | 58.14 | Folyóirat, időszaki kiadvány kiadása |
 
-| 2213 | Időszaki kiadvány kiadása |
+| 2215 | Egyéb kiadás | 58.19 | Egyéb kiadói tevékenység |
 
-| 2215 | Egyéb kiadás |
+| 2222 | Máshova nem sorolt nyomás | 18.12 | Nyomás (kivéve: napilap) |
 
-| 2223 | Könyvkötés, kapcsolódó szolgáltatás |
+| 2223 | Könyvkötés | 18.14 | Könyvkötés, kapcsolódó szolgáltatás |
 
-| 2233 | Számítógépes adathordozó sokszorosítása |
+| 2224 | Nyomdai előkészítő tevékenység | 18.13 | Nyomdai előkészítő tevékenység |
 
-| 3001 | Irodagépgyártás |
+| 2225 | Kisegítő nyomdai tevékenység | 18.13.30 | Kisegítő nyomdai tevékenység |
 
-| 3002 | Számítógép, készülék gyártása |
+|  |  | 18.14 | Könyvkötés, kapcsolódó szolgáltatás |
 
-| 3612 | Irodabútor gyártása |
+| 3001 | Irodagépgyártás | 28.23.91 | Irodai, könyvelőgépekkel kapcsolatos ipari szolgáltatások (kivéve: a számítógép és perifériái) |
 
-| 3614 | Egyéb bútor gyártása |
+| 3002 | Számítógép, készülék gyártása | 26.20.91 | Számítógéppel és perifériás egységeivel kapcsolatos ipari szolgáltatás |
 
-| 4011 | Villamosenergia-termelés |
+| 3612 | Irodabútor gyártása | 3101 | Irodabútor gyártása |
 
-| 4013 | Villamosenergia-elosztás |
+| 3614 | Egyéb bútor gyártása | 3109 | Egyéb bútor gyártása |
 
-| 4022 | Gázelosztás |
+| 4011 | Villamosenergia-termelés | 35.11 | Villamosenergia-termelés |
 
-| 4030 | Gőz-, melegvízellátás |
+| 4013 | Villamosenergia-elosztás, -kereskedelem | 35.13 | Villamosenergia-elosztás |
 
-| 4100 | Víztermelés, -kezelés, -elosztás |
+|  |  | 35.14 | Villamosenergia-kereskedelem |
 
-| 5211 | Élelmiszer jellegű vegyes kiskereskedelem |
+| 4022 | Gázelosztás, -kereskedelem | 35.22; | Gáznemű fűtőanyagok vezetékes elosztása; |
 
-| 5212 | Iparcikk jellegű vegyes kiskereskedelem |
+|  |  | 35.23 | Gáz vezetékes kereskedelme |
 
-| 5221 | Zöldség-, gyümölcs-kiskereskedelem |
+| 4030 | Távfűtés | 35.30.12 | Gőz- és melegvíz-ellátás csővezetéken keresztül |
 
-| 5224 | Pékáru-, édesség-kiskereskedelem |
+| 4100 | Víztermelés, -kezelés, -elosztás | 36.00 | Víztermelés, -kezelés, -elosztás |
 
-| 5225 | Ital-kiskereskedelem |
+| 4522 | Tetőszerkezet-építés, tetőfedés, vízszigetelés | 43.91 | Tetőfedés, tetőszerkezet- építés |
 
-| 5227 | Egyéb élelmiszer-kiskereskedelem |
+|  |  | 43.99 | Egyéb speciális szaképítés m.n.s. |
 
-| 5241 | Textil-kiskereskedelem |
+| 4525 | Egyéb speciális szaképítés | 4221 | Folyadék szállítására szolgáló közmű építése |
 
-| 5244 | Bútor, háztartási cikk kiskereskedelme |
+|  |  | 43.99 | Egyéb speciális szaképítés m.n.s. |
 
-| 5245 | Elektromos háztartási cikk kiskereskedelem |
+|  |  | 439910 | Vízszigetelés |
 
-| 5247 | Könyv-, újság-, papíráru-kiskereskedelem |
+|  |  | 439920 | Állványozás |
 
-| 5248 | Egyéb, máshova nem sorolt iparcikk-kiskereskedelem |
+|  |  | 439930 | Cölöpverés, alapozás |
 
-| 5510 | Szállodai szolgáltatás |
+|  |  | 439940 | Betonozás |
 
-| 5523 | Egyéb szálláshely-szolgáltatás |
+|  |  | 439950 | Építmény acélszerkezetének felállítása |
 
-| 5530 | Étkezőhelyi vendéglátás |
+|  |  | 439960 | Kőművesmunkák, falazás |
 
-| 5551 | Munkahelyi étkeztetés |
+|  |  | 439970 | Előre gyártott építmények összeszerelése és felállítása |
 
-| 6010 | Vasúti szállítás |
+|  |  | 439990 | M.n.s. speciális szaképítés |
 
-| 6021 | Menetrendszerű egyéb szárazföldi személyszállítás |
+| 4531 | Villanyszerelés | 43.21 | Villanyszerelés |
 
-| 6022 | Taxis személyszállítás |
+| 4532 | Szigetelés | 43.29 | Egyéb épületgépészeti szerelés |
 
-| 6024 | Közúti teherszállítás |
+| 4533 | Víz-, gáz-, fűtésszerelés | 43.22 | Víz-,gáz-,fűtés-, légkondicionáló- szerelés |
 
-| 6321 | Egyéb, szárazföldi szállítást segítőtevékenység |
+| 4534 | Egyéb épületgépészeti szerelés | 43.21 | Villanyszerelés |
 
-| 6411 | Nemzeti postai tevékenység |
+|  |  | 43.29 | Egyéb épületgépészeti szerelés |
 
-| 6412 | Futárpostai tevékenység |
+| 4541 | Vakolás | 43.31 | Vakolás |
 
-| 6420 | Távközlés |
+| 4542 | Épületasztalos-szerkezet szerelése | 43.32 | Épületasztalos-szerkezet szerelése |
 
-| 6603 | Nem életbiztosítás |
+| 4543 | Padló-, falburkolás | 43.33 | Padló-, falburkolás |
 
-| 7020 | Ingatlan bérbeadása, üzemeltetése |
+| 4544 | Festés, üvegezés | 43.34 | Festés, üvegezés |
 
-| 7110 | Gépkocsikölcsönzés |
+| 4550 | Építési, bontási eszköz kölcsönzése személyzettel | 43.99 | Egyéb speciális szaképítés m.n.s. |
 
-| 7133 | Irodagép, számítógép kölcsönzése |
+| 5211 | Élelmiszer jellegű vegyes kiskereskedelem | 47.11 | Élelmiszer jellegű bolti vegyes kiskereskedelem |
 
-| 7210 | Hardver-szaktanácsadás |
+| 5212 | Iparcikk jellegű vegyes kiskereskedelem | 47.19 | Iparcikk jellegű bolti vegyes kiskereskedelem |
 
-| 7221 | Szoftverkiadás |
+| 5221 | Zöldség-, gyümölcs-kiskereskedelem | 47.21 | Zöldség, gyümölcs kiskereskedelme |
 
-| 7222 | Egyéb szoftver-szaktanácsadás, -ellátás |
+| 5224 | Pékáru-, édesség-kiskereskedelem | 47.24 | Kenyér-, pékáru-, édesség-kiskereskedelem |
 
-| 7230 | Adatfeldolgozás |
+| 5225 | Ital-kiskereskedelem | 47.25 | Ital-kiskereskedelem |
 
-| 7240 | Adatbázis-tevékenység, on-line kiadás |
+| 5227 | Egyéb élelmiszer-kiskereskedelem | 47.29 | Egyéb élelmiszer-kiskereskedelem |
 
-| 7250 | Irodagép-, számítógép-javítás |
+| 5241 | Textil-kiskereskedelem | 47.51 | Textil-kiskereskedelem |
 
-| 7260 | Egyéb számítástechnikai tevékenység |
+| 5244 | Bútor, háztartási cikk kiskereskedelme | 47.53 | Takaró, szőnyeg, fal-, padlóburkoló kiskereskedelme |
 
-| 7310 | Műszaki kutatás, fejlesztés |
+|  |  | 47.59 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 7320 | Humán kutatás, fejlesztés |
+| 5245 | Elektromos háztartási cikk kiskereskedelme | 47.43 | Audio-, videoberendezés kiskereskedelme |
 
-| 7411 | Jogi tevékenység |
+|  |  | 47.54 | Villamos háztartási készülék kiskereskedelme |
 
-| 7412 | Számviteli, adószakértői tevékenység |
+|  |  | 47.59 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 7413 | Piac-, közvélemény-kutatás |
+|  |  | 47.63 | Zene-, videofelvétel kiskereskedelme |
 
-| 7414 | Üzletviteli tanácsadás |
+| 5247 | Könyv-, újság-, papíráru-kiskereskedelem | 47.61 | Könyv-kiskereskedelem |
 
-| 7420 | Mérnöki tevékenység, tanácsadás |
+|  |  | 47.62 | Újság-, papíráru-kiskereskedelem |
 
-| 7440 | Hirdetés |
+| 5248 | Egyéb, máshova nem sorolt iparcikk-kiskereskedelem | 47.41 | Számítógép, periféria, szoftver kiskereskedelme |
 
-| 7450 | Munkaerő-közvetítés |
+|  |  | 47.42 | Telekommunikációs termék kiskereskedelme |
 
-| 7470 | Takarítás, tisztítás |
+|  |  | 47.53 | Takaró, szőnyeg, fal-, padlóburkoló kiskereskedelme |
 
-| 7481 | Fényképészet |
+|  |  | 47.59 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 7485 | Titkári, fordítói tevékenység |
+|  |  | 47.64 | Sportszer-kiskereskedelem |
 
-| 7487 | Máshova nem sorolt, egyéb gazdasági szolgáltatás |
+|  |  | 47.65 | Játék-kiskereskedelem |
 
-| 7511 | Általános közigazgatás |
+|  |  | 47.76 | Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme |
 
-| 7513 | Üzleti élet szabályozása |
+|  |  | 47.77 | Óra-, ékszer-kiskereskedelem |
 
-| 8010 | Alapfokú oktatás |
+| 5274 | Egyéb fogyasztási cikk javítása | 95.11.10 | Számítógép és -periféria javítása |
 
-| 8030 | Felsőfokú oktatás |
+|  |  | 95.12.10 | Kommunikációs eszköz javítása |
 
-| 8042 | Máshova nem sorolt felnőtt- és egyéb oktatás |
+|  |  | 95.29.19 | M.n.s. személyi-, háztartási cikk javítása |
 
-| 8541 | Felső szintű, nem felsőfokú oktatás |
+| 5510 | Szállodai szolgáltatás | 55.10 | Szállodai szolgáltatás |
 
-| 9001 | Szennyvíz gyűjtése, kezelése |
+| 5523 | Egyéb szálláshely-szolgáltatás | 5520 | Üdülési, egyéb átmeneti szálláshely-szolgáltatás |
 
-| 9002 | Hulladékkezelés |
+|  |  | 5590 | Egyéb szálláshely-szolgáltatás |
 
-| 9211 | Film-, videogyártás |
+| 5530 | Étkezőhelyi vendéglátás | 56.10 | Éttermi, mozgó vendéglátás |
 
-| 9212 | Film-, videoterjesztés |
+| 5551 | Munkahelyi étkeztetés | 56.29 | Egyéb vendéglátás |
 
-| 9220 | Rádió-, televízióműsor-szolgáltatás |
+| 6010 | Vasúti szállítás | 49.10 | Helyközi vasúti személyszállítás |
 
-| 9412 | Szakmai érdekképviselet |
+|  |  | 49.20 | Vasúti áruszállítás |
 
-## 2. táblázat
+|  |  | 52.21 | Szárazföldi szállítást kiegészítő szolgáltatás |
 
-| 2222 | Máshova nem sorolt nyomás |
+| 6021 | Menetrendszerű egyéb szárazföldi személyszállítás | 49.31 | Városi, elővárosi szárazföldi személyszállítás |
 
-| 2225 | Kisegítő nyomdai tevékenység |
+|  |  | 49.39 | M.n.s. egyéb szárazföldi személyszállítás |
 
-| 4522 | Tetőszerkezet-építés, tetőfedés, vízszigetelés |
+| 6022 | Taxis személyszállítás | 49.32 | Taxis személyszállítás |
 
-| 4525 | Egyéb speciális szaképítés |
+| 6023 | Egyéb szárazföldi személyszállítás | 49.39 | M.n.s. egyéb szárazföldi személyszállítás |
 
-| 4531 | Villanyszerelés |
+| 6024 | Közúti teherszállítás | 49.41 | Közúti áruszállítás |
 
-| 4532 | Szigetelés |
+|  |  | 49.42 | Költöztetés |
 
-| 4533 | Víz-, gáz-, fűtésszerelés |
+| 6210 | Menetrendszerű légi szállítás | 51.10 | Légi személyszállítás |
 
-| 4534 | Egyéb épületgépészeti szerelés |
+|  |  | 51.21 | Légi áruszállítás |
 
-| 4541 | Vakolás |
+| 6321 | Egyéb, szárazföldi szállítást segítő tevékenység | 52.21 | Szárazföldi szállítást kiegészítő szolgáltatás |
 
-| 4542 | Épületasztalos-szerkezet szerelése |
+| 6411 | Nemzeti postai tevékenység | 53.10 | Postai tevékenység (egyetemes kötelezettséggel |
 
-| 4543 | Padló-, falburkolás |
+| 6412 | Futárpostai tevékenység | 53.20 | Egyéb postai, futárpostai tevékenység |
 
-| 4544 | Festés, üvegezés |
+| 6420 | Távközlés | 61.10 | Vezetékes távközlés |
 
-| 4550 | Építési, bontási eszköz kölcsönzése személyzettel |
+|  |  | 61.20 | Vezeték nélküli távközlés |
 
-| 5274 | Egyéb fogyasztási cikk javítása |
+|  |  | 61.30 | Műholdas távközlés |
 
-| 6023 | Egyéb szárazföldi személyszállítás |
+|  |  | 61.90 | Egyéb távközlés |
 
-| 7121 | Egyéb szárazföldi jármű kölcsönzése |
+| 6603 | Nem életbiztosítás | 65.12 | Nem életbiztosítás |
 
-| 7460 | Biztonsági tevékenység |
+|  |  | 65.20 | Viszontbiztosítás |
 
-| 8512 | Egészségügyi alapellátás |
+| 7020 | Ingatlan bérbeadása, üzemeltetése | 68.20 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése |
 
-| 9112 | Szakmai érdekképviselet |
+| 7110 | Gépkocsikölcsönzés | 77.11 | Személygépjármű kölcsönzése |
 
-| 6210 | Menetrendszerű légi szállítás |
+| 7121 | Egyéb szárazföldi jármű kölcsönzése | 77.12 | Gépjárműkölcsönzés (3,5 tonna fölött) |
 
-3. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^55]
+|  |  | 77.39 | Egyéb gép, tárgyi eszköz kölcsönzése |
 
-[^55]: A 3. számú melléklet a 8/2009. (II. 4.) FVM rendelet 5. § (1) bekezdése, a 123/2009. (IX. 17.) FVM rendelet 8. § (2) bekezdése, a 21/2010. (III. 16.) FVM rendelet 22. § (2) bekezdése szerint módosított szöveg.
+| 7133 | Irodagép, számítógép kölcsönzése | 77.33 | Irodagép kölcsönzése (beleértve: számítógép) |
+
+| 7210 | Hardver-szaktanácsadás | 62.02 | Információ-technológiai szaktanácsadás |
+
+| 7221 | Szoftverkiadás | 58.29 | Egyéb szoftverkiadás |
+
+| 7222 | Egyéb szoftver-szaktanácsadás, -ellátás | 62.01 | Számítógépes programozás |
+
+|  |  | 62.02 | Információ-technológiai szaktanácsadás |
+
+|  |  | 62.09 | Egyéb információ-technológiai szolgáltatás |
+
+| 7230 | Adatfeldolgozás | 62.03 | Számítógép-üzemeltetés |
+
+|  |  | 63.11 | Adatfeldolgozás, web-hoszting szolgáltatás |
+
+| 7240 | Adatbázis-tevékenység, on-line kiadás | 58.11 | Könyvkiadás |
+
+|  |  | 5819 | Egyéb kiadói tevékenység |
+
+|  |  | 63.11 | Adatfeldolgozás, web-hoszting szolgáltatás |
+
+| 7250 | Irodagép-, számítógép-javítás | 33.12 | Ipari gép, berendezés javítása |
+
+|  |  | 95.11 | Számítógép, -periféria javítása |
+
+| 7260 | Egyéb számítástechnikai tevékenység | 62.09 | Egyéb információtechnológiai szolgáltatás |
+
+| 7310 | Műszaki kutatás, fejlesztés | 72.11 | Biotechnológiai kutatás, fejlesztés |
+
+|  |  | 72.19 | Egyéb természettudományi, műszaki kutatás, fejlesztés |
+
+|  |  | 72.20 | Társadalomtudományi, humán kutatás, fejlesztés |
+
+| 7320 | Humán kutatás, fejlesztés | 72.20 | Társadalmomtudományi, humán kutatás, fejlesztés |
+
+| 7411 | Jogi tevékenység | 69.10 | Jogi tevékenység |
+
+| 7412 | Számviteli, adószakértői tevékenység | 69.20 | Számviteli, könyvvizsgálói, adószakértői tevékenység |
+
+| 7413 | Piac-, közvélemény-kutatás | 73.20 | Piac-, közvélemény kutatás |
+
+| 7414 | Üzletviteli tanácsadás | 70.21 | PR, kommunikáció |
+
+|  |  | 70.22 | Üzletviteli, egyéb vezetési tanácsadás |
+
+|  |  | 74.90 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+
+|  |  | 85.60 | Oktatást kiegészítő tevékenység |
+
+| 7420 | Mérnöki tevékenység, tanácsadás | 71.11 | Építészmérnöki tevékenység |
+
+|  |  | 71.12 | Mérnöki tevékenység, műszaki tanácsadás |
+
+|  |  | 74.90 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+
+| 7440 | Hirdetés | 73.11 | Reklámügynöki tevékenység |
+
+|  |  | 73.12 | Médiareklám |
+
+| 7450 | Munkaerő-közvetítés | 78.10 | Munkaközvetítés |
+
+|  |  | 78.20 | Munkaerőkölcsönzés |
+
+|  |  | 78.30 | Egyéb emberierőforrás-ellátás, -gazdálkodás |
+
+| 7470 | Takarítás, tisztítás | 81.21 | Általános épülettakarítás |
+
+|  |  | 81.22 | Egyéb épület-, ipari takarítás |
+
+|  |  | 81.29 | Egyéb takarítás |
+
+| 7481 | Fényképészet | 74.20 | Fényképészet |
+
+| 7485 | Titkári, fordítói tevékenység | 74.30 | Fordítás, tolmácsolás |
+
+|  |  | 82.11 | Összetett adminisztratív szolgáltatás |
+
+|  |  | 82.19 | Fénymásolás, egyéb irodai szolgáltatás |
+
+|  |  | 82.99 | Egyéb m. n. s. kiegészítő üzleti szolgáltatás |
+
+| 7487 | Máshova nem sorolt, egyéb gazdasági szolgáltatás | 63.99 | M.n.s. egyéb információs szolgáltatás |
+
+|  |  | 74.10 | Divat-, formatervezés |
+
+|  |  | 74.90 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+
+|  |  | 77.40 | Immateriális javak kölcsönzése |
+
+|  |  | 82.30 | Konferencia, kereskedelmi bemutató szervezése |
+
+|  |  | 82.91 | Követelésbehajtás |
+
+|  |  | 82.99 | M.n.s. egyéb kiegészítő üzleti szolgáltatás |
+
+| 7511 | Általános közigazgatás | 84.11 | Általános közigazgatás |
+
+| 7513 | Üzleti élet szabályozása | 84.13 | Üzleti élet szabályozása, hatékonyságának ösztönzése |
+
+| 8010 | Alapfokú oktatás | 85.10 | Iskolai előkészítő oktatás |
+
+|  |  | 85.20 | Alapfokú oktatás |
+
+|  |  | 85.31 | Általános középfokú oktatás |
+
+| 8042 | Máshova nem sorolt felnőtt- és egyéb oktatás | 85.32 | Szakmai középfokú oktatás |
+
+|  |  | 85.51 | Sport, szabadidős képzés |
+
+|  |  | 85.52 | Kulturális képzés |
+
+|  |  | 85.59 | M.n.s. egyéb oktatás |
+
+| 8512 | Járóbeteg-ellátás | 86.21 | Általános járóbeteg-ellátás |
+
+|  |  | 86.22 | Szakorvosi járóbeteg-ellátás |
+
+| 9001 | Szennyvíz gyűjtése, kezelése | 37.00 | Szennyvíz gyűjtése, kezelése |
+
+| 9002 | Hulladékgyűjtés, -kezelés | 38.11 | Nem veszélyes hulladék gyűjtése |
+
+|  |  | 38.12 | Veszélyes hulladék gyűjtése |
+
+|  |  | 38.21 | Nem veszélyes hulladék kezelése, ártalmatlanítása |
+
+|  |  | 38.22 | Veszélyes hulladék kezelése, ártalmatlanítása |
+
+|  |  | 38.32 | Hulladék újrahasznosítása |
+
+| 9112 | Szakmai érdekképviselet | 94.12 | Szakmai érdekképviselet |
+
+| 9211 | Film-, videogyártás | 59.11 | Film-, video-, televízió-gyártás |
+
+|  |  | 59.12 | Film-, videogyártás, televíziós műsorfelvétel utómunkálatai |
+
+|  |  | 59.20 | Hangfelvétel készítése, kiadása |
+
+|  |  | 59.13 | Film-, video- és televízióprogram terjesztése |
+
+| 9212 | Film-, videoterjesztés | 59.13 | Film-, video-, televízióprogram terjesztése |
+
+| 9220 | Rádió-, televízióműsor-szolgáltatás | 59.11 | Film-, video-, televízióműsor-gyártás |
+
+|  |  | 59.20 | Hangfelvétel készítése, kiadása |
+
+|  |  | 60.10 | Rádióműsor-szolgáltatás |
+
+|  |  | 60.20 | Televízióműsor összeállítása, szolgáltatása |
+
+3. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^58]
+
+[^58]: A 3. számú melléklet a 8/2009. (II. 4.) FVM rendelet 5. § (1) bekezdése, a 123/2009. (IX. 17.) FVM rendelet 8. § (2) bekezdése, a 21/2010. (III. 16.) FVM rendelet 22. § (2) bekezdése szerint módosított szöveg.

@@ -494,6 +494,6 @@
 
 | 9617 | Hőpalack és egyéb vákuumos edény tokkal együtt; ezek alkatrésze, az üvegbetét kivételével |
 
-4. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^56]
+4. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^59]
 
-[^56]: A 4. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^59]: A 4. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
