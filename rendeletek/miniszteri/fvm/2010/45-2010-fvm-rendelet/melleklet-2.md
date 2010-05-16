@@ -46,4 +46,6 @@
 
 ## 5.2. MgSzH területi szervének megnevezése, az ügyirat iktatószáma, keltezés, igazgató főállatorvos aláírása
 
-2. melléklet a 45/2010. (IV. 23.) FVM rendelethez
+2. melléklet a 45/2010. (IV. 23.) FVM rendelethez[^2]
+
+[^2]: A 2. melléklet a 70/2010. (V. 13.) FVM rendelet 17. § (2) és (3) bekezdése szerint módosított szöveg.

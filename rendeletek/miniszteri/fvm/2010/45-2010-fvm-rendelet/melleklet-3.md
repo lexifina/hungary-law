@@ -74,9 +74,9 @@
 
 | 9. | a baromfiban és a vadon élő madarakban előforduló madárinfluenza | 9.1. laboratóriumi vizsgálatok elvégzésének költségei |  |
 
-| 10. | fertőző szivacsos agyvelőbántalmak (TSE): szarvasmarhák szivacsos agyvelőbántalma (BSE) és surlókór | 10.1. gyorstesztek szarvasmarhák esetén gyorstesztek és elsődleges molekuláris vizsgálatok költségei |  |
+| 10. | fertőző szivacsos agyvelőbántalmak (TSE): szarvasmarhák szivacsos agyvelőbántalma (BSE) és surlókór | 10.1. gyorstesztek költségei szarvasmarhák esetén |  |
 
-| 10.2. gyorstesztek juhok és kecskék esetén genotípus vizsgálatok költségei |  |
+| 10.2. gyorstesztek költségei juhok és kecskék esetén |  |
 
 | 10.3. megerősítő és elsődleges molekuláris vizsgálatok költségei |  |
 

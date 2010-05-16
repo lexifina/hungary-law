@@ -32,7 +32,7 @@ c) a naptári negyedévre vonatkozóan egy alkalommal, a tárgynegyedévet köve
 
 ca) a (2) bekezdés b) pontja esetében az első negyedévre vonatkozóan 2010. május 31-ig,
 
-cb) a (2) bekezdés c) pontja esetében az első és második negyedévre vonatkozóan együttesen 2010. augusztus 30-ig a tárgyidőszakban az oltóanyag beszerzésének költségeit igazoló bizonylatok (számlák, kifizetést igazoló bizonylatok) és az oltóanyag felhasználását igazoló bizonylatok másolati példányai mellett
+cb)[^1] a (2) bekezdés c) pontja esetében az első és második negyedévre vonatkozóan együttesen 2010. augusztus 20. és 30. között a tárgyidőszakban az oltóanyag beszerzésének költségeit igazoló bizonylatok (számlák, kifizetést igazoló bizonylatok) és az oltóanyag felhasználását igazoló bizonylatok másolati példányai mellett
 
 az MgSZH által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalommal rendelkező kérelmet benyújtja a telephely szerint illetékes MgSzH-hoz.
 
@@ -59,3 +59,5 @@ h) egy adag oltóanyag beszerzésére adagonként a 0,1 EUR
 összeget.
 
 (6) Az MgSzH-nak a pénzügyi hozzájárulás kifizetése iránti kérelméhez csatolni kell a tárgyidőszakban a kapcsolódó költségeket igazoló bizonylatokról készült, a 3. melléklet szerinti adattartalmú összesítő kimutatást.
+
+[^1]: A 10. § (3) bekezdés c) pont cb) alpontja a 70/2010. (V. 13.) FVM rendelet 17. § (1) bekezdése szerint módosított szöveg.
