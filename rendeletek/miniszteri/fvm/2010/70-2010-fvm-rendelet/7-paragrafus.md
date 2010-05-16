@@ -1,0 +1,1 @@
+## „(9) Új HVI címbirtokos szervezet kiválasztása esetén az első kifizetési kérelemben az IH által kiadott elismerő okiratban szereplő jogosultság megszerzésének napja és a kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző nap közötti időszakban felmerülő költségek számolhatók el.”
