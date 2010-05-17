@@ -1,0 +1,1 @@
+## 4. § Hatályát veszti a büntetés-végrehajtási szervezet katonai nyomozó hatóságairól és a bűncselekmények parancsnoki nyomozásáról szóló 16/2003. (VI. 20.) IM rendelet 20. § (2) bekezdése, 27. §-át megelőző alcíme és 27. §-a.

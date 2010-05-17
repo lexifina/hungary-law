@@ -1,0 +1,1 @@
+## 1. § A büntetés-végrehajtási szervezet Szolgálati Szabályzatáról szóló 21/1997. (VII. 8.) IM rendelet 14. § (1) bekezdés b) pontjában a „szolgálati titkot” szövegrész helyébe a „minősített adat védelmére vonatkozó követelményeket” szöveg, 14. § (1) bekezdés d) pontjában az „az államtitokra és szolgálati titokra” szövegrész helyébe az „a minősített adat védelmére” szöveg lép.
