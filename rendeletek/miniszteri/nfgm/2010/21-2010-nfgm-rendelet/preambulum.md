@@ -1,0 +1,1 @@
+A kereskedelemről szóló 2005. évi CLXIV. törvény 12. §-a (2) bekezdésének a) pontjában foglalt felhatalmazás alapján – a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. §-ának b) és c) pontjában foglalt feladatkörben eljárva – a következőket rendelem el:
