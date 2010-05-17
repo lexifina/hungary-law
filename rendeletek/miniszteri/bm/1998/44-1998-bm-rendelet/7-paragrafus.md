@@ -10,10 +10,10 @@
 
 (5) A futár továbbhaladását feladata végrehajtásához forgalomkorlátozás és területlezárás esetén is biztosítani kell, kivéve, ha a korlátozás olyan okból történik, amely miatt minden forgalom szünetel, vagy az áthaladás aránytalan kockázattal jár. A futár szolgálati járműve várakozására a korlátozott várakozási övezetben lévő, illetve díjköteles várakozó-(parkoló-)helyeket térítésmentesen használhatja.
 
-(6)[^8] A Rendőrség, a Tűzoltóság és a Polgári Védelem szervei kötelesek tőlük elvárható segítséget nyújtani a veszélybe került vagy feladata végrehajtása érdekében segítségre szoruló futárnak.
+(6)[^10] A Rendőrség, a Tűzoltóság és a Polgári Védelem szervei kötelesek tőlük elvárható segítséget nyújtani a veszélybe került vagy feladata végrehajtása érdekében segítségre szoruló futárnak.
 
 (7) A futár szolgálata teljesítése során a futárszolgálat vezetője által a nevére kiállított futárigazolvánnyal igazolja magát, amely a rendőrségi szolgálati igazolvánnyal együtt érvényes.
 
 (8) A futár futárigazolványa felmutatásával a bekapcsolt szerv épületébe és az ahhoz tartozó zárt helyre beléphet, valamint jogosult a bekapcsolt szerv rendelkezésére álló parkolóhely használatára.
 
-[^8]: A 7. § (6) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 11. pontja szerint módosított szöveg.
+[^10]: A 7. § (6) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 11. pontja szerint módosított szöveg.

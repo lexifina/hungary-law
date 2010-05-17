@@ -1,3 +1,3 @@
-## 20/A. §[^18] Az államtitokról és szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-ában meghatározott külföldi minősítéssel és jelöléssel ellátott küldemények (a továbbiakban: külföldi minősítésű küldemények) a nemzetközi szerződés alapján átvett, vagy nemzetközi kötelezettségvállalás alapján készült minősített adat védelmének eljárási szabályairól szóló 179/2003. (XI. 5.) Korm. rendeletben foglaltak alkalmazásával továbbíthatók a futárszolgálattal.
+## 20/A. §[^28]
 
-[^18]: A 20/A. § a 39/2004. (VI. 29.) BM rendelet 5. §-ával megállapított szöveg.
+[^28]: A 20/A. §-t a 35/2010. (V. 12.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.

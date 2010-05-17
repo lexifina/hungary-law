@@ -1,3 +1,3 @@
-## A külföldi minősítéssel és jelöléssel ellátott adatokat tartalmazó küldemények továbbításának különös szabályai[^17]
+## A külföldi minősítéssel és jelöléssel ellátott adatokat tartalmazó küldemények továbbításának különös szabályai[^27]
 
-[^17]: A 20/A. §-t megelőző alcím a 39/2004. (VI. 29.) BM rendelet 5. §-ával megállapított szöveg.
+[^27]: A 20/A. §-t megelőző alcím a 39/2004. (VI. 29.) BM rendelet 5. §-ával megállapított szöveg.
