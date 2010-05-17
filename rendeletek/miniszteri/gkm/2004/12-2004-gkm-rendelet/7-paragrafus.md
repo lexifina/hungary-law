@@ -92,7 +92,7 @@ Cseppfolyós propán-bután gázok és ezek elegyeinek tartályban vagy palackba
 
 | 5. | Nyomástartó berendezés kezelése, vizsgálata (tartályvizsgáló) | Szakirányú felsőfokú vagy középfokú szakképesítés és a 23/2006. (II. 3.) Korm. rendelet 3. § 29. pontja szerinti vizsga | 1 év |
 
-| 6. | Propán-bután cseretelep kezelő (több mint 3000 kg tömegű propán-butángáznak cseretelepen történő együttes tárolása esetén) | A vonatkozó OKJ szerinti szakképesítés |  |
+| 6. |  |  |  |
 
 [^9]: A 7. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 187. pontja hatályon kívül helyezte.
-[^10]: A melléklet a 86/2007. (X. 31.) GKM rendelet 4. §-ával megállapított, valamint a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének c) pontja szerint módosított szöveg. A 2010. január 2. napján az ez utóbbi módosító rendelet szerinti jelentős munkakört betöltő munkavállaló – figyelemmel a 4. § (2) bekezdésére – munkakörében változatlan feltételekkel tovább foglalkoztatható.
+[^10]: A melléklet a 86/2007. (X. 31.) GKM rendelet 4. §-ával megállapított, valamint a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének c) pontja, a 21/2010. (V. 14.) NFGM rendelet 3. § (2) bekezdés d) pontja szerint módosított szöveg.
