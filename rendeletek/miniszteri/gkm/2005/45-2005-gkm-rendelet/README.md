@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-45-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-21 | 2005-45-20-0L.6 | 45/2005. (VI. 23.) GKM rendelet |
+| 2010-05-17 | 2005-45-20-0L.7 | 39/2010. (V. 7.) KHEM rendelet |

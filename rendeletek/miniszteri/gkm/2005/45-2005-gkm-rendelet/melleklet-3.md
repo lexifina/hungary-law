@@ -1,6 +1,6 @@
 ## 1. Az NKH Magyar Államkincstár számlaszáma: 10032000-00289926-00000000.
 
-## 2. A Vám- és Pénzügyőrség Magyar Államkincstár számlaszáma: 10023002–01454062 VPOP költségbevételi számla (VPOP PGF kezelésében).
+## 2. A Vám- és Pénzügyőrség Magyar Államkincstár számlaszáma: 10032000-01037241-00000000 VPOP vám- és bírság, kamat bevételi számla.
 
 ## 3.
 
@@ -52,11 +52,11 @@
 
 | Országos Rendőr-főkapitányság | 10023002-01451722-00000000 |
 
-## 5. Az Országos Munkavédelmi és Munkaügyi Főfelügyelőség Magyar Államkincstár számlaszáma: 10032000- 01743496-00000000
+## 5. Az Országos Munkavédelmi és Munkaügyi Főfelügyelőség Magyar Államkincstár számlaszáma: 10032000-01743496-00000000
 
-## 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002- 00283494-00000000
+## 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla
 
-3. melléklet a 45/2005. (VI. 23.) GKM rendelethez[^30]
+3. melléklet a 45/2005. (VI. 23.) GKM rendelethez[^26]
 
 Írásbeli tájékoztatás
 
@@ -68,7 +68,7 @@
 
 a) a bírság kivetésének alapját képező jogszabályi rendelkezés,
 
-b)[^31] az elsőfokú határozat fellebbezésre tekintet nélküli végrehajtása,
+b)[^27] az elsőfokú határozat fellebbezésre tekintet nélküli végrehajtása,
 
 c) a kivetett bírság összege,
 
@@ -112,5 +112,5 @@ a) a kiállító hatóság megnevezése, bélyegző lenyomata, a kiállító al�
 
 b) a járművezető által történő átvételt igazoló záradék, a járművezető aláírása.
 
-[^30]: A 3. mellékletet a 41/2007. (IV. 4.) GKM rendelet 7. § (2) bekezdése iktatta be.
-[^31]: A 3. melléklet 3. pont b) alpontja az 56/2009. (X. 20.) KHEM rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2009. október 21. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 3. mellékletet a 41/2007. (IV. 4.) GKM rendelet 7. § (2) bekezdése iktatta be.
+[^27]: A 3. melléklet 3. pont b) alpontja az 56/2009. (X. 20.) KHEM rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2009. október 21. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
