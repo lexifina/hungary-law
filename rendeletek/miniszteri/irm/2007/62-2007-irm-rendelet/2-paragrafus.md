@@ -42,8 +42,9 @@ a)[^1] gazdasági (közgazdasági, anyagi, ruházati, műszaki és információ 
 
 b) humánigazgatási (személyügyi, fegyelmi, egészségügyi és pszichológiai, nyugdíj-megállapítási, oktatási, kiképzési, szervezési) szakszolgálat,
 
-c) hivatali (titkársági, adat- és titokvédelmi, ügykezelési, nemzetközi, elemző-értékelő, stratégiai tervező, minőségügyi és innovációs, jogi, sajtó) szakszolgálat,
+c)[^2] hivatali (titkársági, adatvédelmi, ügykezelési, nemzetközi, elemző-értékelő, stratégiai tervező, minőségügyi és innovációs, jogi, sajtó) szakszolgálat,
 
 d) ellenőrzési szakszolgálat.
 
 [^1]: A 2. § (5) bekezdés a) pontja a 12/2009. (IV. 30.) IRM rendelet 52. § (8) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (5) bekezdés c) pontja a 35/2010. (V. 12.) IRM rendelet 5. §-a szerint módosított szöveg.

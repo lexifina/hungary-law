@@ -1,4 +1,4 @@
-19. § (1)[^3] A határátkelőhely rendjét a határrendészeti kirendeltség, illetve ennek hiányában a rendőrkapitányság állapítja meg, amelyet írásban kell rögzíteni, és az illetékes rendőrfőkapitány hagyja jóvá.
+19. § (1)[^5] A határátkelőhely rendjét a határrendészeti kirendeltség, illetve ennek hiányában a rendőrkapitányság állapítja meg, amelyet írásban kell rögzíteni, és az illetékes rendőrfőkapitány hagyja jóvá.
 
 (2) A határátkelőhely rendje tartalmazza:
 
@@ -22,4 +22,4 @@ i) az előállított, elfogott személy határátkelőhelyen történő biztons�
 
 (3) A határátkelőhely rendjére vonatkozó szabályokat, a határátkelőhelyen, magyar és angol nyelven, valamint a szomszéd ország hivatalos nyelvén, mindenki számára jól látható helyen el kell helyezni.
 
-[^3]: A 19. § (1) bekezdése az 51/2009. (IX. 30.) IRM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 19. § (1) bekezdése az 51/2009. (IX. 30.) IRM rendelet 5. § (3) bekezdése szerint módosított szöveg.
