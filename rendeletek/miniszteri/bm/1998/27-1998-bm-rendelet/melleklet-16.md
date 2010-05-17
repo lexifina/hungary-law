@@ -112,7 +112,7 @@
 
 | év, hó, nap | óra | perc |
 
-## 13. számú függelék[^67]
+## 13. számú függelék[^68]
 
 ## IGAZSÁGÜGYI ÉS RENDÉSZETI MINISZTÉRIUM
 
@@ -586,7 +586,7 @@ Függelék: statisztika
 
 aláírás
 
-17. számú függelék[^68]
+17. számú függelék[^69]
 
 A FEGYVERES BIZTONSÁGI ŐR SZOLGÁLATI IGAZOLVÁNYA
 
@@ -642,7 +642,7 @@ Sorszám
 
 VISSZAVONÁSIG ÉRVÉNYES!
 
-17/a) függelék[^69]
+17/a) függelék[^70]
 
 18. számú függelék
 
@@ -656,6 +656,6 @@ A pajzs alján aranyszínű téglalap, mely szalagmintában folytatódik. A 22 X
 
 A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
 
-[^67]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
-[^68]: A melléklet 17. számú függeléke a 31/1998. (VII. 10.) BM rendelet 2. §-ával, valamint 1. számú függelékével megállapított szöveg.
-[^69]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.
+[^68]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^69]: A melléklet 17. számú függeléke a 31/1998. (VII. 10.) BM rendelet 2. §-ával, valamint 1. számú függelékével megállapított szöveg.
+[^70]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.

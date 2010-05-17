@@ -284,7 +284,7 @@
 
 ## c) felelősséget érez őrtársai iránt, segíti, egyben visszatartja őket a jogsértő cselekedetektől;
 
-## d) éber, minden körülmények között megőrzi az államtitkot, a szolgálati, az üzleti és magántitkot, betartja a személyes adatok kezelésére vonatkozó jogszabályi előírásokat;
+## d)[^30] éber, minden körülmények között megőrzi üzleti és magántitkot, valamint betartja a minősített adat védelmére vonatkozó követelményeket és a személyes adatok kezelésére vonatkozó jogszabályi előírásokat;
 
 ## e) kötelmeit e Szabályzat szellemében teljesíti;
 
@@ -294,7 +294,7 @@
 
 ## h) a szolgálati feladatát fegyelmezetten végzi, mindenkor betartja a szolgálati utasításokat;
 
-## i)[^30] engedelmeskedik elöljáróinak, vezetőinek, illetve az őrség irányítására jogosult személyeknek, segíti őket a feladatok végrehajtásában, a fegyelem fenntartásában;
+## i)[^31] engedelmeskedik elöljáróinak, vezetőinek, illetve az őrség irányítására jogosult személyeknek, segíti őket a feladatok végrehajtásában, a fegyelem fenntartásában;
 
 ## j) szeszes italtól befolyásolt, illetve bármilyen okból bódult állapotban szolgálatot nem teljesíthet és szolgálatba nem osztható be. Aki szolgálatát önhibájából nem tudja ellátni, felelősségre kell vonni.
 
@@ -316,7 +316,7 @@
 
 ## Az őrségparancsnok
 
-## 20. § (1)[^31] Az őrség parancsnoka az 5. §-ban meghatározott vezetőnek, illetve az őrség irányítására jogosult beosztottjának van alárendelve. Az őrség parancsnoka elöljárója az őrség teljes személyi állományának.
+## 20. § (1)[^32] Az őrség parancsnoka az 5. §-ban meghatározott vezetőnek, illetve az őrség irányítására jogosult beosztottjának van alárendelve. Az őrség parancsnoka elöljárója az őrség teljes személyi állományának.
 
 ## (2) Az őrségparancsnok felelős az őrségre bízott javak őrzéséért, védelméért, az őrség állományának harckészültségéért, kiképzéséért, fegyelméért, az őrszolgálat szabályos ellátásáért, a híradó és jelzőeszközök üzemképességéért, az őrség elhelyezési körletének belső rendjéért, a fegyver és lőszer biztonságos tárolásáért, a rendőrségi felügyelet gyakorlásához szükséges feltételek biztosításáért.
 
@@ -360,11 +360,11 @@
 
 ## Az őrségparancsnok-helyettes
 
-## 22. §[^32] Az őrségparancsnok-helyettes az őrségparancsnok, illetve az őrség irányítására jogosult személy utasításai szerint végzi feladatát. Az őrség személyi állományának elöljárója. Az őrségparancsnok távollétében – a személyzeti jogkör kivételével – az őrségparancsnok jogkörében jár el, illetőleg feladatait végzi.
+## 22. §[^33] Az őrségparancsnok-helyettes az őrségparancsnok, illetve az őrség irányítására jogosult személy utasításai szerint végzi feladatát. Az őrség személyi állományának elöljárója. Az őrségparancsnok távollétében – a személyzeti jogkör kivételével – az őrségparancsnok jogkörében jár el, illetőleg feladatait végzi.
 
 ## Az őrparancsnok (őrségparancsnok-helyettes)
 
-## 23. § (1)[^33] Az őrparancsnok az őrségparancsnoknak van közvetlen alárendelve, elöljárója a parancsnoksága alatt szolgálatba vezényelt állománynak. Felelős a rábízott javak őrzéséért, védelméért, az őrség szolgálatellátásáért, az őrség elhelyezési körletének rendjéért, a híradó és jelzőeszközök üzemképességének megóvásáért, a berendezési tárgyak meglétéért, épségéért.
+## 23. § (1)[^34] Az őrparancsnok az őrségparancsnoknak van közvetlen alárendelve, elöljárója a parancsnoksága alatt szolgálatba vezényelt állománynak. Felelős a rábízott javak őrzéséért, védelméért, az őrség szolgálatellátásáért, az őrség elhelyezési körletének rendjéért, a híradó és jelzőeszközök üzemképességének megóvásáért, a berendezési tárgyak meglétéért, épségéért.
 
 ## (2) Az őrparancsnok:
 
@@ -392,7 +392,7 @@
 
 ## l) szolgálati ideje alatt a felállított őröket és járőröket a technikai eszköz útján többször, személyesen legalább 4 óránként egy-egy alkalommal ellenőrzi vagy helyettesével ellenőrizteti.
 
-## 24. §[^34] Az őrparancsnok csak az elöljárókat, az őrség irányítására jogosult személyeket, valamint az általuk nyílt paranccsal ellenőrzésre feljogosított személyeket engedi be az őrség elhelyezési körletébe. Ezt megelőzően, ha az érkezőket személyesen nem ismeri, kéri a nyílt parancsot és a személyazonosságukat igazoló okmányt.
+## 24. §[^35] Az őrparancsnok csak az elöljárókat, az őrség irányítására jogosult személyeket, valamint az általuk nyílt paranccsal ellenőrzésre feljogosított személyeket engedi be az őrség elhelyezési körletébe. Ezt megelőzően, ha az érkezőket személyesen nem ismeri, kéri a nyílt parancsot és a személyazonosságukat igazoló okmányt.
 
 ## 25. § (1) Az őrparancsnok a különleges létesítmény őrzése esetén a létesítményhez személyek érkezése során:
 
@@ -416,7 +416,7 @@
 
 ## A felvezető (őrparancsnok-helyettes)
 
-## 26. § (1)[^35] A felvezető – ha az őrségnél az őrparancsnoki beosztást létrehozták – az őrparancsnoknak van közvetlen alárendelve, feladatát az őrparancsnok határozza meg. A felvezető elöljárója a parancsnoksága alatt szolgálatba vezényelt állománynak. Felelős az alárendelt őrök felvezetéséért és időben történő leváltásukért, az őrhelyek szabályos átadás-átvételéért.
+## 26. § (1)[^36] A felvezető – ha az őrségnél az őrparancsnoki beosztást létrehozták – az őrparancsnoknak van közvetlen alárendelve, feladatát az őrparancsnok határozza meg. A felvezető elöljárója a parancsnoksága alatt szolgálatba vezényelt állománynak. Felelős az alárendelt őrök felvezetéséért és időben történő leváltásukért, az őrhelyek szabályos átadás-átvételéért.
 
 ## (2) A felvezető:
 
@@ -432,21 +432,21 @@
 
 ## f) idejében vezeti fel a váltást, ellenőrzi az őrhely átadás-átvételét, a pecsétek (ólomzárak) sértetlenségét, a technikai eszközök használhatóságát;
 
-## g)[^36] minden váltás után jelenti az elöljárójának a váltás megtörténtét, az őrhelyek állapotát, az észlelt hiányosságokat és a megszüntetésre tett intézkedéseket,
+## g)[^37] minden váltás után jelenti az elöljárójának a váltás megtörténtét, az őrhelyek állapotát, az észlelt hiányosságokat és a megszüntetésre tett intézkedéseket,
 
-## h)[^37] az elöljárója, illetve az őrség irányítására jogosult személy utasítására ellenőrzi az őrök szolgálatellátását;
+## h)[^38] az elöljárója, illetve az őrség irányítására jogosult személy utasítására ellenőrzi az őrök szolgálatellátását;
 
 ## i) mint készültségi ügyeletes szükség esetén leváltja – pihenőjük idejére –, helyettesíti az őröket.
 
 ## A felállított őr
 
-## 27. § (1)[^38] A felállított őr – amennyiben az őrségnél az őrparancsnoki, illetve a felvezetői beosztást létrehozták – az őrparancsnoknak és a felvezetőnek van közvetlen alárendelve.
+## 27. § (1)[^39] A felállított őr – amennyiben az őrségnél az őrparancsnoki, illetve a felvezetői beosztást létrehozták – az őrparancsnoknak és a felvezetőnek van közvetlen alárendelve.
 
 ## (2) A felállított őr az őrhelyén őrzési feladatot lát el. Őrhelyét, mozgási körletét – leváltásának esetét kivéve – még akkor sem hagyhatja el, ha testi épségét veszély fenyegeti.
 
 ## (3) A felállított őrnek az őrhelyére vonatkozó feladatát az őrutasítás, őrhelytáblázat és az őrhelyvázlat tartalmazza.
 
-## (4)[^39] Amikor az új felállított őr átveszi az őrhelyét, a felvezető, illetve a régi őr jelenlétében személyesen győződjön meg mindazoknak teljességéről és hiánytalanságáról, amit az őrhelytáblázat szerint őriznie kell.
+## (4)[^40] Amikor az új felállított őr átveszi az őrhelyét, a felvezető, illetve a régi őr jelenlétében személyesen győződjön meg mindazoknak teljességéről és hiánytalanságáról, amit az őrhelytáblázat szerint őriznie kell.
 
 ## (5) A felállított őr:
 
@@ -456,11 +456,11 @@
 
 ## c) fegyverét, az őrhelyén készen tartja arra, hogy szükség esetén azonnal használhassa;
 
-## d)[^40] a szolgálatban lévő őrparancsnok, a felvezető, az őrség irányítására jogosult személy, valamint az általuk kísért személyek kivételével senkit sem enged az őrhelyhez és az őrzött létesítményhez;
+## d)[^41] a szolgálatban lévő őrparancsnok, a felvezető, az őrség irányítására jogosult személy, valamint az általuk kísért személyek kivételével senkit sem enged az őrhelyhez és az őrzött létesítményhez;
 
 ## e) tudja kezelni az őrhelyen levő technikai eszközöket és a tűzoltó berendezéseket;
 
-## f)[^41] ha az őrhelyen rendellenességet észlel, illetőleg ott rendzavarás fordul elő, a helyszínre hívja az elöljáróját és megkezdi a szükséges szolgálati intézkedések foganatosítását.
+## f)[^42] ha az őrhelyen rendellenességet észlel, illetőleg ott rendzavarás fordul elő, a helyszínre hívja az elöljáróját és megkezdi a szükséges szolgálati intézkedések foganatosítását.
 
 ## (6) A felállított őr pisztolya derékszíjon, géppisztolya ,,szíjra'' vagy ,,mellre'' helyzetben legyen. A pisztolya és a géppisztolya úgy legyen megtöltve, hogy a csőben ne legyen töltény, fesztelen és biztosított állapotban legyen.
 
@@ -468,11 +468,11 @@
 
 ## 28. § (1) A felállított őrnek az őrhelyen tilos minden olyan tevékenységet végezni, ami a szolgálat ellátásától figyelmét elvonja. A felállított őr – a tűz- és robbanásveszélyes helyek kivételével – nappal dohányozhat. A dohányzásra engedélyezett őrhelyeket az őrségutasításban meg kell jelölni.
 
-## (2)[^42] A felállított őr rossz időjárás esetén (esőben, erős szélben, havazásban) a szolgálat maradéktalan ellátása mellett az őrbódéba beállhat. Ilyen esetben fokozottan figyel. Kilép onnan, ha kötelességének teljesítése megköveteli vagy ha a váltás, elöljáró, illetve az őrség irányítására jogosult személy közeledik.
+## (2)[^43] A felállított őr rossz időjárás esetén (esőben, erős szélben, havazásban) a szolgálat maradéktalan ellátása mellett az őrbódéba beállhat. Ilyen esetben fokozottan figyel. Kilép onnan, ha kötelességének teljesítése megköveteli vagy ha a váltás, elöljáró, illetve az őrség irányítására jogosult személy közeledik.
 
-## (3)[^43] A felállított őr jó látási viszonyok között – az elöljáró, illetve az őrség irányítására jogosult személy, valamint az általuk kísért személyek kivételével – mindenkit, aki az őrhelyhez vagy jelzőtáblákkal megjelölt tilos terület határához közeledik (15–20 m-re) ,,Állj, vissza!'' vagy ,,Állj, térjen ki jobbra (balra)!'' felszólítással elküld az őrzött területről.
+## (3)[^44] A felállított őr jó látási viszonyok között – az elöljáró, illetve az őrség irányítására jogosult személy, valamint az általuk kísért személyek kivételével – mindenkit, aki az őrhelyhez vagy jelzőtáblákkal megjelölt tilos terület határához közeledik (15–20 m-re) ,,Állj, vissza!'' vagy ,,Állj, térjen ki jobbra (balra)!'' felszólítással elküld az őrzött területről.
 
-## (4)[^44]
+## (4)[^45]
 
 ## (5) A felállított őr az ellenőrző személynél jelentkezik és jelenti a szolgálatával kapcsolatos eseményeket.
 
@@ -480,13 +480,13 @@
 
 ## 29. § (1) A 27. § (5) bekezdésének f) pontjában meghatározott esetben, ha a híradó- és jelzőberendezések megrongálódtak – ha értesítés más módon nem lehetséges –, a felállított őr felfelé irányított (jelző) lövéssel hívhatja ki a parancsnokát (felvezetőjét).
 
-## (2)[^45] Tűz- és robbanásveszélyes létesítménynél felállított őr senkinek sem engedi meg a dohányzást és a nyílt láng használatát.
+## (2)[^46] Tűz- és robbanásveszélyes létesítménynél felállított őr senkinek sem engedi meg a dohányzást és a nyílt láng használatát.
 
 ## A járőr
 
 ## 30. § (1) A járőr a járőrparancsnokból és egy-két beosztottból vagy egy főből áll. A járőr az őrzést önállóan látja el vagy a felállított őrök kiegészítéseként. A járőr esetenként megerősíthető szolgálati kutyával, valamint kutyavezetővel. A járőr fegyverzete, felszerelése, jogai és kötelességei megegyeznek a felállított őrével.
 
-## (2)[^46] A járőröknek járőrútvonalat kell kijelölni. Ha több járőr működik egy időben, az elöljáró, illetve az őrség irányítására jogosult személy ismertetőjelet, illetve számozást állapít meg részükre.
+## (2)[^47] A járőröknek járőrútvonalat kell kijelölni. Ha több járőr működik egy időben, az elöljáró, illetve az őrség irányítására jogosult személy ismertetőjelet, illetve számozást állapít meg részükre.
 
 ## (3) A járőr menetvonalán – a terepviszonyokat figyelembe véve – megfigyelőhelyeket kell meghatározni, ahol a járőr 10–15 percig álló megfigyelést hajt végre. A járőr megfigyelőhelyét rejteni kell. A járőr menetvonalát az őrutasításban kell előírni.
 
@@ -494,7 +494,7 @@
 
 ## A szállítmánykísérő őr
 
-## 31. § (1)[^47] A szállítmányt kísérő őr az őrség parancsnokának van közvetlen alárendelve. Felelős a rábízott javak megőrzéséért.
+## 31. § (1)[^48] A szállítmányt kísérő őr az őrség parancsnokának van közvetlen alárendelve. Felelős a rábízott javak megőrzéséért.
 
 ## (2) A szállítmányt kísérő őr szolgálati ideje alatt őrszolgálati feladatot lát el: jogai és kötelességei azonosak a felállított őrével, kiegészítve az alábbiakkal:
 
@@ -526,11 +526,11 @@
 
 ## Az őrség tagjainak felszerelése
 
-## 33. §[^48] (1)[^49] A szolgálati igazolvány (17. számú függelék) – igazolja, hogy birtokosa az igazolványon megjelölt szervezet őrségének – szolgálatban fegyverviselésre és az Fbő. törvényben meghatározott intézkedésre, továbbá a törvényben meghatározott esetekben kényszerítő eszköz használatára jogosult – tagja.
+## 33. §[^49] (1)[^50] A szolgálati igazolvány (17. számú függelék) – igazolja, hogy birtokosa az igazolványon megjelölt szervezet őrségének – szolgálatban fegyverviselésre és az Fbő. törvényben meghatározott intézkedésre, továbbá a törvényben meghatározott esetekben kényszerítő eszköz használatára jogosult – tagja.
 
-## (2)[^50]
+## (2)[^51]
 
-## (3)[^51] A szolgálati igazolványt az Fbő. törvény 7. § (1) bekezdés b) pontja szerinti eredményes szakmai vizsga alapján a vizsgáztatásban részt vevő – más szerv által végzett vizsgáztatás esetén az őrséget fenntartó szerv székhelye szerint illetékes – megyei (fővárosi) rendőr-főkapitányságtól az őrséget fenntartó szerv igényli a rendőrség által rendszeresített igénylőlapon. Az igénylőlapot két példányban kell kitölteni és a rendőrségre eljuttatni.
+## (3)[^52] A szolgálati igazolványt az Fbő. törvény 7. § (1) bekezdés b) pontja szerinti eredményes szakmai vizsga alapján a vizsgáztatásban részt vevő – más szerv által végzett vizsgáztatás esetén az őrséget fenntartó szerv székhelye szerint illetékes – megyei (fővárosi) rendőr-főkapitányságtól az őrséget fenntartó szerv igényli a rendőrség által rendszeresített igénylőlapon. Az igénylőlapot két példányban kell kitölteni és a rendőrségre eljuttatni.
 
 ## (4) Az igénylőlapon szereplő adatok hitelességének ellenőrzése a felügyeletet ellátó szerv felelősségi körébe tartozik.
 
@@ -552,11 +552,11 @@
 
 ## (4) A szolgálati jelvények kiadását és nyilvántartását az illetékes rendőr-főkapitányságok személyügyi szervei végzik.
 
-## 35. § (1)[^52] A kinevezéskor átadott, továbbá a bármely okból használhatatlanná vált szolgálati igazolvány, illetőleg szolgálati jelvény pótlásának költségeit az őrt alkalmazó munkáltató megtéríti.
+## 35. § (1)[^53] A kinevezéskor átadott, továbbá a bármely okból használhatatlanná vált szolgálati igazolvány, illetőleg szolgálati jelvény pótlásának költségeit az őrt alkalmazó munkáltató megtéríti.
 
-## (2)[^53] A szolgálati igazolvány és a szolgálati jelvény előállítási költségeinek az (1) bekezdésben meghatározott megtérítési kötelezettségét az őrséget fenntartó szerv a szolgálati igazolvány igénylés benyújtását megelőzően a Rendőrség kincstári előirányzat-felhasználási keret számlájára – amelynek száma: 10023002–01451715 – köteles teljesíteni. A befizetést igazoló okmányt (átutalási megbízás) a szolgálati igazolvány igénylő laphoz csatolva kell az illetékes megyei rendőr-főkapitányságnak felterjeszteni.
+## (2)[^54] A szolgálati igazolvány és a szolgálati jelvény előállítási költségeinek az (1) bekezdésben meghatározott megtérítési kötelezettségét az őrséget fenntartó szerv a szolgálati igazolvány igénylés benyújtását megelőzően a Rendőrség kincstári előirányzat-felhasználási keret számlájára – amelynek száma: 10023002–01451715 – köteles teljesíteni. A befizetést igazoló okmányt (átutalási megbízás) a szolgálati igazolvány igénylő laphoz csatolva kell az illetékes megyei rendőr-főkapitányságnak felterjeszteni.
 
-## (3)–(4)[^54]
+## (3)–(4)[^55]
 
 ## A formaruha
 
@@ -578,7 +578,7 @@
 
 ## A lőfegyverek töltése, ürítése
 
-## 38. § (1)[^55] Az őrök fegyverük töltését és ürítését mindenkor az elöljáró, illetve az őrség irányítására jogosult személy jelenlétében, annak utasítására és ellenőrzése mellett végezhetik a kijelölt töltő-ürítő helyen.
+## 38. § (1)[^56] Az őrök fegyverük töltését és ürítését mindenkor az elöljáró, illetve az őrség irányítására jogosult személy jelenlétében, annak utasítására és ellenőrzése mellett végezhetik a kijelölt töltő-ürítő helyen.
 
 ## (2) Amikor a váltás a töltő-ürítő helyre megérkezett, a parancsnok vezényszavára és a közvetlen ellenőrzése mellett egyesével kell a töltést (ürítést) végrehajtani. Vezényszó: ,,Váltás jobbról, egyesével tölts (üríts)!'' Erre a vezényszóra az őr fegyverét (géppisztolyát) bal kézbe veszi úgy, hogy a csőtorkolat a golyófogó felé nézzen. Kiveszi a tárat a tártáskából, behelyezi a fegyverbe. (Ürítésnél fordítva.) Majd biztosítja a fegyvert. (Ürítésnél a tár kivétele után hátrahúzza a zárat, meghúzza a billentyűt és biztosítja a fegyvert). Ezt követően ,,szíjra'' helyzetbe veszi a fegyvert.
 
@@ -628,7 +628,7 @@
 
 ## (4) Nem minősül embertelen, megalázó bánásmódnak a személy fekvő helyzetben történő megbilincselése, ha arra támadása vagy erőszakos magatartása miatt került sor.
 
-## Szolgálati kutya[^56]
+## Szolgálati kutya[^57]
 
 ## 43. § Az őr csak kiképzett, egészséges, ápolt és jó erőnlétű kutyával láthat el szolgálatot.
 
@@ -636,7 +636,7 @@
 
 ## 44. § (1) A lőfegyverhasználat csak arra a személyre irányulhat, akivel szemben az Fbő. törvény 10. §-a (2) bekezdésének d) pontjában írt feltételek fennállnak.
 
-## (2)[^57] A lőfegyverhasználat saját elhatározásból vagy utasításra történhet. Az elöljáróval, illetve az őrség irányítására jogosult személlyel való folyamatos személyes vagy rádiókapcsolat esetén csak utasítására használható lőfegyver.
+## (2)[^58] A lőfegyverhasználat saját elhatározásból vagy utasításra történhet. Az elöljáróval, illetve az őrség irányítására jogosult személlyel való folyamatos személyes vagy rádiókapcsolat esetén csak utasítására használható lőfegyver.
 
 ## (3) A lövést lehetőleg lábra, ha pedig a támadó kezében a támadásra távolból is felhasználható eszköz van, kézre kell irányítani. A lőfegyverhasználat további alkalmazásának helye nincs, ha az célját elérte.
 
@@ -644,7 +644,7 @@
 
 ## (5) A figyelmeztető lövést általában függőleges irányba a légtérbe kell leadni. Ha ez nem biztonságos, a lövés irányát úgy kell megválasztani, számolva a becsapódást esetlegesen követő gurulattal is, hogy a lövedék életet, testi épséget ne veszélyeztessen, és lehetőleg ne okozzon anyagi kárt.
 
-## (6)[^58] Lőfegyverhasználat esetén az elöljáró, illetve az őrség irányítására jogosult személy köteles a helyszín biztosításáról gondoskodni.
+## (6)[^59] Lőfegyverhasználat esetén az elöljáró, illetve az őrség irányítására jogosult személy köteles a helyszín biztosításáról gondoskodni.
 
 ## 45. § (1) A lőfegyverhasználat vizsgálata során a lőfegyvert használó őr és az erre utasítást adó elöljáró jelentést ír.
 
@@ -698,7 +698,7 @@
 
 ## 52. § (1) Az őr őrszolgálatot, járőrszolgálatot és szállítmánykísérő szolgálatot teljesít.
 
-## (2)[^59] Az őr az őrségparancsnok, illetve az őrség irányítására jogosult személy, illetve az őrutasítás előírásai szerint meghatározott helyen, illetőleg mozgási körzetben fegyveres őrszolgálatot lát el.
+## (2)[^60] Az őr az őrségparancsnok, illetve az őrség irányítására jogosult személy, illetve az őrutasítás előírásai szerint meghatározott helyen, illetőleg mozgási körzetben fegyveres őrszolgálatot lát el.
 
 ## (3) Őrt olyan létesítményben kell felállítani, amelynek őrzését és védelmét elrendelték.
 
@@ -794,7 +794,7 @@
 
 ## b) a munkáltató;
 
-## c)[^60] az őrség irányítására jogosult személy.
+## c)[^61] az őrség irányítására jogosult személy.
 
 ## (2) Az őrséget ellenőrizni köteles:
 
@@ -882,7 +882,7 @@
 
 ## 69. § (1) Az őrség elhelyezési körletéről, berendezési tárgyairól, okmányairól a munkáltató köteles gondoskodni. Az őrség elhelyezési körlete és annak berendezése biztosítsa az őrszolgálat maradéktalan ellátását, az őrhelyekkel való összeköttetést, a kulturált – és a létesítményen belül elkülönített – elhelyezést (étkezést, pihenést, tisztálkodást stb.).
 
-## (2)[^61] Az őrség elhelyezési körlete – az őrség szervezeti felépítésétől függően – a következőkből álljon:
+## (2)[^62] Az őrség elhelyezési körlete – az őrség szervezeti felépítésétől függően – a következőkből álljon:
 
 ## a) az őrségparancsnok részére egy szolgálati helyiségből;
 
@@ -946,7 +946,7 @@
 
 ## i) a riadótervet;
 
-## j)[^62] az őrparancsnok okmányait, ha az őrségnél az őrparancsnoki beosztást nem hozták létre.
+## j)[^63] az őrparancsnok okmányait, ha az őrségnél az őrparancsnoki beosztást nem hozták létre.
 
 ## 71. § (1) Az őrparancsnok szolgálati helyiségének tárgyai:
 
@@ -1006,11 +1006,11 @@
 
 ## (2) Képzési, felkészülési követelmények:
 
-## a)[^63] jogi ismeretek:
+## a)[^64] jogi ismeretek:
 
 ## – alkotmányjog és az államigazgatási jog területéről:
 
-## = ismerje a jog meghatározását, a közhatalmi tevékenység gyakorlásában részt vevő szervek főbb típusait, azok jellemzőit, az államigazgatás szervezeti tagozódását, az alkotmánynak az állampolgárok alapvető jogaira vonatkozó rendelkezéseit, az állami és a szolgálati titok védelmére vonatkozó rendelkezéseket,
+## = ismerje a jog meghatározását, a közhatalmi tevékenység gyakorlásában részt vevő szervek főbb típusait, azok jellemzőit, az államigazgatás szervezeti tagozódását, az alkotmánynak az állampolgárok alapvető jogaira vonatkozó rendelkezéseit, a minősített adat védelmére vonatkozó rendelkezéseket,
 
 ## – a büntetőjog és a büntetőeljárás-jog területéről:
 
@@ -1078,11 +1078,11 @@
 
 ## c) az önvédelmi vizsga alól, ha a jelölt igazolja, hogy valamely küzdősportban sportminősítést (pl. övfokozat) szerzett.
 
-## X. Fejezet[^64]
+## X. Fejezet[^65]
 
-## ZÁRÓ RENDELKEZÉSEK[^65]
+## ZÁRÓ RENDELKEZÉSEK[^66]
 
-## 77. §[^66] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
+## 77. §[^67] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
 
 ## 1. számú függelék
 
@@ -1321,40 +1321,41 @@ aláírás
 [^27]: A 18. § (1) bekezdésének bevezető része a 2/2001. (I. 19.) BM rendelet 1. §-ával megállapított szöveg.
 [^28]: A melléklet 18. § (2) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^29]: A melléklet 18. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
-[^30]: A melléklet 19. § (1) bekezdés i) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^31]: A melléklet 20. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^32]: A melléklet 22. § a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^33]: A melléklet 23. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^34]: A melléklet 24. § a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^35]: A melléklet 26. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 5. §-ával megállapított szöveg.
-[^36]: A melléklet 26. § (2) bekezdés g) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^37]: A melléklet 26. § (2) bekezdés h) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^38]: A melléklet 27. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 6. §-ával megállapított szöveg.
-[^39]: A melléklet 27. § (4) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^40]: A melléklet 27. § (5) bekezdés d) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^41]: A melléklet 27. § (5) bekezdés f) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^42]: A melléklet 28. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^43]: A melléklet 28. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^44]: A melléklet 28. § (4) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^45]: A melléklet 29. § (2) bekezdés első mondatát a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^46]: A melléklet 30. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^47]: A melléklet 31. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^48]: A 33., 34. és 35. § a 31/1998. (VII. 10.) BM rendelet 1. §-ával megállapított szöveg.
-[^49]: A melléklet 33. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^50]: A melléklet 33. § (2) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^51]: A melléklet 33. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 7. §-ával megállapított szöveg.
-[^52]: A melléklet 35. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^53]: A melléklet 35. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja, a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^54]: A melléklet 35. § (3)–(4) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^55]: A melléklet 38. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^56]: A melléklet 43. § alcíme a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^57]: A melléklet 44. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^58]: A melléklet 44. § (6) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^59]: A melléklet 52. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^60]: A melléklet 61. § (1) bekezdés c) pontját a 86/2009. (XII. 30.) IRM rendelet 8. §-a iktatta be.
-[^61]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^62]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
-[^63]: A 73. § (2) bekezdésének a) pontja a 2/2001. (I. 19.) BM rendelet 2. §-ával megállapított szöveg.
-[^64]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^65]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^66]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^30]: A melléklet 19. § (1) bekezdés d) pontja a 35/2010. (V. 12.) IRM rendelet 2. §-a szerint módosított szöveg.
+[^31]: A melléklet 19. § (1) bekezdés i) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^32]: A melléklet 20. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^33]: A melléklet 22. § a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^34]: A melléklet 23. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^35]: A melléklet 24. § a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^36]: A melléklet 26. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 5. §-ával megállapított szöveg.
+[^37]: A melléklet 26. § (2) bekezdés g) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^38]: A melléklet 26. § (2) bekezdés h) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^39]: A melléklet 27. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 6. §-ával megállapított szöveg.
+[^40]: A melléklet 27. § (4) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^41]: A melléklet 27. § (5) bekezdés d) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^42]: A melléklet 27. § (5) bekezdés f) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^43]: A melléklet 28. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^44]: A melléklet 28. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^45]: A melléklet 28. § (4) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
+[^46]: A melléklet 29. § (2) bekezdés első mondatát a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
+[^47]: A melléklet 30. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^48]: A melléklet 31. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 33., 34. és 35. § a 31/1998. (VII. 10.) BM rendelet 1. §-ával megállapított szöveg.
+[^50]: A melléklet 33. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^51]: A melléklet 33. § (2) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
+[^52]: A melléklet 33. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 7. §-ával megállapított szöveg.
+[^53]: A melléklet 35. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^54]: A melléklet 35. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja, a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^55]: A melléklet 35. § (3)–(4) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
+[^56]: A melléklet 38. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^57]: A melléklet 43. § alcíme a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^58]: A melléklet 44. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^59]: A melléklet 44. § (6) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^60]: A melléklet 52. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^61]: A melléklet 61. § (1) bekezdés c) pontját a 86/2009. (XII. 30.) IRM rendelet 8. §-a iktatta be.
+[^62]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^63]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
+[^64]: A melléklet 73. § (2) bekezdésének a) pontja a 2/2001. (I. 19.) BM rendelet 2. §-ával megállapított, a 35/2010. (V. 12.) IRM rendelet 2. §-a szerint módosított szöveg.
+[^65]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^66]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^67]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
