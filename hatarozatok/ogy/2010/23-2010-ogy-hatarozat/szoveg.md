@@ -216,7 +216,9 @@ dr. Turi-Kovács Béla (Fidesz)
 
 dr. Nagy Andor (KDNP)
 
-Egy alelnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+Baracskai József (MSZP) 2010. június 1-jéig,[^1]
+
+dr. Oláh Lajos (MSZP) 2010. június 2-tól[^2]
 
 Tagok:
 
@@ -244,8 +246,6 @@ Baracskai József (MSZP)
 
 dr. Józsa István (MSZP) 2010. június 1-ig
 
-dr. Oláh Lajos (MSZP) 2010. június 2-től
-
 Tóbiás József (MSZP) 2010. június 1-ig
 
 Szabó Imre (MSZP) 2010. június 2-től
@@ -256,7 +256,7 @@ Kepli Lajos (Jobbik)
 
 f) Foglalkoztatási és munkaügyi bizottság (18 fő)
 
-Elnök: Az elnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+Elnök: Gúr Nándor (MSZP)[^3]
 
 Alelnök:
 
@@ -286,8 +286,6 @@ Karvalics Ottó (KDNP)
 
 Spaller Endre (KDNP)
 
-Gúr Nándor (MSZP)
-
 dr. Nemény András (MSZP)
 
 Szűcs Erika (MSZP) 2010. június 1-ig
@@ -302,7 +300,7 @@ Kaufer Virág (LMP)
 
 g) Fogyasztóvédelmi bizottság (18 fő)
 
-Elnök: Az elnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+Elnök: Simon Gábor (MSZP) 2010. június 2-től[^4]
 
 Alelnök:
 
@@ -336,8 +334,6 @@ Boldvai László (MSZP)
 
 dr. Nemény András (MSZP) 2010. június 1-ig
 
-Simon Gábor (MSZP) 2010. június 2-től
-
 Tóbiás József (MSZP)
 
 Farkas Gergely (Jobbik)
@@ -356,7 +352,7 @@ Szatmáry Kristóf (Fidesz)
 
 Pősze Lajos (Jobbik)
 
-Egy alelnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+dr. Józsa István (MSZP)[^5]
 
 Tagok:
 
@@ -394,8 +390,6 @@ dr. Seszták Miklós (KDNP)
 
 Burány Sándor (MSZP)
 
-dr. Józsa István (MSZP)
-
 Kovács Tibor (MSZP)
 
 dr. Veres János (MSZP) 2010. június 1-ig
@@ -412,7 +406,7 @@ Scheiring Gábor (LMP)
 
 i) Honvédelmi és rendészeti bizottság (21 fő)
 
-Elnök: Az elnöki helyre a Fidesz képviselőcsoportja jogosult jelölni.
+Elnök: dr. Kocsis Máté (Fidesz)[^6]
 
 Alelnök:
 
@@ -420,7 +414,7 @@ Csampa Zsolt (Fidesz)
 
 Básthy Tamás (KDNP)
 
-Egy alelnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+Iváncsik Imre (MSZP) 2010. június 2-tól[^7]
 
 Tagok:
 
@@ -432,19 +426,27 @@ dr. Simon Miklós (Fidesz)
 
 Tóth Gábor (Fidesz)
 
-Hat bizottsági tagsági helyre a Fidesz képviselőcsoportja jogosult jelölni.
+Borbély Lénárd (Fidesz)[^8]
 
-Egy bizottsági tagsági helyre a KDNP képviselőcsoportja jogosult jelölni.
+Borkai Zsolt (Fidesz)[^9]
+
+Farkas Zoltán (Fidesz)[^10]
+
+Kulcsár József Ferenc (Fidesz)[^11]
+
+dr. Mátrai Márta (Fidesz)[^12]
+
+Földi László (KDNP)[^13]
 
 Göndör István (MSZP) 2010. június 1-ig
 
 dr. Vadai Ágnes (MSZP) 2010. június 2-től
 
-Két bizottsági tagsági helyre az MSZP képviselőcsoportja jogosult jelölni.
+dr. Harangozó Tamás (MSZP)[^14]
+
+dr. Dorosz Dávid (LMP)[^15]
 
 Három bizottsági tagsági helyre a Jobbik képviselőcsoportja jogosult jelölni.
-
-Egy bizottsági tagsági helyre az LMP képviselőcsoportja jogosult jelölni.
 
 j) Ifjúsági, szociális, családügyi és lakhatási bizottság (24 fő)
 
@@ -554,7 +556,7 @@ dr. Nagy Gábor Tamás (Fidesz)
 
 Gyöngyösi Márton (Jobbik)
 
-Egy alelnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+Kovács László (MSZP)[^16]
 
 Tagok:
 
@@ -584,8 +586,6 @@ dr. Vejkey Imre (KDNP)
 
 Harangozó Gábor István (MSZP)
 
-Kovács László (MSZP)
-
 Mesterházy Attila (MSZP) 2010. június 1-ig
 
 Szabó Vilmos (MSZP) 2010. június 2-től
@@ -602,7 +602,7 @@ Elnök: dr. Rubovszky György (KDNP)
 
 Alelnök:
 
-Az alelnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+dr. Simon Gábor (MSZP)[^17]
 
 Tagok:
 
@@ -613,8 +613,6 @@ Németh Szilárd István (Fidesz)
 dr. Varga István (Fidesz)
 
 dr. Ipkovich György (MSZP)
-
-dr. Simon Gábor (MSZP)
 
 Szabó Gábor (Jobbik)
 
@@ -628,7 +626,9 @@ Alelnök:
 
 Horváth István (Fidesz)
 
-Egy alelnöki helyre – bizottsági tagsági helyei terhére – az MSZP képviselőcsoportja jogosult jelölni.
+Harangozó Gábor (MSZP) 2010. június 1-jéig[^18]
+
+Gőgös Zoltán (MSZP) 2010. június 2-tól[^19]
 
 Tagok:
 
@@ -658,11 +658,9 @@ Sáringer-Kenyeres Tamás (KDNP)
 
 Ficsor Ádám (MSZP)
 
-Harangozó Gábor István (MSZP)
+Harangozó Gábor István (MSZP)[^20]
 
 Horváth András Tibor (MSZP) 2010. június 1-ig
-
-Gőgös Zoltán (MSZP) 2010. június 2-től
 
 Magyar Zoltán (Jobbik)
 
@@ -674,7 +672,9 @@ Szabó Rebeka (LMP)
 
 o) Nemzetbiztonsági bizottság (12 fő)
 
-Elnök: Az elnöki helyre az MSZP képviselőcsoportja jogosult jelölni.
+Elnök: dr. Molnár Zsolt (MSZP) 2010. június 1-jéig[^21]
+
+dr. Vadai Ágnes (MSZP) 2010. június 2-tól[^22]
 
 Alelnök:
 
@@ -686,15 +686,17 @@ dr. Kövér László (Fidesz)
 
 Lezsák Sándor (Fidesz)
 
-Négy bizottsági tagsági helyre a Fidesz képviselőcsoportja jogosult jelölni.
+dr. Kovács Zoltán (Fidesz)[^23]
 
-Egy bizottsági tagsági helyre a KDNP képviselőcsoportja jogosult jelölni.
+Meggyes Tamás (Fidesz)[^24]
 
-dr. Molnár Zsolt (MSZP)
+Móring József Attila (KDNP)[^25]
+
+dr. Molnár Zsolt (MSZP)[^26]
 
 Egy bizottsági tagsági helyre a Jobbik képviselőcsoportja jogosult jelölni.
 
-Egy bizottsági tagsági helyre az LMP képviselőcsoportja jogosult jelölni.
+Mile Lajos (LMP)[^27]
 
 p) Oktatási, tudományos és kutatási bizottság (21 fő)
 
@@ -965,3 +967,31 @@ y) az árfolyamváltozás, a hitelszerződések és a törlesztő részletek, va
 z) a Centrum Parkoló Kft., valamint a Fővárosi Önkormányzatok Parkolási Társulásának tevékenységét és kapcsolatát vizsgáló bizottság felállításáról szóló 104/2009. (XII. 18.) OGY határozat;
 
 zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat elbírálása során felmerült egyes pártkötődések és háttéralkuk szerepét vizsgáló bizottság létrehozásáról szóló 18/2010. (II. 25.) OGY határozat.
+
+[^1]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^7]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^8]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^9]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^10]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^12]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^13]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^14]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^15]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^16]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^17]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^18]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^19]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^20]: 2010. június 2-ától.
+[^21]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^22]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^23]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^24]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^25]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^26]: 2010. június 2-ától.
+[^27]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
