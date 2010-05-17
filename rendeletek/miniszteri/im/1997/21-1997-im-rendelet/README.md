@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-21-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-04-30 | 1997-21-20-06.3 | 21/1997. (VII. 8.) IM rendelet |
+| 2010-05-17 | 1997-21-20-06.4 | 35/2010. (V. 12.) IRM rendelet |
