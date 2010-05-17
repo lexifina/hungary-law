@@ -2,7 +2,7 @@
 
 34. § (1) A fegyelmi ügyben hozott érdemi határozat jogerőre emelkedését a határozat irattári példányára a fegyelmi jogkör gyakorlója, vagy megbízásából a vizsgáló feljegyzi. A fenyítés végrehajtására az állományilletékes parancsnok intézkedik.
 
-(2)[^17] Fegyelmi felelősség megállapítása esetén a Hszt. 123. § (1) bekezdés d)–g) pontjában meghatározott fenyítés végrehajtásáról a fegyelmi felelősséget megállapító határozat jogerőre emelkedését követő 30 napon belül állományparancsban, berendeltek esetében határozatban kell rendelkezni.
+(2)[^19] Fegyelmi felelősség megállapítása esetén a Hszt. 123. § (1) bekezdés d)–g) pontjában meghatározott fenyítés végrehajtásáról a fegyelmi felelősséget megállapító határozat jogerőre emelkedését követő 30 napon belül állományparancsban, berendeltek esetében határozatban kell rendelkezni.
 
 (3) Fenyítés végrehajtására kiadott állományparancs (határozat) ellen benyújtott szolgálati panaszban a jogerőre emelkedett fegyelmi határozat rendelkezései nem vitathatók.
 
@@ -14,4 +14,4 @@
 
 (7) A Hszt. 123. §-a (1) bekezdésének g) pontja szerinti alacsonyabb szolgálati beosztásba helyezés fenyítés jogerőre emelkedését követően a hivatásos állományút a beosztásából fel kell menteni és a Hszt. 2. §-ának s) pontja figyelembevételével a fegyveres szerv állományilletékes parancsnok alárendeltségébe tartozó szervezeti egységénél, ennek hiányában más szervezeti egységénél a besorolási osztályán belüli, képzettségének és rendfokozatának megfelelő alacsonyabb szolgálati beosztásba kell áthelyezni. Az eredeti vagy annál magasabb beosztásba ismételten csak akkor nevezhető ki, ha a fenyítés végrehajtásának megkezdésétől számított legalább egy év eltelt.
 
-[^17]: A 34. § (2) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 3. §-ával megállapított szöveg.
+[^19]: A 34. § (2) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 3. §-ával megállapított szöveg.

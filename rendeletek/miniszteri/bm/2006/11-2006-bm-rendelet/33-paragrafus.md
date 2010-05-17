@@ -6,7 +6,7 @@
 
 (3) Az érdemi határozat ellen benyújtott panaszt a fegyelmi jogkör gyakorlója megvizsgálja, és ha az az ügy érdemét, illetve a rendelkezés tartalmát nem érintő hiba (elírás, számítási hiba, hibás jogszabályi hivatkozás stb.) kijavítására irányul, a határozat kijavítására intézkedik. A kijavító határozat közlésével az érdemi határozat jogerőre emelkedik.
 
-(4)[^16] Ha a panasz a határozat megalapozottságát vagy jogszerűségét, illetve a fenyítés mértékét vitatja vagy ha indokolást nem tartalmaz, továbbá ha a határozat kijavításának nem adott helyt, a fegyelmi jogkör gyakorlója a panaszt, a fegyelmi eljárás iratait egy példányban, a panaszban foglaltakkal kapcsolatos álláspontját, az eljárás alá vontról készített parancsnoki jellemzést, rendfokozatot, beosztást, valamint szolgálati viszonyt érintő fenyítés kiszabása esetén a személyi anyagát 3 napon belül felterjeszti a panasz elbírálására jogosult elöljáróhoz. Az országos parancsnokok által hozott érdemi határozat elleni panasz esetén az iratokat a miniszterhez címezve az országos parancsnokság humánszolgálatának kell megküldeni.
+(4)[^18] Ha a panasz a határozat megalapozottságát vagy jogszerűségét, illetve a fenyítés mértékét vitatja vagy ha indokolást nem tartalmaz, továbbá ha a határozat kijavításának nem adott helyt, a fegyelmi jogkör gyakorlója a panaszt, a fegyelmi eljárás iratait egy példányban, a panaszban foglaltakkal kapcsolatos álláspontját, az eljárás alá vontról készített parancsnoki jellemzést, rendfokozatot, beosztást, valamint szolgálati viszonyt érintő fenyítés kiszabása esetén a személyi anyagát 3 napon belül felterjeszti a panasz elbírálására jogosult elöljáróhoz. Az országos parancsnokok által hozott érdemi határozat elleni panasz esetén az iratokat a miniszterhez címezve az országos parancsnokság humánszolgálatának kell megküldeni.
 
 (5) A panasz elbírálásában nem vehet részt, aki az elsőfokú határozat meghozatalában, illetve az azt megelőző vizsgálatban részt vett, továbbá aki vagy akinek a hozzátartozója az ügyben eljárás alá vontként, tanúként vagy szakértőként vett részt.
 
@@ -18,4 +18,4 @@
 
 (9) A panasz elbírálásáról szóló érdemi határozatot és a felterjesztett iratokat a panasz elbírálója megküldi az elsőfokú határozatot hozó elöljárónak (vezetőnek), aki intézkedik a határozat panaszos részére történő közléséről, illetve a képviselőjének történő megküldéséről.
 
-[^16]: A 33. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 33. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.

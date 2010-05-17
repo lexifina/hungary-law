@@ -2,7 +2,7 @@
 
 a) szándékos vagy két év szabadságvesztésnél súlyosabban fenyegetett gondatlan bűncselekményt is megvalósít és az ügyben büntetőeljárás indult,
 
-b)[^18] a szabálysértésekről szóló 1999. évi LXIX. törvény 141–146. §-a, a 151–155. §-a, a 156/A–159. §-a, valamint az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 42. §-a szerinti szabálysértést is megvalósít és az ügyben szabálysértési eljárás indult.
+b)[^20] a szabálysértésekről szóló 1999. évi LXIX. törvény 141–146. §-a, a 151–155. §-a, a 156/A–159. §-a, valamint az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 42. §-a szerinti szabálysértést is megvalósít és az ügyben szabálysértési eljárás indult.
 
 (2) Az (1) bekezdésben meghatározottakon kívül a rendelkezésre álló adatok alapján kell mérlegelni, hogy a hivatásos állományú magatartása alkalmas lehet-e a Hszt. 56. §-a (6) bekezdésének c) pontjában meghatározott méltatlansági ok megállapítására.
 
@@ -18,4 +18,4 @@ b)[^18] a szabálysértésekről szóló 1999. évi LXIX. törvény 141–146. �
 
 (8) A hivatásos önkormányzati tűzoltóságnál az elöljáró parancsnokot megillető jogkört a polgármester gyakorolja, aki a bizottság elnöki feladatait személyesen látja el vagy azzal az önkormányzat vezető tisztségviselőjét (polgármester-helyettes, képviselő-testületi bizottság vezetője) is megbízhatja. Ha pedig a vizsgáló személyével vagy a bizottság tagjával szembeni összeférhetetlenség áll fenn, és nincs más arra alkalmas hivatásos állományú, az érintett polgármester másik hivatásos önkormányzati tűzoltóság parancsnokát kéri fel, hogy a saját állományából jelöljön ki vizsgálót vagy bizottsági tagot.
 
-[^18]: A 43. § (1) bekezdés b) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 4. §-ával megállapított szöveg.
+[^20]: A 43. § (1) bekezdés b) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 4. §-ával megállapított szöveg.
