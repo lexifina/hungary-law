@@ -2,17 +2,7 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg hatályát veszti
-
-a) az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet 1. §-ában a „kereskedelmi” szövegrész;
-
-b) az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet melléklete „BEL- ÉS KÜLKERESKEDELEM, VENDÉGLÁTÁS, IDEGENFORGALOM” címéből a „BEL- ÉS KÜLKERESKEDELEM, VENDÉGLÁTÁS, ” szövegrész, valamint a „BEL- ÉS KÜLKERESKEDELEM, VENDÉGLÁTÁS, IDEGENFORGALOM” cím alatti szöveg a „Konyhamészárosi tevékenység- Hús- és hentesáru eladó” szövegig bezárólag;
-
-c) az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletének „BŐRIPAR”, „ELEKTRONIKA, MŰSZERIPAR”, „FAIPAR”, „FÉMMEG- MUNKÁLÁS,” „GÉPSZERELÉS, -KEZELÉS”, „KOHÁSZAT”, „NYOMDAIPAR”, „RUHAIPAR”, „SZOLGÁLTATÓIPAR”, „TEXTILIPAR”, „VEGYIPAR”, „VILLAMOSENERGIA-IPAR”, „ENERGETIKAI BERENDEZÉS KEZELŐ, SZERELŐ, ÜZEMELTETŐ”, valamint „NEM FIZIKAI FOGLALKOZÁS” címei és a címeket követő szövegek;
-
-d) a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésről és gyakorlatról szóló 12/2004. (II. 13.) GKM rendelet mellékletének „Cseppfolyós propán-bután gázok és ezek elegyeinek tartályban vagy palackban történő forgalmazásával kapcsolatos tevékenység követelményei” címe alatti 6. pont.
-
-(3) A (2)–(3) bekezdés a rendelet hatálybalépését követő napon hatályát veszti.
+(2)–(3)[^2]
 
 (4) Az e rendelet mellékletében meghatározott olyan tevékenység esetében, amelyet e rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet melléklete nem tartalmazott, a tevékenységet folytató személynek 2011. december 31. napjáig kell eleget tenniük az e rendelet mellékletében meghatározott követelményeknek.
 
@@ -505,3 +495,5 @@ Melléklet a 21/2010. (V. 14.) NFGM rendelethez
 | 13. | Villamosművek villamos berendezésének kezelése | Villamos hálózat és alállomás üzemeltető | Villamosmű kezelő |
 
 | 14. | Villamosművi berendezések, állomások szerelése | Villamoshálózat-szerelő, -üzemeltető Villamoshálózatszerelő | Villamosművikészülék-szerelő |
+
+[^2]: A 3. § (2)–(3) bekezdését a (3) bekezdés hatályon kívül helyezte.
