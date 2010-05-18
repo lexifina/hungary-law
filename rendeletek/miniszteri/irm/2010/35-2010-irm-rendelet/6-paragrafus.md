@@ -1,3 +1,0 @@
-## 5. § A Rendőrség Szolgálati Szabályzatáról szóló 62/2007. (XII. 23.) IRM rendelet 2. § (5) bekezdés c) pontjában az „adat- és titokvédelmi” szövegrész helyébe az „adatvédelmi” szöveg, 7. §-ában az „állam- vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 112. § (2) bekezdésében a „szolgálati titkot” szövegrész helyébe a „minősített adat védelmére vonatkozó követelményeket” szöveg, 112. § (6) bekezdésében a „szolgálati és az államtitokra” szövegrész helyébe a „minősített adat védelmére” szöveg lép.
-
-6. § Ez a rendelet a kihirdetését követő ötödik napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
