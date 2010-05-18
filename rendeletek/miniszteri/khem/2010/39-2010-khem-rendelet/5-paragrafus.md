@@ -1,1 +1,0 @@
-5. § Ez a rendelet a kihirdetését követő 10. napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
