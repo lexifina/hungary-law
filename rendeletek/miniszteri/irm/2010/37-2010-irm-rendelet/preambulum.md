@@ -1,1 +1,0 @@
-A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 128. §-ának b) pontjában foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
