@@ -1,3 +1,0 @@
-## 1. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai Fegyelmi Szabályzatáról szóló 11/2006. (III. 14.) BM rendelet 19. § (3) bekezdésében és 23. § (2) bekezdésében az „az állam- és szolgálati titokra” szövegrész helyébe az „a minősített adat védelmére” szöveg, 26. § (2) bekezdésében a „feltéve, hogy az nem tartalmaz állam vagy szolgálati titkot” szövegrész helyébe a „ha az nem tartalmaz minősített adatot” szöveg és az „állam vagy szolgálati titkot tartalmaz” szövegrész helyébe a „minősített adatot tartalmaz” szöveg lép.
-
-2. § Ez a rendelet a kihirdetését követő ötödik napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
