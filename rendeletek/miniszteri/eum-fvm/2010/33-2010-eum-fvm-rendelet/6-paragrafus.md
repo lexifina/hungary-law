@@ -1,0 +1,5 @@
+## 5. § Az 1924/2006/EK európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdése szerinti, betegségek kockázatának csökkentésével kapcsolatos állítások, valamint a gyermekek fejlődésével és egészségével kapcsolatos állítások közösségi listába történő felvételére vonatkozó kérelmet angol nyelven – annak magyar nyelvű fordításával együtt – az OÉTI-hez kell benyújtani.
+
+6. § (1) Az 1924/2006/EK európai parlamenti és tanácsi rendelet mellékletében található tápanyag-összetételre vonatkozó állítások listájának módosítására irányuló kérelmet angol nyelven – annak magyar nyelvű fordításával együtt – az OÉTI-hez lehet benyújtani.
+
+(2) Az OÉTI a kérelmet – ha az a vonatkozó jogszabályoknak, európai uniós jogi aktusoknak, illetve a Bizottság által kiadott formai követelményeknek megfelel – az 1924/2006/EK európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdése alapján, az 1924/2006/EK európai parlamenti és tanácsi rendelet 25. cikk (3) bekezdése szerinti eljárás lefolytatása érdekében továbbítja a Bizottságnak.
