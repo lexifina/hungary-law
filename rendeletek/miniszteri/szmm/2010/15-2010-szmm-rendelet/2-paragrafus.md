@@ -1,0 +1,1 @@
+## 1. § A Szociális és Munkaügyi Minisztériumban, valamint a szociális és munkaügyi miniszter irányítása, valamint felügyelete alá tartozó szerveknél a fontos és bizalmas munkaköröket, továbbá az ilyen munkakörben foglalkoztatott személyek nemzetbiztonsági ellenőrzésének szintjét az 1. mellékletben foglaltak szerint határozom meg.
