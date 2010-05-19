@@ -33,3 +33,7 @@ b) védett eredetű superior bor készítésekor legalább 12,83 térfogatszáza
 (5) A „Siller” kifejezés az 5. § (3) bekezdésében foglaltak teljesítése esetén tüntethető fel a címkén úgy, hogy betűtípusából, betűméretéből, vagy betűszínéből adódóan ne jelenjen meg a védett eredetmegjelölésnél hangsúlyosabb módon.
 
 (6) Amennyiben az „Eger” eredetmegjelölést fajtanév, a bor színére utaló, vagy a (4)–(6) bekezdésben meghatározott kifejezések követik, úgy az eredetmegjeölés írásmódja „Eger”-ről „Egri”-re változik.
+
+(7)[^2] Bikaalak, bikafej, vagy erre emlékeztető figurát ábrázoló kép, valamint a bikavér szó idegen nyelven, vagy bármilyen, a bikavérre utaló magyar vagy idegen nyelvű kifejezés csak a 10. §-ban meghatározott feltételeknek eleget tevő borok címkéjén jelölhető.
+
+[^2]: A 9. § (7) bekezdését a 61/2010. (V. 11.) FVM rendelet 1. §-a iktatta be.
