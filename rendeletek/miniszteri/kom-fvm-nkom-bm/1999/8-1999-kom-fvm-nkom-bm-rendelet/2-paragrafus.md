@@ -1,6 +1,6 @@
 2. § (1) Veszélyes állat tartására engedélyt az a természetes személy kaphat, aki
 
-a) cselekvőképes és büntetlen előéletű,
+a)[^2] cselekvőképes,
 
 b) rendelkezik a 3. §-ban megjelölt szakirányú tartási ismereteket igazoló, legalább középfokú szakképesítéssel és szakmai gyakorlattal,
 
@@ -20,6 +20,7 @@ f) teljesíti a biztonsági előírásokat.
 
 (5) A 3. számú mellékletben foglaltak a cirkuszi állatokra csak abban az esetben alkalmazhatók, ha külön jogszabály eltérően nem rendelkezik.
 
-(6)[^2] Veszélyes állatnak minősített védett faj egyedének tartása engedélyezésére irányuló kérelem ügyében a védett állatfajok tartásának engedélyezésére vonatkozó szabályok alapján kell eljárni, a tartás engedélyezése esetén az e rendeletben meghatározott biztonsági feltételek előírásával.
+(6)[^3] Veszélyes állatnak minősített védett faj egyedének tartása engedélyezésére irányuló kérelem ügyében a védett állatfajok tartásának engedélyezésére vonatkozó szabályok alapján kell eljárni, a tartás engedélyezése esetén az e rendeletben meghatározott biztonsági feltételek előírásával.
 
-[^2]: A 2. § (6) bekezdését a 3/2001. (II. 23.) KöM-FVM-NKÖM-BM együttes rendelet 16. §-a iktatta a szövegbe.
+[^2]: A 2. § (1) bekezdés a) pontja a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^3]: A 2. § (6) bekezdését a 3/2001. (II. 23.) KöM-FVM-NKÖM-BM együttes rendelet 16. §-a iktatta a szövegbe.

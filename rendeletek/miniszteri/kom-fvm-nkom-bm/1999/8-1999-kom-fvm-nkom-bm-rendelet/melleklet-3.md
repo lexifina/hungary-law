@@ -28,7 +28,7 @@ együttes rendelethez
 
 A veszélyes állatokra vonatkozó tartási feltételek
 
-és biztonsági előírások[^4]
+és biztonsági előírások[^5]
 
 Gerinctelenek
 
@@ -364,4 +364,4 @@ Kifutóhatároló 2 m magas masszív anyagból. Lehetséges száraz- vagy vizes�
 
 |  | további egyed | +60 m2 | fajoknál |
 
-[^4]: A megadott méretek a minimális feltételeket jelölik.
+[^5]: A megadott méretek a minimális feltételeket jelölik.
