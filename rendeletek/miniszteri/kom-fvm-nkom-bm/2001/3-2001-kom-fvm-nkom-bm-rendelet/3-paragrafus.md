@@ -44,11 +44,12 @@ e) az állatkert megszűnésének esetére ,,Felszámolási terv''-et a betelep�
 
 f) a nem kizárólagos önkormányzati tulajdonban levő állatkertek esetében igazolást a tartós működéshez szükséges vagyoni fedezet folyamatos meglétéről és annak biztosítékáról;
 
-g) a felelős személy és az állatgondozók képzettségét, illetve az 4. § (3) bekezdés szerinti esetleges felmentését igazoló okmányok hiteles másolatát;
+g)[^5] a felelős személy és az állatgondozók képzettségét, illetve az 4. § (3) bekezdés szerinti esetleges felmentését igazoló okmányok másolatát;
 
 h) az állategészségügyi ellátást biztosító állatorvos nyilatkozatát.
 
-(3)[^5] A rendelet hatálybalépésekor már működő állatkertnél olyan esetben, ha a meglévő állattartó helyeken a férőhely nagysága 20%-nál nem nagyobb mértékben tér el az előírt mértéktől, az állatkert működtetőjének nyilatkozni kell arról, illetőleg arra vonatkozó bizonyítékot kell szolgáltatni az engedélyező hatóság részére, hogy a korszerű állattartás feltételei biztosítottak.
+(3)[^6] A rendelet hatálybalépésekor már működő állatkertnél olyan esetben, ha a meglévő állattartó helyeken a férőhely nagysága 20%-nál nem nagyobb mértékben tér el az előírt mértéktől, az állatkert működtetőjének nyilatkozni kell arról, illetőleg arra vonatkozó bizonyítékot kell szolgáltatni az engedélyező hatóság részére, hogy a korszerű állattartás feltételei biztosítottak.
 
 [^4]: A 3. § (2) bekezdésének a) pontja a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdését a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^5]: A 3. § (2) bekezdés g) pontja a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^6]: A 3. § (3) bekezdését a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.

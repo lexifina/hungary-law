@@ -30,6 +30,6 @@ g) a keletkezett állattetemek, állati hulladék, trágya kezelésének és ár
 
 (4) Az engedélyben rendelkezni kell az állatotthon adatszolgáltatási kötelezettségéről.
 
-(5)[^15] Az állatotthon működését a jegyző – a szakhatóságok részvételével – a folyamatos ellenőrzés mellett, 4 évenként köteles felülvizsgálni. A felülvizsgálat eredményétől függően az állatotthon működését tovább engedélyezi, az állatotthont bezárathatja, illetőleg azonnali bezárást nem indokoló hiányosságok esetén határidő tűzésével a hiányosságok teljesítését rendelheti el.
+(5)[^17] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az állatvédelmi hatóság az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
 
-[^15]: A 12. § (5) bekezdése a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (6) bekezdésével megállapított, valamint a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 69. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^17]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.

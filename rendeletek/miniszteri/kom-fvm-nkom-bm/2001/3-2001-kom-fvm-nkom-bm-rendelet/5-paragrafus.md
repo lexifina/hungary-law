@@ -1,4 +1,4 @@
-5. §[^7] (1) Az állatkertben a tartandó állatok egyedeinek, illetve csoportjainak tartásához legalább a mellékletben meghatározott minimális elhelyezési feltételeket biztosítani kell.
+5. §[^9] (1) Az állatkertben a tartandó állatok egyedeinek, illetve csoportjainak tartásához legalább a mellékletben meghatározott minimális elhelyezési feltételeket biztosítani kell.
 
 (2) A mellékletben meghatározott tartási feltételeket nem kell biztosítani
 
@@ -12,7 +12,7 @@ d) a karanténozott állat esetében, valamint a karanténozási idő elteltét 
 
 (3) A (2) bekezdés nem érinti a külön jogszabályban foglalt kötelezettségek teljesítését.
 
-(4)[^8] A (2) bekezdés b) és c) pontjaiban meghatározott idő elteltét követően az engedélyező hatóság dönt a hivatkozott rendelkezések hatálya alá tartozó állatok további sorsáról.
+(4)[^10] A (2) bekezdés b) és c) pontjaiban meghatározott idő elteltét követően az engedélyező hatóság dönt a hivatkozott rendelkezések hatálya alá tartozó állatok további sorsáról.
 
 (5) A mellékletben meghatározott állatlétszámba nem számít bele az engedélyezett tenyésztés során létrejövő szaporulat, annak függetlenné válását követő 6 hónapig, de legfeljebb 2 éves koráig.
 
@@ -20,5 +20,5 @@ d) a karanténozott állat esetében, valamint a karanténozási idő elteltét 
 
 (7) Amennyiben a tartandó állatfaj e rendelet mellékletében nem szerepel, vagy valamelyik kategóriába való besorolása kérdéses, a tartás minimális feltételeit az engedélyező hatóság állapítja meg.
 
-[^7]: Az 5. § a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 4. §-ával megállapított szöveg.
-[^8]: Az 5. § (4) bekezdése a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 22. § (1) bekezdése alapján a folyamatban lévő ügyekre is alkalmazni kell.
+[^9]: Az 5. § a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 4. §-ával megállapított szöveg.
+[^10]: Az 5. § (4) bekezdése a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 22. § (1) bekezdése alapján a folyamatban lévő ügyekre is alkalmazni kell.

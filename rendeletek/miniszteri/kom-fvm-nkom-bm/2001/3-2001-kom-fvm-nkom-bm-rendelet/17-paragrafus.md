@@ -1,8 +1,8 @@
-## 15–16. §[^18]
+## 15–16. §[^20]
 
-17. § E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban a Tanács a vadon élő állatok állatkertben tartásáról szóló 1999/22/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+17. §[^21] Ez a rendelet a vadon élő állatok állatkertben tartásáról szóló, 1999. március 29-i 1999/22/EK irányelvnek való megfelelést szolgálja.
 
-Melléklet a 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelethez[^19]
+Melléklet a 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelethez[^22]
 
 Az állatkerti állatok minimális elhelyezési feltételei
 
@@ -1218,5 +1218,6 @@ Speciális előírások:
 
 A tengeri fókafajok, illetve alfajok esetében az előírt medencén túl szükséges egy kis, sósvizű medencét biztosítani a fürdetéshez.
 
-[^18]: A 15–16. §-t a 118/2008. (V. 8.) Korm. rendelet 26. §-ának 17. pontja hatályon kívül helyezte.
-[^19]: A melléklet a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (8) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 69. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^20]: A 15–16. §-t a 118/2008. (V. 8.) Korm. rendelet 26. §-ának 17. pontja hatályon kívül helyezte.
+[^21]: A 17. § a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^22]: A melléklet a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 11. § (8) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 69. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
