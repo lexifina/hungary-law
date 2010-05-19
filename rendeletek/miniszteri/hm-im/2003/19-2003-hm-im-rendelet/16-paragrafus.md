@@ -6,11 +6,11 @@
 
 (3) A nyomozás során fokozott figyelmet kell fordítani
 
-a)[^34] a bűnügyi nyilvántartásról és a hatósági erkölcsi bizonyítványról szóló 1999. évi LXXXV. törvény, illetve a bűnügyi nyilvántartást kezelő szervről, az adatközlés és az adatszolgáltatás rendjéről szóló 7/2000. (II. 16.) BM–IM együttes rendelet, valamint az ujj- és tenyérnyomatvétel, a fényképkészítés, valamint a DNS-mintavétel szabályairól szóló 8/2000. (II. 16.) BM–IM–PM együttes rendelet rendelkezéseinek betartására, továbbá
+a)[^36]
 
 b) a bűncselekmény elkövetését elősegítő, illetve megkönnyítő okok, körülmények felderítésére az újabb bűncselekmények megelőzése érdekében.
 
-(4)[^35] Az újabb bűncselekmények megelőzése végett a (3) bekezdés b) pontja alapján tett intézkedéséről, vagy azzal kapcsolatos javaslatáról, továbbá a Be. 63/A. §-ának (1) bekezdése szerinti tájékoztatási kötelezettsége teljesítéséről a parancsnok a katonai ügyészt értesíti.
+(4)[^37] Az újabb bűncselekmények megelőzése végett a (3) bekezdés b) pontja alapján tett intézkedéséről, vagy azzal kapcsolatos javaslatáról, továbbá a Be. 63/A. §-ának (1) bekezdése szerinti tájékoztatási kötelezettsége teljesítéséről a parancsnok a katonai ügyészt értesíti.
 
-[^34]: A 16. § (3) bekezdésének a) pontja a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^35]: A 16. § (4) bekezdése a 24/2006. (IX. 7.) HM–IRM együttes rendelet 8. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^36]: A 16. § (3) bekezdés a) pontját a 10/2010. (V. 11.) HM–IRM együttes rendelet 3. § a) pontja hatályon kívül helyezte.
+[^37]: A 16. § (4) bekezdése a 24/2006. (IX. 7.) HM–IRM együttes rendelet 8. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

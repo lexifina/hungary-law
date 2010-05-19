@@ -1,1 +1,3 @@
-## 28. § A nyomozás során ügyelni kell arra, hogy államtitkot, illetve szolgálati titkot képező adat illetéktelen személy részére ne váljon hozzáférhetővé.
+## 28. §[^54]
+
+[^54]: A 28. §-t a 10/2010. (V. 11.) HM–IRM együttes rendelet 3. § c) pontja hatályon kívül helyezte.

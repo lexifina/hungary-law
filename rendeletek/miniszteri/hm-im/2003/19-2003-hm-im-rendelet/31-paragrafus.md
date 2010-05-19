@@ -6,7 +6,7 @@
 
 31. § (1) Ez a rendelet 2003. július 1-jén lép hatályba, rendelkezéseit a folyamatban lévő bűnügyekben is alkalmazni kell.
 
-(2)[^52]
+(2)[^56]
 
 Melléklet a 19/2003. (V. 8.) HM–IM
 
@@ -18,15 +18,15 @@ Az iratok alapnyilvántartásai
 
 1. A parancsnok hatáskörébe tartozó bűncselekmények nyomozása során keletkezett bűnügyi iratok nyilvántartására a 35-1317 (a szabálysértési iratok nyilvántartására a 35-1325) raktári számú ,,Lajstrom''-ot kell használni. Annak lapszámát úgy kell meghatározni, hogy az legalább öt év iratforgalmának nyilvántartására legyen alkalmas.
 
-2.[^53] A lajstromokat a katonai szervezet Főnyilvántartó könyvében kell nyilvántartásba venni és a bűnügyi (szabálysértési) iratok iktatókönyveként a Honvédelmi Minisztérium és a Magyar Honvédség Titokvédelmi és Ügyviteli Szabályzat (a továbbiakban: TÜSZ) 309. pontja szerint kell vezetni. A lajstromok minősítési jelölését a honvédelmi vonatkozású szolgálati titokkörről szóló 11/1995. (XI. 14.) HM rendelet szerint kell végrehajtani, hitelesítésére a TÜSZ 246. pontjának rendelkezései az irányadóak. A lajtromokat évenként kell lezárni és a sorszámozást a következő évben újra kell kezdeni.
+2.[^57] A lajstromokat a katonai szervezet Főnyilvántartó könyvében kell nyilvántartásba venni és a bűnügyi (szabálysértési) iratok iktatókönyveként a Magyar Honvédség Egységes Iratkezelési Szabályzat (a továbbiakban: ISZ) 100–124. pontja szerint kell vezetni. A lajstromok minősítési jelölését a minősített adat védelméről szóló törvény előírásai szerint kell végrehajtani, hitelesítésére a Magyar Honvédség Titokvédelmi Szabályzat (a továbbiakban: TSZ) 246. pontjának rendelkezései az irányadóak. A lajtromokat évenként kell lezárni és a sorszámozást a következő évben újra kell kezdeni.
 
 Az iratok készítése és nyilvántartása
 
-3. A bűnügyben (szabálysértési ügyben) készítendő iratok példányszámait – amennyiben a Be., illetve e rendelet másként nem rendelkezik – a TÜSZ 249. pontja határozza meg.
+3.[^58] A bűnügyben (szabálysértési ügyben) készítendő iratok példányszámait – amennyiben a Be., illetve e rendelet másként nem rendelkezik – a TSZ 249. pontja határozza meg.
 
-4.[^54] A bűnügyek (szabálysértési ügyek) iratait keltezésük (érkezésük) sorrendjében – bűnügyenként (szabálysértési ügyekként) – ügyszám (a lajstrom sorszáma) szerint kell nyilvántartani. Az iratok minősítésének jelölésére a TÜSZ 185. pontját és a TÜSZ 2. számú mellékletét kell alkalmazni.
+4.[^59] A bűnügyek (szabálysértési ügyek) iratait keltezésük (érkezésük) sorrendjében – bűnügyenként (szabálysértési ügyekként) – ügyszám (a lajstrom sorszáma) szerint kell nyilvántartani. Az iratok minősítésének jelölésére a TSZ 185. pontját és a TSZ 2. számú mellékletét kell alkalmazni.
 
-5.[^55] Az azonos bűnügyben (szabálysértési ügyben) érkezett és készített iratokat az ügyszámával (a lajstrom sorszámával) ellátott 34-1201 raktári számú NAPLÓ-ban kell alszámos rendszerben nyilvántartani és a 34-1202 raktári számú ÜGYIRATOK megnevezésű borítóban tárolni. A napló, illetve a borító azonos ügyszámot kap, és rovataikat értelemszerűen kell kitölteni.
+5.[^60] Az azonos bűnügyben (szabálysértési ügyben) érkezett és készített iratokat az ügyszámával (a lajstrom sorszámával) ellátott 34-1201 raktári számú NAPLÓ-ban kell alszámos rendszerben nyilvántartani és a 34-1202 raktári számú ÜGYIRATOK megnevezésű borítóban tárolni. A napló, illetve a borító azonos ügyszámot kap, és rovataikat értelemszerűen kell kitölteni.
 
 Az iratok nyilvántartási száma
 
@@ -44,12 +44,14 @@ A nyilvántartás vezetése és lezárása
 
 9. A büntetőeljárás vagy a szabálysértési ügy jogerős befejezése után a nyomozótiszt a naplót lezárja, az iratokat összefűzi, a borítón feltünteti az iratok készítésekor alkalmazandó 3112, illetve 3113 irattári tételszámot, a megőrzési határidők évszámait és azt a parancsnokkal aláíratva, további tárolásra átadja a lajstrom kezelőjének.
 
-10.[^56] A lezárt ügyek iratait, valamint a betelt és lezárt lajstromokat a katonai szervezetnél 5 évig kell őrizni, ezt követően további 25 évig tartó megőrzésre le kell adni a HM HIM Központi Irattárba.
+10.[^61] A lezárt ügyek iratait, valamint a betelt és lezárt lajstromokat a katonai szervezetnél 5 évig kell őrizni, ezt követően további 25 évig tartó megőrzésre le kell adni a HM HIM Központi Irattárba.
 
-11. Az ügyviteli szervnek leadott iratokat és lajstromokat a TÜSZ 527–528. pontjának harmadik bekezdése szerint belső leltárban kell kezelni.
+11.[^62] Az ügyviteli szervnek leadott iratokat és lajstromokat az ISZ 217–218. pontjának harmadik bekezdése szerint belső leltárban kell kezelni.
 
-[^52]: A 31. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 82. pontja hatályon kívül helyezte.
-[^53]: A melléklet 2. pontjának második mondata a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^54]: A melléklet 4. pontjának első mondata a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^55]: A melléklet 5. pontjának első mondata a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^56]: A melléklet 10. pontja a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^56]: A 31. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 82. pontja hatályon kívül helyezte.
+[^57]: A melléklet 2. pontja a 10/2010. (V. 11.) HM–IRM együttes rendelet 2. § d) pont da)–db) alpontja szerint módosított szöveg.
+[^58]: A melléklet 3. pontja a 10/2010. (V. 11.) HM–IRM együttes rendelet 2. § d) pont dc) alpontja szerint módosított szöveg.
+[^59]: A melléklet 4. pontjának első mondata a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja, második mondata a 10/2010. (V. 11.) HM–IRM együttes rendelet 2. § d) pont dd) alpontja szerint módosított szöveg.
+[^60]: A melléklet 5. pontjának első mondata a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^61]: A melléklet 10. pontja a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^62]: A melléklet 11. pontja a 10/2010. (V. 11.) HM–IRM együttes rendelet 2. § d) pont de) alpontja szerint módosított szöveg.
