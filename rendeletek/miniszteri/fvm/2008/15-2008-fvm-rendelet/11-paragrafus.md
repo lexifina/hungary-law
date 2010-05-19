@@ -1,5 +1,11 @@
+## 10. §[^19]
+
 ## Záró rendelkezések
 
-11. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba; rendelkezéseit – az 1216/2007/EK rendelet 14. cikkében megállapított kivételekkel, illetve feltételekkel – a hatálybalépést megelőzően benyújtott, de a Bizottsághoz még nem továbbított kérelmekre is alkalmazni kell.
+11. § (1)[^20] Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg a mezőgazdasági termékek és az élelmiszerek hagyományos különleges tulajdonsága tanúsítási rendszerének működésére vonatkozó részletes szabályokról szóló 58/2004. (IV. 24.) FVM rendelet, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályaival összefüggő egyes földművelésügyi ágazati miniszteri rendeletek módosításáról szóló 97/2005. (X. 28.) FVM rendelet 25. §-ának h) pontja hatályát veszti.
+(2)[^21]
+
+[^19]: A 10. §-t a 62/2010. (V. 11.) FVM rendelet 5. § i) pontja hatályon kívül helyezte.
+[^20]: A 11. § (1) bekezdése a 62/2010. (V. 11.) FVM rendelet 5. § j) pontja szerint módosított szöveg.
+[^21]: A 11. § (2) bekezdését a 62/2010. (V. 11.) FVM rendelet 5. § j) pontja hatályon kívül helyezte.
