@@ -1,6 +1,6 @@
-41. § (1)[^338] Krónikus fekvőbeteg-osztályokról csak az osztály ágyszáma és a tárgyhónap napjai számának szorzatával meghatározott ápolási nap számolható el a havi teljesítményjelentésben. Az intézmény köteles részjelentést adni azon betegekről, akiknek az ellátása a tárgyhónap végéig nem fejeződött be. A krónikus fekvőbeteg-ellátásban teljes ápolási nap csak a beteg 24 órás kórházi benntartózkodása esetén számolható el. A felvétel és az elbocsátás napja egy napnak számít. A 39. § (2) bekezdése szerinti 72 óráig tartó megszakítást teljesített ápolási napként kell figyelembe venni.
+41. § (1)[^336] Krónikus fekvőbeteg-osztályokról csak az osztály ágyszáma és a tárgyhónap napjai számának szorzatával meghatározott ápolási nap számolható el a havi teljesítményjelentésben. Az intézmény köteles részjelentést adni azon betegekről, akiknek az ellátása a tárgyhónap végéig nem fejeződött be. A krónikus fekvőbeteg-ellátásban teljes ápolási nap csak a beteg 24 órás kórházi benntartózkodása esetén számolható el. A felvétel és az elbocsátás napja egy napnak számít. A 39. § (2) bekezdése szerinti 72 óráig tartó megszakítást teljesített ápolási napként kell figyelembe venni.
 
-(2)[^339] Az R. 10. számú mellékletében meghatározott – egymással összefüggő kezelési sorozatot alkotó – befejezett vagy lezárt kúraszerű ápolási események elszámolása – ambuláns ellátás esetén is – a HBCs szerint történik.
+(2)[^337] Az R. 10. számú mellékletében meghatározott – egymással összefüggő kezelési sorozatot alkotó – befejezett vagy lezárt kúraszerű ápolási események elszámolása – ambuláns ellátás esetén is – a HBCs szerint történik.
 
-[^338]: A 41. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^339]: A 41. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^336]: A 41. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^337]: A 41. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 24. §-ával megállapított szöveg.
