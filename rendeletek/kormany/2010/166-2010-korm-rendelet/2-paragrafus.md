@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az egy pontra jutó díj a praxisfinanszírozás 5. számú melléklet szerinti, a 12/A. § (2) bekezdése alapján módosított kiadási előirányzata egy havi összegének a 4/A. §, a 8. § (4) bekezdése, a 10. § (1) bekezdése, valamint a 14. § (2)–(4) bekezdése szerinti kiadásokkal csökkentett része és a 11. § (3) bekezdése szerint megállapított, országos szinten összesített pontszám hányadosa.”

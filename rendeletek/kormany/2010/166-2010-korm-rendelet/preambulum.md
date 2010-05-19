@@ -1,0 +1,1 @@
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában, valamint a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 91. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
