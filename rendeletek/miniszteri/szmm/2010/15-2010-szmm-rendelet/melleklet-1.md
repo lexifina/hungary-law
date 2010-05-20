@@ -1,3 +1,5 @@
+## 4. §[^2]
+
 1. melléklet a 15/2010. (V. 13.) SZMM rendelethez
 
 Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
@@ -57,3 +59,5 @@ Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
 | 26 | a 2–24. sorban fel nem sorolt személy, akinek munkaköri leírása szerint a Mavtv. 9. § (1) bekezdésében szereplő, vagy a 9. § (2) bekezdése szerinti nemzetközi szerződésben meghatározott vagy külföldi minősítéssel és jelöléssel ellátott „Titkos!” minősítési jelölésű adatot szükséges megismernie | B |
 
 | 27 | az a személy, akinek a munkaköri leírása szerint a 25. és a 26 sorban meghatározott minősítési szintet el nem érő nemzetközi kötelezettségvállalás alapján védelmet igénylő adatot szükséges feldolgoznia, felhasználnia | A |
+
+[^2]: A 4. § a (2) bekezdés alapján hatályát vesztette.
