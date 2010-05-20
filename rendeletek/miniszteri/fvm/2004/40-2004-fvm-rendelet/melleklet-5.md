@@ -380,6 +380,9 @@
 
 | Bodza | II. 1. | 12 db tő |
 
-5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^137]
+## [Megjegyzés: Szőlő és szőlőalany klónok bejelentésekor csak vírustesztelt szaporítóanyag fogadható el.[^144]]
 
-[^137]: Az 5. számú melléklet a 136/2007. (XI. 15.) FVM rendelet 2. § (1) bekezdésével megállapított, a 173/2008. (XII. 31.) FVM rendelet 2. §-a szerint módosított szöveg.
+5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^145]
+
+[^144]: A 4. számú melléklet táblázat alatti szövegrészét a 68/2010. (V. 12.) FVM rendelet 7. § (3) bekezdése iktatta be. [E módosító rendelet 8. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.]
+[^145]: Az 5. számú melléklet a 136/2007. (XI. 15.) FVM rendelet 2. § (1) bekezdésével megállapított, a 173/2008. (XII. 31.) FVM rendelet 2. §-a szerint módosított szöveg.

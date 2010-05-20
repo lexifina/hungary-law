@@ -1,4 +1,4 @@
-9. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^146]
+9. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^154]
 
 ## Fajtabélyegek és kifejeződési fokozataik
 
@@ -1356,4 +1356,4 @@ kései
 
 nagyon kései
 
-[^146]: A 9. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
+[^154]: A 9. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.

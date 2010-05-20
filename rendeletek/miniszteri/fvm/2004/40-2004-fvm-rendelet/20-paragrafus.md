@@ -1,4 +1,4 @@
-20. § (1)[^54] Az MgSzH Központja az állami elismerés visszavonását kezdeményezi, ha
+20. § (1)[^58] Az MgSzH Központja az állami elismerés visszavonását kezdeményezi, ha
 
 a) a bejelentéskor vagy a vizsgálat során a bejelentő hamis adatokat szolgáltatott,
 
@@ -16,4 +16,4 @@ g) a bejelentő nem fizeti meg az állami elismerés időtartama alatt végzett 
 
 (2) A fajta állami elismerésének visszavonását követően a szaporítóanyag a visszavonást követő harmadik év június 30. napjáig forgalmazható.
 
-[^54]: A 20. § (1) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (4) bekezdés f) pontjával megállapított szöveg.
+[^58]: A 20. § (1) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (4) bekezdés f) pontjával megállapított szöveg.

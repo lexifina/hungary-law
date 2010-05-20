@@ -1,8 +1,8 @@
-8. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^140]
+8. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^148]
 
 ## A Fajtaminősítő Bizottság működésének részletes szabályai
 
-1.[^141] A Fajtaminősítő Bizottság a következő szekciókból áll:
+1.[^149] A Fajtaminősítő Bizottság a következő szekciókból áll:
 
 a) szántóföldi növények szekció,
 
@@ -12,7 +12,7 @@ c) szőlő, gyümölcs szekció,
 
 d) erdészeti szekció.
 
-2.[^142] A Fajtaminősítő Bizottság ülésén a titkárt szakirányú helyettese helyettesítheti. A Fajtaminősítő Bizottság tagja az ülésen nem helyettesíthető.
+2.[^150] A Fajtaminősítő Bizottság ülésén a titkárt szakirányú helyettese helyettesítheti. A Fajtaminősítő Bizottság tagja az ülésen nem helyettesíthető.
 
 3. A Fajtaminősítő Bizottság tagjainak megbízatása visszavonásig érvényes. A Fajtaminősítő Bizottság tagjának három ülésről való igazolatlan távolmaradása esetén a szekcióelnök – a Fajtaminősítő Bizottság elnöke útján – a miniszternél kezdeményezheti a megbízatás visszavonását.
 
@@ -38,25 +38,25 @@ c) elkészíti a Fajtaminősítő Bizottság határozati javaslatait.
 
 7. A szekcióelnök levezeti a szekcióüléseket és aláírásával hitelesíti az ülések jegyzőkönyveit és a határozati javaslatokat.
 
-8.[^143] A Fajtaminősítő Bizottság az előterjesztett javaslatokat egyenként tárgyalja meg. A döntések előtt a Fajtaminősítő Bizottság a fajta előterjesztőjét, bejelentőjét vagy képviselőjét és szükség esetén a meghívott szakértőket meghallgatja. A bejelentő, az MgSzH Központja témavezetője és a meghívott szakértők kizárólag az őket érintő ügy tárgyalásakor szólalhatnak fel az ülésen.
+8.[^151] A Fajtaminősítő Bizottság az előterjesztett javaslatokat egyenként tárgyalja meg. A döntések előtt a Fajtaminősítő Bizottság a fajta előterjesztőjét, bejelentőjét vagy képviselőjét és szükség esetén a meghívott szakértőket meghallgatja. A bejelentő, az MgSzH Központja témavezetője és a meghívott szakértők kizárólag az őket érintő ügy tárgyalásakor szólalhatnak fel az ülésen.
 
 9. A Fajtaminősítő Bizottság tagjainak az előterjesztésben foglaltaktól eltérő véleményét, annak indokolását, az ülésen részt vevő tagok számát, valamint a szavazatok arányát jegyzőkönyvben kell rögzíteni.
 
-10.[^144] A Fajtaminősítő Bizottság munkájával kapcsolatos ügyviteli teendőket az MgSzH Központja látja el. Ezzel összefüggésben az MgSzH Központja
+10.[^152] A Fajtaminősítő Bizottság munkájával kapcsolatos ügyviteli teendőket az MgSzH Központja látja el. Ezzel összefüggésben az MgSzH Központja
 
 a) előkészíti az állami elismerésre, annak elutasítására, illetve az állami elismerés visszavonására vonatkozó, valamint az egyéb napirendre kerülő előterjesztéseket,
 
 b) ellátja az ülés előkészítésével és megtartásával összefüggő feladatokat,
 
-c)[^145] az ülések jegyzőkönyvei és a Fajtaminősítő Bizottság állásfoglalása alapján az ülést követő 22 munkanapon belül elkészíti a növényfajták állami elismerésére, annak elutasítására, meghosszabbítására, illetve az állami elismerés visszavonására vonatkozó határozatot,
+c)[^153] az ülések jegyzőkönyvei és a Fajtaminősítő Bizottság állásfoglalása alapján az ülést követő 22 munkanapon belül elkészíti a növényfajták állami elismerésére, annak elutasítására, meghosszabbítására, illetve az állami elismerés visszavonására vonatkozó határozatot,
 
 d) a minisztérium hivatalos lapjában történő közzététel céljából a minisztérium részére megküldi a növényfajták állami elismerésével, annak elutasításával, meghosszabbításával vagy az állami elismerés visszavonásával kapcsolatos határozatát,
 
 e) gondoskodik a Fajtaminősítő Bizottság által jóváhagyott fajtavizsgálati módszerek és azok módosításának bevezetéséről és az állami elismeréssel kapcsolatos egyéb feladatok végrehajtásáról.
 
-[^140]: A 8. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
-[^141]: A 8. számú melléklet 1. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (9) bekezdésével megállapított szöveg.
-[^142]: A 8. számú melléklet 2. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (9) bekezdésével megállapított szöveg.
-[^143]: A 8. számú melléklet 8. pontjának harmadik mondata a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^144]: A 8. számú melléklet 10. pontjának felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^145]: A 8. számú melléklet 10. pontjának c) alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^148]: A 8. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
+[^149]: A 8. számú melléklet 1. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^150]: A 8. számú melléklet 2. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^151]: A 8. számú melléklet 8. pontjának harmadik mondata a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^152]: A 8. számú melléklet 10. pontjának felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^153]: A 8. számú melléklet 10. pontjának c) alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.

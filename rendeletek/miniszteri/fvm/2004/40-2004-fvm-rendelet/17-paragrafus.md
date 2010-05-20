@@ -1,10 +1,10 @@
-## 16. §[^47] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról az MgSzH Központja időközi vagy végleges DUS-vizsgálati jelentést készít. Az MgSzH Központja a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha az MgSzH Központja a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
+## 16. §[^50] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról az MgSzH Központja időközi vagy végleges DUS-vizsgálati jelentést készít. Az MgSzH Központja a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha az MgSzH Központja a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
 
 ## A növényfajták állami elismerése, annak elutasítása
 
 ## és visszavonása
 
-17. § (1)[^48] A kísérleti vizsgálatok eredményei alapján az MgSzH Központja előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
+17. § (1)[^51] A kísérleti vizsgálatok eredményei alapján az MgSzH Központja előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
 
 a) a növényfajta állami elismerésére,
 
@@ -17,6 +17,8 @@ d) a növényfajta állami elismerésének meghosszabbítására,
 e) a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságára vonatkozó végrehajtási szabályok megállapításáról szóló, a Bizottság 930/2000/EK rendeletében foglaltak szerint másik fajtanév bejegyzésére, vagy
 
 f) újabb fajtafenntartó bejegyzésére.
+
+[g)[^52] gyümölcsfajták új fajtakísérlet nélküli állami elismerésére.]
 
 (2) Az előterjesztésnek – a bejelentésre vonatkozó kérelemben foglaltak alapján – tartalmaznia kell:
 
@@ -46,7 +48,7 @@ e) a fajta gazdasági értékvizsgálatának eredményeit az arra kötelezett fa
 
 f) a 9. § (4) bekezdése szerinti tulajdonságokat,
 
-g)[^49] a javasolt és az MgSzH Központja által ellenőrzött fajtanevet,
+g)[^53] a javasolt és az MgSzH Központja által ellenőrzött fajtanevet,
 
 h) a döntési javaslatot és annak indoklását.
 
@@ -54,6 +56,7 @@ h) a döntési javaslatot és annak indoklását.
 
 (5) Az állami elismerés időpontját legalább 90 nappal megelőzően a javasolt fajtanevet az Európai Unió tagállamai hatóságainak tudomására kell hozni, biztosítva a felszólalás lehetőségét.
 
-[^47]: A 16. § a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^48]: A 17. § (1) bekezdésének felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^49]: A 17. § (3) bekezdésének g) pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^50]: A 16. § a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^51]: A 17. § (1) bekezdésének felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^52]: A 17. § (1) bekezdés g) pontját a 68/2010. (V. 12.) FVM rendelet 5. §-a iktatta be. [E módosító rendelet 8. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.]
+[^53]: A 17. § (3) bekezdésének g) pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.

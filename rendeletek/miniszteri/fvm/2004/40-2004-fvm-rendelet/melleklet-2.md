@@ -1,6 +1,6 @@
 ## Az állami elismerésre, illetve Szállítói Fajtajegyzékre vételre kötelezett növényfajok
 
-## jegyzéke
+## jegyzéke[^85]
 
 ## I. Állami elismerésre kötelezett növényfajok
 
@@ -70,133 +70,133 @@
 
 ## 29. Trisetum flavescens (L.) P. Beauv. aranyzab
 
-## 30.[^80] Galega orientalis L. keleti kecskeruta
+## 30.[^86] Galega orientalis L. keleti kecskeruta
 
-## 31.[^81] Hedysarum coronarium L. coronas (olasz) baltavirág
+## 31.[^87] Hedysarum coronarium L. coronas (olasz) baltavirág
 
-## 32.[^82] Lotus corniculatus L. szarvaskerep
+## 32.[^88] Lotus corniculatus L. szarvaskerep
 
-## 33.[^83] Lupinus albus L. fehérvirágú csillagfürt
+## 33.[^89] Lupinus albus L. fehérvirágú csillagfürt
 
-## 34.[^84] Lupinus angustifolius L. kékvirágú csillagfürt
+## 34.[^90] Lupinus angustifolius L. kékvirágú csillagfürt
 
-## 35.[^85] Lupinus luteus L. sárgavirágú csillagfürt
+## 35.[^91] Lupinus luteus L. sárgavirágú csillagfürt
 
-## 36.[^86] Medicago lupulina L. komlós lucerna
+## 36.[^92] Medicago lupulina L. komlós lucerna
 
-## 37.[^87] Medicago sativa L. kékvirágú lucerna
+## 37.[^93] Medicago sativa L. kékvirágú lucerna
 
-## 38.[^88] Medicago x varia T. Martyn tarkavirágú lucerna
+## 38.[^94] Medicago x varia T. Martyn tarkavirágú lucerna
 
-## 39.[^89] Onobrychis viciifolia Scop. baltacim
+## 39.[^95] Onobrychis viciifolia Scop. baltacim
 
-## 40.[^90] Pisum sativum L. (partim) takarmányborsó
+## 40.[^96] Pisum sativum L. (partim) takarmányborsó
 
-## 41.[^91] Trifolium alexandrinum L. alexandriai here
+## 41.[^97] Trifolium alexandrinum L. alexandriai here
 
-## 42.[^92] Trifolium hybridum L. svédhere
+## 42.[^98] Trifolium hybridum L. svédhere
 
-## 43.[^93] Trifolium incarnatum L. bíborhere
+## 43.[^99] Trifolium incarnatum L. bíborhere
 
-## 44.[^94] Trifolium pratense L. vöröshere
+## 44.[^100] Trifolium pratense L. vöröshere
 
-## 45.[^95] Trifolium repens L. fehérhere
+## 45.[^101] Trifolium repens L. fehérhere
 
-## 46.[^96] Trifolium resupinatum L. perzsahere
+## 46.[^102] Trifolium resupinatum L. perzsahere
 
-## 47.[^97] Trigonella foenum-graecum L. görögszéna
+## 47.[^103] Trigonella foenum-graecum L. görögszéna
 
-## 48.[^98] Vicia faba L. (partim) lóbab
+## 48.[^104] Vicia faba L. (partim) lóbab
 
-## 49.[^99] Vicia pannonica Crantz pannonbükköny
+## 49.[^105] Vicia pannonica Crantz pannonbükköny
 
-## 50.[^100] Vicia sativa L. tavaszi bükköny
+## 50.[^106] Vicia sativa L. tavaszi bükköny
 
-## 51.[^101] Vicia villosa Roth szöszösbükköny
+## 51.[^107] Vicia villosa Roth szöszösbükköny
 
-## 52.[^102] Brassica napus L.
+## 52.[^108] Brassica napus L.
 
 ## var. napobrassica (L.) Rchb. karórépa
 
-## 53.[^103] Brassica oleracea L. convar.
+## 53.[^109] Brassica oleracea L. convar.
 
 ## acephala (DC.) Alef. var.
 
 ## medullosa Thell. var. viridis L. takarmánykáposzta
 
-## 54.[^104] Phacelia tanacetifolia Benth. mézontófű
+## 54.[^110] Phacelia tanacetifolia Benth. mézontófű
 
-## 55.[^105] Raphanus sativus L.var. oleiformis Pers. olajretek
+## 55.[^111] Raphanus sativus L.var. oleiformis Pers. olajretek
 
 ## Olaj- és rostnövények
 
-## 56.[^106] Arachis hypogea L. földimogyoró
+## 56.[^112] Arachis hypogea L. földimogyoró
 
-## 57.[^107] Brassica rapa L.
+## 57.[^113] Brassica rapa L.
 
 ## var. silvestris (Lam.) Briggs réparepce
 
-## 58.[^108] Brassica juncea (L.) Czernj et Cosson sareptai mustár
+## 58.[^114] Brassica juncea (L.) Czernj et Cosson sareptai mustár
 
-## 59.[^109] Brassica napus L. (partim) káposztarepce
+## 59.[^115] Brassica napus L. (partim) káposztarepce
 
-## 60.[^110] Brassica nigra (L.) Koch fekete mustár
+## 60.[^116] Brassica nigra (L.) Koch fekete mustár
 
-## 61.[^111] Cannabis sativa L. kender
+## 61.[^117] Cannabis sativa L. kender
 
-## 62.[^112] Carthamus tincotorius L. pórsáfrány (sáfrányos szeklice
+## 62.[^118] Carthamus tincotorius L. pórsáfrány (sáfrányos szeklice
 
-## 63.[^113] Carum carvi L. kömény
+## 63.[^119] Carum carvi L. kömény
 
-## 64.[^114] Gossypium ssp. gyapot
+## 64.[^120] Gossypium ssp. gyapot
 
-## 65.[^115] Helianthus annuus L. napraforgó
+## 65.[^121] Helianthus annuus L. napraforgó
 
-## 66.[^116] Linum usitatissimum L. len
+## 66.[^122] Linum usitatissimum L. len
 
-## 67.[^117] Papaver somniferum L. mák
+## 67.[^123] Papaver somniferum L. mák
 
-## 68.[^118] Sinapis alba L. fehér mustár
+## 68.[^124] Sinapis alba L. fehér mustár
 
-## 69.[^119] Glycine max (L.) Merrill szója
+## 69.[^125] Glycine max (L.) Merrill szója
 
 ## Gabonafélék
 
-## 70.[^120] Avena sativa L. zab
+## 70.[^126] Avena sativa L. zab
 
-## 71.[^121] Hordeum vulgare L. árpa
+## 71.[^127] Hordeum vulgare L. árpa
 
-## 72.[^122] Oryza sativa L. rizs
+## 72.[^128] Oryza sativa L. rizs
 
-## 73.[^123] Phalaris canariensis L. kanári köles
+## 73.[^129] Phalaris canariensis L. kanári köles
 
-## 74.[^124] Secale cereale L. rozs
+## 74.[^130] Secale cereale L. rozs
 
-## 75.[^125] Sorghum bicolor (L.) Moench cirok
+## 75.[^131] Sorghum bicolor (L.) Moench cirok
 
-## 76.[^126] Sorghum sudanense (Piper) Stapf. szudáni fű
+## 76.[^132] Sorghum sudanense (Piper) Stapf. szudáni fű
 
-## 77.[^127] Sorghum bicolor (L.) Moench x
+## 77.[^133] Sorghum bicolor (L.) Moench x
 
 ## Sorghum sudanense (Piper) Stapf. cirok x szudáni fű hibrid
 
-## 78.[^128] X Triticosecale Wittm. tritikále
+## 78.[^134] X Triticosecale Wittm. tritikále
 
-## 79.[^129] Triticum aestivum L. búza
+## 79.[^135] Triticum aestivum L. búza
 
 ## emend. Fiori et Paol.
 
-## 80.[^130] Triticum durum Desf. durum búza
+## 80.[^136] Triticum durum Desf. durum búza
 
-## 81.[^131] Triticum spelta L. tönköly búza
+## 81.[^137] Triticum spelta L. tönköly búza
 
-## 82.[^132] Zea mays L. kukorica, a csemegekukorica, a pattogató kukorica, a gyöngykukorica és a díszkukorica kivételével
+## 82.[^138] Zea mays L. kukorica, a csemegekukorica, a pattogató kukorica, a gyöngykukorica és a díszkukorica kivételével
 
 ## Burgonya
 
-## 83.[^133] Solanum tuberosum L. burgonya
+## 83.[^139] Solanum tuberosum L. burgonya
 
-## B)[^134]
+## B)[^140]
 
 ## B) Zöldségek
 
@@ -278,7 +278,7 @@
 
 ## 1. Vitis L. szőlő
 
-## II. Szállítói Fajtajegyzékre vételre kötelezett növényfajok
+## II. Szállítói Fajtajegyzékre vételre kötelezett növényfajok[^141]
 
 ## Gyümölcs
 
@@ -332,61 +332,63 @@
 
 ## 25. Vaccinium L. áfonya
 
-2–3. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^135]
+2–3. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^142]
 
-[^80]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím új 30. pontját a 173/2008. (XII. 31.) FVM rendelet 2. §-a iktatta be, egyidejűleg az eredeti 32–82. pont számozását 33–83. pontra változtatta.
-[^81]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím 31. pontja a 173/2008. (XII. 31.) FVM rendelet 2. §-ával megállapított szöveg.
-[^82]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 31. pontjának számozása a 173/2008. (XII. 31.) FVM rendelet 2. §-a alapján 32. pontra változott.
-[^83]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 32. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 33. pontra változtatta.
-[^84]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 33. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 34. pontra változtatta.
-[^85]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 34. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 35. pontra változtatta.
-[^86]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 35. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 36. pontra változtatta.
-[^87]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 36. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 37. pontra változtatta.
-[^88]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 37. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 38. pontra változtatta.
-[^89]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 38. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 39. pontra változtatta.
-[^90]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 39. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 40. pontra változtatta.
-[^91]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 40. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 41. pontra változtatta.
-[^92]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 41. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 42. pontra változtatta.
-[^93]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 42. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 43. pontra változtatta.
-[^94]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 43. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 44. pontra változtatta.
-[^95]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 44. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 45. pontra változtatta.
-[^96]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 45. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 46. pontra változtatta.
-[^97]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 46. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 47. pontra változtatta.
-[^98]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 47. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 48. pontra változtatta.
-[^99]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 48. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 49. pontra változtatta.
-[^100]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 49. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 50. pontra változtatta.
-[^101]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 50. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 51. pontra változtatta.
-[^102]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 51. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 52. pontra változtatta.
-[^103]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 52. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 53. pontra változtatta.
-[^104]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 53. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 54. pontra változtatta.
-[^105]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 54. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 55. pontra változtatta.
-[^106]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím eredeti 55. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 56. pontra változtatta.
-[^107]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím eredeti 56. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 57. pontra változtatta.
-[^108]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 57. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 58. pontra változtatta.
-[^109]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 58. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 59. pontra változtatta.
-[^110]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 59. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 60. pontra változtatta.
-[^111]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 60. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 61. pontra változtatta.
-[^112]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 61. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 62. pontra változtatta.
-[^113]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 62. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 63. pontra változtatta.
-[^114]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 63. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 64. pontra változtatta.
-[^115]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 64. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 65. pontra változtatta.
-[^116]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 65. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 66. pontra változtatta.
-[^117]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 66. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 67. pontra változtatta.
-[^118]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 67. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 68. pontra változtatta.
-[^119]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 68. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 69. pontra változtatta.
-[^120]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 69. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 70. pontra változtatta.
-[^121]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 70. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 71. pontra változtatta.
-[^122]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 71. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 72. pontra változtatta.
-[^123]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 72. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 73. pontra változtatta.
-[^124]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 73. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 74. pontra változtatta.
-[^125]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 74. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 75. pontra változtatta.
-[^126]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 75. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 76. pontra változtatta.
-[^127]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 76. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 77. pontra változtatta.
-[^128]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 77. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 78. pontra változtatta.
-[^129]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 78. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 79. pontra változtatta.
-[^130]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 79. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 80. pontra változtatta.
-[^131]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 80. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 81. pontra változtatta.
-[^132]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 81. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 82. pontra változtatta.
-[^133]: Az 1. számú melléklet I. rész A) fejezet „Burgonya” cím 82. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 83. pontra változtatta.
-[^134]: Az 1. számú melléklet B) része a 87/2007. (VIII. 17.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^135]: A 2–3. számú mellékletet a 183/2009. (XII. 30.) FVM rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^85]: Az 1. számú melléklet címe helyébe az „Az állami elismerésre kötelezett növényfajok” cím lép a 68/2010. (V. 12.) FVM rendelet 7. § (1) bekezdése alapján. [E módosító rendelet 8. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.]
+[^86]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím új 30. pontját a 173/2008. (XII. 31.) FVM rendelet 2. §-a iktatta be, egyidejűleg az eredeti 32–82. pont számozását 33–83. pontra változtatta.
+[^87]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím 31. pontja a 173/2008. (XII. 31.) FVM rendelet 2. §-ával megállapított szöveg.
+[^88]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 31. pontjának számozása a 173/2008. (XII. 31.) FVM rendelet 2. §-a alapján 32. pontra változott.
+[^89]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 32. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 33. pontra változtatta.
+[^90]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 33. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 34. pontra változtatta.
+[^91]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 34. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 35. pontra változtatta.
+[^92]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 35. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 36. pontra változtatta.
+[^93]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 36. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 37. pontra változtatta.
+[^94]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 37. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 38. pontra változtatta.
+[^95]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 38. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 39. pontra változtatta.
+[^96]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 39. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 40. pontra változtatta.
+[^97]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 40. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 41. pontra változtatta.
+[^98]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 41. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 42. pontra változtatta.
+[^99]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 42. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 43. pontra változtatta.
+[^100]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 43. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 44. pontra változtatta.
+[^101]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 44. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 45. pontra változtatta.
+[^102]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 45. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 46. pontra változtatta.
+[^103]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 46. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 47. pontra változtatta.
+[^104]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 47. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 48. pontra változtatta.
+[^105]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 48. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 49. pontra változtatta.
+[^106]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 49. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 50. pontra változtatta.
+[^107]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 50. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 51. pontra változtatta.
+[^108]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 51. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 52. pontra változtatta.
+[^109]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 52. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 53. pontra változtatta.
+[^110]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 53. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 54. pontra változtatta.
+[^111]: Az 1. számú melléklet I. rész A) fejezet „Takarmánynövények” cím eredeti 54. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 55. pontra változtatta.
+[^112]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím eredeti 55. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 56. pontra változtatta.
+[^113]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím eredeti 56. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 57. pontra változtatta.
+[^114]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 57. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 58. pontra változtatta.
+[^115]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 58. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 59. pontra változtatta.
+[^116]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 59. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 60. pontra változtatta.
+[^117]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 60. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 61. pontra változtatta.
+[^118]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 61. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 62. pontra változtatta.
+[^119]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 62. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 63. pontra változtatta.
+[^120]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 63. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 64. pontra változtatta.
+[^121]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 64. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 65. pontra változtatta.
+[^122]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 65. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 66. pontra változtatta.
+[^123]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 66. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 67. pontra változtatta.
+[^124]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 67. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 68. pontra változtatta.
+[^125]: Az 1. számú melléklet I. rész A) fejezet „Olaj- és rostnövények” cím 68. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 69. pontra változtatta.
+[^126]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 69. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 70. pontra változtatta.
+[^127]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 70. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 71. pontra változtatta.
+[^128]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 71. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 72. pontra változtatta.
+[^129]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 72. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 73. pontra változtatta.
+[^130]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 73. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 74. pontra változtatta.
+[^131]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 74. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 75. pontra változtatta.
+[^132]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 75. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 76. pontra változtatta.
+[^133]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 76. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 77. pontra változtatta.
+[^134]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 77. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 78. pontra változtatta.
+[^135]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 78. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 79. pontra változtatta.
+[^136]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 79. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 80. pontra változtatta.
+[^137]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 80. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 81. pontra változtatta.
+[^138]: Az 1. számú melléklet I. rész A) fejezet „Gabonafélék” cím 81. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 82. pontra változtatta.
+[^139]: Az 1. számú melléklet I. rész A) fejezet „Burgonya” cím 82. pontjának számozását a 173/2008. (XII. 31.) FVM rendelet 2. §-a 83. pontra változtatta.
+[^140]: Az 1. számú melléklet B) része a 87/2007. (VIII. 17.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^141]: Az 1. számú melléklet II. részének megjelölése és címe helyébe a „D) Gyümölcs” megjelölés és cím lép a 68/2010. (V. 12.) FVM rendelet 7. § (2) bekezdése alapján. [E módosító rendelet 8. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.]
+[^142]: A 2–3. számú mellékletet a 183/2009. (XII. 30.) FVM rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.
