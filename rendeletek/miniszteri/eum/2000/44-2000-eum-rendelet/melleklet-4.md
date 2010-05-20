@@ -106,7 +106,7 @@
 
 ## 1. Általános bevezetés
 
-## 1.1.[^40] Az osztályozás célja azoknak a fizikai-kémiai, toxikológiai és ökotoxikológiai tulajdonságoknak a teljes körű számbavétele, melyek az anyagok és készítmények előírásszerű kezelése és rendeltetésszerű használata során kockázati tényezők lehetnek. A készítmény kockázatainak értékelése ezen tulajdonságok meghatározásán alapul azzal, hogy e tulajdonságokat a Kbtv. 3. § (2) bekezdésében, e rendelet 2. § (3)–(5) bekezdésében, valamint az 1.6., a 2.1., továbbá a 3.1.3. pontban foglaltakkal összhangban kell meghatározni.
+## 1.1.[^63] Az osztályozás célja azoknak a fizikai-kémiai, toxikológiai és ökotoxikológiai tulajdonságoknak a teljes körű számbavétele, melyek az anyagok és készítmények előírásszerű kezelése és rendeltetésszerű használata során kockázati tényezők lehetnek. A készítmény kockázatainak értékelése ezen tulajdonságok meghatározásán alapul azzal, hogy e tulajdonságokat a Kbtv. 3. § (2) bekezdésében, e rendelet 2. § (3)–(5) bekezdésében, valamint az 1.6., a 2.1., továbbá a 3.1.3. pontban foglaltakkal összhangban kell meghatározni. E melléklet alkalmazásában a keverék fogalommal azonos tartalommal alkalmazandó a készítmény kifejezés.
 
 ## 1.2. A 3. számú melléklet összefoglalja a veszélyes anyagok és készítmények osztályozásának és feliratozásának (címkézésének) általános alapelveit és módszertanának és valamennyi érdekelt félhez (gyártók, importőrök, értékesítők, hatóságok) szól.
 
@@ -114,11 +114,11 @@
 
 ## A címke tájékoztatást adhat továbbá az adott termékkel kapcsolatos, egyéb formában rendelkezésre álló, teljesebb körű biztonsági és használati leírásokról, információkról.
 
-## 1.4.[^41] A címkének fel kell hívnia a figyelmet a veszélyes anyagok és készítmények előírásszerű kezelésével és rendeltetésszerű használatával járó valamennyi potenciális veszélyre, amíg ezek abban a formában vannak, amelyben forgalomba kerültek; ez azonban nem feltétlenül azonos azzal a formával, amelyben egy anyag vagy készítmény végső felhasználásra kerül (pl. hígítva), és az anyagok és készítmények egyéb formáiban fennálló veszélyekről a címke nem feltétlenül nyújt teljes körű tájékoztatást. A fő veszélyt jelentő tulajdonságokat szimbólumokkal kell jelezni; ezekről és az egyéb veszélyes tulajdonságokból adódó veszélyekről a kockázatot jelző mondatokkal (R mondatokkal), a szükséges óvintézkedésekről pedig a biztonságos kezelésre utaló mondatokkal (S mondatokkal) kell tájékoztatást adni. Veszélyes anyagok és veszélyes készítmények feliratozása, címkézése során a Kbtv. 17. §-ában leírtak az irányadók.
+## 1.4.[^64] A címkének fel kell hívnia a figyelmet a veszélyes anyagok és készítmények előírásszerű kezelésével és rendeltetésszerű használatával járó valamennyi potenciális veszélyre, amíg ezek abban a formában vannak, amelyben forgalomba kerültek; ez azonban nem feltétlenül azonos azzal a formával, amelyben egy anyag vagy készítmény végső felhasználásra kerül (pl. hígítva), és az anyagok és készítmények egyéb formáiban fennálló veszélyekről a címke nem feltétlenül nyújt teljes körű tájékoztatást. A fő veszélyt jelentő tulajdonságokat szimbólumokkal kell jelezni; ezekről és az egyéb veszélyes tulajdonságokból adódó veszélyekről a kockázatot jelző mondatokkal (R mondatokkal), a szükséges óvintézkedésekről pedig a biztonságos kezelésre utaló mondatokkal (S mondatokkal) kell tájékoztatást adni. Veszélyes anyagok és veszélyes készítmények feliratozása, címkézése során a Kbtv. 17. §-ában leírtak az irányadók.
 
 ## 1.5. Az EINECS-ben szereplő, de a közösségi jegyzékben még nem szereplő veszélyes anyagok gyártói, forgalmazói és importőrei kötelesek maguk felkutatni az anyagok tulajdonságaira vonatkozó hiteles és hozzáférhető adatokat és az adatok alapján kötelesek az osztályozást, feliratozást (címkézést) és csomagolást elvégezni.
 
-## 1.6.[^42] Az osztályozáshoz és a feliratozáshoz szükséges adatok.
+## 1.6.[^65] Az osztályozáshoz és a feliratozáshoz szükséges adatok.
 
 ## 1.6.1. A) Anyagok osztályozásához és feliratozásához szükséges adatok az alábbi forrásokból szerezhetők be:
 
@@ -178,7 +178,7 @@
 
 ## A Kbtv. és e rendelet fogalommeghatározásait kell alkalmazni.
 
-## 1.7.2.[^43] Az irányadó kritériumok alkalmazása anyagok esetén
+## 1.7.2.[^66] Az irányadó kritériumok alkalmazása anyagok esetén
 
 ## A Kbtv.-ben és e rendeletben rögzített irányadó kritériumokat közvetlenül kell alkalmazni azokban az esetekben, amikor a kérdéses adatokhoz a 440/2008/EK rendeletben ismertetett vizsgálati módszerekhez hasonló módszerek alkalmazásával jutottak. Egyéb esetekben a rendelkezésre álló adatokat ki kell értékelni; az értékelés során az alkalmazott vizsgálati módszereket össze kell hasonlítani a 440/2008/EK rendeletben leírt módszerekkel, illetőleg az 1., 2., 3. és 4. számú mellékletekben meghatározott, osztályozásra és feliratozásra vonatkozó szabályokkal.
 
@@ -188,7 +188,7 @@
 
 ## Amennyiben egy anyag azonosított szennyeződéseket, adalékanyagokat vagy egyéb összetevőket tartalmaz, úgy ezeket akkor kell figyelembe venni, ha koncentrációjuk eléri vagy meghaladja a 4. számú mellékletben megadott értékeket, kivéve, ha a közösségi jegyzék alacsonyabb határértékeket határoz meg.
 
-## 1.7.3.[^44] Az irányadó kritériumok alkalmazása készítmények esetén
+## 1.7.3.[^67] Az irányadó kritériumok alkalmazása készítmények esetén
 
 ## E mellékletben rögzített irányadó kritériumok közvetlenül alkalmazandók azokban az esetekben, amikor a kérdéses adatokhoz a 440/2008/EK rendeletben ismertetett vizsgálati módszerekhez hasonló módszerekkel jutottak, kivéve a 4. pontban rögzített kritériumokat, amelyeknél csak a hagyományos módszer alkalmazható. Egyéb esetekben a rendelkezésre álló adatokat kell értékelni; ennek során az alkalmazott vizsgálati módszereket össze kell hasonlítani a 440/2008/EK rendeletben említett módszerekkel és e mellékletben meghatározott, osztályozásra és feliratozásra (címkézésre) vonatkozó szabályokkal.
 
@@ -208,13 +208,13 @@
 
 ## Ezekben az esetekben az 1.7.2.1. pontban említett eredeti készítmény vagy anyag forgalomba hozataláért felelős gyártó vagy importőr felelős az osztályozáshoz és feliratozáshoz (címkézéshez) szükséges adatok rendelkezésre bocsátásáért.
 
-## 1.8.[^45] Mentesülnek a címkézési és csomagolási követelmények alól azok a 3. számú melléklet 9.3. pontja szerinti készítmények, amelyek a fizikai-kémiai, egészségügyi és környezeti kockázatok alapján veszélyesnek tekintendők, de abban a formában, amelyben forgalomba hozzák őket, semmilyen fizikai-kémiai, egészségügyi vagy környezeti kockázatot nem jelentenek.
+## 1.8.[^68] Mentesülnek a címkézési és csomagolási követelmények alól azok a 3. számú melléklet 9.3. pontja szerinti készítmények, amelyek a fizikai-kémiai, egészségügyi és környezeti kockázatok alapján veszélyesnek tekintendők, de abban a formában, amelyben forgalomba hozzák őket, semmilyen fizikai-kémiai, egészségügyi vagy környezeti kockázatot nem jelentenek.
 
 ## 2. Osztályozás fizikai-kémiai tulajdonságok alapján
 
-## 2.1.[^46] Bevezetés
+## 2.1.[^69] Bevezetés
 
-## 2.1.1. A robbanásveszélyes, oxidáló és tűzveszélyes tulajdonságokra vonatkozó vizsgálati módszerek célja a Kbtv. 3. § aa)–ae) pontjában rögzített általános definíciók részletes kifejtése.
+## 2.1.1.[^70] A robbanásveszélyes, oxidáló és tűzveszélyes tulajdonságokra vonatkozó vizsgálati módszerek célja a Kbtv. 3. § (1) bekezdés aa)–ae) alpontjában rögzített általános definíciók részletes kifejtése.
 
 ## 2.1.2. A készítmény fizikai-kémiai tulajdonságaiból származó kockázatokat úgy kell megállapítani, hogy a 440/2008/EK rendeletben foglalt módszerekkel meg kell határozni a készítmény azon fizikai-kémiai tulajdonságait, amelyek az e mellékletben megjelölt kritériumokkal összhangban történő osztályozásához és címkézéséhez szükségesek.
 
@@ -228,11 +228,11 @@
 
 ## 2.1.4. Ha elegendő információ áll rendelkezésre annak gyakorlati bizonyítására, hogy egy anyag vagy készítmény (kivéve a szerves peroxidokat) fizikai-kémiai tulajdonságai eltérnek a jogszabályban vagy közösségi rendeletben ismertetett vizsgálati módszerek által megállapított tulajdonságoktól, úgy ezt az anyagot vagy készítményt aszerint kell besorolni, hogy milyen típusú veszélyt jelent az azt kezelő, illetve ezeknek az anyagoknak vagy készítményeknek hatáskörzetében tartózkodó személyekre.
 
-## 2.2.[^47] Az osztályozás, a szimbólumok kiválasztásának, a veszélyek megjelölésének és az R mondatok kiválasztásának kritériumai.
+## 2.2.[^71] Az osztályozás, a szimbólumok kiválasztásának, a veszélyek megjelölésének és az R mondatok kiválasztásának kritériumai.
 
 ## Készítmények esetén a Kbtv. 3. §-a aa)–ae) pontja fogalommeghatározás és a 440/2008/EK rendeletben említett módszerek eredményeit kell figyelembe venni.
 
-## 2.2.1.[^48] Robbanásveszélyes
+## 2.2.1.[^72] Robbanásveszélyes
 
 ## Egy anyagot vagy készítményt a 440/2008/EK rendeletben ismertetett vizsgálatok eredményei alapján kell robbanásveszélyesnek besorolni, amennyiben az robbanásveszélyes abban a formában, amelyben forgalomba kerül. Az ilyen anyagokat és készítményeket ,,robbanás-veszélyes'' szimbólummal és ,,E'' veszély-jelöléssel kell jelölni. A kockázatot jelző (R) mondat megadása kötelező, ezt az alábbiak szerint kell kiválasztani:
 
@@ -244,7 +244,7 @@
 
 ## – különösen érzékeny anyagok és készítmények mint pl. a pikrinsav sói.
 
-## 2.2.2.[^49] Oxidáló
+## 2.2.2.[^73] Oxidáló
 
 ## Egy anyagot vagy készítményt a 440/2008/EK rendeletben ismertetett vizsgálatok eredményei alapján kell oxidálónak besorolni. Az ilyen anyagokat és készítményeket ,,égést tápláló, oxidáló'' szimbólummal és ,,O'' veszély-jelöléssel kell jelölni. A kockázatot jelző (R) mondat megadása kötelező, ezt a vizsgálati eredmények alapján kell kiválasztani, az alábbiak figyelembevétele mellett:
 
@@ -260,7 +260,7 @@
 
 ## – egyéb anyagok és készítmények, ideértve a szervetlen peroxidokat is, amelyek robbanásveszélyessé válnak éghető anyagokkal keveredve, pl. egyes klorátok.
 
-## 2.2.2.1.[^50] Peroxidokkal kapcsolatos megjegyzések
+## 2.2.2.1.[^74] Peroxidokkal kapcsolatos megjegyzések
 
 ## Robbanásveszélyes tulajdonságok esetén a szerves peroxidokat és az ezekből készült készítményeket a 2.2.1. pontban rögzített kritériumoknak megfelelően, a 440/2008/EK rendeletben meghatározott módszerek szerint végzett vizsgálatok alapján soroljuk be, abban a formában amelyben azokat kereskedelmi forgalomba hozzák.
 
@@ -276,7 +276,7 @@
 
 ## – több mint 0,5% szerves peroxidokból származó aktív oxigént, és több mint 5% hidrogén-peroxidot tartalmaz.
 
-## 2.2.3.[^51] Fokozottan tűzveszélyes
+## 2.2.3.[^75] Fokozottan tűzveszélyes
 
 ## Egy anyagot vagy készítményt a 440/2008/EK rendeletben ismertetett vizsgálatok eredményei alapján kell fokozottan tűzveszélyesnek besorolni. Az ilyen anyagokat és készítményeket ,,fokozottan tűzveszélyes'' szimbólummal és ,,F+'' veszély-jelöléssel kell jelölni. A kockázatot jelző (R) mondatot az alábbi kritériumoknak megfelelően kell kiválasztani:
 
@@ -286,7 +286,7 @@
 
 ## – Gáz-halmazállapotú anyagok és készítmények, amelyek szobahőmérsékleten és szokásos (normális) nyomáson levegővel érintkezve tűzveszélyesek.
 
-## 2.2.4.[^52] Tűzveszélyes
+## 2.2.4.[^76] Tűzveszélyes
 
 ## Egy anyagot vagy készítményt a 440/2008/EK rendeletben ismertetett vizsgálatok eredményei alapján kell tűzveszélyesnek besorolni. Az ilyen anyagokat és készítményeket ,,tűzveszélyes'' szimbólummal és ,,F'' veszély-jelöléssel kell jelölni. A kockázatot jelző (R) mondatot az alábbi kritériumoknak megfelelően kell kiválasztani:
 
@@ -304,7 +304,7 @@
 
 ## – Anyagok és készítmények amelyek szobahőmérsékleten levegővel érintkezve felforrósodhatnak, majd meggyulladhatnak, mindennemű energiabevitel nélkül.
 
-## 2.2.5.[^53] Kevésbé tűzveszélyes
+## 2.2.5.[^77] Kevésbé tűzveszélyes
 
 ## Egy anyagot vagy készítményt a 440/2008/EK rendeletben ismertetett vizsgálatok eredményei alapján kell kevésbé tűzveszélyesnek besorolni. A kockázatot jelző (R) mondatot az alábbi kritériumoknak megfelelően kell kiválasztani:
 
@@ -366,7 +366,7 @@
 
 ## 3.1. Bevezetés
 
-## 3.1.1.[^54] Az osztályozás célja figyelembe venni az anyagok és készítmények akut és krónikus, illetve késői hatásait egyaránt, függetlenül attól, hogy azokat egyszeri expozíció, vagy ismételt, illetve hosszan tartó expozíció okozza.
+## 3.1.1.[^78] Az osztályozás célja figyelembe venni az anyagok és készítmények akut és krónikus, illetve késői hatásait egyaránt, függetlenül attól, hogy azokat egyszeri expozíció, vagy ismételt, illetve hosszan tartó expozíció okozza.
 
 ## Amennyiben elegendő adat áll rendelkezésre annak gyakorlati bizonyítására, hogy egy anyag vagy készítmény emberre gyakorolt mérgező (toxikus) hatása eltér vagy valószínűsíthetően eltér az állatkísérletek vagy a 440/2008/EK rendeletben említett hagyományos módszer alkalmazása útján nyert kísérleti adatok által előre jelzett hatásoktól, úgy az ilyen anyagot vagy készítményt az emberre gyakorolt toxicitás alapján kell besorolni. Az embereken végzett kísérleteket azonban kerülni kell, és nem szabad állatkísérletek pozitív eredményeinek felülbírálására használni.
 
@@ -382,7 +382,7 @@
 
 ## e) specifikus egészséget veszélyeztető hatások (rákkeltő és mutagén hatások, reprodukciós toxicitás) esetében a 4. pontban ismertetett kritériumok alkalmazandók.
 
-## 3.1.3.[^55] Készítmények esetén a veszélyes egészségkárosító hatások szerinti besorolás az alábbiak szerint történik:
+## 3.1.3.[^79] Készítmények esetén a veszélyes egészségkárosító hatások szerinti besorolás az alábbiak szerint történik:
 
 ## a) vizsgálati adatok hiányában a 440/2008/EK rendeletben említett hagyományos módszer alapján. Ebben az esetben a besorolás alapját a koncentrációs határértékek képezik
 
@@ -400,7 +400,7 @@
 
 ## 3.1.4. Amennyiben az osztályozás állatkísérletek, vizsgálati adatok alapján történik, a vizsgálati adatoknak érvényesnek kell lenniük emberre is, azaz a vizsgálatoknak megfelelő módon tükrözniük kell az emberekre vonatkoztatott kockázatokat.
 
-## 3.1.5.[^56] A forgalmazásra szánt anyagok és készítmények akut orális toxicitásának mértéke megállapítható egy, a LD50 érték felmérését lehetővé tevő módszerrel, vagy a diszkrimináló dózis meghatározásával [rögzített (fix) dózis eljárás].
+## 3.1.5.[^80] A forgalmazásra szánt anyagok és készítmények akut orális toxicitásának mértéke megállapítható egy, a LD50 érték felmérését lehetővé tevő módszerrel, vagy a diszkrimináló dózis meghatározásával [rögzített (fix) dózis eljárás].
 
 ## A diszkrimináló dózis az a dózis, amely érzékelhető mérgezési tüneteket (,,nyilvánvaló toxicitás'') okoz, de halálozást (mortalitást) nem; a diszkrimináló dózist a 440/2008/EK rendeletben meghatározott négy dózis szint közül kell kiválasztani (5, 50, 500 vagy 2000 mg/testtömeg kg).
 
@@ -424,7 +424,7 @@
 
 ## 3.2. Az osztályozás, a szimbólumok kiválasztásának, a veszélyek megjelölésének és az R mondatok kiválasztásának kritériumai
 
-## 3.2.1.[^57] Nagyon mérgező
+## 3.2.1.[^81] Nagyon mérgező
 
 ## Egy anyagot vagy készítményt az alábbi kritériumoknak megfelelően kell nagyon mérgezőnek besorolni. Az ilyen anyagokat és készítményeket ,,T+'' szimbólummal és a ,,nagyon mérgező'' veszély-jelöléssel kell jelölni.
 
@@ -460,7 +460,7 @@
 
 ## A beviteli/expozíciós út megjelölésére az alábbi R mondatkombinációk közül kell kiválasztani a megfelelőt: R39/26, R39/27, R39/28, R39/26/27, R39/26/28, R39/27/28, R39/26/27/28.
 
-## 3.2.2.[^58] Mérgező
+## 3.2.2.[^82] Mérgező
 
 ## Egy anyagot vagy készítményt az alábbi kritériumoknak megfelelően kell mérgezőnek besorolni. Az ilyen anyagokat és készítményeket ,,mérgező'' szimbólummal és ,,T'' veszély-jelöléssel kell jelölni. A kockázatot jelző (R) mondatokat az alábbi kritériumoknak megfelelően kell kiválasztani:
 
@@ -502,7 +502,7 @@
 
 ## A beviteli/expozíciós út megjelölésére az alábbi R mondat-kombinációk közül kell kiválasztani a megfelelőt: R48/23, R48/24, R48/25, R48/23/24, R48/23/25, R48/24/25, R48/23/24/25.
 
-## 3.2.3.[^59] Ártalmas
+## 3.2.3.[^83] Ártalmas
 
 ## Egy anyagot vagy készítményt az alábbi kritériumoknak megfelelően kell ártalmasnak besorolni. Az ilyen anyagokat és készítményeket ,,ártalmas'' szimbólummal és ,,Xn'' veszély-jelöléssel kell jelölni. A kockázatot jelző (R) mondatokat az alábbi kritériumoknak megfelelően kell kiválasztani:
 
@@ -572,9 +572,9 @@
 
 ## A beviteli/expozíciós út megjelölésére az alábbi R mondatkombinációk közül kell kiválasztani a megfelelőt: R48/20, R48/21, R48/22, R48/20/21, R48/20/22, R48/21/22, R48/20/21/22.
 
-## 3.2.3.1. Illékony anyagokkal kapcsolatos megjegyzések
+## 3.2.3.1.[^84] Illékony anyagokkal kapcsolatos megjegyzések
 
-## Egyes magas telítettségű gőz koncentrációval bíró anyagok esetében bizonyítékok állhatnak rendelkezésre aggodalomra okot adó hatásokról. Az ilyen anyagokat nem lehet besorolni a jelen dokumentumban ismertetett egészséget veszélyeztetett hatásokra vonatkozó kritériumok (3.2.3. pont) vagy a 3.2.8. pont alapján. Amennyiben megfelelő bizonyíték áll rendelkezésre arra nézve, hogy egy ilyen anyag rendeltetésszerű kezelés és használat során kockázatot jelenthet, úgy szükséges lehet a közösségi jegyzékben az anyag eseti alapon történő besorolása.
+## Egyes magas telítettségű gőz koncentrációval bíró anyagok esetében bizonyítékok állhatnak rendelkezésre aggodalomra okot adó hatásokról. Az ilyen anyagokat nem lehet besorolni a jelen mellékletben ismertetett egészséget veszélyeztetett hatásokra vonatkozó kritériumok (3.2.3. pont) vagy a 3.2.8. pont alapján. Amennyiben megfelelő bizonyíték áll rendelkezésre arra nézve, hogy egy ilyen anyag rendeltetésszerű kezelés és használat során kockázatot jelenthet, úgy szükséges lehet a közösségi jegyzékben az anyag eseti alapon történő besorolása.
 
 ## 3.2.4. Az R48 mondat alkalmazásával kapcsolatos megjegyzések
 
@@ -616,7 +616,7 @@
 
 ## e) amikor a toxicitás fajspecifikus mechanizmusa bizonyított (pl. specifikus metabolizációs utak).
 
-## 3.2.5.[^60] Maró hatású
+## 3.2.5.[^85] Maró hatású
 
 ## Egy anyag vagy készítmény akkor minősül maró hatásúnak, ha állatokon egészséges, ép bőrre alkalmazva roncsolódást idéz elő a bőrszövet teljes vastagságában legalább egy állatnál a 440/2008/EK rendeletben említett bőrirritációs vizsgálat, vagy egy ezzel egyenértékű vizsgálat során, vagy amennyiben az eredmény előre jelezhető, például az erősen savas vagy lúgos reakcióból ítélve (bizonyított 2 vagy az alatti, illetve 11,5 vagy a feletti pH érték. Az alkáli- és savtartalékot is figyelembe kell venni). Azonban, ha a besorolásnak a rendkívül nagy pH érték az alapja, akkor az alkáli/sav tartalékot (J. R. Young, M. J. How, A. P. Walker és M. H. Worth (1988) Toxic. In Vitro 2(1):pp.19–26) is figyelembe kell venni. Ha az alkáli/sav tartalék arra utal, hogy az anyag vagy készítmény valószínűleg nem lesz maró hatású, akkor ennek bizonyítására további vizsgálatot kell végezni; legjobb, ha ezt valamely megfelelő hitelesített in vitro vizsgálattal végzik. Az alkáli/sav tartalék vizsgálata önmagában nem elég az anyagok maró hatásúnak történő besorolásához.
 
@@ -644,7 +644,7 @@
 
 ## Az anyagot vagy készítményt az alábbi kritériumoknak megfelelően kell irritációt okozó (izgató) hatásúnak besorolni. Az ilyen anyagokat és készítményeket ,,irritációt okozó'' szimbólummal és ,,Xi'' veszély-jelöléssel kell jelölni.
 
-## 3.2.6.1.[^61] Bőrgyulladás
+## 3.2.6.1.[^86] Bőrgyulladás
 
 ## Az alábbi R mondatokat a megadott kritériumok alapján kell alkalmazni:
 
@@ -674,7 +674,7 @@
 
 ## Ha a vizsgálati eredmények vagy a gyakorlati tapasztalatok a fenti kritériumoknak megfelelő irritációról tanúskodnak, R mondatokat kell alkalmazni. S mondatok alkalmazandók abban az esetben, ha gyanítható, hogy egy anyag zsírtalanító tulajdonságai miatt akkor is irritációt okoz emberen, ha a fenti kritériumok nem teljesülnek, vagy ha nem megfelelő vizsgálati módszert alkalmaztak.
 
-## 3.2.6.2.[^62] Szemkárosodások
+## 3.2.6.2.[^87] Szemkárosodások
 
 ## Az alábbi R mondatokat a megadott kritériumok szerint kell alkalmazni:
 
@@ -798,7 +798,7 @@
 
 ## – specifikus pulmonális válaszreakciók tengerimalacoknál.
 
-## 3.2.7.2.[^63] Szenzibilizáció bőrrel való érintkezés útján
+## 3.2.7.2.[^88] Szenzibilizáció bőrrel való érintkezés útján
 
 ## Az alábbi kritériumoknak megfelelő anyagokat és készítményeket szenzibilizáló hatásúnak (túlérzékenységet okozónak) kell besorolni, ,,Irritációt okoz'' szimbólummal és ,,Xi'' veszély-jelöléssel, valamint az R43 mondattal kell jelölni.
 
@@ -914,11 +914,11 @@
 
 ## 4.1.1. Jelen pont ismerteti a besorolási eljárást azon anyagok esetében, amelyek az alábbiakban tárgyalt hatásokkal rendelkezhetnek. Készítményekhez az eljárást lásd a 4.2.4.pontban.
 
-## 4.1.2. Amennyiben a gyártó, forgalmazó vagy importőr olyan információk birtokában van, amelyek azt támasztják alá, hogy az anyagot a 4.2.1., 4.2.2. vagy 4.2.3. pontokban megadott kritériumoknak megfelelően kell besorolni és feliratozni (címkézni), köteles az anyagot ideiglenes felirattal ellátni a kritériumok szerint, a rendelkezésre álló bizonyítékok illetékes személy által történő értékelése alapján.
+## 4.1.2.[^89] Amennyiben a gyártó, forgalmazó vagy importőr olyan információk birtokában van, amelyek azt támasztják alá, hogy az anyagot a 4.2.1., 4.2.2. vagy 4.2.3. pontban megadott kritériumoknak megfelelően kell besorolni, köteles a besorolást elvégezni.
 
-## 4.1.3. A gyártó, forgalmazó vagy importőr a lehető leghamarabb köteles egy, az összes lényeges információt összefoglaló dokumentumot benyújtani. Ebben az összefüggésben, a lényeges információ elsősorban mindazt a rendelkezésre álló közzétett és nem közzétett információt tartalmazza, ami a kérdéses anyagnak a Kbtv. 3 §-ban megadott, az anyagok eredendő tulajdonságai szerinti és a jelen mellékletben megadott kritériumoknak megfelelően történő osztályba sorolásához szükséges. Az összefoglaló dokumentumnak tartalmaznia kell a valamennyi lényeges hivatkozást felsoroló bibliográfiát, beleértve a megbízható nem publikált adatokat.
+## 4.1.3.[^90] A gyártó, forgalmazó vagy importőr a lehető leghamarabb köteles egy, az összes lényeges információt összefoglaló dokumentumot benyújtani. Ebben az összefüggésben, a lényeges információ elsősorban mindazt a rendelkezésre álló közzétett és nem közzétett információt tartalmazza, ami a kérdéses anyagnak a Kbtv. 3. § (1) bekezdésében megadott, az anyagok eredendő tulajdonságai szerinti és a jelen mellékletben megadott kritériumoknak megfelelően történő osztályba sorolásához szükséges. Az összefoglaló dokumentumnak tartalmaznia kell a valamennyi lényeges hivatkozást felsoroló bibliográfiát, beleértve a megbízható nem publikált adatokat.
 
-## 4.1.4.[^64] Ezenkívül, amennyiben a gyártó, forgalmazó vagy importőr olyan új adatokkal rendelkezik, amelyek lényegesek az anyag vagy készítmény a 4.2.1., 4.2.2., vagy 4.2.3. pontokban megadott kritériumok szerint történő besorolása és feliratozása (címkézése) szempontjából, köteles ezeket az adatokat a lehető leghamarabb benyújtani a Kbtv. 5. § (4) bekezdésében leírtak figyelembevételével.
+## 4.1.4.[^91] Ezenkívül, amennyiben a gyártó, forgalmazó vagy importőr olyan új adatokkal rendelkezik, amelyek lényegesek az anyag vagy készítmény a 4.2.1., 4.2.2., vagy 4.2.3. pontokban megadott kritériumok szerint történő besorolása és feliratozása (címkézése) szempontjából, köteles ezeket az adatokat a lehető leghamarabb benyújtani a Kbtv. 5. § (4) bekezdésében leírtak figyelembevételével.
 
 ## 4.2. Az osztályozás, a veszélyek megjelölésének és az R mondatok kiválasztásának kritériumai
 
@@ -1184,7 +1184,7 @@
 
 ## Xn; R63: A születendő gyermeket károsíthatja.
 
-## 4.2.3.3.[^65] A reprodukciós szempontból mérgező (toxikus) anyagok kategóriába sorolásával kapcsolatos megjegyzések
+## 4.2.3.3.[^92] A reprodukciós szempontból mérgező (toxikus) anyagok kategóriába sorolásával kapcsolatos megjegyzések
 
 ## A reprodukciós toxicitás fogalmába beletartozik a férfi és női reprodukciós funkciók vagy képesség károsítása, valamint a nem-öröklődő káros hatások előidézése az utódokban. Ezeket a hatásokat két fő csoportba sorolhatjuk; 1. A férfi vagy női fertilitásra gyakorolt hatások; 2. Fejlődési toxicitás.
 
@@ -1242,7 +1242,7 @@
 
 ## 5. Osztályozás a környezeti hatások alapján
 
-## 5.1.[^66] Bevezetés
+## 5.1.[^93] Bevezetés
 
 ## A környezetre veszélyes anyagok és készítmények osztályozásának az az elsődleges célja, hogy figyelmeztesse a felhasználót az anyagok és készítmények ökoszisztémát veszélyeztető hatásaira. Bár a jelenlegi kritériumok vízi ökoszisztémákra vonatkoznak, elfogadottnak tekintjük, hogy egyes anyagok és készítmények ezzel egyidejűleg vagy ezzel ellentétben egyéb ökoszisztémákat (is) befolyásolnak, illetve károsítanak, amelyek alkotóelemei a talaj mikroflórájától és mikrofaunájától a főemlősökig terjedhetnek.
 
@@ -1258,7 +1258,7 @@
 
 ## – vagy, abban az esetben, ha az anyagot vagy anyagokat a közösségi jegyzék nem, vagy koncentráció határok nélkül tünteti fel, a. 2. számú melléklete ,,D'' részében találhatók.
 
-## 5.1.3.[^67] A készítmények besorolása rendesen valamely konvencionális eljárás szerint történik. Az akut víztoxicitás meghatározásához azonban szükség lehet arra, hogy az adott készítménnyel vizsgálatokat végezzenek. A készítménnyel végzett vizsgálatok eredménye esetleg módosíthatja azt az akut víztoxicitásra vonatkozó besorolást, amelyet a konvencionális eljárással kaptunk volna. Ha ezeket a vizsgálatokat a forgalomba hozatalért felelős személy választja meg, biztosítani kell, hogy a 440/2008/EK rendelet ,,C'' részében megadott vizsgálati módszerek megfeleljenek a minőségi kritériumoknak. Továbbá, e Melléklet kritériumainak megfelelően a vizsgálatokat mind a három fajon el kell végezni (algák, Daphnia és hal), hacsak a készítménynek a víztoxicitás szerint a legveszélyesebb osztályba történő besorolását az egyik faj vizsgálatával nem végezték el, vagy valamilyen vizsgálati adat már a Kbtv. hatálybalépése előtt rendelkezésre állt.
+## 5.1.3.[^94] A készítmények besorolása rendesen valamely konvencionális eljárás szerint történik. Az akut víztoxicitás meghatározásához azonban szükség lehet arra, hogy az adott készítménnyel vizsgálatokat végezzenek. A készítménnyel végzett vizsgálatok eredménye esetleg módosíthatja azt az akut víztoxicitásra vonatkozó besorolást, amelyet a konvencionális eljárással kaptunk volna. Ha ezeket a vizsgálatokat a forgalomba hozatalért felelős személy választja meg, biztosítani kell, hogy a 440/2008/EK rendelet ,,C'' részében megadott vizsgálati módszerek megfeleljenek a minőségi kritériumoknak. Továbbá, e Melléklet kritériumainak megfelelően a vizsgálatokat mind a három fajon el kell végezni (algák, Daphnia és hal), hacsak a készítménynek a víztoxicitás szerint a legveszélyesebb osztályba történő besorolását az egyik faj vizsgálatával nem végezték el, vagy valamilyen vizsgálati adat már a Kbtv. hatálybalépése előtt rendelkezésre állt.
 
 ## 5.2. Az osztályozás, a veszélyek megjelölésének és az R mondatok kiválasztásának kritériumai
 
@@ -1308,7 +1308,7 @@
 
 ## vagy a log Pow≥3,0 (kivéve, ha a kísérleti úton meghatározott BCF≤100)
 
-## 5.2.1.2.[^68] Az anyagot az alábbi kritériumoknak megfelelően kell környezetre veszélyesnek besorolni és a megfelelő R mondatokkal jelölni:
+## 5.2.1.2.[^95] Az anyagot az alábbi kritériumoknak megfelelően kell környezetre veszélyesnek besorolni és a megfelelő R mondatokkal jelölni:
 
 ## R52: Ártalmas a vízi szervezetekre
 
@@ -1406,7 +1406,7 @@
 
 ## Jelen 6. fejezetben a ,,gyártó'' alatt mindig az adott anyag vagy készítmény piaci forgalmazásáért felelős személyt értjük.
 
-## 6.2. Anyagoknál és készítményeknél alkalmazandó S mondatok
+## 6.2.[^96] Anyagoknál és készítményeknél alkalmazandó S mondatok
 
 ## S1 Elzárva tartandó
 
@@ -1712,9 +1712,9 @@
 
 ## – Az alkalmazás kritériumai:
 
-## = kötelező azoknál a környezetre veszélyes és ,,N'' szimbólummal jelölt anyagoknál, amelyeket a lakosság valószínűsíthetően használ, kivéve, ha ez rendeltetésszerű felhasználásnak minősül,
+## = kötelező azoknál a környezetre veszélyes és „N” szimbólummal jelölt anyagoknál és keverékeknél, amelyeket a lakosság valószínűsíthetően használ, kivéve, ha ez rendeltetésszerű felhasználásnak minősül,
 
-## = ajánlott a fent említett egyéb anyagoknál és készítményeknél, amelyeket a lakosság valószínűsíthetően használ, kivéve, ha ez rendeltetésszerű felhasználásnak minősül.
+## = ajánlott a fent említett egyéb anyagoknál és keverékeknél, amelyeket a lakosság valószínűsíthetően használ, kivéve, ha ez rendeltetésszerű felhasználásnak minősül.
 
 ## S30 Soha nem szabad vízzel keverni
 
@@ -1978,7 +1978,7 @@
 
 ## – Alkalmazási terület:
 
-## = ,,N'' szimbólummal jelölt anyagok.
+## = ,,N'' szimbólummal jelölt anyagok és keverékek.
 
 ## – Az alkalmazás kritériumai:
 
@@ -2036,9 +2036,9 @@
 
 ## – Alkalmazási terület:
 
-## = nagyon mérgező és mérgező anyagok és készítmények (gázok, gőzök, szemcsés anyagok, illékony folyadékok),
+## = nagyon mérgező és mérgező anyagok és keverékek (gázok, gőzök, finom porok, illékony folyadékok),
 
-## = légzőszervi szenzibilizációt okozó anyagok és készítmények.
+## = légzőszervi szenzibilizációt okozó anyagok és keverékek.
 
 ## – Az alkalmazás kritériumai:
 
@@ -2062,11 +2062,11 @@
 
 ## 7.1.1. A közösségi jegyzékben felsorolt anyagoknál a címkén szerepelnie kell továbbá az ,,EK címke'' feliratnak is.
 
-## 7.1.2. Az R és S mondatok végleges kiválasztása
+## 7.1.2.[^97] Az R és S mondatok végleges kiválasztása
 
 ## Bár azt, hogy végül pontosan mely R és S mondatokat szerepeltetjük a címkén, elsősorban az határozza meg, hogy melyek azok az információk amelyeket közölnünk kell, emellett még a címke áttekinthetőségét és az általa kiváltott hatást is figyelembe kell venni. Az áttekinthetőség szem előtt tartásával, törekedni kell a szükséges információk lehető legkisebb számú mondatban történő közlésére.
 
-## Irritációt okozó, fokozottan tűzveszélyes, tűzveszélyes és oxidáló anyagoknál és készítményeknél nem kell feltüntetni R és S mondatokat a 125 ml-t meg nem haladó mennyiségű terméket tartalmazó csomagolási egységeken. Ugyanez vonatkozik a lakossági forgalomba nem kerülő ártalmas anyagokra.
+## Irritációt okozó, fokozottan tűzveszélyes, tűzveszélyes és oxidáló anyagoknál és készítményeknél nem kell feltüntetni R és S mondatokat a 125 ml-t meg nem haladó mennyiségű terméket tartalmazó csomagolási egységeken. Ugyanez vonatkozik a lakossági forgalomba nem kerülő ártalmas anyagokra és keverékekre.
 
 ## Azoknál a készítményeknél, melyek a csomag tartalmának a térfogata nem haladja meg a 125 ml-t, az alábbiak az irányadók;
 
@@ -2074,7 +2074,7 @@
 
 ## – ha a készítményt a tűzveszélyes vagy környezetre veszélyes kategóriába sorolták és nem jelölték ,,N'' szimbólummal, szükség van az R mondatok feltüntetésére, de nem szükséges az S mondatok feltüntetése.
 
-## 7.1.3.[^69] A Kbtv. hatálya alá eső anyagok és készítmények címkéjén vagy csomagolásán nem szerepelhetnek a „nem mérgező”, „nem ártalmas”, „nem szennyező”, „környezetbarát” vagy egyéb hasonló értelmű, a veszély alulértékelését eredményezhető feliratok.
+## 7.1.3.[^98] A Kbtv. hatálya alá eső anyagok és készítmények címkéjén vagy csomagolásán nem szerepelhetnek a „nem mérgező”, „nem ártalmas”, „nem szennyező”, „környezetbarát” vagy egyéb hasonló értelmű, a veszély alulértékelését eredményezhető feliratok.
 
 ## 7.1.4. Egyes készítményekre a 10. számú melléklet 2. része külön rendelkezéseket határoz meg a feliratozásra (címkézésre).
 
@@ -2112,7 +2112,7 @@
 
 ## – ha az Xn szimbólumot feltüntetik, akkor az Xi szimbólum feltüntetése opcionális.
 
-## 7.3.3.[^70] A címkén fel kell tüntetni azon anyagok nevét, amelyek alapján a készítményt az alábbi veszélyességi kategóriák közül egybe vagy többe besorolták:
+## 7.3.3.[^99] A címkén fel kell tüntetni azon anyagok nevét, amelyek alapján a készítményt az alábbi veszélyességi kategóriák közül egybe vagy többe besorolták:
 
 ## – karcinogén, 1., 2. vagy 3. kategória,
 
@@ -2128,7 +2128,7 @@
 
 ## Az anyag nevét az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló 3/2006. (I. 26.) EüM rendelet 2. számú melléklete, ennek hiányában a rendelet 1. számú mellékletének 2. pontja szerint kell megadni.
 
-## 7.3.4.[^71] Nem szükséges megnevezni a címkén azon anyagok nevét, amelyek alapján a készítményt az alábbi veszélyességi kategóriákba sorolták:
+## 7.3.4.[^100] Nem szükséges megnevezni a címkén azon anyagok nevét, amelyek alapján a készítményt az alábbi veszélyességi kategóriákba sorolták:
 
 ## – robbanásveszélyes,
 
@@ -2196,13 +2196,13 @@
 
 ## 7.5.1. A közösségi jegyzékben felsorolt anyagoknál az ott feltüntetett S mondatokat kell alkalmazni. Ahol nincsenek meghatározva S mondatok, ott a gyártó/importáló adhat meg megfelelőnek ítélt S mondatokat a 6. pont figyelembevételével.
 
-## 7.5.2.[^72] S mondatok kiválasztása
+## 7.5.2.[^101] S mondatok kiválasztása
 
 ## Az S mondatok végső kiválasztásánál figyelembe kell venni a címkén szereplő R mondatokat, valamint az adott anyag vagy készítmény szándékolt felhasználási módját és célját is:
 
 ## – általános szabályként legfeljebb hat S mondatot használunk a leginkább szükséges óvintézkedések ismertetésére; ebből a szempontból az 1. számú melléklet 5. pontjában felsorolt összetett (kombinált) mondatok egy mondatnak számítanak,
 
-## – a hulladékkezeléssel kapcsolatos S mondatok közül egy S mondatot használunk, kivéve, ha egyértelmű, hogy az anyag és edényzetének hulladékként történő kezelése nem jelent veszélyt az emberek egészségére vagy a környezetre. Különösen a lakossági forgalmazásra kerülő anyagok és készítmények esetében lényeges a biztonságos hulladékkezeléssel kapcsolatos útmutatás feltüntetése,
+## – a hulladékkezeléssel kapcsolatos S mondatok közül egy S mondatot használunk, kivéve, ha egyértelmű, hogy az érintett anyag és keverék, valamint edényzetének hulladékként történő kezelése nem jelent veszélyt az emberek egészségére vagy a környezetre. Különösen a lakossági forgalmazásra kerülő anyagok és készítmények esetében lényeges a biztonságos hulladékkezeléssel kapcsolatos útmutatás feltüntetése,
 
 ## – egyes R mondatok feleslegessé válnak az S mondatok körültekintő megválasztása esetén, és fordítva; azokat az S mondatokat, amelyek nyilvánvalóan megfelelhetnek egy R mondatnak, csak abban az esetben tüntetjük fel a címkén, ha ezzel egy bizonyos figyelmeztetést akarunk kihangsúlyozni,
 
@@ -2268,7 +2268,7 @@
 
 ## 9.1.1. A fizikai-kémiai tulajdonságok felmérése
 
-## 9.1.1.1.[^73] Tűzveszélyesség
+## 9.1.1.1.[^102] Tűzveszélyesség
 
 ## Ezeknek a készítményeknek a tűzveszélyességre vonatkozó tulajdonságait a 440/2008/EK rendeletben ismertetett módszerek szerint kell meghatározni.
 
@@ -2322,7 +2322,7 @@
 
 ## – A fenti kifejezés csak abban az esetben ad megbízható eredményt, ha a tűzveszélyes gázok nem befolyásolják egymás tűzveszélyességét. Erre tekintettel kell lenni, pl. halogénezett szénhidrogéneknél.
 
-## 9.1.1.2.[^74] Oxidáló tulajdonságok
+## 9.1.1.2.[^103] Oxidáló tulajdonságok
 
 ## Tekintve, hogy a 440/2008/EK rendelet nem ismertet olyan módszert, amellyel meg lehetne határozni a gáz-halmazállapotú keverék oxidáló tulajdonságait, ezért ezeket a tulajdonságokat az alább ismertetett becslési módszer segítségével kell felmérni.
 
@@ -2384,7 +2384,7 @@
 
 ## Az aspirációs veszély alapján ártalmasnak besorolt készítményeket nem kell az R65 mondattal ártalmasként megjelölni, amennyiben azokat aeroszolos palackban vagy zárt szórófejjel ellátott palackban hozzák forgalomba.
 
-## 9.5.[^75] Szerves peroxidok
+## 9.5.[^104] Szerves peroxidok
 
 ## A szerves peroxidok egyetlen molekulában egyesítik az oxidálószer és az éghető anyag tulajdonságait: amikor a szerves peroxid lebomlik, a molekula oxidáló része exoterm reakcióba lép az éghető (oxidálható) résszel. Az oxidáló tulajdonságok vizsgálatára a 440/2008/EK rendeletben ismertetett jelenlegi módszerek szerves peroxidoknál nem alkalmazhatók.
 
@@ -2408,39 +2408,45 @@
 
 4. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez
 
-[^40]: A 3. számú melléklet 1.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^41]: A 3. számú melléklet 1.4. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^42]: A 3. számú melléklet 1.6. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^43]: A 3. számú melléklet 1.7.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^44]: A 3. számú melléklet 1.7.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^45]: A 3. számú melléklet 1.8. alpontját a 38/2008. (X. 3.) EüM rendelet 6. §-a iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^46]: A 3. számú melléklet 2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^47]: A 3. számú melléklet 2.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^48]: A 3. számú melléklet 2.2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^49]: A 3. számú melléklet 2.2.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^50]: A 3. számú melléklet 2.2.2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^51]: A 3. számú melléklet 2.2.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^52]: A 3. számú melléklet 2.2.4. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^53]: A 3. számú melléklet 2.2.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^54]: A 3. számú melléklet 3.1.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^55]: A 3. számú melléklet 3.1.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^56]: A 3. számú melléklet 3.1.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^57]: A 3. számú melléklet 3.2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^58]: A 3. számú melléklet 3.2.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^59]: A 3. számú melléklet 3.2.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^60]: A 3. számú melléklet 3.2.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^61]: A 3. számú melléklet 3.2.6.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^62]: A 3. számú melléklet 3.2.6.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^63]: A 3. számú melléklet 3.2.7.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^64]: A 3. számú melléklet 4.1.4. alpontja a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^65]: A 3. számú melléklet 4.2.3.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^66]: A 3. számú melléklet 5.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^67]: A 3. számú melléklet 5.1.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^68]: A 3. számú melléklet 5.2.1.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^69]: A 3. számú melléklet 7.1.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^70]: A 3. számú melléklet 7. pontjának 7.3.3. alpontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a iktatta be.
-[^71]: A 3. számú melléklet 7. pontjának 7.3.4. alpontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a iktatta be.
-[^72]: A 3. számú melléklet 7.5.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^73]: A 3. számú melléklet 9.1.1.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^74]: A 3. számú melléklet 9.1.1.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^75]: A 3. számú melléklet 9.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^63]: A 3. számú melléklet 1.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított, a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^64]: A 3. számú melléklet 1.4. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^65]: A 3. számú melléklet 1.6. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^66]: A 3. számú melléklet 1.7.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^67]: A 3. számú melléklet 1.7.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^68]: A 3. számú melléklet 1.8. alpontját a 38/2008. (X. 3.) EüM rendelet 6. §-a iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^69]: A 3. számú melléklet 2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^70]: A 3. számú melléklet 2.1.1. alpontja a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^71]: A 3. számú melléklet 2.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^72]: A 3. számú melléklet 2.2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^73]: A 3. számú melléklet 2.2.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^74]: A 3. számú melléklet 2.2.2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^75]: A 3. számú melléklet 2.2.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^76]: A 3. számú melléklet 2.2.4. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^77]: A 3. számú melléklet 2.2.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^78]: A 3. számú melléklet 3.1.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^79]: A 3. számú melléklet 3.1.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^80]: A 3. számú melléklet 3.1.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^81]: A 3. számú melléklet 3.2.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^82]: A 3. számú melléklet 3.2.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^83]: A 3. számú melléklet 3.2.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^84]: A 3. számú melléklet 3.2.3.1. alpontja a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^85]: A 3. számú melléklet 3.2.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^86]: A 3. számú melléklet 3.2.6.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^87]: A 3. számú melléklet 3.2.6.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^88]: A 3. számú melléklet 3.2.7.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^89]: A 3. számú melléklet 4.1.2. alpontja a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^90]: A 3. számú melléklet 4.1.3. alpontja a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^91]: A 3. számú melléklet 4.1.4. alpontja a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^92]: A 3. számú melléklet 4.2.3.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^93]: A 3. számú melléklet 5.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^94]: A 3. számú melléklet 5.1.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^95]: A 3. számú melléklet 5.2.1.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^96]: A 3. számú melléklet 6.2. alpontja a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^97]: A 3. számú melléklet 7.1.2. alpontja a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^98]: A 3. számú melléklet 7.1.3. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^99]: A 3. számú melléklet 7. pontjának 7.3.3. alpontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a iktatta be.
+[^100]: A 3. számú melléklet 7. pontjának 7.3.4. alpontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a iktatta be.
+[^101]: A 3. számú melléklet 7.5.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a, a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^102]: A 3. számú melléklet 9.1.1.1. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^103]: A 3. számú melléklet 9.1.1.2. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^104]: A 3. számú melléklet 9.5. alpontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.

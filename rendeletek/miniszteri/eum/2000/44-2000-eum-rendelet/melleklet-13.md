@@ -94,6 +94,6 @@
 
 |  | ………………………………………………….. orvos olvasható aláírása |
 
-13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^90]
+13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^123]
 
-[^90]: A 13. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 13. §-ának (2) bekezdése alapján előírásait a 2004. május 1. napját követően benyújtott bejelentések esetében kell alkalmazni.
+[^123]: A 13. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 13. §-ának (2) bekezdése alapján előírásait a 2004. május 1. napját követően benyújtott bejelentések esetében kell alkalmazni.

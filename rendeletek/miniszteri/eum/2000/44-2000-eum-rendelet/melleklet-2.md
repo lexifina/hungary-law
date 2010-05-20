@@ -2,9 +2,9 @@
 
 ## sorolása
 
-## 1. Az anyagok veszélyesség szerinti osztályozásának szempontjai
+## 1.[^50] Az anyagok veszélyesség szerinti osztályozásának szempontjai
 
-## E rendelet szerint veszélyesek a Kbtv 3. §-ban meghatározott sajátosságokkal bíró anyagok. E sajátosságok szerint történik az anyagok veszélyesség szerinti osztályozása.
+## E rendelet szerint veszélyesek a Kbtv 3. § (1) bekezdésében meghatározott sajátosságokkal bíró anyagok. E sajátosságok szerint történik az anyagok veszélyesség szerinti osztályozása.
 
 ## A veszélyesség megállapításának szempontjai
 
@@ -82,7 +82,7 @@
 
 | * Aeroszolok, szemcsés anyagok belégzése esetén; gázok, gőzök esetében az értékek nagyobbak (lásd 3. számú melléklet: 3.2.1; 3.2.2; 3.2.3) |
 
-## 3.[^30] Veszélyszimbólumok és jelek
+## 3.[^51] Veszélyszimbólumok és jelek
 
 ## Megjegyzés:
 
@@ -94,11 +94,11 @@
 
 ## – Ha egynél több figyelmeztető veszélyjel van hozzárendelve egy anyaghoz:
 
-## – a T+, illetve T veszélyjel kötelező felhelyezése esetén nem kötelező az Xn, Xi és C veszélyjel felhelyezése,
+## – a T+, illetve T veszélyjel kötelező alkalmazása esetén nem kötelező az Xn, Xi és C veszélyjel alkalmazása,
 
-## – a C veszélyjel kötelező felhelyezése esetén nem kötelező az Xn, Xi veszélyjel felhelyezése,
+## – a C veszélyjel kötelező alkalmazása esetén nem kötelező az Xn, Xi veszélyjel alkalmazása,
 
-## – az E veszélyjel kötelező felhelyezése esetén nem kötelező az F+, F és az O veszélyjelek felhelyezése.
+## – az E veszélyjel kötelező alkalmazása esetén nem kötelező az F+, F és az O veszélyjelek felhelyezése.
 
 ## 4. A veszélyes anyagok veszélyeire/kockázataira
 
@@ -180,7 +180,7 @@
 
 ## R 39 Nagyon súlyos és maradandó egészségkárosodást okozhat
 
-## R 40[^31] A rákkeltő hatás korlátozott mértékben bizonyított
+## R 40[^52] A rákkeltő hatás korlátozott mértékben bizonyított
 
 ## R 41 Súlyos szemkárosodást okozhat
 
@@ -234,9 +234,9 @@
 
 ## R 67 Gőzök álmosságot vagy szédülést okozhatnak
 
-## R 68[^32] Maradandó egészségkárosodást okozhat
+## R 68[^53] Maradandó egészségkárosodást okozhat
 
-## Összetett R mondatok[^33]
+## Összetett R mondatok[^54]
 
 ## R 14/15 Vízzel hevesen reagál és közben fokozottan tűzveszélyes gázok képződnek
 
@@ -570,7 +570,8 @@
 
 2. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez
 
-[^30]: Az 1. számú melléklet 3. pontja a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^31]: A 1. számú melléklet 4. pontjának R40 mondata a 33/2004. (IV. 26.) ESZCSM rendelet 13. § (1) bekezdése a) pontjának aa) alpontjával megállapított szöveg.
-[^32]: Az 1. számú melléklet 4. alcímének R68 mondatát a 33/2004. (IV. 26.) ESZCSM rendelet 5. §-a iktatta a szövegbe.
-[^33]: A 1. számú melléklet 4. pontjának az összetett R mondatok számozása a 33/2004. (IV. 26.) ESZCSM rendelet 13. § (1) bekezdése a) pontjának ab) alpontja szerint módosított szöveg.
+[^50]: Az 1. számú melléklet 1. pont nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^51]: Az 1. számú melléklet 3. pontja a 38/2008. (X. 3.) EüM rendelet 6. §-a, a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^52]: A 1. számú melléklet 4. pontjának R40 mondata a 33/2004. (IV. 26.) ESZCSM rendelet 13. § (1) bekezdése a) pontjának aa) alpontjával megállapított szöveg.
+[^53]: Az 1. számú melléklet 4. alcímének R68 mondatát a 33/2004. (IV. 26.) ESZCSM rendelet 5. §-a iktatta a szövegbe.
+[^54]: A 1. számú melléklet 4. pontjának az összetett R mondatok számozása a 33/2004. (IV. 26.) ESZCSM rendelet 13. § (1) bekezdése a) pontjának ab) alpontja szerint módosított szöveg.

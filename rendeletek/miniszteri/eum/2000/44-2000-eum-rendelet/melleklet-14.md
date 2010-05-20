@@ -1,12 +1,8 @@
-## 1. ADATLAP
-
-## veszélyes anyagokkal, illetve veszélyes készítményekkel végzett
-
-## tevékenység ÁNTSZ-hez történő bejelentéséhez
+## 1. ADATLAP[^124]
 
 ## 1. ADATLAP
 
-## veszélyes anyagokkal, illetve veszélyes készítményekkel végzett
+## veszélyes anyagokkal, illetve veszélyes keverékekkel végzett
 
 ## tevékenység ÁNTSZ-hez történő bejelentéséhez
 
@@ -28,7 +24,7 @@
 
 ## Telefon: Fax: ................................................ E-mail: ................................................
 
-## 2. A veszélyes anyaggal/veszélyes készítménnyel végzett tevékenység megnevezése a 2000. évi XXV. törvény 1. § u) pontja szerint: ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜ előállítás (1), gyártás (2), feldolgozás (3), csomagolás (4), tárolás (5), anyagmozgatás (6), forgalmazás (7), értékesítés (8), felhasználás (9), elemzéssel, ellenőrzéssel kapcsolatos vizsgálat (10), egyéb (11).
+## 2. A veszélyes anyaggal/veszélyes keverékkel végzett tevékenység megnevezése a 2000. évi XXV. törvény 1. § u) pontja szerint: ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜, ⬜ előállítás (1), gyártás (2), feldolgozás (3), csomagolás (4), tárolás (5), anyagmozgatás (6), forgalmazás (7), értékesítés (8), felhasználás (9), elemzéssel, ellenőrzéssel kapcsolatos vizsgálat (10), egyéb (11).
 
 | A tevékenységek TEÁOR kódjai: | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
@@ -74,15 +70,11 @@
 
 |  | aláírás |
 
-## 2. ADATLAP
-
-## veszélyes anyagokkal, illetve veszélyes készítményekkel végzett tevékenységekben
-
-## bekövetkezett változás ÁNTSZ-hez történő bejelentéséhez
+## 2. ADATLAP[^125]
 
 ## 2. ADATLAP
 
-## veszélyes anyagokkal, illetve veszélyes készítményekkel végzett tevékenységekben
+## veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenységekben
 
 ## bekövetkezett változás ÁNTSZ-hez történő bejelentéséhez
 
@@ -144,6 +136,8 @@
 
 |  | aláírás |
 
-14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^91]
+14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^126]
 
-[^91]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.
+[^124]: Az 1. adatlap a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^125]: A 2. adatlap a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^126]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.

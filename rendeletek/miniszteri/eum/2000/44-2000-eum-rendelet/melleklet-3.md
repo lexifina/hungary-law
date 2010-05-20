@@ -1,10 +1,10 @@
-## A veszélyes készítmények
+## A veszélyes keverékek
 
-## osztálybasorolása
+## osztálybasorolása[^55]
 
-## Egészségkárosító veszélyek meghatározása
+## Egészségkárosító veszélyek meghatározása[^56]
 
-## A veszélyes készítmények osztálybasorolását az alábbiak szerint kell elvégezni.
+## A veszélyes keverékek osztálybasorolását az alábbiak szerint kell elvégezni, azzal, hogy e melléklet alkalmazásában a keverék fogalommal azonos tartalommal alkalmazandó a készítmény kifejezés.
 
 ## Az összes kockázatot fel kell mérni, amit valamely anyag használata az egészségre nézve jelenthet. Ebből a célból az egészségre nézve veszélyes hatások a következőképpen oszthatók fel:
 
@@ -48,7 +48,7 @@
 
 ## ,,A''
 
-## AZ EGÉSZSÉGI VESZÉLYEK MEGHATÁROZÁSÁNAK MENETE[^34]
+## AZ EGÉSZSÉGI VESZÉLYEK MEGHATÁROZÁSÁNAK MENETE[^57]
 
 ## Az egészségi veszélyek meghatározása az alábbi eljárás szerint történik:
 
@@ -360,7 +360,7 @@
 
 ## ,,B''
 
-## AZ EGÉSZSÉGKÁROSÍTÓ VESZÉLYEK MEGHATÁROZÁSA SORÁN ALKALMAZANDÓ KONCENTRÁCIÓS HATÁRÉRTÉKEK[^35]
+## AZ EGÉSZSÉGKÁROSÍTÓ VESZÉLYEK MEGHATÁROZÁSA SORÁN ALKALMAZANDÓ KONCENTRÁCIÓS HATÁRÉRTÉKEK[^58]
 
 ## Az egyes egészségkárosító hatások vonatkozásában az első (A betűjelzés nélküli) táblázatok (I.–VI. táblázatok) tüntetik fel a nem gáz halmazállapotú készítmények esetében alkalmazandó tömegszázalékos arány formájában kifejezett koncentrációs határértékeket, míg a második (A betűjelzéssel is ellátott) táblázatok (I. A–VI. A. táblázatok) tüntetik fel a gáz halmazállapotú készítmények esetében alkalmazandó térfogatszázalékos arány formájában kifejezett koncentrációs határértékeket. Ezeket a koncentrációs határértékeket akkor használjuk, ha a közösségi jegyzékben a vizsgált anyag vonatkozásában nincs meghatározva konkrét koncentrációs határérték.
 
@@ -810,9 +810,9 @@
 
 ## b) a jelen melléklet ,,D'' részében (XI. táblázat) meghatározott koncentráció, amennyiben a vizsgált anyag vagy anyagok nem szerepelnek a közösségi jegyzékben, vagy szerepelnek ugyan, de ott nincs hozzájuk rendelve koncentrációs határérték;
 
-## 8.[^36]
+## 8.[^59]
 
-## 8.1.[^37]
+## 8.1.[^60]
 
 ## Szárazföldi környezet
 
@@ -836,7 +836,7 @@
 
 ## SORÁN ALKALMAZANDÓ KONCENTRÁCIÓS
 
-## HATÁRÉRTÉKEK[^38]
+## HATÁRÉRTÉKEK[^61]
 
 ## Vízi környezet esetében
 
@@ -974,11 +974,13 @@
 
 | > 25% ≤ 100% | ± 5% |
 
-3. számú melléklet a 44/2000 (XII. 27.) EüM rendelethez[^39]
+3. számú melléklet a 44/2000 (XII. 27.) EüM rendelethez[^62]
 
-[^34]: A 2. számú melléklet A) része a 33/2004. (IV. 26.) ESZCSM rendelet 13. § (1) bekezdése b) pontjának ba) alpontja szerint módosított szöveg.
-[^35]: A 2. számú melléklet B) része a 33/2004. (IV. 26.) ESZCSM rendelet 6. §-a, 13. § (1) bekezdése b) pontjának bb)–bc) alpontja, a 26/2007. (VI. 7.) EüM rendelet 3. §-a szerint módosított szöveg.
-[^36]: A 2. számú melléklet „C” részének 8. pontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a hatályon kívül helyezte.
-[^37]: A 2. számú melléklet „C” részének 8.1. pontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a hatályon kívül helyezte.
-[^38]: A 2. számú melléklet „D” része a 26/2007. (VI. 7.) EüM rendelet 3. §-a szerint módosított szöveg.
-[^39]: A 3. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 7. §-ával megállapított szöveg.
+[^55]: A 2. számú melléklet címe a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^56]: A 2. számú melléklet „Egészségkárosító veszélyek meghatározása” alcíme a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^57]: A 2. számú melléklet A) része a 33/2004. (IV. 26.) ESZCSM rendelet 13. § (1) bekezdése b) pontjának ba) alpontja szerint módosított szöveg.
+[^58]: A 2. számú melléklet B) része a 33/2004. (IV. 26.) ESZCSM rendelet 6. §-a, 13. § (1) bekezdése b) pontjának bb)–bc) alpontja, a 26/2007. (VI. 7.) EüM rendelet 3. §-a szerint módosított szöveg.
+[^59]: A 2. számú melléklet „C” részének 8. pontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a hatályon kívül helyezte.
+[^60]: A 2. számú melléklet „C” részének 8.1. pontját a 26/2007. (VI. 7.) EüM rendelet 3. §-a hatályon kívül helyezte.
+[^61]: A 2. számú melléklet „D” része a 26/2007. (VI. 7.) EüM rendelet 3. §-a szerint módosított szöveg.
+[^62]: A 3. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 7. §-ával megállapított szöveg.
