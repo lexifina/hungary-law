@@ -4,7 +4,7 @@
 
 (3) A kiadmányozó szervek a NATO menetparancs kiadmányozása és kezelése során a szigorú számadás szabályai szerint (sorszámozás, nyilvántartás és elszámolási kötelezettség) kötelesek eljárni.
 
-(4) A kiadmányozó szervek vezetői a HM és MH Titokvédelmi és Ügyviteli Szabályzata (a továbbiakban: HM, MH TÜSZ) szerint kötelesek megtenni a szükséges intézkedéseket a NATO menetparancs jogszerű kiadmányozásáért, valamint a menetparancs és a sorszámos körbélyegző megfelelő tárolásáért, kezeléséért és elszámolásáért.
+(4)[^2] A kiadmányozó szervek vezetői a Magyar Honvédség Titokvédelmi Szabályzata (a továbbiakban: MH TSZ) szerint kötelesek megtenni a szükséges intézkedéseket a NATO menetparancs jogszerű kiadmányozásáért, valamint a menetparancs és a sorszámos körbélyegző megfelelő tárolásáért, kezeléséért és elszámolásáért.
 
 (5) A kiadmányozó szervek kötelesek elkészíteni:
 
@@ -33,3 +33,5 @@ g) a menetparancs átvételének ideje, az átvevő neve, rendfokozata, aláír�
 h) a menetparancs visszavételének ideje;
 
 i) megjegyzés.
+
+[^2]: A 4. § (4) bekezdése a 11/2010. (V. 12.) HM rendelet 4. § a) pontja szerint módosított szöveg.
