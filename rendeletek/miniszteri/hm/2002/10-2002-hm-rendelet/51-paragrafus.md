@@ -12,6 +12,6 @@ d) ha a szolgálatteljesítés helyének változása miatt az állomány tagján
 
 e) ha az állomány tagja szolgálatteljesítési helyének változása miatt a közös háztartásában élő családtagok együttes költözése következtében igazolhatóan egészségromlás kockázata áll fent.
 
-(2)[^46] A kinevezési, áthelyezési jogkört gyakorló elöljáró – egyéni kérelem alapján – kivételes esetekben dönthet az (1) bekezdésben megjelölteken túl is a különös méltánylást érdemlő egyéni érdek elfogadásáról. Ha a szolgálati viszony módosítása – az (1) bekezdésben foglaltak figyelembevétele után – nem jár együtt a szolgálatteljesítés helyének megváltozásával, vagy a szolgálati viszony jelentős mértékű módosulásával, úgy különös méltánylást érdemlő egyéni érdek nem állapítható meg.
+(2)[^47] A kinevezési, áthelyezési jogkört gyakorló elöljáró – egyéni kérelem alapján – kivételes esetekben dönthet az (1) bekezdésben megjelölteken túl is a különös méltánylást érdemlő egyéni érdek elfogadásáról. Ha a szolgálati viszony módosítása – az (1) bekezdésben foglaltak figyelembevétele után – nem jár együtt a szolgálatteljesítés helyének megváltozásával, vagy a szolgálati viszony jelentős mértékű módosulásával, úgy különös méltánylást érdemlő egyéni érdek nem állapítható meg.
 
-[^46]: Az 51. § (2) bekezdésének második mondatát a 4/2006. (II. 7.) HM rendelet 17. §-a iktatta be.
+[^47]: Az 51. § (2) bekezdésének második mondatát a 4/2006. (II. 7.) HM rendelet 17. §-a iktatta be.

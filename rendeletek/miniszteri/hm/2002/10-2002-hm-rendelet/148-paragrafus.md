@@ -1,4 +1,4 @@
-## 147/C. §[^198] A Honvédség szociális-jóléti ellátórendszere szolgáltatásai közül az önkéntes tartalékos a tényleges katonai szolgálata alatt egészségügyi ellátásra, csoportos életbiztosításra családsegítő szolgáltatásra, kulturális és sportlétesítmények szolgáltatásaira, valamint elő- és utószezonban a honvédségi üdülők önköltséges térítési formában történő igénybevételére, a szolgálatteljesítéssel összefüggő haláleset esetén kegyeleti ellátásra jogosult.
+## 147/C. §[^199] A Honvédség szociális-jóléti ellátórendszere szolgáltatásai közül az önkéntes tartalékos a tényleges katonai szolgálata alatt egészségügyi ellátásra, csoportos életbiztosításra családsegítő szolgáltatásra, kulturális és sportlétesítmények szolgáltatásaira, valamint elő- és utószezonban a honvédségi üdülők önköltséges térítési formában történő igénybevételére, a szolgálatteljesítéssel összefüggő haláleset esetén kegyeleti ellátásra jogosult.
 
 ## XI. Fejezet
 
@@ -6,7 +6,7 @@
 
 148. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(4)[^199]
+(2)–(4)[^200]
 
-[^198]: A 147/C. §-t a 4/2006. (II. 7.) HM rendelet 65. § (3) bekezdése iktatta be.
-[^199]: A 148. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 104. pontja hatályon kívül helyezte.
+[^199]: A 147/C. §-t a 4/2006. (II. 7.) HM rendelet 65. § (3) bekezdése iktatta be.
+[^200]: A 148. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 104. pontja hatályon kívül helyezte.

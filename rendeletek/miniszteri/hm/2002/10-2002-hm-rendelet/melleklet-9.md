@@ -22,7 +22,7 @@
 
 ## főosztályvezető
 
-9. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^208]
+9. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^209]
 
 HONVÉDELMI MINISZTÉRIUM
 
@@ -72,4 +72,4 @@ aláírás
 
 P. H.
 
-[^208]: A 9. számú mellékletet a 17/2009. (XII. 3.) HM rendelet 9. §-a iktatta be.
+[^209]: A 9. számú mellékletet a 17/2009. (XII. 3.) HM rendelet 9. §-a iktatta be.

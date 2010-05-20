@@ -1,6 +1,6 @@
-## A szervezési időszak eltérő személyügyi eljárásai[^136]
+## A szervezési időszak eltérő személyügyi eljárásai[^137]
 
-123/A. §[^137] (1) A szervezési időszak a miniszter külön rendelkezésében meghatározott időtartam.
+123/A. §[^138] (1) A szervezési időszak a miniszter külön rendelkezésében meghatározott időtartam.
 
 (2) A személyügyi eljárások megkezdése előtt az illetékes személyügyi szerv köteles végrehajtani:
 
@@ -28,5 +28,5 @@ c) a Honvédség központi személyügyi szerve szintjén az MH egészére vonat
 
 (8) Beosztásba helyezéseknél az előmenetel szabályai szerint kell eljárni.
 
-[^136]: A 123/A. §-t megelőző alcímet a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be.
-[^137]: A 123/A. §-t a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^137]: A 123/A. §-t megelőző alcímet a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be.
+[^138]: A 123/A. §-t a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
