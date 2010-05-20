@@ -20,7 +20,7 @@ ec) a munka- és védőruházat, illetve a védőeszközök, védőfelszerelése
 
 ed) a ruházati egységfelszerelési anyagok,
 
-ee) szolgálati jelvények, kitüntetések és tartozékai, valamint
+ee)[^1] szolgálati azonosító jelvény, hivatásos állománykategóriát kifejező jelvény, határvadász jelvény, karjelvény, testületi jelvény, hímzett azonosító, kitüntetések és tartozékai, valamint
 
 ef) a javító és karbantartó anyagok;
 
@@ -33,3 +33,5 @@ ga) egyenruhás alapellátási norma, amely kizárólag egyenruházati termékek
 gb) vegyes ruhás alapellátási norma, amely az egyenruházati termékeken és felszerelési cikkeken túl meghatározott összegű – polgári ruházat vásárlását szolgáló – ruhapénzt is tartalmaz, amely normába besoroltak szolgálati feladatok ellátása során polgári ruházatot és egyenruházatot is viselhetnek, vagy
 
 gc) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló ruházatot és polgári ruhapénzt, vagy csak polgári ruhapénzt tartalmaz, és az ide sorolt igényjogosultak alapvetően polgári ruházatban teljesítenek szolgálatot.
+
+[^1]: A 2. § e) pont ee) alpontja a 32/2010. (V. 12.) IRM rendelet 1. §-ával megállapított szöveg.
