@@ -58,9 +58,7 @@ B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos esz
 
 5. Kardok,
 
-6. Tőrök,
-
-7. Kések.
+6–7.[^2]
 
 C. Mozgásszabadságot korlátozó eszközök
 
@@ -141,3 +139,4 @@ H. A vízágyúk alkalmazásához szükséges kémiai anyagok
 1. Jelölőfestékek.
 
 [^1]: A 2. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^2]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
