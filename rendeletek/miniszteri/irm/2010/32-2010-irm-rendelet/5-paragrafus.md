@@ -1,0 +1,3 @@
+## 4. § Az R. a következő 53. §-sal egészül ki:
+
+## „53. § E rendeletnek – a Rendőrség, a Rendőrtiszti Főiskola és a rendészeti szakközépiskolák egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról szóló 12/2009. (IV. 30.) IRM rendelet, valamint a Rendőrségnél rendszeresíthető kényszerítő eszközök típusairól és fajtáiról szóló 32/2009. (VIII. 19.) IRM rendelet módosításáról szóló 32/2010. (V. 12.) IRM rendelettel megállapított – a 2. § e) pont ee) alpontja, 50/A. §-a és 7. melléklete alapján a hímzett azonosítót a vegyes ruhás vagy polgári ruhás normába sorolt állomány tagja 2011. december 31-éig szerzi be.”
