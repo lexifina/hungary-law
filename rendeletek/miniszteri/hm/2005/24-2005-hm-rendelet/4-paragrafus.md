@@ -154,7 +154,7 @@ i) diplomáciai szolgálatban érvényesítse a külügyi és a honvédelmi szak
 
 j) tanulmányi, oktatási, képzési és tudományos feladatok végzésekor készüljön fel és tegyen eleget a fogadó intézet, parancsnokság által meghatározott követelményeknek és a szerzett ismereteket a Honvédségben folytatott szolgálatában hasznosítsa;
 
-k) konferenciákon, kereskedelmi, kulturális, sport-, hagyományőrző és egyéb rendezvényeken, amelyek programjain a Honvédséggel szövetségesi vagy más együttműködő kapcsolatot nem tartó állam katonáival találkozik, tartsa be a szolgálati érintkezés, a katonai udvariasság és a titokvédelem szabályait.
+k)[^1] konferenciákon, kereskedelmi, kulturális, sport-, hagyományőrző és egyéb rendezvényeken, amelyek programjain a Honvédséggel szövetségesi vagy más együttműködő kapcsolatot nem tartó állam katonáival találkozik, tartsa be a szolgálati érintkezés, a katonai udvariasság és a minősített adat védelmének szabályait.
 
 19. A katona műveleti területen teljesített külföldi szolgálata során:
 
@@ -174,7 +174,7 @@ g) beosztása szerint tervezze, szervezze, hajtsa végre az alakulat objektumain
 
 h) egyéni fegyverét az elhelyezési objektumban a parancsnok döntése szerint maga mellett, vagy a fegyverszobában tárolja, elhelyezési objektum területén kívül a fegyverek viselését a hatályos műveleti utasításban előírtaknak megfelelően a parancsnok szabályozza;
 
-i) következetesen tartsa be az alakulatot érintő információ és titokvédelmi, rejtjelző, valamint az ellenség megtévesztését szolgáló rendszabályokat;
+i)[^2] következetesen tartsa be az alakulatot érintő információ és minősített adat védelmére vonatkozó, rejtjelző, valamint az ellenség megtévesztését szolgáló rendszabályokat;
 
 j) harctevékenységét vagy más, veszélyben folytatott műveleti tevékenységét a műveletirányító parancsnokság által meghatározott cél, tartalom és harctevékenységi formák keretei között, szükség esetén a szövetséges vagy partner fegyveres erők tagjaival együttműködve hajtsa végre, ezen tevékenységi előírások korlátozottsága esetén, harci és más közvetlen döntési helyzetben rugalmasan, szükség esetén önálló harctevékenységet kezdeményezve járjon el;
 
@@ -238,7 +238,7 @@ o) szabályozza és vezényelje a hatáskörébe tartozó szolgálatokat, folyam
 
 p) szigorúan követelje meg a fegyverek, a lőszerek, a robbanóanyagok, valamint a mérgező, sugárzó és bódító hatású anyagok, gyógyszerek szabályos tárolását, őrzését, a kiadás, leadás, elszámolás rendjének és a biztonsági rendszabályoknak a pontos megtartását;
 
-q) őrizze és őriztesse meg az állam- és szolgálati titkokat;
+q)[^3] őrizze és őriztesse meg a minősített adatokat;
 
 r) a Honvédség ellenőrzési rendszerével összhangban hozza létre az ellenőrzési rendszert, és azt a vonatkozó szabályok szerint működtesse;
 
@@ -294,7 +294,7 @@ A parancsnokság megléte nem érinti a parancsnok egyszemélyi szolgálati hata
 
 26.2. A különböző vezetési szinteken lévő törzsek megegyező funkcionális feladataik teljesítése érdekében megközelítőleg azonos elemekből épülnek fel. A törzsfőnök szervezi a törzs munkáját és koordinálja a parancsnokság többi szervével való együttműködését.
 
-27.[^1] A parancsnok vezetői tevékenységének segítése, a zászlósi, tiszthelyettesi, tisztesi és rendfokozat nélküli állomány végrehajtói tevékenységének hatékonyabb megszervezése és felügyelete érdekében a parancsnok közvetlen alárendeltségében a csapatoknál és egyéb katonai szervezeteknél vezénylő zászlós teljesít szolgálatot. A vezénylő zászlós szolgálati elöljárója az adott katonai szervezet zászlós, tiszthelyettes, tisztes és rendfokozat nélküli személyi állományának.
+27.[^4] A parancsnok vezetői tevékenységének segítése, a zászlósi, tiszthelyettesi, tisztesi és rendfokozat nélküli állomány végrehajtói tevékenységének hatékonyabb megszervezése és felügyelete érdekében a parancsnok közvetlen alárendeltségében a csapatoknál és egyéb katonai szervezeteknél vezénylő zászlós teljesít szolgálatot. A vezénylő zászlós szolgálati elöljárója az adott katonai szervezet zászlós, tiszthelyettes, tisztes és rendfokozat nélküli személyi állományának.
 
 28. Minden szintű vezénylő zászlós az adott katonai szervezetnél felelős a parancsnok vezetési tevékenységének támogatásáért, a katonai rend, szervezettség és az egészséges katonai szellem kialakításáért és fenntartásáért, a zászlósi és tiszthelyettesi állomány pályántartásának eredményességéért, a szolgálati alárendeltségébe tartozó katonák felkészültségéért, a tiszthelyettesi támogató lánc működtetéséért és az elöljáróktól kapott feladatok végrehajtásáért.
 
@@ -426,7 +426,7 @@ g) katonai temetési menetnek.
 
 a) a köztársasági elnöknek, az Országgyűlés elnökének és a Kormány tagjainak;
 
-b)[^2] a Honvédelmi Minisztérium államtitkárának és szakállamtitkárainak;
+b)[^5] a Honvédelmi Minisztérium államtitkárának és szakállamtitkárainak;
 
 c) a Honvédség tábornokainak;
 
@@ -620,7 +620,7 @@ A katonák és a rendvédelmi szervek tagjainak viszonya
 
 75.1. A katona rendfokozatra való tekintet nélkül köteles igazolni magát a rendvédelmi szervek intézkedésre jogosult tagjának.
 
-75.2.[^3] Közlekedésrendészeti feladat ellátása, valamint jövedéki termékek ellenőrzése során a katonai gépjárművezető a rendőrség, továbbá vám- és pénzügyőrség tagjának felszólítására igazolja magát.
+75.2.[^6] Közlekedésrendészeti feladat ellátása, valamint jövedéki termékek ellenőrzése során a katonai gépjárművezető a rendőrség, továbbá vám- és pénzügyőrség tagjának felszólítására igazolja magát.
 
 75.3. Sürgős készenléti vagy egyéb halasztást nem tűrő feladat esetén a gépjárműparancsnok (ha az nincs, a gépjárművezető) a feladatra való hivatkozással közúti gépjármű-ellenőrzés esetén megtagadhatja a gépjármű-ellenőrzés végrehajtását. Ha ezt teszi, köteles bevonulás után azonnal jelenteni elöljárójának, egyben viseli a vele járó felelősséget.
 
@@ -720,7 +720,7 @@ q) kísérje figyelemmel az alárendeltek egészségi, pszichikai és fizikai á
 
 r) végezze a jogszabályokban a munkáltatóra vonatkozó munkavédelmi és a tűzvédelmi feladatokat;
 
-s)[^4] a helyi szakhatóságokkal egyeztetve készíttesse el és hagyja jóvá a katonai objektum Tűzvédelmi Szabályzatát;
+s)[^7] a helyi szakhatóságokkal egyeztetve készíttesse el és hagyja jóvá a katonai objektum Tűzvédelmi Szabályzatát;
 
 sz) gyakorolja mindazon munkáltatói jogokat és teljesíti azon kötelezettségeket, amelyeket jogszabály részére előír;
 
@@ -796,7 +796,7 @@ h) szervezze meg és irányítsa az egységnek az elektronikai hadviselés kör�
 
 i) szervezze meg az egység ügymenetét, hangolja össze az egységszintű szabályozások kidolgozását, állítsa össze az egységen belüli jelentések, tájékoztatások rendszerét, és gondoskodjék a határidők megtartásáról;
 
-j) foganatosítson titokvédelmi rendszabályokat, szervezze meg a rejtett vezetést, és gondoskodjon naprakész állapotáról, irányítsa az egység ügyvitelét, követelje meg a titokvédelmi és ügyviteli szabályok megtartását, lássa el a titokvédelmi felügyelői feladatokat;
+j)[^8] foganatosítson minősített adat védelmére vonatkozó rendszabályokat, szervezze meg a rejtett vezetést, és gondoskodjon naprakész állapotáról, irányítsa az egység ügyvitelét, követelje meg a minősített adat védelmére vonatkozó és ügyviteli szabályok megtartását, lássa el a biztonsági vezetői feladatokat;
 
 k) a parancsnok rendelkezései alapján tervezze és szervezze meg az egység objektumainak, javainak őrzését, védelmét, szervezze és irányítsa az ügyeleti szolgálatot, idejében intézkedjen a naprakészséget biztosító változtatások végrehajtására;
 
@@ -1140,7 +1140,7 @@ n) a zászlóalj fő feladataihoz kapcsolódva legalább háromhavonta tartson �
 
 o) havonta tartson fogadóórát az erre igényt tartó katonák számára;
 
-p) követelje meg a munkavédelem, a tűzvédelem, a környezetvédelem és a titokvédelem szabályainak megtartását;
+p)[^9] követelje meg a munkavédelem, a tűzvédelem, a környezetvédelem és a minősített adatvédelem szabályainak megtartását;
 
 r) ellenőrizze és ellenőriztesse a zászlóaljon belül az elöljárók és a saját parancsainak végrehajtását, a szabályzatok előírásainak betartását.
 
@@ -1588,7 +1588,7 @@ Ezenkívül tükröt kell kifüggeszteni a ruházat, a külső megjelenés ellen
 
 137.2. Az illetékes szervek engedélye nélkül tilos új épületek (építmények) létesítése, a meglevők eredeti rendeltetésének módosítása, szerkezeti átalakítása, áthelyezése, lebontása, illetve használatba vétele.
 
-137.3.[^5] A laktanyában elhelyezett katonai szervezet körleteit, a hozzájuk tartozó utcarészekkel együtt állandóan rendben kell tartani. A takarítási körleteket a laktanyaparancsnok határozza meg, a laktanyánál érvényben lévő szolgáltatási szerződés figyelembevételével. A körlet rendben tartását – beleértve a szolgáltatási szerződésben nem rögzített takarítást is – a katonák idejének és erejének ésszerű felhasználásával kell tervezni és szervezetten végrehajtani.
+137.3.[^10] A laktanyában elhelyezett katonai szervezet körleteit, a hozzájuk tartozó utcarészekkel együtt állandóan rendben kell tartani. A takarítási körleteket a laktanyaparancsnok határozza meg, a laktanyánál érvényben lévő szolgáltatási szerződés figyelembevételével. A körlet rendben tartását – beleértve a szolgáltatási szerződésben nem rögzített takarítást is – a katonák idejének és erejének ésszerű felhasználásával kell tervezni és szervezetten végrehajtani.
 
 137.4. A laktanya egyes épületeinek, létesítményeinek rendben tartása érdekében a laktanya parancsnoka minden épülethez és létesítményhez parancsban jelöljön ki felelős személyt, s az követelje meg az előírt szabályok megtartását, a helyiségek kulcsainak őrzését, a használaton kívüli ajtók lezárását, az építmény balesetmentes, biztonságos használatát.
 
@@ -2028,7 +2028,7 @@ c) heti pihenőnapok (általában a vasárnapok);
 
 d) katonai szünnap (május 21.);
 
-e)[^6] kiképzési szünnap;
+e)[^11] kiképzési szünnap;
 
 f) az eskütétel napja (a kiképző központban, illetve a tanintézeteknél).
 
@@ -2216,7 +2216,7 @@ Az alegységparancsnok vagy ügyeleti szolgálati személy az ittas, kábult kat
 
 Hírközlés
 
-226.1. A katonák magán hírközlésére a magyar állampolgárok számára érvényes jogszabályok – a titokvédelmi előírások figyelembevételével – vonatkoznak.
+226.1.[^12] A katonák magán hírközlésére a magyar állampolgárok számára érvényes jogszabályok – a minősített adat védelmére vonatkozó előírások figyelembevételével – vonatkoznak.
 
 226.2. A katonák a szolgálatteljesítési helyen honvédségi tulajdonú elektronikus eszközzel magán küldeményt (szöveget, beszélgetést, üzenetet, rajzot, képet stb.) csak a katonai szervezet parancsnokának külön engedélye alapján készíthetnek (állíthatnak elő), illetve továbbíthatnak.
 
@@ -2224,7 +2224,7 @@ Hírközlés
 
 Postai küldemények
 
-227.1. A katonák magáncélú postai küldeményei továbbítására a magyar állampolgárok számára érvényes jogszabályok vonatkoznak, azonban a küldemények címzésében és tartalmában kötelesek a titokvédelmi előírásokat betartani.
+227.1.[^13] A katonák magáncélú postai küldeményei továbbítására a magyar állampolgárok számára érvényes jogszabályok vonatkoznak, azonban a küldemények címzésében és tartalmában kötelesek a minősített adat védelmére vonatkozó előírásokat betartani.
 
 227.2. A szolgálatteljesítési helyről küldött és az odaérkező postai küldemények postahivatalban történő átvételét, átadását és szállítását a nyílt küldeménykezelő részleg, a csapatpostás vagy a parancsnok által erre a feladatra kijelölt, felkészített személy végzi. A nyílt küldeménykezelő részleg, a csapatpostás feladatait, kötelmeit külön intézkedés szabályozza.
 
@@ -2234,25 +2234,25 @@ Postai küldemények
 
 228.2. Rendkívüli állapotban, megelőző védelmi helyzetben a szolgálati helyen tartózkodó katonák által feladható és a részükre érkező magán postai, tábori posta küldemények továbbításának és kezelésének rendjét külön jogszabály tartalmazza.
 
-Titokvédelem
+A minősített adat védelme[^14]
 
-229.1. A titokvédelem azon rendszabályok és eljárások összessége, amelyek érvényesülésével biztosítható, hogy a szervezetek vagy objektumok rendeltetésével, működésével kapcsolatos minősített (állam- vagy szolgálati titkot képező) információ illetéktelen szervek vagy személyek birtokába ne kerülhessen.
+229.1.[^15] A minősített adat védelme azon rendszabályok és eljárások összessége, amelyek érvényesülésével biztosítható, hogy a szervezetek vagy objektumok rendeltetésével, működésével kapcsolatos minősített adat illetéktelen szervek vagy személyek birtokába ne kerülhessen.
 
 229.2. A minősített információt annak megjelenési formájától függetlenül minden esetben védeni kell.
 
-229.3. A titokvédelmi rendszabályokat meg kell ismertetni az érintettekkel és azt követően rendszeresen oktatni kell, ahol fel kell hívni a figyelmüket a titoktartás fontosságára, és az ezzel kapcsolatos magatartásra.
+229.3.[^16] A minősített adat védelmére vonatkozó rendszabályokat meg kell ismertetni az érintettekkel és azt követően rendszeresen oktatni kell, ahol fel kell hívni a figyelmüket a titoktartás fontosságára, és az ezzel kapcsolatos magatartásra.
 
-230. A szerződéses katonákat a szerződéskötésük után közvetlenül és a szerződésük lejártát megelőzően, a katonai tanintézetek hallgatóit a tanulmányaik megkezdése után közvetlenül, a hivatásos katonákat az első és minden további új beosztásba helyezés után közvetlenül és ezeken kívül valamennyi katonát minden kiképzési időszak elején, illetve évente legalább egy alkalommal titokvédelmi oktatásban kell részesíteni.
+230.[^17] A szerződéses katonákat a szerződéskötésük után közvetlenül és a szerződésük lejártát megelőzően, a katonai tanintézetek hallgatóit a tanulmányaik megkezdése után közvetlenül, a hivatásos katonákat az első és minden további új beosztásba helyezés után közvetlenül és ezeken kívül valamennyi katonát minden kiképzési időszak elején, illetve évente legalább egy alkalommal minősített adat védelmére vonatkozó oktatásban kell részesíteni.
 
-231.1. A katonák csak külön rendelkezések szerint és a titokvédelmi szabályok betartásával adhatnak katonai jellegű tájékoztatást, szerepelhetnek nyilvánosság előtt, és szolgáltathatnak ilyen adatokat kül- és belföldi sajtó- és hírközlő szerveknek, illetve adhatnak át (a nyílt terjesztésűek kivételével) katonai vonatkozású sajtótermékeket.
+231.1.[^18] A katonák csak külön rendelkezések szerint és a minősített adat védelmére vonatkozó szabályok betartásával adhatnak katonai jellegű tájékoztatást, szerepelhetnek nyilvánosság előtt, és szolgáltathatnak ilyen adatokat kül- és belföldi sajtó- és hírközlő szerveknek, illetve adhatnak át (a nyílt terjesztésűek kivételével) katonai vonatkozású sajtótermékeket.
 
-231.2. A katonák állam- vagy szolgálati titkot érintő kérdésekről – hatósági eljárás során is, kivéve a katonai büntetőeljárást – csak akkor nyilatkozhatnak, ha a titoktartási kötelezettség alól illetékes előjárójuktól az arra vonatkozó jogszabályok alapján felmentést kaptak.
+231.2.[^19] A katonák minősített adatot érintő kérdésekről – hatósági eljárás során is, kivéve a katonai büntetőeljárást – csak akkor nyilatkozhatnak, ha a titoktartási kötelezettség alól illetékes előjárójuktól az arra vonatkozó jogszabályok alapján felmentést kaptak.
 
 232.1. A katonai objektum területén újságírói tevékenység, valamint videó- és filmfelvétel, rádiós és televíziós riport készítése csak az objektum-, illetve az elöljáró parancsnok engedélyével az erre vonatkozó rendelkezések figyelembevételével folytatható.
 
-232.2. A kulturális és kiképzési célú hang-, kép-, videó- és egyéb adatrögzítő eszköz használatát az objektumparancsnok az érvényben lévő titokvédelmi előírások alapján szabályozza.
+232.2.[^20] A kulturális és kiképzési célú hang-, kép-, videó- és egyéb adatrögzítő eszköz használatát az objektumparancsnok az érvényben lévő minősített adat védelmére vonatkozó előírások alapján szabályozza.
 
-232.3. A titokvédelem részletes szabályait külön rendelkezés tartalmazza.
+232.3.[^21] A minősített adat védelmének részletes szabályait külön rendelkezés tartalmazza.
 
 A katonák ellátásának alapelvei
 
@@ -2354,7 +2354,7 @@ Fegyver, lőszer, robbanóanyag tárolása, megóvása
 
 246. Fegyvert, lőszert, robbanóanyagot az érvényben levő előírások betartásával úgy kell tárolni, hogy illetéktelen személyek semmiképpen se férjenek hozzá. A külföldi műveleti területen a tárolás és megóvás szabályait a műveletre vonatkozó Egységes Műveleti Szabályok (SOP-k) határozzák meg.
 
-247.[^7] A katonák személyi felszerelésébe tartozó szolgálati fegyvereket vasrácsos ajtóval, biztonsági zárral, illetve lakattal ellátott és lepecsételt külön helyiségben (fegyverszobában) kell tárolni. A fegyverszobák minden ablakára, függetlenül az épületen belüli elhelyezkedésétől, rácsot kell szerelni. A fegyverszoba ajtaja a körlet belsejébe nyíljon úgy, hogy lehetőleg a szolgálatnak közvetlen rálátása legyen. Amennyiben épület-(alegység-)ügyeletes szolgálat van szervezve, akkor az ügyeletes felügyeletére bízott valamennyi fegyverszobát behatolásjelzővel kell ellátni, amelynek kezelő és riasztó egységei az épület-(alegység-)ügyeletes szolgálati helyén legyenek telepítve.
+247.[^22] A katonák személyi felszerelésébe tartozó szolgálati fegyvereket vasrácsos ajtóval, biztonsági zárral, illetve lakattal ellátott és lepecsételt külön helyiségben (fegyverszobában) kell tárolni. A fegyverszobák minden ablakára, függetlenül az épületen belüli elhelyezkedésétől, rácsot kell szerelni. A fegyverszoba ajtaja a körlet belsejébe nyíljon úgy, hogy lehetőleg a szolgálatnak közvetlen rálátása legyen. Amennyiben épület-(alegység-)ügyeletes szolgálat van szervezve, akkor az ügyeletes felügyeletére bízott valamennyi fegyverszobát behatolásjelzővel kell ellátni, amelynek kezelő és riasztó egységei az épület-(alegység-)ügyeletes szolgálati helyén legyenek telepítve.
 
 248. Csapatnál századonként, illetve kis létszámú zászlóaljanként kell fegyverszobát berendezni, ahol a század teljes állományának fegyvereit kell őrizni. Parancsnokságokon, valamint csapatoktól eltérő katonai szervezeteknél ugyanezeknek az elveknek a figyelembevételével a parancsnok döntése szerint kell a fegyverszobát berendezni. A fegyverszobák rendjét, a bennük levő fegyverek átadásának-átvételének szabályait szakutasítás határozza meg. A fegyverszoba rendjéért, az ott elhelyezett fegyverekért századnál a század ellátó tiszthelyettes (ahol ilyen nincs, a századparancsnok által kijelölt katona) felelős.
 
@@ -2632,7 +2632,7 @@ d) elkerülhetetlen esetben, bűncselekmény elkövetése esetén a tiszt-, tisz
 
 288.4. Ha valamelyik őrparancsnok (váltásparancsnok) polgári személyt tartóztatott fel, értesítse az illetékes rendőri szervet.
 
-289.1.[^8] A laktanya-, az összevont laktanya-(objektum) ügyeletest, illetve helyettest a laktanyában (objektumban) elhelyezett szervezetek főtisztjei, tisztjei, illetve zászlósai, tiszthelyettesei közül kell vezényelni.
+289.1.[^23] A laktanya-, az összevont laktanya-(objektum) ügyeletest, illetve helyettest a laktanyában (objektumban) elhelyezett szervezetek főtisztjei, tisztjei, illetve zászlósai, tiszthelyettesei közül kell vezényelni.
 
 289.2. A laktanya-, az összevont laktanya- (objektum-) ügyeletes és helyettesei a szolgálati intézkedésben meghatározott időben pihenhetnek, az Öltözködési Szabályzatban előírt könnyítésekkel.
 
@@ -3734,7 +3734,7 @@ A szállítmányok őrzésének közös szabályai
 
 444.1. Csapat- és szükség esetén ellátási (anyag-) szállítmányok őrzésére és védelmére szállítmányőrséget kell vezényelni. Csapatszállítmányon őrzés szempontjából haditechnikai eszközeivel együtt szállított alegységet, egységet kell érteni.
 
-444.2.[^9] Ha a belföldi csapatszállítás ideje nem haladja meg a 24 órát, egy őrséget kell vezényelni, s az a berakóhelytől a kirakóhelyig (indulástól érkezésig) váltás nélkül látja el feladatát. Ha ennél hosszabb a szállítás ideje, két őrség szükséges, s ezek 24 óránkénti váltással őrködnek.
+444.2.[^24] Ha a belföldi csapatszállítás ideje nem haladja meg a 24 órát, egy őrséget kell vezényelni, s az a berakóhelytől a kirakóhelyig (indulástól érkezésig) váltás nélkül látja el feladatát. Ha ennél hosszabb a szállítás ideje, két őrség szükséges, s ezek 24 óránkénti váltással őrködnek.
 
 Belföldi ellátási (anyag-)szállítmányok kísérése esetén az őrséget őrszolgálat ellátására legfeljebb négy nap időtartamra lehet vezényelni a készenléti szolgálattal együtt.
 
@@ -3772,7 +3772,7 @@ Ha a vonat hosszabb ideig áll, az őrség megerősítésére be lehet vonni az 
 
 A légijármű fedélzetén tartózkodó őrség köteles a repülőgép parancsnokának a repülés biztonságára vonatkozó parancsait végrehajtani.
 
-449.2.[^10] Külföldre vagy külföldről történő szállítás esetén az őrzést az erre vonatkozó rendelkezések alapján kell végrehajtani. Ezen szállítások végrehajtásakor
+449.2.[^25] Külföldre vagy külföldről történő szállítás esetén az őrzést az erre vonatkozó rendelkezések alapján kell végrehajtani. Ezen szállítások végrehajtásakor
 
 a) központi őrség (járőr) vezénylése esetén a szolgálat időtartama a szállítmány átvételétől a szállítmány átadásáig tart,
 
@@ -4358,7 +4358,7 @@ b) a laktanya- (objektum-) ügyeleti szolgálat;
 
 c) a laktanyaparancsnok szolgálati elöljárója és az általa megbízott személy az alárendeltjeik vonatkozásában;
 
-d)[^11] a HM illetékes szervének vezetője és az általa megbízott személy;
+d)[^26] a HM illetékes szervének vezetője és az általa megbízott személy;
 
 e) a vállalkozó és az általa megbízott személy;
 
@@ -4374,7 +4374,7 @@ c) a középszintű vezető szerveknek évente;
 
 d) a felsőszintű szerveknek évente az őrségek 20%-át.
 
-532.[^12] Az őrzés-védelem ellenőrzésbe a vállalkozó, illetve fővállalkozó szükség szerint bevonható, a HM illetékes szerve ellenőrzései egy részét a fővállalkozóval együtt hajtja végre.
+532.[^27] Az őrzés-védelem ellenőrzésbe a vállalkozó, illetve fővállalkozó szükség szerint bevonható, a HM illetékes szerve ellenőrzései egy részét a fővállalkozóval együtt hajtja végre.
 
 533. Az ellenőrzés során vizsgálni kell:
 
@@ -4408,7 +4408,7 @@ A katonai rendészeti szolgálat feladata, hatásköre
 
 a) a katonák és a honvédségi gépjárművek ellenőrzése;
 
-b)[^13] részvétel:
+b)[^28] részvétel:
 
 – a katonák által okozott vagy elszenvedett balesetek, bűncselekmények, szabálysértések és fegyelemsértések esetén a helyszín biztosításában, baleseti helyszínelésében;
 
@@ -4450,7 +4450,7 @@ d) tervezi az MH szintű katonai rendészeti szolgálatot ellátó állomány sz
 
 e) ellátja a katonai rendészeti tevékenység szakmai felügyeletét.
 
-539.[^14] Az MH szintű katonai rendészeti ellenőrzést a Honvéd Vezérkar főnöke által jóváhagyott terv alapján az általa kijelölt katonai szervezet végzi.
+539.[^29] Az MH szintű katonai rendészeti ellenőrzést a Honvéd Vezérkar főnöke által jóváhagyott terv alapján az általa kijelölt katonai szervezet végzi.
 
 540. Az MH középszintű parancsnokságai és a helyőrségparancsnokok alkalmazási körleteikben, illetve helyőrségükre vonatkozóan:
 
@@ -4844,25 +4844,32 @@ c) azt a gépjárművezetőt, aki olyan kisebb súlyú szabálytalanságot vagy 
 
 591. A feljelentés olyan intézkedés, amit a járőrnek akkor kell alkalmaznia, ha a katona fegyelemsértését a parancsnoka tudomására kell hoznia, de a fegyelemsértés nem indokolja a katona előállítását.
 
-592. Fel kell jelenteni azt a katonát: aki az alaki magatartás, a katonai udvariasság és az öltözködés szabályait durván megsérti (pl. a tiszteletadást elmulasztja, egyenruhájához nem illő, kulturálatlan csomagot visz, polgári és katonai ruházatot vegyesen visel stb.).
-
-593. Fel kell jelenteni a gépjármű vezetőjét, illetve a gépjármű parancsnokát:
-
-a) a menet- és szállítási okmányokat pontatlanul vagy hiányosan vezeti;
-
-b) a gépjárművön jogosulatlanul személyeket, vagy a szállítási okmányoktól eltérő anyagot szállít;
-
-[^1]: A melléklet 27. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^2]: A melléklet 50. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^3]: A melléklet 75.2. pontja a 16/2008. (VI. 25.) HM rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^4]: A melléklet 81. pontjának s) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^5]: A melléklet 137.3. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^6]: A melléklet 198.2. pontjának e) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^7]: A melléklet 247. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^8]: A melléklet 289.1. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^9]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^10]: A melléklet 449.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^11]: A melléklet 530. pontjának d) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^12]: A melléklet 532. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^13]: A melléklet 536.1. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^14]: A melléklet 539. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^1]: A melléklet 18. pont k) alpontja a 11/2010. (V. 12.) HM rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A melléklet 19. pont i) alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^3]: A melléklet 22. pont q) alpontja a 11/2010. (V. 12.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^4]: A melléklet 27. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^5]: A melléklet 50. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^6]: A melléklet 75.2. pontja a 16/2008. (VI. 25.) HM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^7]: A melléklet 81. pontjának s) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^8]: A melléklet 86. pont j) alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) és d) pontja szerint módosított szöveg.
+[^9]: A melléklet 106. pont p) alpontja a 11/2010. (V. 12.) HM rendelet 3. § e) pontja szerint módosított szöveg.
+[^10]: A melléklet 137.3. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^11]: A melléklet 198.2. pontjának e) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^12]: A melléklet 226. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^13]: A melléklet 227. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^14]: A melléklet 229. pont 1. alpontját megelőző alcím a 11/2010. (V. 12.) HM rendelet 3. § f) pontjával megállapított szöveg.
+[^15]: A melléklet 229. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § g) és h) pontja szerint módosított szöveg.
+[^16]: A melléklet 229. pont 3. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^17]: A melléklet 230. pontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^18]: A melléklet 231. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^19]: A melléklet 231. pont 2. alpontja a 11/2010. (V. 12.) HM rendelet 3. § i) pontja szerint módosított szöveg.
+[^20]: A melléklet 232. pont 2. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^21]: A melléklet 232. pont 3. alpontja a 11/2010. (V. 12.) HM rendelet 3. § a) pontja szerint módosított szöveg.
+[^22]: A melléklet 247. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^23]: A melléklet 289.1. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^24]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^25]: A melléklet 449.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^26]: A melléklet 530. pontjának d) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^27]: A melléklet 532. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^28]: A melléklet 536.1. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^29]: A melléklet 539. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
