@@ -1,0 +1,1 @@
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (2) bekezdés 10. és 24. pontjában kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
