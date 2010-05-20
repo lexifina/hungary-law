@@ -1,1 +1,0 @@
-## 1. § Az Európai Unióban osztályozott veszélyes anyagok jegyzékéhez (a továbbiakban: közösségi jegyzék) készült általános tájékoztatót e rendelet 1. számú melléklete, a közösségi jegyzéket e rendelet 2. számú melléklete tartalmazza.
