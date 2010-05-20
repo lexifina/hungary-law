@@ -212,7 +212,7 @@
 
 | A16A | TÁPCSATORNA ÉS ANYAGCSERE EGYÉB GYÓGYSZEREI |  |  |  |  |  |  |  |
 
-| A16AB | enzimek | X |  |  |  |  |  | X |
+| A16AB | enzimek | X |  |  |  |  |  |  |
 
 | A16AX | tápcsatorna és anyagcsere egyéb gyógyszerei | X |  |  |  | X |  |  |
 
@@ -226,9 +226,9 @@
 
 | B01AD | enzimek | X |  |  |  |  |  |  |
 
-| B01AE | direkt thrombin-inhibitor | X |  |  |  |  |  |  |
+| B01AE | direkt thrombin-inhibitor | X |  |  |  | X |  |  |
 
-| B01AX | Egyéb antithrombotikus szerek | X |  |  |  |  |  |  |
+| B01AX | Egyéb antithrombotikus szerek | X |  |  |  | X |  |  |
 
 | B02A | ANTIFIBRINOLYTICUMOK |  |  |  |  |  |  |  |
 
@@ -240,7 +240,7 @@
 
 | B02BA | K-vitamin |  |  | X |  |  |  |  |
 
-| B02BB | fibriogén | X |  |  |  |  |  | X |
+| B02BB | fibrinogén | X |  |  |  |  |  |  |
 
 | B02BD | véralvadási faktorok | X |  |  |  |  |  | X |
 
@@ -680,7 +680,7 @@
 
 | H01B | HYPOPHYSIS HÁTSÓ LEBENY HORMONOK |  |  |  |  |  |  |  |
 
-| H01BA | vasopressin és analógjai | X |  |  | X |  | X | X |
+| H01BA | vasopressin és analógjai | X |  |  | X |  | X |  |
 
 | H01BB | oxytocin és származékai | X |  |  |  |  |  |  |
 
@@ -866,7 +866,7 @@
 
 | L01B | ANTIMETABOLITOK |  |  |  |  |  |  |  |
 
-| L01BA | folsav analógok | X |  |  |  | X | X | X |
+| L01BA | folsav analógok | X |  |  |  | X | X |  |
 
 | L01BB | purin analógok | X |  |  |  |  | X |  |
 
@@ -920,15 +920,17 @@
 
 | L03AB | interferonok | X |  |  |  |  | X |  |
 
-| L03AC | interleukinok | X |  |  |  |  |  | X |
+| L03AC | interleukinok | X |  |  |  |  |  |  |
 
-| L03AX | egyéb cytokinek és immunmodulátorok | X |  |  |  |  | X | X |
+| L03AX | egyéb cytokinek és immunmodulátorok | X |  |  |  |  | X |  |
 
 | L04A | IMMUNSUPPRESSIV SZEREK |  |  |  |  |  |  |  |
 
 | L04AA | szelektív immunsuppressiv szerek | X |  |  |  | X | X |  |
 
 | L04AB | Tumor nekrózis faktor alfa (TNFα) inhibitorok | X |  |  |  |  | X |  |
+
+| L04AC | Interleukin-gátlók |  |  |  |  |  | X |  |
 
 | L04AX | egyéb immunsuppressiv szerek | X |  |  |  | X | X |  |
 
@@ -966,7 +968,7 @@
 
 | M03AC | egyéb quateraaer ammónium-vegyületek | X |  |  |  |  |  |  |
 
-| M03AX | EGYÉB PERIFÉRIÁS TÁMADÁSPONTÚ IZOMRELAXÁNSOK | X |  |  |  |  |  | X |
+| M03AX | EGYÉB PERIFÉRIÁS TÁMADÁSPONTÚ IZOMRELAXÁNSOK | X |  |  |  |  |  |  |
 
 | M03B | KÖZPONTI TÁMADÁSPONTÚ IZOMRELAXÁNSOK |  |  |  |  |  |  |  |
 
@@ -1348,9 +1350,9 @@
 
 | V03AE | hyperkalaemia gyógyszerei | X |  |  | X |  | X |  |
 
-| V03AF | detoxikáló szerek cytostatikus kezeléskor | X |  |  |  |  | X | X |
+| V03AF | detoxikáló szerek cytostatikus kezeléskor | X |  |  |  |  | X |  |
 
-| V03AK | szöveti ragasztóanyagok | X |  |  |  |  |  | X |
+| V03AK | szöveti ragasztóanyagok | X |  |  |  |  |  |  |
 
 | V03AN | gyógyászatban alkalmazott gázok | X |  |  |  |  |  |  |
 
@@ -1398,13 +1400,17 @@
 
 | V08DA | ultrahang-kontrasztanyagok | X |  |  |  |  |  |  |
 
-| V10X | TERÁPIÁS CÉLÚ RADIÓAKTÍV KÉSZÍTMÉNYEK |  |  |  |  |  |  |  |
+| V10 | TERÁPIÁS CÉLÚ RADIOAKTÍV KÉSZÍTMÉNYEK |  |  |  |  |  |  |  |
+
+| V10A | GYULLADÁSCSÖKKENTŐ KÉSZÍTMÉNYEK |  |  |  |  |  |  |  |
+
+| V10AX | Egyéb gyulladáscsökkentő terápiás radioaktív készítmények | X |  |  |  |  |  |  |
 
 | V10X | EGYÉB THERÁPIÁS RADIOAKTÍV KÉSZÍTMÉNYEK |  |  |  |  |  |  |  |
 
 | V10XX | további therápiás radioaktív készítmények | X |  |  |  |  | X |  |
 
-2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^87]
+2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^90]
 
 A kiemelt indikációhoz kötött támogatási kategóriába (EÜ100) tartozó
 
@@ -2528,140 +2534,4 @@ A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAK
 
 |  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
 
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-F70, F71, F72, F73, F74, F75, F76, F77, F78, F79
-
-EÜ100 10/d2.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Mentális retardáció diagnózisa esetén a magatartászavarok kezelésére a 10/d1. pontban felsorolt szerekre dokumentáltan nem reagáló vagy ezeket a szereket nem toleráló beteg részére
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Megkötés nélkül | Gyermek- és ifjúsági pszichiátria | javasolhat és írhat |
-
-|  | Megkötés nélkül | Pszichiátria | javasolhat és írhat |
-
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
-
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-F70, F71, F72, F73, F74, F75, F76, F77, F78, F79
-
-EÜ100 11.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Epilepszia
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Gyermekneurológia | javasolhat és írhat |
-
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Neurológia | javasolhat és írhat |
-
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
-
-|  | Megkötés nélkül | Gyermekneurológia | írhat |
-
-|  | Megkötés nélkül | Neurológia | írhat |
-
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-G409
-
-EÜ100 12.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Amyotrophiás lateral sclerosis klinikailag és electromyographias (EMG) vizsgálattal dokumentált eseteiben
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Kijelölt intézmény | Neurológia | írhat |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-G122
-
-EÜ100 13/a1.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Diabetes insipidus
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Csecsemő- gyermekgyógyászat | javasolhat és írhat |
-
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
-
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
-
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: KORLÁTLAN |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-E232
-
-EÜ100 13/a2.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Diabetes insipidus, desmopressin hatóanyagú orrcsepp igazolt hatástalansága esetén
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Csecsemő- gyermekgyógyászat | javasolhat és írhat |
-
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
-
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
-
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: KORLÁTLAN |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-E232
-
-EÜ100 14.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Veleszületett mellékvese hypoplasia 18 éves korig
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Megkötés nélkül | Csecsemő- gyermekgyógyászat | írhat |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-Q891
-
-EÜ100 15/a.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Kortikoszteroid kezelésre rezisztens gyermekkori nephrosis szindróma esetén
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-[^87]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2010. február 1-jétől kell alkalmazni. Ez utóbbi módosító rendelet 4. § (2) bekezdése alapján a 2009. december 25. napján hatályos 2. számú mellékletben foglaltakat 2010. január 31-éig kell alkalmazni. Alkalmazására lásd még ez utóbbi módosító rendelet 4. § (3) bekezdését.
+[^90]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2010. február 1-jétől kell alkalmazni. Ez utóbbi módosító rendelet 4. § (2) bekezdése alapján a 2009. december 25. napján hatályos 2. számú mellékletben foglaltakat 2010. január 31-éig kell alkalmazni. Alkalmazására lásd még ez utóbbi módosító rendelet 4. § (3) bekezdését.

@@ -1,4 +1,4 @@
-10. §[^46] (1) A hatóanyag alapú és a terápiás fix csoportok képzése a Gyftv. 24. §-ának (2) bekezdésében foglaltak alapján folyamatosan történik. Az OEP az érvényes referencia árakat és készítményeket, valamint az adott fix csoportban szereplő készítmények érvényes árát és támogatását a Gyftv.-ben és e rendeletben foglaltak szerint honlapján közzéteszi.
+10. §[^48] (1) A hatóanyag alapú és a terápiás fix csoportok képzése a Gyftv. 24. §-ának (2) bekezdésében foglaltak alapján folyamatosan történik. Az OEP az érvényes referencia árakat és készítményeket, valamint az adott fix csoportban szereplő készítmények érvényes árát és támogatását a Gyftv.-ben és e rendeletben foglaltak szerint honlapján közzéteszi.
 
 (2) Az OEP – a (3)–(6) bekezdésben foglaltak alapján – minden naptári negyedévben újraképzi az adott fix csoportot.
 
@@ -14,4 +14,4 @@
 
 (8) Azon árcsökkentési ajánlatok, melyek a tárgyhónap 10. napjáig beérkeznek a következő hónap első napjával érvénybe lépnek azzal, hogy a meglévő referencia árat a fix csoportképzés (4)–(6) bekezdés szerinti lefolytatásáig nem befolyásolják.
 
-[^46]: A 10. § a 38/2007. (VII. 25.) EüM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^48]: A 10. § a 38/2007. (VII. 25.) EüM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

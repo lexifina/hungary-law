@@ -1,4 +1,4 @@
-9. §[^43] (1)[^44] Terápiás fix elven működő támogatás [Gyftv. 28. § (1) bekezdés bb) pont] állapítható meg az egyes, meghatározott betegségek (kórképek) kezelésére egyaránt alkalmas termékek körére, ha négyszintű ötjegyű ATC csoportban azonos terápiás célra szolgálnak és mely termékeknek van azonos indikációja.
+9. §[^45] (1)[^46] Terápiás fix elven működő támogatás [Gyftv. 28. § (1) bekezdés bb) pont] állapítható meg az egyes, meghatározott betegségek (kórképek) kezelésére egyaránt alkalmas termékek körére, ha négyszintű ötjegyű ATC csoportban azonos terápiás célra szolgálnak és mely termékeknek van azonos indikációja.
 
 (2) A terápiás fix elven működő támogatás számítási módszereit az 5. számú melléklet tartalmazza.
 
@@ -26,10 +26,10 @@ b) az 5. számú melléklet 1.1. bekezdés a) pontja alapján meghatározott nap
 
 támogatási érték = NTKÁT x adott kiszerelés DOT értéke.
 
-(5)[^45] A terápiás fix elven működő támogatási csoportokra vonatkozóan az OEP a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 15. napjáig, a számítás módját, valamint az alcsoportképzés pontos feltételeit minden naptári negyedév 1. napján honlapján közzéteszi.
+(5)[^47] A terápiás fix elven működő támogatási csoportokra vonatkozóan az OEP a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 15. napjáig, a számítás módját, valamint az alcsoportképzés pontos feltételeit minden naptári negyedév 1. napján honlapján közzéteszi.
 
 (6) A terápiás fix elven működő támogatási csoportokban alkalmazható a csoport árarányainak figyelembevételével képzett indexszámmal történő korrekció a különböző hatáserősségű és kiszerelésű készítmények támogatásának kiszámításakor. Az indexszámok terápiás csoportonként kerülnek meghatározásra.
 
-[^43]: A 9. § az 53/2006. (XII. 28.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
-[^44]: A 9. § (1) bekezdése a 38/2007. (VII. 25.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^45]: A 9. § (5) bekezdése a 38/2007. (VII. 25.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^45]: A 9. § az 53/2006. (XII. 28.) EüM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
+[^46]: A 9. § (1) bekezdése a 38/2007. (VII. 25.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^47]: A 9. § (5) bekezdése a 38/2007. (VII. 25.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
