@@ -1,1 +1,0 @@
-## 1. § A kerettantervek kiadásának és jóváhagyásának rendjéről, valamint egyes oktatási jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendelet (a továbbiakban: R.) 3. számú melléklete az e rendelet melléklete szerinti kerettantervvel egészül ki.
