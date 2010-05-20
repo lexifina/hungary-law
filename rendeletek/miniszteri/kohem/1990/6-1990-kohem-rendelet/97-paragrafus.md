@@ -20,6 +20,6 @@ d) a szélvédő szélén elhelyezett antennát.
 
 (5) A személygépkocsi ablakain — kivéve a lakófelépítmény ablakait — menet közben nem szabad függönyt, vagy olyan más megoldást (fólia, üvegre felhordott fényelnyelő vagy fényvisszaverő réteg stb.) alkalmazni, amely a személygépkocsi ablakain a kilátást, illetőleg az átlátást megakadályozza.
 
-(6)[^142] Az (5) bekezdésben meghatározott követelmény nem vonatkozik a gépkocsi szélvédőjének és ablakainak fényáteresztő képességét csökkentő olyan eszközre, amely alkalmazására a közlekedési hatóság az ER. 2. § (3) bekezdés h) pontja alapján, az ENSZ–EGB 43. számú előírás 21. számú mellékletében meghatározott, a biztonsági üvegezés járműbe szerelésére vonatkozó műszaki követelmények figyelembevételével engedélyt adott.
+(6)[^140] Az (5) bekezdésben meghatározott követelmény nem vonatkozik a gépkocsi szélvédőjének és ablakainak fényáteresztő képességét csökkentő olyan eszközre, amely alkalmazására a közlekedési hatóság az ER. 2. § (3) bekezdés h) pontja alapján, az ENSZ–EGB 43. számú előírás 21. számú mellékletében meghatározott, a biztonsági üvegezés járműbe szerelésére vonatkozó műszaki követelmények figyelembevételével engedélyt adott.
 
-[^142]: A 97. § (6) bekezdését a 84/2005. (X. 11.) GKM rendelet 3. §-a iktatta be, szövege a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^140]: A 97. § (6) bekezdését a 84/2005. (X. 11.) GKM rendelet 3. §-a iktatta be, szövege a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.

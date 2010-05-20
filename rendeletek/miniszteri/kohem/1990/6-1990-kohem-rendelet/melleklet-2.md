@@ -84,11 +84,7 @@
 
 |  |  |  | 59 | 00 | Pótalkatrész kipufogóberendezés | + | – |  |
 
-| A/2 | 70/220 | 2009/19 715/2007 692/2008 | 83 | 05/06 | Károsanyag-kibocsátás | + | + | K |
-
-| 83 | 05/06 | Légszennyezés (Euro 5. és 6.) könnyű haszonjárművek |
-
-| 103 | 00 | Cserekatalizátorok |
+| A/2 | 70/220 715/2007 692/2008 | 2006/69 -– | 83 83 | 05 06 | Károsanyag-kibocsátás | + | + | K (5) |
 
 | A/3. | 70/221 | 2006/20 | 58 | 01 | Tüzelőanyag-tartály és aláfutásgátló | + | + | C (2) |
 
@@ -128,7 +124,7 @@
 
 | A/19. | 76/115 | 2005/41 | 14 | 06 | Biztonsági öv bekötése | + | + | – |
 
-| A/20. | 76/756 | 2009/89 | 48 | 04 | Világítóberendezések | + | + | – |
+| A/20. | 76/756 | 2009/89 | 48 | 04 | Világítóberendezések | + | + | K (6) |
 
 | A/21. | 76/757 | 97/29 | 3 | 02 | Fényvisszaverők | + | + | K |
 
@@ -244,6 +240,14 @@
 
 ## (4) Azon N1 kategóriájú I. osztályba tartozó járművek, amelyek leírását az A. Függelék A/2. számú melléklet I. Rész 1.5.3.1.4. pontjának táblázata tartalmazza.
 
+## (5) Használt gépkocsi egyedi forgalomba helyezés engedélyezési eljárása során a jelzett követelményt – további vizsgálat nélkül – teljesítettnek kell tekinteni, amennyiben a gépkocsi típusa megfelel:
+
+## - a gyártása időpontjában az EGT tagállamokban az új gépkocsikra vonatkozóan előirt környezetvédelmi (emissziós) konstrukciós követelményeknek, továbbá
+
+## - a forgalomba helyezés engedélyezésének időpontját hat évvel megelőző időpontban az ENSZ-EGB 83. számú előírás – e rendeletben meghatározott – érvényes változatának.
+
+## (6) Használt gépkocsi egyedi forgalomba helyezési engedélyezési eljárása során a jelzett követelmény, továbbá a világító- és jelzőberendezésekre vonatkozóan a 37. § - 70. §-okban meghatározott üzemeltetési műszaki feltételek teljesítése esetén az A/21.-A/30. mellékletekben foglalt követelményeket – további vizsgálat nélkül – teljesítettnek kell tekinteni.
+
 ## 1/B. táblázat
 
 ## Motorkerékpárokra és segédmotoros kerékpárokra vonatkozó
@@ -268,7 +272,7 @@
 
 | B/6. | 93/33 | 99/23 | 62 | 00 | Motorkerékpárok és segédmotoros kerékpárok illetéktelen használattal elleni biztosító berendezései | + | – |
 
-| B/7. | 93/34 | 2006/27 | – | – | Motorkerékpárok és segédmotoros kerékpárok előírt adatai | + | – |
+| B/7. | 2009/139 | – | – | – | Motorkerékpárok és segédmotoros kerékpárok előírt adatai | + | – |
 
 | B/8. | 93/92 | 2009/67 | 53 | 01 | Motorkerékpárok és segédmotoros kerékpárok világító és fényjelző berendezései | + | – |
 
@@ -390,7 +394,7 @@
 
 | C/22. | – | – | 87/402 | 2005/67 | Keskeny nyomtávú traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
 
-| C/23. | – | – | 89/173 | 2006/26 | Traktorok egyes alkatrészei és jellemzői | – | – |
+| C/23. | – | – | 2009/144 | – | Traktorok egyes alkatrészei és jellemzői | + | – |
 
 ## (4) A C/12. számú melléklet követelményeit csak új traktorok forgalomba helyezése esetén kell alkalmazni. Az egyes „szabályozási fokozatok” alkalmazására és az egyenértékűségekre vonatkozó rendelkezéseket a C/12. melléklet tartalmazza.
 
@@ -418,6 +422,6 @@
 
 ## * Az ENSZ-EGB 44.00–44.02 előírás változatok alapján kiadott biztonsági gyermekülés jóváhagyások érvényessége 2008. május 9-én szűnt meg.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^240]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^238]
 
-[^240]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^238]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.

@@ -2,39 +2,41 @@
 
 ## 1. Gépkocsi
 
-| A beépített motor jellege | Gyártási időpont / környezetvédelmi osztály jelzés (kód) | Szén- monoxid alapjáraton és emelt fordulat- számon5 (CO [tf%]) | Szénhidrogén (CH [ppm]) és/vagy lambda alapjáraton |
+| A beépített belsőégésű motor jellege | Gyártási időpont / környezetvédelmi osztály jelzés (kód) | Szénmonoxid alapjáraton és emelt fordulatszámon1 ( CO [tf%] ) | Szénhidrogén (CH [ppm] ) és/vagy lambda alapjáraton |
 
-| Otto-rendszerű | Kipufogó- gáz utókezelés nélkül | Négyütemű | 1969. július 1. előtt gyártott | 0 | 6,0 | – |
+| Otto- rend- szerű | Kipufogó- gáz utó- kezelés nélkül | Négy- ütemű | 1969. július 1. előtt gyártott | 0 | 6,0 | - |
 
 | 1969. július 1. és 1986. október 1. között gyártott | 0 | 4,5 | 1000 |
 
 | 1986. október 1. után gyártott | 0 | 3,5 | 1000 |
 
-| Kétütemű | 0 | 2,5 | 20006 |
+| Kétütemű | 0 | 2,5 | 20002 |
 
-| Kipufogó- gáz utókezelés- sel | 3 komponensre ható katalitikus utókezelő berendezés, szabályozott keverékképzéssel | 2, 4 | 0,5/0,3 | 0,97<λ<1,03 |
+| Kipufogógáz utókezeléssel | 3 komponensre ható katalitikus utó- kezelő berendezés, szabályozott keverékképzéssel | 2, 4 | 0,5 / 0,3 | 0,97<λ<1,03 |
 
-| 5, 6, 9 | 0,3/0,2 |
+| 5, 6, 9, 14, 15 | 0,3 / 0,2 |
 
-| egyéb utánégető | négyütemű motornál | 1 | 1,0 | 400 és λ>1,00 |
+| egyéb után- égető | négyütemű motornál | 1 | 1,0 | 400 és λ>1,00 |
 
 | kétütemű motornál | 1 | 1,5 | 2000 |
 
-| Dízel-rendszerű | Környezetvédelmi osztály jelzés (kód) | Szabadgyorsításos füstkibocsátás [K (m–1)]7 |
+| Dízel- rend- szerű |  |  | Szabadgyorsításos füstkibocsátás [K (m-1)]3 |
 
-| 0 vagy 3 | normál (szívó) motor: 2,5 |
+|  | 0, 3 | normál (szívó) motor: 2,5 |
 
-| feltöltött, füstkorlátozó nélkül: 3,0 |
+|  | feltöltött, füstkorlátozó nélkül: 3,0 |
 
-| 4 vagy 5 | 2,0 |
+|  | 4, 5 | 2,0 |
 
-| 7, 8, 10, 11, 12 vagy 13 | 1,5 |
+|  | 7, 8, 10, 11, 12, 13 | 1,5 |
 
-## 5 ,,Emelt fordulatszám” az M1 és N1 kategóriába tartozó gépkocsik esetében nmin = 2500 min–1 és nmax = 3000 min–1 értékek közötti, az M2, M3, N2 és N3 kategóriába tartozó gépkocsik esetében nmin = 2000 min–1 és nmax = 2500 min–1 értékek fordulatszámot jelent.
+|  | 14, 15 | 0,5 |
 
-## 6 A közúti közlekedési szolgáltatás végzésére nem használt gépkocsik esetében a szénhidrogénre vonatkozó határértéket a gépkocsik környezetvédelmi felülvizsgálatáról és ellenőrzéséről szóló külön jogszabályban meghatározott időponttól kell alkalmazni.
+## 1 „emelt fordulatszám” az M1 és N1 kategóriába tartozó gépkocsik esetében nmin = 2500 min-1 és nmax = 3000 min-1 értékek közötti, az M2, M3, N2 és N3 kategóriába tartozó gépkocsik esetében nmin = 2000 min-1 és nmax = 2500 min-1 értékek közötti fordulatszámot jelent.
 
-## 7 A szabadgyorsításos füstkibocsátás [K (m–1)] értéke 0,9 s<t90<1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
+## 2 A közúti közlekedési szolgáltatáshoz nem használt, kétütemű motorral ellátott gépkocsi esetében a szénhidrogén (CH) kibocsátási határértéket 2020. december 31-éig teljesítettnek kell tekinteni, ha a gépkocsi motorjának beszabályozása – a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes miniszteri rendeletben meghatározott jellemzők tekintetében – megfelel a gyári beállítási adatoknak.
+
+## 3 A szabadgyorsításos füstkibocsátás [K (m-1)] értéke 0,9 s < t90 < 1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
 
 ## 2. Motorkerékpár és segédmotoros kerékpár Otto-rendszerű motorral
 
@@ -120,6 +122,6 @@
 
 ## (11) Az Euro 6. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL199 p130) módosított, a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet I. mellékletének 2. táblázata határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^247]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^245]
 
-[^247]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^245]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
