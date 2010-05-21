@@ -1,8 +1,6 @@
 ## 12. § E rendelet a fajtatiszta állatok forgalmazására vonatkozó tenyésztéstechnikai és származási követelmények megállapításáról, valamint a 77/504/EGK és 90/425/EGK irányelv módosításáról szóló 91/174/EGK (1991. március 25.) tanácsi irányelvnek való megfelelést szolgálja.
 
-13. § (1) Hatályát veszti a méhanyanevelő telep üzemeltetésének engedélyezéséről, valamint a méhanya és szaporítóanyag előállításáról, felhasználásáról szóló 42/1994. (VI. 28.) FM rendelet.
-
-(2) Ez a § e rendelet hatálybalépését követő napon hatályát veszti.
+13. §[^1]
 
 Melléklet a 67/2010. (V. 12.) FVM rendelethez
 
@@ -33,3 +31,5 @@ Fedett bölcsők száma – sorozatonként megnevelt fedett bölcsők száma
 Kikelt méhanyák száma – sorozatonként kikelt méhanyák száma
 
 Párzott petéző méhanyák száma – csak a tenyészidőszak végén, összesítve kell beírni.
+
+[^1]: A 13. § a (2) bekezdés alapján hatályát vesztette.
