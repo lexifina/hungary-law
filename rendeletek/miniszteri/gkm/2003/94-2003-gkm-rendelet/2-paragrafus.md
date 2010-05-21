@@ -6,25 +6,34 @@ a) pébégáz forgalmazás: a pébégáz beszerzése, tárolása, töltése, tar
 
 b) gázforgalmazó: az a jogi személyiségű gazdasági társaság, amelyik a pébégáz forgalmazására a külön jogszabály[^1] rendelkezései alapján jogosult és megfelel a 4. §-ban előírt feltételeknek is;
 
-c)[^2] pébégáz kiskereskedelem: a gázforgalmazótól megvett vagy bizományosként átvett pébégáz értékesítése a fogyasztók részére palackban vagy üzemanyagtöltő állomáson, és az ehhez kapcsolódó fogyasztói igények színvonalas kielégítését szolgáló kereskedelmi szolgáltatások (pl. házhozszállítás és helyszíni csere) nyújtása, pébégáz palackból turista használatú palackba történő átfejtése, értékesítése;
+c)[^2] pébégáz kiskereskedelem: a gázforgalmazótól megvett vagy bizományba átvett pébégáz értékesítése a fogyasztók részére palackban vagy üzemanyagtöltő állomáson, és az ehhez kapcsolódó kereskedelmi szolgáltatások (pl. házhozszállítás és helyszíni csere) nyújtása, pébégáz palackból turista használatú palackba történő átfejtése, értékesítése;
 
-d)[^3] gázkiskereskedő: az a vállalkozás, aki, illetőleg amely
+d)[^3] gázkiskereskedő: az a természetes személy, vagy gazdálkodó szervezet [Ptk. 685. § c) pont], aki, illetve amely:
 
-da)[^4] rendelkezik a pébégáz általa történő értékesítéséhez szükséges cseretelep, illetve üzemanyagtöltő állomás jogszerű üzemben tartására a külön jogszabályban[^5] előírt működési engedéllyel, pébégáz palackból turista használatú palackba történő átfejtés végzésére e jogszabály alapján kiadott engedéllyel, vagy
+da) a pébégáz palackos pébégázértékesítő hely, vagy üzemanyagtöltő állomáson történő értékesítéshez szükséges, a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerinti bejelentést megtette, illetve rendelkezik a pébégáz palackból turista használatú palackba történő átfejtés végzésére e jogszabály alapján kiadott engedéllyel, vagy
 
-db) a külön jogszabályban[^6] megjelölt, üzlettel nem rendelkező kereskedőként – nevének és székhelyének feltüntetésével – nem földhöz rögzített gázpalack tárolóból fóliával vagy a 8. § (2) bekezdés b) pontjában meghatározott más módon lezárt, palackos pébégázt értékesít;
+db) önálló kereskedelmi ügynöki tevékenység keretében, a gázforgalmazóval fennálló szerződéses kapcsolat alapján a gázforgalmazó tulajdonában lévő palackos pébégázt a gázforgalmazó nevének és székhelyének feltüntetésével, nem földhöz rögzített gázpalacktárolóból fóliával vagy a 8. § (2) bekezdés b) pontjában meghatározott más módon lezárt, palackos pébégázt értékesít, és a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerint a tevékenységét bejelentette;
 
 e) a palackok és tartályok tulajdonosának képviselője: a hazai előírásoknak megfelelően forgalomba hozott palackok és tartályok vonatkozásában az azokba pébégázt betöltő gázforgalmazó;
 
-f)[^7] turista használatú palack: legfeljebb 3 kg töltettömegű, pébégázzal töltött és turisztikai célú (főzés, fűtés, világítás) gázüzemű készülékek tüzelőanyag-ellátására szolgáló palack;
+f)[^4] turista használatú palack: legfeljebb 3 kg töltettömegű, pébégázzal töltött és turisztikai célú (főzés, fűtés, világítás) gázüzemű készülékek tüzelőanyag-ellátására szolgáló palack;
 
-g)[^8] átfejtés: a 2. melléklet szerinti feltételeknek megfelelő, a tevékenység végzésére engedéllyel rendelkező gázkiskereskedő által pébégáz palackból turista használatra szolgáló palackba történő gázlefejtő tevékenység.
+g)[^5] átfejtés: a 3/A. § és 3/B. § szerinti feltételeknek megfelelő, a tevékenység végzésére engedéllyel rendelkező gázkiskereskedő által pébégáz palackból turista használatra szolgáló palackba történő gázlefejtő tevékenység;
+
+h)[^6] pébégáz palacktöltő üzem: a szállítható nyomástartó berendezések töltésére létesített gázipari létesítmény, amely rendelkezik a bányafelügyelet használatbavételi engedélyével;
+
+i)[^7] palackos pébégázfogyasztó (a továbbiakban: fogyasztó): aki pébégázt palackban, saját felhasználásra megvásárol;
+
+j)[^8] cseretelep: gázforgalmazó vagy gázkiskereskedő által a palackos pébégáz értékesítésére használt terület, aminek tartozéka az a térrész, ahol a pébégáz palackot tárolják;
+
+k)[^9] pébégáz nagykereskedelem: az a kereskedelmi tevékenység, amely során a gázkereskedő a pébégázt, annak feldolgozása, átalakítása nélkül a gázforgalmazónak értékesíti.
 
 [^1]: A kémiai biztonságról szóló 2000. évi XXV. törvény.
-[^2]: A 2. § c) pontja az 55/2006. (VIII. 3.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § d) pontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § d) pontjának da) pontja az 55/2006. (VIII. 3.) GKM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az üzletek működési engedélyéről szóló 4/1997. (I. 22.) Korm. rendelet (a továbbiakban: Korm. rendelet).
-[^6]: Az üzletek működési engedélyéről szóló 4/1997. (I. 22.) Korm. rendelet (a továbbiakban: Korm. rendelet).
-[^7]: A 2. § f) pontját az 55/2006. (VIII. 3.) GKM rendelet 1. § (3) bekezdése iktatta be.
-[^8]: A 2. § g) pontját az 55/2006. (VIII. 3.) GKM rendelet 1. § (3) bekezdése iktatta be.
+[^2]: A 2. § c) pontja a 17/2010. (V. 13.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § d) pontja a 17/2010. (V. 13.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § f) pontját az 55/2006. (VIII. 3.) GKM rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § g) pontját az 55/2006. (VIII. 3.) GKM rendelet 1. § (3) bekezdése iktatta be, szövege a 17/2010. (V. 13.) NFGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § h) pontját a 17/2010. (V. 13.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § i) pontját a 17/2010. (V. 13.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § j) pontját a 17/2010. (V. 13.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § k) pontját a 17/2010. (V. 13.) NFGM rendelet 1. § (2) bekezdése iktatta be.
