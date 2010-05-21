@@ -32,7 +32,7 @@
 
 ## d) Rendkívüli eseményről jegyzőkönyv felvétele és a Hivatal értesítése.
 
-## 4. A szolgálati titokká minősített feladatlapokat tartalmazó csomagok és a csomagokat tartalmazó dobozok őrzése, nyilvántartása és átadása a minősített adat kezelésének rendjéről szóló 79/1995. (VI. 30.) Korm. rendeletnek a szolgálati titokra vonatkozó rendelkezései, továbbá jelen rendelet rendelkezései és az oktatási és kulturális miniszter vagy a Hivatal a miniszter által írásban átruházott hatáskörben eljáró vezetőjének külön rendelkezése szerint.
+## 4.[^5] A minősítéssel védett feladatlapokat tartalmazó csomagok és a csomagokat tartalmazó dobozok őrzése, nyilvántartása és átadása a körzetközponti jegyzőnél az egyes állami vizsgák megszervezése során keletkező „Korlátozott terjesztésű” minősítési szintű minősített adatra vonatkozó rendelkezések, továbbá jelen rendelet rendelkezései és az oktatási és kulturális miniszter vagy a Hivatal – a miniszter által írásban átruházott hatáskörben eljáró – vezetőjének külön rendelkezése szerint történik.
 
 ## B) A vizsgaszervező iskolák feladatai az írásbeli érettségi vizsgák
 
@@ -133,3 +133,5 @@ a magasabb képességszintbe kell sorolni.)
 – 3. szint: 545–645
 
 – 4. szint: 645-től.
+
+[^5]: A 4. számú melléklet A) A körzetközponti jegyzők feladatai az írásbeli érettségi vizsgák feladatlapjainak elosztásában alcím 4. pontja a 22/2010. (V. 13.) OKM rendelet 12. § (3) bekezdésével megállapított szöveg.
