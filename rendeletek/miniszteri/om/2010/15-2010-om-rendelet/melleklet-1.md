@@ -1,3 +1,5 @@
+## 15. §[^1]
+
 1. melléklet a 15/2010. (V. 12.) ÖM rendelethez
 
 A bevetési és kiképzési célra használható tűzvédelmi technika csoportosítása és időszakos felülvizsgálata, ellenőrzése
@@ -207,3 +209,5 @@ A bevetési és kiképzési célra használható tűzvédelmi technika csoportos
 | 101. | 35.5. Palackok légzőkészülékhez | igen | gyártói előírás szerint | – |
 
 | 102. | 36. Egyéb | igen | jogszabály, szabvány, gyártói előírás szerint | – |
+
+[^1]: A 15. § a (2) bekezdés alapján hatályát vesztette.
