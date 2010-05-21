@@ -4,4 +4,6 @@
 
 (3) Ha az egészségkárosodás olyan mértékű, hogy az érintett eredeti szolgálati beosztásának, munkakörének ellátását lehetetlenné teszi, a baleseti járadék folyósítása mellett az állományilletékes parancsnoknak a FÜV eljárást is kezdeményeznie kell.
 
-(4) A szolgálati kötelmekkel összefüggő baleset miatti 240 napon túli betegállomány esetén, ha a gyógyulás érdekében erre szükség van, a társadalombiztosítási jogszabályoknak megfelelően kell eljárni. A betegállomány meghosszabbítását a területileg illetékes ORSZI Bizottságok véleményezik.
+(4)[^47] A szolgálati kötelmekkel összefüggő baleset miatti 240 naptári napon túli betegállomány esetén, ha a gyógyulás érdekében erre szükség van, a társadalombiztosítási jogszabályoknak megfelelően kell eljárni. A betegállomány meghosszabbítását a területileg illetékes ORSZI Bizottságok véleményezik.
+
+[^47]: A 32. § (4) bekezdése a 22/2010. (V. 13.) PM rendelet 30. § (2) bekezdése szerint módosított szöveg.

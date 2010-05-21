@@ -6,8 +6,10 @@
 
 (3) Nincs helye ismételt előzetes alkalmassági vizsgálatra jelentkezésnek, ha
 
-a) a jelentkező egy éven belül végzett előzetes alkalmassági vizsgálat másodfokú elbírálása során nem alkalmas minősítést kapott,
+a)[^34] a jelentkező egy éven belül végzett előzetes alkalmassági vizsgálat másodfokú elbírálása során alkalmatlan minősítést kapott,
 
 b) a jelentkező a szolgálat ellátását akadályozó testi fogyatékossága van,
 
 c) a jelentkező a szolgálat ellátását akadályozó, nem gyógyítható betegségben szenved.
+
+[^34]: A 16. § (6) bekezdés a) pontja a 22/2010. (V. 13.) PM rendelet 30. § (1) bekezdése szerint módosított szöveg.

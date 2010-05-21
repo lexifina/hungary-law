@@ -9,3 +9,7 @@ b) a felülvizsgálatra szolgálati kötelmekkel összefüggő egészségkároso
 c) a hivatásos állomány tagja kéri.
 
 (2) A szakvélemény beszerzését az Elsőfokú FÜV Bizottság elnöke kezdeményezi az ORSZI beutaló kiállításával.
+
+(3)[^65] Az egészségkárosodás mértékének megállapítását az egészségügyi szabadságra való jogosultság lejárta előtt legkésőbb 90 naptári nappal kell kezdeményezni.
+
+[^65]: A 43. § (3) bekezdését a 22/2010. (V. 13.) PM rendelet 22. §-a iktatta be.

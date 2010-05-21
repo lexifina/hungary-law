@@ -1,6 +1,6 @@
 ## A FÜV Bizottság eljárása
 
-42. § (1) A FÜV Bizottságok üléseiket szükség szerinti gyakorisággal tartják. A FÜV eljárásra a hivatásos állomány tagját az egészségügyi szolgálat az iratok beérkezését követő 30 napon belül írásban, a bizottsági ülés helyének és idejének megjelölésével, az ülés időpontját megelőzően, legalább nyolc nappal a szolgálati elöljáró útján rendeli be.
+42. § (1)[^62] A FÜV Bizottságok üléseiket szükség szerinti gyakorisággal tartják. A FÜV Bizottsági ülésre a hivatásos állomány tagját az egészségügyi szolgálat írásban, a bizottsági ülés helyének és idejének megjelölésével, az ülés időpontját megelőzően, legalább nyolc naptári nappal a szolgálati elöljáró útján rendeli be.
 
 (2) A hivatásos állomány tagját a bizottság szakmai szempontból illetékes tagja megvizsgálja, a vizsgálat eredményét összeveti a FÜV táblázatban szereplő vizsgálati eredményekkel, majd a bizottság részére tájékoztatást ad a kivizsgálás eredményéről, és javaslatot tesz a vizsgált személy egészségi alkalmassági fokára, egészségkárosodásának a szolgálati kötelmekkel való összefüggésére, valamint az egyéb kérdésekre (pl. egészségügyi szabadság meghosszabbítása).
 
@@ -16,6 +16,10 @@ c) a gépjárművezetői egészségi alkalmasság felülvizsgálatának szüksé
 
 d) az egyenruha viselésének egészségi szempontból való ellenjavallatát.
 
-(5) A FÜV határozatot a bizottság tagjai aláírják és személyi orvosi bélyegzőjükkel hitelesítik.
+(5)[^63] A FÜV táblát a bizottság tagjai aláírják és személyi orvosi bélyegzőjükkel hitelesítik. A FÜV határozatot kizárólag az elnök írja alá, és a FÜV Bizottság bélyegzőjével hitelesíti.
 
-(6) Alkalmatlanság megállapítása esetén a bizottság a személyügyi eljárás kezdetéig a hivatásos állomány tagjának egészségügyi szabadságot engedélyez azzal, hogy a szolgálati kötelmeinek átadás-átvételére igénybe vehető.
+(6)[^64] Alkalmatlanság megállapítása esetén a Bizottságnak a minősítés jogerőre emelkedéséig, továbbá a személyügyi eljárás kezdetéig a hivatásos állomány tagjának egészségügyi szabadságot kell engedélyeznie.
+
+[^62]: A 42. § (1) bekezdése a 22/2010. (V. 13.) PM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^63]: A 42. § (5) bekezdése a 22/2010. (V. 13.) PM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^64]: A 42. § (6) bekezdése a 22/2010. (V. 13.) PM rendelet 21. § (2) bekezdésével megállapított szöveg.

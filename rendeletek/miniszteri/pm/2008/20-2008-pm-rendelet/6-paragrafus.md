@@ -6,7 +6,9 @@ a) „Egészségileg alkalmas”,
 
 b) „Egészségileg ideiglenesen alkalmatlan ...-ig”,
 
-c) „Egészségileg alkalmatlan”.
+c) „Egészségileg alkalmatlan”,
+
+d)[^6] „Egészségileg alkalmas egészségügyi felmentéssel”.
 
 (2) A pszichológiai vizsgálatok alapján a következő minősítések állapíthatóak meg:
 
@@ -23,3 +25,5 @@ a) „Fizikai állapota megfelelő”,
 b) „Fizikai terhelhetősége jelenleg nem megfelelő, hat hónapon belül ismételt vizsgálata szükséges”,
 
 c) „Fizikai állapota nem megfelelő”.
+
+[^6]: A 6. § (1) bekezdés d) pontját a 22/2010. (V. 13.) PM rendelet 2. §-a iktatta be.

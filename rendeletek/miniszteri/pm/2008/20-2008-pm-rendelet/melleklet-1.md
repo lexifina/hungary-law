@@ -1,5 +1,7 @@
-## 54. § Hatályát veszti a vám- és pénzügyőrség hivatásos állományú tagjainak szolgálati viszonyával kapcsolatos egyes szabályokról szóló 15/1997. (V. 8.) PM rendelet 41–43. és 52–57. §-a.
+## 54. §[^76] E rendelet 22/2010. (V. 13.) PM rendelettel (a továbbiakban: R) megállapított rendelkezéseit az R. hatálybalépését[^77] követően indult eljárásokra kell alkalmazni.
 
-1. számú melléklet a 20/2008. (VI. 19.) PM rendelethez[^3]
+1. számú melléklet a 20/2008. (VI. 19.) PM rendelethez[^78]
 
-[^3]: Az 1. számú melléklet a 44/2008. (XII. 31.) PM rendelet 23. §-a és 34. §-a szerint módosított szöveg.
+[^76]: Az 54. § a 22/2010. (V. 13.) PM rendelet 28. §-ával megállapított szöveg.
+[^77]: A hatálybalépés időpontja: 2010. május 21.
+[^78]: Az 1. számú melléklet a 22/2010. (V. 13.) PM rendelet 29. § (1) bekezdésével megállapított szöveg.
