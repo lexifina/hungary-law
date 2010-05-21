@@ -10,15 +10,15 @@ b) részvétel a KOB és KOCS feladatszabása alapján a katasztrófák elleni v
 
 (3) A feladatok végrehajtásában csak a kijelölt és felkészített, munkavédelmi oktatásban részesített, a szükséges egyéni védőeszközökkel, egészségvédelmi felszereléssel ellátott erők vehetnek részt.
 
-(4)[^18] Amennyiben a kialakult helyzet az igénybevételt nem indokolja, azonban a fokozott alkalmazási készség elérése indokolt, a HM államtitkár a kijelölt erők részére ideiglenes készenléti szolgálatot rendelhet el.
+(4)[^26] Amennyiben a kialakult helyzet az igénybevételt nem indokolja, azonban a fokozott alkalmazási készség elérése indokolt, a HM államtitkár a kijelölt erők részére ideiglenes készenléti szolgálatot rendelhet el.
 
-(5)[^19]
+(5)[^27] Az MH egészségügyi feladatokat ellátó központi szervezete a KOB útján hajtja végre a katasztrófavédelmi feladatok egészségügyi biztosítását, ellátja az ÁKT-ben meghatározott közegészségügyi-járványügyi feladatokat.
 
-(6)[^20] Az MH geoinformációkat szolgáltató szervezete adatot biztosít a katasztrófák elleni védelem megszervezéséhez.
+(6)[^28] Az MH geoinformációkat szolgáltató szervezete adatot biztosít a katasztrófák elleni védelem megszervezéséhez.
 
-(7)[^21]
+(7)[^29]
 
-[^18]: A 15. § (4) bekezdése a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^19]: A 15. § (5) bekezdését az 5/2008. (II. 29.) HM rendelet 16. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^20]: A 15. § (6) bekezdése a 27/2007. (VI. 27.) HM rendelet 3. §-ával megállapított szöveg.
-[^21]: A 15. § (7) bekezdését az 5/2008. (II. 29.) HM rendelet 16. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^26]: A 15. § (4) bekezdése a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^27]: A 15. § (5) bekezdését az 5/2008. (II. 29.) HM rendelet 16. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 13/2010. (V. 13.) HM rendelet 7. §-a iktatta be.
+[^28]: A 15. § (6) bekezdése a 27/2007. (VI. 27.) HM rendelet 3. §-ával megállapított szöveg.
+[^29]: A 15. § (7) bekezdését az 5/2008. (II. 29.) HM rendelet 16. § (1) bekezdésének a) pontja hatályon kívül helyezte.

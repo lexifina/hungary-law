@@ -1,8 +1,8 @@
 ## Az ágazati létesítmények katasztrófavédelmi
 
-## tervezése[^45]
+## tervezése[^58]
 
-26. §[^46] (1) Az ágazaton belüli engedélyköteles veszélyes tevékenységek, valamint létesítmények körét külön jogszabály határozza meg.
+26. §[^59] (1) Az ágazaton belüli engedélyköteles veszélyes tevékenységek, valamint létesítmények körét külön jogszabály határozza meg.
 
 (2) A veszélyes ipari üzem vagy veszélyes katonai objektum veszélyességi övezetében lévő, külön jogszabály hatálya alá nem tartozó ágazati létesítményekre objektumvédelmi tervet kell készíteni.
 
@@ -14,5 +14,5 @@ b) biztosítja az objektumvédelmi terv végrehajtásának személyi és tárgyi
 
 c) a katasztrófavédelmi feladatok végrehajtásáért felelős szervezet bevonásával katasztrófavédelmi gyakorlatot vezet a létszám 50%-át meghaladó személyi változás esetén, de legalább évente egyszer.
 
-[^45]: A 26. §-t megelőző alcím az 5/2008. (II. 29.) HM rendelet 9. §-ával megállapított szöveg.
-[^46]: A 26. § az 5/2008. (II. 29.) HM rendelet 9. §-ával megállapított szöveg.
+[^58]: A 26. §-t megelőző alcím az 5/2008. (II. 29.) HM rendelet 9. §-ával megállapított szöveg.
+[^59]: A 26. § az 5/2008. (II. 29.) HM rendelet 9. §-ával megállapított szöveg.
