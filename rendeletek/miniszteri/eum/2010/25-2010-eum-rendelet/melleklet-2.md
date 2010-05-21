@@ -1,26 +1,12 @@
-## 1. Az R1. 1. számú melléklet „1. Az anyagok veszélyesség szerinti osztályozásának szempontjai” alcímét követő szövegrészben a „3. §-ban” szövegrész helyébe a „3. § (1) bekezdésében” szöveg lép.
-
-## 2. Az R1. 1. számú melléklet „3. Veszélyszimbólumok és jelek” alcímében a környezeti veszély ábráját követő „Megjegyzés:” alcímben
-
-## a) a „veszélyjel kötelező felhelyezése” szövegrészek helyébe a „veszélyjel kötelező alkalmazása” szöveg,
-
-## b) a „veszélyjel felhelyezése” szövegrészek helyébe a „veszélyjel alkalmazása” szöveg
-
-## lép.
+## 1–2.[^5]
 
 ## 3. Hatályát veszti az R1. 1. számú melléklet „6. Az osztálybasorolás összegzése, bemutatása példákkal” alcímében a „Példa az anyag jelzésére:” alcím, valamint a melléklet ezt követő valamennyi szövegrésze és ábrája.
 
-## 4. Az R1. 2. számú melléklet címében a „készítmények” szövegrész helyébe a „keverékek” szöveg lép.
-
-## 5. Az R1. 2. számú melléklet „Egészségkárosító veszélyek meghatározása” alcímét követő első mondat helyébe a következő rendelkezés lép:
-
-## „A veszélyes keverékek osztálybasorolását az alábbiak szerint kell elvégezni, azzal, hogy e melléklet alkalmazásában a keverék fogalommal azonos tartalommal alkalmazandó a készítmény kifejezés.”
+## 4–5.[^6]
 
 ## 6. Az R1. 3. számú melléklet címe helyébe a következő rendelkezés lép: „Általános követelmények a veszélyes anyagok és keverékek osztályozására és a veszélyes keverékek feliratozására (címkézésére)”
 
-## 7. Az R1. 3. számú melléklet 1.1. pontja a következő mondattal egészül ki:
-
-## „E melléklet alkalmazásában a keverék fogalommal azonos tartalommal alkalmazandó a készítmény kifejezés.”
+## 7.[^7]
 
 ## 8. Az R1. 3. számú melléklet 1.2. pontja helyébe a következő rendelkezés lép:
 
@@ -44,7 +30,7 @@
 
 ## 11. Hatályát veszti az R1. 3. számú melléklet 1.7.2. pontjában az „és feliratozásra”, valamint az „és feliratozni” szövegrész.
 
-## 12. Az R1. 3. számú melléklet 2.1.1. pontjában a „Kbtv. 3. § aa)–ae) pontjában” szövegrész helyébe a „Kbtv. 3. § (1) bekezdés aa)–ae) alpontjában” szöveg lép.
+## 12.[^8]
 
 ## 13. Az R1. 3. számú melléklet 2.2. alcímét követően a 2.2.1. alpontot megelőző szövegrész helyébe a következő rendelkezés lép: „Keverékek esetén a Kbtv. 3. § (1) aa)–ae) alpontja szerinti fogalommeghatározás és a 440/2008/EK rendeletben említett módszerek eredményeit kell figyelembe venni.”
 
@@ -72,13 +58,7 @@
 
 ## „A megfelelő R mondatot az ilyen keverékek címkéjén fel kell tüntetni.”
 
-## 20. Az R1. 3. számú melléklet 3.2.3.1. pontjában a „dokumentumban” szövegrész helyébe a „mellékletben” szöveg lép.
-
-## 21. Az R1. 3. számú melléklet 4.1.2. pontja helyébe a következő rendelkezés lép:
-
-## „4.1.2. Amennyiben a gyártó, forgalmazó vagy importőr olyan információk birtokában van, amelyek azt támasztják alá, hogy az anyagot a 4.2.1., 4.2.2. vagy 4.2.3. pontban megadott kritériumoknak megfelelően kell besorolni, köteles a besorolást elvégezni.”
-
-## 22. Az R1. 3. számú melléklet 4.1.3. pontjában a „Kbtv. 3. §-ban” szövegrész helyébe a „Kbtv. 3. § (1) bekezdésében” szöveg lép.
+## 20–22.[^9]
 
 ## 23. Hatályát veszti az R1. 3. számú melléklet 4.1.4. pontjában az „és feliratozása (címkézése)” szövegrész.
 
@@ -92,27 +72,7 @@
 
 ## Az alábbi S mondatok kizárólag a keverékek osztályba sorolása, jelölése és címkézése során alkalmazandók:”
 
-## 26. Az R1. 3. számú melléklet 6.2. pontjában az „S29 Csatornába engedni nem szabad” mondathoz tartozó „– Az alkalmazás kritériumai:” francia bekezdés helyébe a következő rendelkezés lép:
-
-## „ – Az alkalmazás kritériumai:
-
-## = kötelező azoknál a környezetre veszélyes és „N” szimbólummal jelölt anyagoknál és keverékeknél, amelyeket a lakosság valószínűsíthetően használ, kivéve, ha ez rendeltetésszerű felhasználásnak minősül,
-
-## = ajánlott a fent említett egyéb anyagoknál és keverékeknél, amelyeket a lakosság valószínűsíthetően használ, kivéve, ha ez rendeltetésszerű felhasználásnak minősül.”
-
-## 27. Az R1. 3. számú melléklet 6.2. pontjában az „S57 A környezetszennyezés elkerülésére megfelelő edényzetet kell használni” mondathoz tartozó „– Alkalmazási terület:” francia bekezdés helyébe a következő rendelkezés lép:
-
-## „– Alkalmazási terület:
-
-## = „N” szimbólummal jelölt anyagok és keverékek.”
-
-## 28. Az R1. 3. számú melléklet 6.2. pontjában az „S63 Belélegzéses baleset esetén a sérültet friss levegőre kell vinni, és nyugalmi állapotban kell tartani” mondathoz tartozó „– Alkalmazási terület:” francia bekezdés helyébe a következő rendelkezés lép:
-
-## „– Alkalmazási terület:
-
-## = nagyon mérgező és mérgező anyagok és keverékek (gázok, gőzök, finom porok, illékony folyadékok),
-
-## = légzőszervi szenzibilizációt okozó anyagok és keverékek.”
+## 26–28.[^10]
 
 ## 29. Az R1. 3. számú melléklet 7.1. pont 7.1.1. pontot megelőző szövegrésze helyébe a következő rendelkezés lép:
 
@@ -120,7 +80,7 @@
 
 ## Megjegyzés: Egyes keverékekre a 10. számú melléklet 2. része és a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló jogszabály további követelményeket tartalmazhat.”
 
-## 30. Az R1. 3. számú melléklet 7.1.2. pontjában az „anyagokra” szövegrész helyébe az „anyagokra és keverékekre” szöveg lép.
+## 30.[^11]
 
 ## 31. Hatályát veszti az R1. 3. számú melléklet 7.1.2. pontjában az „anyagoknál és”, valamint az „anyagokra és” szövegrész.
 
@@ -162,7 +122,7 @@
 
 ## 35. Hatályukat vesztik az R1. 3. számú melléklet 7.5.2. pontjában az „anyag vagy”, „anyag és”, „anyagok és”, „anyagnál és”, „anyagokat és” szövegrészek.
 
-## 36. Az R1. 3. számú melléklet 7.5.2. pontjában az „az anyag és edényzetének” szövegrész helyébe az „az érintett anyag és keverék, valamint edényzetének” szöveg lép.
+## 36.[^12]
 
 ## 37. Hatályát veszti R1. 3. számú melléklet 8. pontja.
 
@@ -182,38 +142,17 @@
 
 ## 43. Az R1. 10. számú melléklet 2. pont A) 1.2. alpontjában az „anyagnak vagy” szövegrész hatályát veszti.
 
-## 44. Az R1. 10. számú melléklet 2. pont A) 3., A) 4. és B) 9. alpontjában az „az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló 3/2006. (I. 26.) EüM rendelet 2. számú melléklete” szövegrész helyébe az „a közösségi jegyzék” szöveg lép.
+## 44–47.[^13]
 
-## 45. Hatályát veszti az R1. 10. számú melléklet 2. pont B) 8. alpontja
+2. melléklet a 25/2010. (V. 12.) EüM rendelethez[^14]
 
-## 46. Az R1. 10. számú melléklet 2. pont C) része helyébe a következő rendelkezés lép:
-
-## „C) Veszélyesnek nem osztályozható, de legalább egy veszélyes anyagot tartalmazó keverékek
-
-## Nem a lakosság számára szánt keverékek
-
-## „Azon keverékek esetében, melyek az e rendeletben meghatározott kritériumok alapján veszélyesként nem osztályozhatók, de tartalmaznak legalább egy veszélyes anyagot, a címkén fel kell tüntetni a „Biztonsági adatlap foglalkozásszerű felhasználók kérésére rendelkezésre áll.” feliratot.”
-
-## 47. Az R1. 13. számú melléklet
-
-## a) „1. ADATLAP” címet követő címsorában és „2. ADATLAP” címet követő címsorában a „készítményekkel” szövegrész helyébe a „keverékekkel” szöveg lép,
-
-## b) „1. ADATLAP” cím alatti 2. pontjában a „készítménnyel” szövegrész helyébe a „keverékkel” szöveg lép.
-
-2. melléklet a 25/2010. (V. 12.) EüM rendelethez
-
-„8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez
-
-A veszélyes anyagok magyarországi jegyzéke egyes tételeinek adattartalma
-
-1. Azonosítási jel (az OKBI adja)
-
-2. Anyag kémiai megnevezése
-
-3. CAS-szám (ha van)
-
-4. EU-szám (ha van)
-
-5. Veszély jel (jelek), a veszély jellegére utaló R-mondatok, valamint az 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti veszélyességi osztály/kategória kódja (kódjai) és a figyelmeztető, H mondat (mondatok) száma (számai)
-
-6. Az 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti óvintézkedésre utaló P mondat (mondatok) száma (számai)”
+[^5]: Az 1. melléklet 1–2. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^6]: Az 1. melléklet 4–5. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^7]: Az 1. melléklet 7. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^8]: Az 1. melléklet 12. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^9]: Az 1. melléklet 20–22. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^10]: Az 1. melléklet 26–28. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^11]: Az 1. melléklet 30. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^12]: Az 1. melléklet 36. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^13]: Az 1. melléklet 44–47. pontját a 8. § (1) bekezdése hatályon kívül helyezte.
+[^14]: A 2. mellékletet a 8. § (1) bekezdése hatályon kívül helyezte.
