@@ -12,11 +12,11 @@ d) D4 díjkategória: a D1, D2 vagy D3 díjkategóriába nem sorolható valamenn
 
 (2)[^15] A motorkerékpár úthasználatért fizetendő 4 napos jogosultság díja a D1 kategória 4 napos jogosultság díjának 50%-a.
 
-(3) A 7,5 tonnát meghaladó össztömegű autóbuszt az össztömegének megfelelő díjkategóriánál eggyel alacsonyabb díjkategóriába kell besorolni.
+(3)[^16] A 7,5 tonnát meghaladó össztömegű autóbuszt, ide értve a bármilyen vontatmánnyal ellátottat is, az autóbusz össztömegének megfelelő díjkategóriánál eggyel alacsonyabb díjkategóriába kell besorolni.
 
 (4) A gépjármű és a vontatmány megengedett legnagyobb össztömegének értékét a forgalmi engedélyben szereplő hatósági bejegyzés alapján kell meghatározni.
 
-(5)[^16] A jogosultság – áfát is tartalmazó – ára a következő:
+(5)[^17] A jogosultság – áfát is tartalmazó – ára a következő:
 
 Bruttó ár Ft-ban
 
@@ -34,4 +34,5 @@ Bruttó ár Ft-ban
 
 [^14]: A 6. § (1) bekezdésének a) pontja a Magyar Közlöny 2007. évi 48. számában megjelent helyesbítésnek megfelelő szöveg.
 [^15]: A 6. § (2) bekezdése a 108/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^16]: A 6. § (5) bekezdése a 108/2007. (XII. 23.) GKM rendelet 5. § (2) bekezdésével megállapított, a 47/2008. (XII. 31.) KHEM rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 6. § (3) bekezdése a 38/2010. (V. 6.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^17]: A 6. § (5) bekezdése a 108/2007. (XII. 23.) GKM rendelet 5. § (2) bekezdésével megállapított, a 47/2008. (XII. 31.) KHEM rendelet 8. § (3) bekezdése szerint módosított szöveg.
