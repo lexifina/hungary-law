@@ -1,17 +1,13 @@
-## 2. § Ha a nyilvántartásba vételt kérő egyesület olyan szerzői vagy szomszédos jog közös kezelését kívánja végezni, amelynek közös kezelését az Szjt. nem írja elő, a kérelemben meg kell jelölni azokat az okokat, amelyek miatt a közösen kezelni kívánt jogot az Szjt. 85. §-ára figyelemmel a jogosultak nem tudják egyedileg gyakorolni.
+3. §[^4] (1) A közös jogkezelő szervezet nyilvántartási adatainak módosítására hivatalból, vagy az egyesület kérelmére kerülhet sor.
 
-## 3. § A nyilvántartásba vételre irányuló kérelemhez a következő okiratokat kell csatolni:
+(2) A módosítási kérelem esetében a nyilvántartásba vételre vonatkozó szabályokat kell alkalmazni azzal, hogy a 2. § (3) bekezdésében felsorolt iratok közül csak az adatváltozással érintetteket kell csatolni.
 
-a) az egyesület bírósági nyilvántartásba vételéről szóló határozatot,
+(3) Ha a módosítás a közös jogkezelő szervezet által ellátott tevékenységek közül az Szjt.-ben előírt közös jogkezelési tevékenység törlésére vonatkozik, az 5. § rendelkezéseit kell alkalmazni.
 
-b) az egyesület alapszabályát,
+(4) A közös jogkezelő szervezetnek a székhely, a képviselő személyében történő változást, továbbá az egyesület társadalmi szervezetek nyilvántartásából történt törlését – a jogerős bírósági végzés egy példányának csatolásával – a jogerőre emelkedést követően azonnal, de legkésőbb 30 napon belül be kell jelentenie a miniszternek.
 
-c) tagjainak, illetve az egyesülethez csatlakozni kívánó jogosultaknak az egyedi azonosításra alkalmas névsorát, amely a tagok (jogosultak) teljes nevét és lakcímét (székhelyét) tartalmazza,
+(5) A közös jogkezelő szervezetnek az alapszabály, valamint a kölcsönös képviseleti szerződés módosítását az elfogadást, illetve az aláírást követő 30 napon belül az iratok megküldésével kell bejelentenie a miniszternek.
 
-d) az egyesület képviselőjének nyilatkozatát az egyesület által végezni kívánt közös jogkezeléssel érintett belföldi jogosultak számáról, továbbá – ha erre az egyesület rendelkezik adatokkal – az érintett belföldi jogosultak és a tagok összesített előző évi közös jogkezelési jogdíjforgalmáról,
+(6) A közös jogkezelő szervezetnek a tagjai névsorát, valamint az előző naptári évben az Szjt. 91. § (2) bekezdése alapján előzetesen tiltakozásukat kifejező jogosultak számát, továbbá az ilyen jogosultaknak a nyilatkozattal érintett felhasználásból az előző naptári évben eredő jogdíjakból való részesedése arányát tartalmazó kimutatást évente egy alkalommal, a beszámoló megküldésével egyidejűleg kell bejelentenie a miniszternek.
 
-e) az egyesület munkavállalóinak névsorát, amely tartalmazza a munkavállalók nevét, szakképzettségét, nyelvismeretét, közös jogkezelési szakismereteinek (így különösen: engedélyezés, díjigényérvényesítés/jogdíjbeszedés, művek, illetve jogosultak, illetve felhasználások dokumentálása, jogdíjak felosztása, jogdíjkifizetések könyvelése, lebonyolítása stb.), továbbá munkakörének, illetve közös jogkezelés körében szerzett szakmai gyakorlatának időtartamát,
-
-f) az egyesület képviselőjének nyilatkozatát arról, hogy az egyesületnek rendelkezésére állnak a közös jogkezelő tevékenység ellátásához szükséges számítástechnikai eszközök, adatok és szoftverek,
-
-g) az Szjt. 88. § (1) bekezdés e) pontjának megfelelő egyoldalú vagy kölcsönös képviseleti szerződéseit, illetve az e szerződések megkötésére irányuló szándéknyilatkozatokat.
+[^4]: A 3. § a 23/2010. (V. 13.) OKM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 10. §-a alapján a 2010. május 21-e után indult és a megismételt eljárásokban kell alkalmazni.
