@@ -1,0 +1,1 @@
+14. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, és a hatálybalépését követő napon a hatályát veszti.
