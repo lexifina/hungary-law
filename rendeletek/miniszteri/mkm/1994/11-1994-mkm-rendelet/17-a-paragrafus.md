@@ -1,4 +1,4 @@
-17/A. §[^76] (1) Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt, a felvételi kérelmekről vagy a tanulmányi eredmények alapján, vagy a tanulmányi eredmények és a központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsga eredményei alapján dönthet.
+17/A. §[^77] (1) Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt, a felvételi kérelmekről vagy a tanulmányi eredmények alapján, vagy a tanulmányi eredmények és a központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsga eredményei alapján dönthet.
 
 (2) Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt, az egységes követelmények szerint szervezett írásbeli vizsgán való részvételhez akkor kötheti a felvételi kérelem elbírálását, ha ahhoz a fenntartó hozzájárult, továbbá azt az adott tanulmányi területen a jelentkezők magas száma indokolja. E bekezdés alkalmazásában a jelentkezők magas számának az tekinthető, ha az előző három év átlagában a jelentkezők létszáma legalább másfélszerese volt a felvehetők létszámának.
 
@@ -20,7 +20,7 @@ b) a hat évfolyamos gimnáziumba,
 
 c) az általános tanterv alapján folyó felkészítést nyújtó középfokú iskola 9. évfolyamára,
 
-d)[^77] a kiemelkedő tehetséget kibontakoztató felkészítést nyújtó (a továbbiakban: tehetséggondozó) középiskola hetedik, kilencedik évfolyamára
+d)[^78] a kiemelkedő tehetséget kibontakoztató felkészítést nyújtó (a továbbiakban: tehetséggondozó) középiskola hetedik, kilencedik évfolyamára
 
 ## jelentkeznek.
 
@@ -40,5 +40,5 @@ A (4) bekezdés c) és d) pontja szerinti írásbeli vizsgák eredményeinek egy
 
 (11) A központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsgát szervező középfokú intézmény vezetője köteles a tanév rendjéről szóló rendeletben meghatározott írásbeli vizsga tartama alatt a Hivatal által működtetett ADAFOR rendszert figyelemmel kísérni az intézményben.
 
-[^76]: A 17/A. §-t a 16/2008. (IV. 30.) OKM rendelet 1. §-a iktatta be.
-[^77]: A 17/A. § (4) bekezdés d) pontja a 35/2009. (XI. 18.) OKM rendelet 3. §-ával megállapított szöveg.
+[^77]: A 17/A. §-t a 16/2008. (IV. 30.) OKM rendelet 1. §-a iktatta be.
+[^78]: A 17/A. § (4) bekezdés d) pontja a 35/2009. (XI. 18.) OKM rendelet 3. §-ával megállapított szöveg.

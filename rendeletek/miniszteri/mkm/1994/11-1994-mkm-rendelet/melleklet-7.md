@@ -82,6 +82,6 @@
 
 ## Ha a kérelmező a melléklet 1., 3., 4. pontja szerinti adattartalmat nem igazolja, a kérelem elbírálásához a nyilvántartásba vételi engedélyről szóló határozat, a tulajdoni lap, a használatbavételi engedély, a hatósági bizonyítvány vonatkozásában a nyilvántartást vezető szervet kell megkeresni a jogosultságra vonatkozó adatok szolgáltatása vagy igazolása iránt.
 
-7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^289]
+7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^293]
 
-[^289]: A 7. számú mellékletet az 1/1998. (VII. 24.) OM rendelet iktatta a szövegbe.
+[^293]: A 7. számú mellékletet az 1/1998. (VII. 24.) OM rendelet iktatta a szövegbe.

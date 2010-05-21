@@ -1,4 +1,4 @@
-39/F. §[^194] (1) A közoktatási törvény 48. §-ának (9) bekezdése szerint az alapító okirata alapján alapfokú művészetoktatás követelményeit is megvalósító egységes iskolának (a továbbiakban: egységes iskola)
+39/F. §[^195] (1) A közoktatási törvény 48. §-ának (9) bekezdése szerint az alapító okirata alapján alapfokú művészetoktatás követelményeit is megvalósító egységes iskolának (a továbbiakban: egységes iskola)
 
 a) olyan helyi tantervet kell elfogadnia, amelyik tartalmazza valamennyi iskolatípusra központilag kiadott követelményeket,
 
@@ -12,4 +12,4 @@ b) rendelkeznie kell az adott iskolatípusokra meghatározott személyi és tár
 
 (5) Ha a tanuló az egységes iskolában vesz részt az alapfokú művészetoktatásban, további művészetoktatást csak tandíjfizetési kötelezettség mellett vehet igénybe.
 
-[^194]: A 39/F. §-t a 21/2005. (VII. 25.) OM rendelet 11. §-a iktatta be, e módosító rendelet 22. §-ának (5) bekezdése alapján egységes iskola esetén a helyi tanterv bevezetése 2005. szeptember 1-jén kezdődik az általános iskola első évfolyamán, ezt követően felmenő rendszerben a többi iskolai évfolyamon.
+[^195]: A 39/F. §-t a 21/2005. (VII. 25.) OM rendelet 11. §-a iktatta be, e módosító rendelet 22. §-ának (5) bekezdése alapján egységes iskola esetén a helyi tanterv bevezetése 2005. szeptember 1-jén kezdődik az általános iskola első évfolyamán, ezt követően felmenő rendszerben a többi iskolai évfolyamon.

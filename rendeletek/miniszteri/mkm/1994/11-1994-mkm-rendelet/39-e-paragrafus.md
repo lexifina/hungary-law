@@ -1,4 +1,4 @@
-39/E. §[^193] (1) Integrációs felkészítésben vesznek részt azok a képesség-kibontakoztató felkészítésben részt vevő tanulók, akik egy osztályba, osztálybontás esetén egy csoportba járnak azokkal a tanulókkal, akik nem vesznek részt a képesség-kibontakoztató felkészítésben. Az integrációs felkészítés megszervezése nem járhat együtt a halmozottan hátrányos helyzetű tanulók elkülönítésével. E rendelkezések alkalmazásában a tanulók elkülönítését jelenti, ha az integrációs felkészítést nem a 39/D. § (9) bekezdésének a)–c) pontjaiban foglaltaknak megfelelően szervezik meg.
+39/E. §[^194] (1) Integrációs felkészítésben vesznek részt azok a képesség-kibontakoztató felkészítésben részt vevő tanulók, akik egy osztályba, osztálybontás esetén egy csoportba járnak azokkal a tanulókkal, akik nem vesznek részt a képesség-kibontakoztató felkészítésben. Az integrációs felkészítés megszervezése nem járhat együtt a halmozottan hátrányos helyzetű tanulók elkülönítésével. E rendelkezések alkalmazásában a tanulók elkülönítését jelenti, ha az integrációs felkészítést nem a 39/D. § (9) bekezdésének a)–c) pontjaiban foglaltaknak megfelelően szervezik meg.
 
 (2) Az integrációs felkészítésre egyebekben a 39/D. §-ban foglalt rendelkezéseket kell alkalmazni.
 
@@ -20,4 +20,4 @@ c) az együttműködések kialakítását azokkal a szolgálatokkal, melyek a gy
 
 (8) Az óvodai fejlesztő programot az intézmény az Országos Oktatási Integrációs Hálózattal kötött együttműködési megállapodás alapján, a Hálózat szakmai támogatásával szervezi meg, mely szakmai szolgáltatás kiterjed a fenntartó számára nyújtott, a közoktatási törvény 105. §-a szerinti önkormányzati intézkedési terv közoktatási esélyegyenlőségi intézkedési terve elkészítésének támogatására is.
 
-[^193]: A 39/E. §-t az 57/2002. (XI. 18.) OM rendelet 1. §-a iktatta be, szövege a 21/2009. (IV. 16.) OKM rendelet 2. §-ával megállapított szöveg.
+[^194]: A 39/E. §-t az 57/2002. (XI. 18.) OM rendelet 1. §-a iktatta be, szövege a 21/2009. (IV. 16.) OKM rendelet 2. §-ával megállapított szöveg.
