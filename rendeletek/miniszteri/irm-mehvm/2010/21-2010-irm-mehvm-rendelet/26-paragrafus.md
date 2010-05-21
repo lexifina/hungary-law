@@ -1,0 +1,1 @@
+## 25. § A közjegyzői kamarának olyan informatikai felhasználói szabályzatot kell készítenie, amely rögzíti – a jogosultsági szintek szerint – a felhasználók kötelezettségeit a MOKK rendszere biztonságos üzemeltetése érdekében. Az informatikai felhasználói szabályzatban a felhasználók kötelezettségeit a jogosultsági szintek szerint kell megállapítani.

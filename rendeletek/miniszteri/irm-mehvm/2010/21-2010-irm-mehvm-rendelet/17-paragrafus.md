@@ -1,0 +1,1 @@
+## 16. § Az informatikai rendszer üzemeltetéséről – a biztonsági napló mellett – üzemeltetési naplót kell vezetni, amelyet a MOKK rendszerének működtetését végző informatikai szervezeti egység felelős vezetőjének és az informatikai biztonsági felelősnek rendszeresen ellenőriznie kell.
