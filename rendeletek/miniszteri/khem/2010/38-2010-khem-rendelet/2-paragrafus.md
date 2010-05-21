@@ -1,0 +1,3 @@
+## 1. § Az autópályák, autóutak és főutak használatának díjáról szóló 36/2007. (III. 26.) GKM rendelet (a továbbiakban: R.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az (1) bekezdésben meghatározott jogosultak – a forgalmi rendszámhoz rendelt elektronikus ellenőrzésre tekintettel – kizárólag azokkal a gépjárműveikkel használhatják térítésmentesen a díjköteles útszakaszt, amelyek forgalmi rendszámát a jogosultság igazolásával előzetesen írásban vagy elektronikusan a gépjármű-nyilvántartást vezető hatósághoz eljuttatták. Az (1) bekezdésben meghatározott jogosultak a díjmentes járműveik körét érintő változásokat haladéktalanul kötelesek bejelenteni a gépjármű-nyilvántartást vezető hatóságnak.”
