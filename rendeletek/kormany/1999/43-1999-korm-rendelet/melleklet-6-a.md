@@ -40,9 +40,9 @@
 
 |  |  | Alkohológia és drogellátás | 253,7 |
 
-| 4. | Gondozóintézeti gondozás összesen |  |
+| 4. | Gondozóintézeti gondozás összesen | 3 413,6 |
 
-| 5. | Betegszállítás és orvosi rendelvényű halottszállítás |  |
+| 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 5 780,2 |
 
 | 8. | Művesekezelés | 22 932,2 |
 
