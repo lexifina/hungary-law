@@ -4,6 +4,8 @@
 
 ## 30/2009. (XI. 26.) NFGM rendelet módosítása
 
-28. § (1) Az R14. 2. számú melléklete a 15. melléklet szerint módosul.
+28. § (1)[^4] A gázszerelők engedélyezéséről és nyilvántartásáról szóló 30/2009. (XI. 26.) NFGM rendelet (a továbbiakban: R14.) 2. számú melléklete a 15. melléklet szerint módosul.
 
 (2) Az R14. 3 számú melléklete a 16. melléklet szerint módosul.
+
+[^4]: A 28. § (1) bekezdése a 17/2010. (V. 13.) NFGM rendelet 3. § (2) bekezdése szerint módosított szöveg.

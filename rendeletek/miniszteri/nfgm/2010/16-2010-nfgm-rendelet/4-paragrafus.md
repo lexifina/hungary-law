@@ -2,6 +2,8 @@
 
 4. § (1) Az R2. 2. § g) pontjában a „tanúsító” szövegrész helyébe a „bejelentett” szöveg lép.
 
-(2) Az R1. 5. § (2) bekezdésében az „az erre kijelölt tanúsító szerv” szövegrész helyébe az „a bejelentett szervezet” szöveg lép.
+(2)[^2] Az R2. 5. § (2) bekezdésében az „az erre kijelölt tanúsító szerv” szövegrész helyébe az „a bejelentett szervezet” szöveg lép.
 
 (3) Az R2. 5. § (8) bekezdésében a „kijelölt tanúsító” szövegrész helyébe a „bejelentett”, a „megfelelősségről” szövegrész helyébe a „megfelelőségről” szöveg lép.
+
+[^2]: A 4. § (2) bekezdése a 17/2010. (V. 13.) NFGM rendelet 3. § (1) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 18. § Az ipari és mezőgazdasági gázfogyasztó készülékek megfelelőségének tanúsítási, illetve jóváhagyási rendjére és forgalomba hozatalára vonatkozó szabályokról szóló 13/2004. (II. 13.) GKM rendelet (a továbbiakban: R9.) 4. § (6) bekezdésében a „határozatban” szövegrész hatályát veszti.
+## 18. §[^3] Az ipari és mezőgazdasági gázfogyasztó készülékek megfelelőségének tanúsítási, illetve jóváhagyási rendjére és forgalomba hozatalára vonatkozó szabályokról szóló 13/2004. (II. 13.) GKM rendelet 4. § (6) bekezdésében a „határozatban” szövegrész hatályát veszti.
 
 ## 11. A mérőeszközökre vonatkozó egyedi előírásokról szóló 8/2006. (II. 27.) GKM rendelet módosítása
 
@@ -35,3 +35,5 @@
 (8) Az R10. 19. számú melléklete a 9. melléklet szerint módosul.
 
 (9) Az R10. 20. számú melléklete a 10. melléklet szerint módosul.
+
+[^3]: A 18. § a 17/2010. (V. 13.) NFGM rendelet 4. §-a szerint módosított szöveg.
