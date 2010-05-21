@@ -1,0 +1,1 @@
+## 4. § Hatályát veszti a termékek megfelelőségének értékeléséhez kapcsolódó egyes ipari és kereskedelmi tárgyú miniszteri rendeletek módosításáról szóló 16/2010. (IV. 28.) NFGM rendelet 18. §-ában az „(a továbbiakban: R9.)” szövegrész.
