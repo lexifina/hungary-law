@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-51-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-09-01 | 1997-51-20-3D.9 | 51/1997. (XII. 18.) NM rendelet |
+| 2010-05-22 | 1997-51-20-3D.10 | 19/2010. (IV. 22.) EüM rendelet |

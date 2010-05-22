@@ -60,7 +60,7 @@
 
 ## i) korai fogászati szűrés és gondozás.
 
-## 4. 6–18 év között kétévente[^30]:
+## 4. 6–18 év között kétévente[^32]:
 
 ## a) teljes fizikális vizsgálat,
 
@@ -68,7 +68,7 @@
 
 ## c) az anamnézis alapján veszélyeztetett gyerekek kiszűrése, szükség esetén szakorvosi vizsgálatra irányítása,
 
-## d) pajzsmirigy tapintásos vizsgálata 11 éves életkortól,
+## d)[^33] pajzsmirigy tapintásos vizsgálata 4. évfolyamtól,
 
 ## e) a testmagasság, testtömeg, a testi fejlettség és tápláltsági állapot hazai standardok szerinti értékelése, a nemi fejlődés értékelése,
 
@@ -76,7 +76,7 @@
 
 ## g) érzékszervek működésének vizsgálata a szakmai irányelveknek megfelelően, a színlátás vizsgálata,
 
-## h) mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre (tartáshiba, scoliosis, Scheuerman),
+## h)[^34] mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre,
 
 ## i) vérnyomásmérés,
 
@@ -98,11 +98,16 @@
 
 ## g) mozgásszervek vizsgálata, különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre (tartáshiba, scoliosis),
 
-## h) vérnyomásmérés.
+## h) vérnyomásmérés,
+
+## i)[^35] pajzsmirigy tapintásos vizsgálata.
 
 ## A családi anamnézis, a teljes körű fizikális vizsgálat eredményei alapján, amennyiben a szakorvos indokoltnak tartja, célzott vizsgálatok végzése szükséges.
 
-2. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^31]
+2. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^36]
 
-[^30]: Amennyiben a vizsgálat éve egybeesik a 16 éves kori záró állapotvizsgálattal, abban az esetben a két vizsgálatot összevontan kell elvégezni.
-[^31]: A melléklet eredeti szövege II. fejezetének megjelölését 2. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
+[^32]: Amennyiben a vizsgálat éve egybeesik a 16 éves kori záró állapotvizsgálattal, abban az esetben a két vizsgálatot összevontan kell elvégezni.
+[^33]: Az 1. számú melléklet 4. pont d) alpontja a 19/2010. (IV. 22.) EüM rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^34]: Az 1. számú melléklet 4. pont h) alpontja a 19/2010. (IV. 22.) EüM rendelet 4. §-a szerint módosított szöveg.
+[^35]: Az 1. számú melléklet 5. pont i) alpontját a 19/2010. (IV. 22.) EüM rendelet 3. § (4) bekezdése iktatta be.
+[^36]: A melléklet eredeti szövege II. fejezetének megjelölését 2. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
