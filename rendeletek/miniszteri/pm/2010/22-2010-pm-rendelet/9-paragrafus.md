@@ -1,3 +1,0 @@
-## 8. § Az R. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A hivatásos állományba felvételre jelentkezőknél egészségi, pszichikai alkalmassági vizsgálatot és fizikai állapotfelmérést kell végezni. Az alapellátást végző orvos a felvételre jelentkező előzetes egészségi alkalmassági vizsgálata keretében elvégzi az általános belgyógyászati vizsgálatot, kiszűri a hivatásos szolgálatra egészségi szempontból egyértelműen alkalmatlan személyeket. A további vizsgálatokat – szükség esetén más egészségügyi szakintézetek közreműködését is igénybe véve – az egészségügyi szolgálat végzi.”
