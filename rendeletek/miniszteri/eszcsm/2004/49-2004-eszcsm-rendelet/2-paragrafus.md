@@ -8,6 +8,8 @@
 
 (4) A védőnő a 3. § szerinti feladatát az ellátási területén lakcímmel rendelkező személyekkel kapcsolatosan köteles ellátni. A lakcímmel rendelkezés megállapításánál a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. §-ának (2)–(4) bekezdésében foglaltak az irányadók.
 
-(5) A védőnő – a (4) bekezdésben foglaltakon túl – köteles ellátni a körzetében jogszerűen tartózkodó azon személyt is, aki az ellátás iránti igényét a védőnőnél bejelenti.
+(5)[^1] A védőnő – a (4) bekezdésben foglaltakon túlmenően – köteles ellátni a körzetében életvitelszerűen tartózkodó azon személyt is, aki az ellátás iránti igényét írásban bejelenti. Ebben az esetben a védőnő haladéktalanul írásban értesíti a bejelentett lakóhely szerint illetékes védőnőt a gondozásba vételről.
 
 (6) A védőnői tevékenység szakmai felügyeletét az Állami Népegészségügyi és Tisztiorvosi Szolgálat illetékes vezető védőnője (a továbbiakban: szakmai felügyelet) látja el.
+
+[^1]: A 2. § (5) bekezdése a 19/2010. (IV. 22.) EüM rendelet 5. §-ával megállapított szöveg.

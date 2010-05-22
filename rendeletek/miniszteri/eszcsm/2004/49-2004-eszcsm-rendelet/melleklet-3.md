@@ -14,6 +14,6 @@
 
 ## igény szerint az adott programnak megfelelő rendszerességgel, előre tervezetten.
 
-3. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^13]
+3. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^15]
 
-[^13]: A 3. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (2) bekezdésével megállapított szöveg.
