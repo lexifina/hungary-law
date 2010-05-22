@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-05-21 | 2010-23-20-1W.1 | 23/2010. (V. 13.) OKM rendelet |
+| 2010-05-22 | 2010-23-20-1W.2 | 24/2010. (XII. 28.) Korm. rendelet |

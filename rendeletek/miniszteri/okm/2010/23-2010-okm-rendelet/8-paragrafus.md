@@ -1,1 +1,0 @@
-## 7. § Az R. 8. § (2) bekezdés b) pontjában a „Nemzeti Kulturális Örökség Minisztériuma Igazgatása 10032000–00282314 kincstári számlájára” szövegrész helyébe az „Oktatási és Kulturális Minisztériumnak a Magyar Államkincstárnál vezetett 10032000-01425190-00000000 számú előirányzat-felhasználási keretszámlájára” szövegrész lép.

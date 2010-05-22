@@ -1,1 +1,3 @@
-## 8. § Az R. 7. §-a és melléklete hatályát veszti.
+## 1–8. §[^2]
+
+[^2]: Az 1–8. §-t a 9. § hatályon kívül helyezte.
