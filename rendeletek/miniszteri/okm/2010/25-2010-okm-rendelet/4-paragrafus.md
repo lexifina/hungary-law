@@ -1,0 +1,7 @@
+## 3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+4. § (1) Az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendeletben szereplő szakképesítéseket érintően a szakmai követelmények kiadásáról szóló 16/1994. (VII. 8.) MKM rendelet, a szakmai és vizsgakövetelmények kiadásáról, valamint a szakmai vizsga szervezésére feljogosított intézményekről szóló 9/2002. (IV. 5.) NKÖM rendelet és az egyes szakmai és vizsgakövetelmények kiadásáról szóló 28/2003. (X. 18.) OM rendelet (a továbbiakban együtt: korábbi jogszabályok) által megállapított szakmai és vizsgakövetelmények szerinti vizsgák – kivéve a párhuzamos oktatás keretében folytatható művészeti szakképesítéseket – 2014. december 31-éig szervezhetők.
+
+(2) A párhuzamos oktatás keretében folytatható művészeti szakképesítéseket érintően a korábbi jogszabályok által megállapított szakmai és vizsgakövetelmények szerinti szakmai vizsgák 2016. december 31-éig, az artistaképzés esetében 2018. december 31-éig szervezhetők.
+
+(3) A szakképzést a megkezdésének időpontjában hatályos szakmai és vizsgakövetelmények alapján kell befejezni és az eredményes szakmai vizsgát követően a bizonyítványt kiadni. Az oktatási és kulturális miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 20/2008. (VII. 29.) OKM rendelet alapján kiadott központi programok (tantervek) addig alkalmazhatóak, amíg az e rendelet alapján kiadott szakmai és vizsgakövetelmények szerint elkészített egyes központi programok (tantervek) kiadásra kerülnek.
