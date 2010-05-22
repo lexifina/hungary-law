@@ -118,13 +118,13 @@
 
 ## A = ajánlott
 
-2. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^15]
+2. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^17]
 
 ## A nevelési-oktatási intézmény orvosa által ellátandó iskola-egészségügyi feladatok
 
 1. A gyermekek, tanulók egészségi állapotának vizsgálata, követése
 
-a) Az óvodás korú gyermekek vizsgálata szükség szerint, az iskolai tanulók vizsgálata kétévenként. Ennek keretében:
+a)[^18] Az óvodás korú gyermekek vizsgálata járvány és a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerinti fertőző betegség esetén, az iskolai tanulók vizsgálata a 2., 4., 6., 8., 10. és 12. évfolyamokban. Ennek keretében:
 
 – teljes fizikális vizsgálat,
 
@@ -178,7 +178,8 @@ a) Az intézményi környezet – tantermek, gyakorlati helyiségek, tornaterem,
 
 b) A tanulók gyakorlati oktatásával kapcsolatos munkahelyi körülmények figyelemmel kísérése.
 
-7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^16].
+7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^19].
 
-[^15]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^16]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
+[^17]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. számú melléklet 1. pont a) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés a) pont aa) és ab) alpontja szerint módosított szöveg.
+[^19]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.

@@ -1,4 +1,4 @@
-3. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^17]
+3. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^20]
 
 ## A nevelési-oktatási intézmény védőnője által önállóan ellátandó feladatok
 
@@ -10,15 +10,15 @@ a) a testmagasság, testtömeg, a testi fejlettség és tápláltsági állapot 
 
 b) a pszichés, motoros, mentális, szociális fejlődés és magatartásproblémák feltárása,
 
-c) érzékszervek működésének vizsgálata (látás, kancsalság, hallás) és a színlátás vizsgálata 11 éves életkorban,
+c)[^21] érzékszervek működésének vizsgálata (látás, kancsalság, hallás) és a színlátás vizsgálata a 6. évfolyamban,
 
-d) mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre (tartáshiba, scoliosis),
+d)[^22] mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre,
 
 e) vérnyomásmérés,
 
-f) pajzsmirigy tapintásos vizsgálata 11 éves életkortól.
+f)[^23] pajzsmirigy tapintásos vizsgálata a 4. évfolyamtól.
 
-3. A gyermekek, tanulók személyi higiénéjének ellenőrzése, testi, szellemi fejlődésük ellenőrzése, regisztrálása.
+3.[^24] A gyermekek, tanulók személyi higiénéjének ellenőrzése.
 
 4. Elsősegélynyújtás.
 
@@ -46,7 +46,11 @@ e) szenvedélybetegségek megelőzése.
 
 11. Pályaválasztás segítése.
 
-12. Az elvégzett feladatok dokumentációjának vezetése (egészségügyi törzslapok, Egészségügyi Könyv[^18], ambuláns napló, védőoltások, szakorvosi beutalások, veszélyeztetettek nyilvántartása stb.).
+12. Az elvégzett feladatok dokumentációjának vezetése (egészségügyi törzslapok, Egészségügyi Könyv[^25], ambuláns napló, védőoltások, szakorvosi beutalások, veszélyeztetettek nyilvántartása stb.).
 
-[^17]: A 3. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^18]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyv
+[^20]: A 3. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^21]: A 3. számú melléklet 2. pont c) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 3. számú melléklet 2. pont d) alpontja a 19/2010. (IV. 22.) EüM rendelet 2. § a) pontja szerint módosított szöveg.
+[^23]: A 3. számú melléklet 2. pont f) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 3. számú melléklet 3. pontja a 19/2010. (IV. 22.) EüM rendelet 2. § b) pontja szerint módosított szöveg.
+[^25]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyv
