@@ -1,3 +1,0 @@
-## 2. § Az R. 2. §-a helyébe a következő rendelkezés lép:
-
-## „2. § A HKR elemei részt vesznek a katasztrófák károsító hatásai elleni védekezésben, következmények felszámolásában, a nemzetközi katasztrófavédelmi segítségnyújtásban. Feladatuk a honvédelmi ágazatot érintő katasztrófahelyzet, súlyos szerencsétlenség esetén a veszélyeztetett személyi állomány, vagyoni javak megóvása, mentése, a következmények hatásainak csökkentése, ágazaton belüli felszámolása, a Kormány döntése, illetve a Kormányzati Koordinációs Bizottság (a továbbiakban: KKB) vagy annak szervei, illetve a védelmi igazgatási szervek felkérése alapján hozzájárulás a hazai és nemzetközi katasztrófavédelmi feladatok végrehajtásához.”
