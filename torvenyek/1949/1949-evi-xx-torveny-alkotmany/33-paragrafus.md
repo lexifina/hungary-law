@@ -10,7 +10,7 @@ b) a miniszterekből
 
 áll.
 
-(2) A miniszterelnököt az általa kijelölt miniszter helyettesíti.
+(2) A miniszterelnök a miniszterek közül miniszterelnök-helyettest jelöl ki.
 
 (3) A miniszterelnököt a köztársasági elnök javaslatára az Országgyűlés tagjai többségének szavazatával választja. A miniszterelnök megválasztásáról, továbbá a Kormány programjának elfogadásáról az Országgyűlés egyszerre határoz.
 
