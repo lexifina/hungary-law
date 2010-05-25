@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdés i) pontjában meghatározott hatáskörében eljárva, a honvédelemről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 149. § (3) bekezdés a) pontja alapján a következő rendeletet alkotja:
