@@ -1,0 +1,1 @@
+## 1. § Az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló 275/2004. (X. 8.) Korm. rendelet (a továbbiakban: Kr.) 5. melléklete szerinti különleges madárvédelmi területekkel érintett földrészletek helyrajzi számos jegyzékét az 1. melléklet tartalmazza.

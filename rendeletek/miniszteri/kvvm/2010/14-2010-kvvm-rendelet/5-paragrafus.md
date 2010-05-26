@@ -1,0 +1,1 @@
+## 4. § A Kr. 11. melléklete szerinti jóváhagyott különleges természetmegőrzési területekhez tartozó földrészleteket e rendelettel hirdetem ki. A Kr. 2. § f) pontja szerinti különleges természetmegőrzési területekkel érintett földrészletek helyrajzi számos jegyzékét a 4. melléklet tartalmazza.
