@@ -1,0 +1,1 @@
+## 31. § A 10/05/02 Termőföldvédelem támogatása jogcímcsoport jóváhagyott előirányzata a földvédelmi járulék és bírság befizetések kezelésére szolgál. A jogcímcsoportnak eredeti támogatási, kiadási előirányzata nincs, de átfutó bevételként és kiadásként az előirányzaton megjelenik, amely havonta kerül továbbításra a Kincstárhoz.

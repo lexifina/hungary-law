@@ -1,0 +1,1 @@
+## 32. § A 10/05/05 Vadgazdálkodás támogatása jogcímcsoporton jóváhagyott előirányzat felhasználása a vadgazdálkodási adattár működtetésére történik a vadgazdálkodáshoz kapcsolódó tevékenységek csekély összegű (de minimis) támogatásáról szóló 27/2008. (III. 12.) FVM rendelet szerint.

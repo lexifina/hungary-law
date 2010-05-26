@@ -1,0 +1,1 @@
+## 26. § A 10/02/24 Igazgatási szolgáltatási díjak jogcímcsoporton jóváhagyott előirányzat célja a földhivatalok térben és időben eltérő bevételeinek az egyes földhivatalok közötti évközi átcsoportosítása a fizetőképesség biztosítása érdekében.

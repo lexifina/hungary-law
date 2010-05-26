@@ -1,0 +1,3 @@
+14. § (1) A 10/02/10/01 Parlagfű elleni közérdekű védekezés végrehajtásának támogatása jogcímen biztosított előirányzat felhasználásának a célja a közérdekű védekezés és a kapcsolódó célprogramok finanszírozása.
+
+(2) A támogatásból pályázat és egyedi engedélyezés alapján részben a minisztérium intézményei, részben más tárcához tartozó intézmények vagy önkormányzatok, valamint a feladatok végrehajtásában közreműködő egyéb gazdálkodó szervezetek részesülhetnek. A közérdekű védekezések kivitelezésének közvetlen költségeit az MgSzH Központ kapja, amelynek felhasználásáról tárgyév november 15. napjáig elszámol a miniszternek.

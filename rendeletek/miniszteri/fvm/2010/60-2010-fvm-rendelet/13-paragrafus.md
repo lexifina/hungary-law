@@ -1,0 +1,3 @@
+13. § (1) A 10/02/09 Vízügyi feladatok támogatása jogcímcsoport jóváhagyott támogatási előirányzatából a forgalomképes állami tulajdonú vízügyi létesítményekkel kapcsolatos kutatási témák, valamint döntés-előkészítő feladatok kidolgozása, állagmegóvási feladatok, szivattyútelepek üzemelési és karbantartási költségeinek finanszírozása, rendkívüli időjárás miatt szükséges kármegelőzési, védekezési, helyreállítási munkák elvégzése, újonnan alakult vízgazdálkodási társulatok, természetes és jogi személyek támogathatóak.
+
+(2) A döntés és finanszírozás miniszteri rendelet, pályázat, egyedi engedély alapján, vagy megállapodásban rögzítettek szerint történhet.
