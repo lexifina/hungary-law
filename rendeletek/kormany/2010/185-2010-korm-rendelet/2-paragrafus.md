@@ -1,1 +1,0 @@
-## 1. § A Kormány a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 183/2010. (V. 17.) Korm. rendelettel kihirdetett veszélyhelyzetet feloldja, valamint az abban megjelölt területekre elrendelt rendkívüli árvízvédelmi készültséget megszünteti.
