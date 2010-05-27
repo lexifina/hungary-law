@@ -4,4 +4,6 @@
 
 a) az Európai Parlament és a Tanács 1334/2008/EK rendelete (2008. december 16.) az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról,
 
-b) a Bizottság 975/2009/EK rendelete (2009. október 19.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv módosításáról.
+b)[^3]
+
+[^3]: A 6. § (2) bekezdés b) pontját a 65/2010. (V. 12.) FVM rendelet 5. § f) pontja hatályon kívül helyezte.

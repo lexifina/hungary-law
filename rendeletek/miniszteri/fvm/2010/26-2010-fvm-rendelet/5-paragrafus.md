@@ -1,5 +1,3 @@
-## 4. § A Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 2/2005. (I. 11.) FVM rendelet (a továbbiakban: R2.) Mellékletében szereplő 1-2-2002/72 előírás e rendelet 2. melléklete szerint módosul.
-
 5. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt eltéréssel – a kihirdetését követő 8. napon lép hatályba.
 
 (2) Az 1. és 2. § 2010. július 1-jén lép hatályba.
