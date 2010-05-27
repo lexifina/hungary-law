@@ -1,108 +1,110 @@
 ## A) A BSZKI-nál közalkalmazottak által ellátható egyes beosztások,, munkakörök megnevezése, fizetési osztálya,, valamint a vezetői pótlék mértéke
 
-| Munkakör megnevezése | Fizetési osztályok | Vezetői pótlék |
+|  | A | B | C | D | E | F | G | H | I | J | K | L |
 
-| A | B | C | D | E | F | G | H | I | J |
+| 1 | Munkakör megnevezése | Fizetési osztályok | Vezetői pótlék |
 
-| Magasabb vezetői beosztások: |
+| 2 | A | B | C | D | E | F | G | H | I | J |
 
-| Főigazgató |  |  |  |  |  |  |  | * | * | * |  |
+| 3 | 1. Magasabb vezetői beosztások, munkakörök: |
 
-| Főigazgató-helyettes |  |  |  |  |  |  |  | * | * | * | 250% |
+| 4 | 1.1 Főigazgató |  |  |  |  |  |  |  | * | * | * |  |
 
-| Főszerkesztő |  |  |  |  |  | * | * | * | * | * | 250% |
+| 5 | 1.2 Főigazgató-helyettes |  |  |  |  |  |  |  | * | * | * | 250% |
 
-| Főszerkesztő-helyettes |  |  |  |  |  | * | * | * | * | * | 200% |
+| 6 | 1.3 Főszerkesztő |  |  |  |  |  | * | * | * | * | * | 250% |
 
-| Vezetői beosztások: |
+| 7 | 1.4 Főszerkesztő-helyettes |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| Osztályvezető |  |  |  |  |  | * | * | * | * | * | 200% |
+| 8 | 2. Vezetői beosztások: |
 
-| Osztályvezető-helyettes |  |  |  |  |  | * | * | * | * | * | 150% |
+| 9 | 2.1 Osztályvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| Ügyintézői munkakörök: |
+| 10 | 2.2 Osztályvezető-helyettes |  |  |  |  |  | * | * | * | * | * | 150% |
 
-| Pályáztatásra kötelezett |  |  |  |  |  |  |  |  |  |  |  |
+| 11 | 3. Ügyintézői munkakörök: |
 
-| Bér- és társadalombiztosítási ügyintéző |  |  | * | * | * | * | * | * |  |  |  |
+| 12 | 3.1 Pályáztatásra kötelezett |  |  |  |  |  |  |  |  |  |  |  |
 
-| Csoportvezető |  |  |  |  | * | * | * | * | * | * |  |
+| 13 | 3.1.1. Bér- és társadalombiztosítási ügyintéző |  |  | * | * | * | * | * | * |  |  |  |
 
-| Daktiloszkópus előadó |  |  |  | * | * |  |  |  |  |  |  |
+| 14 | 3.1.2 Csoportvezető |  |  |  |  | * | * | * | * | * | * |  |
 
-| Előadó |  | * | * | * |  |  |  |  |  |  |  |
+| 15 | 3.1.3 Daktiloszkópus előadó |  |  |  | * | * |  |  |  |  |  |  |
 
-| Főelőadó |  |  |  |  | * | * | * | * | * |  |  |
+| 16 | 3.1.4 Előadó |  | * | * | * |  |  |  |  |  |  |  |
 
-| Könyvelő |  | * | * | * | * | * |  |  |  |  |  |
+| 17 | 3.1.5 Főelőadó |  |  |  |  | * | * | * | * | * |  |  |
 
-| Olvasószerkesztő |  |  |  |  | * | * | * | * | * |  |  |
+| 18 | 3.1.6 Könyvelő |  | * | * | * | * | * |  |  |  |  |  |
 
-| Pénzügyi ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
+| 19 | 3.1.7 Olvasószerkesztő |  |  |  |  | * | * | * | * | * |  |  |
 
-| Pénztáros |  | * | * | * |  |  |  |  |  |  |  |
+| 20 | 3.1.8 Pénzügyi ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
 
-| Segédhivatal-vezető |  | * | * | * |  |  |  |  |  |  |  |
+| 21 | 3.1.9 Pénztáros |  | * | * | * |  |  |  |  |  |  |  |
 
-| Számfejtő |  |  | * | * | * |  |  |  |  |  |  |
+| 22 | 3.1.10 Segédhivatal-vezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| Számítástechnikai programozó |  |  |  | * | * | * |  |  |  |  |  |
+| 23 | 3.1.11 Számfejtő |  |  | * | * | * |  |  |  |  |  |  |
 
-| Számítógép-hálózat üzemeltető |  |  | * | * |  |  |  |  |  |  |  |
+| 24 | 3.1.12 Számítástechnikai programozó |  |  |  | * | * | * |  |  |  |  |  |
 
-| Számviteli ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
+| 25 | 3.1.13 Számítógép-hálózat üzemeltető |  |  | * | * |  |  |  |  |  |  |  |
 
-| Személyzeti-munkaügyi főelőadó |  |  |  |  | * | * | * | * | * |  |  |
+| 26 | 3.1.14 Számviteli ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
 
-| Szerkesztő |  |  |  |  | * | * | * | * | * |  |  |
+| 27 | 3.1.15 Személyzeti-munkaügyi főelőadó |  |  |  |  | * | * | * | * | * |  |  |
 
-| Szoftverfejlesztő, informatikus |  |  |  |  |  | * | * | * | * |  |  |
+| 28 | 3.1.16 Szerkesztő |  |  |  |  | * | * | * | * | * |  |  |
 
-| Tördelő és képszerkesztő |  |  |  |  |  |  |  | * | * |  |  |
+| 29 | 3.1.17 Szoftverfejlesztő, informatikus |  |  |  |  |  | * | * | * | * |  |  |
 
-| Tördelő szerkesztő |  |  |  |  |  | * | * | * | * |  |  |
+| 30 | 3.1.18 Tördelő és képszerkesztő |  |  |  |  |  |  |  | * | * |  |  |
 
-| Pályáztatásra nem kötelezett |
+| 31 | 3.1.19 Tördelő szerkesztő |  |  |  |  |  | * | * | * | * |  |  |
 
-| Szakértő |  |  |  |  | * | * | * | * | * | * |  |
+| 32 | 3.2 Pályáztatásra nem kötelezett |
 
-| Ügyviteli munkakörök: |
+| 33 | 3.2.1 Szakértő |  |  |  |  | * | * | * | * | * | * |  |
 
-| Adatrögzítő | * | * | * |  |  |  |  |  |  |  |  |
+| 34 | 4. Ügyviteli munkakörök: |
 
-| Gyors- és gépíró |  | * | * | * |  |  |  |  |  |  |  |
+| 35 | 4.1 Adatrögzítő | * | * | * |  |  |  |  |  |  |  |  |
 
-| Operátor |  | * | * | * |  |  |  |  |  |  |  |
+| 36 | 4.2 Gyors- és gépíró |  | * | * | * |  |  |  |  |  |  |  |
 
-| Titkárnő |  | * | * | * |  |  |  |  |  |  |  |
+| 37 | 4.3 Operátor |  | * | * | * |  |  |  |  |  |  |  |
 
-| Több munkafolyamatot ellátó ügyviteli alkalmazott |  | * | * | * |  |  |  |  |  |  |  |
+| 38 | 4.4 Titkárnő |  | * | * | * |  |  |  |  |  |  |  |
 
-| Ügykezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 39 | 4.5 Több munkafolyamatot ellátó ügyviteli alkalmazott |  | * | * | * |  |  |  |  |  |  |  |
 
-| Fizikai munkakörök: |
+| 40 | 4.6 Ügykezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| Asszisztens |  |  |  | * | * | * |  |  |  |  |  |
+| 41 | 5. Fizikai munkakörök: |
 
-| Szakasszisztens |  |  |  | * | * | * |  |  |  |  |  |
+| 42 | 5.1 Asszisztens |  |  |  | * | * | * |  |  |  |  |  |
 
-| Erőműkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 43 | 5.2 Szakasszisztens |  |  |  | * | * | * |  |  |  |  |  |
 
-| Fényképész | * | * | * | * |  |  |  |  |  |  |  |
+| 44 | 5.3 Erőműkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| Gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
+| 45 | 5.4 Fényképész | * | * | * | * |  |  |  |  |  |  |  |
 
-| Gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 46 | 5.5 Gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| Kazánfűtő |  | * | * | * |  |  |  |  |  |  |  |
+| 47 | 5.6 Gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| Kiemelt főelőadó |  |  |  |  | * | * | * | * | * |  |  |
+| 48 | 5.7 Kazánfűtő |  | * | * | * |  |  |  |  |  |  |  |
 
-| Takarító | * |  |  |  |  |  |  |  |  |  |  |
+| 49 | 5.8 Kiemelt főelőadó |  |  |  |  | * | * | * | * | * |  |  |
 
-| Technikus |  |  |  | * | * | * |  |  |  |  |  |
+| 50 | 5.9 Takarító | * |  |  |  |  |  |  |  |  |  |  |
 
-| Vezetőtechnikus |  |  |  | * | * | * |  |  |  |  |  |
+| 51 | 5.10 Technikus |  |  |  | * | * | * |  |  |  |  |  |
+
+| 52 | 5.11 Vezetőtechnikus |  |  |  | * | * | * |  |  |  |  |  |
 
 ## B) A BSZKI-nál közalkalmazottak által ellátható egyes beosztások, munkakörök képesítési követelménye
 
@@ -198,18 +200,32 @@
 
 ## 5. Ha e rendelet nem tartalmazza a munkáltató által alkalmazni kívánt munkakörre vonatkozóan a megfelelő munkaköri megnevezést, akkor a munkakör ellátására alkalmazni kívánt közalkalmazottat a hasonló munkaköri feladatokat igénylő, a rendeletben szereplő munkakörbe kell besorolni.
 
-4. melléklet a 10/2009. (IV. 17.) IRM rendelethez
+4. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^18]
 
-A rendőrség területi szerveinél, valamint az RSZVSZ-nél foglalkoztatott közalkalmazottak feletti munkáltatói jogkör gyakorlók:
+1. A rendőrség szerveinél, az RSZVSZ-nél, valamint az NOPVK-nál foglalkoztatott közalkalmazottak feletti munkáltatói jogkör gyakorlók:
 
-1. Nemzeti Nyomozó Iroda igazgatója
+1.1. Országos rendőrfőkapitány
 
-2. Készenléti Rendőrség parancsnoka
+1.2. ORFK Bűnügyi Főigazgatóság főigazgatója
 
-3. Repülőtéri Rendőr Igazgatóság igazgatója
+1.3. ORFK Rendészeti Főigazgatóság főigazgatója
 
-4. Köztársasági Őrezred parancsnoka
+1.4. ORFK Gazdasági Főigazgatóság főigazgatója
 
-5. Budapesti és megyei rendőrfőkapitány
+1.5. Nemzeti Nyomozó Iroda igazgatója
 
-6. Rendvédelmi Szervek Védelmi Szolgálata vezetője.
+1.6. Készenléti Rendőrség parancsnoka
+
+1.7. Repülőtéri Rendőr Igazgatóság igazgatója
+
+1.8. Köztársasági Őrezred parancsnoka
+
+1.9. ORFK Oktatási Igazgatóság igazgatója
+
+1.10. Budapesti és megyei rendőrfőkapitány
+
+1.11. Rendvédelmi Szervek Védelmi Szolgálata vezetője
+
+1.12. Nemzetközi Oktatási és Polgári Válságkezelési Központ főigazgatója
+
+[^18]: A 4. melléklet a 30/2010. (V. 12.) IRM rendelet 3. § (4) bekezdésével megállapított szöveg.

@@ -4,110 +4,114 @@
 
 ## A) Általános munkaköri megnevezések
 
-| Munkakör megnevezése | Fizetési osztály | Vezetői pótlék %-a | További büntetés- végrehajtási képesítési követelmény |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
-| A | B | C | D | E | F | G | H | I | J | alap- fokú | közép- fokú | felső- fokú |
+| 1 | Munkakör megnevezése | Fizetési osztály | Veze- tői pótlék %-a | További büntetésvégrehajtási képesítési követelmény |
 
-| Vezető beosztások: |
+| 2 | A | B | C | D | E | F | G | H | I | J | alap- fokú | közép- fokú | felső- fokú |
 
-| Pályáztatásra kötelezett |
+| 3 | 1. Vezetői munkakörök: |
 
-| Osztályvezető* |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 4 | 1.1 Pályáztatásra kötelezett |
 
-| Főosztályvezető-helyttes |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 5 | 1.1.1 Osztályvezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Beosztotti munkakörök: |
+| 6 | 1.1.2 Főosztályvezető-helyettes |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Pályáztatásra kötelezett |
+| 7 | 2. Beosztotti munkakörök: |
 
-| Csoportvezető* |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
+| 8 | 2.1 Pályáztatásra kötelezett |
 
-| Pályáztatásra nem kötelezett |
+| 9 | 2.1.1 Csoportvezető* |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
 
-| Belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 10 | 2.1.2 Könyvelő |  | * | * | * | * | * |  |  |  |  |  |  |  |  |
 
-| Beszerző |  | * | * |  |  |  |  |  |  |  |  |  |  |  |
+| 11 | 2.2 Pályáztatásra nem kötelezett |
 
-| Büfés |  | * |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12 | 2.2.1 Belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Energetikai vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 13 | 2.2.2 Beszerző |  | * | * |  |  |  |  |  |  |  |  |  |  |  |
 
-| Ellenőr |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
+| 14 | 2.2.3 Büfés |  | * |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Előadó |  |  | * | * |  |  |  |  |  |  |  |  | * |  |
+| 15 | 2.2.4 Energetikai vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Előadó (gyors- és gépíró) |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
+| 16 | 2.2.5 Ellenőr |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
 
-| Felszolgáló |  | * | * | * |  |  |  |  |  |  |  |  |  |  |
+| 17 | 2.2.6 Előadó |  |  | * | * |  |  |  |  |  |  |  |  | * |  |
 
-| Fotóriporter |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
+| 18 | 2.2.7 Előadó (gyors- és gépíró) |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
 
-| Főelőadó |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 19 | 2.2.8 Felszolgáló |  | * | * | * |  |  |  |  |  |  |  |  |  |  |
 
-| Főkönyvelő |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 20 | 2.2.9 Fotóriporter |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
 
-| Főreferens |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 21 | 2.2.10 Főelőadó |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Referens |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 22 | 2.2.11 Főkönyvelő |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Főszakács |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
+| 23 | 2.2.12 Főreferens |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Főtanár |  |  |  |  |  | * | * | * | * | * |  |  |  | * |
+| 24 | 2.2.13 Referens |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Garázsmester |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
+| 25 | 2.2.14 Főszakács |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
 
-| Gondnok |  | * | * | * |  |  |  |  |  |  |  |  |  |  |
+| 26 | 2.2.15 Főtanár |  |  |  |  |  | * | * | * | * | * |  |  |  | * |
 
-| Gépjárműműhely-vezető |  |  | * | * | * |  |  |  |  |  |  | * |  |  |
+| 27 | 2.2.16 Garázsmester |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
 
-| Gépjárműszerelő |  | * | * | * | * |  |  |  |  |  |  | * |  |  |
+| 28 | 2.2.17 Gondnok |  | * | * | * |  |  |  |  |  |  |  |  |  |  |
 
-| Jogtanácsos |  |  |  |  |  |  |  |  | * | * |  |  |  | * |
+| 29 | 2.2.18 Gépjárműműhely-vezető |  |  | * | * | * |  |  |  |  |  |  | * |  |  |
 
-| Kazánházvezető |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
+| 30 | 2.2.19 Gépjárműszerelő |  | * | * | * | * |  |  |  |  |  |  | * |  |  |
 
-| Kazánkezelő |  | * |  |  |  |  |  |  |  |  |  | * |  |  |
+| 31 | 2.2.20 Jogtanácsos |  |  |  |  |  |  |  |  | * | * |  |  |  | * |
 
-| Konyhalány | * |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 32 | 2.2.21 Kazánházvezető |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
 
-| Környezetvédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 33 | 2.2.22 Kazánkezelő |  | * |  |  |  |  |  |  |  |  |  | * |  |  |
 
-| Lelkész |  |  |  |  |  | * | * | * | * | * |  |  |  | * |
+| 34 | 2.2.23 Konyhalány | * |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Munkavédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 35 | 2.2.24 Környezetvédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Műszerész |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
+| 36 | 2.2.25 Lelkész |  |  |  |  |  | * | * | * | * | * |  |  |  | * |
 
-| Oktatásszervező |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 37 | 2.2.26 Munkavédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Osztályvezető-helyettes* |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 38 | 2.2.27 Műszerész |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
 
-| Szakmunkás |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
+| 39 | 2.2.28 Oktatásszervező |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Szakács |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
+| 40 | 2.2.29 Osztályvezető-helyettes |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Szerkesztő, olvasószerkesztő |  |  |  |  |  | * | * |  |  |  |  |  |  | * |
+| 41 | 2.2.30 Szakmunkás |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
 
-| Takarító | * |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 42 | 2.2.31 Szakács |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
 
-| Tanár |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
+| 43 | 2.2.32 Szerkesztő, olvasószerkesztő |  |  |  |  |  | * | * |  |  |  |  |  |  | * |
 
-| Tanfolyamszervező |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
+| 44 | 2.2.33 Takarító | * |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Technikus |  |  | * | * | * |  |  |  |  |  |  | * |  |  |
+| 45 | 2.2.34 Tanár |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
 
-| Telefonközpont-kezelő | * | * | * |  |  |  |  |  |  |  |  |  |  |  |
+| 46 | 2.2.35 Tanfolyamszervező |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
 
-| Tűzvédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
+| 47 | 2.2.36 Technikus |  |  | * | * | * |  |  |  |  |  |  | * |  |  |
 
-| Újságíró |  |  |  |  | * | * | * |  |  |  |  |  |  | * |
+| 48 | 2.2.37 Telefonközpont-kezelő | * | * | * |  |  |  |  |  |  |  |  |  |  |  |
 
-| Ügykezelő |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
+| 49 | 2.2.38 Tűzvédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
 
-| Vezető technikus |  |  |  | * | * |  |  |  |  |  |  | * |  |  |
+| 50 | 2.2.39 Újságíró |  |  |  |  | * | * | * |  |  |  |  |  |  | * |
+
+| 51 | 2.2.40 Ügykezelő |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
+
+| 52 | 2.2.41 Vezető technikus |  |  |  | * | * |  |  |  |  |  |  | * |  |  |
 
 ## * Azon munkakörök, melyek nem tartoznak a 19/2008. (IX. 18.) IRM rendeletben meghatározott szolgálati tevékenységek közé.
 
-3. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^13]
+3. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^17]
 
-[^13]: A 3. melléklet a 85/2009. (XII. 30.) IRM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 3. melléklet a 85/2009. (XII. 30.) IRM rendelet 7. § (2) bekezdése, a 30/2010. (V. 12.) IRM rendelet 3. § (3) bekezdése szerint módosított szöveg.
