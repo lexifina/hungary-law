@@ -730,7 +730,11 @@
 
 ## 4. A szakmai vizsgarészek alóli felmentés feltételei: –
 
-## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+
+## 1. Az 1. vizsgarész akkor tekinthető eredményesnek, ha a vizsgázó a vizsgarész hozzárendelt 1. számú írásbeli vizsgafeladatát 60%-ot meghaladó eredménnyel teljesítette, valamint a szakmai dolgozatot a szóbeli vizsgatevékenység időpontját megelőző nyolcadik munkanapig benyújtotta és 60%-ot meghaladó eredménnyel teljesítette, és az 1. vizsgarészt 50%-ot meghaladó eredménnyel teljesítette.
+
+## 2. A 2. vizsgarész akkor tekinthető eredményesnek, ha a vizsgázó a vizsgarész hozzárendelt 1. számú írásbeli vizsgafeladatát 60%-ot meghaladó eredménnyel teljesítette, valamint a szakmai dolgozatot a szóbeli vizsgatevékenység időpontját megelőző nyolcadik munkanapig benyújtotta és 60%-ot meghaladó eredménnyel teljesítette, és a 2. vizsgarészt 50%-ot meghaladó eredménnyel teljesítette.
 
 ## VI.
 
@@ -750,6 +754,6 @@
 
 | Telekommunikációs eszközök | X | X |
 
-5. melléklet a 25/2007. (IV. 29.) ÖTM rendelethez[^6]
+5. melléklet a 25/2007. (IV. 29.) ÖTM rendelethez[^8]
 
-[^6]: Az 5. mellékletet a 3/2009. (I. 27.) NFGM rendelet 2. § (5) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2009. február 1. napján folyamatban lévő képzéseket a megkezdésükkor hatályos jogszabályokban foglalt szakmai és vizsgakövetelmények alapján kell befejezni. Javító-, pótlóvizsgák letételére a képzéskor hatályos jogszabályi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. augusztus 31-ig van lehetőség.
+[^8]: Az 5. mellékletet a 3/2009. (I. 27.) NFGM rendelet 2. § (5) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2009. február 1. napján folyamatban lévő képzéseket a megkezdésükkor hatályos jogszabályokban foglalt szakmai és vizsgakövetelmények alapján kell befejezni. Javító-, pótlóvizsgák letételére a képzéskor hatályos jogszabályi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. augusztus 31-ig van lehetőség.

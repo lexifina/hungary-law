@@ -788,7 +788,7 @@
 
 ## 1. A szakmai vizsgára bocsátás feltételei:
 
-## Modulzáró vizsga eredményes letétele.
+## Modulzáró vizsga eredményes letétele: –
 
 ## Szakmai dolgozat:
 
@@ -870,7 +870,11 @@
 
 ## 4. A szakmai vizsgarészek alóli felmentés feltételei: –
 
-## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+
+## 1. Az 1. vizsgarész akkor tekinthető eredményesnek, ha a vizsgázó a vizsgarész hozzárendelt 1. számú írásbeli vizsgafeladatát 60%-ot meghaladó eredménnyel teljesítette, valamint a szakmai dolgozatot a szóbeli vizsgatevékenység időpontját megelőző nyolcadik munkanapig benyújtotta és 60%-ot meghaladó eredménnyel teljesítette, és az 1. vizsgarészt 50%-ot meghaladó eredménnyel teljesítette.
+
+## 2. A 2. vizsgarész akkor tekinthető eredményesnek, ha a vizsgázó a vizsgarész hozzárendelt 1. számú írásbeli vizsgafeladatát 60%-ot meghaladó eredménnyel teljesítette, valamint a szakmai dolgozatot a szóbeli vizsgatevékenység időpontját megelőző nyolcadik munkanapig benyújtotta és 60%-ot meghaladó eredménnyel teljesítette, és a 2. vizsgarészt 50%-ot meghaladó eredménnyel teljesítette.
 
 ## VI.
 
@@ -890,7 +894,7 @@
 
 | Telekommunikációs eszközök | X | X |
 
-10. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez[^8]
+10. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez[^11]
 
 TEMETKEZÉSI SZOLGÁLTATÓ
 
@@ -1690,38 +1694,4 @@ A temetőkre és temetkezésre vonatkozó jogi ismeretek
 
 A hozzárendelt jellemző vizsgatevékenység: írásbeli
 
-Időtartama: 30 perc
-
-A hozzárendelt 2. vizsgafeladat:
-
-A temetkezési szolgáltatás szakmai ismereteinek alkalmazása, valamint a szakmai dolgozat megvédése
-
-A hozzárendelt jellemző vizsgatevékenység: szóbeli
-
-Időtartama: 20 perc (felkészülési idő 10 perc, válaszadási idő 10 perc)
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat: 50%
-
-2. feladat: 50%
-
-2. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0781-06
-
-Temetkezési asszisztensi feladatok
-
-A hozzárendelt 1. vizsgafeladat:
-
-A kegyeleti kommunikáció alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység: szóbeli
-
-Időtartama: 20 perc (felkészülési idő 10 perc, válaszadási idő 10 perc)
-
-A hozzárendelt 2. vizsgafeladat:
-
-[^8]: A 10. melléklet a 20/2009. (VI. 25.) ÖM rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 10. melléklet a 20/2009. (VI. 25.) ÖM rendelet 2. §-a szerint módosított szöveg.
