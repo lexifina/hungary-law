@@ -1,8 +1,8 @@
-## 25. § A forgalmazásra jogosult tájékoztatási kötelezettsége kiterjed a növényvédő szerek vásárlására, telephelyre, illetve telepen belüli szállítására, tárolására, értékesítésére, nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására, és a felhasználásra.
+## 25. §[^15] A forgalmazásra jogosult felelőssége kiterjed a növényvédő szerek vásárlására, a telephelyre, illetve a telepen belüli szállítására, tárolására, értékesítésére és nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására és a felhasználásra.
 
 ## Árusítás, szállítás, tárolás, raktározás
 
-26. § (1) Tilos növényvédő szereket élelmiszerekkel és takarmányozás célját szolgáló anyagokkal egy légtérben árusítani, tárolni és szállítani.
+26. § (1)[^16] Növényvédő szereket élelmiszerekkel és takarmányozás célját szolgáló anyagokkal egy légtérben tilos árusítani, tárolni, valamint – a szállító, az árusító, és a vevő által – szállítani.
 
 (2) Növényvédő szer kizárólag eredeti csomagolásban forgalmazható. Növényvédő szer kiméréssel nem árusítható. A kiskereskedő köteles biztosítani a vásárolt áru további védőcsomagolását.
 
@@ -10,4 +10,8 @@
 
 (4) Az árusító helyen, az árusítás ideje alatt a növényvédő szer felhasználás előírásairól, a kötelező tájékoztatáson túl, a vevőt igény szerint tájékoztatni kell.
 
-(5) A növényvédő szereket más áruféleségekkel együtt az árusító hely egész területén – az árusító és a vevő által egyaránt – tilos szállítani, melyről a vevőt tájékoztatni kell.
+(5)[^17]
+
+[^15]: A 25. § a 66/2010. (V. 12.) FVM rendelet 13. § (11) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^16]: A 26. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (12) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^17]: A 26. § (5) bekezdését a 66/2010. (V. 12.) FVM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.

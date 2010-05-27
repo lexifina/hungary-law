@@ -1,5 +1,3 @@
-## 30. § Az értékesítési célra szánt növény, növényi termék előállítása, raktározása és feldolgozása során végzett növényvédő szeres kezelésekről a 2. melléklet szerinti, vagy azzal megegyező adattartalmú nyilvántartást (permetezési, külön jogszabály szerinti gazdálkodási napló) folyamatosan kell vezetni, amelyet az utolsó bejegyzést követő 3 évig meg kell őrizni.
-
 ## Jelentési, tájékoztatási kötelezettség
 
 31. § (1) Növényvédő szer elvesztésének, tévesen történő felhasználásának, eltulajdonításának, élelmiszerbe és takarmányba keveredésének, ivóvízbe (kútba, forrásba, víztározóba), állóvízbe vagy vízfolyásba, illetve kezelésre nem szánt területre jutásának észlelése esetén az MgSzH területi szervét haladéktalanul értesíteni kell.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-43-20-8
 | 2010-05-08 | 2010-43-20-82.1 | 43/2010. (IV. 23.) FVM rendelet |
 | 2010-05-09 | 2010-43-20-82.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-05-10 | 2010-43-20-82.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-05-27 | 2010-43-20-82.4 | 66/2010. (V. 12.) FVM rendelet |

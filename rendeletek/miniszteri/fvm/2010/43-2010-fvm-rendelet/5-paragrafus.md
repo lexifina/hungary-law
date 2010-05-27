@@ -12,6 +12,8 @@
 
 (5) A III. forgalmi kategóriába sorolt növényvédő szer vásárlása és saját célú felhasználása szakképesítéshez, engedélyhez nem kötött.
 
-(6) Növényvédő szer forgalmazónak minősül valamennyi növényvédő szerrel kereskedelmi tevékenységet folytató növényvédőszer-gyártó, -formáló, -kiszerelő, a külföldi gyártók hazai képviselete, valamint a kereskedelmi szolgáltatási tevékenységet folytató (növényvédőszer-raktározást végző vállalkozó stb.), illetve telepengedély alapján tevékenységet folytató raktár.
+(6)[^2] Növényvédő szer forgalmazónak minősül valamennyi, növényvédő szerrel kereskedelmi, illetve kereskedelmi szolgáltatási tevékenységet folytató növényvédőszer-gyártó, -formáló, -kiszerelő és -raktározó, valamint kis- és nagykereskedő.
 
 (7) E rendelet alkalmazásában növényvédő szer forgalomba hozatala a növényvédő szer készleten tartása eladás céljára, beleértve a növényvédő szer eladásra való felkínálását, vagy ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint a növényvédő szerek eladását, forgalmazását vagy átadásának egyéb módját.
+
+[^2]: Az 5. § (6) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
