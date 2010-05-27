@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-56-20-8
 | 2010-02-13 | 2004-56-20-82.19 | 123/2004. (VII. 29.) FVM rendelet |
 | 2010-03-27 | 2004-56-20-82.20 | 123/2004. (VII. 29.) FVM rendelet |
 | 2010-04-28 | 2004-56-20-82.21 | 57/2006. (VIII. 4.) FVM rendelet |
+| 2010-05-27 | 2004-56-20-82.22 | 2/2005. (I. 11.) FVM rendelet |

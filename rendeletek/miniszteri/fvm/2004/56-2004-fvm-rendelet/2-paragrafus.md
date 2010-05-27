@@ -16,19 +16,19 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 5. |  |  |  |  |
 
-| 6. | 1–2–78/142 | Az élelmiszerekkel rendeltetés-szerűen érintkezésbe kerülő vinil-klorid monomert tartalmazó anyagokkal és tárgyakkal szemben támasztott minőségi követelmények | A Tanács 78/142/EGK irányelve | 2004. május 1. |
+| 6. |  |  |  |  |
 
 | 7. |  |  |  |  |
 
-| 8. | 1–2–80/766 | Az élelmiszerekkel rendeltetés-szerűen érintkezésbe kerülő anyagok és tárgyak vinil-klorid monomer tartalmának meghatározása | A Tanács 80/766/EGK irányelve | 2004. május 1. |
+| 8. |  |  |  |  |
 
-| 9. | 1–2–81/432 | Az élelmiszerekkel rendeltetés-szerűen érintkezésbe kerülő anyagokból és tárgyakból az élelmiszerekbe kioldódó vinil-klorid mennyiségének meghatározása | A Bizottság 81/432/EGK irányelve | 2004. május 1. |
+| 9. |  |  |  |  |
 
 | 10. |  |  |  |  |
 
-| 11. | 1–2–82/711 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag tárgyak komponenseinek kioldódási vizsgálatai | A Tanács 82/711/EGK és 85/572/EGK irányelvei, valamint az ezt módosító, a Bizottság 93/8/EGK és 97/48/EK irányelvei | 2004. május 1. |
+| 11. |  |  |  |  |
 
-| 12. | 1–2–84/500 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő kerámiatárgyak (2. kiadás)4 | A Tanács 84/500/EGK irányelve, valamint az ezt módosító, a Bizottság 2005/31/EK irányelve | 2006. május 20. |
+| 12. |  |  |  |  |
 
 | 13. |  |  |  |  |
 
@@ -38,7 +38,7 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 16. |  |  |  |  |
 
-| 17. | 1–2–93/10 | Az élelmiszerrel érintkezésbe kerülő regenerált cellulózfilmek (2. kiadás) 5 | A Bizottság 93/10/EGK irányelve, valamint az ezt módosító, a Bizottság 93/111/EGK és 2004/14/EK irányelvei, valamint az azokat felváltó 2007/42/EK irányelv | 2005. július 1. |
+| 17. |  |  |  |  |
 
 | 18. |  |  |  |  |
 
@@ -54,7 +54,7 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 24. |  |  |  |  |
 
-| 25. | 1–2–1999/2 | Az élelmiszerek ionizáló energiával való kezelési szabályai (2. kiadás)6 | Az Európai Parlament és a Tanács 1999/2/EK és 1999/3/EK irányelvei | 2007. január 1. |
+| 25. | 1–2–1999/2 | Az élelmiszerek ionizáló energiával való kezelési szabályai (2. kiadás)4 | Az Európai Parlament és a Tanács 1999/2/EK és 1999/3/EK irányelvei | 2007. január 1. |
 
 | 26. |  |  |  |  |
 
@@ -66,7 +66,7 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 30. |  |  |  |  |
 
-| 31. | 1–2–2002/72 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményei (2. kiadás)7 | A Bizottság 2002/72/EK irányelve, valamint az ezt módosító, a Bizottság 2004/1/EK és 2004/19/EK irányelvei | 2005. január 15. |
+| 31. |  |  |  |  |
 
 | 32. |  |  |  |  |
 
@@ -100,15 +100,15 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 47. | 3–1–79/796 | A cukortermékek vizsgálati módszerei | A Bizottság 79/796/EGK irányelve | 2004. május 1. |
 
-| 48. | 3–1–79/1067 | Sűrített tej és tejporfélék vizsgálata (2. kiadás)8 | A Bizottság 79/1067/EGK irányelve | 2007. július 1. |
+| 48. | 3–1–79/1067 | Sűrített tej és tejporfélék vizsgálata (2. kiadás)5 | A Bizottság 79/1067/EGK irányelve | 2007. július 1. |
 
-| 49. | 3–1–80/891 | Étolaj, étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszere (2. kiadás)9 | A Bizottság 80/891/EGK irányelve | 2007. január 1. |
+| 49. | 3–1–80/891 | Étolaj, étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszere (2. kiadás)6 | A Bizottság 80/891/EGK irányelve | 2007. január 1. |
 
-| 50. | 3–1–85/503 | Étkezési kazeinek és kazeinátok vizsgálati módszerei (2. kiadás)10 | A Bizottság 85/503/EGK irányelve | 2007. július 1. |
+| 50. | 3–1–85/503 | Étkezési kazeinek és kazeinátok vizsgálati módszerei (2. kiadás)7 | A Bizottság 85/503/EGK irányelve | 2007. július 1. |
 
-| 51. | 3–1–86/424 | Az étkezési kazeinek és kazeinátok mintavételi módszerei (2. kiadás)11 | A Bizottság 86/424/EGK irányelve | 2007. július 1. |
+| 51. | 3–1–86/424 | Az étkezési kazeinek és kazeinátok mintavételi módszerei (2. kiadás)8 | A Bizottság 86/424/EGK irányelve | 2007. július 1. |
 
-| 52. | 3–1–87/524 | Sűrített tej és tejporfélék mintavételi módszerei (2. kiadás)12 | A Bizottság 87/524/EGK | 2007. július 1. |
+| 52. | 3–1–87/524 | Sűrített tej és tejporfélék mintavételi módszerei (2. kiadás)9 | A Bizottság 87/524/EGK | 2007. július 1. |
 
 | 53. | 3–1–91/180 | A nyers- és a hőkezelt tej vizsgálati módszerei | A Bizottság 91/180/EGK határozata | 2004. május 1. |
 
@@ -132,593 +132,41 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 63. |  |  |  |  |
 
-| 64. | 1–2–2005/79 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményeiről szóló 1–2–2002/72 előírás módosításáról13 | A Bizottság 2005/79/EK irányelve | 2006. december 1. |
+| 64. |  |  |  |  |
 
 | 65. |  |  |  |  |
 
 | 66. |  |  |  |  |
 
-| 67. | 1–3–2006/128 | Az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról szóló 95/31/EK irányelv módosításáról és helyesbítéséről14 | A Bizottság 2006/128/EK irányelve | 2008. február 15. |
+| 67. |  |  |  |  |
 
 | 68. |  |  |  |  |
 
-| 69. | 1-2-2007/19 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagok és műanyag tárgyak komponensei kioldódásának vizsgálatához alkalmazandó élelmiszer-utánzó modellanyagok listájának megállapításáról szóló 85/572/EGK tanácsi irányelv módosításáról15 | A Bizottság 2007/19/EK irányelve | 2008. április 1. |
+| 69. |  |  |  |  |
 
 | 70. |  |  |  |  |
 
-| 71. | 1-2-2008/39 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv módosításáról16 | A Bizottság 2008/39/EK irányelve | 2009. március 1. |
+| 71. |  |  |  |  |
 
 3 A 152/2009. (XI. 12.) FVM rendelet 2. § (3) bekezdése alapján a melléklet 2. sora szerinti, a Magyar Élelmiszerkönyv 1-1-90/496 számú előírása 2. kiadásának megfelelő, de a 152/2009. (XI. 12.) FVM rendelet 1. melléklete szerinti új előírásainak nem megfelelő termékek 2012. október 31-ig forgalmazhatóak.
 
-4 Az előírást a 72/2005. (VIII. 15.) FVM rendelet melléklete tartalmazza.
+4 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
 
-5 Az előírást a 2/2005. (I. 11.) FVM rendelet melléklete tartalmazza. Az előírás 2. kiadását a 6/2008. (I. 17.) FVM rendelet 2. §-a módosította.
+5 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
 6 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
 
-7 Az előírást a 2/2005. (I. 11.) FVM rendelet melléklete tartalmazza.
+7 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
 8 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
-9 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
-
-10 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-11 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-12 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
-
-13 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
-
-14 Az előírást az 57/2007. (VII. 6.) FVM rendelet melléklete tartalmazza.
-
-15 Az előírást a 6/2008. (I. 17.) FVM rendelet melléklete tartalmazza.
-
-16 Az előírást a 117/2008. (IX. 5.) FVM rendelet melléklete tartalmazza.
+9 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 1. sorszámú előírása[^3]
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 12. sorszámú előírása[^4]
 
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-Hivatalos Élelmiszervizsgálati Módszergyűjtemény
-
-1–2–84/500 számú előírás
-
-(2. kiadás)
-
-Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő kerámiatárgyak
-
-1. §
-
-(1) Ez az előírás olyan kerámiatárgyak esetleges ólom és kadmium kioldhatóságára vonatkozik, amelyek kész állapotukban élelmiszerekkel rendeltetésszerűen érintkezésbe kerülnek, vagy amelyek élelmiszerekkel érintkeznek és e célra készültek.
-
-(2) Ezen előírás értelmében a kerámiatárgyak általában nagy agyag- vagy szilikáttartalmú szervetlen anyagok keverékéből, esetleg kis mennyiségű szerves anyag hozzáadásával előállított tárgyak. A keveréket az előállítás során formázzák, majd kiégetik. E tárgyak lehetnek mázasak, zománcozottak, illetve festettek.
-
-2. §
-
-(1) A kerámiatárgyakból kioldódó ólom és kadmium mennyisége nem haladhatja meg az e §-ban megállapított határértékeket.
-
-(2) A kerámiatárgyak ólom és kadmium kioldódását az 1. számú mellékletben meghatározott általános feltételek betartásával a 2. számú mellékletben leírt vizsgálati módszerrel kell meghatározni.
-
-(3) Ha a kerámiatárgy egy kerámiafedéllel ellátott edény, az ólomra, illetve kadmiumra vonatkozó maximális határérték (mg/dm2 vagy mg/liter) az edényre vonatkozó határértéknek felel meg. Az edényt és a fedél belső felületét azonos körülmények között, külön-külön kell megvizsgálni. Az így kapott két ólom-, illetve kadmium-kioldódási értéket csak az edény felületéhez vagy térfogatához kell megfelelően viszonyítani.
-
-(4) Egy kerámiatárgy akkor felel meg ezen előírás követelményeinek, ha az 1. és 2. számú mellékletben megállapított feltételek mellett elvégzett vizsgálatok során a belőle kivont ólom, illetve kadmium mennyisége nem haladja meg az alábbi határértékeket:
-
-| Edény kategória | Pb | Cd |
-
-| – 1. kategória: Lapos edény | 0,8 mg/dm2 | 0,07 mg/dm2 |
-
-| Nem megtölthető tárgyak, valamint olyan megtölthető tárgyak, amelyek belső mélysége a legalsó ponttól a felső perem vízszintes síkjáig legfeljebb 25 mm |  |  |
-
-| – 2. kategória: Öblös edény | 4,0 mg/l | 0,3 mg/l |
-
-| Az összes egyéb megtölthető tárgy |  |  |
-
-| – 3. kategória: Főzőedények | 1,5 mg/l | 0,1 mg/l |
-
-| Három liternél nagyobb térfogatú csomagoló- és tárolóedények |  |  |
-
-(5) Amennyiben egy kerámiatárgy a fenti mennyiségeket legfeljebb 50%-kal haladja meg, akkor úgy kell tekinteni, hogy a tétel megfelel ezen előírás követelményeinek, ha legalább három másik ugyanolyan alakú, méretű, díszítésű és ugyanolyan mázzal bevont – az 1. és a 2. számú mellékletben megállapított feltételek mellett megvizsgált – tárgyból kioldódott ólom, illetve kadmium átlagos mennyisége nem haladja meg a meghatározott határértékeket, és eközben egyik edény esetében sem lépi túl e határértékeket 50%-nál nagyobb mértékben.
-
-3. §
-
-(1) Az élelmiszerekkel érintkezésbe még nem került kerámiatárgyakat forgalomba hozataluk különböző szakaszaiban – a kiskereskedelmet beleértve és azzal bezárólag – az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről szóló, 2004. október 27-i 1935/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1935/2004/EK rendelet) 16. cikkének megfelelően írásbeli nyilatkozattal kell ellátni. Ezt a nyilatkozatot a kerámiatárgy gyártójának vagy az Európai Unióban székhellyel rendelkező eladónak kell kiállítania, és tartalmaznia kell az ezen előírás 3. számú mellékletében meghatározott adatokat.
-
-(2) A gyártónak vagy az Európai Unióba importálónak az ellenőrző hatóságok kérésére rendelkezésre kell bocsátania a megfelelő dokumentációt annak igazolására, hogy a kerámiatárgyak megfelelnek az ólom és kadmium kioldódás 2. §-ban meghatározott határértékének. A dokumentációnak tartalmaznia kell az elvégzett vizsgálat eredményeit, a vizsgálat körülményeit, valamint a vizsgálatot elvégző laboratórium nevét és címét.
-
-4. §
-
-(1) Ez az előírás 2006. május 20-án lép hatályba, ezzel egyidejűleg az 1–2–84/500 számú előírás 1. kiadása hatályát veszti.
-
-(2) Az 1–2–84/500 számú előírás 1. kiadásának megfelelő, de ezen előírás rendelkezéseinek meg nem felelő kerámiatárgyak 2007. május 19-ig gyárthatóak és hozhatóak be az Európai Unió területére.
-
-5. §
-
-Ez az előírás az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő kerámiatárgyakra vonatkozó tagállami jogszabályok közelítéséről szóló, 1984. október 15-i 84/500/EGK tanácsi irányelvnek, valamint az azt módosító, 2005. április 29-i 2005/31/EK bizottsági irányelvnek való megfelelést szolgálja.
-
-1. számú melléklet az 1–2–84/500 számú előíráshoz
-
-Alapszabályok az ólom és kadmium kioldódás meghatározására
-
-1. Vizsgáló oldat (szimuláló oldószer)
-
-4%-os (V/V) ecetsav frissen készített vizes oldata.
-
-2. Vizsgálati körülmények
-
-2.1. A vizsgálatot 22 ±2 °C hőmérsékleten 24 ±0,5 órás időtartamon keresztül kell végezni.
-
-2.2. Ha csupán az ólom kioldódást kell meghatározni, akkor a vizsgálandó tárgyat egy alkalmas anyaggal lefedjük, és a laboratóriumban szokásos megvilágítási feltételek mellett tartjuk.
-
-Ha a kadmium- és ólom vagy a kadmium kioldódást kell meghatározni, akkor a mintát úgy kell lefedni, hogy a vizsgálandó felület teljes sötétségben maradjon.
-
-3. Megtöltés
-
-3.1. Megtölthető edények
-
-Az edényt 4%-os ecetsavval legfeljebb 1 mm-rel a túlfolyási pont alatti szintig kell megtölteni. A lapos vagy enyhe lejtésű peremmel rendelkező edényeknél a folyadékszint és a túlfolyási pont közötti távolság legfeljebb 6 mm lehet, a ferde szegély mentén mérve.
-
-3.2. Nem megtölthető edények
-
-A tárgyaknak azt a felületét, amelynek nem az a rendeltetése, hogy élelmiszerekkel érintkezzen, megfelelő védőréteggel kell ellátni, amely ellenáll a 4%-os ecetsavnak. Azután a tárgyat olyan módon kell belemeríteni egy meghatározott mennyiségű ecetsavat tartalmazó tartályba, hogy a tárgy felületének az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő részét teljesen lepje el a vizsgáló oldat.
-
-4. A felület meghatározása
-
-Az 1. kategóriába tartozó tárgyak felülete azonos a 3. pontban leírt töltési körülmények betartásával betöltött folyadék szabad felülete által alkotott meniszkuszfelülettel.
-
-2. számú melléklet az 1–2–84/500 számú előíráshoz
-
-Vizsgálati módszerek az ólom és kadmium kioldódás meghatározására
-
-1. Cél és alkalmazási terület
-
-A módszerrel meghatározható az egyedi ólom, illetve kadmium kioldódás.
-
-2. Alapelv
-
-Az egyedi ólom, illetve kadmium kioldódás meghatározását olyan műszeres vizsgálati módszerrel kell elvégezni, amely eleget tesz a 4. pontban megállapított teljesítményjellemzőknek.
-
-3. Reagensek
-
-Ahol nincs külön megjelölve, minden reagensnek analitikai minőségűnek kell lennie. Víz alatt mindig desztillált vizet vagy ezzel megegyező minőségű vizet kell érteni.
-
-3.1. 4%-os (V/V) ecetsav vizes oldata
-
-40 ml jégecetet oldjunk fel vízben, majd töltsük fel 1000 ml-re.
-
-3.2. Törzsoldatok
-
-Olyan összehasonlító oldatokat kell készíteni, amelyek 4%-os ecetsavban (3.1.) 1000 mg ólmot, illetve legalább 500 mg kadmiumot tartalmaznak literenként.
-
-4. A műszeres vizsgálati módszer teljesítményjellemzői
-
-4.1. Az ólomra és kadmiumra vonatkozó kimutathatósági határ legfeljebb:
-
-– 0,1 mg/liter, ólom esetében,
-
-– 0,01 mg/liter, kadmium esetében.
-
-A kimutathatósági határ az elem azon koncentrációja 4%-os ecetsavoldatban a 3.1. pontban foglaltak szerint, ami a készülék háttérzajának kétszeresével egyenlő jelet ad.
-
-4.2. Az ólomra és kadmiumra vonatkozó meghatározási határ legfeljebb:
-
-– 0,2 mg/liter, ólom esetében,
-
-– 0,02 mg/liter, kadmium esetében.
-
-4.3. Visszanyerés
-
-A 3.1. pontban hivatkozottak szerinti 4%-os ecetsavoldathoz hozzáadott ólom és kadmium visszanyerésének a hozzáadott mennyiség 80–120%-ának kell lennie.
-
-4.4. Különleges előírások
-
-A használt műszeres vizsgálati módszernek mátrix- és spektrális interferenciáktól mentesnek kell lennie.
-
-5. Módszer
-
-5.1. A minta előkészítése
-
-A mintának tisztának, zsírtól és a vizsgálatot befolyásoló egyéb anyagoktól mentesnek kell lennie. Mossuk le a mintát folyékony háztartási mosószerrel 40 °C körüli hőmérsékleten. Öblítsük le a mintát először csapvízzel, majd desztillált vízzel vagy ezzel azonos minőségű vízzel. Csurgassuk le és szárítsuk meg, hogy ne legyen foltos. Megtisztítás után ne érjünk a vizsgálandó felülethez.
-
-5.2. Az ólom, illetve kadmium meghatározása
-
-– Az így előkészített mintát az 1. számú mellékletben megállapított feltételek szerint vizsgáljuk meg.
-
-– Az ólom, illetve kadmium meghatározására szolgáló kísérleti oldat kivétele előtt az oldat mintatartalmát olyan megfelelő módszerrel homogenizáljuk, amellyel elkerüljük az oldatveszteséget és a vizsgálandó felület felhorzsolását.
-
-– Végezzünk vakpróbát a mérési sorozatokhoz használt reagensekkel.
-
-– Megfelelő körülmények között végezzük el az ólom-, illetve kadmiumtartalom meghatározását.
-
-3. számú melléklet az 1–2–84/500 számú előíráshoz
-
-Megfelelőségi nyilatkozat
-
-A 3. § (1) bekezdése szerinti nyilatkozat a következőket tartalmazza:
-
-1. a kész kerámiatárgyat gyártó vállalat és az importáló neve és címe,
-
-2. a kerámiatárgy megnevezése,
-
-3. a nyilatkozat dátuma,
-
-4. igazolás arról, hogy a kerámiatárgy megfelel ezen előírás és az 1935/2004/EK rendelet vonatkozó követelményeinek.
-
-Az írásbeli nyilatkozatnak lehetővé kell tennie azoknak a tárgyaknak a könnyű azonosítását, amelyekre kiállították, és meg kell újítani a nyilatkozatot, amennyiben a gyártásban történt alapvető változások az ólom és kadmium kioldódást is megváltoztatják.
-
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 17. sorszámú előírása[^5]
-
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1-2-93/10 számú előírás
-
-(2. kiadás)
-
-Az élelmiszerrel érintkezésbe kerülő regenerált cellulózfilmek
-
-1. §
-
-(1) Ez az előírás a regenerált cellulózfilmekre (cellofán), mint a Magyar Élelmiszerkönyv (a továbbiakban: MÉ) 1-2-89/109 számú előírása szerinti, élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagra vonatkozó előírásokat tartalmaz.
-
-(2) Jelen előírás olyan regenerált cellulózfilmekre (cellofán) vonatkozik, amelyek megfelelnek az 1. számú melléklet általános leírásának, és amelyeket
-
-a) önmagukban vagy
-
-b) más, az élelmiszerrel rendeltetésszerűen érintkező vagy érintkezésbe kerülhető anyag részeként
-
-használnak.
-
-(3) Jelen előírás nem vonatkozik a regenerált cellulózból készült műbelekre.
-
-(4) A (2) bekezdés szerinti regenerált cellulózfilmek a következő típusok egyikébe tar-toznak:
-
-a) bevonat nélküli regenerált cellulózfilm,
-
-b) cellulózból származó bevonatú regenerált cellulózfilm,
-
-c) műanyag bevonatú regenerált cellulózfilm.
-
-2. §
-
-(1) Az 1. § (4) bekezdésének a) és b) pontja szerinti regenerált cellulózfilmek gyártásához kizárólag a 2. számú mellékletben felsorolt anyagok vagy anyagcsoportok, az ott megadott korlátozásokkal használhatók fel.
-
-(2) A regenerált cellulózfilmek gyártásához színezékként (festék és pigment) vagy ragasztóként a 2. számú mellékletben megadottaktól eltérő anyagok is felhasználhatók, ha ezek az élelmiszerbe nyomokban sem oldódnak ki, és hatályos vizsgálati módszerekkel nem mutathatók ki.
-
-(3) Az 1. § (4) bekezdésének c) pontja szerinti regenerált cellulózfilmek bevonást megelőző gyártásához kizárólag a 2. számú melléklet első részében felsorolt anyagok vagy anyagcsoportok, az ott megadott korlátozásokkal használhatók fel.
-
-(4) A (3) bekezdés szerinti bevonattal ellátott regenerált cellulózfilmek előállításához csak az MÉ 1-2-2002/72 számú előírás 2-6. számú mellékletében megadott anyagok vagy anyagcsoportok, az ott megadott korlátozásokkal használhatók fel.
-
-(5) Az 1. § (4) bekezdésének c) pontja szerinti regenerált cellulózfilmből készült anyagoknak és eszközöknek – a (3) bekezdésben foglaltakon kívül – meg kell felelniük az MÉ 1-2-2002/72 számú előírás 2., 7. és 8. §-ának.
-
-3. §
-
-A regenerált cellulózfilm nyomtatott felületei nem kerülhetnek érintkezésbe az élelmiszerrel.
-
-4. §
-
-(1) Kiskereskedelmi forgalmat kivéve a regenerált cellulózfilmből készült anyagokat és eszközöket, ha azok rendeltetésszerűen érintkezésbe kerülnek élelmiszerekkel, el kell látni az MÉ 1-2-89/109 számú előírása 6. § 5. bekezdése szerinti nyilatkozattal.
-
-(2) Az (1) bekezdést nem kell alkalmazni olyan regenerált cellulózfilmből készült anyagokra és eszközökre, melyek természetüknél fogva élelmiszerekkel nem kerülnek érintkezésbe.
-
-(3) Amennyiben speciális felhasználási feltételek vannak, a regenerált cellulózfilmből készült anyagok és eszközök címkéjén ezt fel kell tüntetni.
-
-5. §
-
-(1) Ez az előírás 2005. július 1-jén lép hatályba, ezzel egyidejűleg az 1-2-93/10 számú előírás 1. kiadása hatályát veszti.
-
-(2) Az 1-2-93/10 számú előírás 1. kiadásának megfelelő, de ezen előírás követelményeinek nem megfelelő, élelmiszerekkel érintkezésre szánt regenerált cellulózfilmek 2006. január 28-ig állíthatók elő, és hozhatók be.
-
-6. §
-
-Ez az előírás az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmből készült anyagokról és tárgyakról szóló, 2007. június 29-i 2007/42/EK bizottsági irányelvnek való megfelelést szolgálja.
-
-1. számú melléklet az 1-2-93/10 számú előíráshoz
-
-Regenerált cellulózfilm leírása
-
-A regenerált cellulózfilm olyan fóliaanyag, melyet újrafelhasználás nélküli faanyagból vagy gyapotból nyert finomított cellulózból állítanak elő. A 2. számú mellékletben felsorolt anyagok használhatók a masszába adva vagy a felületre. A regenerált cellulózfilm az egyik vagy mindkét oldalon bevonható.
-
-2. számú melléklet az 1-2-93/10 számú előíráshoz
-
-Regenerált cellulózfilm gyártásához engedélyezett anyagok listája
-
-| Megjegyzés: | – | az első és a második részben szereplő százalékos mennyiségek tömeg százalékok és a vízmentes regenerált cellulózfilmre vonatkoznak, |
-
-|  | – | a szokásos műszaki megjelölések zárójelben vannak megadva, |
-
-|  | – | a tisztasági kritériumok alapján az anyagoknak jó technikai minőségűeknek kell lenniük. |
-
-Első rész
-
-Bevonatlan regenerált cellulózfilm
-
-| Megnevezés | * Korlátozás |
-
-| A. Regenerált cellulóz | Legalább 72% (m/m) |
-
-| B. Adalékanyagok |  |
-
-| 1. Lágyítók | Összesen nem több, mint 27% (m/m) |
-
-| – | Bisz(2-hidroxi-etil)-éter (= dietilénglikol) | Csak olyan, a felhasználás előtt bevonattal ellátott filmeknél alkalmazhatók, amelyeket száraz felületükön vizet nem tartalmazó élelmiszerekhez használnak fel. A bisz (2-hidroxi-etil)- éter és etándiol összmennyisége az élelmiszerekben, amelyek érintkezésbe kerülhetnek ilyen |
-
-| – | 1,2-Etándiol (= monoetilénglikol) | típusú filmmel, nem haladhatja meg a 30 mg/kg értéket. |
-
-| – | 1,3-Butándiol |  |
-
-| – | Glicerin |  |
-
-| – | 1,2-Propándiol (= 1,2-propilénglikol) |  |
-
-| – | Polietilén-oxid (= polietilénglikol) | Átlagos móltömege 250 és 1200 között |
-
-| – | 1,2-Polipropilén-oxid (= 1,2-polipropilén-glikol) | Átlagos móltömege nem lehet nagyobb, mint 400, és a szabad 1,3-propándiol tartalom nem lehet több, mint 1% (m/m) |
-
-| – | Szorbit |  |
-
-| – | Tetraetilénglikol |  |
-
-| – | Trietilénglikol |  |
-
-| – | Karbamid |  |
-
-| 2. Egyéb adalékanyagok | Összesen nem lehet több, mint 1% (m/m) |
-
-| ELSŐ OSZTÁLY | Az egyes bekezdésekben szereplő anyag vagy anyagcsopor- tok mennyisége nem haladhatja meg a 2 mg/dm2 értéket |
-
-| – | Ecetsav és ammónium-, kalcium-, magnézium-, kálium- és nátriumsói |  |
-
-| – | Aszkorbinsav és ammónium-, kalcium-, magnézium-, kálium- és nátriumsói |  |
-
-| – | Benzoesav és nátrium-benzoát |  |
-
-| – | Hangyasav és ammónium-, kalcium-, magnézium-, kálium- és nátriumsói |  |
-
-| – Telített vagy telítetlen, el nem ágazó láncú 8–20 pá- ros számú szénatomot tartalmazó zsírsavak, valamint behénsav |  |
-
-| – | Ricinolsav, valamint ezen savak ammónium-, kalcium-, magnézium-, kálium-, nátrium-, alumínium- és cinksói |  |
-
-| – | Citromsav, D és L tejsav, maleinsav, L-borkősav és ezek nátrium- és káliumsói |  |
-
-| – | Szorbinsav és ammónium-, kalcium-, magnézium-, kálium- és nátriumsói |  |
-
-| – Telített vagy telítetlen, el nem ágazó láncú 8–20 pá- ros számú szénatomot tartalmazó zsírsavak amidjai, behén- és ricinolsavamid |  |
-
-| – | Természetes étkezési keményítők és lisztek |  |
-
-| – | Étkezési keményítők és lisztek, melyeket kémiai kezeléssel módosítottak |  |
-
-| – | Amilóz |  |
-
-| – | Kalcium- és magnézium-karbonátok és kloridok |  |
-
-| – Telített vagy telítetlen, el nem ágazó láncú 8–20 pá- ros számú szénatomot tartalmazó zsírsavak, illetve az adipinsav, a citromsav, a 12-hidroxi-sztearinsav, a ricinolsav glicerinnel alkotott észterei |  |
-
-| – Telített vagy telítetlen, el nem ágazó láncú 8–20 pá- ros számú szénatomot tartalmazó zsírsavak és polietilén-oxid (mely 8–14 etilén-oxid egységet tartalmaz) észterei |  |
-
-| – Telített vagy telítetlen, el nem ágazó láncú 8–20 pá- ros számú szénatomot tartalmazó zsírsavak szorbit észterei |  |
-
-| – Sztearinsav 1,2-etándiollal, illetve bisz (2-hidroxi-etil)éterrel, illetve trietilénglikollal alkotott mono-, illetve diészterei |  |
-
-| Alumínium, kalcium, magnéziumoxidok és hidroxidok, valamint szilikon-, alumínium-, kalcium-, magnézium- és kálium szilikátjai és hidratált szilikátjai |  |
-
-| – | Polietilén-oxid (= polietilénglikol) | Átlagos móltömeg 1200–4000 között |
-
-| – | Nátrium-propionát |  |
-
-| MÁSODIK OSZTÁLY | Az összes anyagmennyiség nem haladhatja meg az 1 mg/dm2-t és az egyes bekezdésekben lévő anyagok vagy anyagcsoportok mennyisége nem haladhatja meg a 0,2 mg/dm2-t (vagy egy alacsonyabb értéket, ha ilyet határoztak meg) |
-
-| – | Nátrium-alkil (C8-C18)-benzol-szulfonát |  |
-
-| – | Nátrium-izopropil-naftalin-szulfonát |  |
-
-| – | Nátrium-alkil (C8-C18)-szulfát |  |
-
-| – | Nátrium-alkil (C8-C18)-szulfonát |  |
-
-| – | Nátrium-dioktil-szulfo-szukcinát |  |
-
-| – | Di-(hidroxi-etil)-dietilén-triamin-monoacetát disztearátja | Legfeljebb 0,05 mg/dm2 a bevonattal nem rendelkező filmeknél |
-
-| – | Ammónium-, magnézium- és kálium-lauril-szulfát |  |
-
-| – | N,N'-disztearoil-diamino-etán N,N' -dipalmitoil-diamino-etán és N,N'-dioleil-diamino-etán |  |
-
-| – | 2-Heptadecil 1-4,4 di-metilén-oxazolin-disztearát |  |
-
-| – | Polietilén-amino-sztearamid-(etil-szulfát) | Legfeljebb 0,1 mg/dm2 a bevonattal nem rendelkező filmeknél |
-
-| HARMADIK OSZTÁLY | Az anyagok összmennyisége nem haladhatja meg az 1 mg/dm2 értéket |
-
-|  | Rögzítőszerek |  |
-
-| – | Módosítás nélküli melamin-formaldehid kondenzációs termék vagy az alábbiak közül egy vagy több anyaggal módosított | A szabad formaldehid tartalom nem lehet nagyobb 0,5 mg/dm2 értéknél |
-
-| – Butanol, dietilén-triamin, etanol, trietilén-tetramin, tetraetilén-pentamin, tri-(2-hidroxietil)-amin, 3,3'-di- amino-dipropil-amin, 4,4'-diamino-dibutil-amin | A szabad melamin tartalom nem lehet nagyobb 0,3 mg/dm2-nél |
-
-| – | Melamin-karbamid, formaldehid trisz (2--hidroxi-etil)-aminnal módosított kondenzációs terméke | A szabad formaldehid tartalom nem lehet nagyobb, mint 0,5 mg/dm2 bevonatlan filmre vonatkoztatva. A szabad melamin tartalom nem lehet nagyobb, mint 0,3 mg/dm2 |
-
-| – | Keresztkötéses kationos polialkilén-aminok: |  |
-
-| a) | Diamino-propil-metilamin és epiklórhidrin alapú poliamid-epiklórhidrin gyanta |  |
-
-| b) | Epiklórhidrin, adipinsav, kaprolaktám dietilén-triamin, illetve etilén-diamin alapú poliamin-epiklórhidrin gyanta |  |
-
-| c) Adipinsav, trietilén-triamin és epiklórhidrin vagy epiklórhidrin és ammónia keverék alapú poli- amid-epiklórhidrin gyanta |  |
-
-| d) | Epiklórhidrin-dimetil-adipát és dietilén-tetramin alapú poliamid-poliamin-epiklórhidrin gyanta |  |
-
-| e) | Epiklórhidrin, adipinsav-amid és diamino-propil-metil-amin alapú poliamid-poliamin-epiklórhidrin gyanta |  |
-
-| – | Polietilén-aminok és polietilén-iminek | Legfeljebb 0,75 mg/dm2 |
-
-| – | Módosítás nélküli karbamid-formaldehid kondenzációs termékek vagy a következő egy vagy több anyaggal módosított: | Szabad formaldehid tartalom nem lehet nagyobb, mint 0,5 mg/dm2 |
-
-| amino-metán-szulfonsav, szulfanilsav, butanol, diamino-bután, diamino-dietil-amin, diamino-di-propil-amin, diamino-propán, dietilén-triamin, etanol, guanidin, metanol, tetraetilén-pentamin, trietilén-tetramin, nátriumszulfit |  |
-
-| NEGYEDIK OSZTÁLY | Az anyagok összmennyisége nem haladhatja meg a 0,01 mg/dm2-t |
-
-| – Étkezési olajok, aminjai és polietilén-oxidre- akciójából származó termékek |  |
-
-| – | Monoetanol-amin-lauril-szulfát |  |
-
-_______
-
-* A korlátozások mennyiségi értékei minden esetben a bevonatlan filmre vonatkoznak.
-
-Második rész
-
-Bevont regenerált cellulózfilm
-
-| Megnevezés | * Korlátozás |
-
-| A) Regenerált cellulóz | Lásd: az első részt |
-
-| B) Adalékanyagok | Lásd: az első részt |
-
-| C) Bevonat |  |
-
-| 1. Polimerek | Az anyagok mennyisége nem haladhatja meg az 50 mg/dm2 értéket. |
-
-| – Cellulóz, etil-, hidroxi-etil-, hidroxipropil- és metil-észterei |  |
-
-| – Cellulóz-nitrát | Maximálisan megengedett mennyiség 20 mg/dm2, a cellulóz-nitrátban a nitrogén tartalom 10,8% (m/m) – 12,2% (m/m) lehet. |
-
-| 2. Gyanták | Az anyagok összmennyisége nem haladhatja meg a 12,5 mg/dm2 -t és kizárólag olyan regenerált cellulózfilmek előállításához használhatók, amelyek cellulóz-nitráttal vannak bevonva. |
-
-| – Kazein |  |
-
-| – Fenyőgyanta, illetve polimerizációs, hidrogénezési vagy diszproporcióból származó termékei és azok metil-, etil- vagy több értékű (C2-C6) alkoholok keverékeinek észterei |  |
-
-| – Fenyőgyanta, illetve polimerizációs, hidrogénezési vagy diszproporcióból származó termékei, melyeket akril-, melamin-, citrom-, fumár-, illetve ftálsavval kondenzáltak, illetve bisz-fenol formaldehiddel kondenzáltak, illetve metil-, etil- vagy több értékű (C2-C6) alkoholok vagy ezen alkoholok keverékeivel alkotott észterei |  |
-
-| – ß-pinén, illetve dipentén, illetve diterpén és maleinsav-anhidrid addiciós termékeinek bisz (2-hidroxi-etil)-éterrel nyert észterei |  |
-
-| – Étkezési zselatin |  |
-
-| – Ricinusolaj dehidrált vagy hidrogénezett termékei, valamint poliglicerinnel, adipin-, citrom-, malein-, ftál- és szebacinsavval kondenzált termékei |  |
-
-| – Természetes gyanták (= damar) |  |
-
-| – Poli-β-pinén (terpén gyanták) |  |
-
-| – Karbamid-formaldehid-gyanták (lásd: rögzítőszerek) |  |
-
-| 3. Lágyítók | Az anyagok összmennyisége nem haladhatja meg a 6 mg/dm2-t |
-
-| – Acetil-tributil-citrát |  |
-
-| – Acetil-trisz(2-etilhexil)-citrát |  |
-
-| – Diizobutil-adipát |  |
-
-| – Di-n-butil-adipát |  |
-
-| – Di-n-hexil-azelát |  |
-
-| – Diciklohexil-ftalát | Nem több, mint 4,0 mg/dm2 |
-
-| – 2-etil-(hexil)-difenil-foszfát (szinonimája: foszforsav-difenil-2-etilhexil-észter) | A 2-etil-(hexil)-difenil-foszfát mennyisége nem haladhatja meg: a) a 2,4 mg/dm2 értéket az ilyen típusú bevonattal érintkező élelmiszer kilogrammjára vonatkoztatva, vagy b) a 0,4 mg/dm2 értéket a bevonatra vonatkoztatva az élelmiszerrel érintkező oldalon. |
-
-| – Glicerin-monoacetát (= monoacetin) |  |
-
-| – Glicerin-diacetát (= diacetin) |  |
-
-| – Glicerin-triacetát (= triacetin) |  |
-
-| – Dibutil-szebacát |  |
-
-| – Bisz(2-etil-hexil)-szebacát (= dioktil-szebacát) |  |
-
-| – Di-n-butil-tartarát |  |
-
-| – Diizobutil-tartarát |  |
-
-| 4. Egyéb adalékanyagok | A bevonatlan regenerált cellulózfilmben, valamint az élelmiszerekkel érintkezésbe kerülő oldalon lévő bevonaton az anyagok összmennyisége nem haladhatja meg a 6 mg/dm2 értéket. |
-
-| 4.1 Az első részben felsorolt adalékanyagok | Ugyanolyan korlátozás, mint az első részben (a mg/dm2-ben lévő anyag mennyiség a bevonatlan regenerált cellulózfilmre, valamint az élelmiszerekkel érintkezésbe kerülő bevonatra összesen vonatkozik). |
-
-| 4.2 Specifikus bevonó adalékanyagok | Az egyes bekezdésben lévő adalékanyagok anyagcsoportok összmennyisége nem haladhatja meg a 2 mg/dm2-t (vagy az alacsonyabb határt, ha ilyen van). |
-
-| – 1-hexadekanol és 1-oktadekanol |  |
-
-| – Telített vagy telítetlen el nem ágazó 8–10 páros számú szénatomot tartalmazó zsírsavak, valamint a ricinolsav etil-, butil-, amil- és oleoil-nyíltláncú alkoholokat tartalmazó észterei |  |
-
-| – Montán viaszok, amelyek tisztított montán (C26-C32) savakból, illetve azok 1,2-etándiollal, illetve 1-3 butándiollal, illetve kalcium- és káliumsóiból állnak |  |
-
-| – Karnaubaviasz |  |
-
-| – Méhviasz |  |
-
-| – Eszpartóviasz |  |
-
-| – Kandelillaviasz |  |
-
-| – Dimetil-polisziloxán | Legfeljebb 1,0 mg/dm2 |
-
-| – Epoxidált szójaolaj (6-8% epoxi tartalom) |  |
-
-| – Finomított paraffin- és mikrokristályos viaszok |  |
-
-| – Pentaeritrit-tetrasztearát |  |
-
-| – Mono- és bisz (oktadecil-dietilén-oxid)-foszfátok | Nem több, mint 0,2 mg/dm2 |
-
-| – Alifás (C8-C20) savak mono- vagy bisz (2-hidroxil-etil) -aminnal alkotott észterei |  |
-
-| – 2- és 3-terc-butil-4-hidroxi-anizol (= butil-hidroxi-anizol = BHA) | Nem több, mint 0,06 mg/dm2 |
-
-| – 2,6 di-terc-butil-4-metil-fenol (= butil-hidroxi-toluol = BHT) | Nem több, mint 0,06 mg/dm2 |
-
-| – Di-n-oktil-ón-bisz (2-etil-hexil)-maleát | Nem több, mint 0,06 mg/dm2 |
-
-| 5. Oldószerek | Az anyagok összmennyisége nem haladhatja meg a 0,6 mg/dm2 értéket, a bevonatra vonatkoztatva az élelmiszerrel érintkező oldalon. |
-
-| – Butil-acetát |  |
-
-| – Etil-acetát |  |
-
-| – Izobutil-acetát |  |
-
-| – Izopropil-acetát |  |
-
-| – Propil-acetát |  |
-
-| – Aceton |  |
-
-| – 1-Butanol |  |
-
-| – Etil-akohol |  |
-
-| – 2-Butanol |  |
-
-| – 2-Propanol |  |
-
-| – 1-Propanol |  |
-
-| – Ciklohexán |  |
-
-| – Etilénglikol-monobutil-éter |  |
-
-| – Etilénglikol-monobutil-éter-acetát |  |
-
-| – Metil-etil-keton |  |
-
-| – Metil-izobutil-keton |  |
-
-| – Tetrahidrofurán |  |
-
-| – Toluol | Nem több, mint 0,06 mg/dm2 a bevonatra vonatkoztatva az élelmiszerrel érintkező oldalon. |
-
-_______
-
-* A korlátozások mennyiségi értékei a film élelmiszerekkel érintkező oldalára vonatkoznak.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 18. sorszámú előírása[^6]
 
@@ -965,2496 +413,6 @@ A (max/min) arány legfeljebb 3.
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 30. sorszámú előírása[^12]
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 31. sorszámú előírása[^13]
-
-MAGYAR ÉLELMISZERKÖNYV
-
-(Codex Alimentarius Hungaricus)
-
-1-2-2002/72 számú előírás
-
-(2. kiadás)
-
-Az élelmiszerekkel érintkezésbe kerülő műanyagok
-
-és műanyag eszközök minőségi követelményei
-
-1. §
-
-(1) Ez az előírás a műanyagokra, és műanyag eszközökre, mint a Magyar Élelmiszerkönyv (a továbbiakban: MÉ) 1-2-89/109 számú előírása szerinti, élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokra, illetve tárgyakra vonatkozó előírásokat tartalmazza.
-
-(2) Ezt az előírást azon műanyagokra és műanyag eszközökre, valamint azok részeire kell alkalmazni, amelyek:
-
-a) csak műanyagot tartalmaznak, vagy
-
-b) két vagy több olyan rétegből állnak, amelyek kizárólag műanyagot tartalmaznak, és ragasztóval vagy bármely más anyaggal vannak rögzítve,
-
-és amelyek végtermékként a rendeltetésszerű felhasználás során élelmiszerrel kerülnek érintkezésbe.
-
-(3) Ezen előírás szempontjából a „műanyag” szerves makromolekulákat jelent, amelyeket polimerizációval, polikondenzációval, poliaddícióval vagy más hasonló eljárással kisebb molekulatömegű molekulákból vagy a természetes makromolekulák kémiai átalakításával állítottak elő. Az ilyen makromolekulákhoz más vegyületek vagy anyagok hozzáadhatók. Nem tekintendők azonban műanyagoknak a következők:
-
-a) lakkozott vagy lakkozatlan cellulóz fóliák az MÉ 1-2-93/10 számú előírása szerint,
-
-b) elasztikus anyagok, természetes és műgumik,
-
-c) papír és papírlemez műanyaggal módosítva vagy anélkül,
-
-d) bevonóanyagok:
-
-1. paraffinviaszok, beleértve a szintetikus paraffinviaszokat, illetve mikrokristályos viaszokat,
-
-2. az első bekezdésben felsorolt viaszok egymással, illetve műanyaggal,
-
-e) ioncserélő gyanták,
-
-f) szilikonok.
-
-(4) Ez az előírás nem vonatkozik azon anyagokra és eszközökre, amelyek két vagy több rétegből állnak és ezek közül egy vagy több nem műanyag, még akkor sem, ha az élelmiszerrel közvetlenül érintkezésbe kerülő réteg műanyag.
-
-2. §
-
-(1) A műanyagok és a műanyag eszközök felületéből dm2-enként az élelmiszerbe 10 mg-nál több anyag nem oldódhat ki (összkioldódási határérték). Ez a határérték legfeljebb 60 mg az élelmiszer 1 kilogrammjára vonatkoztatva a következő esetekben:
-
-a) olyan tartályok vagy tartályként használt edények (üreges testek), amelyek 500 milliliternél nagyobb és 10 liternél kisebb térfogatúak,
-
-b) olyan megtölthető edények (üreges testek), amelyek élelmiszerrel érintkező felületének megállapítása gyakorlatilag lehetetlen,
-
-c) záróelemek, tömítők, dugók és egyéb lezárásra, tömítésre használt anyagok.
-
-(2) A kioldódási (migrációs) határértékeknek való megfelelés ellenőrzésekor alkalmazandó rendelkezéseket az 1. számú melléklet tartalmazza.
-
-3. §
-
-(1) Csak a 2. számú melléklet A) részében felsorolt monomerek és kiindulási anyagok használhatók a műanyagok és műanyag eszközök előállítására az ott részletezett korlátozásokkal.
-
-(2) Az (1) bekezdéstől eltérően a 2. számú melléklet B) részében felsorolt monomerek és kiindulási anyagok felhasználhatók, amíg az Európai Élelmiszerbiztonsági Hatóság (a továbbiakban: Hatóság) nem értékeli azokat.
-
-(3) A 2. számú melléklet A) és B) része nem tartalmazza azokat a monomereket és kiindulási anyagokat, amelyek csak a következők készítésére használatosak:
-
-a) gyantából vagy polimerizált termékekből nyert felületkezelők, folyadék-, por- vagy diszperziós formában, valamint lakkok, kencék, festékek stb.,
-
-b) epoxigyanták,
-
-c) ragasztók és promotereik,
-
-d) nyomdafestékek.
-
-4. §
-
-(1) A műanyagok és műanyag eszközök gyártásához felhasználható adalékanyagokat a használatukra vonatkozó korlátozásokkal, illetve előírásokkal együtt a 3. számú melléklet tartalmazza.
-
-(2) A 3. számú melléklet B) részében felsorolt adalékanyagokra a specifikus kioldási határértékeknek való megfelelést az MÉ 1-2-82/711 számú előírás 3. §-ában megadott D modell oldatban vagy a helyettesítő vizsgálatok vizsgálati közegeiben 2006. július 1- jétől kell alkalmazni.
-
-(3) A 3. számú melléklet A) és B) részében levő listák nem tartalmazzák:
-
-a) azokat az adalékanyagokat, amelyeket csak az alábbiak gyártásához használnak:
-
-1. gyantából vagy polimerizált termékekből nyert felületkezelők, folyadék-, por- vagy diszperziós formában, valamint lakkok, kencék, festékek stb.,
-
-2. epoxigyanták,
-
-3. ragasztók és promotereik,
-
-4. nyomdafestékek,
-
-b) a színezékeket, és
-
-c) az oldószereket.
-
-(4) Az (1) bekezdés szerinti listára új adalékanyag felvehető, ha biztonságosságát a Hatóság megállapította.
-
-(5) Az Európai Gazdasági Térség valamely tagállamában forgalomban lévő adalékanyagnak az (1) bekezdés szerinti listára való felvétele iránti kérelmet legkésőbb 2006. december 31-ig kell benyújtani a Hatósághoz, az adalékanyag biztonságosságának a Hatóság által történő értékeléséhez szükséges adatok egyidejű megadásával. A szükséges adatok benyújtásához a kérelmezőnek figyelembe kell vennie a Hatóságnak az élelmiszerekkel érintkezésbe kerülő anyagokban felhasználható anyagok biztonsági értékelése iránti kérelem benyújtására vonatkozó útmutatóját.
-
-(6) Ha az (5) bekezdés szerinti adatok elbírálásánál a Hatóság kiegészítő információkat kér, az adalékanyag továbbra is használható a nemzeti előírások alapján, mindaddig, amíg a Hatóság véleményt nem mond, feltéve, hogy az információkat a Hatóság által meghatározott határidőn belül benyújtották.
-
-5. §
-
-(1) Csak a 4. számú mellékletben felsorolt, baktériumos fermentációval kapott termékek használhatók az élelmiszerekkel érintkezésben.
-
-(2) A 4. § szerinti adalékanyagok, amelyeket az MÉ 1-2-89/107 számú előírás élelmiszer-adalékanyagként vagy az MÉ 1-2-88/388 számú előírás aromaanyagként engedélyez, nem oldódhatnak ki:
-
-a) az élelmiszerekben olyan mennyiségben, amely a kész élelmiszerben technológiai funkciót jelent,
-
-b) azon élelmiszerekben, amelyekhez a használatuk élelmiszer-adalékanyagként vagy aromaanyagként van engedélyezve, az MÉ 1-2-89/107 vagy az MÉ 1-2-88/388 számú előírásban megengedett mennységet meghaladó mértékben, vagy a 4. §-ban megengedett mennyiségben, amelyik kisebb,
-
-c) azon élelmiszerekben, amelyekhez a használatuk mint élelmiszer-adalékanyag vagy aromaanyag nincs engedélyezve, a 4. §-ban megadott korlátozást meghaladó mennyiségben.
-
-(3) Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő és a (2) bekezdés szerinti adalékanyagot tartalmazó műanyagokat és műanyag eszközöket a kiskereskedelmi forgalmazástól eltérő értékesítési szakaszokban a 9. § b) pontja szerinti írásos nyilatkozattal kell ellátni.
-
-6. §
-
-(1) A műanyagokra és műanyag eszközökre vonatkozó általános előírásokat az 5. számú melléklet A) része tartalmazza. A 2–4. számú mellékletben felsorolt anyagokra vonatkozó egyéb előírásokat az 5. számú melléklet B) része tartalmazza.
-
-(2) A „Korlátozások, illetve előírások” oszlopban zárójelben levő számok jelentését a 6. számú melléklet tartalmazza.
-
-7. §
-
-A 2. és 3. számú melléklet listája az egyedi kioldódási határértékeket mg/kg-ban adja meg. Bizonyos határértékek a következő esetekben mg/dm2-ben vannak megadva:
-
-a) olyan tartályok vagy tartályszerű eszközök esetében, amelyek térfogata 500 ml-nél kisebb vagy 10 liternél nagyobb,
-
-b) lapok, filmek vagy egyéb anyagok esetében, amelyek nem tölthetők meg, vagy gyakorlatilag nem lehet megbecsülni az ezen anyagok és eszközök felülete, valamint a velük érintkezésben kerülő élelmiszer tömege közötti összefüggést.
-
-Ezekben az esetekben a 2. és 3. számú mellékletben megadott mg/kg-ban kifejezett határértékeket osztani kell 6-tal, az egyezményes átváltási faktorral, annak érdekében, hogy a határértékek mg/dm2-ben legyenek kifejezve.
-
-8. §
-
-(1) A kioldódási határértékeknek való megfelelés ellenőrzését az MÉ 1-2-82/711 számú előírásban megadott szabályokkal és az 1. számú melléklet további rendelkezéseivel összhangban kell végezni.
-
-(2) Az egyedi kioldódási határértékeknek való megfelelés (1) bekezdés szerinti ellenőrzése nem kötelező, ha a mért összkioldódási értékekből következik, hogy az egyedi kioldódási határértékek nincsenek meghaladva.
-
-(3) Az (1) bekezdésre vonatkozó egyedi kioldódási határértékeknek való megfelelés bizonyítása nem kötelező, ha megállapítható, hogy feltételezve a műanyagban vagy műanyag eszközben lévő maradék anyagok teljes kioldódását, az összkioldódás nem haladja meg az egyedi kioldódási határértéket.
-
-(4) A egyedi kioldódási határértékeknek megfelelés bizonyítható a műanyagban vagy a műanyag eszközben az anyag mennyiségének (1) bekezdés szerinti meghatározásával, feltételezve, hogy az anyag és a kioldódási határérték közötti összefüggést megállapították vagy megfelelő kísérletekkel, vagy tudományos bizonyítékokra alapozható, általánosan elfogadott diffúziós modell alkalmazásával. Valamely műanyag vagy műanyag eszköz alkalmatlanságának megállapítására és a becsült kioldódási érték igazolására kötelező vizsgálatokat végezni.
-
-9. §
-
-Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokat és műanyag eszközöket a kiskereskedelmi forgalmazástól eltérő értékesítési szakaszokban írásos nyilatkozattal kell ellátni, amely
-
-a) összhangban van az MÉ 1-2-89/109 számú előírás 6. § 5. pontjával;
-
-b) az ilyen anyagok és eszközök felhasználói számára elegendő információt nyújt az élelmiszerben korlátozottan használható anyagok tapasztalati adatok vagy elméleti számítás alapján megállapított speciális kioldódási szintjéről és adott esetben az MÉ 1-2-95/31, az MÉ 1-2-95/45 és az MÉ 1-2-2002/82 számú előírásaival összhangban álló tisztasági követelményekről, annak érdekében, hogy a jogszabályi előírásoknak meg tudjanak felelni.
-
-10. §
-
-Ez az előírás 2005. január 15-én lép hatályba, egyidejűleg az 1-2-2002/72 számú előírás első kiadása hatályát veszti.
-
-11. §
-
-Ez az előírás az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló, a Bizottság 2002. augusztus 6-i 2002/72/EK irányelvének, valamint az azt módosító, a Bizottság 2004/1/EK és 2004/19/EK irányelveinek való megfelelést szolgálja.
-
-1. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-A kioldódási (migrációs) határértékeknek való megfelelés ellenőrzésekor alkalmazandó
-
-további rendelkezések
-
-Általános rendelkezések
-
-1. Amikor a megadott kioldódási vizsgálatok eredményeit összehasonlítjuk, az összes modelloldószer sűrűségét megállapodás szerint 1-nek vehetjük. Ezért a modelloldószerből kioldódó anyagmennyiség, mg/l mértékegységben mérve, számértékben megegyezik a mg/kg-ban mért értékkel, és így az MÉ 1-2-82/711 számú előírás szerint meghatározott értékek figyelembevételével az élelmiszerbe kioldódó, mg/kg-ban mért anyagmennyiséggel.
-
-2. Amikor a kioldódási vizsgálatokat a műanyagból vagy a műanyag eszközből vett mintákon vagy az e célra gyártott mintákon végzik, és a mintával érintkező élelmiszerek vagy modelloldószerek mennyisége eltér az anyag vagy az eszköz alkalmazási körülményeitől, a kapott eredményeket a következő képlettel kell korrigálni:
-
-ahol:
-
-M: a kioldódás mg/kg-ban,
-
-m: azon anyag tömege mg-ban, amellyel a kiolódási vizsgálatot végezték,
-
-a1: a kiolódási vizsgálat során az élelmiszerrel vagy a modelloldószerrel érintkező minta felülete dm2-ben,
-
-a2: a valós körülmények között használt műanyag vagy eszköz felülete dm2-ben,
-
-q : azon élelmiszer tömege g-ban kifejezve, amellyel a műanyag vagy az eszköz a valós körülmények között érintkezik.
-
-3. A kioldódási vizsgálatot a késztermékkel kell elvégezni, de ha ez a gyakorlatban nem kivitelezhető, az anyagból, eszközből vett mintadarabon, vagy ahol ez lehetséges, az anyagot, illetve eszközt jól képviselő mintán kell elvégezni.
-
-A mintának az élelmiszerrel vagy a modelloldószerrel oly módon kell érintkeznie, hogy ez reprezentálja a valós használat körülményeit. E célra a vizsgálatot úgy kell elvégezni, hogy a mintának csak azon részei kerüljenek az élelmiszerrel vagy a modelloldószerrel érintkezésbe, amelyek azzal valós használatban is kapcsolatban vannak. Ezek a feltételek különösen olyan anyagok és eszközök esetében fontosak, amelyeket zárási stb. célokra használnak vagy több rétegből állnak.
-
-A zárókupakok, tömítőgyűrűk, dugók vagy más hasonló zárásra használt eszközök kioldódási vizsgálatait olyan tartályként alkalmazott eszközökön kell végezni, amelyek a normális vagy az előrelátható alkalmazási móddal teljesen megegyeznek.
-
-A kioldódási határértéknek való megfelelést minden esetben szigorúbb vizsgálattal kell bizonyítani.
-
-4. A 8. §-ban megadott rendelkezésekkel összhangban az anyag/eszköz mintáját az élelmiszerrel vagy az azt képviselő modelloldószerrel olyan időtartamig, olyan hőmérsékleten kell érintkezésben tartani, amelyet az MÉ 1-2-82/711 számú előírás vonatkozó pontjaiban megadott szabályok szerint a valós használati körülményekkel összhangban választottak ki. A meghatározott idő leteltével az élelmiszerben vagy a modelloldószerben meg kell határozni az összkioldást (teljes migráció), illetve egy vagy több kioldódott anyag mennyiségét (egyedi kioldódás).
-
-5. Ha egy anyag vagy eszköz a használat során ismételten érintkezésbe kerül az élelmiszerrel, a kiolódási vizsgálatot háromszor el kell végezni ugyanazzal a mintával az MÉ 1-2-82/711 számú előírásban megadott körülmények között, minden esetben friss élelmiszert vagy modelloldószert használva.
-
-A megfelelőséget a harmadik vizsgálatban kapott kioldódási érték alapján kell megállapítani.
-
-Ha azonban meggyőző bizonyíték van arra, hogy a kioldódás mértéke a második és harmadik vizsgálat során nem nő, és a kiolódási határérték(ek)et már az első vizsgálatban sem haladja meg, további vizsgálat nem szükséges.
-
-Különleges rendelkezések az összkioldódásra
-
-6. Ha az MÉ 1-2-82/711 számú előírás vonatkozó pontjaiban részletezett vizes modelloldószert használnak, a mintából kioldott anyag teljes mennyiségének meghatározása az oldószer elpárologtatásával és a maradék tömegének mérésével végezhető el.
-
-Ha tisztított olívaolajat vagy más helyettesítőjét használnak, a következő eljárás alkalmazható:
-
-Az anyag vagy eszköz mintáját a modelloldószerrel való érintkezés előtt és után le kell mérni. A minta által abszorbeált modelloldószert ki kell vonni és mennyiségét meg kell határozni. A mintának a modelloldószerrel való érintkezése után mért tömegéből le kell vonni a modelloldószer mennyiségét. A kiinduló és a korrigált végső tömeg közötti különbség adja a vizsgált minta összkioldódását.
-
-Ha valamely, az élelmiszerrel ismételt érintkezésre szánt anyag vagy eszköz esetében az 5. pontban leírt vizsgálat elvégzése technikailag lehetetlen, elfogadható a vizsgálat olyan módosítása, amely lehetővé teszi a harmadik vizsgálat során bekövetkező kioldódás meghatározását.
-
-Egy lehetséges módosítást a következőkben írunk le:
-
-A vizsgálatot három önálló anyag vagy eszköz mintáján kell végezni. Az egyikből a megfelelő vizsgálattal az összkioldódást kell meghatározni (M1). A másodikból és harmadikból ugyanazon a hőmérsékleten az előírt érintkezési idő kétszeresével, illetve háromszorosával kell az összkioldódást meghatározni (M2 és M3).
-
-Az anyagot vagy eszközt megfelelőnek lehet tekinteni, ha sem az M1, sem az (M3 –M2) nem lépi túl az összkioldódási határértéket.
-
-7. Egy anyag vagy eszköz még megfelel ezen előírásnak, ha az analitikai hibánál kisebb mértékben lépi túl az összkioldódási határértéket:
-
-– 20 mg/kg-ot vagy 3 mg/dm2-t azon kioldódási vizsgálatokban, ahol olívaolajat vagy finomítványát használták,
-
-– 12 mg/kg-ot vagy 2 mg/dm2-t azon kioldódási vizsgálatokban, ahol más, az MÉ 1-2-82/711 számú előírásban megadottól eltérő modelloldószert használtak.
-
-8. Az MÉ 1-2-82/711 számú előírás IV. fejezet 3. 2 pont rendelkezéseinek megtartásával az olívaolajjal vagy finomítványaival végzett kioldódási vizsgálatot az összkioldódási határértéknek való megfelelés ellenőrzésére nem kell elvégezni abban az esetben, ha meggyőzően bizonyítható, hogy a speciális analitikai módszer technikai szempontból nem megfelelő.
-
-Ilyenkor minden olyan anyagra, amelyre a 2. számú mellékletben megadott lista egyedi kioldódási határértéket vagy más korlátozást nem tartalmaz, egy általános 60 mg/kg vagy az esettől függően 10 mg/dm2 kioldódási határértéket kell alkalmazni. Azonban valamennyi egyedi kioldódás összege nem haladhatja meg az összkioldódási határértéket.
-
-2. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-A műanyagok és műanyag eszközök gyártásához használható monomerek és más kiindulási anyagok listája
-
-Általános bevezetés
-
-Ez a melléklet a monomerek és más kiindulási anyagok listáját tartalmazza.
-
-A lista magában foglalja:
-
-– az olyan anyagokat, amelyek polimerizáció, polikondenzáció, poliaddíció vagy más hasonló folyamat révén makromolekulákat képeznek,
-
-– a természetes vagy mesterséges makromolekuláris anyagokat, amelyeket a módosított makromolekulák gyártásában használnak, ha monomerek vagy más kiindulási anyagok szükségesek a szintetizálásukhoz, azok nem szerepelnek a listán,
-
-– az olyan anyagokat, amelyeket a természetben előforduló vagy szintetizált makromolekulákból álló anyagok módosítására használnak.
-
-2. Ezen lista nem tartalmazza az engedélyezett savak alumínium-, ammónium-, kalcium-, vas-, magnézium-, kálium-, nátrium- és cinksóit (beleértve a kettős sókat, savanyú sókat), az engedélyezett fenolokat, alkoholokat. Tartalmaz azonban “sav, sók” megjelölést a listán, ha a megfelelő szabad sav(ak) nincs(enek) említve. Ebben az esetben a “sók” kifejezés “alumínium-, ammónium-, kalcium-, vas-, magnézium-, kálium-, nátrium- és cinksókat” jelent.
-
-3. A lista szintén nem tartalmazza a következő anyagokat, bár azok jelen lehetnek:
-
-a) a végtermékben esetleg benne levő anyagokat, mint például:
-
-– a felhasznált anyagok szennyeződéseit,
-
-– intermediereket,
-
-– bomlástermékeket,
-
-b) oligomerek és természetes vagy szintetikus makromolekulákat és keverékeiket, ha a szintetizálásukhoz szükséges monomerek és kiindulási anyagok rajta vannak a listán,
-
-c) az engedélyezett anyagok keverékeit.
-
-Azon anyagoknak és eszközöknek, amelyek az a), b) és c) pontban meghatározott anyagokat tartalmazzák, eleget kell tenniük az MÉ 1-2-89/109 számú előírás 2. §-ában előírt követelményeknek.
-
-4. Az anyagoknak tisztaság tekintetében jó technikai minőségűeknek kell lenniük.
-
-5. A lista a következő információkat tartalmazza:
-
-1. oszlop (EGK-szám) : a listán levő anyagok EGK szerinti referenciaszáma
-
-2. oszlop (CAS-szám) : a CAS (Chemical Abstracts Service) regisztrációs száma
-
-3. oszlop (Név) : a kémiai név
-
-4. oszlop (Korlátozások, illetve előírások), amelyek lehetnek:
-
-– speciális kioldódási (migrációs) határérték (SKH),
-
-– az anyag maximálisan megengedett mennyisége a műanyagban vagy eszközben (MM),
-
-– az anyag maximálisan megengedett mennyisége a műanyagban vagy eszközben, mg/6 dm2 élelmiszerrel érintkező felületben kifejezve (MMF),
-
-– bármely más, külön megemlített korlátozás,
-
-– bármely más, külön említett előírás, amely az anyagra vagy a polimerre vonatkozik.
-
-6. Ha valamely, a listán egyedileg feltüntetett anyag másik általános megnevezés alá is esik, a vonatkozó korlátozásokat mindig az egyedi vegyületre kell alkalmazni.
-
-7. Ha ellentmondás van a CAS-szám és a kémiai név között, a kémiai névnek kell elsőbbséget biztosítani. Ha bármilyen ellentmondás van a CAS-regiszterben és az EINECS[^*-ben] közölt CAS-szám között, a CAS-regiszter a meghatározó.
-
-8. A táblázat 4. oszlopában levő rövidítések vagy kifejezések jelentései a következők:
-
-KH = a vizsgálati módszer kimutatási határa;
-
-KT = kész anyag vagy eszköz;
-
-ICE = izocianát-egyenérték;
-
-NK = nem kimutatható, ezen előírás szempontjából azt jelenti, hogy az anyagot nem lehet kimutatni azzal a validált analitikai módszerrel, amellyel ki lehet mutatni a kimutatási határon (KH). Ha jelenleg ilyen módszer nincs, olyan analitikai módszer alkalmazható, amely az adott határértéknek megfelelő érzékenységű;
-
-MM = a „maradék” anyag maximálisan megengedett mennyisége a műanyagban vagy műanyag eszközben. A műanyagban vagy műanyag eszközben lévő anyag mennyiségét validált analitikai módszerrel kell meghatározni. Ilyen módszer hiányában a validált módszer kidolgozásáig olyan analitikai módszer alkalmazható, amely az előírt határértéken megfelelő érzékenységű;
-
-MM(E) = a „maradék anyag” maximálisan megengedett mennyisége a műanyagban vagy eszközben összes egyenértékben vagy a jelzett anyag(ok)ban kifejezve, amelyet validált analitikai módszerrel kell meghatározni. Ha jelenleg ilyen módszer nincs, olyan analitikai módszer alkalmazható, amely az előírt határértéknek megfelelő érzékenységű;
-
-MMF = a „maradék anyag” maximálisan megengedett mennyisége a műanyag késztermékben vagy eszközben mg/6 dm2 élelmiszerrel érintkező felületben kifejezve. A műanyag vagy a műanyag eszköz élelmiszerrel érintkező felületére jutó anyag mennyiségét megfelelő érzékenységű validált analitikai módszerrel kell meghatározni. Ha jelenleg ilyen módszer nincs, olyan analitikai módszer alkalmazható, amely az előírt határértéknek megfelelő érzékenységű;
-
-MMF(E) = a „maradék anyag” maximálisan megengedett mennyisége a műanyagban vagy eszközben összes egyenértékben vagy a jelzett anyag(ok)ban kifejezve, mg/6 dm2 élelmiszerrel érintkező felületegységben megadva, amelyet megfelelő érzékenységű validált analitikai módszerrel kell meghatározni. Ha jelenleg ilyen módszer nincs, olyan analitikai módszer alkalmazható, amely az előírt határértéknek megfelelő érzékenységű;
-
-SKH = egyedi kioldódási határérték az élelmiszerben vagy az élelmiszer-utánzó modelloldószerben, eltérő rendelkezés hiányában. A kioldódást validált analitikai módszerrel kell meghatározni. Ha jelenleg ilyen módszer nincs, olyan analitikai módszer alkalmazható, amely az adott határértéknek megfelelő érzékenységű;
-
-SKH(E)= egyedi kioldódási határérték az élelmiszerben vagy az élelmiszer-utánzó modelloldószerben összes egyenértékben vagy a jelzett anyag(ok)ban kifejezve. A kioldódást validált analitikai módszerrel kell meghatározni. Ha jelenleg ilyen módszer nincs, olyan analitikai módszer alkalmazható, amely az adott határértéknek megfelelő érzékenységű.
-
-A) rész
-
-Engedélyezett monomerek és más kiindulási anyagok
-
-| EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
-
-| 1. | 2. | 3. | 4. |
-
-| 10030 | 000514-10-3 | Abietinsav |  |
-
-| 10060 | 000075-07-0 | Acetaldehid | SKH(E)=6 mg/kg (2)* |
-
-| 10090 | 000064-19-7 | Ecetsav |  |
-
-| 10120 | 000108-05-4 | Vinil-acetát | SKH=12 mg/kg |
-
-| 10150 | 000108-24-7 | Ecetsavanhidrid |  |
-
-| 10210 | 000074-86-2 | Acetilén |  |
-
-|  |  | Zsírsavak: |  |
-
-| 10599/90A | 061788-89-4 | Telítetlen (C 18) zsírsavak dimerjei, desztillálva | MMF(E)=0,05 mg/6 dm2 (27) |
-
-| 10599/91 | 061788-89-4 | Telítetlen (C 18) zsírsavak dimerjei, desztillálás nélkül | MMF(E)=0,05 mg/6 dm2 (27) |
-
-| 10599/92A | 068783-41-5 | Hidrogénezett telítetlen (C 18) zsírsavak dimerjei, desztillálva | MMF(E)=0,05 mg/6 dm2 (27) |
-
-| 10599/93 | 068783-41-5 | Hidrogénezett telítetlen (C 18) zsírsavak dimerjei, desztillálás nélkül | SKH=0,05 mg/kg (27) |
-
-| 10630 | 000079-06-1 | Akrilamid | SKH=NK (KH=0,01 mg/kg) |
-
-| 10660 | 015214-89-8 | 2-Akrilamido-2-metil-propánszulfonsav |  |
-
-| 10690 | 000079-10-7 | Akrilsav |  |
-
-|  |  | Akrilsavészterek: |  |
-
-| 10750 | 002495-35-4 | Benzil-akrilát |  |
-
-| 10780 | 000141-32-2 | Butil-akrilát |  |
-
-| 10810 | 002998-08-5 | Szek-butil-akrilát |  |
-
-| 10840 | 001663-39-4 | Terc-butil-akrilát |  |
-
-| 11000 | 050976-02-8 | Diciklopentadienil-akrilát | MMF=0,05 mg/6 dm2 |
-
-| 11245 | 002156-97-0 | Dodecil-akrilát | SKH=0,05 mg/kg (1) |
-
-| 11470 | 000140-88-5 | Etil-akrilát |  |
-
-| 11510 | 000818-61-1 | (2-Hidroxietil)-akrilát | Lásd az akrilsav etilénglikollal alkotott monoészterét |
-
-| 11530 | 000999-61-1 | (2-Hidroxipropil)-akrilát | MMF=0,05 mg/6 dm2 a (2-Hidroxi-propil)-akrilát és a (2-Hidroxiizopropil)-akrilát össz-mennyisége az 5. számú melléklet szerint |
-
-| 11590 | 000106-63-8 | Izobutil-akrilát |  |
-
-| 11680 | 000689-12-3 | Izopropil-akrilát |  |
-
-| 11710 | 000096-33-3 | Metil-akrilát |  |
-
-| 11830 | 000818-61-1 | Akrilsav etilénglikollal alkotott monoésztere |  |
-
-| 11890 | 002499-59-4 | Oktil-akrilát |  |
-
-| 11980 | 000925-60-0 | Propil-akrilát |  |
-
-| 12100 | 000107-13-1 | Akrilnitril | SKH=NK (KH=0,020 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 12130 | 000124-04-9 | Adipinsav |  |
-
-| 12265 | 004074-90-2 | Divinil-adipát | MM=5 mg/kg KT-ben csak komonomer esetében |
-
-| 12280 | 002035-75-8 | Adipinsav-anhidrid |  |
-
-| 12310 |  | Albumin |  |
-
-| 12340 |  | Albumin, formaldehiddel koagulálva |  |
-
-| 12375 |  | Alifás, egyértékű, telített, el nem ágazó, primer alkoholok (C4-C22) |  |
-
-| 12670 | 002855-13-2 | 1-Amino-3-aminometil- 3,5,5- -trimetilciklohexán | SKH=6 mg/kg |
-
-| 12761 | 000693-57-2 | 12-Aminododekánsav | SKH=0,05 mg/kg |
-
-| 12763 | 000141-43-5 | 2-aminoetanol | SKH=0,05 mg/kg. Nem használható azokhoz az élelmiszerrel érintkező polimerekhez, amelyekhez az MÉ 1-2-82/711 számú előírás 5. §-a D modell- oldat használatát írja elő, és az élelmiszerrel csak közvetetten PET-rétegen át érintkezik |
-
-| 12765 | 084434-12-8 | N-(2-Aminoetil)-β-alanin-natriumsó | SKH=0,05 mg/kg |
-
-| 12788 | 002432-99-7 | 11-Aminoundekánsav | SKH=5 mg/kg |
-
-| 12789 | 007664-41-7 | Ammónia |  |
-
-| 12820 | 000123-99-9 | Azealinsav |  |
-
-| 12970 | 004196-95-6 | Azealinsav-anhidrid |  |
-
-| 13000 | 001477-55-0 | 1,3-Benzoldimetánamin | SKH=0,05 mg/kg |
-
-| 13060 | 004422-95-1 | 1,3,5-Benzoltrikarbonil-triklorid | MMF=0,05 mg/6 dm2 benzol-1,3,5 trikarbonsavban mérve |
-
-| 13075 | 00091-76-9 | Benzoguanamin | Lásd a “2,4-diamino-6-fenil- -1,3,5-triazin”-t |
-
-| 13090 | 000065-85-0 | Benzoesav |  |
-
-| 13150 | 000100-51-6 | Benzil-alkohol |  |
-
-| 13180 | 000498-66-8 | Biciklo[2.2.1]hept-2-én (norbornén) | SKH=0,05 mg/kg |
-
-| 13210 | 001761-71-3 | Bisz(4-aminociklohexil)metán | SKH=0,05 mg/kg |
-
-| 13323 | 000102-40-9 | 1,3-Bisz(2-hidroxi)benzol | SKH=0,05 mg/kg |
-
-| 13326 | 000111-46-6 | Bisz(2-hidroxietil)-éter | Lásd a “dietilénglikol”-t |
-
-| 13380 | 000077-99-6 | 2,2-Bisz(hidroximetil)bután-1-ol | Lásd az “1,1,1-trimetilolpropán”-t |
-
-| 13390 | 000105-08-8 | 1,4-Bisz(hidroximetil)ciklohexán |  |
-
-| 13395 | 004767-03-7 | 2,2-Bisz(hidroximetil)propionsav | MMF=0,6 mg/ 6 dm2 (28) |
-
-| 13480 | 000080-05-7 | 2,2-Bisz(4-hidroxifenil)propán | SKH=3 mg/kg (28) |
-
-| 13510 | 001675-54-3 | 2,2-Bisz(4-hidroxifenil)propán bisz(2,3-epoxipropil)-étere (BADGE) | Az MÉ 1-2-16/2002 számú előírás szerint |
-
-| 13530 | 038103-06-9 | Bisz⎨5,5’-[(1-metiletilidén)- -bisz(4,1-fenilénoxi)]- izobenzofurán-1,3-dion⎬ | SKH=0,05 mg/kg |
-
-| 13550 | 000110-98-5 | Bisz(hidroxipropil)-éter | Lásd a „dipropilénglikol”-t |
-
-| 13560 | 0005124-30-1 | Bisz(4-izocianátociklohexil)metán | Lásd a „diciklohexil-metán-4,4'- -diizocianát”-ot |
-
-| 13600 | 047465-97-4 | 3,3-Bisz(3-metil-4-hidroxifenil)- indolin-2-on | SKH=1,8 mg/kg |
-
-| 13607 | 000080-05-7 | Biszfenol A | Lásd a „2,2-bisz(4-hidroxifenil)- -propán)”-t |
-
-| 13610 | 001675-54-3 | Biszfenol A bisz(2,3-epoxipropil)- -éter | Lásd a „2,2-bisz(4-hidroxifenil) propán”-bisz(2,3-epoxipropil)- -éter”-t |
-
-| 13614 | 038103-06-9 | Biszfenol A bisz(ftálsav-anhidrid) | Lásd a „bisz⎨5,5’-[(1-metiletilidén)- -bisz(4,1-fenilénoxi)]- izobenzofurán-1,3-dion⎬” -t |
-
-| 13617 | 000080-09-1 | Biszfenol S | Lásd a “bisz(4-hidroxifenil)-szulfon”-t |
-
-| 13620 | 010043-35-3 | Bórsav | SKH(E)=6 mg/kg (23) (bórban kifejezve) figyelembe véve az ivóvíz előírást |
-
-| 13630 | 000106-99-0 | Buta-1,3-dién | MM=1 mg/kg KT-ben vagy SKH= NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 13690 | 000107-88-0 | Bután-1,3-diol |  |
-
-| 13720 | 000110-63-4 | Bután-1,4-diol | SKH(E)=0,05 mg/kg (24) |
-
-| 13780 | 002425-79-8 | Bután-1,4-diol⎯bisz (2,3-epoxi- propil)-éter | MM=1 mg/kg KT-ben (43-as moltömegű epoxiszámban kifejezve) |
-
-| 13810 | 000505-65-7 | 1,3-Dioxepán | MMF=0,05 mg/6 dm2 |
-
-| 13840 | 000071-36-3 | Bután-1-ol |  |
-
-| 13870 | 000106-98-9 | But-1-én |  |
-
-| 13900 | 000107-01-7 | But-2-én |  |
-
-| 13932 | 000598-32-3 | But-3-én-2-ol | MMF=NK (KH=0,02 mg/6 dm2 ) Csak polimeradalék komonomerből való gyártásához. |
-
-| 14020 | 000098-54-4 | 4-terc-Butilfenol | SKH=0,05 mg/kg |
-
-| 14110 | 000123-72-8 | Butiraldehid |  |
-
-| 14140 | 000107-92-6 | Vajsav |  |
-
-| 14170 | 000106-31-0 | Vajsav-anhidrid |  |
-
-| 14200 | 000105-60-2 | Kaprolaktám | SKH(E)/=15 mg/kg (5) |
-
-| 14230 | 002123-24-2 | Kaprolaktám nátriumsó | SKH(E)=15 mg/kg (5) (kaprolaktámban kifejezve) |
-
-| 14320 | 000124-07-2 | Kaprilsav |  |
-
-| 14350 | 000630-08-0 | Szén-monoxid |  |
-
-| 14380 | 000075-44-5 | Karbonil-diklorid (foszgén) | MM=1 mg/kg KT-ben |
-
-| 14411 | 008001-79-4 | Ricinusolaj |  |
-
-| 14500 | 009004-34-6 | Cellulóz |  |
-
-| 14530 | 007782-50-5 | Klór |  |
-
-| 14570 | 000106-89-8 | 2,3-epoxi-1-klórpropán | Lásd az “epiklórhidrin”-t |
-
-| 14627 | 0000117–21–5 | 3-klórftálsav-anhidrid | SKH = 0,05 mg/kg, 3-klórftálsavként kifejezve |
-
-| 14628 | 0000118–45–6 | 4-klórftálsav-anhidrid | SKH = 0,05 mg/kg, 4-klórftálsavként kifejezve |
-
-| 14650 | 000079-38-9 | Trifluor-klór-etilén | MMF=0,5 mg/6 dm2 |
-
-| 14680 | 000077-92-9 | Citromsav |  |
-
-| 14710 | 000108-39-4 | m-Krezol |  |
-
-| 14740 | 000095-48-7 | o-Krezol |  |
-
-| 14770 | 000106-44-5 | p-Krezol |  |
-
-| 14800 | 003724-65-0 | Krotonsav | MMF(E)=0,05 mg/6 dm2 (33) |
-
-| 14841 | 000599-64-4 | 4-(4-izopropilfenil)fenol (4-kumilfenol) | SKH=0,05 mg/kg |
-
-| 14876 | 0001076–97–7 | 1,4-ciklohexán-dikarboxilsav | SKH = 5 mg/kg Kizárólag poliészterek előállításához használható |
-
-| 14880 | 000105-08-8 | Ciklohexán-1,4-dimetanol | Lásd az „1,4-bisz(hidroximetil)cik-lohexán”-t |
-
-| 14950 | 003173-53-3 | Ciklohexil-izocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 15030 | 000931-88-4 | Ciklooktén | SKH=0,05 mg/kg. Csak azokhoz az élelmiszerekkel érintkező polimerekhez, amelyekhez az MÉ 1-2-82/711 számú előírás „A” modell oldat használatát írja elő |
-
-| 15070 | 001647-16-1 | Deka-1,9-dién | SKH=0,05 mg/kg |
-
-| 15095 | 000334-48-5 | Dekánsav |  |
-
-| 15100 | 000112-30-1 | Dekán-1-ol (decil-alkohol) |  |
-
-| 15130 | 000872-05-9 | Dec-1-én | SKH=0,05 mg/kg |
-
-| 15250 | 000110-60-1 | Bután-1,4-diamin (1,4-Diaminobután) |  |
-
-| 15272 | 000107-15-3 | Etán-1,2-diamin (1,2-Diaminoetán) | Lásd az “etiléndiamin”-t |
-
-| 15274 | 000124-09-4 | Hexán-1,6-diamin (1,6-Diaminohexán) | Lásd a “hexametiléndiamin”-t |
-
-| 15310 | 000091-76-9 | 2,4-Diamino-6-fenil-1,3,5-triazin | MM(E)=5 mg/ 6dm2 |
-
-| 15565 | 000106-46-7 | 1,4-Diklórbenzol | SKH=12 mg/kg |
-
-| 15610 | 000080-07-9 | Bisz(4-klórfenil)-szulfon | SKH=0,05 mg/kg |
-
-| 15700 | 005124-30-1 | Metilénbisz(ciklohexil-4-izocianát) | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 15760 | 000111-46-6 | Dietilénglikol | SKH(E)=30 mg/kg (3) |
-
-| 15790 | 000111-40-0 | N-(2-Aminoetil)-etán-1,2-diamin | SKH=5 mg/kg |
-
-| 15820 | 000345-92-6 | 4,4'-Difluorbenzofenon | SKH 0,05 mg/kg |
-
-| 15880 | 000120-80-9 | Benzol-1,2-diol (pirokatechin) | SKH=6 mg/kg |
-
-| 15910 | 000108-46-3 | Benzol-1,3-diol (rezorcin) | SKH=2,4 mg/kg |
-
-| 15940 | 000123-31-9 | Benzol-1,4-diol (hidrokinon) | SKH=0,6 mg/kg |
-
-| 15970 | 000611-99-4 | 4,4'-Dihidroxibenzofenon | SKH=6 mg/kg (15) |
-
-| 16000 | 000092-88-6 | 4,4'-Dihidroxibifenil | SKH=6 mg/kg |
-
-| 16090 | 000080-09-1 | Bisz(4-hidroxifenil)-szulfon | SKH=0,05 mg/kg |
-
-| 16150 | 000108-01-0 | 2-(Dimetilamino)etanol | SKH=18 mg/kg |
-
-| 16210 | 006864-37-5 | Bisz(4-amino-3-metilciklohexil)-metán | SKH=0,05 mg/kg. Csak poliamidokhoz használható. |
-
-| 16240 | 000091-97-4 | 3,3'-Dimetil-4,4'-diizocianátobifenil | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 16360 | 000576-26-1 | 2,6-Dimetilfenol | SKH=0,05 mg/kg |
-
-| 16390 | 000126-30-7 | 2,2-Dimetilpropán-1,3-diol | SKH=0,05 mg/kg |
-
-| 16450 | 000646-06-0 | 1,3-Dioxolán | SKH=0,05 mg/kg |
-
-| 16480 | 000126-58-9 | Dipentaeritril | SKH=0,05 mg/kg |
-
-| 16540 | 000102-09-0 | Difenil-karbonát | SKH=0,05 mg/kg |
-
-| 16570 | 004128-73-8 | Oxi-bisz(fenil-4-izocianát) | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 16600 | 005873-54-1 | Difenilmetán-2,4’-diizocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 16630 | 000101-68-8 | Difenilmetán-4,4’-diizocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 16650 | 000127-63-9 | Difenil-szulfon | SKH(E)=3 mg/kg (25) |
-
-| 16660 | 000110-98-5 | Dipropilénglikol |  |
-
-| 16690 | 001321-74-0 | Divinilbenzol | MMF=0,01 mg/6dm2 vagy az SKH=NK (KH=0,02 mg/kg, beleértve a vizsgálati módszer hibáját is) a divinil-benzol és etilvinil-benzol összege az 5. számú melléklet specifikációjával összhangban |
-
-| 16694 | 013811-50-2 | N,N’-Divinilimidazolidin-2-on | MM=5 mg/kg KT-ben |
-
-| 16697 | 000693-23-2 | Dodekándisav |  |
-
-| 16704 | 000112-41-4 | Dodec-1-én | SKH=0,05 mg/kg |
-
-| 16750 | 000106-89-8 | Epiklórhidrin | MM(E)=1 mg/kg KT-ben |
-
-| 16780 | 000064-17-5 | Etanol |  |
-
-| 16950 | 000074-85-1 | Etilén |  |
-
-| 16960 | 000107-15-3 | Etilén-diamin | SKH=12 mg/kg |
-
-| 16990 | 000107-21-1 | Etilénglikol | SKH(E)=30 mg/kg (3) |
-
-| 17005 | 000151-56-4 | Etilén-imin | SKH=NK (KH =0,01 mg/kg) |
-
-| 17020 | 000075-21-8 | Etilén-oxid | MM=1 mg/kg KT-ben |
-
-| 17050 | 000104-76-7 | 2-Etilhexán-1-ol | SKH=30 mg/kg |
-
-| 17110 | 016219-75-3 | 5-Etilidén-biciklo[2.2.1]hept-2-én | MMF=0,05 mg/6 dm2 A felület/élelmiszeregység arányának 2 dm2 -nél kisebbnek kell lenni. |
-
-| 17160 | 000097-53-0 | Eugenol | SKH=NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 17170 | 061788-47-4 | Kókuszzsírsavak |  |
-
-| 17200 | 068308-53-2 | Szójazsírsavak |  |
-
-| 17230 | 061790-12-3 | Tallolaj |  |
-
-| 17260 | 000050-00-0 | Formaldehid | SKH =15 mg/kg (22) |
-
-| 17290 | 000110-17-8 | Fumársav |  |
-
-| 17530 | 000050-99-7 | Glükóz |  |
-
-| 18010 | 000110-94-1 | Glutársav |  |
-
-| 18070 | 000108-55-4 | Glutársav-anhidrid |  |
-
-| 18100 | 000056-81-5 | Glicerin |  |
-
-| 18117 | 0000079–14–1 | Glikolsav | Kizárólag élelmiszerrel való közvetett érintkezésre, polietilén-tereftalát (PET)- réteg mögött |
-
-| 18220 | 068564-88-5 | 11-(Heptilamino)-undekánsav | SKH=0,05 mg/kg (1) |
-
-| 18250 | 000115-28-6 | 1,4,5,6,7,7-Hexaklór-biciklo [2.2.1]hept-5-én-2,3-dikarbonsav | SKH=NK (KH=0,01 mg/kg) |
-
-| 18280 | 000115-27-5 | 4,5,6,7,8,8-Hexaklór-4,7-metano-izobenzofurán-1,3-dion | SKH=NK (KH = 0,01 mg/kg) |
-
-| 18310 | 036653-82-4 | Hexadekán-1-ol |  |
-
-| 18430 | 000116-15-4 | Hexafluorpropilén | SKH=NK (KH= 0,01 mg/kg) |
-
-| 18460 | 000124-09-4 | Hexametilén-diamin | SKH=2,4 mg/kg |
-
-| 18640 | 000822-06-0 | Hexametilén-diizocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 18670 | 000100-97-0 | Hexametilén-tetramin | SKH(E)=15 mg/kg (22) (formaldehidben kifejezve) |
-
-| 18700 | 000629-11-8 | Hexán-1,6-diol | SKH=0,05 mg/kg |
-
-| 18820 | 000592-41-6 | Hex-1-én | SKH=3 mg/kg |
-
-| 18867 | 000123-31-9 | Hidrokinon |  |
-
-| 18880 | 000099-96-7 | p-Hidroxibenzoesav |  |
-
-| 18896 | 001679-51-2 | 4-(Hidroximetil)-ciklohexén | SKH=0,05 mg/kg |
-
-| 18897 | 016712-64-4 | 6-Hidroxinaftalin-2-karbonsav | SKH=0,05 mg/kg |
-
-| 18898 | 000103-90-2 | N-(4-Hidroxifenil)acetamid | SKH=0,05 mg/kg |
-
-| 19000 | 000115-11-7 | Izobutén |  |
-
-| 19060 | 000109-53-5 | Izobutil-vinil-éter | MM=5 mg/kg KT-ben |
-
-| 19110 | 004098-71-9 | 1-Izocianáto-3-izocianátometil- 3,5,5-trimetilciklohexán | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 19150 | 000121-91-5 | Izoftálsav | SKH=5 mg/kg |
-
-| 19210 | 001459-93-4 | Dimetil-izoftalát | SKH=0,05 mg/kg |
-
-| 19243 | 000078-79-5 | Izoprén | Lásd a “2-metil-1,3-butadién”-t |
-
-| 19270 | 000097-65-4 | Itakonsav |  |
-
-| 19460 | 000050-21-5 | Tejsav |  |
-
-| 19470 | 000143-07-7 | Laurinsav |  |
-
-|  |  | Laurinsav észterek: |  |
-
-| 19480 | 002146-71-6 | Vinil-laurát |  |
-
-| 19490 | 000947-04-6 | Laurolaktám | SKH=5 mg/kg |
-
-| 19510 | 011132-73-3 | Lignocellulóz |  |
-
-| 19540 | 000110-16-7 | Maleinsav | SKH(E)=30 mg/kg (4) |
-
-| 19960 | 000108-31-6 | Maleinsav-anhidrid | SKH(E)=30 mg/kg (4) (maleinsavban kifejezve) |
-
-| 19965 | 0006915–15–7 | Almasav | Kizárólag komonomerként használható alifás poliészterekben maximum 1%-ig, moláris alapon |
-
-| 19975 | 000108-78-1 | Melamin | Lásd a „2,4,6-Triamino-1,3,5-triazin”-t |
-
-| 19990 | 000079-39-0 | Metakrilamid | SKH=NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 20020 | 000079-41-4 | Metakrilsav |  |
-
-|  |  | Metakrilsavészterek: |  |
-
-| 20050 | 000096-05-9 | Allil-metakrilát | SKH=0,05 mg/kg |
-
-| 20080 | 002495-37-6 | Benzil-metakrilát |  |
-
-| 20110 | 000097-88-1 | Butil-metakrilát |  |
-
-| 20140 | 002998-18-7 | szek-Butil-metakrilát |  |
-
-| 20170 | 000585-07-9 | terc-Butil-metakrilát |  |
-
-| 20260 | 000101-43-9 | Ciklohexil-metakrilát | SKH=0,05 mg/kg |
-
-| 20410 | 002082-81-7 | Bután-1,4-diol metilakrilát diésztere | SKH=0,05 mg/kg |
-
-| 20440 | 000097-90-5 | Metakrilsav, etilénglikol-diészter | SKH=0,05 mg/kg |
-
-| 20530 | 002867-47-2 | (2-Dimetilaminoetil)-metakrilát | SKH=NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 20590 | 000106-91-2 | (2,3-Epoxipropil)-metakrilát | MM(F)=0,02 mg/6 dm2 |
-
-| 20890 | 000097-63-2 | Etil-metakrilát |  |
-
-| 21010 | 000097-86-9 | Izobutil-metakrilát |  |
-
-| 21100 | 004655-34-9 | Izopropil-metakrilát |  |
-
-| 21130 | 000080-62-6 | Metil-metakrilát |  |
-
-| 21190 | 000868-77-9 | Metakrilsav etilénglikollal alkotott észtere/(2-hidroxietil)-metakrilát/ |  |
-
-| 21280 | 002177-70-0 | Fenil-metakrilát |  |
-
-| 21340 | 002210-28-8 | Propil-metakrilát |  |
-
-| 21400 | 054276-35-6 | (Szulfopropil)metakrilát | MMF=0,05 mg/6 dm2 |
-
-| 21460 | 000760-93-0 | Metakrilsav-anhidrid |  |
-
-| 21490 | 000126-98-7 | Metakrilonitril | SKH=NK (KH=0,020 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 21498 | 0002530–85–0 | [3-(metakriloxi) propil]trimetoxi-szilán | SKH = 0,05 mg/kg Kizárólag szervetlen töltőanyagok felületkezelő szereként használható |
-
-| 21520 | 001561-92-8 | Nátrium-metallil-szulfonát | SKH =5 mg/kg |
-
-| 21550 | 000067-56-1 | Metanol |  |
-
-| 21640 | 000078-79-5 | 2-Metilbuta-1,3-dién | MM=1 mg/kg KT-ben vagy SKH=NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 21730 | 000563-45-1 | 3-Metilbut-1-én | MMF=0,006 mg/6 dm2 Csak polipropilén esetében. |
-
-| 21765 | 106246-33-7 | 4,4’-Metilén-bisz(3-klór-2,6-dimetilanilin) | MMF=0,05 mg/6 dm2 |
-
-| 21821 | 000505-65-7 | 1,4-metiéndioxibután | lásd az “1,3-dioxepán”-t |
-
-| 21940 | 000924-42-5 | N-(Hidroximetil)akrilamid | SKH=NK (KH=0,01 mg/kg) |
-
-| 22150 | 000691-37-2 | 4-metilpent-1-én | SKH=0,05 mg/kg |
-
-| 22331 | 025513-64-8 | 1,6-diamino-2,2,4-trimetilhexán 35-40 % (m/m) és 1,6-diamino-2,4,4-trimetilhexán 60 % (m/m) keveréke | MMF=5 mg/6 dm2 |
-
-| 22332 |  | 2,2,4-Trimetilhexán-1,6-diizocianát (40% m/m) és 2,4,4-trimetilhexán-1,6-diizocianát (60% m/m) keveréke | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 22350 | 000544-63-8 | Mirisztinsav |  |
-
-| 22360 | 001141-38-4 | Naftalin-2,6-dikarbonsav | SKH=5 mg/kg |
-
-| 22390 | 000840-65-3 | Dimetilnaftalin-2,6-dikarboxilát | SKH=0,05 mg/kg |
-
-| 22420 | 003173-72-6 | Naftalin-1,5-diizocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 22437 | 00126-30-7 | Neopentilglikol | Lásd a “2,2-dimetil-propán-1,3-diol”- t |
-
-| 22450 | 009004-70-0 | Nitrocellulóz |  |
-
-| 22480 | 000143-08-8 | Nonán-1-ol |  |
-
-| 22550 | 000498-66-8 | Norbornén | Lásd a „biciklo[2.2.1]hept-2-én”-t |
-
-| 22570 | 000112-96-9 | Oktadecil-izocianát | MM(E) =1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 22600 | 000111-87-5 | Oktán-1-ol |  |
-
-| 22660 | 000111-66-0 | Okt-1-én | SKH=15 mg/kg |
-
-| 22763 | 000112-80-1 | Olajsav |  |
-
-| 22775 | 000144-62-7 | Oxálsav | SKH(E)=6 mg/kg (29) |
-
-| 22778 | 007456-68-0 | 4,4’-Oxibisz(benzolszulfonil-azid) | MMF=0,05 mg/6 dm2 |
-
-| 22780 | 000057-10-3 | Palmintinsav |  |
-
-| 22840 | 000115-77-5 | Pentaeritrit |  |
-
-| 22870 | 000071-41-0 | Pentán-1-ol |  |
-
-| 22900 | 000109-67-1 | Pent-1-én | SKH=5 mg/kg |
-
-| 22937 | 001623-05-8 | Perfluorpropil-perfluorvinil-éter | SKH=0,05 mg/kg |
-
-| 22960 | 000108-95-2 | Fenol |  |
-
-| 23050 | 000108-45-2 | 1,3-Fenilén-diamin | SKH=NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
-
-| 23070 | 000102-39-6 | (1,3-Feniléndioxi)diecetsav | MMF=0,05 mg/6 dm2 |
-
-| 23155 | 000075-44-5 | Foszgén | Lásd a „karbonil-diklorid”-ot |
-
-| 23170 | 007664-38-2 | Foszforsav |  |
-
-| 23175 | 000122-52-1 | Trietil-foszfát | MM=NK (KH=1 mg/kg KT-ben) |
-
-| 23187 | 007664-38-2 | Ftálsav | Lásd a „tereftálsav”-at |
-
-| 23200 | 000088-99-3 | o-Ftálsav |  |
-
-| 23230 | 000131-17-9 | Diallil-ftalát | SKH=NK (KH=0,01 mg/kg) |
-
-| 23380 | 000085-44-9 | Ftálsav-anhidrid |  |
-
-| 23470 | 000080-56-8 | α-Pinén |  |
-
-| 23500 | 000127-91-3 | β-Pinén |  |
-
-| 23547 | 009016-00-6 063148-62-9 | Polidimetilsziloxán (móltömeg nagyobb, mint 6800) | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 23590 | 025322-68-3 | Polietilénglikol |  |
-
-| 23651 | 025322-69-4 | Polipropilénglikol |  |
-
-| 23740 | 000057-55-6 | Propán-1,2-diol |  |
-
-| 23770 | 000504-63-2 | Propán-1,3-diol | SKH=0,05 mg/kg |
-
-| 23800 | 000071-23-8 | Propán-1-ol |  |
-
-| 23830 | 000067-63-0 | Propán-2-ol |  |
-
-| 23860 | 000123-38-6 | Propionaldehid |  |
-
-| 23890 | 000079-09-4 | Propionsav |  |
-
-| 23920 | 000105-38-4 | Vinil-propionát | SKH(E)=6 mg/kg (2) (acetaldehidben kifejezve) |
-
-| 23950 | 000123-62-6 | Propionsav-anhidrid |  |
-
-| 23980 | 000115-07-1 | Propilén |  |
-
-| 24010 | 000075-56-9 | Propilén-oxid | MM=1 mg/kg |
-
-| 24051 | 000120-80-9 | Pirokatechin | Lásd a “benzol-1,2-diol”-t |
-
-| 24057 | 000089-32-7 | Piromellitsav-anhidrid | SKH=0,05 mg/kg (piromellitsavban kifejezve) |
-
-| 24070 | 073138-82-6 | Gyantasavak |  |
-
-| 24072 | 000108-46-3 | Rezorcin | Lásd a “benzol-1,3-diol”-t |
-
-| 24073 | 000101-90-6 | 2,2’-[1,3-Fenilén-bisz(oximetilén)]-biszoxirán „Rezorcin-diglicidil-éter” | MMF=0,005 mg/6 dm2 Nem használható azokhoz az élelmiszerrel érintkező polimerekhez, amelyekhez az MÉ 1-2-82/711 számú előírás 5. §-a D modelloldat használatát írja elő, és az élelmiszerrel csak közvetetten, PET-réteg mögött történő érintkezésben. |
-
-| 24100 | 008050-09-7 | Kolofónium |  |
-
-| 24130 | 008050-09-0 | Kolofóniumgyanta | Lásd a „kolofónium”-ot |
-
-| 24160 | 008052-10-6 | Gyanta tallolaj |  |
-
-| 24190 | 065997-05-9 | Fás gyanta |  |
-
-| 24250 | 009006-04-6 | Természetes gumi |  |
-
-| 24270 | 000069-72-7 | Szalicilsav |  |
-
-| 24280 | 000111-20-6 | Szebacinsav |  |
-
-| 24430 | 002561-88-8 | Szebacinsav-anhidrid |  |
-
-| 24475 | 001313-82-2 | Nátrium-szulfid |  |
-
-| 24490 | 000050-70-4 | Szorbit |  |
-
-| 24520 | 008001-22-7 | Szójaolaj |  |
-
-| 24540 | 009005-25-8 | Keményítő, étkezési |  |
-
-| 24550 | 000057-11-4 | Sztearinsav |  |
-
-| 24610 | 000100-42-5 | Sztirol |  |
-
-| 24760 | 026914-43-2 | Sztirolszulfonsav | SKH=0,05 mg/kg |
-
-| 24820 | 000110-15-6 | Borostyánkősav |  |
-
-| 24850 | 000108-30-5 | Borostyánkősav-anhidrid |  |
-
-| 24880 | 000057-50-1 | Szacharóz |  |
-
-| 24887 | 006362-79-4 | 5-Szulfoizoftálsav, nátriumsó | SKH=5 mg/kg |
-
-| 24888 | 003965-55-7 | 5-Szulfoizoftálsav, nátriumsó, dimetilészter | SKH=0,05 mg/kg |
-
-| 24910 | 000100-21-0 | Tereftálsav | SKH=7,5 mg/kg |
-
-| 24940 | 000100-20-9 | Tereftálsav-diklorid | SKH=7,5 mg/kg (tereftálsavban kifejezve) |
-
-| 24970 | 000120-61-6 | Dimetil-tereftalát |  |
-
-| 25080 | 001120-36-1 | Tetradec-1-én | SKH=0,05 mg/kg |
-
-| 25090 | 000112-60-7 | Tetraetilénglikol |  |
-
-| 25120 | 000116-14-3 | Tetrafluoretilén | SKH=0,05 mg/kg |
-
-| 25150 | 000109-99-9 | Tetrahidrofurán | SKH=0,6 mg/kg |
-
-| 25180 | 000102-60-3 | N,N,N',N'-Tetrakisz(2-hidroxi-propil)etilén-diamin |  |
-
-| 25210 | 000584-84-9 | Toluol-2,4-diizocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 25240 | 000091-08-7 | Toluol-2,6-diizocianát | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 25270 | 026747-90-0 | Toluol-2,4-diizocianát- dimer | MM(E)=1 mg/kg (ICE-ben kifejezve) (26) |
-
-| 25360 |  | (2,3-Epoxipropil)-tri(C5-C15)alkil- -acetát | MM=1 mg/kg KT- ben (43-as móltömegű epoxicsoportban kifejezve) |
-
-| 25380 |  | Vinil-trialkilacetát (alkil: C7 -C17) | MMF=0,05 mg/6 dm2 |
-
-| 25385 | 000102-70-5 | Triallil-amin | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 25420 | 000108-78-1 | 2,4,6-Triamino-1,3,5-triazin | SKH=30 mg/kg |
-
-| 25450 | 026896-48-0 | Triciklo[7.1.0.04.6]dekándimetanol | SKH=0,05 mg/kg |
-
-| 25510 | 000112-27-6 | Trietilénglikol |  |
-
-| 25600 | 000077-99-6 | 2-Etil-2-hidroximetilpropán-1,3-diol | SKH=6 mg/kg |
-
-| 25840 | 003290-92-4 | 1,1,1-Trisz(hidroximetil)propán metakrilsav triésztere | SKH=0,05 mg/kg |
-
-| 25900 | 000110-88-3 | Trioxán | SKH=0,05 mg/kg |
-
-| 25910 | 024800-44-0 | Tripropilénglikol |  |
-
-| 25927 | 027955-94-8 | 1,1,1-Trisz(4-hidroxifenil)etán | MM=0,5 mg/kg KT-ben. Csak polikarbonát esetében. |
-
-| 25960 | 000057-13-6 | Karbamid |  |
-
-| 26050 | 000075-01-4 | Vinil-klorid | Lásd az MÉ számú1-2-78/142 előírást |
-
-| 26110 | 000075-35-4 | Vinilidén-diklorid | MM=5 mg/kg KT-ben vagy SKH=NK (KH= 0,05 mg/kg) |
-
-| 26140 | 000075-38-7 | Vinilidén-difluorid | SKH=5 mg/kg |
-
-| 26155 | 001072-63-5 | 1-Vinilimidazol | MM=5 mg/kg KT-ben |
-
-| 26170 | 003195-78-6 | N-Vinil-N-metil-acetamid | MM = 2 mg/kg KT-ben |
-
-| 26320 | 002768-02-7 | Vinil-trimetoxiszilán | MM=5 mg/kg KT-ben |
-
-| 26360 | 007732-18-5 | Víz | Ivóvízminőségben |
-
-* Az 1–3. számú mellékletre vonatkozóan magyarázat a 6. számú mellékletben.
-
-B) rész
-
-Az A) részbe való besorolásukkal kapcsolatos döntésig felhasználható monomerek és más kiindulási anyagok listája
-
-| EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
-
-| 1. | 2. | 3. | 4. |
-
-| 11500 | 000103-11-7 | (2-Etilhexil)-akrilát |  |
-
-| 13050 | 000528-44-9 | Benzol-1,2,4-trikarbonsav | Lásd a “trimellitsav”-at |
-
-| 14260 | 000502-44-3 | Kaprolakton |  |
-
-| 15730 | 000077-73-6 | 4,7-Metano-3a,4,7,7a-tetrahidro-1H- -indén (Diciklopentadién) |  |
-
-| 18370 | 000592-45-0 | Hexa-1,4-dién |  |
-
-| 21370 | 010595-80-9 | (2-Szulfoetil)-metakrilát |  |
-
-| 21970 | 000923-02-4 | N-(hidroximetil)metakrilamid |  |
-
-| 22210 | 000098-83-9 | α-Metilsztirol |  |
-
-| 25540 | 000528-44-9 | Trimellitsav | MM(E) = 5 mg/kg KT-ben |
-
-| 25550 | 000552-30-7 | Trimellitsav-anhidrid | MM(E) = 5 mg/kg KT-ben (trimellitsavban kifejezve) |
-
-| 26230 | 000088-12-0 | 1-Vinilpirrolidin-2-on |  |
-
-3. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-Az adalék- és segédanyagok listája
-
-Általános bevezetés
-
-1. Ez a melléklet tartalmazza:
-
-a) azokat az anyagokat, amelyeket azért használnak a műanyagok gyártásához, hogy a kívánt technikai célt elérjék a késztermékben, ideértve a „polimer adalékanyagokat” is. Ezek az anyagok tehát benne lehetnek a végtermékben,
-
-b) azokat az anyagokat, amelyek elősegítik megfelelő körülmények kialakulását a polimerizációhoz. (e melléklet alkalmazásában a) és b) pont a továbbiakban: együtt adalékanyagok).
-
-A „polimer adalékanyagok” olyan polimerek, illetve prepolimerek, illetve oligomerek, amelyeket azért adnak a műanyagokhoz, hogy a kívánt technikai célt elérjék a késztermékben, azonban más polimerek nélkül nem használhatók a kész műanyag vagy műanyag termék fő szerkezeti alkotórészeként. Ide tartoznak azok az anyagok is, amelyeket a polimerizáció folyamatához használnak.
-
-A lista nem tartalmazza:
-
-a) azokat az anyagokat, amelyek közvetlen módon befolyásolják a polimerizációt,
-
-b) a színezékeket,
-
-c) az oldószereket.
-
-2. A lista nem tartalmazza az engedélyezett savak (beleértve a kettős sókat és a savanyú sókat): alumínium-, ammónia-, kalcium-, vas-, magnézium-, kálium-, nátrium-, cinksóit, az engedélyezett fenolokat vagy alkoholokat. Tartalmazza azonban a „...sav(ak), sók” megjelölést a listán, ha a megfelelő szabad sav(ak) nincs(enek) említve. Az ilyen esetekben a „sók” kifejezés az „alumínium-, ammónia-, kalcium-, vas-, magnézium-, kálium-, nátrium- és cinksót” jelenti.
-
-3. A lista nem tartalmazza, bár azok jelen lehetnek,
-
-a) azon anyagokat, amelyek benne lehetnek a végtermékben, például:
-
-– a felhasznált anyagok szennyező anyagait,
-
-– intermediereket,
-
-– bomlástermékeket,
-
-b) az engedélyezett anyagok keverékeit.
-
-Azoknak az anyagoknak és eszközöknek, amelyek az a) és b) pont szerinti anyagokat tartalmazzák, eleget kell tenniük az MÉ 1-2-89/109 számú előírás 2. §-ában előírt követelményeknek.
-
-4. Az anyagoknak jó technikai minőségűeknek kell lenniük.
-
-5. A lista a következő információkat tartalmazza:
-
-1. oszlop (EGK-szám): a listán levő anyag EGK szerinti referenciaszáma.
-
-2. oszlop (CAS-szám): a CAS (Chemical Abstracts Service) regisztrációs száma.
-
-3. oszlop (NÉV): a kémiai név.
-
-4. oszlop (Korlátozások): amely lehet
-
-– speciális kioldódási (migrációs) határérték (SKH),
-
-– az anyag maximálisan megengedett mennyisége a műanyagban vagy eszközben (MM),
-
-– az anyag maximálisan megengedett mennyisége a műanyagban vagy eszközben, mg/6 dm2 élelmiszerrel érintkező felületben kifejezve (MMF),
-
-– bármely más, külön megemlített korlátozás,
-
-– bármely más, külön említett előírás, amely az anyagra vagy a polimerre vonatkozik.
-
-6. Ha a listán egyedileg feltüntetett anyag más általános megnevezés alá is esik, a vonatkozó korlátozásokat mindig az egyedi vegyületre kell alkalmazni.
-
-7. Ha ellentmondás van a CAS-szám és a kémiai név között, a kémiai névnek kell elsőbbséget biztosítani. Ha bármilyen ellentmondás van a CAS-regiszterben és az EINECS-ben közölt CAS-szám között, a CAS-regiszter a meghatározó.
-
-A) rész
-
-Az adalék- és segédanyagok listája
-
-| EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
-
-| 1. | 2. | 3. | 4. |
-
-| 30000 | 000064-19-7 | Ecetsav |  |
-
-|  |  | Ecetsavészterek: |  |
-
-| 30045 | 000123-86-4 | Butil-acetát |  |
-
-| 30080 | 004180-12-5 | Ecetsav rézsója | SKH(E)=30 mg/kg (7) (rézben kifejezve) |
-
-| 30140 | 000141-78-6 | Etil-acetát |  |
-
-| 30280 | 000108-24-7 | Ecetsav-anhidrid |  |
-
-| 30295 | 000067-64-1 | Aceton |  |
-
-| 30370 | ⎯ | Acetecetsav sók |  |
-
-| 30400 | ⎯ | Acilezett gliceridek |  |
-
-| 30607 | – | Alifás, el nem ágazó (C2–C24) szénatomszámú, természetes olajokból és zsírokból származó savak, lítiumsó | SKH(T) = 0,6 mg/kg (lítiumként kifejezve)(8) |
-
-| 30610 | — | C2-C24 szénatomszámú alifás el nem ágazó természetes olajokból és zsírokból származó mono-karbonsavak és ezek glicerinnel alkotott mono-, di- és triészterei (elágazó láncú zsírsavakat a természetes arányig tartalmaz) |  |
-
-| 30612 | — | C2-C24 szénatomszámú alifás el nem ágazó, szintetikus mono-karbonsavak és azok glicerinnel alkotott mono-, di- és triészterei |  |
-
-| 30960 | ⎯ | Alifás (C6-C22) monokarbon-savak poliglicerin észterei |  |
-
-| 31328 | ⎯ | Zsírsavak, állati vagy növényi zsírok |  |
-
-| 31530 | 123968-25-2 | 2,4-Di(terc-pentil)-6-{1-[3,5- -di(terc-pentil)-2-hidroxi- fenil]etil}fenil-akrilát | SKH=5 mg/kg |
-
-| 31730 | 000124-04-9 | Adipinsav |  |
-
-| 33105 | 0146340–15–0 | (C12–14) szénatomszámú szekunder alkoholok, β-(2-hidroxietoxi), etoxilálva | SKH = 5 mg/kg(44) |
-
-| 33120 | ⎯ | Telített, el nem ágazó egyértékű, alifás (C4-C24) primer alkoholok |  |
-
-| 33350 | 009005-32-7 | Alginsav |  |
-
-| 33535 | 0152261–33–1 | α-alkének (C20–C24), malein anhidrid kopolimere, 4-amino– 2,2,6,6-tetrametil-piperidinnel lejátszódó reakció terméke | Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyakban, melyekre a D-modellanyagot határozták meg. Nem használható alkoholos élemiszerekkel való érintkezéskor |
-
-| 33801 | — | Alkilbenzolszulfonsav (alkil: C10-C20) | SKH=30 mg/kg |
-
-| 34240 | — | Alkánszulfonsav fenolészterei (alkil: C10-C20) | SKH=6 mg/kg |
-
-| 34281 | ⎯ | El nem ágazó, egyértékű, páros szénatomszámú (C8-C22) alkánszulfonsavak |  |
-
-| 34475 | ⎯ | Aluminium - kalcium - hidroxid- -foszfit-hidrát |  |
-
-| 34480 | ⎯ | Alumíniumszál, -forgács, -por |  |
-
-| 34560 | 021645-51-2 | Alumínium-hidroxid |  |
-
-| 34690 | 011097-59-9 | Bázikus alumínium-magnézium- -karbonát |  |
-
-| 34720 | 001344-28-1 | Alumínium-oxid |  |
-
-| 34850 | 149325-92-2 | Aminok, bisz(hidrogénezett tallolaj-alkil), oxidálva | MM= csak a következő felhasználásra: a) poliolefinekben 0,1% (m/m) koncentrációban, de LDPE-ben nem, ha olyan élelmiszerrel kerül érintkezésbe, amelyekre a MÉ 1-2-82/711 számú előírás 3-nál kisebb csökkentő faktort ír elő. b) PET-ben 0,25 % (m/m) koncentrációban, ha a műanyag olyan élelmiszerrel érintkezik, amelyre a MÉ-82/711 számú előírás D modell oldószert ír elő. |
-
-| 34895 | 000088-68-6 | 2-Aminobenzamid | SKH= 0,05 mg/kg. Csak vízhez és italokhoz szánt PET-hez. |
-
-| 35120 | 013560-49-1 | 3-Amino-krotonsav bisz(2-hid- roxi-etil)-szulfiddal alkotott diésztere |  |
-
-| 35160 | 006642-31-5 | 6-Amino-1,3-dimetiluracil | SKH=5 mg/kg |
-
-| 35170 | 000141-43-5 | 2-Aminoetanol | SKH=0,05 mg/kg Nem használható azokhoz a műanyagokhoz, amelyekhez az MÉ 1-2-82/711 számú előírás 5. §-a D modelloldat használatát írja elő, és élelmiszerrel csak közvetetten PET rétegen át érintkezik. |
-
-| 35284 | 00111-41-1 | 2-[(2-Aminoetilamino)]etanol | SKH=0,05 mg/kg Nem használható azohoz a műanyagokhoz, amelyekhez az MÉ 1-2-82/711 számú előírás 5. §-a D modelloldat használatát írja elő, és élelmiszerrel csak közvetetten PET rétegen át érintkezik. |
-
-| 35320 | 007664-41-7 | Ammónia |  |
-
-| 35440 | 012124-97-9 | Ammónium-bromid |  |
-
-| 35600 | 001336-21-6 | Ammónium-hidroxid |  |
-
-| 35840 | 000506-30-9 | Arachinsav (eikozánsav) |  |
-
-| 35845 | 007771-44-0 | Arachidonsav |  |
-
-| 36000 | 000050-81-7 | Aszkorbinsav |  |
-
-| 36080 | 000137-66-6 | Aszkorbinsav-palmitát |  |
-
-| 36160 | 010605-09-1 | Aszkorbinsav-sztearát |  |
-
-| 36640 | 000123-77-3 | Azodikarbonamid | Csak habosítóanyagként használható 2005. augusztus 5-ig |
-
-| 36840 | 012007-55-5 | Bárium-tetraborát | SKH(E)=1 mg/kg (12) (báriumban kifejezve) és SKH(E)=6 mg/kg (23) (bórban kifejezve) az ivóvíz előírás figyelembevételével. |
-
-| 36880 | 008012-89-3 | Méhviasz |  |
-
-| 36960 | 003061-75-4 | Behénamid |  |
-
-| 37040 | 000112-85-6 | Behénsav |  |
-
-| 37280 | 001302-78-9 | Bentonit |  |
-
-| 37360 | 000100-52-7 | Benzaldehid | 6. számú melléklet 9. megjegyzése szerint |
-
-| 37600 | 000065-85-0 | Benzoesav |  |
-
-|  |  | Benzoésav észterek: |  |
-
-| 37680 | 000136-60-7 | Butil-benzoát |  |
-
-| 37840 | 000093-89-0 | Etil-benzoát |  |
-
-| 38080 | 000093-58-3 | Metil-benzoát |  |
-
-| 38160 | 002315-68-6 | Propil-benzoát |  |
-
-| 38320 | 005242-49-9 | 4-(Benzoxazol-2-il)-4'- -(5-metilbenzoxazol-2-il)stilbén | Az 5. számú melléklet szerinti követelményeknek megfelelően |
-
-| 38510 | 136504-96-6 | Az 1,2-bisz(3-aminopropil)etilén- -diamin, N-butil-2,2,6,6- -tetrametilpiperidin-4-amin és a 2,4,6-triklór-1,3,5-triazin polimere | SKH=5 mg/kg |
-
-| 38515 | 001533-45-5 | 4,4-Bisz(benzoxazol-2-il)stilbén | SKH=0,05 mg/ kg (1) |
-
-| 38550 | 0882073–43–0 | bisz(4-propilbenzilidén)propil- szorbitol | SKH = 5 mg/kg (beleértve hidrolízis- termékeinek összegét is) |
-
-| 38810 | 080693-00-1 | Bisz[2,6-di(terc-butil)-4-metil-fenil]pentaeritit-difoszfit | SKH=5 mg/kg (foszfit és foszfát összesen) |
-
-| 38840 | 154862-43-8 | Bisz(2,4- -dikumilfenilpentaeretrit)difoszfit | SKH=5 mg/kg magának az anyagnak, oxidált formájának, bisz(2,4- -dikumilfenilpentaerit)difoszfát és hidrolizis termékének(2,4- -dikumilfenol) összege. |
-
-| 38879 | 135861-56-2 | Bisz(3,4-dimetilbenzilidén)-szorbit |  |
-
-| 38950 | 079072-96-1 | Bisz(4-etilbenzilidén)-szorbit |  |
-
-| 39200 | 006200-40-4 | Bisz(2-hidroxietil)-2-hidroxipropil- -3-(dodeciloxi)metil- -ammónium-klorid | SKH=1,8 mg/kg |
-
-| 39680 | 000080-05-7 | 2,2-Bisz(4-hidroxifenil)-propán | SKH(E)= 0,6 mg/kg (28) |
-
-| 39815 | 182121-12-6 | 9,9-Bisz(metoximetil)fluorén | MMF=0,05 mg/6 dm2 |
-
-|  |  | Bisz(metilbenzilidén)-szorbitok: |  |
-
-| 39890 | 087826-41-3 | 1,3:2,4-Bisz-O-[(metilfenil)- -metilén]-szorbit |  |
-
-|  | 069158-41-4 | 1,3:2,4-Bisz-O-(1-feniletilidén)- -szorbit |  |
-
-|  | 054686-97-4 | Bisz-O-(4-metilbenzilidén)- -szorbit |  |
-
-|  | 081541-12-0 | 1,3:2,4-Bisz-O-[(4-metilfenil)- -metilén]-D-glucit |  |
-
-| 39925 | 129228-21-3 | 3,3-Bisz(metoximetil)-2,5- -dimetilhexán | SKH=0,05 mg/kg |
-
-| 40120 | 068951-50-8 | Bisz(polietilénglikol)-hidroxi- metilfoszfonát | SKH=0,6 mg/kg |
-
-| 40155 | 0124172–53–8 | N,N’-bisz(2,2,6,6-tetrametil-4-piperidil)-N,N’-diformil-hexametilén-diamin | SKH = 0,05 mg/kg(1)(44) |
-
-| 40320 | 10043-35-3 | Bórsav | SKH(E)=6 mg/kg (23) (bórban kifejezve), az ivóvíz előírás figyelembevételével. |
-
-| 40400 | 010043-11-5 | Bór-nitrid |  |
-
-| 40570 | 000106-97-8 | Bután |  |
-
-| 40580 | 000110-63-4 | Bután-1,4-diol | SKH(E)=0,05 mg/kg (24) |
-
-| 41040 | 005743-36-2 | Kalcium-butirát |  |
-
-| 41120 | 010043-52-4 | Kalcium-klorid |  |
-
-| 41280 | 001305-62-0 | Kalcium-hidroxid |  |
-
-| 41520 | 001305-78-8 | Kalcium-oxid |  |
-
-| 41600 | 012004-14-7 | Kalcium-szulfo-aluminát |  |
-
-|  | 037293-22-4 | Alumínium-kalcium-oxid- -szulfát |  |
-
-| 41680 | 000076-22-2 | Kámfor | A 6. számú melléklet 9. megjegyzése szerint |
-
-| 41760 | 008006-44-8 | Kandelillaviasz |  |
-
-| 41840 | 000105-60-2 | Kaprolaktám | SKH(E)=15 mg/kg (5) |
-
-| 41960 | 000124-07-2 | Kaprilsav |  |
-
-| 42160 | 000124-38-9 | Szén-dioxid |  |
-
-| 42320 | 007492-68-4 | Szénsavas rézsók | SKH(E)=30 mg/kg (7) (rézben kifejezve) |
-
-| 42500 | ⎯ | Szénsav sók |  |
-
-| 42640 | 009000-11-7 | (Karboxi-metil)-cellulóz |  |
-
-| 42720 | 008015-86-9 | Lignocerinviasz |  |
-
-| 42800 | 009000-71-9 | Kazein |  |
-
-| 42880 | 008001-79-4 | Ricinusolaj |  |
-
-| 42960 | 064147-40-6 | Dehidratált ricinusolaj |  |
-
-| 43200 | — | Ricinusolaj mono- és digliceridjei |  |
-
-| 43280 | 009004-34-6 | Cellulóz |  |
-
-| 43300 | 009004-36-8 | Cellulóz-acetát-butirát |  |
-
-| 43360 | 068442-85-3 | Regenerált cellulóz |  |
-
-| 43440 | 008001-75-0 | Cerezin |  |
-
-| 43515 | — | Kókuszzsírsavak kolinésztereinek kloridjai | MMF=0,9 mg/6 dm2 |
-
-| 44160 | 000077-92-9 | Citromsav |  |
-
-| 44640 | 000077-93-0 | Trietil-citrát |  |
-
-| 45195 | 007787-70-4 | Réz(II)-bromid | SKH(E)=30 mg/kg (7) (rézben kifejezve) |
-
-| 45200 | 001335-23-5 | Réz(II)-jodid | SKH(E)=30 mg/kg (7) (rézben kifejezve) és SKH=1 mg/kg (11) (jódban kifejezve) |
-
-| 45280 | — | Pamutszálak |  |
-
-| 45450 | 068610-51-5 | p-Krezol-diciklopentadién- -izobutilén-kopolimer | SKH=5 mg/kg |
-
-| 45560 | 014464-46-1 | Krisztobalit |  |
-
-| 45600 | 003724-65-0 | Krotonsav | MMF(E)= 0,05 mg/6 dm2 (33) |
-
-| 45640 | 005232-99-5 | 2-Ciano-3,3-difenil-akrilsav, etilészter | SKH= 0,05 mg/kg |
-
-| 45760 | 000108-91-8 | Ciklohexil-amin |  |
-
-| 45920 | 009000-16-2 | Mézga |  |
-
-| 45940 | 000334-48-5 | Dekánsav |  |
-
-| 46070 | 010016-20-3 | α-Dextrin |  |
-
-| 46080 | 007585-39-9 | β-Dextrin |  |
-
-| 46375 | 061790-53-2 | Kovaföld |  |
-
-| 46380 | 068855-54-9 | Diatómaföld, izzított szódahamu |  |
-
-| 46480 | 032647-67-9 | Dibenzilidén-szorbit |  |
-
-| 46700 | — | 5,7-Di-terc-butil-3-(3,4- és 2,3- dimetil-fenil)-3H-benzofurán-2-on, a) 5,7-diterc-butil-3-(3,4-dimetil-fenil)- 3H-benzofurán-2-on 80-100% (m/m) és b) 5,7-diterc-butil-3-(2,3-dimetil-fenil)- 3H-benzofurán-2-on 0-20% (m/m) tartalommal | SKH=5 mg/kg |
-
-| 46720 | 004130-42-1 | 2,6-di-terc-butil-4-etil-fenol | MMF= 4,8 mg/6 dm2 |
-
-| 46790 | 004221-80-1 | (2,4-Di-terc-butil-fenil)-(3,5-di- -terc-butil-4-hidroxibenzoát) |  |
-
-| 46800 | 067845-93-6 | Hexadecil-(3,5-di-terc-butil-4- -hidroxi-benzoát) |  |
-
-| 46870 | 003135-18-0 | Dioktadecil-(3,5-di-terc-butil-4- -hidroxibenzil-foszfonát) |  |
-
-| 46880 | 065140-91-2 | [3,5-Di-(terc-butil)-4-hidroxi-benzilfoszfonsav]-monoetilészter-- kalciumsója | SKH=6 mg/kg |
-
-| 47210 | 026427-07-6 | Dibutiltiosztannánsav-polimer [Thiobisz(butilón-szulfid)-polimer] | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 47440 | 000461-58-5 | Diciándiamin |  |
-
-| 47540 | 027458-90-8 | Di(terc-dodecil)-diszulfán | SKH=0,05 mg/kg |
-
-| 47680 | 000111-46-6 | Dietilénglikol | SKH=30 mg/kg (3) |
-
-| 48460 | 000075-37-6 | 1,1-Difluoretán |  |
-
-| 48620 | 000123-31-9 | Benzol-1,4-diol („Hidrokinon”) | SKH=0,6 mg/kg |
-
-| 48720 | 000611-99-4 | 4,4’-Dihidroxibenzofenon | SKH=6 mg/kg(15) |
-
-| 49080 | 0852282–89–4 | N-(2,6-Diizopropilfenil)-6-[4-(1,1,3,3-tetrametilbutil)fenoxi]-1H- benzo[de]izokinolin-1,3(2H)-dion | SKH = 0,05 mg/kg(39)(45)(46)Kizárólag polietilén-tereftalátban (PET) való felhasználásra |
-
-| 49485 | 134701-20-5 | 2,4-Dimetil-6-(1-metil-pentadecil)fenol | SKH=1 mg/kg |
-
-| 49540 | 000067-68-5 | Dimetil-szulfoxid |  |
-
-| 51200 | 000126-58-9 | Dipentaeritrit |  |
-
-| 51700 | 147315-50-2 | 2-(4,6-Difenil-1,3,5-triazin-2-il)-5- -(hexiloxi)fenol | SKH=0,05 mg/kg |
-
-| 51760 | 025265-71-8 | Dipropilénglikol |  |
-
-|  | 000110-98-5 | 1,1-Oxi-bisz(2-propanol) |  |
-
-| 52640 | 016389-88-1 | Dolomit |  |
-
-| 52645 | 010436-08-5 | Cisz-eikoz-11-énamid |  |
-
-| 52720 | 000112-84-5 | Erukasav-amid |  |
-
-| 52730 | 000112-86-7 | Erukasav |  |
-
-| 52800 | 000064-17-5 | Etanol |  |
-
-| 53270 | 037205-99-5 | Etil-(karboxi-metil)-cellulóz |  |
-
-| 53280 | 009004-57-3 | Etil-cellulóz |  |
-
-| 53360 | 000110-31-6 | N,N'-Etilén-bisz(olajsav-amid) |  |
-
-| 53440 | 005518-18-3 | N,N'-Etilén-bisz(palmitinsav-amid) |  |
-
-| 53520 | 000110-30-5 | N,N'-Etilén-bisz(sztearinsav-amid) |  |
-
-| 53600 | 000060-00-4 | Etiléndiamin-tetraecetsav |  |
-
-| 53610 | 054453-03-1 | Etiléndiamintetraecetsav-rézsó | SKH(E)=30 mg/kg (7) (rézben kifejezve) |
-
-| 53650 | 000107-21-1 | Etilénglikol | SKH(E)=30 mg/kg (3) |
-
-| 54005 | 005136-44-7 | N-Palmitol-N'-sztearoil-etilén- -diamin |  |
-
-| 54260 | 009004-58-4 | Etil-(hidroxi-etil)-cellulóz |  |
-
-| 54270 | — | Etil-(hidroxi-metil)-cellulóz |  |
-
-| 54280 | — | Etil-(hidroxi-propil)-cellulóz |  |
-
-| 54300 | 118337-09-0 | 2,2'-Etilén-bisz[4,6-di-(terc- -butil)fenil]-fluorfoszfozit | SKH=6 mg/kg |
-
-| 54450 | — | Állati és növényi élelmiszerekből nyert zsírok és olajok |  |
-
-| 54480 | — | Állati és növényi élelmiszerekből nyert hidrogénezett zsírok és olajok |  |
-
-| 54930 | 025359-91-5 | Formaldehid—1-naftolkopolimer | SKH=0,05 mg/kg |
-
-| 55040 | 000064-18-6 | Hangyasav |  |
-
-| 55120 | 000110-17-8 | Fumársav |  |
-
-| 55190 | 029204-02-2 | Gadoleinsav |  |
-
-| 55440 | 009000-70-8 | Zselatin |  |
-
-| 55520 | ⎯ | Üvegszál |  |
-
-| 55600 | ⎯ | Üveggyöngy (mikro) |  |
-
-| 55680 | 000110-94-1 | Glutársav |  |
-
-| 55920 | 000056-81-5 | Glicerin |  |
-
-|  |  | Glicerinészterek: |  |
-
-| 56020 | 099880-64-5 | Glicerin dibehenát |  |
-
-| 56360 | — | Glicerin acetátok |  |
-
-| 56486 | ⎯ | Glicerin alifás, telített, el nem ágazó, páros szénatomszámú (C14-C18) savakkal és alifás telítetlen, el nem ágazó páros szénatomszámú (C16-C18) savakkal képzett észterei |  |
-
-| 56487 | — | Glicerin butirátok |  |
-
-| 56490 | — | Erukasav glicerinészter |  |
-
-| 56495 | — | Glicerin 12-hidroxi-sztearátok |  |
-
-| 56500 | — | Glicerin laurátok |  |
-
-| 56510 | — | Glicerin linolenátok |  |
-
-| 56520 | — | Glicerin mirisztátok |  |
-
-| 56535 | — | Glicerin nonánsasav észterei |  |
-
-| 56540 | — | Glicerin oleátok |  |
-
-| 56550 | — | Glicerin palmitátok |  |
-
-| 56570 | — | Glicerin propionátok |  |
-
-| 56580 | — | Glicerin ricinoleátok |  |
-
-| 56585 | — | Glicerin sztearátok |  |
-
-| 56610 | 030233-64-8 | Glicerin-monobehenát |  |
-
-| 56720 | 026402-23-3 | Glicerin-monohexanoát |  |
-
-| 56800 | 030899-62-8 | Glicerin-monolaurát-diacetát |  |
-
-| 56880 | 026402-26-6 | Glicerin-monooktanoát |  |
-
-| 57040 | — | Glicerin-monooleát aszkorbinsav észtere |  |
-
-| 57120 | — | Glicerin monooleát citromsav észtere |  |
-
-| 57200 | — | Glicerin monopalmitát aszkorbinsav észtere |  |
-
-| 57280 | — | Glicerin monopalmitát citromsav észtere |  |
-
-| 57600 | — | Glicerin monosztearát aszkorbin-sav észtere |  |
-
-| 57680 | — | Glicerin monosztearát citromsav észtere |  |
-
-| 57800 | 018641-57-1 | Glicerin-tribehenát |  |
-
-| 57920 | 000620-67-7 | Glicerin-triheptanoát |  |
-
-| 58300 | — | Glicinsók |  |
-
-| 58320 | 007782-42-5 | Grafit |  |
-
-| 58400 | 009000-30-0 | Guargyanta |  |
-
-| 58480 | 009000-01-5 | Gumiarabicum |  |
-
-| 58720 | 000111-14-8 | Heptánsav |  |
-
-| 59280 | 000100-97-0 | Hexametilén-tetramin | SKH(E)= 15 mg/kg (22) (formaldehidben kifejezve) |
-
-| 59360 | 000142-62-1 | Hexánsav |  |
-
-| 59760 | 019569-21-2 | Huntit |  |
-
-| 59990 | 007647-01-0 | Hidrogén-klorid |  |
-
-| 60027 | – | Hidrogénezett homopolimerek és/vagy kopolimerek 1-hexénből és/vagy 1- okténből és/vagy 1-decénből és/vagy 1- dodecénből és/vagy 1-tetracénből (Mw: 440-12000) | Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyakban, melyekre a D-modellanyagot határozták meg. Az 5. mellékletben megállapított előírásoknak megfelelően |
-
-| 60030 | 012072-90-1 | Hidromagnezit |  |
-
-| 60080 | 012304-65-3 | Hidrotalkit |  |
-
-|  |  | 4-Hidroxi-benzoesav észterek: |  |
-
-| 60160 | 000120-47-8 | Etil-(4-hidroxi-benzoát) |  |
-
-| 60180 | 004191-73-5 | Izopropil-(4-hidroxi-benzoát) |  |
-
-| 60200 | 000099-76-3 | Metil-(4-hidroxi-benzoát) |  |
-
-| 60240 | 000094-13-3 | Propil-(4-hidroxi-benzoát) |  |
-
-| 60480 | 003864-99-1 | 2-[2-Hidroxi-3,5-di(terc- -butil)fenil]-5-klórbenztriazol | SKH(E)=30 mg/kg (19) |
-
-| 60560 | 009004-62-0 | (Hidroxietil)-cellulóz |  |
-
-| 60880 | 009032-42-2 | (Hidroxietil-metil)-cellulóz |  |
-
-| 61120 | 009005-27-0 | (Hidroxietil)-keményítő |  |
-
-| 61390 | 037353-59-6 | (Hidroximetil)-cellulóz |  |
-
-| 61680 | 009004-64-2 | (Hidroxipropil)-cellulóz |  |
-
-| 61800 | 009049-76-7 | (Hidroxipropil)-keményítő |  |
-
-| 61840 | 000106-14-9 | 12-Hidroxi-sztearinsav |  |
-
-| 62140 | 006303-21-5 | Hipofoszforossav (foszfinsav) |  |
-
-| 62215 | 0007439–89–6 | Vas | SKH = 48 mg/kg |
-
-| 62240 | 001332-37-2 | Vas-oxid |  |
-
-| 62450 | 000078-78-4 | Izopentán |  |
-
-| 62640 | 008001-39-6 | Japán viasz |  |
-
-| 62720 | 001332-58-7 | Kaolin |  |
-
-| 62800 | — | Izzított kaolin |  |
-
-| 62960 | 000050-21-5 | Tejsav |  |
-
-| 63040 | 000138-22-7 | Butil-laktát |  |
-
-| 63280 | 000143-07-7 | Laurinsav |  |
-
-| 63760 | 008002-43-5 | Lecitin |  |
-
-| 63840 | 000123-76-2 | Levulinsav |  |
-
-| 63920 | 000557-59-5 | Lignocerinsav |  |
-
-| 64015 | 000060-33-3 | Linolsav |  |
-
-| 64150 | 028290-79-1 | Linolénsav |  |
-
-| 64500 | — | Lizinsók |  |
-
-| 64640 | 001309-42-8 | Magnézium-hidroxid |  |
-
-| 64720 | 001309-48-4 | Magnézium-oxid |  |
-
-| 64800 | 00110-16-7 | Maleinsav | SKH(E)=30 mg/kg (4) |
-
-| 65020 | 006915-15-7 | Almasav |  |
-
-| 65040 | 000141-82-2 | Malonsav |  |
-
-| 65520 | 000087-78-5 | Mannit |  |
-
-| 65920 | 066822-60-4 | [(N-Metakroiloxietil-N,N-dimetil-N-karboximetil-ammónium)-klorid]-nátriumsó; oktadecil-metakrilát, etil- -metakrilát, , ciklohexil-metakrilát, N-vinil-pirrolidin-2-on kopolimerek |  |
-
-| 66200 | 037206-01-2 | Metil-(karboxilmetil)-cellulóz |  |
-
-| 66240 | 009004-67-5 | Metil-cellulóz |  |
-
-| 66560 | 004066-02-8 | 2,2'-Metilén-bisz(4-metil-6- -ciklohexilfenol) | SKH(E)=3 mg/kg (6) |
-
-| 66580 | 000077-62-3 | 2,2'-Metilén-bisz[4-metil-6-(1- -metilciklohexil)fenol] | SKH(E)=3 mg/kg (6) |
-
-| 66640 | 009004-59-5 | Metil-etil-cellulóz |  |
-
-| 66695 | — | Metil-(hidroximetil)-cellulóz |  |
-
-| 66700 | 009004-65-3 | Metil-(hidroxipropil)-cellulóz |  |
-
-| 66755 | 002682-20-4 | 2-Metil-2,3-dihidro-izotiazol- -3-on | SKH=NK (KH=0,02 mg/kg, beleértve a vizsgálati módszer hibáját is) |
-
-| 67120 | 012001-26-2 | Csillámpala |  |
-
-| 67180 | — | (Decil-oktil)-ftalát, didecil-ftalát, dioktil-ftalát keveréke (tf %=50/25/25) | SKH=5 mg/kg (1) |
-
-| 67200 | 001317-33-5 | Molibdén-diszulfid |  |
-
-| 67840 | — | Montánsav, illetve etilénglikollal, illetve 1,3-butándiollal, illetve glicerinnel alkotott észterei |  |
-
-| 67850 | 008002-53-7 | Montánviasz |  |
-
-| 67891 | 000544-63-8 | Mirisztinsav |  |
-
-| 68040 | 003333-62-8 | 7-(2H-Naftol[1,2-d]triazol-2-il)-3- -fenil-kumarin |  |
-
-| 68078 | 027253-31-2 | Hexametilén-tetramin | SKH(E)= 0,05 mg/kg (neodekánsavban kifejezve) és SKH(E)=0,05 mg/kg (14) (kobaltban kifejezve). Nem alkalmazható olyan élelmiszerrel érintkző polimerekre, ahol a MÉ-1-2-82/711 számú előírás D modell oldatot ír elő. |
-
-| 68119 | – | Neopentil glikol, diészterek és monoészterek benzoesavval és 2- etilhexánsavval | SKH = 5 mg/kg Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyakban, melyekre a D-modellanyagot határozták meg |
-
-| 68125 | 037244-96-5 | Nefelin-szienit |  |
-
-| 68145 | 080410-33-9 | 2,2',2"-Nitrilo{trietil-trisz[3,3',5,5'- -tetra-(terc-butil)-1,1'-bifenil-2,2'- -diil]-foszfit} | SKH=5 mg/kg (foszfit és foszfát összesen) |
-
-| 68960 | 000301-02-0 | Olajsav-amid |  |
-
-| 69040 | 000112-80-1 | Olajsav |  |
-
-| 69760 | 000143-28-2 | Oktadec-9-én-1-ol |  |
-
-| 69920 | 000144-62-7 | Oxálsav | SKH(E)=6 mg/kg (29) |
-
-| 70000 | 070331-94-1 | 4,5-Dioxo-3,6-diaza-oktán-1,8- -diil-di{3-[3,5-di(terc-butil)-4- -hidroxi-fenil]propinát} |  |
-
-| 70240 | 012198-93-5 | Ozokerit |  |
-
-| 70400 | 000057-10-3 | Palmitinsav |  |
-
-| 71020 | 000373-49-9 | Palmitoleinsav |  |
-
-| 71440 | 009000-69-5 | Pektin |  |
-
-| 71600 | 000115-77-5 | Pentaeritrit |  |
-
-| 71635 | 025151-96-6 | Pentaeritrit-dioleát | SKH=0,05 mg/kg. Nem használható azokhoz a műanyagokhoz, amelyekhez a MÉ 1-2-82/711 számú előírás 5. § a D modelloldat használatát írja elő. |
-
-| 71670 | 178671-58-4 | Pentaeritrit-terakisz(2-ciano-3,3- -difenilprop-2-énoát) | SKH=0,05 mg/kg |
-
-| 71680 | 006683-19-8 | Pentaeritrit-tetrakisz[3-(3,5-di- -terc-butil-4-hidroxi-fenil)- -propionát] |  |
-
-|  | 178671-58-4 | Pentaeritrit-tetrakisz-(2-ciano-3,3-di-fenilakrilát) |  |
-
-| 71720 | 000109-66-0 | Pentán |  |
-
-| 72141 | 0018600–59–4 | 2,2’-(1,4-fenilén)bisz[4H-3,1- benzoxazin-4-on] | SKH = 0,05 mg/kg (beleértve hidrolízis- termékeinek összegét is) |
-
-| 72640 | 007664-38-2 | Foszforsav |  |
-
-| 73160 |  | Foszforsav (C16 és C18 mono- és dialkil)-észterei | SKH=0,05 mg/kg |
-
-| 73720 | 000115-96-8 | Triklóretil-foszfát | SKH=NK (KH=0,02 mg/kg, beleértve a vizsgálati módszer hibáját is) |
-
-| 74010 | 145650-60-8 | Bisz[2,4-di-(terc-butil)-6- -metilfenil]-etil-foszfát | SKH=5 mg/kg (foszfit és foszfát összesen) |
-
-| 74240 | 031570-04-4 | Trisz[2,4-di-(terc-butil)-fenil]- -foszfit |  |
-
-| 74480 | 000088-99-3 | Ftálsav |  |
-
-| 76320 | 000085-44-9 | Ftálsavanhidrid |  |
-
-| 76721 | 009016-00-6 063148-62-9 | Polidimetilsziloxán (móltömeg >6800) | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 76730 |  | γ-Hidroxipropilezett polidimetilsziloxan | SKH=6 mg/kg |
-
-| 76807 | 00073018–26–5 | Adipinsav poliésztere, 1,3-butándiollal, 1,2-propándiollal és 2-etil-1-hexanollal | SKH = 30 mg/kg |
-
-| 76866 | — | Adipinsav propán-1,2-diollal, illetve bután-1,3-diollal és vagy bután-1,4-diollal és vagy propilénglikollal alkotott poliészterei, a láncok végén ecetsavval vagy n-oktanollal és vagy n-dekanollal lezárva | SKH=30 mg/kg |
-
-| 76960 | 025322-68-3 | Polietilénglikol |  |
-
-| 77600 | 061788-85-0 | Hidrogénezett ricinusolaj polietilénglikol észtere |  |
-
-| 77702 | — | Alifás (C6-C22) monokarbonsavak polietilénglikol észterei és azok ammónium- és nátrium szulfátjai |  |
-
-| 77708 | – | El nem ágazó és elágazó, (C8–C22) primer alkoholok polietilénglikol (EO =1–50)-éterei | SKH = 1,8 mg/kg Az 5. mellékletben megállapított előírásoknak megfelelően |
-
-| 77895 | 068439-49-6 | Polietilénglikol-monoalkil-éter (EO=2-6, alkil: C16-C18) | SKH=0,05 mg/kg, és az 5. számú melléklet szerinti előírásoknak megfelelően |
-
-| 79040 | 009005-64-5 | Polietilénglikol-1,4-anhidro-szorbit- -monolaurát |  |
-
-| 79120 | 009005-65-6 | Polietilénglikol-1,4-anhidro-szorbit- -monooleát |  |
-
-| 79200 | 009005-66-7 | Polietilénglikol-1,4-anhidro-szorbit- -monopalmitát |  |
-
-| 79280 | 009005-67-8 | Polietilénglikol-1,4-anhidro-szorbit- -monosztearát |  |
-
-| 79360 | 009005-70-3 | Polietilénglikol-1,4-anhidro-szorbit- -trioleát |  |
-
-| 79440 | 009005-71-4 | Polietilénglikol-1,4-anhidro-szorbit- -trisztearát |  |
-
-| 80077 | 0068441–17–8 | Polietilén gyanták oxidálva | SKH = 60 mg/kg |
-
-| 80240 | 029894-35-7 | Ricinolsav poliglicerin észtere |  |
-
-| 80350 | 0124578–12–7 | Poli(12-hidroxi-sztearátsav)- polietilén-imin kopolimer | Kizárólag polietilén-tereftalátban (PET), polisztirénben (PS), ütésálló polisztirénben (HIPS) és poliamidban (PA) való felhasználásra, 0,1 tömegszázalékig. Az 5. mellékletben megállapított előírásoknak megfelelően |
-
-| 80480 | 0090751–07–8; 0082451–48–7 | Poli(6-morfolin-1,3,5-triazin-2,4- diil)-[(2,2,6,6-tetrametil-4-piperidil) imino)]- hexametilén- [(2,2,6,6-tetrametil-4- piperidil)imino)] | SML = 5 mg/kg(47)Az 5. mellékletben megállapított előírásoknak megfelelően |
-
-| 80510 | 1010121–89–7 | Poli(3-nonil-1,1-dioxo-1-tiopropán- 1,3-diil)-blokk-poli(x-oleil-7-hidroxi- 1,5-diimino-oktán-1,8-diil), folyamatkeverék, x=1 és/vagy 5, dodecilbenzolszulfonsavval semlegesítve | Kizárólag polimerizációs gyártási segédanyagként használható polietilénben (PE), polipropilénben (PP) és polisztirénben (PS) |
-
-| 80640 | — | Poli-(hidroxi-alkil, C2-C4)- -dimetil-polisziloxán |  |
-
-| 80720 | 008017-16-1 | Polifoszforsav |  |
-
-| 80800 | 025322-69-4 | Polipropilénglikol |  |
-
-| 81220 | 192268-64-7 | Poli-({6-[N-(2,2,6,6- tetrametilpiperidin-4-il)butilamino]- 1,3,5-triazin-2,4-diil}-[(2,2,6,6- tetrametilpiperidin-4-il)imino]- hexán-1,6-diil[(2,2,6,6-tetrametil-piperidin-4-il)imino]-a-[N,N,N’,N’-tetrabutil-N’’’’-[(2,2,6,6-tetrametil-piperidin-4-ilamino)hexil][1,3,5- triazin-2,4,6-triamin]-ω-N,N,N’,N’- -tetrabutil-1,3,5-triazin-2,4-diamin) | SKH=5 mg/kg |
-
-| 81515 | 087189-25-1 | Glicerin cinksó polimer |  |
-
-| 81520 | 007758-02-3 | Kálium-bromid |  |
-
-| 81600 | 001310-58-3 | Kálium-hidroxid |  |
-
-| 81760 | — | Sárgaréz, bronz, réz, savállóacél, ón- és rézötvözetek, ón, vas porok, lemezkék és szálak | SKH(E)=30 mg/kg (7) (rézben kifejezve) SKH=48 mg/kg (vasban kifejezve) |
-
-| 81840 | 000057-55-6 | Propán-1,2-diol |  |
-
-| 81882 | 000067-63-0 | Propán-2-ol |  |
-
-| 82000 | 000079-09-4 | Propionsav |  |
-
-| 82080 | 009005-37-2 | 1,2-Propilénglikol-alginát |  |
-
-| 82240 | 022788-19-8 | 1,2-Propilénglikol-dilaurát |  |
-
-| 82400 | 000105-62-4 | 1,2-Propilénglikol-dioleát |  |
-
-| 82560 | 033587-20-1 | 1,2-Propilénglikol-dipalmitát |  |
-
-| 82720 | 006182-11-2 | 1,2-Propilénglikol-disztearát |  |
-
-| 82800 | 027194-74-7 | 1,2-Propilénglikol-monolaurát |  |
-
-| 82960 | 001330-80-9 | 1,2-Propilénglikol-monooleát |  |
-
-| 83120 | 029013-28-3 | 1,2-Propilénglikol-monopalmitát |  |
-
-| 83300 | 001323-39-3 | 1,2-Propilénglikol-monosztearát |  |
-
-| 83320 | — | Propil-(hidroxi-etil)-cellulóz |  |
-
-| 83325 | — | Propil-(hidroxi-metil)-cellulóz |  |
-
-| 83330 | — | Propil-(hidroxi-propil)-cellulóz |  |
-
-| 83440 | 002466-09-3 | Pirofoszforsav |  |
-
-| 83455 | 013445-56-2 | Pirofoszforossav |  |
-
-| 83460 | 012269-78-2 | Pirofillit |  |
-
-| 83470 | 014808-60-7 | Kvarc |  |
-
-| 83599 | 068442-12-6 | Az olajsav-(2-szulfaniletil)-észter reakciótermékei diklór-dimetilónnal, nátrium-szulfiddal és triklór- -metilónnal | SKH(E)=0,18 mg/kg (16) (ónban kifejezve) |
-
-| 83610 | 073138-82-6 | Gyantasavak |  |
-
-| 83840 | 008050-09-7 | Fenyőgyanta |  |
-
-| 84000 | 008050-31-5 | Fenyőgyanta glicerinésztere |  |
-
-| 84080 | 008050-26-8 | Fenyőgyanta pentaeritritésztere |  |
-
-| 84210 | 065997-06-0 | Hidrogénezett fenyőgyanta |  |
-
-| 84240 | 065997-13-9 | Hidrogénezett fenyőgyanta glicerinésztere |  |
-
-| 84320 | 008050-15-5 | Hidrogénezett fenyőgyanta metilésztere |  |
-
-| 84400 | 064365-17-9 | Hidrogénezett fenyőgyanta pentaeritritésztere |  |
-
-| 84560 | 009006-04-6 | Természetes gumi |  |
-
-| 84640 | 000069-72-2 | Szalicilsav |  |
-
-| 85360 | 000109-43-3 | Dibutil-szebacát |  |
-
-| 85601 | — | Természetes szilikátok (azbeszt kivételével) |  |
-
-| 85610 | — | Természetes és izzított szilikátok (azbesztek kivételével) |  |
-
-| 85680 | 001343-98-2 | Sziliciumsav |  |
-
-| 85840 | 053320-86-8 | Lítium-, magnézium-, nátrium-szilikátok | SKH(E)=0,6 mg/kg (8) (lítiumban kifejezve) |
-
-| 86000 | — | Szililezett kovasav sók |  |
-
-| 86160 | 000409-21-2 | Szilicium-karbid |  |
-
-| 86240 | 007631-86-9 | Szilicium-dioxid |  |
-
-| 86285 | — | Izzított szilíciumdioxid |  |
-
-| 86560 | 007647-15-6 | Nátrium-bromid |  |
-
-| 86720 | 001310-73-2 | Nátrium-hidroxid |  |
-
-| 87040 | 001330-43-4 | Nátrium-tetraborát | SKH(E)=6 mg/kg (23) (bórban kifejezve) az ivóvíz előírás figyelembevételével |
-
-| 87200 | 000110-44-1 | Szorbinsav |  |
-
-| 87280 | 029116-98-1 | 1,4-Anhidro-szorbit-dioleát |  |
-
-| 87520 | 062568-11-0 | 1,4-Anhidro-szorbit-monobehenát |  |
-
-| 87600 | 001338-39-2 | 1,4-Anhidro-szorbit-monolaurát |  |
-
-| 87680 | 001338-43-8 | 1,4-Anhidro-szorbit-monooleát |  |
-
-| 87760 | 026266-57-9 | 1,4-Anhidro-szorbit-monopalmitát |  |
-
-| 87840 | 001338-41-6 | 1,4-Anhidro-szorbit-monosztearát |  |
-
-| 87920 | 061752-68-9 | 1,4-Anhidro-szorbit-terasztearát |  |
-
-| 88080 | 026266-58-0 | 1,4-Anhidro-szorbit-trioleát |  |
-
-| 88160 | 054140-20-4 | 1,4-Anhidro-szorbit-tripalmitát |  |
-
-| 88240 | 026658-19-5 | 1,4-Anhidro-szorbit-trisztearát |  |
-
-| 88320 | 000050-70-4 | Szorbit |  |
-
-| 88600 | 026836-47-5 | Szorbit-monosztearát |  |
-
-| 88640 | 008013-07-8 | Epoxidált szójaolaj | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 88800 | 009005-25-8 | Étkezési keményítő |  |
-
-| 88880 | 068412-29-3 | Hidrolizált keményítő |  |
-
-| 88960 | 000124-26-5 | Sztearinsav-amid |  |
-
-| 89040 | 000057-11-4 | Sztearinsav |  |
-
-| 89200 | 007617-31-4 | Réz(II)-sztearát | SKH(E) =30 mg/kg (7) (rézben kifejezve) |
-
-| 89440 | — | Sztearinsav etilénglikollal alkotott észterei | SKH(E)=30 mg/kg (3) |
-
-| 90720 | 058446-52-9 | Sztearoil-benzoil-metán |  |
-
-| 90800 | 005793-94-2 | 2-[(2-Sztearoil-oxi)-propionil- -oxi]-propionsav kalciumsó |  |
-
-| 90960 | 000110-15-6 | Borostyánkősav |  |
-
-| 91200 | 000126-13-6 | Szacharóz-acetát-izobutirát |  |
-
-| 91360 | 000126-14-7 | Szacharóz-oktaacetát |  |
-
-| 91530 | – | Szulfoszukcinátsav alkil (C4–C20) vagy ciklohexil diészterek, sók | SKH = 5 mg/kg |
-
-| 91815 | – | Szulfoszukcinátsav monoalkil (C10–C16) polietilén-glikol észterek, sók | SKH = 2 mg/kg |
-
-| 91840 | 007704-34-9 | Kén |  |
-
-| 91920 | 007664-93-9 | Kénsav |  |
-
-| 92030 | 010124-44-4 | Réz(II)-szulfát | SKH(E)=30 mg/kg (7) (rézben kifejezve) |
-
-| 92080 | 014807-96-6 | Talkum |  |
-
-| 92150 | 001401-55-4 | Csersav | A JECFA- előírásai szerint |
-
-| 92160 | 000087-69-4 | Borkősav |  |
-
-| 92195 | — | Taurinsók |  |
-
-| 92200 | 0006422–86–2 | Tereftálsav, bisz(2-etilhexil)-észter | SKH = 60 mg/kg |
-
-| 92205 | 057569-40-1 | [2,2'-Metilén-bisz(4-metil-6-terc- -butil-fenol)]tereftalát |  |
-
-| 92350 | 000112-60-7 | Tetraetilénglikol |  |
-
-| 92470 | 0106990–43–6 | N,N’,N”,N”-tetrakisz(4,6-bisz(N-butil- (N-metil-2,2,6,6-tetrametil-piperidin-4-il) amino)triazin-2-il)-4,7-diazadekan- 1,10-diamin | SKH = 0,05 mg/kg |
-
-| 92475 | 0203255–81–6 | 3,3’,5,5’-tetrakisz(tert-butil)-2,2’- dihidroxibifenil, ciklikus észter [3-(3-tert- butil-4-hidroxi-5-metilfenil) propil] oxi-foszfonsavval | SKH= 5 mg/kg (az anyag és a hidrolízis- termékek foszfit és foszfát formájának összegeként kifejezve) |
-
-| 92640 | 000102-60-3 | N,N,N',N'-Tetrakisz(2-hidroxi- -propil)-etiléndiamin |  |
-
-| 92700 | 078301-43-6 | 2,2,4,4-Tetrametil-20-(2,3- -epoxipropil)-7-oxa-3,20-diaza- -dispiro[5.1.11.2]heneikozán-21- -on polimere | SKH=5 mg/kg |
-
-| 92930 | 120218-34-0 | Tiodi-2,1-etándiil-bisz(5- -metoxikarbonil-2,6-dimetil-1,4- -dihidropiridin-3-karboxilát | SKH=6 mg/kg |
-
-| 93440 | 013463-67-7 | Titán-dioxid |  |
-
-| 93450 | – | Titánium-dioxid, az n-oktiltriklór-szilán és [aminotrisz(metilén-foszfinsav), penta nátrimsó kopolimerével bevonva] | Az 5. mellékletben megállapított előírásoknak megfelelően |
-
-| 93520 | 000059-02-9 | α-Tokoferol |  |
-
-|  | 010191-41-0 | 2,5,7,8-Tetrametil-2-(4,8,12- -trimetildecil)-3,4-dihidro-2H-1- -benzopirán-6-ol |  |
-
-| 93680 | 009000-65-1 | Tragantmézga |  |
-
-| 93720 | 000108-78-1 | 2,4,6-Triamino-1,3,5-triazin | SKH=30 mg/kg |
-
-| 94000 | 0000102–71–6 | Trietanolamin | SKH = 0,05 mg/kg (beleértve a hidroklorid adduktot is) |
-
-| 94425 | 0000867–13–0 | Trietil-foszfonacetát | Kizárólag polietilén-tereftalátban (PET) való felhasználásra |
-
-| 94320 | 000112-27-6 | Trietilénglikol |  |
-
-| 94960 | 000077-99-6 | 2-Etil-2-hidroximetilpropán-1,3-diol | SKH=6 mg/kg |
-
-| 94985 | – | Trimetilol-propán, vegyes triészterek és diészterek benzoesavval és 2-etilhexánsavval | SKH = 5mg/kg Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyak esetében, melyekre a D- modellanyagot határozták meg. |
-
-| 95000 | 028931-67-1 | Trimetilol-propán trimetakrilát-metil-metakrilát kopolimer |  |
-
-| 95200 | 001709-70-2 | 1,3,5-trimetil-2,4,6-trisz- (3,5-di-terc-butil-4-hidroxi- benzil)-benzol |  |
-
-| 95270 | 161717-32-4 | 5-Butil-5-etil-2-[2,4,6-trisz(terc-butil)fenoxi]-1,3,2-dioxafoszfirán | SKH=2 mg/kg (mint foszfit és foszfát összege és a hidrolízis termékek=TTBT) |
-
-| 95725 | 110638-71-6 | Citromsav és hidroszilikát reakció termékének lítiumsója | SKH(E)=0,6 mg/kg (8) (lítiumban kifejezve) |
-
-| 95855 | 007732-18-5 | Víz | Ivóvízminőségben |
-
-| 95859 |  | Petróleumbázisú vagy szintetikus finomított gyanták | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 95883 |  | Petróleumbázisú szénhidrogénekből előállított fehér ásványi olajok, paraffinok. | Az 5. számú melléklet szerinti követelményeknek megfelelően. |
-
-| 95905 | 013983-17-0 | Wollastonit (kalcium-metaszilikát) |  |
-
-| 95920 |  | Kezeletlen faliszt és szál |  |
-
-| 95935 | 011138-66-2 | Xantángyanta |  |
-
-| 96190 | 020427-58-1 | Cink-hidroxid |  |
-
-| 96240 | 001314-13-2 | Cink-oxid |  |
-
-| 96320 | 001314-98-3 | Cink-szulfid |  |
-
-B) rész
-
-Az adalék- és segédanyagok listája a 4. § (2) bekezdése szerint
-
-| EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
-
-| 1. | 2. | 3. | 4. |
-
-| 30180 | 002180-18-9 | Ecetsav- mangánsó | SKH(E)=0,6 mg/kg (1) (mangánban kifejezve) |
-
-| 31520 | 061167-58-6 | [2-terc-Butil-6-(3-terc-butil-2- -hidroxi-5-metilbenzil)-4-metil-fenil]-akrilát | SKH=6 mg/kg |
-
-| 31920 | 000103-23-1 | Bisz(2-etilhexil)-adipát | SKH=18 mg/kg (1) |
-
-| 34230 |  | (C8-C22)Alkánszulfonsavak | SKH=6 mg/kg |
-
-| 34650 | 151841-65-5 | Alumínium-hidroxibisz[2,2, metilénbisz](4,6-diterc-butifenil)-foszfát | SKH=5 mg/kg |
-
-| 35760 | 001309-64-4 | Antimon-trioxid | SKH=0,02 mg/kg (antimonban kifejezve, beleértve a vizsgálati módszer hibáját is) |
-
-| 36720 | 017194-00-2 | Bárium-hidroxid | SKH(E)=1 mg/kg (12) (báriumban kifejezve) |
-
-| 36800 | 010022-31-8 | Bárium-dinitrát | SKH(E)=1 mg/kg (12) (báriumban kifejezve) |
-
-| 38000 | 000553-54-8 | Benzoesav- litiumsó | SKH(E)= 0,6 mg/kg (8) (litiumban kifejezve) |
-
-| 38240 | 000119-61-9 | Benzofenon | SKH=0,6 mg/kg |
-
-| 38560 | 007128-64-5 | 2,5Bisz(5-terc-butil-2-benzoxazolil)tiofén | SKH=0,6 mg/kg |
-
-| 38700 | 063397-60-4 | Bisz(2-karbobutoxietil)ón-bisz(izooktilszulfanilacetát) | SKH=18 mg/kg |
-
-| 38800 | 032687-78-8 | N,N’-Bisz[3-(3,5-di-terc-butil-4- -hidroxifenil)propionil]hidrazide | SKH=15 mg/kg |
-
-| 38820 | 026741-53-7 | Bisz(2,4-di-terc- butilfenil)pentaeritrit-difoszfit | SKH=0,6 mg/kg |
-
-| 39060 | 035958-30-6 | 1,1-Bisz(2-hidroxi-3,5-di-terc- -butilfenil)etán | SKH=5 mg/kg |
-
-| 39090 |  | N,N-Bisz(2-hidroxietil) (C8-C18)alkilamin | SKH(E)=1,2 mg/kg (13) |
-
-| 39120 |  | N,N-Bisz(2-hidroxietil) (C8-C18)alkilamin-hidrokloridok | SKH(E)=1,2 mg/kg (13) tercier aminban kifejezve (HCl nélkül) |
-
-| 40000 | 000991-84-4 | 2,4-Bisz(oktilszulfanil)-6-(4- -hidroxi-3,5-di-terc- -butilanilino)-1,3,5-triazin | SKH=30 mg/kg |
-
-| 40020 | 110553-27-0 | 2,4-Bisz(oktilszulfanilmetil)-6-metilfenol | SKH=6 mg/kg |
-
-| 40160 | 061269-61-2 | N,N’-Bisz(2,2,6,6-tetrametil-4-pi-peridil)hexametiléndiamin-1,2-di-brómetán kopolimer | SKH=2,4 mg/kg |
-
-| 40720 | 025013-16-5 | terc-butil-4-hidroxianizol (=BHA) | SKH= 30 mg/kg |
-
-| 40800 | 013003-12-8 | 4,4’-Butilidén-bisz[(6-terc-butil-3- -metilfenil-ditritildecil)-foszfit] | SKH=6 mg/kg |
-
-| 40980 | 019664-95-0 | Vajsav-mangánsó | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 42000 | 063438-80-2 | (2-Butoxikarboniletil)ón- -trisz(izooktilszulfanilacetát) | SKH=30 mg/kg |
-
-| 42400 | 010377-37-4 | Szénsav-lítiumsói | SKH=0,6 mg/kg (lítiumban kifejezve) |
-
-| 42480 | 000584-09-8 | Szénsav-rubídiumsó/lítiumsó | SKH=12 mg/kg |
-
-| 43600 | 004080-31-3 | [1-(3-klórallil)-3,5,7-triaza-1- -azóniaadamantán]-klorid | SKH=0,3 mg/kg |
-
-| 43680 | 000075-45-6 | Difluor-klórmetán | SKH=6 mg/kg és az 5. számú melléklet szerinti követelményeknek megfelelően |
-
-| 44960 | 011104-61-3 | Kobalt-oxid | SKH(E)=0,05 mg/kg (14) (kobaltban kifejezve) |
-
-| 45440 |  | Butilezett, sztirilezett krezolok | SKH=12 mg/kg |
-
-| 45650 | 006197-30-4 | 2-Etilhexil-(2-ciano-3,3-difenil-akrilát) | SKH=0,05 mg/kg |
-
-| 46640 | 000128-37-0 | 2,6-di-terc-butil-p-krezol (=BHT) | SKH= 3,0 mg/kg |
-
-| 47600 | 084030-61-5 | Didodecilón-bisz(izooktil- -szulfanilacetát) | SKH=12 mg/kg |
-
-| 48640 | 000131-56-6 | 2,4-Dihidroxibenzofenon | SKH(E)=6 mg/kg (15) |
-
-| 48800 | 000097-23-4 | 2,2’-Dihidroxi-5,5’-diklórdifenil- metán | SKH=12 mg/kg |
-
-| 48880 | 000131-53-3 | 2, 2’-Dihidroxi-4-metoxi-benzofenon | SKH(E)=6 mg/kg (15) |
-
-| 49600 | 026636-01-1 | Dimetilón-bisz(izooktil-szulfanil-acetát) | SKH(E)=0,18 mg/kg (16) (ónban kifejezve) |
-
-| 49840 | 002500-88-1 | Dioktadecil-diszulfán | SKH(E)=3 mg/kg |
-
-| 50160 |  | Dioktilón-bisz[alkil(C10-C16)- szulfanilacetát] | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50240 | 010039-33-5 | Dioktilón-bisz(2-etilhexil-maleát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50320 | 015571-58-1 | Dioktilón-bisz(2-etilhexil-szul-fanilacetát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50360 |  | Dioktilón-bisz(etil-maleát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50400 | 033568-99-9 | Dioktilón-bisz(izooktil-maleát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50480 | 026401-97-8 | Dioktilón-bisz(izooktilszulfanil-acetát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50560 |  | Dioktilón-butil-1,4 -diiil-bisz(szul-fanilacetát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50640 | 003648-18-8 | Dioktilón-dilaurát | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50720 | 015571-60-5 | Dioktilón-dimaleát | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50800 |  | Dioktilón-dimaleát, észterezett | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50880 |  | Dioktilón-dimaleát polimerek (n=2-4) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 50960 | 069226-44-4 | Dioktilón-etilén-1,2-diil-bisz(szul-fanilacetát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 51040 | 015535-79-2 | Dioktilón-szulfanilacetát | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 51120 |  | Dioktilón-tiobenzoát-(2-etilhexil-szulfanilacetát) | SKH(E)=0,04 mg/kg (17) (ónban kifejezve) |
-
-| 51570 | 000127-63-9 | Difenil-szulfon | SKH(E)=3 mg/kg |
-
-| 51680 | 000102-08-9 | N,N’-Difeniltiokarbamid | SKH=3 mg/kg |
-
-| 52000 | 027176-87-0 | Dodecilbenzolszulfonsav | SKH=30 mg/kg |
-
-| 52320 | 052047-59-3 | 2-(4-Dodecilfenil)indol | SKH=0,06 mg/kg |
-
-| 52880 | 023676-09-7 | Etil-(4-etoxibenzoát) | SKH=3,6 mg/kg |
-
-| 53200 | 023949-66-8 | N-(2-Etoxifenil)-N’-(2-etilfenil)- -etándiamid | SKH=30 mg/kg |
-
-| 54880 | 000050-00-0 | Formaldehid | SKH(E)=15 mg/kg (22) |
-
-| 55200 | 001166-52-5 | Galluszsav, dodecil-észter | SKH(E)=30 mg/kg (34) |
-
-| 55280 | 001034-01-1 | Galluszsav, oktil-észter | SKH(E)=30 mg/kg (34) |
-
-| 55360 | 000121-79-9 | Galluszsav, propil-észter | SKH(E)=30 mg/kg (34) |
-
-| 58960 | 000057-09-0 | Hexadeciltrimetilammónium-bromid | SKH=6 mg/kg |
-
-| 59120 | 023128-74-7 | Hexán-1,6-diil-bisz[3-(3,5-di-terc- butil-4-hidroxifenil)propionamid] | SKH=45 mg/kg |
-
-| 59200 | 035074-77-2 | Hexán-1,6-diil-bisz[3-(3,5-di-terc- butil-4-hidroxifenil)propionát] | SKH=6 mg/kg |
-
-| 60320 | 070321-86-7 | 2-[2-Hidroxi-3,5-bisz(1,1-dimetil-benzil)fenil]benzotriazol | SKH=1,5 mg/kg |
-
-| 60400 | 003896-11-5 | 2-(2’-Hidroxi-3’-terc-butil-5’- -metilfenil)-5-klórbenzotriazol | SKH(E)=30 mg/kg (19) |
-
-| 60800 | 065447-77-0 | 1-(2-Hidroxietil)-4-hidroxi-2,2, 6,6-tetrametilpiperidin dimetil- -szukcinát kopolimer | SKH=30 mg/kg |
-
-| 61280 | 003293-97-8 | 2-Hidroxi-4-hexiloxibenzofenon | SKH(E)=6 mg/kg (15) |
-
-| 61360 | 000131-57-7 | 2-Hidroxi-4-metoxibenzofenon | SKH(E)=6 mg/kg (15) |
-
-| 61440 | 002440-22-4 | 2-(2-Hidroxi-5-metilfenil)benzo-triazol | SKH(E)=30 mg/kg (19) |
-
-| 61600 | 001843-05-6 | 2-Hidroxi-4-oktiloxibenzofenon | SKH(E)=6 mg/kg (15) |
-
-| 63200 | 051877-53-3 | Tejsav, mangánsó | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 64320 | 010377-51-2 | Lítium-jodid | SKH(E)=1 mg/kg (11) (jódban kifejezve) és SKH(E)= 0,6 mg/kg (8) (lítiumban kifejezve) |
-
-| 65120 | 007773-01-5 | Mangán-klorid | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 65200 | 012626-88-9 | Mangán-hidroxid | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 65280 | 010043-84-2 | Mangán-hipofoszfit | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 65360 | 011129-60-5 | Mangán-oxid | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 65440 |  | Mangán-pirofoszfit | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 66360 | 085209-91-2 | [2,2’-Metilénbisz(4,6-di-terc-butil-fenil)]-nátrium-foszfát | SKH=5 mg/kg |
-
-| 66400 | 000088-24-4 | 2,2’-Metilénbisz(4-etil-6-terc-butilfenol) | SKH(E)=1,5 mg/kg (20) |
-
-| 66480 | 000119-47-1 | 2,2’-Metilénbisz(4-metil-6-terc-butilfenol) | SKH(E)=1,5 mg/kg (20) |
-
-| 67360 | 067649-65-4 | Dodecilón-trisz(izooktilszulfanil-acetát) | SKH=24 mg/kg |
-
-| 67520 | 054849-38-6 | Metilóntrisz(izooktilszulfanil-acetát) | SKH(E)=0,18 mg/kg (16) (ónban kifejezve) |
-
-| 67600 |  | Oktilón-trisz[alkil(C10-C16)szul-fanilacetát] | SKH(E)=1,2 mg/kg (18) (ónban kifejezve) |
-
-| 67680 | 027107-89-7 | Oktilón-trisz(2-etilhexilszulfanil-acetát) | SKH(E)=1,2 mg/kg (18) (ónban kifejezve) |
-
-| 67760 | 026401-86-5 | Oktilón-trisz(izooktilszulfanil-acetát) | SKH(E)=1,2 mg/kg (18) (ónban kifejezve) |
-
-| 67896 | 020336-96-3 | Mirisztinsav, lítiumsó | SKH(E)= 0,6 mg/kg (8) (litiumban kifejezve) |
-
-| 68320 | 002082-79-3 | Octadecil-[3-(3,5-di-terc-butil-4- -hidroxifenil)propionát] | SKH=6 mg/kg |
-
-| 68400 | 010094-45-8 | N-Oktadecil-[(Z)dokoz-13-én-amid] | SKH=5 mg/kg |
-
-| 68860 | 004724-48-5 | Oktánfoszfonsav | SKH=0,05 mg/kg |
-
-| 69840 | 016260-09-6 | N-Oleilpalmitinsav-amid; helyesen: (Z)-N-Oktadecil- -hexadekánamid | SKH=5 mg/kg |
-
-| 71935 | 007601-89-0 | Perklórsav, nátriumsó monohidrát | SKH=0,05 mg/kg (31) |
-
-| 72160 | 000948-65-2 | 2-Fenilindol | SKH=15 mg/kg |
-
-| 72800 | 001241-94-7 | 2-Etilhexil-difenil-foszfát | SKH=2,4 mg/kg |
-
-| 73040 | 013763-32-1 | Foszforsav-lítiumsói | SKH(E)=0,6 mg/kg (8) (lítiumban kifejezve) |
-
-| 73120 | 010124-54-6 | Foszforsav-mangánsó | SKH(E)=0,6 mg/kg (10) (mangánban kifejezve) |
-
-| 74400 |  | Foszforossav-trisz(nonil-és/vagy dinonilfenil)-észterei | SKH=30 mg/kg |
-
-| 76680 | 068132-00-3 | Policiklopentadién, hidrogénezett | SKH= 5 mg/kg (1) |
-
-| 77440 |  | Polietilénglikol-diricinoleát | SKH=42 mg/kg |
-
-| 77520 | 061791-21-6 | Ricinusolaj-polietilénglikol-észter | SKH=42 mg/kg |
-
-| 78320 | 009004-97-1 | Polietilénglikol-ricinoleát | SKH=42 mg/kg |
-
-| 81200 | 071878-19-8 | Poli{6-[(1,1,3,3-tetrametilbutil)- amino]-1,3,5-triazin-2,4- diil}[(2,2,6,6-tetrametil-4- piperidil)imino]hexametilén[(2,2,6, 6-tetrametil-4-piperidil)imino]} | SKH=3 mg/kg |
-
-| 81680 | 007681-11-0 | Kálium-jodid | SKH(E)=1 mg/kg (11) (jódban kifejezve) |
-
-| 82020 | 019019-51-3 | Propionsav-kobaltsó | SKH(E)=0,05 mg/kg (14) (kobaltban kifejezve) |
-
-| 83595 | 119345-01-6 | A di-terc-butil-foszfonit bifenillel képzett rekcióterméke, amit 2,4-di- -terc-butilfenol , foszfor-triklorid és bifenil Friedel-Crafts reakció-jával nyernek | SKH=18 mg/kg és az 5. számú melléklet előírásai szerint. |
-
-| 83700 | 000141-22-0 | Ricinolsav | SKH=42 mg/kg |
-
-| 84800 | 000087-18-3 | Szalicilsav-(4-terc-butilfenil)- észtere; 4-terc-butilfenil-szalicilát | SKH=12 mg/kg |
-
-| 84880 | 000119-36-8 | Szalicilsav-metilészter; metil- -szalicilát | SKH=30 mg/kg |
-
-| 85760 | 012068-40-5 | Szilíciumsav-lítium-alumíniumsó (2:1:1) | SKH(E)=0,6 mg/kg (8) (lítiumban kifejezve) |
-
-| 85920 | 012627-14-4 | Szilíciumsav-lítiumsó | SKH(E)=0,6 mg/kg (8) (lítiumban kifejezve) |
-
-| 86480 | 007631-90-5 | Nátrium -biszulfit | SKH(E)= 10 mg/kg (30) (kén-dioxidban kifejezve) |
-
-| 86800 | 007681-82-5 | Nátrium-jodid | SKH(E)=1 mg/kg (11) (jódban kifejezve) |
-
-| 86880 |  | Nátrium-(alkil- és dialkilfenoxi-benzoldiszulfonát) | SKH=9 mg/kg |
-
-| 86920 | 007632-00-0 | Nátrium-nitrit | SKH(E)= 0,6 mg/kg |
-
-| 86960 | 007757-83-7 | Nátrium-szulfit | SKH(E)= 10 mg/kg (30) (kén-dioxidban kifejezve) |
-
-| 87120 | 007772-98-7 | Nátrium-tioszulfát | SKH(E)= 10 mg/kg (30) (kén-dioxidban kifejezve |
-
-| 89170 | 013586-84-0 | Sztearinsav-kobaltsó | SKH(E)=0,05 mg/kg (14) (kobaltban kifejezve) |
-
-| 92000 | 007727-43-7 | Bárium-szulfát | SKH(E)=1 mg/kg (12) (báriumban kifejezve) |
-
-| 92320 |  | Glikolsav-(tetradecil)polietilén- glikollal (éterfok=3-8) alkotott étere | SKH=15 mg/kg |
-
-| 92560 | 038613-77-3 | [Tetrakisz(2,4-di-terc-butilfenil)- -4,4’-bifenilén]-difoszfonit | SKH=18 mg/kg |
-
-| 92800 | 000096-69-5 | 4,4’-Tiobisz(6-terc-butil-3-metil- fenol) | SKH=0,48 mg/kg |
-
-| 92880 | 041484-35-9 | (2,2’-Tiodietil)-bisz[3-(3,5-di-terc- -butil-4-hidroxifenil)propionát] | SKH=2,4 mg/kg |
-
-| 93120 | 000123-28-4 | Didodecil-(3,3’-tiodipropionát) | SKH(E)=5 mg/kg (21) |
-
-| 93280 | 000693-36-7 | Dioktadecil-(2,2’-tiodipropionát) | SKH(E)=5 mg/kg (21) |
-
-| 94400 | 036443-68-2 | Trietilénglikol-bisz[3-(terc-butil- 4-hidroxi-5-metilfenil)-propionát] | SKH= 9mg/kg |
-
-| 94560 | 000122-20-3 | Nitrilo-2,2’,2’’-trietanol | SKH=5 mg/kg |
-
-| 95280 | 040601-76-1 | 1,3,5-Trisz(4-terc-butil-3-hidroxi- -2,6-dimetilbenzil)-1,3,5-triazin- -2,4,6(1H,3H,5H)-trion | SKH=6 mg/kg |
-
-| 95360 | 027676-62-6 | 1,3,5-Trisz(3,5-di-terc-butil-4-hidroxibenzil)-1,3,5-triazin- -2,4,6(1H,3H,5H)-trion | SKH=5 mg/kg |
-
-| 95600 | 001843-03-4 | 1,1,3-Trisz(2-metil-4-hidroxi-5- -terc-butilfenil)bután | SKH=5 mg/kg |
-
-4. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-Baktériumos fermentációval előállított termékek
-
-| EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
-
-| 1. | 2. | 3. | 4. |
-
-| 18888 | 080181-31-3 | 3-Hidroxilbutánsav és 3-hidroxipentánsav kopolimer | SKH=0,05 mg/kg krotonsavra (mint szennyeződésre) és az 5. számú melléklet előírásai szerint. |
-
-4/A. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-LIPOFIL ANYAGOK, AMELYEKNÉL HASZNÁLNI KELL A ZSÍR REDUKCIÓS FAKTORT
-
-| EGK szám | CAS-szám | Név |
-
-| 31520 | 061167–58–6 | Akrilsav, 2-terc-butil-6-(3-terc-butil-2-hidroxi-5-metilbenzil)- 4-metilfenil-észter |
-
-| 31530 | 123968–25–2 | Akrilsav, 2,4-di-terc-pentil-6-[1-(3,5-di-terc-pentil-2-hidroxifenil) etil]fenil-észter |
-
-| 31920 | 000103–23–1 | Adipinsav, bisz(2-etilhexil)-észter |
-
-| 38240 | 000119–61–9 | Benzofenon |
-
-| 38515 | 001533–45–5 | 4,4’-Bisz(2-benzoxazolil)sztilbén |
-
-| 38560 | 007128–64–5 | 2,5-Bisz(5-terc-butil-2-benzoxazolil)tiofén |
-
-| 38700 | 063397–60–4 | Bisz(2-karbobutoxietil)ón-bisz(izooktil-merkaptoacetát) |
-
-| 38800 | 032687–78–8 | N,N’-Bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionil)hidrazid |
-
-| 38810 | 080693–00–1 | Bisz(2,6-di-terc-butil-4-metilfenil)pentaeritritol-difoszfit |
-
-| 38820 | 026741–53–7 | Bisz(2,4-di-terc-butilfenil)pentaeritritol-difoszfit |
-
-| 38840 | 154862–43–8 | Bisz(2,4-dikumilfenil)pentaeritritol-difoszfit |
-
-| 39060 | 035958–30–6 | 1,1-Bisz(2-hidroxi-3,5-di-terc-butilfenil)etán |
-
-| 39925 | 129228–21–3 | 3,3-Bisz(metoximetil)-2,5-dimetilhexán |
-
-| 40000 | 000991–84–4 | 2,4-Bisz(oktilmerkapto)-6-(4-hidroxi-3,5-di-terc-butilanilin)-1,3,5-triazin |
-
-| 40020 | 110553–27–0 | 2,4-Bisz(oktiltiometil)-6-metilfenol |
-
-| 40800 | 013003–12–8 | 4,4’-Butilidén-bisz(6-terc-butil-3-metilfenil-ditridecil-foszfít) |
-
-| 42000 | 063438–80–2 | (2-Karbobutoxietil)ón-trisz(izooktil-merkaptoacetát) |
-
-| 45450 | 068610–51–5 | p-Krezol-diciklopentadién-izobutilén, kopolimer |
-
-| 45705 | 166412–78–8 | 1,2-ciklohexándikarbonsav, diizononil-észter |
-
-| 46720 | 004130–42–1 | 2,6-Di-terc-butil-4-etilfenol |
-
-| 47540 | 027458–90–8 | Di-terc-dodecil-diszulfid |
-
-| 47600 | 084030–61–5 | Di-n-dodecil-ón-bisz(izooktil-merkaptoacetát) |
-
-| 48800 | 000097–23–4 | 2,2’-Dihidroxi-5,5’-diklór-difenilmetán |
-
-| 48880 | 000131–53–3 | 2,2’-Dihidroxi–4-metoxibenzofenon |
-
-| 49080 | 852282–89–4 | N-(2,6-Diizopropilfenil)-6-[4-(1,1,3,3-tetrametilbutil)fenoxi]-1H-benzo [de]izokinolin-1,3(2H)-dion |
-
-| 49485 | 134701–20–5 | 2,4-Dimetil-6-(1-metilpentadecil)-fenol |
-
-| 49840 | 002500–88–1 | Dioktadecil-diszulfid |
-
-| 51680 | 000102–08–9 | N,N’-Difeniltiokarbamid |
-
-| 52320 | 052047–59–3 | 2-(4-Dodecilfenil)indol |
-
-| 53200 | 023949–66–8 | 2-Etoxi-2’-etiloxanilid |
-
-| 54300 | 118337–09–0 | 2,2’-Etilidén-bisz(4,6-di-terc-butil-fenil)fluor-foszfonit |
-
-| 59120 | 023128–74–7 | l,6-Hexametilén-bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionamid] |
-
-| 59200 | 035074–77–2 | l,6-Hexametilén-bisz[(3-(3,5-di-terc-butil-4-hidroxifenil)propionát] |
-
-| 60320 | 070321–86–7 | 2-[2-Hidroxi-3,5-bisz(1,1-dimetilbenzil)fenil]benzotriazol |
-
-| 60400 | 003896–11–5 | 2-(2’-Hidroxi-3’-terc-butil-5’-metilfenil)-5-klórbenzotriazol |
-
-| 60480 | 003864–99–1 | 2-(2’-Hidroxi-3,5’-di-terc-butilfenil)-5-klórbenzotriazol |
-
-| 61280 | 003293–97–8 | 2-Hidroxi-4-n-hexiloxibenzofenon |
-
-| 61360 | 000131–57–7 | 2-Hidroxi-4-metoxibenzofenon |
-
-| 61600 | 001843–05–6 | 2-Hidroxi-4-n-oktiloxibenzofenon |
-
-| 66360 | 085209–91–2 | 2,2’-Metilén-bisz(4,6-di-terc-butilfenil)-nátrium-foszfát |
-
-| 66400 | 000088–24–4 | 2,2’-Metilén-bisz(4-etil-6-terc-butilfenol) |
-
-| 66480 | 000119–47–1 | 2,2’-Metilén-bisz(4-metil-6-terc-butilfenol) |
-
-| 66560 | 004066–02–8 | 2,2’-Metilén-bisz(4-metil-6-ciklohexilfenol) |
-
-| 66580 | 000077–62–3 | 2,2’-Metilén-bisz(4-metil-6-(1-metil-ciklohexil)fenol) |
-
-| 68145 | 080410–33–9 | 2,2’,2”-Nitrilo[trietil-trisz(3,3’,5,5’-tetra-terc-butil-1,1-bi-fenil-2,2’-diil)foszfit] |
-
-| 68320 | 002082–79–3 | Oktadecil-3-(3,5-di-terc-butil-4-hidroxifenil)propionát |
-
-| 68400 | 010094–45–8 | Oktadecilerukamid |
-
-| 69840 | 016260–09–6 | Oleilpalmitamid |
-
-| 71670 | 178671–58–4 | Pentaeritritol-tetrakisz(2-ciano-3,3-difenilakrilát) |
-
-| 72081/10 | – | Kőolajalapú szénhidrogén gyanták (hidrogénezett) |
-
-| 72141 | 0018600–59–4 | 2,2’-(1,4-fenilén)bisz[4H-3,1-benzoxazin-4-on] |
-
-| 72160 | 000948–65–2 | 2-Fenilindol |
-
-| 72800 | 001241–94–7 | Foszforsav, difenil-2-etilhexil-észter |
-
-| 73160 | – | Foszforsav, mono- és di-n-alkil(C16 és C18)-észterek |
-
-| 74010 | 145650–60–8 | Foszforsav, bisz(2,4-di-terc-butil-6-metilfenil)-etil-észter |
-
-| 74400 | – | Foszforsav, trisz(nonil- és/vagy dinonilfenil)-észter |
-
-| 76807 | 0007308–26–5 | Adipinsav poliésztere, 1,3-butándiollal, 1,2-propándiollal és 2-etil-1-hexanollal |
-
-| 76866 | – | 1,2-propándiol és/vagy 1,3- és/vagy 1,4-butándiol és/vagy polipropilénglikol adipinsavval képzett poliészterei, lezárás ecetsavval vagy C12–C18 zsírsavakkal vagy n-oktanollal és/vagy n-dekanollal |
-
-| 77440 | – | Polietilénglikol-diricinoleát |
-
-| 78320 | 009004–97–1 | Polietilénglikol-monoricinoleát |
-
-| 81200 | 071878–19–8 | Poli[6-[(1,1,3,3-tetrametilbutil)amino]-1,3,5-triazin-2,4-diil]-[(2,2,6,6-tetra- metil-4-piperidil)-imino]hexametilén[(2,2,6,6-tetrametil-4-piperidil)imino] |
-
-| 83599 | 068442–12–6 | Olajsav, 2-merkaptoetil-észter reakciótermékei diklór-dimetil-ónnal, nátrium-szulfiddal és triklór-metil-ónnal |
-
-| 83700 | 000141–22–0 | Ricinolsav |
-
-| 84800 | 000087–18–3 | Szalicilsav, 4-terc-butilfenil-észter |
-
-| 92320 | – | Glikolsav tetradecil-polietilénglikol(EO = 3–8)-étere |
-
-| 92475 | 0203255–81–6 | 3,3’,5,5’-tetrakisz(tert-butil)-2,2’-dihidroxibifenil, ciklikus észter [3-(3-tert-butil-4-hidroxi-5-metilfenil)propil] oxifoszfonsavval” |
-
-| 92560 | 038613–77–3 | Tetrakisz(2,4-di-terc-butil-fenil)-4,4’-bifenililén-difoszfonit |
-
-| 92700 | 078301–43–6 | 2,2,4,4-Tetrametil-20-(2,3-epoxipropil)-7-oxa-3,20-diazadispiro[5.1.11.2]- heneikozan-21-on, polimer |
-
-| 92800 | 000096–69–5 | 4,4’-Tio-bisz(6-terc-butil-3-metilfenol) |
-
-| 92880 | 041484–35–9 | Tiodietanol-bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionát) |
-
-| 93120 | 000123–28–4 | Tiodipropionsav, didodecil-észter |
-
-| 93280 | 000693–36–7 | Tiodipropionsav, dioktadecil-észter |
-
-| 95270 | 161717–32–4 | 2,4,6-Trisz(terc-butil)feni-2-butil-2-etil-1,3-propándiol-foszfit |
-
-| 95280 | 040601–76–1 | 1,3,5-Trisz(4-terc-buti-3-hidroxi-2,6-dimetilbenzil)-l,3,5-triazi- 2,4,6(1H,3H,5H)-trion |
-
-| 95360 | 027676–62–6 | 1,3,5-Trisz(3,5-di-terc-butil-4-hidroxibenzil)-1,3,5-triazin-2,4,6(1H,3H,5H)- trion |
-
-| 95600 | 001843–03–4 | 1,1,3-Trisz(2-metil-4-hidroxi-5-terc-butilfenil)-bután |
-
-5. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-A műanyagokra és műanyag eszközökre vonatkozó előírások
-
-A) rész
-
-Általános előírások
-
-Azokból a műanyagokból és műanyag eszközökből, amelyek aromás izocianátokból vagy diazo festékek felhasználásával készültek, nem oldódhat ki elsőrendű aromás amin (kivéve az anilint) kimutatható mennyiségben (kimutatási határ 0,02 mg/kg, élelmiszerben vagy élelmiszerutánzó anyagban, beleértve az analitikai módszer hibáját). Ezen előírásban a felsorolt elsőrendű aromás aminok kioldódási értékei nem szerepelnek.
-
-B) rész
-
-Egyéb előírások
-
-| EGK-szám | Egyéb előírások |  |  |
-
-| 11530 | Akrilsav, 2-hidroxipropil-észter. Legfeljebb 25% (m/m) akrilsav, 2-hidroxipropil-észtert (CAS-szám 002918-23-2) tartalmazhat. |
-
-| 16690 | Divinilbenzol legfeljebb 45% (m/m) etil-vinilbenzolt tartalmazhat |
-
-| 18888 | 3-HIDROXIBUTÁNSAV és 3-HIDROXIPENTÁNSAV KOPOLIMER Meghatározás: Ezeket a kopolimereket Alcaligenes eutrophus ellenőrzött fermentációjával nyerik glükóz és propánsav keverékét alkalmazva szénforrásként. A felhasznált, géntechnológiával nem módosított mikroorganizmus egy egyszerű vad típusú Alcaligenes eutrophus H16 NCIMB 10442 törzsből származik. A mikroorganizmus törzsoldatát mélyhűtve ampullában tárolják. A felhasználásra kerülő hígítást a törzsoldatból készítik folyékony N2-ben, és azt oltószerként használják a fermentációhoz. A fermentációban használt mintákat naponta mikroszkóposan ellenőrizni kell különböző agarokon és hőmérsékleteken a telepek alakjában bekövetkező elváltozásokra. A kopolimereket ellenőrzött hőkezeléssel különítik el a baktériumoktól, az egyéb sejteredetű komponensektől, mossák és szárítják. Ezeket a kopolimereket általában olvasztással nyert granulátum formájában ajánlják, amelyek tartalmazzák az adalékanyagokat, mint oltóanyagokat, lágyítókat, töltőanyagokat, stabilizátorokat, pigmenteket, amelyek megfelelnek az általános és külön előírásoknak. |
-
-|  | - Kémiai név: 3-D-hidroxibutánsav és 3-D-hidroxipentánsav kopolimer |
-
-|  | - CAS-szám: 080181-31-3 |
-
-|  | - Átlagos móltömeg legalább 150.000 dalton (gélkromatográfiás méréssel) - Elemzés legalább 98%-ban a 3-D-hidroxibutánsav és 3-D-hidroxipentánsav kopolimerje, amelyet hidrolízissel és a monomerek meghatározásával határozunk meg. Megjelenés: fehér-törtfehér por az izolálás után. Jellemzők: - Azonosító vizsgálatok: - Oldékonyság oldódik klórozott szénhidrogénekben mint pl. kloro- formban vagy diklór-metánban, de gyakorlatilag oldhatatlan etanolban, alifás alkánokban és vízben. - Kioldódás MMF a krotonsav esetében 0,05 mg/6 dm2 |
-
-|  | - Tisztaság a granuláláshoz az alapanyag-kopolimer tartalmazhat: - nitrogént legfeljebb 2500 mg/kg műanyag - cinket legfeljebb 100 mg/kg műanyag - rezet legfeljebb 5 mg/kg műanyag - ólmot legfeljebb 2 mg/kg műanyag - arzént legfeljebb 1 mg/kg műanyag - krómot legfeljebb 1 mg/kg műanyag |
-
-| 23547 | POLIDIMETIL-SZILOXÁN (móltömeg > 6800 ) viszkozitás legalább 100 × 10-6m2/s (100 centistokes) 25 oC-on |
-
-| 25385 | TRIALLIL-AMIN 40 mg/kg hidrogél, ha 1 kg élelmiszer legfeljebb 1,5 gramm hidrogélt tartalmaz. Csak olyan hidrogélekben, amelyek élelmiszerrel közvetlenül nem érintkeznek |
-
-| 38320 | 4-(BENZOXAZOL-2-IL)-4’-(5-METILBENZOXAZOL-2-IL)-SZTILBÉN Legfeljebb 0,05% (m/m) (a felhasznált anyag mennyisége/a formuláció mennyisége) |
-
-| 43680 | DIFLUOR-KLÓRMETÁN FLUOR-KLÓRMETÁN kevesebb mint 1mg/kg |
-
-| 47210 | DIBUTILTIOSZTANNÁNSAV-POLIMER Molekulaegység= (C8 H18 S3 Sn2 )n (n=1,5-2) |
-
-| 60027 | Hidrogénezett homopolimerek és/vagy kopolimerek 1-hexénből és/vagy 1-okténből és /vagy 1-decénből és/vagy 1-dodecénből és/vagy 1-tetradecénből (Mw: 440–12000) Az átlagos molekulatömeg legalább 440 Da Viszkozitás 100 °C-on: legalább 3,8 cSt (3,8 x 10–6 m2/s) |
-
-| 76721 | POLIDIMETIL-SZILOXÁN (móltömeg > 6800 ) viszkozitás legalább 100 × 10-6 m2 /s (=100 centistokes) 25 oC |
-
-| 77708 | El nem ágazó és elágazó, (C8–C22) primer alkoholok polietilénglikol (EO = 1–50) -éterei Az etilén-oxid maximális maradványanyag-mennyisége az anyagban vagy a termékben = 1 mg/kg |
-
-| 77895 | Polietilénglikol(EO= 2-6)-monoalkil(C16 -C18 )-éter A keverék összetétele a következő: -polietilénglikol(EO= 2-6)-monoalkil(C16 -C18 )-éter (kb. 28%) -zsíralkoholok (C16 -C18 ) (kb. 48%) -etilénglikol-monoalkil(C16 -C18 )-éter (kb. 24%) |
-
-| 80350 | Poli(12-hidroxi-sztearátsav)-polietilén-imin kopolimer A poli(12-hidroxi-sztearátsav) polietilén-iminnel való reakciója során keletkezik. |
-
-| 80480 | Poli(6-morfolin-1,3,5-triazin-2,4-diil)-[(2,2,6,6-tetrametil-4-piperidil)imino)]-hexametilén- [(2,2,6,6-tetrametil-4-piperidil)imino)] Az átlagos molekulatömeg legalább 2400 Da Maradékanyag-tartalom: morfolin ≤30 mg/kg, N,N’-bisz(2,2,6,6-tetrametil-piperidin-4-il)hexán-1,6-diamin <15000 mg/kg, és 2,4-diklór-6-morfolin-1,3,5-triazin ≤20 mg/kg |
-
-| 83595 | DI-TERC-BUTILFOSZFONIT BIFENILLEL KÉPZETT REAKCIÓTERMÉKE, AMELYET DI-TERC-BUTILFENOL, FOSZFOR-TRIKLORID ÉS BIFENIL FRIEDEL–CRAFTS-REAKCIÓJÁVAL NYERNEK Összetétel – 4,4’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 38613-77-3); 36–46% (m/m) (37) – 4,3’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 118421-00-4); 17–23% (m/m) – 3,3’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 118421-00-4); 1–5% (m/m) - – 4-Bifenilén-O,O-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 91362-37-7); 11–19% (m/m) – Trisz(2,4-di-terc-butilfenil)foszfit (CAS No 31570-04-4); 9–18% (m/m) – 4,4’-Bifenilén-O,O-bisz(2,4-di-terc-butilfenil)foszfonát-O,O-bisz(2,4-di- -terc-butilfenil)foszfonit (CAS No 112949-97-0); <5% (m/m) Egyéb előírások -Foszfortatalom minimuma 5,4–5,9% -Max. savszám 10 mg KOH grammonként -Olvadási tartomány 85–110 oC |
-
-| 88640 | EPOXIDÁLT SZÓJAOLAJ Epoxid < 8%, Jódszám < 6 |
-
-| 93450 | Titánium-dioxid, az n-oktiltriklór-szilán és [aminotrisz(metilén-foszfinsav), penta nátrimsó] kopolimerével bevonva] A bevont titánium-dioxid felületkezelő kopolimer-tartalma nem haladhatja meg az 1 tömegszázalékot. |
-
-| 95859 | FINOMÍTOTT GYANTÁK, AMELYEK TERMÉSZETES VAGY SZINTETIKUS SZÉNHIDROGÉNEKBŐL KÉSZÜLTEK A termékekre a következő előírások vonatkoznak: – ásványi szénhidrogén-tartalom, amelyben a szénatomszám kevesebb, mint 25: kevesebb, mint 5% (m/m) - viszkozitás legalább 10 × 10-4 m2/s (=11 centistokes) 100 °C-on – átlagos móltömeg legalább 500 |
-
-| 95883 | ÁSVÁNYI EREDETŰ FEHÉROLAJOK, PARAFFINOK, AMELYEK TERMÉSZETES SZÉNHIDROGÉNBŐL KÉSZÜLTEK A termékekre vonatkozó előírások: – ásványi szénhidrogén-tartalom, amelynek szénatomszáma kevesebb, mint 25: nem több, mint 5% (m/m) - viszkozitás legalább 8,5 × 10-6 m2 /sec (= 8,5 centistokes) 100 °C-on - átlagos móltömeg legalább 480 |
-
-(37) Felhasznált/képződött anyag mennyisége.
-
-6. számú melléklet az 1-2-2002/72 számú előíráshoz
-
-Megjegyzések a 2. és a 3. számú mellékletben szereplő „Korlátozások, illetve előírások” oszlophoz
-
-(1) Figyelmeztetés: Fennáll annak a veszélye, hogy az SKH nagyobb a zsírutánzó modellanyagban.
-
-(2) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 10060 és 23920 EGK-számú anyagok kioldódásainak összege.
-
-(3) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 15760, 16990, 47680, 53650 és 89440 EGK-számú anyagok kioldódásainak összege.
-
-(4) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 19540, 19960 és 64800 EGK-számú anyagok kioldódásainak összege.
-
-(5) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 14200 14230 és 41840 EGK-számú anyagok kioldódásainak összege.
-
-(6) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 66560 és 66580 EGK-számú anyagok kioldódásainak összege.
-
-(7) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 30080, 42320, 45195, 45200, 53610, 81760, 89200 és 92030 EGK-számú anyagok kioldódásainak összege.
-
-(8) Ebben az esetben az SKH(E) azt jelenti, hogy a 24886, 62020, 30607, 38000, 42400, 64320, 66350, 67896, 73040, 85760, 85840, 85920 és 95725 hivatkozási szám alatt szereplő anyagok kioldódási értékének az összege nem haladja meg a korlátozást.
-
-(9) Figyelmeztetés: fennáll a veszélye annak, hogy a kioldódott anyagok károsan befolyásolják az élelmiszerek érzékszervi tulajdonságait, így a késztermék nem felel meg az MÉ 1-2-89/109 számú előírás 2. §-a 2. pontjának.
-
-(10) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 30180, 40980, 63200, 65120, 65200, 65280, 65360, 65440 és 73120 EGK-számú anyagok kioldódásainak összege.
-
-(11) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 45200, 64320, 81680 és 86800 EGK-számú anyagok kioldódásainak összege.
-
-(12) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 36720, 36800, 36840 és 92000 EGK-számú anyagok kioldódásainak összege.
-
-(13) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 39090 és 39120 EGK-számú anyagok kioldódásainak összege.
-
-(14) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 44960, 68078, 82020 és 89170 EGK-számú anyagok kioldódásainak összege.
-
-(15) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 15970, 48640, 48720, 48880, 61280, 61360 és 61600 EGK-számú anyagok kioldódásainak összege.
-
-(16) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 49600, 67520 és 83599 EGK-számú anyagok kioldódásainak összege.
-
-(17) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 50160, 50240, 50320, 50360, 50400, 50480 50560, 50640, 50720, 50800, 50880, 50960, 51040 és 51120 EGK-számú anyagok kioldódásainak összege.
-
-(18) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 67600, 67680 és 67760 EGK-számú anyagok kioldódásainak összege.
-
-(19) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 60400, 60480 és 61440 EGK-számú anyagok kioldódásainak összege.
-
-(20) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 66400 és 66480 EGK-számú anyagok kioldódásainak összege.
-
-(21) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 93120 és 93280 EGK-számú anyagok kioldódásainak összege.
-
-(22) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 17260, 18670, 54880 és 59280 EGK-számú anyagok kioldódásainak összege.
-
-(23) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 13620, 36840, 40320 és 87040 EGK-számú anyagok kioldódásainak összege.
-
-(24) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 13720 és 40580 EGK-számú anyagok kioldódásainak összege.
-
-(25) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 16650 és 51570 EGK-számú anyagok kioldódásainak összege.
-
-(26) Az MM(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 14950, 15700, 16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210, 25240 és 25270 EGK-számú anyagok kioldódásainak összege.
-
-(27) Az MMF(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 10599/90A, 10599/91, 10599/92A és 10599/93 EGK-számú anyagok kioldódásainak összege.
-
-(28) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 13480 és 39680 EGK-számú anyagok kioldódásainak összege.
-
-(29) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 22775 és 69920 EGK-számú anyagok kioldódásainak összege.
-
-(30) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 86480 86960 és 87120 EGK-számú anyagok kioldódásainak összege.
-
-(31) A zsírral érintkező műanyagok esetén a megfelelőségi vizsgálathoz D-modell oldószerként telített zsírt tartalmazó élelmiszer-modellanyagot célszerű használni.
-
-(32) A zsírral érintkező műanyagok esetén a megfelelőségi vizsgálathoz izooktánt célszerű használni a (nem stabil) D-modell oldószer helyett.
-
-(33) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 14800 és 45600 EGK-számú anyagok kioldódásainak összege.
-
-(34) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 14800 és 45600 EGK-számú anyagok kioldódásainak összege.
-
-(44) Fennáll annak veszélye, hogy az SKH-t túllépik a poliolefinek.
-
-(45) Fennáll annak veszélye, hogy az SKH-t túllépik azok a műanyagok, melyek az adott anyagból 0,5 tömegszázaléknál többet tartalmaznak.
-
-(46) Fennáll annak veszélye, hogy az SKH-t túllépik a magas alkoholtartalmú élelmiszerekkel való érintkezés során.
-
-(47) Fennáll annak veszélye, hogy az SKH-t túllépi az az alacsony sűrűségű polietilén (LDPE), mely az adott anyagból 0,3 tömegszázaléknál többet tartalmaz és zsíros élelmiszerekkel kerül érintkezésbe.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 34. sorszámú előírása[^14]
 
@@ -5448,11 +2406,639 @@ Ezután az izzítótégelyt exszikkátorban (4.4.) a mérleg-szoba hőmérsékle
 
 A minta hamutartalmát tömegszázalékban a következő képlettel számítjuk ki:
 
+|  | m1 – m2 | ⋅ 100 |
+
+|  | m0 |
+
+ahol:
+
+m0 = a bemért minta tömege mg-ban,
+
+m1 = az izzítótégely és a maradék tömege mg-ban,
+
+m2 = az izzítótégely tömege mg-ban.
+
+Az eredményeket 0,01% (m/m) pontossággal adjuk meg.
+
+7. Ismételhetőség
+
+Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között egyidőben vagy közvetlenül egymás után végzett két meghatározás eredménye között a a különbség legfeljebb 0,15 g/100 g termék [0,15% (m/m)] lehet.
+
+6. módszer: A pH-érték meghatározása
+
+1. Tárgy és alkalmazási terület
+
+Ez a módszer a kazeinát pH-értékének meghatározására szolgál.
+
+2. Fogalommeghatározás
+
+A kazeinát pH-értéke: a kazeinát vizes oldatának 20 °C-on ezzel a módszerrel meghatározott pH-értéke.
+
+3. A módszer elve
+
+A kazeinát vizes oldata pH-értékének elektrometriás meghatározása pH-mérővel.
+
+4. Vegyszerek
+
+A vegyszerek elkészítéséhez vagy a vizsgálathoz (6.) felhasznált vizet közvetlenül a felhasználás előtt desztillálni és a széndioxid-abszorpció ellen védeni kell.
+
+4.1. Puffer-oldat a pH-mérő (5.2.) kalibrálásához
+
+Két standard puffer-oldatot használunk, amelyeknek pH-értéke 20 °C-on két tizedesjegy pontossággal ismert. Az egyik pH-értéke kisebb, a másiké nagyobb legyen, mint a vizsgálandó mintáé. Például 4 körüli pH-jú ftalát-puffer-oldatot és 9 körüli pH-jú bórax-puffer-oldatot használhatunk.
+
+5. Eszközök
+
+5.1. Mérleg, leolvasási pontossága 0,1 mg
+
+5.2. pH-mérő, leolvasási pontossága 0,05 pH egység, megfelelően hitelesített üveg-, kalomel vagy más vonatkoztatási elektróddal
+
+5.3. Hőmérő, leolvasási pontossága 0,5 °C
+
+5.4. Erlenmeyer-lombik, 100 ml-es, becsiszolt üvegdugóval
+
+5.5. Főzőpohár, 50 ml-es
+
+5.6. Keverő
+
+5.7. Főzőpohár a keveréshez (5.6.), térfogata legalább 250 ml
+
+6. A vizsgálat menete
+
+6.1. A vizsgálandó minta előkészítése
+
+Lásd: I. Minta-előkészítés és általános követelmények (1.2. pont).
+
+6.2. Meghatározás
+
+6.2.1. A mérőműszer hitelesítése
+
+A puffer-oldatok (4.1.) hőmérsékletét 20 °C-ra állítjuk be és a pH-mérőt a használati utasításnak megfelelően hitelesítjük.
+
+Megjegyzések:
+
+1. A hitelesítést addig kell elvégezni, amíg a vizsgálandó oldatot 20 percig állni hagyjuk (6.2.2.).
+
+2. Ha mintasorozatot vizsgálunk, a pH-mérő egy vagy több standard oldattal végzett hitelesítését legalább 30 percenként meg kell ismételni.
+
+6.2.2. A vizsgálandó oldat előkészítése
+
+A főzőpohárba (5.7.) 95 ml vizet engedünk, hozzáadunk 5 g vizsgálandó mintát (6.1.) és a keverővel (5.6.) 30 másodpercig keverjük. 20 percig 20 °C-on állni hagyjuk; közben a főzőpoharat óraüveggel lefedjük.
+
+6.2.3. A pH-érték meghatározása
+
+Az oldatból körülbelül 20 ml-t a főzőpohárba (5.5.) viszünk és a pH-mérővel (5.2.) az oldat pH-értékét azonnal mérjük. A pH-mérő üvegelektródját előzőleg vízzel gondosan öblítsük le. A kazeinát vizes oldatának pH-értékét a pH-mérő skáláján legalább 2 tizedes pontossággal leolvassuk és feljegyezzük.
+
+7. Ismételhetőség
+
+Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között egyidőben vagy közvetlenül egymás után végzett két meghatározás eredménye között a különbség legfeljebb 0,05 pH-érték lehet.
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 51. sorszámú előírása[^27]
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+3–1–86/424 számú előírás
+
+(2. kiadás – 2006.)
+
+Az étkezési kazeinek és kazeinátok mintavételi módszerei
+
+1. §
+
+Az étkezési kazeinek és kazeinátok mintavételi módszereit és az ehhez szükséges eszközöket az előírás 1. számú melléklete tartalmazza.
+
+2. §
+
+Ez az előírás 2007. július 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek az étkezési kazeinek és kazeinátok mintavételi módszereiről szóló 3–1–86/424 számú előírása 1995-ben jóváhagyott 1. kiadása hatályát veszti.
+
+3. §
+
+Ez az előírás az étkezési kazeinek és kazeinátok vegyi elemzéséhez szükséges közösségi mintavételi módszerek megállapításáról szóló, 1986. július 15-i 86/424/EGK bizottsági irányelvnek való megfelelést szolgálja.
+
+1. számú melléklet a 3–1–86/424 számú előíráshoz
+
+Egyes emberi fogyasztásra szánt étkezési kazeinek és kazeinátok mintavételi módszerei
+
+I. Általános előírások
+
+1. Adminisztratív előírások
+
+1.1. A mintavevőre vonatkozó előírás
+
+A mintavételt az érvényes előírásoknak megfelelően képzett és meghatalmazott személy végezze.
+
+1.2. A minták lezárása és jelölése
+
+Minden hivatalos mintát a vétel helyszínén le kell zárni, le kell pecsételni és az azonosításhoz szükséges adatokat fel kell tüntetni rajta.
+
+1.3. Párhuzamos minták
+
+A vizsgálatokhoz legalább két azonos, reprezentatív mintát kell egyidejűleg venni. A mintákat a mintavétel után a lehető leghamarabb el kell küldeni a laboratóriumba.
+
+Az egyik minta ellenmintaként szolgál.
+
+1.4. Mintavételi jegyzőkönyv
+
+A mintához mintavételi jegyzőkönyvet kell mellékelni. A jegyzőkönyvet a mintavétellel megbízott és tanúként jelen lévő személyek írják alá. A jegyzőkönyvnek a következőket kell tartalmaznia:
+
+a) a mintavétel helyét, dátumát, időpontját,
+
+b) a mintavevő személy és a tanú nevét,
+
+c) a mintavétel pontos leírását,
+
+d) a szállítmányt alkotó tételek fajtáját, számát, kódját,
+
+e) annak a tételnek az azonosítási számát, amelyből a mintát vették,
+
+f) a tételből vett minták számát, utalva arra a tételre, amelyből a minták származnak,
+
+g) a helyet, ahová a mintát küldeni kell,
+
+h) a gyártó vagy a csomagolásért felelős személy nevét és címét.
+
+2. Mintavevő eszközök
+
+Minden eszköz legyen alkalmas a mintavételre, és ne okozzon a mintában semmilyen, a vizsgálat eredményét befolyásoló változást. Rozsdamentes acélból készült eszközök használata ajánlott.
+
+Minden felület sima, karcmentes, minden sarok legömbölyített legyen. A mintavevő eszközök feleljenek meg az egyes vizsgálandó termékekre érvényes követelményeknek.
+
+3. Mintatároló edények
+
+A mintatároló edények és fedelük olyan anyagból, olyan kialakítással készüljenek, hogy védjék a mintát minden olyan lehetséges változástól, ami a vizsgálatok eredményét befolyásolhatja. Az alkalmas anyagok közé tartozik az üveg, egyes fémek és egyes műanyagok. Az edények átlátszatlansága előnyös. Ha fényáteresztő edényeket használunk, mintával megtöltve sötét helyen tároljuk. Az edények és a fedők tiszták és szárazak legyenek.
+
+Felhasználhatók eldobható műanyag edények, alumíniumfóliával rétegezett műanyagból készült edények és megfelelő zárással ellátott alkalmas műanyag zacskók. A műanyag zacskókon kívül a többi edény légmentesen zárható legyen, vagy alkalmas dugóval, vagy, szükség esetén, nedvességet szigetelő, nem oldódó, nem abszorbeáló és zsírnak ellenálló műanyag bevonattal ellátott menetes fém/műanyag kupakkal azért, hogy a minta szagának, ízének, tulajdonságainak vagy összetételének bármilyen változását elkerüljük. Ha dugót használunk, az nem abszorbeáló, szagmentes anyagból készüljön.
+
+4. A mintavétel technikája
+
+A mintatároló edényt a mintavétel után azonnal zárjuk le.
+
+5. A minták tárolása
+
+A tárolási hőmérséklet a különböző kazein- és kazeinát-minták elszállítását megelőzően ne haladja meg a 25 °C-ot.
+
+6. A minták szállítása
+
+A mintákat a mintavétel után a lehető leggyorsabban (lehetőség szerint 24 órán belül) el kell juttatni a vizsgáló laboratóriumba. A szállítás alatt gondoskodni kell arról, hogy a légnemű szennyeződések, a közvetlen napfény és a 25 °C feletti hőmérséklet okozta károsodásokat elkerüljük.
+
+II. Étkezési kazeinek és kazeinátok mintavételi módszerei
+
+1. Tárgy és alkalmazási terület
+
+Ezek a módszerek
+
+– étkezési savas kazeinek,
+
+– étkezési oltós kazeinek,
+
+– étkezési kazeinátok
+
+mintavételére szolgálnak.
+
+2. Eszközök
+
+Lásd: Általános előírások, 2. pont.
+
+2.1. Szúró mintavevők, amelyek elegendő hosszúak ahhoz, hogy a terméket tartalmazó tartály aljáig leérjenek. Ezek a szúró mintavevők ezen előírás III. részében találhatók.
+
+2.2. Kanál vagy széles végű spatula
+
+2.3. Mintatároló edények
+
+Lásd: Általános előírások, 3. pont.
+
+3. Mintavételi eljárás
+
+3.1. Általános előírások
+
+Mindent el kell követni, hogy a vizsgálandó minta vétele előtt és alatt az edény és a minta által felvett légnedvesség a lehető legkisebb legyen. Az edényt a mintavétel után újból gondosan zárjuk le.
+
+3.2. Mintavétel
+
+3.2.1. Mintavétel kémiai vizsgálathoz
+
+A kivett minta mennyisége legalább 200 g legyen. A tiszta és száraz szúró mintavevőt a terméken keresztülvezetjük, szükség esetén a tartályt megdöntjük vagy oldalára fektetjük. A szúró mintavevő nyílását lefelé irányítjuk, a bevezetés egyenletes legyen. Ha a szúró mintavevő a tartály alját elérte, 180°-kal elfordítjuk, kihúzzuk és tartalmát a mintatároló edénybe töltjük. A 200 g-os mennyiséghez egy vagy több mintavétel szükséges. Mihelyt összegyűlt az elegendő minta mennyiség, a mintatároló edényt azonnal lezárjuk.
+
+3.2.2. Mintavétel fogyasztói csomagokból
+
+A mintavételhez sértetlen, bontatlan fogyasztói csomagot használunk. Ugyanazon árutételből vagy azonos számmal jelzett csomagokból egy vagy több csomagot veszünk ki ahhoz, hogy legalább 200 g-os mintát nyerjünk.
+
+Ha az instant tulajdonságok meghatározása szükséges, mindig ezt a mintavételi eljárást alkalmazzuk.
+
+3.2.3. A minta megőrzése, tárolása és szállítása
+
+Lásd: Általános előírások, 5. és 6. pont.
+
+III. Szúró mintavevők étkezési kazeinek és kazeinátok mintavételéhez
+
+1. Szúró mintavevő fajták
+
+A típus: hosszú
+
+B típus: rövid
+
+(Lásd az ábrát)
+
+2. A mintavevő eszközök leírása
+
+A hengeres test és a fogantyú polírozott fémből, lehetőleg rozsdamentes acélból készüljön. A hosszú szúró mintavevő markolata rozsdamentes acélból készüljön. A rövid szúró mintavevő markolata levehető, fából vagy műanyagból készült, a tulajdonképpeni szúró mintavevőhöz bajonettzárral csatlakozik.
+
+3. A mintavevő eszköz megmunkálása
+
+3.1. Az eszköz alakja, anyaga és megmunkálása olyan legyen, hogy az könnyen tisztítható és szükség esetén sterilezhető legyen.
+
+3.2. Az A típusú szúró mintavevő hengeres testének széle elegendően éles legyen ahhoz, hogy kaparóként szolgáljon.
+
+3.3. A szúró mintavevő hegye elég éles legyen, hogy a mintavételt megkönnyítse.
+
+4. Fő méretek
+
+A szúró mintavevők feleljenek meg a következő táblázatban feltüntetett méreteknek, 10% tűréssel:
+
+|  | Méretek milliméterben |
+
+|  | A típus hosszú | B típus rövid |
+
+| A szúró mintavevő hossza | 800 | 400 |
+
+| A fémlap vastagsága | 1–2 | 1–2 |
+
+| A szúró mintavevő belső átmérője a csúcsnál | 18 | 32 |
+
+| A szúró mintavevő belső átmérője a nyél alatt | 22 | 28 |
+
+| Résszélesség a csúcsnál | 4 | 20 |
+
+| Résszélesség a nyél alatt | 14 | 14 |
+
+5. Használati utasítás a szúró mintavevőkhöz
+
+5.1. Többé-kevésbé könnyen folyó porokba a szúró mintavevők függőlegesen vezethetők be. Az A típusú szúró mintavevő forgatással teljesen megtölthető és függőlegesen visszahúzható. A B típusú szúró mintavevő a bevezetés alatt már teljesen megtelik, visszahúzáskor azonban megfelelő helyzetben kell tartani, hogy a veszteséget az alsó végén elkerüljük.
+
+5.2. Többé-kevésbé szabadon folyó poroknál a tartályt megdöntjük és a szúró mintavevőt majdnem vízszintesen, réssel lefelé vezetjük be, majd réssel felfelé húzzuk ki.
+
+Ábra
+
+Szúró mintavevő kazeinek és kazeinátok mintavételére
+
+(méretek mm-ben)
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 52. sorszámú előírása[^28]
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+3–1–87/524 számú előírás
+
+(2. kiadás – 2006.)
+
+Sűrített tej és tejporfélék mintavételi módszerei
+
+1. §
+
+Az étkezési sűrített tej és a tejpor vizsgálatához szükséges mintavételt a mellékletben leírtak szerint kell elvégezni.
+
+2. §
+
+Ez az előírás 2007. július 1-jén lép hatályba, ezzel egyidejűleg a Magyar Élelmiszerkönyvnek a sűrített tej és tejporfélék mintavételi módszereiről szóló 3–1–87/524 számú előírása 1995-ben jóváhagyott 1. kiadása hatályát veszti.
+
+3. §
+
+Ez az előírás a tartós tejtermékek vizsgálatára szolgáló vegyi elemzéshez szükséges közösségi mintavételi módszerek megállapításáról szóló, 1987. október 6-i 87/524/EGK bizottsági irányelvnek való megfelelést szolgálja.
+
+Melléklet a 3–1–87/524 számú előíráshoz
+
+I. Általános előírások
+
+1. Adminisztratív előírások
+
+1.1. A mintavevőre vonatkozó előírás
+
+A mintavételt az érvényes előírásoknak megfelelően képesített és felhatalmazott személy végezze.
+
+1.2. A minták lezárása és jelölése
+
+Minden hivatalos mintát a vétel helyszínén le kell pecsételni és az előírások szerint megjelölni.
+
+1.3. Párhuzamos minták
+
+A vizsgálatokhoz legalább két azonos mintát kell egyidejűleg venni. Az egyik minta ellenmintaként szolgál.
+
+A mintákat a mintavétel után a lehető leghamarabb el kell küldeni a laboratóriumba.
+
+1.4. Jegyzőkönyv
+
+A mintához mintavételi jegyzőkönyvet kell mellékelni.
+
+A jegyzőkönyvet a mintavétellel megbízott és tanúként jelen lévő személyek írják alá. A jegyzőkönyvnek a következőket kell tartalmaznia:
+
+a) a mintavétel helye, dátuma, időpontja,
+
+b) a mintavevő személy és a tanú neve,
+
+c) a mintavétel pontos leírása,
+
+d) a szállítmányt alkotó tételek fajtája, száma, kódja,
+
+e) annak a tételnek az azonosítási száma, amiből a mintát vették,
+
+f) a tételből vett minták száma, utalva arra a tételre, amiből a minták származnak,
+
+g) a hely, ahová a mintát küldeni kell,
+
+h) a gyártó vagy a csomagolásért felelős személy neve és címe.
+
+2. Mintavevő eszközök
+
+Minden eszköz legyen alkalmas a mintavételre, és ne okozzon a mintában semmilyen, a vizsgálat eredményét befolyásoló változást. Rozsdamentes acélból készült eszközök használata ajánlott, melyek felülete sima, karcmentes, minden sarok legömbölyített legyen.
+
+A mintavevő eszközök feleljenek meg az egyes vizsgálandó termékekre érvényes követelményeknek.
+
+3. Mintatároló edények
+
+A mintatároló edényeket és fedelüket olyan anyagból, olyan kialakítással kell készíteni, hogy védjék a mintát minden olyan lehetséges változástól, ami a vizsgálatok eredményét befolyásolhatja. Az alkalmas anyagok közé tartozik az üveg, egyes fémek és egyes műanyagok. Az edények átlátszatlansága előnyös. Ha fényáteresztő edényeket használunk, a mintával megtöltve sötét helyen tároljuk azokat.
+
+Az edények és a fedők tiszták és szárazak legyenek. Az edények alakja és térfogata feleljen meg a vizsgálandó termékre érvényes követelményeknek.
+
+Felhasználhatók eldobható műanyag edények, alumíniumfóliával rétegezett műanyagból készült edények és megfelelő zárással ellátott alkalmas műanyag zacskók. A műanyag zacskókon kívül a többi edény légmentesen zárható legyen vagy erre alkalmas dugóval, vagy szükség esetén nedvességet szigetelő, nem oldódó, nem abszorbeáló, zsírnak ellenálló műanyag bevonattal ellátott, menetes fém/műanyag kupakkal, azért hogy a minta szagának, ízének, tulajdonságainak vagy összetételének bármilyen változását elkerüljük.
+
+Ha dugót használunk, az nem abszorbeáló, szagmenetes anyagból készüljön.
+
+4. A mintavétel technikája
+
+A mintatároló edényt a mintavétel után azonnal zárjuk le.
+
+5. A minták tárolása
+
+A tárolási hőmérséklet a minták elszállítását megelőzően ne haladja meg a 25 °C-ot.
+
+6. A minták szállítása
+
+A mintákat a mintavétel után a lehető leggyorsabban (lehetőség szerint 24 órán belül) el kell juttatni a vizsgáló laboratóriumba. A szállítás alatt gondoskodni kell arról, hogy a légnemű szennyeződések, a közvetlen napfény és a 25 °C feletti hőmérséklet okozta károsodásokat elkerüljük.
+
+II. 1. módszer: Mintavétel sűrített tejből
+
+1. Tárgy és alkalmazási terület
+
+A módszert a következő tejfélék kémiai vizsgálatához szükséges minta vételére alkalmazzuk:
+
+– cukrozatlan sűrített tej,
+
+– cukrozatlan sűrített soványtej,
+
+– cukrozatlan sűrített félzsíros tej,
+
+– cukrozatlan sűrített zsíros tej,
+
+– cukrozott sűrített tej,
+
+– cukrozott sűrített soványtej,
+
+– cukrozott sűrített félzsíros tej.
+
+2. Eszközök
+
+2.1. Általános megjegyzések
+
+Lásd: Általános előírások, 2. pont.
+
+2.2. Perforált tárcsás és egyéb keverők
+
+A keverők a nagy mennyiségű folyadékok átkeveréséhez, örvénylő mozgás keltéséhez elegendő nagy felületűek legyenek, azonban ne segítsék elő avas íz és szag kifejlődését.
+
+A tartályok különféle formája és nagysága miatt nem létezik minden célra megfelelő keverő. A keverőt úgy kell kialakítani, hogy a tartály belső felületét a keverés során ne karcolja fel. Az eszközöket az Általános előírások 2. pontja írja le. Vödörben, kannában lévő folyadékok keverésére alkalmas keverő (lásd: 1. ábra) tájékoztató méretei: 150 mm átmérőjű tárcsa, 100 mm átmérőjű kör mentén elhelyezkedő hat, egyenként 12,5 mm átmérőjű lyukkal. A középpontban olyan nem-fém rúd csatlakozik, amelynek a másik végén hurokszerű fogantyú van. A rúd hossza fogantyúval együtt kb. 1 méter.
+
+Kis tartályokhoz alkalmas keverő közelítő méretei (lásd: 2. ábra): legalább 2 m hosszú rúdhoz 300 mm átmérőjű tárcsa csatlakozik; a tárcsán 230 mm átmérőjű kör mentén 12, egyenként 30 mm átmérőjű lyuk található. Nagy tartályok mechanikus keveréséhez tiszta sűrített levegő ajánlott. A lehető legkisebb légnyomást és a legkisebb levegőmennyiséget alkalmazzuk az avas íz és szag kifejlődésének elkerülésére.
+
+Megjegyzés: A tiszta sűrített levegőn az összes szennyeződéstől (beleértve az olajat, vizet és port) megtisztított levegőt értjük.
+
+2.3. Keverő
+
+A keverőnek széles lapátja legyen és érjen le az edény aljáig. A keverő egyik oldala pontosan illeszkedjék a tartály alakjához (lásd: 3. ábra).
+
+2.4. Merítőkanál
+
+Mintavételre alkalmas méretű és formájú merítőkanalat mutat be a 4. ábra. A merítőkanálnak legalább 150 mm hosszú merev nyele legyen, térfogata pedig legalább 50 ml. Előnyös, ha a nyél nincs meghajlítva. A kanalak újabb formája lehetővé teszi egymásba illesztett tárolásukat.
+
+Alkalmazható még az előbbivel azonos térfogatú, jellel öt azonos térfogatszakaszra osztott, hengeres merítőkanál is, amely több edényben érkező áru mintavételét könnyíti meg.
+
+2.5. Keverő rúd
+
+Hengeres, kb. 1 m hosszú, 35 mm átmérőjű.
+
+2.6. Edény
+
+Részminták vételéhez, 5 l térfogatú, szélesszájú.
+
+2.7. Kanál vagy spatula
+
+A spatula lapát része széles legyen.
+
+2.8. Mintatároló edény
+
+Lásd: Általános előírások, 3. pont.
+
+3. Eljárás
+
+3.1. Mintavétel cukrozatlan sűrített tejből.
+
+Legalább 200 g mintát kell venni.
+
+3.1.1. Az edény tartalmát egy keverőrúd le-fel mozgatásával, keverővel való keveréssel, mechanikus mozgatással egyik edényből a másikba való áttöltéssel vagy tiszta sűrített levegővel (lásd: 2.2. pont) alaposan átkeverjük a kielégítően homogén állapot elérése céljából. A mintát közvetlenül a keverés után merítőkanállal vesszük ki. Ha a megfelelő homogén állapot nehezen érhető el, a mintát az edény különböző részeiből kell kivenni. Az összes mintamennyiség legalább 200 g legyen.
+
+Ha a minta részminták elegye, azt a minta címkéjén vagy a kísérő jegyzőkönyvben fel kell tüntetni.
+
+3.1.2. Mintavétel fogyasztói csomagolásból
+
+Sértetlen, bontatlan csomagot lehetőleg azonos gyártásból származó vagy azonosan megjelölt csomagokat kell kivenni. A minta összes mennyisége legalább 200 g legyen.
+
+3.2. Mintavétel cukrozott sűrített tejből
+
+3.2.1. Általános előírások
+
+Nagy tartályokban lévő cukrozott sűrített tejből a mintavétel nagy nehézséggel járhat, különösen akkor, ha a termék inhomogén és nagy viszkozitású. A mintavételnél gondot okozhatnak az egész termékben megjelenő vagy a falakon tapadó, csomósodást okozó szacharóz vagy laktóz kristályok, sókiválások. Ezek a körülmények felismerhetők, ha mintavevőt vezetünk be a tartályba, és azzal a tartály tartalmát megmozgatjuk.
+
+Ha a cukorkristályok mérete 6 mm-nél kisebb, a mintavétel nem okoz gondot. Ha a termék nem homogén, azt a mintán és a csatolt jegyzőkönyvben fel kell tüntetni. Mivel a cukrozott sűrített tejet gyakran a külső hőmérséklettel azonos hőmérsékleten tárolják, a reprezentatív minta kivételéhez tanácsos a termék hőmérsékletét legalább 20 °C-ra emelni.
+
+3.2.2. Eljárás
+
+Legalább 200 g-os mintát kell venni.
+
+– Nyitható tartályok.
+
+A tartály egyik fedőlapját kinyitás előtt kívülről alaposan megtisztítjuk és megszárítjuk annak elkerülésére, hogy a nyitás során idegen anyagok jussanak a tartályba. Tartalmát keverő (lásd: 3. ábra) segítségével jól átkeverjük. A keverő élével a fal belső oldalára és az aljára tapadó terméket lekaparjuk. A ferdén tartott keverő forgó és függőleges mozgatásával a tartályt jól átkeverjük, ügyelve arra, hogy levegőt ne juttassunk bele. A keverőt kivesszük, a rátapadt sűrített tejet spatulával vagy kanállal az 5 literes edénybe (2.6.) kaparjuk. A keverést és a keverő kiemelését addig ismételjük, míg 2-3 l össze nem gyűlik, majd a homogénné kevert sűrített tejből legalább 200 g-ot kiveszünk.
+
+– Zárt tartályok (dobok), peremes nyílással a fedőlapon vagy a paláston.
+
+A 3.2.1. pontban leírt okokból a mintavétel a peremes nyíláson keresztül csak akkor lehetséges, ha a sűrített tej könnyen folyó, s egyenletes állományú. A tartalmat úgy keverjük át, hogy egy mintavevő rudat a nyíláson át bevezetünk, s ameddig csak lehetséges, minden irányban mozgatjuk és forgatjuk. A rúd visszahúzása után a 3.2.1. pontban leírt módon mintát gyűjtünk.
+
+Lehetséges megoldás még az, ha a tartály tartalmát megfelelő edénybe átöntjük, ügyelve arra, hogy az eredeti térfogatból a lehető legtöbb jusson át. A 3.2.1. pontban leírt, keverővel történő átkeverés után kivesszük a mintát.
+
+3.2.3. Mintavétel fogyasztói csomagolásból
+
+Sértetlen, bontatlan csomagot kell mintaként kivenni. Lehetőleg azonos gyártásból származó, azonosan megjelölt csomagokat vegyünk ki. A minta összes mennyisége legalább 200 g legyen.
+
+3.3. A minták tartósítása, tárolása, szállítása
+
+Lásd: Általános előírások: 5. és 6. pont.
+
+III. 2. módszer: Mintavétel tejporból
+
+1. Alkalmazási terület
+
+Ez a módszer
+
+– teljes tejpor,
+
+– sovány tejpor,
+
+– félzsíros tejpor,
+
+– emelt zsírtartalmú tejpor
+
+kémiai vizsgálatához szükséges mintavételt írja le.
+
+2. Eszközök
+
+Lásd: Általános előírások, 2. pont.
+
+2.1. A szúró mintavevők legyenek elegendő hosszúak ahhoz, hogy a tartály aljára érjenek. Az engedélyezett szúró mintavevők a IV. részben leírtaknak feleljenek meg.
+
+2.2. Kanál vagy spatula
+
+A spatula lapja széles legyen.
+
+2.3. Mintatároló edény
+
+Lásd: Általános előírások, 3. pont.
+
+3. Eljárás
+
+3.1. Általános megjegyzések
+
+Ügyelni kell arra, hogy a tartályban lévő termék a mintavétel alatt vagy ezt megelőzően a lehető legkevesebb légnedvességet vegye fel. A tartályt a mintavétel után gondosan vissza kell zárni.
+
+3.2. Mintavétel kémiai vizsgálat céljára
+
+A minta mennyisége legalább 200 g legyen. A tiszta és száraz szúró mintavevőt a terméken átfúrjuk, ehhez a tartályt megdöntjük, vagy oldalára fektetjük.
+
+A szúró mintavevő nyílását lefelé fordítjuk, hogy a behatolás egyenletes legyen. Ha a szúró mintavevő a tartály alját elérte, 180 fokkal megfordítjuk, kihúzzuk és tartalmát a mintatároló edénybe töltjük. A 200 g-hoz egy vagy több furat szükséges. Mihelyt a szükséges mintamennyiség összegyűlt, a mintatároló edényt le kell zárni.
+
+3.2.1. Mintavétel fogyasztói csomagolásból
+
+Sértetlen, bontatlan csomagot kell mintaként kivenni.
+
+Lehetőleg azonos gyártásból származó, vagy azonosan megjelölt csomagokat vegyünk ki. A minta összes mennyisége legalább 200 g legyen.
+
+Megjegyzés: Amennyiben változó tulajdonságokat kell meghatározni, ezt a mintavételi eljárást kell alkalmazni.
+
+3.3. A minta tárolása és szállítása
+
+Lásd: Általános előírások, 5. és 6. pont.
+
+IV. Szúró mintavevők csomagolatlan tejpor mintavételéhez
+
+1. Fajták:
+
+A típus: hosszú
+
+B típus: rövid
+
+(lásd: 5. ábra)
+
+2. Eszközök
+
+A lap és a támasz polírozott fémből, lehetőleg rozsdamentes acélból készüljön.
+
+A hosszú szúró mintavevő fogantyúja rozsdamentes acél legyen. A rövid szúró mintavevőnek levehető, fából vagy műanyagból készült, bajonettzárral ráerősíthető nyele legyen.
+
+3. Kivitel
+
+3.1. Az eszköz alakja, anyaga és felülete tegye lehetővé könnyű tisztítását.
+
+3.2. Az A típusú szúró mintavevő éle elég éles legyen ahhoz, hogy kaparóként is szolgálhasson.
+
+3.3. A szúró mintavevő hegye legyen elég éles ahhoz, hogy a mintavételt megkönnyítse.
+
+4. Főbb méretek
+
+A szúró mintavevők a következő táblázatban található méreteknek feleljenek meg, 10% megengedett eltéréssel:
+
+|  | Méretek milliméterben |
+
+|  | A típus hosszú | B típus rövid |
+
+| A szúró mintavevő hossza | 800 | 400 |
+
+| A fémlemez vastagsága | 1–2 | 1–2 |
+
+| A szúró mintavevő belső átmérője a hegyénél | 18 | 32 |
+
+| A szúró mintavevő belső átmérője a nyél alatt | 22 | 28 |
+
+| Nyílásszélesség a hegyénél | 4 | 20 |
+
+| Nyílásszélesség a nyél alatt | 14 | 14 |
+
+5. A szúró mintavevők használata
+
+5.1. A többé-kevésbé könnyen folyó porokba a szúró mintavevőt függőlegesen vezetjük be. Az A típusú szúró mintavevőt elforgatással megtöltjük és függőlegesen kihúzzuk.
+
+A B típusú szúró mintavevőt a bevezetés során teljesen megtöltjük, és visszahúzáskor megfelelő állásban tartjuk, hogy az alsó részén az anyag kihullását elkerüljük.
+
+5.2. A többé-kevésbé szabadon folyó porok tartályát megdöntjük, a szúró mintavevőt csaknem vízszintesen, nyílásával lefelé bevezetjük és nyílásával felfelé húzzuk ki.
+
+1. ábra: Keverő kannához és vödörhöz
+
+(méretek mm-ben)
+
+2. ábra: Kisméretű tartályhoz ajánlott keverő
+
+(méretek mm-ben)
+
+3. ábra: A cukrozott sűrített tej keverésére alkalmas keverő 4. ábra: Mérőkanál folyadékokhoz
+
+5. ábra: Szúró mintavevő tejporhoz
+
+(méretek mm-ben)
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 56. sorszámú előírása[^29]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 57. sorszámú előírása[^30]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 58. sorszámú előírása[^31]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 59. sorszámú előírása[^32]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 61. sorszámú előírása[^33]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 62. sorszámú előírása[^34]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 63. sorszámú előírása[^35]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 64. sorszámú előírása[^36]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 65. sorszámú előírása[^37]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 66. sorszámú előírása[^38]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 67. sorszámú előírása[^39]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 68. sorszámú előírása[^40]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 69. sorszámú előírása[^41]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 70. sorszámú előírása[^42]
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének 71. sorszámú előírása[^43]
+
 [^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 240. pontja hatályon kívül helyezte.
-[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával. A melléklet a 26/2010. (III. 19.) FVM rendelet 4. §-a és 5. § (5) bekezdése, a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés a)–d) pontja szerint módosított szöveg.
+[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával. A melléklet a 26/2010. (III. 19.) FVM rendelet 4. §-a és 5. § (5) bekezdése, a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés a)–d) pontja, a 65/2010. (V. 12.) FVM rendelet 5. § a)–e) pontja szerint módosított szöveg.
 [^3]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^4]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 72/2005. (VIII. 15.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
-[^5]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 17. sorszámú előírás a 6/2008. (I. 17.) FVM rendelet 2. §-a szerint módosított szöveg.
+[^4]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 12. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^5]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 17. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § b) pontja hatályon kívül helyezte.
 [^6]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 18. sorszámú előírás a 6/2008. (I. 17.) FVM rendelet 4. §-a szerint módosított szöveg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (5) bekezdés c) pontja hatályon kívül helyezte.
 [^7]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 19. sorszámú előírás a 6/2008. (I. 17.) FVM rendelet 5. §-a és 7. § (2) bekezdése szerint módosított szöveg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (5) bekezdés d) pontja hatályon kívül helyezte.
 [^8]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 20. sorszámú előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletének II. része, a 6/2008. (I. 17.) FVM rendelet 6. §-a szerint módosított szöveg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (5) bekezdés e) pontja hatályon kívül helyezte.
@@ -5460,8 +3046,7 @@ A minta hamutartalmát tömegszázalékban a következő képlettel számítjuk 
 [^10]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 2/2005. (I. 11.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^11]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. Az előírás a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^12]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 30. sorszámú előírást az 57/2006. (VIII. 4.) FVM rendelet 2. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^13]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 2/2005. (I. 11.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
-[^*-ben]: European inventory of existing commercial chemical substances. Európai kereskedelmi forgalomban lévő kémiai anyagok adattára.
+[^13]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 31. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § b) pontja hatályon kívül helyezte.
 [^14]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés b) pontja hatályon kívül helyezte.
 [^15]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés f) pontja hatáyon kívül helyezte.
 [^16]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés b) pontja hatályon kívül helyezte.
@@ -5475,3 +3060,20 @@ A minta hamutartalmát tömegszázalékban a következő képlettel számítjuk 
 [^24]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg.
 [^25]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg.
 [^26]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg.
+[^27]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg.
+[^28]: Az előírás a 19/2007. (VIII. 29.) FVM rendelet mellékletében jelent meg.
+[^29]: Az előírás a 20/2005. (III. 22.) FVM rendelet mellékletében jelent meg. Az 56. sorszámú előírást az 57/2006. (VIII. 4.) FVM rendelet 2. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^30]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. Az 57. sorszámú előírást az 57/2007. (VII. 6.) FVM rendelet 2. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^31]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 72/2005. (VIII. 15.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást az 57/2006. (VIII. 4.) FVM rendelet 2. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^32]: Az előírás a 20/2005. (III. 22.) FVM rendelet mellékletében jelent meg. Az 59. sorszámú előírást az 57/2007. (VII. 6.) FVM rendelet 2. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^33]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 2/2005. (I. 11.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (7) bekezdés b) pontja hatályon kívül helyezte.
+[^34]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 62. sorszámú előírást az 57/2007. (VII. 6.) FVM rendelet 2. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^35]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 63. sorszámú előírást az 57/2007. (VII. 6.) FVM rendelet 2. § (3) bekezdésének d) pontja hatályon kívül helyezte.
+[^36]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. A 64. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^37]: Az előírás a 79/2006. (XI. 17.) FVM rendelet mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^38]: Az előírás az 57/2007. (VII. 6.) FVM rendelet mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (5) bekezdés f) pontja hatályon kívül helyezte.
+[^39]: Az előírás az 57/2007. (VII. 6.) FVM rendelet mellékletében jelent meg. A 67. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^40]: Az előírás az 57/2007. (VII. 6.) FVM rendelet – Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő – mellékletében jelent meg. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (7) bekezdés c) pontja hatályon kívül helyezte.
+[^41]: Az előírás a 6/2008. (I. 17.) FVM rendelet mellékletében jelent meg. A 69. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § e) pontja hatályon kívül helyezte.
+[^42]: Az előírás a 68/2008. (V. 16.) FVM rendelet mellékletében jelent meg. Az előírást a 37/2010. (IV. 13.) FVM rendelet 6. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^43]: Az előírás a 117/2008. (IX. 5.) FVM rendelet mellékletében jelent meg. A 71. sorszámú előírást a 65/2010. (V. 12.) FVM rendelet 5. § a) pontja hatályon kívül helyezte.
