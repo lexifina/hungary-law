@@ -1,0 +1,1 @@
+## „c) amennyiben a kérelem megfelel az a) és b) pontokban foglalt követelményeknek, a növényvédő szer újraértékelésének elvégzése érdekében a kérelmezőnek meg kell adnia az előírt határidőn belül a 3. számú melléklet szerinti részletes és összefoglaló adatokat, beleértve a magyarországi felhasználás körülményeit a helyes mezőgazdasági gyakorlatnak megfelelően,”
