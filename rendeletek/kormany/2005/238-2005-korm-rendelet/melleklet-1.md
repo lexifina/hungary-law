@@ -1,6 +1,6 @@
-## 4. § Ez a rendelet a kihirdetését követő 45. napon lép hatályba, rendelkezéseit a folyamatban lévő kivitelezési tevékenység építésfelügyeleti ellenőrzése során is alkalmazni kell.
+## 5. §[^17] E rendeletnek – az építésügyi és az építésfelügyeleti hatósági eljárásokkal összefüggő egyes kormányrendeletek módosításáról szóló 177/2010. (V. 13.) Korm. rendelet (a továbbiakban: Kr.) 1. § (1) bekezdésével megállapított – 1. § c) pontját, valamint e rendeletnek – a Kr. 1. § (3) bekezdésével megállapított – 3/A. §-át a Kr. hatálybalépését követően[^18] indult vagy megismételt eljárásokban kell alkalmazni.
 
-1. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^15]
+1. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^19]
 
 I. rész
 
@@ -42,4 +42,6 @@ I. rész
 
 II. rész
 
-[^15]: A melléklet számozását 1. mellékletre változtatta a 246/2006. (XII. 5.) Korm. rendelet 6. §-a, szövege a 196/2009. (IX. 15.) Korm. rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^17]: Az 5. §-t a 177/2010. (V. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^18]: A hatálybalépés időpontja 2010. május 28.
+[^19]: A melléklet számozását 1. mellékletre változtatta a 246/2006. (XII. 5.) Korm. rendelet 6. §-a, szövege a 196/2009. (IX. 15.) Korm. rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.

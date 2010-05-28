@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-238-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2005-238-20-22.6 | 238/2005. (X. 25.) Korm. rendelet |
+| 2010-05-28 | 2005-238-20-22.7 | 177/2010. (V. 13.) Korm. rendelet |

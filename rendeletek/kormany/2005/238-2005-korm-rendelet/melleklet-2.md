@@ -24,7 +24,7 @@
 
 | Kivitelezési dokumentá- ciót készítő tervező | 11. Írásbeli tervezési szerződés hiányában elkészített és felhasználásra került kivitelezési dokumentáció | 100 000 Ft | 150 000 Ft | 200 000 Ft |
 
-2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^16]
+2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^20]
 
 ## Adatlap építésfelügyeleti bírsághoz
 
@@ -82,4 +82,4 @@ P. H.
 
 aláírás
 
-[^16]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (3) bekezdés b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^20]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (3) bekezdés b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
