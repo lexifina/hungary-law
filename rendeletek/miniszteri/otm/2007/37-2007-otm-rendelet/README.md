@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-37-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2007-37-20-1V.6 | 37/2007. (XII. 13.) ÖTM rendelet |
+| 2010-05-28 | 2007-37-20-1V.7 | 17/2008. (VIII. 30.) NFGM rendelet |

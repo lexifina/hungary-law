@@ -1,6 +1,7 @@
-## 52. §[^47]
+## 52. §[^47] E rendeletnek az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló 37/2007. (XII. 13.) ÖTM rendelet módosításáról szóló 19/2010. (V. 13.) NFGM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^48] követően indult ügyekben vagy megismételt eljárásokban kell alkalmazni.
 
-1. melléklet a 37/2007. (XII. 13.) ÖTM rendelethez[^48]
+1. melléklet a 37/2007. (XII. 13.) ÖTM rendelethez[^49]
 
-[^47]: Az 52. §-t és az azt megelőző alcímet a 17/2008. (VIII. 30.) NFGM rendelet 28. § (4) bekezdésének p) pontja hatályon kívül helyezte.
-[^48]: Az 1. melléklet a 25/2009. (IX. 30.) NFGM rendelet 7. §-ával megállapított és e módosító rendelet 10. § (2) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2010. január 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: Az 52. §-t és az azt megelőző alcímet a 17/2008. (VIII. 30.) NFGM rendelet 28. § (4) bekezdésének p) pontja hatályon kívül helyezte, az 52. §-t újonnan a 19/2010. (V. 13.) NFGM rendelet 1. §-a iktatta be.
+[^48]: A hatálybalépés időpontja 2010. május 28.
+[^49]: Az 1. melléklet a 25/2009. (IX. 30.) NFGM rendelet 7. §-ával megállapított és e módosító rendelet 10. § (2) bekezdés i) pontja, a 19/2010. (V. 13.) NFGM rendelet 2. §-a, 3. § (1) bekezdés a)–f) pontja, 4. §-a szerint módosított szöveg.
