@@ -1,0 +1,1 @@
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (7) bekezdésének q) pontjában, a 16. § tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. §-ának a) és i) pontjában kapott felhatalmazás alapján – az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a következőket rendeli el:
