@@ -1,0 +1,1 @@
+## 4. § Az eljárási költségek nyilvántartására és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló jogszabály előírásait kell alkalmazni.
