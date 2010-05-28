@@ -1,6 +1,6 @@
 ## Az engedélyezett termésnövelő anyag csomagolóeszközén, valamint a 100 kg nettó tömeget meghaladó ömlesztett áru kísérő okmányán feltüntetendő adatok
 
-## 1.[^48] Az engedély száma és hatálya.
+## 1.[^49] Az engedély száma és hatálya.
 
 ## 2. A termésnövelő anyag kereskedelmi neve (feltűnő helyen, egyértelműen, olvashatóan).
 
@@ -96,4 +96,4 @@ e) kezelések adatai (dózis, koncentráció, fenofázis, kezelés módja, felha
 
 f) értékelési szempontok.
 
-[^48]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^49]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.

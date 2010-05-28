@@ -1,6 +1,6 @@
 ## Kísérleti felhasználás
 
-17. §[^31] (1) A termésnövelő anyagok akkor használhatók fel kísérleti célra, ha a kísérleti felhasználás iránti kérelem adattartalma alapján várhatóan nincsenek káros hatással a növénykultúrára, a talajra, az ember és az állat egészségére, valamint nem veszélyeztetik a környezetet és a természetet.
+17. §[^32] (1) A termésnövelő anyagok akkor használhatók fel kísérleti célra, ha a kísérleti felhasználás iránti kérelem adattartalma alapján várhatóan nincsenek káros hatással a növénykultúrára, a talajra, az ember és az állat egészségére, valamint nem veszélyeztetik a környezetet és a természetet.
 
 (2) Engedéllyel nem rendelkező termékkel vagy az engedélytől eltérő felhasználási területen a laboratóriumi és mikroparcellás kísérletek kivételével csak kérelemre, az engedélyező hatóság által megadott külön engedély alapján lehet kísérletet végezni.
 
@@ -12,4 +12,4 @@
 
 (6) A kísérletet az MgSzH területi szerve ellenőrzi.
 
-[^31]: A 17. § a 10/2010. (II. 4.) FVM rendelet 11. §-ával megállapított szöveg.
+[^32]: A 17. § a 10/2010. (II. 4.) FVM rendelet 11. §-ával megállapított szöveg.
