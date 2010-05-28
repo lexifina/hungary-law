@@ -154,7 +154,7 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó – a miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-5. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^60]
+5. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^61]
 
 A szakmagyakorlási tevékenység engedélyezése iránti kérelem tartalma
 
@@ -170,4 +170,4 @@ A szakmagyakorlási tevékenység engedélyezése iránti kérelem tartalma
 
 6. a kérelmezett szakmagyakorlási jogosultság szakterületének megnevezése.
 
-[^60]: Az 5. mellékletet a 196/2009. (IX. 15.) Korm. rendelet 44. § (3) bekezdése iktatta be. E módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^61]: Az 5. mellékletet a 196/2009. (IX. 15.) Korm. rendelet 44. § (3) bekezdése iktatta be. E módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.

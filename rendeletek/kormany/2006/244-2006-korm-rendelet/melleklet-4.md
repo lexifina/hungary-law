@@ -72,7 +72,7 @@
 
 ## b) a középfokú végzettségű építési műszaki ellenőr és felelős műszaki vezető az általános részből, valamint a kért jogosultság szerinti különös részből, továbbá a kiegészítő szakmai ismeretekből egyaránt eredményes írásbeli vagy szóbeli javítóvizsgát tett.
 
-## 8.[^58] A vizsga azon főrésze minősül eredményesnek, amelyben a kérdéseket 60%-ban helyesen válaszolta meg a vizsgázó. Az értékelésnél a kérdéseket nehézségük szerinti súlyszámuk alapján kell figyelembe venni. A vizsgázónak szóbeli vizsgát kell tennie a vizsga azon főrészéből, amelyek esetében a kérdéseket 50%-ban vagy azt meghaladóan helyesen válaszolta meg.
+## 8.[^59] A vizsga azon főrésze minősül eredményesnek, amelyben a kérdéseket 60%-ban helyesen válaszolta meg a vizsgázó. Az értékelésnél a kérdéseket nehézségük szerinti súlyszámuk alapján kell figyelembe venni. A vizsgázónak szóbeli vizsgát kell tennie a vizsga azon főrészéből, amelyek esetében a kérdéseket 50%-ban vagy azt meghaladóan helyesen válaszolta meg.
 
 ## 9. A jogosultsági vizsga minősítését „nem felelt meg”, „megfelelt” szövegű bejegyzéssel kell rögzíteni mind a Törzslapon, mind a Bizonyítványban.
 
@@ -256,7 +256,7 @@
 
 ## jogosultsági vizsgát igazoló bizonyítványt kapott.”
 
-4. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^59]
+4. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^60]
 
-[^58]: A 3. melléklet II. részének 8. pontja a 196/2009. (IX. 15.) Korm. rendelet 44. § (2) bekezdése és 62. § (5) bekezdésének h) pontja szerint módosított szöveg.
-[^59]: A 4. mellékletet a 61/2008. (III. 27.) Korm. rendelet 22. § (7) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
+[^59]: A 3. melléklet II. részének 8. pontja a 196/2009. (IX. 15.) Korm. rendelet 44. § (2) bekezdése és 62. § (5) bekezdésének h) pontja szerint módosított szöveg.
+[^60]: A 4. mellékletet a 61/2008. (III. 27.) Korm. rendelet 22. § (7) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.

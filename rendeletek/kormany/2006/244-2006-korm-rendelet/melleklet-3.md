@@ -398,6 +398,6 @@
 
 ## cb) felsőfokú technikusi végzettség villamosipari technikusi szakképzettség, 5 éves szakmai gyakorlat.
 
-3. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^57]
+3. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^58]
 
-[^57]: A 3. melléklet a 61/2008. (III. 27.) Korm. rendelet 22. § (6) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
+[^58]: A 3. melléklet a 61/2008. (III. 27.) Korm. rendelet 22. § (6) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.

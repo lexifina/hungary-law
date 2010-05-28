@@ -216,27 +216,29 @@
 
 ## 2. Vízgazdálkodási építmények (vízi létesítmények) és az azokhoz szerkezetileg vagy funkcionálisan kapcsolódó építményrészek, mérnöki létesítmények – az I. részbe tartozó építmények kivételével – építési-szerelési munkái
 
-| 2.1. ,,A” kategória: |  |
+| 2.1. “A” kategória: |  |
 
-| a) | Tevékenységi kör: korlátozás nélkül végezhető a felelős műszaki vezetői tevékenység az alábbi építmények építés-szerelési munkái esetén: |  |
+| a) | Tevékenységi kör: korlátozás nélkül végezhető a felelős műszaki vezetői tevékenység az alábbi építmények építési-szerelési munkái esetén: |  |
 
-| aa) | duzzasztó- és vízerőművek, hajózsilipek, árvízkapuk, kikötői partfalak, |  |
+| aa) | duzzasztó- és vízerőmű, hajózsilip, árvízkapu, kikötői partfal, |  |
 
-| ab) | öntözőtelepek, öntözőcsatornák, halastavak, tógazdaságok, |  |
+| ab) | öntözőtelep, öntözőcsatorna, halastó, tógazdaság, |  |
 
-| ac) | víziközművek közüzemi hálózatai (beleértve az ipari, ivó- és tűzivíz hálózatokat, az egyesített és elválasztott rendszerű csatornahálózatokat, a nyílt és zárt rendszerű csapadékvíz-elvezető hálózatokat), |  |
+| ac) | víziközművek közüzemi hálózatai, beleértve az ipari, ivó- és tűzivíz hálózatot, az egyesített és elválasztott rendszerű csatornahálózatot, a nyílt és zárt rendszerű csapadékvíz- elvezető hálózatot, |  |
 
-| ad) | szennyvíztisztító telepek, víztermelő telepek, vízkezelő létesítmények, víztárolók, hévízhasznosítási létesítmények, |  |
+| ad) | szennyvíztisztító telep, víztermelő telep, vízkezelő építmény, víztároló, hévízhasznosítási építmény, |  |
 
-| ae) | árvízvédelmi töltések, árvízvédelmi falak és műtárgyaik, |  |
+| ae) | árvízvédelmi töltés, árvízvédelmi fal és műtárgyai, |  |
 
-| af) | belvízvédelmi csatornák és műtárgyaik, szivattyútelepek, |  |
+| af) | belvízvédelmi csatorna és műtárgyai, szivattyútelep, |  |
 
-| ag) | folyó- és tószabályozási művek, partvédőművek, |  |
+| ag) | folyó- és tószabályozási mű, partvédőmű, |  |
 
-| ah) | vízrendezési és vízkormányzó földművek és műtárgyaik, |  |
+| ah) | vízrendezési és vízkormányzó földmű és műtárgyai, |  |
 
-| ai) | árvízvédelmi szükségtározók, tározók, záportározók és műtárgyaik. |  |
+| ai) | árvízvédelmi szükségtározó, tározó, záportározó és műtárgyai, és |  |
+
+| aj) | közüzemi ivóvízellátást, továbbá ásvány- és gyógyvíz beszerzést szolgáló kút, hévízkút műtárgya és minden 100 m-nél mélyebb kútnak minősülő építmény. |  |
 
 | b) | Jelölése a névjegyzékben: |  |
 
@@ -247,6 +249,8 @@
 | ca) | okleveles építőmérnöki végzettség | 3 éves szakmai gyakorlat |
 
 | cb) | építőmérnöki, mélyépítési, közlekedésépítési, vízellátási és csatornázási, vízgazdálkodási üzemmérnöki, felsőfokú technikusi végzettség | 5 éves szakmai gyakorlat |
+
+| cc) | az a) pont aj) alpontja tekintetében a ca) és cb) alpontban említett követelmények vagy okleveles hidrogeológus mérnök vagy ezzel egyenértékűnek tekinthető okleveles mérnöki végzettség | 3 éves szakmai gyakorlat |
 
 | 2.2. ,,B” kategória: |  |
 
@@ -460,6 +464,6 @@
 
 | bc) villanyszerelő mesteri képesítés |  |
 
-2. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^56]
+2. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^57]
 
-[^56]: A 2. melléklet a 196/2009. (IX. 15.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^57]: A 2. melléklet a 196/2009. (IX. 15.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
