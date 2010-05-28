@@ -1,4 +1,4 @@
-## „II. A forgalmazó köteles a növényvédelmi-növényorvosi vényre rávezetni az átvevő nevét.”
+## 13. §[^1]
 
 14. § (1) Ez a rendelet az Európai Parlament és a Tanács 396/2005/EK rendelete (2005. február 23.) a növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint a 91/414/EGK tanácsi irányelv módosításáról, valamint az azt módosító 178/2006/EK, 149/2008/EK, 260/2008/EK, 299/2008/EK, 839/2008/EK, 256/2009/EK, 822/2009/EK, 1050/2009/EK, 1097/2009/EK, és a 304/2010/EU bizottsági rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -9,3 +9,5 @@
 (4) Ez a rendelet az Európai Parlament és a Tanács a 2004. április 29-i, a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló 882/2004/EK rendeletének való megfelelését szolgálja.
 
 (5) Ez a rendelet a Bizottság 2009. szeptember 28-i, a növényi és állati eredetű élelmiszerekben, illetve azok felületén található növényvédőszer-maradékok határértékének való megfelelés biztosítására, valamint a fogyasztók növényvédőszer-maradékoknak való kitettsége értékelésére irányuló, a 2010., 2011. és 2012. évre vonatkozó, többéves összehangolt közösségi ellenőrzési programról szóló 901/2009/EK rendeletének való megfelelését szolgálja.
+
+[^1]: A 13. §-t a 15. § (2) bekezdése hatályon kívül helyezte.
