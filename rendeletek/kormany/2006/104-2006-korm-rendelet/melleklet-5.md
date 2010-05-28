@@ -122,15 +122,15 @@
 
 ## h) a kamarai szabályzatokat;
 
-## 2/B.[^136]
+## 2/B.[^139]
 
-## 3.[^137]
+## 3.[^140]
 
 ## Kapcsolódó jogszabályok:
 
 ## A vizsgázótól számonkérhető követelményekre vonatkozó – a miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-5. melléklet a 104/2006. (IV. 28.) Korm. rendelethez[^138]
+5. melléklet a 104/2006. (IV. 28.) Korm. rendelethez[^141]
 
 A szakmagyakorlási tevékenység engedélyezése iránti kérelem tartalma
 
@@ -146,6 +146,6 @@ A szakmagyakorlási tevékenység engedélyezése iránti kérelem tartalma
 
 6. a kérelmezett szakmagyakorlási jogosultság szakterületének megnevezése.
 
-[^136]: A 4. melléklet „Különös követelmények” részének 2/B. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 30. pontja hatályon kívül helyezte.
-[^137]: A 4. melléklet „Különös követelmények” részének 3. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 30. pontja hatályon kívül helyezte.
-[^138]: Az 5. mellékletet a 196/2009. (IX. 15.) Korm. rendelet 36. §-a iktatta be. E módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^139]: A 4. melléklet „Különös követelmények” részének 2/B. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 30. pontja hatályon kívül helyezte.
+[^140]: A 4. melléklet „Különös követelmények” részének 3. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 30. pontja hatályon kívül helyezte.
+[^141]: Az 5. mellékletet a 196/2009. (IX. 15.) Korm. rendelet 36. §-a iktatta be. E módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
