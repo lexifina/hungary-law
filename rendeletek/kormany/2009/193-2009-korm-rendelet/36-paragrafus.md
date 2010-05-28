@@ -1,4 +1,4 @@
-## 36. § A használatbavételi engedélykérelemhez vagy bejelentéshez – a tartalmától függően – mellékelni kell
+## 36. §[^31] A használatbavételi engedélykérelemhez – a tartalmától függően – mellékelni kell
 
 a) a 25. § (5) bekezdés d) pontjában foglaltakat,
 
@@ -11,3 +11,5 @@ d) az építési tevékenységgel érintett épített vagy szerelt égéstermék
 e) a 25. § (5) bekezdés a) pontjában foglaltakat, ha a kivitelezés során a jogerős építési engedélytől és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentációtól, valamint az ezek alapján készült kivitelezési tervektől építésügyi hatósági engedélyhez nem kötött építési tevékenységgel eltértek,
 
 f) a 2. melléklet szerinti kitöltött statisztikai lapot.
+
+[^31]: A 36. § nyitó szövegrésze a 177/2010. (V. 13.) Korm. rendelet 18. § j) pontja szerint módosított szöveg.

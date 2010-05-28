@@ -18,7 +18,7 @@ b) az építtető az elektronikus hírközlő hálózat felszíni építményeit
 
 (5) Elvi építési engedélykérelemhez – a tartalomtól függően – mellékelni kell:
 
-a)[^7] az Engr.-ben meghatározott építészeti-műszaki dokumentációt három példányban, és ha a kérelem benyújtásakor még nem áll rendelkezésre a szakhatósági állásfoglalás, az érdekelt szakhatóságokra vonatkozó külön jogszabályban előírt további példányban, de legalább szakhatóságonként további egy példányban,
+a)[^14] az Engr.-ben meghatározott építészeti-műszaki dokumentációt három példányban, és ha a kérelem benyújtásakor még nem áll rendelkezésre a szakhatósági állásfoglalás, az érdekelt szakhatóságokra vonatkozó külön jogszabályban előírt további példányban, de legalább szakhatóságonként további egy példányban,
 
 b) a tervezői nyilatkozatot,
 
@@ -26,4 +26,4 @@ c) a külön jogszabályban előírt esetekben a tervtanács szakmai vélemény�
 
 d) ha a kérelem benyújtásakor már rendelkezésre áll, az ügyben érintett szakhatóság előzetes állásfoglalását a hozzá tartozó, a szakhatóság által a 6. § (5) bekezdése szerint záradékolt építészeti-műszaki dokumentációval együtt.
 
-[^7]: A 25. § (5) bekezdés a) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^14]: A 25. § (5) bekezdés a) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.

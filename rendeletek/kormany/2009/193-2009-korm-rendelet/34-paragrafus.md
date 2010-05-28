@@ -18,6 +18,6 @@ c) tájékoztatást arról, hogy a bontási tevékenység befejezése után az �
 
 d) figyelmeztetést arra, hogy az építtető a bontási tevékenység befejezését követően – a külön jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania.
 
-(5) Az Engr. 1. melléklet VII. oszlopában meghatározott bontási tevékenységek végzését az építtető az e rendeletben előírtak szerint az építésügyi hatóságnak bejelenti, ezzel egyidejűleg a bontási tevékenység végzése megkezdhető. Az építésügyi hatóság a bejelentésben foglaltakat nyilvántartásba veszi.
+(5)–(6)[^24]
 
-(6) Ha az építtető a bontási munkálatokat befejezte, azt haladéktalanul köteles bejelenteni az építésügyi hatóságnak. A bontási munkák befejezése után az építtetőnek – ingatlan-nyilvántartási átvezetés céljából – kérelmet, továbbá külön jogszabályban előírt záradékolt változási vázrajzot kell az illetékes földhivatalhoz benyújtania, és ezzel egyidejűleg köteles az építési és bontási hulladék kezelésének részletes szabályairól szóló külön jogszabály szerinti bontási hulladék nyilvántartó lapot a környezetvédelmi hatósághoz benyújtani.
+[^24]: A 34. § (5)–(6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## Az építésügyi hatósági engedélykérelem és a bejelentés
+## Az építésügyi hatósági engedélykérelem[^9]
 
 17. § (1) Az építésügyi hatósági engedély iránti kérelem tartalmazza:
 
@@ -54,32 +54,7 @@ g) az építtető aláírását.
 
 (2) A kérelmező az (1) bekezdés szerinti adatokon túlmenően az ingatlannal rendelkezni jogosultak nevét, lakcímét vagy székhelyét is megadhatja a gyorsabb ügyintézés érdekében az alapkérelemben.
 
-(3) A bejelentés tartalmazza:
+(3)[^10]
 
-a) az építési tevékenységgel érintett ingatlan címét, helyrajzi számát;
-
-b) a bejelentés fajtáját, amely lehet:
-
-ba) építési bejelentés,
-
-bb) bontási bejelentés,
-
-bc) használatbavételi bejelentés;
-
-c) a bejelentés tárgyát és annak rövid leírását, különösen a bejelentéssel érintett építmények számát, típusát és rendeltetését;
-
-d) a bejelentés tárgyával összefüggésben korábban keletkezett hatósági döntések megnevezését, iktatószámát és keltét;
-
-e) a bejelentéshez csatolt mellékletek felsorolását, különösen:
-
-ea) építési jogosultság igazolása,
-
-eb) építészeti-műszaki dokumentáció,
-
-ec) tervezői nyilatkozat,
-
-ed) felelős műszaki vezető nyilatkozata;
-
-f) az eljárási illeték vagy igazgatási szolgáltatási díj megfizetésének igazolását; és
-
-g) az építtető aláírását.
+[^9]: A 17. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^10]: A 17. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.

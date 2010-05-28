@@ -20,6 +20,6 @@ ad) építésügyi igazgatási szakértője,
 
 ae) építésügyi műszaki szakértője;
 
-b)[^2] a tervezett építési tevékenység helye szerint illetékes építésfelügyeleti hatóság köztisztviselője.
+b)[^5] a tervezett építési tevékenység helye szerint illetékes építésfelügyeleti hatóság köztisztviselője.
 
-[^2]: A 9. § (2) bekezdés b) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^5]: A 9. § (2) bekezdés b) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.

@@ -1,4 +1,4 @@
-## 38. §[^10] A jogerős használatbavételi engedély birtokában, illetve a használatbavétel bejelentésekor a rendeltetésszerű és biztonságos használatra alkalmas építmény ténylegesen használatba vehető. Az építmény ingatlan-nyilvántartásban való feltüntetéséhez az erre irányuló kérelmet, valamint az ahhoz mellékelt jogerős használatbavételi engedély másolatát és az épületfeltüntetési vázrajzot a területileg illetékes földhivatalhoz be kell nyújtani.
+## 38. §[^35] A jogerős használatbavételi engedély birtokában a rendeltetésszerű és biztonságos használatra alkalmas építmény ténylegesen használatba vehető. Az építmény ingatlan-nyilvántartásban való feltüntetéséhez az erre irányuló kérelmet, valamint az ahhoz mellékelt jogerős használatbavételi engedély másolatát és az épületfeltüntetési vázrajzot a területileg illetékes földhivatalhoz be kell nyújtani.
 
 ## Fennmaradási engedély
 
@@ -28,4 +28,4 @@ a) fennmaradási és továbbépítési engedélyezés esetén – a tartalmátó
 
 b) végleges fennmaradási engedélykérelem esetén a 36. § szerinti mellékleteket.
 
-[^10]: A 38. § a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^35]: A 38. § a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés g) pontja, a 177/2010. (V. 13.) Korm. rendelet 18. § k) pontja szerint módosított szöveg.

@@ -26,6 +26,6 @@
 
 ## A fenti esetekben a közútkezelő hozzájárulását is csatolni szükséges.
 
-5. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^13]
+5. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^43]
 
-[^13]: Az 5. melléklet a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^43]: Az 5. melléklet a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés i) pontja, a 177/2010. (V. 13.) Korm. rendelet 19. § i) pontja és 20. §-a szerint módosított szöveg.

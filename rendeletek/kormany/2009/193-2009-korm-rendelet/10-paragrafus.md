@@ -12,6 +12,6 @@ c) tíz munkanap helyett nyolc
 
 munkanap.
 
-(3)[^3] Amennyiben az adott ügyfajtára az elsőfokú eljárásban meghatározott ügyintézési határidő meghaladja a huszonkét munkanapot, a másodfokú eljárás ügyintézési határideje – a (2) bekezdésben meghatározottak figyelmen kívül hagyásával – megegyezik az elsőfokú eljárásra irányadó ügyintézési határidővel.
+(3)[^6] Amennyiben az adott ügyfajtára az elsőfokú eljárásban meghatározott ügyintézési határidő meghaladja a huszonkét munkanapot, a másodfokú eljárás ügyintézési határideje – a (2) bekezdésben meghatározottak figyelmen kívül hagyásával – megegyezik az elsőfokú eljárásra irányadó ügyintézési határidővel.
 
-[^3]: A 10. § (3) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 21. §-a iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^6]: A 10. § (3) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 21. §-a iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
