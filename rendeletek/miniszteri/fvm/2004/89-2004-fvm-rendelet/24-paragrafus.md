@@ -1,4 +1,4 @@
-24. § (1)[^82] A 7. § (1) bekezdésben foglaltaktól eltérően az engedélyező hatóság engedélyezheti valamely Magyarországon engedéllyel nem rendelkező növényvédő szer forgalomba hozatalát és felhasználását legfeljebb 120 napra, ha
+24. § (1)[^98] A 7. § (1) bekezdésben foglaltaktól eltérően az engedélyező hatóság engedélyezheti valamely Magyarországon engedéllyel nem rendelkező növényvédő szer forgalomba hozatalát és felhasználását legfeljebb 120 napra, ha
 
 a) a 23. § (1) bekezdése szerinti feltételek fennállnak, és
 
@@ -12,4 +12,4 @@ c) a b) pontban foglaltak egyidejű teljesülésével a kezelt növény, növén
 
 (4) Az (1) bekezdés szerinti engedély meghosszabbításának feltételeiről vagy visszavonásáról a Bizottság dönt.
 
-[^82]: A 24. § (1) bekezdése a 15/2009. (III. 6.) FVM rendelet 22. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^98]: A 24. § (1) bekezdése a 15/2009. (III. 6.) FVM rendelet 22. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

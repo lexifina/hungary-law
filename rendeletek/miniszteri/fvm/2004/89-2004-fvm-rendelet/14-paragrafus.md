@@ -6,12 +6,13 @@
 
 (3) A fogyasztók védelme érdekében, az étrendi szokások figyelembevételével az engedély további alkalmazási korlátozásokat szabhat meg.
 
-(4) Az engedélyező hatóság tájékoztatja a Bizottságot, amennyiben a kísérletek ismételt elvégzése indokolt, vagy egy másik Szerződő Államban már engedélyezett növényvédő szer engedélyezése elutasításra került, attól függetlenül, hogy a kérelmező nyilatkozott arról, hogy a szer alkalmazása szempontjából fontos összehasonlíthatósági feltételek hasonlóak Magyarország, és azon Szerződő Állam területén, ahol a kísérletet elvégezték, vagy ahol az engedélyt kiadták. A Bizottságot tájékoztatni kell a kísérlet megismétlésének, illetve a növényvédő szer engedélyezése elutasításának okairól.
+(4)[^62] Az engedélyező hatóság tájékoztatja a Bizottságot, amennyiben a kísérletek ismételt elvégzése indokolt, vagy egy másik Szerződő Államban már engedélyezett növényvédő szer engedélyezésére irányuló kérelem elutasításra került, attól függetlenül, hogy a kérelmező nyilatkozott arról, hogy a szer alkalmazása szempontjából fontos összehasonlíthatósági feltételek hasonlóak Magyarország, és azon Szerződő Állam területén, ahol a kísérletet elvégezték, vagy ahol az engedélyt kiadták. A Bizottságot tájékoztatni kell a kísérlet megismétlésének, illetve a növényvédő szer engedélyezése iránti kérelem elutasításának okairól.
 
-(5)[^56] Növényvédő szer engedély kölcsönös elfogadására az (1)–(4) bekezdésben foglaltakon túlmenően csak akkor kerülhet sor, ha a Szerződő Államban az engedélyezés az egységes elvek szerint történt, illetve a növényvédő szer hatóanyaga szerepel az 1. számú melléklet A. részében.
+(5)[^63] Növényvédő szer engedély kölcsönös elfogadására az (1)–(4) bekezdésben foglaltakon túlmenően csak akkor kerülhet sor, ha a Szerződő Államban az engedélyezés az egységes elvek szerint történt, illetve a növényvédő szer hatóanyaga szerepel az 1. számú melléklet A. részében.
 
 (6) Amennyiben az engedélyező hatóság megtagadja egy növényvédő szer egyenértékűségének elismerését, illetve a kísérletek és vizsgálatok elfogadását, vagy egy növényvédő szer engedélyezését az ország területének adott régióiban, akkor a kérelmező a Bizottsághoz fordulhat annak eldöntésére, hogy a hasonlóság fennáll-e vagy sem.
 
 (7) Ha az engedélyező hatóság úgy ítéli meg, hogy a kölcsönös elismerés alapján engedélyezett növényvédő szer az emberek és az állatok egészségére vagy a környezetre nézve veszélyt jelent, akkor az ország területén a szer forgalmazását vagy felhasználását korlátozhatja, vagy megtilthatja, erről a Bizottságot és a többi Szerződő Államot – a döntés okainak közlésével – haladéktalanul tájékoztatja.
 
-[^56]: A 14. § (5) bekezdése a 15/2009. (III. 6.) FVM rendelet 11. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^62]: A 14. § (4) bekezdése a 73/2010. (V. 13.) FVM rendelet 7. §-ával megállapított szöveg.
+[^63]: A 14. § (5) bekezdése a 15/2009. (III. 6.) FVM rendelet 11. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

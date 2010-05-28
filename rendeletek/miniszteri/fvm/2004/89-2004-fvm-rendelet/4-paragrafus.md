@@ -4,9 +4,9 @@
 
 4. §[^25] (1) Az engedély iránti kérelmet az engedélyező hatósághoz kell benyújtani. Kérelmező lehet az, aki, illetve akinek (amelynek) képviselője az Európai Gazdasági Térség valamely tagállamában lakóhellyel vagy székhellyel rendelkezik.
 
-(2) Az engedély iránti kérelemhez mellékelni kell a növényvédő szer elbírálásához szükséges, e rendeletben meghatározott adatokat és mintákat.
+(2)[^26] Az engedély iránti kérelemben meg kell adni a növényvédő szer elbírálásához szükséges, e rendeletben meghatározott adatokat és mintákat.
 
-(3) Az engedélyező hatóság egyes adatok benyújtásától eltekinthet, ha az elbíráláshoz a megfelelő adatok rendelkezésére állnak. Korábbi engedélyezési eljáráshoz benyújtott adatokat csak az engedélyes írásbeli hozzájárulásával lehet felhasználni.
+(3)[^27] A kérelmező a kérelemben nem köteles megadni azokat az adatokat, amelyeket e rendelet hatálya alá tartozó korábbi engedélyezési eljárásban már megadott. Erre az érintett adatkör megnevezésével a kérelemben utalni kell. Korábbi engedélyezési eljáráshoz benyújtott adatokat csak az engedélyes írásbeli hozzájárulásával lehet felhasználni, amennyiben az engedélyes és a kérelmező személye eltér.
 
 (4) A géntechnológiával módosított szervezetet tartalmazó vagy ilyen szervezetekből álló növényvédő szer engedélyezése esetén figyelembe kell venni a külön jogszabályban foglalt előírásokat is.
 
@@ -17,3 +17,5 @@
 [^23]: A 3. § a 15/2009. (III. 6.) FVM rendelet 3. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
 [^24]: A 4. §-t megelőző alcím a 15/2009. (III. 6.) FVM rendelet 4. §-ával megállapított szöveg.
 [^25]: A 4. § a 15/2009. (III. 6.) FVM rendelet 4. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^26]: A 4. § (2) bekezdése a 73/2010. (V. 13.) FVM rendelet 1. §-ával megállapított szöveg.
+[^27]: A 4. § (3) bekezdése a 73/2010. (V. 13.) FVM rendelet 1. §-ával megállapított szöveg.

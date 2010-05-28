@@ -24,7 +24,7 @@ d) a növényvédő szer alkalmazásának módja.
 
 (5) A hatóanyag engedélyezése, az engedély módosítása, visszavonása az Irányelv 6. cikkében meghatározott közösségi eljárás szerint történik.
 
-(6)[^29] A hatóanyag engedélyezéséhez a 2. számú melléklet követelményeinek megfelelő, valamint legalább egy, az adott hatóanyagot tartalmazó növényvédő szerre a 3. számú melléklet és a Növényvédelmi Módszertani Gyűjtemény (a továbbiakban: Gyűjtemény) vonatkozó fejezete szerinti részletes és összefoglaló adatokat kell benyújtani angol nyelven – az engedélyező hatóság kérésére magyar nyelven is – az engedélyező hatósághoz, nyomtatott és elektronikus formában. A kérelmezőnek a részletes és összefoglaló adatokat egyidejűleg a többi tagállamnak és az Európai Bizottsághoz (a továbbiakban: Bizottság) is meg kell küldenie.
+(6)[^35] A hatóanyag engedélyezéséhez a 2. számú melléklet követelményeinek megfelelő, valamint legalább egy, az adott hatóanyagot tartalmazó növényvédő szerre a 3. számú melléklet és a Növényvédelmi Módszertani Gyűjtemény (a továbbiakban: Gyűjtemény) vonatkozó fejezete szerinti részletes és összefoglaló adatokat kell megadni angol nyelven – az engedélyező hatóság kérésére magyar nyelven is – az engedélyező hatósághoz, nyomtatott formában és elektronikus adathordozón. A kérelmezőnek a részletes és összefoglaló adatokat egyidejűleg a többi tagállamnak és az Európai Bizottsághoz (a továbbiakban: Bizottság) is meg kell küldenie.
 
 (7) Az 1. számú melléklet A. része tartalmazza a közösségi jegyzékre felvett növényvédő szer hatóanyagokat és az azokra vonatkozó különleges feltételeket. Az 1. számú melléklet B. része tartalmazza a közösségi rendeletek szerinti felülvizsgálat alatt álló, Magyarországon növényvédő szerként engedélyezhető hatóanyagokat.
 
@@ -32,7 +32,7 @@ d) a növényvédő szer alkalmazásának módja.
 
 (9) Amennyiben a hatóanyagot nem engedélyezik, az engedélyező hatóság megteszi a szükséges intézkedést a hatóanyagot tartalmazó növényvédő szer engedélyének visszavonására, és rendelkezik a meglevő készletek további forgalomba hozatali és felhasználási feltételeiről.
 
-(10)[^30] Az engedélyhez benyújtott adatok védelmére a Tv. 70. §-ának előírásait kell alkalmazni.
+(10)[^36] Az engedélyhez benyújtott adatok védelmére a Tv. 70. §-ának előírásait kell alkalmazni.
 
-[^29]: A 6. § (6) bekezdése a 15/2009. (III. 6.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^30]: A 6. § (10) bekezdése a 15/2009. (III. 6.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^35]: A 6. § (6) bekezdése a 73/2010. (V. 13.) FVM rendelet 3. §-ával megállapított szöveg.
+[^36]: A 6. § (10) bekezdése a 15/2009. (III. 6.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
