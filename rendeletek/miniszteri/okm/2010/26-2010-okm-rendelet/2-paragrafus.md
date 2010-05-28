@@ -1,0 +1,1 @@
+## 1. § Az oktatási és kulturális miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 25/2010. (V. 14.) OKM rendelet az e rendelet 1–6. számú melléklete szerinti 1–6. mellékletekkel egészül ki.
