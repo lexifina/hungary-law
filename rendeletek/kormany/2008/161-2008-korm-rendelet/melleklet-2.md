@@ -52,7 +52,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 7.8. kistérségi körzet-központ építésüggyel kapcsolatos feladatai
 
-8.[^13] A Kormány általános hatáskörű területi államigazgatási szerve építésüggyel kapcsolatos feladatai
+8.[^14] A Kormány általános hatáskörű területi államigazgatási szerve építésüggyel kapcsolatos feladatai
 
 9. Az építésügyi igazgatás anyagi jogi követelményrendszere
 
@@ -162,7 +162,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 14.5. fennmaradási engedélyezés
 
-14.6.[^14]
+14.6.[^15]
 
 14.7. telekalakítás engedélyezése
 
@@ -264,7 +264,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 20.13. építésügyi igazgatási szakértő
 
-20.14.[^15]
+20.14.[^16]
 
 20.15. hatósági közvetítő
 
@@ -336,6 +336,6 @@ II. Vizsgarészek: szóbeli és írásbeli
 
 Az írásbeli vizsga keretében gyakorlati vizsgát is kell tenni, amely az 1–28. pontok alatt felsorolt témakörökből építésügyi hatósági határozatnak jogtár felhasználásával történő szerkesztéséből áll (pl. konkrét engedélyezési dokumentáció vagy ellenőrzési jegyzőkönyv alapján).
 
-[^13]: A 2. melléklet I. pont 8. alpontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^14]: A 2. melléklet I. pont 14.6. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.
-[^15]: A 2. melléklet I. pont 20.14. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.
+[^14]: A 2. melléklet I. pont 8. alpontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^15]: A 2. melléklet I. pont 14.6. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.
+[^16]: A 2. melléklet I. pont 20.14. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.

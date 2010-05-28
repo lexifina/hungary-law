@@ -10,9 +10,9 @@
 
 (5) A 7. § (1) bekezdése szerinti oktatói, illetve vizsgáztatói nyilvántartásba 2008. szeptember 1-jétől folyamatosan lehet jelentkezni.
 
-(6)–(7)[^10]
+(6)–(7)[^11]
 
-(8)[^11]
+(8)[^12]
 
-[^10]: A 8. § (6)–(7) bekezdése ugyanezen § (8) bekezdése alapján hatályát vesztette.
-[^11]: A 8. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^11]: A 8. § (6)–(7) bekezdése ugyanezen § (8) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

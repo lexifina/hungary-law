@@ -8,5 +8,8 @@
 
 (5) Az eredményes építésügyi vizsgáról a bizottság az 1. mellékletben meghatározott formában bizonyítványt állít ki.
 
+(6)[^10] Azt a vizsgázót, aki az építészeti-műszaki tervezői, az építésügyi műszaki szakértői, vagy a felelős műszaki vezetői szakmagyakorlási jogosultság valamely szakterületén már eredményes jogosultsági vizsgát tett, a vizsgaszervező mentesíti az építésügyi vizsgának a jogosultsági vizsgával megegyező témaköreiből.
+
 [^8]: A 3. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 16. §-a iktatta be.
