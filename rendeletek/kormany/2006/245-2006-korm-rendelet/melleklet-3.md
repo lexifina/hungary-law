@@ -2,7 +2,7 @@
 
 ## Az építésügyi bírság kiszámításának módja
 
-1.[^26] Meg kell állapítani a megépített, kivitelezés alatt álló építmény, építményrész, megmozgatott földmennyiség építésügyi hatósági engedély, illetve a felmérési terv szerinti bruttó (határoló szerkezetekkel együtt mért) térfogatát, felületét, magasságát, darabszámát, illetőleg az 1. melléklet 1–9. pontjaiban felsorolt építmények alapterületét függetlenül annak tényleges készültségi fokától.
+1.[^31] Meg kell állapítani a megépített, kivitelezés alatt álló építmény, építményrész, megmozgatott földmennyiség építésügyi hatósági engedély, illetve a felmérési terv szerinti bruttó (határoló szerkezetekkel együtt mért) térfogatát, felületét, magasságát, darabszámát, illetőleg az 1. melléklet 1–9. pontjaiban felsorolt építmények alapterületét függetlenül annak tényleges készültségi fokától.
 
 1.1. A térfogatban mért, alapozással készült építmények, építményrészek bruttó térfogatának számításakor az alapozás és az alapozással összefüggő földmunka mennyiségét figyelmen kívül kell hagyni. A térfogatszámításhoz szükséges magassági méret az alapozás felső síkjától értendő.
 
@@ -10,7 +10,7 @@
 
 1.3. Az 1. melléklet 1–9. pontokba sorolt építményérték meghatározásának alapját az egyes szintek alapterületének összege adja.
 
-1.4.[^27] A szabálytalanul elbontott építmény, építményrész térfogatát, felületét, alapterületét mindig a ténylegesen megsemmisült méretekből kell kiszámolni.
+1.4.[^32] A szabálytalanul elbontott építmény, építményrész térfogatát, felületét, alapterületét mindig a ténylegesen megsemmisült méretekből kell kiszámolni.
 
 1.5. Az engedély nélkül végzett terepátalakítás esetében a ténylegesen megmozgatott föld mennyiségével kell számolni.
 
@@ -42,5 +42,5 @@
 
 6.4. hossznak, magasságnak 1%-a, de maximum 0,5 m.
 
-[^26]: A 3. melléklet 1. pontja a 9/2008. (I. 26.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
-[^27]: A 3. melléklet 1.4. pontja a 9/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
+[^31]: A 3. melléklet 1. pontja a 9/2008. (I. 26.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
+[^32]: A 3. melléklet 1.4. pontja a 9/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
