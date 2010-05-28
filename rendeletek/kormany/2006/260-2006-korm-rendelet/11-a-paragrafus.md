@@ -1,10 +1,10 @@
-## Építésügyi hatóság kijelölése[^34]
+## Építésügyi hatóság kijelölése[^35]
 
-11/A. §[^35] (1) A Kormány – a (3) bekezdésben meghatározott körben – építésügyi hatóságként a Hivatalt jelöli ki.
+11/A. §[^36] (1) A Kormány – a (3) bekezdésben meghatározott körben – építésügyi hatóságként a Hivatalt jelöli ki.
 
-(2)[^36] Az (1) bekezdésben meghatározott hatósági eljárásban építésügyi jogkörben első fokon a Hivatal illetékes területi mérésügyi és műszaki biztonsági hatósága, másodfokon a Hivatal központi szerve jár el.
+(2)[^37] Az (1) bekezdésben meghatározott hatósági eljárásban építésügyi jogkörben első fokon a Hivatal illetékes területi mérésügyi és műszaki biztonsági hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(3)[^37] A Hivatal építésügyi hatóságként jár el
+(3)[^38] A Hivatal építésügyi hatóságként jár el
 
 a) az alábbi sajátos építményfajták tekintetében
 
@@ -18,7 +18,7 @@ ad) a nyomástartó berendezésnek nem minősülő gáztárolók elhelyezését 
 
 ae) a külön jogszabályban meghatározott, 50 kVA-nál nagyobb névleges teljesítőképességű kiserőművet ellátó hőtermelési rendeltetésű berendezés védelmét vagy a 0,5 MW-nál nagyobb hőteljesítményű hőtermelési és hőszolgáltatási berendezés (ideérve a fűtőművet is) védelmét közvetlenül szolgáló építmény,
 
-af) az ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakító, biogázt, biodízelt, bioetanolt előállító és tároló építmény, a villamosmű kivételével,
+af)[^39] a biogáz és komposztáló telep technológiáinak elhelyezését, vagy védelmét közvetlenül szolgáló építmény, az ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakító, biogázt, biodízelt, bioetanolt előállító és tároló építmény, a villamosmű kivételével,
 
 ag) az építménybe beépített terménytisztító vagy szárító,
 
@@ -30,10 +30,11 @@ aj) ipari és mezőgazdasági célú hőfejlesztő-hőhasznosító, gáz- és ol
 
 b) a külön jogszabályban meghatározott villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték engedélyezésével kapcsolatos hatósági eljárásokban.
 
-(4)[^38] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték, vagy a közvetlen vezeték több területi mérésügyi és műszaki biztonsági hatóság illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
+(4)[^40] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték, vagy a közvetlen vezeték több területi mérésügyi és műszaki biztonsági hatóság illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
 
-[^34]: A 11/A. §-t megelőző alcímet a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
-[^35]: A 11/A. §-t a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
-[^36]: A 11/A. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^37]: A 11/A. § (3) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^38]: A 11/A. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 14. § (7) bekezdése iktatta be.
+[^35]: A 11/A. §-t megelőző alcímet a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
+[^36]: A 11/A. §-t a 25/2008. (II. 14.) Korm. rendelet 7. §-a iktatta be.
+[^37]: A 11/A. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^38]: A 11/A. § (3) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^39]: A 11/A. § (3) bekezdés a) pont af) alpontja a 177/2010. (V. 13.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^40]: A 11/A. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 14. § (7) bekezdése iktatta be.

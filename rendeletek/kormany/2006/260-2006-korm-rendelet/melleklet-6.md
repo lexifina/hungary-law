@@ -48,7 +48,7 @@
 
 | 6. | Az eljárás régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény vagy tevékenység engedélyezésére irányul. | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
 
-6. melléklet a 260/2006. (XII. 20.) Korm. rendelethez[^71]
+6. melléklet a 260/2006. (XII. 20.) Korm. rendelethez[^75]
 
 Az éghető folyadékok és olvadékok tárolótartályainak létesítési, használatbavételi és javítási
 
@@ -92,4 +92,4 @@ engedélyezési eljárásában kijelölt szakhatóságok
 
 | 7. | A létesítési vagy használatba vételi eljárás régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a tervezett tárolótartály a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
 
-[^71]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 483. § (10) bekezdése, a 163/2010. (V. 11.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^75]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 483. § (10) bekezdése, a 163/2010. (V. 11.) Korm. rendelet 16. §-a szerint módosított szöveg.

@@ -1,10 +1,10 @@
 ## A piacfelügyeleti hatóság kijelölése
 
-7. §[^16] (1) A Kormány – a (3) bekezdésben meghatározott körben – piacfelügyeleti hatóságként a Hivatalt jelöli ki.
+7. §[^17] (1) A Kormány – a (3) bekezdésben meghatározott körben – piacfelügyeleti hatóságként a Hivatalt jelöli ki.
 
-(2)[^17] Piacfelügyeleti eljárásban első fokon országos illetékességgel a Hivatal kereskedelmi, piacfelügyeleti, nemesfémvizsgáló és hitelesítő hatósága, másodfokon a Hivatal központi szerve jár el.
+(2)[^18] Piacfelügyeleti eljárásban első fokon országos illetékességgel a Hivatal kereskedelmi, piacfelügyeleti, nemesfémvizsgáló és hitelesítő hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(3)[^18] A piacfelügyeleti eljárás a gazdasági célfelhasználásra szánt
+(3)[^19] A piacfelügyeleti eljárás a gazdasági célfelhasználásra szánt
 
 a) egyes nyomástartó berendezések és rendszerek biztonsági követelményeinek és megfelelőség tanúsításának,
 
@@ -44,9 +44,9 @@ f) egyes potenciálisan robbanásveszélyes környezetben történő alkalmazás
 
 ## ellenőrzésére terjed ki.
 
-(4)[^19] A piacfelügyeleti eljárás a kötelező hitelesítés körébe tartozó egyes mérőeszközök forgalmazási követelményeknek való megfelelősége ellenőrzésére terjed ki.
+(4)[^20] A piacfelügyeleti eljárás a kötelező hitelesítés körébe tartozó egyes mérőeszközök forgalmazási követelményeknek való megfelelősége ellenőrzésére terjed ki.
 
-[^16]: A 7. § a 25/2008. (II. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 7. § (2) bekezdése a 163/2010. (V. 11.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg.
-[^18]: A 7. § (3) bekezdése a 163/2010. (V. 11.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^19]: A 7. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^17]: A 7. § a 25/2008. (II. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 7. § (2) bekezdése a 163/2010. (V. 11.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdése a 163/2010. (V. 11.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^20]: A 7. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 14. § (3) bekezdése iktatta be.

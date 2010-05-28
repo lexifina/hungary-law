@@ -38,6 +38,6 @@
 
 | 12. | Olyan építmények megszüntetési eljárása során, amelyek létesítéséhez a villamos energiáról szóló 2007. évi LXXXVI. törvény szerint a Magyar Energia Hivatal engedélye is szükséges minden esetben. | Villamosenergia-ellátás biztonságának érvényesítése. | Magyar Energia Hivatal | NEM | NEM | NEM | NEM | IGEN | NEM |
 
-5. melléklet a 260/2006. (XII. 20.) Korm. rendelethez[^70]
+5. melléklet a 260/2006. (XII. 20.) Korm. rendelethez[^74]
 
-[^70]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^74]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

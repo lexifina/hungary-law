@@ -1,6 +1,8 @@
-## Az Európai Unió jogának való megfelelés[^64]
+## 14/A. §[^66] E rendeletnek – az építésügyi és az építésfelügyeleti hatósági eljárásokkal összefüggő egyes kormányrendeletek módosításáról szóló 177/2010. (V. 13.) Korm. rendelet (a továbbiakban: Kr.) 8. § (1) bekezdésével megállapított – 11/A. § (3) bekezdés a) pont af) alpontját, valamint e rendeletnek – a Kr. 2. mellékletével megállapított – 2. mellékletében foglalt táblázat 10. sorát a Kr. hatálybalépését[^67] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-## 15. §[^65] E rendelet
+## Az Európai Unió jogának való megfelelés[^68]
+
+## 15. §[^69] E rendelet
 
 1. a 7. § (3) bekezdés d) pont dc) alpontjában a 2005/32/EK európai parlamenti és tanácsi irányelvnek a tömszelence nélküli önálló keringetőszivattyúkra, illetve termékekbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezetbarát tervezési követelmények tekintetében történő végrehajtásáról szóló, 2009. július 22-i 641/2009/EK bizottsági rendelet 5. cikkének,
 
@@ -20,5 +22,7 @@
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^64]: A 15. §-t megelőző alcímet a 112/2009. (V. 27.) Korm. rendelet 6. §-a iktatta be.
-[^65]: A 15. §-t a 112/2009. (V. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 163/2010. (V. 11.) Korm. rendelet 14. § (11) bekezdésével megállapított szöveg.
+[^66]: A 14/A. §-t a 177/2010. (V. 13.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^67]: A hatálybalépés időpontja 2010. május 28.
+[^68]: A 15. §-t megelőző alcímet a 112/2009. (V. 27.) Korm. rendelet 6. §-a iktatta be.
+[^69]: A 15. §-t a 112/2009. (V. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 163/2010. (V. 11.) Korm. rendelet 14. § (11) bekezdésével megállapított szöveg.

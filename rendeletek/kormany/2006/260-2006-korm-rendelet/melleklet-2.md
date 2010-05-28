@@ -28,6 +28,6 @@
 
 | b) Fejér megye – kivéve Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe – valamint Veszprém megye, Komárom-Esztergom megye a műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban |
 
-2. melléklet a 260/2006. (XII. 20.) Korm. rendelethez[^67]
+2. melléklet a 260/2006. (XII. 20.) Korm. rendelethez[^71]
 
-[^67]: A 2. mellékletet a 25/2008. (II. 14.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. mellékletre változtatta, szövege a 362/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 311/2009. (XII. 28.) Korm. rendelet 25. § (8) bekezdése szerint módosított szöveg.
+[^71]: A 2. mellékletet a 25/2008. (II. 14.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. mellékletre változtatta, szövege a 362/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 311/2009. (XII. 28.) Korm. rendelet 25. § (8) bekezdése, a 177/2010. (V. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
