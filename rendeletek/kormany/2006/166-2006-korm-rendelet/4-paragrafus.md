@@ -32,11 +32,11 @@ o) az igazságügyi és rendészeti miniszter bevonásával és az érintett min
 
 p) az Európai Bíróság előtti eljárásokban a Magyar Köztársaság képviseletét meghatalmazottként ellátó igazságügyi és rendészeti miniszter képviselője mellett bevont képviselője útján részt vesz az Európai Bíróság előtti eljárásokban, valamint részt vesz az Európai Bíróság előtti eljárásokban és a képviselendő kormányzati álláspont kialakításában,
 
-q)[^1] ellátja a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdésében és 39. cikk (5) bekezdésében szabályozott bejelentési kötelezettségek teljesítésével összefüggő külön kormányrendeletben meghatározott feladatokat,
+q)[^3] ellátja a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdésében és 39. cikk (5) bekezdésében szabályozott bejelentési kötelezettségek teljesítésével összefüggő külön kormányrendeletben meghatározott feladatokat,
 
-r)[^2] ellátja a Belső Piaci Információs Rendszer hazai működésének és az abban való részvételnek a szabályairól szóló kormányrendeletben meghatározott feladatokat.
+r)[^4] ellátja a Belső Piaci Információs Rendszer hazai működésének és az abban való részvételnek a szabályairól szóló kormányrendeletben meghatározott feladatokat.
 
 (2) A miniszter az európai integrációs ügyekért való felelőssége keretében előkészíti különösen az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-[^1]: A 4. § (1) bekezdés q) pontját a 341/2009. (XII. 30.) Korm. rendelet 15. §-a iktatta be.
-[^2]: A 4. § (1) bekezdés r) pontját a 341/2009. (XII. 30.) Korm. rendelet 15. §-a iktatta be.
+[^3]: A 4. § (1) bekezdés q) pontját a 341/2009. (XII. 30.) Korm. rendelet 15. §-a iktatta be.
+[^4]: A 4. § (1) bekezdés r) pontját a 341/2009. (XII. 30.) Korm. rendelet 15. §-a iktatta be.

@@ -72,9 +72,9 @@ f) megállapítja a nemzetközi szerződések hatálybalépésének, valamint me
 
 g) működteti a Magyar Köztársaság szerződéstárát.
 
-(7) A miniszter a külpolitikáért való felelőssége keretében felel a nemzetközi fejlesztési együttműködésért, valamint annak koordinálásáért, ennek keretében
+(7)[^2] A miniszter a külpolitikáért való felelőssége keretében felel a nemzetközi fejlesztési együttműködésért, valamint annak koordinálásáért, ennek keretében
 
-a) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, ennek érdekében Nemzetközi Fejlesztési Együttműködési Tárcaközi Bizottságot működtet, amely meghatározza a támogatandó partnerországok körét és kijelöli a szektorális (ágazati) prioritásokat, valamint
+a) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, ennek érdekében meghatározza a támogatandó partnerországok körét és kijelöli a szektorális (ágazati) prioritásokat, valamint
 
 b) a nemzetközi normák és a hatályos magyar jogszabályok alapján koordinálja és irányítja a nemzetközi fejlesztési együttműködési tevékenységet: a technikai együttműködési, a projekt típusú és a humanitárius segélyprogramokat, ennek során kapcsolatot tart és együttműködik a projektvégrehajtókkal, beleértve a segély- és más civil szervezeteket.
 
@@ -99,3 +99,5 @@ f) a nemzetközi fejlesztési együttműködésről
 ## szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
 (11) A miniszter a külpolitikáért való felelőssége körében közreműködik a nemzetközi szerződésekkel kapcsolatos eljárásról szóló jogszabályok előkészítésében.
+
+[^2]: A 3. § (7) bekezdés a) pontja a 171/2010. (V. 13.) Korm. rendelet 1. § 21. pontja szerint módosított szöveg.
