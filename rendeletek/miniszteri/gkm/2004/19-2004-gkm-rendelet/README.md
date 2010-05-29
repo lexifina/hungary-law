@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-19-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2004-19-20-0L.16 | 19/2004. (II. 27.) GKM rendelet |
+| 2010-05-29 | 2004-19-20-0L.17 | 171/2010. (V. 13.) Korm. rendelet |
