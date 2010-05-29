@@ -40,10 +40,10 @@ a) irányítja – az egészségügyi miniszterrel együttműködve – a munkav
 
 b) évente beszámol a munkavédelmi helyzet alakulásáról,
 
-c)[^22] az érintett szervekkel együttműködve meghatározza az egészséget nem veszélyeztető és biztonságos munkavégzést biztosító szabályokat, ideértve a munkahelyek, a munkaeszközök, az egyéni védőeszközök, a munkakörülményi tényezők és a munkaalkalmasság követelményeit,
+c)[^24] az érintett szervekkel együttműködve meghatározza az egészséget nem veszélyeztető és biztonságos munkavégzést biztosító szabályokat, ideértve a munkahelyek, a munkaeszközök, az egyéni védőeszközök, a munkakörülményi tényezők és a munkaalkalmasság követelményeit,
 
 d) összehangolja az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeinek megteremtésében közreműködő szervek tevékenységét,
 
 e) egyetértést gyakorol a más államigazgatási szervek ügykörébe tartozó, munkabiztonságot érintő előterjesztések esetében.
 
-[^22]: Az 5. § (3) bekezdésének c) pontja a 368/2006. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: Az 5. § (3) bekezdésének c) pontja a 368/2006. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

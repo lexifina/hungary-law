@@ -1,4 +1,4 @@
-15. §[^27] (1) A miniszter a társadalmi párbeszédért való felelőssége körében
+15. §[^29] (1) A miniszter a társadalmi párbeszédért való felelőssége körében
 
 a) képviseli a Kormányt az országos érdekegyeztetésben,
 
@@ -16,4 +16,4 @@ g) figyelemmel kíséri a munkaügyi viták, konfliktusok feloldásának rendjé
 
 (2) Az (1) bekezdés f) pontja szerinti kollektív szerződés hatályának az ágazatra (alágazatra) történő kiterjesztésével kapcsolatos hatósági eljárásban a Kormány – a kiterjesztési kérelemmel érintett kollektív szerződést aláíró érdekképviseletek reprezentativitásának megállapítása kérdésében – szakhatóságként az Ágazati Részvételt Megállapító Bizottságot jelöli ki.
 
-[^27]: A 15. § a 182/2009. (IX. 10.) Korm. rendelet 468. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 15. § a 182/2009. (IX. 10.) Korm. rendelet 468. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

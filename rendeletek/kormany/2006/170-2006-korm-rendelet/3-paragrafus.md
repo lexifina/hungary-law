@@ -18,7 +18,7 @@ ag) a külföldiek magyarországi foglalkoztatásának engedélyezésével,
 
 ah) a munkaügyi ellenőrzéssel,
 
-ai)[^3] az egészséget nem veszélyeztető és biztonságos munkavégzés szabályaival;
+ai)[^4] az egészséget nem veszélyeztető és biztonságos munkavégzés szabályaival;
 
 b) a szociál-, család- és nyugdíjpolitikáért való felelőssége körében előkészíti különösen
 
@@ -38,7 +38,7 @@ cc) a gyámüggyel;
 
 d) a gyermek- és ifjúságpolitikáért való felelőssége körében előkészíti különösen a gyermekekkel és az ifjúsággal kapcsolatos állami feladatokkal;
 
-e)[^4] a szakképzésért és felnőttképzésért való felelőssége körében előkészíti különösen
+e)[^5] a szakképzésért és felnőttképzésért való felelőssége körében előkészíti különösen
 
 ea) a szakképzéssel,
 
@@ -54,7 +54,7 @@ fb) a fogyatékos és megváltozott munkaképességű személyek helyzetével, e
 
 g) a romák társadalmi integrációjának előmozdításával;
 
-h)[^5]
+h)[^6]
 
 i) a fogyasztóvédelemért való felelőssége körében előkészíti különösen
 
@@ -70,9 +70,9 @@ jb) a civil szervezetek támogatásával,
 
 jc) a közérdekű önkéntes tevékenységgel, valamint
 
-jd)[^6]
+jd)[^7]
 
-[^3]: A 3. § a) pontjának ai) alpontja a 368/2006. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 3. § e) pontja a 368/2006. (XII. 29.) Korm. rendelet 5. § (4) bekezdésének a) pontja szerint módosított szöveg.
-[^5]: A 3. § h) pontját a 368/2006. (XII. 29.) Korm. rendelet 5. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^6]: A 3. § j) pontjának jd) alpontját a 176/2007. (VII. 1.) Korm. rendelet 16. § (3) bekezdése hatályon kívül helyezte.
+[^4]: A 3. § a) pontjának ai) alpontja a 368/2006. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § e) pontja a 368/2006. (XII. 29.) Korm. rendelet 5. § (4) bekezdésének a) pontja szerint módosított szöveg.
+[^6]: A 3. § h) pontját a 368/2006. (XII. 29.) Korm. rendelet 5. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^7]: A 3. § j) pontjának jd) alpontját a 176/2007. (VII. 1.) Korm. rendelet 16. § (3) bekezdése hatályon kívül helyezte.

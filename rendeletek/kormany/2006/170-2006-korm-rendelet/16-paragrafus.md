@@ -12,8 +12,8 @@ e) gondoskodik a civil szektor erősödését elősegítő szolgáltató és fej
 
 f) működteti a civil szolgáltató központok hálózatát,
 
-g)[^28]
+g)[^30]
 
 h) ellátja a külön jogszabály alapján hatáskörébe tartozó hatósági feladatokat.
 
-[^28]: A 16. § g) pontját a 176/2007. (VII. 1.) Korm. rendelet 16. § (3) bekezdése hatályon kívül helyezte.
+[^30]: A 16. § g) pontját a 176/2007. (VII. 1.) Korm. rendelet 16. § (3) bekezdése hatályon kívül helyezte.

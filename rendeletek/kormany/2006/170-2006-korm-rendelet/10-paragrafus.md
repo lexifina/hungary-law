@@ -14,7 +14,7 @@ f) elkészíti és kiadja az Országos szakmai szakértői névjegyzéket és az
 
 g) meghatározza a szakmai és vizsgakövetelmények formai előírásait,
 
-h)[^23] létrehozza és működteti a szakképzési szerkezet folyamatos fejlesztését és korszerűsítését szolgáló bizottságot,
+h)[^25] létrehozza és működteti a szakképzési szerkezet folyamatos fejlesztését és korszerűsítését szolgáló bizottságot,
 
 i) a szakképzés-fejlesztési stratégia feladatainak eredményes megoldása, koordinálása, az érdekegyeztetés működtetése érdekében létrehozza és működteti a stratégiai bizottságokat,
 
@@ -32,9 +32,9 @@ o) külön jogszabályban meghatározott felnőttképzési intézményeket léte
 
 p) közreműködik az oktatási és kulturális miniszter iskolai rendszerű szakképzést érintő feladatainak ellátásában.
 
-(2)[^24] A miniszter ellátja a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben ráruházott feladatokat.
+(2)[^26] A miniszter ellátja a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben ráruházott feladatokat.
 
 (3) A miniszter az (1) bekezdés a)–g) pontjában foglalt feladatait a szakképesítésért felelős miniszterrel, a d)–e) pontjában foglalt feladatait a pénzügyminiszterrel, az (1) bekezdés f) pontjában foglalt feladatait az oktatási és kulturális miniszterrel egyetértésben látja el.
 
-[^23]: A 10. § (1) bekezdésének h) pontja a 368/2006. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^24]: A 10. § (2) bekezdése a 368/2006. (XII. 29.) Korm. rendelet 5. § (3) bekezdésének e) pontja szerint módosított szöveg.
+[^25]: A 10. § (1) bekezdésének h) pontja a 368/2006. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 10. § (2) bekezdése a 368/2006. (XII. 29.) Korm. rendelet 5. § (3) bekezdésének e) pontja szerint módosított szöveg.
