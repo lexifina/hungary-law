@@ -20,4 +20,6 @@ h) ellenőrzi a biztonságirányítási rendszerek működtetését.
 
 (3) Amennyiben a feltárt vagy tudomására jutott hiányosság a központi rendszer biztonságos működését vagy a kezelt adatok biztonságát veszélyezteti, jogosult azonnali hatállyal, végrehajthatóan az elektronikus közszolgáltatást nyújtó alrendszer működését a hiba, hiányosság elhárításáig felfüggeszteni. A felfüggesztés ellen – nem halasztó hatályú kifogással – a miniszterhez lehet fordulni.
 
-(4) Az eljárási és biztonsági követelmények felszólítás ellenére elégtelen teljesülése esetén az informatikai biztonsági felügyelő javaslatára a miniszter értesíti az érintett szervezet felügyeletét – köztestület esetén a törvényességi felügyeletet – ellátó minisztert, helyi önkormányzat esetén a Kormány általános hatáskörű területi államigazgatási szervét, kérve haladéktalan intézkedését.
+(4)[^2] Az eljárási és biztonsági követelmények felszólítás ellenére elégtelen teljesülése esetén az informatikai biztonsági felügyelő javaslatára a miniszter értesíti az érintett szervezet felügyeletét – köztestület esetén a törvényességi felügyeletet – ellátó minisztert, kérve haladéktalan intézkedését.
+
+[^2]: A 6. § (4) bekezdése a 171/2010. (V. 13.) Korm. rendelet 1. § 18. pontja szerint módosított szöveg.

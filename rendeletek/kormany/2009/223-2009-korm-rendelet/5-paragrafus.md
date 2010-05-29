@@ -6,4 +6,6 @@
 
 (3) Az informatikai biztonsági felügyelő jogosult a központi rendszer üzemeltetőjétől, adatkezelőjétől, valamint az elektronikus közszolgáltatást nyújtó, szolgáltatást nyújtó szervezetektől az eljárási és biztonsági követelmények teljesülésével kapcsolatban tájékoztatást kérni, a követelményeknek való megfelelőség alátámasztásához szükséges, az elektronikus közszolgáltatást nyújtó alrendszer tervezésével, beszerzésével, előállításával, működésével vagy felülvizsgálatával kapcsolatos adatot, illetve a rendszerek biztonsága tárgyában keletkezett valamennyi dokumentumot – különösen az e rendeletben előírt dokumentációt, szabályzatokat – bekérni.
 
-(4) Az informatikai biztonsági felügyelő hatásköre a központi rendszer működtetőjére, adatkezelőjére, üzemeltetőjére, az elektronikus közszolgáltatást nyújtó szervezetek, valamint a számukra a rendszer üzemeltetéséhez szolgáltatást nyújtó szervezetek informatikai biztonsággal összefüggő tevékenységére terjed ki.
+(4)[^1] Az informatikai biztonsági felügyelő hatásköre a központi rendszer működtetőjére, adatkezelőjére, üzemeltetőjére, a helyi önkormányzat vagy szerve kivételével az elektronikus közszolgáltatást nyújtó szervezetek, valamint a számukra a rendszer üzemeltetéséhez szolgáltatást nyújtó szervezetek informatikai biztonsággal összefüggő tevékenységére terjed ki.
+
+[^1]: Az 5. § (4) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (10) bekezdése szerint módosított szöveg.

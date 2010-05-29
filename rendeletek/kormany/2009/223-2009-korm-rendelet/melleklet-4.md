@@ -1516,7 +1516,7 @@ Az Ekszt 19. § (2) bekezdés b) pontja alapján a rendszer működtetőjének l
 
 –  biztosítja az elektronikus beadvány továbbítását a központi rendszer és azon keresztül a címzett szervezet felé.
 
-A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^10] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
+A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^12] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
 
 Annak érdekében, hogy a felhasználó a nyomtatványkitöltő program sértetlenségéről és épségéről a telepítést megelőzően meggyőződhessen, a program készítője az általános nyomtatványkitöltő program telepítő csomagját elektronikus aláírással látja el, mely tanúsítja, hogy
 
@@ -1554,7 +1554,7 @@ Az elektronikus űrlapot a felhasználó tölti ki, az űrlapon rögzített adat
 
 –  közvetlenül a nyomtatványkitöltő program XML kimeneti állományának előállítására szolgáló más – a felhasználó vagy általa megbízott harmadik személy által fejlesztett – alkalmazással úgy, hogy a kimeneti állomány formai, logikai ellenőrzése történik csak a nyomtatványkitöltő programmal.
 
-Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^11]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
+Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^13]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
 
 Az elkészített és a MeH által publikált elektronikus űrlapokhoz sok esetben külön letölthető egy útmutató vagy helyzetérzékeny segítő fájl, amely segíti az űrlap kitöltését.
 
@@ -2106,5 +2106,5 @@ A központi rendszer naplóállománya védett a jogosulatlan adatmódosítást�
 
 A naplóállományt a gondatlanságból vagy szándékosan elkövetett rongálás ellen biztonsági mentések védik. A MeH minden naplóállomány esetében, beleértve a személyes adatokat tartalmazó naplóbejegyzéseket is, gondoskodik az adatok bizalmas tárolásáról. A naplóállományhoz csak a biztonsági vezető által arra feljogosított személyzet férhet hozzá, szigorúan a hibaelhárításhoz szükséges mértékben. A MeH bűncselekmény gyanúja esetén, hatósági megkeresésre a szükséges adatokat, naplóbejegyzéseket a nyomozó hatóság rendelkezésére bocsátja.
 
-[^10]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
-[^11]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.
+[^12]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
+[^13]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.
