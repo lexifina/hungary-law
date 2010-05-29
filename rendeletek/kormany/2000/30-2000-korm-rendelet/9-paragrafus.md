@@ -1,6 +1,6 @@
 ## Minőségi termelés segítése
 
-9. §[^17] (1) A minőségi termelés segítése és a talajerő-utánpótlás javítása céljából a Kormány támogatja a jó minőségű vetőmagok és műtrágyák termesztéstechológiai követelményeknek megfelelő felhasználását. E célok megvalósítása érdekében
+9. §[^19] (1) A minőségi termelés segítése és a talajerő-utánpótlás javítása céljából a Kormány támogatja a jó minőségű vetőmagok és műtrágyák termesztéstechológiai követelményeknek megfelelő felhasználását. E célok megvalósítása érdekében
 
 a) a vetőmagtermelők és -forgalmazók,
 
@@ -26,4 +26,4 @@ b) Az (1) bekezdés d) pontjában foglalt jogosultak számára a kedvezményes �
 
 (6) E § rendelkezéseinek hatálya kiterjed a foszfor és kálium hatóanyagú (PK) műtrágyát is forgalmazó vetőmagtermelőkre és -forgalmazókra is.
 
-[^17]: A 9. § a 268/2000. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 9. § a 268/2000. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

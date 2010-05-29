@@ -1,4 +1,4 @@
-4. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^48]
+4. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^56]
 
 ## Beszámoló jelentés a fiatal agrárvállalkozók részére a gazdahitel program keretében nyújtott támogatásból eredő kötelezettségek teljesítéséről
 
@@ -56,4 +56,4 @@ Dátum: ....................
 
 az igénylő aláírása
 
-[^48]: A 4. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^56]: A 4. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.

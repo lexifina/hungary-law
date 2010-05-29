@@ -1,4 +1,4 @@
-1. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^41]
+1. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^49]
 
 ## FÖLDMŰVELÉSÜGYI ÉS VIDÉKFEJLESZTÉSI
 
@@ -18,7 +18,7 @@
 
 ## Adóazonosító szám: ....................
 
-## Értesítem, hogy a mezőgazdasági termelők kibontakozási hitelkonstrukciója keretében ...... év ...... hó ....-én beérkezett beszámolóját a .................. hitelintézet és a Tárcaközi Bíráló Bizottság értékelése alapján elfogadtam. Ennek alapján ..... évben kibontakozási támogatást vehet igénybe az alábbiak szerint:
+## Értesítem, hogy a mezőgazdasági termelők kibontakozási hitelkonstrukciója keretében ...... év ...... hó ....-én beérkezett beszámolóját a .................. hitelintézet értékelése alapján elfogadtam. Ennek alapján ..... évben kibontakozási támogatást vehet igénybe az alábbiak szerint:
 
 1. A kibontakozási hitelkonstrukcióba bevont hitel összege az FVM igazolása szerint:
 
@@ -40,4 +40,4 @@ Budapest, ..... év ..... hó ..... nap.
 
 Földművelésügyi és Vidékfejlesztési Minisztérium
 
-[^41]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^49]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja szerint módosított szöveg.
