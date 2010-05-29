@@ -18,7 +18,7 @@
 
 ## I. fejezet
 
-## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek (ML1.[^93] fejezet):
+## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek (ML1.[^81] fejezet):
 
 ## a) puskák, karabélyok, revolverek, pisztolyok, géppisztolyok és géppuskák:
 
@@ -488,9 +488,9 @@
 
 ## b) ,,hajtóanyagok”:
 
-## 1. az ENSZ „UN 1.1.”[^94] osztályába tartozó bármely szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 250 másodperc a nem fémezett, vagy több mint 270 másodperc az alumíniumozott kompozíciók esetében;
+## 1. az ENSZ „UN 1.1.”[^82] osztályába tartozó bármely szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 250 másodperc a nem fémezett, vagy több mint 270 másodperc az alumíniumozott kompozíciók esetében;
 
-## 2. az ENSZ „UN 1.3.”[^95] osztályába tartozó bármely szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 230 másodperc a nem halogénezett, 250 másodperc a nem fémes kompozíciók, és 266 másodperc a fémes kompozíciók esetében;
+## 2. az ENSZ „UN 1.3.”[^83] osztályába tartozó bármely szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 230 másodperc a nem halogénezett, 250 másodperc a nem fémes kompozíciók, és 266 másodperc a fémes kompozíciók esetében;
 
 ## 3. ,,hajtóanyagok”, amelyek erőállandója nagyobb, mint 1 200 Kj/kg;
 
@@ -1272,7 +1272,7 @@
 
 ## XXIII. fejezet
 
-## Kifejezetten katonai célú felszerelések[^96]
+## Kifejezetten katonai célú felszerelések[^84]
 
 ## Kizárólag katonai előírások szerint kialakított alapanyagból, katonai szabvány, felsorolás vagy annak megfelelő követelmény szerint gyártott termékek:
 
@@ -1284,7 +1284,7 @@
 
 ## XXIV. fejezet
 
-## Kifejezetten katonai célú szolgáltatások[^97]
+## Kifejezetten katonai célú szolgáltatások[^85]
 
 ## a) a katonai kontingensek és felszereléseik katonai feladat végrehajtására történő kitelepítése, váltása, át-, illetve hazatelepítése, utánpótlás és ellátás biztosítása érdekében katonai vagy polgári eszközökkel végzett szállítás-szolgáltatások;
 
@@ -1294,7 +1294,7 @@
 
 ## XXV. fejezet
 
-## Kényszerítő és bűnfelderítő eszközök[^98]
+## Kényszerítő és bűnfelderítő eszközök[^86]
 
 ## 1. Kényszerítő eszközök
 
@@ -1370,7 +1370,7 @@
 
 ## XXVI. fejezet
 
-## Titkosszolgálati eszközök[^99]
+## Titkosszolgálati eszközök[^87]
 
 ## 1. Lehallgató eszközök, ezek alkatrészei és tartozékai
 
@@ -1702,7 +1702,7 @@
 
 ## genetikai anyagnak a fogadósejtbe történő bejuttatására használt hordozók (például plazma vagy vírus).
 
-2. melléklet a 16/2004. (II. 6.) Korm. rendelethez[^100]
+2. melléklet a 16/2004. (II. 6.) Korm. rendelethez[^88]
 
 Az engedélykérelmek elbírálásakor alkalmazandó egységes magatartási kritériumok
 
@@ -1786,11 +1786,11 @@ f) a műszaki visszafejtés vagy technológia nem szándékos átadásának a ko
 
 A kiviteli engedély iránti kérelem elbírálásakor a hatóság figyelembe veszi – a megfelelő forrásokból, úgymint az ENSZ Fejlesztési Programjától (UNDP), a Világbanktól (World Bank), a Nemzetközi Valutaalaptól (IMF) és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) jelentéseiből származó információkra is figyelemmel – azt, hogy a tervezett export nem hátráltatná-e súlyosan a fenntartható fejlődést a fogadó országban. Ebben az összefüggésben mérlegeli a fogadó ország katonai és szociális kiadásainak relatív szintjét, figyelembe véve bármilyen európai uniós vagy kétoldalú támogatást is.
 
-[^93]: ML: Munition List/Common Military List = Haditechnikai Jegyzék, a Wassenaar-i Megállapodás és az Európai Unió közös katonai listájának egyes fejezeteire alkalmazott jelölés. Az Európai Unió közös katonai listája (az Európai Unió fegyverkivitelről szóló magatartási kódexe által szabályozott eszközök (2006/C 66/01).
-[^94]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításait, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX.18.) KPM rendelet módosításait.
-[^95]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításait, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításait.
-[^96]: Magyar terminológia szerint, az ML lista nem tartalmazza.
-[^97]: Magyar terminológia szerint, az ML lista nem tartalmazza.
-[^98]: Magyar terminológia szerint, az ML lista nem tartalmazza.
-[^99]: Magyar terminológia szerint, az ML lista nem tartalmazza.
-[^100]: A 2. mellékletet a 26/2007. (II. 28.) Korm. rendelet 11. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. mellékletre változtatva. A 2. melléklet szövege a 257/2009. (XI. 20.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 13. § (4) bekezdése alapján a rendelkezés a 2009. december 1-je előtt kiadott engedélyek hatályát nem érinti.
+[^81]: ML: Munition List/Common Military List = Haditechnikai Jegyzék, a Wassenaar-i Megállapodás és az Európai Unió közös katonai listájának egyes fejezeteire alkalmazott jelölés. Az Európai Unió közös katonai listája (az Európai Unió fegyverkivitelről szóló magatartási kódexe által szabályozott eszközök (2006/C 66/01).
+[^82]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításait, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX.18.) KPM rendelet módosításait.
+[^83]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításait, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításait.
+[^84]: Magyar terminológia szerint, az ML lista nem tartalmazza.
+[^85]: Magyar terminológia szerint, az ML lista nem tartalmazza.
+[^86]: Magyar terminológia szerint, az ML lista nem tartalmazza.
+[^87]: Magyar terminológia szerint, az ML lista nem tartalmazza.
+[^88]: A 2. mellékletet a 26/2007. (II. 28.) Korm. rendelet 11. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. mellékletre változtatva. A 2. melléklet szövege a 257/2009. (XI. 20.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 13. § (4) bekezdése alapján a rendelkezés a 2009. december 1-je előtt kiadott engedélyek hatályát nem érinti.
