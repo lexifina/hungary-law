@@ -8,6 +8,6 @@
 
 (4) A hivatal vezetőjét — a külön biztosok egyetértésével — és saját munkatársait az országgyűlési biztos nevezi ki, és menti fel. A külön biztos munkatársait a külön biztos nevezi ki, és menti fel
 
-(5) A Hivatal vezetője szakállamtitkári illetményre és juttatásokra jogosult, felette a munkáltatói jogokat az országgyűlési biztos gyakorolja.
+(5) A Hivatal vezetője helyettes államtitkári illetményre és juttatásokra jogosult, felette a munkáltatói jogokat az országgyűlési biztos gyakorolja.
 
 (6) Az országgyűlési biztos az intézkedést nem tartalmazó irat kiadmányozási jogát írásban a Hivatal vezetői megbízással rendelkező köztisztviselőjére átruházhatja.
