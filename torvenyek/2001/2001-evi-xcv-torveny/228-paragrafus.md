@@ -16,7 +16,7 @@ d) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző,
 
 e) az állomány munkaügyi ellenőrzését végző szerv vezetője, feljogosított ügyintézője;
 
-f) a miniszter, az államtitkár és a Honvéd Vezérkar főnöke, továbbá feladatai ellátása körében a más állami vezető;
+f) a miniszter, az államtitkár, a közigazgatási államtitkár és a Honvéd Vezérkar főnöke, továbbá feladatai ellátása körében a más állami vezető;
 
 g) a minisztérium személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint az összesített és központi személyügyi nyilvántartás kezelői;
 
@@ -40,7 +40,7 @@ c) a jogi és igazgatási szervezet feljogosított ügyintézője;
 
 d) az (1) bekezdés d) pontjában meghatározott személyek;
 
-e) a miniszter, az államtitkár és a Honvéd Vezérkar főnöke, továbbá feladatai ellátása körében a más állami vezető;
+e) a miniszter, az államtitkár, a közigazgatási államtitkár és a Honvéd Vezérkar főnöke, továbbá feladatai ellátása körében a más állami vezető;
 
 f) a fegyelmi, szabálysértési és büntető ügyben eljáró személy;
 
