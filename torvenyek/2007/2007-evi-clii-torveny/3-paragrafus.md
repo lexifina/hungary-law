@@ -14,17 +14,19 @@ e) állami vagy önkormányzati támogatások felhasználásának vizsgálata, v
 
 (2) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett, aki
 
-a) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+a) közigazgatási államtitkár, helyettes államtitkár,
 
-b) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
+b) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 
-c) vezetői megbízással rendelkező köztisztviselő,
+c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 
-d) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
+d) vezetői megbízással rendelkező köztisztviselő,
 
-e) ügyész vagy
+e) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
 
-f) közjegyző.
+f) ügyész vagy
+
+g) közjegyző.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 

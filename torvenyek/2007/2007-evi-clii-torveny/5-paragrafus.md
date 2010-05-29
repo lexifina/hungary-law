@@ -4,11 +4,11 @@
 
 a) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
 
-b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő harminc napon belül,
+b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő tizenöt napon belül,
 
 c) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör fennállása alatt az első vagyonnyilatkozatot követően, ha törvény eltérően nem rendelkezik,
 
-ca) a 3. § (1) bekezdés b) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
+ca) a 3. § (1) bekezdés b) pontjában a 3. § (2) bekezdés a) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
 
 cb) a 3. § (1) bekezdés c)–e) pontjában és a 3. § (3) bekezdés e) pont eb)–ed) alpontjaiban meghatározott személy esetében kétévenként,
 

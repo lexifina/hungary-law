@@ -12,7 +12,7 @@ b) a kötelezettel egy háztartásban élő hozzátartozójának nevét, szület
 
 c) a kötelezett és a vele egy háztartásban élő hozzátartozója jövedelmi, érdekeltségi és vagyoni viszonyaira vonatkozó adatokat.
 
-(4) Az őrzésért felelős köteles a kötelezettet a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról az esedékességet – vagyonnyilatkozat-tételi kötelezettséget keletkeztető jogviszony, beosztás létesítése, munka- vagy feladatkör betöltése kivételével legalább 30 nappal – megelőzően tájékoztatni.
+(4) Az őrzésért felelős köteles a kötelezettet a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról az esedékességet – vagyonnyilatkozat-tételi kötelezettséget keletkeztető jogviszony, beosztás létesítése, munka- vagy feladatkör betöltése kivételével – legalább 30 nappal, az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozat esetén 15 nappal megelőzően tájékoztatni.
 
 (5) A (4) bekezdésben meghatározott tájékoztatás tartalmazza
 
