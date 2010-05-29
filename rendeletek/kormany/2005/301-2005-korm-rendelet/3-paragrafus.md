@@ -1,10 +1,10 @@
-## 2. §[^2] A gazdasági és közlekedési miniszter a Bizottság munkájáról évente egy alkalommal jelentést tesz az Országgyűlés Honvédelmi Bizottságának.
+## 1–2. §[^1]
 
 ## Az engedélyezési eljárás
 
 3. § (1) Az engedély iránti kérelmet írásban, egy példányban, a 4. § szerinti tartalommal kell benyújtani.
 
-(2) Az eljárás illetékköteles, mértékét külön jogszabály[^3] állapítja meg.
+(2) Az eljárás illetékköteles, mértékét külön jogszabály[^2] állapítja meg.
 
-[^2]: A 2. § a 174/2008. (VI. 30.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
-[^3]: Az illetékekről szóló 1990. évi XCIII. törvény mellékletének XXIII. címe.
+[^1]: Az 1. §-t megelőző alcímet és az 1–2. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 4. pontja hatályon kívül helyezte.
+[^2]: Az illetékekről szóló 1990. évi XCIII. törvény mellékletének XXIII. címe.

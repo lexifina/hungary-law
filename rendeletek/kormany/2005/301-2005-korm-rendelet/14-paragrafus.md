@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet 2006. január 15-én lép hatályba.
 
-14. § A Bizottság e rendelet hatálybalépését követő 15 napon belül alakul meg, ügyrendjét e rendelet hatálybalépését követő 30 napon belül maga állapítja meg.
+14. §[^20]
 
 Melléklet a 301/2005. (XII. 23.) Korm. rendelethez
 
@@ -79,3 +79,5 @@ Megjegyzések:
 (14) Kiegészítő szakmai végzettség: lőszergyártó
 
 (15) Kiegészítő szakmai végzettség: robbantómester, pirotechnikus
+
+[^20]: A 14. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 4. pontja hatályon kívül helyezte.
