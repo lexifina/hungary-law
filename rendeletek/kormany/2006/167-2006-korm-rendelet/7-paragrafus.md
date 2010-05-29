@@ -1,4 +1,4 @@
-7. § (1) A miniszter a kultúráért való felelőssége körében felel az új kulturális értékek, kezdeményezések létrehozásával, a nemzeti és egyetemes tárgyi és szellemi kulturális örökség és érték (a továbbiakban együtt: kulturális örökség) megóvásával, tudományos feltárásával és közkinccsé tételével, valamint a művészeti alkotómunka és előadó tevékenység állami támogatásával kapcsolatos és a sajtóigazgatással, a mozgóképszakmai[^5] kérdésekkel, valamint a szerzői és szomszédos jogokkal összefüggő állami feladatok ellátásáért.
+7. § (1) A miniszter a kultúráért való felelőssége körében felel az új kulturális értékek, kezdeményezések létrehozásával, a nemzeti és egyetemes tárgyi és szellemi kulturális örökség és érték (a továbbiakban együtt: kulturális örökség) megóvásával, tudományos feltárásával és közkinccsé tételével, valamint a művészeti alkotómunka és előadó tevékenység állami támogatásával kapcsolatos és a sajtóigazgatással, a mozgóképszakmai[^6] kérdésekkel, valamint a szerzői és szomszédos jogokkal összefüggő állami feladatok ellátásáért.
 
 (2) A miniszter a társadalom tárgyi és szellemi kulturális értékeiért való felelőssége körében
 
@@ -38,4 +38,7 @@ b) együttműködik az igazságügyi és rendészeti miniszterrel és a Magyar S
 
 (6) A miniszter a nemzeti és etnikai kisebbségekkel kapcsolatos felelőssége körében – a külügyminiszterrel, valamint a szociális és munkaügyi miniszterrel együttműködve – részt vesz a nemzeti és etnikai kisebbségek kultúrájának ápolásával kapcsolatos állami feladatok ellátásában, ideértve a Magyar Köztársaság területén élő nemzeti és etnikai kisebbségek, és az anyaországok közötti kulturális kapcsolatok fenntartását.
 
-[^5]: A Magyar Közlöny 2006. évi 101. számában megjelent helyesbítésnek megfelelő szöveg.
+(7)[^7] A miniszter a kultúráért való felelőssége körében, a külpolitikáért felelős miniszterrel együttműködve ellátja a II. világháború során és azt követően Magyarország területéről jogellenesen elvitt kulturális javak visszaszolgáltatásának elérése érdekében Oroszországgal 1992. november 11-én aláírt Megállapodás végrehajtását.
+
+[^6]: A Magyar Közlöny 2006. évi 101. számában megjelent helyesbítésnek megfelelő szöveg.
+[^7]: A 7. § (7) bekezdését a 171/2010. Korm. rendelet 3. §-a iktatta be.

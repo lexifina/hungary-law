@@ -20,10 +20,10 @@ a) a muzeális intézményekről, a könyvtárakról, a közművelődésről és
 
 b) a művészettámogatásról,
 
-c)[^2] a mozgóképszakmai kérdések szabályozásáról
+c)[^3] a mozgóképszakmai kérdések szabályozásáról
 
 d) a kultúra finanszírozásáról,
 
 e) a kulturális örökségvédelemről
 
-[^2]: A 3. § (3) bekezdésének c) pontja a Magyar Közlöny 2006. évi 101. számában megjelent helyesbítésnek megfelelő szöveg.
+[^3]: A 3. § (3) bekezdésének c) pontja a Magyar Közlöny 2006. évi 101. számában megjelent helyesbítésnek megfelelő szöveg.

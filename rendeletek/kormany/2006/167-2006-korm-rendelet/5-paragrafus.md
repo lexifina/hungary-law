@@ -1,4 +1,4 @@
-## 5. §[^4] A miniszter a tudománypolitika kormányzati koordinációjáért való felelőssége körében
+## 5. §[^5] A miniszter a tudománypolitika kormányzati koordinációjáért való felelőssége körében
 
 a) képviseli a kormányzati tudománypolitikát a Kormány, valamint az Országgyűlés előtt,
 
@@ -12,4 +12,4 @@ e) felelős az európai integrációból eredő tudományos és tudománypolitik
 
 f) kezdeményezi a nem közvetlen gazdasági haszon elérésére irányuló tudományos kutatások – így különösen a tiszta alapkutatások – költségvetési és európai uniós forrásainak összehangolt felhasználását.
 
-[^4]: Az 5. §-t a 103/2008. (IV. 29.) Korm. rendelet 5. § (7) bekezdése hatályon kívül helyezte, újonnan a 177/2009. (IX. 3.) Korm. rendelet 2. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 3. § (5) bekezdése alapján az oktatási és kulturális miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – a Nemzeti Fejlesztési és Gazdasági Minisztérium és a Nemzeti Kutatási és Technológiai Hivatal jogutódja az Oktatási és Kulturális Minisztérium.
+[^5]: Az 5. §-t a 103/2008. (IV. 29.) Korm. rendelet 5. § (7) bekezdése hatályon kívül helyezte, újonnan a 177/2009. (IX. 3.) Korm. rendelet 2. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 3. § (5) bekezdése alapján az oktatási és kulturális miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – a Nemzeti Fejlesztési és Gazdasági Minisztérium és a Nemzeti Kutatási és Technológiai Hivatal jogutódja az Oktatási és Kulturális Minisztérium.

@@ -28,7 +28,7 @@ d) az állami felsőoktatási intézményekben – katonai és rendvédelmi fels
 
 e) gyakorolja – a megbízás és felmentés, továbbá a katonai és rendvédelmi felsőoktatási intézmények kivételével – az állami felsőoktatási intézmények rektorai tekintetében a munkáltatói jogkört, továbbá a felsőoktatási törvényben előírt egyetértési, javaslattételi, véleményezési, illetőleg előterjesztői jogköröket,
 
-f)[^3]
+f)[^4]
 
 g) elősegíti az Európai Felsőoktatási Térség kialakításában és a Bolognai Nyilatkozatban vállalt feladatok megvalósítását,
 
@@ -54,4 +54,4 @@ d) koordinálja a nemzetközi oktatási szervezetekben való magyar részvétell
 
 e) nemzetközi megállapodásokat készít elő és köt az iskolai bizonyítványok, oklevelek, tudományos fokozatok és – törvény eltérő rendelkezésének hiányában – szakképesítések egyenértékűségének kölcsönös elismeréséről.
 
-[^3]: A 4. § (3) bekezdésének f) pontját a 103/2008. (IV. 29.) Korm. rendelet 5. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 5. § (8) bekezdése alapján a kutatás-fejlesztésért felelős tárca nélküli miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – az Oktatási és Kulturális Minisztérium jogutódja a Nemzeti Kutatási és Technológiai Hivatal.
+[^4]: A 4. § (3) bekezdésének f) pontját a 103/2008. (IV. 29.) Korm. rendelet 5. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 5. § (8) bekezdése alapján a kutatás-fejlesztésért felelős tárca nélküli miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – az Oktatási és Kulturális Minisztérium jogutódja a Nemzeti Kutatási és Technológiai Hivatal.
