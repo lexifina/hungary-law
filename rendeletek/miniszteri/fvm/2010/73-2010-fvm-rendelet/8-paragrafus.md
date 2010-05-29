@@ -1,3 +1,0 @@
-## 7. § Az R. 14. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Az engedélyező hatóság tájékoztatja a Bizottságot, amennyiben a kísérletek ismételt elvégzése indokolt, vagy egy másik Szerződő Államban már engedélyezett növényvédő szer engedélyezésére irányuló kérelem elutasításra került, attól függetlenül, hogy a kérelmező nyilatkozott arról, hogy a szer alkalmazása szempontjából fontos összehasonlíthatósági feltételek hasonlóak Magyarország, és azon Szerződő Állam területén, ahol a kísérletet elvégezték, vagy ahol az engedélyt kiadták. A Bizottságot tájékoztatni kell a kísérlet megismétlésének, illetve a növényvédő szer engedélyezése iránti kérelem elutasításának okairól.”
