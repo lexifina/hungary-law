@@ -1,10 +1,10 @@
 16/A. § (1) Ha a határozatlan időre kinevezett köztisztviselő
 
-a) állam- vagy kormányközi nemzetközi szervezetnél,
+a) államvagy kormányközi nemzetközi szervezetnél,
 
 b) az Európai Unió szerveinél
 
-jogviszonyt létesít, közszolgálati jogviszonyát közös megegyezéssel kell megszüntetni.
+jogviszonyt létesít, közszolgálati jogviszonya az a) vagy b) pont szerinti jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 
 (2) Ha az (1) bekezdésben meghatározottak szerint szűnt meg a köztisztviselő közszolgálati jogviszonya, annak megszűnésétől számított hat éven belül – a köztisztviselő írásban bejelentett kérelmére – a kérelem megérkezésétől számított 30 napon belül, volt munkáltatója a végzettségének, képzettségének megfelelő munkakört köteles számára felajánlani. A volt munkáltatót felajánlási kötelezettség csak abban az esetben terheli, ha a köztisztviselő kérelmét a nemzetközi szervezettel vagy az Európai Unió szerveivel való jogviszonya fennállása alatt vagy annak megszűnésétől számított harminc napon belül küldi meg a volt munkáltatónak. Ha a köztisztviselő az ajánlatot a kézhezvételtől számított 30 napon belül elfogadja, a köztisztviselőt ki kell nevezni.
 

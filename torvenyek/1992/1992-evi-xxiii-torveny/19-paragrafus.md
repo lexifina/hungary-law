@@ -30,7 +30,7 @@ a) a jogelőd munkáltatónál,
 
 b) áthelyezés esetén a költségvetési szervnél közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 
-c) a 11/A. § (11) bekezdése szerint folyamatosnak tekintendő közszolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
+c) a 11/A. § (12) bekezdése szerint folyamatosnak tekintendő közszolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
 
 d) átminősítés esetén a hivatásos szolgálati viszonyban
 
@@ -67,3 +67,5 @@ a) ezt a tényt korábbi munkáltatójának haladéktalanul köteles írásban b
 b) a felmentési időből hátralevő idő tekintetében átlagkeresetre nem jogosult,
 
 c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
+
+(10) A miniszteri, államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre az (5) bekezdés c) pontját megfelelően alkalmazni kell.

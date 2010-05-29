@@ -1,5 +1,3 @@
-## IV/A. Fejezet
-
 ## V. Fejezet
 
 ## KÖZSZOLGÁLATI JOGVITA

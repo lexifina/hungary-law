@@ -2,6 +2,6 @@
 
 (2) Azonnal meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
 
-(3) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át – az 51/A. § (5) bekezdés b) pontját kivéve – a felfüggesztés megszüntetéséig vissza lehet tartani. A teljes illetményt vissza kell tartani a hivatalvesztést kimondó fegyelmi határozat kézbesítésétől kezdve, annak jogerőre emelkedéséig.
+(3) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. A teljes illetményt vissza kell tartani a hivatalvesztést kimondó fegyelmi határozat kézbesítésétől kezdve, annak jogerőre emelkedéséig.
 
 (4) A visszatartott összeget a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve, ha a hivatalvesztést kimondó határozat vált jogerőssé.

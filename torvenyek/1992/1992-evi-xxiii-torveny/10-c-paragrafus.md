@@ -1,4 +1,4 @@
-10/C. § (1) Köztisztviselői kinevezést, vezetői megbízást, vezetői kinevezést csak az kaphat, aki eredményes közigazgatási versenyvizsgát (a továbbiakban: versenyvizsga) tett. Versenyvizsgát tehet az a magyar állampolgár, aki büntetlen előéletű, cselekvőképes és legalább középiskolai végzettséggel rendelkezik.
+10/C. § (1) Versenyvizsgát tehet az a magyar állampolgár, aki büntetlen előéletű, cselekvőképes és legalább középfokú végzettséggel rendelkezik.
 
 (2) A versenyvizsga költségét a vizsgázó viseli. A köztisztviselői kinevezést, vezetői megbízást, illetve kinevezést kapott vizsgázó versenyvizsga díját – ide nem értve a megismételt versenyvizsga díját – a munkáltató megtéríti.
 
@@ -6,4 +6,4 @@
 
 (4) A sikertelen és a teljesített versenyvizsga egyaránt megismételhető.
 
-(5) A Kormány a versenyvizsga alóli mentesítésre vonatkozó szabályokat rendeletben állapítja meg.
+(5)

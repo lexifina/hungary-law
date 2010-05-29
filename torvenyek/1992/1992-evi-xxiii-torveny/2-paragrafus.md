@@ -2,7 +2,7 @@
 
 a)
 
-b) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbiztonsági szolgálatok, a Tűzoltóság, a katasztrófavédelem, a Vám- és Pénzügyőrség, a büntetés-végrehajtás, a polgári védelem és a fegyveres biztonsági őrség szerveire;
+b) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbiztonsági szolgálatok, a Tűzoltóság, a katasztrófavédelem, a büntetés-végrehajtás, a polgári védelem és a fegyveres biztonsági őrség szerveire;
 
 c) jogszabály eltérő rendelkezésének hiányában a helyi önkormányzat feladatkörébe tartozó közszolgáltatások ellátására – polgármesteri hivatalban – foglalkoztatottakra;
 

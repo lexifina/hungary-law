@@ -1,0 +1,1 @@
+58/S. § A kinevezett helyettes államtitkár a miniszterelnök előtt az Országgyűlés előtt esküt tevő, vezető közjogi tisztséget betöltő személyek esküjének megfelelő szöveggel esküt vagy fogadalmat tesz.

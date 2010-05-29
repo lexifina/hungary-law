@@ -1,15 +1,1 @@
-10/A. § (1) A központi államigazgatási szervnél, annak területi szervénél és Kormány általános hatáskörű területi államigazgatási szervénél, a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szervnél vezetői kinevezés vagy vezetői megbízás, valamint központi államigazgatási szerv helyi szerve vezetésére vezetői kinevezés vagy vezetői megbízás csak a szolgáltató központ által történő pályáztatás útján adható.
-
-(2) A pályázati eljárás során kompetencia-vizsgálatot kell végezni. A pályáztatás és a kompetencia-vizsgálat lebonyolítását a munkáltató nevében – a Kormány által meghatározott rendben – a szolgáltató központ végzi.
-
-(3) A pályázati felhívást az (1) bekezdésben meghatározott államigazgatási szerv (a továbbiakban: pályázati kiírást kezdeményező szerv) által meghatározott munkakör-térkép alapján, a pályázati kiírást kezdeményező szerv, illetve a kinevezési jogkör gyakorlójának nevében a szolgáltató központ írja ki.
-
-(4) A pályázati felhívás közzétételéről – a pályázati kiírást kezdeményező szerv egyidejű tájékoztatása mellett – a szolgáltató központ gondoskodik. A pályázat benyújtására meghatározott idő a pályázati felhívásnak a szolgáltató központ által történő közzétételétől számított 10 napnál nem lehet rövidebb. A pályázati kiírást kezdeményező szerv a szolgáltató központ által közzétett pályázati felhívást egyéb módon is közzéteheti.
-
-(5) A szolgáltató központ által lefolytatott pályáztatási eljárást követően a pályázati kiírást kezdeményező szerv tájékoztatja az érvényesen pályázót a kiválasztás további menetéről. A pályázati kiírást kezdeményező szerv kiválasztási eljárásában a végleges döntéshez egyéb kiválasztási módszert, illetve eljárást alkalmazhat, akkor, ha az a vezetői kinevezés és a vezetői megbízás adása szempontjából lényeges tájékoztatást nyújthat, és ha ezt a pályázati felhívás tartalmazta.
-
-(6) A kinevezési jogkör gyakorlója a szolgáltató központ által megküldött érvényes pályázatok megérkezését követő 10 munkanapon belül dönt az eredményes pályázatról és a köztisztviselő kinevezéséről, vezetői megbízás adásáról. Kinevezést és vezetői megbízást adni – a 10. § (12) bekezdésében foglalt feltételeket is ideértve – csak annak a köztisztviselőnek lehet, akit a szolgáltató központ is alkalmasnak talált a munkakör betöltésére és pályázatát megküldte a munkáltatónak. A kinevezési jogkör gyakorlója végső döntéséről tájékoztatja a szolgáltató központot. Ha a szolgáltató központ által megküldött érvényes pályázatok közül – figyelemmel az általa lefolytatott kiválasztási eljárásra – egyiket sem minősítette eredményesnek, döntését a szolgáltató központ felé indokolni köteles.
-
-(7) Az e törvényben meghatározott pályázati eljárás alól indokolt esetben – a Kormány rendeletében meghatározott kiválasztási eljárás lefolytatása érdekében – a központi közszolgálati hatóság vezetője mentesítést adhat. A mentesítéssel egyidejűleg a jelölt számára halasztás adható a közigazgatási versenyvizsga letételére is, az így vezetői kinevezést, vezetői megbízást kapott köztisztviselőnek próbaideje alatt kell közigazgatási versenyvizsgát tennie.
-
-(8) Ha az (1)–(7) bekezdés eltérően nem rendelkezik, akkor a pályáztatásra a 10. §-ban foglaltakat megfelelően alkalmazni kell.
+10/A. §
