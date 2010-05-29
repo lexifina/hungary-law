@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1994-42-00-00.22 |
 | 2010-01-02 | 2009. évi CL. törvény | 1994-42-00-00.23 |
+| 2010-05-29 | 2010. évi XLIII. törvény | 1994-42-00-00.24 |
