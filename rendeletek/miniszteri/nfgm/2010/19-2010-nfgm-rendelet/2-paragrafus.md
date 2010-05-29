@@ -1,3 +1,0 @@
-## 1. § Az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló 37/2007. (XII. 13.) ÖTM rendelet (a továbbiakban: Eng. R.) a következő 52. §-sal egészül ki:
-
-## „52. § E rendeletnek az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló 37/2007. (XII. 13.) ÖTM rendelet módosításáról szóló 19/2010. (V. 13.) NFGM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését követően indult ügyekben vagy megismételt eljárásokban kell alkalmazni.”
