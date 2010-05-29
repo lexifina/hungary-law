@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | --- | --- | --- |
 | 2010-04-01 | 2009. évi CLV. törvény | 2009-155-00-00.0 (közlönyállapot) |
 | 2010-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-155-00-00.1 |
+| 2010-05-29 | 2010. évi XLIII. törvény | 2009-155-00-00.2 |

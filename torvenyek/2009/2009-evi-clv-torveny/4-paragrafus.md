@@ -44,7 +44,7 @@ r) törvény által minősítésre feljogosított személy.
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
-a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a szakállamtitkárra,
+a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra és a helyettes államtitkárra,
 
 b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősítési szintű adat vonatkozásában az irányításuk alatt álló, közhatalmi jogosítványokkal felruházott szervben vezetői megbízással rendelkezőkre, illetve vezetői beosztásba kinevezettekre
 
