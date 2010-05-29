@@ -1,1 +1,0 @@
-A Kormány a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 34. § (13) bekezdésében és 49/O. § (6) bekezdésében, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 76. § (1)–(2) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
