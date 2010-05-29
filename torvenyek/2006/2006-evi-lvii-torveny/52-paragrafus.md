@@ -1,1 +1,0 @@
-52. § Ha az államtitkár megbízatása a Kormány megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig vagy a 47. § b)–f) pontjaiban meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.

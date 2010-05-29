@@ -1,5 +1,0 @@
-12/B. § (1) Az állami vezető személyijövedelemadó-bevallásából az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege nyilvános, ezen adatokat az állami vezető a Miniszterelnöki Hivatal honlapján való közzététel céljából az adóbevallás benyújtására nyitva álló határidő lejártát követő tizenöt napon belül a Miniszterelnöki Hivatalt vezető miniszternek megküldi.
-
-(2) Az állami vezető illetményére, a részére kifizetett jutalomra, céljuttatásra vagy projekt-prémiumra, az országgyűlési képviselői megbízatással rendelkező állami vezető országgyűlési képviselői javadalmazására, illetve az állami vezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat a Miniszterelnöki Hivatal honlapján közzé kell tenni.
-
-(3) A (2) bekezdésben meghatározott adatok változása esetén a megváltozott adatokat – a korábbi adat eltávolítása nélkül – a változástól számított 15 napon belül kell közzétenni.
