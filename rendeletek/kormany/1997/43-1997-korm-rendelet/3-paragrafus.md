@@ -1,7 +1,9 @@
-3. § (1) A Bizottság az üléseken résztvevők szakmai véleménye, illetőleg az országos rendőrfőkapitány Bizottsághoz benyújtott előterjesztése alapján hozza meg javaslatát arra vonatkozóan, hogy az egyes külképviseletek milyen kategóriába tartozzanak.
+## 2. §[^5]
 
-(2) A Bizottság üléseire az érintett külképviselet képviselője a Külügyminisztérium útján meghívható, illetőleg a javaslat meghozatalához álláspontja bekérhető.
+3. § (1)–(2)[^6]
 
-(3)[^5] Az I. kategóriába sorolás további fenntartásának szükségességét havonta felül kell vizsgálni, ennek alapján a fenntartására vagy megváltoztatására az igazságügyi és rendészeti miniszter részére javaslatot kell tenni.
+(3)[^7] Az I. kategóriába sorolás további fenntartásának szükségességét havonta felül kell vizsgálni.
 
-[^5]: A 3. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 68. pontja szerint módosított szöveg.
+[^5]: A 2. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 15. pontja hatályon kívül helyezte.
+[^6]: A 3. § (1)–(2) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 15. pontja hatályon kívül helyezte.
+[^7]: A 3. § (3) bekezdése a 171/2010. (V. 13.) Korm. rendelet 1. § 15. pontja szerint módosított szöveg.
