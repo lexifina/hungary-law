@@ -10,6 +10,6 @@
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell a 399. § (3) és (4) bekezdése, valamint a 400. § (6) bekezdése szerinti eltéréssel alkalmazni.
 
-(7) A Döntőbizottság elnöke szakállamtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes a főosztályvezetői illetményre jogosult.
+(7) A Döntőbizottság elnöke helyettes államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes a főosztályvezetői illetményre jogosult.
 
 (8) A Döntőbizottság a szervezeti és működési szabályzatában meghatározott ügyekre, ügycsoportokra kollégiumot működtet. A kollégium az egységes jogorvoslati gyakorlat biztosítása érdekében elemzi a Döntőbizottság gyakorlatát, és véleményt nyilvánít a vitás jogalkalmazási kérdésekben.
