@@ -2,7 +2,7 @@ A Kormány a közigazgatási rendszer korszerűsítését, a közfeladatok minő
 
 I. A kistérségek
 
-1.[^1]
+1.[^2]
 
 2. Javaslatot kell kidolgozni a kistérségek államigazgatási funkciói ellátásának két fő modelljére. Ennek érdekében meg kell vizsgálni a feladatoknak a kistérségi hivatal keretében, illetve a székhelyközség polgármesteri hivatalának jegyzője által történő ellátásához szükséges jogszabály-módosításokat, igazgatási, költségvetési előnyöket és hátrányokat.
 
@@ -18,7 +18,7 @@ Felelős: európai integrációs ügyek koordinációjáért felelős tárca né
 
 Határidő: 2004. január 31.
 
-2.[^2] Ki kell munkálni a regionális önkormányzatok felállításához szükséges szabályozási koncepciót, aminek ki kell terjednie a regionális önkormányzat szervezetének, működésének alapelveire, az ellátandó önkormányzati feladatokra, a regionális önkormányzatok finanszírozására.
+2.[^3] Ki kell munkálni a regionális önkormányzatok felállításához szükséges szabályozási koncepciót, aminek ki kell terjednie a regionális önkormányzat szervezetének, működésének alapelveire, az ellátandó önkormányzati feladatokra, a regionális önkormányzatok finanszírozására.
 
 Felelős: belügyminiszter, Miniszterelnöki Hivatalt vezető miniszter, igazságügy-miniszter, pénzügyminiszter
 
@@ -34,7 +34,7 @@ III. A közigazgatás átláthatóságának és hatékonyságának a megerősít
 
 1. Növelni kell a központi közigazgatási szervek stratégiai szerepét. A minisztériumok a Kormány programjának megvalósítását szolgáló ágazati stratégiák kidolgozásában és végrehajtásában vállaljanak szerepet. Ennek érdekében:
 
-a)[^3]
+a)[^4]
 
 b) az átláthatóság, az összehangolhatóság és a közös informatikai háttér megteremthetősége érdekében ki kell dolgozni az országos közhitelű nyilvántartások továbbfejlesztésének az irányait.
 
@@ -42,7 +42,7 @@ Felelős: informatikai és hírközlési miniszter, Miniszterelnöki Hivatalt ve
 
 Határidő: 2004. március 31.
 
-2.[^4]
+2.[^5]
 
 3. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény tervezetével össze kell hangolni az ágazatok különös eljárási szabályait.
 
@@ -50,7 +50,7 @@ Felelős: érintett miniszterek a belügyminiszter koordinálásával
 
 Határidő: 2004. szeptember 30.
 
-4.[^5]
+4.[^6]
 
 5. Egységes módszertan közreadásával kell segíteni az Európai Unióban kidolgozott CAF rendszer (Common Assessment Framework) bevezetését és alkalmazását a közigazgatási szerveknél. Ehhez kapcsolódóan pályázati úton elérhető támogatásokat kell biztosítani oly módon, hogy a kistérségek abban külön kerüljenek preferálásra.
 
@@ -72,7 +72,7 @@ Határidő: az elemzésre: 2004. február 29., a módszertani segédlet elkész�
 
 IV. Az önkormányzati rendszer korszerűsítése
 
-1.[^6]
+1.[^7]
 
 2. A közigazgatási rendszer korszerűsítési programjában foglaltaknak megfelelően át kell alakítani az önkormányzatok finanszírozására, a gazdálkodásra, továbbá a gazdálkodás ellenőrzésére vonatkozó szabályokat. Ezen belül kiemelten áttekinthetővé kell tenni a helyi önkormányzatokat megillető normatív állami hozzájárulások (,,normatívák'') rendszerét; kiszámíthatóvá kell válnia az önkormányzatokat megillető központi költségvetési kapcsolatokból származó bevételek alakulásának; valamint biztosítani szükséges a kormányzati források koordinációját.
 
@@ -100,7 +100,7 @@ Felelős: informatikai és hírközlési miniszter, Miniszterelnöki Hivatalt ve
 
 Határidő: azonnal
 
-2–3.[^7]
+2–3.[^8]
 
 4. Az Interneten keresztül történő, ügyfél-azonosítást vagy adatbázis-hozzáférést szükségessé tevő elektronikus ügyintézést, illetve on-line díj- és illetékfizetést megvalósító szolgáltatást – az erőforrásokkal való hatékony gazdálkodás érdekében – valamennyi központi közigazgatási szerv vonatkozásában a kormányzati portálon mint ügyfélkapun keresztül elérhetővé kell tenni.
 
@@ -108,7 +108,7 @@ Felelős: Miniszterelnöki Hivatalt vezető miniszter, informatikai és hírköz
 
 Határidő: azonnal, a rendelet kiadására: 2004. január 31.
 
-5. Az elektronikus közigazgatáshoz kapcsolódó informatikai fejlesztések a Magyar Információs Társadalom Stratégiához illeszkedően támogathatók a költségvetésből. Az elektronikus közigazgatással kapcsolatos koordinatív feladatokat az Információs Társadalom Koordinációs Tárcaközi Bizottságon belül kell ellátni.
+5.[^9] Az elektronikus közigazgatáshoz kapcsolódó informatikai fejlesztések a Magyar Információs Társadalom Stratégiához illeszkedően támogathatók a költségvetésből.
 
 Felelős: informatikai és hírközlési miniszter, Miniszterelnöki Hivatalt vezető miniszter az érintett miniszterek bevonásával
 
@@ -132,10 +132,11 @@ Határidő: 2004. június 30.
 
 4. A hatálybalépéssel egyidejűleg hatályát veszti a közigazgatás reformjáról szóló 1100/1996. (X. 2.) Korm. határozat, valamint a közigazgatás továbbfejlesztésének 2001–2002. évekre szóló kormányzati feladattervéről szóló 1057/2001. (VI. 21.) Korm. határozat.
 
-[^1]: Az I.1. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^2]: A II/2. pont az 1075/2004. (VII. 31.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^3]: A III.1.a) pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^4]: A III.2. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^5]: A III.4. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^6]: A IV.1. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^7]: Az V.2–V.3. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^2]: Az I.1. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^3]: A II/2. pont az 1075/2004. (VII. 31.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^4]: A III.1.a) pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^5]: A III.2. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^6]: A III.4. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^7]: A IV.1. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^8]: Az V.2–V.3. pontot az 1028/2005. (III. 23.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^9]: Az V. pont 5. alpontja az 1119/2010. (V. 13.) Korm. határozat 1. pont 1.58. alpontja szerint módosított szöveg.
