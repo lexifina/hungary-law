@@ -9,11 +9,3 @@
 (4) Az e törvény hatálybalépését megelőzően a központi államigazgatási szervek, valamint területi és helyi szerveik, továbbá a minisztérium főosztályának vezetésére adott vezetői megbízásokra a Ktv. 31. § (10)–(17) bekezdésének e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 (5) A Vnytv. e törvénnyel módosított 5. § (1) bekezdés b) pontját és ezzel összefüggésben 8. § (4) bekezdését, 12. § (1) és (3) bekezdését, valamint 14. § (1)–(6) bekezdését azokra a vagyonnyilatkozat-tételre kötelezettekre kell alkalmazni, akiknek a kötelezettséget megalapozó jogviszonya, beosztása, munka- vagy feladatköre e törvény hatálybalépését követően szűnt meg.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke

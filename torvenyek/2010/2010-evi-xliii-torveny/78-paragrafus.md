@@ -174,7 +174,7 @@ E bekezdés eltérő rendelkezése hiányában a (4) bekezdésben foglaltakat is
 
 (18) A Ktv. a következő IV/A. fejezettel egészül ki:
 
-„
+„IV/A. fejezet
 
 A közigazgatási államtitkárra és a helyettes államtitkárra vonatkozó szabályok
 
