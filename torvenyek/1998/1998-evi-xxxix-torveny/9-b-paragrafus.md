@@ -12,7 +12,7 @@
 
 a) országgyűlési vagy európai parlamenti képviselő,
 
-b) Kormány tagja, államtitkár vagy szakállamtitkár,
+b) Kormány tagja, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár,
 
 c) polgármester vagy helyi önkormányzati képviselő,
 
