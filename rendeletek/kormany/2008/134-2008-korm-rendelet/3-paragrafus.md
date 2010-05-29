@@ -26,7 +26,7 @@ e) a haditechnikai termékek gyártásáról és forgalmazásáról,
 
 f) a kábítószer-prekurzorokkal végezhető tevékenységekről,
 
-g)[^4] az áruk és szolgáltatások biztonsági követelményeiről, vizsgálatáról és tanúsításáról, valamint piacfelügyeletéről
+g)[^5] az áruk és szolgáltatások biztonsági követelményeiről, vizsgálatáról és tanúsításáról, valamint piacfelügyeletéről
 
 ## szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
@@ -36,7 +36,7 @@ a) a kereskedelemről,
 
 b) a vásárokról és a piacokról, az üzletek működéséről,
 
-c)[^5]
+c)[^6]
 
 d) a közraktározásról,
 
@@ -116,28 +116,28 @@ b) az építésügyi és építésfelügyeleti hatósági feladatokról,
 
 c) az építményekről és az építési tevékenységről,
 
-d)[^6] az állami, a térségi és az önkormányzati főépítészi tevékenységről,
+d)[^7] az állami, a térségi és az önkormányzati főépítészi tevékenységről,
 
 e) az építészeti-műszaki tervezésről, a tervpályázatról,
 
-f)[^7] az építési műszaki ellenőri tevékenységről
+f)[^8] az építési műszaki ellenőri tevékenységről
 
-g)[^8]
+g)[^9]
 
 ## szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(8)[^9] A miniszter a kutatás-fejlesztésért és a technológiai innovációért való felelőssége körében előkészíti különösen
+(8)[^10] A miniszter a kutatás-fejlesztésért és a technológiai innovációért való felelőssége körében előkészíti különösen
 
 a) a kutatás-fejlesztésről,
 
 b) a technológiai innovációról,
 
-c)–d)[^10]
+c)–d)[^11]
 
-[^4]: A 3. § (2) bekezdésének g) pontja a 13/2009. (I. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdésének c) pontját a 13/2009. (I. 28.) Korm. rendelet 4. § (4) bekezdése hatályon kívül helyezte.
-[^6]: A 3. § (7) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 45. §-ával megállapított szöveg.
-[^7]: A 3. § (7) bekezdésének f) pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (6) bekezdésének a) pontja szerint módosított szöveg.
-[^8]: A 3. § (7) bekezdésének g) pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (4) bekezdése hatályon kívül helyezte.
-[^9]: A 3. § (8) bekezdését a 88/2009. (IV. 13.) Korm. rendelet 12. § (5) bekezdése iktatta be.
-[^10]: A 3. § (8) bekezdésének c)–d) pontját a 177/2009. (IX. 3.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^5]: A 3. § (2) bekezdésének g) pontja a 13/2009. (I. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (3) bekezdésének c) pontját a 13/2009. (I. 28.) Korm. rendelet 4. § (4) bekezdése hatályon kívül helyezte.
+[^7]: A 3. § (7) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^8]: A 3. § (7) bekezdésének f) pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (6) bekezdésének a) pontja szerint módosított szöveg.
+[^9]: A 3. § (7) bekezdésének g) pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (4) bekezdése hatályon kívül helyezte.
+[^10]: A 3. § (8) bekezdését a 88/2009. (IV. 13.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^11]: A 3. § (8) bekezdésének c)–d) pontját a 177/2009. (IX. 3.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.

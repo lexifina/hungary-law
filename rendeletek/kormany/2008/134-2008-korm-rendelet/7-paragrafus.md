@@ -22,7 +22,7 @@ j) ellátja a területfejlesztési tanácsok törvényességi felügyeletének s
 
 k) javaslatot tesz a Kormány képviselőjére a Balaton Fejlesztési Tanácsban, a Budapesti Agglomerációs Fejlesztési Tanácsban és a regionális fejlesztési tanácsokban,
 
-l) összehangolja a Balatonnal kapcsolatos összkormányzati feladatokat, részt vesz a Balatoni Tárcaközi Bizottság tevékenységében,
+l)[^15] összehangolja a Balatonnal kapcsolatos összkormányzati feladatokat,
 
 m) közreműködik a területi marketingtevékenység kormányzati feladatainak ellátásában,
 
@@ -39,3 +39,5 @@ r) kidolgozza és megvalósítja a területfejlesztés intézményrendszerének 
 s) felügyeli és szakmailag irányítja a kistérségi hálózat munkáját,
 
 t) koordinálja a regionális fejlesztési és határ menti operatív programok tervezését.
+
+[^15]: A 7. § l) pontja a 171/2010. (V. 13.) Korm. rendelet 1. § 20. pontja szerint módosított szöveg.

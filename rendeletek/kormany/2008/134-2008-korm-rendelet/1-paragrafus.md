@@ -16,12 +16,12 @@ g) építésügyért,
 
 h) fejlesztéspolitikáért,
 
-i)[^1] kutatás-fejlesztésért és technológiai innovációért,
+i)[^2] kutatás-fejlesztésért és technológiai innovációért,
 
-j)[^2]
+j)[^3]
 
-k)[^3] űrkutatásért
+k)[^4] űrkutatásért
 
-[^1]: Az 1. § i) pontját a 88/2009. (IV. 13.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^2]: Az 1. § j) pontját a 88/2009. (IV. 13.) Korm. rendelet 12. § (4) bekezdése iktatta be, hatályon kívül helyezte a 177/2009. (IX. 3.) Korm. rendelet 3. § (3) bekezdése.
-[^3]: Az 1. § k) pontját a 88/2009. (IV. 13.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^2]: Az 1. § i) pontját a 88/2009. (IV. 13.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^3]: Az 1. § j) pontját a 88/2009. (IV. 13.) Korm. rendelet 12. § (4) bekezdése iktatta be, hatályon kívül helyezte a 177/2009. (IX. 3.) Korm. rendelet 3. § (3) bekezdése.
+[^4]: Az 1. § k) pontját a 88/2009. (IV. 13.) Korm. rendelet 12. § (4) bekezdése iktatta be.
