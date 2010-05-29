@@ -2,7 +2,7 @@
 
 36. § (1) Mentesek a szolgáltatások alól:
 
-a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Országgyűlési Biztos Hivatala, a Miniszterelnöki Hivatal, a minisztériumok, a Legfelsőbb Bíróság, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség és a jegybank,
+a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Országgyűlési Biztos Hivatala, a Miniszterelnökség, a minisztériumok, a Legfelsőbb Bíróság, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség és a jegybank,
 
 b) a Honvédség és a rendvédelmi szervek,
 

@@ -40,4 +40,4 @@ t) megállapítja a Honvédség tevékenységével, diszlokációjával kapcsola
 
 u) ellátja a jogszabály, országgyűlési és kormányhatározat által megállapított egyéb feladatokat.
 
-(2) A honvédelemért felelős miniszter az (1) bekezdés szerinti hatáskörében hozott döntések előkészítéséről és végrehajtásáról – a szakirányításra jogosult személy és a 101. § (3) bekezdésére figyelemmel a Honvéd Vezérkar főnökének közreműködésével – a honvédelemért felelős miniszter által vezetett minisztérium útján gondoskodik.
+(2) A honvédelemért felelős miniszter az (1) bekezdés szerinti hatáskörében hozott döntések előkészítéséről és végrehajtásáról – a közigazgatási államtitkárnak és a 101. § (3) bekezdésére figyelemmel a Honvéd Vezérkar főnökének közreműködésével – a honvédelemért felelős miniszter által vezetett minisztérium útján gondoskodik.

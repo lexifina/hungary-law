@@ -30,4 +30,4 @@ l) gyakorolja a jogszabályok, az állami irányítás egyéb jogi eszközei, va
 
 (4) A Honvéd Vezérkar főnöke a vezetési hatáskörében parancsot, intézkedést és szakutasítást ad ki.
 
-(5) A Honvéd Vezérkar főnöke a hatáskörének gyakorlása során együttműködik a szakirányításra jogosult személlyel.
+(5) A Honvéd Vezérkar főnöke a hatáskörének gyakorlása során együttműködik a közigazgatási államtitkárral.
