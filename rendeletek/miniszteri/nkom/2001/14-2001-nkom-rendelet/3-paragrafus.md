@@ -16,4 +16,6 @@ e) ellenőrzi az iskolai könyvtári szakfelügyelet javaslatainak megvalósít�
 
 (4) A szakfelügyeleti vizsgálatot a közoktatásról szóló törvény szakmai ellenőrzés lebonyolításáról szóló rendelkezéseinek megfelelően kell megszervezni.
 
-(5) Az iskolai könyvtárak szakfelügyeletének részletes szempontrendszerét az oktatási miniszter és a miniszter által létrehozott, az iskolai könyvtárakkal foglalkozó Tárcaközi Bizottság javaslata alapján a miniszter hagyja jóvá és közzéteszi mind az Oktatási, mind a Kulturális Közlönyben.
+(5)[^1] Az iskolai könyvtárak szakfelügyeletének részletes szempontrendszerét az oktatási miniszter és a miniszter hagyja jóvá és közzéteszi mind az Oktatási, mind a Kulturális Közlönyben.
+
+[^1]: A 3. § (5) bekezdése a 171/2010. (V. 13.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
