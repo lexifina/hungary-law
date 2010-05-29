@@ -12,7 +12,7 @@ b) az alárendeltjei vonatkozásában
 
 – az országos parancsnok és az illetékes helyettese;
 
-c) a miniszter, az államtitkár, felügyeleti hatáskörében a szakállamtitkár;
+c) a miniszter, az államtitkár, közigazgatási államtitkár, felügyeleti hatáskörében a helyettes államtitkár;
 
 d) a szervezeti egység, az országos parancsnokság, valamint a minisztérium személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint a fegyelmi ügyben eljáró személy;
 
