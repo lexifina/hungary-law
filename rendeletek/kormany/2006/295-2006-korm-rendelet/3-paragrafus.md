@@ -1,4 +1,4 @@
-## Munkavédelmi állami feladatok[^8]
+## Munkavédelmi állami feladatok[^9]
 
 3. § (1) Az OMMF ellátja a munkavédelem nemzetgazdasági szintű irányításával kapcsolatos feladatokat. Az OMMF saját jogkörében kezdeményezi, előkészíti és elősegíti az Mvt. 14. §-ában meghatározott állami irányítási feladatok végrehajtását.
 
@@ -16,7 +16,7 @@ d) a nemzetgazdaság munkavédelmi helyzetének évenkénti áttekintésében, a
 
 e) a nevelés és az oktatás területén a biztonságos életvitelre, a szakmai oktatás területén az egészséget nem veszélyeztető és a biztonságos munkavégzés szabályaira vonatkozó ismeretanyag meghatározásában.
 
-(4)[^9] Az OMMF a munkavédelmi tevékenységre, valamint az egészséget nem veszélyeztető és biztonságos munkavégzés javítására irányuló kutatásokat végez.
+(4)[^10] Az OMMF a munkavédelmi tevékenységre, valamint az egészséget nem veszélyeztető és biztonságos munkavégzés javítására irányuló kutatásokat végez.
 
-[^8]: A 3. §-t megelőző cím a 70/2007. (IV. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^9]: A 3. § (4) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 3. §-t megelőző cím a 70/2007. (IV. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: A 3. § (4) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 4. §-a iktatta be.
