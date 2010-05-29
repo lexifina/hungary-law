@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-212-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 1998-212-20-22.7 | 212/1998. (XII. 24.) Korm. rendelet |
+| 2010-05-29 | 1998-212-20-22.8 | 171/2010. (V. 13.) Korm. rendelet |
