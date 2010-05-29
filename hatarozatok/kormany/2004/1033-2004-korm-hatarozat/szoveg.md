@@ -240,13 +240,9 @@ III.
 
 SZERVEZETI ÉS PÉNZÜGYI INTÉZKEDÉSEK
 
-34. A Balatonnal összefüggő kormányzati feladatok végrehajtásának koordinálására tárcaközi bizottság működtetése szükséges a környezetvédelmi és vízügyi miniszter, a belügyminiszter, az európai integrációs ügyek koordinációjáért felelős tárca nélküli miniszter, a földművelésügyi és vidékfejlesztési miniszter, a gazdasági és közlekedési miniszter, a gyermek-, ifjúsági és sportminiszter, a nemzeti kulturális örökség minisztere, a pénzügyminiszter képviselőjének, valamint a Balaton Fejlesztési Tanács elnökének részvételével. A bizottság elnöki teendőit a környezetvédelmi és vízügyi miniszter látja el, társelnöki teendőit pedig az európai integrációs ügyek koordinációjáért felelős tárca nélküli miniszter és a gazdasági és közlekedési miniszter által kijelölt személy végzi.
+34.[^1]
 
-Felelős: környezetvédelmi és vízügyi miniszter, az európai integrációs ügyek koordinációjáért felelős tárca nélküli miniszter, gazdasági és közlekedési miniszter
-
-Határidő: folyamatos
-
-35.[^1]
+35.[^2]
 
 36. A térségi területfejlesztési feladatok koordinálása érdekében erősíteni kell a Balaton Fejlesztési Tanács kormányzati támogatását.
 
@@ -386,4 +382,5 @@ Felelős: környezetvédelmi és vízügyi miniszter, az európai integrációs 
 
 Határidő: 2007. szeptember 30., majd 5 évenként
 
-[^1]: A 35. pontot az 1042/2008. (VI. 30.) Korm. határozat 1. pont 1.20. alpontja hatályon kívül helyezte.
+[^1]: A 34. pontot az 1119/2010. (V. 13.) Korm. határozat 1. pont 1.1. alpontja hatályon kívül helyezte.
+[^2]: A 35. pontot az 1042/2008. (VI. 30.) Korm. határozat 1. pont 1.20. alpontja hatályon kívül helyezte.
