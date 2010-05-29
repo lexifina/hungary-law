@@ -1,0 +1,5 @@
+4. § (1) A költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„13. § (1) Az átalakításról, megszüntetésről – az alapításnak megfelelően – jogszabályban vagy határozatban kell rendelkezni, melyet legalább negyvenöt nappal az átalakítás, megszüntetés kérelmezett napja előtt ki kell hirdetni (közzé kell tenni), mely határidőtől a központi államigazgatási szervek esetében törvényi rendelkezés, illetve bármely költségvetési szerv esetében, illetve az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő esetben kivételesen a Kormány eltérően rendelkezhet. Ha a költségvetési szervet bizonyos feltétel bekövetkeztéig hozták létre, akkor a megszűnés tényét megállapító jogszabályt (határozatot) kell kiadni, melyet haladéktalanul ki kell hirdetni (közzé kell tenni).”
+
+(2) Felhatalmazást kap a Kormány, hogy – a költségvetési törvény keretei között – az e törvény, valamint a miniszteri feladat- és hatáskörök gyakorlásához szükséges fejezetek közötti, illetve új fejezetekhez történő előirányzat-átcsoportosításokat elvégezze.
