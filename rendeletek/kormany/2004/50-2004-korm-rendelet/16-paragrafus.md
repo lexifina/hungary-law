@@ -1,3 +1,5 @@
+## 15. §[^50]
+
 ## Nemzetközi Importigazolás
 
 16. § (1)[^51] Az 1. §-ban említett termékeknek és technológiáknak a Magyar Köztársaság területére történő behozatala esetén, amennyiben a terméket az Európai Unión kívüli harmadik országból hozzák be, a Hivatal a 13. §-nak megfelelő Nemzetközi Importigazolást ad ki abból a célból, hogy igazolja az említett termékek behozatalának tényét.
@@ -10,6 +12,7 @@
 
 (5) Az Igazolás hatályát veszti, ha a kibocsátást követő hat hónapon belül nem mutatják be a megfelelő külföldi hatóságnál.
 
+[^50]: A 15. §-t megelőző alcímet és a 15. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 7. pontja hatályon kívül helyezte.
 [^51]: A 16. § (1) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
 [^52]: A 16. § (2) bekezdését a 108/2007. (V. 9.) Korm. rendelet 18. § (3) bekezdése hatályon kívül helyezte.
 [^53]: A 16. § (4) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
