@@ -18,9 +18,9 @@ A Nemzeti Ifjúsági Stratégia cselekvési terve 2010–2011.
 
 a) a kormány irányítása alá tartozó szervek, az ifjúságpolitikai háttérintézmények és a velük együttműködő szervezetek vonatkozásában;
 
-b) a kormányzati szervekkel, az ifjúsági korosztállyal foglalkozó szakmai és társadalmi szervezetekkel;
+b) a kormányzati szervekkel, az ifjúsági korosztállyal foglalkozó szakmai és társadalmi szervezetekkel.
 
-c) az Ifjúsági Koordinációs Bizottság (IKB) létrehozásával, szabályozásával és működtetésével.
+c)[^1]
 
 Felelős: szociális és munkaügyi miniszter
 
@@ -527,3 +527,5 @@ Határidő: 2011. december 31.
 Felelős: szociális és munkaügyi miniszter
 
 Határidő: 2011. december 31.
+
+[^1]: A melléklet 1. pont 1.1 alpont c) alpontját az 1119/2010. (V. 13.) Korm. határozat 1. pont 1.76. alpontja hatályon kívül helyezte.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1012-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-22 | 2010-1012-30-22.1 | 1012/2010. (I. 22.) Korm. határozat |
+| 2010-05-29 | 2010-1012-30-22.2 | 1119/2010. (V. 13.) Korm. határozat |
