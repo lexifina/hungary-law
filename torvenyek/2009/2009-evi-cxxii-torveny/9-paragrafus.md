@@ -2,4 +2,4 @@
 
 (2) E törvény 5. § (1) bekezdését, valamint 7. § (1)–(3) bekezdését az e törvény hatálybalépését követően kötött vagy a javadalmazásra vonatkozó részében módosított munkaszerződésekre kell alkalmazni.
 
-(3) A 4. § (3) bekezdésének rendelkezéseit a nem a Magyar Állam többségi befolyása alatt álló gazdasági társaságokra 2011. január 1-jétől kell alkalmazni.
+(3)
