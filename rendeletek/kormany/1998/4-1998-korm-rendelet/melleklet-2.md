@@ -1,4 +1,4 @@
-2. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^26]
+2. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^29]
 
 ## A többszöri berepülési engedély iránti kérelem adattartalma
 
@@ -16,4 +16,4 @@
 
 7. A kérelmező aláírása / Signature of the applicant
 
-[^26]: A 2. számú mellékletet a 23/2003. (III. 4.) Korm. rendelet 6. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 2. számú mellékletet a 23/2003. (III. 4.) Korm. rendelet 6. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
