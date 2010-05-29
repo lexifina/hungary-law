@@ -1,0 +1,1 @@
+90. § 2010. szeptember 1-jén hatályát veszti e törvény 1. § (1) bekezdésében „a Kormány általános hatáskörű területi államigazgatási szervére,” szövegrész, 2. § (3) bekezdésében a „vagy a Kormány általános hatáskörű területi államigazgatási szerve” szövegrész, továbbá 74. §-a és az azt megelőző cím.

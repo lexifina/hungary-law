@@ -1,0 +1,1 @@
+88. § E törvény hatálybalépésével egyidejűleg hatályát veszti a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 22. § (2) bekezdésében és 57. § (1) bekezdés g) pontjában az „1997. évi LXXIX. törvény” szövegrész.

@@ -1,0 +1,1 @@
+27. § Ha a miniszterelnök, illetve az ügyvezető miniszterelnök megbízatásának megszűnésére az Alkotmány 33/A. § c)–d) pontjában, illetve e törvény 26. § (1) bekezdésében meghatározott esetben kerül sor, ennek tényét az Országgyűlés elnöke jelenti be az Országgyűlésnek.

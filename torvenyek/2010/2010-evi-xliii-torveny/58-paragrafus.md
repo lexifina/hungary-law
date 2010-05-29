@@ -1,0 +1,1 @@
+58. § Ha az államtitkár megbízatása a Kormány megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig vagy az 53. § b)–f) pontjaiban meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
