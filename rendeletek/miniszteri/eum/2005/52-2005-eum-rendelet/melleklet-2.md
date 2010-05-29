@@ -52,7 +52,7 @@
 
 ## A forgalomba hozatali engedély iránti kérelemhez csatolandó, egy, az 1-től az 5-ös fejezetig mindent magában foglaló tartalomjegyzék.
 
-## 1.2.[^76] Engedély iránti kérelem
+## 1.2.[^77] Engedély iránti kérelem
 
 ## A kérelem tárgyát képező gyógyszert a következő adatok azonosítják:
 
@@ -1030,7 +1030,7 @@
 
 ## a) A 7. § (12) bekezdése szerint beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, és be kell nyújtania az eredeti forgalomba hozatali engedély tulajdonosának beleegyezését, hogy kereszthivatkozással élhet a 4. és 5. fejezetének tartalmát illetően.
 
-## b)[^77] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
+## b)[^78] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
 
 ## Ezen termékek esetében a nem-klinikai/klinikai áttekintéseknek/összefoglalóknak a következő elemekre kell különösen koncentrálniuk:
 
@@ -1360,7 +1360,7 @@
 
 ## – Ha egy kérelmező egy ritka betegség gyógyszerének engedélyezése során hivatkozik a 7. § (1) bekezdésére és jelen melléklet 2. részének 1. fejezetére (megalapozott és elfogadott gyógyászati felhasználás), a hivatkozott anyag rendszeres és dokumentált használata vonatkozhat – mint korlátozási mód – ezen anyag használatára.
 
-## 4. RÉSZ[^78]
+## 4. RÉSZ[^79]
 
 ## FEJLETT (ÚJSZERŰ) TERÁPIÁS GYÓGYSZERKÉSZÍTMÉNYEK
 
@@ -1740,6 +1740,6 @@
 
 12. RADIOAKTÍV GYÓGYSZEREK ELKÉSZÍTÉSÉRE VONATKOZÓ ÚTMUTATÁSOK
 
-[^76]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
-[^77]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
-[^78]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^77]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^78]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
+[^79]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
