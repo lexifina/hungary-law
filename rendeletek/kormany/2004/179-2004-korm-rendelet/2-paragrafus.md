@@ -12,7 +12,7 @@
 
 4.[^3] Szakmai Közreműködő Szervezetek: feladataikat az Igazságügyi és Rendészeti Minisztériumnál és a Vám- és Pénzügyőrség Országos Parancsnokságán a felelős miniszter által kijelölt szervezeti egység, a Gazdasági és Közlekedési Minisztériumnál a felelős miniszter által kijelölt szervezeti egység, vagy a Gazdasági és Közlekedési Minisztérium felügyelete alá tartozó, a felelős miniszter által kijelölt jogi személy, illetve annak szervezeti egysége látja el, amely rendelkezik az Európai Unió Bizottsága megfelelő intézményi akkreditációjával. Az SzKSz-ek felelősek a Schengen Alap támogatásból finanszírozott fejlesztési feladatok szakmai és technikai tervezéséért, előkészítéséért, a megvalósítás közvetlen nyomon követéséért, illetőleg az e rendeletben meghatározott esetekben a vonatkozó közbeszerzési eljárások lebonyolításáért, a szerződéskötési, nyilvántartási és egyéb pénzügyi adminisztrációs feladatok ellátásáért, továbbá ezen feladatokkal kapcsolatos szervezeten belüli belső koordináció végzéséért;
 
-5.[^4] Schengen Alap Tárcaközi Bizottság (a továbbiakban: SATB): az Igazságügyi és Rendészeti Minisztérium vezetésével működő, egyeztető és jóváhagyó szakmai tárcaközi bizottság;
+5.[^4]
 
 6.[^5] Delegálási Megállapodás: a Felelős Hatóság és a KPSZE között létrejött, a fejlesztési feladatok pénzügyi megvalósítására vonatkozó kétoldalú írásbeli kötelezettségvállalás;
 
@@ -59,7 +59,7 @@
 [^1]: A 2. § 2. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 3. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 4. pontja a 352/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § 5. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 5. pontját a 171/2010. (V. 13.) Korm. rendelet 1. § 6. pontja hatályon kívül helyezte.
 [^5]: A 2. § 6. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 7. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 8. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
