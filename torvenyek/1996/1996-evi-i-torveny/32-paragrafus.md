@@ -16,7 +16,7 @@
 
 (9) A Testület tagja társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadók azzal, hogy illetménye társadalombiztosítási és nyugdíjjárulék alapjául szolgáló jövedelem. Az egészségügyi hozzájárulás fizetésére az 1996. évi LXXXVIII. törvényben foglaltakat kell alkalmazni. A járulék-, illetve hozzájárulás fizetést, továbbá az elszámolást, valamint a nyilvántartást és adatszolgáltatást a Testület Irodájának az egészségbiztosítási szervvel, valamint a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervvel kötött megállapodásában kell rendezni
 
-(10) Az iroda alkalmazottai köztisztviselők, reájuk a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell alkalmazni az e törvényben foglalt eltérésekkel. Az iroda vezetőjét a Testület elnöke nevezi ki és ő gyakorolja felette a munkáltatói jogokat. Az iroda vezetőjének a jogállása a szakállamtitkáréval azonos.
+(10) Az iroda alkalmazottai köztisztviselők, reájuk a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell alkalmazni az e törvényben foglalt eltérésekkel. Az iroda vezetőjét a Testület elnöke nevezi ki és ő gyakorolja felette a munkáltatói jogokat. Az iroda vezetőjének a jogállása a helyettes államtitkáréval azonos.
 
 (11) Az iroda megbízás alapján külső szakértőket is alkalmazhat.
 

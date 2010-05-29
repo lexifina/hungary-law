@@ -1,4 +1,4 @@
-69. § (1) Nem választható a részvénytársaság elnökévé, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, szakállamtitkár, országgyűlési képviselő, főpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+69. § (1) Nem választható a részvénytársaság elnökévé, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, főpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
 
 (2) A részvénytársaság elnökét a pályázat alapján a kuratórium titkos szavazással választja négy évre. A pályázatnak tartalmaznia kell a pályázó részletes elképzeléseit a részvénytársaság tájékoztatási és kulturális műsorpolitikai célkitűzéseiről, üzletpolitikájáról, valamint az elnökség által meghatározott egyéb kérdésekről.
 

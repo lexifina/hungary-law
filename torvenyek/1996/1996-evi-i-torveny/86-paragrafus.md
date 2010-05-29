@@ -2,7 +2,7 @@
 
 (2) Nem lehet műsorszolgáltatásra jogosult személy:
 
-a) a köztársasági elnök, a miniszterelnök, az országgyűlési képviselő, a Kormány tagja, az államtitkár, az országgyűlési biztos, az alkotmánybíró,
+a) a köztársasági elnök, a miniszterelnök, az országgyűlési képviselő, a Kormány tagja, az államtitkár, közigazgatási államtitkár, helyettes államtitkár, az országgyűlési biztos, az alkotmánybíró,
 
 b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke, ezek helyettese, a jegyző, a főjegyző,
 
