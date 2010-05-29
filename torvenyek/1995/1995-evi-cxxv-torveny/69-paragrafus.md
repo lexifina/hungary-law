@@ -22,9 +22,9 @@ tekintetében.
 
 a) valamennyi miniszteri tisztségre jelölt személy,
 
-b) az államtitkárok és az azonos jogállású állami vezetők,
+b) az államtitkárok, közigazgatási államtitkárok és az azonos jogállású állami vezetők,
 
-c) a Miniszterelnöki Hivatal vezető beosztású munkatársai,
+c) a Miniszterelnökség vezető beosztású munkatársai,
 
 d) a Kormány irányítása alatt álló az ország egész területére kiterjedő illetékességgel rendelkező szervek vezetői, helyettesei, és a vezetőkkel azonos jogállású más közszolgálati vezetők
 
@@ -32,7 +32,7 @@ tekintetében.
 
 (4) Az illetékes miniszter kezdeményezi az ellenőrzést
 
-a) a szakállamtitkárok és az azonos jogállású állami vezetők,
+a) a helyettes államtitkárok és az azonos jogállású állami vezetők,
 
 b) a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
 

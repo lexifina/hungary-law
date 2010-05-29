@@ -2,7 +2,7 @@
 
 (2) Az Országgyűlés elnöke – a fontos és bizalmas munkakörre jelölt személyek ellenőrzésére vonatkozó szabályok szerint – köteles nemzetbiztonsági ellenőrzést kezdeményezni a Bizottságba a képviselőcsoportok vezetői által jelölt képviselők tekintetében. A képviselőcsoportok vezetői legfeljebb kétszer annyi jelöltet nevezhetnek meg, mint amennyi tag ajánlására jogosult a képviselőcsoport.
 
-(3) A bizottsági tagságra jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést a Nemzetbiztonsági Hivatal végzi el. Amennyiben kockázati tényező merül fel, a Nemzetbiztonsági Hivatal főigazgatója erről tájékoztatja az érintett képviselőt.
+(3) A bizottsági tagságra jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést a Alkotmányvédelmi Hivatal végzi el. Amennyiben kockázati tényező merül fel, a Alkotmányvédelmi Hivatal főigazgatója erről tájékoztatja az érintett képviselőt.
 
 (4) A (3) bekezdésben meghatározott nemzetbiztonsági ellenőrzés elvégzését követően a képviselőcsoport vezetője ajánlást készít, amely annyi jelöltet tartalmaz, amennyi tag ajánlására jogosult a képviselőcsoport.
 

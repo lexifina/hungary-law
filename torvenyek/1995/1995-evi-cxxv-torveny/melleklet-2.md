@@ -4,9 +4,9 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 1. a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
 
-2. az államtitkárok és az azonos jogállású állami vezetők,
+2. az államtitkárok, közigazgatási államtitkárok és az azonos jogállású állami vezetők,
 
-3. a szakállamtitkárok és az azonos jogállású állami vezetők,
+3. a helyettes államtitkárok és az azonos jogállású állami vezetők,
 
 4. az autonóm államigazgatási szervek és a kormányhivatalok vezetői, helyettesei és a vezetőkkel azonos jogállású más közszolgálati vezetők,
 
@@ -16,7 +16,7 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 7. a Köztársasági Elnök Hivatala vezető beosztású munkatársai,
 
-8. a Miniszterelnöki Hivatal vezető beosztású munkatársai,
+8. a Miniszterelnökség vezető beosztású munkatársai,
 
 9. a Magyar Honvédség parancsnoka, a vezérkari főnök,
 
