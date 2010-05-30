@@ -2,7 +2,7 @@
 
 6. § Ez a rendelet a kihirdetését követő 46. napon lép hatályba azzal, hogy a rendeletet csak a hatálybalépését követően a polgármesteri hivatal jegyzőjéhez érkezett kérelmek esetében kell alkalmazni.
 
-Melléklet az 55/2006. (VII. 27.) FVM rendelethez[^2]
+Melléklet az 55/2006. (VII. 27.) FVM rendelethez[^3]
 
 | Megye | Önkormányzat | Költségvetési elszámolási számla |
 
@@ -5020,7 +5020,7 @@ Melléklet az 55/2006. (VII. 27.) FVM rendelethez[^2]
 
 | Vas | Csönge | 11747044-15424446-00000000 |
 
-| Vas | Csörötnek | 11747068-15421371-00000000 |
+| Vas | Csörötnek | 72100433-11053246-00000000 |
 
 | Vas | Daraboshegy | 11747020-15424051-00000000 |
 
@@ -6340,4 +6340,4 @@ Melléklet az 55/2006. (VII. 27.) FVM rendelethez[^2]
 
 | Zala | Zebecke | 11749022-15436090-00000000 |
 
-[^2]: A melléklet a 3/2009. (I. 16.) FVM rendelet 3. §-a, a 156/2009. (XI. 18.) FVM rendelet 6. §-a szerint módosított szöveg.
+[^3]: A melléklet a 3/2009. (I. 16.) FVM rendelet 3. §-a, a 156/2009. (XI. 18.) FVM rendelet 6. §-a, a 40/2010. (IV. 15.) FVM rendelet 10. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 8. §-a alapján a 2010. május 30-át követően megindult közigazgatási ügyekben, valamint a megismételt eljárásokban kell alkalmazni.
