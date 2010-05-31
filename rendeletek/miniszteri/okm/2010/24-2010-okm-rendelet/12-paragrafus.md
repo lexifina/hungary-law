@@ -1,0 +1,1 @@
+## 11. § A Rendelet 2. számú melléklet VIII. MŰSZAKI KÉPZÉSI TERÜLET kiegészül e rendelet 15. melléklete szerinti – a „20. JÁRMŰMÉRNÖKI ALAPKÉPZÉSI SZAK” képzési és kimeneti követelményeiről szóló – rendelkezésekkel.

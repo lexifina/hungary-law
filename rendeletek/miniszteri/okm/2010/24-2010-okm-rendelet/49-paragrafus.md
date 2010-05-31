@@ -1,0 +1,9 @@
+## 48. § A Rendelet 5. számú melléklet – e rendelet 46. §-ával módosított – HITÉLETI SZAKOK IV. A HETEDNAPI ADVENTISTA EGYHÁZ, A MAGYARORSZÁGI BAPTISTA EGYHÁZ, EVANGÉLIUMI PÜNKÖSDI KÖZÖSSÉG, A GOLGOTA KERESZTÉNY GYÜLEKEZET HITÉLETI SZAKJAI kiegészül e rendelet 86. melléklete szerinti rendelkezésekkel.
+
+49. § (1) A Rendelet 5. számú melléklet HITÉLETI SZAKOK V. MAGYARORSZÁGI ZSIDÓ HITKÖZSÉGEK SZÖVETSÉGE 1. FELEKEZETI SZOCIÁLIS MUNKÁS ALAPKÉPZÉSI SZAK tekintetében az 1. Az alapképzési szak megnevezése, a 2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint az 5. A képzés célja pont rendelkezései helyére e rendelet 87. melléklete szerinti rendelkezések lépnek.
+
+(2) A Rendelet 5. számú melléklet HITÉLETI SZAKOK V. MAGYARORSZÁGI ZSIDÓ HITKÖZSÉGEK SZÖVETSÉGE 2. JUDAISZTIKA ALAPKÉPZÉSI SZAK, 3. RABBIHELYETTES ALAPKÉPZÉSI SZAK, valamint 4. ZSIDÓ LITURGIKA ALAPKÉPZÉSI SZAK tekintetében az 1. Az alapképzési szak megnevezése, a 2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint a 6. A képzés célja pont rendelkezései helyére e rendelet 88. melléklete szerinti rendelkezések lépnek.
+
+(3) A Rendelet 5. számú melléklet HITÉLETI SZAKOK V. MAGYARORSZÁGI ZSIDÓ HITKÖZSÉGEK SZÖVETSÉGE 5. RABBI MESTERKÉPZÉSI SZAK tekintetében az 1. A mesterképzési szak megnevezése, a 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint a 7. A képzés célja pont rendelkezései helyére e rendelet 89. melléklete szerinti rendelkezések lépnek.
+
+(4) A Rendelet 5. számú melléklet HITÉLETI SZAKOK V. MAGYARORSZÁGI ZSIDÓ HITKÖZSÉGEK SZÖVETSÉGE 6. ZSIDÓ KULTÚRATÖRTÉNET MESTERKÉPZÉSI SZAK pont helyére e rendelet 90. melléklete szerinti rendelkezések lépnek.
