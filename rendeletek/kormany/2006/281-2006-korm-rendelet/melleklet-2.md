@@ -38,6 +38,6 @@
 
 ## aláírás
 
-2. számú melléklet a 281/2006. (XII. 23.) Korm. rendelethez[^175]
+2. számú melléklet a 281/2006. (XII. 23.) Korm. rendelethez[^178]
 
-[^175]: A 2. § számú melléklet a 179/2009. (IX. 4.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^178]: A 2. § számú melléklet a 179/2009. (IX. 4.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

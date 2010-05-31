@@ -1,6 +1,6 @@
 ## 59. § A közreműködő szervezet a kedvezményezettel kötendő támogatási szerződésben a támogatási szerződés megszegéséből, illetve a támogatás jogtalan felhasználásából eredő esetleges visszafizetési kötelezettség biztosítására jogosult további, szerződést biztosító mellékkötelezettségeket (Ptk. 243–276. §) meghatározni.
 
-60. §[^153] (1) A (2) bekezdésben foglalt kivételtől eltekintve nem köteles az 58–59. §-ban meghatározott biztosítékot nyújtani:
+60. §[^154] (1) A (2) bekezdésben foglalt kivételtől eltekintve nem köteles az 58–59. §-ban meghatározott biztosítékot nyújtani:
 
 a) a költségvetési szerv,
 
@@ -26,10 +26,10 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) az a kedvezményezett, amelynek a projektjére megítélt támogatási összeg nem haladja meg a 25 millió forintot,
 
-m)[^154] társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
+m)[^155] társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
 
-(2)[^155] Az a kedvezményezett – a technikai segítségnyújtás keretből finanszírozott projekt kedvezményezettjének, valamint a központi költségvetési szerv kivételével –, aki a Kbt. 6. vagy 17. Címe, illetve a Kbt. 252. §-a szerinti hirdetmény nélküli tárgyalásos eljárást folytat le, a közbeszerzési eljárás eredményeként kötött szerződés értékére jutó támogatási összeg erejéig az 58–59. §-ban meghatározott biztosíték nyújtására köteles.
+(2)[^156] Az a kedvezményezett – a technikai segítségnyújtás keretből finanszírozott projekt kedvezményezettjének, valamint a központi költségvetési szerv kivételével –, aki a Kbt. 6. vagy 17. Címe, illetve a Kbt. 252. §-a szerinti hirdetmény nélküli tárgyalásos eljárást folytat le, a közbeszerzési eljárás eredményeként kötött szerződés értékére jutó támogatási összeg erejéig az 58–59. §-ban meghatározott biztosíték nyújtására köteles.
 
-[^153]: A 60. § a 179/2009. (IX. 4.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést – a 60. § (2) bekezdésében foglaltak kivételével – a folyamatban lévő ügyekben is alkalmazni kell.
-[^154]: A 60. § (1) bekezdés m) pontját a 340/2009. (XII. 30.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 31. napján folyamatban lévő ügyekben is alkalmazni kell.
-[^155]: A 60. § – 179/2009. (IX. 4.) Korm. rendelet 10. §-ával megállapított – (2) bekezdését e módosító rendelet 21. § (2) bekezdése alapján a 2009. szeptember 7. napját követően meghirdetett pályázati kiírások esetében kell alkalmazni.
+[^154]: A 60. § a 179/2009. (IX. 4.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést – a 60. § (2) bekezdésében foglaltak kivételével – a folyamatban lévő ügyekben is alkalmazni kell.
+[^155]: A 60. § (1) bekezdés m) pontját a 340/2009. (XII. 30.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 31. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^156]: A 60. § – 179/2009. (IX. 4.) Korm. rendelet 10. §-ával megállapított – (2) bekezdését e módosító rendelet 21. § (2) bekezdése alapján a 2009. szeptember 7. napját követően meghirdetett pályázati kiírások esetében kell alkalmazni.

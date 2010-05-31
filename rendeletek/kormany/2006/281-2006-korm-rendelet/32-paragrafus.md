@@ -20,18 +20,19 @@ e) a termékek/szolgáltatások teljesítésének a támogatási szerződéssel 
 
 f) a nyilvánosságra és tájékoztatásra vonatkozó közösségi szabályok betartását,
 
-g) a közbeszerzésekre vonatkozó közösségi és nemzeti szabályok betartását a VII. fejezetben foglaltak szerint,
+g)[^108] a közbeszerzésekre vonatkozóan a dokumentumok alapján nem ellenőrizhető szabályok betartását, így különösen a benyújtott dokumentumok eredeti dokumentumokkal való összhangját, a benyújtott dokumentumok valódiságát, a dokumentumok megőrzésére vonatkozó szabályokat,
 
 h) az állami támogatás, a környezetvédelem, az esélyegyenlőség és a fenntartható fejlődés követelményeinek betartását,
 
-i)[^108] a projekt szintű elkülönített számviteli nyilvántartás vezetését.
+i)[^109] a projekt szintű elkülönített számviteli nyilvántartás vezetését.
 
 (6) A helyszíni ellenőrzések keretében a kifizetési igénylésben szereplő költségek elszámolhatóságának megállapításához ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítő(k)ben feltüntetett, de másolatban be nem nyújtott számlákat is, a számlákhoz kapcsolódó szerződéseket, és az azokhoz a kapcsolódó teljesítésigazolásokat, valamint a számlák mellé be nem nyújtott kifizetést igazoló egyéb dokumentumokat.
 
 (7) A folyamatba épített ellenőrzéseket megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-(8)[^109] A Magyar Államkincstár, az irányító hatóság vagy az irányító hatóság által megbízott szerv az általa végzett helyszíni ellenőrzésekről készített jegyzőkönyvet a tárgyhónapot követő hónap 20. napjáig megküldi az Igazoló Hatóság részére.
+(8)[^110] A Magyar Államkincstár, az irányító hatóság vagy az irányító hatóság által megbízott szerv az általa végzett helyszíni ellenőrzésekről készített jegyzőkönyvet a tárgyhónapot követő hónap 20. napjáig megküldi az Igazoló Hatóság részére.
 
 [^107]: A 32. § a 359/2008. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 34. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^108]: A 32. § (5) bekezdésének i) pontját a 179/2009. (IX. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^109]: A 32. § (8) bekezdését a 181/2010. (V. 13.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^108]: A 32. § (5) bekezdés g) pontja a 181/2010. (V. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^109]: A 32. § (5) bekezdésének i) pontját a 179/2009. (IX. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^110]: A 32. § (8) bekezdését a 181/2010. (V. 13.) Korm. rendelet 16. § (2) bekezdése iktatta be.

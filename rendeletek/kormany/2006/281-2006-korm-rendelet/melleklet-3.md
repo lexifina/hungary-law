@@ -16,6 +16,6 @@
 
 | számvitelért felelős vezető | a szervezet felelős vezetője |
 
-3–4. számú melléklet a 281/2006. (XII. 23.) Korm. rendelethez[^176]
+3–4. számú melléklet a 281/2006. (XII. 23.) Korm. rendelethez[^179]
 
-[^176]: A 3–4. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 223. pontja hatályon kívül helyezte.
+[^179]: A 3–4. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 223. pontja hatályon kívül helyezte.

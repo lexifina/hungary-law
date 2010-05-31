@@ -1,4 +1,4 @@
-## 44/A. §[^126] A 43–44. § szerinti jelentések elküldése elektronikus úton, az IMS rendszeren keresztül történik.
+## 44/A. §[^127] A 43–44. § szerinti jelentések elküldése elektronikus úton, az IMS rendszeren keresztül történik.
 
 ## IX. Fejezet
 
@@ -14,7 +14,7 @@
 
 (4) A Nemzeti Fejlesztési Ügynökség belső ellenőrzési egysége, valamint a közreműködő szervezetek belső ellenőrzési részlegei az általuk az európai uniós támogatások vonatkozásában lefolytatott belső ellenőrzések lezárt ellenőrzési jelentéseit haladéktalanul megküldik az Igazoló Hatóság részére.
 
-(5)[^127]
+(5)[^128]
 
-[^126]: A 44/A. §-t a 181/2010. (V. 13.) Korm. rendelet 20. §-a iktatta be.
-[^127]: A 45. § (5) bekezdését a 202/2008. (VIII. 14.) Korm. rendelet 6. § (5) bekezdése iktatta be, hatályon kívül helyezte a 359/2008. (XII. 31.) Korm. rendelet 34. § (8) bekezdése.
+[^127]: A 44/A. §-t a 181/2010. (V. 13.) Korm. rendelet 20. §-a iktatta be.
+[^128]: A 45. § (5) bekezdését a 202/2008. (VIII. 14.) Korm. rendelet 6. § (5) bekezdése iktatta be, hatályon kívül helyezte a 359/2008. (XII. 31.) Korm. rendelet 34. § (8) bekezdése.
