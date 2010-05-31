@@ -82,21 +82,21 @@ AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI
 
 ÉS KIMENETI KÖVETELMÉNYEI
 
-I.[^6] AGRÁR KÉPZÉSI TERÜLET
+I.[^9] AGRÁR KÉPZÉSI TERÜLET
 
 1. FÖLDMÉRŐ ÉS FÖLDRENDEZŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: földmérő és földrendező mérnöki
+1.[^10] Az alapképzési szak megnevezése: földmérő és földrendező mérnöki (Land Surveying and Land Management Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^11] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: földmérő és földrendező mérnök (megjelölve a szakirányt)
 
-– választható szakirányok: geoinformatika, földrendező, ingatlankataszteri, öntözési és meliorációs
-
 – a szakképzettség angol nyelvű megjelölése: Land Surveying and Land Management Engineer
+
+– választható szakirányok: geoinformatika, földrendező, ingatlankataszteri, öntözési és meliorációs, ingatlan nyilvántartási (Geoinformatics, Land Management, Land Cadastre, Irrigation and Melioration, Land Register)
 
 3. Képzési terület: agrár
 
@@ -164,45 +164,45 @@ Az alapfokozat birtokában a földmérő és földrendező mérnökök – a vá
 
 Rendelkeznek a szakmai, szakma közi együttműködés és kommunikáció képességével, az alkalmazók igényei felmérésének képességével, idegen-nyelvtudással, felelősségtudattal.
 
-8. A törzsanyag (a szakképzettség szempontjából meghatározó ismeretkörök):
+8.[^12] A törzsanyag (a szakképzettség szempontjából meghatározó ismeretkörök):
 
-– természettudományos és mérnöki alapismeretek: 30–55 kredit
+- természettudományos és mérnöki alapismeretek: 30-55 kredit
 
 természettudományos, informatikai, műszaki, környezettudományi ismeretek;
 
-– gazdasági és humán általános ismeretek: 15–20 kredit
+- gazdasági és humán általános ismeretek: 15-20 kredit
 
 közgazdaságtani (menedzsment), jogi alapismeretek, társadalomtudományi ismeretek (kommunikáció, szociológia), EU agrárpolitika, minőségbiztosítás;
 
-– szakmai törzsanyag: 45–75 kredit
+- szakmai törzsanyag: 45-75 kredit
 
 informatikai ismeretek (térinformatika, rendszerszervezés, tervezés), általános műszaki ismeretek (építőmérnöki ismeretek, vízrendezési és meliorációs ismeretek), mérési technológiák (földmérési ismeretek, térképi ismeretek, adatgyűjtés módszerei, térképkészítési technológiák, fotogrammetria és távérzékelés, topográfia, országos felmérés);
 
-– differenciált szakmai ismeretek: 30–60 kredit
+- differenciált szakmai ismeretek: 30-60 kredit
 
-geoinformatika, földrendező, ingatlankataszteri, öntözési és meliorációs szakirányokhoz tartozó speciális ismeretkörök.
+geoinformatika, földrendező, ingatlankataszteri, öntözési és meliorációs, ingatlan nyilvántartási szakirányokhoz tartozó speciális ismeretkörök.
 
-9. Szakmai gyakorlat:
+9.[^13] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^14] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 2. MEZŐGAZDASÁGI ÉS ÉLELMISZERIPARI GÉPÉSZMÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: mezőgazdasági és élelmiszeripari gépészmérnöki
+1.[^15] Az alapképzési szak megnevezése: mezőgazdasági és élelmiszeripari gépészmérnöki (Mechanical Engineering in the Agriculture and Food Industry)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^16] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
+– végzettségi szint: (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: mezőgazdasági és élelmiszeripari gépészmérnök (megjelölve a szakirányt)
 
-– választható szakirányok: élelmiszeripari gépész, mezőgazdasági termeléstechnológia, környezettechnika, erőgépek, településüzemeltető, gépüzemfenntartó, környezet-(agrár-) informatika
+– a szakképzettség angol nyelvű megjelölése: Mechanical Engineer in the Agriculture and Food Industry
 
-– a szakképzettség angol nyelvű megjelölése: Mechanical Engineer in Agriculture and Food Industry
+– választható szakirányok: élelmiszeripari gépész, mezőgazdasági termeléstechnológia, környezettechnika, erőgépek, településüzemeltető, gépüzemfenntartó, környezet-(agrár)informatika (Food Industry Engineering, Agricultural Production Technology, Environmental Technology, Agricultural Machinery, Urban Management, Machine Stock Maintenance, Environmental (Agricultural) Informatics)
 
 3. Képzési terület: agrár
 
@@ -272,27 +272,27 @@ mezőgazdasági ismeretek, anyagismeret, hő- és áramlástan, gépelemek, elek
 
 élelmiszeripari gépész, mezőgazdasági termeléstechnológia, környezettechnika, erőgépek, településüzemeltető, gépüzemfenntartó, környezet-(agrár-) informatika szakirányokhoz tartozó speciális ismeretkörök.
 
-9. Szakmai gyakorlat:
+9.[^17] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^18] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 3. TÁJRENDEZŐ ÉS KERTÉPÍTŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: tájrendező és kertépítő mérnöki
+1.[^19] Az alapképzési szak megnevezése: tájrendező és kertépítő mérnöki (Landscape Management and Garden Construction Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^20] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: tájrendező-kertépítő mérnök (megjelölve a szakirányt)
 
-– választható szakirányok: kertépítő, tájrendező, településüzemeltető
+– a szakképzettség angol nyelvű megjelölése: Garden and Landscape Architect
 
-– a szakképzettség angol nyelvű megjelölése: Garden and Landscape Architect, specializations: garden architect, landscape architect, urban operator
+– választható szakirányok: kertépítő, tájrendező, településüzemeltető (Garden Construction, Landscape Design and Management, Urban Management)
 
 3. Képzési terület: agrár
 
@@ -358,105 +358,21 @@ mérnöki alapismeretek, táj-, település és kertépítészet történet, ép
 
 kertépítő, tájrendező, településüzemeltető szakirányokhoz tartozó speciális ismeretkörök.
 
-9. Szakmai gyakorlat:
+9.[^21] Szakmai gyakorlat:
 
 A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^22] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-4. ERDŐMÉRNÖKI ALAPKÉPZÉSI SZAK
-
-1. Az alapképzési szak megnevezése: erdőmérnöki
-
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
-
-– szakképzettség: erdőmérnök
-
-– a szakképzettség angol nyelvű megjelölése: Forestry Engineer
-
-3. Képzési terület: agrár
-
-4. Képzési ág: erdőmérnöki
-
-5. A képzési idő félévekben: 7 félév
-
-6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 + 30 kredit
-
-6.1. A képzési ágon belüli közös képzési szakasz minimális kreditérték: –
-
-6.2. A szabadon választható tantárgyakhoz rendelhető minimális kreditek: 10 kredit
-
-6.3. A szakdolgozathoz rendelt kreditérték: 15 kredit
-
-6.4. A gyakorlati ismeretekhez rendelhető minimális kreditérték: 88 kredit, amelyből az összefüggő szakmai gyakorlat kreditértéke: 30 kredit
-
-7. Az alapképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
-
-A képzés célja olyan erdőmérnökök képzése, akik az erdőgazdálkodáshoz szükséges természettudományi, műszaki és gazdasági ismeretekkel rendelkeznek. Az erdészet fatermesztési, fahasználati, gazdálkodási, valamint vadgazdálkodási területén alapos jártassággal rendelkeznek, ismereteiket a gyakorlatban alkotó módon tudják alkalmazni, továbbá kellő mélységű elméleti ismeretekkel rendelkeznek a képzés második ciklusban történő folytatásához.
-
-Az alapfokozat birtokában az erdőmérnökök képesek:
-
-– biológiai, műszaki és ökológiai ismereteik alapján az erdő szakszerű, a gazdasági, védelmi és közjóléti funkciót együttesen fenntartó kezelésére;
-
-– az erdei ökoszisztéma biotópja és biocönózisa kapcsolatrendszerének és az abban lejátszódó folyamatok felismerésére;
-
-– a természetes erdőfejlődés folyamatába történő emberi beavatkozás hatásának megítélésére;
-
-– az erdőben károsító szervezetek felismerésére és az ellenük való hatékony védekezésre;
-
-– az erdészeti tevékenység bioökológiai, technikai és ökonómiai összefüggéseinek felismerésére;
-
-– az erdőgazdálkodással szemben támasztott társadalmi, gazdasági igények közvetítésére;
-
-– a környezet és természetvédelem összefüggéseinek alkalmazására;
-
-– szakmai problémák megfogalmazására, elemzésére és azok értékelésére.
-
-Rendelkeznek megfelelő kommunikációs készséggel, idegen-nyelvtudással.
-
-Az alapfokozat birtokában az erdőmérnökök – a várható szakirányokat is figyelembe véve – alkalmasak:
-
-– termelésirányító, erdőművelési és fahasználati műszaki vezetői teendők ellátására, erdőgazdálkodó szervezeteknél;
-
-– mérnöki feladatok ellátására az erdészetet irányító, ellenőrző és felügyelő hatóságoknál;
-
-– szaktanácsadói feladatok ellátására;
-
-– erdőgazdálkodási vállalkozásokban erdőművelési és fahasználati tevékenység szervezésére és irányítására;
-
-– felsőfokú vadgazdálkodási végzettséghez kötött munkakörök ellátására.
-
-8. A törzsanyag (a szakképzettség szempontjából meghatározó ismeretkörök):
-
-– természettudományos és mérnöki alapismeretek: 46–61 kredit
-
-matematika, fizika, mechanika, kémia, növénytan, ökológia, földtan, általános géptan, geodézia;
-
-– gazdasági és humán ismeretek: 6–9 kredit
-
-közgazdaságtan, számvitel és pénzgazdálkodástan, jogi ismeretek, EU agrárpolitika;
-
-– szakmai törzsanyag: 91–135 kredit
-
-erdészeti termőhely-ismerettan, erdőművelési, erdővédelmi, erdészeti növénykórtani, erdészeti állattani, erdészeti rovartani, vadászati és vadgazdálkodási, erdőhasználati, erdészeti géptani, erdőrendezési, dendrometriai, faterméstani, erdészeti üzemgazdasági, erdészeti szervezési és vezetési ismeretek, differenciált szakmai ismeretek.
-
-9. Szakmai gyakorlat:
-
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
-
-10. Nyelvi követelmények:
-
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+4.[^23] ERDŐMÉRNÖKI ALAPKÉPZÉSI SZAK
 
 5. GAZDASÁGI ÉS VIDÉKFEJLESZTÉSI AGRÁRMÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: gazdasági és vidékfejlesztési agrármérnöki
+1.[^24] Az alapképzési szak megnevezése: gazdasági és vidékfejlesztési agrármérnöki (Agrobusiness and Rural Development Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^25] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -534,27 +450,27 @@ gazdaságmatematika, informatika, közgazdaságtan, statisztika, gazdasági jog,
 
 agrárismeretek (növénytermesztés, kertészet, állattenyésztés); agrárgazdasági és vállalkozási ismeretek (agrárpolitika és környezetpolitika, szaktanácsadás, pénzügy és számvitel, mezőgazdasági üzemtan, emberi erőforrás gazdálkodás, marketing); regionális és vidékfejlesztési ismeretek (regionális gazdaságtan, vidékfejlesztés, területi és projekttervezési ismeretek); differenciált (agrárgazdasági, vállalatgazdálkodási és -szervezési, regionális és vidékfejlesztési) szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^26] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
 
-10. Nyelvi követelmények:
+10.[^27] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 6. INFORMATIKUS ÉS SZAKIGAZGATÁSI AGRÁRMÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: informatikus és szakigazgatási agrármérnöki
+1.[^28] Az alapképzési szak megnevezése: informatikus és szakigazgatási agrármérnöki (Agricultural Information Technology and Policy Administration Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^29] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: szakigazgatási agrármérnök (megjelölve a szakirányt)
 
-– választható szakirányok: informatika, szakigazgatási
+– a szakképzettség angol nyelvű megjelölése: Agricultural Engineer
 
-– a szakképzettség angol nyelvű megjelölése: Agricultural Computing and Public Administration Manager
+– választható szakirányok: informatika, szakigazgatási (Information Technology, Policy Administration)
 
 3. Képzési terület: agrár
 
@@ -630,19 +546,19 @@ a) informatika szakirányhoz tartozó speciális ismeretek: ágazati agrárinfor
 
 b) szakigazgatási szakirányhoz tartozó speciális ismeretek: szakigazgatási irányítási-szervezési ismeretek (pl. erdészet, kertészet, borászat), földhasználat, növény-egészségügy, vezetési és szervezési ismeretek, EU regionális politikái, ágazati információs rendszerek, minőségbiztosítási menedzsment ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^30] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
 
-10. Nyelvi követelmények:
+10.[^31] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 7. ÉLELMISZERMÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: élelmiszermérnöki
+1.[^32] Az alapképzési szak megnevezése: élelmiszermérnöki (Food Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^33] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -718,19 +634,19 @@ természettudományos alapismeretek (matematika, biometria, alkalmazott informat
 
 élelmiszerkémia, fizikai kémia, élelmiszeranalitika, élelmiszer mikrobiológia és higiénia, élelmiszeripari alapműveletek, mérés és automatizálás, élelmiszeripari alapgépek, munkavédelem, élelmiszertechnológia, élelmiszerbiztonság, élelmiszeripari minőségirányítás, élelmiszeripari gazdaságtan, vezetési-szervezési alapismeretek, élelmiszertermelés és -forgalmazás jogi szabályozása; differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^34] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^35] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 8. KERTÉSZMÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: kertészmérnöki
+1.[^36] Az alapképzési szak megnevezése: kertészmérnöki (Horticultural Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^37] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -806,27 +722,27 @@ dísznövény termesztési, dendrológiai, gyümölcstermesztési, faiskolai ter
 
 a kertészeti ágazatokhoz (dísznövénytermesztés, faiskolai termesztés, gyógynövénytermesztés, gyümölcstermesztés, szőlészet, zöldségtermesztés), illetve egyéb (ökológiai gazdálkodás, kertészeti termékmenedzsment, kertészeti biotechnológia, zöldfelület-gazdálkodás, kertészeti gépüzemeltetés és kertészeti vállalkozásfejlesztés) szakirányokhoz tartozó speciális ismeretkörök.
 
-9. Szakmai gyakorlat:
+9.[^38] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények
+10.[^39] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 9. KÖRNYEZETGAZDÁLKODÁSI AGRÁRMÉRNÖKI
 
 ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: környezetgazdálkodási agrármérnöki
+1.[^40] Az alapképzési szak megnevezése: környezetgazdálkodási agrármérnöki (Agricultural Engineering in Environmental Management)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^41] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: környezetgazdálkodási agrármérnök
 
-– a szakképzettség angol nyelvű megjelölése: Agricultural Environmental Management Engineer
+– a szakképzettség angol nyelvű megjelölése: Agricultural Engineer in Environmental Management
 
 3. Képzési terület: agrár
 
@@ -892,27 +808,27 @@ makro- és mikroökonómia, marketing, számvitel és pénzügy, kommunikáció,
 
 agrár-környezetgazdálkodási ismeretek (környezetgazdálkodás, vízgazdálkodás, környezettechnika, erdő- és vadgazdálkodás, tájökológia, környezeti jog, EU agrárpolitika, földhasználat); környezet- és természetvédelmi ismeretek (környezeti elemek védelme, környezetállapot-felmérés, természetvédelem, környezetfizika, tájvédelem); környezetfejlesztési ismeretek (környezetgazdaságtan, térinformatika, területi tervezés, környezetpolitika); differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^42] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
 
-10. Nyelvi követelmények:
+10.[^43] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 10. TERMÉSZETVÉDELMI MÉRNÖKI
 
 ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: természetvédelmi mérnöki
+1.[^44] Az alapképzési szak megnevezése: természetvédelmi mérnöki (Nature Conservation Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^45] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: természetvédelmi mérnök
 
-– a szakképzettség angol nyelvű megjelölése: Nature Protection Engineer
+– a szakképzettség angol nyelvű megjelölése: Nature Conservation Engineer
 
 3. Képzési terület: agrár
 
@@ -972,19 +888,19 @@ természetvédelmi és egyéb alapismeretek: természetvédelmi állattan és n�
 
 természetvédelmi jogi és szakigazgatási ismeretek; erdő- és mezőgazdálkodás, vadgazdálkodás és halgazdálkodás védett területeken; vizes élőhelyek kezelése, terepi vizsgálati módszerek, növényvédelem, gomba- és állatvédelem, élőhelyvédelem; őshonos háziállatok tenyésztése; növény-, gomba- és állatkereskedelem; dendrológia; etológiai alapismeretek; védett területek ökonómiája; ökoturizmus; differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^46] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
 
-10. Nyelvi követelmények:
+10.[^47] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 11. VADGAZDA MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: vadgazda mérnöki
+1.[^48] Az alapképzési szak megnevezése: vadgazda mérnöki (Wildlife Management Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^49] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -1052,25 +968,25 @@ vadgazdálkodási és egyéb alapismeretek: erdészeti, állattenyésztési, nö
 
 vadászatszervezés és vadászati etika, vadbiológiai ismeretek, vadföldgazdálkodás és vadtakarmányozás, zárttéri vadgazdálkodás, állományhasznosítás, vadkárelhárítás és -becslés, vadgazdálkodás tervezése, élőhelykezelés és élőhelyfejlesztés, vadegészségügy, vadászebek és vadászati hasznosításuk, fegyver- és lőszerismeret, biztonságtechnika és munkavédelem, trófeakezelés és -bírálat, dermoplasztika; differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^50] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból, amely külső gyakorlati helyen – az intézmény és a gazdálkodó szervezet közötti együttműködési megállapodás alapján – is megszervezhető.
 
-10. Nyelvi követelmények:
+10.[^51] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 12. ÁLLATTENYÉSZTŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: állattenyésztő mérnöki
+1.[^52] Az alapképzési szak megnevezése: állattenyésztő mérnöki (Animal Husbandry Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^53] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: állattenyésztő mérnök
 
-– a szakképzettség angol nyelvű megjelölése: Animal Production Engineer
+– a szakképzettség angol nyelvű megjelölése: Animal Husbandry Engineer
 
 3. Képzési terület: agrár
 
@@ -1146,19 +1062,19 @@ közgazdaságtan, EU-agrárpolitika, jogi és társadalomtudományi alapismerete
 
 növénytudományi (takarmánynövény termesztéstan, gyepgazdálkodás), állattudományi (takarmányozástan, állattenyésztéstan), állategészségügyi (állategészségtan, állathigiénia, szaporodásbiológia), gazdasági- és szervezéstudományi (állattenyésztési ágazatok ökonómiája, vezetési ismeretek és munkaszervezés, számvitel és pénzügyi ismeretek, környezetgazdálkodás), élelmiszertudományi (állati termékek feldolgozása, állattenyésztési termékmarketing), műszaki tudományi (állattenyésztés gépei) ismeretek; differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^54] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^55] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 13. MEZŐGAZDASÁGI MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: mezőgazdasági mérnöki
+1.[^56] Az alapképzési szak megnevezése: mezőgazdasági mérnöki (Agricultural Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^57] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -1172,7 +1088,7 @@ Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert k
 
 5. A képzési idő félévekben: 7 félév
 
-6.[^7] Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180+30 kredit
+6.[^58] Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180+30 kredit
 
 6.1. A képzési ágon belüli közös képzési szakasz minimális kreditértéke: 30 kredit
 
@@ -1230,19 +1146,19 @@ közgazdaságtan, jogi és társadalomtudományi, nemzetközi mezőgazdaságtani
 
 növénytudományi (földművelés és földhasználat, növénytermesztés, gyepgazdálkodás, növényvédelem, vetőmagtermesztés, kertészet), állattudományi (állattenyésztés, takarmányozás, állategészségtan és higiénia), gazdasági és humán (humán menedzsment, agrárgazdaságtan, marketing, számviteli és pénzügyi ismeretek, vállalati gazdaságtan, üzemszervezés) ismeretek, környezeti és minőségbiztosítási (környezetgazdálkodás, erdő- és vadgazdálkodás, minőségbiztosítás) ismeretek; differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^59] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^60] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 14. MEZŐGAZDASÁGI SZAKOKTATÓ ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: mezőgazdasági szakoktató
+1.[^61] Az alapképzési szak megnevezése: mezőgazdasági szakoktató (Agriculture Instruction)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^62] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -1258,19 +1174,19 @@ d) mezőgazdasági szakoktató erdészeti szakirányon
 
 e) mezőgazdasági szakoktató mezőgazdasági gépészeti szakirányon
 
-– választható szakirányok: a szakképzés szakmacsoportjai szerint – mezőgazdasági, élelmiszeripari, kertészeti, erdészeti, mezőgazdasági gépészeti.
-
 – a szakképzettség angol nyelvű megjelölése:
 
-a) Vocational Agricultural Instructor Specialized in Agriculture
+a) Agricultural Instructor Specialized in Agriculture
 
-b) Vocational Agricultural Instructor Specialized in Food Industry
+b) Agricultural Instructor Specialized in Food Industry
 
-c) Vocational Agricultural Instructor Specialized in Horticulture
+c) Agricultural Instructor Specialized in Horticulture
 
-d) Vocational Agricultural Instructor Specialized in Forestry
+d) Agricultural Instructor Specialized in Forestry
 
-e) Vocational Agricultural Instructor Specialized in Agricultural Mechanical Engineering
+e) Agricultural Instructor Specialized in Agricultural Mechanical Engineering
+
+– választható szakirányok – a szakképzés szakmacsoportjai szerint: mezőgazdasági, élelmiszeripari, kertészeti, erdészeti, mezőgazdasági gépészeti (Agriculture, Food Industry Horticulture, Forestry, Agricultural Machinery)
 
 3. Képzési terület: agrár
 
@@ -1352,25 +1268,25 @@ pedagógiai ismeretek (pszichológia és személyiségfejlesztés, neveléstan �
 
 mezőgazdasági, élelmiszeripari, kertészeti, erdészeti, mezőgazdasági gépészeti szakirányokhoz tartozó, valamint az adott szakképzési terület gyakorlati tárgyainak oktatására irányuló speciális elméleti és gyakorlati ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^63] Szakmai gyakorlat:
 
-A szakmai gyakorlat szakirány szerinti szakmai gyakorlatból és pedagógiai gyakorlatból áll. Az intézményen kívül – a választott szakiránynak megfelelő szakterületen – teljesítendő összefüggő szakmai gyakorlat időtartama legalább 12 hét, amelyhez további 30 kredit rendelhető; az összefüggő iskolai, pedagógiai gyakorlat legalább 12 kredit
+A szakmai gyakorlat szakirány szerinti szakmai gyakorlatból és pedagógiai gyakorlatból áll. Az intézményen kívül – a választott szakiránynak megfelelő szakterületen – teljesítendő szakmai gyakorlat időtartama legalább 12 hét, amelyhez további 30 kredit rendelhető; az iskolai, pedagógiai gyakorlat legalább 12 kredit.
 
-10. Nyelvi követelmények:
+10.[^64] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 15. NÖVÉNYTERMESZTŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: növénytermesztő mérnöki
+1.[^65] Az alapképzési szak megnevezése: növénytermesztő mérnöki (Crop Production Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^66] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: növénytermesztő mérnök
 
-– a szakképzettség angol nyelvű megjelölése: Plant Production Engineer
+– a szakképzettség angol nyelvű megjelölése: Crop Production Engineer
 
 3. Képzési terület: agrár
 
@@ -1436,25 +1352,25 @@ közgazdaságtudományi, jogi, társadalomtudományi ismeretek (számvitel és p
 
 termesztéstechnológiai (földműveléstan, földhasználat és tájgazdálkodás, vízgazdálkodás és melioráció, mezőgazdasági géptan), növénytudományi (növényélettan, növénynemesítés és növényi biotechnológia, növénytermesztéstan, növényvédelem, vetőmagtermesztés és forgalmazás, gyepgazdálkodás, fenntartható és ökológiai gazdálkodás, kertészet), állattudományi (állattenyésztés, takarmányozás), minőségbiztosítási (minőségbiztosítás a növénytermesztésben, termékfeldolgozás és élelmiszerbiztonság), gazdasági és szervezéstudományi modulok (növénytermesztés ökonómiája), differenciált szakmai ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^67] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább 3 hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritérium feltétel, valamint egy félévig tartó szakmai gyakorlatból.
 
-10. Nyelvi követelmények:
+10.[^68] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 16. SZŐLÉSZ-BORÁSZ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: szőlész-borász mérnöki
+1.[^69] Az alapképzési szak megnevezése: szőlész-borász mérnöki (Viticulture and Oenology Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és szakképzettség oklevélben szereplő megjelölése:
+2.[^70] Az alapképzési szakon szerezhető végzettségi szint és szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: szőlész-borász mérnök
 
-– a szakképzettség angol nyelvű megjelölése: Engineer of Viticulture and Enology
+– a szakképzettség angol nyelvű megjelölése: Engineer of Viticulture and Oenology
 
 3. Képzési terület: agrár
 
@@ -1542,31 +1458,31 @@ természettudományi és mérnöki alapismeretek: matematika, biometria, fizika,
 
 a szőlőtermesztés és borászat története, a szőlőtermesztés biológiai és ökológiai alapjai, termőhelyismeret, a szőlőtermesztés rendeleti szabályozása, eredetvédelem; szőlőtermesztés-technológiai ismeretek, művelési irányzatok (hagyományos, organikus, biodinamikus, integrált); a szőlőtermesztés gépesítése, szőlő kártevők és betegségek, a szőlő növényvédelme; szőlőfajtaismeret és -használat, nemesítés, biotechnológia; szőlőszaporítás; borászati technológia, minőségszabályozás, organoleptikus értékelés, kóstolástechnika.
 
-9. Szakmai gyakorlat:
+9.[^71] Szakmai gyakorlat:
 
-A szakmai gyakorlat két részből tevődik össze: egyrészt egy legalább 3 hetes időtartamú, a szak kiemelt tárgyköreit (szőlészet, borászat) szorgalmi időszakban lezáró szakmai gyakorlatból, amelynek teljesítése kritériumfeltétel, továbbá egy fél évig tartó összefüggő szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: egyrészt egy legalább 3 hetes időtartamú, a szak kiemelt tárgyköreit (szőlészet, borászat) szorgalmi időszakban lezáró szakmai gyakorlatból, amelynek teljesítése kritériumfeltétel, továbbá egy fél évig tartó szakmai gyakorlatból.
 
-10. Idegennyelv-ismeret követelményei:
+10.[^72] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy államilag elismert, középfokú (B2) komplex típusú nyelvvizsga, vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges az Európai Unió valamely hivatalos idegen nyelvéből, amely nyelven az adott szakmának tudományos irodalma van.
+Az alapfokozat megszerzéséhez az Európai Unió legalább egy hivatalos idegen nyelvéből, amely nyelven az adott szakmának tudományos szakirodalma van, államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-II.[^8] BÖLCSÉSZETTUDOMÁNY
+II.[^73] BÖLCSÉSZETTUDOMÁNY
 
 KÉPZÉSI TERÜLET
 
 1. MAGYAR ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: magyar
+1.[^74] Az alapképzési szak megnevezése: magyar (Hungarian)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^75] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA)
 
 – szakképzettség: magyar alapszakos bölcsész (zárójelben megjelölve a szakirányt)
 
-– választható szakirányok: drámapedagógia, eszperantó, észt, finn, finnugor, folklorisztika, irodalomtudomány, művelődéstudomány, nyelvmentor, nyelvtechnológia, színháztörténet, ügyvitel, neolatin
+– a szakképzettség angol nyelvű megjelölése: Expert in Hungarian
 
-– a szakképzettség angol nyelvű megjelölése: Philologist in Hungarian Studies
+– választható szakirányok: drámapedagógia, eszperantó, észt, finn, finnugor, folklorisztika, irodalomtudomány, művelődéstudomány, nyelvmentor, nyelvtechnológia, színháztörténet, ügyvitel, neolatin (Drama Pedagogy, Esperanto, Estonian, Finnish, Finno-Ugric Languages, Folklore, Literary Studies, Culture Studies, Language Mentor, Language Technology, History of Theatre, Administration, Neo-Latin Studies)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -1648,39 +1564,31 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^76] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 2. TÖRTÉNELEM ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: történelem
+1.[^77] Az alapképzési szak megnevezése: történelem (History)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^78] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettségek:
 
-a) történelem alapszakos bölcsész
+a) történelem alapszakos bölcsész (muzeológia vagy levéltár szakirány választása esetén megjelölve az adott szakirányt)
 
 b) történelem, régészet alapszakos bölcsész
 
-c) történelem alapszakos bölcsész (muzeológia szakirány)
-
-d) történelem alapszakos bölcsész (levéltár szakirány)
-
-– választható szakirányok: történelem, levéltár, muzeológia, régészet
-
 – a szakképzettség angol nyelvű megjelölése:
 
-a) Philologist in History Studies
+a) Philologist in History (muzeológia vagy levéltár szakirány választása esetén Specialized in Museology, Specialized in Archives)
 
-b) Philologist in History, Archeology
+b) Philologist in History, Archaeology
 
-c) Philologist in History, Specialized in Museology
-
-d) Philologist in History, Specialized in Archives
+– választható szakirányok: történelem, levéltár, muzeológia, régészet (History, Archives, Museology, Archaeology)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -1770,21 +1678,21 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 A szakmai gyakorlat magában foglalja a régészet szakirányon a terepmunkát (12 kredit), a levéltár szakirányon a levéltárakban folytatott gyakorlatot (6 kredit), a muzeológia szakirányon a múzeumi gyakorlatot (3 kredit).
 
-10. Nyelvi követelmények:
+10.[^79] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből vagy latin nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből vagy latin nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 3. NÉPRAJZ ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: néprajz
+1.[^80] Az alapképzési szak megnevezése: néprajz (Ethnography)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^81] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA),
 
 – szakképzettség: néprajz alapszakos bölcsész
 
-– a szakképzettség angol nyelvű megjelölése: Philologist in Ethnography
+– a szakképzettség angol nyelvű megjelölése: Ethnographer
 
 3. Képzési terület: bölcsészettudományi
 
@@ -1850,23 +1758,23 @@ A tanári mesterképzési szak választása esetén a szabadon választható st�
 
 A szakmai gyakorlat néprajzi gyűjtés hazai vagy határon túli terepeken, illetve hazai vagy külföldi néprajzi muzeológiai gyűjteményekben, illetve archívumokban.
 
-10. Nyelvi követelmények:
+10.[^82] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 4. ANGLISZTIKA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: anglisztika
+1.[^83] Az alapképzési szak megnevezése: anglisztika (English and American Studies)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^84] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA),
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: anglisztika alapszakos bölcsész (megjelölve a szakirányt)
 
-– választható szakirányok: angol, amerikanisztika
+– a szakképzettség angol nyelvű megjelölése: Philologist in English and American Studies
 
-– a szakképzettség angol nyelvű megjelölése: Philologist in English Studies
+– választható szakirányok: angol, amerikanisztika (English, American English)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -1942,17 +1850,17 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^85] Idegennyelvi követelmények:
 
 A záróvizsga letétele a nyelvvizsga-követelmények teljesítését igazolja.
 
 5. GERMANISZTIKA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: germanisztika
+1.[^86] Az alapképzési szak megnevezése: germanisztika (German Studies)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^87] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA),
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettségek:
 
@@ -1964,17 +1872,17 @@ c) germanisztika, néderlandisztika alapszakos bölcsész
 
 d) germanisztika, skandinavisztika alapszakos bölcsész
 
-– választható szakirányok: német/nemzetiségi, néderlandisztika, skandinavisztika
-
 – a szakképzettség angol nyelvű megjelölése:
 
-a) Philologist in German Studies, Specialized in German Studies
+a) Philologist in German Studies, Specialized in German
 
 b) Philologist in German Studies, Specialized in German as Ethnic Minority Studies
 
 c) Philologist in German Studies, Specialized in Netherlandistic Studies
 
 d) Philologist in German Studies, Specialized in Scandinavian Studies
+
+– választható szakirányok: német/nemzetiségi, néderlandisztika, skandinavisztika (German/German Ethnic Minority Studies, Dutch Studies, Scandinavian Studies)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -2052,15 +1960,15 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^88] Idegennyelvi követelmények:
 
 A záróvizsga letétele a nyelvvizsga-követelmények teljesítését igazolja.
 
 6. ROMANISZTIKA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: romanisztika
+1.[^89] Az alapképzési szak megnevezése: romanisztika (Romance Philology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^90] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -2078,8 +1986,6 @@ e) romanisztika, román nemzetiségi alapszakos bölcsész
 
 f) romanisztika, spanyol alapszakos bölcsész
 
-– választható szakirányok: francia, olasz, portugál, román/nemzetiségi, spanyol
-
 – a szakképzettség angol nyelvű megjelölése:
 
 a) Philologist in Romanistics, Specialized in French Studies
@@ -2093,6 +1999,8 @@ d) Philologist in Romanistics, Specialized in Romanian Studies
 e) Philologist in Romanistics, Specialized in Romanian as Ethnic Minority Studies
 
 f) Philologist in Romanistics, Specialized in Spanish Studies
+
+– választható szakirányok: francia, olasz, portugál, román/nemzetiségi, spanyol (French, Italian, Portuguese, Romanian, Ethnic Romanian Minority Studies, Spanish)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -2170,15 +2078,15 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^91] Idegennyelvi követelmények:
 
 A záróvizsga letétele a nyelvvizsga-követelmények teljesítését igazolja.
 
 7. ROMOLÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: romológia
+1.[^92] Az alapképzési szak megnevezése: romológia (Roma Studies)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^93] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -2254,15 +2162,15 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 Egy hónapos terepmunka nevelési-oktatási intézményben, államigazgatásban, önkormányzatoknál, cigány kisebbségi önkormányzatoknál, egyéb intézményekben és civil szervezetekben, valamint cigány közösségekben.
 
-10. Nyelvi követelmények:
+10.[^94] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez romani vagy beás nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez romani vagy beás nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 8. SZLAVISZTIKA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: szlavisztika
+1.[^95] Az alapképzési szak megnevezése: szlavisztika (Slavonic Studies)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^96] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA),
 
@@ -2296,37 +2204,37 @@ m) szlavisztika, ukrán alapszakos bölcsész
 
 n) szlavisztika, ukrán nemzetiségi alapszakos bölcsész
 
-– választható szakirányok: orosz, bolgár, cseh, lengyel, horvát/nemzetiségi, szerb/nemzetiségi, szlovák/nemzetiségi, szlovén/nemzetiségi, ukrán/nemzetiségi
-
 – a szakképzettség angol nyelvű megjelölése:
 
-a) Slavistics, Philologist in Russian Studies
+a) Slavonic Studies, Philologist in Russian Studies
 
-b) Slavistics, Philologist in Bulgarian Studies
+b) Slavonic Studies, Philologist in Bulgarian Studies
 
-c) Slavistics, Philologist in Czech Studies
+c) Slavonic Studies, Philologist in Czech Studies
 
-d) Slavistics, Philologist in Polish Studies
+d) Slavonic Studies, Philologist in Polish Studies
 
-e) Slavistics, Philologist in Croatian Studies
+e) Slavonic Studies, Philologist in Croatian Studies
 
-f) Slavistics, Philologist in Croatian as Ethnic Minority Studies
+f) Slavonic Studies, Philologist in Croatian as Ethnic Minority Studies
 
-g) Slavistics, Philologist in Serbian Studies
+g) Slavonic Studies, Philologist in Serbian Studies
 
-h) Slavistics, Philologist in Serbian as Ethnic Minority Studies
+h) Slavonic Studies, Philologist in Serbian as Ethnic Minority Studies
 
-i) Slavistics, Philologist in Slovakian Studies
+i) Slavonic Studies, Philologist in Slovakian Studies
 
-j) Slavistics, Philologist in Slovakian as Ethnic Minority Studies
+j) Slavonic Studies, Philologist in Slovakian as Ethnic Minority Studies
 
-k) Slavistics, Philologist in Slovanian Studies
+k) Slavonic Studies Slavistics, Philologist in Slovenian Studies
 
-l) Slavistics, Philologist in Slovanian as Ethnic Minority Studies
+l) Slavonic Studies, Philologist in Slovenian as Ethnic Minority Studies
 
-m) Slavistics, Philologist in Ukrainian Studies
+m) Slavonic Studies, Philologist in Ukrainian Studies
 
-n) Slavistics, Philologist in Ukrainian Studies
+n) Slavonic Studies, Philologist in Ukrainian as Ethnic Minority Studies
+
+– választható szakirányok: orosz, bolgár, cseh, lengyel, horvát/nemzetiségi, szerb/nemzetiségi, szlovák/nemzetiségi, szlovén/nemzetiségi, ukrán/nemzetiségi (Russian, Bulgarian, Czech, Polish, Croatian, Croatian Minority Studies, Serbian, Serbian Minority Studies, Slovakian, Slovakian Minority Studies, Slovenian, Slovenian Minority Studies, Ukranian, Ukrainian Minority Studies)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -2408,15 +2316,15 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 A szakmai gyakorlat magába foglalja a képzési idő alatt egy alkalommal a szakiránynak megfelelő nyelvterületi gyakorlatot.
 
-10. Nyelvi követelmények:
+10.[^97] Idegennyelvi követelmények:
 
 A záróvizsga letétele a nyelvvizsga-követelmények teljesítését igazolja.
 
 9. ÓKORI NYELVEK ÉS KULTÚRÁK ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: ókori nyelvek és kultúrák
+1.[^98] Az alapképzési szak megnevezése: ókori nyelvek és kultúrák (Ancient Languages and Cultures)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^99] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -2428,8 +2336,6 @@ b) ókori nyelvek és kultúrák alapszakos bölcsész, egyiptológia szakirány
 
 c) ókori nyelvek és kultúrák alapszakos bölcsész, klasszika-filológia szakirányon
 
-– választható szakirányok: assziriológia, egyiptológia, klasszika-filológia (latin, ógörög)
-
 – a szakképzettség angol nyelvű megjelölése:
 
 a) Philologist in Ancient Languages and Cultures (Assyriology)
@@ -2437,6 +2343,8 @@ a) Philologist in Ancient Languages and Cultures (Assyriology)
 b) Philologist in Ancient Languages and Cultures (Egyptology)
 
 c) Philologist in Ancient Languages and Cultures (Classic Philology)
+
+– választható szakirányok: assziriológia, egyiptológia, klasszika-filológia [latin, ógörög] (Assyriology, Egyptology, Classical Philology [Latin, Ancient Greek])
 
 3. Képzési terület: bölcsészettudományi
 
@@ -2530,15 +2438,15 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^100] Idegennyelvi követelmények:
 
-Az alapszakon az oklevél kiadásának feltétele egy államilag elismert középfokú C típusú nyelvvizsga letétele angol, német, francia, olasz, orosz vagy (a klasszika-filológia szakirányon) spanyol nyelvből vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél.
+Az alapfokozat megszerzéséhez angol, német, francia, olasz, orosz (a klasszika–filológia szakirányon spanyol is) nyelvekből legalább egy államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 10. KELETI NYELVEK ÉS KULTÚRÁK ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: keleti nyelvek és kultúrák
+1.[^101] Az alapképzési szak megnevezése: keleti nyelvek és kultúrák (Oriental Languages and Cultures)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^102] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -2568,8 +2476,6 @@ k) keleti nyelvek és kultúrák alapszakos bölcsész, török szakirányon
 
 l) keleti nyelvek és kultúrák alapszakos bölcsész, újgörög szakirányon
 
-– választható szakirányok: altajisztika, arab, hebraisztika, indológia, iranisztika, japán, kínai, koreai, mongol, tibeti, török, újgörög
-
 – a szakképzettség angol nyelvű megjelölése:
 
 a) Philologist in Eastern Languages and Cultures (Altaic Studies)
@@ -2594,7 +2500,9 @@ j) Philologist in Eastern Languages and Cultures (Tibetan Studies)
 
 k) Philologist in Eastern Languages and Cultures (Turkish Studies)
 
-l) Philologist in Eastern Languages and Cultures (new Greek Studies)
+l) Philologist in Eastern Languages and Cultures (Modern Greek Studies)
+
+– választható szakirányok: altajisztika, arab, hebraisztika, indológia, iranisztika, japán, kínai, koreai, mongol, tibeti, török, újgörög (Altaic Studies, Arabic Studies, Hebrew Studies, Indology Studies, Iranian Studies, Japanese Studies, Chinese Studies, Korean Studies, Mongolian Studies, Tibetan Studies, Turkish Studies, Modern Greek Studies)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -2616,27 +2524,29 @@ l) Philologist in Eastern Languages and Cultures (new Greek Studies)
 
 6.6. Intézményen kívüli összefüggő gyakorlati képzésben szerezhető minimális kreditérték: –
 
-7. Az alapképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
+7.[^103] Az alapképzési szak képzési célja, az elsajátítandó szakmai kompetenciák;
 
 A képzés célja olyan, gyakorlati ismeretekkel is rendelkező szakemberek képzése, akik átfogó ismeretekkel rendelkeznek az orientalisztika területén, betekintést nyerve az ókortudományba. Ismerik Ázsia és Észak-Afrika népeinek, országainak vagy (az újgörög szakirányon) az ókor utáni görögségnek a történetét, kultúráját. Áttekintésük van továbbá a szakiránynak megfelelő terület történetéről és művelődéstörténetéről. Ismerik az orientalisztikában és a szakirány területén érvényes ismeretszerzés általános módjait és a főbb kutatási módszereket. A végzettek kellő mélységű elméleti ismeretekkel rendelkeznek a képzés második ciklusban történő folytatásához.
 
 Az alapfokozat birtokában a keleti nyelvek és kultúrák alapszakon végzettek képesek:
 
-– egy keleti nyelv legalább középszintű, egy másik keleti vagy ókori nyelv alapfokú használatára;
+- egy keleti nyelv legalább középszintű, egy másik keleti vagy ókori nyelv alapfokú használatára;
 
-– az újgörög szakirányon a szakiránynak megfelelő nyelv középszintű használatára;
+- altaljisztika szakirányon a törökországi török nyelv középszintű és egy második választott török nyelv alapszintű használatára;
 
-– megszerzett ismereteik írásban és szóban magyarul történő hatékony kommunikálására;
+- az újgörög szakirányon a szakiránynak megfelelő nyelv középszintű, használatára;
 
-– a megszerzett információk, a megismert érvek és elemzések különböző nézőpontok szerinti bemutatására, átgondolására;
+- megszerzett ismereteik írásban és szóban magyarul történő hatékony kommunikálására;
+
+- a megszerzett információk, a megismert érvek és elemzések különböző nézőpontok szerinti bemutatására, átgondolására;
 
 alkalmasak:
 
-– a szakirányuknak megfelelő ismereteket igénylő munkakör ellátására;
+- a szakirányuknak megfelelő ismereteket igénylő munkakör ellátására;
 
-– a kulturális életben (pl. könyvtárak, múzeumok, könyvkiadók, médiák), továbbá a gazdasági életben (pl. idegenforgalom, turisztika, idegen nyelvű levelezés) közvetítői feladatok elvégzésére;
+- a kulturális életben (pl. könyvtárak, múzeumok, könyvkiadók, média), továbbá a gazdasági életben (pl. idegenforgalom, turisztika, idegen nyelvű levelezés) közvetítői feladatok elvégzésére;
 
-– a közigazgatásban megjelenő feladatok ellátására és igények kielégítésére, a szakirányoknak megfelelő idegen nyelven.
+- a közigazgatásban megjelenő feladatok ellátására és igények kielégítésére, a szakirányoknak megfelelő idegen nyelven.
 
 Rendelkeznek a választott szakirány nyelve és kultúrája iránti motivációval és elkötelezettséggel, valamint az idegen nyelvi ismereteken túl együttműködő és kommunikációs készséggel, továbbá meg vannak győződve a megismert kultúrákról szóló megalapozott ismeretek fontosságáról.
 
@@ -2750,25 +2660,23 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^104] Idegennyelvi követelmények:
 
-Az alapszakon az oklevél kiadásának feltétele egy államilag elismert középfokú C típusú nyelvvizsga letétele angol, német, francia, olasz, orosz vagy spanyol nyelvből vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél.
-
-Az újgörög szakirányon a sikeres záróvizsgát tett hallgatók az idegen nyelvi követelményeknek eleget tesznek.
+Az alapfokozat megszerzéséhez angol, német, francia, olasz, orosz, spanyol nyelvek valamelyikéből egy államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges. Az újgörög szakirányon a záróvizsga letétele a nyelvvizsga-követelmények teljesítését igazolja.
 
 11. ANDRAGÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: andragógia
+1.[^105] Az alapképzési szak megnevezése: andragógia (Andragogy)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^106] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: andragógus (megjelölve a szakirányt)
 
-– választható szakirányok: felnőttképzési szervező, munkavállalási tanácsadó, művelődésszervező, személyügyi szervező
+– a szakképzettség angol nyelvű megjelölése: Andragogue
 
-– a szakképzettség angol nyelvű megjelölése: Andragogist, Specialization in Adult Education Management, Employment Councelling, Cultural Management, Human Management
+– választható szakirányok: felnőttképzési szervező, munkavállalási tanácsadó, művelődésszervező, személyügyi szervező (Adult Education Management, Labour Counselling, Cultural Management, Human Resource Management)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -2980,15 +2888,15 @@ bd) személyügyi szervező szakirányon: munka-, vezetés- és szervezet-pszich
 
 A szakmai gyakorlat a felnőttképzést folytató intézményekben teljesített külső gyakorlatot, továbbá a választott szakiránynak megfelelő gyakorlatot foglalja magában, amelyeknek együttes kreditértéke legalább 15 kredit
 
-10. Nyelvi követelmények:
+10.[^107] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 12. PEDAGÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: pedagógia
+1.[^108] Az alapképzési szak megnevezése: pedagógia (Pedagogy)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^109] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -3082,21 +2990,21 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 A szakmai gyakorlat magában foglalja a közoktatás nevelő, valamint nevelő és oktató intézményeiben, a közoktatás pedagógiai szakszolgálatainak intézményeiben és a pedagógiai szakmai-szolgáltató, illetve szolgáltató intézményekben végzett szakmai gyakorlatot, valamint azon intézményekben (múzeumok, könyvtárak, gyűjtemények) végzett gyakorlatot, amelyekben a fejlesztő program közvetve kapcsolódik a pedagógiai munkához.
 
-10. Nyelvi követelmények:
+10.[^110] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 13. PSZICHOLÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: pszichológia
+1.[^111] Az alapképzési szak megnevezése: pszichológia (Psychology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^112] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: viselkedéselemző
 
-– a szakképzettség angol nyelvű megjelölése: Philologist in Human Behavior
+– a szakképzettség angol nyelvű megjelölése: Human Behaviour Analyst
 
 3. Képzési terület: bölcsészettudományi
 
@@ -3182,23 +3090,23 @@ A tanári mesterképzési szak választása esetén a szabadon választott stúd
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^113] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 14. SZABAD BÖLCSÉSZET ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: szabad bölcsészet
+1.[^114] Az alapképzési szak megnevezése: szabad bölcsészet (Liberal Arts)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^115] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: alapszakos szabad bölcsész (megjelölve a szakirányt)
 
-– választható szakirányok: filozófia; esztétika; etika; vallástudomány; filmelmélet és filmtörténet; kommunikáció és médiatudomány; művészettörténet; elméleti nyelvészet;
+– a szakképzettség angol nyelvű megjelölése: Philologist
 
-– a szakképzettség angol nyelvű megjelölése: Philologist with Specialization in Philosophy, Aesthetics, Ethics, Religious Studies, Film Theory and History, Communication and Media Sciences, Art History, Theoretical Linguistics
+– választható szakirányok: filozófia, esztétika, etika, vallástudomány, filmelmélet és filmtörténet, kommunikáció és médiatudomány, művészettörténet, elméleti nyelvészet, (Philosophy, Aesthetics, Ethics, Religious Studies, Film Theory and History, Communication and Media Science, Art History, Theoretical Linguistics)
 
 3. Képzési terület: bölcsészettudományi
 
@@ -3288,17 +3196,17 @@ A tanári mesterképzési szak választása esetén biztosítani kell:
 
 9. Szakmai gyakorlat: –
 
-10. Nyelvi követelmények:
+10.[^116] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, legalább középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 III. TÁRSADALOMTUDOMÁNY KÉPZÉSI TERÜLET
 
 1. NEMZETKÖZI TANULMÁNYOK ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: nemzetközi tanulmányok
+1.[^117] Az alapképzési szak megnevezése: nemzetközi tanulmányok (International Relations)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^118] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -3368,21 +3276,21 @@ európai integrációs modul (az európai integráció története, elmélete, e
 
 Az oklevél megszerzésének feltétele négy hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^119] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez legalább kettő középfokú C típusú államilag elismert nyelvvizsga szükséges, amelyből az egyik szaknyelvi, a másik általános nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél.
+Az alapfokozat megszerzéséhez legalább két idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 2. POLITOLÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: politológia
+1.[^120] Az alapképzési szak megnevezése: politológia (Political Science)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^121] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: politológus
 
-– a szakképzettség angol nyelvű megjelölése: Expert in Political Sciences
+– a szakképzettség angol nyelvű megjelölése: Political Scientist
 
 3. Képzési terület: társadalomtudományi
 
@@ -3454,15 +3362,15 @@ politikatudomány alapjai, egyetemes és magyar politikai gondolkodás történe
 
 Az oklevél megszerzésének feltétele négy hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^122] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 3. SZOCIÁLIS MUNKA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: szociális munka
+1.[^123] Az alapképzési szak megnevezése: szociális munka (Social Work)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^124] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -3548,21 +3456,21 @@ szociális munka elmélete, gyakorlata, munkaformái, módszerei, területei; t�
 
 A szakmai gyakorlat részét képezik: a kiscsoportos tantermi gyakorlatok, a terepgyakorlatok és a terepgyakorlatokhoz kapcsolódó kiscsoportos feldolgozó szemináriumok, amelyekért a képző intézmény felel. Az intenzív szakmai gyakorlat legalább egy féléven át végzett folyamatos, hetenként legalább 8 órás, terepen folyó gyakorlatot jelent, amelynek kreditértéke 30 kredit
 
-10. Nyelvi követelmények:
+10.[^125] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 4. SZOCIÁLPEDAGÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: szociálpedagógia
+1.[^126] Az alapképzési szak megnevezése: szociálpedagógia (Social Pedagogy)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^127] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: szociálpedagógus
 
-– a szakképzettség angol nyelvű megjelölése: Social Educator
+– a szakképzettség angol nyelvű megjelölése: Social Pedagogue
 
 3. Képzési terület: társadalomtudományi
 
@@ -3642,21 +3550,21 @@ a szociális munka elmélete, gyakorlata, munkaformái és módszerei; társadal
 
 A szakmai gyakorlat részét képezik: a kiscsoportos tantermi gyakorlatok, a terepgyakorlatok és a terepgyakorlatokhoz kapcsolódó kiscsoportos feldolgozó szemináriumok, amelyekért a képző intézmény felel. Az intenzív terepgyakorlat legalább egy féléven át végzett folyamatos gyakorlatot jelent, amelynek kreditértéke 30 kredit
 
-10. Nyelvi követelmények:
+10.[^128] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 5. INFORMATIKUS KÖNYVTÁROS ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: informatikus könyvtáros
+1.[^129] Az alapképzési szak megnevezése: informatikus könyvtáros (Library and Information Science)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^130] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
-– szakképzettség: informatikus könyvtáros (megjelölve a szakirányt)
+– szakképzettség: informatikus könyvtáros
 
-– a szakképzettség angol nyelvű megjelölése: Computer Librarian
+– a szakképzettség angol nyelvű megjelölése: Librarian and Information Scientist
 
 3. Képzési terület: társadalomtudományi
 
@@ -3716,7 +3624,7 @@ A szakon végzettek rendelkeznek együttműködési készséggel, minőségtudat
 
 kommunikációs készségfejlesztés, filozófia, szociológia, kutatásmódszertan, anyanyelvi képességfejlesztés, könyvtár- és információtudományi ismeretek, kommunikációelmélet alapjai, olvasásszociológia, -pedagógia, -pszichológia, informatikai alapismeretek, írás-, könyv-, sajtó- és könyvtártörténet;
 
-–[^9] szakmai törzsanyag: 95–105 kredit
+–[^131] szakmai törzsanyag: 95–105 kredit
 
 formai feltárás, dokumentumleírás, osztályozási rendszerek, információkereső nyelvek, tartalmi feltárás, írás-, könyv-, sajtó- és könyvtártörténet; könyvtártan, könyvtári menedzsment alapjai, tájékoztatás, információforrások, információelmélet, adatbázis-építés és -kezelés, könyvtárgépesítés, információs rendszerek, hálózati ismeretek; pedagógiai, pszichológiai modul; szakmai gyakorlat;
 
@@ -3728,21 +3636,21 @@ pl. elektronikus és digitális, EU információs, felsőoktatási könyvtári, 
 
 A szakmai gyakorlat könyvtárakban és információszolgáltató szervezetekben végzett gyakorlatot foglalja magában, kreditértéke 15 kredit
 
-10. Nyelvi követelmények:
+10.[^132] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 6. KOMMUNIKÁCIÓ ÉS MÉDIATUDOMÁNY ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: kommunikáció és médiatudomány
+1.[^133] Az alapképzési szak megnevezése: kommunikáció és médiatudomány (Communication and Media Science)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^134] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
-– szakképzettség: kommunikátor (megjelölve a szakirányt)
+– szakképzettség: kommunikátor
 
-– a szakképzettség angol nyelvű megjelölése: Communication Expert
+– a szakképzettség angol nyelvű megjelölése: Expert in Communication
 
 3. Képzési terület: társadalomtudományi
 
@@ -3810,15 +3718,15 @@ c) választható szakmai ismeretek: 15–25 kredit;
 
 d) differenciált szakmai ismeretek: pl. PR, marketing, üzleti kommunikáció; újságírás (nyomtatott, rádiós, televíziós, on-line); hálózati kommunikáció; közéleti kommunikáció; mediáció; segítő-fejlesztő; egyházi kommunikáció; nemzetközi kommunikáció; vizuális kommunikáció; archiválás; kommunikáció technológia szakirányokhoz tartozó ismeretkörök: 35–45 kredit
 
-9. Nyelvi követelmények:
+9.[^135] Idegenyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből középfokú C típusú államilag elismert nyelvvizsga letétele vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 7. KULTURÁLIS ANTROPOLÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: kulturális antropológia
+1.[^136] Az alapképzési szak megnevezése: kulturális antropológia (Cultural Anthropology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^137] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -3904,15 +3812,15 @@ népek és kultúrák Európában (antropológiai ismeretek Európa népeiről �
 
 A szakmai gyakorlat a terepmunka során kialakított antropológiai tudásterületekhez (kisebbségkutatás, társadalmi krízishelyzetek vizsgálata, vizuális kulturális antropológia, roma kultúra) kapcsolódó különböző intézményekben teljesítendő egyéni gyakorlat.
 
-10. Nyelvi követelmények:
+10.[^138] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy középfokú C típusú államilag elismert nyelvvizsga letétele vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 8. SZOCIOLÓGIA ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: szociológia
+1.[^139] Az alapképzési szak megnevezése: szociológia (Sociology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^140] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -3980,21 +3888,21 @@ bevezetés a szociológiába és a társadalomtudományokba (szociológiai, szoc
 
 társadalomtörténet, a mai magyar társadalom, társadalmi struktúra és rétegződés, szakszociológiai ismeretek, szociológiai irányzatok, terepgyakorlatok, orientációs gyakorlatok (adatgyűjtési, adatfeldolgozási, adatelemzési ismeretek), idegen nyelv, kommunikációs, informatikai ismeretek, módszerek.
 
-9. Nyelvi követelmények:
+9.[^141] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert vagy azzal egyenértékű középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 9. TÁRSADALMI TANULMÁNYOK ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: társadalmi tanulmányok
+1.[^142] Az alapképzési szak megnevezése: társadalmi tanulmányok (Social Sciences)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^143] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: társadalmi tanulmányok alapszakos szakelőadó
 
-– a szakképzettség angol nyelvű megjelölése: Social Sciences Expert
+– a szakképzettség angol nyelvű megjelölése: Social Scientist
 
 3. Képzési terület: társadalomtudományi
 
@@ -4052,25 +3960,25 @@ bevezetés a társadalomtudományokba (a társadalomelmélet alapjai, társadalo
 
 elméleti tárgyak (bevezetés a politikatudományba, bevezetés a pszichológiába, bevezetés a szervezetek működésébe, kultúra- és művelődéstörténet, a társadalom kulturális tagoltsága); gyakorlati tárgyak (statisztika, a magyar társadalom statisztikai leírása), készségtárgyak (kommunikációs technikák, számítógépes alapismeretek); differenciált szakmai ismeretek.
 
-9. Nyelvi követelmények:
+9.[^144] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert vagy azzal egyenértékű középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-IV.[^10] INFORMATIKA KÉPZÉSI TERÜLET
+IV.[^145] INFORMATIKA KÉPZÉSI TERÜLET
 
 1. GAZDASÁGINFORMATIKUS ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: gazdaságinformatikus
+1.[^146] Az alapképzési szak megnevezése: gazdaságinformatikus (Business Information Technology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^147] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: gazdaságinformatikus
 
-– a szakképzettség angol nyelvű megjelölése: Computer Economist
+– a szakképzettség angol nyelvű megjelölése: Business Information Technologist
 
 3. Képzési terület: informatika
 
@@ -4144,23 +4052,23 @@ rendszertechnikai modul (számítógép-architektúrák, operációs rendszerek,
 
 A szakmai gyakorlat külső szakmai gyakorló helyen, intézményben, erre alkalmas szervezetnél vagy felsőoktatási intézményi gyakorlóhelyen teljesítendő, legalább 6 hétig tartó gyakorlat.
 
-10. Nyelvi követelmények:
+10.[^148] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 2. MÉRNÖK INFORMATIKUS ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: mérnök informatikus
+1.[^149] Az alapképzési szak megnevezése: mérnökinformatikus (Engineering Information Technology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^150] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
-– szakképzettség: mérnök informatikus
+– szakképzettség: mérnökinformatikus
 
-– a szakképzettség angol nyelvű megjelölése: Computer Engineer
+– a szakképzettség angol nyelvű megjelölése: Engineering Information Technologist
 
 3. Képzési terület: informatika
 
@@ -4228,21 +4136,21 @@ rendszertechnika modul (mérés és szabályozástechnika, érzékelők és beav
 
 A szakmai gyakorlat külső szakmai gyakorló helyen, intézményben, erre alkalmas szervezetnél vagy felsőoktatási intézményi gyakorlóhelyen teljesítendő, legalább 6 hétig tartó gyakorlat.
 
-10. Nyelvi követelmények:
+10.[^151] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 3. PROGRAMTERVEZŐ INFORMATIKUS ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: programtervező informatikus
+1.[^152] Az alapképzési szak megnevezése: programtervező informatikus (Software Information Technology)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^153] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: programtervező informatikus
 
-– a szakképzettség angol nyelvű megjelölése: Computer Program Designer
+– a szakképzettség angol nyelvű megjelölése: Software Information Technologist
 
 3. Képzési terület: informatika
 
@@ -4316,25 +4224,25 @@ szoftvertechnológia modul (a programozás módszertani alapjai, programozási t
 
 A szakmai gyakorlat külső szakmai gyakorló helyen, intézményben, erre alkalmas szervezetnél vagy felsőoktatási intézményi gyakorlóhelyen teljesítendő, legalább 6 hétig tartó gyakorlat.
 
-10. Nyelvi követelmények:
+10.[^154] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges egy olyan idegen nyelvből, amelyen a szakmának tudományos irodalma van.
+Az alapfokozat megszerzéséhez legalább egy olyan idegen nyelvből, amelyen a szakmának tudományos szakirodalma van, államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 V. JOGI ÉS IGAZGATÁSI KÉPZÉSI TERÜLET
 
 1. BŰNÜGYI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: bűnügyi igazgatási
+1.[^155] Az alapképzési szak megnevezése: bűnügyi igazgatási (Criminal Administration)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^156] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: bűnügyi igazgatásszervező (megjelölve a szakirányt)
 
-– választható szakirányok: bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó
+– a szakképzettség angol nyelvű megjelölése: Criminal Administration Manager
 
-– a szakképzettség angol nyelvű megjelölése: Criminal Administration Manager (with specialization in Criminal Investigation, Economic Crime Investigation, Financial Investigation)
+– választható szakirányok: bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó (Crime Investigation, Economic Crime Investigation, Finance Investigation)
 
 3. Képzési terület: jogi és igazgatási
 
@@ -4412,21 +4320,21 @@ bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó szakirányok
 
 Az oklevél megszerzésének feltétele 10 hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^157] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél, vagy rendvédelmi szaknyelvi középfokú C típusú államilag elismert nyelvvizsga szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy rendvédelmi szaknyelvi államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 2. IGAZGATÁSSZERVEZŐ ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: igazgatásszervező
+1.[^158] Az alapképzési szak megnevezése: igazgatásszervező (Administration Management)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^159] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: igazgatásszervező
 
-– a szakképzettség angol nyelvű megjelölése: Public Administration Manager
+– a szakképzettség angol nyelvű megjelölése: Administration Manager
 
 3. Képzési terület: jogi és igazgatási
 
@@ -4488,23 +4396,23 @@ igazgatástörténeti modul (alkotmány- és közigazgatástörténet); általá
 
 Az oklevél megszerzésének feltétele 6 hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^160] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 3. IGAZSÁGÜGYI IGAZGATÁSI ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: igazságügyi igazgatási
+1.[^161] Az alapképzési szak megnevezése: igazságügyi igazgatási (Judicial Administration)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^162] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: igazságügyi szervező
 
-– a szakképzettség angol nyelvű megjelölése: Legal Administration Manager
+– a szakképzettség angol nyelvű megjelölése: Judicial Administration Manager
 
 3. Képzési terület: jogi és igazgatási
 
@@ -4562,23 +4470,23 @@ igazgatástörténeti modul (a modern magyar igazságszolgáltatás és a közig
 
 Az oklevél megszerzésének feltétele 40 óra szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^163] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 4. MUNKAÜGYI ÉS TÁRSADALOMBIZTOSÍTÁSI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: munkaügyi és társadalombiztosítási igazgatási
+1.[^164] Az alapképzési szak megnevezése: munkaügyi és társadalombiztosítási igazgatási (Employment Relations and Social Insurance Administration)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^165] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
-– szakképzettség: a) munkaügyi kapcsolatok tanácsadó; b) társadalombiztosítási tanácsadó
+– szakképzettség: munkaügyi és társadalombiztosítási szakember
 
-– választható szakirányok: munkaügyi kapcsolatok, társadalombiztosítási igazgatási
+– a szakképzettség angol nyelvű megjelölése: Employment Relations and Social Insurance Expert
 
-– a szakképzettség angol nyelvű megjelölése: a) Labour Relations Counsellor, b) Social Insurance Counsellor
+– választható szakirányok: munkaügyi kapcsolatok, társadalombiztosítási igazgatási (Employment Relations, Social Insurance Administration)
 
 3. Képzési terület: jogi és igazgatási
 
@@ -4660,25 +4568,25 @@ munkaügyi kapcsolatok, társadalombiztosítási igazgatási szakirányokhoz tar
 
 Az oklevél megszerzésének feltétele 4 hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^166] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 5. NEMZETKÖZI IGAZGATÁSI ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: nemzetközi igazgatási
+1.[^167] Az alapképzési szak megnevezése: nemzetközi igazgatási (International Administration)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^168] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: nemzetközi igazgatásszervező (a szakirány megjelölésével)
 
-– választható szakirányok: nemzetközi intézményi igazgatási, nemzetközi vállalatok igazgatása
+– a szakképzettség angol nyelvű megjelölése: International Administration Manager
 
-– a szakképzettség angol nyelvű megjelölése: International Administration Manager (with Specialization in International Institutions, in International Companies)
+– választható szakirányok: nemzetközi intézményi igazgatási, nemzetközi vállalatok igazgatása (International Institutional Administration, International Corporate Management)
 
 3. Képzési terület: jogi és igazgatási
 
@@ -4736,25 +4644,25 @@ nemzetközi intézményi igazgatási, nemzetközi vállalatok igazgatása szakir
 
 Az oklevél megszerzésének feltétele 6 hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^169] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez két idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges, melyből az egyik jogi és közigazgatási (Profex) vagy közgazdasági (OECONOM) szaknyelvi nyelvvizsga.
+Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú általános nyelvvizsga és egy másik idegen nyelvből jogi és közigazgatási vagy közgazdasági államilag elismert, középfokú (B2) komplex típusú szaknyelvi nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 6. RENDÉSZETI IGAZGATÁSI ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: rendészeti igazgatási
+1.[^170] Az alapképzési szak megnevezése: rendészeti igazgatási (Law Enforcement Administration)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^171] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: rendészeti igazgatásszervező (megjelölve a szakirányt)
 
-– választható szakirányok: biztonsági, büntetés-végrehajtási, határrendészeti, igazgatásrendészeti, katasztrófavédelmi, közlekedésrendészeti, közrendvédelmi, vám- és jövedéki igazgatási
+– a szakképzettség angol nyelvű megjelölése: Law Enforcement Administration Manager
 
-– a szakképzettség angol nyelvű megjelölése: Policy Administration Manager (with Specialization in Security, Correctional Services, Border Policy, Administrative Policy, Disaster Management, Traffic Policy, Public Order Management, Custom Policy)
+– választható szakirányok: biztonsági, büntetés-végrehajtási, határrendészeti, igazgatásrendészeti, katasztrófavédelmi, közlekedésrendészeti, közrendvédelmi, vám- és jövedéki igazgatási (Private Security, Correctional Services, Border Policing, Administrative Policing, Disaster Management, Traffic Policing, Public Order Policing, Customs and Excise Administration)
 
 3. Képzési terület: jogi és igazgatási
 
@@ -4842,19 +4750,19 @@ biztonsági, büntetés-végrehajtási, határrendészeti, igazgatásrendészeti
 
 Az oklevél megszerzésének feltétele 10 hét szakmai gyakorlat elvégzése.
 
-10. Nyelvi követelmények:
+10.[^172] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél, vagy rendvédelmi szaknyelvi középfokú C típusú államilag elismert nyelvvizsga szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú általános nyelvvizsga vagy államilag elismert, középfokú (B2) komplex típusú rendvédelmi szaknyelvi nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-VI.[^11] NEMZETVÉDELMI ÉS KATONAI KÉPZÉSI TERÜLET
+VI.[^173] NEMZETVÉDELMI ÉS KATONAI KÉPZÉSI TERÜLET
 
 1. BIZTONSÁG- ÉS VÉDELEMPOLITIKAI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: biztonság- és védelempolitikai alapszak
+1.[^174] Az alapképzési szak megnevezése: biztonság- és védelempolitikai alapszak (Security and Defence Policy)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^175] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc),
 
 – szakképzettség: biztonság- és védelempolitikai szakreferens
 
@@ -4930,17 +4838,17 @@ stratégia, nemzetközi kapcsolatok elmélete, fegyverkezés és fegyverzetellen
 
 A nappali szakos hallgatók a gyakorlatot az első és a második tanév után végzik, évente átlagosan 4–5 hét (összesen 8–10 hét) időtartamban.
 
-10. Nyelvi követelmények:
+10.[^176] Idegennyelvi követelmények:
 
-Az oklevél kiadásának feltétele két idegen nyelvből – melyből legalább az egyik a NATO hivatalos nyelve – államilag elismert, középfokú (B2), komplex típusú nyelvvizsga, vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél megszerzése, vagy egy államilag elismert felsőfokú (C1), komplex típusú nyelvvizsga, vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél megszerzése, olyan nyelvből, melyen a szakmának tudományos szakirodalma van.
+Az alapfokozat megszerzéséhez két idegen nyelvből – melyből legalább az egyik a NATO hivatalos nyelve – államilag elismert középfokú (B2) komplex típusú nyelvvizsga vagy egy államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga egy olyan nyelvből, melyen a szakmának tudományos szakirodalma van, vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 2. BÜNTETÉS-VÉGREHAJTÁSI NEVELŐ ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: büntetés-végrehajtási nevelő
+1.[^177] Az alapképzési szak megnevezése: büntetés-végrehajtási nevelő (Corrections and Rehabilitation)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^178] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc),
 
 – szakképzettség: büntetés-végrehajtási nevelő
 
@@ -5010,23 +4918,23 @@ büntetőjogi, büntetővégrehajtási jogi ismeretek, deviáns viselkedés pszi
 
 Az intézményen kívül teljesítendő szakmai gyakorlat kritérium-feltétel. A szakmai gyakorlat időtartama 240 óra (legalább 8, legfeljebb 12 hét).
 
-10. Nyelvi követelmények:
+10.[^179] Idegennyelvi követelmények:
 
-Az oklevél kiadásának feltétele legalább egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-3.[^12]
+3.[^180]
 
 4. NEMZETBIZTONSÁGI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: nemzetbiztonsági
+1.[^181] Az alapképzési szak megnevezése: nemzetbiztonsági (National Security Studies)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^182] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc),
 
 – szakképzettség: nemzetbiztonsági szakértő
 
-– a szakképzettség angol nyelvű megjelölése: National Security Officer
+– a szakképzettség angol nyelvű megjelölése: National Security Expert
 
 3. Képzési terület: nemzetvédelmi és katonai
 
@@ -5100,15 +5008,15 @@ kriminológia, kriminalisztika, a titkosszolgálatok története, szakági jog, 
 
 Az intézményen kívül teljesítendő szakmai gyakorlat kritérium-feltétel. A szakmai gyakorlat időtartama a nemzetbiztonsági alapképzésben legalább 10 hét.
 
-10. Nyelvi követelmények:
+10.[^183] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy idegen nyelvből középfokú C típusú államilag elismert nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy olyan idegen nyelvből, amelyen a szakmának tudományos szakirodalma van, államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 5. VÉDELMI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: védelmi igazgatási
+1.[^184] Az alapképzési szak megnevezése: védelmi igazgatási (Defence Administration)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^185] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
@@ -5188,21 +5096,21 @@ hadijog, hadtörténelem, védelmi humánerőforrás-szervezés, védelem-gazdas
 
 A szakmai gyakorlat – az alapfokozat megszerzésének kritérium-feltételeként – katonai, önkormányzati, katasztrófavédelmi vagy más igazgatási szervezetnél végzett gyakorlat, amelynek időtartama legalább 4 hét.
 
-10. Nyelvi követelmények:
+10.[^186] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy idegen nyelvből középfokú C típusú államilag elismert nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 6. KATONAI VEZETŐI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: katonai vezetői
+1.[^187] Az alapképzési szak megnevezése: katonai vezetői (Military Leadership)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^188] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc),
 
 – szakképzettség: katonai vezető
 
-– a szakképzettség angol nyelvű megjelölése: Military Officer
+– a szakképzettség angol nyelvű megjelölése: Military Leader
 
 3. Képzési terület: nemzetvédelmi és katonai
 
@@ -5274,25 +5182,25 @@ lövész, harckocsizó, felderítő, tüzér, műszaki, katonai térinformatika,
 
 Az intézményen kívül teljesítendő szakmai gyakorlat kritérium-feltétel. A szakmai gyakorlat időtartama 8–16 hét.
 
-10. Nyelvi követelmények:
+10.[^189] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy idegen nyelvből középfokú C típusú államilag elismert katonai szaknyelvi nyelvvizsga, vagy STANAG 2.2.2.2. nyelvvizsga szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú katonai szaknyelvi nyelvvizsga vagy STANAG 2.2.2.2. nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 7. KATONAI GAZDÁLKODÁSI ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: katonai gazdálkodási
+1.[^190] Az alapképzési szak megnevezése: katonai gazdálkodási (Military Economics)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^191] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 – szakképzettség: közgazdász katonai gazdálkodási alapszakon (megjelölve a szakirányt)
 
-– választható szakirányok: pénzügyi, hadtáp
+– a szakképzettség angol nyelvű megjelölése: Military Economist
 
-– a szakképzettség angol nyelvű megjelölése: Military Economics Officer
+– választható szakirányok: pénzügyi, hadtáp (Finance, Military Supply)
 
 3. Képzési terület: nemzetvédelmi és katonai
 
@@ -5382,23 +5290,23 @@ b) hadtáp szakirány – a választott specializáció (logisztikai gazdálkod�
 
 Az intézményen kívül teljesítendő szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat időtartama legalább 10 hét.
 
-10. Nyelvi követelmények:
+10.[^192] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez legalább egy idegen nyelvből középfokú C típusú államilag elismert katonai szaknyelvi nyelvvizsga vagy STANAG 2.2.2.2. nyelvvizsga szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú katonai szaknyelvi nyelvvizsga vagy STANAG 2.2.2.2. nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-VII.[^13] GAZDASÁGTUDOMÁNYOK KÉPZÉSI TERÜLET
+VII.[^193] GAZDASÁGTUDOMÁNYOK KÉPZÉSI TERÜLET
 
 1. ALKALMAZOTT KÖZGAZDASÁGTAN ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: alkalmazott közgazdaságtan
+1.[^194] Az alapképzési szak megnevezése: alkalmazott közgazdaságtan (Applied Economics)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^195] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA),
 
 – szakképzettség: közgazdász alkalmazott közgazdaságtan alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Applied Economics
+– a szakképzettség angol nyelvű megjelölése: Economist in Applied Economics
 
 3. Képzési terület: gazdaságtudományok
 
@@ -5462,21 +5370,21 @@ EU ismeretek, általános és gazdasági jogi ismeretek, gazdaságtörténet, sz
 
 gazdaságelméleti, gazdaságstatisztikai, pénzügyi, elmélettörténeti, gazdaság modellezési, gazdaságpolitikai, ágazati és funkcionális gazdaságtani, közösségi gazdaságtani, világ- és Európa-gazdaságtani, környezet gazdaságtani, közpolitikai ismeretek, továbbá differenciált szakmai ismeretek.
 
-9. Nyelvi követelmények:
+9.[^196] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetőleg ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 2. GAZDASÁGELEMZÉS ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: gazdaságelemzés
+1.[^197] Az alapképzési szak megnevezése: gazdaságelemzés (Economic Analysis)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^198] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA),
 
 – szakképzettség: közgazdász gazdaságelemzés alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Economics
+– a szakképzettség angol nyelvű megjelölése: Economist in Economic Analysis
 
 3. Képzési terület: gazdaságtudományok
 
@@ -5548,21 +5456,21 @@ EU ismeretek, általános és gazdasági jogi ismeretek, gazdaságtörténet, sz
 
 gazdaságelméleti, elmélettörténeti, matematikai közgazdaságtani, operációkutatási, statisztikai, pénzügyi, alkalmazott modellezési, gazdaságpolitikai ismeretek.
 
-9. Nyelvi követelmények:
+9.[^199] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetve ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 3. KÖZSZOLGÁLATI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: közszolgálati
+1.[^200] Az alapképzési szak megnevezése: közszolgálati (Public Services)
 
-2. Az alapképzési szakon megszerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^201] Az alapképzési szakon megszerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: közgazdász közszolgálati alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Public Governance
+– a szakképzettség angol nyelvű megjelölése: Economist in Public Services
 
 3. Képzési terület: gazdaságtudományok
 
@@ -5640,21 +5548,21 @@ EU ismeretek, általános és gazdasági jogi ismeretek, gazdaságtörténet, sz
 
 közigazgatási és jogági ismeretkör (közintézményjogi alapismeretek, alkotmánytan, gazdasági jogi (civilisztikai) alapismeretek); közmenedzsment ismeretkör (a közszektor és a közszolgáltatások modernizációja, közcélú szervezetek vezetése és stratégiai tervezése); államháztartás-költségvetés ismeretkör (költségvetési politika, költségvetési szervek számvitele); közpolitikai ismeretkör (társadalompolitika, etika és felelősség, közpolitika elemzés); továbbá differenciált szakmai ismeretek.
 
-9. Nyelvi követelmények:
+9.[^202] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetve ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 4. GAZDÁLKODÁSI ÉS MENEDZSMENT ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: gazdálkodási és menedzsment
+1.[^203] Az alapképzési szak megnevezése: gazdálkodási és menedzsment (Business Administration and Management)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^204] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA),
 
 – szakképzettség: közgazdász gazdálkodási és menedzsment alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Management and Business Administration
+– a szakképzettség angol nyelvű megjelölése: Economist in Business Administration and Management
 
 3. Képzési terület: gazdaságtudományok
 
@@ -5716,25 +5624,25 @@ EU, általános és gazdasági jogi ismeretek, gazdaságtörténet, szociológia
 
 vállalati pénzügyek, számviteli elemzés, emberi erőforrás gazdálkodás, marketing menedzsment, vezetés és szervezés, értékteremtő folyamatok menedzsmentje, döntéselmélet és módszertan, kontrolling, üzleti etika, stratégiai tervezés, továbbá választható szakirányok, amelyek a szakmai törzsanyaghoz kapcsolódó, a szakképzettség részeként megszerezhető speciális tudást adó ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^205] Szakmai gyakorlat:
 
-Az alapképzési szakon egy félévig tartó összefüggő szakmai gyakorlatot kell szervezni.
+Az alapképzési szakon egy félévig tartó szakmai gyakorlatot kell szervezni.
 
-10. Nyelvi követelmények:
+10.[^206] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetve ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 5. KERESKEDELEM ÉS MARKETING ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: kereskedelem és marketing
+1.[^207] Az alapképzési szak megnevezése: kereskedelem és marketing (Commerce and Marketing)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^208] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
 – szakképzettség: közgazdász kereskedelem és marketing alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Commerce and Marketing
+– a szakképzettség angol nyelvű megjelölése: Economist in Commerce and Marketing
 
 3. Képzési terület: gazdaságtudományok
 
@@ -5812,25 +5720,25 @@ EU, általános és gazdasági jogi ismeretek, gazdaságtörténet, szociológia
 
 vállalatirányítás, kereskedelem gazdaságtana, marketing menedzsment, szervezeti magatartás, vállalati pénzügyek, marketingkutatás, külkereskedelmi technikák, marketingkommunikáció, logisztika, média gazdaságtan, továbbá választható szakirányok, amelyek a szak törzsanyagához, a kereskedelem vagy marketing szakanyagához kapcsolódó, a szakképzettség részeként megszerezhető speciális tudást biztosító ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^209] Szakmai gyakorlat:
 
-Az alapképzési szakon egy félévig tartó összefüggő szakmai gyakorlatot kell szervezni.
+Az alapképzési szakon egy félévig tartó szakmai gyakorlatot kell szervezni.
 
-10. Nyelvi követelmények:
+10.[^210] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetve ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 6. EMBERI ERŐFORRÁSOK ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: emberi erőforrások
+1.[^211] Az alapképzési szak megnevezése: emberi erőforrások (Human Resources)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^212] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA)
 
 – szakképzettség: közgazdász emberi erőforrások alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Human Resource Administration
+– a szakképzettség angol nyelvű megjelölése: Economist in Human Resource Management
 
 3. Képzési terület: gazdaságtudományok
 
@@ -5904,21 +5812,21 @@ munkaerő-piaci intézmények és politikák, szervezet- és munkaszociológia, 
 
 A szakmai gyakorlat az egyes ismeretkörökhöz kapcsolódó gyakorlati foglalkozásokon szerezhető meg.
 
-10. Nyelvi követelmények:
+10.[^213] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetve ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 7. NEMZETKÖZI GAZDÁLKODÁS ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: nemzetközi gazdálkodási
+1.[^214] Az alapképzési szak megnevezése: nemzetközi gazdálkodás (International Business Economics)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^215] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA)
 
 – szakképzettség: közgazdász nemzetközi gazdálkodási alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in International Business
+– a szakképzettség angol nyelvű megjelölése: Economist in International Business
 
 3. Képzési terület: gazdaságtudományok
 
@@ -6008,27 +5916,27 @@ EU, általános és gazdasági jogi ismeretek, gazdaságtörténet, szociológia
 
 nemzetközi kereskedelemi és gazdasági intézmények, világgazdasági folyamatok és régiók, külgazdasági politika, elemzés és piacfejlesztés, nemzetközi pénzügyek, nemzetközi ügyletek, nemzetközi marketing, interkulturális menedzsment, EU-közösségi politikák, nemzetközi tárgyalási technikák, nemzetközi etikett, protokoll, továbbá választható szakirányok, amelyek a szakmai törzsanyaghoz kapcsolódó, a szakképzettség részeként megszerezhető speciális tudást biztosító ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^216] Szakmai gyakorlat:
 
-Az alapképzési szakon egy félévig tartó összefüggő szakmai gyakorlatot kell szervezni.
+Az alapképzési szakon egy félévig tartó szakmai gyakorlatot kell szervezni.
 
-10. Nyelvi követelmények:
+10.[^217] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez államilag elismert vagy azzal egyenértékű, legalább kettő középfokú C típusú szaknyelvi nyelvvizsga szükséges, amelyek közül az egyik helyett C típusú felsőfokú általános nyelvvizsga is tehető, illetve ezzel egyenértékű érettségi bizonyítvány vagy oklevél.
+Az alapfokozat megszerzéséhez legalább két idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi nyelvvizsga – amelyek közül az egyik államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsgával kiváltható – vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 8. PÉNZÜGY ÉS SZÁMVITEL ALAPKÉPZÉSI
 
 SZAK
 
-1. Az alapképzési szak megnevezése: pénzügy és számvitel
+1.[^218] Az alapképzési szak megnevezése: pénzügy és számvitel (Finance and Accounting)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^219] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA)
 
 – szakképzettség: közgazdász pénzügy és számvitel alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Finance and Accounting
+– a szakképzettség angol nyelvű megjelölése: Economist in Finance and Accounting
 
 3. Képzési terület: gazdaságtudományok
 
@@ -6110,25 +6018,25 @@ EU, általános és gazdasági jogi ismeretek, gazdaságtörténet, szociológia
 
 pénzügyek, jog, pénzügyi számítások és pénzügyi piacok, adózási ismeretek, vállalatértékelés, pénzügyi számvitel, vezetői számvitel alapjai, elemzés-ellenőrzés módszertana, üzleti tervezés, a pénzügyi és számviteli informatika, sajátos számviteli esetek, elszámolására vonatkozó ismeretek, továbbá választható szakirányok, amelyek a szak törzsanyagához, a pénzügyi vagy számviteli szakágakhoz kapcsolódó, a szakképzettség részeként megszerezhető speciális tudást biztosító ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^220] Szakmai gyakorlat:
 
-Az alapképzési szakon egy félévig tartó összefüggő szakmai gyakorlatot kell szervezni.
+Az alapképzési szakon egy félévig tartó szakmai gyakorlatot kell szervezni.
 
-10. Nyelvi követelmények:
+10.[^221] Idegennyelvi követelmények:
 
-Alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú szaknyelvi vagy felsőfokú C típusú általános nyelvvizsga, illetve ezekkel egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi vagy államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsga vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 9. TURIZMUS-VENDÉGLÁTÁS ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: turizmus-vendéglátás
+1.[^222] Az alapképzési szak megnevezése: turizmus-vendéglátás (Tourism and Catering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^223] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA)
+– végzettségi szint: alapfokozat (baccalaureus, bachelor, rövidítve: BA),
 
-– szakképzettség: közgazdász turizmus-vendéglátás alapképzési szakon
+– szakképzettség: közgazdász turizmus–vendéglátás alapképzési szakon
 
-– a szakképzettség angol nyelvű megjelölése: BA in Tourism and Catering
+– a szakképzettség angol nyelvű megjelölése: Economist in Tourism and Catering
 
 3. Képzési terület: gazdaságtudományok
 
@@ -6204,19 +6112,19 @@ EU, általános és gazdasági jogi ismeretek, gazdaságtörténet, szociológia
 
 a turizmus rendszere, vendéglátás, szállásadás, utazásszervezés, turisztikai erőforrások, a turizmus közigazgatási, szakigazgatási, önkormányzati vonatkozásai, turizmus marketing, turisztikai termékek, turisztikai vállalkozások, vendéglátás szervezés, vezetés, nemzetközi gazdasági kapcsolatok, továbbá választható szakirányok, amelyek a szakmai törzsanyaghoz, a turizmus vagy a vendéglátás ismeretköreihez kapcsolódó, a szakképzettség részeként megszerezhető speciális tudást biztosító ismeretek.
 
-9. Szakmai gyakorlat:
+9.[^224] Szakmai gyakorlat:
 
-Az alapképzési szakon egy félévig tartó összefüggő szakmai gyakorlatot kell szervezni.
+Az alapképzési szakon egy félévig tartó szakmai gyakorlatot kell szervezni.
 
-10. Nyelvi követelmények:
+10.[^225] Idegennyelvi követelmények
 
-Alapfokozat megszerzéséhez államilag elismert vagy azzal egyenértékű, legalább kettő középfokú C típusú szaknyelvi nyelvvizsga szükséges, amelyek közül az egyik helyett C típusú felsőfokú általános nyelvvizsga is tehető, illetve ezzel egyenértékű érettségi bizonyítvány vagy oklevél.
+Az alapfokozat megszerzéséhez legalább két idegen nyelvből államilag elismert középfokú (B2) komplex típusú, a képzési területnek megfelelő szaknyelvi nyelvvizsga – amelyek közül az egyik államilag elismert felsőfokú (C1) komplex típusú általános nyelvvizsgával kiváltható – vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 10. ÜZLETI SZAKOKTATÓ ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: üzleti szakoktató
+1.[^226] Az alapképzési szak megnevezése: üzleti szakoktató (Vocational Instruction)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2.[^227] Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
 – végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BA)
 
@@ -6228,15 +6136,15 @@ b) üzleti szakoktató vendéglátó szakirányon
 
 c) üzleti szakoktató ügyviteli szakirányon
 
-– választható szakirányok: a szakképzés szakmacsoportjai szerint – kereskedelmi, vendéglátó, ügyviteli
-
 – a szakképzettség angol nyelvű megjelölése:
 
-a) BA in Vocational Instructor in Commerce
+a) Vocational Instructor in Commerce
 
-b) BA in Vocational Instructor in Catering
+b) Vocational Instructor in Catering
 
-c) BA in Vocational Instructor in Office Management
+c) Vocational Instructor in Administration
+
+– választható szakirányok: a szakképzés szakmacsoportjai szerint – kereskedelmi, vendéglátó, ügyviteli (Commerce, Catering, Administration)
 
 3. Képzési terület: gazdaságtudományok
 
@@ -6368,106 +6276,235 @@ c) ügyviteli szakirányhoz tartozó speciális elméleti és gyakorlati ismeret
 
 A szakmai gyakorlat szakirány szerinti szakmai gyakorlatból és pedagógiai gyakorlatból áll. Az intézményen kívül – a választott szakiránynak megfelelő szakterületen – teljesítendő összefüggő szakmai gyakorlat időtartama legalább 12 hét, amelynek kreditértéke 30 kredit; az összefüggő iskolai, pedagógiai gyakorlat legalább 12 kredit
 
-10. Nyelvi követelmények:
+10.[^228] Idegennyelvi követelmények:
 
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
+Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
-VIII.[^14] MŰSZAKI KÉPZÉSI TERÜLET
+VIII.[^229] MŰSZAKI KÉPZÉSI TERÜLET
 
 1. ANYAGMÉRNÖKI ALAPKÉPZÉSI SZAK
 
-1. Az alapképzési szak megnevezése: anyagmérnöki
+1.[^230] Az alapképzési szak megnevezése: anyagmérnöki (Materials Engineering)
 
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-– végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
-
-– szakképzettség: anyagmérnök
-
-– a szakképzettség angol nyelvű megjelölése: Materials Engineer
-
-3. Képzési terület: műszaki
-
-4. Képzési ág: anyag-, fa- és könnyűipari mérnöki
-
-5. A képzési idő félévekben: 7 félév
-
-6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 210 kredit
-
-6.1. A képzési ágon belüli közös képzési szakasz minimális kreditértéke: –
-
-6.2. A szakirányhoz rendelhető minimális kreditérték: 40 kredit
-
-6.3. A szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
-
-6.4 .A szakdolgozathoz rendelt kreditérték: 15 kredit
-
-6.5. A gyakorlati ismeretekhez rendelhető minimális kreditérték: 60 kredit
-
-6.6. Intézményen kívüli összefüggő gyakorlati képzésben szerezhető minimális kreditérték: –
-
-7. Az alapképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
-
-A képzés célja anyagmérnökök képzése, akik alkalmasak az anyagokban zajló folyamatok értelmezésére és irányítására, az anyagok szerkezetének és tulajdonságainak vizsgálatára és azoknak a különböző technológiák során történő megváltoztatására, az anyag-előállítás technológiai folyamatainak rendszerszemléletű irányítására és szervezésére, valamint ezen technológiákkal előállított anyagok minőségének biztosítására, továbbá kellő mélységű elméleti ismeretekkel rendelkeznek a képzés második ciklusban történő folytatásához.
-
-Alapfokozat birtokában az anyagmérnökök – a várható szakirányokat is figyelembe véve – képesek, illetve ismerik:
-
-– az anyagi rendszerekben zajló fizikai-kémiai folyamatokat, képesek a folyamatok (alapszinten való) matematikai leírására, különös tekintettel a termodinamika és kinetika törvényszerűségeire,
-
-– a szilárd anyagok atomi, mikro- és makroszerkezetét, a szerkezet vizsgálatához szükséges alapvető módszereket és az alapvető eszközök működési elvét, illetve a szerkezetek kialakulását előidéző folyamatokat,
-
-– az anyaggyártó gépek és berendezések működési alapelveit,
-
-– a fémek és ötvözeteik metallurgiai előállításának alapvető technológiáit,
-
-– fémek és ötvözeteik képlékeny alakításának, illetve öntésének alapvető technológiáit,
-
-– a hőkezelés, a felületkezelés alapvető technológiáit,
-
-– a kerámiák, a kompozitanyagok gyártásának alapvető technológiáit,
-
-– a szemcsés anyagok, a polimerek előállításának alapvető technológiáit,
-
-– a műanyagok feldolgozásának alapvető technológiáit,
-
-– az anyagtechnológiák során a munkafázisok minőségi ellenőrzésére és részfeladatok minőségirányítására, különböző termékek tulajdonságainak meghatározására,
-
-– az anyaggyártással kapcsolatos környezeti terhelés felmérésére és annak csökkentésére,
-
-– az anyaggyártással kapcsolatos energiafelhasználás felmérésére és annak racionalizálására,
-
-– munkavédelmi feladatok megoldására.
-
-8. A törzsanyag (a szakképzettség szempontjából meghatározó) ismeretkörök:
-
-– természettudományos alapismeretek: 40–50 kredit
-
-matematika (min. 12 kredit), mérnöki fizika, kémia, fizikai-kémia;
-
-– gazdasági és humán ismeretek: 16–30 kredit
-
-közgazdaságtan, vállalkozás-gazdaságtan, menedzsment, minőségbiztosítás, környezetvédelem, biztonságtechnika, jogi ismeretek, humán ismeretek;
-
-– szakmai törzsanyag: 70–103 kredit
-
-kémiai és fizikai; anyagtudományi, műszaki alapozó; szakmai alapozó (fém-kerámia-polimer-kompozitok) ismeretek.
-
-9. Szakmai gyakorlat:
-
-Az intézményen kívül teljesítendő szakmai gyakorlat kritériumfeltétel. A szakmai gyakorlat külső szakmai gyakorló helyen, intézményben, erre alkalmas szervezetnél, vagy felsőoktatási intézményi gyakorlóhelyen teljesítendő, legalább 6 hétig tartó gyakorlat.
-
-10. Nyelvi követelmények:
-
-Az alapfokozat megszerzéséhez államilag elismert legalább középfokú C típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
-
-2. FAIPARI MÉRNÖKI ALAPKÉPZÉSI SZAK
-
-[^6]: A 2. számú melléklet I. része a 32/2009. (X. 2.) OKM rendelet 2. §-a szerint módosított szöveg.
-[^7]: A 2. számú melléklet I. fejezet, 13. Mezőgazdasági mérnöki alapképzési szak 6. pontja a 14/2006. (XII. 13.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. számú melléklet II. része a 32/2009. (X. 2.) OKM rendelet 3. §-a és 33. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
-[^9]: A 2. számú melléklet III. rész 5. címe 8. pontjának második francia bekezdése a 32/2007. (VIII. 30.) OKM rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^10]: A 2. számú melléklet IV. része a 32/2009. (X. 2.) OKM rendelet 20. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
-[^11]: A 2. számú melléklet VI. része a 32/2009. (X. 2.) OKM rendelet 19. §-a szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
-[^12]: A 2. számú melléklet VI. rész 3. Határrendészeti és -védelmi vezetői alapképzési szakra vonatkozó képzési és követelményleírást a 32/2009. (X. 2.) OKM rendelet 33. § (3) bekezdése hatályon kívül helyezte.
-[^13]: A 2. számú melléklet VII. része a 32/2009. (X. 2.) OKM rendelet 21. §-a szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
-[^14]: A 2. számú melléklet VIII. része a 14/2006. (XII. 13.) OKM rendelet 1. § (2) bekezdése, a 26/2008. (VIII. 15.) OKM rendelet 18. §-a, a 32/2009. (X. 2.) OKM rendelet 4. §-a, 20. § (2) bekezdése és 22–23. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
+[^9]: A 2. számú melléklet I. része a 32/2009. (X. 2.) OKM rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 2. számú melléklet I. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. számú melléklet I. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. számú melléklet I. rész 1. pont 8. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. számú melléklet I. rész 1. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: A 2. számú melléklet I. rész 1. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^15]: A 2. számú melléklet I. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. számú melléklet I. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. számú melléklet I. rész 2. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. számú melléklet I. rész 2. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. számú melléklet I. rész 3. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. számú melléklet I. rész 3. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^21]: A 2. számú melléklet I. rész 3. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^22]: A 2. számú melléklet I. rész 3. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. számú melléklet I. rész 4. pontját a 24/2010. (V. 14.) OKM rendelet 52. § (2) bekezdése hatályon kívül helyezte.
+[^24]: A 2. számú melléklet I. rész 5. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. számú melléklet I. rész 5. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^26]: A 2. számú melléklet I. rész 5. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. számú melléklet I. rész 5. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^28]: A 2. számú melléklet I. rész 6. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^29]: A 2. számú melléklet I. rész 6. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 2. számú melléklet I. rész 6. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. számú melléklet I. rész 6. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^32]: A 2. számú melléklet I. rész 7. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^33]: A 2. számú melléklet I. rész 7. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^34]: A 2. számú melléklet I. rész 7. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. számú melléklet I. rész 7. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^36]: A 2. számú melléklet I. rész 8. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. számú melléklet I. rész 8. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^38]: A 2. számú melléklet I. rész 8. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. számú melléklet I. rész 8. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^40]: A 2. számú melléklet I. rész 9. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^41]: A 2. számú melléklet I. rész 9. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^42]: A 2. számú melléklet I. rész 9. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^43]: A 2. számú melléklet I. rész 9. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^44]: A 2. számú melléklet I. rész 10. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^45]: A 2. számú melléklet I. rész 10. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^46]: A 2. számú melléklet I. rész 10. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^47]: A 2. számú melléklet I. rész 10. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^48]: A 2. számú melléklet I. rész 11. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^49]: A 2. számú melléklet I. rész 11. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^50]: A 2. számú melléklet I. rész 11. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^51]: A 2. számú melléklet I. rész 11. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^52]: A 2. számú melléklet I. rész 12. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^53]: A 2. számú melléklet I. rész 12. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^54]: A 2. számú melléklet I. rész 12. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^55]: A 2. számú melléklet I. rész 12. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^56]: A 2. számú melléklet I. rész 13. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^57]: A 2. számú melléklet I. rész 13. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^58]: A 2. számú melléklet I. fejezet, 13. Mezőgazdasági mérnöki alapképzési szak 6. pontja a 14/2006. (XII. 13.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^59]: A 2. számú melléklet I. rész 13. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^60]: A 2. számú melléklet I. rész 13. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^61]: A 2. számú melléklet I. rész 14. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^62]: A 2. számú melléklet I. rész 14. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^63]: A 2. számú melléklet I. rész 14. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^64]: A 2. számú melléklet I. rész 14. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^65]: A 2. számú melléklet I. rész 15. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^66]: A 2. számú melléklet I. rész 15. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^67]: A 2. számú melléklet I. rész 15. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^68]: A 2. számú melléklet I. rész 15. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^69]: A 2. számú melléklet I. rész 16. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^70]: A 2. számú melléklet I. rész 16. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^71]: A 2. számú melléklet I. rész 16. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^72]: A 2. számú melléklet I. rész 16. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^73]: A 2. számú melléklet II. része a 32/2009. (X. 2.) OKM rendelet 3. §-a és 33. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
+[^74]: A 2. számú melléklet II. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^75]: A 2. számú melléklet II. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^76]: A 2. számú melléklet II. rész 1. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^77]: A 2. számú melléklet II. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^78]: A 2. számú melléklet II. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^79]: A 2. számú melléklet II. rész 2. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^80]: A 2. számú melléklet II. rész 3. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^81]: A 2. számú melléklet II. rész 3. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^82]: A 2. számú melléklet II. rész 3. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^83]: A 2. számú melléklet II. rész 4. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^84]: A 2. számú melléklet II. rész 4. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^85]: A 2. számú melléklet II. rész 4. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^86]: A 2. számú melléklet II. rész 5. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^87]: A 2. számú melléklet II. rész 5. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^88]: A 2. számú melléklet II. rész 5. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^89]: A 2. számú melléklet II. rész 6. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^90]: A 2. számú melléklet II. rész 6. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^91]: A 2. számú melléklet II. rész 6. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^92]: A 2. számú melléklet II. rész 7. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^93]: A 2. számú melléklet II. rész 7. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^94]: A 2. számú melléklet II. rész 7. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^95]: A 2. számú melléklet II. rész 8. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^96]: A 2. számú melléklet II. rész 8. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^97]: A 2. számú melléklet II. rész 8. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^98]: A 2. számú melléklet II. rész 9. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^99]: A 2. számú melléklet II. rész 9. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^100]: A 2. számú melléklet II. rész 9. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^101]: A 2. számú melléklet II. rész 10. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^102]: A 2. számú melléklet II. rész 10. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^103]: A 2. számú melléklet II. rész 10. pont 7. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^104]: A 2. számú melléklet II. rész 10. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^105]: A 2. számú melléklet II. rész 11. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^106]: A 2. számú melléklet II. rész 11. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^107]: A 2. számú melléklet II. rész 11. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^108]: A 2. számú melléklet II. rész 12. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^109]: A 2. számú melléklet II. rész 12. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^110]: A 2. számú melléklet II. rész 12. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^111]: A 2. számú melléklet II. rész 13. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^112]: A 2. számú melléklet II. rész 13. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^113]: A 2. számú melléklet II. rész 13. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^114]: A 2. számú melléklet II. rész 14. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^115]: A 2. számú melléklet II. rész 14. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^116]: A 2. számú melléklet II. rész 14. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^117]: A 2. számú melléklet III. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^118]: A 2. számú melléklet III. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^119]: A 2. számú melléklet III. rész 1. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^120]: A 2. számú melléklet III. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^121]: A 2. számú melléklet III. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^122]: A 2. számú melléklet III. rész 2. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^123]: A 2. számú melléklet III. rész 3. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^124]: A 2. számú melléklet III. rész 3. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^125]: A 2. számú melléklet III. rész 3. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^126]: A 2. számú melléklet III. rész 4. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^127]: A 2. számú melléklet III. rész 4. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^128]: A 2. számú melléklet III. rész 4. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^129]: A 2. számú melléklet III. rész 5. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^130]: A 2. számú melléklet III. rész 5. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^131]: A 2. számú melléklet III. rész 5. címe 8. pontjának második francia bekezdése a 32/2007. (VIII. 30.) OKM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^132]: A 2. számú melléklet III. rész 5. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^133]: A 2. számú melléklet III. rész 6. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^134]: A 2. számú melléklet III. rész 6. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^135]: A 2. számú melléklet III. rész 6. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^136]: A 2. számú melléklet III. rész 7. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^137]: A 2. számú melléklet III. rész 7. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^138]: A 2. számú melléklet III. rész 7. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^139]: A 2. számú melléklet III. rész 8. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^140]: A 2. számú melléklet III. rész 8. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^141]: A 2. számú melléklet III. rész 8. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^142]: A 2. számú melléklet III. rész 9. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^143]: A 2. számú melléklet III. rész 9. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^144]: A 2. számú melléklet III. rész 9. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^145]: A 2. számú melléklet IV. része a 32/2009. (X. 2.) OKM rendelet 20. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
+[^146]: A 2. számú melléklet IV. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^147]: A 2. számú melléklet IV. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^148]: A 2. számú melléklet IV. rész 1. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^149]: A 2. számú melléklet IV. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^150]: A 2. számú melléklet IV. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^151]: A 2. számú melléklet IV. rész 2. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^152]: A 2. számú melléklet IV. rész 3. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^153]: A 2. számú melléklet IV. rész 3. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^154]: A 2. számú melléklet IV. rész 3. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 6. §-ával megállapított szöveg.
+[^155]: A 2. számú melléklet V. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^156]: A 2. számú melléklet V. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^157]: A 2. számú melléklet V. rész 1. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^158]: A 2. számú melléklet V. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^159]: A 2. számú melléklet V. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^160]: A 2. számú melléklet V. rész 2. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^161]: A 2. számú melléklet V. rész 3. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^162]: A 2. számú melléklet V. rész 3. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^163]: A 2. számú melléklet V. rész 3. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^164]: A 2. számú melléklet V. rész 4. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^165]: A 2. számú melléklet V. rész 4. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^166]: A 2. számú melléklet V. rész 4. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^167]: A 2. számú melléklet V. rész 5. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^168]: A 2. számú melléklet V. rész 5. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^169]: A 2. számú melléklet V. rész 5. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^170]: A 2. számú melléklet V. rész 6. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^171]: A 2. számú melléklet V. rész 6. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^172]: A 2. számú melléklet V. rész 6. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 7. §-ával megállapított szöveg.
+[^173]: A 2. számú melléklet VI. része a 32/2009. (X. 2.) OKM rendelet 19. §-a szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
+[^174]: A 2. számú melléklet VI. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^175]: A 2. számú melléklet VI. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^176]: A 2. számú melléklet VI. rész 1. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^177]: A 2. számú melléklet VI. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^178]: A 2. számú melléklet VI. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^179]: A 2. számú melléklet VI. rész 2. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^180]: A 2. számú melléklet VI. rész 3. Határrendészeti és -védelmi vezetői alapképzési szakra vonatkozó képzési és követelményleírást a 32/2009. (X. 2.) OKM rendelet 33. § (3) bekezdése hatályon kívül helyezte.
+[^181]: A 2. számú melléklet VI. rész 4. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^182]: A 2. számú melléklet VI. rész 4. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^183]: A 2. számú melléklet VI. rész 4. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^184]: A 2. számú melléklet VI. rész 5. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^185]: A 2. számú melléklet VI. rész 5. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^186]: A 2. számú melléklet VI. rész 5. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^187]: A 2. számú melléklet VI. rész 6. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^188]: A 2. számú melléklet VI. rész 6. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^189]: A 2. számú melléklet VI. rész 6. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^190]: A 2. számú melléklet VI. rész 7. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^191]: A 2. számú melléklet VI. rész 7. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^192]: A 2. számú melléklet VI. rész 7. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 8. §-ával megállapított szöveg.
+[^193]: A 2. számú melléklet VII. része a 32/2009. (X. 2.) OKM rendelet 21. §-a szerint módosított szöveg. E módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
+[^194]: A 2. számú melléklet VII. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^195]: A 2. számú melléklet VII. rész 1. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^196]: A 2. számú melléklet VII. rész 1. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^197]: A 2. számú melléklet VII. rész 2. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^198]: A 2. számú melléklet VII. rész 2. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^199]: A 2. számú melléklet VII. rész 2. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^200]: A 2. számú melléklet VII. rész 3. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^201]: A 2. számú melléklet VII. rész 3. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^202]: A 2. számú melléklet VII. rész 3. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^203]: A 2. számú melléklet VII. rész 4. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^204]: A 2. számú melléklet VII. rész 4. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^205]: A 2. számú melléklet VII. rész 4. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^206]: A 2. számú melléklet VII. rész 4. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^207]: A 2. számú melléklet VII. rész 5. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^208]: A 2. számú melléklet VII. rész 5. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^209]: A 2. számú melléklet VII. rész 5. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^210]: A 2. számú melléklet VII. rész 5. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^211]: A 2. számú melléklet VII. rész 6. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^212]: A 2. számú melléklet VII. rész 6. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^213]: A 2. számú melléklet VII. rész 6. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^214]: A 2. számú melléklet VII. rész 7. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^215]: A 2. számú melléklet VII. rész 7. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^216]: A 2. számú melléklet VII. rész 7. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^217]: A 2. számú melléklet VII. rész 7. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^218]: A 2. számú melléklet VII. rész 8. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^219]: A 2. számú melléklet VII. rész 8. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^220]: A 2. számú melléklet VII. rész 8. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^221]: A 2. számú melléklet VII. rész 8. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^222]: A 2. számú melléklet VII. rész 9. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^223]: A 2. számú melléklet VII. rész 9. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^224]: A 2. számú melléklet VII. rész 9. pont 9. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^225]: A 2. számú melléklet VII. rész 9. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^226]: A 2. számú melléklet VII. rész 10. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^227]: A 2. számú melléklet VII. rész 10. pont 2. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^228]: A 2. számú melléklet VII. rész 10. pont 10. alpontja a 24/2010. (V. 14.) OKM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^229]: A 2. számú melléklet VIII. része a 14/2006. (XII. 13.) OKM rendelet 1. § (2) bekezdése, a 26/2008. (VIII. 15.) OKM rendelet 18. §-a, a 32/2009. (X. 2.) OKM rendelet 4. §-a, 20. § (2) bekezdése és 22–23. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 33. § (2) bekezdése alapján a rendelkezést felmenő rendszerben lehet bevezetni és alkalmazni.
+[^230]: A 2. számú melléklet VIII. rész 1. pont 1. alpontja a 24/2010. (V. 14.) OKM rendelet 10. § (1) bekezdésével megállapított szöveg.
