@@ -1,1 +1,3 @@
-## 9. § Hatályát veszti az erdészeti hatósági eljárásban fizetendő igazgatási szolgáltatási díjakról szóló 56/1999. (VI. 16.) FVM rendelet.
+## 9. §[^1]
+
+[^1]: A 9. §-t a 11. § hatályon kívül helyezte.
