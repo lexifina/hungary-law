@@ -1,18 +1,14 @@
-5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^91]
-
-A közjegyző neve:
-
-Székhelye:
+5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^92]
 
 STATISZTIKAI JELENTÉS
 
-A .... év ..................... hónapjában elintézett ügyekről
+a ....... év ............... hónapjában elintézett ügyekről
 
-1. Közjegyzői okiratok
+1. Közjegyzői okiratok
 
-| 1.1 Ügyleti okiratok száma: |  |
+| 1.1. Ügyleti okiratok száma: |  |
 
-| 1.2 Jegyzőkönyvi tanúsítványok száma: |  |
+| 1.2. Jegyzőkönyvi tanúsítványok száma: |  |
 
 | Közjegyzői okiratok száma összesen: |  |
 
@@ -20,11 +16,11 @@ A .... év ..................... hónapjában elintézett ügyekről
 
 | Meghiúsult közjegyzői okiratok száma: |  |
 
-2. Záradéki tanúsítványok
+2. Záradéki tanúsítványok
 
-| 2.1. Másolat hitelesítése: |  |
+| 2.1. Másolat hitelesítése: |  |
 
-| 2.2. Névaláírás hitelesítése: |  |
+| 2.2. Névaláírás hitelesítése: |  |
 
 | 2.3. Közhitelességű nyilvántartás tanúsítása: |  |
 
@@ -40,62 +36,74 @@ A .... év ..................... hónapjában elintézett ügyekről
 
 | Meghiúsult záradéki tanúsítványok száma: |  |
 
-3. Közjegyzői nemperes ügyek
+3. Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek
 
-1. Hagyatéki ügy 2. Értékpapír- és okirat semmissé nyilvánítási ügy 3. Zálogjogi nyilvántartással összefüggő ügy 4. Gépjármű zálognyilvántartás 5. Szakértői kirendelés 6. Előzetes bizonyítás 7. Bejegyzett élettársi kapcsolat megszüntetése 8. Záradéki tanúsítványok készítése során közreműködés megtagadása 9/a. Élettársi kapcsolat fennállásával kapcsolatos nyilvántartási ügy 9/b. Élettársi kapcsolat fenn nem állásával kapcsolatos nyilvántartási ügy 10. Összesen
+1. Hagyatéki ügyek, 2. Értékpapír-, és okirat semmissé nyilvánítási ügy, 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 9/c. Gyermek nevéről szóló utólagos nyilatkozat bejegyzése, 10. Végrehajtás elrendelése a közjegyző által jóváhagyott egyezség és közjegyzői okirat alapján 11. Összesen
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9/a | 9/b | 10 |
+0M16397_2
 
-| Előző hónapról folyamatban maradt |  |  |  |  |  |  |  | –– |  |  |  |
+| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
-| Érkezett |  |  |  |  |  |  |  | –– |  |  |  |
+| a | b | c |
 
-| Befejezett |  |  |  |  |  |  |  | –– |  |  |  |
+| Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Folyamatban maradt | Összesen |  |  |  |  |  |  |  | –– |  |  |  |
+| Érkezett |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 éven túli |  |  |  |  |  |  |  | –– |  |  |  |
+| Befejezett |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |
+| Folyamatban maradt | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |
+| 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Jogerőre emelkedett |  |  |  |  |  |  |  |  |  |  |  |
+| 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |
+| 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |
+| Jogerőre emelkedett |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Fel nem terjesztett fellebbezések | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |
+| Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Visszavonás |  |  |  |  |  |  |  |  |  |  |  |
+| Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Elutasítás |  |  |  |  |  |  |  |  |  |  |  |
+| Fel nem terjesztett fellebbezések | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A másodfokú bíróságról visszaérkezett ügyekben hozott határozatok | Helyben- hagyás |  |  |  |  |  |  |  |  |  |  |  |
+| Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |
+| Elutasítás |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megváltoz- tatás |  |  |  |  |  |  |  |  |  |  |  |
+| A másodfokú bíróságról visszaérkezett ügyekben hozott határozatok: | Helybenhagyás |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A befejezett ügyekben az eljárás időtartama* |
+| Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 0–3 |  |  |  |  |  |  |  |  |  |  |  |
+| Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3–6 |  |  |  |  |  |  |  |  | –– |  |  |
+| Meghiúsult ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6–12 |  |  |  |  |  |  |  |  | –– |  |  |
+| A befejezett ügyekben az eljárás időtartama * |
 
-| 1 év felett |  |  |  |  |  |  |  |  | –– |  |  |
+| 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 év felett |  |  |  |  |  |  |  |  | –– |  |  |
+| 3–6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-* A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve.
+| 6–12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Kelt,  ................., ...... év ............ hó ..... nap.
+| 1 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-................................
+| 2 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve.
+
+4. Adatszolgáltató adatai
+
+közjegyző neve:
+
+székhelye:
+
+Kelt, .................., ....... év ......... hó .... nap.
+
+...................................
 
 közjegyző
 
-[^91]: A Vhr. 5. számú melléklete a 43/2009. (IX. 22.) IRM rendelet 32. §-ával megállapított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^92]: Az 5. számú melléklet a 28/2010. (V. 12.) IRM rendelet 41. §-ával megállapított szöveg.
