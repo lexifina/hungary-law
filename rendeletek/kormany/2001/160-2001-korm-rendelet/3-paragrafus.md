@@ -2,7 +2,7 @@
 
 3. § (1) Ez a rendelet a kihirdetést követő 30. napon lép hatályba, és a kötelező adatszolgáltatás körében a 2002. január 1-je után megkötött kutatási-fejlesztési szerződésekre terjed ki. Az önkéntes adatszolgáltatás korábban megkezdett kutatásokra is kiterjedhet.
 
-(2)[^14] Az NKR működési költségeit a Kutatási és Technológiai Innovációs Alapból kell fedezni. A fedezet biztosításáról a Budapesti Műszaki és Gazdaságtudományi Egyetem, valamint a Nemzeti Kutatási és Technológiai Hivatal elnöke pályázaton kívül, szerződésben állapodik meg.
+(2)[^14] Az NKR működési költségeit a Kutatási és Technológiai Innovációs Alapból kell fedezni.
 
 (3)[^15]
 
@@ -26,6 +26,6 @@ g) Kutatás-fejlesztés, innováció (XXXIV. Nemzeti Kutatási és Technológiai
 
 h) A vállalati innováció és a gazdaságban hasznosuló K+F támogatása (LXIX. Kutatási és Technológiai Innovációs Alap fejezet, 1. cím).
 
-[^14]: A 3. § (2) bekezdése a 392/2007. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^14]: A 3. § (2) bekezdése a 392/2007. (XII. 27.) Korm. rendelet 13. §-ával megállapított, a 146/2010. (IV. 29.) Korm. rendelet 73. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^15]: A 3. § (3) bekezdését a 65/2005. (IV. 13.) Korm. rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte.
 [^16]: A melléklet a 283/2006. (XII. 23.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
