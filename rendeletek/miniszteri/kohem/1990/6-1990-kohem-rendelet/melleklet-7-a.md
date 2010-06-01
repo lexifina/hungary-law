@@ -114,5 +114,5 @@ Megjegyzések:
 
 3. A 2003. július 1. előtt forgalomba helyezett járművekben való felhasználásra szánt, 2003. július 1. után forgalomba hozott pótalkatrészek mentesülnek a 16/A. § (1) bekezdésben foglalt rendelkezések alól[^*.]
 
-[^247]: E melléklet összeegyeztethető szabályozást tartalmaz az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról kiadott 2008/689/EK bizottsági határozattal (2008. augusztus 1.). A 7/A. számú mellékletet a 35/2004. (III. 30.) GKM rendelet 11. § c) pontja iktatta be, szövege a 41/2010. (V. 12.) KHEM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^247]: A 7/A. számú mellékletet a 35/2004. (III. 30.) GKM rendelet 11. § c) pontja iktatta be, szövege a 41/2010. (V. 12.) KHEM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^*.]: * Ez a kikötés nem vonatkozik a kerékkiegyensúlyozó súlyokra, az elektromotorok szénkeféire és a fékbetétekre.
