@@ -1,0 +1,1 @@
+## 1. § A Magyar Országos Közjegyzői Kamara (a továbbiakban: közjegyzői kamara) a fizetési meghagyásos eljárásért megfizetett eljárási díj felét – az 5. § (1) bekezdésben foglalt kivétellel – a közjegyzők között az e rendeletben meghatározott módon és időpontban osztja fel.
