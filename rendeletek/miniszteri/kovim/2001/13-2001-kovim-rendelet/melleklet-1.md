@@ -1,4 +1,4 @@
-1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^47]
+1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^41]
 
 A FÖLDRAJZILAG AZ 1., 2., 3. ÉS 4. HAJÓZÁSI ZÓNÁBA TARTOZÓ KÖZÖSSÉGI BELVÍZI UTAK JEGYZÉKE
 
@@ -1058,4 +1058,4 @@ Bridgewater-csatorna | Az egész csatorna |
 
 [1] Azon hajók esetében, amelyek honi kikötője máshol van, az 1960. április 8-i Emst–Dollart-szerződés 32. cikkét kell figyelembe venni (BGBl. 1963 II, 602. o.).
 
-[^47]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a szerint módosított szöveg.
+[^41]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a szerint módosított szöveg.
