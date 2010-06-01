@@ -98,6 +98,6 @@
 
 ## Kompozitok: több különböző anyagból felépülő rendszerek, ahol az egyes összetevők kézzel vagy egyszerű eszközökkel nem választhatók szét. A rendelet értelmezésében kompozitoknak tekinthetők azon – ilyen jellegű – rendszerek, ahol a főkomponens 90%-nál kisebb tömegszázalékban van jelen.
 
-3. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^75]
+3. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^77]
 
-[^75]: A 3. számú melléklet a 37/2006. (II. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^77]: A 3. számú melléklet a 37/2006. (II. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés h) pontja szerint módosított szöveg.

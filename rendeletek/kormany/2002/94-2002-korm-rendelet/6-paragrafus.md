@@ -1,10 +1,10 @@
 ## A csomagolási hulladék kezelésére vonatkozó előírások
 
-6. §[^23] (1) A csomagolási hulladék – más hulladéktól elkülönített – visszavételét, valamint hasznosítását a gyártónak kell biztosítania.
+6. §[^25] (1) A csomagolási hulladék – más hulladéktól elkülönített – visszavételét, valamint hasznosítását a gyártónak kell biztosítania.
 
-(2)[^24] A gyártó az (1) bekezdés szerinti kötelezettségét saját maga teljesíti, vagy hasznosításra jogosult gazdálkodó szervezetnek átadással teljesítheti, illetve az arra alkalmas csomagolás újrahasználatát biztosíthatja. A visszavételi és hasznosítási kötelezettség önállóan vagy a Hgt. 11. §-a szerinti koordináló szervezet (a továbbiakban: koordináló szervezet) útján teljesíthető.
+(2)[^26] A gyártó az (1) bekezdés szerinti kötelezettségét saját maga teljesíti, vagy hasznosításra jogosult gazdálkodó szervezetnek átadással teljesítheti, illetve az arra alkalmas csomagolás újrahasználatát biztosíthatja. A visszavételi és hasznosítási kötelezettség önállóan vagy a Hgt. 11. §-a szerinti koordináló szervezet (a továbbiakban: koordináló szervezet) útján teljesíthető.
 
-(3)[^25] A felhasználók számára terméket forgalmazó gyártó mentesül a visszavételi és hasznosítási kötelezettség teljesítése alól, ha a felhasználóknak forgalmazott termék csomagolása az éves szinten
+(3)[^27] A felhasználók számára terméket forgalmazó gyártó mentesül a visszavételi és hasznosítási kötelezettség teljesítése alól, ha a felhasználóknak forgalmazott termék csomagolása az éves szinten
 
 a) műanyag vagy fém esetén összesen a 200 kg-ot,
 
@@ -14,7 +14,7 @@ c) üveg esetén a 800 kg-ot
 
 ## nem haladja meg.
 
-(4)[^26] A felhasználók számára terméket forgalmazó gyártó a visszavételi és hasznosítási kötelezettség átadásáról megállapodhat azzal a csomagolóanyagot, -eszközt előállítóval, akitől azt közvetlenül beszerezte, ha a felhasználóknak forgalmazott termék csomagolása az éves szinten
+(4)[^28] A felhasználók számára terméket forgalmazó gyártó a visszavételi és hasznosítási kötelezettség átadásáról megállapodhat azzal a csomagolóanyagot, -eszközt előállítóval, akitől azt közvetlenül beszerezte, ha a felhasználóknak forgalmazott termék csomagolása az éves szinten
 
 a) műanyag vagy fém esetén összesen az 500 kg-ot,
 
@@ -38,10 +38,10 @@ e) műanyag esetében 22,5%, kizárólag azokat az anyagokat figyelembe véve, a
 
 (6) Az (5) bekezdésben meghatározottak teljesítése érdekében a gyártónak gondoskodnia kell az 5. számú mellékletben meghatározott anyagában történő hasznosítási arányok teljesítéséről, az Országos Hulladékgazdálkodási Tervvel összhangban.
 
-(7)[^27] A hasznosítási kötelezettség teljesítésének minősül a Magyarországon képződött és begyűjtött csomagolási hulladék külföldön megvalósított hasznosítása is. Az EGT-államok területéről kivitt csomagolási hulladék csak akkor minősül teljesítésnek, ha annak hasznosítása igazoltan olyan körülmények között történt meg, amelyek általános értelemben egyenértékűek a vonatkozó jogszabályokban, illetve közvetlenül alkalmazandó uniós jogi aktusokban előírtakkal. A teljesítés igazolása érdekében a környezetvédelmi hatóság kötelezheti a gyártót az egyenértékűség bizonyítására az igénybe vett hasznosítási technológia, illetve a vonatkozó engedélyei bemutatásával.
+(7)[^29] A hasznosítási kötelezettség teljesítésének minősül a Magyarországon képződött és begyűjtött csomagolási hulladék külföldön megvalósított hasznosítása is. Az EGT-államok területéről kivitt csomagolási hulladék csak akkor minősül teljesítésnek, ha annak hasznosítása igazoltan olyan körülmények között történt meg, amelyek általános értelemben egyenértékűek a vonatkozó jogszabályokban, illetve közvetlenül alkalmazandó uniós jogi aktusokban előírtakkal. A teljesítés igazolása érdekében a környezetvédelmi hatóság kötelezheti a gyártót az egyenértékűség bizonyítására az igénybe vett hasznosítási technológia, illetve a vonatkozó engedélyei bemutatásával.
 
-[^23]: A 6. § a 37/2006. (II. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^24]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 275–276. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 6. § (3) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
-[^26]: A 6. § (4) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
-[^27]: A 6. § (7) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés c)–d) pontja szerint módosított szöveg.
+[^25]: A 6. § a 37/2006. (II. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 275–276. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 6. § (3) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^28]: A 6. § (4) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^29]: A 6. § (7) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés c)–d) pontja szerint módosított szöveg.

@@ -234,7 +234,7 @@
 
 ## d) a csomagolásban szennyeződésként maradó anyagnak tulajdoníthatóan veszélyesnek minősülő csomagolási hulladék mennyiségéről és minőségéről.
 
-5. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^77]
+5. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^79]
 
 A kötelezettek által minimálisan teljesítendő anyagában történő hasznosítási arányok
 
@@ -256,4 +256,4 @@ A kötelezettek által minimálisan teljesítendő anyagában történő hasznos
 
 ”
 
-[^77]: Az 5. számú mellékletet a 37/2006. (II. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^79]: Az 5. számú mellékletet a 37/2006. (II. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be.
