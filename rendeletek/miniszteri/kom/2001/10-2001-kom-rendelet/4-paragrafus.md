@@ -4,7 +4,7 @@
 
 4. § (1) Valamennyi tevékenység végzőinek, illetve berendezés üzemeltetőinek be kell tartani, az (5)–(7) bekezdésekben szereplő vegyületekre vonatkozó előírások figyelembevételével
 
-a)[^2] a VOC véggáz kibocsátási határértéket és VOC diffúz kibocsátási határértéket, ha a 2.1. számú mellékletben az adott tevékenységre, berendezésre csak ezek a határértékek vannak előírva, továbbá a 2.1. számú mellékletben a tevékenységre vonatkozó egyéb rendelkezéseket; több pontforrás esetén a VOC véggáz kibocsátási határértéket pontforrásonként kell alkalmazni;
+a)[^4] a VOC véggáz kibocsátási határértéket és VOC diffúz kibocsátási határértéket, ha a 2.1. számú mellékletben az adott tevékenységre, berendezésre csak ezek a határértékek vannak előírva, továbbá a 2.1. számú mellékletben a tevékenységre vonatkozó egyéb rendelkezéseket; több pontforrás esetén a VOC véggáz kibocsátási határértéket pontforrásonként kell alkalmazni;
 
 b) a teljes VOC kibocsátási határértéket, ha a 2.1. számú mellékletben az adott tevékenységre, berendezésre csak ez a határérték van előírva, továbbá a 2.1. számú mellékletben a tevékenységre vonatkozó egyéb rendelkezéseket. A teljes VOC kibocsátási határértéknek történő megfelelés a 3. számú melléklet 3.2. pontja alapján határozható meg;
 
@@ -24,11 +24,11 @@ b) Az olyan tevékenységek esetében, amelyek a 2. számú melléklet szerint n
 
 (4) A (3) bekezdésben megadott felmentésekről a környezetvédelmi hatóság nyilvántartást vezet.
 
-(5)[^3] Az olyan anyagokat vagy készítményeket, amelyek rákkeltőnek, mutagénnek vagy toxikusnak minősülnek, és VOC tartalmuk miatt a veszélyes anyagok 5. számú melléklet szerinti kockázataira utaló R45, R46, R49, R60, R61 megjelölést (R-mondat) viselik, figyelembe véve az e rendelet 5. §-ában felsorolt szempontokat, kevésbé veszélyes anyagokkal vagy készítményekkel ki kell váltani, a műszaki és gazdasági szempontok figyelembevételével, a legrövidebb időn belül. Ezen anyagok kiváltására a felhasználókat intézkedési terv készítésére és végrehajtására kötelezi a környezetvédelmi hatóság. A végrehajtási határidőket tartalmazó intézkedési terv elkészítésének határideje 2007. április 30.
+(5)[^5] Az olyan anyagokat vagy készítményeket, amelyek rákkeltőnek, mutagénnek vagy toxikusnak minősülnek, és VOC tartalmuk miatt a veszélyes anyagok 5. számú melléklet szerinti kockázataira utaló R45, R46, R49, R60, R61 megjelölést (R-mondat) viselik, figyelembe véve az e rendelet 5. §-ában felsorolt szempontokat, kevésbé veszélyes anyagokkal vagy készítményekkel ki kell váltani, a műszaki és gazdasági szempontok figyelembevételével, a legrövidebb időn belül. Ezen anyagok kiváltására a felhasználókat intézkedési terv készítésére és végrehajtására kötelezi a környezetvédelmi hatóság. A végrehajtási határidőket tartalmazó intézkedési terv elkészítésének határideje 2007. április 30.
 
-(6)[^4] Az (5) bekezdés szerinti VOC véggáz kibocsátásoknál, ahol az R45, R46, R49, R60, R61 megjelölést viselő vegyületek összességének tömegárama nagyobb vagy egyenlő 10 g/h-val, a VOC véggáz kibocsátási határérték a 2.1. számú mellékletben meghatározott határértéktől eltérően 2 mg/m3 (273,15 K hőmérséklet és 101,3 kPa nyomás esetén). A kibocsátási határérték az e bekezdésben felsorolt R jelű VOC vegyületek összes tömegére vonatkozik.
+(6)[^6] Az (5) bekezdés szerinti VOC véggáz kibocsátásoknál, ahol az R45, R46, R49, R60, R61 megjelölést viselő vegyületek összességének tömegárama nagyobb vagy egyenlő 10 g/h-val, a VOC véggáz kibocsátási határérték a 2.1. számú mellékletben meghatározott határértéktől eltérően 2 mg/m3 (273,15 K hőmérséklet és 101,3 kPa nyomás esetén). A kibocsátási határérték az e bekezdésben felsorolt R jelű VOC vegyületek összes tömegére vonatkozik.
 
-(7)[^5] Olyan halogénezett VOC véggáz kibocsátásoknál, ahol az R40 megjelölést viselő vegyületek összességének tömegárama nagyobb vagy egyenlő 100 g/h-val, a VOC kibocsátási határérték 20 mg/m3 (273,15 K hőmérséklet és 101,3 kPa nyomás esetén). A kibocsátási határérték az R 40 jelű VOC vegyületek összes tömegére vonatkozik.
+(7)[^7] Olyan halogénezett VOC véggáz kibocsátásoknál, ahol az R40 és R68 R-megjelölést viselő vegyületek összességének tömegárama nagyobb vagy egyenlő 100 g/h-val, a VOC kibocsátási határérték 20 mg/m3 273,15 K hőmérséklet és 101,3 kPa nyomás esetén. A kibocsátási határérték az R 40 és R68 jelű VOC vegyületek összes tömegére vonatkozik.
 
 (8) Azon telephelyen, ahol a rendelet hatálya alá tartozó két vagy több tevékenységet is végeznek, amelyek mindegyikének oldószer-felhasználása meghaladja a 2. számú mellékletben megállapított küszöbértékeket, az (5)–(7) bekezdésekben meghatározott VOC tartalmú anyagok alkalmazása esetén minden tevékenységre külön-külön kell teljesíteni az ezekben a bekezdésekben meghatározott követelményeket.
 
@@ -36,7 +36,7 @@ b) Az olyan tevékenységek esetében, amelyek a 2. számú melléklet szerint n
 
 a) minden tevékenységre külön-külön teljesíteni kell a 2. számú mellékletben az ezekre a tevékenységekre megállapított határértékeket, vagy
 
-b)[^6] telephelyen belül terheléskiegyenlítést lehet alkalmazni azzal a feltétellel, hogy az egyes tevékenységekre a 2. számú melléklet határértékei alapján számított évi teljes VOC kibocsátások összegét nem haladhatja meg az egyes tevékenységek tényleges évi teljes VOC kibocsátásainak összege; e terheléskiegyenlítés a telephelyen belül két vagy több üzemelő berendezésben végzett azonos tevékenység esetén is alkalmazható.
+b)[^8] telephelyen belül terheléskiegyenlítést lehet alkalmazni azzal a feltétellel, hogy az egyes tevékenységekre a 2. számú melléklet határértékei alapján számított évi teljes VOC kibocsátások összegét nem haladhatja meg az egyes tevékenységek tényleges évi teljes VOC kibocsátásainak összege; e terheléskiegyenlítés a telephelyen belül két vagy több üzemelő berendezésben végzett azonos tevékenység esetén is alkalmazható.
 
 (10) Az üzemeltető kérelmére a környezetvédelmi hatóság felmentést adhat a VOC véggáz kibocsátási határérték betartása alól 2012. december 31-ig a meglévő, leválasztóval rendelkező berendezés üzemeltetőjének, amennyiben a 2. számú melléklet határértékei alapján számított évi teljes VOC kibocsátást a berendezés tényleges évi teljes VOC kibocsátása nem haladja meg, továbbá be tudja tartani:
 
@@ -50,8 +50,8 @@ _____
 
 * mg C/Nm3: a véggáz egy normálköbméterében lévő VOC által tartalmazott karbon (C) tömege mg mértékegységben.
 
-[^2]: A 4. § (1) bekezdésének a) pontja a 21/2005. (VIII. 26.) KvVM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 4. § (5) bekezdésének harmadik mondata a 42/2006. (X. 6.) KvVM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 4. § (6) bekezdésének második mondata a 21/2005. (VIII. 26.) KvVM rendelet 2. §-ával megállapított szöveg.
-[^5]: A 4. § (7) bekezdésének második mondata a 21/2005. (VIII. 26.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^6]: A 4. § (9) bekezdésének b) pontja a 21/2005. (VIII. 26.) KvVM rendelet 4. §-ával megállapított szöveg.
+[^4]: A 4. § (1) bekezdésének a) pontja a 21/2005. (VIII. 26.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § (5) bekezdésének harmadik mondata a 42/2006. (X. 6.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 4. § (6) bekezdésének második mondata a 21/2005. (VIII. 26.) KvVM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § (7) bekezdése a 7/2010. (III. 31.) KvVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (9) bekezdésének b) pontja a 21/2005. (VIII. 26.) KvVM rendelet 4. §-ával megállapított szöveg.

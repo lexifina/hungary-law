@@ -28,7 +28,7 @@
 
 ## Bármely, alábbi ipari vagy kereskedelmi festési és kapcsolódó zsírtalanítási tevékenység, ahol
 
-## a)[^11]
+## a)[^13]
 
 ## b) gépjárművek vagy azok egy részének eredeti festését újrafényező festék típusokkal, ha ezt nem az eredeti gyártó berendezésen (soron) végzik, vagy
 
@@ -182,4 +182,4 @@
 
 2.2. számú melléklet
 
-[^11]: Az 1. számú melléklet 3. pontjának a) alpontját a 25/2006. (II. 3.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^13]: Az 1. számú melléklet 3. pontjának a) alpontját a 25/2006. (II. 3.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.

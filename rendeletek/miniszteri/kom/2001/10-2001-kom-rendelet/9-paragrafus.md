@@ -14,6 +14,6 @@ b) ha az üzemeltető a rendelet 4. § (10) bekezdése szerinti felmentést érv
 
 (5) A környezetvédelmi hatóság a bírságot a 4. § (1) bekezdés a) pontjában foglalt határérték túllépése esetén a pont- és diffúz forrásokra vonatkozó előírások együttes alkalmazásával veti ki, vagy a 4. § (1) bekezdés b) pontjában foglalt határérték túllépése esetén a teljes VOC kibocsátásra vonatkozó előírások szerint veti ki a 6. számú mellékletben ismertetett számítás szerint.
 
-(6)[^7] A bírságszámítás során a határérték felett kibocsátott VOC mennyiséget olyan arányban kell felosztani az egyes VOC vegyületek között, amilyen arányban azok a kibocsátott teljes VOC mennyiségben előfordulnak.
+(6)[^9] A bírságszámítás során a határérték felett kibocsátott VOC mennyiséget olyan arányban kell felosztani az egyes VOC vegyületek között, amilyen arányban azok a kibocsátott teljes VOC mennyiségben előfordulnak.
 
-[^7]: A 9. § (6) bekezdését a 21/2005. (VIII. 26.) KvVM rendelet 5. §-a iktatta be.
+[^9]: A 9. § (6) bekezdését a 21/2005. (VIII. 26.) KvVM rendelet 5. §-a iktatta be.
