@@ -1,4 +1,4 @@
-112. § (1) A bíróság végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
+112. § (1) A közjegyző végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
 
 a) a szolgáltatásra és ellenszolgáltatásra irányuló vagy egyoldalú kötelezettségvállalást,
 
