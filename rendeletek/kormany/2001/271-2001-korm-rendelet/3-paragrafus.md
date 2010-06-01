@@ -1,8 +1,6 @@
-## állapítja meg. A jármű/év forgalomba hozatal számításakor az előző évi forgalom adatait kell figyelembe venni.
-
 ## A bírság megállapításának módja
 
-3. § (1)[^23] A bírság meghatározása során először az alapbírság összegét kell megállapítani.
+3. § (1)[^24] A bírság meghatározása során először az alapbírság összegét kell megállapítani.
 
 (2) A legmagasabb mértékben kell megállapítani az alapbírságot, ha
 
@@ -18,7 +16,7 @@ c) a hulladékkezelési tevékenységet ellenőrző környezetvédelmi hatóság
 
 (4) Hulladék országhatárt átlépő jogellenes szállítása (behozatala, kivitele vagy az ország területén való átszállítása) esetén a fizetendő bírság mértékét, az 1. § (3) bekezdése f)–g) pontjaiban meghatározott alapbírság és a hulladék tömegét mutató szám szorzata alapján kell megállapítani. Amennyiben a hulladék tömege pontosan nem határozható meg, a becsléssel meghatározott, tonnában kifejezett tömegtartomány középértékével kell számolni.
 
-(5)[^24] A bírság a (3) és (4) bekezdésben meghatározott módon kiszámított összegét, valamint a 2. § (4)–(6) bekezdésben meghatározott összegét
+(5)[^25] A bírság a (3) és (4) bekezdésben meghatározott módon kiszámított összegét, valamint a 2. § (4)–(6) bekezdésben meghatározott összegét
 
 a) ugyanazon jogsértés ismételt elkövetése esetén kétszeres,
 
@@ -30,5 +28,5 @@ c) amennyiben a környezetveszélyeztetéssel, illetőleg környezetkárosítás
 
 (6) Amennyiben a bírság kiszabására e rendeletben foglalt több tényállás alapján is sor kerülhet, a legsúlyosabban minősülő tényállás alapján kiszabható legmagasabb bírságösszeget legfeljebb a felével emelten kell kiszabni.
 
-[^23]: A 3. § (1) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^24]: A 3. § (5) bekezdésének bevezető szövegrésze a 313/2005. (XII. 25.) Korm. rendelet 14. §-ával megállapított, valamint a 181/2008. (VII. 8.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 3. § (1) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^25]: A 3. § (5) bekezdésének bevezető szövegrésze a 313/2005. (XII. 25.) Korm. rendelet 14. §-ával megállapított, valamint a 181/2008. (VII. 8.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.

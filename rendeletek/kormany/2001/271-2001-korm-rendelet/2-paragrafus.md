@@ -60,6 +60,10 @@ a) ha a gyártó, illetve forgalmazó nem teljesíti a hulladékká vált gépj�
 
 b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában előírt kötelezettségét, vagy a Hkr. 6. §-ában előírt újrahasználat és hasznosítás együttes mértékére, illetve az újrahasználat és visszanyerés együttes mértékére vonatkozó rendelkezéseket: forgalomba hozott járművenként: 1500 forintban;
 
+## állapítja meg. A jármű/év forgalomba hozatal számításakor az előző évi forgalom adatait kell figyelembe venni.
+
+(9)[^23] A környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén, ha a forgalmazó az átvételi kötelezettségét nem teljesíti: 100 000 forint.
+
 [^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^14]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
@@ -71,3 +75,4 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 [^20]: A 2. § (7) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 181/2008. (VII. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^21]: A 2. § (7) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 245. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^22]: A 2. § (8) bekezdését a 286/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^23]: A 2. § (9) bekezdését a 72/2010. (III. 19.) Korm. rendelet 1. §-a iktatta be.
