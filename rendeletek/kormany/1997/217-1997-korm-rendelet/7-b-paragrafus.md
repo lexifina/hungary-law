@@ -1,14 +1,43 @@
-7/B. §[^98] (1) A százalékos mértékű támogatás alapja az OEP által elfogadott, az árhoz nyújtott támogatás alapjául szolgáló, általános forgalmi adóval (a továbbiakban: áfa) megnövelt ár.
+7/B. §[^103] (1) Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
 
-(2)[^99] A meghatározott (fix) összegű támogatás azonos a 7/C. § szerinti referenciatermék árához megállapított támogatás összegével.
+a) 98%-os támogatási mérték,
 
-(3) A referenciatermék a termékcsoportra megállapított százalékos támogatásban részesül.
+b) 90%-os támogatási mérték,
 
-(4) Azon termék támogatása, melynek az árhoz nyújtott támogatás alapjául szolgáló – áfa nélküli – ára (a továbbiakban: közfinanszírozás alapjául elfogadott ár) a referenciatermékével azonos vagy annál magasabb, megegyezik a referenciatermék támogatásának összegével.
+c) 80%-os támogatási mérték,
 
-(5) Azon termék támogatásának mértéke, amelyeknek a közfinanszírozás alapjául elfogadott ára a referenciatermékénél alacsonyabb, megegyezik a referenciatermék árához nyújtott támogatás százalékos mértékével.
+d) 70%-os támogatási mérték,
 
-(6) A gyógyászati segédeszköz kölcsönzéséhez nyújtott támogatás alapjául szolgáló díjhoz (a továbbiakban: kölcsönzési díj) nyújtott támogatás összege megegyezik a referenciatermék kölcsönzési díjához nyújtott támogatás összegével.
+e) 50%-os támogatási mérték vagy
 
-[^98]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 6. §-a állapította meg.
-[^99]: A Vhr. 7/B. §-ának (2) bekezdése a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
+f) 0%-os támogatási mérték.
+
+(2) Az eszköz árához nyújtott támogatás összege a 7/A. § (3) bekezdés a) pontja szerinti, százalékos mértékű támogatásban részesített támogatási csoportban az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(3) A 7/A. § (3) bekezdés b) pont ba) alpontja szerinti, eszközre meghatározott fix összegű támogatási csoportban
+
+a) a referenciaeszköz árához nyújtott támogatás összege a referenciaeszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+
+b) azon eszköz árához nyújtott támogatás összege, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott ára a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaösszeggel,
+
+c) azon eszköz árához nyújtott támogatás összege, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(4) A 7/A. § (3) bekezdés b) pont bb) alpontja szerinti, az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatási csoportban a fajlagos egységre jutó támogatás összege
+
+a) a referenciaeszköz esetében a referenciaeszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+
+b) azon eszköz esetében, amelynek egy fajlagos egységére jutó, az OEP határozatában szereplő közfinanszírozás alapjául elfogadott ára (a továbbiakban: fajlagos közfinanszírozás alapjául elfogadott ár) a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaeszköz fajlagos egységére jutó támogatás összegével,
+
+c) azon eszköz esetében, amelynek fajlagos közfinanszírozás alapjául elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(5) A kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjához nyújtott támogatás összege
+
+a) a referenciaeszköz esetében a referenciaeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+
+b) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjához nyújtott támogatás összegével,
+
+c) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(6) A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek egyszerű számtani összege. A kombinált kiszerelések csak akkor részesíthetők támogatásban, ha kizárólag azonos kihordási idejű eszközöket tartalmaznak.
+
+[^103]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

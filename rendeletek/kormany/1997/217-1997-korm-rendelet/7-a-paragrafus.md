@@ -1,33 +1,32 @@
-## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^93]
+## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^101]
 
-7/A. §[^94] (1) A biztosított az Ebtv. 21. §-ának (2) bekezdése alapján fekvőbeteg-gyógyintézeti kezelése alatt, illetve elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, amennyiben az a betanítás, végleges ellátás céljából már a fekvőbeteg-gyógyintézeti tartózkodása alatt indokolt, kivéve, ha a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg- ellátás keretében finanszírozott.
+7/A. §[^102] (1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továbbiakban: gyógyintézeti) kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő szakvizsgával rendelkezik.
 
-(2) A biztosított az Ebtv. 21. §-ának (2) bekezdése alapján akkor is jogosult
+(2) A biztosított az Ebtv. 21. § (2) bekezdése alapján akkor is jogosult a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben (a továbbiakban: R.) foglalt feltételek szerint támogatásban részesülő
 
-a) fogpótlás és fogszabályozó készülék, illetve tartozékai árához nyújtott támogatásra, amennyiben ezek kiszolgáltatására fogorvosi (fogszakorvosi) rendelésen,
+a) fogpótlás és fogszabályozó készülék, valamint tartozékai árához nyújtott támogatásra, ha ezek kiszolgáltatására fogászati ellátást nyújtó egészségügyi szolgáltatónál,
 
-b)[^95] hallásjavító készülék és tartozékai árához nyújtott támogatásra, amennyiben ezek kiszolgáltatására a külön jogszabályban foglalt feltételekkel audiológiai szakrendelésen,
+b) hallásjavító készülék és tartozékai árához nyújtott támogatásra, ha ezek kiszolgáltatására a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendeletben foglalt feltételekkel audiológiai szakrendelésen,
 
-c)[^96] egyedi méretvétel alapján gyártott kontaktlencse árához nyújtott támogatásra, amennyiben annak kiszolgáltatására szemészeti szakellátást nyújtó egészségügyi szolgáltatónál
+c) egyedi méretvétel alapján egyedileg készített kontaktlencse árához nyújtott támogatásra, ha ennek kiszolgáltatására szemészeti szakellátást nyújtó egészségügyi szolgáltatónál vagy
 
-nyújtott ellátás keretében kerül sor.
+d) egyedi méretvétel alapján egyedileg gyártott protézis, ortézis árához, valamint mozgásszervi rehabilitáció és teamrendszerű felírás keretében rendelhető eszköz árához nyújtott támogatásra, ha ennek kiszolgáltatására ortopédiai, traumatológiai, rehabilitációs vagy sebészeti szakellátást nyújtó egészségügyi szolgáltatónál nyújtott ellátás keretében
 
-(3)[^97] Az OEP a külön jogszabályban meghatározottak figyelembevételével a támogatást megállapíthatja
+kerül sor.
 
-a) százalékos mértékben,
+(3) Az OEP a gyógyászati segédeszközök közfinanszírozás alapjául elfogadott árához vagy közfinanszírozás alapjául megállapított kölcsönzési napidíjához nyújtott támogatást a következő támogatási technikákkal állapíthatja meg:
 
-b) a termékek meghatározott csoportjára, továbbá az azonos betegségek kezelésére szolgáló termékekre, illetve azok kölcsönzésére meghatározott (fix) összegben,
+a) százalékos mértékű támogatás vagy
 
-c) a betegségtől függő keretösszegben.
+b) támogatási csoportra meghatározott fix összegű támogatás, ezen belül
 
-(4) Egy adott gyógyászati segédeszköz árához eltérő mértékű támogatás állapítható meg a gyógykezelést megalapozó, külön jogszabályban meghatározott betegségcsoportok különbözősége alapján is.
+ba) eszközre meghatározott fix összegű támogatás, vagy
 
-(5) Külön jogszabályban meghatározott termékcsoport esetében a támogatás megállapítható a termék mérete és a referenciatermék egy egységnyi területének árához nyújtott támogatás alapján is, amennyiben ezt a termékcsoport jellege indokolttá teszi.
+bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatás.
 
-(6) Meghatározott (fix) összegű támogatás állapítható meg az egyes, meghatározott betegségek (kórképek) kezelésére alkalmas különböző termékek körére, ha azok alkalmazását klinikailag azonos javallatra állapították meg.
+(4) Önálló funkcionális elv szerinti fixcsoport állapítható meg adott funkcionális alcsoportra, valamint funkcionális csoportra vonatkozóan.
 
-[^93]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
-[^94]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
-[^95]: A Vhr. 7/A. §-a (2) bekezdésének b) pontja a 172/2007. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^96]: A Vhr. 7/A. § (2) bekezdésének c) pontját a 330/2005. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
-[^97]: A Vhr. 7/A. (3) bekezdésében a 330/2005. (XII. 29.) Korm. rendelet 17. § (5) bekezdése alapján az „A támogatás megállapítható” szövegrész helyébe az „Az OEP a külön jogszabályban meghatározottak figyelembevételével a támogatást megállapíthatja” szövegrész lép 2006. július 1-jei hatállyal.
+(5) Önálló rendeltetés szerinti fixcsoport állapítható meg adott rendeltetési csoportra.
+
+[^101]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
+[^102]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-20/A. §[^243] (1) Az Ebtv. 32. § (8) bekezdése szerinti szerződést a REP azzal a szolgáltatóval köti meg, amely a 2. § (2) bekezdés e)–f), illetve i)–l) pontjában megnevezett orvost a feladatkörébe tartozó egészségügyi tevékenység végzésére foglalkoztatja, és nincs az adott feladatra érvényes finanszírozási szerződése.
+20/A. §[^245] (1) Az Ebtv. 32. § (8) bekezdése szerinti szerződést a REP azzal a szolgáltatóval köti meg, amely a 2. § (2) bekezdés e)–f), illetve i)–l) pontjában megnevezett orvost a feladatkörébe tartozó egészségügyi tevékenység végzésére foglalkoztatja, és nincs az adott feladatra érvényes finanszírozási szerződése.
 
 (2) Amennyiben a szolgáltató nem foglalkoztat a 2. § (2) bekezdés e)–f), illetve i)–l) pontja szerinti orvost a feladatkörébe tartozó egészségügyi tevékenység végzésére, hanem azt szerződés alapján más szolgáltatóval láttatja el, az Ebtv. 32. § (8) bekezdése szerinti szerződés az egészségügyi tevékenységet ténylegesen végző szolgáltatóval köthető meg.
 
@@ -26,4 +26,4 @@ b) a (2) bekezdés szerinti esetben a feladat ellátására kötött szerződés
 
 hiteles másolata.
 
-[^243]: A Vhr. 20. §-át a 336/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^245]: A Vhr. 20. §-át a 336/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be.

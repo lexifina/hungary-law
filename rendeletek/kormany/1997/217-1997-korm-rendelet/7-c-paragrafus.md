@@ -1,15 +1,21 @@
-7/C. §[^100] (1) Referenciatermék az a meghatározott (fix) támogatási csoportba tartozó gyógyászati segédeszköz, amely
+7/C. §[^104] (1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz,
 
-a)[^101] a támogatási csoporton belül a legalacsonyabb közfinanszírozás alapjául elfogadott árú termék, melynek a kialakított támogatási csoportra vonatkoztatott OEP felé történő elszámolásban kimutatható forgalmi részesedése referencia árképzést megelőző 12. hónap 1. napjától a referencia árképzést megelőző 3. hónap 1. napja közötti időszakban az 1%-ot elérte,
+a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
 
-b) kölcsönzés esetén a támogatási csoporton belül a legalacsonyabb kölcsönzési díjú termék.
+b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét egymást követő hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt támogatás tekintetében az 5%-ot elérte.
 
-(2) Ha a támogatási csoporton belül a gyógyászati segédeszközök méretük vagy kivitelük alapján egymással nem megfeleltethetők, akkor az (1) bekezdéstől eltérően a nem megfeleltethető gyógyászati segédeszközök közül referencia terméknek a legalacsonyabb közfinanszírozás alapjául szolgáló árral rendelkező termék tekinthető.
+(2) A referenciaeszköz használatához elengedhetetlenül szükséges tartozékoknak a termékkel együttesen kell a legalacsonyabb közfinanszírozás alapjául elfogadott árral, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árral rendelkezniük.
 
-(3) Az (1) bekezdés a) pontja szerinti gyógyászati segédeszköz használatához elengedhetetlenül szükséges tartozékoknak a termékkel együttesen kell támogatási csoportjukon belül a legalacsonyabb közfinanszírozás alapjául elfogadott árral kell rendelkeznie.
+(3) Az R. szerint támogatással kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz esetében – az (1) bekezdéstől eltérően – referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott kölcsönzési napidíjú gyógyászati segédeszköz,
 
-(4)[^102]
+a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
 
-[^100]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 288/2006. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 10. § (6) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
-[^101]: A Vhr. 7/C. §-a (1) bekezdésének a) pontja a 172/2007. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2007. július 15. napját követően indult eljárásokban kell alkalmazni.
-[^102]: A Vhr. 7/C. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (5) bekezdése hatályon kívül helyezte.
+b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét egymást követő hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt kölcsönzési napidíj-támogatás tekintetében az 5%-ot elérte.
+
+(4) A Gyftv. 32/A. §-a szerinti eljárásokban az OEP kilencven napon belül dönt.
+
+(5) A meghatározott eszközre vagy eszközökre irányuló felülvizsgálat kivételével a Gyftv. 32/A. §-a szerinti eljárásokban, és egy adott funkcionális csoportra vonatkozó követelményjegyzék összeállításakor az OEP kikéri az illetékes szakmai kollégium, az Egészségügyi Stratégiai Kutató Intézet és a minőségtanúsításra kijelölt szervezet véleményét.
+
+(6) A Gyftv. 32. § (4) bekezdése szerinti eljárásokban az OEP kikéri a kérelem tárgya szerinti illetékes szakmai kollégium véleményét.
+
+[^104]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
