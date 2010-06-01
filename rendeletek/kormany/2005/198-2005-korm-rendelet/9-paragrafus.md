@@ -1,1 +1,0 @@
-## 8. § Amennyiben a program hazai forrás mellett társfinanszírozásban részesül az Európai Unió forrásából, a program értékelési rendszerét össze kell hangolni a program külföldi társfinanszírozását biztosító rendszer értékelési gyakorlatával.
