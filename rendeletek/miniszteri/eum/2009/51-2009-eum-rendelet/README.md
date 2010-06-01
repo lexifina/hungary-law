@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-51-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-31 | 2009-51-20-0B.1 | 51/2009. (XII. 30.) EüM rendelet |
+| 2010-06-01 | 2009-51-20-0B.2 | 35/2010. (V. 14.) EüM rendelet |
