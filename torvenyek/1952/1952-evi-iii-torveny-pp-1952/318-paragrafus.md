@@ -1,3 +1,7 @@
-318. § (1) A fizetési meghagyás kézbesítésének ugyanaz a hatálya, mint a keresetlevél kézbesítésének (128. §).
+318. § (1) A bíróság a 315. § (1) bekezdésében meghatározott pert megszünteti, ha a jogosult az illetékfizetési, továbbá
 
-(2) A fizetési meghagyás hirdetmény útján nem kézbesíthető. Ha a 132. § (2) bekezdése alapján a jogosult hirdetményi kézbesítést kér, a fizetési meghagyás kibocsátása iránti kérelmet a 316. § (4) bekezdésének megfelelő alkalmazásával keresetlevélként kell elintézni.
+a) tényállás-előadási és bizonyíték-előterjesztési kötelezettségét,
+
+a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül nem teljesítette.
+
+(2) Ha a jogosult a fizetési meghagyás kibocsátása iránti kérelmében a perré alakulás esetére illetékes bíróságként nem a hatáskörrel és illetékességgel rendelkező bíróságot jelölte meg, vagy az aktanyomatot a közjegyző egyéb okból nem ez utóbbi bíróságnak küldte meg, az ügyet át kell tenni a hatáskörrel rendelkező illetékes bírósághoz, kivéve, ha a bíróság, amelyikhez az aktanyomat érkezett, a pert az (1) bekezdésben foglaltak alapján megszünteti.

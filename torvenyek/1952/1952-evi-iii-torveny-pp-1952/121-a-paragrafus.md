@@ -22,4 +22,4 @@ f) az üggyel kapcsolatos korábbi bírósági vagy más hatósági határozat �
 
 g) a felek és képviselőik rövid úton való elérhetőségeit (telefonszám, telefaxszám, e-mail cím stb.).
 
-(4) E § rendelkezéseit nem kell alkalmazni, ha a keresetindítására jogszabály hatvan napnál nem hosszabb határidőt állapít meg, továbbá a Negyedik Részben meghatározott különleges eljárásokban, valamint a fizetési meghagyásos eljárásból perré alakult eljárásban.
+(4) E § rendelkezéseit nem kell alkalmazni, ha a keresetindítására jogszabály hatvan napnál nem hosszabb határidőt állapít meg, továbbá a Negyedik Részben meghatározott különleges eljárásokban, valamint a fizetési meghagyásos eljárást követő perben (315. §).

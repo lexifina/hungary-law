@@ -34,8 +34,6 @@ j) akit erre külön jogszabály feljogosít.
 
 (2) A perben a jogi személy és egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.
 
-[(2) A perben a vállalkozás (396. §) és a Ptk. 685. §-ának c) pontjában meghatározott egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.]
-
 (3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Legfelsőbb Bíróság előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
 
 (4) Ha törvény másként nem rendelkezik, a törvényben szabályozott eljárásokban a jogi képviselet nem kötelező.

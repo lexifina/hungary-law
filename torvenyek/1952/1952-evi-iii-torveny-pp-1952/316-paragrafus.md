@@ -1,7 +1,1 @@
-316. § (1) A fizetési meghagyás iránti kérelem elintézésére a 95. §, a 125. § (4) bekezdése, valamint a 129. §, 130. § és 132. § rendelkezései megfelelően irányadók; ugyanezeket a rendelkezéseket kell megfelelően alkalmazni a 315. §-ban meghatározott előfeltételek hiánya esetében is.
-
-(2) A fizetési meghagyást – a jogosult külön kérelme hiányában – csak a kötelezett részére kell kézbesíteni. A bíróság a fizetési meghagyást a jogosultnak is kézbesítteti, ha a fizetési meghagyást a (3) bekezdés alapján bocsátja ki.
-
-(3) A 313. § (2) bekezdése alá tartozó esetben beadott keresetlevelet fizetési meghagyás kibocsátására irányuló kérelemként kell elintézni.
-
-(4) Ha a fizetési meghagyás kibocsátásának a 313. § alapján nincs helye, a kérelmet – a fizetési meghagyás kibocsátása nélkül – keresetlevélként az általános szabályok szerint kell elintézni. Ilyen esetben a bíróság felhívja a jogosultat, hogy – amennyiben azt még nem tette meg – nyolc nap alatt az illetéket a peres eljárás illetékére egészítse ki, az ügyre vonatkozó részletes tényállításait adja elő, és bizonyítékait terjessze elő, különben az eljárást megszünteti. Ha a jogosult a kérelemben a 167. § (3) bekezdésének alkalmazásával jelölt meg tanút, a bíróság arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon jelentse be. Ha a jogosult a bíróság felhívásának eleget tesz, az elnök az ügy tárgyalására tűz ki határnapot.
+316. § A fizetési meghagyásos eljárást követő per elintézéséből ki van zárva, és abban, mint bíró, nem vehet részt az ügyben korábban eljáró közjegyző (az őt alkalmazó közjegyző nevében eljáró közjegyzőhelyettes) és az ő 13. § (2) bekezdésében megjelölt hozzátartozója és volt házastársa.

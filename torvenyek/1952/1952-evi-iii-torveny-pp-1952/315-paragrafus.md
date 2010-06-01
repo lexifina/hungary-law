@@ -1,11 +1,19 @@
-## A fizetési meghagyás kibocsátására irányuló kérelem
+## A fizetési meghagyásos eljárást követő peres eljárás
 
-315. § (1) A fizetési meghagyás iránti kérelmet az igazságügyért felelős miniszter rendeletében meghatározott űrlapon kell előterjeszteni; e rendelet a beadványok példányszámát a 93. §-tól eltérően is meghatározhatja. A kérelemre egyebekben – ha e fejezet másként nem rendelkezik – a 93., 94. és 121. § rendelkezései megfelelően irányadók. Azt az okiratot (annak másolatát, kivonatát), amelyre a fél bizonyítékként hivatkozik, csak akkor kell csatolni, ha az a követelés kötelezett által való beazonosításához szükségesnek tűnik. Ingó dolog kiadása iránti követelés esetében a kérelemben azt a pénzösszeget is meg kell jelölni, amelyet a jogosult a dolog helyett elfogadni hajlandó.
+315. § (1) A fizetési meghagyásos eljárás a kötelezett által előterjesztett ellentmondás folytán – az ellentmondással érintett részben – perré alakul.
 
-(2) A kérelemben megjelölhető a természetes személy kötelezett születési helye, ideje, anyja neve, illetve adóazonosító jele; jogi személy, jogi személyiség nélküli szervezet (e fejezetben együtt: jogi személy) kötelezett nyilvántartási száma, illetve adószáma. Az űrlapon a jogosultat erről akként kell tájékoztatni, hogy ezen adatok a követelés későbbi végrehajtását segítik elő.
+(2) A fizetési meghagyásos eljárást az (1) bekezdésben meghatározott eseten kívül akkor is per követi, ha
 
-(3) A kérelem a kötelezett ellen fennálló több követelés tekintetében, valamint több kötelezett ellen fennálló azonos követelés tekintetében együttesen is előterjeszthető. Több kötelezett ellen fennálló követelés esetében az egyes kötelezetteket terhelő összegeket határozottan meg kell jelölni, egyetemleges kötelezettség esetében pedig a kérelemben ezt kell feltüntetni. E rendelkezéseket megfelelően kell alkalmazni arra az esetre, ha a kérelmet több jogosult terjeszti elő.
+a) a fizetési meghagyás kibocsátása iránti kérelmet a közjegyző hivatalból elutasítja, és ezt követően a jogosult a követelés érvényesítése végett a bíróságnál keresetet indít;
 
-(5) A jogosult köteles az űrlapnak mind a kérelem előterjesztésére, mind a meghagyás kibocsátására szolgáló részét a 121. §, illetve a 317. § (3) bekezdésének megfelelően kiállítani azzal, hogy a 167. § (3) bekezdésének alkalmazása esetén a tanú személyi adatait külön lapon sem kell bejelenteni. Ha a jogosult a kérelmet nem az arra rendszeresített űrlapon terjesztette elő – ideértve a 316. § (3) bekezdésében foglalt esetet is –, vagy ha a fél az űrlapot nem megfelelően töltötte ki, illetve nem csatolta a szükséges példányszámban, őt a bíróság a hiányok pótlására hívja fel. A 124. § (2) bekezdését a fizetési meghagyásos eljárásban is megfelelően alkalmazni kell azzal az eltéréssel, hogy a 121/A. § (2) bekezdésében meghatározott iratokat nem kell csatolni.
+b) a fizetési meghagyásos eljárást a közjegyző végzéssel megszünteti, és ezt követően a jogosult a követelés érvényesítése végett a bíróságnál keresetet indít.
 
-(6) A fizetési meghagyás kibocsátása iránti kérelem előterjesztésének ugyanaz a hatálya, mint a keresetlevél beadásának.
+(3) A (2) bekezdésben meghatározott esetekben a fizetési meghagyás kibocsátása iránti kérelem beadásának joghatályai – a (2) bekezdés b) pontja esetén a meghagyás kötelezett részére történő kézbesítésének joghatályai is – fennmaradnak, ha a keresetlevelet az elutasító vagy megszüntető végzés jogerőre emelkedését követő harminc napon belül a jogosult a bírósághoz
+
+a) benyújtja vagy annak címére ajánlott küldeményként postára adja,
+
+(4) A (3) bekezdés szerinti határidő elmulasztása esetén igazolásnak nincs helye. A keresetlevélhez mellékelni kell a kérelmet elutasító, illetve az eljárást megszüntető végzést.
+
+(5) A fizetési meghagyás kibocsátása iránti kérelem előterjesztésének ugyanaz a hatálya, mint a keresetlevél beadásának. A fizetési meghagyás kézbesítésének ugyanaz a hatálya, mint a keresetlevél kézbesítésének (128. §).
+
+(6) A (2) bekezdésben meghatározott esetekben a 314. § (1) és (2) bekezdése alkalmazásának nincs helye.

@@ -4,6 +4,6 @@
 
 (3) A bíróság a (2) bekezdésben foglalt kézbesítési vélelem beálltát nem állapítja meg, ha a kézbesítés helyettes átvevő részére történt meg és a helyettes átvevő az ellenérdekű fél volt.
 
-(4) Keresetlevél (fizetési meghagyás), illetve az eljárást befejező érdemi határozat kézbesítése esetében a bíróság a kézbesítési vélelem beállásáról a feleket nyolc munkanapon belül értesíti. Az értesítéshez mellékelni kell azt a hivatalos iratot, amelyre vonatkozóan a bíróság a kézbesítési vélelem beálltát megállapította. Az értesítésben – keresetlevél (fizetési meghagyás) esetében – a bíróság tájékoztatja a felet a 128. §-ban foglaltakról is.
+(4) Keresetlevél, illetve az eljárást befejező érdemi határozat kézbesítése esetében a bíróság a kézbesítési vélelem beállásáról a feleket nyolc munkanapon belül értesíti. Az értesítéshez mellékelni kell azt a hivatalos iratot, amelyre vonatkozóan a bíróság a kézbesítési vélelem beálltát megállapította. Az értesítésben – keresetlevél esetében – a bíróság tájékoztatja a felet a 128. §-ban foglaltakról is.
 
 (5) A címzett a neki szóló iratot – személyazonosságának igazolása mellett – a bírósági irodában is átveheti.

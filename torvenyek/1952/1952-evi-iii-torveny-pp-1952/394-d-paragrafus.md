@@ -13,5 +13,3 @@
 (6) A fél – kivéve ha számára e törvény szerint az elektronikus kézbesítés kötelező – papír alapon vagy elektronikus adathordozón a szakértő rendelkezésére bocsáthatja a hivatalos irat mellékletét. A szakértőnek, ha az elektronikus kézbesítést vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. Ha a fél számára az elektronikus kézbesítés kötelező és a szakértő az elektronikus kézbesítést vállalta, a fél a mellékletet a szakértő részére elektronikusan küldi meg.
 
 (7) Ha a szakértő az elektronikus kézbesítést nem vállalja, részére az iratokat papír alapon kell kézbesíteni.
-
-(8) A (7) bekezdésben foglalt esetben a szakértőnek a papír alapú szakvélemény benyújtásával együtt a szakvéleményt elektronikus adathordozón is be kell nyújtania. A szakértő felel azért, hogy a papír alapú szakvélemény tartalma megegyezik az elektronikus adathordozón benyújtott dokumentum tartalmával. Az adathordozót a bíróság nem köteles visszaszolgáltatni. A bíróság az elektronikus adathordozón benyújtott szakvéleményt az elektronikus kézbesítést vállaló fél számára elektronikusan kézbesíti.

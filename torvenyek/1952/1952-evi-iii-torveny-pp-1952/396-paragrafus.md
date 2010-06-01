@@ -1,1 +1,0 @@
-396. § E törvény alkalmazásában vállalkozás az olyan – a cégnyilvántartásban nyilvántartott – jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre.

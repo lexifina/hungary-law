@@ -1,7 +1,3 @@
-321. § (1) Ha a fizetési meghagyást ellentmondással a 319. § (1) bekezdésében meghatározott határidőn belül nem támadták meg, annak ugyanolyan hatálya van, mint a jogerős ítéletnek, s ellene a XIII. fejezet megfelelő alkalmazásával perújításnak van helye.
+321. § (1) A fizetési meghagyásos eljárást követő perben a 130. § (1) bekezdésének a)–h) pontjára tekintettel helye lehet a per megszüntetésének, illetve a 315. § (2) bekezdésének a) pontjában meghatározott esetben – ha a 128. § szerinti joghatályok nem maradnak fenn, akkor a 315. § (2) bekezdésének b) pontjában meghatározott esetben is – a keresetlevél idézés kibocsátása nélküli elutasításának is.
 
-(2) Ha a kötelezett a fizetési meghagyást kellő időben ellentmondással nem támadja meg, a bíróság a meghagyásnak a kérelem előterjesztésével egyidejűleg evégből benyújtott példányát jogerősítési záradékkal látja el, és így kézbesítteti a jogosultnak. Ha a fizetési meghagyást a kötelezett nem vette át, és ezért azt a 99. § (2) bekezdése alapján kell a részére kézbesítettnek tekinteni, a bíróság tájékoztatja a jogosultat a 320. §-ban, valamint a Vht. 31/D. §-ában foglaltakról.
-
-(3) Ha a jogerős fizetési meghagyást a 320. §-ban meghatározott határidőn belül ellentmondással megtámadják, a meghagyás hatályát veszti, feltéve, ha az ellentmondást a bíróság hivatalból nem utasítja el.
-
-(4) Ha az ellentmondás elkésett, vagy az nem az ellentmondás előterjesztésére jogosulttól származik, a bíróság azt hivatalból elutasítja.
+(2) A 157/A. § alkalmazása során nem tekinthető írásbeli védekezésnek a fizetési meghagyással szemben előterjesztett ellentmondás.
