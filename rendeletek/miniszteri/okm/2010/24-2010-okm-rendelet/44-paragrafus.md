@@ -1,5 +1,0 @@
-## 43. § A Rendelet 5. számú melléklet HITÉLETI SZAKOK I. VALAMENNYI EGYHÁZI FELSŐOKTATÁSI INTÉZMÉNY TEKINTETÉBEN kiegészül e rendelet 80. melléklete szerinti rendelkezésekkel.
-
-44. § (1) A Rendelet 5. számú melléklet HITÉLETI SZAKOK II. KATOLIKUS HITÉLETI SZAKOK 1. KATOLIKUS TEOLÓGUS MESTERKÉPZÉSI SZAK EGYSÉGES, OSZTATLAN KÉPZÉS tekintetében az 1. A mesterképzési szak megnevezése, a 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint a 6. A képzés célja pont rendelkezései helyére e rendelet 81. melléklete szerinti rendelkezések lépnek.
-
-(2) A Rendelet 5. számú melléklet HITÉLETI SZAKOK II. KATOLIKUS HITÉLETI SZAKOK 2. KATOLIKUS KÁNONJOGÁSZ MESTERKÉPZÉSI SZAK, valamint 3. PASZTORÁLIS TANÁCSADÁS ÉS SZERVEZETFEJLESZTÉS MESTERKÉPZÉSI SZAK tekintetében az 1. A mesterképzési szak megnevezése, a 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint a 7. A képzés célja pont rendelkezései helyére e rendelet 82. melléklete szerinti rendelkezések lépnek.

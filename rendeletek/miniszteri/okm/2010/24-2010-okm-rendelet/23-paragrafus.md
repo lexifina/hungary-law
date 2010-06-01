@@ -1,5 +1,0 @@
-## 22. § A Rendelet 3. számú melléklet IV. AGRÁR KÉPZÉSI TERÜLET kiegészül e rendelet 38. melléklete szerinti rendelkezésekkel.
-
-23. § (1) A Rendelet 3. számú melléklet V. JOGI ÉS IGAZGATÁSI KÉPZÉSI TERÜLET 1. RENDÉSZETI VEZETŐ MESTERKÉPZÉSI SZAK, 2. KÖZIGAZGATÁSI MESTERKÉPZÉSI SZAK, valamint 4. EURÓPAI NEMZETKÖZI IGAZGATÁS MESTERKÉPZÉSI SZAK tekintetében az 1. A mesterképzési szak megnevezése, a 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint a 10. Idegennyelv-ismeret követelményei pont rendelkezései helyére e rendelet 39. melléklete szerinti rendelkezések lépnek.
-
-(2) A Rendelet 3. számú melléklet V. JOGI ÉS IGAZGATÁSI KÉPZÉSI TERÜLET 3. JOGÁSZ MESTERKÉPZÉSI SZAK EGYSÉGES, OSZTATLAN KÉPZÉS tekintetében az 1. A mesterképzési szak megnevezése, a 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése, valamint a 9. Idegennyelv-ismeret követelményei pont rendelkezései helyére e rendelet 40. melléklete szerinti rendelkezések lépnek.
