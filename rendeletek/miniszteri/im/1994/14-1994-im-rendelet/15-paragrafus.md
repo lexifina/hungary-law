@@ -1,4 +1,4 @@
-## 15. §[^26]
+## 15. §[^27]
 
 (1) Ha a végrehajtó a helyszíni eljárás alkalmával saját személygépjárművén szállít lefoglalt ingóságot, csak utazási költségátalányt számíthat fel, szállítási költséget nem. Ha tehergépjárművén szállít lefoglalt ingóságot, választhat, hogy utazási költségátalányt vagy szállítási költséget számít fel.
 
@@ -12,4 +12,4 @@ c) az indulás és az érkezés időpontját,
 
 d) a felszámított költséget.
 
-[^26]: A 15. § a 20/1998. (XII. 21.) IM rendelet 6. §-ával megállapított szöveg.
+[^27]: A 15. § a 20/1998. (XII. 21.) IM rendelet 6. §-ával megállapított szöveg.

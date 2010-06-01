@@ -18,5 +18,8 @@
 
 (4) A végrehajtási kérelem elkészítéséért és a bírósághoz való továbbításáért (Vht. 12/A. §) járó munkadíj összege a végrehajtandó követelés járulékok nélkül számított összegének 1%-a, de legalább 2000 Ft.
 
+(5)[^16] Ha a végrehajtási kérelem kizárólag az adós végrehajtható okiratban megjelölt fizetési számláján lévő összeg behajtására vagy az adós végrehajtható okiratban megjelölt munkabérének letiltására irányul, a munkadíj összege a végrehajtási ügyérték 0,5%-a, de legalább 4000 Ft; ezt az összeget a végrehajtást kérő kérelme alapján egyéb vagyontárgyakra tovább folytatott eljárásért az általános szabályok szerint járó munkadíj összegébe be kell számítani.
+
 [^14]: A 8. § a 20/2001. (XII. 10.) IM rendelet 3. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (2) bekezdése alapján 2001. 12. 18. napját követően a végrehajtóhoz érkezett ügyekben kell alkalmazni.
 [^15]: A 8. § (3) bekezdését a 8/2008. (III. 1.) IRM rendelet 8. § a) pontja hatályon kívül helyezte, újonnan a 49/2009. (IX. 28.) IRM rendelet 7. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (1)–(2) bekezdését.
+[^16]: A 8. § (5) bekezdését a 27/2010. (V. 11.) IRM rendelet 9. §-a iktatta be.
