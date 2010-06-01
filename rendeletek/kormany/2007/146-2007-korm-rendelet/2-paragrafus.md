@@ -1,6 +1,6 @@
 ## ÉRTELMEZŐ RENDELKEZÉSEK
 
-2. §[^1] (1) E rendelet alkalmazásában:
+2. §[^2] (1) E rendelet alkalmazásában:
 
 1. Alapkutatás: a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény (a továbbiakban: Atv.) 12. §-ának a) pontjában meghatározott alapkutatás;
 
@@ -86,4 +86,4 @@
 
 (5) A 2. § 30. pontjának alkalmazásában nem minősülnek szervezési innovációnak: az üzleti gyakorlatban, a munkahelyi szervezetben vagy külső kapcsolatokban eszközölt olyan változtatások, amelyek a vállalkozáson belül már alkalmazott szervezési módszereken alapulnak, a vezetési stratégia megváltoztatása, a fúziók és felvásárlások, egy eljárás alkalmazásának beszüntetése, az egyszerű tőkepótlás vagy tőkenövelés, a kizárólag az értékesítési árak megváltoztatásához köthető változások, az egyedi igényekhez igazítás, a rendes szezonális és egyéb ciklikus változások, az új vagy jelentősen továbbfejlesztett termékekkel folytatott kereskedelem.
 
-[^1]: A 2. § a 230/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 230/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg.

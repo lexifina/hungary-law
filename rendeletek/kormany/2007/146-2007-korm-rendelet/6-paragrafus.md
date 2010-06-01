@@ -1,6 +1,6 @@
 ## A támogatás mértéke
 
-6. §[^20] (1)[^21] K+F projekttámogatás esetén az egyes projektekhez nyújtott, ugyanazon elszámolható költségekre vonatkozó, bármely támogatás intenzitása (konzorcium esetében konzorciumi tagonként) nem haladhatja meg a (2)–(4) bekezdésekben meghatározott mértékeket.
+6. §[^21] (1)[^22] K+F projekttámogatás esetén az egyes projektekhez nyújtott, ugyanazon elszámolható költségekre vonatkozó, bármely támogatás intenzitása (konzorcium esetében konzorciumi tagonként) nem haladhatja meg a (2)–(4) bekezdésekben meghatározott mértékeket.
 
 (2) A maximális támogatási intenzitás
 
@@ -36,5 +36,5 @@ c) kizárólag ipari kutatás esetében, amennyiben a projekt eredményeit szél
 
 (5) A (4) bekezdés a) és b) pontjainak alkalmazása során az alvállalkozásba adás nem minősül tényleges együttműködésnek.
 
-[^20]: A 6. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
-[^21]: A 6. § (1) bekezdése a 230/2009. (X. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: A 6. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
+[^22]: A 6. § (1) bekezdése a 230/2009. (X. 16.) Korm. rendelet 3. §-ával megállapított szöveg.

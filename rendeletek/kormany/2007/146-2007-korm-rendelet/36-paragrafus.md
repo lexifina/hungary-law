@@ -1,5 +1,5 @@
-## 34–35. §[^57]
+## 34–35. §[^59]
 
 ## Az elszámolható költségek
 
-[^57]: A 34–35. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^59]: A 34–35. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.

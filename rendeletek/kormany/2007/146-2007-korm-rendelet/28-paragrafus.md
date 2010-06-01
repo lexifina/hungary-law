@@ -1,10 +1,10 @@
-## 27. §[^47]
+## 27. §[^48]
 
-## REGIONÁLIS TÁMOGATÁSOK[^48]
+## REGIONÁLIS TÁMOGATÁSOK[^49]
 
-## A regionális beruházási és foglalkoztatási támogatásokra vonatkozó szabályok[^49]
+## A regionális beruházási és foglalkoztatási támogatásokra vonatkozó szabályok[^50]
 
-28. §[^50] (1) E rendelet alapján regionális beruházási támogatás csak abban az esetben nyújtható, ha a beruházás az alábbi célt szolgálja:
+28. §[^51] (1) E rendelet alapján regionális beruházási támogatás csak abban az esetben nyújtható, ha a beruházás az alábbi célt szolgálja:
 
 a tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
 
@@ -36,7 +36,7 @@ b) középvállalkozásnak minősül, akkor – szállítási ágazat és nagybe
 
 (6) A vállalkozásnak nyújtott támogatásnak minősülő kockázati tőkejuttatás esetén a 85/2004. Korm. rendelet 6/A. §-a megfelelően alkalmazandó.
 
-[^47]: A 27. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^48]: A 28. §-t megelőző címet a 230/2009. (X. 16.) Korm. rendelet 4. §-a iktatta be.
-[^49]: A 28. §-t megelőző alcím a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^50]: A 28. § a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^48]: A 27. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^49]: A 28. §-t megelőző címet a 230/2009. (X. 16.) Korm. rendelet 4. §-a iktatta be.
+[^50]: A 28. §-t megelőző alcím a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^51]: A 28. § a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.

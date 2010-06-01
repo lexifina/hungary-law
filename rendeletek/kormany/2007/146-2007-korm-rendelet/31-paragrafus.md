@@ -1,8 +1,8 @@
-## 30. §[^53]
+## 30. §[^54]
 
 ## A beruházási támogatás igénybevételének további szabályai
 
-31. §[^54] (1) A támogatás akkor vehető igénybe, amennyiben a kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől (üzembe helyezés időpontjától) számított legalább öt évig – kis- és középvállalkozások esetében legalább három évig – fenntartja (kötelező üzemeltetési időszak) az érintett régióban.
+31. §[^55] (1) A támogatás akkor vehető igénybe, amennyiben a kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől (üzembe helyezés időpontjától) számított legalább öt évig – kis- és középvállalkozások esetében legalább három évig – fenntartja (kötelező üzemeltetési időszak) az érintett régióban.
 
 (2) Az (1) bekezdésben megfogalmazott követelmény nem akadályozza a gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált üzem, illetve eszköz cseréjét, amennyiben a fenntartási időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A korszerűtlenné vált üzem, illetve eszköz és azok cseréjét követő fenntartási időszakban a kedvezményezett az üzem vagy az eszköz cseréjére támogatásban nem részesülhet.
 
@@ -24,11 +24,12 @@ d) a kedvezményezett immateriális eszközeként tartja nyilván azokat, a kedv
 
 (7) A beruházáshoz kapcsolódóan csak az annak megvalósításához feltétlenül szükséges ingatlan megvásárlásának költsége számolható el. Az ingatlan megvásárlása feltétlenül szükséges eseteinek körét a pályázati dokumentáció határozza meg.
 
-(8) A támogatott beruházással létrehozott vagyon vagy beszerzett vagyonelem hasznosítására, illetve átruházására a Rendelet 18. § (8)–(9) bekezdésében meghatározott feltételek mellett kerülhet sor.
+(8)[^56]
 
 (9) Amennyiben a támogatás kiszámítása a bérköltségek alapján történik, a támogathatóság feltétele, hogy a munkahelyeket közvetlenül a beruházási projekt hozza létre, valamint a munkahelyeket a beruházás befejezésétől számított 3 éven belül létre kell hozni és a munkahelyeket legalább öt évig, kis- és középvállalkozások esetén 3 évig fenn kell tartani.
 
 (10) Munkahelyteremtést szolgáló beruházás esetén a támogatás igénybevételének feltétele, hogy az újonnan létrehozott munkakörökben foglalkoztatott nettó munkavállalói létszám a kérelem (pályázat) benyújtását megelőző 12 hónap átlagában a kedvezményezett adott székhelyén, telephelyén, fióktelepén közvetlenül teljes munkaidőben alkalmazott személyek számához képest növekedjen. Az újonnan létrehozott munkakörök számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak – munkaidejükhöz mérten – a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg.
 
-[^53]: A 30. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^54]: A 31. § a 230/2009. (X. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^54]: A 30. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^55]: A 31. § a 230/2009. (X. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^56]: A 31. § (8) bekezdését a 146/2010. (IV. 29.) Korm. rendelet 73. § (1) bekezdés c) pontja hatályon kívül helyezte.
