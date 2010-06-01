@@ -1,0 +1,1 @@
+## 11. § Ha a közjegyzőhöz egy héten belül több mint 20 fizetési meghagyásos eljárást követő végrehajtás elrendelése iránti kérelem érkezik papír alapon, a közjegyző kérheti, hogy az ebben az időszakban postai úton érkező fizetési meghagyás kibocsátása iránti kérelem intézésére a közjegyzői kamara elnöke (elnökhelyettese) másik közjegyzőt jelöljön ki.
