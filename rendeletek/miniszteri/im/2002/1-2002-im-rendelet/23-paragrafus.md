@@ -1,4 +1,4 @@
-## 22/A. §[^22] Az árverezők elektronikus nyilvántartásába történő bejegyzési (módosítási, törlési) ügy nyilvántartását a kamara végzi külön jogszabály rendelkezései szerint.
+## 22/A. §[^29] Az árverezők elektronikus nyilvántartásába történő bejegyzési (módosítási, törlési) ügy nyilvántartását a kamara végzi külön jogszabály rendelkezései szerint.
 
 ## Az ügyintézés sorrendje
 
@@ -12,4 +12,4 @@ b) biztosítási intézkedést kell végrehajtani,
 
 c) a felügyelő szerv az ügy soron kívüli elintézését rendelte el.
 
-[^22]: A 22/A. §-t a 28/2008. (XII. 10.) IRM rendelet 1. § (4) bekezdése iktatta be.
+[^29]: A 22/A. §-t a 28/2008. (XII. 10.) IRM rendelet 1. § (4) bekezdése iktatta be.

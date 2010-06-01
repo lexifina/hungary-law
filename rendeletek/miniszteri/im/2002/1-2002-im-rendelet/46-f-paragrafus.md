@@ -1,6 +1,6 @@
 ## Eljárás az őrzési idő leteltét követően
 
-46/F. §[^61] (1) A selejtezésről és a levéltárba történő átadásról négy példányban jegyzőkönyvet kell készíteni. A jegyzőkönyv a következőket tartalmazza:
+46/F. §[^74] (1) A selejtezésről és a levéltárba történő átadásról négy példányban jegyzőkönyvet kell készíteni. A jegyzőkönyv a következőket tartalmazza:
 
 a) az őrzési idő leteltét követően tett intézkedés (selejtezve),
 
@@ -30,4 +30,4 @@ c) a végrehajtási ügy típusa,
 
 d) a végrehajtást elrendelő bíróság neve.
 
-[^61]: A 46/F. §-t és az előtte lévő alcímet a 4/2004. (II. 27.) IM rendelet 1. § (7) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^74]: A 46/F. §-t és az előtte lévő alcímet a 4/2004. (II. 27.) IM rendelet 1. § (7) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

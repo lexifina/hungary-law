@@ -1,4 +1,4 @@
-28/A. §[^25] (1) Ha a végrehajtó írásbeli intézkedésként papír alap helyett elektronikus úton bocsát ki megkeresést vagy tesz intézkedést, az ilyen megkeresést vagy intézkedést tartalmazó elektronikus iratra (a továbbiakban: elektronikus intézkedés) az írásbeli intézkedésre vonatkozó rendelkezések az e §-ban foglalt eltérésekkel alkalmazandók.
+28/A. §[^33] (1) Ha a végrehajtó írásbeli intézkedésként papír alap helyett elektronikus úton bocsát ki megkeresést vagy tesz intézkedést, az ilyen megkeresést vagy intézkedést tartalmazó elektronikus iratra (a továbbiakban: elektronikus intézkedés) az írásbeli intézkedésre vonatkozó rendelkezések az e §-ban foglalt eltérésekkel alkalmazandók.
 
 (2) Az elektronikus intézkedés a 28. § (1) és (2) bekezdésében foglaltakat tartalmazza azzal az eltéréssel, hogy a végrehajtó aláírását és bélyegzőjének lenyomatát az elektronikus intézkedés hivatali elektronikus aláírással való ellátása helyettesíti.
 
@@ -16,4 +16,4 @@ b) az adatigénylés teljesítéséhez szükséges, az ellenőrzött személyre 
 
 c) a végrehajtó hivatali elektronikus aláírását.
 
-[^25]: A 28/A. §-t a 6/2008. (III. 1.) IRM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 28/A. §-t a 6/2008. (III. 1.) IRM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

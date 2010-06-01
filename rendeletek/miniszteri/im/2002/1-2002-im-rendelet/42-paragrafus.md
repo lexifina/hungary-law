@@ -6,6 +6,6 @@
 
 (3) Az irodát úgy kell kialakítani, hogy a felek fogadására is alkalmas legyen.
 
-(4)[^45] Az önálló bírósági végrehajtó a székhelyén külön irodát tarthat fenn a végrehajtói kézbesítési ügyek intézésére (a továbbiakban: kézbesítési iroda). A kézbesítési irodára az irodára vonatkozó szabályokat kell alkalmazni; a kézbesítési iroda – függetlenül az iroda fenntartásának módjától – másik önálló bírósági végrehajtóval közösen is működtethető.
+(4)[^57] Az önálló bírósági végrehajtó a székhelyén külön irodát tarthat fenn a végrehajtói kézbesítési ügyek intézésére (a továbbiakban: kézbesítési iroda). A kézbesítési irodára az irodára vonatkozó szabályokat kell alkalmazni; a kézbesítési iroda – függetlenül az iroda fenntartásának módjától – másik önálló bírósági végrehajtóval közösen is működtethető.
 
-[^45]: A 42. § (4) bekezdését a 27/2004. (VIII. 26.) IM rendelet 1. § (11) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^57]: A 42. § (4) bekezdését a 27/2004. (VIII. 26.) IM rendelet 1. § (11) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
