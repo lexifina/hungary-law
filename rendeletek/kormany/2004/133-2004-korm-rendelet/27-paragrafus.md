@@ -1,3 +1,0 @@
-## 26. §[^81] A programok és a pályázati kiírások közzétételére, valamint az államháztartáson kívüli szervek és természetes személyek pályázatának (kérelmének) beérkezésére, ezek kezelésének rendjére, az összeférhetetlenségi szabályok alkalmazására a közpénzekből nyújtott támogatások átláthatóságáról szóló külön törvényben és végrehajtási rendeletében foglaltakat is alkalmazni kell.
-
-[^81]: A 26. §-t a 392/2007. (XII. 27.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte, újonnan a 209/2008. (VIII. 27.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 15. § (3) bekezdése alapján a rendelkezést a 2008. szeptember 4. napján folyamatban lévő pályázati programok, illetve azok finanszrozására is alkalmazni kell.
