@@ -1,8 +1,8 @@
 ## Kézbesítés
 
-15. § (1) A belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező jogosult a fizetési meghagyás kibocsátása iránti kérelem előterjesztésével egyidejűleg a Pp. 100/A. § megfelelő alkalmazásával köteles belföldi idézési című kézbesítési megbízottat megjelölni.
+15. § (1) A belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező jogosult a fizetési meghagyás kibocsátása iránti kérelem előterjesztésével egyidejűleg köteles belföldi idézési című kézbesítési megbízottat megjelölni.
 
-(2) Az (1) bekezdésben foglalt kötelezettség elmulasztása esetén a fizetési meghagyás kibocsátása iránti kérelmet el kell utasítani, és az erről rendelkező végzést a jogosult részére hirdetmény útján kell kézbesíteni.
+(2) Az (1) bekezdésben foglalt kötelezettség elmulasztása esetén a fizetési meghagyás kibocsátása iránti kérelmet hiánypótlási felhívás kibocsátása nélkül el kell utasítani, és az erről rendelkező végzést a jogosult részére hirdetmény útján kell kézbesíteni.
 
 (3) Ha a kézbesítési megbízott megjelölésének kötelezettségét eredményező, az (1) bekezdésben foglalt körülmények az eljárásnak a fizetési meghagyás kibocsátása iránti kérelem előterjesztését követő szakaszában állnak be, és a jogosult kézbesítési megbízottat nem jelölt meg, erre tekintettel hiánypótlás elrendelésének vagy a jogosult külön felhívásának nincs helye, az iratot ilyen esetben hirdetmény útján kell a jogosultnak kézbesíteni.
 
