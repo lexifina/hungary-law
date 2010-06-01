@@ -1,1 +1,0 @@
-## „(4) Külföldi gyermek csereüdülésen a 3. § a) pont 1–3. alpontjában, továbbá szabad kapacitás esetén a 3. § a) pont 4–5. és 8. alpontjában meghatározott igényjogosult gyermeke – pedagógus felügyeletével – vehet részt. A résztvevők életkorát, az üdülés időtartamát szerződés határozza meg.”
