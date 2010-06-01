@@ -8,7 +8,7 @@
 
 3. csatolás: valamely ügyiratnak más ügyirattal való átmeneti összekapcsolása;
 
-4.[^4] egyesítés: több folyamatban lévő ügy összes iratának a legkorábban nyilvántartásba vett ügy száma alatti kezelése;
+4.[^5] egyesítés: több folyamatban lévő ügy összes iratának a legkorábban nyilvántartásba vett ügy száma alatti kezelése;
 
 5. érkeztetés: a közjegyzőhöz érkezett beadványon (annak valamennyi példányán és mellékletén) a beadvány érkezése időpontjának (év, hónap, nap) és ügyszámának a rögzítése;
 
@@ -34,11 +34,11 @@
 
 16. küldemény: a beérkezett, illetve továbbításra előkészített irat, elektronikus úton érkezett vagy küldött elektronikus irat, továbbá pénz, egyéb értéktárgy;
 
-17–18.[^5]
+17–18.[^6]
 
 19. melléklet: valamely irat (beadvány) szerves tartozéka, annak kiegészítő része, amely elválaszthatatlan az irattól;
 
-20.[^6] mutatókönyv: a nyilvántartásba bejegyzett ügyek címszó szerint meghatározott résztvevőiről vezetett betűrendes nyilvántartás;
+20.[^7] mutatókönyv: a nyilvántartásba bejegyzett ügyek címszó szerint meghatározott résztvevőiről vezetett betűrendes nyilvántartás;
 
 21. sorszám: a kezdőiratot követően érkezett és keletkezett iratok folyamatosan emelkedő arab számjeggyel történő jelölése;
 
@@ -58,6 +58,6 @@
 
 29. ügyszám: az ügy azonosítására szolgáló megjelölés.
 
-[^4]: A 2. § 4. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § 17–18. pontját a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^6]: A 2. § 20. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
+[^5]: A 2. § 4. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 17–18. pontját a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^7]: A 2. § 20. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.

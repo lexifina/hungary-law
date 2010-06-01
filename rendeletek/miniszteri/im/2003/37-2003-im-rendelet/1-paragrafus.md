@@ -22,6 +22,8 @@ g) a bejegyzett élettársi kapcsolat megszüntetésére irányuló eljárás,
 
 h)[^3] az Élettársi Nyilatkozatok Nyilvántartásának vezetésével kapcsolatos eljárás
 
+i)[^4] a közjegyző végzése – ide nem értve a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtása, biztosítási intézkedés elrendelése iránti eljárás során hozott végzéseket –, a közjegyző által jóváhagyott egyezség, a közjegyző díjjegyzéke és a közjegyzői okirat végrehajtásának elrendelésével kapcsolatos eljárás
+
 ## során a közjegyzők ügyvitelére terjed ki.
 
 (2) E rendelet rendelkezéseit külön jogszabály eltérő rendelkezése hiányában kell alkalmazni. A közjegyző e rendelet szerinti eljárása során a közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendeletnek az általános ügyvitelre, a bizalmi őrzésre és a névmutatóra vonatkozó szabályait is alkalmazni kell.
@@ -31,3 +33,4 @@ h)[^3] az Élettársi Nyilatkozatok Nyilvántartásának vezetésével kapcsolat
 [^1]: Az 1. § (1) bekezdése a 27/2009. (VI. 30.) IRM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés f) pontja a 83/2009. (XII. 30.) IRM rendelet 19. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés h) pontját a 83/2009. (XII. 30.) IRM rendelet 19. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (1) bekezdés i) pontját a 28/2010. (V. 12.) IRM rendelet 35. §-a iktatta be.
