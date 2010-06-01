@@ -1,0 +1,3 @@
+45. § (1) A pályázatkezelő a támogatási szerződéstől történő elállás nélkül is elrendelheti a támogatás részleges visszafizetését, ha a támogatás egy részét a kedvezményezett jogszabályba vagy a támogatási szerződésbe ütköző módon használta fel.
+
+(2) A jogosulatlanul igénybe vett támogatást a visszafizetésre történő felszólítás időpontjában érvényes, a Ptk. szerinti késedelmi kamatnak megfelelő mértékű kamattal növelt összeggel kell visszafizetnie a kedvezményezettnek. A kamatszámítás kezdő időpontja a támogatás folyósításának napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.
