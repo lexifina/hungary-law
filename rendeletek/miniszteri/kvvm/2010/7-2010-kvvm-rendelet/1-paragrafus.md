@@ -1,0 +1,1 @@
+1. § (1) Az egyes tevékenységek és berendezések illékony szerves vegyület kibocsátásának korlátozásáról szóló 10/2001. (IV. 19.) KöM rendelet (a továbbiakban: KöM rendelet) 1. §-át megelőző alcíme helyébe a következő alcím lép:

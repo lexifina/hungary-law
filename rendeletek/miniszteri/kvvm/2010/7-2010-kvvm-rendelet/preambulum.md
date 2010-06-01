@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8) bekezdés m) pontjában kapott felhatalmazás alapján – a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
