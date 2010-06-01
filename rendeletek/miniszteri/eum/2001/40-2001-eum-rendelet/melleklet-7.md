@@ -20,7 +20,7 @@
 
 ## [6] Csak a test nagy felületére felvitt termékeket érinti.
 
-## [7] A fürdéshez használt készítmények/tusfürdők, valamint samponok kivételével kizárólag azok a termékek, amelyek három év alatti gyermekek esetében használhatók.
+## [7] A fürdéshez használt keverékek/tusfürdők, valamint samponok kivételével kizárólag azok a termékek, amelyek három év alatti gyermekek esetében használhatók.
 
 ## [8] Kizárólag azok a termékek, amelyek három év alatti gyermekek esetében használhatók.
 
@@ -138,7 +138,7 @@
 
 | 55 | Benzilhemiformal | 0,15% | Csak leöblítésre kerülő termékben |  |
 
-| 56 | jodo-propinil-butil-karbamát (JPBK) 3-jodo-2-propinil-butil-karbamát CAS-szám: 55406-53-6 | a) leöblítendő termékek esetén: 0,02% b) leöblítésre nem kerülő termékek esetén: 0,01%, kivéve az alábbi termékekben: dezodorok és izzadásgátlók: 0,0075% | Száj- és ajakápolási termékekben nem használható a) Három év alatti gyermekeknek szánt termékekben nem használható, kivéve fürdéshez használt készítmények/tusfürdők, valamint samponok b) – Testápolókban és testkrémekben nem használható [6] – Három év alatti gyermekeknek szánt termékekben nem használható | a) ,,Három év alatti gyermekek esetében nem használható” [7] b) ,,Három év alatti gyermekek esetében nem használható” [8] |
+| 56 | jodo-propinil-butil-karbamát (JPBK) 3-jodo-2-propinil-butil-karbamát CAS-szám: 55406-53-6 | a) leöblítendő termékek esetén: 0,02% b) leöblítésre nem kerülő termékek esetén: 0,01%, kivéve az alábbi termékekben: dezodorok és izzadásgátlók: 0,0075% | Száj- és ajakápolási termékekben nem használható a) Három év alatti gyermekeknek szánt termékekben nem használható, kivéve fürdéshez használt keverékek/tusfürdők, valamint samponok b) – Testápolókban és testkrémekben nem használható [6] – Három év alatti gyermekeknek szánt termékekben nem használható | a) ,,Három év alatti gyermekek esetében nem használható” [7] b) ,,Három év alatti gyermekek esetében nem használható” [8] |
 
 | 57. | Methyl-isothiazolinone (INCI) | 0,01% |  |  |
 

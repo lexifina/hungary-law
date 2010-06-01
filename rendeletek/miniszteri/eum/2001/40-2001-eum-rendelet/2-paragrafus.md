@@ -4,9 +4,9 @@
 
 (3)[^8] A rendelet szempontjából gyártásnak minősül az üzemi előkészítési, feldolgozási, csomagolási műveletek összessége (a továbbiakban: gyártási tevékenység), melynek során a termék összetételében változás következhet be, illetve amely a termék biztonságos használatát befolyásolhatja.
 
-(4) Kozmetikai terméket tilos előállítani veszélyes anyag vagy készítmény, illetve gyógyszer előállítására szolgáló üzemrészben.
+(4)[^9] Kozmetikai terméket tilos előállítani veszélyes anyag vagy keverék, illetve gyógyszer előállítására szolgáló üzemrészben.
 
-(5)[^9] Tilos olyan kozmetikai terméket forgalomba hozni, amely az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló külön jogszabály[^10] szerint rákkeltő, mutagén vagy reprodukció-károsító 1., 2. és 3. kategóriájú veszélyes anyagokat tartalmaz. A 3. kategóriájú anyag a kozmetikai termékben felhasználható, ha az anyagot a Fogyasztóknak Szánt Kozmetikai Termékek és Nem Élelmiszer Termékek Tudományos Bizottsága (SCCNFP) értékelte és az anyagot a kozmetikai termékben való felhasználásra alkalmasnak találta.
+(5)[^10] Az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet VI. mellékletének 3. része alapján az 1A., 1B. és 2. kategóriába tartozó karcinogénnek, mutagénnek vagy reproduktív toxicitással rendelkezőnek minősített anyagok kozmetikai termékekben való felhasználása tilos.
 
 (6)[^11] Tilos olyan kozmetikai terméket (ideértve a mintapéldányt is) forgalomba hozni, amelynek végső összetételét – az ismételt dózis toxicitással, a reproduktív toxicitással és a toxikokinetikával kapcsolatos vizsgálatok kivételével – az e rendelet követelményeinek való megfelelés érdekében, alternatív módszer európai közösségi szintű hivatalos elfogadását követően az alternatív módszertől eltérően állatkísérlet felhasználásával igazolták.
 
@@ -17,8 +17,8 @@
 [^6]: A 2. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 14. § (7) bekezdésének c) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 14. § (6) bekezdésének c) pontja szerint módosított szöveg.
-[^9]: A 2. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 2. § (2) bekezdése iktatta be, e módosító rendelet 14. § (2) bekezdése alapján 2004. szeptember 11. napján lépett hatályba. A 2. § (5) bekezdése a 3/2006. (I. 26.) EüM rendelet 3. § (2) bekezdésének c) pontja szerint módosított szöveg.
-[^10]: Lásd a 3/2006. (I. 26.) EüM rendeletet.
+[^9]: A 2. § (4) bekezdése a 14/2010. (IV. 7.) EüM rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 2. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 2. § (2) bekezdése iktatta be, szövege a 16/2009. (V. 11.) EüM rendelet 1. §-ával megállapított szöveg.
 [^11]: A 2. § (6) bekezdését a 48/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
 [^12]: A 2. § (7) bekezdését a 48/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
 [^13]: A 2. § (8) bekezdését a 48/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.

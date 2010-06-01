@@ -20,11 +20,11 @@
 
 ## 10. Triklór ecetsav
 
-## 11. Aconitum napellus L. (levelek, gyökerek és galenusi készítmények)
+## 11. Aconitum napellus L. (levelek, gyökerek és galenusi keverékek)
 
 ## 12. Akonitin (az Aconitum napellus L. fő alkaloidja) és sói
 
-## 13. Adonis vernalis L. és készítményei
+## 13. Adonis vernalis L. és keverékei
 
 ## 14. Epinefrin*
 
@@ -68,7 +68,7 @@
 
 ## 34. Imperatorin [9-(3-methoxilbut-2-eniloxi) furo [3,2-g] chromen-7-on)
 
-## 35. Ammi majus és galenusi készítményei
+## 35. Ammi majus és galenusi keverékei
 
 ## 36. 2,3-Diklór-2-metilbutan
 
@@ -80,13 +80,13 @@
 
 ## 40. Antimon és vegyületei
 
-## 41. Apocynum cannabinum L. és készítményei
+## 41. Apocynum cannabinum L. és keverékei
 
 ## 42. Apomorfin (R 5,6,6a, 7-tetrahidro-6-metil-4H-dibenzo [de,g] -kinolin-10,11-diol) és sói
 
 ## 43. Arzén és vegyületei
 
-## 44. Atropa belladona L. és készítményei
+## 44. Atropa belladona L. és keverékei
 
 ## 45. Atropin, sói és származékai
 
@@ -194,9 +194,9 @@
 
 ## 97. Króm; krómsav és sói
 
-## 98. Claviceps purpurea Tul., alkoloidjai és galenusi készítményei
+## 98. Claviceps purpurea Tul., alkoloidjai és galenusi keverékei
 
-## 99. Conium maculatum L. (gyümölcs, por, galenusi készítmények)
+## 99. Conium maculatum L. (gyümölcs, por, galenusi keverékek)
 
 ## 100. Gliciclamid*
 
@@ -206,7 +206,7 @@
 
 ## 103. Colchicosid és származékai
 
-## 104. Colchicum autumnale L. és galenusi készítményei
+## 104. Colchicum autumnale L. és galenusi keverékei
 
 ## 105. Convallatoxin
 
@@ -420,7 +420,7 @@
 
 ## 210. Hiosciamin, sói és származékai
 
-## 211. Hyoscyamus niger L. (levelek, magvak, por és galenusi készítmények)
+## 211. Hyoscyamus niger L. (levelek, magvak, por és galenusi keverékek)
 
 ## 212. Pemolin* és sói
 
@@ -428,13 +428,13 @@
 
 ## 214. Decametilenebis (trimetilammonium) sók, például decamethonium bromid
 
-## 215. Ipecacuana (Cephaelis ipecacuanha Brot. és rokon fajok) (gyökerek, por és galenusi készítmények)
+## 215. Ipecacuana (Cephaelis ipecacuanha Brot. és rokon fajok) (gyökerek, por és galenusi keverékek)
 
 ## 216. (2-Isopropilpent-4-enoil)urea (apronalid)
 
 ## 217. α-Santonin (3S,5aR, 9bS)-3,3a,4,5,5a,9b-hexahidro-3,5a,9-trimetilnafto (1,2-b)furan-2,8-dion
 
-## 218. Lobelia inflata L. és galenusi készítményei
+## 218. Lobelia inflata L. és galenusi keverékei
 
 ## 219. Lobelin* és sói
 
@@ -588,7 +588,7 @@
 
 ## Az irányelv a dolgozók és a lakosság egészségének védelme érdekében alapvető biztonsági szabályokat fektet le az ionizáló sugárzásból származó veszélyekkel szemben
 
-## 294. Juniperus sabina L. (levelek, esszenciális olaj és galenusi készítmények)
+## 294. Juniperus sabina L. (levelek, esszenciális olaj és galenusi keverékek)
 
 ## 295. Hioscin, sói és származékai
 
@@ -596,21 +596,21 @@
 
 ## 297. Szelénium és vegyületei, a szelénium diszulfid kivételével a 3. sz. melléklet 1. rész 49. referencia szám alatt említett feltételek mellett
 
-## 298. Solanum nigrum L. és galenusi készítményei
+## 298. Solanum nigrum L. és galenusi keverékei
 
 ## 299. Spartein és sói
 
 ## 300. Glucocorticoidok
 
-## 301. Datura stramonium L. és galenusi készítményeik
+## 301. Datura stramonium L. és galenusi keverékeik
 
 ## 302. Strophantinok, aglukonátjaik és megfelelő származékaik
 
-## 303. Strophantus species és galenusi készítményeik
+## 303. Strophantus species és galenusi keverékeik
 
 ## 304. Strychnin és sói
 
-## 305. Strychnos species és galenusi készítményeik
+## 305. Strychnos species és galenusi keverékeik
 
 ## 306. Narkotikumok, természetesek és szintetikusak: A New York-ban 1961. március 30-án aláírt, az altatószerekre vonatkozó egységes Konvenció I. és II. táblázatában felsorolt valamennyi anyag.
 
@@ -622,9 +622,9 @@
 
 ## 310. Thiotepa*
 
-## 311. Pilocarpus jaborandi Holmes és galenusi készítményei
+## 311. Pilocarpus jaborandi Holmes és galenusi keverékei
 
-## 312. Tellurium és készítményei
+## 312. Tellurium és keverékei
 
 ## 313. Xilometazolin* és sói
 
@@ -660,13 +660,13 @@
 
 ## 329. Gallamin triethjodid*
 
-## 330. Urginea scilla Stern. és galenusi készítményei
+## 330. Urginea scilla Stern. és galenusi keverékei
 
-## 331. Veratrin, sói és galenusi készítményei
+## 331. Veratrin, sói és galenusi keverékei
 
-## 332. Schoenocaulon officinale Lind. (magvak és galenusi készítmények)
+## 332. Schoenocaulon officinale Lind. (magvak és galenusi keverékek)
 
-## 333. Veratrum Spp. és készítményei
+## 333. Veratrum Spp. és keverékei
 
 ## 334. Vinilklorid monomer
 
@@ -690,7 +690,7 @@
 
 ## 344. Morfolin és sói
 
-## 345. Pyrethrum album L. és galenusi készítményei
+## 345. Pyrethrum album L. és galenusi keverékei
 
 ## 346. 2-[4-Methoxibenzil-N-(2-piridil) amino] etildimetilamin maleat
 
@@ -716,7 +716,7 @@
 
 ## 357. A 4-hidroxi-3-methoxicinnamil alkohol benzoátjai, kivéve a felhasznált természetes esszenciák normális tartalma
 
-## 358. Furocumarinok (pl. trioxisalan*, 8-methoxipsoralen, 5-methoxipsoralen) kivéve a felhasznált természetes esszenciák normális tartalma. A napvédő és barnító készítményekben a furocumarinoknak 1 mg/kg alatt kell lennie
+## 358. Furocumarinok (pl. trioxisalan*, 8-methoxipsoralen, 5-methoxipsoralen) kivéve a felhasznált természetes esszenciák normális tartalma. A napvédő és barnító keverékekben a furocumarinoknak 1 mg/kg alatt kell lennie
 
 ## 359. Laurus nobilis L. magvakból származó olaj
 
@@ -734,7 +734,7 @@
 
 ## 364. 4-metil-m-feniléndiamin és sói
 
-## 365. Aristolochic sav és sói; Aristolochia spp. és készítményei
+## 365. Aristolochic sav és sói; Aristolochia spp. és keverékei
 
 ## 366. Kloroform
 
@@ -752,7 +752,7 @@
 
 ## 373. 3,4',5-Tribromoszalicilanilid
 
-## 374. Phytolacca Spp. és készítményei
+## 374. Phytolacca Spp. és keverékei
 
 ## 375. Tretinoin* (retin sav és sói)
 
@@ -918,9 +918,9 @@
 
 ## c) 0,002% illatkrémben
 
-## d) 0,001% leöblíthető készítményekben
+## d) 0,001% leöblíthető keverékekben
 
-## e) 0,0002% egyéb bőrön maradó készítményekben és a szájhigiénés készítményekben.
+## e) 0,0002% egyéb bőrön maradó keverékekben és a szájhigiénés keverékekben.
 
 ## 452. 6-(2-Klór-etil)-6-(2-metoxi-etoxi)-2,5,7,10-tetraoxa-6-szila-undekán (CAS-szám 37894-46-5)
 
@@ -2801,4 +2801,4 @@
 3. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^84]
 
 [^83]: OJ L 159, 29.6.1996, p.1.
-[^84]: A 3. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (3) bekezdésével megállapított, valamint a 14. § (9) bekezdése szerint módosított szöveg. A 3. számú melléklet a 3/2004. (XI. 17.) EüM rendelet 4. § (2) bekezdése és 5. § (3)–(4) bekezdése, a 61/2005. (XII. 20.) EüM rendelet 2. § (1)–(2) bekezdése, a 17/2006. (IV. 19.) EüM rendelet 4. § (2) bekezdése és (3) bekezdésének b)–c) pontja, a 48/2006. (XII. 28.) EüM rendelet 6. § (1) bekezdése, a 47/2007. (X. 31.) EüM rendelet 4. § (1) bekezdése, a 3/2008. (I. 11.) EüM rendelet 3. §-a, 4. § (6)–(7) bekezdése, a 37/2008. (IX. 26.) EüM rendelet 4. §-a, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés a)–b) pontja, a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^84]: A 3. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (3) bekezdésével megállapított, valamint a 14. § (9) bekezdése szerint módosított szöveg. A 3. számú melléklet a 3/2004. (XI. 17.) EüM rendelet 4. § (2) bekezdése és 5. § (3)–(4) bekezdése, a 61/2005. (XII. 20.) EüM rendelet 2. § (1)–(2) bekezdése, a 17/2006. (IV. 19.) EüM rendelet 4. § (2) bekezdése és (3) bekezdésének b)–c) pontja, a 48/2006. (XII. 28.) EüM rendelet 6. § (1) bekezdése, a 47/2007. (X. 31.) EüM rendelet 4. § (1) bekezdése, a 3/2008. (I. 11.) EüM rendelet 3. §-a, 4. § (6)–(7) bekezdése, a 37/2008. (IX. 26.) EüM rendelet 4. §-a, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés a)–b) pontja, a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése, a 14/2010. (IV. 7.) EüM rendelet 6. § (1) bekezdése szerint módosított szöveg.

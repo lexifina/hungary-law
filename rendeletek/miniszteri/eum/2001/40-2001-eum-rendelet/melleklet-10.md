@@ -71,4 +71,4 @@
 10. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^92]
 
 [^91]: A 9. számú melléklet I. pontja a 14/2010. (IV. 7.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^92]: A 10. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette; újonnan beiktatta a 3/2004. (XI. 17.) EüM rendelet 4. § (3) bekezdése
+[^92]: A 10. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette; újonnan beiktatta a 3/2004. (XI. 17.) EüM rendelet 4. § (3) bekezdése, szövege a 16/2009. (V. 11.) EüM rendelet 4. § (3) bekezdése szerint módosított szöveg.

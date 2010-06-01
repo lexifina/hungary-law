@@ -26,9 +26,20 @@ h)[^19] a termék, illetve összetevői kifejlesztésére vagy biztonságosság�
 
 (6)[^23] Az (1) bekezdés a) és f) pontja szerinti információkat – az üzleti titok és a szellemi tulajdonhoz fűződő jogok védelmének biztosításával – bárki számára hozzáférhetővé kell tenni, beleértve az elektronikus módokat is.
 
+(7)[^24] A (6) bekezdés alapján a hozzáférhetővé tételt az (1) bekezdés a) pontja szerinti mennyiségi információk tekintetében az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet I. mellékletében meghatározott, alábbi veszélyességi osztályok vagy kategóriák bármelyikére vonatkozó kritériumoknak megfelelő anyagok esetében kell biztosítani:
+
+a) a 2.1-2.4., a 2.6. és a 2.7. veszélyességi osztály, a 2.8. veszélyességi osztály A. és B. típusa, a 2.9., a 2.10., a 2.12. és a 2.13. veszélyességi osztály 1. és 2. kategóriája, a 2.14. veszélyességi osztály 1. és 2. kategóriája és a 2.15. veszélyességi osztály A-F. típusa,
+
+b) a 3.1-3.6., a 3.7. (a szexuális működésre és termékenységre vagy a fejlődésre gyakorolt káros hatások), a 3.8. (kivéve a kábító hatásokat), a 3.9. és a 3.10. veszélyességi osztály,
+
+c) a 4.1. veszélyességi osztály,
+
+d) az 5.1. veszélyességi osztály.
+
 [^18]: Az 5. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^19]: Az 5. § (1) bekezdésének h) pontja a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése szerint módosított szöveg.
 [^20]: Az 5. § (2) bekezdése a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-ának (5) bekezdése, a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése, a 3/2008. (I. 11.) EüM rendelet 4. § (8) bekezdésének a) pontja szerint módosított szöveg.
 [^21]: Az 5. § (4) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (2) bekezdésével megállapított és a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése szerint módosított szöveg.
 [^22]: Az 5. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 5. § (3) bekezdése iktatta be.
 [^23]: Az 5. § (6) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 5. § (3) bekezdése iktatta be, szövege a 16/2009. (V. 11.) EüM rendelet 6. § (6) és (8) bekezdése szerint módosított szöveg.
+[^24]: Az 5. § (7) bekezdését a 16/2009. (V. 11.) EüM rendelet 2. §-a iktatta be.

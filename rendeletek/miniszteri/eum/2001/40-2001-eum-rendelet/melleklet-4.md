@@ -204,9 +204,9 @@
 
 | 95 | Hidrokinon-metiléter | Műköröm | 0,02% (használat előtti összekeverés után) | Csak szakipari használatra | Csak szakipari használatra Bőrre ne kerüljön Gondosan olvassa el a használati utasítást |
 
-| 96 | Pézsmaxilol (CAS-szám 81-15-2) | A szájápoló készítményeken kívül minden kozmetikai termék | a) 1,0% finom illatszerben b) 0,4% kölnivízben c) 0,03% egyéb termékekben |  |  |
+| 96 | Pézsmaxilol (CAS-szám 81-15-2) | A szájápoló keverékeken kívül minden kozmetikai termék | a) 1,0% finom illatszerben b) 0,4% kölnivízben c) 0,03% egyéb termékekben |  |  |
 
-| 97 | Pézsmaketon (CAS-szám 81-14-1) | A szájápoló készítményeken kívül minden kozmetikai termék | a) 1,4% finom illatszerben b) 0,56% kölnivízben c) 0,042% egyéb termékekben |  |  |
+| 97 | Pézsmaketon (CAS-szám 81-14-1) | A szájápoló keverékeken kívül minden kozmetikai termék | a) 1,4% finom illatszerben b) 0,56% kölnivízben c) 0,042% egyéb termékekben |  |  |
 
 | 98 | Szalicilsav [5] (CAS-szám 69-72-7) | a) Leöblítendő hajápolási termékek b) Egyéb termékek | a) 3% b) 2% | Három év alatti gyermekeknek készülő termékekben nem használható, kivéve a samponokat Más célokra, mint a termékben a mikroorganizmusok kifejlődésének megakadályozására. E célt jól láthatóan fel kell tüntetni a terméken | Három év alatti gyermekeknek készülő termékekben nem használható [6] |
 
@@ -468,85 +468,85 @@
 
 | 1−2 |  |  |  |  |  |  |
 
-| 3 | 4-Amino-3-nitrofenol (CAS szám 610-81-1) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 3,0% b) 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | a) b) Allergiás reakciót okozhat | 2009. 12. 31. |
+| 3 | 4-Amino-3-nitrofenol (CAS szám 610-81-1) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 3,0% b) 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | a) b) Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 4 | 2,7-Naftalen-diol (CAS szám 582-17-2) és sói | Hajfesték oxidáló színező anyaga | 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,5% |  | 2009. 12. 31. |
+| 4 | 2,7-Naftalen-diol (CAS szám 582-17-2) és sói | Hajfesték oxidáló színező anyaga | 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,5% |  | 2010. 12. 31. |
 
-| 5 | m-Aminofenol (CAS szám 591-27-5) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 5 | m-Aminofenol (CAS szám 591-27-5) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 6 | 2,6-Dihidroxi-3,4-dimetil- piridin (CAS szám 84540-47-6) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 6 | 2,6-Dihidroxi-3,4-dimetil- piridin (CAS szám 84540-47-6) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
 | 7−9 |  |  |  |  |  |  |
 
-| 10 | Hidroxietil-2-nitro-p-toluidin (CAS szám 100418-35-5) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,0% b) 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | a) b) Allergiás reakciót okozhat | 2009. 12. 31. |
+| 10 | Hidroxietil-2-nitro-p-toluidin (CAS szám 100418-35-5) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,0% b) 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | a) b) Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 11 | 2-Hidroxietil-pikram sav (CAS szám 99610-72-7) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 3,0% b) 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | a) b) Allergiás reakciót okozhat | 2009. 12. 31. |
+| 11 | 2-Hidroxietil-pikram sav (CAS szám 99610-72-7) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 3,0% b) 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | a) b) Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 12 | p-Metilamino fenol (CAS szám 150-75-4) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 12 | p-Metilamino fenol (CAS szám 150-75-4) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
 | 13−15 |  |  |  |  |  |  |
 
-| 16 | HC Blue 12 (CAS szám 104516-93-0) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 1,5% b) 1,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,75% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 16 | HC Blue 12 (CAS szám 104516-93-0) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 1,5% b) 1,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,75% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
 | 17−18 |  |  |  |  |  |  |
 
-| 19 | 3-Amino-2,4-diklórfenol (CAS szám 61693-43-4) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 19 | 3-Amino-2,4-diklórfenol (CAS szám 61693-43-4) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 20 | Fenil metil pirazolon (CAS szám 89-25-8) és sói | Hajfesték oxidáló színező anyaga | 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2009. 12. 31. |
+| 20 | Fenil metil pirazolon (CAS szám 89-25-8) és sói | Hajfesték oxidáló színező anyaga | 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2010. 12. 31. |
 
-| 21 | 2-Metil-5-hidroxietil-amino- fenol (CAS szám 55302-96-0) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 21 | 2-Metil-5-hidroxietil-amino- fenol (CAS szám 55302-96-0) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 22 | Hidroxi-benzo-morfolin (CAS szám 26021-57-8) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 22 | Hidroxi-benzo-morfolin (CAS szám 26021-57-8) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
 | 23−24 |  |  |  |  |  |  |
 
-| 25 | 2,6-Dimetoxi-3,5-piridin-diamin (CAS szám 85679-78-3) és sói | Hajfesték oxidáló színező anyaga | 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 25 | 2,6-Dimetoxi-3,5-piridin-diamin (CAS szám 85679-78-3) és sói | Hajfesték oxidáló színező anyaga | 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 26 | HC Orange 2 (CAS szám 85765-48-6) és sói | Hajfesték nem oxidáló színező anyaga | 1,0% |  |  | 2009. 12. 31. |
+| 26 | HC Orange 2 (CAS szám 85765-48-6) és sói | Hajfesték nem oxidáló színező anyaga | 1,0% |  |  | 2010. 12. 31. |
 
-| 27 | HC Violet 1 (CAS szám 82576-75-8) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 0,5% b) 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2009. 12. 31. |
+| 27 | HC Violet 1 (CAS szám 82576-75-8) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 0,5% b) 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2010. 12. 31. |
 
 | 28 |  |  |  |  |  |  |
 
-| 29 | 2-Hidroxi-etilamino-5-nitro- anisol (CAS szám 66095-81-6) és sói | Hajfesték nem oxidáló színező anyaga | 1,0% |  |  | 2009. 12. 31. |
+| 29 | 2-Hidroxi-etilamino-5-nitro- anisol (CAS szám 66095-81-6) és sói | Hajfesték nem oxidáló színező anyaga | 1,0% |  |  | 2010. 12. 31. |
 
 | 30 |  |  |  |  |  |  |
 
-| 31 | HC Red 13 (CAS szám 94158-13-1) | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,5% b) 2,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,25% |  | 2009. 12. 31. |
+| 31 | HC Red 13 (CAS szám 94158-13-1) | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,5% b) 2,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,25% |  | 2010. 12. 31. |
 
-| 32 | 1,5-Naftalin-diol (CAS szám 83-56-7) és sói | Hajfesték oxidáló színező anyaga | 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,5% |  | 2009. 12. 31. |
+| 32 | 1,5-Naftalin-diol (CAS szám 83-56-7) és sói | Hajfesték oxidáló színező anyaga | 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,5% |  | 2010. 12. 31. |
 
-| 33 | Hidroxipropil bis (N-hidroxietil-p-feniléndiamin) (CAS szám 128729-30-6) | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | Allergiás reakciót okozhat | 2009. 12. 31. |
+| 33 | Hidroxipropil bis (N-hidroxietil-p-feniléndiamin) (CAS szám 128729-30-6) | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 34 | o-Aminofenol (CAS szám 95-55-6) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2009. 12. 31. |
+| 34 | o-Aminofenol (CAS szám 95-55-6) és sói | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2010. 12. 31. |
 
-| 35 | 4-Amino-2-hidroxi-toluol (CAS szám 2835-95-2) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2009. 12. 31. |
+| 35 | 4-Amino-2-hidroxi-toluol (CAS szám 2835-95-2) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2010. 12. 31. |
 
-| 36 | 2,4-Diamino-fenoxi-etanol (CAS szám 66422-95-5) és sói | Hajfesték oxidáló színező anyaga | 4,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 2,0% |  | 2009. 12. 31. |
+| 36 | 2,4-Diamino-fenoxi-etanol (CAS szám 66422-95-5) és sói | Hajfesték oxidáló színező anyaga | 4,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 2,0% |  | 2010. 12. 31. |
 
-| 37 | 2-Metilrezorcin (CAS szám 608-25-3) | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2009. 12. 31. |
+| 37 | 2-Metilrezorcin (CAS szám 608-25-3) | Hajfesték oxidáló színező anyaga | 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2010. 12. 31. |
 
-| 38 | 4-Amino-m-krezol (CAS szám 2835-99-6) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2009. 12. 31. |
+| 38 | 4-Amino-m-krezol (CAS szám 2835-99-6) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2010. 12. 31. |
 
-| 39 | 2-Amino-4-hidroxietilamino- anizol (CAS szám 83763-47-7) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2009. 12. 31. |
+| 39 | 2-Amino-4-hidroxietilamino- anizol (CAS szám 83763-47-7) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2010. 12. 31. |
 
 | 40−43 |  |  |  |  |  |  |
 
-| 44 | Hidroxietil-3,4-metilén-dioxi-anilin (CAS szám 81329-90-0) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2009. 12. 31. |
+| 44 | Hidroxietil-3,4-metilén-dioxi-anilin (CAS szám 81329-90-0) és sói | Hajfesték oxidáló színező anyaga | 3,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2010. 12. 31. |
 
 | 45−47 |  |  |  |  |  |  |
 
-| 48 | 3-Nitro-p-hidroxietil aminofenol (CAS szám 65235-31-6) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 6,0% b) 6,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 3,0% |  | 2009. 12. 31. |
+| 48 | 3-Nitro-p-hidroxietil aminofenol (CAS szám 65235-31-6) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 6,0% b) 6,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 3,0% |  | 2010. 12. 31. |
 
-| 49 | 4-Nitrofenil aminoetilurea (CAS szám 27080-42-8) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nemoxidáló színező anyaga | a) 0,5% b) 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2009. 12. 31. |
+| 49 | 4-Nitrofenil aminoetilurea (CAS szám 27080-42-8) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nemoxidáló színező anyaga | a) 0,5% b) 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2010. 12. 31. |
 
-| 50 | HC Red 10 + HC Red 11 (CAS szám 95576-89-9 + 95576-92-4) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,0% b) 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2009. 12. 31. |
+| 50 | HC Red 10 + HC Red 11 (CAS szám 95576-89-9 + 95576-92-4) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,0% b) 1,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2010. 12. 31. |
 
 | 51−54 |  |  |  |  |  |  |
 
-| 55 | 2-Klór-6-etilamino-4-nitrofenol (CAS szám 131657-78-8) és sói | a) Hajfesték oxidáló színező anyaga b) | a) 3,0% b) | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2009. 12. 31. |
+| 55 | 2-Klór-6-etilamino-4-nitrofenol (CAS szám 131657-78-8) és sói | a) Hajfesték oxidáló színező anyaga b) | a) 3,0% b) | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,5% |  | 2010. 12. 31. |
 
-| 56 | 2-Amino-6-klór-4-nitrofenol (CAS szám 6358-09-4) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,0% b) 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2009. 12. 31. |
+| 56 | 2-Amino-6-klór-4-nitrofenol (CAS szám 6358-09-4) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 2,0% b) 2,0% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 1,0% |  | 2010. 12. 31. |
 
 | 57−62 |  |  |  |  |  |  |
 
