@@ -4,4 +4,4 @@
 
 (3) A választottbírósági ítélet vagy egyezség érvénytelenítése iránti eljárásban az illetéket a választottbírósági határozatban megállapított perérték alapján, ennek hiányában a 39. § (3) bekezdésében foglaltak szerint kell meghatározni.
 
-[(4) A fizetési meghagyásos eljárás során előterjesztett fellebbezés illetékének alapja megegyezik az eljárásért fizetendő díj alapjával.]
+(4) A fizetési meghagyásos eljárás során előterjesztett fellebbezés illetékének alapja megegyezik az eljárásért fizetendő díj alapjával.

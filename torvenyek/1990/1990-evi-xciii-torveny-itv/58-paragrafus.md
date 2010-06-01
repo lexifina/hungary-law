@@ -18,9 +18,7 @@ e) ha a felek a per megszüntetését az első tárgyaláson közösen kérik.
 
 (4) Ha a per szünetelés folytán szűnik meg, a bíróság az eljárást kezdeményező felet kötelezi az illeték megfizetésére.
 
-(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) és d) pontjában említett eljárásoknál – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
-
-[(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) pontjában említett eljárásoknál, valamint a fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bek. 2. mondat] – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.]
+(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) pontjában említett eljárásoknál, valamint a fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bek. 2. mondat] – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
 (6) A büntető eljárásban érvényesített polgári jogi igény illetékére az (1)—(2) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
