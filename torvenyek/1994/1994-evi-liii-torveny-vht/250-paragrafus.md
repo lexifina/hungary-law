@@ -48,6 +48,8 @@ e) árverési csarnokot működtethet,
 
 f) működteti az elektronikus árverési rendszert,
 
+g) működteti a végrehajtási ügyek végrehajtók közötti elosztására és a végrehajtható okiratok, valamint a kézbesítendő okiratok végrehajtóknak történő megküldésére szolgáló informatikai alkalmazást.
+
 (4) A kamara a tagjaira kötelező iránymutatást adhat ki különösen a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek
 
 a) képzéséről és továbbképzéséről,

@@ -12,6 +12,6 @@ c) a teljesítési határidő letelt.
 
 (3) A kis értékű követelések európai eljárásának bevezetéséről szóló 861/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 861/2007/EK rendelet) szerinti eljárásban hozott ítélet alapján végrehajtható okiratot lehet kiállítani akkor is, ha az ítéletet megfellebbezték.
 
-(4) Nem lehet végrehajtható okiratot kiállítani a jogerős fizetési meghagyás alapján, ha a jogerősítési záradékot a bíróság a Pp. 319. §-ának (6) bekezdése alapján akként állította ki, hogy a követelés tárgyában nincs helye végrehajtásnak.
+(4) Nem lehet végrehajtható okiratot kiállítani a jogerős fizetési meghagyás alapján, ha a jogerősítési záradék akként került kiállításra, hogy a követelés tárgyában nincs helye végrehajtásnak.
 
 (5) Az (1) bekezdésben foglalt feltételek az okiraton alapuló követelés végrehajtására megfelelően irányadók.

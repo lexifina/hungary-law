@@ -10,11 +10,11 @@ c) a 805/2004/EK rendelet I. és II. melléklete, valamint IV. és V. melléklet
 
 d) a 861/2007/EK rendelet IV. melléklete szerinti tanúsítványt.
 
-(2) A közokiratot kiállító hatóság székhelye szerint illetékes helyi bíróság kérelemre kiállítja
+(2) A közokiratot kiállító hatóság székhelye szerint illetékes helyi bíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
 a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
 
-b) a 805/2004/EK rendelet III. melléklete, valamint IV. és V. melléklete szerinti tanúsítványt.
+b) a 805/2004/EK rendelet I–V. melléklete szerinti tanúsítványt.
 
 (3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az első fokon eljárt bíróság állítja ki:
 
@@ -22,7 +22,7 @@ a) hivatalból vagy bármelyik fél kérelmére a rendelet 41. cikkének (1) bek
 
 b) hivatalból a rendelet 42. cikkének (1) bekezdésében foglaltak alapján (IV. melléklet).
 
-(4) Az 1896/2006/EK rendelet VII. melléklete szerinti formanyomtatványt az európai fizetési meghagyást kibocsátó bíróság állítja ki.
+(4) Az 1896/2006/EK rendelet VII. melléklete szerinti formanyomtatványt az európai fizetési meghagyást kibocsátó közjegyző állítja ki.
 
 (5) Az (1) bekezdés a) és b) pontja szerinti, valamint a (2) bekezdés a) pontja szerinti tanúsítvány és igazolás több alkalommal is kiállítható.
 
