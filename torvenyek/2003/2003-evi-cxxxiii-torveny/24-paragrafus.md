@@ -6,7 +6,7 @@ a) a közös költség tulajdoni hányadtól eltérő megfizetése esetén, az �
 
 b) a külön tulajdonon belül nem mérhető közüzemi és más szolgáltatások díja tekintetében az egyes szolgáltatásokra vonatkozó külön jogszabályok alapján történő elszámolás és a megfizetés szabályait,
 
-c) a közösköltség-hátralék megfizetése érdekében a közös képviselőnek vagy az intézőbizottság elnökének az adós tulajdonostárs határidő megjelölésével történő felszólításával, továbbá – ha a felszólítás eredménytelen – a bírósági fizetési meghagyás kibocsátásának kezdeményezésével, illetőleg – e törvény rendelkezései szerinti felhatalmazása esetén – a jelzálogjog bejegyzése és annak törlése iránti kérelem benyújtásával kapcsolatos feladatait,
+c) a közösköltség-hátralék megfizetése érdekében a közös képviselőnek vagy az intézőbizottság elnökének az adós tulajdonostárs határidő megjelölésével történő felszólításával, továbbá – ha a felszólítás eredménytelen – a fizetési meghagyás kibocsátásának kezdeményezésével, illetőleg – e törvény rendelkezései szerinti felhatalmazása esetén – a jelzálogjog bejegyzése és annak törlése iránti kérelem benyújtásával kapcsolatos feladatait,
 
 d) felújítási alap képzésének elhatározása esetén – a külön jogszabályban meghatározott legkisebb mérték figyelembevételével – a hozzájárulás mértékét, valamint az alap felhasználásának szabályait.
 
