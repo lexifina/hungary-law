@@ -1,5 +1,5 @@
 ## 47. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-1. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^28]
+1. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^33]
 
-[^28]: Az 1. számú melléklet a 238/2009. (X. 20.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^33]: Az 1. számú melléklet a 142/2010. (IV. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
