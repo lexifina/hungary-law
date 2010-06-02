@@ -1,4 +1,4 @@
-## 8. §[^4]
+## 8. §[^5]
 
 9. § (1) Ez a rendelet – a (2)–(5) bekezdésben foglalt kivétellel – a kihirdetését követő 5. napon lép hatályba, és 2011. november 2-án hatályát veszti.
 
@@ -10,4 +10,4 @@
 
 (5) Az 1. melléklet 4. és 8. pontja 2011. november 1-jén lép hatályba.
 
-[^4]: A 8. §-t a 10. § hatályon kívül helyezte.
+[^5]: A 8. §-t a 10. § hatályon kívül helyezte.

@@ -1,11 +1,6 @@
-7. § (1) Az R.
+7. § (1)[^3]
 
-a) 1. § (2) bekezdésében és 2. § (4) bekezdésében a „készítmény” szövegrész helyébe a „keverék”,
+(2)[^4]
 
-b) 14. § (4) bekezdésében a „készítmények” szövegrész helyébe a „keverékek”
-
-szöveg lép.
-
-(2)[^3]
-
-[^3]: A 7. § (2) bekezdését a 10. § hatályon kívül helyezte.
+[^3]: A 7. § (1) bekezdését a 10. § hatályon kívül helyezte.
+[^4]: A 7. § (2) bekezdését a 10. § hatályon kívül helyezte.

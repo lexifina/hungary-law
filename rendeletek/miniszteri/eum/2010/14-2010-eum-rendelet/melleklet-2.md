@@ -1,16 +1,4 @@
-## 1. Az R.
-
-## a) 2. számú melléklet 11., 99., 211., 215., 294., 332. pontjában, 6. számú melléklet [7] pontjában, valamint 6. számú mellékletében foglalt táblázat d:56. mezőjében a „készítmények” szövegrész helyébe a „keverékek” szöveg lép,
-
-## b) 2. számú melléklet 13., 35., 41., 44., 98., 104., 218., 298., 311., 312., 330., 331., 333., 345., 365. és 374. pontjában a „készítményei” szövegrész helyébe a „keverékei” szöveg lép,
-
-## c) 2. számú melléklet 301., 303. és 305. pontjában a „készítményeik” szövegrész helyébe a „keverékeik” szöveg lép,
-
-## d) 2. számú melléklet 358. pontjában és 451. pont d)–e) alpontjában a „készítményekben” szövegrészek helyébe a „keverékekben” szöveg lép,
-
-## e) 3. számú melléklet 1. részében foglalt táblázat c:96. és c:97. mezőjében a „készítményeken” szövegrész helyébe a „keverékeken” szöveg lép,
-
-## f) 11. számú melléklet 3. a) pontjában a „készítmény” szövegrész helyébe a „keverék” szöveg lép.
+## 1.
 
 ## 2. Az R. 3. számú melléklet 1. részében foglalt táblázat b:8. mezőjében a „p-Fenilén-diamin, N-szubsztituált származékai és sói; o-Fenilén-diamin (1) N-szubsztituált származékai, az e mellékletben máshol felsorolt és a 2. számú melléklet 1309., 1311. és 1312. referenciaszámai alatt felsorolt származékok kivételével” szövegrész helyébe a „p-Fenilén-diamin N-szubsztituált származékai és sóik; o-Fenilén-diamin N-szubsztituált származékai (1) az e mellékletben és a 2. számú melléklet 1309., 1311. és 1312. hivatkozási számai alatt felsorolt származékok kivételével” szöveg lép.
 
@@ -414,8 +402,8 @@
 
 ## – Korábban, ideiglenes „fekete henna” tetoválás során valamilyen reakciót észlelt.”
 
-## 9. Az R. 3. számú melléklet 2. részében foglalt táblázat g:3., g:4., g:5., g:6., g:10., g:11., g:12., g:16., g:19., g:20., g:21., g:22., g:25., g:26., g:27., g:29., g:31., g:32., g:33., g:34., g:35., g:36., g:37., g:38., g:39., g:44., g:48., g:49., g:50., g:55. és g:56. mezőjében a „2009. 12. 31.” szövegrész helyébe a „2010. 12. 31.” szöveg lép.
+## 9.
 
-2. melléklet a 14/2010. (IV. 7.) EüM rendelethez[^5]
+2. melléklet a 14/2010. (IV. 7.) EüM rendelethez[^7]
 
-[^5]: A 2. mellékletet a 10. § hatályon kívül helyezte.
+[^7]: A 2. mellékletet a 10. § hatályon kívül helyezte.
