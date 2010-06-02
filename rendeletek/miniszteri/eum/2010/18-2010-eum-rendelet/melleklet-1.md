@@ -1,3 +1,5 @@
+## 12. §[^3]
+
 1. melléklet a 18/2010. (IV. 20.) EüM rendelethez
 
 ## Az orvostechnikai eszközök megfelelőségértékelésére való kijelölésre, a kijelölés bővítésére vonatkozó kérelem adattartalma
@@ -19,3 +21,5 @@
 8. Ha van nemzetközi tanúsítási rendszerekben kapott elismerés, annak megjelölése, kiadásának dátuma és érvényessége
 
 9. Közreműködő neve, címe, tevékenysége (a 3. melléklet szerinti kódok vonatkozásában)
+
+[^3]: A 12. § az (5) bekezdés alapján hatályát vesztette.

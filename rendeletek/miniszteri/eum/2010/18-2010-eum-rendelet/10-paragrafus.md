@@ -4,6 +4,7 @@
 
 (2)[^1]
 
-(3) A kérelmet az 1. § (1) bekezdése szerinti nyomtatvány, elektronikus űrlap rendszeresítéséig az 1. melléklet szerinti adattartalommal lehet benyújtani. Az 1. § (1) bekezdése szerinti nyomtatványt, elektronikus űrlapot legkésőbb 2010. június 1-jéig kell közzétenni.
+(3)[^2]
 
 [^1]: A 10. § (2) bekezdését a 12. § (3) bekezdése hatályon kívül helyezte.
+[^2]: A 10. § (3) bekezdését a 12. § (4) bekezdése hatályon kívül helyezte.
