@@ -32,7 +32,7 @@
 
 |  | ............................................................................................. jogi segítő aláírása, bélyegzőjének lenyomata |
 
-3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^98]
+3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^102]
 
 | …… számú példány | Két példány átadandó a meghatalmazott jogi segítőnek! |
 
@@ -78,4 +78,4 @@
 
 | ………..……………………………… meghatalmazó fél aláírása | …………………………………………………… meghatalmazott jogi segítő (jogi segítő szervezet nevében eljáró ügyvéd) aláírása, bélyegzőlenyomata |
 
-[^98]: A 3. melléklet a 48/2009. (IX. 28.) IRM rendelet 29. §-a, a 63/2009. (XII. 17.) IRM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^102]: A 3. melléklet a 48/2009. (IX. 28.) IRM rendelet 29. §-a, a 63/2009. (XII. 17.) IRM rendelet 10. § (3) bekezdése szerint módosított szöveg.
