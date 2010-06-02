@@ -1,3 +1,0 @@
-## 3. § Az R. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A hajózási hatóság az (1) bekezdésben felsorolt hajóokmányban tanúsítja az úszólétesítmény üzemképességét, és egyben bejegyzi az úszólétesítmény legközelebbi üzemképességi szemléjének az időpontját. Az (1) bekezdésben foglalt, típusának megfelelő hajóokmány nélkül az úszólétesítmény nem tartható üzemben. A rajnai szemlebizonyítvánnyal ellátott úszólétesítménynek kiegészítő közösségi hajóbizonyítvánnyal is rendelkeznie kell. A személyszállításra vagy belvízi áruszállításra, valamint nagyhajók továbbítására (tolására, vontatására) szolgáló kishajók üzemképességének tanúsítása az (1) bekezdés a) pontja szerinti okmányban történik.”

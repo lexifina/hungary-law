@@ -1,3 +1,0 @@
-## 2. § Az R. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Úszólétesítmény, valamint úszólétesítmény szerkezetének, gépi berendezésének, propulziós művének és villamos-berendezésének, továbbá azok elemeinek terveit hajózási műszaki szakterületen működő szakirányú gépészmérnök közlekedési szakértő készítheti el. A szakértői jogosultságot a hajózási hatóság a szakértői tevékenység folytatásáról nyilvántartást vezető szerv által működtetett elektronikus névjegyzékből közvetlenül vagy belföldi jogsegély keretében ellenőrzi. A jogosulatlan személy által készített terv jóváhagyására irányuló kérelmet a hajózási hatóság tartalmi vizsgálat nélkül elutasítja.”
