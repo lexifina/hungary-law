@@ -1,4 +1,4 @@
-## 10. §[^8] Az ügyféllel közös háztartásban élő nagykorú személy – kivéve, ha a büntetőeljárás terheltje, illetőleg bírósági vagy hatósági eljárásban ellenérdekű fél – jövedelmére vonatkozó igazolást csatolni kell. Ha a jövedelemigazolás csatolásának akadálya van, ennek okát a nyomtatvány Közlemények rovatában fel kell tüntetni.
+## 10. §[^8] Állami kárenyhítés iránti kérelem esetén az ügyféllel közös háztartásban élő nagykorú személy – kivéve, ha a büntetőeljárás terheltje, vagy bírósági vagy hatósági eljárásban ellenérdekű fél – jövedelmére vonatkozó igazolást csatolni kell. Ha a jövedelem igazolás csatolásának akadálya van, ennek okát a nyomtatvány Közlemények rovatában fel kell tüntetni.
 
 11. § (1) A jövedelem számítása szempontjából ügyféllel közös háztartásban élő személynek kell tekintetni az általa eltartott, valamint az ügyfél eltartására köteles személyt is.
 
@@ -6,5 +6,5 @@
 
 (3)[^9] A nyomtatványon a rendszeres havi nettó (adó, adóelőleg, egészségbiztosítási és nyugdíjjárulék, magán-nyugdíjpénztári tagdíj, egyéb járulékok levonása után fennmaradó) jövedelemről kell nyilatkozni.
 
-[^8]: A 10. § a 48/2009. (IX. 28.) IRM rendelet 9. § (2) bekezdésével megállapított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 10. § a 18/2010. (IV. 30.) IRM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^9]: A 11. § (3) bekezdése a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

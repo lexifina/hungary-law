@@ -212,6 +212,6 @@
 
 ## kérelmező aláírása
 
-2. melléklet az 1/2006. (I. 6.) IM rendelethez[^28]
+2. melléklet az 1/2006. (I. 6.) IM rendelethez[^31]
 
-[^28]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
