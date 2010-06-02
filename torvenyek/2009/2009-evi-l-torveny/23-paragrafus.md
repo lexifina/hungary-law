@@ -4,9 +4,9 @@
 
 (2) Ha nincs szükség hiánypótlásra, nem kell elutasítani a jogi képviselővel eljáró fél kérelmét annak hiányosságai miatt, vagy a fél hiánypótlási kötelezettségének eleget tett, és ennek eredményeként a kérelem alkalmas a fizetési meghagyás kibocsátására, a közjegyző a kötelezett szervezet jogképességének vagy annak megállapítása érdekében, hogy a kötelezett ellen helye van-e fizetési meghagyás kibocsátásának, térítésmentesen:
 
-a) a jogképességgel rendelkező szervezetek nyilvántartásába betekinthet, abból adatot igényelhet;
+a) a jogképességgel rendelkező szervezetek elektronikus nyilvántartásába betekinthet, abból adatot igényelhet;
 
-b) a követelés érvényesítésére vonatkozó iratokat szerezhet be bíróságtól, közjegyzőtől, más hatóságtól vagy szervezettől.
+b)
 
 (3) A (2) bekezdés a) pontjában foglalt esetben elektronikus nyilvántartásban szereplő adatok igénylésére a közjegyző a MOKK rendszerének ilyen, automatizált szolgáltatását veszi igénybe.
 

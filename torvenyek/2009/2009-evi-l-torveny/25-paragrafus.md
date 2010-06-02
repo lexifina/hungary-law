@@ -1,4 +1,4 @@
-25. § (1) A fizetési meghagyás kibocsátása iránti kérelmet elutasító végzést kézbesíteni kell a jogosultnak, a kötelezettnek pedig meg kell küldeni; a kötelezett példányához csatolni kell a kérelem másolatát. A végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
+25. § (1) A fizetési meghagyás kibocsátása iránti kérelmet elutasító végzést kézbesíteni kell a jogosultnak, a kötelezettnek pedig meg kell küldeni. A végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
 
 (2) Ha a fizetési meghagyás kibocsátása iránti kérelmet elutasítják, a jogosult a követelés érvényesítése végett választása szerint ismét fizetési meghagyás kibocsátása iránti kérelmet terjeszthet elő, vagy a bíróságnál keresetet indíthat, illetőleg követelését egyéb úton szabályszerűen érvényesítheti. Ebben az esetben a 3. § (2) bekezdésében meghatározott korlátozás nem alkalmazható.
 

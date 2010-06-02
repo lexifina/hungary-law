@@ -4,7 +4,7 @@
 
 a) a fizetési meghagyásos eljárás és a fizetési meghagyás végrehajtásának elrendelése során az automatikus ügyelosztási rendszer működésének részletes szabályait, továbbá a papír alapú kérelmek esetén a másik közjegyző kijelölését indokolttá tévő fizetési meghagyás kibocsátása iránti kérelmek számát,
 
-b) a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, a benyújtandó űrlapok példányszámát, a MOKK-hoz közvetlenül benyújtható űrlapok körét, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
+b) a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, a benyújtandó űrlapok példányszámát, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
 
 c) a fizetési meghagyásos eljárás és a fizetési meghagyás végrehajtásának elrendelése során érvényesülő ügyviteli szabályokat,
 

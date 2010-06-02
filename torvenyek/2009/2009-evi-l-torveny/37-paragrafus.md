@@ -2,7 +2,7 @@
 
 37. § (1) A kellő időben előterjesztett ellentmondás folytán a fizetési meghagyásos eljárás – az ellentmondással érintett részben – perré alakul át.
 
-(2) A közjegyző az ellentmondásról szóló értesítést az ellentmondással együtt az ellentmondás beérkezésétől számított nyolc napon belül kézbesíti a jogosultnak. Ha a közjegyző a határidőt elmulasztja, az értesítés a határidő utolsó napját követő munkanapon a MOKK rendszere útján a közjegyző nevében automatikusan kerül kézbesítésre a jogosultnak. Ezt a rendelkezést megfelelően alkalmazni kell a 30. és 31. §-ban meghatározott esetekben is.
+(2) A közjegyző az ellentmondásról szóló értesítést az ellentmondás beérkezésétől számított nyolc napon belül kézbesíti a jogosultnak. Ha a közjegyző a határidőt elmulasztja, az értesítés a határidő utolsó napját követő munkanapon a MOKK rendszere útján a közjegyző nevében automatikusan kerül kézbesítésre a jogosultnak. Ezt a rendelkezést megfelelően alkalmazni kell a 30. és 31. §-ban meghatározott esetekben is.
 
 (3) A közjegyző az ellentmondásról szóló értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy az értesítés kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon a peres eljárás illetékét rója le és
 
