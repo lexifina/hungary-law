@@ -1,1 +1,0 @@
-139. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglakoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 14. §-a (6) bekezdésének e) pontjában a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg lép.

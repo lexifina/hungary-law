@@ -1,1 +1,0 @@
-114. § A devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ának 3. pontjában a „bankszámla-” szövegrész helyébe „fizetési számla-” szöveg lép.

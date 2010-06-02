@@ -1,1 +1,0 @@
-98. § A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény 2. §-ának (3) bekezdésében a „jegyzett tőkével” szövegrész helyébe „induló tőkével” szöveg, 14. §-a (11) bekezdésének a) pontjában a „bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.

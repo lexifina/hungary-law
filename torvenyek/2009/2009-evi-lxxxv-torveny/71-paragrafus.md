@@ -1,1 +1,0 @@
-71. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 21. §-a (2) bekezdésének c) pontjában a „szervezet számlaszámát és a számláját vezető pénzintézet megnevezését” szövegrész helyébe a „szervezet pénzforgalmi számlaszámát és a számláját vezető pénzforgalmi szolgáltató megnevezését” szöveg lép.

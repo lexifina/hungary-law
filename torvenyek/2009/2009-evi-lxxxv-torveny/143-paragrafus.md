@@ -1,1 +1,0 @@
-143. § A gazdasági társaságokról szóló 2006. évi IV. törvény 29. §-ának (3) bekezdésében a „bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg, 43. §-ának (1) bekezdésében a „bankszámláit” szövegrész helyébe „pénzforgalmi számláit” szöveg lép.

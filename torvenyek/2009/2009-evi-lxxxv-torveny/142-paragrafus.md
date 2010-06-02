@@ -1,1 +1,0 @@
-142. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 31. §-ának (1) bekezdésében a „bank-” szövegrész helyébe „fizetési, bank-” szöveg lép.

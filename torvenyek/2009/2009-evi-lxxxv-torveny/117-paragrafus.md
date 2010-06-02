@@ -1,5 +1,0 @@
-117. § (1) A Tpt. 217. §-ának (2) bekezdésében a „hatmillió forint” szövegrész helyébe „húszezer euró” szöveg, 338. §-ának (4) bekezdésében a „jegyzett” szövegrész helyébe „induló” szöveg, 352. §-ának (3) bekezdésében a „banktitokra” szövegrész helyébe „banktitokra, fizetési titokra” szöveg, 394. §-a (1) bekezdésének e) pontjában a „bankszámla-forgalommal” szövegrész helyébe „fizetési számla-forgalommal” szöveg, 2. számú melléklet 1. címének 9. pontjában a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 4. számú melléklet e) pontjának 16. alpontjában a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 7. számú melléklet 13. pontjában a „bankszámla” szövegrész helyébe „fizetési számla” szöveg lép.
-
-(2) A Tpt. 227. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Alap pénzeszközeit – a házipénztárt, a fizetési számlán tartott likviditási tartalékot, valamint a kifizetés lebonyolítására vagy más, az Alap működéséhez szükséges célra pénzforgalmi szolgáltatóhoz átutalt összeget kivéve – állampapírban vagy az MNB-nél elhelyezett betétben tarthatja.”

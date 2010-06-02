@@ -1,1 +1,0 @@
-122. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 61. § (5) bekezdésének a) pontjában a „bankszámlaszámáról” szövegrész helyébe „pénzforgalmi számlaszámáról” szöveg, 66. §-ának (5) bekezdésében a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg lép.

@@ -1,1 +1,0 @@
-140. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 132. §-ában a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 149. §-a (1) bekezdésének f) pontjában a „pénzügyi intézményre” szövegrész helyébe „pénzforgalmi szolgáltatóra” szöveg lép.

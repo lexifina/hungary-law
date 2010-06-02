@@ -1,1 +1,0 @@
-113. § A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény 1. számú melléklet III. fejezetének K) pontjában a „bankszámla, folyószámla” szövegrész helyébe „fizetési számla” szöveg lép.

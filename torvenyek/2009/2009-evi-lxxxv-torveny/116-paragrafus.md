@@ -1,1 +1,0 @@
-116. § A felnőttképzésről szóló 2001. évi CI. törvény 26. §-a (2) bekezdésének c) pontjában a „bankszámlaszámát és a számlavezető pénzintézetének megnevezését” szövegrész helyébe „pénzforgalmi számlaszámát és a számlavezető pénzforgalmi szolgáltatójának megnevezését” szöveg lép.
