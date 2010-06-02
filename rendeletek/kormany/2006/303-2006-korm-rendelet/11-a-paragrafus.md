@@ -1,3 +1,3 @@
-## 11. §[^10]
+## 11. §[^11] Az áldozatsegítési eljárásban a méltányossági jogkört gyakorló hatóságként a Kormány a Központi Igazságügyi Hivatalt jelöli ki.
 
-[^10]: A 11. §-t a 182/2009. (IX. 10.) Korm. rendelet 504. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 11. §-t a 182/2009. (IX. 10.) Korm. rendelet 504. §-a hatályon kívül helyezte, újonnan a 126/2010. (IV. 21.) Korm. rendelet 9. § (2) bekezdése iktatta be.

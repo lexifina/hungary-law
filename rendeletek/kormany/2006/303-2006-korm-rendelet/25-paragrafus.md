@@ -1,6 +1,6 @@
-25. §[^21]
+25. §[^22]
 
-Melléklet a 303/2006. (XII. 23.) Korm. rendelethez[^22]
+Melléklet a 303/2006. (XII. 23.) Korm. rendelethez[^23]
 
 Az Igazságügyi Hivatal területi szervei
 
@@ -244,5 +244,5 @@ b) a Jogi Segítségnyújtó Szolgálat feladataival kapcsolatban Zala megye,
 
 c) a kárpótlási feladatokkal kapcsolatban nincs illetékessége.
 
-[^21]: A 25. §-t a 301/2007. (XI. 9.) Korm. rendelet 109. § (3) bekezdésének l) pontja hatályon kívül helyezte.
-[^22]: A melléklet a 354/2007. (XII. 23.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^22]: A 25. §-t a 301/2007. (XI. 9.) Korm. rendelet 109. § (3) bekezdésének l) pontja hatályon kívül helyezte.
+[^23]: A melléklet a 354/2007. (XII. 23.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.

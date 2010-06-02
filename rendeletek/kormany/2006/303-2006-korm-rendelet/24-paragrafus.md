@@ -4,6 +4,6 @@
 
 24. § (1) Ez a rendelet 2007. január 1-jén lép hatályba.
 
-(2)[^20]
+(2)[^21]
 
-[^20]: A 24. § (2) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 109. § (3) bekezdésének l) pontja hatályon kívül helyezte.
+[^21]: A 24. § (2) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 109. § (3) bekezdésének l) pontja hatályon kívül helyezte.

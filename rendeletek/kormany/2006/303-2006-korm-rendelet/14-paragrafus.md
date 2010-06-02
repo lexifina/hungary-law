@@ -1,5 +1,5 @@
-## 13. §[^13]
+## 13. §[^14]
 
 ## A kárpótlási hatóság kijelölése
 
-[^13]: A 13. §-t a 182/2009. (IX. 10.) Korm. rendelet 504. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 13. §-t a 182/2009. (IX. 10.) Korm. rendelet 504. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
