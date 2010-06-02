@@ -1,3 +1,0 @@
-## 11. § A bírósági végrehajtói díjszabásról szóló 14/1994. (IX. 8.) IM rendelet 17. §-a a következő (10) bekezdéssel egészül ki:
-
-## „(10) Ha a kézbesítendő fizetési meghagyást a végrehajtó a Magyar Bírósági Végrehajtói Kamara által működtetett, a kézbesítendő okiratok végrehajtók részére történő megküldésére szolgáló informatikai alkalmazása útján kézhez vette, a kézbesítés foganatosításának megkezdése szempontjából úgy kell tekintenie, hogy a kézbesítés díja megfizetésre került. A kézbesítések díját a Magyar Országos Közjegyzői Kamara – havonta egy alkalommal, összesítetten – átutalja a Magyar Bírósági Végrehajtói Kamara részére, amely gondoskodik az eljáró végrehajtó elszámolási számlájára való átutalásáról.”
