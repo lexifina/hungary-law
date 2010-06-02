@@ -4,7 +4,7 @@
 
 ## A végrehajtás elrendelése
 
-204/B. § A bíróság a zálogjogosult kérelmére a zálogszerződésről szóló közokiratot akként látja el végrehajtási záradékkal [22. § c) pont], hogy a zálogtárgy egyszerűsített végrehajtási értékesítésével rendeli el a zálogjoggal biztosított pénzkövetelés végrehajtását, ha
+204/B. § A bíróság a zálogjogosult kérelmére a zálogszerződésről szóló közokiratot akként látja el végrehajtási záradékkal [23/C. § (3) bekezdés], hogy a zálogtárgy egyszerűsített végrehajtási értékesítésével rendeli el a zálogjoggal biztosított pénzkövetelés végrehajtását, ha
 
 a) a zálogjogosult a zálogkötelezettel a Ptk. 257. §-ának (4) bekezdése szerint megállapodott a zálogtárgy egyszerűsített végrehajtási értékesítésében;
 
