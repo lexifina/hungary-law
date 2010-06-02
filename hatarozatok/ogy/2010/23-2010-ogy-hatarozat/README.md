@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2010-05-17 | 2010-23-30-41.2 | 24/2010. (V. 20.) OGY határozat |
 | 2010-05-20 | 2010-23-30-41.3 | 26/2010. (V. 25.) OGY határozat |
 | 2010-06-01 | 2010-23-30-41.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-06-02 | 2010-23-30-41.5 | 28/2010. (VI. 2.) OGY határozat |
