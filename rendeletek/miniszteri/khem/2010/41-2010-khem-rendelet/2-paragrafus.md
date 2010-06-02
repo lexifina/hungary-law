@@ -1,1 +1,0 @@
-## „(6) A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló miniszteri rendelet alapján a figyelmeztető jelzést adó berendezés használatára jogosult járművet figyelmeztető lámpával szabad felszerelni. Az olyan járműre, amelyen megkülönböztető lámpa van, figyelmeztető lámpát felszerelni nem szabad.”
