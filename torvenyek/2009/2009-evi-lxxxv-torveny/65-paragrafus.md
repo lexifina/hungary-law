@@ -30,4 +30,4 @@ h) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 (5) A közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról szóló 2008. évi CVIII. törvény 41. §-a és 111. §-a (1) bekezdésének c) pontja nem lép hatályba.
 
-(6) E törvény XV. Fejezete 2010. június 2-án hatályát veszti. Ez a bekezdés 2010. június 3-án hatályát veszti.
+(6)
