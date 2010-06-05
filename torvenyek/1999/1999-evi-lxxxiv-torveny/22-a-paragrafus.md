@@ -1,0 +1,1 @@
+22/A. § A nyilvántartó a járműnyilvántartásból történő adatszolgáltatás során a személyiadat- és lakcímnyilvántartás szerinti lakcím adatokat adja át, feltéve, hogy az adatkérés nem az azt tartalmazó okmányban szereplő lakcímadatra vagy a történeti állomány adatára irányul.

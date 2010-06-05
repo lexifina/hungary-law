@@ -30,7 +30,7 @@ l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési
 
 m)
 
-n) a parkolási szolgáltatást nyújtó társaságok a parkolási díj meg nem fizetése esetén a díj és a pótdíj behajtása érdekében a 9. § (1) bekezdés a), b), e), f) pontjaiban megjelölt adatokat;
+n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a helyi önkormányzatokról szóló 1990. évi LXV. törvény 9. § (5) bekezdésben meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1) bekezdésében, (2) bekezdés a), b), d) és e) pontjaiban, továbbá a (3) bekezdésében megjelölt adatokat.
 
 o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat.
 
