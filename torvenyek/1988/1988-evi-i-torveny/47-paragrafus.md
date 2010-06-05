@@ -77,3 +77,7 @@ zhb) veszélyesáru-szállító gépjárművezető,
 zi) a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló külön jogszabályban meghatározott, mezőgazdasági vegyszer, üzemanyag szállítására eredményes vizsgát tett járművezető,
 
 zj) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető.
+
+zsa) várakozási terület: a h) pont szerinti utak közül a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút k) pont szerinti tartozéka, valamint a helyi önkormányzat tulajdonában álló terek, parkok és egyéb közterületek járművel történő várakozásra kijelölt része.
+
+zsb) várakozási terület kezelője: a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút tartozékaként a 33. § (1) bekezdés c) pontjában meghatározott szervezet, a közösségi közlekedéssel érintett közutak kivételével, illetve a helyi önkormányzat tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a tulajdonos helyi önkormányzat. A várakozási területen létesített parkolóóra, jegykiadó automata az Ötv. 9. § (5) bekezdése szerinti szolgáltató tulajdonában, illetve használatában állhat.

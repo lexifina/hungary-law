@@ -118,6 +118,8 @@ b) a miniszter, hogy
 
 30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
+31. a telítettség megállapításának módját.
+
 c) a miniszter, a közlekedésrendészetért felelős miniszter és a környezetvédelemért felelős miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat együttesen,
 
 d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
@@ -154,4 +156,16 @@ rendeletben állapítsa meg.
 
 (4) A Kormány a (3) bekezdés a) pontjában, a miniszter pedig a (3) bekezdés b) pontjában kapott felhatalmazás alapján kiadott jogszabályban a járdákra és azok tartozékaira e törvénynek az utakra vonatkozó szabályaitól eltérő rendelkezéseket is megállapíthat.
 
-(5) Az e törvényben meghatározott díjat, pótdíjat és bírságot – a 9/C. § (1) bekezdésében, 15. § (3) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
+(5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés – hogy rendeletben állapítsa meg a várakozási területek tekintetében
+
+a) az egyes díjköteles várakozási területeket, valamint azok kategóriáját,
+
+b) várakozási területenként vagy kategóriánként a díjköteles várakozási időszakot,
+
+c) a fizetendő várakozási díj mértékét,
+
+d) a díjköteles várakozás megengedett leghosszabb időtartamát,
+
+e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét, azzal, hogy a kedvezményes várakozásra jogosultak körének bővítésére a kerületi képviselő-testület jogosult.
+
+(6) Az e törvényben meghatározott díjat, pótdíjat és bírságot – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
