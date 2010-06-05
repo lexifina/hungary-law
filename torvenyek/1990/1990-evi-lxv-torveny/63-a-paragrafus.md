@@ -30,4 +30,10 @@ n) gondoskodik az egynél több kerületet, illetőleg a főváros területét i
 
 o) gondoskodik az egynél több kerületet, illetőleg a főváros területét meghaladó, a nemzeti és etnikai kisebbségi oktatási, nevelési és kulturális feladatok ellátásáról;
 
-p) fővárosi információs rendszert működtet.
+p) fővárosi információs rendszert működtet,
+
+q) külön törvény felhatalmazása alapján rendeletében szabályozza a főváros várakozási (parkolási) és parkolásgazdálkodási rendszerét, a kiemelten védett és védett várakozási (parkolási) övezeteket, és az alkalmazható várakozási díjak megállapítását,
+
+r) rendeletében szabályozza a közterülethasználatot és a közterület rendjét,
+
+s) rendeletében szabályozza a közterületfelügyelet szervezetét és feladatait.

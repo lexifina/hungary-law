@@ -1,1 +1,1 @@
-68/D. § A fővárosban a helyi közutak és műtárgyaik, a terek, parkok tulajdonjogát a fővárosi és a kerületi önkormányzatok egymásra átruházhatják.
+68/D. § A fővárosban a helyi közutak és műtárgyaik, a terek, a parkok, és a 9. § (5) bekezdés szerinti gazdasági társaságban a helyi önkormányzat tulajdoni részesedésének tulajdonjogát a fővárosi és a kerületi önkormányzatok egymásra átruházhatják.
