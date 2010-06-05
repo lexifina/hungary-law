@@ -1,0 +1,3 @@
+2. § Az Ötv. 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A települési önkormányzat köteles gondoskodni az egészséges ivóvíz ellátásáról, az óvodai nevelésről, az általános iskolai oktatásról és nevelésről, az egészségügyi és a szociális alapellátásról, a közvilágításról, a helyi közutak és a köztemető fenntartásáról, a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás (parkolás) biztosításáról; köteles biztosítani a nemzeti és az etnikai kisebbségek jogainak érvényesülését.”

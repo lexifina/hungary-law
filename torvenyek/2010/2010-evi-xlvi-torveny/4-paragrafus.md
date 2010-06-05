@@ -1,0 +1,3 @@
+4. § Az Ötv. 63. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A főváros és a fővárosi kerület törvényben meghatározott önálló feladat- és hatáskörű települési önkormányzat. A kerületi önkormányzat működési területén köteles gondoskodni az óvodai nevelésről, az általános iskolai nevelésről és oktatásról, egészségügyi és szociális alapellátásról, valamint feladatkörében az egészséges ivóvízellátásról, a helyi közutak fenntartásáról, a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás (parkolás) biztosításáról, a nemzeti és etnikai kisebbségek jogainak érvényesüléséről.”
