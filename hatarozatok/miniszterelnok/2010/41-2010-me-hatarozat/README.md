@@ -1,0 +1,9 @@
+# 41/2010. (VI. 7.) ME határozat
+
+helyettes államtitkárok kinevezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-41-30-63
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-06-07 | 2010-41-30-63.1 | 41/2010. (VI. 7.) ME határozat |
