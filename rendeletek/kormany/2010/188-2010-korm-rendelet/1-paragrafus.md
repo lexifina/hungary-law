@@ -1,6 +1,6 @@
 1. § (1) A Kormány a polgári védelemről szóló 1996. évi XXXVII. törvény 2. § (2) bekezdés g) és j) pontja szerinti veszélyhelyzetet hirdet ki. A veszélyhelyzet az alábbi települések közigazgatási területén áll fenn:
 
-a) Bőny, Mezőörs, Rétalap (Győr-Moson-Sopron Megye),
+a)[^2]
 
 b) Jászdózsa, Jánoshida, Jászalsószentgyörgy, Alattyán, Jásztelek, Jászjákóhalma és Jászberény (Jász-Nagykun-Szolnok Megye).
 
@@ -9,3 +9,5 @@ b) Jászdózsa, Jánoshida, Jászalsószentgyörgy, Alattyán, Jásztelek, Jász
 (3) A veszélyhelyzettel érintett területen a Hvt. 159. § (1)–(3) bekezdésében, 165. §-ában, 168. §-ában, 169. §-ában, 172. § (1) bekezdésében, 173. § (1)–(2) bekezdésében, (3) bekezdés a)–c) pontjában, (4) és (5) bekezdésében, 186. §-ában, valamint 195. § (1)–(2) bekezdéseiben meghatározott intézkedéseket kell alkalmazni.
 
 (4) A veszélyhelyzet elhárításába a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 8. § b) pontja alapján a Magyar Honvédség és a rendvédelmi szervek bevonhatók.
+
+[^2]: Az 1. § (1) bekezdés a) pontját a 190/2010. (VI. 8.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
