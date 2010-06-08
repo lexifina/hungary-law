@@ -1,0 +1,1 @@
+## 1. § A Kormány a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 188/2010. (VI. 2.) Korm. rendelet 1. § (1) bekezdés a) pontja szerinti, a Bőny, Mezőörs, Rétalap (Győr-Moson-Sopron Megye) települések közigazgatási területére kihirdetett árvízi veszélyhelyzetet feloldja.
