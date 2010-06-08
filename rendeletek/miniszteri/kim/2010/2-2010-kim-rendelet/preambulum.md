@@ -1,0 +1,1 @@
+A Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény (a továbbiakban: Tv.) 7. §-ában kapott felhatalmazás alapján, a Tv. 2. § (1) bekezdése fa) pontja szerinti hatáskörömben eljárva a következőket rendelem el:
