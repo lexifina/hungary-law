@@ -1,12 +1,12 @@
 ## A Kormány tagjainak és a katasztrófavédelemben érintett állami szervek részletes feladatai
 
-12. § (1)[^32] A katasztrófák elleni védekezésért felelős miniszter:
+12. § (1)[^40] A katasztrófák elleni védekezésért felelős miniszter:
 
 a) irányítja és ellenőrzi a védekezéssel és a felkészüléssel kapcsolatban a megyei, fővárosi védelmi bizottságok (a továbbiakban: megyei védelmi bizottság), illetve a megyei védelmi bizottságok elnökei feladatainak végrehajtását,
 
 b) meghatározza a megyei védelmi bizottságok védekezésre történő felkészítésének rendjét,
 
-c)[^33] jóváhagyja a megyei védelmi bizottságok által tervezett – az OKF által egyeztetett – katasztrófavédelmi gyakorlatok terveit,
+c)[^41] jóváhagyja a megyei védelmi bizottságok által tervezett – az OKF által egyeztetett – katasztrófavédelmi gyakorlatok terveit,
 
 d) meghatározza a katasztrófavédelmi tervező, szervező tevékenység irányelveit,
 
@@ -38,5 +38,5 @@ d) meghatározza más, a védekezésben részt vevő állami szervekkel az együ
 
 (4) A katasztrófavédelemben részt vevő állami szervek vezetőinek a feladataikat úgy kell megszervezni, hogy munkaidőn belül a váratlan helyzetekben haladéktalanul, munkaidőn kívül kettő órán belül legalább az azonnal foganatosítható rendszabályok bevezetésére, hat órán belül a teljes működésre legyenek képesek. Munkaszüneti napon, illetve heti pihenőnapon ez az idő kettő órával növekedhet.
 
-[^32]: A 12. § (1) bekezdésének bevezető szövegrésze a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 119. pontjával megállapított, valamint a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^33]: A 12. § (1) bekezdésének c) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 119. pontja szerint módosított szöveg.
+[^40]: A 12. § (1) bekezdésének bevezető szövegrésze a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 119. pontjával megállapított, valamint a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^41]: A 12. § (1) bekezdésének c) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 119. pontja szerint módosított szöveg.

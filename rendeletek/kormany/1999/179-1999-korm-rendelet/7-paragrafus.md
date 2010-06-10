@@ -14,8 +14,10 @@ a) összehangolja a mentésben részt vevő szervek tevékenységét, a központ
 
 b) figyelemmel kíséri, szükség esetén összehangolja a katasztrófák hatása elleni védekezés (a továbbiakban: védekezés) helyi irányítását, összehangolja a védelmi bizottságok elnökei védekezési tevékenységét,
 
-c) a külön jogszabályban meghatározottak szerint irányítja a nukleáris veszélyhelyzet, illetőleg nukleáris baleset elhárítását,
+c)[^28] a külön jogszabályban meghatározottak szerint irányítja a nukleárisbaleset-elhárítási veszélyhelyzet, illetőleg nukleáris baleset elhárítását,
 
 d) a külön jogszabályban meghatározott esetben irányítja a vizek kártételei elleni védekezést.
 
 (3) A KKB a Kormány döntésének megfelelően végzi a helyreállítással kapcsolatos feladatok irányítását.
+
+[^28]: A 7. § (2) bekezdés c) pontja a 165/2010. (V. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.

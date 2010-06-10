@@ -18,13 +18,13 @@ f) a megyei védelmi bizottság ülésének napirendjére tűzi a védekezésben
 
 g) az éves feladattervben meghatározza a polgármesterek felkészítésével kapcsolatos feladatokat,
 
-h)[^34] kidolgoztatja a területi szintű együttműködés terveit a megyei szintű közigazgatási szervek, a Magyar Honvédség, a rendvédelmi szervek megyében (fővárosban) lévő végrehajtó szervezetei és a társadalmi szervezetek megyei szervei között,
+h)[^42] kidolgoztatja a területi szintű együttműködés terveit a megyei szintű közigazgatási szervek, a Magyar Honvédség, a rendvédelmi szervek megyében (fővárosban) lévő végrehajtó szervezetei és a társadalmi szervezetek megyei szervei között,
 
 i) kezdeményezheti kölcsönös segítségnyújtási tervek kidolgozását más megyékkel és a fővárossal kötött megállapodások alapján,
 
 j) egyetértési jogot gyakorol a területi polgári védelmi szervezetek felépítésére, létszámára vonatkozó – a területileg illetékes hivatásos katasztrófavédelmi szerv által tett – javaslatok felett,
 
-k)[^35] a katasztrófák elleni védekezésért felelős miniszter részére felterjeszti az illetékességi területén lévő települések polgármestereinek a települések polgári védelmi besorolására vonatkozó javaslatait.
+k)[^43] a katasztrófák elleni védekezésért felelős miniszter részére felterjeszti az illetékességi területén lévő települések polgármestereinek a települések polgári védelmi besorolására vonatkozó javaslatait.
 
 (3) A védekezés időszakában a megyei védelmi bizottság elnöke:
 
@@ -34,7 +34,7 @@ b) kijelöli a védekezés koordinálásáért felelős szervezetet, személyt,
 
 c) hatáskörét meghaladó esetekben kezdeményezi a KKB döntését,
 
-d)[^36] a KKB útján kezdeményezi a Magyar Honvédség védekezésbe történő bevonását,
+d)[^44] a KKB útján kezdeményezi a Magyar Honvédség védekezésbe történő bevonását,
 
 e) koordinálja a védekezésben részt vevő polgármesterek (helyi védelmi bizottságok) tevékenységét,
 
@@ -60,9 +60,9 @@ f) koordinálja a humanitárius segélyek elosztását,
 
 g) ellenőrzi a helyreállítási munkálatokat.
 
-(5)[^37] A katasztrófavédelmi feladatok végrehajtása során a központi pénzügyi források területi és a helyi felhasználása az Igazgatóságok útján történik.
+(5)[^45] A katasztrófavédelmi feladatok végrehajtása során a központi pénzügyi források területi és a helyi felhasználása az Igazgatóságok útján történik.
 
-[^34]: A 13. § (2) bekezdésének h) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 29. pontja szerint módosított szöveg.
-[^35]: A 13. § (2) bekezdésének k) pontja a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^36]: A 13. § (3) bekezdésének d) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 29. pontja szerint módosított szöveg.
-[^37]: A 13. § (5) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 100. §-ának a) pontja szerint módosított szöveg.
+[^42]: A 13. § (2) bekezdésének h) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 29. pontja szerint módosított szöveg.
+[^43]: A 13. § (2) bekezdésének k) pontja a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^44]: A 13. § (3) bekezdésének d) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 29. pontja szerint módosított szöveg.
+[^45]: A 13. § (5) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 100. §-ának a) pontja szerint módosított szöveg.
