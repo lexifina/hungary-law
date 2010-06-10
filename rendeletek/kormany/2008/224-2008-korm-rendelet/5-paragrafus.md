@@ -10,11 +10,13 @@
 
 a) a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i, 1907/2006/EK európai parlamenti és tanácsi rendelet 126. cikkének,
 
-b)[^8] a veszélyes vegyi anyagok kiviteléről és behozataláról szóló, 2008. június 17-i 689/2008/EK európai parlamenti és tanácsi rendelet 18. cikkének
+b)[^21] a veszélyes vegyi anyagok kiviteléről és behozataláról szóló, 2008. június 17-i 689/2008/EK európai parlamenti és tanácsi rendelet 18. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-Melléklet a 224/2008. (IX. 9.) Korm. rendelethez[^9]
+c)[^22] az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról (CLP), a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet 47. cikkének
+
+Melléklet a 224/2008. (IX. 9.) Korm. rendelethez[^23]
 
 Kémiai terhelési bírság befizetési számlaszámok
 
@@ -34,5 +36,6 @@ Kémiai terhelési bírság befizetési számlaszámok
 
 | ÁNTSZ Közép-magyarországi Regionális Intézete | 10032000-00290160-00000000 |
 
-[^8]: Az 5. § (5) bekezdés b) pontja a 123/2009. (VI. 12.) Korm. rendelet 7. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A mellékletet a 123/2009. (VI. 12.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^21]: Az 5. § (5) bekezdés b) pontja a 123/2009. (VI. 12.) Korm. rendelet 7. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (5) bekezdés c) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^23]: A mellékletet a 123/2009. (VI. 12.) Korm. rendelet 8. § (4) bekezdése iktatta be.

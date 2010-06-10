@@ -6,9 +6,9 @@ b) a kötelezettségszegés tartamához, súlyához, ismétlődéséhez, a vesz�
 
 c) a kötelezettségszegést elkövető vállalkozás méretéhez és/vagy a gyártott vagy importált anyag éves mennyiségéhez,
 
-d)[^4] a hatóság írásbeli tájékoztatásának, tanácsadásának megtörténtéhez, a hatóság írásbeli figyelmeztetésében, vagy a hiányosságok megszüntetését, illetve a szükséges intézkedések végrehajtását előíró határozatában, illetőleg a hatósággal kötött írásos megállapodásban foglaltak teljesítéséhez.
+d)[^17] a hatóság írásbeli tájékoztatásának, tanácsadásának megtörténtéhez, a hatóság írásbeli figyelmeztetésében, vagy a hiányosságok megszüntetését, illetve a szükséges intézkedések végrehajtását előíró határozatában, illetőleg a hatósági szerződésben foglaltak teljesítéséhez.
 
-(2)[^5] Az egészségügyért felelős miniszter a kémiai terhelési bírság alkalmazásának elveiről az egészségügyi államigazgatási szerv számára normatív utasítást ad ki. Az utasítás tervezetéről a jogszabályok előkészítésére vonatkozó szabályok megfelelő alkalmazásával az egészségügyért felelős miniszter konzultációt folytat a vállalkozások szakmai érdek-képviseleti szervezeteivel. Az utasítást a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni.
+(2)[^18]
 
-[^4]: A 2. § (1) bekezdés d) pontját a 123/2009. (VI. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^5]: A 2. § (2) bekezdése az 5. § (2) bekezdése alapján 2009. január 1-jén lép hatályba.
+[^17]: A 2. § (1) bekezdés d) pontját a 123/2009. (VI. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 145/2010. (IV. 29.) Korm. rendelet 2. § k) pontja szerint módosított szöveg.
+[^18]: A 2. § (2) bekezdését a 145/2010. (IV. 29.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
