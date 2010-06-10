@@ -2,7 +2,7 @@
 
 7. § (1) Az Országos Nukleárisbaleset-elhárítási Rendszer önálló lakossági tájékoztatás végzésére jogosult szervei:
 
-a)[^2] Országos Katasztrófavédelmi Főigazgatóság,
+a)[^4] Országos Katasztrófavédelmi Főigazgatóság,
 
 b) KKB Nukleárisbaleset-elhárítási Védekezési Munkabizottság,
 
@@ -30,9 +30,10 @@ e) Co–60 és más sugárforrással működő besugárzó eszközöket működt
 
 f) Kiégett Kazetták Átmeneti Tárolója.
 
-(3)[^3] Az (1) és (2) bekezdésben felsorolt szervek és szervezetek, illetve létesítmények nukleáris és radiológiai veszélyhelyzetben az önálló lakossági tájékoztatással egyidejűleg a KKB Nukleárisbaleset-elhárítási Védekezési Munkabizottság Lakossági Tájékoztatási Munkacsoportját, a megelőzés időszakában az Országos Katasztrófavédelmi Főigazgatóságot kötelesek tájékoztatni.
+(3)[^5] Az (1) és (2) bekezdésben felsorolt szervek és szervezetek, illetve létesítmények nukleáris és radiológiai veszélyhelyzetben az önálló lakossági tájékoztatással egyidejűleg a KKB Operatív Törzs Lakossági Tájékoztatási Munkacsoportját, a megelőzés időszakában az Országos Katasztrófavédelmi Főigazgatóságot kötelesek tájékoztatni.
 
-(4) A Nukleáris Baleseti Információs és Értékelő Központban, valamint az ágazati és területi információs központokban keletkezett információkat a KKB Nukleárisbaleset-elhárítási Védekezési Munkabizottság Lakossági Tájékoztatási Munkacsoportja, illetve az (1) és (2) bekezdésben felsorolt szervek és szervezetek, illetve létesítmények teszik közzé a lakosság részére.
+(4)[^6] A Nukleáris Baleseti Információs és Értékelő Központban, valamint az ágazati és területi információs központokban keletkezett információkat a KKB Operatív Törzs Lakossági Tájékoztatási Munkacsoportja, illetve az (1) és (2) bekezdésben felsorolt szervek és szervezetek, illetve létesítmények teszik közzé a lakosság részére.
 
-[^2]: A 7. § (1) bekezdésének a) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 167. pontja szerint módosított szöveg.
-[^3]: A 7. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 167. pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdésének a) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 167. pontja szerint módosított szöveg.
+[^5]: A 7. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 167. pontja, a 165/2010. (V. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^6]: A 7. § (4) bekezdése a 165/2010. (V. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.

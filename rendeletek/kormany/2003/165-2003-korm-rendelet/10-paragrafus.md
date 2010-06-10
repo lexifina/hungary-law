@@ -1,3 +1,3 @@
-## 9. §[^4]
+## 9. §[^7]
 
-[^4]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 829. pontja hatályon kívül helyezte.
+[^7]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 829. pontja hatályon kívül helyezte.
