@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdésének i) pontjában meghatározott hatáskörében eljárva, a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 7. § (1) bekezdésére tekintettel a következőket rendeli el:
