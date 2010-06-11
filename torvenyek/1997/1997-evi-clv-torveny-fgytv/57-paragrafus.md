@@ -2,7 +2,7 @@
 
 57. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 90/88/EGK irányelvével módosított 87/102/EGK irányelve (1986. december 22.) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről [a 2. § o) pontja és a 7–7/A. §];
+a)
 
 b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 

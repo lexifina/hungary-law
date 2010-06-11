@@ -30,9 +30,9 @@ m) eladási ár: a termék egy egységére vagy adott mennyiségére vonatkozó 
 
 n) egységár: a termék egy kilogrammjára, egy literére vagy milliliterére, egy méterére, egy négyzetméterére vagy egy köbméterére vonatkozó ár,
 
-o) fogyasztási kölcsön: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény hatálya alá nem tartozó minden olyan kölcsön, részletfizetés vagy halasztott fizetés, amelyet vállalkozás fogyasztó részére nyújt az általa forgalmazott termék vagy ingatlan megvételéhez, illetve az általa nyújtott szolgáltatás igénybevételéhez,
+o)
 
-p) fogyasztási kölcsönszerződés: a fogyasztási kölcsön igénybevételére irányuló szerződés,
+p)
 
 q) kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
 

@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-155-00-00.25 |
 | 2010-03-01 | 2009. évi CLXII. törvény | 1997-155-00-00.26 |
+| 2010-06-11 | 2009. évi CLXII. törvény | 1997-155-00-00.27 |
