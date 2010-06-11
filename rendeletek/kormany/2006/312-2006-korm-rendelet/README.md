@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-312-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2006-312-20-22.5 | 312/2006. (XII. 23.) Korm. rendelet |
+| 2010-06-11 | 2006-312-20-22.6 | 193/2010. (VI. 10.) Korm. rendelet |

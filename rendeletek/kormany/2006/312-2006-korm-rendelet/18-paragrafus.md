@@ -1,4 +1,4 @@
-## 18. §[^15] Ez a rendelet a következő közösségi rendeletek és határozatok végrehajtásához szükséges rendelkezéseket állapítja meg:
+## 18. §[^20] Ez a rendelet a következő közösségi rendeletek és határozatok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a Tanács 2006. július 11-i 1083/2006/EK rendelete az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről;
 
@@ -18,4 +18,4 @@ h) az Európai Parlament és a Tanács 2007. május 23-i 2007/574/EK határozata
 
 i) az Európai Parlament és a Tanács 2007. május 23-i 2007/575/EK határozata a Szolidaritás és a migrációs áramlások igazgatása általános program keretében a 2008–2013-as időszakra az Európai Visszatérési Alap létrehozásáról.
 
-[^15]: A 18. § a 405/2007. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^20]: A 18. § a 405/2007. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
