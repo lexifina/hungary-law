@@ -4,7 +4,7 @@ a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pon
 
 b)
 
-c) az egységesített betéti kamatláb mutató, valamint a teljes hiteldíjmutató számítására és közzétételére,
+c) az egységesített betéti kamatláb mutató számítására és közzétételére,
 
 d)
 

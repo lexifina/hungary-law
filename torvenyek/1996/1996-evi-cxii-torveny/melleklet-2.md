@@ -116,7 +116,7 @@ e) anyavállalatnak leányvállalatokkal, illetőleg ez utóbbiak egymás közö
 
 a) a munkáltató által a munkavállaló részére szociális céllal – esetileg – adott kölcsön,
 
-b) az egymással áruszállítási vagy szolgáltatási jogviszonyban álló vállalkozások vagy természetes személyek által e jogviszonyra tekintettel adott halasztott fizetés vagy előleg, ide nem értve a hitelintézet által kötött ilyen ügyleteket,
+b) az egymással áruszállítási vagy szolgáltatási jogviszonyban álló vállalkozások vagy természetes személyek által e jogviszonyra tekintettel adott halasztott fizetés vagy előleg (kereskedelmi kölcsön), ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket,
 
 c) a biztosítóintézet által az életbiztosítási kötvény tulajdonosának nyújtott kötvénykölcsön,
 
@@ -226,7 +226,7 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 4. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
-5. Fogyasztási kölcsön: a mindennapi élet szokásos használati tárgyainak megvásárlásához, javíttatásához vagy szolgáltatás igénybevételéhez, továbbá a felhasználási célhoz nem kötötten fogyasztónak nyújtott kölcsön.
+5.
 
 6. Jegyzett tőke: az Szmt. 35. §-ának (3) bekezdése szerint meghatározott tőke.
 
@@ -260,7 +260,7 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 12. Közvetett tulajdon: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (a 4. számú melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán, illetőleg szavazati jogán keresztül történő birtoklása vagy gyakorlása.
 
-13. Lakossági kölcsön: a fogyasztási kölcsön, valamint az ingatlan vásárlására, építésére, felújítására, bővítésére, korszerűsítésére, továbbá közműfejlesztésre fogyasztónak nyújtott kölcsön.
+13.
 
 14. Likvid eszköz: pénz, illetőleg az azonnal pénzzé tehető eszközök összessége.
 
@@ -474,6 +474,6 @@ V. A XX/A. Fejezetre vonatkozó fogalommeghatározások
 
 2. Referenciaadat: bármely olyan adat, ideértve a nyilvántartott személyazonosító adatait is, amelyet a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás e törvény alapján kezelhet.
 
-3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító.
+3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
 
-4. Vállalkozás: a gazdasági társaság, az egyéni cég az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót.
+4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.

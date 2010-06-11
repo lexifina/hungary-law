@@ -1,4 +1,4 @@
-209. § A bankhitel- és a bankkölcsönügylet általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
+209. § A hitel- és a kölcsönszerződés általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
 
 a) a hitelintézet teljes nevét, a tevékenységi engedély számát és dátumát,
 

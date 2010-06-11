@@ -28,7 +28,7 @@ f) lakcím,
 
 g) levelezési cím.
 
-1.2 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában meghatározott szolgáltatásra, valamint a hallgatói hitelre vonatkozó szerződési adatok:
+1.2 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában meghatározott szolgáltatásra, kereskedelmi kölcsönre, valamint a hallgatói hitelre vonatkozó szerződési adatok:
 
 a) a szerződés típusa és azonosítója (száma),
 
@@ -44,7 +44,7 @@ f) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpont
 
 g) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
 
-1.3 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
+1.3 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződésre, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
 
 a) az igénylés elutasításának időpontja, indoka,
 

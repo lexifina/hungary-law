@@ -8,4 +8,4 @@ c) a kölcsön futamideje legfeljebb tizenkét hónap, és
 
 d) a pénzforgalmi intézmény szavatoló tőkéje megfelel az e törvényben meghatározott követelményeknek.
 
-(2) A pénzforgalmi intézmény hitelnyújtására a 201–214/C. § rendelkezései megfelelően alkalmazandóak.
+(2) A pénzforgalmi intézmény hitelnyújtására a 199. §, a 201–211. § és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezései megfelelően alkalmazandóak.
