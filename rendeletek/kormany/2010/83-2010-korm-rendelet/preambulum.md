@@ -1,0 +1,1 @@
+A Kormány a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. § a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
