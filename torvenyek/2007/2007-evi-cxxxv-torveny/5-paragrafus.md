@@ -1,6 +1,6 @@
 5. § (1) A Felügyelet látja el a feladatkörében a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
-a) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 87/102/EGK tanácsi irányelvet,
+a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2008/48/EK európai parlamenti és tanácsi irányelvet,
 
 b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 93/13/EGK tanácsi irányelvet,
 

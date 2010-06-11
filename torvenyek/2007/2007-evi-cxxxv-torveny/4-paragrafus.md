@@ -1,4 +1,4 @@
-4. § Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
+4. § (1) Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
 
 a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény,
 
@@ -33,3 +33,5 @@ o) a viszontbiztosítókról szóló 2007. évi CLIX. törvény,
 p) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
+
+(2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.

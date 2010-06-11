@@ -32,7 +32,9 @@ o) a 15. § (5) bekezdés szerinti összefoglalót,
 
 p) a 44/C. §-ban meghatározott határozat meghozatalával egyidejűleg a tevékenység végzésével kapcsolatos azon kockázatokat, amelyek a pénzügyi közvetítőrendszer stabilitását veszélyeztetik,
 
-q) azon információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
+q) azon – az Európai Unió kötelező jogi aktusának átültetése céljából elfogadott – jogszabályi rendelkezések felsorolását, amelyek alapján a fogyasztó a termék értékesítésére vagy szolgáltatás nyújtására vonatkozó szerződéstől elállhat,
+
+r) azon információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
 
 (2) A Felügyelet az (1) bekezdés g) pontja szerinti közzétételi kötelezettségének legalább féléves gyakorisággal tesz eleget.
 
