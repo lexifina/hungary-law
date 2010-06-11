@@ -1,1 +1,0 @@
-A Kormány a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (3) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
