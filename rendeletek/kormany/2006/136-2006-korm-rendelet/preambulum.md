@@ -1,1 +1,0 @@
-A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Ksztv.) 76. §-ának (1) és (2) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
