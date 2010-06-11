@@ -1,0 +1,5 @@
+7. § (1) Ha a hitelintézet az EBKM számításánál valamilyen kedvezményt vesz figyelembe, és e kedvezmény valamilyen feltételtől függ (akár a hitelintézet, akár az ügyfél oldaláról), a kereskedelmi kommunikációnak legalább a részletes feltételek pontos elérhetőségét tartalmaznia kell.
+
+(2) Kedvezményes kamattal meghirdetett, automatikusan megújuló betét esetén a szerződés megkötésére vonatkozó ajánlatnak és kereskedelmi kommunikációnak a kedvezményes EBKM értéke mellett a közzététel időpontjában hatályos kondíciós lista szerinti nem kedvezményes EBKM értékét is tartalmaznia kell.
+
+(3) Ha a hitelintézet olyan összetett szolgáltatást kínál, ahol a betét mellett befektetési jegyet is kötelező vásárolni, a kereskedelmi kommunikációnak vagy a betéti szerződés megkötésére vonatkozó ajánlatnak a betétrészre vonatkozó EBKM értékét követően tartalmaznia kell – megegyező megjelenítésben – az alábbi szöveget: Az ajánlat másik elemét képező befektetési alap hozama az alapban lévő befektetési eszközök hozamától függően változó lehet. Az alap múltbeli hozama nem jelent garanciát a jövőbeni hozamra.
