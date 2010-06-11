@@ -15,3 +15,7 @@ e) a fizetés és a teljesítés feltételeiről,
 f) a 6. §-ban szabályozott elállási (felmondási) jogról, illetve annak fenn nem állásáról; az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről, ideértve a 8. §-ban foglaltakat; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell,
 
 g) arról, hogy a fogyasztó kérése esetén további tájékoztatást kap, illetve ezen további tájékoztatás jellegéről.
+
+(3) A (2) bekezdés b) pontjában meghatározott tájékoztatás fogyasztónak nyújtott hitel nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-a (3) bekezdésének 4–7. pontjában, 9. pontjában és 6. §-a (4) bekezdésében foglalt adatokat, a hitel teljes összegét és a teljes hiteldíj mutatót egy reprezantatív példával tartalmazza.
+
+(4) A (2) bekezdés b) pontjában meghatározott tájékoztatás fizetési számlához kapcsolódó hitelkeret nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-a (3) bekezdésének 4., 7. és 8. pontja, továbbá 6. § (8) bekezdésének c) pontjában foglalt adatokat tartalmazza, ha fogyasztó a fizetési számlához kapcsolódó hitelkeret azonnali rendelkezésre bocsátását kéri.
