@@ -1,1 +1,0 @@
-## 6. § A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.) Korm. rendelet (a továbbiakban: R2.) 5. § (1) bekezdésében, 7. § (3) és (4) bekezdésében, valamint 1. számú melléklet 5. pontjában a „KKB Nukleárisbaleset-elhárítási Védekezési Munkabizottság” szövegrész helyébe a „KKB Operatív Törzs” szöveg lép.

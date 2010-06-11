@@ -1,1 +1,0 @@
-## „(4) A Nukleárisbaleset-elhárítási Védekezési Munkabizottság a nukleáris veszélyhelyzet kockázatainak kezelésére, a nukleárisbaleset-elhárításra létrehozott, a katasztrófák elleni védekezésért felelős miniszter által működtetett, az OAH főigazgatója által vezetett védekezési munkabizottság.”
