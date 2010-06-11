@@ -1,0 +1,3 @@
+3. § (1) Az e rendelet szerinti juttatások igénybevételére vonatkozó jogosultságot az állami vezetők esetében a Ksztv. 7. § (5) bekezdése szerinti igazolvány, a kormánybiztos esetében a miniszterelnök által kiadott igazolvány, a többi jogosult esetében a közigazgatás összehangolásáért felelős miniszter által kiállított igazolás igazolja.
+
+(2) Az állami vezető állami vezetői igazolványának felmutatásával a közigazgatás valamennyi szervéhez, továbbá az államhatalmi szervekhez és a közintézményekhez beléphet. Az állami vezető rendvédelmi szerv, vagy a Magyar Honvédség működésére szolgáló területre a feladatkörrel rendelkező miniszter által szabályozott módon léphet be.

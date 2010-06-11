@@ -1,0 +1,1 @@
+A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 75. § (1) és (3) bekezdéseiben kapott felhatalmazás alapján a következőket rendeli el:
