@@ -92,9 +92,9 @@ c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett �
 
 14. állampapírhozam:
 
-a) a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat, az értékpapírok hozama és a teljes hiteldíj mutató számításáról és közzétételéről szóló 41/1997. (III. 5.) Korm. rendelet 6. §-ának megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+a)[^1] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
-b) az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat, az értékpapírok hozama és a teljes hiteldíj mutató számításáról és közzétételéről szóló 41/1997. (III. 5.) Korm. rendelet 6. §-ának megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+b)[^2] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
 15. referenciahozam: az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga,
 
@@ -135,3 +135,6 @@ b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a t
 ## ellenőrzi.
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
+
+[^1]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
