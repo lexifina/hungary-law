@@ -1,0 +1,1 @@
+## 1. § A Kormány a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 189/2010. (VI. 4.) Korm. rendelet 1. § (1) bekezdése szerint kihirdetett veszélyhelyzetet Békés megye, Fejér megye, Heves megye, Pest megye és Szabolcs-Szatmár-Bereg megye közigazgatási területe vonatkozásában feloldja.
