@@ -1,1 +1,0 @@
-A Kormány a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 235. §-a (1) bekezdésének c) és d) pontjában, valamint a Magyar Köztársaság 1997. évi költségvetéséről szóló 1996. évi CXXIV. törvény 97. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján az alábbiakat rendeli el:
