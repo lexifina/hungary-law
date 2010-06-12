@@ -1,3 +1,5 @@
+## 12/A. §[^13] Az egyes pénzügyminiszteri rendeletek módosításáról szóló 17/2010. (IV. 28.) PM rendelet 2. § (2) bekezdésével módosított 12. § (1) bekezdést a hatálybalépését[^14] követően benyújtott kérelmek esetében kell alkalmazni.
+
 13. § Ez a rendelet a kihirdetése napján lép hatályba.
 
 Melléklet az 5/2003. (II. 4.) PM rendelethez
@@ -16,7 +18,7 @@ d) alapító okiratának száma, kelte, cégjegyzékszáma,
 
 e) gazdálkodási formája, tevékenységének felsorolása,
 
-f)[^13] belföldi fizetési számlaszáma, ahova a kérelem visszavonása esetén a díj visszatérítését kéri.
+f)[^15] belföldi fizetési számlaszáma, ahova a kérelem visszavonása esetén a díj visszatérítését kéri.
 
 2. A program részletes leírása, így különösen:
 
@@ -108,4 +110,6 @@ A rendelet 4. §-ában meghatározott nyilatkozatok, iratok.
 
 10. A kérelem kelte, a Szervező képviseletére jogosult személy aláírása.
 
-[^13]: A melléklet 1. pont f) alpontja a 17/2010. (IV. 28.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 12/A. §-t a 17/2010. (IV. 28.) PM rendelet 2. § (3) bekezdése iktatta be.
+[^14]: A hatálybalépés időpontja: 2010. június 12.
+[^15]: A melléklet 1. pont f) alpontja a 17/2010. (IV. 28.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.
