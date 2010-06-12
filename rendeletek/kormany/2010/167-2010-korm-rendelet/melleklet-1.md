@@ -1,3 +1,5 @@
+## 20. §[^2]
+
 1. melléklet a 167/2010. (V. 11.) Korm. rendelethez
 
 ## Az országos nukleárisbaleset-elhárítási rendszer működtetésében részt vevő központi, ágazati, területi és helyi szervek és szervezetek
@@ -65,3 +67,5 @@
 3.4. a minisztériumok, érintett kormány- és központi hivatalok irányításával működő területi szervek
 
 3.5. a rendvédelmi szervek területi és helyi parancsnokságai
+
+[^2]: A 20. § a (2) bekezdés alapján hatályát vesztette.
