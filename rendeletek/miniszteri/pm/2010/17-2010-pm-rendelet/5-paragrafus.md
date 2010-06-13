@@ -1,1 +1,0 @@
-## 4. § A közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendelet 51. § (10) bekezdésében a „bankszámlákra” szövegrész helyébe a „fizetési számlákra” szöveg, a „bankszámlával” szövegrész helyébe a „fizetési számlával” szöveg, az „utalhatja” szövegrész helyébe „fizetési számláról történő készpénz-kifizetésként utalhatja” szöveg lép.
