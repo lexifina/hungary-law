@@ -1,0 +1,1 @@
+25. § Ez a törvény a Tanács 1994. december 19-i 94/80/EK az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló irányelvének való megfelelést szolgálja.
