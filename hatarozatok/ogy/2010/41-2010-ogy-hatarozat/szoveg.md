@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Simicskó István országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 14. B. 28023/2009/7. számú megkeresésével érintett ügyben nem függeszti fel.
