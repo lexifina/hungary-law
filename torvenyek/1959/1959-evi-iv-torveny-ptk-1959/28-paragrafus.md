@@ -2,7 +2,7 @@
 
 ## A jogképesség; a jogi személy létrejötte és megszűnése
 
-Ptk.28. § (1) Az állam — mint a vagyoni jogviszonyok alanya — jogi személy. Az államot a polgári jogviszonyokban – ha jogszabály ettől eltérően nem rendelkezik – az államháztartásért felelős miniszter képviseli; ezt a jogkörét más állami szerv útján is gyakorolhatja, vagy más állami szervre ruházhatja át.
+Ptk.28. § (1) Az állam – mint a vagyoni jogviszonyok alanya – jogi személy. Az államot a polgári jogviszonyokban – ha jogszabály ettől eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter képviseli.
 
 (2) A kártérítési, megtérítési és kártalanítási kötelezettség, valamint a jóhiszemű személyek irányában vállalt szerződéses kötelezettség az államot költségvetési fedezet hiányában vagy az e célra biztosított költségvetési fedezetet meghaladó mértékben is terheli.
 

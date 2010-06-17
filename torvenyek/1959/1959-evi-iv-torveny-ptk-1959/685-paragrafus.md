@@ -4,7 +4,7 @@
 
 Ptk.685. § E törvény alkalmazásában
 
-a) jogszabály: a törvény, a kormányrendelet, továbbá a törvény felhatalmazása alapján, annak keretei között az önkormányzati rendelet; a 29. § (3) bekezdése, a 200. § (2) bekezdése, a 209/B. § (6) bekezdése, a 305. § (1) bekezdése, a 434. § (3)–(4) bekezdése, az 523. § (2) bekezdése és az 528. § (3) bekezdése tekintetében valamennyi jogszabály;
+a) jogszabály: a törvény, a kormányrendelet, továbbá a törvény felhatalmazása alapján, annak keretei között az önkormányzati rendelet; a 28. § (1) bekezdése tekintetében az állami vagyon felügyeletéért felelős miniszter rendelete; a 29. § (3) bekezdése, a 200. § (2) bekezdése, a 209/B. § (6) bekezdése, a 305. § (1) bekezdése, a 434. § (3)–(4) bekezdése, az 523. § (2) bekezdése és az 528. § (3) bekezdése tekintetében valamennyi jogszabály;
 
 Tvr.18. § A törvény hatálybalépése előtt kiadott hatályos jogszabályokat ez a rendelkezés nem érinti.
 
