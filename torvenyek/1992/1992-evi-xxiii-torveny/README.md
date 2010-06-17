@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-23-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-23-00-00.77 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1992-23-00-00.78 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 1992-23-00-00.79 |
+| 2010-06-17 | 2010. évi LII. törvény | 1992-23-00-00.80 |
