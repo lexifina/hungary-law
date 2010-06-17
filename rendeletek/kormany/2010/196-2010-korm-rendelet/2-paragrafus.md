@@ -1,0 +1,1 @@
+## 1. § A Kormány a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 186/2010. (VI. 2.) Korm. rendelet 1. §-a szerint Borsod-Abaúj-Zemplén megye közigazgatási területére kihirdetett veszélyhelyzetet feloldja, valamint az abban megjelölt területekre elrendelt rendkívüli készültséget megszünteti.
