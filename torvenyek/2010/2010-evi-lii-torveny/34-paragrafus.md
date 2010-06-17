@@ -1,0 +1,1 @@
+34. § A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 3. § (1) bekezdés a) pontjában a „34–36. § és a 49/N. § (3) bekezdése” szövegrész helyébe a „34–36. §, 47–48/A. § és a 49/N. § (3) bekezdése” szöveg lép.
