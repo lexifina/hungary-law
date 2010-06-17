@@ -1,0 +1,1 @@
+## 1. § A Kormány a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 189/2010. (VI. 4.) Korm. rendelet 1. § (1) bekezdése szerint Bács-Kiskun megye, Csongrád megye és Jász-Nagykun-Szolnok megye közigazgatási területére kihirdetett veszélyhelyzetet feloldja.
