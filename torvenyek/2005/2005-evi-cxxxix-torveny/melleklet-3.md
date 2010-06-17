@@ -105,5 +105,3 @@ Harmadik
 |
 
 –
-
-1. A számítási alap (1) az éves költségvetésről szóló törvényben a miniszter által vezetett minisztérium költségvetési fejezetében a felsőoktatás támogatására megállapított támogatási összeg figyelembevételével a Kormány rendeletében meghatározott összeg.

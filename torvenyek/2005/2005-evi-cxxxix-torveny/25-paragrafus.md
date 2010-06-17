@@ -38,7 +38,7 @@ c) dönt azokban az ügyekben, amelyek ellátására a szenátus felhatalmazta.
 
 (2) A gazdasági tanács figyelemmel kíséri a felsőoktatási intézmény gazdálkodásában a szakmai hatékonyság és a gazdaságosság követelményeinek érvényesítését. Rendszeresen – de évente legalább két alkalommal – áttekinti a felsőoktatási intézmény működését, gazdálkodását, az alapító okiratában meghatározott feladatok végrehajtását. Figyelemmel kíséri, hogy a felsőoktatási intézmény szervezeti rendje igazodik-e a feladatok hatékony ellátásához.
 
-(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését.
+(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
 
 (4) A szervezeti és működési szabályzatban meg kell határozni azt az összeget, amely felett a gazdasági tanács véleményét a kötelezettségvállaláshoz be kell szerezni.
 

@@ -26,7 +26,7 @@ eb) a szakmai munka eredményességét;
 
 f) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
 
-g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását;
+g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
 
 h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről;
 

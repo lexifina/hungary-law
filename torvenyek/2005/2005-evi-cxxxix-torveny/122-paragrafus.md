@@ -10,7 +10,7 @@ a) az állami vagyon értékesítésére vonatkozó általános rendelkezések f
 
 b) a vagyon valós piaci értékének ellenértéke fejében,
 
-c) a miniszter előzetes egyetértésével,
+c) az állami vagyon felügyeletéért felelős miniszter előzetes egyetértésével,
 
 d) a Magyar Nemzeti Vagyonkezelő Zrt. értékesítést megelőző értesítése mellett,
 
