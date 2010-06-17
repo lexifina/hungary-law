@@ -4,7 +4,7 @@
 
 (2) Hivatásos szolgálati viszony létesíthető azzal a szerződéses szolgálati jogviszonyban lévő személlyel, akinek szolgálati idejéből már legalább egy év eltelt és megfelel az (1) bekezdésben, valamint a 37/A. § (1) bekezdésében előírt feltételeknek.
 
-(3) Tiszti kinevezés esetén a miniszter, egyéb esetben az országos parancsnok hozzájárulásával a munkáltatói jogkört gyakorló elöljáró indokolt esetben szolgálati viszonyt létesíthet a 47. életévét még be nem töltött személlyel.
+(3) Tiszti kinevezés esetén a miniszter, egyéb esetben az országos parancsnok hozzájárulásával a munkáltatói jogkört gyakorló elöljáró indokolt esetben szolgálati viszonyt létesíthet a 47. életévét még be nem töltött személlyel. A Vám- és Pénzügyőrségnél tiszti kinevezés esetén a miniszter, egyéb esetben az országos parancsnok hozzájárulásával a munkáltatói jogkört gyakorló elöljáró indokolt esetben szolgálati viszonyt létesíthet a 47. életévét már betöltött személlyel is.
 
 (4) A szolgálati viszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket a jelentkezőnek igazolnia kell.
 

@@ -8,7 +8,7 @@ b) állományilletékes parancsnok: az az általános munkáltatói jogkört gya
 
 c) elöljáró parancsnok: az állományilletékes parancsnok közvetlen szolgálati elöljárója;
 
-d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy;
+d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, köztisztviselőként foglalkoztatott személy is minősülhet;
 
 e) országos parancsnok: a rendőrség központi szervének vezetője, a BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a vám- és pénzügyőrség, valamint a büntetés-végrehajtás országos parancsnoka, a nemzetbiztonsági szolgálatok főigazgatói;
 
