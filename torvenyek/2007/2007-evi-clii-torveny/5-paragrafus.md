@@ -2,7 +2,7 @@
 
 5. § (1) A vagyonnyilatkozat-tételi kötelezettségnek a kötelezett
 
-a) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
+a) a 6. § (2) bekezdés kivételével a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
 
 b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő tizenöt napon belül,
 
