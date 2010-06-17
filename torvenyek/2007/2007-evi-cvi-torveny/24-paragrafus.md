@@ -8,7 +8,9 @@ b) nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ing
 
 c) jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
 
-d) a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg.
+d) a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
+
+e) társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
 
 (3) Zártkörű pályázat kiírására különösen akkor kerülhet sor, ha a vagyontárgy nyilvános pályáztatásának reális, tervezett költségei jelentősen csökkentenék a hasznosításból éves szinten elérhető bevételt, vagy ha a korábbi nyilvános pályázat eredménytelenül zárult és ezen eljárással is biztosítható az állami vagyon gazdaságos – a 23. § (3) bekezdésében foglaltaknak megfelelő – hasznosítása.
 

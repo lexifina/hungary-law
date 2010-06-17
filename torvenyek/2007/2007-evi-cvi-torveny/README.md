@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-106-00-00.7 |
 | 2010-04-01 | 2009. évi CLV. törvény | 2007-106-00-00.8 |
+| 2010-06-17 | 2010. évi LII. törvény | 2007-106-00-00.9 |

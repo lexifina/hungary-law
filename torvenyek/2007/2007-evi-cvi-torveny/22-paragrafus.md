@@ -12,6 +12,6 @@
 
 (6) Az MNV Zrt. saját vagyonával való gazdálkodásától el kell különíteni az MNV Zrt.-re bízott állami vagyont, valamint az ennek értékesítésével és hasznosításával összefüggő bevételeket és kiadásokat.
 
-(7) Az állami vagyon hasznosításából és értékesítéséből eredő bevételeket az MNV Zrt. a Tanács döntésének megfelelően – a (8) bekezdésben foglaltak figyelembevételével – a rábízott vagyon értékének megőrzésére, gyarapítására, hasznosítására fordítja. A Nemzeti Földalapba tartozó ingatlanok hasznosításából, értékesítéséből származó bevételeket a Nemzeti Földalap feletti tulajdonosi joggyakorlással összefüggő feladatokra, termőföldvásárlásra, illetve a termőföld életjáradék ellenében történő megvásárlásáról szóló kormányrendelet alapján folyósítandó életjáradékok kifizetésére kell fordítani.
+(7) Az állami vagyon hasznosításából és értékesítéséből eredő bevételeket az MNV Zrt. – a (8) bekezdésben foglaltak figyelembevételével – a rábízott vagyon értékének megőrzésére, gyarapítására, a vagyon célszerinti működtetésére, illetve a rábízott vagyon hasznosítására fordítja.
 
 (8) Az MNV Zrt.-re bízott vagyon hasznosításával kapcsolatos tervezett bevételeket és kiadásokat a költségvetési törvény részeként az Országgyűlés hagyja jóvá.
