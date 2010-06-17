@@ -12,4 +12,4 @@
 
 (6) A Vám- és Pénzügyőrség által kezelt adatokat személyazonosításra alkalmatlan módon, statisztikai célra fel lehet használni.
 
-(7) Az adópolitikáért felelős miniszter, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(7) Az adópolitikáért felelős miniszter, a kormánybiztos, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.

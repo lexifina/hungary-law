@@ -1,1 +1,3 @@
-6. § A Vám- és Pénzügyőrség polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezései az irányadók.
+6. § (1) A Vám- és Pénzügyőrség közalkalmazottnak minősülő polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, a köztisztviselőnek minősülő polgári alkalmazottainak jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, illetve a kormánytisztviselők jogállásáról szóló 2010. évi törvény rendelkezései az irányadók.
+
+(2) A kormánybiztos a Vám- és Pénzügyőrség nyomozóhatósági feladatait ellátó szerveinek központi irányításával szolgálati viszonyban nem álló, köztisztviselőként foglalkoztatott személyt is megbízhat, illetve a bűnüldözési, bűnmegelőzési, felderítési és nyomozati feladatok ellátására szolgálati viszonyban nem álló, köztisztviselőnek minősülő személyt is foglalkoztathat.
