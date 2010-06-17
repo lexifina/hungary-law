@@ -1,0 +1,25 @@
+# A Kormány 198/2010. (VI. 17.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 104. szám, 2010. június 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/928eabd0e79108c92c79c3b01516470fcb9c33d6/dokumentumok/647d22e363abd5f50f39bbef7916226d1cad9956/letoltes)
+
+---
+
+A Kormány 198/2010. (VI. 17.) Korm. rendelete
+a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló
+189/2010. (VI. 4.) Korm. rendelettel kihirdetett veszélyhelyzet teljes feloldásáról
+A Kormány az Alkotmány 35. § (1) bekezdésének i) pontjában meghatározott hatáskörében eljárva, a katasztrófák elleni védekezés
+irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi
+LXXIV. törvény 7. § (1) bekezdésére tekintettel a következőket rendeli el:
+1. § A Kormány a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 189/2010. (VI. 4.) Korm.
+rendelet 1. § (1) bekezdése szerint Bács-Kiskun megye, Csongrád megye és Jász-Nagykun-Szolnok megye
+közigazgatási területére kihirdetett veszélyhelyzetet feloldja.
+2. § A Kormány az árvízvédekezéssel összefüggő, 2010. június 4. 20.00 órát követően felmerült, indokolt költségek
+felméréséről és biztosításáról külön intézkedik.
+3. § (1) Ez a rendelet 2010. június 17-én 18 órakor lép hatályba.
+(2) Hatályát veszti a veszélyhelyzet kihirdetéséről és az ennek során teendő intézkedésekről szóló 189/2010. (VI. 4.) Korm.
+rendelet.
+(3) Ez a rendelet 2010. június 18-án hatályát veszti.
+Dr. Navracsics Tibor s. k.,
+miniszterelnök-helyettes
+
+VIII. Az Országos Választási Bizottság állásfoglalásai
