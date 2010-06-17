@@ -16,4 +16,8 @@ c) tárgyi eszköznek nem minősülő termék felhasználása adólevonásra nem
 
 d) az adóalany megszűnése, ha az adóalany a megszűnés időpontjában olyan terméket tart tulajdonában, amelynek beszerzéséhez vagy b) pont szerinti felhasználásához kapcsolódóan egészben vagy részben adólevonási jog illette meg.
 
-(3) Nem minősül ellenérték fejében teljesített termékértékesítésnek, ha az adóalany – vállalkozásának céljára tekintettel – más tulajdonába ingyenesen enged át árumintát és kis értékű terméket.
+(3) Nem minősül ellenérték fejében teljesített termékértékesítésnek
+
+a) a közcélú adomány,
+
+b) ha az adóalany – vállalkozásának céljára tekintettel – más tulajdonába ingyenesen enged át árumintát és kis értékű terméket.
