@@ -4,9 +4,9 @@
 
 1. § (1) Az MFB Zrt. egyszemélyes, zártkörű részvénytársaság formájában működő szakosított hitelintézet.
 
-(2) Az MFB Zrt. részvényeinek száz százaléka a Magyar Állam tulajdonában van. A részvények forgalomképtelenek.
+(2) Az MFB Zrt. részvényeinek száz százaléka a Magyar Állam tulajdonában van. A részvények elidegenítése, biztosítékul adása semmis.
 
-(3) Az MFB Zrt. jegyzett tőkéje legalább 60 000 000 000 Ft, azaz hatvanmilliárd forint.
+(3) Az MFB Zrt. jegyzett tőkéje legalább 100.000.000.000,– Ft, azaz százmilliárd forint.
 
 (4) Az MFB Zrt. székhelye Budapest.
 

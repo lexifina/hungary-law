@@ -6,7 +6,7 @@
 
 a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
 
-b) a nemzetgazdasági szempontból kiemelt állami és önkormányzati fejlesztések, beruházások (így különösen az infrastrukturális, környezetvédelmi, munkahelyteremtő, oktatási, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások, illetve az ezek bővítéséhez szükséges fejlesztési hitel- és tőkefinanszírozásában;
+b) a nemzetgazdasági szempontból kiemelt állami és önkormányzati fejlesztések, beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások, illetve az ezek bővítéséhez szükséges fejlesztési hitel- és tőkefinanszírozásában;
 
 c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások – beruházásainak, kísérleti fejlesztéseinek fejlesztési hitel- és tőkefinanszírozásában, valamint a mezőgazdasági őstermelők és családi gazdálkodók beruházásainak fejlesztési hitelfinanszírozásában;
 
@@ -32,4 +32,6 @@ i) a Kormány határozata alapján a Magyar Vállalkozásfejlesztési Alapítvá
 
 j) az arra jogosult pártoknak a működési feltételeiket szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtásában;
 
-k) a Kormány határozata alapján – a piaci elégtelenségek mérséklése érdekében – gazdálkodó szervezetek és önkormányzatok részére éven túli lejáratú forgóeszköz hitelek és kölcsönök finanszírozásában, továbbá éven túli lejáratú forgóeszköz hitelekre és kölcsönökre vonatkozó készfizető kezesség vagy bankgarancia vállalásában, amelyeknek elsősorban a piaci elégtelenségek miatt kárt szenvedő, termelő tevékenységet folytató piaci szereplők forráshoz jutását kell biztosítania.
+k) a Kormány határozata alapján – a piaci elégtelenségek mérséklése érdekében – gazdálkodó szervezetek és önkormányzatok részére éven túli lejáratú forgóeszköz hitelek és kölcsönök finanszírozásában, továbbá éven túli lejáratú forgóeszköz hitelekre és kölcsönökre vonatkozó készfizető kezesség vagy bankgarancia vállalásában, amelyeknek elsősorban a piaci elégtelenségek miatt kárt szenvedő, termelő tevékenységet folytató piaci szereplők forráshoz jutását kell biztosítania;
+
+l) a Magyar Állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására.

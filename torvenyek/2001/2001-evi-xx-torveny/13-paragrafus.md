@@ -1,6 +1,6 @@
 ## A tulajdonosi jogok gyakorlója
 
-13. § (1) Az MFB Zrt.-ben a Magyar Államot mint egyszemélyes tulajdonost az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény mellékletében meghatározott miniszter képviseli.
+13. § (1) Az MFB Zrt.-ben a Magyar Államot mint egyszemélyes tulajdonost az állami vagyonért felelős miniszter képviseli.
 
 (2) A tulajdonosi jogok gyakorlójának kizárólagos hatáskörébe – az e törvényben szereplő eltérésekkel – a Gt. 231. § (2) bekezdésében foglaltak tartoznak.
 

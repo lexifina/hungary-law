@@ -6,22 +6,20 @@
 
 (3) Az MFB Zrt. kizárólag
 
-a) járulékos vállalkozásban,
+a) pénzügyi intézményben, befektetési vállalkozásban, árutőzsdei szolgáltatóban, a tőkepiacról szóló 2001. évi CXX. törvény szerinti elszámolóházi tevékenységet végző szervezetben, befektetési alapkezelőben, tőzsdében, biztosítóban, viszontbiztosítóban, járulékos vállalkozásban, illetve nemzetközi pénzügyi szervezetben,
 
-b) fejlesztési banki tevékenységet végző hitelintézetben és nemzetközi pénzügyi szervezetben,
+b) az e törvény 2. számú mellékletében meghatározott gazdálkodó szervezetben,
 
-c) az e törvény mellékletében meghatározott gazdálkodó szervezetben,
+c) a 2. §-ban meghatározott feladatainak ellátása érdekében alapított gazdasági társaságban,
 
-d) a 2. § d) pontjában meghatározott feladatok ellátása érdekében alapított gazdasági társaságban,
+d) átmenetileg, a szerzés időpontjától számított legfeljebb hároméves időtartamra, pénzügyi szolgáltatásból származó veszteségmérséklés céljából, illetőleg hiteltulajdonrész csereügylet vagy felszámolás következtében jogi személyiségű gazdasági társaságban, vagy
 
-e) átmenetileg, a szerzés időpontjától számított legfeljebb hároméves időtartamra, pénzügyi szolgáltatásból származó veszteségmérséklés céljából, illetőleg hitel- tulajdonrész csereügylet vagy felszámolás következtében, vagy
+e) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából magyarországi székhelyű, jogi személyiségű gazdasági társaságban [Gt. 2. § (2) bekezdés]
 
-f) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából jogi személyiségű gazdasági társaságban
+közvetlenül vagy közvetve szerezhet tulajdonrészt.
 
-szerezhet tulajdonrészt.
+(4) Az MFB Zrt. egy gazdasági társaságban – a (3) bekezdés a)–d) pontjában meghatározott társaságok kivételével – közvetlenül, illetőleg közvetetten legfeljebb 50% –1 szavazat mértékű tulajdoni részesedéssel rendelkezhet.
 
-(4) Az MFB Zrt. egy gazdasági társaságban – a (3) bekezdés a)–e) pontjában meghatározott társaságok kivételével – közvetlenül, illetőleg közvetetten legfeljebb 50% – 1 szavazat mértékű tulajdoni részesedéssel rendelkezhet.
-
-(5) Az MFB Zrt. által egy gazdasági társaságba, illetve a társaság által ellenőrzött más gazdasági társaságba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének huszonöt százalékát.
+(5) Az MFB Zrt. által egy gazdasági társaságba, illetve a társaság által ellenőrzött más gazdasági társaságba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének harmincöt százalékát.
 
 (6) A Hpt. XIV. fejezete alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.

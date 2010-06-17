@@ -22,6 +22,6 @@ c) az MFB Zrt. által forrásszerzés céljából felvett, éven túli lejárat�
 
 d) az MFB Zrt. által saját kockázatára nyújtott azon hitelek és kölcsönök állományát, amelyekhez a Kormány határozatában forrás- és/vagy eszközoldali kamattámogatást biztosít.
 
-(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonásához az államháztartásért felelős miniszter – a tulajdonosi jogokat gyakorló miniszterrel közösen kialakított eljárási rend szerinti – előzetes egyetértése szükséges.
+(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását az államháztartásért felelős miniszterrel és a tulajdonosi jogokat gyakorló miniszterrel egyeztetve végzi.
 
 (5) Az (1) bekezdésben szereplő kezességek beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 1992. évi XXXVIII. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat kell alkalmazni.
