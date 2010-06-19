@@ -1,5 +1,5 @@
-3. § (1) Az adatszolgáltatás – a nemzeti és etnikai hovatartozás, az anyanyelv és a fogyatékosság kivételével – kötelező. Az adatszolgáltatásra kötelezettek kötelesek a népszámlálás körébe tartozó adatokat a valóságnak megfelelően, az 1. § (3) bekezdésében meghatározott adatszolgáltatási módok valamelyikével az 1. § (5) bekezdésben meghatározott időszakban megadni.
+3. § (1) Az adatszolgáltatás – a (2) bekezdésben felsorolt kérdések kivételével – kötelező. Az adatszolgáltatásra kötelezettek kötelesek a népszámlálás körébe tartozó adatokat a valóságnak megfelelően, az 1. § (3) és (4) bekezdésekben meghatározott adatszolgáltatási módok valamelyikével az 1. § (5) bekezdésben meghatározott időszakban megadni.
 
-(2) Az adatszolgáltatás a nemzeti és etnikai hovatartozásra, az anyanyelvre, valamint a fogyatékosságra vonatkozóan önkéntes.
+(2) Az adatszolgáltatás az egészségi állapotra, a fogyatékosságra, a vallásra, az anyanyelvre és a nemzetiségre vonatkozóan önkéntes.
 
 (3) A népszámlálás során gyűjtött adatok kizárólag statisztikai célra használhatók.
