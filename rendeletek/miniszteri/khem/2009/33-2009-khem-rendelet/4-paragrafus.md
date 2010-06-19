@@ -10,8 +10,8 @@
 
 (5) A Hivatal e rendelet szerinti eljárása – a (6) bekezdés kivételével – minősítési és értékelési szakaszból áll.
 
-(6)[^1] A 6. § (4) bekezdés d) pontja szerinti pályázat esetén, ha a pályázó megfelel a minősítési szakasz követelményeinek, nyertes pályázónak minősül. Ha a kiosztható kapacitás kevesebb, mint amennyit a pályázók nyertessége esetén ki kellene osztani, a Hivatal a pályázók által igényelt kapacitást arányosan csökkenti.
+(6)[^3] A 6. § (4) bekezdés d) pontja szerinti pályázat esetén, ha a pályázó megfelel a minősítési szakasz követelményeinek, nyertes pályázónak minősül. Ha a kiosztható kapacitás kevesebb, mint amennyit a pályázók nyertessége esetén ki kellene osztani, a Hivatal a pályázók által igényelt kapacitást arányosan csökkenti.
 
 (7) Az e rendelet szerinti pályázati eljárás nyelve a magyar.
 
-[^1]: A 4. § (6) bekezdése a 36/2009. (VII. 22.) KHEM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 4. § (6) bekezdése a 36/2009. (VII. 22.) KHEM rendelet 6. § (2) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## A pályázati eljárás előkészítése
 
-5. § (1) A Hivatal minden év szeptember 15-éig – a hálózati engedélyesek bevonásával – elemzést végez a villamosenergia-rendszer középtávon várható teljesítményének egyensúlyáról, szabályozhatóságáról és biztonságos működéséről, amelynek során figyelembe veszi
+5. § (1)[^4] A Hivatal minden év december 31-ig – a hálózati engedélyesek bevonásával – elemzést végez a villamosenergia-rendszer középtávon várható teljesítményének egyensúlyáról, szabályozhatóságáról és biztonságos működéséről, amelynek során figyelembe veszi
 
 a) a rendszerszabályozási elveket,
 
@@ -23,3 +23,5 @@ c) milyen rendszerszabályozási feltételek teljesülése szükséges az új sz
 (3) Az elemzést a Hivatal a honlapján az elemzés elkészítését követően haladéktalanul közzéteszi.
 
 (4) A hálózati engedélyesek a Hivatal felszólítására kötelesek közreműködni az (1) bekezdésben meghatározott elemzés elkészítésében.
+
+[^4]: Az 5. § (1) bekezdése az 1/2010. (VI. 18.) NFM rendelet 4. § (2) bekezdése szerint módosított szöveg.
