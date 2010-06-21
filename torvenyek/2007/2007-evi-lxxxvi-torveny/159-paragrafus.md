@@ -28,7 +28,7 @@ k) előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabály
 
 l) előkészíti a felhasználó igénye alapján az elosztó és egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körét és díjait,
 
-m) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás árképzésére vonatkozó előírások betartását, továbbá jóváhagyja az egyetemes szolgáltatás árait,
+m) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira vonatkozó előírások betartását,
 
 n) az átviteli rendszerirányító javaslata alapján dönt a vezetékek közcélúvá, ezen belül átviteli, illetve elosztó vezetékké történő minősítéséről, átminősítéséről,
 

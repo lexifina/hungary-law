@@ -14,4 +14,4 @@
 
 (8) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a jogszabály megsértésével más árban állapodtak meg.
 
-(9) E fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 144. § (1) bekezdése szerinti csatlakozási díj, az elosztó hálózati engedélyes, vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett egyes szolgáltatások 142. § (11) bekezdése, illetve 143. § (3) bekezdése szerinti díja, valamint az egyetemes szolgáltatás 143. § (1)–(2) bekezdése szerint képzett ára.
+(9) E fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 144. § (1) bekezdése szerinti csatlakozási díj, az elosztó hálózati engedélyes, vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett egyes szolgáltatások 142. § (11) bekezdése, illetve 143. § (3) bekezdése szerinti díja, valamint az egyetemes szolgáltatás 143. § (1) bekezdése szerinti ára.

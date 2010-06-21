@@ -92,7 +92,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-1. az egyetemes szolgáltatás árképzésének szabályait és az egyetemes szolgáltatás legnagyobb kereskedelmi árrését, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat,
+1. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 
 2. az elosztó hálózati engedélyesek és az egyetemes szolgáltató által a felhasználó igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait,
 
