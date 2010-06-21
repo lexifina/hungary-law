@@ -2,6 +2,8 @@
 
 Elnök: Dr. Dancsó József (Fidesz)
 
+Alelnök: Dr. Nyikos László (Jobbik)[^2]
+
 Tagjai: Babák Mihály (Fidesz)
 
 Balla György (Fidesz)
@@ -12,8 +14,8 @@ Dr. Hargitai János (KDNP)
 
 Boldvai László (MSZP)
 
-Dr. Nyikos László (Jobbik)
-
 Vágó Gábor (LMP)
 
 2. E határozat elfogadásakor lép hatályba.
+
+[^2]: A 43/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
