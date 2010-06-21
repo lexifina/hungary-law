@@ -16,7 +16,7 @@ g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával,
 
 h) javaslatot tesz a felhasználó igénye alapján az engedélyes által külön díj ellenében végezhető kiegészítő, illetve karbantartó szolgáltatások körére és díjaira, továbbá az egyetemes szolgáltatás felmondása, valamint a közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályaira és az áralakítás elveire;
 
-i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás árképzésére és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, dönt az egyetemes szolgáltatás árfeltételeiről;
+i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira vonatkozó előírások teljesülését és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 
 í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
 

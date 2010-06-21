@@ -4,7 +4,7 @@
 
 2. a csatlakozási díjakat, a rendszerhasználati díjakat, a földgázelosztási díjból származó árbevétel földgázelosztók közötti megosztására vonatkozó kiegyenlítő mechanizmus részletes szabályait, a díjalkalmazás feltételeit – különös tekintettel az ellátásbiztonságra és a földgáz műszaki vagy minőségi jellemzőire –, a díjszabályozás kereteit, a rendszerhasználati díjakra az engedélyesek által történő javaslattétel részletes szabályait az indokolt költségek meghatározásának módját, a szolgáltatások minősége javításának a rendszerhasználati díjakon keresztül történő ösztönzése szabályait, valamint a szolgáltatások minőségének romlása esetén a rendszerüzemeltetők által érvényesíthető alacsonyabb rendszerhasználati díjakat,
 
-3. az egyetemes szolgáltatáshoz kapcsolódó árszabások képzését, annak időszakonkénti változását, az egyetemes szolgáltató által alkalmazandó árképletet és alkalmazási feltételeit, az átalánydíjas fogyasztás elszámolásának részletes szabályait, valamint az egyetemes szolgáltató által benyújtandó árváltoztatási javaslatot megelőzően alkalmazandó tételes induló árszabásokat,
+3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az átalánydíjas fogyasztás elszámolásának részletes szabályait, az egyetemes szolgáltatók részére a 141. § alapján vételre felajánlott földgázforrás költségalapú árát, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 
 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, és a szükséges adatszolgáltatást,
 

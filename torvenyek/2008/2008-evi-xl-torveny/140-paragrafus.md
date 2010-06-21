@@ -4,7 +4,7 @@
 
 (3) A Hivatal az (1) és (2) bekezdés szerinti engedélykérelmek alapján, 2009. január 31-ig határozatban dönt a működési engedélyekről.
 
-(4) A külön törvényben meghatározott távhőtermelési engedéllyel rendelkező felhasználó 2010. június 30-ig jogosult az egyetemes szolgáltatás igénybevételére.
+(4) A külön törvényben meghatározott távhőtermelési engedéllyel rendelkező felhasználó 2011. június 30-ig jogosult az egyetemes szolgáltatás igénybevételére.
 
 (5) A 20 m3/óra fogyasztást meghaladó, de a 100 m3/óra fogyasztást el nem érő felhasználók 2010. június 30-ig jogosultak az egyetemes szolgáltatás igénybevételére.
 

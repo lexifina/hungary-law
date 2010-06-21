@@ -34,7 +34,7 @@
 
 16. Felhasználási hely: a felhasználó tulajdonában vagy használatában lévő ingatlan, ahol a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely vagy a fogyasztói főcsap van.
 
-17. Felhasználó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli társaság, aki (amely) földgázt vagy vezetéken keresztül PB-gázt saját felhasználás céljára vásárol.
+17. Felhasználó: aki földgázt vagy vezetéken keresztül PB-gázt saját felhasználás céljára vásárol.
 
 18. Felhasználói berendezés: a fogyasztói vezeték, a gázfogyasztó készülék és a gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok összessége.
 
@@ -98,7 +98,7 @@ b) Horizontálisan integrált vállalkozás: olyan vállalkozás, amely a földg
 
 46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly helyreálljon és fenntartható legyen.
 
-47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, lakás céljára használt lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 

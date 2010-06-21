@@ -1,17 +1,9 @@
 107. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával kell megvalósítani.
 
-(2) A 32. § alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árának meghatározásánál figyelembe veendő összehasonlító ár kiszámítására vonatkozó előírásokat és az alkalmazható legnagyobb kereskedelmi árrést a Hivatal javaslata alapján a miniszter külön jogszabályban állapítja meg.
+(2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, és összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(3) Az egyetemes szolgáltatónak az egyetemes szolgáltatás árára vonatkozó árváltoztatási szándékát és a javasolt árakat tartalmazó üzletszabályzat módosítást 25 nappal előre jóváhagyásra be kell jelentenie a Hivatalhoz. A Hivatal a javasolt árakról 20 napon belül határoz.
+(3) A 32. § alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(4) A jóváhagyott árakat az egyetemes szolgáltató alkalmazásuk kezdete előtt legalább 5 nappal a honlapján, valamint a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
+(4) Az egyetemes szolgáltatás hatósági árait legalább azok hatálybalépése előtt 30 nappal ki kell hirdetni.
 
-(5) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a (4) bekezdés szerinti közzétételen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan, írásban tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra és a felmondás határidejére is ki kell terjednie.
-
-(6) Az egyetemes szolgáltatás árát naptári negyedévenként egyszer lehet módosítani.
-
-(7) Az egyetemes szolgáltatás árára és árképzésére vonatkozó előírások teljesülését a Hivatal ellenőrzi.
-
-(8) A (7) bekezdés szerinti ellenőrzés keretében a Hivatal naptári negyedévenként ellenőrzi az összehasonlító ár árelemeinek alakulását a (2) bekezdés szerinti miniszteri rendeletben meghatározott, az összehasonlító ár kiszámítására vonatkozó előírások alapján.
-
-(9) Amennyiben a (8) bekezdés szerinti eljárása során a Hivatal megállapítja, hogy valamely egyetemes szolgáltató által alkalmazott ár a miniszteri rendelet előírásainak megfelelően képzett árnál magasabb, a Hivatal az egyetemes szolgáltató által alkalmazott árat határozattal hivatalból módosítja.
+(5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.

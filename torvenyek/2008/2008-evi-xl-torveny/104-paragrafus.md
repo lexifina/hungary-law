@@ -6,7 +6,7 @@
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
-(5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki, kivéve az egyetemes szoltáltatáshoz kapcsolódó árakat. A miniszter a rendeletben meghatározza, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
+(5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A miniszter a rendeletben meghatározza, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (6) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 

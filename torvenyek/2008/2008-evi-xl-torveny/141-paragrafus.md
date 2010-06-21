@@ -2,6 +2,6 @@
 
 (2) Az egyetemes szolgáltatásra jogosult felhasználókat ellátó földgázkereskedők földgáz forrásainak biztosítása céljából a Get. szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő köteles 2014-ig évente március 31-ig, az adott év július 1. és a következő év június 30. közötti időszakra a külön jogszabályban meghatározott módon a szerződéssel nem lekötött földgázforrásait vételre felajánlani.
 
-(3) A Hivatal határozatban állapítja meg a vételre felajánlott földgázforrás költségalapú árát. A Hivatal határozatában úgy állapítja meg az árat, hogy figyelembe veszi az engedélyesi tevékenység végzésével felmerült költségeket, befektetéseket és biztosítja ezek méltányos – az üzleti kockázatot figyelembe vevő – megtérülését.
+(3) A miniszter a Hivatal javaslata alapján rendeletben állapítja meg a vételre felajánlott földgázforrás költségalapú árát. Az ár megállapítása során figyelembe kell venni az engedélyesi tevékenység végzésével felmerült költségeket, befektetéseket és biztosítani kell ezek méltányos – az üzleti kockázatot figyelembe vevő – megtérülését.
 
 (4) A földgázellátásról szóló 2003. évi XLII. törvény 33. § (1) bekezdése és 34. § (2) bekezdése alapján a közüzemi nagykereskedő és a közüzemi szolgáltatók között létrejött megállapodások – amennyiben 2008. december 31-ig a szerződő felek nem állapodnak meg eltérően – megszűnnek.
