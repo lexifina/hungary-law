@@ -1,0 +1,1 @@
+18. § A VET 141. § (9) bekezdésében „az egyetemes szolgáltatás 143. § (1)–(2) bekezdése szerint képzett ára” szövegrész helyébe „az egyetemes szolgáltatás 143. § (1) bekezdése szerinti ára” szöveg lép.
