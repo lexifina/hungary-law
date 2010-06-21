@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2010-06-02 | 2010-23-30-41.5 | 28/2010. (VI. 2.) OGY határozat |
 | 2010-06-08 | 2010-23-30-41.6 | 30/2010. (VI. 11.) OGY határozat |
 | 2010-06-14 | 2010-23-30-41.7 | 36/2010. (VI. 16.) OGY határozat |
+| 2010-06-21 | 2010-23-30-41.8 | 44/2010. (VI. 23.) OGY határozat |
