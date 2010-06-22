@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a magyar–román államhatárt keresztező földgázszállító vezetékekkel, valamint villamos távvezetékekkel kapcsolatos együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
