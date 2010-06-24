@@ -4,7 +4,7 @@
 
 (2) E rendelet 1–4. §-a, valamint 10. § (3)–(4) bekezdése 2010. január 1-jén lép hatályba.
 
-(3) E rendelet 5. §-a 2010. július 1-jén lép hatályba.
+(3)[^2]
 
 (4) A TnyR. e rendelet 1–3. §-ával, valamint 10. § (4) bekezdés b)–c) pontjával megállapított rendelkezéseit a 2009. december 31-ét követő időponttól megállapított ellátásokra kell alkalmazni.
 
@@ -13,3 +13,5 @@
 (6) A TnyR. 79. §-a – e rendelettel megállapított – (1) és (7) bekezdésében foglalt rendelkezéseket az e rendelet hatálybalépését követően meghozott fizetésre kötelező határozatok esetében kell alkalmazni.
 
 (7) E rendelet 1–8. §-a és 10. §-a 2010. július 2-án hatályát veszti.
+
+[^2]: A 9. § (3) bekezdéset a 200/2010. (VI. 23.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.
