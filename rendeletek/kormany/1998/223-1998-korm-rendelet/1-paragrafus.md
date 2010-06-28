@@ -4,7 +4,7 @@
 
 (2)[^3]
 
-(3)[^4] A családtámogatási ellátást igénylő, valamint a gyermek természetes személyazonosító adatait érvényes személyazonosító igazolvány vagy a személyazonosság igazolására alkalmas más hatósági igazolvány bemutatásával, a személyi azonosítóról és a lakcímről szóló hatósági igazolványnak a lakcímről szóló hatósági igazolvány részéről (a továbbiakban: lakcímigazolvány) készült másolatának bemutatásával vagy csatolásával, a társadalombiztosítási azonosító jelet hatósági igazolvány, hatósági bizonyítvány bemutatásával vagy másolatának csatolásával kell igazolni. A gyermek adatai a születési anyakönyvi kivonattal is igazolhatóak.
+(3)[^4] A családtámogatási ellátást igénylő, valamint a gyermek természetes személyazonosító adatait érvényes személyazonosító igazolvány vagy a személyazonosság igazolására alkalmas más hatósági igazolvány bemutatásával, a személyi azonosítóról és a lakcímről szóló hatósági igazolványnak a lakcímről szóló hatósági igazolvány részéről (a továbbiakban: lakcímigazolvány) készült másolatának bemutatásával vagy csatolásával, a társadalombiztosítási azonosító jelet hatósági igazolvány, hatósági bizonyítvány bemutatásával vagy másolatának csatolásával kell igazolni.
 
 (4)[^5] Ha a kérelmező az e rendeletben meghatározott nyilvános, illetve hatósági, bírósági nyilvántartásban, vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában szereplő adatokat nem igazolja, a hatóság a kérelem elbírálásához szükséges adatok szolgáltatása iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz, bírósághoz vagy a Magyar Országos Közjegyzői Kamarához.
 
@@ -33,7 +33,7 @@ e) az a személy, akihez a gyermeket ideiglenes hatállyal elhelyezték, az idei
 [^1]: Az 1. §-t megelőző cím a 176/2009. (VIII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének a) pontja hatályon kívül helyezte.
-[^4]: Az 1. § (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 14. § a) pontja – figyelemmel a 11. § (2) bekezdésére – az 1. § (3) bekezdésének második mondatát hatályon kívül helyezi 2010. június 28. napjával.
+[^4]: Az 1. § (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 14. § a) pontja – figyelemmel a 11. § (2) bekezdésére – az 1. § (3) bekezdésének második mondatát hatályon kívül helyezte.
 [^5]: Az 1. § (4) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (5) bekezdése a 394/2007. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított, záró szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (6) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése aa) alpontja hatályon kívül helyezte, újonnan a 176/2009. (VIII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
