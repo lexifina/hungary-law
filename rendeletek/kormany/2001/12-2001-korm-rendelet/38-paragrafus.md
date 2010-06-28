@@ -20,7 +20,7 @@ i) új lakás építése esetén az építési telek, önkormányzati tulajdonba
 
 (2) A pályázó írásbeli nyilatkozatot köteles csatolni:
 
-a)[^228] a pályázatban foglalt adatok, információk és dokumentumok teljes körűségéről, valódiságáról és hitelességéről, a saját források meglétéről,
+a)[^229] a pályázatban foglalt adatok, információk és dokumentumok teljes körűségéről, valódiságáról és hitelességéről, a saját források meglétéről,
 
 b) arról, hogy 60 napnál régebbi köztartozása nincs, és nem áll adósságrendezési eljárás alatt,
 
@@ -30,10 +30,10 @@ d) annak tudomásulvételéről, hogy a támogatás kedvezményezettjének megne
 
 e) arról a hozzájárulásáról, hogy a pályázat megvalósulásának szabályszerűségét, a támogatás rendeltetésszerű felhasználását a jogszabályban meghatározott szervek ellenőrizzék.
 
-(3)[^229] A rendelet 26. §-a szerinti jogcímekre benyújtott pályázat esetén a pályázónak írásban vállalnia kell, hogy a létesítéstől számított legalább 20 évig tulajdonában maradó lakásokat bérlakásként, illetőleg a garzonházat, nyugdíjasházat, idősek otthonát rendeltetésének megfelelően hasznosítja, és a lakóépületet, valamint annak berendezéseit folyamatosan jó karban tartja.
+(3)[^230] A rendelet 26. §-a szerinti jogcímekre benyújtott pályázat esetén a pályázónak írásban vállalnia kell, hogy a létesítéstől számított legalább 20 évig tulajdonában maradó lakásokat bérlakásként, illetőleg a garzonházat, nyugdíjasházat, idősek otthonát rendeltetésének megfelelően hasznosítja, és a lakóépületet, valamint annak berendezéseit folyamatosan jó karban tartja.
 
-(4)[^230] Az önkormányzat, az egyház, illetőleg a társasház és a lakásszövetkezet köteles a támogatással megvalósuló épülettel, lakással kapcsolatos bevételeket és kiadásokat támogatási jogcímenként elkülönített számlán nyilvántartani, és erről a minisztert a támogatási szerződés szerint tájékoztatni.
+(4)[^231] Az önkormányzat, az egyház, illetőleg a társasház és a lakásszövetkezet köteles a támogatással megvalósuló épülettel, lakással kapcsolatos bevételeket és kiadásokat támogatási jogcímenként elkülönített számlán nyilvántartani, és erről a minisztert a támogatási szerződés szerint tájékoztatni.
 
-[^228]: A 38. § (2) bekezdésének a) pontja a 391/2007. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2007. december 23-át követően benyújtott kérelmekre kell alkalmazni.
-[^229]: A 38. § (3) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^230]: A 38. § (4) bekezdése a 22/2006. (II. 3.) Korm. rendelet 17. §-ával megállapított és a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének e) pontja szerint módosított szöveg.
+[^229]: A 38. § (2) bekezdésének a) pontja a 391/2007. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2007. december 23-át követően benyújtott kérelmekre kell alkalmazni.
+[^230]: A 38. § (3) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^231]: A 38. § (4) bekezdése a 22/2006. (II. 3.) Korm. rendelet 17. §-ával megállapított és a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének e) pontja szerint módosított szöveg.
