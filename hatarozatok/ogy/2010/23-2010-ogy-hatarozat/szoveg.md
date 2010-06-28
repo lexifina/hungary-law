@@ -778,7 +778,7 @@ Korondi Miklós (Jobbik)
 
 Ivády Gábor (LMP)
 
-r) Sport- és turisztikai bizottság (18 fő)
+r)[^40] Sport- és turizmusbizottság (18 fő)
 
 Elnök: Bánki Erik (Fidesz)
 
@@ -979,3 +979,4 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^37]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^38]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^39]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^40]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított szöveg.
