@@ -1,0 +1,3 @@
+11. § Az Art. 177/A. §-a helyébe a következő rendelkezés lép:
+
+„177/A. § Az állami adóhatóság a felszámolás alatt álló szervezetekkel szemben fennálló, a központi költségvetést, az elkülönített állami pénzalapokat, a Nyugdíjbiztosítási és az Egészségbiztosítási Alapot megillető követeléseivel kapcsolatos engedményezési jogát pályáztatás útján gyakorolhatja. Az engedményezésre a Ptk. 328–330. §-ai megfelelően alkalmazandóak. Nem engedményezhető olyan követelés, amely mögött jogszabályon vagy kötelmi jogviszonyon alapulva a Magyar Állammal, az önkormányzattal, illetve azok intézményeivel vagy egyszemélyes társaságaival szemben követelés lenne érvényesíthető.”

@@ -1,0 +1,3 @@
+2. § Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az önadózás és az adóbeszedés útján megállapított adó esetén az adókötelezettség keletkezését annak bekövetkeztétől (a tevékenység megkezdésétől) számított 15 napon belül az erre a célra rendszeresített nyomtatványon jelenti be az adózó az önkormányzati adóhatóságnál. Az iparűzési tevékenységet ideiglenes, alkalmi jelleggel folytató adózó, adóköteles tevékenységének megkezdésekor köteles ezt az önkormányzati adóhatóságnál bejelenteni. A bejelentési kötelezettséget az erre a célra rendszeresített nyomtatványon kell teljesíteni, ha az önkormányzati adóhatóságnál a bejelentésre nyomtatványt rendszeresítettek.”
