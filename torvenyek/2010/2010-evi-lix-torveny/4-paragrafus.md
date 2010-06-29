@@ -5,11 +5,3 @@
 (3) Az 1–3. § a hatálybalépését követő napon hatályát veszti.
 
 (4) Ez a törvény 2012. július 1-jén hatályát veszti.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
