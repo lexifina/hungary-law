@@ -3,11 +3,3 @@
 (2) E törvény hatálybalépésének napján hatályát veszti a Kt. 81. § (15) bekezdése és 118. § (10) bekezdése.
 
 (3) A Kt. e törvénnyel hatályon kívül helyezett 81. § (15) bekezdésében, valamint 118. § (10) bekezdésében foglaltakat nem kell alkalmazni a 2010. január 1-jétől a törvény hatálybalépéséig terjedő időszakokra, így a kiegészítő támogatásnak az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 6. § (5) bekezdése szerinti elszámolása során sem, a Kt. e törvénnyel megállapított rendelkezéseit pedig alkalmazni kell a törvény hatálybalépését megelőzően történt fenntartóváltások esetében is, azzal, hogy a központi költségvetés számára a helyi önkormányzatok által 2010. január 1. napjáig megfizetett, illetve az eddig az időpontig a helyi önkormányzatoktól beszedett kiegészítő hozzájárulás összege nem követelhető vissza.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
