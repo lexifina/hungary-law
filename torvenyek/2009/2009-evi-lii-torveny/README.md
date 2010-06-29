@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-52-00-00
 | --- | --- | --- |
 | 2009-12-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-52-00-00.2 |
 | 2010-03-01 | 2010. évi XII. törvény | 2009-52-00-00.3 |
+| 2010-06-29 | 2010. évi LIX. törvény | 2009-52-00-00.4 |
