@@ -1,4 +1,4 @@
-30/M. § (1) A bizottság elnökét és tagjai közül legalább 2 tagot a települési kisebbségi önkormányzati képviselők közül kell választani. A települési kisebbségi önkormányzat elnöke és elnökhelyettese nem lehet a bizottság elnöke vagy tagja. A bizottság tagjainak száma legalább 3 fő.
+30/M. § (1) A bizottság elnökét és tagjai közül 1 főt a települési kisebbségi önkormányzati képviselők közül kell választani. A települési kisebbségi önkormányzat elnöke és elnökhelyettese nem lehet a bizottság elnöke, a települési kisebbségi önkormányzat elnöke nem lehet a bizottság tagja sem. A bizottság tagjainak száma legfeljebb 3 fő.
 
 (2) A települési kisebbségi önkormányzat elnöke felfüggesztheti a bizottság döntését, ha az ellentétes a települési kisebbségi önkormányzat testületének határozatával, vagy sérti a települési kisebbségi önkormányzat érdekeit. A felfüggesztett döntésről a települési kisebbségi önkormányzat testülete a soron következő ülésén határoz.
 

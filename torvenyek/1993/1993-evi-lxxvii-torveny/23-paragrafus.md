@@ -1,6 +1,6 @@
-23. § (1) A települési kisebbségi önkormányzati testület képviselőinek létszáma 5 fő.
+23. § (1) A települési kisebbségi önkormányzati testület képviselőinek létszáma 4 fő.
 
-(2) A megyei, a fővárosi kisebbségi önkormányzat képviselőinek létszáma 9 fő.
+(2) A megyei, a fővárosi kisebbségi önkormányzat képviselőinek létszáma 7 fő.
 
 (3) Ugyanaz a kisebbség a településen csak egy települési kisebbségi önkormányzatot hozhat létre.
 

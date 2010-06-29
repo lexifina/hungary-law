@@ -8,4 +8,4 @@ b) a képviselő-testületet feloszlatták,
 
 c) a képviselő-testület kimondta feloszlását,
 
-d) a képviselők száma a megválasztható képviselők számának fele alá csökkent.
+d) a képviselők száma nem emelkedik a megválasztható képviselők számának fele fölé.

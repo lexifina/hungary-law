@@ -10,7 +10,7 @@ b) az Országgyűlés hazai nemzeti és etnikai kisebbségi ügyekkel foglalkoz�
 
 c) az alapító által kijelölt négy személy és a Magyar Tudományos Akadémia elnöke által kijelölt egy személy.
 
-(4) A Kuratórium elnöke és egyben annak képviseletében eljáró személy a Kormány által kijelölt személy.
+(4) A Kuratórium elnökét és a Közalapítvány képviseletében eljáró személy(eke)t az alapító jelöli ki a Kuratórium tagjai közül.
 
 (5) A Közalapítvány ellenőrzésre jogosult szervének (felügyelő bizottság) tagjai a következők:
 
@@ -18,6 +18,6 @@ a) az Országgyűlés hazai nemzeti és etnikai kisebbségi ügyekkel foglalkoz�
 
 b) az alapító által kijelölt két személy.
 
-(6) A felügyelő bizottság elnöke az alapító által kijelölt személy.
+(6) A felügyelő bizottság elnökét az alapító jelöli ki a felügyelő bizottság tagjai közül.
 
 (7) A (3)–(6) bekezdés szerinti választás, illetőleg kijelölés joga magában foglalja a megbízás, kijelölés visszavonásának jogát.
