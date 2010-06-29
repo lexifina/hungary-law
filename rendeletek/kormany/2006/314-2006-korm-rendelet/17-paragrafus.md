@@ -1,4 +1,4 @@
-17. §[^87] (1) A szabálysértésekről szóló 1999. évi LXIX. törvényben foglalt a vámhatóságra vonatkozó feladatokat a 14. § (1) bekezdésében, (2) bekezdésének b) pontjában és (3) bekezdésében meghatározott szervek látják el.
+17. §[^97] (1) A szabálysértésekről szóló 1999. évi LXIX. törvényben foglalt a vámhatóságra vonatkozó feladatokat a 14. § (1) bekezdésében, (2) bekezdésének b) pontjában és (3) bekezdésében meghatározott szervek látják el.
 
 (2) A társadalombiztosítási ellátásaira és a magánnyugdíjra jogosultságról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvényben foglalt feladatokat az alsó fokú szervek – a 14. § (2) bekezdésének h)–k) pontjainak és a 14. § (3) bekezdésének kivételével – látják el.
 
@@ -8,4 +8,4 @@
 
 (5) A Vám- és Pénzügyőrség szervei ellátják a törvény, kormányrendelet, illetőleg miniszteri rendelet által a hatáskörükbe utalt feladatokat.
 
-[^87]: A 17. § a 312/2009. (XII. 28.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^97]: A 17. § a 312/2009. (XII. 28.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.

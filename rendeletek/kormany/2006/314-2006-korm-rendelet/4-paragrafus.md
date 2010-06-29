@@ -24,7 +24,7 @@ j) a Vám- és Pénzügyőrség Központi Bűnüldözési Parancsnoksága, szék
 
 k) a Vám- és Pénzügyőrség Közép-Magyarországi Regionális Nyomozó Hivatala, székhelye Budapest,
 
-l)[^15] a Vám- és Pénzügyőrség Észak-Magyarországi Regionális Nyomozó Hivatala, székhelye Miskolc,
+l)[^22] a Vám- és Pénzügyőrség Észak-Magyarországi Regionális Nyomozó Hivatala, székhelye Miskolc,
 
 m) a Vám- és Pénzügyőrség Észak-Alföldi Regionális Nyomozó Hivatala, székhelye Nyíregyháza,
 
@@ -42,10 +42,10 @@ s) a Vám- és Pénzügyőrség Számlavezető Parancsnoksága, székhelye Budap
 
 t) a Vám- és Pénzügyőrség Vegyvizsgáló Intézete, székhelye Budapest,
 
-u)[^16] a Vám- és Pénzügyőrség Bűnügyi Ellátó Nyomozó Hivatal, székhelye Budapest.
+u)[^23] a Vám- és Pénzügyőrség Bűnügyi Ellátó Nyomozó Hivatal, székhelye Budapest.
 
-(2)[^17]
+(2)[^24]
 
-[^15]: A 4. § (1) bekezdés l) pontja a 248/2009. (XI. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^16]: A 4. § (1) bekezdésének u) pontja a 359/2007. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indult eljárásokban kell alkalmazni.
-[^17]: A 4. § (2) bekezdését a 320/2008. (XII. 29.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^22]: A 4. § (1) bekezdés l) pontja a 248/2009. (XI. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdésének u) pontja a 359/2007. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indult eljárásokban kell alkalmazni.
+[^24]: A 4. § (2) bekezdését a 320/2008. (XII. 29.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.

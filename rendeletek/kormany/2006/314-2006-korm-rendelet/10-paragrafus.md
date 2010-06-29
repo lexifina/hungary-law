@@ -14,9 +14,9 @@ f) a Vám- és Pénzügyőrség által kezelt államháztartási számlák nyilv
 
 g) intézi a külön jogszabállyal feladatkörébe utalt szakmai, szervezési, szolgálati, személyügyi, fegyelmi, oktatási, gazdálkodási és egyéb ügyeket,
 
-h)[^35] kiadja az Art. 43. §-ának (8) bekezdése szerinti értesítést,
+h)[^45] kiadja az Art. 43. §-ának (8) bekezdése szerinti értesítést,
 
-i)[^36] kiadja a Vtv. 51. §-ának (5) bekezdése szerinti közlést.
+i)[^46] kiadja a Vtv. 51. §-ának (5) bekezdése szerinti közlést.
 
-[^35]: A 10. § h) pontja a 320/2008. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
-[^36]: A 10. § i) pontját a 359/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 320/2008. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (2) bekezdését és 22. §-át.
+[^45]: A 10. § h) pontja a 320/2008. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
+[^46]: A 10. § i) pontját a 359/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 320/2008. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (2) bekezdését és 22. §-át.

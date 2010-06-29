@@ -2,7 +2,7 @@
 
 ## A vám- és pénzügyőri hivatal I., illetve a vám- és pénzügyőri hivatal II. kategóriába tartozó alsó fokú szervek felsorolását külön jogszabály tartalmazza.
 
-14. § (1)[^46] A Vám- és Pénzügyőrség alsó fokú szervei és székhelyeik – a (2)–(4) bekezdésben meghatározottak kivételével – a következők:
+14. § (1)[^56] A Vám- és Pénzügyőrség alsó fokú szervei és székhelyeik – a (2)–(4) bekezdésben meghatározottak kivételével – a következők:
 
 a) Vám- és Pénzügyőri Hivatal Szeged, székhelye Szeged,
 
@@ -56,7 +56,7 @@ y) Vám- és Pénzügyőri Hivatal Kisvárda, székhelye Kisvárda,
 
 z) Vám- és Pénzügyőri Hivatal Mátészalka, székhelye Mátészalka.
 
-(2)[^47] A Vám- és Pénzügyőrség budapesti és Pest megyei székhelyű alsó fokú szervei – a (3) bekezdés m) és n) pontjában, valamint a (4) bekezdés f) pontjában foglalt szerveken túl:
+(2)[^57] A Vám- és Pénzügyőrség budapesti és Pest megyei székhelyű alsó fokú szervei – a (3) bekezdés m) és n) pontjában, valamint a (4) bekezdés f) pontjában foglalt szerveken túl:
 
 a) Pesti Jövedéki Adójegy és Zárjegy Hivatal, székhelye Budapest,
 
@@ -72,7 +72,7 @@ f) Dél-Pest-térségi Vám- és Pénzügyőri Hivatal, székhelye Budapest,
 
 g) Vámáruraktár, székhelye Budapest.
 
-(3)[^48] A Vám- és Pénzügyőrségnek az Európai Unió külső vámhatárán működő alsó fokú szervei és székhelyeik:
+(3)[^58] A Vám- és Pénzügyőrségnek az Európai Unió külső vámhatárán működő alsó fokú szervei és székhelyeik:
 
 a) Vám- és Pénzügyőri Hivatal Hercegszántó, székhelye Hercegszántó,
 
@@ -102,7 +102,7 @@ m) 1. számú Repülőtéri Vám- és Pénzügyőri Hivatal, székhelye Budapest
 
 n) 2. számú Repülőtéri Vám- és Pénzügyőri Hivatal, székhelye Budapest.
 
-(4)[^49] A Vám- és Pénzügyőrség regionális ellenőrzési központjai és székhelyeik a következők:
+(4)[^59] A Vám- és Pénzügyőrség regionális ellenőrzési központjai és székhelyeik a következők:
 
 a) Regionális Ellenőrzési Központ Kecskemét, székhelye Kecskemét,
 
@@ -118,7 +118,7 @@ f) Regionális Ellenőrzési Központ Budapest, székhelye Budapest,
 
 g) Regionális Ellenőrzési Központ Győr, székhelye Győr.
 
-[^46]: A 14. § (1) bekezdése a 320/2008. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
-[^47]: A 14. § (2) bekezdése a 320/2008. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
-[^48]: A 14. § (3) bekezdése a 320/2008. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
-[^49]: A 14. § (4) bekezdése a 359/2007. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indult eljárásokban kell alkalmazni. A Vám- és Pénzügyőrség 2007. december 30. napjával megszűnő szerveinek jogutódlására vonatkozóan lásd e módosító rendelet 16. § (5) bekezdését.
+[^56]: A 14. § (1) bekezdése a 320/2008. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
+[^57]: A 14. § (2) bekezdése a 320/2008. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
+[^58]: A 14. § (3) bekezdése a 320/2008. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
+[^59]: A 14. § (4) bekezdése a 359/2007. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indult eljárásokban kell alkalmazni. A Vám- és Pénzügyőrség 2007. december 30. napjával megszűnő szerveinek jogutódlására vonatkozóan lásd e módosító rendelet 16. § (5) bekezdését.
