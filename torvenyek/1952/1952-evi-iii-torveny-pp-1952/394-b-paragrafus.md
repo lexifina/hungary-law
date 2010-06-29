@@ -1,14 +1,10 @@
 ## HATODIK RÉSZ
 
-## [HETEDIK RÉSZ]
-
 ## ELEKTRONIKUS KOMMUNIKÁCIÓ A POLGÁRI PERBEN
 
 ## XXVII. Fejezet
 
-## [XXVIII. FEJEZET]
-
-394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2010. július 1. és 2011. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2011. július 1. és 2012. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
 a) ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton, a jogi képviselő hivatali kapuján keresztül kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti; az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be;
 
@@ -22,7 +18,7 @@ e) ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél
 
 f) ha a fél, illetve a jogi képviselő – a kötelező jogi képviselet esetét nem számítva – nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítést a másik fél, illetve jogi képviselője vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél, illetve jogi képviselője számára.
 
-(2) Az általános meghatalmazottal kapcsolatban 2010. július 1. napja és 2011. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+(2) Az általános meghatalmazottal kapcsolatban 2011. július 1. napja és 2012. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
 a) ha a fél általános meghatalmazottal rendelkezik, akkor a meghatalmazott bejelentheti a bíróságnál, hogy ezen fél tekintetében vállalja a hivatalos iratok elektronikus kézbesítését; ebben az esetben a bíróság a meghatalmazott – mint az alperes, illetve a kötelezett képviselője – részére elektronikusan kézbesíti a hivatalos iratokat (a keresetlevelet is);
 

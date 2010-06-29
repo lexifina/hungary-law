@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 1952-3-00-00.74 |
 | 2010-05-01 | 2009. évi LXVIII. törvény | 1952-3-00-00.75 |
 | 2010-06-01 | 2009. évi L. törvény | 1952-3-00-00.76 |
+| 2010-06-29 | 2010. évi LIX. törvény | 1952-3-00-00.77 |
