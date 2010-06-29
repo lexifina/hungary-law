@@ -6,4 +6,4 @@
 
 (4) Ha a bejelentő a bejelentési űrlapot megfelelően töltötte ki, a Hatóság és a nyilvántartást vezető szerv nem mérlegelheti a (2) és (3) bekezdésben foglaltak végrehajtását.
 
-(5) A nyilvántartást vezető szerv a 9. § szerinti igazolás megküldésével egyidejűleg a nyilvántartásba vételről értesíti az állami adóhatóságot, valamint a Központi Statisztikai Hivatalt.
+(5) A nyilvántartást vezető szerv a 9. § szerinti igazolás megküldésével egyidejűleg a nyilvántartásba vételről értesíti az állami adóhatóságot, a Központi Statisztikai Hivatalt, valamint a székhely és telephely szerinti önkormányzati adóhatóságot (a fővárosban a fővárosi önkormányzati adóhatóságot).
