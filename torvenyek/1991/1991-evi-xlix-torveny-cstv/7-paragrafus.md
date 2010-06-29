@@ -18,4 +18,4 @@ c) a korábbi csődeljárás iránti kérelmét a bíróság a 9. § (4) bekezd�
 
 (4) A hitelező akkor nyújthat be az adós elleni csődeljárás iránti kérelmet, ha az adóssal szemben a 27. § (2) bekezdésében foglaltak szerinti követeléssel rendelkezik, azonban felszámolási eljárás helyett csődeljárásban kívánja az igényét érvényesíteni.
 
-(5) A csődeljárás iránti (1) és (4) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2010. július 1-jétől – ide nem értve a természetes személyek kérelmeit – kizárólag elektronikus nyomtatvány lehet.
+(5) A csődeljárás iránti (1) és (4) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2011. január 1-jétől – ide nem értve a természetes személyek kérelmeit – kizárólag elektronikus nyomtatvány lehet.
