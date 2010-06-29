@@ -2,15 +2,11 @@
 
 10. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2010. január 1-jén lép hatályba.
 
-(2) E rendelet 1. § (2) bekezdése és az R. e rendelet 6. §-ával megállapított 5. § (1) bekezdése, valamint e § (4)–(5) bekezdése 2010. július 1-jén lép hatályba.
+(2)[^3]
 
 (3) Az R. 1. § (3) bekezdése, 2. § (1) bekezdésében a „ , megrendelőlap” szövegrész, 3. § (3) bekezdés b) pontja, 6/A. § (5)–(7) bekezdése, 6/B. § (3) bekezdése, 6/C. § (4) és (8) bekezdése, valamint 2. és 3. számú melléklete hatályát veszti.
 
-(4) Az R. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A támogatás folyósítására irányuló elszámolást elektronikus úton kell benyújtani.”
-
-(5) Az R. 4. § (1) bekezdés a) és b) pontja hatályát veszti.
+(4)–(5)[^4]
 
 (6) Az R. e rendelet 4. § (2) bekezdésével megállapított 3. § (8) bekezdésében foglaltakat első ízben a 2010. évi támogatási összegek vonatkozásában kell alkalmazni.
 
@@ -51,3 +47,6 @@ Dátum:
 | cégjegyzésre jogosult aláírása | személyi jog jogosultjának aláírása |
 
 ”
+
+[^3]: A 10. § (2) bekezdését a 201/2010. (VI. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^4]: A 10. § (4)–(5) bekezdése – amely a 10. § (2) bekezdése alapján 2010. július 1-jén lépett volna hatályba – a 201/2010. (VI. 28.) Korm. rendelet 7. §-a alapján nem lép hatályba.

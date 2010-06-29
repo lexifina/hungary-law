@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-347-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-347-20-22.1 | 347/2009. (XII. 30.) Korm. rendelet |
+| 2010-06-29 | 2009-347-20-22.2 | 201/2010. (VI. 28.) Korm. rendelet |

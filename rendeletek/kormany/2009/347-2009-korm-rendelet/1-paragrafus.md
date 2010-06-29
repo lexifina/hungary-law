@@ -4,4 +4,6 @@
 
 ## (2) Az (1) bekezdés szerinti szerződésben kell meghatározni a támogatás elszámolásának és folyósításának jogszabályban nem szabályozott kérdéseit, így különösen a támogatás elszámolásának a forgalmazó által választott gyakoriságát, az elszámolás benyújtásának módját, az elszámolás jogszabályban nem szabályozott formai és tartalmi elemeit.”
 
-(2) Az R. 1. §-a a következő (4) bekezdéssel egészül ki:
+(2)[^2]
+
+[^2]: Az 1. § (2) bekezdése – amely a 10. § (2) bekezdése alapján 2010. július 1-jén lépett volna hatályba – a 201/2010. (VI. 28.) Korm. rendelet 7. §-a alapján nem lép hatályba.
