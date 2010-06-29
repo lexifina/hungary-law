@@ -1,0 +1,1 @@
+A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (2) bekezdésének 1., 5. és 14. pontjaiban kapott felhatalmazás alapján a következőket rendelem el:
