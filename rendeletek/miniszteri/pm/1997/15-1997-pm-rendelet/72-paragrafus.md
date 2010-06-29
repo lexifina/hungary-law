@@ -1,4 +1,4 @@
-## 71. §[^37] A rokkantság fokára, illetve a munkaképesség-csökkenés mértékére vonatkozóan az Egészségügyi Központ FÜV Bizottsága írásban tesz javaslatot az Országos Orvosszakértői Intézet illetékes orvosi bizottsága részére.
+## 71. §[^41] A rokkantság fokára, illetve a munkaképesség-csökkenés mértékére vonatkozóan az Egészségügyi Központ FÜV Bizottsága írásban tesz javaslatot az Országos Orvosszakértői Intézet illetékes orvosi bizottsága részére.
 
 ## Kérelem, szolgálati panasz
 
@@ -8,4 +8,4 @@
 
 (2) A szolgálati elöljáró a hatáskörét meghaladó ügyben előterjesztett kérelmet véleményével együtt soron kívül a kérelem elbírálására jogosult elöljáróhoz köteles felterjeszteni.
 
-[^37]: A 71. § a 34/2001. (IX. 14.) PM rendelet 15. §-ával megállapított szöveg.
+[^41]: A 71. § a 34/2001. (IX. 14.) PM rendelet 15. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 41–43. §[^21]
+## 41–43. §[^23]
 
 ## Érdemek elismerése
 
@@ -44,4 +44,4 @@ d) Vám- és Pénzügyőri címeres testületi jelvénnyel ellátott aranygyűr�
 
 e) minden 50. életévét betöltő pénzügyőrnek az alkalomnak megfelelő tárgyjutalom.
 
-[^21]: A 41–43. §-t a 20/2008. (VI. 19.) PM rendelet 54. §-a hatályon kívül helyezte.
+[^23]: A 41–43. §-t a 20/2008. (VI. 19.) PM rendelet 54. §-a hatályon kívül helyezte.

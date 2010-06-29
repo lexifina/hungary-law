@@ -18,7 +18,7 @@ d) a szolgálati viszony módosítása során keletkezett okmányokat (előresor
 
 e) a képzéssel, továbbképzéssel kapcsolatos okmányokat (beiskolázási javaslat, tanulmányi szerződés, végzettséget, képzettséget igazoló irat),
 
-f)[^38] a minősítést, a jellemzést, a teljesítményértékelésről készült feljegyzéseket,
+f)[^42] a minősítést, a jellemzést, a teljesítményértékelésről készült feljegyzéseket,
 
 g) a szolgálati viszonnyal kapcsolatos igazolásokat, nyilatkozatokat,
 
@@ -26,4 +26,4 @@ h) a szolgálati viszony megszüntetésével kapcsolatos okmányokat (javaslat, 
 
 (4) A személyi anyagba bejegyzést tenni csak hivatalos irat, okmány, eredeti okirat alapján lehet.
 
-[^38]: A 74. § (3) bekezdésének f) pontja a 34/2001. (IX. 14.) PM rendelet 16. §-ával megállapított szöveg.
+[^42]: A 74. § (3) bekezdésének f) pontja a 34/2001. (IX. 14.) PM rendelet 16. §-ával megállapított szöveg.

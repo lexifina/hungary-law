@@ -8,8 +8,8 @@ b) a középfokú szerv parancsnoki,
 
 c) az egyes, a vám- és pénzügyőrség alaptevékenységéhez képest speciális felsőfokú szakképesítést igénylő beosztások pályázat útján is betölthetők.
 
-(2)[^20]
+(2)[^22]
 
 (3) A pályázat meghirdetése (megjelenése) és a benyújtási határidő között legalább 30 napnak kell eltelnie.
 
-[^20]: A 32. § (2) bekezdését az 5/2008. (III. 27.) PM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^22]: A 32. § (2) bekezdését az 5/2008. (III. 27.) PM rendelet 3. § (3) bekezdése hatályon kívül helyezte.

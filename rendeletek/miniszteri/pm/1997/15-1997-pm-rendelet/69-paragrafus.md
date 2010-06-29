@@ -2,7 +2,7 @@
 
 a) baleseti járadékigény,
 
-b)[^35]
+b)[^39]
 
 c) szülői nyugdíjigény,
 
@@ -14,9 +14,9 @@ f) a nem folyósított vagy csökkentett mértékben folyósított szolgálati n
 
 g) a feltételek hiányában megszüntetett rokkantsági nyugdíj, illetve baleseti járadék ismételt megállapítására irányuló igények,
 
-h)[^36]
+h)[^40]
 
 i) ötvenedik életév betöltésekor a teljes összegű szolgálati nyugdíj folyósításának megkezdése.
 
-[^35]: A 69. § b) pontját a 34/2001. (IX. 14.) PM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
-[^36]: A 69. § h) pontját a 34/2001. (IX. 14.) PM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^39]: A 69. § b) pontját a 34/2001. (IX. 14.) PM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^40]: A 69. § h) pontját a 34/2001. (IX. 14.) PM rendelet 18. § (1) bekezdése hatályon kívül helyezte.

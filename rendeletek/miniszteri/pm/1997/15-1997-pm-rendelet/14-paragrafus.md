@@ -2,9 +2,9 @@
 
 (2) Az egészségi alkalmatlanság megállapítása csak a vám- és pénzügyőrség Felülvizsgáló Bizottsága (a továbbiakban: FÜV Bizottsága) döntése alapján történhet. Ilyen esetben a bizottság jogerős határozatát kell a felmentésről szóló parancshoz, határozathoz mellékelni.
 
-(3)[^12] A nemzetbiztonsági ellenőrzés során megállapított kockázati tényező felmerülése esetén az állományilletékes parancsnok köteles mérlegelni az érintettnek az adott beosztásban, illetve a hivatásos szolgálati viszonyban tartásának kérdését, azonban a biztonsági szakvélemény megállapításával szemben benyújtott panasz jogerős elbírálásáig a beosztás betöltéséről vagy a szolgálati viszony megszüntetéséről nem lehet dönteni.
+(3)[^14] A nemzetbiztonsági ellenőrzés során megállapított kockázati tényező felmerülése esetén az állományilletékes parancsnok köteles mérlegelni az érintettnek az adott beosztásban, illetve a hivatásos szolgálati viszonyban tartásának kérdését, azonban a biztonsági szakvélemény megállapításával szemben benyújtott panasz jogerős elbírálásáig a beosztás betöltéséről vagy a szolgálati viszony megszüntetéséről nem lehet dönteni.
 
-(4)[^13] Akivel szemben az ellenőrzés során felmerült kockázati tényező, illetve az az ellen benyújtott panasz jogerős elbírálása alapján az állományilletékes parancsnok a beosztás ellátására vonatkozó alkalmatlanságot állapít meg, a szolgálati viszony megszüntetésére soron kívül intézkedni kell. Az érintettet a felmentési idő teljes időtartamára mentesíteni kell a szolgálatteljesítési kötelezettség alól.
+(4)[^15] Akivel szemben az ellenőrzés során felmerült kockázati tényező, illetve az az ellen benyújtott panasz jogerős elbírálása alapján az állományilletékes parancsnok a beosztás ellátására vonatkozó alkalmatlanságot állapít meg, a szolgálati viszony megszüntetésére soron kívül intézkedni kell. Az érintettet a felmentési idő teljes időtartamára mentesíteni kell a szolgálatteljesítési kötelezettség alól.
 
-[^12]: A 14. § (3) bekezdését a 34/2001. (IX. 14.) PM rendelet 3. §-a iktatta a szövegbe.
-[^13]: A 14. § (4) bekezdését a 34/2001. (IX. 14.) PM rendelet 3. §-a iktatta a szövegbe.
+[^14]: A 14. § (3) bekezdését a 34/2001. (IX. 14.) PM rendelet 3. §-a iktatta a szövegbe.
+[^15]: A 14. § (4) bekezdését a 34/2001. (IX. 14.) PM rendelet 3. §-a iktatta a szövegbe.

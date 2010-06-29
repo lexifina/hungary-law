@@ -1,6 +1,6 @@
-4. § (1)[^2] Szolgálati viszony állományba vételi eljárás keretében létesíthető. A jelentkezést a munkáltatói jogkört gyakorló elöljáróhoz címezve, írásban kell előterjeszteni, és mellékelni kell hozzá a saját kézzel írt önéletrajzot.
+4. § (1)[^4] Szolgálati viszony állományba vételi eljárás keretében létesíthető. A jelentkezést a munkáltatói jogkört gyakorló elöljáróhoz címezve, írásban kell előterjeszteni, és mellékelni kell hozzá a saját kézzel írt önéletrajzot.
 
-(2)[^3] A felvételi eljárás során be kell mutatni:
+(2)[^5] A felvételi eljárás során be kell mutatni:
 
 a) az erkölcsi bizonyítványt,
 
@@ -26,5 +26,5 @@ Eredetiben kell bemutatni az a), c), d), g) és h) pontban foglaltakat.
 
 (5) A felvételi eljárás eredményéről a jelentkezőt írásban kell tájékoztatni.
 
-[^2]: A 4. § (1) bekezdése a 34/2001. (IX. 14.) PM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 4. § (2) bekezdése a 34/2001. (IX. 14.) PM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. § (1) bekezdése a 34/2001. (IX. 14.) PM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdése a 34/2001. (IX. 14.) PM rendelet 1. §-ával megállapított szöveg.

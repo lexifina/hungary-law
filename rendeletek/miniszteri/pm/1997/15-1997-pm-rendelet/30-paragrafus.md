@@ -6,7 +6,7 @@
 
 (4) A (2) bekezdésben foglaltakon túl jellemzést kell készíteni a pénzügyőr oktatási intézménybe történő beiskolázása, tartós külszolgálatra vezénylése, kitüntetésre és más magasabb elismerésre történő előterjesztése esetén is, amennyiben előző minősítésétől, illetve jellemzésétől több mint 3 év már eltelt.
 
-(5)[^16] A Rendőrtiszti Főiskola nappali tagozatos hallgatóiról, valamint a Vám- és Pénzügyőri Iskola vám- és pénzügyőri szaktanfolyamainak hallgatóiról tanulmányaik befejezésekor tanulmányi jellemzést kell készíteni.
+(5)[^18] A Rendőrtiszti Főiskola nappali tagozatos hallgatóiról, valamint a Vám- és Pénzügyőri Iskola vám- és pénzügyőri szaktanfolyamainak hallgatóiról tanulmányaik befejezésekor tanulmányi jellemzést kell készíteni.
 
 (6) Az elkészült minősítést, jellemzést ismertetése előtt azt érintettnek megismerés céljából úgy kell kiadni, hogy annak tanulmányozására megfelelő idő álljon a rendelkezésére. A pénzügyőr kérésére észrevételezés végett azt az illetékes érdekképviseleti szervnek, illetve tisztségviselőnek is meg kell küldeni.
 
@@ -14,13 +14,13 @@
 
 (8) A pénzügyőr szolgálati viszonyát érintő intézkedéseknél a minősítést (jellemzést) kell alapul venni.
 
-(9)[^17] A hivatásos állomány szolgálati tevékenységének, munkateljesítményének évenkénti értékelését az állományilletékes parancsnok által meghatározott célok figyelembevételével a szolgálati elöljáró két példányban írásban készíti el, és külön utasításban meghatározott határideig felterjeszti az állományilletékes parancsnokhoz, aki azt – egyetértése esetén – jóváhagyja.
+(9)[^19] A hivatásos állomány szolgálati tevékenységének, munkateljesítményének évenkénti értékelését az állományilletékes parancsnok által meghatározott célok figyelembevételével a szolgálati elöljáró két példányban írásban készíti el, és külön utasításban meghatározott határideig felterjeszti az állományilletékes parancsnokhoz, aki azt – egyetértése esetén – jóváhagyja.
 
-(10)[^18] Az állomány tagjáról készült teljesítményértékelés egy jóváhagyott példányát az érintettnek át kell adni, míg másik példányát a személyi anyagban kell elhelyezni, amelynek megállapításait az állományilletékes parancsnok a soron következő minősítés elkészítésekor köteles figyelembe venni.
+(10)[^20] Az állomány tagjáról készült teljesítményértékelés egy jóváhagyott példányát az érintettnek át kell adni, míg másik példányát a személyi anyagban kell elhelyezni, amelynek megállapításait az állományilletékes parancsnok a soron következő minősítés elkészítésekor köteles figyelembe venni.
 
-(11)[^19] Az írásbeli értékelés átadására biztosított személyes megbeszélésén részt kell venni a szolgálati elöljárónak és a személyügyi szerv képviselőjének.
+(11)[^21] Az írásbeli értékelés átadására biztosított személyes megbeszélésén részt kell venni a szolgálati elöljárónak és a személyügyi szerv képviselőjének.
 
-[^16]: A 30. § (5) bekezdése a 34/2001. (IX. 14.) PM rendelet 6. §-ával megállapított szöveg.
-[^17]: A 30. § (9) bekezdését a 34/2001. (IX. 14.) PM rendelet 7. §-a iktatta a szövegbe.
-[^18]: A 30. § (10) bekezdését a 34/2001. (IX. 14.) PM rendelet 7. §-a iktatta a szövegbe.
-[^19]: A 30. § (11) bekezdését a 34/2001. (IX. 14.) PM rendelet 7. §-a iktatta a szövegbe.
+[^18]: A 30. § (5) bekezdése a 34/2001. (IX. 14.) PM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 30. § (9) bekezdését a 34/2001. (IX. 14.) PM rendelet 7. §-a iktatta a szövegbe.
+[^20]: A 30. § (10) bekezdését a 34/2001. (IX. 14.) PM rendelet 7. §-a iktatta a szövegbe.
+[^21]: A 30. § (11) bekezdését a 34/2001. (IX. 14.) PM rendelet 7. §-a iktatta a szövegbe.

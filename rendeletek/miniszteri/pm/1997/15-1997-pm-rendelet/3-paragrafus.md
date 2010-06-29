@@ -10,19 +10,21 @@ b) tiszti rendfokozattal rendszeresített beosztásba, aki hazai vagy külföldi
 
 (2) Tiszti rendfokozattal rendszeresített beosztás ellátáshoz szükséges szakképesítés
 
-a) a vám- és pénzügyőrség alaptevékenységébe tartozó feladatokat ellátók tekintetében
+a)[^2] a vám- és pénzügyőrség alaptevékenységébe tartozó feladatokat ellátók tekintetében
 
 aa) az Állam- és Jogtudományi Egyetemen,
 
 ab) a Közgazdaságtudományi Egyetemen,
 
-ac) az Államigazgatási Főiskolán,
+ac) a Zrínyi Miklós Nemzetvédelmi Egyetem nemzetvédelmi és katonai képzési területének szakjain,
 
-ad) a Pénzügyi és Számviteli Főiskolán,
+ad) az Államigazgatási Főiskolán,
 
-ae) a Külkereskedelmi Főiskolán,
+ae) a Pénzügyi és Számviteli Főiskolán,
 
-af) a Rendőrtiszti Főiskola Vámigazgatási és a Nyomozati Szakán
+af) a Külkereskedelmi Főiskolán,
+
+ag) a Rendőrtiszti Főiskola Vámigazgatási és a Nyomozati Szakán
 
 szerzett szakképesítés;
 
@@ -32,6 +34,7 @@ b) a speciális (funkcionális) feladatokat ellátók tekintetében a munkaterü
 
 (4) A Hszt. 37. § (3) bekezdésében meghatározott jogkört az országos parancsnok gyakorolja.
 
-(5)[^1] A vám- és pénzügyőrségnél rendszeresített hivatásos szolgálati beosztásokat, munkaköröket, az ahhoz kapcsolódó rendfokozatot, beosztási kategóriát és képesítési követelményt az 1. számú melléklet tartalmazza. A mellékletben nem szereplő munkakörök betöltésére hivatásos szolgálati viszony nem létesíthető.
+(5)[^3] A vám- és pénzügyőrségnél rendszeresített hivatásos szolgálati beosztásokat, munkaköröket, az ahhoz kapcsolódó rendfokozatot, beosztási kategóriát és képesítési követelményt az 1. számú melléklet tartalmazza. A mellékletben nem szereplő munkakörök betöltésére hivatásos szolgálati viszony nem létesíthető.
 
-[^1]: A 3. § (5) bekezdése az 5/2008. (III. 27.) PM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés a) pontja az 1/2010. (VI. 28.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (5) bekezdése az 5/2008. (III. 27.) PM rendelet 1. §-ával megállapított szöveg.

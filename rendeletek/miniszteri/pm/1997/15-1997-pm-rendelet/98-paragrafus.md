@@ -1,4 +1,4 @@
-## 85–97. §[^42]
+## 85–97. §[^47]
 
 ## Értelmező rendelkezések
 
@@ -8,7 +8,7 @@ a) az országos parancsnokság létszámába tartozók szolgálati helye az orsz
 
 b) az országos parancsnokság állományába tartozók vonatkozásában szervezeti egység az országos parancsnokság;
 
-c)[^43] szolgálati elöljáró az országos parancsnok, a főigazgató, az igazgató, a főosztályvezető, önálló osztályvezető, hivatalvezető, a középfokú szerv parancsnoka is;
+c)[^48] szolgálati elöljáró a kormánybiztos, az országos parancsnok, a főigazgató, az igazgató, a főosztályvezető, önálló osztályvezető, hivatalvezető, a középfokú szerv parancsnoka is;
 
 d) állományilletékes parancsnok az országos parancsnokság állományába tartozók, valamint a középfokú szervek parancsnokai és helyettesei tekintetében az országos parancsnok;
 
@@ -18,7 +18,7 @@ ea) a hatósági jogkörrel rendelkező területi vámszervek,
 
 eb) a Vám- és Pénzügyőrség hatósági jogkörrel rendelkező Központi Járőrszolgálat Parancsnoksága és a vám- és pénzügyőrség technikai, anyagi eszközökkel való ellátása, a vámadatok számítástechnikai feldolgozása és a külkereskedelmi statisztika szolgáltatása, a vámkezeléshez szükséges laboratóriumi vizsgálatok elvégzése, továbbá a pénzügyőrök alapképzése és továbbképzése, valamint az egészségügyi, szociális és kulturális ellátás megszervezése érdekében létrehozott vámszervek;
 
-f)[^44] vám- és pénzügyőri hivatal I.:
+f)[^49] vám- és pénzügyőri hivatal I.:
 
 Vám- és Pénzügyőri Hivatal Szombathely,
 
@@ -80,7 +80,7 @@ Pesti Jövedéki Adójegy és Zárjegy Hivatal,
 
 2. számú Repülőtéri Vám- és Pénzügyőri Hivatal;
 
-g)[^45] vám- és pénzügyőri hivatal II.:
+g)[^50] vám- és pénzügyőri hivatal II.:
 
 Vám- és Pénzügyőri Hivatal Sopron,
 
@@ -114,7 +114,7 @@ Vám- és Pénzügyőri Hivatal Hercegszántó,
 
 Vám- és Pénzügyőri Hivatal Mátészalka
 
-[^42]: A 85-97. §-okat a 23/2001. (VI. 15.) PM rendelet 22. §-ának (2) bekezdése hatályon kívül helyezte.
-[^43]: A 98. § c) pontja a 38/2000. (XI. 8.) PM rendelet 1. §-ával megállapított szöveg.
-[^44]: A 98. § f) pontját a 44/2008. (XII. 31.) PM rendelet 21. § (1) bekezdése iktatta be.
-[^45]: A 98. § g) pontját a 44/2008. (XII. 31.) PM rendelet 21. § (1) bekezdése iktatta be.
+[^47]: A 85-97. §-okat a 23/2001. (VI. 15.) PM rendelet 22. §-ának (2) bekezdése hatályon kívül helyezte.
+[^48]: A 98. § c) pontja az 1/2010. (VI. 28.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^49]: A 98. § f) pontját a 44/2008. (XII. 31.) PM rendelet 21. § (1) bekezdése iktatta be.
+[^50]: A 98. § g) pontját a 44/2008. (XII. 31.) PM rendelet 21. § (1) bekezdése iktatta be.
