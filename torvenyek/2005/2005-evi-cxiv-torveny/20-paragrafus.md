@@ -4,4 +4,4 @@
 
 (2) Ha a listán nincs több jelölt, a mandátum betöltetlen marad.
 
-(3) Ha a képviselők száma 5 fő alá csökken, illetőleg ha a képviselő-testületet feloszlatják vagy az kimondja feloszlását, időközi választást kell tartani.
+(3) Ha a képviselők száma 4 fő alá csökken, illetőleg ha a képviselő-testületet feloszlatják vagy az kimondja feloszlását, időközi választást kell tartani.

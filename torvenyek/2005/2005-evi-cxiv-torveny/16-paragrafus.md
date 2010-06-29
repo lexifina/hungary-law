@@ -8,4 +8,4 @@ b) a közös jelöltek közül az adott jelölő szervezetre eső jelölthányad
 
 (2) Azok a jelölő szervezetek, amelyek a megválasztott elektorok legalább 10%-át közösen állították jelöltként a települési kisebbségi önkormányzati választáson, közös listát indíthatnak.
 
-(3) A választást akkor lehet megtartani, ha a jelölő szervezetek által állított listákon összesen legalább 9 jelölt van.
+(3) A választást akkor lehet megtartani, ha a jelölő szervezetek által állított listákon legalább 7 jelölt van.

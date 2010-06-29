@@ -1,3 +1,3 @@
 ## Szavazás
 
-8. § A kisebbségi választópolgár legfeljebb 5 jelöltre szavazhat.
+8. § A kisebbségi választópolgár legfeljebb 4 jelöltre szavazhat.

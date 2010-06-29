@@ -4,4 +4,4 @@
 
 (2) Több jelölő szervezet közös jelöltet is állíthat.
 
-(3) A választást akkor lehet megtartani, ha legalább 5 jelölt van.
+(3) A választást akkor lehet megtartani, ha legalább 4 jelölt van.
