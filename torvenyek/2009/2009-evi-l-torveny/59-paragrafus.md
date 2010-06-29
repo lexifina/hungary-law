@@ -25,3 +25,7 @@ vonatkozó rendelkezéseit kell megfelelően alkalmazni; az a) és b) pontban me
 (8) Az európai fizetési meghagyásos eljárásban e törvénynek az eljárási díjra és másolati díjra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (9) Az európai fizetési meghagyás végrehajtásának magyar közjegyző általi elrendelése iránti eljárásra e törvénynek a végrehajtás elrendelésére vonatkozó szabályait kell alkalmazni.
+
+(10) Az európai fizetési meghagyásos eljárásban a beadványokat kizárólag papír alapon írásban az eljáró közjegyzőnél lehet előterjeszteni, e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók. Az európai fizetési meghagyásos eljárásban kizárólag papír alapú beadványok alkalmazhatók; az eljáró közjegyző az iratokat papíron állítja elő, és kézbesítteti a félnek.
+
+(11) Az európai fizetési meghagyásos eljárásért a közjegyző részére külön jogszabály szerint meghatározott módon eljárási díjat kell fizetni; a 42. § (1) és (2) bekezdését, és a 46. § (3)–(5) bekezdését nem lehet alkalmazni. Az európai fizetési meghagyás végrehajtásának elrendeléséért az 55. § (1) és (2) bekezdésében meghatározott összegű díjat a közjegyző részére külön jogszabály szerint meghatározott módon kell megfizetni, a díj az eljáró közjegyzőt illeti.

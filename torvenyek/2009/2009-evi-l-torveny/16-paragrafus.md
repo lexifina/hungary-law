@@ -4,6 +4,6 @@
 
 (3) Ha a jogosult ezt a fizetési meghagyás kibocsátása iránti kérelmében kéri, a fizetési meghagyást kizárólag a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 31/D. §-a szerinti végrehajtói kézbesítés útján kell kézbesíteni, a 32. és 33. § rendelkezéseit pedig nem lehet alkalmazni. Ebben az esetben a végrehajtó külön jogszabályban meghatározott díját a MOKK részére előlegezni kell, és azt a MOKK a végrehajtónak átutalja. Az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
 
-(4) A fél a beadványában kérheti, hogy a részére szóló iratok a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kerüljenek kézbesítésre.
+(4)
 
 (5) Vállalkozás és jogi képviselővel rendelkező fél részére az iratokat – a (2) bekezdésben meghatározott eset kivételével – a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kell kézbesíteni. Az elektronikus iraton minősített elektronikus aláírást és minősített időbélyegzőt kell elhelyezni.

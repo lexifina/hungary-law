@@ -13,3 +13,5 @@ c) a jogerős fizetési meghagyás elleni perújítási eljárásban.
 (4) A (2) bekezdés a) és c) pontjának alkalmazása esetén az eljárási díj és a fél célszerű és jóhiszemű eljárása keretében az eljárásban felmerült másolati díj a perköltség részét képezi.
 
 (5) A (2) bekezdés b) pontjában meghatározott esetben, ha a fellebbezést elektronikusan terjesztik elő, az illetéket elektronikus úton kell megfizetni.
+
+(6) Az illeték megfizetésének megtörténtét a bíróság ellenőrzi.

@@ -1,8 +1,8 @@
 11. § (1) Az elektronikus úton beadványt kizárólag erre rendszeresített űrlapon lehet benyújtani, és a beadványt
 
-a) minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni vagy
+a) minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni.
 
-b) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a természetes személy hivatalos iratainak a hivatalos szervhez történő elektronikus kézbesítésére (benyújtására) vonatkozó szabályok szerint kell benyújtani.
+b)
 
 (2) Elektronikus úton beadványt – a (4) bekezdésben foglalt eltéréssel – úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója
 
