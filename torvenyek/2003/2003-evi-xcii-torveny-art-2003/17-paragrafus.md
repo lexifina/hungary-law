@@ -64,7 +64,7 @@ c) a munkavégzésre megbízást adó és a munkavégzéssel kapcsolatos költs�
 
 (14) Az egyéni vállalkozó adózó tevékenységi köreinek a 1893/2006/EK rendeletnek megfelelő bejelentését a statisztikai hivatal elnökének a Szakmakód jegyzékről szóló közleménye szerinti szakmakódokon (a továbbiakban: szakmakód) teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szakmakód szerint jelenti be az állami adóhatósághoz.
 
-(15) Az adózó a helyi iparűzési adókötelezettsége keletkezését, illetve megszűnését – a helyi iparűzési adó bevételre jogosult települési önkormányzat megjelölésével – az adókötelezettség bekövetkeztétől (a tevékenység megkezdésétől), illetve megszűnésétől számított 15 napon belül bejelenti az állami adóhatóságnak. Az iparűzési tevékenységet ideiglenes, alkalmi jelleggel folytató adózó adóköteles tevékenységének megkezdése előtt, de legkésőbb a tevékenység megkezdésének napján köteles ezt az állami adóhatóságnál bejelenteni.
+(15)
 
 [(15) Az állami adóhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti alapítványok esetében az adószám megállapításáról az alapítvány adatainak közlésével a nyilvántartásba vételt elrendelő bíróságot.]
 

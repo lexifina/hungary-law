@@ -12,7 +12,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek megfelelően kell teljesíteni.
 
-3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót, a helyi iparűzési adót és az egyes nagy értékű vagyontárgyakat terhelő adót kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a helyi iparűzési adóelőleg bevallás adatait – ideértve az adóelőleg-kiegészítésről szóló bevallás adatait is – forintban, a helyi iparűzési adóelőleg és az éves tényleges kötelezettség különbözetét 100 forintra kerekítve fizeti meg, illetve igényelheti vissza. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót, a helyi ipar űzési adót és az egyes nagy értékű vagyontárgyakat terhelő adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
+3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót és az egyes nagy értékű vagyontárgyakat terhelő adót kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót és az egyes nagy értékű vagyontárgyakat terhelő adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
 
 Határidők
 
@@ -124,29 +124,7 @@ igényelheti vissza.
 
 c) A külföldi illetőségű osztalékban részesülő osztalékadó kötelezettségére a 4. számú melléklet rendelkezései az irányadóak.
 
-4. Helyi iparűzési adó
-
-a) Az adózó az adóelőleget félévi részletekben
-
-az adóév március 15-éig, illetve
-
-szeptember 15-éig
-
-fizeti meg.
-
-b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett adózónak az iparűzési adóelőleget a várható éves fizetendő adó összegére
-
-az adóév december 20. napjáig
-
-kell kiegészítenie.
-
-c) Az ideiglenes (alkalmi) jelleggel végzett tevékenység utáni iparűzési adót legkésőbb a tevékenység befejezése napján kell megfizetni.
-
-d) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét
-
-az adóévet követő év május 31-éig
-
-fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
+4.
 
 5. Járulékok
 
@@ -258,7 +236,7 @@ szeptember 15-éig
 
 megfizetnie.
 
-2. Kommunális adó
+2. Kommunális adó, iparűzési adó
 
 a) A magánszemélynek félévenként, két egyenlő részletben kell az adót
 
@@ -276,13 +254,13 @@ szeptember 15-éig
 
 fizet.
 
-c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi kommunális adóelőleget a várható éves fizetendő adó összegére
+c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi kommunális és iparűzési adóelőleget a várható éves fizetendő adó összegére
 
 az adóév december 20. napjáig
 
 kell kiegészítenie.
 
-d)
+d) Az ideiglenes (alkalmi) jelleggel végzett tevékenység utáni iparűzési adót legkésőbb a tevékenység befejezése napját követő hó 15. napjáig kell megfizetni.
 
 e) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét
 

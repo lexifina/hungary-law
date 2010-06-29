@@ -8,7 +8,9 @@ b) adó-visszaigénylés, -visszatérítés,
 
 c) az állami garancia (kezesség) kiutalása és visszakövetelése,
 
-d) adók módjára behajtandó köztartozás végrehajtása
+d) adók módjára behajtandó köztartozás végrehajtása,
+
+e) az önkormányzatokat megillető helyi adóval, illetve a gépjárműadóval összefüggő tartozások megkeresés alapján történő végrehajtása
 
 ügyében, feltéve, hogy azt törvény vagy kormányrendelet nem utalja más hatóság vagy adóhatóság hatáskörébe.
 
@@ -16,7 +18,7 @@ d) adók módjára behajtandó köztartozás végrehajtása
 
 (3) A csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a vagyonrendezési és adósságrendezési eljárásban
 
-a) a központi költségvetést megillető követelések és a települési (a fővárosban a fővárosi) önkormányzatot megillető helyi iparűzési adó követelések tekintetében hitelezőként,
+a) a központi költségvetést megillető követelések tekintetében hitelezőként,
 
 b) a vámhatóság hatáskörébe tartozó, továbbá a magánnyugdíjpénztárt megillető tagdíjjal (tagdíj-kiegészítéssel), késedelmi pótlékkal, önellenőrzési pótlékkal összefüggő követelések tekintetében a hitelezők képviselőjeként
 

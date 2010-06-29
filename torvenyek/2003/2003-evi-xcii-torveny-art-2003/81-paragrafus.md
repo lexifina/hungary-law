@@ -2,7 +2,7 @@
 
 81. § Az önkormányzati adóhatóság jár el első fokon
 
-a) a helyi iparűzési adó kivételével a helyi adók,
+a) a helyi adók,
 
 b) a belföldi rendszámú gépjárművek adója,
 

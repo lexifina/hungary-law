@@ -24,4 +24,4 @@ vizsgálja.
 
 (5) A kisegítő adóellenőr az adóellenőrrel együtt az ellenőrzés során üzleti, üzemi vagy az egyéb adóköteles tevékenység folytatására szolgáló helyiségbe, helyszínre, illetőleg a vállalkozási tevékenységgel összefüggő alapanyag, félkész termék, áru tárolására szolgáló helyiségekbe beléphet.
 
-(6) Az önkormányzati adóhatóság az ideiglenes (alkalmi) iparűzési tevékenységet végző adózók vonatkozásában a helyi iparűzési adó megállapításához szükséges adatok beszerzése érdekében a helyszínen ellenőrzést végez.
+(6)

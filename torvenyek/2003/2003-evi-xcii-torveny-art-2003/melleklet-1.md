@@ -6,7 +6,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA
 
 A) Általános rendelkezések
 
-1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, a helyi iparűzési adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózó a helyi iparűzési adóelőleg bevallás adatait – ideértve az adóelőleg-kiegészítésről szóló bevallás adatait is – forintban, a helyi iparűzési adóelőleg és az éves tényleges kötelezettség különbözetét 100 forintra kerekítve tünteti fel.
+1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
 
 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
@@ -84,21 +84,7 @@ az adóév május 31-éig
 
 kell bevallást benyújtani.
 
-2/A. Helyi iparűzési adó
-
-Az adózónak
-
-a) a helyi iparűzési adóelőleg-kiegészítés összegéről
-
-a tárgyév utolsó hónapjának 20. napjáig
-
-b) a helyi iparűzési adóról
-
-az adóévet követő év május 31-éig
-
-kell bevallást tennie.
-
-c) Az ideiglenes jelleggel végzett iparűzési tevékenység után fizetendő iparűzési adóról – a megfizetés határidejével egyezően – a tevékenység befejezésének napján kell bevallást tenni.
+2/A.
 
 3. Az adóbevallás benyújtására vonatkozó különös rendelkezések
 

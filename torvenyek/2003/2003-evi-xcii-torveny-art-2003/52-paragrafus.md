@@ -114,16 +114,8 @@ b) az erdészeti hatóság az adózó használatában lévő erdőterületen fol
 
 (17) Az adóhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést – a közösségi adószám érvényességéről történő meggyőződés ügytípus kivételével – elektronikusan adathordozóra rögzíti, és annak anyagát az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetőleg a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az adózó vagy képviselője kérelme alapján az általa folytatott, e bekezdés szerint megőrzött telefonbeszélgetéseit meghallgathatja.
 
-(18) A helyi iparűzési adóról szóló önkormányzati rendelet kihirdetését követő 8 napon belül az önkormányzati adóhatóság az állami adóhatóság részére elektronikus úton, az állami adóhatóság által közzétett formátumban megküldi:
+(18)
 
-a) a helyi iparűzési adót megállapító önkormányzati rendelet módosítása, a helyi iparűzési adó bevezetése, megszüntetése esetén a rendelet számát és szövegét,
+(19)
 
-b) a helyi iparűzési adó bevezetése esetén az érintett települési önkormányzat kincstár által használt azonosítószámát, valamint költségvetési számlaszámát, amelyre az állami adóhatóság a települési önkormányzatot megillető helyi iparűzési adó, továbbá a helyi iparűzési adóval összefüggő késedelmi pótlék, önellenőrzési pótlék, adóbírság és mulasztási bírság átutalását teljesíti.
-
-(19) Az önkormányzati adóhatóság az adószám feltüntetésével az állami adóhatóság által közzétett módon és formátumban minden hónap utolsó napjáig – a rendelkezésre álló, különösen az adatgyűjtésre irányuló ellenőrzés keretében beszerzett adatok alapján – elektronikus úton adatot szolgáltat az illetékességi területén az ideiglenes (alkalmi) jelleggel végzett iparűzési tevékenység kezdetének és befejezésének időpontjáról továbbá az általa ismert, a helyi iparűzési adó megállapításához szükséges adatokról, különös tekintettel az ideiglenes (alkalmi) jellegű iparűzési tevékenység folytatásával összefüggő, általa kiadott engedélyekről.
-
-(20) Az önkormányzati adóhatóság a helyi iparűzési adóüggyel összefüggő valamennyi iraton – ideértve az elektronikus úton megküldött iratot is – feltünteti az érintett települési önkormányzat kincstár által használt azonosítószámát.
-
-(21) A költségvetési számlaszám közlésére vonatkozó kötelezettség elmulasztásából, vagy késedelmes teljesítése esetén az ebből eredő kárt az érintett települési önkormányzat viseli, és ez esetben az állami adóhatóság a késedelmes átutalás miatt kamatot nem fizet.
-
-(22) Az önkormányzati adóhatóságot terhelő adatszolgáltatási kötelezettséget körjegyzőség esetén települési önkormányzatonként kell teljesíteni.
+(20)–(22)
