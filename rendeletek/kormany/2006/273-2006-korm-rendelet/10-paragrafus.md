@@ -12,7 +12,7 @@ b) a központi költségvetés, az elkülönített állami pénzalap terhére ju
 
 (3) Az APEH ellátja az adók módjára behajtandó köztartozás végrehajtásával kapcsolatos, illetve az egyéb kötelező befizetésekkel kapcsolatos, az állami adóhatóság hatáskörébe utalt feladatokat.
 
-(4)[^13] Az APEH végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény (a továbbiakban: Szjtv.), valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, illetőleg a szerencsejátékokkal és játékautomatákkal összefüggő szabálysértési hatósági feladatokat.
+(4)[^16] Az APEH végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény (a továbbiakban: Szjtv.), valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, illetőleg a szerencsejátékokkal és játékautomatákkal összefüggő szabálysértési hatósági feladatokat.
 
 (5) Az APEH ellátja magán-nyugdíjpénztári tagdíj bevallásával, beszedésével, nyilvántartásával, ellenőrzésével, végrehajtásával, visszatérítésével, átutalásával, továbbá a magán-nyugdíjpénztárak részére történő adatátadással kapcsolatos, jogszabályban az állami adóhatóság feladataként meghatározott feladatokat.
 
@@ -22,9 +22,9 @@ b) a központi költségvetés, az elkülönített állami pénzalap terhére ju
 
 (8) Az APEH ellátja az államháztartásról szóló törvény végrehajtására kiadott jogszabályokban a pénzellátással kapcsolatban számára meghatározott feladatokat.
 
-(9) Az APEH az államháztartásról szóló törvény végrehajtására kiadott jogszabályokban meghatározottak szerint ellátja a befolyt illetékbevételnek a központi költségvetést, illetve a fővárosi, megyei, megyei jogú városi önkormányzatokat megillető hányadának megállapításával kapcsolatos feladatokat, továbbá jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, a pénzügyminiszter részére teljesítendő adatszolgáltatást.
+(9)[^17] Az APEH az államháztartásról szóló törvény végrehajtására kiadott jogszabályokban meghatározottak szerint ellátja a befolyt illetékbevételnek a központi költségvetést, illetve a fővárosi, megyei, megyei jogú városi önkormányzatokat megillető hányadának megállapításával kapcsolatos feladatokat, továbbá jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást.
 
-(10) Az APEH lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését. A szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott jogerős határozatok másolatát megküldi a pénzügyminiszternek, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít a pénzügyminiszternek.
+(10)[^18] Az APEH lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését. A szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott jogerős határozatok másolatát megküldi az adópolitikáért felelős miniszternek, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek.
 
 (11) Az APEH feladata az adó- és pénzforgalmi adatoknak, az ellenőrzések megállapításainak összegezése, feldolgozása és ezekről a kormányzati gazdaságpolitika kialakításában részt vevő állami szervek részére információk szolgáltatása.
 
@@ -36,7 +36,7 @@ b) a központi költségvetés, az elkülönített állami pénzalap terhére ju
 
 (15) Az állami adóhatóság hatáskörébe tartozó adóval, vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igény előterjesztésére az APEH területi szerve, illetőleg a Kiemelt Adózók Igazgatósága jogosult.
 
-(16)[^14] A Kiemelt Adózók Igazgatósága látja el a jogszabály alapján hatáskörébe tartozó adózók adóztatási feladatait, illetőleg lefolytatja az APEH elnöke által elrendelt központosított ellenőrzéseket.
+(16)[^19] A Kiemelt Adózók Igazgatósága látja el a jogszabály alapján hatáskörébe tartozó adózók adóztatási feladatait, illetőleg lefolytatja az APEH elnöke által elrendelt központosított ellenőrzéseket.
 
 (17) A Központi Hivatal, illetőleg a Számítástechnikai és Adóelszámolási Intézet összegyűjti és tárolja az adóztatással összefüggő adatokat, azokról a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít.
 
@@ -44,8 +44,10 @@ b) a központi költségvetés, az elkülönített állami pénzalap terhére ju
 
 (19) Az APEH az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat az APEH elnöke gyakorolja.
 
-(20)[^15] Az APEH ellátja a helyi iparűzési adóval kapcsolatos adóhatósági feladatokat.
+(20)[^20] Az APEH ellátja a helyi iparűzési adóval kapcsolatos adóhatósági feladatokat.
 
-[^13]: A 10. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 489. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 10. § (16) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 490. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 10. § (20) bekezdését a a 182/2009. (IX. 10.) Korm. rendelet 491. §-a hatályon kívül helyezte, újonnan a 318/2009. (XII. 29.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^16]: A 10. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 489. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 10. § (9) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^18]: A 10. § (10) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^19]: A 10. § (16) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 490. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 10. § (20) bekezdését a a 182/2009. (IX. 10.) Korm. rendelet 491. §-a hatályon kívül helyezte, újonnan a 318/2009. (XII. 29.) Korm. rendelet 1. § (7) bekezdése iktatta be.

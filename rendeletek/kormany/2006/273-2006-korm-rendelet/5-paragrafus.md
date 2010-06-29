@@ -1,5 +1,6 @@
-5. § (1) Az APEH elnökhelyetteseit és gazdasági vezetőjét határozatlan időtartamra az APEH elnökének javaslatára a pénzügyminiszter nevezi ki, és menti fel.
+5. § (1)[^8] Az APEH elnökhelyetteseit és gazdasági vezetőjét határozatlan időtartamra az APEH elnöke nevezi ki, és menti fel.
 
-(2)[^6] Az APEH elnökhelyettesévé és gazdasági vezetőjévé szakirányú felsőfokú végzettséggel rendelkező magyar állampolgár nevezhető ki, ha legalább ötéves közigazgatási vagy közfeladatot ellátó szervnél szerzett gyakorlattal és három év vezetői tapasztalattal rendelkezik.
+(2)[^9] Az APEH elnökhelyettesévé és gazdasági vezetőjévé szakirányú felsőfokú végzettséggel rendelkező magyar állampolgár nevezhető ki.
 
-[^6]: Az 5. § (2) bekezdése a 159/2008. (VI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: Az 5. § (1) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (2) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

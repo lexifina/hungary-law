@@ -22,8 +22,8 @@ b) ha a szerződés több illetékügyben eljáró megyei, fővárosi szervezeti
 
 (5) Az önálló orvosi tevékenység működtetési jogának megszerzésével kapcsolatos öröklési, ajándékozási és visszterhes vagyonátruházási illetéket az az illetékügyben eljáró megyei, fővárosi szervezeti egység szabja ki, amelynek területén a működtetési jogot szerző fél állandó, ennek hiányában ideiglenes lakóhelye, szokásos tartózkodási helye van.
 
-(6)[^41] Az érdekelt fél indokolt kérelmére az e kormányrendeletben megállapított illetékességtől eltérően az APEH elnöke az illeték kiszabására más illetékügyben eljáró megyei, fővárosi szervezeti egységet is kijelölhet.
+(6)[^46] Az érdekelt fél indokolt kérelmére az e kormányrendeletben megállapított illetékességtől eltérően az APEH elnöke az illeték kiszabására más illetékügyben eljáró megyei, fővárosi szervezeti egységet is kijelölhet.
 
 (7) Jogszabályi rendelkezés szerint kiállított lelet alapján az illetéket az az illetékügyben eljáró megyei, fővárosi szervezeti egység szabja ki, amelynek illetékességi területén a fizetésre kötelezett, több fizetésre kötelezett esetében az, amelynek illetékességi területén az elsősorban fizetésre kötelezett, amennyiben ez külföldi, a soron következő belföldi lakóhelye (székhelye) van. Ha minden fizetésre kötelezettnek az ország területén kívül van a lakóhelye (székhelye), az illetéket az az illetékügyben eljáró megyei, fővárosi szervezeti egység szabja ki, amelynek illetékességi területén a leletet készítő szerv székhelye van. A leletet az illetékügyben eljáró megyei, fővárosi szervezeti egységnek kell megküldeni.
 
-[^41]: A 17. § (6) bekezdése a a 182/2009. (IX. 10.) Korm. rendelet 491. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A 17. § (6) bekezdése a a 182/2009. (IX. 10.) Korm. rendelet 491. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

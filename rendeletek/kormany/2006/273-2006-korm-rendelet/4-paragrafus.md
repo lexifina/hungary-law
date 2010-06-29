@@ -4,11 +4,13 @@
 
 4. § (1) Az APEH vezetője az elnök.
 
-(2)[^5] Az APEH elnökét a pénzügyminiszter nevezi ki, és menti fel.
+(2)[^5] Az APEH elnökét határozatlan időtartamra az adópolitikáért felelős miniszter nevezi ki, és menti fel.
 
-(3) Az APEH elnökévé szakirányú felsőfokú végzettséggel, legalább öt év közigazgatási gyakorlattal, ötéves vezetői tapasztalattal és kiemelkedő szakmai tekintéllyel rendelkező magyar állampolgár nevezhető ki.
+(3)[^6] Az APEH elnökévé jogi, közgazdasági vagy szakirányú felsőfokú végzettséggel rendelkező magyar állampolgár nevezhető ki.
 
-(4) Az APEH elnökének kinevezését a pénzügyminiszter kezdeményezésére az Állami Számvevőszék elnöke előzetesen véleményezheti, a jelöltet az Országgyűlés Költségvetési, Pénzügyi és Számvevőszéki Bizottsága meghallgathatja.
+(4)[^7] Az APEH elnökének kinevezését az adópolitikáért felelős miniszter kezdeményezésére az Állami Számvevőszék elnöke előzetesen véleményezheti, a jelöltet az Országgyűlés Költségvetési, Pénzügyi és Számvevőszéki Bizottsága meghallgathatja.
 
 [^4]: A 3. § a 318/2009. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdése a 319/2008. (XII. 29.) Korm. rendelet 6. §-ának a) pontja szerint módosított szöveg. E módosító rendelet 10. §-a alapján a rendelkezést a 2009. január 1. napját követően indult ügyekben kell alkalmazni.
+[^5]: A 4. § (2) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (3) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (4) bekezdése a 202/2010. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
