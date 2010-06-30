@@ -1410,7 +1410,7 @@
 
 | V10XX | további therápiás radioaktív készítmények | X |  |  |  |  | X |  |
 
-2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^90]
+2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^91]
 
 A kiemelt indikációhoz kötött támogatási kategóriába (EÜ100) tartozó
 
@@ -2534,4 +2534,16 @@ A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAK
 
 |  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
 
-[^90]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2010. február 1-jétől kell alkalmazni. Ez utóbbi módosító rendelet 4. § (2) bekezdése alapján a 2009. december 25. napján hatályos 2. számú mellékletben foglaltakat 2010. január 31-éig kell alkalmazni. Alkalmazására lásd még ez utóbbi módosító rendelet 4. § (3) bekezdését.
+ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
+
+F70, F71, F72, F73, F74, F75, F76, F77, F78, F79
+
+EÜ100 10/d2.
+
+TÁMOGATOTT INDIKÁCIÓK:
+
+- Mentális retardáció diagnózisa esetén a magatartászavarok kezelésére a 10/d1. pontban felsorolt szerekre dokumentáltan nem reagáló vagy ezeket a szereket nem toleráló beteg részére
+
+A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
+
+[^91]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2010. február 1-jétől kell alkalmazni. Ez utóbbi módosító rendelet 4. § (2) bekezdése alapján a 2009. december 25. napján hatályos 2. számú mellékletben foglaltakat 2010. január 31-éig kell alkalmazni. Alkalmazására lásd még ez utóbbi módosító rendelet 4. § (3) bekezdését.
