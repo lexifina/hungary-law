@@ -1,1 +1,0 @@
-## „(5) A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.”
