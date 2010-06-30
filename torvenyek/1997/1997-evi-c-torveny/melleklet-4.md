@@ -1,6 +1,6 @@
 4. számú melléklet az 1997. évi C. törvényhez
 
-(A helyi önkormányzati választás kislistás szavazólapjának mintája.)
+(A helyi önkormányzati választás egyéni listás szavazólapjának mintája.)
 
 SZAVAZÓLAP
 

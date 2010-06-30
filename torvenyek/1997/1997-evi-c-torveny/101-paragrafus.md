@@ -2,7 +2,7 @@
 
 101. § Választókerület:
 
-a) a megyei közgyűlés tagjai választásának tekintetében a 10 000 vagy annál kevesebb lakosú települések együttesen, illetőleg a 10 000-nél több lakosú települések együttesen, a megyei jogú városok nélkül,
+a) a megyei közgyűlés tagjai választásának tekintetében a megye, a megyei jogú városok nélkül,
 
 b) a főpolgármester és a fővárosi közgyűlés tagjai választásának tekintetében a főváros,
 

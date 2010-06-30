@@ -1,6 +1,6 @@
 83. § (1) A bírósági felülvizsgálat iránti kérelmet a megtámadott határozatot hozó választási bizottságnál kell előterjeszteni.
 
-(2) A bírósági felülvizsgálat iránti kérelmet úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított három napon belül megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
+(2) A bírósági felülvizsgálat iránti kérelmet úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított 2 napon belül megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
 
 (3) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos döntése elleni bírósági felülvizsgálat iránti kérelmet úgy kell benyújtani, hogy az legkésőbb a választási bizottság döntését követő napon megérkezzen. A bírósági felülvizsgálat iránti kérelmet elbíráló bíróság legkésőbb a bírósági felülvizsgálat iránti kérelem felterjesztését követő napon dönt.
 

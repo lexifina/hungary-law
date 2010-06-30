@@ -4,7 +4,7 @@
 
 (2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
 
-(3) A bírósági felülvizsgálat iránti kérelemről a bíróság a felterjesztésétől számított három napon belül dönt.
+(3) A bírósági felülvizsgálat iránti kérelemről a bíróság a felterjesztésétől számított 2 napon belül dönt.
 
 (4) Érdemi vizsgálat nélkül el kell utasítani a bírósági felülvizsgálat iránti kérelmet, ha az elkésett, nem a 83. § (1) bekezdése szerinti választási bizottsághoz nyújtották be, vagy nem tartalmazza a 83. § (4) bekezdés a) és b) pontjában foglaltakat.
 

@@ -1,6 +1,6 @@
 ## A fellebbezési eljárás
 
-81. § (1) A fellebbezésről az annak elbírálására jogosult választási bizottság a beérkezésétől számított három napon belül dönt.
+81. § (1) A fellebbezésről az annak elbírálására jogosult választási bizottság a beérkezésétől számított 2 napon belül dönt.
 
 (2) Érdemi vizsgálat nélkül el kell utasítani a fellebbezést, ha az elkésett, nem a 80. § (1) bekezdése szerinti választási bizottsághoz nyújtották be, vagy nem tartalmazza a 80. § (4) bekezdés a) és b) pontjában foglaltakat. A fellebbezés nem utasítható el, ha a jogosult a fellebbezést az elbírálására jogosult választási bizottságnál – határidőben – terjeszti elő.
 

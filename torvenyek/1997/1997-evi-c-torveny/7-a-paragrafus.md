@@ -2,7 +2,7 @@
 
 (2) A külképviseleti megfigyelő csak választójoggal rendelkező magyar állampolgár lehet.
 
-(3) A külképviseleti megfigyelőt az Országos Választási Bizottságnál – nevének és személyi azonosítójának közlésével – a magyarországi szavazást megelőző 9. napig kell bejelenteni. Az Országos Választási Bizottság a külképviseleti megfigyelő választójogát ellenőrzi, és a külképviseleti megfigyelőt nyilvántartásba veszi. Az Országos Választási Iroda a külképviseletre megbízott megfigyelő nevét és személyi azonosítóját megküldi a külképviseleti választási iroda vezetőjének.
+(3) A külképviseleti megfigyelőt az Országos Választási Bizottságnál – nevének és személyi azonosítójának közlésével – a magyarországi szavazást megelőző 16. napig kell bejelenteni. Az Országos Választási Bizottság a külképviseleti megfigyelő választójogát ellenőrzi, és a külképviseleti megfigyelőt nyilvántartásba veszi. Az Országos Választási Iroda a külképviseletre megbízott megfigyelő nevét és személyi azonosítóját megküldi a külképviseleti választási iroda vezetőjének.
 
 (4) Az Országos Választási Bizottság által nyilvántartásba vett külképviseleti megfigyelő jelen lehet a külképviseleti választási iroda munkájánál. A külképviseleti megfigyelő
 

@@ -12,7 +12,7 @@ d) indítványozza az illetékes választási bizottságnak a szavazás szavazó
 
 (2) A helyi választási bizottság:
 
-a) dönt a polgármester-, a kislistás, illetőleg az egyéni választókerületi jelöltek, a kompenzációs listák, valamint a csak egy településen jelöltet állítani kívánó jelölő szervezetek nyilvántartásba vételéről, illetőleg elutasításáról,
+a) dönt a polgármester-, az egyéni listás, illetőleg az egyéni választókerületi jelöltek, a kompenzációs listák, valamint a csak egy településen jelöltet állítani kívánó jelölő szervezetek nyilvántartásba vételéről, illetőleg elutasításáról,
 
 b) kisorsolja a kompenzációs listák sorszámát,
 
@@ -24,7 +24,7 @@ e) dönt a szavazatszámláló bizottságnak az (1) bekezdés a) és b) pontja a
 
 f) megsemmisíti a polgármester-, illetőleg a képviselő-választás eredményét, ha olyan törvénysértést állapít meg, amely azt érdemben befolyásolta,
 
-g) egyenlő szavazatszám esetén kisorsolja, hogy a kislistás választáson melyik jelölt szerez mandátumot,
+g) egyenlő szavazatszám esetén kisorsolja, hogy az egyéni listás választáson melyik jelölt szerez mandátumot,
 
 h) megállapítja és közzéteszi a polgármester- és a képviselő-választás eredményét,
 

@@ -1,0 +1,3 @@
+102/A. § (1) A területi választási iroda vezetője a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszáma alapján február 15-ig meghatározza és a helyben szokásos módon közzéteszi a megyei, fővárosi közgyűlés megválasztható tagjainak számát.
+
+(2) A területi választási iroda vezetőjének döntése ellen 2 napon belül az országos választási iroda vezetőjéhez lehet kifogással fordulni. A kifogásról az országos választási iroda vezetője 2 napon belül dönt. Az országos választási iroda vezetője a megtámadott határozatot helybenhagyja vagy megváltoztatja. További jogorvoslatnak helye nincs.

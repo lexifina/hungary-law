@@ -16,6 +16,6 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (3) A határozatot – ha arra az (1) bekezdés a) pontja szerint nem került sor – kézbesíteni kell az érintettnek.
 
-(4) A határozatot – ingyenesen – át kell adni a választási bizottság megbízott tagjai részére.
+(4) A határozatot kérésükre, ingyenesen át kell adni a választási bizottság megbízott tagjai részére.
 
 (5) A választási bizottság a határozatát – a személyes adatok kivételével – nyilvánosságra hozza.

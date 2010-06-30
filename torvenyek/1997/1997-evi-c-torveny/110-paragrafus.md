@@ -2,13 +2,13 @@
 
 110. § (1) Külön-külön szavazólap szolgál
 
-a) a 10 000 vagy annál kevesebb lakosú településen a kislistás, a polgármester- és a megyei listás választásra,
+a) a 10 000 vagy annál kevesebb lakosú településen az egyéni listás, a polgármester- és a megyei listás választásra,
 
 b) a 10 000-nél több lakosú településen az egyéni választókerületi, a polgármester- és – a megyei jogú város kivételével – a megyei listás választásra,
 
 c) a fővárosban az egyéni választókerületi, a polgármester-, a főpolgármester-, valamint a fővárosi listás választásra.
 
-(2) A települési kislistás, az egyéni választókerületi és a polgármester-választás szavazólapja ábécé sorrendben tartalmazza a jelöltek hivatalosan használt családi és utónevét, a 52. § (3) bekezdése szerinti megkülönböztető jelzést, valamint a jelölő szervezetek nevét – a jelölő szervezet kérésére annak rövidítését is –, illetőleg a független jelölés tényét. A kisebbséget képviselő jelölt kívánságára a nevét, illetőleg a jelölő szervezet nevét a szavazólapnak a kisebbség anyanyelvén is tartalmaznia kell.
+(2) A települési egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapja ábécé sorrendben tartalmazza a jelöltek hivatalosan használt családi és utónevét, a 52. § (3) bekezdése szerinti megkülönböztető jelzést, valamint a jelölő szervezetek nevét – a jelölő szervezet kérésére annak rövidítését is –, illetőleg a független jelölés tényét. A kisebbséget képviselő jelölt kívánságára a nevét, illetőleg a jelölő szervezet nevét a szavazólapnak a kisebbség anyanyelvén is tartalmaznia kell.
 
 (3)
 

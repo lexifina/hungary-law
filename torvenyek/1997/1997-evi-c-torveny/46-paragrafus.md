@@ -6,6 +6,6 @@
 
 (2) Jelöltet ajánlhat az a választópolgár, akinek lakóhelye a választókerületben van.
 
-(3) Jelöltet ajánlani a szavazást megelőző 23. napig lehet.
+(3) Jelöltet ajánlani a szavazást megelőző 30. napig lehet.
 
 (4) Az ajánlás nem vonható vissza.

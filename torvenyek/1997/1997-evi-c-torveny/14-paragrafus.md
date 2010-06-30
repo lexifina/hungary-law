@@ -1,6 +1,6 @@
 ## A névjegyzék közszemlére tétele
 
-14. § (1) A névjegyzéket a szavazás napja előtt 60 nappal – nyolc napra – közszemlére kell tenni, és ennek idejét a helyben szokásos módon ki kell hirdetni. A választópolgárokat a névjegyzékbe vételükről legkésőbb a szavazás napja előtti 58. napig értesítő megküldésével kell tájékoztatni.
+14. § (1) A névjegyzéket a szavazás napja előtt 46 nappal – öt napra – közszemlére kell tenni, és ennek idejét a helyben szokásos módon ki kell hirdetni. A választópolgárokat a névjegyzékbe vételükről legkésőbb a szavazás napja előtti 45. napig értesítő megküldésével kell tájékoztatni.
 
 (2) Az értesítő tartalmazza a választópolgár családi és utónevét, lakcímét, személyi azonosítóját, névjegyzékbeli sorszámát, egyéb technikai adatokat, a szavazás helyét és idejét, továbbá a szavazással kapcsolatos egyéb tudnivalókat.
 

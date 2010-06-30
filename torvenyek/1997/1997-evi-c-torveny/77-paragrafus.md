@@ -4,7 +4,7 @@
 
 ## Kifogás
 
-77. § (1) Kifogást a választásra irányadó jogszabály, illetőleg a választás és a választási eljárás alapelveinek (3. §) megsértésére (a továbbiakban együtt: jogszabálysértés) hivatkozással bárki benyújthat. A kifogást úgy kell benyújtani, hogy az legkésőbb a sérelmezett jogszabálysértés elkövetésétől számított három napon belül megérkezzen. A választási bizottság a benyújtott kifogásról a beérkezésétől – áttétel esetén az elbírálására jogosult választási bizottsághoz történő beérkezésétől – számított három napon belül dönt.
+77. § (1) Kifogást a választásra irányadó jogszabály, illetőleg a választás és a választási eljárás alapelveinek (3. §) megsértésére (a továbbiakban együtt: jogszabálysértés) hivatkozással bárki benyújthat. A kifogást úgy kell benyújtani, hogy az legkésőbb a sérelmezett jogszabálysértés elkövetésétől számított 2 napon belül megérkezzen. A választási bizottság a benyújtott kifogásról a beérkezésétől – áttétel esetén az elbírálására jogosult választási bizottsághoz történő beérkezésétől – számított 2 napon belül dönt.
 
 (2) A kifogásnak tartalmaznia kell
 

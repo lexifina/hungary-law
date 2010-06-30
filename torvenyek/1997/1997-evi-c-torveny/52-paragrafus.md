@@ -1,6 +1,6 @@
 ## A jelölt bejelentése
 
-52. § (1) A jelöltet legkésőbb a szavazást megelőző 23. napon az ajánlószelvények átadásával kell bejelenteni az illetékes választási bizottságnál.
+52. § (1) A jelöltet legkésőbb a szavazást megelőző 30. napon az ajánlószelvények átadásával kell bejelenteni az illetékes választási bizottságnál.
 
 (2) A bejelentésnek tartalmaznia kell a jelölt családi és utónevét, személyi azonosítóját, lakcímét, valamint nyilatkozatát arról, hogy
 
