@@ -20,22 +20,4 @@
 
 9. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^19]
 
-Kiindulási alap a 2010. július 1-jétől alkalmazandó díjak számításához
-
-Elosztási díjrendszer
-
-| Díjfizetésre kötelezett rendszerhasználók | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
-
-| Ft/m3 | Ft/év | Ft/m3/h/év | Ft/m3/h/év | Ft/m3 |
-
-| a) | Gázmérővel nem rendelkező felhasználók | 18,23 |  |  |  |  |
-
-| b) | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 12 000 |  |  | 10,05 |
-
-| c) | 20–100 m3/h közötti névleges (össz) kapacitású gázmérővel rendelkező felhasználók |  |  | 5 112 |  | 1,16 |
-
-| d) | 101–500 m3/h kapacitás lekötésű felhasználók |  |  |  | 7 656 | 1,07 |
-
-| e) | 500 m3/h feletti kapacitás lekötésű felhasználók |  |  |  | 12 048 | 0,94 |
-
-[^19]: A 9. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
+[^19]: A 9. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 4/2010. (VI. 30.) NFM rendelet 8. § (3) bekezdése.
