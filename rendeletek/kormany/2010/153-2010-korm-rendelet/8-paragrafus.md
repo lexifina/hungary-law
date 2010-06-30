@@ -4,12 +4,10 @@
 
 (3) E rendelet hatálybalépése az OKV Elnökségének hivatalban levő tagjai, az OKV titkára, az OKV szakbizottságainak tagjai, valamint az OKV tagjai megbízatását nem érinti, de megbízatásukra az e rendelet hatálybalépését követően e rendelet rendelkezéseit kell alkalmazni.
 
-(4) Akinek e rendelet hatálybalépéskor közigazgatási alapvizsga letételére vonatkozó kötelezettsége áll fenn, e kötelezettségét
+(4)–(5)[^5]
 
-a) az e rendelet hatálybalépését megelőzően beadott jelentkezések esetében a 2010. június 30-ig terjedő időszakra szervezett alapvizsga vonatkozásában a közigazgatási és az ügykezelői alapvizsgáról szóló 51/1993. (III. 31.) Korm. rendeletnek az e rendelet hatálybalépését megelőző napon hatályos rendelkezései szerint,
+(6)[^6] A 4. § (1) bekezdésében meghatározott pályázatot az egyes közszolgálati jogviszonnyal összefüggő kormányrendeletek módosításáról szóló 207/2010. (VI. 30.) Korm. rendelet (a továbbiakban: MódR.) hatálybalépését[^7] követő 60 napon belül ki kell írni. Az, aki a MódR. hatálybalépésekor OKV tagként vizsgáztatni, illetve oktatni jogosult, e tevékenységét az új tagok felkéréséig folytathatja, ezt követően OKV tagsága megszűnik.
 
-b) az e rendelet hatálybalépését követően beadott jelentkezések, illetve a 2010. július 1-je utáni időszakra szervezett alapvizsga vonatkozásában a versenyvizsgára vonatkozó vizsgakövetelmények és a 126/2009. (VI. 15.) Korm. rendeletben meghatározottak alapján
-
-kell teljesíteni.
-
-(5) A (4) bekezdés b) pontjának alkalmazása során a vizsgadíjat – ide nem értve az ismételt vizsgadíjat és a halasztási díjat – a munkáltató köteles megfizetni.
+[^5]: A 8. § (4)–(5) bekezdését a 207/2010. (VI. 30.) Korm. rendelet 10. § c) pont cb) alpontja hatályon kívül helyezte.
+[^6]: A 8. § (6) bekezdését a 207/2010. (VI. 30.) Korm. rendelet 7. §-a iktatta be.
+[^7]: A hatálybalépés napja: 2010. június 30.

@@ -14,7 +14,9 @@ a) a tag lemondásával,
 
 b) a tag felmentésével, vagy
 
-c) a tag halálával.
+c) a tag halálával,
+
+d)[^2] az OKV tagság megújítására irányuló, 4. § (1) bekezdése szerinti új eredményes pályázat esetén az új tagok felkérésével.
 
 (7) Az OKV tagját az OKV elnöke az OKV Elnökségével folytatott konzultációt követően abban az esetben mentheti fel, ha
 
@@ -23,3 +25,5 @@ a) egy naptári éven belül legalább három alkalommal indokolatlanul nem tett
 b) súlyosan megsérti a vizsgáztatás rendjére vonatkozó szabályokat,
 
 c) olyan jogellenes magatartást tanúsított, amely méltatlan az OKV-ban betöltött tagságához.
+
+[^2]: A 4. § (6) bekezdés d) pontját a 207/2010. (VI. 30.) Korm. rendelet 6. §-a iktatta be.

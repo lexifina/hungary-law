@@ -2,7 +2,7 @@
 
 a) Közigazgatási Versenyvizsga Szakbizottság,
 
-b) Ügykezelői Alapvizsga Szakbizottság,
+b)[^4] Alapvizsga Szakbizottság,
 
 c) a közigazgatási szakvizsga kötelező tárgya tekintetében feladatkörrel rendelkező Szakvizsga Szakbizottság, és
 
@@ -25,3 +25,5 @@ c) a tagnak az OKV-ban betöltött tagsága megszűnésével,
 d) a tag halálával.
 
 (5) A szakbizottság tagját az OKV elnöke az OKV Elnökségével folytatott konzultációt követően bármikor felmentheti. A tag felmentését nem kell indokolni.
+
+[^4]: A 6. § (1) bekezdés b) pontja a 10. § c) pont ca) alpontja szerint módosított szöveg.
