@@ -62,4 +62,6 @@
 
 | L04AC | Interleukin-gátlók |  |  |  |  |  | X |  |
 
-2. melléklet a 36/2010. (V. 14.) EüM rendelethez
+2. melléklet a 36/2010. (V. 14.) EüM rendelethez[^7]
+
+[^7]: A 2. melléklet az 1/2010. (VI. 29.) NEFMI rendelet 1. §-a és 2. § c) pontja szerint módosított szöveg.
