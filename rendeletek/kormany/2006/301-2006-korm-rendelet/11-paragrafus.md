@@ -1,1 +1,0 @@
-## 10. § A Miniszterelnöki Hivatalt vezető miniszter ellenőrzi az 1. §-ban meghatározott szervek esetében a teljesítményértékelés szabályainak érvényesülését, azok megsértése esetén jelzéssel fordul a szerv vezetőjéhez és felhívja a jogsértés orvoslására, a szerv vezetője tájékoztatja a Miniszterelnöki Hivatalt vezető minisztert a megtett intézkedésekről.
