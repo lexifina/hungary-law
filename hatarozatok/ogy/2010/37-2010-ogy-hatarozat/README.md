@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-37-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-06-16 | 2010-37-30-41.1 | 37/2010. (VI. 16.) OGY határozat |
+| 2010-06-30 | 2010-37-30-41.2 | 53/2011. (VI. 29.) OGY határozat |
