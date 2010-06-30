@@ -1,1 +1,0 @@
-2. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 35. §-ának (3) bekezdésében a „2010. szeptember 1-jén” szövegrész helyébe a „2011. november 1-jén” szöveg lép, valamint 35. §-ának (7) bekezdésében a „2010. szeptember 2-án” szövegrész helyébe a „2011. november 2-án” szöveg lép.

@@ -1,1 +1,1 @@
-1. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 6. §-ának (5) bekezdésében a „2010. július 1-jétől” szövegrész helyébe a „2011. január 1-jétől” szöveg lép, valamint 7. §-ának (5) bekezdésében a „2010. július 1-jétől” szövegrész helyébe a „2011. január 1-jétől” szöveg lép.
+1–3. §

@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-59-00-00
 | --- | --- | --- |
 | 2010-06-29 | 2010. évi LIX. törvény | 2010-59-00-00.0 (közlönyállapot) |
 | 2010-06-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-59-00-00.1 |
+| 2010-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-59-00-00.2 |
