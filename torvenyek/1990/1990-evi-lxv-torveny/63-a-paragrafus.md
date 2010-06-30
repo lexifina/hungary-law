@@ -14,7 +14,7 @@ f) kijelöli a köztemetők létesítésére, bővítésére alkalmas területet
 
 g) ellátja a főváros tömegközlekedési és forgalomtechnikai feladatait, kijelöli a főútvonalakat, a tömegközlekedés által igénybe vett útvonalakat, ellátja Budapest területén a fővárosi önkormányzat tulajdonában levő országos közutak, közúti hidak, alul- és felüljárók — az autópályák és autóutak kivételével — üzemeltetését, fenntartását és fejlesztését, valamint a kerületi önkormányzatok tulajdonában levő tömegközlekedés által igénybe vett utak üzemeltetését, fenntartását és fejlesztését;
 
-h) rendeletében szabályozza a főváros parkolási és parkolásgazdálkodási rendszerét, a kiemelten védett és védett parkolási övezeteket, az alkalmazható várakozási díjak megállapítását, a közterülethasználatot és a közterület rendjét, a közterületfelügyelet szervezetét és feladatait;
+h)
 
 i) megállapítja a főváros idegenforgalmi koncepcióját, a feladatok ellátása érdekében létrehozza és működteti turisztikai szervezetét;
 
