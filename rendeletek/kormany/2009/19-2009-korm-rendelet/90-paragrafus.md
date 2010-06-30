@@ -6,8 +6,8 @@
 
 (4) A nyilvántartott kapacitások feletti igény kielégítésére az ÜKSZ-ben meghatározott eljárásrend szerint van lehetőség.
 
-(5)[^141] A nyilvántartott kapacitásigényt nem meghaladó forrásoldali kapacitásigényre legfeljebb két gázévre köthető szerződés. A nyilvántartott kapacitásigényt meghaladó forrásoldali kapacitásigényre legfeljebb egy gázévre köthető szerződés, ha a rendszeren van szabad kapacitás.
+(5)[^141] A nyilvántartott kapacitásigényt meghaladó forrásoldali kapacitás igényre legfeljebb egy gázévre köthető szerződés, ha a rendszeren van a nyilvántartott kapacitást meghaladó szabad kapacitás.
 
 [^139]: A Vhr. 90. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^140]: A Vhr. 90. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^141]: A Vhr. 90. § (5) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^141]: A Vhr. 90. § (5) bekezdése a 209/2010. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
