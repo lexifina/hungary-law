@@ -1,9 +1,13 @@
-32. § (1) A PM Nemzeti Programengedélyező Iroda kezdeményezésére a Programengedélyező intézkedik az EU támogatásoknak a PM Nemzeti Programengedélyező Iroda vonatkozó euró számlájára történő visszautalásáról
+32. §[^14] (1) Ha az Európai Bizottság visszafizetési kötelezettséget vagy levonást állapít meg, a PM Nemzeti Programengedélyező Iroda kezdeményezésére a Programengedélyező intézkedik a szabálytalan felhasználásból vagy más okból eredő összegnek és kamatának, vagy a programzárás végén fennmaradó, fel nem használt összegnek az Európai Bizottság részére történő visszafizetéséről.
 
-a) jogosulatlan vagy szabálytalan utalásból, valamint jogosulatlan vagy szabálytalan felhasználásból eredő összegek esetén, illetve
+(2) Az (1) bekezdés szerint visszafizetendő, visszapótlandó összeg a szabálytalanságért felelős fejezetet terheli, kivéve, ha a szabálytalanságért a Programengedélyező, illetve a végrehajtó szervezet a felelős. A Programengedélyező, illetve a végrehajtó szervezet felelőssége esetén a visszafizetendő összeg a végrehajtó szervezet fejezeti felügyeletét ellátó szervet – a KPSZE mint végrehajtó szervezet esetén a költségvetés XIX. Uniós fejlesztések fejezetét – terheli.
 
-b) programzárás végén fennmaradó, fel nem használt összeg esetén.
+(3) A Nemzeti Programengedélyező nevében a PM Nemzeti Programengedélyező Iroda intézkedik a visszafizetendő EU támogatás összegének és nettó kamatának az Európai Bizottság részére történő visszautalásáról.
 
-(2) A Nemzeti Programengedélyező nevében a PM Nemzeti Programengedélyező Iroda intézkedik a visszafizetendő EU támogatás összeg és nettó kamatának (kamatból levonva a bankköltség) Európai Bizottságnak való mielőbbi visszautalásáról.
+(4) Amennyiben a végrehajtó szervezet visszafizetésre vonatkozó intézkedése két hónapon belül eredménytelennek bizonyul, a szabálytalanul felhasznált EU támogatási összeg visszautalásáról a PM Nemzeti Programengedélyező Iroda számlája javára a Phare és Átmeneti Támogatás projektjeinek hazai társfinanszírozási részét biztosító fejezet köteles gondoskodni. Amennyiben a szabálytalanságban érintett összeg a későbbiekben behajtásra kerül, a végrehajtó szervezet gondoskodik annak a program szakmai lebonyolításáért felelős fejezet költségvetése részére történő visszatérítéséről.
 
-(3) Amennyiben a végrehajtó szervezet visszafizetésre vonatkozó intézkedése eredménytelennek bizonyul, a szabálytalanul vagy jogtalanul felhasznált EU támogatási összeg visszautalásáról a PM Nemzeti Programengedélyező Iroda vonatkozó euró számlája javára a Phare és Átmeneti Támogatás projektjeinek hazai társfinanszírozási részét biztosító fejezet köteles gondoskodni, a tervezési körirattal, illetve a mindenkori költségvetési törvény előírásaival összhangban.
+(5) A Programengedélyező a visszafizetési felszólítás kézhezvételétől számított 5 napon belül tájékoztatja a Nemzeti Programengedélyezőt és a Nemzeti Koordinátort, a visszafizetési felszólítás kézhezvételétől számított 30 napon belül pedig a Kormányt is, ha a visszafizetési felszólításban meghatározott összeg meghaladja az egymillió eurót.
+
+(6) Ha a visszafizetési felszólítást a Programengedélyező vitatja, a vita rendezésének – a Nemzeti Programengedélyező és a Nemzeti Koordinátor folyamatos tájékoztatása melletti – felelőssége és költsége a Programengedélyezőt terheli. Az egymillió eurót meghaladó visszafizetési felszólítás esetén a Programengedélyező a felszólítás kézhezvételétől számított 30 napon belül a vitarendezés irányára és tartalmára vonatkozó állásfoglalást kér a Kormánytól.
+
+[^14]: A 32. § a 164/2010. (V. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

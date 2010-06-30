@@ -4,16 +4,18 @@
 
 ## SZABÁLYTALANSÁGOK KEZELÉSE
 
-58. § (1) A szabálytalanságok felfedése, megfelelő kezelése és jelentése érdekében a PM Nemzeti Programengedélyező Iroda, az MVH, valamint a végrehajtó szervezetek kijelölik a szabálytalanságok nyilvántartásáért és kezelésének nyomon követéséért, jelentéséért felelős szervezeti egységet vagy személyt. Ez a szervezeti egység vagy személy, amely nem lehet a szabálytalanságok kivizsgálására jogosult függetlenített belső ellenőrzési egység, felelős
+58. §[^23] (1) A szabálytalanságok jelentése érdekében az MVH, a végrehajtó szervezetek, (a továbbiakban együtt: szabálytalansági vizsgálatot lefolytató szervezet), valamint a PM Nemzeti Programengedélyező Iroda együttműködik az OLAF Koordinációs Irodával.
 
-a) a szabálytalanságok nyilvántartásáért,
+(2) A szabálytalansági vizsgálatot lefolytató szervezet vezetője – jogszabály vagy megállapodás alapján – kijelöli a szabálytalansági ügyek nyilvántartásáért és jelentéséért felelős szervezeti egységet vagy személyt (a továbbiakban: szabálytalanság-felelős). A szabálytalanság-felelős nem lehet a függetlenített belső ellenőrzési egység.
 
-b) a szabálytalanságok kivizsgálására és a szükséges intézkedésekre vonatkozó javaslat elkészítéséért,
+(3) A szabálytalanság-felelős
 
-c) a szabálytalanságokkal kapcsolatos döntések végrehajtásának nyomon követéséért,
+a) gondoskodik a szabálytalanságok nyilvántartásáról,
 
-d) a szabálytalanságokkal kapcsolatos negyedéves jelentések összeállításáért.
+b) elkészíti a szabálytalanságok kivizsgálására és a szükséges intézkedésekre vonatkozó javaslatot,
 
-(2) A szabálytalansági jelentési rendszer koordinációjáért a Nemzeti Programengedélyező a felelős.
+c) nyomon követi a szabálytalanságokkal kapcsolatos döntések végrehajtását, valamint
 
-(3) A szabálytalanságokkal kapcsolatos teendőket az egyes szervezetek eljárásrendjük önálló fejezeteként kötelesek részletesen szabályozni.
+d) összeállítja a szabálytalanságokkal kapcsolatos negyedéves jelentéseket.
+
+[^23]: Az 58. § a 164/2010. (V. 11.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

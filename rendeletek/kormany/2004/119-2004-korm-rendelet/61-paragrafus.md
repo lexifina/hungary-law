@@ -1,3 +1,0 @@
-61. § (1) Minden negyedévet követő két hónapon belül a Nemzeti Programengedélyező a programok lebonyolítása során tapasztalt szabálytalanságokról vagy visszaélésekről, az ezekkel kapcsolatban megtett intézkedésekről, valamint a folyó államigazgatási, bírósági eljárások helyzetéről, illetve amennyiben nem merült fel szabálytalanság vagy visszaélés, ennek tényéről köteles jelentést küldeni az EDIS Bizottság, az ÁBPE Tárcaközi Bizottság és – az OLAF Koordinációs Irodán keresztül – az EU Bizottság és az EU Csalás Ellenes Hivatala (OLAF) részére.
-
-(2) A Nemzeti Programengedélyező jelentésének alapját a PM Nemzeti Programengedélyező Iroda és az MVH vezetője, valamint a Programengedélyezők által benyújtott negyedéves jelentések adják.

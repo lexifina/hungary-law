@@ -8,7 +8,7 @@ b) a hazai társfinanszírozás összege, Phare és Átmeneti Támogatás eseté
 
 c) a végső kedvezményezettek által biztosított saját erő felhasználása, Phare és Átmeneti Támogatás esetében programonként, alprogramonként és támogatási szerződésenként, SAPARD esetében intézkedésenként és támogatási szerződésenként,
 
-d)[^4] a programonként megnyitott fizetési számlák forgalma,
+d)[^19] a programonként megnyitott fizetési számlák forgalma,
 
 e) a követelések és kötelezettségek,
 
@@ -20,7 +20,7 @@ g) EU forrás hiánya esetén a költségvetésből előfinanszírozott összeg 
 
 (4) Annak érdekében, hogy a hazai társfinanszírozással kapcsolatos adatok a végrehajtó szervezetek nyilvántartásaihoz rendelkezésre álljanak, a Kincstár – amely szervezet a feladatfinanszírozási rendszerben ezen adatok birtokában van – hetente megküldi az egyes programokhoz kapcsolódó hazai társfinanszírozás tételes listáit a végrehajtó szervezeteknek.
 
-(5)[^5] A végső kedvezményezettek által biztosított saját erő adatainak nyilvántartása érdekében a végrehajtó szervezeteknek a végső kedvezményezettekkel kötött szerződésekbe bele kell foglalniuk, hogy a végső kedvezményezett rendszeresen, programonként és kifizetésenként részletezve adatot szolgáltat az általa biztosított saját erő összegéről, az azt igazoló fizetési számla kivonat vagy egyéb hiteles dokumentum másolati példányának csatolásával.
+(5)[^20] A végső kedvezményezettek által biztosított saját erő adatainak nyilvántartása érdekében a végrehajtó szervezeteknek a végső kedvezményezettekkel kötött szerződésekbe bele kell foglalniuk, hogy a végső kedvezményezett rendszeresen, programonként és kifizetésenként részletezve adatot szolgáltat az általa biztosított saját erő összegéről, az azt igazoló fizetési számla kivonat vagy egyéb hiteles dokumentum másolati példányának csatolásával.
 
-[^4]: A 44. § (2) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
-[^5]: A 44. § (2) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 44. § (2) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 44. § (2) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
