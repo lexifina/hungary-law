@@ -8,10 +8,12 @@ b) nem a szolgáltató központhoz kerültek benyújtásra.
 
 (3) A (2) bekezdésben foglaltakon túl érvénytelen a pályázat, ha
 
-a) a pályázó nem rendelkezik a pályázat benyújtásának időpontjában eredményes közigazgatási versenyvizsgával, továbbá, ha
+a)[^11]
 
 b) a pályázó a pályázati kiírásban meghatározott egyéb feltételeknek nem felel meg.
 
 (4) Ha a szolgáltató központ érvénytelennek nyilvánítja a pályázatot, akkor arról és annak indokairól haladéktalanul – de legkésőbb az érvénytelenné nyilvánítást követő 2 munkanapon belül – tájékoztatja a pályázót.
 
 (5) A szolgáltató központ az előszűrés eredménye alapján összeállítja azon pályázók körét, akiket kompetencia-vizsgálatra javasol.
+
+[^11]: A 6. § (3) bekezdés a) pontját a 207/2010. (VI. 30.) Korm. rendelet 10. § a) pont ae) alpontja hatályon kívül helyezte.
