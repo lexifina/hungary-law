@@ -1,6 +1,6 @@
 ## Vizsgaszabályzat
 
-## 1.[^17] A vizsgázó elektronikus úton küldi meg a versenyvizsgára történő jelentkezését, amelyet a KSZK honlapján lévő jelentkezési lappal tehet meg.
+## 1.[^20] A vizsgázó elektronikus úton küldi meg a versenyvizsgára történő jelentkezését, amelyet a KSZK honlapján lévő jelentkezési lappal tehet meg.
 
 ## 2. Az írásbeli és szóbeli vizsgán a vizsgázónak a versenyvizsga időpontjában közzétett vizsgakövetelmények által meghatározott tárgykörökben kell számot adnia tudásáról.
 
@@ -8,7 +8,7 @@
 
 ## 4. A szóbeli vizsgán a vizsgázó a vizsgakövetelmények ismeretanyagából tantárgycsoportonként [4. § (1) bekezdés] egy-egy szóbeli tételt (összesen ötöt) húz, majd a vizsgabizottság a tételhez nem tartozó, de a vizsgakövetelmény-rendszeren belüli további kérdések feltevésével is tájékozódhat a vizsgázó felkészültségéről. A szóbeli vizsgarész esetében a vizsgázó tárgyi tudása legfeljebb 40 ponttal, a lényeglátási képessége legfeljebb 20 ponttal, a kommunikációs- és beszédképessége legfeljebb 20 ponttal, a problémafelismerő és reagáló képessége legfeljebb 20 ponttal értékelhető.
 
-## 5.[^18] Egy írásbeli vizsgacsoportba és legfeljebb 20 főt, egy szóbeli vizsgacsoportba és legfeljebb 12 főt lehet beosztani.
+## 5.[^21] Egy írásbeli vizsgacsoportba és legfeljebb 20 főt, egy szóbeli vizsgacsoportba és legfeljebb 12 főt lehet beosztani.
 
 ## 6. A teszt-feladatsor és az esszé megoldása számítógépen történik.
 
@@ -16,7 +16,7 @@
 
 ## 8. A teszt-feladatsor megoldására – a vizsgázók tájékoztatására fordított idő nélkül – a vizsgázó számára 60 perc áll rendelkezésre. A teszt-feladatsor eredményéről a vizsgázó a teszt-feladatsor kitöltését követően, helyben tájékoztatást kap.
 
-## 9.[^19] Az esszé megoldására – a vizsgázók tájékoztatására fordított idő nélkül – a vizsgázónak 90 perc áll rendelkezésére.
+## 9.[^22] Az esszé megoldására – a vizsgázók tájékoztatására fordított idő nélkül – a vizsgázónak 90 perc áll rendelkezésére.
 
 ## 10. A vizsgabizottságnak a szóbeli vizsgán teljes létszámban jelen kell lennie.
 
@@ -44,6 +44,6 @@
 
 2. számú melléklet a 126/2009. (VI. 15.) Korm. rendelethez
 
-[^17]: A 1. számú melléklet 1. pontja a 153/2010. (V. 4.) Korm. rendelet 11. § (3)–(4) bekezdése szerint módosított szöveg.
-[^18]: Az 1. számú melléklet 5. pontja a 21/2010. (II. 9.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^19]: A 1. számú melléklet 9. pontja a 153/2010. (V. 4.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 1. számú melléklet 1. pontja a 153/2010. (V. 4.) Korm. rendelet 11. § (3)–(4) bekezdése szerint módosított szöveg.
+[^21]: Az 1. számú melléklet 5. pontja a 21/2010. (II. 9.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: A 1. számú melléklet 9. pontja a 153/2010. (V. 4.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.

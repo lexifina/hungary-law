@@ -1,6 +1,6 @@
 ## A vizsgakövetelmények
 
-4. §[^4] (1) A versenyvizsga tárgykörei:
+4. §[^6] (1) A versenyvizsga tárgykörei:
 
 a) alkotmány- és jogi ismeretek,
 
@@ -20,4 +20,4 @@ e) emberi jogi, etikai és adatkezelési ismeretek.
 
 (5) A vizsgakövetelményeket és a szóbeli vizsgatételeket a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, a tananyagot a KSZK honlapján közzé kell tenni.
 
-[^4]: A 4. § a 153/2010. (V. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § a 153/2010. (V. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

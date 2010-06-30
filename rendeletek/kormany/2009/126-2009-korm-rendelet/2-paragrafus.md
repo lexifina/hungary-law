@@ -6,7 +6,7 @@ a) fogyatékos vizsgázó: a fogyatékos személyek jogairól és esélyegyenlő
 
 b) hátrányos helyzetű vizsgázó: az a vizsgára jelentkezés időpontjában 35. életévét be nem töltött jelentkező, akit középfokú tanulmányai során családi körülményei, szociális helyzete miatt a jegyző védelembe vett, illetve, aki után rendszeres gyermekvédelmi támogatást folyósítottak, illetve rendszeres gyermekvédelmi kedvezményre jogosult, vagy állami gondozott volt,
 
-c) közigazgatási gyakorlat: a Ktv. 72. § (7) bekezdése szerinti gyakorlat,
+c)[^2]
 
 d) közigazgatási versenyvizsga szakbizottság (a továbbiakban: szakbizottság): az Országos Közigazgatási Vizsgabizottság (a továbbiakban: OKV) keretében működő, a közigazgatási versenyvizsgával kapcsolatos egyes feladatok ellátására létrejött bizottság,
 
@@ -17,3 +17,5 @@ f) vizsgabiztos: aki az írásbeli, illetve a szóbeli vizsgán a közigazgatás
 g) vizsgázó: a Ktv. 10/C. § (1) bekezdésében meghatározott személy,
 
 h) vizsgáztató: a közigazgatási versenyvizsga tananyagát számon kérő, e rendelet alapján felkért személy.
+
+[^2]: A 2. § c) pontját a 207/2010. (VI. 30.) Korm. rendelet 10. § d) pont da) alpontja hatályon kívül helyezte.
