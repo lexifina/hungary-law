@@ -2,7 +2,7 @@
 
 (2) A szakmai vizsga szervezésére feljogosított intézmény a 2. mellékletben megjelölt szakképesítés, szakképesítés-elágazás, ezek részszakképesítése, szakképesítés-ráépülés, valamint részszakképesítés tekintetében és az ott meghatározott régióban jogosult szakmai vizsga szervezésére.
 
-(3)[^1] Az (1) bekezdés szerinti intézményeken kívül az Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság jogosult szakmai vizsga megszervezésére az ország összes régiójában
+(3)[^2] Az (1) bekezdés szerinti intézményeken kívül az Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság jogosult szakmai vizsga megszervezésére az ország összes régiójában
 
 a) Felvonó- és mozgólépcsőellenőr szakképesítés Felvonóellenőr (OKJ szám: 61 521 01 0010 61 01), valamint
 
@@ -12,7 +12,7 @@ b) Kéményseprő (OKJ szám: 33 814 01 000 00 00) szakképesítés
 
 vonatkozásában.
 
-(4)[^2] Az (1) bekezdés szerinti intézményeken kívül az Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság 2010. június 30-ig jogosult szakmai vizsga megszervezésére az ország összes régiójában Településfejlesztési szakelőadó (52 5812 01 azonosító számú) szakképesítés vonatkozásában.
+(4)[^3]
 
-[^1]: Az 1. § (3) bekezdése a 8/2010. (I. 21.) NFGM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést a 2010. február 5. napját követően indított szakképzésekre kell alkalmazni.
-[^2]: Az 1. § (4) bekezdését a 8/2010. (I. 21.) NFGM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 4. § (2) bekezdése 2010. június 30. napjával.
+[^2]: Az 1. § (3) bekezdése a 8/2010. (I. 21.) NFGM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést a 2010. február 5. napját követően indított szakképzésekre kell alkalmazni.
+[^3]: Az 1. § (4) bekezdését a 8/2010. (I. 21.) NFGM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 4. § (2) bekezdése.
