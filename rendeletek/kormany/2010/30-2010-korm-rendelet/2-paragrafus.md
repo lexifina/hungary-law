@@ -1,3 +1,0 @@
-## 1. § Az 1999. évi LXX. törvénnyel kihirdetett, a Magyar Köztársaság és az Apostoli Szentszék között a Katolikus Egyház magyarországi közszolgálati és hitéleti tevékenységének finanszírozásáról, valamint néhány vagyoni természetű kérdésről 1997. június 20-án, Vatikánvárosban aláírt Megállapodás I. 2. Cikke, valamint az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 2008. december 31-én hatályos 6. §-a szerint az egyházi közoktatási intézményfenntartókat 3 283,8 millió forint egyszeri – a 2008. évi önkormányzati közoktatási támogatást kompenzáló – közoktatási kiegészítő támogatás illeti meg.
-
-2. § E rendelet a kihirdetését követő harmadik napon lép hatályba, és 2010. június 30. napján hatályát veszti.
