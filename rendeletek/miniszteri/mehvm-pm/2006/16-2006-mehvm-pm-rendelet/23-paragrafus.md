@@ -24,7 +24,7 @@ f) helyszíni szemlék, ellenőrzések megállapításai alapján a kedvezménye
 
 a)[^96]
 
-b)[^97]
+b)[^97] a (szükség esetén) lefolytatott közbeszerzési eljárás ajánlati, részvételi, illetve ajánlattételi felhívása, az ajánlatok elbírálásának befejezésekor készített összegezés, jogorvoslat esetén a KDB határozata, valamint a Kbt. által előírt esetekben hivatalos közbeszerzési tanácsadó igénybevételének igazolása;
 
 c) a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését igazoló dokumentumok.
 
@@ -41,4 +41,4 @@ c) kezdeményezi a támogatás felfüggesztését, a már kifizetett támogatás
 [^94]: A 23. § (3) bekezdése a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 16. §-ával megállapított szöveg, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^95]: A 23. § (4) bekezdésének bevezető szövegrésze a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 26. § (2) bekezdésével megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^96]: A 23. § (4) bekezdésének a) pontját a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^97]: A 23. § (4) bekezdés b) pontját a 20/2010. (V. 13.) NFGM–PM együttes rendelet 14. §-a hatályon kívül helyezte.
+[^97]: A 23. § (4) bekezdés b) pontját a 20/2010. (V. 13.) NFGM–PM együttes rendelet 14. §-a hatályon kívül helyezte, újonnan a 2/2010. (VI. 29.) NFM–NGM együttes rendelet 1. §-a iktatta be.
