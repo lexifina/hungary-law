@@ -1,14 +1,14 @@
 4. § (1) Az Ügynökséget elnök vezeti, akit a munkájában elnökhelyettesek segítenek.
 
-(2)[^6]
+(2)[^7]
 
-(3)[^7] Az elnökhelyetteseket az elnök – a fejlesztéspolitikáért felelős miniszter egyetértésével – nevezi ki és menti fel.
+(3)[^8] Az elnökhelyetteseket az elnök – a fejlesztéspolitikáért felelős miniszter egyetértésével – nevezi ki és menti fel.
 
-(4)–(5)[^8]
+(4)–(5)[^9]
 
-(6)[^9] Az Ügynökség irányító hatósági feladatokat ellátó főosztályai divíziókra és osztályokra tagozódhatnak. A divíziót főosztályvezető-helyettesi megbízással rendelkező személy vezeti. A divízió osztályokra tagozódik.
+(6)[^10] Az Ügynökség irányító hatósági feladatokat ellátó főosztályai divíziókra és osztályokra tagozódhatnak. A divíziót főosztályvezető-helyettesi megbízással rendelkező személy vezeti. A divízió osztályokra tagozódik.
 
-[^6]: A 4. § (2) bekezdését a 171/2007. (VI. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^7]: A 4. § (3) bekezdése a 171/2007. (VI. 29.) Korm. rendelet 2. §-ával megállapított, valamint a 104/2008. (IV. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^8]: A 4. § (4)–(5) bekezdését a 386/2007. (XII. 23.) Korm. rendelet 1. §-a hatályon kívül helyezte.
-[^9]: A 4. § (6) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^7]: A 4. § (2) bekezdését a 171/2007. (VI. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^8]: A 4. § (3) bekezdése a 171/2007. (VI. 29.) Korm. rendelet 2. §-ával megállapított, valamint a 104/2008. (IV. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. § (4)–(5) bekezdését a 386/2007. (XII. 23.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^10]: A 4. § (6) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 35. § (2) bekezdése iktatta be.

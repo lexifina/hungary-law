@@ -18,14 +18,15 @@ g) szervezi az Európai Unió strukturális és kohéziós politikájával kapcs
 
 h) a Kormány által meghatározott körben ellátja az Európai Unió pénzügyi támogatásainak felhasználásához szükséges feladatokat, és koordinálja a pénzügyi támogatások felhasználásával kapcsolatban kialakított intézményrendszer működését;
 
-i) ellátja a PHARE programokkal és a Schengen Alappal kapcsolatos szervezési és koordinációs feladatokat, ennek keretében biztosítja a Központi Pénzügyi és Szerződéskötő Egység működését, e tevékenységében a Segélykoordinációs Bizottság támogatja;
+i)[^2] ellátja a PHARE programokkal kapcsolatos szervezési és koordinációs feladatokat, e tevékenységében a Segélykoordinációs Bizottság támogatja, ellátja továbbá a Schengen Alappal kapcsolatos szervezési és koordinációs feladatokat;
 
 j) ellátja az Átmeneti Támogatási Alappal, a Norvég Finanszírozási Mechanizmussal, illetve az EGT Finanszírozási Mechanizmussal kapcsolatos előkészítési, szervezési és koordinációs feladatokat, illetve az ikerintézményi (twinning) programmal kapcsolatos nemzeti koordinációt;
 
-k)[^2] ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programok irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről;
+k)[^3] ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programok irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről;
 
-l)[^3] ellátja a Svájci–Magyar Együttműködési Program tekintetében a Nemzeti Koordinációs Egység feladatait.
+l)[^4] ellátja a Svájci–Magyar Együttműködési Program tekintetében a Nemzeti Koordinációs Egység feladatait.
 
 [^1]: A 2. § a) pontját a 104/2008. (IV. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
-[^2]: A 2. § k) pontját a 163/2009. (VIII. 6.) Korm. rendelet 35. § (1) bekezdése iktatta be.
-[^3]: A 2. § l) pontját a 164/2010. (V. 11.) Korm. rendelet 8. §-a iktatta be.
+[^2]: A 2. § i) pontja a 164/2010. (V. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^3]: A 2. § k) pontját a 163/2009. (VIII. 6.) Korm. rendelet 35. § (1) bekezdése iktatta be.
+[^4]: A 2. § l) pontját a 164/2010. (V. 11.) Korm. rendelet 8. §-a iktatta be.
