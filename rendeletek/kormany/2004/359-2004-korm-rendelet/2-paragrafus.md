@@ -16,9 +16,9 @@ ad) al-kifizető hatóság: a VÁTI Magyar Regionális Fejlesztési és Urbanisz
 
 ae) közreműködő szervezet: VÁTI Kht.;
 
-af) zárónyilatkozat kiadásáért és az 5%-os és rendszerellenőrzésért felelős szervezet: Kormányzati Ellenőrzési Hivatal (a továbbiakban: KEHI);
+af)[^3] zárónyilatkozat kiadásáért és az 5%-os és rendszerellenőrzésért felelős szervezet: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF);
 
-ag)[^3] központi harmonizációs egység: a Pénzügyminisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
+ag)[^4] központi harmonizációs egység: a Pénzügyminisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
 
 b) Közösségi Kezdeményezés: európai szintű közösségi érdekű együttműködés, amelyet a tagállamok az Európai Bizottság kezdeményezésére hajtanak végre, mint az egész európai térség fejlesztése és kohéziója szempontjából alapvetően fontos kooperációt.
 
@@ -60,24 +60,25 @@ t) INTERACT: az INTERREG Közösségi Kezdeményezés programok része, amelynek
 
 u) Tényfeltáró látogatás: az igazolási tevékenység alátámasztása érdekében a kifizető hatóság által a pénzügyi lebonyolításban részt vevő szervezeteknél végzett helyszíni vizsgálat, amelynek célja a szervezetek megfelelő működésének, az írásos eljárásrendek és az alkalmazott eljárások összhangjának megállapítása.
 
-v)[^4] INTERREG Monitoring és Információs Rendszer (IMIR): az INTERREG III Közösségi Kezdeményezési programokkal és az azok keretében megvalósuló projektekkel kapcsolatos végrehajtási, kifizetési, monitoring, ellenőrzési, szabálytalanságkezelési és számviteli feladatokat támogató információtechnológiai rendszer.
+v)[^5] INTERREG Monitoring és Információs Rendszer (IMIR): az INTERREG III Közösségi Kezdeményezési programokkal és az azok keretében megvalósuló projektekkel kapcsolatos végrehajtási, kifizetési, monitoring, ellenőrzési, szabálytalanságkezelési és számviteli feladatokat támogató információtechnológiai rendszer.
 
-w)[^5] Forrásgazda: az INTERREG programok előirányzatai esetében a költségvetési tervezési, előirányzat-módosítási, felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettségek viselője és jogok gyakorlója.
+w)[^6] Forrásgazda: az INTERREG programok előirányzatai esetében a költségvetési tervezési, előirányzat-módosítási, felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettségek viselője és jogok gyakorlója.
 
-x)[^6] Likviditás-kezelési rendszer: a forráslehívás fedezetének a mindenkori költségvetési törvény keretei közötti folyamatos biztosítása érdekében a forrásgazda, a kifizető hatóság és az alkifizető hatóság által működtetett rendszer.
+x)[^7] Likviditás-kezelési rendszer: a forráslehívás fedezetének a mindenkori költségvetési törvény keretei közötti folyamatos biztosítása érdekében a forrásgazda, a kifizető hatóság és az alkifizető hatóság által működtetett rendszer.
 
-y)[^7] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati rendet tartalmazó, az irányító hatóság, a közreműködő szervezet, az alkifizető hatóság és a kifizető hatóság részére a forrásgazda által, a kifizető hatóság, illetve az I. fejezet szerinti programok kivételével az alkifizető hatóság egyetértésével a pénzügyi folyamatok zavartalan lebonyolítása érdekében kiadott dokumentum.
+y)[^8] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati rendet tartalmazó, az irányító hatóság, a közreműködő szervezet, az alkifizető hatóság és a kifizető hatóság részére a forrásgazda által, a kifizető hatóság, illetve az I. fejezet szerinti programok kivételével az alkifizető hatóság egyetértésével a pénzügyi folyamatok zavartalan lebonyolítása érdekében kiadott dokumentum.
 
-(2)[^8] Az (1) bekezdésben nem meghatározott fogalmak az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendeletben, illetve az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendeletben foglaltak szerint értelmezendők.
+(2)[^9] Az (1) bekezdésben nem meghatározott fogalmak az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendeletben, illetve az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendeletben foglaltak szerint értelmezendők.
 
-(3)[^9] Az ellenőrzési nyomvonal, a szabálytalanság, a szabálytalanság gyanúja, a négy szem elve a Nemzeti Fejlesztési Terv operatív programjai, az EQUAL Közösségi Kezdeményezés program és a Kohéziós Alap projektek támogatásainak fogadásához kapcsolódó pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek kialakításáról szóló 360/2004. (XII. 26.) Korm. rendeletben foglaltak szerint értelmezendők.
+(3)[^10] Az ellenőrzési nyomvonal, a szabálytalanság, a szabálytalanság gyanúja, a négy szem elve a Nemzeti Fejlesztési Terv operatív programjai, az EQUAL Közösségi Kezdeményezés program és a Kohéziós Alap projektek támogatásainak fogadásához kapcsolódó pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek kialakításáról szóló 360/2004. (XII. 26.) Korm. rendeletben foglaltak szerint értelmezendők.
 
 [^1]: A 2. § (1) bekezdése a) pontjának aa) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a) pontjának ac) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdése a) pontjának ag) alpontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^4]: A 2. § (1) bekezdésének v) pontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdésének w) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^6]: A 2. § (1) bekezdésének x) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdésének y) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^8]: A 2. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^9]: A 2. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdés af) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdése a) pontjának ag) alpontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdésének v) pontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdésének w) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdésének x) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdésének y) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^9]: A 2. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^10]: A 2. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.

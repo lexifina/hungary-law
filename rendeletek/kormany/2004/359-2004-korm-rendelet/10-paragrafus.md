@@ -10,9 +10,9 @@
 
 (5) A bankszámlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetés terhére történik a Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére.
 
-(6)[^17]
+(6)[^19]
 
-(7)[^18] A kifizető hatóság bankszámláin keletkezett kamatok felhasználhatóak az adott projekt költségvetési finanszírozásának kiváltására a kifizető hatóság által meghatározott feltételek szerint.
+(7)[^20] A kifizető hatóság bankszámláin keletkezett kamatok felhasználhatóak az adott projekt költségvetési finanszírozásának kiváltására a kifizető hatóság által meghatározott feltételek szerint.
 
-[^17]: A 10. § (6) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 61. § (2) bekezdése hatályon kívül helyezte.
-[^18]: A 10. § (7) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 5. §-a iktatta be.
+[^19]: A 10. § (6) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 61. § (2) bekezdése hatályon kívül helyezte.
+[^20]: A 10. § (7) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 5. §-a iktatta be.

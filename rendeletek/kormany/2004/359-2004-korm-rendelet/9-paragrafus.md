@@ -14,7 +14,7 @@
 
 9. § (1) Az irányító hatóság a programok támogatásait és bevételeit az Áht. és a végrehajtásról rendelkező jogszabályok, a mindenkori költségvetési törvény, a tervezési körirat előírásai szerint tervezi meg.
 
-(2)[^16] A programokra tervezett közösségi forrást és a kapcsolódó hazai finanszírozást ugyanazon az előirányzaton kell megjeleníteni. Amennyiben a hazai társfinanszírozást bevételként és kiadásként tervezett pénzösszeg is fedezi (pl. átvett pénzeszköz), úgy az Európai Uniótól kapott forrásokat és az egyéb bevételként és kiadásként feltüntetett forrásokat külön soron kell megjeleníteni.
+(2)[^18] A programokra tervezett közösségi forrást és a kapcsolódó hazai finanszírozást ugyanazon az előirányzaton kell megjeleníteni. Amennyiben a hazai társfinanszírozást bevételként és kiadásként tervezett pénzösszeg is fedezi (pl. átvett pénzeszköz), úgy az Európai Uniótól kapott forrásokat és az egyéb bevételként és kiadásként feltüntetett forrásokat külön soron kell megjeleníteni.
 
 (3) Az irányító hatóság az előirányzatokat a közreműködő szervezet bevonásával tervezi meg, figyelembe véve
 
@@ -32,4 +32,4 @@ c) az Európai Bizottság által elfogadott INTERREG Közösségi Kezdeményezé
 
 (7) A kifizető hatóság az irányító hatóság által megküldött kifizetési előrejelzéseket minden év legkésőbb április 30-ig továbbítja az Európai Bizottságnak.
 
-[^16]: A 9. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: A 9. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
