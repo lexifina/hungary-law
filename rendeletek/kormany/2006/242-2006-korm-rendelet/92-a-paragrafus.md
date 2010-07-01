@@ -12,7 +12,7 @@ d) a 800/2008/EK rendelet 1. cikk (6) bekezdésében meghatározott támogatáso
 
 (3) E rendelet alapján vissza nem térítendő támogatást lehet nyújtani.
 
-(4)[^114] E rendelet alapján támogatás csak akkor ítélhető meg, ha a projektgazda, illetőleg a végső kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a projektgazda, illetőleg a végső kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül egy vagy több kritérium teljesül:
+(4)[^120] E rendelet alapján támogatás csak akkor ítélhető meg, ha a projektgazda, illetőleg a végső kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a projektgazda, illetőleg a végső kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül egy vagy több kritérium teljesül:
 
 a) a támogatás segítségével lényegesen megnövekszik a projekt mérete,
 
@@ -28,4 +28,4 @@ e) regionális beruházási támogatás esetében a projekt a támogatás hiány
 
 (6) Az (5) bekezdéstől eltérően fogyatékkal élő munkavállalóknak nyújtott támogatás az ugyanazon elszámolható költségek vonatkozásában halmozható a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen nyújtott egyéb támogatással, amennyiben az nem vezet az érintett munkavállalók alkalmazási idejének bármely időszakában a vonatkozó költségek 100%-át meghaladó támogatási intenzitáshoz.
 
-[^114]: A 92/A. § (4) bekezdése a 155/2010. (V. 4.) Korm. rendelet 42. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^120]: A 92/A. § (4) bekezdése a 155/2010. (V. 4.) Korm. rendelet 42. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

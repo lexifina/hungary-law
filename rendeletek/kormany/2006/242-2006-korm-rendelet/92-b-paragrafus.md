@@ -30,9 +30,9 @@ b) középvállalkozásnak minősül, akkor – szállítási ágazat és nagybe
 
 c) A mezőgazdasági termékek feldolgozásához, illetve forgalmazásához kapcsolódó beruházások esetén a maximális támogatási intenzitások az alábbiak:
 
-ca)[^115] amennyiben a projektgazda, illetőleg a végső kedvezményezett KKV, az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EK Szerződés 87. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 40%;
+ca)[^121] amennyiben a projektgazda, illetőleg a végső kedvezményezett KKV, az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EK Szerződés 87. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 40%;
 
-cb)[^116] amennyiben a projektgazda, illetőleg a végső kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb mint 750 fő és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EK Szerződés 87. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 20%.
+cb)[^122] amennyiben a projektgazda, illetőleg a végső kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb mint 750 fő és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EK Szerződés 87. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 20%.
 
-[^115]: A 92/B. § (5) bekezdés c) pont ca) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^116]: A 92/B. § (5) bekezdés c) pont cb) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^121]: A 92/B. § (5) bekezdés c) pont ca) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^122]: A 92/B. § (5) bekezdés c) pont cb) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

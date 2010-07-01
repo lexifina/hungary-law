@@ -1,4 +1,4 @@
-## 94/B. §[^137] Ez a rendelet:
+## 94/B. §[^143] Ez a rendelet:
 
 a) a kutatáshoz, fejlesztéshez és innovációhoz nyújtott állami támogatásokról szóló 2006/C 323/01 közösségi keretszabály,
 
@@ -14,4 +14,4 @@ f) az EK Szerződés 87. és 88. cikkének a foglalkoztatásra nyújtott állami
 
 g) az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat (HL L 312., 2005.11.29., 67. o.)
 
-[^137]: A 94/B. §-t a 265/2007. (X. 10.) Korm. rendelet 27. §-a iktatta be.
+[^143]: A 94/B. §-t a 265/2007. (X. 10.) Korm. rendelet 27. §-a iktatta be.

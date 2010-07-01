@@ -1,6 +1,6 @@
 ## 94. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-94/A. §[^136] (1) E rendelet alapján támogatási döntést csekély összegű, valamint a 800/2008/EK rendelet hatálya alá tartozó támogatási támogatások tekintetében 2013. december 31-ig lehet hozni.
+94/A. §[^142] (1) E rendelet alapján támogatási döntést csekély összegű, valamint a 800/2008/EK rendelet hatálya alá tartozó támogatási támogatások tekintetében 2013. december 31-ig lehet hozni.
 
 (2) Ez a rendelet:
 
@@ -10,4 +10,4 @@ b) az EK Szerződés 87. és 88. cikkének a csekély összegű támogatásokra 
 
 c) az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat (HL L 312., 2005.11.29., 67.o.) hatálya alá tartozó támogatási programot tartalmaz.
 
-[^136]: A 94/A. §-t a 265/2007. (X. 10.) Korm. rendelet 27. §-a iktatta be, szövege a 97/2009. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^142]: A 94/A. §-t a 265/2007. (X. 10.) Korm. rendelet 27. §-a iktatta be, szövege a 97/2009. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.

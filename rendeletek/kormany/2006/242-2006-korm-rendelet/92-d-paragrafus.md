@@ -1,4 +1,4 @@
-92/D. §[^118] (1) Beruházási támogatás nem nyújtható e rendelet alapján azon projektekhez, amelyek esetében (az előkészítő tanulmányok kivételével) a program interneten történő, a 92/E. § (3) bekezdése szerinti közzététele előtt merültek fel költségek.
+92/D. §[^124] (1) Beruházási támogatás nem nyújtható e rendelet alapján azon projektekhez, amelyek esetében (az előkészítő tanulmányok kivételével) a program interneten történő, a 92/E. § (3) bekezdése szerinti közzététele előtt merültek fel költségek.
 
 (2) Nem nyújtható támogatás továbbá az alábbi költségekre:
 
@@ -12,4 +12,4 @@ d) a támogatási programot kezelő szervezet által a 92/A. § (2) bekezdése a
 
 e) személygépkocsi bekerülési értéke.
 
-[^118]: A 92/D. § a 155/2010. (V. 4.) Korm. rendelet 44. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^124]: A 92/D. § a 155/2010. (V. 4.) Korm. rendelet 44. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
