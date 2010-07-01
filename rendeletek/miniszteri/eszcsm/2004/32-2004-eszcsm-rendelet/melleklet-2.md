@@ -1410,7 +1410,7 @@
 
 | V10XX | további therápiás radioaktív készítmények | X |  |  |  |  | X |  |
 
-2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^91]
+2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^93]
 
 A kiemelt indikációhoz kötött támogatási kategóriába (EÜ100) tartozó
 
@@ -1420,21 +1420,27 @@ EÜ100 1.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Inzulinkezelésre szoruló (önmagában vagy orális antidiabetikum mellett) cukorbeteg
+Inzulinkezelésre szoruló (önmagában vagy orális antidiabetikum mellett) cukorbeteg
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Csecsemő- gyermekgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Csecsemő- és gyermekgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
 
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
+| Diabetológiai szakellátóhely | Belgyógyászat | javasolhat és írhat |
 
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
+| Diabetológiai szakellátóhely | Csecsemő- és | javasolhat és írhat |
+
+|  | gyermekgyógyászat |  |
+
+| Háziorvos, házi gyermekorvos, vegyes praxisú orvos (a továbbiakban együtt: háziorvos) | Megkötés nélkül | javaslatra írhat |
+
+|  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap |  |
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -1444,45 +1450,67 @@ EÜ100 2.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Humán intenzifikált inzulinkezelés alatt álló (naponta három vagy több alkalommal inzulinkezelésre szoruló) cukorbeteg részére, amennyiben a beállított terápia ellenére megfelelő vércukoranyagcsere-háztartást (HbA1c<7.0%) nem lehetett elérni, illetve a posztprandriális vércukorszint többszöri mérés alkalmával meghaladja a 10,0 mmol/l értéket vagy dokumentáltan gyakori tüneteket okozó hypoglikaemia jelentkezik
+Humán intenzifikált inzulinkezelés alatt álló (naponta három vagy több alka lommal inzulinkezelésre szoruló) cukorbeteg részére, amennyiben a beállított terápia ellenére megfelelő vércukoranyagcsere-háztartást (HbA1c<7,0%) nem lehetett elérni, illetve a posztprandriális vércukorszint többszöri mérés alkalmával meghaladja a 10,0 mmol/l értéket, vagy dokumentáltan gyakori tüneteket okozó hypoglikaemia jelentkezik
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/ |  |  |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Csecsemő- gyermekgyógyászat | javasolhat és írhat |
+| Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/ |  |  |
 
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
+| Fekvőbeteg gyógyintézet | Csecsemő- és gyermekgyógyászat | javasolhat és írhat |
 
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
+| Járóbeteg szakrendelés/ |  |  |
+
+| Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
+
+| Diabetológiai szakellátóhely | Belgyógyászat | javasolhat és írhat |
+
+| Diabetológiai szakellátóhely | Csecsemő- és gyermekgyógyászat | javasolhat és írhat |
+
+| Háziorvos | Megkötés nélkül | javaslatra írhat |
+
+SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
-E10, E11, E12
+E10, E11, E12, O24
 
 EÜ100 3.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Humán intenzifikált inzulinkezelés alatt álló (naponta három vagy több alkalommal inzulinkezelésre szoruló) cukorbeteg részére, amennyiben a beállított terápia ellenére megfelelő vércukoranyagcsere-háztartást (HbA1c<7.0%) nem lehetett elérni vagy dokumentáltan gyakori tüneteket okozó hypoglikaemia jelentkezik
+Humán intenzifikált inzulinkezelés alatt álló (naponta három vagy több alkalommal inzulinkezelésre szoruló) cukorbeteg részére, amennyiben a beállított terápia ellenére megfelelő vércukoranyagcsere-háztartást (HbA1c<7,0%) nem lehetett elérni, vagy dokumentáltan gyakori tüneteket okozó hypoglikaemia jelentkezik
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/ | Belgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Csecsemő- gyermekgyógyászat | javasolhat és írhat |
+| Fekvőbeteg gyógyintézet |  |  |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Endokrinológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/ | Csecsemő- és gyermekgyógyászat | javasolhat és írhat |
 
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
+| Fekvőbeteg gyógyintézet |  |  |
 
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
+| Járóbeteg szakrendelés/ | Endokrinológia | javasolhat és írhat |
+
+| Fekvőbeteg gyógyintézet |  |  |
+
+| Diabetológiai szakellátóhely | Belgyógyászat | javasolhat és írhat |
+
+| Diabetológiai szakellátóhely | Csecsemő- és | javasolhat és írhat |
+
+|  | gyermekgyógyászat |  |
+
+| Háziorvos | Megkötés nélkül | javaslatra írhat |
+
+SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -2270,9 +2298,9 @@ EÜ100 8/u.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Aktív, előrehaladott myeloma multiplexben, monoterápiában, ha a beteg korábban legalább egy gyógyszeres kezelésen átesett és már részesült csontvelő transzplantációban vagy transzplantációra alkalmatlan, a betegség relapszusa vagy progressziója (szérum vagy vizelet M protein több mint 25%-os növekedése, a csontvelőben a plazmasejtek 25%-os növekedése) esetén
+– Aktív, előrehaladott myeloma multiplexben, ha a beteg korábban legalább egy gyógyszeres kezelésen átesett, és már részesült csontvelő transzplantációban, vagy transzplantációra alkalmatlan, a betegség relapszusa vagy progressziója esetén a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll szerint
 
-- Aktív, előrehaladott myeloma multiplexben, korábban nem kezelt, csontvelőtranszplantációra és nagy dózisú kemoterápiás kezelésre alkalmatlan betegek részére kombinációs (melphalan, prednisolon) terápia részeként
+– Aktív, előrehaladott myeloma multiplexben, korábban nem kezelt, csontvelőtranszplantációra és nagy dózisú kemoterápiás kezelésre alkalmatlan betegek részére kombinációs terápia részeként a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll szerint
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
@@ -2524,26 +2552,4 @@ TÁMOGATOTT INDIKÁCIÓK:
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
-
-|  | Megkötés nélkül | Gyermek- és ifjúsági pszichiátria | javasolhat és írhat |
-
-|  | Megkötés nélkül | Pszichiátria | javasolhat és írhat |
-
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
-
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
-
-ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
-
-F70, F71, F72, F73, F74, F75, F76, F77, F78, F79
-
-EÜ100 10/d2.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-- Mentális retardáció diagnózisa esetén a magatartászavarok kezelésére a 10/d1. pontban felsorolt szerekre dokumentáltan nem reagáló vagy ezeket a szereket nem toleráló beteg részére
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-[^91]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2010. február 1-jétől kell alkalmazni. Ez utóbbi módosító rendelet 4. § (2) bekezdése alapján a 2009. december 25. napján hatályos 2. számú mellékletben foglaltakat 2010. január 31-éig kell alkalmazni. Alkalmazására lásd még ez utóbbi módosító rendelet 4. § (3) bekezdését.
+[^93]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja szerint módosított szöveg.

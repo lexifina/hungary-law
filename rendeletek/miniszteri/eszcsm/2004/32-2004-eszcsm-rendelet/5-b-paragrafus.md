@@ -1,4 +1,4 @@
-5/B. §[^35] (1) Az OEP a Gyftv. 23. § (7) bekezdés a)–b) pontja szerinti hivatalbóli eljárás tervezett megindítását megelőzően legalább 30 nappal közzéteszi honlapján a felülvizsgálat tárgyát képező hétjegyű ATC csoportokat és a felülvizsgálat indokát.
+5/B. §[^36] (1) Az OEP a Gyftv. 23. § (7) bekezdés a)–b) pontja szerinti hivatalbóli eljárás tervezett megindítását megelőzően legalább 30 nappal közzéteszi honlapján a felülvizsgálat tárgyát képező hétjegyű ATC csoportokat és a felülvizsgálat indokát.
 
 (2) Az OEP a Gyftv. 23. § (7) bekezdés a)–b) pontja szerinti eljárás megindításáról honlapján is értesíti a felülvizsgált gyógyszerek forgalomba hozatali engedélyének jogosultjait arról, hogy hivatalból eljárást indított a Gyftv. 23. § (7) bekezdés a) vagy b) pontja alapján az adott készítmények támogatásának felülvizsgálata érdekében.
 
@@ -30,4 +30,4 @@ b) a Gyftv. 23. § (7) bekezdés b) pontja szerinti felülvizsgálat esetén a t
 
 kerül sor.
 
-[^35]: A 5/B. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
+[^36]: Az 5/B. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-5/C. §[^36] (1) A Gyftv. 23. § (7) bekezdés a) pontja szerinti felülvizsgálati eljárás megindítása kötelező
+5/C. §[^37] (1) A Gyftv. 23. § (7) bekezdés a) pontja szerinti felülvizsgálati eljárás megindítása kötelező
 
 a) azon nem generikus készítmények esetében, amelyek költséghatékonysági vizsgálatára nem került sor, és nem tartoznak fix csoportba,
 
@@ -16,4 +16,4 @@ b) azon gyógyszerek, melyek esetén az egy főre jutó átlagos gyógyszertámo
 
 (5) A (4) bekezdés szerinti gyógyszerek közül azok tekintetében kerül lefolytatásra az 5/B. § szerinti eljárás, melyek alkalmazásával kapcsolatban – a terápiás költség, az érintett betegszám, a várható egészségnyereség és méltányossági szempontok figyelembevételével – kétség merül fel.
 
-[^36]: A 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
+[^37]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.

@@ -1,3 +1,3 @@
-1. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^90]
+1. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^92]
 
-[^90]: Az 1. számú melléklet a 38/2007. (VII. 25.) EüM rendelet 5. § (1) bekezdésével megállapított és a Magyar Közlöny 2007. évi 114. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. számú melléklet az 54/2007. (XII. 14.) EüM rendelet 1. §-ának a) pontja, a 27/2008. (VII. 14.) EüM rendelet 1. § a) pontja, a 43/2008. (XI. 19.) EüM rendelet 1. §-ának a) pontja, a 6/2009. (III. 20.) EüM rendelet 5. § (1) bekezdése, a 36/2010. (V. 14.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^92]: Az 1. számú melléklet a 38/2007. (VII. 25.) EüM rendelet 5. § (1) bekezdésével megállapított és a Magyar Közlöny 2007. évi 114. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. számú melléklet az 54/2007. (XII. 14.) EüM rendelet 1. §-ának a) pontja, a 27/2008. (VII. 14.) EüM rendelet 1. § a) pontja, a 43/2008. (XI. 19.) EüM rendelet 1. §-ának a) pontja, a 6/2009. (III. 20.) EüM rendelet 5. § (1) bekezdése, a 36/2010. (V. 14.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
