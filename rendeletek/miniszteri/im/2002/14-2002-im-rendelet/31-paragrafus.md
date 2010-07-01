@@ -2,7 +2,7 @@
 
 ## Az ügyelosztás módszerei
 
-## 31. § Ügyelosztási renden belül, ügyelosztási módszerként alkalmazható különösen
+## 31. §[^26] Ügyelosztási renden belül, ügyelosztási módszerként alkalmazható különösen
 
 a) a páros-páratlan ügyszámok,
 
@@ -18,4 +18,8 @@ f) az ügyszakonkénti, ügycsoportonkénti, az ügy tárgya szerinti szakosodá
 
 g) a bírói gyakorlat időtartama,
 
-h) több ügyelosztási módszer együttesen.
+h) számítógépes program segítségével történő automatikus ügyelosztás, vagy
+
+i) több ügyelosztási módszer együttesen.
+
+[^26]: A 31. § a 36/2010. (V. 13.) IRM rendelet 8. § (1) bekezdésével megállapított szöveg.

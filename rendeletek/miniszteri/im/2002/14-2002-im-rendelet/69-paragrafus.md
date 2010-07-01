@@ -56,6 +56,6 @@
 
 26. a törvényesség érdekében bejelentett jogorvoslati indítvány,
 
-27.[^78] felterjesztett kifogás az eljárás elhúzódása miatt.
+27.[^85] felterjesztett kifogás az eljárás elhúzódása miatt.
 
-[^78]: A 69. § 27. pontját a 26/2006. (V. 18.) IM rendelet 17. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^85]: A 69. § 27. pontját a 26/2006. (V. 18.) IM rendelet 17. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
