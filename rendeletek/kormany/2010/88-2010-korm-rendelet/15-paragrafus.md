@@ -1,1 +1,0 @@
-## 14. § A munkáltatóval szemben a jelenléti ív vezetésével kapcsolatos szabályok megsértése miatt 2010. június 30-áig jogkövetkezmény nem alkalmazható, ha eddig az időpontig jelenléti ív vezetési kötelezettségét – a 8–12. §-ban foglaltaktól eltérően – az Eftv. 2. mellékletében foglaltak szerinti tartalmú, szigorú számadású nyomtatványnak nem minősülő okiraton teljesíti.
