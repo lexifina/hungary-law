@@ -222,6 +222,6 @@
 
 ## A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló rendelet szerinti segítő kutya, továbbá a rendőrségi (vám– és pénzügyőrségi) szolgálati kutya szállítása díjtalan.
 
-3. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^22]
+3. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^21]
 
-[^22]: A 3. melléklet a 35/2010. (IV. 23.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^21]: A 3. melléklet a 35/2010. (IV. 23.) KHEM rendelet 2. §-ával megállapított szöveg.

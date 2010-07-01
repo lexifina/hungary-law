@@ -1,58 +1,61 @@
 ## Pótdíjak
 
-8. § (1) A megállapított menetdíj vagy pótjegy díján felül 500 Ft pótdíjat fizet a vonaton az, aki
+8. §[^16] (1) A megállapított menetdíj vagy pótjegy díján felül 500 forint pótdíjat fizet a járművön, aki
 
-a) menetjegy-kiegészítés, illetve kocsiosztály-különbözet fizetésére köteles, kivéve, ha olyan helyen szállt fel, ahol a menetjegy megváltására nem volt lehetőség,
+a) vonaton menetjegy-kiegészítés, kocsiosztály-különbözet fizetésére vagy regisztrációs jegy váltásra köteles és a menetjegy-kiegészítést, kocsiosztály-különbözetet nem fizette meg, illetve regisztrációs jegyet nem váltott, kivéve, ha olyan helyen száll fel, ahol a menetjegy vagy regisztrációs jegy megváltására nincs lehetőség,
 
-b) a belföldi forgalomban pótjegyköteles vonaton érvényes pótjegy nélkül utazik,
+b) vonaton a belföldi forgalomban pótjegyköteles vonaton érvényes pótjegy nélkül utazik,
 
-c) a helyjegyköteles vonatra érvényes helyjegy nélkül szállt fel,
+c) vonaton a helyjegyköteles vonatra érvényes helyjegy nélkül száll fel,
 
-d) a belföldi forgalomban a pót- és helyjegyköteles vonaton érvényes pót- és helyjeggyel nem rendelkezik.
+d) vonaton a belföldi forgalomban a pót- és helyjegyköteles vonaton érvényes pót- és helyjeggyel nem rendelkezik,
 
-(2) A megállapított menetdíj (viteldíj) vagy pótjegy díján felül 2000 Ft pótdíjat fizet a vonaton az, aki
+e) autóbuszon regisztrációs jegy váltására köteles, e kötelezettségének azonban nem tesz eleget.
 
-a) menetjegy nélkül vagy érvénytelen menetjeggyel a vonatra felszállt, kivéve, ha olyan helyen szállt fel, ahol a menetjegy megváltására nem volt lehetőség és az érvényes menetjegy hiányát az első jegyvizsgálat alkalmával jelzi,
+(2) A megállapított menetdíj (viteldíj) vagy menetdíj és pótjegy díján felül 2600 forint pótdíjat fizet a vonaton, aki
+
+a) menetjegy nélkül vagy érvénytelen menetjeggyel a vonatra felszáll, kivéve, ha olyan helyen száll fel, ahol a menetjegy megváltására nincs lehetőség és az érvényes menetjegy hiányát az első jegyvizsgálat alkalmával jelzi,
 
 b) jogosulatlanul foglal le ülőhelyet és felszólításra az ülőhelyet nem engedi át utastársának (minden jogosulatlanul elfoglalt ülőhelyért),
 
-c) az úti-, illetőleg a kézipoggyász (élő állat, kerékpár) továbbítására vonatkozó előírásokat nem tartja meg,
+c) az úti- vagy a kézipoggyász (élő állat, kerékpár) továbbítására vonatkozó előírásokat nem tartja be,
 
-d) a belföldi utazásra igénybe nem vehető vonatra, kocsiba belföldi menetjeggyel felszállt,
+d) a belföldi utazásra igénybe nem vehető vonatra, kocsiba belföldi menetjeggyel felszáll,
 
-e) a csak forgalmi okból álló vonatra felszállt,
+e) a csak forgalmi okból álló vonatra felszáll,
 
 f) a kocsiajtót (kocsiszakasz ajtót) akár kulccsal, akár más eszközzel jogellenesen lezárja, vagy aki a lezárt kocsiajtót önhatalmúlag felnyitja.
 
-(3) A megállapított menetdíj vagy pótjegy díján felül 4000 Ft pótdíjat fizet az, aki
+(3) A megállapított menetdíj vagy pótjegy díján felül 8000 forint pótdíjat fizet, aki
 
-a) az utazási feltételeket a jelen §-ban külön nem szabályozott módon megsérti, különösen olyan tárgyat vagy élő állatot visz be a járműbe, amely kézipoggyászként nem szállítható,
+a) autóbuszon tovább utazik annál a távolságnál, mint amelyre a menetjegye érvényes, kivéve, ha az első jegyellenőrzést megelőzően a továbbutazás tényét önként jelzi a gépjárművezetőnek, és a távolság különbözetre a menetjegyet megváltja,
 
-b) a járművet poggyászával, ruházatával vagy más módon beszennyezi.
+b) autóbuszon jegy nélkül, érvénytelen jeggyel, bérlettel vagy érvénytelen utazási igazolvánnyal kísérli meg az utazást,
 
-(4) A megállapított menetdíj vagy pótjegy díján felül 6000 Ft pótdíjat fizet az, aki
+c) érvénytelen (pl. lejárt érvényességű) kedvezményre jogosító igazolvánnyal, igazolással veszi igénybe a kedvezményt,
 
-a)[^16]
+d) az utazási kedvezményt jogosulatlanul veszi igénybe, vagy jogosultságát az előírt módon igazolni nem tudja,
 
-b)[^17] érvénytelen jeggyel, bérlettel vagy érvénytelen utazási igazolvánnyal kísérli meg az utazást, illetve érvénytelen (pl. lejárt érvényességű) kedvezményre jogosító igazolvánnyal, igazolással veszi igénybe a kedvezményt,
+e) a menetdíjat, viteldíjat, pótdíjat a vonaton vagy 3 munkanapon belül nem fizeti meg,
 
-c) a menetdíjat, viteldíjat, pótdíjat a vonaton nem fizeti meg,
+f) a menetjegyet, a regisztrációs jegyet vagy az egyéb utazásra jogosító igazolványt meghamisítva használja fel,
 
-d) a menetjegyet vagy az egyéb utazásra jogosító igazolványt meghamisítva használja fel,
+g) a névre szóló menetjegyet, bérletét vagy más, utazásra vagy kedvezmény igénybevételére jogosító igazolványát, igazolását arra jogosulatlan részére felhasználásra átadja vagy a más nevére szóló ilyen okmányokat felhasználja,
 
-e) a névre szóló menetjegyét, bérletét vagy más, utazásra, illetve kedvezmény igénybevételére jogosító igazolványát, igazolását arra jogosulatlan részére felhasználásra átadja vagy a más nevére szóló ilyen okmányokat felhasználja,
+h) a jegyvizsgálatot megakadályozza, vagy a jegyvizsgálathoz szükséges személyes adatainak eltitkolása miatt hatósági eljárás igénybevételét teszi szükségessé,
 
-f) a jegyvizsgálat megakadályozása, illetve a jegyvizsgálathoz szükséges személyes adatainak eltitkolása miatt hatósági eljárás igénybevételét teszi szükségessé,
+i) a vasúton a kéziféket, a vészféket vagy vészfékjelzőt kényszerítő ok nélkül működésbe hozza, vagy rendellenes magatartásával annak működésbe hozatalára vagy a vonat megállítására okot szolgáltat,
 
-g) az utazási kedvezményt jogosulatlanul veszi igénybe, illetve jogosultságát az előírt módon igazolni nem tudja,
+j) az utazási feltételeket a jelen §-ban külön nem szabályozott módon megsérti, különösen, ha olyan tárgyat vagy élő állatot visz be a járműbe, amely kézipoggyászként nem szállítható,
 
-h) aki a vasúton a kéziféket, a vészféket vagy vészfékjelzőt kényszerítő ok nélkül működésbe hozza, vagy rendellenes magatartásával annak működésbe hozatalára vagy a vonat megállítására okot szolgáltat.
+k) a járművet poggyászával, ruházatával vagy más módon beszennyezi,
 
-(5) A megállapított menetdíj vagy pótjegy díján felül 9000 Ft pótdíjat fizet az, aki az (1)–(4) bekezdésben meghatározott fizetési kötelezettségének 30 napon belül nem tesz eleget.
+l) aki a dohányzási tilalmat megszegi és nemdohányzóként megjelölt járműben, vonatban, vasúti kocsiban, kocsiszakaszban, fülkében vagy állomási területen dohányzik.
 
-(6) A pótdíj helyett 1000 Ft utólagos bemutatási díjat köteles fizetni, aki az utazásakor már korábban megváltott, az adott utazásra jogosító menetjeggyel, nevére szóló bérlettel, félhavi bérlettel, más érvényes utazási igazolvánnyal, illetve a kedvezményre jogosító, előírt igazolvánnyal, igazolással stb. rendelkezik, de azt az utazás alkalmával az ellenőrzéskor felmutatni nem tudja, feltéve, ha azt utólag, az utazás napjától számított 15 napon belül a szolgáltató által előírt módon bemutatja. Bemutatási díj fizetése esetén is meg kell fizetni a még meg nem fizetett menetdíjat, illetve a szolgáltató visszatéríti a megfizetett menetdíj, illetve pótdíj és a helyes menetdíj, illetve a bemutatási díj különbözetét.
+(4) A megállapított menetdíj vagy pótjegy díján felül 12 000 forint pótdíjat fizet az, aki az (1)–(4) bekezdésben meghatározott fizetési kötelezettségének 30 napon belül nem tesz eleget.
 
-(7) Az egyes menetjegyek, bérletek és más utazási igazolványok érvénytelenségének eseteit részletesen a szolgáltatók díjszabása tartalmazza.
+(5) A pótdíj helyett 1300 forint utólagos bemutatási díjat köteles fizetni, aki az utazásakor már korábban megváltott, az adott utazásra jogosító menetjeggyel, nevére szóló bérlettel, félhavi bérlettel, más érvényes utazási igazolvánnyal vagy kedvezményre jogosító, jogszabály alapján kiadott, vagy a szolgáltató belső szabályzatában meghatározott igazolvánnyal, igazolással rendelkezik, de azt az utazás alkalmával az ellenőrzéskor felmutatni nem tudja, feltéve, ha azt utólag, az utazás napjától számított 15 napon belül a szolgáltató üzletszabályzatában által előírt módon bemutatja. Bemutatási díj fizetése esetén is meg kell fizetni a még meg nem fizetett menetdíjat. A szolgáltató a bemutatás során visszatéríti a megfizetett menetdíj, pótdíj és a helyes menetdíj vagy a bemutatási díj különbözetét.
 
-[^16]: A 8. § (4) bekezdésének a) pontját a 4/2008. (II. 29.) GKM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^17]: A 8. § (4) bekezdésének b) pontja a 4/2008. (II. 29.) GKM rendelet 2. §-ával megállapított szöveg.
+(6) Az egyes menetjegyek, bérletek és más utazási igazolványok érvénytelenségének eseteit részletesen a szolgáltatók díjszabása tartalmazza.
+
+[^16]: A 8. § a 4/2010. (I. 22.) KHEM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.

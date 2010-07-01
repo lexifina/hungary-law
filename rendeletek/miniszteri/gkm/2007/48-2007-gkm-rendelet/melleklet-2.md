@@ -312,6 +312,6 @@
 
 | 31 | 500 felett | 24 100 | 12 100 |
 
-2. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^21]
+2. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^20]
 
-[^21]: A 2. melléklet a 35/2010. (IV. 23.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^20]: A 2. melléklet a 35/2010. (IV. 23.) KHEM rendelet 2. §-ával megállapított szöveg.
