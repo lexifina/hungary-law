@@ -1,5 +1,0 @@
-## 3. § Az együttesek működési kiadásaira a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény (a továbbiakban: tv.) 5. számú melléklete 8. pontjának a) alpontjában 2009. évre előirányzott támogatást az érintett helyi önkormányzatok olyan célok megvalósításához igényelhetik, amelyek elősegítik a hivatásos együttesek művészi színvonalának emelését és javítják azok tevékenységének feltételeit.
-
-4. § (1) A helyi önkormányzatok (a továbbiakban: igénylő) igénybejelentés alapján részesülhetnek támogatásban és a támogatást kizárólag az igénybejelentésben meghatározott célra használhatják fel.
-
-(2) A támogatás mértékét a helyi önkormányzatok által szolgáltatott adatok, valamint az együttesnek a központi költségvetésből juttatott egyéb bevétele figyelembevételével, az Oktatási és Kulturális Minisztérium (a továbbiakban: minisztérium), valamint a reprezentatív szakmai és érdek-képviseleti szervek által javasolt, az oktatási és kulturális miniszter (a továbbiakban: miniszter) által felkért tagokból álló szakmai bizottság javaslata alapján a miniszter állapítja meg.
