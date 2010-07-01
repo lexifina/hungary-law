@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2010-03-13 | 2008. évi LXXXI. törvény | 2003-92-00-00.61 |
 | 2010-04-01 | 2010. évi XVI. törvény | 2003-92-00-00.62 |
 | 2010-06-29 | 2010. évi LVII. törvény | 2003-92-00-00.63 |
+| 2010-07-01 | 2010. évi LXIV. törvény | 2003-92-00-00.64 |
