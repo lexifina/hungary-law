@@ -1,52 +1,52 @@
 3. § (1)[^12] A gázfogyasztás esetében a támogatás fajlagos bruttó összege
 
-a) 0,771 Ft/MJ, ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem nem haladja meg a nyugdíjminimum kétszeresét,
+a) 0,771 Ft/MJ, ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem nem haladja meg a nyugdíjminimum kétszeresét;
 
 b) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum kétszeresét, de nem haladja meg annak két és félszeresét,
 
-ba) a jogosultsági időszak 2010. április 30-ig terjedő részidőszaka vonatkozásában 0,556 Ft/MJ,
+ba) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 0,556 Ft/MJ,
 
-bb) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő részidőszaka vonatkozásában 0,278 Ft/MJ,
+bb) a jogosultsági időszak 2010. május 1-jétől 2010. december 31-éig terjedő részidőszaka vonatkozásában 0,278 Ft/MJ;
 
 c) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum két és félszeresét, de nem haladja meg annak háromszorosát,
 
-ca) a jogosultsági időszak 2010. április 30-ig terjedő részidőszaka vonatkozásában 0,238 Ft/MJ,
+ca) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 0,238 Ft/MJ,
 
-cb) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő részidőszaka vonatkozásában 0 Ft/MJ,
+cb) a jogosultsági időszak 2010. május 1-jétől 2010. december 31-éig terjedő részidőszaka vonatkozásában 0 Ft/MJ;
 
 d) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum háromszorosát, de nem haladja meg annak három és félszeresét,
 
-da) a jogosultsági időszak 2010. április 30-ig terjedő részidőszaka vonatkozásában 0,018 Ft/MJ,
+da) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 0,018 Ft/MJ,
 
-db) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő részidőszaka vonatkozásában 0 Ft/MJ.
+db) a jogosultsági időszak 2010. május 1-jétől 2010. december 31-éig terjedő részidőszaka vonatkozásában 0 Ft/MJ.
 
 (2)[^13] A távhőfelhasználás esetében a támogatás fajlagos bruttó összege
 
-a) 1767 Ft/GJ, ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem nem haladja meg a nyugdíjminimum kétszeresét,
+a) 1767 Ft/GJ, ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem nem haladja meg a nyugdíjminimum kétszeresét;
 
 b) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum kétszeresét, de nem haladja meg annak két és félszeresét,
 
-ba) a jogosultsági időszak 2010. április 30-ig terjedő részidőszaka vonatkozásában 1377 Ft/GJ,
+ba) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 1377 Ft/GJ,
 
-bb) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő részidőszaka vonatkozásában 688,5 Ft/GJ,
+bb) a jogosultsági időszak 2010. május 1-jétől 2010. december 31-éig terjedő részidőszaka vonatkozásában 688,5 Ft/GJ;
 
 c) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum két és félszeresét, de nem haladja meg annak háromszorosát,
 
-ca) a jogosultsági időszak 2010. április 30-ig terjedő részidőszaka vonatkozásában 783 Ft/GJ,
+ca) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 783 Ft/GJ,
 
-cb) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő részidőszaka vonatkozásában 0 Ft/GJ,
+cb) a jogosultsági időszak 2010. május 1-jétől 2010. december 31-éig terjedő részidőszaka vonatkozásában 0 Ft/GJ;
 
 d) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum háromszorosát, de nem haladja meg annak három és félszeresét,
 
-da) a jogosultsági időszak 2010. április 30-ig terjedő részidőszaka vonatkozásában 399 Ft/GJ,
+da) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 399 Ft/GJ,
 
-db) a jogosultsági időszak 2010. május 1-jétől 2010. június 30-ig terjedő részidőszaka vonatkozásában 0 Ft/GJ.
+db) a jogosultsági időszak 2010. május 1-jétől 2010. december 31-éig terjedő részidőszaka vonatkozásában 0 Ft/GJ.
 
 (3)[^14] Gázfogyasztás esetén a támogatás
 
 a) a jogosultsági időszak 2009. január 1-jétől 2009. december 31-éig terjedő részidőszakában legfeljebb 68 000 MJ, nagycsaládos háztartás esetében legfeljebb 136 000 MJ,
 
-b)[^15] a jogosultsági időszak 2010. január 1-jétől 2010. június 30-áig terjedő részidőszakában legfeljebb 43 400 MJ, nagycsaládos háztartás esetében legfeljebb 86 800 MJ
+b)[^15] a jogosultsági időszak 2010. január 1-jétől 2010. december 31-éig terjedő részidőszakában legfeljebb 68 000 MJ, nagycsaládos háztartás esetében legfeljebb 136 000 MJ
 
 c)[^16]
 
@@ -74,9 +74,9 @@ b) a távhőszolgáltatás díját közvetlen számlázás alapján fizető fogy
 
 (11)[^17]
 
-[^12]: A 3. § (1) bekezdése a 112/2010. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. § (2)–(3) bekezdését.
-[^13]: A 3. § (2) bekezdése a 112/2010. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. § (2)–(3) bekezdését.
+[^12]: A 3. § (1) bekezdése a 211/2010. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (2) bekezdése a 211/2010. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^14]: A 3. § (3) bekezdése a 290/2009. (XII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (3)–(6) bekezdését.
-[^15]: A 3. § (3) bekezdés b) pontja a 136/2010. (IV. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^15]: A 3. § (3) bekezdés b) pontja a 211/2010. (VII. 1.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^16]: A 3. § (3) bekezdés c) pontját a 112/2010. (IV. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 136/2010. (IV. 27.) Korm. rendelet 2. § (2) bekezdés a) pontja.
 [^17]: A 3. § (11) bekezdését a 137/2009. (VI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 290/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdés a) pontja.
