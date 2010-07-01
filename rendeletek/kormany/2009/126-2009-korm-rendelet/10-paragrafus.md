@@ -16,6 +16,6 @@ b) a nyilvántartott személy versenyvizsgájának érvényességi ideje lejárt
 
 (6) A KSZK a versenyvizsga adatbázisban szereplő adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából felhasználhatja.
 
-(7)[^9] A közigazgatási szerv a hivatali kapuján keresztül hivatalos adatszolgáltatás kérhet a KSZK-tól a köztisztviselői állásra pályázó versenyvizsga bizonyítványáról.
+(7)[^19] A közigazgatási szerv a hivatali kapuján keresztül hivatalos adatszolgáltatás kérhet a KSZK-tól a köztisztviselői állásra pályázó versenyvizsga bizonyítványáról.
 
-[^9]: A 10. § (7) bekezdése a 23. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^19]: A 10. § (7) bekezdése a 23. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.

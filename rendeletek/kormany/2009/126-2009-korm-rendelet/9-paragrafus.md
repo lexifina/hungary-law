@@ -4,7 +4,7 @@
 
 (2) A vizsgázó az írásbeli és a szóbeli vizsgarész díját legkésőbb a vizsgarész megkezdését megelőző 3. munkanapig fizeti meg.
 
-(3) A vizsgadíjat a KSZK Magyar Államkincstárnál vezetett számlájára kell befizetni. A vizsgázó által befizetett versenyvizsga díjat az alábbiak szerint kell megosztani:
+(3)[^15] A vizsgadíjat a vizsgaszervező Magyar Államkincstárnál vezetett számlájára kell befizetni. A vizsgázó által befizetett versenyvizsga díjat az alábbiak szerint kell megosztani:
 
 a) a vizsgáztató bizottság elnökét és többi tagját a szóbeli vizsgarész díj 20–20%-a,
 
@@ -18,12 +18,17 @@ e) a vizsgaszervezőt a fennmaradó összeg
 
 ## illeti meg.
 
-(4) A (3) bekezdés e) pontjában meghatározott összeget a vizsgaszervezőnek a versenyvizsgáztatás működtetésére kell fordítania. A vizsgaszervező a vizsgadíj felhasználásáról – a KSZK által meghatározott rendben – a KSZK felé félévente elszámol.
+(4)[^16] A (3) bekezdés e) pontjában meghatározott összeget a vizsgaszervezőnek a versenyvizsgáztatás működtetésére kell fordítania. A vizsgaszervező a vizsgadíj felhasználásáról – a KSZK által meghatározott rendben – a KSZK felé negyedévente elszámol.
 
 (5) A (3) bekezdés d) pontjában meghatározott összeget a KSZK a versenyvizsga rendszer működtetésére köteles fordítani, amelynek felhasználásáról a KSZK évente beszámolót készít a miniszternek.
 
-(6) A (3) bekezdés a)–c) pontjában foglalt összegek kifizetését a KSZK teljesíti.
+(6)[^17] A (3) bekezdés a)–c) pontjában foglalt összegek kifizetését a vizsgaszervező teljesíti.
 
 (7) A versenyvizsga ismétlése esetén (a továbbiakban: ismétlővizsga) a versenyvizsga díjjal megegyező összegű díjat kell fizetni. Vizsgarész ismétlése esetén vizsgarész díjat kell fizetni. E díj megosztására a (3) bekezdésben meghatározottakat kell alkalmazni.
 
-(8) Ha a vizsgázó a versenyvizsga elhalasztását kéri, akkor halasztási díjat kell fizetnie. A halasztási díj összege a köztisztviselői illetményalap 10%-a. A halasztási díj a KSZK-t illeti meg.
+(8)[^18] Ha a vizsgázó a versenyvizsga elhalasztását kéri, akkor halasztási díjat kell fizetnie. A halasztási díj összege a köztisztviselői illetményalap 10%-a. A halasztási díj a vizsgaszervezőt illeti meg.
+
+[^15]: A 9. § (3) bekezdés nyitó szövegrésze a 169/2010. (V. 11.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 9. § (4) bekezdése a 169/2010. (V. 11.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 9. § (6) bekezdése a 169/2010. (V. 11.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 9. § (8) bekezdése a 169/2010. (V. 11.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 17. §[^16]
+## 17. §[^28]
 
 ## A versenyvizsga értékelése, a vizsgabizonyítvány
 
@@ -20,4 +20,4 @@
 
 (9) Az iratok kézbesítésére a hivatalos iratok kézbesítésére vonatkozó szabályok az irányadók.
 
-[^16]: A 17. §-t és az azt megelőző "A vizsgáztatói névjegyzék" alcímet a 153/2010. (V. 4.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
+[^28]: A 17. §-t és az azt megelőző "A vizsgáztatói névjegyzék" alcímet a 153/2010. (V. 4.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.

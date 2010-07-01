@@ -16,6 +16,8 @@ f) továbbképzést tart a vizsgáztatók, felkészülést segítő szakértők 
 
 g) beszámol a miniszternek, valamint az OKV elnökségnek a tárgyévet követő április 30-ig a versenyvizsgák tapasztalatairól,
 
-h) beszámol a miniszternek a vizsgadíjak felhasználásáról.
+h)[^11] beszámol a miniszternek a vizsgadíjakkal kapcsolatos elszámolásokról.
 
 (2) A KSZK az (1) bekezdés g) pontjában meghatározott beszámolót a honlapján közzéteszi.
+
+[^11]: A 6. § (1) bekezdés h) pontja a 169/2010. (V. 11.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
