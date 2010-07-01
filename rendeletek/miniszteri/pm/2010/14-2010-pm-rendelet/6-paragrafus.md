@@ -1,0 +1,3 @@
+## 5. § Az e rendeletben meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan pénztárgépnek, taxaméternek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő vagy hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások az adóügyi ellenőrzés hatékonyságának biztosítása tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+6. § Ez a rendelet a hatálybalépését követő napon hatályát veszti.
