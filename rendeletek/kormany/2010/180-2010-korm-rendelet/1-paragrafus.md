@@ -1,0 +1,5 @@
+1. § (1) E rendelet hatálya a rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató által a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § o) pontja szerinti gyógyító megelőző eljárások során alkalmazott egészségügyi technológiákra (a továbbiakban: technológia) terjed ki.
+
+(2) E rendelet hatálya nem terjed ki az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) támogatott, valamint támogatásra javasolt gyógyszereknek a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló miniszteri rendelet (a továbbiakban: R1.) szerinti befogadására.
+
+(3) E rendelet hatálya nem terjed ki az E. Alapból támogatott, valamint támogatásra javasolt gyógyászati segédeszközöknek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendelet szerinti befogadására.

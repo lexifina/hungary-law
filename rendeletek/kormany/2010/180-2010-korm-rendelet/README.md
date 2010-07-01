@@ -1,0 +1,9 @@
+# 180/2010. (V. 13.) Korm. rendelet
+
+az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-180-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-07-01 | 2010-180-20-22.1 | 180/2010. (V. 13.) Korm. rendelet |
