@@ -6,10 +6,10 @@ a) Számviteli folyamatok eljárási rendje;
 
 b) Számviteli politika, amely tartalmazza a számlatükröt és a számlarendet.
 
-c)[^17]
+c)[^19]
 
 A számviteli politika főbb irányainak meghatározásáért, az elkészítésért és az elkészült számviteli politika jóváhagyásáért, annak végrehajtásáért az egyes szervezetek vezetői felelősek.
 
 (3) A PM Nemzeti Programengedélyező Irodának és a végrehajtó szervezeteknek, valamint az MVH-nak a támogatási eszközökkel kapcsolatos (1) bekezdés szerinti nyilvántartásokat ott kell vezetnie, ahol a támogatások felhasználásával kapcsolatos pénzügyi folyamatok megvalósulnak, illetve ahol az eredeti bizonylatok rendelkezésre állnak.
 
-[^17]: A 42. § (2) bekezdés c) pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^19]: A 42. § (2) bekezdés c) pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.

@@ -4,7 +4,7 @@
 
 ## SZABÁLYTALANSÁGOK KEZELÉSE
 
-58. §[^23] (1) A szabálytalanságok jelentése érdekében az MVH, a végrehajtó szervezetek, (a továbbiakban együtt: szabálytalansági vizsgálatot lefolytató szervezet), valamint a PM Nemzeti Programengedélyező Iroda együttműködik az OLAF Koordinációs Irodával.
+58. §[^29] (1) A szabálytalanságok jelentése érdekében az MVH, a végrehajtó szervezetek, (a továbbiakban együtt: szabálytalansági vizsgálatot lefolytató szervezet), valamint a PM Nemzeti Programengedélyező Iroda együttműködik az OLAF Koordinációs Irodával.
 
 (2) A szabálytalansági vizsgálatot lefolytató szervezet vezetője – jogszabály vagy megállapodás alapján – kijelöli a szabálytalansági ügyek nyilvántartásáért és jelentéséért felelős szervezeti egységet vagy személyt (a továbbiakban: szabálytalanság-felelős). A szabálytalanság-felelős nem lehet a függetlenített belső ellenőrzési egység.
 
@@ -18,4 +18,4 @@ c) nyomon követi a szabálytalanságokkal kapcsolatos döntések végrehajtás�
 
 d) összeállítja a szabálytalanságokkal kapcsolatos negyedéves jelentéseket.
 
-[^23]: Az 58. § a 164/2010. (V. 11.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 58. § a 164/2010. (V. 11.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

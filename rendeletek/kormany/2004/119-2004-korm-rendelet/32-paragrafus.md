@@ -1,4 +1,4 @@
-32. §[^14] (1) Ha az Európai Bizottság visszafizetési kötelezettséget vagy levonást állapít meg, a PM Nemzeti Programengedélyező Iroda kezdeményezésére a Programengedélyező intézkedik a szabálytalan felhasználásból vagy más okból eredő összegnek és kamatának, vagy a programzárás végén fennmaradó, fel nem használt összegnek az Európai Bizottság részére történő visszafizetéséről.
+32. §[^16] (1) Ha az Európai Bizottság visszafizetési kötelezettséget vagy levonást állapít meg, a PM Nemzeti Programengedélyező Iroda kezdeményezésére a Programengedélyező intézkedik a szabálytalan felhasználásból vagy más okból eredő összegnek és kamatának, vagy a programzárás végén fennmaradó, fel nem használt összegnek az Európai Bizottság részére történő visszafizetéséről.
 
 (2) Az (1) bekezdés szerint visszafizetendő, visszapótlandó összeg a szabálytalanságért felelős fejezetet terheli, kivéve, ha a szabálytalanságért a Programengedélyező, illetve a végrehajtó szervezet a felelős. A Programengedélyező, illetve a végrehajtó szervezet felelőssége esetén a visszafizetendő összeg a végrehajtó szervezet fejezeti felügyeletét ellátó szervet – a KPSZE mint végrehajtó szervezet esetén a költségvetés XIX. Uniós fejlesztések fejezetét – terheli.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a visszafizetési felszólítást a Programengedélyező vitatja, a vita rendezésének – a Nemzeti Programengedélyező és a Nemzeti Koordinátor folyamatos tájékoztatása melletti – felelőssége és költsége a Programengedélyezőt terheli. Az egymillió eurót meghaladó visszafizetési felszólítás esetén a Programengedélyező a felszólítás kézhezvételétől számított 30 napon belül a vitarendezés irányára és tartalmára vonatkozó állásfoglalást kér a Kormánytól.
 
-[^14]: A 32. § a 164/2010. (V. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: A 32. § a 164/2010. (V. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

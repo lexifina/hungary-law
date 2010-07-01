@@ -18,15 +18,15 @@
 
 7. Monitoring Vegyesbizottság: az Európai Bizottsággal annak kötelező előírása alapján közösen elvégzendő monitoring tevékenység ellátására létrehozott szervezet, amely felügyeli az előcsatlakozási eszközök és az Átmeneti Támogatás céljainak megvalósulási folyamatát, és koordinálja azok tevékenységét;
 
-8.[^1]
+8.[^2]
 
 9. monitoring: a források, az eredmények és a teljesítmények mindenre kiterjedő és rendszeres vizsgálata, amely a központi költségvetésből, nemzetközi segélyből vagy támogatásból, illetve az Európai Unió által nyújtott támogatásokkal végrehajtandó programok eredményes, tervszerű és hatékony megvalósítása érdekében történik. A monitoring kiterjed annak vizsgálatára is, hogy a programok megvalósítása megfelelt-e azoknak a célkitűzéseknek, amelyek a támogatás elnyerését lehetővé tették;
 
 10. nemzeti alap a nemzetközi megállapodásokban előírt nemzeti alap feladatoknak ellátása Pénzügyminisztérium Nemzeti Programengedélyező Iroda szervezeti keretei közt történik.
 
-11.[^2] végrehajtó szervezet: Phare programok esetén az ESZA Társadalmi Szolgáltató Nonprofit Kft., a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft., valamint a Központi Pénzügyi és Szerződéskötő Egység, Átmeneti Támogatás esetén a Központi Pénzügyi és Szerződéskötő Egység. A végrehajtó szervezetek feladata a Phare és az Átmeneti Támogatás által támogatott programok pályáztatása, a szerződések megkötése, a kifizetések teljesítése és a technikai megvalósítás;
+11.[^3] végrehajtó szervezet: Phare programok esetén az ESZA Társadalmi Szolgáltató Nonprofit Kft., a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft., valamint a Központi Pénzügyi és Szerződéskötő Egység, Átmeneti Támogatás esetén a Központi Pénzügyi és Szerződéskötő Egység. A végrehajtó szervezetek feladata a Phare és az Átmeneti Támogatás által támogatott programok pályáztatása, a szerződések megkötése, a kifizetések teljesítése és a technikai megvalósítás;
 
-12.[^3]
+12.[^4]
 
 13. pénzügyi megállapodások: a Phare Pénzügyi Megállapodások, az Átmeneti Támogatás Nemzeti Programjainak finanszírozásáról szóló bizottsági határozatok, a SAPARD Többéves Pénzügyi Megállapodás, valamint a SAPARD Éves Pénzügyi Megállapodások együttes elnevezése;
 
@@ -42,7 +42,7 @@
 
 19. ellenőrzés tűrési kötelezettség: betekintés és hozzáférés biztosítása a nyilvántartási, adatszolgáltatási és működési rendszerbe, lehetővé téve azt, hogy az arra felhatalmazott, ellenőrök a támogatás felhasználására vonatkozó valamennyi információt megszerezhessék, és azok valódiságáról meggyőződhessenek;
 
-20. ellenőr: az Európai Bizottság és az Európai Számvevőszék által megbízott természetes személy, valamint a PM Nemzeti Programengedélyező Iroda, az MVH és a végrehajtó szervezetek vagy azok szakmai felügyeletét ellátó szervek, illetve az Állami Számvevőszék (a továbbiakban: ÁSZ) vagy a KEHI által megbízott olyan természetes személy, aki a vonatkozó ellenőrzési jogszabályokban rögzített feltételeknek megfelel;
+20.[^5] ellenőr: az Európai Bizottság és az Európai Számvevőszék által megbízott természetes személy, valamint a PM Nemzeti Programengedélyező Iroda, az MVH és a végrehajtó szervezetek vagy azok szakmai felügyeletét ellátó szervek, illetve az Állami Számvevőszék (a továbbiakban: ÁSZ) vagy az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) által megbízott olyan természetes személy, aki a vonatkozó ellenőrzési jogszabályokban rögzített feltételeknek megfelel;
 
 21. Államháztartási Belső Pénzügyi Ellenőrzési Tárcaközi Bizottság (a továbbiakban: ÁBPE Tárcaközi Bizottság): a Phare és Átmeneti Támogatás felhasználása ellenőrzési rendszerének kialakításával összefüggő koordinációs és konzultatív feladatokat ellátó tárcaközi bizottság;
 
@@ -58,13 +58,14 @@
 
 27. végső kedvezményezett: Phare és az Átmeneti Támogatás esetében olyan jogi személy, jogi személyiség nélküli gazdasági társaság, amely a projekt hasznosítója, és a projekt megvalósításának fizikai, műszaki vonatkozásaival foglalkozik. SAPARD esetében az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, egyéni vállalkozó, amely a projektek végrehajtásáért felelős;
 
-28.[^4] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Kincstárban működő integrált nyilvántartási rendszer;
+28.[^6] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Kincstárban működő integrált nyilvántartási rendszer;
 
 29. PERSEUS: az Európai Bizottság Phare és Átmeneti Támogatás programjai esetén alkalmazott, pénzügyi folyamatokat rögzítő nyilvántartási rendszere.
 
 30. Illetékes Nemzeti Pénzügyi Ellenőrző Szervezet: ezt a szerepet a KEHI tölti be a Kormányzati Ellenőrzési Hivatalról szóló 70/2004. (IV. 15.) Korm. rendeletben foglaltaknak megfelelően.
 
-[^1]: A 2. § 8. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^2]: A 2. § 11. pontja a 164/2010. (V. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § 12. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^4]: A 2. § 28. pontja a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének b) pontja szerint módosított szöveg.
+[^2]: A 2. § 8. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^3]: A 2. § 11. pontja a 164/2010. (V. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 12. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^5]: A 2. § 20. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (8) bekezdése szerint módosított szöveg.
+[^6]: A 2. § 28. pontja a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének b) pontja szerint módosított szöveg.

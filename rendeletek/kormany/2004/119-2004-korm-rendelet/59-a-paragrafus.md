@@ -1,4 +1,4 @@
-59/A. §[^25] (1) A szabálytalansági vizsgálatot lefolytató szervezet a tárgynegyedévet követő 45 napon belül, ha szabálytalanság vagy visszaélés gyanúja merült fel, ennek tényéről, ilyen hiányában arról tájékoztatja a Nemzeti Programengedélyezőt, hogy a program lebonyolítása során nem merült fel szabálytalanság vagy visszaélés.
+59/A. §[^31] (1) A szabálytalansági vizsgálatot lefolytató szervezet a tárgynegyedévet követő 45 napon belül, ha szabálytalanság vagy visszaélés gyanúja merült fel, ennek tényéről, ilyen hiányában arról tájékoztatja a Nemzeti Programengedélyezőt, hogy a program lebonyolítása során nem merült fel szabálytalanság vagy visszaélés.
 
 (2) A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalansági eljárások indításáról, a megtett intézkedések végrehajtásáról és azok eredményeiről a – szabálytalanságról hozott döntést követő 5 munkanapon belül – jelentést küld a Nemzeti Programengedélyező részére abban az esetben, ha a szabálytalanság újfajta jogellenes gyakorlat elkövetésére utal.
 
@@ -8,4 +8,4 @@
 
 (5) A Programengedélyező gondoskodik a szabálytalanul felhasznált összegnek – a szabálytalansági döntéstől számított két hónapon belül történő – behajtásáról.
 
-[^25]: Az 59/A. §-t a 164/2010. (V. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^31]: Az 59/A. §-t a 164/2010. (V. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.
