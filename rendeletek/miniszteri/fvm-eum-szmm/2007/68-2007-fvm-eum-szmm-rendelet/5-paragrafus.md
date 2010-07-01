@@ -1,59 +1,44 @@
-## Az élelmiszer-előállító hely, élelmiszer-kereskedelmi üzlet, illetve tevékenység közegészségügyi, élelmiszer-higiéniai szakhatósági elbírálásához, hatósági engedélyezéséhez szükséges dokumentáció és tervdokumentáció tartalmi követelményei
+## Az élelmiszer-előállító hely, illetve élelmiszer-forgalmazó hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentáció és tervdokumentáció tartalmi követelményei[^1]
 
-5. § (1) Az élelmiszer-előállító hely létesítésére vonatkozó szakhatósági állásfoglaláshoz szükséges dokumentációnak és tervdokumentációnak tartalmaznia kell a következő adatokat:
+5. §[^2] (1) Az élelmiszer-előállító hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentációnak és tervdokumentációnak tartalmaznia kell a következő adatokat:
 
 a) az élelmiszer-előállító hely tevékenységi körének meghatározását,
 
-b) hivatalos helyszínrajzot,
+b) technológiai leírást és folyamatábrát,
 
-c) technológiai folyamatábrát,
+c) technológiai elrendezési rajzot,
 
-d) technológiai elrendezési rajzot M 1:50 méretarányban,
+d) anyagmozgatási és személyforgalmi tervet,
 
-e) anyagmozgatási és személyforgalmi tervet,
+e) az épületgépészet szerelvényezési, fűtési, szellőzési, világítási, hűtési terveket,
 
-f) műszaki-technológiai leírást,
+f) gyártástechnológia szerinti gépjegyzéket,
 
-g) az épületgépészet szerelvényezési, fűtési, szellőzési, világítási, hűtési terveket,
+g) közmű nyilatkozatot,
 
-h) gyártástechnológia szerinti gépjegyzéket,
+h) melléktermék és a hulladék kezelési és ártalmatlanítási tervét,
 
-i) közmű nyilatkozatot,
+i) az ivóvíz minőségét tanúsító, 30 napnál nem régebbi vízvizsgálati eredményt.
 
-j) melléktermék és a hulladék kezelési és ártalmatlanítási tervét,
+(2) Az élelmiszer-forgalmazó hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentációnak és tervdokumentációnak tartalmaznia kell a következő adatokat:
 
-k) az ivóvíz minőségét tanúsító vízvizsgálati eredményt.
+a) közmű nyilatkozatot,
 
-(2) Az élelmiszer-kereskedelmi üzlet, illetve tevékenység közegészségügyi, élelmiszer-higiéniai szakhatósági elbírálásához szükséges dokumentációnak és tervdokumentációnak tartalmaznia kell a következő adatokat:
+b) technológiai leírást és elrendezési rajzot,
 
-a) az üzlet műszaki leírását,
+c) az épületgépészet szerelvényezési, fűtési, szellőzési, világítási, hűtési terveket,
 
-b) közmű nyilatkozatot,
+d) anyagmozgatási és személyforgalmi és göngyölegtárolási tervet,
 
-c) technológiai elrendezési rajzot M 1:50 méretarányban,
+e) az áruszállítás tervezett módját, eszközét,
 
-d) épületgépészeti műszaki leírást vagy tervdokumentációt (az épületgépészet szerelvényezési, fűtési, szellőzési, világítási, hűtési tervei),
+f) tervezett alkalmazotti létszámot,
 
-e) anyagmozgatási és személyforgalmi és göngyölegtárolási tervet,
+g) tisztítási, mosogatási, takarítási utasítást,
 
-f) az áruszállítás tervezett módját, eszközét,
+h) melléktermék és a hulladék kezelési és ártalmatlanítási tervét,
 
-g) tervezett alkalmazotti létszámot,
+i) az ivóvíz minőségét tanúsító, 30 napnál nem régebbi vízvizsgálati eredményt.
 
-h) tisztítási, mosogatási, takarítási utasítást,
-
-i) melléktermék és a hulladék kezelési és ártalmatlanítási tervét,
-
-j) az ivóvíz minőségét tanúsító vízvizsgálati eredményt.
-
-(3) Építésügyi hatósági engedélyezés alá nem tartozó átalakításhoz, illetve a bejelentett adatok módosításához szükséges szakhatósági állásfoglalás kiadásának feltétele házilagos kivitelezésű, méretarányos alaprajz és az árusítani kívánt termékcsoport listájának csatolása a kérelemhez.
-
-(4) Mozgóbolt esetében a dokumentációnak és tervdokumentációnak tartalmaznia kell:
-
-a) a ivóvízellátás, szennyvízelvezetés, illetve -elhelyezés, energiaszolgáltatás,
-
-b) a hulladékszállítás, -elhelyezés,
-
-c) a kézmosási, WC-használati lehetőség, és
-
-d) a mosogatás, takarítás, fertőtlenítés
+[^1]: Az 5. §-t megelőző alcím az 57/2010. (V. 7.) FVM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 5. § az 57/2010. (V. 7.) FVM rendelet 27. § (2) bekezdésével megállapított szöveg. E módosító rendelet 24. § (2) bekezdése alapján a 2010. július 1. napját követően indult ügyekben kell alkalmazni.
