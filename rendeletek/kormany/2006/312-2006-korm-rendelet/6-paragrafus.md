@@ -1,19 +1,5 @@
+## 5. §[^7]
+
 ## A Hivatal egyéb európai uniós és nemzetközi támogatásokkal kapcsolatos ellenőrzési feladatai
 
-## 6. § A Hivatal – külön kormányrendeletek szerint – ellátja az egyéb európai uniós és nemzetközi támogatások Kormány által meghatározott ellenőrzési feladatait, valamint az azokhoz kapcsolódó tervezési, beszámolási, illetve zárónyilatkozat-kiadási feladatokat. Így elvégzi különösen
-
-a) a 2004–2006 közötti programozási időszak tekintetében a strukturális alapokkal, a Kohéziós Alappal és az EQUAL Közösségi Kezdeményezés programmal kapcsolatos ellenőrzéseket;
-
-b) az európai uniós előcsatlakozási eszközök és Átmeneti Támogatás felhasználásának ellenőrzését;
-
-c) a Schengen Alap támogatásai felhasználásának ellenőrzését és a költségnyilatkozatok igazolását;
-
-d) az INTERREG III Közösségi Kezdeményezés programokkal kapcsolatos ellenőrzéseket;
-
-e) az európai területi együttműködés programokkal kapcsolatos ellenőrzéseket;
-
-f) a Norvég Finanszírozási Mechanizmussal, illetve az EGT Finanszírozási Mechanizmussal kapcsolatos ellenőrzéseket;
-
-g)[^9] a Svájci–Magyar Együttműködési Programmal kapcsolatos ellenőrzési feladatokat.
-
-[^9]: A 6. § g) pontját a 310/2009. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^7]: Az 5. §-t a 210/2010. (VI. 30.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte.
