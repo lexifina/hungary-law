@@ -1,3 +1,0 @@
-1. § (1) A környezetvédelmi és vízügyi miniszter hatáskörébe tartozó iskolarendszeren kívüli államilag elismert szakképesítések szakmai vizsgáinak szervezésére e rendelet mellékletében felsorolt intézményeket jogosítom fel.
-
-(2) Az e rendelet mellékletében feltüntetett vizsgaszervezési jogosultságok a környezetvédelmi és vízügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 12/2008. (IV. 30.) KvVM rendelet 4. számú melléklete szerint megfeleltetett az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet szerinti szakképesítések tekintetében is fennállnak.
