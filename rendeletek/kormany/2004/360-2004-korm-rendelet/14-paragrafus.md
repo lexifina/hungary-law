@@ -4,6 +4,6 @@
 
 (2) A kifizető hatóság kezelésében lévő (bank)számlák minden köztehertől és költségtől mentes forintban vezetett (bank)számlák, ezért a (bank)számla vezetéséből adódó bárminemű költség elszámolása közvetlenül a központi költségvetés, Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére történik.
 
-(3)[^42] A bankszámlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
+(3)[^43] A bankszámlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
 
-[^42]: A 14. § (3) bekezdését a 202/2006. (X. 5.) Korm. rendelet 8. §-a iktatta be.
+[^43]: A 14. § (3) bekezdését a 202/2006. (X. 5.) Korm. rendelet 8. §-a iktatta be.

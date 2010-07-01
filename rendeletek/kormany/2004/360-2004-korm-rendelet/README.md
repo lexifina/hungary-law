@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-360-20-
 | --- | --- | --- |
 | 2009-09-07 | 2004-360-20-22.11 | 360/2004. (XII. 26.) Korm. rendelet |
 | 2010-05-16 | 2004-360-20-22.12 | 181/2010. (V. 13.) Korm. rendelet |
+| 2010-07-01 | 2004-360-20-22.13 | 210/2010. (VI. 30.) Korm. rendelet |

@@ -18,6 +18,6 @@
 
 | számvitelért felelős vezető | a szervezet felelős vezetője |
 
-3. számú melléklet a 360/2004. (XII. 26.) Korm. rendelet 36. §-ához[^158]
+3. számú melléklet a 360/2004. (XII. 26.) Korm. rendelet 36. §-ához[^175]
 
-[^158]: A 3. számú mellékletet a 281/2006. (XII. 23.) Korm. rendelet 66. § (18) bekezdése iktatta be.
+[^175]: A 3. számú mellékletet a 281/2006. (XII. 23.) Korm. rendelet 66. § (18) bekezdése iktatta be.

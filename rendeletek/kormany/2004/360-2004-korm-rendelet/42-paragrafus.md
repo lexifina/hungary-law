@@ -1,6 +1,6 @@
-## Kohéziós Alap projekthez kapcsolódó, a kifizető hatóság felé fennálló hitelesítési jelentési kötelezettségek[^90]
+## Kohéziós Alap projekthez kapcsolódó, a kifizető hatóság felé fennálló hitelesítési jelentési kötelezettségek[^92]
 
-42. §[^91] (1) Az irányító hatóság a kifizető hatóság igazolási tevékenységének alátámasztására a kifizető hatóság által összeállított útmutató alapján hitelesítési jelentési rendszert működtet.
+42. §[^93] (1) Az irányító hatóság a kifizető hatóság igazolási tevékenységének alátámasztására a kifizető hatóság által összeállított útmutató alapján hitelesítési jelentési rendszert működtet.
 
 (2) A Kohéziós Alap közreműködő szervezet az irányító hatóság felé benyújtandó költségnyilatkozathoz kiállítja az adott projektre vonatkozóan összesített információkat tartalmazó hitelesítési jelentését.
 
@@ -38,5 +38,5 @@ d) a költségnyilatkozatban foglalt költségek elszámolhatók, számlákkal v
 
 (8) A hitelesítési tevékenységet a kifizető hatóság által összeállított útmutató alapján kell végezni.
 
-[^90]: A 42. §-t megelőző alcím a 403/2007. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^91]: A 42. § és az előtte lévő alcím a 281/2006. (XII. 23.) Korm. rendelet 66. § (13) bekezdésével megállapított szöveg.
+[^92]: A 42. §-t megelőző alcím a 403/2007. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^93]: A 42. § és az előtte lévő alcím a 281/2006. (XII. 23.) Korm. rendelet 66. § (13) bekezdésével megállapított szöveg.

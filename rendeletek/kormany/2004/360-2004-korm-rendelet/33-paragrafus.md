@@ -2,4 +2,6 @@
 
 (2) Az irányító hatóság ellenőrzi és jóváhagyja, hogy a végső elszámolásban foglalt adatok az azokat alátámasztó eredeti dokumentumokkal bizonyíthatóan megegyezők, és a költségnyilatkozatot, a projekt zárójelentését, a hitelesítési jelentést, a további szükséges mellékleteket az Európai Bizottságnak a projekt elfogadásáról hozott határozatában megállapított kifizetési határidőt követő 2 hónapon belül továbbítja a kifizető hatóság részére.
 
-(3) A kifizető hatóság a végső egyenleg átutalási igénylés dokumentációját és a projekt zárójelentését az Európai Bizottságnak a projekt elfogadásáról hozott határozatában megállapított kifizetési határidőt követő 3 hónapon belül – az irányító hatósággal folytatott egyeztetéseket követően – továbbítja a KEHI, mint zárónyilatkozat kiadásáért felelős szerv felé.
+(3)[^71] A kifizető hatóság a végső egyenleg átutalási igénylés dokumentációját és a projekt zárójelentését az Európai Bizottságnak a projekt elfogadásáról hozott határozatában megállapított kifizetési határidőt követő 3 hónapon belül – az irányító hatósággal folytatott egyeztetéseket követően – továbbítja az EUTAF, mint zárónyilatkozat kiadásáért felelős szerv felé.
+
+[^71]: A 33. § (3) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
