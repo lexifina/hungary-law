@@ -6,24 +6,26 @@
 
 a) a kamarai tagságáról lemondott,
 
-b) a 13. § (3) bekezdésében vagy a 13. § (4) bekezdés b) vagy c) pontjában felsorolt feltételeknek nem felel meg,
+b) a kamarából kizárták,
 
-c) a kamarai tagdíjfizetési kötelezettségét felszólítás ellenére nem teljesítette,
+c) meghalt.
 
-d) a 6. §-ban foglalt összeférhetetlenséget felszólítás ellenére nem szüntette meg,
+(2) Az ügyvéd kamarai tagságát a kamara megszünteti, ha az ügyvéd
 
-e) cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alá került, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
+a) a 13. § (3) bekezdésében felsorolt feltételeknek nem felel meg,
 
-f) az esküt határidőben nem tette le,
+b) a kamarai tagdíjfizetési kötelezettségét felszólítás ellenére nem teljesítette,
 
-g) az ügyvédi tevékenység szüneteltetésének lejártát követően a tevékenységét nem folytatja,
+c) a 6. §-ban foglalt összeférhetetlenséget felszólítás ellenére nem szüntette meg,
 
-h) a kamarából kizárták,
+d) cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alá került, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
 
-i) meghalt.
+e) az esküt határidőben nem tette le,
 
-(2) A kamara az (1) bekezdés c) és d) pontja esetén írásban felszólítja az ügyvédet, hogy fizesse be a tagdíjat, illetve a 6. §-ban szabályozott összeférhetetlenséget 30 napon belül szüntesse meg. Az (1) bekezdés d) pontja esetén a kamara összeférhetetlenségi bizottságának állásfoglalását be kell szerezni.
+f) tevékenysége szüneteltetésének időtartama lejárt anélkül, hogy a tevékenysége folytatásának szándékát a kamarának bejelentette volna.
 
-(3) A kamara az (1) bekezdés a)–g) pontja esetén a kamarai tagság megszüntetéséről határozatot hoz, amelyet indokolni kell. A határozatra a 15. § rendelkezései az irányadók.
+(3) A kamara a (2) bekezdés b) és c) pontja esetén írásban felszólítja az ügyvédet, hogy fizesse be a tagdíjat, illetve a 6. §-ban szabályozott összeférhetetlenséget 30 napon belül szüntesse meg. A (2) bekezdés c) pontja esetén a kamara összeférhetetlenségi bizottságának állásfoglalását be kell szerezni.
 
-(4) Ha az ügyvéd kamarai tagsága az (1) bekezdés a)–c) pontjában szabályozott eset alapján szűnt meg, az újbóli kamarai felvételének a kamarai tagság megszűnéséről szóló határozat jogerőre emelkedésétől számított 1 év elteltével van helye.
+(4) A kamarai tagság megszüntetése iránti eljárásra a 15. §-t kell alkalmazni. A megszüntetésről szóló határozat – fellebbezésre tekintet nélkül – előzetesen végrehajtható.
+
+(5) Ha az ügyvéd kamarai tagsága a (2) bekezdés a) és b) pontjában szabályozott okból szűnt meg, az újbóli kamarai felvételre irányuló kérelem a kamarai tagság megszűnéséről szóló határozat jogerőre emelkedésétől számított 1 év elteltével nyújtható be.
