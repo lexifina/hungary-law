@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-3-20-53
 | --- | --- | --- |
 | 2010-01-22 | 2010-3-20-53.1 | 3/2010. (I. 21.) PM rendelet |
 | 2010-06-30 | 2010-3-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-07-01 | 2010-3-20-53.3 | 30/2011. (VIII. 22.) NGM rendelet |
