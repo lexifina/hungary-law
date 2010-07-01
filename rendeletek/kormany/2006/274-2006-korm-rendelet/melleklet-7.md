@@ -12,7 +12,7 @@
 
 | Somogy Megyei Mezőgazdasági Szakigazgatási Hivatal | Somogy megye Baranya megye Tolna megye Vas megye Zala megye |
 
-7. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^126]
+7. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^125]
 
 A Mezőgazdasági Szakigazgatási Hivatal területi szerveinek illetékességi területe
 
@@ -34,4 +34,4 @@ a borászati hatósági ügyekben
 
 | Somogy Megyei Mezőgazdasági Szakigazgatási Hivatal | Somogy megye Veszprém megye Zala megye |
 
-[^126]: A 7. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^125]: A 7. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.

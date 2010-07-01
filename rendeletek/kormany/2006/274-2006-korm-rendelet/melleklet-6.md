@@ -48,6 +48,6 @@
 
 | Hajdú-Bihar Megyei Mezőgazdasági Szakigazgatási Hivatal | Hajdú-Bihar megye Békés megye Borsod-Abaúj-Zemplén megye Jász-Nagykun-Szolnok megye Szabolcs-Szatmár-Bereg megye |
 
-6. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^125]
+6. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^124]
 
-[^125]: A 6. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^124]: A 6. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.

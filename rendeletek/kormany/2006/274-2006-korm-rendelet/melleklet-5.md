@@ -632,7 +632,7 @@
 
 ## Szigetvár
 
-## 2.[^117] BÁCS-KISKUN MEGYE
+## 2.[^116] BÁCS-KISKUN MEGYE
 
 ## 2.1. Kecskeméti Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Kecskemét)
 
@@ -1226,7 +1226,7 @@
 
 ## Vatta
 
-## 4.3.[^118] Encsi Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Encs)
+## 4.3.[^117] Encsi Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Encs)
 
 ## Abaújalpár
 
@@ -1546,7 +1546,7 @@
 
 ## Zemplénagárd
 
-## 4.5.[^119] Edelényi Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Edelény)
+## 4.5.[^118] Edelényi Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Edelény)
 
 ## Abod
 
@@ -1934,7 +1934,7 @@
 
 ## Tömörkény
 
-## 6.[^120] FEJÉR MEGYE
+## 6.[^119] FEJÉR MEGYE
 
 ## 6.1. Bicskei Kerületi Állategészségügyi és Élelmiszer- ellenőrző Hivatal (székhelye: Bicske)
 
@@ -2558,7 +2558,7 @@
 
 ## Újszentmargita
 
-## 8.2.[^121] Berettyóújfalui Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Berettyóújfalu)
+## 8.2.[^120] Berettyóújfalui Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Berettyóújfalu)
 
 ## Ártánd
 
@@ -2642,7 +2642,7 @@
 
 ## Vámospércs
 
-## 8.4.[^122] Derecskei Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Derecske)
+## 8.4.[^121] Derecskei Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Derecske)
 
 ## Derecske
 
@@ -3140,7 +3140,7 @@
 
 ## 11. KOMÁROM-ESZTERGOM MEGYE
 
-## 11.1.[^123] Esztergomi Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Esztergom)
+## 11.1.[^122] Esztergomi Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatal (székhelye: Esztergom)
 
 ## Annavölgy
 
@@ -6624,13 +6624,13 @@
 
 ## XXIII. kerület
 
-5. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^124]
+5. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^123]
 
-[^117]: A 4. számú melléklet II. rész 2. pontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^118]: A 4. számú melléklet II. rész 4. pont 4.3. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^119]: A 4. számú melléklet II. rész 4. pont 4.5. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^120]: A 4. számú melléklet II. rész 6. pontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^121]: A 4. számú melléklet II. rész 8. pont 8.2. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^122]: A 4. számú melléklet II. rész 8. pont 8.4. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^123]: A 4. számú melléklet II. rész 11. pont 11.1. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^124]: Az 5. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^116]: A 4. számú melléklet II. rész 2. pontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^117]: A 4. számú melléklet II. rész 4. pont 4.3. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^118]: A 4. számú melléklet II. rész 4. pont 4.5. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^119]: A 4. számú melléklet II. rész 6. pontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^120]: A 4. számú melléklet II. rész 8. pont 8.2. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^121]: A 4. számú melléklet II. rész 8. pont 8.4. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^122]: A 4. számú melléklet II. rész 11. pont 11.1. alpontja a 145/2009. (VII. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^123]: Az 5. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.

@@ -38,6 +38,6 @@
 
 ## 19. Zala Megyei Mezőgazdasági Szakigazgatási Hivatal, Zalaegerszeg.
 
-2. számú melléklet a 274/2006. (XII. 23.) Korm. rendelethez[^114]
+2. számú melléklet a 274/2006. (XII. 23.) Korm. rendelethez[^113]
 
-[^114]: A 2. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés k) pontja hatályon kívül helyezte. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^113]: A 2. számú mellékletet a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés k) pontja hatályon kívül helyezte. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
