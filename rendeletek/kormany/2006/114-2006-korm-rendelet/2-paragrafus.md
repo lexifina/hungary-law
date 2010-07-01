@@ -32,9 +32,9 @@ lehet. A felszámoló gazdasági társaságnak a vagyoni biztosíték meglétét
 
 (4) A Cstv. 27/C. § (2) bekezdés c)–d) és f) pontjaiban előírt feltételek fennállásáról nyilatkozatot kell tenni.
 
-(5)[^4] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló gazdasági társaság legalább két-két közgazdászt, jogi szakvizsgát tett jogászt, valamint a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá a 2006. évi VI. törvény 20. § (4) bekezdése és 21. §-a szerinti szakképzettségű személyt foglalkoztat. Az említettek közül legalább egy-egy főnek (kivéve a könyvvizsgálót) munkaviszonyban vagy személyes közreműködésre is kötelezettséggel is járó tagsági jogviszonyban kell állnia a felszámoló gazdasági társasággal. E feltételek teljesítését a Cstv.-ben és a Melléklet b) pontjában meghatározott okiratokkal kell igazolni.
+(5)[^4] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló gazdasági társaság legalább két-két közgazdászt, jogi szakvizsgát tett jogászt, valamint a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. Az említettek közül legalább egy-egy főnek (kivéve a könyvvizsgálót) munkaviszonyban vagy személyes közreműködésre is kötelezettséggel is járó tagsági jogviszonyban kell állnia a felszámoló gazdasági társasággal. E feltételek teljesítését a Cstv.-ben és a Melléklet b) pontjában meghatározott okiratokkal kell igazolni.
 
 [^1]: Az 1. § a 275/2009. (XII. 3.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^2]: A 2. § a 275/2009. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 275/2009. (XII. 3.) Korm. rendelet 6. § (6) bekezdése alapján a 2. § (3) bekezdése szerinti vagyoni biztosíték teljesítését legkésőbb 2010. október 1-jéig kell igazolni.
-[^4]: A 2. § (5) bekezdése a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (5) bekezdése a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) és (5) bekezdése szerint módosított szöveg.
