@@ -20,6 +20,9 @@ i) a rokkantsági járadékos, ha ezt a lakóhelye szerint illetékes jegyző ig
 
 (2) Az (1) bekezdésben meghatározottak tekintetében igényjogosult családtagnak minősül a kedvezményezettel közös háztartásban együtt élő házastárs (élettárs) és gyermek. A családtag igényjogosultságát személyi igazolvánnyal és a jogosultságot megalapozó okmánnyal kell igazolni.
 
+(3)[^21] Az (1) bekezdés a), c) és d) pontjában meghatározott személyek a kedvezményre való jogosultságot – a Magyar Vakok és Gyengénlátók Országos Szövetségének arcképes igazolványával rendelkező személyek kivételével – a Magyar Államkincstár által kiadott sorszámozott igazolvánnyal igazolják. A kedvezmény érvényesítésekor a sorszámozott igazolvány mellé személyi igazolvány vagy egyéb személyazonosságot igazoló okmány felmutatása is megkövetelhető.
+
 [^18]: A 8. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^19]: A 8. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^20]: A 8. § (1) bekezdésének g) pontja a 213/2007. (VIII. 7.) Korm. rendelet 18. § o) pontja szerint módosított szöveg.
+[^21]: A 8. § (3) bekezdését a 172/2010. (V. 13.) Korm. rendelet 1. §-a iktatta be.
