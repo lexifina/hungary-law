@@ -1,1 +1,1 @@
-52. §
+52. § Hatályát veszti a Kt. 38. §-a (4) bekezdésének első mondatában a „behozott kőolaj és” szövegrész, a 38. § (2) bekezdésében a „behozatalt követő” szövegrész, 38. §-ának (3) bekezdésének második mondata, a 38. § (4) bekezdésének második mondata, valamint a 43. § (1) bekezdésében az „a kőolaj és” szövegrész.

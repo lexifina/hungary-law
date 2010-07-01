@@ -1,0 +1,1 @@
+6. § A Kt. 38. § (3) bekezdésében a „kőolaj és” szövegrész helyébe a „vagy felhasznált” szöveg, a Kt. 40/A. §-ában a „beszerzett és értékesített” szövegrész helyébe a „szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, illetve felhasznált” szöveg lép.

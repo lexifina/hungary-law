@@ -1,4 +1,8 @@
-29. § (1)
+29. § (1) A GET. 3. § 52. pontja helyébe a következő rendelkezés lép:
+
+[3. § E törvény alkalmazásában:]
+
+„52. Rendszerüzemeltető: a szállítási rendszerüzemeltető, a földgázelosztó és a földgáztárolói engedélyes.”
 
 (2) A GET. 3. §-a a következő 71. ponttal egészül ki:
 
@@ -12,4 +16,8 @@ b) bármely olyan jogosultság, szerződés vagy egyéb megállapodás, amely me
 
 c) a szavazási megállapodás vagy más összehangolt magatartás.”
 
-(3)
+(3) A GET. 3. §-a a következő 72. ponttal egészül ki:
+
+[3. § E törvény alkalmazásában:]
+
+„72. Szállítási rendszerüzemeltetés: a földgázszállítás, a szállítóvezetékek üzemeltetése, karbantartása és fejlesztése, továbbá az e törvényben meghatározott esetben az együttműködő földgázrendszer irányítási és koordinációs feladatainak ellátása.”

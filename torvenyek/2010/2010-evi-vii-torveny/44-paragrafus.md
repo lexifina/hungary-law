@@ -1,0 +1,3 @@
+44. § A GET. 124. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kiszervezés engedélyezése során a Hivatal nem hagyhat jóvá olyan ügyletet, amely azt eredményezi, hogy a működési engedélyben meghatározott alaptevékenységek végzése, vagy a karbantartás és az üzemzavar elhárítás irányítása, továbbá a csatlakozó rendszerüzemeltetőkkel, és a saját szervezetén belül a rendszerhasználókkal kapcsolatot tartó, folyamatosan működő műszaki irányító szolgálat kikerül az engedélyes saját szervezetéből, vagy azt, hogy a szállítási rendszerüzemeltető nem felel meg az e törvény 4. §-ában rögzített követelményeknek.”
