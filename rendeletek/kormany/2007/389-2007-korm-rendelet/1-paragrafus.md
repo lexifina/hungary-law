@@ -38,8 +38,16 @@ ca) a villamos energiával kapcsoltan termelt hőt az Értékesítő távhőszol
 
 cb) a villamos energiával kapcsoltan termelt hőt az Értékesítő külön kezelt intézményben hasznosítja, vagy ilyen intézmény részére értékesíti, vagy
 
-cc) a villamos energiát 20 MW-nál kisebb névleges teljesítőképességű erőműegységben termelték.
+cc)[^2] a villamos energiát 20 MW-nál kisebb névleges teljesítőképességű erőműegységben termelték, vagy
+
+d)[^3] a villamos energiát termelő erőműegység 2010. december 31. és 2013. december 31. között kereskedelmi üzembe került és
+
+da) az erőműegység névleges villamos teljesítőképessége 50 MW-nál nem nagyobb és a kapcsoltan termelt hasznos hő értékesítése távhőszolgáltatási célra történik, vagy
+
+db) az erőműegység névleges villamos teljesítőképessége 6 MW-nál nem nagyobb és a kapcsoltan termelt hasznos hő értékesítése külön kezelt intézmény ellátásának céljára történik.
 
 (5) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 7. §-ának (2) bekezdése és a VET felhatalmazása alapján kiadott külön jogszabály szerinti pályázat alapján létesített szélerőműben vagy szélerőműparkban termelt villamos energia termelője a pályázat eredményének megfelelő feltételek szerint (különösen: időtartam, mennyiség, átvételi ár stb.) jogosult a kötelező átvételi rendszerben történő értékesítésre.
 
 [^1]: Az 1. § (3) bekezdésének c) pontja a 287/2008. (XI. 28.) Korm. rendelet 11. § (7) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdés c) pont cc) alpontja a 175/2010. (V. 13.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdés d) pontját a 175/2010. (V. 13.) Korm. rendelet 8. § (2) bekezdése iktatta be.

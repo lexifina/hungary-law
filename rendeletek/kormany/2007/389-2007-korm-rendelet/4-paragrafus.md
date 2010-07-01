@@ -34,20 +34,20 @@ ba) megfelel a külön jogszabályban meghatározott hulladékgyűjtési és hul
 
 bb) nem tartozik az Európai Hulladék Katalógus (EWC) 05–15 főcsoportjainak valamelyikébe, továbbá
 
-bc)[^15] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi hatóság által kiállított nyilatkozattal arról, hogy a hulladék tüzelőanyagként történő felhasználástól eltérő egyéb módon tovább már nem hasznosítható.
+bc)[^17] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi hatóság által kiállított nyilatkozattal arról, hogy a hulladék tüzelőanyagként történő felhasználástól eltérő egyéb módon tovább már nem hasznosítható.
 
 (6) A használt berendezést is magában foglaló erőműegységben termelt villamos energia kötelező átvételi árai – az (1) bekezdés szerinti eltéréssel – ez e rendelet 1. számú mellékletének 4. pontjában meghatározott bázisárakon alapulnak, ha a berendezésre vonatkozó engedély e rendelet hatálybalépése után került kiadásra.
 
-(7)[^16] Vegyes tüzelés esetén a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrásra számított villamosenergia-mennyiség is a kötelező átvétel alá tartozik – az 1. számú melléklet 4. pontja szerinti áron – az adott hónapban, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás felhasználási aránya sem az adott hónapban, sem az adott évben nem haladja meg a 10%-ot.
+(7)[^18] Vegyes tüzelés esetén a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrásra számított villamosenergia-mennyiség is a kötelező átvétel alá tartozik – az 1. számú melléklet 4. pontja szerinti áron – az adott hónapban, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás felhasználási aránya sem az adott hónapban, sem az adott évben nem haladja meg a 10%-ot.
 
-(8)[^17] Vegyes tüzelés esetén, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás részaránya az 50%-ot meghaladja, akkor a kötelező átvétel alá eső villamos energia mennyiségére a (2)–(6) bekezdésben meghatározott átvételi árnál 10%-kal alacsonyabb átvételi árat kell alkalmazni.
+(8)[^19] Vegyes tüzelés esetén, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás részaránya az 50%-ot meghaladja, akkor a kötelező átvétel alá eső villamos energia mennyiségére a (2)–(6) bekezdésben meghatározott átvételi árnál 10%-kal alacsonyabb átvételi árat kell alkalmazni.
 
-(9)[^18] Ha az erőműegység villamosenergia-termelése ugyanazon technológiai (primer-energiaátalakítási) folyamatban részben megújuló energiaforrással vagy részben hulladékból nyert energiával történik, akkor a kötelező átvétel e § szerinti egyes eseteinek megfelelően figyelembe veendő villamosenergia-mennyiséget arányosan, az adott hónapban felhasznált tüzelőhő energiaforrások szerinti összetétele alapján megbontva, hőtermelés esetén a hőtermelésre is azonos energiaforrás-struktúrát figyelembe véve kell kiszámítani. Az adott hónapra kiszámított energiaforrás-arányokat minden zónaidőre azonosan kell alkalmazni. A számítást havonta az Értékesítőnek kell elvégeznie, és azt hitelt érdemlő dokumentumokkal kell alátámasztania. A számítást bemutató iratot a Befogadó részére a tárgyhónapot követő hónap 2. munkanapjáig meg kell küldeni.
+(9)[^20] Ha az erőműegység villamosenergia-termelése ugyanazon technológiai (primer-energiaátalakítási) folyamatban részben megújuló energiaforrással vagy részben hulladékból nyert energiával történik, akkor a kötelező átvétel e § szerinti egyes eseteinek megfelelően figyelembe veendő villamosenergia-mennyiséget arányosan, az adott hónapban felhasznált tüzelőhő energiaforrások szerinti összetétele alapján megbontva, hőtermelés esetén a hőtermelésre is azonos energiaforrás-struktúrát figyelembe véve kell kiszámítani. Az adott hónapra kiszámított energiaforrás-arányokat minden zónaidőre azonosan kell alkalmazni. A számítást havonta az Értékesítőnek kell elvégeznie, és azt hitelt érdemlő dokumentumokkal kell alátámasztania. A számítást bemutató iratot a Befogadó részére a tárgyhónapot követő hónap 2. munkanapjáig meg kell küldeni.
 
-(10)[^19] Számszakilag nyilvánvalóan helytelen számítás esetén a Befogadó a tudomásra jutástól számított 5 munkanapon belül felhívja az Értékesítőt a számítás helyesbítésére. A Befogadó a helyesbítésre biztosított határidő eredménytelen elteltét követő 5 munkanapon belül bejelentést tesz a Hivatalnak.
+(10)[^21] Számszakilag nyilvánvalóan helytelen számítás esetén a Befogadó a tudomásra jutástól számított 5 munkanapon belül felhívja az Értékesítőt a számítás helyesbítésére. A Befogadó a helyesbítésre biztosított határidő eredménytelen elteltét követő 5 munkanapon belül bejelentést tesz a Hivatalnak.
 
-[^15]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: A 4. § (7) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 4. § (8) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 4. § (9) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^19]: A 4. § (10) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 4. § (7) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 4. § (8) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 4. § (9) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^21]: A 4. § (10) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.

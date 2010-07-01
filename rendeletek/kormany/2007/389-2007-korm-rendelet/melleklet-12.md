@@ -50,7 +50,7 @@
 
 ## h) a nagy hatásfokú hasznos hőenergiával kapcsoltan termelt villamos energia mennyiségét,
 
-## i)[^77] a berendezés fajlagos villamosenergia-termelési mutatójának értékét (szigmanévl),
+## i)[^80] a berendezés fajlagos villamosenergia-termelési mutatójának értékét (szigmanévl),
 
 ## j) a hőtermelés és a villamosenergia-termelés részhatásfokának, valamint az összhatásfok értékét,
 
@@ -76,4 +76,4 @@ A nagy hatásfokú kapcsolt energiatermelés helyzetének értékelése során a
 
 Az értékelés kiterjed azon módszerekre is, amelyekkel az elsődleges energiaforrás-megtakarítás formájában jelentkező költséghatékonyságot mérni lehet. A költséghatékonyság értékelése során az Európai Közösség által az Egyesült Nemzetek Szervezete éghajlat-változási keretegyezménye Kiotói Jegyzőkönyve értelmében vállalt éghajlat-változási kötelezettségeken belül elfogadott nemzeti kötelezettségvállalásokat is figyelembe kell venni.
 
-[^77]: A 11. számú melléklet „B” fejezetének i) pontja a 287/2008. (XI. 28.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^80]: A 11. számú melléklet „B” fejezetének i) pontja a 287/2008. (XI. 28.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
