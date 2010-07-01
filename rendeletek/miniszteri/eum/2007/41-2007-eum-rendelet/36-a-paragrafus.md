@@ -24,7 +24,7 @@ c) a betegség-specifikus gyógyszerészi gondozás, mely a népegészségügyi 
 
 (2) Gyógyszerészi gondozás a (7) bekezdés szerint közzétett szakmai protokollokban foglaltak szerint közforgalmú és fiókgyógyszertárban, valamint intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egységében végezhető.
 
-[(3)[^56] Az (1) bekezdés c) pontjában meghatározott gyógyszerészi gondozási tevékenységet az a gyógyszerész végezheti, aki a külön jogszabály szerinti folyamatos továbbképzés keretében az erre irányuló programot elvégezte.]
+(3)[^56] Az (1) bekezdés c) pontjában meghatározott gyógyszerészi gondozási tevékenységet az a gyógyszerész végezheti, aki a külön jogszabály szerinti folyamatos továbbképzés keretében az erre irányuló programot elvégezte.
 
 (4) A gyógyszerészi gondozási tevékenység a gyógyszertár működtetőjének és személyi jogos gyógyszerészének, illetve intézeti főgyógyszerészének a területileg illetékes regionális tisztifőgyógyszerészhez intézett együttes előzetes bejelentése alapján folytatható.
 
@@ -36,4 +36,4 @@ c) a betegség-specifikus gyógyszerészi gondozás, mely a népegészségügyi 
 
 [^54]: A 36/A. §-t megelőző alcímet az 56/2009. (XII. 30.) EüM rendelet 21. §-a iktatta be.
 [^55]: A 36/A. §-t az 56/2009. (XII. 30.) EüM rendelet 21. §-a iktatta be.
-[^56]: A 36/A. § (3) bekezdése az 56/2009. (XII. 30.) EüM rendelet 24. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^56]: A 36/A. § (3) bekezdése az 56/2009. (XII. 30.) EüM rendelet 24. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.
