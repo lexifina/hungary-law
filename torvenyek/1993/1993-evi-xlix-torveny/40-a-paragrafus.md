@@ -6,4 +6,4 @@ a) a készletezési kötelezettség ellenőrzéséhez,
 
 b) a Szövetség adatszolgáltatási kötelezettségének teljesítéséhez
 
-az e törvény személyi hatálya alá tartozó személyek által beszerzett és értékesített – a törvény hatálya alá tartozó termékkörbe tartozó – termékek mennyiségéről és értékéről.
+az e törvény személyi hatálya alá tartozó személyek által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, illetve felhasznált – a törvény hatálya alá tartozó termékkörbe tartozó – termékek mennyiségéről és értékéről.
