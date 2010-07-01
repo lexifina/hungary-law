@@ -86,4 +86,4 @@
 
 2. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^5]
 
-[^5]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^5]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.
