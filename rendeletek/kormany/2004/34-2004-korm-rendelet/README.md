@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-34-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2004-34-20-22.6 | 34/2004. (III. 12.) Korm. rendelet |
+| 2010-07-01 | 2004-34-20-22.7 | 82/2009. (IV. 10.) Korm. rendelet |

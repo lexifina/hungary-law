@@ -4,9 +4,7 @@
 
 (2) A hirdetmény közzétételére irányuló kérelmet az ajánlatkérő, illetőleg képviselője (a továbbiakban: kérelmező) nyújthatja be a Szerkesztőbizottsághoz.
 
-(3) A kérelem benyújtható személyesen vagy kézbesítő útján, megküldhető levélben, telefaxon vagy elektronikus úton is.
-
-[(3)[^5] A kérelem elektronikus úton nyújtható be.]
+(3)[^5] A kérelem elektronikus úton nyújtható be.
 
 (4) A kérelemhez mellékelni kell a hirdetmény egy példányát, valamint a 7. § szerinti szerkesztési díj befizetését igazoló okiratot vagy annak másolatát.
 
@@ -34,7 +32,7 @@ j)[^10] eljárást megindító hirdetmény esetében a Kbt. 6. §-ának (2) beke
 
 (6) Ha a hirdetmény közzétételét az ajánlatkérő által meghatalmazott személy vagy szervezet kezdeményezi, e személynek vagy szervezetnek a kérelemben nyilatkoznia kell képviseleti jogosultságáról is. A képviseleti jogosultságról való nyilatkozat hiányában a Szerkesztőbizottság a hiánypótlásra történő felhívást az ajánlatkérőnek küldi meg.
 
-[^5]: A 6. § (3) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 16. § (2) bekezdésének a) pontjával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2010. július 1. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkamazni. [A rendelkezés 2010. július 1-jén lép hatályba.]
+[^5]: A 6. § (3) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 16. § (2) bekezdésének a) pontjával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2010. július 1. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkamazni.
 [^6]: A 6. § (5) bekezdésének d) pontja a 82/2009. (IV. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
 [^7]: A 6. § (5) bekezdésének e) pontja a 82/2009. (IV. 10.) Korm. rendelet 15. § (1) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
 [^8]: A 6. § (5) bekezdésének h) pontját a 82/2009. (IV. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
