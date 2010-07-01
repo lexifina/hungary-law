@@ -28,7 +28,7 @@ bh) külön jogszabály szerinti méretváltoztatására vagy új méretváltoza
 
 irányulhat.
 
-(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag a gyógyászati segédeszköz forgalomba hozója nyújthatja be az egészségbiztosítási szervhez.
+(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag az egészségbiztosítási szerv 32/B. § szerinti szállítójegyzékében szereplő minősített forgalomba hozó nyújthatja be az egészségbiztosítási szervhez.
 
 (4) Az egészségbiztosítási szerv
 

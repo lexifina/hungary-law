@@ -1,0 +1,1 @@
+21/A. § Az egészségbiztosítási szerv a gyógyászati segédeszközöket rendelő orvosok, valamint az ezeket használó betegek informáltságának erősítése érdekében honlapján internetes gyógyászatisegédeszköz-katalógust működtet – a külön jogszabályban meghatározott adattartalommal – a támogatott gyógyászati segédeszközökről.
