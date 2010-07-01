@@ -142,7 +142,7 @@
 
 | 67. | Nyomtatott áramkör előállítása automata gépsoron |
 
-| 68. | Közúti gépjármű gyártása (gyártás, összeszerelés, motorgyártás) 10 ezer db/év késztermék előállításától |
+| 68. | Közúti gépjármű gyártása (gyártás, összeszerelés, motorgyártás) 5000 db/év késztermék előállításától, ha nem tartozik az 1. számú mellékletbe |
 
 | 69. | Hajógyártás (szabadidő-, sporthajó gyártása nem tartozik ide) |
 

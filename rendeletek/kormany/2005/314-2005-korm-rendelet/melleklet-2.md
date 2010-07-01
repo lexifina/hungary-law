@@ -66,9 +66,9 @@
 
 | 23. | Azbesztcement termékek gyártása 20 ezer t/év késztermék-előállítástól |
 
-| 24. | Azbeszt súrlódóanyag előállítása 50 t/év késztermék-előállítástól |
+| 24. | a) Azbeszt súrlódóanyag előállítása 50 t/év késztermék-előállítástól b) Azbeszttartalmú termékek előállítása 200 t/év azbesztfelhasználástól |
 
-| 25. | Azbeszttartalmú termékek előállítása 200 t/év azbesztfelhasználástól |
+| 25. | Közúti gépjármű gyártása (gyártás, összeszerelés, motorgyártás) 10 000 db/év késztermék előállításától |
 
 | 26. | Kohómű (vas, acél) |
 
