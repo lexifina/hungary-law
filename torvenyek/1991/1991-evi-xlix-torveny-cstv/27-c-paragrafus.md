@@ -1,4 +1,4 @@
-27/C. § (1)
+27/C. § (1) Felszámolói tevékenységet a gazdasági társaság csak akkor folytathat, ha a felszámolói tevékenységben személyesen közreműködő tagjai, munkavállalói, illetve a társasággal kötött tartós polgári jogi szerződés alapján a társaság javára tevékenykedők között legalább két olyan személy van, aki jogszabályban foglalt felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel (a továbbiakban: szakképzettség) rendelkezik.
 
 (2) A felszámolók névjegyzékébe az a gazdasági társaság vehető fel, amely
 
