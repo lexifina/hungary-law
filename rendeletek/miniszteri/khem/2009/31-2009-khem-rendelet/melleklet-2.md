@@ -1,31 +1,27 @@
-## Gázmérővel nem rendelkező felhasználók földgázfogyasztása
+## Gázmérővel nem rendelkező lakások számításba veendő földgázfogyasztása
 
-## az elosztási átalánydíj meghatározásához (m3/hó)
+## (MJ/hó)
 
-| Lakás típusa | 2 lángú gáztűzhely | 3–4 lángú gáztűzhely | 4 lángú gáztűzhely elektromos sütővel | Garzon gáztűzhely |
+|  | A | B | C | D | E | F |
 
-| 1 szobás | 6,2 | 8,8 | 7,1 | 7,4 |
+| 1. | Lakás típusa | 2 lángú gáztűzhely | 3–4 lángú gáztűzhely | 4 lángú gáztűzhely elektromos sütővel | Garzon gáztűzhely | Gáz hűtőszekrény |
 
-| 1,5 szobás | 8,8 | 10,9 | 9,1 | 9,1 |
+| 2. | 1 szobás | 210 | 300 | 240 | 250 | 454 |
 
-| 2 szobás1 | 10,3 | 13,2 | 11,5 | 11,5 |
+| 3. | 1,5 szobás | 300 | 370 | 310 | 310 | 454 |
 
-| 2,5 szobás2 | 12 | 15,3 | 13,5 | 13,2 |
+| 4. | 2 szobás | 350 | 450 | 390 | 390 | 454 |
 
-| 3 szobás3 | 13,8 | 17,6 | 15,9 | 15,3 |
+| 5. | 2,5 szobás | 410 | 520 | 460 | 450 | 454 |
 
-| 3,5 szobás | 15,6 | 20,3 | 18,5 | 17,6 |
+| 6. | 3 szobás | 470 | 600 | 540 | 520 | 454 |
 
-| 4 szobás | 17,9 | 22 | 20,3 | 19,4 |
+| 7. | 3,5 szobás | 530 | 690 | 630 | 600 | 454 |
 
-## 1 Az 1 + két 1/2 szobás lakás is idetartozik.
+| 8. | 4 szobás | 610 | 750 | 690 | 660 | 454 |
 
-## 2 Az 1 + három 1/2 szobás lakás is idetartozik.
+## Az ebédlő az átalánydíj-fizetés szempontjából fél szobának minősül.
 
-## 3 A 2 + két 1/2 szobás lakás is idetartozik.
+2. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^46]
 
-## Az ebédlő az átalánydíj-fizetés szempontjából félszobának minősül.
-
-2. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^15]
-
-[^15]: A 2. melléklet a 73/2009. (XII. 7.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^46]: A 2. melléklet a 4/2010. (VI. 30.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.

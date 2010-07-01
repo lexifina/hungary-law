@@ -1,85 +1,79 @@
-## A rendszerhasználat (legmagasabb) hatósági díjai
+## A rendszerhasználat (legmagasabb) hatósági díjai (általános forgalmi adó nélkül)
 
-## (általános forgalmi adó nélkül)
+## 1. Szállítási díjrendszer
 
-## 1. Szállítási díjrendszer
+## a) Szállítási díjak:
 
-| a) Szállítási díjak |
+|  | A | B | C | D |
 
-| A 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(m3/h)/év] | Szállítási forgalmi díj (Ft/m3) |
+| 1. | A 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(MJ/h)/év] | Szállítási kapacitásdíj [Ft/(MJ/nap)/év] | Szállítási forgalmi díj (Ft/GJ) |
 
-| a) pont aa) alpont aaa) és aab) pontja (kilépési pontok) | 2 454 | 0,893 |
+| 2. | a) pont aa) alpont aaa) és aab) pontja (kilépési pontok) | 72,39 | – | 26,34 |
 
-| a) pont aa) alpont aaf) pontja (Kiskundorozsma kilépési pont) | 15 108 |
+| 3. | a) pont aa) alpont aaf) pontja (Kiskundorozsma kilépési pont) | 445,66 | – |
 
-| a) pont aa) alpont aag) pontja (Csanádpalota kilépési pont) | 7 795 |
+| 4. | a) pont aa) alpont aag) pontja (Csanádpalota kilépési pont) | 229,94 | – |
 
-| a) pont aa) alpont aac) pontja (osztrák/magyar határ Baumgarten felőli belépési pont) | 13 229 |
+| 5. | a) pont aa) alpont aac) pontja (osztrák/magyar határ Baumgarten felőli belépési pont) | – | 9365,66 |
 
-| a) pont aa) alpont aad) pontja (ukrán/magyar határ Beregovo felőli belépési pont) | 13 229 |
+| 6. | a) pont aa) alpont aad) pontja (ukrán/magyar határ Beregovo felőli belépési pont) | – | 9365,66 |
 
-| a) pont aa) alpont aae) pontja (hazai termelés belépési pont) | 11 906 |
+| 7. | a) pont aa) alpont aae) pontja (hazai termelés belépési pont) | – | 8429,03 |
 
-| a) pont ac) alpont acb) pontja (tárolói belépési pont) | 7 937 |
+| 8. | a) pont ac) alpont acb) pontja (tárolói belépési pont) | – | 5619,12 |
 
-## b) Szagosítási díj
+## b) Szagosítási díj: 3998 Ft/liter
 
-| Szagosítási díj Ft/liter |
+## 2. Elosztási díjrendszer
 
-| 3 998 |
+|  | A | B | C | D | E | F |
 
-## 2. Elosztási díjrendszer
+| 1. | Díjfizetésre kötelezett rendszerhasználók | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
 
-| Díjfizetésre kötelezett rendszerhasználók | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+| 2. |  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
 
-| Ft/m3 | Ft/év | Ft/m3/h/év | Ft/m3/h/év | Ft/m3 |
+| 3. | Gázmérővel nem rendelkező felhasználók | 487,53 | – | – | – | – |
 
-| a) | Gázmérővel nem rendelkező felhasználók | 16,62 | – | – | – |  |
+| 4. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók | – | 12 000 | – | – | 247,58 |
 
-| b) | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók | – | 12 000 | – | – | 8,44 |
+| 5. | 20–100 m3/h közötti névleges (össz) kapacitású gázmérővel rendelkező felhasználók | – | – | 9 900 | – | 144,32 |
 
-| c) | 20–100 m3/h közötti névleges (össz) kapacitású gázmérővel rendelkező felhasználók | – | – | 9 900 | – | 4,92 |
+| 6. | 3131–17100 MJ/h kapacitás lekötésű felhasználók | – | – | – | 225 | 31,39 |
 
-| d) | 101–500 m3/h kapacitás lekötésű felhasználók | – | – | – | 7 656 | 1,07 |
+| 7. | 17100 MJ/h feletti kapacitás lekötésű felhasználók | – | – | – | 353 | 27,57 |
 
-| e) | 500 m3/h feletti kapacitás lekötésű felhasználók | – | – | – | 12 048 | 0,94 |
+## 3. Tárolási díjrendszer
 
-## 3. Tárolási díjrendszer
+## a) Kitárolási díj: 4,61 Ft/GJ
 
-| a) Kitárolási díj Ft/m3 |
+## b) A tárolói mobildíj, a tárolói csúcsdíj és a betárolási díj kiszámítása a következő képletek alapján történik:
 
-| 0,158 |
+## (i) M = 166,18 * cm0,48 Ft/GJ
 
-## b) A tárolói mobildíj, a tárolói csúcsdíj és a betárolási díj kiszámítása a következő képletek alapján történik:
+## (ii)  TCS = 7,79 * cm0,48 Ft/MJ/nap/év
 
-## (i) TM = 5,70 * cm0,48 Ft/m3
-
-## (ii) TCS = 267,25 * cm0,48 Ft/m3/nap/év
-
-## (iii) BT = [(bk/m) / (1/150)/3 + 2/3] * 1,06
+## (iii)  BT = [(bk/m)/(1/150)/3 + 2/3] * 30,90
 
 ## A képletben a
 
-## TM: tárolói mobildíj (Ft/m3),
+## TM: tárolói mobildíj (Ft/GJ),
 
-## TCS: tárolói csúcsdíj (Ft/m3/nap/év),
+## TCS: tárolói csúcsdíj (Ft/MJ/nap/év),
 
-## BT: betárolási díj (Ft/m3).
+## BT: betárolási díj (Ft/GJ).
 
-## cm = 100 * cs/m
+## cm = 3400 * cs/m
 
-## cm: a rendszerhasználó 100 Mm3-re vetített csúcs/mobil lekötése
+## cm: a rendszerhasználó 3400 TJ-ra (100 Mm3-re) vetített csúcs/mobil lekötése
 
-## cs: a rendszerhasználó tárolói csúcs lekötése (m3/nap)
+## cs: a rendszerhasználó tárolói csúcs lekötése (MJ/nap)
 
-## m: a rendszerhasználó tárolói mobil lekötése (m3)
+## m: a rendszerhasználó tárolói mobil lekötése (MJ)
 
-## bk: a rendszerhasználó tárolói betárolási kapacitás lekötése (m3/nap)
+## bk: a rendszerhasználó tárolói betárolási kapacitás lekötése (MJ/nap)
 
-## 4. Rendszerirányítási díjrendszer
+## 4. Rendszerirányítási díjrendszer
 
-| Rendszerirányítási díj Ft/év |
-
-| 1 000 000 |
+## Rendszerirányítási díj: 1 000 000 Ft/év
 
 3. melléklet a 31/2009. (VI. 25.) KHEM rendelethez

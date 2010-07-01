@@ -4,17 +4,17 @@
 
 ## 1.1. Általános szabályok
 
-## 1.1.1. A szállítási forgalmi díjat a 2. § (1) bekezdés a) pont aa) alpont aaa), aab), aaf), aag) pontja, valamint a 2. § (1) bekezdés a) pont ac) alpont aca) pontja szerinti átadási-átvételi pontokon mért és a kapcsolódó (elosztó)rendszer üzemeltetője által – az ÜKSZ-ben, illetve a határkeresztező vezetékek esetén a kapcsolódó rendszerüzemeltetővel kötött együttműködési megállapodásban, a szállítóvezeték be- és kilépési pontjaira vonatkozó allokálási szabályok szerint – leosztott földgáz mennyisége után kell megfizetni a tárgyhót követő hónapban. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ, illetve az Együttműködési Megállapodás tartalmazza. A rendszerhasználó kérésére a szállítói engedélyes köteles a jegyzőkönyvben szereplő fűtőértéket díjmentesen, műbizonylattal alátámasztani.
+## 1.1.1.[^47] A szállítási forgalmi díjat a 2. § (1) bekezdés a) pont aa) alpont aaa), aab), aaf), aag) pontja, valamint a 2. § (1) bekezdés a) pont ac) alpont aca) pontja szerinti átadási-átvételi pontokon mért és a kapcsolódó (elosztó)rendszer üzemeltetője által – az ÜKSZ-ben, illetve a határkeresztező vezetékek esetén a kapcsolódó rendszerüzemeltetővel kötött együttműködési megállapodásban, a szállítóvezeték be- és kilépési pontjaira vonatkozó allokálási szabályok szerint – leosztott földgáz hőmennyisége után kell megfizetni a tárgyhót követő hónapban. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ, illetve az Együttműködési Megállapodás tartalmazza. A rendszerhasználó kérésére a szállítói engedélyes köteles a jegyzőkönyvben szereplő fűtőértéket díjmentesen, műbizonylattal alátámasztani.
 
 ## 1.1.2. A rendszerhasználók által fizetendő szállítási kapacitásdíj összegét
 
-## a) az általuk a 2. § (1) bekezdés a) pont aa) alpontja és a 2. § (1) bekezdés a) pont ac) alpont acb) pontja szerinti átadási-átvételi pontonkénti bontásban lekötött legnagyobb órai kapacitások, valamint
+## a)[^48] az általuk a 2. § (1) bekezdés a) pont aa) alpontja (kivéve aah) pont) és a 2. § (1) bekezdés a) pont ac) alpont acb) pontja szerinti átadási-átvételi pontonkénti bontásban lekötött legnagyobb órai vagy napi kapacitások, valamint
 
 ## b) az egységnyi kapacitásra vonatkozó szállítási kapacitásdíj
 
 ## szorzataként kell megállapítani. A szállítási kapacitásdíj szerződésben meghatározott időközönként, de legalább havonta havi egyenlő részletekben a hónap első napján fizetendő.
 
-## 1.1.3. Ha a földgázellátás a szállítói engedélyesnek felróható okból egybefüggő 24 órás időtartamnál hosszabb üzemzavar miatt szünetel, a szállítási kapacitásdíjat a kieső napok arányában nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
+## 1.1.3.[^49] Ha a földgázellátás a szállítói engedélyesnek felróható okból egybefüggő 24 órás időtartamnál hosszabb üzemzavar miatt szünetel, a szállítási kapacitásdíjat a kieső napokra nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
 
 ## 1.1.4. A rendszerhasználó a szállítói engedélyes üzletszabályzatában rögzített esetekben a gázátadó-állomások kapacitás-lekötéseit összevonhatja. Ekkor az összevont gázátadók kapacitás-lekötési és nominálási szempontból egy gázátadónak számítanak, ezért rögzíteni kell az összevont kapacitásokra vonatkozó nominálástól való eltérés és kapacitástúllépés elszámolási rendjét.
 
@@ -26,7 +26,7 @@
 
 ## 1.1.8. A megszakítási helyzet fennállásáról kapott értesítést követően a rendszerhasználó a megszakítási joggal rendelkező szállítói engedélyes felszólítására, a szerződésben meghatározott időn belül megkezdi a megjelölt átadási-átvételi ponton a megszakítható vételezés előírt szintre való beállítását, és azt a szerződésben meghatározott időn belül befejezi. Amennyiben a szerződésben megjelölt határidőn belül az érintett rendszerhasználó az elrendelt kapacitás-beállítást nem hajtja végre – azaz megszakítási hibát követ el –, a szállítói engedélyes jogosult az érintett rendszerhasználó terhére az előírt kapacitásszintjétől eltérő kapacitása alapján számított éves szállítási kapacitásdíjának 1/365-öd részének 1,5-szeresét minden, a megjelölt határidő után megkezdett órára felszámítani (megszakítási pótdíj).
 
-## 1.1.9. A 6. § (4) bekezdés a)–c) és e) pontjai szerinti díjfizetésre kötelezett az átadási-átvételi pontonként lekötött órai kapacitás 1%-nál nagyobb mértékű túllépése esetén – átadási-átvételi pontonként – köteles az adott hónapon belül, –12 °C vagy annál melegebb átlaghőmérsékletű napon jogosulatlanul igénybe vett legnagyobb többletkapacitás éves szállítási kapacitásdíjának 1,5-szeresét (a továbbiakban: pótdíj) és az adott hónapon belül, –12 °C-nál hidegebb átlaghőmérsékletű napon jogosulatlanul igénybe vett legnagyobb – az adott hónapban a pótdíj fizetés alapjául szolgáló többletkapacitással csökkentett – többletkapacitás éves szállítási kapacitásdíját (a továbbiakban: utólagos kapacitásdíj) megfizetni a szállítói engedélyesnek. A belépési pontok esetében az országos napi átlaghőmérsékletet, kilépési pontok esetében a kilépési ponthoz rendelt mérési ponton mért napi átlaghőmérsékletet kell figyelembe venni. Ismételt kapacitás-túllépés esetén a pótdíj havonta ismételten felszámításra kerül. Utólagos kapacitásdíjat csak a megelőző hónap(ok)ban, –12 °C-nál hidegebb napon jogosulatlanul igénybe vett többletkapacitás feletti kapacitásra kell megfizetni a szállítói engedélyesnek. A kapacitás-túllépési pótdíj és utólagos kapacitásdíj számításának alapja a gáztechnikai normálállapotra átszámított földgáz köbméterben lekötött órai kapacitás és a túllépéssel érintett órában – köbméterben mért – átvett gázmennyiség teljes különbözete. A kapacitás-túllépés elszámolása a 2. § (1) bekezdés a) pont aa) alpont aac), aad), aae) és acb) pontjai szerinti átadási-átvételi ponton mért órai mennyiségnek a rendszerhasználóra – az ÜKSZ-ben a szállítóvezeték belépési pontjaira vonatkozó allokálási szabályok szerint – leosztott órai mennyiségek alapján történik. A kapacitás-túllépés elszámolása a 2. § (1) bekezdés a) pont aa) alpont aaa), aab), aaf) és aag) pontjai szerinti átadási-átvételi ponton mért órai mennyiségnek a kapcsolódó (elosztó)rendszer üzemeltetője által, a rendszerhasználóra – az ÜKSZ-ben a szállítóvezeték kilépési pontjaira vonatkozó allokálási szabályok szerint – leosztott órai mennyiségek alapján történik. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ tartalmazza.
+## 1.1.9.[^50] A 6. § (4) bekezdés a)–c) és e) pontjai szerinti díjfizetésre kötelezett az átadási-átvételi pontonként lekötött órai vagy napi kapacitás 1%-nál nagyobb mértékű túllépése esetén – átadási-átvételi pontonként – köteles az adott hónapon belül, –12 °C vagy annál melegebb átlaghőmérsékletű napon jogosulatlanul igénybe vett legnagyobb többletkapacitás éves szállítási kapacitásdíjának 1,5-szeresét (a továbbiakban: pótdíj) és az adott hónapon belül, –12 °C-nál hidegebb átlaghőmérsékletű napon jogosulatlanul igénybe vett legnagyobb – az adott hónapban a pótdíj fizetés alapjául szolgáló többletkapacitással csökkentett – többletkapacitás éves szállítási kapacitásdíját (a továbbiakban: utólagos kapacitásdíj) megfizetni a szállítói engedélyesnek. A belépési pontok esetében az országos napi átlaghőmérsékletet, kilépési pontok esetében a kilépési ponthoz rendelt mérési ponton mért napi átlaghőmérsékletet kell figyelembe venni. Ismételt kapacitás-túllépés esetén a pótdíj havonta ismételten felszámításra kerül. Utólagos kapacitásdíjat csak a megelőző hónap(ok)ban, –12 °C-nál hidegebb napon jogosulatlanul igénybe vett többletkapacitás feletti kapacitásra kell megfizetni a szállítói engedélyesnek. A kapacitás-túllépési pótdíj és utólagos kapacitásdíj számításának alapja a gáztechnikai normálállapotra átszámított földgáz hőértékben lekötött órai vagy napi kapacitás és a túllépéssel érintett órában vagy napon – köbméterben mért – átvett gázmennyiség hőértékre átszámított teljes különbözete. A kapacitás-túllépés elszámolása a 2. § (1) bekezdés a) pont aa) alpont aac), aad), aae) és acb) pontjai szerinti átadási-átvételi ponton mért napi, hőértékre átszámított mennyiségnek a rendszerhasználóra – az ÜKSZ-ben a szállítóvezeték belépési pontjaira vonatkozó allokálási szabályok szerint – leosztott napi (hőértékre átszámított) mennyiségek alapján történik. A kapacitás-túllépés elszámolása a 2. § (1) bekezdés a) pont aa) alpont aaa), aab), aaf) és aag) pontjai szerinti átadási-átvételi ponton mért órai (hőértékre átszámított) mennyiségnek a kapcsolódó (elosztó)rendszer üzemeltetője által, a rendszerhasználóra – az ÜKSZ-ben a szállítóvezeték kilépési pontjaira vonatkozó allokálási szabályok szerint – leosztott órai (hőértékre átszámított) mennyiségek alapján történik. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ tartalmazza.
 
 ## 1.1.10. A kilépési pontokra vonatkozó pótdíjak kiszámításánál alkalmazott napi átlaghőmérséklet az Országos Meteorológiai Szolgálat (a továbbiakban: OMSz) által mért és a gáznapot követő nap 9.00 óráig nyilvánosságra hozott hőmérsékletérték. Amennyiben adott hőmérséklet-mérési helyen adott napra vonatkozóan nem áll rendelkezésre átlaghőmérséklet adat, a felek az OMSz-t kérik fel helyettesítő érték megállapítására. A felek megállapodhatnak a kilépési pontokhoz rendelt hőmérséklet-mérési pontok tekintetében. Megállapodás hiányában a pótdíjak kiszámításánál a 6. számú melléklet szerinti besorolást kell alkalmazni.
 
@@ -40,13 +40,15 @@
 
 ## 1.1.12. Az adott hónapban, az utólagos kapacitásdíjat a 6. § (4) bekezdés a)–c) és e) pontjai szerinti díjfizetésre kötelezetteknek a megelőző hónap, –12 °C-nál hidegebb átlaghőmérsékletű napján jogosulatlanul igénybe vett legnagyobb többletkapacitás feletti kapacitásra kell megfizetni.
 
-## 1.1.13.[^16] A 6. § (4) bekezdés a)–c) és e) pontjában meghatározott díjfizetésre kötelezett 0,52 Ft/m3 nominálás eltérési pótdíjat köteles fizetni a szállítói engedélyesnek a 2009. július 1. után hatályos ÜKSZ-ben meghatározott esetekben és feltételek szerint.
+## 1.1.13.[^51] A 6. § (4) bekezdés a)–c) és e) pontjában meghatározott díjfizetésre kötelezett 0,52 Ft/m3 nominálás eltérési pótdíjat köteles fizetni a szállítói engedélyesnek a 2009. július 1. után hatályos ÜKSZ-ben meghatározott esetekben és feltételek szerint.
 
 ## 1.1.14. A 6. § (4) bekezdés a)–c) és e) pontjában meghatározott díjfizetésre kötelezett 0,05 Ft/MJ kiegyensúlyozási pótdíjat köteles fizetni a szállítói engedélyesnek a 2009. július 1. után hatályos ÜKSZ-ben meghatározott esetekben és feltételek szerint.
 
 ## 1.1.15. A szállítói engedélyes által havonta beszedett pótdíjak, valamint a többletértékesítés miatt felmerült többletköltség egyenlege éves szinten kiszámításra kerül. A negatív egyenleg közvetlenül a következő tarifa-megállapításnál, a pozitív egyenleg – a Hivatal döntése alapján – közvetlenül a következő tarifa-megállapításnál vagy közvetetten a kapacitásgazdálkodás elvét elősegítő beruházások megvalósításánál kerül figyelembevételre.
 
 ## 1.1.16. Ha a felhasználó a gázév folyamán kereskedőt vált és a korábbi kereskedő által átadott kapacitás kisebb, mint ami a felhasználó korábbi szerződésében szerepelt, a felhasználó a többlet kapacitásért az éves szállítási kapacitásdíj időarányos részét köteles megfizetni a gázév végéig.
+
+## 1.1.17.[^52] A kapacitás-túllépés miatti pótdíj és az utólagos kapacitásdíj kiszámításánál a kapacitás belépési ponton MJ/nap, kilépési ponton MJ/h mértékegységben történő megállapításához a gázátadó állomáshoz rendelt, a szállítóvezetéken mért tény fűtőértéket kell figyelembe venni.
 
 ## 1.2. A szállítási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő éves szállítási kapacitás-lekötés esetén
 
@@ -58,7 +60,7 @@
 
 ## 1.2.3. Ha az 1.2.2. pontja szerinti átadási-átvételi pontokon november és december hónapokban 0 °C-nál hidegebb átlaghőmérsékletű napon vagy a téli fogyasztási időszak első hónapja után is vételeznek földgázt, a szállítói engedélyes jogosult a téli fogyasztási időszakon kívüli időszakra lekötött kapacitás után a szállítási kapacitásdíjat egész évre érvényesíteni. Az adott átadási-átvételi ponton a gázévben (szállítási kapacitásdíjban) megfizetett összeg – az esetleges pótdíjak, kötbérek és kártérítések figyelembevétele nélkül – legfeljebb a téli időszakon kívüli időszakra lekötött legnagyobb kapacitásra számított éves szállítási kapacitásdíj lehet.
 
-## 1.2.4. Az átadási-átvételi pontonként lekötött legnagyobb napi vagy órai kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+## 1.2.4.[^53] Az átadási-átvételi pontonként lekötött legnagyobb órai vagy napi kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
 ## 1.2.5. A pótdíjra és az utólagos kapacitásdíjra vonatkozó számlát a szállítói engedélyes a szállítási kapacitásdíj számlájával együtt jogosult kiállítani a rendszerhasználó számára, aki a pótdíj és utólagos kapacitásdíj számláját a szállítási kapacitásdíj számlájával együtt köteles kiegyenlíteni.
 
@@ -70,7 +72,7 @@
 
 ## 1.3. A szállítási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő havi szállítási kapacitás-lekötés esetén
 
-## 1.3.1. Az átadási-átvételi pontonként lekötött legnagyobb órai kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+## 1.3.1.[^54] Az átadási-átvételi pontonként lekötött legnagyobb órai vagy napi kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
 ## 1.3.2. A lekötött kapacitás bejelentésének késedelme esetén a rendszerhasználó – a bejelentett kapacitás után a teljes szerződési időszakra felszámolt szállítási kapacitásdíjon felül – köteles a szállítói engedélyes részére megfizetni az adott átadási-átvételi pont(ok)ra a bejelentett kapacitás éves szállítási kapacitásdíjának 1/365 részét a késedelem minden napjára (pótdíj).
 
@@ -86,11 +88,11 @@
 
 ## 1.3.8. Azon átadási-átvételi pont után, amelyen a téli és nyári időszakban is vételeznek földgázt az 1.3.4–1.3.7. pont szerint számított szállítási kapacitásdíj nem haladhatja meg az éves szállítási kapacitásdíj 110%-át.
 
-## 1.3.9. A rendszerhasználó a lekötött szállítói havi kapacitást részben vagy egészben az ÜKSZ-ben meghatározott módon jogosult – a szállítói engedélyes tájékoztatása mellett – felajánlani azokra a hónapokra vonatkozóan, amelyekben az átadási-átvételi ponton a legnagyobb fogyasztás nem éri el a lekötött kapacitást.
+## 1.3.9.[^55] A rendszerhasználó a lekötött szállítói havi kapacitást részben vagy egészben az ÜKSZ-ben meghatározott módon jogosult – a szállítói engedélyes tájékoztatása mellett – felajánlani azokra a hónapokra vonatkozóan, amelyekben az átadási-átvételi ponton a legnagyobb előre jelzett fogyasztás nem éri el a lekötött kapacitást.
 
 ## 1.4. A szállítási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő napi szállítási kapacitás-lekötés esetén
 
-## 1.4.1. Az átadási-átvételi pontonként lekötött legnagyobb órai kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+## 1.4.1.[^56] Az átadási-átvételi pontonként lekötött legnagyobb órai vagy napi kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
 ## 1.4.2. A lekötött kapacitás bejelentésének késedelme esetén a rendszerhasználó – a bejelentett kapacitás után a teljes szerződési időszakra felszámolt szállítási kapacitásdíjon felül – köteles a szállítói engedélyes részére megfizetni az adott átadási-átvételi pont(ok)ra a bejelentett kapacitás éves szállítási kapacitásdíjának 1/365 részét a késedelem minden napjára (pótdíj).
 
@@ -118,7 +120,7 @@
 
 ## 1.6. A szállítási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő havi szállítási megszakítható kapacitás-lekötés esetén
 
-## 1.6.1. Az átadási-átvételi pontonként lekötött legnagyobb napi vagy órai kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+## 1.6.1.[^57] Az átadási-átvételi pontonként lekötött legnagyobb órai vagy napi kapacitások joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
 ## 1.6.2. Ha a szerződés a megszakítást havonta legfeljebb összesen 3 gáznap időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja az 1.3. pontban meghatározott szállítási kapacitásdíj 90%-a.
 
@@ -138,9 +140,11 @@
 
 ## 1.7.4. A le nem nominált napi kapacitásokat megszakítható kapacitásként ki kell ajánlani, amelynek a díja a 2. melléklet 1. pontjában meghatározott, az 1.7.2 vagy az 1.7.3 pont szerint korrigált szállítási kapacitásdíj 50%-a.
 
-## 1.8. Nominálás
+## 1.8.[^58] Nominálás
 
-## Ha a rendszerhasználó az ÜKSZ-ben foglaltak szerint nominált, a nominálásban megadott legnagyobb kapacitástól nem tért el, és a szállítói engedélyes ezt – saját hibájából – nem tudja teljesíteni, a szállítói engedélyes szállítói nominálási eltérési pótdíjat köteles fizetni az érintett rendszerhasználónak. A szállítói nominálási eltérési pótdíj az átadási-átvételi ponton nominált kapacitás és a rendelkezésre bocsátott kapacitás közötti kapacitásnak az adott hónapon belül a legnagyobb különbözetére számított éves szállítási kapacitásdíj 1,5-szerese. A szállítói nominálási eltérési pótdíj havonta újra felszámítható.
+## 1.8.1. Ha a rendszerhasználó az ÜKSZ-ben foglaltak szerint nominált, a nominálásban megadott legnagyobb kapacitástól nem tért el, és a szállítói engedélyes ezt – saját hibájából – nem tudja teljesíteni, a szállítói engedélyes szállítói nominálási eltérési pótdíjat köteles fizetni az érintett rendszerhasználónak. A szállítói nominálási eltérési pótdíj az átadási-átvételi ponton nominált kapacitás és a rendelkezésre bocsátott kapacitás közötti kapacitásnak az adott hónapon belül a legnagyobb különbözetére számított éves szállítási kapacitásdíj 1,5-szerese. A szállítói nominálási eltérési pótdíj havonta újra felszámítható.
+
+## 1.8.2. A földgázszállító és a hozzá csatlakozó rendszerüzemeltetők közötti átadás-átvételi pontok, illetve az MGP elszámolhatósága érdekében minden, az adott átadás-átvételi ponton érintett rendszerhasználó, akik között a földgáz feletti rendelkezési jog átadásra vagy átvételre kerül, köteles a földgázszállító felé a saját tranzakcióját (átadás, átvétel) nominálni. Ha a földgázszállítóhoz leadott nominálások az ÜKSZ-ben, a nominálások egyezőségének vizsgálatára vonatkozó szabályok szerint nem feleltethetőek meg egyértelműen a csatlakozó rendszerüzemeltető felé vagy az MGP-re leadott nominálásokkal, akkor ezen nominálás érvénytelen. A földgázszállító az ilyen nominálást visszautasíthatja és az ÜKSZ-ben a nominálás egyezőségi vizsgálatra vonatkozó, vagy eltérése esetén a nominálásra vonatkozó szabályok szerint jár el.
 
 ## 1.9. Kapacitástúligénylés kezelése a szállítórendszeren
 
@@ -148,9 +152,9 @@
 
 ## 1.10. Kereskedőváltás
 
-## 1.10.1. A kereskedőváltás miatt az átadási-átvételi pontonként és órai kapacitás igények joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+## 1.10.1.[^59] A kereskedőváltás miatt az átadási-átvételi pontonként és órai és napi kapacitás igények joghatályos bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
-## 1.10.2. A lekötött teljesítmény bejelentésének késedelme esetén a rendszerhasználó – a bejelentett kapacitás igényváltozás után a teljes szerződési időszakra felszámolt szállítási teljesítménydíjon felül – köteles a szállítói engedélyes részére megfizetni az adott átadási-átvételi pont(ok)ra a bejelentett kapacitás igény változás éves szállítási teljesítménydíjának 1/365 részét a késedelem minden napjára (pótdíj).
+## 1.10.2.[^60] A lekötött kapacitás bejelentésének késedelme esetén a rendszerhasználó – a bejelentett kapacitás igényváltozás után a teljes szerződési időszakra felszámolt szállítási kapacitásdíjon felül – köteles a szállítói engedélyes részére megfizetni az adott átadási-átvételi pont(ok)ra a bejelentett kapacitás igény változás éves szállítási kapacitásdíjának 1/365 részét a késedelem minden napjára (pótdíj).
 
 ## 1.10.3. Az 1.10.2. pont szerinti pótdíjra vonatkozó számlát a szállítói engedélyes a szállítási kapacitásdíj számlájával együtt jogosult kiállítani a rendszerhasználó számára, aki a pótdíjakra és utólagos kapacitásdíjra vonatkozó számlát a szállítási kapacitásdíj számlájával együtt köteles kiegyenlíteni.
 
@@ -162,9 +166,9 @@
 
 ## 2.1. Általános szabályok
 
-## 2.1.1. Az elosztási forgalmi díjat a 2. § (1) bekezdés a) pont ab) alpontja szerinti átadási-átvételi pontokon mért földgáz mennyisége alapján kell megfizetni.
+## 2.1.1.[^61] Az elosztási forgalmi díjat a 2. § (1) bekezdés a) pont ab) alpontja szerinti átadási-átvételi pontokon mért földgáz mennyiség alapján számított hőmennyiségre kell megfizetni.
 
-## 2.1.2. A tárgyhó első napján esedékes elosztási kapacitásdíjat azon felhasználóknak (felhasználók után) kell fizetni, amelyeknek a 2. § (1) bekezdés a) pont ab) alpontja szerinti átadási-átvételi pontján a legnagyobb kapacitású gázfogyasztást mérő gázmérők névleges összkapacitása nagyobb 100 m3/h-nál. Ezen felhasználók tekintetében a rendszerhasználó szerződési időszakon belüli legnagyobb kapacitás-lekötése nem lehet kisebb 101 m3/h-nál.
+## 2.1.2.[^62] A tárgyhó első napján esedékes elosztási kapacitásdíjat azon felhasználóknak (felhasználók után) kell fizetni, amelyeknek a 2. § (1) bekezdés a) pont ab) alpontja szerinti átadási-átvételi pontján a legnagyobb kapacitású gázfogyasztást mérő gázmérők névleges összkapacitása nagyobb 100 m3/h-nál. Ezen felhasználók tekintetében a rendszerhasználó szerződési időszakon belüli legnagyobb kapacitás-lekötése nem lehet kisebb 3131 MJ/h-nál.
 
 ## 2.1.3. A tárgyhó első napján esedékes elosztási alapdíjat azon felhasználók után kell megfizetni, amelyeknek a 2. § (1) bekezdés a) pont ab) alpontja szerinti átadási-átvételi pontján a legnagyobb kapacitású gázfogyasztást mérő gázmérők névleges összkapacitása 100 m3/h vagy annál kisebb. Ha ezen gázmérők névleges összkapacitása 20 m3/h-nál kisebb, az elosztási alapdíjat a felhasználók után a felhasználók száma szerint kell megfizetni. Ha a legnagyobb kapacitású gázfogyasztást mérő gázmérők névleges összkapacitása 20 és 100 m3/h érték között van, az elosztási alapdíjat a gázmérők névleges (össz)kapacitásával (melyeken a szerződési időszakban földgázt vételez) szorozva kell kiszámítani.
 
@@ -182,7 +186,7 @@
 
 ## a) a 2. melléklet 2. pont a) sorában szereplő elosztási átalánydíjnak, és
 
-## b) az 1. mellékletben meghatározott fogyasztásnak
+## b)[^63] az 1. mellékletben meghatározott hőmennyiségben kifejezett fogyasztásnak
 
 ## a szorzataként meghatározott elosztási átalánydíjat kell fizetni.
 
@@ -225,6 +229,8 @@
 ## 2.1.18. Az adott hónapban, az utólagos kapacitásdíjat az 7. § (6) bekezdésének a)–d) pontjaiban megnevezett rendszerhasználóaknak a megelőző hónap, –12 °C-nál hidegebb átlaghőmérsékletű napján jogosulatlanul igénybe vett legnagyobb többletkapacitás feletti kapacitásra kell megfizetni.
 
 ## 2.1.19. Az elosztói engedélyes által havonta beszedett pótdíjak, valamint a –12 °C-nál hidegebb időben a többletértékesítés miatt felmerült többletköltség egyenlege éves szinten kiszámításra kerül. A negatív egyenleg közvetlenül a következő díjmegállapításnál, a pozitív egyenleg – a Hivatal döntése alapján – közvetlenül a következő díjmegállapításnál vagy közvetetten a kapacitásgazdálkodás elvét elősegítő beruházások megvalósításánál kerül figyelembevételre.
+
+## 2.1.20.[^64] A kapacitás-túllépés miatti pótdíj és az utólagos kapacitásdíj kiszámításánál a kapacitás MJ/h mértékegységben történő megállapításához az adott gázátadó gázátadó állomáshoz rendelt, a szállítóvezetéken mért tény fűtőértéket kell figyelembe venni.
 
 ## 2.2. Az éves elosztási kapacitás-igénybevétel szabályai az átadási-átvételi pontokon
 
@@ -318,17 +324,17 @@
 
 ## 2.9.2. Az elosztóvezetékre csatlakozó fogyasztók esetében az elosztói engedélyes által rendszeres időközönként leolvasott – ennek hiányában jogszabály vagy az üzletszabályzatok szerint meghatározott – földgáz mennyisége jelenti az elosztási forgalmi díj fizetésének az alapját.
 
-## 2.9.3. Áramlástanilag azonos elosztóvezetéken lévő átadóállomásokra a mérlegkört alkotó, nyilvántartásba vett feljogosított fogyasztók az átadási-átvételi pontok kapacitás-lekötéseinek összevonásában is megállapodhatnak az elosztói engedélyessel.
+## 2.9.3.[^65] Áramlástanilag azonos elosztóvezetéken lévő átadóállomásokra a felhasználók az átadási-átvételi pontok kapacitás-lekötéseinek összevonásában is megállapodhatnak az elosztói engedélyessel.
 
 ## 3. Tárolási díjrendszer
 
 ## 3.1. A 2. mellékletben megállapított tárolási tarifák az ÜKSZ-ben meghatározott tárolói rendszerszintű alapszolgáltatásokra nyújtanak fedezetet az alábbi korlátok figyelembevételével, melyek részletes leírását a tárolói engedélyes a szerződő partnerek részére a szerződéskötési folyamatot megelőzően biztosítja:
 
-## a) a rendszerhasználó a tároló kitárolásának és betárolásának az indítására vonatkozó – a tárolói engedélyes üzletszabályzatában rögzített – szabályoknak megfelelően veheti igénybe a tárolási szolgáltatást; az indításkor elérhető csúcskapacitást a tárolói engedélyes honlapján folyamatosan közzéteszi;
+## a)[^66] a rendszerhasználó a tároló kitárolásának és betárolásának az indítására vonatkozó – a tárolói engedélyes üzletszabályzatában rögzített – szabályoknak megfelelően veheti igénybe a tárolási szolgáltatást; az indításkor elérhető kapacitást a tárolói engedélyes honlapján folyamatosan közzéteszi;
 
 ## b) a lekötött tárolói csúcskapacitás a tároló töltöttségének függvényében áll a rendszerhasználók részére; a mindenkori igénybe vehető csúcskapacitás a tárolói engedélyes informatikai rendszerében ellenőrizhető;
 
-## c) tárolói kiadási pontokon gázminőség-változás következhet be a betárolt gáz és az eltérő minőségű tárolói párnagáz keveredése miatt; a tárolói engedélyes a betárolt és kitárolt hőmennyiség különbözetét a tárolási szerződés szerint elszámolja a tároltatóval.
+## c)[^67]
 
 ## 3.2. Ha a tárolói szolgáltatást igénybe vevő a betárolási ciklusban a tárolási szerződésben rögzítettnél több mobilkapacitást igényel, akkor a többlet mobilkapacitás-igényre a korábban megállapított tárolói mobildíjjal számított többlet tárolói mobildíjat kell megfizetnie a tárolói szolgáltatást igénybe vevőnek a hátralévő tárolási időszakban, havi egyenletes részletekben.
 
@@ -408,4 +414,24 @@
 
 4. melléklet a 31/2009. (VI. 25.) KHEM rendelethez
 
-[^16]: A 3. melléklet 1. pontjának 1.1.13. alpontja e rendelet 11. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^47]: A 3. melléklet 1.1.1. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^48]: A 3. melléklet 1.1.2. alpont a) alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^49]: A 3. melléklet 1.1.3. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^50]: A 3. melléklet 1.1.9. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^51]: A 3. melléklet 1. pontjának 1.1.13. alpontja e rendelet 11. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^52]: A 3. melléklet 1.1.17. alpontját a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése iktatta be.
+[^53]: A 3. melléklet 1.2.4. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^54]: A 3. melléklet 1.3.1. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^55]: A 3. melléklet 1.3.9. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^56]: A 3. melléklet 1.4.1. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^57]: A 3. melléklet 1.6.1. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^58]: A 3. melléklet 1.8. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^59]: A 3. melléklet 1.10.1. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^60]: A 3. melléklet 1.10.2. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^61]: A 3. melléklet 2.1.1. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^62]: A 3. melléklet 2.1.2. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^63]: A 3. melléklet 2.1.9. alpont b) alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^64]: A 3. melléklet 2.1.20. alpontját a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése iktatta be.
+[^65]: A 3. melléklet 2.9.3. alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^66]: A 3. melléklet 3.1. alpont a) alpontja a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^67]: A 3. melléklet 3.1. alpont c) alpontját a 4/2010. (VI. 30.) NFM rendelet 7. § (3) bekezdése hatályon kívül helyezte.

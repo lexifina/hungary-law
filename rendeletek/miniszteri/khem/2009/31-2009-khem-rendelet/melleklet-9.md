@@ -18,6 +18,6 @@
 
 ## i: az elosztói index.
 
-9. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^19]
+9. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^70]
 
-[^19]: A 9. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 4/2010. (VI. 30.) NFM rendelet 8. § (3) bekezdése.
+[^70]: A 9. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 4/2010. (VI. 30.) NFM rendelet 8. § (3) bekezdése.
