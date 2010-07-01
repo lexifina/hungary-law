@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | --- | --- | --- |
 | 2009-05-29 | 2005-24-20-0L.7 | 24/2005. (IV. 21.) GKM rendelet |
 | 2010-01-07 | 2005-24-20-0L.8 | 85/2009. (XII. 30.) KHEM rendelet |
+| 2010-07-01 | 2005-24-20-0L.9 | 85/2009. (XII. 30.) KHEM rendelet |

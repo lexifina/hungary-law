@@ -20,9 +20,9 @@ h) kinevezi a Szakmai Vizsgabizottság vizsgabiztosait;
 
 i)[^77] meghatározza a vizsgabiztosi felsőfokú szaktanfolyami képzés tartalmát, a felvételi vizsga és a képesítő vizsga tartalmát, valamint továbbképzésük tartalmát, módszereit és feltételeit;
 
-[j)[^78] meghatározza a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során elektronikusan rögzített adatok körét;
+j)[^78] meghatározza a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során elektronikusan rögzített adatok körét;
 
-k)[^79] a járművezetők és a közúti közlekedési szakemberek biztonságos és hatékony tevékenységre való felkészítésének javítása, illetőleg a korszerű tantervek, módszerek, követelmények meghatározása, valamint ezek összehangolása céljából a 16. számú melléklet szerint szakértői testületet hozhat létre, amely részt vesz az NKH Központi Hivatala vezetője által meghatározott eljárási rendnek megfelelően az a), e), i) és j) pontban meghatározott feladatok teljesítésében.]
+k)[^79] a járművezetők és a közúti közlekedési szakemberek biztonságos és hatékony tevékenységre való felkészítésének javítása, illetőleg a korszerű tantervek, módszerek, követelmények meghatározása, valamint ezek összehangolása céljából a 16. számú melléklet szerint szakértői testületet hozhat létre, amely részt vesz az NKH Központi Hivatala vezetője által meghatározott eljárási rendnek megfelelően az a), e), i) és j) pontban meghatározott feladatok teljesítésében.
 
 [^71]: A 16. §-t megelőző alcím a 95/2006. (XII. 27.) GKM rendelet 63. § c) pontja szerint módosított szöveg.
 [^72]: A 16. § felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § c) pontja szerint módosított szöveg.
@@ -31,5 +31,5 @@ k)[^79] a járművezetők és a közúti közlekedési szakemberek biztonságos 
 [^75]: A 16. § e) pontja a 85/2009. (XII. 30.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^76]: A 16. § g) pontja a 95/2006. (XII. 27.) GKM rendelet 63. § j) pontja szerint módosított szöveg.
 [^77]: A 16. § i) pontja a 85/2009. (XII. 30.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^78]: A 16. § j) pontját a 85/2009. (XII. 30.) KHEM rendelet 10. § (4) bekezdése iktatta be. [E módosító rendelet 21. § (4) bekezdése alapján 2010. július 1-jén lép hatálya.]
-[^79]: A 16. § k) pontját a 85/2009. (XII. 30.) KHEM rendelet 10. § (4) bekezdése iktatta be. [E módosító rendelet 21. § (4) bekezdése alapján 2010. július 1-jén lép hatálya.]
+[^78]: A 16. § j) pontját a 85/2009. (XII. 30.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+[^79]: A 16. § k) pontját a 85/2009. (XII. 30.) KHEM rendelet 10. § (4) bekezdése iktatta be.
