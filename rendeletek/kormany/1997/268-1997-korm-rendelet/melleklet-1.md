@@ -72,9 +72,7 @@ m)[^118] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír
 
 3. A pénztár nem köteles eladni a tulajdonában lévő, tőzsdéről kivezetésre kerülő részvényt az e rendelet befektetési kategóriáinak történő megfelelés céljából. Az ilyen értékpapírok aránya azonban nem haladhatja meg a befektetett pénztári eszközök 5%-át.
 
-4. A pénztár csak állampapír alapú repót (fordított repót) köthet.
-
-[4.[^119] A pénztár csak állampapír alapú repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.]
+4.[^119] A pénztár csak állampapír alapú repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
 
 5. Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
 
@@ -84,4 +82,4 @@ m)[^118] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír
 [^116]: Az 1. számú melléklet 1. k) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^117]: Az 1. számú melléklet 1. l) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^118]: Az 1. számú melléklet 1. m) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^119]: Az 1. számú melléklet a 332/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg. [E módosító törvény 7. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.]
+[^119]: Az 1. számú melléklet a 332/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
