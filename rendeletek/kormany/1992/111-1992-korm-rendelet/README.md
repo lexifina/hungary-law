@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 1992-111-20-22.4 | 111/1992. (VII. 1.) Korm. rendelet |
+| 2010-07-01 | 1992-111-20-22.5 | 203/2010. (VI. 28.) Korm. rendelet |
