@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | --- | --- | --- |
 | 2010-01-01 | 1993-9-20-3D.67 | 9/1993. (IV. 2.) NM rendelet |
 | 2010-06-01 | 1993-9-20-3D.68 | 35/2010. (V. 14.) EüM rendelet |
+| 2010-07-01 | 1993-9-20-3D.69 | 62/2007. (XII. 29.) EüM rendelet |
