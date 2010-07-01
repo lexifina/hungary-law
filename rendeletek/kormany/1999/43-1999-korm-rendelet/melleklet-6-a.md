@@ -90,7 +90,7 @@
 
 |  | Összesen | 757 632,1 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^385]
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^387]
 
 ## Ambuláns adatlap
 
@@ -554,4 +554,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^385]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni. A 6/A. számú melléklet a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^387]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni. A 6/A. számú melléklet a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.

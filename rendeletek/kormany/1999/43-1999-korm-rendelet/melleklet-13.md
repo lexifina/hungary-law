@@ -32,6 +32,6 @@
 
 ## * Táplálkozás, tisztálkodás, öltözködés, széklet és vizelet kontinencia, önálló helyzetváltoztatás (felkelés, lefekvés).
 
-13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^393]
+13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^395]
 
-[^393]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.
+[^395]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.

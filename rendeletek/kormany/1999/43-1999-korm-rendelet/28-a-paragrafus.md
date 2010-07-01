@@ -1,4 +1,4 @@
-28/A. §[^229] (1) Az aktív fekvőbeteg-szakellátás területén a külön jogszabályban meghatározott sürgősségi ellátási szinteknek megfelelő szolgáltatást nyújtó, vagy a traumatológiai ellátás területén 24 órás, folyamatos betegfelvételt biztosító szolgáltató abban az esetben jogosult az R.-ben meghatározott havi fix összegű díjra, ha
+28/A. §[^230] (1) Az aktív fekvőbeteg-szakellátás területén a külön jogszabályban meghatározott sürgősségi ellátási szinteknek megfelelő szolgáltatást nyújtó, vagy a traumatológiai ellátás területén 24 órás, folyamatos betegfelvételt biztosító szolgáltató abban az esetben jogosult az R.-ben meghatározott havi fix összegű díjra, ha
 
 a) a gyógyintézetben intenzív osztály és legalább 3 további szakmában szervezett aktív fekvőbeteg osztály működik, ideértve a mátrix szervezetben működő gyógyintézeteket is,
 
@@ -10,4 +10,4 @@ A díjazás fedezetére az 5. számú melléklet szerinti összevont szakellát�
 
 (2) Az (1) bekezdésben foglalt feltételeket – a b) és c) pontban foglaltak kivételével – nem kell alkalmazni a speciális sürgősségi centrumok esetében.
 
-[^229]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 18. § (3)–(5) bekezdését.
+[^230]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 18. § (3)–(5) bekezdését.

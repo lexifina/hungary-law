@@ -1,4 +1,4 @@
-## 44/A. §[^355] Az OEP az 5. számú mellékletben az Összevont szakellátáson belül a rendkívüli kiadásokra rendelkezésre álló előirányzat mértékéig finanszírozza
+## 44/A. §[^356] Az OEP az 5. számú mellékletben az Összevont szakellátáson belül a rendkívüli kiadásokra rendelkezésre álló előirányzat mértékéig finanszírozza
 
 a) az A(H1N1)v vírus által okozott járvánnyal kapcsolatban felmerülő többletszolgáltatásokat,
 
@@ -12,4 +12,4 @@ e) a befogadási eljárás megindításától a finanszírozás jogi feltételei
 
 f) a tételes elszámolású, egyszer-használatos eszközt befogadott indikáción kívüli indikációban (müszfinchter).
 
-[^355]: A 44/A. §-t a 166/2010. (V. 11.) Korm. rendelet 6. §-a iktatta be.
+[^356]: A 44/A. §-t a 166/2010. (V. 11.) Korm. rendelet 6. §-a iktatta be, e módosító rendelet 10. §-a alapján hatályát vesztette 2011. január 1. napjával.

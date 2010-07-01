@@ -46,7 +46,7 @@
 
 ## szolgáltató
 
-16. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^396]
+16. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^398]
 
 ## Havi betegszállítási teljesítményjelentés adattartama
 
@@ -108,4 +108,4 @@ Dátum: ...... év ................ hó ..... nap
 
 szolgáltató
 
-[^396]: A 16. számú melléklet a 283/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
+[^398]: A 16. számú melléklet a 283/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
