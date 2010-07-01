@@ -1,1 +1,0 @@
-A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 28. § (3) bekezdése alapján, az Alkotmány 35. § (1) bekezdés a) és c) pontjában meghatározott feladatkörében, az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotó hatáskörében eljárva a következőket rendeli el:

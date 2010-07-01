@@ -1,1 +1,0 @@
-## 9. § A társadalompolitikai minisztert a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 31. § (2) bekezdésében meghatározott esetben a Miniszterelnöki Hivatalt vezető miniszter helyettesíti.
