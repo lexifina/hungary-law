@@ -119,3 +119,7 @@ VI. A szolgálat teljesítésének adatai:
 – betöltött beosztás(ok),
 
 – helyettesítési megbízások,
+
+– a fegyveres szervek tanintézeteiben folytatott tanulmányok,
+
+– szolgálati besorolás fegyvernem, szakcsapat, szolgálati ág,
