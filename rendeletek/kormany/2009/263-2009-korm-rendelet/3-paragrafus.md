@@ -1,1 +1,0 @@
-## „(6) A pirotechnikai tevékenység helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság (a továbbiakban: engedélyező hatóság) a pirotechnikai gyártási, állandó és ideiglenes tárolási engedélyeket a tevékenység helye szerint illetékes helyi önkormányzat (Budapesten a kerületi önkormányzat) jegyzőjének tájékoztatás céljából megküldi.”
