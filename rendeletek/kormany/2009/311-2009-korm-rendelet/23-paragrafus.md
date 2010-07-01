@@ -8,15 +8,10 @@
 
 (3) A Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
 
-(4) Az Éhk.-ban 2009. december 31-ig kijelölt másodfokú építésfelügyeleti hatóság
+(4)[^11]
 
-a) a folyamatban lévő építésfelügyeleti hatósági ügyekkel kapcsolatos iratokat legkésőbb 2010. január 15-ig,
-
-b) az a) pontban foglaltakon kívüli egyéb iratokat folyamatosan, de legkésőbb 2010. április 1-jéig
-
-megküldi az építésügyért felelős miniszternek.
-
-(5)[^11]
+(5)[^12]
 
 [^10]: A 22. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
-[^11]: A 23. § (5) bekezdését a 26. § (1) bekezdése hatályon kívül helyezte.
+[^11]: A 23. § (4) bekezdését a 26. § (2) bekezdése hatályon kívül helyezte.
+[^12]: A 23. § (5) bekezdését a 26. § (1) bekezdése hatályon kívül helyezte.

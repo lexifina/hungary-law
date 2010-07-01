@@ -1,4 +1,4 @@
-## 24–25. §[^12]
+## 24–25. §[^13]
 
 26. § (1) Az 1. §-t megelőző alcím, az 1–22. §, a 23. § (5) bekezdése és a 24–25. § 2010. január 2-án hatályát veszti.
 
@@ -6,4 +6,4 @@
 
 (3) E § 2010. július 2-án hatályát veszti.
 
-[^12]: A 24–25. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
+[^13]: A 24–25. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
