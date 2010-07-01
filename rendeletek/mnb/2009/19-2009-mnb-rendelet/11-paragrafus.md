@@ -1,5 +1,0 @@
-## ÜZLETMENET FOLYTONOSSÁG
-
-11. § (1) A pénzforgalmi elszámolóháznak olyan – a lehetséges, a biztonságot fenyegető rendkívüli eseményekben realizálódó biztonsági kockázatok teljes körének felmérésén és elemzésén alapuló – tesztelt üzletmenet folytonossági tervvel kell rendelkeznie, amely az intézkedésre jogosult, felelős személyek megnevezésével részletes akcióterveket tartalmaz a rendkívüli esemény bekövetkeztekor a biztonság lehető leggyorsabb helyreállítására, illetve a folyamatos üzletmenet biztosításával a fizetési rendszer működtetésének krízishelyzetben történő folytatására.
-
-(2) Az üzletmenet folytonossági tervben meg kell határozni, hogy fizetési rendszer működtetésének krízishelyzetben történő folytatását biztosító erőforrások, rendszerek egészét, illetve egyes elemeit, illetőleg az üzletmenet folytonosságát szolgáló akcióterveket milyen tesztkörnyezetben és milyen gyakorisággal kell tesztelni, valamint hogy hogyan kell gondoskodni az akciótervek rendszeres, szabályozott keretek között folytatott aktualizálásáról.
