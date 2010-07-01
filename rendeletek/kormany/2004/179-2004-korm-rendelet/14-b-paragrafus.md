@@ -1,10 +1,10 @@
-14/B. §[^45] (1) A KPSZE felelősségi körébe tartozik a PMC terhére a (2) bekezdés szerinti támogatható kiadások vonatkozásában:
+14/B. §[^46] (1) A KPSZE felelősségi körébe tartozik a PMC terhére a (2) bekezdés szerinti támogatható kiadások vonatkozásában:
 
 a) a KPSZE hatáskörébe utalt PMC forrásokhoz kapcsolódó kifizetések szabályszerűségének biztosítása, valamint a pénzügyi és adminisztrációs feladatok ellátása a PMC források felhasználása tekintetében is,
 
 b) a Felelős Hatóság saját hatáskörben tartott feladatai ellátását szolgáló PMC forrás felhasználásához kapcsolódó közbeszerzések és szerződéskötések lebonyolítása, továbbá az ezzel összefüggő adminisztrációs feladatok ellátása. A Felelős Hatóság biztosítja ezen közbeszerzési eljárások lebonyolításához szükséges szakmai információkat.
 
-c)[^46]
+c)[^47]
 
 (2) A KPSZE az Indikatív Programban rögzített keret erejéig a KPSZE hatáskörébe utalt feladatok megvalósítása során felmerülő alábbi tevékenységek finanszírozására fordíthat PMC forrásokat:
 
@@ -18,5 +18,5 @@ d) a Schengen Alap forrásainak belső ellenőrzési költségei, valamint a kö
 
 (3) Amennyiben a KPSZE a (2) bekezdésben felsoroltakon kívüli egyéb, a program végrehajtásával összefüggő tevékenység finanszírozására kíván PMC forrást igénybe venni, ehhez a Felelős Hatóság előzetes jóváhagyását kell kérnie.
 
-[^45]: A 14/B. §-t a 143/2006. (VI. 29.) Korm. rendelet 9. §-a iktatta be.
-[^46]: A 14/B. § (1) bekezdésének c) pontját a 306/2007. (XI. 14.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^46]: A 14/B. §-t a 143/2006. (VI. 29.) Korm. rendelet 9. §-a iktatta be.
+[^47]: A 14/B. § (1) bekezdésének c) pontját a 306/2007. (XI. 14.) Korm. rendelet 7. §-a hatályon kívül helyezte.

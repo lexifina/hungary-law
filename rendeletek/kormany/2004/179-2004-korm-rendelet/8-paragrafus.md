@@ -1,8 +1,8 @@
-## 7. §[^30] A Felelős Hatóság felel a lebonyolításban érintett intézmények felkészültségéről, valamint a kialakított lebonyolítási és ellenőrzési rendszerekről az Európai Bizottságnak történő beszámolásért, továbbá meggyőződik arról, hogy a közreműködő intézményrendszer a közösségi és hazai előírásoknak megfelel.
+## 7. §[^31] A Felelős Hatóság felel a lebonyolításban érintett intézmények felkészültségéről, valamint a kialakított lebonyolítási és ellenőrzési rendszerekről az Európai Bizottságnak történő beszámolásért, továbbá meggyőződik arról, hogy a közreműködő intézményrendszer a közösségi és hazai előírásoknak megfelel.
 
-## 8. §[^31] A Felelős Hatóság a 6. §-ban előírt feladatainak ellátása érdekében:
+## 8. §[^32] A Felelős Hatóság a 6. §-ban előírt feladatainak ellátása érdekében:
 
-a)[^32] Delegálási Megállapodást köt a fejlesztési feladatok pénzügyi megvalósítására vonatkozóan a KPSZE-vel felelősségi és hatásköre, továbbá jelentéstételi kötelezettsége meghatározásáról,
+a)[^33] Delegálási Megállapodást köt a fejlesztési feladatok pénzügyi megvalósítására vonatkozóan a KPSZE-vel felelősségi és hatásköre, továbbá jelentéstételi kötelezettsége meghatározásáról,
 
 b) jogosult a szakmai és pénzügyi lebonyolításra, hazai társfinanszírozásra, szabálytalanságokra vonatkozó adatok, dokumentumok és bizonylatok bekérésére, valamint kiegészítő információk kérésére a lebonyolításban érintett szervektől,
 
@@ -10,6 +10,6 @@ c) jogosult a szakmai és pénzügyi lebonyolításra vonatkozó eljárások, ad
 
 d) a véglegesítést megelőzően véleményezi a lebonyolításban érintett szervek eljárásrendjét a pénzügyi lebonyolításra, a számviteli nyilvántartásra, valamint az alkalmazott ellenőrzési és irányítási rendszerekre vonatkozóan.
 
-[^30]: A 7. § a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
-[^31]: A 8. § felvezető szövege a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
-[^32]: A 8. § a) pontja a 143/2006. (VI. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^31]: A 7. § a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^32]: A 8. § felvezető szövege a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^33]: A 8. § a) pontja a 143/2006. (VI. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
