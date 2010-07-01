@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-317-20-
 | --- | --- | --- |
 | 2010-01-01 | 2006-317-20-22.9 | 317/2006. (XII. 23.) Korm. rendelet |
 | 2010-05-01 | 2006-317-20-22.10 | 139/2010. (IV. 28.) Korm. rendelet |
+| 2010-07-01 | 2006-317-20-22.11 | 180/2010. (V. 13.) Korm. rendelet |
