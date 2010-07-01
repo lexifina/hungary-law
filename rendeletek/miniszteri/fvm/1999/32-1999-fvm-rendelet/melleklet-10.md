@@ -174,7 +174,7 @@
 
 ## 4.14. Az állatoknak friss vizet kell biztosítani szállításuk teljes időtartama alatt.
 
-10. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^90]
+10. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^89]
 
 ## Az étkezési célra szánt halak tárolásának és szállításának minimális követelményei
 
@@ -240,4 +240,4 @@ b) 10–20 °C közötti vízhőmérsékleten mérsékelten érzékeny halfajok 
 
 c) 20 °C feletti vízhőmérsékleten mérsékelten érzékeny halfajok szállítása esetén legfeljebb 300 kg hal vízköbméterenként, érzékeny halfajok szállítása esetén legfeljebb 100 kg hal vízköbméterenként.
 
-[^90]: A 10. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.
+[^89]: A 10. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.

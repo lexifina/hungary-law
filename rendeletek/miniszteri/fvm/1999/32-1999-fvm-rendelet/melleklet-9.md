@@ -32,7 +32,7 @@
 
 ## 1.7. A ketreceket vagy fülkéket úgy kell kialakítani és folyamatosan karbantartani, hogy azok megrágásuk esetén se okozhassanak sérülést az állatoknak, valamint az állatok fájdalom- és sérülésmentesen kivehetők legyenek.
 
-## [1.8.[^87] Lemezes, átláthatatlan oldalfalú ketrecben nyulat tartani – kivéve bakok fedezésekor és ondóvételekor – tilos. Amennyiben az alkalmazott ketrec- vagy fülketípus lehetővé teszi, biztosítani kell az állatok számára, hogy fajtársaikat láthassák.]
+## [1.8.[^86] Lemezes, átláthatatlan oldalfalú ketrecben nyulat tartani – kivéve bakok fedezésekor és ondóvételekor – tilos. Amennyiben az alkalmazott ketrec- vagy fülketípus lehetővé teszi, biztosítani kell az állatok számára, hogy fajtársaikat láthassák.]
 
 ## 1.9. A ketrecek padozata úgy legyen kialakítva, hogy az állatok ne érintkezzenek ürülékkel.
 
@@ -60,7 +60,7 @@
 
 ## 2.8. A szoptató anyanyulak számára folyamatos takarmányellátást kell biztosítani.
 
-## [2.9.[^88] Fémrács padozat alkalmazása esetén legalább 25×40 cm nagyságú, lehetőség szerint perforált pihenőlap biztosítása szükséges.]
+## [2.9.[^87] Fémrács padozat alkalmazása esetén legalább 25×40 cm nagyságú, lehetőség szerint perforált pihenőlap biztosítása szükséges.]
 
 ## 3. Baknyulak tartásának minimális követelményei
 
@@ -80,8 +80,8 @@
 
 ## 4.5. Nyolc nyúlnál több állat együtt tartása esetén a tartási helyre rágófát kell tenni az agresszív viselkedés mérséklése érdekében.
 
-9. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^89]
+9. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^88]
 
-[^87]: A 8. számú melléklet 1.8. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdése c) pontja alapján 2020. január 1-jén lép hatályba.
-[^88]: A 8. számú melléklet 2.9. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdése d) pontja alapján 2016. január 1-jén lép hatályba.
-[^89]: A 9. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.
+[^86]: A 8. számú melléklet 1.8. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdése c) pontja alapján 2020. január 1-jén lép hatályba.
+[^87]: A 8. számú melléklet 2.9. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdése d) pontja alapján 2016. január 1-jén lép hatályba.
+[^88]: A 9. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.
