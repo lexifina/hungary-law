@@ -1,8 +1,6 @@
-## 8. § Élő halak kiskereskedelmi létesítményben történő árusítása esetén be kell tartani a külön jogszabályban foglalt állatvédelmi előírásokat is.
-
 ## Tej és tejtermékek forgalomba hozatalának élelmiszer-higiéniai feltételei
 
-9. §[^9] (1) Azok a kiskereskedelmi létesítmények, amelyek marginális, helyi és korlátozott tevékenységként,
+9. §[^11] (1) Azok a kiskereskedelmi létesítmények, amelyek marginális, helyi és korlátozott tevékenységként,
 
 a) a végső fogyasztó számára történő értékesítés céljából az átadás helyén élelmiszer-feldolgozási tevékenységet végeznek, vagy
 
@@ -20,4 +18,4 @@ b) az (1) bekezdés szerinti kiskereskedelmi létesítményben a viszonteladókn
 
 c) a viszonteladó vendéglátó egység, vagy olyan kiskereskedelmi egység része, amelyben kizárólag a végső fogyasztónak értékesítenek állati eredetű élelmiszert, vagy amely nem a 853/2004/EK rendelet alapján engedélyezendő létesítmény.
 
-[^9]: A 9. § a 42/2009. (IV. 11.) FVM rendelet 5. §-ával megállapított szöveg.
+[^11]: A 9. § a 42/2009. (IV. 11.) FVM rendelet 5. §-ával megállapított szöveg.
