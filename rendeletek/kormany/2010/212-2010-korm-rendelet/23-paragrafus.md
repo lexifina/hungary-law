@@ -1,0 +1,1 @@
+## 22. § A miniszter az állampolgársági ügyekért való felelőssége körében előkészíti és ellenjegyzi a köztársasági elnök döntéseit a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdésében foglaltakkal kapcsolatban, továbbá annak 5. §-ával összefüggésben is.

@@ -1,0 +1,3 @@
+112. § (1) A Kormány a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény szerinti kárszakértő, illetve vadgazdálkodási tervezésre jogosult szakértő szolgáltatási tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) szerinti szolgáltatás felügyeletét ellátó hatóságként a minisztert jelöli ki.
+
+(2) A Kormány az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 5. § (2) bekezdése szerinti agrárgazdasági és agrár-vidékfejlesztési szakértő szolgáltatási tevékenységek tekintetében a Szolgtv. szerinti szolgáltatás felügyeletét ellátó hatóságként a minisztert jelöli ki.

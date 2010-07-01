@@ -1,0 +1,23 @@
+49. § (1) A miniszter az egészségügyért és az egészségbiztosításért való felelőssége körében előkészíti különösen
+
+a) az emberi alkalmazásra kerülő gyógyszerek (a továbbiakban: gyógyszer) előállításának, gyártásának, minőségének, minőség-ellenőrzésének, forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának, kereskedelmi gyakorlatának, ismertetésének szabályait, a vizsgálati készítmények klinikai vizsgálatának és alkalmazásának szabályaira,
+
+b) a kábítószerként és pszichotróp anyagként minősített gyógyszerek forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának és felhasználásának szabályaira,
+
+c) a pénzügyekért felelős miniszterrel egyetértésben a gyógyszerek kereskedelmi árrésére, a gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szabályaira, a támogatott gyógyszerek, tápszerek, gyógyászati segédeszközök felülvizsgálatának szabályaira
+
+vonatkozó jogszabályokat továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
+
+(2) A miniszter az egészségügyért és az egészségbiztosításért való felelőssége körében előkészíti különösen
+
+a) a gyógyászati segédeszközökre,
+
+b) a gyógyászati ellátások rendszerére,
+
+c) a pénzügyekért felelős miniszterrel egyetértésben a gyógyászati segédeszközök, gyógyászati ellátások társadalombiztosítási támogatásba való befogadására, és
+
+d) az orvostechnikai eszközök előállításának, forgalomba hozatalának és alkalmazásának feltételeire, az orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetek kijelölésére valamint a kijelölt szervezetek tevékenységére
+
+vonatkozó jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
+
+(3) A miniszter az egészségügyért való felelőssége körében ellátja az orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetek kijelölésével összefüggésben részére jogszabályban meghatározott feladatokat.
