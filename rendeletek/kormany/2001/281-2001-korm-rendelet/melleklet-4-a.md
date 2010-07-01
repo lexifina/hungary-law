@@ -98,6 +98,6 @@
 
 ## b) Választható portfoliós rendszerben a referenciaindex hozamát (referenciahozamot) az egyes választható portfoliókra is ki kell számítani.
 
-4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^116]
+4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^115]
 
-[^116]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 10/2009. (I. 27.) Korm. rendelet 6. § (6) bekezdése és a 27/2009. (II. 13.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^115]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 10/2009. (I. 27.) Korm. rendelet 6. § (6) bekezdése és a 27/2009. (II. 13.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
