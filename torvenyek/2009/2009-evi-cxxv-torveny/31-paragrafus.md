@@ -62,14 +62,6 @@ c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásána
 
 (8) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a pénzügyminiszterrel egyetértésben rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
 
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2009. évi CXXV. törvényhez
 
 ## Speciális kommunikációs rendszerek
