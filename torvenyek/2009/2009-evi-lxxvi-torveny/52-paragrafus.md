@@ -1,6 +1,6 @@
 ## Korlátozó követelmények
 
-52. § Az 50. § és az 51. § a) pontja alkalmazásában korlátozó követelmény a szolgáltatási tevékenység megkezdésére való jogosultságra vagy a szolgáltatási tevékenység folytatására vonatkozóan jogszabályban vagy az alapján valamely szakmai szervezet szabályzatában előírt alábbi típusú követelmény:
+52. § Az 51. § a) pontja alkalmazásában korlátozó követelmény a szolgáltatási tevékenység megkezdésére való jogosultságra vagy a szolgáltatási tevékenység folytatására vonatkozóan jogszabályban vagy az alapján valamely szakmai szervezet szabályzatában előírt alábbi típusú követelmény:
 
 a) a szolgáltatási tevékenység mennyiségi vagy területi korlátozása, ideértve a szolgáltatást igénybe vevők száma vagy a szolgáltatók működési területe között megengedett legkisebb földrajzi távolság formájában meghatározott korlátozást is,
 
