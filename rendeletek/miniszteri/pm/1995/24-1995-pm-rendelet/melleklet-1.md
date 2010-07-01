@@ -1,3 +1,6 @@
-1. számú melléklet a 24/1995. (XI. 22.) PM rendelethez[^41]
+## 12. §[^42] A 10/A. § tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
-[^41]: A melléklet megjelölését 1. számú mellékletre változtatta a 2/2003. (I. 30.) PM rendelet 3. § (1) bekezdése, szövege a 47/2006. (XII. 29.) PM rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+1. számú melléklet a 24/1995. (XI. 22.) PM rendelethez[^43]
+
+[^42]: A 12. §-t a 14/2010. (IV. 27.) PM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^43]: A melléklet megjelölését 1. számú mellékletre változtatta a 2/2003. (I. 30.) PM rendelet 3. § (1) bekezdése, szövege a 47/2006. (XII. 29.) PM rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

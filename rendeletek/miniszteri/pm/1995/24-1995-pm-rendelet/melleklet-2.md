@@ -4,7 +4,7 @@
 
 ## b) a gyógyszertárak,
 
-## c)[^42] a 2009. október 15. napján hatályos TEÁOR ‘08 47.1–47.7 és 47.91 szerinti kiskereskedelmi, az 56.1 és 56.3 szerinti vendéglátási (kivéve a mozgó szolgáltatásnyújtást), az 55.1–55.3 szerinti szálláshely-szolgáltatási, a 77.1–77.2 és 77.33 szerinti kölcsönzési és a 95.1–95.2 szerinti javítási tevékenységet folytató valamennyi adóalany, üzlet, mozgóbolt, kivéve:
+## c)[^44] a 2009. október 15. napján hatályos TEÁOR ‘08 47.1–47.7 és 47.91 szerinti kiskereskedelmi, az 56.1 és 56.3 szerinti vendéglátási (kivéve a mozgó szolgáltatásnyújtást), az 55.1–55.3 szerinti szálláshely-szolgáltatási, a 77.1–77.2 és 77.33 szerinti kölcsönzési és a 95.1–95.2 szerinti javítási tevékenységet folytató valamennyi adóalany, üzlet, mozgóbolt, kivéve:
 
 ## ca) a betétdíjas göngyöleget visszaváltó üzlet,
 
@@ -16,10 +16,10 @@
 
 ## ce) az utazási iroda, utazási ügynökség, turisztikai szolgáltató iroda utazási szolgáltatásai tekintetében;
 
-## d)[^43] a 2009. október 15. napján hatályos TEÁOR ‘08 46.2–46.7 szerinti nagykereskedelmi tevékenységet folytató adóalanyok, üzletek a részben vagy egészben készpénzzel vagy készpénz-helyettesítő eszközzel történő kiskereskedelmi értékesítésük tekintetében.
+## d)[^45] a 2009. október 15. napján hatályos TEÁOR ‘08 46.2–46.7 szerinti nagykereskedelmi tevékenységet folytató adóalanyok, üzletek a részben vagy egészben készpénzzel vagy készpénz-helyettesítő eszközzel történő kiskereskedelmi értékesítésük tekintetében.
 
-2. számú melléklet a 24/1995. (XI. 22.) PM rendelethez[^44]
+2. számú melléklet a 24/1995. (XI. 22.) PM rendelethez[^46]
 
-[^42]: Az 1. számú melléklet c) pontja a 41/2009. (XII. 22.) PM rendelet 5. §-ával megállapított szöveg.
-[^43]: Az 1. számú melléklet d) pontja a 41/2009. (XII. 22.) PM rendelet 5. §-ával megállapított szöveg.
-[^44]: A 2. számú mellékletet a 2/2003. (I. 30.) PM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 25/2006. (X. 27.) PM rendelet 2. § (4) bekezdése.
+[^44]: Az 1. számú melléklet c) pontja a 41/2009. (XII. 22.) PM rendelet 5. §-ával megállapított szöveg.
+[^45]: Az 1. számú melléklet d) pontja a 41/2009. (XII. 22.) PM rendelet 5. §-ával megállapított szöveg.
+[^46]: A 2. számú mellékletet a 2/2003. (I. 30.) PM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 25/2006. (X. 27.) PM rendelet 2. § (4) bekezdése.
