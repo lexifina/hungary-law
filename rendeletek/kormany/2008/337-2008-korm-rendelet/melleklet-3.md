@@ -408,7 +408,7 @@ Foglalkozás-orvostan
 
 foglalkozás-egészségügyi szakellátás
 
-[foglalkozás-egészségügyi orvosszakértői tevékenység]
+foglalkozás-egészségügyi orvosszakértői tevékenység
 
 Kardiológia
 
@@ -546,4 +546,4 @@ egészségbiztosítási orvosszakértés
 
 *sze*: külön jogszabály szerinti szakosodott egység
 
-[^57]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be. A 3. számú melléklet Rehabilitáció szakkellátáshoz tartozó, szögletes zárójelben lévő, kurzívan szedett sorát a 360/2009. (XII. 30.) Korm. rendelet 14. § (6) bekezdése iktatta be; e módosító rendelet 14. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^57]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése szerint módosított szöveg.
