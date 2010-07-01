@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-13-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-04-05 | 2009-13-20-1W.1 | 13/2009. (IV. 2.) OKM rendelet |
+| 2010-07-01 | 2009-13-20-1W.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
