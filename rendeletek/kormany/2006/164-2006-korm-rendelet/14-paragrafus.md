@@ -1,1 +1,0 @@
-## 13. § A miniszter a büntetés-végrehajtásért való felelőssége körében meghatározza a büntetés-végrehajtási oktatás, képzés és továbbképzés, továbbá a büntetetés-végrehajtási tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket.
