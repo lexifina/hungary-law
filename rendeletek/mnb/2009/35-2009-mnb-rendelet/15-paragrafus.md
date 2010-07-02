@@ -4,4 +4,6 @@
 
 15. § (1) Ez a rendelet 2010. július 1-jén lép hatályba.
 
-(2) Hatályát veszti a fizetési rendszer működtetésére vonatkozó tárgyi, technikai, biztonsági és üzletmenet folytonossági követelményekről szóló 19/2009. (VIII. 6.) MNB rendelet.
+(2)[^1]
+
+[^1]: A 15. § (2) bekezdését a 16. § (1) bekezdése hatályon kívül helyezte.
