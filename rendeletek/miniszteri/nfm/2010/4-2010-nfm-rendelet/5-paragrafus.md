@@ -1,1 +1,0 @@
-## „(7) A (4) bekezdés szerint díjfizetésre kötelezetteket az (1) és (2) bekezdésekben meghatározott díjakon felül más földgázszállítási díj-fizetési kötelezettség nem terheli. A 3. mellékletben meghatározott áralkalmazási feltételek a (4) bekezdés szerinti díjfizetésre kötelezettekre is megfelelően irányadó.”
