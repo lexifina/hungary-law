@@ -1,4 +1,4 @@
-## 22. §[^10]
+## 22. §[^11]
 
 ## Záró rendelkezések
 
@@ -8,10 +8,10 @@
 
 (3) A Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
 
-(4)[^11]
+(4)[^12]
 
-(5)[^12]
+(5)[^13]
 
-[^10]: A 22. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
-[^11]: A 23. § (4) bekezdését a 26. § (2) bekezdése hatályon kívül helyezte.
-[^12]: A 23. § (5) bekezdését a 26. § (1) bekezdése hatályon kívül helyezte.
+[^11]: A 22. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 23. § (4) bekezdését a 26. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 23. § (5) bekezdését a 26. § (1) bekezdése hatályon kívül helyezte.
