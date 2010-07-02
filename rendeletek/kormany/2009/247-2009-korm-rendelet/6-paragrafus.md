@@ -1,1 +1,0 @@
-## „(5) Az ellenőrzést végző szervek az ellenőrzés eredménye alapján döntenek arról, hogy a sportlétesítményben nézők részvételével vagy a nézők számának korlátozásával a sportrendezvény biztonságosan megrendezhető-e. Az ellenőrzést végző szervek az ellenőrzés eredményéről nyolc napon belül írásban értesítik az illetékes országos sportági szakszövetséget.”
