@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-7-00-00
 | 2010-01-29 | 2010. évi VII. törvény | 2010-7-00-00.0 (közlönyállapot) |
 | 2010-01-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-7-00-00.1 |
 | 2010-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-7-00-00.2 |
+| 2010-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-7-00-00.3 |
