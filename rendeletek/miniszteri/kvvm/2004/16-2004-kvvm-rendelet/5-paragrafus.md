@@ -48,7 +48,7 @@ Az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifen
 
 | 4. | Egyéb lámpák | nincs határérték |
 
-| 5. | A higanyt tartalmazó egyenáramú plazmakijelzőkben lévő, a katódporlasztásnál inhibitorként használt higany. | 30 mg |
+| 5. |  |  |
 
 | II. | Ólom |  |  |
 
@@ -147,4 +147,4 @@ Az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifen
 [^14]: Az 5. § j) pontját a 28/2008. (XII. 10.) KvVM rendelet 5. §-a iktatta be.
 [^15]: Az 5. § k) pontját a 17/2009. (X. 22.) KvVM rendelet 1. §-a iktatta be.
 [^16]: Az 5. § l) pontját a 17/2009. (X. 22.) KvVM rendelet 1. §-a iktatta be.
-[^17]: A melléklet a 31/2006. (VI. 28.) KvVM rendelet 2. §-ával megállapított, az 1/2007. (I. 18.) KvVM rendelet 2. §-a, a 28/2008. (XII. 10.) KvVM rendelet 6. §-a, a 17/2009. (X. 22.) KvVM rendelet 2. §-a, továbbá a 3. § (2)–(4) bekezdése szerint módosított szöveg.
+[^17]: A melléklet a 31/2006. (VI. 28.) KvVM rendelet 2. §-ával megállapított, az 1/2007. (I. 18.) KvVM rendelet 2. §-a, a 28/2008. (XII. 10.) KvVM rendelet 6. §-a, a 17/2009. (X. 22.) KvVM rendelet 2. §-a, továbbá a 3. § (2)–(5) bekezdése szerint módosított szöveg.
