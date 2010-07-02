@@ -42,6 +42,8 @@ p) értékeli a 72/2010/EU rendelet alapján a Bizottság által végzett ellen�
 
 q) a 185/2010/EU rendelet melléklet 1.2.2.2. b) pontjában megjelölt repülőszemélyzeti azonosító kártyát kiadja vagy kiadását a légitársaságnak engedélyezi,
 
-r) nemzeti légiközlekedés-védelmi határozatban (a továbbiakban: védelmi határozat) állapítja meg a 300/2008/EK rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat (a továbbiakban: 2010/774/EU bizottsági határozat) melléklet 8.1.1. pontja és 9.1.1. pontja alapján a 2010/774/EU bizottsági határozatban megjelölt átvizsgálások gyakoriságát,
+r)[^1] nemzeti légiközlekedés-védelmi határozatban (a továbbiakban: védelmi határozat) állapítja meg a 300/2008/EK rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat (a továbbiakban: 2010/774/EU bizottsági határozat) melléklet 8.1.1. pontja és 9.1.1. pontja alapján a 2010/774/EU bizottsági határozatban megjelölt átvizsgálások gyakoriságát,
 
 s) a nemzeti légiközlekedés védelmi programok és a 2010/774/EU bizottsági határozat alapján védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait.
+
+[^1]: A 13. § r) pontját az 53. § (3) bekezdése hatályon kívül helyezte 2012. április 29. napjával.
