@@ -1,6 +1,4 @@
-7. § (1) E rendelet 1–5. §-a és 6. § (2)–(5) bekezdései a hatálybalépésüket követő napon a hatályukat vesztik.
-
-(2) E § 2010. július 2-án hatályát veszti.
+7. §[^3]
 
 Melléklet a 275/2009. (XII. 3.) Korm. rendelethez
 
@@ -35,3 +33,5 @@ j) nyilatkozatokat a Cstv. 27/C. § (2) bekezdésének e)–f) pontjában és (3
 k) a Cstv. 27/C. § (2) bekezdésének e) pontjában említett hozzájáruló nyilatkozatokat.
 
 A pályázónak meg kell jelölnie azt is, hogy a székhelyén kívül – a 2. § b) pont szerinti pályázó esetén pedig a magyarországi cégbejegyzése helyén kívül – melyik legközelebb eső további három megyei (vagy fővárosi) bíróság illetékességi területén kívánja elsősorban folytatni a Cstv. szerinti tevékenységét.”
+
+[^3]: A 7. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
