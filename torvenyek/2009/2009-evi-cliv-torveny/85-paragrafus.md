@@ -1,3 +1,1 @@
-85. § A Gyftv. a következő 21/A. §-sal egészül ki:
-
-„21/A. § Az egészségbiztosítási szerv a gyógyászati segédeszközöket rendelő orvosok, valamint az ezeket használó betegek informáltságának erősítése érdekében honlapján internetes gyógyászatisegédeszköz-katalógust működtet – a külön jogszabályban meghatározott adattartalommal – a támogatott gyógyászati segédeszközökről.”
+85. §
