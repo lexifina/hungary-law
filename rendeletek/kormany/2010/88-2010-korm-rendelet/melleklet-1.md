@@ -1,3 +1,5 @@
+## 17. §[^2]
+
 1. melléklet a 88/2010. (III. 26.) Korm. rendelethez
 
 A növénytermesztési idénymunkára vonatkozó szabályozás hatálya alá tartozó növénytermesztési termékek, valamint a közteherelőleg megállapításánál figyelembe veendő fajlagos munkaidő szükséglet
@@ -51,3 +53,5 @@ A növénytermesztési idénymunkára vonatkozó szabályozás hatálya alá tar
 | 5. | Dohánytermesztés: | 1000 óra/hektár |
 
 | 6. | Vetőmag termesztés: | 1000 óra/hektár |
+
+[^2]: A 17. § a (2) bekezdés alapján hatályát vesztette.
