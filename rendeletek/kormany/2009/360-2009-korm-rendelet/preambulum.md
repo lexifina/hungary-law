@@ -1,1 +1,0 @@
-A Kormány az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 16. § (14) bekezdésében és a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli:
