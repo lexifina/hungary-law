@@ -1,3 +1,5 @@
+## 18. §[^2]
+
 1. melléklet a 180/2010. (V. 13.) Korm. rendelethez
 
 ## Az előzetes befogadási kérelem adattartalma
@@ -21,3 +23,5 @@
 9. A technológia finanszírozási jellemzői (hasonló finanszírozott technológiák megnevezése, javasolt finanszírozási paraméterek, költségvetési hatás bemutatása, javaslat a technológia végzésére alkalmas intézményi körre, európai uniós vonatkozások)
 
 10. A technológia hatásosságát, eredményességét, költséghatékonyságát alátámasztó tudományos bizonyítékok bemutatása (kutatás, átfogó technológia-elemzés, hazai és külföldi referenciák, publikációs jegyzék, szakorvosi vélemény)
+
+[^2]: A 18. § a (2) bekezdés alapján hatályát vesztette.
