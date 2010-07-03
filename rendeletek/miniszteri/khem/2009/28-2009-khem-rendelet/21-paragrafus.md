@@ -1,3 +1,3 @@
-## 20. §[^4] A 19. § (2)–(4) bekezdése 2010. július 2-án hatályát veszti. Ez a § 2010. július 3-án hatályát veszti.
+## 20. §[^4]
 
-[^4]: A 20. § ugyanezen § alapján hatályát veszti 2010. július 3-án.
+[^4]: A 20. § ugyanezen § alapján hatályát vesztette.
