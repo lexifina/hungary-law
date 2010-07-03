@@ -1,4 +1,6 @@
-9. § (1)[^13] Ez a rendelet 2004. január 1-jén lép hatályba.
+## 6–8. §[^16]
+
+9. § (1)[^17] Ez a rendelet 2004. január 1-jén lép hatályba.
 
 (2) Ahol e kormányrendelet hatálybalépése előtt alkotott kormányrendelet, miniszterelnöki rendelet, miniszteri rendelet, valamint kormányhatározat a Miniszterelnökség Közbeszerzési és Gazdasági Igazgatóságát említi, azon – ha jogszabály eltérően nem rendelkezik – Központi Szolgáltatási Főigazgatóságot kell érteni.
 
@@ -10,9 +12,9 @@ a) rendeletben szabályozza az üdülők igénybevételének rendjét és az üd
 
 b) meghatározza a Főigazgatóság által alkalmazandó üdülési díjakat,
 
-c)[^14] rendeletben szabályozza a Főigazgatóság által nyújtott, e rendelet 2. § a)–b) pontjaiban meghatározott gazdasági, informatikai, műszaki szolgáltatások körét, terjedelmét, valamint az igénybevétel rendjét, amelyre vonatkozóan a Főigazgatóság a minisztériumokkal megállapodást köt.[^15]
+c)[^18] rendeletben szabályozza a Főigazgatóság által nyújtott, e rendelet 2. § a)–b) pontjaiban meghatározott gazdasági, informatikai, műszaki szolgáltatások körét, terjedelmét, valamint az igénybevétel rendjét, amelyre vonatkozóan a Főigazgatóság a minisztériumokkal megállapodást köt.[^19]
 
-Melléklet a 272/2003. (XII. 24.) Korm. rendelethez[^16]
+Melléklet a 272/2003. (XII. 24.) Korm. rendelethez[^20]
 
 Országgyűlés Hivatala
 
@@ -30,7 +32,7 @@ Országos Rádió és Televízió Testület Irodája
 
 Állambiztonsági Szolgálatok Történeti Levéltára
 
-Miniszterelnöki Hivatal
+Miniszterelnökség
 
 Kormányzati Ellenőrzési Hivatal
 
@@ -38,33 +40,28 @@ Központi Statisztikai Hivatal
 
 Nemzeti Fejlesztési Ügynökség
 
-Önkormányzati és Területfejlesztési Minisztérium
+Közigazgatási és Igazságügyi Minisztérium
 
-Egészségügyi Minisztérium
+Nemzeti Fejlesztési Minisztérium
 
-Szociális és Munkaügyi Minisztérium
+Belügyminisztérium
 
-Földművelésügyi és Vidékfejlesztési Minisztérium
+Nemzetgazdasági Minisztérium
 
-Gazdasági és Közlekedési Minisztérium
+Vidékfejlesztési Minisztérium
 
-Honvédelmi Minisztérium
-
-Igazságügyi és Rendészeti Minisztérium
-
-Környezetvédelmi és Vízügyi Minisztérium
+Nemzeti Erőforrás Minisztérium
 
 Külügyminisztérium
 
-Oktatási és Kulturális Minisztérium
-
-Pénzügyminisztérium
+Honvédelmi Minisztérium
 
 Magyar Államkincstár
 
 Nemzeti Kutatási és Technológiai Hivatal
 
-[^13]: A 9. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 769. pontja hatályon kívül helyezte.
-[^14]: A 9. § (4) bekezdésének c) pontját a 298/2006. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
-[^15]: Lásd a 7/2007. (III. 19.) MeHVM rendeletet.
-[^16]: A melléklet a 298/2006. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^16]: A 6–8. §-t a 213/2010. (VII. 2.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^17]: A 9. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 769. pontja hatályon kívül helyezte.
+[^18]: A 9. § (4) bekezdésének c) pontját a 298/2006. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^19]: Lásd a 7/2007. (III. 19.) MeHVM rendeletet.
+[^20]: A melléklet a 213/2010. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.

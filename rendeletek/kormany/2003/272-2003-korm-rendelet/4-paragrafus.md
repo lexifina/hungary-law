@@ -1,4 +1,4 @@
-## 3. §[^9] A Főigazgatóság a feladatai ellátása során az üdültetési, elhelyezési, vendéglátási, üzemeltetési, gyermek- és ifjúsági, valamint egészségmegőrző-rehabilitációs feladatok tekintetében a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait, illetve működését veszi igénybe.[^10]
+## 3. §[^12] A Főigazgatóság a feladatai ellátása során az üdültetési, elhelyezési, vendéglátási, üzemeltetési, gyermek- és ifjúsági, valamint egészségmegőrző-rehabilitációs feladatok tekintetében a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait, illetve működését veszi igénybe.[^13]
 
 4. § (1) Az üdültetési rendszer igénybevételével a mellékletben meghatározott szervek (a továbbiakban: munkáltató) közszolgálati munkavállalói (köztisztviselők, közalkalmazottak és munkaviszonyban foglalkoztatott fizikai alkalmazottak), nyugdíjasai, illetve velük együtt üdülő hozzátartozók
 
@@ -20,5 +20,5 @@ d) gyógyító-megelőző ellátásban
 
 (5) Az üdüléssel kapcsolatos térítést vagy annak egy részét a munkáltató jogszabályban vagy belső szabályzatban foglalt feltételek mellett átvállalhatja.
 
-[^9]: A 3. § a 343/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 3. §-t e módosító rendelet 5. § (4) bekezdése hatályon kívül helyezte 2011. január 1. napjával.
-[^10]: Lásd a 2128/2005. (VI. 24.) Korm. határozatot.
+[^12]: A 3. § a 343/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 3. §-t e módosító rendelet 5. § (4) bekezdése hatályon kívül helyezte 2011. január 1. napjával.
+[^13]: Lásd a 2128/2005. (VI. 24.) Korm. határozatot.
