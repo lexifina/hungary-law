@@ -1,3 +1,3 @@
-23. § (1) E rendelet 22. §-ának (2) bekezdése 2010. július 2-án hatályát veszti.
+23. §[^2]
 
-(2) E § 2010. július 3-án hatályát veszti.
+[^2]: A 23. §-t a (2) bekezdés hatályon kívül helyezte.
