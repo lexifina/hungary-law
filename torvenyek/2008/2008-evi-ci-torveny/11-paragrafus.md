@@ -1,3 +1,7 @@
 11. § (1) A kárenyhítési hozzájárulás fizetésére kötelezett mezőgazdasági termelő elemi csapás esetén legfeljebb a hozamérték-csökkenés alapján kiszámított kárenyhítő juttatási igényének az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet 11. cikk (2) bekezdésében meghatározott 80%-os, kedvezőtlen adottságú területeken 90%-os mértéke szerinti kárenyhítő juttatásra jogosult. Amennyiben a rendelkezésre álló összes kárenyhítési hozzájárulás és költségvetési támogatás együttes összege nem fedezi a tárgyévben maximálisan adható összes kárenyhítő juttatás összegét, úgy a kárenyhítő juttatás mértékét az adott évben valamennyi kárenyhítő juttatást kérelmező termelőnél arányosan csökkenteni kell.
 
 (2) Az agrárkár-enyhítési szerv kárenyhítési kötelezettsége legfeljebb az (1) bekezdés szerinti juttatásnak a biztosító által – a 9. § (4) bekezdése szerinti biztosítási szerződés alapján – nem fedezett részére terjed ki.
+
+(3) A kárenyhítő juttatás iránti kérelemhez kapcsolódó eljárásban hiánypótlásra, illetve az eljárás ügyfél kérelmére történő felfüggesztésére nincs lehetőség.
+
+(4) Amennyiben az (1) bekezdés szerinti arányos csökkentést alkalmazni kell, úgy a kizárólag ezen indokkal csökkentett juttatásról szóló döntések tekintetében az arányos csökkentésre vonatkozóan fellebbezésnek helye nincs.

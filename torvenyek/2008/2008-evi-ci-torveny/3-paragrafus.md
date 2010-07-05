@@ -12,7 +12,7 @@ c) kis- és középvállalkozás: az EK-Szerződés 87. és 88. cikke alkalmazá
 
 d) gazdálkodó szervezet: a kis- és középvállalkozásnak minősülő jogi személy, vagy jogi személyiséggel nem rendelkező szervezet;
 
-e) egyéni vállalkozó: az egyéni vállalkozóról szóló törvényben ekként meghatározott természetes személy;
+e) egyéni vállalkozónak minősülő mezőgazdasági termelő: az egyéni vállalkozóról és az egyéni cégről szóló törvényben ekként meghatározott olyan kis- és középvállalkozásnak minősülő természetes személy, aki az eljárási tv. szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben az egységes kérelemre vonatkozó jogszabályban meghatározott benyújtási határidő utolsó napján egyéni vállalkozóként szerepel;
 
 f) mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 

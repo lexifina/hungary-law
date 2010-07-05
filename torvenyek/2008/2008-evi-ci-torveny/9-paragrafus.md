@@ -4,7 +4,7 @@
 
 a) a részére megállapított kárenyhítési hozzájárulást határidőre maradéktalanul befizette, és
 
-b) a használatában levő termőföldön bekövetkezett jégeső-, belvíz- és fagykárt a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint az agrárkár-megállapító szervhez a káresemény bekövetkezésétől számított tíz napon belül bejelentette, és
+b) a használatában levő termőföldön bekövetkezett jégeső-, belvíz- és fagykárt a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint az agrárkár-megállapító szervhez a káresemény bekövetkezésétől számított tizenöt napon belül bejelentette, és
 
 c) a használatában lévő termőföldön elemi csapás következett be és kárenyhítő juttatásra vonatkozó kérelme az agrárkár-megállapító szervhez a tárgyév október 20-áig beérkezett, illetve
 
