@@ -5,11 +5,3 @@
 (4) Amennyiben az (1) bekezdés szerinti arányos csökkentést alkalmazni kell, úgy a kizárólag ezen indokkal csökkentett juttatásról szóló döntések tekintetében az arányos csökkentésre vonatkozóan fellebbezésnek helye nincs.”
 
 5 . § Ez a törvény kihirdetése napján lép hatályba és a kihirdetését követő napon hatályát veszti.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
