@@ -14,4 +14,4 @@ c) egyéb javadalmazásra, kedvezményre és költségtérítésre
 
 jogosult.
 
-(2) A tisztséghez fűződő juttatások tekintetében a Legfelsőbb Bíróság elnökhelyettese a miniszterrel, az OIT Hivatalának vezetője az államtitkárral, helyettese pedig – függetlenül attól, hogy a beosztást bíró vagy nem bíró tölti be – a helyettes államtitkárral azonos beosztásúnak minősül
+(2) A tisztséghez fűződő juttatások tekintetében a Legfelsőbb Bíróság elnökhelyettese a miniszterrel, az OIT Hivatalának vezetője a közigazgatási államtitkárral, helyettese pedig – függetlenül attól, hogy a beosztást bíró vagy nem bíró tölti be – a helyettes államtitkárral azonos beosztásúnak minősül.

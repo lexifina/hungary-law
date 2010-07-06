@@ -12,7 +12,7 @@ e) ha a bíró a bírói esküt a 13. §-ban meghatározott határidőn belül n
 
 f) ha a bíró kinevezésének a 3. § (1) bekezdésének a) és c) pontjában foglalt feltételei már nem állnak fenn,
 
-g) ha a bírót országgyűlési, önkormányzati képviselőnek vagy polgármesternek megválasztották, illetőleg a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
+g) ha a bírót országgyűlési, önkormányzati képviselőnek vagy polgármesternek megválasztották, illetőleg a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
 
 h) ha a bíró – az OIT egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján vagy kijelölés ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 
