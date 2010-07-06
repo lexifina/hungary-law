@@ -1,0 +1,1 @@
+## „(3) Ha az élelmiszer-termelő állat tartásával és az élelmezés céljára termesztett növények termesztésével összefüggő gazdasági udvaron nem biztosíthatóak az előállítás és értékesítés feltételei, illetve vadon termő alaptermék, kifogott hal feldolgozása esetén, a termék előállítása más – az előírásoknak megfelelő – helyen is elvégezhető.”

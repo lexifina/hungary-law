@@ -1,0 +1,1 @@
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §-a (2) bekezdésének 26., 29. és 30. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. §-ának c) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
