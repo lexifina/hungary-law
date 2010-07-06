@@ -17,11 +17,3 @@
 (8) E törvény hatálybalépésekor a Nemzeti Fejlesztési Ügynökségnél megállapított illetményekre az e törvény 19. § (1) bekezdését kell alkalmazni azzal a feltétellel, hogy e szervnél foglalkoztatott kormánytisztviselő illetménye nem csökkenthető azon jogviszonya fennállásáig, amely alapján az e törvény hatálybalépése előtti illetményre jogosultságot szerzett.
 
 (9) A 18. § (1) bekezdése szerinti illetményalap 2010. évben megegyezik a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 71. §-ában meghatározott köztisztviselői illetményalappal.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
