@@ -24,7 +24,7 @@ b) közalkalmazottak esetében a Kjt. 66. és 66/A. §-a alapján a kinevezésbe
 
 c) munkavállalók esetén a személyi alapbér és a rendszeres bérpótlékok,
 
-d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 45., illetve 56. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
+d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. §-ában és a Kjtv. 44. § és 54. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
 
 e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj
 

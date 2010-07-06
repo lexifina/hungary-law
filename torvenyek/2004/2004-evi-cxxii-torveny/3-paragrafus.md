@@ -6,7 +6,11 @@ a) a programban részt vevő legfeljebb 5 éven belül előrehozott öregségi n
 
 b) a programban részt vevő rendelkezik legalább huszonöt év közszférában jogviszonyban töltött idővel,
 
-c) a programban részt vevő további foglalkoztatására a Ktv. 17. § (1) bekezdés a)–c) pontjában, illetőleg a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, és
+c) a programban részt vevő további foglalkoztatására
+
+ca) a Ktv. 17. § (1) bekezdés a)–c) pontjában, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+
+cb) a Ktjv. 8. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
 
 d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Ktv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
 

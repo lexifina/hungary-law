@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-122-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-122-00-00.10 |
+| 2010-07-06 | 2010. évi LVIII. törvény | 2004-122-00-00.11 |
