@@ -4,11 +4,11 @@
 
 a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, az országos parancsnok vagy – a Kormány által meghatározott létszámhatárig – az önkormányzati képviselő-testület döntése alapján a fegyveres szervnél létszámcsökkentést kell végrehajtani, és emiatt további szolgálatára nincs lehetőség;
 
-b) átszervezés következtében szolgálati beosztása megszűnt;
+b) átszervezés következtében szolgálati beosztása megszűnt, és a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el;
 
 c) szolgálati nyugellátásra szerzett jogosultságot és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást pedig nem fogadta el;
 
-d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél végzett tevékenység megszűnése után részére végzettségének, képzettségének és rendfokozatának megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető.
+d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél végzett tevékenység megszűnése után részére végzettségének, képzettségének megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető.
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
@@ -22,13 +22,17 @@ c) a vezetői kinevezés visszavonását követően a 245/D. § (2) bekezdése s
 
 (4) Az (1) bekezdés c) pontja alapján nyugellátásra jogosult a hivatásos állomány tagja, ha rendelkezik a 182. § (1) bekezdésében meghatározott feltétellel.
 
-(5) Ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai vagy fizikai ok következménye, a fegyveres szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének és rendfokozatának megfelelő másik hivatásos szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani. A hivatásos állomány tagját akkor lehet felmenteni, ha
+(5) Az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai vagy fizikai ok következménye, a fegyveres szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének megfelelő másik hivatásos szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani. A hivatásos állomány tagját akkor lehet felmenteni, ha
 
-a) állapotának megfelelő betöltetlen beosztás vagy nem hivatásos munkakör a fegyveres szervnél nincs, és rendelkezési állományba sem helyezhető,
+a) az egészségi, pszichikai vagy fizikai alkalmatlanság esetén
 
-b) a felajánlott másik, állapotának megfelelő beosztást vagy nem hivatásos munkakört a hivatásos állomány tagja nem fogadta el, vagy
+aa) állapotának megfelelő betöltetlen beosztás vagy nem hivatásos munkakör a fegyveres szervnél nincs, és rendelkezési állományba sem helyezhető,
 
-c) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett.
+ab) a felajánlott másik, állapotának megfelelő beosztást vagy nem hivatásos munkakört a hivatásos állomány tagja nem fogadta el, vagy
+
+ac) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett;
+
+b) a hivatásos állomány átszervezés miatt megszűnt beosztást betöltő tagja a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el.
 
 (6) A hivatásos szolgálatra méltatlan az:
 

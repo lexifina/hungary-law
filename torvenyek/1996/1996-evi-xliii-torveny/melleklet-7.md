@@ -109,17 +109,3 @@ VI. A szolgálat teljesítésének adatai:
 – a szolgálati viszony kezdete, kinevezés ideje,
 
 – a szolgálati viszonyra és a szolgálati időre vonatkozó adatok,
-
-– a FEOR száma,
-
-– elért rendfokozat(ok),
-
-– a szolgálat során elért címek,
-
-– betöltött beosztás(ok),
-
-– helyettesítési megbízások,
-
-– a fegyveres szervek tanintézeteiben folytatott tanulmányok,
-
-– szolgálati besorolás fegyvernem, szakcsapat, szolgálati ág,
