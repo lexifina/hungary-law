@@ -1,1 +1,1 @@
-60. § Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában irányító szerv.
+60. § Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában irányító szerv.
