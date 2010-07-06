@@ -14,7 +14,7 @@
 
 ## [3. számú melléklet a 19/2004. (II. 26.) FVM–ESZCSM–GKM
 
-## együttes rendelethez[^32]
+## együttes rendelethez[^35]
 
 ## Az aromák megnevezése az összetevők listájában
 
@@ -32,7 +32,7 @@
 
 4. számú melléklet a 19/2004. (II. 26.) FVM–ESZCSM–GKM
 
-együttes rendelethez[^33]
+együttes rendelethez[^36]
 
-[^32]: A 3. számú melléklet a 26/2010. (III. 19.) FVM rendelet 3. §-ával megállapított szöveg. [E módosító rendelet 5. § (3) bekezdése alapján a rendelkezés 2011. január 20. napján lép hatályba.]
-[^33]: A 4. számú mellékletet a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 5. §-ának (1) bekezdése iktatta be, szövege a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit 2007. november 26-tól kell alkalmazni, illetve a 2008. április 3. napján folyamatban lévő eljárásokat – ha az eljárás tárgya kizárólag a 2007. november 25-ig kivételnek minősült allergének jelölésének hiánya – meg kell szüntetni; a – 105/2009. (VIII. 14.) FVM rendelet 8. §-ával megállapított – 3. § (3) bekezdése alapján a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 2. §-ával módosított 4. számú melléklet előírásaiból eredő új jelölési rendelkezéseknek nem megfelelő jelölésű termékek 2009. május 31-ig, a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló, 2008. április 29-i 479/2008/EK tanácsi rendelet IV. mellékletében meghatározott borok esetében 2010. december 31-ig előállíthatóak, és az addig előállított termékek ezt követően is forgalomba hozhatóak.
+[^35]: A 3. számú melléklet a 26/2010. (III. 19.) FVM rendelet 3. §-ával megállapított szöveg. [E módosító rendelet 5. § (3) bekezdése alapján a rendelkezés 2011. január 20. napján lép hatályba.]
+[^36]: A 4. számú mellékletet a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 5. §-ának (1) bekezdése iktatta be, szövege a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján rendelkezéseit 2007. november 26-tól kell alkalmazni, illetve a 2008. április 3. napján folyamatban lévő eljárásokat – ha az eljárás tárgya kizárólag a 2007. november 25-ig kivételnek minősült allergének jelölésének hiánya – meg kell szüntetni; a – 105/2009. (VIII. 14.) FVM rendelet 8. §-ával megállapított – 3. § (3) bekezdése alapján a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 2. §-ával módosított 4. számú melléklet előírásaiból eredő új jelölési rendelkezéseknek nem megfelelő jelölésű termékek 2009. május 31-ig, a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló, 2008. április 29-i 479/2008/EK tanácsi rendelet IV. mellékletében meghatározott borok esetében 2010. december 31-ig előállíthatóak, és az addig előállított termékek ezt követően is forgalomba hozhatóak.

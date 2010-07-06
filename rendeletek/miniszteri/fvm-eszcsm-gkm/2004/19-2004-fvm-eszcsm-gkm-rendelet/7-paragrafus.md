@@ -76,9 +76,20 @@ c) az összetett anyag olyan élelmiszer, amelynek felhasznált anyagait a vonat
 
 (14)[^9] Édesgyökeret (Glycyrrhiza glabra), glicirrizin savat vagy annak ammónium sóját tartalmazó élelmiszerek jelölését az 5. számú melléklet szerint kell kiegészíteni.
 
+(15)[^10] Fel kell tüntetni
+
+a) az édesítőszert tartalmazó élelmiszerekben a megnevezéshez kapcsolódóan a jelölésen az „édesítőszerrel” kifejezést;
+
+b) hozzáadott cukrot és édesítőszert együtt tartalmazó élelmiszereken a megnevezéshez kapcsolódóan a jelölésen a „cukorral és édesítőszerrel” kifejezést;
+
+c) aszpartámot tartalmazó élelmiszerek jelölésén a „fenil-alanin forrást tartalmaz” kifejezést;
+
+d) 10%-nál több hozzáadott poliolt tartalmazó élelmiszerek jelölésén a „nagyobb mennyiség fogyasztása hashajtó hatású” kifejezést.
+
 [^4]: A 7. § a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 1. §-ával megállapított szöveg, e módosító rendelet 6. §-ának (5) bekezdése alapján a 7. § (1)–(13) bekezdéseiben meghatározott új rendelkezéseknek nem megfelelő jelölésű termékek 2005. november 25-ig előállíthatóak, és az eddig előállított termékek 2005. november 25. után is forgalomba hozhatóak.
 [^5]: A 7. § (4) bekezdése a 105/2009. (VIII. 14.) FVM rendelet 2. §-ával megállapított szöveg.
 [^6]: A 7. § (5) bekezdés b) pontja a 105/2009. (VIII. 14.) FVM rendelet 3. §-ával megállapított szöveg.
 [^7]: A 7. § (5) bekezdés c) pontja a 105/2009. (VIII. 14.) FVM rendelet 3. §-ával megállapított szöveg.
 [^8]: A 7. § (10) bekezdés d) pontját a 105/2009. (VIII. 14.) FVM rendelet 4. §-a iktatta be. E módosító rendelet 9. § (6) bekezdése alapján a 7. § (10) bekezdés d) pontjában meghatározott jelölési előírásnak nem megfelelő élelmiszerek 2010. január 20-ig előállíthatók, és az addig előállított termékek 2010. január 20-a után is forgalomba hozhatók.
 [^9]: A 7. § (14) bekezdése a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 6. § (6) bekezdése alapján a 7. § (14) bekezdésében meghatározott előírásoknak nem megfelelő jelölésű termékek 2006. május 20-ig előállíthatóak, és az eddig előállított termékek 2006. május 20-át követően is forgalomba hozhatóak.
+[^10]: A 7. § (15) bekezdését a 4/2010. (VII. 5.) VM rendelet 9. § (1) bekezdése iktatta be.
