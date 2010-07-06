@@ -4,7 +4,7 @@ a) a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 137. § 1. p
 
 b) a Ktv. 1. § (3) bekezdésében a „szakállamtitkárral” szövegrész helyébe a „helyettes államtitkárral” szöveg,
 
-c) az államháztartásról szóló 1992. évi XXXVIII. törvény 28. § (5) bekezdésében a „szakállamtitkári” szövegrész helyébe a „helyettes államtitkári” szöveg,
+c)
 
 d) a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 13. § (4) bekezdésében a „szakállamtitkári” szövegrész helyébe a „helyettes államtitkári” szöveg,
 

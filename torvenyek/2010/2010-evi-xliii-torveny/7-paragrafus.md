@@ -2,7 +2,7 @@
 
 (2) Az állami vezetői szolgálati jogviszonyra – ha törvény eltérően nem rendelkezik – a közszolgálati jogviszonyban állókra vonatkozó szabályokat kell alkalmazni.
 
-(3) A szakmai vezető e tevékenységét közszolgálati jogviszonyban látja el. A szakmai vezetőre a köztisztviselők jogállásáról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) A szakmai vezetőre a kormánytisztviselők jogállásáról szóló törvényt és a köztisztviselők jogállásáról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
 
