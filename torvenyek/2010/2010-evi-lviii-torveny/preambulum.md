@@ -1,0 +1,1 @@
+A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszerető, a Magyar Köztársaság érdekeit és a közjót a legmegfelelőbben szolgáló központi közigazgatás kialakítása érdekében az Alkotmány 40. § (3) bekezdésében foglalt felhatalmazás alapján az Országgyűlés a következő törvényt alkotja:

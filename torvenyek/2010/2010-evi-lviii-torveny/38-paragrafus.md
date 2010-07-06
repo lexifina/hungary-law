@@ -1,0 +1,1 @@
+38. § A kinevezett közigazgatási államtitkár a köztársasági elnök előtt az Országgyűlés előtt esküt tevő, vezető közjogi tisztséget betöltő személyek esküjének megfelelő szöveggel esküt vagy fogadalmat tesz.

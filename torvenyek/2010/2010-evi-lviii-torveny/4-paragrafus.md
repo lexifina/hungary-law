@@ -1,0 +1,5 @@
+## A kormánytisztviselői jogviszony létesítése és módosítása
+
+4. § (1) Ha a központi államigazgatási szerv alaptevékenysége körében felsőfokú iskolai végzettségű pályakezdő kormánytisztviselőt kíván alkalmazni, a kormánytisztviselői jogviszony létesítéséhez a Ktv. 7. § (1) bekezdésben meghatározott feltételeken túlmenően a kormánytisztviselőnek angol, francia vagy német nyelvből államilag elismert nyelvvizsgával kell rendelkeznie. Ha a központi államigazgatási szervnél betöltendő munkakör ellátásához az előbbiekben felsoroltakon kívül más idegen nyelv használata szükséges, akkor az e nyelvből meglévő, államilag elismert nyelvvizsgát az angol, francia vagy német nyelvből meglévő nyelvvizsga helyett alkalmazási feltételnek kell tekinteni.
+
+(2) Központi államigazgatási szerv alaptevékenysége keretében középiskolai végzettségű kormánytisztviselőt nem alkalmazhat. Az államigazgatási szerv alaptevékenységének az alkalmazási és a képesítési követelmények szempontjából az minősül, amit jogszabály a szerv feladatkörébe utal, továbbá amit a miniszter, kormányhivatal vagy központi hivatal vezetője e körben alaptevékenységként határoz meg.
