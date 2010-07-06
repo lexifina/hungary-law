@@ -16,7 +16,7 @@ b) Az Állami Számvevőszék alelnökeit a minisztereknek a köztisztviselők j
 
 kategóriába kell sorolni.
 
-(5) Az elnök a számvevőt elkülönült szervezeti egység vezetőjévé határozatlan időre számvevő főtanácsosnak, számvevő igazgatóhelyettesnek, számvevő igazgatónak, főtitkárnak vagy számvevő főigazgatónak kinevezheti. A főtitkár, a számvevő főigazgató az államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
+(5) Az elnök a számvevőt elkülönült szervezeti egység vezetőjévé határozatlan időre számvevő főtanácsosnak, számvevő igazgatóhelyettesnek, számvevő igazgatónak, főtitkárnak vagy számvevő főigazgatónak kinevezheti. A főtitkár, a számvevő főigazgató a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
 
 (6) A számvevőt 11, a számvevő tanácsost 12 munkanap pótszabadság illeti meg. A vezetőt megillető pótszabadság mértéke számvevő főtanácsosnál és számvevő igazgatóhelyettesnél 13, számvevő főigazgatónál, számvevő igazgatónál 14 munkanap.
 
