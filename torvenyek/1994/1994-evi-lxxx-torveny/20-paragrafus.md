@@ -8,7 +8,7 @@ c) lemondásával;
 
 d) összeférhetetlenségének megállapításával [39. § (2) bekezdés a) pont];
 
-e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával [40. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával [40. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 
 f) hivatalvesztése kimondásával;
 

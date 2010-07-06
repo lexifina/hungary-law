@@ -8,4 +8,4 @@ c) egyéb javadalmazásra, kedvezményre és költségtérítésre
 
 jogosult.
 
-(2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a miniszterrel, a legfőbb ügyész helyettes pedig az államtitkárral azonos beosztásúnak minősül.
+(2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a miniszterrel, a legfőbb ügyész helyettes pedig a közigazgatási államtitkárral azonos beosztásúnak minősül.
