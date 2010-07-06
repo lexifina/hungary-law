@@ -1,4 +1,8 @@
-## Kis mennyiség meghatározása alaptermékek és ebből előállított termékek vonatkozásában
+## A. rész
+
+## Kis mennyiség meghatározása alaptermékek és ebből előállított termékek
+
+## vonatkozásában
 
 |  | Termék vagy alaptermék, és a hozzá kapcsolódó tevékenység megnevezése | Heti* maximális mennyiség | Éves maximális mennyiség** |
 
@@ -46,4 +50,26 @@
 
 ## *** Élősúlyban.
 
-2. melléklet az 52/2010. (IV. 30.) FVM rendelethez
+## B. rész
+
+## A kistermelő által végezhető szolgáltatások
+
+|  | A | B |
+
+|  | A szolgáltatás megnevezése | A szolgáltatás nyújtásának helye |
+
+| 1. | füstölés | a szolgáltatást végző kistermelő gazdaságának helye |
+
+| 2. | aszalás, szárítás, őrlés | a szolgáltatást végző kistermelő gazdaságának helye |
+
+| 3. | állat vágása és húsának feldolgozása | megfelelően kialakított hely a falusi vendégasztal helyén vagy rendezvény helyén |
+
+| 4. | Ételkészítés (beleértve kenyér, tészta, befőtt, lekvár, pogácsa) | megfelelően kialakított hely a falusi vendégasztal helyén vagy rendezvény helyén |
+
+| 5. | terménytisztítás | a szolgáltatást igénybe vevő kistermelő gazdaságának helye |
+
+| 6. | olajos magvak (olajütés) és gyümölcsök, zöldségek préselése, pasztörizálása | a szolgáltatást igénybe vevő kistermelő gazdaságának helye |
+
+2. melléklet az 52/2010. (IV. 30.) FVM rendelethez[^21]
+
+[^21]: A 2. melléklet a 4/2010. (VII. 5.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

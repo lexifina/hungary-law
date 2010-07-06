@@ -1,39 +1,35 @@
 ## HATÓSÁGI ÁLLATORVOSI BIZONYÍTVÁNY
 
-## az állati eredetű termékek kistermelői termeléséhez, előállításához,
+## az állati eredetű termékek kistermelői termeléséhez, előállításához, illetve feldolgozásához
 
-## illetve feldolgozásához
+| Ügyiratszám: |
 
-## Ügyiratszám:
+| Kistermelő regisztrációs száma: |
 
-## Kistermelő regisztrációs száma:
+| Kistermelő neve, címe: |
 
-## Kistermelő neve, címe:
+| Gazdaság helye: |
 
-## Gazdaság helye:
+| Értékesíthető alaptermékek köre: |
 
-## Értékesíthető alaptermékek köre:
+| Értékesíthető feldolgozatlan, illetve feldolgozott termékek köre: |
 
-## Értékesíthető alaptermék feldolgozásából származó termékek köre:
+| Értékesítés területe: |
 
-## Értékesítés területe:
+| Hatósági állatorvos neve: |
 
-## Hatósági állatorvos neve:
+| Igazolom, hogy az állatállomány részt vesz a kötelezően előírt mentesítési programban, illetve a tejtermelő állomány gümőkór- és brucellózismentes. |
 
-## Igazolom, hogy az állatállomány részt vesz a kötelezően előírt mentesítési programban, illetve a tejtermelő állomány gümőkór- és brucellózismentes.*
+| Ezen igazolás a kiállítástól számított 1 évig hatályos, a kistermelő kérelmére évente meghosszabbítható. |
 
-## Ezen igazolás a kiállítástól számított 1 évig érvényes, a kistermelő kérelmére évente meghosszabbítható.
+| 20.... év ......................... hónap ....... nap |
 
-## 20.... év ......................... hónap ....... nap
+| P. H. |
 
-## P. H.
+| ............................................. |
 
-## ...........................................................
+| hatósági állatorvos |
 
-## hatósági állatorvos
+3. melléklet az 52/2010. (IV. 30.) FVM rendelethez[^22]
 
-## ________________________
-
-## * Értelemszerűen alkalmazandó.
-
-3. melléklet az 52/2010. (IV. 30.) FVM rendelethez
+[^22]: A 3. melléklet a 4/2010. (VII. 5.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.

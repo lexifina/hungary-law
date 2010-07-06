@@ -20,10 +20,17 @@
 
 10. Végső fogyasztó: a 178/2002/EK rendelet 3. cikkének 18. pontja szerint végső fogyasztónak minősülő fogyasztó;
 
-11. Régión belüli: a kistermelő gazdaságának helye vagy – a 3. § (3) bekezdésével összhangban – lakóhelye szerinti megyében és az azzal szomszédos megyékben lévő, valamint budapesti;
+11.[^2] Régión belüli: a kistermelő gazdaságának helye, illetve – a 3. § (3) bekezdésének rendelkezését figyelembe véve – a termék-előállítás helye szerinti megyében lévő, valamint budapesti;
 
-12. Gazdaság helye: az élelmiszer-termelő állat tartásával és az élelmezés céljára termesztett növények termesztésével összefüggő gazdasági udvar;
+12.[^3] Gazdaság helye: az élelmiszer-termelő állat tartásával és az élelmezés céljára termesztett növények termesztésével összefüggő gazdasági udvar, illetve a termék előállítás helye;
 
-13. Kistermelői vendégasztal: a családi magánétkezésekhez előállított házi élelmiszerekhez és gasztronómiai hagyományokhoz kapcsolódó tevékenységek bemutatása, és az elkészített élelmiszerek felkínálása helyben fogyasztásra, napi legfeljebb tizenhat személy részére a kistermelő gazdaságában vagy lakóhelyén;
+13.[^4] Falusi vendégasztal: falusias, tanyasias vagy vidéki környezetben a házi élelmiszerekhez és gasztronómiai hagyományokhoz kapcsolódó tevékenységek bemutatása, és az elkészített élelmiszerek felkínálása helyben fogyasztásra a gazdaság helyén;
 
-14. Rendezvény: a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: 210/2009. Korm. rendelet) 28. §-ának a) pontja szerinti fogalom.
+14. Rendezvény: a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: 210/2009. Korm. rendelet) 28. §-ának a) pontja szerinti fogalom;
+
+15.[^5] Biztonságos hőkezelés: az a hőkezelési eljárás (sütés, főzés), amely legalább 2 percen át tartó 72 °C-os maghőmérsékletet, vagy az étel minden pontján legalább 75 °C-t biztosít.
+
+[^2]: A 2. § 11. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 12. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 13. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 15. pontját a 4/2010. (VII. 5.) VM rendelet 2. § (2) bekezdése iktatta be.
