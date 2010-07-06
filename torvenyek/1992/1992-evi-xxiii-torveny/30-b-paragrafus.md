@@ -1,8 +1,8 @@
-30/B. § (1) A miniszterelnök – a helyi önkormányzatokért felelős miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslatára – határozatlan időre címzetes főjegyzői címet adományozhat annak a tartósan kiemelkedő szakmai munkát végző jegyzőnek – ide nem értve az aljegyzőt –, aki
+30/B. § (1) A miniszterelnök – a megyei vagy a fővárosi közgyűlés javaslatára határozatlan időre címzetes főjegyzői címet adományozhat az illetékességi területén tartósan kiemelkedő szakmai munkát végző jegyzőnek – ide nem értve az aljegyzőt –, aki
 
 a) a cím adományozását megelőző tíz évben folyamatosan jegyzői, körzetközponti jegyző esetében legalább öt éve körzetközponti jegyzői tisztséget tölt be;
 
-b) ,,kiválóan alkalmas'' minősítésű;
+b) „kiválóan alkalmas” minősítésű;
 
 c) a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv támogató véleményével rendelkezik.
 

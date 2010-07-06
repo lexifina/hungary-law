@@ -14,26 +14,16 @@
 
 (7) A teljesítményértékelés tartalma hibás vagy valótlan ténymegállapításának megsemmisítése iránt a köztisztviselő közszolgálati jogvitát kezdeményezhet.
 
-(8) A Miniszterelnöki Hivatalt vezető miniszter nyilvántartást vezet a (11) bekezdésben meghatározott adattartalommal a központi államigazgatási szervek köztisztviselőinek teljesítményértékelésével kapcsolatos adatairól.
+(8)
 
-(9) A nyilvántartás célja a teljesítményértékeléssel kapcsolatos jogok gyakorlásának és kötelezettségek teljesítésének ellenőrzéséhez szükséges adatok kezelésének biztosítása az ellenőrzésre jogosult számára.
+(9)
 
-(10) A Miniszterelnöki Hivatalt vezető miniszter a teljesítményértékeléssel kapcsolatos adatkezelői feladatait a kormányzati személyügyi igazgatási feladatokat ellátó szerv útján látja el.
+(10)
 
-(11) A központi államigazgatási szerv a Miniszterelnöki Hivatalt vezető miniszter részére elektronikus úton adatot szolgáltat
+(11)
 
-a) a köztisztviselő technikai azonosító kódjáról,
+(12)
 
-b) a szervezeti egységéről, besorolásáról, vezetői megbizásáról,
+(13)
 
-c) a részére megállapított teljesítménykövetelményekről,
-
-d) a köztisztviselő teljesítményének értékeléséről,
-
-e) a köztisztviselő teljesítményének értékelésével összefüggő vezetői intézkedésekről.
-
-(12) A Miniszterelnöki Hivatalt vezető miniszter a (11) bekezdés alapján részére szolgáltatott adatokat az adatszolgáltatás naptári évét követő ötödik év utolsó napjáig kezelheti.
-
-(13) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a központi államigazgatási szerveknél, azok területi és helyi szerveinél foglalkoztatott köztisztviselők teljesítményértékelésére vonatkozó részletes szabályokat és a teljesítményértékeléssel összefüggő adatkezelésre és adatszolgáltatásra vonatkozó részletes eljárási szabályokat.
-
-(14) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi a központi államigazgatási szerveknél, azok területi és helyi szerveinél a teljesítményértékelés szabályainak érvényesülését, azok megsértése esetén jelzéssel fordul a szerv vezetőjéhez és felhívja a jogsértés orvoslására. A szerv vezetője tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert a megtett intézkedésekről.
+(14)

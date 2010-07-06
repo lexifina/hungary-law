@@ -28,7 +28,7 @@ c) a hitel lejártának időpontját.
 
 A fenti adatokban bekövetkezett változásokról a köztisztviselő haladéktalanul köteles tájékoztatni a munkáltatói jogkör gyakorlóját.
 
-(6) Amennyiben a köztisztviselő közszolgálati jogviszonya a 15. § (1) bekezdésének c) vagy d) pontja, (2) bekezdés a) vagy c) pontja vagy (3) bekezdése alapján szűnik meg, a még fennálló állami kezesség után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
+(6) Amennyiben a köztisztviselő közszolgálati jogviszonya a 15. § (1) bekezdés c) pontja, (2) bekezdés a), c) vagy f) pontja vagy (3) bekezdése alapján szűnik meg, a még fennálló állami kezesség után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 
 (7) A munkáltatói jogkör gyakorlója a köztisztviselő közszolgálati jogviszonyának (6) bekezdés szerinti megszűnése esetén erről 8 napon belül értesíti a köztisztviselő által az (5) bekezdés alapján bejelentett hitelintézetet.
 

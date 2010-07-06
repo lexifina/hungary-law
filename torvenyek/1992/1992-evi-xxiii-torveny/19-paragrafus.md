@@ -1,8 +1,8 @@
 ## A végkielégítés
 
-19. § (1) A köztisztviselőt felmentése esetén — a (8) bekezdésben foglalt kivétellel — végkielégítés illeti meg.
+19. § (1) A köztisztviselőt – a (8) bekezdésben foglalt kivétellel – végkielégítés illeti meg, ha közszolgálati jogviszonya felmentés vagy a közigazgatási szerv jogutód nélküli megszűnése következtében szűnik meg.
 
-(2) A végkielégítés összege, ha a felmentett köztisztviselő közszolgálati jogviszonyban töltött ideje legalább
+(2) A végkielégítés összege, ha a köztisztviselő közszolgálati jogviszonyban töltött ideje legalább
 
 a) három év: egyhavi,
 
@@ -18,7 +18,7 @@ f) tizenhat év: hathavi,
 
 g) húsz év: nyolchavi
 
-– a felmentési idő kezdetekor irányadó – illetményének megfelelő összeg. A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a köztisztviselő közszolgálati jogviszonya az öregségi nyugdíjra [19/A. § (1) bek. a) pont], vagy a korkedvezményes öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a köztisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
+– a felmentési idő kezdetekor vagy a közigazgatási szerv jogutód nélküli megszűnésekor irányadó – illetményének megfelelő összeg. A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a köztisztviselő közszolgálati jogviszonya az öregségi nyugdíjra [19/A. § (1) bek. a) pont] vagy a korkedvezményes öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a köztisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
 
 (3) A végkielégítés mértékének meghatározásakor csak a közigazgatási szervnél közszolgálati jogviszonyban eltöltött időt lehet figyelembe venni.
 
@@ -30,7 +30,7 @@ a) a jogelőd munkáltatónál,
 
 b) áthelyezés esetén a költségvetési szervnél közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 
-c) a 11/A. § (12) bekezdése szerint folyamatosnak tekintendő közszolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
+c) 11/A. § (9) bekezdése szerint folyamatosnak tekintendő közszolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
 
 d) átminősítés esetén a hivatásos szolgálati viszonyban
 
@@ -68,4 +68,4 @@ b) a felmentési időből hátralevő idő tekintetében átlagkeresetre nem jog
 
 c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
 
-(10) A miniszteri, államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre az (5) bekezdés c) pontját megfelelően alkalmazni kell.
+(10)

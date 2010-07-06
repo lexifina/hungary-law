@@ -10,21 +10,7 @@ d) főosztályvezető-helyettes esetén az alapilletmény 20%-a,
 
 e) osztályvezető esetén az alapilletmény 10%-a.
 
-(2) A 44. § (2)–(3) bekezdésekben meghatározott közigazgatási szervnél a vezetői illetménypótlék mértéke a vezető alapilletményének:
-
-a)
-
-b) főosztályvezető esetén az alapilletmény 25%-a,
-
-c) főosztályvezető-helyettes esetén az alapilletmény 15%-a,
-
-d) osztályvezető esetén az alapilletmény 10%-a.
-
-(3) A 44. § (4) bekezdésben meghatározott közigazgatási szervnél a vezetői illetménypótlék mértéke a vezető alapilletményének:
-
-a) főosztályvezető esetén az alapilletmény 20%-a,
-
-b) osztályvezető esetén az alapilletmény 10%-a.
+(2)–(3)
 
 (4) A jegyző, főjegyző vezetői illetménypótlékra jogosult, amelynek mértéke:
 

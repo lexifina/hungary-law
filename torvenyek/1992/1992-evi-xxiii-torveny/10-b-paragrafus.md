@@ -60,7 +60,7 @@ a) a szolgáltató központ vezetője,
 
 b) meghatározott körben a szolgáltató központ vezetője által feljogosított, szolgáltató központnál alkalmazásban álló személy,
 
-c) a szolgáltató központ felügyeletét ellátó Miniszterelnöki Hivatalt vezető miniszter és az általa meghatározott körben, az általa feljogosított köztisztviselő,
+c) a szolgáltató központ felügyeletét ellátó közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az általa meghatározott körben, az általa feljogosított köztisztviselő,
 
 d) saját adatai tekintetében az adatbázisban szereplő személy,
 

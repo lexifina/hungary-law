@@ -1,1 +1,0 @@
-58/X. § Ha a helyettes államtitkár közszolgálati jogviszonya az 58/T. § (1) bekezdés a)–b) vagy d) pontja alapján szűnik meg, ennek tényét a miniszter előterjesztésére a miniszterelnök állapítja meg; a Miniszterelnökségen működő helyettes államtitkár esetében az előterjesztést a Miniszterelnökséget vezető államtitkár teszi meg.

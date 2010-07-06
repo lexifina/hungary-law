@@ -24,4 +24,4 @@ c) harmincegy év közszolgálati jogviszonyban töltött idő után főmunkatá
 
 besorolást kap.
 
-(4) A kormányhivatal esetében a Szervezeti és Működési Szabályzat melléklete, illetve jogszabály a köztisztviselő tevékenységének jellegére utaló – a besorolási fokozatot nem érintő – munkaköri megnevezést állapíthat meg.
+(4)

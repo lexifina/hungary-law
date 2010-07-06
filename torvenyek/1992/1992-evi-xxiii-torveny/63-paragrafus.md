@@ -38,14 +38,10 @@ e) a feladatai ellátásához szükséges mértékig a minisztériumokra, illetv
 
 (3) Kormányrendeletben meghatározott módon a központi közszolgálati nyilvántartásból — személyi azonosításra alkalmas adatokat nem tartalmazó — adatszolgáltatás végezhető.
 
-(4) A szolgáltató központ által vezetett minisztériumi, miniszterelnökségi közszolgálati alapnyilvántartásból – kormányrendeletben meghatározott módon – közszolgálati jogviszonnyal összefüggő adatkezelés céljából, személyazonosításra alkalmas módon a minisztériumok, illetve a Miniszterelnökség részére a vele közszolgálati jogviszonyban álló köztisztviselők adatai tekintetében adatszolgáltatás végezhető.
+(4)
 
 (5) A köztisztviselő jogosult a róla nyilvántartott helytelen adat helyesbítését, a jogellenesen nyilvántartott adat törlését kérni, a jogellenesen kért adat közlését megtagadni. Az adatkezelő köteles a helytelen adatot haladéktalanul helyesbíteni, illetve törölni.
 
-(6) A minisztériumok, valamint a Miniszterelnökség az illetmény és egyéb juttatás, valamint az ezekhez kapcsolódó adó-, társadalombiztosítási és egyéb, a közigazgatási szervet terhelő fizetési kötelezettségek teljesítése céljából külön törvényben meghatározott adatokat szolgáltatnak a kincstár részére. A kincstár számfejtett adatokat szolgáltat a szolgáltató központ útján – a díjazással kapcsolatos jogok gyakorlása és kötelezettségek teljesítése céljából – a minisztériumok és a Miniszterelnökség részére.
-
-(7) A honvédelemért felelős miniszter által vezetett minisztériummal közszolgálati jogviszonyban állók esetében a (6) bekezdésben meghatározott adatokat a Költségvetés Gazdálkodási Információs Rendszer (a továbbiakban: KGIR) részére kell továbbítani, illetve a KGIR biztosítja a szolgáltató központ útján a számfejtett adatok átadását.
-
-(8) A minisztériumok és a Miniszterelnökség a működésükhöz szükséges gazdasági, informatikai, műszaki és elhelyezési feltételek biztosítása céljából adatot szolgáltatnak a köztisztviselő nevéről, neméről, születési idejéről, valamint szervezeti és munkaköri adatokról a Szolgáltatási és Ellátás Alapadat Tár (a továbbiakban: szolgáltatási adattár) rendszer részére. A szolgáltatási adattár a szolgáltató központ útján adatokat szolgáltat a minisztériumok és a Miniszterelnökség részére a köztisztviselő elhelyezésének adatairól, valamint – a foglalkoztatás megszüntetésével kapcsolatos jogok gyakorlása és kötelezettségek teljesítése céljából – a köztisztviselő által használt eszközökről, igénybe vett szolgáltatásokról.
+(6)–(8)
 
 (9) A közigazgatási szervek köztisztviselőinek képzésével, továbbképzésével, vizsgáztatásával összefüggő nyilvántartást a szolgáltató központ üzemelteti. A szolgáltató központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet.
