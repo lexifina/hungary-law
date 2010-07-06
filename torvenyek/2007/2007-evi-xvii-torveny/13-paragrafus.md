@@ -16,7 +16,7 @@ c) gondoskodik az egyes intézkedésekhez kapcsolódó monitoringrendszer műkö
 
 d) közleményt ad ki a forrás kimerüléséről.
 
-(2) A miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint h)–i) pontjai szerinti irányítási jogköröket gyakorolja.
+(2) A miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint g) és h) pontjai szerinti irányítási jogköröket gyakorolja.
 
 (3) A miniszter (1) bekezdés b)–d) pontja szerinti illetékes hatósági feladatai ellátásában – ideértve a (2) bekezdés szerinti jogköröket is – a kiadmányozási jogot írásban államtitkárra, közigazgatási államtitkárra, illetve helyettes államtitkárra ruházhatja át.
 
