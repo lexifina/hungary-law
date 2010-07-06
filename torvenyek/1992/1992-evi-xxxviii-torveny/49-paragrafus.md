@@ -2,7 +2,7 @@
 
 49. § E törvény alkalmazásában fejezetet irányító szerv: a költségvetési törvényben meghatározott fejezetbe besorolt költségvetési szerv (szervek) vonatkozásában külön törvényben és e törvényben foglalt irányítási jogokkal felruházott irányító szerv, valamint a fejezetbe tartozó előirányzatokkal kapcsolatos gazdálkodási irányítási jogokkal felruházott szerv vagy személy.
 
-(2) Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában fejezetet irányító szerv.
+(2) Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában fejezetet irányító szerv.
 
 (3) Ha törvény eltérően nem rendelkezik, a fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője gyakorolja.
 
