@@ -8,7 +8,7 @@
 
 149. § E törvény alkalmazásában
 
-a) állami vezető: a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó személy,
+a) állami vezető: a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó személy,
 
 b) főjegyző: a fővárosi főjegyző, a megyei főjegyző,
 
