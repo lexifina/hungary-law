@@ -1,4 +1,4 @@
-44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület a polgármester helyettesítésére alpolgár- mestert választhat. Alpolgármesternek olyan személy is megválasztható, aki nem tagja a képviselőtestületnek, de a polgármestert a képviselőtestület elnökeként csak olyan alpolgármester helyettesítheti, aki a képviselőtestület tagja.
+44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület a polgármester helyettesítésére alpolgármestert választhat. Alpolgármesternek olyan személy is megválasztható, aki nem tagja a képviselőtestületnek, de a polgármestert a képviselőtestület elnökeként csak olyan alpolgármester helyettesítheti, aki a képviselőtestület tagja.
 
 (2) A képviselőtestület bizottságot választ, és hivatalt hoz létre.
 
