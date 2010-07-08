@@ -1,6 +1,6 @@
 ## 6. § E rendelet a kihirdetését követő 30. napon lép hatályba.
 
-7. §[^5] (1) Az 1. § (2) bekezdés b) pontja és (3)–(4) bekezdése a szakképzésről szóló törvény alapján alap-, közép-, emeltszintű, illetve felsőfokú egészségügyi szakképesítéssel, egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán szerzett szakképzettséggel rendelkezők egészségügyi szakirányú szakmai továbbképzéséről szóló rendelet (a továbbiakban: R.2.) hatálybalépését követő 90. napon hatályát veszti.
+7. §[^6] (1)[^7] Az 1. § (2) bekezdés b) pontja és (3)–(4) bekezdése a szakképzésről szóló törvény alapján alap-, közép-, emeltszintű, valamint felsőfokú egészségügyi szakképesítéssel, egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán szerzett szakképzettséggel rendelkezők egészségügyi szakirányú szakmai továbbképzéséről szóló rendelet (a továbbiakban: R.2.) hatálybalépését követő 90. napon hatályát veszti.
 
 (2) Az 1. § (2) bekezdés b) pontja szerint kiadott utasítás alapján egészségügyi tevékenység az R.2. hatálybalépését követő 180. napig végezhető.
 
@@ -72,4 +72,5 @@ e) Nem várt esemény felismerése, elhárítása (inkompatibilitás, extravasat
 
 f) Perifériás véna kanül további átjárhatóságának biztosítása, zárása vagy perifériás beviteli hely megszüntetése
 
-[^5]: A 7. §-t a 6/2010. (II. 24.) EüM rendelet 2. §-a iktatta be.
+[^6]: A 7. §-t a 6/2010. (II. 24.) EüM rendelet 2. §-a iktatta be.
+[^7]: A 7. § (1) bekezdése a 15/2010. (IV. 9.) EüM rendelet 15. § (2) bekezdése szerint módosított szöveg.

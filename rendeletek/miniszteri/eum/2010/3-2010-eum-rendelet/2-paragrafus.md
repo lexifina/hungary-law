@@ -25,3 +25,7 @@ d) az adott beteg (betegek) és az ápolószemélyzet egymástól való fizikai 
 e) a betegbiztonság követelményeinek
 
 megfelelően jár el.
+
+(4)[^5] A Mellékletben meghatározottaktól eltérően az ápoló az orvos utasítására az orvossal együttműködve végzendő tevékenységét az orvos utasítására önállóan is elláthatja, ha az adott kompetencia vonatkozásában licenccel rendelkezik.
+
+[^5]: A 2. § (4) bekezdését a 15/2010. (IV. 9.) EüM rendelet 15. § (1) bekezdése iktatta be.
