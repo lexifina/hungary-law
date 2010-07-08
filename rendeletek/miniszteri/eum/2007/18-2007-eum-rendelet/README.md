@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2007-18-20-0B.5 | 18/2007. (IV. 17.) EüM rendelet |
+| 2010-07-08 | 2007-18-20-0B.6 | 15/2010. (IV. 9.) EüM rendelet |

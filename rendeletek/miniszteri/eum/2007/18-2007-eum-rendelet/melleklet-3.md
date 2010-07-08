@@ -1,4 +1,4 @@
-3. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^32]
+3. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^33]
 
 A kérelem adattartalma
 
@@ -174,4 +174,4 @@ b) tudományos fokozat megszerzését igazoló dokumentum (ha van ilyen),
 
 c) az Eütv. 112/B. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem élt a XVIII. pont szerinti kérelemmel].
 
-[^32]: A 3. számú melléklet a 11/2009. (IV. 10.) EüM rendelet 6. §-ával megállapított, az 50/2009. (XII. 30.) EüM rendelet 5. §-a szerint módosított szöveg.
+[^33]: A 3. számú melléklet a 11/2009. (IV. 10.) EüM rendelet 6. §-ával megállapított, az 50/2009. (XII. 30.) EüM rendelet 5. §-a szerint módosított szöveg.
