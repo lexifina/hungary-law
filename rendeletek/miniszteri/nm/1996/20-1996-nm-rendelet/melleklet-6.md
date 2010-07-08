@@ -42,7 +42,7 @@
 
 ## beteg (törvényes képviselő) aláírása
 
-6. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^18]
+6. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^19]
 
 ## OTTHONI PARENTERÁLIS TÁPLÁLÁS FELMÉRŐ ÉS KÖVETŐ LAP tartalmi szempontok
 
@@ -110,4 +110,4 @@ P. H.
 
 | szakápoló | elrendelő orvos |
 
-[^18]: A 6. számú mellékletet a 26/2009. (VIII. 5.) EüM rendelet 4. § (6) bekezdése iktatta be.
+[^19]: A 6. számú mellékletet a 26/2009. (VIII. 5.) EüM rendelet 4. § (6) bekezdése iktatta be.

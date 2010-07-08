@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-20-20-3
 | --- | --- | --- |
 | 2009-08-20 | 1996-20-20-3D.3 | 20/1996. (VII. 26.) NM rendelet |
 | 2010-03-01 | 1996-20-20-3D.4 | 26/2009. (VIII. 5.) EüM rendelet |
+| 2010-07-08 | 1996-20-20-3D.5 | 15/1999. (VI. 9.) EüM rendelet |

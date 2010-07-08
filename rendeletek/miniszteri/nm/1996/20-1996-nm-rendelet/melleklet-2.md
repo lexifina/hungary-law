@@ -1,4 +1,4 @@
-2. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^15]
+2. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^16]
 
 ## Az otthoni szakápolás és otthoni hospice ellátás működtetésének tárgyi feltételei
 
@@ -102,4 +102,4 @@ Célzott mozgást segítő eszközök
 
 Szögmérő és a gyógytornászok egyéb eszközei
 
-[^15]: A 2. számú melléklet a 26/2009. (VIII. 5.) EüM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^16]: A 2. számú melléklet a 26/2009. (VIII. 5.) EüM rendelet 4. § (3) bekezdésével megállapított szöveg.

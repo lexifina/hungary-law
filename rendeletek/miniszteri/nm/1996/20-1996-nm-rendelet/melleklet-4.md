@@ -16,7 +16,7 @@
 
 ## aláírás
 
-4. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^16]
+4. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^17]
 
 I. ÁPOLÁSI ANAMNÉZIS
 
@@ -428,4 +428,4 @@ IV. FÁJDALOM FELMÉRŐ LAP
 
 (csak otthoni hospice ellátás során)
 
-[^16]: A 4. számú melléklet a 26/2009. (VIII. 5.) EüM rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^17]: A 4. számú melléklet a 26/2009. (VIII. 5.) EüM rendelet 4. § (4) bekezdése szerint módosított szöveg.
