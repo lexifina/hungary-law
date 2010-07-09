@@ -1,8 +1,8 @@
-## Kiegyenlítő mechanizmus[^25]
+## Kiegyenlítő mechanizmus[^26]
 
-## 1.[^26] A kiegyenlítő fizetések általános szabályai
+## 1.[^27] A kiegyenlítő fizetések általános szabályai
 
-10/A. §[^27] (1) A 7. § szerinti földgázelosztási díjakból származó árbevételt az elosztói engedélyesek között indokolt költségeik arányában meg kell osztani, amelynek érdekében a 10/B. § szerinti havi és a 10/C. § szerinti éves kiegyenlítő fizetéseket kell végrehajtani a 10/A–10/C. §-ban meghatározott szempontok figyelembevételével.
+10/A. §[^28] (1) A 7. § szerinti földgázelosztási díjakból származó árbevételt az elosztói engedélyesek között indokolt költségeik arányában meg kell osztani, amelynek érdekében a 10/B. § szerinti havi és a 10/C. § szerinti éves kiegyenlítő fizetéseket kell végrehajtani a 10/A–10/C. §-ban meghatározott szempontok figyelembevételével.
 
 (2) A kiegyenlítő fizetések számítása során figyelembe kell venni:
 
@@ -12,7 +12,7 @@ b) a földgáz rendszerhasználat árszabályozásának kereteiről szóló jogs
 
 c) a hőmérséklet-korrigált mennyiségi adatokat és súlyarányokat, valamint azok változását akként, hogy a változásnak megfelelően korrigálásra kerül a költség-felülvizsgálat szerinti indokolt árbevételigény,
 
-d)[^28] a felhasználói létszámot, a felhasználóknál felszerelt gázmérők névleges teljesítményére vonatkozó adatokat, a felhasználói kapacitáslekötéseket (MJ/h), valamint a fentiek változását,
+d)[^29] a felhasználói létszámot, a felhasználóknál felszerelt gázmérők névleges teljesítményére vonatkozó adatokat, a felhasználói kapacitáslekötéseket (MJ/h), valamint a fentiek változását,
 
 e) az elosztói engedélyesek által a földgázelosztásból származó árbevétel alapján fizetendő és a kiegyenlítő fizetések miatt felmerült adók és díjak nettó árbevételre vetített tárgyévi átlagos értékét, valamint a kiegyenlítő fizetések kapcsán véglegesen átadott pénzeszköz után fizetendő különadót, mint be- és kifizetéscsökkentő tételeket,
 
@@ -28,7 +28,7 @@ i) az indokolt árbevétel számításánál figyelembe vett, az adott elosztói
 
 (4) Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest nem változnak, az adott elosztói engedélyes korrigált indokolt árbevételigénye az elosztói engedélyesek összes tényleges árbevételének – az elosztói engedélyes költség-felülvizsgálat szerinti elismert árbevételigénye arányában – az adott elosztói engedélyesre jutó hányada, amely a 8. melléklet (b) jelű képlete szerinti számítással kerül meghatározásra.
 
-(5)[^29] Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest változott, akkor a (4) bekezdés szerinti elismert árbevételigény figyelembevétele előtt elosztói engedélyesenként a költség-felülvizsgálat szerinti elismert árbevételigényt alap- és kapacitásdíjból és forgalmi díjból származó árbevételigényre kell osztani a díjszámításhoz használt adatokkal kalkulált alap- és kapacitásdíjból és forgalmi díjból származó árbevétel arányai alapján. Az elismert árbevételigény alap- és kapacitásdíjas részarányát a díjszámításnál figyelembe vett előzetes és a (2) bekezdés d) pontja szerinti tény adatok arányában, a forgalmi díjas részarányát a díjszámításnál figyelembe vett és a – földgáz-rendszerhasználat árszabályozásának kereteiről szóló jogszabály szerint módosított – hőmérséklet-korrigált mennyiség arányában kell korrigálni.
+(5)[^30] Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest változott, akkor a (4) bekezdés szerinti elismert árbevételigény figyelembevétele előtt elosztói engedélyesenként a költség-felülvizsgálat szerinti elismert árbevételigényt alap- és kapacitásdíjból és forgalmi díjból származó árbevételigényre kell osztani a díjszámításhoz használt adatokkal kalkulált alap- és kapacitásdíjból és forgalmi díjból származó árbevétel arányai alapján. Az elismert árbevételigény alap- és kapacitásdíjas részarányát a díjszámításnál figyelembe vett előzetes és a (2) bekezdés d) pontja szerinti tény adatok arányában, a forgalmi díjas részarányát a díjszámításnál figyelembe vett és a – földgáz-rendszerhasználat árszabályozásának kereteiről szóló jogszabály szerint módosított – hőmérséklet-korrigált mennyiség arányában kell korrigálni.
 
 (6) Amennyiben a (3) bekezdés szerint számított különbség pozitív, az elosztói engedélyes kiegyenlítő befizetésre köteles. Ha a (3) bekezdés szerint számított különbség negatív, az elosztói engedélyes a pénzügyi szervezet által teljesített kiegyenlítő kifizetésre jogosult.
 
@@ -36,11 +36,11 @@ i) az indokolt árbevétel számításánál figyelembe vett, az adott elosztói
 
 (8) A megbízott pénzügyi szervezetnek befizetett összegeket (kiegyenlítő befizetéseket) az elosztói engedélyes egyéb ráfordításként, és tájékoztatási kötelezettsége során az egyéb ráfordításokon belül a Hivatal számára elkülönítetten is köteles kimutatni.
 
-(9)[^30] Az elosztói engedélyesenként figyelembe vett tény és hőmérséklet korrigált mennyiség hőmennyiségre történő átszámításánál az adott elosztói területet ellátó gázátadó állomáshoz rendelt, a szállítóvezetéken – az elszámolás időszakára vonatkozóan – mért tény fűtőértéket kell figyelembe venni és alkalmazni.
+(9)[^31] Az elosztói engedélyesenként figyelembe vett tény és hőmérséklet korrigált mennyiség hőmennyiségre történő átszámításánál az adott elosztói területet ellátó gázátadó állomáshoz rendelt, a szállítóvezetéken – az elszámolás időszakára vonatkozóan – mért tény fűtőértéket kell figyelembe venni és alkalmazni.
 
-[^25]: A 10/A. §-t megelőző címet a 73/2009. (XII. 7.) KHEM rendelet 2. §-a iktatta be.
-[^26]: A 10/A. §-t megelőző alcímet a 73/2009. (XII. 7.) KHEM rendelet 2. §-a iktatta be.
-[^27]: A 10/A. §-t a 73/2009. (XII. 7.) KHEM rendelet 2. §-a iktatta be.
-[^28]: A 10/A. § (2) bekezdés d) pontja a 4/2010. (VI. 30.) NFM rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^29]: A 10/A. § (5) bekezdése a 4/2010. (VI. 30.) NFM rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^30]: A 10/A. § (9) bekezdését a 4/2010. (VI. 30.) NFM rendelet 5. §-a iktatta be.
+[^26]: A 10/A. §-t megelőző címet a 73/2009. (XII. 7.) KHEM rendelet 2. §-a iktatta be.
+[^27]: A 10/A. §-t megelőző alcímet a 73/2009. (XII. 7.) KHEM rendelet 2. §-a iktatta be.
+[^28]: A 10/A. §-t a 73/2009. (XII. 7.) KHEM rendelet 2. §-a iktatta be.
+[^29]: A 10/A. § (2) bekezdés d) pontja a 4/2010. (VI. 30.) NFM rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^30]: A 10/A. § (5) bekezdése a 4/2010. (VI. 30.) NFM rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^31]: A 10/A. § (9) bekezdését a 4/2010. (VI. 30.) NFM rendelet 5. §-a iktatta be.

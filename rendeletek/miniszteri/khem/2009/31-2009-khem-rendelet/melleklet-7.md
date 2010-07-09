@@ -76,6 +76,6 @@
 
 | Zalaegerszeg | Nagylengyel 1-1, Nagylengyel 1-2, Nagylengyel KTD ZRG, Pókaszepetk 1-1, Pókaszepetk 1-2, Zalaegerszeg 1+2, Zalaegerszeg 1, Zalaegerszeg 2, Nagylengyel KTD NLT, Nagylengyel KTD NLT-3 |
 
-7. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^68]
+7. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^69]
 
-[^68]: A 7. mellékletet az 53/2009. (X. 6.) KHEM rendelet 2. § (2) bekezdése iktatta be.
+[^69]: A 7. mellékletet az 53/2009. (X. 6.) KHEM rendelet 2. § (2) bekezdése iktatta be.

@@ -1,3 +1,5 @@
+## 7/A. §[^25] Az elosztói engedélyes a Ft/GJ-ban történő elszámolás helyett Ft/MJ-ban történő elszámolást is alkalmazhat.
+
 ## Tárolási díjrendszer
 
 8. § (1) A földgáztárolási díj részeként
@@ -31,3 +33,5 @@ d) a Magyar Szénhidrogén Készletező Szövetség
 (5) A (4) bekezdés szerinti díjfizetésre kötelezetteket az (1) bekezdésben meghatározott földgáztárolási díjon felül – a 3. mellékletben meghatározott áralkalmazási feltételeken kívül – más földgáztárolási díj-fizetési kötelezettség nem terheli.
 
 (6) A tárolási díjrendszer díjtételeit a 2. melléklet 3. pontja, áralkalmazási feltételeit a 3. melléklet 3. pontja tartalmazza.
+
+[^25]: A 7/A. §-t az 5/2010. (VII. 8.) NFM rendelet 1. §-a iktatta be.
