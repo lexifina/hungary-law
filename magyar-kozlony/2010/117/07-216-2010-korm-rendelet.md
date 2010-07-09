@@ -1,0 +1,118 @@
+# A Kormány 216/2010. (VII. 9.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 117. szám, 2010. július 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c48690d2e406d6d5c5eb59377ff2844b3fe39d03/dokumentumok/63fb476dc991043c6673de84427a5b858773d476/letoltes)
+
+---
+
+A Kormány 216/2010. (VII. 9.) Korm. rendelete
+a Balassi Intézet létrehozásáról szóló 309/2006. (XII. 23.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés
+a)–b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Balassi Intézet létrehozásáról szóló 309/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-a helyébe
+a következő rendelkezés lép:
+„1. § A Kormány felismerve annak szükségességét, hogy
+a) a nemzeti együttműködés rendszerében a nemzetpolitikai prioritásoknak hatékony képviseletet és stratégiailag
+összehangolt kommunikációt kell biztosítani,
+b) a magyarság jó hírének eljuttatása a nemzetek közösségéhez, közös értékeink hazai és nemzetközi
+megismertetése, a tudatos, értékorientált országkép-építés, a határon inneni és túli magyarság kulturális értékeinek és
+kapcsolatainak ápolása, fejlesztése, a magyar–magyar kapcsolatok folyamatos fejlesztése elsődleges nemzeti érdek,
+c) az országkép-építés összetett tevékenység, amely magyarságpolitikai, stratégiai kommunikációs, kulturális,
+kulturális-diplomáciai, külpolitikai, turisztikai, befektetést ösztönző, innovációs, valamint oktatási-tudományos
+feladatok egymástól el nem választható egységét jelenti,
+d) az a)–c) pontban foglaltak biztosítása érdekében operatív, megfelelő tudásközpontra és infrastruktúrára van
+szükség,
+az ezzel összefüggő egyes állami feladatok ellátására létrehozza a Balassi Intézetet.”
+2. §
+(1) A Rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Balassi Intézet központi hivatal. A Balassi Intézetnek a központi államigazgatási szervekről, valamint a Kormány
+tagjai és az államtitkárok jogállásáról szóló törvény szerinti irányítását – a 2. § (5)–(6) bekezdésében, valamint
+az 5. §-ban foglaltak szerint – a közigazgatási és igazságügyi miniszter (a továbbiakban: miniszter) látja el.”
+(2) A Rendelet 2. §-a következő (5)–(7) bekezdéssel egészül ki:
+„(5) A Balassi Intézet külföldi magyar intézetek igazgatásáért felelős szervezeti egysége vezetőjének kinevezése
+a kultúráért felelős miniszterrel, valamint a külpolitikáért felelős miniszterrel lefolytatott elő zetes egyeztetést
+követően történik.
+(6) A Balassi Intézet külföldi magyar intézetek igazgatásáért felelős szervezeti egysége a tevékenységének végzése
+során szorosan együttműködik a kultúráért felelős miniszterrel, valamint a külpolitikáért felelős miniszterrel.
+(7) A Balassi Intézet főigazgatója – a miniszter átruházott hatáskörében eljárva – szakmai felügyeleti jogot gyakorol
+a Hungarofest Nonprofit Kft., a Millenáris Nonprofit Kft. és a Design Terminál Nonprofit Kft. tevékenysége felett.
+
+A szakmai felügyelet tartalmát az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és
+hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 120. § c) pontja szerint megkötött megállapodás rögzíti.”
+3. § A Rendelet a következő 2/A. §-sal egészül ki:
+„2/A. § (1) Az országkép-építés stratégiai irányai meghatározásának elősegítése, valamint a Balassi Intézet szakmai
+tevékenysége hatékonyságának növelése érdekében, Szakmai Tanácsadó Testület (a továbbiakban: Testület)
+működik közre.
+(2) A Testület tagjai
+a) a miniszter által delegált négy,
+b) a nemzeti erőforrás miniszter által delegált kettő,
+c) a külügyminiszter által delegált egy,
+d) a nemzetgazdasági miniszter által delegált egy,
+e) a nemzeti fejlesztési miniszter által delegált egy,
+f) a vidékfejlesztési miniszter által delegált egy, valamint
+g) a honvédelmi miniszter által delegált egy
+képviselő.
+(3) A Testület vezetőjét a miniszter nevezi ki a miniszter által delegált képviselők közül.
+(4) A Testület ügyrendjét saját maga határozza meg, amelyet a miniszter hagy jóvá.
+(5) A Testület minden év június 30. napjáig tájékoztatót készít a Kormány részére a Balassi Intézet által elkészített
+tárgyévi tevékenységről szóló beszámolóról, valamint véleményezi a Balassi Intézet tárgyévet követő évre vonatkozó
+alaptevékenységébe tartozó feladatai körében tervezett intézkedésekeit.
+(6) A Testület a tevékenységéről negyedévente beszámol a miniszternek, a nemzeti erőforrás miniszternek, valamint
+a külügyminiszternek.”
+4. § (1) A Rendelet 3. § (1) bekezdés nyitó szövegrésze helyébe a következő szöveg lép:
+„A Balassi Intézet alaptevékenysége keretében, a magyarság jó hírének a nemzetek közösségéhez való eljuttatása,
+közös értékeink hazai és nemzetközi megismertetése, a tudatos, értékorientált országkép-építés, a külpolitikai
+érdekek, a határon inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése érdekében
+– a külföldi magyar intézetek útján – ellátja az alábbi feladatokat:”
+(2) A Rendelet 3. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A Balassi Intézet alaptevékenysége keretében, a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös
+értékeink hazai és nemzetközi megismertetése, tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon
+inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése érdekében – a külföldi magyar
+intézetek útján – ellátja az alábbi feladatokat:)
+„b) figyelemmel kíséri az országok kulturális, oktatási és tudományos életét, az egyetemes magyar érdekekhez és
+kultúrához való viszonyát, tapasztalatairól rendszeresen tájékoztatja az érdekelt minisztériumokat és más hazai
+intézményeket;”
+(3) A Rendelet 3. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A Balassi Intézet alaptevékenysége keretében, a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös
+értékeink hazai és nemzetközi megismertetése, tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon
+inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése érdekében – a külföldi magyar
+intézetek útján – ellátja az alábbi feladatokat:)
+„d) segítséget nyújt a magyarság jó hírének határon túli megalapozásához és fejlesztéséhez, részt vesz a magyar
+kultúra külföldi terjesztésére irányuló tevékenység fejlesztési irányelveinek és programjának a kidolgozásában;”
+(4) A Rendelet 3. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A Balassi Intézet alaptevékenysége keretében, a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös
+értékeink hazai és nemzetközi megismertetése, tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon
+inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése érdekében – a külföldi magyar
+intézetek útján – ellátja az alábbi feladatokat:)
+„g) közreműködik a határon túli magyarok és az anyaország közötti kulturális, oktatási kapcsolatok ápolásában,
+elősegíti magyar nemzeti identitásuk megőrzését;”
+
+(5) A Rendelet 3. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A Balassi Intézet a határon túli magyar hallgatók magyarországi tanulmányainak elősegítése érdekében szakkollégiumi
+rendszert tart fenn és működtet, amely útján ellátja az alábbi feladatokat:)
+„c) a magyar felsőoktatás külföldi népszerűsítésével és a határon túli magyar felsőoktatással kapcsolatos kutatási
+feladatokat végez.”
+5. § A Rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A külföldi magyar intézetek az országkép-építést és a magyarság jó hírének a terjesztését, valamint ezen belül
+kulturális, tudományos és oktatási célokat szolgáló intézmények, amelyek irányítását a miniszter – a (2) bekezdésben
+meghatározottak vonatkozásában a külügyminiszterrel együttműködve – a Balassi Intézet útján látja el.”
+6. § A Rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A külföldi magyar intézet alapításáról, megszüntetéséről, típusa megváltoztatásáról vagy fiókintézet létesítéséről,
+megszüntetéséről a Magyar Köztársaság Kormánya a miniszternek a külügyminiszterrel közös – a nemzeti erőforrás
+miniszterrel, a nemzetgazdasági miniszterrel, valamint a nemzeti fejlesztési miniszterrel egyeztetett – javaslata alapján
+dönt.”
+7. § A Rendelet
+a) 4. § (2) bekezdés nyitó szövegrészében, 4. § (2) bekezdés b) pont 1. alpontjában a „külföldi kulturális intézet”
+szövegrész helyébe a „külföldi magyar intézet” szöveg,
+b) 4. § (2) bekezdés a) pontjában, 7. § (4) bekezdés a) pontjában a „külföldi kulturális intézetek” szövegrész helyébe
+a „külföldi magyar intézetek” szöveg,
+c) 5. § (2) bekezdésében a „Külföldi kulturális intézet” szövegrész helyébe a „Külföldi magyar intézet” szöveg,
+d) 7. § (5) bekezdésében a „külföldi kulturális intézetben” szövegrész helyébe a „külföldi magyar intézetben” szöveg,
+a „külföldi kulturális intézetekben” szövegrész helyébe a „külföldi magyar intézetekben” szöveg
+lép.
+8. § Ez a rendelet a kihirdetését követő napon lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Dr. Navracsics Tibor s. k.,
+miniszterelnök-helyettes
+
+IX.
+Ha tá ro za tok Tá ra
