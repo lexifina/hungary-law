@@ -1,4 +1,4 @@
-5. §[^1] (1) A képzést és a vizsgát az adott év március 1-jén hatályos szabályok szerint megszerezhető valamennyi licenc vonatkozásában országosan legalább évente egy alkalommal meg kell hirdetni.
+5. §[^2] (1) A képzést és a vizsgát az adott év március 1-jén hatályos szabályok szerint megszerezhető valamennyi licenc vonatkozásában országosan legalább évente egy alkalommal meg kell hirdetni.
 
 (2) Azokat a képzéseket és vizsgákat, amelyeket adott évben egyetlen más képzést szervező sem indít
 
@@ -8,4 +8,4 @@ b) az egészségügyi főiskolai végzettséggel vagy felsőoktatási intézmén
 
 kötelesek meghirdetni és jelentkezés esetén azok lebonyolításáról gondoskodni.
 
-[^1]: Az 5. § a 11. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^2]: Az 5. § a 11. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.

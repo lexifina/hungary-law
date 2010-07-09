@@ -1,4 +1,4 @@
-12. §[^2] (1) Képzési kötelezettség teljesítése nélkül jogosult vizsgát tenni a szakdolgozó, ha
+12. §[^3] (1) Képzési kötelezettség teljesítése nélkül jogosult vizsgát tenni a szakdolgozó, ha
 
 a) igazolja, hogy az adott licenc vonatkozásában az 1. mellékletben szakmai feltételként megjelölt területen a vizsgára történő jelentkezésig legalább 2 éves gyakorlatot szerzett és
 
@@ -22,4 +22,4 @@ c) a működési engedélyt kiállító szerv
 
 (6) Az (1) bekezdés szerinti vizsgáról szóló bizonyítványban a képzést szervező nevét és címét, valamint a képzés lebonyolításának helyét nem kell feltüntetni.
 
-[^2]: Az 12. § a 16. § (2) bekezdése alapján hatályát vesztette 2011. augusztus 1. napjával.
+[^3]: Az 12. § a 16. § (2) bekezdése alapján hatályát vesztette 2011. augusztus 1. napjával.

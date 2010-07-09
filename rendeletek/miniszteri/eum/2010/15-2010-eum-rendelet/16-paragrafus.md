@@ -1,7 +1,10 @@
-16. §[^3] (1) A 13–15. § az e rendelet hatálybalépését követő napon hatályát veszti.
+## 13–15. §[^4]
+
+16. §[^5] (1) A 13–15. § az e rendelet hatálybalépését követő napon hatályát veszti.
 
 (2) A 12. § 2011. augusztus 1-jén hatályát veszti.
 
 (3) Ez a § 2011. augusztus 2-án hatályát veszti.
 
-[^3]: Az 16. § a (3) bekezdés alapján hatályát vesztette 2011. augusztus 2. napjával.
+[^4]: A 13–15. §-t a 16. § (1) bekezdése hatályon kívül helyezte.
+[^5]: Az 16. § a (3) bekezdés alapján hatályát vesztette 2011. augusztus 2. napjával.
