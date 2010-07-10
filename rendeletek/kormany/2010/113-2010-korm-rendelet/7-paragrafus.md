@@ -1,1 +1,0 @@
-## megvalósuló közbeszerzési eljárásban.
