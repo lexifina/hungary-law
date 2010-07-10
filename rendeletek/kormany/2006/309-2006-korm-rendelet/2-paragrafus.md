@@ -1,11 +1,19 @@
-## 1. § A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotási hatáskörében a magyar nyelv és kultúra megismertetése, az egyetemes magyar kulturális örökség tudományos feltárása és közkinccsé tétele, valamint az ezekkel kapcsolatos kulturális és közművelődési, oktatási és oktatásszervezési, tudományos és kutatásszervezési tevékenységek, illetve a határon túli magyarság oktatásával összefüggő egyes állami feladatok ellátására létrehozza a Balassi Intézetet.
+2. § (1)[^2] A Balassi Intézet központi hivatal. A Balassi Intézetnek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti irányítását – a 2. § (5)–(6) bekezdésében, valamint az 5. §-ban foglaltak szerint – a közigazgatási és igazságügyi miniszter (a továbbiakban: miniszter) látja el.
 
-2. § (1) A Balassi Intézet központi hivatal. A Balassi Intézetnek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. §-a és 74. §-a szerinti irányítását – az e rendelet 5. §-ában foglaltak figyelembevételével – az oktatási és kulturális miniszter (a továbbiakban: miniszter) látja el.
-
-(2)[^1] A Balassi Intézet önállóan működő és gazdálkodó közszolgáltató központi költségvetési szerv.
+(2)[^3] A Balassi Intézet önállóan működő és gazdálkodó közszolgáltató központi költségvetési szerv.
 
 (3) A Balassi Intézet élén a főigazgató áll.
 
 (4) A Balassi Intézet székhelye Budapest.
 
-[^1]: A 2. § (2) bekezdése a 231/2009. (X. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+(5)[^4] A Balassi Intézet külföldi magyar intézetek igazgatásáért felelős szervezeti egysége vezetőjének kinevezése a kultúráért felelős miniszterrel, valamint a külpolitikáért felelős miniszterrel lefolytatott előzetes egyeztetést követően történik.
+
+(6)[^5] A Balassi Intézet külföldi magyar intézetek igazgatásáért felelős szervezeti egysége a tevékenységének végzése során szorosan együttműködik a kultúráért felelős miniszterrel, valamint a külpolitikáért felelős miniszterrel.
+
+(7)[^6] A Balassi Intézet főigazgatója – a miniszter átruházott hatáskörében eljárva – szakmai felügyeleti jogot gyakorol a Hungarofest Nonprofit Kft., a Millenáris Nonprofit Kft. és a Design Terminál Nonprofit Kft. tevékenysége felett. A szakmai felügyelet tartalmát az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 120. § c) pontja szerint megkötött megállapodás rögzíti.
+
+[^2]: A 2. § (1) bekezdése a 216/2010. (VII. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 231/2009. (X. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (5) bekezdését a 216/2010. (VII. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. § (6) bekezdését a 216/2010. (VII. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 2. § (7) bekezdését a 216/2010. (VII. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
