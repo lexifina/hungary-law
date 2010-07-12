@@ -304,7 +304,7 @@ dr. Horváth Zsolt (Fidesz)[^10]
 
 Boldog István (Fidesz)
 
-dr. Tóth József (Fidesz)[^11]
+dr. Vitányi István (Fidesz)[^11]
 
 Földesi Gyula (Fidesz)
 
@@ -676,6 +676,8 @@ Egy bizottsági tagsági helyre a Jobbik képviselőcsoportja jogosult jelölni.
 
 Mile Lajos (LMP)[^39]
 
+dr. Tóth József (Fidesz)[^40]
+
 p) Oktatási, tudományos és kutatási bizottság (21 fő)
 
 Elnök: Pokorni Zoltán (Fidesz)
@@ -758,7 +760,7 @@ Tasó László (Fidesz)
 
 dr. Tiba István (Fidesz)
 
-dr. Szűcs Lajos (Fidesz)[^40]
+dr. Szűcs Lajos (Fidesz)[^41]
 
 Vigh László (Fidesz)
 
@@ -778,7 +780,7 @@ Korondi Miklós (Jobbik)
 
 Ivády Gábor (LMP)
 
-r)[^41] Sport- és turizmusbizottság (18 fő)
+r)[^42] Sport- és turizmusbizottság (18 fő)
 
 Elnök: Bánki Erik (Fidesz)
 
@@ -844,7 +846,7 @@ dr. Bóka István (Fidesz)
 
 dr. Dancsó József (Fidesz)
 
-dr. Pósán László (Fidesz)[^42]
+dr. Pósán László (Fidesz)[^43]
 
 Ékes József (Fidesz)
 
@@ -950,11 +952,11 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^8]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^9]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^10]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^11]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: Az 54/2010. (VII. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^12]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^13]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg..
+[^13]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg.
 [^14]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^15]: A 24/2010. (V. 20.) OGY határozattal megállapított szöveg.
+[^15]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^16]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^17]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^18]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
@@ -979,6 +981,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^37]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^38]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^39]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^40]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
-[^41]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^42]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^40]: Az 54/2010. (VII. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^41]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^42]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított szöveg.
+[^43]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
