@@ -10,8 +10,9 @@ a Magyar–Orosz Gazdasági Együttműködési Vegyes Bizottság magyar tagozata
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^2]
 
-4. A határozat 3. pontja a határozat hatálybalépését követő napon hatályát veszti. E pont a határozat hatálybalépését követő második napon hatályát veszti.
+4.[^3]
 
-[^1]: A 3. pontot a 4. pont hatályon kívül helyezte.
+[^2]: A 3. pontot a 4. pont hatályon kívül helyezte.
+[^3]: A 4. pont ugyanezen pont alapján hatályát vesztette.

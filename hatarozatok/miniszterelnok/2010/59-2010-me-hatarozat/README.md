@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-59-30-6
 | --- | --- | --- |
 | 2010-07-10 | 2010-59-30-63.1 | 59/2010. (VII. 9.) ME határozat |
 | 2010-07-11 | 2010-59-30-63.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-07-12 | 2010-59-30-63.3 | 79/2012. (VII. 2.) ME határozat |
