@@ -22,11 +22,11 @@ h) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. §-ának (
 
 i) állami tulajdoni részesedés értékesítése;
 
-j) a Magyar Nemzeti Vagyonkezelő Zrt.-re (a továbbiakban: MNV Zrt.) rábízott állami vagyonba tartozó gazdasági társaságoknak nyújtott hitel-, kölcsön és annak visszatérülése, valamint az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei;
+j) a Magyar Nemzeti Vagyonkezelő Zrt.-re (a továbbiakban: MNV Zrt.) rábízott állami vagyonba tartozó gazdasági társaságoknak nyújtott hitel-, kölcsön és annak visszatérülése, valamint az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei.
 
-k) többségi állami tulajdonú gazdasági társaságok osztalékának elvonása (ideértve az osztalék-előleget is);
+k)
 
-l) többségi állami tulajdonú gazdasági társaságok tőkéjének emelése és csökkentése.
+l)
 
 (4) A finanszírozási célú pénzügyi műveletek költségvetési előirányzatként, illetve annak teljesítéseként el nem számolható és meg nem jeleníthető finanszírozási bevételek és finanszírozási kiadások teljesítésével járnak együtt, a pénzeszközök változását eredményezik.
 

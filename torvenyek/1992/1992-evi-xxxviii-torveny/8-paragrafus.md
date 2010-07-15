@@ -6,7 +6,7 @@
 
 (4) A költségvetési kiadások között kell elszámolni az Európai Unió közös költségvetéséhez való, a közösségi jogszabályok alapján meghatározott hozzájárulásokat, és bevételként a vámok, valamint a cukorágazati hozzájárulás beszedési költségének közösségi jogszabály szerinti megtérítését.
 
-(5) A többségi állami tulajdonban lévő gazdasági társaságok számviteli eredményének az állami tulajdonra eső arányos részét a mérlegkészítés évében költségvetési tételként el kell számolni. A veszteséget kiadásként, a nyereséget bevételként kell elszámolni.
+(5)
 
 (6) Amennyiben gazdálkodó szervezet a Magyar Állammal vagy önkormányzattal kötött, legalább 5 év lejáratú szerződés keretében beruházást hajt végre annak érdekében, hogy a létrehozott eszköz felhasználásával szolgáltatást nyújtson, akkor
 
