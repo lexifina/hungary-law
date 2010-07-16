@@ -1,3 +1,0 @@
-4. § Az Áht. 52. § (1) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(1) A Kormány a költségvetési törvény utolsó költségvetési évében szeptember 30-áig – az országgyűlési képviselők általános választásának évében legkésőbb október 31-éig – benyújtja az Országgyűlésnek a következő egy vagy többéves – az e törvény 7. § (3) bekezdése szerinti, költségvetési évenként meghatározott előirányzatokat tartalmazó – költségvetési törvényjavaslatát, és ehhez tájékoztatási céllal az államháztartás helyzetét bemutató összefoglaló táblázatokat, mérlegeket mellékel. A fejezeti részletező táblázatokat és ezek szöveges indokolásait október 15-ig – az országgyűlési képviselők általános választásának évében legkésőbb november 15-ig – kell az Országgyűlésnek benyújtani.”
