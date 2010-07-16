@@ -1,16 +1,8 @@
 ## 1.
 
-## 2. Az R. 3. számú melléklet 1. részében foglalt táblázat b:8. mezőjében a „p-Fenilén-diamin, N-szubsztituált származékai és sói; o-Fenilén-diamin (1) N-szubsztituált származékai, az e mellékletben máshol felsorolt és a 2. számú melléklet 1309., 1311. és 1312. referenciaszámai alatt felsorolt származékok kivételével” szövegrész helyébe a „p-Fenilén-diamin N-szubsztituált származékai és sóik; o-Fenilén-diamin N-szubsztituált származékai (1) az e mellékletben és a 2. számú melléklet 1309., 1311. és 1312. hivatkozási számai alatt felsorolt származékok kivételével” szöveg lép.
+## 2.
 
-## 3. Az R. 3. számú melléklet 1. részében foglalt táblázat a következő 8a. sorral egészül ki:
-
-| [Referencia szám | Hatóanyag neve |  | Korlátozások |  | Címkére felírandó felhasználási feltételek és figyelmeztetések |
-
-| alkalmazási terület és/vagy felhasználás | maximálisan megengedett koncentráció a végtermékben | egyéb korlátozások és követelmények |
-
-| a | b | c | d | e | f] |
-
-| 8a. | p-fenilén-diamin és sói (1) CAS-szám: 106-50-3 EINECS-szám: 203-404-7 p-Phenylenediamine HCl (p-fenilén-diamin HCl) CAS-szám: 624-18-0 EINECS-szám: 210-834-9 p-Phenylenediamine sulfate (p-fenilén-diamin szulfát) CAS-szám: 16245-77-5 EINECS-szám: 240-357-1 | Oxidáló hajfestékek összetevőjeként a) általános használatra b) szakipari használatra |  | a) és b) Oxidatív körülmények között összekeverve a hajra alkalmazott legnagyobb koncentráció nem haladhatja meg a 2%-ot (szabad bázisra számítva). | a) Allergiás reakciót válthat ki. Fenilén-diaminokat tartalmaz. Szempilla- és szemöldökfestésre nem használható. A keverési arányt fel kell tüntetni a címkén. b) Csak szakipari használatra. Fenilén-diaminokat tartalmaz. Allergiás reakciót válthat ki. Védőkesztyű viselése kötelező! A keverési arányt fel kell tüntetni a címkén. |
+## 3.
 
 ## 4. Az R. 3. számú melléklet 1. részében foglalt táblázat
 
@@ -248,17 +240,9 @@
 
 ## szöveg lép.
 
-## 5. Az R. 3. számú melléklet 1. részében foglalt táblázat b:9. mezőjében a „Methilfeniléndiaminok és N-szubsztituált származékaik és sóik (1) a 2. számú melléklet 364-es, 1310-es és 1313-as anyagának kivételével” szövegrész helyébe a „Metil-fenilén-diaminok, N-szubsztituált származékaik és azok sói (1) az e melléklet 9a. hivatkozási száma alatt szereplő anyag, valamint a 2. számú melléklet 364., 1310. és 1313. hivatkozási számai alatt felsorolt anyagok kivételével” szöveg lép.
+## 5.
 
-## 6. Az R. 3. számú melléklet 1. részében foglalt táblázat a következő 9a. sorral egészül ki:
-
-| [Referencia szám | Hatóanyag neve |  | Korlátozások |  | Címkére felírandó felhasználási feltételek és figyelmeztetések |
-
-| alkalmazási terület és/vagy felhasználás | maximálisan megengedett koncentráció a végtermékben | egyéb korlátozások és követelmények |
-
-| a | b | c | d | e | f] |
-
-| 9a. | Toluol-2,5-diamin és sói (1) CAS-szám: 95-70-5 EINECS-szám: 202-442-1 Toluene-2,5-diamine sulfate (Toluol-2,5-diamin szulfát) CAS-szám: 615-50-9 EINECS-szám: 210-431-8 | Oxidáló hajfestékek összetevőjeként a) általános használatra b) szakipari használatra |  | a) és b) Oxidatív körülmények között összekeverve a hajra alkalmazott legnagyobb koncentráció nem haladhatja meg a 4%-ot (szabad bázisra számítva). | Lásd a 9. hivatkozási szám alatt az „f” oszlopban. |
+## 6.
 
 ## 7. Az R. 3. számú melléklet 1. részében foglalt táblázat f:26. mezőjében az „Ammónium monofluorofoszfátot tartalmaz” szövegrészt, f:27. mezőjében a „Nátrium monofluorofoszfátot tartalmaz” szövegrészt, f:28. mezőjében a „Kálium monofluorofoszfátot tartalmaz” szövegrészt, f:29. mezőjében a „Kalcium monofluorofoszfátot tartalmaz” szövegrészt, f:30. mezőjében a „Kalcium fluoridot tartalmaz” szövegrészt, f:31. mezőjében a „Nátrium fluoridot tartalmaz” szövegrészt, f:32. mezőjében a „Kálium fluoridot tartalmaz” szövegrészt, f:33. mezőjében az „Ammónium fluoridot tartalmaz” szövegrészt, f:34. mezőjében az „Alumínium fluoridot tartalmaz” szövegrészt, f:35. mezőjében az „Ón fluoridot tartalmaz” szövegrészt, f:36. mezőjében a „Hexadecil ammónium fluoridot tartalmaz” szövegrészt, f:37. mezőjében a „3-(N-Hexadecil-N-2-hidroxietil-ammónia) propilbisz (2-hidroxietil) ammónium dihidrofluoridot tartalmaz” szövegrészt, f:38. mezőjében az „NN'N'-trisz(polioxietilén)-N-hexa-decilpropiléndiamin dihidrofluoridot tartalmaz” szövegrészt, f:39. mezőjében az „Oktadecenil ammónium fluoridot tartalmaz” szövegrészt, f:40. mezőjében a „Nátrium fluorszilikátot tartalmaz” szövegrészt, f:41. mezőjében a „Kálium fluorszilikátot tartalmaz” szövegrészt, f:42. mezőjében az „Ammónium fluorszilikátot tartalmaz” szövegrészt, f:43. mezőjében a „Magnézium fluorszilikátot tartalmaz” szövegrészt, f:47. mezőjében a „Nikometanol hidrofluoridot tartalmaz” szövegrészt, f:56. mezőjében a „Magnézium fluoridot tartalmaz” szövegrészt követő szövegrészek helyébe az
 
