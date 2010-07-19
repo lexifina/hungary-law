@@ -10,6 +10,10 @@ Gulyás Gergely (Fidesz)
 
 dr. Mátrai Márta (Fidesz)
 
+dr. Bárándy Gergely (MSZP)[^2]
+
+dr. Gyüre Csaba (Jobbik)[^3]
+
 Tagjai:
 
 dr. Bohács Zsolt (Fidesz)
@@ -64,8 +68,6 @@ dr. Tarnai Richárd (KDNP)
 
 dr. Vejkey Imre (KDNP)
 
-dr. Bárándy Gergely (MSZP)
-
 dr. Hiller István (MSZP)
 
 dr. Ipkovich György (MSZP)
@@ -82,8 +84,6 @@ dr. Apáti István (Jobbik)
 
 dr. Gaudi-Nagy Tamás (Jobbik)
 
-dr. Gyüre Csaba (Jobbik)
-
 Murányi Levente (Jobbik)
 
 Novák Előd (Jobbik)
@@ -95,3 +95,6 @@ dr. Schiffer András (LMP)
 Szilágyi Péter (LMP)
 
 2. E határozat elfogadásakor lép hatályba.
+
+[^2]: Az 59/2010. (VII. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: Az 59/2010. (VII. 21.) OGY határozat 1. pontjával megállapított szöveg.
