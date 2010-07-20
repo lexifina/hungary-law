@@ -1,10 +1,10 @@
 ## Adatkezelési nyilvántartás
 
-17. § (1) A nyilvántartásokba történő adatbevitelről, illetőleg adattovábbításról az adatkezelő nyilvántartást vezet.
+17. § (1) A nyilvántartásba történő adatbevitelről, illetőleg adattovábbításról az adatkezelő nyilvántartást vezet.
 
-a) a nyilvántartásokba történő bejegyzésről a bejegyzés oka, a bejegyzés időpontja, és a bejegyzést végző feltüntetésével,
+a) a nyilvántartásba történő bejegyzésről a bejegyzés oka, a bejegyzés időpontja, és a bejegyzést végző feltüntetésével,
 
-b) a nyilvántartásokból történő adatszolgáltatásról a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, valamint az adatszolgáltatás időpontjának, továbbá az adatszolgáltatást végző azonosító adatainak feltüntetésével.
+b) a nyilvántartásból történő adatszolgáltatásról a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, valamint az adatszolgáltatás időpontjának, továbbá az adatszolgáltatást végző azonosító adatainak feltüntetésével.
 
 (2) Az (1) bekezdés szerinti adatokat azok keletkezésétől számított öt évig kell megőrizni.
 
