@@ -26,6 +26,6 @@
 
 ## 2.5. A nyilvántartási számlaosztály kezelésére ez a mérési módszer nem vonatkozik.
 
-4. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^43]
+4. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^45]
 
-[^43]: A 4. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^45]: A 4. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (2) bekezdésével megállapított szöveg.
