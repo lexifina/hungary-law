@@ -5,11 +5,3 @@
 (3) Ha a Gnytv. 19. § (3) bekezdése alapján a gondnokság alá helyezés típusát cselekvőképességet kizáró gondnokság helyett a cselekvőképességet általános jelleggel korlátozó gondnokságra módosították, a módosított adat helyett a Gnytv. hatálybalépését megelőző napon a nyilvántartásban szereplő adatot kell e törvény hatálybalépését követő harminc napon belül ismét bejegyezni.
 
 (4) Ha e törvény hatálybalépését megelőzően cselekvőképességet kizáró gondnokság alá kerülést eredményező bírósági határozat vált jogerőssé, és annak alapján a cselekvőképességet kizáró gondnokságot még nem vették nyilvántartásba, a Gnytv. e törvénnyel módosított 2. § (2) bekezdés e) pontja szerint a nyilvántartásba a kizáró gondnokság tényét be kell jegyezni, az erre nyitva álló határidő e törvény hatálybalépésétől számított harminc nap.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
