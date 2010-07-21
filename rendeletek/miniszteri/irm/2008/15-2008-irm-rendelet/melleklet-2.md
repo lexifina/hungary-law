@@ -1,86 +1,748 @@
-## Az igazságügyi és rendészeti miniszter hatáskörébe tartozó szakképesítések felsorolása,
+## Az igazságügyi és rendészeti miniszter hatáskörébe tartozó szakképesítések
 
-## amelyek szakmai és vizsgakövetelményei e rendelettel kerülnek kiadásra
+|  | A | B | C | D | E | F | G | H | I | J |
 
-| Sor- szám | Szakképesítés OKJ-ben szereplő adatai | Szakmacsoport megnevezése |
+| 1 |  | Szakképesítés OKJ-ben szereplő adatai |  |
 
-| sor- száma | azonosító száma | megnevezése |
+| 2 | Sor- szám | sor- száma | azonosító száma | megnevezése | Szakmacsoport elnevezése |
 
-| 1. | 300. | 52 | 345 | 01 |  |  |  | Hatósági és közigazgatási ügyintéző | Ügyvitel szakmacsoport |
+| 3 | 1. | 284. | 54 | 343 | 03 | 0000 | 00 | 00 | Közbeszerzési referens | Közgazdaság |
 
-|  |  | 52 | 345 | 01 | 0010 | 52 | 01 | Elágazás: Migrációs ügyintéző II. |  |
+| 4 | 2. | 302. | 52 | 345 | 01 |  |  |  | Hatósági és közigazgatási ügyintéző | Ügyvitel |
 
-|  |  | 52 | 345 | 01 | 0010 | 52 | 02 | Elágazás: Nyilvántartási és okmányügyintéző |  |
+| 5 |  |  | 52 | 345 | 01 | 0010 | 52 | 01 | Elágazás: Migrációs ügyintéző II. |  |
 
-|  |  | 52 | 345 | 01 | 0001 | 61 | 01 | Ráépülés: Migrációs ügyintéző I. |  |
+| 6 |  |  | 52 | 345 | 01 | 0010 | 52 | 02 | Elágazás: Nyilvántartási és okmányügyintéző |  |
 
-| 2. | 346. | 31 | 861 | 01 | 1000 | 00 | 00 | Biztonsági őr | Egyéb szolgáltatások szakmacsoport |
+| 7 |  |  | 52 | 345 | 01 | 0001 | 61 | 01 | Ráépülés: Migrációs ügyintéző I. |  |
 
-|  |  | 31 | 861 | 01 | 0100 | 31 | 01 | Részszakképesítés: Testőr |  |
+| 8 | 3. | 306. | 55 | 346 | 03 | 0000 | 00 | 00 | Rendészeti asszisztens | Egyéb szolgáltatások |
 
-|  |  | 31 | 861 | 01 | 0100 | 31 | 02 | Részszakképesítés: Vagyonőr |  |
+| 9 | 4. | 348. | 31 | 861 | 01 | 1000 | 00 | 00 | Biztonsági őr | Egyéb szolgáltatások |
 
-|  |  | 31 | 861 | 01 | 0001 | 31 | 01 | Ráépülés: Bankőr |  |
+| 10 |  |  | 31 | 861 | 01 | 0100 | 31 | 01 | Részszakképesítés: Testőr |  |
 
-|  |  | 31 | 861 | 01 | 0001 | 31 | 02 | Ráépülés: Fegyveres biztonsági őr |  |
+| 11 |  |  | 31 | 861 | 01 | 0100 | 31 | 02 | Részszakképesítés: Vagyonőr |  |
 
-|  |  | 31 | 861 | 01 | 0001 | 31 | 03 | Ráépülés: Kutyás őr |  |
+| 12 |  |  | 31 | 861 | 01 | 0001 | 31 | 01 | Ráépülés: Bankőr |  |
 
-|  |  | 31 | 861 | 01 | 0001 | 31 | 04 | Ráépülés: Kutyavezető – biztonsági őr |  |
+| 13 |  |  | 31 | 861 | 01 | 0001 | 31 | 02 | Ráépülés: Fegyveres biztonsági őr |  |
 
-|  |  | 31 | 861 | 01 | 0001 | 31 | 05 | Ráépülés: Pénzszállító |  |
+| 14 |  |  | 31 | 861 | 01 | 0001 | 31 | 03 | Ráépülés: Kutyás őr |  |
 
-|  |  | 31 | 861 | 01 | 0001 | 31 | 06 | Ráépülés: Rendezvénybiztosító |  |
+| 15 |  |  | 31 | 861 | 01 | 0001 | 31 | 04 | Ráépülés: Kutyavezető – biztonsági őr |  |
 
-| 3. | 347. | 54 | 861 | 01 | 0000 | 00 | 00 | Biztonságszervező I. | Egyéb szolgáltatások szakmacsoport |
+| 16 |  |  | 31 | 861 | 01 | 0001 | 31 | 05 | Ráépülés: Pénzszállító |  |
 
-|  |  | 54 | 861 | 01 | 0100 | 33 | 01 | Részszakképesítés: Biztonságszervező II. |  |
+| 17 |  |  | 31 | 861 | 01 | 0001 | 31 | 06 | Ráépülés: Rendezvénybiztosító |  |
 
-| 4. | 348. | 31 | 861 | 02 | 1000 | 00 | 00 | Biztonságtechnikai szerelő, kezelő | Egyéb szolgáltatások szakmacsoport |
+| 18 | 5. | 349. | 54 | 861 | 01 | 0000 | 00 | 00 | Biztonságszervező I. | Egyéb szolgáltatások |
 
-|  |  | 31 | 861 | 02 | 0100 | 21 | 01 | Részszakképesítés: Biztonságtechnika-kezelő |  |
+| 19 |  |  | 54 | 861 | 01 | 0100 | 33 | 01 | Részszakképesítés: Biztonságszervező II. |  |
 
-|  |  | 31 | 861 | 02 | 0100 | 31 | 01 | Részszakképesítés: Elektronikus vagyonvédelmi rendszerszerelő |  |
+| 20 | 6. | 350. | 31 | 861 | 02 | 1000 | 00 | 00 | Biztonságtechnikai szerelő, kezelő | Egyéb szolgáltatások |
 
-|  |  | 31 | 861 | 02 | 0100 | 31 | 02 | Részszakképesítés: Mechanikus vagyonvédelmi rendszerszerelő |  |
+| 21 |  |  | 31 | 861 | 02 | 0100 | 21 | 01 | Részszakképesítés: Biztonságtechnika-kezelő |  |
 
-| 5. | 349. | 52 | 861 | 01 | 0000 | 00 | 00 | Büntetés-végrehajtási felügyelő I. | Egyéb szolgáltatások szakmacsoport |
+| 22 |  |  | 31 | 861 | 02 | 0100 | 31 | 01 | Részszakképesítés: Elektronikus vagyonvédelmi rendszerszerelő |  |
 
-|  |  | 52 | 861 | 01 | 0100 | 31 | 01 | Részszakképesítés: Büntetés-végrehajtási felügyelő II. |  |
+| 23 |  |  | 31 | 861 | 02 | 0100 | 31 | 02 | Részszakképesítés: Mechanikus vagyonvédelmi rendszerszerelő |  |
 
-|  |  | 52 | 861 | 01 | 0001 | 52 | 01 | Ráépülés: Büntetés-végrehajtási főfelügyelő |  |
+| 24 | 7. | 351. | 52 | 861 | 01 | 0000 | 00 | 00 | Büntetés-végrehajtási felügyelő I. | Egyéb szolgáltatások |
 
-| 6. | 361. | 52 | 861 | 03 | 0000 | 00 | 00 | Közterületfelügyelő | Egyéb szolgáltatások szakmacsoport |
+| 25 |  |  | 52 | 861 | 01 | 0100 | 31 | 01 | Részszakképesítés: Büntetés-végrehajtási felügyelő II. |  |
 
-| 7. | 363. | 52 | 861 | 04 | 0000 | 00 | 00 | Magánnyomozó | Egyéb szolgáltatások szakmacsoport |
+| 26 |  |  | 52 | 861 | 01 | 0001 | 52 | 01 | Ráépülés: Büntetés-végrehajtási főfelügyelő |  |
 
-| 8. | 367. | 31 | 861 | 03 | 0000 | 00 | 00 | Parkolóőr | Egyéb szolgáltatások szakmacsoport |
+| 27 | 8. | 363. | 52 | 861 | 03 | 0000 | 00 | 00 | Közterületfelügyelő | Egyéb szolgáltatások |
 
-|  |  | 31 | 861 | 03 | 0100 | 31 | 01 | Részszakképesítés: Díjbeszedő – leolvasó |  |
+| 28 | 9. | 365. | 52 | 861 | 04 | 0000 | 00 | 00 | Magánnyomozó | Egyéb szolgáltatások |
 
-| 9. | 369. | 61 | 861 | 01 |  |  |  | Rendészeti szervező | Egyéb szolgáltatások szakmacsoport |
+| 29 | 10. | 370. | 31 | 861 | 03 | 0000 | 00 | 00 | Parkolóőr | Egyéb szolgáltatások |
 
-|  |  | 61 | 861 | 01 | 0010 | 61 | 01 | Elágazás: Határrendész-szervező |  |
+| 30 |  |  | 31 | 861 | 03 | 0100 | 31 | 01 | Részszakképesítés: Díjbeszedő – leolvasó |  |
 
-|  |  | 61 | 861 | 01 | 0010 | 61 | 02 | Elágazás: Katasztrófavédelmi – polgári védelmi szervező |  |
+| 31 | 11. | 372. | 61 | 861 | 01 |  |  |  | Rendészeti szervező | Egyéb szolgáltatások |
 
-|  |  | 61 | 861 | 01 | 0010 | 61 | 03 | Elágazás: Rendőrszervező |  |
+| 32 |  |  | 61 | 861 | 01 | 0010 | 61 | 01 | Elágazás: Határrendész-szervező |  |
 
-|  |  | 61 | 861 | 01 | 0010 | 61 | 04 | Elágazás: Tűzoltószervező |  |
+| 33 |  |  | 61 | 861 | 01 | 0010 | 61 | 02 | Elágazás: Katasztrófavédelmi – polgári védelmi szervező |  |
 
-| 10. | 370. | 52 | 861 | 06 |  |  |  | Rendőr | Egyéb szolgáltatások szakmacsoport |
+| 34 |  |  | 61 | 861 | 01 | 0010 | 61 | 03 | Elágazás: Rendőrszervező |  |
 
-|  |  | 52 | 861 | 06 | 0100 | 52 | 01 | Részszakképesítés: Kormányőr |  |
+| 35 |  |  | 61 | 861 | 01 | 0010 | 61 | 04 | Elágazás: Tűzoltószervező |  |
 
-|  |  | 52 | 861 | 06 | 0100 | 52 | 02 | Részszakképesítés: Objektumőr-kísérő |  |
+| 36 | 12. | 373. | 52 | 861 | 06 |  |  |  | Rendőr | Egyéb szolgáltatások |
 
-|  |  | 52 | 861 | 06 | 0010 | 52 | 01 | Elágazás: Határrendészeti-rendőr |  |
+| 37 |  |  | 52 | 861 | 06 | 0100 | 52 | 01 | Részszakképesítés: Kormányőr |  |
 
-|  |  | 52 | 861 | 06 | 0010 | 52 | 02 | Elágazás: Közrendvédelmi-rendőr |  |
+| 38 |  |  | 52 | 861 | 06 | 0100 | 52 | 02 | Részszakképesítés: Objektumőr-kísérő |  |
 
-|  |  | 52 | 861 | 06 | 0001 | 52 | 01 | Ráépülés: Kutyavezető-rendőr |  |
+| 39 |  |  | 52 | 861 | 06 | 0010 | 52 | 01 | Elágazás: Határrendészeti-rendőr |  |
 
-2. számú melléklet a 15/2008. (VII. 28.) IRM rendelethez
+| 40 |  |  | 52 | 861 | 06 | 0010 | 52 | 02 | Elágazás: Közrendvédelmi-rendőr |  |
+
+| 41 |  |  | 52 | 861 | 06 | 0001 | 52 | 01 | Ráépülés: Kutyavezető – rendőr |  |
+
+2. számú melléklet a 15/2008. (VII. 28.) IRM rendelethez[^4]
+
+KÖZBESZERZÉSI REFERENS SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
+
+I. ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+
+1. A szakképesítés azonosító száma: 54 343 03 0000 00 00
+
+2. A szakképesítés megnevezése: Közbeszerzési referens
+
+3. Szakképesítések köre:
+
+| 3.1 | Részszakképesítés | Nincs |  |
+
+| 3.2 | Szakképesítés-elágazások | Nincsenek |  |
+
+| 3.3 | Szakképesítés-ráépülés | Nincs |  |
+
+4. Hozzárendelt FEOR szám: 3619
+
+5. Képzés maximális időtartama:
+
+| Szakképesítés megnevezése | Szakképzési évfolyamok száma | Óraszám |
+
+| Közbeszerzési referens | – | 500 |
+
+II. EGYÉB ADATOK
+
+SZAKKÉPESÍTÉS MEGNEVEZÉSE: Közbeszerzési referens
+
+1. A képzés megkezdésének szükséges feltételei:
+
+Bemeneti kompetenciák: –
+
+Iskolai előképzettség: érettségi vizsga
+
+Szakmai előképzettség: –
+
+Előírt gyakorlat: –
+
+Elérhető kreditek mennyisége: –
+
+Pályaalkalmassági követelmények: nem szükségesek
+
+Szakmai alkalmassági követelmények: nem szükségesek
+
+2. Elmélet aránya: 70%
+
+3. Gyakorlat aránya: 30%
+
+4. Szakmai alapképzés (iskolai rendszerben): –
+
+Időtartama (évben vagy félévben): –
+
+5. Szintvizsga (iskolai rendszerben): nem szervezhető
+
+Ha szervezhető, mikor: –
+
+6. Egészségügyi alkalmassági vizsgálat: nem szükséges
+
+III. MUNKATERÜLET
+
+1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
+
+| A munkakör, foglalkozás |
+
+| FEOR száma | FEOR megnevezése |
+
+| 3619 | Egyéb gazdasági ügyintéző |
+
+2. A szakképesítés munkaterületének rövid, jellemző leírása:
+
+Alkalmazza a közbeszerzési és kapcsolódó jogszabályokat
+
+Ellátja a közbeszerzési eljárásokban az ajánlatkérőkre háruló tervezési feladatokat, valamint folyamatosan figyelemmel kíséri a beszerzéssel érintett piac keresleti és kínálati viszonyainak, árainak alakulását
+
+Ajánlatkérői oldalon előkészíti a közbeszerzési eljárásokat
+
+Ajánlatkérői oldalon koordinálja a közbeszerzési eljárás lebonyolítását, illetve bekapcsolódik az esetleges jogorvoslati panaszok kezelésébe
+
+Ajánlatkérői oldalon nyomon követi a közbeszerzési eljárás alapján kötött szerződések teljesítését
+
+Ellátja a közbeszerzési eljárásokban az ajánlattevői oldalon jelentkező feladatokat, így különösen figyelemmel kíséri a megjelent közbeszerzési hirdetményeket
+
+Javaslatot tesz az eljárásban való részvételre és koordinálja az eljárásban való részvétellel, valamint az esetleges jogorvoslattal kapcsolatos feladatokat és részt vesz az ajánlat/részvételi jelentkezés összeállításában
+
+3. A szakképesítéssel rokon szakképesítések:
+
+| A szakképesítéssel rokon szakképesítések |
+
+| azonosító száma | megnevezése |
+
+| – | – |
+
+IV. SZAKMAI KÖVETELMÉNYEK
+
+A szakmai követelménymodulok felsorolása:
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1960-06 Közbeszerzés
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Alkalmazza a közbeszerzési törvényt és a kapcsolódó jogszabályokat, továbbá figyelemmel kíséri a Közbeszerzések Tanácsa és más szervezetek által kiadott közbeszerzési vonatkozású segédanyagokat
+
+Nyomon követi a közbeszerzési vonatkozású jogszabályok változásait
+
+Ismeri az Európai Közösségek közbeszerzéseket szabályozó joganyagát
+
+Koordinálja a közbeszerzési terv elkészítését, módosítását, és azok nyilvánosságra hozatalát
+
+Összeállítja az éves statisztikai összegezést és gondoskodik annak határidőre a Közbeszerzések Tanácsa részére történő megküldéséről, valamint nyilvánosságra hozataláról
+
+Közreműködik a közbeszerzési szabályzat és felelősségi rend elkészítésében, illetve adott esetben az eseti közbeszerzési szabályzat/felelősségi rend összeállításában
+
+Vizsgálja az adott beszerzésnek a közbeszerzési törvény hatálya alá tartozását a kivételekre is tekintettel, meghatározza a beszerzési tárgyat és az egy eljárásban megvalósítandó közbeszerzéseket
+
+Vizsgálja a részajánlattételi lehetőséget, illetve kötelezettséget
+
+Vizsgálja a beszerzéssel érintett piac sajátosságait, versenyviszonyait és az információkat felhasználja a közbeszerzés tárgyának, értékének meghatározása és a felhívás, valamint a dokumentáció összeállítása során
+
+Megállapítja a közbeszerzések becsült értékét az egybeszámítási szabályokra is tekintettel, meghatározza az adott közbeszerzésre alkalmazandó eljárásrendet az irányadó értékhatárok alapján
+
+Megvizsgálja az elektronikus eljárási cselekmények lebonyolításának lehetőségét, módját
+
+Megvizsgálja a közbeszerzési eljárás környezetbarát módon történő megvalósításának lehetőségeit, és adott esetben a szociális szempontok érvényesítésének lehetőségét, és javaslatot tesz az ajánlatkérőnek a környezetvédelmi és szociális célok érvényesítésének módjára
+
+Időszakos/előzetes összesített tájékoztatót készít
+
+Alkalmazza az összeférhetetlenségi szabályokat; összeférhetetlenségi/távolmaradási nyilatkozatot szerkeszt
+
+Érvényesíti a közbeszerzési eljárásban a szakértelem biztosításával szemben támasztott követelményeket, indokolt esetben kezdeményezi hivatalos közbeszerzési tanácsadó bevonását
+
+Részt vesz a közbeszerzés tárgyának meghatározásában, a közbeszerzési törvénynek megfelelő műszaki leírás összeállításában, a közbeszerzés tárgyával szemben támasztott műszaki, gazdasági és egyéb követelmények meghatározásában
+
+Javaslatot tesz a közbeszerzés tárgyának megfelelő eljárási típus kiválasztására
+
+Kiválasztja a megfelelő hirdetménytípust
+
+Részt vesz az ajánlatkérői igényeket kifejezésre juttató elbírálási szempontrendszer kialakításában
+
+Részt vesz az alkalmassági követelmények és a kizáró okok meghatározásában
+
+Részt vesz a dokumentáció összeállításában
+
+Részt vesz az eljárási cselekményekben ajánlatkérői oldalon, ellátja a hirdetmények közzétételéhez, nyilvánosságra hozatalához, illetve adott esetben a felhívás ajánlattevőknek való megküldéséhez kapcsolódó feladatokat
+
+Közreműködik a bírálóbizottság szabályszerű felállításában, működésének koordinálásában, részt vesz a döntés előkészítésében
+
+Koordinálja az eljárással kapcsolatos teendőket, dokumentálja az eljárást
+
+Koordinálja az ajánlattevők írásbeli kérdéseinek megválaszolását, konzultációt, helyszíni bejárást szervez a felhívás szabályaival összhangban
+
+Szükség esetén gondoskodik a felhívás vagy a dokumentáció módosításával, a határidők meghosszabbításával, illetőleg a felhívás visszavonásával kapcsolatos hirdetmények elkészítéséről, közzétételéről, illetve nyilvánosságra hozataláról
+
+Lebonyolítja a bontási eljárást és jegyzőkönyvet készít
+
+Vizsgálja a beérkezett ajánlatokat/részvételi jelentkezéseket és az ajánlattevőket/részvételre jelentkezőket
+
+Megszervezi a tárgyalást, ha arra az eljárás során van lehetőség
+
+Részt vesz az elektronikus árlejtés lebonyolításában, ha az eljárás során erre sor kerül
+
+Lebonyolítja az eredményhirdetést, összeállítja a kapcsolódó dokumentumokat (összegezést, tájékoztatókat), gondoskodik a tájékoztató közzétételéről, nyilvánosságra hozataláról
+
+Közreműködik a szerződéskötés lebonyolításában, gondoskodik a szerződéssel kapcsolatos nyilvánossági előírások érvényesítéséről
+
+Az ajánlatkérő oldalán szükség esetén közreműködik a jogorvoslati eljárásban
+
+Nyomon követi a közbeszerzési eljárás alapján kötött szerződések teljesítését ajánlatkérői oldalon
+
+Felülvizsgálja a szerződésmódosításra vonatkozó igény indokoltságát és szabályszerűségét közbeszerzési szempontból
+
+Előkészíti a szerződésmódosítást, összeállítja a kapcsolódó hirdetményt, gondoskodik annak közzétételéről, nyilvánosságra hozataláról
+
+Előkészíti, bonyolítja a kiegészítő munkákra irányuló esetleges pótlólagos közbeszerzési eljárást
+
+Összeállítja a szerződés teljesítéséről szóló tájékoztatót/tájékoztatókat, megküldi közzétételre és gondoskodik a tájékoztató, valamint az egyéb, a szerződés teljesítéséhez kapcsolódó adatok nyilvánosságra hozataláról
+
+Ajánlattevői oldalon figyelemmel kíséri a TED adatbázisban, a Közbeszerzési Értesítőben közzétett hirdetményeket és a Közbeszerzések Tanácsa honlapján közzétett egyéb információkat, azonosítja az ajánlattevő tevékenységi körében kiírt eljárásokat és javaslatot tesz az abban való részvételre
+
+Figyelemmel kíséri a vállalkozás piacainak keresleti-kínálati viszonyait és az árak alakulását
+
+Részt vesz az alvállalkozókkal, valamint a közös ajánlattevőkkel való kapcsolatok kialakításában, a velük, illetve az esetleges erőforrás-szervezetekkel való kapcsolattartásban
+
+A vállalkozás referencia-listáját összeállítja és gondoskodik annak napra készen tartásáról
+
+Ajánlattevői oldalon koordinálja az eljárásban való részvételhez szükséges dokumentumok, igazolások beszerzését, ellenőrzi az adatbázisokban foglalt adatok megfelelőségét, adott esetben kéri a vállalkozás adatbázisba vételét
+
+Összeállítja az ajánlatot/részvételi jelentkezést
+
+Ellátja az ajánlat/részvételi jelentkezés beadásával kapcsolatos teendőket
+
+Ellátja az eljárás során az ajánlattevői oldalon jelentkező feladatokat és képviseli az ajánlattevő érdekeit az eljárás teljes folyamatában
+
+Ajánlattevői oldalon szükség esetén közreműködik a jogorvoslati eljárásban
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt irodatechnikai és multimédiás, valamint audiovizuális eszközöket kezel
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt kezeli a számítógépet és perifériáit
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt közreműködik az elektronikus adatok, elektronikusan rendelkezésre álló információk, elektronikus adatbázisok biztonságos mentésében és archiválásában
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt prezentációs technikákat alkalmaz, használ
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt kommunikációs tevékenységet végez
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt hivatalos levelezést folytat
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt hivatalos okmányokat tölt ki
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt munkaköréhez kapcsolódó hivatalos ügyeket intéz
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt munkájához szükséges informatikai eszközöket használ
+
+Ajánlatkérői és ajánlattevői oldalon egyaránt adatbázis- és iratkezelést végez
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+B A közbeszerzési törvény célja és alapelvei
+
+B A közbeszerzési törvény alanyi és tárgyi hatálya
+
+B A közbeszerzési eljárások tervezéséhez, előkészítéséhez kapcsolódó feladatok
+
+B Eljárásrendek, eljárástípusok és alkalmazási körük, elektronikus eljárási cselekmények
+
+B Az egyes közbeszerzési eljárások lefolytatásának részletes szabályai
+
+B A közbeszerzéshez kapcsolódó jogorvoslat lehetőségei és szabályai
+
+B A Közbeszerzések Tanácsa intézményrendszere
+
+B A közbeszerzések ellenőrzése
+
+A szint megjelölésével a szakmai készségek:
+
+1 Elemi szintű számítógéphasználat
+
+4 Köznyelvi beszédkészség
+
+4 Olvasott szakmai szöveg megértése
+
+4 Szakmai nyelvezetű íráskészség, fogalmazás írásban
+
+4 Szakmai nyelvű beszédkészség
+
+5 Információforrások kezelése
+
+Személyes kompetenciák:
+
+Precizitás
+
+Önállóság
+
+Megbízhatóság
+
+Szervezőkészség
+
+Társas kompetenciák:
+
+Határozottság
+
+Tömör fogalmazás készsége
+
+Kapcsolatteremtő készség
+
+Konfliktusmegoldó készség
+
+Prezentációs készség
+
+Módszerkompetenciák:
+
+Áttekintő képesség
+
+Rendszerben való gondolkodás
+
+Információgyűjtés
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1963-06 Közbeszerzési vonatkozású általános jogi ismeretek
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Alkalmazza a közbeszerzési és a kapcsolódó jogszabályokat, figyelemmel kíséri változásukat, azok végrehajtására javaslatot tesz
+
+Alkalmazza a közbeszerzési vonatkozású polgári jogi alapismereteket
+
+Alkalmazza a közbeszerzési vonatkozású versenyjogi ismereteket
+
+Ismeri és alkalmazza a közösségi közbeszerzési joganyagot, figyelemmel kíséri annak változásait
+
+A közbeszerzési jogorvoslati eljárásban ismeri és alkalmazza a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) irányadó rendelkezéseit
+
+Indokolt esetben javaslatot tesz a jogorvoslati eljárás során az Európai Közösségek Bírósága előzetes döntéshozatali eljárásának kezdeményezésére
+
+Iratokat, beadványokat készít elő
+
+Elektronikus ügyintézést végez
+
+On-line cégnyilvántartást kezel
+
+CD jogtárat használ
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+B Közösségi közbeszerzési jog kialakulásának története, a közösségi közbeszerzési jogforrások
+
+B A közbeszerzési irányelvek rendszere, az irányelv fogalma
+
+B A közbeszerzési vonatkozású rendeletek, a rendelet fogalma
+
+B Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezése és az eljárás menete
+
+B A kötelezettségszegési eljárás (az Európai Bizottság eljárásának és következményeinek ismerete, az Európai Bíróság eljárása)
+
+B A jogforrási hierarchia
+
+B A jogszabályok hatályának és érvényességének fogalma
+
+B A tulajdonjog fogalma, tárgya, tartalma
+
+B A szerződések szerkezete, elemei, fő- és mellékkötelmek
+
+B A szerződés létrejöttének, megkötésének szabályai
+
+B A semmisség, megtámadhatóság fogalma, szabályai
+
+B A kötbér és foglaló fogalma, szabályai
+
+B A jótállás és szavatosság fogalma, szabályai
+
+B A szerződést biztosító mellékkötelezettségek fajtái, bankgarancia és biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény fogalma, szabályai
+
+B A szerződés megszegésének esetei és jogkövetkezményei
+
+B A szerződés módosítása
+
+B A vállalkozási szerződés szabályai
+
+B A megbízás szabályai
+
+B Az adásvétel, szállítási szerződés szabályai
+
+B Az államháztartás alrendszerei
+
+B A közigazgatási eljárás alapelvei
+
+B A közigazgatási hatósági ügy és az ügyfél fogalma
+
+B A joghatóság, hatáskör, illetékesség fogalma a Ket. alapján
+
+B A közigazgatási hatósági eljárás a Ket. szerint
+
+B A bizonyítási eljárás céljai, a bizonyítás eszközei a Ket. szerint
+
+B A közigazgatási hatósági döntések
+
+B A hatósági határozatra vonatkozó főbb szabályok
+
+B A közigazgatási jogorvoslatok rendszere
+
+B A jogerő fogalma, a hatósági döntések végrehajthatóságának feltételei
+
+B A végrehajtás elrendelése és foganatosítása a Ket. szerint
+
+B Az elektronikus ügyintézés és tájékoztatás szabályai
+
+B A hatósági szolgáltatás szabályai
+
+B A főbb közbeszerzési vonatkozású versenyjogi szabályok
+
+A szint megjelölésével a szakmai készségek:
+
+1 Elemi szintű számítógéphasználat
+
+4 Köznyelvi beszédkészség
+
+4 Olvasott szakmai szöveg megértése
+
+4 Szakmai nyelvű beszédkészség
+
+5 Információforrások kezelése
+
+Személyes kompetenciák:
+
+Precizitás
+
+Önállóság
+
+Megbízhatóság
+
+Szervezőkészség
+
+Társas kompetenciák:
+
+Határozottság
+
+Tömör fogalmazás készsége
+
+Kapcsolatteremtő készség
+
+Konfliktusmegoldó készség
+
+Prezentációs készség
+
+Módszerkompetenciák:
+
+Áttekintő képesség
+
+Rendszerben való gondolkodás
+
+Információgyűjtés
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1964-06 Közbeszerzési vonatkozású gazdasági és pénzügyi tevékenység
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Elemzi a piac keresleti és kínálati jellemzőit, és meghatározza az árak várható alakulását a beszerzéssel érintett piacon
+
+Befektetési döntések meghozatalában részt vesz
+
+Cash-flowt, főbb mutatókat és beszámolót elemez
+
+Ajánlatkérői oldalon részt vesz a pénzügyi, gazdasági alkalmassági feltételek meghatározásában
+
+Ajánlatkérői oldalon részt vesz az ajánlattevők pénzügyi, gazdasági alkalmasságának megítélésében
+
+Ajánlattevői oldalon összeállítja a pénzügyi, gazdasági alkalmasság igazolására benyújtandó dokumentumokat
+
+Pénzügyi tárgyú, illetve pénzügyi vonatkozású beszerzési elemet is tartalmazó közbeszerzés esetén részt vesz a közbeszerzés tárgya meghatározásában
+
+Részt vesz az elbírálási szempontrendszer és különösen az elbírálás módszerének meghatározásában, illetve az elbírálásban
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+C Makro- és mikroökonómiai alapfogalmak ismerete
+
+C Az államháztartás felépítésének és működésének alapfogalmai
+
+C A költségvetési szervek tervezési, végrehajtási és ellenőrzési folyamatainak alapvonásai
+
+B Pénzügyi és számviteli alapismeretek
+
+C A pénzügyi rendszer szerepe a gazdaságban
+
+C Mérlegkészítési alapismeretek
+
+B Mérlegből számítható mutatók elemzése
+
+A Pénzügyi és gazdasági alkalmasság előírása
+
+C Marketing alapfogalmak, a vásárlás döntési folyamatai
+
+C Piac- és versenyanalízis
+
+D Benchmarking
+
+A szint megjelölésével a szakmai készségek:
+
+1 Elemi szintű számítógéphasználat
+
+4 Olvasott szakmai szöveg megértése
+
+4 Szakmai nyelvezetű íráskészség, fogalmazás írásban
+
+5 Információforrások kezelése
+
+Személyes kompetenciák:
+
+Precizitás
+
+Önállóság
+
+Megbízhatóság
+
+Szervezőkészség
+
+Társas kompetenciák:
+
+Határozottság
+
+Tömör fogalmazás készsége
+
+Konfliktusmegoldó készség
+
+Prezentációs készség
+
+Módszerkompetenciák:
+
+Áttekintő képesség
+
+Rendszerben való gondolkodás
+
+Információgyűjtés
+
+| Az 54 343 03 0000 00 00 azonosító számú, Közbeszerzési referens megnevezésű szakképesítés szakmai követelménymoduljainak |
+
+| azonosítója | megnevezése |
+
+| 1960-06 | Közbeszerzés |
+
+| 1963-06 | Közbeszerzési vonatkozású általános jogi ismeretek |
+
+| 1964-06 | Közbeszerzési vonatkozású gazdasági és pénzügyi tevékenység |
+
+V. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+
+1. A szakmai vizsgára bocsátás feltételei:
+
+Vizsgadolgozat készítése, a jelölt által választott gyakorlati eset feldolgozása (mely lehet a közbeszerzési referens által a közbeszerzési eljárás során ellátandó feladatok közül egy vagy többnek az elemzése), vagy valamely közbeszerzési kérdéskör feldolgozása a Döntőbizottság, a bíróságok, vagy az Európai Bíróság ítélkezési gyakorlata alapján, vagy különböző eljárási fajták alkalmazási feltételeinek összevetése, elemzése, az azokhoz kapcsolódó jogorvoslati gyakorlat feldolgozása.
+
+Amennyiben a vizsgadolgozat nem a fenti témákat dolgozza fel, az elfogadhatatlan, vissza kell adni átdolgozásra.
+
+A vizsgázónak a vizsgadolgozatot az alábbi szerkesztési, terjedelmi előírások figyelembevételével kell összeállítania:
+
+– a vizsgadolgozat (mellékletek, táblázatok, grafikonok nélküli) szövegrészének terjedelme legalább 30.000 karakter legyen; amennyiben a vizsgadolgozat – mellékletek nélkül – nem tesz eleget ezen terjedelmi követelménynek, elfogadhatatlan, vissza kell adni átdolgozásra;
+
+– a vizsgadolgozatnak eredeti, önálló munkát kell tartalmaznia;
+
+– amennyiben a vizsgadolgozatban valamely egyéb forrásból idéz a vizsgázó (szakirodalom vagy korábbi vizsgadolgozat stb.), lábjegyzetben egyértelműen fel kell tüntetnie az erre való hivatkozást;
+
+– a vizsgadolgozat részét kell képezze a felhasznált irodalom jegyzéke;
+
+– kellő figyelmet kell fordítani a vizsgadolgozat rendezettségére, külalakjára és a helyesírásra.
+
+A vizsgadolgozat bírálója köteles a dolgozatot szövegesen is értékelni, továbbá a kapcsolódó szóbeli vizsgatevékenység leírásában foglaltaknak megfelelően részletes bírálatot készíteni a vizsgabizottság számára (az értékelőlap kitöltésével), melynek részeként köteles a vizsgadolgozat védéséhez legalább két, a vizsgadolgozathoz kapcsolódó közbeszerzési tárgyú kérdést javasolni.
+
+Modulzáró vizsga eredményes letétele
+
+2. A szakmai vizsga részei:
+
+1. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1960-06 Közbeszerzés
+
+A hozzárendelt 1. vizsgafeladat:
+
+Közbeszerzési ismeretek
+
+A hozzárendelt jellemző vizsgatevékenység: írásbeli
+
+Időtartama: 150 perc
+
+A hozzárendelt 2. vizsgafeladat:
+
+Közbeszerzési ismeretek
+
+A hozzárendelt jellemző vizsgatevékenység: szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A hozzárendelt 3. vizsgafeladat:
+
+Vizsgadolgozat védése
+
+A hozzárendelt jellemző vizsgatevékenység: szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 40%
+
+2. feladat 40%
+
+3. feladat 20%
+
+2. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1963-06 Közbeszerzési vonatkozású általános jogi ismeretek
+
+A hozzárendelt 1. vizsgafeladat:
+
+Jogi ismeretek
+
+A hozzárendelt jellemző vizsgatevékenység: szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+3. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1964-06 Közbeszerzési vonatkozású gazdasági és pénzügyi tevékenység
+
+A hozzárendelt 1. vizsgafeladat:
+
+Gazdasági és pénzügyi ismeretek
+
+A hozzárendelt jellemző vizsgatevékenység: írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+3. A szakmai vizsga értékelése %-osan:
+
+Az 54 343 03 0000 00 00 azonosító számú, Közbeszerzési referens megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+
+1. vizsgarész: 50%
+
+2. vizsgarész: 25%
+
+3. vizsgarész: 25%
+
+4. A szakmai vizsgarészek alóli felmentés feltételei
+
+1. vizsgarészből: felmentés nem adható
+
+2. vizsgarészből: jogi szakirányú oklevél megléte
+
+3. vizsgarészből: gazdasági szakirányú oklevél megléte
+
+5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai
+
+A vizsgázók mindig az írásbeli, illetőleg a szóbeli vizsgarész megkezdésének időpontjában hatályos jogszabályok alapján vizsgáznak. Az írásbeli, illetőleg a szóbeli vizsgarész megkezdését legfeljebb 30 nappal megelőzően hatályba lépett jogszabály-változásokat már nem lehet számon kérni.
+
+A szakmai vizsga akkor tekinthető sikeresnek, ha a vizsgázó vizsgafeladatonként legalább 51%-os eredményt ér el. Vizsgafeladat/vizsgafeladatok sikertelen teljesítése esetén a vizsgázó a szakmai vizsgát folytathatja, javítóvizsgát a sikertelen vizsgafeladatból/vizsgafeladatokból kell tennie.
+
+VI. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+
+| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Közbeszerzési referens |
+
+| Számítógép konfiguráció, Internet-hozzáférés | X |
+
+| Hatályos jogszabály gyűjtemény | X |
 
 HATÓSÁGI ÉS KÖZIGAZGATÁSI ÜGYINTÉZŐ
 
@@ -1031,6 +1693,782 @@ EGYEBEK
 A szakmai kamara feladatait a Nyilvántartási és okmányügyintéző OKJ 52 345 01 0010 52 03 szakképesítés tekintetében a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala látja el.
 
 A szakmai kamara feladatait a Migrációs ügyintéző II. OKJ 52 345 01 0010 52 01 szakképesítés tekintetében a Bevándorlási és Állampolgársági Hivatal látja el.
+
+RENDÉSZETI ASSZISZTENS SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
+
+I. ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+
+1. A szakképesítés azonosító száma: 55 346 03 0000 00 00
+
+2. A szakképesítés megnevezése: Rendészeti asszisztens
+
+3. Szakképesítések köre:
+
+| 3.1 | Részszakképesítés | Nincs |  |
+
+| 3.2 | Szakképesítés-elágazás | Nincs |  |
+
+| 3.3 | Szakképesítés-ráépülés | Nincs |  |
+
+4. Hozzárendelt FEOR szám: 3910
+
+5. Képzés maximális időtartama:
+
+| Szakképesítés megnevezése | Szakképzési évfolyamok száma | Óraszám |
+
+| Rendészeti asszisztens | 2 |  |
+
+II. EGYÉB ADATOK
+
+SZAKKÉPESÍTÉS MEGNEVEZÉSE: Rendészeti asszisztens
+
+1. A képzés megkezdésének szükséges feltételei:
+
+Bemeneti kompetenciák: –
+
+Iskolai előképzettség: érettségi vizsga
+
+Szakmai előképzettség: –
+
+Előírt gyakorlat: –
+
+Elérhető kreditek mennyisége: 30
+
+Pályaalkalmassági követelmények: nem szükségesek
+
+Szakmai alkalmassági követelmények: nem szükségesek
+
+2. Elmélet aránya: 60%
+
+3. Gyakorlat aránya: 40%
+
+4. Szakmai alapképzés (iskolai rendszerben): –
+
+Időtartama (évben vagy félévben): –
+
+5. Szintvizsga (iskolai rendszerben): nem szervezhető
+
+Ha szervezhető, mikor: –
+
+6. Egészségügyi alkalmassági vizsgálat: nem szükséges
+
+III. MUNKATERÜLET
+
+1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
+
+| A munkakör, foglalkozás |
+
+| FEOR száma | FEOR megnevezése |
+
+| 3910 | Egyéb ügyintézők |
+
+2. A szakképesítés munkaterületének rövid, jellemző leírása:
+
+Adatbeviteli feladatokat végez
+
+Iratokat készít, szerkeszt, kezel
+
+Ügyviteli és ügyintézési feladatokat végez
+
+CD és DVD jogtárat használ
+
+Etikusan és kulturáltan látja el feladatát
+
+A rendvédelmi szakterületen jelentkező együttműködési, nyilvántartási, adatszolgáltatási munkát végez
+
+A közigazgatási szakterülethez kapcsolódó munkát végez
+
+Hatósági jogalkalmazó tevékenységhez kapcsolódó döntés-előkészítő feladatokat lát el
+
+Az egyéb, nem rendvédelmi szakterületekhez kapcsolódó együttműködési, nyilvántartási, adatszolgáltatási munkát végez
+
+3. A szakképesítéssel rokon szakképesítések:
+
+| A szakképesítéssel rokon szakképesítések |
+
+| azonosító száma | megnevezése |
+
+| 55 346 01 0000 00 00 | Jogi asszisztens |
+
+IV. SZAKMAI KÖVETELMÉNYEK
+
+A szakmai követelménymodulok felsorolása:
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1586-06 Gépírás és levelezés
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Nyomtatott szövegről tízujjas vakírással másol
+
+Kéziratról, javított, felülírt dokumentumot helyesbítve, módosítva másol tízujjas vakírással
+
+Hallás, diktálás utáni szöveget ír az írástechnika magasabb szintjén
+
+Táblázatot, adatbázist adatokkal tölt fel, frissít a tízujjas vakírás technikájának alkalmazásával
+
+Alkalmazza az elektronikus (gépi) adatbevitel írásszabályait
+
+Betartja az elektronikus írástechnika biztonsági és munka-egészségügyi követelményeit
+
+Egyszerű iratot, hivatalos levelet gépel, formáz a levelezési szabályoknak megfelelően
+
+Belső szervezeti ügyiratot készít (feljegyzés, emlékeztető, igazolás, nyilatkozat, jegyzőkönyv stb.) sablon alapján
+
+Hivatalos iratokat, leveleket (pl. kapcsolattartást segítő, információközlő, -kérő, tájékoztató) szerkeszt utasítások szerint
+
+Iratokat, dokumentumokat a helyi szabályozásnak megfelelően saját hatáskörében kezel (pl. sokszorosít, iktat, továbbít, tárol)
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+B Az elektronikus adatrögzítés (tízujjas vakírás) szabályai
+
+B A helyes és biztonságos elektronikus írás szabályai (nyelvi-helyesírási szabályok, munka-egészségügyi szabályok)
+
+A Az iratkészítés nyelvi-formai-tartalmi szabályai
+
+A A hivatalos iratok, levelek fajtái
+
+A Az irat- és levélszerkesztés írástechnikai és formai szabályai (nyomtatott vagy javított kéziratról másolt, illetőleg hallás után írott levél esetén)
+
+C Az iratok, levelek, dokumentumok kezelésének szabályai
+
+A szint megjelölésével a szakmai készségek:
+
+2 ECDL 1. m. IT alapismeretek
+
+2 ECDL 2. m. Operációs rendszerek
+
+2 ECDL 3. m. Szövegszerkesztés
+
+2 ECDL 7. m. Információ és kommunikáció
+
+5 Olvasott köznyelvi szöveg megértése
+
+4 Köznyelvi szöveg hallás utáni megértése
+
+3 Olvasott szakmai szöveg megértése
+
+3 Szakmai hallott szöveg megértése
+
+4 Gépírás tízujjas vakírással (150 leütés/perc)
+
+4 Látás, hallás és ujjmozgás összehangolása
+
+5 Beszédészlelés és írás összehangolása
+
+Személyes kompetenciák:
+
+Látás
+
+Megbízhatóság
+
+Pontosság
+
+Monotóniatűrés
+
+Fejlődőképesség, önfejlesztés
+
+Hallás
+
+Kézügyesség
+
+Társas kompetenciák:
+
+Irányíthatóság
+
+Módszerkompetenciák:
+
+Ismeretek helyénvaló alkalmazása
+
+Intenzív munkavégzés
+
+Emlékezőképesség (ismeretmegőrzés)
+
+Kontroll (ellenőrző-képesség)
+
+Figyelem-összpontosítás
+
+Módszeres munkavégzés
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+2599-10 A rendészeti szerveknél rendészeti asszisztensi feladatok ellátása
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Bűnügyi tevékenységgel kapcsolatos döntés-előkészítő munkát végez, iratokat kezel
+
+Közrendvédelmi tevékenységgel összefüggő döntés-előkészítő feladatokat végez, iratokat kezel
+
+Közlekedésrendészeti tevékenységgel összefüggő döntés-előkészítő feladatokat végez, iratokat kezel
+
+Igazgatásrendészeti tevékenységgel összefüggő döntés-előkészítő munkát végez, iratokat kezel
+
+Határrendészeti tevékenységgel összefüggő döntés-előkészítő munkát végez, iratokat kezel
+
+Büntetés-végrehajtási tevékenységgel összefüggő döntés-előkészítő munkát végez, iratokat kezel
+
+A Vám- és Pénzügyőrség tevékenységével összefüggő döntés-előkészítő munkát végez, iratokat kezel
+
+A polgári nemzetbiztonsági szolgálatok tevékenységével összefüggő döntés-előkészítő munkát végez, iratokat kezel
+
+Rendészeti statisztikákat készít, statisztikai lapokat vezet, és ellenőriz
+
+Bűnügyi és szabálysértési költségjegyzéket vezet
+
+Határozatok, végzések tervezetét készít
+
+Hatósági bizonyítványt, hatósági igazolványt állít ki és hatósági nyilvántartást vezet
+
+Megkereséseket, jogsegélykérelmeket szövegez
+
+Előzménykutatást végez (priorál)
+
+Idézéstervezetet készít
+
+Határidő-nyilvántartásokat, eljárási terveket vezet
+
+Jogszabályon alapuló adatszolgáltatást végez a bűnügyi és más nyilvántartások részére elküldendő adatlapok kitöltésével
+
+Elektronikus és manuális ügykezelési és iktatási feladatokat végez (a külső és belső munkahelyi határidők, előírások és a bizonylati fegyelem betartásával), a rendelkezésére álló adatokat elrendezi, fontossági sorrendet határoz meg
+
+Iratrendezési, irattározási és levéltározási feladatokat végez
+
+Minősített adatokat kezel
+
+Jegyzőkönyvet vezet, emlékeztetőket és feljegyzéseket készít
+
+A rendvédelmi munkaterülethez kapcsolódó jogszabályokat és állami irányítás egyéb jogi eszközeit önállóan alkalmazza
+
+A jogszabályi és egyéb normatív változásokat folyamatosan követi és alkalmazza
+
+A központi és helyi szakmai képzéseken, továbbképzéseken részt vesz
+
+A rendészeti szervek írásbeli szakmai utasításait figyelembe veszi
+
+A munkakörével kapcsolatos etikai előírásokat, elvárásokat ismeri és betartja
+
+A titoktartási kötelezettség általános és speciális szabályait ismeri és megtartja
+
+Kommunikációs készségét a rendvédelmi szervek speciális követelményeihez igazítva önállóan alkalmazza
+
+Más rendvédelmi szervek képviselőivel érdemi kapcsolatot tart
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+C A szociológiai alapfogalmak
+
+C A kommunikáció alapfogalmai
+
+C Szóbeli és írásbeli kommunikáció
+
+C A társadalom- és igazságügyi statisztikai alapfogalmak
+
+B A rendészeti szerveknél alkalmazott statisztikák
+
+C A rendészeti szervek működésének jogi alapjai
+
+C A Rendőrségről szóló törvény – a rendőrség működése, feladatai
+
+C A rendőri intézkedések, kényszerítő eszközök
+
+C A rendőri intézkedésekkel szembeni panaszokkal összefüggő eljárás
+
+C A bűnügyi szolgálat tevékenysége
+
+C A közrendvédelmi szolgálat tevékenysége
+
+C A rendőrségi fogdák működése
+
+C A közlekedésrendészeti szolgálat tevékenysége
+
+C Az igazgatásrendészeti szolgálat tevékenysége
+
+C A határrendészeti tevékenység
+
+C A Vám- és Pénzügyőrség működésének jogi alapjai, feladatai
+
+C A büntetés-végrehajtási szervezet működésének jogi alapjai, feladatai
+
+C A jogrendszerhez, jogágakhoz és jogintézményekhez kapcsolódó alapfogalmak
+
+C A jogforrások hierarchiájának, a jogi norma szerkezeti elemei
+
+D A jogalkalmazás alanyai, módszerei és eredményei
+
+D A jogtudat, a jogkövetés és a jogi felelősség
+
+D A jogviszony alanyai, a jogi tények és csoportosításuk
+
+C Az Alkotmány, az alkotmányosság és a jogállam, valamint kapcsolódásaik
+
+C Az alkotmányos alapjogok
+
+C A jogforrások és a kormányzati rendszer
+
+C Az Alkotmánybíróság, az országgyűlési biztosok, a bíróságok, valamint az ügyészség helyzete és szerepe
+
+A A hivatásetikák és az alkalmazott etikák
+
+A A vonatkozó erkölcsi kódexek alkalmazása
+
+C A büntetőjogi alapfogalmak
+
+D Az igazságszolgáltatás alapjai
+
+B A közigazgatás szervezeti rendszere
+
+B A központi igazgatás alapintézményei
+
+C A büntetőeljárás és a büntetés-végrehajtás alapvető intézményei, alapelvei
+
+C A közigazgatási, a büntető és a szabálysértési eljárás alapintézményei, lefolytatásuk szabályai
+
+C A szolgálati jogviszonyok alapvető jellemzői (közalkalmazottak, köztisztviselők, hivatásos állomány)
+
+A A közigazgatási – rendészeti területek ügyviteli, ügyintézési tevékenységhez szükséges szakmai fogalmak
+
+C A minősített adat védelmére vonatkozó szabályok
+
+A szint megjelölésével a szakmai készségek:
+
+3 ECDL 3. m. szövegszerkesztés
+
+3 Olvasott köznyelvi szöveg megértése
+
+3 Köznyelvi szöveg fogalmazása írásban
+
+5 Köznyelvi szöveg hallás utáni megértése
+
+4 Köznyelvi beszédkészség
+
+5 Olvasott szakmai szöveg megértése
+
+3 Szakmai nyelvi íráskészség, fogalmazás írásban
+
+4 Szakmai nyelvű hallott szöveg megértése
+
+3 Szakmai nyelvű beszédkészség
+
+1 Idegen nyelvű olvasott szöveg megértése
+
+4 Információforrások kezelése
+
+5 Elemi számolási készség
+
+5 Komplex eszközhasználati képességek, készségek
+
+Személyes kompetenciák:
+
+Tűrőképesség
+
+Felelősségtudat
+
+Megbízhatóság
+
+Önfegyelem
+
+Pontosság
+
+Terhelhetőség
+
+Társas kompetenciák:
+
+Irányíthatóság
+
+Kapcsolatteremtő készség
+
+Tömör fogalmazás készsége
+
+Konfliktusmegoldó készség
+
+Udvariasság
+
+Motiválhatóság
+
+Módszerkompetenciák:
+
+Rendszerező képesség
+
+Ismeretek helyénvaló alkalmazása
+
+Emlékezőképesség (ismeretmegőrzés)
+
+Információgyűjtés
+
+Kontroll (ellenőrzőképesség)
+
+Figyelem-összpontosítás
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+2600-10 A rendészeti szakterületen kívüli szervekkel kapcsolatos rendészeti asszisztensi feladatok ellátása
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Ismeri és alkalmazza a külső partnerekkel való együttműködés jogszabályi előírásait
+
+Ellátja az önkormányzatokkal kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja az ügyészséggel kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a bíróságokkal kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a civil biztonsági szolgálatokkal történő együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a Magyar Honvédséggel történő együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a fegyveres biztonsági őrségekkel kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a közterület-felügyeletekkel kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a természetvédelmi őrszolgálattal kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+Ellátja a polgárőrséggel kapcsolatos együttműködési, döntés-előkészítő és ügyviteli feladatait
+
+A nemzetközi rendőri együttműködésben résztvevő szervekkel, intézményekkel kapcsolatot tart, önállóan döntés-előkészítő tevékenységet végez, ügyiratokat kezel
+
+Kapcsolatot tart a rendészeti ágazattal összefüggő állami, civil és egyéb szervezetekkel, valamint intézményekkel
+
+Elektronikus és papír alapú ügyiratokat és beadványokat önállóan előkészít, nyomtatványokat tölt ki
+
+Jogszabályon alapuló elektronikus ügyintézést végez és elektronikus adatszolgáltatást önállóan teljesít
+
+Költségtervezeteket önállóan készít, és költségelszámolást folytat
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+C A szociológiai alapfogalmak
+
+C A kommunikáció alapfogalmai
+
+C Szóbeli és írásbeli kommunikáció
+
+C A társadalom- és igazságügyi statisztikai alapfogalmak
+
+B A rendészeti szerveknél alkalmazott statisztikák
+
+C A rendészeti szervek működésének jogi alapjai
+
+C A Rendőrségről szóló törvény – a rendőrség működése, feladatai
+
+C A rendőri intézkedések, kényszerítő eszközök
+
+C A rendőri intézkedésekkel szembeni panaszokkal összefüggő eljárás
+
+C A bűnügyi szolgálat tevékenysége
+
+C A közrendvédelmi szolgálat tevékenysége
+
+C A rendőrségi fogdák működése
+
+C A közlekedésrendészeti szolgálat tevékenysége
+
+C Az igazgatásrendészeti szolgálat tevékenysége
+
+C A határrendészeti tevékenység
+
+C A Vám- és Pénzügyőrség működésének jogi alapjai, feladatai
+
+C A büntetés-végrehajtási szervezet működésének jogi alapjai, feladatai
+
+C A jogrendszerhez, jogágakhoz és jogintézményekhez kapcsolódó alapfogalmak
+
+C A jogforrások hierarchiájának, a jogi norma szerkezeti elemei
+
+D A jogalkalmazás alanyai, módszerei és eredményei
+
+D A jogtudat, a jogkövetés és a jogi felelősség
+
+D A jogviszony alanyai, a jogi tények és csoportosításuk
+
+C Az Alkotmány, az alkotmányosság és a jogállam, valamint kapcsolódásaik
+
+C Az alkotmányos alapjogok
+
+C A jogforrások és a kormányzati rendszer
+
+C Az Alkotmánybíróság, az országgyűlési biztosok, a bíróságok, valamint az ügyészség helyzete és szerepe
+
+A A hivatásetikák és az alkalmazott etikák
+
+A A vonatkozó erkölcsi kódexek alkalmazása
+
+C A büntetőjogi alapfogalmak
+
+D Az igazságszolgáltatás alapjai
+
+B A közigazgatás szervezeti rendszere
+
+B A központi igazgatás alapintézményei
+
+C A büntetőeljárás és a büntetés-végrehajtás alapvető intézményei, alapelvei
+
+C A közigazgatási, a büntető és a szabálysértési eljárás alapintézményei, lefolytatásuk szabályai
+
+C A szolgálati jogviszonyok alapvető jellemzői (közalkalmazottak, köztisztviselők, hivatásos állomány)
+
+A A közigazgatási – rendészeti területek ügyviteli, ügyintézési tevékenységhez szükséges szakmai fogalmak
+
+C A minősített adat védelmére vonatkozó szabályok
+
+B Rendészeti feladatokat ellátó nem rendvédelmi szervek működésének jogi alapjai
+
+A szint megjelölésével a szakmai készségek:
+
+3 ECDL 3. m. szövegszerkesztés
+
+3 Olvasott köznyelvi szöveg megértése
+
+3 Köznyelvi szöveg fogalmazása írásban
+
+5 Köznyelvi szöveg hallás utáni megértése
+
+4 Köznyelvi beszédkészség
+
+5 Olvasott szakmai szöveg megértése
+
+3 Szakmai nyelvi íráskészség, fogalmazás írásban
+
+4 Szakmai nyelvű hallott szöveg megértése
+
+3 Szakmai nyelvű beszédkészség
+
+1 Idegen nyelvű olvasott szöveg megértése
+
+4 Gépírás
+
+4 Információforrások kezelése
+
+5 Elemi számolási készség
+
+5 Komplex eszközhasználati képességek, készségek
+
+Személyes kompetenciák:
+
+Tűrőképesség
+
+Felelősségtudat
+
+Megbízhatóság
+
+Önfegyelem
+
+Pontosság
+
+Terhelhetőség
+
+Társas kompetenciák:
+
+Irányíthatóság
+
+Kapcsolatteremtő készség
+
+Tömör fogalmazás készsége
+
+Konfliktusmegoldó készség
+
+Udvariasság
+
+Motiválhatóság
+
+Módszerkompetenciák:
+
+Rendszerező képesség
+
+Ismeretek helyénvaló alkalmazása
+
+Emlékezőképesség (ismeretmegőrzés)
+
+Információgyűjtés
+
+Kontroll (ellenőrzőképesség)
+
+Figyelem-összpontosítás
+
+| Az 55 346 03 0000 00 00 azonosító számú, Rendészeti asszisztens megnevezésű szakképesítés szakmai követelménymoduljainak |
+
+| azonosítója | megnevezése |
+
+| 1586-06 | Gépírás és levelezés |
+
+| 2599-10 | A rendészeti szerveknél rendészeti asszisztensi feladatok ellátása |
+
+| 2600-10 | A rendészeti szakterületen kívüli szervekkel kapcsolatos rendészeti asszisztensi feladatok ellátása |
+
+V. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+
+1. A szakmai vizsgára bocsátás feltételei:
+
+A szakképzési programban előírt gyakorlat teljesítése
+
+Az utolsó szakképző évfolyam eredményes elvégzését tanúsító bizonyítvány
+
+A szakképzésről szóló törvény szerinti beszámítási eljárás keretében az előzetes ismeretek beszámíthatóságát a felsőoktatási intézmény vezetője a képzési programja alapján határozza meg
+
+2. A szakmai vizsga részei:
+
+1. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1586-06 Gépírás és levelezés
+
+A hozzárendelt 1. vizsgafeladat:
+
+Egy kb. 1000–1500 leütés terjedelmű, folyamatosan írott, nyomtatott formátumú levélszöveg begépelése és szerkesztése a gyakorlati életben alkalmazott levelezési irányelveknek, valamint 10–12 szerkesztési utasításnak megfelelően.
+
+A hozzárendelt jellemző vizsgatevékenység: írásbeli
+
+Időtartama: 60 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+2. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+2599-10
+
+A rendészeti szerveknél rendészeti asszisztensi feladatok ellátása
+
+A hozzárendelt 1. vizsgafeladat:
+
+A rendészeti szervekhez érkező beadványok ügyviteli feladatainak leírása
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+gyakorlati
+
+Időtartama: 60 perc
+
+A hozzárendelt 2. vizsgafeladat:
+
+A rendészet alapelveinek, a rendészeti szervek szervezeti felépítésének, működésének és feladatainak ismertetése. Jogi alapfogalmak, a jogalkotás és a jogalkalmazás és a rendészeti jogalkalmazás tartalmának ismertetése
+
+A hozzárendelt jellemző vizsgatevékenység: szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 40%
+
+2. feladat 60%
+
+3. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+2600-10
+
+A rendészeti szakterületen kívüli szervekkel kapcsolatos rendészeti asszisztensi feladatok ellátása
+
+A hozzárendelt 1. vizsgafeladat:
+
+Rendészeti feladatokat ellátó nem rendvédelmi szervekkel kapcsolatos együttműködés iratainak előkészítése
+
+A hozzárendelt jellemző vizsgatevékenység: gyakorlati
+
+Időtartama: 60 perc
+
+A hozzárendelt 2. vizsgafeladat:
+
+A közigazgatás szervezeti rendszerének, az önkormányzás elvi alapjainak és az önkormányzatok szervezetének ismertetése
+
+A rendvédelmi szervek és a helyi önkormányzatok, valamint a jegyző együttműködési eseteinek ismertetése
+
+Rendészeti feladatokat ellátó nem rendvédelmi szervek bemutatása, a vonatkozó jogszabályi háttér alapszintű ismertetése
+
+A hozzárendelt jellemző vizsgatevékenység: szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 20%
+
+2. feladat 80%
+
+3. A szakmai vizsga értékelése %-osan:
+
+Az 55 346 03 0000 00 00 azonosító számú, rendészeti asszisztens megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+
+1. vizsgarész: 10%
+
+2. vizsgarész: 45%
+
+3. vizsgarész: 45%
+
+4. A szakmai vizsgarészek alóli felmentés feltételei
+
+A szakképesítéshez rendelt vizsgarészek valamelyikének korábbi teljesítése
+
+5. A vizsgatevékenyégek és a szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai –
+
+VI. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+
+| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Rendészeti asszisztens |
+
+| Számítógép | X |
+
+| Szkenner | X |
+
+| Nyomtató | X |
+
+| Fénymásoló | X |
+
+| Telefon | X |
+
+| Fax | X |
+
+| Internet-hozzáférés | X |
+
+| Szoftverek | X |
+
+| Irodaszerek | X |
+
+| Nyomtatványok | X |
+
+| Iratmegsemmisítő | X |
+
+| Hangrögzítő | X |
+
+| Szakkönyvek | X |
+
+| CD-jogtár | X |
+
+| Projektor | X |
+
+VII. EGYEBEK
+
+Az évközi egybefüggő szakmai gyakorlat időtartama: 100 óra.
+
+A szakmai szervezet szakmai vizsgabizottságban betöltött feladatait a Rendészeti asszisztens
+
+OKJ 55 346 03 0000 00 00 szakképesítés tekintetében az Országos Rendőr-főkapitányság látja el.
 
 BIZTONSÁGI ŐR
 
@@ -6510,1636 +7948,4 @@ D A főbüntetések
 
 D A szabadságvesztés
 
-D A feltételes szabadságra bocsátás
-
-D A mellékbüntetések
-
-D Az intézkedések
-
-D A bűncselekmény, fogalma, fajtái
-
-D A szándékos bűncselekmény megvalósulási szakaszai
-
-D Az alannyá válás feltételei
-
-D A bűnösség, a bűncselekmény elkövetői
-
-D A büntethetőségi akadályok
-
-D A büntetés-végrehajtást kizáró okok
-
-C A szabadságvesztés büntetés végrehajtása, rendje
-
-D Az enyhébb végrehajtási szabályok
-
-A Az elítélt jogi helyzete
-
-A Az elítéltek elhelyezése
-
-B Az elítélt ruházati ellátása
-
-B Munkáltatás
-
-C Az előzetes letartóztatás
-
-D Az elzárás
-
-D Idegenrendészeti őrizet
-
-D A fiatalkorúval szemben alkalmazott szankciók
-
-D A kényszergyógykezelés
-
-C Alkoholisták kényszergyógyítása
-
-D Az államtitok és szolgálati titok megsértése
-
-D Hivatali bűncselekmények
-
-D A hivatalos személy elleni bűncselekmények
-
-C Az igazságszolgáltatás elleni bűncselekmények
-
-D A közélet tisztasága elleni bűncselekmények
-
-D A szolgálati bűncselekmények
-
-C A biztonság fogalmának értelmezése
-
-C A biztonsági rendszer elemei
-
-C A biztonsági tevékenység fogalma, területei és tartalma
-
-C A biztonsági tevékenységet ellátó személyi állomány
-
-D Az események fajtái, bekövetkezésének okai
-
-C Az események megszüntetésének követelményei
-
-B A büntetés-végrehajtási szervek személyi állományának riadóztatása
-
-D Nevelési ismeretek tartalmi elemei
-
-C A szabadságvesztés-büntetés végrehajtásának célja, feladata
-
-C Elhelyezés
-
-C Napi programok
-
-C Napirend
-
-C A szabadságvesztés végrehajtásának alapelvei
-
-C Az elítéltek foglalkoztatása
-
-C Munkavégzés elvei és szabályai
-
-D Közművelődés, szabadidős tevékenység
-
-C Családi, társadalmi kapcsolatok támogatása
-
-C Az átmeneti csoport
-
-C Az enyhébb végrehajtási szabályok
-
-C Fiatalkorú elítéltek speciális kezelése, gondozása
-
-C A nők helyzetének szabályozása a büntetés-végrehajtásban
-
-C Az elítéltek kezelése gyógyító-nevelő csoportban
-
-C Külföldi elítéltek büntetésének végrehajtása
-
-C A szolgálati fegyelem, szolgálati érintkezés szabályai
-
-C A hivatásos állomány magatartása szolgálatban, szolgálaton kívül
-
-C A hivatásos állomány tagjának kapcsolattartása, közszereplése
-
-C A büntetés-végrehajtási szervezet személyi állománya
-
-B A szolgálati viszonyra vonatkozó szabályok, speciális jogok
-
-B Elöljárók és alárendeltek, feljebbvalók és alacsonyabb rendfokozatúak, a rangidős
-
-B Rendfokozatok, rendfokozati csoportok, várakozási idő
-
-B A parancs, a szolgálati út
-
-B Juttatások, költségtérítések, kedvezmények és támogatások
-
-B Alaki fogások és mozdulatok fegyver nélkül
-
-B Mozdulatok és fogások fegyverrel
-
-C Alaki szabályok és alakzatok a szolgálatba lépő állomány részére
-
-C Rendvédelmi közelharc technikák
-
-C Alaki és szolgálati szabályzat
-
-B Intézkedés taktikai fogások, eljárások leírása
-
-C A szolgálattervezés fogalma, rendje
-
-C A rendfenntartó erők tagjainak magatartási kódexe
-
-A szint megjelölésével a szakmai készségek:
-
-1 ECDL 1. m. IT alapismeretek
-
-2 ECDL 2. m. operációs rendszerek
-
-2 ECDL 3. m. szövegszerkesztés
-
-2 ECDL 4. m. táblázatkezelés
-
-2 ECDL 5. m. adatbázis-kezelés
-
-4 Szakmai nyelvi íráskészség, fogalmazás írásban
-
-4 Kommunikáció
-
-3 Elemi számolási készség
-
-4 Tájékozódás
-
-4 Térérzékelés
-
-3 Helyszínrajzok olvasása, értelmezése
-
-4 Irodatechnikai eszközök használata
-
-4 Védőruházat, védőeszközök alkalmazása, használata
-
-5 Lőfegyverhasználat parancsra, illetve saját elhatározásból
-
-3 Csapaterőben végrehajtandó feladatokhoz rendszeresített eszközök használata
-
-Személyes kompetenciák:
-
-Látás
-
-Mozgáskoordináció (testi ügyesség)
-
-Tűrőképesség
-
-Tájékozódás
-
-Kézügyesség
-
-Társas kompetenciák:
-
-Tolerancia
-
-Tömör fogalmazás készsége
-
-Konfliktuskerülő készség
-
-Módszerkompetenciák:
-
-Problémamegoldás, hibaelhárítás
-
-Rendszerben való gondolkodás
-
-Gyakorlatias feladatértelmezés
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0727-06 Büntetés-végrehajtási főfelügyelő feladatai
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Biztonsági tiszt akadályoztatása esetén az őt megillető hatáskörrel és felelősséggel intézkedik
-
-Folyamatos összeköttetést tart a biztonsági tiszttel, a biztonsági körlet és a munkáltatási felügyelőkkel
-
-Kezeli a biztonságtechnikai rendszer központot
-
-Közreműködik a felügyelők eligazításában, irányítja és szervezi a felügyelők szolgálatellátását
-
-Közreműködik a fogvatartottak eligazításában
-
-Megköveteli a fogvatartottak napirendjének végrehajtását
-
-Ellátja a fogvatartottak körletről történő kiadásával, visszavételével kapcsolatos adminisztratív feladatokat
-
-Megszervezi a biztonsági ellenőrzés végrehajtását
-
-Kiadja a fogvatartottak létszám és tálalási jelentését
-
-Átveszi és átvizsgálja a fogvatartott részére érkező csomagot
-
-Megszervezi a fogvatartottak szükségleticikk vásárlását
-
-Közreműködik a fogvatartotti körletszemle végrehajtásában
-
-Intézkedik a fogvatartotti előállítás és szállítás előkészítésére
-
-Irányítja a magánelzárás, a biztonsági és fegyelmi elkülönítés végrehajtását
-
-Intézkedik kényszerítő eszköz alkalmazására
-
-Nyilvántartást vezet a körletén elhelyezett fogvatartottakról
-
-Ellenőrzési feladatot lát el
-
-Eleget tesz a jelentési kötelezettségének
-
-Javaslatot tesz fegyelmi eljárásra és jutalmazásra
-
-Eligazítja a munkáltatási felügyelőket
-
-Tulajdonságprofil:
-
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-D A szankciórendszer
-
-C Totális intézetek jellemzői
-
-C Eltérő bánásmódot igénylő fogvatartottak
-
-D Az átmeneti csoport
-
-B Az elítélt befogadása
-
-B Az elítélt élelmezése
-
-B A szabadítás szabályai
-
-D A szabadságvesztés félbeszakítása
-
-C A büntetés-végrehajtási szervezet biztonsági rendszere
-
-D A biztonsági tevékenységre ható alapelvek
-
-C A szolgálatszervezés
-
-D Az események csoportosítása
-
-B A rendkívüli esemény megelőzése, megszakítása
-
-B A riadóztatás részletes szabályai
-
-C A büntetés-végrehajtási nevelés fogalma
-
-C A klasszifikáció fogalma, célja
-
-C A felkészítő részleg működése
-
-C A fogvatartott oktatása és szakképzése
-
-C Terápiás foglalkoztatás
-
-C A jutalmazás
-
-C A végrehajtási fokozat megváltoztatása
-
-C A feltételes szabadságra bocsátás
-
-D Szabadulásra való felkészítés
-
-C Az elítéltek fegyelmi felelőssége
-
-C A büntetés-végrehajtási szervezet irányítása, vezetése
-
-C Büntetés-végrehajtási intézetek szolgálati tagozódása, a szakterületek alapvető feladatai
-
-C Az alakzatok és azok vezetése
-
-C A szolgálati viselkedés lélektana
-
-A szint megjelölésével a szakmai készségek:
-
-2 ECDL 7. m. információ és kommunikáció
-
-3 ECDL AM4 modul táblázatkezelés – haladó szint
-
-3 A büntetés-végrehajtásnál működő alrendszerek
-
-4 Szakmai nyelvű hallott szöveg megértése
-
-4 Szakmai nyelvű beszédkészség
-
-4 Komplex jelzésrendszerek
-
-Személyes kompetenciák:
-
-Állóképesség
-
-Látás
-
-Mozgáskoordináció
-
-Testi ügyesség
-
-Tűrőképesség
-
-Önfegyelem
-
-Stressztűrő képesség
-
-Terhelhetőség
-
-Társas kompetenciák:
-
-Határozottság
-
-Irányíthatóság
-
-Tolerancia
-
-Tömör fogalmazás készsége
-
-Konfliktusmegoldó készség
-
-Módszerkompetenciák:
-
-Ismeretek helyén való alkalmazása
-
-Emlékezőképesség (ismeretmegőrzés)
-
-Problémamegoldás, hibaelhárítás
-
-Helyzetfelismerés
-
-Rendszerekben való gondolkodás
-
-Gyakorlatias feladatértelmezés
-
-Körültekintés, elővigyázatosság
-
-Figyelemmegosztás
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0728-06 Rendészeti alapfeladatok II.
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Alkalmazza a tevékenységére vonatkozó jogszabályokat és tűzvédelmi, munkavédelmi, környezetvédelmi szabályokat, valamint a speciális szakmai, továbbá az etikai szabályokat
-
-Folyamatosan szinten tartja, fejleszti szakmai ismereteit, részt vesz a kötelező továbbképzéseken
-
-Folyamatosan fejleszti fizikai állóképességét, végrehajtja az éves fizikai felméréseket és egészségügyi szűréseket
-
-Egyéni felszerelését, fegyverzetét egyen vagy polgári ruházatát ellenőrzi, karbantartja, kezeli
-
-Tevékenységét, megállapításait dokumentálja, rögzíti
-
-Adatokat kezel, rögzít, nyilvántartásokat vezet
-
-Vezeti a szolgálati okmányokat
-
-Pontosan, kipihenten jelentkezik szolgálatra
-
-Felkészül, felszerel, felveszi a kényszerítőeszközöket és a lőfegyvert
-
-Eligazításon vesz részt
-
-Átveszi/átadja a szolgálatot, szolgálatba lép
-
-Bevonul szolgálatból
-
-Jelentést tesz elöljárójának
-
-Tisztán tartja a szolgálati és pihenőkörletét
-
-Tulajdonságprofil:
-
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-D Munka-, baleset-, tűz- és környezetvédelmi, valamint egészségügyi rendszabályok
-
-B Alaki, öltözködési szabályok
-
-B A szolgálati formákra, szolgálattervezésre, a szolgálatteljesítésre vonatkozó alapvető ismeretek
-
-C Magatartás szolgálatban, szolgálaton kívül, etikai szabályok
-
-C A szolgálati jogviszonyra vonatkozó szabályok, jogosultságok, kötelezettségek
-
-D Szolgálati kötelmek és jogok, a szolgálati érintkezés szabályai, a szolgálati feladatok ellátásának rendje
-
-D Alkotmányosság elvei, a Magyar Köztársaság Alkotmánya
-
-D A közigazgatás alapfogalmai, rendszere
-
-D Emberi-, állampolgári és kisebbségjogi alapismeretek
-
-C Objektum-, személy-, vagyonvédelmi és őrzési szabályok
-
-B Járőr-, ügyeleti, készenléti és készültségi szolgálat jellemzői
-
-C Fegyverzeti, ballisztikai és lőelméleti ismeretek
-
-E Adat-, ügykezelésre, titokvédelemre vonatkozó előírások
-
-C Minősített időszaki feladatok általános előírásai
-
-B A vezetékes és vezeték nélküli adattovábbításra, hírközlésre vonatkozó ismeretek
-
-D Kommunikációs alapismeretek
-
-D Rendvédelem-történet, szakma történet
-
-B Fizikai állóképességre vonatkozó előírások és önvédelemi alapismeretek
-
-D Terepen történő tájékozódás
-
-A szint megjelölésével a szakmai készségek:
-
-3 Információforrások kezelése
-
-4 Híradástechnikai berendezések, eszközök használata
-
-5 Kényszerítő eszközök alkalmazása, használata
-
-3 Olvasott köznyelvi szöveg megértése
-
-3 Köznyelvi szöveg hallás utáni megértése
-
-4 Köznyelvi beszédkészség
-
-3 Olvasott szakmai szöveg megértése
-
-3 Szakmai nyelvű hallott szöveg megértése
-
-4 Szakmai nyelvű beszédkészség
-
-Személyes kompetenciák:
-
-Állóképesség
-
-Döntésképesség
-
-Elhivatottság, elkötelezettség
-
-Érzelmi stabilitás, kiegyensúlyozottság
-
-Fejlődőképesség, önfejlesztés, önképzés
-
-Kitartás
-
-Megbízhatóság
-
-Monotónia-tűrés
-
-Önállóság
-
-Önfegyelem
-
-Stressztűrő képesség
-
-Mozgáskoordináció (testi ügyesség)
-
-Testi erő
-
-Társas kompetenciák:
-
-Adekvát metakommunikáció
-
-Empatikus készség
-
-Határozottság
-
-Irányíthatóság
-
-Konfliktusmegoldó készség
-
-Közérthetőség
-
-Módszerkompetenciák:
-
-Emlékezőképesség (ismeretmegőrzés)
-
-Figyelemmegosztás
-
-Helyzetfelismerés
-
-Ismeretek helyén való alkalmazása
-
-Körültekintés, elővigyázatosság
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0729-06 Büntetés-végrehajtási feladatok II.
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Jelentést tesz a szolgálat átadásról, átvételről
-
-Az átadás-átvétel megtörténtét dokumentálja
-
-Tájékoztatást ad a folyamatban lévő ügyekről
-
-Őrzési feladatot lát el
-
-Ellátja a büntetőeljárásban résztvevő személyek védelmét
-
-Őrzi a fogvatartottat, megóvja az életét, testi épségét
-
-Őrzési-védelmi feladatot lát el lőfegyverrel, technikai eszközökkel vagy szolgálati kutyával
-
-Ügyeleti szolgálatot lát el
-
-Készenléti szolgálatot lát el
-
-Ellenőrzési feladatot lát el
-
-A fogvatartott meghatározott helyen való tartózkodását, tevékenységét időszakosan figyelemmel kíséri
-
-Járőrszolgálatot lát el
-
-Meghatározott területen őrutasítás vagy eligazítás szerint figyeléssel lát el biztonsági feladatot
-
-Előállítást hajt végre
-
-Szállítási feladatot lát el
-
-Kísérési feladatot lát el
-
-Fegyveres biztosítási feladatot lát el
-
-Fegyverrel őrzi a büntetés-végrehajtás objektumait, javait és a fogvatartottat
-
-Részt vesz rendkívüli események megszakításában, illetve a következmények felszámolásában
-
-Kényszerítő eszközt alkalmaz
-
-Részt vesz a biztonsági vizsgálat végrehajtásában
-
-A törvényben meghatározott esetekben és módon lőfegyvert használ parancsra
-
-A törvényben meghatározott esetekben és módon lőfegyvert használ saját elhatározásból
-
-Átadja, illetve átveszi létszám szerint a fogvatartottakat, ellenőrzi a biztonsági berendezéseket, technikai eszközök működőképességét, a kiadott kényszerítő eszközök és okmányok meglétét
-
-A fogvatartottat zárkába, lakóhelyiségbe helyezi
-
-Végrehajtja a személyi motozást
-
-Betartatja a fogvatartottra vonatkozó jogszabályi és egyéb előírásokat
-
-Közreműködik a fogvatartott nevelésében
-
-A fogvatartottal kapcsolatos ügyekben folyamatos kapcsolatot tart a nevelővel
-
-Létszámellenőrzést tart
-
-Kiadja a fogvatartottat a körletből, végrehajtja az ilyenkor kötelezően előírt feladatokat
-
-Befogadja a fogvatartottat a körletbe, végrehajtja az ilyenkor kötelezően előírt feladatokat
-
-Biztonsági ellenőrzést hajt végre
-
-Részt vesz a fogvatartotti körletre kiterjedő biztonsági vizsgálatban
-
-Megakadályozza a fogvatartás rendjét és a biztonságot veszélyeztető cselekményeket
-
-Végrehajtja az előírt biztonsági intézkedéseket
-
-Kényszerítő eszközt alkalmaz
-
-Mozgást korlátozó eszközöket alkalmaz
-
-Végrehajtja az elrendelt elkülönítést és az ilyen esetben kötelezően előírt feladatokat
-
-Végrehajtja a magánelzárást és az ilyen esetben kötelezően előírt feladatokat
-
-Folyamatos tájékoztatást ad a magánelzárásban lévő fogvatartott magatartásáról
-
-Kezeli a technikai eszközöket
-
-Haladéktalanul jelentést tesz a fogvatartást akadályozó körülményekről
-
-Gondoskodik a rábízott javak megőrzéséről
-
-Elrendeli, végrehajtatja, adminisztrálja a díjazás nélküli munkavégzést
-
-Átvizsgálja a szabad levegőn tartózkodásra kijelölt területet
-
-Biztosítja a fogvatartott szabad levegőn tartózkodását
-
-Végrehajtja a fogvatartottak elkülönítésére és differenciált fogvatartására vonatkozó szabályokat
-
-Kijelölt helyen átveszi, illetve átadja a fogvatartottakat létszám szerint
-
-Munkakezdés előtt végrehajtja a biztonsági ellenőrzést
-
-Meghatározott időnként létszámellenőrzést tart
-
-Előírt időszakokban munkaközi szünetet biztosít
-
-Jelenti a bekövetkezett rendkívüli eseményt és a biztonságot veszélyeztető körülményeket
-
-Kíséri a fogvatartottakat
-
-Kezeli a biztonságra különösen veszélyes anyagokat, munkaeszközöket
-
-Meghatározott esetekben jelentést tesz írásban vagy szóban
-
-Javaslatot tesz a fogvatartott jutalmazására, fegyelmi felelősségre vonására, munkából történő leváltására
-
-Betartja a fogvatartottakkal szemben előírt érintkezési szabályokat
-
-Tulajdonságprofil:
-
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-D A büntetőjog fogalma
-
-D A büntetések
-
-D A főbüntetések
-
-D A szabadságvesztés
-
-D A szándékos bűncselekmény megvalósulási szakaszai
-
-D Az alannyá válás feltételei
-
-D A büntetés-végrehajtást kizáró okok
-
-C A szabadságvesztés büntetés végrehajtása, rendje
-
-A Az elítélt jogi helyzete
-
-B Az elítéltek elhelyezése
-
-C Az előzetes letartóztatás
-
-D Az elzárás
-
-D A fiatalkorúval szemben alkalmazott szankciók
-
-D Az államtitok és szolgálati titok megsértése
-
-D Hivatali bűncselekmények
-
-D A hivatalos személy elleni bűncselekmények
-
-D A közélet tisztasága elleni bűncselekmények
-
-D A szolgálati bűncselekmények
-
-C A biztonsági tevékenység fogalma, területei és tartalma
-
-C A biztonsági tevékenységet ellátó személyi állomány
-
-B A büntetés-végrehajtási szervek személyi állományának riadóztatása
-
-C A szabadságvesztés-büntetés végrehajtásának célja, feladata
-
-C Elhelyezés
-
-C Napirend
-
-C Munkavégzés elvei és szabályai
-
-C Fiatalkorú elítéltek speciális kezelése, gondozása
-
-C A nők helyzetének sajátos szabályozása a büntetés-végrehajtásban
-
-C Külföldi elítéltek büntetésének végrehajtása
-
-C A szolgálati fegyelem, szolgálati érintkezés szabályai
-
-C A hivatásos állomány magatartása szolgálatban, szolgálaton kívül
-
-C A hivatásos állomány tagjának kapcsolattartása, közszereplése
-
-C A büntetés-végrehajtási szervezet személyi állománya
-
-B A szolgálati viszonyra vonatkozó szabályok, speciális jogok
-
-B Elöljárók és alárendeltek, feljebbvalók és alacsonyabb rendfokozatúak, a rangidős
-
-B Rendfokozatok, rendfokozati csoportok, várakozási idő
-
-B A parancs, a szolgálati út
-
-B Juttatások, költségtérítések, kedvezmények és támogatások
-
-B Alaki fogások és mozdulatok fegyver nélkül
-
-B Mozdulatok és fogások fegyverrel
-
-C Alaki szabályok és alakzatok a szolgálatba lépő állomány részére
-
-C Rendvédelmi közelharc technikák
-
-C Alaki és szolgálati szabályzat
-
-B Intézkedés taktikai fogások, eljárások leírása
-
-C A szolgálattervezés fogalma, rendje
-
-C A rendfenntartó erők tagjainak magatartási kódexe
-
-A szint megjelölésével a szakmai készségek:
-
-1 Elemi szintű számítógép-használat
-
-4 Szakmai nyelvi íráskészség, fogalmazás írásban
-
-4 Kommunikáció
-
-3 Elemi számolási készség
-
-4 Tájékozódás
-
-4 Térérzékelés
-
-4 Védőruházat, védőeszközök alkalmazása, használata
-
-5 Lőfegyverhasználat parancsra, illetve saját elhatározásból
-
-3 Csapaterőben végrehajtandó feladatokhoz rendszeresített eszközök használata
-
-Személyes kompetenciák:
-
-Látás
-
-Mozgáskoordináció (testi ügyesség)
-
-Tűrőképesség
-
-Tájékozódás
-
-Kézügyesség
-
-Társas kompetenciák:
-
-Tolerancia
-
-Tömör fogalmazás készsége
-
-Konfliktusmegoldó készség
-
-Módszerkompetenciák:
-
-Problémamegoldás, hibaelhárítás
-
-Rendszerekben való gondolkodás
-
-Gyakorlatias feladatértelmezés
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0730-06 Büntetés-végrehajtási feladatok III.
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Ellátja a személyek, gépjárművek be- és kiléptetésével összefüggő feladatokat
-
-Ellátja a küldemények átvételével kapcsolatos feladatokat
-
-Felkér személyazonosság igazolására, belépési jogosultságot ellenőriz
-
-Felszólítja az intézet területére belépő személyt a be nem vihető tárgyak leadására, fémtárgyak levételére
-
-Technikai eszköz, illetve szolgálati kutya alkalmazásával átvizsgálja a belépő személy csomagját és ruházatát, illetve a gépjárművet
-
-Átveszi az intézet területére be nem vihető tárgyakat vagy felszólítja a belépőt azok elzárására, elvégzi a belépő fémkeresővel való megvizsgálását, csomagjainak ellenőrzését
-
-Ellenőrzi a járműrakodást
-
-Megakadályozza a járművel, járművön történő szökést, a jogtalan szállítást
-
-Számítógépen rögzíti az áthelyezés tényét
-
-Tulajdonságprofil:
-
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-D A büntetőjog forrásai
-
-D A Büntető Törvénykönyv szerkezete
-
-D A feltételes szabadságra bocsátás
-
-D A mellékbüntetések
-
-D Az intézkedések
-
-D A bűncselekmény, fogalma, fajtái
-
-D A bűnösség, a bűncselekmény elkövetői
-
-D A büntethetőségi akadályok
-
-D Az enyhébb végrehajtási szabályok
-
-B Az elítélt ruházati ellátása
-
-B Munkáltatás
-
-D Idegenrendészeti őrizet
-
-D A kényszergyógykezelés
-
-C Alkoholisták kényszergyógyítása
-
-C Az igazságszolgáltatás elleni bűncselekmények
-
-C A biztonság fogalmának értelmezése
-
-C A biztonsági rendszer elemei
-
-D Az események fajtái, bekövetkezésének okai
-
-C Az események megszüntetésének követelményei
-
-D Nevelési ismeretek tartalmi elemei
-
-C Napi programok
-
-C A szabadságvesztés végrehajtásának alapelvei
-
-C Az elítéltek foglalkoztatása
-
-D Közművelődés, szabadidős tevékenység
-
-C Családi, társadalmi kapcsolatok támogatása
-
-C Az átmeneti csoport
-
-C Az enyhébb végrehajtási szabályok
-
-C Az elítéltek kezelése gyógyító-nevelő csoportban
-
-A szint megjelölésével a szakmai készségek:
-
-2 ECDL 2. m. operációs rendszerek
-
-2 ECDL 3. m. szövegszerkesztés
-
-2 ECDL 4. m. táblázatkezelés
-
-2 ECDL 5. m. adatbázis-kezelés
-
-3 Helyszínrajzok olvasása, értelmezése
-
-4 Irodatechnikai eszközök használata
-
-Személyes kompetenciák:
-
-Látás
-
-Mozgáskoordináció (testi ügyesség)
-
-Tűrőképesség
-
-Tájékozódás
-
-Kézügyesség
-
-Társas kompetenciák:
-
-Tolerancia
-
-Tömör fogalmazás készsége
-
-Konfliktusmegoldó készség
-
-Módszerkompetenciák:
-
-Problémamegoldás, hibaelhárítás
-
-Rendszerekben való gondolkodás
-
-Gyakorlatias feladatértelmezés
-
-| Az 52 861 01 0000 00 00 azonosító számú, Büntetés-végrehajtási felügyelő I. megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| azonosítója | megnevezése |
-
-| 0725-06 | Rendészeti alapfeladatok |
-
-| 0726-06 | Büntetés-végrehajtási feladatok |
-
-| Az 52 861 01 0100 31 01 azonosító számú, Büntetés-végrehajtási felügyelő II. megnevezésű részszakképesítés szakmai követelménymoduljainak |
-
-| azonosítója | megnevezése |
-
-| 0728-06 | Rendészeti alapfeladatok II. |
-
-| 0729-06 | Büntetés-végrehajtási feladatok II. |
-
-| Az 52 861 01 0001 52 01 azonosító számú, Büntetés-végrehajtási főfelügyelő megnevezésű ráépülés szakmai követelménymoduljainak |
-
-| azonosítója | megnevezése |
-
-| 0727-06 | Büntetés-végrehajtási főfelügyelő feladatai |
-
-V.
-
-VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-1. A szakmai vizsgára bocsátás feltételei:
-
-A modulzáró vizsga eredményes letétele.
-
-A képzési programban előírt gyakorlat teljesítéséről szóló igazolás.
-
-2. A szakmai vizsga részei:
-
-1. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0725-06 Rendészeti alapfeladatok
-
-A hozzárendelt 1. vizsgafeladat:
-
-A szolgálatteljesítésre vonatkozó általános szabályok
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-írásbeli
-
-Időtartama: 120 perc
-
-A hozzárendelt 2. vizsgafeladat:
-
-Általános szolgálati feladatok
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-szóbeli
-
-Időtartama: 45 perc (30 perc felkészülési idő, 15 perc válaszadási idő)
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat 50%
-
-2. feladat 50%
-
-2. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0726-06 Büntetés-végrehajtási feladatok
-
-A hozzárendelt 1. vizsgafeladat:
-
-A büntetés-végrehajtási intézetekkel és a fogvatartással kapcsolatos általános biztonsági szabályok ismerete és azok gyakorlati alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 45 perc
-
-A hozzárendelt 2. vizsgafeladat:
-
-A személyi állományra vonatkozó szabályok
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-írásbeli
-
-Időtartama: 120 perc
-
-A hozzárendelt 3. vizsgafeladat:
-
-A fogvatartással kapcsolatos jogszabályok ismerete, a fogvatartásra vonatkozó szabályok ismerete és alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-szóbeli
-
-Időtartama: 45 perc (30 perc felkészülési idő, 15 perc válaszadási idő)
-
-A hozzárendelt 4. vizsgafeladat:
-
-A szolgálatteljesítés során teendő egyes biztonsági intézkedések bemutatása, szabályos végrehajtása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A hozzárendelt 5. vizsgafeladat:
-
-A büntetés-végrehajtás informatikai rendszerének gyakorlati alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat 25%
-
-2. feladat 15%
-
-3. feladat 25%
-
-4. feladat 20%
-
-5. feladat 15%
-
-3. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0727-06 Büntetés-végrehajtási főfelügyelő feladatai
-
-A hozzárendelt 1. vizsgafeladat:
-
-A büntetés-végrehajtási intézet és javai, valamint a fogvatartottak őrzésének, felügyeletének és ellenőrzésének szervezési feladatai
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-szóbeli
-
-Időtartama: 30 perc (30 perc felkészülési idő, 15 perc válaszadási idő)
-
-A hozzárendelt 2. vizsgafeladat:
-
-A büntetés-végrehajtási intézet és a fogvatartás biztonságát veszélyeztető egyes rendkívüli események megelőzésére és felszámolására teendő intézkedések
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A hozzárendelt 3. vizsgafeladat:
-
-Egyes biztonsági feladatok gyakorlati bemutatása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A hozzárendelt 4. vizsgafeladat:
-
-A büntetés-végrehajtás informatikai rendszerének gyakorlati alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat 30%
-
-2. feladat 30%
-
-3. feladat 20%
-
-4. feladat 20%
-
-4. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0728-06 Rendészeti alapfeladatok II.
-
-A hozzárendelt 1. vizsgafeladat:
-
-A szolgálatteljesítésre vonatkozó általános szabályok
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-írásbeli
-
-Időtartama: 120 perc
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat 100%
-
-5. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0729-06 Büntetés-végrehajtási feladatok II.
-
-A hozzárendelt 1. vizsgafeladat:
-
-A büntetés-végrehajtási intézetekkel és a fogvatartással kapcsolatos általános biztonsági szabályok ismerete és azok gyakorlati alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 45 perc
-
-A hozzárendelt 2. vizsgafeladat:
-
-A személyi állományra vonatkozó szabályok
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-írásbeli
-
-Időtartama: 120 perc
-
-A hozzárendelt 3. vizsgafeladat:
-
-A fogvatartással kapcsolatos jogszabályok ismerete, a fogva tartásra vonatkozó szabályok ismerete és alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-szóbeli
-
-Időtartama: 45 perc (30 perc felkészülési idő, 15 perc válaszadási idő)
-
-A hozzárendelt 4. vizsgafeladat:
-
-A szolgálatteljesítés során teendő egyes biztonsági intézkedések bemutatása, szabályos végrehajtása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat 30%
-
-2. feladat 20%
-
-3. feladat 30%
-
-4. feladat 20%
-
-6. vizsgarész
-
-A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-0730-06 Büntetés-végrehajtási feladatok III.
-
-A hozzárendelt 1. vizsgafeladat:
-
-A büntetés-végrehajtás informatikai rendszerének gyakorlati alkalmazása
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-gyakorlati
-
-Időtartama: 30 perc
-
-A hozzárendelt 2. vizsgafeladat:
-
-Általános szolgálati feladatok
-
-A hozzárendelt jellemző vizsgatevékenység:
-
-szóbeli
-
-Időtartama: 45 perc (30 perc felkészülési idő, 15 perc válaszadási idő)
-
-A vizsgarészben az egyes feladatok aránya:
-
-1. feladat 40%
-
-2. feladat 60%
-
-3. A szakmai vizsga értékelése%-osan:
-
-Az 52 861 01 0000 00 00 azonosító számú, Büntetés-végrehajtási felügyelő I. megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
-
-1. vizsgarész: 30%
-
-2. vizsgarész: 70%
-
-Az 52 861 01 0100 31 01 azonosító számú, Büntetés-végrehajtási felügyelő II. megnevezésű részszakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
-
-4. vizsgarész: 30%
-
-5. vizsgarész: 70%
-
-Az 52 861 01 0001 52 01 azonosító számú, Büntetés-végrehajtási főfelügyelő megnevezésű ráépüléshez rendelt vizsgarészek és ezek súlya a vizsga egészében
-
-3. vizsgarész: 100%
-
-Az 52 861 01 0000 00 00 azonosító számú, Büntetés-végrehajtási felügyelő I. megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében, amennyiben a vizsgázó az 52 861 01 0100 31 01 azonosító számú, Büntetés-végrehajtási felügyelő II. megnevezésű részszakképesítéssel rendelkezik
-
-6. vizsgarész: 100%
-
-4. A szakmai vizsgarészek alóli felmentés feltételei
-
-–
-
-5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai
-
-–
-
-VI.
-
-ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Büntetés-végrehajtási felügyelő I. | Büntetés-végrehajtási felügyelő II. | Büntetés-végrehajtási főfelügyelő |
-
-| Hír- és biztonságtechnikai berendezések | X | X | X |
-
-| Rendszeresített kényszerítő eszközök | X | X | X |
-
-| Rendszeresített fegyverek | X | X | X |
-
-| Mozgást korlátozó eszközök | X | X | X |
-
-| Kommunikációs eszközök, berendezések | X | X | X |
-
-VII.
-
-EGYEBEK
-
-A szakmai kamara szakmai vizsgabizottságban betöltött feladatait a Büntetés-végrehajtási felügyelő I. OKJ 52 861 01 0000 00 00 szakképesítés tekintetében a Büntetés-végrehajtás Országos Parancsnoksága látja el.
-
-KÖZTERÜLETFELÜGYELŐ
-
-SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI[^3]
-
-I.
-
-ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1. A szakképesítés azonosító száma: 52 861 03 0000 00 00
-
-2. A szakképesítés megnevezése: Közterületfelügyelő
-
-3. Szakképesítések köre:
-
-| 3.1 | Részszakképesítés | Nincs |  |
-
-| 3.2 | Elágazások | Nincsenek |  |
-
-| 3.3 | Ráépülés | Nincs |  |
-
-4. Hozzárendelt FEOR szám: 5355
-
-5. Képzés maximális időtartama:
-
-| Szakképesítés megnevezése | Szakképzési évfolyamok száma | Óraszám |
-
-| Közterületfelügyelő | – | 360 |
-
-II.
-
-EGYÉB ADATOK
-
-SZAKKÉPESÍTÉS MEGNEVEZÉSE: Közterületfelügyelő
-
-1. A képzés megkezdésének szükséges feltételei:
-
-Bemeneti kompetenciák: A köztisztviselői kinevezéshez szükséges alkalmazási feltételek megléte
-
-Iskolai előképzettség: érettségi vizsga
-
-Szakmai előképzettség: –
-
-Előírt gyakorlat: –
-
-Elérhető kreditek mennyisége: –
-
-Pályaalkalmassági követelmények: nem szükségesek
-
-Szakmai alkalmassági követelmények: nem szükségesek
-
-2. Elmélet aránya: 40%
-
-3. Gyakorlat aránya: 60%
-
-4. Szakmai alapképzés (iskolai rendszerben): –
-
-Időtartama (évben vagy félévben): –
-
-5. Szintvizsga (iskolai rendszerben): nem szervezhető
-
-Ha szervezhető, mikor: –
-
-6. Egészségügyi alkalmassági vizsgálat: szükséges
-
-III.
-
-MUNKATERÜLET
-
-1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
-
-| A munkakör, foglalkozás |
-
-| FEOR száma | FEOR megnevezése |
-
-| 5355 | Közterületfelügyelő |
-
-2. A szakképesítés munkaterületének rövid, jellemző leírása:
-
-Hatósági intézkedést folytat
-
-Védi a közterületek rendjét
-
-Védi a közterületek tisztaságát
-
-Közreműködik a társadalmi bűnmegelőzési feladatok megvalósításában, valamint a közbiztonság védelmében
-
-Együttműködik a társhatóságokkal és társadalmi szervezetekkel
-
-Alkalmazza a tevékenységére vonatkozó jogszabályokat és tűzvédelmi, munkavédelmi, környezetvédelmi szabályokat, valamint a speciális szakmai, továbbá az etikai szabályokat
-
-Ellenőrzi a közterületek jogszerű, engedélyhez kötött használatát
-
-Biztosítja az önkormányzati közterületi rendezvényeket
-
-Közreműködik az állategészségügyi és ebrendészeti feladatok ellátásában
-
-Ellenőrzi az útkezelői hozzájáruláshoz kötött tevékenységeket
-
-Közreműködik az állami és önkormányzati vagyon védelmében
-
-3. A szakképesítéssel rokon szakképesítések:
-
-| A szakképesítéssel rokon szakképesítések |
-
-| azonosító száma | megnevezése |
-
-| – | – |
-
-IV.
-
-SZAKMAI KÖVETELMÉNYEK
-
-A szakmai követelménymodulok felsorolása:
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0766-06 A közterületfelügyelő feladatai
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Alkalmazza a tevékenységére vonatkozó jogszabályokat és tűzvédelmi, munkavédelmi, környezetvédelmi szabályokat, valamint a speciális szakmai, továbbá az etikai szabályokat
-
-Továbbképzéseken vesz részt és egyénileg képezi magát
-
-Előírás szerint öltözködik
-
-Rendeltetésszerűen használja a rendszeresített eszközöket
-
-Intézkedési kötelezettségének jogszerűen és szakszerűen eleget tesz
-
-Naponta jelentést ír végrehajtott intézkedéseiről
-
-Feladatai ellátásával összefüggésben jogsértés észlelésekor büntető-, szabálysértési és közigazgatási eljárást kezdeményez
-
-Megkeresésre felvilágosítást ad és felveszi panaszukat
-
-Megállapítja az intézkedés alá vont személy azonosságát
-
-Dokumentumokat készít (kép, hang, videó, rajz, jegyzőkönyv)
-
-Felhívja a figyelmet a szabálysértés megszüntetésére
-
-Helyszíni bírságot szab ki
-
-Közreműködik állategészségügyi és ebrendészeti feladatok ellátásában
-
-Visszatartja az elkobzandó dolgokat, átvételi elismervényt állít ki
-
-Feltartóztatja és szükség esetén előállítja a szabálysértés vagy bűncselekmény elkövetésekor tetten ért személyt
-
-Kerékbilincset alkalmaz
-
-Járművet feltartóztat
-
-A tevékenysége során felmerülő konfliktushelyzeteket megelőzi, illetve megoldja
-
-A feladat végrehajtása érdekében támadás esetén, a jogszabályban megengedett kényszerítő eszközt alkalmaz
-
-Járőrszolgálatot lát el
-
-Megfigyelést végez
-
-Feltárja a közterületi vagyontárgyak hibáit, hiányosságait
-
-Közreműködik a közrendvédelmi feladatok ellátásában
-
-Ellenőrzi a közlekedési szabályok betartását
-
-Ellenőrzi az üzemen kívül helyezett gépjárművek közterületi tárolóit
-
-Felügyeli a játszótereket és közterületi sportpályákat
-
-Méri a közterületek zajszintjét
-
-Ellenőrzi a köztemetők rendjét
-
-Ellenőrzi a közerkölcs szabályainak betartását
-
-Eljár a tiltott fürdőzőkkel szemben
-
-Betartatja a jégen tartózkodás szabályait
-
-Eljár a tiltott helyen táborozókkal szemben
-
-Fellép a veszélyes tárgyat elhelyezőkkel szemben
-
-Intézkedik a jogosulatlan kereskedőkkel szemben
-
-Eljár a közterületen szeszesitalt árusítókkal és fogyasztókkal szemben
-
-Ellenőrzi a közterületi hirdetmények és reklámok magyar nyelvű megjelenítését
-
-Ellenőrzi a közintézmények zászlókihelyezését
-
-Ellenőrzi az állattartási szabályok betartását
-
-Betartatja a környezetvédelmi előírásokat
-
-Ellenőrzi a közterületek tisztántartását végző szolgáltatókat
-
-Ellenőrzi a közterületek közutak tisztántartását
-
-Megakadályozza a falfirkálást
-
-Figyelemmel kíséri az építkezések környékét
-
-Eljár a köztisztasági szabályok megsértőivel szemben
-
-Elszállíttatja az illegálisan lerakott hulladékot
-
-Ellenőrzi a település közigazgatási területén az állami utak állapotát
-
-Ellenőrzi a közterületen lévő vízelvezetők, átereszek állapotát
-
-Megfigyeli az illegális szemétlerakó helyeket
-
-Segítséget nyújt a közrendvédelmi szerveknek
-
-Biztosítja a robbanásveszélyes területet a tűzszerészek megérkezéséig
-
-Ellenőrzi a pirotechnikai eszközök árusítását és használatát
-
-Részt vesz a baleset- és bűnmegelőzési program végrehajtásában
-
-Együttműködik a rendvédelmi szervekkel a térfigyelő rendszerek működtetésében
-
-Biztosítja a szavazóhelyiségeket választás során
-
-Aktív szerepet vállal a drogterjesztés visszaszorításában
-
-Közös szolgálatot teljesít a rendőrséggel
-
-Katasztrófa esetén együttműködik a tűz- és katasztrófavédelmi szervekkel
-
-Határterületeken együtt járőrözik a határőrséggel
-
-Együttműködik a vám- és pénzügyőrséggel a jövedéki törvény előírásainak betartatásában
-
-Szolgálatot teljesít a polgárőrökkel
-
-Eseti jelleggel együttműködik az APEH-hel, Fogyasztóvédelmi Főfelügyelőséggel és más fogyasztóvédelmi társadalmi szervezettel, ÁNTSZ-szel, erdészetekkel, nemzeti parkokkal, a polgármesteri hivatal osztályaival, mezei őrszolgálattal
-
-Együttműködik a bírói és ügyészi szervekkel
-
-Közreműködik az építéshatósági feladatok ellátásában
-
-Más szerv megkeresésében eljár és felvilágosítást ad
-
-Ellenőrzi a zöldfelületek rendeltetésszerű használatát
-
-Ellenőrzi a szemétszállítás rendjét
-
-Ellenőrzi a szeméttároló edények körüli tisztaságot
-
-Ellenőrzi a piaci és vásári szabályok betartását
-
-Ellenőrzi az erőszakosan koldulókat, szabálysértő hajléktalanokat
-
-Ellenőrzi a hirdetmények kihelyezését
-
-Ellenőrzi a lomtalanítás lebonyolítását
-
-Betartatja a tűzgyújtási előírásokat
-
-Ellenőrzi a hó- és síkosság-mentesítést
-
-Ellenőrzi a forgalomcsillapított övezetek rendjét
-
-Ellenőrzi a közterületen gyűjtögetőket, guberálókat
-
-Elszállíttatja az üzemképtelen járműveket
-
-Ellenőrzi az engedélyhez kötött tevékenységeket
-
-Ellenőrzi a mozgáskorlátozott-igazolványok használatát parkoláskor
-
-Eseti jelleggel a helyszínen közterület-használati engedélyt ad ki
-
-Lezárja a közterületi helyszínt
-
-Közreműködik a rendezvény lebonyolításában
-
-Őrzi a rendezvény helyszínét
-
-Figyel a személy- és vagyonbiztonságra
-
-Rendkívüli helyzetben segítséget nyújt a rendezvény résztvevőinek
-
-Megakadályozza az állatkínzást
-
-Bejelenti a gyepmesternek az elhullott állatokat
-
-Ellenőrzi az útfelbontásokat és a megbontott útfelületek helyreállítását
-
-Közreműködik az útkezelővel a forgalmi rend kialakításában
-
-Informálja az útkezelőt az útburkolatok és környezetük, valamint a forgalmi rend és a megváltozott közúti jelzések állapotáról
-
-Védi az épített és természeti környezetet
-
-Őrzi az önkormányzati vagyont őrszolgálat során
-
-Térfigyelő rendszert működtet
-
-Járművet elszállít
-
-Tulajdonságprofil:
-
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-B A helyi önkormányzatokra vonatkozó rendelkezések
-
-B Alapvető állampolgári jogok és kötelességek
-
-C Büntetőjogi és büntetőeljárás-jogi alapfogalmak, alapelvek
-
-C A büntetőeljárás alanyainak jogai és kötelességei
-
-C A közterület rendjét befolyásoló egyes bűncselekmények
-
-C A hivatali és a hivatalos személy elleni bűncselekmények
-
-B Az eljárás megindításának szabályai
-
-C Szabálysértési alapismeretek, alapfogalmak, alapelvek
-
-C A közterület rendjét befolyásoló egyes szabálysértések
-
-C A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
-
-B A közterületfelügyelőre vonatkozó előírások
-
-C A tulajdon- és a birtokvédelemmel kapcsolatos alapfogalmak
-
-B A vagyonvédelem jogi alapjai, eszközei
-
-C A környezetvédelem jogszabályi alapjai és feladatai
-
-B A köztisztviselői jogállás
-
-B Szolgálatszervezési szabályok
-
-B A felvilágosítás szabályai
-
-B Az intézkedés általános és az egyes ügyekre vonatkozó szabályai
-
-C Ügyfélszolgálati feladatok szabályai
-
-B Az adatkezelés szabályai
-
-B Az öltözködéssel, felszereléssel kapcsolatos szabályok
-
-B A kapcsolattartás és együttműködés szabályai
-
-B A közterületfelügyelő írásos munkájának szabályai
-
-C A rendszeresített szolgálati eszközök alkalmazásának szabályai
-
-B Munkavédelmi szabályok
-
-[^3]: A 2. számú melléklet Közterületfelügyelő szakképesítés szakmai és vizsgakövetelményeire vonatkozó előírás a 4/2010. (II. 23.) IRM rendelet 20. §-a szerint módosított szöveg.
+[^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése szerint módosított szöveg.
