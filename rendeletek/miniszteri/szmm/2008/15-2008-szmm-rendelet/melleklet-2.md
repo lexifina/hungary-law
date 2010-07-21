@@ -840,7 +840,7 @@
 
 |  |  | 31 | 853 | 03 | 0100 | 31 | 01 | Részszakképesítés: Fürdőüzemi gépkezelő |  |
 
-| 139. | 284. | 54 | 343 | 03 | 0000 | 00 | 00 | Közbeszerzési referens | Közgazdaság szakmacsoport |
+| 139. |  |  |  |  |  |  |  |  |  |
 
 | 140. | 287. | 54 | 345 | 03 | 0000 | 00 | 00 | Munkaerőpiaci szervező, elemző | Közgazdaság szakmacsoport |
 
@@ -3948,4 +3948,4 @@ Személyes kompetenciák:
 
 Szervezőkészség
 
-[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a szerint módosított szöveg.
