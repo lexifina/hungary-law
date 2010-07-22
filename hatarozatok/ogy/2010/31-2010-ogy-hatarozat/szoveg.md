@@ -6,8 +6,10 @@ Alelnök: Dr. Baja Ferenc (MSZP)
 
 Tagjai: Pálffy István (KDNP)
 
-Novák Előd (Jobbik)
+Pörzse Sándor (Jobbik)[^2]
 
 Karácsony Gergely (LMP)
 
 2. E határozat elfogadásakor lép hatályba.
+
+[^2]: A 64/2010. (VII. 27.) OGY határozat 1. pontjával megállapított szöveg.
