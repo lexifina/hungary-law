@@ -4,7 +4,7 @@
 
 a) a Tanács 1991. július 15-i 91/414/EGK irányelve a növényvédő szerek forgalomba hozataláról, valamint az ennek módosításáról szóló,
 
-1.[^136] a Tanács 1997/57/EK, 2004/66/EK és 2005/25/EK, valamint a Bizottság 1993/71/EGK, 1994/37/EK, 1994/79/EK, 1995/35/EK, 1995/36/EK, 1996/12/EK, 1996/46/EK, 1996/68/EK, 2000/80/EK, 2001/21/EK, 2001/28/EK, 2001/36/EK, 2001/47/EK, 2001/49/EK, 2001/87/EK, 2001/99/EK, 2001/103/EK, 2002/18/EK, 2002/37/EK, 2002/48/EK, 2002/64/EK, 2002/81/EK, 2003/5/EK, 2003/23/EK, 2003/31/EK, 2003/39/EK, 2003/68/EK, 2003/70/EK, 2003/79/EK, 2003/81/EK, 2003/82/EK, 2003/84/EK, 2003/112/EK, 2003/119/EK, 2004/20/EK, 2004/30/EK, 2004/58/EK, 2004/97/EK irányelvvel módosított 2004/60/EK, 2004/62/EK, 2004/63/EK, 2004/64/EK, 2004/65/EK, 2004/71/EK, 2004/99/EK, 2005/2/EK, 2005/3/EK, 2005/34/EK, 2005/53/EK, 2005/54/EK, 2005/57/EK, 2005/58/EK, 2005/72/EK, 2006/5/EK, 2006/6/EK, 2006/10/EK, 2006/16/EK, 2006/19/EK, 2006/39/EK, 2006/45/EK, 2006/76/EK, 2006/41/EK, 2006/64/EK, 2006/74/EK, 2006/75/EK, 2006/85/EK, 2006/131/EK, 2006/132/EK, 2006/133/EK, 2006/134/EK, 2006/135/EK, 2006/136/EK, 2007/5/EK, 2007/6/EK, 2007/21/EK, 2007/25/EK, 2007/31/EK, 2007/50/EK, 2007/52/EK, 2007/76/EK, 2008/40/EK, 2008/41/EK, 2008/44/EK, 2008/45/EK, 2008/66/EK, 2008/69/EK, 2008/70/EK, 2008/91/EK, 2008/107/EK, 2008/108/EK, 2008/113/EK, 2008/116/EK, 2008/125/EK, 2008/127/EK, 2009/11/EK, 2009/25/EK, 2009/37/EK, 2009/51/EK, 2009/70/EK, 2009/77/EK, 2009/82/EK, 2009/115/EK, 2009/116/EK, 2009/117/EK, 2009/146/EK, 2009/152/EK, 2009/153/EK és 2009/155/EK irányelvei.
+1.[^136] a Tanács 1997/57/EK, 2004/66/EK és 2005/25/EK, valamint a Bizottság 1993/71/EGK, 1994/37/EK, 1994/79/EK, 1995/35/EK, 1995/36/EK, 1996/12/EK, 1996/46/EK, 1996/68/EK, 2000/80/EK, 2001/21/EK, 2001/28/EK, 2001/36/EK, 2001/47/EK, 2001/49/EK, 2001/87/EK, 2001/99/EK, 2001/103/EK, 2002/18/EK, 2002/37/EK, 2002/48/EK, 2002/64/EK, 2002/81/EK, 2003/5/EK, 2003/23/EK, 2003/31/EK, 2003/39/EK, 2003/68/EK, 2003/70/EK, 2003/79/EK, 2003/81/EK, 2003/82/EK, 2003/84/EK, 2003/112/EK, 2003/119/EK, 2004/20/EK, 2004/30/EK, 2004/58/EK, 2004/97/EK irányelvvel módosított 2004/60/EK, 2004/62/EK, 2004/63/EK, 2004/64/EK, 2004/65/EK, 2004/71/EK, 2004/99/EK, 2005/2/EK, 2005/3/EK, 2005/34/EK, 2005/53/EK, 2005/54/EK, 2005/57/EK, 2005/58/EK, 2005/72/EK, 2006/5/EK, 2006/6/EK, 2006/10/EK, 2006/16/EK, 2006/19/EK, 2006/39/EK, 2006/45/EK, 2006/76/EK, 2006/41/EK, 2006/64/EK, 2006/74/EK, 2006/75/EK, 2006/85/EK, 2006/131/EK, 2006/132/EK, 2006/133/EK, 2006/134/EK, 2006/135/EK, 2006/136/EK, 2007/5/EK, 2007/6/EK, 2007/21/EK, 2007/25/EK, 2007/31/EK, 2007/50/EK, 2007/52/EK, 2007/76/EK, 2008/40/EK, 2008/41/EK, 2008/44/EK, 2008/45/EK, 2008/66/EK, 2008/69/EK, 2008/70/EK, 2008/91/EK, 2008/107/EK, 2008/108/EK, 2008/113/EK, 2008/116/EK, 2008/125/EK, 2008/127/EK, 2009/11/EK, 2009/25/EK, 2009/37/EK, 2009/51/EK, 2009/70/EK, 2009/77/EK, 2009/82/EK, 2009/115/EK, 2009/116/EK, 2009/117/EK, 2009/146/EK, 2009/152/EK, 2009/153/EK, 2009/154/EK, 2009/155/EK, 2009/160/EU, 2010/2/EU 2010/14/EU, 2010/15/EU, 2010/17/EU, 2010/20/EU és 2010/34/EU irányelvei.
 
 2. az Európai Parlament és a Tanács 396/2005/EK rendelete;
 
@@ -16,7 +16,7 @@ b) a Tanács 1978. december 21-i 79/117/EGK irányelve a meghatározott hatóany
 
 c) a Bizottság 2002. július 11-i 2002/63/EK irányelve a növényi és állati eredetű termékekben és azok felületén található növényvédőszer-maradékok hatósági ellenőrzésére szolgáló közösségi mintavételi módszerek megállapításáról és a 79/700/EGK irányelv hatályon kívül helyezéséről.
 
-(2)[^137] Ez a rendelet a következő közösségi határozatoknak való megfelelést szolgálja:
+(2)[^137] Ez a Rendelet a következő közösségi határozatoknak való megfelelést szolgálja:
 
 1. a Bizottság 2004/248/EK határozata (2004. március 10.) az atrazinnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő fel nem vételéről, valamint az e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról, valamint az ennek módosításáról szóló a Bizottság 2004. április 28-i 835/2004/EK rendelete,
 
@@ -24,7 +24,7 @@ c) a Bizottság 2002. július 11-i 2002/63/EK irányelve a növényi és állati
 
 3. a Bizottság 2005/487/EK határozata (2005. július 4.) a triazamatnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az ezt a hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról,
 
-4. a Bizottság 2005/864/EK határozata (2005. december 2.) az endoszulfánnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról,
+4. a Bizottság 2005/864/EK határozata (2005. december 2.) az endoszulfánnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és a,z e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról,
 
 5. a Bizottság 2006/797/EK határozata (2006. november 22.) az ammónium-szulfamátnak, a hexakonazolnak, a nátrium-tetratiokarbonátnak és a 8-hidroxikinolinnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az e hatóanyagokat tartalmazó növényvédő szerek engedélyének visszavonásáról,
 
@@ -104,7 +104,11 @@ c) a Bizottság 2002. július 11-i 2002/63/EK irányelve a növényi és állati
 
 43. a Bizottság 2009/859/EK határozata (2009. november 30.) a difenil-aminnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról,
 
-44. a Bizottság 2009/860/EK határozata (2009. november 30.) a triazoxidnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról.
+44. a Bizottság 2009/860/EK határozata (2009. november 30.) a triazoxidnak a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról,
+
+45. a Bizottság 2009/874/EK határozata (2009. november 30.) a 91/414/EGK tanácsi irányelvnek az imazamox, oxaszulfuron, etoxiszulfuron, foramszulfuron, oxadiargil és ciazofamid hatóanyagként való felvétele tekintetében történő módosításáról szóló 2003/23/EK irányelv helyesbítéséről,
+
+46. a Bizottság 2009/887/EK határozata (2009. november 30.) a bifentrinnek a 91/414/EGK tanácsi irányelv I. mellékletébe történő felvétele megtagadásáról és az e hatóanyagot tartalmazó növényvédő szerek engedélyének visszavonásáról.
 
 (3)[^138] Ez a rendelet a következő közösségi rendeletnek való megfelelést szolgálja:
 
@@ -112,6 +116,6 @@ A Bizottság 647/2007/EK rendelete (2007. június 12.) a 91/414/EGK tanácsi ir�
 
 [^134]: A 44. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 224. pontja hatályon kívül helyezte.
 [^135]: A 45. § a 96/2005. (X. 27.) FVM rendelet 8. §-ával megállapított szöveg. A 45. § eredeti szövegének jelölését a 74/2006. (X. 19.) FVM rendelet 1. § (2) bekezdése (1) bekezdésre változtatta.
-[^136]: A 45. § (1) bekezdés a) pont 1. alpontja a 73/2010. (V. 13.) FVM rendelet 15. §-ával megállapított szöveg.
-[^137]: A 45. § (2) bekezdését a 74/2006. (X. 19.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 45. § (2) bekezdése a 12/2010. (II. 9.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^136]: A 45. § (1) bekezdés a) pont 1. alpontja az 5/2010. (VII. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^137]: A 45. § (2) bekezdését a 74/2006. (X. 19.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 45. § (2) bekezdése az 5/2010. (VII. 7.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^138]: A 45. § (3) bekezdését a 89/2008. (VII. 18.) FVM rendelet 1. § (3) bekezdése iktatta be.
