@@ -6,8 +6,10 @@ Fráterné dr. Ferenczy Nórát,
 
 dr. Juhász Imrét,
 
-dr. Kaltenbach Jenőt és
+dr. Kozma Ákost[^2] és
 
 dr. Kádár András Kristófot
 
 a Független Rendészeti Panasztestület tagjává megválasztja.
+
+[^2]: A 63/2010. (VII. 27.) OGY határozat 1. pontjával megállapított szöveg.
