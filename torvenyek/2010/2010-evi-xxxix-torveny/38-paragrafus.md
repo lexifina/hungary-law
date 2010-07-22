@@ -30,6 +30,4 @@ kezeli.
 
 (16) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben állapítsa meg – az adópolitikáért felelős miniszter egyetértésével – az esélyegyenlőségi szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.”
 
-(3) A Magyar Köztársaság 2010. évi költségvetését megalapozó egyes törvények módosításáról szóló 2009. évi CIX. törvény 50. § (8) bekezdés a) pontjában a „2010. május 1-től” szövegrész helyébe a „2010. július 1-től” szövegrész lép.
-
-(4) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebktv.) 63/A. § (9) bekezdésében meghatározott névjegyzékbe 2010. június 30-ig az Ebktv. 63/A. § (11) bekezdésében meghatározott követelményekre való tekintet nélkül fel kell venni azt a személyt, aki részt vett a közoktatási esélyegyenlőségi szakértői képzésen és a közoktatásról szóló 1993. évi LXXIX. törvény 105. §-a által előírt intézkedési tervek elkészítésében mint kirendelt szakértő részt vett.
+(3)–(4)
