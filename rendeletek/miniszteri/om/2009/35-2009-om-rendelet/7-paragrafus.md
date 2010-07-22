@@ -18,7 +18,7 @@ g) közreműködik a szavazóköri jegyzőkönyv, a szavazás közben történt 
 
 h) közreműködik a szavazóurnáknak, a szavazóköri jegyzőkönyveknek, valamint az egyéb választási iratoknak a HVI hivatali helyiségébe történő szállításában.
 
-(2)[^1] A kijelölt szavazókör SZSZB-je mellett működő jegyzőkönyvvezető az (1) bekezdésben foglalt feladatokon túl, az SZSZB döntése alapján
+(2)[^2] A kijelölt szavazókör SZSZB-je mellett működő jegyzőkönyvvezető az (1) bekezdésben foglalt feladatokon túl, az SZSZB döntése alapján
 
 a) a választópolgár nevénél lévő körbe tett megjelöléssel gondoskodik az igazolás alapján névjegyzékbe vett választópolgár névjegyzékbe vételének dokumentálásáról,
 
@@ -44,4 +44,4 @@ d) fogadja a szavazóköri jegyzőkönyveket, azokat jogi és számszaki szempon
 
 e) fogadja a szavazóurnákat és a kijelölt szavazókörből az F jegyzéket, azt ellenőrzi, és elvégzi az adatbeviteli teendőket.
 
-[^1]: A 7. § (2) bekezdése a 10/2010. (IV. 16.) ÖM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 7. § (2) bekezdése a 10/2010. (IV. 16.) ÖM rendelet 1. §-ával megállapított szöveg.

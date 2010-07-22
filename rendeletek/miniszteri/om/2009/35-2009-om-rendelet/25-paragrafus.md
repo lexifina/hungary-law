@@ -4,7 +4,7 @@
 
 (2) E rendelet hatálybalépésével egyidejűleg hatályát veszti a választási eljárásról szóló 1997. évi C. törvénynek az országgyűlési képviselők választásán történő végrehajtásáról szóló 60/2005. (XII. 21.) BM rendelet.
 
-Melléklet a 35/2009. (XII. 30.) ÖM rendelethez[^2]
+Melléklet a 35/2009. (XII. 30.) ÖM rendelethez[^6]
 
 Az országgyűlési képviselők választásán használandó nyomtatványok
 
@@ -109,6 +109,8 @@ Az országgyűlési képviselők választásán használandó nyomtatványok
 | 48. | I. jegyzőkönyv a területi választókerületi szavazatösszesítésről |  | X | X |  |
 
 | 49. | II. jegyzőkönyv a területi választókerület választási eredményéről |  | X | X |  |
+
+| 50. | Jegyzék a névjegyzékből igazolás kiadása miatt törölt választópolgárokról (T) |  | X | X |  |
 
 Melléklet 1/a. minta
 
@@ -776,4 +778,4 @@ Melléklet 13. minta
 
 | A listát állító jelölő szervezet(ek) hivatalos neve: | (közös lista esetén a jelölő szervezetek neve az alábbi sorrendben lesz feltüntetve a szavazólapon) |
 
-[^2]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a szerint módosított szöveg.
+[^6]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a szerint módosított szöveg.

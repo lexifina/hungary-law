@@ -10,21 +10,21 @@ b) a jelölő szervezet jelképét, illetőleg jelvényét ellátja a szervezet 
 
 c) átveszi a jelöltek fényképét tartalmazó fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
 
-d) az ajánlószelvényeket – az országgyűlési egyéni választókerületi választási bizottság (a továbbiakban: OEVB) döntésének előkészítése érdekében – a személyiadat- és lakcímnyilvántartás és a választójoggal nem rendelkező nagykorú polgárok nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
+d)[^3] az ajánlószelvényeket – az országgyűlési egyéni választókerületi választási bizottság (a továbbiakban: OEVB) döntésének előkészítése érdekében – a személyiadat- és lakcímnyilvántartás és a választójoggal nem rendelkező nagykorú polgárok nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
-ca) az ajánlószelvény eredeti-e,
+da) az ajánlószelvény eredeti-e,
 
-cb) az ajánlószelvény teljes körűen ki van-e töltve,
+db) az ajánlószelvény teljes körűen ki van-e töltve,
 
-cd) létezik-e választópolgár az adott személyi azonosítóval,
+dc) létezik-e választópolgár az adott személyi azonosítóval,
 
-ce) egyeznek-e a választópolgár személyiadat- és lakcímnyilvántartásbeli adatai az ajánlószelvény adataival,
+dd) egyeznek-e a választópolgár személyiadat- és lakcímnyilvántartásbeli adatai az ajánlószelvény adataival,
 
-cf) a választópolgár lakóhelye abban az országgyűlési egyéni választókerületben van-e, ahol jelöltet ajánlott,
+de) a választópolgár lakóhelye abban az országgyűlési egyéni választókerületben van-e, ahol jelöltet ajánlott,
 
-cg) a polgár választójogosult-e,
+df) a polgár választójogosult-e,
 
-ch) a választópolgár nem ajánlott-e két vagy több jelöltet is, illetőleg egy jelöltet többször.
+dg) a választópolgár nem ajánlott-e két vagy több jelöltet is, illetőleg egy jelöltet többször,
 
 e) a többszörös ajánlások kiszűrése érdekében valamennyi benyújtott ajánlószelvény ellenőrzését elvégzi; ha a többszörös ajánlás miatt a már előzőleg nyilvántartásba vett jelölt érvényesnek tekinthető ajánlásainak száma 750 alá csökken, erről értesíti az OEVB-t,
 
@@ -47,3 +47,5 @@ m) tájékoztatja a HVI-ket a szavazólap elkészülte után bekövetkező vált
 n) ellátja az adatfeldolgozási feladatokat,
 
 o) a választás második fordulójában segítséget nyújt az OEVB részére a választópolgárok tájékoztatásához a választás második fordulójáról.
+
+[^3]: A 13. § d) pontja a 6/2010. (VII. 21.) KIM rendelet 1. §-ával megállapított szöveg.

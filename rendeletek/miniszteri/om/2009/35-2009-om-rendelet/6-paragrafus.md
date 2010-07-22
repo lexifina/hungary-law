@@ -84,4 +84,6 @@ x) a kinyomtatott névjegyzéket az utolsó oldalon aláírásával és lebélye
 
 y) gondoskodik a megfelelő szavazóhelyiség és a szavazáshoz szükséges egyéb technikai feltételek biztosításáról, a szavazólapok és az egyéb választási iratok őrzéséről.
 
-(3) A HVI vezetője az értesítők és ajánlószelvények borítékolásával megbízhat másik HVI-t, a regionális államigazgatási hivatalt, illetőleg annak kirendeltségét (a továbbiakban: regionális államigazgatási hivatal) vagy a KEKKH-t.
+(3)[^1] A HVI vezetője az értesítők és ajánlószelvények borítékolásával megbízhat másik HVI-t, Kormány általános hatáskörű államigazgatási szervét vagy a KEKKH-t.
+
+[^1]: A 6. § (3) bekezdése a 6/2010. (VII. 21.) KIM rendelet 6. §-a szerint módosított szöveg.
