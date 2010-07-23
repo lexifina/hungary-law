@@ -1,0 +1,3 @@
+## 14. §[^2] A munkáltatóval szemben a jelenléti ív vezetésével kapcsolatos szabályok megsértése miatt 2010. június 30-a után jogkövetkezmény nem alkalmazható, ha jelenléti ív vezetési kötelezettségét – a 8–12. §-ban foglaltaktól eltérően – az Eftv. 2. mellékletében foglaltak szerinti tartalmú, szigorú számadású nyomtatványnak nem minősülő okiraton teljesíti.
+
+[^2]: A 14. §-t a 17. § (1) bekezdése hatályon kívül helyezte, újonnan a 218/2010. (VII. 23.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 2. § (2) bekezdése alapján a rendelkezést a jogerősen le nem zárt ügyekben is alkalmazni kell.

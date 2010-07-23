@@ -1,4 +1,4 @@
-## 17. §[^2]
+## 17. §[^4]
 
 1. melléklet a 88/2010. (III. 26.) Korm. rendelethez
 
@@ -54,4 +54,4 @@ A növénytermesztési idénymunkára vonatkozó szabályozás hatálya alá tar
 
 | 6. | Vetőmag termesztés: | 1000 óra/hektár |
 
-[^2]: A 17. § a (2) bekezdés alapján hatályát vesztette.
+[^4]: A 17. § a (2) bekezdés alapján hatályát vesztette.
