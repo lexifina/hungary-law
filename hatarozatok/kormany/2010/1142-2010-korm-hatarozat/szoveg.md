@@ -6,13 +6,13 @@ Határidő: azonnal
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-Melléklet az 1142/2010. (VII. 5.) Korm. határozathoz
+Melléklet az 1142/2010. (VII. 5.) Korm. határozathoz[^1]
 
-X. Miniszterelnökség
+| X. Közigazgatási és Igazságügyi Minisztérium |
 
-XXVI. Szociális és Munkaügyi Minisztérium
+| XX. Nemzeti Erőforrás Minisztérium |
 
-Fejezet száma, megnevezése
+| Fejezet száma és megnevezése |
 
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA*
 
@@ -20,17 +20,23 @@ a Kormány hatáskörében
 
 Költségvetési év: 2010.
 
-| Ezer forintban, egy tizedessel |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | KIADÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-|  | XXVI. |  |  |  |  |  |  | Szociális és Munkaügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 16 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 16 |  |  |  |  |  |  | Tartalékok |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  | 55 |  |  |  |  |  |  | Társadalmi szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |
+| 001414 |  |  | 1 |  |  |  |  |  |  | Költségvetés általános tartaléka |  |  |  |  |  |  |  |  | –66,0 |  |  |
+
+|  | XX. |  |  |  |  |  |  | Nemzeti Erőforrás Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 30 |  |  |  |  |  |  | Társadalmi szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
 | 000330 |  |  |  | 1 |  |  |  |  |  |  | Értelmi Fogyatékossággal Élők és Segítőik Országos Szövetségének támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -50,29 +56,23 @@ Költségvetési év: 2010.
 
 |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 22,0 |  |  |
 
-|  | X. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  |  | Tartalékok |  |  |  |  |  |  |  |  |  |  |  |
-
-| 001414 |  |  | 1 |  |  |  |  |  |  | Költségvetés általános tartaléka |  |  |  |  |  |  |  |  | –66,0 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | BEVÉTELEK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | TÁMOGATÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-|  | XXVI. |  |  |  |  |  |  | Szociális és Munkaügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
+|  | XX. |  |  |  |  |  |  | Nemzeti Erőforrás Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 16 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  | 55 |  |  |  |  |  |  | Társadalmi szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 30 |  |  |  |  |  |  | Társadalmi szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
 | 000330 |  |  |  | 1 |  |  |  |  |  |  | Értelmi Fogyatékossággal Élők és Segítőik Országos Szövetségének támogatása |  |  |  |  |  |  |  |  | 22,0 |  |  |
 
@@ -80,22 +80,24 @@ Költségvetési év: 2010.
 
 | 000363 |  |  |  | 4 |  |  |  |  |  |  | Magyar Vakok és Gyengénlátók Országos Szövetsége támogatása |  |  |  |  |  |  |  |  | 22,0 |  |  |
 
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) — időszakra |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) — időszakra |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
-| Az adatlap 5 példányban töltendő ki | Az előirányzatok felhasználása/zárolása (módosítása +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
+| Az adatlap 5 példányban töltendő ki | Az előirányzatok felhasználása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 
-| Fejezet | 1 példány |  |  |  |  |  |  |
+| Fejezet | 1 példány |  | időarányos |  |  |  |  |  |
 
-| Állami Számvevőszék | 1 példány | időarányos |  |  |  |  |  |
+| Állami Számvevőszék | 1 példány |  | teljesítményarányos |  |  |  |  |  |
 
-| Magyar Államkincstár | 1 példány | teljesítményarányos |  |  |  |  |  |
+| Magyar Államkincstár | 1 példány |  | egyéb: azonnal | 66,0 |  |  | 66,0 |  |
 
-| Pénzügyminisztérium | 2 példány | egyéb: azonnal | 66,0 |  | 66,0 |  |  |
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
-* Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+* Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^1]: A melléklet a 1155/2010. (VII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
