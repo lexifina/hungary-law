@@ -4,7 +4,7 @@
 
 a) nem teljes mértékben beszállított bormennyiség után,
 
-b) olyan bortétel után, amelyet a lepárlóüzem a 3. § (3) bekezdésének e) pontjában meghatározott határidőt követően párolt le, vagy
+b)[^4] olyan bortétel után, amelyet a lepárlóüzem a 3. § (3) bekezdésének e) pontjában vagy (4) bekezdésében meghatározott határidőt követően párolt le, vagy
 
 c) amennyiben az MVH vagy a borászati hatóság ellenőrzése során megállapítja, hogy a támogatási kérelemben megjelölt, illetve bármely beszállított bortétel nem tételazonos.
 
@@ -15,3 +15,5 @@ c) amennyiben az MVH vagy a borászati hatóság ellenőrzése során megállap�
 (4) Azon kérelmező esetében, aki a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készlet-jelentési kötelezettségét a határidő lejárta után, de legfeljebb 10 munkanapon belül pótolja, a megítélhető támogatás összegét az MVH PKI késedelmes munkanaponként a megítélhető támogatási összeg 1/11-ed részével csökkenti. A csökkentés alapját az az összeg képezi, amelyre a kérelmező a határidőig benyújtott jelentés esetén lett volna jogosult.
 
 (5) Azon kérelmező, aki az 5. §-ban foglalt beszállítási kötelezettségének legalább 90%-os mértékben nem tesz eleget, 2011. június 30-ig nem kérelmezhet a tanácsi rendelet 103o–103u., valamint 103w–103y. cikkei alapján folyósított támogatást.
+
+[^4]: A 8. § (1) bekezdés b) pontja a 6/2010. (VII. 22.) VM rendelet 3. §-ával megállapított szöveg.

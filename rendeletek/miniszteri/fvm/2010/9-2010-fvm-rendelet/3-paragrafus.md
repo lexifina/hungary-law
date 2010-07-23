@@ -29,3 +29,7 @@ gc) a beszállítás ütemezését azzal, hogy az 500 hl-t meghaladó bortétele
 h) a szállítandó bor mennyiségét, amely nem haladhatja meg a 15 000 hl-t,
 
 i) az 5. § szerint beszállított, de az e) pontban meghatározott határidőt követően lepárolt bortételre eső támogatásnak megfelelő összeget a lepárlóüzem a kérelmező részére kifizeti.
+
+(4)[^1] A (3) bekezdésben meghatározottakon túlmenően támogatás nyújtható olyan szerződés alapján is, amelyre vonatkozóan az MVH határozatában megjelölt bormennyiséget a kérelmező legkésőbb 2010. július 25-ig beszállította a lepárlóüzembe. A lepárlóüzemnek a beszállított bort legkésőbb 2010. július 31-ig kell lepárolnia.
+
+[^1]: A 3. § (4) bekezdését a 6/2010. (VII. 22.) VM rendelet 1. §-a iktatta be.
