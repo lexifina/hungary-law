@@ -1,0 +1,27 @@
+# A miniszterelnök 63/2010. (VII. 23.) ME határozata
+
+Magyar Közlöny 2010. évi 123. szám, 2010. július 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/169910d0d0dbafea7ed9f70e285e2d18679663e9/dokumentumok/519e22f0d902683eebac787a11ba988294c02bd6/letoltes)
+
+---
+
+A miniszterelnök 63/2010. (VII. 23.) ME határozata
+a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a közös államhatárt
+keresztező szénhidrogén szállító vezetékek építésével, üzemeltetésével, fenntartásával,
+rekonstrukciójával és üzemzavar-elhárításával kapcsolatos együttműködésről szóló Megállapodás
+végleges szövegének megállapítására adott felhatalmazásról
+A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény 5. § (2) bekezdése szerinti hatáskörömben eljárva,
+a nemzeti fejlesztési miniszter, valamint a külügyminiszter előterjesztése alapján
+1. felhatalmazom a nemzeti fejlesztési minisztert, vagy az általa kijelölt személyt a Magyar Köztársaság Kormánya
+és a Horvát Köztársaság Kormánya között a közös államhatárt keresztező szénhidrogén szállító vezetékek építésével,
+üzemeltetésével, fenntartásával, rekonstrukciójával és üzemzavar-elhárításával kapcsolatos együttműködésről szóló
+Megállapodás (a továbbiakban: Megállapodás) bemutatott szövegének – a megerősítés fenntartásával történő –
+végleges megállapítására;
+* A határozatot az Országgyűlés a 2010. július 22-i ülésnapján fogadta el.
+
+2. felhívom a külügyminisztert, hogy a Megállapodás szövege végleges megállapításához szükséges meghatalmazási
+okiratot adja ki;
+3. felhívom a nemzeti fejlesztési minisztert, a közigazgatási és igazságügyi minisztert, valamint a külügyminisztert, hogy
+a Megállapodás kihirdetéséről szóló törvény tervezetét a Megállapodás végleges szövegének megállapítását
+követően haladéktalanul terjessze a Kormány elé.
+Dr. Navracsics Tibor s. k.,
+miniszterelnök-helyettes
