@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1978-4-00-00
 | 2010-04-10 | 2010. évi XXXVI. törvény | 1978-4-00-00.81 |
 | 2010-05-01 | 2009. évi LXXX. törvény | 1978-4-00-00.82 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 1978-4-00-00.83 |
+| 2010-07-23 | 2010. évi LVI. törvény | 1978-4-00-00.84 |

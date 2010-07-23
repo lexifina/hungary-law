@@ -14,4 +14,4 @@
 
 (7) Nem büntethető a (4) bekezdés alapján a csoport résztvevője, ha a csoportot önként vagy a hatóság felhívására elhagyja.
 
-(8) Aki a (2)–(4) bekezdés szerinti bűncselekményt külön törvényben meghatározott intézkedést végrehajtó rendőr vagy pénzügyőr sérelmére követi el, a (2) bekezdés esetén két évtől nyolc évig, a (3) bekezdés esetén öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
+(8) Aki az (1)–(3) bekezdés szerinti bűncselekményt külön törvényben meghatározott intézkedést végrehajtó rendőr vagy pénzügyőr sérelmére követi el, az (1) bekezdés esetén egy évtől öt évig, a (2) bekezdés esetén két évtől nyolc évig, a (3) bekezdés esetén öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.

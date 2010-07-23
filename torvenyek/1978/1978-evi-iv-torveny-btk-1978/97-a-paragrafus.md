@@ -1,13 +1,5 @@
-97/A. § Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó személy elleni erőszakos bűncselekmény elkövetése esetén a büntetési tétel alsó határa
+97/A. § (1) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladja, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.
 
-a) egy évnél rövidebb tartamú szabadságvesztés esetén egy évi szabadságvesztésre,
+(2) Az erőszakos többszörös visszaesővel szemben a 38. § (3) bekezdése alkalmazásának nincs helye.
 
-b) egy évi szabadságvesztés esetén két évi szabadságvesztésre,
-
-c) két évi szabadságvesztés esetén három évi szabadságvesztésre,
-
-d) öt évi szabadságvesztés esetén hét évi szabadságvesztésre,
-
-e) tíz évi szabadságvesztés esetén tizenkét évi szabadságvesztésre
-
-emelkedik.
+(3) Az erőszakos többszörös visszaesővel szemben a büntetés enyhítésének nincs helye.
