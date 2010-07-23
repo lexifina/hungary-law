@@ -54,9 +54,13 @@
 
 ## Határidő: 2010. augusztus 31.
 
-1. melléklet az 1145/2010. (VII. 7.) Korm. határozathoz
+1. melléklet az 1145/2010. (VII. 7.) Korm. határozathoz[^1]
 
-XV. Nemzetgazdasági Minisztérium
+| X. Közigazgatási és Igazságügyi Minisztérium |
+
+| XV. Nemzetgazdasági Minisztérium |
+
+| Fejezet száma és megnevezése |
 
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA*
 
@@ -64,11 +68,17 @@ a Kormány hatáskörében
 
 Költségvetési év: 2010.
 
-|  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | KIADÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 16 |  |  |  |  |  |  | Tartalékok |  |  |  |  |  |  |  |  |  |  |  |
+
+| 001414 |  |  | 1 |  |  |  |  |  |  | Költségvetés általános tartaléka |  |  |  |  |  |  |  |  | –95,0 |  |  |
 
 |  | XV. |  |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -81,12 +91,6 @@ Költségvetési év: 2010.
 |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú támogatások, kiadások |  |  |  |  |  |  |  |  | 95,0 |  |  |
-
-|  | X. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  |  | Tartalékok |  |  |  |  |  |  |  |  |  |  |  |
-
-| 001414 |  |  | 1 |  |  |  |  |  |  | Költségvetés általános tartaléka |  |  |  |  |  |  |  |  | –95,0 |  |  |
 
 | Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
@@ -112,14 +116,20 @@ Költségvetési év: 2010.
 
 |  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+
 | Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 
-| Fejezet | 1 példány |  |  |  |  |  |  |
+| Fejezet | 1 példány |  | időarányos |  |  |  |  |  |
 
-| Állami Számvevőszék | 1 példány | időarányos |  |  |  |  |  |
+| Állami Számvevőszék | 1 példány |  | teljesítményarányos | 95,0 |  |  | 95,0 |  |
 
-| Magyar Államkincstár | 1 példány | teljesítményarányos | 95,0 |  |  |  |  |
+| Magyar Államkincstár | 1 példány |  | egyéb: azonnal |  |  |  |  |  |
 
-| Pénzügyminisztérium | 2 példány | egyéb: azonnal |  |  |  |  |  |
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^1]: Az 1. melléklet a 1155/2010. (VII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
