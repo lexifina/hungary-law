@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a 2007. április 25-én és 30-án aláírt, az egyrészről az Amerikai Egyesült Államok, másrészről az Európai Közösség és tagállamai közötti légiközlekedési megállapodás módosításáról szóló jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
