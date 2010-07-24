@@ -1,1 +1,0 @@
-## ZÁRÓ RENDELKEZÉSEK
