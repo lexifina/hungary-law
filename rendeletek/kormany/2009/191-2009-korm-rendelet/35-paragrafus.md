@@ -10,9 +10,9 @@ ab) bejegyzett tevékenységi körét,
 
 ac) telephelye – több telephely esetén telephelyei – címét,
 
-ad)[^86] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, a szakképesítéssel rendelkező egyéni vállalkozó kivételével,
+ad)[^90] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, a szakképesítéssel rendelkező egyéni vállalkozó kivételével,
 
-ae)[^87] rendelkezésére álló felelős műszaki vezetői feladatok ellátására jogosult foglalkoztatottak vagy munkavégzésre irányuló egyéb jogviszonyban állók számát, és
+ae)[^91] rendelkezésére álló felelős műszaki vezetői feladatok ellátására jogosult foglalkoztatottak vagy munkavégzésre irányuló egyéb jogviszonyban állók számát, és
 
 af) nyilatkozatát arról, hogy az Étv. 39. § (2) bekezdésében meghatározott feltételeket egyébként teljesíti, továbbá
 
@@ -40,5 +40,5 @@ c) a bejelentést tevő nyilatkozatát a bejelentés (ideértve az igazolás cé
 
 (5) A bejelentés elektronikus úton vagy elektronikus adathordozón is benyújtható.
 
-[^86]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.
-[^87]: A 35. § (1) bekezdés a) pont ae) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.
+[^90]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.
+[^91]: A 35. § (1) bekezdés a) pont ae) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.

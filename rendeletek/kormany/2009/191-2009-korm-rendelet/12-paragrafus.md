@@ -46,9 +46,9 @@ j) az építési munkaterület őrzésének biztosítása,
 
 k) az építési munkák befejeztével az építési területről való levonulás végrehajtása,
 
-l)[^14] fővállalkozó kivitelezőként az építési műszaki ellenőr által kiadott teljesítésigazolásnak és a teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása,
+l)[^16] fővállalkozó kivitelezőként az építési műszaki ellenőr által kiadott teljesítésigazolásnak és a teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása,
 
-m)[^15] építtetői fedezetkezelő közreműködése esetén, ha a kivitelezési tevékenység megvalósításában alvállalkozóként vesz részt, a szerződése adatainak felvitele – legkésőbb a kivitelezési tevékenységének megkezdéséig – a fedezetkezelő által internetes alapon működtetett alvállalkozói nyilvántartásba.
+m)[^17] építtetői fedezetkezelő közreműködése esetén, ha a kivitelezési tevékenység megvalósításában alvállalkozóként vesz részt, a szerződése adatainak felvitele – legkésőbb a kivitelezési tevékenységének megkezdéséig – a fedezetkezelő által internetes alapon működtetett alvállalkozói nyilvántartásba.
 
 (3) A kivitelezőnek a (2) bekezdés e) pontjában meghatározott feladat teljesítésével kapcsolatos költségeit annak elszámolása esetén az építtető köteles megtéríteni.
 
@@ -62,5 +62,5 @@ c) az építési napló vezetése, külön megállapodás esetén az alvállalko
 
 (5) A vállalkozó kivitelező az építési napló vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél aláírásával az építési naplóban rögzíteni kell.
 
-[^14]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
-[^15]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.
+[^16]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^17]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.

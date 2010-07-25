@@ -12,9 +12,7 @@ d) a beruházás gazdasági számításainak előkészítése (ráfordítások, 
 
 e) a megbízás tárgyára vonatkozó költségbecslés készítése, elő- és utókalkulációs elemzések készítése,
 
-f) a kivitelezésre vonatkozó ajánlati, részvételi, illetőleg ajánlattételi felhívás elkészítése, a dokumentáció elkészíttetése, követelmények megfogalmazása, ajánlatadók kérdéseinek megválaszolása,
-
-g) az építési beruházásra irányuló közbeszerzési eljárás lebonyolítása érdekében az építtető által meghatározott külön jogszabály szerinti egyéb feladatok ellátása,
+f)–g)[^13]
 
 h) a kivitelezési dokumentációnak az egyes építményfajtáknak megfelelő módon és mértékben történő elkészíttetése,
 
@@ -25,3 +23,5 @@ j) az építtető által vállalt szolgáltatások biztosítása,
 k) az árviták rendezése,
 
 l) az építési munkaterület kiválasztása, biztosítása és átadása a kivitelező részére.
+
+[^13]: A 8. § f)–g) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.

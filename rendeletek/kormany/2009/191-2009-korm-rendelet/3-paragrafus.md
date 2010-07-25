@@ -6,15 +6,15 @@
 
 a) üzletszerű gazdasági tevékenységként folytatott építőipari kivitelezési tevékenység esetén írásba kell foglalni, és
 
-b)[^3] – ha az építtető és a fővállalkozó kivitelező között jön létre – a 17. § (2) bekezdés a) pontja szerinti esetben ügyvéd vagy jogtanácsos általi ellenjegyzése szükséges.
+b)[^4] – ha az építtető és a fővállalkozó kivitelező között jön létre – a 17. § (2) bekezdés a) pontja szerinti esetben ügyvéd vagy jogtanácsos általi ellenjegyzése szükséges.
 
 Az építési szerződés megkötését követően a vállalkozó kivitelező viseli annak jogkövetkezményét, amely a tervdokumentáció olyan hiányosságából adódik, melyet a vállalkozó kivitelezőnek a tőle elvárható szakmai gondosság mellett észlelnie kellett volna, de a szerződéskötést megelőzően nem jelzett.
 
 (2) Az építési szerződés tartalmazza
 
-a)[^4] az építtető nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
+a)[^5] az építtető nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
 
-b)[^5] a vállalkozó kivitelező nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
+b)[^6] a vállalkozó kivitelező nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
 
 c) a szerződés tárgyában megjelölve a vállalt építőipari kivitelezési tevékenység vagy építési-szerelési munka pontos megnevezését, az építési munkaterület pontos körülírását (cím, helyrajzi szám), az építményre, építési tevékenységre vonatkozó követelmény (mennyiségi és minőségi mutatók) meghatározásával,
 
@@ -48,7 +48,7 @@ n) ha az építtető a fővállalkozó kivitelező részére az ellenszolgáltat
 
 o) a felek megállapodása esetén a fővállalkozó kivitelező által a szavatossági, jótállási (a továbbiakban: garanciális), valamint a nem vagy nem szerződésszerű teljesítés esetére nyújtott (a továbbiakban: teljesítési) biztosíték összegének meghatározását, biztosításának formáját, célját, felhasználásának lehetőségét,
 
-p)[^6] a tartalékkeret felhasználásának részletes szabályait, ha a szerződő felek a pótmunka fedezetének biztosítására tartalékkeretet kötnek ki.
+p)[^7] a tartalékkeret felhasználásának részletes szabályait, ha a szerződő felek a pótmunka fedezetének biztosítására tartalékkeretet kötnek ki.
 
 (3) Az alvállalkozói építési szerződés – a (2) bekezdésben foglaltakon túlmenően – tartalmazza név, illetve megnevezés, adószám, lakcím, illetve székhely szerint rögzítve, hogy mely vállalkozó (fővállalkozó) kivitelezővel kötött építési szerződés teljesítése érdekében kerül sor az alvállalkozói építési szerződés megkötésére.
 
@@ -68,7 +68,7 @@ ba) a közvetlen költségek között nem szereplő általános költségeket,
 
 bb) a tervezett nyereséget.
 
-(6)[^7] Az építési szerződés megkötésekor az ár vizsgálata során az építésügyért felelős miniszter által működtetett honlapon található elektronikus költségvetési kiírási programban meghatározott élőmunka szükségleti normatívákat irányadónak lehet tekinteni.
+(6)[^8] Az építési szerződés megkötésekor az ár vizsgálata során az építésügyért felelős miniszter által működtetett honlapon található elektronikus költségvetési kiírási programban meghatározott élőmunka szükségleti normatívákat irányadónak lehet tekinteni.
 
 (7) Az építési naplóban köteles haladéktalanul közölni
 
@@ -78,15 +78,15 @@ b) az építtető a fővállalkozó kivitelezővel a pótmunka igényét.
 
 (8) A többletmunka utólag csak tételes elszámolású szerződéses ár esetén és akkor számolható el, ha a vállalkozó kivitelező a szerződés alapját képező beárazott tételes költségvetési kiírással bizonyítja, hogy az a költségvetésben nem szerepelt.
 
-(9)[^8] A kivitelező – az erre vonatkozó külön megállapodásban foglaltak szerint – a műszaki szükségesség, vagy a rendeltetésszerű és biztonságos használat miatt szükséges pótmunkát köteles elvégezni. Ha a felek átalánydíjban állapodtak meg, akkor a kikötött díjon felül csak a pótmunka ellenértéke számolható el.
+(9)[^9] A kivitelező – az erre vonatkozó külön megállapodásban foglaltak szerint – a műszaki szükségesség, vagy a rendeltetésszerű és biztonságos használat miatt szükséges pótmunkát köteles elvégezni. Ha a felek átalánydíjban állapodtak meg, akkor a kikötött díjon felül csak a pótmunka ellenértéke számolható el.
 
 (10) A szerződés módosítását megalapozó körülménynek tekintendő különösen, ha a szerződés teljesítése során olyan természeti vagy építészeti érték kerül elő, amelyről a kulturális örökségvédelmi hatóság külön jogszabályban meghatározott intézkedése alapján feltételezhető, hogy kulturális örökségi értéknek minősül és annak megőrzése a vállalkozó kivitelező feladata.
 
 (11) A vállalkozó kivitelezőnek haladéktalanul tájékoztatni kell az általa vállalt kivitelezési tevékenység megvalósításában részt vevő alvállalkozó kivitelezőt arról, ha a kivitelezési tevékenység ellenértékét meghaladja az abban megjelenő alvállalkozói munkák ellenértéke.
 
-[^3]: A 3. § (1) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
-[^5]: A 3. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
-[^6]: A 3. § (2) bekezdés p) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^7]: A 3. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § (9) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdés p) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^8]: A 3. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (9) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
