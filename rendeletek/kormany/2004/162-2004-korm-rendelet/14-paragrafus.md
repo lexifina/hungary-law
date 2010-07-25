@@ -10,6 +10,6 @@ b) restaurátor, szakágak szerint, ha a beszerzés restaurálásra is irányul;
 
 c) műemléki épületkutató, ha ez az építési engedély alapján szükséges.
 
-(3)[^26] A (2) bekezdés szerinti tevékenységeket csak olyan személyek láthatják el, akik megfelelnek a külön jogszabály szerinti szakmagyakorlási feltételeknek.
+(3)[^13] A (2) bekezdés szerinti tevékenységeket csak olyan személyek láthatják el, akik megfelelnek a külön jogszabály szerinti szakmagyakorlási feltételeknek.
 
-[^26]: E rendelet 18. §-ának (2) bekezdése alapján a 14. § (3) bekezdése a szakmagyakorlási feltételekről szóló külön jogszabály hatálybalépésével egyidejűleg lép hatályba.
+[^13]: E rendelet 18. §-ának (2) bekezdése alapján a 14. § (3) bekezdése a szakmagyakorlási feltételekről szóló külön jogszabály hatálybalépésével egyidejűleg lép hatályba.
