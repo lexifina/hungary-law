@@ -1,0 +1,1 @@
+## „c) a kérelmező a kivágás elvégzéséről szóló bejelentőlapot annak ellenére nyújtja be, hogy a kivágást nem, vagy nem az e rendelet 2. § e) pontjában meghatározott követelményeknek megfelelően hajtotta végre.”
