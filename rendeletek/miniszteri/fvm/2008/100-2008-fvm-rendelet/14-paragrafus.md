@@ -4,8 +4,14 @@
 
 (2) A támogatással kivágott ültetvény után újratelepítési jog nem keletkezik.
 
-(3) A kivágás megtörténtét az MVH által a 7. számú melléklet szerint közzétett formanyomtatványon kell postai úton bejelenteni az MVH-hoz a kivágás megtörténtét követően, de legkésőbb 2009. április 15-ig, a 2009/2010. borpiaci évben 2010. április 15-ig, a 2010/2011. borpiaci évben 2011. április 15-ig.
+(3)[^38] A kivágás megtörténtét postai úton 2011. május 15-ig az MVH részére kell bejelenteni az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon, amely tartalmazza
+
+a) a kérelmező azonosításához szükséges adatokat (név, regisztrációs szám és kapcsolattartási információ) és
+
+b) a kivágott ültetvény 8. § (1) bekezdés e) pontjában meghatározott adatait.
 
 (4) A kivágást elvégző kérelmező a támogatásban részesített ültetvény kivágásától számított 15 napon belül köteles az illetékes földhivatalnál kérelmezni a terület művelési ágának megváltoztatását.
 
 (5) A kivágást elvégző kérelmező a művelési ág változásáról a földhivatali bejegyzéstől számított 15 napon belül köteles értesíteni az illetékes hegybírót, aki a művelési ág változását a szőlő ültetvénykataszterében átvezeti.
+
+[^38]: A 14. § (3) bekezdése a 7/2010. (VII. 23.) VM rendelet 7. §-ával megállapított szöveg.

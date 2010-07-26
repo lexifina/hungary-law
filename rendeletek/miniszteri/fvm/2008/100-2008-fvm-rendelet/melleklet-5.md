@@ -1,39 +1,41 @@
-## Nyilatkozat
+## Ültetvényleltár
 
-## Alulírott  (név)
+## A kivágandó szőlőültetvény adatai
 
-## (születési hely, idő:  ,
+## Helye: ............................................ település, ............... hrsz.
 
-## anyja születési neve:  ),
+## Területe: ................................ ha
 
-## mint a ............................................................................. helység
+## Sortáv: ................... m Tőtáv: ..................... m
 
-## helyrajzi számú területén lévő szőlőültetvény(ek)
+| A sor sorszáma* | Tőkehelyek száma (db) | Termő tőke (db) | Csökkent termőképességű tőke (db) | Elpusztult, hiányzó tőke (db) |
 
-## földtulajdonosa / özvegyi joggal bíró jogosultja / haszonélvezeti joggal bíró jogosultja /
+| 1 |  |  |  |  |
 
-## végrehajtási joggal bíró jogosultja*
+| 2 |  |  |  |  |
 
-## hozzájárulok ahhoz, hogy ........................................................................................................................................ (név)............................................................................................................................................................. (cím) alatti lakos (MVH által kiadott regisztrációs száma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜),
+| 3 |  |  |  |  |
 
-## – aki a szőlőültetvény használója – a fentebb meghatározott területen lévő borszőlő-ültetvényt újratelepítése jog keletkezése nélkül kivágja, valamint az ültetvény felszámolásáért járó kivágási támogatást igénybe vegye.
+| 4 |  |  |  |  |
 
-## Kelt: ..................................................... (helység, dátum)
+| 5 |  |  |  |  |
 
-## ......................................................
+| 6 |  |  |  |  |
 
-## aláírás
+| 7 |  |  |  |  |
 
-| Tanú 1. | ....................................................... (név) |  | Tanú 2. | ....................................................... (név) |
+| 8 |  |  |  |  |
 
-|  | ....................................................... (cím) |  |  | ....................................................... (cím) |
+| 9 |  |  |  |  |
 
-|  | .............................................. (sz. ig. sz.) |  |  | .............................................. (sz. ig. sz.) |
+| 10 |  |  |  |  |
 
-## ––––––––––––
+| n |  |  |  |  |
 
-## * A megfelelő jogviszonyt kérjük aláhúzni!
+| Összesen: |  |  |  |  |
 
-5. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^23]
+## * Az ültetvényleltárt soronként kell kitölteni!
 
-[^23]: Az 5. számú melléklet a 100/2009. (VII. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+5. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^43]
+
+[^43]: Az 5. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.

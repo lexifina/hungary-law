@@ -1,19 +1,3 @@
-8. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez
+8. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^46]
 
-Tíz borpiaci éven belül nemzeti telepítési támogatásban részesített területek
-
-| Sorszám | Támogatott ültetvény helye | Területnagyság (ha) |
-
-| Település | Helyrajzi szám(ok) |
-
-| 1 |  |  |  |
-
-| 2 |  |  |  |
-
-| 3 |  |  |  |
-
-| 4 |  |  |  |
-
-| 5 |  |  |  |
-
-| n |  |  |  |
+[^46]: A 8. számú mellékletet a 7/2010. (VII. 23.) VM rendelet 10. §-a hatályon kívül helyezte.

@@ -1,35 +1,35 @@
-## Ültetvényleltár
+## Teljességi nyilatkozat
 
-## A kivágandó szőlőültetvény adatai
+## Alulírott ...................................................................................... (név),
 
-## Helye: ............................................ település, ...............hrsz.
+## MVH regisztrációs szám:  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-## Területe: ................................ ha
+## mint
 
-## Sortáv: ................... m  Tőtáv: ...................... m
+## a .......................................................................................... helység ................................................................................. helyrajzi számú területén lévő szőlőültetvény használója, kijelentem, hogy
 
-## Tőkeállomány
+## ⬜ a 100/2008. (VIII. 6.) FVM rendelet 8. § (2) bekezdés b)–c) pontjai szerinti nyilatkozat(ok) benyújtására nem vagyok kötelezett,*
 
-| A sor sorszáma* | Tőkehelyek száma (db) | Termő tőke (db) | Csökkent termőképességű tőke (db) | Elpusztult, hiányzó tőke (db) |
+## ⬜ a 100/2008. (VIII. 6.) FVM rendelet 8. § (2) bekezdés b)–c) pontjai szerinti nyilatkozatok benyújtására kötelezett vagyok, és valamennyi nyilatkozatot a támogatási kérelmemhez hiánytalanul mellékeltem és tudomásul veszem, hogy a megjelölt területre vonatkozó hozzájáruló nyilatkozatok hiányában a kérelmet az MVH érdemi vizsgálat nélkül elutasítja.*
 
-| 1 |  |  |  |  |
+## Kelt: ................................................................... (helység, dátum)
 
-| 2 |  |  |  |  |
+## ......................................................
 
-| 3 |  |  |  |  |
+## aláírás
 
-| 4 |  |  |  |  |
+## Tanú 1.   (név)
 
-| 5 |  |  |  |  |
+## (cím)
 
-| 6 |  |  |  |  |
+## Tanú 2.   (név)
 
-| 7 |  |  |  |  |
+## (cím)
 
-| n |  |  |  |  |
+## ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-| Összesen: |  |  |  |  |
+## * A megfelelő részt egyértelműen X vagy + jellel vagy aláhúzással kell megjelölni!
 
-## * Az ültetvényleltárt kérjük soronként kitölteni!
+7. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^45]
 
-7. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez
+[^45]: A 7. számú mellékletet a 7/2010. (VII. 23.) VM rendelet 10. §-a hatályon kívül helyezte.

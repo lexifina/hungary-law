@@ -6,6 +6,6 @@ a) a hegybíró hatósági bizonyítványa szerint az ültetvény használójak�
 
 b) a kérelemben megjelölt ültetvény teljes területnagyságára vonatkozó, a kérelem beadását megelőző borpiaci évbeni – a szőlészeti és borászati adatszolgáltatás rendjéről és a nem hegyközségi településeken a közigazgatási feladatokat ellátó hegyközségek meghatározásáról szóló 96/2004. (VI. 3.) FVM rendelet 4. § szerinti – szüreti jelentés benyújtója, illetve annak jogutódja (örököse),
 
-c)[^3]
+c)[^4]
 
-[^3]: A 6. § c) pontját a 100/2009. (VII. 30.) FVM rendelet 9. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 6. § c) pontját a 100/2009. (VII. 30.) FVM rendelet 9. § (2) bekezdése hatályon kívül helyezte.
