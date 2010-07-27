@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Gelencsér Attila országgyűlési képviselő mentelmi jogát a Budapest II. és III. kerületi Bíróság 7. B.III.686/2010/7. számú megkeresésével érintett ügyben nem függeszti fel.
