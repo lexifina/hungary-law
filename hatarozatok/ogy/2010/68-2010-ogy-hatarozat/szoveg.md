@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Illés Zoltán országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 33. B.26.453/2010/2. számú megkeresésével érintett ügyben nem függeszti fel.
