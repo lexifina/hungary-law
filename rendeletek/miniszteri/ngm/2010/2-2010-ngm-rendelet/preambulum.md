@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (4) bekezdés a)–b), d), g) és o)–p) pontjaiban kapott felhatalmazás alapján, a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény 2. § (1) bekezdés j) pont ja) alpontja szerinti feladatkörömben eljárva a következőket rendelem el:
