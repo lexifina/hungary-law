@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Varga László országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 16. B.27.215/2010/2. számú megkeresésével érintett ügyben nem függeszti fel.
