@@ -1,1 +1,0 @@
-## „(5) A (2) bekezdés b)–c) pontok szerinti nyilatkozatokra, valamint a g) pont szerinti teljességi nyilatkozatra vonatkozóan hiánypótlásnak nincs helye, valamint azok a kérelem benyújtására nyitva álló határidőn túl nem pótolhatók. A kérelmek elbírálásának sorrendjét a kérelmek hiánytalan beérkezése határozza meg.”
