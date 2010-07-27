@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Balsai István országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 23. B.24.511/2010/5. számú megkeresésével érintett ügyben nem függeszti fel.
