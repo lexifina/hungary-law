@@ -766,7 +766,7 @@ Magyar Szocialista Párt
 
 |
 
-953,7
+655,9
 
 |
 
@@ -780,7 +780,7 @@ FIDESZ – Magyar Polgári Szövetség
 
 |
 
-833,2
+870,1
 
 |
 
@@ -794,7 +794,7 @@ SZDSZ – A magyar liberális párt
 
 |
 
-261,1
+0,0
 
 |
 
@@ -808,7 +808,7 @@ Magyar Demokrata Fórum
 
 |
 
-227,6
+0,0
 
 |
 
@@ -822,7 +822,35 @@ Kereszténydemokrata Néppárt
 
 |
 
-235,4
+213,4
+
+|
+
+|
+
+6
+
+|
+
+Jobbik Magyarországért Mozgalom – Párt
+
+|
+
+222,1
+
+|
+
+|
+
+7
+
+|
+
+Lehet Más a Politika
+
+|
+
+123,6
 
 |
 
@@ -846,7 +874,35 @@ MIÉP – Jobbik a harmadik út
 
 |
 
-37,9
+15,8
+
+|
+
+|
+
+5
+
+|
+
+SZDSZ – A magyar liberális párt
+
+|
+
+108,8
+
+|
+
+|
+
+6
+
+|
+
+Magyar Demokrata Fórum
+
+|
+
+116,2
 
 |
 
@@ -948,7 +1004,7 @@ Magyar Igazságért, a Jobb Magyarországért Alapítvány
 
 |
 
-3 919,8
+3 696,8
 
 |
 
@@ -1654,7 +1710,7 @@ I. fejezet összesen:
 
 |
 
-75 888,0
+75 665,0
 
 |
 
@@ -4000,7 +4056,7 @@ Kölcsönök
 
 |
 
-Nemzeti Információs Infrastruktúra Fejlesztési Intézet2
+Nemzeti Információs Infrastruktúra Fejlesztési Intézet17
 
 |
 
@@ -4140,7 +4196,7 @@ Dologi kiadások
 
 |
 
-ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet3
+ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet18
 
 |
 
@@ -41982,7 +42038,7 @@ Fejezeti általános tartalék
 
 |
 
-Pénzügyi Szervezetek Állami Felügyelete4
+Pénzügyi Szervezetek Állami Felügyelete19
 
 |
 
@@ -53496,7 +53552,7 @@ Központi költségvetési szervek
 
 |
 
-23 169,0
+28 981,1
 
 |
 
@@ -53616,7 +53672,7 @@ XLII. fejezet összesen:
 
 |
 
-6 372 460,0
+6 378 272,1
 
 |
 
@@ -57874,7 +57930,7 @@ KIADÁSI FŐÖSSZEG
 
 |
 
-13 533 026,8
+13 532 803,8
 
 |
 
@@ -57884,7 +57940,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-12 662 680,6
+12 668 492,7
 
 |
 
@@ -57894,10 +57950,10 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
-–870 346,2
+–864 311,1
 
-2 A 343/2009. (XII. 30.) Korm. rendelet 5. § (5) bekezdése akként rendelkezik, hogy 2010. január 1-jétől az 1. számú melléklet X. Miniszterelnökség fejezet 4. cím Nemzeti Információs Infrastruktúra Fejlesztési Intézet besorolása XXXIII. Magyar Tudományos Akadémia fejezet 14. címre változik.
+17 A 343/2009. (XII. 30.) Korm. rendelet 5. § (5) bekezdése akként rendelkezik, hogy 2010. január 1-jétől az 1. számú melléklet X. Miniszterelnökség fejezet 4. cím Nemzeti Információs Infrastruktúra Fejlesztési Intézet besorolása XXXIII. Magyar Tudományos Akadémia fejezet 14. címre változik.
 
-3 Az 1. számú melléklet X. Miniszterelnökség fejezet 8. cím ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet besorolása a 305/2009. (XII. 23.) Korm. rendelet 9. § (3) bekezdése alapján – figyelemmel a 8. § (2) bekezdésére – 2010. január 1. napjával XXXI. Központi Statisztikai Hivatal fejezet 2. címre változik.
+18 Az 1. számú melléklet X. Miniszterelnökség fejezet 8. cím ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet besorolása a 305/2009. (XII. 23.) Korm. rendelet 9. § (3) bekezdése alapján – figyelemmel a 8. § (2) bekezdésére – 2010. január 1. napjával XXXI. Központi Statisztikai Hivatal fejezet 2. címre változik.
 
-4 Az 1033/2010. (II. 9.) Korm. határozat 1. pont a) alpontja akként rendelkezik, hogy 2010. február 10-étől az 1. számú melléklet XXII. Pénzügyminisztérium fejezet 13. cím Pénzügyi Szervezetek Állami Felügyelete besorolása I. Országgyűlés fejezet 20. címre változik.
+19 Az 1033/2010. (II. 9.) Korm. határozat 1. pont a) alpontja akként rendelkezik, hogy 2010. február 10-étől az 1. számú melléklet XXII. Pénzügyminisztérium fejezet 13. cím Pénzügyi Szervezetek Állami Felügyelete besorolása I. Országgyűlés fejezet 20. címre változik.
