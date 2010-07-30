@@ -40,7 +40,7 @@ s) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügye
 
 t) a Vízügyi és Környezetvédelmi Központi Igazgatóságot,
 
-u) a környezetvédelmi, természetvédelmi és vízügyi felügyelőségeket,
+u)[^1]
 
 v) a környezetvédelmi és vízügyi igazgatóságokat,
 
@@ -53,3 +53,5 @@ a) a Nemzeti Földalapkezelő Szervezetet,
 b) a Kormány nevében az ENSZ Élelmezési és Mezőgazdasági Szervezeteinek Magyar Nemzeti Bizottságát,
 
 c) a külügyminiszterrel egyetértésben a külképviseleti hálózatban dolgozó mező- és környezetgazdasági szakattasék működését.
+
+[^1]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte.
