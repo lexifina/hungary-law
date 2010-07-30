@@ -1,4 +1,4 @@
-4. §[^1] (1) Ha jogszabály eltérően nem rendelkezik, a vis maior esemény bekövetkeztével kapcsolatos bejelentést az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani ahhoz az MVH kirendeltséghez, amelynél az érintett intézkedésben való részvételre vonatkozó kérelem benyújtásra került. Ha a kérelem több olyan intézkedést érint, amelyek esetében a benyújtás helye eltér, a bejelentést az MVH Központhoz kell benyújtani.
+4. §[^2] (1) Ha jogszabály eltérően nem rendelkezik, a vis maior esemény bekövetkeztével kapcsolatos bejelentést az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani ahhoz az MVH kirendeltséghez, amelynél az érintett intézkedésben való részvételre vonatkozó kérelem benyújtásra került. Ha a kérelem több olyan intézkedést érint, amelyek esetében a benyújtás helye eltér, a bejelentést az MVH Központhoz kell benyújtani.
 
 (2) Az (1) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
@@ -18,7 +18,7 @@ b) a bejelentésben fel kell tüntetni az intézkedések megnevezését, amellye
 
 c) a bejelentéshez mellékelni kell
 
-ca) a vis maior bekövetkezését tanúsító igazolást (hatósági igazolás, halotti anyakönyvi kivonat, MgSzH által kiadott igazolás, egyéb hitelt érdemlő igazolás) vagy
+ca)[^3] a vis maior bekövetkezését tanúsító igazolást (hatósági igazolás, halotti anyakönyvi kivonat, egyéb hitelt érdemlő igazolás) vagy
 
 cb) az igazolás kiállítására hatáskörrel rendelkező hatóság, szerv által kiadott nyilatkozatot, amely tanúsítja, hogy az ügyfél a vonatkozó igazolás kiadása iránt a kérelmét benyújtotta.
 
@@ -32,4 +32,5 @@ b) a csatolt igazolás típusának megjelölése,
 
 c) az ügyfél aláírása.
 
-[^1]: A 4. § a 23/2010. (III. 16.) FVM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § a 23/2010. (III. 16.) FVM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdés c) pont ca) alpontja a 219/2010. (VII. 27.) Korm. rendelet 13. § (4) bekezdés b) pontja szerint módosított szöveg.

@@ -18,4 +18,6 @@ g) az ügyfél gondossága ellenére az állatállománya egészének vagy egy r
 
 h) zárlati, vagy a Magyar Köztársaság területén még nem honos károsító, illetve károkozó ellen hozott hatósági intézkedés.
 
-(2) Az (1) bekezdésben meghatározott eseteket az MVH csak akkor fogadhatja el, ha azokat az ügyfél vagy annak örököse hatósági igazolással vagy más hitelt érdemlő módon tudja bizonyítani. Amennyiben a vis maior esemény a 3. § (1) bekezdés d), f) vagy g) pontjában meghatározott esemény folytán alakult ki, ezt a káresemény bekövetkezésének helye szerint illetékes megyei Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) igazolja. Az igazolásnak – amennyiben a kár mértéke parcellánként vagy földrészletenként, illetve alrészletenként eltérő, ennek megfelelően parcellánként, földrészletenként, illetve alrészletenként azonosítható módon – tartalmaznia kell a kár mértékét is.
+(2)[^1] Az (1) bekezdésben meghatározott eseteket az MVH csak akkor fogadhatja el, ha azokat az ügyfél vagy annak örököse hatósági igazolással vagy más hitelt érdemlő módon tudja bizonyítani.
+
+[^1]: A 3. § (2) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 13. § (4) bekezdés a) pontja szerint módosított szöveg.

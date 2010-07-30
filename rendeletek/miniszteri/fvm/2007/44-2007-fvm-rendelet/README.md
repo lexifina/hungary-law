@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-44-20-8
 | --- | --- | --- |
 | 2008-05-16 | 2007-44-20-82.2 | 44/2007. (VI. 8.) FVM rendelet |
 | 2010-03-19 | 2007-44-20-82.3 | 23/2010. (III. 16.) FVM rendelet |
+| 2010-07-30 | 2007-44-20-82.4 | 219/2010. (VII. 27.) Korm. rendelet |
