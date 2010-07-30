@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján baloldalt fentről és lentről befutó – az úszómedence sávjait szimbolizáló – vonalak láthatóak, amelyek két vízhullám-motívummá formálódnak. A két vízhullám-motívum között, egymás alatti vízszintes sorokban az „5000” értékjelzés és a „FORINT” felirat, az értékjelzéstől balra a „BP.” verdejel, jobbra a „2010” verési évszám olvasható. Az előlap jobb szélén, félköriratban a „MAGYAR KÖZTÁRSASÁG” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján fő motívumként egy úszó ábrázolása látható, az ábrázolás feletti két vízszintes sorban a „2010 BUDAPEST” és a „BALATONFÜRED” felirat olvasható. A fő motívumot és a felette található feliratot fent és lent egymás tükörképeként megjelenő hullámvonalak keretezik. Az emlékérme szélén, köriratban az „ÚSZÓ, MŰÚSZÓ, MŰUGRÓ ÉS NYÍLTVÍZI ÚSZÓ EURÓPA-BAJNOKSÁG” felirat olvasható. Az emlékérme alsó részén, a hullámvonalaktól jobbra található Rónay Attila tervezőművész mesterjegye. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
