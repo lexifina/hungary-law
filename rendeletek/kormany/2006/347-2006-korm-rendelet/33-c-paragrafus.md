@@ -1,6 +1,6 @@
-## A MÁFI feladatai[^59]
+## A MÁFI feladatai[^63]
 
-33/C. §[^60] (1) A MÁFI alaptevékenysége körében a (2) bekezdés szerinti állami földtani kutatással összefüggő feladatokat lát el.
+33/C. §[^64] (1) A MÁFI alaptevékenysége körében a (2) bekezdés szerinti állami földtani kutatással összefüggő feladatokat lát el.
 
 (2) A MÁFI állami földtani kutatással összefüggő feladatai:
 
@@ -22,5 +22,5 @@ h) Múzeum, szakkönyvtár, mélyfúrási magminta gyűjtemény, mérőhálózat
 
 i) részvétel nemzetközi kutatási programokban, kapcsolattartás a hazai és nemzetközi szakmai szervezetekkel.
 
-[^59]: A 33/C. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
-[^60]: A 33/C. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^63]: A 33/C. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^64]: A 33/C. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

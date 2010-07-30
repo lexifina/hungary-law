@@ -1,8 +1,8 @@
 ## – abban a kérdésben, hogy az energiaellátás fenntartása a tüzelőberendezés működése nélkül, más módon biztosítható-e, és a tüzelőberendezés működése kiemelten indokolt-e – a Magyar Energia Hivatalt szakhatóságként jelöli ki.
 
-## A vízügyi hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^47]
+## A vízügyi hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^51]
 
-32/D. §[^48] (1) A Kormány a felügyelőségnek a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet 3. melléklete szerinti ajánlott szennyvíz-bevezetési távolságoknak kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján történő módosítására irányuló eljárásában, – az egészségkárosító kockázatok és esetleges hatások felmérése, a felszíni vizek minőségét, egészségkárosítás nélküli felhasználhatóságát befolyásoló körülmények, tényezők vizsgálata, továbbá a higiénés követelmények teljesülése kérdésében – első fokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat kistérségi, fővárosi kerületi intézetét, másodfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézetét jelöli ki.
+32/D. §[^52] (1) A Kormány a felügyelőségnek a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet 3. melléklete szerinti ajánlott szennyvíz-bevezetési távolságoknak kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján történő módosítására irányuló eljárásában, – az egészségkárosító kockázatok és esetleges hatások felmérése, a felszíni vizek minőségét, egészségkárosítás nélküli felhasználhatóságát befolyásoló körülmények, tényezők vizsgálata, továbbá a higiénés követelmények teljesülése kérdésében – első fokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat kistérségi, fővárosi kerületi intézetét, másodfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézetét jelöli ki.
 
 (2) A Kormány a felügyelőségnek a – közcélú vízilétesítmény létesítéséhez, üzemeltetéséhez vagy ilyen célt szolgáló vízhasználathoz, továbbá a jövőbeni ivóvízellátás célját szolgáló vízbázisok védelme érdekében történő – védőidom, védőterület és védősáv kijelölésére irányuló eljárásában,
 
@@ -38,5 +38,5 @@ a) – a felszín alatti ivóvíz-, ásványvíz- és gyógyvíz-készlet minős
 
 b) termőföldön vagy termőfölddel szomszédos földrészleten megvalósuló tevékenység esetén – abban a kérdésben, hogy a kérelem szerinti tevékenység megfelel-e, és ha igen, milyen feltételekkel a termőföld védelméről szóló törvény szerinti talajvédelmi kötelezettségeknek – első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal területi szervét, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal Központját
 
-[^47]: A 32/D. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^48]: A 32/D. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^51]: A 32/D. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^52]: A 32/D. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

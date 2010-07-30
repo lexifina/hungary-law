@@ -22,7 +22,7 @@
 
 | 9. | Ha a kérelem a területfejlesztési koncepciók, programok és a területrendezési tervek tartalmi követelményeiről szóló jogszabály szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | állami főépítész | nemzeti fejlesztési és gazdasági miniszter |
 
-5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^78]
+5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^82]
 
 A felügyelőség települési hulladék begyűjtése, üzletszerű szállítása, előkezelése, tárolása, hasznosítása, ártalmatlanítása
 
@@ -38,4 +38,4 @@ engedélyezése iránti eljárásában közreműködő szakhatóságok
 
 | 4. | Nyilvántartott ásványi nyersanyag lelőhely, bányatelek érintettsége, ásványi nyersanyag kitermelése és annak használata, értékesítése, hasznosítása esetén. | Földtani környezet, földtani veszélyforrások, földtani gátak és az ásványvagyonvédelem értékelése, a fizetendő bányajáradék mértékének meghatározása, az építésföldtani megalapozottság vizsgálata, a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződményekre, a felszínmozgás veszélyeztetésének vizsgálata | bánya- kapitányság | Magyar Bányászati és Földtani Hivatal | NEM | IGEN | NEM | IGEN |
 
-[^78]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^82]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

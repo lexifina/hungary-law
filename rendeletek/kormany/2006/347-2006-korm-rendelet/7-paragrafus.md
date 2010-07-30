@@ -1,10 +1,6 @@
 ## Nemzeti park igazgatóság
 
-7. § (1) A nemzeti park igazgatóság (a továbbiakban: NPI)
-
-a) a miniszter irányítása alatt működő,
-
-b)[^13] önállóan működő és gazdálkodó, közintézeti altípusú közszolgáltató központi költségvetési szerv;
+7. § (1)[^17] A nemzeti park igazgatóságok szervezet-rendszere központi hivatal, amely a miniszter irányítása alatt működő, önállóan működő és gazdálkodó, közintézeti altípusú közszolgáltató központi költségvetési szerv. A nemzeti park igazgatóságok szervezet-rendszerének területi szervei a nemzeti park igazgatóságok (a továbbiakban: NPI).
 
 (2) Az NPI elnevezését, székhelyét és működési területét a rendelet 3. számú melléklete tartalmazza.
 
@@ -12,4 +8,4 @@ b)[^13] önállóan működő és gazdálkodó, közintézeti altípusú közszo
 
 (4) A miniszter irányítási jogkörében az NPI igazgatójának javaslatára kinevezi és felmenti az NPI gazdasági vezetőjét.
 
-[^13]: A 7. § (1) bekezdés b) pontja a 344/2009. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^17]: A 7. § (1) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.

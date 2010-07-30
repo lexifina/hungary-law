@@ -2,13 +2,13 @@
 
 a) 5. § (3) bekezdésében, 6. § (1) és (3)–(4) bekezdésében, 9. § (2)–(3) bekezdésében, 10. §-ában, 12. § (1) bekezdésében foglalt környezetvédelmi hatóságként, továbbá
 
-b)[^16] 9. § (1) bekezdésében foglalt környezetvédelmi hatóságnak az országos illetékességű szerveként a gyorsforgalmi utak építése során a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 67. § (1)–(2) és (5)–(6) bekezdésében, 71. § (1) bekezdés a)–b) pontjában, 71. § (3) bekezdésben, valamint a 72. §-ban foglalt környezetvédelmi hatóságként. A Kvt. 72. §-ában foglalt környezetvédelmi hatóságként az OKTVF csak a környezetvédelmi engedély tekintetében járhat el.
+b)[^20] 9. § (1) bekezdésében foglalt környezetvédelmi hatóságnak az országos illetékességű szerveként a gyorsforgalmi utak építése során a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 67. § (1)–(2) és (5)–(6) bekezdésében, 71. § (1) bekezdés a)–b) pontjában, 71. § (3) bekezdésben, valamint a 72. §-ban foglalt környezetvédelmi hatóságként. A Kvt. 72. §-ában foglalt környezetvédelmi hatóságként az OKTVF csak a környezetvédelmi engedély tekintetében járhat el.
 
-(2)[^17] Az OKTVF jár el a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 8. § (4) bekezdésében, 11. § (2) és (3) bekezdésében, a 17. § (1) bekezdés d) pontjában, 17. § (2) bekezdésében, 32. § (7) bekezdésében foglalt környezetvédelmi hatóságként.
+(2)[^21] Az OKTVF jár el a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 8. § (4) bekezdésében, 11. § (2) és (3) bekezdésében, a 17. § (1) bekezdés d) pontjában, 17. § (2) bekezdésében, 32. § (7) bekezdésében foglalt környezetvédelmi hatóságként.
 
-(3)[^18] Az OKTVF jár el az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvényben foglalt környezetvédelmi hatóságként, ideértve a légijármű-üzemeltető által benyújtott figyelemmel kísérési terv jóváhagyását.
+(3)[^22] Az OKTVF jár el az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvényben foglalt környezetvédelmi hatóságként, ideértve a légijármű-üzemeltető által benyújtott figyelemmel kísérési terv jóváhagyását.
 
-(4)[^19] Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény
+(4)[^23] Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény
 
 a) 4. §-a szerinti környezetvédelmi hatóságként az OMSZ,
 
@@ -18,7 +18,7 @@ c) 13. §-a szerinti környezetvédelmi hatóságként a miniszter
 
 jár el.
 
-[^16]: A 9. § (1) bekezdés b) pontja a 344/2009. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^17]: A 9. § (2) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: A 9. § (3) bekezdése a 345/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^19]: A 9. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 517. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 9. § (1) bekezdés b) pontja a 344/2009. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^21]: A 9. § (2) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: A 9. § (3) bekezdése a 345/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^23]: A 9. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 517. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
