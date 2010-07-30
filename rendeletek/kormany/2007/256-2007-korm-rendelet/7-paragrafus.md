@@ -1,6 +1,6 @@
 ## Egyéb feladatok
 
-## 7. §[^14] Az MVH feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer (IIER) működtetése és annak továbbfejlesztése. Az MVH ezen belül működteti:
+## 7. §[^15] Az MVH feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer (IIER) működtetése és annak továbbfejlesztése. Az MVH ezen belül működteti:
 
 a) az ügyfél-nyilvántartási rendszert,
 
@@ -22,4 +22,4 @@ e) a monitoring adat-nyilvántartási rendszer
 
 működtetése.
 
-[^14]: A 7. § a 88/2010. (III. 26.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^15]: A 7. § a 88/2010. (III. 26.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
