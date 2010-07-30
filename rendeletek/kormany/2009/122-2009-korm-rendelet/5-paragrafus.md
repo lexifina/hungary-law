@@ -1,6 +1,6 @@
 5. § (1) A minisztérium az egészségügyi szolgáltató által megpályázható támogatást biztosít a felsőoktatási intézményeknek az általános orvos szakon végzett, szakképesítéssel még nem rendelkező, szakirányú szakképzésben részt vevő rezidensek után, melynek célja a rezidens szakképzése normatív képzési költségének megtérítése.
 
-(2) Az az egészségügyi szolgáltató, amely az (1) bekezdés szerinti rezidens után járó támogatást elnyerte, a rezidens munkavégzési helyének szakképzés céljára történő – 8. § szerinti – ideiglenes megváltoztatása esetén, annak igazolása alapján rezidensenként a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) H fizetési osztály 1. fizetési fokozatának megfelelő összegű támogatásra jogosult, mely a munkavégzés helyének szakképzés céljára történő ideiglenes megváltoztatásának időszakára, de
+(2)[^5] Az az egészségügyi szolgáltató, amely az (1) bekezdés szerinti rezidens után járó támogatást elnyerte, a rezidens munkavégzési helyének szakképzés céljára történő – 8. § szerinti – ideiglenes megváltoztatása esetén, annak igazolása alapján rezidensenként Kjt. H fizetési osztály 1. fizetési fokozatának megfelelő összegű támogatásra jogosult, mely a munkavégzés helyének szakképzés céljára történő ideiglenes megváltoztatásának időszakára, de
 
 a) teljesen akkreditált egészségügyi szolgáltató esetében legfeljebb hat hónap időtartamra, ezen belül a törzsképzési időszakban legfeljebb három hónap időtartamra,
 
@@ -19,3 +19,5 @@ b) a szakorvosi szakképesítéssel rendelkező jelöltek ráépített szakképz
 c) a fogorvos szakon végzett jelöltek első szakképzése,
 
 d) a gyógyszerész szakon végzett jelöltek első szakképzése
+
+[^5]: Az 5. § (2) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.

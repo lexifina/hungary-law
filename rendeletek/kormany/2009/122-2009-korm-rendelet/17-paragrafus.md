@@ -10,8 +10,6 @@ c) a jelöltnek a b) pont szerinti kijelölt képzőhelyen töltött szakgyakorl
 
 (3) A (2) bekezdés szerinti szerződésben foglalt kötelezettségvállalás alól a munkáltató mentesül, ha a szakképzés képzési költségéhez nyújtott állami támogatás megvonására a jelölt hibájából kerül sor.
 
-(4) A rezidens a szakképzése képzési költségéhez nyújtott állami támogatás ellentételezéseként vállalja, hogy a szakképzési időszak alatt, valamint a szakképesítés megszerzése után legalább további 4 évig a munkáltatóval a szakképesítésének megfelelő, egészségügyi tevékenység végzésére irányuló jogviszonyban áll.
+(4)–(6)[^14]
 
-(5) A központi gyakornok a szakképzése képzési költségéhez nyújtott állami támogatás ellentételezéseként vállalja, hogy a szakképesítés megszerzése után legalább 4 évig a Magyar Köztársaság területén, államilag finanszírozott egészségügyi szolgáltatónál a szakképesítésének megfelelő, egészségügyi tevékenység végzésére irányuló jogviszonyban áll.
-
-(6) A (4) bekezdés szerinti kötelezettségnek a szakképzési időszak alatt történő megszegése esetén a rezidens a szakképzése képzési költségéhez nyújtott állami támogatás minisztérium részére történő megtérítésére akkor nem köteles, ha új munkáltatója vállalja a (4) bekezdés szerinti időtartam alatt a rezidens e rendeletben meghatározott feltételekkel történő foglalkoztatását.
+[^14]: A 17. § (4)–(6) bekezdését a 217/2010. (VII. 22.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.

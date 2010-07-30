@@ -14,4 +14,6 @@ c) a támogatott jelölt alkalmazásával teszik lehetővé egyes állami kötel
 
 (5) A minisztérium haladéktalanul tájékoztatja a felsőoktatási intézményeket a nyertes támogatás igénylési pályázatokról és a (6) bekezdés alapján meghatározott, a felsőoktatási intézmények által meghirdethető központi gyakornoki állásokról.
 
-(6) A miniszter által megállapított, meghirdethető központi gyakornoki állások száma nem haladhatja meg az adott évre vonatkozóan meghatározott rezidensi keretszám 10%-át.
+(6)[^12] A miniszter által megállapított, meghirdethető központi gyakornoki állások száma nem haladhatja meg az adott évre vonatkozóan meghatározott rezidensi keretszám 25%-át.
+
+[^12]: A 12. § (6) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.

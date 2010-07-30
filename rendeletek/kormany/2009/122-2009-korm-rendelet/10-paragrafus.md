@@ -1,5 +1,7 @@
 10. § (1) A bíráló bizottság a pályakövetési rendszer tapasztalatai, a munkaerő-piaci előrejelzések, a diplomás munkanélküliség helyzetének értékelése és a megelőző évben benyújtott jelölti jelentkezések száma alapján minden év november 15-éig javaslatot tesz a miniszternek azoknak a szakképesítéseknek a körére, amely szakképesítések hiányszakmának való minősítése indokolt, emellett adott évre vonatkozóan, valamint 3 évre előre a rezidensek szakmákra lebontott keretszámaira, és az egyes felsőoktatási intézmények vonatkozásában az általuk költségtérítéses képzésbe felvehető jelöltek keretszámára.
 
-(2) A miniszter minden év december 31-éig közzéteszi az (1) bekezdésben meghatározott, adott évre vonatkozó keretszámokat, a hiányszakmák körét, továbbá az 5. § (1), (3) és (4) bekezdésében foglalt támogatások igénylésére vonatkozó pályázati felhívását, valamint a képzési normatíva adott évre vonatkozó mértékét.
+(2)[^11] A miniszter minden év december 31-éig közzéteszi az (1) bekezdésben meghatározott, adott évre vonatkozó keretszámokat, a hiányszakmák körét, továbbá az 5. § (1), (3) és (4) bekezdésében foglalt támogatások igénylésére vonatkozó pályázati felhívását.
 
 (3) A miniszter az (1) bekezdésben foglaltakra, valamint a humánerőforrás-monitoring rendszer által szolgáltatott adatokra tekintettel évente közzéteszi az adott évet követő harmadik évre vonatkozó keretszámot. A miniszter az előre megállapított keretszámot adott évben indokolt esetben +/–10% eltéréssel módosíthatja.
+
+[^11]: A 10. § (2) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
