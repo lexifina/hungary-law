@@ -4,6 +4,6 @@
 
 (3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha az ingatlan-nyilvántartásban a kérelem tárgyát képező telket vagy telkeket érintően változtatási vagy telekalakítási tilalom van feljegyezve. Ebben az esetben a telekalakítási kérelmet – a szakhatóságok megkeresése nélkül – a földhivatalnak el kell utasítani.
 
-(4)[^43] A földhivatal a telekalakítás engedélyezése esetén a – 3. melléklet szerinti záradékkal ellátott – változási vázrajzot a határozathoz mellékelve küldi meg a kérelmező részére.
+(4)[^44] A földhivatal a telekalakítás engedélyezése esetén a – 3. melléklet szerinti záradékkal ellátott – változási vázrajzot a határozathoz mellékelve küldi meg a kérelmező részére.
 
-[^43]: A 17/C. § (4) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 17/C. § (4) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
