@@ -1,7 +1,0 @@
-5. § (1) Amennyiben a szállítmányt a Magyar Köztársaság területén bocsátják szabad forgalomba, a szállítmányért felelős gazdasági szereplőnek vagy képviselőjének a vámhivatal részére kell bemutatnia a vizsgálati jegyzőkönyvet, továbbá a beléptetést végző tagállam illetékes hatósága által kiállított hivatalos kísérőokmányt, amely tanúsítja, hogy a szállítmányon elvégezték a hatósági mintavételt és vizsgálatot, és amelyben feltüntetik a vizsgálat eredményét.
-
-(2) Amennyiben a szállítmány beléptetése és szabad forgalomba bocsátása is Magyarországon történik, úgy a vámhivatal megvizsgálja a vizsgálati jegyzőkönyv és a hivatalos kísérőokmány meglétét.
-
-(3) Amennyiben a szállítmány beléptetése nem Magyarországon történik, a szabad forgalomba bocsátása viszont igen, úgy a vámhivatal az R. 9. §-ának (2) bekezdése szerinti értesítéssel egyidejűleg a vizsgálati jegyzőkönyv és a hivatalos kísérőokmány másolatát is megküldi a vámhivatal helye szerint illetékes MgSzH területi szerv hatósági állatorvosa részére. Az állatorvos az értesítésre adott válaszában a vizsgálati jegyzőkönyv és a hivatalos kísérőokmány elfogadhatóságáról is tájékoztatja a vámhivatalt.
-
-(4) A vizsgálati jegyzőkönyv vagy a hivatalos kísérőokmány hiányában a szállítmány nem bocsátható szabad forgalomba, és a vámhivatal értesítése alapján az MgSzH-nak a vámhivatal helye szerint illetékes területi szerve dönt a szállítmány további sorsáról a külön jogszabályban foglaltak szerint.
