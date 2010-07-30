@@ -1,0 +1,40 @@
+# A Kormány 221/2010. (VII. 30.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 125. szám, 2010. július 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e5cb70499a0a7702b4589d454c933065fe0b2dc3/dokumentumok/19af3b8ad683c0ee725b3f6b40f8230f7353e595/letoltes)
+
+---
+
+A Kormány 221/2010. (VII. 30.) Korm. rendelete
+az Óvodai nevelés országos alapprogramjának kiadásáról szóló 137/1996. (VIII. 28.) Korm. rendelet
+módosításáról
+A Kormány a közoktatásról szóló 1993. évi LXXIX. törvény 94. § (3) bekezdés a) pontjában foglalt felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § Az Óvodai nevelés országos alapprogramjának kiadásáról szóló 137/1996. (VIII. 28.) Korm. rendelet (a továbbiakban:
+Rendelet) Melléklet II. GYERMEKKÉP, ÓVODAKÉP cím Gyermekkép alcím 2. pontja helyébe az 1. számú melléklet lép.
+2. § A Rendelet Melléklet II. GYERMEKKÉP, ÓVODAKÉP cím Óvodakép alcím 6. pontja helyébe a 2. számú melléklet lép.
+3. § A Rendelet a következő 3. §-sal egészül ki:
+„3. § (1) Az óvodáknak e rendelet mellékletének – az Óvodai nevelés országos alapprogramjának kiadásáról szóló
+137/1996. (VIII. 28.) Korm. rendelet módosításáról szóló 221/2010. (VII. 30.) Korm. rendelettel – módosított
+II. GYERMEKKÉP, ÓVODAKÉP cím Gyermekkép alcím 2. pontjában, valamint a II. GYERMEKKÉP, ÓVODAKÉP cím
+Óvodakép alcím 6. pontjában foglaltakra tekintettel felülvizsgált, és szükség szerint módosított nevelési programjukat
+először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+(2) E § 2011. szeptember 1-jén hatályát veszti.”
+4. § (1) E rendelet a kihirdetését követő napon lép hatályba.
+(2) E rendelet a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. számú melléklet a 221/2010. (VII. 30.) Korm. rendelethez
+[Melléklet a 137/1996. (VIII. 28.) Korm. rendelethez]
+„2. Az Alapprogram gyermekkép megrajzolásában az eltérő pedagógiai és pszichológiai irányzatok közös vonásait
+veszi alapul. Ezek szerint: a gyermek fejlődő személyiség, fejlődését genetikai adottságok, az érés sajátos
+törvényszerűségei, a spontán és tervszerűen alkalmazott környezeti hatások együttesen határozzák meg. E tényezők
+együttes hatásának következtében a gyermeknek sajátos, életkoronként (életkori szakaszonként) és egyénenként
+változó testi és lelki szükségletei vannak. A személyiség szabad kibontakoztatásában a gyermeket körülvevő személyi
+és tárgyi környezet szerepe meghatározó. Az óvodai nevelés gyermekközpontú, befogadó, ennek megfelelően
+a gyermeki személyiség kibontakoztatására törekszik, biztosítva minden gyermek számára az egyenlő hozzáférést.
+Nem ad helyet az előítéletek kibontakozásának sem társadalmi, sem nemi, sem egyéb értelemben.”
+2. számú melléklet a 221/2010. (VII. 30.) Korm. rendelethez
+[Melléklet a 137/1996. (VIII. 28.) Korm rendelethez]
+„6. A hazájukat elhagyni kényszerülő családok (a továbbiakban: migráns) gyermekeinek óvodai nevelésében
+biztosítani kell az önazonosság megőrzését, ápolását, erősítését, társadalmi integrálását, az emberi jogok és alapvető
+szabadságok védelmét.”
