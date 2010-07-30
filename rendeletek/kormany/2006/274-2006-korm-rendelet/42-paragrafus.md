@@ -14,7 +14,7 @@ f) folyamatosan figyelemmel kíséri a mezőgazdasági termelők által igénybe
 
 g) részt vesz a térségfejlesztési, vízgazdálkodási és környezetvédelmi feladatok ellátásában;
 
-h)[^78] információ adásával, a szükséges nyomtatványok biztosításával segíti az egyszerűsített foglalkoztatásról szóló 2009. évi CLII. törvény mezőgazdasági idénymunkára, valamint növénytermesztési idénymunkára vonatkozó rendelkezéseinek mezőgazdasági termelőnek minősülő munkáltatók által történő gyakorlati alkalmazását;
+h)[^84] információ adásával, a szükséges nyomtatványok biztosításával segíti az egyszerűsített foglalkoztatásról szóló 2009. évi CLII. törvény mezőgazdasági idénymunkára, valamint növénytermesztési idénymunkára vonatkozó rendelkezéseinek mezőgazdasági termelőnek minősülő munkáltatók által történő gyakorlati alkalmazását;
 
 i) ellátja a termésbecsléssel, állapotminősítéssel, valamint az ezekhez kapcsolódó nyilvántartások vezetésével összefüggő feladatokat;
 
@@ -26,4 +26,4 @@ l) közreműködik a kábítószer előállítására alkalmas növények termes
 
 m) a tagállami állampolgárok termőföld tulajdonszerzésével kapcsolatosan környezettanulmányt készít, amelynek alapján igazolást ad ki a tagállami állampolgárok mezőgazdasági tevékenységének folytatásáról.
 
-[^78]: A 42. § h) pontját a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés g) pontja hatályon kívül helyezte, újonnan a 88/2010. (III. 26.) Korm. rendelet 15. §-a iktatta be.
+[^84]: A 42. § h) pontját a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés g) pontja hatályon kívül helyezte, újonnan a 88/2010. (III. 26.) Korm. rendelet 15. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## Kijelölő rendelkezések
 
-## 10. §[^18] Az MgSzH-t – ha kormányrendelet eltérően nem rendelkezik – a Kormány
+## 10. §[^19] Az MgSzH-t – ha kormányrendelet eltérően nem rendelkezik – a Kormány
 
 a) növénytermesztési hatóságként,
 
@@ -22,10 +22,10 @@ h) borászati hatóságként,
 
 i) mezőgazdasági igazgatási szervként,
 
-j)[^19] pálinkaellenőrző hatóságként,
+j)[^20] pálinkaellenőrző hatóságként,
 
-k)[^20] agrárkár-megállapító szervként
+k)[^21] agrárkár-megállapító szervként
 
-[^18]: A 10. § a 218/2008. (VIII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^19]: A 10. § j) pontját a 300/2008. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^20]: A 10. § k) pontját a 18/2009. (I. 30.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 10. § a 218/2008. (VIII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: A 10. § j) pontját a 300/2008. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 10. § k) pontját a 18/2009. (I. 30.) Korm. rendelet 1. §-a iktatta be.

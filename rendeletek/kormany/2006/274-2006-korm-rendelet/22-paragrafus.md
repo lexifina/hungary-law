@@ -1,4 +1,4 @@
-22. §[^47] (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) tekintetében a Kormány – ha kormányrendelet eltérően nem rendelkezik – erdészeti hatóságként az MgSzH területi szervét jelöli ki.
+22. §[^53] (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) tekintetében a Kormány – ha kormányrendelet eltérően nem rendelkezik – erdészeti hatóságként az MgSzH területi szervét jelöli ki.
 
 (2) Az Evt. 32. §-ának (5) bekezdésében foglaltak tekintetében a Kormány erdészeti hatóságként a Központot jelöli ki.
 
@@ -44,11 +44,7 @@ h) az erdőt érintően közreműködik a területfejlesztési, területrendezé
 
 i) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
 
-(6)[^48] A Veszprém Megyei Mezőgazdasági Szakigazgatási Hivatal igazgatási feladatai körében országos illetékességgel
-
-a) koordinálja az Evt. 37. § (2) bekezdése szerinti közjóléti fejlesztési tervek készítését;
-
-b) végzi a honvédelmi rendeltetésű erdőkkel kapcsolatos hatósági jogkörrel járó feladatokat.
+(6)[^54] A Veszprém Megyei Mezőgazdasági Szakigazgatási Hivatal igazgatási feladatai körében országos illetékességgel koordinálja az Evt. 37. §-ának (2) bekezdése szerinti közjóléti fejlesztési tervek készítését.
 
 (7) A Központ igazgatási feladatai körében
 
@@ -74,5 +70,5 @@ g) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe ut
 
 (11) Az erdészeti hatósági ügyekben az MgSzH területi szerveinek illetékességi területét a 3. számú melléklet tartalmazza.
 
-[^47]: A 22. § a 145/2009. (VII. 10.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^48]: A 22. § (6) bekezdése a 145/2009. (VII. 10.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 28. § (4) bekezdése alapján 2010. február 15-én lépett hatályba azzal, hogy rendelkezéseit az ezt követően indult eljárásokban kell alkalmazni.
+[^53]: A 22. § a 145/2009. (VII. 10.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^54]: A 22. § (6) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2010. július 30-át követően indult ügyekben kell alkalmazni.

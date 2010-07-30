@@ -1,20 +1,18 @@
-## Az erdészeti hatósági eljárásokban közreműködő szakhatóságok[^104]
+## Az erdészeti hatósági eljárásokban közreműködő szakhatóságok[^110]
 
-43/I. §[^105] (1) A Kormány a jogszabályból, az ingatlan-nyilvántartásból vagy a Kulturális Örökségvédelmi Hivatalról szóló 308/2006. (XII. 23.) Korm. rendelet 1. § (6) bekezdése szerinti nyilvántartásból megismerhető védett régészeti lelőhelyen, védetté nyilvánított műemlék területén és a védetté nyilvánított műemléki területen
+43/I. §[^111] (1)[^112] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a Kulturális Örökségvédelmi Hivatalról szóló 308/2006. (XII. 23.) Korm. rendelet 1. §-ának (6) bekezdése szerinti – a kulturális örökségvédelemért felelős miniszter által a Központ részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt védett régészeti lelőhelyen, védetté nyilvánított műemlék területén és a védetté nyilvánított műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló eljárásban,
 
-b) az erdőterv megállapítási és módosítási eljárásban,
+b) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
 
-c) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
+c) az erdőterület igénybevételének engedélyezésére irányuló eljárásban,
 
-d) az erdőterület igénybevételének engedélyezésére irányuló eljárásban,
+d) az engedély nélkül vagy engedélytől eltérően telepített faállomány fennmaradásának engedélyezésére irányuló eljárásban, valamint
 
-e) az engedély nélkül vagy engedélytől eltérően telepített faállomány fennmaradásának engedélyezésére irányuló eljárásban, valamint
+e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban,
 
-f) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban,
-
-## – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a Kulturális Örökségvédelmi Hivatal területi szervét, másodfokú eljárásban a Kulturális Örökségvédelmi Hivatal központi szervét szakhatóságként jelöli ki.
+– annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a Kulturális Örökségvédelmi Hivatal (továbbiakban: KÖH) területi szervét, másodfokú eljárásban a KÖH központi szervét szakhatóságként jelöli ki.
 
 (2) A Kormány védett természeti területen található erdő esetén
 
@@ -106,5 +104,6 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó eljárásb
 
 g) cserjék kivágásának engedélyezése iránti eljárásban,
 
-[^104]: A 43/I. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^105]: A 43/I. §-t a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 145/2009. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^110]: A 43/I. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^111]: A 43/I. §-t a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 145/2009. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^112]: A 43/I. § (1) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2010. július 30-át követően indult ügyekben kell alkalmazni.

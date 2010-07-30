@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-274-20-
 | 2010-04-01 | 2006-274-20-22.24 | 145/2009. (VII. 10.) Korm. rendelet |
 | 2010-04-02 | 2006-274-20-22.25 | 26/2010. (II. 12.) Korm. rendelet |
 | 2010-07-01 | 2006-274-20-22.26 | 362/2008. (XII. 31.) Korm. rendelet |
+| 2010-07-30 | 2006-274-20-22.27 | 219/2010. (VII. 27.) Korm. rendelet |

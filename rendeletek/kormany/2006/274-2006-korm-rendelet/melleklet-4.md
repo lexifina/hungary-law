@@ -2,7 +2,7 @@
 
 ## az erdészeti hatósági ügyekben
 
-## 1. Fővárosi és Pest Megyei MgSzH Erdészeti Igazgatósága
+## 1.[^122] Fővárosi és Pest Megyei MgSzH Erdészeti Igazgatósága
 
 ## Erdőtervezési körzet neve
 
@@ -20,23 +20,25 @@
 
 ## 7. Gerecse-Vértesi
 
-## 8. Gödöllői-dombság
+## 8. Gödöllői
 
-## 9. Mezőföldi
+## 9. Gödöllői-dombság
 
-## 10. Mezőföld-Sárrét
+## 10. Mezőföldi
 
-## 11. Nagykőrösi
+## 11. Mezőföld-Sárrét
 
-## 12. Pilisi-Visegrádi
+## 12. Nagykőrösi
 
-## 13. Pilismaróti
+## 13. Pilisi-Visegrádi
 
-## 14. Pusztavacsi
+## 14. Pilismaróti
 
-## 15. Súri-Bakonyaljai
+## 15. Pusztavacsi
 
-## 16. Szentendrei
+## 16. Súri-Bakonyaljai
+
+## 17. Szentendrei
 
 ## 2. Veszprém Megyei MgSzH Erdészeti Igazgatósága
 
@@ -294,7 +296,7 @@
 
 ## 20. Tornai
 
-## 10. Heves Megyei MgSzH Erdészeti Igazgatósága
+## 10.[^123] Heves Megyei MgSzH Erdészeti Igazgatósága
 
 ## Erdőtervezési körzet neve
 
@@ -306,42 +308,42 @@
 
 ## 4. Felsőtárkányi
 
-## 5. Gödöllői
+## 5. Gyöngyössolymosi
 
-## 6. Gyöngyössolymosi
+## 6. Hatvan-Hevesi
 
-## 7. Hatvan-Hevesi
+## 7. Kelet-Cserháti
 
-## 8. Kelet-Cserháti
+## 8. Kemencei
 
-## 9. Kemencei
+## 9. Kiskörei
 
-## 10. Kiskörei
+## 10. Nagybátonyi
 
-## 11. Nagybátonyi
+## 11. Nagymarosi
 
-## 12. Nagymarosi
+## 12. Nyugat-Borsodi
 
-## 13. Nyugat-Borsodi
+## 13. Parádi
 
-## 14. Parádi
+## 14. Pétervásárai
 
-## 15. Pétervásárai
+## 15. Romhányi
 
-## 16. Romhányi
+## 16. Salgótarjáni
 
-## 17. Salgótarjáni
+## 17. Szécsényi
 
-## 18. Szécsényi
+## 18. Szilvásváradi
 
-## 19. Szilvásváradi
+## 19. Tarnaleleszi
 
-## 20. Tarnaleleszi
+## 20. Váci
 
-## 21. Váci
+## 21. Verpeléti
 
-## 22. Verpeléti
+4. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^124]
 
-4. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^115]
-
-[^115]: A 4. számú mellékletet a 218/2008. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^122]: A 3. számú melléklet 1. pontja a 219/2010. (VII. 27.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2010. július 30-át követően indult ügyekben kell alkalmazni.
+[^123]: A 3. számú melléklet 10. pontja a 219/2010. (VII. 27.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2010. július 30-át követően indult ügyekben kell alkalmazni.
+[^124]: A 4. számú mellékletet a 218/2008. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
