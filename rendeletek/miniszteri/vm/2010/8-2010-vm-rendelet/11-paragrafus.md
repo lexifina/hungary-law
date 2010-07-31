@@ -1,0 +1,3 @@
+## 10. § Az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2010. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 34/2010. (IV. 9.) FVM rendelet (a továbbiakban: R1.) 6. § (1) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(1) Az elháríthatatlan külső ok (vis maior) és a kivételes körülmények eseteinek az 5. § (2) bekezdés szerinti elektronikus bejelentésével egyidejűleg a vis maior eseményt igazoló dokumentumokat papír alapon be kell nyújtani az MVH-hoz kivéve azokban az esetekben, amikor az MgSzH szakhatósági állásfoglalást ad ki.”
