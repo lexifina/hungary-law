@@ -1,10 +1,10 @@
-## [Az elektronikus anyakönyvi rendszerben az adatokat kezelő szerv kijelölése][^17]
+## [Az elektronikus anyakönyvi rendszerben az adatokat kezelő szerv kijelölése][^13]
 
-## [12/B. §[^18] Az elektronikus anyakönyvi rendszerben az adatokat kezelő szervként a Kormány a KEKKH-t jelöli ki.]
+## [12/B. §[^14] Az elektronikus anyakönyvi rendszerben az adatokat kezelő szervként a Kormány a KEKKH-t jelöli ki.]
 
 ## Frekvenciagazdálkodással összefüggő feladatok
 
-13. § (1)[^19] A nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatok keretében a KEKKH ellátja – a szervezeti egységeként működő Kormányzati Frekvenciagazdálkodási Hatóság útján – a nem polgári célú frekvenciagazdálkodás feladatait ellátó hatóság szervezetéről, valamint a nem polgári célú frekvenciagazdálkodás rendjéről szóló kormányrendeletben megállapított feladatokat, ezen belül:
+13. § (1)[^15] A nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatok keretében a KEKKH ellátja – a szervezeti egységeként működő Kormányzati Frekvenciagazdálkodási Hatóság útján – a nem polgári célú frekvenciagazdálkodás feladatait ellátó hatóság szervezetéről, valamint a nem polgári célú frekvenciagazdálkodás rendjéről szóló kormányrendeletben megállapított feladatokat, ezen belül:
 
 a) lefolytatja a nem polgári célú frekvenciakijelölési eljárásokat,
 
@@ -26,6 +26,6 @@ b) a frekvenciasávok nem polgári, polgári és közös célú megosztásában,
 
 c) a frekvenciatartomány igénybevételének összehangolásában, és a frekvenciasávok nemzeti felosztása kidolgozásában.
 
-[^17]: A 12/B. §-t megelőző alcímet a 105/2010. (IV. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be. [E módosító rendelet 3. §-a alapján 2011. január 1-jén lép hatályba.]
-[^18]: A 12/B. §-t a 105/2010. (IV. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be. [E módosító rendelet 3. §-a alapján 2011. január 1-jén lép hatályba.]
-[^19]: A 13. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 494. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 12/B. §-t megelőző alcímet a 105/2010. (IV. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be. [A 267/2010. (XII. 3.) Korm. rendelet 45. § (1) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^14]: A 12/B. §-t a 105/2010. (IV. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be. [A 267/2010. (XII. 3.) Korm. rendelet 45. § (1) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^15]: A 13. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 494. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

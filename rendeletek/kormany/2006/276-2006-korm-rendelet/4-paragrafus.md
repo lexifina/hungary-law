@@ -2,35 +2,27 @@
 
 4. § (1) A miniszter a KEKKH költségvetését – az e rendeletben meghatározott hatáskörét érintő feladatok tekintetében – a (2) bekezdés szerinti irányítási jogkört gyakorló miniszter véleményének kikérésével készíti elő.
 
-(2)[^3] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. LVII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
+(2)[^3] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
 
-a) személyi adat- és lakcím-nyilvántartási,
+a) útiokmány-nyilvántartási ügycsoportja tekintetében a külföldre utazás szabályozásáért felelős miniszter,
 
-b) útiokmány-nyilvántartási,
+b) bűnügyi nyilvántartási rendszer adatkezelőként történő vezetésével, valamint az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása vezetésével összefüggő ügycsoportja tekintetében a rendészetért felelős miniszter,
 
-c)[^4] bűnügyi nyilvántartási rendszer adatkezelőként történő vezetésével, valamint az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása vezetésével összefüggő
+c) a közúti közlekedési nyilvántartási és igazgatási ügycsoportja esetében – a d) pontban foglalt kivétellel – a közlekedésért felelős miniszter,
 
-d)[^5] egyéni vállalkozói nyilvántartási,
+d) a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, valamint a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoportja tekintetében a közlekedésrendészetért felelős miniszter,
 
-e) magyar igazolvány nyilvántartási,
+e) szabálysértési nyilvántartás vezetésével összefüggő ügycsoportja tekintetében a szabálysértési szabályozásért felelős miniszter
 
-f)[^6] közúti közlekedési nyilvántartási és igazgatási
+gyakorolja.
 
-g)[^7] szabálysértési nyilvántartás vezetésével összefüggő
+(3)[^4]
 
-## ügycsoportjai tekintetében az igazságügyért felelős miniszter gyakorolja.
+[(3a)[^5] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH elektronikus anyakönyvi nyilvántartással összefüggő ügycsoportjai tekintetében az anyakönyvi ügyekért felelős miniszter gyakorolja.]
 
-(3)[^8] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. §-ának (3) bekezdésében meghatározott hatásköröket a KEKKH jogszabályban meghatározott választási ügycsoportjai tekintetében a helyi önkormányzatokért felelős miniszter gyakorolja.
+(4)[^6] A KEKKH hatósági eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-[(3a)[^9] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH elektronikus anyakönyvi nyilvántartással összefüggő ügycsoportjai tekintetében az anyakönyvi ügyekért felelős miniszter gyakorolja.]
-
-(4)[^10] A KEKKH hatósági eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
-
-[^3]: A 4. § (2) bekezdés záró szövegrésze a 278/2008. (XI. 28.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^4]: A 4. § (2) bekezdés c) pontja a 131/2009. (VI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^5]: A 4. § (2) bekezdés d) pontja a 308/2009. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^6]: A 4. § (2) bekezdésének f) pontja a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdésének g) pontját a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte, újonnan az 1/2010. (I. 8.) Korm. rendelet 2. §-a iktatta be.
-[^8]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 278/2008. (XI. 28.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^9]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be. [E módosító rendelet 3. §-a alapján 2011. január 1-jén lép hatályba.]
-[^10]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^3]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
+[^5]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be. [A 267/2010. (XII. 3.) Korm. rendelet 45. § (1) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^6]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
