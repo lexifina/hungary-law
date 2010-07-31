@@ -1,6 +1,6 @@
-4. §[^2] (1) Ha jogszabály eltérően nem rendelkezik, a vis maior esemény bekövetkeztével kapcsolatos bejelentést az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani ahhoz az MVH kirendeltséghez, amelynél az érintett intézkedésben való részvételre vonatkozó kérelem benyújtásra került. Ha a kérelem több olyan intézkedést érint, amelyek esetében a benyújtás helye eltér, a bejelentést az MVH Központhoz kell benyújtani.
+4. §[^4] (1)[^5] Ha jogszabály eltérően nem rendelkezik, a vis maior esemény bekövetkeztével kapcsolatos bejelentést az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani ahhoz az MVH kirendeltséghez vagy igazgatósághoz, amelynél az érintett intézkedésben való részvételre vonatkozó kérelem benyújtásra került. Ha a kérelem több olyan intézkedést érint, amelyek esetében a benyújtás helye eltér, a bejelentést az MVH Központhoz kell benyújtani.
 
-(2) Az (1) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+(2)[^6] Az (1) bekezdés szerinti formanyomtatványt a következő tartalommal kell az MVH-nak rendszeresíteni:
 
 a) ügyfél-azonosítási adatok, valamint a kapcsolattartó azonosító adatai,
 
@@ -12,17 +12,17 @@ d) az ügyfél aláírása.
 
 (3) Jogszabály eltérő rendelkezése hiányában
 
-a) a bejelentést a vis maior esemény bekövetkezésétől számított harminc napon belül, az ügyfél elhalálozása esetén a halotti anyakönyvi kivonat kézhezvételét követő harminc napon belül, ha a vis maior esemény az ügyfelet a bejelentésben akadályozza, attól az időponttól számított harminc napon belül, amikor az ügyfél olyan helyzetbe kerül, amely lehetővé teszi, de legkésőbb a vis maior bekövetkezésétől számított hat hónapon belül kell benyújtani,
+a)[^7] a bejelentést a vis maior esemény bekövetkezésétől számított tíz munkanapon belül, az ügyfél elhalálozása esetén a halotti anyakönyvi kivonat kézhezvételét követő tíz munkanapon belül, ha a vis maior esemény az ügyfelet a bejelentésben akadályozza, attól az időponttól számított tíz munkanapon belül, amikor az ügyfél olyan helyzetbe kerül, amely lehetővé teszi, de legkésőbb a vis maior bekövetkezésétől számított hat hónapon belül kell benyújtani,
 
 b) a bejelentésben fel kell tüntetni az intézkedések megnevezését, amellyel kapcsolatban az ügyfél a vis maior esetet bejelenti, vagy annak figyelembevételét kéri,
 
 c) a bejelentéshez mellékelni kell
 
-ca)[^3] a vis maior bekövetkezését tanúsító igazolást (hatósági igazolás, halotti anyakönyvi kivonat, egyéb hitelt érdemlő igazolás) vagy
+ca)[^8] a vis maior bekövetkezését tanúsító igazolást (hatósági igazolás, halotti anyakönyvi kivonat, egyéb hitelt érdemlő igazolás) vagy
 
 cb) az igazolás kiállítására hatáskörrel rendelkező hatóság, szerv által kiadott nyilatkozatot, amely tanúsítja, hogy az ügyfél a vonatkozó igazolás kiadása iránt a kérelmét benyújtotta.
 
-(4) A (3) bekezdés c) pont cb) alpontja szerinti esetben a vis maior bekövetkezését tanúsító igazolást annak közlésétől számított tizenöt napon belül, az MVH által rendszeresített, az MVH honlapján közzétett kiegészítő formanyomtatvánnyal együtt kell benyújtani az (1) bekezdés szerint illetékes kirendeltséghez.
+(4)[^9] A (3) bekezdés c) pont cb) alpontja szerinti esetben a vis maior bekövetkezését tanúsító igazolást annak közlésétől számított tíz munkanapon belül, az MVH által rendszeresített, az MVH honlapján közzétett kiegészítő formanyomtatvánnyal együtt kell benyújtani az (1) bekezdésben meghatározottak szerint.
 
 (5) A (4) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
@@ -32,5 +32,9 @@ b) a csatolt igazolás típusának megjelölése,
 
 c) az ügyfél aláírása.
 
-[^2]: A 4. § a 23/2010. (III. 16.) FVM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (3) bekezdés c) pont ca) alpontja a 219/2010. (VII. 27.) Korm. rendelet 13. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 4. § a 23/2010. (III. 16.) FVM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 8/2010. (VII. 30.) VM rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd a 6. §-t.
+[^6]: A 4. § (2) bekezdés nyitó szövegrésze a 8/2010. (VII. 30.) VM rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd a 6. §-t.
+[^7]: A 4. § (3) bekezdés a) pontja a 8/2010. (VII. 30.) VM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd a 7. §-t.
+[^8]: A 4. § (3) bekezdés c) pont ca) alpontja a 219/2010. (VII. 27.) Korm. rendelet 13. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 4. § (4) bekezdése a 8/2010. (VII. 30.) VM rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd a 7. §-t.
