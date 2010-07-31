@@ -1,3 +1,3 @@
-## 20–21. §[^13]
+## 20–21. §[^14]
 
-[^13]: A 20–21. §-t a 23. § (1) bekezdése hatályon kívül helyezte.
+[^14]: A 20–21. §-t a 23. § (1) bekezdése hatályon kívül helyezte.
