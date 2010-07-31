@@ -22,4 +22,11 @@ i) a sportinformációs rendszerek kialakításával, működtetésével, moduls
 
 j) – a NUSI útján – az MPB és az országos sportági szakszövetség külön jogszabályban meghatározott olimpiai központban való edzőtáborozását,
 
-k) a versenysporttal összefüggő egyéb feladatok ellátását.
+k) a versenysporttal összefüggő egyéb feladatok ellátását,
+
+l)[^1] a MOB útján az olimpiai kvalifikációs versenyekre történő felkészülést és részvételt, valamint az ezekkel összefüggő költségeket,
+
+m)[^2] a MOB útján – a g) pontban meghatározottak szerint támogatásban részesülő sportszakemberek kivételével – az olimpiai kvalifikációs versenyekre az egyes válogatott keretek felkészítését végző sportszakemberek alkalmazását.
+
+[^1]: A 22. § l) pontját a 3/2010. (VII.) NEFMI rendelet 1. §-a iktatta be.
+[^2]: A 22. § m) pontját a 3/2010. (VII.) NEFMI rendelet 1. §-a iktatta be.

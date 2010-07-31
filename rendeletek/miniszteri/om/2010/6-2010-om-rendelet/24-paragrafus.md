@@ -67,3 +67,7 @@ bf) egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállí
 (8) A 22. § a) pontja alapján a miniszter az olimpiai sportágak felnőtt és a felnőtt alatti két utánpótlás-korosztályának nemzetközi eredményessége alapján – az országos sportági szakszövetségnek a felkészülés szakmai feladataira vonatkozó javaslata figyelembevételével – támogatást nyújt olimpiai kerettagok felkészítését végző sportszervezetek, jogi személyiséggel rendelkező szakosztályok, sportegyesületi műhelyek részére.
 
 (9) A 22. § a) pontja alapján nyújtott támogatást az országos sportági szakszövetség tagszervezeteinek továbbadhatja.
+
+(10)[^3] A 22. § l) pontja alapján nyújtott támogatást a MOB országos sportági szakszövetségek, sportszervezetek, ezek jogi személyiséggel rendelkező szakosztálya, valamint szervezeti egysége részére továbbadhatja.
+
+[^3]: A 24. § (10) bekezdését a 3/2010. (VII.) NEFMI rendelet 2. §-a iktatta be.
