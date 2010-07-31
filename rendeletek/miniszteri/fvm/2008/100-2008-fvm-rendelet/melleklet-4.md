@@ -38,6 +38,6 @@
 
 ## * A bortermés kiszámításának módja: a 2003/2004–2007/2008. borpiaci évek termésmennyiségei közül ki kell választani azt a két évet, amelyben a termésmennyiség a legmagasabb, illetve a legalacsonyabb volt. E két év termésmennyisége NEM vehető figyelembe. A megjelölt öt borpiaci évből így fennmaradó három év teljes – borban kifejezett – termésmennyiségét össze kell adni és a kapott értéket kell a rovatba beírni. Amennyiben a három borpiaci év valamelyikében a termésmennyiség csak szőlőben vagy mustban határozható meg, úgy azt a 4. § (2), illetve (3) bekezdései szerint kell bormennyiségre átszámítani. A bormennyiség szőlőből számítva a szőlőmennyiség 70%-a [szőlőmennyiség mázsában (q) kifejezve és szorozva 0,7-tel = bor hl], míg mustból számítva a mustmennyiség 95%-a [mustmennyiség hektoliterben (hl) kifejezve és szorozva 0,95-tel = bor hl].
 
-4. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^42]
+4. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^43]
 
-[^42]: A 4. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^43]: A 4. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.

@@ -36,6 +36,6 @@
 
 ## * A megfelelő jogviszonyt kérjük aláhúzni!
 
-3. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^41]
+3. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^42]
 
-[^41]: A 3. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^42]: A 3. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
