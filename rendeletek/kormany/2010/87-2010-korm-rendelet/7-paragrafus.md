@@ -1,3 +1,0 @@
-## „3. § (1) Azok a munkáltatók, amelyek nem tartanak fenn szolgálatot, továbbá a regionális munkaügyi központok, a települési önkormányzatok és a szakképző intézmények a jogszabályban meghatározott feladatok elvégzése ellenében – a díj mértékére vonatkozó jogszabályi előírás vagy a szolgáltatást nyújtóval kötött eltérő megállapodásuk hiányában – az 1. mellékletben meghatározott ajánlott térítési díjat fizetik a szolgáltatást nyújtónak.
-
-## (2) A foglalkoztathatósági szakvéleményezés díjtételét a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló jogszabály határozza meg.”
