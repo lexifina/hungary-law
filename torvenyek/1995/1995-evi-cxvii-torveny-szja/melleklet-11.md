@@ -639,5 +639,3 @@ b) az 1. pont szerinti üzemanyag-fogyasztás,
 c) számla szerinti egyéb költség, amennyiben azok a bérleti szerződés alapján a bérbevevőt terhelik.
 
 8. A személygépkocsi bérleti vagy lízing díja címén a költségként figyelembe vehető összeg több személygépkocsi esetén sem haladhatja meg a vállalkozói bevétel 1 százalékát, egyébként ilyen címen az egyéni vállalkozó költséget nem számolhat el. Az utóbbi rendelkezés alól kivételt képeznek az 1. pontban említett személygépkocsik, amelyek esetében a bérleti díj, illetőleg a vonatkozó rendelkezés szerint a lízing díja elszámolható. A nem saját tulajdonú személygépkocsi üzemi célú használata esetén elszámolható az üzemi használatra eső
-
-a) 1. pont szerinti üzemanyag-fogyasztás,
