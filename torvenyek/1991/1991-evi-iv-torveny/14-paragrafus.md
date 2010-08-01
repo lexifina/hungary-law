@@ -42,9 +42,9 @@ adható.
 
 (7)
 
-(8) Az alkalmi foglalkoztatásnak minősülő munkaviszonyt létesített álláskereső személy részére keresetpótló juttatás akkor állapítható meg, ha kötelezettséget vállal arra, hogy az egyszerűsített foglalkoztatását az állami foglalkoztatási szervnek a foglalkoztatást követő legkésőbb harmadik munkanapon bejelenti.
+(8)
 
-(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget, vagy alkalmi foglalkoztatásnak minősülő jogviszonyban állt.
+(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget.
 
 (10) A (8) bekezdésben meghatározott ellátást, illetve támogatást – erről szóló külön határozat nélkül – a mulasztás, illetve a munkavégzés napjára járó keresetpótló juttatás összegével csökkentett összegben kell folyósítani.
 

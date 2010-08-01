@@ -35,3 +35,5 @@ c) saját részére magánerőből lakás építése [Mt. 140. § (1) bek.]
 miatt kerül sor.
 
 (5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség (ideértve a közhasznú foglalkoztatást, valamint a külön jogszabályban meghatározott közmunkát és a közcélú foglalkoztatást is) felajánlható.
+
+(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.

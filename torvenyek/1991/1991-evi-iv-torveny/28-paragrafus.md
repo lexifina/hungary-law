@@ -8,7 +8,7 @@ b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
 
 c) rokkantsági, baleseti rokkantsági nyugdíjra válik jogosulttá,
 
-d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdésének d) pontjában foglaltakat,
+d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatási jogviszonyban foglalkoztatottakat,
 
 e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
 
