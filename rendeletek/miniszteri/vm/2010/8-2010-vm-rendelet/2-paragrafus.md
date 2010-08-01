@@ -1,3 +1,0 @@
-## 1. § Az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § E rendelet hatálya kiterjed a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Mezőgazdasági Garancia Alapból, az Európai Halászati Alapból, valamint a nemzeti hatáskörben finanszírozott intézkedésekre.”

@@ -1,3 +1,0 @@
-## 3. § Az R. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az (1) bekezdés a)–c), e) és h)–i) pontokban meghatározott eseteket az MVH csak akkor fogadhatja el, ha azokat az ügyfél vagy annak örököse hatósági igazolással vagy más hitelt érdemlő módon tudja bizonyítani. Amennyiben a vis maior esemény az (1) bekezdés d), f) vagy g) pontjában meghatározott esemény folytán alakult ki, akkor a Mezőgazdasági és Vidékfejlesztési Hivatalról szóló 256/2007. (X. 4.) Korm. rendelet 7/B. § (1) bekezdésében foglaltak szerint a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) szakhatósági állásfoglalást ad ki.
