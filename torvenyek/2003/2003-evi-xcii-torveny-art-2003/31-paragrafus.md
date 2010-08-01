@@ -93,3 +93,5 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 (13) Az ellenőrzés megkezdését követően a vizsgálat alá vont adó- és költségvetési támogatás vonatkozásában a be nem nyújtott adóbevallás nem pótolható.
 
 (14) Az adóbevallást, illetőleg az adóbevallással egyenértékű nyilatkozatot adótanácsadó, adószakértő, okleveles adószakértő ellenjegyezheti. Az ellenjegyzett hibás adóbevallás, illetőleg adóbevallással egyenértékű nyilatkozat esetén a mulasztási bírságot az adóhatóság az adótanácsadó, adószakértő, okleveles adószakértő terhére állapítja meg.
+
+(15) Az a munkáltató, amely (aki) a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, a 31. § (2) bekezdése szerinti adatokból kizárólag a következő adatok megadására köteles: a munkáltató adóazonosító száma, a magánszemély neve, adóazonosító jele, a magánszemély nyugdíjas státusza, a magánnyugdíjpénztár azonosító kódja, valamint a 27. pont szerinti adatok.

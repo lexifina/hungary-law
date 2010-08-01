@@ -91,5 +91,3 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 13. a Lengyel Köztársaság esetében: -;
 
 14. a Lett Köztársaság esetében: -;
-
-15. a Litván Köztársaság esetében: -;
