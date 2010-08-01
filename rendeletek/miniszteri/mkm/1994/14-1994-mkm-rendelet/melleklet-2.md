@@ -26,7 +26,7 @@
 
 ## I. Pedagógusok
 
-## 1.[^125] Gyógypedagógus (konduktor, terapeuta): 3
+## 1.[^6] Gyógypedagógus (konduktor, terapeuta): 3
 
 ## A tanulási képességet vizsgáló szakértői és rehabilitációs bizottságoknál a három főből egy fő logopédusi szakképesítéssel
 
@@ -34,7 +34,7 @@
 
 ## 3. Pedagógus 1
 
-## 4.[^126] Ha az egy héten ellátott gyermekek, tanulók létszáma egy hónap átlagában meghaladja a harmincat, minden megkezdett harminc tanuló után további 1-1
+## 4.[^7] Ha az egy héten ellátott gyermekek, tanulók létszáma egy hónap átlagában meghaladja a harmincat, minden megkezdett harminc tanuló után további 1-1
 
 ## II. Nevelő-oktató munkát segítő alkalmazottak
 
@@ -50,13 +50,13 @@
 
 ## 3. Az 1–2. pontban meghatározott létszámon felül, ha az egy héten ellátott gyermekek, tanulók száma a tizet meghaladja, minden megkezdett további tíz gyermek, tanuló után, további 1–1
 
-## II.[^127] Nevelő-oktató munkát segítő alkalmazottak
+## II.[^8] Nevelő-oktató munkát segítő alkalmazottak
 
 ## Szakorvos 1
 
 ## Gyógytornász 1
 
-## III.[^128]
+## III.[^9]
 
 ## Nevelési tanácsadó
 
@@ -70,7 +70,7 @@
 
 ## 4. Az 1–2. pontban meghatározott létszámon felül, ha az egy héten ellátott gyermekek, tanulók létszáma egy hónap átlagában a huszat meghaladja, minden megkezdett harminc gyermek, tanuló után további 1-1
 
-## II.[^129] Nevelő-oktató munkát segítő alkalmazottak
+## II.[^10] Nevelő-oktató munkát segítő alkalmazottak
 
 ## 1. Gyermekszakorvos vagy gyermekpszichiáter 1
 
@@ -78,9 +78,9 @@
 
 ## 3. Családsegítő 1
 
-## III.[^130]
+## III.[^11]
 
-## Logopédiai intézet[^131]
+## Logopédiai intézet[^12]
 
 ## I. Pedagógusok
 
@@ -122,7 +122,7 @@
 
 ## 3. Gyermekfelügyelő 1
 
-## Fejlesztő iskolai oktatás[^132]
+## Fejlesztő iskolai oktatás[^13]
 
 ## Fejlesztő iskolai csoportonként:
 
@@ -152,13 +152,13 @@
 
 ## Az intézményben a megoldandó feladatoktól függően, más munkakörben is lehet alkalmazottat foglalkoztatni.
 
-2. számú melléklet a 14/1994. (VI. 24.) MKM rendelethez
+2–3. számú melléklet a 14/1994. (VI. 24.) MKM rendelethez
 
-[^125]: Az 1. számú melléklet „PEDAGÓGUSOK ÉS A NEVELŐ-OKTATÓ MUNKÁT SEGÍTŐ MÁS ALKALMAZOTTAK” címet követő „Szakértői és rehabilitációs bizottság” alcímének I. 1. pontja a 19/2004. (VI. 14.) OM rendelet 20. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (4) bekezdése alapján a tanulási képességet vizsgáló szakértői és rehabilitációs bizottságoknál a logopédiai szakképesítéssel rendelkezők alkalmazására vonatkozó előírás 2006. szeptember 1-jétől lép hatályba.
-[^126]: A 4. pont a 4/2001. (I. 26.) OM rendelet 24. §-ának (2) bekezdés a) pontja szerint módosított szöveg.
-[^127]: A 29/2001. (VIII. 31.) OM rendelet 2. §-a megállapította.
-[^128]: Az 1. számú melléklete ,,A pedagógiai szakszolgálat feladatait ellátó intézményekben kötelezően foglalkoztatottak létszáma'' cím ,,Gyógypedagógiai szolgáltató központ'' III. részét a 29/2001. (VIII. 31.) OM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
-[^129]: A 29/2001. (VIII. 31.) OM rendelet 2. §-a megállapította.
-[^130]: Az 1. számú melléklete ,,A pedagógiai szakszolgálat feladatait ellátó intézményekben kötelezően foglalkoztatottak létszáma'' cím ,,Nevelési tanácsadó'' III. részét a 29/2001. (VIII. 31.) OM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
-[^131]: A megnevezés a 4/2001. (I. 26.) OM rendelet 24. §-ának (2) bekezdés a) pontja szerint módosított szöveg.
-[^132]: Az 1. számú melléklet "Fejlesztő iskolai oktatás" részét és alcímét a 22/2006. (V. 22.) OM rendelet 7. §-a iktatta be.
+[^6]: Az 1. számú melléklet „PEDAGÓGUSOK ÉS A NEVELŐ-OKTATÓ MUNKÁT SEGÍTŐ MÁS ALKALMAZOTTAK” címet követő „Szakértői és rehabilitációs bizottság” alcímének I. 1. pontja a 19/2004. (VI. 14.) OM rendelet 20. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (4) bekezdése alapján a tanulási képességet vizsgáló szakértői és rehabilitációs bizottságoknál a logopédiai szakképesítéssel rendelkezők alkalmazására vonatkozó előírás 2006. szeptember 1-jétől lép hatályba.
+[^7]: A 4. pont a 4/2001. (I. 26.) OM rendelet 24. §-ának (2) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 29/2001. (VIII. 31.) OM rendelet 2. §-a megállapította.
+[^9]: Az 1. számú melléklete ,,A pedagógiai szakszolgálat feladatait ellátó intézményekben kötelezően foglalkoztatottak létszáma'' cím ,,Gyógypedagógiai szolgáltató központ'' III. részét a 29/2001. (VIII. 31.) OM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
+[^10]: A 29/2001. (VIII. 31.) OM rendelet 2. §-a megállapította.
+[^11]: Az 1. számú melléklete ,,A pedagógiai szakszolgálat feladatait ellátó intézményekben kötelezően foglalkoztatottak létszáma'' cím ,,Nevelési tanácsadó'' III. részét a 29/2001. (VIII. 31.) OM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
+[^12]: A megnevezés a 4/2001. (I. 26.) OM rendelet 24. §-ának (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: Az 1. számú melléklet "Fejlesztő iskolai oktatás" részét és alcímét a 22/2006. (V. 22.) OM rendelet 7. §-a iktatta be.

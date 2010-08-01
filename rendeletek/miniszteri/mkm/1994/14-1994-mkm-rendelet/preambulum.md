@@ -1,1 +1,0 @@
-A helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának b) pontjában, valamint a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatási törvény) 94. §-a (1) bekezdésének b), d) és f) pontjában foglalt felhatalmazás alapján — a népjóléti miniszterrel egyetértésben — a következőket rendelem el:
