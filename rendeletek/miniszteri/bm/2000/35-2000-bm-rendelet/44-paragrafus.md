@@ -1,7 +1,3 @@
-## 43/B. §[^145] [(1)[^146]] A tulajdonos (üzembentartó) kérelme alapján, illetve egyéb kérelmére indult közlekedési igazgatási eljárás során kérésére a járműnyilvántartásba be kell jegyezni a rövid szöveges üzenet fogadására szolgáló elérhetőségét, telefonszámát vagy elektronikus levélcímét, valamint az ezen adatokban bekövetkezett változást.
-
-## [(2)[^147] A tulajdonos (üzembentartó) a Hivatalnál elektronikus úton is kezdeményezheti a rövid szöveges üzenet fogadására szolgáló elérhetőségének, telefonszámának vagy elektronikus levélcímének, valamint az ezen adataiban bekövetkezett változás járműnyilvántartásba történő bejegyzését.]
-
 ## Előzetes eredetiségvizsgálat
 
 44. §[^148] (1)[^149]
@@ -52,9 +48,6 @@ f)[^158] annak jogalapja a használt jármű cégjegyzék vagy vállalkozói iga
 
 (10)[^159] A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
-[^145]: A 43/B. §-t a 76/2009. (XII. 28.) IRM rendelet 2. § (1) bekezdése iktatta be.
-[^146]: A 43/B. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 76/2009. (XII. 28.) IRM rendelet 2. § (2) bekezdése. [E módosító rendelet 7. § (2) bekezdése alapján 2010. augusztus 1-jén lép hatályba.]
-[^147]: A 43/B. § (2) bekezdését a 76/2009. (XII. 28.) IRM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. [E módosító rendelet 7. § (2) bekezdése alapján 2010. augusztus 1-jén lép hatályba.]
 [^148]: A 44. § és az azt megelőző alcím a 34/2004. (VI. 28.) BM rendelet 17. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
 [^149]: A 44. § (1) bekezdését a 76/2009. (XII. 28.) IRM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
 [^150]: A 44. § (2) bekezdésének a) pontja a 6/2009. (III. 31.) IRM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
