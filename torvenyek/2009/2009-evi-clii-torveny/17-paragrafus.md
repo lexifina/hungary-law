@@ -1,3 +1,0 @@
-17. § (1) Az Alk. törvény alapján kiadott alkalmi munkavállalói könyvek alkalmi foglalkoztatás létesítésére és a közterhek lerovására e törvény hatálybalépését követően nem alkalmazhatók.
-
-(2) Az alkalmi munkavállalói könyveket 2010. július 31-éig kell leadni. Az alkalmi munkavállalói könyvek leadásához kapcsolódó, a kiállítót, illetve az állami adóhatóságot terhelő kötelezettségekre alkalmazni kell az Alk. törvény e törvény hatálybalépését megelőző napon hatályos 5. § (6)–(9) bekezdését és 7. §-át. Az alkalmi munkavállalói könyvek a 2010. március 31-éig fennállt munkaviszonyok fennállásának igazolására ezt követően is felhasználhatók.

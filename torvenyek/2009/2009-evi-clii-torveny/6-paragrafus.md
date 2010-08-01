@@ -1,1 +1,0 @@
-6. § Egyszerűsített foglalkoztatás esetén a munkavégzés megkezdése előtt a munkáltatónak meg kell győződnie arról, hogy a munkavállaló a munka elvégzésére alkalmas, a munkavállaló esetleges testi vagy egészségügyi fogyatkozása a biztonságos munkavégzést és a munkavállaló testi épségét nem veszélyezteti.
