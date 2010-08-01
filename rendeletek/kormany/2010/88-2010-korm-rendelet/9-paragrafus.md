@@ -1,1 +1,0 @@
-## 8. § A jelenléti íven az Eftv. 2. melléklete szerinti adatokon túl fel kell tüntetni az állami adóhatóság által engedélyezett sorszámtartománynak megfelelő sorszámot, valamint azt, hogy a munkavállaló magánnyugdíjpénztári tag-e.
