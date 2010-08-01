@@ -1,13 +1,5 @@
 24. § Az Eftv. 15. § (2) bekezdés c) pontja nem lép hatályba.
 
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2010. évi LXXV. törvényhez
 
 Egyszerűsített munkaszerződés
