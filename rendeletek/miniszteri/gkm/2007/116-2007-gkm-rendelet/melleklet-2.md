@@ -18,6 +18,6 @@
 
 ## A külön jogszabályban meghatározott elosztói alapdíj esetén a kedvezményes villamosenergia-díj az egyetemes szolgáltató részére egyébként fizetendő díj 37%-a az első kedvezményes fogyasztási helyen és 60%-a a második kedvezményes fogyasztási helyen.
 
-2. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^22]
+2. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^26]
 
-[^22]: A 2. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
+[^26]: A 2. számú melléklet a 7/2010. (VII. 30.) NFM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-6. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^31]
+6. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^35]
 
 Kimutatás a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben igénybe vehető villamosenergia-vásárlási kedvezményről szóló
 
@@ -92,4 +92,4 @@ A kedvezményre jogosult hálózathasználati és villamosenergia-vásárlási s
 
 A finanszírozói jogosultság-csoportonkénti összesítőt az egyes jogosultsági kategóriák, a 115/2007. (XII. 29.) GKM rendelet 3. § (1) bekezdése szerinti árszabások, valamint a hálózathasználati és villamosenergia-vásárlási szerződések kezelése alapján külön-külön kell kitölteni.”
 
-[^31]: A 6. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 24. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
+[^35]: A 6. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 24. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.

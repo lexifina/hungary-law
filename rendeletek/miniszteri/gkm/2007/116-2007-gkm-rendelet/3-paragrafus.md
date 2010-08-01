@@ -1,6 +1,6 @@
 ## Munkáltatói lista
 
-3. § (1) A munkáltatói lista az e rendelet 2. számú mellékletében felsorolt vállalkozásokat és szakszervezeteket tartalmazza. A munkáltatói listát az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá.
+3. § (1)[^1] A munkáltatói lista az e rendelet 2. számú mellékletében felsorolt vállalkozásokat és szakszervezeteket tartalmazza.
 
 (2) A munkáltatói lista módosítására a villamosenergia- iparban működő ágazati szakszervezetek, illetve a villamosenergia-iparban működő reprezentatív munkáltatói érdekképviselet szükség szerint, de legfeljebb félévente egyszer tesznek javaslatot.
 
@@ -13,3 +13,5 @@ a) az átalakuláshoz, illetve kiszervezéshez kapcsolódóan a munkahelyi szaks
 b) a munkahelyi szakszervezetekkel történő megállapodás alapján a kedvezményre jogosult munkavállaló, illetve annak özvegye részére kompenzációt ad, és nem kéri a munkáltatói listára való felvételt.
 
 (5) Ha új, jogelőddel nem rendelkező, a VET 3. § 13. pontja szerinti engedélyes vállalkozás jön létre, a villamosenergia-iparban működő ágazati szakszervezetek és az új vállalkozás közösen javasolják a munkáltatói listára való felkerülést.
+
+[^1]: A 3. § (1) bekezdése a 7/2010. (VII. 30.) NFM rendelet 1. §-ával megállapított szöveg.
