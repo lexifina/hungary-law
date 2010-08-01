@@ -8,6 +8,10 @@
 
 (4)–(5)
 
+[(4) Az adózó – kivéve az állami, többségi állami tulajdonú adózót – a 4. § 43. pontja szerint a részére kiadott támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
+
+(5) Ha a tárgyi eszköz beruházás sport célú ingatlanra irányul, a 4. § 43. pontja szerinti támogatási igazolás kiállítója a beruházás üzembe helyezését követő 15 évben az adókedvezmény alapjául szolgáló beruházás révén üzembe helyezett ingatlan sportcélú hasznosítását fenntartja, valamint erre az időtartamra – a beruházás üzembe helyezését követő 30 napon belül – a Magyar Állam javára az ingatlan-nyilvántartásba elidegenítési és terhelési tilalmat jegyeztet be az igénybe vett adókedvezmény mértékéig. Az elidegenítési és terhelési tilalom alól a sportpolitikáért felelős miniszter kérelemre egyedi döntéssel felmentést adhat, ha az nem veszélyezteti az ingatlan sportcélú hasznosításának fenntartását. A 4. § 43. pontja szerinti támogatási igazolás kiállítója az első támogatási igazolás kiállítását követő 4. év végéig köteles a tárgyi eszköz beruházást üzembe helyezni a támogatás és annak járulékai Magyar Állam részére történő megfizetése terhével.]
+
 (6)–(7)
 
 (8)

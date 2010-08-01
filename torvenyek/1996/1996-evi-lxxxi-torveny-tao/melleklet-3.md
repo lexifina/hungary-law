@@ -34,6 +34,8 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 13. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredménye a juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámolója elkészítését követően azzal igazol.
 
+14. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére az adózó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
+
 B)
 
 A vállalkozási tevékenység érdekében felmerülő
