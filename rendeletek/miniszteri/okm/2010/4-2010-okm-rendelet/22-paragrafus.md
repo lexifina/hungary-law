@@ -1,0 +1,3 @@
+22. § (1) A nevelési tanácsadó a szakvéleményében foglaltak végrehajtásának ellenőrzése keretében feltárja a gyermek, tanuló fejlődését segítő, illetve hátráltató körülményeket, hiányosságokat. A hiányosságok megszüntetése érdekében szükség szerint tájékoztatást nyújt az érintett nevelési-oktatási intézmény vezetőjének, pedagógusainak, nevelőtestületének, közreműködik a megoldási javaslatok kidolgozásában, felhívja a fenntartó figyelmét, ha intézkedés megtétele érdekében azt indokoltnak tartja.
+
+(2) A nevelési tanácsadó az (1) bekezdésben meghatározott feladatainak végrehajtásához éves munkatervet készít, amelyet megküld az érintett nevelési-oktatási intézménynek és fenntartójának.
