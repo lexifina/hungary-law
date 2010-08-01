@@ -1,1 +1,0 @@
-## 1. § Az Óvodai nevelés országos alapprogramjának kiadásáról szóló 137/1996. (VIII. 28.) Korm. rendelet (a továbbiakban: Rendelet) Melléklet II. GYERMEKKÉP, ÓVODAKÉP cím Gyermekkép alcím 2. pontja helyébe az 1. számú melléklet lép.
