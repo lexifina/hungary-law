@@ -30,7 +30,7 @@
 
 ## ** Az élelmiszerekről szóló 1995. évi XC. törvény fogalommeghatározása szerinti résztevékenységeket foglalja magában.
 
-2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^67]
+2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^70]
 
 Egészségügyi nyilatkozat
 
@@ -96,4 +96,4 @@ _______
 
 * Tanulók esetében a szakmai gyakorlat megkezdése előtt 1 héten belül töltendő ki.
 
-[^67]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^70]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.

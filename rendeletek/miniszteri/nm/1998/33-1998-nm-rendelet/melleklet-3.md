@@ -1,4 +1,4 @@
-3. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^68]
+3. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^71]
 
 Fizikai, kémiai kóroki tényezők, amelyek expozíciója időszakos munkaköri alkalmassági vizsgálatot tesz szükségessé
 
@@ -20,4 +20,4 @@ A bm jelölés mellett szereplő gyakoriság azt jelenti, hogy a biológiai moni
 
 6. Azon munkavállalók számára, akik nem kumulatív anyaggal dolgoznak, a jogszabály hatálybalépésének időpontjában aktuális munkahelyi levegőtisztasági mérések eredményei a külön jogszabályban előírt határérték alattiak, a technológia stabil és a veszélyes anyag egyéb úton nem juthat a dolgozó szervezetébe – a foglalkozás-egészségügyi orvos véleményének figyelembevételével – az adott munkahelyen a biológiai monitor vizsgálatok nem kötelezőek, kivéve a külön jogszabály [26/2000. (IX. 30.) EüM rendelet] által érintett citogenetikai vizsgálat, tumor marker meghatározás eseteit.
 
-[^68]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^71]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.

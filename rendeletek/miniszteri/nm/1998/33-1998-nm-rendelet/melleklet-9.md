@@ -1,4 +1,4 @@
-9. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^71]
+9. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^74]
 
 Azon munkakörülmények, amelyek fennállásakor a terhes nők, a nemrégen szült nők és a szoptató anyák foglalkoztatásához kockázatbecslés szükséges
 
@@ -28,4 +28,4 @@ d) szén-monoxid;
 
 e) ismert és veszélyes percutan felszívódású anyagok.
 
-[^71]: A 9. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^74]: A 9. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.

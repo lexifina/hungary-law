@@ -28,6 +28,6 @@
 
 ## * A megfelelő szöveget alá kell húzni.
 
-15/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^74]
+15/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^77]
 
-[^74]: A 15/A. számú mellékletet a 80/2003. (XII. 23.) ESZCSM rendelet 8. §-a iktatta a szövegbe.
+[^77]: A 15/A. számú mellékletet a 80/2003. (XII. 23.) ESZCSM rendelet 8. §-a iktatta a szövegbe.
