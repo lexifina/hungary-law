@@ -1,0 +1,1 @@
+## 6. § Az Efo.tv. 11. § (4) bekezdése szerinti esetben a munkáltató bejelentésében közli a társadalombiztosítási azonosító jel kivételével az Efo.tv. 11. § (3) bekezdésében felsorolt adatokat, valamint azt, hogy a munkavállalója igazolta részére a másik tagállamban, illetve egyezményben részes másik államban fennálló biztosítását.

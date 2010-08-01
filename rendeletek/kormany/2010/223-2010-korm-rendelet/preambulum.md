@@ -1,0 +1,1 @@
+A Kormány az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 15. § (1) bekezdés a) és c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva következőket rendeli el:
