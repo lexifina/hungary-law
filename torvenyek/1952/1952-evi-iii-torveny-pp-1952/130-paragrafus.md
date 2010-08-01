@@ -18,7 +18,7 @@ g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per
 
 h) külön jogszabály a keresetindításra határidőt állapít meg, ezt a felperes elmulasztja, és igazolási kérelmet sem terjeszt elő, vagy azt a bíróság elutasítja;
 
-i) a jogi képviselő által benyújtott keresetlevél nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat, illetve ha a jogi képviselő nem csatolta a meghatalmazását, vagy nem fizették meg az eljárási illetéket;
+i) a jogi képviselő által benyújtott keresetlevél nem tartalmazza a 121. § (1) bekezdésében foglaltakat, illetve ha a jogi képviselő nem csatolta a meghatalmazását, vagy nem fizették meg az eljárási illetéket;
 
 j) a felperes a hiánypótlás végett (95. §) neki visszaadott keresetlevelet a kitűzött határidő alatt nem adta be, vagy újból hiányosan adta be, és emiatt a keresetlevél nem bírálható el.
 

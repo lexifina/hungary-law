@@ -8,4 +8,4 @@
 
 (5) A (3) és (4) bekezdésben foglalt jogkövetkezmények megfelelően alkalmazhatók, ha a fogyasztóvédelemről szóló törvényben szabályozott békéltetőtestületi eljárásban határozattal jóváhagyott egyezség útján rendezett fogyasztói jogvita tárgyában fordul a felek bármelyike utóbb a bírósághoz, kivéve az egyezségben foglaltak nem teljesítése miatt a határozat végrehajtási záradékkal történő ellátása iránt indított eljárást.
 
-(6) A bíróság az ügy összes körülményére figyelemmel pervesztességére tekintet nélkül kötelezheti a jogi személy gazdálkodó szervezet alperest a perben felmerült összes költség vagy egyébként a felperes által viselendő költségek egy részének a viselésére, ha az alperes a 121/A. § (1) bekezdésében meghatározott kötelezettségének indokolatlanul nem tett eleget.
+(6)
