@@ -1,0 +1,1 @@
+14. § Az e törvényben nem szabályozott adózást érintő kérdésekben az Art. rendelkezéseit kell alkalmazni. Nem kell alkalmazni az Art. 46. §-ának azon előírását, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást ad a magánszemélynek.
