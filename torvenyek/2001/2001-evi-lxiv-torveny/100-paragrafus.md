@@ -712,7 +712,7 @@ Nyugati pályaudvar felvételi épülete
 
 |
 
-28224/9
+28224/51
 
 VIII. kerület
 
