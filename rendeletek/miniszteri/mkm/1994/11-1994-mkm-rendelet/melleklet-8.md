@@ -338,7 +338,7 @@
 
 ## 7. Ha az eszközöket, felszereléseket létszám figyelembevételével kell beszerezni, az adott eszközből, felszerelésből annyi szükséges, hogy minden egyidejűleg jelen lévő gyermek, munkát végző felnőtt igényét egyidejűleg teljesíteni lehessen. Amennyiben az eszközöket, felszereléseket létszám szerint kell beszerezni, az adott eszközből, felszerelésből a tényleges, érdekelt létszámnak megfelelően kell az előírt mennyiséget beszerezni.
 
-## 8.[^294] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 8.[^301] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## 9. A gyermekek részére kialakított helyiség akkor megfelelő, ha – rendeltetésétől függően – alapterülete lehetővé teszi legalább egy óvodai csoport valamennyi tagjának egyidejű befogadását és egészséges, biztonságos körülmények közötti foglalkoztatását, pihenését, öltözését, tisztálkodását, étkezését, továbbá megfelel az építésügyi jogszabályokban előírt szakmai és tartalmi követelményeknek, a közegészségügyi előírásoknak, a tűzvédelmi, egészségvédelmi, munkavédelmi követelményeknek.
 
@@ -742,7 +742,7 @@
 
 ## 7. Az eltérő pedagógiai elveket tartalmazó pedagógiai program az eszköz- és felszerelési jegyzéktől eltérően határozhatja meg a nevelő- és oktatómunka eszköz és felszerelési feltételeit.
 
-## 8.[^295] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 8.[^302] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## 9. A tanulók részére kialakított helyiség akkor megfelelő, ha – rendeltetésétől függően – alapterülete lehetővé teszi egy iskolai osztály, osztálybontás esetén a meghatározott csoport valamennyi tagjának egyidejű befogadását és egészséges, biztonságos körülmények közötti foglalkoztatását, pihenését, öltözését, tisztálkodását, étkezését, továbbá megfelel az építésügyi jogszabályokban előírt szakmai és tartalmi követelményeknek, a közegészségügyi előírásoknak, a tűzvédelmi, egészségvédelmi, munkavédelmi követelményeknek.
 
@@ -984,7 +984,7 @@
 
 ## 10. Ahol a melléklet a mennyiségi mutatónál a ,,kollégiumonkénti'' megjelölést alkalmazza, azon a kollégiumot kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, illetőleg, hogy hány épülete van, ebben az esetben a helyiség vagy a székhelyen vagy a telephelyen alakítható ki, annak figyelembevételével, hogy az érintettek részére elérhető legyen. Amennyiben a melléklet a ,,székhelyen és telephelyen'' megjelölést alkalmazza, azon érteni kell a kollégium székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetőleg a telephelyen hány épület van. Abban az esetben, ha az ,,épületenként'' megjelölést alkalmazza a melléklet, azon minden épületet érteni kell, függetlenül attól, hogy a székhelyen vagy a telephelyen található.
 
-## 11.[^296] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 11.[^303] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## ALAPFOKÚ MŰVÉSZOKTATÁSI INTÉZMÉNYEK
 
@@ -1632,11 +1632,11 @@
 
 ## 11. Az eltérő pedagógiai elveket tartalmazó pedagógiai program az eszköz- és felszerelési jegyzéktől eltérően határozhatja meg a nevelő- és oktatómunka eszköz és felszerelési feltételeit.
 
-## 12.[^297] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 12.[^304] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## 13. Ahol a melléklet a mennyiségi mutatónál az ,,iskolánkénti'' megjelölést alkalmazza, azon az iskolát kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, illetőleg, hogy hány épülete van. Amennyiben a melléklet a ,,székhelyen és telephelyen'' megjelölést alkalmazza, azon érteni kell az iskola székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetőleg a telephelyen hány épület van. Abban az esetben, ha az ,,épületenként'' megjelölést alkalmazza a melléklet, azon minden épületet érteni kell, függetlenül attól, hogy a székhelyen vagy a telephelyen található.
 
-8. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^298]
+8. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^305]
 
 A középfokú iskolákba történő jelentkezés rendje és a felvételi eljárás szabályai
 
@@ -1664,7 +1664,7 @@ A középfokú iskolai felvételi tájékoztató
 
 A felvételi kérelem benyújtása
 
-2.1.[^299] A középfokú iskolai felvételi kérelmet a hivatal által elkészített és a hivatal honlapján közzétett jelentkezési lapon kell benyújtani. A jelentkezési lap másolható. A felvételi kérelem nem utasítható el azon az alapon, hogy nem a közzétett jelentkezési lapon nyújtották be. Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola a felvételi eljáráshoz szükséges adatok öt munkanapon belüli pótlására felszólítja a kérelem benyújtóját. Ha az iskola – a közoktatásról szóló törvény 81. §-a (1) bekezdésének a) pontja szerint – vallási, illetve világnézeti tekintetben elkötelezett intézményként működik, külön lapon kérheti a jelentkező nyilatkozatát a tekintetben, hogy elfogadja-e az adott vallást, illetve világnézetet.
+2.1.[^306] A középfokú iskolai felvételi kérelmet a hivatal által elkészített és a hivatal honlapján közzétett jelentkezési lapon kell benyújtani. A jelentkezési lap másolható. A felvételi kérelem nem utasítható el azon az alapon, hogy nem a közzétett jelentkezési lapon nyújtották be. Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola a felvételi eljáráshoz szükséges adatok öt munkanapon belüli pótlására felszólítja a kérelem benyújtóját. Ha az iskola – a közoktatásról szóló törvény 81. §-a (1) bekezdésének a) pontja szerint – vallási, illetve világnézeti tekintetben elkötelezett intézményként működik, külön lapon kérheti a jelentkező nyilatkozatát a tekintetben, hogy elfogadja-e az adott vallást, illetve világnézetet.
 
 2.2. A jelentkező több jelentkezési lapot állíthat ki. Minden jelentkezési lapon egy iskola tüntethető fel. Egy jelentkezési lapon az iskola több tanulmányi területe is megjelölhető. A jelentkezési lapokon a tanulmányi terület 1.4. pont szerint meghatározott belső kódját minden esetben fel kell tüntetni.
 
@@ -1760,41 +1760,9 @@ A felvételi eljárás rendje
 
 felvételi eljárás keretében vehetők fel. Az általános felvételi eljárás – függetlenül attól, hogy ki az iskola fenntartója – a tanév rendjéről szóló rendeletben meghatározott időpontban kezdődik és ideig tart.
 
-6.2. Az általános felvételi eljárás egy fordulóból áll.
-
-A felvételi kérelmek feldolgozása
-
-7.1. A Felvételi Központ a beküldött tanulói adatlapok alapján iskolánként, azon belül tanulmányi területenként elkészíti a jelentkezők ábécé sorrendbe szedett jegyzékét (a továbbiakban: jelentkezők jegyzéke), és elektronikus formában megküldi a középfokú iskoláknak.
-
-7.2. A középfokú iskola igazgatója az iskolai felvételi eljárás befejezését követően tanulmányi területenként elkészíti az ideiglenes felvételi jegyzéket. Az ideiglenes felvételi jegyzéket úgy kell elkészíteni, hogy a jelentkezők jegyzékébe minden jelentkező neve mellé az igazgató beírja a felvétellel kapcsolatos döntését. Ha a jelentkező teljesítette a felvételi követelményeket, a neve mellé a felvételi rangsorban elfoglalt helye szerinti sorszámot kell beírni. A felvételi eljárás során az azonos teljesítményt elérő tanulók közül a rangsor elkészítésénél előnyben kell részesíteni a halmozottan hátrányos helyzetű tanulót, ezt követően azt a jelentkezőt, akinek a lakóhelye, ennek hiányában tartózkodási helye az iskola székhelyének, telephelyének településén található, illetve akinek sajátos helyzete azt indokolja. A sajátos helyzetet az iskola házirendjében kell szabályozni. Ha a jelentkező nem teljesítette a felvételi követelményeket, a neve mellett ezt a tényt, s a felvételi kérelem elutasítását az „E” betű alkalmazásával kell beírni. Az ideiglenes felvételi jegyzéket – tájékoztatás céljából, a 3.1. pontban meghatározottak alkalmazásával – nyilvánosságra kell hozni.
-
-7.3. A tanulói adatlapok módosításának feldolgozását követően a Felvételi Központ – elektronikus úton – kiegészítheti az ideiglenes felvételi jegyzékben található névsort.
-
-7.4. A középfokú iskola igazgatója a 7.2. pontban meghatározottak szerint elkészíti a végleges felvételi jegyzéket és elektronikus formában megküldi a Felvételi Központnak. A végleges felvételi jegyzéket kinyomtatva, minden oldalát aláírásával és az iskola körbélyegzőjének lenyomatával ellátva is meg kell küldenie a Felvételi Központnak. Ha a középfokú iskola igazgatója rendelkezik legalább fokozott biztonságú elektronikus aláírással, és a végleges felvételi jegyzéket a saját fokozott biztonságú elektronikus aláírásával ellátva küldi meg a Felvételi Központ részére, a papír alapú hitelesítésre nincs szükség.
-
-7.5. Az igazgató a végleges felvételi jegyzéken – tanulmányi területenként – feltünteti a felvehető tanulók létszámát is.
-
-7.6.1. A hivatal a felvételi jegyzékek alapján megállapítja, hogy melyik iskola kinek a jelentkezését fogadta el. Ha ugyanannak a jelentkezőnek több felvételi kérelmét is elfogadták, a hivatal a tanulói adatlap alapján megállapítja, hogy melyik kapta a tanulói adatlapon a legkisebb sorszámot, és azt hagyja rajta a jelentkezést elfogadó iskola felvételi jegyzékén, a többi elfogadott jelentkezés adatait pedig törli a felvételi jegyzékről.
-
-7.6.2. A felvételi jegyzéken legfeljebb annyi jelentkező maradhat, ahány tanulót az iskola az általa közölt adatok szerint fel tud venni. Ha a rangsorolt jelentkezők száma, a jegyzék felülvizsgálata után meghaladja az iskola által közölt felvehető tanulói létszámot, a hivatal a létszám fölötti jelentkezők adatait törli a jegyzékről. A hivatal a jegyzéken maradókat a következők szerint állapítja meg: a legalacsonyabb sorszámból kiindulva, minden esetben a következő legalacsonyabb sorszámra lép mindaddig, ameddig a megmaradók száma el nem éri az iskola által megjelölt létszámot.
-
-7.6.3. A törlés a jelentkező nevének oly módon történő áthúzásával történik, hogy ezáltal a tanulói azonosító adatok olvashatók maradjanak. A hivatal a felvételi jegyzéken záradék formájában feltünteti – betűvel és számmal – a törölt jelentkezések darabszámát, valamint a törölt sorszámokat.
-
-7.6.4. A hivatal visszaküldi a tanulói adatlap alapján egyeztetett felvételi jegyzéket a felvételt hirdető középfokú iskolának.
-
-A felvételi eredmények közlése
-
-8. A felvételi jegyzék kézhezvétele után a felvételt hirdető középfokú iskola – a jegyzéknek megfelelően – megküldi a felvételről vagy az elutasításról szóló értesítést a jelentkezőnek és az általános iskolának. Az általános iskola értesítése jegyzék formájában is történhet.
-
-A rendkívüli felvételi eljárás
-
-9.1. Az iskola igazgatója a felvételi döntésekről szóló értesítések megtörténte után a következő tanév első napjáig rendkívüli felvételi eljárást írhat ki.
-
-9.2. Abban az esetben, ha az általános felvételi eljárás keretében a középiskolába felvehető tanulói létszám kevesebb mint kilencven százalékát sikerült betölteni, a rendkívüli felvételi eljárást ki kell írni. A kiírást meg kell küldeni a székhely szerint illetékes önkormányzat jegyzőjének, főjegyzőjének, továbbá a hivatalnak, amely a megküldött és összesített adatokat közzéteszi az interneten, és megküldi a főjegyzők részére.
-
-[^294]: A 7. számú melléklet Óvoda cím VII. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^295]: A 7. számú melléklet Iskola cím V. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^296]: A 7. számú melléklet Kollégium cím IV. alcím 11. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^297]: A 7. számú melléklet Alapfokú művészetoktatási intézmények cím IV. alcím 12. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^298]: A 8. számú mellékletet a 13/2003. (V. 23.) OM rendelet 4. §-a iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 7. §-ával megállapított szöveg.
-[^299]: A 8. számú melléklet 2.1. pont negyedik mondata a 35/2009. (XI. 18.) OKM rendelet 13. §-ával megállapított szöveg.
+[^301]: A 7. számú melléklet Óvoda cím VII. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^302]: A 7. számú melléklet Iskola cím V. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^303]: A 7. számú melléklet Kollégium cím IV. alcím 11. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^304]: A 7. számú melléklet Alapfokú művészetoktatási intézmények cím IV. alcím 12. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^305]: A 8. számú mellékletet a 13/2003. (V. 23.) OM rendelet 4. §-a iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 7. §-ával megállapított szöveg.
+[^306]: A 8. számú melléklet 2.1. pont negyedik mondata a 35/2009. (XI. 18.) OKM rendelet 13. §-ával megállapított szöveg.

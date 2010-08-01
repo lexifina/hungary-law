@@ -24,9 +24,9 @@ i) a pedagógusokra, a nevelő-oktató munkát végző más szakemberekre és a 
 
 j) a gyermekek, tanulók szüleire, gyámjára (a továbbiakban együtt: szülők).
 
-(2)[^4]
+(2)[^4] A fejlesztő iskolai feladatok ellátása tekintetében e rendelet hatálya kiterjed a fogyatékosok ápoló, gondozó otthonára, a fogyatékosok rehabilitációs intézményére, a fogyatékosok nappali intézményére, a gyógypedagógiai tanácsadó, korai fejlesztő és gondozó központra, a konduktív pedagógiai intézményre.
 
 [^1]: Az 1. § (1) bekezdésének c) pontja a 30/2004. (X. 28.) OM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdésének d) pontja a 32/2008. (XI. 24.) OKM rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdésének f) pontja a 30/2004. (X. 28.) OM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (2) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 4/2010. (I. 19.) OKM rendelet 38. § (1) bekezdése iktatta be; alkalmazására lásd ez utóbbi módosító rendelet 36. §-át.

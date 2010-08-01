@@ -1,3 +1,3 @@
-## 42. §[^223]
+## 42. §[^230]
 
-[^223]: A 42. §-t a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^230]: A 42. §-t a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## Az egységes óvoda-bölcsőde
 
-39/M. §[^220] (1) A közoktatási törvény 33. §-ának (14) bekezdése alapján létesített egységes óvoda-bölcsőde többcélú közoktatási intézmény alapítására, a fenntartói jog gyakorlására, működésének megkezdésére, működésére, a működéshez szükséges személyi, tárgyi, munkavédelmi, közegészségügyi feltételekre, a nevelési feladatok megszervezésére, a nevelésbe történő bekapcsolódásra – az e §-ban foglalt kivételekkel – az óvodákra, az óvodai nevelési jogviszonyra vonatkozó rendelkezéseket kell alkalmazni.
+39/M. §[^227] (1) A közoktatási törvény 33. §-ának (14) bekezdése alapján létesített egységes óvoda-bölcsőde többcélú közoktatási intézmény alapítására, a fenntartói jog gyakorlására, működésének megkezdésére, működésére, a működéshez szükséges személyi, tárgyi, munkavédelmi, közegészségügyi feltételekre, a nevelési feladatok megszervezésére, a nevelésbe történő bekapcsolódásra – az e §-ban foglalt kivételekkel – az óvodákra, az óvodai nevelési jogviszonyra vonatkozó rendelkezéseket kell alkalmazni.
 
 (2) Az óvodai és a bölcsődei nevelés feladatait önálló intézményként ellátó egységes óvoda-bölcsőde akkor létesíthető, ha a települési önkormányzat illetékességi területén a bölcsődei nevelés nem biztosított vagy elégséges gyermek hiányában a bölcsődei gyermekcsoport nem alakítható ki, és az óvodai nevelés igénybevételére jogosult gyermekekből sem alakítható ki olyan óvodai csoport, amelynek létszáma eléri a húsz főt. A bölcsődei, illetve az óvodai csoport létrehozását kizáró feltételek fennállása esetén az egységes óvoda-bölcsőde szervezeti és szakmai tekintetben önálló intézményegységként is megszervezhető. Az egységes óvoda-bölcsőde intézményegység olyan óvoda részeként szervezhető, amelyben az óvodai csoport, illetve csoportok gyermeklétszáma eléri a húsz főt.
 
@@ -36,4 +36,4 @@ b) az egészséges táplálkozás követelményeinek megfelelő étkezést.
 
 (11) Az egységes óvoda-bölcsőde együttműködik a módszertani bölcsődével. Az együttműködés kérdéseit a szervezeti és működési szabályzatában kell meghatározni.
 
-[^220]: A 39/M. §-t és az előtte lévő alcímet a 4/2009. (II. 18.) OKM rendelet 1. §-a iktatta be.
+[^227]: A 39/M. §-t és az előtte lévő alcímet a 4/2009. (II. 18.) OKM rendelet 1. §-a iktatta be.
