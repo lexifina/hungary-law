@@ -1,7 +1,6 @@
-## 25. §[^1]
+## 25. §[^2]
 
-26. § (1) 2010. augusztus 1-jén hatályát veszti a 25. §.
+26. §[^3]
 
-(2) Ez a § az (1) bekezdésben meghatározott napot követő napon hatályát veszti.
-
-[^1]: A 25. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
+[^2]: A 25. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 26. §-t a (2) bekezdés hatályon kívül helyezte.
