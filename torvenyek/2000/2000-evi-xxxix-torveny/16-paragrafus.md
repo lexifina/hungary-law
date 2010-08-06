@@ -1,3 +1,3 @@
-16. § (1) A volt köztársasági elnököt a megbízatása megszűnését követően annyi ideig, ameddig e tisztségét betöltötte, évi harmincezer km keretig személyes gépkocsihasználat illeti meg.
+16. § (1) A volt köztársasági elnököt – ha ötéves hivatali idejét végig kitöltötte – megbízatása megszűnését követően személyes gépkocsi használat illeti meg.
 
 (2) A személyes gépkocsihasználathoz a megfelelő színvonalú személygépkocsit és a gépjárművezetőt a rendőrség biztosítja.
