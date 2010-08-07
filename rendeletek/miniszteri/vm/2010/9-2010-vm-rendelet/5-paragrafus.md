@@ -1,0 +1,9 @@
+5. § (1) A kiegészítő nemzeti pénzügyi támogatás igénybevétele érdekében a működési program módosítása iránti kérelmet az R. 15. § (6) bekezdésének megfelelően 2010. augusztus 31-ig a Vidékfejlesztési Minisztériumhoz kell benyújtani. A kérelemmel együtt kell benyújtani a 3. § (2) bekezdésben és a 4. §-ban meghatározottak fennállását igazoló, az 1. mellékletben felsorolt dokumentumokat és a 2. mellékletben szereplő kitöltött táblázatot.
+
+(2) A 4. § (4) bekezdésében meghatározott mértékű, a 2010. évi működési alapot kiegészítő nemzeti támogatási összeg a működési program azon intézkedéseire hagyható jóvá, amelyek kapcsolódnak azon termelői szervezetek társulása elismeréséhez, amelynek a termelői szervezet tagja.
+
+(3) A módosítás eredményeképpen a működési alap a bizottsági rendelet 67. cikk (2) bekezdésének c) pontjában szabályozottakon felül legfeljebb a nemzeti kiegészítő támogatás, illetve ennek legnagyobb mértékét meghatározó, a tanácsi rendelet 103b. cikk (1) bekezdésének a) pontjában említett pénzügyi hozzájárulás mértékével nőhet.
+
+(4) Többlettámogatás legfeljebb a termelői szervezeteknek nyújtott nemzeti pénzügyi támogatásról szóló, 2010. június 30-i C(2010)4314. Bizottsági Határozat szerint kifizethető támogatási összeg és a 3. § (2) bekezdése alapján jóváhagyható támogatási keret különbségének mértékéig hagyható jóvá. Amennyiben az (1) bekezdésnek megfelelően benyújtott kérelmek alapján összesen jóváhagyható többlettámogatás meghaladja ezt az összeget, úgy az agrárpolitikáért felelős miniszter arányos visszaosztást követően hagyja jóvá a kérelmeket.
+
+(5) A 3. § (2) bekezdésében meghatározott mértékű, a 2010. évi működési alapot kiegészítő nemzeti támogatási összeg húsz százalékát az intézkedések megvalósításához szükséges szaktanácsadási, kutatási, oktatási tevékenységek végrehajtásához kell felhasználni.
