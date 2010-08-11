@@ -16,7 +16,7 @@ d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok seg�
 
 (4) A Hatóság az érdemi döntést a kérelem előterjesztésétől számított 45 munkanapon belül köteles meghozni.
 
-(5) A Nemzeti Hírközlési Hatóság Hivatalának elsőfokú határozata ellen a Hatóság Tanácsának elnökéhez lehet fellebbezni.
+(5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
 
 (6) A Hatóság eljárása során szakértőként igazságügyi szakértőt, vagy elektronikus aláírás szolgáltatási szakértőt is igénybe vehet.
 

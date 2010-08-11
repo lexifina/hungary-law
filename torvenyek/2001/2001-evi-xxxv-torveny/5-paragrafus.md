@@ -18,6 +18,6 @@ b) a külföldi hitelesítés-szolgáltató teljesíti az Európai Közösség v
 
 (5) A (4) bekezdés szerinti felelősségvállalás úgy is történhet, hogy a belföldi hitelesítés-szolgáltató tanúsítványt bocsát a külföldi hitelesítés-szolgáltató rendelkezésére (a továbbiakban: felülhitelesítés), melyet a külföldi hitelesítés-szolgáltató a saját maga által kibocsátott tanúsítványhoz csatolhat.
 
-(6) A hitelesítés-szolgáltató a felelősségvállalást, illetőleg felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítés-szolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
+(6) A hitelesítés-szolgáltató a felelősségvállalást vagy a felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítésszolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
 
 (7) Az (1)–(2) bekezdésben foglaltakon kívüli külföldi székhelyű hitelesítés-szolgáltató által hitelesített tanúsítványhoz a 3. § (1) bekezdése szerinti jogkövetkezmények fűződnek.
