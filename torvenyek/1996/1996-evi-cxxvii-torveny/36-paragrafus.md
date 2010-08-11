@@ -37,3 +37,25 @@ b)–c)
 (12) A részvénytársaság elnökének kinevezése napján hatályát veszti a közszolgálati tájékoztatási eszközök (Magyar Rádió, Magyar Televízió, Magyar Távirati Iroda) vezetőinek kinevezési rendjéről szóló 1990. évi LVII. törvény, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény 154. §-a.
 
 (13)
+
+[36/A. § (1) Országgyűlési határozatban rendelkezik az Országgyűlés arról, hogy a Magyar Távirati Iroda Zrt.-t a Közszolgálati Közalapítvány tulajdonába adja a Tulajdonosi Tanácsadó Testület egyidejű megszüntetése mellett.
+
+(2) Az Országgyűlés az (1) bekezdés szerinti határozatban rendelkezik arról, hogy a Magyar Távirati Iroda zártkörűen működő egyszemélyes részvénytársaságot nonprofit részvénytársasággá kell átalakítani.
+
+(3) Az Országgyűlés (1) bekezdés szerinti határozata rendelkezik arról, hogy e § és az országgyűlési határozat végrehajtásához szükséges közgyűlési döntéseket a Közszolgálati Közalapítvány kuratóriuma jogosult és köteles meghozni.
+
+(4) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-ának szavazata szükséges.
+
+(5) Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről és az e § szerinti feladatok végrehajtásának határidejéről.
+
+36/B. § (1) Az Országgyűlés határozatban rendelkezik a Magyar Távirati Iroda Zrt. vagyonának arról a részéről, amelynek vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja. A Műsorszolgáltatás Támogató és Vagyonkezelő Alapra vonatkozó szabályokat az Rttv. tartalmazza.
+
+(2) Az (1) bekezdés szerinti országgyűlési határozatban rendelkezik az Országgyűlés az (1) bekezdés szerinti – tulajdonosi jogok és kötelezettségek összességének gyakorlását eredményező – vagyonátadás módjáról, ütemezéséről és az ütemezés időpontjairól. A vagyonátadás befejezési határidejét az (1) bekezdés szerinti országgyűlési határozatban kell szabályozni. A vagyonátadással összefüggésben szükségessé váló részvénytársasági alaptőke leszállítása vonatkozásában a gazdasági társaságokról szóló 2006. évi IV. törvény 271–272. §-ában foglalt szabályok nem alkalmazhatók.
+
+(3) Az (1) bekezdés szerinti határozatban rendelkezik az Országgyűlés az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak az Rttv. 54. § (4) bekezdésében meghatározott szabályozási irányelveiről.
+
+(4) Az Országgyűlés (1) bekezdés szerinti határozata rendelkezik arról, hogy e § és az országgyűlési határozat végrehajtásához szükséges közgyűlési döntéseket a Közszolgálati Közalapítvány kuratóriuma jogosult és köteles meghozni.
+
+(5) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-nak szavazata szükséges.
+
+(6) Az (1) bekezdés szerinti országgyűlési határozat elfogadásának határideje 2010. szeptember 30. Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről.]
