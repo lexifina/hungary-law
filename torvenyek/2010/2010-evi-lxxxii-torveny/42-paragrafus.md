@@ -57,11 +57,3 @@ lép.
 (6) Hatályát veszti a műsorterjesztés és digitális átállás szabályairól szóló 2007. évi LXXIV. törvény, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény módosításáról szóló 2007. évi CLIV. törvény.
 
 (7) Hatályát veszti az Országos Rádió és Televízió Testület tagjai megbízatása megszűnésének egyes kérdéseiről szóló 2008. évi XI. törvény
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
