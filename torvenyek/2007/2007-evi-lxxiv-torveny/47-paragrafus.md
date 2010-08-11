@@ -30,4 +30,4 @@ c) az Rttv. 114/A. §-a,
 
 d) az Rttv. 115. §-ának (1), (2), (7) és (9) bekezdése, 116. §-ának (1), (4) és (5) bekezdése, 117. §-ának (1)–(3) bekezdése, 118. §-ának (2) bekezdése és 121. §-a.
 
-(5) Hatályát veszti a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2006. évi XLV. törvény 23. § (2) bekezdése.
+(5)
