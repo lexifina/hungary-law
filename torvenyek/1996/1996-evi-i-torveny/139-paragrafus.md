@@ -5,9 +5,3 @@
 (3) A 161. § p) pontja a Magyar Rádió és a Magyar Televízió részvénytársaságok megalapításakor lép hatályba.
 
 (4)
-
-2. CÍM
-
-A Testület, illetve a közalapítványok
-
-létrehozása

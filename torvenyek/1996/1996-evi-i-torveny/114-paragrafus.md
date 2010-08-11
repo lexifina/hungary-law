@@ -4,7 +4,7 @@ a) amely a Testület által nyilvánosságra hozott frekvenciatervben szerepel, 
 
 b) amelyre más már műsorszolgáltatási jogosultságot szerzett, de a jogosult műsorszolgáltatása az ideiglenes műsorszolgáltatás befejezését követő hatvan napon belül nem kezdődik meg.
 
-(2) A nyilvánosságra hozott frekvenciatervben nem szereplő műsorszolgáltatási lehetőség esetén az igénylőnek a Hírközlési Főfelügyelet által kiadott igazolással kell bizonyítania, hogy a műsorszolgáltatás másoknak okozott zavarás és a nemzetközi előírások megsértése nélkül folytatható. Az igazolásnak tartalmaznia kell a 52. § (4) bekezdésében foglalt műszaki adatokat. Ilyen esetben a Testület a műsorszolgáltatási jogosultságot az alábbi szabályok szerint lefolytatott eljárás alapján adja meg:
+(2) A nyilvánosságra hozott frekvenciatervben nem szereplő műsorszolgáltatási lehetőség esetén az igénylőnek a Hatóság által kiadott igazolással kell bizonyítania, hogy a műsorszolgáltatás másoknak okozott zavarás és a nemzetközi előírások megsértése nélkül folytatható. Az igazolásnak tartalmaznia kell a 52. § (4) bekezdésében foglalt műszaki adatokat. Ilyen esetben a Testület a műsorszolgáltatási jogosultságot az alábbi szabályok szerint lefolytatott eljárás alapján adja meg:
 
 a) a pályázati felhívást a kérelem benyújtásától számított nyolc napon belül, az 52. § (4) bekezdésében foglalt adatokkal együtt a Testület teszi közzé;
 

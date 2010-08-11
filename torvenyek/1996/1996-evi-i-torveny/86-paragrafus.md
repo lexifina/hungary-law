@@ -18,7 +18,7 @@ g) a Testület tagja, valamint az, aki a Testülettel munkavégzésre irányuló
 
 h) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. és az Állami Számvevőszék vezető beosztású tisztségviselője, a számvevő, a Gazdasági Versenytanács tagja,
 
-i) aki a Hírközlési Főfelügyelettel munkavégzésre irányuló jogviszonyban áll.
+i) aki a Hatósággal munkavégzésre irányuló jogviszonyban áll.
 
 (3) Nem lehet műsorszolgáltatásra jogosult szervezet:
 

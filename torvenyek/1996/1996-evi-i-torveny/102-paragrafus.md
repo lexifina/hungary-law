@@ -4,11 +4,11 @@
 
 a) pályázati felhívásra benyújtott pályázatok közti választással, illetve
 
-b) az igénylő által lefolytatott tervezés eredményeként létrejött — a Hírközlési Főfelügyelet ellenőrző vizsgálata alapján a Testület által jóváhagyott — műsorszolgáltatási lehetőségre, az e törvényben meghatározottak szerint.
+b) az igénylő által lefolytatott tervezés eredményeként létrejött — a Hatóság ellenőrző vizsgálata alapján a Testület által jóváhagyott — műsorszolgáltatási lehetőségre, az e törvényben meghatározottak szerint.
 
-(2) Az (1) bekezdés a) pontja szerinti pályázati felhívásnak a Hírközlési Főfelügyelet által kidolgozott és a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában előzetesen nyilvánosságra hozott — a vételkörzet, a frekvenciasáv és más műszaki jellemzők által meghatározott — műsorszolgáltatási lehetőségekre kell vonatkoznia.
+(2) Az (1) bekezdés a) pontja szerinti pályázati felhívásnak a Hatóság által kidolgozott és a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában előzetesen nyilvánosságra hozott — a vételkörzet, a frekvenciasáv és más műszaki jellemzők által meghatározott — műsorszolgáltatási lehetőségekre kell vonatkoznia.
 
-(3) Az (1) bekezdés b) pontja szerinti tervezéshez a Hírközlési Főfelügyelet — költségtérítés ellenében — adatokat szolgáltat.
+(3) Az (1) bekezdés b) pontja szerinti tervezéshez a Hatóság — költségtérítés ellenében — adatokat szolgáltat.
 
 (4) A pályázat az (1) bekezdés a) pontja alapján
 

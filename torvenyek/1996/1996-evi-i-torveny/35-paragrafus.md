@@ -12,4 +12,4 @@ b) nem lehet az a) pontban felsorolt szervezet tulajdonosa (tagja, részvényese
 
 (5) A Testület tagja pártpolitikai tevékenységet nem folytathat, pártpolitikai nyilatkozatot nem tehet.
 
-(6) A Testület tagja tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb kereső foglalkozást nem folytathat, tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenységért műsorszolgáltatótól díjazást nem fogadhat el.
+(6)

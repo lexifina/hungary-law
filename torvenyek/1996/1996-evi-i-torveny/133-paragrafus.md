@@ -4,6 +4,6 @@
 
 (3) A közszolgálati műsorszolgáltatók műsorszolgáltatási kötelezettségeinek teljesítéséhez szükséges — frekvencia és sugárzási jellemzőkkel meghatározott — műsorszórási lehetőségeket előzetes egyeztetés után a Testület a döntéseinek meghozatalára irányadó szavazási és nyilvánossági szabályok alkalmazásával állapítja meg.
 
-(4) A Testület a (2) és (3) bekezdésben említett előzetes egyeztetést a Hírközlési Főfelügyelet, a közszolgálati műsorszolgáltató, valamint a műsorok szórását végző távközlési szolgáltató képviselőivel folytatja le.
+(4) A Testület a (2) és (3) bekezdésben említett előzetes egyeztetést a Hatóság, a közszolgálati műsorszolgáltató, valamint a műsorok szórását végző távközlési szolgáltató képviselőivel folytatja le.
 
-(5) A (2) és (3) bekezdés nem vonatkozik a közszolgálati műsorszolgáltató külföldre irányuló rádió műsorszolgáltatásainak műsorszórási lehetőségeire. Ilyen műsorszolgáltatás céljára a Hírközlési Főfelügyelet a frekvenciahasználatra vonatkozó jogosultságot a nemzetközi eljárás keretei között biztosítja.
+(5) A (2) és (3) bekezdés nem vonatkozik a közszolgálati műsorszolgáltató külföldre irányuló rádió műsorszolgáltatásainak műsorszórási lehetőségeire. Ilyen műsorszolgáltatás céljára a Hatóság a frekvenciahasználatra vonatkozó jogosultságot a nemzetközi eljárás keretei között biztosítja.
