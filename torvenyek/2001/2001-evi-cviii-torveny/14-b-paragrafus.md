@@ -1,4 +1,4 @@
-14/B. § (1) Az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából a közvetítő szolgáltató a Nemzeti Hírközlési Hatóság (a továbbiakban: a Hatóság) megkeresésére köteles a Hatóság rendelkezésére bocsátani a következő adatokat, ha azok a közvetítő szolgáltató rendelkezésére állnak:
+14/B. § (1) Az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából a közvetítő szolgáltató a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) megkeresésére köteles a Hatóság rendelkezésére bocsátani a következő adatokat, ha azok a közvetítő szolgáltató rendelkezésére állnak:
 
 a) a Hatóság által megjelölt elektronikus hirdetés küldőjének vagy közzétevőjének elektronikus hírközlési azonosítóját, és
 
