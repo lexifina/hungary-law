@@ -36,7 +36,7 @@ k) a hibabejelentések megtételének, számlapanaszok bejelentésének lehetsé
 
 l) a szerződésmódosítás feltételei, az előfizető jogai szerződésmódosítás esetére;
 
-m) tájékoztatás arról, hogy jogvita esetére az előfizető jogosult a vitát hatóság elé terjeszteni, továbbá utalás arra, hogy az általános szerződési feltételek mely pontjai tartalmazzák a hatáskörrel rendelkező hatóságok pontos megnevezését, továbbá elérhetőségük megjelölését;
+m) tájékoztatás arról, hogy jogvita esetére az előfizető jogosult a vitát Hatóság elé terjeszteni, továbbá utalás arra, hogy az általános szerződési feltételek mely pontjai tartalmazzák a hatáskörrel rendelkező hatóságok pontos megnevezését, továbbá elérhetőségük megjelölését;
 
 n) az előfizetői végberendezés felszerelésének helye – amennyiben az rögzített – és az előfizető hívószáma. Az írásban megkötött egyedi előfizetői szerződésben a feleknek rögzíteni kell a szolgáltató felelősségi határát jelentő előfizetői hozzáférési pont létesítési helyét. Az előfizetői hozzáférési pont meghatározása tekintetében az előfizetők által szokásosan megjelölt pont az irányadó, amely csak az előfizető kifejezett kérésére létesíthető az előfizető helyiségén kívül;
 

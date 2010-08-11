@@ -1,6 +1,6 @@
 ## Egyenlő elbánás
 
-104. § (1) A hatóság határozatában összekapcsolással, illetve hozzáféréssel kapcsolatban egyenlő elbánásra vonatkozó kötelezettségeket írhat elő a jelentős piaci erővel rendelkező szolgáltató számára.
+104. § (1) A Hatóság határozatában összekapcsolással, illetve hozzáféréssel kapcsolatban egyenlő elbánásra vonatkozó kötelezettségeket írhat elő a jelentős piaci erővel rendelkező szolgáltató számára.
 
 (2) Az egyenlő elbánásra vonatkozó kötelezettségeknek elsősorban azt kell biztosítaniuk, hogy a jelentős piaci erővel rendelkező szolgáltató
 

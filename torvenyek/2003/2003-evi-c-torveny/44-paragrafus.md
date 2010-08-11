@@ -1,6 +1,6 @@
 ## Ügyintézési határidő
 
-44. § (1) A Tanács – amennyiben e törvény eltérő szabályokat nem állapít meg – az e törvénynek megfelelő kérelem érkezésétől, illetőleg az eljárás megindításától számított harmincöt munkanapon belül köteles határozatot hozni.
+44. § (1) Az Elnök – amennyiben e törvény eltérő szabályokat nem állapít meg – az e törvénynek megfelelő kérelem érkezésétől, illetőleg az eljárás megindításától számított harmincöt munkanapon belül köteles határozatot hozni.
 
 (2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő ötvenöt munkanap.
 

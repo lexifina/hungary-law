@@ -36,7 +36,7 @@
 
 15. Elektronikus hírközlési tevékenység: olyan tevékenység, amely bármely értelmezhető formában előállított jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény elektronikus hírközlő hálózaton keresztül egy vagy több felhasználóhoz történő eljuttatását szolgálja, így különösen az elektronikus hírközlési szolgáltatás nyújtása, elektronikus hírközlő hálózat vagy berendezés üzemeltetése, végberendezések forgalmazása és a kapcsolódó szolgáltatások.
 
-16. Elektronikus hírközlésre vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, elektronikus hírközlésre vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, valamint a hatóság határozata.
+16. Elektronikus hírközlésre vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, elektronikus hírközlésre vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, valamint a Hatóság határozata.
 
 17. Elektronikus hírközlő berendezés: az elektronikus hírközlési tevékenység végzéséhez szükséges berendezés, ideértve többek között a készüléket.
 
@@ -172,7 +172,7 @@ Közvetítő-előválasztás: az előfizető szerződésben köti ki a közvetí
 
 Hívásonkénti közvetítőválasztás: az előfizető egy-egy híváshoz a közvetítő szolgáltatót szolgáltató-választó előtét tárcsázásával – az esetleges előválasztástól is eltérően – határozza meg.
 
-69. Közzététel: e törvény által a hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a hatóság internetes oldalain haladéktalanul.
+69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a Hatóság internetes oldalain haladéktalanul.
 
 70. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
 
@@ -234,7 +234,7 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 
 96. Ráépülő előfizetői szolgáltatás: valamely hálózati szolgáltatással összefüggő olyan előfizetői szolgáltatás, amelynek a hálózati szolgáltatást nyújtó szolgáltatótól eltérő szolgáltató általi gazdaságos nyújtásához az adott hálózati szolgáltatás igénybevétele a technika fejlettségének adott szintjén feltétlenül szükséges. A jelen meghatározás alkalmazásában valamely előfizetői szolgáltatást a felhasználási célra, az árra, a minőségre és a teljesítés feltételeire tekintettel ésszerűen helyettesítő szolgáltatásokat is figyelembe kell venni.
 
-97. Referenciaajánlat: a hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, illetőleg azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
+97. Referenciaajánlat: a Hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, illetőleg azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
 
 98. Rendező: a helyi hurok értelmezésében olyan csatlakozásra megfelelő szerelvény, amelyben az érintett helyi hurok vagy helyi alhurok egyedi leválasztó eszközei találhatók.
 

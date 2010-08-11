@@ -26,7 +26,7 @@ q) ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos tevék
 
 r)
 
-s) a frekvenciasávok nemzeti felosztása keretei között rendeletben állapítja meg az egyes kijelölhető polgári és közös célú frekvenciasávok felhasználására vonatkozó szabályokat, amelyeknek tartalmazniuk kell a rádiórendszerek frekvenciagazdálkodási követelményeit, a rádióberendezések frekvenciagazdálkodási követelményeit, a frekvencia-engedélyezéssel és használattal kapcsolatos sávhasználati feltételeket;
+s) a frekvenciasávok nemzeti felosztása keretei között rendeletben állapítja meg az egyes kijelölhető polgári, nem polgári és közös célú frekvenciasávok felhasználására vonatkozó szabályokat, amelyeknek tartalmazniuk kell a rádiórendszerek frekvenciagazdálkodási követelményeit, a rádióberendezések frekvenciagazdálkodási követelményeit, a frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételeket;
 
 t)
 

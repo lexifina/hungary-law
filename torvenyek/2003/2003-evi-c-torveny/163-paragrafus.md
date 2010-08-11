@@ -4,7 +4,7 @@
 
 ## Vegyes rendelkezések
 
-163. § (1) Az e törvény felhatalmazása alapján kiadott jogszabályban és az e törvény alapján megállapított, a központi költségvetés részére, illetve a hatóságnak fizetendő díjak, illetőleg bírságok, valamint az Egyetemes Elektronikus Hírközlési Kassza részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
+163. § (1) Az e törvény felhatalmazása alapján kiadott jogszabályban és az e törvény alapján megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, illetőleg bírságok, valamint az Egyetemes Elektronikus Hírközlési Kassza részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
 
 (2) Az e törvény hatálybalépésekor hatályban lévő, egyetemes szolgáltatás igénybevételére irányuló előfizetői szerződések esetén az egyetemes szolgáltató a 111. §-ban meghatározott közvetítőválasztást előválasztás vagy hívásonkénti közvetítőválasztás útján köteles biztosítani.
 

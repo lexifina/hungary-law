@@ -1,8 +1,8 @@
 ## Az egyetemes szolgáltatás ellenőrzése, módosítása, megszüntetése
 
-123. § (1) Az egyetemes szolgáltatókat a tevékenység ellátása, a szerződések teljesítése vonatkozásában a hatóság folyamatosan ellenőrzi. A hatóság jelzi a miniszternek, ha a szerződésben vállalt kötelezettségek megszegését állapítja meg. Az egyetemes szolgáltató az ellenőrzéshez köteles a kötelezettségek teljesítésére vonatkozó adatokat a hatóságnak folyamatosan szolgáltatni. A kötelezettségek teljesítéséről készített értékelő adatok nyilvánosak.
+123. § (1) Az egyetemes szolgáltatókat a tevékenység ellátása, a szerződések teljesítése vonatkozásában a Hatóság folyamatosan ellenőrzi. A Hatóság jelzi a miniszternek, ha a szerződésben vállalt kötelezettségek megszegését állapítja meg. Az egyetemes szolgáltató az ellenőrzéshez köteles a kötelezettségek teljesítésére vonatkozó adatokat a Hatóságnak folyamatosan szolgáltatni. A kötelezettségek teljesítéséről készített értékelő adatok nyilvánosak.
 
-(2) Amennyiben az egyetemes szolgáltató tartósan nem teljesíti a szerződésben meghatározott szolgáltatás-minőségi értékeket, a hatóság elrendelheti azok független szakértő általi ellenőrzését, és előírhatja az ellenőrzés költségeinek az érintett szolgáltató által történő megfizetését.
+(2) Amennyiben az egyetemes szolgáltató tartósan nem teljesíti a szerződésben meghatározott szolgáltatás-minőségi értékeket, a Hatóság elrendelheti azok független szakértő általi ellenőrzését, és előírhatja az ellenőrzés költségeinek az érintett szolgáltató által történő megfizetését.
 
 (3) Ha az egyetemes szolgáltató a szerződésben vállalt kötelezettségét megszegi, új egyetemes szolgáltató kijelöléséről a miniszter köteles gondoskodni oly módon, hogy az új szolgáltatóval történő szerződéskötésig az egyetemes szolgáltatást a szerződésszegő szolgáltató biztosítja.
 

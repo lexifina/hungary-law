@@ -1,6 +1,6 @@
-## A Tanács döntései
+## Az Elnök döntései
 
-45. § (1) A Tanács a döntésében
+45. § (1) Az Elnök a döntésében
 
 a) elutasítja az alaptalan kérelmet;
 
@@ -28,10 +28,10 @@ l) ideiglenes intézkedést rendelhet el;
 
 m) a 49. § (4)–(6) bekezdéseiben meghatározott esetekben hatáskör hiányában megszünteti az eljárást.
 
-(2) A hálózati szolgáltatások ellenértékével kapcsolatos jogvita esetén a Tanács az (1) bekezdésben foglaltak mellett megtilthatja az ellenérték további alkalmazását, egyidejűleg megállapíthatja a jogszerű árat és kötelezheti a szolgáltatót a jogszerű ár alkalmazására.
+(2) A hálózati szolgáltatások ellenértékével kapcsolatos jogvita esetén az Elnök az (1) bekezdésben foglaltak mellett megtilthatja az ellenérték további alkalmazását, egyidejűleg megállapíthatja a jogszerű árat és kötelezheti a szolgáltatót a jogszerű ár alkalmazására.
 
-(3) Ha a Tanács az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező hatóságnak, így különösen a versenyhatóságnak, illetve a fogyasztóvédelmi hatóságnak.
+(3) Ha az Elnök az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező hatóságnak, így különösen a versenyhatóságnak, illetve a fogyasztóvédelmi hatóságnak.
 
-(4) A Tanács az (1) és (2) bekezdésben szereplő jogkövetkezmények közül többet is alkalmazhat.
+(4) Az Elnök az (1) és (2) bekezdésben szereplő jogkövetkezmények közül többet is alkalmazhat.
 
 (5) A határozatot a feleknek és egyéb érdekelteknek kézbesíteni kell, és közzé kell tenni.

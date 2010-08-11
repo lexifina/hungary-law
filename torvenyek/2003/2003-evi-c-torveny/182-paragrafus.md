@@ -10,7 +10,7 @@ c) a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság
 
 (2) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában
 
-a) a hatóság feladat- és hatáskörét, valamint eljárásainak részletes szabályait;
+a) a Hatóság feladat- és hatáskörét, valamint eljárásainak részletes szabályait;
 
 b) az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 
@@ -32,7 +32,7 @@ j) az Egyetemes Elektronikus Hírközlési Támogatási Kassza létrehozására,
 
 k) a zártcélú hálózatokra vonatkozó, e törvénytől eltérő szabályokat;
 
-l) a digitális rádió- és televízió-műsorok elérése érdekében a hatóság által a 100. § (3) bekezdése alapján előírható kötelezettségek részletes szabályait;
+l) a digitális rádió- és televízió-műsorok elérése érdekében a Hatóság által a 100. § (3) bekezdése alapján előírható kötelezettségek részletes szabályait;
 
 m) a távirat-szolgáltatás ellátásának részletes szabályait;
 
@@ -56,13 +56,17 @@ g) a rádióberendezések és elektronikus hírközlő végberendezések megfele
 
 h) a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
 
-i) az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét.
+i) az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét;
+
+j) a nem polgári célú frekvenciát használó rádióberendezésekre vonatkozó, a 80. § (1) bekezdésében és az annak alapján alkotott jogszabályokban foglalt megfelelőségigazolás és az alapvető követelmények alkalmazásának módját, illetve az attól való eltéréseket;
+
+k) a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, a mérőszolgálati és zavarelhárítási tevékenység és az adatszolgáltatás rendjét a nem polgári célú frekvenciagazdálkodás területén.
 
 (4) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában:
 
 a) az elektronikus hírközlő hálózatokra vonatkozó műszaki feltételrendszert;
 
-b) a hatóság eljárásainak díjai és a felügyeleti díj megfizetésének módját és feltételeit, valamint – a hatóság véleményét kikérve – e díjak mértékét az adópolitikáért felelős miniszterrel egyetértésben;
+b) a Hatóság eljárásainak díjai és a felügyeleti díj megfizetésének módját és feltételeit, valamint – a Hatóság véleményét kikérve – e díjak mértékét az adópolitikáért felelős miniszterrel egyetértésben;
 
 c)
 
@@ -80,7 +84,7 @@ i)
 
 j) település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
 
-k) a hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, a hatóság adatkezelésére, a nyilvántartás vezetésére vonatkozó szabályokat;
+k) a Hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, a Hatóság adatkezelésére, a nyilvántartás vezetésére vonatkozó szabályokat;
 
 l) a védelmi feladatokban részt vevő elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
 
@@ -102,13 +106,7 @@ t) a segélyhívások megválaszolása céljából a hívó fél azonosításár
 
 (5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszterrel együttesen kiadott rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszter, hogy – a miniszterrel egyetértésben – rendeletben állapítsa meg:
-
-a) a nem polgári célú frekvenciát használó rádióberendezésekre vonatkozó, a 80. § (1) bekezdésében és az annak alapján alkotott jogszabályokban foglalt megfelelőség-igazolás és az alapvető követelmények alkalmazásának módját, illetve az attól való eltéréseket;
-
-b) a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, a mérőszolgálati és zavarelhárítási tevékenység és az adatszolgáltatás rendjét a nem polgári célú frekvenciagazdálkodás területén;
-
-c) a nem polgári célú frekvenciasávok felhasználási szabályait.
+(6)
 
 (7) Felhatalmazást kap a miniszter, hogy – az építésügyért és, a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszterrel egyetértésben – az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét, illetve keresztezését rendeletben állapítsa meg.
 

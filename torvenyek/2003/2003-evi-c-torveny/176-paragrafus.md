@@ -1,1 +1,0 @@
-176. § A 168. § (1) bekezdésében meghatározott időpontig a bérelt-vonali szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató köteles a bérelt-vonali szolgáltatást műszaki és használati feltételeiben egységes – külön jogszabályban meghatározott – jellemzőkkel és előírt szolgáltatásválasztékban nyújtani.

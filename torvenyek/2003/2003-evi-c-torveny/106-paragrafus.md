@@ -1,10 +1,10 @@
 ## Hozzáféréssel és összekapcsolással kapcsolatos kötelezettségek
 
-106. § (1) A jelentős piaci erővel rendelkező szolgáltató a meghatározott hálózati elemekhez, szolgáltatásokhoz való hozzáférést és a kapcsolódó közös eszközhasználatot, erre vonatkozó gazdaságilag és műszakilag indokolt igény esetén – a hatóság határozatában foglaltak szerint – biztosítani köteles.
+106. § (1) A jelentős piaci erővel rendelkező szolgáltató a meghatározott hálózati elemekhez, szolgáltatásokhoz való hozzáférést és a kapcsolódó közös eszközhasználatot, erre vonatkozó gazdaságilag és műszakilag indokolt igény esetén – a Hatóság határozatában foglaltak szerint – biztosítani köteles.
 
-(2) A hatóság az (1) bekezdés szerinti kötelezettséget különösen akkor írhat elő, ha a hozzáférés megtagadása, a korábbi hozzáférés visszavonása vagy hasonló hatással járó ésszerűtlen feltételek kikötése a hatóság mérlegelése szerint megakadályozná a hatékony piaci verseny kialakulását az előfizetői szolgáltatások terén, és ebből eredően az előfizetők érdekeivel ellentétes eredményre vezetne.
+(2) A Hatóság az (1) bekezdés szerinti kötelezettséget különösen akkor írhat elő, ha a hozzáférés megtagadása, a korábbi hozzáférés visszavonása vagy hasonló hatással járó ésszerűtlen feltételek kikötése a Hatóság mérlegelése szerint megakadályozná a hatékony piaci verseny kialakulását az előfizetői szolgáltatások terén, és ebből eredően az előfizetők érdekeivel ellentétes eredményre vezetne.
 
-(3) A hatóság az (1) bekezdésben foglaltak előírása során különösen arra kötelezheti a szolgáltatót, hogy
+(3) A Hatóság az (1) bekezdésben foglaltak előírása során különösen arra kötelezheti a szolgáltatót, hogy
 
 a) hozzáférést biztosítson meghatározott hálózati elemekhez és eszközökhöz, beleértve a helyi hurok átengedését és a bitfolyam hozzáférést;
 
@@ -24,9 +24,9 @@ h) megfelelő biztonsági és alkalmazási feltételek szerint hozzáférést bi
 
 i) összekapcsoljon, illetve csatlakoztasson hálózatokat vagy hálózati eszközöket.
 
-(4) A hatóság a határozatában megállapítja az (1) bekezdés szerinti kötelezettségek teljesítésének részletes feltételeit, továbbá megállapíthat olyan, mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.
+(4) A Hatóság a határozatában megállapítja az (1) bekezdés szerinti kötelezettségek teljesítésének részletes feltételeit, továbbá megállapíthat olyan, mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.
 
-(5) A hatóság az (1) bekezdés szerinti kötelezettségek előírása során különösen a következő szempontokat veszi figyelembe:
+(5) A Hatóság az (1) bekezdés szerinti kötelezettségek előírása során különösen a következő szempontokat veszi figyelembe:
 
 a) az egymással versengő eszközök használatának vagy telepítésének műszaki megvalósíthatóságát és gazdasági ésszerűségét a piac fejlődési ütemétől függően, figyelembe véve az érintett összekapcsolás és hozzáférés jellegét és típusát;
 

@@ -18,4 +18,4 @@ f) a fogyatékkal élő személyek általi használatra.
 
 (4) A rádióberendezés és elektronikus hírközlő végberendezés alapvető követelményeknek való megfelelését a miniszter rendeletében meghatározottak szerint – megfelelőség értékelési eljárás alapján tett – megfelelőségi nyilatkozatban kell igazolni.
 
-(5) A megfelelőségi nyilatkozat, valamint a megfelelőség értékelési eljárás során keletkezett, illetőleg előírt dokumentumok (így különösen műszaki dokumentáció, kijelölt tanúsító szerv megfelelőségi tanúsítványa) meglétét, valamint az alapvető követelményeknek való megfelelést a hatóság piacfelügyeleti eljárás keretében ellenőrzi.
+(5) A megfelelőségi nyilatkozat, valamint a megfelelőség értékelési eljárás során keletkezett, illetőleg előírt dokumentumok (így különösen műszaki dokumentáció, kijelölt tanúsító szerv megfelelőségi tanúsítványa) meglétét, valamint az alapvető követelményeknek való megfelelést a Hatóság piacfelügyeleti eljárás keretében ellenőrzi.

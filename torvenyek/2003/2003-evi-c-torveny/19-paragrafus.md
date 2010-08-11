@@ -1,5 +1,9 @@
-## A hatóság alkalmazottai
+## A Hatóság alkalmazottai
 
-19. § (1) A hatóság alkalmazottai közszolgálati jogviszonyban állnak, akikre az e törvényben meghatározott eltérésekkel a Ktv. rendelkezéseit kell alkalmazni, azzal, hogy – a Tanács elnökének és tagjainak kivételével – a Ktv. 30/A. §-ának (1) bekezdésében megállapított arány 35%, továbbá a 44. §-ának (1) bekezdésében a középiskolai végzettségű köztisztviselők részére megállapított illetménykiegészítés mértéke 35%.
+19. § (1) A Hatóság esetében
+
+a) a Ktv. 30/A. § (2) bekezdése szerint adományozható szakmai tanácsadói és szakmai főtanácsadói címmel rendelkezők aránya együttesen a Hatóság felsőfokú iskolai végzettségű köztisztviselői létszámának 35%-át nem haladhatja meg, és
+
+b) – a Ktv. 44. § (1) bekezdésétől eltérően – a középiskolai végzettségű köztisztviselő illetménykiegészítésének mértéke az alapilletményének 35%-a.
 
 (2)

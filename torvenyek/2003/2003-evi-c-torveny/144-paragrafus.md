@@ -24,6 +24,6 @@ b) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 2. §-ának
 
 (4) A (2) bekezdés d) pontjában meghatározott értesítési módot a szolgáltató kizárólag e törvény 136. § (1) bekezdése és a 132. § (4) bekezdése szerinti értesítések esetén alkalmazhatja.
 
-(5) A hatóság annak érdekében, hogy az előfizetők, illetve felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak, előírhatja, hogy a hírközlési szolgáltatók az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, valamint áráról adatokat szolgáltassanak a hatóságnak, illetve ilyen adatokat tegyenek közzé.
+(5) A Hatóság annak érdekében, hogy az előfizetők, illetve felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak, előírhatja, hogy a hírközlési szolgáltatók az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, valamint áráról adatokat szolgáltassanak a Hatóságnak, illetve ilyen adatokat tegyenek közzé.
 
-(6) A hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé.
+(6) A Hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé.

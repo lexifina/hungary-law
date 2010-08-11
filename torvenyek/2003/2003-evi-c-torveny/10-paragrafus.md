@@ -1,4 +1,4 @@
-10. § A hatóság
+10. § A Hatóság
 
 a) szükség szerint, de legalább évente nyilatkozik a hatáskörével összefüggő, elektronikus hírközlésre vonatkozó jogszabályok megalkotásának, illetőleg módosításának szükségességéről, közreműködik a hatáskörével összefüggő jogszabályok előkészítésében;
 
@@ -40,4 +40,6 @@ s) ellátja az információs társadalommal összefüggő szolgáltatásokkal ka
 
 t) közreműködik a Kormány elektronikus hírközléssel kapcsolatos nemzetközi tevékenységének előkészítésében, részt vesz a nemzetközi kötelezettségek végrehajtásában, ellátja a Magyar Köztársaság képviseletét az elektronikus hírközléssel kapcsolatos nemzetközi szervezetekben, kapcsolatot tart az Európai Bizottsággal és más tagállami szabályozó hatóságokkal;
 
-u) ellátja a jogszabályban meghatározott egyéb feladatokat.
+u) ellátja a jogszabályban meghatározott egyéb feladatokat;
+
+v) eljár a nem polgári célú frekvenciagazdálkodással kapcsolatos hatósági ügyekben.

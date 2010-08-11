@@ -1,25 +1,37 @@
-16. § A Tanács elnöke
+16. § (1) Az Elnök további feladatai:
 
-a) összehívja és vezeti a Tanács üléseit, valamint intézkedik annak előkészítéséről,
+a) összehívja, és vezeti a Médiatanács üléseit
 
-b) javaslatot tesz a hatóság felügyeletét ellátó miniszternek a Hivatal főigazgatójának személyére, és – a kinevezés és felmentés kivételével – gyakorolja felette a munkáltatói jogokat,
+aa) addig az időpontig, ameddig az Országgyűlés nem választja meg a Médiatanács elnökévé, tanácskozási joggal,
 
-c) kinevezi a Hírközlési Fogyasztói Jogok Képviselőjét, és gyakorolja felette a munkáltatói jogokat,
+ab) a Médiatanács elnökévé történő megválasztását követően szavazati joggal,
 
-d) a kinevezés és a felmentés kivételével gyakorolja a munkáltatói jogokat a Tanács tagjai tekintetében,
+b) intézkedik a Médiatanács üléseinek előkészítéséről,
 
-e) előkészíti a hatóság Szervezeti és Működési Szabályzatát,
+c) kinevezi az elnökhelyetteseket, és gyakorolja felettük a munkáltatói jogokat, ideértve a felmentést, illetve a visszahívást is,
 
-f) képviseli a hatóságot, különösen az Európai Bizottsággal és a tagállami szabályozó hatóságokkal történő kapcsolattartás és a 65. § szerinti egyeztetés során,
+d) kinevezi a Hivatal főigazgatóját és gyakorolja felette a munkáltatói jogokat, ideértve a felmentést és a visszahívást is,
 
-g) minden év február 28-áig közzéteszi a hatóság éves munkatervét és költségvetési tervének főbb mutatószámait, valamint június 30-áig előző évi gazdálkodásának éves értékelését abból a célból, hogy a piac szereplői a hatóság tevékenységéről és gazdálkodásáról tájékoztatást kapjanak,
+e) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a főigazgató-helyetteseket,
 
-h) évente megállapítja a szakmai előkészítő munkákkal kapcsolatos feladatokat,
+f) kinevezi, felmenti, illetve visszahívja a Hírközlési és Média Biztost, és gyakorolja felette a munkáltatói jogokat,
 
-i) jelzi a hatóság felügyeletét ellátó miniszternek a hírközlés biztonságát veszélyeztető körülményeket, és javaslatot tesz az általa szükségesnek ítélt intézkedések megtételére,
+g) elfogadja a Hatóság Szervezeti és Működési Szabályzatát,
 
-j) megbízás alapján eljár nemzetközi szervezeteknél,
+h) képviseli a Hatóságot, különösen az Európai Bizottsággal és a tagállami szabályozó hatóságokkal történő kapcsolattartás és a 65. § szerinti egyeztetés során,
 
-k) előkészíti, és a hatóság nevében a Tanács döntése alapján évente együttműködési megállapodást köt a fogyasztóvédelmi hatósággal és a versenyhatósággal,
+i) minden év február 28-áig közzéteszi a Hatóság éves munkatervét és költségvetési tervének főbb mutatószámait, valamint június 30-áig előző évi gazdálkodásának éves értékelését abból a célból, hogy a piac szereplői a Hatóság tevékenységéről és gazdálkodásáról tájékoztatást kapjanak,
 
-l) másodfokú szervként jár el a Hivatal hatósági ügyei tekintetében.
+j) évente megállapítja a szakmai előkészítő munkákkal kapcsolatos feladatokat,
+
+k) jelzi a miniszternek a hírközlés biztonságát veszélyeztető körülményeket, és javaslatot tesz az általa szükségesnek ítélt intézkedések megtételére,
+
+l) megbízás alapján eljár nemzetközi szervezeteknél,
+
+m) a Hatóság nevében évente együttműködési megállapodást köt a fogyasztóvédelmi hatósággal és a versenyhatósággal,
+
+n) másodfokú szervként jár el a Hivatal hatósági ügyei tekintetében,
+
+o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH igazgatóját.
+
+(2) Az Elnöknek a Médiatanács elnökévé jelölésére és megválasztására vonatkozó szabályokat az Rttv. tartalmazza.

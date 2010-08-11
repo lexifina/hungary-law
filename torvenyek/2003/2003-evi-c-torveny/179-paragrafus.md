@@ -1,1 +1,0 @@
-179. § A 170–178. §-ok szerinti távbeszélő, összekapcsolási, mobil rádiótelefon és bérelt-vonali szolgáltatási piacon jelentős piaci erejű szolgáltató alatt az e törvény hatálybalépésekor a Hírközlési Döntőbizottság által ilyen szolgáltatóként azonosított szolgáltatót kell érteni.

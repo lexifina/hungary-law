@@ -4,7 +4,7 @@
 
 (2) A hírközlő berendezés működésében zavart okozó berendezés üzemben tartója köteles a zavart megelőzni, illetőleg a keletkezett zavart megszüntetni.
 
-(3) A hatóság köteles a zavart okozó villamos vagy elektronikus berendezés üzemben tartóját a zavar megszüntetésére felszólítani. Ha az üzemben tartó a zavart a műszakilag elengedhetetlenül szükséges időtartamon belül a felszólítás ellenére sem szünteti meg, a hatóság határozattal elrendelheti a berendezés zavarszűrését, áthelyezését vagy üzemidejének korlátozását, illetőleg a zavar más módon való megszüntetését.
+(3) A Hatóság köteles a zavart okozó villamos vagy elektronikus berendezés üzemben tartóját a zavar megszüntetésére felszólítani. Ha az üzemben tartó a zavart a műszakilag elengedhetetlenül szükséges időtartamon belül a felszólítás ellenére sem szünteti meg, a Hatóság határozattal elrendelheti a berendezés zavarszűrését, áthelyezését vagy üzemidejének korlátozását, illetőleg a zavar más módon való megszüntetését.
 
 (4) A (3) bekezdésben foglalt határozatnak akkor is helye van, ha a zavart okozó villamos vagy elektronikus berendezés zavarkibocsátás szempontjából megfelelő és használata jogszerű, kivéve, ha a zavart költség nélkül vagy csekély költséggel – a zavarérzékenység szempontjából megfelelő zavart villamos vagy elektronikus berendezés áthelyezésével vagy tartozékainak megváltoztatásával – meg lehet szüntetni.
 

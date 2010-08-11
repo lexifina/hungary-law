@@ -22,7 +22,7 @@ h) a szerződésszegés esetén alkalmazandó jogkövetkezményekről;
 
 i) a harmadik személyeknek nyújtott szolgáltatásokért fennálló felelősség viselésének módjáról és mértékéről.
 
-(3) Az elektronikus hírközlési tevékenységet végző és az általa irányított, őt irányító vagy vele közös irányítás alatt álló más szolgáltatóval e törvény hatálybalépését követően létrejött hálózati szerződést a feleknek a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtaniuk a hatósághoz.
+(3) Az elektronikus hírközlési tevékenységet végző és az általa irányított, őt irányító vagy vele közös irányítás alatt álló más szolgáltatóval e törvény hatálybalépését követően létrejött hálózati szerződést a feleknek a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtaniuk a Hatósághoz.
 
 (4) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 6 hónapon belül tervezett változtatásokat is.
 

@@ -1,4 +1,4 @@
-12. § A hatóság a frekvenciagazdálkodással kapcsolatban:
+12. § A Hatóság a frekvenciagazdálkodással kapcsolatban:
 
 a) közzéteszi a rádiófrekvencia-használatra vonatkozó rádiófrekvencia sáv felhasználási és kiosztási követelményeket és feltételeket;
 

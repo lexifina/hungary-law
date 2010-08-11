@@ -1,6 +1,6 @@
 ## Bírság
 
-33. § (1) A hatóság az elektronikus hírközlésre vonatkozó szabály és az általános szerződési feltételek megsértőjével szemben a jelen § keretei között bírságot alkalmazhat. A hatóság a kiszabott bírság összegét a jogsértésnek az elektronikus hírközlési piacra gyakorolt hatására, a jogsértéssel személyhez fűződő jogában vagy vagyonában sértett vagy veszélyeztetett felhasználók számára, az érdeksérelem mértékére, valamint az elektronikus hírközlési szolgáltató, illetve frekvenciahasználó által a jogsértéssel elért vagyoni előnyre tekintettel állapítja meg, figyelembe véve, hogy a kiszabott bírság alkalmas legyen a jogsértést elkövető vagy más személy további jogsértéstől való visszatartására.
+33. § (1) A Hatóság az elektronikus hírközlésre vonatkozó szabály és az általános szerződési feltételek megsértőjével szemben a jelen § keretei között bírságot alkalmazhat. A Hatóság a kiszabott bírság összegét a jogsértésnek az elektronikus hírközlési piacra gyakorolt hatására, a jogsértéssel személyhez fűződő jogában vagy vagyonában sértett vagy veszélyeztetett felhasználók számára, az érdeksérelem mértékére, valamint az elektronikus hírközlési szolgáltató, illetve frekvenciahasználó által a jogsértéssel elért vagyoni előnyre tekintettel állapítja meg, figyelembe véve, hogy a kiszabott bírság alkalmas legyen a jogsértést elkövető vagy más személy további jogsértéstől való visszatartására.
 
 (2) A bírság összegének felső határa
 
@@ -20,7 +20,7 @@ g) műsorterjesztéssel kapcsolatos elektronikus hírközlési szabály megsért
 
 h) rádiófrekvencia, illetve azonosító engedély nélküli használata esetén a jogsértő árbevételének 1%-a, árbevétel hiányában legalább 10 000 Ft, legfeljebb 100 000 Ft.
 
-(3) A hatóság a (2) bekezdésben nem szabályozott esetekben
+(3) A Hatóság a (2) bekezdésben nem szabályozott esetekben
 
 a) az árbevételének legfeljebb 0,05%-ának megfelelő mértékű, de legalább 100 000 Ft összegű,
 
@@ -32,7 +32,7 @@ pénzbírsággal sújthatja – ismételt jogsértés esetén sújtani köteles 
 
 (4) A Nemzetbiztonsági Szakszolgálattal kapcsolatos – e törvényben meghatározott – kötelezettségek megsértése esetén a bírság összege a jogsértő szolgáltató árbevételének 0,5%-a.
 
-(5) A hatóság a (2)–(4) bekezdések szerinti esetekben, az ott meghatározottakon túlmenően 50 000 forinttól 3 millió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő szervezet vezető tisztségviselőjét.
+(5) A Hatóság a (2)–(4) bekezdések szerinti esetekben, az ott meghatározottakon túlmenően 50 000 forinttól 3 millió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő szervezet vezető tisztségviselőjét.
 
 (6) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 

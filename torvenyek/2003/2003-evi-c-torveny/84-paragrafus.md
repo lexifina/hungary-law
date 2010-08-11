@@ -16,6 +16,6 @@
 
 (8) Ha a frekvenciahasználati jog visszavonására jogszabály, különösen jogszabállyal kihirdetett nemzetközi kötelezettségvállalás módosulása következtében került sor, a jogosultat kártérítés illeti meg a központi költségvetés terhére, amely nem terjed ki az elmaradt haszonra.
 
-(9) Jogutódlás esetében a frekvenciahasználat – a jogutódlástól számított harminc napon belül – a hatósághoz történt bejelentés alapján folytatható. A bejelentés tudomásulvételét a hatóság megtagadhatja, ha a rádióengedély visszavonásának volna helye.
+(9) Jogutódlás esetében a frekvenciahasználat – a jogutódlástól számított harminc napon belül – a Hatósághoz történt bejelentés alapján folytatható. A bejelentés tudomásulvételét a Hatóság megtagadhatja, ha a rádióengedély visszavonásának volna helye.
 
 (10) A bejelentéshez (egyszerűsített rádióengedélyhez) kötött frekvenciák használatára vonatkozó hatósági ügyekben az elektronikus kapcsolattartás kötelező, kivéve ha az az adott eljárási cselekmény tekintetében nem értelmezhető.

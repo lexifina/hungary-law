@@ -4,9 +4,9 @@
 
 ## Nyilvántartások vezetése
 
-66. § (1) A hatóság hatósági feladatainak ellátása során hatósági nyilvántartásokat vezet.
+66. § (1) A Hatóság hatósági feladatainak ellátása során hatósági nyilvántartásokat vezet.
 
-(2) A hatóság nyilvántartást vezet különösen:
+(2) A Hatóság nyilvántartást vezet különösen:
 
 a) az elektronikus hírközlési szolgáltatókról és az általuk nyújtott szolgáltatásokról;
 
@@ -20,7 +20,7 @@ e) külön jogszabályokban meghatározott egyedi engedélyekről;
 
 f)
 
-g) a hatósághoz benyújtott referenciaajánlatokról és hálózati szerződésekről;
+g) a Hatósághoz benyújtott referenciaajánlatokról és hálózati szerződésekről;
 
 h) a nem azonosítható hívószámokról (elektronikus nyilvántartás);
 
@@ -30,4 +30,4 @@ j)
 
 (3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 
-(4) A hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.
+(4) A Hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.

@@ -1,6 +1,6 @@
 95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával nincs lehetőség, és a közüzemi szolgáltató, vagy a magántulajdonban álló ingatlan tulajdonosa (kezelője, használója) és a szolgáltató között megállapodás nem jött létre, az elektronikus hírközlési építmény e § szerinti eljárásban elsősorban a közüzemi szolgáltató létesítményén, illetve másodsorban magántulajdonban álló ingatlanon (érintett ingatlan) is elhelyezhető.
 
-(2) A hatóság a szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha a szolgáltató bizonyítja, hogy
+(2) A Hatóság a szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha a szolgáltató bizonyítja, hogy
 
 a) az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett,
 

@@ -1,4 +1,4 @@
-186. § (1) Ahol jogszabály Hírközlési Felügyeletet, Hírközlési Főfelügyeletet, Hírközlési Főfelügyelet területi szerveit, Hírközlési Területi Hivatalt említ, ott a Nemzeti Hírközlési Hatóságot kell érteni.
+186. § (1)
 
 (2) Ahol e törvény hatálybalépését megelőzően kiadott jogszabály olyan meghatározást használ, amely tartalmát tekintve megfelel e törvény 188. §-a szerinti meghatározásnak, e törvény meghatározását kell érteni, így különösen ahol
 

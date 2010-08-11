@@ -1,6 +1,6 @@
 ## A közös eszközhasználat és helymegosztás különös szabályai
 
-107. § (1) A hatóság határozatában közös eszközhasználatra és helymegosztásra kötelezett jelentős piaci erővel rendelkező szolgáltató (e § alkalmazásában: kötelezett szolgáltató) – a 90. §-ban foglalt kötelezettségeken túl – köteles a jelen § szerinti adatokat a jogosult részére megadni, és a jogosult szolgáltatóval az alábbi szabályok szerint együttműködni.
+107. § (1) A Hatóság határozatában közös eszközhasználatra és helymegosztásra kötelezett jelentős piaci erővel rendelkező szolgáltató (e § alkalmazásában: kötelezett szolgáltató) – a 90. §-ban foglalt kötelezettségeken túl – köteles a jelen § szerinti adatokat a jogosult részére megadni, és a jogosult szolgáltatóval az alábbi szabályok szerint együttműködni.
 
 (2) A helymegosztás keretében meg kell határozni különösen:
 
