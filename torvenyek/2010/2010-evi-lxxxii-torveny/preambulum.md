@@ -1,0 +1,1 @@
+Az Országgyűlés a hírközlési- és a médiafelügyelet integrált hatósági rendszerének kialakítása érdekében, biztosítva a közszolgálati műsorszolgáltatók és a nemzeti hírügynökség működőképességét és függetlenségük védelmét, összhangban a Magyar Köztársaság alkotmányos rendjével az alábbi törvényt alkotja:
