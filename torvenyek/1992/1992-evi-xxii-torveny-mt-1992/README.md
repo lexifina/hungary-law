@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-22-00-00
 | 2010-03-31 | 2010. évi XXXIX. törvény | 1992-22-00-00.67 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1992-22-00-00.68 |
 | 2010-05-01 | 2009. évi CXXVI. törvény | 1992-22-00-00.69 |
+| 2010-08-14 | 2010. évi XC. törvény | 1992-22-00-00.70 |
