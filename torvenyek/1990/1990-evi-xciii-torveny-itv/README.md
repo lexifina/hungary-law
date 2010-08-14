@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2010-01-13 | 2009. évi CXXXVI. törvény | 1990-93-00-00.89 |
 | 2010-05-01 | 2009. évi CXLIX. törvény | 1990-93-00-00.90 |
 | 2010-06-01 | 2009. évi L. törvény | 1990-93-00-00.91 |
+| 2010-08-14 | 2010. évi XC. törvény | 1990-93-00-00.92 |
