@@ -1,1 +1,1 @@
-133. § A II. Fejezet e törvény kihirdetését követő 44. napot követő hónap első napján lép hatályba, rendelkezéseit a 2010. január 1-jétől megszerzett, a II. Fejezet hatálya alá tartozó jövedelmekre kell alkalmazni.
+133. §

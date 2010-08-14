@@ -1,1 +1,0 @@
-12. § E fejezet alkalmazásában rendszeres járandóságnak minősül minden olyan bevétel – különösen bér, munkadíj, tiszteletdíj – amely a magánszemélyt a jogviszony megszűnéséig e jogviszonyra tekintettel jogszabály vagy szerződés alapján a legutolsó besorolás szerint meghatározott időközönként vagy a tartós megbízás teljes időtartamára illeti meg.
