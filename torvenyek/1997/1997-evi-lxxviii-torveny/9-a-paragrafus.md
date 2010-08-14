@@ -8,4 +8,4 @@ ab) területfelhasználási változást nem jelent, és
 
 ac) már a 9. § (2) bekezdés szerinti véleményeztetéshez részletesen kidolgozásra került és véleményeztetése megtörtént, vagy
 
-b) a módosítás elírás javítása érdekében történik.
+b) a módosítás elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatlanság javítása, vagy magasabb szintű jogszabályi változás átvezetése érdekében történik.

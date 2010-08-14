@@ -32,7 +32,7 @@
 
 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési önkormányzati rendelet.
 
-12. Integrált településfejlesztési stratégia: középtávú, stratégiai szemléletű, megvalósításorientált településfejlesztési dokumentum.
+12. Integrált településfejlesztési stratégia: stratégiai szemléletű, a településfejlesztési koncepcióban foglaltak megvalósítását szolgáló dokumentum.
 
 13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet a rendeltetésének megfelelően bárki használhat, és az ingatlan-nyilvántartás ekként tart nyilván. Egyéb ingatlanoknak a közhasználat céljára átadott területrészére – az erről szóló külön szerződésben foglaltak keretei között – a közterületre vonatkozó rendelkezéseket kell alkalmazni. Közterület rendeltetése különösen: a közlekedés biztosítása (utak, terek), a pihenő és emlékhelyek kialakítása (parkok, köztéri szobrok stb.), a közművek elhelyezése.
 

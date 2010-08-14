@@ -18,7 +18,7 @@ h) a beruházáslebonyolítói és az energetikai tanúsítói tevékenység fol
 
 i) az építésügy körébe tartozó tevékenységek ellátásához szükséges nyilvántartások, adatszolgáltatások (adatbázisok és információs rendszerek) létesítésének és működésének feltételeit,
 
-j)
+j) a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő kivételes építési követelményeket, engedélyezési és kötelezési eljárási szabályokat, tervdokumentáció tartalmi követelményeit, a kivételes tervellenőrzési, tervpályázati és tervtanácsi szabályokat, továbbá az építőipari kivitelezési tevékenység eltérő szabályait,
 
 k) az építmények energiafelhasználásának minőségtanúsítására és annak díjazására,
 
@@ -48,7 +48,9 @@ w) a tervezés elősegítése érdekében, vagy az ingatlan adataiban bekövetke
 
 x) a vállalkozói kivitelezői tevékenység folytatásának részletes feltételeit, az e tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-y) a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmi követelményeit, időtávjait, munkarészeit, készítésének, egyeztetésének és felülvizsgálatának szabályait, valamint az önkormányzati településfejlesztési döntéseket megalapozó más dokumentumokhoz való viszonyát
+y) a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmi követelményeit, időtávjait, munkarészeit, készítésének, egyeztetésének és felülvizsgálatának szabályait, valamint az önkormányzati településfejlesztési döntéseket megalapozó más dokumentumokhoz való viszonyát,
+
+z) a településfejlesztési terv tartalmi követelményeire vonatkozó részletes szabályokat
 
 rendelettel állapítsa meg.
 
@@ -95,3 +97,5 @@ t) a miniszter által adományozandó szakmai díjak átadásának és a díjakk
 (4) A sajátos építményfajtákra, valamint a műemlékvédelem alatt álló építményekre vonatkozóan a (2) bekezdésben foglalt szabályozási feladatokat – e törvényben foglaltakkal összhangban és a miniszterrel egyetértésben – az építményfajta szerint illetékes miniszter gyakorolja.
 
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendelettel állapítsa meg.
+
+(6) Felhatalmazást kap a miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető, továbbá az építési, a bontási és a használatbavételi bejelentésre vonatkozó igazgatási szolgáltatási díjakat.

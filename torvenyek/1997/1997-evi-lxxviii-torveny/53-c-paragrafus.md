@@ -1,4 +1,6 @@
-53/C. § (1)–(5)
+53/C. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
+
+(2)–(5)
 
 (6)
 

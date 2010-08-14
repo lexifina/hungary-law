@@ -22,7 +22,7 @@ j) a közlekedési kényszer (lakóhely-munkahely, nyersanyag kitermelés-feldol
 
 (2) Az (1) bekezdésben foglaltak érvényesülése – különösen a természet- és a környezetvédelem, az erdők és a természetes (felszíni és felszín alatti) vizek védelme, az ár- és belvízvédelem, valamint a termőfölddel és a területekkel való takarékos bánás – érdekében az alábbi követelményeknek kell érvényt szerezni:
 
-a) a települések rendezése során a település közigazgatási területére hulló felszíni csapadékvíz összegyűjtését és helyben tartását vagy szakszerű és ártalommentes elvezetését, kezelését az adottságok és a lehetőségek figyelembevételével biztosítani kell,
+a) a települések rendezése során a település közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését, vagy részbeni összegyűjtését és helyben tartását az adottságok és a lehetőségek figyelembevételével, a belterületi és külterületi vízrendezés összehangolásával biztosítani kell,
 
 b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének – a külön jogszabály alapján számított – biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest nem csökkenhet,
 
