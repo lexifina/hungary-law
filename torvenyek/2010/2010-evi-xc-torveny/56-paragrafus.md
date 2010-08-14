@@ -1,0 +1,3 @@
+56. § Az Áht. az alábbi 121/D. §-al egészül ki:
+
+„121/D. § A költségvetési szerv vezetője és gazdasági vezetője köteles rendszeres továbbképzésen részt venni az államháztartási belső kontrollok témakörében. A továbbképzés részletszabályait az államháztartásért felelős miniszter rendeletben szabályozza.”

@@ -1,0 +1,1 @@
+152. § Az egyes energetikai tárgyú törvények módosításáról szóló 2010. évi VII. törvény 51. § (3) bekezdésében a „2010. október 1-jén” szövegrész helyébe a „2011. március 3-án” szöveg, 51. § (4) bekezdésében a „2011. március 3-án” szövegrész helyébe a „2012. március 3-án” szöveg és 51. § (6) bekezdésében a „2011. március 4-én” szövegrész helyébe a „2012. március 4-én” szöveg lép.

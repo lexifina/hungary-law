@@ -1,0 +1,1 @@
+Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltételeinek megteremtése, a gazdaság versenyképességének helyreállítása és az adminisztrációs terhek csökkentése érdekében a következő törvényt alkotja:

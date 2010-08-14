@@ -1,0 +1,1 @@
+61. § Az Áht. 48. § g) pontjában az „illetve a 98. § (4) bekezdése” szövegrész helyébe az „a 100/F. § (4) bekezdése” szöveg, 49. § (7) bekezdésében az „(5) és (6) bekezdésben” szövegrész helyébe az „(5) bekezdésben” szöveg, és 83/A. §-ában az „e törvény 87. és 90–100/E. §-ait” szövegrész helyébe az „e törvény 97–100/G. és 100/J. §-ait” szöveg lép.

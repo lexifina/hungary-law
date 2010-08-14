@@ -1,0 +1,7 @@
+83. § A Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet a következő 83/A. §-sal egészül ki:
+
+„(A Ptk. 261. §-ához)
+
+83/A. § (1) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 81. §-ával megállapított Ptk. 261. § (4) bekezdését csak a hatálybalépését követően kötött jelzálogjog alapítására irányuló szerződésre kell alkalmazni azzal, hogy a hatálybalépését megelőzően kötött jelzálogjoggal biztosított kölcsönszerződés tekintetében sincsen akadálya annak, hogy a szerződéses jogviszonyban történő jogutódlás (hitelezői engedményezés vagy adósi tartozásátvállalás) és a kölcsönszerződés módosítása, vagy megszüntetése és új szerződés kötése következtében az adóssal szemben zálogjogosultként más személy javára, vagy azonos hitelező azonos követelésének biztosítására a kölcsönszerződés módosítása miatt más pénznemben és összegben alapítsanak vagy jegyezzenek be jelzálogjogot (kölcsönkiváltás), valamint hogy a hitelezői követelés fedezetéül szolgáló ingatlanra bejegyzett jelzálogjog törlésével egyidejűleg másik felajánlott ingatlanra alapítsanak jelzálogjogot (fedezetcsere) abban az esetben, ha a jelzálogjog és az azzal biztosított követelés mértéke a korábbinál nem terhesebb.
+
+(2) Az (1) bekezdésben foglaltak teljesítése érdekében a kölcsönszerződés módosításában meg kell jelölni a követelés eredeti és módosított összegét forintban is.”

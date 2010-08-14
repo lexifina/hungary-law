@@ -1,0 +1,5 @@
+30. § Az Itv. a következő 98. §-sal egészül ki:
+
+„98. § (1) A 12. § (1) bekezdés a) és b) pontjának, a 16. § (1) bekezdése i) pontjának, a 17. § (1) bekezdése p) pontjának, 26. § (1) bekezdése t) pontjának az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény által megállapított rendelkezéseit a 2010. július 1. napján az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell. A 17. § (1) bekezdése p) pontjában meghatározott személyek által 2010. július 1. napját követően a 76. § (1)–(2) bekezdése szerint megfizetett ajándékozási illetéket az állami adóhatóság kérelemre az adó-visszatérítés szabályai szerint visszatéríti.
+
+(2) A 17. § (1) bekezdése q) pontjának és 26. § (1) bekezdése s) pontjának az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény által megállapított rendelkezéseit a hatálybalépésük napján az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell.”

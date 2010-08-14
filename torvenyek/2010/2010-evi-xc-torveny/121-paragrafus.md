@@ -1,0 +1,11 @@
+## X. Fejezet
+
+## EGYES PÉNZÜGYI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
+
+121. § (1) A lakás-takarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltp.) 24. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha a lakás-előtakarékoskodó vagy a kedvezményezett felvette az állami támogatást, de a kormányrendeletben meghatározott időn belül nem igazolja a támogatással növelt betétösszeg lakáscélú felhasználását, illetve az utólagos ellenőrzés során nem tudja azt bizonyítani, vagy az utólagos ellenőrzés egyéb okból jogosulatlan igénybevételt állapít meg, vissza kell fizetnie a kapott állami támogatást a felvétel napjáig jóváírt betéti kamattal, valamint a felvétel napjától a visszafizetés napjáig, vagy amennyiben az állami adóhatóság lakás-takarékpénztár általi megkereséséig nem került sor a visszafizetésre, akkor a megkeresésig számított időszakra jutó mindenkori jegybanki alapkamattal növelt összegben a központi költségvetésnek. Ha a lakás-előtakarékoskodó vagy a kedvezményezett a lakás-előtakarékossági szerződés alapján felvett összeg csak egy részének lakáscélú felhasználását igazolja, visszafizetési kötelezettsége a nem igazolt összeggel arányos.”
+
+(2) Az Ltp. 24. §-a a következő (6) bekezdéssel egészül ki, egyidejűleg a jelenlegi (6)–(8) bekezdés számozása (7)–(9) bekezdésre módosul:
+
+„(6) Ha a lakás-takarékpénztár megállapítja a támogatással növelt betétösszeg nem lakáscélú felhasználását, illetőleg jogosulatlan igénybevételét, az állami támogatás és járulékai megfizetése iránti követelést – a jogosult Magyar Állam nevében eljárva – polgári peres vagy nemperes eljárásban érvényesíti, amely eljárásban a lakás-takarékpénztár mentesül az eljárási illeték megelőlegezése és viselése alól. A lakás-takarékpénztáraknak ezen képviseleti joga e törvényen alapul és valamennyi támogatott szerződéssel kapcsolatos igényérvényesítésre kiterjed. A jogerős fizetési meghagyás, illetőleg a fizetési kötelezettséget megállapító jogerős bírósági határozat végrehajtható okirat, amely alapján a lakás-takarékpénztár megkeresésére a tartozást az állami adóhatóság a központi költségvetés javára adók módjára hajtja be. A lakás-takarékpénztár az adózás rendjéről szóló törvény 163. §-ának (2) bekezdésében meghatározott költségminimum megelőlegezésére és viselésére nem köteles.”
