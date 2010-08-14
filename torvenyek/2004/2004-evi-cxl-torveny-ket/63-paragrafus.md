@@ -2,7 +2,7 @@
 
 a) ezt jogszabály előírja,
 
-b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezet vesz részt, vagy
+b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezet vesz részt, kivéve, ha törvény másként rendelkezik, vagy
 
 c) a hatóság a nyilvánosság véleményének megismerése érdekében ezt szükségesnek tartja.
 
