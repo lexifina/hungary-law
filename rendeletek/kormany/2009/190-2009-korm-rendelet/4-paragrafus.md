@@ -16,4 +16,6 @@ a) mentesíti azt a személyt, aki önkormányzati főépítészi szakmérnöki 
 
 b) részben mentesíti azt a személyt, aki egyéb szakmai tartalmú vizsgával rendelkezik, és e vizsga követelményrendszere a főépítészi vizsga általános vagy a különös rész követelményrendszerével megegyezik.
 
-(5) A főépítészi feladatkör főépítészi vizsga nélkül legfeljebb egy évig látható el.
+(5)[^2]
+
+[^2]: A 4. § (5) bekezdését a 222/2010. (VII. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.

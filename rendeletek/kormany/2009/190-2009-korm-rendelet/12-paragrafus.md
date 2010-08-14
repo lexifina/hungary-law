@@ -2,11 +2,7 @@
 
 12. § (1) Ez a rendelet 2009. október 1-jén lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg hatályát veszti
-
-a) a területi főépítészekről szóló 21/1992. (XII. 4.) KTM rendelet,
-
-b) az önkormányzati főépítészi tevékenység ellátásának részletes szakmai szabályairól és feltételeiről szóló 9/1998. (IV. 3.) KTM rendelet.
+(2)[^3] Az e rendelet hatálybalépésekor foglalkoztatott főépítész főépítészi vizsga nélkül 2011. március 31-ig láthatja el feladatkörét.
 
 (3) Az e rendelet hatálybalépésekor foglalkoztatott, de az előírt végzettséggel és szakmai gyakorlattal nem rendelkező önkormányzati főépítész, ha a főépítészi feladatot legalább öt éve folyamatosan ellátja, az előírt szakirányú felsőfokú kiegészítő képzettség nélkül e rendelet hatálybalépését követően legfeljebb három évig foglalkoztatható. Ezen túlmenően az önkormányzati főépítész további egy évig foglalkoztatható, ha igazolja, hogy a kiegészítő képzettség megszerzését kezdeményezte.
 
@@ -113,3 +109,5 @@ Egy konkrét településszerkezeti terv és helyi építési szabályzat tervtan
 5. a településtervezésre, településtervezési szakági tervezésre vonatkozó további előírásokat (jogszabályok, segédletek),
 
 6. a településrendezési eszközök tartalmi és egyeztetési követelményeit.
+
+[^3]: A 12. § (2) bekezdése a 222/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
