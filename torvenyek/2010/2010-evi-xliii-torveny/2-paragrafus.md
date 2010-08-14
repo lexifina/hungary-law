@@ -20,4 +20,4 @@ h) jelentéstételre vagy beszámolóra való kötelezés.
 
 (2) Ha törvény kivételt nem tesz, az irányítási hatáskör gyakorlója az irányított államigazgatási szerv hatáskörét nem vonhatja el és döntését nem változtathatja meg.
 
-(3) Törvény vagy kormányrendelet a központi hivatal vagy a Kormány általános hatáskörű területi államigazgatási szerve irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – az (1) bekezdés c), e) és f)–h) pontjaiban meghatározott hatásköröket valamely központi államigazgatási szerv vezetője gyakorolja.
+(3) Törvény vagy kormányrendelet a központi hivatal vagy a Kormány általános hatáskörű területi államigazgatási szerve irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – az (1) bekezdés c), e) és f)–h) pontjaiban meghatározott egyes hatásköröket vagy ezek együttesét valamely központi államigazgatási szerv vezetője gyakorolja.

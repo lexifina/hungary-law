@@ -1,6 +1,6 @@
-61. § (1) A minisztérium hivatali szervezetét a közigazgatási államtitkár – a Honvédelmi Minisztériumra vonatkozó külön törvényben megállapított eltérések kivételével – a miniszter irányítása alatt, a 49. § (2) bekezdésében foglaltakra figyelemmel, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti.
+61. § (1) A minisztérium hivatali szervezetét a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztériumra vonatkozó külön törvényben megállapított eltérések kivételével – a miniszter irányítása alatt, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti. A közigazgatási államtitkár ellátja a minisztérium szervezeti és működési szabályzata szerint, az abban meghatározott helyettes államtitkár tevékenységének az irányítását.
 
-(2) Ha törvény eltérően nem rendelkezik a közigazgatási államtitkár gyakorolja a munkáltatói jogokat a minisztérium állományába tartozó köztisztviselők felett.
+(2) Ha törvény eltérően nem rendelkezik a közigazgatási államtitkár gyakorolja a munkáltatói jogokat a minisztérium állományába tartozó kormánytisztviselők felett.
 
 (3) A minisztériumban csak egy közigazgatási államtitkár működhet.
 

@@ -16,4 +16,4 @@
 
 a) a ki nem adott szabadságát nem lehet pénzben megváltani, és
 
-b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett állami vezetői szolgálati jogviszony vagy állami vezetőként közszolgálati jogviszony alapján járó szabadsághoz hozzá kell számítani.
+b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett állami vezetői szolgálati jogviszony vagy állami vezetőként betöltött jogviszony alapján járó szabadsághoz hozzá kell számítani.

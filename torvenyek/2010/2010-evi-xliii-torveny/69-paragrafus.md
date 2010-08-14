@@ -8,7 +8,7 @@
 
 (4) A Miniszterelnökség főosztályokra és osztályokra tagozódik.
 
-(5) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó köztisztviselők felett.
+(5) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó kormánytisztviselők felett.
 
 (6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
 
