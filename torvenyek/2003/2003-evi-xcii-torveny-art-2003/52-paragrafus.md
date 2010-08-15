@@ -90,6 +90,12 @@ g) a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntet
 
 h) magán-nyugdíjpénztáranként összesítve a 31. § (2) bekezdése szerinti bevallásban feltüntetett a magán-nyugdíjpénztári tagdíjra vonatkozó adatokról, továbbá a magánnyugdíjpénztári tagdíj beszedési számlákon nyilvántartott tárgyhavi pénzforgalmi adatokról a bevallás benyújtására előírt határidőt követő hónap utolsó napjáig elektronikus úton hivatalból adatot szolgáltat a Pénzügyi Szervezetek Állami Felügyelete részére.
 
+i) elektronikus úton hivatalból haladéktalanul átadja az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 3. § (3) bekezdése szerint a foglalkoztató által hozzá bejelentett adatokat
+
+ia) a munkaügyi hatóság részére ellenőrzésre történő kiválasztás céljából, valamint
+
+ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való jogszerzés érdekében köthető megállapodás jogalapjának kontrollja céljából.
+
 (8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, valamint a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 
 (9) A területi ügyvédi kamara, illetőleg a Magyar Szabadalmi Ügyvivői Kamara az ügyvédi, szabadalmi ügyvivői tevékenység szünetelésének kezdő napjáról, valamint a szünetelés megszűnésének napjáról az ügyvéd, szabadalmi ügyvivő természetes személyazonosító adatainak, lakcímének feltüntetésével a bejegyzést követő hó 15. napjáig adatot szolgáltat az ügyvéd, szabadalmi ügyvivő illetékes állami adóhatóságához.

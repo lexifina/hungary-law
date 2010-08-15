@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2010-06-29 | 2010. évi LVII. törvény | 2003-92-00-00.63 |
 | 2010-07-01 | 2010. évi LXIV. törvény | 2003-92-00-00.64 |
 | 2010-08-01 | 2010. évi LXXV. törvény | 2003-92-00-00.65 |
+| 2010-08-15 | 2010. évi XC. törvény | 2003-92-00-00.66 |
