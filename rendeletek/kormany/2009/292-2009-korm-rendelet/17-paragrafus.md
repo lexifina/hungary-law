@@ -28,4 +28,6 @@ d) gazdasági intézkedéseket hoz.
 
 (10) A gazdasági vezető átmeneti vagy tartós akadályoztatása esetén a költségvetési szerv vezetője haladéktalanul köteles gondoskodni helyettesítéséről, a gazdasági vezetői álláshely megüresedése esetén annak betöltéséről. Az álláshely betöltéséig tartó átmeneti időszakra a költségvetési szerv vezetője írásban a 19. § (1) bekezdésében foglaltaknak megfelelő végzettségű alkalmazottat jelöl ki a gazdasági vezetői feladatok ellátására az irányító szerv vezetőjének egyetértésével.
 
-(11) A gazdasági vezető kétévente köteles a belső kontroll rendszerek témakörben a pénzügyminiszter által meghatározott továbbképzésen részt venni. A részvételt a költségvetési szerv vezetője december 31-éig igazolja, kivéve, ha a gazdasági vezetőt a tárgyév október 1-jét követően nevezték ki (bízták meg).
+(11)[^43] A gazdasági vezető kétévente köteles a belső kontroll rendszerek témakörben az államháztartásért felelős miniszter által meghatározott továbbképzésen részt venni. A részvételt a költségvetési szerv vezetője december 31-éig igazolja, kivéve, ha a gazdasági vezetőt a tárgyév október 1-jét követően nevezték ki (bízták meg).
+
+[^43]: A 17. § (11) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

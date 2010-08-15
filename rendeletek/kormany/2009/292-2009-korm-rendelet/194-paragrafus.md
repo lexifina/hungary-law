@@ -1,0 +1,3 @@
+194. § (1) Az önkormányzati adóhatóság az általa beszedett közigazgatási hatósági eljárási illeték- és az azzal összefüggésben felszámított késedelmi pótlék-, bírságbevételt negyedévente, tárgynegyedévet követő hónap 10. napjáig – visszatérítésekkel, valamint a visszatérítés érdekében a költségvetési elszámolási számláról utalt összeggel csökkentve – utalja a kincstári számla javára.
+
+(2) Az önkormányzati adóhatóság az indokolt visszatérítéseket, valamint az (1) bekezdés szerinti utalást az illetékbeszedési számláról teljesíti. Amennyiben a számlán lévő összeg nem nyújt fedezetet a kiutaláshoz, akkor a visszatérítéshez, utaláshoz szükséges összeget a költségvetési elszámolási számláról át kell utalni az illetékbeszedési számlára.

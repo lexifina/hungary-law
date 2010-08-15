@@ -20,7 +20,7 @@ e) a társadalombiztosítás pénzügyi alapjaira (a d) és e) pont a továbbiak
 
 f) a helyi és az országos kisebbségi önkormányzatokra,
 
-g) a kincstárnokra, a kincstári biztosra, az önkormányzati biztosra, továbbá az átalakítási és megszüntetési biztosra,
+g)[^2] a költségvetési főfelügyelőre, költségvetési felügyelőre [a továbbiakban együtt: költségvetési (fő)felügyelő], a kincstári biztosra, az önkormányzati biztosra,
 
 h) az államháztartás alrendszereiből támogatásban részesülő természetes és jogi személyekre, jogi személyiség nélküli egyéb szervezetekre,
 
@@ -31,3 +31,5 @@ j) a Magyar Államkincstárra (a továbbiakban: Kincstár),
 k) a központi és a fejezeti kezelésű előirányzatok, alapok kezelő szerveire, valamint az európai uniós forrásból finanszírozott támogatások közreműködő szervezeteire,
 
 l) a kincstári elszámolások beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 240/2003. (XII. 17.) Korm. rendelet 8. számú mellékletében meghatározott analitikus nyilvántartó helyekre e rendelet 206. §-ában foglalt időközi mérlegjelentéshez történő adatszolgáltatás tekintetében.
+
+[^2]: Az 1. § (2) bekezdés g) pontja a 226/2010. (VIII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

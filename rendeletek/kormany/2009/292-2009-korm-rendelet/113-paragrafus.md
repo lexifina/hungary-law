@@ -1,36 +1,22 @@
-113. § (1) A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez a kedvezményezettnek a támogatóhoz be kell nyújtania a (2)–(3) bekezdés szerinti nyilatkozatokat, dokumentumokat a (4)–(6) bekezdésben foglalt szabályok figyelembevételével. A nyilatkozatok, dokumentumok benyújtásának határideje a (2) bekezdés c)–d) pontja szerinti nyilatkozatok esetén a támogatási döntés meghozatalának, egyéb nyilatkozatok, dokumentumok esetén a támogatói okirat kiadásának vagy a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés a)–b) és e)–k) pontja szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
+113. § (1)[^168] A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez a kedvezményezettnek a támogatóhoz be kell nyújtania a (2)–(3) bekezdés szerinti nyilatkozatokat, dokumentumokat a (4)–(6) bekezdésben foglalt szabályok figyelembevételével. A nyilatkozatok, dokumentumok benyújtásának határideje a (2) bekezdés c) pontja szerinti nyilatkozat esetén a támogatási döntés meghozatalának, egyéb nyilatkozatok, dokumentumok esetén a támogatói okirat kiadásának vagy a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés a)–b) és d)–h) pontja szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
 
-(2) A kedvezményezettől írásbeli nyilatkozatot kell kérni
+(2)[^169] A kedvezményezettől írásbeli nyilatkozatot kell kérni
 
-a) a támogatási igényében foglalt adatok, információk és dokumentumok teljeskörűségéről, valódiságáról és hitelességéről, valamint arról, hogy az adott tárgyban támogatási igényt korábban, illetve egyidejűleg mikor és hol nyújtott be,
+a) a támogatási igényében foglalt adatok, információk és dokumentumok teljeskörűségéről, valódiságáról és hitelességéről, valamint arról, hogy az adott tárgyban támogatási igényt korábban vagy egyidejűleg mikor és hol nyújtott be,
 
-b) arról, hogy nem áll végelszámolás alatt, illetve ellene csőd-, felszámolási eljárás, vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban, a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény hatálya alá tartozó kedvezményezett esetén nem áll adósságrendezési eljárás alatt, rendelkezik-e lejárt esedékességű, meg nem fizetett köztartozással,
+b) arról, hogy nem áll végelszámolás alatt, ellene csőd-, felszámolási eljárás, vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban, a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény hatálya alá tartozó kedvezményezett esetén nem áll adósságrendezési eljárás alatt,
 
-c) annak tudomásul vételéről, hogy lejárt esedékességű, meg nem fizetett köztartozás esetén a köztartozás megfizetéséig a támogatás nem illeti meg, az esedékes támogatások folyósítása felfüggesztésre, illetve visszatartásra kerül, kivéve, ha az Áht. 13/A. §-ának (5) bekezdésében foglaltak szerint a költségvetésből nyújtott támogatás köztartozás esetén is folyósítható,
+c) ahhoz történő hozzájárulásáról, hogy a Kincstár által működtetett monitoring rendszerben nyilvántartott adataihoz – azok konstrukciós forrásainak költségvetésbeli elhelyezkedésétől függetlenül – a jogszabályban meghatározott jogosultak, és a 122. § (3) bekezdése szerinti támogatások folyósítói, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, a Nemzetgazdasági Minisztérium és a csekély összegű támogatások nyilvántartásában érintett szervek hozzáférjenek,
 
-d) a c) pontban foglalt kivétellel
+d) arról, hogy megfelel a rendezett munkaügyi kapcsolatok Áht. 15. §-ában megfogalmazott követelményeinek, és az Áht. 15. § (11) bekezdése szerint vizsgálandó jogi személy, jogi személyiséggel nem rendelkező szervezet adatait rendelkezésre bocsátja,
 
-da) ahhoz történő hozzájárulásáról, hogy
+e) a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény (a továbbiakban: Közpénztv.) hatálya alá tartozó költségvetésből nyújtott támogatás esetén annak 14. §-ában foglaltakról,
 
-daa) adószámát vagy adóazonosító jelét a 122. § (3) bekezdése szerinti támogatás folyósítója és a Kincstár felhasználja a lejárt köztartozások teljesítése, illetve a köztartozás bekövetkezése tényének és összegének megismeréséhez, és
+f) a 121. § (1) bekezdése szerinti bejelentési kötelezettség teljesítésének vállalásáról, és arról, hogy a 127. § (1)–(3) bekezdése szerinti esetekben a támogató által megállapított jogosulatlanul igénybe vett támogatás összegét és annak kamatait az e rendeletben foglaltak szerint visszafizeti,
 
-dab) a Kincstár által működtetett monitoring rendszerben nyilvántartott igénylői, kedvezményezetti adataihoz – azok konstrukciós forrásainak költségvetésbeli elhelyezkedésétől függetlenül – a jogszabályban meghatározott jogosultak, valamint a 122. § (3) bekezdése szerinti támogatások folyósítói, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, a Pénzügyminisztérium és a csekély összegű támogatások nyilvántartásában érintett szervek hozzáférjenek, vagy
+g) a támogató által előírt biztosítékok rendelkezésre bocsátásának vállalásáról legkésőbb a 119. § (3) bekezdése szerinti időpontig,
 
-db) a költségvetésből nyújtott támogatás –, illetve azok részleteinek – kifizetése előtt a köztartozás- mentességét a 122. § (4) bekezdése szerint igazolja,
-
-e) arról, hogy megfelel a rendezett munkaügyi kapcsolatok Áht. 15. §-ában megfogalmazott követelményeinek, valamint az Áht. 15. §-ának (11) bekezdése szerint vizsgálandó jogi személy, illetve jogi személyiséggel nem rendelkező szervezet adatait rendelkezésre bocsátja,
-
-f) a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény (a továbbiakban: Közpénztv.) hatálya alá tartozó költségvetésből nyújtott támogatás esetén annak 14. §-ában foglaltakról,
-
-g) arról, hogy a támogatási igény szabályszerűségének és a költségvetésből nyújtott támogatás rendeltetésszerű felhasználásának jogszabályban meghatározott szervek által történő ellenőrzéséhez hozzájárul,
-
-h) a 121. § (1) bekezdése szerinti bejelentési kötelezettség teljesítésének vállalásáról, továbbá arról, hogy a 127. § (1)–(3) bekezdése szerinti esetekben a támogató által megállapított jogosulatlanul igénybe vett támogatás összegét és annak kamatait az e rendeletben foglaltak szerint visszafizeti,
-
-i) a támogató által előírt biztosítékok rendelkezésre bocsátásának vállalásáról legkésőbb a 119. § (3) bekezdése szerinti időpontig,
-
-j) arról, hogy a költségvetésből nyújtott támogatás célja tekintetében adólevonási joggal rendelkezik-e, és
-
-k) annak tudomásul vételéről, hogy a költségvetésből nyújtott támogatás kedvezményezettjének megnevezése, célja, összege, a támogatott tevékenység megvalósítási helye, valamint a kedvezményezett Közpénztv. 5. § (1)–(2) bekezdése szerinti érintettsége nyilvánosságra hozható.
+h) arról, hogy a költségvetésből nyújtott támogatás célja tekintetében adólevonási joggal rendelkezik-e.
 
 (3) A támogatási igényhez szükség esetén csatolni kell
 
@@ -54,4 +40,8 @@ d) jogszabály, a pályázati felhívás vagy a támogató által előírt egyé
 
 (5) Központi költségvetési szerv vagy a támogató tulajdonában álló, vagy általa alapított gazdálkodó szervezet támogatási igénye esetében – ideértve azt az esetet is, ha a támogató a gazdálkodó szervezet felett alapítói, illetve tulajdonosi (tagsági, részvényesi, szavazatelsőbbségi) jogokat gyakorol – nem kell csatolni az (1)–(2) bekezdésben nevesített azon nyilatkozatokat, dokumentumokat, illetve nem kell a támogatási szerződésben megtenni azokat a nyilatkozatokat, amelyek olyan tények fennállását tanúsítják, amelyekről a támogatónak egyébként hivatalos tudomása van.
 
-(6) Külföldi kedvezményezett esetén – amennyiben jogszabály másként nem rendelkezik – a (2) bekezdés b)–e) és j) pontja a magyarországi köztartozások, munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a b) pontban meghatározott megszüntetésre irányuló eljárás a kedvezményezett saját jogának szabályai alapján értelmezendő.
+(6)[^170] Külföldi kedvezményezett esetén – amennyiben jogszabály másként nem rendelkezik – a (2) bekezdés d) és h) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a b) pontban meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő.
+
+[^168]: A 113. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^169]: A 113. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^170]: A 113. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.

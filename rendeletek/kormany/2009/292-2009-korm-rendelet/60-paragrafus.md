@@ -1,33 +1,13 @@
-## 59. § Az önállóan működő költségvetési szerv előirányzatainak irányító szervi hatáskörbe tartozó változtatását a gazdálkodási feladatainak ellátását végző önállóan működő és gazdálkodó költségvetési szerv vezetője útján jogosult kezdeményezni az irányító szervnél.
-
 ## ELŐIRÁNYZATOK MEGVÁLTOZTATÁSA A KÖZPONTI KÖLTSÉGVETÉSI SZERVEK HATÁSKÖRÉBEN
 
-60. § (1) A költségvetési szerv saját előirányzat-módosítási hatáskörében – az irányító szerv és a Kincstár egyidejű tájékoztatása mellett – kiadási és bevételi előirányzatának fő összegét, a kiemelt előirányzatokat és azokon belül a megfelelő tételek előirányzatait felemelheti
+60. §[^98] (1) A költségvetési szerv saját előirányzat-módosítási hatáskörében – az irányító szerv és a Kincstár egyidejű tájékoztatása mellett – kiadási és bevételi előirányzatának fő összegét, a kiemelt előirányzatokat és azokon belül a megfelelő tételek előirányzatait a kötelezettségvállalással terhelt előirányzat-maradványából – az Áht. 24/B. § (6) bekezdésében foglaltakra figyelemmel –, és vállalkozási tartalékából megemelheti.
 
-a) előirányzat-maradványából az Áht. 93. §-ának (3) bekezdésében foglaltakra figyelemmel,
+(2) Az (1) bekezdés szerinti előirányzat-módosítás költségvetési támogatási igénnyel sem a költségvetési évben, sem a következő években nem járhat.
 
-b) vállalkozási tartalékából és a külön törvény alapján képzett tartalékából,
+(3) A költségvetési szerv a személyi juttatások egyes tételein megtervezett előirányzatok között saját hatáskörben átcsoportosítást hajthat végre azon előirányzatok kivételével, amelyek mértéke e rendeletben foglaltak alapján nem növelhető. Az átcsoportosítás a törvényi kötelezettségen alapuló juttatások kifizetését nem veszélyeztetheti.
 
-c) bevételi többletéből az Áht. 93. §-ának (2) bekezdésében, valamint e rendelet 88. §-ában foglaltak figyelembevételével.
+(4) A munkaadókat terhelő járulékok előirányzata – a személyi juttatások előirányzata átcsoportosításával összefüggő esetek kivételével – csak abban az esetben csökkenthető, ha a központi költségvetési szerv éves fizetési kötelezettségének – ideértve a korábban keletkezett, és a tárgyévre átütemezett köztartozásokat is – eleget tud tenni, és erről az előirányzat-átcsoportosítás benyújtásával egyidejűleg a Kincstárnak nyilatkozik.
 
-(2) A kiemelt, illetve az irányító szerv által meghatározott előirányzatokat a költségvetési szerv csak jogszabály, illetve az irányító szerv előírásai szerint módosíthatja. Az irányító szerv az általa meghatározott előírásokról a Kincstárt köteles tájékoztatni.
+(5) A költségvetési szerv saját hatáskörben a dologi kiadások kiemelt előirányzatán belül maradva az egyes tételek előirányzataitól azok megváltoztatása nélkül eltérhet, az Áht. 100/A. § (3) bekezdésében foglalt korlátozásra is figyelemmel. A szolgáltatási kiadások, az adók és egyéb befizetési kötelezettségek tételek előirányzatai körében előirányzat-átcsoportosítás akkor kezdeményezhető, vagy azok akkor használhatók fel a tervezettől eltérően, ha a költségvetési szerv ezen fizetési kötelezettségeinek eleget tud tenni.
 
-(3) Az (1)–(2) bekezdés szerinti előirányzat-módosítás költségvetési támogatási igénnyel sem a költségvetési évben, sem a következő években nem járhat.
-
-(4) A költségvetési szerv az időarányos és teljesítésarányos finanszírozású kiadási előirányzatok között, a forrást biztosító támogatási előirányzatok összegét nem változtató előirányzat-átcsoportosítást hajthat végre.
-
-(5) A Kormány irányítása alá tartozó közhatalmi költségvetési szerv esetében a működési és felhalmozási költségvetés, valamint a kölcsönök előirányzat-csoportok között végrehajtott előirányzat átcsoportosításához
-
-a) a fejezetet irányító szerv útján a Kormány engedélyét kell kérni, amennyiben a tárgyévben az előirányzat-átcsoportosítás során csökkenteni tervezett előirányzat-csoportból addig átcsoportosított előirányzatok összevont összege meghaladja, vagy az átcsoportosítás végrehajtásával meghaladná az adott előirányzat-csoport eredeti kiadási előirányzata főösszegének 10%-át,
-
-b) az a) pontban nem említett esetben az irányító szerv jóváhagyását kell kérni.
-
-(6) A munkaadókat terhelő járulékok előirányzata – a személyi juttatások előirányzata átcsoportosításával összefüggő esetek kivételével – csak abban az esetben csökkenthető, ha a központi költségvetési szerv éves fizetési kötelezettségének – ideértve a korábban keletkezett, illetve a tárgyévre átütemezett köztartozásokat is – eleget tud tenni, és erről az előirányzat-átcsoportosítás benyújtásával egyidejűleg a Kincstárnak nyilatkozik.
-
-(7) A költségvetési szerv az előirányzat-felhasználási hatáskörében
-
-a) a dologi kiadások kiemelt előirányzatán belül maradva az egyes tételek előirányzataitól azok megváltoztatása nélkül eltérhet, az Áht. 98. §-ának (3) bekezdésében foglalt korlátozásra is figyelemmel,
-
-b) a szolgáltatási kiadások, az adók és egyéb befizetési kötelezettségek tételek előirányzatai körében előirányzat-átcsoportosítást akkor kezdeményezhet, vagy azokat csak akkor használhatja fel a tervezettől eltérően, ha ezen éves fizetési kötelezettségének eleget tud tenni.
-
-(8) A jogi személyiségű szervezeti egység vezetője a jogi személyiségű szervezeti egység részelőirányzatainak megváltoztatását – ideértve azok alul-, illetve túlteljesítését is – a költségvetési szerv vezetőjénél jogosult kezdeményezni azokban az esetekben is, ha az érintett kiemelt előirányzat egyébként a költségvetési szerv saját hatáskörében módosítható, illetve a kiemelt előirányzaton belüli tétel szabadon túlléphető. A részelőirányzatok megváltoztatása a 101. § (3) bekezdése szerinti tételek évközi módosulása esetén kötelező.
+[^98]: A 60. § a 226/2010. (VIII. 13.) Korm. rendelet 24. §-ával megállapított szöveg.

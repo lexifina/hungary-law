@@ -22,10 +22,12 @@ ce) gazdálkodó szervezetben való részvétel esetén a társaság vesztesége
 
 cf) gazdálkodó szervezetben pénzbeli hozzájárulásra, visszatérítendő támogatás nyújtására, tőkeemelésre, alapítvány támogatására,
 
-cg) e rendelet előírásainak megfelelően a Kincstár hálózatán belül forgalmazott értékpapír vásárlására.
+cg)[^156]
 
 (3) Amennyiben a vállalkozási maradvány negatív, a veszteséget elsősorban a korábbi évek során képzett és fel nem használt vállalkozási tartalékból kell fedezni. Ha a költségvetési szerv vállalkozási tevékenységét megszünteti és a vállalkozási tevékenység negatív maradványára a korábbi években képzett és fel nem használt vállalkozási tartalék nem nyújt fedezetet, a veszteséget az alaptevékenységének ellátását szolgáló források terhére köteles rendezni.
 
 (4) A helyi önkormányzati, helyi vagy országos kisebbségi önkormányzati költségvetési szerv vállalkozási tartaléka felhasználásának további szabályait a helyi önkormányzat, illetve a helyi vagy országos kisebbségi önkormányzat képviselő-testülete, illetve közgyűlése állapítja meg.
 
 (5) A vállalkozási tartalék felhasználása sem közvetlen, sem közvetett költségvetési támogatási igénnyel nem járhat.
+
+[^156]: A 94. § (2) bekezdés cg) alpontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

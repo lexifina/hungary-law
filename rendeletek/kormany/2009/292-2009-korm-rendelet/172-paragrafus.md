@@ -1,4 +1,4 @@
-## 171. § A Kincstár a kincstári ügyfelek részére a 172–173. §-ban és a pénzügyminiszter rendeletében meghatározott további számlákat vezeti.
+## 171. §[^203] A Kincstár a kincstári ügyfelek részére a 172–173. §-ban és az államháztartásért felelős miniszter rendeletében meghatározott további számlákat vezeti.
 
 172. § (1) A Kincstár vezeti az önkormányzatok megbízásából
 
@@ -19,3 +19,5 @@ c) a támogató szolgáltatás és a közösségi ellátások támogatásának f
 (4) A (3) bekezdés szerinti számlák egyenlege év végén – a zárást megelőző utolsó tranzakcióként, a (3) bekezdés b)–c) pontja szerinti támogatások esetén a felfüggesztés alapján visszatartott támogatás kivételével – automatikusan visszavezetésre kerül a forrást biztosító számla javára.
 
 (5) A Kincstár pénzforgalmi lebonyolítási számlát vezet a kamatadóval kapcsolatos pénzforgalom lebonyolítására.
+
+[^203]: A 171. § a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

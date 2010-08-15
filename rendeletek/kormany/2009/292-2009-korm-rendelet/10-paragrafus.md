@@ -1,20 +1,20 @@
 ## A KÖLTSÉGVETÉSI SZERV ALAPÍTÁSÁRA, ÁTALAKÍTÁSÁRA, MEGSZÜNTETÉSÉRE VONATKOZÓ SZABÁLYOK
 
-10. § (1) A költségvetési szerv alapításáról, átalakításáról, megszüntetéséről rendelkező jogszabálynak, határozatnak a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény (a továbbiakban: Kt.) 2. §-ának (2) bekezdésében foglaltak szerint történő nyilvánosságra hozatala mellett a helyi önkormányzat, helyi és országos kisebbségi önkormányzat más módon (így különösen: a helyben szokásos módon) is közzéteheti a költségvetési szerv alapítására, átalakítására, megszüntetésére vonatkozó döntéseit.
+10. § (1)[^27] A költségvetési szerv alapításáról, átalakításáról, megszüntetéséről rendelkező jogszabálynak, határozatnak az Áht. 88. § (2) bekezdésében foglaltak szerint történő nyilvánosságra hozatala mellett a helyi önkormányzat, helyi és országos kisebbségi önkormányzat más módon (így különösen: a helyben szokásos módon) is közzéteheti a költségvetési szerv alapítására, átalakítására, megszüntetésére vonatkozó döntéseit.
 
-(2) A Kt. 3. §-ának (2)–(3) bekezdésében foglaltak alapján kezdeményezett kormány-előterjesztést, illetve előzetes egyetértés iránti kérelmet részletes indokolással és számításokkal is alá kell támasztani. Az előterjesztésben, illetve kérelemben meg kell jelölni
+(2)[^28] Az Áht. 88. § (2) bekezdése alapján költségvetési szerv létrehozásáról kezdeményezett kormány-előterjesztést, vagy az Áht. 89. § (1) bekezdése szerinti előzetes egyetértés iránti kérelmet részletes indokolással és számításokkal is alá kell támasztani. Az előterjesztésben vagy – ha arról a költségvetési szerv létrehozásáról szóló jogszabály nem rendelkezik – a kérelemben meg kell jelölni
 
-a) a költségvetési szerv tervezett besorolását a Kt. 15–16. §-ai és 18. §-a szerint,
+a) a költségvetési szerv gazdálkodási jogköre szerinti tervezett besorolását,
 
-b) az ellátandó tevékenységgel kapcsolatos – általános és a költségvetési szerv tekintetében konkrétan érvényesülő – követelményeket, feltételeket (benne a szervezeti felépítést és a szükséges tárgyi feltételeket is), valamint ezek tervezett kiadásait, ezen belül az egyszeri, esetleges töredék évi, valamint folyamatos kiadási szükségletet létszám és kiemelt előirányzati bontásban,
+b) az ellátandó tevékenységgel kapcsolatos – általános és a költségvetési szerv tekintetében konkrétan érvényesülő – követelményeket, feltételeket (benne a szervezeti felépítést és a szükséges tárgyi feltételeket is), ezek tervezett kiadásait, ezen belül az egyszeri, esetleges töredék évi, és folyamatos kiadási szükségletet létszám és kiemelt előirányzati bontásban,
 
-c) a működés és üzemeltetés megindításának feladatait,
+c) a működés megindításának feladatait,
 
-d) a b)–c) pontban foglaltak forrását kincstári költségvetés szintjén, önállóan működő költségvetési szerv esetében külön megjelölve azon önállóan működő és gazdálkodó költségvetési szerv előirányzatainak tervezett növekményét is, amely az önállóan működő költségvetési szerv egyes tevékenységeit a 16. § (1)–(3) bekezdése szerint ellátja.
+d) a b)–c) pontban foglaltak forrását kincstári költségvetés szintjén, önállóan működő költségvetési szerv esetén külön megjelölve azon önállóan működő és gazdálkodó költségvetési szerv előirányzatainak tervezett növekményét is, amely az önállóan működő költségvetési szerv egyes tevékenységeit a 16. § (1)–(3) bekezdése szerint ellátja.
 
-(3) A költségvetési szerv alapításáról rendelkező jogszabály, határozat, valamint az alapító okirat tervezete a (2) bekezdés szerinti előterjesztés, kérelem mellékletét képezi.
+(3)[^29] A költségvetési szerv alapításáról rendelkező jogszabálytervezet és az alapító okirat tervezete a (2) bekezdés szerinti előterjesztés, kérelem mellékletét képezi.
 
-(4) A költségvetési szerv alapító okiratában meg kell jelölni az alapítói jogokkal felruházott irányító szervet. Amennyiben a Kt. 8. §-a (2) bekezdésének a) pontja szerinti alapítói jogok és az egyéb irányítási jogok gyakorlására jogosult személye eltér, akkor mindkét irányításra jogosultat meg kell jelölni az alapító okiratban. Amennyiben a költségvetési szervnek a Kt. 8. §-ának (3) bekezdése szerint felügyeleti szerve van, abban az esetben ezt kell felügyeleti szerv elnevezéssel megjelölni az okiratban.
+(4)[^30] A költségvetési szerv alapító okiratában meg kell jelölni az alapítói jogokkal felruházott irányító szervet. Amennyiben az Áht. 93. § (1) bekezdés a) pontja szerinti alapítói jogok és az egyéb irányítási jogok gyakorlására jogosult személye eltér, mindkét irányításra jogosultat meg kell jelölni az alapító okiratban. Ha a költségvetési szervnek az Áht. 93. § (2) bekezdése szerint felügyeleti szerve van, abban az esetben ezt kell felügyeleti szerv elnevezéssel megjelölni az okiratban.
 
 (5) A költségvetési szerv közös működtetéséről az alapító szerveknek írásbeli megállapodást kell kötniük, amelynek tartalmaznia kell
 
@@ -28,7 +28,7 @@ d) a közös működtetés megszűnésének, megszüntetésének szabályait,
 
 e) rendelkezést a külön jogszabályban foglalt egyéb kérdésekről.
 
-(6) A költségvetési szerv közös alapítása, illetve működtetése esetén az alapító okiratban meg kell határozni a Kt. 8. §-ának (2) bekezdésében, az Áht.-ban és külön jogszabályban meghatározott irányítási jogok gyakorlására jogosult természetes vagy jogi személyt.
+(6)[^31] A költségvetési szerv közös alapítása, illetve működtetése esetén az alapító okiratban meg kell határozni az Áht. 93. § (1) bekezdésében és külön jogszabályban meghatározott irányítási jogok gyakorlására jogosult természetes vagy jogi személyt.
 
 (7) A helyi önkormányzati költségvetési szervek esetén az (5)–(6) bekezdésben meghatározottakat a társulási megállapodásban kell rögzíteni.
 
@@ -36,4 +36,11 @@ e) rendelkezést a külön jogszabályban foglalt egyéb kérdésekről.
 
 (9) Az alapító szerv megszűnése esetén a jogutód, az alapítói jogok átruházása esetén az alapítói jogok átvevője jogosult, illetve köteles az alapító szervet terhelő, a törzskönyvi nyilvántartásba történő bejegyzésekkel kapcsolatos intézkedések megtételére.
 
-(10) Az alapító okiratban foglaltak változása esetén a jogszabály, határozat és az alapító okirat módosítását tartalmazó okirat mellett el kell készíteni és a módosító okirathoz kell csatolni az egységes szerkezetbe foglalt alapító okiratot is. Az egységes szerkezetű alapító okiratnak is meg kell felelnie az alapító okirat alaki kellékeinek.
+(10)[^32] Az alapító okiratban foglaltak, vagy jogszabály változása esetén az alapító okirat módosítását tartalmazó okirat mellett el kell készíteni és a módosító okirathoz kell csatolni az egységes szerkezetbe foglalt alapító okiratot is. Az egységes szerkezetű alapító okiratnak is meg kell felelnie az alapító okirat alaki kellékeinek.
+
+[^27]: A 10. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^28]: A 10. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^29]: A 10. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^30]: A 10. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^31]: A 10. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^32]: A 10. § (10) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

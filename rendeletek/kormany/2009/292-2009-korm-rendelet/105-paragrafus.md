@@ -1,4 +1,4 @@
-## 104. § A jogi személyiségű szervezeti egységre is alkalmazni kell az Áht. 100/E. §-ának (1) bekezdésében és a 100/I. §-ának (1) bekezdésében foglalt szabályokat.
+## 101–104. §[^163]
 
 ## AZ ORSZÁGOS KISEBBSÉGI ÖNKORMÁNYZAT GAZDÁLKODÁSÁRA VONATKOZÓ SAJÁTOS SZABÁLYOK
 
@@ -39,3 +39,5 @@ b) intézkedni azon ingó és ingatlan vagyonnak, pénzeszköznek és iratanyagn
 (8) A megszűnő országos kisebbségi önkormányzat vagyonának ideiglenes kezelője az átvett vagyont nem idegenítheti el, nem terhelheti meg, másnak kezelésre át nem adhatja, használatáról, hasznainak szedéséről, a helyébe lépő vagyonról az újonnan megalakuló országos kisebbségi önkormányzat felé elszámol.
 
 (9) A megszűnő országos kisebbségi önkormányzat vagyonának ideiglenes kezelői a (7) bekezdés szerinti beszámoló kézhezvételétől számított tizenöt napon belül együttműködési megállapodást kötnek azzal a céllal, hogy az önkormányzati vagyon összehangolt kezelését, az intézmények folyamatos működését, a kisebbségi közügyek ellátását biztosítsák.
+
+[^163]: A 101–104. §-t és a 101. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

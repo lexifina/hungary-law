@@ -1,3 +1,5 @@
+## 8/A. §[^26] A költségvetési szervet gazdálkodási jogkörük alapján önállóan működő vagy önállóan működő és gazdálkodó költségvetési szervként kell besorolni.
+
 9. § (1) Ha törvény vagy kormányrendelet eltérően nem rendelkezik önállóan működő és gazdálkodó költségvetési szerv
 
 a) a központi költségvetési szerv irányító szerve,
@@ -33,3 +35,5 @@ a) kizárólag szakmai szervezeti egységekre tagozódik, ideértve a jogszabál
 b) a szellemi, fizikai (technikai) támogató funkciókat ellátók száma külön szervezeti egység létrehozását nem igényli, e funkciók más költségvetési szerv által hatékonyan, gazdaságosan elláthatók.
 
 (4) Az önkormányzati hivatal mint a helyi kisebbségi önkormányzat gazdálkodásának végrehajtó szerve – az adott helyi önkormányzat és az érintett helyi kisebbségi önkormányzatok megállapodása alapján, külön az állami költségvetésből származó támogatásra való igényjogosultság nélkül – több helyi kisebbségi önkormányzat számára is elláthatja a gazdálkodási feladatokat.
+
+[^26]: A 8/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 5. §-a iktatta be.

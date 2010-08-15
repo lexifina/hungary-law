@@ -20,6 +20,8 @@
 
 (8) A (6)–(7) bekezdés szerinti költségek és a térítés megállapításának rendjét és mértékét belső szabályzatban kell rögzíteni.
 
-(9) A költségvetési szerv közhatalmi, valamint közszolgáltatási és vállalkozási bevételeit – ideértve az eredeti bevételi előirányzatot meghaladó többletbevételeket is – az azok megszerzéséhez, a feladat ellátásához közvetlenül vagy közvetve kapcsolódó kiadásokkal, költségekkel együtt kell nyilvántartani, hogy annak alapján megállapítható legyen a bevételből, többletbevételből a költségvetési szerv által az Áht. és e rendelet előírásainak megfelelően felhasználható összeg (a továbbiakban: költségekkel korrigált bevétel és költségekkel korrigált többletbevétel), valamint a költségvetési szerv vállalkozási maradványa.
+(9)[^147] A költségvetési szerv 3/A. § (1) bekezdés ba)–bf) pont szerinti bevételeit – ideértve az eredeti bevételi előirányzatot meghaladó többletbevételeket is – az azok megszerzéséhez, a feladat ellátásához közvetlenül vagy közvetve kapcsolódó kiadásokkal, költségekkel együtt kell nyilvántartani, hogy annak alapján megállapítható legyen a bevételből, többletbevételből a költségvetési szerv által az Áht. és e rendelet előírásainak megfelelően felhasználható összeg, valamint a költségvetési szerv vállalkozási maradványa.
 
 (10) Az Európai Unió költségvetéséből közvetlenül kapott támogatás összegét annak felhasználása időpontjában kell költségvetési bevételként és kiadásként elszámolni, ezen időpontig idegen pénzeszközként kell nyilvántartani.
+
+[^147]: A 81. § (9) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a és a 74. § (2) bekezdése szerint módosított szöveg.

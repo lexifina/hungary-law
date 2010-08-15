@@ -1,3 +1,5 @@
+## 98–99. §[^162]
+
 ## AZ ÖNÁLLÓAN MŰKÖDŐ KÖLTSÉGVETÉSI SZERV GAZDÁLKODÁSÁNAK SAJÁTOS SZABÁLYAI
 
 100. § (1) Az önállóan működő költségvetési szerv
@@ -13,3 +15,5 @@ rendelkezik.
 (3) Az önállóan működő költségvetési szerv a számára az (1) bekezdés szerint a saját költségvetésében meghatározott előirányzatok felhasználásáért e rendelet előírásai szerint felel, ezen felül köteles feladatai ellátásáról, munkafolyamatai megszervezéséről oly módon gondoskodni, hogy az biztosítsa az önállóan működő és gazdálkodó költségvetési szerv költségvetésében részére a (2) bekezdés szerint megállapított előirányzatok gazdaságos, hatékony és takarékos felhasználását.
 
 (4) A (2)–(3) bekezdésben foglaltak be nem tartása esetén az irányító szerv az előirányzatok feletti rendelkezési jogosultságot visszavonhatja, korlátozhatja, illetve elrendelheti a munkamegosztási megállapodás módosítását.
+
+[^162]: A 98–99. §-t és a 98. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

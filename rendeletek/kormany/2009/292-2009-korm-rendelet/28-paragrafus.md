@@ -1,12 +1,6 @@
 ## A költségvetési szervek, a központi és a fejezeti kezelésű előirányzatok költségvetési javaslata
 
-28. § (1) A költségvetési szervek költségvetési javaslata
-
-a) alapelőirányzatból és előirányzati többletből,
-
-b) a költségvetési szerv által a 42. § előírásainak megfelelő alkalmazásával elkészített éves költségvetés tervezetéből
-
-áll.
+28. § (1)[^62] A költségvetési szervek költségvetési javaslata alapelőirányzatból és előirányzati többletből áll.
 
 (2) Az alapelőirányzat a tervévet megelőző év eredeti előirányzatának a szerkezeti változásokkal és a szintrehozásokkal módosított összege.
 
@@ -25,3 +19,5 @@ e) a kiemelt előirányzatoknak a feladatstruktúra, többletbevétel miatti mó
 (4) Nem tekinthető szerkezeti változásnak a költségvetési szervnél az az előirányzat-változás, amelyet a Kormány, az irányító szerv, illetve az előirányzatot átadó szerv egyszeri jellegűnek minősített.
 
 (5) Szintrehozásként kell számításba venni a költségvetési évet megelőző évben nem teljes éven át ellátott, a költségvetésbe szerkezeti változásként beépült feladatok, finanszírozási kötelezettségek egész évi kiadási és bevételi előirányzatának megfelelő összegű kiegészítését.
+
+[^62]: A 28. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 12. §-ával megállapított szöveg.

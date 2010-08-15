@@ -1,33 +1,39 @@
 ## A KÖLTSÉGVETÉSI SZERVEK TEVÉKENYSÉGE
 
-12. § (1) A költségvetési szerv alap-, kiegészítő, kisegítő és vállalkozási tevékenységét az államháztartási szakfeladatok rendje (a továbbiakban: szakfeladatrend) szerint – szakfeladat számmal és megnevezéssel – kell meghatározni.
+12. §[^38] (1) A költségvetési szerv alap- és vállalkozási tevékenységét az államháztartási szakfeladatok rendje (a továbbiakban: szakfeladatrend) szerint – szakfeladat számmal és megnevezéssel – kell besorolni.
 
-(2) A költségvetési szerv által ellátott feladatoknak, ezen belül a végzett tevékenységeknek a Kt. 7. §-ának (1) bekezdése szerinti elkülönítését, besorolását az ott meghatározott kritériumok alapján, a (3)–(14) bekezdésben foglaltak figyelembevételével kell elvégezni.
+(2) A költségvetési szerv által ellátott feladatoknak, ezen belül a végzett tevékenységeknek az Áht. 92. § (1) bekezdése szerinti elkülönítését, besorolását az ott meghatározott kritériumok alapján, a (3)–(9) bekezdésben foglaltak figyelembevételével kell elvégezni.
 
-(3) Amennyiben a költségvetési szerv alaptevékenységként az annak megfelelő szakfeladat szerinti tevékenységek közül az irányító szerv döntése alapján csak egyes tevékenységeket láthat el, akkor ezt a szűkítést az irányító szerv az alapító okiratban megjelöli. Ebben az esetben az adott szakfeladat szerinti további tevékenységek az alaptevékenységtől eltérő tevékenységnek minősülnek.
+(3) A költségvetési szerv alapító okiratában nem kell feltüntetni az alábbi alaptevékenységeket:
 
-(4) A költségvetési szerv alapító okiratában önállóan nem kell alaptevékenységként megjelölni, ugyanakkor alaptevékenységként kell elszámolni azokat az önálló szakfeladatot képező kiadási és bevételi elemeket – különösen a helyi önkormányzat, többcélú kistérségi társulás költségvetési szerve pénzügyi igazgatási tevékenysége bevételeit és kiadásait, illetve például egyes munkáltatói juttatásokat, pályázatkezelés, közbeszerzés eljárási költségeit –, amelyek a szerv alapító okirat szerinti alaptevékenységének ellátásához kapcsolódnak.
+a) azokat az önálló szakfeladatot képező kiadási és bevételi elemeket, amelyek a szerv alapító okirat szerinti alaptevékenységének ellátásához kapcsolódnak,
 
-(5) A (4) bekezdés szerint kell eljárni a költségvetési szerv részére a jogszabály szerinti alapfeladat ellátására biztosított ingatlan egyes részeinek bérbeadása, hasznosítása esetén, ha az időszakosan a kapacitás kihasználása, illetve tartósan az alapfeladat magasabb színvonalú vagy hatékonyabb ellátása céljából történik.
+b) a költségvetési szerv (4) bekezdés szerint más szervek részére végzett tevékenységeinek szakfeladatait,
 
-(6) A helyi önkormányzati költségvetési szerv pénzügyi igazgatási feladatának kiadását, bevételét a szakmai alaptevékenységtől elkülönítetten az alaptevékenységnek megfelelő pénzügyi igazgatási szakfeladaton kell elszámolnia.
+c) a támogatási típusú szakfeladatokat,
 
-(7) A helyi önkormányzat, többcélú kistérségi társulás kifejezetten más szervek gazdálkodási, üzemeltetési tevékenységei ellátására létrehozott költségvetési szerveinek
+d) a technikai szakfeladatokat, és
 
-a) más szervek részére végzett pénzügyi-gazdálkodási tevékenységeinek kiadásait, bevételeit az ellátott szervek szakmai alaptevékenységeinek megfelelő pénzügyi igazgatási szakfeladatokon kell elszámolni,
+e) a költségvetési szerv alaptevékenysége ellátására rendelkezésre álló kapacitásának kihasználását célzó, nem haszonszerzés céljából végzett tevékenységeinek szakfeladatait.
 
-b) üzemeltetési tevékenységeik kiadásait és bevételeit az ellátott szerv által végzett szakmai szakfeladaton kell elszámolni akkor, ha költségvetésükben az ellátott költségvetési szervek működésére, üzemeltetésére szolgáló előirányzat került meghatározásra. Ebben az esetben a szervnek az ellátott szerv alapító okiratában vagy szervezeti és működési szabályzatában szereplő szakmai szakfeladatokat nem kell felvennie a saját alapító okiratába.
+(4) A költségvetési szerv más költségvetési szervek részére végzett tevékenységeinek kiadásait, bevételeit azokon a szakmai, (3) bekezdés szerinti, vagy vállalkozási tevékenység szerinti szakfeladatokon kell elszámolni, amelyek érdekében felmerültek, függetlenül attól, hogy az adott szakfeladatok az elszámolást végző költségvetési szerv alapító okiratában szerepelnek-e.
 
-(8) A (7) bekezdésben foglaltakat kell megfelelően alkalmazni a helyi önkormányzat, többcélú kistérségi társulás olyan önállóan működő és gazdálkodó költségvetési szervének is, amelyet az irányító szerv az önállóan működő költségvetési szerv egyes gazdálkodási, illetve üzemeltetési feladatainak ellátására jelölt ki.
+(5) A (4) bekezdésben foglaltakat kell megfelelően alkalmazni
 
-(9) A kiegészítő tevékenység meghatározásakor alaptevékenységgel megegyezőnek azt a tevékenységet kell tekinteni, amelynek szakmai tartalma azonos az alaptevékenység szakmai tartalmával, akkor is, ha besorolásuk szerint szakfeladat számuk és megnevezésük nem esik egybe. Alaptevékenység szakmai tartalmának kell tekinteni mindazon tevékenységelemeket, amelyek ellátása tekintetében a közfeladatot előíró jogszabály vagy az irányító szerv kötelezettséget állapít meg.
+a) az olyan önállóan működő és gazdálkodó költségvetési szervnek is, amelyet az irányító szerv önállóan működő költségvetési szerv egyes pénzügyi-gazdálkodási, illetve üzemeltetési feladatainak ellátására jelölt ki,
 
-(10) A kisegítő és vállalkozási tevékenység meghatározásakor alaptevékenységtől eltérőnek azt a tevékenységet kell tekinteni, amelynek szakmai tartalma legfontosabb jellemzőjében vagy jellemzőiben különbözik az alaptevékenység szakmai tartalmától, akkor is, ha besorolásuk szerint szakfeladat számuk és megnevezésük megegyezik.
+b) a kifejezetten más szervek pénzügyi-gazdálkodási és üzemeltetési tevékenységei ellátására létrehozott költségvetési szerveinek a más szervek részére végzett tevékenységei tekintetében, ha költségvetésükben az ellátott költségvetési szervek működésére, üzemeltetésére szolgáló előirányzat került meghatározásra, és
 
-(11) Kisegítő tevékenységként történő kapacitás rendelkezésre bocsátásakor a költségvetési szerv köteles kikötni, hogy e kapacitás vállalkozásszerűen nem működtethető.
+c) a támogatási célú szakfeladatok tekintetében.
 
-(12) Amennyiben a költségvetési szerv vállalkozási tevékenységeinek kiadásai a költségvetési szerv kiadásaiban a tárgyévben várhatóan nem érik el az 5%-ot, azokat a kisegítő tevékenységre vonatkozó szabályok szerint is el lehet számolni. Ha a tárgyévben mégis eléri ez az arány az 5%-os mértéket, a költségvetési szerv köteles e tevékenységeit az év egészére vonatkozóan vállalkozási tevékenységként elszámolni, valamint a költségvetési szerv a vállalkozási tevékenységei tekintetében a kisegítő tevékenységre vonatkozó szabályok szerinti elszámolási módot a következő évben nem alkalmazhatja.
+(6) Támogatásból nem finanszírozható a szabad kapacitás kihasználását célzó, nem haszonszerzés céljából végzett alaptevékenység. A költségvetési szerv e tevékenységeiből származó bevételének fedeznie kell a végzett tevékenységgel összefüggő valamennyi közvetlen kiadást és az ahhoz hozzárendelhető közvetett kiadásokat.
 
-(13) A pénzügyminiszter tájékoztatóban határozza meg a (4) bekezdés szerint minősülő szakfeladatok körét, valamint azon technikai jellegű szakfeladatok körét, melyekhez nem tartozik tevékenység, ezért a Kt. 7. §-a szerinti besorolásuk nem értelmezhető.
+(7) A költségvetési szerv a (6) bekezdés szerinti alaptevékenységeit a szakmai alapfeladataitól elkülönülten tartja nyilván és számolja el.
 
-(14) A költségvetési szervet – szakmai szempontból meghatározó – alaptevékenységének jellege szerint az irányító szerv a pénzügyminiszter által önálló tájékoztatóban kiadott államháztartási szakágazati rendben meghatározott szakágazatba – szakágazat számmal és megnevezéssel – sorolja be az alapító okiratban. E szakágazati rend nem azonos a szakfeladatrend szerinti szakágazati bontással.
+(8) A helyi önkormányzat és a többcélú kistérségi társulás költségvetési szerve tekintetében az irányító szerv a (6) és/vagy (7) bekezdésben foglalt szabályok alkalmazása alól felmentést adhat.
+
+(9) Támogatásból nem finanszírozható a vállalkozási tevékenység. A költségvetési szerv e tevékenységéből származó bevételének fedeznie kell a végzett tevékenységgel összefüggő valamennyi közvetlen kiadást, az ahhoz hozzárendelhető közvetett kiadásokat, valamint az amortizációt.
+
+(10) Az államháztartásért felelős miniszter tájékoztatóban teszi közzé a (3) bekezdés a) és d) pontja szerint minősülő szakfeladatok körét.
+
+[^38]: A 12. § a 226/2010. (VIII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.

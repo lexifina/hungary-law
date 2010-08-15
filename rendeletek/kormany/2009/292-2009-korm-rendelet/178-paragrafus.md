@@ -4,4 +4,6 @@
 
 (2) Az országos kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv a költségvetési elszámolási számláján lévő szabad pénzeszközeit betétként kizárólag a számlavezető hitelintézetnél a költségvetési elszámolási számlához kapcsolódó alszámlán kötheti le.
 
-(3) Az országos kisebbségi önkormányzat felügyelete alá tartozó költségvetési szerv a költségvetési elszámolási számlájához kapcsolódóan alszámlákat vezethet.
+(3)[^206] Az országos kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv a költségvetési elszámolási számlájához kapcsolódóan alszámlákat vezethet.
+
+[^206]: A 178. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

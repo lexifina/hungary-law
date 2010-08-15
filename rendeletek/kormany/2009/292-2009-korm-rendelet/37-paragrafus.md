@@ -1,4 +1,4 @@
-37. § (1) A helyi kisebbségi önkormányzat költségvetési határozatának szerkezetére a 36. § (1) bekezdés a)–b), h)–b) és k) pontjában foglalt szabályokat kell alkalmazni azzal az eltéréssel, hogy az e) pontban szereplő önkormányzati hivatal költségvetése alatt a helyi kisebbségi önkormányzat igazgatási és egyéb, nem intézményi formában folytatott tevékenységét kell érteni.
+37. § (1)[^79] A helyi kisebbségi önkormányzat költségvetési határozatának szerkezetére a 36. § (1) bekezdés a)–e), h)–i) és k) pontjában foglalt szabályokat kell alkalmazni azzal az eltéréssel, hogy az e) pontban szereplő önkormányzati hivatal költségvetése alatt a helyi kisebbségi önkormányzat igazgatási és egyéb, nem intézményi formában folytatott tevékenységét kell érteni.
 
 (2) A helyi kisebbségi önkormányzat kérésére a jegyző készíti elő a költségvetési (zárszámadási) határozat tervezetét, amelyet a helyi kisebbségi önkormányzat elnöke terjeszt a helyi kisebbségi önkormányzat testülete elé. A helyi kisebbségi önkormányzat költségvetési (zárszámadási) határozatát az elnök a helyi önkormányzat költségvetési rendelettervezetének elkészítéséhez továbbítja a polgármester részére.
 
@@ -19,3 +19,5 @@ e) a jegyző a helyi önkormányzat költségvetési rendeletét – annak az Á
 f) a helyi kisebbségi önkormányzat a helyi önkormányzat költségvetési koncepciójának tervezetét és költségvetési rendeletének tervezetét – a helyi kisebbségi közügyeket érintő ügyekben – véleményezi, az erről szóló határozatát a helyi kisebbségi önkormányzat költségvetési koncepciójával és költségvetési határozatával egyidejűleg küldi meg a jegyzőnek.
 
 (5) Az érintett helyi önkormányzatok és helyi kisebbségi önkormányzatok a (4) bekezdés szerinti megállapodást január 15-éig kötik meg, és azt minden évben eddig az időpontig módosíthatják.
+
+[^79]: A 37. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

@@ -8,4 +8,6 @@ b) a kiadásokat és bevételeket a közgazdasági osztályozásnak megfelelő b
 
 c) a központi kezelésű előirányzat költségvetési évre vonatkozó finanszírozási tervét.
 
-(2) A központi kezelésű előirányzat elemi költségvetését a fejezetet irányító szerv készíti el és – ha a költségvetési törvény másként nem rendelkezik – február 28-áig a Pénzügyminisztériumhoz, illetve a Kincstárhoz nyújtja be a pénzügyminiszter rendeletében foglaltak szerint.
+(2)[^82] A központi kezelésű előirányzat elemi költségvetését a fejezetet irányító szerv készíti el és – ha a költségvetési törvény másként nem rendelkezik – február 28-áig a Nemzetgazdasági Minisztériumhoz és a Kincstárhoz nyújtja be az államháztartásért felelős miniszter rendeletében foglaltak szerint.
+
+[^82]: A 47. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.

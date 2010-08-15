@@ -1,81 +1,61 @@
 ## IX. Fejezet
 
-## A KINCSTÁRNOK ÉS A BIZTOSOK
+## A KÖLTSÉGVETÉSI FŐFELÜGYELŐ, KÖLTSÉGVETÉSI FELÜGYELŐ ÉS A BIZTOSOK[^193]
 
-## A KINCSTÁRNOK
+## A költségvetési (fő)felügyelő[^194]
 
-163. § (1) Az Áht. 46/A. §-a szerinti kincstárnoki megbízatás annak a természetes személynek adható, aki
+163. §[^195] (1) Az Áht. 46/A. §-a szerinti költségvetési (fő)felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel és a kijelölés évét megelőző tíz évben legalább három éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
 
-a) felsőoktatásban szerzett pénzügyi-számviteli végzettséggel és a kijelölés évét megelőző tíz évben legalább ötéves szakirányú költségvetési gyakorlattal rendelkezik,
+(2) Nem jelölhető ki költségvetési (fő)felügyelőnek az a természetes személy, aki
 
-b) írásban nyilatkozik, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot,
-
-c) vezetői megbízással vagy kinevezéssel rendelkező köztisztviselő, és
-
-d) legalább ötéves közigazgatási gyakorlattal, továbbá jogi vagy közigazgatási szakvizsgával, vagy az Országos Közigazgatási Vizsgabizottság elnöksége által teljes körűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik.
-
-(2) Kincstárnokként nem jelölhető ki az a természetes személy, aki
-
-a) az adott fejezet irányító szervnél vagy a fejezethez tartozó költségvetési szervnél – a központi költségvetés XLIII. fejezete esetén ide értve az MNV Zrt.-t is –, vagy az elkülönített állami pénzalap kezelő szervénél (e § alkalmazásában a továbbiakban együtt: kijelölt szerv) foglalkoztatásra irányuló jogviszonyban áll,
+a) az adott fejezetet irányító szervnél, a fejezethez tartozó költségvetési szervnél, vagy az elkülönített állami pénzalap kezelő szervénél (e § alkalmazásában a továbbiakban együtt: kijelölt szerv) foglalkoztatásra irányuló jogviszonyban áll,
 
 b) a kijelölést megelőző három évben a kijelölt szervnél foglalkoztatásra irányuló, illetve rendszeres vagy tartós megbízási vagy vállalkozási jogviszonyban állt,
 
-c) a kijelölt szervnél foglalkoztatott személynek a Ptk. szerint hozzátartozója,
+c) a kijelölt szervnél döntéshozói, kötelezettségvállalási, ellenjegyzési, szakmai teljesítést igazolói, utalványozási, érvényesítési, jogkörrel felruházott személynek a Ptk. szerint hozzátartozója.
 
-d) a kincstárnoki feladata mellett ellátott munkakörére tekintettel a kincstárnoki feladat ellátása a kijelölt szerv vonatkozásában összeférhetetlen.
+(3) A költségvetési (fő)felügyelőt az államháztartásért felelős miniszter megbízólevéllel látja el, amelynek tartalmaznia kell
 
-(3) A kincstárnokot a miniszterelnök megbízólevéllel látja el, amelynek tartalmaznia kell
+a) a kijelölt szerv(ek) megnevezését,
 
-a) a fejezet vagy az elkülönített állami pénzalap megnevezését, székhelyét,
+b) annak megjelölését, hogy a kijelölés költségvetési főfelügyelői vagy felügyelői feladatkör ellátására vonatkozik,
 
-b) a kincstárnok nevét és születési idejét,
+c) a költségvetési (fő)felügyelő nevét, születési idejét, és anyja nevét,
 
-c) a megbízatás időtartamát,
+d) a megbízatás időtartamát.
 
-d) a (7) bekezdés d) pontja szerinti összeghatárt.
+(4) Az Áht. 46/A. § (6) bekezdés c) pontja szerinti nagy összegű kötelezettségvállalásnak minősül a tízmillió forintot elérő, vagy azt meghaladó összegű kötelezettségvállalás. A kötelezettségvállalás értékét a 75. § (2) bekezdése alapján kell meghatározni. Az előzetes kötelezettségvállalás felfüggesztésére irányuló javaslat megtételének hiánya nem akadálya annak, hogy a költségvetési (fő)felügyelő az előzetes kötelezettségvállalást követően a kötelezettségvállalás felfüggesztését indokolt esetben javasolja.
 
-(4) A kincstárnokkal a megbízatására vonatkozó szerződést a Kincstár köti meg.
+(5) Az Áht. 46/A. § (6) bekezdés b) pontja szerinti szabályzatoknak a 20. § (3)–(4) bekezdésében nevesített szabályzatok minősülnek.
 
-(5) A kincstárnok figyelemmel kíséri a fejezet és a fejezethez tartozó költségvetési szervek – a központi költségvetés XLIII. fejezete esetén ide értve az MNV Zrt.-t is –, vagy az elkülönített állami pénzalap gazdálkodását, így különösen a források felhasználásának és a feladatoknak az összhangját, a szállítói tartozásállomány és a vevőállomány alakulását, a bevételek beszedésére és behajtására tett intézkedéseket.
+(6) Az Áht. 46/A. § (6) bekezdés d) pontja szerinti gazdálkodással összefüggő intézkedés
 
-(6) A kincstárnok a feladatát a fejezethez tartozó valamennyi költségvetési szerv – a központi költségvetés XLIII. fejezete esetén ide értve az MNV Zrt.-t is –, központi és fejezeti kezelésű előirányzat, vagy az elkülönített állami pénzalap valamennyi előirányzata tekintetében ellátja.
+a) a költségvetési (fő)felügyelő által esetileg és előre meghatározott körben a (4) bekezdésben foglalt értékhatárt el nem érő kötelezettségvállalásra és bevétel beszedésére, teljesítésére irányuló intézkedés,
 
-(7) A kincstárnok tevékenysége nem terjed ki
+b) a kijelölt szerv költségvetési javaslata, elemi költségvetése, maradvány-elszámolása,
 
-a) az engedélyezett létszámhoz tartozó illetmény megállapítására vonatkozó,
+c) a költségvetési (fő)felügyelő által esetileg és előre meghatározott körben az előirányzatok módosítására, átcsoportosítására irányuló intézkedés,
 
-b) a rendszeres személyi juttatásokat, az azokat terhelő járulékokat, az ellátottak normatív szabályozáson alapuló pénzbeli juttatásait – ide értve az ösztöndíjakat is – érintő,
+d) az elrendelt előirányzat-zárolás végrehajtására irányuló intézkedés,
 
-c) a havonta rendszeresen ismétlődő közüzemi, üzemeltetési kiadások körébe tartozó, és
+e) a központi költségvetés általános tartalékából többletforrás biztosítására irányuló igény,
 
-d) a megbízólevélben meghatározott összeghatár alatti
+f) a 180. § szerinti előirányzat-felhasználási keret előrehozására irányuló kérelem,
 
-kötelezettségvállalások és kifizetések egyenkénti vizsgálatára.
+g) az eszközök értékesítésére és selejtezésére irányuló intézkedés.
 
-(8) A kincstárnok a fejezet és a fejezethez tartozó költségvetési szerv – a központi költségvetés XLIII. fejezete esetén ide értve az MNV Zrt.-t is –, vagy az elkülönített állami pénzalap gazdálkodásával összefüggésben jogosult
+(7) A költségvetési (fő)felügyelő munkájához a Kincstár és a kijelölt szerv szolgáltatják a kötelezettségvállalás, a kötelezettségvállalásra irányuló eljárás, az (5) bekezdés szerinti szabályzat, vagy a (6) bekezdés szerinti egyéb intézkedés dokumentumait, az arra vonatkozó összefoglaló adatokat, folyamatosan biztosítják a különböző adatbázisokból és nyilvántartásokból rendelkezésre álló adatokat, elkészítik a költségvetési (fő)felügyelő által kért dokumentumokat. A költségvetési (fő)felügyelő elhelyezéséhez szükséges feltételeket a kijelölt szerv biztosítja.
 
-a) a kijelölt szerv állományába tartozó valamennyi személytől írásbeli és szóbeli tájékoztatást kérni,
+(8) A nemzetbiztonsági szolgálatoknál folytatott tevékenysége során a költségvetési (fő)felügyelő birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, forrására, vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
 
-b)[^4] a kijelölt szerv tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében levő bármely adatot – ideértve a minősített adatokat, továbbá üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni, azokról vagy azok egy részéről a kijelölt szerv költségére másolatot készíteni,
+(9) Az Áht. 46/A. § (6) bekezdés c)–e) pontjai szerinti intézkedések dokumentumait azok tervezett kiadmányozását – e rendelet szabályai szerint előzetes ellenjegyzést igénylő intézkedés esetén annak tervezett ellenjegyzését – legalább három munkanappal megelőzően meg kell küldeni a költségvetési (fő)felügyelőnek. Ha a költségvetési (fő)felügyelő három munkanapon belül a tervezett észrevétellel kapcsolatban nem nyilatkozik, az intézkedés kiadmányozására (ellenjegyzésére) sor kerülhet. Ha a költségvetési (fő)felügyelő az Áht. 46/A. § (7) bekezdése alapján valamely intézkedés felfüggesztésére tesz javaslatot, annak indokolását három munkanapon belül eljuttatja a kijelölt szerv vezetőjének, a fejezetet irányító szerv vezetőjének, és az államháztartásért felelős miniszternek. A fejezetet irányító szerv vezetője az értesítés alapján az államháztartásért felelős miniszterrel haladéktalanul egyeztetést kezdeményez, ha az indokolással nem ért egyet.
 
-c) az egyes kötelezettségvállalásokat előzetesen véleményezni, különösen a célnak való megfelelőség, a szükségszerűség, az időszerűség, a forrásszükséglet, a fedezet megléte, illetve a kifizetés ütemezettsége vonatkozásában,
+(10) A költségvetési (fő)felügyelő tevékenységéről havonta írásban beszámol a fejezetet irányító szerv és az államháztartásért felelős miniszter részére.
 
-d) a kifizetéseket megelőzően vizsgálni a kötelezettségvállalás és a forrás meglétét, a szakmai teljesítés igazolásának megtörténtét, a finanszírozási (likviditási) tervnek megfelelő ütemezettséget.
+(11) A költségvetési (fő)felügyelőt akadályoztatása esetén az államháztartásért felelős miniszter által kijelölt költségvetési (fő)felügyelő teljes jogkörrel helyettesíti.
 
-(9) A kincstárnok munkájához a Kincstár, a fejezetet irányító szerv és az érintett költségvetési szerv – a központi költségvetés XLIII. fejezete esetén ide értve az MNV Zrt.-t is – szolgáltatják a kötelezettségvállalások, illetve a kifizetések teljesítése előtti eljárás dokumentumait, valamint az arra vonatkozó tanúsítványt, összefoglaló adatokat, folyamatosan biztosítják az adatbázisokból rendelkezésre álló adatokat, valamint elkészítik a kincstárnok által kért dokumentumokat.
+(12) A költségvetési szervhez kijelölt kincstári biztos, felsőoktatási kincstári megbízott köteles a költségvetési (fő)felügyelőt munkájában támogatni.
 
-(10) A nemzetbiztonsági szolgálatoknál folytatott tevékenysége során a kincstárnok birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
-
-(11) Ha a kincstárnok tevékenységével összefüggésben célszerűtlen, nem szükségszerű, nem időszerű vagy fedezet nélküli kötelezettségvállalást, célszerűtlen vagy időszerűtlen kifizetést, illetve ezek előkészületét észleli, arról haladéktalanul egyeztetnie kell az érintett kijelölt szerv gazdasági vezetőjével és vezetőjével. Egyetértés hiányában a kincstárnok értesíti a fejezetet irányító szerv vezetőjét. Ha az irányító szerv vezetője nem ért egyet a kincstárnokkal, a kincstárnoknak értesíti a pénzügyminisztert, illetve a Pénzügyminisztérium fejezet vonatkozásában a Miniszterelnöki Hivatalt vezető minisztert. A pénzügyminiszter, illetve a Miniszterelnöki Hivatalt vezető miniszter az értesítés alapján az érintett fejezetet irányító szerv vezetőjével haladéktalanul egyeztetést kezdeményez. A kötelezettségvállalást nem lehet megtenni, illetve a kifizetést nem lehet teljesíteni mindaddig, amíg az e bekezdés szerinti egyeztetések nem történtek meg.
-
-(12) A nemzetbiztonsági szolgálatok speciális működési kiadásainak körében a kincstárnok célszerűségi, szükségszerűségi vizsgálatot nem végezhet.
-
-(13) A kincstárnok a tevékenységéről havonta írásban beszámol a fejezetet irányító szerv és a pénzügyminiszter, illetve a Pénzügyminisztérium fejezet tekintetében a Miniszterelnöki Hivatalt vezető miniszter részére.
-
-(14) A kincstárnokot – akadályoztatása esetén – a kincstárnok munkáját irányító miniszter által kijelölt kincstárnok helyettesíti teljes jogkörrel.
-
-(15) A kincstárnokok munkájának összehangolására a pénzügyminiszter és a Miniszterelnöki Hivatalt vezető miniszter által felkért személyekből álló testület működik.
-
-(16) A költségvetési szervhez kijelölt kincstári biztos, felsőoktatási kincstári megbízott köteles a kincstárnokot munkájában támogatni.
-
-[^4]: A 163. § (8) bekezdés b) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (26) bekezdése szerint módosított szöveg.
+[^193]: A IX. fejezet címe a 226/2010. (VIII. 13.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^194]: A 163. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^195]: A 163. § a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.

@@ -12,4 +12,6 @@ c) az alap költségvetési évre vonatkozó finanszírozási tervét,
 
 d) szakfeladatrend szerinti tevékenységenként készített kimutatást.
 
-(3) A fejezetet irányító szerv a benyújtott elemi költségvetést tartalmi és formai szempontból ellenőrzi, feldolgozza és a tárgyév február 15-éig a Pénzügyminisztériumhoz, illetve a Kincstárhoz nyújtja be a pénzügyminiszter rendeletében foglaltak szerint.
+(3)[^85] A fejezetet irányító szerv a benyújtott elemi költségvetést felülvizsgálja, dönt annak jóváhagyásáról, majd a jóváhagyott elemi költségvetést tárgyév február 15-éig a Nemzetgazdasági Minisztériumhoz és a Kincstárhoz benyújtja az államháztartásért felelős miniszter rendeletében foglaltak szerint.
+
+[^85]: A 49. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 18. §-ával megállapított szöveg.

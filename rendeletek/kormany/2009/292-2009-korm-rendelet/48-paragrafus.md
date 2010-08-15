@@ -4,8 +4,11 @@
 
 a) a kiadásokat és bevételeket részletes előirányzatonként,
 
-b) a költségvetési évre vonatkozó, a 32. § (3) bekezdés bb) pontja szerinti előirányzat-felhasználási ismertetőjét, valamint a pénzügyminiszter rendeletében meghatározott formájú finanszírozási tervét, a szakmai megvalósítás üteméhez igazodóan,
+b)[^83] a költségvetési évre vonatkozó, a 32. § (3) bekezdés bb) pontja szerinti előirányzat-felhasználási ismertetőjét, valamint az államháztartásért felelős miniszter rendeletében meghatározott formájú finanszírozási tervét, a szakmai megvalósítás üteméhez igazodóan,
 
 c) a kiadások és bevételek szakfeladatrend szerinti tevékenységenkénti részletezését.
 
-(2) A fejezeti kezelésű előirányzatok elemi költségvetését a fejezetet irányító szerv készíti el és – ha a költségvetési törvény másként nem rendelkezik – a tárgyév február 28-áig a Kincstárhoz nyújtja be a pénzügyminiszter rendeletében foglaltak szerint.
+(2)[^84] A fejezeti kezelésű előirányzatok elemi költségvetését a fejezetet irányító szerv készíti el és – ha a költségvetési törvény másként nem rendelkezik – a tárgyév február 28-áig a Kincstárhoz nyújtja be az államháztartásért felelős miniszter rendeletében foglaltak szerint.
+
+[^83]: A 48. § (1) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^84]: A 48. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

@@ -22,6 +22,6 @@ alkotják.
 
 (7) A fejezeti kezelésű előirányzatok a fejezetet irányító szervek rendelkezési hatáskörébe utalt kiadások és bevételek előirányzatai.
 
-(8) A központi költségvetési szervek előirányzatai a működésük, üzemeltetésük és fejlesztésük, továbbá az általuk foglalkoztatott személyek, a vásárolt termékek és szolgáltatások kiadásait, továbbá ezek forrásait tartalmazzák.
+(8)–(9)[^23]
 
-(9) A központi kezelésű előirányzatok, a fejezeti kezelésű előirányzatok és az alapok forrásainak körére az Áht. 87. §-ának (3)–(6) bekezdésében a költségvetési szervekre megállapított szabályokat kell megfelelően alkalmazni.
+[^23]: A 3. § (8)–(9) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

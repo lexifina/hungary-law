@@ -1,24 +1,24 @@
 ## A KÖTELEZETTSÉGVÁLLALÁS ELLENJEGYZÉSE
 
-74. § (1) A kötelezettségvállalás – külön jogszabályban meghatározott és a 72. § (11)–(12) bekezdése szerinti kivétellel – kizárólag ellenjegyzés után, írásban történhet.
+74. § (1)[^129] A kötelezettségvállalás – külön jogszabályban meghatározott és a 72. § (13) bekezdése szerinti kivétellel – kizárólag ellenjegyzés után, írásban történhet. Az ellenjegyzést az ellenjegyzés dátumának és az ellenjegyzés tényére történő utalás megjelölésével, az arra jogosult személy aláírásával kell igazolni.
 
 (2) A kötelezettséget vállaló szervnél a kötelezettségvállalás ellenjegyzésére
 
 a) gazdasági szervezettel rendelkező költségvetési szerv, központi és a fejezeti kezelésű előirányzat kezelő szerve vagy az alap felett rendelkezni jogosult szerv esetén a gazdasági vezető, illetve a központi és a fejezeti kezelésű előirányzat, alap gazdálkodási feladatait ellátó külön szervezeti egységének vezetője, vagy az általuk írásban kijelölt, a b)–c) és e)–j) pontban foglalt esetek kivételével a kötelezettséget vállaló szerv alkalmazásában álló személy,
 
-b) gazdasági szervezettel nem rendelkező költségvetési szerv esetén a gazdálkodási feladatokat – a c) pontban foglaltak kivételével – a 16. § (1)–(3) bekezdése szerint ellátó költségvetési szerv gazdasági vezetője, vagy az általa írásban kijelölt, a gazdasági szervezettel nem rendelkező vagy a gazdálkodási feladatokat e rendelet szerint ellátó önállóan működő és gazdálkodó költségvetési szerv állományába tartozó személy,
+b)[^130] gazdasági szervezettel nem rendelkező költségvetési szerv esetén a 16. § (7) bekezdés b) pontjában megjelölt személy,
 
 c) a 16. § (2) bekezdése szerinti költségvetési szerv esetén a költségvetési szerv vezetője által írásban kijelölt, a költségvetési szerv állományába tartozó személy,
 
-d) a jogi személyiségű szervezeti egység esetén a 101. § (8) bekezdésében foglaltak szerint írásban kijelölt személy,
+d)[^131] a 72. § (6) bekezdése szerinti működési keret terhére vállalt kötelezettség esetén az országgyűlési képviselőcsoportnál gazdasági-pénzügyi feladatokat ellátó személy, vagy az általa írásban kijelölt személy,
 
-e) a 72. § (5) bekezdése szerinti esetben a kötelezettséget vállaló szerv gazdasági vezetője által írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy,
+e)[^132] a 72. § (7) bekezdése szerinti esetben a kötelezettséget vállaló szerv gazdasági vezetője által írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy,
 
 f) helyi önkormányzat nevében vállalt kötelezettség esetén a jegyző, vagy az általa írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
 
-g) helyi kisebbségi önkormányzat nevében vállalt kötelezettség esetén az Áht. 66. §-a szerinti megállapodás alapján a helyi önkormányzat jegyzője, vagy az általa írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
+g)[^133] helyi kisebbségi önkormányzat nevében vállalt kötelezettség esetén az Áht. 66. §-a szerinti megállapodás alapján a helyi önkormányzat jegyzője, vagy az általa írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő, vagy az Áht. 74/A. § (3) bekezdése szerinti megbízással a helyi kisebbségi önkormányzat testületének tagja,
 
-h) külön jogszabály alapján a jegyző döntési hatáskörébe utalt előirányzatok, valamint a választási eljárásról szóló 1997. évi C. törvény 2. §-ának hatálya alá tartozó választások helyi, területi előkészítésére, lebonyolítására felhasználandó pénzeszközök terhére vállalt kötelezettség esetén a jegyző által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
+h)[^134] törvény vagy kormányrendelet alapján a jegyző döntési hatáskörébe utalt feladatok előirányzatai, valamint a választási eljárásról szóló 1997. évi C. törvény 2. §-ának hatálya alá tartozó választások helyi, területi előkészítésére, lebonyolítására felhasználandó pénzeszközök terhére vállalt kötelezettség esetén a jegyző által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
 
 i) a települési önkormányzatok többcélú kistérségi társulása nevében vállalt kötelezettség esetén az Áht. 74/B. §-ában meghatározott személy, a jogi személyiségű társulás nevében vállalt kötelezettség esetén a megállapodásban megjelölt, ennek hiányában a társulásban megvalósuló feladat ellátását végző költségvetési szerv székhelye szerinti önkormányzat jegyzője, vagy az általuk írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
 
@@ -40,4 +40,12 @@ c) a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályo
 
 (6) Ha kötelezettséget vállaló szerv vezetője az (5) bekezdésben foglalt tájékoztatás ellenére írásban utasítást ad az ellenjegyzésre, az ellenjegyző köteles az utasításnak eleget tenni és e tényről költségvetési szerv esetén az irányító szerv vezetőjét, egyéb kötelezettséget vállaló szerv esetén a pénzellátást végző szerv vezetőjét haladéktalanul írásban értesíteni. Az irányító, illetve a pénzellátást végző szerv a tájékoztatás kézhezvételétől számított nyolc munkanapon belül – helyi önkormányzati, illetve helyi vagy országos kisebbségi önkormányzati költségvetési szerv esetén a testület soron következő ülésén – köteles megvizsgálni a bejelentést, és kezdeményezni az esetleges felelősségre vonást.
 
-(7) Ha a kötelezettséget vállaló szervhez kincstári, vagy önkormányzati, átalakítási vagy megszüntetési biztost, illetve a fejezethez, vagy az elkülönített állami pénzalaphoz kincstárnokot jelöltek ki, a kötelezettségvállalás – a kötelezettségvállaló és az ellenjegyző aláírása mellett – a biztos külön ellenjegyzése, illetve a 236. §-ban meghatározott kötelezettségvállalások esetében a kincstárnokkal lefolytatott előzetes egyeztetést követően vagy a 163. § (11) bekezdése szerinti egyeztetés megtörténte után érvényes.
+(7)[^135] Ha a kötelezettséget vállaló szervhez kincstári, vagy önkormányzati biztost jelöltek ki, a kötelezettségvállaláshoz – a kötelezettségvállaló és az ellenjegyző aláírása mellett – a biztos külön ellenjegyzése is szükséges. Ha a kötelezettséget vállaló szervhez költségvetési (fő)felügyelő került kirendelésre, a kötelezettségvállalás ellenjegyzőjének meg kell győződnie arról, hogy a költségvetési (fő)felügyelő az előzetes véleményezési jogát gyakorolhatta-e, ennek során az intézkedés végrehajtásának felfüggesztését nem javasolta. A kötelezettségvállalás ellenjegyzésére mindaddig nem kerülhet sor, míg az intézkedés véleményezésére nem biztosítottak lehetőséget, vagy a költségvetési (fő)felügyelő az intézkedés felfüggesztésére vonatkozó javaslatát fenntartja és az Áht. 46/A. § (7) bekezdése szerinti egyeztetés nem történt meg.
+
+[^129]: A 74. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^130]: A 74. § (2) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^131]: A 74. § (2) bekezdés d) pontja a 226/2010. (VIII. 13.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^132]: A 74. § (2) bekezdés e) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^133]: A 74. § (2) bekezdés g) pontja a 226/2010. (VIII. 13.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
+[^134]: A 74. § (2) bekezdés h) pontja a 226/2010. (VIII. 13.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
+[^135]: A 74. § (7) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 28. § (5) bekezdésével megállapított szöveg.

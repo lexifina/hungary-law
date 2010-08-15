@@ -34,4 +34,6 @@ b) a többcélú kistérségi társulás önálló munkaszervezete,
 
 c) a helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, a többcélú kistérségi társulás, továbbá a helyi kisebbségi önkormányzat, valamint a helyi kisebbségi önkormányzat jogi személyiségű társulása által alapított – az a)–b) pontban nem említett – költségvetési szervek.
 
-(4) A többcélú kistérségi társulás önálló munkaszervezetét közhatalmi költségvetési szervként kell besorolni.
+(4)[^25]
+
+[^25]: A 8. § (4) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

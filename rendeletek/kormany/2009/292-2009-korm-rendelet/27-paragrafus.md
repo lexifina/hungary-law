@@ -8,7 +8,7 @@ a) az általános és kötelezően érvényesítendő tervezési követelmények
 
 b) a tervezett kiadások, bevételek, támogatások, a létszám és a mutatószámok értékeit, elkülönítve az önállóan működő és gazdálkodó és a hozzá rendelt önállóan működő költségvetési szerv előirányzatait, megjelölve azok kötelező vagy irányszám jellegét,
 
-c) a b) pontban megjelölt adatokhoz igazodóan az ellátandó és támogatott feladatok körében és a megvalósítás szakmai, működtetési, üzemeltetési, valamint foglalkoztatási és díjazási követelményeiben, feltételeiben érvényesítendő változásokat, hatáskör szerint a változások érvényesítésének módját, a gazdaságos, hatékony és eredményes működés és gazdálkodás céljából elvégzendő feladatokat, költségvetési szerv esetében az éves költségvetés összeállításával kapcsolatos előírásokat,
+c)[^59] a b) pontban megjelölt adatokhoz igazodóan az ellátandó és támogatott feladatok körében és a megvalósítás szakmai, működtetési, üzemeltetési, valamint foglalkoztatási és díjazási követelményeiben, feltételeiben érvényesítendő változásokat, hatáskör szerint a változások érvényesítésének módját,
 
 d) a tervezés évében megvalósult előirányzat-változásoknak a tervezés irányszámaiban való számbavétele lehetőségét, illetve módját,
 
@@ -18,36 +18,16 @@ f) a tervezés eljárási teendőit, ideértve a gazdasági szervezettel rendelk
 
 és arról tájékoztatja a költségvetési javaslatok elkészítéséért felelős költségvetési szerveket.
 
-(2) A fejezetet irányító szerv a fejezeti költségvetési javaslat és a költségvetési javaslatok összeállításának módszertanát a következő előfeltételek figyelembevételével, és ennek megfelelően nevesítve állapítja meg, eleget téve az Áht. 49. §-a (5) bekezdésének b) pontjában foglaltaknak:
-
-a) az intézményfenntartáson alapuló tervezés feltétele, hogy
-
-aa) a feladat ellátására az adott intézményi keret és méret optimális volta megkérdőjelezhetetlen,
-
-ab) az intézményméret időszakonként felülvizsgálatra kerül,
-
-ac) más formában történő feladatellátás jellegénél fogva nem alkalmazható vagy nem célszerű,
-
-b) a feladatalapú tervezés feltétele, hogy
-
-ba) a feladat tartalma megfogalmazható, más feladatoktól elkülöníthető, a feladat végrehajtása követhető, eredménye megítélhető,
-
-bb) a kiadás, bevétel egyértelműen elkülöníthető és hozzárendelhető a feladathoz,
-
-bc) a ba)–bb) pontra vonatkozó információk felhasználásának adottak a személyi, tárgyi feltételei,
-
-c) a programalapú tervezés feltétele, hogy – a feladatalapú tervezés feltételei mellett – a feladatmegoldás folyamata, menet közbeni értékelése megtervezhető,
-
-d) a normatív tervezés feltétele, hogy
-
-da) a feladat-, teljesítmény-mutató egységére a feladatmegoldás költséghatékony módjával számított fajlagos támogatás állapítható meg,
-
-db) a finanszírozás hozzájárulás jellegű, és feladat-, teljesítmény-mutatóra vetített fajlagos támogatással egyenlő elbírálás érvényesíthető a kedvezményezettek között.
+(2)[^60]
 
 (3) A fejezetet irányító szerv az (1) bekezdésben foglaltak meghatározása előtt, majd a fejezeti költségvetési javaslat kialakításakor a költségvetési szervei bevonásával
 
 a) megvizsgálja a szakmai koncepciók megvalósításához és az intézményi működéshez rendelkezésre álló szervezeti, anyagi, személyi feltételeket, valamint azok bővítésének, illetve szűkítésének szükségességét és lehetőségeit,
 
-b) előzetesen megtervezi a várható többletforrások elosztását a szakmai prioritásokhoz, más feladatváltozásokhoz kapcsolódva, valamint a többletteljesítményekkel elérhető bevételek alapján a tervezett hatékonyságnövelés követelményének, illetve a megfelelő tervezési módszertan érvényesítésével, továbbá
+b)[^61] előzetesen megtervezi a várható többletforrások elosztását, továbbá
 
 c) javaslatot dolgoz ki a kiadásokat, illetve a forrásokat befolyásoló intézkedésekre, ideértve a jogszabályok szükséges módosítását is.
+
+[^59]: A 27. § (1) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^60]: A 27. § (2) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^61]: A 27. § (3) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

@@ -4,19 +4,19 @@
 
 (2) A költségvetési szerv szervezeti és működési szabályzatának – a külön jogszabályban meghatározottakon kívül – tartalmaznia kell
 
-a) a költségvetési szerv létrehozásáról szóló jogszabályra, határozatra történő hivatkozást,
+a)[^47] a költségvetési szerv létrehozásáról szóló jogszabályra történő hivatkozást,
 
 b) a költségvetési szerv törzskönyvi azonosító számát, alapító okiratának keltét, az alapító okirat számát, az alapítás időpontját,
 
-c) az ellátandó, és a szakfeladatrend szerint (szakfeladat számmal és megnevezéssel) besorolt alaptevékenységek, rendszeresen ellátott kiegészítő, kisegítő és vállalkozási tevékenységek, valamint az alaptevékenységet meghatározó jogszabályok megjelölését,
+c)[^48] az ellátandó, és a szakfeladatrend szerint (szakfeladat számmal és megnevezéssel) besorolt alaptevékenységek, rendszeresen ellátott vállalkozási tevékenységek, valamint az alaptevékenységet meghatározó jogszabályok megjelölését,
 
 d) azon gazdálkodó szervezetek részletes felsorolását, amelyek felett a költségvetési szerv alapítói, illetve tulajdonosi (tagsági, részvényesi, szavazatelsőbbségi) jogokat gyakorol,
 
-e) a szervezeti felépítést és a működésk rendjét, a szervezeti egységek (ezen belül a jogi személyiségű szervezeti egység és a gazdasági szervezet) megnevezését, engedélyezett létszámát, feladatait, és a szervezeti egységek közötti kapcsolattartás rendjét,
+e)[^49] a szervezeti felépítést és a működés rendjét, a szervezeti egységek (ezen belül a gazdasági szervezet) megnevezését, engedélyezett létszámát, feladatait, és a szervezeti egységek közötti kapcsolattartás rendjét,
 
-f) a 21. § (3) bekezdésében előírtakat,
+f)[^50]
 
-g) a nem jogi személyiségű szervezeti egységek vezetőjének azon jogosítványait, amelyek körében a költségvetési szerv képviselőjeként járhat el,
+g)[^51] a szervezeti egységek vezetőjének azon jogosítványait, amelyek körében a költségvetési szerv képviselőjeként járhat el,
 
 h) a szervezeti és működési szabályzatban nevesített valamennyi munkakörhöz tartozó feladat- és hatásköröket, a hatáskörök gyakorlásának módját, a helyettesítés rendjét, az ezekhez kapcsolódó felelősségi szabályokat,
 
@@ -53,3 +53,9 @@ i) a közérdekű adatok megismerésére irányuló kérelmek intézésének, to
 (6) Ha a költségvetési szerv számára a (3) bekezdés b)–i) pontjában felsorolt tevékenységeket, szolgáltatásokat külön jogszabály alapján más költségvetési szerv alapfeladatként látja el vagy nyújtja, az adott tevékenységre, szolgáltatásra vonatkozó szabályozást a szolgáltatást nyújtó költségvetési szervvel egyeztetett módon kell kiadni.
 
 (7) A költségvetési szerv szervezeti egységei által ellátott feladatok munkafolyamatainak leírását, a szervezeti egység vezetőinek és alkalmazottainak feladat- és hatáskörét (munkakörét), a helyettesítés rendjét, továbbá a szervezeti egység költségvetési szerven belüli belső és azon kívüli külső kapcsolattartásának módját, szabályait – ha azokról a szervezeti és működési szabályzat vagy a költségvetési szerv más szabályzata nem rendelkezik – a szervezeti egységek ügyrendje tartalmazza.
+
+[^47]: A 20. § (2) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^48]: A 20. § (2) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 20. § (2) bekezdés e) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^50]: A 20. § (2) bekezdés f) pontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^51]: A 20. § (2) bekezdés g) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

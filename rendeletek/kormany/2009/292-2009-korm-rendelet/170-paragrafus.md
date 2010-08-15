@@ -10,4 +10,6 @@ d) a hatósági letétek kezelésére szolgáló számlákon lebonyolított pén
 
 (2) Az (1) bekezdés a)–c) pontjában foglalt pénzügyi műveletekről folyamatos nyilvántartást kell vezetni, és arról a beszámolási és könyvvezetési kötelezettségre vonatkozó jogszabályok alapján, illetve adatszolgáltatás keretében számot kell adni.
 
-(3) A KESZ-hez kapcsolódó nemzetgazdasági számlák megnyitásáról, megszüntetéséről, a számlákon bonyolítható pénzforgalom meghatározásáról, a számlák feletti rendelkezésről, év végi lezárásukról a pénzügyminiszter jogosult rendelkezni, aki e jogosultságát a Kincstár elnöke részére átadhatja.
+(3)[^202] A KESZ-hez kapcsolódó nemzetgazdasági számlák megnyitásáról, megszüntetéséről, a számlákon bonyolítható pénzforgalom meghatározásáról, a számlák feletti rendelkezésről, év végi lezárásukról az államháztartásért felelős miniszter jogosult rendelkezni, aki e jogosultságát a Kincstár elnöke részére átadhatja.
+
+[^202]: A 170. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

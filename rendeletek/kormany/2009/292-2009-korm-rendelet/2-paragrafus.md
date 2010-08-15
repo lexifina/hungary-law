@@ -14,7 +14,7 @@
 
 6. fejezetet irányító szerv és annak vezetője:
 
-a) az I. fejezetnél az Országgyűlés Hivatala és annak gazdasági főigazgatója, a Közbeszerzések Tanácsa tekintetében a Közbeszerzések Tanácsa és annak elnöke, a Költségvetési Tanács tekintetében a Költségvetési Tanács Titkársága és a Költségvetési Tanács köztársasági elnök által jelölt tagja, a 6–17. címek tekintetétében a Pénzügyminisztérium és a pénzügyminiszter,
+a)[^3] az I. fejezetnél az Országgyűlés Hivatala és annak gazdasági főigazgatója, a Közbeszerzések Tanácsa tekintetében a Közbeszerzések Tanácsa és annak elnöke, a Költségvetési Tanács tekintetében a Költségvetési Tanács Titkársága és a Költségvetési Tanács köztársasági elnök által jelölt tagja, a Pénzügyi Szervezetek Állami Felügyelete tekintetében a Pénzügyi Szervezetek Állami Felügyelete és annak elnöke, a 6–17. címek tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
 b) a II. fejezetnél a Köztársasági Elnöki Hivatal és annak vezetője,
 
@@ -28,35 +28,35 @@ f) a VI. fejezetnél az Országos Igazságszolgáltatási Tanács és annak eln�
 
 g) a VIII. fejezetnél a Legfőbb Ügyészség és a legfőbb ügyész,
 
-h) a IX. fejezetnél az Önkormányzati Minisztérium és az önkormányzati miniszter,
+h)[^4] a IX. fejezetnél a Belügyminisztérium és a belügyminiszter,
 
-i) a X. fejezetnél a Miniszterelnöki Hivatal és az azt vezető miniszter, a polgári nemzetbiztonsági szolgálatok tekintetében a polgári nemzetbiztonsági szolgálatokat irányító miniszter, a 20. cím tekintetétében a Pénzügyminisztérium és a pénzügyminiszter,
+i)[^5] a X. fejezetnél a Közigazgatási és Igazságügyi Minisztérium és a közigazgatási és igazságügyi miniszter, a Magyar Szabadalmi Hivatal tekintetében a Magyar Szabadalmi Hivatal és annak elnöke, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 16. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
-j) a XI–XIII., XV.–XVI., XVIII., XX. és a XXIII–XXV. fejezeteknél a minisztérium és a miniszter,
+j)[^6] a XI. fejezetnél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár,
 
-k) a XIV. fejezetnél az Igazságügyi és Rendészeti Minisztérium és az igazságügyi és rendészeti miniszter, a Magyar Szabadalmi Hivatal tekintetében a Magyar Szabadalmi Hivatal és annak elnöke,
+k)[^7] a XII–XV. és a XVIII. fejezetnél a minisztérium és a miniszter,
 
-l) a XVII. fejezetnél a Közlekedési, Hírközlési és Energiaügyi Minisztérium és a közlekedési, hírközlési és energiaügyi miniszter, a Nemzeti Hírközlési Hatóság tekintetében a Nemzeti Hírközlési Hatóság és a Nemzeti Hírközlési Hatóság Tanácsának elnöke, az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója, a Magyar Energia Hivatal tekintetében a Magyar Energia Hivatal és annak elnöke,
+l)[^8] a XVII. fejezetnél a Nemzeti Fejlesztési Minisztérium és a nemzeti fejlesztési miniszter, a Nemzeti Hírközlési Hatóság tekintetében a Nemzeti Hírközlési Hatóság és a Nemzeti Hírközlési Hatóság Tanácsának elnöke, az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója, a Magyar Energia Hivatal tekintetében a Magyar Energia Hivatal és annak elnöke,
 
-m) a XIX. fejezetnél a Nemzeti Fejlesztési Ügynökség és annak elnöke,
+m)[^9] a XIX. fejezetnél a Nemzeti Fejlesztési Ügynökség és annak elnöke,
 
-n) a XXI. fejezetnél az Egészségügyi Minisztérium és az egészségügyi miniszter, az Egészségbiztosítási Felügyelet tekintetében az Egészségbiztosítási Felügyelet és annak elnöke,
+n)[^10] a XX. fejezetnél a Nemzeti Erőforrás Minisztérium és a nemzeti erőforrás miniszter, a 21–22. címek tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
-o) a XXII. fejezetnél a Pénzügyminisztérium és a pénzügyminiszter, a Pénzügyi Szervezetek Állami Felügyelete tekintetében a Pénzügyi Szervezetek Állami Felügyelete és a Felügyeleti Tanács elnöke, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke,
+o)[^11] a XXX. fejezetnél a Gazdasági Versenyhivatal és annak elnöke,
 
-p) a XXVI. fejezetnél a Szociális és Munkaügyi Minisztérium és a szociális és munkaügyi miniszter, a 20–21. címek tekintetétében a Pénzügyminisztérium és a pénzügyminiszter,
+p)[^12] a XXXI. fejezetnél a Központi Statisztikai Hivatal (a továbbiakban: KSH) és annak elnöke,
 
-q) a XXX. fejezetnél a Gazdasági Versenyhivatal és annak elnöke,
+q)[^13] a XXXIII. fejezetnél a Magyar Tudományos Akadémia és annak elnöke,
 
-r) a XXXI. fejezetnél a Központi Statisztikai Hivatal (a továbbiakban: KSH) és annak elnöke,
+r)[^14] a XLI–XLII. fejezetnél a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
-s) a XXXIII. fejezetnél a Magyar Tudományos Akadémia és annak elnöke,
+s)[^15] a XLIII. fejezetnél a Nemzeti Fejlesztési Minisztérium és a nemzeti fejlesztési miniszter,
 
-t) a XLI–XLIII. fejezetnél a Pénzügyminisztérium és a pénzügyminiszter,
+t)[^16]
 
-u) a külön jogszabályban meghatározott jogkör tekintetében a LXXI. fejezetnél a Nyugdíjbiztosítási Alap, valamint az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) tekintetében a szociális és munkaügyi miniszter, az igazgatási szervek tekintetében az ONYF vezetője,
+u)[^17] a külön jogszabályban meghatározott jogkör tekintetében a LXXI. fejezetnél a Nyugdíjbiztosítási Alap, valamint az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) tekintetében a nemzeti erőforrás miniszter, az igazgatási szervek tekintetében az ONYF vezetője,
 
-v) a külön jogszabályban meghatározott jogkör tekintetében a LXXII. fejezetnél az Egészségbiztosítási Alap, valamint az OEP tekintetében az egészségügyi miniszter, a területi igazgatási szervek tekintetében az OEP vezetője,
+v)[^18] a külön jogszabályban meghatározott jogkör tekintetében a LXXII. fejezetnél az Egészségbiztosítási Alap, valamint az OEP tekintetében a nemzeti erőforrás miniszter, a területi igazgatási szervek tekintetében az OEP vezetője,
 
 w) az elkülönített állami pénzalapok tekintetében az alappal való rendelkezésre jogosult, a felhasználásért felelős miniszter;
 
@@ -78,7 +78,7 @@ w) az elkülönített állami pénzalapok tekintetében az alappal való rendelk
 
 a) a központi kezelésű előirányzatok esetén: a fejezetet irányító szerv, a központi költségvetés XLIII. fejezete esetén a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.),
 
-b) a fejezeti kezelésű előirányzatok esetén: a fejezetet irányító szerv vagy – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(5) bekezdése alapján középirányító szervre, illetve kezelő szervre, központi kezelésű előirányzat esetén jogszabály kezelő szervre ruházta át – a középirányító szerv, illetve a kezelő szerve az átruházott jogkörök és feladatok tekintetében,
+b)[^19] a fejezeti kezelésű előirányzatok esetén: a fejezetet irányító szerv vagy – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(5) bekezdése alapján középirányító szervre vagy kezelő szervre ruházta át – a középirányító szerv, kezelő szerv az átruházott jogkörök és feladatok tekintetében,
 
 c) az elkülönített állami pénzalapok esetén: az Áht. 54/A. §-a alapján kijelölt központi költségvetési szerv vagy köztestület,
 
@@ -88,17 +88,17 @@ d) a társadalombiztosítás pénzügyi alapjai esetén: a LXXI. fejezetnél az 
 
 16. kisebbségpolitikáért felelős állami szerv: a Nek. tv. 62. §-ának (1) bekezdése alapján a Kormány által rendeletben kijelölt, a nemzeti és etnikai kisebbségekkel kapcsolatos állami feladatok ellátásáért felelős államigazgatási szerv;
 
-17. Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó fejezetek: az I–VIII., a XXX. és a XXXIII. fejezetek;
+17.[^20]
 
 18. központi beruházás:
 
 a) a beruházások előkészítésére és megvalósítására, valamint az azokhoz kapcsolódó egyéb felhalmozási kiadásokra (ideértve az immateriális javakkal kapcsolatos kiadásokat is) szolgáló, a központi költségvetésben a fejezeti kezelésű előirányzatok között Beruházás alcímen megtervezett előirányzat, melynek célját az irányító szerv jelöli meg az ágazati fejlesztési koncepciókkal összhangban,
 
-b) a központi költségvetésben a fejezeti kezelésű előirányzatok vagy az intézményi címen a felhalmozási kiadások között tervezett lakásépítés, lakástámogatás előirányzata, amely a Honvédelmi Minisztérium, a Magyar Honvédség, a Polgári Nemzetbiztonsági Szolgálatok, az Igazságügyi és Rendészeti Minisztérium és az irányítása alá tartozó testületek, a büntetés-végrehajtási szervezet, az Önkormányzati Minisztérium és az Országos Katasztrófavédelmi Főigazgatóság, a Pénzügyminisztérium és a Vám- és Pénzügyőrség szolgálati lakásainak létesítését – beleértve a lakásvásárlást is –, illetve az állomány lakástámogatását foglalja magában;
+b)[^21] a központi költségvetésben a fejezeti kezelésű előirányzatok vagy az intézményi címen a felhalmozási kiadások között tervezett lakásépítés, lakástámogatás előirányzata, amely a Honvédelmi Minisztérium, a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok, a Belügyminisztérium és az irányítása alá tartozó testületek, a Nemzetgazdasági Minisztérium és a Vám- és Pénzügyőrség szolgálati lakásainak létesítését – beleértve a lakásvásárlást is –, vagy az állomány lakástámogatását foglalja magában;
 
 19. közreműködő szervezet: az európai uniós forrásból finanszírozott támogatások esetén a támogató képviseletében eljáró, jogszabályban kijelölt szervezet;
 
-20. köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. §-ának 20. pontjában meghatározottak;
+20.[^22] köztartozás: e rendelet VII. fejezete alkalmazásában az Áht. 13/A. § (4) bekezdésében, egyebekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 20. pontjában meghatározottak;
 
 21. kutatás-fejlesztés: a kutatás-fejlesztésről és technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. §-ának 1. d) pontjában meghatározott tevékenység;
 
@@ -115,3 +115,24 @@ b) a központi költségvetésben a fejezeti kezelésű előirányzatok vagy az 
 27. támogatási konstrukciók: a pályázati felhívások, támogatási programok, egyedi támogatások összefoglaló elnevezése;
 
 28. támogatott tevékenység: az európai uniós forrásból finanszírozott támogatások esetén a külön jogszabály szerinti projekt, egyéb támogatások esetén az a támogatói okiratban, támogatási szerződésben megjelölt tevékenység – ideértve a kedvezményezett működését is –, feladat, amely során felmerült költségek megtérítését a támogatás biztosítja.
+
+[^3]: A 2. § 6. pont a) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 6. pont h) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § 6. pont i) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 6. pont j) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § 6. pont k) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § 6. pont l) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § 6. pont m) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § 6. pont n) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § 6. pont o) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § 6. pont p) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § 6. pont q) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. § 6. pont r) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § 6. pont s) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. § 6. pont t) alpontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^17]: A 2. § 6. pont u) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^18]: A 2. § 6. pont v) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^19]: A 2. § 14. pont b) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^20]: A 2. § 17. pontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^21]: A 2. § 18. pont b) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^22]: A 2. § 20. pontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.

@@ -4,4 +4,6 @@
 
 (3) Amennyiben az ellenjegyzésre jogosult nem ért egyet az utalvánnyal, köteles ezt jelezni az utalványozónak. Az ellenjegyzés nem tagadható meg, ha ezt követően az utalványozó erre írásban utasítja. A további eljárási szabályokra a 74. § (5)–(6) bekezdésében foglalt szabályokat kell megfelelően alkalmazni.
 
-(4) Ha a kötelezettséget vállaló szervhez kincstári, vagy önkormányzati, átalakítási vagy megszüntetési biztost, illetve a fejezethez, vagy az elkülönített állami pénzalaphoz kincstárnokot jelöltek ki, az utalványozás – az utalványozó és annak ellenjegyzésére jogosult személy aláírása mellett – a biztos külön ellenjegyzése, illetve a kincstárnok által a 163. § (8) bekezdés d) pontja alapján vizsgált kötelezettségvállalások esetében a kincstárnokkal lefolytatott előzetes egyeztetést követően, vagy a 163. § (11) bekezdése szerinti egyeztetés megtörténte után érvényes.
+(4)[^146] Ha a kötelezettséget vállaló szervhez kincstári, vagy önkormányzati biztost jelöltek ki, az utalványozás – az utalványozó és annak ellenjegyzésére jogosult személy aláírása mellett – a biztos külön ellenjegyzését követően hajtható végre.
+
+[^146]: A 79. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 33. §-ával megállapított szöveg.

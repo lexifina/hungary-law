@@ -1,25 +1,11 @@
 ## A teljesítményösztönzés, személyi ösztönzés előirányzatának tervezése
 
-86. § (1) A költségvetésben jutalom, prémium címén teljesítményösztönzés, személyi ösztönzés céljából megtervezett előirányzat az eredeti rendszeres személyi juttatások előirányzatára vetítve nem haladhatja meg
+86. §[^151] (1) Az Áht. 100/E. §-a alapján a központi költségvetési szerv költségvetésében jutalmazásra (prémium címén teljesítményösztönzésre, személyi ösztönzésre) megtervezhető előirányzat az eredeti rendszeres személyi juttatások előirányzatának legfeljebb 8%-a.
 
-a) a Kormány vagy miniszter irányítása vagy felügyelete alá tartozó közhatalmi költségvetési szervnél – ide nem értve a közhatalmi költségvetési szerv költségvetésében szereplő közszolgáltató költségvetési szervek előirányzatait – a 12%-os,
+(2) Helyi önkormányzati, helyi és országos kisebbségi önkormányzati költségvetési szerv az irányító szerv költségvetési rendeletében (határozatában), köztestületi költségvetési szerv az irányító szerv által meghatározott mértékű jutalmat tervezhet.
 
-b) a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó közhatalmi költségvetési szervnél az irányító szerv által a költségvetés tervezésekor előzetesen meghatározott,
+(3) A köztisztviselők jogállásáról és a kormánytisztviselők jogállásáról szóló törvény hatálya alá tartozó alkalmazottakat foglalkoztató költségvetési szerveknél céljuttatás címén tervezhető előirányzat a Kormány vagy miniszter irányítása vagy felügyelete alá tartozó központi költségvetési szervnél az eredeti rendszeres személyi juttatások előirányzatára vetítve a 10%-os, önkormányzati költségvetési szervnél az önkormányzat költségvetési rendeletében meghatározott mértéket nem haladhatja meg.
 
-c) közintézménynél és közintézetnél a 8%-os
+(4) A költségvetési szerv a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 77. § (1) bekezdése szerinti kereset-kiegészítés fedezetére a költségvetési törvényben meghatározott – a keresetbe tartozó juttatások előző évi bázis előirányzatára vetített – mértéket tervezhet.
 
-mértéket.
-
-(2) Közintézet esetén az (1) bekezdés szerinti előirányzat forrása nem lehet központi költségvetésből származó támogatás.
-
-(3) Önkormányzati közhatalmi költségvetési szerv az önkormányzat költségvetési rendeletében meghatározott mértékű jutalmat tervezhet.
-
-(4) A céljuttatás címén tervezhető előirányzat nem haladhatja meg
-
-a) a Kormány vagy miniszter irányítása vagy felügyelete alá tartozó központi közhatalmi költségvetési szervnél az eredeti rendszeres személyi juttatások előirányzatára vetítve a 10%-os,
-
-b) önkormányzati közhatalmi költségvetési szervnél az önkormányzat költségvetési rendeletében meghatározott
-
-mértéket.
-
-(5) A közszolgáltató költségvetési szerv a közalkalmazottak jogállásáról szóló törvény 77. §-ának (1) bekezdése szerinti kereset-kiegészítés fedezetére a költségvetési törvényben meghatározott – a keresetbe tartozó juttatások előző évi bázis előirányzatára vetített – mértéket tervezhet.
+[^151]: A 86. § a 226/2010. (VIII. 13.) Korm. rendelet 34. §-ával megállapított szöveg.
