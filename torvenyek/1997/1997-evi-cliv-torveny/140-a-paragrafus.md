@@ -2,7 +2,7 @@
 
 140/A. § (1) Az egészségügyi dolgozók általános szakmai, illetőleg etikai (a továbbiakban együtt: etikai) szabályainak kidolgozására, továbbá meghatározott esetekben az egészségügyi dolgozókkal szemben szakmai-etikai (a továbbiakban: etikai) eljárás lefolytatására Országos Etikai Tanács (a továbbiakban: OET) működik és az egészségügyi dolgozókkal szemben etikai eljárás lefolytatására Megyei Etikai Tanácsok (a továbbiakban: MET) működnek.
 
-(2) Az OET jogi személy, gazdálkodására a közhatalmi költségvetési szerv gazdálkodására vonatkozó szabályokat kell alkalmazni. Tevékenységét a miniszter irányítja.
+(2) Az OET jogi személy, gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni. Tevékenységét a miniszter irányítja.
 
 (3) Az OET titkársági feladatait az egészségügyi államigazgatási szerv látja el.
 

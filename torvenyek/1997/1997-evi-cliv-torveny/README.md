@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-154-00-00.40 |
 | 2010-05-01 | 2009. évi CLIV. törvény | 1997-154-00-00.41 |
 | 2010-06-01 | 2008. évi CVI. törvény | 1997-154-00-00.42 |
+| 2010-08-15 | 2010. évi XC. törvény | 1997-154-00-00.43 |

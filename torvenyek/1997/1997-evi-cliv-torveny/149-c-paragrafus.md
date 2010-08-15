@@ -1,6 +1,4 @@
-149/C. §
-
-(1) A RET jogi személy, gazdálkodására a közszolgáltató költségvetési szerv gazdálkodására vonatkozó szabályokat kell alkalmazni.
+149/C. § (1) A RET jogi személy, gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
 
 (2) A RET titkársági feladatait az egészségügyi államigazgatási szerv kijelölt szerve keretében működő RET titkárság látja el.
 
