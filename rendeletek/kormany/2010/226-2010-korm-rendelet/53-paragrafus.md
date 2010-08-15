@@ -1,0 +1,3 @@
+## 52. § Az Ámr. 188. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A szociális, gyermekjóléti, gyermekvédelmi szolgáltatók, intézmények egyházi fenntartónak történő átadása esetén a helyi önkormányzat(ok) által megtérítendő kiegészítő támogatás összegét a Kincstár külön jogszabály szerint megállapítja, és az erről hozott határozatát közli a Belügyminisztériummal. A Belügyminisztérium a nettó finanszírozás keretében ezt csökkentő tételként veszi figyelembe, és azt a Kincstár a feladatot átadó helyi önkormányzat támogatásának terhére a kiegészítő támogatás folyósításául szolgáló előirányzat javára számolja el.”
