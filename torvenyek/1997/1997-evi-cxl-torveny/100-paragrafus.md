@@ -32,7 +32,7 @@ l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben sz
 
 a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
 
-b) a közintézet közgyűjtemény megvalósítási és teljesítménytervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat.
+b) az önállóan működő és gazdálkodó közgyűjtemény éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
 
 c)
 
@@ -42,7 +42,7 @@ e) a védetté nyilvánított kulturális javak, valamint a régészeti lelőhel
 
 f) a muzeális intézmények nyilvántartási szabályzatát,
 
-g) a muzeális intézmények ügyrendi szabályzatát,
+g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
 
 h)
 
