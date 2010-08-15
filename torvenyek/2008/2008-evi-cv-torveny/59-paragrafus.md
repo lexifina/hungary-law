@@ -1,1 +1,0 @@
-59. § Ahol jogszabály fejezet felügyeletét ellátó szervről, illetőleg fejezet felügyeletét ellátó szerv vezetőjéről rendelkezik, azon e törvény hatálybalépését követően fejezetet irányító szervet, illetőleg fejezetet irányító szerv vezetőjét kell érteni.

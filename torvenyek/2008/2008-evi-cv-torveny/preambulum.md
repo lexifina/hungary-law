@@ -1,1 +1,0 @@
-Az Országgyűlés az államháztartási rendszer megújítása keretében a közpénzek felhasználásának, a közfeladatok ellátásának átláthatóbbá, hatékonyabbá tétele, és a költségvetési gazdálkodás modernizálásának megalapozása céljából a költségvetési szervek jogállásáról és gazdálkodásáról a következő törvényt alkotja:
