@@ -6,7 +6,7 @@
 
 a) kezdeményezi a regisztrációs központnál a felsőoktatási intézmény állami elismerésre, illetve állami elismerésének visszavonására irányuló eljárást;
 
-b) saját hatáskörben – állami felsőoktatási intézmény esetén a költségvetési szervek jogállásáról szóló törvény 3. § (2) bekezdésében előírt egyetértéshez, hozzájáruláshoz nem kötött intézkedésével – kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát,
+b) saját hatáskörben kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát,
 
 c) közli a felsőoktatási intézmény költségvetésének kereteit (főösszegeit) és értékeli a számviteli rendelkezések alapján elkészített éves beszámolóját;
 
@@ -28,9 +28,9 @@ f) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja 
 
 g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
 
-h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről;
+h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről.
 
-i) az államháztartásról szóló törvényben foglaltak szerint vizsgálja, hatásvizsgálat keretében bemutatja a költségvetési szervként működő felsőoktatási intézményi tevékenység keretében ellátott közfeladat-ellátási igény meglétét, a közfeladat-ellátás más megoldási módokkal, más szervezeti megoldásokkal szembeni előnyét.
+i)
 
 (3) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 

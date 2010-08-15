@@ -8,4 +8,4 @@
 
 (5) A kockázatfedezeti alap működtetésére legfeljebb a befizetett összeg négy százaléka használható fel.
 
-(6) A kockázatfedezeti alapba történő befizetés tekintetében az államháztartásról szóló törvény 18/C. §-ának (5) bekezdésében, valamint 100. §-ának (1) bekezdésében foglaltakat nem kell alkalmazni.
+(6) A kockázatfedezeti alapba történő befizetés tekintetében az államháztartásról szóló törvény 18/C. §-ának (5) bekezdésében foglaltakat nem kell alkalmazni.

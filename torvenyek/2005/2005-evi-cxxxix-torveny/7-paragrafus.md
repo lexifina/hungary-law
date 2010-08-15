@@ -22,4 +22,4 @@ alapíthat.
 
 (7) A fenntartó felelőssége, hogy – az e törvényben meghatározottak szerint, költségvetési szervként működő felsőoktatási intézmény esetén az államháztartás működésének követelményeit érvényesítve – biztosítsa az intézmény autonóm működésének tárgyi, pénzügyi, személyi feltételeit.
 
-(8) Költségvetési szervként működő felsőoktatási intézmény vállalkozó közintézet költségvetési szervként történő átsorolását – az államháztartásról szóló törvényben és e törvényben foglalt feltételek teljesülése esetén – az intézmény kezdeményezheti.
+(8)

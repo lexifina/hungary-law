@@ -10,7 +10,7 @@
 
 (3) A felsőoktatási intézmény a rendelkezésére bocsátott pénzeszközökkel, valamint a saját bevételével – az ésszerű és takarékos gazdálkodás követelményeivel összhangban – önállóan gazdálkodhat, az nem vonható el tőle. A felsőoktatási intézmény a saját bevételéből és előző évi bevételi előirányzat maradványaiból átmenetileg szabad pénzeszközeit – amennyiben nincs lejárt kötelezettsége – a kincstár hálózatában értékesített állampapírba fektetheti. A költségvetési szervként működő felsőoktatási intézmény a költségvetési év végén keletkezett előirányzat-maradványt vagy pénzmaradványt – jogosultsági elszámolást követően – a következő években az intézményi feladatok teljesítésére felhasználhatja. A költségvetési szervként működő felsőoktatási intézmény az éves költségvetési törvényben meghatározott bevételeit terhelő befizetési kötelezettség teljesítése alól mentesül, ha azt a 122. § (2) bekezdésében meghatározott felújítási, illetve beruházási célra használja fel.
 
-(4) A felsőoktatási intézmény az alaptevékenységéhez kapcsolódó kiegészítő tevékenységként is elláthatja a 4. § (1)–(2) bekezdésében szabályozott tevékenységet, továbbá vállalkozási tevékenységet is folytathat, feltéve, hogy az alapfeladatainak ellátását nem veszélyezteti. A költségvetési szervként működő felsőoktatási intézményt bevétele után állami befizetési kötelezettség nem terheli.
+(4) A felsőoktatási intézmény vállalkozási tevékenységet folytathat, feltéve, hogy az alapfeladatainak ellátását nem veszélyezteti. A költségvetési szervként működő felsőoktatási intézményt bevétele után állami befizetési kötelezettség nem terheli.
 
 (5) A költségvetési szervként működő felsőoktatási intézményt vállalkozási tevékenységéből származó eredménye után állami befizetési kötelezettség abban az esetben nem terheli, ha azt
 
@@ -24,4 +24,4 @@ b) a 122. § (4) bekezdésében meghatározott felújítási, illetve beruházá
 
 (8) A költségvetési szervként működő felsőoktatási intézmény negyedévenként mérlegjelentést készít, amelyet megküld a fenntartó részére.
 
-(9) A vállalkozó közintézetként besorolt költségvetési szerv, valamint a közintézet költségvetési szerv vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységgel rendelkező közintézet költségvetési szerv a számvitelről szóló törvény szerinti üzemgazdasági (eredmény-) szemléletű könyvvezetésre és beszámolásra köteles.
+(9)

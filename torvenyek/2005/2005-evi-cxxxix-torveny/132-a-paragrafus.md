@@ -1,1 +1,1 @@
-132/A. § A vállalkozó közintézeti feltételek meglétének vizsgálatakor figyelembe veendő teljesítményarányosan megállapított működési támogatás az állami felsőoktatási intézmények esetében a 130. § szerinti képzési támogatásnak és a 132. § szerinti fenntartói támogatásnak a hallgatói létszám alapján meghatározott éves intézményi összege.
+132/A. §

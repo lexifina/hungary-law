@@ -18,13 +18,7 @@ tehet szert.
 
 (2) A költségvetési szervként működő felsőoktatási intézmény saját vagyonra – az (1) bekezdés d)–g) pontja kivételével – akkor tehet szert, ha a rendelkezésre bocsátott vagyon állagának megóvásáról, pótlásáról gondoskodott.
 
-(3) A vállalkozó közintézetként átsorolt állami felsőoktatási intézmény fejlesztési hitelt
-
-a) pályázatokhoz szükséges önrész biztosításához,
-
-b) az intézményfejlesztési tervben meghatározott fejlesztési feladatai megvalósításához
-
-a Kormány által meghatározottak szerint kiírt nyilvános pályázati eljárás alapján vehet igénybe. A hitel fedezete a felsőoktatási intézmény saját tulajdonában lévő vagyona, vállalkozási tevékenységének eredménye, a fejlesztés eredményeképpen megvalósuló beruházás vagyona, valamint a felsőoktatási intézmény által létrehozott intézményi társaság eredménye. A vállalkozó közintézetként átsorolt állami felsőoktatási intézmények által egy adott évben együttesen igénybe vehető fejlesztési hitelkeretet az éves költségvetésről szóló törvény határozza meg.
+(3)
 
 (4) Ha e törvény másként nem rendelkezik,
 

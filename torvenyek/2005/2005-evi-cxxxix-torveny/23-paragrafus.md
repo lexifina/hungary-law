@@ -4,7 +4,7 @@
 
 23. § (1) A gazdasági tanács a felsőoktatási intézmény feladatainak végrehajtása megalapozásában, a rendelkezésére bocsátott források, eszközök, a közpénz, a közvagyon hatékony és felelős használatát segítő gazdasági stratégiai döntéseket előkészítő és végrehajtásuk ellenőrzésében részt vevő, a fenntartói döntések előkészítésében – e törvényben meghatározottak szerint – közreműködő testület.
 
-(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható. Ha az államháztartásról szóló törvény és annak végrehajtási rendelete a költségvetési szervek felépítésével, működésével kapcsolatosan felügyelő testületet említ, azon az állami felsőoktatási intézmények vonatkozásában az e törvény által meghatározott gazdasági tanácsot kell érteni.
+(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható.
 
 (3) A gazdasági tanácsnak hét vagy kilenc tagja van. A gazdasági tanács létszámát a működés megkezdéséhez szükséges engedélyben meghatározott hallgatói létszám adatai alapján kell meghatározni a következők szerint: ha a felsőoktatási intézmény maximális hallgatói létszáma
 

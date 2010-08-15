@@ -1,3 +1,0 @@
-36/G. § (1) A költségvetési szerv felsőoktatási intézmény vállalkozó közintézetre vonatkozó szabályok szerint működő jogi személyiségű szervezeti egységében a 36/D. §, 36/E. § (2) bekezdése, 36/F. § rendelkezései alapján kell vezető testületet létrehozni, illetve működtetni.
-
-(2) A jogi személyiségű szervezeti egység vezetője a szervezeti egységet illetően a felsőoktatási intézmény alapító okiratában, szervezeti és működési szabályzatában, éves költségvetésében, illetve a 136/B. § (2)–(4) bekezdése szerinti szabályzatban meghatározott körben a vezető testület egyetértésével jogosult döntést hozni.
