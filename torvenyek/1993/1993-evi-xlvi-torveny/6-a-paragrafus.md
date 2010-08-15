@@ -1,4 +1,4 @@
-Stt.6/A. § A KSH kiegészítő tevékenységet végezhet.
+Stt.6/A. §
 
 Vhr.2. § (1) A KSH feladatainak ellátásához kapcsolódóan a Kormány részére javaslatot tesz
 
