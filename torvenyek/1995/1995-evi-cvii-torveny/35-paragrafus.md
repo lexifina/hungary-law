@@ -12,7 +12,7 @@ c) a foglalkoztatás céljával összhangban a gazdasági társaságokra és a f
 
 d) a bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait;
 
-e) a fogvatartottak foglalkoztatását végző közüzem felügyelő testületének ügyrendjét,
+e)
 
 f) a bv. szervezet munkaügyi ellenőrzésére vonatkozó eltérő rendelkezéseket,
 
