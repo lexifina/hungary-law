@@ -14,7 +14,7 @@
 
 (7) Az Akadémia jogosult az akadémiai költségvetési szerveket a tevékenységük jellege és a feladatellátásukhoz gyakorolt funkcióik szerint csoportokba besorolni.
 
-(8) Az Akadémia a feladataihoz igazodóan saját hatáskörében állapítja meg egyes szervezeteinek gazdálkodási formáit és a kutatástámogatás módját. A költségvetési szerv formában működő akadémiai kutatóintézet vállalkozó közintézet költségvetési szervként történő besorolásáról – az államháztartásról szóló törvényben foglalt feltételek teljesülése esetén – a kutatóintézet kezdeményezésére az Akadémia Közgyűlése dönt.
+(8) Az Akadémia a feladataihoz igazodóan saját hatáskörében állapítja meg egyes szervezeteinek gazdálkodási formáit és a kutatástámogatás módját.
 
 (9) Az Akadémia – kapcsolódva az államháztartás rendjéhez – megadja a központi költségvetés tervezéséhez és az annak végrehajtásáról szóló beszámolóhoz szükséges információkat.
 

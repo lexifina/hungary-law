@@ -4,7 +4,7 @@
 
 17. § (1) Az Akadémia kutatóhálózata kutatóközpontokból, kutatóintézetekből és támogatott kutatócsoportokból (együttesen: kutatóhely) áll.
 
-(2) A kutatóközpontokat és a kutatóintézeteket a Közgyűlés határozattal hozza létre, szervezi át, sorolja át és szünteti meg, amelynek alapján az Akadémia elnöke írja alá az alapításról, átszervezésről, átsorolásról, megszüntetésről rendelkező okiratot. Az eljárási szabályokat az Alapszabály rögzíti.
+(2) A kutatóközpontokat és a – nem kutatóközponti szervezeti egységként működő – kutatóintézeteket a Közgyűlés határozattal hozza létre, szervezi át, sorolja át és szünteti meg, amelynek alapján az Akadémia elnöke írja alá az alapításról, átszervezésről, átsorolásról, megszüntetésről rendelkező okiratot. Az eljárási szabályokat az Alapszabály rögzíti.
 
 (3) A támogatott kutatócsoport a TKI szervezetébe tartozó azon szervezeti egység, amelynek alkalmazottai nem az Akadémia irányítása alá tartozó intézménynél végzik munkájukat. A támogatott kutatócsoportok létrehozásáról és megszüntetéséről az Akadémia elnöke az Alapszabályban rögzített pályázati eljárás előírásai szerint dönt.
 

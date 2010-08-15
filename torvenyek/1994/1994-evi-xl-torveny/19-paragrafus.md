@@ -1,6 +1,6 @@
 ## Az Akadémia egyéb intézményei
 
-19. § (1) Az MTA Titkársága az Akadémia köztestületi feladatait szervező, az Akadémia kutatóhálózatának és más intézményeinek igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatait ellátó közhatalmi költségvetési szerv, amely közhatalmi feladatai mellett kormányrendeletben meghatározott közszolgáltatási tevékenységet is végezhet. A Titkárság közfeladatokat ellátó alkalmazottai köztisztviselők.
+19. § (1) Az MTA Titkársága az Akadémia köztestületi feladatait szervező, az Akadémia kutatóhálózatának és más intézményeinek igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatait ellátó költségvetési szerv. A Titkárság közfeladatokat ellátó alkalmazottai köztisztviselők.
 
 (2) Az MTA Titkárságának feladatait az Alapító Okirat rögzíti, amelyet az Akadémia elnöke ad ki.
 

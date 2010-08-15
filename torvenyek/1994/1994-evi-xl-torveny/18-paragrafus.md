@@ -1,8 +1,8 @@
 ## Az akadémiai kutatóközpontok és kutatóintézetek
 
-18. § (1) Az akadémiai kutatóközpont és a kutatóintézet közszolgáltató költségvetési szerv. A kutatóközpont két vagy több kutatóintézetet magában foglaló jogi személy. A kutatóközpont szervezeti egységeit alkotó kutatóintézetek jogi személyiségű szervezeti egységek. A kutatóközpont és a kutatóintézet autonóm módon vesz részt az Akadémia közfeladatainak megoldásában, önállóan is vállal közfeladatokat, továbbá egyéb tevékenységet is végezhet. Tudományos tevékenységéről és gazdálkodásáról évente beszámolót készít, amelyet az Akadémia az e törvényben és az Alapszabályban leírtak szerint értékel.
+18. § (1) Az akadémiai kutatóközpont és a kutatóintézet költségvetési szerv. Az akadémiai kutatóközpont keretein belül működő kutatóintézet a kutatóközpont szervezeti egysége. A kutatóközpont és a kutatóintézet autonóm módon vesz részt az Akadémia közfeladatainak megoldásában, önállóan is vállal közfeladatokat, továbbá egyéb tevékenységet is végezhet. Tudományos tevékenységéről és gazdálkodásáról évente beszámolót készít, amelyet az Akadémia az e törvényben és az Alapszabályban leírtak szerint értékel.
 
-(2) A kutatóközpont és a kutatóintézet – a vállalkozó közintézet kivételével – egyszemélyi vezetés alatt áll. A kutatóközpont tevékenységét a főigazgató, a kutatóintézetét az igazgató irányítja, a tudományos tanács vagy más intézeti testületi szerv közreműködésével.
+(2) A kutatóközpont tevékenységét a főigazgató, a kutatóintézetét az igazgató irányítja, a tudományos tanács vagy más intézeti testületi szerv közreműködésével.
 
 (3) A főigazgatót, illetve az igazgatót az Európai Unió ajánlásainak megfelelő pályázati eljárás alapján az Akadémia elnöke nevezi ki (bízza meg), illetve menti fel (vonja vissza megbízását). A kinevezés legfeljebb 5 évre szól. A kinevezési és felmentési eljárás szabályait az Alapszabály rögzíti.
 
