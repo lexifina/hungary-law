@@ -1,35 +1,21 @@
-94. § (1) Feladatellátási megállapodást köteles kötni
+## A költségvetési szervek vezetése
 
-a) a központi költségvetési szerv az év közben elvégzendő és a költségvetésében előre nem tervezett közszolgáltatás ellátására az irányító szervvel, illetve más államháztartáson belüli szervezettel,
+94. § (1) A költségvetési szerv vezetője felelős
 
-b) a vállalkozó közintézet és a közüzem valamennyi közszolgáltatás ellátására a közszolgáltatás-ellátást finanszírozó szervvel, a 100/H. § (3) bekezdésében foglaltakra figyelemmel.
+a) az alapító okiratban előírt tevékenységek jogszabályban, költségvetésben foglaltaknak, és az irányító szerv által közvetlenül meghatározott követelményeknek és feltételeknek megfelelő ellátásáért,
 
-(2) A feladatellátási megállapodás a 100/B. §-ban foglaltak szerinti kötelezettségvállalásnak minősül.
+b) a költségvetési szerv működésében és gazdálkodásában a gazdaságosság, a hatékonyság és az eredményesség követelményeinek érvényesítéséért,
 
-(3) A feladatellátási megállapodásnak tartalmaznia kell legalább:
+c) a gazdálkodási lehetőségek és a kötelezettségvállalások összhangjáért,
 
-a) a felek megnevezését,
+d) a költségvetési szerv vagyonkezelésébe, használatába adott, és a tulajdonában lévő vagyonnal kapcsolatosan a vagyonkezelői, tulajdonosi jogok rendeltetésszerű gyakorlásáért,
 
-b) az ellátandó feladat (közszolgáltatás) pontos megjelölését,
+e) az államháztartási belső kontrollrendszer megszervezéséért és hatékony működtetéséért, és
 
-c) a megállapodás, illetve a közszolgáltatás időtartamát, valamint a közszolgáltatás kezdő napját,
+f) a szakmai és pénzügyi monitoring rendszer folyamatos működtetéséért, a tervezési, beszámolási, valamint a közérdekű és közérdekből nyilvános adatok szolgáltatására vonatkozó kötelezettség teljesítéséért, annak teljességéért és hitelességéért, továbbá a számviteli rendért.
 
-d) a közszolgáltatás ellátási helyét és ellátási területét,
+(2) Amennyiben a költségvetési szerv tevékenységét, feladatait jogszabálysértően, nem az alapító okiratban foglaltaknak megfelelően, vagy nem az irányító szerv által adott utasítás szerint látja el, az irányító szerv köteles megtenni a költségvetési szerv vezetőjével szemben a külön törvényben foglaltak szerinti intézkedéseket.
 
-e) a közszolgáltatási feladatok ellátásáért járó összeg finanszírozásának vagy az előirányzat átadásának a módját, forrását, mértékét és ütemezését, kiszámításának, felülvizsgálatának és teljesítésének szabályait – figyelemmel a 99. § (3) bekezdésében foglaltakra –, valamint az elszámolással kapcsolatos kötelezettségeket,
+(3) Természetes személy – helyettesítés kivételével – egyidejűleg csak egy költségvetési szerv vezetője lehet.
 
-f) a közszolgáltatás tartalmi, mennyiségi és minőségi követelményeit, ideértve a mérhető és számszerűsített éves követelményeket, illetve teljesítményt (eredményt) is,
-
-g) a költségvetési szerv rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat, átadásuk jogcímét,
-
-h) a közszolgáltatást végző személyekkel kapcsolatos követelményeket,
-
-i) a fejlesztési és karbantartási kötelezettség esetén az annak rendjére vonatkozó szabályokat,
-
-j) a feladatellátó költségvetési szervnek biztosított kizárólagos vagy speciális jogokat,
-
-k) ha a költségvetési szerv jogosult vagy köteles a megállapodás teljesítéséhez más személy közreműködését igénybe venni, ennek tényét,
-
-l) a megállapodásban foglaltak teljesülésének értékelésére és ellenőrzésére vonatkozó rendelkezéseket,
-
-m) a megállapodás megsértésének, illetve nem teljesítésének vagy részleges teljesítésének következményeit.
+(4) A kormányrendeletben meghatározott költségvetési szerv gazdasági szervezettel rendelkezik. A gazdasági szervezetet kormányrendeletben meghatározott képesítéssel rendelkező gazdasági vezető irányítja.

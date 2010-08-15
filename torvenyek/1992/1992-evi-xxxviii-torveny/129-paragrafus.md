@@ -1,0 +1,1 @@
+129. § A 100/L–100/M. §-ban foglalt rendelkezések nem alkalmazhatók a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 1. számú mellékletében felsorolt gazdálkodó szervezetekre.

@@ -46,6 +46,6 @@ b) más fejezethez tartozó címekhez, alcímekhez
 
 az előirányzat céljának, rendeltetésének megfelelően, a törvényi kiemelt előirányzatokra is kiterjedően – a Kormány rendeletében meghatározott módon, előirányzat-módosítással – a fejezetet irányító szerv hatáskörében – a b) pont szerinti esetben az érintett fejezetet irányító szervek megállapodása alapján – csoportosíthatók át.
 
-(13) A fejezetet irányító szerv – a vállalkozó közintézet kivételével – az irányítása alá tartozó költségvetési szervei költségvetési előirányzatai terhére év közben átcsoportosítást hajthat végre a fejezeti kezelésű előirányzatok javára, ha a működési költségvetés előirányzatain a feladatok változása következtében megtakarítás keletkezik.
+(13)
 
 (14) Költségvetési szervek megszüntetésével, illetve ezzel összefüggésben más szervezeti formák alapításával kapcsolatos – a törvényi kiemelt előirányzatokra is kiterjedő – előirányzat-módosítások a fejezetet irányító szerv hatáskörében, a Kormány rendeletében meghatározott módon hajthatók végre.

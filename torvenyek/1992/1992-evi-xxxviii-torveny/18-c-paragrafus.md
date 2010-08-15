@@ -30,13 +30,13 @@ f)
 
 (10) A kincstári körbe tartozók a 18/B. § (6) bekezdésében nem érintett jogcímen megszerzett devizaeszközeik kezelésére devizaszámlájukat a hirdetmény szerinti deviza nemekben a kincstárban kötelesek vezetni. A devizaszámlán rendelkezésre álló pénzeszközök a végleges felhasználáskor válnak költségvetési kiadássá. A kincstár devizaszámla-vezetéssel kapcsolatos tevékenysége körében – a Magyar Nemzeti Bank és a kincstár között létrejött megállapodás alapján – díjakat számolhat fel és kamatot fizethet, amelynek feltételeit a számlatulajdonosokkal kötött számlaszerződésben köteles rögzíteni. A kincstár vezetőjének engedélyével kivételes esetben – különösen azokon a területeken ahol a valutaellátás a deviza számla terhére nem biztosítható – hitelintézetnél is vezethető devizaszámla.
 
-(11)
+(11) A kincstári körbe tartozó költségvetési szerv a dolgozói lakásépítésének, lakásvásárlásának munkáltatói támogatásával kapcsolatos pénzforgalom lebonyolítására hitelintézetnél lakásépítés vagy vásárlás munkáltatói támogatása megnevezésű számlát vezethet.
 
 (12) A kincstár a kötelezett külön rendelkezése nélkül teljesíti – külön jogszabályban meghatározott számlakörben – a Magyar Állammal, a 18/B. § (4) bekezdésében, valamint a 18/C. § (6) bekezdésében (ide nem értve az önkormányzati családtámogatási folyószámlát), valamint (16)–(17) bekezdésében meghatározott szervezetekkel szemben benyújtott hatósági átutalást és átutalási végzésen alapuló átutalást.
 
-(13) A kincstár – a 13/A. § (5)–(6) bekezdésében foglaltak végrehajtása érdekében – a Kormány rendeletében meghatározottak szerint az állami támogatások kedvezményezettjeiről – azok előzetes írásbeli hozzájárulásával – a (14) bekezdésben felsorolt adatokat szolgáltat az állami adóhatóság, a vámhatóság, továbbá az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv (a továbbiakban együtt: adóhatóságok) részére.
+(13) A kincstár vagy a támogató – a 13/A. § (5) és (6) bekezdésében foglaltak végrehajtása érdekében – a Kormány rendeletében meghatározottak szerint a költségvetési támogatások kedvezményezettjeiről a (14) bekezdésben felsorolt adatokat szolgáltat az állami adóhatóság és a vámhatóság részére.
 
-(14) A (13) bekezdésben meghatározott adatközlés a kedvezményezett nevére (megnevezésére), lakhelyére (székhelyére) és adószámára, adóazonosító jelére vagy társadalombiztosítási azonosító jelére (társadalombiztosítási folyószámla számára) terjed ki.
+(14) A (13) bekezdésben meghatározott adatközlés a kedvezményezett nevére (megnevezésére), lakhelyére (székhelyére) és adószámára, adóazonosító jelére terjed ki.
 
 (15) Az adóhatóságok a (13)–(14) bekezdés szerinti adatközlés alapján a Kormány rendeletében meghatározottak szerint kötelesek jelezni az állami támogatások utalványozóinak és a kincstárnak, ha a támogatások kedvezményezettjeinél esedékessé vált és a 13/A. § (9) bekezdésben meghatározott idő alatt meg nem fizetett köztartozás keletkezett, a köztartozás jogcímét és összegét, illetve azt is, ha a köztartozást megfizették.
 

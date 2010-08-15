@@ -1,4 +1,4 @@
-74. § (1) A képviselő-testület által jóváhagyott előirányzatok és költségvetési létszámkeretek között átcsoportosítást a (2) bekezdésben foglaltak figyelembevételével a képviselő-testület engedélyezhet, illetve közszolgáltató költségvetési szerv vezetőjére az átcsoportosítás jogát átruházhatja a 98. §-ban foglaltak figyelembevételével.
+74. § (1) A képviselő-testület által jóváhagyott kiadási, bevételi és létszám-előirányzatok között átcsoportosítást a (2) bekezdésben foglaltak figyelembevételével a képviselő-testület engedélyezhet.
 
 (2) A helyi önkormányzat képviselő-testülete az átcsoportosítás jogát az általa meghatározott keretek között, a bizottságaira és a polgármesterre átruházhatja.
 

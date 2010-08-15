@@ -8,8 +8,8 @@ c) teljeskörűen bemutatja – a b) pontban foglaltakat is beleértve – a kö
 
 d) bemutatja a költségvetési törvény legfontosabb társadalmi és gazdasági hatásait;
 
-e) értékeli a költségvetési évet megelőző időszak gazdasági, költségvetési folyamatait;
+e) értékeli a költségvetési évet megelőző időszak gazdasági, költségvetési folyamatait.
 
-f) javaslatot tesz a minisztériumi fejezetekben azokra az előirányzatokra, amelyek felhasználását a Kormány csak akkor engedélyezi, ha az adott minisztériumi fejezet negyedéves jelentése alapján költségvetésének várható alakulása ezt lehetővé teszi.
+f)
 
 (2)

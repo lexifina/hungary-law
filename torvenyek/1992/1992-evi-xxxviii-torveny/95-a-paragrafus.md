@@ -1,1 +1,0 @@
-95/A. § A helyi önkormányzat többségi befolyása alatt álló vállalkozására a 100/N. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni, a 100/M. §-ban foglaltak az önkormányzat döntése szerint alkalmazhatók.

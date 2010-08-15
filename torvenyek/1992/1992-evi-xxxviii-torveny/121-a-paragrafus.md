@@ -36,11 +36,17 @@ e) a belső ellenőr ellenőrzési tevékenységen kívül más tevékenység v�
 
 (10) A Kormány által kijelölt belső ellenőrzési szerv ellenőrzési jogköre kiterjed
 
-a) központi költségvetés, az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai, valamint – a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó költségvetési szervek kivételével – a központi költségvetési szervek belső ellenőrzésére;
+a) a kormánydöntések végrehajtásának ellenőrzésére,
 
-b) a gazdálkodó szervezeteknek, a közalapítványoknak, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a társadalmi szervezeteknek a központi költségvetésből, alapokból juttatott pénzeszközök – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is – felhasználásának ellenőrzésére; valamint
+b) a központi költségvetés, az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai, és – a Kormány irányítása vagy felügyelete alá nem tartozó költségvetési szervek kivételével – a központi költségvetési szervek belső ellenőrzésére,
 
-c) az a)–b) pontban foglaltakkal összefüggésben megvalósított beszerzésekre, az ezekre kötött szerződések teljesítésének vizsgálatára, ebben a vonatkozásában azon szerződő felekre is, amelyek a szerződés teljesítéséért felelősek, vagy abban közreműködnek.
+c) a gazdálkodó szervezeteknek, a közalapítványoknak, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a társadalmi szervezeteknek a központi költségvetésből, alapokból juttatott pénzbeli és nem pénzbeli támogatások – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is –, és az említett szervezetek részére az állam által meghatározott célra ingyenesen juttatott vagyon felhasználásának ellenőrzésére,
+
+d) a b)–c) pontban foglaltakkal összefüggésben megvalósított beszerzésekre, az ezekre kötött szerződések teljesítésének vizsgálatára, ebben a vonatkozásában azon szerződő felekre is, amelyek a szerződés teljesítéséért felelősek, vagy abban közreműködnek, és
+
+e) a tartósan állami tulajdonban lévő, valamint az olyan gazdasági társaságok – ide nem értve az MNB-t – ellenőrzésére, amelyekben az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék,
+
+f) a Kormány, a Kormány tagja, vagy az irányításuk vagy felügyeletük alá tartozó költségvetési szerv által alapított vagy támogatott alapítványok, közalapítványok ellenőrzésére.
 
 (11) A (10) bekezdésben meghatározott szerv hatásköre az állami kezesség vállalása és beváltása jogosságának ellenőrzésére is kiterjed. Ennek keretében a központi költségvetés mellett a tartozás eredeti kötelezettjénél és jogosultjánál is ellenőrizheti a kezességi szerződés feltételeinek betartását.
 

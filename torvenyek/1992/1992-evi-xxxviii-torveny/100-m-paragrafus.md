@@ -18,4 +18,6 @@ g) követelésvásárlás, követelésengedményezés.
 
 (3) A költségvetési szerv 100/L. § szerinti gazdálkodó szervezete köteles a költségvetési szervet és annak irányító szervét értesíteni, ha lejárt tartozásainak összértéke meghaladja a százmillió forintot vagy mérlegfőösszegének 10%-át.
 
-(4)–(6)
+(4) A helyi önkormányzat, helyi kisebbségi önkormányzat, országos kisebbségi önkormányzat és az irányításuk alá tartozó költségvetési szerv legalább többségi befolyása alatt álló gazdálkodó szervezet működésére vonatkozóan az e §-ban foglalt előírások az önkormányzat döntése szerint alkalmazhatók.
+
+(5)–(6)

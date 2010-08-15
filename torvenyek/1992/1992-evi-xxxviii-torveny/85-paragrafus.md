@@ -1,1 +1,1 @@
-85. § A társadalombiztosítás irányítását, működését, hatásköri és eljárási szabályait, bevételeinek és kiadásainak körét, gazdálkodását, vagyonát, a központi költségvetéssel és az államháztartás másik alrendszerével való kapcsolatát e törvény és külön törvények szabályozzák.
+85. §

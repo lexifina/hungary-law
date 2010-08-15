@@ -4,6 +4,6 @@ a) a kincstárt,
 
 b) a belső ellenőrzési szervet vagy szerveket,
 
-c)
+c) az európai uniós és egyéb nemzetközi forrásból származó támogatásokat ellenőrző szervet
 
 rendeletben jelölje ki.

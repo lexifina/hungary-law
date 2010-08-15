@@ -1,55 +1,55 @@
-18/K. § (1) A törzskönyvi nyilvántartás tartalmazza:
+18/K. § (1) A törzskönyvi nyilvántartás tartalmazza
 
-a) a költségvetési szerv, valamint a törzskönyvi jogi személy (a továbbiakban együtt: törzskönyvi szerv) nevét, nyilvántartási számát, alapító vagy más létesítő okiratának (a továbbiakban: alapító okirat) keltét, az alapító okirat azonosítóját, az alapítás időpontját;
+a) a törzskönyvi jogi személy megnevezését, nyilvántartási számát, alapító vagy más létesítő okiratának (e § alkalmazásában a továbbiakban együtt: alapító okirat) keltét, az alapító okirat azonosítóját, az alapítás időpontját,
 
-b) a törzskönyvi szerv székhelyét, telephelyét, valamint iratai őrzésének helyét, ha az nem azonos a székhelyével;
+b) a törzskönyvi jogi személy székhelyét, telephelyét, valamint iratai őrzésének helyét, ha az nem azonos a székhelyével,
 
-c) a törzskönyvi szerv alapítójának, illetve az alapítói jogok gyakorlójának nevét, címét vagy székhelyét, székhely hiányában a központi ügyintézés helyét (a továbbiakban együtt: székhely), amennyiben az alapítói jog gyakorlója rendelkezik adóazonosító számmal, akkor annak adóazonosító számát is;
+c) a törzskönyvi jogi személy alapítójának, vagy az alapítói jogok gyakorlójának nevét, címét vagy székhelyét, székhely hiányában a központi ügyintézés helyét (a továbbiakban együtt: székhely), amennyiben az alapítói jog gyakorlója rendelkezik adóazonosító számmal, annak adóazonosító számát is,
 
-d) a törzskönyvi szerv alapító okirata szerinti valamennyi tevékenységét, illetve az alapító okiratban nem szereplő, de ténylegesen végzett tevékenységeket, az Európai Parlament és a Tanács a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK rendelet szerint;
+d) a törzskönyvi jogi személy alapító okirata szerinti valamennyi tevékenységét, és az alapító okiratban nem szereplő, de ténylegesen végzett tevékenységeket az Európai Parlament és a Tanács a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK rendeleten alapuló, külön kormányrendelet felhatalmazása alapján közzétett szakágazati rend szerint,
 
-e) a törzskönyvi szerv vezetőjének (vezető szerve, vezető testülete tagjainak, illetve a vezető jogai ideiglenes gyakorlójának) nevét, a kinevezés (választás) időpontját, időtartamát;
+e) a törzskönyvi jogi személy vezetőjének (a vezető jogai ideiglenes gyakorlójának) nevét, a kinevezés (választás) időpontját, időtartamát,
 
-f) a törzskönyvi szerv statisztikai számjelét, adóigazgatási azonosító számát;
+f) a törzskönyvi jogi személy statisztikai számjelét, adóigazgatási azonosító számát,
 
-g) a törzskönyvi szerv elszámolásának, finanszírozásának módját (nettó, bruttó), valamint az illetményszámfejtés módját, helyét;
+g) a törzskönyvi jogi személy elszámolásának, finanszírozásának módját (nettó, bruttó), és az illetményszámfejtés módját, helyét,
 
-h) a törzskönyvi szerv megszüntetésének, illetve megszűnésének, valamint nyilvántartásból való törlésének időpontját, a megszüntető okirat keltét, azonosítóját.
+h) a törzskönyvi jogi személy megszüntetésének, megszűnésének, nyilvántartásból való törlésének időpontját, a megszüntető okirat keltét, azonosítóját.
 
-(2) A törzskönyvi nyilvántartás – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza:
+(2) A törzskönyvi nyilvántartás – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza
 
-a) a törzskönyvi szerv irányító vagy felügyeleti szervének nevét, székhelyét, amennyiben rendelkezik adóazonosító számmal, adóazonosító számát is;
+a) a törzskönyvi jogi személy irányító vagy felügyeleti szervének nevét, székhelyét, amennyiben rendelkezik adóazonosító számmal, annak adóazonosító számát is,
 
-b) a törzskönyvi szerv közvetlen jogelődjének (jogelődeinek) nevét, székhelyét, és amennyiben rendelkezett adóazonosító számmal, akkor adóazonosító számát;
+b) a törzskönyvi jogi személy közvetlen jogelődjének (jogelődeinek) nevét, székhelyét, és amennyiben rendelkezett adóazonosító számmal, annak adóazonosító számát,
 
-c) a törzskönyvi szerv vagy annak vezetője (vezető szerve, vezető testülete) által irányított vagy felügyelt jogi személy, jogi személyiség nélküli szervezet nevét, székhelyét;
+c) a törzskönyvi jogi személy vagy annak vezetője által irányított vagy felügyelt költségvetési szervek nevét, székhelyét,
 
-d) azon jogi személy, jogi személyiség nélküli szervezet nevét, székhelyét, amely felett a törzskönyvi szerv vagy annak vezetője (vezető szerve, vezető testülete) vagyonkezelői, illetve tulajdonosi (alapítói, részvényesi, szavazatelsőbbségi, tagsági) jogokat gyakorol;
+d) azon jogi személy, jogi személyiség nélküli szervezet nevét, székhelyét, amely felett a törzskönyvi jogi személy vagy annak vezetője vagyonkezelői, tulajdonosi (alapítói, részvényesi, szavazatelsőbbségi, tagsági) jogokat gyakorol,
 
-e) a törzskönyvi szerv közhasznú, kiemelkedően közhasznú szervezetként történő nyilvántartásba vételének tényét (a fokozat megjelölésével);
+e) a törzskönyvi jogi személy közhasznú, kiemelkedően közhasznú szervezetként történő nyilvántartásba vételének tényét (a fokozat megjelölésével),
 
-f) az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 22. §-ának (1) bekezdésében előírt nyilatkozatot (ideértve a közösségi adószám megállapítása iránti kérelmet is);
+f) az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 22. § (1) bekezdésében előírt nyilatkozatot (ideértve a közösségi adószám megállapítása iránti kérelmet is),
 
-g) a törzskönyvi szerv társasági adó alanyiságára vonatkozó nyilatkozatot;
+g) a törzskönyvi jogi személy társasági adó alanyiságára vonatkozó nyilatkozatot,
 
-h) a törzskönyvi szerv adókötelezettséget eredményező tevékenysége megkezdésének, illetve befejezésének időpontját;
+h) a törzskönyvi jogi személy adókötelezettséget eredményező tevékenysége megkezdésének és befejezésének időpontját,
 
-i) a törzskönyvi szervet megszüntető nevét, székhelyét, vagy ha a megszűnés törvény által történt, akkor a törvény megjelölését;
+i) a törzskönyvi jogi személyt megszüntető megnevezését, székhelyét, vagy ha a megszűnés törvény által történt, a törvény megjelölését,
 
-j) a törzskönyvi szerv megszűnésének időpontját, illetve pontos feltételét, ha határozott időre, illetve bizonyos feltétel bekövetkeztéig hozzák létre;
+j) a törzskönyvi jogi személy megszűnésének időpontját vagy pontos feltételét, ha határozott időre, vagy bizonyos feltétel bekövetkeztéig hozzák létre,
 
-k) a költségvetési szerv átalakítása, vagy a törzskönyvi jogi személy átalakulása (egyesülése, szétválása) esetén annak tényét, időpontját;
+k) a törzskönyvi jogi személy átalakulása (egyesülése, szétválása) esetén annak tényét, időpontját,
 
-l) a törzskönyvi szerv jogutódjának (jogutódainak) nevét, székhelyét, amennyiben a jogutód rendelkezik adóazonosító számmal, akkor adóazonosító számát;
+l) a törzskönyvi jogi személy jogutódjának (jogutódainak) nevét, székhelyét, amennyiben a jogutód rendelkezik adóazonosító számmal, annak adóazonosító számát,
 
 m) a külön jogszabályban előírt adatokat.
 
-(3) A törzskönyvi nyilvántartásba bejegyzett, adóhatóság által is kezelt adatokról, valamint ezen adatok megváltozásáról – az Art. 22. §-ának (1) bekezdése szerinti nyilatkozat változásának kivételével – a kincstár az erre a célra szolgáló számítógépes rendszer útján értesíti az állami adóhatóságot.
+(3) A törzskönyvi nyilvántartásba bejegyzett, az állami adóhatóság által is kezelt adatokról, ezen adatok megváltozásáról – az Art. 22. § (1) bekezdése szerinti nyilatkozat változásának kivételével – a kincstár az erre a célra szolgáló számítógépes rendszer útján értesíti az állami adóhatóságot.
 
 (4) Az adóazonosító szám megváltozásáról az állami adóhatóság az erre a célra szolgáló számítógépes rendszer útján értesíti a kincstárat. A változás bejegyzése automatikusan, elektronikusan történik.
 
-(5) A bejelentési (bejelentkezési, változás-bejelentési), adatszolgáltatási kötelezettséget késedelmesen, hibásan, valótlan adattartalommal vagy ugyanabban az eljárásban több alkalommal hiányosan teljesítő bejelentésre kötelezett törzskönyvi szerv vezetője háromszázezer forintig terjedő mulasztási bírsággal sújtható. A mulasztási bírság kiszabásánál a kincstár mérlegeli az eset összes körülményét, a mulasztó jogellenes magatartásának súlyát, gyakoriságát. A körülmények mérlegelése alapján a kincstár a mulasztás súlyához igazodó, arányos bírságot szab ki, vagy indokolt esetben a bírság kiszabását mellőzi.
+(5) A bejelentési (bejelentkezési, változásbejelentési), adatszolgáltatási kötelezettséget késedelmesen, hibásan, valótlan adattartalommal, vagy ugyanabban az eljárásban több alkalommal hiányosan teljesítő bejelentésre kötelezett szerv vezetője háromszázezer forintig terjedő mulasztási bírsággal sújtható. A mulasztási bírság kiszabásánál a kincstár mérlegeli az eset összes körülményét, a mulasztó jogellenes magatartásának súlyát, gyakoriságát. A körülmények mérlegelése alapján a kincstár a mulasztás súlyához igazodó, arányos bírságot szab ki, vagy indokolt esetben a bírság kiszabását mellőzi.
 
-(6) Ha törvény eltérően nem rendelkezik, a törzskönyvi szervek adatszolgáltatási (bejelentési, változás-bejelentési, okirat benyújtási) kötelezettségének teljesítési határideje az adat keletkezésétől, illetve változásától számított nyolc nap.
+(6) Ha törvény eltérően nem rendelkezik, a törzskönyvi jogi személy adatszolgáltatási (bejelentési, változásbejelentési, okirat-benyújtási) kötelezettségének teljesítési határideje az adat keletkezésétől, változásától számított nyolc munkanap.
 
-(7) Helyi önkormányzat tekintetében a 18/K. § (1) bekezdésének c) és h) pontját, valamint (2) bekezdésének a), b), e), i), j) pontját nem kell alkalmazni. Helyi önkormányzat esetében a 18/J–18/K. § alkalmazása során alapító szerven a helyi önkormányzatot, törzskönyvi szerv alapító okiratán a helyi önkormányzat szervezeti és működési szabályzatát, valamint alapításon, átalakuláson, jogutódláson, megszűnésen kizárólag a területszervezési eljárásról szóló 1999. évi XLI. törvény 1. §-ának b), c), e), h), i), j) pontjában foglaltakat kell érteni.
+(7) Helyi önkormányzat és a jogi személyiségű és többcélú kistérségi társulások esetén az (1) bekezdés c) és h) pontját, és a (2) bekezdés a), b), e), i), j) pontját nem kell alkalmazni. A 18/J. § és jelen § alkalmazása során alapító szerven a helyi önkormányzatot, törzskönyvi jogi személy alapító okiratán a helyi önkormányzat szervezeti és működési szabályzatát – jogi személyiségű és többcélú kistérségi társulások esetén a társulási megállapodást –, alapításon, átalakuláson, jogutódláson, megszűnésen kizárólag a területszervezési eljárásról szóló 1999. évi XLI. törvény 1. § b), c), e), h), i), j) pontjában foglaltakat kell érteni.

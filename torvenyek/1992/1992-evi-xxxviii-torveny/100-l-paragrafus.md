@@ -14,7 +14,7 @@ szükséges.
 
 (4) A (3) bekezdés szerinti alapítás, illetve befolyásszerzés esetén a döntést (engedélyt) kérő előterjesztésben (kérelemben) be kell mutatni
 
-a) a 100/K. §-ban foglalt feltételek meglétét,
+a)
 
 b) a közfeladat-ellátás finanszírozásának tervezett módját, forrásait, ezen belül különösen a gazdálkodó szervezet bevételei között az államháztartáson kívüli forrásokból származó bevételek várható arányát, mértékét; a gazdálkodó szervezet rendelkezésére bocsátandó vagyon (eszközök) értékét, összetételét,
 
@@ -34,7 +34,7 @@ h) külön jogszabályban előírt követelmények teljesülését.
 
 (6)
 
-(7) Ha törvény eltérően nem rendelkezik, amennyiben a gazdálkodó szervezet bevételében két egymást követő évben kétharmadnál magasabb arányt ér el az államháztartásból származó forrás – ide nem értve a társadalombiztosítás pénzügyi alapjaiból származó bevételt, a közbeszerzésekről szóló törvényben foglaltak szerint lefolytatott beszerzésből származó szerzett bevételt, valamint az adott évre elszámolt, központi költségvetési támogatásból finanszírozott fejlesztéseket – az alapítói (tulajdonosi, tagsági, részvényesi) jogok gyakorlójának egy éven belül intézkednie kell e források megfelelő csökkentéséről, vagy kezdeményeznie kell a gazdálkodó szervezet átalakulását, jogutód nélküli megszüntetését.
+(7)
 
 (8) A Kormány irányítása alá tartozó költségvetési szerv az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolító, végrehajtó feladat ellátása, továbbá közbeszerzés lefolytatása céljából gazdálkodó szervezet alapítását nem kezdeményezheti, abban alapítói (tulajdonosi) jogokat nem gyakorolhat, illetve tagsági (részvényesi) jogviszonyt nem létesíthet, részesedést nem szerezhet.
 

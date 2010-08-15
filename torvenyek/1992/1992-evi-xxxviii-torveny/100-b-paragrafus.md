@@ -1,11 +1,15 @@
-## A költségvetési szervek előirányzatai felhasználásáról való rendelkezés
+100/B. § (1) A költségvetési szerv és a fejezeti kezelésű előirányzat tervezettet meghaladó (bevételi előirányzatain felüli) többletbevételét az irányító szerv – a Kormány irányítása vagy felügyelete alá tartozó fejezetbe sorolt költségvetési szerv, fejezeti kezelésű előirányzat kormányrendeletben meghatározott értékhatárt elérő többletbevétele esetén az államháztartásért felelős miniszter – előzetes engedélyével, a felhasználásra engedélyezett többletnek megfelelő összegű, az irányító szerv hatáskörében végrehajtott előirányzat-módosítás után használhatja fel.
 
-100/B. § (1) A költségvetési szerv feladatainak ellátását (végrehajtását) szolgáló, a kiadási előirányzatokat terhelő fizetési vagy más teljesítési kötelezettség vállalása (a továbbiakban: kötelezettségvállalás) vagy ilyen követelés (bevételi előirányzat teljesítése érdekében történő) előírása – törvényben meghatározott kivétellel – a költségvetési szerv vezetőjének vagy az általa írásban megbízott személynek a hatáskörébe tartozik. A kötelezettségvállalásnak előirányzat-felhasználási terven kell alapulnia, és azt – a Kormány irányítása alá tartozó költségvetési szerv esetén – külön jogszabályban foglaltak szerint be kell jelenteni a kincstárnak.
+(2) A költségvetési szerv személyi juttatások előirányzata
 
-(2) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, a költségvetési szerv – ide nem értve a 66. § szerinti költségvetési szervet – tárgyévi kiadási előirányzata terhére – a bevételi előirányzatok teljesítését feltételezve – akkor vállalható kötelezettség, ha a szakmai, műszaki, pénzügyi teljesítés legkésőbb a tárgyévet követő évben június 30-áig megtörténik. A bevételi előirányzatok nem teljesülése esetén a kötelezettségvállalásokat felül kell vizsgálni, és meg kell tenni a szükséges intézkedéseket.
+a) az (1) bekezdés szerint jóváhagyott többletbevétellel,
 
-(3) A kötelezettségvállalás a gazdasági vezetőnek vagy az általa kijelölt személynek az ellenjegyzése után, és – kormányrendeletben meghatározott értékhatár felett – csak írásban történhet.
+b) a 24/B. § rendelkezései szerint a költségvetési szerv által felhasználható kötelezettségvállalással terhelt maradvány személyi juttatásokból származó részével,
 
-(4) A kötelezettségvállalás előtt meg kell győződni arról, hogy a jóváhagyott költségvetés (költségvetési keret) fel nem használt és le nem kötött része biztosítja-e a fedezetet.
+c) az átvett maradvány személyi juttatások növelésére felhasználható részével,
 
-(5) A költségvetési szerv – a vállalkozó közintézet kivételével – más költségvetési szerv, illetve jóhiszemű harmadik személy irányában fennálló, lejárt, elismert, 60 napot meghaladó ki nem elégített és nem behajtható tartozásaiért irányító szerve helytállni tartozik, kivéve azon kötelezettségvállalások alapján fennálló ilyen tartozásokat, melyek pénzügyi fedezetét a Kormány vagy az államháztartásért felelős miniszter a 100. § (4) bekezdésében foglaltak szerint elvonta, továbbá azon tartozásokat, amelyek a költségvetési szerv kártérítési, megtérítési kötelezettsége alapján keletkeztek. Amennyiben az adós központi költségvetési szerv irányító szerve bizonyíthatóan nem képes a teljesítésre, akkor az államháztartásért felelős miniszter útján a Kormánynál indítványozza a hitelezői igény kielégítését.
+d) a költségvetési szerv költségvetésében eredeti előirányzatként nem megtervezett, év közben rendelkezésre bocsátott, és felhasználási célja szerint személyi jellegű kifizetést tartalmazó egyéb forrásból
+
+növelhető.
+
+(3) A (2) bekezdés c) és d) pontja szerinti forrás illetmény- vagy munkabéremelésre, vagy a meglévő létszám határozatlan időre szóló foglalkoztatással történő növelésére irányuló felhasználása kizárólag abban az esetben lehetséges, és a (2) bekezdés a) pontja szerinti többletbevétel ilyen célú felhasználására is csak abban az esetben adható engedély, ha a forrás tartós és a következő évben a költségvetési szerv költségvetésében eredeti előirányzatként megtervezik. Ellenkező esetben a forrás illetmény- vagy munkabéremelésre nem használható fel, és annak terhére a meglévő létszám bővítése csak határozott időre szóló foglalkoztatás mellett lehetséges. A (2) bekezdés b) pontja szerinti forrás csak a maradványhoz rendelt kötelezettségvállalás céljának megfelelően történhet.

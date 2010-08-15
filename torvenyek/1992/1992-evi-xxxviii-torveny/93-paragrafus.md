@@ -1,9 +1,29 @@
-93. § (1) A költségvetési szerv a tárgyévben a következő év(ek) előirányzata terhére törvényben – a Kormány vagy miniszter irányítása vagy felügyelete alatt működő költségvetési szerv (a továbbiakban: a Kormány irányítása alá tartozó költségvetési szerv) esetén továbbá kormányrendeletben – foglaltak szerint vállalhat kötelezettséget.
+## A költségvetési szervek irányítása
 
-(2) A költségvetési szerv a nem naptári évhez igazodó, legfeljebb egyéves időtartamú, rendszeresen ismétlődő szakmai alapfeladata ellátására tárgyévben, a következő évi költségvetése terhére, Kormány irányítása alá tartozó költségvetési szerv esetén a középtávú költségvetési keretszámokon belül – kormányrendeletben meghatározott esetben az irányító szerv előzetes engedélyével – kötelezettséget vállalhat.
+93. § (1) Ha törvény eltérően nem rendelkezik, a költségvetési irányítási jog a következő hatáskörök gyakorlásának jogát jelenti:
 
-(3) Központi költségvetési szerv többéves kötelezettséget kormányrendeletben meghatározott körben és értékhatár felett az irányító szerv – Kormány irányítása alá tartozó költségvetési szerv esetén az államháztartásért felelős miniszter – előzetes engedélyével vállalhat, ha törvény eltérően nem rendelkezik. Ilyen kötelezettségvállalás esetén a várható teljesítési időpontokhoz igazodóan kell a kötelezettségvállalás fedezetét előirányozni az éves költségvetésekben.
+a) költségvetési szerv alapítása, átalakítása, megszüntetése, ennek keretében a költségvetési szerv alapító és megszüntető okiratának kiadása, módosítása, szervezeti és működési szabályzatának jóváhagyása (a továbbiakban együtt: alapítói jogok),
 
-(4) Köztestületi, helyi, helyi kisebbségi és országos kisebbségi önkormányzati költségvetési szerv kötelezettségvállalása tekintetében a (3) bekezdésben foglalt engedélyezést az irányító szerv gyakorolja.
+b) a költségvetési szerv vezetőjének kinevezése vagy megbízása, felmentése vagy vezetői megbízásának visszavonása, a vele kapcsolatos egyéb munkáltatói jogok gyakorlása,
 
-(5) A kötelezettségvállalásokhoz kapcsolódóan olyan, legalább kiemelt előirányzatonként részletezett analitikus nyilvántartást kell vezetni, amelyből megállapítható az egyes évek előirányzatait terhelő fizetési kötelezettség.
+c) a költségvetési szerv gazdasági vezetőjének kinevezése vagy megbízása, felmentése vagy a megbízás visszavonása, díjazásának megállapítása,
+
+d) a költségvetési szerv tevékenységének szabályszerűségi, pénzügyi, és teljesítmény-ellenőrzése,
+
+e) a fejezetet irányító szervnek a fejezet működésével és gazdálkodásával kapcsolatos jogainak gyakorlása,
+
+f) költségvetési szerv jelentéstételre vagy beszámolóra való kötelezése,
+
+g) jogszabályban meghatározott esetekben a költségvetési szerv döntéseinek előzetes vagy utólagos jóváhagyása,
+
+h) egyedi utasítás adása feladat elvégzésére vagy mulasztás pótlására.
+
+(2) Ahol jogszabály költségvetési szerv felügyeletét említi, azon törvény, kormányrendelet vagy önkormányzati rendelet eltérő rendelkezése hiányában az (1) bekezdés a)–e) pontjában, és ezekkel összefüggésben f) pontjában meghatározott hatáskörök együttesét kell érteni.
+
+(3) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv esetén törvény vagy kormányrendelet az irányítási jogkört korlátozhatja, az (1) bekezdésben foglalt hatáskörökkel vagy felügyeleti hatáskörrel más szervet vagy személyt ruházhat fel.
+
+(4) Törvény helyi önkormányzati költségvetési szervre vonatkozó irányítási jogot korlátozhat. Törvény vagy törvény külön rendelkezése szerint önkormányzati rendelet az (1) bekezdés a) pontjában foglalt hatáskörökkel vagy felügyeleti hatáskörrel más szervet, személyt ruházhat fel.
+
+(5) A Ksztv. hatálya alá tartozó költségvetési szervekre vonatkozó – az (1) és (2) bekezdésben foglalt – irányítási vagy felügyeleti jogokat a Ksztv.-ben és külön törvényben foglalt eltérésekkel kell alkalmazni.
+
+(6) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az irányító szerv feladatkörének gyakorlásához szükséges hatásköröket az irányító szerv vezetője gyakorolja azzal, hogy a Ksztv. hatálya alá tartozó költségvetési szervek tekintetében a Ksztv. rendelkezései irányadók. A helyi önkormányzati, a helyi kisebbségi és az országos kisebbségi önkormányzati költségvetési szerv esetén az irányító szerv feladatkörének gyakorlásához szükséges hatásköröket – amennyiben törvény másként nem rendelkezik – a 2/A. § (3) bekezdés c)–e) pontja szerinti irányító szerv gyakorolja, kivéve az (1) bekezdés c) pontjában foglalt hatáskört, melyet helyi önkormányzati költségvetési szerv esetén az irányító szerv vezetője gyakorol.

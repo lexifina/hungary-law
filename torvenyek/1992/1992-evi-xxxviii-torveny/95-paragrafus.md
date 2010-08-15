@@ -1,7 +1,13 @@
-95. § (1) A költségvetési szerv költségvetése, költségvetési keretei (a továbbiakban együtt: előirányzatai), valamint többletbevételei felhasználásáról önállóan dönt.
+## A költségvetési szervek átalakítása, megszüntetése
 
-(2) A költségvetési szerv a személyi juttatások előirányzatán belül – a 91. §-ban és a 100/G–100/H. §-ban foglaltakra figyelemmel – az álláshelyek végleges törlése vagy növelése nélkül önállóan állapítja meg a foglalkoztatottak létszámát, összetételét, munkaidő alapját. E döntés nem járhat többlettámogatási igénnyel.
+95. § (1) Az alapító szerv jogosult a költségvetési szervet átalakítani, megszüntetni. A költségvetési szerv átalakítása történhet egyesítéssel vagy szétválasztással. Az egyesítés lehet beolvadás vagy összeolvadás. A szétválasztás lehet különválás vagy kiválás.
 
-(3) A költségvetési szerv a személyi juttatások előirányzatából származó megtakarítást év közben, továbbá a pénzmaradvány, illetve előirányzat-maradvány jóváhagyását követően felhasználhatja azzal, hogy a személyi juttatások eredeti előirányzatának megállapításakor számításba vett létszám-előirányzat vagy a munkaidő alap év közbeni csökkentéséből származó tartós megtakarítás jóváhagyás nélkül illetményemelésre is felhasználható.
+(2) Beolvadás esetén a beolvadó költségvetési szerv megszűnik, jogutódja az átvevő költségvetési szerv.
 
-(4) A (3) bekezdésben foglaltak nem alkalmazandók abban az esetben, ha feladatelmaradás történt, továbbá, ha a feladat ellátására más szervezeti formában kerül sor.
+(3) Összeolvadás esetében az egyesítendő költségvetési szervek megszűnnek, jogutódjuk az átalakítással létrejövő új költségvetési szerv.
+
+(4) Ha az egyesítés több – a 88. § (3) bekezdésében meghatározott – alapító szervhez tartozó költségvetési szervet érint, az alapító szervek közösen jelölik ki az új költségvetési szerv irányító szervét.
+
+(5) Különválás esetén a különváló költségvetési szerv megszűnik, jogutódjai az átalakítással létrejövő költségvetési szervek.
+
+(6) Kiválás esetén az a költségvetési szerv, amelyből a kiválás történik, az alapító okirat átalakító okirat alapján történő módosítását követően tovább működik, ezzel egyidejűleg az alapításra vonatkozó szabályok szerint egy új költségvetési szerv jön létre.

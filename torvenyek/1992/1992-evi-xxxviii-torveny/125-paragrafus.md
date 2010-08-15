@@ -4,4 +4,4 @@
 
 (3) A 121/C. § rendelkezéseit 2008. július 1-jétől kell alkalmazni. 2009. július 1-jétől költségvetési szervnél belső ellenőrzési tevékenységet csak az végezhet, aki a 121/C. §-ban meghatározott nyilvántartásban szerepel.
 
-(4) A helyi önkormányzati költségvetési szerveknél a 90. § (4) bekezdésében foglalt megvalósítási terv elkészítésétől az irányító szerv 2010–2011. években eltekinthet.
+(4)

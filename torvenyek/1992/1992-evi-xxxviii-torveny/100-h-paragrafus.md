@@ -1,23 +1,7 @@
-## A közszolgáltató költségvetési szervek gazdálkodásának különös szabályai
+100/H. § (1) Központi költségvetési szerv társadalmi szervezetet, országos sportági szakszövetséget, köztestületet, alapítványt nem hozhat létre és ahhoz nem csatlakozhat. A 66. §-ban foglalt költségvetési szerv az irányító szerv előzetes engedélyével hozhat létre társadalmi szervezetet vagy csatlakozhat társadalmi szervezethez. Az engedély megszerzéséhez be kell mutatni, hogy a társadalmi szervezet létrehozásához vagy az ahhoz való csatlakozáshoz milyen források állnak rendelkezésre.
 
-100/H. § (1) A közszolgáltató költségvetési szerv
+(2) Törvény eltérő rendelkezése hiányában központi költségvetési szerv költségvetéséből társadalmi szervezet, alapítvány, közalapítvány nem támogatható.
 
-a) működésének pénzügyi kereteként a 87. § (3) bekezdésében foglaltak szerinti forrásaival azonos kiadási előirányzata szolgál;
+(3) A központi költségvetésben jóváhagyott fejezeti kezelésű előirányzatból, elkülönített állami pénzalapból – törvény vagy kormányrendelet eltérő rendelkezése hiányában – kizárólag pályázati úton, közhasznú vagy kiemelkedően közhasznú társadalmi szervezet, alapítvány, közalapítvány részére nyújtható támogatás. E rendelkezést nem kell alkalmazni az éves költségvetési törvényben név szerint (címzetten) nevesített társadalmi szervezetek, alapítványok, közalapítványok részére biztosított támogatásokra.
 
-b) saját hatáskörben módosítható létszám-előirányzattal (létszámkerettel) rendelkezik, a Magyar Honvédség szervei kivételével;
-
-c) a felhalmozási előirányzatokra, valamint kormányrendeletben meghatározott esetben teljesítésarányos finanszírozásban, más előirányzatokra pedig időarányos finanszírozásban részesül.
-
-(2) A közintézetnek, a vállalkozó közintézetnek és a közüzemnek – kormányrendeletben foglaltak szerint, a (3) bekezdésben foglaltakra figyelemmel – megvalósítási tervet és teljesítménytervet is kötelező készítenie azzal, hogy a megvalósítási tervet az irányító szerv nem hagyja jóvá.
-
-(3) Amennyiben az irányító szerv eltér a közszolgáltatás-ellátást finanszírozó szervtől, a vállalkozó közintézet, a közüzem az utóbbi szervvel feladatellátási (finanszírozási) megállapodást köteles kötni. Ha kizárólag feladatellátási (finanszírozási) megállapodás alapján jut forráshoz a vállalkozó közintézet vagy a közüzem, abban az esetben nem kell teljesítménytervet készíteni.
-
-(4) Közintézmény esetében a megállapított létszám-előirányzat (létszámkeret) nem léphető túl.
-
-(5) A közintézet, a közüzem és a vállalkozó közintézet a foglalkoztatottjai számára – külön törvényben meghatározott feltételek szerint – a tervezettet meghaladó tartós (többlet)bevétele terhére, meghatározott munkateljesítmény eléréséért, többletfeladat ellátásáért meghatározott időre keresetkiegészítést állapíthat meg.
-
-(6) A közintézménynél és a közintézetnél jutalmazásra az eredeti rendszeres személyi juttatások előirányzatának kormányrendeletben, illetve önkormányzati rendeletben (így különösen költségvetési rendeletben) meghatározott hányada használható fel, melynek fedezetére kormányrendeletben meghatározott mértékű – közintézménynél költségvetési támogatásból is – megtervezett előirányzat, valamint a személyi juttatások évközi megtakarítása és a tervezettet meghaladó (többlet)bevételnek a jutalmazásra fordítható része szolgálhat.
-
-(7) A közintézet és a közüzem személyi ösztönzésre eredményéből, illetve eredménytartalékából az irányító szerv által meghatározott, a vállalkozó közintézet pedig az általa megállapított mértéket fordíthat.
-
-(8) A közszolgáltató költségvetési szerv jogosult kiegészítő tevékenység, valamint az alapító okiratban meghatározott arányban kisegítő és vállalkozási tevékenység folytatására oly módon, hogy ez alaptevékenysége ellátását segítse, illetve ne veszélyeztesse; köteles továbbá állandó erőforrásait folyamatos értékelés alapján úgy meghatározni, hogy az az alaptevékenysége ellátásához, fizetési kötelezettségei teljesítéséhez szükséges mértékű legyen.
+(4) Az (1) és (2) bekezdésben foglaltak nem vonatkoznak a központi költségvetési szerv költségvetéséből a költségvetési szerv által foglalkoztatottak szakmai, munkavállalói érdek-képviseleti szervezetének, oktatási, kulturális, szociális és sportcélú tevékenységet végző vagy segítő szervezetének juttatott támogatásokra.

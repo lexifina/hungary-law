@@ -8,19 +8,19 @@ b) a költségvetési szervek tervezési, beszámolási és pénzellátási rend
 
 c) az egyes állami feladatokat is ellátó – az államháztartáson kívüli – szervek esetében a támogatás nyújtása, valamint a felhasználás és beszámolás feltételeit;
 
-cs) a költségvetési szerv beszámolója irányító szerv által történő felülvizsgálatának és értékelésének szempontjait és eljárásrendjét;
+cs) a 100/A. § (1) bekezdése, 100/B. § (1) bekezdése, 100/D. §-a és 100/E. §-a szerinti értékhatárt (előirányzat-hányadot);
 
-d) a költségvetési szervek egyes típusai – ideértve a felsőoktatási intézményeket, a Magyar Honvédséget, a nemzetbiztonsági szolgálatokat, a rendvédelmi szerveket, a külképviseleteket, a Magyar Tudományos Akadémia nem gazdasági társaság formájában működtetett intézményeit és a társadalombiztosítási költségvetési szerveket –, valamint a társadalombiztosítási pénzügyi alapok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, kincstári gazdálkodásának és nyilvántartásának – e törvény előírásaival összehangolt – sajátosságainak megfelelő szervezeti és eljárási rendjére vonatkozó, a kincstári rendszer általános szabályaitól eltérő részletes szabályait, a 91. § (2) bekezdésében meghatározottak létszám-előirányzatát (létszámkeretét), továbbá a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében a 49. § (5) bekezdésében meghatározott irányítási jogok középirányító szervre történő átruházását;
+d) a költségvetési szervek egyes típusai – ideértve a felsőoktatási intézményeket, a Magyar Honvédséget, a nemzetbiztonsági szolgálatokat, a rendvédelmi szerveket, a külképviseleteket, a Magyar Tudományos Akadémia nem gazdasági társaság formájában működtetett intézményeit és a társadalombiztosítási költségvetési szerveket –, valamint a társadalombiztosítási pénzügyi alapok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, kincstári gazdálkodásának és nyilvántartásának – e törvény előírásaival összehangolt – sajátosságainak megfelelő szervezeti és eljárási rendjére vonatkozó, a kincstári rendszer általános szabályaitól eltérő részletes szabályait, továbbá a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében a 49. § (5) bekezdésében meghatározott irányítási jogok középirányító szervre történő átruházásának részletszabályait;
 
 e) az egyedi és jogszabályi állami kezesség, állami garancia, viszontgarancia és a kiállítási garancia, kiállítási viszontgarancia előkészítésének, beváltásának, nyilvántartásának és a kapcsolódó adatszolgáltatásnak részletes szabályait;
 
-f) a kincstárnok tevékenységének feltételeit, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, valamint a kincstárnok kijelölésével, megbízásával, működésével, beszámoltatásával, szakmai irányításával kapcsolatos részletes szabályokat;
+f) a költségvetési (fő)felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a 46/A. § (6) bekezdés szerinti nagy összegű kötelezettségvállalás értékhatárát, a 46/A. § (6) bekezdés szerinti szabályzatok és intézkedések körét, a költségvetési (fő)felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos részletes szabályokat;
 
-g)
+g) a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket [97. § (1) és (2) bekezdés];
 
 h) az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait;
 
-i) a megvalósítási terv, a teljesítményterv, a feladatellátási megállapodás, továbbá a szervezeti és működési szabályzat államháztartási szempontú részletes tartalmi követelményeit, jóváhagyásának részletes szabályait;
+i) a szervezeti és működési szabályzat és a költségvetési szervek belső szabályzatai államháztartási szempontú követelményeit;
 
 j) az államháztartás alrendszerei vonatkozásában a vagyonnyilvántartás részletes szabályait;
 
@@ -30,17 +30,17 @@ l) az államháztartás alrendszereinek felajánlott külföldi segélyek és ad
 
 m) a fejezeti kezelésű előirányzatok felhasználásának általános szabályait;
 
-n)
+n) a 100/A. § (3) bekezdése szerinti tevékenységek körét és a kifizetések feltételeit;
 
 o) az áruk, szolgáltatások és anyagi értéket képviselő jogok behozatalánál alkalmazható piacvédelmi intézkedéseket, valamint a dömpingellenes és az értékkiegyenlítő vámokra vonatkozó előírásokat;
 
-p)
+p) az előirányzatok módosítása, átcsoportosítása rendjének részletszabályait, a 100/B. § (1) bekezdés szerinti többletbevétel megállapításának módját, a felhasználás engedélyezésének rendjét;
 
-q) a 100. § (2) bekezdése szerinti maradványból a közhatalmi költségvetési szervet és a közintézményt megillető mértéket;
+q) az előirányzat-maradvány, pénzmaradvány, vállalkozási maradvány megállapításának, felhasználhatóságának, jóváhagyásának részletes szabályait;
 
 r) a kincstári és az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat;
 
-s)
+s) az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv feladatát, hatáskörét, szervezetét, ellenőrzésének részletes szabályait;
 
 t) a központi költségvetésből nyújtott határon túli támogatások e törvénytől eltérő szabályozásának rendjét,
 
@@ -50,7 +50,7 @@ v) az állami támogatási programokra és az egyedi állami támogatásokra von
 
 w) a 13/A. § (4)–(7) bekezdésének, valamint a 102. § (4)–(6) bekezdésének végrehajtási szabályait,
 
-x) a kiadások azon típusait és nagyságrendjét, melyre vonatkozóan a kötelezettségvállalás – ide nem értve a Kormány irányítási és felügyeleti jogkörébe nem tartozó szervek kötelezettségvállalásait – az államháztartásért felelős miniszter jóváhagyásával történhet,
+x) a kötelezettségvállalás, ellenjegyzés, a szakmai teljesítés igazolása, az utalványozás, érvényesítés jogosultsági és összeférhetetlenségi szabályait, eljárásrendjét, a fedezet rendelkezésre állásának vizsgálatára és a kötelezettségek nyilvántartására vonatkozó előírásokat, a személyi juttatások előirányzatából évközi megtakarítása terhére tartósan vállalható kötelezettségek – ideértve az illetményemelést is – szabályait, továbbá a költségvetési szervek előirányzat-felhasználási tervének [100/C. § (1) bekezdés] tartalmi követelményeit, kiadásának és aktualizálásának rendjét;
 
 xa) az államháztartás alrendszerei és a közvállalkozások közötti pénzügyi átláthatóság megteremtésének feltételrendszerét, valamint a feltételrendszert meghatározó jogszabályban előírt kötelezettségek elmulasztása vagy nem megfelelő teljesítése esetén kiszabható bírság mértékét és részletes szabályait,
 
@@ -66,7 +66,7 @@ zsb) azon szerv vagy személy szakmai tevékenységére, annak jellemzőire, ere
 
 zsc) a költségvetési szervek számvitele egységes kezelésének elősegítése céljából a megfelelő standardizált rendszerek kidolgozására, bevezetésére, alkalmazására vonatkozó szabályokat;
 
-zsd)
+zsd) a költségvetési szervek gazdasági szervezetének és gazdasági vezetőjének feladatait, a gazdasági szervezettel nem rendelkező költségvetési szerv pénzügyi-gazdasági feladatainak ellátását, a gazdasági vezető képesítési előírásait, továbbá a 91. § (2) bekezdése szerinti belső szabályzatok tartalmi követelményeire vonatkozó részletszabályokat;
 
 zse) a 102. § (1) bekezdése szerint a kincstári körbe tartozó költségvetési szerv részére a központi költségvetési támogatás rendelkezésre bocsátásának részletes szabályait;
 
@@ -74,13 +74,13 @@ zsf) az egyházakat, illetve a kisebbségi önkormányzatokat külön jogszabál
 
 zsg) a költségvetési elszámolási szabályokat a 8/B. § (6) bekezdése szerinti szakértői testület szakmai javaslatával összhangban;
 
-zsh) a 100/I. § (1) bekezdésének a) pontjában foglaltak alapján történő megelőlegezési, likviditási kölcsönfelvétel feltételeit és részletes szabályait;
+zsh) a költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt maradványából a központi költségvetést vagy – a 24/B. § (8) bekezdés szerinti költségvetési szervek esetén – az irányító szervet megillető részt;
 
-zsi) a 100/I. § (1) bekezdésének b) pontjában foglaltak alapján történő hasznosítás és értékpapír-vásárlás feltételeit és részletes szabályait;
+zsi) a költségvetési szervek alapításának, átalakításának, megszüntetésének részletes szabályait;
 
-zsj) a 100/I. § (1) bekezdésének c) pontjában foglaltak alapján történő visszatérítendő támogatás nyújtás feltételeit és részletes szabályait;
+zsj) Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervekről, valamint a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait;
 
-zsk) a 100/F. § (6) bekezdésében megjelölt támogatásokat nyilvántartó szervet.
+zsk) a költségvetési szervek 90. § (1) bekezdés g) pontja szerinti besorolásának részletszabályait, szempontjait.
 
 (3) A költségvetési szervek — kivéve a helyi önkormányzatok és az általuk irányított vagy felügyelt költségvetési szervek, továbbá a társadalombiztosítás által irányított vagy felügyelt költségvetési szervek — hitelállományát a központi költségvetéshez tartozó államadósságként kell nyilvántartani és 1992. január 1-jétől egységesen kell kezelni.
 
@@ -96,15 +96,15 @@ d) a kincstár és a kincstári körbe tartozók által teljesítendő adatszolg
 
 e) az államháztartás osztályozási rendjének és a 116. §-ban említett mérlegek összeállításának részletes szabályait,
 
-f)
+f) az igazságügyért felelős miniszterrel egyetértésben a törzskönyvi nyilvántartásba bejegyzendő további adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének szabályait, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, valamint a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait,
 
 g) e törvény 40. §-a alapján a költségvetési törvényben meghatározott egyes előirányzatoknál a jóváhagyottól való – külön szabályozott módosítás nélküli – eltérés rendjét,
 
 h) a 64/A–64/D. §-ok szerinti felülvizsgálati eljárás egyes támogatásfajtákra vonatkozó részletes módszereit,
 
-i)
+i) a 100/B. § (1) bekezdés szerinti többletbevétel felhasználhatóságára irányuló kérelem elbírálásának, az engedély megadásának eljárásrendjét,
 
-j)
+j) a költségvetési szervek vezetői és gazdasági vezetői 121/D. § szerinti továbbképzésének részletes szabályait,
 
 k) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok biztonságos forgalmazásához szükséges személyi, tárgyi, technikai és biztonsági feltételeket,
 

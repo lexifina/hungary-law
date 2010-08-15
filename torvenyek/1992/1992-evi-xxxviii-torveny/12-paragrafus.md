@@ -4,7 +4,7 @@
 
 (2) Az államháztartás alrendszereiben a költségvetési gazdálkodás – törvény eltérő rendelkezése hiányában – a bevételi előirányzatok teljesítésének kötelezettségét és a kiadási előirányzatok felhasználásának jogosultságát foglalja magában. A kiadási előirányzat nem jár felhasználási kötelezettséggel.
 
-(3) A bevételi előirányzatok előirányzat-módosítás nélkül is túlteljesíthetők, ha a bevételekre vonatkozó jogszabályi előírások év közben nem változnak. Ellenkező esetben az előirányzatokat az arra jogosultnak módosítania kell.
+(3) A bevételi előirányzatokat az arra jogosultnak – az azt alátámasztó számítások alapján – módosítania kell, ha az adott bevételre vonatkozó jogszabályi előírások év közben változnak. Központi költségvetési szerv és fejezeti kezelésű előirányzat bevételeinek túlteljesítése vagy azok elmaradása esetén az előirányzatokat az arra jogosultnak – központi költségvetési szerv bevételei túlteljesítése esetén a 100/B. § (1) bekezdésében foglaltak alapján engedélyezett összeggel – a jogszabályi előírások változásától függetlenül módosítania kell.
 
 (4) Költségvetési kiadás a központi alrendszerben csak törvény alapján teljesíthető.
 
@@ -20,7 +20,7 @@ b) a jogszabályon vagy szerződésen alapuló visszavonhatatlan kötelezettség
 
 (8) A jogerős bírósági döntésen alapuló kifizetések a tervezett összeget meghaladóan is teljesíthetőek.
 
-(9) Amennyiben egy költségvetési szerv bevételei meghaladják a tervezett értéket, akkor költségvetési törvény által meghatározott esetekben és mértékig – de legfeljebb a bevételi többlet mértékéig – a költségvetési szerv kiadásai is meghaladhatják a költségvetési törvényben tervezett mértéket.
+(9)
 
 (10) A külső bevételek túlteljesülése nem alapozhat meg olyan jogszabályi változást, amely a legújabb technikai kivetítéshez képest az elsődleges egyenleget rontaná.
 

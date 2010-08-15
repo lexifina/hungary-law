@@ -1,25 +1,21 @@
-## A közhatalmi költségvetési szervek gazdálkodásának különös szabályai
+100/G. § (1) A költségvetési szerv – a 66. §-ban foglalt költségvetési szerv kivételével –
 
-100/G. § (1) A közhatalmi költségvetési szerv
+a) pénzkölcsönt (hitelt) – kivéve a 18/B. § (1) bekezdés d), x) és zs) pontja szerinti megelőlegezési, likviditási hitelt – nem vehet fel,
 
-a) alaptevékenysége ellátásának pénzügyi keretét a 87. § (3) bekezdésében foglaltak szerinti forrásai összegéhez igazodó – a közhatalmi bevételek tekintetében a fizetési kötelezettséget előíró jogszabályban foglaltaknak megfelelően számított – kiadási előirányzata határozza meg;
+b) garanciát és kezességet nem vállalhat,
 
-b) engedélyezett, túl nem léphető és saját hatáskörben nem módosítható létszám-előirányzattal (létszámkerettel) rendelkezik;
+c) értékpapírt – kivéve a külön törvény szerint vagyonkezelésébe kerülő gazdasági társasági részesedést megtestesítő értékpapírt – nem vásárolhat,
 
-c) támogatási előirányzatai tekintetében – a teljesítésarányosan finanszírozandó felhalmozási előirányzatok kivételével – időarányos finanszírozásban részesül.
+d) váltót nem bocsáthat ki és nem fogadhat el,
 
-(2) Közhatalmi költségvetési szervnél – a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó közhatalmi költségvetési szerv kivételével – a személyi juttatásokon belül (ide nem értve a közhatalmi költségvetési szerv költségvetésében szereplő közszolgáltató költségvetési szervek előirányzatait) az eredeti jóváhagyott rendszeres személyi juttatások előirányzatára vetítve
+e) kötvényt nem bocsáthat ki,
 
-a) jutalmazási előirányzatot kell tervezni, melynek mértékét a Kormány rendeletben határozza meg,
+f) pénzügyi lízing vagy faktoring ügyletre irányuló, vagy ilyet magában foglaló szerződést nem köthet.
 
-b) a munkáltató által meghatározott feladatok – ide nem értve a helyettesítést – díjazására céljuttatás tervezhető, mely nem haladhatja meg a kormányrendeletben meghatározott mértéket.
+(2) A többcélú kistérségi társulás és a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény alapján létrejött jogi személyiséggel rendelkező társulás az adott közfeladat ellátásában érintett önkormányzatok kezességvállalása mellett vehet fel hitelt, bocsáthat ki kötvényt.
 
-(3) A jutalmazási előirányzaton felül központi közhatalmi költségvetési szervnél külön törvényben foglaltak alapján, illetve helyi önkormányzati közhatalmi költségvetési szerv részére a helyi önkormányzat képviselő-testülete engedélyével is történhet jutalmazási célú kifizetés.
+(3) A 66. §-ban foglalt költségvetési szerv az (1) bekezdésben meghatározott jogokat csak a helyi önkormányzat képviselő-testülete által meghatározott keretek között gyakorolhatja.
 
-(4) Közhatalmi költségvetési szerv vállalkozási, kiegészítő, illetve kisegítő tevékenység végzésére csak kivételesen jogosult, központi közhatalmi költségvetési szerv törvény vagy kormányrendelet, helyi önkormányzati közhatalmi költségvetési szerv pedig helyi önkormányzati rendelet vagy a képviselő-testület határozata alapján, a 100/H. § (8) bekezdésében foglaltak szerint.
+(4) A helyi önkormányzati költségvetési szerv, helyi kisebbségi önkormányzati költségvetési szerv pénzeszközeit – a képviselő-testület döntése alapján – a helyi önkormányzat, helyi kisebbségi önkormányzat által meghatározott belföldi hitelintézetnél, a kincstárban nyitott pénzforgalmi számlán, a helyi önkormányzat pénzforgalmi számlájához kapcsolódó alszámlán, vagy pénzforgalmi betétkönyvben kezeli, más hitelintézetnél pénzforgalmi számlát nem nyithat, kivéve, ha törvény ettől eltérően rendelkezik.
 
-(5) Az irányító szerv – a Kormány irányítása alá tartozó költségvetési szerv esetén az államháztartásért felelős miniszterrel egyetértésben – engedélyezheti a közintézmény gazdálkodására és vezetésére vonatkozó szabályok alkalmazását azon közhatalmi költségvetési szerv számára, amelynek működése pénzügyi keretében a közszolgáltatási és vállalkozási bevétel legalább három éven át 50%-ot meghaladó arányú, és a foglalkoztatottak többsége közszolgáltatást végez és nem közszolgálati jogviszonyban vagy szolgálati jogviszonyban áll a szervvel.
-
-(6) Az (5) bekezdésben foglalt eseten kívül az irányító szerv akkor is engedélyezheti a közintézmény gazdálkodására és vezetésére vonatkozó szabályok alkalmazását, amennyiben a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény 17. §-ában foglaltak szerint közszolgáltatás végzésére is feljogosított, a 66. §-ban említett költségvetési szervnél a foglalkoztatottak többsége közszolgáltatást végez és nem közszolgálati jogviszonyban vagy szolgálati jogviszonyban áll a szervvel.
-
-(7) A közintézmény gazdálkodására és vezetésére vonatkozó szabályok (5)–(6) bekezdés szerinti alkalmazásának tényét a közhatalmi költségvetési szerv alapító okiratának tartalmaznia kell.
+(5) A többcélú kistérségi társulás és a jogi személyiségű társulás szabadon választhatja meg belföldi számlavezető hitelintézetét, vagy megbízhatja a kincstárt pénzforgalmi számlája vezetésével. E társulások által alapított, irányított költségvetési szerv kizárólag e számlavezetőnél vezetheti költségvetési elszámolási számláját.

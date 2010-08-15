@@ -2,4 +2,4 @@
 
 (2) A polgármester a költségvetési rendelettervezet benyújtásakor előterjeszti azokat a rendelettervezeteket is, amelyek a javasolt előirányzatokat megalapozzák, bemutatja a többéves elkötelezettséggel járó kiadási tételek későbbi évekre vonatkozó kihatásait.
 
-(3) A költségvetési rendelettervezetben az 1997. évtől kezdődően teljeskörűen be kell mutatni a (2) bekezdésben foglaltakat, beleértve a költségvetési évet követő 2 év várható előirányzatait, amelyeket a költségvetési év folyamatai és áthúzódó hatásai, valamint a gazdasági előrejelzések szerint állapítottak meg.
+(3)

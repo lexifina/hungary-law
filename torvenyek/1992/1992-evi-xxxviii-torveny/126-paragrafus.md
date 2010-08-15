@@ -1,5 +1,1 @@
-126. § (1) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben engedélyezzék a költségvetésben tervezettet meghaladó, a többletfeladatokkal összefüggő közhatalmi bevételekből származó (többlet)bevétel teljes vagy részbeni felhasználását.
-
-(2) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó központi közhatalmi költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben szabályozzák a szervek kiegészítő és kisegítő tevékenysége ellenértékének jogcímét, mértékét vagy mértéke megállapításának módját, valamint az ebből származó bevételek felhasználását.
-
-(3) Felhatalmazást kapnak a miniszterek és a helyi önkormányzatok, hogy az irányításuk vagy felügyeletük alá tartozó költségvetési szervek tekintetében rendeletben szabályozhatják a közszolgáltatások ellátásával összefüggő feladatellátási megállapodások részletes szabályait.
+126. §

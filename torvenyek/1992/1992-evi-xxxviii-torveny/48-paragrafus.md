@@ -14,7 +14,7 @@ e) február 15-éig a Kormány elé terjeszti a 47. § (1) bekezdése szerinti k
 
 f)
 
-g) gondoskodik a kincstári körbe tartozók költségvetései végrehajtásának pénzügyi lebonyolításáról, a hiány finanszírozásáról, megköti a nemzetközi pénzügyi intézményekkel létrehozandó megállapodásokat, figyelemmel kíséri a költségvetési előirányzatok és a költségvetési létszámkeret teljesülésének alakulását, a tervezettől jelentős eltérés esetén a Kormánynál intézkedéseket kezdeményez, tartósan magas tartozásállomány esetén kincstári biztost jelöl ki, illetve a 98. § (4) bekezdése szerinti szervek, testületek költségvetési szervei esetében kezdeményezi a Kormánynál az e törvény szerinti intézkedéseket;
+g) gondoskodik a kincstári körbe tartozók költségvetései végrehajtásának pénzügyi lebonyolításáról, a hiány finanszírozásáról, megköti a nemzetközi pénzügyi intézményekkel létrehozandó megállapodásokat, figyelemmel kíséri a költségvetési előirányzatok és a költségvetési létszámkeret teljesülésének alakulását, a tervezettől jelentős eltérés esetén a Kormánynál intézkedéseket kezdeményez, tartósan magas tartozásállomány esetén kincstári biztost jelöl ki, a 100/F. § (4) bekezdése szerinti szervek, testületek költségvetési szervei esetében kezdeményezi a Kormánynál az e törvény szerinti intézkedéseket;
 
 h) nyilvántartást vezet az államháztartás körébe tartozó szervezetekről és az előirányzattal önállóan rendelkező jogi személyiséggel nem rendelkező szervezetekről, valamint a központi költségvetés, központi költségvetési szervek, alapok által támogatásban részesített államháztartáson kívüli szervezetekről;
 

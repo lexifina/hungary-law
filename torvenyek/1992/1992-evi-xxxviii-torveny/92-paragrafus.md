@@ -1,7 +1,9 @@
-92. § (1) A költségvetési szerv szellemi és anyagi kapacitásával végzett tevékenységének bevételei törvény eltérő rendelkezése hiányában a szerv működésének és fejlesztésének forrását képezik.
+92. § (1) A költségvetési szerv
 
-(2) A közszolgáltatásokat igénybe vevők részére jogszabály vagy jogszabályban foglaltak alapján – törvény eltérő rendelkezése hiányában – a költségvetési szerv vagy annak irányító szerve állapítja meg a szolgáltatások ellenértékét.
+a) alaptevékenysége: a létrehozásáról rendelkező jogszabályban, illetve az alapító okiratban a költségvetési szerv szakmai alapfeladataként meghatározott, valamint az alaptevékenysége ellátására rendelkezésre álló, időlegesen szabad kapacitás kihasználását célzó, nem haszonszerzés céljából végzett tevékenység;
 
-(3) A közüzem 87. § (3) bekezdésében foglalt forrásának fedeznie kell az általa végzett tevékenységgel összefüggő közvetlen és közvetett kiadásokat, valamint az amortizációt is. Más költségvetési szerv kiegészítő, kisegítő, vállalkozási tevékenysége 87. § (3) bekezdésének c) és e) pontja szerinti bevételének fedeznie kell legalább az adott tevékenységgel összefüggő valamennyi közvetlen kiadást, valamint az ahhoz hozzárendelhető közvetett kiadásokat, továbbá kisegítő és vállalkozási tevékenység esetén az amortizációt is.
+b) vállalkozási tevékenysége: a haszonszerzés céljából, támogatáson kívüli forrásból, nem kötelezően végzett termelő-, szolgáltató-, értékesítő tevékenység.
 
-(4) Központi közhatalmi költségvetési szervek kiegészítő és kisegítő tevékenysége ellenértékének jogcímét, mértékét vagy mértéke megállapításának módját, valamint az ebből származó bevételek felhasználását törvény, kormányrendelet, vagy az irányító szerv – az államháztartásért felelős miniszter egyetértésével kiadott – rendelete (jogalkotási jog hiányában nyilvános szabályzata) állapítja meg.
+(2) A költségvetési szerv szellemi és anyagi kapacitásával végzett valamennyi tevékenységét az (1) bekezdés szerint kell besorolni.
+
+(3) A költségvetési szerv vállalkozási tevékenysége a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény hatálya alá tartozó gazdasági tevékenységnek minősül.

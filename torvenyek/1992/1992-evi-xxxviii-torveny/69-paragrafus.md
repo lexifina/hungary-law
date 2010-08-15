@@ -10,8 +10,8 @@ d) a c) ponton túli költségvetési hiány külső finanszírozására vagy a 
 
 e) a költségvetési létszám-előirányzatokat.
 
-(2) A költségvetési rendeletnek a helyi önkormányzat, valamint a települési, területi kisebbségi önkormányzat önállóan működő és gazdálkodó költségvetési szerveinek az (1) bekezdés a)–d) pont szerinti bevételeit és kiadásait, e) pont szerinti létszám-előirányzatait, valamint az önállóan működő költségvetési szerveinek kiemelt előirányzati csoportosítású költségvetési kereteit, létszámkereteit elkülönítetten és önkormányzati szinten összesítve is tartalmaznia kell.
+(2) A költségvetési rendeletnek a helyi önkormányzat és a helyi kisebbségi önkormányzat költségvetési szerveinek az (1) bekezdés a)–d) pontja szerinti bevételeit és kiadásait, e) pontja szerinti létszám-előirányzatait elkülönítetten és önkormányzati szinten összesítve is tartalmaznia kell.
 
 (3) A települési, területi kisebbségi önkormányzat költségvetési határozatának az (1)–(2) bekezdésben meghatározott szerkezet szerint kell tartalmaznia az előirányzatokat.
 
-(4) A helyi önkormányzatok intézményi társulásban ellátott feladata, e társulás által fenntartott költségvetési szervek költségvetése – amennyiben a társulási megállapodás eltérően nem rendelkezik – a feladatellátást végző költségvetési szerv székhelye szerinti önkormányzat költségvetésében szerepel.
+(4) A helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8., 9. és 16. §-a szerinti társulásban ellátott feladatok és e társulás által fenntartott költségvetési szervek költségvetése – amennyiben a társulási megállapodás eltérően nem rendelkezik – a feladatellátást végző költségvetési szerv székhelye szerinti, a jogi személyiségű társulás esetén a jogi személyiségű társulás székhelye szerinti önkormányzat költségvetésében szerepel.

@@ -1,11 +1,11 @@
-91. § (1) A költségvetési szerv a személyi juttatások előirányzatán belül köteles megtervezni
+## A költségvetési szerv működésének és gazdálkodásának alapelvei, tevékenységei
 
-a) a foglalkoztatottak, a választott tisztségviselők törvényen alapuló rendszeres és nem rendszeres juttatásait, valamint a helyi önkormányzati képviselő-testületi bizottságok nem képviselő tagjainak nyújtott rendszeres és nem rendszeres juttatásokat,
+91. § (1) A költségvetési szerv működése és gazdálkodása során az adott piaci és jogszabályi körülmények között lehető legnagyobb mértékben érvényesülnie kell az alábbi követelményeknek:
 
-b) a teljesítményösztönzésre szolgáló kereteket, valamint a kereset-kiegészítések fedezetét e törvényben, illetve külön jogszabályban meghatározott feltételek esetén és mértékben, továbbá
+a) az erőforrások felhasználásához kapcsolódó kiadás vagy ráfordítás az elérhető legkisebb legyen, a jogszabályban meghatározott vagy általánosan elvárható minőség mellett (gazdaságosság);
 
-c) a feladatellátással összefüggő egyéb juttatásokat.
+b) az előállított termékek, nyújtott szolgáltatások, az ellátott feladat más eredményének értéke, vagy az azokból származó bevétel a lehető legnagyobb mértékben haladja meg a felhasznált erőforrásokhoz kapcsolódó kiadásokat vagy ráfordításokat (hatékonyság);
 
-(2) A központi közhatalmi költségvetési szervek – a Magyar Honvédség szervei kivételével – és a közfeladataik ellátását segítő (így különösen: üzemeltetési, támogatás lebonyolítási feladatokat ellátó) központi közszolgáltató költségvetési szervek létszám-előirányzatát (létszámkeretét) – éves költségvetésük jóváhagyását megelőzően – a Kormány, a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó költségvetési szervek létszám-előirányzatait (létszámkeretét) pedig az irányító szerv állapítja meg. A helyi önkormányzati közhatalmi költségvetési szerv létszám-előirányzatát (létszámkeretét) az irányító szerv – a költségvetésről szóló rendeletben – állapítja meg.
+c) a kitűzött célok – az elfogadott módosításokat, változó körülményeket figyelembe véve – megvalósuljanak, a tevékenység tervezett és tényleges hatása közötti különbség a lehető legkisebb mértékű legyen, vagy a tényleges hatás legyen kedvezőbb a tervezettnél (eredményesség).
 
-(3) A közszolgáltató költségvetési szerv létszám-előirányzatát (létszámkeretét) – a (2) bekezdésben foglalt kivétellel – az irányító szerv állapítja meg, figyelemmel a 100/H. §-ban foglaltakra.
+(2) A költségvetési szerv feladatai ellátásának részletes belső rendjét és módját – törvényben vagy kormányrendeletben meghatározott módon és tartalommal – szervezeti és működési szabályzata állapítja meg. A szervezeti egységekre vonatkozó részletszabályokat a szervezeti és működési szabályzatban vagy a szervezeti egységek ügyrendjében kell meghatározni. A gazdálkodás részletes rendjét – kormányrendeletben meghatározottak szerint – a költségvetési szerv belső szabályzataiban kell rendezni.
