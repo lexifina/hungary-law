@@ -1,0 +1,1 @@
+## 4. § A kivételes építésügyi hatósági ügyben eljáró építésügyi hatóság az építménykárok helyreállításával össze nem függő építésügyi hatósági ügyek ügyintézési határidejét annak letelte előtt egy alkalommal, legfeljebb negyvenöt munkanappal hosszabbíthatja meg.
