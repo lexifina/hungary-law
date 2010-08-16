@@ -4,7 +4,7 @@
 
 (3) A 90. § (3) bekezdése alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(4) Az egyetemes szolgáltatás hatósági árait legalább azok hatálybalépése előtt 30 nappal ki kell hirdetni.
+(4)
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 

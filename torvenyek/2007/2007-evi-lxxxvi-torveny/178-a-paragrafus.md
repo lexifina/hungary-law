@@ -1,3 +1,5 @@
-178/A. § (1) A 2009. szeptember 3-án átviteli rendszerirányítási engedéllyel rendelkező engedélyes 2010. szeptember 30-ig köteles kérelmezni a Hivatalnál a 160. § szerinti eljárás megindítását. A kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen az átviteli rendszerirányítóra 2011. március 3-tól kezdődően vonatkozó szétválasztási követelményeknek.
+178/A. § (1) A 2009. szeptember 3-án átviteli rendszerirányítási engedéllyel rendelkező engedélyes köteles kérelmezni a Hivatalnál a 160. § szerinti eljárás megindítását.
 
-(2) Az (1) bekezdés szerinti kérelemmel összefüggésben a Hivatal 2011. február 1-ig köteles lefolytatni a 160. § szerinti eljárást az átviteli rendszerirányító szétválasztási követelményeknek való megfelelésének ellenőrzése érdekében és a megfelelésről hozott határozatát legkésőbb 2011. március 1-ig köteles megküldeni az Európai Bizottságnak.
+(2) Az (1) bekezdés szerinti kérelem legkorábban 2011. március 3-án nyújtható be.
+
+(3) A kérelemben a kérelmező részletesen igazolja és bemutatja, hogy legkésőbb 2012. március 3-ától miként felel meg az átviteli rendszerirányítóra ezen időponttól kezdődően vonatkozó szétválasztási követelményeknek.

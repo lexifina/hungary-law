@@ -1,6 +1,6 @@
 143/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
-(2) A kihirdetett árakat alkalmazásuk kezdete előtt legalább 15 nappal az egyetemes szolgáltató a honlapján, továbbá a felhasználókat a 62. § (2) bekezdésének c) pontja szerint értesíti. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
+(2) A kihirdetett árakat az egyetemes szolgáltató a kihirdetést követő 3 napon belül a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
 
 (3) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a 62. § (2) bekezdésének c) pontja szerint értesítésen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra is ki kell terjednie.
 
