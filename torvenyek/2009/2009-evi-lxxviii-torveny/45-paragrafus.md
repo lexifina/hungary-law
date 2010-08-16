@@ -1,1 +1,0 @@
-45. § Hatályát veszti a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 46. §-ának (2) bekezdésében a „ , továbbá a biztosított után fizetett tételes összegű egészségügyi hozzájárulást” szövegrész.

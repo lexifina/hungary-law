@@ -1,3 +1,0 @@
-## Adókedvezmény
-
-12. §
