@@ -1,1 +1,7 @@
-2–5. §
+2. § (1) Az Országgyűlés, a Kormány, a minisztérium (miniszter), az országos hatáskörű szerv (vezetője) által önállóan, vagy a felsoroltak bármelyikével közösen (a továbbiakban: állami alapító) alapított alapítványt (közalapítványt), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt az állami alapító kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha az alapítvány (közalapítvány) céljainak megvalósítására, feladatának további ellátására többségi részesedéssel, közhasznú szervezetként, nonprofit gazdasági társaságot kíván alapítani.
+
+(2) Az (1) bekezdés szerint megszüntetésre kerülő alapítvány (közalapítvány) vagyona – a tartozások kiegyenlítését követően – a nonprofit gazdasági társaság vagyonába kerül azzal, hogy e vagyon kizárólag a megszűnt alapítvány (közalapítvány) célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is – a tagok (részvényesek) közötti felosztása nélkül – csak e céloknak megfelelően használható fel.
+
+(3) A megszüntetett alapítvány alapítói a nonprofit gazdasági társaságban a gazdasági társaságokról szóló törvény rendelkezése szerint – meghatározott vagyoni hozzájárulással – taggá (részvényessé) válhatnak. Az állami alapító köteles a kisebbségi részesedés megszerzésére lehetőséget biztosítani a megszüntetett alapítvány (közalapítvány) államháztartáson kívüli alapítója számára.
+
+(4) Az (1) bekezdés szerinti alapítvány (közalapítvány) (1) bekezdésben foglaltak szerinti megszüntetését és nonprofit gazdasági társaság létrehozását az állami alapítón kívüli bármely más alapítója is kezdeményezheti az állami alapítónál.
