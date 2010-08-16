@@ -108,7 +108,7 @@ bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
 
-6.1. elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa esetén a károsultnak jogszabályban meghatározott feltételek szerint vagy közadakozásból nyújtott segély, támogatás (így különösen a lakás helyreállítása, újjáépítése), továbbá a jogszabályban meghatározott kötelezettség alapján kapott tartásdíj, valamint a kártalanítás (ideértve a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), a kárpótlás és a kártérítés, kivéve a jövedelmet pótló kártérítést; az áldozatsegítő szolgálattól származó, a bűncselekmény áldozata részére juttatott támogatás;
+6.1. elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa esetén a károsultnak jogszabályban meghatározott feltételek szerint vagy közadakozásból, valamint a károsult munkáltatója által nyújtott segély, támogatás (így különösen a lakás helyreállítása, újjáépítése), továbbá a jogszabályban meghatározott kötelezettség alapján kapott tartásdíj, valamint a kártalanítás (ideértve a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), a kárpótlás és a kártérítés, kivéve a jövedelmet pótló kártérítést; az áldozatsegítő szolgálattól származó, a bűncselekmény áldozata részére juttatott támogatás;
 
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 

@@ -76,4 +76,4 @@ a) a vállalkozói bevétel alapján az egyéni vállalkozó által az adóévre
 
 b) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat alapján – a negyedév végéig megillető kisvállalkozások adókedvezménye
 
-összegét azzal, hogy – ha az egyéni vállalkozó a b) pont rendelkezését nem alkalmazza – a vállalkozói személyi jövedelemadó-előleget az adóelőleg-alap 50 millió forintot meg nem haladó összegére 10 százalékkal fizetheti meg, feltéve, hogy a 10 százalékos adókulcsra való jogosultságának egyéb feltételei az év elejétől az adott negyedév végéig számítva fennállnak.
+összegét azzal, hogy – ha az egyéni vállalkozó a b) pont rendelkezését nem alkalmazza – a vállalkozói személyi jövedelemadó-előleget az adóelőleg-alap 500 millió forintot meg nem haladó összegére 10 százalékkal fizetheti meg.

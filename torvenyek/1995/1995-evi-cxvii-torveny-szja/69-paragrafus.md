@@ -68,8 +68,6 @@ n) a kifizető által – a d)–e) pontban foglaltaktól függetlenül is – i
 
 o) az e törvény külön rendelkezése szerint adóköteles vagy adómentes természetbeni juttatás;
 
-p) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezetekről szóló törvényben foglaltaknak megfelelően az adóévben természetben adott juttatás együttes értéke.
-
 azzal, hogy a természetes vagy tenyésztett gyöngy, a drágakő, a féldrágakő, a nemesfém, a nemesfémmel plattírozott fém és az ezekből készült áru, az ékszerutánzat, az érme – az előző rendelkezésekben foglaltaktól függetlenül – nem minősül természetbeni juttatásnak, ha a körülmények alapján megállapítható, hogy a juttatás nem felel meg a rendeltetésszerű joggyakorlás követelményének.
 
 (2) Természetbeni juttatás révén a magánszemély által megszerzett bevételnek (jövedelemnek) a törvény eltérő rendelkezése hiányában azon összeg minősül, amely megegyezik az ingyenesen vagy kedvezményesen juttatott termék, szolgáltatás szokásos piaci értékével, illetőleg abból azzal a résszel, amelyet a magánszemély nem köteles megfizetni (adóalap).

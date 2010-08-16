@@ -56,10 +56,6 @@ Az egyéni vállalkozói jogállás megszűnésének adóévében a megszűnés 
 
 3. Az egyéni vállalkozó halála esetén a vállalkozói tevékenységét nem folytató özvegye, örököse által az egyéni vállalkozói tevékenység korábbi folytatására tekintettel az egyéni vállalkozói jogállás megszűnésének napját követően megszerzett bevétel önálló tevékenységből származó bevételnek minősül, és az azzal összefüggő adókötelezettségeket (ideértve a jövedelem megállapítását is) ennek megfelelően kell teljesíteni. Nem számolható el költségként a megszüntetés évéről készített adóbevallás (illetőleg annak önellenőrzése) alapján – a vállalkozói osztalékalap után – megállapított egészségügyi hozzájárulás.
 
-Az egyéni vállalkozói jogállás megszűnésének adóévében megszerzett vállalkozói bevétellel szemben a soron kívüli adóbevallás benyújtásáig, vagy az adó soron kívüli megállapítására irányuló eljárás megindításáig teljesített kiadás alapján számolható el vállalkozói költség. A volt egyéni vállalkozó – halála esetén a vállalkozói tevékenységét nem folytató özvegye, örököse – által az egyéni vállalkozói tevékenység korábbi folytatására tekintettel az egyéni vállalkozói jogállás megszűnésének napját követően megszerzett bevétel önálló tevékenységből származó bevételnek minősül, és az azzal összefüggő adókötelezettségeket (ideértve a jövedelem megállapítását is) ennek megfelelően kell teljesíteni.
-
-Nem számolható el költségként a megszüntetés évéről készített adóbevallás (illetőleg annak önellenőrzése) alapján – a vállalkozói osztalékalap után – megállapított egészségügyi hozzájárulás.
-
 III. Egyéb rendelkezések
 
 1. Az önálló bírósági végrehajtó munkadíja és költségátalánya fejében kapott előleg a díjjegyzék elkészítésének időpontjától számít bevételnek. Az e bevétel elérése érdekében felmerült költségek ezen időponttól vehetők figyelembe.

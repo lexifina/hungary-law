@@ -90,11 +90,11 @@ ea) az az ellenérték, amely – a személyes közreműködő, az egyéni váll
 
 vagy
 
-eb) a társas vállalkozás, az egyéni vállalkozó által elért bevételből a személyes közreműködő(k) díja, illetve a vállalkozói kivét nélkül számított költségek, a szokásos vállalkozói haszon, valamint társas vállalkozás esetében a személyes közreműködőnek nem minősülő személyeket megillető részesedés levonásával meghatározott összeg és az ea) pontban említett körülmények figyelembevételével megállapított járandóság,
+eb) a társas vállalkozás, az egyéni vállalkozó által elért bevételből a személyes közreműködő(k) díja, illetve a vállalkozói kivét nélkül számított költségek, a szokásos vállalkozói haszon levonásával meghatározott összeg és az ea) pontban említett körülmények figyelembevételével megállapított járandóság,
 
 vagy
 
-ec) a társas vállalkozás, az egyéni vállalkozó által elért bevételből a személyes közreműködő(k) díja, illetve a vállalkozói kivét nélkül számított költségek, valamint társas vállalkozás esetében a személyes közreműködőnek nem minősülő személyeket megillető részesedés levonásával meghatározott összeg 80 százaléka és az ea) pontban említett körülmények figyelembevételével megállapított járandóság,
+ec) a társas vállalkozás, az egyéni vállalkozó által elért bevételből a személyes közreműködő(k) díja, illetve a vállalkozói kivét nélkül számított költségek levonásával meghatározott összeg 80 százaléka és az ea) pontban említett körülmények figyelembevételével megállapított járandóság,
 
 azzal, hogy szokásos vállalkozói haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek, figyelembe véve a társas vállalkozás, az egyéni vállalkozó piaci helyzetét, kockázatait, versenyképességét, eredményességét, működési feltételeit (kezdés, szünetelés, megszűnés, elemi kár, hatósági intézkedés stb.).
 
@@ -114,7 +114,13 @@ azzal, hogy szokásos vállalkozói haszon az a haszon, amelyet összehasonlíth
 
 17. Egyéni vállalkozó:
 
-a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő magánszemély, az említett nyilvántartásban rögzített tevékenysége(i) tekintetében;
+a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő magánszemély, az említett nyilvántartásban rögzített tevékenysége(i) tekintetében azzal, hogy nem minősül egyéni vállalkozónak az a magánszemély, aki
+
+aa) az ingatlan-bérbeadási,
+
+ab) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló kormányrendelet szerinti egyéb szálláshely-szolgáltatási
+
+tevékenységéből származó bevételére az ingatlan-bérbeadásból származó jövedelemre, vagy az önálló tevékenységből származó jövedelemre, vagy a tételes átalányadózásra vonatkozó rendelkezések alkalmazását választja, kizárólag a választott rendelkezések szerinti adózási mód alapjául szolgáló bevételei tekintetében;
 
 b) a közjegyző a közjegyzőkről szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét közjegyzői iroda tagjaként folytatja);
 

@@ -2,7 +2,7 @@
 
 7. § (1) A jövedelem kiszámításánál nem kell figyelembe venni a következő bevételeket:
 
-a) azt a bevételt, amely e törvény 1. számú melléklete vagy más törvény előírása alapján adómentes;
+a) azt a bevételt, amely e törvény 1. számú melléklete szerint adómentes, vagy más törvény rendelkezése alapján személyi jövedelemadó kötelezettség nem terheli;
 
 b) azt a vagyoni értéket, amelynek a megszerzése alapjául szolgáló jogviszony keletkezésének napjára vonatkozóan megállapított szokásos piaci értékét a magánszemély köteles megfizetni; ha azonban a magánszemély semmit nem köteles fizetni, vagy csak a szokásos piaci érték egy részének megfizetésére köteles, akkor a szokásos piaci érték vagy annak a fizetési kötelezettség levonásával megállapított része – hacsak e törvény egyéb rendelkezéséből más nem következik – a magánszemély olyan bevétele, amelyet a jövedelem meghatározásánál figyelembe kell venni; ilyen esetben a vagyoni érték átruházásakor annak megszerzésére fordított értékként – e törvény külön rendelkezése hiányában is – a szerzéskori szokásos piaci értéket kell figyelembe venni;
 
@@ -40,7 +40,7 @@ je) a foglalkoztatói nyugdíjszolgáltató intézmény a tagot megillető köve
 
 k) azt az összeget, amelyet a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint tagdíj fizetésére kötött támogatási megállapodás alapján a magánszemély helyett más fizet meg;
 
-l) a pedagógus szakvizsgára történő felkészülésben vagy továbbképzésben való részvételi díjának és költségének (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja) munkáltató által történő megtérítését, kifizetését, amennyiben annak forrása a központi költségvetés által biztosított hozzájárulás;
+l) a pedagógus szakvizsgára történő felkészülésben vagy továbbképzésben való részvételi díjának és költségének (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja) munkáltató által történő megtérítését, kifizetését, amennyiben annak forrása a központi költségvetés által biztosított hozzájárulás, valamint a pedagógusnak szakkönyv vásárlására jogszabály alapján adott összeg;
 
 m) azt a vagyoni értéket, amely után a személyi jövedelemadó fizetésére a kifizető kötelezett;
 

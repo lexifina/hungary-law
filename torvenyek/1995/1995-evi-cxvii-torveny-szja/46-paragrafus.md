@@ -22,7 +22,7 @@ azzal, hogy az a)–e) pontokban említett jövedelmek adóját a magánszemély
 
 (3) Ha az a bevétel, amelyből az összevont adóalapba tartozó jövedelmet kell megállapítani, kifizetőtől származik – a (4) bekezdésben foglaltak figyelembevételével – az adóelőleget a kifizető állapítja meg (a továbbiakban: adóelőleg-megállapításra kötelezett kifizető).
 
-(4) A kifizetőnek nem kell adóelőleget megállapítania a nem egyéni vállalkozóként, nem mezőgazdasági őstermelőként számlaadásra kötelezett magánszemély által számlázott, valamint a felvásárlási jegy alapján kifizetett bevételből. Azonban ha a nem egyéni vállalkozóként, nem mezőgazdasági őstermelőként számlaadásra kötelezett magánszemély nyilatkozatot ad arról, hogy kéri az adóelőleg levonását, a kifizetőnek a (3) bekezdés szerint kell eljárnia.
+(4) A kifizetőnek nem kell adóelőleget megállapítania a számlaadásra kötelezett magánszemély által számlázott, valamint a felvásárlási jegy alapján kifizetett bevételből. Azonban ha a nem egyéni vállalkozóként, nem mezőgazdasági őstermelőként számlaadásra kötelezett magánszemély nyilatkozatot ad arról, hogy kéri az adóelőleg levonását, a kifizetőnek a (3) bekezdés szerint kell eljárnia.
 
 (5) Az adóelőleg-megállapításra kötelezett kifizető a levont, megfizetett adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett adóalap-kiegészítést.
 

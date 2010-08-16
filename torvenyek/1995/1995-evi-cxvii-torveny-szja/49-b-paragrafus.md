@@ -84,45 +84,13 @@ bb) a (23) bekezdésben foglaltak alkalmazásával a jövedelem-(nyereség-)mini
 
 Ha az egyéni vállalkozó külföldön is rendelkezik telephellyel (állandó bázissal), akkor az a) pont és a bb) alpont szerinti vállalkozói adóalapot – figyelemmel a (15) bekezdés rendelkezésére – úgy módosítja, hogy az ne tartalmazza a külföldi telephelynek betudható vállalkozói adóalapot, ha nemzetközi szerződés így rendelkezik.
 
-(9) A vállalkozói személyi jövedelemadó a (8) bekezdés rendelkezése szerint megállapított vállalkozói adóalap – ha nemzetközi szerződés rendelkezéséből következik, a módosított vállalkozói adóalap – 19 százaléka. Ezt az adót legfeljebb annak összegéig csökkenti
+(9) A vállalkozói személyi jövedelemadó a (8) bekezdés rendelkezése szerint megállapított vállalkozói adóalap – ha nemzetközi szerződés rendelkezéséből következik, a módosított vállalkozói adóalap – 500 millió forintot meg nem haladó összege után 10 százalék, az e feletti összegre 19 százalék. Ezt az adót legfeljebb annak összegéig csökkenti
 
 a) nemzetközi szerződés vagy viszonosság hiányában külföldi telephelynek betudható vállalkozói adóalap után az adóévben külföldön igazoltan megfizetett adó 90 százaléka, de legfeljebb erre az adóalapra az átlagos vállalkozói személyi jövedelemadó szerint kiszámított adó; az átlagos vállalkozói személyi jövedelemadó az e rendelkezés alkalmazása nélkül, a b) pontban foglaltak figyelembevételével megállapított vállalkozói személyi jövedelemadó osztva a vállalkozói adóalappal; e hányadost két tizedesre kerekítve kell meghatározni; nem vehető figyelembe külföldön megfizetett adóként az az összeg, amely törvény, nemzetközi szerződés rendelkezése, viszonosság vagy külföldi jog alapján a jövedelem után fizetett adó összegéből a magánszemély részére visszajár;
 
 b) továbbá – azzal a korlátozással, hogy a csökkentés mértéke nem lehet több az a) pont alkalmazása nélkül megállapított vállalkozói személyi jövedelemadó 70 százalékánál – a 13. számú melléklet rendelkezései szerint megadott módon és feltételekkel, valamint az átmeneti rendelkezések szerint a vállalkozói adókedvezmény, azzal, hogy az ugyanazon beruházáshoz kapcsolódó több kedvezmény – ideértve a kisvállalkozói kedvezményt is – esetén az egyéni vállalkozó választása szerint egyet érvényesíthet; a kisvállalkozói kedvezmény és a 13. számú melléklet szerinti kisvállalkozások adókedvezménye ugyanazon beruházásra egymás mellett is érvényesíthető.
 
-(10) A (9) bekezdés rendelkezésétől eltérően a vállalkozói személyi jövedelemadó a (8) bekezdés rendelkezése szerint megállapított vállalkozói adóalap – ha nemzetközi szerződés rendelkezéséből következik, a módosított vállalkozói adóalap – 50 millió forintot meg nem haladó összege után 10 százalék, feltéve, hogy az egyéni vállalkozó e bekezdés rendelkezésének alkalmazását választja, és
-
-a) a (9) bekezdés b) pontjának rendelkezését nem alkalmazza, és
-
-b) foglalkoztatottainak átlagos állományi létszáma az adóévben legalább egy fő, és
-
-c) a (8) bekezdés rendelkezése szerint megállapított vállalkozói adóalapja az adóévben és az azt megelőző adóévben (a tevékenység adóévi kezdése esetén ebben az évben) legalább a jövedelem- (nyereség-) minimum összegével egyezik meg [kivéve, ha a (20) bekezdés hatálya alá tartozik], és
-
-d) vele szemben az államháztartásról szóló törvényben meghatározott rendezett munkaügyi kapcsolatok követelményének megsértése miatt az adóévben és a megelőző adóévben a munkaügyi hatóság, az adóhatóság vagy az egyenlő bánásmód követelményének ellenőrzésére jogosult hatóság jogerős és végrehajtható közigazgatási határozata, illetőleg – a határozat bírósági felülvizsgálata esetén – jogerős bírósági határozat nem szabott ki munkaügyi, vagy az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvényben meghatározott bírságot vagy az adózás rendjéről szóló törvény szerinti mulasztási bírságot.
-
-és
-
-e) az adóévben
-
-ea) legalább az adóévi átlagos állományi létszám és a minimálbér évesített összegének szorzataként meghatározott járulékalap kétszeresére,
-
-vagy
-
-eb) – ha székhelye jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében van – legalább az adóévi átlagos állományi létszám és a minimálbér évesített összegének szorzataként meghatározott járulékalapra
-
-vallott be nyugdíj- és egészségbiztosítási járulékot.
-
-Az e rendelkezés szerint megállapított adót csökkenti a (9) bekezdés a) pontjának rendelkezése szerint számított adó. Az adóévi átlagos állományi létszám, valamint a minimálbér évesített összegének meghatározására – e bekezdés rendelkezésének alkalmazásában a nem kiegészítő tevékenységet folytató egyéni vállalkozót is munkavállalónak tekintve (esetében értelemszerűen) – a (19) bekezdés rendelkezését a rendelkezés aa) alpontjában foglaltak kivételével kell alkalmazni. A (10) bekezdés rendelkezése szerint megállapított és e rendelkezés nélkül számított vállalkozói személyi jövedelemadó különbözete az állami támogatásokra vonatkozó rendelkezések alkalmazásában
-
-1. az adóévben igénybe vett csekély összegű (de minimis) támogatásnak,
-
-2. vagy, ha az egyéni vállalkozó a (21) bekezdésben foglaltaknak megfelelő nyilvántartott összeget kizárólag beruházásra, felújításra vagy az előbbiek céljára felvett hitel törlesztésére fordítja, – választása szerint – a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL 2008. 08. 06.) 13. vagy 15. cikkében foglaltak szerinti támogatásnak,
-
-3. az elsődleges mezőgazdasági termelést is végző egyéni vállalkozónál – ha a (21) bekezdésben foglaltaknak megfelelő nyilvántartott összeget kizárólag beruházásra, felújításra vagy az előbbiek céljára felvett hitel törlesztésére használja fel – az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló 1857/2006/EK bizottsági rendelet 4. cikkében foglalt támogatásnak
-
-minősül.
-
-E bekezdés rendelkezésének alkalmazása esetén a vállalkozói bevételt csökkentő kedvezmények alapján a csekély összegű (de minimis) támogatás adóévi összegét az adóévben érvényesített összes kedvezmény értékéből az 50 millió forintot meg nem haladó rész után 10 százalék, az azt meghaladó rész után 19 százalék adómértékkel kell kiszámítani.
+(10) A (9) bekezdés rendelkezésének alkalmazása esetén a vállalkozói bevételt csökkentő kedvezmények alapján a csekély összegű (de minimis) támogatás adóévi összegét az adóévben érvényesített összes kedvezmény értékéből az 500 millió forintot meg nem haladó rész után 10 százalék, az e feletti összegre 19 százalék adómértékkel kell kiszámítani.
 
 (11) Amennyiben a kisvállalkozói kedvezmény érvényesítésének évét követő negyedik adóév utolsó napjáig a (14) bekezdés rendelkezéseiben említett esetek bármelyike bekövetkezik (kivéve, ha annak oka a hibás teljesítés miatt a jótállási időn belüli visszaadás), az ott meghatározott összeg kétszeresének a kisvállalkozói kedvezmény érvényesítésének évében hatályos (9) bekezdésben meghatározott adókulcs szerinti százalékát adóként kell megfizetni.
 
@@ -194,28 +162,12 @@ a) a tevékenység megkezdése (újrakezdése) évében és az azt követő évb
 
 b) ha az egyéni vállalkozót az adóévben vagy a megelőző adóévben elemi kár sújtotta.
 
-(21) A (10) bekezdés rendelkezése szerint megállapított és e rendelkezés nélkül számított vállalkozói személyi jövedelemadó különbözetének megfelelő összeget (e törvény alkalmazásában: nyilvántartott adókülönbözet) az egyéni vállalkozó köteles a bevallásában tájékoztató adatként feltüntetni, és – a (22) bekezdés alapján történő elszámolási kötelezettség mellett, a bevallás benyújtásának évét kezdő évnek tekintve – nyilvántartásba venni.
+(21)
 
-(22) A nyilvántartott adókülönbözet annyiban és akkor vezethető ki a nyilvántartásból, ha és amennyiben az egyéni vállalkozó
-
-a) a (10) bekezdés 1. pontja szerinti esetben a nyilvántartásba vétel évében és az azt követő három adóév során
-
-aa) általa kizárólag üzemi célt szolgáló tárgyi eszköz nem ingyenes megszerzése vagy előállítása érdekében – alapnyilvántartásában, valamint egyedi beruházási és felújítási költségnyilvántartásában rögzített – beruházási, felújítási kiadás(oka)t [ide nem értve az olyan beruházási, felújítási kiadást, amelyre a (16) bekezdés rendelkezéseit alkalmazza], és/vagy
-
-ab) a (6) bekezdés a) pontjában említett legalább 50 százalékban megváltozott munkaképességű alkalmazott és/vagy b) pontjában említett korábban munkanélküli és/vagy pályakezdő személy foglalkoztatására tekintettel költségként elszámolt kiadást, feltéve, hogy az említettek foglalkoztatása 2007. december 31-ét követően kezdődött, és/vagy
-
-ac) pénzügyi intézménnyel kötött hitelszerződés alapján (ideértve a pénzügyi lízinget is) fennálló kötelezettség-csökkentést,
-
-b) a (10) bekezdés 2. és 3. pontja szerinti esetben a nyilvántartásba vétel évében és az azt követő három adóév során
-
-ba) általa kizárólag üzemi célt szolgáló tárgyi eszköz nem ingyenes megszerzése vagy előállítása érdekében – alapnyilvántartásában, valamint egyedi beruházási és felújítási költségnyilvántartásában rögzített – beruházási, felújítási kiadás(oka)t [ide nem értve az olyan beruházási, felújítási kiadást, amelyre a (16) bekezdés rendelkezéseit alkalmazza], és/vagy
-
-bb) pénzügyi intézménnyel kötött hitelszerződés alapján (ideértve a pénzügyi lízinget is) a ba) pontban említett beruházási, felújítási kiadás(ok) miatt fennálló kötelezettség-csökkentést
-
-teljesít, kivéve, ha a kivezetést – ideértve, ha a kivezetett összeg nem felel meg a (10) bekezdés 1–3. pontjában foglalt rendelkezéseknek – követő 30 napon belül megfizeti a kivezetett résszel azonos összegű adót. Az egyéni vállalkozó a nyilvántartásba vétel évét követő harmadik adóév végéig a nyilvántartásban maradt résszel azonos összegű adót a negyedik adóév első hónapja utolsó napjáig megállapítja, megfizeti, és az említett napot követő első adóbevallásban bevallja. Ha a magánszemély egyéni vállalkozói jogállása az említett időszak alatt bármely okból megszűnik (ide nem értve, ha annak oka cselekvőképességének elvesztése vagy a halála), a nyilvántartásban maradt résszel azonos összegű adót a jogállás megszűnésének napját követő 30 napon belül kell megfizetni. Bármely esetben a fizetendő adót a (16) bekezdés késedelmi pótlékra vonatkozó rendelkezéseinek értelemszerű alkalmazásával, késedelmi pótlékkal növelten kell megfizetni. Az egyéni vállalkozó a nyilvántartást úgy vezeti, hogy abból megállapítható(ak) legyen(ek) a kivezetett összeg(ek), valamint a kivezetés(ek) alapjául szolgáló kiadás(ok) teljesítésének időpontja(i) és összege(i), illetve a kivezetés(ek) miatt fizetendő adó és késedelmi pótlék összege.
+(22)
 
 (23) A (8) bekezdés alkalmazásában jövedelem-(nyereség-)minimum az eladásra beszerzett áruk és az eladott közvetített szolgáltatás értékét nem tartalmazó vállalkozói bevétel 2 százaléka.
 
 (24) A (20) bekezdés b) pontjában említett kár az elemi csapás okozta olyan elemi kár (több ilyen kár esetén azok együttes összege), amely a bekövetkezése évét megelőző adóévi vállalkozói bevételnek (a tevékenységét az elemi kár bekövetkezését megelőző adóévben kezdő egyéni vállalkozó esetében a kezdő év egy napjára eső átlagos napi bevétel 365 napra számított összegének) legalább a 15 százaléka. Ennek megállapítása – ha az egyéni vállalkozó nem rendelkezik tőle független szervezet által kiadott okmánnyal – az elemi kár (károk) tényét és mértékét tartalmazó, általa kiállított olyan jegyzőkönyv(ek) alapján történhet, amelye(ke)t a káreseményt követő 15 napon belül megküldött az illetékes állami adóhatóság részére. A határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
 
-(25) A (10) bekezdés d) pontja szerinti, az államháztartásról szóló törvényben meghatározott rendezett munkaügyi kapcsolatok követelményének megsértését nem érinti, ha az egyéni vállalkozó a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+(25)
