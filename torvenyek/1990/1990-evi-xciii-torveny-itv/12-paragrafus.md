@@ -4,8 +4,6 @@
 
 a) Öröklés esetén:
 
-a) Öröklés esetén
-
 |
 
 Csoport
@@ -20,7 +18,7 @@ Lakástulajdon-szerzés illetékének mértéke
 
 |
 
-I. Az örökhagyó gyermeke, házastársa, szülője, valamint a háztartásában eltartott szülő nélküli unokája terhére (Az örökbe fogadott, a mostoha- és nevelt gyermek a vér szerinti gyermekkel, az örökbe fogadó, a mostoha- és nevelőszülő a vér szerinti szülővel egy tekintet alá esik)
+I. Az örökhagyó házastársa, mostoha- és nevelt gyermeke, mostoha- és nevelőszülője terhére
 
 |
 
@@ -44,7 +42,7 @@ I. Az örökhagyó gyermeke, házastársa, szülője, valamint a háztartásába
 
 |
 
-II. Az örökhagyó I. csoportba nem tartozó unokája, nagyszülője, testvére terhére
+II. Az örökhagyó testvére terhére
 
 |
 
@@ -64,11 +62,11 @@ II. Az örökhagyó I. csoportba nem tartozó unokája, nagyszülője, testvére
 
 35 millió forintig 8%
 
-35 millió forint feletti rész 15%
+35 millió forint feletti rész után 15%
 
 |
 
-III. Mindes más örökös terhére
+III. Minden más örökös terhére
 
 |
 
@@ -92,8 +90,6 @@ III. Mindes más örökös terhére
 
 b) Ajándékozás esetén:
 
-b) Ajándékozás esetén
-
 |
 
 Csoport
@@ -104,11 +100,19 @@ Az illeték általános mértéke
 
 |
 
-Lakástulajdon-szerzés illetékének mértéke
+Lakástulajdon-szerzés illetékének
 
 |
 
-I. Az ajándékozó gyermeke, házastársa, szülője, valamint a háztartásában eltartott szülő nélküli unokája terhére (Az örökbe fogadott, a mostoha- és nevelt gyermek a vér szerinti gyermekkel, az örökbe fogadó, a mostoha- és nevelőszülő a vér szerinti szülővel egy tekintet alá esik)
+mértéke
+
+|
+
+|
+
+|
+
+I. Az ajándékozó házastársa, mostoha és nevelt gyermeke, a mostoha- és nevelőszülője
 
 |
 
@@ -132,7 +136,7 @@ I. Az ajándékozó gyermeke, házastársa, szülője, valamint a háztartásáb
 
 |
 
-II. Az ajándékozó I. csoportba nem tartozó unokája, nagyszülője, testvére terhére
+II. Az ajándékozó testvére terhére
 
 |
 
@@ -156,7 +160,7 @@ II. Az ajándékozó I. csoportba nem tartozó unokája, nagyszülője, testvér
 
 |
 
-III. Mindes más megajándékozott terhére
+III. Minden más megajándékozott terhére
 
 |
 
