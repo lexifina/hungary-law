@@ -1,1 +1,0 @@
-## „20. köztartozás: e rendelet VII. fejezete alkalmazásában az Áht. 13/A. § (4) bekezdésében, egyebekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 20. pontjában meghatározottak;”

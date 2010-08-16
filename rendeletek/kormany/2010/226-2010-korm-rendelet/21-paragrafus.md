@@ -1,3 +1,0 @@
-## 20. § Az Ámr. 51. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A helyi önkormányzat által irányított önállóan működő költségvetési szerv költségvetésének előirányzatait a helyi önkormányzat által a 16. § (1)–(3) bekezdésében foglaltak alapján a pénzügyi, gazdasági feladatai ellátására kijelölt költségvetési szerv elemi költségvetése tartalmazza. Amennyiben az önállóan működő költségvetési szerv pénzügyi, gazdasági feladatait más irányító szerv alá tartozó önállóan működő és gazdálkodó költségvetési szerv látja el, költségvetése az irányító helyi önkormányzat elemi költségvetésében szerepel.”

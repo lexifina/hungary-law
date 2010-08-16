@@ -1,3 +1,0 @@
-## 54. § Az Ámr. 204. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A társadalombiztosítás pénzügyi alapjainak kezelője az általa kezelt alap költségvetésének végrehajtásáról, a működési költségvetés végrehajtásáról, valamint a társadalombiztosítás által folyósított, nem társadalombiztosítási forrásból finanszírozott ellátásokról – az államháztartásért felelős miniszterrel közösen megállapított formában és módon – havi jelentést nyújt be a tárgyhónapot követő hónap 25-éig a Nemzetgazdasági Minisztériumhoz, a Nemzeti Erőforrás Minisztériumhoz, az Állami Számvevőszékhez, a KSH-hoz, az MNB-hez és a Kincstárhoz. Az év első három hónapjáról a havi jelentéseket április 25-éig kell benyújtani.”

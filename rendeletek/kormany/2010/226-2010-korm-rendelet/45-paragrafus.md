@@ -1,3 +1,0 @@
-## 44. § Az Ámr. 119. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A támogatói okiratban, támogatási szerződésben rendelkezni kell a visszafizetési kötelezettséggel kapott költségvetésből nyújtott támogatás és a támogatói okirat visszavonása, a támogatási szerződés felmondása, vagy az attól történő elállás esetén visszafizetendő költségvetésből nyújtott támogatás visszafizetésének biztosítékairól. A támogató ettől az utófinanszírozással biztosított költségvetésből nyújtott támogatás természetes személy kedvezményezettje, az előleg igénybevételére nem jogosult és egyösszegű utófinanszírozással biztosított költségvetésből nyújtott támogatás kedvezményezettje, és a támogató irányítása alá tartozó költségvetési szerv kedvezményezett esetén eltekinthet.”
