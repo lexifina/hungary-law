@@ -6,7 +6,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA
 
 A) Általános rendelkezések
 
-1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
+1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni kivéve az egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló után fizetendő összeget, amelyet forintban kell bevallani. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
 
 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
@@ -58,9 +58,7 @@ b) a magánszemélyek jövedelemadójáról a vállalkozási tevékenységet nem
 
 az adóévet követő év május 20-áig,
 
-c) az egyes nagy értékű vagyontárgyakat terhelő adóról a vállalkozási tevékenységet nem folytató magánszemélynek, ha általános forgalmi adó fizetésére nem kötelezett
-
-az adóév május 20-áig,
+c)
 
 d) a társasági adóelőleg-kiegészítés összegéről
 
@@ -70,17 +68,9 @@ e) a társasági adóról, az osztalékadóról
 
 az adóévet követő év május 31-éig
 
-f) a nem magánszemély adózóknak az egyes nagy értékű vagyontárgyakat terhelő adóról
+f)–g)
 
-az adóév május 31-éig
-
-g) az egyszerűsített vállalkozói adóalany, továbbá az egyéni vállalkozó adóalany az egyes nagy értékű vagyontárgyakat terhelő adóról a rájuk irányadó személyi jövedelemadó, illetve eva bevallási határidőnek megfelelően
-
-az adóév február 25-éig, illetve május 31-éig
-
-h) a naptári évtől eltérő üzleti évet választó adózóknak az egyes nagy értékű vagyontárgyakat terhelő adóról
-
-az adóév május 31-éig
+h)
 
 kell bevallást benyújtani.
 

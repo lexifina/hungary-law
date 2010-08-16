@@ -46,4 +46,4 @@ h)
 
 (15) Az a belföldi jogi személy és egyéb szervezet, amely az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő, előzetesen felszámított általános forgalmi adót visszaigényelheti, a visszaigénylés érdekében ezt a jogosultságát bejelentheti és adó-visszaigénylését az általános forgalmi adó alanyokkal azonos módon kérheti.
 
-(16) A magánszemélyt nem terheli bejelentési kötelezettség, ha kizárólag termőföld művelési ágú földterület bérbe-, haszonbérbe adása miatt válik az általános forgalmi adó alanyává.
+(16) Mentesül a magánszemély adózó – kivéve az egyéni vállalkozót és a 22. § (1) bekezdés e) pontja szerinti kereskedelmi kapcsolatot létesítőt – az adószám megszerzéséhez előírt bejelentési kötelezettség teljesítése alól, ha kizárólag az általános forgalmi adóról szóló törvény szerinti ingatlan-bérbeadási (haszonbérbeadási) tevékenységet folytat és az általános forgalmi adót érintően nem él az adókötelessé tétel jogával.

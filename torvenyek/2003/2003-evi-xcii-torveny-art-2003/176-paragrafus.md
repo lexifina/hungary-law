@@ -40,7 +40,7 @@ c) a Központi Statisztikai Hivatal Szolgáltatások Jegyzékének (SZJ), valami
 
 besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.
 
-(14) Ha e törvény másként nem rendelkezik, a televíziókészülék üzemben tartási díjához kapcsolódó pótdíj tekintetében az adóra vonatkozó rendelkezéseket kell alkalmazni.
+(14)
 
 (15)
 

@@ -30,4 +30,4 @@ i) a szülői felügyelet alatt álló kiskorú gyermek adótartozásáért – 
 
 (6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, vagy START EXTRA kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű járulék, valamint az általános szabályok szerint kedvezmény nélkül megállapított járulékok közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.
 
-(7) Ha a vagyoni értékű jog jogosítottja, mint az egyes nagy értékű vagyontárgyakat terhelő adó alanya az őt terhelő adót nem fizeti meg, és a végrehajtás vele szemben végrehajtható vagyon hiányában eredménytelenül zárult, az állami adóhatóság határozattal kötelezi a vagyontárgy tulajdonosát tulajdoni hányada arányában az egyes nagy értékű vagyontárgyakat terhelő adó megfizetésére.
+(7)

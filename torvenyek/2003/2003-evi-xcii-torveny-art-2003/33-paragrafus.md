@@ -34,8 +34,8 @@ b) a csoport azonosító szám törlése esetén, a csoportképviselő – a tö
 
 c)
 
-(10) A magánszemély adózó – amennyiben adóját nem a munkáltatója állapítja meg vagy nem él az egyszerűsített bevallás lehetőségével – az egyes nagy értékű vagyontárgyakat terhelő adót a személyi jövedelemadóról szóló bevallásában, a nem magánszemély adózó a társasági adóról szóló bevallásában, az egyszerűsített vállalkozói adó alanya az egyszerűsített vállalkozói adó bevallásában – az egyes nagy értékű vagyontárgyakat terhelő adóról szóló törvény szerinti vízi jármű, légi jármű, illetve nagy teljesítményű személygépkocsi azonosító adatainak a feltüntetésével – az adóévre vonatkozóan állapítja meg és vallja be. Ha az egyes nagy értékű vagyontárgyakat terhelő adó alanya személyi jövedelemadóról, társasági adóról, illetve egyszerűsített vállalkozói adóról szóló bevallás benyújtására nem kötelezett – ideértve az e törvény 31. § (5)–(6) bekezdéseiben meghatározott nyilatkozattételre jogosult adóalanyokat is –, továbbá ha a magánszemély adóalany személyi jövedelemadóját a munkáltató állapítja meg vagy él az egyszerűsített bevallás lehetőségével, az egyes nagy értékű vagyontárgyakat terhelő adóbevallás-benyújtási kötelezettségét a külön az erre a célra rendszeresített nyomtatványon az adóév május 20-áig teljesíti.
+(10)
 
 (11)
 
-(12) Nem köteles az egyes nagy értékű vagyontárgyakat terhelő adóról bevallást benyújtani az az adóalany, akit teljes személyes mentesség illet meg, továbbá nem kell bevallást adni arról a vízi járműről, légi járműről, nagyteljesítményű személygépkocsiról, amely után adófizetési kötelezettség nem áll fenn.
+(12)

@@ -12,4 +12,4 @@ b) az általános forgalmi adó alanya,
 
 c) a személyi jövedelemadóját nem a munkáltatója (kifizető) állapítja meg,
 
-d) az egyes nagy értékű vagyontárgyakat terhelő adó alanya.
+d)
