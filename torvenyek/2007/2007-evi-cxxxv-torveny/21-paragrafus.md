@@ -10,4 +10,6 @@
 
 (5) A Felügyelet elnöke a Felügyelet köztisztviselőjének alapilletményét – munkájának értékelésétől függően – át nem ruházható hatáskörében legfeljebb ötven százalékkal megemelheti, vagy legfeljebb harminchárom százalékkal csökkentett mértékben állapíthatja meg.
 
-(6) A Felügyelettel közszolgálati jogviszonyban álló személyt e jogviszonyának megszűnése esetén – feltéve, hogy a jogviszony nem a próbaidő alatt, illetve hivatalvesztés fegyelmi büntetéssel szűnt meg – a 22. § (5) bekezdésben meghatározott kötelezettség ellenértékeként hathavi átlagkeresetével megegyező összegű juttatás illeti meg. Amennyiben az érintett köztisztviselő a 22. § (5) bekezdésében meghatározott kötelezettségét megszegi, felelősségét és a jogkövetkezményeket a polgári jog szabályai alapján kell megállapítani.
+(6)
+
+(7) A Felügyeleten ügyvezető igazgatói megbízás is adható azzal, hogy az ügyvezető igazgató olyan főosztályvezetői besorolással rendelkező személy, aki több főosztály vezetését látja el.

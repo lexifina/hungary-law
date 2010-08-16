@@ -18,7 +18,7 @@ f) gyakorolja a Felügyeletnél munkaviszonyban álló alkalmazottak feletti mun
 
 (3) A Felügyelet két alelnöke a szervezeti és működési szabályzatban meghatározottak szerint, az elnök irányításával közreműködik a Felügyelet vezetésében. A Felügyelet egyik alelnökét a miniszterelnök a Felügyelet elnökének javaslatára megbízza a fogyasztóvédelemmel kapcsolatos feladatok ellátásával.
 
-(4) A Felügyelet elnöke véleményezésre megküldi az Országgyűlés feladatkörrel rendelkező bizottságának a Felügyelet szervezeti és működési szabályzatára vonatkozó utasítás tervezetét. A bizottság a tervezetről véleményt nyilvánít, amelyet a Felügyelet elnöke részére a tervezet kézhezvételétől számított harminc napon belül megküld. A Felügyelet elnöke az utasítást a bizottság véleményének ismeretében, illetve e határidő eredménytelen elteltét követően adhatja ki.
+(4)
 
 (5) A Felügyelet elnökének közszolgálati jogviszonyával összefüggő munkáltatói intézkedéseket – a 12–13. §-ban meghatározott esetekben az ott megjelölt döntés alapján – a helyettesítésére kijelölt alelnök teszi meg. A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés kivételével – a Felügyelet elnöke gyakorolja.
 

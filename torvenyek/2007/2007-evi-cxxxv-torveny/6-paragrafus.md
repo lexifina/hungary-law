@@ -5,3 +5,5 @@
 (3) A Felügyelet látja el a Tpt.-ben meghatározott feladatkörében a 809/2004/EK bizottsági rendelet végrehajtását.
 
 (4) A Felügyelet látja el a 924/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
+
+(5) Az 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése szerinti illetékes hatóságként a Felügyelet látja el az 1060/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.

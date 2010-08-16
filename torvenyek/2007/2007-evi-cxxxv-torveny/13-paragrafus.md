@@ -46,7 +46,7 @@ bb) olyan magatartást tanúsított, amely a Felügyelet rendeltetésszerű műk
 
 (12) A foglalkoztatást kizáró okok vizsgálatával kapcsolatos, az igazolásra való felhívással összefüggő jogkör gyakorlója a Felügyelet elnöke tekintetében a miniszterelnök.
 
-(13) A Felügyelet elnöke, illetve alelnöke megbízatásának megszűnése esetén végkielégítésre, felmentési időre és a 21. § (7) bekezdésében meghatározott juttatásra nem jogosult.
+(13) A Felügyelet elnöke, illetve alelnöke megbízatásának megszűnése esetén végkielégítésre, felmentési időre nem jogosult.
 
 (14) Ha a Felügyelet elnökének, illetve alelnökének megbízatása az (1) bekezdés a)–c) pontjában meghatározott okból vagy törvény egyedi rendelkezése alapján szűnik meg, a megbízatás megszűnésétől számított tizenöt napon belül egy összegben hathavi illetményével megegyező összegű juttatásra jogosult.
 
