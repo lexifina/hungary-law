@@ -1,1 +1,3 @@
-## 9. § Az OEP 8. § (1) bekezdése szerinti határozatával szembeni fellebbezés elbírálására az Egészségbiztosítási Felügyelet (a továbbiakban: Felügyelet) jogosult. A fellebbezéshez csatolni kell az R2.-ben meghatározott jogorvoslati díj befizetéséről szóló igazolást.
+## 9. §[^1]
+
+[^1]: A 9. §-t a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.
