@@ -1,0 +1,13 @@
+7. § A Gyftv. 41. §-a helyébe a következő rendelkezés lép:
+
+„41. § (1) Olyan településeken működő vagy létesítendő közforgalmú gyógyszertárat (gyógyszertárakat) működtető vállalkozás számára, ahol a település gyógyszerellátását kizárólag egy közforgalmú gyógyszertár biztosítja vagy biztosítaná, és már működő közforgalmú gyógyszertár esetén annak meghatározott időszakra vonatkozó gyógyszerforgalmazásból származó támogatott árréstömege – az ellátandó lakosságszám vagy a gyógyszertár földrajzi elhelyezkedése okán – hatékony és gazdaságos üzletmenet folytatása mellett sem éri el a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott mértéket, az állam a mindenkori éves költségvetési törvényben szereplő, a 40. § b) pontja szerinti minisztérium fejezetében meghatározott előirányzat erejéig a működőképesség fenntartásához naptári negyedévente működési célú támogatást nyújt. A támogatásban részesített vállalkozások nevét és a támogatás összegét a minisztérium a honlapján közzéteszi.
+
+(2) Az (1) bekezdés szerinti működési célú támogatás igényléséhez a közforgalmú gyógyszertárat működtető vállalkozás beszerzi az egészségügyi államigazgatási szervtől a kormányrendeletben meghatározott jogosultsági feltételeket igazoló hatósági bizonyítványt.
+
+(3) A hatósági bizonyítvány iránti kérelmet a közforgalmú gyógyszertárat működtető vállalkozás a tárgynegyedévet követő harmadik hónap 20. napjáig nyújthatja be az egészségügyi államigazgatási szervhez, mely határidő jogvesztő. A kérelem önellenőrzéssel a későbbiekben sem korrigálható.
+
+(4) Az egészségügyi államigazgatási szerv a (3) bekezdés szerinti hatósági bizonyítványt tíz napon belül kiállítja.
+
+(5) A közforgalmú gyógyszertárat működtető vállalkozás az (1) bekezdés szerinti működési célú támogatást a tárgynegyedévet követő negyedik hónap első napjától igényelheti az illetékes elsőfokú állami adóhatóságtól.
+
+(6) Az (1) bekezdés szerinti támogatás az Art. szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit jogszabály állapítja meg.”
