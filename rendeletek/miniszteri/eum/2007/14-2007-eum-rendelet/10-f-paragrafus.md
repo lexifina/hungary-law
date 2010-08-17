@@ -1,4 +1,4 @@
-10/F. §[^78] (1) A támogatással rendelhető gyógyászati segédeszközökről az OEP a honlapján szabadon és ingyenesen hozzáférhető, internetes eszközkatalógust vezet.
+10/F. §[^76] (1) A támogatással rendelhető gyógyászati segédeszközökről az OEP a honlapján szabadon és ingyenesen hozzáférhető, internetes eszközkatalógust vezet.
 
 (2) Az internetes eszközkatalógusba történő felvétel érdekében a gyógyászati segédeszköz forgalomba hozója az OEP rendelkezésére bocsátja a következőket:
 
@@ -22,4 +22,4 @@ veszi fel.
 
 (4) Ha egy eszköz támogatással történő rendelhetősége megszűnt, az OEP az eszköz kihordási idejének lejártáig az eszközt az internetes eszközkatalógusban „Támogatásból törölt” jelzéssel látja el, a kihordási idő lejártát követően pedig törli az internetes eszközkatalógusból.
 
-[^78]: A 10/F. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^76]: A 10/F. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.

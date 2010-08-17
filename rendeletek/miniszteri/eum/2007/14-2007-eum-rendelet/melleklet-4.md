@@ -158,6 +158,6 @@
 
 ## 11.11. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^117]
+4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^115]
 
-[^117]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^115]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított szöveg.

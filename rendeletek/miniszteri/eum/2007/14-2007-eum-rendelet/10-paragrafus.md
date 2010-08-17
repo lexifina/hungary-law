@@ -10,17 +10,7 @@ c)[^68] a Gtv. 32. § (2) bekezdés a) pont aa), ab) alpontja és b) pont bc) al
 
 (3) A befizetett díj az OEP bevétele. A díj a kérelem visszavonása esetén, a felmerült költségek levonásával visszaigényelhető. Az OEP az igazgatási szolgáltatási díjból származó bevételeket a nyilvántartásában elkülönítetten vezeti.
 
-(4)[^69] A kérelmező a fellebbezés benyújtásakor jogorvoslati díjat fizet postai befizetéssel vagy átutalással az Egészségbiztosítási Felügyelet Magyar Államkincstárnál vezetett 10032000-00290249-00000000 számú előirányzat-felhasználási keretszámlájára, melynek összege:
-
-a)[^70] a Gtv. 32. § (2) bekezdés b) pont bd) és bh) pontja szerinti kérelem esetében 6 000 Ft;
-
-b)[^71] a Gtv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelem esetében 180 000 Ft;
-
-c)[^72] a Gtv. 32. § (2) bekezdés a) pont aa), ab) alpontja és b) pont bc) alpontja szerinti kérelem esetében 420 000 Ft.
-
-(5) A jogorvoslati eljárásban fizetett valamennyi díjat az ügyfélnek vissza kell téríteni, ha a felülvizsgált határozat az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
-
-(6) Ha a jogorvoslati eljárásban az Egészségbizosítási Felügyelet az OEP részben vagy egészben jogszabálysértő határozatát a tényállás kiegészítéséhez szükséges külön vizsgálatok nélkül megsemmisíti, és az első fokon eljáró szervet új eljárás lefolytatására utasítja, akkor az az új eljárást külön díj befizetése nélkül köteles lefolytatni.
+(4)–(6)[^69]
 
 (7) Az Itv.
 
@@ -36,7 +26,4 @@ d) 86. §-ában foglaltakat az elévülés tekintetében
 [^66]: A 10. § (2) bekezdés a) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 10. pontja szerint módosított szöveg.
 [^67]: A 10. § (2) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 11. pontja szerint módosított szöveg.
 [^68]: A 10. § (2) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 12. pontja szerint módosított szöveg.
-[^69]: A 10. § (4) bekezdése a 16/2007. (IV. 2.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2007. április 5. napját követően felírt vények esetében kell alkalmazni.
-[^70]: A 10. § (4) bekezdés a) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 13. pontja szerint módosított szöveg.
-[^71]: A 10. § (4) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 14. pontja szerint módosított szöveg.
-[^72]: A 10. § (4) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 15. pontja szerint módosított szöveg.
+[^69]: A 10. § (4)–(6) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § c) pontja hatályon kívül helyezte.
