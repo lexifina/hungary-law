@@ -1,4 +1,4 @@
-17–18. §[^59]
+17–18. §[^64]
 
 Melléklet a 213/2007. (VIII. 7.) Korm. rendelethez
 
@@ -46,4 +46,4 @@ Székhelye: Szeged
 
 Illetékességi területe: Dél-alföldi régió (Csongrád megye, Bács-Kiskun megye, Békés megye)
 
-[^59]: A 17–18. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 35. pontja hatályon kívül helyezte.
+[^64]: A 17–18. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 35. pontja hatályon kívül helyezte.

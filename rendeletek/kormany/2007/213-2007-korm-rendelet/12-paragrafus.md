@@ -1,4 +1,4 @@
-12. §[^49] (1) Az Intézet által kiadott szakvélemény tartalmazza:
+12. §[^53] (1) Az Intézet által kiadott szakvélemény tartalmazza:
 
 a) a véleményezett személy azonosítására szolgáló, a szakértői bizottság által törvény alapján kezelhető azonosító adatokat,
 
@@ -22,4 +22,4 @@ b) az ügyfél egészségi állapotára vonatkozó, a szakértői bizottság ál
 
 c) a felülvizsgálat szükségességét, időpontját, a szakhatósági állásfoglalás időbeli hatályát.
 
-[^49]: A 12. § a 182/2009. (IX. 10.) Korm. rendelet 559. § (18) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A 12. § a 182/2009. (IX. 10.) Korm. rendelet 559. § (18) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

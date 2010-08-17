@@ -1,6 +1,6 @@
 ## Az Országos Rehabilitációs és Szociális Szakértői Intézet feladat- és hatásköre
 
-4. §[^13] (1) Az Intézet – a szakértői bizottság 11. § (4) bekezdése szerinti döntése alapján – szakhatósági állásfoglalást ad ki
+4. §[^16] (1) Az Intézet – a szakértői bizottság 11. § (4) bekezdése szerinti döntése alapján – szakhatósági állásfoglalást ad ki
 
 a) a rokkantsági, baleseti rokkantsági nyugellátás,
 
@@ -36,7 +36,7 @@ b) a táppénzes időszak alatt megállapítható egészségkárosodásról,
 
 c) a baleseti táppénz idejének meghosszabbításához,
 
-d) a gondozási szükséglet megállapításáról,
+d)[^17]
 
 e) a súlyos fokozatú demens megbetegedésről,
 
@@ -60,4 +60,5 @@ n) a felsőoktatásban részt vevő hallgatók fogyatékosságáról.
 
 (3) Az Intézet az (1) és (2) bekezdésben meghatározottakon kívül ellátja a jogszabályok által feladat- és hatáskörébe utalt egyéb tevékenységet.
 
-[^13]: A 4. § a 182/2009. (IX. 10.) Korm. rendelet 559. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 4. § a 182/2009. (IX. 10.) Korm. rendelet 559. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 4. § (2) bekezdés d) pontját a 229/2010. (VIII. 16.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte. Alkalmazására lásd a 16. § (5) bekezdését.
