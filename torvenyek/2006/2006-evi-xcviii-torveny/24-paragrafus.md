@@ -10,4 +10,4 @@
 
 (6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 
-(7) Az egészségbiztosítási szerv 23. § (3)–(4) és (6) bekezdése szerinti határozata elleni fellebbezést 60 napon belül kell elbírálni.
+(7) Az egészségbiztosítási szervnek a 23. § (3)–(4) és (6)–(8) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.

@@ -82,10 +82,10 @@ l) az eszköz beteg által fizetendő térítési díját.
 
 a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő tizenöt munkanapon belül, továbbá
 
-b) az ügyben hozott jogerős vagy önálló fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatát az ügy elbírálását követő tíz munkanapon belül.
+b) az ügyben hozott jogerős határozatát az ügy elbírálását követő tíz munkanapon belül.
 
 (11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz valamennyi, az egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozója vagy meghatalmazott képviselője kizárólag közösen nyújthat be külön jogszabály szerinti csoportos kérelmet az eszköz típusára vonatkozóan. Az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait e törvénnyel összhangban külön jogszabály tartalmazza.
 
 (12) A (11) bekezdés szerinti kérelmet csak a (2) bekezdés aa), be), bf), bg) alpontjai tárgyában lehet az egészségbiztosítási szervhez benyújtani.
 
-(13) Az egészségbiztosítási szerv elsőfokú döntését fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(13)

@@ -8,10 +8,10 @@ b) támogatási mértékének vagy összegének csökkentéséről dönt, a megv
 
 (3) A 23. § (2) bekezdés szerinti eljárásban nincs helye újrafelvételi eljárásnak.
 
-(4) Az egészségbiztosítási szerv az elsőfokú döntését fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(4)
 
 (5) Az egészségbiztosítási szerv a 23–25. §-ban szabályozott eljárására vonatkozó nyilvánosság biztosítása érdekében az internetes honlapján elektronikus úton közzéteszi
 
 a) a formai szempontból megfelelő kérelmet a kérelem beérkezését követő öt munkanapon belül, továbbá
 
-b) a kérelmezővel való közlésen túl – a külön jogszabály szerinti tájékoztató jellegű közzététellel – az ügyben hozott jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatot a kérelem elbírálását követő hónap 5. napjáig.
+b) a kérelmezővel való közlésen túl – a külön jogszabály szerinti tájékoztató jellegű közzététellel – az ügyben hozott jogerős határozatot a kérelem elbírálását követő hónap 5. napjáig.
