@@ -42,7 +42,9 @@ s) a szociális igazgatási bírság alkalmazására és felhasználására vona
 
 t) az energiafelhasználási támogatás mértékére, a támogatásra való jogosultság megállapításának feltételeire és a jogosultak körére, a támogatás igénylésére, megállapítására, érvényesítésére, a támogatás jogszerű igénybevétele ellenőrzésének és a jogosulatlanul igénybe vett támogatás visszakövetelésének rendjére, továbbá a támogatás forrásául szolgáló előirányzat kezelésére és felhasználására vonatkozó szabályokat;
 
-u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait.
+u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
+
+v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét.
 
 (2) Felhatalmazást kap a szociál- és családpolitikáért felelős miniszter, hogy rendeletben szabályozza
 

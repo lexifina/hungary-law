@@ -1,6 +1,6 @@
 119/C. § (1) Az idősotthoni ellátás igénybevételét megelőzően a jegyző megvizsgálja az ellátást igénylő havi jövedelmét. A jövedelemvizsgálatra a 10. § és a 32–32/A. § szabályait is alkalmazni kell.
 
-(2) Az intézmény vezetője a jövedelemvizsgálatot a gondozási szükséglet vizsgálatának kezdeményezésével egyidejűleg kérelmezi a jegyzőnél.
+(2) Az intézmény vezetője a jövedelemvizsgálatot a gondozási szükséglet vizsgálatának elvégzésével egyidejűleg kérelmezi a jegyzőnél.
 
 (3) A jegyző a jövedelemvizsgálat alapján igazolást állít ki a havi jövedelemről. Az igazolás az ellátást igénylő természetes személyazonosító adatait és havi jövedelmét, illetve azon belül a vagyonból a (6) bekezdés szerint a havi jövedelemhez hozzáadandó összeget tartalmazza.
 
