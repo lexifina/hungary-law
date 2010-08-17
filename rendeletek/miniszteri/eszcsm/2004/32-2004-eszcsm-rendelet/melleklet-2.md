@@ -1410,7 +1410,7 @@
 
 | V10XX | további therápiás radioaktív készítmények | X |  |  |  |  | X |  |
 
-2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^93]
+2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^92]
 
 A kiemelt indikációhoz kötött támogatási kategóriába (EÜ100) tartozó
 
@@ -2552,4 +2552,20 @@ TÁMOGATOTT INDIKÁCIÓK:
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-[^93]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja szerint módosított szöveg.
+|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+
+|  | Megkötés nélkül | Gyermek- és ifjúsági pszichiátria | javasolhat és írhat |
+
+|  | Megkötés nélkül | Pszichiátria | javasolhat és írhat |
+
+|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
+
+|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE:12 hónap |
+
+ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
+
+F70, F71, F72, F73, F74, F75, F76, F77, F78, F79
+
+EÜ100 10/d2.
+
+[^92]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja szerint módosított szöveg.
