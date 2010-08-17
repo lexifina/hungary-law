@@ -1,4 +1,4 @@
-14/A. §[^8] (1) Ha a korábbi fenntartó nem állami fenntartó volt, és az Szt. 127/A. §-ának (4) bekezdése szerinti feltételek fennállnak, a működést engedélyező szerv a fenntartóváltozás, illetve a szolgáltató működésének engedélyezésére irányuló eljárását felfüggeszti, a feltételek fennállását az eljárást felfüggesztő végzésben állapítja meg, és megkeresi a korábbi nem állami fenntartó normatívája ügyében eljárt igazgatóságot.
+14/A. §[^12] (1) Ha a korábbi fenntartó nem állami fenntartó volt, és az Szt. 127/A. §-ának (4) bekezdése szerinti feltételek fennállnak, a működést engedélyező szerv a fenntartóváltozás, illetve a szolgáltató működésének engedélyezésére irányuló eljárását felfüggeszti, a feltételek fennállását az eljárást felfüggesztő végzésben állapítja meg, és megkeresi a korábbi nem állami fenntartó normatívája ügyében eljárt igazgatóságot.
 
 (2) A megtérítendő egyházi kiegészítő támogatás összegét a korábbi nem állami fenntartó normatívája ügyében eljárt igazgatóság állapítja meg. A korábbi nem állami fenntartó a megtérítendő egyházi kiegészítő támogatást – ha fizetési kedvezményt nem engedélyeztek – az azt megállapító határozat jogerőre emelkedését követő egy hónapon belül köteles megfizetni. Az igazgatóság a megtérítendő egyházi kiegészítő támogatás összegének megfizetéséről értesíti a működést engedélyező szervet, amely az eljárását folytatja.
 
@@ -12,4 +12,4 @@ b) az igazgatóság a döntését közli a korábbi nem állami és a szolgálta
 
 (5) Az (1)–(3) bekezdés szerint megtérítendő egyházi kiegészítő támogatást a korábbi nem állami fenntartó normatívája ügyében eljárt igazgatóságnak kell megfizetni, amely az összeget a minisztérium – egyházi kiegészítő támogatás folyósítására szolgáló – előirányzata javára utalja át.
 
-[^8]: A 14/A. §-t a 279/2009. (XII. 9.) Korm. rendelet 30. §-a iktatta be.
+[^12]: A 14/A. §-t a 279/2009. (XII. 9.) Korm. rendelet 30. §-a iktatta be.
