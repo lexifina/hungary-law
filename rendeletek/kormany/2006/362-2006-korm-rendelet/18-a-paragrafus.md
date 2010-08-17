@@ -1,10 +1,10 @@
-## A Szolgálat eljárásaiban közreműködő szakhatóságok kijelölése[^67]
+## A Szolgálat eljárásaiban közreműködő szakhatóságok kijelölése[^69]
 
-18/A. §[^68] (1) A Kormány a természetes fürdővíz használatának engedélyezésére irányuló eljárásban
+18/A. §[^70] (1) A Kormány a természetes fürdővíz használatának engedélyezésére irányuló eljárásban
 
-a)[^69] belső határon és a magyar–horvát határszakaszon lévő határvízen, – az államhatár rendje fenntarthatóságának szakkérdésében – első fokú eljárásban a fürdővíz helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
+a)[^71] belső határon és a magyar–horvát határszakaszon lévő határvízen, – az államhatár rendje fenntarthatóságának szakkérdésében – első fokú eljárásban a fürdővíz helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
 
-b)[^70] a külső határon lévő határvízen, – az államhatár rendje fenntarthatóságának szakkérdésében – első fokú eljárásban a fürdővíz helye szerint illetékes határrendészeti kirendeltséget, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
+b)[^72] a külső határon lévő határvízen, – az államhatár rendje fenntarthatóságának szakkérdésében – első fokú eljárásban a fürdővíz helye szerint illetékes határrendészeti kirendeltséget, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén, – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését – első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
@@ -16,9 +16,9 @@ e) – a természetes vizek minőségének védelme érdekében a vizek állapot
 
 (2) A Kormány a fürdőhely kijelölésére irányuló eljárásban
 
-a)[^71] belső határszakaszon és a magyar–horvát határszakaszon lévő határvízen – az államhatár rendje fenntarthatóságának szakkérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
+a)[^73] belső határszakaszon és a magyar–horvát határszakaszon lévő határvízen – az államhatár rendje fenntarthatóságának szakkérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
 
-b)[^72] a külső határon lévő határvízen, – az államhatár rendje fenntarthatóságának szakkérdésében – első fokú eljárásban a fürdővíz helye szerint illetékes határrendészeti kirendeltséget, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
+b)[^74] a külső határon lévő határvízen, – az államhatár rendje fenntarthatóságának szakkérdésében – első fokú eljárásban a fürdővíz helye szerint illetékes határrendészeti kirendeltséget, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén, – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését – első fokú eljárásban az illetékes vzirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
@@ -40,7 +40,7 @@ b) – a természetes vizek minőségének védelme érdekében a vizek állapot
 
 ## szakhatóságként jelöli ki.
 
-(5)[^73] A Kormány a Sugáregészségügyi Decentrum és az OTH hatáskörébe tartozó atomenergiával kapcsolatos első- és másodfokú engedélyezési eljárásokban a 4. számú mellékletben meghatározott hatóságokat – az ott megjelölt feltételek fennállása esetén és szakkérdésben – szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság egy évig felhasználható előzetes szakhatósági állásfoglalást ad ki.
+(5)[^75] A Kormány a Sugáregészségügyi Decentrum és az OTH hatáskörébe tartozó atomenergiával kapcsolatos első- és másodfokú engedélyezési eljárásokban a 4. számú mellékletben meghatározott hatóságokat – az ott megjelölt feltételek fennállása esetén és szakkérdésben – szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság egy évig felhasználható előzetes szakhatósági állásfoglalást ad ki.
 
 (6) A Kormány
 
@@ -58,7 +58,7 @@ e) a biocid termék vagy biocid termékben való felhasználásra szánt hatóan
 
 (7) A Kormány a sírhely hamvasztáshoz szükséges megnyitására vonatkozó engedélyezési eljárásban, külön jogszabályban meghatározott rendkívüli halálesetkor és az eltemetéstől számított 25 éven belül, – annak elbírálására, hogy a rendkívüli halálesethez kapcsolódó nyomozási feladatok a hamvasztást követően biztosíthatók-e – első fokú eljárásban az elhalálozás helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban az elhalálozás helye szerint illetékes rendőr-főkapitányságot szakhatóságként jelöli ki.
 
-(8)[^74] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban
+(8)[^76] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban
 
 a) a Magyarországon még nem elfogadott, új megelőző, terápiás vagy diagnosztikus eljárás, módszer alkalmazása esetén, ha azzal összefüggésben a betegen invazív beavatkozást végeznek,
 
@@ -70,14 +70,14 @@ d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetében
 
 első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként kijelöli.
 
-(9)[^75] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, embrionális őssejtekkel végzett beavatkozásokkal és kutatásokkal, továbbá az emberi génállományt a reprodukcióval összefüggésben érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként kijelöli.
+(9)[^77] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, embrionális őssejtekkel végzett beavatkozásokkal és kutatásokkal, továbbá az emberi génállományt a reprodukcióval összefüggésben érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként kijelöli.
 
-[^67]: A 18/A. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
-[^68]: A 18/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^69]: A 18/A. § (1) bekezdés a) pontja a 181/2009. (IX. 4.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^70]: A 18/A. § (1) bekezdés b) pontja a 181/2009. (IX. 4.) Korm. rendelet 5. § (2) szerint módosított szöveg.
-[^71]: A 18/A. § (2) bekezdés a) pontja a 181/2009. (IX. 4.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^72]: A 18/A. § (2) bekezdés b) pontja a 181/2009. (IX. 4.) Korm. rendelet 5. § (2) szerint módosított szöveg.
-[^73]: A 18/A. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 522. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^74]: A 18/A. § (8) bekezdését a 235/2009. (X. 20.) Korm. rendelet 38. § (3) bekezdése iktatta be, alkalmazására lásd ez utóbbi módosító rendelet 41. § (1) bekezdését.
-[^75]: A 18/A. § (9) bekezdését a 235/2009. (X. 20.) Korm. rendelet 38. § (3) bekezdése iktatta be, alkalmazására lásd ez utóbbi módosító rendelet 41. § (1) bekezdését.
+[^69]: A 18/A. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^70]: A 18/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^71]: A 18/A. § (1) bekezdés a) pontja a 181/2009. (IX. 4.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^72]: A 18/A. § (1) bekezdés b) pontja a 181/2009. (IX. 4.) Korm. rendelet 5. § (2) szerint módosított szöveg.
+[^73]: A 18/A. § (2) bekezdés a) pontja a 181/2009. (IX. 4.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^74]: A 18/A. § (2) bekezdés b) pontja a 181/2009. (IX. 4.) Korm. rendelet 5. § (2) szerint módosított szöveg.
+[^75]: A 18/A. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 522. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^76]: A 18/A. § (8) bekezdését a 235/2009. (X. 20.) Korm. rendelet 38. § (3) bekezdése iktatta be, alkalmazására lásd ez utóbbi módosító rendelet 41. § (1) bekezdését.
+[^77]: A 18/A. § (9) bekezdését a 235/2009. (X. 20.) Korm. rendelet 38. § (3) bekezdése iktatta be, alkalmazására lásd ez utóbbi módosító rendelet 41. § (1) bekezdését.

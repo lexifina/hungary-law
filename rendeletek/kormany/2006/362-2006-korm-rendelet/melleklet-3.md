@@ -28,6 +28,6 @@
 
 ## illetékességi területe: Győr-Moson-Sopron megye, Vas megye, Zala megye
 
-3. számú melléklet a 362/2006. (XII. 28.) Korm. rendelethez[^91]
+3. számú melléklet a 362/2006. (XII. 28.) Korm. rendelethez[^93]
 
-[^91]: A 3. számú melléklet a 337/2009. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^93]: A 3. számú melléklet a 337/2009. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
