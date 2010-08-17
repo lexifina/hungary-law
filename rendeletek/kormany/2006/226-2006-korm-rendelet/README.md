@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-226-20-
 | --- | --- | --- |
 | 2010-01-01 | 2006-226-20-22.9 | 226/2006. (XI. 20.) Korm. rendelet |
 | 2010-03-01 | 2006-226-20-22.10 | 38/2010. (II. 26.) Korm. rendelet |
+| 2010-08-17 | 2006-226-20-22.11 | 340/2008. (XII. 30.) Korm. rendelet |

@@ -158,7 +158,7 @@
 
 ## 2.1.1.3.[^78] a jelentési időpontban az intézményben ellátott – a külön jogszabály szerinti szakvéleménnyel rendelkező – súlyos demens beteg ellátottak száma,
 
-## 2.1.1.4.[^79] a jelentési időpontban intézményi elhelyezésre várakozók száma, ezen belül a gondozási szükségletet igazoló szakvéleménnyel rendelkezők száma,
+## 2.1.1.4.[^79] a jelentési időpontban intézményi elhelyezésre várakozók száma, ezen belül a gondozási szükségletet igazoló szakvéleménnyel vagy gondozási szükségletről kiállított igazolással rendelkezők száma,
 
 ## 2.1.1.5.[^80] a jelentési időszakban intézményi férőhelyre bekerült és onnan kikerült ellátottak száma[^81],
 
@@ -432,7 +432,7 @@
 [^76]: Az 5. számú melléklet 1.11. pontját a 191/2008. (VII. 30.) Korm. rendelet 27. §-a iktatta be.
 [^77]: Emelt szintű férőhelyeket is beleértve.
 [^78]: Az 5. számú melléklet 2.1.1.3. pontja a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés e) pont ea) alpontja szerint módosított szöveg.
-[^79]: Az 5. számú melléklet 2.1.1.4. pontja a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés e) pont eb) alpontja szerint módosított szöveg.
+[^79]: Az 5. számú melléklet 2.1.1.4. pontja a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés e) pont eb) alpontja, a 229/2010. (VIII. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^80]: Az 5. számú melléklet 2.1.1.5. pontja a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés e) pont ec) alpontja szerint módosított szöveg.
 [^81]: Súlyosan demens betegeket is beleértve.
 [^82]: Az 5. számú melléklet 2.1.1.6. pontja a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés e) pont ea) és ec) alpontja szerint módosított szöveg.
