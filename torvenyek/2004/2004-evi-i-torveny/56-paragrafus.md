@@ -8,4 +8,4 @@
 
 (2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, valamint a sportfogadás (TOTÓ) játékadóját – külön jogszabályban foglaltak szerint – a sport támogatására kell fordítani, és a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
 
-(3) A miniszter a Nemzeti Sporttanács javaslata alapján rendeletben határozza meg a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéhez tartozó állami sportcélú támogatások felhasználásának részletes szabályait.
+(3)

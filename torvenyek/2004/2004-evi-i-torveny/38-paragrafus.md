@@ -20,13 +20,13 @@ d) az olimpiai mozgalom eszményének jegyében az ifjúság testi, erkölcsi é
 
 e) részvétel a sportösztöndíj-rendszer működtetésében,
 
-f) együttműködés az állami szervekkel, a Nemzeti Sporttanáccsal, a Magyar Paralimpiai Bizottsággal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak meghatározásában, illetve megvalósításában,
+f) együttműködés az állami szervekkel, a Magyar Paralimpiai Bizottsággal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak meghatározásában, illetve megvalósításában,
 
 g) a sporttal kapcsolatos jogszabálytervezetek véleményezése, a sporttal kapcsolatos kormányzati intézkedések megtételének kezdeményezése.
 
 (4) A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben és a külön jogszabályban meghatározottak szerint – a következők:
 
-a) a Nemzeti Sporttanácsban az olimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+a) az olimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 
 b) a Nemzeti Sportszövetséggel és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a versenysport és az utánpótlás-nevelés feladataira, valamint a versenysport és az utánpótlás-nevelés pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 

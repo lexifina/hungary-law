@@ -4,7 +4,7 @@
 
 (3) Az MPB elnökségének tagjait a közgyűlés választja, az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az MPB elnökségének tagja nem lehet állami vezető.
 
-(4) Az MPB közgyűlésén a sportigazgatási szerv vezetője, a Nemzeti Sporttanács elnöke, a MOB elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal részt vehetnek.
+(4) Az MPB közgyűlésén a sportigazgatási szerv vezetője, a MOB elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal részt vehetnek.
 
 (5) Az MPB rendelkezésére bocsátott állami támogatás felhasználásáról való döntés a közgyűlés kizárólagos hatáskörébe tartozik. Az MPB közgyűlése köteles könyvvizsgálót választani az MPB gazdálkodásának ellenőrzésére.
 

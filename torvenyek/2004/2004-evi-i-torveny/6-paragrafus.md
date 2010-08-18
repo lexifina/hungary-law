@@ -4,6 +4,6 @@
 
 (3) A versenyengedély iránti kérelmet:
 
-a) az iskolaként működő sportiskola tanulója, illetve az iskolai sportkör tagja azon az oktatási intézményen keresztül nyújthatja be a sportszövetséghez, amellyel tanulói jogviszonyban áll,
+a) az iskolaként működő sportiskola tanulója, azon az oktatási intézményen keresztül nyújthatja be a sportszövetséghez, amellyel tanulói jogviszonyban áll,
 
 b) a költségvetési szervként vagy közhasznú társaságként működő sportiskola sportolója a sportiskolán keresztül nyújthatja be a sportszövetséghez.

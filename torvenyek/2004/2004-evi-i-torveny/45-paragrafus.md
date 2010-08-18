@@ -14,7 +14,7 @@ d) az előző évre vonatkozó szakmai és pénzügyi beszámoló, valamint a t�
 
 e) minden olyan kérdés, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
 
-(3) A nemzeti sportszövetségek közgyűlésein tanácskozási joggal részt vehet a sportpolitikáért felelős miniszter, a Nemzeti Sporttanács elnöke, a MOB, az MPB, valamint a további két nemzeti sportszövetség elnökei.
+(3) A nemzeti sportszövetségek közgyűlésein tanácskozási joggal részt vehet a sportpolitikáért felelős miniszter, a MOB, az MPB, valamint a további két nemzeti sportszövetség elnökei.
 
 (4) A nemzeti sportszövetségek törvényességi felügyeletét az ügyészség látja el.
 

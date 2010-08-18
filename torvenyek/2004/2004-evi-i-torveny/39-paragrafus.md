@@ -4,7 +4,7 @@
 
 (3) A MOB elnökségének tagjait a közgyűlés választja. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
 
-(4) A MOB közgyűlésén a sportpolitikáért felelős miniszter, a Nemzeti Sporttanács elnöke, a Magyar Paralimpiai Bizottság elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal vehetnek részt.
+(4) A MOB közgyűlésén a sportpolitikáért felelős miniszter, a Magyar Paralimpiai Bizottság elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal vehetnek részt.
 
 (5) A MOB rendelkezésére bocsátott állami támogatás felhasználásáról való döntés a közgyűlés kizárólagos hatáskörébe tartozik. A MOB közgyűlése köteles könyvvizsgálót választani a MOB gazdálkodásának ellenőrzésére.
 

@@ -4,7 +4,7 @@
 
 (2) A Fogyatékosok Nemzeti Sportszövetsége:
 
-a) képviseli az állami szervek, az önkormányzatok, a Nemzeti Sporttanács, a további két nemzeti sportszövetség, a sportközalapítványok és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
+a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, a sportközalapítványok és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
 
 b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki tagjai részére,
 
@@ -14,13 +14,13 @@ d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányz
 
 e) az érintett sportszövetségekkel együttműködve elősegíti és koordinálja a magyar sportolóknak a speciális világjátékokon való részvételét,
 
-f) együttműködik a sportigazgatási szervvel, a Nemzeti Sporttanáccsal, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében.
+f) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében.
 
 (3) A Fogyatékosok Nemzeti Sportszövetsége feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a fogyatékosok sportjára nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvény és a külön jogszabályban meghatározottak szerint – a következők:
 
-a) a Nemzeti Sporttanácsban a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 
-b) az MPB-vel és a Nemzeti Sporttanácsban a települési, illetve területi önkormányzatok országos szövetségei által jelölt képviselővel közösen javaslatot dolgoz ki a fogyatékosok sportja feladataira, valamint a fogyatékosok sportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
+b) az MPB-vel közösen javaslatot dolgoz ki a fogyatékosok sportja feladataira, valamint a fogyatékosok sportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 
 c) dönt a rendelkezésére bocsátott állami támogatásról.
 

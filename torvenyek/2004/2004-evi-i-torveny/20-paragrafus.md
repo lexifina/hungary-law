@@ -2,7 +2,7 @@
 
 20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el, és törvényben megállapított különleges jogosítványokat gyakorol.
 
-(2) A szakszövetségnek kizárólag olyan sportszervezetek lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
+(2) A szakszövetségnek kizárólag olyan sportszervezetek és sportiskolák lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek és sportiskolák felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet és a sportiskola magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
 
 (3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – az Et. társadalmi szervezetekre és a Ptk. egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet.
 

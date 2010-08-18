@@ -1,6 +1,6 @@
 ## A sportági szövetségek
 
-28. § (1) A sportági szövetség az egyesülési jogról szóló törvény alapján működő társadalmi szervezetek szövetsége, amelynek tagjai kizárólag sportszervezetek lehetnek. Egy sportágban egy országos sportági szövetség alapítható, de sportági szövetség nem csak országos jelleggel működhet.
+28. § (1) A sportági szövetség az Et. alapján működő társadalmi szervezetek szövetsége, amelynek tagjai kizárólag sportszervezetek, sportiskolák lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
 
 (2) A szakszövetségnek az e törvényben és a külön jogszabályokban meghatározott feladatait az országos sportági szövetség akkor láthatja el, ha nem felel meg a 20. § (4)–(5) bekezdésében meghatározott feltételeknek és:
 

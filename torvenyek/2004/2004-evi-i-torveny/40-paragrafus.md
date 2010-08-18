@@ -14,11 +14,11 @@ c) a paralimpiai mozgalom érdekében a paralimpiai játékok jelképeinek véde
 
 d) a paralimpiai mozgalom eszményének jegyében az érintett ifjúság testi, erkölcsi és kulturális nevelésének segítése, a tisztességes játék (fair play) szellemében való versenyzés támogatása, fellépés a sportmozgalomra ható káros jelenségek ellen,
 
-e) együttműködés az állami szervekkel, a Nemzeti Sporttanáccsal, a MOB-bal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak megvalósításában.
+e) együttműködés az állami szervekkel, a MOB-bal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak megvalósításában.
 
 (4) Az MPB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben és a külön jogszabályban meghatározottak szerint – a következők:
 
-a) A Nemzeti Sporttanácsban a paralimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+a) a paralimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 
 b) a Fogyatékosok Nemzeti Sportszövetségével és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a fogyatékosok versenysportjára vonatkozó feladatokra, valamint a fogyatékosok versenysportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 
