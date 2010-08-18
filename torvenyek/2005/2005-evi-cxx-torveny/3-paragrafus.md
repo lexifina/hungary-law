@@ -44,6 +44,8 @@ alapján illeti meg,
 
 2617 Rádióműsor-, televízióműsor-szerkesztő
 
+2618 Szakképzett edző, sportszervező, -irányító, feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel
+
 2619 Egyéb magasabb képzettséget igénylő kulturális foglalkozások
 
 2621 Író (újságíró nélkül)
@@ -71,6 +73,8 @@ alapján illeti meg,
 3714 Rádióműsor-, televízióműsor-szerkesztő munkatárs
 
 3715 Könyv- és lapkiadó-szerkesztő munkatárs
+
+3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, a szövetség szabályzatában meghatározott sportszakembernek minősül, és rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel. Sportszakember különösen a sportedző (a sportág megjelölésével), sportoktató (a sportág megjelölésével), mérkőzésvezető, versenybíró, sportorvos, gyúró
 
 3721 Segédszínész
 
@@ -110,6 +114,8 @@ b) az a) pontban meghatározott feltétel hiányában az évi 25 millió forintn
 
 c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 25 millió forint,
 
+d) az a)–b) pontokban említett összeghatár helyett évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója
+
 azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
 (5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
@@ -118,7 +124,7 @@ a) amelyet az adóévben az egyszerűsített vállalkozói adóról szóló tör
 
 b) amely az eva hatálya alá tartozó társas vállalkozás bevételéből a társas vállalkozás ekhót választó tagjára (tulajdonosára) a társasági szerződésben az adózott eredményből való részesedésére előírt mérték, ennek hiányában a jegyzett tőkéből való részesedése arányában jut.
 
-(6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a 25 millió forint bevételi határt már elérte.
+(6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a (4) bekezdés szerinti összeghatárt már elérte.
 
 (7) Ha a magánszemély munkaviszonyban folytat ekho választására jogosító tevékenységet, az ellenértéket kifizető munkáltató a tevékenység adott havi ellenértékeként kifizetett összegnek a hónap első napján érvényes havi minimálbért meghaladó részére veszi figyelembe a magánszemély ekho választására vonatkozó nyilatkozatát. Nem kell e rendelkezést alkalmazni, ha
 

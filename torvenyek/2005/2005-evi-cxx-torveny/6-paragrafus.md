@@ -10,6 +10,6 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 (2) A magánszemély az (1) bekezdés b) pontjának rendelkezésétől eltérően 18 százalék különadót köteles megfizetni azon ekhoalap után,
 
-a) amely az adóévben a 25 millió forintot meghaladja, és/vagy
+a) amely az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja, és/vagy
 
 b) amelyre az ekho választására vonatkozó nyilatkozatát a tevékenységére tekintettel nem tehette volna meg.
