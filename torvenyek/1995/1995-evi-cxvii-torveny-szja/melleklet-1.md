@@ -50,9 +50,9 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 3.2. az az összeg, amelyet
 
-3.2.1.
+3.2.1. a magánszemély a sportról szóló törvény alapján olimpiai járadék címén kap;
 
-3.2.2. a sportról szóló törvény szerinti, vállalkozási tevékenységet nem folytató sportközalapítványtól kap a magánszemély, feltéve, hogy a sportközalapítvány a részére történő befizetésről (nem pénzbeli juttatásról) adó- vagy adóalapcsökkentés igénybevételére jogosító igazolást nem ad (adott) ki.
+3.2.2. a sportról szóló törvény alapján Gerevich Aladár-sportösztöndíjként, a nyugdíjas olimpiai és világbajnoki érmes sportolók és özvegyeik, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek részére szociális rászorultságra figyelemmel nyújtott támogatásként, továbbá a sportról szóló törvény felhatalmazása alapján kiadott jogszabályban meghatározott eredményességi támogatásként kap a magánszemély;
 
 3.2.3. a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény alapján a költségvetési törvényben meghatározott kiemelt előirányzat terhére kap a magánszemély,
 
@@ -278,7 +278,7 @@ b) üzleti forgalmának növelése érdekében valamely termék megismertetése 
 
 8.16. a Magyar Honvédség és a rendvédelmi szervezetek tartósan fokozott igénybevételnek kitett vagy harckészültségi gyakorlaton részt vevő – 12 órát elérő, vagy azt meghaladó őr- és ügyeleti szolgálatot adó – tagjának, valamint a polgári védelmi szervezet békeidőszaki, minősített időszaki katasztrófa elhárításában résztvevőnek a szolgálati feladattal összefüggésben nyújtott természetbeni ellátása, továbbá a tartalékos katona, a katonai és rendvédelmi középiskola tanulója, a katonai és rendvédelmi felsőoktatási intézmény tanulmányi szerződéses és ösztöndíjas hallgatója kizárólag e jogviszonyával összefüggésben a szolgálati feladathoz kapott nem pénzbeli ellátása, azzal, hogy e rendelkezés alkalmazásában tartósan fokozott igénybevételnek kitett magánszemély a szerződéses legénységi és önkéntes tartalékos, a terrorelhárító, a repülőhajózó, a repülő műszaki, a búvár, a tűzszerész, az ejtőernyős és a békefenntartó feladatokra vezényelt hivatásos és szerződéses katonák állományának a tagja;
 
-8.17.
+8.17. összeghatártól függetlenül a sportversenyen vagy sportvetélkedőn nyert érem, serleg, trófea;
 
 8.18. a társadalmi szervezettől, az egyháztól évente egy alkalommal kapott tárgyjutalom értékéből az 5000 forintot meg nem haladó összeg, e rendelkezés alkalmazásában nem minősül tárgyjutalomnak az értékpapír;
 
@@ -308,7 +308,13 @@ c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügye
 
 8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint természetbeni ellátás formájában nyújtott rendkívüli gyermekvédelmi támogatás;
 
-8.28.
+8.28. az ingyenesen vagy kedvezményesen
+
+a) a sportesemény-szervező tevékenységet folytató szervezet által e tevékenységi körében juttatott (ide nem értve, ha azt más személy megrendelésére teljesíti),
+
+b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ezer forint értékben juttatott,
+
+sporteseményre szóló belépőjegy, bérlet;
 
 8.29. a munkáltató, volt munkáltató által a csoportos létszámleépítés miatt elbocsátott, vagy elbocsátandó munkavállalók részére nyújtott olyan szolgáltatás, mellyel a munkáltató a munkavállaló újra-elhelyezkedését támogatja, azzal, hogy e rendelkezés alkalmazásában a munkavállaló újra-elhelyezkedését támogató szolgáltatásnak minősül a pszichológiai tanácsadás, az át-, illetve továbbképzés, a munkajogi tanácsadás;
 
