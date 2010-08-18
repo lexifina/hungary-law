@@ -1,0 +1,5 @@
+10. § Az Itv. 87. §-a a következő (4)–(5) bekezdésekkel egészül ki:
+
+„(4) Ha a vagyonszerző a 26. § (1) bekezdésének i) pontjában meghatározott 15 év letelte előtt a mentességgel érintett ingatlant elidegeníti vagy igazolhatóan nem sport célra használja, hasznosítja, a mentesség alkalmazásának hiányában járó illetéknek a mentességet megállapító illetékkiszabó határozat (fizetési meghagyás) jogerőre emelkedésétől számított késedelmi pótlékkal növelt összegét kell megfizetnie.
+
+(5) Ha a 26. § (1) bekezdés r) pontjában meghatározott feltétel nem teljesül, vagy a vagyonszerző –, illetve a sporttelep létesítésre e törvény alapján köteles jogutódja – a sporttelep létesítésére biztosított határidőn belül kéri a megszerzett telek vagy annak egy része tekintetében az illeték felfüggesztésének megszüntetését, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől (a határozat jogerőre emelkedését követő naptól) számított késedelmi pótlékkal megnövelt összegben kell megfizetni.”
