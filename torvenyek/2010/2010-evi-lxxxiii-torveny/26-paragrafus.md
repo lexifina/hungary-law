@@ -9,11 +9,3 @@
 (5) 2011. január 1-jén az Stv. 51. § (2) bekezdés f) pontjában a „sportközalapítványokkal” szövegrész helyébe a „sportközalapítvánnyal” szövegrész, 77. § a) pontjában a „sportközalapítványokra” szövegrész helyébe „sportközalapítványra” szövegrész lép.
 
 (6) 2011. szeptember 1-jén hatályát veszti az Stv. e törvénnyel megállapított 48. §-a, valamint az Stv. 51. § (2) bekezdés f) pontjában a „sportközalapítvánnyal” szövegrész, 77. § a) pontjában a „sportközalapítványra” szövegrész.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
