@@ -1,6 +1,6 @@
 ## Panasz a szabálysértési hatóság előtti eljárásban
 
-86. § (1) A szabálysértési hatóságnak a 79–81. §-a alapján hozott határozatával, illetőleg intézkedésével szemben az eljárás alá vont személy és jogi képviselője, valamint a rendbírsággal sújtott személy, a 84. § alapján hozott határozatával szemben a sértett panaszt tehet. A 74/A. § (8) bekezdése alapján hozott határozattal szemben az eljárás alá vont személy és jogi képviselője, valamint a sértett és jogi képviselője panaszt tehet.
+86. § (1) A szabálysértési hatóságnak a 79–81. §-a, valamint 128/A. § (3) bekezdése alapján hozott határozatával, illetőleg intézkedésével szemben az eljárás alá vont személy és jogi képviselője, valamint a rendbírsággal sújtott személy, a 84. § alapján hozott határozatával szemben a sértett panaszt tehet. A 74/A. § (8) bekezdése alapján hozott határozattal szemben az eljárás alá vont személy és jogi képviselője, valamint a sértett és jogi képviselője panaszt tehet.
 
 (2) A panaszt a határozat közlésétől számított nyolc napon belül kell szóban vagy írásban megtenni a szabálysértési hatóságnál.
 

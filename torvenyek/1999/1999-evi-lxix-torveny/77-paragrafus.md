@@ -1,6 +1,6 @@
 ## Szabálysértési őrizet
 
-77. § (1) A rendőrség elzárással is sújtható szabálysértés esetén – ha tettenérésre kerül sor – az eljárás alá vont személyt gyorsított bírósági eljárás lefolytatása céljából őrizetbe veheti.
+77. § (1) A rendőrség elzárással is sújtható szabálysértés esetén – ha tettenérésre kerül sor – az eljárás alá vont személyt gyorsított bírósági eljárás lefolytatása céljából őrizetbe veheti. A tettenérésre vonatkozó szabályokat kell alkalmazni akkor is, ha a szabálysértés helyszínéről elmenekült elkövetőt a rendőrség az elkövetéstől számított 48 órán belül elfogja.
 
 (2) A szabálysértési őrizet a bíróság érdemi határozatának meghozataláig, de legfeljebb hetvenkét óráig tart. Az eljárás alá vont személyt nyomban szabadon kell bocsátani, ha a szabálysértési őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le, vagy nem szabott ki elzárást.
 

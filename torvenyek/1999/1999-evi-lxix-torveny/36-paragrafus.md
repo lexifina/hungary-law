@@ -7,3 +7,5 @@
 (3) A szabálysértési hatóság eljárása, határozatai és intézkedései ellen emelt ügyészi óvást – ha azzal a szabálysértési hatóság nem ért egyet – a helyi bíróság bírálja el.
 
 (4) E törvény alkalmazásában helyi bíróság alatt a városi és kerületi bíróságot, a megyei bíróság alatt a Fővárosi Bíróságot is érteni kell.
+
+(5) E törvény alkalmazásában a helyi bíróság jogkörében bírósági titkár is eljárhat.

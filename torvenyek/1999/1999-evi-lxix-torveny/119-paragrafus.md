@@ -13,3 +13,5 @@ b) iratokat, tárgyi bizonyítási eszközöket szerez be;
 c) a bíróság lefoglalhatja a 80. § (1) bekezdésében, illetőleg lefoglalja a 80. § (2) bekezdésében meghatározott dolgot. A lefoglalt dolog visszaadása tekintetében a 80. § rendelkezései szerint jár el;
 
 d) külön jogszabályban meghatározott feltételek alapján más szerveket adatok közlésére hívhat fel.
+
+(4) A bíróság a hatóság előkészítő eljárást lefolytató tagját (128/A. §) a tárgyalásra idézi. A (3) bekezdésben felsorolt intézkedéseket a bíróság a rendőrség útján is foganatosíthatja. A rendőrség ennek során az előkészítő eljárás szabályai szerint jár el.

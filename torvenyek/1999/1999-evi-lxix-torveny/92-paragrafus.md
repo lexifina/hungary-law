@@ -4,7 +4,7 @@
 
 ## Általános szabályok
 
-92. § (1) A bíróság a szabálysértési ügyben egyesbíróként jár el. A szabálysértési ügyben a helyi bíróság feladatait a 92/A. §-ban meghatározott jogkörében a bírósági titkár is elláthatja.
+92. § (1) A bíróság a szabálysértési ügyben egyesbíróként jár el.
 
 (2) A bíróság szabálysértési ügyben végzéssel határoz. A bíróságnak az ügydöntő határozatban a kifogásról kell döntenie, ügydöntő végzését ,,A Magyar Köztársaság nevében'' hozza.
 
