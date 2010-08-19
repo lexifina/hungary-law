@@ -20,6 +20,6 @@ b) színe, megvilágítása, anyaga és mérete miatt nem csökkenti a műemlék
 
 (4) Az engedély határozott időre is adható, a határozott idő letelte után kérelemre – amennyiben annak feltételei változatlanul fennállnak – meghosszabbítható.
 
-(5)[^13] Az engedély lejárta után a reklám, reklámhordozó eltávolításáért és az eredeti állapot visszaállításáért a reklám közzétevője [Rtv. 3. § k) pont] és a reklámozó [Rtv. 3. § l) pont] egyetemlegesen felelős.
+(5)[^17] Az engedély lejárta után a reklám, reklámhordozó eltávolításáért és az eredeti állapot visszaállításáért a reklám közzétevője [Rtv. 3. § k) pont] és a reklámozó [Rtv. 3. § l) pont] egyetemlegesen felelős.
 
-[^13]: A 10. § (5) bekezdése a 19/2010. (IV. 23.) OKM rendelet 5. § (6) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^17]: A 10. § (5) bekezdése a 19/2010. (IV. 23.) OKM rendelet 5. § (6) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

@@ -14,8 +14,8 @@ e) a befogadó nyilatkozatát az új helyen történő elhelyezés és a folyama
 
 (2) Műemlék tartozékát (alkotórészét) képező műemlékként védett képző- és iparművészeti alkotás áthelyezésére csak restaurátor szakember közreműködésével végezhető.
 
-(3)[^17] A Hivatal engedélye az abban foglalt határidő elteltéig hatályos.
+(3)[^21] A Hivatal engedélye az abban foglalt határidő elteltéig hatályos.
 
 (4) Az engedélyezett munkák befejezése vonatkozásában az 5. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-[^17]: A 13. § (3) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^21]: A 13. § (3) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
