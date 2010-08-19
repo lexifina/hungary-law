@@ -49,3 +49,5 @@ p) gyakorolja a törvényben, kormányrendeletben vagy kormányhatározatban sz�
 (5) A miniszter kivizsgálja a nemzetbiztonsági szolgálatok tevékenységével kapcsolatos panaszokat, a vizsgálat eredményéről és a megtett intézkedésekről 30 napon belül tájékoztatja a panaszost. Ez a határidő egy esetben 30 nappal meghosszabbítható.
 
 (6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntéselőkészítést támogató munkát.
+
+(7) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat irányításáért felelős miniszter gondoskodik e szervek belső bűnmegelőzési ellenőrzéséről.
