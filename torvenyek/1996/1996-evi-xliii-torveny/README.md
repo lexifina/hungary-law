@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-43-00-00
 | 2010-06-17 | 2010. évi LII. törvény | 1996-43-00-00.59 |
 | 2010-07-01 | 2009. évi CXLI. törvény | 1996-43-00-00.60 |
 | 2010-07-06 | 2010. évi LVIII. törvény | 1996-43-00-00.61 |
+| 2010-08-19 | 2010. évi LXXXVI. törvény | 1996-43-00-00.62 |

@@ -103,9 +103,3 @@ V. Az alkalmazási feltételek fontosabb adatai:
 – fizikai, pszichikai állapotra vonatkozó adatok.
 
 VI. A szolgálat teljesítésének adatai:
-
-– állományviszony,
-
-– a szolgálati viszony kezdete, kinevezés ideje,
-
-– a szolgálati viszonyra és a szolgálati időre vonatkozó adatok,
