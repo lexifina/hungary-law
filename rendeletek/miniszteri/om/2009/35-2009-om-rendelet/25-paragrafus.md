@@ -778,4 +778,4 @@ Melléklet 13. minta
 
 | A listát állító jelölő szervezet(ek) hivatalos neve: | (közös lista esetén a jelölő szervezetek neve az alábbi sorrendben lesz feltüntetve a szavazólapon) |
 
-[^6]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a szerint módosított szöveg.
+[^6]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a, a 8/2010. (VIII. 18.) KIM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 4. §-át.
