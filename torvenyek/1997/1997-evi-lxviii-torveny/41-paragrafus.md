@@ -1,4 +1,4 @@
-41. § (1) Az igazságügyi alkalmazott a vezetőnek a munkakör ellátására vonatkozó utasításait – a (2) bekezdésben foglalt kivétellel – köteles végrehajtani.
+41. § (1) Az igazságügyi alkalmazott a vezetőnek a munkakör ellátására vonatkozó utasításait – a bíróságok szervezetéről és igazgatásáról szóló törvényben és a (2) bekezdésben foglalt kivétellel – köteles végrehajtani.
 
 (2) Az utasítás végrehajtását az igazságügyi alkalmazott köteles megtagadni, ha
 
