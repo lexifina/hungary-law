@@ -1,4 +1,4 @@
-1. melléklet az 5/2010. (VII. 16.) KIM rendelethez
+1. melléklet az 5/2010. (VII. 16.) KIM rendelethez[^1]
 
 A helyi önkormányzati képviselők és polgármesterek, valamint a kisebbségi önkormányzatok tagjainak választásán használandó nyomtatványok
 
@@ -354,13 +354,13 @@ JELÖLT BEJELENTÉSE
 
 | ◻ polgármesterjelöltként ◻ főpolgármester-jelöltként ◻ egyéni listás jelöltként ◻ a . számú egyéni választókerületben képviselőjelöltként |
 
-|  | ◻nyilvántartásba vételem |
+|  | ◻ nyilvántartásba vételem |
 
-| ◻nyilvántartásba vett adataim módosítását (csak az (1) és a módosítással érintett pontot kell kitölteni) |
+| ◻ nyilvántartásba vett adataim módosítását (csak az (1) és a módosítással érintett pontot kell kitölteni) |
 
 (1) A jelölt családi neve:
 
-|  | utóneve(i): |
+| utóneve(i): |
 
 (2) A jelölt személyi azonosítója:
 
@@ -406,7 +406,7 @@ Melléklet 6. minta
 
 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Kelt: ………………………………………. , |  |  |  |  |  |  |  |  |  |  |  |
+| Kelt: ………………………………. , |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | a jelölt aláírása |
 
@@ -417,6 +417,8 @@ Melléklet 6. minta
 A jelölt nyilatkozatai
 
 | Kijelentem, hogy választójoggal rendelkezem, és a jelölést elfogadom. Nincs olyan tisztségem, amely összeférhetetlen a képviselői/polgármesteri/főpolgármesteri megbízatással, illetőleg megválasztásom esetén a képviselői/polgármesteri/főpolgármesteri megbízatással összeférhetetlen tisztségemről lemondok. ………………………….. saját kezű aláírás |
+
+| Kijelentem, hogy nem vagyok és a jelöltként történő bejelentésemet megelőző három évben nem voltam a Magyar Honvédség, a Rendőrség vagy a nemzetbiztonságiszolgálatok hivatásos állományú tagja, így az Alkotmány 40/B. § (4) bekezdése a választójogomat nem zárja ki. ………………………….. saját kezű aláírás |
 
 | Csak az Európai Unió más tagállama állampolgárának jelöltként történő bejelentése esetén: Nyilatkozom arról, hogy az állampolgárságom szerinti államban nem állok olyan jogszabályi, bírósági vagy más hatósági rendelkezés hatálya alatt, amely szerint nem vagyok választható. ………………………….. saját kezű aláírás |
 
@@ -479,3 +481,19 @@ A LISTÁT ÁLLÍTÓ JELÖLŐ SZERVEZET(EK) E NYOMTATVÁNYON A KÖVETKEZŐ SZEMÉ
 Melléklet 7. minta
 
 | L |  | ÖNKORMÁNYZATI VÁLASZTÁS |  | 3 |
+
+| A listát állító jelölő szervezet(ek) száma: |  |  |
+
+| A listát állító jelölő szervezet(ek) hivatalos neve: | (közös lista esetén a jelölő szervezetek neve az alábbi sorrendben lesz feltüntetve a szavazólapon) |
+
+| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. melléklet a 8/2010. (VIII. 18.) KIM rendelet 2. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. §-át.
