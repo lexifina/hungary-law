@@ -1,0 +1,5 @@
+## Nagyberuházás esetén folytatott megelőző feltárásra vonatkozó eltérő szabályok
+
+21. § (1) A beruházó a megelőző feltárásra vonatkozó engedély iránti kérelem benyújtását megelőzően, a nagyberuházás által érintett területen a terület régészeti érintettségének egyértelmű tisztázása, a régészeti örökségi elemekre vonatkozó ismeretek (különösen a lelőhely jellegének, korának, kiterjedésének és intenzitásának) megszerzése és pontosítása, valamint az ebből következően elvégzendő régészeti feladatellátás formájának, idő- és költségvonzatainak meghatározása érdekében, a 4. § (1) bekezdésében meghatározott régészeti feltárási módok – a régészeti megfigyelést kivéve – alkalmazásával előzetes dokumentációt köteles készíttetni a régészeti feltárásra jogosulttal.
+
+(2) Az előzetes dokumentáció elkészítése kiterjed a beruházás által érintett területre vonatkozó kulturális örökségvédelmi és helytörténeti szakirodalmi adatok, múzeumi, térképi, levéltári adatok, valamint fényképek részletes feldolgozására is.

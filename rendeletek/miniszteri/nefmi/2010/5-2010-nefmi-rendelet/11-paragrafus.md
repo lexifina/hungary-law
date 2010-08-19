@@ -1,0 +1,5 @@
+11. § (1) Amennyiben a feltárás során eredeti összefüggéseiben megmaradt régészeti emlékek kerülnek elő, erről a feltárás vezetője az engedélyes útján 5 munkanapon belül írásban bejelentést tesz a hatóságnak.
+
+(2) Az (1) bekezdés szerint bejelentett régészeti emlékek kezeléséről, helyszíni megtartásáról és a szükséges állagmegőrző intézkedésekről a bejelentés kézhezvételétől számított 10 munkanapon belül a hatóság határozatban dönt.
+
+(3) Ha a helyszínen megőrzendő régészeti emlékek megelőző feltárás során kerültek elő, ezekre a beruházás során a műszaki tervezésnek, illetve kivitelezésnek tekintettel kell lennie. Ebben az esetben az engedélyes a feltáró intézmény és a feltárás felelős vezetője útján köteles legkésőbb a feltárás terepi munkáinak befejezését követő 22 munkanapon belül adatot szolgáltatni a beruházónak és a hatóságnak. Az adatszolgáltatás során a rajzi dokumentáción egyértelműen fel kell tüntetni a bontható és a helyszínen – eredeti helyükön – megőrzendő régészeti emlékeket.
