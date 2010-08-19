@@ -14,4 +14,6 @@ d) az elkövető a lakóhelye szerint illetékes önkormányzat jegyzője igazol
 
 (3) Az elkövetőt ideiglenesen kell befogadni, ha a személyazonossága kétségessé válik, az elzárás végrehajtására vonatkozó határozat hiányos vagy kijavításra szorul, illetve, ha az elzárást foganatosító szerv az elzárás végrehajtását kizáró ok gyanúját észleli.
 
-(4) Ha az elzárást foganatosító szerv az elkövetőt a (2) bekezdés alapján nem fogadta be, erről haladéktalanul értesíti az elzárás végrehajtásáról gondoskodó szabálysértési hatóságot. Ideiglenes befogadás esetén az elzárást foganatosító szerv haladéktalanul megkeresi az illetékes szervet a személyazonosság tisztázása, illetve a szükséges iratok kiegészítése, kijavítása, pótlása iránt.
+(4)[^12] Ha az elzárást foganatosító szerv az elkövetőt a (2) bekezdés alapján nem fogadta be, erről haladéktalanul értesíti az elzárás végrehajtásáról gondoskodó szabálysértési hatóságot, valamint a fiatalkorú elkövető törvényes képviselőjét. Ideiglenes befogadás esetén az elzárást foganatosító szerv haladéktalanul megkeresi az illetékes szervet a személyazonosság tisztázása, illetve a szükséges iratok kiegészítése, kijavítása, pótlása iránt.
+
+[^12]: A 16. § (4) bekezdése az 1/2010. (VIII. 18.) BM rendelet 5. §-ával megállapított szöveg.

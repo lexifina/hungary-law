@@ -1,51 +1,59 @@
 ## Záró rendelkezések
 
-49. § (1)[^8]
+49. § (1)[^23]
 
-(2)[^9] Ez a rendelet a kihirdetése napján lép hatályba.
+(2)[^24] Ez a rendelet a kihirdetése napján lép hatályba.
 
-Melléklet a 7/2000. (III. 29.) IM–BM együttes rendelethez[^10]
+Melléklet a 7/2000. (III. 29.) IM–BM együttes rendelethez[^25]
 
 Az elzárás végrehajtására kijelölt büntetés-végrehajtási intézetek
 
-| A szabálysértési hatóság székhelye, illetőleg az elkövető lakóhelye | A kijelölt büntetés-végrehajtási intézet |
+Az elzárás végrehajtására kijelölt büntetés-végrehajtási intézetek
 
-| 1. Budapest főváros és Pest megye, Komárom-Esztergom megye | férfiak: Közép-Dunántúli Országos Büntetés-végrehajtási Intézet (Baracska) nők: Pálhalmai Országos Büntetés-végrehajtási Intézet (Pálhalma) |
+| Az elkövető lakóhelye szerint kijelölhető büntetés-végrehajtási intézet |
 
-| 2. Baranya megye | Baranya Megyei Büntetés-végrehajtási Intézet (Pécs) |
+|  | Az elkövető lakóhelye | Büntetés-végrehajtási intézet |
 
-| 3. Bács-Kiskun megye | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet (Kecskemét) |
+| 1 | Budapest főváros és Pest megye, Komárom-Esztergom megye | Közép-Dunántúli Országos Büntetés-végrehajtási Intézet – Baracska (férfiak) Pálhalmai Országos Büntetés-végrehajtási Intézet (nők) |
 
-| 4. Békés megye | Békés Megyei Büntetés-végrehajtási Intézet (Gyula) |
+| 2 | Baranya megye | Baranya Megyei Büntetés-végrehajtási Intézet (Pécs) |
 
-| 5. Borsod-Abaúj-Zemplén megye | Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet (Miskolc) |
+| 3 | Bács-Kiskun megye | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet (Kecskemét) |
 
-| 6. Csongrád megye | Szegedi Fegyház és Börtön (Szeged) |
+| 4 | Békés megye | Békés Megyei Büntetés-végrehajtási Intézet (Gyula) |
 
-| 7. Fejér megye | Közép-Dunántúli Országos Büntetés-végrehajtási Intézet |
+| 5 | Borsod-Abaúj-Zemplén megye | Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet (Miskolc) |
 
-| 8. Győr-Moson-Sopron megye | Győr-Moson-Sopron Megyei Büntetés-végrehajtási Intézet (Győr) |
+| 6 | Csongrád megye | Szegedi Fegyház és Börtön (Szeged) |
 
-| 9. Hajdú-Bihar megye | Hajdú-Bihar Megyei Büntetés-végrehajtási Intézet (Debrecen) |
+| 7 | Fejér megye | Közép-Dunántúli Országos Büntetés-végrehajtási Intézet (Székesfehérvár) |
 
-| 10. Heves megye | Heves Megyei Büntetés-végrehajtási Intézet (Eger) |
+| 8 | Győr-Moson-Sopron megye | Győr-Moson-Sopron Megyei Büntetés-végrehajtási Intézet (Győr) |
 
-| 11. Nógrád megye | Balassagyarmati Fegyház és Börtön (Balassagyarmat) |
+| 9 | Hajdú-Bihar megye | Hajdú-Bihar Megyei Büntetés-végrehajtási Intézet (Debrecen) |
 
-| 12. Somogy megye | Somogy Megyei Büntetés-végrehajtási Intézet (Kaposvár) |
+| 10 | Heves megye | Heves Megyei Büntetés-végrehajtási Intézet (Eger) |
 
-| 13. Szabolcs-Szatmár-Bereg megye | Szabolcs-Szatmár-Bereg Megyei Büntetés-végrehajtási Intézet (Nyíregyháza) |
+| 11 | Nógrád megye | Balassagyarmati Fegyház és Börtön (Balassagyarmat) |
 
-| 14. Jász-Nagykun-Szolnok megye | Jász-Nagykun-Szolnok Megyei Büntetés-végrehajtási Intézet (Szolnok) |
+| 12 | Somogy megye | Somogy Megyei Büntetés-végrehajtási Intézet (Kaposvár) |
 
-| 15. Tolna megye | Tolna Megyei Büntetés-végrehajtási Intézet (Szekszárd) |
+| 13 | Szabolcs-Szatmár-Bereg megye | Szabolcs-Szatmár-Bereg Megyei Büntetés-végrehajtási Intézet (Nyíregyháza) |
 
-| 16. Vas megye | Szombathelyi Országos Büntetés-végrehajtási Intézet (Szombathely) |
+| 14 | Jász-Nagykun-Szolnok megye | Jász-Nagykun-Szolnok Megyei Büntetés-végrehajtási Intézet (Szolnok) |
 
-| 17. Veszprém megye | Veszprém Megyei Büntetés-végrehajtási Intézet (Veszprém) |
+| 15 | Tolna megye | Tolna Megyei Büntetés-végrehajtási Intézet (Szekszárd) |
 
-| 18. Zala megye | Zala Megyei Büntetés-végrehajtási Intézet (Zalaegerszeg) |
+| 16 | Vas megye | Szombathelyi Országos Büntetés-végrehajtási Intézet (Szombathely) |
 
-[^8]: A 49. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 125. pontja hatályon kívül helyezte.
-[^9]: A 49. § (2) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 125. pontja hatályon kívül helyezte.
-[^10]: A melléklet a 35/2006. (XII. 26.) IRM rendelet 2. §-ával megállapított, valamint a 39/2007. (VIII. 14.) IRM rendelet 6. § (2) bekezdése és a 40/2007. (VIII. 14.) IRM rendelet 3. § (2) bekezdése, a 24/2008. (XI. 14.) IRM rendelet 4. §-a szerint módosított szöveg.
+| 17 | Veszprém megye | Veszprém Megyei Büntetés-végrehajtási Intézet (Veszprém) |
+
+| 18 | Zala megye | Zala Megyei Büntetés-végrehajtási Intézet (Zalaegerszeg) |
+
+| Fiatalkorúak elhelyezésére szolgáló, valamint indokolt esetben kijelölhető büntetés-végrehajtási intézetek |
+
+| 19 | Budapest főváros és az ország bármelyik megyéje | Fővárosi Büntetés-végrehajtási Intézet Állampusztai Országos Büntetés-végrehajtási Intézet Budapesti Fegyház és Börtön (férfiak) Szegedi Fegyház és Börtön (férfiak) Tiszalöki Országos Büntetés-végrehajtási Intézet (férfiak) Fiatalkorúak Büntetés-végrehajtási Intézete – Tököl (fiatalkorú férfiak) Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Kecskemét (fiatalkorú nők) Pálhalmai Országos Büntetés-végrehajtási Intézet (fiatalkorú nők) |
+
+[^23]: A 49. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 125. pontja hatályon kívül helyezte.
+[^24]: A 49. § (2) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 125. pontja hatályon kívül helyezte.
+[^25]: A Melléklet az 1/2010. (VIII. 18.) BM rendelet 8. §-ával megállapított szöveg.

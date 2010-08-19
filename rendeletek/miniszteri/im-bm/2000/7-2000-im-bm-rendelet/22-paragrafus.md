@@ -20,6 +20,8 @@ f) a jogorvoslatok előterjesztésének helyét és idejét.
 
 (4) Az étkezésre naponta háromszor kell időt biztosítani. Az étkezési idő főétkezésnél harminc perc, egyéb étkezésnél legalább húsz perc. A szabad levegőn tartózkodás tartama naponta legalább egy óra, ezt nem kell külön biztosítani azok részére, akik a szabadban dolgoznak.
 
-(5) Ha az elkövető engedély nélkül eltávozott, a szabálysértési hatóságot haladéktalanul értesíteni kell, annak közlésével, hogy az elkövető az elzárásból hány napot töltött ki. Az engedély nélküli távollét tartama az elzárás tartamába nem számít be. A közlés alapján a szabálysértési hatóság a 6. §, illetve a 8. § megfelelő rendelkezéseinek alkalmazásával intézkedik az elkövető elővezetésére. Az elkövető csak a szabálysértési hatóság újabb intézkedésére fogadható be.
+(5)[^13] Ha az elkövető engedély nélkül eltávozott, a szabálysértési hatóságot, valamint a fiatalkorú elkövető törvényes képviselőjét haladéktalanul értesíteni kell, annak közlésével, hogy az elkövető az elzárásból hány napot töltött ki. Az engedély nélküli távollét tartama az elzárás tartamába nem számít be. A közlés alapján a szabálysértési hatóság a 6. §, illetve a 8. § megfelelő rendelkezéseinek alkalmazásával intézkedik az elkövető elővezetésére. Az elkövető csak a szabálysértési hatóság újabb intézkedésére fogadható be.
 
 (6) Az elkövető fegyelmi felelősségre vonására, illetve a fogvatartással összefüggő kártérítésre vonatkozó rendelkezéseket külön jogszabályok tartalmazzák.
+
+[^13]: A 22. § (5) bekezdése az 1/2010. (VIII. 18.) BM rendelet 9. §-a szerint módosított szöveg.

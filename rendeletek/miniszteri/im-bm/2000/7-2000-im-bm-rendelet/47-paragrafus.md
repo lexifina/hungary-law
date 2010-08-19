@@ -12,6 +12,8 @@ c) ha az elzárás végrehajtását félbeszakítják,
 
 d) ha az elzárásra átváltoztatott pénzbírságot, illetve az elzárásból hátralevő tartamnak megfelelő részét megfizették.
 
-(2) Az elkövető szabadon bocsátásáról a szabálysértési hatóságot és a bíróságot haladéktalanul értesíteni kell.
+(2)[^22] Az elkövető szabadon bocsátásáról a szabálysértési hatóságot, a bíróságot, valamint a fiatalkorú elkövető törvényes képviselőjét haladéktalanul értesíteni kell.
 
 (3) A szabadítással kapcsolatban egyebekben az R. 147. §-át, 205. §-át, valamint 206. §-át kell alkalmazni.
+
+[^22]: A 47. § (2) bekezdése az 1/2010. (VIII. 18.) BM rendelet 9. §-a szerint módosított szöveg.
