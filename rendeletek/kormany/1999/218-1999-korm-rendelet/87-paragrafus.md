@@ -4,6 +4,6 @@
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^121] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve, az ÁNTSZ regionális vagy kistérségi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
+(2)[^118] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve, az ÁNTSZ regionális vagy kistérségi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
 
-[^121]: A 87. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^118]: A 87. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 10. §-ával megállapított szöveg.

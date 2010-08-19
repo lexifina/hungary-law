@@ -4,9 +4,9 @@
 
 harmincezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^172] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség hatáskörébe tartozik.
+(2)[^169] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség hatáskörébe tartozik.
 
-(3)[^173] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
+(3)[^170] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
 
-[^172]: A 139. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^173]: A 139. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^169]: A 139. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^170]: A 139. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.

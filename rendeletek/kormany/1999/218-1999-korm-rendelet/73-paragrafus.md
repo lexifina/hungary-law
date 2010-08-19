@@ -10,6 +10,6 @@ c) a vendéglátóipar értékesítő helyein a jogszabályban előírt tájéko
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^102] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
+(2)[^99] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
 
-[^102]: A 73. § (2) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
+[^99]: A 73. § (2) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.

@@ -4,8 +4,8 @@
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^118] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
+(2)[^115] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
 
 (3) Azt az élelmiszert, amelyre a szabálysértést elkövették, el lehet kobozni.
 
-[^118]: A 85. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^115]: A 85. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 8. §-ával megállapított szöveg.

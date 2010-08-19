@@ -12,11 +12,11 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^36] Az (1)–(2) bekezdésben meghatározott szabálysértés elkövetőjével szemben kiutasításnak is helye van.
+(3)[^33] Az (1)–(2) bekezdésben meghatározott szabálysértés elkövetőjével szemben kiutasításnak is helye van.
 
 (4) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-(5)[^37] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt a rendőrség helyszíni bírságot szabhat ki.
+(5)[^34] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt a rendőrség helyszíni bírságot szabhat ki.
 
-[^36]: A 22. § (3) bekezdése a 253/2004. (VIII. 31.) Korm. rendelet 52. §-a (2) bekezdésének d) pontja szerint módosított szöveg.
-[^37]: A 22. § (5) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^33]: A 22. § (3) bekezdése a 253/2004. (VIII. 31.) Korm. rendelet 52. §-a (2) bekezdésének d) pontja szerint módosított szöveg.
+[^34]: A 22. § (5) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
