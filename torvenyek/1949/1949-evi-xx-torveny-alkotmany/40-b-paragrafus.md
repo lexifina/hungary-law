@@ -4,6 +4,6 @@
 
 (3) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alkotmányban meghatározott keretek között kizárólag az Országgyűlés, a köztársasági elnök, a Honvédelmi Tanács, a Kormány és az illetékes miniszter jogosult.
 
-(4) A Magyar Honvédség, a Rendőrség és a nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
+(4) A Magyar Honvédség, a Rendőrség és a nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, politikai tevékenységet nem folytathatnak, továbbá szolgálati jogviszonyuk fennállása alatt és annak megszűnését vagy megszüntetését követő három évig nem indulhatnak jelöltként az országgyűlési képviselők választásán, az európai parlamenti választáson, a helyi önkormányzati képviselők és a polgármesterek, valamint a kisebbségi önkormányzati képviselők választásán.
 
 (5) A Magyar Honvédség nem hivatásos katonai állományú tagjának pártban való tevékenységére a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott törvény korlátokat állapíthat meg.
