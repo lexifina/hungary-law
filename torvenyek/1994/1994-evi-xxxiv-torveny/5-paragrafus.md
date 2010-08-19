@@ -20,6 +20,6 @@ i) kinevezi és felmenti – a nemzetközi szerződések és a Kormány felhatal
 
 j) jóváhagyja az államhatár rendjének fenntartása érdekében a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket,
 
-k) gondoskodik a Rendőrség belső bűnmegelőzési ellenőrzéséről, a bűncselekmények felderítéséről.
+k) gondoskodik a Rendőrség belső bűnmegelőzési ellenőrzéséről, külön jogszabály alapján egyes személyek védelméről, a terrorfenyegetettséggel összefüggő információk elemzéséről, a terrorcselekmények felszámolásáról, a fegyveres bűnözők elfogásáról, a bűncselekmények felderítéséről. Az e feladat végrehajtására létrehozott szervezetek a Rendőrségre vonatkozó szabályok szerint járnak el, személyi állományukra a Rendvédelmi Szervek Védelmi Szolgálatára vonatkozó jogszabályi rendelkezések az irányadók. Az Rtv. 92. § (1) bekezdése szerinti panaszt a belügyminiszter bírálja el.
 
 (2) A miniszter az irányítási jogkörében adott utasítással a Rendőrség hatáskörébe tartozó ügyet nem vonhat el, hatáskörének gyakorlását nem akadályozhatja.
