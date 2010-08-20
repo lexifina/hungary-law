@@ -8,6 +8,6 @@ c) a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról elnöki tájéko
 
 d) a halasztást nem tűrő ügyek eldöntése érdekében – a Tanács szervezeti és működési szabályzatában meghatározottak szerint – az ülések közötti időszakban rövid úton való szavazást kezdeményez;
 
-e) gyakorolja a munkáltatói jogokat a Tanács főtitkára (a továbbiakban: főtitkár), valamint a Közbeszerzési Döntőbizottság elnöke és elnökhelyettese vonatkozásában.
+e) gyakorolja a munkáltatói jogokat a Tanács főtitkára (a továbbiakban: főtitkár), a Tanács Titkárságának alkalmazottai, valamint a Közbeszerzési Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában.
 
 (2) A Tanács elnökét távolléte esetén az alelnök teljes jogkörrel helyettesíti.

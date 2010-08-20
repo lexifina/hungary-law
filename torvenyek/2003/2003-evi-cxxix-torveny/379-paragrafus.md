@@ -30,20 +30,22 @@ h) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzések Tanácsá
 
 i) honlapján közzéteszi a Közbeszerzési Döntőbizottság eljárását kezdeményező kérelem 396. § (1) bekezdés f) pontja szerinti adatait, a Közbeszerzési Döntőbizottság érdemi és a közbeszerzési ügy befejezését eredményező határozatát, továbbá a határozat bírósági felülvizsgálata esetén a bíróság határozatát (határozatait);
 
-j) kialakítja és működteti a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
+j) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
 
-k) a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót a Közbeszerzési Értesítőben közéteszi;
+k) a közbeszerzésekért felelős minisztériummal egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
 
 l) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és teljesítését [307. § (4) bekezdése];
 
 m) elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását;
 
-n) felügyeli, koordinálja, elősegíti a közbeszerzési eljárásban résztvevők oktatását és továbbképzését, részt vesz a hivatalos közbeszerzési tanácsadók kötelező továbbképzésére vonatkozó feltételrendszer kialakításában;
+n) a közbeszerzésekért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában;
 
-o) kapcsolatot tart más államok közbeszerzési szervezeteivel és nemzetközi szervezetekkel;
+o) kapcsolatot tart más államok közbeszerzési szervezeteivel;
 
-p) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát – így különösen a hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét –, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
+p) folyamatosan frissíti, karbantartja és honlapján közzéteszi az egyes ágazatokban szokásos vagy megállapított béreket és kapcsolódó közterheket;
 
-q) ellátja a részére törvényben előírt egyéb feladatokat.
+q) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát – így különösen a hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét –, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
+
+r) ellátja a részére törvényben előírt egyéb feladatokat.
 
 (3) A Tanács évente beszámolót készít az Országgyűlésnek tevékenységéről, a közbeszerzések tisztaságával és átláthatóságával kapcsolatos tapasztalatairól, valamint a jogorvoslati ügyek tapasztalatairól. A beszámolónak megállapításokat kell tartalmaznia a közbeszerzési eljárások számának és értékének alakulására, a hazai ajánlattevők és ezen belül a mikro-, kis- és középvállalkozások helyzetére vonatkozóan. A Tanács a beszámolót tájékoztatásul az Állami Számvevőszéknek is megküldi.

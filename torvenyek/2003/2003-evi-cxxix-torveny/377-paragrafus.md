@@ -6,7 +6,7 @@
 
 (4) A Tanács elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést [392. § (6) bekezdése] a Tanácsnak köteles megtenni.
 
-(5) A Tanács a tagok közül két évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel alelnököt választ.
+(5) A Tanács a tagok közül öt évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel alelnököt választ.
 
 (6) A Tanács elnökének, alelnökének és tagjainak megbízatása megszűnik
 
