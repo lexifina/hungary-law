@@ -1,3 +1,0 @@
-## 1. § Az elzárás, illetőleg a pénzbírságot helyettesítő elzárás végrehajtásának részletes szabályairól szóló 7/2000. (III. 29.) IM–BM együttes rendelet (a továbbiakban: IM–BM együttes rendelet) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha az elkövető szabálysértési őrizetben van, az elzárást – a (3) bekezdés esetén kívül – az őrizetbe vételt foganatosító rendőrség székhelye, egyébként lehetőleg az elkövető lakóhelye szerint illetékes büntetés-végrehajtási intézetben kell végrehajtani. Fiatalkorúak elhelyezésére, továbbá indokolt esetben a Melléklet 19. pontjában meghatározott büntetés-végrehajtási intézetek jelölhetők ki.”
