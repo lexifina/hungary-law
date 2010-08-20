@@ -1,0 +1,3 @@
+## „(7) A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező nagykorú kérelmezőnek magyar nyelven, saját kézzel írt önéletrajzot és két darab arcfényképet, kiskorú gyermeknek két darab arcfényképet kell csatolnia, továbbá mellékelnie kell a személyazonosító igazolvány kiadásához szükséges, külön jogszabályban meghatározott adatlapot.
+
+## (8) A honosítási és a visszahonosítási kérelemhez a külföldön élő nagykorú kérelmezőnek magyar nyelven, saját kézzel írt önéletrajzot és egy darab arcfényképet, a 14. életévét betöltött kérelmezőnek egy darab arcfényképet kell csatolnia.”
