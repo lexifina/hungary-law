@@ -1,0 +1,3 @@
+79. § A Kbt. 346. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Közbeszerzési Döntőbizottság érdemi határozata ellen fellebbezésnek, újrafelvételi eljárásnak helye nincs. Akinek jogát vagy jogos érdekét a Közbeszerzési Döntőbizottság érdemi határozata sérti, illetőleg a Közbeszerzési Döntőbizottság eljárását a 327. § (1) bekezdése alapján kezdeményező szervezet vagy személy keresettel kérheti a bíróságtól annak felülvizsgálatát. A felülvizsgálat kérésének indoka nemcsak a Közbeszerzési Döntőbizottság jogszabálysértése lehet, hanem az a körülmény is, ha a felperes szerint a Közbeszerzési Döntőbizottság nem megfelelően értékelte, minősítette a kérelmezett korábbi eljárását, döntését e törvény szabályaira tekintettel.”
