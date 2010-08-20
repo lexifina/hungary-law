@@ -1,8 +1,8 @@
 | A Magyar Köztársaság Elnökének Budapest | fénykép helye |  | fénykép helye |
 
-## HONOSÍTÁSI – VISSZAHONOSÍTÁSI – KÉRELEM
+## HONOSÍTÁSI KÉRELEM
 
-## Alulírott ....................................…………… és házastársam, …………............................................. kérem/kérjük, hogy ...................................................................................................................... nevű kiskorú, cselekvőképtelen nagykorú gyermeke(immel/inkkel)[^*] az 1993. évi LV. törvény alapján honosítani – visszahonosítani – és erről részemre/részünkre okiratot kiállítani szíveskedjék.
+## Alulírott ....................................…………… és házastársam, …………............................................. kérem/kérjük, hogy ...................................................................................................................... nevű kiskorú, cselekvőképtelen nagykorú gyermeke(immel/inkkel)[^*] az 1993. évi LV. törvény alapján honosítani és erről részemre/részünkre okiratot kiállítani szíveskedjék.
 
 ## A KÉRELMEZŐ
 
@@ -306,7 +306,7 @@
 
 |  | kérelmező aláírása |
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^51]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^57]
 
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő.
-[^51]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^57]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

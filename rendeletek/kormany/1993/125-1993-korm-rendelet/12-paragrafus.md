@@ -1,8 +1,8 @@
-## 11. §[^33]
+## 11. §[^36]
 
 ## Határozat
 
-## 12. §[^34]
+## 12. §[^37]
 
 (1) A köztársasági elnök döntését a honosításról, a visszahonosításról és a lemondás elfogadásáról szóló okirat tartalmazza.
 
@@ -16,5 +16,5 @@ c) a döntés alapjául szolgáló tényeket, bizonyítékokat és jogszabályi 
 
 d) a határozat hozatalának helyét, idejét, aláírójának nevét, a határozatot hozó szerv bélyegzőlenyomatát.
 
-[^33]: A 11. §-t a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
-[^34]: A 12. § a 116/2007. (V. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^36]: A 11. §-t a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^37]: A 12. § a 116/2007. (V. 24.) Korm. rendelet 9. §-ával megállapított szöveg.

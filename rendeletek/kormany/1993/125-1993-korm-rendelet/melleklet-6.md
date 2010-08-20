@@ -108,8 +108,8 @@
 
 ## P. H.
 
-6. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^56]
+6. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^62]
 
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő!
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő!
-[^56]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 116/2007. (V. 24.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^62]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 116/2007. (V. 24.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.

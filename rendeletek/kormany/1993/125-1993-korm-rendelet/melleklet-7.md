@@ -84,6 +84,6 @@
 
 |  | anyakönyvvezető/konzul aláírása |
 
-7. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^57]
+7. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^63]
 
-[^57]: A 7. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 119/2005. (VII. 28.) Korm. rendelet 9. §-ával megállapított, valamint a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének a) pontja, a 366/2006. (XII. 28.) Korm. rendelet 5. § (5) bekezdése, a 116/2007. (V. 24.) Korm. rendelet 12. § (2) bekezdésének b) pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. § 42. pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 51. pontja, a 117/2009. (VI. 4.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^63]: A 7. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés c) pontjával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.

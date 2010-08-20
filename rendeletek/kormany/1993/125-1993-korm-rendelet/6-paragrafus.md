@@ -8,9 +8,9 @@ a) a születési anyakönyvi kivonatát, a családi állapotát igazoló iratoka
 
 b) a külföldi állampolgárság igazolására az illetékes külföldi hatóság által kiadott bizonyítványt vagy olyan igazolást, mely a külföldi állampolgárság megszerzését valószínűsíti (ígérvény);
 
-c)[^21]
+c)[^24]
 
-(2)[^22]
+(2)[^25]
 
-[^21]: A 6. § (1) bekezdésének c) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
-[^22]: A 6. § (2) bekezdését a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^24]: A 6. § (1) bekezdésének c) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^25]: A 6. § (2) bekezdését a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
