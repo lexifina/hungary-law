@@ -1,12 +1,12 @@
 ## Névmódosítás
 
-20/A. § (1) A honosítást vagy visszahonosítást kérő külföldi egyidejűleg kérheti
+20/A. § (1) A honosítást kérő külföldi egyidejűleg kérheti
 
-a) azt, hogy saját vagy felmenője egykori magyar családi nevét viselhesse;
+a) hogy saját vagy felmenője egykori magyar születési családi nevét viselhesse;
 
-b) többtagú családi nevéből egy vagy több tag, valamint a nemre utaló végződés vagy névelem elhagyását;
+b) többtagú születési családi nevéből egy vagy több tag, valamint születési és házassági nevéből a nemre utaló végződés vagy névelem elhagyását;
 
-c) családi nevének magyarra fordítását;
+c) utónevének magyar megfelelőjét.
 
 (2) A névmódosítási kérelmet okirattal vagy szakvéleménnyel kell alátámasztani.
 
