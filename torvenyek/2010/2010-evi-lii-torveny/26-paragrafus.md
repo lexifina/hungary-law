@@ -2,9 +2,9 @@
 
 26. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
 
-(2) E törvény 39. § (2) bekezdése 2010. október 1-jén lép hatályba.
+(2)
 
-(3) E törvény 39. § (2) bekezdését a hatálybalépését követően kötött vagy a javadalmazási részében módosított szerződésekre kell alkalmazni.
+(3)
 
 (4) A Nemzeti Vagyongazdálkodási Tanács, illetve a Vtv. 3. §-a alapján fennálló, az állami vagyon feletti tulajdonosi joggyakorlásra vonatkozó jogköre, valamint az Ellenőrző Bizottság, illetve a Vtv. 12. § (1) bekezdése alapján fennálló, az állami vagyonnal való gazdálkodás ellenőrzésére vonatkozó jogköre e törvény hatálybalépésének napján megszűnik.
 

@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-52-00-00
 | --- | --- | --- |
 | 2010-06-17 | 2010. évi LII. törvény | 2010-52-00-00.0 (közlönyállapot) |
 | 2010-06-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-52-00-00.1 |
+| 2010-08-21 | 2010. évi XC. törvény | 2010-52-00-00.2 |
