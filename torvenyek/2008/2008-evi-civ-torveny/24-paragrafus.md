@@ -4,6 +4,8 @@
 
 (2) A 2010. december 31-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek a 4–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
 
+(3) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 127. és 128. §-ával megállapított 10. § (2a) bekezdés, 12. § (6) és (7) bekezdés a hatálybalépését megelőzően megvalósult tőkeemelésre is alkalmazható.
+
 ## Melléklet a 2008. évi CIV. törvényhez
 
 1. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
