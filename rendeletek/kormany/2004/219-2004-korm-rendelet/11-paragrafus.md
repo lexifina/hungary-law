@@ -20,6 +20,6 @@ c) nem veszélyezteti a környezeti elemek – különösen a felszín alatti vi
 
 d) az a), b) és c) pontokban foglaltak teljesülése ellenőrzött.
 
-(4)[^72] Az (1)–(3) bekezdésekben, valamint a 10. §-ban foglalt előírásokból következő intézkedéseket bele kell foglalni a külön jogszabály szerinti vízgyűjtő-gazdálkodási terv intézkedési programjába.
+(4)[^73] Az (1)–(3) bekezdésekben, valamint a 10. §-ban foglalt előírásokból következő intézkedéseket bele kell foglalni a külön jogszabály szerinti vízgyűjtő-gazdálkodási terv intézkedési programjába.
 
-[^72]: A 11. § (4) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^73]: A 11. § (4) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

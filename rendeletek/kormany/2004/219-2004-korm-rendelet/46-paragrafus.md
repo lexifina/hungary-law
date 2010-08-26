@@ -1,3 +1,3 @@
-## 45. §[^239]
+## 45. §[^240]
 
-[^239]: A 45. §-t a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^240]: A 45. §-t a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.

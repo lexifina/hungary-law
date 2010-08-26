@@ -26,6 +26,12 @@ ad)[^71] a felszín alatti vizek állapota szempontjából fokozottan érzékeny
 
 b) a felszín alatti vízbe veszélyes anyagok közvetett bevezetése. Ezt a követelményt kell alkalmazni az olyan területen levő, vagy olyan területre ráfolyó időszakos vízfolyásba történő bevezetés esetén is, ahol a felszín alatti víz szintje tartósan alacsonyabban van, mint a vízfolyás fenékszintje.
 
+(2a)[^72] Karsztos területen levő, illetve arra ráfolyó vagy azon átfolyó vízfolyásba vagy időszakos vízfolyásba történő bevezetés – beleértve a tisztított szennyvíz bevezetését is – esetén vizsgálni kell a víz útját. A felszín alatti vízbe történő közvetlen bevezetésre vonatkozó előírásokat kell alkalmazni, ha
+
+a) az időszakos vízfolyás a természet védelméről szóló törvényben meghatározott víznyelőt táplál, vagy
+
+b) a meder bármely, a bevezetés alatti szakaszán a vízfolyás középvízhozamának legalább 20%-a 100 méteren belül a karsztrendszerbe szivároghat.
+
 (3) A feltétlenül szükséges legkisebb mennyiségű szennyező anyag bevezetése felszín alatti vízbe, földtani közegbe – más jogszabályban meghatározott bármely szigorúbb követelmény sérelme nélkül – a 13. § szerint engedélyezhető:
 
 a) tudományos kutatási célból a felszín alatti vizek állapotának, mennyiségi és minőségi jellemzőinek feltárására, vagy
@@ -58,3 +64,4 @@ b) műszakilag nem előzhető meg, illetve nem korlátozható az emberi egészs�
 
 [^70]: A 10. § a 302/2008. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^71]: A 10. § (2) bekezdés a) pont ad) alpontja a 147/2010. (IV. 29.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg.
+[^72]: A 10. § (2a) bekezdését a 230/2010. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.

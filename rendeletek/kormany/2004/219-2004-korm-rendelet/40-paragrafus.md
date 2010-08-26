@@ -4,9 +4,9 @@
 
 (2) A szűkített tényfeltárás a felszín alatti vízbe közvetlenül bevezetett, illetőleg a felszín alatti vizet veszélyeztető anyagok minőségének, mennyiségének megállapítására, a felszín alatti vízbe jutó szennyező anyag lehatolási mélységének meghatározására terjed ki.
 
-(3)[^219] A bírságot a felügyelőség a szűkített tényfeltárás elfogadását követően annak eredményei, illetve hatósági mérések alapján állapítja meg, függetlenül a kármentesítési beavatkozás elrendelésétől.
+(3)[^220] A bírságot a felügyelőség a szűkített tényfeltárás elfogadását követően annak eredményei, illetve hatósági mérések alapján állapítja meg, függetlenül a kármentesítési beavatkozás elrendelésétől.
 
-(4)[^220] Ha kármentesítési beavatkozás elrendelésére is sor kerül, a szennyezettségi, károsodási tényező (FABb) szerinti bírság elrendelése a 36. § (4) bekezdésében foglaltak szerint történik.
+(4)[^221] Ha kármentesítési beavatkozás elrendelésére is sor kerül, a szennyezettségi, károsodási tényező (FABb) szerinti bírság elrendelése a 36. § (4) bekezdésében foglaltak szerint történik.
 
-[^219]: A 40. § (3) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 359. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^220]: A 40. § (4) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^220]: A 40. § (3) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 359. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^221]: A 40. § (4) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
