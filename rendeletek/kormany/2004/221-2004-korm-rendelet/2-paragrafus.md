@@ -26,7 +26,7 @@ k) a víztestek jó állapota: olyan jellemző állapot, amelyben a felszíni v�
 
 l) ökológiai állapot: a felszíni vizekhez kapcsolódó vízi ökoszisztémák szerkezetének és működése minőségének leírása, összhangban a külön jogszabályokban meghatározott osztályozással (a továbbiakban: osztályozás);
 
-m)[^9] jó ökológiai állapot: a felszíni víztest állapota, a felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló külön jogszabálynak megfelelő osztályozás szerint;
+m)[^9]
 
 n) ökológiai potenciál: erősen módosított, illetőleg mesterséges felszíni víztesten várhatóan kialakuló és állandóan fenntartható életközösség, valamint egy vagy több hasonló természetes vagy természeteshez közeli élőhelyre jellemző élőlény-együttes minőségi és mennyiségi jellegű összehasonlítása alapján meghatározható, továbbá osztályozható állapota;
 
@@ -48,6 +48,6 @@ t)[^11] Duna közvetlen részvízgyűjtő: Magyarország területén a Dunához 
 [^6]: A 2. § g) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: Lásd a 219/2004. (VII. 21.) Korm. rendeletet.
 [^8]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről, 220/2004. (VII. 21.) Korm. rendelet a felszíni vizek minősége védelmének szabályairól [A lábjegyzet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.]
-[^9]: A 2. § m) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. § m) pontját a 230/2010. (VIII. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
 [^10]: A 2. § r) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^11]: A 2. § t) pontját a 314/2008. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
