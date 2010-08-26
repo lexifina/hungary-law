@@ -8,6 +8,6 @@ c) a környezet szennyezésének megelőzését, a káros hatások, illetve ezek
 
 d) a balesetek megelőzését és a bekövetkezett balesetek környezeti következményeinek csökkentését;
 
-e)[^22] a tevékenység felhagyása esetén, az esetleges további szennyezések, károsodások kockázatának elkerüléséhez és a működési terület környezetvédelmi szempontból megfelelő állapotának visszaállításához szükséges, megkövetelt intézkedéseket.
+e)[^33] a tevékenység felhagyása esetén, az esetleges további szennyezések, károsodások kockázatának elkerüléséhez és a működési terület környezetvédelmi szempontból megfelelő állapotának visszaállításához szükséges, megkövetelt intézkedéseket.
 
-[^22]: A 13. § e) pontja a 93/2007. (IV. 26.) Korm. rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^33]: A 13. § e) pontja a 93/2007. (IV. 26.) Korm. rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.

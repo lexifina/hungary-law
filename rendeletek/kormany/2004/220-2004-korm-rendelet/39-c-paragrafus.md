@@ -1,6 +1,6 @@
-## Tényfeltárás[^101]
+## Tényfeltárás[^114]
 
-39/C. §[^102] (1) A tényfeltárás
+39/C. §[^115] (1) A tényfeltárás
 
 a) amennyiben a környezetkárosodás megállapításának bonyolultsága azt szükségessé teszi, tényfeltárási terv készítéséből,
 
@@ -26,9 +26,9 @@ d) a tényfeltárási záródokumentáció benyújtási határidejét.
 
 (5) A (4) bekezdés szerinti tényfeltárási terv elfogadásáról a felügyelőség dönt.
 
-(6)[^103] A tényfeltárási munkák megkezdését 5 munkanapon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a felügyelőségnek.
+(6)[^116] A tényfeltárási munkák megkezdését 5 munkanapon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a felügyelőségnek.
 
-(7)[^104] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a felügyelőség 5 munkanapon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
+(7)[^117] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a felügyelőség 5 munkanapon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
 
 (8) A tényfeltárást és annak eredményeit dokumentálni kell. A tényfeltárási záródokumentációt a (9) bekezdés szerint kell összeállítani és benyújtani a felügyelőséghez.
 
@@ -56,7 +56,7 @@ c) a tényfeltárást követő monitorozás elrendeléséről;
 
 d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy a további kármentesítési munkára nincs szükség.
 
-[^101]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^102]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^103]: A 39/C. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^104]: A 39/C. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^114]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^115]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^116]: A 39/C. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^117]: A 39/C. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

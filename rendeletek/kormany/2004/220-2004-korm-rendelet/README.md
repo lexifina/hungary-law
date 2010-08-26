@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-220-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-31 | 2004-220-20-22.11 | 220/2004. (VII. 21.) Korm. rendelet |
+| 2010-08-26 | 2004-220-20-22.12 | 230/2010. (VIII. 18.) Korm. rendelet |

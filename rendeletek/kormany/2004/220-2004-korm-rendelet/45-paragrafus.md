@@ -1,20 +1,20 @@
-## 44. §[^121] A miniszter az e rendeletben meghatározott elsőbbségi anyagok kibocsátási és környezetminőségi (vízszenyezettségi) határértékeit és a felszíni vízbe vezetésre vonatkozó szabályokat rendeletben állapítja meg, amennyiben erről 2006. december 22-ig az Európai Közösség tagállamai között közösségi szintű megegyezés nem jön létre. Az elsőbbségi listára később felvett anyagok esetében – közösségi szintű megegyezés hiányában – a miniszter a kibocsátási és vízszennyezettségi határértékeket az anyag listára kerülésétől számított öt éven belül állapítja meg.
+## 44. §[^135] A miniszter az e rendeletben meghatározott elsőbbségi anyagok kibocsátási és környezetminőségi (vízszenyezettségi) határértékeit és a felszíni vízbe vezetésre vonatkozó szabályokat rendeletben állapítja meg, amennyiben erről 2006. december 22-ig az Európai Közösség tagállamai között közösségi szintű megegyezés nem jön létre. Az elsőbbségi listára később felvett anyagok esetében – közösségi szintű megegyezés hiányában – a miniszter a kibocsátási és vízszennyezettségi határértékeket az anyag listára kerülésétől számított öt éven belül állapítja meg.
 
-## 45. §[^122] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 45. §[^136] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 91/271/EGK irányelve (1991. május 21.) a települési szennyvíz kezeléséről,
+a) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv,
 
-b) a Tanács 96/61/EK irányelve (1996. szeptember 24.) a környezetszennyezés integrált megelőzéséről és csökkentéséről, 2. cikk, 3. cikk és 18. cikk,
+b) a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló, 1996. szeptember 24-i 96/61/EK tanácsi irányelv 2. cikk, 3. cikk és 18. cikk,
 
-c) az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról, valamint
+c) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és a tanácsi irányelv,
 
-d) az Európai Parlament és a Tanács 2006/11/EK irányelve (2006. február 15.) a Közösség vízi környezetébe bocsátott egyes veszélyes anyagok által okozott szennyezésről,
+d) a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és a tanácsi irányelv,
 
-e)[^123] az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről,
+e) a Közösség vízi környezetébe bocsátott egyes veszélyes anyagok által okozott szennyezésről szóló, 2006. február 15-i 2006/11/EK európai parlamenti és a tanácsi irányelv,
 
-f)[^124] az Európai Parlament és a Tanács 166/2006/EK rendelete (2006. január 18.) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról.
+f) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2006. január 18-i 166/2006/EK európai parlamenti és a tanácsi rendelet, valamint
 
-[^121]: A 44. § a 208/2006. (X. 16.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^122]: A 45. § a 208/2006. (X. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^123]: A 45. § e) pontját a 93/2007. (IV. 26.) Korm. rendelet 6. §-a iktatta be.
-[^124]: A 45. § f) pontját a 194/2007. (VII. 25.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 10. § (2)–(4) bekezdését.
+g) a vízpolitika területén a környezetminőségi előírásokról, a 82/176/EGK, a 83/513/EGK, a 84/156/EGK és a 86/280/EGK tanácsi irányelv módosításáról és az azt követő hatályon kívül helyezéséről, valamint a 2000/60/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2008. december 16-i 2008/105/EK európai parlamenti és a tanácsi irányelv.
+
+[^135]: A 44. § a 208/2006. (X. 16.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^136]: A 45. § a 230/2010. (VIII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.

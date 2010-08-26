@@ -6,19 +6,19 @@
 
 2. a felszíni víz állapota: olyan általánosan jellemző állapot, amelyet a felszíni víztest ökológiai és kémiai állapota közül a kevésbé jó határoz meg;
 
-3. a felszíni víz jó állapota: olyan jellemző állapot, amelyben a külön jogszabályok szerinti ökológiai és kémiai állapot jó minősítésű;
+3.[^4] a felszíni víz jó állapota: olyan jellemző állapot, amelyben a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerinti ökológiai és kémiai állapot jó minősítésű;
 
 4. a felszíni víz jó kémiai állapota: a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító kémiai állapot, amely azzal jellemezhető, hogy a felszíni vízben található szennyező anyagok koncentrációja nem haladja meg a környezetminőségi határértékek által meghatározott koncentráció szintjét;
 
-5. környezeti célkitűzés: a felszíni víz adott időpontig elérni kívánt ökológiai és kémiai állapota, melynek jellemzőit a vonatkoztatható referencia feltételek és külön jogszabályok határozzák meg;
+5.[^5] környezeti célkitűzés: a felszíni víz adott időpontig elérni kívánt ökológiai és kémiai állapota, melynek jellemzőit a vonatkoztatható referencia feltételek és a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet határozzák meg;
 
 6. befogadó: a felszíni víz, valamint annak medre;
 
-7.[^2] befogadó terhelhetősége: előzetes vízszennyezettségi vizsgálatok és a vonatkozó vízszennyezettségi határérték alapján az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) által megállapított olyan mértékű, még megengedhető terhelés, amely mellett még biztosítható a környezeti célkitűzés elérése;
+7.[^6] befogadó terhelhetősége: előzetes vízszennyezettségi vizsgálatok és a vonatkozó vízszennyezettségi határérték alapján az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) által megállapított olyan mértékű, még megengedhető terhelés, amely mellett még biztosítható a környezeti célkitűzés elérése;
 
 8. vízszennyezettség: a felszíni vízben a vízszennyező anyaggal történő terhelés (vízterhelés) hatására kialakult vízszennyező anyag koncentráció;
 
-9. környezetminőségi határérték: a felszíni víztest adott szennyező anyagának külön jogszabályokban meghatározott megengedhető legnagyobb koncentrációja, illetve mennyisége (a továbbiakban: vízszennyezettségi határérték);
+9.[^7] környezetminőségi határérték: elsőbbségi anyagok és egyéb veszélyes anyagok, anyagcsoportok olyan mértékű, még megengedett koncentrációja felszíni vízben vagy biótában, amelynek meghaladása a felszíni víz jó kémiai állapotának nem megfelelését okozza;
 
 10. mértékadó vízszennyezettség: a vizsgált vízszennyező forrás környezetében kialakult, más vízszennyező források által okozott, meghatározott időtartamra vonatkoztatott jellemző vízszennyezettség, amelyhez a vizsgált vízszennyező forrás kibocsátásának hatása hozzáadódik;
 
@@ -40,11 +40,11 @@
 
 19. kibocsátó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki tevékenysége során szennyvizet (használt vizet) közvetlenül vagy közvetve befogadóba vezeti;
 
-20.[^3] szennyvíz: a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat – illetve az üzemi területen összegyűlő csapadékvizek esetében bemosódás vagy keveredés – következtében fizikai, kémiai vagy biológiai minőségében megváltozott, vízszennyező anyagot tartalmazó víz;
+20.[^8] szennyvíz: a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat – illetve az üzemi területen összegyűlő csapadékvizek esetében bemosódás vagy keveredés – következtében fizikai, kémiai vagy biológiai minőségében megváltozott, vízszennyező anyagot tartalmazó víz;
 
 21. a felszíni vízbe való közvetlen bevezetés (a továbbiakban: közvetlen bevezetés): a kibocsátott szennyvíz (használt víz) további tisztítás nélküli befogadóba vezetése;
 
-22. a felszíni vízbe való közvetett bevezetés (a továbbiakban: közvetett bevezetés): a telephelyről kibocsátott szennyvíz (használt víz) közcsatornán vagy egyéb csatornán (a továbbiakban: közös üzemi csatornán) való elvezetése, illetve a külön jogszabály[^4] szerinti háztartási szennyvíznek nem minősülő szippantott szennyvíz közcsatornába vagy közös üzemi (ipari) csatornába bocsátása és további tisztítás után történő befogadóba vezetése;
+22.[^9] a felszíni vízbe való közvetett bevezetés (a továbbiakban: közvetett bevezetés): a telephelyről kibocsátott szennyvíz (használt víz) közcsatornán vagy egyéb csatornán (a továbbiakban: közös üzemi csatornán) való elvezetése, illetve a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló kormányrendelet szerinti háztartási szennyvíznek nem minősülő szippantott szennyvíz közcsatornába vagy közös üzemi (ipari) csatornába bocsátása és további tisztítás után történő befogadóba vezetése;
 
 23. vízszennyezés: vízszennyező anyagnak az engedélyezett kibocsátási határértékét meghaladó mértékű, közvetlen vagy közvetett befogadóba vezetése;
 
@@ -52,13 +52,13 @@
 
 25. higítás: ha a kibocsátás az engedélyezett (üzemnapra, illetve egyéves időszakra vonatkozó) szennyvízmennyiséget indokolatlanul túllépi, továbbá ha a kibocsátó a szennyvízmintavétel ideje alatt friss vizet kever a szennyvízhez a mintavételi pont előtt, a kibocsátási határérték teljesítése érdekében;
 
-26. vízszennyező anyag kibocsátási határértéke (a továbbiakban: kibocsátási határérték): külön jogszabályban[^5] meghatározott keretek között, hatósági határozatban előírt – közvetlen vagy közvetett úton – a felszíni vízbe, illetve közcsatornába, közös üzemi csatornába vezethető szennyező anyag mértéke. Az adott szennyező anyagra vonatkozó határérték megadható koncentrációban, tömegáramban, előállított termékegységre, felhasznált anyagmennyiségre, gyártási kapacitásra vonatkozó fajlagos mennyiségben, illetve százalékos csökkentési hatásfokban;
+26.[^10] vízszennyező anyag kibocsátási határértéke (a továbbiakban: kibocsátási határérték): a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott keretek között, hatósági határozatban előírt – közvetlen vagy közvetett úton – a felszíni vízbe, illetve közcsatornába, közös üzemi csatornába vezethető szennyező anyag mértéke. Az adott szennyező anyagra vonatkozó határérték megadható koncentrációban, tömegáramban, előállított termékegységre, felhasznált anyagmennyiségre, gyártási kapacitásra vonatkozó fajlagos mennyiségben, illetve százalékos csökkentési hatásfokban;
 
-27. kombinált módszer: a kibocsátásra és a szennyvizek befogadóba vezetésére külön jogszabály[^6] szerinti kibocsátási határértékek, valamint az elérhető legjobb technika, illetve nem pontszerű (diffúz) szennyezések esetén a legjobb környezeti gyakorlat komplex – kombinált – alkalmazása egy adott kibocsátás szabályozása során;
+27.[^11] kombinált módszer: a kibocsátásra és a szennyvizek befogadóba vezetésére a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerinti kibocsátási határértékek, valamint az elérhető legjobb technika, illetve nem pontszerű (diffúz) szennyezések esetén a legjobb környezeti gyakorlat komplex – kombinált – alkalmazása egy adott kibocsátás szabályozása során;
 
 28. küszöbérték: jogszabályban, jogszabályi keretek között hatósági határozatban meghatározott kibocsátási határérték, mely a közcsatornába vezethető szennyező anyag minőségét és megengedett mértékét határozza meg;
 
-29. közcsatorna: a külön jogszabály[^7] szerinti szennyvízelvezető mű, valamint a települési szennyvíztisztító telep vagy szennyvíztisztító telep nélküli közüzemi szolgáltatást biztosító szennyvízelvezető, -gyűjtő rendszer;
+29.[^12] közcsatorna: a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló kormányrendelet szerinti szennyvízelvezető mű, valamint a települési szennyvíztisztító telep vagy szennyvíztisztító telep nélküli közüzemi szolgáltatást biztosító szennyvízelvezető, -gyűjtő rendszer;
 
 30. közcsatornába bocsátó: az a kibocsátó, aki közcsatornába szennyvizet, csapadékvizet bocsát;
 
@@ -76,24 +76,42 @@
 
 37. meglévő létesítmény, meglévő tevékenység (a továbbiakban együtt: meglévő létesítmény): 2003. január 1. előtt kiadott vízjogi létesítési vagy építési, illetve fennmaradási engedély alapján engedélyezett létesítmény;
 
-38.[^8] használt víz: a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat következtében csak fizikai tulajdonságaiban megváltozott víz;
+38.[^13] használt víz: a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat következtében csak fizikai tulajdonságaiban megváltozott víz;
 
-39.[^9] felszíni vízben okozott károsodás: a felszíni víz ökológiai, kémiai, illetve mennyiségi állapotában, illetve ökológiai potenciáljában közvetlenül vagy közvetve bekövetkező, mérhető, jelentős és kedvezőtlen változás, illetve a felszíni víz által nyújtott szolgáltatás közvetlen vagy közvetett mérhető jelentős romlása;
+39.[^14] felszíni vízben okozott károsodás: a felszíni víz ökológiai, kémiai, illetve mennyiségi állapotában, illetve ökológiai potenciáljában közvetlenül vagy közvetve bekövetkező, mérhető, jelentős és kedvezőtlen változás, illetve a felszíni víz által nyújtott szolgáltatás közvetlen vagy közvetett mérhető jelentős romlása;
 
-40.[^10] regeneráció: az a folyamat, illetve tevékenység – ideértve a természetes regenerálódást is –, amelynek erdeményeképpen a károsodott állapot megszűnik, a károsodott felszíni víz, illetve az általa nyújtott, károsodott szolgáltatás visszaáll az eredeti állapotba;
+40.[^15] regeneráció: az a folyamat, illetve tevékenység – ideértve a természetes regenerálódást is –, amelynek erdeményeképpen a károsodott állapot megszűnik, a károsodott felszíni víz, illetve az általa nyújtott, károsodott szolgáltatás visszaáll az eredeti állapotba;
 
-41.[^11] kármentesítés: olyan helyreállítási intézkedés, amely a felszíni víz károsodásának enyhítésére, az eredeti állapot vagy ahhoz közeli állapot helyreállítására, valamint a felszíni víz által nyújtott szolgáltatás helyreállítására vagy azzal egyenértékű szolgáltatás biztosítására irányul, így különösen olyan műszaki, gazdasági és igazgatási tevékenység, amely a veszélyeztetett, szennyezett, károsodott felszíni víz megismerése, illetőleg a szennyezettség, károsodás és a kockázat mértékének csökkentése, megszüntetése, továbbá monitorozása érdekében szükséges;
+41.[^16] kármentesítés: olyan helyreállítási intézkedés, amely a felszíni víz károsodásának enyhítésére, az eredeti állapot vagy ahhoz közeli állapot helyreállítására, valamint a felszíni víz által nyújtott szolgáltatás helyreállítására vagy azzal egyenértékű szolgáltatás biztosítására irányul, így különösen olyan műszaki, gazdasági és igazgatási tevékenység, amely a veszélyeztetett, szennyezett, károsodott felszíni víz megismerése, illetőleg a szennyezettség, károsodás és a kockázat mértékének csökkentése, megszüntetése, továbbá monitorozása érdekében szükséges;
 
-42.[^12] diffúz források: nem pontszerű források, illetve sok kisebb vagy elszórt forrás, amelyekből a szennyező anyagok a vízbe kerülhetnek kibocsátásra, amelyek a felszíni vizekre gyakorolt együttes hatása jelentős lehet, és amelyek esetében nem praktikus a jelentések begyűjtése egyedileg minden forrásból.
+42.[^17] diffúz források: nem pontszerű források, illetve sok kisebb vagy elszórt forrás, amelyekből a szennyező anyagok a vízbe kerülhetnek kibocsátásra, amelyek a felszíni vizekre gyakorolt együttes hatása jelentős lehet, és amelyek esetében nem praktikus a jelentések begyűjtése egyedileg minden forrásból;
 
-[^2]: A 3. § 7. pontja a 340/2004. (XII. 22.) Korm. rendelet 29. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 3. § 20. pontja a 368/2004. (XII. 26.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^4]: A közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet.
-[^5]: A használt és szennyvizek kibocsátási határértékeiről és alkalmazásuk szabályairól szóló 9/2002. (III. 22.) KöM–KöViM együttes rendelet; a csatornabírságról szóló 204/2001. (X. 26.) Korm. rendelet.
-[^6]: A használt és szennyvizek kibocsátási határértékeiről és alkalmazásuk szabályairól szóló 9/2002. (III. 22.) KöM–KöViM együttes rendelet; a csatornabírságról szóló 204/2001. (X. 26.) Korm. rendelet.
-[^7]: A közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet.
-[^8]: A 3. § 38. pontját a 368/2004. (XII. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 3. § 39. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^10]: A 3. § 40. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^11]: A 3. § 41. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^12]: A 3. § 42. pontját a 194/2007. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
+43.[^18] üledék: a felszíni vízbe besodort és lerakódott szervetlen és szerves eredetű hordalék részecskéi, a víztestben kémiai folyamatból keletkező csapadék pelyhek, valamint elpusztult vízi szervezetek fenéken lerakodó maradványai;
+
+44.[^19] vízminőségi határérték: a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló rendeletben meghatározott fizikai-kémiai szennyezőanyagok által okozott vízszennyezettség még megengedett olyan mértéke, amelynek meghaladása a jó ökológiai állapot romlását okozza;
+
+45.[^20] keveredési zóna: a felszíni víztestbe való közvetlen bevezetés bevezetési pontjának közvetlen környezetében a víztest egy részének lehatárolásával kijelölt térrész;
+
+46.[^21] jó ökológiai állapot: a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító ökológiai állapot, amely azzal jellemezhető, hogy a biológiai minőségi elemek, az ökológiát támogató fizikai-kémiai elemek és a vízgyűjtő-gazdálkodási tervről szóló miniszteri rendeletben meghatározott, egyéb specifikus szennyező anyagok koncentrációja nem haladja meg a vízminőségi határértékek által meghatározott koncentráció szintjét;
+
+47.[^22] bióta: adott élőhelyen található élőlények összessége.
+
+[^4]: A 3. § 3. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^5]: A 3. § 5. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 3. § 7. pontja a 340/2004. (XII. 22.) Korm. rendelet 29. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 3. § 9. pontja a 230/2010. (VIII. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § 20. pontja a 368/2004. (XII. 26.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 3. § 22. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^10]: A 3. § 26. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^11]: A 3. § 27. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^12]: A 3. § 29. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^13]: A 3. § 38. pontját a 368/2004. (XII. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 3. § 39. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § 40. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 3. § 41. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 3. § 42. pontját a 194/2007. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
+[^18]: A 3. § 43. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^19]: A 3. § 44. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^20]: A 3. § 45. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^21]: A 3. § 46. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 3. § 47. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.

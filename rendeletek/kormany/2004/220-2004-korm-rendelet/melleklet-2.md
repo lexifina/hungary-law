@@ -152,101 +152,109 @@
 
 ## E) Az elsőbbségi és elsőbbségi veszélyes anyagok, anyagcsoportok listája
 
-| Sorszám | CAS szám1 | EU szám2 | Elsőbbségi anyagok, anyagcsoportok neve (*) | Elsőbbségi veszélyes anyagok, anyagcsoportok |
+|  | A | B | C | D | E |
 
-| (1) | 15972-60-8 | 240-110-8 | Alaklór |  |
+| 1 | Sorszám | CAS-számi | EU-számii | Az elsőbbségi anyag neveiii | Elsőbbségi veszélyes anyagként azonosítva |
 
-| (2) | 120-12-7 | 204-371-1 | Antracén |  |
+| 2 | (1) | 15972-60-8 | 240-110-8 | Alaklór |  |
 
-| (3) | 1912-24-9 | 217-617-8 | Atrazin |  |
+| 3 | (2) | 120-12-7 | 204-371-1 | Antracén | X |
 
-| (4) | 71-43-2 | 200-753-7 | Benzol |  |
+| 4 | (3) | 1912-24-9 | 217-617-8 | Atrazin |  |
 
-| (5) | n.a.3 | n.a. | Brómozott difeniléterek (**) | X |
+| 5 | (4) | 71-43-2 | 200-753-7 | Benzol |  |
 
-| (6) | 7440-43-9 | 231-152-8 | Kadmium és vegyületei | X |
+| 6 | (5) | nem alkalmazható | nem alkalmazható | Brómozott difeniléteriv | Xv |
 
-| (7) | 85535-84-8 | 287-476-5 | C10-13-klóralkánok (**) | X |
+| 7 | 32534-81-9 | nem alkalmazható | pentabróm-difeniléter (rokonvegyület-számok: 28., 47., 99., 100., 153. és 154.) |  |
 
-| (8) | 470-90-6 | 207-432-0 | Klórfenvinfosz |  |
+| 8 | (6) | 7440-43-9 | 231-152-8 | Kadmium és vegyületei | X |
 
-| (9) | 2921-88-2 | 220-864-4 | Klórpirifosz |  |
+| 9 | (7) | 85535-84-8 | 287-476-5 | Klóralkánok, C10-13 iv | X |
 
-| (10) | 107-06-2 | 203-458-1 | 1,2-diklóretán |  |
+| 10 | (8) | 470-90-6 | 207-432-0 | Klórfenvinfosz |  |
 
-| (11) | 75-09-2 | 200-838-9 | Diklórmetán |  |
+| 11 | (9) | 2921-88-2 | 220-864-4 | Klórpirifosz (etilklórpirifosz) |  |
 
-| (12) | 117-81-7 | 204-211-0 | Di(2-etilhexil)ftalát |  |
+| 12 | (10) | 107-06-2 | 203-458-1 | 1,2-diklór-etán |  |
 
-| (13) | 330-54-1 | 206-354-4 | Diuron |  |
+| 13 | (11) | 75-09-2 | 200-838-9 | Diklór-metán |  |
 
-| (14) | 115-29-7 | 204-079-4 | Endoszulfán |  |
+| 14 | (12) | 117-81-7 | 204-211-0 | Di[2-etilhexil]ftalát (DEHP) |  |
 
-|  | 959-98-8 | n.a. | (alfa-endoszulfán) |  |
+| 15 | (13) | 330-54-1 | 206-354-4 | Diuron |  |
 
-| (15) | 206-44-0 | 205-912-4 | Fluorantén |  |
+| 16 | (14) | 115-29-7 | 204-079-4 | Endoszulfán | X |
 
-| (16) | 118-74-1 | 204-273-9 | Hexaklórbenzol | X |
+| 17 | (15) | 206-44-0 | 205-912-4 | Fluoranténvi |  |
 
-| (17) | 87-68-3 | 201-765-5 | Hexaklórbutadién | X |
+| 18 | (16) | 118-74-1 | 204-273-9 | Hexaklór-benzol | X |
 
-| (18) | 608-73-1 | 210-158-9 | Hexaklórciklohexán | X |
+| 19 | (17) | 87-68-3 | 201-765-5 | Hexaklór-butadién | X |
 
-|  | 58-89-9 | 200-401-2 | (gamma izomer, Lindán) |  |
+| 20 | (18) | 608-73-1 | 210-158-9 | Hexaklór-ciklohexán | X |
 
-| (19) | 34123-59-6 | 251-835-4 | Izoproturon |  |
+| 21 | (19) | 34123-59-6 | 251-835-4 | Izoproturon |  |
 
-| (20) | 7439-92-1 | 231-100-4 | Ólom és vegyületei |  |
+| 22 | (20) | 7439-92-1 | 231-100-4 | Ólom és vegyületei |  |
 
-| (21) | 7439-97-6 | 231-106-7 | Higany és vegyületei | X |
+| 23 | (21) | 7439-97-6 | 231-106-7 | Higany és vegyületei | X |
 
-| (22) | 91-20-3 | 202-049-5 | Naftalin |  |
+| 24 | (22) | 91-20-3 | 202-049-5 | Naftalin |  |
 
-| (23) | 7440-02-0 | 231-111-4 | Nikkel és vegyületei |  |
+| 25 | (23) | 7440-02-0 | 231-111-14 | Nikkel és vegyületei |  |
 
-| (24) | 25154-52-3 | 246-672-0 | Nonilfenolok | X |
+| 26 | (24) | 25154-52-3 | 246-672-0 | Nonilfenol | X |
 
-|  | 104-40-5 | 203-199-4 | (4-p-nonilfenol) |  |
+| 27 | 104-40-5 | 203-199-4 | (4-nonilfenol) | X |
 
-| (25) | 1806-26-4 | 217-302-5 | Oktilfenolok |  |
+| 28 | (25) | 1806-26-4 | 217-302-5 | Oktilfenol |  |
 
-|  | 140-66-9 | n.a. | (p-terc-oktilfenol) |  |
+| 29 | 140-66-9 | nem alkalmazható | (4-[1,1’,3,3’-tetrametil-butil] fenol) |  |
 
-| (26) | 608-93-5 | 210-172-5 | Pentaklórbenzol | X |
+| 30 | (26) | 608-93-5 | 210-172-5 | Pentaklór-benzol | X |
 
-| (27) | 87-86-5 | 201-778-6 | Pentaklórfenol |  |
+| 31 | (27) | 87-86-5 | 231-152-8 | Pentaklór-fenol |  |
 
-| (28) | n.a. | n.a. | Policiklikus aromás szénhidrogének | X |
+| 32 | (28) | nem alkalmazható | nem alkalmazható | Poliaromás szénhidrogének | X |
 
-|  | 50-32-8 | 200-028-5 | (Benz(a)pirén), |  |
+| 33 | 50-32-8 | 200-028-5 | (Benzo[a]pirén) | X |
 
-|  | 205-99-2 | 205-911-9 | (Benz(b)fluorantén), |  |
+| 34 | 205-99-2 | 205-911-9 | (Benzo[b]fluorantén) | X |
 
-|  | 191-24-2 | 205-883-8 | (Benz(g,h,i)perilén), |  |
+| 35 | 191-24-2 | 205-883-8 | (Benzo(g,h,i)perilén) | X |
 
-|  | 207-08-9 | 205-916-6 | (Benz(k)fluorantén), |  |
+| 36 | 207-08-9 | 205-916-6 | (Benzo[k]fluorantén) | X |
 
-|  | 193-39-5 | 205-893-2 | (Indeno(1,2,3-cd)pirén) |  |
+| 37 | 193-39-5 | 205-893-2 | (Indeno[1,2,3-cd]pirén) | X |
 
-| (29) | 122-34-9 | 204-535-2 | Simazin |  |
+| 38 | (29) | 122-34-9 | 204-535-2 | Simazin |  |
 
-| (30) | 688-73-3 | 211-704-4 | Tributil-ón vegyületek | X |
+| 39 | (30) | nem alkalmazható | nem alkalmazható | Tributil-ón vegyületek | X |
 
-|  | 36643-28-4 | n.a. | (Tributil-ón-kation) |  |
+| 40 | 36643-28-4 | nem alkalmazható | (Tributil-ón-kation) | X |
 
-| (31) | 12002-48-1 | 234-413-4 | Triklórbenzolok |  |
+| 41 | (31) | 12002-48-1 | 234-413-4 | Triklór-benzolok |  |
 
-|  | 120-82-1 | 204-428-0 | (1,2,4-triklórbenzol) |  |
+| 42 | (32) | 67-66-3 | 200-663-8 | Triklór-metán (kloroform) |  |
 
-| (32) | 67-66-3 | 200-663-8 | Triklórmetán (kloroform) |  |
+| 43 | (33) | 1582-09-8 | 216-428-8 | Trifluralin |  |
 
-| (33) | 1582-09-8 | 216-428-8 | Trifluralin |  |
+## Megjegyzés
 
-## (*) A táblázatban, ahol anyagcsoport szerepel, az anyagcsoportra tipikusan jellemző egyedi vegyületek, mint indikatív paraméterek, vannak feltüntetve (zárójelben, sorszám nélkül).
+## i CAS: Kémiai Nyilvántartó Szolgálat (Chemical Abstracts Service)
 
-## (**) Ez az anyagcsoport számos egyedi komponenst tartalmaz. Jelenleg konkrét vegyület, mint indikatív paraméter, még nem adható meg.
+## ii EU-szám: Létező Kereskedelmi Vegyi Anyagok Európai Jegyzéke (European Inventory of Existing Commercial Chemical Substances, EINECS) vagy Törzskönyvezett Vegyi Anyagok Európai Jegyzéke (European List of Notified Chemical Substances, ELINCS).
 
-2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^125]
+## iii Amennyiben anyagok csoportjait választották ki, tipikus egyedi képviselőket tüntettek fel indikatív paraméterekként (zárójelben sorszám nélkül). Ezen anyagcsoportok esetében az indikatív paramétert analitikai módszerrel kell meghatározni.
+
+## iv Az anyagok ezen csoportjaiba rendes körülmények között jelentős számú egyedi vegyület tartozik. Jelen esetben megfelelő indikatív paraméterek nem adhatók meg.
+
+## v Kizárólag pentabróm-bifenil-éter (CAS-szám: 32534-81-9)
+
+## vi A fluorantin egyéb, veszélyesebb poliaromás szénhidrogének képviselőjeként szerepel a jegyzékben.
+
+2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^138]
 
 ## 2/I. A csatornabírság és a vízszennyezési bírság számítása
 
@@ -732,4 +740,4 @@ A vízvédelmi bírság mértéke, ha a kibocsátó
 
 | j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
 
-[^125]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja szerint módosított szöveg.
+[^138]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja szerint módosított szöveg.

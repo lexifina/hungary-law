@@ -1,6 +1,6 @@
-## Beavatkozás[^105]
+## Beavatkozás[^118]
 
-39/D. §[^106] (1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
+39/D. §[^119] (1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
 
 (2) A felügyelőség a 4. számú mellékletben meghatározottak figyelembevételével a beavatkozási terv alapján dönt az abban megjelölt lehetséges beavatkozás kiválasztásáról és végrehajtásának elrendeléséről.
 
@@ -22,11 +22,11 @@ g) a beavatkozás időtartama alatt üzemelő kármentesítési monitoring kivit
 
 h) az ügy szempontjából fontos egyéb feladatok elrendelését (így például: a károsodott terület megjelölését figyelmeztető táblákkal).
 
-(4)[^107] A beavatkozási munkák megkezdését az azt megelőző 8 munkanappal be kell jelenteni a felügyelőségnek, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
+(4)[^120] A beavatkozási munkák megkezdését az azt megelőző 8 munkanappal be kell jelenteni a felügyelőségnek, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
 
 (5) A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére indokolt esetben a felügyelőség engedélyezi a beavatkozási terv módosítását.
 
-(6)[^108] A beavatkozás befejezését 5 munkanapon belül be kell jelenteni a felügyelőségnek.
+(6)[^121] A beavatkozás befejezését 5 munkanapon belül be kell jelenteni a felügyelőségnek.
 
 (7) A (6) bekezdés szerinti bejelentésnek tartalmaznia kell a beavatkozást elrendelő határozat számát, tárgyát, a munka befejezésének időpontját, valamint a hatósági ellenőrző mintavétel biztosításának módját.
 
@@ -46,7 +46,7 @@ d) a beavatkozás során működtetett monitoring bemutatását, továbbá a bea
 
 e) a Kvt. 56. §-ának (1) bekezdés c) pontja szerinti esetekben a beavatkozással felmerült költségek ismertetését.
 
-(11)[^109] A felügyelőség a beavatkozási záródokumentáció kézhezvételét követő két hónapon belül dönt:
+(11)[^122] A felügyelőség a beavatkozási záródokumentáció kézhezvételét követő két hónapon belül dönt:
 
 a) a beavatkozás elégtelensége esetén annak folytatásáról,
 
@@ -58,8 +58,8 @@ d) a kármentesítési monitoringról, illetve
 
 e) a kármentesítés befejezéséről.
 
-[^105]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^106]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^107]: A 39/D. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^108]: A 39/D. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^109]: A 39/D. § (11) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^118]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^119]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^120]: A 39/D. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^121]: A 39/D. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^122]: A 39/D. § (11) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

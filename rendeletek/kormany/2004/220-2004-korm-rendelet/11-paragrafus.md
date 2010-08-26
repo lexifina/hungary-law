@@ -8,7 +8,6 @@ aa) közvetlen bevezetés esetén a környezetvédelmi és vízügyi igazgatós�
 
 ab) közvetett bevezetés esetén a szolgáltatónak vagy a közös üzemi tisztítót üzemeltetőnek is;
 
-b)[^17] azonnali beavatkozást igénylő esetben a külön jogszabályban[^18] foglaltaknak megfelelően a kárelhárítást azonnal köteles megkezdeni.
+b)[^29] azonnali beavatkozást igénylő esetben a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben foglaltaknak megfelelően a kárelhárítást azonnal köteles megkezdeni.
 
-[^17]: A 11. § (2) bekezdésének b) pontja a 93/2007. (IV. 26.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^18]: 90/2007. (IV. 26.) Korm. rendelet a környezetkárosodás megelőzésének és elhárításának módjáról.
+[^29]: A 11. § (2) bekezdésének b) pontja a 93/2007. (IV. 26.) Korm. rendelet 2. §-ával megállapított, a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.

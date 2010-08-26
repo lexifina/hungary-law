@@ -8,6 +8,6 @@
 
 (3) Nem szennyvízzel felszíni vízbe vagy közcsatornába – az engedélyezett minőségben és módon ürített települési folyékony hulladék kivételével – bebocsátott szennyező anyag esetén a bírságot annak teljes mennyisége után kell megállapítani.
 
-(4) A 32.[^69] § (3) bekezdésében meghatározott esetben a közcsatornában (szennyvíztisztító telepen) kárelhárítási gyakorlattal okozott kár megtérítését a szolgáltató külön igényelheti.
+(4) A 32.[^80] § (3) bekezdésében meghatározott esetben a közcsatornában (szennyvíztisztító telepen) kárelhárítási gyakorlattal okozott kár megtérítését a szolgáltató külön igényelheti.
 
-[^69]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
+[^80]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.

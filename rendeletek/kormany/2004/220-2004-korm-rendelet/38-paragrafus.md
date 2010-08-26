@@ -2,21 +2,21 @@
 
 ## Türelmi idők, kedvezmények
 
-38. § (1)[^81] Ha hatósági határozat másként nem rendelkezik, a külön jogszabályban[^82] megállapított kibocsátási határértékeket – a (2) bekezdésben foglaltak kivételével – a meglévő létesítményekre legkésőbb 2010. december 31-ig kell teljesíteni (türelmi idő).
+38. § (1)[^93] Ha hatósági határozat másként nem rendelkezik, a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben megállapított kibocsátási határértékeket – a (2) bekezdésben foglaltak kivételével – a meglévő létesítményekre legkésőbb 2010. december 31-ig kell teljesíteni (türelmi idő).
 
 (2) Meglévő létesítmények esetében:
 
-a) a külön jogszabályban[^83] megállapított érzékeny területeken lévő 10 000 lakosegyenérték fölötti szennyvízelvezetési agglomerációk települési szennyvíztisztító telepei esetén a türelmi idő 2008. december 31;
+a)[^94] a települési szennyvíztisztítás szempontjából érzékeny felszíni vizek és vízgyűjtőterületük kijelöléséről szóló kormányrendeletben megállapított érzékeny területeken lévő 10 000 lakosegyenérték fölötti szennyvízelvezetési agglomerációk települési szennyvíztisztító telepei esetén a türelmi idő 2008. december 31;
 
 b) a 15 000 lakosegyenérték alatti szennyvízelvezetési agglomerációk települési szennyvíztisztító telepei esetén a türelmi idő 2015. december 31;
 
 c) az egységes környezethasználati engedélyezés eljárása alá tarozó kibocsátók esetén a türelmi idő 2007. október 31;
 
-d)[^84] az energetikai célú termálvíz hasznosítás esetén a türelmi idő 2012. december 31.
+d)[^95] az energetikai célú termálvíz hasznosítás esetén a türelmi idő 2012. december 31.
 
-(3)[^85] Türelmi idő nem állapítható meg azon létesítmények esetében, ahol a kibocsátási határérték e rendelet hatálybalépésekor – e rendelet 25. §-ában meghatározott engedélyezési eljárás során vagy azt megelőzően elvégzett vizsgálati eredmények alapján – teljesíthető.
+(3)[^96] Türelmi idő nem állapítható meg azon létesítmények esetében, ahol a kibocsátási határérték e rendelet hatálybalépésekor – e rendelet 25. §-ában meghatározott engedélyezési eljárás során vagy azt megelőzően elvégzett vizsgálati eredmények alapján – teljesíthető.
 
-(4)[^86] A türelmi idő alatt a bírságot
+(4)[^97] A türelmi idő alatt a bírságot
 
 a) a nem szolgáltatónak minősülő kibocsátókra a türelmi idő
 
@@ -40,9 +40,8 @@ nyolcadik évétől a megállapított bírság 15%-ában,
 
 tizedik évétől a megállapított bírság 20%-ában
 
-[^81]: A 38. § (1) bekezdése a 208/2006. (X. 16.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^82]: 28/2004. (XII. 25.) KvVM rendelet.
-[^83]: A települési szennyvíztisztítás szempontjából érzékeny felszíni vizek és vízgyűjtőterületük kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendelet.
-[^84]: A 38. § (2) bekezdésének d) pontját a 312/2005. (XII. 25.) Korm. rendelet 3. §-a iktatta be.
-[^85]: A 38. § új (3) bekezdését a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva.
-[^86]: A 38. § (3) bekezdésének záró szövegrésze a 312/2005. (XII. 25.) Korm. rendelet 5. § a) pontjával megállapított szöveg. A 38. § eredeti (3) bekezdésének számozását a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése (4) bekezdésre változtatta.
+[^93]: A 38. § (1) bekezdése a 208/2006. (X. 16.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^94]: A 38. § (2) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^95]: A 38. § (2) bekezdésének d) pontját a 312/2005. (XII. 25.) Korm. rendelet 3. §-a iktatta be.
+[^96]: A 38. § új (3) bekezdését a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva.
+[^97]: A 38. § (3) bekezdésének záró szövegrésze a 312/2005. (XII. 25.) Korm. rendelet 5. § a) pontjával megállapított szöveg. A 38. § eredeti (3) bekezdésének számozását a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése (4) bekezdésre változtatta.

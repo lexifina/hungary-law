@@ -1,9 +1,8 @@
-## II.
-
-## RÉSZLETES RENDELKEZÉSEK
-
-## Kibocsátási határértékek
+## 14/A. §[^38] A kibocsátási határértékeket a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazási szabályairól szóló miniszteri rendeletben meghatározott vízszennyezettségi határértékek figyelembevételével kell meghatározni.
 
 15. § (1) Az adott technológiára vonatkozó kibocsátási határértékeket (a továbbiakban: technológiai határérték) az elérhető legjobb technika alkalmazásából és a kapcsolódó szennyvíztisztítási tevékenységből származó szennyezőanyag-kibocsátás értékeinek alapulvételével kell meghatározni.
 
-(2) A technológiai határértékeket és alkalmazásuk szabályait külön jogszabály határozza meg.
+(2)[^39] A technológiai határértékeket és alkalmazásuk szabályait a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet határozza meg.
+
+[^38]: A 14/A. §-t a 230/2010. (VIII. 18.) Korm. rendelet 7. §-a iktatta be.
+[^39]: A 15. § (2) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
