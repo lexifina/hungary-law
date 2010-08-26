@@ -2,26 +2,16 @@
 
 ## és egyéb feltételei
 
-13. § (1) A rendelet hatálya alá tartozó vízilétesítmények műszaki tervezési feladatait, illetve a műszaki ellenőri a kivitelezési munka irányításáért felelős műszaki vezető tevékenységet a külön jogszabály szerint jogosultsággal rendelkezők végezhetnek.
+13. §[^6] (1) Az e rendelet hatálya alá tartozó vízilétesítmények műszaki tervezési feladatait a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló kormányrendelet szerint jogosultsággal rendelkezők végezhetnek.
 
-(2) Kút kivitelezését – beleértve annak felújítását és javítását is – az végezheti, aki
+(2) Kút kivitelezését – beleértve annak felújítását és javítását – az végezheti, aki az Országos Képzési Jegyzékben, valamint a környezetvédelmi és vízügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló miniszteri rendeletben meghatározott vízkútfúró szakképesítési körnek megfelelő, vagy azzal egyenértékű szakképesítéssel, valamint a bányafelügyelet által kiadott, a vízkutatási és vízfeltárási célból végzett fúrási, kútépítési, kúttisztítási, kútfelújítási, kútjavítási berendezésre vonatkozó bányafelügyeleti műszaki-biztonsági előírásoknak való megfelelést tanúsító igazolással rendelkezik.
 
-a) az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelet 1. mellékletében, illetve a közlekedési, hírközlési és vízügyi szakképesítések szakmai és vizsgakövetelményeiről szóló 32/1995. (XII. 30.) KHVM rendelet mellékletében vízkútfúró, mélyfúró, mélyfúró technikus szakképzési körnek megfelelő, illetve azzal egyenértékű szakképesítéssel,
+(3) 100 m-nél mélyebb talpmélységű kút, továbbá közüzemi vízellátást szolgáló kút kivitelezése geofizikus, geofizikus-mérnök, geológus, geológus-mérnök vagy hidrogeológus, hidrogeológus-mérnök, vagy azzal egyenértékű szakképesítéssel rendelkező szakember felügyelete mellett végezhető.
 
-b) mélyfúrási, illetve vízkútfúrási szakvizsgával és az ezzel összefüggő biztonságtechnikai, munkavédelmi ismereteket bizonyító vizsgával rendelkezik.
+(4) A kút kivitelezésének részét képező feltáró fúrásokban, illetve kutakban mélyfúrás-geofizikai, illetve kútvizsgálati mérések mérnökgeológus, geofizikus, geofizikus-mérnök, hidrogeológus mérnök, vagy ezekkel egyenértékű szakképesítéssel rendelkező szakember közreműködésével végezhetők.
 
-(3) Kút kivitelezését – beleértve annak felújítását és javítását is – az is végezheti, aki vele munkaviszonyban, egyéb jogviszonyban, családtagi minőségben álló, a (2) bekezdésben meghatározott feltételeknek megfelelő személyt alkalmaz, bíz meg.
+(5) Mélyfúrás-geofizikai, illetve kútvizsgálati mérések kiértékelését, az összefoglaló szakvéleményt kizárólag geofizikus, geofizikus mérnök, geológus, mérnökgeológus, hidrogeológus vagy hidrogeológus mérnök, vagy ezekkel egyenértékű szakképesítéssel rendelkező szakember készíthet. A vizsgálat jóváhagyását csak legalább ötéves mélyfúrás-geofizikai gyakorlattal rendelkező szakember végezheti el.
 
-(4) Egyéni vállalkozás keretében történő vízkútfúráshoz a külön jogszabály szerinti vállalkozói igazolvány iránti kérelemhez a környezetvédelmi és vízügyi igazgatóság szakvéleményét is csatolni kell.
+(6) A vízföldtani naplót legalább ötéves felszín alatti vízkészlet-gazdálkodási gyakorlattal rendelkező geológus, mérnökgeológus, hidrogeológus vagy hidrogeológus mérnök, vagy ezekkel egyenértékű szakképesítéssel rendelkező szakember készíthet.
 
-(5) Jogi személy vagy jogi személyiség nélküli szervezet vízkútfúrási tevékenységet a cég székhelye szerint illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség engedélyével végezhet.
-
-(6) A (3) bekezdés szerinti szakvélemény, illetve a (4) bekezdés szerinti engedély iránti kérelemhez csatolni kell a képesítést igazoló okiratok másolati példányát és a bányafelügyelet igazolását a vízkutatási és vízfeltárási célból végzett fúrási, kútépítési, kúttisztítási, kútfelújítási, kútjavítási munkákra irányadó bányafelügyeleti műszaki-biztonsági előírásoknak való megfelelésről.
-
-(7) A 100 m-nél mélyebb talpmélységű kút kivitelezése geofizikus, geofizikus-mérnök, geológus, geológus-mérnök vagy hidrogeológus, hidrogeológus-mérnök, illetve azzal egyenértékű szakképesítéssel rendelkező szakember alkalmazásával végezhető.
-
-(8) A vízföldtani naplót legalább ötéves felszín alatti vízkészlet-gazdálkodási gyakorlattal rendelkező geológus vagy hidrogeológus készíthet.
-
-(9) A vízkutató fúrásokban, illetve kutakban mélyfúrás-geofizikai, illetve kútvizsgálati mérések geofizikus irányításával végezhetők.
-
-(10) Mélyfúrás-geofizikai, illetve kútvizsgálati kiértékelést, szakvéleményt kizárólag geofizikus (mérnök), geológus vagy hidrogeológus (mérnök), illetve azzal egyenértékű szakképesítéssel rendelkező szakember készíthet. A vizsgálat jóváhagyását csak legalább ötéves mélyfúrás-geofizikai gyakorlattal rendelkező szakértő végezheti el.
+[^6]: A 13. § a 10/2010. (VIII. 18.) VM rendelet 9. §-ával megállapított szöveg.
