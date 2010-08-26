@@ -1,0 +1,1 @@
+## „(4) A kibocsátó a keveredési zóna határai felett és alatt köteles a befogadó vízszennyezettségének ellenőrzésére. Az ellenőrzés rendjét és szabályait a felügyelőség a kibocsátási engedélyben határozza meg.”

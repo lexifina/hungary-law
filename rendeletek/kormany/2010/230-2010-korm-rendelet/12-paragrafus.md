@@ -1,0 +1,3 @@
+## 11. § A Kr. 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az engedélyezés során a kibocsátásra és a szennyvizek befogadóba való vezetésének szabályozására kombinált megközelítésen alapuló, a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerinti határértékrendszereket alkalmazó szabályozási módszert kell alkalmazni, figyelembe véve a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazási szabályairól szóló miniszteri rendeletben meghatározott felszíni vizek vízszennyezettségi határértékeit.”
