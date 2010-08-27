@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-10-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-08-26 | 2010-10-20-2Y.1 | 10/2010. (VIII. 18.) VM rendelet |
+| 2010-08-27 | 2010-10-20-2Y.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -1,4 +1,4 @@
-3. melléklet a 10/2010. (VIII. 18.) VM rendelethez
+3. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^8]
 
 A felszíni vizeket szennyező – a felszíni vízek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet 1. számú melléklet B) pont I. listájába tartozó – egyes veszélyes anyagok környezetminőségi határértékeire vonatkozó mérési referencia módszerek
 
@@ -15,3 +15,5 @@ A felszíni vizeket szennyező – a felszíni vízek minősége védelmének sz
 | 5 | Triklóretilén | Vízből megfelelő oldószerrel történő extrakció után gázkromatográfiás módszer. | Felszíni vízben 0,1 μg/l | ±50% precizitás és pontosság az alsó méréshatár kétszeres értékénél. |
 
 | 6 | Perklóretilén | Vízből megfelelő oldószerrel történő extrakció után gázkromatográfiás módszer. | Felszíni vízben 0,1 μg/l | ±50% precizitás és pontosság az alsó méréshatár kétszeres értékénél. |
+
+[^8]: A 3. mellékletet a 11. § (2) bekezdése hatályon kívül helyezte 2012. december 22. napjával.
