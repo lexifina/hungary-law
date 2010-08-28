@@ -1,4 +1,4 @@
-8. § (1)[^32] A felügyelőség a kérelem benyújtását követően – ha a tevékenység nem esik katonai titokvédelem alá – az ügyfeleknek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás megindításáról szóló értesítésével egyidejűleg a honlapján közleményt tesz közzé, amelyet legalább egy helyi lapban vagy napilapban vagy országos napilapban is megjelentet. A közlemény – az értesítésre a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
+8. § (1)[^31] A felügyelőség a kérelem benyújtását követően – ha a tevékenység nem esik katonai titokvédelem alá – az ügyfeleknek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás megindításáról szóló értesítésével egyidejűleg a honlapján közleményt tesz közzé, amelyet legalább egy helyi lapban vagy napilapban vagy országos napilapban is megjelentet. A közlemény – az értesítésre a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
 
 a) az eljáró felügyelőség megnevezését, székhelyét, elérhetőségét;
 
@@ -10,7 +10,7 @@ d) azt, hogy milyen módon történik a tájékoztatás és milyen lehetőségek
 
 e) milyen döntéseket hozhat a felügyelőség a 10. § (2) bekezdése alapján.
 
-(2)[^33] A felügyelőség a közlemény közzétételével egyidejűleg megküldi a közleményt, továbbá
+(2)[^32] A felügyelőség a közlemény közzétételével egyidejűleg megküldi a közleményt, továbbá
 
 a) a kérelmet és mellékleteit a tevékenység telepítési helye szerinti település,
 
@@ -20,12 +20,12 @@ jegyzőinek, akik haladéktalanul, de legkésőbb három munkanapon belül gondo
 
 (3) A közzététel és a betekintési lehetőség biztosításának időtartama legalább harminc nap.
 
-(4)[^34]
+(4)[^33]
 
 (5) A felügyelőség a szakhatósági állásfoglalásokba és az általa kért szakértői véleményekbe, továbbá a hiánypótlásul készült dokumentációba való betekintést lehetővé teszi a benyújtásukat, illetve rendelkezésre állásukat követő – egyeztetés esetén az egyeztetést követő – öt munkanapon belül az érintett nyilvánosság számára.
 
 (6) Az ügyben az (5) bekezdésben említetteket követően keletkezett és a döntéshozatal szempontjából lényeges környezeti információkat – a Kvt. 12. §-ának (2)–(3) bekezdésének megfelelően – az érintett nyilvánosság számára hozzáférhetővé kell tenni.
 
-[^32]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: A 8. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^34]: A 8. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^31]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 8. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 8. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

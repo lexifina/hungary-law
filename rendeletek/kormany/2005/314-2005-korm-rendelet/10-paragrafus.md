@@ -1,4 +1,4 @@
-10. § (1)[^38] A felügyelőség az érintett nyilvánosságtól, valamint a 12–15. §-ok szerint kapott, a környezeti hatás szempontjából lényeges észrevételeket a szakhatóságok bevonásával érdemben megvizsgálja. A felügyelőség határozatának indoklása tartalmazza az észrevételek értékelését és a nyilvánosság bevonásának folyamatáról szóló információt. Az észrevételek értékelése magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
+10. § (1)[^37] A felügyelőség az érintett nyilvánosságtól, valamint a 12–15. §-ok szerint kapott, a környezeti hatás szempontjából lényeges észrevételeket a szakhatóságok bevonásával érdemben megvizsgálja. A felügyelőség határozatának indoklása tartalmazza az észrevételek értékelését és a nyilvánosság bevonásának folyamatáról szóló információt. Az észrevételek értékelése magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
 
 (2) A felügyelőség az ügyben rendelkezésre álló összes adat alapján dönt, és határozattal
 
@@ -38,4 +38,4 @@ b) a Magyar Köztársaság nemzetközi szerződésben vállalt környezet- vagy 
 
 (8) A felügyelőség a környezetvédelmi engedélyt – hivatalból vagy kérelemre – módosíthatja, ha az engedélyezéskor fennálló feltételek megváltozása a korábban kiadott engedély visszavonását nem teszi szükségessé.
 
-[^38]: A 10. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^37]: A 10. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

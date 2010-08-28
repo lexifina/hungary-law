@@ -4,19 +4,19 @@
 
 ## ÖSSZEKAPCSOLÁSÁNAK SZABÁLYAI
 
-25. § (1)[^74] Az összekapcsolt eljárás két szakaszból áll, amelyet a (2)–(11) bekezdésekben foglaltak figyelembevételével kell lefolytatni.
+25. § (1)[^73] Az összekapcsolt eljárás két szakaszból áll, amelyet a (2)–(11) bekezdésekben foglaltak figyelembevételével kell lefolytatni.
 
-(2)[^75] Az összekapcsolt eljárás első szakasza a környezethasználó – az előzetes vizsgálatban kiadott határozat szerint és a 6. és 7. számú melléklet figyelembevételével elkészített – kérelmének a felügyelőséghez a 7. § (2) bekezdésében meghatározottak szerint történő benyújtásával indul.
+(2)[^74] Az összekapcsolt eljárás első szakasza a környezethasználó – az előzetes vizsgálatban kiadott határozat szerint és a 6. és 7. számú melléklet figyelembevételével elkészített – kérelmének a felügyelőséghez a 7. § (2) bekezdésében meghatározottak szerint történő benyújtásával indul.
 
 (3) Az összekapcsolt eljárás első szakaszát a környezeti hatásvizsgálati eljárás szabályai (8–15. §-ok) szerint kell lefolytatni. Ha a felügyelőség az első szakaszban nem utasítja el a kérelmet, a rendelkezésre álló információkat figyelembe véve végzésben állapítja meg, hogy a környezeti hatásvizsgálat során a tevékenység megvalósítását kizáró ok nem merült fel, továbbá melyek az egységes környezethasználati engedélyben a környezeti hatásvizsgálat alapján érvényesítendő feltételek, és szükség esetén, az eljárás második szakaszához benyújtandó dokumentáció tartalmára és példányszámára vonatkozó rendelkezéseket.
 
 (4) A határozat vagy a végzés nyilvánosságra hozatalára az 5. § (6) bekezdése az irányadó.
 
-(5)[^76]
+(5)[^75]
 
-(6)[^77] Az összekapcsolt eljárás második szakasza a (3) bekezdés szerinti végzés szerint és a 8. számú melléklet figyelembevételével elkészített dokumentációnak a felügyelőséghez a 18. §-ban meghatározottak szerint történő benyújtásával indul.
+(6)[^76] Az összekapcsolt eljárás második szakasza a (3) bekezdés szerinti végzés szerint és a 8. számú melléklet figyelembevételével elkészített dokumentációnak a felügyelőséghez a 18. §-ban meghatározottak szerint történő benyújtásával indul.
 
-(7)[^78] Ha a környezethasználó a (3) bekezdés szerinti végzés jogerőre emelkedésétől számított hat hónapon belül nem nyújtja be a végzésben előírt, az eljárás második szakaszának megindításához szükséges dokumentációt, ezt úgy kell tekinteni, hogy a környezethasználó a kérelmét visszavonta. A környezethasználó kérelmére a felügyelőség indokolt esetben engedélyezheti, hogy az eljárás második szakaszának megindításához szükséges dokumentációt a környezethasználó a (3) bekezdés szerinti végzés jogerőre emelkedésétől számított 12 hónapon belül nyújtsa be.
+(7)[^77] Ha a környezethasználó a (3) bekezdés szerinti végzés jogerőre emelkedésétől számított hat hónapon belül nem nyújtja be a végzésben előírt, az eljárás második szakaszának megindításához szükséges dokumentációt, ezt úgy kell tekinteni, hogy a környezethasználó a kérelmét visszavonta. A környezethasználó kérelmére a felügyelőség indokolt esetben engedélyezheti, hogy az eljárás második szakaszának megindításához szükséges dokumentációt a környezethasználó a (3) bekezdés szerinti végzés jogerőre emelkedésétől számított 12 hónapon belül nyújtsa be.
 
 (8) Az összekapcsolt eljárás második szakaszát az egységes környezethasználati engedélyezési eljárásra vonatkozó, a 17–18. §-ok, valamint 20. § (1)–(8) bekezdése, továbbá a 21. § szerint kell lefolytatni.
 
@@ -30,14 +30,14 @@ b) a 12–15. §-ok szerinti eljárást lefolytatták, de ahhoz képest új, az 
 
 ## nemzetközi szerződés eltérő rendelkezése hiányában a 12. § (4) bekezdése és a 13–15. §-ok szerinti rendelkezéseket kell megfelelően alkalmazni.
 
-(11)[^79] Az (1) bekezdés szerinti összekapcsolt eljárás időtartama eljárási szakaszonként három hónap.
+(11)[^78] Az (1) bekezdés szerinti összekapcsolt eljárás időtartama eljárási szakaszonként három hónap.
 
-(12)[^80] A határozat tartalmára a 10. § (1), (4)–(7) bekezdése, a 20. § (3)–(8) bekezdése, a 21. § (7) bekezdése és a 22. § (1) bekezdése az irányadó.
+(12)[^79] A határozat tartalmára a 10. § (1), (4)–(7) bekezdése, a 20. § (3)–(8) bekezdése, a 21. § (7) bekezdése és a 22. § (1) bekezdése az irányadó.
 
-[^74]: A 25. § (1) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^75]: A 25. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (17) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^76]: A 25. § (5) bekezdését a 110/2010. (IV. 9.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^77]: A 25. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (18) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^78]: A 25. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (18) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^79]: A 25. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442–443. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^80]: A 25. § (12) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 441. § (19) bekezdése ikatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^73]: A 25. § (1) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^74]: A 25. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (17) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^75]: A 25. § (5) bekezdését a 110/2010. (IV. 9.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^76]: A 25. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (18) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: A 25. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (18) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A 25. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442–443. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^79]: A 25. § (12) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 441. § (19) bekezdése ikatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
