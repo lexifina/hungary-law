@@ -1,6 +1,8 @@
 53/C. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
 
-(2)–(5)
+(2) Az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője az építésügyi hatóság vagy az építésfelügyeleti hatóság jogerős másodfokú döntésének felülvizsgálatát a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a határozatot hozó hatóság elleni kereset indításával.
+
+(3)–(5)
 
 (6)
 

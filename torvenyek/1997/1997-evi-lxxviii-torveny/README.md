@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-78-00-00.33 |
 | 2010-08-14 | 2010. évi XC. törvény | 1997-78-00-00.34 |
+| 2010-08-28 | 2010. évi XC. törvény | 1997-78-00-00.35 |

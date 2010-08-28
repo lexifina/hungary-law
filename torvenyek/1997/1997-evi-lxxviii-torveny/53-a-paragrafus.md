@@ -4,7 +4,7 @@
 
 (4) Az építésügyi és építésfelügyeleti hatóságok által kiszabott építésügyi, építésfelügyeleti és eljárási bírságok (a továbbiakban: bírságok) – a (6) bekezdésben foglalt kivételekkel és a sajátos építményfajtákra, műemlékekre vonatkozó eltérő jogszabályi rendelkezés hiányában – az 50. § (1) bekezdése szerinti célelőirányzatot illetik.
 
-(5) Az építésügyi és építésfelügyeleti hatóságok által jogerősen és végrehajthatóan kiszabott bírságok – a (7) bekezdésben foglaltak kivételével – adók módjára behajtandó köztartozások.
+(5) Az építésügyi és építésfelügyeleti hatóságok által jogerősen és végrehajthatóan kiszabott bírságok – a (7) bekezdésben foglaltak kivételével – adók módjára behajtandó köztartozásnak minősülnek, melyek behajtása az állami adóhatóság hatáskörébe tartozik.
 
 (6) Az építésügyi és építésfelügyeleti hatóságok által kiszabott eljárási bírság az eljáró hatóságot illeti meg.
 
