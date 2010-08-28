@@ -2,6 +2,6 @@
 
 (2) Az építtető – a (3) bekezdésben meghatározott kivétellel – csak a jogerős építési engedély és az ahhoz tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció birtokában és annak megfelelően, az engedély hatályának időtartama alatt végezhet építési tevékenységet.
 
-(3)–(4)[^20]
+(3)–(4)[^21]
 
-[^20]: A 30. § (3)–(4) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
+[^21]: A 30. § (3)–(4) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.

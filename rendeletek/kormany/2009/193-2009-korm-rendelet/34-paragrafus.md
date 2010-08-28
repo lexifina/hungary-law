@@ -18,6 +18,6 @@ c) tájékoztatást arról, hogy a bontási tevékenység befejezése után az �
 
 d) figyelmeztetést arra, hogy az építtető a bontási tevékenység befejezését követően – a külön jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania.
 
-(5)–(6)[^24]
+(5)–(6)[^25]
 
-[^24]: A 34. § (5)–(6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.
+[^25]: A 34. § (5)–(6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.

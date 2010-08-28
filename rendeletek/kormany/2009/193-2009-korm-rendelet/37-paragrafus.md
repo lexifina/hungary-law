@@ -10,9 +10,9 @@ c) az építmény zavartalan használatához szükséges járulékos építmény
 
 (3) A használatbavételi engedély csak akkor adható meg, ha az építmény a rendeltetésszerű és biztonságos használat követelményeinek megfelel.
 
-(4)[^32] Az építésügyi hatóság a használatbavételi engedély megadását az egész építményre, vagy annak egy részére az észlelt hibák és hiányosságok megszüntetéséig, az építési engedélybe foglalt kikötések, feltételek teljesítéséig csak akkor tagadhatja meg, az építmény használatát csak akkor tilthatja meg, ha az észlelt hibák, hiányosságok, kikötések és feltételek teljesítésének hiánya az építmény rendeltetésszerű és biztonságos használhatóságát gátolja vagy akadályozza.
+(4)[^33] Az építésügyi hatóság a használatbavételi engedély megadását az egész építményre, vagy annak egy részére az észlelt hibák és hiányosságok megszüntetéséig, az építési engedélybe foglalt kikötések, feltételek teljesítéséig csak akkor tagadhatja meg, az építmény használatát csak akkor tilthatja meg, ha az észlelt hibák, hiányosságok, kikötések és feltételek teljesítésének hiánya az építmény rendeltetésszerű és biztonságos használhatóságát gátolja vagy akadályozza.
 
-(4a)[^33] A használatbavételi engedélyezéskor a használatbavételi engedély e rendelet szerinti megadása mellett, a rendeltetésszerű és biztonságos építményhasználatot nem gátló, még fennálló hibák, hiányosságok megszüntetését, az építési engedélybe foglalt kikötések és feltételek teljesítését megfelelő teljesítési határidő megjelölésével és a nem teljesítés esetén alkalmazható szankciók alkalmazására való figyelmeztetéssel a kötelezésre vonatkozó előírások szerint kell elrendelni.
+(4a)[^34] A használatbavételi engedélyezéskor a használatbavételi engedély e rendelet szerinti megadása mellett, a rendeltetésszerű és biztonságos építményhasználatot nem gátló, még fennálló hibák, hiányosságok megszüntetését, az építési engedélybe foglalt kikötések és feltételek teljesítését megfelelő teljesítési határidő megjelölésével és a nem teljesítés esetén alkalmazható szankciók alkalmazására való figyelmeztetéssel a kötelezésre vonatkozó előírások szerint kell elrendelni.
 
 (5) A határozat rendelkező részének tartalmaznia kell:
 
@@ -28,8 +28,8 @@ e) figyelmeztetést arra, hogy az építtető az építési, illetve bontási te
 
 f) tájékoztatást arról, hogy az elkészült épületről a külön jogszabályban foglaltak szerint energetikai tanúsítványt kell kiállítani.
 
-(6)[^34]
+(6)[^35]
 
-[^32]: A 37. § (4) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdésével megállapított szöveg.
-[^33]: A 37. § (4a) bekezdését a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdése iktatta be.
-[^34]: A 37. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § h) pontja hatályon kívül helyezte.
+[^33]: A 37. § (4) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdésével megállapított szöveg.
+[^34]: A 37. § (4a) bekezdését a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdése iktatta be.
+[^35]: A 37. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § h) pontja hatályon kívül helyezte.

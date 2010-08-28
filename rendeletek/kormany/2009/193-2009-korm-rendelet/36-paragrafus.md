@@ -1,4 +1,4 @@
-## 36. §[^31] A használatbavételi engedélykérelemhez – a tartalmától függően – mellékelni kell
+## 36. §[^32] A használatbavételi engedélykérelemhez – a tartalmától függően – mellékelni kell
 
 a) a 25. § (5) bekezdés d) pontjában foglaltakat,
 
@@ -12,4 +12,4 @@ e) a 25. § (5) bekezdés a) pontjában foglaltakat, ha a kivitelezés során a 
 
 f) a 2. melléklet szerinti kitöltött statisztikai lapot.
 
-[^31]: A 36. § nyitó szövegrésze a 177/2010. (V. 13.) Korm. rendelet 18. § j) pontja szerint módosított szöveg.
+[^32]: A 36. § nyitó szövegrésze a 177/2010. (V. 13.) Korm. rendelet 18. § j) pontja szerint módosított szöveg.

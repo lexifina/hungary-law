@@ -14,7 +14,7 @@ b) felkutatja
 
 ba) az engedély vagy bejelentés köteles építési tevékenységek esetében az építésügyi hatósági engedély vagy bejelentés nélkül, vagy attól eltérően végzett,
 
-bb)[^37] a településrendezési tervek, a helyi építési szabályzat és az általános érvényű kötelező építésügyi előírások megsértésével végzett
+bb)[^38] a településrendezési tervek, a helyi építési szabályzat és az általános érvényű kötelező építésügyi előírások megsértésével végzett
 
 c) ellenőrzi a jókarbantartási kötelezettség teljesítését, a településképet rontó állapotú építmények helyreállítását, valamint azt, hogy a műemlékek műszaki állapota nem veszélyezteti-e a műemléki értékeket, illetőleg a fenntartási kötelezettséget teljesítették-e az ingatlan védettség alá tartozó valamennyi alkotóelemére.
 
@@ -28,7 +28,7 @@ ab) azokra a településekre, településrészekre, ahol összevont építésüg
 
 b) a tárgyévet megelőző év nyilvántartási adatai alapján javaslatot tesz utóvizsgálati ellenőrzésre azokon a településeken, településrészeken, Budapesten a kerületekben, ahol a szabálytalanságok száma növekedett.
 
-(3)[^38] Az építésügyi hatóság az ellenőrzéseit rendszeresen – az építésfelügyeleti hatóság javaslata és az (1) és (2) bekezdésben foglaltak figyelembevételével – március 1-jéig készített éves munkaterv szerint végzi.
+(3)[^39] Az építésügyi hatóság az ellenőrzéseit rendszeresen – az építésfelügyeleti hatóság javaslata és az (1) és (2) bekezdésben foglaltak figyelembevételével – március 1-jéig készített éves munkaterv szerint végzi.
 
 (4) Az előző évi építésügyi hatósági ellenőrzések megállapításait összefoglaló jelentést az építésügyi hatóság január 31-ig megküldi a miniszternek, műemléket érintően a kultúráért felelős miniszternek.
 
@@ -36,5 +36,5 @@ b) a tárgyévet megelőző év nyilvántartási adatai alapján javaslatot tesz
 
 (6) Az építésügyi hatóság szükség esetén az építésfelügyeleti hatósággal, más illetékességi területen működő építésügyi és építésfelügyeleti hatósággal és más – ellenőrzésre jogosult – hatósággal közös ellenőrzés végzését kezdeményezi.
 
-[^37]: A 42. § (1) bekezdés b) pont bb) alpontja a 177/2010. (V. 13.) Korm. rendelet 17. § (8) bekezdésével megállapított szöveg.
-[^38]: A 42. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § l) pontja szerint módosított szöveg.
+[^38]: A 42. § (1) bekezdés b) pont bb) alpontja a 177/2010. (V. 13.) Korm. rendelet 17. § (8) bekezdésével megállapított szöveg.
+[^39]: A 42. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § l) pontja szerint módosított szöveg.

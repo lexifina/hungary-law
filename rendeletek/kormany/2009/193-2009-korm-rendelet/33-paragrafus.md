@@ -1,11 +1,11 @@
-## Bontási engedélyezési eljárás[^21]
+## Bontási engedélyezési eljárás[^22]
 
-33. § (1)[^22] Az Engr. 1. melléklet VI. oszlopa szerint meghatározott építmények bontása bontási engedély alapján végezhető.
+33. § (1)[^23] Az Engr. 1. melléklet VI. oszlopa szerint meghatározott építmények bontása bontási engedély alapján végezhető.
 
 (2) A bontási engedélykérelemhez – a tartalmától függően – mellékelni kell a 25. § (5) bekezdés a) és b) pontjában, valamint a 27. § (5) bekezdés b) pontjában foglaltakat.
 
-(3)[^23]
+(3)[^24]
 
-[^21]: A 33. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
-[^22]: A 33. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
-[^23]: A 33. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
+[^22]: A 33. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^23]: A 33. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^24]: A 33. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.

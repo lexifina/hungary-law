@@ -1,6 +1,6 @@
-## 47. §[^41] E rendeletnek – az építésügyi és az építésfelügyeleti hatósági eljárásokkal összefüggő egyes kormányrendeletek módosításáról szóló 177/2010. (V. 13.) Korm. rendelet (a továbbiakban: Kr.) 17. § (9) bekezdésével megállapított – 45/A–45/D. §-át a Kr. hatálybalépését[^42] követően tett bejelentésekre kell alkalmazni.
+## 48. §[^44] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelettel (a továbbiakban: Kr2.) hatályon kívül helyezett 25. § (2) bekezdését a Kr2. hatálybalépésekor[^45] folyamatban lévő ügyekben sem kell alkalmazni.
 
 1. melléklet a 193/2009. (IX. 15.) Korm. rendelethez
 
-[^41]: A 47. §-t a 177/2010. (V. 13.) Korm. rendelet 17. § (10) bekezdése iktatta be.
-[^42]: A hatálybalépés időpontja: 2010. május 28.
+[^44]: A 48. §-t a 228/2010. (VIII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^45]: A hatálybalépés napja: 2010. augusztus 28.
