@@ -1,3 +1,5 @@
+## 7. §[^19] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 4. §-ával megállapított 1. § (1) bekezdés e) pontját, 3. § (4) bekezdés d) pont da) alpontját, 4. § (3) bekezdését, valamint 5. § (1) bekezdés d) pontját az Mkr. hatálybalépését követően[^20] indult vagy megismételt eljárásokban kell alkalmazni.
+
 1. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez
 
 ## A területi (környezeti, társadalmi és gazdasági) hatásvizsgálat tartalmi követelményei
@@ -85,3 +87,6 @@ d) A kérelemben szereplő javaslatok gazdasági szempontú elemzése során viz
 – az ingatlanérték alakulására.
 
 e) A kérelem rajzi melléklete(i) a vonatkozó területrendezési terv(ek) hitelesített másolatának, illetőleg a digitális adatbázisának felhasználásával készítendő(k) el.
+
+[^19]: A 7. § a 228/2010. (VIII. 13.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^20]: A hatálybalépés napja: 2010. augusztus 28.

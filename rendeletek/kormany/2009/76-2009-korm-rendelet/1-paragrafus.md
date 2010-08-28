@@ -22,10 +22,10 @@ db) a kiemelt térség területrendezési tervére vonatkozó törvények hatál
 
 ## (a továbbiakban együtt: beépítésre szánt terület kivételes kijelölése);
 
-e)[^2] az Országos Területrendezési Tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat, továbbá nemzetközi és hazai szénhidrogén szállítóvezeték területi elhelyezéséhez (a továbbiakban: országos jelentőségű elem beillesztése).
+e)[^2] az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezéséhez (a továbbiakban: országos jelentőségű elem beillesztése).
 
 (2)[^3]
 
 [^1]: Az 1. § (1) bekezdés c) pontja a 249/2009. (XI. 13.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
