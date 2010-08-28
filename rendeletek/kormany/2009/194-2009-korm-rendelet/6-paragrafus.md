@@ -1,5 +1,3 @@
-## 5. § Ha az integrált eljárásban építésügyi hatósági eljárás is lefolytatásra kerül, akkor közreműködő és társhatóságként első és másodfokon az Ngtv. 2. §-ában meghatározott hatóság az eljáró általános építésügyi hatóság.
-
 ## A hatóságok közötti együttműködés
 
 6. § (1) Az integrált eljárásban a közreműködő hatóság, a társhatóság és a szakhatóság a tényállás tisztázása érdekében köteles a legszélesebb körű együttműködésre és az egymás közötti hatékony kommunikáció biztosítására.
