@@ -1,5 +1,5 @@
 ## Örökségvédelmi hatástanulmány
 
-66. § (1) Kötelező az örökségvédelmi hatástanulmány elkészítése a településrendezési eljárás (a településfejlesztési koncepció, a településrendezési terv, a helyi építési szabályzat és szabályozási terv) során. Nem kell elkészíteni a hatástanulmányt, ha a helyi önkormányzat a településrendezési eljárás alá vont terület tekintetében tíz évnél nem régebbi hatástanulmánnyal rendelkezik, vagy a területre elkészített korábbi hatástanulmány alapján a rendezés alá vont terület örökségvédelmi szempontból nem érintett.
+66. § (1) Örökségvédelmi hatástanulmányt kell készíteni a település fejlesztési koncepciójának kidolgozása során. Amennyiben a fejlesztési koncepció készítésekor nem készült, vagy a rendezés alá vont területre nincs örökségvédelmi hatástanulmány, vagy van, de az tíz évnél régebbi, akkor azt a rendezés alá vont területre el kell készíteni. Nem kell örökségvédelmi hatástanulmányt készíteni, ha az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 9. § (2) bekezdése szerinti véleményezési eljárásban az illetékes államigazgatási szerv véleménye szerint a rendezés alá vont terület örökségvédelmi szempontból nem érintett.
 
-(2) A hatóság – külön jogszabályban meghatározott tartalommal – az engedélyezési eljárásban előírhatja az örökségvédelmi hatásvizsgálat elkészítését, feltéve, hogy az (1) bekezdés szerinti hatástanulmány alapján az eljárással érintett terület örökségvédelmi szempontból érintett.
+(2)

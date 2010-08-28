@@ -6,7 +6,9 @@ a) szabályozza az örökségvédelmi bírsággal kapcsolatos részletes szabál
 
 b) rendeletben jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat;
 
-c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására.
+c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
+
+d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -26,7 +28,7 @@ g) a műemlékvédelem eljárási rendjére és sajátos tárgyaira – beleért
 
 h) a műemléken történő reklámelhelyezés szabályait;
 
-i) az örökségvédelmi hatástanulmányra vonatkozó szabályokat;
+i)
 
 j) a kulturális örökség hatósági nyilvántartásának szabályait és az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat;
 
