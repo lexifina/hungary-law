@@ -1,4 +1,4 @@
-19. § (1) A miniszter feladatkörébe tartozó egyes területrendezési feladatokat az állami főépítészek látják el.
+19. § (1) A területrendezésért felelős miniszter feladatkörébe tartozó egyes területrendezési feladatokat az állami főépítészek látják el.
 
 (2) Az állami főépítész
 

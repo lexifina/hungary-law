@@ -1,1 +1,1 @@
-24/A. § A területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a miniszter gondoskodik.
+24/A. § A területfejlesztéssel, illetve a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a miniszter, illetve a területrendezésért felelős miniszter gondoskodik.

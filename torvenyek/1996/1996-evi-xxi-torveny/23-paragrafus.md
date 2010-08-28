@@ -22,7 +22,7 @@ f) a sporttal kapcsolatos térségi feladatokat.
 
 (4) A területfejlesztési és ágazati programok, valamint a településrendezési tervek készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, regionális és megyei területrendezési tervben foglaltakat.
 
-(5) A jóváhagyott országos és térségi területrendezési tervek kapcsán felmerülő kártalanítások tekintetében a külön jogszabályban előírtak szerinti eljárásban a Magyar Államot a regionális fejlesztésért és felzárkóztatásért felelős miniszter képviseli.
+(5)
 
 (6) A területrendezési terv (3) bekezdés c) pontjában meghatározott feladatainak tartalmaznia kell a fenntartható fejlődés, a környezeti elemekkel való gazdálkodás és a környezet minőségének térségi szempontjait.
 

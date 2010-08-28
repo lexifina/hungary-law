@@ -2,21 +2,19 @@
 
 9. § (1) A miniszter
 
-a) koncepciókat és javaslatokat készít az országos területfejlesztési politika megalapozására, annak célkitűzéseit érvényesíti tervezési, koordinációs, szervező és információs feladataiban;
-
-b) kidolgozza az országos területfejlesztési koncepciót, összehangolja az országos és a térségi területfejlesztési koncepciókat és programokat;
+a)–b)
 
 c) közreműködik a kiemelt térségekre vonatkozó fejlesztési programok kidolgozásában, szervezi a végrehajtásukkal összefüggő feladatok teljesítését, és az e célt szolgáló anyagi eszközök felhasználását az érintett miniszterekkel együttműködve;
 
-d) szervezi az országos és az országos jelentőségű, valamint az országhatáron átnyúló, közös területrendezési koncepciók és tervek kialakítását, gondoskodik elkészítésükről;
+d) szervezi az országos és az országos jelentőségű, valamint az országhatáron átnyúló, közös koncepciók és tervek kialakítását, gondoskodik elkészítésükről;
 
 e) koordinálja a területfejlesztési célok megvalósítását közvetlenül és közvetve szolgáló fejezeti kezelésű előirányzatok pályázati úton történő felhasználását;
 
 f) elősegíti – az érintett miniszterekkel együttműködve – a területfejlesztési célú források decentralizációját, a forráskoordinációt és a programfinanszírozás megvalósulását;
 
-g) elősegíti a területfejlesztési koncepciók és programok, területrendezési tervek és a településrendezési tervek összhangját;
+g) elősegíti a területfejlesztési koncepciók és programok összhangját;
 
-h) ellátja a jogszabályokban és az állami irányítás egyéb jogi eszközei által meghatározott területfejlesztési, területrendezési jogszabály-előkészítési és végrehajtási feladatokat;
+h) ellátja a jogszabályokban és az állami irányítás egyéb jogi eszközei által meghatározott területfejlesztési jogszabály-előkészítési és végrehajtási feladatokat;
 
 i) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
 

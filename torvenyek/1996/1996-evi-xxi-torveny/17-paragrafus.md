@@ -52,7 +52,7 @@ f) évente beszámol a Kormánynak az előző évre ütemezett feladatok megval�
 
 a) a tanács illetékességi területén működő megyei területfejlesztési tanácsok elnökei;
 
-b) az agrár-vidékfejlesztésért felelős miniszter, az államháztartásért felelős miniszter, az egészségügyért felelős miniszter, a foglalkoztatáspolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a Miniszterelnöki Hivatalt vezető miniszter, az oktatásért felelős miniszter, valamint a területfejlesztésért és területrendezésért felelős miniszter egy-egy képviselője;
+b) a Kormány részéről a miniszter képviselője, valamint a Kormány által meghatározott további nyolc miniszteri képviselő;
 
 c) az érintett többcélú kistérségi társulások, illetve kistérségi fejlesztési tanácsok megyénként egy-egy képviselője;
 

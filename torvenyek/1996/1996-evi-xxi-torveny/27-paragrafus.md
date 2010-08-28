@@ -18,7 +18,7 @@ h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és m�
 
 i) a területfejlesztési önkormányzati társulások működéséhez kapcsolódó költségvetési hozzájárulás mértékét és felhasználásának módját;
 
-j)
+j) a területfejlesztés intézményei törvényességi felügyeletének részletes szabályait;
 
 j)
 
@@ -54,7 +54,7 @@ a)
 
 b)–c)
 
-d) a tervtanács működésének szabályait.
+d)
 
 e)
 
@@ -69,3 +69,5 @@ g) a 12. § (2) bekezdése szerinti adatszolgáltatás szabályait.
 (5) A miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a tanácsok működéséről.
 
 (6) Felhatalmazást kap a Kormány, hogy a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+
+(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a tervtanács működésének szabályait rendeletben állapítsa meg.

@@ -8,7 +8,7 @@ a) szavazati joggal rendelkező tagként vesznek részt:
 
 aa) a területfejlesztési szervek részéről: a regionális fejlesztési tanácsok elnökei, valamint a főpolgármester,
 
-ab) a Kormány részéről: a területfejlesztésért és területrendezésért felelős miniszter (a továbbiakban: miniszter), valamint a Kormány által meghatározott további nyolc miniszter,
+ab) a Kormány részéről: a területfejlesztésért felelős miniszter (a továbbiakban: miniszter), valamint a Kormány határozatában kijelölt további nyolc miniszteri képviselő,
 
 ac) köztestületek és érdekszövetségek részéről: az országos gazdasági kamarák elnökei; az Országos Érdekegyeztető Tanács munkaadói és munkavállalói oldalának egy-egy képviselője; az országos önkormányzati érdekszövetségek összesen három képviselője;
 
@@ -46,13 +46,13 @@ j) közreműködik az országos, az országos jelentőségű, valamint az orszá
 
 (5) A Tanács elnöke a miniszter.
 
-(6) Az egységes kormányzati álláspont kialakítása és képviselete érdekében a tagsággal rendelkező és a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és az Országos Területfejlesztési Tanács közötti egyeztetés rendjét. A Tanács titkárságának feladatait a kormányzati területfejlesztési feladatokért felelős szerv látja el, melynek képviselője állandó meghívottként részt vesz a Tanács ülésén.
+(6) Az egységes kormányzati álláspont kialakítása és képviselete érdekében a miniszteri képviselőkkel és a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és a Tanács közötti egyeztetés rendjét. A Tanács titkárságának feladatait a kormányzati területfejlesztési feladatokért felelős szerv látja el, amelynek képviselője állandó meghívottként részt vesz a Tanács ülésén.
 
 (7) A Tanács ülésén
 
-a) a tagként kijelölt minisztert állami vezető helyettesítheti. A tagként kijelölt miniszter és a helyettesítésre jogosult személyek akadályoztatása esetén a tagként kijelölt minisztert a miniszter által írásban teljes körű állásfoglalásra felhatalmazott személy helyettesítheti;
+a) miniszteri képviselőként állami vezető járhat el, akit akadályoztatása esetén az érintett miniszter által írásban teljes körű állásfoglalásra felhatalmazott személy helyettesíthet;
 
-b) a szavazati joggal rendelkező többi tagot – akadályoztatásuk esetén – a tag által írásban állásfoglalásra teljes körűen felhatalmazott képviselő helyettesítheti. Az akadályoztatás okáról a Tanács elnökét a kijelölő iratban tájékoztatni kell;
+b) a szavazati joggal rendelkező többi tagot – akadályoztatásuk esetén – a tag által írásban állásfoglalásra teljes körűen felhatalmazott képviselő helyettesítheti, az akadályoztatás okáról a Tanács elnökét a kijelölő iratban tájékoztatni kell;
 
 c) a tanácskozási joggal rendelkező tagokat – akadályoztatásuk esetén – a tag által véleménynyilvánításra írásban felhatalmazott képviselő helyettesítheti.
 
