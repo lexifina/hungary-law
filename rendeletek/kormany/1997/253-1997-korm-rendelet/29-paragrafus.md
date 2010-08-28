@@ -28,8 +28,9 @@ mezőgazdasági terület lehet.
 
 (7) Indokolt esetben a birtokközponthoz tartozó más telken kiegészítő központ alakítható ki, ha a központ beépítettsége a központhoz tartozó összes telek területe után számított beépíthetőségi mértéket nem éri el. Ilyen esetben a telephely beépítettsége a bejegyzett korlátozás szerinti beépíthetőségi mértéket nem haladhatja meg.
 
-(8) A birtokközpont és a kiegészítő központ kialakításához előzetesen elvi építési engedélyt kell kérni.
+(8)[^46]
 
 [^43]: A 29. § a 36/2002. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
 [^44]: A 29. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének f) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
 [^45]: A 29. § (5) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (8) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^46]: A 29. § (8) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 1. §-a hatályon kívül helyezte.

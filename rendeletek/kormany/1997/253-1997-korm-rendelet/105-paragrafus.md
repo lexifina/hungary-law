@@ -2,7 +2,7 @@
 
 ## Lakás
 
-105. §[^194] (1) A lakás olyan huzamos tartózkodás céljára szolgáló önálló rendeltetési egység, melynek lakóhelyiségeit (lakószoba, étkező stb.), főzőhelyiségeit (konyha, főzőfülke), egészségügyi helyiségeit (fürdőszoba, mosdó, zuhanyozó, WC), közlekedő helyiségeit (előszoba, előtér, belépő, szélfogó, közlekedő, folyosó) és tároló helyiségeit (kamra, gardrób, lomkamra, háztartási helyiség stb.) úgy kell kialakítani, hogy azok együttesen tegyék lehetővé
+105. §[^195] (1) A lakás olyan huzamos tartózkodás céljára szolgáló önálló rendeltetési egység, melynek lakóhelyiségeit (lakószoba, étkező stb.), főzőhelyiségeit (konyha, főzőfülke), egészségügyi helyiségeit (fürdőszoba, mosdó, zuhanyozó, WC), közlekedő helyiségeit (előszoba, előtér, belépő, szélfogó, közlekedő, folyosó) és tároló helyiségeit (kamra, gardrób, lomkamra, háztartási helyiség stb.) úgy kell kialakítani, hogy azok együttesen tegyék lehetővé
 
 a) a pihenést (az alvást) és az otthoni tevékenységek folytatását,
 
@@ -18,4 +18,4 @@ d) az életvitelhez szükséges anyagok és tárgyak tárolását tervezési pro
 
 (4) A lakásnak fűthetőnek kell lennie, lehetőleg minden helyiségben a rendeltetésének megfelelő szellőzést, természetes megvilágítást biztosítani kell.
 
-[^194]: A 105. § a 182/2008. (VII. 14.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^195]: A 105. § a 182/2008. (VII. 14.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

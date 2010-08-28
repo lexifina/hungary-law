@@ -1,6 +1,6 @@
 ## Felvonó, mozgólépcső, mozgójárda
 
-82. §[^160] (1) Az építményeket a rendeltetési céljuknak és a biztonságos használhatóságuknak megfelelő számú, elhelyezkedésű és műszaki tulajdonságú felvonóval kell tervezni és megvalósítani. Az ehhez szükséges felvonók műszaki tulajdonságait és darabszámát az épület fajtájától és a várható használóktól függően, a forgalmi követelményekre vonatkozó szabványok szerinti forgalomelemzés alapján, vagy azzal egyenértékű szolgáltatás biztosításával kell meghatározni.
+82. §[^161] (1) Az építményeket a rendeltetési céljuknak és a biztonságos használhatóságuknak megfelelő számú, elhelyezkedésű és műszaki tulajdonságú felvonóval kell tervezni és megvalósítani. Az ehhez szükséges felvonók műszaki tulajdonságait és darabszámát az épület fajtájától és a várható használóktól függően, a forgalmi követelményekre vonatkozó szabványok szerinti forgalomelemzés alapján, vagy azzal egyenértékű szolgáltatás biztosításával kell meghatározni.
 
 (2) Személyszállító felvonót kell létesíteni az (1) bekezdésnek megfelelően
 
@@ -20,7 +20,7 @@ c) a felvonó vezérlő és jelző elemek elhelyezését megfelelő nagyságban 
 
 d) fogyatékos személyek számára az emeletek akusztikus jelzését és tapintással olvasható emeletszámozást, vizuális jelzést.
 
-(5)[^161]
+(5)[^162]
 
 (6) Biztonsági felvonót akkor kell létesíteni, ha azt más jogszabály előírja, vagy ha az építmény kiürítésének, a mentésnek feltétele, továbbá a (2) bekezdés b) pontja szerinti esetekben, ha a mentés feltételei más módon nem biztosíthatók.
 
@@ -36,5 +36,5 @@ d) fogyatékos személyek számára az emeletek akusztikus jelzését és tapint
 
 (12) Új épületben olyan műszaki megoldású felvonót kell tervezni és megvalósítani, ahol a felvonó véghelyzeteiben legalább 0,5 x 0,6 x 0,8 m méretű téglatestnek megfelelő szabad vagy menekülő tér biztosítható a fülke felett és legalább 0,5 x 0,6 x 1,0 m méretű téglatestnek megfelelő szabad tér a fülke alatt.
 
-[^160]: A 82. § a 182/2008. (VII. 14.) Korm. rendelet 37. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^161]: A 82. § (5) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének c) pontja hatályon kívül helyezte. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^161]: A 82. § a 182/2008. (VII. 14.) Korm. rendelet 37. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^162]: A 82. § (5) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének c) pontja hatályon kívül helyezte. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.

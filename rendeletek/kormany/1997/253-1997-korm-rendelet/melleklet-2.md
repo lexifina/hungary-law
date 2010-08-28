@@ -1,4 +1,4 @@
-2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^215]
+2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^216]
 
 A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK JELKULCSA
 
@@ -198,4 +198,4 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 | - helyi jelentőségű védett természeti emlék |  |  |  |  |  |  |
 
-[^215]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^216]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

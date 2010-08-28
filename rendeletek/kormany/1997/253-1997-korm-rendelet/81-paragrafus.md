@@ -1,6 +1,6 @@
 ## Hulladékledobó berendezés
 
-81. §[^158] (1)[^159]
+81. §[^159] (1)[^160]
 
 (2) Hulladékledobó berendezés ejtőcsőve
 
@@ -18,5 +18,5 @@ legyen.
 
 (4) A fogadóhelyiségben légbeszívó szelepes tömlővéges vízkivételi lehetőséget és padlóösszefolyót kell biztosítani, padozatát és oldalfalait moshatóra kell kialakítani.
 
-[^158]: A 81. § a 182/2008. (VII. 14.) Korm. rendelet 36. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^159]: A 81. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 65. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^159]: A 81. § a 182/2008. (VII. 14.) Korm. rendelet 36. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^160]: A 81. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 65. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

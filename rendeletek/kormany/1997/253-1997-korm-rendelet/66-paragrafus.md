@@ -8,7 +8,7 @@ b) a rendszeres kézierős teherszállítás útvonalán legfeljebb 10%-os
 
 lehet.
 
-(2)[^129] Akadálymentes közlekedéshez:
+(2)[^130] Akadálymentes közlekedéshez:
 
 a) a lejtők egyenes karúak legyenek,
 
@@ -30,4 +30,4 @@ i) a szabadtéri lejtőt csapadéktól védetten, ennek hiányában megfelelő c
 
 j) többkarú lejtő legfeljebb 1,80 m magasságkülönbség áthidalására létesíthető.
 
-[^129]: A 66. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 25. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^130]: A 66. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 25. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

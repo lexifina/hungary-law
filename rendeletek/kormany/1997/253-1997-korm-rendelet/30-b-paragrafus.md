@@ -1,6 +1,6 @@
-## Különleges beépítésre nem szánt terület[^51]
+## Különleges beépítésre nem szánt terület[^52]
 
-30/B. §[^52] (1) A különleges beépítésre nem szánt területek:
+30/B. §[^53] (1) A különleges beépítésre nem szánt területek:
 
 a) egészségügyi területek (szanatórium, gyógyszálló, gyógyüdülő stb.),
 
@@ -22,5 +22,5 @@ h) egyéb, a 26–30/A. §-ban foglaltak egyikébe sem sorolható, helyi sajáto
 
 (3) A különleges beépítésre nem szánt területeken épületek legfeljebb 2%-os beépítettséggel helyezhetők el.
 
-[^51]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
-[^52]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^52]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^53]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
