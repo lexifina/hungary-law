@@ -1,1 +1,0 @@
-## „23. § E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 7. §-ával megállapított 1. § (1) bekezdését és 5. §-át az Mkr. hatálybalépését követően indult eljárásokban kell alkalmazni.”
