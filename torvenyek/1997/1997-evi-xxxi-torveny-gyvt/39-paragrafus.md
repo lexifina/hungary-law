@@ -36,7 +36,9 @@ d) javaslat készítése a veszélyeztetettség mértékének megfelelően
 
 da) a gyermek védelembe vételére, illetve a családi pótlék természetbeni formában történő nyújtására,
 
-db) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására.
+db) a gyermek tankötelezettsége teljesítésének előmozdítására,
+
+dc) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására.
 
 (5) A gyermekjóléti szolgáltatás feladata a családjából kiemelt gyermek visszahelyezése érdekében
 

@@ -6,7 +6,7 @@
 
 (3) A gyám kötelessége az otthonteremtési támogatás, valamint az utógondozói ellátás iránti igény benyújtásának figyelemmel kísérése és segítése.
 
-(4) A gyámhivatal a gyermek vagy a gyám kérésére, továbbá hivatalból eseti gondnokot rendel ki a gyermek képviseletének ellátására, ha a gyám, mint törvényes képviselő, a gyermeket a Csjt. szerint nem képviselheti, vagy ha a különleges szakértelmet igénylő ügyekben a gyám nem vállalkozik a gyermek képviseletének ellátására. Nem minősül különleges szakértelmet igénylő ügynek a gyermeket megillető családi pótlék, iskoláztatási támogatás, illetve árvaellátás igénylése, valamint annak gyámhatósági betétben való elhelyezése és kezelése.
+(4) A gyámhivatal a gyermek vagy a gyám kérésére, továbbá hivatalból eseti gondnokot rendel ki a gyermek képviseletének ellátására, ha a gyám, mint törvényes képviselő, a gyermeket a Csjt. szerint nem képviselheti, vagy ha a különleges szakértelmet igénylő ügyekben a gyám nem vállalkozik a gyermek képviseletének ellátására. Nem minősül különleges szakértelmet igénylő ügynek a gyermeket megillető családi pótlék, illetve árvaellátás igénylése, valamint annak gyámhatósági betétben való elhelyezése és kezelése.
 
 (5) A gyámhivatal a (4) bekezdésben foglalt eseti gondnokot elsősorban a területi gyermekvédelmi szakszolgálatnak, illetve – ha a gyermekotthont vagy nevelőszülői hálózatot nem állami szerv tartja fenn, illetve működteti – a működtetőnek ezzel a munkakörrel megbízott munkatársai közül jelöli ki.
 
