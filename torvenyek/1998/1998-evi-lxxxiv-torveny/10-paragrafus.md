@@ -1,5 +1,3 @@
-10. § (1) Ugyanazon gyermek (személy) után járó családi pótlék csak egy jogosultat illet meg.
+10. § (1) A családi pótlékot – függetlenül az igénylés és a megszüntetés időpontjától – teljes hónapra kell megállapítani és folyósítani.
 
-(2)
-
-(3) Ha a gyermek együttélő szülők háztartásában él, a családi pótlékot – együttes nyilatkozatuk alapján – bármelyik szülő igényelheti, mégpedig nyilatkozatuk szerint gyermekenként. Megállapodás hiányában az ellátást igénylő szülő személyéről – kérelemre – a gyámhatóság dönt.
+(2) A családi pótlékot folyósító szerv a kizárólag az ellátás megnevezésében – a tankötelezettség kezdetével vagy megszűnésével összefüggésben – bekövetkező, a családi pótlék összegét és az arra való jogosultság fennállását nem érintő változásokról határozat meghozatala nélkül dönt.

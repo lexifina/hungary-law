@@ -1,23 +1,27 @@
-8. § (1)
+## Iskoláztatási támogatás
 
-(2) A tartósan beteg, illetve súlyosan fogyatékos gyermek után vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását a külön jogszabályban előírtak szerint igazolták.
+8. § (1) Iskoláztatási támogatásra jogosult a 7. § (1) bekezdésének a)–c) pontjában meghatározott személy, továbbá a gyámhivatal által a szülői ház elhagyását engedélyező határozatban megjelölt személy
 
-(3) Családi pótlékra jogosult saját jogán
+a) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évének november 1-jétől a tankötelezettség teljes időtartamára, valamint
 
-a) a 7. § (1) bekezdésének d) pontjában megjelölt személy,
+b) a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti.
 
-b) a közoktatási intézményben tanulmányokat folytató, a 7. § (2) bekezdésében megjelölt életkorú, nagykorú személy,
+(2) A súlyos és halmozottan fogyatékos tanuló [a közoktatásról szóló 1993. évi LXXIX. törvény 30/A. §] szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
 
-ba) akinek mindkét szülője elhunyt,
+(3) Saját jogán jogosult iskoláztatási támogatásra az a közoktatási intézményben a tankötelezettsége megszűnését követően tanulmányokat folytató személy,
 
-bb) akinek a vele egy háztartásban élő hajadon, nőtlen, elvált vagy házastársától különélő szülője elhunyt,
+a) akinek mindkét szülője elhunyt,
 
-bc) aki kikerült az átmeneti vagy tartós nevelésből,
+b) akinek a vele egy háztartásban élő hajadon, nőtlen, elvált vagy házastársától különélő szülője elhunyt,
 
-bd) akinek a gyámsága nagykorúvá válása miatt szűnt meg,
+c) aki kikerült az átmeneti vagy tartós nevelésből,
 
-be) ha a 7. § (1) bekezdésének e) pontja alapján a családi pótlék a nagykorúságát megelőzően is a részére került folyósításra,
+d) akinek a gyámsága nagykorúvá válása miatt szűnt meg,
 
-bf) aki a 7. § (1) bekezdésének a) pontja szerinti személlyel nem él egy háztartásban.
+e) aki a 7. § (1) bekezdésének a) pontja szerinti személlyel nem él egy háztartásban,
 
-(4) Ha a közoktatási intézményben tanulmányokat folytató gyermekre tekintettel 18. életévének betöltéséig magasabb összegű családi pótlékot folyósítanak, az ezt követően utána vagy részére folyósított ellátás havi összege meg kell hogy egyezzen a 11. § (1) bekezdésének g), illetve h) pontja alapján megállapított magasabb összegű családi pótlék összegével. Az e bekezdés alapján folyósított ellátás más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül.
+f) vagy ha az iskoláztatási támogatást – a gyámhivatalnak a szülői ház elhagyását engedélyező határozatában foglaltak szerint – a nagykorúságát megelőzően is a részére folyósították,
+
+annak a tanévnek az utolsó napjáig, amelyben a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti.
+
+(4) Az iskoláztatási támogatást a tankötelezettség fennállása alatt a tanulói jogviszony szünetelésének időtartamára is folyósítani kell.

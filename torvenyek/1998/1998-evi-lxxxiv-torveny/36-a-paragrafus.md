@@ -1,4 +1,4 @@
-36/A. § (1) A közoktatási intézményben tanulmányokat folytatók tanulói jogviszonyának fennállásáról a név és a TAJ-szám közlésével az oktatási hivatal adatot szolgáltat a kincstár részére. Az adatok átadásának módjáról az oktatási hivatal és a kincstár megállapodást köt.
+36/A. § (1) A közoktatási intézményben tanulmányokat folytatók tanulói jogviszonyának létesítéséről, fennállásáról és megszűnésének várható időpontjáról a név és a TAJ-szám közlésével az oktatási hivatal évente október 15-éig adatot szolgáltat a kincstár részére. Az adatok átadásának módjáról az oktatási hivatal és a kincstár megállapodást köt.
 
 (2) Külön jogszabály szerint kell igazolni a tanulmányok közoktatási intézményben történő folytatását
 

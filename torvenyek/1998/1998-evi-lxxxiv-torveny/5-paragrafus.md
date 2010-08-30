@@ -2,7 +2,11 @@
 
 5. § A családtámogatási ellátások a következők:
 
-a) családi pótlék (6. §);
+a) családi pótlék
+
+aa) nevelési ellátás (7. §),
+
+ab) iskoláztatási támogatás (8. §);
 
 b) gyermekgondozási támogatás
 

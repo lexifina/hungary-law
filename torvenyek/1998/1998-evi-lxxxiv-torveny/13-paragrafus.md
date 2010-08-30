@@ -1,17 +1,7 @@
-13. § A családi pótlék összegének megállapítása szempontjából egyedülállónak kell tekinteni azt a szülőt, gyámot is,
+13. § (1) A családi pótlékra jogosult gyám, eseti gondnok
 
-a)
+a) a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő gyermekvédelmi gondoskodás alatt álló gyermekre (személyre) tekintettel járó családi pótlék teljes összegét,
 
-b) aki saját maga vagy házastársa, élettársa
+b) a gyermekotthonban lévő gyermekre (személyre) tekintettel járó családi pótlék 50%-át gyámhatósági fenntartásos betétben vagy folyószámlán helyezi el.
 
-ba) közoktatási intézmény tanulója, felsőoktatási intézmény első oklevelet szerző hallgatója és jövedelme nincs,
-
-bb) vakok személyi járadékában, vagy fogyatékossági támogatásban részesül,
-
-bc) rokkantsági nyugdíjas, baleseti rokkantsági nyugdíjas, illetve rehabilitációs járadékban részesül, és nyugdíjának, járadékának összege nem haladja meg a rokkantsági csoportonként megállapított legkisebb rokkantsági nyugdíj, illetve a legkisebb rehabilitációs járadék összegét és egyéb jövedelme nincs,
-
-bd) nyugellátásban – ide nem értve a bc) pont szerinti nyugellátásokat –, átmeneti járadékban részesül és nyugdíjának, járadékénak összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét és egyéb jövedelme nincs,
-
-be) időskorúak járadékában, rendszeres szociális segélyben, rendszeres szociális járadékban, rokkantsági járadékban, hadigondozási járadékban részesül és egyéb jövedelme nincs,
-
-bf) a reá irányadó öregségi nyugdíjkorhatárt betöltötte és jövedelme nincs.
+(2) A gyermekotthon vezetője a gyermekotthonban lévő gyermekre (személyre) tekintettel járó családi pótlék összegének 50%-át az intézmény költségvetésétől elkülönítetten kezeli, és a gyermek (személy) teljes körű ellátásának kiegészítésére biztosítja annak személyre szóló felhasználását. A szociális intézmény vezetője a családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és biztosítja annak személyre szóló felhasználását.
