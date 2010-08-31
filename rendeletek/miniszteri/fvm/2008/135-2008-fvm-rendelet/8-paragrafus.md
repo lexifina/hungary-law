@@ -2,7 +2,7 @@
 
 ## A kifizetési kérelem benyújtása
 
-8. §[^46] (1) A kifizetési kérelmet postai úton 2009-től kezdődően évente
+8. §[^46] (1)[^47] A kifizetési kérelmet postai úton vagy amennyiben annak feltételei fennállnak, az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül 2010. október 1-jétől kezdődően évente
 
 a) január 1. és január 31.,
 
@@ -12,13 +12,13 @@ c) július 1. és július 31.,
 
 d) október 1. és október 31.
 
-között lehet benyújtani.
+között lehet benyújtani. A kifizetési kérelemhez csatolandó dokumentumokat elektronikus benyújtás esetén elektronikus űrlapon, szkennelés útján előállított formában kell csatolni a kérelemhez.
 
-(2) A kifizetési kérelmet
+(2)[^48] A postai úton benyújtott kifizetési kérelmet
 
 a) a 2008. október 19. és a 2009. január 10. közötti támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában az MVH-hoz,
 
-b) a 2009. január 10-ét követően meghirdetésre kerülő támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához
+b) a 2009. január 10-ét követően meghirdetésre kerülő támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához,
 
 az MVH által rendszeresített, a (3) bekezdésben meghatározott adattartalmú formanyomtatványon lehet benyújtani.
 
@@ -46,3 +46,5 @@ i) az ügyfél aláírása.
 
 [^45]: A 7. § a 161/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.
 [^46]: A 8. § a 161/2009. (XI. 19.) FVM rendelet 7. §-ával megállapított szöveg.
+[^47]: A 8. § (1) bekezdése a 13/2010. (VIII. 30.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^48]: A 8. § (2) bekezdése a 13/2010. (VIII. 30.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
