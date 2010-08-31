@@ -1,6 +1,6 @@
 ## Kifizetési kérelem benyújtása
 
-8. § (1) A kifizetési kérelmet 2009-től kezdődően évente:
+8. § (1)[^19] A kifizetési kérelmet postai úton – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához az MVH által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon, vagy amennyiben annak feltételei fennállnak, az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül 2010. október 1-jétől kezdődően évente:
 
 a) január 1–31.,
 
@@ -10,7 +10,7 @@ c) július 1–31.,
 
 d) október 1–31.
 
-## között lehet benyújtani az MVH kirendeltségéhez, az MVH által rendszeresített formanyomtatványon vagy az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül írott formában.
+## között lehet benyújtani. A kifizetési kérelemhez csatolandó dokumentumokat elektronikus benyújtás esetén elektronikus űrlapon, szkennelés útján előállított formában kell csatolni a kérelemhez.
 
 (2) Az utolsó kifizetési kérelemhez csatolni kell:
 
@@ -24,6 +24,7 @@ d) a 3. § (1) bekezdés c) pont cc) alpontjában meghatározott fejlesztések e
 
 e) turisztikai szakmai szervezeti tagság igazolását.
 
-(3)[^19] Az első kifizetési kérelemhez az 5. § (10) bekezdés szerint megvalósuló fejlesztés esetében a közhasznú szervezetnek csatolnia kell a közhasznúságról szóló igazolást.
+(3)[^20] Az első kifizetési kérelemhez az 5. § (10) bekezdés szerint megvalósuló fejlesztés esetében a közhasznú szervezetnek csatolnia kell a közhasznúságról szóló igazolást.
 
-[^19]: A 8. § (3) bekezdését a 170/2008. (XII. 31.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^19]: A 8. § (1) bekezdése a 13/2010. (VIII. 30.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 8. § (3) bekezdését a 170/2008. (XII. 31.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
