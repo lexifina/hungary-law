@@ -1,6 +1,6 @@
-3. §[^4] Ez a rendelet a kihirdetését követő napon lép hatályba és 2016. május 31-én hatályát veszti.
+3. §[^10] Ez a rendelet a kihirdetését követő napon lép hatályba és 2016. május 31-én hatályát veszti.
 
-Melléklet a 122/2007. (X. 19.) FVM rendelethez[^5]
+Melléklet a 122/2007. (X. 19.) FVM rendelethez[^11]
 
 Támogatási kérelem
 
@@ -100,5 +100,5 @@ Kelt: , év hó nap
 
 erdőgazdálkodó (szerv. vezető)
 
-[^4]: A 3. § a 103/2008. (VIII. 8.) FVM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^5]: A mellékletet a 103/2008. (VIII. 8.) FVM rendelet 3. §-a iktatta be.
+[^10]: A 3. § a 103/2008. (VIII. 8.) FVM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^11]: A mellékletet a 103/2008. (VIII. 8.) FVM rendelet 3. §-a iktatta be.
