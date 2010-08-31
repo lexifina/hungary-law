@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2010-01-01 | 1998-223-20-22.25 | 223/1998. (XII. 30.) Korm. rendelet |
 | 2010-05-01 | 1998-223-20-22.26 | 140/2010. (IV. 28.) Korm. rendelet |
 | 2010-06-28 | 1998-223-20-22.27 | 117/2009. (VI. 4.) Korm. rendelet |
+| 2010-08-31 | 1998-223-20-22.28 | 176/2009. (VIII. 29.) Korm. rendelet |
