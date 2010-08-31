@@ -1,4 +1,4 @@
-8. §[^9] (1) Az MVH a támogatási kérelmet az abban foglaltak alapján megvizsgálja, és a rendelkezésre álló forrásra, az általános de minimis rendelet szerinti egyéni keretre, valamint a benyújtás sorrendjére is figyelemmel döntést hoz.
+8. §[^20] (1) Az MVH a támogatási kérelmet az abban foglaltak alapján megvizsgálja, és a rendelkezésre álló forrásra, az általános de minimis rendelet szerinti egyéni keretre, valamint a benyújtás sorrendjére is figyelemmel döntést hoz.
 
 (2) Az MVH a hiányosan benyújtott, továbbá az általános de minimis keretet meghaladó támogatási igény esetén a támogatási kérelmet elutasítja.
 
@@ -6,4 +6,4 @@
 
 (4) Az MVH a támogatási döntésről szóló határozat másolati példányát egyidejűleg megküldi az erdőrészlet elhelyezkedése szerint illetékes erdészeti hatóság részére is.
 
-[^9]: A 8. §-t a 12. § (2) bekezdése hatályon kívül helyezte 2010. december 31. napjával.
+[^20]: A 8. §-t a 12. § (2) bekezdése hatályon kívül helyezte 2010. december 31. napjával.

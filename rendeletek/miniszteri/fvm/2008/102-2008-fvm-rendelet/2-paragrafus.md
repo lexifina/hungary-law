@@ -4,17 +4,17 @@
 
 ## 2. §[^3] E rendelet alkalmazásában:
 
-a) erdőgazdálkodó: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a továbbiakban: Evt.) 13. § (1)–(2) bekezdése szerint – a Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: erdészeti hatóság) által – nyilvántartásba vett erdőgazdálkodó;
+a)[^4] erdőgazdálkodó: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 17–18. § szerint – a Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: erdészeti hatóság) által – nyilvántartásba vett erdőgazdálkodó;
 
-b) egyéves erdőfelújítás: minden olyan mesterséges erdőfelújítás, ahol az erdősítés elvégzését követően (első kivitel) vagy az 50%-ot meghaladó mértékű pótlás óta egy tenyészeti időszak eltelt, valamint a tölgy, a bükk, a cser főfafajú és az egyéb kemény vagy lágy lomb csoportba tartozó főfafajú állományok alatt megjelent természetes vagy alátelepített újulat, az idős állomány végvágása, vagy harminc százalékos záródás alá bontása, az akác és szürke nyár gyökér, továbbá az éger tuskósarj eredetű újulat a tarvágást követő tenyészeti időszak végén;
+b)[^5] egyéves erdőfelújítás: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet (a továbbiakban: Vhr.) 28. § (2) bekezdése szerinti sikeres első erdősítés;
 
-c) befejezett erdőfelújítás: minden olyan mesterséges és természetes erdőfelújítás, amit az erdészeti hatóság az Evt. 41. §-ának (5) bekezdése, valamint az Erdőrendezési Szabályzatról szóló 88/2000. (XI. 10.) FVM rendeletben (a továbbiakban: Erdőrendezési Szabályzat) részletezett szakmai követelmények szerint a végrehajtásra kijelölt erdősítési előírás alapján befejezettnek nyilvánít;
+c)[^6] befejezett erdőfelújítás: minden olyan mesterséges és természetes erdőfelújítás, amit az erdészeti hatóság az Evt. 52. §-a szerint befejezettnek nyilvánít;
 
 d) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásokról szóló 2004. október 1-jei bizottsági közlemény (2004/C 244/02.) 2.1. pontja szerinti vállalkozás;
 
-e) sikeresség: az erdőfelújítás eredményességét jelző állapot, amelyben az kerül kifejezésre, hogy a csemeték megfelelő mennyiségben és minőségben, közel egyenletes eloszlásban vannak-e jelen a területen;
+e)[^7]
 
-f) erdőrészlet: az Evt. 12. § (3) bekezdése szerint meghatározott fogalom;
+f)[^8] erdőrészlet: az Evt. 16. § (6) bekezdése szerint meghatározott fogalom;
 
 g) állományrész: egy erdőrészleten belül a véghasználatok és az erdőfelújítások szakaszos kivitelezése miatt az erdészeti hatósági nyilvántartásban elkülönített, egy hektárnál nagyobb terület;
 
@@ -22,3 +22,8 @@ h) általános de minimis rendelet: a Szerződés 87. és 88. cikkének a de min
 
 [^2]: Az 1. §-t a 12. § (2) bekezdése hatályon kívül helyezte 2010. december 31. napjával.
 [^3]: A 2. §-t a 12. § (2) bekezdése hatályon kívül helyezte 2010. december 31. napjával.
+[^4]: A 2. § a) pontja a 11/2010. (VIII. 30.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § b) pontja a 11/2010. (VIII. 30.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § c) pontja a 11/2010. (VIII. 30.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § e) pontját a 11/2010. (VIII. 30.) VM rendelet 14. § (7) bekezdése hatályon kívül helyezte.
+[^8]: A 2. § f) pontja a 11/2010. (VIII. 30.) VM rendelet 14. § (2) bekezdésével megállapított szöveg.
