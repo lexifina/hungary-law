@@ -1,29 +1,6 @@
-1. melléklet a 3/2010. (VII. 30.) NGM rendelethez
+## 3. §[^1]
 
-„16/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez
+1. melléklet a 3/2010. (VII. 30.) NGM rendelethez[^2]
 
-Szakvélemény a foglalkoztathatóságról
-
-A foglalkoztathatósági szakvéleményt kiállító foglalkozás-egészségügyi szolgáltató/szakellátó hely neve, címe:
-
-Az ügyfél neve:
-
-társadalombiztosítási azonosító jele:
-
-születési helye:
-
-születési ideje: .............. év ..................................... hó ......... nap
-
-Foglalkoztatási korlátozások (a 16. számú mellékletben található sorszámmal és szöveggel beírni):
-
-A foglalkoztathatósági szakvélemény érvényes: .............. év ..................................... hó ......... nap
-
-P. H.
-
-.........................................................................................
-
-a szakvéleményt kiállító orvos neve
-
-és pecsétszáma
-
-”
+[^1]: A 3. §-t a 2. § (2) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. mellékletet a 2. § (2) bekezdése hatályon kívül helyezte.
