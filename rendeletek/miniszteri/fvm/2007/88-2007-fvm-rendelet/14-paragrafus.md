@@ -1,6 +1,6 @@
-14. §[^20] (1) Ha a 3. § (1) bekezdése alapján a kérelemben megjelölt és a jóváhagyott célállomány a 2. számú melléklet szerinti pontnál alacsonyabb pontértékű célállománytípussal kerül megvalósításra, úgy az ügyfél az adott erdőrészletre eső ténylegesen megvalósított célállomány első kivitele után járó támogatási összeg 85%-ára jogosult.
+14. §[^36] (1)[^37] Ha a 3. § (1) bekezdés alapján a kérelemben megjelölt és a jóváhagyott célállomány a 2. melléklet szerinti pontnál alacsonyabb pontértékű célállománytípussal kerül megvalósításra, úgy az ügyfél az adott erdőrészletre eső ténylegesen megvalósított célállomány alaptámogatása után járó támogatási összeg 85%-ára jogosult.
 
-(2) Ha megállapításra kerül, hogy a támogatásra jogosult az 5. § (5) bekezdés a) pontjában foglaltakat nem tartotta be, úgy az adott erdőrészletre eső első kivitel támogatási összegének 10%-át köteles visszafizetni.
+(2)[^38] Ha megállapításra kerül, hogy a támogatásra jogosult az 5. § (5) bekezdés a) pontjában foglaltakat nem tartotta be, úgy az adott erdőrészletre eső alaptámogatás összegének 10%-át köteles visszafizetni.
 
 (3) Ha megállapításra kerül, hogy a támogatásra jogosult a 6. § (2) bekezdésében foglalt kiegészítő intézkedéseket a 6. § (5) bekezdés a) pontja ellenére úgy hajtotta végre, hogy azok
 
@@ -14,4 +14,6 @@ b) funkciójuk ellátására alkalmasak, de a 3. számú mellékletben meghatár
 
 (6) Amennyiben megállapításra kerül, hogy a támogatásra jogosult mégsem felel meg a 9. § (4) bekezdésében foglaltaknak, abban az esetben csak az alapszintű jövedelempótló támogatás 50%-ra jogosult, valamint az ezen felül korábban felvett jövedelempótló támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
 
-[^20]: A 14. § a 149/2008. (XI. 12.) FVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 11. §-a alapján a 14. § (5)–(6) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
+[^36]: A 14. § a 149/2008. (XI. 12.) FVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 11. §-a alapján a 14. § (5)–(6) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
+[^37]: A 14. § (1) bekezdése a 11/2010. (VIII. 30.) VM rendelet 10. §-ával megállapított szöveg.
+[^38]: A 14. § (2) bekezdése a 11/2010. (VIII. 30.) VM rendelet 10. §-ával megállapított szöveg.

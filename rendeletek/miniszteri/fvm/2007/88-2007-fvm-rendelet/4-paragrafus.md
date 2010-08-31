@@ -1,30 +1,6 @@
 ## A támogatás mértéke
 
-4. § (1) Az erdőtelepítési első kivitel és az ápolás támogatásának mértéke, valamint a jövedelempótló támogatási időszak hossza az egyes támogatási csoportokban:
-
-| Támogatási csoportok | Tölgy és bükk | Egyéb kemény lombos | Egyéb lágy lombos | Akác | Nemes nyár | Fenyő |
-
-| Jövedelempótló támogatási időszak | év |
-
-| 15 | 15 | 10 | 5 | 5 | 5 |
-
-| Első kivitel támogatása | euró/hektár |
-
-| 10 fok alatt* | 1520 | 1040 | 940 | 810 | 880 | 670 |
-
-| 10 fok felett** | 1830 | 1240 | 1130 | 970 | 0 | 810 |
-
-| Ápolási támogatás | euró/hektár/év |
-
-| 10 fok alatt* | 236 | 241 | 174 | 156 | 186 | 192 |
-
-| 10 fok felett** | 284 | 290 | 209 | 187 | 0 | 230 |
-
-* Tíz fokos és ez alatti lejtésű terület.
-
-** Tíz fok feletti lejtésű terület.
-
-A támogatási csoportokba tartozó célállománytípusokat az 1. számú melléklet tartalmazza.
+4. § (1)[^5] Az erdőtelepítési első kivitel és az ápolás támogatásának mértékét, valamint a jövedelempótló támogatási időszak hosszát az egyes támogatási csoportokban az 5. melléklet tartalmazza. A támogatási csoportokba tartozó célállománytípusokat az 1. melléklet tartalmazza.
 
 (2) A kiegészítő intézkedés támogatásának mértéke:
 
@@ -36,12 +12,10 @@ c) villanypásztor: 1,37 euró/méter;
 
 d) bakhát: 412,15 euró/hektár.
 
-(3) Az éves jövedelempótló támogatás mértéke:
+(3)[^6] Az éves jövedelempótló támogatás mértékét a 6. melléklet tartalmazza.
 
-|  | Gyepterületek (évente, hektáronként, euróban) | Egyéb mezőgazdasági terület (évente, hektáronként, euróban) |
+(4)[^7] Az egyes támogatási csoportokban első kivitelre megállapított, minimális csemeteszám mértékét a 7. melléklet tartalmazza.
 
-| Kiemelt jövedelempótló támogatás (a 2. § 1. pontjában foglaltak szerinti mezőgazdasági termelő jogosult) | 92 | 242 |
-
-| Alapszintű jövedelempótló támogatás (aki nem felel meg a 2. § 1. pontjában foglalt meghatározásnak) | 57 | 150 |
-
-(4) Az egyes támogatási csoportokban első kivitelre megállapított, minimális csemeteszám:
+[^5]: A 4. § (1) bekezdése a 11/2010. (VIII. 30.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (3) bekezdése a 11/2010. (VIII. 30.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (4) bekezdése a 11/2010. (VIII. 30.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
