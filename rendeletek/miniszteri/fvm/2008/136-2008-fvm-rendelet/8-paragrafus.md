@@ -1,8 +1,8 @@
-## 7. §[^25] A támogatási kérelmek bírálatát – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS az 1. számú mellékletben, a LEADER HACS területére megállapított pontozási rendszer alapján végzett értékeléssel, továbbá a Törvény 32. § (1) bekezdés c) pontja szerinti rangsor állításával végzi. A támogatási kérelmek rangsorolása után a rendelkezésre álló keret alapján az MVH hozza meg a támogatási határozatot.
+## 7. §[^26] A támogatási kérelmek bírálatát – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS az 1. számú mellékletben, a LEADER HACS területére megállapított pontozási rendszer alapján végzett értékeléssel, továbbá a Törvény 32. § (1) bekezdés c) pontja szerinti rangsor állításával végzi. A támogatási kérelmek rangsorolása után a rendelkezésre álló keret alapján az MVH hozza meg a támogatási határozatot.
 
 ## Kifizetési kérelem benyújtása
 
-8. § (1)[^26] A kifizetési kérelmet postai úton 2009-től kezdődően évente:
+8. § (1)[^27] A kifizetési kérelmet postai úton vagy amennyiben annak feltételei fennállnak, az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül 2010. október 1-jétől kezdődően évente
 
 a) január 1. és január 31.,
 
@@ -10,25 +10,21 @@ b) április 1. és április 30.,
 
 c) július 1. és július 31.,
 
-d) október 1–31.
+d) október 1. és október 31.
 
-között lehet benyújtani.
+között lehet benyújtani. A kifizetési kérelemhez csatolandó dokumentumokat elektronikus benyújtás esetén elektronikus űrlapon, szkennelés útján előállított formában kell csatolni a kérelemhez.
 
-(2) Az első kifizetési kérelemhez csatolni kell:
+(2)[^28] Induló vállalkozás esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolati példányát.
 
-a)[^27]
+(3)[^29] A postai úton benyújtott kifizetési kérelmet
 
-b) adóbejelentkezési lap másolatát.
+a) a 2008. október 19. és a 2009. január 10. közötti támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában az MVH-hoz,
 
-(3)[^28] A kifizetési kérelmet
-
-a) a 2008. október 19. és 2009. január 10. közötti támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában az MVH-hoz,
-
-b) a 2009. január 10-ét követően meghirdetésre kerülő támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájába
+b) a 2009. január 10-ét követően meghirdetésre kerülő támogatási időszakban benyújtott és támogatásban részesített támogatási kérelmek vonatkozásában – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához,
 
 az MVH által rendszeresített, a (4) bekezdésben meghatározott adattartalmú formanyomtatványon lehet benyújtani.
 
-(4)[^29] A kifizetési kérelemnek a következőket kell tartalmaznia:
+(4)[^30] A kifizetési kérelemnek a következőket kell tartalmaznia:
 
 a) az ügyfél azonosítására vonatkozó adatok,
 
@@ -48,8 +44,8 @@ h) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 i) az ügyfél aláírása.
 
-[^25]: A 7. § a 158/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.
-[^26]: A 8. § (1) bekezdése a 158/2009. (XI. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^27]: A 8. § (2) bekezdés a) pontját a 23/2010. (III. 16.) FVM rendelet 28. § b) pontja hatályon kívül helyezte.
-[^28]: A 8. § (3) bekezdését a 158/2009. (XI. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.
-[^29]: A 8. § (4) bekezdését a 158/2009. (XI. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.
+[^26]: A 7. § a 158/2009. (XI. 19.) FVM rendelet 6. §-ával megállapított szöveg.
+[^27]: A 8. § (1) bekezdése a 13/2010. (VIII. 30.) VM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^28]: A 8. § (2) bekezdése a 13/2010. (VIII. 30.) VM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^29]: A 8. § (3) bekezdését a 158/2009. (XI. 19.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 13/2010. (VIII. 30.) VM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^30]: A 8. § (4) bekezdését a 158/2009. (XI. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.
