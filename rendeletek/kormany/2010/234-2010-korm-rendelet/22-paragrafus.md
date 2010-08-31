@@ -1,0 +1,1 @@
+## 21. § A DUNA-ETANOL Zrt. Bioetanol-Biogáz-Kiserőmű projekt Dunaalmás község közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 60/2010. (III. 18.) Korm. rendelet 1. és 2. melléklete a 21. melléklet szerint módosul.

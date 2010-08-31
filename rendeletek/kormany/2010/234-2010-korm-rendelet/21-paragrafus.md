@@ -1,0 +1,1 @@
+## 20. § A Pannonia Ethanol Zrt. bioetanol-előállító üzem projekt Dunaföldvár város közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 15/2010. (II. 5.) Korm. rendelet 1. és 2. melléklete a 20. melléklet szerint módosul.

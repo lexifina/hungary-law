@@ -1,0 +1,1 @@
+## 11. § A Kecskemét közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 192/2008. (VII. 30.) Korm. rendelet 1. és 2. számú melléklete a 11. melléklet szerint módosul.

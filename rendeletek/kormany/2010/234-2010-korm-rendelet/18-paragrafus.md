@@ -1,0 +1,1 @@
+## 17. § A „King's City” nevű komplex turisztikai projekt Sukoró község külterületen megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 83/2009. (IV. 10.) Korm. rendelet 1. és 2. számú melléklete a 18. melléklet szerint módosul.
