@@ -1,11 +1,9 @@
 ## Jogkövetkezmények
 
-8. § (1) Az elismerési okirat visszavonása esetén a termelői csoport támogatási jogosultsága megszűnik, illetve a már kifizetett tárgyévi támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
+8. §[^5] (1) Az elismerési okirat visszavonása esetén a termelői csoport támogatási jogosultsága megszűnik, és a már kifizetett tárgyévi támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
 
-(2) Amennyiben az ellenőrzés során bizonyosságot nyer, hogy a támogatásra jogosult a termékértékesítésből származó termelési értéknél
+(2) Amennyiben az ellenőrzés során bizonyosságot nyer, hogy a termelői csoport kifizetési – első évben támogatási – kérelmében igényelt támogatási összeg több mint három százalékkal túllépi a jogosultsági vizsgálat alapján az MVH által megállapított összeget, úgy ez utóbbi összeg csökkentésre kerül. A csökkentés mértéke a fenti két összeg különbözete. Nem alkalmazható támogatáscsökkentés, ha a termelői csoport bizonyítani tudja, hogy a kérelmében szereplő igényelt támogatási összeg hibás kiszámításában vétlen.
 
-a) több mint tíz százalékkal, de kevesebb mint húsz százalékkal nagyobb összeget jelöl meg a kérelmében, úgy a tényleges adatok alapján kiszámított adott évi támogatási összeget az MVH ötven százalékkal csökkenti;
+(3) Amennyiben az ellenőrzés során bizonyosságot nyer, hogy a támogatásra jogosult a termékértékesítésből származó termelési értéknél a támogatási időszak alatt másodszor közöl a kérelmében legalább tíz százalékkal nagyobb összeget, úgy az MVH adott évben nem fizet támogatást az igénylő részére.
 
-b) több mint húsz százalékkal nagyobb összeget jelöl meg a kérelmében, úgy az MVH az adott évben nem fizet támogatást a kérelmező részére;
-
-c) a támogatási időszak alatt másodszor közöl a kérelmében legalább tíz százalékkal nagyobb összeget, úgy az MVH adott évben nem fizet támogatást az igénylő részére.
+[^5]: A 8. § a 12/2010. (VIII. 30.) VM rendelet 4. §-ával megállapított szöveg.
