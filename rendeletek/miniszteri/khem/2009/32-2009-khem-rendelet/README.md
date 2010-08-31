@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-32-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-08-25 | 2009-32-20-2M.2 | 32/2009. (VI. 30.) KHEM rendelet |
+| 2010-08-31 | 2009-32-20-2M.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
