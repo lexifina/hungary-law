@@ -32,7 +32,7 @@ m)[^6] hátrányos helyzetű terület: a kedvezményezett térségek besorolás�
 
 n)[^7] önkormányzati bérlakás: a helyi önkormányzat tulajdonában lévő lakás;
 
-o)[^8] illetékes LEADER HACS: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet alapján előzetesen elismert helyi közösségek tervezési folyamatával, és a LEADER csoportok kiválasztásával kapcsolatos egyes kérdésekről szóló 147/2007. (XII. 4.) FVM rendeletben elismert LEADER helyi akciócsoport, amely az e rendelet szerinti tervezési területen látja el a munkaszervezetén keresztül az Új Magyarország Vidékfejlesztési Program III. és IV. tengely intézkedéseinek delegálási szerződés keretein belüli végrehajtását;
+o)[^8] illetékes LEADER HACS: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet alapján előzetesen elismert helyi közösségek tervezési folyamatával, és a LEADER csoportok kiválasztásával kapcsolatos egyes kérdésekről szóló 147/2007. (XII. 4.) FVM rendeletben elismert olyan LEADER helyi akciócsoport, amely a Helyi Vidékfejlesztési Közösségek és a LEADER helyi akciócsoportok részére az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet 9. számú melléklete szerinti tervezési területen látja el a munkaszervezetén keresztül az Új Magyarország Vidékfejlesztési Program III. és IV. tengely intézkedéseinek delegálási szerződés keretein belüli végrehajtását;
 
 p)[^9] telek zöldfelülete: az OTÉK 1. számú melléklet 92. pontjában ekként meghatározott fogalom;
 
@@ -47,6 +47,6 @@ q)[^10] látvány térelem: olyan kültéri térelem, amely hozzájárul a telep
 [^5]: A 2. § (1) bekezdés k) pontja az 56/2010. (V. 6.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés m) pontját a 171/2008. (XII. 31.) FVM rendelet 1. §-a iktatta be, szövege a 159/2009. (XI. 19.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^7]: A 2. § (1) bekezdésének n) pontját a 159/2009. (XI. 19.) FVM rendelet 1. § (4) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdésének o) pontját a 159/2009. (XI. 19.) FVM rendelet 1. § (4) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdésének o) pontját a 159/2009. (XI. 19.) FVM rendelet 1. § (4) bekezdése iktatta be, szövege a 13/2010. (VIII. 30.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdésének p) pontját a 159/2009. (XI. 19.) FVM rendelet 1. § (4) bekezdése iktatta be.
 [^10]: A 2. § (1) bekezdésének q) pontját a 159/2009. (XI. 19.) FVM rendelet 1. § (4) bekezdése iktatta be.
