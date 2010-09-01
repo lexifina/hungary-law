@@ -1,1 +1,0 @@
-## „(5) Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt a Központot kell megkeresni.”
