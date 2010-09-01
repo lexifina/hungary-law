@@ -8,7 +8,7 @@
 
 (4) A megyei védelmi bizottság elnöke a megyei közgyűlés elnöke, a fővárosi védelmi bizottság elnöke a főpolgármester. Tagjai:
 
-a) a Kormány általános hatáskörű területi államigazgatási szervének a vezetője,
+a) a közigazgatási hivatal vezetője,
 
 b) a megyei (fővárosi) főjegyző,
 
