@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Londonban, 2000. október 17-én kelt, az európai szabadalmak megadásáról szóló Egyezmény 65. cikkének alkalmazásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
