@@ -20,7 +20,7 @@ i) a személyes adatok kezelésével összefüggésben az adatvédelmi biztos,
 
 j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 3. számú mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a köztisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
 
-k) a központi közszolgálati nyilvántartás vezetésével összefüggésben a központi közszolgálati hatóság és a Kormány általános hatáskörű területi államigazgatási szerve köztisztviselője feladatkörében,
+k) a központi közszolgálati nyilvántartás vezetésével összefüggésben a központi közszolgálati hatóság és a közigazgatási hivatal köztisztviselője feladatkörében,
 
 l) a feladatai ellátásához szükséges mértékig adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra, illetve a Miniszterelnökségre vonatkozó adatok tekintetében a szolgáltató központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, szolgáltató központnál alkalmazásban álló személy.
 
@@ -32,7 +32,7 @@ b) a kormányzati döntések megalapozásához szükséges körben a miniszter,
 
 c)
 
-d) illetékességi területének adatai körében a Kormány általános hatáskörű területi államigazgatási szerve vezetője,
+d) illetékességi területének adatai körében a közigazgatási hivatal vezetője,
 
 e) a feladatai ellátásához szükséges mértékig a minisztériumokra, illetve a Miniszterelnökségre vonatkozó adatok tekintetében a szolgáltató központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, szolgáltató központnál alkalmazásban álló személy.
 

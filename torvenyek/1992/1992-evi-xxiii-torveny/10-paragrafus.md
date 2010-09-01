@@ -6,7 +6,7 @@
 
 (3) A pályázatot kiíró szerv a – munkáltatói jogkör gyakorlója által összeállított munkakörtérképen alapuló – pályázati kiírás meghirdetésével egyidejűleg a pályázati kiírást elektronikus úton megküldi a kormányzati személyügyi igazgatási feladatokat ellátó szerv (a továbbiakban: szolgáltató központ) részére, amely azt elektronikusan közzéteszi az egységes hozzáférés biztosítása érdekében.
 
-(4) Központi államigazgatási szervnél, annak területi szervénél és Kormány általános hatáskörű területi államigazgatási szervénél, a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szervnél vezetői kinevezésre vagy vezetői megbízásra, valamint központi államigazgatási szerv helyi szervének vezetésére szóló vezetői kinevezésre vagy vezetői megbízásra kiírt pályázat esetén – a pályázat kiírójának kezdeményezésére – a pályázati eljárást és az ahhoz kapcsolódó kompetencia-vizsgálatot a szolgáltató központ bonyolítja le.
+(4) Központi államigazgatási szervnél, annak területi szervénél és a közigazgatási hivatalnál vezetői kinevezésre vagy vezetői megbízásra, valamint központi államigazgatási szerv helyi szervének vezetésére szóló vezetői kinevezésre vagy vezetői megbízásra kiírt pályázat esetén – a pályázat kiírójának kezdeményezésére – a pályázati eljárást és az ahhoz kapcsolódó kompetencia-vizsgálatot a szolgáltató központ bonyolítja le.
 
 (5) A (4) bekezdésben meg nem határozott esetekben a pályázatot kiíró szerv kérheti a szolgáltató központtól kompetencia-vizsgálat lefolytatását, amelyről a szolgáltató központ vezetője a rendelkezésére álló szabad kapacitások alapján dönt.
 

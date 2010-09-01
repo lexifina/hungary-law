@@ -4,7 +4,7 @@
 
 (3) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a 7. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A kinevezés polgármester, a képviselő-testület és bizottsága megbízatásának, illetve feladata ellátásának idejére szól. A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat a polgármester gyakorolja.
 
-(4) A politikai főtanácsadó, politikai tanácsadó – tekintet nélkül a közszolgálati jogviszonyban eltöltött idejére – főtanácsos vagy vezető-tanácsos besorolást kap, illetményét a besorolásától függetlenül a munkáltatói jogkör gyakorlója állapítja meg.
+(4) A politikai főtanácsadó, politikai tanácsadó – tekintet nélkül a közszolgálati jogviszonyban eltöltött idejére – főtanácsos vagy vezető-tanácsos besorolást kap, illetményét a besorolásától függetlenül a munkáltatói jogkör gyakorlója állapítja meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (5) A vezetői megbízással nem rendelkező politikai főtanácsadó, politikai tanácsadó a köztisztviselőkre vonatkozó szabályok szerint közigazgatási alap- és szakvizsgát tehet. A vizsgák költségei a politikai főtanácsadót, politikai tanácsadót terhelik, mely költségeket a közigazgatási szerv átvállalhatja.
 
