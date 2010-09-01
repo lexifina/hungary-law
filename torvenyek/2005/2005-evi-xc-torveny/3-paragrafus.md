@@ -10,7 +10,7 @@ a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmány
 
 b) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
 
-c) a Kormány általános hatáskörű területi államigazgatási szerve.
+c) a közigazgatási hivatal.
 
 (2) Az (1) bekezdésben nem szereplő, jogszabályban meghatározott közfeladatot ellátó egyéb szervek a 6. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
 
