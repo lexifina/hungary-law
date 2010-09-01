@@ -6,7 +6,7 @@
 
 | 2. | Kiemelt nagyberuházásként a kabai „EM Bioetanol Kft. Bioetanol-Biogáz- Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Kaba közigazgatási területén lévő külterületi 0513/3 ingatlan- nyilvántartási helyrajzi számú terület | a Magyar Kereskedelmi Engedélyezési Hivatalról szóló kormányrendelet szerint a Magyar Kereskedelmi Engedélyezési Hivatal hatáskörébe tartozó sajátos építményfajták építésügyi hatósági eljárásai | Magyar Kereskedelmi Engedélyezési Hivatal Debreceni Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Kaba város jegyzője | Észak-alföldi Regionális Államigazgatási Hivatal |
+| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Kaba város jegyzője | Hajdú-Bihar Megyei Közigazgatási Hivatal |
 
 | 4. |  |  | környezetvédelmi hatósági eljárások | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
 
@@ -52,7 +52,7 @@
 
 | 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | környezetvédelemért felelős miniszter |
 
-2. melléklet a 61/2010. (III. 18.) Korm. rendelethez
+2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^4]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -60,7 +60,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Észak-alföldi Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 2. | építésügy | Hajdú-Bihar Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -103,3 +103,5 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 | 22. | műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal Debreceni Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
 | 23. | élelmiszer-egészségügy | Hajdú-Bihar Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központja |
+
+[^4]: A 2. melléklet a 234/2010. (VIII. 31.) Korm. rendelet 22. §-a szerint módosított szöveg.
