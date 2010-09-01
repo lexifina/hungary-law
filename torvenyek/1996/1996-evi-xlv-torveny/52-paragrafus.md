@@ -127,3 +127,5 @@ A repülési pótlék szorzószáma az éves repülési tervben meghatározott r
 IV. Ejtőernyős-ugrási pótlék
 
 Ejtőernyős-ugrási pótlék jár annak a hallgatónak, akinek az ejtőernyős ugrások végrehajtása tanulmányokkal együtt járó kötelezettsége. A pótlék mértéke ugrásonként az illetményalap 2–5%-a.
+
+V. A katasztrófavédelmi pótlék mértéke naponta az illetményalap 5,8%-a. Az elszámolás során minden megkezdett naptári nap teljes napnak minősül.
