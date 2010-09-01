@@ -6,7 +6,7 @@
 
 | 2. | Kiemelt nagyberuházásként a dunaföldvári „Pannonia Ethanol Zrt. bioetanol előállító üzem” projekthez kapcsolódó építmények és létesítmények. | Dunaföldvár közigazgatási területén lévő külterületi 0111/26, 0109, 0116/5 ingatlan- nyilvántartási helyrajzi számú területek | a Magyar Kereskedelmi Engedélyezési Hivatalról szóló kormányrendelet szerint a Magyar Kereskedelmi Engedélyezési Hivatal hatáskörébe tartozó sajátos építményfajták építésügyi hatósági eljárásai | Magyar Kereskedelmi Engedélyezési Hivatal Pécsi Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-| 3. | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Dél-dunántúli Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 3. | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Tolna Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 4. | környezetvédelmi hatósági eljárások | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -54,7 +54,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Dél-dunántúli Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 2. | építésügy | Tolna Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 23. | élelmiszer-egészségügy | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-[^2]: A 2. melléklet a 61/2010. (III. 18.) Korm. rendelet 4. § (2)–(4) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2010. március 23. napját követően indult eljárásokban kell alkalmazni.
+[^2]: A 2. melléklet a 61/2010. (III. 18.) Korm. rendelet 4. § (2)–(4) bekezdése, a 234/2010. (VIII. 31.) Korm. rendelet 20. §-a szerint módosított szöveg.
