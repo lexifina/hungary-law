@@ -6,11 +6,7 @@
 
 25. § (1)[^17] E rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy rendelkezéseit első alkalommal a 2010-ben kezdődő szakképzésekre kell alkalmazni. Az e rendeletben foglaltakat a szakképzésüket az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: R.) szerint megkezdő, de törzsképzésüket 2012. január 1-jét követően befejező személyek esetében is alkalmazni kell, kivéve, ha 2011. december 31-éig írásban nyilatkoznak a felsőoktatási intézmény részére arról, hogy szakképzésüket az R. e rendelet hatálybalépését megelőző napon hatályos rendelkezései szerint kívánják befejezni.
 
-(2)[^18] A 10. § (3) bekezdésében foglaltaktól eltérően a miniszter e rendelet hatálybalépését követően első alkalommal a 10. § (1) bekezdésében foglaltakra tekintettel teszi közzé az e rendelet hatálybalépését követő hároméves időszakra vonatkozó várható keretszámokat.
-
-(3)[^19] A 11. § (6) bekezdésében foglaltaktól eltérően a bíráló bizottság e rendelet hatálybalépését követően első alkalommal a 10. § (1) bekezdésében foglaltakra tekintettel teszi meg javaslatát a miniszter részére.
-
-(4)[^20] A 12. § (6) bekezdésében foglaltaktól eltérően az e rendelet hatálybalépését követő első két évre meghirdethető központi gyakornoki állások száma az adott évre vonatkozóan meghatározott rezidensi keretszám 50%-át nem haladhatja meg.
+(2)–(4)[^18]
 
 (5) Hatályát veszti az R.
 
@@ -23,6 +19,4 @@ a) a Tanács 2003/109/EK irányelve (2003. november 25.) a harmadik országok hu
 b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
 
 [^17]: A 25. § (1) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^18]: A 25. § (2) bekezdése a (6) bekezdés alapján hatályát veszti 2010. szeptember 1. napjával.
-[^19]: A 25. § (3) bekezdése a (6) bekezdés alapján hatályát veszti 2010. szeptember 1. napjával.
-[^20]: A 25. § (4) bekezdése a (6) bekezdés alapján hatályát veszti 2010. szeptember 1. napjával.
+[^18]: A 25. § (2)–(4) bekezdését a (6) bekezdés hatályon kívül helyezte.
