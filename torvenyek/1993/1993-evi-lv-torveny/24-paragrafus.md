@@ -12,4 +12,4 @@ c) a jegyzőnek, az anyakönyvvezetőnek és a konzulnak az állampolgársági k
 
 d) az eljárásban használandó formanyomtatványokat;
 
-e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a Kormány általános hatáskörű területi államigazgatási szervének a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
+e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a közigazgatási hivatalnak a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
