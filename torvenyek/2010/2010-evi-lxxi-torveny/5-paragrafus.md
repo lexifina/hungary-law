@@ -1,11 +1,3 @@
 5. § (1) Ez a törvény 2010. szeptember 1-jén lép hatályba.
 
 (2) Azok az iskolák, amelyek a Kt. – e törvény 2. §-ával megállapított – 70. § (3) bekezdésében foglaltak alapján a tanulók teljesítményét már a 2010/2011. tanév második félévétől osztályzattal kívánják minősíteni, értékelni, 2010. december 31-ig áttekintik pedagógiai programjukat és – ha e törvény hatálybalépéstől számított hatvan napon belül a fenntartó hozzájárul a pedagógiai program jóváhagyására, bevezetésére vonatkozó általános előírások alkalmazásától való eltéréshez – a szükséges változtatásokat átvezetik. Azok az iskolák, melyek az általános iskola 2–4. évfolyamán a szöveges minősítést, értékelést alkalmazzák, az osztályzatra való átváltás szabályait helyi tantervükbe 2010. december 31-ig építik be.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Schmitt Pál s. k.,
-
-az Országgyűlés elnöke
