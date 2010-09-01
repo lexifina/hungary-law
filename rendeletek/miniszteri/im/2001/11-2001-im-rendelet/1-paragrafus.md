@@ -6,6 +6,6 @@
 
 (4) A zálogjogi nyilvántartásba zálogjog alapítására vonatkozó bejegyzésnek a Ptké. 47. §-ának (4) bekezdése szerint, a zálogjogviszony módosulására, megszűnésére, továbbá a zálogjogi nyilvántartásba bejegyzett más tények és adatok megváltoztatására (a továbbiakban együttesen: változás) irányuló bejegyzésnek pedig közokirat [Pp. 195. § (1) bekezdés], valamint ennek a Pp. 195. § (2) bekezdés szerinti másolata, továbbá a Ptké. 47/A. §-a (2) bekezdésében foglaltaknak megfelelően olyan teljes bizonyító erejű magánokirat vagy annak közjegyző által hitelesített másolata alapján van helye, amely teljes bizonyító erejű magánokiraton a nyilatkozatot tevő fél aláírását közjegyző hitelesítette.
 
-[(5)[^1] Az egyedi azonosításra kétséget kizáróan alkalmas ingó dolgokat terhelő jelzálogjog (önálló zálogjog) nyilvántartásba vételére, az e nyilvántartásba történő bejegyzési eljárásra, betekintésre és lekérdezésre, valamint ezek költségeire vonatkozó rendelkezéseket külön jogszabály állapítja meg.]
+(5)[^2] Az egyedi azonosításra kétséget kizáróan alkalmas ingó dolgokat terhelő jelzálogjog (önálló zálogjog) nyilvántartásba vételére, az e nyilvántartásba történő bejegyzési eljárásra, betekintésre és lekérdezésre, valamint ezek költségeire vonatkozó rendelkezéseket külön jogszabály állapítja meg.
 
-[^1]: Az 1. § (5) bekezdését a 80/2009. (XII. 28.) IRM rendelet 31. § (2) bekezdése iktatta be [e módosító rendelet 31. § (1) bekezdése alapján 2010. július 1-jén lép hatályba].
+[^2]: Az 1. § (5) bekezdését a 80/2009. (XII. 28.) IRM rendelet 31. § (2) bekezdése iktatta be.
