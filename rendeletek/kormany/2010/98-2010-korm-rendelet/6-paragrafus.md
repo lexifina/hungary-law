@@ -1,0 +1,3 @@
+## 5. § Az Utvhr. a következő 30/A. §-sal egészül ki:
+
+## „30/A. § E rendeletnek a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet módosításáról szóló 98/2010. (IV. 2.) Korm. rendelettel megállapított 7. § (3) bekezdését, 13. § (2), (4) és (5) bekezdését, 15. § (4) bekezdését, 18. § (1) bekezdés d) pontját, 19. § (6) bekezdését, valamint 23. § (1)–(3) bekezdését a magánútlevél iránti kérelem benyújtására és a közreműködői feladatok ellátására – a berlini székhelyű konzuli tisztviselő kivételével – 2010. december 1-jétől kell alkalmazni.”
