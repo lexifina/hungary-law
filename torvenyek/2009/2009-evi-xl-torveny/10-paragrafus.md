@@ -52,7 +52,7 @@ gb) 13/B. § (1) bekezdésében a „Tny. 7. § (1), (4) és (5) bekezdésében�
 
 h) a Tbj. 34. § (5) bekezdés b) pontjában a „Tny. 7. § (1) bekezdésében” szövegrész helyébe a „Tny.-ben” szöveg;
 
-i) a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. § (3) bekezdésének első mondatában az „a 62. év feletti” szövegrész helyébe az „az öregségi nyugdíjkorhatárt betöltött” szöveg;
+i)
 
 j) a nyugdíjak korrekciós célú emeléséről szóló 2005. évi CLXXIII. törvény 6. § (1) bekezdés első mondatában az „1–5. §-okban” szövegrész helyébe az „1–4. §-ban” szöveg, az „1–3. és 5. §-ban” szövegrész helyébe az „1–4. §-ban” szöveg;
 
