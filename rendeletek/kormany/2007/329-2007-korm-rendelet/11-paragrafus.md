@@ -12,7 +12,7 @@ e) bűnmegelőzési, bűnüldözési adatszolgáltatást lát el,
 
 f) ellátja a nemzetközi rendőri együttműködésből rá háruló feladatokat.
 
-(2)[^32] A rendőr-főkapitányság rendészeti feladatkörében:
+(2)[^34] A rendőr-főkapitányság rendészeti feladatkörében:
 
 a) értékeli és elemzi a közbiztonság illetékességi területén történő alakulását,
 
@@ -40,7 +40,7 @@ ge) a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitánys
 
 h) a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitányság kivételével ellátja az ideiglenes határátkelőhelyek megnyitásával kapcsolatos rendészeti feladatokat,
 
-i) a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitányság kivételével ellátja a robbantással fenyegetett helyszínek átvizsgálását, ha azok nem tartoznak a Köztársasági Őrezred által védett létesítmények körébe.
+i)[^35] a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitányság kivételével ellátja a robbantással fenyegetett helyszínek átvizsgálását, ha azok nem tartoznak a Terrorelhárítási Központ vagy a Köztársasági Őrezred által védett létesítmények körébe.
 
 (3) A rendőr-főkapitányság közigazgatási hatáskörében:
 
@@ -50,17 +50,17 @@ b) ellátja a kábítószerekkel, pszichotróp anyagokkal és kábítószer-prek
 
 c) ellátja a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint magánnyomozói tevékenység szakmai felügyeletét, illetve az e tevékenységgel kapcsolatos hatósági feladatokat,
 
-d)[^33] lefolytatja – az Országos Mentőszolgálat, a Magyar Honvédség és a rendvédelmi szervek sürgősségi betegellátást végző gépjárművei kivételével – a sürgősségi vér és szervtranszplantációs szállítást, a sürgősségi betegellátást, illetve a közművek által okozott súlyos veszélyhelyzet azonnali elhárítását végző szervek, valamint a Vám- és Pénzügyőrség által üzemben tartott gépjárművek megkülönböztető jelzéseinek felszerelésére és használatára vonatkozó hatósági eljárást,
+d)[^36] lefolytatja – az Országos Mentőszolgálat, a Magyar Honvédség és a rendvédelmi szervek sürgősségi betegellátást végző gépjárművei kivételével – a sürgősségi vér és szervtranszplantációs szállítást, a sürgősségi betegellátást, illetve a közművek által okozott súlyos veszélyhelyzet azonnali elhárítását végző szervek, valamint a Vám- és Pénzügyőrség által üzemben tartott gépjárművek megkülönböztető jelzéseinek felszerelésére és használatára vonatkozó hatósági eljárást,
 
 e) ellátja az atomenergia alkalmazásával összefüggő hatósági feladatokat,
 
-f)[^34] eljár az eltűnt személy felkutatásával kapcsolatos eljárásban, ha az eltűnt személy
+f)[^37] eljár az eltűnt személy felkutatásával kapcsolatos eljárásban, ha az eltűnt személy
 
 fa) a polgári nemzetbiztonsági szolgálatok személyi állománya tagja, vagy
 
 fb) a Rendőrség hivatásos állományú tagja,
 
-g)[^35] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével –, ha
+g)[^38] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével –, ha
 
 ga) az áldozat diplomáciai mentességet élvező személy,
 
@@ -74,19 +74,20 @@ ge) a halál a rendőr szolgálati helyén vagy szolgálata során következett 
 
 gf) a halál az egészségügyi ellátás során következett be, és az egészségügyi dolgozó foglalkozási szabályszegése merült fel,
 
-gg)[^36] rendőrségi fogdában fogvatartott személy az elhalt,
+gg)[^39] rendőrségi fogdában fogvatartott személy az elhalt,
 
-h)[^37] – a 6. § (2) bekezdés h) pontját, a 10. § (4) bekezdését és a 12. § (3) bekezdés f) és g) pontját kivéve – ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt, valamint a mezőőrökkel, a hegyőrökkel, a halászati őrökkel és hivatásos vadászokkal, a közterület-felügyelettel, valamint a természetvédelmi őrszolgálattal kapcsolatos, rendőrségi hatáskörbe tartozó hatósági feladatokat,
+h)[^40] – a 6. § (2) bekezdés h) pontját, a 10. § (4) bekezdését és a 12. § (3) bekezdés f) és g) pontját kivéve – ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt, valamint a mezőőrökkel, a hegyőrökkel, a halászati őrökkel és hivatásos vadászokkal, a közterület-felügyelettel, valamint a természetvédelmi őrszolgálattal kapcsolatos, rendőrségi hatáskörbe tartozó hatósági feladatokat,
 
-i)[^38] ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat, ha a közúti közlekedési bírságolási eljárás megindítására okot adó szabályszegést a rendőr-főkapitányság az ellenőrzése során állapítja meg.
+i)[^41] ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat, ha a közúti közlekedési bírságolási eljárás megindítására okot adó szabályszegést a rendőr-főkapitányság az ellenőrzése során állapítja meg.
 
-(4)[^39] A Budapest közigazgatási területén történt közlekedési baleset következtében beállott rendkívüli haláleset kivizsgálásával kapcsolatos eljárás a Budapesti Rendőr-főkapitányság hatáskörébe tartozik.
+(4)[^42] A Budapest közigazgatási területén történt közlekedési baleset következtében beállott rendkívüli haláleset kivizsgálásával kapcsolatos eljárás a Budapesti Rendőr-főkapitányság hatáskörébe tartozik.
 
-[^32]: A 11. § (2) bekezdése a 30/2009. (II. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^33]: A 11. § (3) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^34]: A 11. § (3) bekezdés f) pontja a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^35]: A 11. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, újonnan a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^36]: A 11. § (3) bekezdés g) pont gg) alpontját a 148/2010. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^37]: A 11. § (3) bekezdés h) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^38]: A 11. § (3) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja hatályon kívül helyezte, újonnan a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^34]: A 11. § (2) bekezdése a 30/2009. (II. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^35]: A 11. § (2) bekezdés i) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^36]: A 11. § (3) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^37]: A 11. § (3) bekezdés f) pontja a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^38]: A 11. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, újonnan a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^39]: A 11. § (3) bekezdés g) pont gg) alpontját a 148/2010. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^40]: A 11. § (3) bekezdés h) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 11. § (3) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja hatályon kívül helyezte, újonnan a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.

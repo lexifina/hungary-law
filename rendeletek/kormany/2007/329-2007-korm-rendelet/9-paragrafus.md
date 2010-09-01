@@ -10,11 +10,11 @@ d) ellátja a különleges szállítmányok őrzésével kapcsolatos feladatokat
 
 e) részt vesz az országos szintű közbiztonsági, közlekedésbiztonsági és idegenrendészeti fokozott ellenőrzésekben,
 
-f)[^23] – a 7. § (2) bekezdés a) pontját és a 11. § (2) bekezdés i) pontját kivéve – a rendőrség hatáskörébe tartozó tűzszerészeti feladatokat lát el, valamint végzi a robbantással fenyegetett helyszínek átvizsgálását,
+f)[^25] – a 7. § (2) bekezdés a) pontját és a 11. § (2) bekezdés i) pontját kivéve – a rendőrség hatáskörébe tartozó tűzszerészeti feladatokat lát el, valamint végzi a robbantással fenyegetett helyszínek átvizsgálását,
 
 g) a személyszállító vonatok kísérésével kapcsolatos feladatot lát el,
 
-h)[^24] végrehajtja a terrorcselekmény, a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése és az emberrablás bűncselekmények megszakítását, valamint a Rendőrség szervei vagy más nyomozó hatóságok felkérésére a bűncselekmények elkövetésével megalapozottan gyanúsítható fegyveres vagy felfegyverkezett személyek elfogását,
+h)[^26]
 
 i) ellátja a hatósági eljárás során lefoglalt, a közbiztonságra különösen veszélyes anyagok, valamint különösen nagy, illetve különösen jelentős értékű kábítószer szállítmányok biztosítását,
 
@@ -28,5 +28,5 @@ m) biztosítja a rendőri csapattevékenységre és a különleges rendőri fela
 
 n) polgári repüléssel kapcsolatos feladatot lát el.
 
-[^23]: A 9. § f) pontja a 30/2009. (II. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^24]: A 9. § h) pontja a 30/2009. (II. 19.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^25]: A 9. § f) pontja a 30/2009. (II. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 9. § h) pontját a 232/2010. (VIII. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.

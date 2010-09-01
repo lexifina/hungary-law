@@ -1,4 +1,4 @@
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^59]
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^62]
 
 ## A Rendőrség egyes szerveinek elnevezése és székhelye
 
@@ -58,4 +58,4 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^59]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
