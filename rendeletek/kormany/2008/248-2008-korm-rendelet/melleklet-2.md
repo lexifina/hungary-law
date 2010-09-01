@@ -4,7 +4,7 @@
 
 |  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi- csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | építésügyi hatósági engedélyek | Marcali Város jegyzője | Dél-dunántúli Regionális Államigazgatási Hivatal |
+| 1. | (Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi- csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület.) | építésügyi hatósági engedélyek | Marcali Város jegyzője | Somogy Megyei Közigazgatási Hivatal |
 
 | 2. | környezetvédelmi hatósági engedélyezések | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -40,7 +40,7 @@ közreműködő szakhatóságok
 
 |  | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | építésügy | Dél-dunántúli Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 1. | építésügy | Somogy Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 2. | környezetvédelem, természetvédelem és vízügy | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -88,4 +88,4 @@ közreműködő szakhatóságok
 
 | 15. | élelmiszer-egészségügy | Somogy Megyei Mezőgazdasági Szakigazgatási Hivatal Élelmiszer- biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-[^3]: A 2. számú melléklet a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 1. pontja, a 234/2010. (VIII. 31.) Korm. rendelet 12. §-a szerint módosított szöveg.
