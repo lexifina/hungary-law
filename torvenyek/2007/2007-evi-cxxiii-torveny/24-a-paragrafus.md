@@ -1,1 +1,1 @@
-24/A. § Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a Kormány általános hatáskörű területi államigazgatási szerve – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet.
+24/A. § Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a közigazgatási hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet.
