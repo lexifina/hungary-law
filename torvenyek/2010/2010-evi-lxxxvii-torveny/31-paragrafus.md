@@ -1,0 +1,1 @@
+31. § Ha a Nemzeti Földalapba tartozó földrészlet az ingatlan-nyilvántartás szerinti adatainak megváltozása következtében kikerül e törvény hatálya alól, az adatváltozás átvezetéséről szóló ingatlanügyi hatósági határozat jogerőre emelkedésétől számított 30 napon belül a földrészletet az NFA átadja az MNV Zrt.-nek, egyúttal kivezeti a vagyonnyilvántartásából.

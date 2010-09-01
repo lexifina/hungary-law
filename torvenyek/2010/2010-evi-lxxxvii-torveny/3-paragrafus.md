@@ -1,0 +1,1 @@
+3. § A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot az NFA képviseli.

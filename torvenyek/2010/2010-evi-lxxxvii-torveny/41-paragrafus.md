@@ -1,0 +1,1 @@
+41. § A Tft. 8/C. § (1) bekezdésében a „betartását a helyi birtokhasznosítási bizottság, ennek hiányában a települési önkormányzat jegyzője és az ingatlanügyi hatóság” szövegrész helyébe a „betartását az ingatlanügyi hatóság” szöveg lép.

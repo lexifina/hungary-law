@@ -1,0 +1,1 @@
+29. § Ha az NFA-át terhelő kártérítési, megtérítési, kártalanítási kötelezettség vagy a rábízott vagyon hasznosításával összefüggő egyéb szerződéses kötelezettség teljesítésére a tárgyévi bevétele vagy kiadási előirányzata nem nyújt fedezetet, a kötelezettség teljesítéséért az állam helytállni köteles.

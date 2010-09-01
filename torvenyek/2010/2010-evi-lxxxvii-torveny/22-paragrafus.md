@@ -1,0 +1,5 @@
+22. § (1) A Nemzeti Földalapba tartozó földrészlet kötelező önkormányzati feladatok ellátásának elősegítése érdekében ingyenesen vagyonkezelésbe, temető létesítése céljából ingyenesen tulajdonba adható a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat (a továbbiakban: önkormányzat), valamint a megyei önkormányzat részére. A Nemzeti Földalapba tartozó földrészlet szociális földprogram megvalósítása céljából az önkormányzat számára ingyenesen tulajdonba vagy ingyenesen vagyonkezelésbe adható. Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
+
+(2) A vagyonkezelésbe, illetve a tulajdonba adás feltétele – a szociális földprogram megvalósítása céljára történő tulajdonba vagy vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdő művelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott jogerős határozat.
+
+(3) E § szerinti vagyonkezelésbe, illetve tulajdonba adásról az NFA javaslata alapján a Kormány nyilvános határozattal dönt.
