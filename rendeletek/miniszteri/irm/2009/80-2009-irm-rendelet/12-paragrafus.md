@@ -1,0 +1,5 @@
+12. § (1) Változás bejegyzésének tárgya a nyilvántartott adatokban bekövetkezett változás, a zálogjog érvényesítésére irányuló bírósági vagy hatósági eljárás megindítása, a zálogjoggal biztosított követelés átszállása, a ranghely fenntartása, továbbá a ranghelycsere.
+
+(2) A változás bejegyzésére irányuló kérelemnek tartalmaznia kell a változást megelőző összes adatot, a változás időpontját és a korábbi adat törlésére történő utalást, illetve azt, hogy a törölt adat helyébe milyen új adat bejegyzését kérik. Ha a változás bejegyzésére irányuló kérelem valamely személyes adat megváltozására is utal, a kérelmet olyannak kell tekinteni, mint amelyben e személyes adatra vonatkozó változás átvezetését is kérték. Ha a kérelem a változás időpontját nem tartalmazza, a változás időpontjának a kérelem benyújtásának napját kell tekinteni.
+
+(3) Az alvázszám változását a közjegyző a közlekedési igazgatási szerv igazolása alapján jegyzi be. A nyilvántartásban az új alvázszám mellett a régi alvázszámot is meg kell jeleníteni, és kereshetővé kell tenni.
