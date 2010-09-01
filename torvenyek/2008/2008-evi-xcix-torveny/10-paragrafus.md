@@ -4,7 +4,9 @@
 
 a) azt a produkciós színházat, amely évente legalább 100 előadást tart, és legalább két bemutatót hoz létre, valamint
 
-b) azt a befogadó színházat, amely évente legalább 140 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása.
+b) azt a befogadó színházat, amely évente legalább 140 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása,
+
+c) a nemzeti és etnikai kisebbségi színházat, amely évente legalább 100 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház saját előadása.
 
 (3) A III. kategóriába kell besorolni azt a balett- vagy táncegyüttest, amely évente legalább 50 balett-, tánc- vagy mozgásművészeti előadást tart.
 
@@ -12,9 +14,11 @@ b) azt a befogadó színházat, amely évente legalább 140 előadást tart, és
 
 a) azt a színházat, bábszínházat, amely évente legalább 100 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház, bábszínház saját előadása, valamint
 
-b) azt a befogadó színházat, amely évente legalább 100 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása.
+b) azt a befogadó színházat, amely évente legalább 100 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása,
 
-(5) Az V. kategóriába kell besorolni azt a szabadtéri színházat, valamint a máshova nem sorolt nemzeti és etnikai kisebbségi színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre.
+c) azt a máshova nem sorolt nemzeti és etnikai kisebbségi színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre.
+
+(5) Az V. kategóriába kell besorolni azt a szabadtéri színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre, valamint a máshova nem sorolt nemzeti és etnikai kisebbségi színházat.
 
 (6) Az I–V. kategóriákba való besorolás további feltétele, hogy az előadó-művészeti szervezet
 
