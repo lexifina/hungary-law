@@ -4,7 +4,7 @@
 
 |  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként gyártelepítés és annak létesítményei, valamint az ahhoz kapcsolódó logisztikai bázis és létesítményei | Kecskemét közigazgatási területén az M5-ös autópálya – 54-es számú főút – 5-ös számú főút – Kecskemét és Városföld közigazgatási határa által lehatárolt terület | építésügyi hatósági engedélyek | Dél-alföldi Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 1. | (Kiemelt nagyberuházásként gyártelepítés és annak létesítményei, valamint az ahhoz kapcsolódó logisztikai bázis és létesítményei | Kecskemét közigazgatási területén az M5-ös autópálya – 54-es számú főút – 5-ös számú főút – Kecskemét és Városföld közigazgatási határa által lehatárolt terület) | építésügyi hatósági engedélyek | Csongrád Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 2. | környezetvédelmi hatósági engedélyezések | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -40,7 +40,7 @@ eljárásokban közreműködő szakhatóságok
 
 |  | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | építésügy | Dél-alföldi Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 1. | építésügy | Csongrád Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 2. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -86,4 +86,4 @@ eljárásokban közreműködő szakhatóságok
 
 | 15. | élelmiszer-egészségügy | Bács-Kiskun Megyei Mezőgazdasági Szakigazgatási Hivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-[^3]: A 2. számú melléklet a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 2. pontja, a 234/2010. (VIII. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
