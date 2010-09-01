@@ -122,7 +122,7 @@
 
 ## kérelmező
 
-## 2. függelék
+## 2. függelék[^64]
 
 ## Ügyszám: .....................................
 
@@ -130,7 +130,7 @@
 
 ## alkotmányos alapismeretek vizsgáról
 
-## Készült a ............................ Államigazgatási Hivatalban .......... év ......................... hó ........ napján a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgáról.
+## Készült a ............................ (a Kormány általános hatáskörű területi államigazgatási szerve megjelölése)-ban .......... év ......................... hó ........ napján a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgáról.
 
 ## A vizsgázó
 
@@ -178,6 +178,7 @@
 
 | neve | szül. helye, ideje, anyja neve | lakóhelye |
 
-8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^64]
+8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^65]
 
-[^64]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés d) pontjával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^64]: A 7. számú melléklet 2. függeléke a 234/2010. (VIII. 31.) Korm. rendelet 23. § (6) bekezdése szerint módosított szöveg.
+[^65]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés d) pontjával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
