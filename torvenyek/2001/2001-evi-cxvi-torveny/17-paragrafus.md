@@ -1,1 +1,0 @@
-17. § A Nemzeti Földalapba tartozó termőföld értékesítése során azonos ajánlatok esetén – törvényben megjelölt elővásárlási jogosultakat követően – előnyben kell részesíteni a termőföld-tulajdonnal, illetőleg haszonbérlettel rendelkező, élethivatásszerűen mezőgazdasági termelést folytató és ekként nyilvántartásba vett más természetes személyeket.

@@ -1,1 +1,0 @@
-12. § Az MNV Zrt. a Nemzeti Földalapba került három hektárnál kisebb területű földrészletek összevonására tervet készít, s ennek alapján kezdeményezi az ingatlanügyi hatóságnál új, legalább három hektár területű földrészletek kialakítását.
