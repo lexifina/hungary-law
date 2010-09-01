@@ -7,11 +7,3 @@ a) 15. § (2) bekezdés a) pontjában „a honvédelemről és a Magyar Honvéds
 b) 41/A. § (2) bekezdésében a „(3)–(5) bekezdés” szövegrész helyébe a „(3)–(5) bekezdés, illetve a (8) bekezdés” szöveg
 
 lép.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
