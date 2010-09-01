@@ -33,11 +33,3 @@ f) 61. § (3) és (4) bekezdése,
 g) 65. § (1) bekezdésében a „vagy az NFA-t” szövegrész,
 
 h) 71. § (1) bekezdés f) és g) pontja.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
