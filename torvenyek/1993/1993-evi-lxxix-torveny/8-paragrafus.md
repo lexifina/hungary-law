@@ -22,7 +22,7 @@ c) az ötödik évfolyamon kezdődő és a hatodik évfolyam végéig tartó ala
 
 d) a hetedik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó fejlesztő
 
-szakasz. A bevezető és a kezdő szakaszban, továbbá a helyi tantervben meghatározottak szerint az alapozó szakasz kötelező és nem kötelező tanórai foglalkozása időkeretének huszonöt-ötven százalékában nem szakrendszerű oktatás, az alapozó szakasz fennmaradó időkeretében és a fejlesztő szakaszban szakrendszerű oktatás folyik.
+szakasz. A bevezető és a kezdő szakaszban nem szakrendszerű oktatás folyik. A helyi tantervben meghatározottak szerint az alapozó szakasz kötelező és nem kötelező tanórai foglalkozása időkeretének legfeljebb ötven százalékában nem szakrendszerű oktatás is folyhat, az alapozó szakasz fennmaradó időkeretében és a fejlesztő szakaszban szakrendszerű oktatás folyik.
 
 (4) A középfokú nevelés-oktatás szakasza a kilencedik évfolyamon kezdődik, és szakiskolában a tizedik, középiskolában a tizenkettedik vagy a tizenharmadik évfolyam végén fejeződik be. A középfokú nevelés-oktatás szakasza két részre tagolódik, melyek a következők:
 

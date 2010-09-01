@@ -104,9 +104,7 @@ b) a honosított oklevélnek megfelelő pedagógus-munkakörben az, aki az adott
 
 (18) A 2006/2007. tanév végéig az alapfokú művészetoktatási intézményben, a művészeti szakközépiskolában, szakiskolában tovább foglalkoztathatók, akik nem felelnek meg az e törvény 17. §-a (1) bekezdésének k) pontjában meghatározott követelményeknek, amennyiben ez az ok a megváltozott előírásokra vezethető vissza. Ezt követően tovább foglalkoztathatók azok, akik megkezdték a tanulmányaikat a megfelelő felsőfokú végzettség megszerzése céljából. E rendelkezés alapján a továbbfoglalkoztatásra a megkezdett tanulmányok befejezéséig, de legfeljebb a hallgatói jogviszony kezdetétől számított hat évig van lehetőség.
 
-(19) A 2008/2009–2010/2011. tanítási évben az ötödik-hatodik évfolyamon a nem szakrendszerű oktatás megszervezhető oly módon is, hogy az e célra felhasznált idő csak az összes kötelező óra húsz százalékát éri el.
-
-(20) A 2012/2013. tanítási év végéig az ötödik-hatodik évfolyamon, továbbá emelt szintű oktatás esetén, az e törvény 17. §-a (1) bekezdésének b) pontja szerint az első-negyedik évfolyamon, a nem szakrendszerű oktatásban pedagógus-munkakört tölthet be az a tanár, aki 2004. szeptember 1-jéig legalább öt év gyakorlatot szerzett az első-negyedik évfolyamon.
+(19)–(20)
 
 (21) A 2012/2013. tanítási év végéig fejlesztőpedagógus-munkakörben foglalkoztatható az is, aki pedagógus-továbbképzés keretében elsajátította a szükséges ismereteket.
 

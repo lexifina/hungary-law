@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-79-00-00
 | 2010-06-29 | 2010. évi LI. törvény | 1993-79-00-00.57 |
 | 2010-07-14 | 2010. évi LXIII. törvény | 1993-79-00-00.58 |
 | 2010-07-27 | 2004. évi CXXXV. törvény | 1993-79-00-00.59 |
+| 2010-09-01 | 2010. évi LXXI. törvény | 1993-79-00-00.60 |
