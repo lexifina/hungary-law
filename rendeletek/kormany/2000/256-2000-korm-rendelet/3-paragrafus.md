@@ -1,8 +1,8 @@
-## 2/C. §[^12] Az okmányirodák működését és illetékességi területét a közigazgatási informatikáért felelős miniszter legalább kétévenként felülvizsgálja.
+## 2/C. §[^14] Az okmányirodák működését és illetékességi területét a közigazgatási informatikáért felelős miniszter legalább kétévenként felülvizsgálja.
 
-3. §[^13] E rendelet és melléklete 2001. január 1-jén lép hatályba.
+3. §[^15] E rendelet és melléklete 2001. január 1-jén lép hatályba.
 
-Melléklet a 256/2000. (XII. 26.) Korm. rendelethez[^14]
+Melléklet a 256/2000. (XII. 26.) Korm. rendelethez[^16]
 
 1. BARANYA MEGYE
 
@@ -1188,7 +1188,7 @@ Vésztő
 
 Okány
 
-4.[^15] BORSOD-ABAÚJ-ZEMPLÉN MEGYE
+4.[^17] BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
 Borsodnádasd
 
@@ -1362,7 +1362,7 @@ Harsány
 
 Kisgyőr
 
-4.5.[^16] Encs Okmányiroda
+4.5.[^18] Encs Okmányiroda
 
 Abaújalpár
 
@@ -2144,7 +2144,7 @@ Szegvár
 
 Szentes
 
-6.[^17] FEJÉR MEGYE
+6.[^19] FEJÉR MEGYE
 
 Aba
 
@@ -2424,7 +2424,7 @@ Sopron
 
 Tét
 
-7.1.[^18] Csorna Okmányiroda
+7.1.[^20] Csorna Okmányiroda
 
 Acsalag
 
@@ -2518,7 +2518,7 @@ Petőháza
 
 Sarród
 
-7.3.[^19] Győr Okmányiroda
+7.3.[^21] Győr Okmányiroda
 
 Abda
 
@@ -2764,7 +2764,7 @@ Völcsej
 
 Zsira
 
-7.8.[^20] Tét Okmányiroda
+7.8.[^22] Tét Okmányiroda
 
 Árpás
 
@@ -3046,7 +3046,7 @@ Nyírmártonfalva
 
 Vámospércs
 
-9.[^21] HEVES MEGYE
+9.[^23] HEVES MEGYE
 
 Bélapátfalva
 
@@ -3092,7 +3092,7 @@ Szilvásvárad
 
 Szúcs
 
-9.2.[^22] Eger Okmányiroda
+9.2.[^24] Eger Okmányiroda
 
 Andornaktálya
 
@@ -3128,7 +3128,7 @@ Tarnaszentmária
 
 Verpelét
 
-9.3.[^23] Füzesabony Okmányiroda
+9.3.[^25] Füzesabony Okmányiroda
 
 Aldebrő
 
@@ -3162,7 +3162,7 @@ Tófalu
 
 Újlőrincfalva
 
-9.4.[^24] Gyöngyös Okmányiroda
+9.4.[^26] Gyöngyös Okmányiroda
 
 Abasár
 
@@ -3214,7 +3214,7 @@ Visonta
 
 Visznek
 
-9.5.[^25] Hatvan Okmányiroda
+9.5.[^27] Hatvan Okmányiroda
 
 Boldog
 
@@ -3744,7 +3744,7 @@ Salgótarján
 
 Szécsény
 
-12.1.[^26] Balassagyarmat Okmányiroda
+12.1.[^28] Balassagyarmat Okmányiroda
 
 Balassagyarmat
 
@@ -3940,7 +3940,7 @@ Tereske
 
 Tolmács
 
-12.5.[^27] Salgótarján Okmányiroda
+12.5.[^29] Salgótarján Okmányiroda
 
 Bárna
 
@@ -4258,7 +4258,7 @@ Sülysáp
 
 Úri
 
-13.14.[^28] Monor Okmányiroda
+13.14.[^30] Monor Okmányiroda
 
 Bénye
 
@@ -4580,7 +4580,7 @@ Szólád
 
 Teleki
 
-14.3.[^29] Balatonlelle Okmányiroda
+14.3.[^31] Balatonlelle Okmányiroda
 
 Balatonlelle
 
@@ -4688,7 +4688,7 @@ Zákány
 
 Zákányfalu
 
-14.6.[^30] Fonyód Okmányiroda
+14.6.[^32] Fonyód Okmányiroda
 
 Balatonfenyves
 
@@ -4868,7 +4868,7 @@ Somogyvár
 
 Szőlősgyörök
 
-14.9.[^31] Marcali Okmányiroda
+14.9.[^33] Marcali Okmányiroda
 
 Balatonberény
 
@@ -5012,7 +5012,7 @@ Som
 
 Zamárdi
 
-14.13.[^32] Tab Okmányiroda
+14.13.[^34] Tab Okmányiroda
 
 Andocs
 
@@ -5796,7 +5796,7 @@ Tengelic
 
 Zomba
 
-16.8.[^33] Tamási Okmányiroda
+16.8.[^35] Tamási Okmányiroda
 
 Diósberény
 
@@ -5858,7 +5858,7 @@ Fácánkert
 
 Tolna
 
-17.[^34] VAS MEGYE
+17.[^36] VAS MEGYE
 
 Celldömölk
 
@@ -6736,7 +6736,7 @@ Vigántpetend
 
 Zalahaláp
 
-18.10.[^35] Várpalota Okmányiroda
+18.10.[^37] Várpalota Okmányiroda
 
 Berhida
 
@@ -6782,7 +6782,7 @@ Veszprémfajsz
 
 Vöröstó
 
-18.12.[^36] Zirc Okmányiroda
+18.12.[^38] Zirc Okmányiroda
 
 Bakonybél
 
@@ -6816,7 +6816,7 @@ Szápár
 
 Zirc
 
-19. ZALA MEGYE[^37]
+19. ZALA MEGYE[^39]
 
 Hévíz
 
@@ -7466,29 +7466,29 @@ Budapest XXII. kerület
 
 Budapest XXIII. kerület
 
-[^12]: A 2/C. §-t a 317/2008. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^13]: A 3. § a 118/2008. (V. 8.) Korm. rendelet 1. §-ának 1104. pontja szerint módosított szöveg.
-[^14]: A melléklet a 38/2005. (III. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^15]: A melléklet 4. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
-[^16]: A melléklet 4. pontjának 4.5. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A melléklet 6. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
-[^18]: A melléklet 7. pontjának 7.1. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^19]: A melléklet 7. pontjának 7.3. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^20]: A melléklet 7. pontjának 7.8. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^21]: A melléklet 9. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
-[^22]: A melléklet 9. pontjának 9.2. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^23]: A melléklet 9. pontjának 9.3. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^24]: A melléklet 9. pontjának 9.4. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^25]: A melléklet 9. pontjának 9.5. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^26]: A melléklet 12. pontjának 12.1. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^27]: A melléklet 12. pontjának 12.5. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^28]: A melléklet 13. pontjának 13.14. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^29]: A melléklet 14. pontjának 14.3. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^30]: A melléklet 14. pontjának 14.6. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^31]: A melléklet 14. pontjának 14.9. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^32]: A melléklet 14. pontjának 14.13. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^33]: A melléklet 16. pontjának 16.8. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^34]: A melléklet 17. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
-[^35]: A melléklet 18. pontjának 18.10. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^36]: A melléklet 18. pontjának 18.12. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^37]: A melléklet 19. pontja a 317/2008. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 2/C. §-t a 317/2008. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § a 118/2008. (V. 8.) Korm. rendelet 1. §-ának 1104. pontja szerint módosított szöveg.
+[^16]: A melléklet a 38/2005. (III. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^17]: A melléklet 4. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
+[^18]: A melléklet 4. pontjának 4.5. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A melléklet 6. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
+[^20]: A melléklet 7. pontjának 7.1. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A melléklet 7. pontjának 7.3. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A melléklet 7. pontjának 7.8. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A melléklet 9. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
+[^24]: A melléklet 9. pontjának 9.2. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A melléklet 9. pontjának 9.3. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A melléklet 9. pontjának 9.4. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A melléklet 9. pontjának 9.5. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^28]: A melléklet 12. pontjának 12.1. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^29]: A melléklet 12. pontjának 12.5. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: A melléklet 13. pontjának 13.14. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^31]: A melléklet 14. pontjának 14.3. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^32]: A melléklet 14. pontjának 14.6. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A melléklet 14. pontjának 14.9. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^34]: A melléklet 14. pontjának 14.13. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^35]: A melléklet 16. pontjának 16.8. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^36]: A melléklet 17. pontja a 38/2005. (III. 10.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
+[^37]: A melléklet 18. pontjának 18.10. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^38]: A melléklet 18. pontjának 18.12. alpontja a 146/2008. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^39]: A melléklet 19. pontja a 317/2008. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
