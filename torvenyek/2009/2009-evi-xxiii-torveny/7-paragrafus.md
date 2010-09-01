@@ -1,6 +1,6 @@
-7. § (1) Az Szt. 82. §-ának (1) bekezdése a következő mondattal egészül ki:
+7. § (1) Az Szt. 82. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-„Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Magyar Szabadalmi Hivatal a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.”
+„(1) A nemleges megállapításra (37. §) irányuló kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány szabadalmas van. A kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.”
 
 (2) Az Szt. 82. §-a a következő (5) bekezdéssel egészül ki:
 
