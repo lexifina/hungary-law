@@ -1,4 +1,4 @@
-## 53/A. §[^96] A módosító rendelettel megállapított 42. § (3) bekezdésben foglalt feltételeket 2010. augusztus 31-ig kell biztosítani.
+## 53/A. §[^96]
 
 54. § (1)[^97]
 
@@ -10,6 +10,6 @@
 
 (5)[^98]
 
-[^96]: Az 53/A. §-t a 67/2010. (III. 18.) Korm. rendelet 8. §-a iktatta be. Az 53/A. §-t hatályon kívül helyezte e módosító rendelet 11. §-a, e módosító rendelet 12. § (2) bekezdése alapján 2010. szeptember 1. napjával.
+[^96]: Az 53/A. §-t a 67/2010. (III. 18.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 11. §-a.
 [^97]: Az 54. § (1) bekezdését a 247/2009. (XI. 10.) Korm rendelet 39. § d) pontja hatályon kívül helyezte, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^98]: Az 54. § (5) bekezdését a 247/2009. (XI. 10.) Korm rendelet 39. § d) pontja hatályon kívül helyezte, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
