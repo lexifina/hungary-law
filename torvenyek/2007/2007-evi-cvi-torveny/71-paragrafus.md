@@ -10,9 +10,7 @@ d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 
 e) az állami vagyon értékesítésére vonatkozó szabályokat,
 
-f) a Nemzeti Földalap vagyonnyilvántartásának és hasznosításának részletes szabályait,
-
-g) termőföld szociális földprogram folytatása céljából az önkormányzatok számára történő tulajdonba adásának feltételeit,
+f)–g)
 
 h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 

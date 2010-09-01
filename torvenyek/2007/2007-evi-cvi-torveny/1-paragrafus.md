@@ -18,9 +18,11 @@ d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jo
 
 a) a koncesszióról (az állami monopóliumok hasznosításáról),
 
-b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről.
+b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
 
-(4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban, valamint a Nemzeti Földalapba tartozó vagyonnal kapcsolatosan e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
+c) az állami tulajdonban lévő termőföldekről, mező-, erdőgazdasági művelés alatt álló belterületi földekről, valamint a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területekről.
+
+(4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
 (5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján, vagy a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapokból finanszírozott állami feladatokkal kapcsolatos állami követeléseket).
 

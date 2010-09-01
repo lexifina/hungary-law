@@ -1,36 +1,4 @@
-45. § (1) E törvény hatálybalépésével egyidejűleg a Nemzeti Földalapról szóló 2001. évi CXVI. törvény (a továbbiakban: NFA tv.)
-
-a) 1. §-ának (3) bekezdésében az „a miniszter” szövegrész helyébe az „az agrárpolitikáért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter” szöveg, a „Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: földalapkezelő szerv)” szövegrész helyébe a „Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.)” szöveg,
-
-b) 4. § (1) bekezdésében, 4. § (2) bekezdésének b) és c) pontjában, 4. § (4) bekezdésének első tagmondatában és (5) bekezdésében, 4/A. §-ának (4) bekezdésében, 8. §-ának (1) és (4) bekezdésében, 10. §-ának (1) bekezdésében, 13. §-ának (8) bekezdésében, 13/A. §-ának (2) és (6) bekezdésében, 14. §-ának (1) és (2) bekezdésében az „a földalapkezelő szerv” szövegrész helyébe az „az MNV Zrt.” szöveg, 12. §-ában, 13. §-ának (1) és (7) bekezdésében, valamint 13/A. §-ának (3) bekezdésében az „A földalapkezelő szerv” szövegrész helyébe az „Az MNV Zrt.” szöveg,
-
-c) 4. § (1) bekezdésében a „továbbiakban: ellenőrző bizottság” szövegrész helyébe a „továbbiakban: NFA ellenőrző bizottság” szöveg,
-
-d) 4. §-ának (1)–(5) bekezdésében, 13/A. §-ának (6) bekezdésében az „ellenőrző bizottság” szövegrész helyébe az „NFA ellenőrző bizottság” szöveg,
-
-e) 4. § (2) bekezdésének d) pontjában a „földalapkezelő szervhez” szövegrész helyébe a „Nemzeti Földalapba” szöveg,
-
-f) 4. §-ának (4) bekezdésében a „földalapkezelő szerv által kezelt vagyon” szövegrész helyébe a „Nemzeti Földalapba tartozó vagyonelem” szöveg,
-
-g) 4/A. §-ának (5) bekezdésében az „a miniszter” szövegrész helyébe az „az agrárpolitikáért felelős miniszter” szöveg,
-
-h) 8. §-ának (2) bekezdésében az „a földalapkezelő szervnek” szövegrész helyébe az „az MNV Zrt.-nek” szöveg,
-
-i) 9. §-ának (1) bekezdésében az „a földalapkezelő szervhez” szövegrész helyébe az „az MNV Zrt.-hez” szöveg,
-
-j) 13. §-ának (8) bekezdésében az „a Tft. 36. §-ában” szövegrész helyébe a „külön törvényben” szöveg,
-
-k) 13. §-ának (10) bekezdésében a „földalapkezelő szerv” szövegrész helyébe a „Tanács” szöveg,
-
-l) 13/A. §-ának (1) bekezdésében az „a kincstári vagyon kezelésére” szövegrész helyébe az „az állami vagyonra” szöveg,
-
-m) 13/A. §-ának (6) bekezdésében a „miniszter” szövegrész helyébe a „Tanács” szöveg,
-
-n) 16. §-ának (2) bekezdésében az „a földalapkezelő szerv előirányzatából kell biztosítani” szövegrész helyébe az „az MNV Zrt. biztosítja” szöveg,
-
-o) 16. §-ának (3) bekezdésében az „A földalapkezelő szervvel” szövegrész helyébe az „Az MNV Zrt.-vel” szöveg
-
-lép.
+45. § (1)
 
 (2) Az NFA tv. 3. §-ának helyébe a következő rendelkezés lép:
 

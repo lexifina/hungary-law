@@ -6,7 +6,7 @@ a) nemzetközi szerződésben vállalt, vagy nemzetközi szervezetben viselt tag
 
 b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése érdekében,
 
-c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy szociális földprogram megvalósítása érdekében,
+c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében,
 
 d) többcélú kistérségi társulás javára feladatai ellátásának elősegítése érdekében,
 
