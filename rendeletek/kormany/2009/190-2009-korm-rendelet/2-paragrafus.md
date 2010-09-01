@@ -16,7 +16,7 @@ f) gondoskodik a központi tervtanácsok üléseinek és nyilvántartásának ve
 
 (2) A miniszter az e rendeletben és a külön jogszabályban meghatározott egyes feladatait – a miniszter által vezetett minisztérium szervezeti és működési szabályzatában foglaltak szerint – az országos főépítész útján látja el. Az országos főépítészt a miniszter – az általa vezetett minisztérium állományába tartozó személyek közül – bízza meg.
 
-(3) A Kormány az állami főépítészi feladatok ellátására a Kormány általános hatáskörű területi államigazgatási szervének a terület- és településrendezési feladatokat ellátó önálló szakigazgatási szervénél működő állami főépítészt jelöli ki.
+(3)[^1] A Kormány az állami főépítészi feladatok ellátására a Kormány általános hatáskörű területi államigazgatási szervének a 2. mellékletben meghatározott terület- és településrendezési feladatokat ellátó önálló szakigazgatási szerveként működő állami főépítészt jelöli ki.
 
 (4) A területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, továbbá az épített környezet alakításával és védelmével, valamint az építésüggyel kapcsolatos
 
@@ -27,3 +27,5 @@ b) társulási megállapodásban meghatározott települési önkormányzati fel
 c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települési önkormányzat közigazgatási területére kiterjedő illetékességgel a települési főépítész, a fővárosban a fővárosi önkormányzat és a kerületi önkormányzatok megosztott feladataik szerint a fővárosi, illetve a kerületi főépítész
 
 készíti elő.
+
+[^1]: A 2. § (3) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
