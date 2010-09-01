@@ -1,4 +1,4 @@
-30/B. §[^23] (1) E rendelet szabályai a közjegyző hatáskörébe tartozó végrehajtás és biztosítási intézkedés elrendelése során – az (5) bekezdésében foglalt kivétellel – nem alkalmazhatóak.
+30/B. §[^26] (1) E rendelet szabályai a közjegyző hatáskörébe tartozó végrehajtás és biztosítási intézkedés elrendelése során – az (5) bekezdésében foglalt kivétellel – nem alkalmazhatóak.
 
 (2) A közjegyző határozata – ide nem értve a fizetési meghagyásos eljárás, valamint a fizetési meghagyás végrehajtásának elrendelése és a fizetési meghagyásos eljárással összefüggő biztosítási intézkedés elrendelése során hozott határozatokat –, a közjegyző által jóváhagyott egyezség, a közjegyző díjjegyzéke és a közjegyzői okirat alapján történő végrehajtás elrendelése során a félnek az eljárás díját az eljárás kezdeményezésekor a közjegyző részére kell megfizetnie.
 
@@ -18,4 +18,4 @@ tehet eleget.
 
 (6) A közjegyző kérésére a MOKK a honlapján közzéteszi azt a fizetési számlaszámot, melyre a közjegyző az eljárás díjának megfizetését elfogadja.
 
-[^23]: A 30/B. §-t a 26/2010. (V. 11.) IRM rendelet 15. §-a iktatta be.
+[^26]: A 30/B. §-t a 26/2010. (V. 11.) IRM rendelet 15. §-a iktatta be.
