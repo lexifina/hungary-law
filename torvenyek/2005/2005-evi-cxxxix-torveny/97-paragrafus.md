@@ -7,3 +7,5 @@
 (3) A (2) bekezdésben meghatározott keretösszeg terhére a munkáltató megemelheti az oktató, illetve a kutató havi rendszeres járandóságának összegét, illetve határozott időre, legalább egy, legfeljebb négy évre szóló keresetkiegészítést állapíthat meg (a továbbiakban: többletjárandóság). Az egy személynek e bekezdés alapján adható havi többletjárandóság összege nem lehet kevesebb, mint a számítási alap háromszorosa.
 
 (4) A költségvetési támogatás és más források terhére fizetett többletjárandóság megítélésének oktatói és tudományos tevékenységekre vonatkozó rendjét az intézmény szervezeti és működési szabályzatában kell megállapítani.
+
+(5) A költségvetési szervként működő felsőoktatási intézmény alkalmazottjának – ideértve a gazdasági tanács tagját is – tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi járandósága (munkabére, illetménye), beleértve a (3) bekezdés szerinti járandóságot is, nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.

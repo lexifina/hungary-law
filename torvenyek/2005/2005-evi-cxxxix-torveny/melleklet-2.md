@@ -179,11 +179,3 @@ a) a hallgatói (doktorjelölti) jogviszonnyal összefüggő adatok:
 aa) a hallgató (doktorjelölt) neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe,
 
 ab) nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
-
-ac) a jogviszony keletkezésének és megszűnésének időpontja és módja,
-
-ad) a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje,
-
-ae) a képzés során, illetve azt megelőzően igénybe vett támogatási idő,
-
-af) a külföldi felsőoktatási résztanulmányok helye, ideje,
