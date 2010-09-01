@@ -212,7 +212,7 @@
 
 | 105. | műtárgy rekonstrukció | Duna jp. 63+699 tkm Tüzéptelepi rekonstrukciója, acél- és vasbeton szerkezetek felújítása | vízügyi hatósági engedély | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 106. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Dél-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 106. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 107. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
