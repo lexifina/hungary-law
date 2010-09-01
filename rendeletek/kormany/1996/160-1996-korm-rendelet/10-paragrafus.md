@@ -1,9 +1,9 @@
-10. § (1)[^35] Az utóbiztosításra jogosultat hivatalos és magáncélra egyaránt hivatásos állományú gépjárművezető által vezetett hivatali személygépkocsi használata illeti meg; a gépjárműveket a védelmi feladatokhoz igazodóan a rendészetért felelős miniszter az országos rendőrfőkapitány útján biztosítja.
+10. § (1)[^46] Az utóbiztosításra jogosultat hivatalos és magáncélra egyaránt hivatásos állományú gépjárművezető által vezetett hivatali személygépkocsi használata illeti meg; a gépjárműveket a védelmi feladatokhoz igazodóan a rendészetért felelős miniszter az országos rendőrfőkapitány útján biztosítja.
 
-[(1)[^36] Az utóbiztosításra jogosultat hivatalos és magáncélra egyaránt hivatásos állományú gépjárművezető által vezetett, felső középkategóriájú gépjármű használata illeti meg. A gépjárműveket a védelmi feladatokhoz igazodóan a rendészetért felelős miniszter az országos rendőrfőkapitány útján biztosítja, ennek költségei a Köztársasági Őrezredet terhelik.]
+[(1)[^47] Az utóbiztosításra jogosultat hivatalos és magáncélra egyaránt hivatásos állományú gépjárművezető által vezetett, felső középkategóriájú gépjármű használata illeti meg. A gépjárműveket a védelmi feladatokhoz igazodóan a rendészetért felelős miniszter az országos rendőrfőkapitány útján biztosítja, ennek költségei a Köztársasági Őrezredet terhelik.]
 
-(2)[^37] A védett személy lakásába felszerelt biztonságtechnikai eszközöket a védelemre (utóbiztosításra) való jogosultság megszűnésével egyidejűleg le kell szerelni. Ha a védelemben részesült személy arra igényt tart és vállalja a fenntartással és az üzemeltetéssel járó költségeket, a biztonságtechnikai berendezések az amortizáció figyelembevételével meghatározott térítés ellenében átadhatók részére.
+(2)[^48] A védett személy lakásába felszerelt biztonságtechnikai eszközöket a védelemre (utóbiztosításra) való jogosultság megszűnésével egyidejűleg le kell szerelni. Ha a védelemben részesült személy arra igényt tart és vállalja a fenntartással és az üzemeltetéssel járó költségeket, a biztonságtechnikai berendezések az amortizáció figyelembevételével meghatározott térítés ellenében átadhatók részére.
 
-[^35]: A 10. § (1) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
-[^36]: A 10. § (1) bekezdése a 63/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg. [E módosító rendelet 14. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
-[^37]: A 10. § (2) bekezdése a 63/2010. (III. 18.) Korm. rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^46]: A 10. § (1) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
+[^47]: A 10. § (1) bekezdése a 63/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg. [E módosító rendelet 14. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^48]: A 10. § (2) bekezdése a 63/2010. (III. 18.) Korm. rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
