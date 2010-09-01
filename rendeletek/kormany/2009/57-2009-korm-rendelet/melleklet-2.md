@@ -30,4 +30,6 @@
 
 ## A kiemelt jelentőségű beruházás hálózatfejlesztést érintő nyomvonalas infrastrukturális elemei esetében a melléklet szerinti létesítmények meghatározásakor a hálózatfejlesztés megvalósításával közvetlenül érintett, a létesítmény azonosító adatai között megadott területekkel szomszédos ingatlanokat is figyelembe kell venni. Amennyiben telekrendezés vagy közterületi lejegyzés következtében a létesítmény azonosító adatai között megadott helyrajzi számok megváltoznak, a létesítmény azonosító adatain a megváltozott helyrajzi számokat kell érteni.
 
-2. számú melléklet az 57/2009. (III. 17.) Korm. rendelethez
+2. számú melléklet az 57/2009. (III. 17.) Korm. rendelethez[^2]
+
+[^2]: A 2. számú melléklet a 234/2010. (VIII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.

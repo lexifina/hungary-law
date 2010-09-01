@@ -1,76 +1,76 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások lefolytatására
+## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek
 
-## hatáskörrel rendelkező hatóságok
+## és eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
-| Tevékenységek | A beruházás megvalósításával kapcsolatos engedélyek | Részletezés | Eljáró hatóságok |
+|  | A | B | C | D | E |
 
-| Első fok | Másodfok |
+| 1 | Tevékenységek | A beruházás megvalósításával kapcsolatos engedélyek | Részletezés | Eljáró hatóságok |
 
-| ÉPÍTMÉNY |
+| 2 | Első fok | Másodfok |
 
-| építmény bontása | építésügyi hatósági engedélyek | bontási engedély, bejelentés tudomásul vétele | Közép-magyarországi Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 3 | ÉPÍTMÉNY |
 
-| építmény építése, felújítása, bővítése, átalakítása | építésügyi hatósági engedély, bejelentés tudomásulvétele – építmény – liftek, mozgójárdák, mozgólépcsők |
+| 4 | építmény bontása | építésügyi hatósági engedélyek | bontási engedély, bejelentés tudomásul vétele | Budapest Főváros Közigazgatási Hivatala | építésügyért felelős miniszter |
 
-| építmény használatbavétele | használatbavételi engedély, használatbavétel bejelentése |
+| 5 | építmény építése, felújítása, bővítése, átalakítása |  | építésügyi hatósági engedély, bejelentés tudomásulvétele – építmény – liftek, mozgójárdák, mozgólépcsők |  |  |
 
-| műemlékek felújítása, bővítése, átalakítása | kulturális örökségvédelmi hatósági engedélyek | műemlék – építésügyi hatósági engedély | Kulturális Örökségvédelmi Hivatal Közép-magyarországi Iroda | Kulturális Örökségvédelmi Hivatal központi szerve |
+| 6 | építmény használatbavétele |  | használatbavételi engedély, használatbavétel bejelentése |  |  |
 
-| régészeti tevékenység | régészeti hatósági engedély |
+| 7 | műemlékek felújítása, bővítése, átalakítása | kulturális örökségvédelmi hatósági engedélyek | műemlék – építésügyi hatósági engedély | Kulturális Örökségvédelmi Hivatal Közép-magyarországi Iroda | Kulturális Örökségvédelmi Hivatal központi szerve |
 
-| régészeti bemutatópark létesítése |
+| 8 | régészeti tevékenység |  | régészeti hatósági engedély |  |  |
 
-| fakivágás | fakivágási engedély |  | Budapest, III. Kerület Óbuda-Békásmegyer Önkormányzat jegyzője | Közép-magyarországi Regionális Államigazgatási Hivatal |
+| 9 | régészeti bemutatópark létesítése |  |  |  |  |
 
-| KÖZMŰ LÉTESÍTÉSEK |
+| 10 | fakivágás | fakivágási engedély |  | Budapest, III. Kerület Óbuda-Békásmegyer Önkormányzat jegyzője | Budapest Főváros Közigazgatási Hivatala |
 
-| közművesítés/víz- csatorna létesítmények kiépítése (szennyvíz és csapadékvíz is) | vízjogi engedélyek | vízjogi létesítési engedély: szennyvíztisztító mű létesítési engedélyek | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 11 | KÖZMŰLÉTESÍTÉSEK |
 
-| közművesítés/gázlétesítmények kiépítése | energiaügyi hatósági engedélyek | gázelosztó-fogadó állomás létesítési engedély | Magyar Kereskedelmi Engedélyezési Hivatal Budapesti Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
+| 12 | közművesítés/ víz-csatorna létesítmények kiépítése (szennyvíz és csapadékvíz is) | vízjogi engedélyek | vízjogi létesítési engedély: szennyvíztisztító mű létesítési engedélyek | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| közművesítés/elektromos létesítmények kiépítése | villamosenergia-ipari építésügyi hatósági engedélyek | közvilágítás létesítési engedélye, villamosmű létesítési engedély | Magyar Kereskedelmi Engedélyezési Hivatal Budapesti Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
+| 13 | közművesítés/ gázlétesítmények kiépítése | energiaügyi hatósági engedélyek | gázelosztó-fogadó állomás létesítési engedély | Magyar Kereskedelmi Engedélyezési Hivatal Budapesti Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-| közművesítés/hírközlési létesítmények kiépítése | hírközlési hatósági engedélyek | hírközlési hatósági engedély | Nemzeti Hírközlési Hatóság Hivatala | Nemzeti Hírközlési Hatóság Tanácsának elnöke |
+| 14 | közművesítés/ elektromos létesítmények kiépítése | villamosenergia-ipari építésügyi hatósági engedélyek | közvilágítás létesítési engedélye, villamosmű létesítési engedély | Magyar Kereskedelmi Engedélyezési Hivatal Budapesti Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-| KÖRNYEZETVÉDELEM |
+| 15 | KÖRNYEZETVÉDELEM |
 
-| környezeti hatásvizsgálat köteles tevékenységek | környezetvédelmi hatósági engedélyek | a környezeti hatásvizsgálati és az egységes környezet- használati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet szerint | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 16 | környezeti hatásvizsgálat köteles tevékenységek | környezetvédelmi hatósági engedélyek | a környezeti hatásvizsgálati és az egységes környezet- | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi | Országos Környezetvédelmi, Természetvédelmi és |
 
-| egységes környezethasználati engedélyhez kötött tevékenységek |
+| 17 | egységes környezethasználati engedélyhez kötött tevékenységek |  | használati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet szerint | Vízügyi Felügyelőség | Vízügyi Főfelügyelőség |
 
-| a felügyelőség döntésétől függően környezeti hatásvizsgálat köteles tevékenységek |
+| 18 | a felügyelőség döntésétől függően környezeti hatásvizsgálat köteles tevékenységek |  |  |  |  |
 
-| az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | természetvédelmi engedélyek |  | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 19 | az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | természetvédelmi engedélyek |  | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| ÁRVÍZVÉDELEM |
+| 20 | ÁRVÍZVÉDELEM |
 
-| árvízvédelmi létesítmények kiépítése | vízjogi engedélyek | vízjogi engedély, vízjogi létesítési engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 21 | árvízvédelmi létesítmények kiépítése | vízjogi engedélyek | vízjogi engedély, vízjogi létesítési engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| KÖZLEKEDÉSI ÉPÍTMÉNYEK |
+| 22 | KÖZLEKEDÉSI ÉPÍTMÉNYEK |
 
-| az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | közlekedési hatósági engedélyek | közúthatósági engedélyek a 30 méter szabadnyílást meghaladó hidak és közúti alagutak esetében | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 23 | az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | közlekedési hatósági engedélyek | közúthatósági engedélyek a 30 méter szabadnyílást meghaladó hidak és közúti alagutak esetében | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
-| vasúthatósági engedély |
+| 24 | vasúthatósági engedély |
 
-| hajózási hatósági engedélyek |
+| 25 | hajózási hatósági engedélyek |
 
-| közúthatósági engedélyek a Fővárosi Önkormányzat és a fővárosi kerületi önkormányzat tulajdonában lévő, helyi közutak és a közforgalom elől el nem zárt magánutak esetében | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága |
+| 26 | közúthatósági engedélyek a Fővárosi Önkormányzat és a fővárosi kerületi önkormányzat tulajdonában lévő, helyi közutak és a közforgalom elől el nem zárt magánutak esetében | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága |
 
-| légiközlekedési hatósági engedélyek | Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága |
+| 27 | légiközlekedési hatósági engedélyek | Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága |
 
-| az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | ingatlan-nyilvántartási hatósági eljárások |  | Budapesti 1. számú Körzeti Földhivatal | Fővárosi Földhivatal |
+| 28 | az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | ingatlan-nyilvántartási hatósági eljárások |  | Budapesti 1. számú Körzeti Földhivatal | Fővárosi Földhivatal |
 
-| az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | földmérési hatósági eljárások |  | Budapesti 1. számú Körzeti Földhivatal | Fővárosi Földhivatal |
+| 29 | az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | földmérési hatósági eljárások |  | Budapesti 1. számú Körzeti Földhivatal | Fővárosi Földhivatal |
 
-| az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | bányahatósági engedélyek |  | Magyar Bányászati és Földtani Hivatal Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 30 | az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | bányahatósági engedélyek |  | Magyar Bányászati és Földtani Hivatal Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | erdővédelmi hatósági engedélyek |  | Fővárosi és Pest Megyei Mezőgazdasági Szakigazgatási Hivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| 31 | az 1. számú mellékletben meghatározott építményekkel, létesítményekkel kapcsolatos hatósági ügyek | erdővédelmi hatósági engedélyek |  | Fővárosi és Pest Megyei Mezőgazdasági Szakigazgatási Hivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-| TŰZVÉDELEM |
+| 32 | TŰZVÉDELEM |
 
-| építmény építése | tűzvédelmi hatósági engedélyek | eltérési engedély beépített tűzvédelmi berendezés létesítési, használatbavételi engedély jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Országos Katasztrófa- védelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 33 | építmény építése | tűzvédelmi hatósági engedélyek | eltérési engedély beépített tűzvédelmi berendezés létesítési, használatbavételi engedély jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
 
-3. számú melléklet az 57/2009. (III. 17.) Korm. rendelethez
+3. számú melléklet az 57/2009. (III. 17.) Korm. rendelethez[^3]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban
 
@@ -78,7 +78,7 @@ közreműködő szakhatóságok
 
 |  | A szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | építésügy | Közép-Magyarországi Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 1. | építésügy | Budapest Főváros Közigazgatási Hivatala | építésügyért felelős miniszter |
 
 | 2. | környezetvédelem (beleértve a zaj- és rezgésvédelmet) | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -125,3 +125,5 @@ közreműködő szakhatóságok
 | 13. | hírközlés | Nemzeti Hírközlési Hatóság Hivatala | Nemzeti Hírközlési Hatóság Tanácsának elnöke |
 
 | 14. | műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal Budapesti Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal |
+
+[^3]: A 3. számú melléklet a 234/2010. (VIII. 31.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
