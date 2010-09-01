@@ -1,6 +1,6 @@
 ## A közigazgatási hivatal
 
-98. § (1) A közigazgatási hivatal működésének költségeit az Országgyűlés a költségvetési törvény ,,helyi önkormányzatokért felelős miniszter'' fejezetében, elkülönítetten biztosítja.
+98. § (1) A fővárosi, megyei közigazgatási hivatal (a továbbiakban: közigazgatási hivatal) államigazgatási feladatokat ellátó költségvetési szerv, amelyet a Kormány által rendeletben kijelölt miniszter irányít. A közigazgatási hivatal működésének költségeit az Országgyűlés a költségvetési törvénynek a közigazgatási hivatalok irányítására kijelölt miniszter fejezetében, elkülönítetten biztosítja.
 
 (2) A közigazgatási hivatal
 
