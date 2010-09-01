@@ -2,15 +2,15 @@
 
 9. § (1) Ez a rendelet – a (2), (3) és (5) bekezdésben foglaltak kivételével – 2007. január 1-jén lép hatályba.
 
-(2)[^35] E rendelet 4. § (2) bekezdés aa) és ab) pontja 2007. július 1-jén lép hatályba.
+(2)[^36] E rendelet 4. § (2) bekezdés aa) és ab) pontja 2007. július 1-jén lép hatályba.
 
 (3) A 4. § (2) bekezdés ac) pontja 2008. január 1-jén lép hatályba.
 
-(4)[^36] Az építésügyi és építésfelügyeleti hatóságoknál 2010. január 1-je előtt foglalkoztatott és a 6. § szerint építésügyi vizsgára[^37] kötelezett köztisztviselőnek az építésügyi vizsgát legkésőbb 2011. január 1-jéig kell teljesíteni.
+(4)[^37] Az építésügyi és építésfelügyeleti hatóságoknál 2010. január 1-je előtt foglalkoztatott és a 6. § szerint építésügyi vizsgára[^38] kötelezett köztisztviselőnek az építésügyi vizsgát legkésőbb 2011. január 1-jéig kell teljesíteni.
 
-(5)[^38]
+(5)[^39]
 
-[^35]: A 9. § (2) bekezdése a 69/2007. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^36]: A 9. § (4) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 161/2008. (VI. 19.) Korm. rendelet 8. § (6) bekezdése iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^37]: Lásd a 161/2008. (VI. 19.) Korm. rendeletet.
-[^38]: A 9. § (5) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^36]: A 9. § (2) bekezdése a 69/2007. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^37]: A 9. § (4) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 161/2008. (VI. 19.) Korm. rendelet 8. § (6) bekezdése iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^38]: Lásd a 161/2008. (VI. 19.) Korm. rendeletet.
+[^39]: A 9. § (5) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
