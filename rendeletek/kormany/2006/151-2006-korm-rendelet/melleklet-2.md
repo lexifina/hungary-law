@@ -1,50 +1,54 @@
-## A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításukhoz szükséges hatósági engedélyek
+## A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításukhoz szükséges
 
-## és eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
+## hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
 
 ## A) Észak-balatoni hulladékgazdálkodási projekt
 
-|  | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Elsőfokú engedélyező hatóság | Másodfokú engedélyező hatóság |
+|  | A | B | C | D | E | F |
 
-| 1. | hulladéklerakó telep | Királyszentistván (hrsz. 017) | egységes környezethasználati engedély | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség (KTVF) | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: OKTVF) |
+| 1 | Sor- szám | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Elsőfokú engedélyező hatóság | Másodfokú engedélyező hatóság |
 
-| építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Közép-dunántúli Regionális Államigazgatási Hivatal | önkormányzati és területfejlesztési miniszter |
+| 2 | 1. | hulladéklerakó telep | Királyszentistván (hrsz. 017) | egységes környezet- használati engedély | Közép- Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség (KTVF) | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: OKTVF) |
 
-| vízjogi engedély | Közép-Dunántúli KTVF | OKTVF |
+| 3 |  |  |  | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Veszprém Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
-| 2. | bekötőút | Királyszentistván – a 7213. sz. úttól a hulladéklerakó telepre | építési engedély | Nemzeti Közlekedési Hatóság Közép-dunántúli Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 4 |  |  |  | vízjogi engedély | Közép-Dunántúli KTVF | OKTVF |
 
-| vízjogi engedély | Közép-Dunántúli KTVF | OKTVF |
+| 5 | 2. | Bekötőút | Királyszentistván – a 7213. sz. úttól a hulladéklerakó telepre | építési engedély | Nemzeti Közlekedési Hatóság Közép-dunántúli Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+
+| 6 |  |  |  | vízjogi engedély | Közép-Dunántúli KTVF | OKTVF |
 
 ## B) Szabolcs-Szatmár-Bereg megyei hulladékgazdálkodási projekt
 
-|  | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Elsőfokú engedélyező hatóság | Másodfokú engedélyező hatóság |
+|  | A | B | C | D | E | F |
 
-| 1. | hulladéklerakó telep | Nyíregyháza (hrsz. 02350) | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
+| 1 | Sor- szám | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Elsőfokú engedélyező hatóság | Másodfokú engedélyező hatóság |
 
-| építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Észak- magyarországi Regionális Államigazgatási Hivatal | önkormányzati és területfejlesztési miniszter |
+| 2 | 1. | hulladéklerakó telep | Nyíregyháza (hrsz. 02350) | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| 2. | bekötőút | Nyíregyháza – a Nyíregyházát elkerülő (épülő) 4. sz. úttól a hulladéklerakó telepre | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
+| 3 |  |  |  | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Szabolcs-Szatmár- Bereg Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
-| 3. | hulladéklerakó telep | Kisvárda (hrsz. 068) | egységes környezethasználati engedély (módosítás) | Felső-Tisza-vidéki KTVF | OKTVF |
+| 4 | 2. | bekötőút | Nyíregyháza – a Nyíregyházát elkerülő (épülő) 4. sz. úttól a hulladéklerakó telepre | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Észak- magyarországi Regionális Államigazgatási Hivatal | önkormányzati és területfejlesztési miniszter |
+| 5 | 3. | hulladéklerakó telep | Kisvárda (hrsz. 068) | egységes környezethasználati engedély (módosítás) | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
+| 6 |  |  |  | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár- Bereg Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
-| 4. | bekötőút | Kisvárda – a 4108. és 4109. sz. úttól a hulladéklerakó telepre | építési engedély | Nemzeti Közlekedési Hatóság Észak-alföldi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 7 |  |  |  | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
+| 8 | 4. | bekötőút | Kisvárda – a 4108. és 4109. sz. úttól a hulladéklerakó telepre | építési engedély | Nemzeti Közlekedési Hatóság Észak-alföldi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
-| 5. | hulladéklerakó telep | Nagyecsed (hrsz. 0188) | egységes környezethasználati engedély (módosítás) | Felső-Tisza-vidéki KTVF | OKTVF |
+| 9 |  |  |  | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Észak- magyarországi Regionális Államigazgatási Hivatal | önkormányzati és területfejlesztési miniszter |
+| 10 | 5. | hulladéklerakó telep | Nagyecsed (hrsz. 0188) | egységes környezethasználati engedély (módosítás) | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
+| 11 |  |  |  | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár- Bereg Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
-| 6. | bekötőút | Nagyecsed – a 4918. sz. úttól a hulladéklerakó telepre | építési engedély | Nemzeti Közlekedési Hatóság Észak-alföldi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 12 |  |  |  | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
+| 13 | 6. | bekötőút | Nagyecsed – a 4918. sz. úttól a hulladéklerakó telepre | építési engedély | Nemzeti Közlekedési Hatóság Észak-alföldi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+
+| 14 |  |  |  | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
 2. számú melléklet a 151/2006. (VII. 21.) Korm. rendelethez[^2]
 
