@@ -1,0 +1,7 @@
+17. § (1) A közigazgatási hivatal kérelemre vagy hivatalból – a rendvédelmi szervek kivételével – a Kormánynak alárendelt szervek bármely területi szervétől, a polgármestertől és a jegyzőtől az általuk ellátott államigazgatási feladatokat érintően, valamint államigazgatási feladatot ellátó más szervtől és személytől bármely döntést bekérhet, a szerv intézkedéséről tájékoztatást kérhet, illetve – jogszabály eltérő rendelkezése hiányában – az iratokba betekinthet.
+
+(2) A közigazgatási hivatal az (1) bekezdésben meghatározott szervnél – törvénysértés észlelése esetén – egyeztető eljárást kezdeményez, ennek eredménytelensége esetén a szerv felügyeleti szervénél felügyeleti eljárást kezdeményez, ennek eredménytelensége esetén a feladatkörében érintett miniszter eljárását kezdeményezi.
+
+(3) A közigazgatási hivatal a (2) bekezdésben foglalt intézkedések eredménytelensége esetén az érintett döntést hozó szerv felügyeleti szerve és a feladatkörében érintett szakmai irányító miniszter egyidejű tájékoztatása mellett kezdeményezi a közigazgatás-szervezésért felelős miniszternél a (4) bekezdésben foglalt intézkedés megtételét.
+
+(4) Ha a törvénysértés másként nem orvosolható, a közigazgatás-szervezésért felelős miniszter tesz javaslatot a Kormánynak az Alkotmány 35. § (4) bekezdése alapján a Kormánynak alárendelt területi szervek törvénybe ütköző határozatának vagy intézkedésének megsemmisítésére, illetve megváltoztatására.

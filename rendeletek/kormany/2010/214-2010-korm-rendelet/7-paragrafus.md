@@ -1,0 +1,3 @@
+7. § (1) A közigazgatási hivatal szervezeti és működési szabályzatát a közigazgatás-szervezésért felelős miniszter – a szakigazgatási szervekre vonatkozó rendelkezések tekintetében a szakigazgatási szerv által ellátott államigazgatási feladat szakmai irányítását ellátó ágazati miniszter véleményének kikérésével – normatív utasításban adja ki.
+
+(2) A közigazgatási hivatal költségvetésének előkészítése során a közigazgatás-szervezésért felelős miniszter kikéri a szakigazgatási szervek tevékenységével összefüggésben a szakigazgatási szerv által ellátott államigazgatási feladat szakmai irányítását ellátó ágazati miniszter véleményét.
