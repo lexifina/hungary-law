@@ -34,19 +34,13 @@ k) mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyés
 
 l) kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, elsődleges élelmiszer-feldolgozás, a mezőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mezőgazdasági szolgáltatás;
 
-m) helyben lakó:
+m) helyben lakó: az a családi gazdálkodó vagy nyilvántartási számmal rendelkező őstermelő, vagy egyéni mezőgazdasági vállalkozó magánszemély, akinek
 
-1. az a magánszemély, akinek bejelentett lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik;
+1. lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik;
 
-2. az a magánszemély, akinek legalább három éve a bejelentett lakóhelye olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van;
+2. lakóhelye legalább három éve olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van;
 
-3. az i) pont 3. alpontja szerinti szakirányú képzettséggel rendelkező, helyben lakást és mezőgazdasági tevékenység élethivatásszerű folytatását vállaló magánszemély;
-
-4. az olyan jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek bevétele több mint 50%-ban a k) és l) pontok szerinti mezőgazdasági és kiegészítő tevékenységből származik, és székhelye az 1–2. alpontban meghatározott településen van; és
-
-5. természetes személy esetében családi gazdálkodó vagy nyilvántartási (regisztrációs) számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó, vagy a 4. alpont alatti szervezet természetes személy tagja vagy részvényese;
-
-n) helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő termőföld vagy tanya közvetlenül szomszédos az adásvétel, illetve a haszonbérlet tárgyát képező termőfölddel vagy tanyával;
+n) helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő termőföld vagy tanya közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos az adásvétel, illetve a haszonbérlet tárgyát képező termőfölddel vagy tanyával;
 
 o) önálló vállalkozó: az egyéni vállalkozó, az egyéni cég vagy az önfoglalkoztató;
 

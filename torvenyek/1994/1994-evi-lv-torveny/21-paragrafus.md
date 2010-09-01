@@ -12,7 +12,7 @@ a) a családi gazdálkodó;
 
 b) nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó;
 
-c) jogi személy és jogi személyiség nélküli más szervezet.
+c)
 
 (3) Az állattartó telep és halastó üzemeltetőjét az ingatlan-nyilvántartásban szántó, rét, legelő, valamint fásított terület művelési ágban nyilvántartott termőföldre – a 21. § (1) bekezdésének a) pontjában foglalt személyekkel azonos sorrendben – előhaszonbérleti jog illeti meg, feltéve hogy
 

@@ -1,4 +1,4 @@
-8/C. § (1) A 8/A. §-ban meghatározott feltételek betartását a helyi birtokhasznosítási bizottság, ennek hiányában a települési önkormányzat jegyzője és az ingatlanügyi hatóság bevonásával a mezőgazdasági igazgatási szerv ellenőrizheti.
+8/C. § (1) A 8/A. §-ban meghatározott feltételek betartását az ingatlanügyi hatóság bevonásával a mezőgazdasági igazgatási szerv ellenőrizheti.
 
 (2) Ha a mezőgazdasági igazgatási szerv az ellenőrzés során az összes körülmény alapos mérlegelése alapján megállapítja, hogy a tulajdonos
 
