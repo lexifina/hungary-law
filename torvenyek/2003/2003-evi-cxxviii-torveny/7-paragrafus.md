@@ -1,4 +1,4 @@
-7. § (1) A gyorsforgalmi útnak a 6. § (3)–(4) bekezdésében említett rendelettel meghatározott nyomvonalon történő megépítéséhez szükséges területet – ha a Magyar Állam a 6. § (2) bekezdésében meghatározott elővásárlási jogát nem gyakorolta – adásvétel útján, illetve csereingatlan biztosításával (ideértve a Nemzeti Földalapról szóló 2001. évi CXVI. törvény szerinti csereingatlant is) kell megszerezni.
+7. § (1) A gyorsforgalmi útnak a 6. § (3)–(4) bekezdésében említett rendelettel meghatározott nyomvonalon történő megépítéséhez szükséges területet – ha a Magyar Állam a 6. § (2) bekezdésében meghatározott elővásárlási jogát nem gyakorolta – adásvétel útján, illetve csereingatlan biztosításával (ideértve a Nemzeti Földalapról szóló törvény szerinti csereingatlant is) kell megszerezni.
 
 (2) Ha a terület a 6. § (2) bekezdésében, illetve az (1) bekezdésben foglaltak szerint nem szerezhető meg, azt ki kell sajátítani. A kisajátítási eljárást az építtető kérelmére kell lefolytatni.
 
