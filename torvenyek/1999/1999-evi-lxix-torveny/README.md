@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-69-00-00
 | 2010-01-02 | 2009. évi CXXXVI. törvény | 1999-69-00-00.33 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1999-69-00-00.34 |
 | 2010-08-19 | 2010. évi LXXXVI. törvény | 1999-69-00-00.35 |
+| 2010-09-01 | 2010. évi XLIII. törvény | 1999-69-00-00.36 |

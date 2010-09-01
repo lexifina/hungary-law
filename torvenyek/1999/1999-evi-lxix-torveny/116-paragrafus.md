@@ -2,7 +2,7 @@
 
 (2) A pénzbírság, illetőleg a járművezetéstől eltiltás végrehajtását méltányosságból mellőzheti, az elkobzott dolgot visszaadhatja:
 
-a) önkormányzati hatáskörbe tartozó szabálysértések esetében a Kormány általános hatáskörű területi államigazgatási szerve;
+a) önkormányzati hatáskörbe tartozó szabálysértések esetében a közigazgatási hivatal;
 
 b) a felügyeletet ellátó miniszter, ha az ügyben más szabálysértési hatóság járt el;
 
