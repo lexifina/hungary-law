@@ -1,0 +1,11 @@
+2. § (1) A Hft. 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A honvédtiszti alapképzésben részt vevő ösztöndíjas hallgató a beiratkozást követően egy félév időtartamban katonai alapfelkészítésen veszt részt, amelynek sikeres teljesítése a felsőfokú alapképzésben való részvétel feltétele. A honvédtiszti alapképzésben részt vevő ösztöndíjas hallgató a tanulmányi feladatok elvégzésének veszélyeztetése nélkül a 28. § c) pontja szerinti szolgálati feladat, valamint a Hvt. 70. § (1) bekezdés h) pontjában meghatározott feladatok, továbbá megelőző védelmi helyzetben és rendkívüli állapot idején szolgálati feladat ellátására igénybe vehető. A Hvt. 70. § (1) bekezdés h) pontjában meghatározott igénybevételt a rektor a honvédelemért felelős miniszter arra vonatkozó egyedi döntése alapján határozatban rendeli el.”
+
+(2) A Hft. 25. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A rendvédelmi felsőoktatási intézményben tanuló ösztöndíjas hallgató – az alapképzés, az ügyeleti szolgálatok, a szakmai gyakorlat időtartama, katasztrófa megelőzése és következményeinek elhárítása, valamint a szükségállapot és rendkívüli állapot kivételével – szolgálati feladat ellátására nem vehető igénybe. A szakmai gyakorlat teljesítése során az ösztöndíjas hallgató önálló hatósági jogkör gyakorlása nélkül, felügyelet mellett, a fegyveres szerv tevékenységére vonatkozó eljárási szabályok szerint köteles a fegyveres szerv szolgálati feladatainak végrehajtásában közreműködni, jogosult bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat önállóan végrehajtani.”
+
+(3) A Hft. 25. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A (3) és az (5) bekezdés alapján katasztrófavédelmi feladatok ellátásában részt vevő ösztöndíjas hallgató részére a tanulmányi és vizsgaszabályzatban meghatározott módon biztosítani kell a vizsgakötelezettség utólagos teljesítésének lehetőségét.”
