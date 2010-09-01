@@ -2,23 +2,38 @@
 
 Melléklet a 319/2001. (XII. 29.) Korm. rendelethez[^44]
 
-A Kormánynak a diákkedvezmények megállapítására irányuló eljárásban közreműködő általános hatáskörű területi államigazgatási szervei[^45]
+A Kormánynak a diákkedvezmények megállapítására irányuló eljárásban közreműködő
 
-| A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Kézbesítéssel érintett kör |
+általános hatáskörű területi államigazgatási szervei
 
-| Nyugat-dunántúli Regionális Államigazgatási Hivatal | A Szlovák Köztársaságban, a Szlovén Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+|  | A | B | C |
 
-| Közép-dunántúli Regionális Államigazgatási Hivatal | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
+| 1 | A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Székhelye | Kézbesítéssel érintett személyi kör |
 
-| Dél-dunántúli Regionális Államigazgatási Hivatal | A Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+| 2 | Győr-Moson-Sopron Megyei Közigazgatási Hivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| Közép-magyarországi Regionális Államigazgatási Hivatal | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak, valamint jogosultak, lakóhelyüktől függetlenül |
+| 3 | Baranya Megyei Közigazgatási Hivatal | Pécs | A Horvát Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| Észak-magyarországi Regionális Államigazgatási Hivatal | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
+| 4 | Csongrád Megyei Közigazgatási Hivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
 
-| Észak-alföldi Regionális Államigazgatási Hivatal | Az Ukrán Köztársaságban és a Román Köztársaságban lakóhellyel rendelkező jogosultak |
+| 5 | Borsod-Abaúj-Zemplén Megyei Közigazgatási Hivatal | Miskolc | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| Dél-alföldi Regionális Államigazgatási Hivatal | A Román Köztársaságban és a Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
+| 6 | Budapest Főváros Közigazgatási Hivatala | Budapest | Jogosultak, a lakóhelyüktől függetlenül |
 
-[^44]: A melléklet a 366/2006. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 36. pontja szerint módosított szöveg.
-[^45]: A melléklet címe a 132/2007. (VI. 12.) Korm. rendelet 18. §-ával megállapított, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 36. pontja szerint módosított szöveg.
+| 7 | Szabolcs-Szatmár-Bereg Megyei Közigazgatási Hivatal | Nyíregyháza | Ukrajnában és Romániában lakóhellyel rendelkező jogosultak |
+
+| 8 | Hajdú-Bihar Megyei Közigazgatási Hivatal | Debrecen | Romániában lakóhellyel rendelkező jogosultak |
+
+| 9 | Békés Megyei Közigazgatási Hivatal | Békéscsaba | Romániában lakóhellyel rendelkező jogosultak |
+
+| 10 | Nógrád Megyei Közigazgatási Hivatal | Salgótarján | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
+
+| 11 | Zala Megyei Közigazgatási Hivatal | Zalaegerszeg | A Szlovén Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+
+| 12 | Somogy Megyei Közigazgatási Hivatal | Kaposvár | A Szerb Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+
+| 13 | Komárom-Esztergom Megyei Közigazgatási Hivatal | Tatabánya | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
+
+| 14 | Bács-Kiskun Megyei Közigazgatási Hivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
+
+[^44]: A melléklet a 234/2010. (VIII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
