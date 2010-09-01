@@ -6,7 +6,7 @@
 
 | 2. | Kiemelt nagyberuházásként a dunaalmási „DUNA-ETANOL Zrt. Bioetanol-Biogáz- Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Dunaalmás közigazgatási területén lévő külterületi 0634, 0633/26, 0661/3 ingatlan- nyilvántartási helyrajzi számú területek | a Magyar Kereskedelmi Engedélyezési Hivatalról szóló kormányrendelet szerint a Magyar Kereskedelmi Engedélyezési Hivatal hatáskörébe tartozó sajátos építményfajták építésügyi hatósági eljárásai | Magyar Kereskedelmi Engedélyezési Hivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Tata város jegyzője | Közép-dunántúli Regionális Államigazgatási Hivatal |
+| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Tata város jegyzője | Komárom-Esztergom Megyei Közigazgatási Hivatal |
 
 | 4. |  |  | környezetvédelmi hatósági eljárások | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -52,7 +52,7 @@
 
 | 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | környezetvédelemért felelős miniszter |
 
-2. melléklet a 60/2010. (III. 18.) Korm. rendelethez
+2. melléklet a 60/2010. (III. 18.) Korm. rendelethez[^2]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -60,7 +60,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Közép-dunántúli Regionális Államigazgatási Hivatal | építésügyért felelős miniszter |
+| 2. | építésügy | Komárom-Esztergom Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -103,3 +103,5 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 | 22. | műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
 | 23. | élelmiszer-egészségügy | Komárom-Esztergom Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központja |
+
+[^2]: A 2. melléklet a 234/2010. (VIII. 31.) Korm. rendelet 21. §-a szerint módosított szöveg.
