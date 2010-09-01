@@ -8,7 +8,7 @@
 
 | 2. | Metróállomá- sok, üzemi létesítmények | Kelenföldi pályaudvar, Tétényi út, Bocskai út, Móricz Zsigmond körtér, Szent Gellért tér, Fővám tér, Kálvin tér, Rákóczi tér, Népszínház utca, Keleti pályaudvar, Dózsa György út, Hungária körút, Róna utca, Bosnyák tér metróállomások és minden üzemi létesítmény | Építésügyi hatósági engedélyek | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
-| 3. | Felszín feletti építmények | Állomások és vonali műtárgyak felszínen megjelenő építményei (különösen: szellőző fejek, lépcső lefedések, liftépületek) | Építésügyi hatósági engedélyek | Közép-magyar- országi Regionális Államigazgatási Hivatal | az építésügyért felelős miniszter |
+| 3. | Felszín feletti építmények | Állomások és vonali műtárgyak felszínen megjelenő építményei (különösen: szellőző fejek, lépcső lefedések, liftépületek) | Építésügyi hatósági engedélyek | Budapest Főváros Közigazgatási Hivatala | az építésügyért felelős miniszter |
 
 | 4. | Felszíni rendezési munkák | A Fővárosi Önkormányzat tulajdonában lévő felszíni létesítmények, így különösen utak, járdák, forgalomtechnika, zöldterületek, villamosvágányok, aluljárók építési munkái | Közúthatósági engedélyek | Nemzeti Közlekedési Hatóság Közép- magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
@@ -26,33 +26,29 @@
 
 | Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvédelmi Minisztérium Honvéd Vezérkar | a honvédelemért felelős miniszter |
+| Honvédelem | Honvéd Vezérkar Főnöke | a honvédelemért felelős miniszter |
 
 | Egészségügy | Állami Népegészségügyi és Tisztiorvosi Szolgálat Közép-magyarországi Regionális Intézete | Országos Tisztifőorvosi Hivatal |
 
-| Kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal elnöke | a kulturális örökségvédelemért felelős miniszter |
+| Kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal Közép-magyarországi Iroda | a Kulturális Örökségvédelmi Hivatal központi szerve |
 
 | Polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Útügy | Budapest Főváros Önkormányzatának főjegyzője | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága |
 
-| Földtan | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
-
-| Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+|  | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Ingatlan-nyilvántartás | Fővárosi Földhivatal | az ingatlan-nyilvántartásért felelős miniszter |
 
-| Hírközlés | Nemzeti Hírközlési Hatóság Hivatala | Nemzeti Hírközlési Hatóság Tanácsának elnöke |
-
 | Műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve | a kereskedelemért felelős miniszter |
 
-| Építésügy | Közép-magyarországi Regionális Államigazgatási Hivatal | az építésügyért felelős miniszter |
+| Építésügy | Budapest Főváros Közigazgatási Hivatala | az építésügyért felelős miniszter |
 
 | Környezetvédelem, természetvédelem, vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-2. Metróállomások építéshatósági engedélyei
+2 Metróállomások építéshatósági engedélyei
 
 |  | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
@@ -60,27 +56,25 @@
 
 | Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvédelmi Minisztérium Honvéd Vezérkar | a honvédelemért felelős miniszter |
+| Honvédelem | Honvéd Vezérkar főnöke | a honvédelemért felelős miniszter |
 
 | Egészségügy | Állami Népegészségügyi és Tisztiorvosi Szolgálat Közép-magyarországi Regionális Intézete | Országos Tisztifőorvosi Hivatal |
 
-| Építésügy | Közép-magyarországi Regionális Államigazgatási Hivatal | az építésügyért felelős miniszter |
+| Építésügy | Budapest Főváros Közigazgatási Hivatala | az építésügyért felelős miniszter |
 
-| Kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal elnöke | a kulturális örökségvédelemért felelős miniszter |
+| Kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal Közép-magyarországi Iroda | a Kulturális Örökségvédelmi Hivatal központi szerve |
 
 | Polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Útügy | Budapest Főváros Önkormányzatának főjegyzője | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága |
 
-| Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
+|  | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | Földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Ingatlan-nyilvántartás | Fővárosi Földhivatal | az ingatlan-nyilvántartásért felelős miniszter |
-
-| Hírközlés | Nemzeti Hírközlési Hatóság Hivatala | Nemzeti Hírközlési Hatóság Tanácsának elnöke |
 
 | Műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve | a kereskedelemért felelős miniszter |
 
@@ -150,4 +144,4 @@
 
 | Kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal elnöke | a kulturális örökségvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 168/2007. (VI. 28.) Korm. rendelet 27. § c) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 168/2007. (VI. 28.) Korm. rendelet 27. § c) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 14. pontja, a 234/2010. (VIII. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
