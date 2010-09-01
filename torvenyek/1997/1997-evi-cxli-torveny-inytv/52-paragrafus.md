@@ -16,7 +16,7 @@ f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezet
 
 g) telekalakítás esetén az építésügyi hatóság részére,
 
-h) külföldi jogi vagy magánszemély, továbbá a termőföldről szóló törvény szerinti tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyzett jogi személy vagy jogi személyiség nélküli szervezet termőföldnek nem minősülő ingatlanra vonatkozó tulajdonszerzése esetén a Kormány általános hatáskörű területi államigazgatási szervének,
+h) külföldi jogi vagy magánszemély, továbbá a termőföldről szóló törvény szerinti tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyzett jogi személy vagy jogi személyiség nélküli szervezet termőföldnek nem minősülő ingatlanra vonatkozó tulajdonszerzése esetén a közigazgatási hivatalnak,
 
 i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 
