@@ -1,0 +1,1 @@
+## 7. § A Központ külön törvény, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés alapján együttműködik a külföldi és a nemzetközi, terrorelhárításban érintett rendvédelmi szervekkel, biztonsági szolgálatokkal.
