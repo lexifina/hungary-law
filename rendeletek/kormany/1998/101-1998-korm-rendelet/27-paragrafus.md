@@ -1,4 +1,4 @@
-## 26. §[^121]
+## 26. §[^125]
 
 ## Az úti okmány cseréje
 
@@ -8,4 +8,4 @@ a) az állampolgárnak az úti okmányban szereplő adatai megváltoztak, vagy a
 
 b) személyazonosításra alkalmatlanná vált, betelt, megrongálódott.
 
-[^121]: A 26. §-t a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^125]: A 26. §-t a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.

@@ -4,7 +4,7 @@
 
 a) átveszi a magánútlevél kiadására irányuló kérelmet,
 
-b) e jogszabályban foglaltak szerint ellenőrzi a kérelmező személyi adatait és útlevélhez való jogosultságát,
+b)[^30] e jogszabályban foglaltak szerint ellenőrzi a kérelmező személyi adatait és magyar állampolgárságát,
 
 c) a kérelemnek megfelelő adattartalmú, elektronikus úton továbbítandó kérelmet állít elő,
 
@@ -18,4 +18,24 @@ g) gondoskodik az úti okmány érvénytelenítéséről,
 
 h) kérelem esetén lehetővé teszi a tároló elem adattartalmának ellenőrzését.
 
+(3)[^31] A konzuli tisztviselő a magánútlevél kiadásával összefüggő közreműködői feladatai körében:
+
+a) átveszi a magánútlevél kiadására irányuló kérelmet,
+
+b) ellenőrzi a kérelmező személyi adatait és magyar állampolgárságát,
+
+c) a kérelemnek megfelelő adattartalmú, elektronikus úton továbbítandó kérelmet állít elő,
+
+d) a kinyomtatott, valamint a formanyomtatványon benyújtott kérelmet és csatolt mellékleteit megküldi a Hivatalnak,
+
+e) gondoskodik az úti okmánynak az ügyfél részére történő átadásáról, és az átadás tényéről a Hivatalt értesíti,
+
+f) gondoskodik az át nem vett okmányok megőrzéséről, majd a Hivatalnak selejtezés céljából történő megküldéséről,
+
+g) gondoskodik az úti okmány érvénytelenítéséről, valamint
+
+h) kérelem esetén lehetővé teszi a tároló elem adattartalmának ellenőrzését.
+
 [^29]: A 7. § a 117/2009. (VI. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^30]: A 7. § (2) bekezdés b) pontja a 98/2010. (IV. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^31]: A 7. § (3) bekezdését a 98/2010. (IV. 2.) Korm. rendelet 1. §-a iktatta be.
