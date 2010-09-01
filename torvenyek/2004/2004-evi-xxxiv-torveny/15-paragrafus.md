@@ -13,3 +13,7 @@ d) értékeli a központi államigazgatási szervek és KKV-fejlesztési szervez
 e) értékeli a KKV-k részesedésének mértékét a költségvetési támogatásokból, a vállalkozói hitelekből, valamint a közbeszerzésekből,
 
 f) véleményezi a KKV-kat érintő törvénytervezeteket.
+
+g) javaslatot fogalmaz meg a KKV-kat érintő szabályozási környezet kialakítására,
+
+h) javaslatot tesz a KKV-k helyzetét érintő hatástanulmányok elkészítésére.

@@ -1,3 +1,7 @@
-## A támogatások felhasználásának, valamint a kis- és középvállalkozások helyzetének felmérése
+## A támogatások felhasználásának, valamint a kis- és középvállalkozások helyzetének felmérése, a kis- és középvállalkozásokra vonatkozó egyéb rendelkezések
 
 12. § A Kormány kétévente az Országgyűlés elé terjeszti a miniszter által kidolgozott, a KKV-k helyzetét, gazdálkodási feltételrendszerét, a vállalkozásfejlesztés érdekében megtett intézkedéseket, valamint a KKV-k részére nyújtott állami támogatások eredményeit bemutató jelentést.
+
+[12/A. § (1) A hatósági eljárás alá vont természetes vagy jogi személlyel, továbbá jogi személyiséggel nem rendelkező szervezettel szemben a hatóság által kiszabott bírság – a hatóság, valamint a hatósági ellenőrzést végző személyek bírság kiszabásban való érdekeltségének megszüntetése érdekében – közvetlenül a hatóság működési költségeire nem használható fel.
+
+(2) A hatósági ellenőrzést végző szervek kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak, illetve kötelesek megvizsgálni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (1) bekezdés a) pontjában szabályozott eljárás alkalmazásának lehetőségét. Nincs lehetőség a bírságtól való eltekintésre, amennyiben a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával emberi élet, testi épség vagy egészség került közvetlen veszélybe, illetve környezetkárosodás következett be.]
