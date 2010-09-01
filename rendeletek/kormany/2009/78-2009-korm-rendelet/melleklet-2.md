@@ -24,7 +24,7 @@
 
 | 4.1. | mederkotrás és iszapszikkasztó zagykazetták | RSD főág teljes hosszán, illetve a mellékágakon, kijelölt területenként | vízügyi hatósági engedély, környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-|  |  |  | építésügyi hatósági engedély, | Közép-magyarországi Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| építésügyi hatósági engedély | Budapest Főváros Közigazgatási Hivatala | építésügyért felelős miniszter |
 
 | 5. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
