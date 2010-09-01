@@ -16,31 +16,31 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 |  | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| környezet- és település- egészségügy | ÁNTSZ Tolna Megyei Intézete | Országos Tisztifőorvosi Hivatal |
+| környezet- és település-egészségügy | ÁNTSZ Dél-Dunántúli Regionális Intézete | Országos Tisztifőorvosi Hivatal |
 
-| helyi környezet- és természetvédelem | érintett települési önkormányzat jegyzője | Dél-dunántúli Regionális Államigazgatási Hivat |
+| helyi környezet- és természetvédelem | érintett települési önkormányzat jegyzője | Tolna Megyei Közigazgatási Hivatal |
 
 | nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonság Igazgatóság [OAH NBI] | Országos Atomenergia Hivatal főigazgatója |
 
 | földművelésügy: |  |  |
 
-| – | erdővagyon védelem | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal, Pécs | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| – erdővagyonvédelem | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal, Pécs | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-| – | talaj (termőföld) védelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| – talaj (termőföld) védelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-| – | termőföld mennyiségi védelem | illetékes körzeti földhivatal | Tolna Megyei Földhivatal |
+| – termőföld mennyiségi védelem | illetékes körzeti földhivatal | Tolna Megyei Földhivatal |
 
-| közlekedés | Tolna Megyei Közlekedési Felügyelet | Közlekedési Főfelügyelet |
+| közlekedés | Nemzeti Közlekedési Hatóság Dél-Dunántúli Regionális Igazgatóság | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal Pécsi Regionális Iroda | Kulturális Örökségvédelmi Hivatal elnöke |
 
-| földtani közeg, ásványi nyersanyag védelme | Pécsi Bányakapitányság | Magyar Bányászati Hivatal |
+| földtani közeg, ásványi nyersanyag védelme | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | lakosság életének védelme | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| településrendezési előírásokkal való összhang | illetékes építésügyi hatóság | A Kormány általános hatáskörű területi államigazgatási szerve |
+| településrendezési előírásokkal való összhang | illetékes építésügyi hatóság | Tolna Megyei Közigazgatási Hivatal |
 
-| területrendezési elvekkel való összhang | illetékes területi főépítész | önkormányzati és területfejlesztési miniszter |
+| területrendezési tervekkel való összhang | illetékes állami főépítész | területrendezésért felelős miniszter |
 
 2. Radioaktív hulladéktároló létesítési és üzemeltetési engedély:
 
@@ -48,27 +48,27 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | környezetvédelem | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
 
-| építésügy | Dél-dunántúli Regionális Államigazgatási Hivat | önkormányzati és területfejlesztési miniszter |
+| építésügy | Tolna Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonság Igazgatóság [OAH NBI] | Országos Atomenergia Hivatal főigazgatója |
 
-| honvédelem | HM Hadműveleti és Kiképzési Főosztály | honvédelmi miniszter |
+| honvédelem | Honvéd Vezérkar Főnöke | honvédelemért felelős miniszter |
 
 | földművelésügy: |  |  |
 
-| – | állategészségügy | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| – állategészségügy | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-| – | talaj (termőföld) védelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| – talaj (termőföld) védelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-| közlekedés | Tolna Megyei Közlekedési Felügyelet | Közlekedési Főfelügyelet |
+| közlekedés | Nemzeti Közlekedési Hatóság Dél-Dunántúli Regionális Igazgatóság | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | rendészet: |  |  |
 
-| – | rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
+| – rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
 | polgári védelem, tűzvédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| földtan, bányászat | Pécsi Bányakapitányság | Magyar Bányászati Hivatal |
+| földtan, bányászat | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | vízügy | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
 
@@ -82,4 +82,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | – | rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^1]: A 2. melléklet a 337/2007. (XII. 13.) Korm. rendelet 30. §-a, a 393/2007. (XII. 27.) Korm. rendelet 6. § (5) bekezdésének b) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^1]: A 2. melléklet a 337/2007. (XII. 13.) Korm. rendelet 30. §-a, a 393/2007. (XII. 27.) Korm. rendelet 6. § (5) bekezdésének b) pontja, a 234/2010. (VIII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
