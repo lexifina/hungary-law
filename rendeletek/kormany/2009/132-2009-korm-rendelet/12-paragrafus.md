@@ -16,20 +16,17 @@ f) a rehabilitációs foglalkoztatást elősegítő bértámogatás,
 
 g) a költségtérítés, továbbá
 
-h)[^8]
-
-[h)[^9] a munkahelyi adaptációt elősegítő támogatás.]
+h)[^8] a munkahelyi adaptációt elősegítő támogatás.
 
 (2) Az (1) bekezdés a)–d) pontjában meghatározott támogatásokra a 4–10. §-okban foglalt rendelkezéseket megfelelően alkalmazni kell azzal, hogy
 
 a) az önfoglalkoztatás támogatásának nem feltétele, hogy a kérelmezőt a munkaügyi központ kirendeltsége álláskeresőként nyilvántartsa,
 
-b)[^10]
+b)[^9]
 
-[c)[^11] az 5. §-ban meghatározott bértámogatás nem nyújtható olyan személy foglalkoztatásához, aki nem minősül a Munkaerőpiaci Alap foglalkoztatási alaprészéből nyújtott foglalkoztatást bővítő támogatás szempontjából, külön jogszabályban meghatározott megváltozott munkaképességű személynek.]
+c)[^10] az 5. §-ban meghatározott bértámogatás nem nyújtható olyan személy foglalkoztatásához, aki nem minősül a Munkaerőpiaci Alap foglalkoztatási alaprészéből nyújtott foglalkoztatást bővítő támogatás szempontjából, külön jogszabályban meghatározott megváltozott munkaképességű személynek.
 
 [^7]: A 12. § (1) bekezdés b) pontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 12. § (1) bekezdés h) pontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (3) bekezdése alapján nem lép hatályba.
-[^9]: A 12. § (1) bekezdés h) pontját újonnan a 359/2009. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be; e módosító rendelet 9. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
-[^10]: A 12. § (2) bekezdés b) pontját a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés a) pontja hatályon kívül helyezte.
-[^11]: A 12. § (2) bekezdés c) pontját a 359/2009. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be; e módosító rendelet 9. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
+[^8]: A 12. § (1) bekezdés h) pontját újonnan a 359/2009. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^9]: A 12. § (2) bekezdés b) pontját a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés a) pontja hatályon kívül helyezte.
+[^10]: A 12. § (2) bekezdés c) pontját a 359/2009. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
