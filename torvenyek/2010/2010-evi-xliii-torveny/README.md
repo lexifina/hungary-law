@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2010-07-06 | 2010. évi LVIII. törvény | 2010-43-00-00.2 |
 | 2010-08-14 | 2010. évi XC. törvény | 2010-43-00-00.3 |
 | 2010-08-19 | 2010. évi LXXXVI. törvény | 2010-43-00-00.4 |
+| 2010-09-01 | 2010. évi XC. törvény | 2010-43-00-00.5 |

@@ -7,3 +7,5 @@
 (4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
 
 (5) A Kormány tagja részére a köztársasági elnök; az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár részére a miniszterelnök igazolványt állít ki.
+
+(6) Az állami vezető, a kormánybiztos, a miniszterelnöki biztos, kormányhivatal, központi hivatal vezetője és helyettese tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetménye nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.

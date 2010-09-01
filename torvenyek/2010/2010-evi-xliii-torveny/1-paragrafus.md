@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya – az autonóm államigazgatási szervek kivételével – a központi államigazgatási szervekre, a Kormány általános hatáskörű területi államigazgatási szervére, a Kormány tagjaira, az államtitkárokra, valamint – ha törvény eltérően nem rendelkezik – a közigazgatási és a helyettes államtitkárokra terjed ki.
+1. § (1) E törvény hatálya – az autonóm államigazgatási szervek kivételével – a központi államigazgatási szervekre, a Kormány tagjaira, az államtitkárokra, valamint – ha törvény eltérően nem rendelkezik – a közigazgatási és a helyettes államtitkárokra terjed ki.
 
 (2) Központi államigazgatási szerv
 
