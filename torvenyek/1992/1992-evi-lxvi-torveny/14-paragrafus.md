@@ -22,7 +22,7 @@ i) az állampolgársági ügyekben eljáró szerv értesítése a magyar államp
 
 j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
 
-k) a jegyző, a Kormány általános hatáskörű területi államigazgatási szerve, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
+k) a jegyző, a közigazgatási hivatal, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
 
 l) a külföldön élő magyar állampolgár kérelme;
 

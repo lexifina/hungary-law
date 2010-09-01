@@ -1,7 +1,7 @@
-8. § (1) A Kormány általános hatáskörű területi államigazgatási szerve
+8. § (1) A közigazgatási hivatal
 
 a) felügyeletet gyakorol a helyi nyilvántartási tevékenység felett;
 
 b) ellenőrzi a személyes adatok védelmének érvényesülését, szükség esetén helyreállítja a törvényes állapotot.
 
-(2) A Kormány általános hatáskörű területi államigazgatási szerve a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
+(2) A közigazgatási hivatal a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
