@@ -4,11 +4,11 @@
 
 | 1. | hallépcső a 21T műtárgy mellett, létesítmény szám: IV/H | Keszthely (hrsz. 0380) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 2. | 1 db kilátó áthelyezése, létesítmény szám: VI/K | Balatonszentgyörgy (hrsz. 0115/2) | építésügyi hatósági engedély | Dél-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 2. | 1 db kilátó áthelyezése, létesítmény szám: VI/K | Balatonszentgyörgy (hrsz. 0115/2) | építésügyi hatósági engedély | Somogy Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 3. | áramlásjavító csatorna, létesítmény szám: VI/Cs | Zalakomár (hrsz. 0175), Balatonmagyaród (hrsz. 04) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 4. | Híd1-Híd2 bontása, létesítmény szám: VI/H1–2 | Balatonmagyaród (hrsz. 04) | építésügyi hatósági engedély | Nyugat-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 4. | Híd1–Híd2 bontása, létesítmény szám: VI/H1-2 | Balatonmagyaród (hrsz. 04) | építésügyi hatósági engedély | Zala Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 5. | töltésépítés, létesítmény szám: VI/T1, VI/T2 | Balatonmagyaród (hrsz. 04) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -30,7 +30,7 @@
 
 | 14. | Fenékpusztai géptelep rekonstrukció, létesítmény szám: XVII/SzB | Keszthely (hrsz. 0378/6) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 15. | Balatonhídvégi őrtelep átalakítása, létesítmény szám: XVIII | Balatonmagyaród | építésügyi hatósági engedély | Nyugat-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 15. | Balatonhídvégi őrtelep átalakítása, létesítmény szám: XVIII | Balatonmagyaród | építésügyi hatósági engedély | Zala Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 16. | Ingói berek lezárása, létesítmény szám: XXI/AT | Zalavár (hrsz. 022/4) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -52,15 +52,15 @@
 
 | 25. | 20kV-os vezeték áthelyezése | Zalavár | villamosenergia-ipari építésügyi hatósági engedély | Magyar Kereskedelmi Engedélyezési Hivatal Győri Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-| 26. | 4T és Kányavári sziget között 2 km hosszú, 3 m széles aszfaltozott üzemi út építése, létesítmény szám: XXIII/4K | Zalavár | építésügyi hatósági engedély | Nyugat-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 26. | 4T és Kányavári sziget között 2 km hosszú, 3 m széles aszfaltozott üzemi út építése, létesítmény szám: XXIII/4K | Zalavár | építésügyi hatósági engedély | Zala Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
-| 27. | 4. sz. híd, új felüljáró híd építése MÁV vízvédelmi töltések megközelítésére | Zalakomár | építésügyi hatósági engedély | Nyugat-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 27. | 4. sz. híd, új felüljáró híd építése MÁV vízvédelmi töltések megközelítésére | Zalakomár | építésügyi hatósági engedély | Zala Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
 | 28. | Hídvégi tó megkerülésének létesítményei: 5T, 6T zsilip, Holt meder rekonstrukció, Kis-Zala torkolati zsilip rekonstrukció, új csatorna a Kis-Zala és a Mekenyei szivattyútelep között, létesítmény szám: XXV/H | Zalavár | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 29. | Fenéki tó belső rövidrezárásának létesítményei: Zala meder rekonstrukció, 5. sz. híd, új csatorna és töltés a Zala és a vízszintszabályozó csatorna között, 31T és 32T zsilip, létesítmény szám: XXV/F | Keszthely, Zalavár, Balatonmagyaród | építésügyi hatósági engedély | Nyugat-dunántúli Regionális Államigazgatási Hivatal | nemzeti fejlesztési és gazdasági miniszter |
+| 29. | Fenéki tó belső rövidrezárásának létesítményei: Zala meder rekonstrukció | Keszthely, Zalavár, Balatonmagyaród | építésügyi hatósági engedély | Zala Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
 
-| vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. sz. híd, új csatorna és töltés a Zala és a vízszintszabályozó csatorna között, 31T és 32T zsilip, létesítmény szám: XXV/F | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 30. | hallépcső a 4T műtárgy mellett, létesítmény szám: XXVI | Balatonmagyaród | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
