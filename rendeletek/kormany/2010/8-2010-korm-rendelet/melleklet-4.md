@@ -10,7 +10,7 @@
 
 ## Jelen vannak
 
-| Önkormányzat/Társulás részéről: |  | Regionális Államigazgatási Hivatal részéről: |  |
+| Önkormányzat/Társulás részéről: |  | A Kormány általános hatáskörű területi államigazgatási szerve részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 

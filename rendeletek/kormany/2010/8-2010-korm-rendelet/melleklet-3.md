@@ -36,4 +36,6 @@
 
 | Telefon: | Telefon: |
 
-3. melléklet a 8/2010. (I. 28.) Korm. rendelethez
+3. melléklet a 8/2010. (I. 28.) Korm. rendelethez[^15]
+
+[^15]: A 3. melléklet a 234/2010. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
