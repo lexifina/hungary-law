@@ -1,6 +1,6 @@
 2. § (1) Az e törvényben nem szabályozott kérdésekben a kormánytisztviselő jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A minisztériumban és a Miniszterelnökségen kinevezett szakmai vezető jogviszonyára e törvény rendelkezéseit – a 3–14. §, 16. §, 18–22. §, 24. §, 30–32. §, 34–37. § kivételével –, valamint a Ktv. rendelkezéseit – a Ktv. 10. §-a, 10/B. és 10/C. §-a, 11/B. §-a, 19. §-a, 20/A. §-a, 23–32. §-a, 34–36. §-a és 47–48/A. §-a kivételével – megfelelően alkalmazni kell.
+(2) A minisztériumban és a Miniszterelnökségen kinevezett szakmai vezető jogviszonyára e törvény rendelkezéseit – a 3–14. §, 16. §, 18–22. §, 24. §, 56–58. §, 60–63. § kivételével –, valamint a Ktv. rendelkezéseit – a Ktv. 10. §-a, 10/B. és 10/C. §-a, 11/B. §-a, 19. §-a, 20/A. §-a, 23–32. §-a, 34–36. §-a és 47–48/A. §-a kivételével – megfelelően alkalmazni kell.
 
 (3) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, illetve ügyészre, ha törvény másként nem rendelkezik, e törvény és a Ktv. rendelkezéseit megfelelően alkalmazni kell.
 

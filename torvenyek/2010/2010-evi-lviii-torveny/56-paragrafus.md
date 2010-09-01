@@ -24,7 +24,7 @@ d) a (4) bekezdés esetében az államtitkár
 
 gyakorolja.
 
-(7) A politikai főtanácsadó, politikai tanácsadó – a kormánytisztviselői jogviszonyban eltöltött idejére tekintet nélkül – vezető-főtanácsos vagy főtanácsos besorolást kap, illetményét a besorolásától függetlenül a (6) bekezdés a)–d) pontjában meghatározott munkáltatói jogkör gyakorlója állapítja meg.
+(7) A politikai főtanácsadó, politikai tanácsadó – a kormánytisztviselői jogviszonyban eltöltött idejére tekintet nélkül – vezető-főtanácsos vagy főtanácsos besorolást kap, illetményét a besorolásától függetlenül a (6) bekezdés a)–d) pontjában meghatározott munkáltatói jogkör gyakorlója állapítja meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (8) Ha a politikai főtanácsadó, politikai tanácsadó kormánytisztviselői jogviszonya a Kormány, a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
 
