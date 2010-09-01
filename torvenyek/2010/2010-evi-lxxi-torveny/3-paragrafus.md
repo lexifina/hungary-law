@@ -1,0 +1,3 @@
+3. § A Kt. 71. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A tanuló az iskola magasabb évfolyamába, illetve szakképzési évfolyamába akkor léphet, ha az előírt tanulmányi követelményeket sikeresen teljesítette. A tanuló az első évfolyamon csak abban az esetben utasítható évfolyamismétlésre, ha a tanulmányi követelményeket az iskolából való igazolt és igazolatlan mulasztás miatt nem tudta teljesíteni. Ha az iskola szakképzési évfolyamába való lépés előfeltétele az érettségi vizsga megléte, a tanuló akkor is megkezdheti tanulmányait a szakképzési évfolyamon, ha a vizsgát megkezdte, de nem fejezte be. Tanulmányait azonban az adott évfolyamon csak akkor fejezheti be, ha a tanítási év első félévének utolsó napjáig az érettségi bizonyítványt megszerezte.”
