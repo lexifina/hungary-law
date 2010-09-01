@@ -6,4 +6,4 @@
 
 (3) A kistérségi fejlesztési tanács székhelye a kistérség külön jogszabályban megállapított székhely települése.
 
-(4) A kistérségi fejlesztési tanácsok felett a Kormány általános hatáskörű területi államigazgatási szerve a 16. § (11)–(16) bekezdései szerint törvényességi felügyeletet gyakorol. A 10/E. § (4) bekezdésében meghatározott kistérség esetében a közigazgatási hivatal törvényességi ellenőrzést gyakorol.
+(4) A kistérségi fejlesztési tanácsok felett a közigazgatási hivatal a 16. § (11)–(16) bekezdései szerint törvényességi felügyeletet gyakorol. A 10/E. § (4) bekezdésében meghatározott kistérség esetében a közigazgatási hivatal törvényességi ellenőrzést gyakorol.

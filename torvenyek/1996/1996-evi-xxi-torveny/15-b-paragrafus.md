@@ -26,12 +26,12 @@ e) a Kormány képviselője.
 
 (9) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (7) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(10) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a kormányzati területfejlesztési feladatokért felelős szerv képviselője, a Kormány általános hatáskörű területi államigazgatási szervének a vezetője, az állami főépítész, a gazdasági kamarák kamaránként egy-egy képviselője, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a térségi területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(10) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a kormányzati területfejlesztési feladatokért felelős szerv képviselője, a közigazgatási hivatal vezetője, az állami főépítész, a gazdasági kamarák kamaránként egy-egy képviselője, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a térségi területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (11) A kistérségi fejlesztési tanácsok képviselője és a kerületi polgármester a területüket érintő fejlesztési programok tárgyalása során a térségi fejlesztési tanácsban tanácskozási joggal részt vehetnek.
 
 (12) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét – a 12. § (4) bekezdésben foglaltak figyelembevételével – maga alakítja ki.
 
-(13) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(13) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a közigazgatási hivatal látja el.
 
 (14) A főpolgármester és a főváros körül elterülő régió regionális fejlesztési tanácsának elnöke egyetértési jogot gyakorol a tanács döntései tekintetében.

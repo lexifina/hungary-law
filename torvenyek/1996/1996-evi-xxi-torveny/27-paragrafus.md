@@ -28,7 +28,7 @@ l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegy
 
 m) a kistérségi fejlesztési tanácsok szakmai munkaszervezetei (szolgáltató irodák) létrehozásának, valamint működésének részletes szabályait;
 
-n) a Kormány általános hatáskörű területi államigazgatási szervének a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatait, a megalakulással és átalakulással kapcsolatos eljárás rendjét, továbbá az egyeztető fórumok létrejöttének és működésének szabályait;
+n) a közigazgatási hivataloknak a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatait, a megalakulással és átalakulással kapcsolatos eljárás rendjét, továbbá az egyeztető fórumok létrejöttének és működésének szabályait;
 
 o) a regionális fejlesztési tanácsokkal a régió társadalmi, gazdasági fejlesztése érdekében kötendő megállapodások részletes szabályait;
 

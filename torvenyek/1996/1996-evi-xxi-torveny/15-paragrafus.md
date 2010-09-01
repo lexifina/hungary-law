@@ -40,7 +40,7 @@ d) a Kormány képviselője.
 
 (10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (8) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a Kormány általános hatáskörű területi államigazgatási szervének a vezetője, az állami főépítész, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a megyei területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a közigazgatási hivatal vezetője, az állami főépítész, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a megyei területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (12) A kistérségi fejlesztési tanács illetékes képviselői a területüket érintő fejlesztési programok tárgyalása során a térségi fejlesztési tanácsban szavazati joggal vehetnek részt.
 
@@ -48,4 +48,4 @@ d) a Kormány képviselője.
 
 (14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
 
-(15) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(15) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a közigazgatási hivatal látja el.

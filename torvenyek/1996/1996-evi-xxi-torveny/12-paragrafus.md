@@ -12,6 +12,6 @@
 
 (6) A megyei területfejlesztési tanács foglalkoztatáspolitikával kapcsolatos feladatait a Megyei Munkaügyi Tanáccsal összehangoltan látja el.
 
-(7) A megyei fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(7) A megyei fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a közigazgatási hivatal látja el.
 
 (8)–(14)

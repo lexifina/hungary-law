@@ -32,17 +32,17 @@ g) külön megállapodás alapján részt vehet területfejlesztési programok l
 
 (9) A tanács döntéseinek előkészítése, végrehajtásának szervezése, ellenőrzése érdekében a szervezeti és működési szabályzatban meghatározott bizottságokat hozhat létre. A tanács döntési jogkört nem ruházhat át bizottságára.
 
-(10) A regionális fejlesztési tanács működésének törvényességi felügyeletét a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(10) A regionális fejlesztési tanács működésének törvényességi felügyeletét a közigazgatási hivatal látja el.
 
-(11) A Kormány általános hatáskörű területi államigazgatási szerve a törvényességi felügyelet keretében ellenőrzi, hogy a regionális fejlesztési tanács
+(11) A közigazgatási hivatal a törvényességi felügyelet keretében ellenőrzi, hogy a regionális fejlesztési tanács
 
 a) szervezeti és működési szabályzata és egyéb szabályzatai megfelelnek-e a jogszabályoknak,
 
 b) szervezete, működése, döntéshozatali eljárása, határozatai, illetve egyéb döntései nem sértenek-e jogszabályokat, az alapszabályt vagy egyéb szabályzatokat.
 
-(12) Jogszabálysértés esetén a Kormány általános hatáskörű területi államigazgatási szerve határidő kitűzésével felhívja a regionális területfejlesztési tanácsot a jogszabálysértés megszüntetésére. A regionális fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a Kormány általános hatáskörű területi államigazgatási szervét a jogszabálysértés megszüntetésére tett intézkedésekről.
+(12) Jogszabálysértés esetén a közigazgatási hivatal határidő kitűzésével felhívja a regionális területfejlesztési tanácsot a jogszabálysértés megszüntetésére. A regionális fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a közigazgatási hivatalt a jogszabálysértés megszüntetésére tett intézkedésekről.
 
-(13) Ha a regionális fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a regionális területfejlesztési tanács elutasítja a Kormány általános hatáskörű területi államigazgatási szerve felhívását, illetve nem dönt a felhívás tárgyában, a Kormány általános hatáskörű területi államigazgatási szerve
+(13) Ha a regionális fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a regionális területfejlesztési tanács elutasítja a közigazgatási hivatal felhívását, illetve nem dönt a felhívás tárgyában, a közigazgatási hivatal
 
 a) keresettel fordul a bírósághoz a határozat, illetve egyéb döntése egészben vagy részben történő megsemmisítése iránt, továbbá a jogszabálysértő határozat, illetve egyéb döntés végrehajtását – ha az a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna – felfüggeszti, illetőleg
 
@@ -50,7 +50,7 @@ b) ismételt vagy súlyos jogszabálysértés esetén a regionális területfejl
 
 c) felügyelő biztost rendel ki, ha a regionális fejlesztési tanács adósságállománya eléri a külön törvényben az önkormányzati biztos kijelöléséhez szükséges mértéket. A felügyelő biztos feladatára és eljárására az önkormányzati biztosra vonatkozó rendelkezések irányadók.
 
-(14) A Kormány általános hatáskörű területi államigazgatási szervének a (13) bekezdés b) pontja alapján hozott intézkedése ellen annak megváltoztatása iránt a felfüggesztéssel érintett keresettel fordulhat a bírósághoz.
+(14) A közigazgatási hivatalnak a (13) bekezdés b) pontja alapján hozott intézkedése ellen annak megváltoztatása iránt a felfüggesztéssel érintett keresettel fordulhat a bírósághoz.
 
 (15) A bíróság a (13) bekezdés a) pontjában és a (14) bekezdésben említett perben a közigazgatási perekre irányadó szabályok szerint jár el. Ha a bíróság az eljárás eredményeként a jogszabálysértést megállapítja,
 
@@ -58,4 +58,4 @@ a) a jogsértő szervezeti és működési szabályzatot, egyéb szabályzatot, 
 
 b) a működés törvényességének helyreállítása céljából elrendelheti a jogszabálysértően működő szerv, tisztségviselő választására jogosult szerv összehívását.
 
-(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a Kormány általános hatáskörű területi államigazgatási szervét.
+(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a közigazgatási hivatalt.
