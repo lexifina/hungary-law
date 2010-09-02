@@ -1,1 +1,0 @@
-## 3. § A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény pedagógusokat és oktatókat érintő rendelkezéseinek végrehajtásáról szóló 206/2003. (XII. 10.) Korm. rendelet melléklete helyébe a 3. melléklet lép.
