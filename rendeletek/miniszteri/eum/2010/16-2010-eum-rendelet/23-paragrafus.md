@@ -2,8 +2,11 @@
 
 (2) A 2013. március 1-jét megelőzően a szakképzésüket e rendelet szerint megkezdők esetében a tanulmányi pontok számítása a központi gyakornoki rendszerbe való felvétel szabályairól szóló 36/2001. (X. 17.) EüM rendelet (a továbbiakban: R.1.) e rendelet hatálybalépését megelőző napon hatályos 2. § (1) bekezdése szerinti Szabályzatban foglaltak alapján az R.1. e rendelet hatálybalépését megelőző napon hatályos 6. § (2) bekezdésében meghatározott módon történik.
 
-(3) A miniszter a szakmaspecifikus tárgyak körét – a 4. § (5) bekezdésében foglaltak szerint – első alkalommal 2010. szeptember 1-jéig, a szakképzésüket 2013-ban megkezdők vonatkozásában határozza meg.
+(3)[^3]
 
 (4) Az egészségügyi felsőfokú szakirányú szakképzésről és továbbképzésről szóló 11/1998. (XII. 11.) EüM rendelet (a továbbiakban: R.2.) rendelkezései alapján minősített intézmények a minősítés időtartamának lejártáig jogosultak szakképzés lefolytatására.
 
-(5) A Kr. szerinti rezidensi pályázatot a Kr. 1. § (2) bekezdés a) pontja szerinti oklevelét a Kr. hatálybalépését megelőzően megszerző, de a szakképzés rendszerébe a Kr. hatálybalépését követően bekapcsolódni kívánó személy is benyújthat.
+(5)[^4]
+
+[^3]: A 23. § (3) bekezdését a 24. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 23. § (5) bekezdését a 24. § (2) bekezdése hatályon kívül helyezte.
