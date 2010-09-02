@@ -1,1 +1,0 @@
-## 1. § Nem lép hatályba a nem állami, nem helyi önkormányzati közoktatási intézményfenntartókat megillető kiegészítő támogatás igénylésének, megállapításának, folyósításának, elszámolásának, ellenőrzésének rendjéről szóló 170/2010. (V. 12.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1–12. §-a és 15. § (1) bekezdése.
