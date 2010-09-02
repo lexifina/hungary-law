@@ -1,3 +1,0 @@
-## 1. § A mezőőrök és a hegyőrök szolgálati viszonyáról szóló 29/1998. (IV. 30.) FM rendelet (a továbbiakban: FM rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve) a mezőőrök számára vizsgát és tanfolyamot szervez. A három fős vizsgabizottság tagjai az MgSzH területi szervének és a rendőrségnek a képviselője, az elnöke az MgSzH területi szervének vezetője. Az MgSzH területi szerve a sikeres vizsgát követően vizsgabizonyítványt állít ki. A vizsgabizonyítvány tartalmi és formai kellékeit, valamint a mezőőrök vizsgakövetelményeit a rendelet 1–2. számú mellékletei tartalmazzák.”
