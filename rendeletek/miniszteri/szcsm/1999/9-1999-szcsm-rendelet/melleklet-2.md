@@ -74,9 +74,7 @@
 
 ## hajléktalan személyek átmeneti szállása ⬜
 
-## 2.4. ápolást-gondozást nyújtó intézmény
-
-## idősek otthona ⬜
+## 2.4. ápolást-gondozást nyújtó intézmény ⬜
 
 ## pszichiátriai betegek otthona ⬜
 
@@ -85,6 +83,26 @@
 ## hajléktalan személyek otthona ⬜
 
 ## szenvedélybetegek otthona ⬜
+
+## idősek otthona ⬜
+
+## a) az elhelyezést az általános szabályok szerint [nem a b) pontban felsorolt körülmények alapján] kéri ⬜
+
+## b) az elhelyezést a gondozási szükségletet megalapozó egyéb körülmények alapján kéri ⬜
+
+## ba) demencia kórkép legalább középsúlyos fokozata ⬜
+
+## bb) az ellátást igénylő egyedül él, nyolcvanadik életévét betöltötte és a települési önkormányzat a gondozási szükséglete ellenére részére házi segítségnyújtást nem biztosít ⬜
+
+## bc) az ellátást igénylő egyedül él, hetvenedik életévét betöltötte és lakóhelye közműves vízellátás vagy közműves villamosenergia-ellátás nélküli ingatlan ⬜
+
+## bd) az ellátást igénylő egyedül él, és vakok személyi járadékában vagy hallási fogyatékosként fogyatékossági támogatásban részesül ⬜
+
+## be) az ellátást igénylő egyedül él, a hallási fogyatékosságon kívüli okból fogyatékossági támogatásban részesül, és az Országos Rehabilitációs és Szociális Szakértői Intézet (a továbbiakban: ORSZI), illetve jogelődje szakértői bizottságának szakvéleménye, szakhatósági állásfoglalása az önkiszolgálási képességének hiányát állapította meg ⬜
+
+## bf) az ellátást igénylő egyedül él és I. rokkantsági csoportba tartozó rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban, illetve rokkantsági járadékban részesül ⬜
+
+## bg) az ellátást igénylő egyedül él, munkaképességét 100%-ban elvesztette, illetve legalább 80%-os mértékű egészségkárosodást szenvedett és az ORSZI, illetve jogelődje szakértői bizottságának szakvéleménye, szakhatósági állásfoglalása az önkiszolgálási képességének hiányát állapította meg ⬜
 
 ## 2.5. rehabilitációs intézmény
 
@@ -186,6 +204,24 @@
 
 ## ha igen, annak oka:
 
+## 3.8. Megjegyzések
+
+## 3.8.1. Házi segítségnyújtás és idősek otthona igénybevételére irányuló kérelem esetén – ha az elhelyezést az általános szabályok szerint kérik – a gondozási szükséglet vizsgálata során be kell mutatni a gondozási szükséglet megítélését szolgáló, rendelkezésre álló leletek és szakvélemények másolatát.
+
+## 3.8.2. Amennyiben az idősotthoni ellátást a gondozási szükségletet megalapozó egyéb körülmények alapján kérik, a 2.4. pontban megjelölt körülmények igazolásához a gondozási szükséglet vizsgálata során az alábbi dokumentumokat kell bemutatni:
+
+## ba) alpont esetén: az ORSZI vagy a Pszichiátriai, illetve Neurológiai Szakkollégium által befogadott demencia centrum szakvéleménye,
+
+## bb) alpont esetén: személyazonosításra alkalmas igazolvány másolata és a települési önkormányzat jegyzőjének igazolása a házi segítségnyújtás hiányáról,
+
+## bc) alpont esetén: személyazonosításra alkalmas igazolvány másolata és a települési önkormányzat jegyzőjének igazolása a közművesítés hiányáról,
+
+## bd) alpont esetén: személyazonosításra alkalmas igazolvány másolata és az ellátást megállapító jogerős határozat vagy az ellátás folyósítását igazoló irat másolata,
+
+## be) és bg) alpont esetén: személyazonosításra alkalmas igazolvány másolata és az ORSZI, illetve jogelődje érvényes és hatályos szakvéleményének, szakhatósági állásfoglalásának másolata az önkiszolgálási képesség hiányáról,
+
+## bf) alpont esetén: személyazonosításra alkalmas igazolvány másolata és a nyugdíjat, járadékot megállapító jogerős határozat, vagy a kérelem benyújtását megelőző havi nyugdíj-folyósítási, járadékfolyósítási csekkszelvény vagy bankszámlakivonat másolata.
+
 ## Dátum:
 
 ## Az ellátást igénybe vevő (törvényes képviselő) aláírása:
@@ -276,7 +312,7 @@
 
 | 1.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó: |  |
 
-| 1.3. Alkalmi munkavégzésből származó: |  |
+| 1.3. Alkalmi munkavégzésből, egyszerűsített foglalkoztatásból származó: |  |
 
 | 1.4. Táppénz, gyermekgondozási támogatások: |  |
 
@@ -368,7 +404,7 @@
 
 ## (a családtagokat a 3. pontban megadott sorrendben kell feltüntetni)
 
-|  |  | Munkaviszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó | Alkalmi munkavégzésből származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és munkaügyi szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások | Egyéb jövedelem | Összes jövedelem |
+|  |  | Munkaviszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó | Alkalmi munkavégzésből , egyszerűsített foglalkoztatásból származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és munkaügyi szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások | Egyéb jövedelem | Összes jövedelem |
 
 | Az ellátást igénylő | kérelmező |  |  |  |  |  |  |  |  |
 
@@ -488,7 +524,7 @@
 
 ## Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás révén szerzett bevétel, ha havi ellenértéke a minimálbér 50%-át nem haladja meg.
+## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, illetve az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, ha havi ellenértéke a minimálbér 50%-át nem haladja meg.
 
 ## A családtagok jövedelmét külön-külön kell feltüntetni. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
@@ -506,7 +542,7 @@
 
 ## 2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-## 3. Alkalmi munkavégzésből származó jövedelem: alkalmi munkavállalói könyvvel történő foglalkoztatás révén szerzett bevétel. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás révén szerzett bevétel, ha havi mértéke a minimálbér 50%-át nem haladja meg.
+## 3.  Alkalmi munkavégzésből, illetve egyszerűsített foglalkoztatásból származó jövedelem: alkalmi munkavállalói könyvvel történő foglalkoztatás, illetve az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, illetve az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, ha havi mértéke a minimálbér 50%-át nem haladja meg.
 
 ## 4. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
