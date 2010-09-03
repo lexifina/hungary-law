@@ -1,9 +1,7 @@
 ## használható fel a szociális rászorultság igazolására.
 
-3. § (1) A gondozási szükséglet vizsgálatát a 2. számú melléklet szerint kell kezdeményezni.
+3. §[^2] (1) Az igénylőnek vagy törvényes képviselőjének a gondozási szükséglet vizsgálatához be kell mutatnia a gondozási szükséglet megítélését szolgáló, rendelkezésre álló leletek és szakvélemények másolatát vagy a 4. § szerinti igazolásokat.
 
-(2) A kérelemhez – a 4. § szerinti kivétellel – mellékelni kell az igénylő gondozási szükségletének megítélését szolgáló, rendelkezésre álló leletek és szakvélemények másolatát.
+(2) A gondozási szükséglet vizsgálata a 3. számú melléklet szerinti értékelő adatlapon történik. A vizsgálat eredményéről a 4. számú melléklet szerinti igazolást kell kiállítani. Az értékelő adatlap másolatát és az igazolás egy példányát a vizsgálat elvégzését követően át kell adni az igénylőnek és törvényes képviselőjének.
 
-(3) A gondozási szükséglet vizsgálata a 3. számú melléklet szerinti értékelő adatlapon történik. A vizsgálat eredményét a 4. számú melléklet szerinti szakvélemény igazolja.
-
-(4) A házi segítségnyújtásra kiállított szakvélemény, illetve másolata valamennyi további házi segítségnyújtást biztosító, az idősotthoni ellátásra kiállított szakvélemény, illetve másolata pedig valamennyi további idősotthoni ellátást vagy házi segítségnyújtást biztosító intézménynél, szolgáltatónál felhasználható a gondozási szükséglet újabb vizsgálata nélkül.
+[^2]: A 3. § a 8/2010. (IX. 3.) NEFMI rendelet 5. §-ával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-36-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-07 | 2007-36-20-1X.3 | 36/2007. (XII. 22.) SZMM rendelet |
+| 2010-09-03 | 2007-36-20-1X.4 | 8/2010. (IX. 3.) NEFMI rendelet |

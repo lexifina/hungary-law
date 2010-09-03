@@ -56,9 +56,11 @@
 
 ## Bentlakásos intézményben élők gondozási szükségletének – az egyes szociális tárgyú törvények módosításáról szóló 2007. évi CXXI. törvény 81. §-ának (6) bekezdése szerinti – vizsgálata során a 8. pont szerinti szempontok vizsgálatára irányadó szempontokat figyelmen kívül kell hagyni. Az irányadó gondozási szükséglet 35 pont felett 4 órát meghaladó.
 
-4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez
+4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^11]
 
-## Szakvélemény gondozási szükséglet vizsgálatáról
+Igazolás
+
+gondozási szükséglet vizsgálatáról
 
 1. Személyes adatok
 
@@ -66,66 +68,62 @@ A személyes gondoskodást igénylő neve (születési neve):
 
 Születési helye, ideje:
 
-TAJ-szám:
+Társadalombiztosítási Azonosító Jel: ◻◻◻ ◻◻◻ ◻◻◻
 
-Lakcíme vagy tartózkodási helye:
+Lakóhelye vagy tartózkodási helye:
 
 Törvényes képviselőjének neve, elérhetősége:
 
-2. Házi segítségnyújtás (a városi jegyző által a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokról szóló Korm. rendelet alapján működtetett szakértői bizottság tölti ki):
-
-A házi segítségnyújtást igénylő napi gondozási szükséglete :
-
-nincs ⬜ 1 óra ⬜ 2 óra ⬜ 3 óra ⬜ 4 óra vagy ezt meghaladó ⬜
-
-| ..................................... bizottsági tag | ..................................... bizottsági elnök | ..................................... bizottsági tag |
-
-A szakvélemény felülvizsgálatát az ORSZI ellátást igénylő lakóhelye, illetve tartózkodási helye szerint illetékes kirendeltségénél lehet kérni.
-
-3. Idősotthoni ellátás (az Országos Rehabilitációs és Szociális Szakértői Intézet elsőfokú szakértői bizottsága tölti ki):
-
-3.1. Az idősotthoni ellátást igénylő gondozási szükséglete a rendelet 4. § (1) bekezdésének ....... pontja/alpontja szerinti egyéb körülmények alapján áll fenn ⬜
-
-3.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete1:
-
-A napi 4 órát meghaladja ⬜
-
-A napi 4 órát nem haladja meg ⬜ A gondozási szükséglet órában kifejezett mértéke: napi ....... óra2
-
-| ................................................... | .................................................. |
-
-| bizottsági elnök | előadó szakértő |
-
-A szakvélemény felülvizsgálatát az ORSZI ellátást igénylő lakóhelye, illetve tartózkodási helye szerinti regionális igazgatóságánál lehet kérni.
-
-4. Felülvizsgálat
-
-4.1. Házi segítségnyújtás (az Országos Rehabilitációs és Szociális Szakértői Intézet elsőfokú szakértői bizottsága tölti ki):
+2. Házi segítségnyújtás (az intézmény/szolgáltató vezetője vagy a jegyző által felkért szakértő tölti ki):
 
 A házi segítségnyújtást igénylő napi gondozási szükséglete:
 
-nincs ⬜ 1 óra ⬜ 2 óra ⬜ 3 óra ⬜ 4 óra vagy ezt meghaladó ⬜
+nincs  ◻ 1 óra  ◻ 2 óra  ◻ 3 óra  ◻ 4 óra◻  4 órát meghaladó ◻
 
-| ................................................... | .................................................. |
+.....................................................................
 
-| bizottsági elnök | előadó szakértő |
+intézmény (szolgáltató) vezetője/
 
-4.2. Idősotthoni ellátás (az Országos Rehabilitációs és Szociális Szakértői Intézet másodfokú szakértői bizottsága tölti ki):
+jegyző által felkért szakértő
 
-4.2.1. Az idősotthoni ellátást igénylő gondozási szükséglete a rendelet 4. § (1) bekezdésének ....... pontja/alpontja szerinti egyéb körülmények alapján áll fenn
+A gondozási szükséglet felülvizsgálatát a szolgáltató, intézmény fenntartójánál, fenntartó hiányában a jegyzőnél lehet kérni.
 
-4.2.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete5:
+3. Idősotthoni ellátás (az intézményvezető tölti ki):
 
-A napi 4 órát meghaladja ⬜
+3.1. Az idősotthoni ellátást igénylő gondozási szükséglete a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló miniszteri rendelet 4. § (1) bekezdésének ............... pontja/alpontja szerinti egyéb körülmények alapján áll fenn ◻
 
-A napi 4 órát nem haladja meg ⬜ A gondozási szükséglet órában kifejezett mértéke: napi ....... óra2
+3.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete:
 
-| ................................................... | .................................................. |
+A napi 4 órát meghaladja ◻
 
-| bizottsági elnök | előadó szakértő |
+A napi 4 órát nem haladja meg  ◻      A gondozási szükséglet órában kifejezett mértéke: napi ..................... óra
 
-––––––––––––
+.....................................................................
 
-1 Akkor kell kitölteni, ha a gondozási szükséglet nem a 3.1. pont alapján, felülvizsgálat esetén a 4.2.1. pont alapján áll fenn.
+intézményvezető
 
-2 A szakvélemény a megjelölt óraszámban, 4 órát meghaladó szükséglet esetén 4 órában házi segítségnyújtás igényléséhez felhasználható.
+A gondozási szükséglet felülvizsgálatát az intézmény fenntartójától lehet kérni.
+
+4. Felülvizsgálat
+
+4.1. Házi segítségnyújtás (a szolgáltatás fenntartója, fenntartó hiányában a jegyző által kijelölt szakértő tölti ki):
+
+A házi segítségnyújtást igénylő napi gondozási szükséglete:
+
+nincs  ◻ 1 óra  ◻ 2 óra ◻ 3 óra  ◻ 4 óra  ◻ 4 órát meghaladó ◻
+
+4.2. Idősotthoni ellátás (az intézmény fenntartója tölti ki):
+
+4.2.1. Az idősotthoni ellátást igénylő gondozási szükséglete a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló miniszteri rendelet 4. § (1) bekezdésének ..... pontja/alpontja szerinti egyéb körülmények alapján áll fenn.
+
+4.2.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete:
+
+A napi 4 órát meghaladja ◻
+
+A napi 4 órát nem haladja meg ◻ A gondozási szükséglet órában kifejezett mértéke: napi .................... óra
+
+.....................................................................
+
+fenntartó képviselője
+
+[^11]: A 4. számú melléklet a 8/2010. (IX. 3.) NEFMI rendelet 7. §-ával megállapított szöveg.
