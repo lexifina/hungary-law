@@ -1,1 +1,0 @@
-## „(5) Házi segítségnyújtás esetében az egyszerűsített előgondozás a szolgáltatást igénylőnek a szolgáltatással kapcsolatos tájékoztatásából áll. Az egyszerűsített előgondozás során kell elvégezni a gondozási szükséglet vizsgálatát.”
