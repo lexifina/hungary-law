@@ -24,7 +24,7 @@ c) kertészeti termelőként
 
 ca) a támogatási kérelem benyújtását megelőző lezárt gazdasági évben – kertészeti tevékenységét a támogatási kérelem benyújtásának évében kezdő ügyfél esetében a kérelem benyújtás évében – a gazdaságának a kertészeti tevékenysége alapján számított mérete legalább 1 EUME vagy
 
-cb) a támogatási kérelem benyújtását megelőző lezárt gazdasági évben a gazdaságának a mérete kisebb mint 1 EUME, de hatályos támogatási határozattal rendelkezik az NVT vagy az ÚMVP valamely intézkedésének keretében, kivéve a szakképzési jogcímrendelet alapján készült támogatási határozatokat.
+cb)[^13] a támogatási kérelem benyújtását megelőző lezárt gazdasági évben a gazdaságának a mérete kisebb mint 1 EUME, de jogerős támogatási határozattal rendelkezik az NVT vagy az ÚMVP valamely intézkedésének keretében, kivéve a szakképzési jogcímrendelet alapján készült támogatási határozatokat.
 
 (3) Az ügyfél a támogatás igénybevételére akkor jogosult, ha
 
@@ -49,3 +49,4 @@ e) még nem vett igénybe e rendelet alapján támogatást, vagy e rendelet alap
 (6) Az (1) bekezdés a) és c) pontjában meghatározott ügyfelek kötelesek a gazdaságuk méretét igazoló – a Vhr. 1. számú melléklete szerinti – SFH kódot és annak mennyiségét a gazdaságuk egészére vonatkozóan közölni a támogatási kérelmükben.
 
 [^12]: Az 5. § a 168/2009. (XII. 15.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^13]: Az 5. § (2) bekezdés c) pont cb) alpontja a 14/2010. (IX. 3.) VM rendelet 4. § (1) bekezdése szerint módosított szöveg.

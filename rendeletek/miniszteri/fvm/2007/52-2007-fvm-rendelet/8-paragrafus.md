@@ -1,4 +1,4 @@
-## 7. §[^25] A támogatási kérelmeket a TSzK kvótájának figyelembevételével az MVH a Tv. 32. §-ának (1) bekezdés b) pontja szerint, a TSzK és az ügyfél között létrejött szolgáltatási szerződés hatálybalépésének dátuma szerinti sorrend alapján bírálja el azzal, hogy a támogatási kérelem benyújtását megelőző évben 15 000 eurónak megfelelő forint összegű vagy annál nagyobb összegű közvetlen kifizetés támogatásban részesülő ügyfelek a bírálat során elsőbbséget élveznek.
+## 7. §[^25] A támogatási kérelmeket a TSzK kvótájának figyelembevételével az MVH a Tv. 32. § (1) bekezdés b) pontja szerint, a TSzK és az ügyfél között létrejött szolgáltatási szerződés hatálybalépésének dátuma szerinti sorrend alapján bírálja el.
 
 ## Kifizetési kérelem
 
@@ -30,7 +30,7 @@ d) október 1–31.
 
 (9)[^34] A támogatási kérelemben szereplő szerződés teljesítési határideje és a szolgáltatás kódok a kifizetési kérelem benyújtásával együtt módosíthatók, amennyiben az ügyfél és a TSzK közös megegyezéssel írásban módosítja a szerződést is. A szolgáltatási kódok módosítása csak a 3. § (1) bekezdésében meghatározott célterületeken belül lehetséges, úgy, hogy a támogatási kérelemben szereplő célterületenkénti óraszám, illetve a támogatási határozattal egy célterületre jóváhagyott óraszám nem módosulhat. A módosítást igazoló szerződésmásolatot a kifizetési kérelemhez mellékelni kell. A támogatási kérelemben szereplő célterület, célterületenkénti óraszám, nettó rezsióradíj, a szerződés nettó és bruttó értéke a kérelem benyújtási időszakát követően nem módosítható.
 
-[^25]: A 7. § a 96/2008. (VII. 25.) FVM rendelet 5. §-ával megállapított szöveg.
+[^25]: A 7. § a 14/2010. (IX. 3.) VM rendelet 2. §-ával megállapított szöveg.
 [^26]: A 8. § (1) bekezdése a 168/2009. (XII. 15.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^27]: A 8. § (2) bekezdése a 17/2008. (II. 19.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokra is alkalmazni kell.
 [^28]: A 8. § (3) bekezdése a 96/2008. (VII. 25.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

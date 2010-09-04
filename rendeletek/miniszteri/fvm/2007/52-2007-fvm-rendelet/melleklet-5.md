@@ -502,7 +502,7 @@
 
 ## – az MgSzH erdészeti szakhatóságának bejelentett káresemény bekövetkezése esetén.
 
-5. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^43]
+5. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^45]
 
 | Növénytermesztési tevékenység (kertészeti tevékenység nélkül) | Állattenyésztési tevékenység | Kertészeti tevékenység | Vadgazdálkodási tevékenység |
 
@@ -588,4 +588,4 @@
 
 | I01 |
 
-[^43]: Az 5. számú mellékletet a 154/2008. (XI. 26.) FVM rendelet 5. §-a iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést csak a 2008. november 27. napját követően kötött szerződések tekintetében lehet alkalmazni.
+[^45]: Az 5. számú mellékletet a 154/2008. (XI. 26.) FVM rendelet 5. §-a iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést csak a 2008. november 27. napját követően kötött szerződések tekintetében lehet alkalmazni.
