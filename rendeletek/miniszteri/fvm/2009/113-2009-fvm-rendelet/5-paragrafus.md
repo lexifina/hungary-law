@@ -1,10 +1,10 @@
 ## A támogatási kérelem benyújtása
 
-5. § (1)[^8] A támogatási kérelmet évente szeptember 15. és október 31. között postai úton lehet benyújtani az MVH honlapján közzétett formanyomtatványon az MVH-hoz.
+5. § (1)[^9] A támogatási kérelmet 2011. szeptember 15. és október 31. között, ezt követően évente szeptember 15. és október 31. között lehet benyújtani az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon.
 
-(2)[^9] Az (1) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+(2)[^10] Az (1) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
-a) az ügyfél ügyfél-azonosítási adatok,
+a)[^11] ügyfél-azonosítási adatok,
 
 b) az ügyfél szakirányú végzettségének megnevezése és azonosító száma vagy felsőfokú végzettségének megnevezése,
 
@@ -22,5 +22,6 @@ b) az 5. számú mellékletben megadott értékelési szempontokkal kapcsolatos 
 
 (5) A (4) bekezdésben meghatározott dokumentum esetében lehetőség van hiánypótlásra, amennyiben a benyújtott dokumentumok nem megfelelőek, vagy a kérelem benyújtásakor az ügyfél a dokumentumokat nem nyújtotta be, de a benyújtás szándékát a kérelem benyújtásakor jelezte.
 
-[^8]: Az 5. § (1) bekezdése a 133/2009. (X. 14.) FVM rendelet 10. §-ával megállapított szöveg.
-[^9]: Az 5. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdése a 15/2010. (IX. 3.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (2) bekezdés a) pontja a 15/2010. (IX. 3.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.

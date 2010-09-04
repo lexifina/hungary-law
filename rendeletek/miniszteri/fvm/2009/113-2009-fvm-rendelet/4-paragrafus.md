@@ -38,13 +38,19 @@ g) ha az üzem mérete a támogatási kérelem benyújtásakor eléri a 4 EUME-t
 
 h) ha az üzem mérete a működtetési időszak 4. évének vége előtt eléri az üzleti tervben a 4. naptári év végére vállalt méretet, ettől az időponttól kezdődően a 4. naptári év végére vállalt értéket fenntartani a működtetési időszak végéig;
 
-i) a működtetési időszak alatt a 119/2007. (X. 18.) FVM rendelet alapján vezetett nyilvántartásban az állatállomány tartójaként szerepelni, valamint eleget tenni
+i)[^8] a működtetési időszak alatt a 119/2007. (X. 18.) FVM rendelet alapján vezetett nyilvántartásban az állatállomány tartójaként szerepelni, valamint eleget tenni
 
 ia) szarvasmarhafélékre vonatkozóan a szarvasmarha fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendeletben,
 
 ib) lófélékre vonatkozóan az egyes állatfajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 29/2000. (VI. 9.) FVM rendeletben,
 
-ic) juh-, kecskefajokra vonatkozóan a juh- és kecskefajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 47/2005. (V. 23.) FVM rendeletben előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
+ic) juh-, kecskefélékre vonatkozóan a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 182/2009. (XII. 30.) FVM rendeletben,
+
+id) sertésfélékre vonatkozóan a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendeletben,
+
+ie) baromfiakra vonatkozóan a Baromfi Információs Rendszer létrehozásáról és működtetésének rendjéről szóló 120/2007. (X. 18.) FVM rendeletben
+
+előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
 
 (5) A (4) bekezdés e) pontjában meghatározottak esetében a támogatásra jogosult ügyfél számára megengedett az üzleti tervben megnevezett termékek helyettesítése más ágazatok (állattenyésztés, kertészet, növénytermesztés) termékeivel is.
 
@@ -54,3 +60,4 @@ ic) juh-, kecskefajokra vonatkozóan a juh- és kecskefajok egyedeinek Egységes
 [^5]: A 4. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (3) bekezdésével megállapított szöveg.
 [^6]: A 4. § (3) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^7]: A 4. § (4) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^8]: A 4. § (4) bekezdés i) pontja a 15/2010. (IX. 3.) VM rendelet 1. §-ával megállapított szöveg.
