@@ -1,0 +1,1 @@
+## „a) ügyfél-azonosítási adatok,”

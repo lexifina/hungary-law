@@ -1,0 +1,1 @@
+## „a) a működtetési időszak 4. évének végére vállalt EUME érték megfelelő százalékát a határozat jogerőre emelkedését követő 3. naptári év végére teljesíti és az általa a 3. naptári év végére vállalt üzemmérettől 10%-ot meghaladóan marad el, akkor köteles a 10%-ot meghaladó elmaradáson túl százalékpontonként a kifizetett támogatási összeg 2%-át visszafizetni,”
