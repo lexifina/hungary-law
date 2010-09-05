@@ -1,0 +1,15 @@
+## IV. Fejezet
+
+## 16. Építés, szerelés, felújítás
+
+30. § (1) Az építés, szerelés, felújítás folyamatát és az egyes kivitelezési munkákat meg kell tervezni.
+
+(2) Az építési, szerelési, felújítási munkák műszaki átvétele során ellenőrizni kell
+
+a) a beépített anyagok és termékek (különösen a nyomástartó elemek és berendezések) megfelelőségét, minőségét és annak bizonylatolását,
+
+b) a hegesztések vizsgálatával, továbbá a szilárdsági és a tömörségi nyomáspróbák elvégzésével az összeépítés minőségét,
+
+c) az előírt mérésekkel a villamos berendezések megfelelőségét, és
+
+d) az üzemi próbákkal a rendszer megfelelő védelmét.
