@@ -24,7 +24,7 @@ f) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a k�
 
 g)
 
-h) a Műsorszolgáltatási Alap,
+h) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap,
 
 i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
 
