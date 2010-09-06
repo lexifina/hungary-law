@@ -1,17 +1,17 @@
-8. § (1) Az elnök a megbízatási ideje alatt nem lehet:
+8. § (1) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és az alábbiak szerint szabályozott módon ellenőrzést gyakorol a részvénytársaság felett a Közszolgálati Kódexben (a továbbiakban: Kódex) foglaltak végrehajtása vonatkozásában:
 
-a) országgyűlési képviselő,
+a) A részvénytársaság vezérigazgatója évente egyszer, a mindenkori naptári év végén beszámolót készít arról, hogy – saját értékelése szerint – az általa vezetett hírszolgáltató részvénytársaság eleget tett-e a Kódexben megfogalmazott elvárásoknak.
 
-b) párt tagja,
+b) A Közszolgálati Testület megvitatja a beszámolót, és annak elfogadásáról egyszerű többséggel dönt.
 
-c) az Országos Rádió és Televízió Testületnek (a továbbiakban: Testület) tagja, elnöke, a Testület Panaszbizottságának tagja, a TTT tagja,
+c) Ha a Közszolgálati Testület – a vezérigazgató személyes testületi meghallgatása után – nem fogadja el a beszámolót, akkor mérlegelheti a vezérigazgató munkaviszonyának megszüntetéséről szóló javaslat előterjesztését a Kuratóriumnak.
 
-d) műsorszolgáltatással, illetőleg lapkiadással, lapterjesztéssel, hírügynökségi tevékenységgel, reklámtevékenységgel, közvéleménykutatással foglalkozó gazdasági társaságban tulajdoni részesedéssel rendelkező tag,
+d) A Kuratórium köteles nyolc napon belül napirendjére tűzni és megvitatni a vezérigazgató munkaviszonyának megszüntetésére vonatkozó javaslatot. A Kuratórium ülésére meg kell hívni a vezérigazgatót és a Közszolgálati Testület elnökét.
 
-e) gazdasági társaság vezető testületének, illetve felügyelő bizottságának tagja, továbbá olyan gazdasági társaságban tulajdoni részesedéssel rendelkező tag, amely a részvénytársasággal üzleti kapcsolatban áll.
+e) A Kuratórium a munkaviszony megszüntetésére vonatkozó javaslatról a jelenlevő tagok egyszerű többségével határoz. A határozatot indokolni kell.
 
-(2) Az elnök a megbízatás ideje alatt tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb keresőfoglalkozást nem folytathat, a részvénytársaságtól e jogcímeken sem jogosult díjazásra.
+f) Ha a javaslat ellenére a Kuratórium nem szünteti meg a vezérigazgató munkaviszonyát, akkor ezt követően a vezérigazgató következő meghallgatását három hónap múlva köteles napirendjére tűzni a Közszolgálati Testület.
 
-(3) Az elnök pártpolitikai tevékenységet nem folytathat, pártpolitikai nyilatkozatot nem tehet.
+g) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálatiság érvényesülését – a Kódexben megfogalmazott elvárások teljesülését – nem biztosította, akkor 10 évig nem jelölhető újra közszolgálati részvénytársaság vezérigazgatói megbízatására.
 
-(4) Az elnök a kinevezésétől számított tíz napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, ennek megtörténtéig megbízatásából eredő jogkörét nem gyakorolhatja. Az elnök — a tevékenységének megkezdése előtt — írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenségi ok nem áll fenn.
+(2) A Kódexre és a Közszolgálati Testületre vonatkozó szabályokat az Rttv. tartalmazza.

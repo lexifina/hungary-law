@@ -1,5 +1,1 @@
-## A felügyelő bizottság
-
-12. § (1) A részvénytársaság ügyvezetését öttagú felügyelő bizottság ellenőrzi. Jogában áll az elnöktől, a részvénytársaság dolgozóitól jelentést vagy felvilágosítást kérni, a részvénytársaság könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a társaság költségére megvizsgáltatni.
-
-(2) A részvénytársaság belső ellenőrzési szervezete a felügyelő bizottság irányítása alá tartozik.
+12. § A vezérigazgató jogosult és köteles két vezérigazgató-helyettes kinevezésére és gyakorolja a részvénytársaság munkavállalói tekintetében a munkáltatói jogokat. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.

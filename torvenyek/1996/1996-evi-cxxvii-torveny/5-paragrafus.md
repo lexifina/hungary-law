@@ -1,3 +1,3 @@
-## A részvénytársaság elnöke
+## A részvénytársaság vezérigazgatója
 
-5. § A részvénytársaság ügyvezetését az elnök látja el. A részvénytársaságnál igazgatóság nem működik, az elnök gyakorolja mindazon hatásköröket, amelyeket a Gt. a részvénytársaság igazgatóságának hatáskörébe utal.
+5. § A részvénytársaság ügyvezetését a vezérigazgató látja el. A részvénytársaságnál igazgatóság nem működik, a vezérigazgató gyakorolja mindazon hatásköröket, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal.

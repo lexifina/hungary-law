@@ -1,1 +1,1 @@
-4. § A részvénytársaság vonatkozásában e törvény eltérő rendelkezése hiányában az Országgyűlés gyakorolja az alapítói, illetve részvényesi jogokat.
+4. § A részvénytársaság vonatkozásában e törvény eltérő rendelkezése hiányában a Közalapítvány gyakorolja az alapítói, illetve részvényesi jogokat.

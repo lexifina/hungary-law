@@ -1,1 +1,1 @@
-28. § A részvénytársaság közszolgálati feladatainak ellátása mellett, azok elősegítésére vállalkozhat. A részvénytársaság olyan vállalkozásban nem vehet részt, amelyben felelőssége meghaladja vagyoni hozzájárulásának mértékét.
+28. § A részvénytársaság gazdálkodását az Állami Számvevőszék ellenőrzi.

@@ -1,27 +1,19 @@
-7. § (1) Az elnök megbízatása megszűnik:
+7. § (1) A vezérigazgató feletti munkáltatói jogkört a Kuratórium gyakorolja.
 
-a) a megbízatási időtartam leteltével,
+(2) A vezérigazgató jelölése és kinevezése a következők szerint történik:
 
-b) lemondással,
+– a Nemzeti Média- és Hírközlési Hatóság Médiatanácsának (a továbbiakban: Médiatanács) elnöke 2 vezérigazgató jelöltre tesz javaslatot a Médiatanácsnak;
 
-c) felmentéssel,
+– a Médiatanács elfogadja a jelöltet és javasolja a Kuratóriumnak, hogy nevezzen ki egyet a jelöltek közül;
 
-d) az összeférhetetlenség kimondásával,
+– ha a Médiatanács nem fogadja el az elnök által javasolt valamelyik jelöltet, akkor az elnök új jelöltre tesz javaslatot. A Médiatanács csak akkor tehet javaslatot a Kuratóriumnak, ha mind a két jelöltet elfogadta.– az első szavazási körben a Kuratórium összes tagjának, ideértve az elnököt is, kétharmados többségével dönt a vezérigazgató kinevezéséről;
 
-e) az elnök halálával.
+– ha a két jelöltből a Kuratóriumnak történt jelöléstől számított 30 napon belül nem tud választani a Kuratórium, akkor új jelölési eljárást kell lefolytatni;
 
-(2) A lemondást írásban kell közölni a köztársasági elnökkel és a miniszterelnökkel.
+– az új jelölés során két új jelöltre kell javaslatot tenni;
 
-(3) Felmentéssel szüntethető meg a megbízatás, ha az elnök neki fel nem róható okból, több mint három hónapon át folyamatosan nem képes eleget tenni megbízatásából eredő feladatainak.
+– az új jelölést követő szavazás során a Kuratórium összes tagjának – ideértve az elnököt is – egyszerű többségével dönt a vezérigazgató kinevezéséről.
 
-(4) Felmentéssel szűnik meg a megbízatás,
+(3) A vezérigazgató munkaszerződésének feltételeire a Médiatanács tesz javaslatot, a Kuratórium a vezérigazgató kinevezésével együtt szavaz a munkaszerződésről is.
 
-a) ha az elnök neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, és így veszélyezteti az 1—2. §-ban foglalt követelmények megvalósítását,
-
-b) ha az elnök bűnösségét — szabadságvesztés kiszabásával — jogerős ítélet állapította meg.
-
-(5) A felmentésre a miniszterelnök a TTT kezdeményezése alapján tesz javaslatot.
-
-(6) Ha az elnökkel szemben megbízatásának gyakorlása során összeférhetetlenségi ok merül fel, köteles azt megszüntetni. Az összeférhetetlenségi ok fennállását a TTT határozatával állapítja meg. Ha az összeférhetetlenséget megállapító határozat meghozatalától számított tíz napon belül az összeférhetetlenségi okot az elnök nem szünteti meg, a TTT kezdeményezésére a miniszterelnök javaslatára a köztársasági elnök megállapítja, hogy az elnök megbízatása megszűnt. Az elnök az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkört nem gyakorolhatja.
-
-(7) Az elnökkel szemben indult büntetőeljárásról a nyomozó hatóság a TTT-t értesíti. A köztársasági elnök — a TTT kezdeményezése alapján — a miniszterelnök javaslatára az elnököt a tisztségéből eredő jogköre gyakorlása alól a bűncselekmény jogerős elbírálásáig felfüggesztheti.
+(4) A Médiatanácsra vonatkozó szabályokat az Rttv. tartalmazza.
