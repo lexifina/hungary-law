@@ -16,7 +16,7 @@ f) Magyar Mozgókép Közalapítvány,
 
 g)
 
-h) Országos Rádió és Televízió Testület,
+h) Nemzeti Média- és Hírközlési Hatóság Médiatanácsa,
 
 i) Nemzeti Kulturális Alap,
 
