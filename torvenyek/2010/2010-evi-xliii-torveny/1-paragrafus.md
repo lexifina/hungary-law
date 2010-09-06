@@ -28,7 +28,7 @@ h) a rendvédelmi szervek országos parancsnokságai.
 
 a) a Közbeszerzések Tanácsa,
 
-b) az Országos Rádió és Televízió Testület,
+b) a Nemzeti Média- és Hírközlési Hatóság,
 
 c) a Gazdasági Versenyhivatal,
 
@@ -38,7 +38,7 @@ d) a Pénzügyi Szervezetek Állami Felügyelete.
 
 a) a Központi Statisztikai Hivatal,
 
-b) a Nemzeti Hírközlési Hatóság,
+b)
 
 c) a Magyar Energia Hivatal,
 
