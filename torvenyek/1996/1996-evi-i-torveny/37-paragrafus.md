@@ -1,6 +1,6 @@
-37. § (1) A Testület tagjainak megbízatása megszűnik:
+37. § (1) A Médiatanács tagjainak megbízatása megszűnik:
 
-a) a Testület megbízatási idejének lejártával,
+a) a Médiatanács megbízatási idejének lejártával,
 
 b) lemondással,
 
@@ -10,30 +10,34 @@ d) felmentéssel,
 
 e) kizárással,
 
-f) a megbízatás elvesztésével,
+f) a tag halálával.
 
-g) a tag halálával,
+(2) Összeférhetetlenség miatt meg kell szüntetni a Médiatanács elnökének vagy tagjának megbízatását, ha az elnökkel vagy a taggal szemben a 35. § szerinti összeférhetetlenségi ok merül fel, illetve ha az elnök vagy a tag vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, továbbá, ha a 34/A. § (1) bekezdésében foglalt igazolási kötelezettségének önhibájából adódóan nem tesz eleget.
 
-h) a tagot jelölő képviselőcsoport megszűnésével,
+(3) Ha a Médiatanács elnökével vagy tagjával szemben összeférhetetlenségi ok merül fel és az ok keletkezésétől, illetve az összeférhetetlenséget megállapító ülés időpontjától számított 30 napon belül az összeférhetetlenségi ok megszüntetése nem történik meg, a Médiatanács teljes ülése határozatban megállapítja, hogy az elnök vagy a tag vagy testületi tagsága megszűnt. A Médiatanács elnöke, illetőleg tagja az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkörét nem gyakorolhatja.
 
-i) a Testület megbízatása megszűnésével [45. § (1) bekezdés c) pont].
+(4) A Médiatanács tagja megbízatásának megszűnését az (1) bekezdés b), valamint f) pontja esetében a Médiatanács elnöke, az (1) bekezdés c), d) és e) pontja esetében a Médiatanács teljes ülése állapítja meg és hirdeti ki. A Médiatanács elnöke megbízatásának megszűnését a Médiatanács teljes ülése állapítja meg és hirdeti ki.
 
-(2) A Testület tagja megbízatásának megszűnését az (1) bekezdés b), valamint f)—i) pontja esetében a Testület elnöke, az (1) bekezdés c), d) és e) pontja esetében a Testület teljes ülése állapítja meg és hirdeti ki. A Testület elnöke megbízatásának megszűnését — a (3) bekezdésben foglaltak kivételével — a köztársasági elnök és a miniszterelnök együttesen állapítja meg.
+(5) Felmentéssel szűnik meg a megbízatás, ha a Médiatanács elnökét vagy tagját cselekvőképességet kizáró gondnokság alá helyezték.
 
-(3) Ha a Testület tagjával vagy elnökével szemben összeférhetetlenségi ok merül fel és az ok keletkezésétől, illetve az összeférhetetlenséget megállapító ülés időpontjától számított tíz napon belül az összeférhetetlenségi ok megszüntetése nem történik meg, a Testület teljes ülése határozatban megállapítja, hogy a tag vagy az elnök testületi tagsága megszűnt. A Testület tagja, illetőleg elnöke az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkörét nem gyakorolhatja.
+(6) Kizárással szűnik meg a megbízatás,
 
-(4) Felmentéssel szűnik meg a megbízatás, ha a Testület tagja több mint három hónapon át folyamatosan, neki fel nem róható okból nem képes ellátni a megbízatásából eredő feladatait.
+a) ha a Médiatanács elnöke vagy tagja neki felróható okból több mint 6 hónapon át nem tesz eleget megbízatásából eredő feladatainak,
 
-(5) Kizárással szűnik meg a megbízatás, ha a Testület tagja
+b) ha a Médiatanács elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – szabadságvesztés vagy a Médiatanács elnöke vagy tagja tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
 
-a) neki felróható okból több mint három hónapon át nem tesz eleget megbízatásából eredő feladatainak,
+(7) Ha a Médiatanács ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Médiatanács elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról a jelenlévő képviselők kétharmadának szavazatával az Országgyűlés dönt.
 
-b) bűnösségét — szabadságvesztés kiszabásával — jogerős ítélet állapította meg.
+(8) A Médiatanács elnöke esetében a (3), (6) és (7) bekezdése szerinti eljárásokban az elnök jogkörében az ügyrend szerint meghatározott tag jár el.
 
-(6) A Testület tagjával vagy elnökével szemben indult büntetőeljárásról a nyomozó hatóság a Testületet értesíti. A Testület teljes ülése többségi szavazattal a Testület tagját, kétharmados szavazattal a Testület elnökét a tisztségéből eredő jogköre gyakorlása alól a bűncselekmény jogerős elbírálásáig felfüggesztheti.
+(9) A Médiatanács elnöke és tagja megbízatásának megszűnése után egy éven át
 
-(7) Ha valamelyik képviselőcsoportnak megszűnik a joga a két testületi tag jelölésére, a képviselőcsoport tizenöt napon belül nyilatkozhat, hogy az azonos időpontban megválasztott tagok közül melyik tag megbízatását tartja fenn. Ha a képviselőcsoport nem nyilatkozik, az azonos időpontban megválasztott tagok megbízatása egyszerre vész el és a képviselőcsoport újra élhet a jelölés jogával. Ha a két tag nem egyidőben került megválasztásra, a később megválasztott tag megbízatása vész el.
+a) nem létesíthet munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
 
-(8) Ha a Testület ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Testület elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról a jelenlévő képviselők kétharmadának szavazatával az Országgyűlés dönt.
+b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
 
-(9) A Testület elnöke esetében a (3), (6) és (8) bekezdése szerinti eljárásokban az elnök jogkörében az ügyrend szerint meghatározott tag jár el.
+c) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagjaként hozott döntése érintette.
+
+(10) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén a Médiatanács elnökét és tagját a megszűnéskori havi tiszteletdíja kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az elnök, illetve a tag 3 évnél rövidebb ideig töltötte be tisztségét, úgy a (9) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított 6 hónapig áll fenn, és ebben az esetben az elnököt, illetve a tagot 1 havi tiszteletdíja illeti meg végkielégítésként.

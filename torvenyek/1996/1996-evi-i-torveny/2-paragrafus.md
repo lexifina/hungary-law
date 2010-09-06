@@ -42,7 +42,7 @@ a) az állami vagy helyi, területi önkormányzati feladatot ellátó szervezet
 
 b) nem politikai cél előmozdítására közzétett olyan műsorszám, mely közérdekű cél támogatására szólít fel, ilyen eseményt vagy célt népszerűsít, továbbá az ilyen cél megvalósulását veszélyeztető körülményre hívja fel a figyelmet.
 
-17. Közműsorszolgáltató: olyan műsorszolgáltató, amely az Országos Rádió és Televízió Testület által elfogadott saját műsorszolgáltatási szabályzat alapján műsorában többségében közszolgálati műsorszámokat szolgáltat.
+17. Közműsorszolgáltató: olyan műsorszolgáltató, amely a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) által elfogadott saját műsorszolgáltatási szabályzat alapján műsorában többségében közszolgálati műsorszámokat szolgáltat.
 
 18. Közszolgálati műsor: az a műsor, melyben a közszolgálati műsorszámok meghatározó szerepet játszanak, és amely a műsorszolgáltató vételkörzetében élő hallgatókat, nézőket rendszeresen tájékoztatja közérdeklődésre számot tartó kérdésekről.
 

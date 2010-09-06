@@ -42,4 +42,4 @@ i) a műsorszolgáltató üzleti, pénzügyi tervét, illetve banki igazolást a
 
 (3) A pályázónak nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti kizáró ok, illetve arról, hogy más, folyamatban lévő pályázatának elfogadása esetén nem keletkezne ilyen kizáró ok.
 
-(4) A pályázatban szereplő adatokról a Testület a szerződés megkötéséig harmadik személynek nem adhat tájékoztatást. A szerződés megkötését követően az (1) bekezdés szerinti adatok — a d) pontban meghatározottak kivételével — nyilvánosak.
+(4) A pályázatban szereplő adatokról a Médiatanács a szerződés megkötéséig harmadik személynek nem adhat tájékoztatást. A szerződés megkötését követően az (1) bekezdés szerinti adatok — a d) pontban meghatározottak kivételével — nyilvánosak.

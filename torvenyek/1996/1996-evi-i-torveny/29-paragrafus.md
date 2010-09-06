@@ -30,4 +30,4 @@ m) a külföldre irányuló, valamint a 134. § (3) bekezdésében említett mű
 
 (3) A közszolgálati műsorszolgáltatási szabályzatnak, illetve a műsorszolgáltatási szabályzatnak rendelkeznie kell arról, hogy a közszolgálati műsorszolgáltató és a közműsorszolgáltató megrendelései, valamint a külső munkatársak megbízásai ne teremtsenek lehetőséget jogosulatlan előnyszerzésre a közszolgálati műsorszolgáltató, illetve a közműsorszolgáltató alkalmazottai számára.
 
-(4) A közszolgálati műsorszolgáltatási szabályzat tervezetét a törvény hatálybalépésétől számított kilenc hónapon belül jóváhagyásra meg kell küldeni a közalapítvány kuratóriumának. A kuratórium a szabályzatot a Testület egyetértésével hagyhatja jóvá.
+(4) A közszolgálati műsorszolgáltatási szabályzat tervezetét a törvény hatálybalépésétől számított kilenc hónapon belül jóváhagyásra meg kell küldeni a közalapítvány kuratóriumának. A kuratórium a szabályzatot a Médiatanács egyetértésével hagyhatja jóvá.

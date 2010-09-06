@@ -1,13 +1,15 @@
-65. § A közalapítványok gyakorolják a részvénytársaságok vonatkozásában a Gt. 288—300. §-ában meghatározott alapítói, illetve részvényesi jogokat. Nem jogosultak azonban:
+65. § A Közalapítvány gyakorolja a közszolgálati részvénytársaságok vonatkozásában a gazdasági társaságokról szóló törvényben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
 
-a) megváltoztatni a részvénytársaságok alapvető tevékenységi körét,
+a) megváltoztatni a közszolgálati részvénytársaságok alapvető tevékenységi körét,
 
-b) a részvénytársaságokat megszüntetni, egyesíteni, szétválasztani vagy más szervezeti formába átalakítani,
+b) a közszolgálati részvénytársaságokat megszüntetni, egyesíteni, szétválasztani vagy más szervezeti formába átalakítani,
 
-c) a részvénytársaságoktól vagyont vagy nyereséget (osztalékot) elvonni,
+c) a közszolgálati részvénytársaságoktól vagyont elvonni, nem értve ide a Közalapítvány és a közszolgálati részvénytársaságok vagyonának – országgyűlési határozatban meghatározott – azon részét, amelyet a Műsorszolgáltatás Támogató és Vagyonkezelő Alap részére ad át,
 
-d) a részvénytársaságok műsorszerkezetét, továbbá műsorainak, illetve műsorszámainak tartalmát meghatározni,
+d) a közszolgálati részvénytársaságok műsorszerkezetét, továbbá műsorainak, illetve műsorszámainak tartalmát meghatározni,
 
-e) a részvénytársaság elnökének az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
+e) a közszolgálati részvénytársaság vezérigazgatójának az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
 
-f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy a részvénytársaság elnökének hatáskörébe tartozik.
+f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy a közszolgálati részvénytársaság vezérigazgatójának hatáskörébe tartozik,
+
+g) a Közalapítvány Kuratóriuma nem bővítheti a 66. §-ban foglalt hatásköreit, még a gazdasági társaságokról szóló törvényben meghatározott – de a 66. §-ban nem szereplő – alapítói jogkörökkel sem.

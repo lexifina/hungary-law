@@ -2,4 +2,4 @@
 
 (2) Az MTV2 utáni díj hetven százaléka a Magyar Televízió Közalapítványt, harminc százaléka a Hungária Televízió Közalapítványt illeti meg. A Danubius néven jelölt jogosultság műsorszolgáltatási díját a Magyar Rádió Közalapítvány kapja.
 
-(3) A harmadik földi terjesztésű országos televíziós műsorszolgáltatási jogosultságért fizetendő díj a Műsorszolgáltatási Alapot illeti meg úgy, hogy az ebből származó bevételt a digitális műsorterjesztés fejlesztésére és a digitális átállás költségeire kell fordítani. Ez az összeg más célra nem használható fel.
+(3) A harmadik földi terjesztésű országos televíziós műsorszolgáltatási jogosultságért fizetendő díj az Alapot illeti meg úgy, hogy az ebből származó bevételt a digitális műsorterjesztés fejlesztésére és a digitális átállás költségeire kell fordítani. Ez az összeg más célra nem használható fel.

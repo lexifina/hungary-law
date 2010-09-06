@@ -1,19 +1,25 @@
-33. § (1) A Testületet az Országgyűlés — a képviselők több mint felének szavazatával — négy évre választja. A Testület elnöke és tagjai (a továbbiakban együtt: a Testület tagjai) nem hívhatók vissza.
+33. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – 9 évre választja egyidejű, listás szavazással.
 
-(2) A Testület létszáma legkevesebb öt fő.
+(2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorterjesztéssel, vagy a médiaszolgáltatással, vagy a média hatósági felügyeletével, vagy az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
 
-(3) A Testület elnökét a köztársasági elnök és a miniszterelnök együttesen jelöli.
+(3) A Médiatanács tagjaira
 
-(4) A Testület többi tagját az országgyűlési képviselőcsoportok jelölik. Minden képviselőcsoport egy-egy tagot jelölhet. Ha a kormánypárti vagy ellenzéki oldalon csak egy képviselőcsoport van, az a képviselőcsoport két tagot jelölhet.
+a) legfeljebb 60 nappal, de legkésőbb 30 nappal a 33. § (1) bekezdése szerinti megbízatási időtartam letelte előtt,
 
-(5) A jelöltekre a javaslatot a Testület megválasztására irányuló eljárás megkezdését követő nyolc napon belül kell megtenni. A jelölteket az Országgyűlés kulturális és sajtó ügyekben hatáskörrel rendelkező bizottsága — szavazás nélkül — meghallgatja. Azt a jelöltet, akit sikertelen választás után a képviselőcsoport újra jelölt, nem kell ismét meghallgatni.
+b) az a) ponton kívüli esetekben a megbízatás megszűnéséről való tudomásszerzéstől számított 30 napon belül,
 
-(6) A választást a jelöltállítástól számított tizenöt napon belül meg kell tartani. A meg nem választott jelölt helyére új jelöltet kell állítani tizennégy napon belül. Nem jelölhető újra az a személy, aki az előző választás során nem kapta meg az összes képviselő szavazatainak legalább tíz százalékát.
+c) a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépését követő első alkalommal történő választást megelőző jelölés során a jelölőbizottság tagjainak megválasztását követő 5 napon belül
 
-(7) A Testület akkor alakul meg, ha valamennyi tagját megválasztják. Nem akadálya a Testület megalakulásának, ha valamelyik képviselőcsoport az (5) bekezdésben írt határidőn belül nem állít jelöltet; ha a képviselőcsoport a jelölés jogát a Testület megalakulása után gyakorolja, ennek alapján — a Testület megbízatásának hátralévő idejére — az Országgyűlés új tagot választ a Testületbe.
+az országgyűlési képviselőcsoportok egy-egy tagjából álló mandátumarányos eseti jelölőbizottság (a továbbiakban: jelölőbizottság) egyhangú szavazással tesz javaslatot.
 
-(8) Ha a Testület megválasztását követően új képviselőcsoport alakul, e képviselőcsoport jelölése alapján — a Testület megbízatásának hátralévő idejére — az Országgyűlés új tagot választ a Testületbe.
+(4) A jelölőbizottság tagjai minden szavazás során az őket jelölő országgyűlési képviselőcsoport létszámának megfelelő mértékű szavazattal rendelkeznek.
 
-3. CÍM
+(5) A jelölőbizottság felállításáról szóló országgyűlési határozat rendelkezik arról, hogy mennyi idő áll az országgyűlési frakciók rendelkezésére a jelölőbizottsági tagok jelölésére. A jelölési folyamat megkezdhető abban az esetben is, ha egy vagy több képviselőcsoport nem jelöl tagot a jelölőbizottságba az országgyűlési határozatban meghatározott határidőn belül.
 
-Összeférhetetlenség
+(6) Ha a jelölőbizottság a (3) bekezdés a), illetve c) pontja szerinti esetben az a), illetve c) pontban meghatározott határidőn belül nem tud négy tagjelöltet javasolni, a jelölőbizottság a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+
+(7) Ha a jelölőbizottság a (3) bekezdés a), illetve c) pontja szerinti esetekben a második jelölési körben sem tud 5 napon belül négy jelöltet állítani, akkor megszűnik a mandátuma, és új jelölőbizottságot kell felállítani.
+
+(8) Ha a jelölőbizottság a (3) bekezdés b) pontja szerinti esetben a b) pontban meghatározott határidőn belül nem tud tagjelöltet javasolni, a jelölőbizottság a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+
+(9) Ha a jelölőbizottság a (3) bekezdés b) pontja szerinti esetben a második jelölési körben sem tud 15 napon belül jelöltet állítani, akkor megszűnik a mandátuma, és új jelölőbizottságot kell felállítani.

@@ -1,1 +1,1 @@
-68. § A részvénytársaság elnöke beszámol a kuratóriumnak (elnökségnek) az általa irányított részvénytársaság tevékenységéről.
+68. § A közszolgálati részvénytársaság vezérigazgatója beszámol a Kuratóriumnak az általa irányított részvénytársaság tevékenységéről.

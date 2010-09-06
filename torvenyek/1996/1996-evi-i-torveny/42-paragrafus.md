@@ -2,4 +2,4 @@
 
 9. CÍM
 
-A Testület beszámolója
+A Médiatanács beszámolója

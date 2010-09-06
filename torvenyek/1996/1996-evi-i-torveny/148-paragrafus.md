@@ -8,4 +8,4 @@ b)
 
 (3) Felhatalmazást kap a Kormány a hálózatba kapcsolódás műszaki feltételeiről szóló jogszabály vagy szabvány kiadására.
 
-(4) Felhatalmazást kap a Testület a magyarországi gyártású műsorszám fogalmának meghatározására. Az erről szóló állásfoglalását a Testület az országos műsorszolgáltatási jogosultságok pályázatainak meghirdetése előtt a Magyar Közlönyben teszi közzé és a közzétételt követően annak tartalmát nem változtathatja meg.
+(4) Felhatalmazást kap a Médiatanács a magyarországi gyártású műsorszám fogalmának meghatározására. Az erről szóló állásfoglalását a Médiatanács az országos műsorszolgáltatási jogosultságok pályázatainak meghirdetése előtt a Magyar Közlönyben teszi közzé és a közzétételt követően annak tartalmát nem változtathatja meg.

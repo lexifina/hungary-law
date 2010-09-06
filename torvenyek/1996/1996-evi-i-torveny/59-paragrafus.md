@@ -1,15 +1,23 @@
-## A kuratórium és az elnökség feladat- és jogköre
+59. § (1) A Közalapítvány bevételeit képezik:
 
-59. § (1) A kuratórium jogköre:
+a) az üzemben tartási díjbevételnek e törvényben megállapított hányada,
 
-a) a közszolgálati műsorszolgáltató részvénytársaság vonatkozásában a gazdasági társaságokról szóló 1988. évi VI. törvény (a továbbiakban: Gt.) alapján — az e törvényben foglalt eltérésekkel — a közgyűlés jogainak gyakorlása,
+b) a műsorszolgáltatási díjbevételnek e törvényben megállapított hányada,
 
-b) a közalapítvány éves gazdálkodási tervének elfogadása és mérlegének megállapítása,
+c) a közalapítvány vagyonának hozadéka,
 
-c) javaslattétel a Testületnek az üzemben tartási díjbevétel növelése érdekében,
+d) a Közalapítvány által kezelt vagyon hasznosításából származó bevétel,
 
-d)
+e) az egyéb alapítványi célú bevételek (állami költségvetési támogatás, céltámogatás, alapítványi befizetések).
 
-e) amit a közalapítvány alapító okirata — e törvény keretei között — a hatáskörébe utal.
+(2) A Közalapítvány kiadásait képezik:
 
-(2) Az elnökség a közalapítvány kezelőjének jogkörében gazdálkodik a közalapítvány vagyonával.
+a) a közszolgálati műsorszolgáltatók és az MTI Zrt. működési és fejlesztési költségeihez hozzájárulás,
+
+b) a Közalapítvány saját költségei (kiadásai).
+
+(3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot, közhasznú társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
+
+(4) A Közalapítvány a működési költségeit az üzemben tartási díjnak e törvényben szabályozott mértékű részéből fedezi.
+
+(5) A Közalapítvány gazdálkodását az Állami Számvevőszék ellenőrzi.

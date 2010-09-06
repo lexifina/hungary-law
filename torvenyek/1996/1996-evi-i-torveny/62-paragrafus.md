@@ -1,9 +1,11 @@
-## A közalapítvány ellenőrző szerve
+## Közszolgálati Kódex, Közszolgálati Testület, Jelölő Szervezetek
 
-62. § (1) A közalapítvány kuratóriumának tevékenységét ellenőrző testület ellenőrzi.
+62. § (1) A Közszolgálati Kódex (a továbbiakban: Kódex) tartalmazza a közszolgálati média és a nemzeti hírügynökség számára előírt pontos feladatokat.
 
-(2) Az ellenőrző testület elnökből és két tagból áll.
+(2) Az első Kódexet a Médiatanács fogadja el a Közszolgálati Testület első alkalommal történő felállítását követő 6 hónapon belül.
 
-(3) Az ellenőrző testület elnökét és egy tagját az Országgyűlés ellenzéki képviselőcsoportjai, egy tagját a kormánypártok képviselőcsoportjai jelölik a kuratóriumi elnökségre irányadó szabályok szerint azzal, hogy országgyűlési képviselő is jelölhető. Megválasztásukra a kuratórium elnöksége tagjaira irányadó szabályokat kell alkalmazni.
+(3) A Közszolgálati Testület évente módosíthatja a Kódexet. A Kódex Közszolgálati Testület általi módosítása a Kuratórium jóváhagyásával válik hatályossá.
 
-(4) Az ellenőrző testület a kuratóriumtól tájékoztatást kérhet és az iratokba betekinthet. A kuratóriumra kötelező döntést nem hozhat. A kuratórium jogellenes döntései, illetve a közalapítvány gazdálkodásával kapcsolatos hiányosságok és az alapítványi célok megvalósítását sértő vagy veszélyeztető döntések esetében értesíti az Országgyűlés elnökét, illetve az Állami Számvevőszéket. A kuratórium éves beszámolóját az ellenőrző testület véleményével kell az Országgyűlés elé terjeszteni.
+(4) A Kódex szabályainak megtartását a Közszolgálati Testület ellenőrzi.
+
+(5) A Kódexben rögzített szabályok kiegészítik, pontosítják a törvény tartalomszabályozásra vonatkozó rendelkezéseit. A Kódexben szerepelnek az egyes közszolgálati műsorszolgáltatók részletesen meghatározott közszolgálati kötelezettségei.

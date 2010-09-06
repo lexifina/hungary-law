@@ -1,1 +1,1 @@
-72. § A részvénytársaság elnöke a részvénytársaság tulajdonosától semmilyen jogcímen nem kaphat díjazást.
+72. § A közszolgálati részvénytársaság vezérigazgatója a közszolgálati részvénytársaság tulajdonosától semmilyen jogcímen nem kaphat díjazást.

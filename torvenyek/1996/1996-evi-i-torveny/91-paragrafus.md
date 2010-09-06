@@ -1,4 +1,4 @@
-91. § (1) A Testület legalább két országos napilapban nyilvánosságra hozza a műsorszolgáltatási szerződések tartalmára és azok elbírálására vonatkozó általános pályázati feltételeket. Az általános pályázati feltételeket úgy kell meghatározni, hogy érvényesüljön a tájékoztatás és kultúra szabadsága, sokszínűsége, az egyetemes és a nemzeti kultúra megőrzése és gazdagítása.
+91. § (1) A Médiatanács legalább két országos napilapban nyilvánosságra hozza a műsorszolgáltatási szerződések tartalmára és azok elbírálására vonatkozó általános pályázati feltételeket. Az általános pályázati feltételeket úgy kell meghatározni, hogy érvényesüljön a tájékoztatás és kultúra szabadsága, sokszínűsége, az egyetemes és a nemzeti kultúra megőrzése és gazdagítása.
 
 (2) Az általános pályázati feltételekben kell meghatározni különösen
 

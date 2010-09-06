@@ -2,4 +2,4 @@
 
 6. CÍM
 
-A Testület tagjainak díjazása
+A Médiatanács tagjainak díjazása

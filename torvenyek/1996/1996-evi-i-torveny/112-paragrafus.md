@@ -1,4 +1,4 @@
-112. § (1) Ha a műsorszolgáltató az e törvényben, illetve a szerzői jogról szóló törvényben, valamint a műsorszolgáltatási szerződésben és a rádióengedélyben előírt feltételeket és előírásokat nem teljesíti, vagy megsérti, illetőleg ha műsorszolgáltatóval a cselekmény elkövetésekor munkaviszonyban vagy munkavégzésre irányuló más jogviszonyban lévő személy bűnösségét a Btk. 329. §-ában meghatározott bűncselekmény miatt jogerős ítélet állapította meg, a Testület
+112. § (1) Ha a műsorszolgáltató az e törvényben, illetve a szerzői jogról szóló törvényben, valamint a műsorszolgáltatási szerződésben és a rádióengedélyben előírt feltételeket és előírásokat nem teljesíti, vagy megsérti, illetőleg ha műsorszolgáltatóval a cselekmény elkövetésekor munkaviszonyban vagy munkavégzésre irányuló más jogviszonyban lévő személy bűnösségét a Btk. 329. §-ában meghatározott bűncselekmény miatt jogerős ítélet állapította meg, a Médiatanács
 
 a) felhívja a műsorszolgáltatót a sérelmezett magatartás megszüntetésére,
 
@@ -18,9 +18,9 @@ f) azonnali hatállyal felmondja a szerződést.
 
 (4) Azonnali hatállyal kell felmondani a szerződést, ha
 
-a) a szerződést nem lehetett volna megkötni, és a jogsértő állapot még fennáll,
+a) a szerződést nem lehetett volna megkötni, és a – kizárólag a műsorszolgáltató által előidézett – jogsértő állapot még fennáll,
 
-b) a szerződés a törvény VIII. fejezetében foglaltakat sérti, és a jogosult a jogsérelmet a Gazdasági Versenyhivatal, illetve a Testület határozatában foglaltak szerint száznyolcvan napon belül nem orvosolta,
+b) a szerződés a törvény VIII. fejezetében foglaltakat sérti, és a jogosult a jogsérelmet a Gazdasági Versenyhivatal, illetve a Médiatanács határozatában foglaltak szerint száznyolcvan napon belül nem orvosolta,
 
 c) a szerződés megkötése óta másodszor kellene az (1) bekezdés b) pontja szerinti írásbeli figyelmeztetést alkalmazni.
 

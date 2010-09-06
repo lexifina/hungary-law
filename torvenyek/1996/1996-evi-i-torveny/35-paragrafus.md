@@ -1,15 +1,15 @@
-35. § (1) A Testület tagja
+35. § (1) A Médiatanács elnöke és tagja nem lehet
 
-a) műsorszolgáltatóval, műsorterjesztővel, hetilap vagy napilap kiadójával, lapterjesztővel nem állhat munkavégzésre irányuló jogviszonyban,
+a) a köztársasági elnök, a miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, a Hatóság Hivatalának főigazgatója, főigazgató-helyettese, illetve munkavállalója, a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő vagy fizetett alkalmazottja, az Európai Parlament tagja, köztisztviselő, helyi önkormányzati képviselő, párt országos vagy területi szervezetének tisztségviselője, költségvetési szervvel vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 
-b) nem lehet az a) pontban felsorolt szervezet tulajdonosa (tagja, részvényese, igazgatósági vagy felügyelő bizottsági tagja, ügyvezetője, továbbá könyvvizsgálója), ideértve az alapítvány kezelő szervezetének tagját.
+b) műsorszolgáltató, műsorforgalmazó, műsorterjesztő, internetes tartalomszolgáltató, reklámügynökség, lapkiadó, lapterjesztő vállalkozás vezetője, vezető testületének tagja, ügyvezetője, felügyelő bizottsági tagja, illetőleg, aki műsorszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, internetes tartalomszolgáltatóval, reklámügynökséggel, lapkiadóval vagy lapterjesztővel munkavégzésre irányuló jogviszonyban áll, illetőleg, aki ilyen gazdasági társaságban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
 
-(2) A Testület tagjának a Ptk. 685. § b) pontja szerinti közeli hozzátartozója nem lehet az (1) bekezdés a) pontjában felsorolt szervezet tulajdonosa (tagja, részvényese), kuratóriumi, igazgatósági vagy felügyelő bizottsági tagja, ügyvezetője, továbbá könyvvizsgálója.
+c) olyan gazdasági társaság közvetlen vagy közvetett – nyilvánosan működő részvénytársaság esetében 5%-ot meghaladó mértékű – tulajdonosa, illetve ezekkel foglalkoztatásra irányuló jogviszonyban álló személy, amely társaság a b) pontban meghatározott szervezetekkel megbízási vagy vállalkozási jogviszonyban áll,
 
-(3) Az (1) és (2) bekezdés szerinti összeférhetetlenségi előírásokat, a testületi tagsági megbízatás megszűnését követő hat hónapban is alkalmazni kell.
+d) az a)–c) pontok alá eső személynek a polgári jogi jogszabályok szerinti közeli hozzátartozója.
 
-(4) A Testület tagja a műsorszolgáltatási jogosultság időtartama alatt, a Testület tagjának a Ptk. 685. § b) pontja szerinti közeli hozzátartozója pedig a jogosultság időtartamának első fele alatt nem létesíthet munkavégzésre irányuló jogviszonyt olyan műsorszolgáltatóval, amely az ő megbízatási ideje alatt kapott műsorszolgáltatási jogosultságot. A műsorelosztóként történt nyilvántartásba vétel tekintetében ezek a határidők a Testület tagja esetén négy év, a közeli hozzátartozó esetén két év, a testületi tagsági megbízatás megszűnésétől számítva.
+(2) A Médiatanács elnöke és tagja pártpolitikai tevékenységet nem folytathat, párt nevében nyilatkozatot nem tehet.
 
-(5) A Testület tagja pártpolitikai tevékenységet nem folytathat, pártpolitikai nyilatkozatot nem tehet.
+4. CÍM
 
-(6)
+A Médiatanács tagjainak kötelezettségei

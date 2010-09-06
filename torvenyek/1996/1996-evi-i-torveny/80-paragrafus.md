@@ -8,7 +8,7 @@ c) a bérelt,
 
 d) a legfeljebb tizenöt napra próbára átvett,
 
-e) a műsorszolgáltató, a műsorelosztó, a műsorszétosztó, a műsorszóró rendszer üzemeltetője, illetőleg a Testület vagy a Hatóság által üzemi, vétel-megfigyelési és ellenőrzési célból telephelyen, illetve vétel-megfigyelési helyen és gépkocsiban üzemben tartott,
+e) a műsorszolgáltató, a műsorelosztó, a műsorszétosztó, a műsorszóró rendszer üzemeltetője, illetőleg a Médiatanács vagy a Hatóság által üzemi, vétel-megfigyelési és ellenőrzési célból telephelyen, illetve vétel-megfigyelési helyen és gépkocsiban üzemben tartott,
 
 f) az ország területén legfeljebb harminc napig tartózkodó külföldi állampolgár által üzemben tartott,
 

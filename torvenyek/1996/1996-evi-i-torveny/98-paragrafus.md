@@ -1,6 +1,6 @@
 ## A pályázat elbírálása
 
-98. § A Testület országos műsorszolgáltató esetében a pályázati határidő lejártától számított kilencven, más esetben hatvan napon belül megvizsgálja, hogy
+98. § A Médiatanács országos műsorszolgáltató esetében a pályázati határidő lejártától számított kilencven, más esetben hatvan napon belül megvizsgálja, hogy
 
 a) a pályázó nem esik-e a 85—88. §-okban vagy a VIII. fejezetben foglalt korlátozó rendelkezések hatálya alá,
 

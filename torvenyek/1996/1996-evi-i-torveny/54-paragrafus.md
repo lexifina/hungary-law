@@ -1,11 +1,9 @@
-54. § (1) A közalapítvány induló vagyonát az Országgyűlés az alapító okiratban állapítja meg.
+54. § (1) A Közalapítvány induló vagyonát az Országgyűlés az e törvény 149/B. §-ában szabályozott országgyűlési határozatban állapítja meg.
 
-(2) Az alapító pótlólagos vagyonrendeléssel, célra rendelt vagyonként
+(2) E törvény 149/C. §-ában szabályozott országgyűlési határozatban kell meghatározni a Közalapítvány, a Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt. és a Magyar Távirati Iroda Zrt. vagyonának azt a részét, amely térítésmentesen állami tulajdonba kerül, melynek vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja. A Műsorszolgáltatás Támogató és Vagyonkezelő Alap a Műsorszolgáltatási Alap átalakulásával jön létre e törvény rendelkezéseinek megfelelően.
 
-a) a Magyar Rádió költségvetési szerv állami tulajdonban lévő ingó és ingatlan vagyonát, valamint vagyoni értékű jogait a Magyar Rádió Közalapítvány,
+(3) A Műsorszolgáltatás Támogató és Vagyonkezelő Alapnak átadott, illetve a Műsorszolgáltatás Támogató és Vagyonkezelő Alap által egyéb jogcímen szerzett vagyon tulajdonosi jogainak és kötelezettségeinek a – Műsorszolgáltatás Támogató és Vagyonkezelő Alap által történő – gyakorlása, az átadott, illetve az egyéb jogcímen szerzett vagyon hasznosítása, a vagyonnal történő gazdálkodás nem tartozik az állami vagyonról szóló 2007. évi CVI. törvény hatálya alá.
 
-b) a Magyar Televízió költségvetési szerv állami tulajdonban lévő ingó és ingatlan vagyonát, valamint vagyoni értékű jogait a Magyar Televízió Közalapítvány,
+(4) A (2) bekezdés szerinti országgyűlési határozatban kell rendelkezni az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak a Médiatanács részére előírt szabályozási irányelveiről. Az irányelvek alapján a Médiatanács határozza meg az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak a részletes szabályait, ideértve, hogy az egyes vagyonelemeket, vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel veheti igénybe a Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt. és a Magyar Távirati Iroda Zrt.
 
-c) a Magyar Rádió és a Magyar Televízió költségvetési szervek állami tulajdonban lévő közös használatú ingó és ingatlan vagyonát a tulajdonjogi megosztást követően vagy a részvénytársaságok alapító okirataiban meghatározottak szerint a Magyar Rádió Közalapítvány, illetve a Magyar Televízió Közalapítvány
-
-tulajdonába adja.
+(5) A Műsorszolgáltatás Támogató és Vagyonkezelő Alap, a Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt. és a Magyar Távirati Iroda Zrt. egymás közötti jogviszonyaiban történő beszerzések nem tartoznak a közbeszerzésekről szóló 2003. évi CXXIX. számú törvény hatálya alá.

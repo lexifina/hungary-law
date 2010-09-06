@@ -1,4 +1,4 @@
-86. § (1) Műsorszolgáltatóként, illetve hálózatos műsorszolgáltatóként a Testület által a törvény szerinti eljárásban feljogosított vállalkozás, valamint a közszolgálati műsorszolgáltató működhet.
+86. § (1) Műsorszolgáltatóként, illetve hálózatos műsorszolgáltatóként a Médiatanács által a törvény szerinti eljárásban feljogosított vállalkozás, valamint a közszolgálati műsorszolgáltató működhet.
 
 (2) Nem lehet műsorszolgáltatásra jogosult személy:
 
@@ -14,7 +14,7 @@ e) a közszolgálati műsorszolgáltató felügyelő bizottságának, kuratóriu
 
 f) a közszolgálati műsorszolgáltató elnöke, alelnöke, illetve az, aki közszolgálati műsorszolgáltatóval munkavégzésre irányuló jogviszonyban áll,
 
-g) a Testület tagja, valamint az, aki a Testülettel munkavégzésre irányuló jogviszonyban áll,
+g) a Médiatanács tagja, valamint az, aki a Médiatanáccsal munkavégzésre irányuló jogviszonyban áll,
 
 h) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. és az Állami Számvevőszék vezető beosztású tisztségviselője, a számvevő, a Gazdasági Versenytanács tagja,
 

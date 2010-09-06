@@ -4,10 +4,8 @@
 
 ## III. Fejezet
 
-## ORSZÁGOS RÁDIÓ ÉS TELEVÍZIÓ TESTÜLET
+## A MÉDIATANÁCS
 
 1. CÍM
 
-Az Országos Rádió és Televízió Testület
-
-jogállása és szervezete
+A Nemzeti Média- és Hírközlési Hatóság Médiatanácsa jogállása és szervezete

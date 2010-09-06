@@ -1,6 +1,6 @@
 109. § (1) A műsorszolgáltatási jogosultság nem ruházható át.
 
-(2) A műsorszolgáltatónak a Testülethez be kell jelentenie, ha tulajdoni viszonyaiban vagy más adataiban változás következett be, így különösen:
+(2) A műsorszolgáltatónak a Médiatanácshoz be kell jelentenie, ha tulajdoni viszonyaiban vagy más adataiban változás következett be, így különösen:
 
 a) a vállalkozás neve, székhelye (lakcíme) megváltozását,
 

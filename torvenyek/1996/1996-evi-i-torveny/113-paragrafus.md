@@ -1,6 +1,6 @@
-113. § (1) Az a műsorszolgáltató, aki műsorának terjesztését kizárólag műsorelosztó rendszer segítségével végzi, műsorszolgáltató tevékenységének megkezdése előtt legalább harminc nappal köteles a Testületnek bejelenteni a 96. § (1)—(3) bekezdése szerinti adatokat.
+113. § (1) Az a műsorszolgáltató, aki műsorának terjesztését kizárólag műsorelosztó rendszer segítségével végzi, műsorszolgáltató tevékenységének megkezdése előtt legalább harminc nappal köteles a Médiatanácsnak bejelenteni a 96. § (1)—(3) bekezdése szerinti adatokat.
 
-(2) Ha a bejelentés tudomásulvételét a Testület hatvan napon belül nem tagadta meg, a bejelentést nyilvántartásba vettnek kell tekinteni azzal, hogy a műsorszolgáltatási díj mértékét e határidőn belül a jogosulttal közölni kell.
+(2) Ha a bejelentés tudomásulvételét a Médiatanács hatvan napon belül nem tagadta meg, a bejelentést nyilvántartásba vettnek kell tekinteni azzal, hogy a műsorszolgáltatási díj mértékét e határidőn belül a jogosulttal közölni kell.
 
 (3) A bejelentés tudomásulvételét meg kell tagadni, ha a bejelentő egyébként nem lehetne műsorszolgáltatási szerződés jogosultja.
 

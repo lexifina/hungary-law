@@ -1,4 +1,4 @@
-43. § (1) A Testület minden év március 1-jéig az Országgyűlésnek megküldi a megelőző évi tevékenységére vonatkozó beszámolóját. A beszámolóban különösen értékelnie kell
+43. § (1) A Médiatanács minden év március 1-jéig az Országgyűlésnek megküldi a megelőző évi tevékenységére vonatkozó beszámolóját. A beszámolóban különösen értékelnie kell
 
 a) a véleményszabadság, a tájékoztatás kiegyensúlyozottságának helyzetét,
 

@@ -1,7 +1,9 @@
-58. § (1) A kuratóriumi tagokra és elnökökre a 34. § (2) bekezdésében — a d) pont kivételével — és a 35. § (1) bekezdésében foglalt összeférhetetlenségi szabályok irányadók. Az elnöknek, illetve az elnökségi tagnak a Ptk. 685. §-ának b) pontja szerinti közeli hozzátartozója nem lehet az érintett közszolgálati műsorszolgáltató vezető állású dolgozója.
+58. § (1) A Kuratórium jogköre:
 
-(2) A kuratóriumi tagok a tagságuk megszűnését követő egy éven belül nem létesíthetnek munkavégzésre irányuló jogviszonyt azzal a közszolgálati műsorszolgáltatóval, amelynek kuratóriumában tagok voltak. Ez a határidő az elnökre és az elnökségi tagokra két év.
+a) a Magyar Televízió, a Duna Televízió és a Magyar Rádió zártkörűen működő nonprofit közszolgálati műsorszolgáltató részvénytársaságok, valamint a Magyar Távirati Iroda zártkörűen működő nonprofit részvénytársaság vonatkozásában a gazdasági társaságokról szóló törvény alapján – az e törvényben foglalt eltérésekkel – a közgyűlés jogainak gyakorlása,
 
-(3) A kuratórium megbízatását annak lejárta előtt a Ptk. 74/C. § (6) bekezdésében foglaltak alapján az illetékes országgyűlési bizottság javaslatára az Országgyűlés vonhatja vissza. A kuratórium egyes tagjainak vagy elnökének (elnökhelyettesének) összeférhetetlenségi okból, illetve e törvénynek a 37. § (4)—(5) bekezdéseiben foglaltak miatti felmentéséről az Országgyűlés, a szervezetek delegáltjairól a küldő szervezet határoz. E kérdésekben az Országgyűlés a jelenlévő képviselők kétharmados szavazati arányával dönthet.
+b) a Közalapítvány éves gazdálkodási tervének elfogadása és mérlegének megállapítása,
 
-(4) A kuratórium tagjai (elnöke) a közalapítvánnyal nem állhatnak munkaviszonyban. Reájuk a 35. § (5) bekezdése irányadó. Semmilyen jogcímen nem fogadhatnak el díjazást az általuk felügyelt közszolgálati műsorszolgáltatótól.
+c) amit a Közalapítvány alapító okirata – e törvény keretei között – a hatáskörébe utal.
+
+(2) A Kuratórium a Közalapítvány kezelőjének jogkörében gazdálkodik a Közalapítvány vagyonával.

@@ -1,17 +1,17 @@
-## A részvénytársaság felügyelő bizottsága
+## A közszolgálati részvénytársaságok közös felügyelő bizottsága
 
-73. § (1) A részvénytársaság ügyvezetését a felügyelő bizottság ellenőrzi. Jogában áll az elnöktől, a társaság dolgozóitól jelentést vagy felvilágosítást kérni, a társaság könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a társaság költségére megvizsgáltatni.
+73. § (1) A közszolgálati részvénytársaságok ügyvezetését a közös Felügyelő Bizottság ellenőrzi. Jogában áll a vezérigazgatóktól, a közszolgálati részvénytársaságok dolgozóitól jelentést vagy felvilágosítást kérni, a közszolgálati részvénytársaságok könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a közszolgálati részvénytársaságok költségére megvizsgáltatni.
 
-(2) A felügyelő bizottság három tagból áll. Tagjait a dolgozók által választott tag kivételével a kuratórium választja négy évre. A felügyelő bizottság tagjainak részleges cserélődése vagy a felügyelő bizottság új tagokkal való kiegészítése esetén az új tag(ok) megbízatása a felügyelő bizottság eredeti megbízásának időpontjáig szól.
+(2) A Felügyelő Bizottság elnökből és 4 tagból áll.
 
-(3) A felügyelő bizottság első ülésén tagjai közül elnököt választ.
+(3) A Felügyelő Bizottság elnökét és tagjait, a munkavállalók által választott tag kivételével, a Kuratórium választja a Közalapítvány alapító okiratában meghatározott időre és feltételekkel.
 
-(4) A felügyelő bizottság maga állapítja meg működésének szabályait, ügyrendjét a kuratórium elnöksége hagyja jóvá.
+(4) A Felügyelő Bizottság elnökének és tagjainak tiszteletdíját a Kuratórium állapítja meg.
 
-(5) A felügyelő bizottság határozatképes, ha az ülésen legalább kettő tag jelen van.
+(5) A Felügyelő Bizottság maga állapítja meg működésének szabályait, ügyrendjét a Kuratórium hagyja jóvá.
 
-(6) A felügyelő bizottság köteles megvizsgálni a kuratórium (elnökség) elé terjesztendő minden olyan jelentést, amely a kuratóriumnak, illetve az elnökségnek a részvénytársaság közgyűlési hatáskörébe tartozó vagyoni jellegű ügyeire vonatkozik.
+(6) A Felügyelő Bizottság köteles megvizsgálni a Kuratórium elé terjesztendő minden olyan jelentést, amely a Kuratóriumnak, illetve a közszolgálati részvénytársaságok közgyűlési hatáskörébe tartozó vagyoni jellegű ügyeire vonatkozik.
 
-(7) A részvénytársaság belső ellenőrzési szervezete a felügyelő bizottság irányítása alá tartozik.
+(7) A közszolgálati részvénytársaságok belső ellenőrzési szervezetei a Felügyelő Bizottság irányítása alá tartoznak.
 
-(8) A felügyelő bizottság szervezetére, működésére egyebekben a Gt. és az alapító okirat előírásai az irányadóak.
+(8) A Felügyelő Bizottság szervezetére, működésére egyebekben a gazdasági társaságokról szóló törvénynek, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
