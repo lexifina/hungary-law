@@ -1,3 +1,0 @@
-1. § (1) Az Országos Rádió és Televízió Testület (a továbbiakban: Testület) e törvény hatálybalépését követően megválasztott elnökének és más tagjainak megbízatása a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) 37. § (1) bekezdésében meghatározott eseteken kívül a törvény erejénél fogva akkor is megszűnik, ha az Rttv. hatályát veszti.
-
-(2) Ha a Testület elnökének és más tagjainak a megbízatása az (1) bekezdésben meghatározott esetben szűnik meg, az érintett személyeket további hat hónapon keresztül a korábbi havi díjazásuknak megfelelő összegű külön juttatás illeti meg.
