@@ -2,12 +2,12 @@
 
 a) országos vagy regionális terjesztésű politikai napilap szerkesztőségének vezetője vagy annak helyettese;
 
-b) a Magyar Távirati Iroda vezetője és helyettese;
+b) a Magyar Távirati Iroda vezérigazgatója és vezérigazgató-helyettese;
 
-c) a Magyar Rádió Részvénytársaság, a Magyar Televízió Részvénytársaság és a Duna Televízió Részvénytársaság elnöke;
+c) a Magyar Rádió nonprofit Zrt., a Magyar Televízió nonprofit Zrt., és a Duna Televízió nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese;
 
-d) az Országos Rádió és Televízió Testület és a Testület Panaszbizottsága tagja;
+d) a Nemzeti Média és Hírközlési Hatóság elnöke, elnökhelyettese, a hatóság Médiatanácsának és a Médiatanács Panaszbizottságának tagja;
 
-e) a Magyar Rádió Közalapítvány, a Magyar Televízió Közalapítvány és a Hungária Televízió Közalapítvány kuratóriumának tagja;
+e) a Közszolgálati Közalapítvány Kuratóriumának elnöke és tagja;
 
 f) az országos vagy körzeti rádió vagy televízió vezetője.
