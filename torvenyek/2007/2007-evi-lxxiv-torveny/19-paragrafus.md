@@ -4,7 +4,7 @@
 
 (3) Az (1) bekezdés szerinti frekvenciacsere nem jelenti a frekvenciahasználati jogosultságot biztosító szerződés vagy hatósági szerződés módosítását.
 
-(4) A Hatóság a rádióengedély visszavonásáról, az új frekvenciahasználati jog, illetve rádióengedély kiadásáról a Testületet, a műsorterjesztőt és a frekvenciahasználati jogosultsággal rendelkezőt tájékoztatja.
+(4) A Hatóság a rádióengedély visszavonásáról, az új frekvenciahasználati jog, illetve rádióengedély kiadásáról a műsorterjesztőt és a frekvenciahasználati jogosultsággal rendelkezőt tájékoztatja. A Médiatanácsot a Hivatal haladéktalanul tájékoztatja.
 
 (5) Analóg műsorszórásra felosztott frekvencia a műsorszóró frekvenciasáv frekvenciahasználati jogosultságával rendelkező műsorszolgáltató beleegyezésével cserélhető digitális műsorszórásra felosztott frekvenciára, ha a vételkörzetben a lakosság számára az analóg vételhez szükséges készülékekhez hasonló arányban rendelkezésre áll a digitális műsorszórási szolgáltatás vételére alkalmas készülék.
 
