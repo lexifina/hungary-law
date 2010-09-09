@@ -1,0 +1,3 @@
+## 5. § Az R. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A kérelmet – a közalapítványok és a helyi önkormányzatok kivételével – a Kincstár honlapjáról letölthető 2. számú melléklet szerinti nyomtatványon kell benyújtani a Kincstárba. Közalapítványok számlanyitása, megszüntetése és törzsadatainak módosítása esetében az 1. számú melléklet szerinti nyomtatványt, helyi önkormányzati családtámogatási folyószámla esetén a 3. számú melléklet szerinti nyomtatványt, az önkormányzati alrendszerbe tartozók fedezetkezelői számlája esetén a 3/A. számú melléklet szerinti nyomtatványt kell benyújtani a Kincstárba.”

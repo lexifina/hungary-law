@@ -1,0 +1,3 @@
+## 11. § Az R. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A likviditás menedzselés hatékonyságának növelése érdekében az APEH minden hétfőn délig az adott hétre vonatkozó napi bontású prognózist készít a Kincstár által igényelt jogcím szerinti részletezésben a kiutalásokról – beleértve az adó-visszatérítéseket is – melyet megküld a Kincstár elnökének. A Vám- és Pénzügyőrség a hó elején dekádonkénti prognózist készít, melyet megküld a Kincstár részére. Az MNV Zrt. a Nemzeti Fejlesztési Minisztérium által részére közvetlenül megküldött – a Nemzetgazdasági Minisztériummal egyeztetett tartalmú – írásbeli utasítás szerint köteles eljárni mindennemű kincstári adatszolgáltatás teljesítése érdekében.”
