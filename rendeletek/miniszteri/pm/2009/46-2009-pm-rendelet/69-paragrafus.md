@@ -2,6 +2,8 @@
 
 ## Adatszolgáltatás a nemzetközi kapcsolatokkal összefüggő kiadásokról és bevételekről
 
-69. § (1) A különféle nemzetközi kapcsolatokkal összefüggő kiadásokról és forrásokról az 52. számú melléklet szerinti, illetve a nemzetközi pénzügyi intézmények által megkívánt formában és tartalommal a hitel- vagy segélyprogramban érintett minisztériumoknak, illetve más költségvetési szerveknek – beleértve azok előkészítését is – adatszolgáltatást kell teljesíteni és megküldeni a Pénzügyminisztérium, valamint a KPSZE vagy az illetékes fejezeti Végrehajtó Egység részére.
+69. § (1)[^69] A különféle nemzetközi kapcsolatokkal összefüggő kiadásokról és forrásokról az 52. számú melléklet szerinti, illetve a nemzetközi pénzügyi intézmények által megkívánt formában és tartalommal a hitel- vagy segélyprogramban érintett minisztériumoknak, illetve más költségvetési szerveknek – beleértve azok előkészítését is – adatszolgáltatást kell teljesíteni és megküldeni a Nemzetgazdasági Minisztérium, valamint a KPSZE vagy az illetékes fejezeti Végrehajtó Egység részére.
 
 (2) Az adatszolgáltatást a tárgyév eredeti előirányzatairól január 20-ig, a teljesítésről a tárgyévet követő év február 28-ig kell teljesíteni.
+
+[^69]: A 69. § (1) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

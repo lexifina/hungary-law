@@ -36,13 +36,13 @@ p) fedezetkezelői számlát
 
 vezethet.
 
-(2) Az (1) bekezdés a)–k) pontjában megjelölt fejezeti számlák megnyitásának és megszüntetésének engedélyezésére a Pénzügyminisztérium jogosult.
+(2)[^2] Az (1) bekezdés a)–k) pontjában megjelölt fejezeti számlák megnyitásának és megszüntetésének engedélyezésére a Nemzetgazdasági Minisztérium jogosult.
 
 (3) Az (1) bekezdés a)–c) pontjában megjelölt számlák a fejezeti költségvetési irányítás számlái, operatív gazdálkodás e számlákról nem folytatható.
 
 (4) A Kincstár a központi költségvetési szervek részére az Ámr.-ben meghatározott módon megállapított előirányzat-felhasználási kereteket az (1) bekezdés a) pontja szerinti számlán keresztül vezeti át a költségvetési szerv előirányzat-felhasználási keretszámlájára.
 
-(5) Az (1) bekezdés b) pontja szerinti fejezeti maradványelszámolási számlán kell kezelni a fejezetet és költségvetési szerveit meg nem illető maradványokat, valamint az előirányzat-maradvány átadás-átvételeket. A számlán jóváírt bevételek központi költségvetés javára történő átvezetéséről a fejezetet irányító szerv az előirányzat-maradvány Pénzügyminisztérium által történt jóváhagyását követően köteles intézkedni. A számlának év végén nem lehet egyenlege.
+(5)[^3] Az (1) bekezdés b) pontja szerinti fejezeti maradványelszámolási számlán kell kezelni a fejezetet és költségvetési szerveit meg nem illető maradványokat, valamint az előirányzat-maradvány átadás-átvételeket. A számlán jóváírt bevételek központi költségvetés javára történő átvezetéséről a fejezetet irányító szerv az előirányzat-maradvány jóváhagyását követően köteles intézkedni. A számlának év végén nem lehet egyenlege.
 
 (6) Az (1) bekezdés c) pontja szerinti fejezeti befizetési számlára kell a költségvetési szervnek teljesítenie a külön jogszabályokban meghatározott bevételeket terhelő kötelezettségeit. A számla egyenlege év végén átvezetésre kerül a központi költségvetés javára.
 
@@ -66,6 +66,10 @@ vezethet.
 
 (16) Az Európai Regionális Fejlesztési Alapból finanszírozott pénzügyi eszközök lebonyolítására operatív programonként, pénzügyi eszközönként, valamint az ezekhez kapcsolódó kezességvállalás kezelésére egy-egy (1) bekezdés n) pontja szerinti pénzforgalmi számla nyitható. A számlákra vonatkozó egyéb előírásokról külön jogszabályok rendelkeznek.
 
-(17) Az (1) bekezdés o) pontja szerinti EGT Norvég Alap célelszámolási forintszámla a pénzügyminiszter engedélyével nyitható a Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében nyújtott támogatások felhasználásának elkülönített kezelésére.
+(17)[^4] Az (1) bekezdés o) pontja szerinti EGT Norvég Alap célelszámolási forintszámla a Nemzetgazdasági Minisztérium engedélyével nyitható a Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében nyújtott támogatások felhasználásának elkülönített kezelésére.
 
 (18) A fedezetkezelői számla a szerződéses kapcsolatban álló felek (építtető, fővállalkozó kivitelező) között létrejött szerződésben vállalt kötelezettségek pénzügyi fedezetének és pénzügyi biztosítékainak elkülönített kezelésére szolgál. A számláról közvetlen kifizetés a külön jogszabályban meghatározott előírásoknak megfelelően teljesíthető. Az irányító szerv részére több fedezetkezelői számla is vezethető.
+
+[^2]: A 4. § (2) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^3]: A 4. § (5) bekezdése az 5/2010. (IX. 8.) NGM rendelet 18. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^4]: A 4. § (17) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

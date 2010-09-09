@@ -8,7 +8,7 @@
 
 (4) A jogerős fizetési meghagyások alapján teljesített munkáltatói táppénz-hozzájárulás bevételének összegét a Kincstár az APEH e célból vezetett számlájáról naponta átvezeti az OEP Elszámolási számlájára.
 
-(5) Az APEH adatokat szolgáltat elektronikusan is az ONYF, az OEP, a Szociális és Munkaügyi Minisztérium, az Egészségügyi Minisztérium, az Mezőgazdasági és Vidékfejlesztési Hivatal (MVH), a Pénzügyminisztérium és a Kincstár részére
+(5)[^41] Az APEH adatokat szolgáltat elektronikusan is az ONYF, az OEP, a Nemzeti Erőforrás Minisztérium, a Mezőgazdasági és Vidékfejlesztési Hivatal (MVH), a Nemzetgazdasági Minisztérium és a Kincstár részére
 
 a) havonta a bevallásra kötelezettek bevallási adatairól alaponként, bevallási jogcímenkénti bontásban a bevallás esedékességének hónapját követő hónap 15. napjáig,
 
@@ -18,7 +18,7 @@ c) évenként a tárgyévben esedékes bevallások és december 31-ig teljesíte
 
 d) negyedévente a járulék és egyéb társadalombiztosítási követelések értékvesztésének összegéről, az első negyedévre vonatkozóan május 20-ig, a második, harmadik negyedévre vonatkozóan a tárgynegyedévet követő hó 15-ig, a negyedik negyedévre vonatkozóan a tárgyévet követő május 15-ig.
 
-(6) Az APEH negyedévente a tárgynegyedévet követő hó utolsó munkanapjáig adatot szolgáltat a Pénzügyminisztérium és az ONYF részére a korkedvezmény-biztosítási járulék alapjáról.
+(6)[^42] Az APEH negyedévente a tárgynegyedévet követő hó utolsó munkanapjáig adatot szolgáltat a Nemzetgazdasági Minisztérium és az ONYF részére a korkedvezmény-biztosítási járulék alapjáról.
 
 (7) Az (5)–(6) bekezdés szerint szolgáltatott adatok valódiságáért az APEH tartozik felelősséggel.
 
@@ -35,3 +35,6 @@ a) a Nyugdíjbiztosítási Alap által folyósított jövedelempótló és jöve
 b) az Egészségbiztosítási Alap által folyósított közgyógyellátás kiadásait a finanszírozási terv alapján havonta a tárgyhó utolsó előtti munkanapjáig kell megtéríteni úgy, hogy az még a tárgyhóban az Egészségbiztosítási Alap számláján jóváírásra kerüljön.
 
 (12) Az Egészségbiztosítási Alapból a GYED-ben részesülők utáni nyugdíjbiztosítási járulék címen történő pénzeszköz átadást az éves előirányzat havi időarányos mértékének megfelelően, a tárgyhó 15-ig kell teljesíteni.
+
+[^41]: A 44. § (5) bekezdése az 5/2010. (IX. 8.) NGM rendelet 10. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^42]: A 44. § (6) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

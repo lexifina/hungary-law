@@ -1,42 +1,40 @@
-| Magyar Államkincstár |
+| Magyar Államkincstár |  |
 
-## Átutalást előzetesen bejelentő lap
+| Átutalást előzetesen bejelentő lap |
 
-|  | Bizonylat sorszáma: ⬜ ⬜ ⬜ ⬜ |
+|  | Bizonylat sorszáma: ⬜⬜⬜⬜ |
 
-| Számlatulajdonos neve: ................................................................................................................ |
+| Számlatulajdonos neve: |
 
-| Számlaszáma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| Számlaszáma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
-| A megbízás összege forintban: ………………………………………………………………. |
+| A megbízás összege forintban: |
 
-| A megbízás devizaneme és összege: ⬜ ⬜ ⬜ ……………………………………………………. |
+| A megbízás devizaneme és összege: ⬜⬜⬜ |
 
-| Esedékesség időpontja: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| Esedékesség időpontja: ⬜⬜⬜⬜⬜⬜⬜⬜ |
 
-| Törvényi sor azonosító száma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ neve: ............................................................................ |
+| Törvényi sor azonosító száma: ⬜⬜⬜⬜⬜⬜neve: |
 
-| Utalás jogcíme: □□□ KTK ........................................................................................................... |
+| Utalás jogcíme: ⬜⬜⬜KTK |
 
-| Kötelezettségvállalás hivatkozási száma: □□□□ /20 ⬜ ⬜. év |
+| Kötelezettségvállalás hivatkozási száma: ⬜⬜⬜⬜/20 ⬜⬜. év |
 
-| Jogosult neve: ............................................................................................................................... |
+| Jogosult neve: |
 
-| Számlaszáma: ………………………………………………………………………………. |
+| Számlaszáma: |
 
 | Az átutalási megbízás benyújtásának módja: papíron | elektronikus úton: floppys külső azonosító száma: |
 
-| Egyeztetésre jogosult neve: .......................................................................................................... |
+## Egyeztetésre jogosult neve:
 
 | Telefonszáma: ........................................................... | E-mail címe: ................................................................... |
 
 ## Dátum: ......................................... ⬜ ⬜ ⬜ ⬜ év ............................ hó ⬜ ⬜ nap.
 
-## .........................................................
+## ...................................................................
 
 ## Kincstárnál rendelkezésre jogosult neve
-
-## ---------------------------------------------------------------------------
 
 ## A Kincstár tölti ki:
 
@@ -48,7 +46,7 @@
 
 ## az „Átutalást előzetesen bejelentő lap” elnevezésű űrlaphoz
 
-## Az űrlap használatára a 7. § (1) bekezdésében szereplő átutalások előzetes bejelentéséhez van szükség. Az adatszolgáltatást külön felhívás nélkül, elektronikus úton a nagyosszeguallamkincstar.gov.hu e-mail címre kell teljesíteni.
+## Az űrlap használatára a 25. § (2) bekezdésében szereplő átutalások előzetes bejelentéséhez van szükség. Az adatszolgáltatást külön felhívás nélkül, elektronikus úton a nagyosszegu@allamkincstar.gov.hu e-mail címre kell teljesíteni.
 
 ## Űrlap adatai:
 
@@ -64,9 +62,9 @@
 
 ## 5. Esedékesség időpontja: a terhelés tervezett időpontja (deviza átutalás esetében - értéknaptól függetlenül - ez a megbízás MNB-be történő továbbításának napja, alapesetben a Kincstárba történő benyújtást követő nap).
 
-## 6. Törvényi sor azonosítója, neve: az államháztartási egyedi azonosító szám alkalmazásáról szóló 3/1997. (II. 7.) PM rendelet alapján a pénzügyminiszter által adott azonosító szám (csak fejezeti kezelésű előirányzat terhére történő átutalásnál kell kitölteni) és a törvényi sor nevének feltüntetésére szolgál.
+## 6. Törvényi sor azonosítója, neve: az államháztartási egyedi azonosító szám alkalmazásáról szóló 3/1997. (II. 7.) PM rendelet alapján a Nemzetgazdasági Minisztérium által adott azonosító szám (csak fejezeti kezelésű előirányzat terhére történő átutalásnál kell kitölteni) és a törvényi sor nevének feltüntetésére szolgál.
 
-## 7. Utalás jogcíme/KTK: A hatályos kincstári tranzakciós kódok jegyzékében szereplő, a számlatípusnál alkalmazható pénzügyi műveletek azonosítására szolgáló kincstári tranzakciós kód (továbbiakban KTK). Deviza átutalás esetében az utalás jogcímeként a tényleges felhasználást mutató kiadási KTK-t kell megjelölni annak ellenére, hogy a terhelés 410 „Tárgyévi függő, átfutó, kiegyenlítő kiadások” KTK-n történik és utólag, önálló kiegészítő szelvényen kell rendezni a megfelelő kiadási KTK-ra.
+## 7. Utalás jogcíme/KTK: A hatályos kincstári tranzakciós kódok jegyzékében szereplő, a számlatípusnál alkalmazható pénzügyi műveletek azonosítására szolgáló kincstári tranzakciós kód (továbbiakban: KTK). Deviza átutalás esetében az utalás jogcímeként a tényleges felhasználást mutató kiadási KTK-t kell megjelölni annak ellenére, hogy a terhelés 410 „Tárgyévi függő, átfutó, kiegyenlítő kiadások” KTK-n történik és utólag, önálló kiegészítő szelvényen kell rendezni a megfelelő kiadási KTK-ra.
 
 ## 8. Kötelezettségvállalás hivatkozási száma: A kincstári körbe tartozó költségvetési szerv által - az államháztartás működési rendjéről szóló Korm. rendeletben előírt - bejelentett kötelezettségvállalás, Kincstár részéről visszaigazolt hivatkozási számát kell feltüntetni.
 
@@ -84,12 +82,12 @@
 
 ## 14. Bejelentő: Az átutalást kérő Kincstárnál rendelkezésre jogosult nevének feltüntetésére szolgál.
 
-## Nem minősül államháztartáson kívülre irányuló átutalásnak a pénzforgalmi lebonyolítási számlára utalás. Itt a 7. § (1) bekezdésben foglaltakat a pénzforgalmi lebonyolítási számláról történő átutalás esetén kell alkalmazni.
+## Nem minősül államháztartáson kívülre irányuló átutalásnak a pénzforgalmi lebonyolítási számlára utalás. Itt a 25. § (2) bekezdésben foglaltakat a pénzforgalmi lebonyolítási számláról történő átutalás esetén kell alkalmazni.
 
 ## Az átutalás átütemezésének időpontját a Kincstár tölti ki az átutalás átütemezésére jogosult vezetővel történt egyeztetést követően. Az átütemezést a Kincstár elektronikus úton visszaigazolja. Egyeztetést nem igénylő esetekben visszaigazolásra nem kerül sor, az átutalás - az egyébként szükséges feltételek fennállása esetén - az átutalási megbízás alapján teljesítésre kerül.
 
 ## Az átutalás bárminemű meghiúsulása esetén a bejelentést meg kell ismételni.
 
-## A 7. § (1) bekezdésben nevesített összeghatár feletti átutalás előzetes bejelentésének elmaradása esetén az átutalást a Kincstár nem teljesíti.
+## A 25. § (2) bekezdésben nevesített összeghatár feletti átutalás előzetes bejelentésének elmaradása esetén az átutalást a Kincstár nem teljesíti.
 
 11. számú melléklet a 46/2009. (XII. 30.) PM rendelethez

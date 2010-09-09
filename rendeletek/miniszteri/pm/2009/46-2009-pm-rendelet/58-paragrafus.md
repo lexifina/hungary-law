@@ -10,8 +10,12 @@
 
 (5) Az Ámr. 202. §-ában meghatározott adatszolgáltatási kötelezettséget a Kincstár a 36–37. számú melléklet, az elkülönített állami pénzalapokra vonatkozóan pedig a 38–43. számú melléklet szerinti tartalommal és formában készíti el.
 
-(6) Az Ámr. 204. §-ának (2) bekezdésében meghatározott adatszolgáltatási kötelezettséget a társadalombiztosítás pénzügyi alapjainak kezelői a 44–45. számú melléklet szerinti tartalommal és formában teljesítik. Amennyiben az elszámolások közötti időbeli különbséget is figyelembe véve az eltérések tartósan és jelentős mértékben fennállnak, a Kincstár kezdeményezésére a társadalombiztosítás pénzügyi alapjának kezelője soron kívül köteles az adatokat felülvizsgálni és tájékoztatni az irányító szervet, a Pénzügyminisztériumot és a Kincstárat a rendezés módjáról és időpontjáról.
+(6)[^55] Az Ámr. 204. §-ának (2) bekezdésében meghatározott adatszolgáltatási kötelezettséget a társadalombiztosítás pénzügyi alapjainak kezelői a 44–45. számú melléklet szerinti tartalommal és formában teljesítik. Amennyiben az elszámolások közötti időbeli különbséget is figyelembe véve az eltérések tartósan és jelentős mértékben fennállnak, a Kincstár kezdeményezésére a társadalombiztosítás pénzügyi alapjának kezelője soron kívül köteles az adatokat felülvizsgálni és tájékoztatni az irányító szervet, a Nemzetgazdasági Minisztériumot és a Kincstárat a rendezés módjáról és időpontjáról.
 
-(7) A Kincstár a társadalombiztosítás pénzügyi alapjai napi és halmozott pénzforgalmi adatainak teljesítéséről – a KTK csoportok költségvetési jogcímek szerinti alkalmas tagolásával – napi rendszerességgel, elektronikus formában tájékoztatja a társadalombiztosítás pénzügyi alapjainak kezelőit. A Pénzügyminisztérium részére az adatszolgáltatást a Kincstár – összefoglaló gyorsjelentés keretében – naponta, elektronikus formában teljesíti.
+(7)[^56] A Kincstár a társadalombiztosítás pénzügyi alapjai napi és halmozott pénzforgalmi adatainak teljesítéséről – a KTK csoportok költségvetési jogcímek szerinti alkalmas tagolásával – napi rendszerességgel, elektronikus formában tájékoztatja a társadalombiztosítás pénzügyi alapjainak kezelőit. A Nemzetgazdasági Minisztérium részére az adatszolgáltatást a Kincstár – összefoglaló gyorsjelentés keretében – naponta, elektronikus formában teljesíti.
 
-(8) A Kincstár a területfejlesztési tanácsok pénzforgalmi számláiról havonta tájékoztatást ad a területfejlesztésért felelős minisztérium és a Pénzügyminisztérium számára.
+(8)[^57] A Kincstár a területfejlesztési tanácsok pénzforgalmi számláiról havonta tájékoztatást ad a területfejlesztésért felelős minisztérium és a Nemzetgazdasági Minisztérium számára.
+
+[^55]: Az 58. § (6) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^56]: Az 58. § (7) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^57]: Az 58. § (8) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

@@ -1,63 +1,57 @@
-## A Kincstár által a forintszámla vezetéshez kapcsolódó szolgáltatások nyújtásáért
+| Adatlap építtetői fedezetkezelői devizaszámla nyitásához*, az adatok módosításához*, a számla megszüntetéséhez* |
 
-## felszámított díjak, jutalékok
+|  | Az adattípus megnevezése | A kért adat |
 
-## Terhelési forgalom
+| 1. | Az építtető számlatulajdonos neve |  |
 
-| 1. Forintban végrehajtott műveletek |  |
+| 2. | Székhelye, címe |  |
 
-| Bankközi forintátutalás Giro-n keresztül |  |
+| 3. | Adószáma |  |
 
-| - Papír alapú (beleértve az inkasszót is) | 0,7 ezrelék, min. 300 Ft |
+| 4. | KSH száma |  |
 
-| - Elektronikus | 0,5 ezrelék, min. 250 Ft |
+| 5. | A bejegyzés száma (cégbírósági/törzskönyvi) |  |
 
-| Csoportos átutalás (a csoportba tartozó tételek után) | 0,5 ezrelék, min. 30 Ft/tétel |
+| 6. | A fedezetkezelő ÁPI megnevezése (a beruházás helyével azonos megye) |  |
 
-| VIBER-en történő átutalás | 5 ezrelék, min.10 000 Ft |
+| 7. | IBAN számlaszám** |  |
 
-|  | max. 100 000 Ft |
+| 8. | A számla devizaneme |  |
 
-| Belső (Kincstár által vezetett számlára történő) átutalás |  |
+| 9. | A beruházás megnevezése(neve, helye) |  |
 
-| - Papír alapú (beleértve az inkasszót is) | 0,5 ezrelék, min. 100 Ft |
+## *A megfelelő aláhúzandó
 
-| - Elektronikus | 0,4 ezrelék, min. 50 Ft |
+## **A kincstár tölti ki
 
-| - Csoportos átutalás (a csoportba tartozó tételek után) | 0,3 ezrelék, min. 10 Ft/tétel |
+| A Kincstár aláírása |  | jogosult vezető/k) |
 
-| Készpénzfelvétel | 2 ezrelék, min. 350 Ft |
+## Kitöltési útmutató
 
-| Postai kifizetési utalvány* |  |
+## Az „Adatlap építtetői fedezetkezelői devizaszámlához” elnevezésű űrlaphoz
 
-| - Papír alapú | 0,7 ezrelék, min. 300 Ft/tétel |
+## 1. Az építtető számlatulajdonos neve: Az „Ajánlati/részvételi felhívás”-ban feltüntetett szervezet, mint számlatulajdonos neve, amelynek azonosnak kell lennie a törzskönyvi nyilvántartásba, vagy cégbíróságnál bejegyzett nevével.
 
-| - Elektronikus | 0,3 ezrelék, min. 10 Ft/tétel |
+## 2. Székhelye, címe: A törzskönyvi/cégbírósági nyilvántartásban szereplő székhely és cím.
 
-| 2. Devizában végrehajtott műveletek* |  |
+## 3. Adószáma: Gazdasági társaságok esetében az APEH által kiadott adóazonosító szám. Törzskönyvi nyilvántartási bejegyzéssel rendelkező szervezet esetében igénylése első alkalommal a Kincstárnál történik. Adószámmal nem rendelkező önkormányzat esetében megjelölhető a polgármesteri hivatalának az adószáma is, nem kell feltétlenül saját adószámot igényelni.
 
-| Deviza-átutalások | 0,4 ezrelék, min. 50 Ft |
+## 4. KSH száma: KSH statisztikai számjel a törzskönyvi/cégbírósági nyilvántartás szerint.
 
-| 3. Különdíjak |  |
+## 5. A bejegyzés száma (cégbírósági/törzskönyvi): Gazdasági társaságok esetében a cégbírósági határozat száma, törzskönyvi nyilvántartási bejegyzéssel rendelkező szervezet esetében törzskönyvi azonosító szám.
 
-| - Számlavezetési díj | 2 000 Ft/számla/hó |
+## 6. A fedezetkezelő ÁPI megnevezése (a beruházás helyével azonos megye).
 
-| - Fiókbérleti díj | 500 Ft/hó/ügyfél |
+## 7. IBAN számlaszám: A nemzetközi pénzforgalmi jelzőszám (IBAN) 28 alfanumerikus karaktert tartalmazó számsor.
 
-| - Fedezetigazolás, ill. egyéb igazolás kiadása | 1 000 Ft/db |
+## 8. A számla devizaneme: EUR vagy USD devizanem
 
-| - Pótlólag kért számlakivonat | 300 Ft/db |
+## 9. A beruházás megnevezése (neve, helye): A beruházási/fővállalkozói szerződés szerint.
 
-| - Előzetesen bejelentett készpénzigény felvételének elmulasztása | 2 ezrelék, min. 350 Ft |
+## Számlatulajdonos cégszerű aláírása:
 
-| - Rendelkezésre állási díj: |  |
+## A Kincstárba beadott aláírási címpéldánnyal egyezően kell a szervezet illetékes képviselőjének/képviselőinek aláírnia/uk.
 
-| - Előzetesen bejelentett kötelezettségvállalás időben későbbi vagy a teljesítés elmaradása 162.§ (5) | 1 ezrelék /nap, max.50 eFt/nap |
-
-| - Előzetesen bejelentett kiadástól eltérő teljesítés 162/A.§ (5) | 1 ezrelék/dekád max.500 eFt/dekád a különbözet után |
-
-| Jóváírási forgalom | jutalékmentes |
-
-| * A Kincstár által felszámított díj a külső szolgáltatók által áthárított díjon felül kerül terhelésre. |
+## A Magyar Államkincstár aláírása: a számlavezető Állampénztári Iroda cégszerű aláírásának és pecsétjének a helye.
 
 6. számú melléklet a 46/2009. (XII. 30.) PM rendelethez

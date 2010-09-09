@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-46-20-5
 | --- | --- | --- |
 | 2010-01-01 | 2009-46-20-53.1 | 46/2009. (XII. 30.) PM rendelet |
 | 2010-07-27 | 2009-46-20-53.2 | 2/2010. (VII. 27.) NGM rendelet |
+| 2010-09-09 | 2009-46-20-53.3 | 5/2010. (IX. 8.) NGM rendelet |

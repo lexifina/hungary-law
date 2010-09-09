@@ -22,7 +22,7 @@ f) az Ámr. 199. §-a szerinti fedezetkezelői számlák.
 
 a) a számlatulajdonos saját számlái közötti átutalások/átvezetések,
 
-b) a kincstári költségvetéssel rendelkező költségvetési szerv vagy a jogi személyiségű szervezetei egysége részére történő előirányzat-felhasználási keret átadása,
+b)[^24] a kincstári költségvetéssel rendelkező költségvetési szerv részére történő előirányzat-felhasználási keret átadása,
 
 c) a költségvetési szervek előirányzat-felhasználási keretének átvezetése és visszavezetése az előirányzat-felhasználási keret elosztási számla és a költségvetési szerv előirányzat-felhasználási keretszámlája között,
 
@@ -51,3 +51,5 @@ kiadási előirányzatai terhére teljesített átutalások.
 (5) A Kincstár a tárgyidőszakban felszámított díjakról számlakivonatban tájékoztatja a számlatulajdonost.
 
 (6) A Kincstár a deviza-számla vezetés, illetve a forint- és devizaszámlákon bonyolított devizaműveletek kapcsán az MNB által felszámított/továbbterhelt díjakat, jutalékokat – eltérő jogszabályi rendelkezés hiányában – a hirdetményében közzétett mértékben, illetve összegben a számlatulajdonosra terheli.
+
+[^24]: A 15. § (4) bekezdés b) pontja az 5/2010. (IX. 8.) NGM rendelet 18. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

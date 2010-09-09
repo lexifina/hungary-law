@@ -4,4 +4,6 @@
 
 (2) Az elkülönített állami pénzalap kezelője az európai uniós források bevonásával előlegfinanszírozás keretében megvalósuló programok pénzügyi gazdálkodását európai uniós programok központi és területi célelszámolási forintszámlán bonyolítja.
 
-(3) Az elkülönített állami pénzalap számlájának megnyitásáról, törzsadatainak módosításáról, illetve megszüntetéséről az elkülönített állami pénzalap felett rendelkező miniszter – az elkülönített állami pénzalap létesítésének, működési és lebonyolítási rendje változásának, illetve megszüntetésének időpontja szerinti határnappal – a pénzügyminiszter egyetértésével gondoskodik.
+(3)[^17] Az elkülönített állami pénzalap számlájának megnyitásáról, törzsadatainak módosításáról, megszüntetéséről az elkülönített állami pénzalap felett rendelkező miniszter az elkülönített állami pénzalap létesítésének, működési és lebonyolítási rendje változásának, megszüntetésének időpontja szerinti határnappal gondoskodik. A (2) bekezdés szerinti célelszámolási forintszámla megnyitásához, törzsadatainak módosításához, megszüntetéséhez a Nemzetgazdasági Minisztérium egyetértése szükséges.
+
+[^17]: A 8. § (3) bekezdése az 5/2010. (IX. 8.) NGM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

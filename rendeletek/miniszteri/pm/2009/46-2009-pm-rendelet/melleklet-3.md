@@ -2,9 +2,9 @@
 
 ## Pénzforgalmi számlatulajdonosok - közalapítványok kivételével - törzsadatainak bejelentése
 
-## A bejelentés oka: számla nyitása, megszüntetése, adatmódosítás ( a kívánt szöveg aláhúzandó !)
+## A bejelentés oka: számla nyitása, megszüntetése, adatmódosítás ( a kívánt szöveg aláhúzandó ! )
 
-| Számla nyitása, adatmódosítás,számla megszüntetése |
+| Számla nyitása, adatmódosítás, számla megszüntetése |
 
 | Sorszám | Megnevezés | Adatok |
 
@@ -34,11 +34,11 @@
 
 | deviza |  |
 
-| pénzügyminiszter által engedélyezett hitelintézeti számla |  |
+| Nemzetgazdasági miniszter által engedélyezett hitelintézeti számla |  |
 
 | 12. | Kincstári számlaszáma: |  |
 
-| 13. | Számla megnevezése: |  |
+| 13. | Számla megnevezése (fed. kez. számla esetén beruházás/főváll. szerződésazonosítóval) : |
 
 | 14. | Érvénybe lépés kelte*: |  |
 
@@ -46,27 +46,31 @@
 
 | 16. | Számlavezető Állampénztári Iroda neve: |  |
 
+| 17. | Fedezetkezelő Állampénztári Iroda neve: |  |
+
 | Számla megszüntetése |
 
 | Sorszám | Megnevezés | Adatok |
 
-| 17. | Számla megszüntetése esetén a kincstári jogutód számlaszáma: |  |
+| 18. | Számla megszüntetése esetén a kincstári jogutód számlaszáma: |  |
 
-| 18. | Kincstári jogutód megnevezése: |  |
+| 19. | Kincstári jogutód megnevezése: |  |
 
-| 19. | Számla kincstári jogutód nélküli megszüntetése esetén a költségviselő számla száma, és a hitelintézeti jogutód neve és számlaszáma, ill.rendelkezés az utolsó díjszámla terhelésről |  |
+| 20. | Számla kincstári jogutód nélküli |  |
 
 | Adatmódosítás bejelentése |
 
 | Sorszám | Megnevezés | Régi adat | Újonnan bejelentett adat |
 
-## * Visszamenőleges dátummal nem lehetséges. Legkorábbi dátuma a Pénzforgalmi Főosztály feldolgozását követő első naptári nap lehet!
+| * Visszamenőleges dátummal nem lehetséges. Legkorábbi dátuma a Pénzforgalmi Főosztály feldolgozását követő első munkanap lehet! |
 
-## **Ha eltér a 12. sorban nevesített számla számától.
+| **Ha eltér a 12. sorban nevesített számla számától. |
 
 ## Az átvezetéssel kapcsolatos teendők:
 
-## Ha a szervezet számláit a Közép-magyarországi Regionális Igazgatóság Állampénztári Iroda vezeti:
+## Ha a szervezet számláit a Közép-magyarországi Regionális Igazgatóság Állampénztári Iroda
+
+## vezeti:
 
 ## Van-e fiókbérlete: igen - nem*
 
@@ -78,27 +82,35 @@
 
 ## Dátum:
 
-| SZÁMLATULAJDONOS |  | MAGYAR ÁLLAMKINCSTÁR |
+| ______________________________ | ______________________________ |
 
-| cégszerű aláírása |  | Számlavezető Állampénztári Irodája |
+| SZÁMLATULAJDONOS | MAGYAR ÁLLAMKINCSTÁR |
 
-|  |  | MAGYAR ÁLLAMKINCSTÁR |
+| cégszerű aláírása | Számlavezető Állampénztári Irodája |
 
-|  |  | engedélyező szervezete |
+| ______________________________ |
 
-| Iktatószám: |
+| MAGYAR ÁLLAMKINCSTÁR |
 
-| Ügyintéző: |
+| engedélyező szervezete*** |
 
-| Dátum: |
+## Iktatószám:
 
-|  | MAGYAR ÁLLAMKINCSTÁR |
+## Ügyintéző:
 
-|  | Pénzforgalmi Főosztálya |
+## Dátum:
+
+| ______________________________ |
+
+| MAGYAR ÁLLAMKINCSTÁR |
+
+| Pénzforgalmi Főosztálya |
 
 ## * A kívánt szöveg aláhúzandó!
 
 ## ** Törlés kérése esetén aláhúzandó!
+
+## ***Csak a kincstári számlavezetésre kötelezett pénzforgalmi számlatulajdonosok esetében.
 
 ## Kitöltési útmutató
 
@@ -130,7 +142,7 @@
 
 ## 10. A szervezet többségi tulajdonosa/a tulajdoni hányad megjelölésével: Az aktuális éves költségvetési törvény fejezetrendje alapján a tulajdonosi jogokat gyakorló fejezet megnevezése.
 
-## 11. Hitelintézetnél vezetett számlái (számlaszám és hitelintézet): Lakásépítési és devizaszámla, valamint a pénzügyminiszter által engedélyezett hitelintézeti számla esetében töltendő ki.
+## 11. Hitelintézetnél vezetett számlái (számlaszám és hitelintézet): Lakásépítési és devizaszámla, valamint a Nemzetgazdasági Minisztérium által engedélyezett hitelintézeti számla esetében töltendő ki.
 
 ## 12. Kincstári számlaszáma: Törzstőke elkülönítési számla és pénzforgalmi számla nyitásakor a Kincstár tölti ki. Már létező pénzforgalmi számlához nyitandó alszámla, kártyafedezeti számla, fedezetbiztosítási számla nyitásakor a pénzforgalmi számla A és B mezőjét (első és második nyolc karakter) kell beírni. Amennyiben a szervezet több pénzforgalmi számlát (alszámlát) igényel, ezt írásban indokolni szükséges és az indoklást a Kincstár Fejezeti Főosztálya részére kell megküldeni.
 
@@ -202,4 +214,6 @@
 
 ## Magyar Államkincstár Pénzforgalmi Főosztály: A tényleges számlanyitást, megszüntetést, valamint adatmódosítást végrehajtó szervezet cégszerű aláírásának és pecsétjének helye.
 
-3. számú melléklet a 46/2009. (XII. 30.) PM rendelethez
+3. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^74]
+
+[^74]: A 3. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
