@@ -1,1 +1,0 @@
-A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés b) pontjában foglalt felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
