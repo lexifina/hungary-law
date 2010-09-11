@@ -2,6 +2,9 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2) Hatályát veszti az egészségügyi miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló szakmai vizsga szervezésére feljogosított intézményekről szóló 23/2009. (VII. 17.) EüM rendelet.
+(2)[^2]
 
-(3) A (2) bekezdés és e bekezdés a hatálybalépését követő napon hatályát veszti.
+(3)[^3]
+
+[^2]: A 2. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^3]: A 2. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
