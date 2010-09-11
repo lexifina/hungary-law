@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1136-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-06-29 | 2010-1136-30-22.1 | 1136/2010. (VI. 29.) Korm. határozat |
+| 2010-09-11 | 2010-1136-30-22.2 | 1380/2011. (XI. 8.) Korm. határozat |
