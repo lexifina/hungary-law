@@ -1,5 +1,0 @@
-## 18. § Az R2. 43. §-a helyébe a következő rendelkezés lép:
-
-## „43. § (1) A közreműködő szervezet az 1828/2006/EK rendelet alapján a jelentéstételi kötelezettség alá tartozó szabálytalanságokról – az újonnan megállapított szabálytalanságok esetében a szabálytalanság megállapítását követő 10 munkanapon belül, a korábban már jelentett szabálytalanságok nyomon követéséről a negyedévet követő 10 munkanapon belül – jelentést küld a Nemzeti Fejlesztési Ügynökség részére.
-
-## (2) A Nemzeti Fejlesztési Ügynökség az 1828/2006/EK rendelet alapján a jelentéstételi kötelezettség alá tartozó szabálytalanságokról – a közreműködő szervezet által újonnan megállapított szabálytalanságok esetében a beérkezéstől számított 10 munkanapon belül, a saját hatáskörben megállapított szabálytalanságok esetében a szabálytalanság megállapítását követő 10 munkanapon belül, egyéb esetben a negyedévet követő 4 héten belül – az Európai Bizottság által meghatározott formában jelentést küld az Igazoló Hatóság részére.”
