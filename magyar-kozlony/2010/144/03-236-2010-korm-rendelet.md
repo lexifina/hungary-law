@@ -1,0 +1,120 @@
+# A Kormány 236/2010. (IX. 13.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 144. szám, 2010. szeptember 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0ae94f0a88a3cf7a089ee47bdf2bda58e98f5a72/dokumentumok/f39e6e84f630938d985515577930fd6e292fa4e1/letoltes)
+
+---
+
+A Kormány 236/2010. (IX. 13.) Korm. rendelete
+a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló
+223/1998. (XII. 30.) Korm. rendeletnek a tankötelezettség teljesítésével összefüggő módosításáról
+A Kormány a családok támogatásáról szóló 1998. évi LXXXIV. törvény 51. § a) pontjában kapott felhatalmazás alapján az Alkotmány
+35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet
+(a továbbiakban: Cstr.) 3. § a) pontja helyébe a következő rendelkezés lép:
+(A Cst. 39. §-a alapján – írásban – be kell jelenteni)
+„a) a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
+aa) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését,
+
+ab) a gyermek, személy tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
+ac) a gyermek tanulói, hallgatói jogviszonyának megszűnését, szüneteltetését,
+ad) a 18 éven felüli személy rendszeres jövedelmét,
+ae) az ellátásra jogosult 3 hónapot meghaladó külföldi tartózkodásának tényét,
+af) az ellátásra jogosult egyedülállóságának megszűnését,
+ag) a Cst. 12. § (3) bekezdése alapján megállapított, egyedülállóságot meghatározó körülmény megszűnését,
+ah) az ellátásra jogosult nevének, fizetési számlaszámának vagy lakcímének megváltozását,
+ai) az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban,
+illetve abban az államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági
+Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és
+tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával
+azonos jogállást élvez (a továbbiakban: EGT-állam) történő munkavállalás vagy önálló vállalkozói tevékenység
+folytatásának tényét,
+aj) az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá
+– ha az adatváltozás házasságkötésre, új bejegyzett élettársi vagy élettársi kapcsolat létesítésére tekintettel
+következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott
+adatát;”
+2. § A Cstr. 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) A családtámogatási ellátást – ide nem értve a természetben nyújtott családi pótlékot, valamint a jogosultnak
+való folyósítása tekintetében felfüggesztett iskoláztatási támogatást – a Magyar Államkincstárnak a jogosult lakó-
+vagy tartózkodási helye szerint illetékes Regionális Igazgatósága a jogosult, vagy – amennyiben a jogosult nevében
+az ellátás megállapítása iránti kérelmet a törvényes képviseletét ellátó személy nyújtotta be – a jogosult 16. életévének
+betöltéséig a törvényes képviselő pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja, vagy postai
+utalványon folyósítja.
+(2) A családtámogatási kifizetőhely a családtámogatási ellátások jogosult részére történő kifizetéséről – ide nem értve
+az anyasági támogatást, továbbá a természetben nyújtott családi pótlékot és a jogosultnak való folyósítása
+tekintetében felfüggesztett iskoláztatási támogatást – a munkabér kifizetésével megegyező módon gondoskodik.”
+3. § (1) A Cstr. 5. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A családi pótlék megállapítása iránti kérelmet)
+„c) a családi pótlékra a Cst. 7. § (2) bekezdésében, valamint 8. § (3) bekezdésében foglaltak szerint saját jogán jogosult
+személynek a 7. számú mellékletben”
+(meghatározott adattartalommal rendelkező formanyomtatványon kell benyújtani.)
+(2) A Cstr. 5. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+„(5) Az Igazgatóság a természetben nyújtott családi pótlék, valamint a jogosultnak való folyósítása tekintetében
+felfüggesztett iskoláztatási támogatás családtámogatási folyószámlára történő utalásáról a tárgyhónapot követő
+hónap harmadik napjáig gondoskodik. Az első tárgyhónap a természetbeni nyújtás, vagy a felfüggesztés kezdő
+időpontját magában foglaló hónap. Amennyiben a hónap harmadik napja szombat, vasárnap vagy munkaszüneti nap,
+a határidő az azt követő első munkanapon jár le.
+(6) A családi pótlékra jogosult személyében bekövetkezett változást, továbbá a családi pótlékra való jogosultság
+megszűnése esetén az erről szóló döntést az Igazgatóság közli a családi pótlék természetben történő nyújtását vagy
+a folyósítás tekintetében felfüggesztett iskoláztatási támogatás felfüggesztését elrendelő jegyzővel.”
+4. § A Cstr. 5/A. §-a helyébe a következő rendelkezés lép:
+„5/A. § (1) Az iskoláztatási támogatásra saját jogán a Cst. 8. § (3) bekezdés e) pontja szerint jogosult személynek
+az ellátás iránti kérelméhez csatolnia kell a szülője
+a) lakcímigazolványának másolatát,
+b) arra vonatkozó nyilatkozatát, hogy a kérelmező életvitelszerűen nem él a háztartásában.
+(2) Az (1) bekezdés szerinti személy a szülővel akkor nem él egy háztartásban, ha a lakcímük különböző. Lakcím
+az a bejelentett lakó- vagy tartózkodási hely, ahol a személy életvitelszerűen él.
+
+(3) A szülő (1) bekezdés b) pontja szerinti nyilatkozata hiányában a kérelmező a szülő lakcíme szerint illetékes
+települési önkormányzat jegyzőjétől hatósági bizonyítvány kiállítását kérheti arra vonatkozóan, hogy életvitelszerűen
+nem a szülő háztartásában él.”
+5. §
+A Cstr. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Amennyiben az a gyermek, aki után vagy aki részére a tárgyév augusztus hónapjára iskoláztatási támogatást
+folyósítottak, a tanulmányokat folytatók Oktatási Hivatal által közölt állományában nem szerepel, az Igazgatóság
+a 9. számú melléklet szerinti adattartalommal rendelkező formanyomtatványnak a jogosult részére történő
+megküldésével hiánypótlási felhívást bocsát ki a tanulmányok folytatásának igazolására.”
+6. §
+A Cstr. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Cst. 12. § (3) bekezdése szerinti egyedülállóság igazolására a családi pótlék iránti kérelemhez csatolni kell, illetve
+– a b) pont szerinti esetben – minden év február 28-áig be kell nyújtani
+a) tanulói, hallgatói jogviszony fennállása esetén a közoktatási, felsőoktatási intézmény erről szóló igazolását,
+b) a Cst. 12. § (3) bekezdés c) és d) pontja szerinti nyugellátás, rehabilitációs járadék, átmeneti járadék esetén
+a nyugdíjfolyósító szerv igazolását a nyugellátás formájáról és havi összegéről,
+c) a Cst. 12. § (3) bekezdés e) pontja szerinti szociális és egyéb ellátás esetén az ellátás megállapításáról szóló határozat
+másolatát vagy a folyósító szerv igazolását.”
+7. §
+A Cstr. 31. §-a a következő (2) bekezdéssel egészül ki:
+„(2) A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm.
+rendeletnek a tankötelezettség teljesítésével összefüggő módosításáról szóló 236/2010. (IX. 13.) Korm. rendelettel
+megállapított 7. § (2) bekezdését azon gyermek tekintetében is alkalmazni kell, aki után vagy részére 2010. augusztus
+hónapjára családi pótlékot folyósítottak.”
+8. §
+A Cstr.
+a)
+1. § (7) bekezdésében a „7. §-ának (5) bekezdése” szövegrész helyébe a „11. § (4) bekezdése” szöveg,
+b)
+4/B. § (4) bekezdés i) pontjában az „a Nemzetbiztonsági” szövegrész helyébe az „az Alkotmányvédelmi” szöveg,
+c)
+7/A. § (1) bekezdésében a „7. §-a (2) bekezdésében” szövegrész helyébe a „8. § (1) bekezdés b) pontjában” szöveg,
+d)
+8. § (1) bekezdésében a „12. §-ának ab) alpontja” szövegrész helyébe a „12. § (1) bekezdés a) pont ab) alpontja”
+szöveg,
+e)
+8. § (2) bekezdésében a „12. § b) pontja” szövegrész helyébe a „12. § (1) bekezdés b) pontja” szöveg,
+f)
+13. § (1) bekezdésében a „családi pótlékot” szövegrész helyébe az „iskoláztatási támogatást” szöveg,
+g)
+14. § (2) bekezdésében az „Az (1) bekezdés b) és d)–e) pontokban megjelölt esetben” szövegrész helyébe az
+„Az (1) bekezdés szerinti esetekben” szöveg,
+h)
+14. § (3) bekezdésében a „b) pontja” szövegrész helyébe az „a) pontja” szöveg
+lép.
+9. §
+(1) Hatályát veszti a Cstr. 9. § (4) bekezdése, valamint 15. §-a.
+(2) Hatályát veszti a Cstr. 31. § (2) bekezdése.
+10. §
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő harmadik napon lép hatályba.
+(2) A 9. § (2) bekezdése 2010. október 30-án lép hatályba.
+(3) Ez a rendelet 2010. november 1-jén hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

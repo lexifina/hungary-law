@@ -1,0 +1,506 @@
+# A Kormány 237/2010. (IX. 13.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 144. szám, 2010. szeptember 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0ae94f0a88a3cf7a089ee47bdf2bda58e98f5a72/dokumentumok/f39e6e84f630938d985515577930fd6e292fa4e1/letoltes)
+
+---
+
+A Kormány 237/2010. (IX. 13.) Korm. rendelete
+egyes gyermekvédelmi tárgyú kormányrendeletek módosításáról
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 68/A. § (3) bekezdésében, 162. §
+(1) bekezdés a), d) és r) pontjában,
+a 17–21. § tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés d)
+és n) pontjában
+kapott felhatalmazás alapján az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló
+149/1997. (IX. 10.) Korm. rendelet módosítása
+1. §
+A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet
+(a továbbiakban: Gyer.) 45. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az örökbe fogadni szándékozó személy a hozzá örökbefogadási szándékkal kihelyezett gyermek gondozásáról,
+tartásáról saját költségén köteles gondoskodni, azonban jogosult a gyermek után jogszabály alapján járó
+családtámogatási ellátások igénybevételére.”
+2. §
+A Gyer. 73. § (1) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+(A gyermektartásdíj megelőlegezéséről, továbbfolyósításáról és ismételt elrendeléséről szóló határozat rendelkező részének
+a 14. §-ban foglaltakon kívül tartalmaznia kell:)
+„b) a gyermektartásdíj megelőlegezésének időtartamát, megjelölve a jogosultság kezdő és várható befejező
+időpontját, azzal, hogy a gyermektartásdíj megelőlegezésének időtartama legfeljebb 36 hónap lehet,
+c) tájékoztatást a 74. § (1) bekezdésében foglaltakról,”
+3. §
+A Gyer. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A tárgyhónapra esedékes megelőlegezett gyermektartásdíjat a tárgyhónapot követő hónap 5. napjáig kell
+folyósítani, ideértve a jogosultság megszűnésének hónapjára a Gyvt. 24. § (7) bekezdése alapján járó megelőlegezett
+gyermektartásdíjat is.”
+4. §
+A Gyer. 91/A. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) A jegyző a Gyvt. 68/C. § (1) bekezdésében foglaltakra figyelemmel eseti gondnokul elsősorban a gyermek arra
+alkalmas más közeli hozzátartozóját, az óvodai és az iskolai gyermek- és ifjúságvédelmi felelőst, a védőnőt,
+a családsegítő szolgálat vagy a gyermekjóléti szolgálat családgondozóját, az átmeneti gondozást nyújtó intézmény
+családgondozóját, az átmeneti gondozást nyújtó intézmény szakmai munkakörben foglalkoztatott alkalmazottját
+vagy a polgármesteri hivatal – nem gyermekvédelmi, illetve gyámhatósági feladatokat ellátó – ügyintézőjét rendeli ki.
+A gyermekjóléti szolgálat, illetve az átmeneti gondozást nyújtó intézmény családgondozói közül lehetőség szerint
+olyan személyt kell eseti gondnokul kirendelni, aki a védelembe vétel során nem gondozza a családot.
+(7) Az eseti gondnokot tevékenységéért munkadíj nem illeti meg, indokolt és számlával igazolt kiadásainak költségét
+azonban az őt kirendelő jegyző megtéríti. A költségtérítés mértéke havonta nem haladhatja meg az adott gyermek
+után járó családi pótlék összegének 10%-át. A költségtérítés összege nem vonható le a családi pótlék összegéből.”
+5. §
+(1) A Gyer. 91/B. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
+(A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha
+a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza)
+„j) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a család helyzetét érintő lényeges körülmények
+megváltozása miatt bármikor kezdeményezheti a családi pótlék természetbeni formában történő nyújtásának
+felülvizsgálatát, felhívva a figyelmet a kérelem érdemi vizsgálat nélküli elutasításának a közigazgatási hatósági eljárás
+és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 30. § e) pontjában foglalt esetére,”
+(2) A Gyer. 91/B. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A kirendelt eseti gondnok folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak
+a gyermek szükségleteire történő felhasználásáról. A családi pótlék felhasználható különösen
+
+a) ruházat, tanszer, élelmiszer, tápszer, gyógyszer, gyógyászati segédeszköz, tanulóbérlet, a gyermek korának
+megfelelő készségfejlesztő eszközök természetbeni biztosítására,
+b) a gyermek lakhatási feltételeinek megteremtése érdekében közüzemi díjak kifizetésére, ideértve a hitelintézettel
+kötött lakáscélú kölcsönszerződésből, illetve abból átváltott szabad felhasználású kölcsönszerződésből eredő
+törlesztőrészletet, feltéve, hogy a családnak járó más támogatásokból ezek nem fedezhetők,
+c) gyermekétkeztetés térítési díjának befizetésére,
+d) a gyermek szabadideje hasznos eltöltésére.”
+6. § A Gyer. 91/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A jegyző a családi pótlék természetbeni formában történő nyújtásának indokoltságát felülvizsgálja
+a) hivatalból, ha
+aa) a gyermek a másik szülő szülői felügyelete vagy gyámság alá kerül,
+ab) a gyermekjóléti szolgálat, illetve a kirendelt eseti gondnok azt kezdeményezi,
+ac) a jegyzőnek hivatalos tudomása van a felülvizsgálat szükségességéről,
+b) a szülő vagy más törvényes képviselő kérelmére, ha a szülő vagy más törvényes képviselő a felülvizsgálatot a család
+helyzetét érintő lényeges körülmények megváltozása miatt kéri.”
+7. § A Gyer. 91/D. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek, egyidejűleg a § a következő
+(6)–(10) bekezdéssel egészül ki:
+„(4) Ha a jegyző illetékessége a családi pótlék természetbeni formában történő nyújtása alatt megszűnik, a jegyző
+haladéktalanul
+a) felhívja a kirendelt eseti gondnokot az elszámolásra,
+b) megküldi az ügyben keletkezett iratokat az illetékessé vált jegyzőnek és
+c) értesíti az illetékességváltozásról a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatóságát.
+(5) A jegyző az eseti gondnokot az elszámolás elfogadását követően határozatával felmenti, és határozatát közli
+az illetékessé vált jegyzővel. Az illetékessé vált jegyző a családi pótlék természetbeni formában történő nyújtásának
+szükségességét a 91/C. §-ban foglaltak szerint felülvizsgálja.
+(6) Illetékességváltozás esetén a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatósága első
+alkalommal az illetékességváltozásról szóló értesítés kézhezvételét követő második hónapra járó családi pótlékot
+utalja az illetékessé vált települési önkormányzat családtámogatási folyószámlájára. Eddig az időpontig a korábban
+illetékes jegyző gondoskodik az illetékessége szerinti családtámogatási folyószámlára utalt családi pótléknak és
+a korábbi eseti gondnok elszámolása eredményeként esetlegesen visszafizetett összegnek az újonnan kirendelt eseti
+gondnok felé történő kifizetéséről.
+(7) Az újonnan kirendelt eseti gondnok a (6) bekezdés szerint részére kifizetett összegről az őt kirendelő jegyzőnek
+számol el.
+(8) Az eseti gondnok az adott hónapban részére kifizetett családi pótlék felhasználásáról a következő hónap ötödik
+napjáig számol el az őt kirendelő jegyzőnek. A jegyző elfogadja az eseti gondnok elszámolását, ha
+az a pénzfelhasználási tervnek és a valóságnak megfelel.
+(9) Ha a jegyző azt állapítja meg, hogy az eseti gondnok elszámolása a valóságnak nem felel meg, vagy a családi
+pótléknak a pénzfelhasználási tervben foglaltaktól eltérő felhasználása miatt a gyermeket vagy családját kár érte,
+az eseti gondnokot határozatával haladéktalanul felmenti és gondoskodik a gyermek, fiatal felnőtt számára új eseti
+gondnok kirendeléséről.
+(10) A jegyző az eseti gondnokot a részére utolsó alkalommal kifizetett családi pótlékkal történt elszámolás
+elfogadását követően menti fel.”
+8. § A Gyer. XII. Fejezete a következő 91/F–91/L. §-sal és a 91/F. §-t megelőzően a következő alcímmel egészül ki:
+„Az iskoláztatási támogatás folyósításának felfüggesztésére vonatkozó általános szabályok
+91/F. § Ha a közoktatási intézmény igazgatója jelzi a védelembe vételi eljárás lefolytatására illetékes jegyzőnek, hogy
+a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanévben elérte a tizet, a jegyző
+végzést hoz, amelyben tájékoztatja az iskoláztatási támogatás jogosultját arról, hogy az adott tanévben igazolatlanul
+mulasztott ötvenedik kötelező tanórai foglalkozás után elrendeli az iskoláztatási támogatás teljes összege
+folyósításának felfüggesztését (a továbbiakban: iskoláztatási támogatás felfüggesztése), valamint védelembe nem
+vett gyermek esetén a gyermek védelembe vételét.
+
+91/G. § (1) A közoktatási intézmény igazgatója jelzi a védelembe vételi eljárás lefolytatására illetékes jegyzőnek, ha
+a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanévben elérte az ötvenet.
+A jelzéssel egyidejűleg a közoktatási intézmény igazgatója megküldi a jegyzőnek a tankötelezettség nem
+teljesítésének okait és a tankötelezettség teljesítésének előmozdítására vonatkozó javaslatát tartalmazó írásbeli
+véleményét.
+(2) A jegyző a közoktatási intézmény igazgatójának jelzése alapján – függetlenül attól, hogy a 91/F. § szerinti
+tájékoztatásra sor került-e – az iskoláztatási támogatás felfüggesztése és védelembe nem vett gyermek esetén
+a gyermek védelembe vétele iránt hivatalból megindítja az eljárást. Az eljárásban 15 munkanapon belül kell döntést
+hozni.
+(3) A jegyző az iskoláztatási támogatás felfüggesztését határozatlan időre rendeli el. A határozatban az iskoláztatási
+támogatás felfüggesztésének kezdő időpontjaként a döntést követő második hónap első napját kell megjelölni.
+(4) Az iskoláztatási támogatás felfüggesztésének időtartama alatt a gyermek után járó iskoláztatási támogatást
+– az (5) bekezdésben foglalt kivétellel – a családtámogatási folyószámlán kell gyűjteni.
+(5) Ha az iskoláztatási támogatást rendszeres gyermekvédelmi kedvezményben részesülő gyermekre tekintettel
+állapították meg, a felfüggesztés időtartama alatt az iskoláztatási támogatás teljes összegét természetbeni formában
+kell a gyermek számára nyújtani.
+(6) A felfüggesztés megszüntetését követően a felfüggesztés időtartama alatt a családtámogatási folyószámlán
+összegyűlt iskoláztatási támogatás teljes összegét – a felfüggesztés időtartamával megegyező számú hónapra
+elosztva – havi részletekben, természetbeni formában kell a gyermek számára nyújtani.
+91/H. § (1) Az iskoláztatási támogatás természetbeni formában történő nyújtására, akár az iskoláztatási támogatás
+felfüggesztésével egyidejűleg, akár azt követően kerül rá sor, a 91/B. § (7) bekezdését kell alkalmazni.
+(2) Az iskoláztatási támogatás természetbeni formájának meghatározásánál figyelemmel kell lenni a család jövedelmi
+és vagyoni helyzetére, a gyermek tényleges szükségleteire, a szülő vagy más törvényes képviselő, a korlátozottan
+cselekvőképes gyermek, a gyermekjóléti szolgálat és a közoktatási intézmény véleményére, továbbá a családnak járó
+szociális és gyermekvédelmi ellátásokra, támogatásokra, valamint azok céljára. A felfüggesztett iskoláztatási
+támogatás nem fordítható a család számára egyéb jogcímen nyújtható szociális és gyermekvédelmi ellátások,
+támogatások kiváltására.
+(3) Az iskoláztatási támogatás természetbeni formában történő nyújtását a jegyző által kirendelt eseti gondnok
+biztosítja.
+(4) Az eseti gondnok személyére és díjazására a 91/A. § (6) és (7) bekezdésében foglaltakat kell alkalmazni, azzal, hogy
+az óvodai gyermek- és ifjúságvédelmi felelős eseti gondnoknak nem rendelhető ki.
+(5) Az eseti gondnok elszámolására és felmentésére – a 91/J. § (2) bekezdés b) és c) pontjában foglalt esetek kivételével
+– a 91/D. § (8)–(10) bekezdését kell alkalmazni.
+91/I. § (1) Az iskoláztatási támogatás felfüggesztéséről szóló határozat ellen fellebbezés 5 munkanapon belül
+nyújtható be.
+(2) Az iskoláztatási támogatás felfüggesztéséről szóló határozat elleni fellebbezést 10 munkanapon belül kell elbírálni.
+(3) Ha a fellebbezési eljárásban az igazolatlanul mulasztott kötelező tanórai foglalkozások tényét vagy számát vitatják,
+a szociális és gyámhivatal megkeresi a közoktatási intézmény igazgatóját, hogy 8 napon belül nyilatkozzon
+a kérdésben.
+(4) Az iskoláztatási támogatás felfüggesztéséről szóló határozat elleni fellebbezést elbíráló határozatban rendelkezni
+kell – figyelemmel a 91/G. § (3) bekezdésében foglaltakra – az iskoláztatási támogatás felfüggesztésének új kezdő
+időpontjáról, valamint a felülvizsgálat új időpontjáról.
+(5) A jegyző az iskoláztatási támogatás felfüggesztéséről szóló, jogerősítési záradékkal ellátott határozatot a jogerőre
+emelkedést követő 5 munkanapon belül közli a Magyar Államkincstárnak az iskoláztatási támogatást folyósító
+regionális igazgatóságával, egyidejűleg – ha a települési önkormányzat nem rendelkezik még családtámogatási
+folyószámlával – megküldi az iskoláztatási támogatást folyósító regionális igazgatóság részére a családtámogatási
+folyószámla megnyitásához szükséges számla törzsadat bejelentő nyomtatványt és a jegyző aláírási címpéldányát.
+(6) A jegyző fennálló védelembe vétel esetén jogerős határozatát közli a kirendelt családgondozóval, egyidejűleg
+felhívja az egyéni gondozási-nevelési terv felülvizsgálatára és annak 22 munkanapon belül történő megküldésére.
+Az iskoláztatási támogatás felfüggesztésével érintett gyermek egyéni gondozási-nevelési tervének tartalmaznia kell
+a tankötelezettség teljesítésének előmozdítása érdekében szükséges feladatokat, így különösen a közoktatási
+intézményben igénybe vehető, a gyermeknek a felzárkóztatását célzó foglalkozásokon, fejlesztő foglalkoztatáson,
+képesség-kibontakoztató felkészítésen való részvételének biztosítására irányuló intézkedéseket.
+
+91/J. § (1) A jegyző az iskoláztatási támogatás felfüggesztésének szükségességét hivatalból felülvizsgálja
+a) 3 tanítási hónapot magában foglaló időszakonként, azzal, hogy a felülvizsgálattal érintett időszak első napja
+a közoktatási intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése kiállítását követő nap,
+b) a tanév lezárását követő 22 munkanapon belül,
+c) ha a gyermek a másik szülő szülői felügyelete vagy gyámság alá kerül,
+d) ha a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították vagy megszüntették,
+e) illetékességváltozás esetén.
+(2) A jegyző megszünteti az iskoláztatási támogatás felfüggesztését, ha a gyermek
+a) a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul nem mulasztott, vagy
+b) a gyermek tankötelezettsége megszűnt, vagy
+c) a gyermek védelembe vételét családba fogadása, ideiglenes hatályú elhelyezése, nevelésbe vétele vagy
+szabadságvesztésének, javítóintézeti nevelésének elrendelése miatt meg kell szüntetni.
+(3) Az iskoláztatási támogatás megszüntetésével egyidejűleg a jegyző elrendeli
+a) a (2) bekezdés b) pontja szerinti esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak
+egy összegben, a gyermek, fiatal felnőtt számára természetbeni formában történő nyújtását,
+b) a (2) bekezdés c) pontja szerinti esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak
+ba) gyámhatósági fenntartásos betétben való elhelyezése érdekében a gyámhivatal megkeresését vagy
+bb) egy összegben, a gyermek, fiatal felnőtt számára természetbeni formában történő nyújtását.
+(4) A (2) bekezdés b) és c) pontja szerinti esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás
+felhasználása módjának meghatározásához a jegyző meghallgatja
+a) a gyermeket, fiatal felnőttet és
+b) a szülőt vagy más törvényes képviselőt, kivéve, ha a gyermek, fiatal felnőtt tankötelezettsége megszűnésekor saját
+jogán volt jogosult családi pótlékra.
+(5) A (3) bekezdés a) pontja és b) pont bb) alpontja szerinti esetben az iskoláztatási támogatás természetbeni formában
+történő nyújtásának minősül a 91/B. § (7) bekezdésén kívül a gyermek, fiatal felnőtt életkezdését segítő képzés,
+tanfolyam díjához való hozzájárulás is.
+(6) A jegyző a (3) bekezdés a) pontja és b) pont bb) alpontja szerinti esetben a gyermek, fiatal felnőtt számára eseti
+gondnokot rendel, és rendelkezik a felfüggesztés időtartama alatt a családtámogatási folyószámlán összegyűlt
+iskoláztatási támogatás teljes összegének az eseti gondnok részére történő kifizetéséről.
+(7) Az eseti gondnok a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás kifizetését követő
+3 hónapon belül gondoskodik annak a határozatban szereplő módon történő felhasználásáról.
+(8) Az eseti gondnok az iskoláztatási támogatás felhasználását követően 5 munkanapon belül elszámol a jegyzőnek.
+A jegyző az eseti gondnokot az elszámolását követően menti fel.
+91/K. § (1) A jegyző az iskoláztatási támogatás felfüggesztésének megszüntetéséről szóló, jogerősítési záradékkal
+ellátott határozatot a jogerőre emelkedést követő 5 munkanapon belül közli a Magyar Államkincstárnak
+az iskoláztatási támogatást folyósító regionális igazgatóságával.
+(2) Az iskoláztatási támogatás felfüggesztésének megszüntetését követően – kivéve a 91/J. § (2) bekezdés b) és
+c) pontja szerinti eseteket – a gyermek védelembe vételét még legalább az iskoláztatási támogatás felfüggesztésének
+időtartamával megegyező ideig, legfeljebb azonban a gyermek nagykorúvá válásáig fenn kell tartani. Ennek során
+a családgondozó figyelemmel kíséri az egyéni gondozási-nevelési tervben a gyermek tankötelezettsége teljesítésének
+előmozdítása érdekében meghatározott feladatok teljesülését.
+91/L. § (1) Az iskoláztatási támogatás felfüggesztése során, ideértve a 91/F. § szerinti végzés kibocsátását is, a jegyző és
+a Magyar Államkincstárnak az iskoláztatási támogatást folyósító regionális igazgatósága között elektronikus úton
+történik az adategyeztetés, különösen az iskoláztatási támogatásra jogosult személyéről, az iskoláztatási támogatás
+összegéről és az iskoláztatási támogatást folyósító szervről.
+(2) Illetékességváltozás esetén a 91/D. § (6) és (7) bekezdését kell alkalmazni.”
+9. §
+A Gyer. XII. Fejezete a következő 91/M–91/O. §-sal és a 91/M. §-t megelőzően a következő alcímmel egészül ki:
+„Az iskoláztatási támogatás folyósításának felfüggesztése rendszeres gyermekvédelmi kedvezményben
+nem részesülő gyermek esetén
+91/M. § (1) Rendszeres gyermekvédelmi kedvezményben nem részesülő gyermek esetén a jegyző a közoktatási
+intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése megérkezését követően haladéktalanul megkeresi
+a gyermekjóléti szolgálatot, hogy 10 munkanapon belül vegye fel a kapcsolatot a családdal. A jegyző megkeresésével
+
+egyidejűleg megküldi a gyermekjóléti szolgálatnak a közoktatási intézmény vezetőjének a tankötelezettség nem
+teljesítésének okait és a tankötelezettség teljesítésének előmozdítására vonatkozó javaslatát tartalmazó írásbeli
+véleményét.
+(2) A jegyző a gyermekjóléti szolgálat megkeresését és védelembe nem vett gyermek esetén a védelembe vételi
+eljárás lefolytatását követően elrendeli az iskoláztatási támogatás felfüggesztését és a gyermek védelembe vételét.
+A határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül –
+a 87. §-ban foglaltakon kívül tartalmazza
+a) az iskoláztatási támogatásra jogosult szülő vagy más törvényes képviselő személyazonosító adatait, az iskoláztatási
+támogatást folyósító szerv megnevezését,
+b) az iskoláztatási támogatás felfüggesztésének kezdő időpontját,
+c) a védelembe vétel elrendelését, ha erre korábban nem került sor,
+d) a gyermekjóléti szolgálat és a közoktatási intézmény igazgatójának felkérését a gyermek tankötelezettsége
+teljesítésének előmozdítására,
+e) a felülvizsgálat időpontját,
+f) a szülő vagy más törvényes képviselő tájékoztatását az igénybe vehető szociális és gyermekvédelmi ellátásokról,
+támogatásokról, valamint azok igénybevételének módjáról,
+g) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy az iskoláztatási támogatás felfüggesztése
+megszüntetésének feltétele a gyermek tankötelezettségének teljesítése,
+h) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy
+ha) az iskoláztatási támogatás felfüggesztése a döntést követő második hónap első napján kezdődik meg,
+hb) az iskoláztatási támogatás felfüggesztésének megszüntetése esetén a megszüntetést követő második hónapra
+járó iskoláztatási támogatás kerül ismételten a jogosult számára folyósításra.
+91/N. § (1) A jegyző a felülvizsgálati eljárás során
+a) tájékoztatást kér a közoktatási intézmény igazgatójától arról, hogy
+aa) a felülvizsgálattal érintett időszakban a gyermek hány kötelező tanórai foglalkozást mulasztott igazolatlanul és
+ab) a közoktatási intézmény milyen intézkedésekkel segítette elő a gyermek tankötelezettségének teljesítését,
+b) kikéri a családgondozó véleményét.
+(2) A felülvizsgálati eljárás eredményeként
+a) ha a gyermek a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul mulasztott,
+aa) és rendszeres gyermekvédelmi kedvezményre vált jogosulttá, a jegyző elrendeli az iskoláztatási támogatás további
+felfüggesztését azzal, hogy az iskoláztatási támogatást természetbeni formában kell a gyermek számára nyújtani, vagy
+ab) a jegyző elrendeli az iskoláztatási támogatás változatlan módon történő további felfüggesztését, vagy
+b) ha a gyermek a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul nem mulasztott,
+a jegyző elrendeli az iskoláztatási támogatás felfüggesztésének megszüntetését.
+(3) A (2) bekezdés a) pont aa) alpontja és b) pontja szerinti esetben az iskoláztatási támogatás természetbeni formában
+történő nyújtása érdekében a jegyző megkeresi a gyermekjóléti szolgálatot, hogy 10 munkanapon belül készítse el
+a családtámogatási folyószámlán eddig összegyűlt vagy ezt követően arra átutalt iskoláztatási támogatás
+felhasználására vonatkozó pénzfelhasználási tervet és tegyen javaslatot az eseti gondnok személyére.
+(4) A jegyző a gyermekjóléti szolgálat javaslatának beérkezését követően tárgyalást tart,
+a) amelyre idézi a gyermeket gondozó szülőt vagy más törvényes képviselőt,
+b) amelynek időpontjáról értesíti
+ba) a korlátozottan cselekvőképes gyermeket,
+bb) a gyermekjóléti szolgálatot,
+bc) védelembe vett gyermek esetén a kirendelt családgondozót,
+bd) a közoktatási intézmény igazgatóját,
+be) szükség esetén a gyermekvédelmi jelzőrendszer bb)–bd) alpont alá nem tartozó más tagját.
+(5) A felülvizsgálat eredményéről szóló határozat a (2) bekezdés a) pont aa) alpontja szerinti esetben a 14. §-ban
+foglaltakon kívül tartalmazza
+a) – a pénzfelhasználási terv alapján – az iskoláztatási támogatás természetbeni formában történő felhasználásának
+módját,
+b) az iskoláztatási támogatás természetbeni formában történő felhasználását biztosító eseti gondnok kirendelését,
+feladatát, valamint tájékoztatását a díjazására, az elszámolására és a felmentésére vonatkozó rendelkezésekről,
+c) a szülő vagy más törvényes képviselő kötelezését az eseti gondnokkal való együttműködésre.
+
+(6) A (2) bekezdés b) pontja szerinti esetben az iskoláztatási támogatás felfüggesztésének megszüntetéséről szóló
+határozat a 14. §-ban foglaltakon kívül tartalmazza
+a) – a pénzfelhasználási terv alapján – az iskoláztatási támogatás természetbeni formában történő felhasználásának
+módját,
+b) az iskoláztatási támogatás természetbeni formában történő felhasználását biztosító eseti gondnok kirendelését,
+feladatát, valamint tájékoztatását a díjazására, az elszámolására és a felmentésére vonatkozó rendelkezésekről,
+c) a szülő vagy más törvényes képviselő kötelezését az eseti gondnokkal való együttműködésre,
+d) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a megszüntetést követő második hónapra járó
+iskoláztatási támogatás kerül ismételten számára folyósításra,
+e) a gyermek védelembe vételének a 91/K. § (2) bekezdése szerinti fenntartását.
+(7) A (2) bekezdés b) pontja szerinti esetben a jegyző a családtámogatási folyószámlán összegyűlt iskoláztatási
+támogatásnak a 91/G. § (6) bekezdése szerinti havi részleteit a felfüggesztés időtartamával megegyező számú
+hónapig, minden hónap 5. napjáig kifizeti az eseti gondnok részére.
+91/O. § (1) Ha a jegyző illetékessége
+a) az iskoláztatási támogatás felfüggesztése alatt szűnik meg, a jegyző haladéktalanul
+aa) megküldi az ügyben keletkezett iratokat az illetékessé vált jegyzőnek és
+ab) értesíti az illetékességváltozásról a Magyar Államkincstárnak az iskoláztatási támogatást folyósító regionális
+igazgatóságát,
+b) az iskoláztatási támogatás felfüggesztésének megszüntetését követően, a családtámogatási folyószámlán
+összegyűlt iskoláztatási támogatás természetbeni formában történő nyújtásának időtartama alatt szűnik meg,
+a jegyző haladéktalanul
+ba) felhívja a kirendelt eseti gondnokot az elszámolásra,
+bb) megküldi az ügyben keletkezett iratokat az iskoláztatási támogatás felfüggesztésére illetékessé vált jegyzőnek,
+bc) értesíti az illetékességváltozásról a Magyar Államkincstárnak az iskoláztatási támogatást folyósító regionális
+igazgatóságát.
+(2) A jegyző az eseti gondnokot az elszámolás elfogadását követően határozatával felmenti, és határozatát közli
+az illetékessé vált jegyzővel.”
+10. § A Gyer. XII. Fejezete a következő 91/P–91/R. §-sal és a 91/P. §-t megelőzően a következő alcímmel egészül ki:
+„Az iskoláztatási támogatás folyósításának felfüggesztése rendszeres gyermekvédelmi kedvezményben
+részesülő gyermek esetén
+91/P. § (1) Rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén a jegyző a közoktatási intézmény
+igazgatójának 91/G. § (1) bekezdése szerinti jelzése megérkezését követően haladéktalanul megkeresi a gyermekjóléti
+szolgálatot, hogy 10 munkanapon belül
+a) vegye fel a kapcsolatot a családdal,
+b) készítse el a felfüggesztett iskoláztatási támogatás felhasználására vonatkozó pénzfelhasználási tervet és
+c) tegyen javaslatot az eseti gondnok személyére.
+(2) A jegyző megkeresésével egyidejűleg megküldi a gyermekjóléti szolgálatnak a közoktatási intézmény vezetőjének
+a tankötelezettség nem teljesítésének okait és a tankötelezettség teljesítésének előmozdítására vonatkozó javaslatát
+tartalmazó írásbeli véleményét.
+(3) A jegyző a gyermekjóléti szolgálat javaslatának beérkezését követően tárgyalást tart,
+a) amelyre idézi a gyermeket gondozó szülőt vagy más törvényes képviselőt,
+b) amelynek időpontjáról értesíti
+ba) a korlátozottan cselekvőképes gyermeket,
+bb) a gyermekjóléti szolgálatot,
+bc) védelembe vett gyermek esetén a kirendelt családgondozót,
+bd) a közoktatási intézmény igazgatóját,
+be) szükség esetén a gyermekvédelmi jelzőrendszer bb)–bd) alpont alá nem tartozó más tagját.
+(4) A jegyző a tárgyalás megtartását és védelembe nem vett gyermek esetén a védelembe vételi eljárás lefolytatását
+követően elrendeli az iskoláztatási támogatás felfüggesztését és a gyermek védelembe vételét. A határozat
+rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban
+foglaltakon kívül tartalmazza
+
+a) az iskoláztatási támogatásra jogosult szülő vagy más törvényes képviselő személyazonosító adatait, az iskoláztatási
+támogatást folyósító szerv megnevezését,
+b) az iskoláztatási támogatás felfüggesztésének kezdő időpontját,
+c) – a pénzfelhasználási terv alapján – a felfüggesztett iskoláztatási támogatás felhasználásának módját,
+d) az iskoláztatási támogatás természetbeni felhasználását biztosító eseti gondnok kirendelését, feladatát, valamint
+tájékoztatását a díjazására, az elszámolására és a felmentésére vonatkozó rendelkezésekről,
+e) a szülő vagy más törvényes képviselő kötelezését az eseti gondnokkal való együttműködésre,
+f) a védelembe vétel elrendelését, ha erre korábban nem került sor,
+g) a gyermekjóléti szolgálat és a közoktatási intézmény igazgatójának felkérését a gyermek tankötelezettsége
+teljesítésének előmozdítására,
+h) a felülvizsgálat időpontját,
+i) a szülő vagy más törvényes képviselő tájékoztatását az igénybe vehető szociális és gyermekvédelmi ellátásokról,
+támogatásokról, valamint azok igénybevételének módjáról,
+j) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy az iskoláztatási támogatás felfüggesztése
+megszüntetésének feltétele a gyermek tankötelezettségének teljesítése,
+k) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy
+ka) az iskoláztatási támogatás felfüggesztése a döntést követő második hónap első napján kezdődik meg,
+kb) az iskoláztatási támogatás felfüggesztésének megszüntetése esetén a megszüntetést követő második hónapra
+járó iskoláztatási támogatás kerül ismételten a jogosult számára folyósításra.
+(5) A jegyző a családtámogatási folyószámlára érkező iskoláztatási támogatást havonta, a családtámogatási
+folyószámlára történő átutalását követően legkésőbb 5 munkanapon belül kifizeti az eseti gondnoknak.
+91/Q. § (1) A jegyző a felülvizsgálati eljárás során
+a) tájékoztatást kér a közoktatási intézmény igazgatójától arról, hogy
+aa) a felülvizsgálattal érintett időszakban a gyermek hány kötelező tanórai foglalkozást mulasztott igazolatlanul és
+ab) a közoktatási intézmény milyen intézkedésekkel segítette elő a gyermek tankötelezettségének teljesítését,
+b) kikéri a családgondozó és a kirendelt eseti gondnok véleményét,
+c) felhívja a gyermekjóléti szolgálatot, hogy amennyiben az iskoláztatási támogatás felhasználási módjának
+megváltoztatását szükségesnek tartja, 10 munkanapon belül gondoskodjon az új pénzfelhasználási terv elkészítéséről
+és megküldéséről.
+(2) A felülvizsgálati eljárás eredményeként
+a) ha a gyermek a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul mulasztott,
+aa) és rendszeres gyermekvédelmi kedvezményre való jogosultsága megszűnt, a jegyző elrendeli az iskoláztatási
+támogatás további felfüggesztését azzal, hogy az iskoláztatási támogatást a családtámogatási folyószámlán kell
+gyűjteni, vagy
+ab) a jegyző elrendeli az iskoláztatási támogatás változatlan módon történő további felfüggesztését, vagy
+ac) a jegyző elrendeli az iskoláztatási támogatás további felfüggesztését – az új pénzfelhasználási terv alapján –
+a felhasználási módjának és szükség esetén az eseti gondnok személyének megváltoztatásával,
+b) ha a gyermek a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul nem mulasztott,
+a jegyző elrendeli az iskoláztatási támogatás felfüggesztésének megszüntetését.
+(3) Az iskoláztatási támogatás felfüggesztésének megszüntetéséről szóló határozat a 14. §-ban foglaltakon kívül
+tartalmazza
+a) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a megszüntetést követő második hónapra járó
+iskoláztatási támogatás kerül ismételten számára folyósításra,
+b) a gyermek védelembe vételének a 91/K. § (2) bekezdése szerinti fenntartását.
+91/R. § (1) Ha a jegyző illetékessége az iskoláztatási támogatás felfüggesztése alatt megszűnik, a jegyző haladéktalanul
+a) felhívja a kirendelt eseti gondnokot az elszámolásra,
+b) megküldi az ügyben keletkezett iratokat az iskoláztatási támogatás felfüggesztésére illetékessé vált jegyzőnek,
+c) értesíti az illetékességváltozásról a Magyar Államkincstárnak az iskoláztatási támogatást folyósító regionális
+igazgatóságát.
+(2) A jegyző az eseti gondnokot az elszámolás elfogadását követően határozatával felmenti, és határozatát közli
+az illetékessé vált jegyzővel.”
+
+11. §
+A Gyer. a következő 97/A. §-sal egészül ki:
+„97/A. § (1) A jegyző, a városi gyámhivatal, a rend őrség és a büntetés-végrehajtási intézet parancsnoksága által hozott
+ideiglenes hatályú elhelyezésről szóló határozat elleni fellebbezés 5 munkanapon belül nyújtható be.
+(2) A jegyző, a városi gyámhivatal, a rend őrség és a büntetés-végrehajtási intézet parancsnoksága által hozott
+ideiglenes hatályú elhelyezésről szóló határozat elleni fellebbezést a beutaló szerv székhelye szerint illetékes szociális
+és gyámhivatal bírálja el 10 munkanapon belül.”
+12. §
+(1) A Gyer. 167. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) Ha az ideiglenesen külföldön tartózkodó magyar állampolgárságú gyermek, várandós anya vagy gondnokolt
+Magyarországra történő azonnali hazatérése a gyermek, a méhmagzat vagy a gondnokolt védelme érdekében
+elengedhetetlen, a konzuli tisztviselő a külpolitikáért felelős miniszter útján értesíti a minisztert a szükséges ideiglenes
+intézkedés megtétele céljából, feltéve, ha a hazatérés más módon nem biztosítható.
+(5) A miniszter megkeresi a gyámhatóságot
+a) a gyermek saját családjába történő hazatérésének elősegítése, vagy ha ez nem lehetséges, a gyermekvédelmi
+intézkedés megtétele érdekében,
+b) a gondnokolt hazatérésének elősegítése, valamint ellátásának, személyi és vagyoni érdekvédelmének biztosítása
+céljából.”
+(2) A Gyer. 167. §-a a következő (7) és (8) bekezdéssel egészül ki:
+„(7) A (6) bekezdés b) pontja szerinti esetben a gyámhivatal a gyermek szükségleteihez igazodó gondozási hely
+kijelölése érdekében a gyermekvédelmi szakszolgálattól
+a) szakvéleményt kér, amely tartalmazza a gyermek személyiségállapotára, egészségi állapotára, neveltségi szintjére,
+sajátos szükségleteire vonatkozó megállapításokat és
+b) tájékoztatást kér az ideiglenes elhelyezés tapasztalatairól.
+(8) A (7) bekezdés szerinti szakvéleményt és tájékoztatást a gyermekvédelmi szakszolgálat a megkereséstől számított
+22 munkanapon belül megküldi a gyámhivatalnak. A (7) bekezdés szerinti szakvéleményt és tájékoztatást
+a gyámhivatal tájékoztatásul haladéktalanul megküldi a külképviseletnek és a miniszternek.”
+13. §
+A Gyer. a következő 167/A. §-sal egészül ki:
+„167/A. § (1) Ha a gyermeknek a származási országába, elsősorban saját családjába történő visszajuttatására lehetőség
+van, ennek elősegítésére a gyámhivatal repatriálási tervet készít.
+(2) A repatriálási terv előkészítése érdekében a gyámhivatal – a gyermek törvényes képviselőjének, a gyermek
+gondozási helyéül kirendelt intézmény vezetőjének, a gyermekvédelmi szakszolgálatnak, a külképviseletnek,
+a Bevándorlási és Állampolgársági Hivatalnak, valamint szükség szerint a Minisztériumnak a bevonásával – egyeztető
+tárgyalást tart, feltéve, hogy a gyermek legalább 3 hónapot eltöltött a magyar gyermekvédelmi rendszerben.
+Az egyeztető tárgyalást a gyámhivatal indokolt esetben hivatalos helyiségén kívül is megtarthatja.
+(3) Az egyeztető tárgyaláson elhangzottaknak megfelelően, illetve a gyámhivatal megkeresésére a gyermekvédelmi
+szakszolgálat felveszi a kapcsolatot a származási ország által megjelölt gyermekvédelmi szolgáltatóval, és
+tájékoztatást nyújt a gyermek jelenlegi helyzetéről, valamint tájékoztatást kér a gyermek családi hátteréről, várható
+gondozási helyéről. A gyermekvédelmi szakszolgálat a kapcsolatfelvételt követő 15 munkanapon belül értesíti
+a gyámhivatalt a kapcsolatfelvétel eredményéről és javaslatot tesz a repatriálási terv tartalmára.
+(4) A repatriálási terv tartalmazza
+a) azt, hogy a gyermek a származási országában saját családjába, a saját családjával való kapcsolattartást biztosító
+nevelőszülőhöz vagy gyermekotthonba kerül-e,
+b) a repatriálás előkészítésével és a gyermek repatriálásra való felkészítésével kapcsolatos feladatokat, az ezért felelős
+szerveket, személyeket és a feladatok elvégzésének határidejét,
+c) a gyermek repatriálásra való felkészítéséhez szükséges időtartam figyelembevételével a gyermek származási
+országába történő visszajuttatásának időpontját, amely nem lehet későbbi, mint a repatriálási terv elkészítésétől
+számított 45. munkanap, és
+d) a gyermek átadásának helyszínét, módját, az átadásban közreműködő személyeket.
+(5) A gyámhivatal a repatriálási tervet határozatába foglalja és megküldi a (2) bekezdés szerinti személyeknek.”
+
+14. § (1) A Gyer. 172. §-a a következő (2) bekezdéssel egészül ki:
+„(2) Az egyes gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 237/2010. (IX. 13.) Korm. rendelettel
+(a továbbiakban: Kr.) megállapított 91/A–91/D. §-t a Kr. hatálybalépését követően indult eljárásokban, a megismételt
+eljárásokban és a családi pótlék természetbeni formában történő nyújtásának a Kr. hatálybalépését követően indult
+felülvizsgálata során kell alkalmazni.”
+(2) A Gyer. 172. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A Kr.-rel megállapított 97. § (1)–(5) bekezdését és 97/A. §-t a 2010. szeptember 30-án folyamatban lévő ügyekben is
+alkalmazni kell.”
+15. § A Gyer.
+a) 5/A. § (3) bekezdés a) pontjában a „gyermekjóléti szolgálattól” szövegrész helyébe a „gyermekjóléti szolgálattól,
+a speciális gyermekotthontól, a javítóintézettől” szöveg,
+b) 5/A. § (4) bekezdésében a „büntetés-végrehajtási intézet” szövegrész helyébe a „büntetés-végrehajtási intézet,
+a javítóintézet” szöveg,
+c) 57. § (3) bekezdésében az „igazolni kell” szövegrész helyébe az „ennek tényét igazolni kell” szöveg,
+d) 68. § (3) bekezdésében a „Minisztériumnak” szövegrész helyébe a „miniszter által vezetett Minisztériumnak
+(a továbbiakban: Minisztérium)” szöveg,
+e) 91/B. § (1) bekezdés e) pontjában az „az önkormányzat nevére megnyitott családtámogatási folyószámlára”
+szövegrész helyébe az „a Gyvt. 68/A. § (2) bekezdése szerinti családtámogatási folyószámlára (a továbbiakban:
+családtámogatási folyószámla)” szöveg,
+f) 91/B. § (2) bekezdésében a „68/A.” szövegrész helyébe a „68/B.” szöveg, valamint a „12” szövegrész helyébe
+a „6” szöveg,
+g) 91/B. § (4) bekezdésében az „egyidejűleg megküldi a Gyvt. 68/A. § (5) bekezdése szerinti” szövegrész helyébe
+az „egyidejűleg – ha a települési önkormányzat nem rendelkezik még családtámogatási folyószámlával –
+megküldi a családi pótlékot folyósító regionális igazgatóság részére a” szöveg, valamint az „aláírási címpéldányt”
+szövegrész helyébe az „a jegyző aláírási címpéldányát” szöveg,
+h) 91/B. § (5) bekezdésében a „Magyar Államkincstár” szövegrész helyébe a „Magyar Államkincstárnak a családi
+pótlékot folyósító regionális igazgatósága” szöveg,
+i) 97. § (1), (3), (4) és (5) bekezdésében a „végzés” szövegrész helyébe a „határozat” szöveg,
+j) 97. § (2) bekezdésében a „végzést” szövegrész helyébe a „határozatot” szöveg,
+k) 136. § (2) bekezdésében a „68/B. §” szövegrész helyébe a „68/C. §” szöveg
+lép.
+16. § Hatályát veszti a Gyer.
+a) 15. § (1) bekezdésében a „meghatározott mértékének” szövegrész,
+b) 91/A. § (5) bekezdésében a „ , mértékének” szövegrész,
+c) 91/B. § (1) bekezdés b) pontja,
+d) 91/B. § (1) bekezdés d) pontjában az „amely lehet különösen gyermekétkeztetés térítési díjának befizetése, illetve
+a Gyvt. 68/B. §-a (2) bekezdésében foglaltak biztosítása,” szövegrész,
+e) 91/B. § (1) bekezdés i) pontja,
+f) 91/C. § (3) bekezdés a) pontjában a „ , mértékben” szövegrész,
+g) 91/C. § (3) bekezdés b) pontjában a „mértékének,” szövegrész,
+h) 91/C. § (4) bekezdésében az „ , illetve mértékének” szövegrész,
+i) 91/D. § (3) bekezdése,
+j) 148. § (3) bekezdésének második mondata.
+2. A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról,
+valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet
+módosítása
+17. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és
+illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Gyár.) 3. § (1) bekezdés k) pontja helyébe
+a következő rendelkezés lép:
+
+(A települési önkormányzat jegyzője)
+„k) dönt a családi pótlék természetbeni formában történő nyújtásáról és az iskoláztatási támogatás folyósításának
+felfüggesztéséről, valamint az ezen ellátások felhasználására kirendelt eseti gondnok elszámolásának elfogadásáról,”
+18. §
+A Gyár. 13. § c) pontja helyébe a következő rendelkezés lép:
+(A szociális és gyámhivatal)
+„c) másodfokú hatósági jogkört gyakorol a települési önkormányzat jegyzőjének, a városi gyámhivatalnak
+a gyermekvédelmi és gyámügyi hatósági ügyeiben, valamint a jegyző, a városi gyámhivatal, a rend őrség és
+a büntetés-végrehajtási intézet parancsnoksága által elrendelt ideiglenes hatályú elhelyezés tekintetében, továbbá
+a gyermekvédelmi jelzőrendszer elégtelen működése esetén megteszi a Gyvt. 17. § (4) és (5) bekezdésében foglalt
+intézkedéseket,”
+19. §
+A Gyár. 23. § (13) bekezdése helyébe a következő rendelkezés lép:
+„(13) A családi pótlék természetbeni formában történő nyújtásáról és az iskoláztatási támogatás folyósításának
+felfüggesztéséről az a jegyző dönt, aki a védelembe vételi eljárás lefolytatására illetékes.”
+20. §
+A Gyár. a következő 25. §-sal egészül ki:
+„25. § Az egyes gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 237/2010. (IX. 13.) Korm. rendelettel
+megállapított 13. § c) pontját a 2010. szeptember 30-án folyamatban lévő ügyekben is alkalmazni kell.”
+21. §
+A Gyár. 23. § (1) bekezdésében a „dönt annak felülvizsgálatáról” szövegrész helyébe a „dönt a védelembe vételhez
+kapcsolódó kérdésekről, a felülvizsgálatról” szöveg lép.
+3. Záró rendelkezések
+22. §
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő harmadik napon lép hatályba.
+(2) A 11. §, a 14. § (2) bekezdése, a 15. § i) és j) pontja, a 18. § és a 20. § 2010. szeptember 30-án lép hatályba.
+(3) Ez a rendelet 2010. október 1-jén hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
