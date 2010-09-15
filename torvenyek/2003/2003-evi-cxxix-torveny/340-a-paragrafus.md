@@ -4,4 +4,4 @@
 
 (3) Az (1) bekezdés szerinti perindításról a Közbeszerzési Döntőbizottság a Közbeszerzések Tanácsa honlapján tájékoztatást tesz közzé. A tájékoztatás tartalmazza az adott ügy megnevezését (adott esetben a kapcsolódó közbeszerzési eljárás megjelölését), az ügy érdemében hozott határozat megjelölését, a keresetlevél benyújtásának időpontját, valamint a peres felek megnevezését.
 
-(4) Az e törvény szerinti jogkövetkezmények alkalmazása kizárja a Ptk. 200. §-a (2) bekezdésének alkalmazását a közbeszerzésre, illetőleg a közbeszerzési eljárásra vonatkozó jogszabályokba ütköző módon megkötött szerződés semmisségének megállapítása tekintetében.
+(4) Az e törvény szerinti jogkövetkezmények alkalmazása nem zárja ki a Ptk. 200. §-a (2) bekezdésének alkalmazását a közbeszerzésre, illetőleg a közbeszerzési eljárásra vonatkozó jogszabályokba ütköző módon megkötött szerződés semmisségének megállapítása tekintetében.

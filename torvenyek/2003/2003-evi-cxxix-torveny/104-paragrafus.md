@@ -1,7 +1,9 @@
 ## A részvételi jelentkezés
 
-104. § (1) A részvételre jelentkezőnek a részvételi felhívásban, illetőleg a részvételi dokumentációban meghatározott tartalmi és formai követelményeknek megfelelően kell részvételi jelentkezését elkészítenie és benyújtania. Az ajánlatkérő formai követelményt legfeljebb a megfelelő részvételi jelentkezés benyújtásához ténylegesen szükséges feltételek mértékéig írhat elő.
+104. § (1) A részvételre jelentkezésre a 70. § (1) bekezdését, valamint a 70. § (4)–(8) bekezdését, továbbá a 70/A. §-t kell megfelelően alkalmazni, a 70. § (8) bekezdését és a 70/A. § (3) bekezdését a 110. § (3) bekezdése szerinti adatokra vonatkozóan kell alkalmazni.
 
-(2) Sem a részvételi, sem az ajánlattételi szakaszban nem vehet részt, aki a kizáró okok hatálya alá tartozik. A részvételre jelentkezőnek a kizáró okokkal kapcsolatban a 63. § és a 63/A. § (4) bekezdése szerint kell megfelelően eljárnia.
+(2) A részvételre jelentkezőnek a kizáró okokkal kapcsolatban a 63. § szerint kell megfelelően eljárnia, az igazolásokat a részvételi jelentkezésben kell beadni.
 
 (3) A jelentkező köteles továbbá – a részvételi felhívásban előírt módon – igazolni a szerződés teljesítéséhez szükséges pénzügyi és gazdasági, valamint műszaki, illetőleg szakmai alkalmasságát, és az erre vonatkozó igazolásokat a részvételi jelentkezésben kell megadnia.
+
+(4) A 71. §-t a részvételi jelentkezés és a részvételre jelentkező tekintetében megfelelően alkalmazni kell.

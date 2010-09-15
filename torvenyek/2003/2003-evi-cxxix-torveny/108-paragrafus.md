@@ -1,4 +1,4 @@
-108. § (1) Az ajánlatkérő a részvételi határidő lejártáig módosíthatja a részvételi felhívásban, illetőleg a részvételi dokumentációban meghatározott feltételeket. A módosított feltételekről e határidő lejárta előtt új hirdetményt kell közzétenni, amelyben új részvételi határidőt kell megállapítani. A határidő ebben az esetben sem lehet a 107. § (1) bekezdésében foglaltaknál rövidebb.
+108. § (1) A részvételi felhívás, illetőleg részvételi dokumentáció módosítására a 76. § (1)–(2) bekezdését kell megfelelően alkalmazni, az ajánlattételi határidő helyett a részvételi határidőt kell érteni.
 
 (2) Az ajánlatkérő a részvételi felhívást a részvételi határidő lejártáig visszavonhatja, amiről e határidő lejárta előtt hirdetményt kell feladni közzététel céljából, és egyidejűleg a részvételre jelentkezőket írásban kell tájékoztatni.
 

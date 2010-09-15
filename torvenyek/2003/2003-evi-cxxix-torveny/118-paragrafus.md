@@ -6,4 +6,4 @@
 
 (4) Az eredményhirdetéskor és azt követően nem lehet üzleti titokra hivatkozással olyan adat nyilvánosságra hozatalát korlátozni vagy megtiltani, amely a 106. § (2) bekezdése körébe tartozik, illetőleg amelyet a részvételi jelentkezés elbírálása során – döntése meghozatalával összefüggésben – az ajánlatkérő figyelembe vett.
 
-(5) Az előzetes vitarendezésre vonatkozó rendelkezések (96/B. és 96/C. §) megfelelőn alkalmazandók.
+(5) Az előzetes vitarendezésre vonatkozó rendelkezések (96/A. §) megfelelőn alkalmazandók.

@@ -10,6 +10,6 @@ c) a 163. §-ban meghatározott tevékenységen kívüli tevékenységet folytat
 
 (2) Építési koncesszió esetében a 8. cím szerinti különös szabályok is alkalmazandóak.
 
-(3) Építési beruházás, építési koncesszió beszerzése esetében, ha a közbeszerzés értéke eléri vagy meghaladja a közösségi értékhatárok felét, az ajánlatkérőnek a harmadik rész helyett a IV. fejezet szerint kell eljárnia, azzal az eltéréssel, hogy az eljárás során a hirdetmények megküldésére és közzétételére a 246–248. § rendelkezéseit kell alkalmazni.
+(3)
 
 (4)

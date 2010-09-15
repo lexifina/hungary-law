@@ -6,17 +6,17 @@ a) a 29. § szerinti kivételek esetében azzal, hogy az (1) bekezdésének a) p
 
 b) tankönyv beszerzésére, amennyiben arra a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 
-c) a 4. számú melléklet szerinti jogi szolgáltatások, a hivatalos közbeszerzési tanácsadói tevékenység és az átláthatósági biztos tevékenysége esetében, ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
+c) a 4. számú melléklet szerinti jogi szolgáltatások és a hivatalos közbeszerzési tanácsadói tevékenység esetében, ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
 
 d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti lakóotthonban élő személyek teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 
-e) a kisajátítást megelőző ingatlan-adásvétel, illetőleg ingatlanok cseréje esetén, valamint akkor, ha törvény az ingatlan tulajdonjogának, használatára, illetőleg hasznosítására vonatkozó jognak az átengedését versenytárgyalás, versenyeztetés vagy nyilvános pályázat útján rendeli el, valamint, ha az ingatlan beszerzésére jogszabály által biztosított elővásárlási jog gyakorlása útján kerül sor;
+e) a 4. sz. melléklet szerinti szállodai és éttermi szolgáltatásokra, szórakoztató, kulturális és sportszolgáltatásokra ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
 
 f) külügyi segélyezés keretében humanitárius segítségnyújtás céljából, válságkezelés során történő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
 
-g) építési beruházás, építési koncesszió beszerzésére, ha a beszerzés értéke eléri vagy meghaladja a közösségi közbeszerzési értékhatárok felét;
+g) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, méz, tojás, kertészeti növény beszerzésére;
 
-h) a közmegrendelésekre, kivéve, ha az építési beruházás vagy építési koncesszió, amihez a közmegrendelés kapcsolódik, részben vagy egészben az Európai Unióból származó forrásból valósul meg;
+h) a 2011-es magyar EU-elnökség előkészítésével és lebonyolításával összefüggő beszerzésekre;
 
 i) olyan szolgáltatás megrendelése esetében, amely az ajánlatkérő alaptevékenysége ellátásához szükséges irodalmi (szakirodalmi, tudományos) mű létrehozására, tanácsadói vagy személyi tolmácsolási tevékenység végzésére irányul;
 

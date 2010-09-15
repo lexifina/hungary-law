@@ -1,4 +1,4 @@
-247. § (1) A Közbeszerzések Tanácsa a hirdetményt nem elektronikus úton, illetve elektronikus úton, de nem a külön jogszabályban meghatározott módon történő megküldés esetén – az ajánlatkérő kérelmére – a külön jogszabályban meghatározott módnak megfelelő elektronikus formátumúvá alakítja át. A hirdetmény elektronikus átalakításáért – külön jogszabályban meghatározott mértékű – díjat kell fizetni.
+247. § (1)
 
 (2) A hirdetmények teljes terjedelmükben kerülnek közzétételre.
 

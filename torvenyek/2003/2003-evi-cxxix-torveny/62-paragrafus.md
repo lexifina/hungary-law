@@ -1,8 +1,8 @@
-62. § (1) Az ajánlatkérőnek az eljárásból ki kell zárnia az olyan ajánlattevőt, aki, illetőleg – a 71. § (1) bekezdésének b) pontja és (5) bekezdése szerinti esetben – akinek a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozója vagy a számára erőforrást nyújtó szervezet
+62. § (1) Az ajánlatkérőnek az eljárásból ki kell zárnia az olyan ajánlattevőt, aki, illetőleg akinek a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozója vagy a számára erőforrást nyújtó szervezet
 
-a) három évnél nem régebben súlyos, jogszabályban meghatározott szakmai kötelezettségszegést vagy szakmai etikai szabályokba ütköző cselekedetet követett el, vagy korábbi – három évnél nem régebben lezárult – közbeszerzési eljárás alapján vállalt szerződéses kötelezettségét súlyosan megszegte, amelyet az ajánlatkérő bizonyítani tud;
+a) három évnél nem régebben súlyos, jogszabályban meghatározott szakmai kötelezettségszegést vagy szakmai etikai szabályokba ütköző cselekedetet követett el;
 
-b) az eljárásban előírt adatszolgáltatási kötelezettségének [különösen 70. § (3) bekezdése, 71. §] teljesítése során hamis adatot szolgáltatott, illetőleg hamis nyilatkozatot tett.
+b) az eljárásban előírt adatszolgáltatási kötelezettségének [különösen 70. § (3) bekezdése, 71. §] teljesítése során olyan hamis adatot szolgáltatott, illetőleg hamis nyilatkozatot tett, melynek következtében elkerülhető lett volna, hogy az ajánlat vagy a részvételi jelentkezés a nyilatkozattal érintett körülmény miatt érvénytelennek minősüljön vagy elérhető lett volna, hogy kedvezőbb legyen az ajánlatának a 81. § (4) bekezdése szerinti elbírálása, illetve a részvételi jelentkezésének 123. § (4) bekezdése, 130. § (6) bekezdése, 136/A. § (2) bekezdése, 157. § (3) bekezdése vagy 204. § (5) bekezdése szerinti rangsorolása.
 
 (2) Az ajánlatkérő köteles az ajánlati felhívásban hivatkozni az (1) bekezdésben felsorolt kizáró okokra.
 

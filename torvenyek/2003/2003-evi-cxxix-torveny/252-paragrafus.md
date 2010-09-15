@@ -10,7 +10,7 @@ d) a beszerzés nyilvánosan közzétett, bárki által igénybe vehető és kiv
 
 e) a 125. § (2) bekezdésének b) pontja, vagy (3)–(5) bekezdése szerinti eset áll fenn;
 
-f) a közbeszerzés ingatlan tulajdonjogának vagy használatára, illetőleg hasznosítására vonatkozó jognak a megszerzésére irányul;
+f)
 
 g) a közbeszerzés külképviselet számára történik.
 
@@ -20,7 +20,7 @@ a) az (1) bekezdés a) pontja és a 125. § (4) bekezdésének a) pontja szerint
 
 b) az (1) bekezdés c) pontja szerinti esetben azzal az ajánlattevővel kell tárgyalni és – a 99. § (3) bekezdésében foglaltaktól eltérően – a tárgyalás befejezésekor írásban szerződést kötni, aki a szerződést a rendkívüli helyzet által megkívánt idő alatt képes teljesíteni;
 
-c) az (1) bekezdés f) pontja szerinti esetben lehetőség szerint legalább három ajánlattevő részére kell ajánlattételi felhívást küldeni, kivéve, ha csak egy meghatározott ingatlan alkalmas a közbeszerzés céljának megvalósítására;
+c)
 
 d) ha az ajánlatkérő több ajánlattevőt kért fel ajánlattételre, az ajánlatok előzetes értékelését követően elektronikus árlejtést kezdeményezhet;
 

@@ -13,3 +13,5 @@
 a) a projekttársaság a közbeszerzési szerződésben foglaltakat teljesítette és az ajánlatkérővel az egymás felé fennálló elszámolási kötelezettségeket is teljesítették, vagy
 
 b) a nyertes ajánlattevő (ajánlattevők) a közbeszerzési szerződésből, valamint a közbeszerzési szerződés teljesítése érdekében kötött szerződésből származó jogokat és kötelezettségeket a projekttársaságtól teljes egészében átvállalták.
+
+(7) A projekttársaság teljesítését referenciaként, illetve a 66. § (1) bekezdés c) pontja szerinti árbevételként a projekttársaság mindazon tulajdonosai bemutathatják, akik a teljesítésben ténylegesen részt vettek – a részvétel mértékéig –, akkor is, ha a projekttársaság időközben megszűnt.

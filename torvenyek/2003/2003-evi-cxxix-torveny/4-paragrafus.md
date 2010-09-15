@@ -4,15 +4,33 @@
 
 4. § E törvény alkalmazásában
 
-1. ajánlattevő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég vagy személyes joga szerint jogképes szervezet, aki, illetőleg amely a közbeszerzési eljárásban ajánlatot tesz; ajánlattevőnek minősül a külföldi székhelyű vállalkozás magyarországi fióktelepe is;
+1. ajánlattevő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég vagy személyes joga szerint jogképes szervezet vagy külföldi székhelyű vállalkozás magyarországi fióktelepe, aki, illetőleg amely
 
-2. alvállalkozó: az a szervezet vagy személy, amely a közbeszerzési eljárás eredményeként megkötött szerződés teljesítésében az ajánlattevő által bevontan közvetlenül vesz részt;
+a) a közbeszerzési eljárásban ajánlatot tesz, továbbá
+
+b) az 59. § (5) bekezdés a) pontja alkalmazásában az is, aki (amely) az ajánlati biztosítékot az ajánlatkérő rendelkezésére bocsátotta, továbbá
+
+c) az ajánlattételi határidő lejártáig az a), b) pontokban foglaltakon kívül az is, aki (amely) a dokumentációba az ajánlatkérőnél beletekintett, illetőleg azt átvette, vagy kiegészítő tájékoztatást kér, vagy előzetes vitarendezést kezdeményez;
+
+1/A. általános javítási munkálat: az 1. számú melléklet szerinti építési beruházás, ha annak célja építmény felújítása, korszerűsítése, karbantartása vagy javítása;
+
+2. alvállalkozó: az a szervezet vagy személy, amely vagy aki a közbeszerzési eljárás eredményeként megkötött szerződés teljesítésében az ajánlattevő által bevontan közvetlenül vesz részt, kivéve
+
+a) az ajánlattevővel munkaviszonyban vagy egyéb foglalkoztatási jogviszonyban álló személyeket,
+
+b) azon személyt vagy szervezetet, aki vagy amely tevékenységét kizárólagos jog alapján végzi,
+
+c) a szerződés teljesítéséhez igénybe venni kívánt gyártót, forgalmazót, alkatrész- vagy alapanyag-szállítót,
+
+d) építési beruházás esetén az építőanyag-szállítót;
 
 2/A. az ország alapvető biztonsági érdekével kapcsolatos beszerzés: olyan beszerzés, amelynek tárgya közvetlenül kapcsolódik az ország lakosságának fizikai, környezeti, egészségügyi, gazdasági, honvédelmi biztonságát befolyásolni képes építési beruházáshoz, árubeszerzéshez, illetőleg szolgáltatás megrendeléséhez, ideértve a védekezési készültség esetén a vízkár közvetlen elhárítása érdekében szükséges beszerzéseket is;
 
 2/B. banktitok: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben így meghatározott fogalom;
 
 2/C. dinamikus beszerzési rendszer: olyan, gyakori közbeszerzések lebonyolítására szolgáló, teljes mértékben elektronikus folyamat, amelynek jellemzői megfelelnek az ajánlatkérő által meghatározott követelményeknek, és amelynek működése határozott idejű, érvényességi ideje alatt bármely olyan ajánlattevő kérheti a rendszerbe való felvételét, aki, illetve amely megfelel az alkalmassági követelményeknek, nem áll a kizáró okok hatálya alatt és benyújtotta a dokumentációnak megfelelő előzetes ajánlatát;
+
+2/D. egyéb foglalkoztatási jogviszony: közszolgálati, kormánytisztviselői, közalkalmazotti jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a fegyveres szervek hivatásos állományának szolgálati jogviszonya, gazdálkodó szervezet tagjának személyes közreműködése;
 
 3. egyetemes postai szolgáltatás: a postáról szóló törvényben így meghatározott fogalom;
 
@@ -22,9 +40,9 @@
 
 3/C. elektronikus út: elektronikus adatfeldolgozást, -tárolást, illetőleg -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása;
 
-3/D. erőforrást nyújtó szervezet: az a szervezet vagy személy, amely nem minősül alvállalkozónak, és az ajánlattevőnek a szerződés teljesítéséhez szükséges mértékben erőforrást biztosít;
+3/D. erőforrást nyújtó szervezet: az a szervezet vagy személy, amely vagy aki nem minősül alvállalkozónak, nem tartozik a 2. pont a)–d) alpontjának hatálya alá sem, hanem a közbeszerzési eljárásban az ajánlattevő alkalmasságának igazolásában vesz részt, ezzel összefüggő erőforrásainak bemutatásával;
 
-3/E. erőforrás: nem minősülhet erőforrásnak a 66. § (1) a)–c) pontja, a 67. § (1) bekezdésének a), d)–f) pontja, (2) bekezdésének a), d) és f) pontja, továbbá (3) bekezdésének a), d)–f) pontja szerinti körülmény, kivéve, ha az ajánlattevő (részvételre jelentkező) és az erőforrást nyújtó szervezet között a Polgári Törvénykönyv szerinti többségi befolyás áll fenn;
+3/E. erőforrás: nem minősülhet erőforrásnak a 66. §-ának (1) bekezdésének a)–d) pontja, a 67. § (1) bekezdésének a), d)–f) pontja, (2) bekezdésének a), d) és f) pontja, továbbá (3) bekezdésének a), d)–f) pontja szerinti körülmény, kivéve, ha az ajánlattevő (részvételre jelentkező) és az erőforrást nyújtó szervezet között a Polgári Törvénykönyv szerinti többségi befolyás áll fenn;
 
 4. európai műszaki engedély: az áru használati alkalmasságának kedvező műszaki elbírálása, amely az építési munkákra vonatkozó alapvető követelményeknek az áru belső tulajdonságai és a meghatározott alkalmazási és használati feltételek szerinti teljesítésén alapul; az európai műszaki engedélyt az Európai Unió tagállama által e célra kijelölt tanúsító szervezet bocsátja ki;
 
@@ -36,7 +54,7 @@
 
 8. értékelemzés: olyan döntés-előkészítő módszer, amelynek alkalmazása során az áru, a szolgáltatás, illetőleg az építési beruházás funkciójának, valamint előállítási, megvalósítási vagy beszerzési és üzemeltetési, működtetési költségeinek viszonyát kell vizsgálni;
 
-9. hamis adat: a valóságnak megfelelően ismert, de a valóságtól eltérően közölt adat;
+9. hamis adat: a valóságnak megfelelően ismert, de a valóságtól szándékosan eltérően közölt adat;
 
 9/A. hamis nyilatkozat: olyan nyilatkozat, amely hamis adatot tartalmaz;
 
@@ -44,13 +62,13 @@
 
 11. hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. §-ának b) pontjában meghatározott személy;
 
-11/A. írásbeli, írásban: bármely, szavakból vagy számjegyekből álló kifejezési forma, amely olvasható, reprodukálható, és ilyen módon terjeszthető; tartalmazhat elektronikus úton továbbított és tárolt adatokat is, így különösen a levél, a távirat, valamint a távgépírón és telefax útján közölt nyilatkozat, továbbá a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentumba foglalt nyilatkozat;
+11/A. írásbeli, írásban: bármely, szavakból vagy számjegyekből álló kifejezési forma, amely olvasható, reprodukálható, és ilyen módon terjeszthető, így különösen a levélben, táviratban, a távgépírón vagy telefax útján közölt nyilatkozat; ilyennek minősül továbbá a legalább fokozott biztonságú elektronikus aláírással ellátott, illetőleg – a 20. § (1) bekezdés alkalmazása esetén – a külön, e törvény felhatalmazása alapján alkotott jogszabály szerinti követelményeknek megfelelő elektronikus dokumentumba foglalt nyilatkozat az elektronikus formájában;
 
 12. keretmegállapodás: meghatározott egy vagy több ajánlatkérő és egy vagy több ajánlattevő között létrejött olyan megállapodás, amelynek célja, hogy rögzítse egy adott időszakban közbeszerzésekre irányuló, egymással meghatározott módon kötendő szerződések lényeges feltételeit, különösen az ellenszolgáltatás mértékét, és ha lehetséges, az előirányzott mennyiséget;
 
 13. kizárólagos jog: jogszabály, illetőleg közigazgatási határozat alapján egy vagy csak korlátozott számú szervezet (személy) jogosultsága meghatározott tevékenység folytatására, illetőleg cselekményre, összhangban az Európai Közösséget létrehozó szerződéssel; kivéve a 125. § (2) bekezdésének b) pontja és a 225. § (1) bekezdésének b) pontja alkalmazásában, továbbá ha e törvény másként rendelkezik (166. §);
 
-13/A. közmegrendelés: közösségi célokat szolgáló, az éves költségvetési törvényben a Miniszterelnökség és a minisztériumok fejezeteibe tartozó központi költségvetési szervek által megvalósított, vagy általuk többségi részben közvetlenül támogatott építési beruházások, vagy építési koncesszió esetén a beruházással szervesen összefüggő, vagy annak környezetében elhelyezendő, a közmegrendelési pályázat kiírása, illetve az alkotás beszerzése évének első napján élő művész által műfaji és technikai kötöttség nélkül megvalósítandó képzőművészeti és iparművészeti alkotás (a továbbiakban: kortárs képzőművészeti vagy iparművészeti alkotás) létrehozására, vagy a közösségi célokat szolgáló, vagy a megvalósuló műtárgyhoz kapcsolódó építményben elhelyezendő kortárs képzőművészeti vagy iparművészeti alkotás beszerzésére irányuló, kormányrendeletben kötelezően előírt pályázat;
+13/A.
 
 14. közbeszerzési eljárás előkészítése: az adott közbeszerzési eljárás megkezdéséhez szükséges cselekmények elvégzése, így különösen az adott közbeszerzéssel kapcsolatos helyzet-, illetőleg piacfelmérés, a közbeszerzés becsült értékének felmérése, az eljárást megindító (meghirdető) hirdetmény, felhívás és a dokumentáció előkészítése;
 
@@ -62,7 +80,7 @@
 
 18. közösségi áru: a Közösségi Vámkódexről szóló tanácsi rendeletben (2913/92/EGK rendelet) így meghatározott fogalom;
 
-19. közösségi célokat szolgáló beruházás: közösségi célokat szolgáló építmények építése és helyreállítása, ide nem értve a műemlék helyreállítását, továbbá a karbantartást;
+19.
 
 20. központi költségvetési szerv: a minisztérium, a központi költségvetésben fejezettel rendelkező szerv, valamint más, külön jogszabályban meghatározott fejezeti jogosítványokkal rendelkező szerv, továbbá a fentieknek, a Kormánynak, annak kijelölt tagjának a felügyelete alatt működő költségvetési szerv;
 
@@ -78,7 +96,9 @@ c) tagként (részvényesként) jogosult arra, hogy a vezető tisztségviselők 
 
 23. meghívásos eljárás: olyan közbeszerzési eljárás, amelyben az ajánlatkérő által – az e törvényben előírtak szerint – kiválasztottak tehetnek ajánlatot;
 
-23/A. műszaki ajánlás: európai szabványügyi szervezet által nem szabványként kiadott bármely dokumentum, amelyet a piaci igények kielégítésére, szabályozott eljárás szerint dolgoztak ki;
+23/A. műemlékekkel kapcsolatos építési beruházás: az olyan építési beruházás, amellyel kapcsolatos hatósági engedélyezési eljárás lefolytatása a Kulturális Örökségvédelmi Hivatal hatósági jogkörébe tartozik;
+
+23/B. műszaki ajánlás: európai szabványügyi szervezet által nem szabványként kiadott bármely dokumentum, amelyet a piaci igények kielégítésére, szabályozott eljárás szerint dolgoztak ki;
 
 24. nemzeti szabvány: a nemzeti szabványosításról szóló törvényben így meghatározott fogalom;
 
@@ -112,7 +132,13 @@ e) bélyeggyűjtői (filatéliai) szolgáltatások;
 
 f) postai küldeményekkel kapcsolatos logisztikai szolgáltatások (a fizikai kézbesítést, illetőleg a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások);
 
-31. részvételre jelentkező: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég vagy személyes joga szerint jogképes szervezet, aki, illetőleg amely a két szakaszból álló eljárás első, részvételi szakaszában részvételi jelentkezést nyújt be; részvételre jelentkezőnek minősül a külföldi székhelyű vállalkozás magyarországi fióktelepe is;
+31. részvételre jelentkező: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég vagy személyes joga szerint jogképes szervezet, a külföldi székhelyű vállalkozás magyarországi fióktelepe, aki (amely)
+
+a) a két szakaszból álló eljárás első, részvételi szakaszában részvételi jelentkezést nyújt be, továbbá
+
+b) a 102. § (5) bekezdés alkalmazásában az is, aki (amely) a részvételi dokumentációt átvette, továbbá
+
+c) a részvételi határidő lejártáig az a), b) pontokban foglaltakon kívül az is, aki (amely) a dokumentációba az ajánlatkérőnél beletekintett vagy kiegészítő tájékoztatást kér vagy előzetes vitarendezést kezdeményez;
 
 32.
 

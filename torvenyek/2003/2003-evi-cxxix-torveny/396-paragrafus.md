@@ -4,7 +4,7 @@ a) irányítja a Döntőbizottság munkáját;
 
 b) képviseli a Döntőbizottságot;
 
-c) gyakorolja a munkáltatói jogokat – az elnökhelyettes kivételével – a közbeszerzési biztosok vonatkozásában;
+c)
 
 d) elkészíti és a Tanácshoz jóváhagyásra előterjeszti a Döntőbizottság szervezeti és működési szabályzatát;
 

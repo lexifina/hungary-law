@@ -8,7 +8,7 @@ b) a késedelmi kamatra vonatkozóan a Ptk. 301/A. §-ának (2) és (3) bekezdé
 
 a) azt a közbeszerzési eljárás jogtalan mellőzésével kötötték meg;
 
-b) a felek a szerződéskötési moratóriumra vonatkozó szabályok [96/B. § (4) bekezdése, 99. § (3) és (4) bekezdése] megsértésével kötöttek szerződést, és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
+b) a felek a szerződéskötési moratóriumra vonatkozó szabályok [96/A. § (4) bekezdés, 99. § (3) és (4) bekezdése] megsértésével kötöttek szerződést, és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
 
 (3) A (2) bekezdéstől eltérően a szerződés nem érvénytelen, ha
 

@@ -4,14 +4,14 @@ a) az ajánlatkérő, a közbeszerzési eljárást jogtalanul mellőzve beszerz�
 
 b) olyan szervezetben rendelkezik tulajdoni részesedéssel, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
 
-c) a jogorvoslati eljárás megindításának időpontját megelőző két évben az ügyfélszervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban állt, illetőleg annak vezető tisztségviselője vagy felügyelőbizottságának tagja volt, vagy az ügyfélszervezetben tulajdoni részesedéssel rendelkezett.
+c) a jogorvoslati eljárás megindításának időpontját megelőző két évben az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban állt, illetőleg annak vezető tisztségviselője vagy felügyelőbizottságának tagja volt, vagy az ügyfélszervezetben tulajdoni részesedéssel rendelkezett.
 
 (2) A közbeszerzési ügyben nem járhat el az a közbeszerzési biztos, akinek hozzátartozója
 
-a) az ügyfélszervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetőleg annak vezető tisztségviselője vagy felügyelőbizottságának tagja;
+a) az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban áll, illetőleg annak vezető tisztségviselője vagy felügyelőbizottságának tagja;
 
 b) az ügyfélszervezetben tulajdoni részesedéssel rendelkezik;
 
-c) olyan szervezettel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
+c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
 
 d) olyan szervezettel áll közszolgálati jogviszonyban, amely az ügyfélszervezet felügyelő vagy alárendelt szervezete, illetőleg amely az ügyfélszervezet részére támogatást, illetőleg kizárólagos jogot biztosított.

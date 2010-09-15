@@ -1,3 +1,13 @@
-96/A. § (1)
+96/A. § (1) Jogosult az ajánlatkérőt tájékoztatni álláspontjáról (a továbbiakban: előzetes vitarendezés)
 
-(2) Az eredményhirdetéskor és azt követően nem lehet üzleti titokra hivatkozással olyan adat nyilvánosságra hozatalát korlátozni vagy megtiltani, amely a 73. § (2) bekezdése körébe tartozik, illetőleg amelyet az ajánlat elbírálása során – döntése meghozatalával összefüggésben – az ajánlatkérő figyelembe vett.
+a) a jogsértő eseményről való tudomásszerzést követő három munkanapon belül az ajánlattevő, ha álláspontja szerint egészben vagy részben jogsértő az írásbeli összegezés [93. § (2) bekezdés], illetőleg az ajánlatkérő bármely eljárási cselekménye vagy a közbeszerzési eljárásban keletkezett bármely – a b) pont szerintieken kívüli – dokumentum;
+
+b) az ajánlattevő vagy a közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdekképviseleti szervezet az – adott esetben módosított – ajánlattételi, illetőleg részvételi határidő lejárta előtti tizedik napig, egyszerű, illetőleg gyorsított eljárásban e határidők lejártáig, ha álláspontja szerint egészben vagy részben jogsértő az ajánlati, ajánlattételi vagy részvételi felhívás, illetőleg dokumentáció, vagy azok módosítása. (E bekezdésben foglalt szervezetek a továbbiakban együtt: vitarendezést kérelmező.)
+
+(2) A vitarendezést kérelmezőnek az ajánlatkérőhöz benyújtott kérelmében (a továbbiakban: előzetes vitarendezési kérelem) meg kell jelölnie az írásbeli összegezés vagy egyéb dokumentum, vagy eljárási cselekmény jogsértőnek tartott elemét, továbbá a kérelmező javaslatát, észrevételét, valamint az álláspontját alátámasztó adatokat, tényeket, továbbá az azt alátámasztó dokumentumokra – ha vannak ilyenek – hivatkoznia kell.
+
+(3) Az előzetes vitarendezési kérelmet faxon vagy elektronikus úton kell megküldeni az ajánlatkérő részére, aki a kérelemmel kapcsolatos álláspontjáról a vitarendezést kérelmezőt a kérelem megérkezésétől számított három munkanapon belül a benyújtási módnak megegyező módon tájékoztatja, továbbá az előzetes vitarendezési kérelem benyújtásáról, valamint az arra adott válaszáról az eljárás valamennyi – általa ismert – ajánlattevőjét is tájékoztatja.
+
+(4) Amennyiben valamely ajánlattevő előzetes vitarendezési kérelmet nyújtott be valamely – az ajánlatok bontását követően – történt eljárási cselekménnyel, keletkezett dokumentummal, kapcsolatban, az ajánlatkérő a kérelem benyújtásától a válaszának megküldését követő tizedik napig nem kötheti meg a szerződést, illetőleg – ha részajánlat tétele lehetséges volt – a beszerzés érintett részére vonatkozó szerződést, ha ez az időpont a 99. § (3) bekezdése szerinti szerződéskötési időpontnál későbbre esik.
+
+(5) A 96. § (4)–(5) bekezdése szerint módosított, illetőleg kijavított írásbeli összegezés javítás vagy módosítás előtti tartalmára vonatkozóan előzetes vitarendezési kérelmet nem lehet benyújtani.

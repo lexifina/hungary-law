@@ -26,7 +26,7 @@ d)
 
 e) választottbírósági, közvetítői, békéltetési tevékenység;
 
-f) munkaszerződés, közszolgálati, közalkalmazotti jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a fegyveres szervek hivatásos állományának szolgálati jogviszonya;
+f) munkaszerződés, közszolgálati vagy kormánytisztviselői, közalkalmazotti jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a fegyveres szervek hivatásos állományának szolgálati jogviszonya;
 
 g) kutatási és fejlesztési szolgáltatás; kivéve, ha annak eredményét kizárólag az ajánlatkérő hasznosítja tevékenységi körében, és az ellenszolgáltatást teljes mértékben az ajánlatkérő teljesíti;
 

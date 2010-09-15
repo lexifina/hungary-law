@@ -10,7 +10,7 @@
 
 a) azt a közbeszerzési eljárás jogtalan mellőzésével kötötték meg,
 
-b) a felek a szerződéskötési moratóriumra [96/B. § (4) bekezdése, 99. § (3) és (4) bekezdése] vonatkozó szabályok megsértésével kötöttek szerződést és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
+b) a felek a szerződéskötési moratóriumra [96/A. § (4) bekezdés, 99. § (3) és (4) bekezdése] vonatkozó szabályok megsértésével kötöttek szerződést és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
 
 (3) A perben egyéb polgári jogi igény nem érvényesíthető, a szerződés érvénytelenségének a (2) bekezdésben nem szereplő érvénytelenségi okok miatti megállapítása nem kérelmezhető.
 

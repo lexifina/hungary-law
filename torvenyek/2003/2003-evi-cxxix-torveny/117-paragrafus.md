@@ -1,4 +1,4 @@
-117. § (1) A részvételi jelentkezéseket a lehető legrövidebb időn belül kell az ajánlatkérőnek elbírálnia és azt követően a részvételi szakasz eredményét vagy eredménytelenségét kihirdetnie (a továbbiakban együtt: eredményhirdetés). A részvételi szakasz eredményét legkésőbb a részvételi jelentkezések felbontástól számított harminc – építési beruházás esetében hatvan – napon belül, a részvételi felhívásban meghatározott eredményhirdetési időpontban nyilvánosan kell kihirdetni.
+117. § (1) A részvételi jelentkezéseket a lehető legrövidebb időn belül kell az ajánlatkérőnek elbírálnia és azt követően a részvételi szakasz eredményét vagy eredménytelenségét szóban vagy – a 20. § (1) bekezdés alkalmazása esetén – elektronikusan kihirdetnie (a továbbiakban együtt: eredményhirdetés). A részvételi szakasz eredményét legkésőbb a részvételi jelentkezések felbontástól számított harminc – építési beruházás esetében hatvan – napon belül, a részvételi felhívásban meghatározott eredményhirdetési időpontban kell kihirdetni.
 
 (2) Az ajánlatkérő az eredményhirdetés időpontját – indokolt esetben – egy alkalommal, legfeljebb harminc nappal elhalaszthatja. Az ajánlatkérő az eredeti határidő lejárta előtt köteles a halasztásról és annak indokáról az összes jelentkezőt egyidejűleg, közvetlenül, írásban tájékoztatni.
 
@@ -6,4 +6,6 @@
 
 (4) Ha az eredményhirdetés a részvételi felhívásban meghatározott vagy a (2) vagy a (3) bekezdés szerint módosított időpontban nem történt meg, az ajánlatkérő – a késedelemmel kapcsolatban e törvényben vagy egyéb jogszabályokban előírt következmények viselése mellett – haladéktalanul köteles a részvételi szakasz eredményét vagy eredménytelenségét kihirdetni.
 
-(5) Az eredményhirdetésre meg kell hívni a részvételre jelentkezőket, továbbá – a közbeszerzéshez támogatásban részesülő jelentkező esetében – a külön jogszabályban meghatározott szervek képviselőit, illetőleg személyeket.
+(5) Az eredményhirdetésen jelen lehetnek a részvételre jelentkezők, továbbá – a közbeszerzéshez támogatásban részesülő ajánlatkérő esetében – a külön jogszabályban meghatározott szervek képviselői, illetőleg személyek.
+
+(6) Elektronikus eredményhirdetés esetén [a 20. § (1) bekezdés alkalmazása esetén] az (5) bekezdést és a 118. § (1) bekezdését nem kell alkalmazni, a 116. § (2) bekezdése szerinti összegezést az elektronikus eredményhirdetés részvételi felhívásban megadott időpontjától kezdve azonnal elektronikus úton kell a részvételre jelentkezők és – a közbeszerzéshez támogatásban részesülő ajánlatkérő esetében – a külön jogszabályban meghatározott szervek képviselői számára (ha utóbbiak legkésőbb az eredményhirdetés előtt az adatokhoz hozzáférést kértek az ajánlatkérőtől) elérhetővé tenni.

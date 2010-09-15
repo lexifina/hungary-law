@@ -1,12 +1,12 @@
 ## A részvételi dokumentáció, illetőleg ismertető
 
-102. § (1) Az ajánlatkérő – a megfelelő részvételi jelentkezés benyújtásának elősegítése érdekében – a meghívásos és a tárgyalásos eljárásban részvételi dokumentációt készíthet, a versenypárbeszédben pedig ismertetőt köteles készíteni. Az ajánlatkérő a részvételi felhívásban köteles megadni a részvételi dokumentáció, illetőleg az ismertető (a továbbiakban együtt: részvételi dokumentáció) rendelkezésre bocsátásának módját, határidejét, annak beszerzési helyét és pénzügyi feltételeit is. Az ajánlatkérő a részvételi felhívásban előírhatja, hogy a részvételi dokumentáció megvásárlása vagy átvétele az eljárásban való részvétel feltétele. Ha több részvételre jelentkező közösen nyújt be részvételi jelentkezést, elegendő, ha egyikük vásárolja meg vagy veszi át a részvételi dokumentációt.
+102. § (1) Az ajánlatkérő – a megfelelő részvételi jelentkezés benyújtásának elősegítése érdekében – a meghívásos és a tárgyalásos eljárásban részvételi dokumentációt készíthet, a versenypárbeszédben pedig ismertetőt köteles készíteni. Az ajánlatkérő a részvételi felhívásban köteles megadni a részvételi dokumentáció, illetőleg az ismertető (a továbbiakban együtt: részvételi dokumentáció) rendelkezésre bocsátásának módját, határidejét, annak beszerzési helyét és pénzügyi feltételeit is.
 
-(2) Az ajánlatkérő köteles gondoskodni arról, hogy a részvételi dokumentáció a részvételi felhívást tartalmazó hirdetmény közzétételének napjától kezdve a részvételi határidő (107. §) lejártáig rendelkezésre álljon.
+(2) Az ajánlatkérő a részvételi felhívásban előírhatja, hogy a részvételi jelentkezés érdekében a részvételi dokumentációt részvételi jelentkezésenként legalább egy részvételre jelentkezőnek vagy a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozónak meg kell vásárolnia vagy át kell vennie, vagy elektronikus úton el kell érnie.
 
-(3) Ha a részvételi dokumentáció megküldését kérik, az ajánlatkérő vagy az általa meghatározott szervezet a kérelem kézhezvételétől számított két munkanapon belül köteles ennek eleget tenni, feltéve, hogy ésszerű időben kérték, illetőleg annak ellenértékét megfizették.
+(3) A részvételi dokumentációra az 54. § (2)–(5), (7)–(9) bekezdéseit megfelelően alkalmazni kell.
 
-(4) A részvételi dokumentáció ellenértékét az annak előállításával és a részvételre jelentkezők részére történő rendelkezésre bocsátásával kapcsolatban a közbeszerzési eljárásra tekintettel felmerült költséget alapul véve kell megállapítani.
+(4)
 
 (5) A részvételi dokumentáció, valamint annak ellenértéke tíz napon belül visszajár, ha
 

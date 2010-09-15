@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-129-00-00
 | 2010-08-15 | 2010. évi XC. törvény | 2003-129-00-00.38 |
 | 2010-08-20 | 2010. évi LXXXVIII. törvény | 2003-129-00-00.39 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 2003-129-00-00.40 |
+| 2010-09-15 | 2010. évi LXXXVIII. törvény | 2003-129-00-00.41 |

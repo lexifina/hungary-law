@@ -2,7 +2,7 @@
 
 60. § (1) Az eljárásban nem lehet ajánlattevő, alvállalkozó vagy erőforrást nyújtó szervezet, aki
 
-a) végelszámolás alatt áll, vagy az ellene indított csődeljárás vagy felszámolási eljárás folyamatban van, illetőleg ha az ajánlattevő (alvállalkozó) személyes joga szerinti hasonló eljárás van folyamatban, vagy aki személyes joga szerint hasonló helyzetben van;
+a) végelszámolás alatt áll, vagy vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést közzétettek, vagy az ellene indított felszámolási eljárást jogerősen elrendelték, illetőleg ha az ajánlattevő (alvállalkozó) személyes joga szerinti hasonló eljárás van folyamatban, vagy aki személyes joga szerint hasonló helyzetben van;
 
 b) tevékenységét felfüggesztette vagy akinek tevékenységét felfüggesztették;
 
@@ -18,7 +18,7 @@ g) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakb
 
 h) a büntető törvénykönyv szerinti bűnszervezetben részvétel – ideértve bűncselekmény bűnszervezetben történő elkövetését is –, vesztegetés, vesztegetés nemzetközi kapcsolatokban, az európai közösségek pénzügyi érdekeinek megsértése, illetve pénzmosás bűncselekményt, vagy személyes joga szerinti hasonló bűncselekményt követett el, feltéve, hogy a bűncselekmény elkövetése jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült;
 
-i)
+i) korábbi közbeszerzési eljárásban 2010. szeptember 15-ét követően kötött szerződésével kapcsolatban a 71. § (1) bekezdés a), b) pontjai szerinti alvállalkozó felé fennálló (vég- vagy részszámlából fakadó) fizetési kötelezettsége 10%-ot meghaladó részét nem teljesítette, vagy fizetési késedelme meghaladta a fizetési határidőt követő 15 napot – annak ellenére, hogy az ajánlatkérőként szerződést kötő fél a részére határidőben fizetett –, és ezt jogerős és végrehajtható közigazgatási, illetőleg bírósági határozat megállapította, kivéve, ha a határozat keltezésének időpontja régebbi az ajánlatokkal kapcsolatos eredményhirdetést megelőző két évnél.
 
 (2) Az (1) bekezdés e) pontjában említett adófizetési kötelezettség alatt a belföldi székhelyű ajánlattevő vagy alvállalkozó tekintetében az állami adóhatóság és a vámhatóság által nyilvántartott adófizetési kötelezettséget kell érteni.
 

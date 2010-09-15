@@ -4,7 +4,7 @@
 
 ## Az eljárás két része
 
-136/A. § (1) A keretmegállapodásos eljárás két részből áll. Az első részben az ajánlatkérő (ajánlatkérők) e fejezet szerinti nyílt vagy meghívásos eljárást köteles(ek) alkalmazni keretmegállapodás megkötése céljából. Az ajánlatkérő tárgyalásos eljárást is alkalmazhat keretmegállapodás megkötése céljából, amennyiben a tárgyalásos eljárás alkalmazásának a 124. §, illetve 125. § szerinti feltételei fennállnak. A második részben az ajánlatkérő a keretmegállapodásban meghatározott közbeszerzési tárgyra kér ajánlato(ka)t és köt szerződést az adott közbeszerzés(ek) megvalósítására.
+136/A. § (1) A keretmegállapodásos eljárás két részből áll. Az első részben az ajánlatkérő (ajánlatkérők) e fejezet szerinti nyílt vagy meghívásos eljárást köteles(ek) alkalmazni keretmegállapodás megkötése céljából. Az ajánlatkérő tárgyalásos eljárást is alkalmazhat keretmegállapodás megkötése céljából, amennyiben a tárgyalásos eljárás alkalmazásának a 124. §, illetve 125. § szerinti feltételei fennállnak. Az első rész szerinti eljárásban a 3–5. és 6–7. címek rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az építési beruházás dokumentációjának nem kell árazatlan költségvetést és az e törvény felhatalmazása alapján alkotott külön jogszabály szerinti terveket tartalmaznia. A második részben az ajánlatkérő a keretmegállapodásban meghatározott közbeszerzési tárgyra kér ajánlato(ka)t és köt szerződést az adott közbeszerzés(ek) megvalósítására. Ha az első rész szerinti eljárásban a dokumentáció nem tartalmazta az árazatlan költségvetést és e törvény felhatalmazása alapján alkotott külön jogszabály szerinti terveket, akkor azokat a második részben beszerzett közbeszerzési tárgyra vonatkozóan a konzultációra szóló felhívással vagy az ajánlattételi felhívással egyidejűleg kell megküldeni.
 
 (2) Keretmegállapodás egy ajánlattevővel, illetve több ajánlattevővel köthető. Ez utóbbi esetben a keretmegállapodásban részes ajánlattevők száma nem lehet kevesebb háromnál, és ha az ajánlatkérő a 136/B. § (3) bekezdésének a) pontját kívánja alkalmazni, az első rész végén köteles az első részben alkalmazott bírálati szempont alapján az ajánlattevőket rangsorolni.
 
@@ -16,7 +16,7 @@
 
 (6) Keretmegállapodás legfeljebb négy évre köthető. A keretmegállapodás alapján kötendő szerződés(ek) időtartama nem haladhatja meg a keretmegállapodás időtartamát.
 
-(7) A keretmegállapodás – a 73. § (1) bekezdése szerinti melléklet kivételével, feltéve, hogy az abban foglaltak nem ellentétesek a 96. § (3) bekezdésével – nyilvános, annak tartalma közérdekű adatnak minősül.
+(7) A keretmegállapodás – a 73. § (1) bekezdése szerinti részei kivételével, feltéve, hogy az abban foglaltak nem ellentétesek a 96. § (3) bekezdésével – nyilvános, annak tartalma közérdekű adatnak minősül.
 
 (8) A keretmegállapodásos eljárás első részében a 98. § (1)–(3) bekezdései megfelelően alkalmazandóak.
 

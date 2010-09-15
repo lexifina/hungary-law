@@ -14,10 +14,10 @@ f) ideiglenes intézkedés (332. §) elrendelésére irányuló indítványt, en
 
 g) a közbeszerzési ügy lehetséges érdekeltjeinek a kérelmező által ismert nevét, székhelyét (lakóhelyét);
 
-h) az előzetes vitarendezés eredményét, illetve az ajánlatkérő válaszát [96/B. § (3) bekezdés].
+h) hogy volt-e előzetes vitarendezés, továbbá ha volt, annak eredményét, illetve az ajánlatkérő válaszát, melyet csatolni is kell.
 
-(2) A kérelemhez csatolni kell az előzetes vitarendezés kapcsán [96/B. §] az ajánlatkérő válaszát tartalmazó dokumentumot.
+(2)
 
-(3) A Közbeszerzési Döntőbizottság kérelemre indult eljárásáért igazgatási szolgáltatási díjat kell fizetni, amelynek mértéke az e törvény második része szerinti közbeszerzési eljárásokban kilencszázezer forint, az e törvény harmadik része, valamint negyedik része szerinti közbeszerzési eljárásokban százötvenezer forint. Amennyiben a kérelem a közbeszerzési eljárást megindító hirdetmény (felhívás) jogellenességének megállapítására irányul, a díj mértéke egységesen százötvenezer forint. A díj megfizetése alól mentesség nem adható. A kérelemhez csatolni kell a díj befizetéséről szóló igazolást.
+(3) A Közbeszerzési Döntőbizottság kérelemre indult eljárásáért igazgatási szolgáltatási díjat kell fizetni, amelynek mértéke – az e törvény második része szerinti közbeszerzési eljárásokban, ha a kérelem az eljárás eredményéről vagy részvételi szakasz eredményéről szóló összegezésben foglaltakkal (is) kapcsolatos – kilencszázezer forint, minden egyéb esetben százötvenezer forint. A díj megfizetése alól mentesség nem adható. A kérelemhez csatolni kell a díj befizetéséről szóló igazolást. A díj mértéke húsz százalékkal kevesebb, ha a kérelmező a 96/A. § szerint előzetes vitarendezést is kérelmezett az (1) bekezdés szerinti kérelemben szereplő – a 323. § (2)–(6) bekezdés szerinti időpontig már a tudomására jutott – jogsértések miatt.
 
 (4) A kérelmet eggyel több példányban kell benyújtani, mint ahány – a kérelmező által ismert – ügyfél az eljárásban részt vesz.

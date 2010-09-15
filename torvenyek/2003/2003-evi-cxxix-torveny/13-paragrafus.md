@@ -1,6 +1,6 @@
-13. § (1) A minősített ajánlattevő a Közbeszerzések Tanácsának jegyzék szerinti igazolását jogosult benyújtani a közbeszerzési eljárásban. Az igazolásnak tartalmaznia kell a minősítési szempontok szerinti megfelelésre történő hivatkozást és a jegyzék szerinti besorolást.
+13. § (1) A Közbeszerzések Tanácsa igazolást állít ki a jegyzékben való szereplésről. Az igazolásnak tartalmaznia kell a minősítési szempontok szerinti megfelelésre történő hivatkozást és a jegyzék szerinti besorolást.
 
-(2) A közbeszerzési eljárásban az ajánlatkérő köteles elfogadni a jegyzék szerinti igazolást.
+(2) A Tanács által vezetett jegyzék a Tanács honlapján elektronikusan is elérhető, ez a formája is közhiteles. A közbeszerzési eljárásban az ajánlatkérő – a (3) bekezdés szerinti kivétellel – a kizáró okok fenn nem állásának igazolására, továbbá – a (4) bekezdés figyelembevételével – az alkalmassági minimum követelmény(ek)nek való megfelelés igazolására köteles elfogadni a jegyzékben szereplés tényét.
 
 (3) A minősített ajánlattevőnek külön kell a 63. § szerint igazolnia, illetőleg írásban nyilatkoznia, hogy nem tartozik a 60. § (1) bekezdése e) pontjának, valamint – ha az ajánlatkérő azt előírta – a 61. § (2) bekezdésének hatálya alá.
 

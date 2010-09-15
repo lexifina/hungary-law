@@ -1,5 +1,5 @@
 6. § (1) Az ajánlatkérő köteles meghatározni a közbeszerzési eljárásai előkészítésének, lefolytatásának, belső ellenőrzésének felelősségi rendjét, a nevében eljáró, illetőleg az eljárásba bevont személyek, illetőleg szervezetek felelősségi körét és a közbeszerzési eljárásai dokumentálási rendjét, összhangban a vonatkozó jogszabályokkal. Ennek körében különösen meg kell határoznia az eljárás során hozott döntésekért felelős személyt, személyeket, illetőleg testületeket.
 
-(2) Az (1) bekezdés szerinti közbeszerzési szabályzatban megjelölt személy az eljárást megindító hirdetmény jogszerűségét ellenjegyzésével igazolja. Az eljárást megindító hirdetményt nem lehet ellenjegyezni, ha az sérti a közbeszerzésre, illetőleg a közbeszerzési eljárásra vonatkozó jogszabályokat. Az eljárást megindító hirdetmény ellenjegyzése nélkül a közbeszerzési eljárás nem indítható meg.
+(2)
 
 (3) Ha az ajánlatkérő nem rendelkezik általános jellegű, az (1) bekezdésnek megfelelő közbeszerzési szabályzattal, vagy a szabályzattól – az abban meghatározott módon – való eltérés feltételei fennállnak, legkésőbb az adott közbeszerzési eljárás előkészítését megelőzően kell meghatároznia az (1) bekezdésben foglaltakat.

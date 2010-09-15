@@ -38,10 +38,10 @@ e) bírságot szabhat ki – kivéve a 306/A. § (2) bekezdés szerinti körülm
 
 a) ha megállapítja, hogy a Közbeszerzések Tanácsa a 18. § (3) és (4) bekezdés szerinti felhívása ellenére az ajánlatkérők nyilvántartásába be nem jelentkezett szervezet e törvény szerint ajánlatkérőnek minősül;
 
-b) a 96/B. § (1), (3) vagy (4) bekezdésének, a 99. § (3) vagy (4) bekezdésének megsértése esetén, amennyiben a 306/A. § (2) bekezdésének b) pontja szerinti körülmények nem állnak fenn;
+b) 96/A. §-ának (4) bekezdésének, a 99. § (3) vagy (4) bekezdésének megsértése esetén, amennyiben a 306/A. § (2) bekezdésének b) pontja szerinti körülmények nem állnak fenn;
 
 c) ha a 328. § szerinti ügyben megállapítja a jogsértés megtörténtét;
 
-d) ha az ajánlatkérő – részben vagy egészben – nem tett eleget a 17/C. § szerinti honlapon történő közzétételi kötelezettségnek;
+d)
 
 e) ha az ajánlatkérő elmulasztotta a 132. § szerinti kötelezettsége teljesítését.

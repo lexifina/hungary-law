@@ -28,8 +28,14 @@ c) a részszempontoknak mennyiségi vagy más módon értékelhető tényezőkö
 
 d) a részszempontok nem eredményezhetik ugyanazon ajánlati tartalmi elem többszöri értékelését;
 
-e) ha részszempont körében alszempontok is meghatározásra kerülnek, alszempontonként azok – tényleges jelentőségével arányban álló – súlyszámát is meg kell adni.
+e) ha részszempont körében alszempontok is meghatározásra kerülnek, alszempontonként azok – tényleges jelentőségével arányban álló – súlyszámát is meg kell adni. Nem minősül alszempont megadásának, ha az ajánlatkérő a nem mennyiségi módon értékelhető részszemponttal kapcsolatban a (3) bekezdés d) pontja szerinti módszer megadása során leírja, hogy a részszemponttal összefüggő ajánlati elem mely összetevőit, vagy milyen tulajdonságait fogja vizsgálni;
+
+f) a részszempontok körében értékelhető a munkanélküli vagy tartósan munkanélküli rétegek foglalkoztatásának a közbeszerzés során megajánlott mértéke.
 
 (5) A (3) bekezdésben foglaltakat is az ajánlati felhívásban kell megadni [a c) és d) pont esetében az egyéb információk körében] azzal, hogy a d) pont szerinti módszer (módszerek) részletes ismertetése a dokumentációban is megadható.
 
 (6) A (3) bekezdés d) pontja szerinti módszerekről, az ajánlatok elbírálásáról a Közbeszerzések Tanácsa ajánlást készít.
+
+(7) Az ajánlatkérő az ellenszolgáltatást tartalmazó bírálati szemponton vagy részszemponton (alszemponton) kívüli részszempontokkal (alszempontokkal) összefüggő ajánlati elemmel kapcsolatban az ajánlati felhívásban jogosult meghatározni az adott ajánlati elem azon legkedvezőbb szintjét, melyre és az annál még kedvezőbb vállalásokra egyaránt a (3) bekezdés c) pontja szerinti ponthatár felső határával azonos számú pontot ad.
+
+(8) Az ajánlatkérő az ellenszolgáltatást tartalmazó bírálati szemponton vagy részszemponton (alszemponton) kívüli részszempontokkal (alszempontokkal) összefüggő ajánlati elemmel kapcsolatban az ajánlati felhívásban jogosult meghatározni olyan elvárást, melynél kedvezőtlenebb az adott ajánlati elem nem lehet (minimális elvárás).

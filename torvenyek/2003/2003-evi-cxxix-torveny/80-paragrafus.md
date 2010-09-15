@@ -4,4 +4,10 @@
 
 (3) Az ajánlatok felbontásakor ismertetni kell az ajánlattevők nevét, címét (székhelyét, lakóhelyét), valamint azokat a főbb, számszerűsíthető adatokat, amelyek a bírálati szempont (részszempontok) alapján értékelésre kerülnek.
 
-(4) Az ajánlatok felbontásáról és ismertetéséről az ajánlatkérőnek jegyzőkönyvet kell készítenie, amelyet a bontástól számított öt napon belül meg kell küldeni az összes ajánlattevőnek.
+(4) Ha az ajánlatok bontásán egy – ott jelen lévő, (2) bekezdés szerinti – személy kéri, az ajánlat ismertetését követően azonnal lehetővé kell tenni, hogy betekinthessen a 70. § (8) bekezdése szerinti iratba.
+
+(5) Ha az ajánlat eredeti példánya nincs összefűzve, illetőleg nem a 70/A. § (1) bekezdés a) pontja szerinti módon vagy az ajánlati felhívásban a 70. § (1) bekezdése alapján előírt módon van összefűzve, akkor – ha az érintett ajánlattevő a bontáson jelen van – az ajánlatkérő felhívására, az ajánlatkérő által rendelkezésre bocsátott anyagokkal elvégzi vagy kiegészíti az ajánlat összefűzését, ha nincs jelen, akkor az ajánlatkérő két képviselője az ajánlat eredeti példányát a bontáson a 70/A. § (1) bekezdés a) pontja vagy az ajánlati felhívás szerint összefűzi vagy az összefűzést kiegészíti, azzal az eltéréssel, hogy a matricát az ajánlatkérő jogosult lepecsételni, illetőleg aláírni. Ha az ajánlatok közül az eredeti példány nincs megjelölve, egy tetszőleges példányt kell az „eredeti” megjelöléssel ellátni és – adott esetben – megfelelően összefűzni.
+
+(6) A nem elektronikusan beadott ajánlatok felbontásáról és ismertetéséről az ajánlatkérőnek jegyzőkönyvet kell készítenie, amelyet a bontástól számított öt napon belül meg kell küldeni az összes ajánlattevőnek.
+
+(7) Ha a 20. § (1) bekezdésére tekintettel a közbeszerzési eljárásban az ajánlatokat elektronikusan adták be, akkor azok bontását elektronikusan végzi az ajánlatkérő. Ebben az esetben a (2) bekezdés nem alkalmazandó, a (3) bekezdés szerinti adatokat pedig a bontás időpontjától kezdve azonnal elektronikusan kell – azzal a tartalommal, ahogyan azok az ajánlatban szerepelnek – az ajánlattevők részére elérhetővé tenni, továbbá a (2) bekezdés szerinti egyéb személyek részére elérhetővé tenni akkor, ha ők legkésőbb az ajánlattételi határidő lejárta előtt az adatokhoz hozzáférést kértek az ajánlatkérőtől.

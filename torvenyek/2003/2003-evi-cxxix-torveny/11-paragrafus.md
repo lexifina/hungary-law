@@ -20,12 +20,12 @@ c) közbeszerzési biztos;
 
 d) a Közbeszerzések Tanácsának tagja.
 
-(5) A hivatalos közbeszerzési tanácsadónak külön jogszabályban meghatározott időközönként és feltételek szerint továbbképzésen kell részt vennie.
+(5)
 
 (6) Amennyiben az ajánlatkérővel munkavégzésre irányuló jogviszonyban álló személy nyilatkozik, hogy kizárólag a vele munkavégzésre irányuló jogviszonyban álló ajánlatkérő részére végez hivatalos közbeszerzési tanácsadói tevékenységet, a hivatalos közbeszerzési tanácsadói névjegyzékbe történő felvételéhez elegendő, ha megfelel a (2) bekezdés a) pontja szerinti feltételeknek, valamint az ajánlatkérővel fennálló jogviszonyát igazolja.
 
 (7) Az ügyvédi vagy jogtanácsosi tevékenység ellátására jogosult is folytathat hivatalos közbeszerzési tanácsadói tevékenységet, ha megfelel az e §-ban foglalt feltételeknek.
 
-(8) Hivatalos közbeszerzési tanácsadó akkor láthat el az ügyvédekről szóló 1998. évi XI. törvény 5. § (1)–(2) bekezdésében meghatározott tevékenységet, ha ilyen tevékenység ellátására egyébként jogosult.
+(8)
 
-(9) Hivatalos közbeszerzési tanácsadóként nem járhat el az, aki az adott eljárásban átláthatósági biztosként jár el.
+(9)

@@ -4,4 +4,4 @@
 
 (2) Az ajánlatkérő az ajánlatok elbírálásának befejezésekor külön jogszabályban meghatározott minta szerint írásbeli összegezést köteles készíteni az ajánlatokról.
 
-(3) A (2) bekezdés vagy a 96/C. § szerinti összegezést az Európai Bizottság, illetőleg a Közbeszerzések Tanácsa kérésére meg kell küldeni. Az Európai Bizottság részére az összegezést a Közbeszerzések Tanácsán keresztül kell megküldeni.
+(3) A (2) bekezdés vagy a 96. § (4) bekezdés szerinti összegezést az Európai Bizottság, illetőleg a Közbeszerzések Tanácsa kérésére meg kell küldeni. Az Európai Bizottság részére az összegezést a Közbeszerzések Tanácsán keresztül kell megküldeni.

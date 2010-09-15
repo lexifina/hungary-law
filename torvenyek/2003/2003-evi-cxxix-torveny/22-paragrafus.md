@@ -2,7 +2,7 @@
 
 22. § (1) E fejezet alkalmazásában ajánlatkérők:
 
-a) a minisztérium, a Miniszterelnöki Hivatal, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
+a) a minisztérium, a Miniszterelnökség, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 
 b) az állam, az a) pontban meghatározott szervezeteken kívüli központi költségvetési szerv, a külön törvény alapján biztosított működési keret terhére lefolytatandó beszerzések tekintetében az országgyűlési képviselőcsoportok a fejezetet irányító szerv vezetőjének engedélyével, a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény 18. § (1) bekezdésének a)–c) pontjában, valamint (3) bekezdésében említett szervek, továbbá az alaptevékenysége ellátásához szükséges beszerzések tekintetében az elkülönített állami pénzalap kezelője, a társadalombiztosítási költségvetési szerv;
 

@@ -10,6 +10,6 @@ d) az ajánlatkérő az eljárást a szerződés megkötésére, illetőleg telj
 
 e) valamelyik ajánlattevőnek az eljárás tisztaságát vagy a többi ajánlattevő érdekeit súlyosan sértő cselekménye miatt az ajánlatkérő az eljárás érvénytelenítéséről dönt;
 
-f) a békéltetési eljárás alapján az ajánlatkérő az eljárás érvénytelenítéséről dönt;
+f)
 
 g) a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérő valamely döntését, és az ajánlatkérő új közbeszerzési eljárás lefolytatását határozza el, vagy eláll az eljárás lefolytatásának szándékától.

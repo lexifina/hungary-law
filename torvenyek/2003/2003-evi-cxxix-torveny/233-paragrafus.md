@@ -10,4 +10,4 @@
 
 (5) A keretmegállapodásnak tartalmaznia kell az adott időtartam alatt annak alapján kötendő szerződések lényeges feltételeit, különösen a közbeszerzések tárgyát, az ellenszolgáltatás mértékét, és ha lehetséges, a közbeszerzések előirányzott mennyiségét.
 
-(6) A keretmegállapodás – a 73. § (1) bekezdése szerinti melléklete kivételével, feltéve, hogy az abban foglaltak nem ellentétesek a 96/A. § (2) bekezdésével – nyilvános, annak tartalma közérdekű adatnak minősül.
+(6) A keretmegállapodás – a 73. § (1) bekezdése szerinti részei kivételével, feltéve, hogy az abban foglaltak nem ellentétesek a 96. § (3) bekezdésével – nyilvános, annak tartalma közérdekű adatnak minősül.

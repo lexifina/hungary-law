@@ -4,4 +4,4 @@
 
 (3) Az ajánlatkérő köteles érvénytelennek nyilvánítani az ajánlatot, ha nem tartja elfogadhatónak és a gazdasági ésszerűséggel összeegyeztethetőnek az indokolást.
 
-(4) Az ajánlatkérő a (3) bekezdés szerinti érvénytelen ajánlatokról köteles tájékoztatni a Közbeszerzések Tanácsát.
+(4)

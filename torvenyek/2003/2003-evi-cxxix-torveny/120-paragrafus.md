@@ -26,6 +26,6 @@ l) az eredményhirdetés időpontját és a szerződéskötés tervezett időpon
 
 m) az ajánlattételi felhívás megküldésének napját.
 
-(2) A nyílt eljárásnak (3. cím) az 54. § (6) bekezdésének a) pontjában, az 56. § (5) bekezdésében, az 59. §-ban, a 79. § (3) bekezdésében és a 83. §-ban említett ajánlati felhívása helyett ajánlattételi felhívást kell érteni.
+(2) A nyílt eljárásnak (3. cím) az 54. §, az 56. § (5) bekezdésében, az 59. §-ban, a 79. § (3) bekezdésében és a 83. §-ban említett ajánlati felhívása helyett ajánlattételi felhívást kell érteni.
 
 (3) Az ajánlattételi felhívás tartalmazhatja azokat a követelményeket, feltételeket is, amelyeket a nyílt eljárás szabályai szerint a dokumentációban is meg lehet adni (51. § (3) bekezdése, 57. § (5) bekezdése, 58. § (1) bekezdése, 79. § (3) bekezdése).

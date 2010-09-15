@@ -4,4 +4,4 @@
 
 (3) A részvételi jelentkezések felbontásakor ismertetni kell a részvételre jelentkezők nevét, címét (székhelyét, lakóhelyét).
 
-(4) A részvételi jelentkezések felbontásáról és ismertetéséről az ajánlatkérőnek jegyzőkönyvet kell készítenie, amelyet a bontástól számított öt napon belül meg kell küldeni az összes jelentkezőnek.
+(4) A részvételi jelentkezések felbontására a 80. § (5)–(7) bekezdését megfelelően alkalmazni kell.
