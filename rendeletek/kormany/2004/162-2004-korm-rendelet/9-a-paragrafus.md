@@ -1,1 +1,0 @@
-## 9. § A szerződés módosítását megalapozó körülménynek (Kbt. 303. §) tekintendő különösen, ha a szerződés teljesítése során olyan objektum kerül elő, amelyről a kulturális örökségvédelmi hatóság külön jogszabályban meghatározott intézkedése alapján feltételezhető, hogy az kulturális örökségi értéknek minősül.
