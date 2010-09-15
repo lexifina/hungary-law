@@ -2,31 +2,7 @@
 
 ## 2. a ,,XXXII. Magyar Távirati Iroda'' költségvetési fejezet előirányzatát az ,,I. Országgyűlés'' költségvetési fejezetbe csoportosítja át;
 
-## 3. felhatalmazza a rénytársaságnak az Nht. 6. §-a alapján kinevezett elnökét, hogy
-
-## a) a részvénytársaság cégbejegyzésére irányuló kérelemhez mellékelt Alapító Okiratot egészítse ki a részvénytársaság elnökének, a felügyelő bizottság tagjainak a könyvvizsgálójának és a Tulajdonosi Tanácsadó Testület tagjainak az adatait tartalmazó melléklettel,
-
-## b) a részvénytársaság alapításával összefüggő cégbírósági bejelentéseket öt hónapon belül tegye meg,
-
-## c) az Alapító Okiratot az Állami Pénz- és Tőkepiaci Felügyelethez nyújtsa be;
-
-## 4. felkéri az országgyűlési képviselőcsoportokat, hogy nyolc napon belül tegyék meg javaslataikat a Tulajdonosi Tanácsadó Testület (a továbbiakban: TTT) tagjaira;
-
-## 5. felkéri a TTT-t, illetve a részvénytársaság munkavállalóit a felügyelő bizottság tagjainak két hónapon belül történő megválasztására;
-
-## 6. felkéri a TTT-t, hogy a részvénytársaság könyvvizsgálóját két hónapon belül bízza meg;
-
-## 7. a) felkéri a TTT-t, hogy a részvénytársaság elnöki tisztségére két hónapon belül írjon ki nyilvános pályázati felhívást,
-
-## b) felkéri a TTT-t, hogy az elnöki tisztségre benyújtott pályázatokat bírálja el, és három hónapon belül tegyen előterjesztést a miniszterelnöknek az elnök személyére teendő javaslatra;
-
-## 8. felkéri és felhatalmazza a TTT-t a felügyelő bizottság első munkavállalók által választandó tagjainak választásával kapcsolatos szabályzat jóváhagyására. A Szabályzat – munkavállalói érdekképviseleti szervekkel egyeztetett módon történő – előkészítésére felkéri és felhatalmazza az MTI Rt.-nek – az MTI Közalkalmazotti Tanácsának átalakulásával létrejött – Üzemi Tanácsát;
-
-## 9. felkéri a Kormányt, hogy az MTI Rt. az alapítás napját követő 90 napon belül a megszűnő költségvetési szerv zárómérlege alapján készítse el az MTI Rt. átalakulása napjára vonatkozóan az MTI Rt. vagyonértékelését, és ennek alapján határozza meg a részvénytársaság saját tőkéjének módosítását, és ennek megfelelően az Alapító Okiratnak a saját tőke meghatározását tartalmazó pontjainak és mellékleteinek módosítására vonatkozó javaslatot legkésőbb október 31-ig nyújtsa be az Országgyűlés részére;
-
-## 10. felhatalmazza a Magyar Távirati Iroda hivatalban lévő vezérigazgatóját, hogy a részvénytársaság elnökének kinevezéséig a részvénytársaságot – az Nht. 33. §-ban foglaltakkal összhangban – képviselje.
-
-## 11. Ez a határozat a közzététele napján lép hatályba.
+## 3–11.[^2]
 
 ## Melléklet a 70/1997. (VII. 15.) OGY határozathoz
 
@@ -36,7 +12,7 @@
 
 ## ALAPÍTÓ OKIRAT,
 
-## amely a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.), valamint a nemzeti hírügynökségről szóló törvény (a továbbiakban: Nht.) alapján a Magyar Távirati Iroda Részvénytársaság (a továbbiakban: részvénytársaság) zártkörű alapításáról az alábbiak szerint rendelkezik:[^2]
+## amely a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.), valamint a nemzeti hírügynökségről szóló törvény (a továbbiakban: Nht.) alapján a Magyar Távirati Iroda Részvénytársaság (a továbbiakban: részvénytársaság) zártkörű alapításáról az alábbiak szerint rendelkezik:[^3]
 
 ## I. A részvénytársaság alapvető adatai
 
@@ -44,7 +20,7 @@
 
 ## Székhely: Budapest V., Kossuth tér 1–3.
 
-## 1.2.[^3] A részvénytársaság cégneve: MTI Magyar Távirati Iroda Zártkörűen működő Részvénytársaság
+## 1.2.[^4] A részvénytársaság cégneve: MTI Magyar Távirati Iroda Zártkörűen működő Részvénytársaság
 
 ## – angolul: MTI Hungarian News Agency Privately Owned Joint-Stock Company
 
@@ -66,7 +42,7 @@
 
 ## 1.3. A részvénytársaság székhelye: Budapest I., Naphegy tér 8.
 
-## 1.4.[^4] A részvénytársaság telephelyei:
+## 1.4.[^5] A részvénytársaság telephelyei:
 
 ## Budapest I., Fém u. 8.
 
@@ -120,7 +96,7 @@
 
 ## c) gondoskodik műszaki eszközeinek üzemeltetéséről és módszeres fejlesztéséről.
 
-## 2.3.[^5] A részvénytársaság a 2.1. pontban meghatározott feladatok megvalósítása érdekében az alábbi „A gazdasági tevékenységek egységes ágazati osztályozási rendszerébe” (TEÁOR 2003) tartozó tevékenységi kört gyakorolja:
+## 2.3.[^6] A részvénytársaság a 2.1. pontban meghatározott feladatok megvalósítása érdekében az alábbi „A gazdasági tevékenységek egységes ágazati osztályozási rendszerébe” (TEÁOR 2003) tartozó tevékenységi kört gyakorolja:
 
 ## Fő tevékenység:
 
@@ -238,7 +214,7 @@
 
 ## A Magyar Távirati Iroda költségvetési szerv vagyonértékelését az AUDIT Könyvszakértő és Tanácsadó Rt. és az Aquincum Osztrák–Magyar Könyvszakértői Kft. által létrehozott jogi személyiség nélküli konzorcium végezte, a vagyonmérleget dr. Horváth József (bejegyzési szám: KI-3284/95/XII.) okleveles könyvvizsgáló auditálta.
 
-## 3.2.[^6] A részvénytársaság alapításkori saját tőkéje 2 642 394 000 Ft, azaz kettőmilliárd-hatszáznegyvenkettőmillió-háromszázkilencvennégyezer forint, amely 1 750 000 000 Ft, azaz egymilliárd-hétszázötvenmillió forint alaptőkéből (jegyzett tőkéből) és 892 394 000 Ft, azaz nyolcszázkilencvenkettőmillió-háromszázkilencvennégy-
+## 3.2.[^7] A részvénytársaság alapításkori saját tőkéje 2 642 394 000 Ft, azaz kettőmilliárd-hatszáznegyvenkettőmillió-háromszázkilencvennégyezer forint, amely 1 750 000 000 Ft, azaz egymilliárd-hétszázötvenmillió forint alaptőkéből (jegyzett tőkéből) és 892 394 000 Ft, azaz nyolcszázkilencvenkettőmillió-háromszázkilencvennégy-
 
 ## ezer forint tőketartalékból áll.
 
@@ -304,7 +280,7 @@
 
 ## 5.6. Az elnök gondoskodik a részvénytársaság üzleti könyveinek – így különösen a részvénykönyvnek – a szabályszerű vezetéséről.
 
-## 5.7.[^7] A részvénytársaság elnöke az Nht., a Gt., más jogszabályok és az Alapító Okirat rendelkezéseivel összhangban irányítja a részvénytársaságot. Ennek keretében:
+## 5.7.[^8] A részvénytársaság elnöke az Nht., a Gt., más jogszabályok és az Alapító Okirat rendelkezéseivel összhangban irányítja a részvénytársaságot. Ennek keretében:
 
 ## – évente írásban beszámol az Országgyűlésnek a részvénytársaság tevékenységéről, amelynek keretében sor kerül a mérleg és eredménykimutatás jóváhagyására, valamint a nyereség felosztására. Az elnök beszámolóját a részvénytársaság felügyelőbizottságának véleményével együtt kell az Országgyűlés elé terjeszteni. A beszámolóhoz mellékelni kell az Állami Számvevőszék elnökének jelentését a részvénytársaság gazdasági tevékenységéről;
 
@@ -318,7 +294,7 @@
 
 ## – az elnök köteles a felügyelő bizottság egyidejű értesítése mellett az Alapítót – a szükséges intézkedésekre vonatkozó javaslat megtételével – tájékoztatni, ha a részvénytársaság az alaptőkéjének egyharmadát elvesztette, vagy a részvénytársaság fizetéseit megszüntette, és vagyona a tartozásokat nem fedezi.
 
-## 5.8.[^8] Az elnök és a részvénytársaság jogviszonya kereteit a TTT-nek az elnöki tisztség betöltésére vonatkozó pályázati felhívásba kell foglalni. Az elnökkel a szerződést a TTT elnöke a TTT határozata szerint köti meg.
+## 5.8.[^9] Az elnök és a részvénytársaság jogviszonya kereteit a TTT-nek az elnöki tisztség betöltésére vonatkozó pályázati felhívásba kell foglalni. Az elnökkel a szerződést a TTT elnöke a TTT határozata szerint köti meg.
 
 ## 5.9. Az elnök a vezető tisztségviselőktől általában elvárható gondossággal köteles eljárni. Kötelezettségei megszegésével a részvénytársaságnak okozott kárért a polgári jog szabályai szerint felel.
 
@@ -328,7 +304,7 @@
 
 ## A részvénytársaság alelnökei a szervezeti és működési szabályzatban meghatározottak szerint helyettesítik az elnököt és képviselik a részvénytársaságot harmadik személyekkel szemben, továbbá bíróságok és más hatóságok előtt.
 
-## 5.12.[^9] A Társaság cégjegyzése úgy történik, hogy a cégjegyzésre jogosult a Társaság kézzel vagy géppel írt előnyomott vagy nyomtatott elnevezése alatt vagy felett írja nevét az aláírási címpéldány szerint.
+## 5.12.[^10] A Társaság cégjegyzése úgy történik, hogy a cégjegyzésre jogosult a Társaság kézzel vagy géppel írt előnyomott vagy nyomtatott elnevezése alatt vagy felett írja nevét az aláírási címpéldány szerint.
 
 ## VI. A részvénytársaság felügyelő bizottsága
 
@@ -482,7 +458,7 @@
 
 ## 10.4. A részvénytársaság elnöke, alelnöke, valamint az a dolgozója, aki 100 ezer Ft-nál nagyobb értékű szerződések megkötésére jogosult, a részvénytársaság nevében nem köthet olyan szerződést, amelyben másik félként maga, a Ptk. 685. § b) pontja szerinti hozzátartozója, illetve olyan társaság szerepel, amelyben maga vagy a Ptk. 685. § b) pontja szerinti hozzátartozója közvetett vagy közvetlen tulajdoni részesedéssel, más vagyoni értékű joggal, illetve személyes érdekeltséggel rendelkezik. Ha a korlátozásban érintettek érdekeltségi körébe tartozó szerződést a részvénytársaság más dolgozója köti meg, a szerződést a részvénytársaság felügyelő bizottságának haladéktalanul meg kell küldeni.
 
-## 10.5.[^10] A részvénytársaság beszerzéseire a közbeszerzésekről szóló törvény előírásai vonatkoznak.
+## 10.5.[^11] A részvénytársaság beszerzéseire a közbeszerzésekről szóló törvény előírásai vonatkoznak.
 
 ## 10.6. A részvénytársaság gazdálkodását az Állami Számvevőszék ellenőrzi.
 
@@ -502,20 +478,21 @@
 
 ## 14.1. A részvénytársaság működésének hivatalos nyelve a magyar.
 
-## 14.2.[^11] A jelen Alapító Okiratban nem érintett, vagy nem teljeskörűen szabályozott kérdésekben az Nht., valamint a gazdasági társaságokról szóló törvény rendelkezéseit kell alkalmazni.
+## 14.2.[^12] A jelen Alapító Okiratban nem érintett, vagy nem teljeskörűen szabályozott kérdésekben az Nht., valamint a gazdasági társaságokról szóló törvény rendelkezéseit kell alkalmazni.
 
 ## 14.3. A részvénytársaság a cégbejegyzéssel, az alakulás napjára visszaható hatállyal jön létre.
 
-1. számú melléklet a Magyar Távirati Iroda Részvénytársaság Alapító Okiratához[^12]
+1. számú melléklet a Magyar Távirati Iroda Részvénytársaság Alapító Okiratához[^13]
 
-[^2]: A mellékletben szereplő Alapító Okirat preambuluma a 27/2007. (III. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^3]: A mellékletben szereplő Alapító Okirat I. részének 1.2. pontja a 27/2007. (III. 28.) OGY határozat 2. pontjával megállapított szöveg.
-[^4]: A mellékletben szereplő Alapító Okirat I. részének 1.4. pontja a 27/2007. (III. 28.) OGY határozat 3. pontjával megállapított szöveg.
-[^5]: A mellékletben szereplő Alapító Okirat II. részének 2.3. pontja a 27/2007. (III. 28.) OGY határozat 4. pontjával megállapított szöveg.
-[^6]: A mellékletben szereplő Alapító Okirat III. fejezete 3.2. pontjának első bekezdése a 7/1998. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^7]: A mellékletben szereplő Alapító Okirat V. részének 5.7. pontja a 27/2007. (III. 28.) OGY határozat 5. pontja szerint módosított szöveg.
-[^8]: A mellékletben szereplő Alapító Okirat V. részének 5.8. pontja a 27/2007. (III. 28.) OGY határozat 6. pontjával megállapított szöveg.
-[^9]: A mellékletben szereplő Alapító Okirat V. részének 5.12. pontját a 27/2007. (III. 28.) OGY határozat 7. pontja iktatta be.
-[^10]: A mellékletben szereplő Alapító Okirat X. részének 10.5. pontja a 27/2007. (III. 28.) OGY határozat 8. pontjával megállapított szöveg.
-[^11]: A mellékletben szereplő Alapító Okirat XIV. részének 14.2. pontja a 27/2007. (III. 28.) OGY határozat 9. pontjával megállapított szöveg.
-[^12]: A mellékletben szereplő Alapító Okirat 1. számú melléklete a 7/1998. (II. 18.) OGY határozat 2. pontjával megállapított szöveg.
+[^2]: A 3–11. pontot a 80/2010. (IX. 15.) OGY határozat 10. pontja hatályon kívül helyezte.
+[^3]: A mellékletben szereplő Alapító Okirat preambuluma a 27/2007. (III. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A mellékletben szereplő Alapító Okirat I. részének 1.2. pontja a 27/2007. (III. 28.) OGY határozat 2. pontjával megállapított szöveg.
+[^5]: A mellékletben szereplő Alapító Okirat I. részének 1.4. pontja a 27/2007. (III. 28.) OGY határozat 3. pontjával megállapított szöveg.
+[^6]: A mellékletben szereplő Alapító Okirat II. részének 2.3. pontja a 27/2007. (III. 28.) OGY határozat 4. pontjával megállapított szöveg.
+[^7]: A mellékletben szereplő Alapító Okirat III. fejezete 3.2. pontjának első bekezdése a 7/1998. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^8]: A mellékletben szereplő Alapító Okirat V. részének 5.7. pontja a 27/2007. (III. 28.) OGY határozat 5. pontja szerint módosított szöveg.
+[^9]: A mellékletben szereplő Alapító Okirat V. részének 5.8. pontja a 27/2007. (III. 28.) OGY határozat 6. pontjával megállapított szöveg.
+[^10]: A mellékletben szereplő Alapító Okirat V. részének 5.12. pontját a 27/2007. (III. 28.) OGY határozat 7. pontja iktatta be.
+[^11]: A mellékletben szereplő Alapító Okirat X. részének 10.5. pontja a 27/2007. (III. 28.) OGY határozat 8. pontjával megállapított szöveg.
+[^12]: A mellékletben szereplő Alapító Okirat XIV. részének 14.2. pontja a 27/2007. (III. 28.) OGY határozat 9. pontjával megállapított szöveg.
+[^13]: A mellékletben szereplő Alapító Okirat 1. számú melléklete a 7/1998. (II. 18.) OGY határozat 2. pontjával megállapított szöveg.

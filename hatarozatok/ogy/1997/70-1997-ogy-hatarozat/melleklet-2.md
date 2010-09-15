@@ -214,6 +214,6 @@
 
 ## azaz egymilliárd-ötszázmillió forint
 
-2. számú melléklet a Magyar Távirati Iroda Részvénytársaság Alapító Okiratához[^13]
+2. számú melléklet a Magyar Távirati Iroda Részvénytársaság Alapító Okiratához[^14]
 
-[^13]: A 2. számú melléklet vonatkozásában lásd az OGY határozat 3/a) pontját.
+[^14]: A 2. számú melléklet vonatkozásában lásd az OGY határozat 3/a) pontját.
