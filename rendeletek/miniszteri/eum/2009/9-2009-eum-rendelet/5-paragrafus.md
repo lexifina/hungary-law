@@ -6,10 +6,11 @@
 
 (3)–(4)[^2]
 
-(5) Az r. e rendelet hatálybalépését megelőző napon hatályos rendelkezései alapján már minősített szoftver 2009. július 1-jétől akkor alkalmazható, ha a szoftver szerzői vagy felhasználási jogaival rendelkező szervezet az e rendelet szerinti módosítások kapcsán szükséges szoftvermódosítás teljesítéséről 2009. június 30-áig nyilatkozatot nyújt be az Egészségbiztosítási Felügyelethez.
+(5)[^3]
 
-(6)[^3]
+(6)[^4]
 
 [^1]: Az 1–4. § e rendelet 5. § (6) bekezdése alapján hatályát vesztette.
 [^2]: Az 5. § (3)–(4) bekezdése e rendelet 5. § (6) bekezdése alapján hatályát vesztette.
-[^3]: Az 5. § (6) bekezdése ugyenezen bekezdés alapján hatályát vesztette.
+[^3]: Az 5. § (5) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § d) pontja hatályon kívül helyezte.
+[^4]: Az 5. § (6) bekezdése ugyenezen bekezdés alapján hatályát vesztette.
