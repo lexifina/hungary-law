@@ -24,25 +24,29 @@ i) engedélyezett és nyilvántartásba vett gyógyszerismertetői tevékenység
 
 j) az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítéshez kapcsolódó bér- és létszám-statisztikai adatokat
 
-személyazonosításra alkalmatlan módon kezeli, feldolgozza és azok alapján elemzi, értékeli az egészségügyi ágazatban dolgozók munkaerő-piaci, foglalkoztatási helyzetét, részt vesz – különös figyelemmel az ellátási szükségletekhez igazodó humánerőforrási feltételek megteremtésének követelményére – a képzési, mobilitási programok irányának meghatározásában, valamint az egységes egészségügyi ágazati humánerőforrás stratégiai javaslat kidolgozásában, beleértve az életpályamodell és a kapcsolódó szolgáltatási koncepció kidolgozását is.
+(3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján elemzi, értékeli az egészségügyi ágazatban dolgozók munkaerő-piaci, foglalkoztatási helyzetét, részt vesz – különös figyelemmel az ellátási szükségletekhez igazodó humánerőforrási feltételek megteremtésének követelményére – a képzési, mobilitási programok irányának meghatározásában, valamint az egységes egészségügyi ágazati humánerőforrás stratégiai javaslat kidolgozásában, beleértve az életpályamodell és a kapcsolódó szolgáltatási koncepció kidolgozását is.
 
-(3) Személyazonosításra alkalmatlan módon továbbítja a (2) bekezdés szerinti szervnek:
+(3) A (2) bekezdés szerinti szervnek
 
-a) a (2) bekezdés a) pontja szerinti adatokat az alapnyilvántartást vezető szerv,
+a) személyazonosításra alkalmas módon továbbítja
 
-b) a (2) bekezdés b)–d) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
+aa) a (2) bekezdés a) pontja szerinti adatokat az alapnyilvántartást vezető szerv,
 
-c) a (2) bekezdés e) pontja szerinti adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
+ab) a (2) bekezdés b)–d) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
 
-d) a (2) bekezdés f) pontja szerinti adatokat a 116. § (3) bekezdés szerinti intézmények,
+ac) a (2) bekezdés e) pontja szerinti adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
 
-e) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
+ad) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
 
-f) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
+ae) a (2) bekezdés i) pontja szerinti adatokat az egészségügyi államigazgatási szerv;
 
-g) a (2) bekezdés i) pontja szerinti adatokat az egészségbiztosítási felügyeleti hatóság,
+b) személyazonosításra alkalmatlan módon továbbítja
 
-h) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat.
+ba) a (2) bekezdés f) pontja szerinti adatokat a 116. § (3) bekezdés szerinti intézmények,
+
+bb) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
+
+bc) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat.
 
 (4) Az egységes ágazati humánerőforrás-monitoring végrehajtása érdekében a (2) bekezdésben meghatározott szerv a (2) bekezdésben meghatározottakon kívül jogosult a hatósági, ellenőrzési és gazdasági tevékenységgel járó, továbbá a nyilvános és közhitelű nyilvántartások vezetésével összefüggő adatgyűjtést végző szervtől a rendelkezésre álló adatokat egyedi azonosításra alkalmatlan módon átvenni. Ezen adatok átadása céljából megkeresett szervek a megkeresésben foglaltak szerinti adatokat térítésmentesen kötelesek átadni.
 
