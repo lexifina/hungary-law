@@ -1,4 +1,4 @@
-3. §[^10] (1) Az OEP központi szerve ellátja a jogszabályokban meghatározott feladatait, ennek keretében
+3. §[^11] (1) Az OEP központi szerve ellátja a jogszabályokban meghatározott feladatait, ennek keretében
 
 a) végzi az Egészségbiztosítási Alap (a továbbiakban: E. Alap) kezelésével – ideértve a finanszírozással és az ártámogatás-elszámolással kapcsolatos feladatokat –, a nyilvántartások vezetésével, a pénzügyi elszámolásokkal és az adatszolgáltatási kötelezettséggel kapcsolatos feladatokat,
 
@@ -50,7 +50,7 @@ ae) a pénzbeli ellátásokkal, valamint a baleseti ellátásokkal, az utazási 
 
 af) az egészségbiztosítási nyilvántartások vezetésével,
 
-ag)[^11] a TAJ-számot igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával
+ag)[^12] a TAJ-számot igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával
 
 ## kapcsolatosan a hatáskörébe tartozó feladatokat,
 
@@ -70,5 +70,5 @@ d) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapít
 
 (3) A 2. § (1) bekezdésében foglaltaktól eltérően a REP a (2) bekezdés a) pont af)–ag) alpontjában meghatározott hatáskörét országos illetékességgel gyakorolja.
 
-[^10]: A 3. § a 297/2008. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a regionális egészségbiztosítási pénztár számára megállapított feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – a regionális egészségbiztosítási pénztár az illetékességi területén a 2009. január 1. napját megelőző napon működő fővárosi, megyei egészségbiztosítási pénztár jogutódja. A Vasutas Társadalombiztosítási Igazgatóság jogutódja – valamennyi feladatára és az ahhoz kapcsolódó jogosultságokra, kötelezettségekre is kiterjedően – a Közép-Magyarországi Regionális Egészségbiztosítási Pénztár.
-[^11]: A 3. § (2) bekezdés a) pont ag) alpontja a 139/2010. (IV. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^11]: A 3. § a 297/2008. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a regionális egészségbiztosítási pénztár számára megállapított feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – a regionális egészségbiztosítási pénztár az illetékességi területén a 2009. január 1. napját megelőző napon működő fővárosi, megyei egészségbiztosítási pénztár jogutódja. A Vasutas Társadalombiztosítási Igazgatóság jogutódja – valamennyi feladatára és az ahhoz kapcsolódó jogosultságokra, kötelezettségekre is kiterjedően – a Közép-Magyarországi Regionális Egészségbiztosítási Pénztár.
+[^12]: A 3. § (2) bekezdés a) pont ag) alpontja a 139/2010. (IV. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
