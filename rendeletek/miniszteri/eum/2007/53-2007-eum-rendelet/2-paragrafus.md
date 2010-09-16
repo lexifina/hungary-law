@@ -2,7 +2,7 @@
 
 a) gyógyszer: a Gyftv. 3. § b) pontja szerinti gyógyszer;
 
-b)[^1] gyógyszertörzs: az a) pont szerinti gyógyszerek befogadásáról szóló első fokú döntést hozó szerv [az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP)] által honlapján közzétett, valamennyi gyógyszer teljes körét és az azok adataiban bekövetkezett változásokat folyamatosan követő adatbázis;
+b)[^2] gyógyszertörzs: az a) pont szerinti gyógyszerek befogadásáról szóló első fokú döntést hozó szerv (OEP) által honlapján közzétett, valamennyi gyógyszer teljes körét és az azok adataiban bekövetkezett változásokat folyamatosan követő adatbázis;
 
 c) TTT (Társadalombiztosítási Támogatási Termék) kód: a gyógyszerek társadalombiztosítási támogatásba történő befogadáskor az OEP által adott, a konkrét gyógyszer azonosítását szolgáló 9 számjegyből álló kód;
 
@@ -18,4 +18,4 @@ h) integrált informatikai rendszer: olyan számítógépes program, amely az eg
 
 i) nyilvántartási szám: az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) vagy az Európai Unió Bizottsága által a gyógyszer forgalomba hozatalra engedélyezése során adott azonosító szám.
 
-[^1]: A 2. § b) pontja az 55/2008. (XII. 31.) EüM rendelet 13. §-a szerint módosított szöveg.
+[^2]: A 2. § b) pontja a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
