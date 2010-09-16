@@ -18,4 +18,4 @@ d) természetes személy, aki az e törvény alapján létrehozott pénztári sz
 
 (3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre és az ilyen tevékenységet végző egyéb szervezetekre a biztosítóintézetekről és a biztosítási tevékenységről szóló 1995. évi XCVI. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
-(4) E törvény hatálya és a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) intézkedési jogköre, valamint az Egészségbiztosítási Felügyelet külön jogszabály szerinti jogköre az (1) bekezdés a) pontjában meghatározott szervezetekre az alakuló közgyűlésük időpontjával kezdődően terjed ki.
+(4) E törvény hatálya és a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) intézkedési jogköre az (1) bekezdés a) pontjában meghatározott szervezetekre az alakuló közgyűlésük időpontjával kezdődően terjed ki.

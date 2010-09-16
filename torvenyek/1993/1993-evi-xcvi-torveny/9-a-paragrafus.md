@@ -2,7 +2,7 @@
 
 9/A. § (1) A pénztár működési alapja terhére felügyeleti díjat fizet.
 
-(2) A felügyeleti díj a (3)–(5) bekezdés szerint számított alapdíj, valamint a (6) bekezdés szerint számított változó díj összege. Az egészségpénztárak által fizetendő felügyeleti díj ezen összeg 80%-a.
+(2) A felügyeleti díj a (3)–(5) bekezdés szerint számított alapdíj, valamint a (6) bekezdés szerint számított változó díj összege.
 
 (3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószám szorzata. Az alapdíjegység ötvenezer forint.
 
