@@ -1,4 +1,4 @@
-## 14/B. §[^63] A Kormány egészségügyi államigazgatási szervként az OTH-t jelöli ki az Eütv. 238. § (3) bekezdésében meghatározott feladat ellátására.
+## 14/B. §[^67] A Kormány egészségügyi államigazgatási szervként az OTH-t jelöli ki az Eütv. 238. § (3) bekezdésében meghatározott feladat ellátására.
 
 ## A Szolgálat hatósági eljárása, illetékessége
 
@@ -12,4 +12,4 @@ b) amennyiben első fokon a regionális intézet, illetőleg – ha jogszabály 
 
 c) amennyiben első fokon az OTH vagy az országos tisztifőorvos járt el, a külön jogszabály szerinti jogorvoslati hatóság
 
-[^63]: A 14/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 522. § (5) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: A 14/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 522. § (5) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

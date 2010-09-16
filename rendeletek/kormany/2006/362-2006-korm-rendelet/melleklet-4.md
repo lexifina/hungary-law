@@ -746,7 +746,7 @@
 
 | Illetékességi terület: | XXI. Kerület |
 
-4. számú melléklet a 362/2006. (XII. 28.) Korm. rendelethez[^94]
+4. számú melléklet a 362/2006. (XII. 28.) Korm. rendelethez[^99]
 
 A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban közreműködő szakhatóságok
 
@@ -822,4 +822,4 @@ valamint a passzív intézményes ellenőrzésre történő áttérés tekintet�
 
 | 8. | Minden esetben. | Az építésföldtani megalapozottság és a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, a szűkebb környezet felszíni és felszín alatti képződményeire, a felszínmozgásra utaló jellegre, a felszíni vízelvezetési technológiákra. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^94]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 523–524. §-a, a 337/2009. (XII. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^99]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 523–524. §-a, a 337/2009. (XII. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.

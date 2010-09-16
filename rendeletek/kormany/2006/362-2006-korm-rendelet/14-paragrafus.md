@@ -1,4 +1,4 @@
-14. § (1)[^60] A Kormány egészségügyi államigazgatási szervként az Országos Kémiai Biztonsági Intézetet jelöli ki a Kbtv.
+14. § (1)[^64] A Kormány egészségügyi államigazgatási szervként az Országos Kémiai Biztonsági Intézetet jelöli ki a Kbtv.
 
 a) 6. § (1) és (2) bekezdése,
 
@@ -18,7 +18,7 @@ g) 26/A. §-a
 
 (2) A Kormány az Országos Kémiai Biztonsági Intézetet jelöli ki a Kbtv. 24. §-ának (1) bekezdése szerinti, a hazai és nemzetközi adatok feldolgozásáért felelős Információs Központ működtetésére.
 
-(3)[^61] A Kbtv. 25. § (4) bekezdése szerinti, a kémiai biztonságot koordináló tárcaközi bizottság tagjaiként a Kormány a Kbtv. 25. § (1) bekezdése alapján a következőket jelöli ki:
+(3)[^65] A Kbtv. 25. § (4) bekezdése szerinti, a kémiai biztonságot koordináló tárcaközi bizottság tagjaiként a Kormány a Kbtv. 25. § (1) bekezdése alapján a következőket jelöli ki:
 
 a) a környezetvédelemért felelős miniszter,
 
@@ -42,5 +42,5 @@ j) a fogyasztóvédelemért felelős miniszter
 
 által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett társadalmi szervezetek által külön jogszabályban meghatározott módon delegált legfeljebb hat személy.
 
-[^60]: A 14. § (1) bekezdése a 337/2009. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^61]: A 14. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 522. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^64]: A 14. § (1) bekezdése a 337/2009. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^65]: A 14. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 522. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
