@@ -4,7 +4,7 @@ a) az egészségügyi közszolgáltatások közül a szakellátási kötelezetts
 
 b) a közfinanszírozásban részesülő egészségügyi szolgáltatók fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
 
-c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), a külön jogszabály szerinti egészségbiztosítási felügyeleti hatóságra (a továbbiakban: Felügyelet), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
+c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
 
 d) a regionális egészségügyi tanácsokra (a továbbiakban: RET)
 

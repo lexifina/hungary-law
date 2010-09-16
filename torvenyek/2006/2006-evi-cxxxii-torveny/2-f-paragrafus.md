@@ -6,7 +6,7 @@ b) évente írásban beszámol az egészségügyi közszolgáltatás teljesíté
 
 c) haladéktalanul írásban jelenti, ha az egészségügyi szolgáltatónak a 2/G. §-ban meghatározott adóssága keletkezik.
 
-(2) Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szolgáltató ellenőrzése során az egészségügyi ellátási szerződésben meghatározott minőségi mutatók alapján a szolgáltatás nyújtásának minőségét érintő hiányosságokat észlel, a hatáskörükbe tartozó kérdésekben tájékoztatja az egészségügyi államigazgatási szervet, továbbá a Felügyeletet.
+(2) Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szolgáltató ellenőrzése során az egészségügyi ellátási szerződésben meghatározott minőségi mutatók alapján a szolgáltatás nyújtásának minőségét érintő hiányosságokat észlel, a hatáskörükbe tartozó kérdésekben tájékoztatja az egészségügyi államigazgatási szervet.
 
 (3) Amennyiben az egészségügyi államigazgatási szerv az egészségügyi szolgáltatók szakfelügyelete során, vagy az egészségbiztosító az egészségügyi szolgáltatóval kötött finanszírozási szerződés teljesítésének ellenőrzésekor
 

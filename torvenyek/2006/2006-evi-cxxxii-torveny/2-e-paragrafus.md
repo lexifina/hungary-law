@@ -2,7 +2,7 @@
 
 (2) A közszolgáltatásért felelős szerv az egészségügyi ellátási szerződést az (1) bekezdésben meghatározott felmondási időnél rövidebb határidővel is felmondhatja, ha
 
-a) saját ellenőrzése, az egészségügyi államigazgatási szerv, a Felügyelet, az egészségügyi szolgáltatónál működő szakmai vezető testület, a kórházi felügyelő tanács, a betegjogi képviselő vagy a betegek érdek-képviseleti szerveinek jelzése alapján megállapítható, hogy az egészségügyi szolgáltatás nyújtásának minősége csökkent, és e minőségcsökkenést az egészségügyi államigazgatási szervnek a közszolgáltatásért felelős szerv felkérésére lefolytatott célellenőrzése is igazolja,
+a) saját ellenőrzése, az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatónál működő szakmai vezető testület, a kórházi felügyelő tanács, a betegjogi képviselő vagy a betegek érdek-képviseleti szerveinek jelzése alapján megállapítható, hogy az egészségügyi szolgáltatás nyújtásának minősége csökkent, és e minőségcsökkenést az egészségügyi államigazgatási szervnek a közszolgáltatásért felelős szerv felkérésére lefolytatott célellenőrzése is igazolja,
 
 b) az egészségügyi szolgáltató a területi ellátási kötelezettségét folyamatosan, súlyosan megszegi,
 

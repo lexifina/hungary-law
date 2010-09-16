@@ -8,4 +8,4 @@ köteles a számviteli jogszabályok szerinti beszámolóját könyvvizsgálóva
 
 (2) A könyvvizsgálatra, illetve a könyvvizsgálóval szembeni követelményekre a számviteli jogszabályok, valamint a Magyar Könyvvizsgálói Kamaráról és a könyvvizsgálói tevékenységről szóló törvény előírásait kell megfelelően alkalmazni.
 
-(3) Az egészségügyi szolgáltató a Felügyeletnél bejelenti az általa megbízott könyvvizsgáló nevét (cégét), lakóhelyét (székhelyét), telefon-, telefax-elérhetőségét, elektronikus levélcímét, valamint a számviteli jogszabályok szerinti beszámolóját az elkészítését követő 30 napon belül – a független könyvvizsgálói jelentéssel együtt – megküldi a Felügyeletnek.
+(3)
