@@ -1,4 +1,4 @@
-13/B. §[^17] (1)[^18] Az egészségügyi szolgáltató az intézményi várólistáról és a betegfogadási listáról, valamint az azonnali ellátást igénylő esetekről – a (4) és a (9) bekezdésre is figyelemmel – elektronikus úton, személyazonosításra alkalmatlan módon, minden hónap 15. napjáig – a tárgyhónapot megelőző hónap vonatkozásában – a 6. számú melléklet szerinti adattartalommal jelentést küld az Egészségbiztosítási Felügyelet részére.
+13/B. §[^17] (1)[^18] Az egészségügyi szolgáltató az intézményi várólistáról és a betegfogadási listáról, valamint az azonnali ellátást igénylő esetekről – a (4) és a (9) bekezdésre is figyelemmel – elektronikus úton, személyazonosításra alkalmatlan módon, minden hónap 15. napjáig – a tárgyhónapot megelőző hónap vonatkozásában – a 6. számú melléklet szerinti adattartalommal jelentést küld az Országos Egészségbiztosítási Pénztár központi szerve részére.
 
 (2) A várólista tárgyhavi jelentés tartalmazza beavatkozás csoportonként az intézményi várólistára történő felkerülés időpontjával (év, hónap, nap) együtt a beteg sorszámát és az ellátás igénybevételének időpontját, valamint a 6. számú mellékletben meghatározott körülményeit. Amennyiben a beteg az ellátást a tárgyhónapban nem vette igénybe vagy még nem kapta meg, a jelentésben ezt a tényt, valamint ennek a 6. számú melléklet alapján meghatározott okát kell megjelölni.
 
@@ -12,19 +12,19 @@
 
 (7)[^23] Amennyiben az egészségügyi szolgáltató a betegfogadási listáról és a várólistáról szóló tárgyhavi jelentési kötelezettségét nem teljesítette, a tárgyhónapra vonatkozó – külön jogszabály szerinti – finanszírozási összeg 98%-ára jogosult az adott szakma vonatkozásában.
 
-(8)[^24] A (7) bekezdés szerinti rendelkezések végrehajtása érdekében az Egészségbiztosítási Felügyelet a hónap utolsó munkanapjáig értesíti az Országos Egészségbiztosítási Pénztár központi szervét a jelentési kötelezettséget megszegő egészségügyi szolgáltató megnevezéséről, intézményi kódjáról, az adott szakma megnevezéséről, szakma kódjáról és az érintett elszámolási időszakról.
+(8)[^24]
 
 (9)[^25] Az egészségügyi szolgáltatónak a diagnosztikai – ide nem értve a CT, MRI és PET vizsgálatokat – és művese-kezelés ellátásai tekintetében nincs jelentési kötelezettsége.
 
-(10)[^26] Az egészségügyi szolgáltató – az (1) bekezdésben rögzített gyakorisággal – elektronikus úton jelentést küld az Egészségbiztosítási Felügyelet részére arról, hogy az egyes várólistái és betegfogadási listái esetében az újonnan jelentkező, sürgős ellátást nem igénylő betegeket milyen várható várakozási időn belül tudja fogadni.
+(10)[^26] Az egészségügyi szolgáltató – az (1) bekezdésben rögzített gyakorisággal – elektronikus úton jelentést küld az Országos Egészségbiztosítási Pénztár központi szerve részére arról, hogy az egyes várólistái és betegfogadási listái esetében az újonnan jelentkező, sürgős ellátást nem igénylő betegeket milyen várható várakozási időn belül tudja fogadni.
 
 [^17]: A 13/B. §-t a 8/2008. (I. 23.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a betegfogadási listákat és az intézményi várólistákat 2008. február 1. napjáig kell kialakítani.
-[^18]: A 8/2008. (I. 23.) Korm. rendelet 6. § – 43/2008. (II. 29.) Korm. rendelet 3. §-ával megállapított – (2) bekezdése alapján az egészségügyi szolgáltató a 13/B. § (1) bekezdése szerinti jelentéseket első alkalommal – 2008. február és március hónap vonatkozásában együttesen – 2008. április 15-ig küldi meg az Egészségbiztosítási Felügyeletnek. A 13/B. § (1) bekezdése a 69/2008. (III. 31.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^18]: A 13/B. § (1) bekezdése a 69/2008. (III. 31.) Korm. rendelet 7. § (2) bekezdése, a 225/2010. (VIII. 12.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^19]: A 8/2008. (I. 23.) Korm. rendelet 6. § – 43/2008. (II. 29.) Korm. rendelet 3. §-ával megállapított – (2) bekezdése alapján az egészségügyi szolgáltató a 13/B. § (3) bekezdése szerinti jelentéseket első alkalommal – 2008. február és március hónap vonatkozásában együttesen – 2008. április 15-ig küldi meg az Egészségbiztosítási Felügyeletnek. A 13/B. § (3) bekezdésének első mondata a 69/2008. (III. 31.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
 [^20]: A 13/B. § (4) bekezdése a 19/2010. (II. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^21]: A 13/B. § (5) bekezdése a 69/2008. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
 [^22]: A 13/B. § (6) bekezdése a 69/2008. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
 [^23]: A 8/2008. (I. 23.) Korm. rendelet 6. § – 43/2008. (II. 29.) Korm. rendelet 3. §-ával megállapított – (2) bekezdése alapján a 13/B. § (7) bekezdésében foglaltakat első alkalommal a 2008. március hónap adatairól történő jelentés vonatkozásában kell alkalmazni.
-[^24]: A 8/2008. (I. 23.) Korm. rendelet 6. § – 43/2008. (II. 29.) Korm. rendelet 3. §-ával megállapított – (2) bekezdése alapján a 13/B. § (8) bekezdésében foglaltakat első alkalommal a 2008. március hónap adatairól történő jelentés vonatkozásában kell alkalmazni. A 13/B. § (8) bekezdése a 360/2008. (XII. 31.) Korm. rendelet 17. § (12) bekezdése szerint módosított szöveg.
+[^24]: A 13/B. § (8) bekezdését a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés g) pontja hatályon kívül helyezte.
 [^25]: A 13/B. § (9) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
-[^26]: A 13/B. § (10) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^26]: A 13/B. § (10) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 225/2010. (VIII. 12.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

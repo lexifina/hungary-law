@@ -38,9 +38,9 @@
 
 | Nőgyógyászat | Nőgyógyászati műtétek nem malignus folyamatokban | 56850; 56860; 56540; 56550; 56560; 56511; 56710; 56721; 56722. |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^36]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^38]
 
-Várólista jelentés az Egészségbiztosítási Felügyelet részére
+Várólista jelentés az Országos Egészségbiztosítási Pénztár központi szerve részére
 
 A jelentés adattartalma a következő:
 
@@ -64,7 +64,7 @@ A jelentés adattartalma a következő:
 
 | Nincs esemény (várakozás) Csak igénybevett ellátás esetén kitöltendő. | NES |
 
-Betegfogadási listáról szóló jelentés az Egészségbiztosítási Felügyelet részére
+Betegfogadási listáról szóló jelentés az Országos Egészségbiztosítási Pénztár központi szerve részére
 
 (Járóbeteg-ellátás esetén szakrendelésenként)
 
@@ -90,4 +90,4 @@ A jelentés adattartalma a következő:
 
 | Nincs esemény (várakozás) Csak igénybevett ellátás estén kitöltendő. | NES |
 
-[^36]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, e módosító rendelet 6. § (1) bekezdése alapján a betegfogadási listákat és az intézményi várólistákat 2008. február 1. napjáig kell kialakítani. A 6. számú melléklet a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 7. § (1) bekezdését.
+[^38]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése, a 225/2010. (VIII. 12.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
