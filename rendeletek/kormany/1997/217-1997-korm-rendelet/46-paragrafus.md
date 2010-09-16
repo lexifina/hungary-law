@@ -1,3 +1,3 @@
-46. §[^393] A baleseti táppénz folyósítása egy éven túl a Szakértői Intézet elsőfokú szakértői bizottsága véleménye alapján hosszabbítható meg.
+46. §[^394] A baleseti táppénz folyósítása egy éven túl a Szakértői Intézet elsőfokú szakértői bizottsága véleménye alapján hosszabbítható meg.
 
-[^393]: A Vhr. 46. §-a a 213/2007. (VIII. 7.) Korm. rendelet 18. § h) pontjának he) alpontja szerint módosított szöveg.
+[^394]: A Vhr. 46. §-a a 213/2007. (VIII. 7.) Korm. rendelet 18. § h) pontjának he) alpontja szerint módosított szöveg.
