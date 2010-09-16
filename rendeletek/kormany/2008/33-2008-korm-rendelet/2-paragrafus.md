@@ -1,4 +1,4 @@
-2. §[^11] (1) A Magyar Köztársaság területén határon átnyúló szolgáltatásnyújtás keretében az e rendelet 1. és 2. számú mellékletében meghatározott szabályozott szakma gyakorlásával járó szolgáltatási tevékenységet folytatni kívánó szolgáltatásnyújtó köteles a szolgáltatási tevékenység folytatására irányuló szándékát bejelenteni az adott szabályozott szakma vonatkozásában az 1., illetve a 2. számú mellékletben meghatározott hatóságnak.
+2. §[^14] (1) A Magyar Köztársaság területén határon átnyúló szolgáltatásnyújtás keretében az e rendelet 1. és 2. számú mellékletében meghatározott szabályozott szakma gyakorlásával járó szolgáltatási tevékenységet folytatni kívánó szolgáltatásnyújtó köteles a szolgáltatási tevékenység folytatására irányuló szándékát bejelenteni az adott szabályozott szakma vonatkozásában az 1., illetve a 2. számú mellékletben meghatározott hatóságnak.
 
 (2) A szolgáltatásnyújtó a 2. számú mellékletben meghatározott szabályozott szakma gyakorlásával járó szolgáltatási tevékenységét csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a bejelentés alapján a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezte.
 
@@ -20,4 +20,4 @@ a) az adott szakmagyakorlást szabályozó külön kormányrendelet a mérnöki 
 
 b) az adott szakmagyakorlást szabályozó külön kormányrendelet az építész kamarák hatáskörébe tartozó építészeti-műszaki tervezési szakterületen, területrendezési- és településtervezési szakterületen, valamint építésügyi szakterületen (építésügyi műszaki szakértő, építési műszaki ellenőr, felelős műszaki vezető) első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát
 
-[^11]: A 2. § a 214/2009. (IX. 30.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 2. § a 214/2009. (IX. 30.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -72,7 +72,7 @@
 
 | 35. | Átláthatósági biztos | Közbeszerzések Tanácsa |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^19]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^22]
 
 Az Etv. 41. § (1) bekezdése szerinti előzetes ellenőrzés alá tartozó szabályozott szakmák
 
@@ -98,4 +98,4 @@ Az Etv. 41. § (1) bekezdése szerinti előzetes ellenőrzés alá tartozó szab
 
 | 10. | Felvonó- és mozgólépcső ellenőri tevékenység | Budapesti és Pest Megyei Mérnöki Kamara | Budapesti és Pest Megyei Mérnöki Kamara |
 
-[^19]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
