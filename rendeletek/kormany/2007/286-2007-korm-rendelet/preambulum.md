@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva, az egészségbiztosítás hatósági felügyeletéről szóló 2006. évi CXVI. törvény 21. §-ának (3) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
