@@ -1,6 +1,6 @@
-## Egyszerűsített többletkapacitás-befogadási eljárás[^51]
+## Egyszerűsített többletkapacitás-befogadási eljárás[^52]
 
-15/A. §[^52] (1) Az 1. § (1) bekezdés d) és g) pontja szerinti többletkapacitás a 13–15. §-ban foglaltaktól eltérően az e § szerinti eljárás során is befogadásra kerülhet.
+15/A. §[^53] (1) Az 1. § (1) bekezdés d) és g) pontja szerinti többletkapacitás a 13–15. §-ban foglaltaktól eltérően az e § szerinti eljárás során is befogadásra kerülhet.
 
 (2) Az (1) bekezdés szerinti többletkapacitás befogadására vonatkozó, szakmai indoklással ellátott kérelmet az egészségügyi szolgáltatók minden év március 20-áig nyújthatják be a TBB részére. A kérelemhez mellékelni kell:
 
@@ -32,5 +32,5 @@ d) a finanszírozás javasolt kezdési időpontját.
 
 (7) A befogadott többletkapacitásra a finanszírozási szerződéskötési jogosultság hatályát veszti, ha a szolgáltató a közlemény közzétételét vagy a közleményben meghatározott befogadási időpontot követően egy éven belül nem kezdeményezi annak megkötését.
 
-[^51]: A 15/A. §-t megelőző alcímet a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^52]: A 15/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^52]: A 15/A. §-t megelőző alcímet a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^53]: A 15/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.

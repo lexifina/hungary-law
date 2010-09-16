@@ -174,7 +174,7 @@
 
 ## *sze*: külön jogszabály szerinti szakosodott egység.
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^57]
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^58]
 
 Finanszírozási szerződéssel leköthető járóbeteg-szakellátási kapacitások
 
@@ -546,4 +546,4 @@ egészségbiztosítási orvosszakértés
 
 *sze*: külön jogszabály szerinti szakosodott egység
 
-[^57]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése szerint módosított szöveg.
+[^58]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése szerint módosított szöveg.

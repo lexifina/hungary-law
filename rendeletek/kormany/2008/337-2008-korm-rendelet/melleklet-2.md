@@ -18,6 +18,6 @@
 
 | 5813 Gamma-kés |
 
-2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^56]
+2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^57]
 
-[^56]: A 2. számú melléklet a 72/2009. (IV. 3.) Korm. rendelet 7. § (2) bekezdése, a 360/2009. (XII. 30.) Korm. rendelet 14. § (5) bekezdése szerint módosított szöveg.
+[^57]: A 2. számú melléklet a 72/2009. (IV. 3.) Korm. rendelet 7. § (2) bekezdése, a 360/2009. (XII. 30.) Korm. rendelet 14. § (5) bekezdése szerint módosított szöveg.
