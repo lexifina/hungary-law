@@ -1,13 +1,13 @@
-## 27/G. §[^154] Az EGT-állam illetékes hatóságának megkeresésére a családtámogatási ellátás folyósításáról, valamint annak időtartamáról a Regionális Igazgatóság ad ki igazolást.
+## 27/G. §[^146] Az EGT-állam illetékes hatóságának megkeresésére a családtámogatási ellátás folyósításáról, valamint annak időtartamáról a Regionális Igazgatóság ad ki igazolást.
 
-27/H. §[^155] (1)[^156] A Cst. 35. § (4) bekezdése szerinti különbözet megállapítása iránti eljárásban a Regionális Igazgatóság jár el. Különbözet kifizetésére akkor kerül sor, ha az ügyfél családja számára a magyar jogszabályok szerint nyújtható pénzbeli családi ellátások összege magasabb, mint az az összeg, amit ilyen jogcímen a családnak más EGT-állam folyósít.
+27/H. §[^147] (1)[^148] A Cst. 35. § (4) bekezdése szerinti különbözet megállapítása iránti eljárásban a Regionális Igazgatóság jár el. Különbözet kifizetésére akkor kerül sor, ha az ügyfél családja számára a magyar jogszabályok szerint nyújtható pénzbeli családi ellátások összege magasabb, mint az az összeg, amit ilyen jogcímen a családnak más EGT-állam folyósít.
 
-(2)[^157]
+(2)[^149]
 
-(3)[^158] Amennyiben a különbözet összegének megállapításához a gyermekgondozási díj napi összegének vagy a jogosultság időtartamának ismerete szükséges, annak megállapítása – a Regionális Igazgatóság megkeresésére – a területi egészségbiztosítási pénztár feladata.
+(3)[^150] Amennyiben a különbözet összegének megállapításához a gyermekgondozási díj napi összegének vagy a jogosultság időtartamának ismerete szükséges, annak megállapítása – a Regionális Igazgatóság megkeresésére – a területi egészségbiztosítási pénztár feladata.
 
-[^154]: A 27/G. §-t a 125/2004. (IV. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének g) pontja, a 394/2007. (XII. 27.) Korm. rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
-[^155]: A 27/H. §-t a 378/2004. (XII. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 321/2006. (XII. 23.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^156]: A 27/H. § új (1) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 16. §-a iktatta be, egyidejűleg az eredeti (1)–(2) bekezdés számozását (2)–(3) bekezdésre változtatva. A 27/H. § (1) bekezdése a 140/2010. (IV. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^157]: A 27/H. § eredeti (1) bekezdésének számozását a 394/2007. (XII. 27.) Korm. rendelet 16. §-a (2) bekezdésre változtatta, a 140/2010. (IV. 28.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^158]: A 27/H. § eredeti (2) bekezdésének számozását a 394/2007. (XII. 27.) Korm. rendelet 16. §-a (3) bekezdésre változtatta.
+[^146]: A 27/G. §-t a 125/2004. (IV. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének g) pontja, a 394/2007. (XII. 27.) Korm. rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
+[^147]: A 27/H. §-t a 378/2004. (XII. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 321/2006. (XII. 23.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^148]: A 27/H. § új (1) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 16. §-a iktatta be, egyidejűleg az eredeti (1)–(2) bekezdés számozását (2)–(3) bekezdésre változtatva. A 27/H. § (1) bekezdése a 140/2010. (IV. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^149]: A 27/H. § eredeti (1) bekezdésének számozását a 394/2007. (XII. 27.) Korm. rendelet 16. §-a (2) bekezdésre változtatta, a 140/2010. (IV. 28.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^150]: A 27/H. § eredeti (2) bekezdésének számozását a 394/2007. (XII. 27.) Korm. rendelet 16. §-a (3) bekezdésre változtatta.

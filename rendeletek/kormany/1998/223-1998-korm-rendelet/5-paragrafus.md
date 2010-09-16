@@ -1,14 +1,14 @@
 ## kell megfelelően alkalmazni.
 
-## CSALÁDI PÓTLÉK[^48]
+## CSALÁDI PÓTLÉK[^42]
 
-5. §[^49] (1) A családi pótlék megállapítása iránti kérelmet
+5. §[^43] (1) A családi pótlék megállapítása iránti kérelmet
 
 a) a b)–c) pontok hatálya alá nem tartozó kérelmezőnek az 1. számú mellékletben,
 
 b) a vagyonkezelői joggal felruházott gyámnak, a vagyonkezelő eseti gondnoknak, valamint a szociális intézmény vezetőjének a 6. számú mellékletben,
 
-c) a családi pótlékra a Cst. 8. §-ának (3) bekezdésében foglaltak szerint saját jogán jogosult személynek a 7. számú mellékletben
+c)[^44] a családi pótlékra a Cst. 7. § (2) bekezdésében, valamint 8. § (3) bekezdésében foglaltak szerint saját jogán jogosult személynek a 7. számú mellékletben
 
 meghatározott adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
@@ -18,11 +18,14 @@ meghatározott adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
 (4) A (3) bekezdés szerinti eljárásban a kérelmező családi pótlékra való jogosultsága csak a megkeresett Igazgatóság ellátás megszüntetéséről hozott határozatának jogerőre emelkedését követően állapítható meg.
 
-(5) Ha a családi pótlék meghatározott részét természetben kell nyújtania, az Igazgatóság a természetben nyújtott összeg családtámogatási folyószámlára történő utalásáról a tárgyhónapot követő hónap harmadik napjáig gondoskodik. Az első, az ellátás természetbeni nyújtása szempontjából figyelembe veendő tárgyhónap a természetbeni nyújtás kezdő időpontját magában foglaló hónap. Amennyiben a hónap harmadik napja szombat, vasárnap vagy munkaszüneti nap, a határidő az azt követő első munkanapon jár le.
+(5)[^45] Az Igazgatóság a természetben nyújtott családi pótlék, valamint a jogosultnak való folyósítása tekintetében felfüggesztett iskoláztatási támogatás családtámogatási folyószámlára történő utalásáról a tárgyhónapot követő hónap harmadik napjáig gondoskodik. Az első tárgyhónap a természetbeni nyújtás, vagy a felfüggesztés kezdő időpontját magában foglaló hónap. Amennyiben a hónap harmadik napja szombat, vasárnap vagy munkaszüneti nap, a határidő az azt követő első munkanapon jár le.
 
-(6) A családi pótlékra jogosult személyében bekövetkezett változás, továbbá a családi pótlékra való jogosultság megszűnése esetén az erről szóló döntést az Igazgatóság közli a családi pótlék természetben történő nyújtását elrendelő jegyzővel.
+(6)[^46] A családi pótlékra jogosult személyében bekövetkezett változást, továbbá a családi pótlékra való jogosultság megszűnése esetén az erről szóló döntést az Igazgatóság közli a családi pótlék természetben történő nyújtását vagy a folyósítás tekintetében felfüggesztett iskoláztatási támogatás felfüggesztését elrendelő jegyzővel.
 
 (7) A családi pótlékra jogosult személyének a családi pótlék összegét nem érintő megváltozása a jegyző eltérő döntése hiányában a családi pótlék folyósításának az (5) bekezdés szerinti módját nem érinti.
 
-[^48]: Az 5. §-t megelőző alcím a 238/2002. (XI. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^49]: Az 5. § a 176/2009. (VIII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^42]: Az 5. §-t megelőző alcím a 238/2002. (XI. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 5. § a 176/2009. (VIII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^44]: Az 5. § (1) bekezdés c) pontja a 236/2010. (IX. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 5. § (5) bekezdése a 236/2010. (IX. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^46]: Az 5. § (6) bekezdése a 236/2010. (IX. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

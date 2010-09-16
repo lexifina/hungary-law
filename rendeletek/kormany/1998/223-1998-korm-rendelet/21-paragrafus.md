@@ -1,8 +1,8 @@
-## 20. §[^105]
+## 20. §[^97]
 
 ## Gyermeknevelési támogatás
 
-21. §[^106] (1) A gyermeknevelési támogatásra vonatkozó kérelmet a 4. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon kell benyújtani.
+21. §[^98] (1) A gyermeknevelési támogatásra vonatkozó kérelmet a 4. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
 (2) Ha a gyermeknevelési támogatás folyósítására más Igazgatóság válik illetékessé, az ellátást korábban folyósító Igazgatóság az ügyben keletkezett iratokat haladéktalanul, de legkésőbb az áttételre irányuló kérelem beérkezésétől, illetve az illetékesség hiányának megállapításától számított öt munkanapon belül átteszi az illetékessé vált Igazgatósághoz.
 
@@ -10,5 +10,5 @@
 
 (4) A (3) bekezdés szerinti eljárásban a kérelmező gyermeknevelési támogatásra való jogosultsága csak a megkeresett Igazgatóság ellátás megszüntetéséről hozott határozatának jogerőre emelkedését követően állapítható meg.
 
-[^105]: A 20. §-t a 280/2005. (XII. 20.) Korm. rendelet 10. § (3) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
-[^106]: A 21. § a 176/2009. (VIII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^97]: A 20. §-t a 280/2005. (XII. 20.) Korm. rendelet 10. § (3) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
+[^98]: A 21. § a 176/2009. (VIII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

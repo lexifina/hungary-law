@@ -24,7 +24,7 @@ e) az a személy, akihez a gyermeket ideiglenes hatállyal elhelyezték, az idei
 
 (6)[^7] Amennyiben a kérelmező több családtámogatási ellátás megállapítása iránt egyidejűleg nyújt be kérelmet, akkor a kérelem elbírálásához szükséges adatokat csak egy alkalommal kell feltüntetnie és azon iratokat, amelyek az e rendeletben foglaltak szerint több kérelem elbírálásához is szükségesek, csak az egyik kérelemhez kell csatolnia.
 
-(7)[^8] A Cst. 7. §-ának (5) bekezdése szerinti esetekben a családtámogatási ellátások megállapítására a 16. életévét betöltött kiskorú szülő a saját nevében nyújthat be kérelmet. A 16. életévét be nem töltött kiskorú szülő nevében a kérelmet a törvényes képviseletét ellátó személy nyújtja be.
+(7)[^8] A Cst. 11. § (4) bekezdése szerinti esetekben a családtámogatási ellátások megállapítására a 16. életévét betöltött kiskorú szülő a saját nevében nyújthat be kérelmet. A 16. életévét be nem töltött kiskorú szülő nevében a kérelmet a törvényes képviseletét ellátó személy nyújtja be.
 
 (8)[^9] Amennyiben a családtámogatási ellátás megállapítására a Cst. 2. §-ának c) vagy d) pontjában meghatározott személy nyújt be kérelmet, a 8. számú melléklet szerinti adattartalommal rendelkező formanyomtatványt is ki kell töltenie.
 
@@ -37,6 +37,6 @@ e) az a személy, akihez a gyermeket ideiglenes hatállyal elhelyezték, az idei
 [^5]: Az 1. § (4) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (5) bekezdése a 394/2007. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított, záró szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (6) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése aa) alpontja hatályon kívül helyezte, újonnan a 176/2009. (VIII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^8]: Az 1. § (7) bekezdését a 280/2005. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (7) bekezdését a 280/2005. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 236/2010. (IX. 13.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § (8) bekezdését a 280/2005. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (9) bekezdését a 340/2008. (XII. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének a) pontja.

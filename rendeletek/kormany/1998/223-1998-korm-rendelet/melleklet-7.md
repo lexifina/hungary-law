@@ -30,7 +30,7 @@
 
 ## – a családi pótlék megállapításának kérelmezett kezdő időpontja;
 
-## – a fizetési, illetve letéti számlaszám(ok)[^172].
+## – a fizetési, illetve letéti számlaszám(ok)[^165].
 
 ## II. Gyermek(ek)re vonatkozó adatok, a jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
@@ -50,7 +50,7 @@
 
 ## – a kérelmező aláíróhelye.
 
-7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^173]
+7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^166]
 
 ## A családi pótlék iránti kérelem adattartalma saját jogon történő kérelem esetén
 
@@ -76,5 +76,5 @@ I. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
 II. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
-[^172]: A gyermekotthonban lévő személyre tekintettel vagyonkezelői joggal felruházott gyám, illetőleg a vagyonkezelő eseti gondnok által benyújtott kérelem esetén a gyermek gyámhatósági fenntartásos fizetési számlája számának, illetve a gyermekotthon családi pótlék kezelésére szolgáló letéti számlája számának kérelmező általi egyidejű megadását lehetővé tevő módon.
-[^173]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^165]: A gyermekotthonban lévő személyre tekintettel vagyonkezelői joggal felruházott gyám, illetőleg a vagyonkezelő eseti gondnok által benyújtott kérelem esetén a gyermek gyámhatósági fenntartásos fizetési számlája számának, illetve a gyermekotthon családi pótlék kezelésére szolgáló letéti számlája számának kérelmező általi egyidejű megadását lehetővé tevő módon.
+[^166]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
