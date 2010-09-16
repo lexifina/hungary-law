@@ -8,9 +8,9 @@ b) szabálysértési eljárás során az eljárást lefolytató szervek,
 
 c) hadköteles személy esetén az illetékes jegyző, a hadkiegészítő parancsnokság, illetve a katonai egészségügyi alkalmasságot megállapító bizottság,
 
-d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
+d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében.
 
-e) közigazgatási hatósági ügyben a tényállás tisztázásához szükséges mértékben az Egészségbiztosítási Felügyelet.
+e)
 
 (2) A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
