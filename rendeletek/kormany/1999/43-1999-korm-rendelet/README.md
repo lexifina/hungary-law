@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2010-05-19 | 1999-43-20-22.82 | 166/2010. (V. 11.) Korm. rendelet |
 | 2010-05-21 | 1999-43-20-22.83 | 329/2005. (XII. 29.) Korm. rendelet |
 | 2010-07-01 | 1999-43-20-22.84 | 166/2010. (V. 11.) Korm. rendelet |
+| 2010-09-16 | 1999-43-20-22.85 | 318/2006. (XII. 23.) Korm. rendelet |
