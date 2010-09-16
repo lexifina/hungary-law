@@ -4,7 +4,7 @@ a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – amennyiben a bizt
 
 b) a járóbeteg-szakellátások elvégzését a külön jogszabály szerinti betegfogadási lista alapján teljesíti,
 
-és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosítási felügyeleti hatóság részére.
+és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére.
 
 (2) Intézményi várólistát kell kialakítani
 

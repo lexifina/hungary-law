@@ -12,7 +12,7 @@ e) nem rendelkezik gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgal
 
 f) gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgalmazó, -nagykereskedő vagy gyógyszertárat, illetve gyógyászatisegédeszköz-szaküzletet működtető gazdasági társaságnak nem vezető tisztségviselője.
 
-(2) A nem finanszírozott egészségügyi szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosítási felügyeleti hatóság által előzetesen minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
+(2) A nem finanszírozott egészségügyi szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által előzetesen minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
 (3) A támogatással történő rendelésre jogosító szerződésben meg kell határozni
 

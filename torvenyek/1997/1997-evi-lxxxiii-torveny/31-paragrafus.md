@@ -18,7 +18,7 @@ h) a szerződés hatályát, a módosítására és felmondására vonatkozó re
 
 i)
 
-(2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosítási felügyeleti hatóság által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
+(2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
 (3) A finanszírozási szerződés mellékletét képezi
 

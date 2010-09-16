@@ -36,6 +36,6 @@ l) egészségbiztosító: az egészségbiztosítási szerv,
 
 m) betegfogadási lista: az adott járóbeteg szakellátó intézményben – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátást – a betegellátás sorrendjét szakrendelésenként, az ellátás igénybevételének időpontjával meghatározó lista,
 
-n) próbavásárlás: az egészségbiztosító és az egészségbiztosítási felügyeleti hatóság által végzett olyan helyszíni ellenőrzés, melynek során az ellenőrzést végző személy vásárlói szerepben vagy – a gyógyító-megelőző egészségügyi ellátás kivételével – szolgáltatást igénybe vevő szerepben lép fel,
+n) próbavásárlás: az egészségbiztosító által végzett olyan helyszíni ellenőrzés, melynek során az ellenőrzést végző személy vásárlói szerepben vagy – a gyógyító-megelőző egészségügyi ellátás kivételével – szolgáltatást igénybe vevő szerepben lép fel,
 
 o) gyógyító-megelőző eljárások során alkalmazott egészségügyi technológia: az egészség megőrzésére, helyreállítására, illetve az egészségi állapot diagnosztizálására irányuló tevékenységek, illetve ezek kapcsán felhasznált eszközök, anyagok összessége, ide nem értve gyógyászati segédeszköz alkalmazását és gyógyszer gyógyító-megelőző ellátáson kívüli alkalmazását.
