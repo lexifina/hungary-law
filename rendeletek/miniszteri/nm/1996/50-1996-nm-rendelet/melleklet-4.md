@@ -1,8 +1,6 @@
 | Intézmény | Bankszámlaszám |
 
-| Egészségügyi Minisztérium | 10032000-01491838-00000000 |
-
-| Egészségbiztosítási Felügyelet | 10032000-00290249-00000000 |
+| Nemzeti Erőforrás Minisztérium | 10032000-01491838-00000000 |
 
 | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 10032000-00285788-00000000 |
 

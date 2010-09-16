@@ -1,3 +1,3 @@
 3. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^23]
 
-[^23]: A 3. számú melléklet a 2/2009. (I. 30.) EüM rendelet 4. §-ának b) pontjával megállapított szöveg.
+[^23]: A 3. számú melléklet a 4/2010. (VIII. 12.) NEFMI rendelet 1. § (2) bekezdése, valamint 5. § a) pontja szerint módosított szöveg.

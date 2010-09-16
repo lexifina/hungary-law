@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed az egészségügyi miniszternél, az Egészségbiztosítási Felügyeletnél, az Egészségügyi Engedélyezési és Közigazgatási Hivatalnál, illetve az Országos Egészségbiztosítási Pénztár központi és területi szerveinél (a továbbiakban együtt: intézmény) e rendelet 1. számú melléklete szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
+## 1. §[^1] E rendelet hatálya kiterjed a nemzeti erőforrás miniszternél, az Egészségügyi Engedélyezési és Közigazgatási Hivatalnál, illetve az Országos Egészségbiztosítási Pénztár központi és területi szerveinél (a továbbiakban együtt: intézmény) az 1. számú melléklet szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
 
 2. § (1)[^2] A díjfizetésre kötelezett az igazgatási szolgáltatásokért az 1. számú mellékletben meghatározott mértékű igazgatási szolgáltatási díjat köteles megfizetni.
 
@@ -18,7 +18,7 @@
 
 (9)[^9] Az 1. számú melléklet II. 11. alpontja szerinti orvostechnikai eszköz klinikai vizsgálati engedélyének előzetes szakhatósági állásfoglalására irányuló kérelem esetén a kérelmező a (8) bekezdés szerinti díjtétel részt az előzetes szakhatósági eljárás megindításakor köteles az Egészségügyi Stratégiai Kutatóintézet 10032000-01491728 számú számlájára átutalással, készpénzátutalási megbízással, belföldi postautalvány útján megfizetni vagy a házipénztárba befizetni.
 
-[^1]: Az 1. § a 2/2009. (I. 30.) EüM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 4/2010. (VIII. 12.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdése az 5/2001. (II. 22.) EüM rendelet 2. §-ával megállapított és a 71/2004. (VIII. 11.) ESZCSM rendelet 4. § a) pontja, a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (4) bekezdése a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.

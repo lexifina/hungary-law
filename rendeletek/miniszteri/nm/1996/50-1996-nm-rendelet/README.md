@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-50-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-04 | 1996-50-20-3D.26 | 50/1996. (XII. 27.) NM rendelet |
+| 2010-09-16 | 1996-50-20-3D.27 | 4/2010. (VIII. 12.) NEFMI rendelet |
