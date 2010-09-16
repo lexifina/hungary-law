@@ -1,4 +1,4 @@
-10. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^611]
+10. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^665]
 
 ## Tartalmi követelmények a helyi önkormányzatok számára, a Gyvt. 96. §-ának (6) bekezdésében előírt átfogó értékelés elkészítéséhez
 
@@ -48,4 +48,4 @@ II. A megyei (fővárosi) önkormányzat által készítendő átfogó értékel
 
 5. Jövőre vonatkozó célok, javaslatok, elképzelések (milyen típusú intézmények kialakítására, átalakítására, fejlesztésére lenne szükség a gyermekek szükségletei alapján, milyen területeken tervezik bevonni a civil szervezeteket a szakellátás feladatainak ellátásába).
 
-[^611]: A 8. számú mellékletet a 203/2003. (XII. 10.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 8. számú melléklet számozását az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése 10. mellékletre változtatta.
+[^665]: A 8. számú mellékletet a 203/2003. (XII. 10.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 8. számú melléklet számozását az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése 10. mellékletre változtatta.

@@ -28,13 +28,15 @@ k) a büntetőjogi felelősségre nem vonható 14 év alatti elkövetők ügyéb
 
 (3) A szociális és gyámhivatal a (2) bekezdés szerinti jelentés elkészítéséhez tájékoztatást kér
 
-a) az Igazságügyi Hivatal illetékes területi hivatalától, a rendőrségtől, valamint a jegyzőtől és a gyermekjóléti szolgálattól a gyermekkorú, illetve fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről, azok okairól,
+a)[^6] az Igazságügyi Hivatal illetékes területi hivatalától, a rendőrségtől, valamint a jegyzőtől és a gyermekjóléti szolgálattól, a speciális gyermekotthontól, a javítóintézettől a gyermekkorú, illetve fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről, azok okairól,
 
 b) a gyermekjóléti szolgálattól a családgondozás és a védelembe vétel eredményéről.
 
-(4) A (3) bekezdés szerinti jelentés ismertetése és a bűnmegelőzés érdekében elvégzendő feladatok megvitatása céljából a szociális és gyámhivatal egyeztető értekezletet tart. Az értekezletre meghívja a gyermekjogi képviselőt, az önkormányzatok, a rendőrség, az ügyészség, a bíróság, a drogmegelőzést, illetve drogrehabilitációt végző intézmények, a családsegítő és a gyermekjóléti szolgálatok, a gyermekvédelmi intézmények, a közoktatási intézmények, a pártfogó felügyelői szolgálat, a büntetés-végrehajtási intézet, valamint a bűnmegelőzésben és az áldozatvédelemben érintett civil szervezetek képviselőit.
+(4)[^7] A (3) bekezdés szerinti jelentés ismertetése és a bűnmegelőzés érdekében elvégzendő feladatok megvitatása céljából a szociális és gyámhivatal egyeztető értekezletet tart. Az értekezletre meghívja a gyermekjogi képviselőt, az önkormányzatok, a rendőrség, az ügyészség, a bíróság, a drogmegelőzést, illetve drogrehabilitációt végző intézmények, a családsegítő és a gyermekjóléti szolgálatok, a gyermekvédelmi intézmények, a közoktatási intézmények, a pártfogó felügyelői szolgálat, a büntetés-végrehajtási intézet, a javítóintézet, valamint a bűnmegelőzésben és az áldozatvédelemben érintett civil szervezetek képviselőit.
 
 (5) Az értekezletről készített írásbeli összefoglalót a szociális és gyámhivatal az elhangzott javaslatokkal együtt megküldi az értekezletre meghívottaknak.
 
 [^4]: A 3–5. §-t és a 3. §-t megelőző alcímet a 331/2006. (XII. 23.) Korm. rendelet 24. § (2) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
 [^5]: Az 5/A. §-t a 72/2003. (V. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 331/2006. (XII. 23.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^6]: Az 5/A. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^7]: Az 5/A. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

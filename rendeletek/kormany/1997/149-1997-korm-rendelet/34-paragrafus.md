@@ -10,7 +10,7 @@
 
 34. § (1) A 16. évét betöltött házasuló a házasságkötés engedélyezése iránti kérelmet a gyámhivatalnál vagy az anyakönyvvezetőnél személyesen terjesztheti elő.
 
-(2)[^123] A házasságkötéshez szükséges előzetes engedély megadása iránti kérelemhez csatolni kell
+(2)[^125] A házasságkötéshez szükséges előzetes engedély megadása iránti kérelemhez csatolni kell
 
 a) a háziorvos arra vonatkozó igazolását, hogy a kiskorú gyermek a házasságkötéshez szükséges testi és értelmi fejlettséggel rendelkezik,
 
@@ -18,4 +18,4 @@ b) a házasulandó felek jövedelemigazolását, amelyből megállapítható, ho
 
 c) a családvédelmi szolgálat tanácsadásán való részvételt tanúsító igazolást.
 
-[^123]: A 34. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^125]: A 34. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.

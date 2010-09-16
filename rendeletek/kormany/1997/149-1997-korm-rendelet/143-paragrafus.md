@@ -2,15 +2,15 @@
 
 a) a jogosultat a vagyon állagáról, a vagyon kezelőjének személyéről és számadási kötelezettségéről, a letétben lévő vagyon helyéről, a vagyon feletti rendelkezés módjáról, továbbá arról, hogy a számadásra kötelezettel szemben támasztott követelését szükség esetén bírósági úton érvényesítheti,
 
-b)[^516] a gyermekvédelmi gondoskodásból kikerült, nagykorúvá vált jogosultat – a beszerzett adó- és értékbizonyítvány alapján – ingatlanának értékéről,
+b)[^563] a gyermekvédelmi gondoskodásból kikerült, nagykorúvá vált jogosultat – a beszerzett adó- és értékbizonyítvány alapján – ingatlanának értékéről,
 
-c)[^517] a földhivatalt a jogosult kiskorúságára vonatkozó, illetve, ha a bíróság erről nem rendelkezett, a volt gondnokolt személy gondnokság alá helyezésre vonatkozó bejegyzésnek az ingatlan-nyilvántartásból való törlése érdekében,
+c)[^564] a földhivatalt a jogosult kiskorúságára vonatkozó, illetve, ha a bíróság erről nem rendelkezett, a volt gondnokolt személy gondnokság alá helyezésre vonatkozó bejegyzésnek az ingatlan-nyilvántartásból való törlése érdekében,
 
-d)[^518] a nyugdíjfolyósító szervet, ha a jogosult nyugdíjban vagy nyugdíjszerű rendszeres szociális ellátásban részesült,
+d)[^565] a nyugdíjfolyósító szervet, ha a jogosult nyugdíjban vagy nyugdíjszerű rendszeres szociális ellátásban részesült,
 
-e)[^519] a hitelintézetet, a zárolt számla kezelőjét, a letétben lévő vagyontárgy kezelőjét arról, ha a vagyon felett a 18. életévét betöltött személy nem jogosult rendelkezni, mivel korlátozottan cselekvőképes vagy cselekvőképtelen.
+e)[^566] a hitelintézetet, a zárolt számla kezelőjét, a letétben lévő vagyontárgy kezelőjét arról, ha a vagyon felett a 18. életévét betöltött személy nem jogosult rendelkezni, mivel korlátozottan cselekvőképes vagy cselekvőképtelen.
 
-[^516]: A 143. § új b) pontját a 14/2003. (II. 12.) Korm. rendelet 86. §-a iktatta a szövegbe, egyidejűleg az eredeti b)–d) pont jelölését c)–e) pontra változtatatva. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^517]: A 143. § eredeti b) pontjának jelölését a 14/2003. (II. 12.) Korm. rendelet 86. §-a c) pontra változtatta.
-[^518]: A 143. § c) pontjának jelölését a 14/2003. (II. 12.) Korm. rendelet 86. §-a d) pontra változtatta.
-[^519]: A 143. § d) pontjának jelölését a 14/2003. (II. 12.) Korm. rendelet 86. §-a e) pontra változtatta.
+[^563]: A 143. § új b) pontját a 14/2003. (II. 12.) Korm. rendelet 86. §-a iktatta a szövegbe, egyidejűleg az eredeti b)–d) pont jelölését c)–e) pontra változtatatva. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^564]: A 143. § eredeti b) pontjának jelölését a 14/2003. (II. 12.) Korm. rendelet 86. §-a c) pontra változtatta.
+[^565]: A 143. § c) pontjának jelölését a 14/2003. (II. 12.) Korm. rendelet 86. §-a d) pontra változtatta.
+[^566]: A 143. § d) pontjának jelölését a 14/2003. (II. 12.) Korm. rendelet 86. §-a e) pontra változtatta.

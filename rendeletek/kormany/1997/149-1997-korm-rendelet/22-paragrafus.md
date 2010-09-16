@@ -6,7 +6,7 @@
 
 (3) Ha a különélő szülők a gyermek külföldi tartózkodási helyének kijelölésében nem tudnak egyezségre jutni, a gyámhivatal tájékoztatja a feleket a bírósági eljárás megindításának lehetőségéről.
 
-(4)[^71] A gyermek végleges külföldre távozása esetén a gyámhivatal
+(4)[^73] A gyermek végleges külföldre távozása esetén a gyámhivatal
 
 a) határozatában tájékoztatja a gyermek törvényes képviselőjét a lakcímváltozásra vonatkozó jogszabályban előírt bejelentési kötelezettségéről, továbbá arról, hogy kérheti a kapcsolattartás újraszabályozását,
 
@@ -14,4 +14,4 @@ b) határozatában tájékoztatja a kapcsolattartásra jogosult szülőt arról,
 
 c) az engedélyező határozatot közli a családtámogatási ellátást folyósító szervvel.
 
-[^71]: A 22. § (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 7. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 7. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^73]: A 22. § (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 7. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 7. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

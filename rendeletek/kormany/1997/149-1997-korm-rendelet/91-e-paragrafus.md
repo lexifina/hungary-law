@@ -1,6 +1,6 @@
-## Eredménytelen védelembe vétel[^350]
+## Eredménytelen védelembe vétel[^381]
 
-91/E. §[^351] (1) A védelembe vétel eredménytelensége miatt a gyámhivatal értesítéséről a jegyző
+91/E. §[^382] (1) A védelembe vétel eredménytelensége miatt a gyámhivatal értesítéséről a jegyző
 
 a) ha az intézkedés megtételének szükségessége a védelembe vétel felülvizsgálata során merül fel, a védelembe vétel felülvizsgálatának eredményéről szóló határozatban [90. § (5) bek. f) pont],
 
@@ -24,5 +24,5 @@ c) megvizsgálja a családbafogadás lehetőségét, az átmeneti nevelésbe vé
 
 (6) A gyámhivatal döntésének jogerőre emelkedéséig a gyermek védelembe vétele fennáll.
 
-[^350]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
-[^351]: A 91/E. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult védelembe vételi eljárásokban és a védelembe vételnek a 2009. szeptember 1. napját követően történő felülvizsgálatakor kell alkalmazni.
+[^381]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^382]: A 91/E. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult védelembe vételi eljárásokban és a védelembe vételnek a 2009. szeptember 1. napját követően történő felülvizsgálatakor kell alkalmazni.

@@ -1,14 +1,14 @@
-91/B. §[^347] (1) A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
+91/B. §[^357] (1) A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
 
 a) a családi pótlékban részesülő szülő személyazonosító adatait, a családi pótlékot folyósító szerv megnevezését,
 
-b) a családi pótlék természetbeni részének mértékét százalékos arányban meghatározva, egyidejűleg tájékoztatást adva annak konkrét összegéről,
+b)[^358]
 
 c) a családi pótlék természetbeni formában történő nyújtásának időtartamát, hónapokban meghatározva, megjelölve a családi pótlék természetbeni formában történő nyújtásának kezdő és befejező időpontját,
 
-d) a családi pótlék természetbeni formában történő nyújtásának módját, amely lehet különösen gyermekétkeztetés térítési díjának befizetése, illetve a Gyvt. 68/B. §-a (2) bekezdésében foglaltak biztosítása,
+d)[^359] a családi pótlék természetbeni formában történő nyújtásának módját,
 
-e) az eseti gondnok kirendelését, feladatát, tájékoztatását a 91/A. § (7) bekezdésében foglaltakról, valamint felhívását arra, hogy az adott hónapra az önkormányzat nevére megnyitott családtámogatási folyószámlára átutalt családi pótlék felhasználásáról a következő hónap ötödik napjáig számoljon el a jegyzőnek,
+e)[^360] az eseti gondnok kirendelését, feladatát, tájékoztatását a 91/A. § (7) bekezdésében foglaltakról, valamint felhívását arra, hogy az adott hónapra a Gyvt. 68/A. § (2) bekezdése szerinti családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) átutalt családi pótlék felhasználásáról a következő hónap ötödik napjáig számoljon el a jegyzőnek,
 
 f) a szülő vagy más törvényes képviselő kötelezését az eseti gondnokkal való együttműködésre és tájékoztatását az együttműködés megtagadásának következményeiről,
 
@@ -16,9 +16,9 @@ g) a védelembe vétel elrendelését, ha erre korábban nem került sor,
 
 h) fennálló védelembe vétel esetén a kirendelt családgondozó felhívását az egyéni gondozási-nevelési tervnek a felülvizsgálatára és annak a határozat jogerőre emelkedését követő 22 munkanapon belül történő megküldésére,
 
-i) a felülvizsgálat határidejét,
+i)[^361]
 
-j) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy bármikor kezdeményezheti a családi pótlék természetbeni formában történő nyújtásának felülvizsgálatát,
+j)[^362] a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a család helyzetét érintő lényeges körülmények megváltozása miatt bármikor kezdeményezheti a családi pótlék természetbeni formában történő nyújtásának felülvizsgálatát, felhívva a figyelmet a kérelem érdemi vizsgálat nélküli elutasításának a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 30. § e) pontjában foglalt esetére,
 
 k) a szülő vagy más törvényes képviselő tájékoztatását az igénybe vehető szociális és gyermekvédelmi ellátásokról, támogatásokról, valamint azok igénybevételének módjáról,
 
@@ -30,14 +30,33 @@ lb) ha a családi pótlék természetbeni formában történő nyújtása a hat�
 
 lc) a családi pótlék természetbeni formában történő nyújtásának megszüntetése esetén a megszüntetést követő második hónapra járó családi pótlék kerül ismételten teljes egészében pénzben folyósításra.
 
-(2) A határozatban a családi pótlék természetbeni formában történő nyújtásának kezdő időpontjaként a döntést követő második hónap első napját, befejező időpontjaként a határozatban szereplő időtartamnak megfelelő hónap utolsó napját kell megjelölni. Az így meghatározott időtartam a Gyvt. 68/A. § (2) bekezdésében foglaltakra tekintettel a 12 hónapot nem haladhatja meg.
+(2)[^363] A határozatban a családi pótlék természetbeni formában történő nyújtásának kezdő időpontjaként a döntést követő második hónap első napját, befejező időpontjaként a határozatban szereplő időtartamnak megfelelő hónap utolsó napját kell megjelölni. Az így meghatározott időtartam a Gyvt. 68/B. § (2) bekezdésében foglaltakra tekintettel a 6 hónapot nem haladhatja meg.
 
 (3) A családi pótlék természetbeni formában történő nyújtásáról szóló határozat elleni fellebbezést elbíráló határozatban rendelkezni kell a családi pótlék természetbeni formában történő nyújtásának új kezdő és befejező időpontjáról.
 
-(4) A jegyző a családi pótlék természetbeni formában történő nyújtásáról szóló, jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő 5 munkanapon belül közli a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatóságával, egyidejűleg megküldi a Gyvt. 68/A. § (5) bekezdése szerinti családtámogatási folyószámla megnyitásához szükséges számla törzsadat bejelentő nyomtatványt és aláírási címpéldányt.
+(4)[^364] A jegyző a családi pótlék természetbeni formában történő nyújtásáról szóló, jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő 5 munkanapon belül közli a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatóságával, egyidejűleg – ha a települési önkormányzat nem rendelkezik még családtámogatási folyószámlával – megküldi a családi pótlékot folyósító regionális igazgatóság részére a családtámogatási folyószámla megnyitásához szükséges számla törzsadat bejelentő nyomtatványt és a jegyző aláírási címpéldányát.
 
-(5) A családi pótlék természetbeni formában történő nyújtása során a jegyző és a Magyar Államkincstár között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
+(5)[^365] A családi pótlék természetbeni formában történő nyújtása során a jegyző és a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatósága között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
 
 (6) A jegyző az átutalást követően legkésőbb 5 munkanapon belül gondoskodik a családtámogatási folyószámlára utalt családi pótléknak az eseti gondnok felé történő kifizetéséről.
 
-[^347]: A 91/B. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+(7)[^366] A kirendelt eseti gondnok folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak a gyermek szükségleteire történő felhasználásáról. A családi pótlék felhasználható különösen
+
+a) ruházat, tanszer, élelmiszer, tápszer, gyógyszer, gyógyászati segédeszköz, tanulóbérlet, a gyermek korának megfelelő készségfejlesztő eszközök természetbeni biztosítására,
+
+b) a gyermek lakhatási feltételeinek megteremtése érdekében közüzemi díjak kifizetésére, ideértve a hitelintézettel kötött lakáscélú kölcsönszerződésből, illetve abból átváltott szabad felhasználású kölcsönszerződésből eredő törlesztőrészletet, feltéve, hogy a családnak járó más támogatásokból ezek nem fedezhetők,
+
+c) gyermekétkeztetés térítési díjának befizetésére,
+
+d) a gyermek szabadideje hasznos eltöltésére.
+
+[^357]: A 91/B. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^358]: A 91/B. § (1) bekezdés b) pontját a 237/2010. (IX. 13.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^359]: A 91/B. § (1) bekezdés d) pontja a 237/2010. (IX. 13.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^360]: A 91/B. § (1) bekezdés e) pontja a 237/2010. (IX. 13.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^361]: A 91/B. § (1) bekezdés i) pontját a 237/2010. (IX. 13.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte.
+[^362]: A 91/B. § (1) bekezdés j) pontja a 237/2010. (IX. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^363]: A 91/B. § (2) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^364]: A 91/B. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
+[^365]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^366]: A 91/B. § (7) bekezdését a 237/2010. (IX. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.

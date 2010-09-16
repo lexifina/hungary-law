@@ -1,6 +1,6 @@
 ## rendelkezik a Magyar Államkincstár felé a 12. számú melléklet szerint igényelt támogatásoknak a települési önkormányzatok részére történő átutalásáról.
 
-68/L. §[^271] (1) A települési önkormányzat jegyzője a Gyvt. 20/C. § (1) bekezdés b) pontjában meghatározott támogatás esetén a 13. számú melléklet szerinti adatlapon
+68/L. §[^275] (1) A települési önkormányzat jegyzője a Gyvt. 20/C. § (1) bekezdés b) pontjában meghatározott támogatás esetén a 13. számú melléklet szerinti adatlapon
 
 a) a tárgyév június hónapjában esedékes óvodáztatási támogatás folyósításához a tárgyév június 10-ig,
 
@@ -22,4 +22,4 @@ a) a tárgyév június hónapjában esedékes óvodáztatási támogatás folyó
 
 b) a tárgyév december hónapjában esedékes óvodáztatási támogatás folyósításához a tárgyév december 18-ig
 
-[^271]: A 68/L. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be.
+[^275]: A 68/L. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be.

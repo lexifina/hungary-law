@@ -1,4 +1,4 @@
-68/G. §[^263] (1) Az első alkalommal pénzben nyújtandó óvodáztatási támogatásra való jogosultság [Gyvt. 20/C. § (1) bek. a) pont] megállapításához a jegyző beszerzi az óvoda igazolását a gyermek óvodai beíratásának tényéről, időpontjáról és a gyermek rendszeres óvodába járásáról.
+68/G. §[^267] (1) Az első alkalommal pénzben nyújtandó óvodáztatási támogatásra való jogosultság [Gyvt. 20/C. § (1) bek. a) pont] megállapításához a jegyző beszerzi az óvoda igazolását a gyermek óvodai beíratásának tényéről, időpontjáról és a gyermek rendszeres óvodába járásáról.
 
 (2) Az óvodáztatási támogatásra való jogosultság megállapítása szempontjából rendszeres óvodába járásnak minősül, ha
 
@@ -12,4 +12,4 @@ b) a szülő által a nevelési-oktatási intézmények működéséről szóló
 
 (5) A települési önkormányzat jegyzője határozatában megállapítja a Gyvt. 20/C. § (1) bekezdés a) és b) pontja szerinti óvodáztatási támogatásra való jogosultságot, egyidejűleg rendelkezik a Gyvt. 20/C. § (1) bekezdés a) pontja szerinti támogatás folyósításáról.
 
-[^263]: A 68/G. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 23. § (2) bekezdése alapján az 1997: XXXI. törvény 160/A. §-a alapján a gyermeküket 2009. január 1-je előtt az óvodába beírató és tízezer forint óvodáztatási támogatásra jogosult szülő kérelmének benyújtására, elbírálására és a támogatás folyósítására a 149/1997. (IX. 10.) Korm. rendelet 68/F., 68/G., 68/I., 68/K. §-ait kell megfelelően alkalmazni.
+[^267]: A 68/G. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 23. § (2) bekezdése alapján az 1997: XXXI. törvény 160/A. §-a alapján a gyermeküket 2009. január 1-je előtt az óvodába beírató és tízezer forint óvodáztatási támogatásra jogosult szülő kérelmének benyújtására, elbírálására és a támogatás folyósítására a 149/1997. (IX. 10.) Korm. rendelet 68/F., 68/G., 68/I., 68/K. §-ait kell megfelelően alkalmazni.

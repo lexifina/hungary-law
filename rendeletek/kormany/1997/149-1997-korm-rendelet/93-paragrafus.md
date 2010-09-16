@@ -1,6 +1,6 @@
 ## A határozat tartalma
 
-93. § (1)[^353] A családba fogadásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+93. § (1)[^400] A családba fogadásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a családba fogadó személy gyámul történő kirendelését,
 
@@ -10,7 +10,7 @@ c) a vagyonkezelésre feljogosított gyám kijelölését,
 
 d) a gyámi tisztséggel járó jogokról és kötelezettségekről, valamint a vagyonkezelői joggal felruházott gyám számadási kötelezettségéről való tájékoztatást,
 
-e)[^354] a vagyonleltár alapján az ingó és ingatlan vagyon gyám kezelésébe adását, feltéve, hogy a gyám vagyonkezelésre jogosult,
+e)[^401] a vagyonleltár alapján az ingó és ingatlan vagyon gyám kezelésébe adását, feltéve, hogy a gyám vagyonkezelésre jogosult,
 
 f) a szülői felügyeleti jog szünetelésének megállapítását,
 
@@ -20,11 +20,11 @@ h) kérelem esetén a szülő és a gyermek kapcsolattartási jogának gyakorlá
 
 i) a Gyvt. 71. §-ának (5) bekezdése esetén a szülő vagyonkezeléséről és törvényes képviseletéről való rendelkezést,
 
-j)[^355] átmeneti nevelt gyermek esetén az átmeneti nevelésbe vétel egyidejű megszüntetését és a 110. § (1) bekezdésében foglaltakról való szükség szerinti rendelkezést.
+j)[^402] átmeneti nevelt gyermek esetén az átmeneti nevelésbe vétel egyidejű megszüntetését és a 110. § (1) bekezdésében foglaltakról való szükség szerinti rendelkezést.
 
-(2)[^356] A családba fogadásról szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást folyósító szervvel és a gyermeket ellátó védőnővel a gyám kirendelésének tényét.
+(2)[^403] A családba fogadásról szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást folyósító szervvel és a gyermeket ellátó védőnővel a gyám kirendelésének tényét.
 
-[^353]: A 93. § eredeti szövegének számozását (1) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 53. §-a.
-[^354]: A 93. § e) pontja a 14/2003. (II. 12.) Korm. rendelet 54. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^355]: A 93. § (1) bekezdés j) pontját a 173/2009. (VIII. 29.) Korm. rendelet 33. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^356]: A 93. § (2) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 53. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^400]: A 93. § eredeti szövegének számozását (1) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 53. §-a.
+[^401]: A 93. § e) pontja a 14/2003. (II. 12.) Korm. rendelet 54. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^402]: A 93. § (1) bekezdés j) pontját a 173/2009. (VIII. 29.) Korm. rendelet 33. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^403]: A 93. § (2) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 53. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,6 +1,6 @@
-2. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^600]
+2. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^654]
 
-## Tartalmi követelmények a megyei gyámhivatalok[^601] számára a bűnmegelőzési jelentés elkészítéséhez[^602]
+## Tartalmi követelmények a megyei gyámhivatalok[^655] számára a bűnmegelőzési jelentés elkészítéséhez[^656]
 
 1. A megye sajátosságainak, adottságainak áttekintése, demográfiai mutatói, különös tekintettel a 0–18 éves korosztály adataira.
 
@@ -12,7 +12,7 @@
 
 – családon belüli erőszak.
 
-3. A megyei gyámhivatal[^603] éves bűnmegelőzési tevékenységének átfogó bemutatása:
+3. A megyei gyámhivatal[^657] éves bűnmegelőzési tevékenységének átfogó bemutatása:
 
 – a gyermekjóléti szolgálatok alapellátás keretében és a védelembe vétellel történő családgondozásának tapasztalatai a bűncselekményekkel érintett kiskorúak esetében, illetve a gyermekjóléti szolgálat által tett egyéb intézkedések,
 
@@ -28,7 +28,7 @@
 
 6. Jövőre vonatkozó célok és feladatok meghatározása.
 
-[^600]: A 2. számú melléklet a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg.
-[^601]: A 331/2006. (XII. 23.) Korm. rendelet 29. §-a alapján, ahol a rendelet megyei, fővárosi szociális és gyámhivatalt, illetve megyei, fővárosi gyámhivatalt említ, azon szociális és gyámhivatalt kell érteni.
-[^602]: A 2. számú melléklet címe a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése b) pontjának bi) alpontja szerint módosított szöveg.
-[^603]: A 331/2006. (XII. 23.) Korm. rendelet 29. §-a alapján, ahol a rendelet megyei, fővárosi szociális és gyámhivatalt, illetve megyei, fővárosi gyámhivatalt említ, azon szociális és gyámhivatalt kell érteni.
+[^654]: A 2. számú melléklet a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^655]: A 331/2006. (XII. 23.) Korm. rendelet 29. §-a alapján, ahol a rendelet megyei, fővárosi szociális és gyámhivatalt, illetve megyei, fővárosi gyámhivatalt említ, azon szociális és gyámhivatalt kell érteni.
+[^656]: A 2. számú melléklet címe a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése b) pontjának bi) alpontja szerint módosított szöveg.
+[^657]: A 331/2006. (XII. 23.) Korm. rendelet 29. §-a alapján, ahol a rendelet megyei, fővárosi szociális és gyámhivatalt, illetve megyei, fővárosi gyámhivatalt említ, azon szociális és gyámhivatalt kell érteni.
