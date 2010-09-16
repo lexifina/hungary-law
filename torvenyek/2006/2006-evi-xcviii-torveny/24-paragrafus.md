@@ -6,7 +6,7 @@
 
 (4) Az egészségbiztosítási szerv a végrehajtható határozatok alapján – figyelemmel a (6) bekezdésben foglaltakra – a támogatott gyógyszerek teljes körét minden naptári hónap 20. napjáig tájékoztató jelleggel közzéteszi honlapján.
 
-(5) Az egészségbiztosítási szerv a (4) bekezdés b) pontja szerinti közleményt az Európai Unió Bizottságának és az egészségbiztosítási felügyeleti hatóságnak megküldi.
+(5) Az egészségbiztosítási szerv a (4) bekezdés szerinti közleményt az Európai Unió Bizottságának megküldi.
 
 (6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 

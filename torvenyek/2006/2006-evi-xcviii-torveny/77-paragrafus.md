@@ -64,7 +64,7 @@ b) a gyógyszerek, a különleges táplálkozási igényt kielégítő tápszere
 
 c) az egyedileg, méretre készített gyógyászati segédeszközök gyártására és forgalmazására vonatkozó tanúsításért,
 
-d) az egészségbiztosítási felügyeleti hatóság e törvény alapján nyújtott igazgatási jellegű szolgáltatásainak igénybevételéért,
+d)
 
 e) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez szükséges számítógépes program minősítési eljárásáért,
 

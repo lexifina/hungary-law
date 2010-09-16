@@ -2,13 +2,13 @@
 
 (2) Abban az esetben, ha az (1) bekezdés szerinti intézkedés elrendelésére került sor, évente legalább egyszer felülvizsgálatot kell végezni annak megállapítása céljából, hogy a gyógyszerpiac egyensúlyának fenntartása érdekében az intézkedés változatlan fenntartása indokolt-e. A felülvizsgálat kezdetétől számított 90 napon belül a hatáskörrel rendelkező hatóság bejelenti az áremeléseket és árcsökkentéseket, amennyiben változtatásokra kerül sor.
 
-(3) Az (1) bekezdés szerinti árnál magasabb ár akkor alkalmazható, ha ehhez az egészségbiztosítási felügyeleti hatóság kérelem alapján hozzájárul. A hozzájárulás akkor adható meg, ha
+(3) Az (1) bekezdés szerinti árnál magasabb ár akkor alkalmazható, ha ehhez az egészségbiztosítási szerv kérelem alapján hozzájárul. A hozzájárulás akkor adható meg, ha
 
 a) az adott gyógyszer az adott betegség kizárólagos, első vonalbeli (elsődlegesen választandó) kezelésére szolgáló készítmény, és
 
 b) a gyártó vagy a forgalmazó bizonyítja, hogy az adott gyógyszer előállításának költsége az (1) bekezdés alkalmazása esetén érvényes legmagasabb árnál magasabb.
 
-(4) A (3) bekezdés szerinti kérelemről kilencven napon belül kell döntést hozni. Indokolt esetben ez a határidő egy ízben további hatvan nappal meghosszabbítható. Az egészségbiztosítási felügyeleti hatóság a (3) bekezdés szerinti hozzájárulásról haladéktalanul közleményt tesz közzé.
+(4) A (3) bekezdés szerinti kérelemről kilencven napon belül kell döntést hozni. Indokolt esetben ez a határidő egy ízben további hatvan nappal meghosszabbítható. Az egészségbiztosítási szerv a (3) bekezdés szerinti hozzájárulásról haladéktalanul közleményt tesz közzé.
 
 (5) Az (1) bekezdés szerinti időszak alatt kereskedelmi kapcsolatokban a Kormány által meghatározott, vagy elfogadott legmagasabb árnál magasabb árat érvényesen nem lehet kikötni.
 

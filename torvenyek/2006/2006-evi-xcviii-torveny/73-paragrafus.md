@@ -6,4 +6,4 @@
 
 (3) Nem minősül tiltott előnynek – az 55. § (6) bekezdésében meghatározottak kivételével – a kereskedelemben szokásos ár- és más általános szerződési feltételeken alapuló engedmények szerződéseken alapuló alkalmazása, illetve a közfinanszírozásban részesülő gyógyszerek tekintetében az egészségbiztosítási szerv által alkalmazott szerződéses kötelezettségek teljesítése.
 
-(4) Az (1)–(3) bekezdésben foglalt rendelkezések ellenőrzése az egészségbiztosítási felügyeleti hatóság hatáskörébe tartozik.
+(4) Az (1) és (2) bekezdésben foglalt rendelkezések ellenőrzése az egészségügyi államigazgatási szerv hatáskörébe tartozik.

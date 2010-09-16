@@ -10,4 +10,4 @@
 
 (6) Az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv a befizetésre kötelezettek ellenőrzéséhez szükséges adatokról az (1) bekezdésben meghatározott adatszolgáltatással egyidejűleg elektronikus úton adatszolgáltatást teljesít az állami adóhatósághoz.
 
-(7) Az egészségbiztosítási felügyeleti hatóság a 12. § (3) bekezdésében meghatározott bejelentésről, a tevékenység megszüntetésének bejelentéséről és az ismertetési tevékenység folytatásának megtiltásáról elektronikus úton haladéktalanul adatszolgáltatást teljesít az állami adóhatósághoz.
+(7) Az egészségügyi államigazgatási szerv a 12. § (3) bekezdésében meghatározott bejelentésről, a tevékenység megszüntetésének bejelentéséről és az ismertetési tevékenység folytatásának megtiltásáról elektronikus úton haladéktalanul adatszolgáltatást teljesít az állami adóhatósághoz.
