@@ -24,7 +24,7 @@
 
 ## * Az első helyi felelős a tanácsi formációért az NGM, társfelelősként részt vesz a KüM.
 
-2. számú melléklet az 1169/2010. (VIII. 18.) Korm. határozathoz
+2. számú melléklet az 1169/2010. (VIII. 18.) Korm. határozathoz[^2]
 
 Az Európai Koordinációs Tárcaközi Bizottság szakértői csoportjainak felsorolása, vezetése és tagjai
 
@@ -130,10 +130,14 @@ Az Európai Koordinációs Tárcaközi Bizottság szakértői csoportjainak fels
 
 | 50. | Pénzügyi Perspektíva | KüM, NGM** | minden minisztérium, NFÜ |
 
-| 51. | Szociális politika | NEFMI | KIM, KüM, NGM, VM, NFM, NFÜ, OMMF |
+| 51. | Szociálpolitika és esélyegyenlőség | NEFMI | KIM, KüM, NGM, VM, NFM, NFÜ, OMMF |
 
-| 52. | Európa 2020 | NGM | minden minisztérium, NFÜ |
+| 52. | Társadalmi befogadás | KIM | minden minisztérium |
+
+| 53. | Európa 2020 | NGM | minden minisztérium, NFÜ |
 
 * A szakértői csoport vezetéséért első helyi felelős az NGM, a KüM társfelelősként vesz részt.
 
 ** A szakértői csoport vezetéséért első helyi felelős a KüM, az NGM társfelelősként vesz részt.
+
+[^2]: A 2. számú melléklet az 1198/2010. (IX. 17.) Korm. határozat 4–5. pontja szerint módosított szöveg.
