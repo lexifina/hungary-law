@@ -196,6 +196,7 @@ magyar tagozata elnökévé kinevezem.
 
 4.[^1]
 
-5. A határozat 4. pontja a határozat hatálybalépését követő napon hatályát veszti. Ez a pont a határozat hatálybalépését követő második napon hatályát veszti.
+5.[^2]
 
 [^1]: A 4. pontot az 5. pont hatályon kívül helyezte.
+[^2]: Az 5. pont ugyanezen pont alapján hatályát vesztette.
