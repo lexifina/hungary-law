@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-215-20-
 | --- | --- | --- |
 | 2010-07-10 | 2010-215-20-22.1 | 215/2010. (VII. 9.) Korm. rendelet |
 | 2010-09-16 | 2010-215-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-09-17 | 2010-215-20-22.3 | 306/2011. (XII. 23.) Korm. rendelet |
