@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-15-20-S
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2005-15-20-SY.7 | 15/2005. (IX. 2.) FMM rendelet |
+| 2010-09-17 | 2005-15-20-SY.8 | 9/2010. (IX. 17.) NEFMI rendelet |
