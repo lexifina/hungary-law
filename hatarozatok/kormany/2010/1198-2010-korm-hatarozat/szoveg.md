@@ -22,10 +22,11 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: 2010. december 31.
 
-4–5.[^1]
+4–5.[^2]
 
 6. Ez a határozat a közzététele napján lép hatályba.
 
-7. E határozat 4–5. pontja a határozat hatálybalépését követő napon hatályát veszti. Ez a pont a határozat hatálybalépését követő második napon hatályát veszti.
+7.[^3]
 
-[^1]: A 4–5. pontot a 7. pont hatályon kívül helyezte.
+[^2]: A 4–5. pontot a 7. pont hatályon kívül helyezte.
+[^3]: A 7. pont ugyanezen pont alapján hatályát vesztette.
