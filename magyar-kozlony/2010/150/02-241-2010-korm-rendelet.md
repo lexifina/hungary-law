@@ -1,0 +1,300 @@
+# A Kormány 241/2010. (IX. 24.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 150. szám, 2010. szeptember 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f0e019902aefea3173388fe3dfc084f38e5d2ad7/dokumentumok/5873c91ee764c8886b9fd753c1773210abf8287b/letoltes)
+
+---
+
+A Kormány 241/2010. (IX. 24.) Korm. rendelete
+az Adó- és Pénzügyi Ellenőrzési Hivatalról szóló 273/2006. (XII. 23.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva, az Alkotmány 35. §
+(2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében
+eljárva, valamint az adózás rendjéről szóló 2003. évi XCII. törvény 182. § (10) bekezdésében foglalt felhatalmazás alapján
+a következőket rendeli el:
+1. §
+Az Adó- és Pénzügyi Ellenőrzési Hivatalról szóló 273/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 2. §-a helyébe
+a következő rendelkezés lép:
+„2. § (1) Az APEH feladatait központi szervei, területi szervei, a Kiemelt Ügyek és Adózók Főigazgatósága, a Kiemelt
+Ügyek Igazgatósága és a Kiemelt Adózók Igazgatósága útján látja el.
+(2) Az APEH központi szervei:
+a) a Központi Hivatal (székhelye: Budapest),
+b) az Informatikai Intézet (székhelye: Budapest),
+c) az Oktatási Intézet (székhelye: Budapest).
+(3) Az APEH területi szervei a regionális főigazgatóságok és a megyei (fővárosi) igazgatóságok.
+(4) Az APEH regionális főigazgatóságai
+a) a főváros és Pest megye területén Budapest székhellyel az APEH Közép-magyarországi Regionális Főigazgatósága,
+b) Borsod-Abaúj-Zemplén, Heves és Nógrád megye területén Miskolc székhellyel az APEH Észak-magyarországi
+Regionális Főigazgatósága,
+c) Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye területén Debrecen székhellyel az APEH
+Észak-alföldi Regionális Főigazgatósága,
+d) Bács-Kiskun, Békés és Csongrád megye területén Szeged székhellyel az APEH Dél-alföldi Regionális
+Főigazgatósága,
+e) Győr-Moson-Sopron, Vas és Zala megye területén Győr székhellyel az APEH Nyugat-dunántúli Regionális
+Főigazgatósága,
+f) Fejér, Komárom-Esztergom és Veszprém megye területén Székesfehérvár székhellyel az APEH Közép-dunántúli
+Regionális Főigazgatósága,
+g) Baranya, Somogy és Tolna megye területén Pécs székhellyel az APEH Dél-dunántúli Regionális Főigazgatósága.
+(5) Az APEH igazgatóságai:
+a) a fővárosban
+aa) az Észak-budapesti Igazgatóság Budapest I., II., III., IV., V. és XIII. kerületei,
+ab) a Kelet-budapesti Igazgatóság Budapest VI., VII., VIII., X., XIV., XV., XVI. és XVII. kerületei,
+ac) a Dél-budapesti Igazgatóság Budapest IX., XI., XII., XVIII., XIX., XX., XXI., XXII. és XXIII. kerületei
+területén, Budapest székhellyel;
+b) a megyékben a megyei igazgatóságok a megyeszékhellyel azonos székhellyel, Pest megyében Budapest
+székhellyel;
+c) a Kiemelt Ügyek Igazgatósága és a Kiemelt Adózók Igazgatósága.
+(6) A Kiemelt Ügyek és Adózók Főigazgatósága, a Kiemelt Ügyek Igazgatósága és a Kiemelt Adózók Igazgatósága
+az APEH különös hatáskörrel rendelkező szervei, amelyek a hatáskörükbe utalt ügyekben országos illetékességgel
+járnak el, székhelyük Budapest.
+(7) Az APEH területi szervei, a Kiemelt Ügyek és Adózók Főigazgatósága, a Kiemelt Ügyek Igazgatósága és a Kiemelt
+Adózók Igazgatósága közigazgatási hatásköri önállósággal rendelkeznek a jogszabályban hozzájuk telepített
+hatáskörök tekintetében.”
+
+2. §
+Az R. 3. §-a helyébe a következő rendelkezés lép:
+„3. § A megyei (fővárosi) igazgatóságok felettes szervei a regionális főigazgatóságok, a Kiemelt Ügyek Igazgatósága és
+a Kiemelt Adózók Igazgatósága felettes szerve a Kiemelt Ügyek és Adózók Főigazgatósága. A megyei (fővárosi)
+igazgatóságok az illetékességi területükön hatásköri és szervezeti önállósággal nem rendelkező kirendeltségeket
+működtethetnek.”
+3. §
+Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az APEH vezetője az elnök. Az APEH elnöke közvetlenül vezeti a Központi Hivatalt.”
+4. §
+Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az APEH elnökhelyetteseit határozatlan időtartamra az APEH elnöke nevezi ki és menti fel. Az APEH gazdasági
+vezetőjét határozatlan időtartamra az adópolitikáért felelős miniszter nevezi ki és menti fel.”
+5. §
+Az R. 6–7. §-ai helyébe a következő rendelkezés lép:
+„6. § (1) Az Informatikai Intézetet és a főigazgatóságokat az elnök által kinevezett főigazgató, az Oktatási Intézetet
+az elnök által kinevezett igazgató vezeti, aki az általa vezetett szervet képviseli.
+(2) Az igazgatóságokat – a főigazgató javaslatára – az elnök által kinevezett igazgató vezeti, aki az igazgatóságot
+képviseli.
+(3) A főigazgatóságokhoz, illetve az igazgatóságokhoz telepített hatáskör gyakorlója a főigazgató, illetve az igazgató.
+(4) A főigazgatóságok szakmai tevékenységének irányításában a főigazgató javaslatára az elnök által kinevezett
+főigazgató-helyettesek vesznek részt. Az Informatikai Intézet, illetve az Oktatási Intézet tevékenységének
+irányításában a szerv vezetőjének javaslatára az elnök által kinevezett főigazgató-helyettesek, illetve
+igazgatóhelyettesek vesznek részt. Az igazgatóságok szakmai tevékenységének irányításában az igazgató javaslatára
+a főigazgató által kinevezett igazgatóhelyettesek vesznek részt.
+7. § (1) Az APEH elnöke felett a munkáltatói jogokat az adópolitikáért felelős miniszter gyakorolja. Az elnökhelyettesek,
+a főigazgatók, az Oktatási Intézet igazgatója, illetve – a kinevezés és felmentés kivételével – a gazdasági vezető felett
+a munkáltatói jogkört az elnök gyakorolja. A kinevezés és felmentés kivételével az igazgatóságok igazgatói felett
+a munkáltatói jogkört a főigazgató gyakorolja. A kinevezés és a felmentés kivételével a főigazgató-helyettes, illetve
+az igazgatóhelyettes felett a munkáltatói jogkört a főigazgató, illetve az igazgató gyakorolja.
+(2) Az Informatikai Intézetnél, az Oktatási Intézetnél, a főigazgatóságoknál és az igazgatóságoknál a munkáltatói
+jogkör gyakorlója a szerv vezetője.”
+6. §
+Az R. 8. §-a, illetve az azt megelőző cím helyébe a következő rendelkezés és cím lép:
+„Felettes szervek
+8. § (1) Az Oktatási Intézet, az Informatikai Intézet és a főigazgatóságok felettes szerve a Központi Hivatal,
+az igazgatóságok felettes szervei a főigazgatóságok.
+(2) Az APEH hatáskörébe tartozó hatósági eljárásban
+a) a megyei (fővárosi) igazgatóságok felettes szervei a főigazgatóságok,
+b) a Kiemelt Ügyek Igazgatósága és a Kiemelt Adózók Igazgatósága felettes szerve a Kiemelt Ügyek és Adózók
+Főigazgatósága,
+c) a főigazgatóságok felettes szerve az APEH elnöke.”
+7. §
+Az R. 10. § (12)–(20) bekezdései helyébe a következő rendelkezések lépnek:
+„(12) Az APEH szervei évente kötelesek a helyi, illetve helyi kisebbségi önkormányzat költségvetését érintő, szükséges
+és rendelkezésre álló bevételi adatokról az önkormányzat részére tájékoztatást adni. Az adatszolgáltatás tartalmát
+a helyi önkormányzatokért felelős miniszter bevonásával az adópolitikáért felelős miniszter határozza meg.
+(13) Az APEH az államháztartás működéséhez szükséges és rendelkezésre álló adatokat feldolgozza és
+az adópolitikáért felelős miniszternek átadja, továbbá az adópolitikáért felelős miniszter által meghatározott körben
+a költségvetési szervek részére számítástechnikai szolgáltatást nyújt.
+(14) A főigazgatóságok és az igazgatóságok feladataik ellátása során együttműködnek az illetékességi területükön
+lévő helyi, illetve helyi kisebbségi önkormányzatokkal.
+(15) Az állami adóhatóság hatáskörébe tartozó adóval vagy költségvetési támogatással kapcsolatban elkövetett
+bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igény előterjesztésére
+
+a főigazgatóság jogosult. A főigazgatóság teszi meg az általa és az irányítása alá tartozó igazgatóságok által észlelt
+bűncselekmény miatt a büntető feljelentést.
+(16) A Kiemelt Ügyek Igazgatósága, illetve a Kiemelt Adózók Igazgatósága látja el a jogszabály alapján hatáskörébe
+tartozó adózók adóztatási feladatait. A Kiemelt Ügyek Igazgatósága lefolytatja az APEH elnöke által elrendelt
+központosított ellenőrzéseket.
+(17) A Központi Hivatal, illetőleg az Informatikai Intézet összegyűjti és tárolja az adóztatással összefüggő adatokat,
+azokról a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és
+adatszolgáltatásokat teljesít.
+(18) A főigazgatóságok folytatják le az APEH elnöke által elrendelt felülellenőrzéseket. A Központi Hivatal folytatja le
+a) az adópolitikáért felelős miniszter és az Állami Számvevőszék elnöke által elrendelt felülellenőrzéseket,
+b) az APEH elnöke által elrendelt azon felülellenőrzéseket, amelyeknél a felülellenőrzéssel érintett eljárás másodfokon
+jogerőre emelkedett határozattal zárult,
+c) azokat a felülellenőrzéseket, amelyeknél a felülellenőrzés lefolytatására az APEH elnöke a Központi Hivatalt jelölte
+ki.
+(19) Az APEH kormánytisztviselői részére a munkavégzésükhöz szükséges képzés, továbbképzés megszervezése és
+lebonyolítása az Oktatási Intézet feladata.
+(20) Az APEH az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot
+működtet, amelynél a tulajdonosi jogokat az APEH elnöke gyakorolja.”
+8. § Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az APEH hatáskörébe tartozó hatósági ügyekben – a (3)–(4) bekezdésben és a 12. § (1) bekezdésében
+meghatározott kivételekkel – első fokon az igazgatóságok járnak el.”
+9. § (1) Az R. 12. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A Kormány a kártyaterem működési engedélyének kiadása iránti eljárásban]
+„a) a kártyaterem helye szerinti települési önkormányzat, a főváros területén a kerületi önkormányzat jegyzőjét
+– annak elbírálása tekintetében, hogy az önkormányzat területén létesítendő kártyaterem a szerencsejáték
+szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 29/B. § (6) bekezdésében foglaltaknak megfelel-e,
+továbbá a kártyaterem adott helyszínen történő üzemeltetését az önkormányzat rendelete az Szjtv. 2. § (4) bekezdés
+a) pontjában foglalt vagy más helyi közösségi érdekre tekintettel nem tiltja-e –, valamint”
+(2) Az R. 12. § (6)–(7) bekezdései helyébe a következő rendelkezések lépnek:
+„(6) A szerencsejáték ügyben, valamint a játékautomata és ajándéksorsolás kapcsán kiszabott bírság végrehajtását
+a fizetésre kötelezett adóügyeiben eljáró igazgatóság folytatja le.
+(7) A szerencsejáték-szervezéssel összefüggő ellenőrzést az állami adóhatóság megyei (fővárosi) igazgatóságainak
+alkalmazásában álló adóellenőrök is lefolytathatják azzal, hogy az ellenőrzés megállapításai alapján a határozatot
+(végzést) a szerencsejáték-szervezéssel összefüggő hatósági ügyekben egyébként eljáró szerv hozza meg.”
+10. § Az R. a következő új 12/A. §-sal egészül ki:
+„12/A. § A Kiemelt Ügyek Igazgatósága az APEH elnökének utasítására, honvédelmi vagy nemzetbiztonsági érdekek
+által indokolt esetben a hatáskörébe nem tartozó, a Magyar Honvédséggel, illetőleg a nemzetbiztonsági
+szolgálatokkal szerződéses kapcsolatban állt vagy álló adózónál is végezhet ellenőrzést. Ebben az esetben
+az ellenőrzés eredménye alapján megindítandó hatósági eljárást is a Kiemelt Ügyek Igazgatósága folytatja le.”
+11. § Az R. 14. § (2)–(3) bekezdései helyébe a következő rendelkezések lépnek:
+„(2) Ha a vállalkozónak több telephelye van, a hatósági eljárást az elsőként bejelentett telephely szerint illetékes
+megyei (fővárosi) igazgatóság folytatja le. A később bejelentett telephely szerint illetékes megyei (fővárosi)
+igazgatóság is jogosult az adózó telephelyén az egyes adókötelezettségek teljesítésének ellenőrzésére, illetőleg
+az adatgyűjtésre irányuló ellenőrzés lefolytatására.
+(3) Adó-, jövedelem- és illetőségigazolás ügyben az adózó kérelmére – a 15. § (1) bekezdésének a)–h) pontjaiban és
+(2) bekezdésében megjelölt adózók kivételével – az APEH bármelyik megyei (fővárosi) igazgatósága eljárhat.
+Az illetékkel összefüggő igazolást – a 19. §-ban meghatározott illeték kivételével – az adott illetékügyben eljáró
+megyei (fővárosi) igazgatóság állítja ki.”
+
+12. § Az R. 14. § (5)–(7) bekezdései helyébe a következő rendelkezések lépnek, egyidejűleg e § a következő új
+(8)–(9) bekezdésekkel egészül ki:
+„(5) Ha az adózó által szabályszerűen bejelentett székhely-, telephely-, lakóhelyváltozás az adóhatóságnak
+a változásról történt tudomásszerzését megelőzően ténylegesen megtörtént, és az ellenőrzés során az adózó
+kötelezettségeit csak aránytalanul nagy költséggel tudná teljesíteni, kérheti az APEH elnökétől az ellenőrzés és
+szükség szerint a hatósági eljárás lefolytatására az új székhelye, telephelye, lakóhelye szerint illetékes megyei (fővárosi)
+igazgatóság kijelölését.
+(6) A regionális főigazgatóság illetékességi területén működő megyei (fővárosi) igazgatóságok a régió egész
+területén jogosultak ellenőrzés lefolytatására és az ellenőrzés során egyes eljárási cselekmények foganatosítására
+a regionális főigazgató engedélyével. A regionális főigazgató a megyei (fővárosi) igazgatóságnak az ellenőrzéssel
+lezárt időszakra vonatkozó ismételt ellenőrzésnek a régió másik megyei (fővárosi) igazgatóságának illetékességi
+területén való lefolytatására akkor adhat engedélyt, ha az alapellenőrzést is a megyei (fővárosi) igazgatóság végezte.
+(7) A regionális főigazgatóság illetékességi területén működő megyei (fővárosi) igazgatóságok a régió egész
+területén jogosultak végrehajtási cselekmények foganatosítására.
+(8) A megyei (fővárosi) igazgatóságok az APEH elnökének utasítására vagy engedélyével az ország egész területén
+jogosultak ellenőrzés lefolytatására és az ellenőrzés során egyes eljárási cselekmények foganatosítására, ha
+az ellenőrzés az illetékességi területükön kezdődött vagy az egyes eljárási cselekmények foganatosítása az általuk
+folytatott ellenőrzés befejezéséhez szükséges. Az illetékességi területen kívül elvégzendő ellenőrzést – a helyszíni
+ellenőrzés kivételével – a vizsgálattal érintett adózó székhelyén, telephelyén, illetve a lakóhelyéhez, székhelyéhez,
+telephelyéhez legközelebb eső hivatali helyiségben kell lefolytatni.
+(9) A hatósági eljárást a (6)–(8) bekezdés szerinti esetekben is a 13. § szerinti megyei igazgatóság folytatja le.”
+13. § Az R. 15. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+[Az állami adóhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében – az illetékügyek kivételével, ide
+nem értve a 19. §-ban meghatározott illetéket, illetőleg ha jogszabály másként nem rendelkezik – kizárólag a Kiemelt
+Adózók Igazgatósága jár el:]
+„g) a rendészetért felelős miniszter, illetőleg a Büntetés-végrehajtás Országos Parancsnoksága felügyelete és
+irányítása alá tartozó gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója
+a rendészetért felelős miniszter, illetőleg a Büntetés-végrehajtás Országos Parancsnoksága,”
+14. § Az R. 15. § (2)–(4) bekezdései helyébe a következő rendelkezések lépnek, és egyidejűleg e § a következő új
+(5) bekezdéssel egészül ki:
+„(2) Az illetékügyek kivételével – ide nem értve a 19. §-ban meghatározott illetéket – kizárólag a Kiemelt Adózók
+Igazgatósága jár el a külön jogszabályban meghatározott kiemelt adózók adóügyeiben.
+(3) A Kiemelt Ügyek Igazgatósága jár el a Központi Hivatal és a területi szervek, az Oktatási Intézet, valamint
+az Informatikai Intézet adóügyében is.
+(4) A Kiemelt Ügyek Igazgatóságához kell teljesíteni az Art. 9. §-ának (3) bekezdése szerint a pénzügyi képviselőt
+terhelő bejelentési kötelezettséget.
+(5) Az Art.-ban meghatározott központosított ellenőrzést a Kiemelt Ügyek Igazgatósága végzi. Amennyiben
+a központosított ellenőrzési eljárást és az azt követő hatósági eljárást a Kiemelt Ügyek Igazgatósága egy eljárásban,
+több adózónál egyidejűleg folytatja le, az eljárás eredményeként kiadmányozott jogerős határozatot az egyébként
+hatáskörrel és illetékességgel rendelkező megyei (fővárosi) igazgatóságnak kell megküldeni.”
+15. § Az R. 17–20. §-ai helyébe a következő rendelkezések lépnek:
+„17. § (1) Az öröklés után járó illetéket az a megyei (fővárosi) igazgatóság szabja ki,
+a) amelynek illetékességi területén a hagyatékot átadó közjegyző székhelye van,
+b) amelynek illetékességi területén az örökhagyó utolsó belföldi állandó lakóhelye volt – ennek hiányában az APEH
+elnöke által kijelölt megyei (fővárosi) igazgatóság –, ha a hagyatékot közjegyző nem tárgyalta,
+c) amelynek illetékességi területén az örökhagyó utolsó lakóhelye volt, ha a közjegyző székhelye Budapesten van.
+
+(2) Az ajándékozási és a visszterhes vagyonátruházási illetéket az a megyei (fővárosi) igazgatóság szabja ki,
+a) amelynek illetékességi területén az ingatlan található,
+b) amelynek illetékességi területén a szerződésben első helyen megjelölt ingatlan fekszik, feltéve, hogy
+a vagyonszerzés tárgya ingatlan-, vagy az ingatlanhoz kapcsolódó vagyoni értékű jog, ha a szerződés több
+illetékügyben eljáró megyei (fővárosi) igazgatóság illetékességi területén fekvő ingatlanra vonatkozik.
+(3) Ingó vagy ingatlanhoz nem kapcsolódó vagyoni értékű jog ajándékozása vagy visszterhes vagyonátruházási
+illeték alá eső megszerzése esetén az illetéket az a megyei (fővárosi) igazgatóság szabja ki, amelynek illetékességi
+területén a szerződésben első helyen feltüntetett szerző fél állandó, ennek hiányában ideiglenes lakóhelye, szokásos
+tartózkodási helye, illetve székhelye, ennek hiányában telephelye, illetőleg a tevékenység gyakorlásának helye
+[a továbbiakban együtt: lakóhely (székhely)] található. Amennyiben az adózó belföldön nem letelepedett, úgy
+az illetéket az Észak-budapesti Igazgatóság szabja ki.
+(4) A kiszabás alapján pénzzel fizethető eljárási illetéket az a megyei (fővárosi) igazgatóság állapítja meg, amelynek
+illetékességi területén az eljáró hatóság székhelye vagy az illeték fizetésére kötelezett lakóhelye (székhelye) van.
+(5) Az önálló orvosi tevékenység működtetési jogának megszerzésével kapcsolatos öröklési, ajándékozási és
+visszterhes vagyonátruházási illetéket az a megyei (fővárosi) igazgatóság szabja ki, amelynek területén a működtetési
+jogot szerző fél állandó, ennek hiányában ideiglenes lakóhelye, szokásos tartózkodási helye van.
+(6) Az érdekelt fél indokolt kérelmére az e kormányrendeletben megállapított illetékességtől eltérően az APEH elnöke
+az illeték kiszabására más megyei (fővárosi) igazgatóságot is kijelölhet.
+(7) Jogszabályi rendelkezés szerint kiállított lelet alapján az illetéket az a megyei (fővárosi) igazgatóság szabja ki,
+amelynek illetékességi területén a fizetésre kötelezett, több fizetésre kötelezett esetében az, amelynek illetékességi
+területén az elsősorban fizetésre kötelezett, amennyiben ez külföldi, a soron következő belföldi lakóhelye (székhelye)
+van. Ha minden fizetésre kötelezettnek az ország területén kívül van a lakóhelye (székhelye), az illetéket az a megyei
+(fővárosi) igazgatóság szabja ki, amelynek illetékességi területén a leletet készítő szerv székhelye van. A leletet
+a megyei (fővárosi) igazgatóságnak kell megküldeni.
+18. § (1) Az illeték törlése iránti eljárásban az a megyei (fővárosi) igazgatóság jár el, amelyik a 17. §-ban foglaltak szerint
+az illetéket kiszabta, megállapította.
+(2) Az illeték visszatérítése iránti eljárásban
+a) az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 77. §-a szerinti, kiszabás alapján megfizetett illeték
+tekintetében az a megyei (fővárosi) igazgatóság, amelynek a számlájára az illetéket befizetni rendelték,
+b) az Itv. 32. §-a szerinti, a jogorvoslati eljárásban megfizetett illeték tekintetében az ügyfél lakóhelye (székhelye),
+illetőleg a bíróság székhelye szerinti megyei (fővárosi) igazgatóság,
+c) az eljárás megindítása nélkül megfizetett, az Itv. 73. § (12) bekezdés első mondata szerinti, továbbá az eljárási
+illetékek megfizetésének és a megfizetés ellenőrzésének részletes szabályairól szóló 44/2004. (XII. 20.) PM rendelet 7. §
+(4) bekezdésében írt illeték tekintetében az ügyfél lakóhelye (székhelye) szerinti megyei (fővárosi) igazgatóság,
+d) az Itv. 94. §-a szerinti megrongálódott, tévesen felragasztott, továbbá feleslegessé vált illetékbélyeg tekintetében
+az eljáró hatóság, illetve bíróság székhelye vagy az ügyfél lakóhelye (székhelye) szerinti megyei (fővárosi) igazgatóság,
+e) az Itv. 81. § (2) bekezdés első mondatában említett esetekben, ha az illeték megfizetése illetékbélyeggel történt,
+az eljáró hatóság, illetve bíróság székhelye szerinti megyei (fővárosi) igazgatóság jár el.
+(3) Az Itv. 74. § (4) bekezdése alapján a választottbíróság által átutalandó illetéket és költséget a választottbíróság
+székhelye szerinti megyei igazgatóság illetékbevételi számlájára kell átutalni.
+19. § Az igazgatóságoknál indított eljárás tekintetében az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem
+fizetett eljárási illeték és a mulasztási bírság összegét előíró határozat meghozatalára irányuló eljárásban az az
+igazgatóság jár el, amelyiknél az eljárás indult, illetve folyamatban van.
+20. § (1) Az illetékfizetési kötelezettségre vonatkozó fizetési könnyítés, mérséklés iránti ügyben, illetőleg végrehajtási
+ügyekben – ideértve az Art. 151. §-a szerinti visszatartási jog gyakorlását is – az adózó adóügyeiben eljáró igazgatóság
+jár el.”
+16. §
+Az R. a következő új 21/A. §-sal egészül ki:
+„21/A. § (1) A 241/2010. (IX. 24.) Korm. rendelet hatálybalépésekor folyamatban lévő első fokú eljárásokat
+– a (2) bekezdésben foglalt kivétellel – az e rendelet 241/2010. (IX. 24.) Korm. rendelettel megállapított 13. §-a, 14. §-a
+és 17–20. §-a szerint illetékes megyei (fővárosi) igazgatóság, a 241/2010. (IX. 24.) Korm. rendelet hatálybalépésekor
+folyamatban lévő másodfokú eljárásokat az e rendelet 241/2010. (IX. 24.) Korm. rendelettel megállapított 8. §
+(2) bekezdésében kijelölt felettes szerv folytatja le.
+
+(2) Az APEH Közép-magyarországi Regionális Igazgatóságán 2010. szeptember 30-án első fokon folyamatban lévő
+illeték ügy tekintetében 2010. október 1-jétől az APEH Közép-magyarországi Regionális Főigazgatóság illetékességi
+területén működő valamennyi megyei (fővárosi) igazgatóság illetékes, közülük az eljárást az folytatja le, amely 2010.
+szeptember 30-át követően az ügyben az első eljárási cselekményt tette.”
+17. §
+E rendelet hatálybalépésével egyidejűleg az R. 9. § (4) bekezdésében a „Kiemelt Adózók Igazgatósága” szövegrész
+helyébe a „Kiemelt Ügyek Igazgatósága” szövegrész; az R. 13. §-ában a „regionális” szövegrész helyébe a „megyei
+(fővárosi)” szövegrész lép; az R. 15. § (1) bekezdésében a „Kiemelt Adózók Igazgatósága” szövegrész helyébe a „Kiemelt
+Ügyek Igazgatósága” szövegrész lép.
+18. §
+E rendelet hatálybalépésével egyidejűleg hatályát veszti az R. 1. § (1) bekezdés második mondatában a „közhatalmi”
+szövegrész; az R. 11. § (2) bekezdése; az R. 15. § (1) bekezdésének i) pontja; az R. 21. § (3) bekezdése.
+19. §
+Az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: R.2.) 72. §
+(5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A (3) bekezdés alkalmazásában az Adó- és Pénzügyi Ellenőrzési Hivatal Informatikai Intézetének, Oktatási
+Intézetének, regionális főigazgatóságainak és a Kiemelt Ügyek és Adózók Főigazgatóságának vezetőjét is
+a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható
+kötelezettségek tekintetében.”
+20. §
+(1) A fővárosi, megyei közigazgatási hivatalokról szóló 214/2010. (VII. 9.) Korm. rendelet (a továbbiakban R.3.) 16. §
+(2)–(4) bekezdései helyébe a következő rendelkezések lépnek:
+„(2) A közigazgatási hivatal – a rendvédelmi szervek és az állami adóhatóság kivételével – véleményezi a Kormánynak
+alárendelt szervek területi szervei vezetőinek kinevezését és megbízásuk visszavonását, javaslatot tehet megbízásuk
+visszavonására, kitüntetésükre, jutalmazásukra, kezdeményezheti fegyelmi felelősségre vonásukat.
+(3) A közigazgatási hivatal – a rendvédelmi szervek és az állami adóhatóság kivételével – véleményezi a Kormánynak
+alárendelt szervek területi szervei létrehozására, átszervezésére, valamint jogállásuk és illetékességi területük
+módosítására vonatkozó előterjesztéseket.
+(4) A közigazgatási hivatal – a rendvédelmi szervek és az állami adóhatóság kivételével – véleményezi a Kormánynak
+alárendelt szervek területi szervei létszámának megállapítására és költségvetése megállapítására vonatkozó
+előterjesztést, javaslatokat.”
+(2) Az R.3. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A közigazgatási hivatal kérelemre vagy hivatalból – a rendvédelmi szervek és az állami adóhatóság kivételével –
+a Kormánynak alárendelt szervek bármely területi szervétől, a polgármestertől és a jegyzőtől az általuk ellátott
+államigazgatási feladatokat érintően, valamint államigazgatási feladatot ellátó más szervtől és személytől bármely
+döntést bekérhet, a szerv intézkedéséről tájékoztatást kérhet, illetve – jogszabály eltérő rendelkezése hiányában –
+az iratokba betekinthet.”
+(3) Az R.3. 23. § (1) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
+„A közigazgatási hivatal ellenőrzési feladat- és hatáskörében – az állami adóhatóság kivételével – a központi
+államigazgatási szervek bármely jogállású területi szervei vonatkozásában”
+21. §
+Ez a rendelet 2010. október 1-jén lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
