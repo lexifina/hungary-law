@@ -1,5 +1,0 @@
-1. § (1) A Kormány kiemelt jelentőségű üggyé nyilvánítja az 1. számú mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek Sukoró közigazgatási területén lévő 018/3, 018/4, 018/9, 019/10, 019/11, 019/12, 019/3, 022/4, 022/5, 022/6, 022/7, 022/8, 022/9, 022/10, 022/11, 022/12, 024/1, 032/1, 032/2, 032/3 ingatlan-nyilvántartási helyrajzi számú, valamint a 019/13 és a 022/4–022/06 ingatlan-nyilvántartási helyrajzi számú ingatlanok telekalakítását követően létrejött új ingatlan-nyilvántartási helyrajzi számú területeken megvalósuló nagyberuházással függenek össze.
-
-(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. számú mellékletben meghatározott hatóságokat jelöli ki.
-
-(3) Azokban az esetekben, amikor az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. számú mellékletben meghatározott hatóságokat jelöli ki.
