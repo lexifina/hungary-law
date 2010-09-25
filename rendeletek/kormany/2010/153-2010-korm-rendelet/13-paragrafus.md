@@ -1,3 +1,3 @@
-## 9–12. §[^8]
+## 9–12. §[^9]
 
-[^8]: A 9–12. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 9–12. §-t a 14. § (1) bekezdése hatályon kívül helyezte.

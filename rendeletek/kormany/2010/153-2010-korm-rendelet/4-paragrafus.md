@@ -4,7 +4,7 @@
 
 (3) A pályázaton való részvétel díja a köztisztviselői illetményalap 15%-a, amelyet a KSZK Magyar Államkincstárnál vezetett számlájára kell a pályázat benyújtásával egyidejűleg megfizetni.
 
-(4) Az OKV tagjává az OKV elnöke az (1) bekezdésben meghatározott pályázat alapján azt kérheti fel, aki felsőfokú iskolai végzettséggel, valamint legalább ötéves közigazgatási gyakorlattal rendelkezik. Az OKV elnöke a pályázati kiírásban további feltételeket is meghatározhat.
+(4)[^2] Az OKV tagjává az OKV elnöke – mérlegelés alapján – az (1) bekezdésben meghatározott pályázat útján azt kérheti fel, aki felsőfokú iskolai végzettséggel, valamint legalább hároméves közigazgatási vagy felsőoktatási oktatói, illetve közigazgatási tárgyú tudományos kutatói gyakorlattal vagy szakirányú szakmai tapasztalattal rendelkezik. Az OKV elnöke az egyes oktatói és vizsgáztatói kör tekintetében a pályázati kiírásban további, illetve eltérő feltételeket is meghatározhat.
 
 (5) Az OKV elnöke pályáztatás nélkül is felkérheti az OKV tagjának azt a kiemelkedő szakmai tudással rendelkező személyt, aki felsőfokú iskolai végzettséggel és legalább ötéves közigazgatási gyakorlattal vagy kiemelkedő tudományos tevékenységgel bír. Az így felkért személyek száma nem haladhatja meg az adott évben névjegyzéken szereplő vizsgáztatók számának a tizedét. Az OKV tagjává történő felkérés elfogadásáról a felkért személynek nyilatkoznia kell, a felkérés elfogadásával válik az OKV tagjává.
 
@@ -16,7 +16,7 @@ b) a tag felmentésével, vagy
 
 c) a tag halálával,
 
-d)[^2] az OKV tagság megújítására irányuló, 4. § (1) bekezdése szerinti új eredményes pályázat esetén az új tagok felkérésével.
+d)[^3] az OKV tagság megújítására irányuló, 4. § (1) bekezdése szerinti új eredményes pályázat esetén az új tagok felkérésével.
 
 (7) Az OKV tagját az OKV elnöke az OKV Elnökségével folytatott konzultációt követően abban az esetben mentheti fel, ha
 
@@ -26,4 +26,5 @@ b) súlyosan megsérti a vizsgáztatás rendjére vonatkozó szabályokat,
 
 c) olyan jogellenes magatartást tanúsított, amely méltatlan az OKV-ban betöltött tagságához.
 
-[^2]: A 4. § (6) bekezdés d) pontját a 207/2010. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^2]: A 4. § (4) bekezdése a 242/2010. (IX. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (6) bekezdés d) pontját a 207/2010. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
