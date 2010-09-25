@@ -1,0 +1,5 @@
+## 7. Jogkövetkezmények
+
+13. § (1) Az a kérelmező, aki a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendeletben [a továbbiakban: 127/2009. (IX. 29.) FVM rendelet] meghatározott szüreti, termelési vagy készletjelentési kötelezettségének határidőben nem tesz eleget, nem jogosult az e rendelet szerint támogatás igénybevételére sem a kötelezettség nem teljesítésének borpiaci évében, sem az azt követő borpiaci évben.
+
+(2) Azon kérelmező esetében, aki a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készletjelentési kötelezettségét a határidő lejárta után teljesíti, de ezt a kötelezettségét a határidő lejártát követő legfeljebb 10 munkanapon belül pótolja, a megítélhető támogatás összegét az MVH késedelmes munkanaponként a megítélhető támogatási összeg 1/11-ed részével csökkenti. A csökkentés alapját az az összeg képezi, amelyre a kérelmező a határidőig benyújtott jelentés esetén lett volna jogosult.
