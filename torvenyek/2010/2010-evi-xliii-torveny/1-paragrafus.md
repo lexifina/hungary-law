@@ -44,9 +44,9 @@ c) a Magyar Energia Hivatal,
 
 d) az Országos Atomenergia Hivatal,
 
-e) a Magyar Szabadalmi Hivatal,
+e) a Magyar Szabadalmi Hivatal.
 
-f) az Egészségbiztosítási Felügyelet.
+f)
 
 (5) Rendvédelmi szerv
 
