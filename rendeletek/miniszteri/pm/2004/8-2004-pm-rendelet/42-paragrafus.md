@@ -14,9 +14,9 @@
 
 (7)[^219] Az alkoholterméknek, a sörnek, a bornak, a pezsgőnek és a köztes alkoholterméknek cefre dúsítására való felhasználását a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz a felhasználás megkezdése előtt 5 munkanappal be kell jelenteni.
 
-(8) Amennyiben gyümölcsökből és bogyókból, szőlőborból és borászati melléktermékekből erjesztéssel és lepárlással a 30. számú mellékletben meghatározott kihozatalt meghaladó mennyiségben történt az alkoholtermék előállítása – a (9) bekezdésben foglalt eltéréssel –, az alkoholterméket meg kell semmisíteni, vagy az alkoholtermékben lévő etilalkohol vonatkozó rendelkezések szerinti eredetét a szeszfőzdének akkreditált laboratóriumi vizsgálattal igazolnia kell. Az alkoholterméket abban az esetben is meg kell semmisíteni, ha a vizsgálati eredmény szerint az alkoholtermékben lévő etilalkohol nem a vonatkozó rendelkezések szerint keletkezett.
+(8)[^220] Amennyiben gyümölcsökből és bogyókból, szőlőborból és borászati melléktermékekből erjesztéssel és lepárlással a Jöt. 3. számú mellékletében meghatározott kihozatalt meghaladó mennyiségben történt az alkoholtermék előállítása – a (9) bekezdésben foglalt eltéréssel –, az alkoholterméket meg kell semmisíteni, vagy az alkoholtermékben lévő etilalkohol vonatkozó rendelkezések szerinti eredetét a szeszfőzdének akkreditált laboratóriumi vizsgálattal igazolnia kell. Az alkoholterméket abban az esetben is meg kell semmisíteni, ha a vizsgálati eredmény szerint az alkoholtermékben lévő etilalkohol nem a vonatkozó rendelkezések szerint keletkezett.
 
-(9)[^220] Nem kell az alkoholterméket megsemmisíteni, ha azt a Mezőgazdasági Szakigazgatási Hivatal Borminősítési Igazgatósága (a továbbiakban: MgSzH Borminősítési Igazgatóság) által minősített alapanyagból állították elő, és az előállított mennyiség nem haladja meg a minősítés alapján számítható mennyiséget, kivéve, ha akkreditált laboratóriumi vizsgálati eredmény szerint az alkoholtermékben lévő etilalkohol nem a vonatkozó rendelkezések szerint keletkezett.
+(9)[^221] Nem kell az alkoholterméket megsemmisíteni, ha azt a Mezőgazdasági Szakigazgatási Hivatal Borminősítési Igazgatósága (a továbbiakban: MgSzH Borminősítési Igazgatóság) által minősített alapanyagból állították elő, és az előállított mennyiség nem haladja meg a minősítés alapján számítható mennyiséget, kivéve, ha akkreditált laboratóriumi vizsgálati eredmény szerint az alkoholtermékben lévő etilalkohol nem a vonatkozó rendelkezések szerint keletkezett.
 
 [^214]: A 42. § (1) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (14) bekezdése szerint módosított szöveg.
 [^215]: A 42. § (2) bekezdése a 46/2004. (XII. 29.) PM rendelet 9. §-ával megállapított, a 40/2007. (XII. 29.) PM rendelet 40. § (14) bekezdése szerint módosított szöveg.
@@ -24,4 +24,5 @@
 [^217]: A 42. § (4) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (14) bekezdése szerint módosított szöveg.
 [^218]: A 42. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 19. §-ával megállapított szöveg.
 [^219]: A 42. § (7) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (6) bekezdése szerint módosított szöveg.
-[^220]: A 42. § (9) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (13) bekezdése szerint módosított szöveg.
+[^220]: A 42. § (8) bekezdése a 4/2010. (VIII. 13.) NGM rendelet 5. §-a szerint módosított szöveg.
+[^221]: A 42. § (9) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (13) bekezdése szerint módosított szöveg.

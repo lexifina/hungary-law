@@ -1,6 +1,6 @@
-## Az E85 biotartalmának igazolása[^444]
+## Az E85 biotartalmának igazolása[^459]
 
-## 111/A. §[^445] Az E85 bioetanol-tartalmának igazolásához szükséges okmányok:
+## 111/A. §[^460] Az E85 bioetanol-tartalmának igazolásához szükséges okmányok:
 
 a) a bioetanol gyártásához felhasznált etilalkohol alapanyagának mezőgazdasági eredetéről és Közösségben történt előállításáról
 
@@ -14,5 +14,5 @@ b) az etilalkohol 61/A. § (1) bekezdés szerinti denaturálásáról a 61. § (
 
 c) az E85 gyártmánylapja, vagy az E85 minőségi bizonyítványa, vagy az EN ISO/IEC 17025 szerint akkreditált laboratórium vagy az E85 előállítását végző, ISO 9001 minőségirányítási rendszerrel rendelkező gyártó laboratóriuma által kiállított olyan igazolás, amelyből megállapítható az E85-ben lévő bioetanol térfogatszázalékban vagy a külön jogszabály szerint meghatározott energiatartalom százalékában kifejezett aránya, és a bekevert bioetanol 15 °C hőmérséklethez tartozó sűrűsége és térfogata.
 
-[^444]: A 111/A. §-t megelőző alcímet a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 13/2009. (VI. 12.) PM rendelet 16. §-ával megállapított szöveg.
-[^445]: A 111/A. §-t a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 13/2009. (VI. 12.) PM rendelet 16. §-ával megállapított szöveg.
+[^459]: A 111/A. §-t megelőző alcímet a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 13/2009. (VI. 12.) PM rendelet 16. §-ával megállapított szöveg.
+[^460]: A 111/A. §-t a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 13/2009. (VI. 12.) PM rendelet 16. §-ával megállapított szöveg.

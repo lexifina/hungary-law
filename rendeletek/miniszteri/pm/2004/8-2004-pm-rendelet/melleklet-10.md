@@ -66,6 +66,6 @@
 
 |  | (bélyegzője) |
 
-10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^565]
+10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^581]
 
-[^565]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^581]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-## 133/B. §[^540] A Jöt. 110. § (7) bekezdése szerinti vendéglátó-ipari üzletben alkoholterméket forgalmazó nem jövedéki engedélyes kereskedőnek (a továbbiakban: vendéglátó) a Jöt. 110. § (10) bekezdése szerinti alkoholtermék-készletforgalmi szabályzata legalább az alábbiakat tartalmazza:
+## 133/B. §[^556] A Jöt. 110. § (7) bekezdése szerinti vendéglátó-ipari üzletben alkoholterméket forgalmazó nem jövedéki engedélyes kereskedőnek (a továbbiakban: vendéglátó) a Jöt. 110. § (10) bekezdése szerinti alkoholtermék-készletforgalmi szabályzata legalább az alábbiakat tartalmazza:
 
 a) a vendéglátó neve, székhelye, adószáma,
 
@@ -12,4 +12,4 @@ e) az időszak forgalmi adatai megállapításának és a külön nyilvántartá
 
 f) az időszaki zárókészlet megállapításának módszere, készletfelvétel alkalmazása esetén a készletfelvétel módja.
 
-[^540]: A 133/B. §-t a 40/2007. (XII. 29.) PM rendelet 37. §-a iktatta be, szövege a 44/2009. (XII. 29.) PM rendelet 38. §-ával megállapított szöveg.
+[^556]: A 133/B. §-t a 40/2007. (XII. 29.) PM rendelet 37. §-a iktatta be, szövege a 44/2009. (XII. 29.) PM rendelet 38. §-ával megállapított szöveg.

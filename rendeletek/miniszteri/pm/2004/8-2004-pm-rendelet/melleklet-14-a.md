@@ -30,6 +30,10 @@
 
 ## * Amennyiben szükséges használjon külön lapot!
 
-14/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^569]
+14/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^585]
 
-[^569]: A 14/A. számú mellékletet a 46/2004. (XII. 29.) PM rendelet 26. §-ának (1) bekezdése iktatta be, szövege a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított, a 17/2009. (IX. 29.) PM rendelet 19. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+HATÁROZAT
+
+kötelező érvényű vámtarifa-besorolásról
+
+[^585]: A 14/A. számú mellékletet a 46/2004. (XII. 29.) PM rendelet 26. §-ának (1) bekezdése iktatta be, szövege a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított, a 17/2009. (IX. 29.) PM rendelet 19. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

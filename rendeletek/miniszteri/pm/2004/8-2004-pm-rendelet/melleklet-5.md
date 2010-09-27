@@ -158,6 +158,6 @@
 
 |  | ......................................................................... a kérelmező aláírása (bélyegzője) |
 
-5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^560]
+5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^576]
 
-[^560]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított szöveg.
+[^576]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított szöveg.

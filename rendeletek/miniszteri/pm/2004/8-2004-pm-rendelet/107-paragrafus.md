@@ -1,6 +1,6 @@
 107. § (1) A megsemmisülési jegyzőkönyvnek tartalmaznia kell
 
-a)[^416] a vizsgálatot végző hatósági felügyeletet ellátó vám- és pénzügyőri hivatal megnevezését;
+a)[^431] a vizsgálatot végző hatósági felügyeletet ellátó vám- és pénzügyőri hivatal megnevezését;
 
 b) a megsemmisülés helyét, idejét, módját és körülményeit;
 
@@ -14,15 +14,15 @@ f) az adóraktár engedélyese, az adómentes felhasználó, az adófelfüggeszt
 
 g) a jelenlévők aláírását, bélyegzőlenyomatát ennek hiányában személyigazolványa számát vagy útlevele számát.
 
-(2)[^417] A megsemmisülési jegyzőkönyvet 2 példányban kell kiállítani, melynek eredeti példánya az adóraktár engedélyese termékmérleg nyilvántartásának vagy az adómentes felhasználó jövedéki nyilvántartásának mellékletét képezi, a másodpéldány a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal példánya.
+(2)[^432] A megsemmisülési jegyzőkönyvet 2 példányban kell kiállítani, melynek eredeti példánya az adóraktár engedélyese termékmérleg nyilvántartásának vagy az adómentes felhasználó jövedéki nyilvántartásának mellékletét képezi, a másodpéldány a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal példánya.
 
 (3) A megsemmisülés nem tekinthető igazoltnak, ha az adóraktár engedélyese, illetve az adómentes felhasználó
 
-a)[^418] a megsemmisülés tényét annak felfedése után haladéktalanul nem jelentette be a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak,
+a)[^433] a megsemmisülés tényét annak felfedése után haladéktalanul nem jelentette be a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak,
 
-b)[^419] a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal vizsgálatáig nem tárta fel a megsemmisülés körülményeit, illetve nem gondoskodott a helyszín biztosításáról, valamint a további megsemmisülés megakadályozásáról.
+b)[^434] a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal vizsgálatáig nem tárta fel a megsemmisülés körülményeit, illetve nem gondoskodott a helyszín biztosításáról, valamint a további megsemmisülés megakadályozásáról.
 
-[^416]: A 107. § (1) bekezdés a) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^417]: A 107. § (2) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^418]: A 107. § (3) bekezdés a) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (8) bekezdése szerint módosított szöveg.
-[^419]: A 107. § (3) bekezdés b) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^431]: A 107. § (1) bekezdés a) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^432]: A 107. § (2) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^433]: A 107. § (3) bekezdés a) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (8) bekezdése szerint módosított szöveg.
+[^434]: A 107. § (3) bekezdés b) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.

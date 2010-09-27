@@ -104,6 +104,6 @@
 
 |  |  |  |  | a kérelmező aláírása (bélyegzője) |
 
-7. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^562]
+7. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^578]
 
-[^562]: A 7. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése és 20. § (3) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (7) bekezdése szerint módosított szöveg.
+[^578]: A 7. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése és 20. § (3) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (7) bekezdése szerint módosított szöveg.

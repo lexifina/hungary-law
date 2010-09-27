@@ -22,9 +22,9 @@ c) 2,08 liter izopropil-alkoholt, 1,06 liter terc-butanolt és 0,83 gramm denat�
 
 (3) A teljes denaturáláshoz csak olyan anyagok használhatók fel, amelyek minőségét analízis bizonyítvánnyal (a továbbiakban: műbizonylat) igazolják.
 
-(4)[^261] A denaturált szesz csak szeszüzemben, illetve alkoholregeneráló és denaturáló üzemben a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal ellenőrzése mellett állítható elő. A denaturált szesz készítésének időpontját – azt legalább 5 nappal megelőzően – a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak be kell jelenteni. Az állandó felügyelettel működő adóraktárakban a denaturált szesz készítésének időpontját – a teljes denaturálást követlenül megelőzően – az állandó felügyeletet ellátónak kell bejelenteni.
+(4)[^276] A denaturált szesz csak szeszüzemben, illetve alkoholregeneráló és denaturáló üzemben a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal ellenőrzése mellett állítható elő. A denaturált szesz készítésének időpontját – azt legalább 5 nappal megelőzően – a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak be kell jelenteni. Az állandó felügyelettel működő adóraktárakban a denaturált szesz készítésének időpontját – a teljes denaturálást követlenül megelőzően – az állandó felügyeletet ellátónak kell bejelenteni.
 
-(5)[^262] A teljes denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, illetve az alkoholregeneráló és -denaturáló üzem, második példánya a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal példánya. A jegyzőkönyvnek tartalmazni kell
+(5)[^277] A teljes denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, illetve az alkoholregeneráló és -denaturáló üzem, második példánya a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal példánya. A jegyzőkönyvnek tartalmazni kell
 
 a) a szeszüzem és az alkoholregeneráló és denaturáló üzem jövedéki számát;
 
@@ -34,7 +34,7 @@ c) a denaturálásra került alkoholtermék valódi szeszfokát, liter vagy kilo
 
 d) az (1) bekezdés szerint felhasznált anyagok megnevezését és mennyiségét (liter, kilogramm);
 
-e)[^263] a denaturált szesz liter, kilogramm és hektoliterfok mennyiségét.
+e)[^278] a denaturált szesz liter, kilogramm és hektoliterfok mennyiségét.
 
 (6) A denaturált szeszt a szeszüzem, az alkoholregeneráló és denaturáló üzem csak az általa kiadott műbizonylattal, a felhasználói engedélyes a szeszüzem, az alkoholregeneráló és denaturáló üzem által kiadott műbizonylat másolatával hozhatja forgalomba.
 
@@ -42,9 +42,9 @@ e)[^263] a denaturált szesz liter, kilogramm és hektoliterfok mennyiségét.
 
 (8) A teljes denaturáláshoz felhasznált anyagokat tilos a denaturált szeszből egészen vagy részben kivonni, a denaturált szeszhez olyan anyagot keverni, amely a denaturált szesz hatását ízre vagy szagra megváltoztatja.
 
-(9)[^264] A denaturált szesz felhasználói engedélyes, nyilvántartásba vett felhasználó részére történő értékesítésekor a mennyiséget literben és kilogrammban is fel kell tüntetni.
+(9)[^279] A denaturált szesz felhasználói engedélyes, nyilvántartásba vett felhasználó részére történő értékesítésekor a mennyiséget literben és kilogrammban is fel kell tüntetni.
 
-[^261]: A 60. § (4) bekezdése a 46/2004. (XII. 29.) PM rendelet 11. §-ával megállapított és a 44/2008. (XII. 31.) PM rendelet 35. § (1) és (8) bekezdése szerint módosított szöveg.
-[^262]: A 60. § (5) bekezdés első mondata a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított szöveg.
-[^263]: A 60. § (5) bekezdés e) pontja a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított szöveg.
-[^264]: A 60. § (9) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (4) bekezdése szerint módosított szöveg.
+[^276]: A 60. § (4) bekezdése a 46/2004. (XII. 29.) PM rendelet 11. §-ával megállapított és a 44/2008. (XII. 31.) PM rendelet 35. § (1) és (8) bekezdése szerint módosított szöveg.
+[^277]: A 60. § (5) bekezdés első mondata a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított szöveg.
+[^278]: A 60. § (5) bekezdés e) pontja a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított szöveg.
+[^279]: A 60. § (9) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (4) bekezdése szerint módosított szöveg.
