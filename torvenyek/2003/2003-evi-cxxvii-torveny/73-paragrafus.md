@@ -6,13 +6,15 @@ a) a b)–c) pont alá nem tartozó szabadforgalomba bocsátása,
 
 b) az importálása, feltéve, hogy az importáló nem adóraktárba szállítja be a terméket,
 
-c) a más tagállamból való behozatalát követően belföldön való forgalomba hozatala
+c) a más tagállamból való behozatalát követően belföldön való forgalomba hozatala,
+
+d) a bérfőzető és a magánfőző által történő értékesítése, kivéve, ha a bérfőzető alkoholtermék-adóraktárnak adja el a bérfőzött párlatot,
 
 a (3) bekezdés szerinti zárjeggyel történhet.
 
 (2) Az (1) bekezdés rendelkezése nem vonatkozik
 
-a) a bérfőzött pálinka bérfőzető részére történő kiadására,
+a) a bérfőzött párlat bérfőzető részére történő kiadására,
 
 b) a harmadik országból nem kereskedelmi jellegű áruként, illetve tagállamból magáncélra behozott, illetve az árumintaként importált vagy tagállamból árumintaként behozott alkoholtermékre,
 
@@ -24,7 +26,7 @@ e) a 2207 vámtarifaszám alá tartozó, nyomdaipari célokat szolgáló hígít
 
 f) a 2207 és 2208 vámtarifaszámú alkoholtermékre, amennyiben az adózottan, a 63. § (1) bekezdés c) pontja szerinti alkoholtermék előállítása céljára kerül értékesítésre.
 
-(3) A zárjegy az alkoholtermék palackjára vagy legkisebb fogyasztói csomagolási egységére felhelyezett olyan bélyeg, amely igazolja, hogy a termék adóraktárban került előállításra (palackozásra), és onnan került kiszállításra, továbbá, hogy a harmadik országból, illetve tagállamból a közösségi vámjog, illetve e törvény rendelkezései szerint került behozatalra.
+(3) A zárjegy az alkoholtermék palackjára vagy legkisebb fogyasztói csomagolási egységére felhelyezett olyan bélyeg, amely igazolja, hogy a termék adóraktárban került előállításra (palackozásra), és onnan került kiszállításra, – a bérfőzött párlat és a magánfőzésben előállított párlat esetén – továbbá azt, hogy a 64. § (5), illetve (6) bekezdés szerinti adót megfizették, továbbá azt, hogy a harmadik országból, illetve tagállamból a közösségi vámjog, illetve e törvény rendelkezései szerint került behozatalra.
 
 (4) A zárjegyet a magyar állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, ügyfélkapun keresztül benyújtott megrendelés alapján és elszámolási kötelezettség mellett – az adóraktár engedélyese, a bejegyzett kereskedő és a 104. §-ban meghatározott jövedéki engedéllyel rendelkező importáló vagy közösségi kereskedelmi tevékenységet folytató kereskedő (a továbbiakban együtt: zárjegyfelhasználó) rendelkezésére. A zárjegyhez a zárjegy előállítási költségének a megfizetése ellenében lehet hozzájutni, a közösségi kereskedelmi tevékenységet folytató kereskedő esetében továbbá akkor, ha a 27. § (4) bekezdés a) pontja szerinti jövedékibiztosíték-nyújtási kötelezettségét teljesítette.
 
@@ -61,3 +63,7 @@ d) az importáló az importálást megelőzően felhelyezett zárjegyekről legk
 követő napon köteles a felhelyezés, a fogadás, a beszállítás, illetve a vámjogi szabadforgalomba bocsátás napjára vonatkozó adatokat elektronikus úton, ügyfélkapun keresztül megküldeni. Több műszakos üzemelés esetén az adóraktár engedélyesének a tárgynapon megkezdett, de a következő napra átnyúló műszak alatt történt zárjegyfelhasználásra vonatkozó adatokat a műszak befejezésének napján kell megküldenie.
 
 (13) A zárjegyfelhasználó a zárjegykészletében bekövetkezett, a (12) bekezdésben foglaltakon túli változásokat is köteles – a külön jogszabályban meghatározott adattartalommal – a változás bekövetkezésének napját, illetve a (7) bekezdés szerinti készletváltozások esetében a zárjegy visszavételének, megsemmisítésének vagy a külön jogszabályban előírt, a vámhatóság által a (7) bekezdés c) pont esetében felvett jegyzőkönyv felvételének napját követő napon, elektronikus úton, ügyfélkapun kereszül a vámhatóság részére megküldeni.
+
+(14) A magánfőző esetén a 67/A. § (1) bekezdés szerinti bejelentés minősül a zárjegy megrendelésének. A bérfőzető a zárjegy megrendelését a külön jogszabályban foglaltak szerint nyújtja be a vámhatósághoz. Az igényelt zárjegyet a vámhatóság a bérfőzető és a magánfőző esetén a zárjegy előállítási költségének megfizetése ellenében, a bérfőzető esetén továbbá az egyszerűsített kísérő okmány vámhatóságnak történt bemutatását követően bocsátja rendelkezésre, feltéve, hogy a 64. § (5), illetve (6) bekezdés szerinti adót megfizették.
+
+(15) Az átvett zárjeggyel a bérfőzető és a magánfőző nem köteles a vámhatóság felé elszámolni, de az átvett zárjegyeket a bérfőzető és a magánfőző legkésőbb az átvételt követő 3 napon belül köteles felhelyezni a párlat fogyasztói csomagolására.

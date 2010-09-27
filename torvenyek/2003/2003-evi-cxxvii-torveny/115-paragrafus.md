@@ -15,3 +15,5 @@ büntetendő.
 (5) A szárított dohány nem a fermentáló üzem, illetve a fermentált dohány nem a dohányüzem vagy a dohánygyár részére, hanem közvetlen fogyasztási célra történő átadása, értékesítése, illetve megvásárlása, birtokolása kilogrammonként 1000 forint jövedéki bírsággal büntetendő.
 
 (6) Ásványolaj előállítására alkalmas desztillálóberendezés, sör előállítására alkalmas főzőüst és forralóüst, dohánygyártmány előállítására alkalmas gép vagy egyéb eszköz jogosulatlan előállítása, birtokolása, értékesítése legalább 20 ezer forint összegű, legfeljebb 200 ezer forintig terjedő, ismétlődés esetén legalább az előző alkalommal kiszabható legkisebb jövedéki bírság kétszeresének megfelelő összegű, legfeljebb az előző alkalommal kiszabható jövedéki bírság legmagasabb összegének kétszereséig terjedő jövedéki bírsággal büntetendő.
+
+(7) A 67/A. § (1) bekezdés szerinti bejelentésben az adó megállapításához szükséges adatok tekintetében valótlan adatok megadása, valamint a 67/A. § (2) bekezdés szerint tett valótlan nyilatkozat megtétele legalább 20 ezer forint összegű, de legfeljebb 200 ezer forintig terjedő jövedéki bírsággal büntetendő.

@@ -28,9 +28,9 @@ h) a 15. § (2) bekezdés c) pontja szerinti ásványolajat, kivéve ha az adór
 
 i) a jelölt gázolajat, ha azt áru- vagy személyszállítást gazdasági tevékenység keretében végző hajó üzemanyagtartályából eltávolították (kivették);
 
-j) azt az alkoholterméket, amelyből a teljes denaturáláshoz felhasznált anyagokat részben vagy egészben kivonták, vagy olyan anyagot adtak hozzá, amely a teljesen denaturált alkohol hatását ízre vagy szagra megváltoztatta, vagy azt a teljesen vagy részlegesen denaturált alkoholterméket, amelyet az e törvény hatálya alá tartozó adóköteles ital előállításához használtak fel, illetve amelyet az előbbiek szerint az élvezeti célra szolgáló termékben hoztak forgalomba, értékesítettek vagy tartanak birtokban [a továbbiakban az a)–j) pontban megjelölt termék: adózás alól elvont termék];
+j) azt az alkoholterméket, amelyből a teljes denaturáláshoz felhasznált anyagokat részben vagy egészben kivonták, vagy olyan anyagot adtak hozzá, amely a teljesen denaturált alkohol hatását ízre vagy szagra megváltoztatta, vagy azt a teljesen vagy részlegesen denaturált alkoholterméket, amelyet az e törvény hatálya alá tartozó adóköteles ital előállításához használtak fel, illetve amelyet az előbbiek szerint az élvezeti célra szolgáló termékben hoztak forgalomba, értékesítettek vagy tartanak birtokban;
 
-k)
+k) azt a párlatot, amelyet a magánfőző a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesít [a továbbiakban az a)–k) pontban megjelölt termék: adózás alól elvont termék].
 
 (3) Az (1) bekezdés szerinti jövedéki bírság alapja az adózás alól elvont termék mennyisége és a bírság megállapításakor hatályos adómérték – a (2) bekezdés g) pont szerinti adózás alól elvont termék esetében az 52. § (1) bekezdés a) pontjában meghatározott adómérték – alapján számított adó, illetve a szőlőbor esetében az adózás alól elvont termék literben mért mennyisége és 30 forint szorzataként meghatározott összeg. A jövedéki bírság mértéke a bírságalap kétszerese, de legalább 30 ezer forint.
 

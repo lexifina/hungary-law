@@ -16,9 +16,9 @@ terméket kell érteni.
 
 (2) E törvény alkalmazásában
 
-1. bérfőzés: szeszfőzdében a bérfőzető részére történő bérfőzött pálinka [64. § (3) bekezdés] előállítás;
+1. bérfőzés: a 2208 20 19, 2208 20 99, 2208 90 33, 2208 90 39, 2208 90 51, 2208 90 71 vámtarifaszám alá tartozó alkoholtermék (a továbbiakban: párlat) szeszfőzdében a bérfőzető részére történő előállítása;
 
-2. bérfőzető: az a 18. életévét betöltött gyümölcstermesztő személy, aki saját tulajdonú gyümölcsből (gyümölcsből származó alapanyagból) állíttat elő bérfőzött pálinkát;
+2. bérfőzető: az a 18. életévét betöltött gyümölcstermesztő személy, aki saját tulajdonú gyümölcsből (gyümölcsből származó alapanyagból) állíttat elő bérfőzött párlatot;
 
 3. teljes denaturálás: az alkoholtermék emberi fogyasztásra való végleges alkalmatlanná tétele,
 
@@ -34,4 +34,8 @@ terméket kell érteni.
 
 9. kötelező lepárlás: a 1493/1999/EK rendelet 27. cikke végrehajtását biztosító, külön jogszabály szerinti intézkedés;
 
-10. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék.
+10. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék;
+
+11. magánfőzés: a párlatnak a magánfőző lakóhelyén vagy gyümölcsöse helyén használható, legfeljebb 100 liter űrtartalmú, párlat-előállítás céljára kialakított desztillálóberendezésen a magánfőző által végzett előállítása évente legfeljebb 2 hektoliter tiszta szesz mennyiségig;
+
+12. magánfőző: az a 18. életévét betöltött természetes személy, aki saját tulajdonú gyümölcsből, gyümölcsből származó alapanyagból, saját tulajdonú desztillálóberendezésen állít elő párlatot.

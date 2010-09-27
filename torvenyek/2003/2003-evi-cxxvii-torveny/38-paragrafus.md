@@ -8,7 +8,7 @@
 
 (4) Ha az adóraktár engedélyesének adóraktárában vagy adóraktárainak egyikében a 37. § (6) bekezdés szerint többféle jövedéki termékcsoport is előállítható, raktározható, tárolható, a nyújtandó jövedéki biztosíték értékhatárainál – a 37. § (6) bekezdés d) pontja szerinti eset kivételével – a termékcsoportokra meghatározott értékhatárok közül a legmagasabbat kell figyelembe venni.
 
-(5) A jövedéki biztosíték a (2) bekezdésben meghatározott összeg fele, ha az adóraktári engedélyt kérelmező vagy az adóraktár engedélyese megbízható adós.
+(5) A nyújtandó jövedéki biztosíték összege feleződik, ha az adóraktári engedélyt kérelmező vagy az adóraktár engedélyese megbízható adós.
 
 (6) A jövedéki biztosíték összegét hivatalból vagy kérelemre módosítani kell, ha az annak elfogadásánál figyelembe vett feltételek vagy körülmények megváltoztak. A jövedéki biztosíték csökkentése – ideértve az (5) bekezdés alapján lehetséges csökkentést is – kizárólag kérelemre történik.
 

@@ -8,7 +8,7 @@
 
 (2) Jövedéki termék
 
-a) kizárólag olyan adóraktárban állítható elő – ideértve a jövedéki termék palackozását, kis egységű kiszerelését is –, melynek működtetője e termék előállítására vonatkozó adóraktári engedéllyel rendelkezik;
+a) kizárólag olyan adóraktárban állítható elő – ideértve a jövedéki termék palackozását, kis egységű kiszerelését is –, melynek működtetője e termék előállítására vonatkozó adóraktári engedéllyel rendelkezik, kivéve a párlat [63. § (2) bekezdés 1. pont] 63. § (2) bekezdésének 11. pontja szerinti előállítását;
 
 b) importálás esetén az adó megfizetése nélkül – az adómentes felhasználó üzemén, raktárán kívül, illetve a 62. § (1) és (3) bekezdésében foglalt eltéréssel – csak adóraktárba tárolható be, és ott tárolható, raktározható;
 

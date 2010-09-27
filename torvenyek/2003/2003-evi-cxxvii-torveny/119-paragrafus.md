@@ -12,11 +12,21 @@ c) a külön jogszabályban meghatározott eljárástól eltérően előállíto
 
 d) a hamis, hamisított vagy jogtalanul megszerzett zárjegyet, adójegyet, hivatalos zárat (e §, valamint a 120. § alkalmazásában a továbbiakban: zárjegy),
 
-e) a jogosulatlanul előállított vagy birtokolt desztillálóberendezést, a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
+e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
 
-f) a termékek, a zárjegy előállítására használt eszközt, valamint
+f) a termékek, a zárjegy előállítására használt eszközt,
 
 g) a termékek, a zárjegy felhasználására, tárolására és szállítására használt eszközt [e fejezet alkalmazásában az e)–g) pontokban meghatározottak a továbbiakban: eszközök] – a (4) bekezdésben foglalt eltéréssel –
+
+h) magánfőzésre használt desztillálóberendezést, ha
+
+ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében az adó megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
+
+hb) a 67/A. § (2) bekezdés rendelkezésének alkalmazásában a magánfőző valótlan nyilatkozatot tesz,
+
+hc) a magánfőző a desztillálóberendezést a párlattól eltérő alkoholtermék előállítására használja,
+
+hd) a magánfőző a párlatot a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesíti,
 
 lefoglalja.
 
