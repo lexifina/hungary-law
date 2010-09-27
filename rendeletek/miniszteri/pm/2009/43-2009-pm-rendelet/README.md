@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-43-20-5
 | 2010-04-01 | 2009-43-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-04-02 | 2009-43-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-04-03 | 2009-43-20-53.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-09-27 | 2009-43-20-53.5 | 4/2010. (VIII. 13.) NGM rendelet |

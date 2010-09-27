@@ -1,9 +1,9 @@
-## 18. §[^4]
+## 18. §[^9]
 
-19. § (1)–(2)[^5]
+19. § (1)–(2)[^10]
 
-(3)[^6]
+(3)[^11]
 
-[^4]: A 18. §-t a 19. § (3) bekezdése hatályon kívül helyezte.
-[^5]: A 19. § (1)–(2) bekezdését a 19. § (3) bekezdése hatályon kívül helyezte.
-[^6]: A 19. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^9]: A 18. §-t a 19. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 19. § (1)–(2) bekezdését a 19. § (3) bekezdése hatályon kívül helyezte.
+[^11]: A 19. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
