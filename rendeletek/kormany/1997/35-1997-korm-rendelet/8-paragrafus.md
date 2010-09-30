@@ -1,3 +1,0 @@
-8. § (1) A veszélyes és a veszélyesnek minősített ebet közterületen vezetni, tömegközlekedési eszközön szállítani – amennyiben a fuvarozási szabályzatok szigorúbb követelményeket nem állapítanak meg – csak a harapás lehetőségét megakadályozó, biztonságos fém szájkosárral és a kibújást megakadályozó fojtó nyakörvvel, két méternél nem hosszabb (nem kihúzható) pórázon, a tartási engedélyre jogosult felügyeletével szabad. Az ebet a pórázról elengedni, és a szájkosarat levenni tilos. Tömegközlekedési eszközön történő szállítás esetén egyebekben a fuvarozási szabályzatok rendelkezéseit is alkalmazni kell.
-
-(2) A veszélyes és a veszélyesnek minősített eb felügyelete – a tartási engedélyben meg nem jelölt személyre – ideiglenesen sem ruházható át.

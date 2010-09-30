@@ -1,1 +1,0 @@
-## Veszélyes eb ivartalanítása
