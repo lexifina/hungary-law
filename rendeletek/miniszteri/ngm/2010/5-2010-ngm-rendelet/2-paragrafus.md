@@ -1,1 +1,0 @@
-## „(20) Az (1) bekezdés t) pontja szerinti EGT Norvég Alap célelszámolási forintszámla a Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében nyújtott támogatások felhasználásának elkülönített kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.”

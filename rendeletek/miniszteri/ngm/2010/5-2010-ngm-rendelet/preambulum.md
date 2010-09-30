@@ -1,1 +1,0 @@
-Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (4) bekezdés a)–b), d), g), i) és o)–p) pontjaiban kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
