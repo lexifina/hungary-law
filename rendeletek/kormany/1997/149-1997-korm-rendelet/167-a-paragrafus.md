@@ -1,4 +1,4 @@
-167/A. §[^637] (1) Ha a gyermeknek a származási országába, elsősorban saját családjába történő visszajuttatására lehetőség van, ennek elősegítésére a gyámhivatal repatriálási tervet készít.
+167/A. §[^638] (1) Ha a gyermeknek a származási országába, elsősorban saját családjába történő visszajuttatására lehetőség van, ennek elősegítésére a gyámhivatal repatriálási tervet készít.
 
 (2) A repatriálási terv előkészítése érdekében a gyámhivatal – a gyermek törvényes képviselőjének, a gyermek gondozási helyéül kirendelt intézmény vezetőjének, a gyermekvédelmi szakszolgálatnak, a külképviseletnek, a Bevándorlási és Állampolgársági Hivatalnak, valamint szükség szerint a Minisztériumnak a bevonásával – egyeztető tárgyalást tart, feltéve, hogy a gyermek legalább 3 hónapot eltöltött a magyar gyermekvédelmi rendszerben. Az egyeztető tárgyalást a gyámhivatal indokolt esetben hivatalos helyiségén kívül is megtarthatja.
 
@@ -16,4 +16,4 @@ d) a gyermek átadásának helyszínét, módját, az átadásban közreműköd�
 
 (5) A gyámhivatal a repatriálási tervet határozatába foglalja és megküldi a (2) bekezdés szerinti személyeknek.
 
-[^637]: A 167/A. §-t a 237/2010. (IX. 13.) Korm. rendelet 13. §-a iktatta be.
+[^638]: A 167/A. §-t a 237/2010. (IX. 13.) Korm. rendelet 13. §-a iktatta be.

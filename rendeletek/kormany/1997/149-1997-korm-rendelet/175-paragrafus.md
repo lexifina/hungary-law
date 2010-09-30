@@ -1,3 +1,3 @@
-## 174. §[^651]
+## 174. §[^653]
 
-[^651]: A 174. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte.
+[^653]: A 174. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte.

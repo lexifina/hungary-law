@@ -1,4 +1,4 @@
-104. §[^449] (1) A gyámhivatalnak a gyermek gondozási helyének meghatározásához be kell szereznie a gyermekjóléti szolgálat javaslatát, feltéve, hogy nem vett részt a gyermekvédelmi szakszolgálat által összehívott elhelyezési értekezleten.
+104. §[^450] (1) A gyámhivatalnak a gyermek gondozási helyének meghatározásához be kell szereznie a gyermekjóléti szolgálat javaslatát, feltéve, hogy nem vett részt a gyermekvédelmi szakszolgálat által összehívott elhelyezési értekezleten.
 
 (2) A gyermek gondozási helyének meghatározásánál figyelemmel kell lenni a Gyvt. 82. §-ának (2)–(3) bekezdésében meghatározott szempontokra.
 
@@ -12,4 +12,4 @@ a) a nemzetiségi és kulturális hovatartozásának megfelelő nyelvi és egyé
 
 b) a vallási hovatartozásnak megfelelő vallási oktatás igénybevételét és a vallás gyakorlását.
 
-[^449]: A 104. § a 14/2003. (II. 12.) Korm. rendelet 63. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^450]: A 104. § a 14/2003. (II. 12.) Korm. rendelet 63. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.

@@ -32,7 +32,7 @@
 
 ## jegyző aláírása
 
-13. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^668]
+13. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^670]
 
 Adatlap
 
@@ -68,4 +68,4 @@ P. H.
 
 jegyző aláírása
 
-[^668]: A 13. számú mellékletet a 275/2008. (XI. 21.) Korm. rendelet 18. §-a iktatta be.
+[^670]: A 13. számú mellékletet a 275/2008. (XI. 21.) Korm. rendelet 18. §-a iktatta be.

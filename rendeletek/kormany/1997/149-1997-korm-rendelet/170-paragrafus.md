@@ -1,6 +1,6 @@
 ## 169. § Ha magyar állampolgár vagy Magyarországon lakó, illetve tartózkodó személy kíván külföldi állampolgár vagy külföldön lakó, illetve tartózkodó személlyel szemben tartásdíj fizetése iránt igényt érvényesíteni, a gyámhatóság tájékoztatja, hogy kérelmével a lakóhelye szerint illetékes elsőfokú bírósághoz kell fordulnia.
 
-170. §[^639] (1) Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, a kérelmet
+170. §[^640] (1) Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, a kérelmet
 
 a) ha az az Amerikai Egyesült Államokból érkezik, az igazságügyért felelős miniszterhez, mint viszonosság alapján eljáró átvevő hatósághoz,
 
@@ -24,4 +24,4 @@ b) az a) pont alá nem tartozó esetekben a miniszterhez, mint kijelölt átvev�
 
 (9) A gyámhatóság a tartásdíj iránti igény érvényesítése ügyében folytatott eljárási cselekményeiről jelentést tesz a miniszternek.
 
-[^639]: A 170. § a 173/2009. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^640]: A 170. § a 173/2009. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

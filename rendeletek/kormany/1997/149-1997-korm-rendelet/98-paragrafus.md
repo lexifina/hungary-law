@@ -1,4 +1,4 @@
-98. § (1)[^422] Az ideiglenes hatályú elhelyezés felülvizsgálata során az illetékes gyámhivatal
+98. § (1)[^423] Az ideiglenes hatályú elhelyezés felülvizsgálata során az illetékes gyámhivatal
 
 a) meghallgatja a Gyvt. 128. §-ában meghatározott személyeket,
 
@@ -10,4 +10,4 @@ c) beszerzi mindazon szervek véleményét, amelyek a gyermekkel az ideiglenes h
 
 (3) A Gyvt. 72. §-ának (1) bekezdésében meghatározott beutaló szerv által elrendelt ideiglenes hatályú elhelyezés megszüntetéséről – ha annak okai már nem állnak fenn – kizárólag a városi gyámhivatal dönt.
 
-[^422]: A 98. § (1) bekezdésének felvezető mondata a 14/2003. (II. 12.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^423]: A 98. § (1) bekezdésének felvezető mondata a 14/2003. (II. 12.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
