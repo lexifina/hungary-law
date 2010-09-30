@@ -30,15 +30,9 @@ b) „A” kategóriájú hajóvezetői képesítést állít ki a tengeri szaka
 
 a) a hajóvezető „B” képesítésben megjelölt, valamint az arra vonatkozó jogszabályi méretkorlátozásokat tartalmazó, „C” kategóriájú hajóvezetői képesítést állít ki, és a korábban kiállított képesítést bevonja. Az új képesítéssel együtt kiadott vonalvizsga bizonyítványba a bevont képesítésben szereplő vonalkiterjesztésnek megfelelő bejegyzést tesz a hajózási hatóság;
 
-b) az új rendelkezéseknek megfelelő „B” kategóriájú hajóvezetői képesítést állít ki, ha a „B” képesítéssel rendelkező hajóvezető igazolja, hogy hajóvezető „B” képesítés birtokában
+b)[^3] „B” kategóriájú hajóvezető képesítést állít ki, ha a hajóvezető „B” képesítéssel rendelkező személy igazolja, hogy hajóvezető „B” képesítés birtokában legalább 6 havi hajóparancsnoki szolgálatot látott el és a „B” kategóriájú hajóvezetői vizsga gyakorlati részéből eredményes vizsgát tett.
 
-ba) ilyen képesítéssel vezethető hajón 12 havi hajóparancsnoki szolgálatot látott el,
-
-bb) hajóskapitányi képesítéssel vezethető hajón/köteléken 12 havi I. tiszti szolgálatot látott el, vagy
-
-bc) legalább 6 havi hajóparancsnoki szolgálatot látott el és a „B” kategóriájú hajóvezetői vizsga gyakorlati részéből eredményes vizsgát tett.
-
-(11) A (10) bekezdés ba) és bc) pontjában megjelölt szolgálatok részidői összevonhatók.
+(11)[^4]
 
 (12) A 2009. május 1. napja előtt kiállított hajóvezető „B” képesítés a Dunán és vízrendszerén a 2009. május 1. napját megelőzően hatályos korlátozásokkal legfeljebb 2010. december 31. napjáig érvényes, és a vonalvizsgának megfelelő vízterületen való következő hajóvezetésre jogosít:
 
@@ -62,7 +56,9 @@ b) a csak belföldi forgalomban résztvevő hajókra 2014. január 1-jétől
 
 ## kell alkalmazni.
 
-(17)[^3]
+(17)[^5]
 
 [^2]: Az 1–9. § e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
-[^3]: A 10. § (17) bekezdése e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
+[^3]: A 10. § (10) bekezdés b) pontja a 10/2010. (IX. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 10. § (11) bekezdést a 10/2010. (IX. 29.) NFM rendelet 2. §-a hatályon kívül helyezte.
+[^5]: A 10. § (17) bekezdése e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
