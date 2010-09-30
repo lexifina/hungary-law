@@ -1,0 +1,9 @@
+# 1199/2010. (IX. 29.) Korm. határozat
+
+a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság létrehozásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1199-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-09-30 | 2010-1199-30-22.1 | 1199/2010. (IX. 29.) Korm. határozat |
