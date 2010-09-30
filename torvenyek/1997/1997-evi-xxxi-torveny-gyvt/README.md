@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2010-07-20 | 2010. évi LXXIII. törvény | 1997-31-00-00.43 |
 | 2010-08-17 | 2010. évi LXXXIX. törvény | 1997-31-00-00.44 |
 | 2010-08-30 | 2010. évi LXVI. törvény | 1997-31-00-00.45 |
+| 2010-09-30 | 114/2010. (VI. 30.) AB határozat | 1997-31-00-00.46 |

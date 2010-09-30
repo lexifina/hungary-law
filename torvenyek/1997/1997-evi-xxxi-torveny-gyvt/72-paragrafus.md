@@ -12,4 +12,4 @@ b) a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is b
 
 (3) A gyermeknek a gondozási helyre viteléről a beutaló szerv gondoskodik.
 
-(4) Az ideiglenes hatályú elhelyezéstől kezdődően a szülő gondozási, nevelési joga szünetel. A beutaló szerv döntése ellen fellebbezésnek helye nincs.
+(4) Az ideiglenes hatályú elhelyezéstől kezdődően a szülő gondozási, nevelési joga szünetel.

@@ -4,7 +4,7 @@
 
 a) a (2) és (3) bekezdésben foglalt eltéréssel a Magyar Köztársaság területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a letelepedett, bevándorolt, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
 
-b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik;
 
 (2) A törvény hatálya a rendkívüli gyermekvédelmi támogatás tekintetében az (1) bekezdésben foglaltakon túlmenően kiterjed az Európai Szociális Kartát megerősítő országok állampolgárainak a Magyar Köztársaság területén jogszerűen tartózkodó gyermekeire is.
 
