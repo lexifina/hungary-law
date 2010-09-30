@@ -1,3 +1,0 @@
-3. § A Hpt. 103. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az állami garanciával vagy kezességgel fedezett betétek esetén a központi költségvetés a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjától számított húsz munkanapon belül bocsátja a garancia beváltásához szükséges pénzeszközöket az Alap rendelkezésére. Ezt az összeget az Alap kizárólag az állami garancia vagy kezesség beváltásból származó fizetési kötelezettség teljesítésére használhatja fel, amely kifizetéseket az államháztartásért felelős miniszter képviselője a hitelintézetnél a helyszínen ellenőrizheti.”

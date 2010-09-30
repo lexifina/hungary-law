@@ -1,3 +1,0 @@
-5. § A Hpt. 106. §-a helyébe a következő rendelkezés lép:
-
-„106. § A kártalanítással érintett hitelintézet az Alap kezdeményezése esetén az Alap által biztosított betétek alapján járó kártalanítási kifizetéssel együtt járó feladatok ellátására köteles az Alappal megállapodást kötni. E feladatok ellátásáért a hitelintézet a működése során hatályban volt legutolsó üzletszabályzata szerinti, vagy a legutolsó üzletszabályzata tartalmilag leginkább hasonló tételének megfelelő térítésre jogosult.”
