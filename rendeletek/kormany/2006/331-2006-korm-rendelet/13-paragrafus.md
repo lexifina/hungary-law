@@ -8,9 +8,9 @@ a) ellátja az illetékességi területéhez tartozó települési önkormányza
 
 b)[^19] első fokon dönt a gyermekek átmeneti gondozása és a gyermekvédelmi szakellátások működésének engedélyezéséről, ellenőrzi a gyermekjóléti és gyermekvédelmi szolgáltatók működését, valamint ennek keretében szükség esetén a Gyvt. 100/A. §-a szerinti gyermekvédelmi igazgatási bírságot szab ki vagy a Gyvt. 100/B. §-ában foglalt intézkedést tesz,
 
-c)[^20] másodfokú hatósági jogkört gyakorol a települési önkormányzat jegyzőjének, a városi gyámhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben, valamint a gyermekvédelmi jelzőrendszer elégtelen működése esetén megteszi a Gyvt. 17. §-a (4) és (5) bekezdésében foglalt intézkedéseket.
+c)[^20] másodfokú hatósági jogkört gyakorol a települési önkormányzat jegyzőjének, a városi gyámhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben, valamint a jegyző, a városi gyámhivatal, a rendőrség és a büntetés-végrehajtási intézet parancsnoksága által elrendelt ideiglenes hatályú elhelyezés tekintetében, továbbá a gyermekvédelmi jelzőrendszer elégtelen működése esetén megteszi a Gyvt. 17. § (4) és (5) bekezdésében foglalt intézkedéseket,
 
 d) ellátja a jogszabályokban hatáskörébe utalt egyéb feladatokat.
 
 [^19]: A 13. § b) pontja a 173/2009. (VIII. 29.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^20]: A 13. § c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^20]: A 13. § c) pontja a 237/2010. (IX. 13.) Korm. rendelet 18. §-ával megállapított szöveg.
