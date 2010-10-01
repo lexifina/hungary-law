@@ -10,21 +10,21 @@
 
 3. Natura 2000 terület: az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló 275/2004. (X. 8.) Korm. rendelet 5. §-ának előírásai szerint a MePAR-ban lehatárolt terület;
 
-4. telepítési engedély: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 35. §-a alapján jóváhagyott telepítési-kivitelezési tervet engedélyező határozat;
+4.[^1] telepítési engedély: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény alapján jóváhagyott erdőtelepítési-kivitelezési tervet jóváhagyó határozat;
 
 5. áttört szerkezetű fásítás: olyan, legalább három sorban telepített, három szintet alkotó (cserjeszint, alsó és felső lombkoronaszint) fás szárú növényfajokból telepített fasor és fásítás, ahol a tervezett telepítés hosszirányú függőleges síkra vetített záródása lombos állapotban 70–90% között van;
 
 6. füves mezsgye: gyeptelepítéssel létrehozott gondozott gyepsáv;
 
-7.[^1] összefüggő terület: egy földhasználó adott évben az egységes kérelemben bejelentett területalapú támogatásba bevont egy fizikai blokkon belüli szomszédos tábláinak összefüggő területe;
+7.[^2] összefüggő terület: egy földhasználó adott évben az egységes kérelemben bejelentett területalapú támogatásba bevont egy fizikai blokkon belüli szomszédos tábláinak összefüggő területe;
 
 8. sérülékeny ivóvízbázisok védőterülete: a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízi létesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendelet alapján a MePAR tematikus rétegének megfelelően lehatárolt, az irányító hatóság által közleményben megjelentetett terület;
 
-9.[^2] árvíz sújtotta terület: olyan gyakorta árvíz járta terület, amely a MePAR-ban fizikai blokk szinten feltüntetésre került;
+9.[^3] árvíz sújtotta terület: olyan gyakorta árvíz járta terület, amely a MePAR-ban fizikai blokk szinten feltüntetésre került;
 
-10.[^3]
+10.[^4]
 
-11.[^4] Vásárhelyi Terv továbbfejlesztésének célterülete (a továbbiakban: VTT célterület): a Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény alapján külön jogszabályban meghatározott településeknek, a MePAR tematikus rétegének megfelelően lehatárolt, az irányító hatóság vezetője által közleményben megjelentetett területei;
+11.[^5] Vásárhelyi Terv továbbfejlesztésének célterülete (a továbbiakban: VTT célterület): a Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény alapján külön jogszabályban meghatározott településeknek, a MePAR tematikus rétegének megfelelően lehatárolt, az irányító hatóság vezetője által közleményben megjelentetett területei;
 
 12. kedvezőtlen adottságú terület: az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz tartozó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendelet alapján meghatározott, a MePAR tematikus rétegének megfelelően lehatárolt terület;
 
@@ -36,7 +36,7 @@
 
 16. kerítés: olyan létesítmény, amely a rajta történő átjutást biztosító segédberendezéseivel (kapuk, vadrácsok, lépcsős vagy létrás átjárók) együtt képes a legelő háziállatok adott területen történő tartására;
 
-17.[^5] gyeptelepítési terv: az irányító hatóság által közleményben kiadott útmutató és a 4. számú melléklet alapján elkészített tervdokumentum, mely a gyeptelepítés sikerességét, illetve annak a természeti adottságokhoz való igazodását irányozza elő;
+17.[^6] gyeptelepítési terv: az irányító hatóság által közleményben kiadott útmutató és a 4. számú melléklet alapján elkészített tervdokumentum, mely a gyeptelepítés sikerességét, illetve annak a természeti adottságokhoz való igazodását irányozza elő;
 
 18. mesterséges fészekodú: mezőgazdasági területeken előforduló védett madárfajok fészkelési lehetőségeinek bővítésére szolgáló berendezés;
 
@@ -46,11 +46,12 @@
 
 21. T-ülőfa: mezőgazdasági területeken vadászó védett vártamadarak (ragadozók, rovarevők) táplálkozási lehetőségeinek bővítésére szolgáló berendezés.
 
-22.[^6] kötelezettségvállalással érintett egybefüggő terület: az agrár-környezetgazdálkodási intézkedés igénybevételének feltételeiről szóló külön jogszabály szerinti földterület.
+22.[^7] kötelezettségvállalással érintett egybefüggő terület: az agrár-környezetgazdálkodási intézkedés igénybevételének feltételeiről szóló külön jogszabály szerinti földterület.
 
-[^1]: A 2. § 7. pontja a 61/2009. (V. 14.) FVM rendelet 82. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 9. pontja a 14/2009. (II. 28.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 10. pontját a 14/2009. (II. 28.) FVM rendelet 22. § (2) bekezdése hatályon kívül helyezte.
-[^4]: A 2. § 11. pontja a 14/2009. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § 17. pontja a 14/2009. (II. 28.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^6]: A 2. § 22. pontját a 14/2009. (II. 28.) FVM rendelet 1. § (4) bekezdése iktatta be.
+[^1]: A 2. § 4. pontja a 17/2010. (IX. 30.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 7. pontja a 61/2009. (V. 14.) FVM rendelet 82. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 9. pontja a 14/2009. (II. 28.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 10. pontját a 14/2009. (II. 28.) FVM rendelet 22. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § 11. pontja a 14/2009. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 17. pontja a 14/2009. (II. 28.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § 22. pontját a 14/2009. (II. 28.) FVM rendelet 1. § (4) bekezdése iktatta be.

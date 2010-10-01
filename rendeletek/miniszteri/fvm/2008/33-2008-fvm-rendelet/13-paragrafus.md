@@ -1,8 +1,8 @@
-## Természetes alapanyagú kerítés kialakítása[^41]
+## Természetes alapanyagú kerítés kialakítása[^48]
 
 13. § (1) A 3. § (2) bekezdésének a) pontja szerinti gyepterület hasznosítása során alkalmazható természetes alapanyagú kerítés kialakítása esetében a támogatás feltétele, hogy a kérelmezőnek rendelkeznie kell gyep (rét, legelő) hasznosítású,
 
-a)[^42] agrár-környezetgazdálkodási intézkedésben részt vevő területtel, vagy
+a)[^49] agrár-környezetgazdálkodási intézkedésben részt vevő területtel, vagy
 
 b) Natura 2000 területtel, az 5. § (2) bekezdésében foglaltakra is figyelemmel.
 
@@ -18,5 +18,5 @@ d) a kerítés töréspontjainál és azoknál a tartóoszlopoknál, ahol a tala
 
 e) a kerítéssel körülhatárolt területre a gyalogos és gépjárművel történő bejutást biztosítani kell.
 
-[^41]: A 13. §-t megelőző alcímet a 14/2009. (II. 28.) FVM rendelet 12. §-a iktatta be.
-[^42]: A 13. § (1) bekezdés a) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^48]: A 13. §-t megelőző alcímet a 14/2009. (II. 28.) FVM rendelet 12. §-a iktatta be.
+[^49]: A 13. § (1) bekezdés a) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.

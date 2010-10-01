@@ -1,6 +1,6 @@
 ## Támogatási kérelem benyújtása
 
-16. §[^47] (1)[^48] Támogatási kérelem 2009-ben június 1. és július 25. között, azt követően pedig évente június 1. és június 30. között nyújtható be elektronikus úton. A támogatási kérelem mellékleteit írott formában, postai úton kell benyújtani, az elektronikusan benyújtott kérelemmel azonos támogatási kérelem benyújtási időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
+16. §[^54] (1)[^55] Támogatási kérelem 2009-ben június 1. és július 25. között, azt követően pedig évente június 1. és június 30. között nyújtható be elektronikus úton. A támogatási kérelem mellékleteit írott formában, postai úton kell benyújtani, az elektronikusan benyújtott kérelemmel azonos támogatási kérelem benyújtási időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
 
 (2) Az elektronikus kérelembenyújtás technikai feltételeit az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet (a továbbiakban: 80/2008. Korm. rendelet) 2. § (1)–(5) bekezdései és 3. §-a szabályozzák.
 
@@ -48,5 +48,5 @@ g) madárvédelmi berendezések beszerzése esetén a 14. § (2) bekezdés b) po
 
 (9) A támogatási kérelemhez az EMVA általános rendelet 13. § (2) bekezdésében foglaltaktól eltérően nem kell mellékelni az egyedi blokktérképet.
 
-[^47]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
-[^48]: A 16. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^54]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
+[^55]: A 16. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

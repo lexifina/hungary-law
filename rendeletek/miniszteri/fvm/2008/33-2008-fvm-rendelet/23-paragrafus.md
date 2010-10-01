@@ -1,5 +1,5 @@
-## 22/A. §[^59] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet, valamint más, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatásokról szóló 31/2010. (III. 30.) FVM rendelettel (a továbbiakban: 1. módosító rendelet) módosított rendelkezéseit az 1. módosító rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+## 22/B. §[^64] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet módosításáról szóló 17/2010. (IX. 30.) VM rendelettel (a továbbiakban: 2. módosító rendelet) megállapított 2. § 4. pontját, a 4. § (5) bekezdését, a 7. § (3) bekezdés e) pontját és a 21. § (1), (4)–(5) bekezdését a 2. módosító rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^59]: A 22/A. §-t a 31/2010. (III. 30.) FVM rendelet 31. §-a iktatta be.
+[^64]: A 22/B. §-t a 17/2010. (IX. 30.) VM rendelet 11. §-a iktatta be.

@@ -4,31 +4,33 @@
 
 ## A. Madárvédelmi berendezések kihelyezése
 
-| Berendezés | Típus | Védett fajok | Kihelyezés | Támogatott mennyiség (min-max) | Támogatási érték (eurónak megfelelő forintösszeg/db) |
+|  | A | B | C | D | E | F |
 
-| mesterséges fészekodú | A | kék cinege, barátcinege | erdőközeli ültetvény fái, erdősáv, erdőfolt, erdőszél | 2–10 db/ha | 12 |
+| 1. | Berendezés | Típus | Védett fajok | Kihelyezés | Támogatott mennyiség (min-max) | Támogatási érték (eurónak megfelelő) |
 
-| B | széncinege, mezei veréb, házi veréb, örvös légykapó | ültetvény fái, fa, fasor, facsoport, erdősáv, erdőfolt, erdőszél | 2–20 db/ha | 16 |
+| 2. | Mesterséges fészekodú | A | kék cinege, barátcinege | erdőközeli ültetvény fái, erdősáv, erdőfolt, erdőszél | 2–10 db/ha | 12 |
 
-| C | házi rozsdafarkú, kerti rozsdafarkú, barázdabillegető, szürke légykapó | nyíltabb helyek fái, magasabb kerítés és kőfal | 2–6 db/ha | 12 |
+| 3. | B | széncinege, mezei veréb, házi veréb, örvös légykapó | ültetvény fái, fa, fasor, facsoport, erdősáv, erdőfolt, erdőszél | 2–20 db/ha | 16 |
 
-| D | szalakóta, búbosbanka, seregély, füleskuvik | nagyobb fa, fasor, facsoport, erdősáv, erdőfolt szélső magas fái, oszlop | 1–2 db/ha | 24 |
+| 4. | C | házi rozsdafarkú, kerti rozsdafarkú, barázdabillegető, szürke légykapó | nyíltabb helyek fái, magasabb kerítés és kőfal | 2–6 db/ha | 12 |
 
-| S | vörös vércse, kék vércse, erdei fülesbagoly, csóka | magasabb fa, fasor, facsoport, erdősáv, erdőfolt magas fái | 2–20 db/ 100 fm | 40 |
+| 5. | D | szalakóta, búbosbanka, seregély, füleskuvik | nagyobb fa, fasor, facsoport, erdősáv, erdőfolt szélső magas fái, oszlop | 1–2 db/ha | 24 |
 
-| kuvik | idősebb ültetvény, fasor, facsoport, erdősáv, erdőfolt fái | 0,5–1 db/ha | 24 |
+| 6. | S | vörös vércse, kék vércse, erdei fülesbagoly, csóka | magasabb fa, fasor, facsoport, erdősáv, erdőfolt magas fái | 10–50 db/ha | 40 |
 
-| fasor, facsoport, erdősáv, erdőfolt öreg fái | 1–2 db/ha |  |
+| 7. | kuvik | idősebb ültetvény, fasor, facsoport, erdősáv, erdőfolt fái | 0,5–1 db/ha | 24 |
 
-| tőkés réce, barátréce, cigányréce | halastavak partmenti növényzete és szegélyei, nádasok, növényzettel borított szigetek | 1–4 db/ha | 32 |
+| 8. | fasor, facsoport, erdősáv, erdőfolt öreg fái | 1–2 db/ha |
 
-| mesterséges fészkelősziget | csér | küszvágó csér, dankasirály | halastavak nyílt vízfelületei | 0,5–2 db/ha | 60 |
+| 9. | tőkés réce, barátréce, cigányréce | halastavak partmenti növényzete és szegélyei, nádasok, növényzettel borított szigetek | 1–4 db/ha | 32 |
 
-| szer- kő | fattyúszerkő | halastavak nyílt vízfelületei | 0,5–2 db/ha | 60 |
+| 10. | Mesterséges fészkelősziget | csér | küszvágó csér, dankasirály | halastavak nyílt vízfelületei | 0,5–2 db/ha | 60 |
 
-| mesterséges denevérodú | – | denevérfajok | magasabb fa, fasor, facsoport, erdősáv, erdőfolt magas fái, magasabb épületek fala | 2–5 db/ha | 16 |
+| 11. | szerkő | fattyúszerkő | halastavak nyílt vízfelületei | 0,5–2 db/ha | 60 |
 
-| T-ülőfa | – | ölyvek, vércsék, rovarevő vártamadarak | nagyobb, nyílt szántó- és gyepterületek | 0,5–2 db/ha | 16 |
+| 12. | Mesterséges denevérodú | – | denevérfajok | magasabb fa, fasor, facsoport, erdősáv, erdőfolt magas fái, magasabb épületek fala | 2–5 db/ha | 16 |
+
+| 13. | T-ülőfa | – | ölyvek, vércsék, rovarevő vártamadarak | nagyobb, nyílt szántó- és gyepterületek | 0,5–2 db/ha | 16 |
 
 ## B. Madárvédelmi berendezések műszaki leírása
 
@@ -60,6 +62,6 @@
 
 | T-ülőfa | 5–6 cm vastag és 2,5–3 méter hosszú rúd vagy oszlop, tetején keresztben 0,5–0,6 m hosszú és kissé vékonyabb vízszintes farúd | talajba ásva vagy ütve, nyílt szántóföldi részeken, fátlan szegélyeken |
 
-3. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^60]
+3. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^66]
 
-[^60]: A 3. számú melléklet a 14/2009. (II. 28.) FVM rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^66]: A 3. számú melléklet a 14/2009. (II. 28.) FVM rendelet 21. § (1) bekezdése szerint módosított szöveg.

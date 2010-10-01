@@ -1,6 +1,6 @@
 ## A támogatás igénybevételének feltételei
 
-5. §[^14] (1) A támogatás igénybevételére – a (2) bekezdésben foglaltakra is figyelemmel – a kérelmező akkor jogosult, ha az agrár-környezetgazdálkodási intézkedés igénybevételének feltételeiről szóló külön jogszabály alapján a tervezett beruházással érintett területre vonatkozóan az előzetesen jóváhagyott területekre vonatkozó támogatási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkezik.
+5. §[^19] (1) A támogatás igénybevételére – a (2) bekezdésben foglaltakra is figyelemmel – a kérelmező akkor jogosult, ha az agrár-környezetgazdálkodási intézkedés igénybevételének feltételeiről szóló külön jogszabály alapján a tervezett beruházással érintett területre vonatkozóan az előzetesen jóváhagyott területekre vonatkozó támogatási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkezik.
 
 (2) Támogatást vehetnek továbbá igénybe a Natura 2000 területek földhasználói, akik a művelethez kapcsolódó földterület hasznosításával összefüggésben felmerülő kiadásokat, illetve kockázatokat viselik, ha a területileg érintett nemzeti park igazgatóság igazolja, hogy a tervezett beruházás természetvédelmi értéke az adott területen magas.
 
@@ -30,4 +30,7 @@ a) legalább 5 évig fenn kell tartani a 3. § (1) bekezdésében szereplő föl
 
 b) legalább 3 évig fenn kell tartani a 3. § (2) bekezdésében szereplő eszközbeszerzések esetében.
 
-[^14]: Az 5. § a 14/2009. (II. 28.) FVM rendelet 4. §-ával megállapított szöveg.
+(8)[^20] Ha az ügyfél az adott tevékenység vonatkozásában a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján közbeszerzésre kötelezett, vagy a Kbt.-t önként alkalmazza, akkor az EMVA általános rendelet 33. §-ában foglaltak szerint kell eljárni azzal, hogy az EMVA általános rendelet 33. § (4) bekezdésétől eltérően a művelet megvalósításának határideje hat hónappal hosszabbodik meg.
+
+[^19]: Az 5. § a 14/2009. (II. 28.) FVM rendelet 4. §-ával megállapított szöveg.
+[^20]: Az 5. § (8) bekezdését a 17/2010. (IX. 30.) VM rendelet 6. §-a iktatta be.
