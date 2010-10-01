@@ -26,7 +26,7 @@ c) a helyi önkormányzat, a települési önkormányzatok többcélú kistérs�
 
 (4)[^117] A (3) bekezdés alkalmazásában a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény 18. § (1) bekezdés b)–c) pontjában és (3) bekezdésében meghatározott szervek vezetőit is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
 
-(5)[^118] A (3) bekezdés alkalmazásában az Adó- és Pénzügyi Ellenőrzési Hivatalról szóló 273/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdés b)–c) pontjában, (3) és (4) bekezdésében meghatározott szervek vezetőit is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
+(5)[^118] A (3) bekezdés alkalmazásában az Adó- és Pénzügyi Ellenőrzési Hivatal Informatikai Intézetének, Oktatási Intézetének, regionális főigazgatóságainak és a Kiemelt Ügyek és Adózók Főigazgatóságának vezetőjét is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
 
 (6)[^119] Az Országgyűlés által megválasztott személyek a tisztségük ellátásával összefüggő feladatok tekintetében, az 1990. évi LVI. törvény 5. § (2) bekezdésében megjelölt személyek az ott meghatározott keret tekintetében jogosultak kötelezettségvállalásra. A külön törvény alapján biztosított működési keret felett az országgyűlési képviselőcsoportok rendelkezési jogosultsággal bírnak, az országgyűlési képviselőcsoportok vezetőit a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
 
@@ -55,7 +55,7 @@ c) összegét vagy az összeg megállapításának módját, továbbá a felek v
 [^115]: A 72. § (1) bekezdés záró szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
 [^116]: A 72. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^117]: A 72. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^118]: A 72. § (5) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg. A 72. § (5) bekezdését a 249. § (3) bekezdés a) pontja hatályon kívül helyezte 2011. január 1. napjával.
+[^118]: A 72. § (5) bekezdése a 241/2010. (IX. 24.) Korm. rendelet 19. §-ával megállapított szöveg. A 72. § (5) bekezdését a 249. § (3) bekezdés a) pontja hatályon kívül helyezte 2011. január 1. napjával.
 [^119]: A 72. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^120]: A 72. § (7) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^121]: A 72. § (8) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
