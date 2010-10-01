@@ -1,8 +1,8 @@
-## Az APEH különös hatásköri szabályai[^37]
+## Az APEH különös hatásköri szabályai[^54]
 
-15. § (1) Az állami adóhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében – az illetékügyek kivételével, ide nem értve a 19. §-ban meghatározott illetéket, illetőleg ha jogszabály másként nem rendelkezik – kizárólag a Kiemelt Adózók Igazgatósága jár el:
+15. § (1)[^55] Az állami adóhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében – az illetékügyek kivételével, ide nem értve a 19. §-ban meghatározott illetéket, illetőleg ha jogszabály másként nem rendelkezik – kizárólag a Kiemelt Ügyek Igazgatósága jár el:
 
-a)[^38] az általános forgalmi adóról szóló törvény alapján adó-visszatéríttetésre jogosult
+a)[^56] az általános forgalmi adóról szóló törvény alapján adó-visszatéríttetésre jogosult
 
 aa) belföldön nem letelepedett adóalany,
 
@@ -16,7 +16,7 @@ af) közhasznú tevékenységet folytató személy, szervezet
 
 ## adó-visszatérítés iránti kérelmének elbírálásában,
 
-b)[^39] a diplomáciai és konzuli képviseletek, az ezekkel egy tekintet alá eső nemzetközi szervezetek, szervek által foglalkoztatott belföldi adóügyi illetőséggel rendelkező magánszemélyeknek teljesített kifizetésekkel összefüggő adókötelezettségek tekintetében,
+b)[^57] a diplomáciai és konzuli képviseletek, az ezekkel egy tekintet alá eső nemzetközi szervezetek, szervek által foglalkoztatott belföldi adóügyi illetőséggel rendelkező magánszemélyeknek teljesített kifizetésekkel összefüggő adókötelezettségek tekintetében,
 
 c) a Magyar Köztársaság területén székhellyel, telephellyel, állandó vagy ideiglenes lakóhellyel, tartózkodási hellyel nem rendelkező külföldi személy adóügyében, ideértve az Art. 4. és 8. számú mellékleteiben meghatározott adózókat is,
 
@@ -24,22 +24,30 @@ d) a fióktelepnek nem minősülő telephelyen gazdasági tevékenységet folyta
 
 e) a Magyar Honvédség és a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, továbbá azok hivatásos és szerződéses állományú tagjai, köztisztviselői és közalkalmazottai adóügyében,
 
-f)[^40] a honvédelmi miniszter irányítása és felügyelete alá tartozó szervezetek, az olyan gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója a honvédelmi miniszter,
+f)[^58] a honvédelmi miniszter irányítása és felügyelete alá tartozó szervezetek, az olyan gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója a honvédelmi miniszter,
 
-g)[^41] az igazságügyi és rendészeti miniszter, illetőleg az IRM Büntetés-végrehajtás Országos Parancsnoksága felügyelete és irányítása alá tartozó gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója az igazságügyi és rendészeti miniszter, illetőleg az IRM Büntetés-végrehajtás Országos Parancsnoksága,
+g)[^59] a rendészetért felelős miniszter, illetőleg a Büntetés-végrehajtás Országos Parancsnoksága felügyelete és irányítása alá tartozó gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója a rendészetért felelős miniszter, illetőleg a Büntetés-végrehajtás Országos Parancsnoksága,
 
-h) az APEH alkalmazottai adóügyében,
+h) az APEH alkalmazottai adóügyében.
 
-i) a külön jogszabályban meghatározott kiemelt adózók adóügyeiben.
+i)[^60]
 
-(2) A Kiemelt Adózók Igazgatósága jár el a Központi Hivatal és a területi szervek, az Oktatási Intézet, valamint a Számítástechnikai és Adóelszámolási Intézet adóügyében is.
+(2)[^61] Az illetékügyek kivételével – ide nem értve a 19. §-ban meghatározott illetéket – kizárólag a Kiemelt Adózók Igazgatósága jár el a külön jogszabályban meghatározott kiemelt adózók adóügyeiben.
 
-(3) A Kiemelt Adózók Igazgatóságához kell teljesíteni az Art. 9. §-ának (3) bekezdése szerint a pénzügyi képviselőt terhelő bejelentési kötelezettséget.
+(3)[^62] A Kiemelt Ügyek Igazgatósága jár el a Központi Hivatal és a területi szervek, az Oktatási Intézet, valamint az Informatikai Intézet adóügyében is.
 
-(4) Az Art.-ban meghatározott központosított ellenőrzést a Kiemelt Adózók Igazgatósága végzi. Amennyiben a központosított ellenőrzési eljárást és az azt követő hatósági eljárást a Kiemelt Adózók Igazgatósága egy eljárásban, több adózónál egyidejűleg folytatja le, az eljárás eredményeként kiadmányozott jogerős határozatot az egyébként hatáskörrel és illetékességgel rendelkező területi szervnek kell megküldeni.
+(4)[^63] A Kiemelt Ügyek Igazgatóságához kell teljesíteni az Art. 9. §-ának (3) bekezdése szerint a pénzügyi képviselőt terhelő bejelentési kötelezettséget.
 
-[^37]: A 15. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 490. §-a szerint módosított szöveg.
-[^38]: A 15. § (1) bekezdésének a) pontja a 358/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^39]: A 15. § (1) bekezdésének b) pontja a 358/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^40]: A 15. § (1) bekezdés f) pontja a 21. § (3) bekezdése alapján módosított szöveg.
-[^41]: A 15. § (1) bekezdés f) pontja a 21. § (3) bekezdése szerint módosított szöveg.
+(5)[^64] Az Art.-ban meghatározott központosított ellenőrzést a Kiemelt Ügyek Igazgatósága végzi. Amennyiben a központosított ellenőrzési eljárást és az azt követő hatósági eljárást a Kiemelt Ügyek Igazgatósága egy eljárásban, több adózónál egyidejűleg folytatja le, az eljárás eredményeként kiadmányozott jogerős határozatot az egyébként hatáskörrel és illetékességgel rendelkező megyei (fővárosi) igazgatóságnak kell megküldeni.
+
+[^54]: A 15. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 490. §-a szerint módosított szöveg.
+[^55]: A 15. § (1) bekezdés nyitó szövegrésze a 241/2010. (IX. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^56]: A 15. § (1) bekezdésének a) pontja a 358/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^57]: A 15. § (1) bekezdésének b) pontja a 358/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^58]: A 15. § (1) bekezdés f) pontja a 21. § (3) bekezdése alapján módosított szöveg.
+[^59]: A 15. § (1) bekezdés g) pontja a 241/2010. (IX. 24.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^60]: A 15. § (1) bekezdés i) pontját a 241/2010. (IX. 24.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^61]: A 15. § (2) bekezdése a 241/2010. (IX. 24.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^62]: A 15. § (3) bekezdése a 241/2010. (IX. 24.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^63]: A 15. § (4) bekezdése a 241/2010. (IX. 24.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^64]: A 15. § (5) bekezdését a 241/2010. (IX. 24.) Korm. rendelet 14. §-a iktatta be.
