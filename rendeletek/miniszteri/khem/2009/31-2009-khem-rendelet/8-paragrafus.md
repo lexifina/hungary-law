@@ -2,15 +2,13 @@
 
 ## Tárolási díjrendszer
 
-8. § (1) A földgáztárolási díj részeként
+8. § (1)[^26] A földgáztárolási díj részeként
 
 a) kitárolási díjat,
 
 b) betárolási díjat,
 
-c) tárolói mobildíjat, valamint
-
-d) tárolói csúcsdíjat
+c) tárolói kapacitásdíjat
 
 ## kell fizetni.
 
@@ -35,3 +33,4 @@ d) a Magyar Szénhidrogén Készletező Szövetség
 (6) A tárolási díjrendszer díjtételeit a 2. melléklet 3. pontja, áralkalmazási feltételeit a 3. melléklet 3. pontja tartalmazza.
 
 [^25]: A 7/A. §-t az 5/2010. (VII. 8.) NFM rendelet 1. §-a iktatta be.
+[^26]: A 8. § (1) bekezdése a 11/2010. (IX. 30.) NFM rendelet 2. §-ával megállapított szöveg.

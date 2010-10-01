@@ -44,33 +44,21 @@
 
 ## 3. Tárolási díjrendszer
 
-## a) Kitárolási díj: 4,61 Ft/GJ
+## a) Kitárolási díj: 4,61 Ft/GJ
 
-## b) A tárolói mobildíj, a tárolói csúcsdíj és a betárolási díj kiszámítása a következő képletek alapján történik:
+## b) Betárolási díj: 30,9 Ft/GJ
 
-## (i)  TM = 166,18 * cm0,48 Ft/GJ
+## c) A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
 
-## (ii)  TCS = 7,79 * cm0,48 Ft/MJ/nap/év
+## ahol:
 
-## (iii)  BT = [(bk/m)/(1/150)/3 + 2/3] * 30,90
+## TM: tárolói kapacitásdíj (Ft/MJ/év)
 
-## A képletben a
+## M: a rendszerhasználó tárolói mobil lekötése (MJ)
 
-## TM: tárolói mobildíj (Ft/GJ),
+## B: a rendszerhasználó betárolási kapacitás lekötése (MJ/nap)
 
-## TCS: tárolói csúcsdíj (Ft/MJ/nap/év),
-
-## BT: betárolási díj (Ft/GJ).
-
-## cm = 100 * cs/m
-
-## cm: a rendszerhasználó csúcs/mobil lekötési arányának százszorosa
-
-## cs: a rendszerhasználó tárolói csúcs lekötése (MJ/nap)
-
-## m: a rendszerhasználó tárolói mobil lekötése (MJ)
-
-## bk: a rendszerhasználó tárolói betárolási kapacitás lekötése (MJ/nap)
+## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
 
 ## 4. Rendszerirányítási díjrendszer
 

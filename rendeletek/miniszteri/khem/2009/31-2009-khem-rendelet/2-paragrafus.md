@@ -80,9 +80,9 @@ v) szerződési időszak: a gázév a 100 m3/h-nál nem nagyobb gázmérővel re
 
 w) tárolási év: adott naptári év április 1-jétől a következő naptári év március 31-éig tartó időszak,
 
-x)[^15] tárolói csúcsdíj: az az éves díj, amelyet a legnagyobb igénybe vett kitárolási kapacitás (MJ/nap) alapján kell fizetni,
+x)[^15] tárolói kapacitásdíj: az az éves díj, amelyet a tároló befogadóképességének legnagyobb (MJ) igénybe vett része alapján kell fizetni,
 
-y)[^16] tárolói mobildíj: az az éves díj, amelyet a tároló befogadóképességének legnagyobb (MJ) igénybe vett része alapján kell fizetni,
+y)[^16]
 
 z) téli fogyasztási időszak: a november 1-jétől március 31-éig terjedő időszak; azon rendszerhasználó esetében, amelynél az a) pont aa) alpont aaa), aab), aac) vagy aad) pontja szerinti átadási-átvételi pontonkénti kapacitás-igénybevétel a január 1-jétől március 31-éig terjedő időszakban kisebb, mint a gázév többi részében, a január 1-jétől március 31-éig terjedő időszak,
 
@@ -104,5 +104,5 @@ zs) utólagos kapacitásdíj: az a díj, amelyet a 6. § (4) bekezdésének a)�
 [^12]: A 2. § (1) bekezdés p) pontja a 4/2010. (VI. 30.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^13]: A 2. § (1) bekezdés t) pontja a 4/2010. (VI. 30.) NFM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^14]: A 2. § (1) bekezdés u) pontja a 4/2010. (VI. 30.) NFM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^15]: A 2. § (1) bekezdés x) pontja a 4/2010. (VI. 30.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^16]: A 2. § (1) bekezdés y) pontja a 4/2010. (VI. 30.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 2. § (1) bekezdés x) pontja a 11/2010. (IX. 30.) NFM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 2. § (1) bekezdés y) pontját a 11/2010. (IX. 30.) NFM rendelet 4. §-a hatályon kívül helyezte.
