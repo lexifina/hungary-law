@@ -32,8 +32,10 @@
 
 14. erdőszerkezet-átalakítás (továbbiakban: szerkezetátalakítás): az erdőtörvény 55. §-ában meghatározott tevékenység,
 
-15. támogatott terület: a jóváhagyó, illetve részben jóváhagyó támogatási határozat szerinti erdőrészlet vagy erdőrészletek teljes területe, melyen a támogatott tevékenység megvalósul,
+15.[^1] támogatott terület: a jóváhagyó, vagy részben jóváhagyó támogatási határozat szerinti erdőrészlet vagy erdőrészletek teljes vagy részterülete, melyen a támogatott tevékenység megvalósul,
 
 16. területhatár állandósítás: a faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpont szabványosított, számozott erdészeti határkaróval, majd a határ további pontjainak – az összelátást biztosítva a határon lévő fákon – az erdőrészletek határának jelzésére használt fehér színű festéssel történő megjelölése, ha a terület határán a program ideje alatt jelölésre alkalmas fák nincsenek, a terület töréspontjain szabványosított erdészeti határjelek elhelyezése,
 
 17. vágásérett faállomány: az a faállomány, amelynek az Adattárban nyilvántartott vágásérettségi mutatója legfeljebb 10 év.
+
+[^1]: A 2. § 15. pontja a 19/2010. (IX. 30.) VM rendelet 1. §-ával megállapított szöveg.

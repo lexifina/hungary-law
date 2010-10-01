@@ -14,8 +14,10 @@ b) az életképes, a tervezett célállománynak megfelelő csemeték legalább 
 
 (5) Szaporítóanyag felhasználása során az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet szerinti, igazolt származási bizonyítvánnyal rendelkező erdészeti szaporítóanyagot kell felhasználni. A szaporítóanyag származását tanúsító származási bizonyítvány másolati példányát a kifizetési kérelem benyújtásának időpontjáig az erdészeti hatóság erdőrészlet elhelyezkedése szerint illetékes szervéhez kell benyújtani, valamint az eredeti példányt a jogerős kifizetési határozat közléséig megőrizni.
 
-(6) A támogatott területek esetében támogatott erdőrészletenként a területhatár állandósítását el kell végezni, és a jelöléseket a kötelezettségvállalási időszak alatt fenn kell tartani.
+(6)[^5] A támogatott területek esetében támogatott erdőrészletenként, valamint részterületenként a területhatár állandósítását el kell végezni, és a jelöléseket a kötelezettségvállalási időszak alatt fenn kell tartani.
 
 (7) A szerkezetátalakítási céllal vetett magból kikelt vagy ültetett csemeték szabad fejlődését a 3. melléklet szerinti ápolással a kötelezettségvállalási időszak alatt folyamatosan biztosítani kell.
 
 (8) A kifizetési kérelem benyújtását követően az 5. § (2) bekezdés b) pontjában meghatározott erdőterv határozatban szereplő tájhonos állománytípust legalább 5 évig fenn kell tartani.
+
+[^5]: A 6. § (6) bekezdése a 19/2010. (IX. 30.) VM rendelet 3. §-ával megállapított szöveg.

@@ -8,6 +8,9 @@
 
 (4) A Vhr. 13. § (2) bekezdésétől eltérően a kifizetési kérelemhez nem kell mellékelni a blokktérképet.
 
-(5) Az 5. § (1)–(3) bekezdésében foglaltak a kifizetési kérelmek esetében is ellenőrzésre kerülnek.
+(5)[^6] Az 5. § (1) bekezdésében, valamint 5. § (2) bekezdés a) pontjában foglaltak a támogatási kérelmek esetében történő vizsgálatot követően a kifizetési kérelmek esetében is ellenőrzésre kerülnek az Adattárnak a kifizetési kérelem benyújtási évének június 9-ei állapota alapján.
 
-(6) A kifizetési kérelmek vizsgálata az Adattárnak a kifizetési kérelem benyújtási évének június 9-ei állapota szerint történik.
+(6)[^7]
+
+[^6]: A 9. § (5) bekezdése a 19/2010. (IX. 30.) VM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 9. § (6) bekezdését a 19/2010. (IX. 30.) VM rendelet 7. §-a hatályon kívül helyezte.
