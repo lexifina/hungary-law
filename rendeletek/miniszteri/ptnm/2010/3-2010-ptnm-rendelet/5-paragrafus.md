@@ -1,1 +1,0 @@
-## „57/A. § Ha átmeneti jelleggel szünetelt a ruházati utánpótlási ellátmány folyósítása, az ismételt tényleges szolgálatba állás hónapjának első napjától az év végéig esedékes ruházati utánpótlási ellátmányt kell a jogosult részére – az 57. § (1)–(2) bekezdés szerinti eljárási rendben – kifizetni.”
