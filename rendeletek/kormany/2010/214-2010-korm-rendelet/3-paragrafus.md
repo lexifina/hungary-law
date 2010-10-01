@@ -14,6 +14,6 @@ c) építésfelügyelet az építésfelügyeleti hatósági feladatok ellátás�
 
 (5) A szakigazgatási szervek illetékességi területét kormányrendelet a székhely megyétől (fővárostól) eltérően is megállapíthatja.
 
-(6)[^1]
+(6)[^2]
 
-[^1]: A 3. § (6) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 27. §-a alapján nem lép hatályba.
+[^2]: A 3. § (6) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 27. §-a alapján nem lép hatályba.

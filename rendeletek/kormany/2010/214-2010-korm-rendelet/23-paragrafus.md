@@ -1,6 +1,6 @@
 ## Ellenőrzés
 
-23. § (1) A közigazgatási hivatal ellenőrzési feladat- és hatáskörében a központi államigazgatási szervek bármely jogállású területi szervei vonatkozásában
+23. § (1)[^7] A közigazgatási hivatal ellenőrzési feladat- és hatáskörében – az állami adóhatóság kivételével – a központi államigazgatási szervek bármely jogállású területi szervei vonatkozásában
 
 a) gondoskodik a központi államigazgatási szervek területi szervei ellenőrzési terveinek összehangolásáról, egyeztetett végrehajtásáról, a tapasztalatok közös elemzéséről,
 
@@ -19,3 +19,5 @@ f) az informatikáért és a közigazgatási informatika infrastrukturális megv
 (3) A közigazgatási hivatal az ellenőrzések tapasztalatairól tájékoztatja a felügyeleti jogkört gyakorló szervet, illetve az ágazati minisztert, szükség esetén – különösen, ha jogszabálysértést tapasztal – kezdeményezi intézkedését, gyakorolja a 30. §-ban meghatározott jogait.
 
 (4) A közigazgatás-szervezésért felelős miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
+
+[^7]: A 23. § (1) bekezdés nyitó szövegrésze a 241/2010. (IX. 24.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
