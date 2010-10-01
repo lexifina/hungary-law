@@ -1,1 +1,3 @@
-## 2. § Az e rendelet szerint vételre felajánlott földgáz ára a 2010/2011. gázév első negyedévében nem haladhatja meg a 8,953 USD/GJ-t.
+## 2. §[^2] Az e rendelet szerint vételre felajánlott földgáz ára a 2010/2011. gázév második negyedévében nem haladhatja meg az 1. mellékletben meghatározott mértéket. Az 1. §-ban meghatározott kereskedő a felajánlás megtételekor ezen kívül jogosult felszámolni a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 2. § (1) bekezdés e) pontjában meghatározott nagykereskedői árrés tőkeköltséggel csökkentett mértékét, valamint a földgázforrás behozatalához szükséges, osztrák–magyar határ Baumgarten felőli belépési ponti szállítási kapacitás díját.
+
+[^2]: A 2. § a 12/2010. (IX. 30.) NFM rendelet 1. §-ával megállapított szöveg.
