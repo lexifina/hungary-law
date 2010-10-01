@@ -498,7 +498,7 @@
 
 | OKJ szerinti szakképesítések |
 
-| ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, az előírt elméleti-gyakorlati óra arányt betartva |
+| ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, amit az FVM VKSZI a képzési projektterv felülvizsgálata során ellenőriz |
 
 | ao2 | 54 621 02 0100 31 01 Mezőgazdasági vállalkozó |  |
 

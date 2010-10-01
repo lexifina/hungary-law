@@ -22,6 +22,6 @@
 
 ## (Szükség esetén a sorok száma növelhető.)
 
-4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^35]
+4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^45]
 
-[^35]: A 4. számú melléklet a 6/2010. (II. 2.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^45]: A 4. számú melléklet a 6/2010. (II. 2.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.

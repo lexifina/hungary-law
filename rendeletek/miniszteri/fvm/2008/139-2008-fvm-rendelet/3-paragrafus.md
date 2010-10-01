@@ -4,7 +4,7 @@
 
 a) a gazdálkodás fenntarthatóságát és eredményességét szolgáló ismeretek átadása mezőgazdasági termelők és erdőgazdálkodók részére az 1. számú mellékletben felsorolt szakképesítést nem adó és Országos Képzési Jegyzék (OKJ) szerinti, valamint hatósági képzések keretében (a továbbiakban: 1. célterület);
 
-b) az alábbi ÚMVP intézkedések keretében benyújtott támogatási kérelmet jóváhagyó vagy részben jóváhagyó támogatási határozattal rendelkezők számára előírt, kötelező képzés (a továbbiakban: 2. célterület):
+b)[^4] az alábbi ÚMVP intézkedések keretében előírt, kötelező képzés (a továbbiakban: 2. célterület):
 
 ba) 5.3.1.2.1. Mezőgazdasági üzemek korszerűsítése (kivéve: a gépvásárlási támogatást);
 
@@ -20,6 +20,7 @@ bf) 5.3.2.2.5. Erdő-környezetvédelmi kifizetések;
 
 bg) 5.3.2.1.3. Natura 2000 kifizetések.
 
-(2)[^2] E rendelet alkalmazásában elszámolható kiadásnak minősül a képzés részvételi díja, amely tartalmazza a felnőttképzési szerződés szerinti – előzetesen megszerzett tudás beszámításával meghatározott – óraszámú elméleti és gyakorlati oktatás, a számonkérés vagy szakmai vizsga, a képzés előkészítési, szervezési és adminisztrációs költségeit, valamint szakképesítést nem adó képzések esetében egy nyomtatott – legalább 5 gépelt oldal terjedelmű – oktatási segédlet költségét. Nem nyújtható támogatás a képzésen részt vevő ügyfél étkezési költségeinek, szállásköltségeinek, és a képzés helyszínére való oda- és visszautazása költségeinek térítéséhez, tankönyvek vásárlásához, továbbá a pótló-, illetve javítóvizsga díjához.
+(2)[^5] E rendelet alkalmazásában elszámolható kiadásnak minősül az FVM VKSZI által jóváhagyott projektterven alapuló felnőttképzési szerződésben szereplő képzés részvételi díja, amely tartalmazza a felnőttképzési szerződés szerinti – előzetesen megszerzett tudás beszámításával meghatározott – óraszámú elméleti és gyakorlati oktatás, a számonkérés vagy szakmai vizsga, a képzés előkészítési, szervezési és adminisztrációs költségeit, valamint szakképesítést nem adó képzések esetében egy nyomtatott – legalább 5 gépelt oldal terjedelmű – oktatási segédlet költségét. Nem nyújtható támogatás a képzésen részt vevő ügyfél étkezési költségeinek, szállásköltségeinek, és a képzés helyszínére való oda- és visszautazása költségeinek térítéséhez, tankönyvek vásárlásához, továbbá a pótló-, illetve javítóvizsga díjához.
 
-[^2]: A 3. § (2) bekezdése 6/2010. (II. 2.) FVM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdés b) pont nyitó szövegrésze a 18/2010. (IX. 30.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése 6/2010. (II. 2.) FVM rendelet 2. §-ával megállapított, a 18/2010. (IX. 30.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.

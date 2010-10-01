@@ -16,58 +16,46 @@ b) a konzorcium vezető partnere felel az ÚMVP Képző Szervezet e rendeletből
 
 (3) Az ÚMVP Képző Szervezet köteles írásban bejelenteni az (1) bekezdés a)–c) pontjaihoz kapcsolódó adataiban bekövetkezett változásokat az FVM VKSZI részére, a változás időpontját követő 15 munkanapon belül.
 
-(4) Az ÚMVP Képző Szervezet e rendelet alapján támogatható képzések szolgáltatására akkor jogosult, ha
+(4)[^15] Az ÚMVP Képző Szervezet e rendelet alapján támogatható képzések szolgáltatására akkor jogosult, ha
 
 a) a 2. számú melléklet szerinti formában évenként képzési projekt tervet készít, amelyet felülvizsgálatra benyújt az FVM VKSZI-hez tárgyévet megelőző év szeptember 1-jéig, 2009. évre vonatkozóan e rendelet hatálybalépését követő 30 napon belül;
 
 b) a gyakorlati képzés időtartamának 100%-át – az OKJ szerinti szakképesítések esetében legalább 50%-át – az általa biztosított képzési helyszínen és oktató közreműködésével teljesíti;
 
-c)[^10] mindegyik képzésen legalább 10, legfeljebb 30, e rendelet alapján támogatás igénybevételére jogosult ügyfél – felnőttképzési szerződéssel igazolt – részvételét biztosítja;
+c) a képzéseket saját szervezésben bonyolítja le;
 
-d) mindegyik képzésen csak a 4. § (2) bekezdésében meghatározott személyek vesznek részt;
+d) a képzések megvalósítása során a képzési programban meghatározott elméleti és gyakorlati ismeretek teljes körét oktatja, elvégzi az abban előírt számonkérést, és elégedettségmérést;
 
-e) a képzéseket saját szervezésben bonyolítja le;
+e) a képzésről a felnőttképzésről szóló 2001. évi CI. törvény 9. § (2) bekezdése és a 10/A. § c) pontja, valamint a külön jogszabály szerinti haladási naplót és a 3. számú mellékletben meghatározott tartalmú napi jelenléti ívet vezet;
 
-f) a képzések megvalósítása során a képzési programban meghatározott elméleti és gyakorlati ismeretek teljes körét oktatja, elvégzi az abban előírt számonkérést, és elégedettségmérést;
-
-g) a képzések időpontját havonta a tárgyhót megelőző hónap 25-ig az ÚMVP Képző Szervezetek integrált elektronikus rendszerében rögzíti;
-
-h) a képzéssel kapcsolatos rendkívüli eseményről (különösen: kényszerszünet, időpont-, vagy helyszín-módosulás) legalább 3 munkanappal a képzés tervezett napja előtt telefonon és – ha rendelkezik az ügyfél e-mail címével – elektronikus üzenetben is tájékoztatja a képzésre jelentkezett ügyfeleket, és az információt rögzíti az ÚMVP Képző Szervezetek integrált elektronikus rendszerében;
-
-i) a képzésről a 2001. évi CI. tv. 9. § (2) bekezdésében, valamint a 10/A. § c) pontjában és a külön jogszabályban rögzített haladási naplót és e rendelet 3. számú mellékletben meghatározott formában napi jelenléti ívet vezet;
-
-j) a képzési projekt megvalósítására megállapodást köt az FVM VKSZI-vel;
-
-k) a képzési projektet tárgyévet követő év március 31-ig teljesíti;
-
-l) a képzési projekt teljesítéséről jelentést készít az FVM VKSZI által meghatározott formában, és tárgyévet követő év május 31-ig megküldi az FVM VKSZI részére.
+f) a képzési projekt megvalósítására az FVM VKSZI-vel kötött hatályos megállapodással rendelkezik.
 
 (5) Az FVM VKSZI az ÚMVP Képző Szervezet képzési projekt tervének felülvizsgálatát a képzési szolgáltatás országos lefedettségének biztosítása és a jogcím éves támogatási kerete figyelembevételével elvégzi, szükség esetén az ÚMVP Képző Szervezet egyetértésével a tervet módosítja, dönt a jóváhagyásukról vagy elutasításukról, és a jóváhagyott képzési projekt terveket nyilvánosságra hozza.
 
-(6)[^11] Az ÚMVP Képző Szervezet az éves képzési projekt tervét tárgyévben módosíthatja az Irányító Hatóság (a továbbiakban: IH) előzetes jóváhagyása esetén. A módosítási tervezetét az FVM VKSZI részére kell megküldeni, amely a jóváhagyást támogató vagy elutasító javaslattal továbbítja az IH részére.
+(6)[^16] Az ÚMVP Képző Szervezet az éves képzési projekt tervét tárgyévben módosíthatja az Irányító Hatóság (a továbbiakban: IH) előzetes jóváhagyása esetén. A módosítási tervezetét az FVM VKSZI részére kell megküldeni, amely a jóváhagyást támogató vagy elutasító javaslattal továbbítja az IH részére.
 
-(7)[^12] Az ÚMVP Képző Szervezet a képzésben részt vevővel kötött felnőttképzési szerződését legkésőbb a szerződés keltétől számított 15 munkanapon belül rögzíti az ÚMVP Képző Szervezetek elektronikus nyilvántartási rendszerében. Az elektronikus nyilvántartási rendszer csak az ÚMVP Képző Szervezet jóváhagyott képzési projektjével egyezően engedélyezi a felnőttképzési szerződések rögzítését.
+(7)[^17] Az ÚMVP Képző Szervezet a képzésben részt vevővel kötött felnőttképzési szerződését legkésőbb a szerződés keltétől számított 15 munkanapon belül rögzíti az ÚMVP Képző Szervezetek elektronikus nyilvántartási rendszerében. Az elektronikus nyilvántartási rendszer csak az ÚMVP Képző Szervezet jóváhagyott képzési projektjével egyezően engedélyezi a felnőttképzési szerződések rögzítését.
 
-(8)[^13] Ha az ügyfél az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet 2. § (4) bekezdésében meghatározott módon meghatalmazza az ÚMVP Képző Szervezetet, akkor az köteles elvégezni az ügyfél támogatási és kifizetési kérelmének ügyfélkapun keresztül történő elektronikus benyújtását.
+(8)[^18] Ha az ügyfél az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet 2. § (4) bekezdésében meghatározott módon meghatalmazza az ÚMVP Képző Szervezetet, akkor az köteles elvégezni az ügyfél támogatási és kifizetési kérelmének ügyfélkapun keresztül történő elektronikus benyújtását.
 
-(9)[^14] Az egy képzésre megkötött felnőttképzési szerződéseknek a támogatás megállapításához szükséges adatait az FVM VKSZI jelenti a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) felé a képzés kezdési időpontját követő első támogatási és kifizetési kérelem benyújtási időszakot megelőzően.
+(9)[^19] Az egy képzésre megkötött felnőttképzési szerződéseknek a támogatás megállapításához szükséges adatait az FVM VKSZI jelenti a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) felé a képzés kezdési időpontját követő első támogatási és kifizetési kérelem benyújtási időszakot megelőzően.
 
-(10)[^15] Az ÚMVP Képző Szervezetnek a (4) bekezdés l) pontjában meghatározott jelentése alapján az FVM VKSZI évenként értékeli a Szervezet munkáját. Az értékelés eredményét megküldi az IH, az ÚMVP Képző Szervezet és az MVH részére.
+(10)[^20] Az ÚMVP Képző Szervezetnek a (4) bekezdés l) pontjában meghatározott jelentése alapján az FVM VKSZI évenként értékeli a Szervezet munkáját. Az értékelés eredményét megküldi az IH, az ÚMVP Képző Szervezet és az MVH részére.
 
-(11)[^16] Ha az FVM VKSZI a (10) bekezdés szerinti értékelés alapján megállapítja, hogy az ÚMVP Képző Szervezet valamely évben nem teljesíti a képzési projektben vállalt támogatott képzések legalább 50%-át, vagy két egymást követő évben legalább a 70%-át, a következő évben nem köthet megállapodást az ÚMVP Képző Szervezettel.
+(11)[^21] Ha az FVM VKSZI a (10) bekezdés szerinti értékelés alapján megállapítja, hogy az ÚMVP Képző Szervezet valamely évben nem teljesíti a képzési projektben vállalt támogatott képzések legalább 50%-át, vagy két egymást követő évben legalább a 70%-át, a következő évben nem köthet megállapodást az ÚMVP Képző Szervezettel.
 
 (12) Az FVM VKSZI az általa végzett ellenőrzések adatait az MVH részére átadja.
 
-(13)[^17] Az ÚMVP Képző Szervezet minden felnőttképzési szerződés esetében rögzíti annak igazolását az ÚMVP Képző Szervezetek elektronikus nyilvántartási rendszerében, hogy az ügyfél a 4. § (1) bekezdésében foglalt kötelezettségét teljesítette vagy nem teljesítette.
+(13)[^22] Az ÚMVP Képző Szervezet minden felnőttképzési szerződés esetében rögzíti annak igazolását az ÚMVP Képző Szervezetek elektronikus nyilvántartási rendszerében, hogy az ügyfél a 4. § (1) bekezdésében foglalt kötelezettségét teljesítette vagy nem teljesítette.
 
-(14)[^18] A (4) bekezdés c) pontjában foglaltaktól eltérően az ÚMVP Képző Szervezet e rendelet alapján támogatható képzések szolgáltatására akkor is jogosult, ha az 1. számú melléklet szerinti kötelező képzések, a Mezőgazdasági vontatóvezető képzés, valamint az OKJ szerinti képzések közül az 1. számú mellékletben részszakképesítés vagy elágazás megjelölésű szakképesítések esetében a képzésen legalább 5, legfeljebb 30, e rendelet alapján támogatás igénybevételére jogosult ügyfél – képzési szerződéssel igazolt – részvételét biztosítja.
+(14)[^23]
 
-[^10]: A 6. § (4) bekezdés c) pontja a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
-[^11]: A 6. § (6) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^12]: A 6. § (7) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^13]: A 6. § (8) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^14]: A 6. § (9) bekezdése az 50/2009. (IV. 16.) FVM rendelet 3. § (1) bekezdésével megállapított, a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
-[^15]: A 6. § (10) bekezdése az 50/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^16]: A 6. § (11) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^17]: A 6. § (13) bekezdését az 50/2009. (IV. 16.) FVM rendelet 3. § (3) bekezdése iktatta be, szövege a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
-[^18]: A 6. § (14) bekezdését a 6/2010. (II. 2.) FVM rendelet 4. § (3) bekezdése iktatta be.
+[^15]: A 6. § (4) bekezdése a 18/2010. (IX. 30.) VM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 6. § (6) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^17]: A 6. § (7) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^18]: A 6. § (8) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^19]: A 6. § (9) bekezdése az 50/2009. (IV. 16.) FVM rendelet 3. § (1) bekezdésével megállapított, a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
+[^20]: A 6. § (10) bekezdése az 50/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^21]: A 6. § (11) bekezdése a 6/2010. (II. 2.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^22]: A 6. § (13) bekezdését az 50/2009. (IV. 16.) FVM rendelet 3. § (3) bekezdése iktatta be, szövege a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
+[^23]: A 6. § (14) bekezdését a 6/2010. (II. 2.) FVM rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 18/2010. (IX. 30.) VM rendelet 9. §-a.

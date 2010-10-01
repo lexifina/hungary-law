@@ -12,8 +12,12 @@ c) képzési program: az 1. számú mellékletben felsorolt képzések tananyag�
 
 d) erdőgazdálkodó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, akit vagy amelyet az erdészeti hatóság külön jogszabály alapján nyilvántartásba vett;
 
-e) kölcsönös megfeleltetés előírásai: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/ 2001/EK, 1454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71/EGK és a 2529/2001/EK rendeletek módosításáról szóló, 2003. szeptember 29-ei 1782/2003/EK tanácsi rendelet 3–9. cikkében foglaltak, valamint a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló, 2003. szeptember 29-i 1782/2003/EK tanácsi rendelet által előírt kölcsönös megfeleltetés, moduláció, valamint integrált igazgatási és ellenőrzési rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2004. április 21-ei, 796/2004/EK bizottsági rendelet szerint;
+e)[^1] kölcsönös megfeleltetés előírásai: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben foglaltak szerint;
 
-f)[^1] tárgyév: az a naptári év, amelyre vonatkozóan az ÚMVP Képző Szervezet elkészíti a képzési projektjének tervét.
+f)[^2] tárgyév: az a naptári év, amelyre vonatkozóan az ÚMVP Képző Szervezet elkészíti a képzési projektjének tervét;
 
-[^1]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
+g)[^3] mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, aki/amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenységet folytat, valamint minden őstermelői igazolvánnyal rendelkező személy.
+
+[^1]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
+[^3]: A 2. § g) pontját a 18/2010. (IX. 30.) VM rendelet 1. § (2) bekezdése iktatta be.
