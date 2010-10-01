@@ -1,12 +1,10 @@
-33. § (1) A gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával kötött szerződésben meg kell határozni
+33. § (1) A gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával kötött ártámogatási szerződésben meg kell határozni
 
-a) a készletfenntartásra, a kiszolgáltatásra, a nyilvántartásra és a támogatás elszámolására vonatkozó – az általánostól eltérő vagy külön jogszabályban nem rögzített – rendelkezéseket,
+a) az elszámolási gyakoriságot,
 
-b) a szállítási és elszámolási feltételeket,
+b) az általánostól eltérő vagy jogszabályban nem szabályozott rendelkezéseket.
 
-c) a 32. § (3) bekezdésének c) pontjában foglaltakat.
-
-(2) A szerződés mellékletét képezi
+(2) A szerződés részét képezi
 
 a) a forgalmazás és a kiszolgáltatás végzésére jogosító – külön jogszabály szerinti – engedély másolata,
 

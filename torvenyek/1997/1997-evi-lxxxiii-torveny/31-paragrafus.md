@@ -12,7 +12,7 @@ e) a külön jogszabály rendelkezései szerinti feltételeket,
 
 f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltatások mennyiségi korlátjait,
 
-g) a 21. § (2) bekezdése alapján gyógyászati segédeszköznek az egészségügyi ellátás keretében történő kiszolgáltatására való jogosultságot,
+g)
 
 h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
 
@@ -20,7 +20,7 @@ i)
 
 (2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
-(3) A finanszírozási szerződés mellékletét képezi
+(3) A finanszírozási szerződés részét képezi
 
 a) az egészségügyi szolgáltatás nyújtására jogosító működési engedély,
 
@@ -28,9 +28,9 @@ b) amennyiben az egészségügyi szolgáltató a külön törvény szerinti egé
 
 c) az egészségügyi szolgáltató nyilatkozata arról, hogy van-e a 30. § (1) bekezdése szerinti lejárt esedékességű köztartozása,
 
-d) az egészségügyi dokumentáció vezetésének rendjéről szóló tájékoztató,
+d) a külön jogszabályban meghatározott egyéb okirat, irat, adat.
 
-e) az egészségügyi szolgáltató gyógyszer, gyógyászati segédeszköz, valamint gyógyászati ellátás árhoz nyújtott támogatással történő rendeléséhez alkalmazott számítógépes rendszer minősítéséről szóló jóváhagyás.
+e)
 
 (4) A finanszírozási szerződés módosítását – a kapacitásokat szabályozó külön jogszabályokra figyelemmel – bármelyik fél kezdeményezheti.
 
