@@ -1,8 +1,8 @@
 7. § (1) Ez a rendelet 2000. január 1-jén lép hatályba.
 
-(2)–(4)[^12]
+(2)–(4)[^13]
 
-(5)[^13] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(5)[^14] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 78/686/EGK irányelve a fogorvosi oklevelek, bizonyítványok és a képesítés megszerzéséről szóló egyéb tanúsítványok kölcsönös elismeréséről, illetve a szolgáltatásnyújtás és a letelepedés szabadsága eredményes gyakorlását elősegítő intézkedésekről (a rendelet 3. és 6. §-a, 6. számú melléklete),
 
@@ -14,5 +14,5 @@ d) az Európai Parlament és a Tanács 2001/19/EK irányelve a szakképesítése
 
 e) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. mellékletének 2. fejezete C. III. 1. és 3. pontja (a rendelet 1–7. számú melléklete).
 
-[^12]: A 7. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 186. pontja hatályon kívül helyezte.
-[^13]: A 7. § (5) bekezdését a 45/2003. (VIII. 6.) ESZCSM rendelet 2. §-a iktatta be, szövege a 42/2007. (IX. 19.) EüM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 7. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 186. pontja hatályon kívül helyezte.
+[^14]: A 7. § (5) bekezdését a 45/2003. (VIII. 6.) ESZCSM rendelet 2. §-a iktatta be, szövege a 42/2007. (IX. 19.) EüM rendelet 3. §-ával megállapított szöveg.
