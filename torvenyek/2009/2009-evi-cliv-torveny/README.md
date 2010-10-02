@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-154-00-00
 | 2010-05-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-154-00-00.5 |
 | 2010-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-154-00-00.6 |
 | 2010-08-17 | 2010. évi LXXXIX. törvény | 2009-154-00-00.7 |
+| 2010-10-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-154-00-00.8 |
