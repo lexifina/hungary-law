@@ -1,1 +1,0 @@
-## „(6) Az egyesített támogatási és kifizetési kérelem a képzés befejezése utáni 5. kérelem benyújtási időszakig nyújtható be, de legkésőbb a felnőttképzési szerződés megkötésének dátumától számított 18 hónapon belül. Amennyiben a képzés befejezése kérelem benyújtási időszakra esik, akkor az azt követően megnyíló első kérelem benyújtási időszaktól kell számítani az 5 időszakot.”

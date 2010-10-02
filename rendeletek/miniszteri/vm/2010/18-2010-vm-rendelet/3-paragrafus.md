@@ -1,1 +1,0 @@
-## „(8) Amennyiben azonos kódszámú képzés vonatkozásában egy ügyfél több képzésben részt vevő, vagy több ügyfél egy képzésben részt vevő személy után igényel támogatást, csak az elsőként benyújtott kérelem támogatható.”
