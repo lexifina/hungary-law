@@ -417,3 +417,73 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 10.2. A finanszírozási algoritmus szerint kezelt betegek aránya.
 
 11. A finanszírozás szempontjából lényeges finanszírozási kódok
+
+11.1. A releváns BNO kódok
+
+|  | A | B |
+
+| 1 | Kód | Elnevezés |
+
+| 2 | M0700 | Distalis interphalangealis ízületet érintő arthropathia psoriatica |
+
+| 3 | M0710 | Arthritis mutilans (L40.5+) |
+
+| 4 | M0720 | Spondylitis psoriatica (L40.5+) |
+
+| 5 | M0730 | Egyéb psoriasisos arthropathiák (L40.5+) |
+
+11.2. A releváns ATC kódok
+
+|  | A | B | C | D |
+
+| 1 | ATC kód | Hatóanyag | Kategória | Megjegyzés |
+
+| 2 | A07EC01 | sulfasalazin | DMARD | Betegségmódosító szerek |
+
+| 3 | L01BA01 | metotrexát | DMARD | Betegségmódosító szerek |
+
+| 4 | L04AA13 | leflunomid | DMARD | Betegségmódosító szerek |
+
+| 5 | L04AD01 | ciklosporin | DMARD | Betegségmódosító szerek |
+
+| 6 | L04AX01 | azathioprin | DMARD | Betegségmódosító szerek |
+
+| 7 | P01BA01 | chloroquin | DMARD | Betegségmódosító szerek |
+
+| 8 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
+
+| 9 | L04AA11 | etanercept | BRMD | Biológiai terápia eszközei |
+
+| 10 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
+
+| 11 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+
+| 12 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
+
+| 13 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+
+| 14 | L04AB06 | golimumab | BRMD | Biológiai terápia eszközei |
+
+| 15 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+
+| 16 | M02A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+
+| 17 | N02BA | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+
+| 18 | H02AB01 | betamethason | Szteroid | Szteroid gyógyszerek |
+
+| 19 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 20 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 21 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
+
+| 22 | H02AB09 | hidrokortizon | Szteroid | Szteroid gyógyszerek |
+
+12. Rövidítések:
+
+ATC: Anatomical Therapeutic Chemical klasszifikáció
+
+BNO: Betegségek nemzetközi osztályozása
+
+EULAR: The European League Against Rheumatism
