@@ -1,1 +1,0 @@
-## 18. § E rendelet hatálybalépésével egyidejűleg hatályát veszti az R. 1. § (1) bekezdés második mondatában a „közhatalmi” szövegrész; az R. 11. § (2) bekezdése; az R. 15. § (1) bekezdésének i) pontja; az R. 21. § (3) bekezdése.
