@@ -732,7 +732,7 @@
 
 ## 6.67. Mosonszolnok
 
-## [6.67/A.[^9] Mosonudvar]
+## 6.67/A.[^9] Mosonudvar
 
 ## 6.68. Nagybajcs
 
@@ -1794,5 +1794,5 @@
 
 2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^10]
 
-[^9]: Az 1. melléklet 6.67/A. pontját a 148/2010. (IV. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezés a helyi önkormányzati képviselők és polgármesterek 2010. évi általános választása napján lép hatályba.
+[^9]: Az 1. melléklet 6.67/A. pontját a 148/2010. (IV. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^10]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
