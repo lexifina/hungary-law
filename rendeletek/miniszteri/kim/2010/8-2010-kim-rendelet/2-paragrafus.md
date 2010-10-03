@@ -1,1 +1,0 @@
-## 1. § A választási eljárásról szóló 1997. évi C. törvénynek az országgyűlési képviselők választásán történő végrehajtásáról szóló 35/2009. (XII. 30.) ÖM rendelet Mellékletének 21. mintája helyébe az 1. melléklet lép.
