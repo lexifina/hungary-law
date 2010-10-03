@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-343-20-
 | 2010-01-01 | 2006-343-20-22.13 | 343/2006. (XII. 23.) Korm. rendelet |
 | 2010-05-28 | 2006-343-20-22.14 | 177/2010. (V. 13.) Korm. rendelet |
 | 2010-09-01 | 2006-343-20-22.15 | 234/2010. (VIII. 31.) Korm. rendelet |
+| 2010-10-03 | 2006-343-20-22.16 | 393/2007. (XII. 27.) Korm. rendelet |
