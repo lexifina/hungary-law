@@ -38,7 +38,7 @@ Az a)–b) pont szerinti esetekben a (2) bekezdés szerinti csökkentés mérté
 
 (5) Nem jogosult előrehozott öregségi nyugdíjra
 
-a) az a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy, aki EGT-államban,
+a) az az uniós rendeletek hatálya alá tartozó személy, aki EGT-államban,
 
 b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
 

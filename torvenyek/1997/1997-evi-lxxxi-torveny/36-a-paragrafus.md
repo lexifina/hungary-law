@@ -24,7 +24,7 @@ d) táppénzben, baleseti táppénzben nem részesül.
 
 (4) Az (1) bekezdés c) pontja alkalmazása során
 
-a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 
 b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 

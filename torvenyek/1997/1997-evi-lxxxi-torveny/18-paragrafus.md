@@ -34,7 +34,7 @@ c) azon a napon, amelytől kezdődően az öregségi résznyugdíjat megállapí
 
 (4) Nem jogosult öregségi teljes, illetve résznyugdíjra
 
-a) az a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy, aki EGT-államban,
+a) az a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személy, aki EGT-államban,
 
 b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
 
