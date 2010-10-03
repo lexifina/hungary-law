@@ -2774,7 +2774,7 @@
 
 8.4.22. Mosonszolnok
 
-[8.4.22/A. Mosonudvar][^6]
+8.4.22/A. Mosonudvar
 
 8.4.23. Püski
 
@@ -6942,7 +6942,7 @@
 
 20.1.33. Szentgyörgyvár
 
-[20.1.33/A. Tekenye] [^7]
+20.1.33/A. Tekenye
 
 20.1.34. Tilaj
 
@@ -7418,6 +7418,4 @@
 
 21.1.4. Ferihegy–2/B terminál légi határátkelőhely
 
-[^5]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. melléklet 8.4.22/A. pontját a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése iktatta be. [E módosító rendelet 3. § (2) bekezdése alapján a helyi önkormányzati képviselők és polgármesterek 2010. évi általános választása napján lép hatályba.]
-[^7]: Az 1. melléklet 20.1.33/A. pontját a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése iktatta be. [E módosító rendelet 3. § (2) bekezdése alapján a helyi önkormányzati képviselők és polgármesterek 2010. évi általános választása napján lép hatályba.]
+[^5]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított szöveg. Az 1. melléklet 8.4.22/A. és 20.1.33/A. pontját a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése iktatta be.
