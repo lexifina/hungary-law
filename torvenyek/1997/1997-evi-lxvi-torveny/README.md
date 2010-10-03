@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-66-00-00
 | 2008-01-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-66-00-00.20 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1997-66-00-00.21 |
 | 2010-08-19 | 2010. évi LXXXVI. törvény | 1997-66-00-00.22 |
+| 2010-10-03 | 281/2010. (XI. 12.) KE határozat | 1997-66-00-00.23 |
