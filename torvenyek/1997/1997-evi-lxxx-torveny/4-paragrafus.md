@@ -88,7 +88,7 @@ f) Saját jogú nyugdíjas: az a természetes személy, aki
 
 1. a társadalombiztosítási nyugellátásról szóló törvény, illetve nemzetközi egyezmény alkalmazásával a 14. § (3) bekezdés a) pontjában meghatározott saját jogú öregségi, rokkantsági, baleseti rokkantsági nyugdíjban részesül. A saját jogú nyugdíjjal azonos elbírálás alá esik a korengedményes nyugdíj, az előnyugdíj, a bányásznyugdíj, az egyes művészeti tevékenységet folytatók öregségi nyugdíja, a Magyar Alkotóművészeti Közalapítvány által megállapított öregségi nyugdíj, Magyarországon nyilvántartásba vett egyházi, felekezeti nyugdíj, a szolgálati nyugdíj, a Magyar Alkotóművészeti Közalapítvány által megállapított rendszeres rokkantsági segély, a növelt összegű öregségi, munkaképtelenségi járadék és a rehabilitációs járadék,
 
-2. a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi, rokkantsági, baleseti rokkantsági nyugdíjban részesül,
+2. a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi, rokkantsági, baleseti rokkantsági nyugdíjban részesül,
 
 3. az egyéni vagy társas vállalkozó e) pont szerinti jogállását nem érinti, ha az 1–2. alpontokban említett nyugdíj folyósítása szünetel.
 
