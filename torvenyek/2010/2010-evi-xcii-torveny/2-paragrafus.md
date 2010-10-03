@@ -1,0 +1,1 @@
+2. § Az Szt. 4. § (1) bekezdés i) pontjában az „a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK tanácsi rendelet” szövegrész helyébe az „az uniós rendeletek” szöveg lép.
