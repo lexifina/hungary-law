@@ -16,4 +16,4 @@ f) az állami adóhatóságra.
 
 (2) E törvény hatálya a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 1. §-ában meghatározott személyre akkor terjed ki, ha az érintett személy az ellátás igénylésének időpontjában a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja.
 
-(3) E törvény rendelkezéseit a szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyre és ellátásra a közösségi rendeletek, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályai szerint kell alkalmazni.
+(3) E törvény rendelkezéseit a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személyre és ellátásra a közösségi rendeletek, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályai szerint kell alkalmazni.
