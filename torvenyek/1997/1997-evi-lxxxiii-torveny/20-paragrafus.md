@@ -22,7 +22,7 @@ a) a Tbj. 5. §-a szerinti biztosított,
 
 b) a Tbj. 16. §-ának (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy,
 
-c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét a Közösségi rendelet 22. cikke 1. bekezdésének c) pontja, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
+c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét az uniós rendeletek, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
 
 (6) A biztosított jogosult a kezelőorvosánál mindazon vizsgálatok kezdeményezésére és – a kezelőorvos javaslata alapján – elvégeztetésére, amelyek a várakozás sorrendjét befolyásoló egészségi állapotváltozás megállapításához szükségesek.
 

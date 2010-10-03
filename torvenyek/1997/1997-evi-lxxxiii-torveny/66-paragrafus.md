@@ -16,4 +16,4 @@
 
 (6) A jogalap nélkül felvett ellátással kapcsolatban a közrehatás arányában megállapított megtérítési kötelezettség nem módosítható azon a címen, hogy a visszafizetésre kötelezettől az őt terhelő rész nem hajtható be, illetőleg azt mérsékelték, vagy elengedték.
 
-(7) Az a személy, aki EU-Kártyával vagy az azt helyettesítő nyomtatvánnyal, valamint a közösségi rendelet szerinti egyéb nyomtatvánnyal úgy vett igénybe egészségügyi szolgáltatást valamely EGT tagállamban, hogy a 6–7. §-ok és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
+(7) Az a személy, aki EU-Kártyával vagy az azt helyettesítő nyomtatvánnyal, valamint az uniós rendeletek szerinti egyéb nyomtatvánnyal úgy vett igénybe egészségügyi szolgáltatást valamely EGT tagállamban, hogy a 6–7. §-ok és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
