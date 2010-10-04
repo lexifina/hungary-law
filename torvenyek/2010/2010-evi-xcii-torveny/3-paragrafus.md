@@ -1,3 +1,0 @@
-## 2. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
-
-3. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 4. § f) pont 2. alpontjában a „szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet” szövegrész helyébe a „szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek” szöveg lép.

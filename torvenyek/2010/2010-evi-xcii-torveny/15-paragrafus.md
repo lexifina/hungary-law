@@ -1,1 +1,0 @@
-15. § Az Rjtv. 3. § (4) bekezdés a) pontjában, 4. § (5) bekezdés a) pontjában és 13. § (7) bekezdés a) pontjában az „a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet” szövegrész helyébe az „az uniós rendeletek” szöveg lép.

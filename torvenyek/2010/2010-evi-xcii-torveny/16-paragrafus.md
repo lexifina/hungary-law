@@ -1,3 +1,0 @@
-## 9. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
-
-16. § A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 7. § (3) bekezdés h) pontjában a „szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet és az annak végrehajtására elfogadott jogszabályi rendelkezések” szövegrész helyébe a „szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek” szöveg lép.
