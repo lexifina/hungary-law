@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-64-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1994-64-00-00.12 |
 | 2010-04-01 | 1994. évi LXIV. törvény | 1994-64-00-00.13 |
+| 2010-10-04 | 2010. évi LXVIII. törvény | 1994-64-00-00.14 |
