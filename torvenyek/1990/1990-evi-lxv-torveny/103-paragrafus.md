@@ -6,7 +6,7 @@
 
 103. § (1) E törvény alkalmazásában:
 
-a) a képviselő-testület hatáskörébe tartozó választás, kinevezés, vezetői megbízás joga — az alpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke, alelnöke választásának kivételével — magában foglalja a felmentés, a megbízás visszavonásának jogát;
+a) a képviselő-testület hatáskörébe tartozó választás, kinevezés, vezetői megbízás joga – a megyei közgyűlés elnöke kivételével – magában foglalja a felmentés, a megbízás visszavonásának jogát;
 
 b) az egyéb munkáltatói jogon a kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, a fegyelmi büntetés kiszabása kivételével minden más munkáltatói jogot kell érteni;
 

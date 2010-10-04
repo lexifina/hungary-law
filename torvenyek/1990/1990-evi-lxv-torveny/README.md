@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-65-00-00
 | 2010-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 1990-65-00-00.45 |
 | 2010-08-15 | 2010. évi XC. törvény | 1990-65-00-00.46 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1990-65-00-00.47 |
+| 2010-10-04 | 2010. évi LXVIII. törvény | 1990-65-00-00.48 |

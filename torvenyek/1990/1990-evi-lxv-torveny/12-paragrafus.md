@@ -12,7 +12,7 @@ a) zárt ülést tart választás, kinevezés, felmentés, vezetői megbízatás
 
 b) zárt ülést rendelhet el a vagyonával való rendelkezés és az általa kiírt pályázat tárgyalásakor, ha a nyilvános tárgyalás üzleti érdeket sértene.
 
-(5) A zárt ülésen a képviselő-testület tagjai, a kisebbségi szószóló és a jegyző, továbbá meghívása esetén az érintett és a szakértő vesz részt. Törvény előírhatja, mely esetben kötelező az érintett meghívása.
+(5) A zárt ülésen a képviselő-testület tagjai, a nem a képviselő-testület tagjai közül választott alpolgármester, a kisebbségi szószóló és a jegyző, továbbá meghívása esetén az érintett és a szakértő vesz részt. Törvény előírhatja, mely esetben kötelező az érintett meghívása.
 
 (6) A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza. Titkos szavazást tarthat a (4) bekezdésben foglalt ügyekben. A (3)—(5) bekezdésben foglaltak a bizottságra is vonatkoznak.
 
