@@ -1,0 +1,5 @@
+2. § A helyi önkormányzatokról szóló 1990. évi LXV. törvény 62. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A kerületben polgármestert, a fővárosban főpolgármestert választanak. A fővárosi közgyűlés a főpolgármester javaslatára titkos szavazással, minősített többséggel egy vagy több főpolgármester-helyettest választhat. A fővárosi közgyűlés legalább egy főpolgármester-helyettest saját tagjai közül választ meg. A főpolgármester-helyettes megbízatása megszűnik az új főpolgármester megválasztásával, valamint ha a fővárosi közgyűlés a főpolgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
+
+Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai közül választottak, nem tagja a fővárosi közgyűlésnek, a főpolgármestert a fővárosi közgyűlés elnökeként nem helyettesítheti. A fővárosi közgyűlés ülésein tanácskozási joggal vesz részt. A nem a fővárosi közgyűlés tagjai közül választott főpolgármester-helyettes jogállására egyebekben a fővárosi közgyűlés tagjai közül választott főpolgármester-helyettesre vonatkozó szabályokat kell alkalmazni.”
