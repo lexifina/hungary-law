@@ -1,0 +1,196 @@
+# A Kormány 243/2010. (X. 5.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 154. szám, 2010. október 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c41cda62c8ca6255755478fa6ea811cf1fe34cf9/dokumentumok/20a3216f8cb5947ee4e2a243f9a9db367a9ff110/letoltes)
+
+---
+
+A Kormány 243/2010. (X. 5.) Korm. rendelete
+a vis maior tartalék felhasználásának részletes szabályairól szóló
+8/2010. (I. 28.) Korm. rendelet módosításáról, valamint az államháztartás működési rendjéről szóló
+292/2009. (XII. 19.) Korm. rendelet módosításáról
+A Kormány az 1–5. § tekintetében a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 91. §
+(1) bekezdésének d) pontjában kapott felhatalmazás alapján,
+a 6. § tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés a)–d), f)–g), i), k), m)–n), p)–r), u)–x),
+zs)–zsa), zsd)–zse), továbbá zsh)–zsk) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:
+1. § (1) A vis maior tartalék felhasználásának részletes szabályairól szóló 8/2010. (I. 28.) Korm. rendelet (a továbbiakban: R1.)
+3. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az (1) bekezdés a) pontja szerinti esetben a miniszter a bejelentést követően haladéktalanul megkeresi az illetékes
+megyei katasztrófavédelmi igazgatóságot, illetve a Fővárosi Polgári Védelmi Igazgatóságot (a továbbiakban:
+Katasztrófavédelmi Igazgatóság), amely 5 munkanapon belül a 2. melléklet szerinti adatlapon – elektronikusan
+az ebr42 rendszerben – köteles tájékoztatást nyújtani a bejelentés valódiságáról, a vis maior esemény jellegéről,
+a védekezési munkálatok szükségességéről. Ennek igazolására a Katasztrófavédelmi Igazgatóság helyszíni ellenőrzést
+is folytat.”
+(2) Az R1. 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A bejelentéstkövetőenhaladéktalanul– legkésőbb20 munkanaponbelül– aKormányáltalánoshatáskörűterületi
+államigazgatási szerve által kinevezett és koordinált, legalább 2 fős bizottság helyszíni vizsgálatot végez
+(a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatban részt vesz a Kormány általános
+hatáskörű területi államigazgatási szerve, a Katasztrófavédelmi Igazgatóság, továbbá a Kormány általános hatáskörű
+területi államigazgatási szerve felkérése alapján:
+a) ár-, illetve belvíz elleni védekezés esetében a területileg illetékes környezetvédelmi és vízügyi igazgatóság,
+b) utakban, kompokban, hidakban keletkezett károk esetében a Közlekedésfejlesztési Koordinációs Központ
+képviselője.”
+(3) Az R1. 3. § (9) és (10) bekezdése helyébe a következő rendelkezések lépnek, egyben a 3. § a következő (11) bekezdéssel
+egészül ki:
+„(9) Támogatás – pince-, illetve partfalomlás, valamint földcsuszamlás kivételével – csak a káresemény bekövetkezését
+megelőző állapot visszaállítására igényelhető. Nem igényelhető támogatás a vis maior keretből az elmaradt
+felújításból, karbantartásból eredő, korábban megelőzhető károk helyreállítására, új beruházásra, fejlesztésre, illetve
+felújítási előirányzatok pótlására, a (10) bekezdésben foglaltak kivételével.
+(10) Amennyiben a vis maior esemény következtében a kötelező önkormányzati feladatot szolgáló épület összedől,
+vagy helyreállíthatatlanul károsodik, a miniszter javaslatára, a káreseményhez kapcsolódó közfeladatokért felelős
+fejezetet irányító szerv előzetes szakmai véleménye alapján a Kormány dönt a támogatás felhasználásáról új,
+a káreseményt megelőző funkciót betöltő beruházás megvalósítása érdekében. Ez esetben a támogatás folyósítása
+a 7. § (2) bekezdésében foglaltak alapján történik.
+(11) A települést ért különösen súlyos természeti csapás esetében, amelynek következtében a lakóépületek jelentős
+része életveszélyessé vált, illetve helyre nem állítható, kivételesen a támogatás a lakosság egyszeri, rendkívüli szociális
+támogatására is kiterjedhet. A lakossági támogatás a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
+III. törvényben előírt eljárási szabályokkal egyezően az önkormányzati kötelezettségből eredő kiadások (átmeneti
+segély nyújtása a létfenntartást veszélyeztető rendkívüli élethelyzetbe került személyek részére az életveszély
+megszüntetéséhez) részbeni vagy teljes megtérítését jelenti. Ez a támogatás a kárt szenvedett lakosok biztonságát
+szolgálja, az ingatlan helyreállításának vagy újjáépítésének fedezetét nem tartalmazza. A támogatás előleg
+formájában is folyósítható a 7. § (3) bekezdésben részletezett eljárás szerint.”
+
+2. § (1) Az R1. 4. § (1) és (2) bekezdésének helyébe a következő rendelkezés lép:
+„(1) Az önkormányzat, illetve a többcélú kistérségi társulás az 5. melléklet szerinti adatlapon rögzített támogatási
+kérelmét – a (3) bekezdés szerinti kötelező mellékletek becsatolásával– a 3. § (4) bekezdése szerinti bejelentést követő
+22 munkanapon belül köteles benyújtani papír alapon egy eredeti és három másolati példányban a Magyar
+Államkincstár területileg illetékes szervének (a továbbiakban: Igazgatóság), továbbá egy másolati példányban
+a Kormány általános hatáskörű területi államigazgatási szervének. A benyújtási határidő meghosszabbítására nincs
+lehetőség, annak elmulasztása jogvesztő.
+(2) A kérelemben meg kell határozni a védekezés, illetve helyreállítás kezdési és befejezési határidejét. Az Igazgatóság
+megvizsgálja a kérelmet, és hiányosság észlelése esetén az Áht. 64/B. § (3) bekezdése alapján az önkormányzatot,
+többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított
+5 munkanapon belül – elektronikusan és papír alapon is – gondoskodni kell az Igazgatóság és a Kormány általános
+hatáskörű területi államigazgatási szerve felé. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn
+belül nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja, és erről
+tájékoztatja a minisztert és a kérelmet benyújtót. Az Igazgatóság a pályázatokat papír alapon egy eredeti és két
+másolati példányban részletes véleményének egyidejű csatolásával küldi meg a miniszter részére.”
+(2) Az R1. 4. § (3) bekezdés következő ce) alponttal egészül ki:
+[(3) A támogatási kérelem kötelező mellékletei:
+c) a képviselő-testület, illetve társulási tanács határozata arról, hogy]
+„ce) vállaljaa károsodott ingatlannaka költséghatékonyságés a megvalósíthatóságszempontjairatekintettel történő
+helyreállítását;”
+(3) Az R1. 4. § (5) bekezdésének helyébe a következő rendelkezés lép:
+„(5) Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek
+vonatkozásában – a (3) bekezdés b), ca), cb), cd), ce), d), e) és i) pontjában megjelölt dokumentumok csatolása nem
+kötelező.”
+3. § Az R1. 5. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[(6) A költségek között nem számolhatók el]
+„c) a fejlesztések, a 3. § (10) bekezdésben foglaltak kivételével,”
+4. § Az R1. 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A támogatási igényekről – a Kormány általános hatáskörű területi államigazgatási szerve 6. § szerinti
+véleményének figyelembevételével – a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szervnek
+megküldött pályázati dokumentációval kapcsolatos szakmai vélemények és javaslatok minisztériumnak történő
+megküldését követően a miniszter dönt. A támogatói okiratban megfogalmazott miniszteri döntés elkülönítetten
+tartalmazza:
+a) a támogatással elismert számlával igazolt védekezési költségekhez, illetve
+b) a szakértői véleménnyel alátámasztott helyreállítási költségekhez
+biztosított támogatás összegét és a támogatás mértékét. Az utalványozás és az előirányzat módosításának
+alapdokumentuma az a) pontban meghatározott esetben, illetve előlegigénynél a miniszteri döntésről készült
+feljegyzés, a b) pontban meghatározott esetben a teljesítésarányosan folyósítandó összegről a Kincstár által
+megküldött lehívási igény.
+(2) A miniszteri döntést követően a védekezési költségekhez kapcsolódó támogatásokat a minisztérium
+– az (1) bekezdés szerinti feljegyzésen alapuló – utalványozása alapján a Kincstár folyósítja. A helyreállítási költségekre
+jóváhagyott támogatás az Igazgatósághoz benyújtott, a teljesítést igazoló számla vagy egyéb teljesítést igazoló
+dokumentum alapján – a (3) bekezdés szerinti előleg igénybevétele esetén az előleg felhasználásával történő
+elszámolást követően – vehető igénybe. A támogatott önkormányzat, többcélú kistérségi társulás (a továbbiakban:
+Támogatott) az elszámoláshoz benyújtandó számla vagy egyéb teljesítést igazoló dokumentum eredeti példányán
+– sokszorosítás előtt – az ebr42 rendszerben a támogatási igényhez tartozó igénylésazonosítót feltünteti.
+A helyreállításhoz kapcsolódó támogatást a Kincstár folyósítja azzal, hogy
+a) a Támogatott az általa igazolt és hitelesített számlákat, egyéb teljesítést igazoló dokumentumokat másolatban
+az Igazgatósághoz nyújtja be,
+
+b) az Igazgatóság a benyújtott számlák és a támogatásigénylések adatait a benyújtástól számított 5 munkanapon
+belül ellenőrzi, ezt követően a miniszternél kezdeményezi a számla összege és a támogatási mérték
+figyelembevételével meghatározott összegű támogatások utalványozását,
+c) a Kincstár a minisztérium utalványozása alapján teljesíti a támogatás Támogatott számlájára történő utalását,
+d) a támogatás lehívására a miniszteri döntést követő 12 hónapon belül benyújtott számlák esetében van lehetőség.
+A 3. § (10) bekezdés szerinti esetben a támogatás felhasználásának végső határidejét a Kormány határozza meg.
+(3) Különösen súlyos természeti, a település nagyobb részét érintő károk (pl. földrengés, árvíz, lakott területen belüli
+nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince-, vagy partfalomlás, földcsuszamlás) mérséklésére
+a védekezési, helyreállítási támogatás részben, előleg formájában azonnali segítségnyújtásként is folyósítható
+a miniszter előzetes döntésével, a Kincstár felé történő utalványozással, a kedvezményezettet terhelő elszámolási
+kötelezettséggel. A helyreállításhozkapcsolódóelőleg a jelzett helyreállítási költségek legfeljebb 15%-ának megfelelő
+összeg lehet, amellyel az első teljesítésarányos kifizetésig kell elszámolni. A védekezési költségekhez kapcsolódó
+előleg a jelzett védekezési költségek legfeljebb 50%-ának megfelelő összeg lehet.
+(4) A Támogatott a támogatás felhasználásáról – a befejezési határidőt követő 22 munkanapon belül, de legkésőbb
+a miniszteri döntést követő 12 hónapon belül, a 3. § (10) bekezdés szerinti esetben a Kormány által meghatározott
+időpontig – a 6. melléklet szerinti adatlapok, továbbá a következő hiteles bizonylatok:
+a) a helyreállításhoz, illetve védekezéshez kapcsolódó Támogatott nevére és címére kiállított számlák, számlát
+helyettesítő egyéb bizonylatok, az elvégzett munkatételeket tartalmazó számlarészletezők Támogatott által
+hitelesített másolatai,
+b) a helyreállításhoz, illetve védekezéshez kapcsolódó személyi jellegű ráfordítások esetén a bér és járulékok
+kifizetését igazoló bizonylatok, munkanapló, jelenléti ív hitelesített másolata,
+c) a helyreállításhoz,illetve védekezéshez kapcsolódósaját kivitelezésbenvégzett helyreállítás esetén belső bizonylat
+és kimutatás hitelesített másolata a felmerült költségekről (pl. géphasználat, üzemanyag),
+d) a helyreállításhoz, illetve a védekezéshez kapcsolódó vállalkozói szerződések, megbízási szerződések,
+megrendelők, árajánlatok hitelesített másolata,
+e) a műszaki átadás-átvételi jegyzőkönyv hitelesített másolata (építéssel történő helyreállítás esetén),
+f) építmény helyreállításához nem kapcsolódó vis maior esemény esetén teljesítés igazolás hitelesített másolata
+a munka teljesítéséről,
+g) építési napló hitelesített másolata (építéssel történő helyreállítás esetén),
+h) bankbizonylatok hitelesített másolata az egyéb forrásból kapott támogatás összegéről,
+i) készpénzes fizetés esetén kinyomtatott pénztárnapló, illetve a bankszámlakivonat hitelesített másolata
+a pénzfelvételről, valamint a bevételi és kiadási pénztárbizonylat hitelesített másolata,
+j) kinyomtatott banknapló és főkönyvi kivonat hitelesített másolata a kapott támogatás, a számlák, valamint azok
+kiegyenlítésének lekönyveléséről,
+k) tárgyi eszköz karton hitelesített másolata építmény esetén,
+l) helyreállítás/védekezés befejezése utáni fotódokumentáció (elektronikusan cd-n vagy színes nyomtatásként),
+m) biztosítással, kártérítéssel kapcsolatos dokumentumok hitelesített másolatai (amennyiben az igénylés során nem
+csatolta, illetve az igénylés benyújtása óta új körülmények merültek fel),
+n) a közbeszerzési törvény hatálya alá tartozó beszerzések esetében az eljárás lefolytatását igazoló iratok hitelesített
+másolata, továbbá
+o) az építési engedély köteles helyreállítások esetén az építési engedély és használatbavételi engedély hitelesített
+másolatának
+becsatolásával köteles az Igazgatóság és a Kormány általános hatáskörű területi államigazgatási szerve felé – papír
+alapon és a 6. melléklet tekintetében elektronikus úton is az ebr42 rendszerben – elszámolni.
+(5) A Kormány általános hatáskörű területi államigazgatási szervének képviselője és a Katasztrófavédelmi Igazgatóság
+képviselője a helyreállítás során annak befejezéséig a támogatás felhasználását a helyszínen ellenőrizheti.
+(6) Helyreállítás esetében az elszámolás elfogadását megelőzően a Kormány általános hatáskörű területi
+államigazgatási szerve, a káresemény jellegétől függően a Katasztrófavédelmi Igazgatóság, területileg illetékes
+környezetvédelmi és vízügyi igazgatóság, Közlekedésfejlesztési Koordinációs Központ és a településfejlesztésért és
+településrendezésért felelős miniszter által kinevezett szakértői bizottság képviselőiből álló bizottság a helyszínen
+ellenőrzést folytat, melyről – intézkedési javaslatok megtételével – 5 munkanapon belül értesíti az Igazgatóságot.
+(7) Az elszámolásokról,illetveazesetlegesvisszafizetésikötelezettségelőírásárólazIgazgatóságdönt, amelyrőlértesíti
+a Támogatottat és a minisztert. Az Igazgatóság ellenőrzi az esetleges visszafizetési kötelezettség teljesítését.
+
+(8) Amennyiben a Támogatott a támogatást vagy annak egy részét jogtalanul vette igénybe, azt nem a megjelölt
+feladatra használta fel, vagy a munka a tervezettnél alacsonyabb összköltséggel valósult meg, akkor a támogatásról
+vagy meghatározott részéről haladéktalanul köteles lemondani, és a támogatást a központi költségvetés javára
+visszafizetni. A jogtalanul igénybe vett összeg után a Támogatott a jegybanki alapkamat kétszeresének megfelelő
+mértékű kamatot fizet a jogtalan igénybevétel napjától a visszafizetés napjáig.
+(9) A támogatásfelhasználásátaminisztérium,továbbájogszabálybanerrefeljogosítottegyébszervekellenőrizhetik.”
+5. § Az R1. a következő 8/A. §-sal egészül ki:
+„8/A. § (1) E rendeletnek a vis maior tartalék felhasználásánakrészletes szabályairól szóló 8/2010. (I. 28.) Korm. rendelet
+módosításáról, valamint az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet módosításáról
+készült 243/2010. (X. 5.) Korm. rendelet (a továbbiakban: Módosító Rendelet) 2. § (1) és (2) bekezdésével megállapított
+4. § (1) és (2) bekezdése, valamint a 4. §-ával megállapított 7. § (1) bekezdésében szereplő „a káreseményhez
+kapcsolódó közfeladatokért felelős fejezetet irányító szervnek megküldött pályázati dokumentációval kapcsolatos
+szakmai vélemények és javaslatok minisztériumnak történő megküldését követően” szövegrész kivételével
+az e szakasszal együtt hatályba lépő rendelkezéseket a folyamatban lévő ügyekben is alkalmazni kell.
+(2) E rendeletnek a Módosító Rendelet 2. § (1) és (2) bekezdésével megállapított 4. § (1) és (2) bekezdését, valamint
+a 4. §-ával megállapított 7. § (1) bekezdésében szereplő „a káreseményhez kapcsolódó közfeladatokért felelős
+fejezetet irányító szervnek megküldött pályázati dokumentációval kapcsolatos szakmai vélemények és javaslatok
+minisztériumnak történő megküldését követően” szövegrészt az e szakasz hatálybalépését követően benyújtott vis
+maior pályázatoknál kell alkalmazni.”
+6. § Az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 62. § (11) bekezdésének helyébe
+a következő rendelkezés lép:
+„(11) A helyi önkormányzatot megillető fejlesztési feladatok támogatásának, vis maior tartalék támogatásoknak,
+valamint címzett és céltámogatásoknak törvényben, illetve közleményben megállapított tárgyévi eredeti
+előirányzatát év közben módosítani kell, ha
+a) az önkormányzat előző években fel nem használt előirányzatrészt igényel a költségvetésből,
+b) az önkormányzat tárgyévi előirányzatáról lemond,
+c) az önkormányzat az a) pont alapján felhasznált maradványt év közben visszafizeti,
+d) törvényi felhatalmazás alapján tárgyévi eredeti előirányzat kerül elvonásra,
+e) az önkormányzat év közben – a tárgyévre vonatkozóan – új vagy többlettámogatásban részesül. Amennyiben vis
+maior tartalék esetén a támogatásból a tárgyévben csak részfolyósításra kerül sor – előleg vagy teljesítésarányos
+kifizetés formájában – úgy az előirányzat a folyósított összeggel módosul.”
+7. § (1) Ez a rendelet a kihirdetést követő harmadik napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+(2) Az R1. 4. § (3) bekezdés g) pontjában és 2. mellékletében „a Védelmi Igazgatóság” szövegrész helyébe „a
+Katasztrófavédelmi Igazgatóság” szöveg lép.
+(3) Az R1. 3. mellékletében a „Megyei Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Katasztrófavédelmi
+Igazgatóság” szöveg lép.
+(4) Az R1. 5. mellékletében az „Államigazgatási Hivatal” szövegrész helyébe a „A Kormány általános hatáskörű területi
+államigazgatási szerve” szöveg lép.
+Orbán Viktor s. k.,
+miniszterelnök
