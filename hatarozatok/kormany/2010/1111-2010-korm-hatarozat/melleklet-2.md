@@ -80,7 +80,7 @@
 
 ## Felelős az összehangolásért: az Országos Atomenergiai Hivatal főigazgatója
 
-2. melléklet az 1111/2010. (V. 6.) Korm. határozathoz
+2. melléklet az 1111/2010. (V. 6.) Korm. határozathoz[^2]
 
 A honvédelmi-, katasztrófavédelmi- és gazdasági felkészülés központi kiadásai költségvetési előirányzat felhasználása
 
@@ -93,3 +93,5 @@ A honvédelmi-, katasztrófavédelmi- és gazdasági felkészülés központi ki
 | 3. | Fővárosi Központi Rendeltetésű Mentő Szervezet felkészítése és gyakoroltatása | 3 M Ft | XI. ÖM | 7. cím OKF |
 
 | 4. | Nemzetközi kutató-mentő csapatok felkészítése, vizsgáztatása | 7 M Ft | XI. ÖM | 7. cím OKF |
+
+[^2]: [A 2. melléklet 4. pontjában az 1201/2010. (X. 5.) Korm. határozat 6. pontjával elrendelt módosítás, amely szerint az „a nemzetközi kutató–mentő csapatok felkészítése, vizsgáztatása” szövegrész helyébe „katasztrófavédelmi gyakorlatok” szöveg lép, nem vezethető át.]
