@@ -1,8 +1,8 @@
 ## 6. § E rendelet a kihirdetését követő 30. napon lép hatályba.
 
-7. §[^6] (1)[^7] Az 1. § (2) bekezdés b) pontja és (3)–(4) bekezdése a szakképzésről szóló törvény alapján alap-, közép-, emeltszintű, valamint felsőfokú egészségügyi szakképesítéssel, egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán szerzett szakképzettséggel rendelkezők egészségügyi szakirányú szakmai továbbképzéséről szóló rendelet (a továbbiakban: R.2.) hatálybalépését követő 90. napon hatályát veszti.
+7. §[^6] (1)[^7] Az 1. § (2) bekezdés b) pontja és (3)–(4) bekezdése a szakképzésről szóló törvény alapján alap-, közép-, emeltszintű, valamint felsőfokú egészségügyi szakképesítéssel, egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán szerzett szakképzettséggel rendelkezők egészségügyi szakirányú szakmai továbbképzéséről szóló rendelet[^8] (a továbbiakban: R.2.) hatálybalépését[^9] követő 90. napon[^10] hatályát veszti.
 
-(2) Az 1. § (2) bekezdés b) pontja szerint kiadott utasítás alapján egészségügyi tevékenység az R.2. hatálybalépését követő 180. napig végezhető.
+(2) Az 1. § (2) bekezdés b) pontja szerint kiadott utasítás alapján egészségügyi tevékenység az R.2. hatálybalépését követő 180. napig[^11] végezhető.
 
 Melléklet a 3/2010. (I. 26.) EüM rendelethez
 
@@ -74,3 +74,7 @@ f) Perifériás véna kanül további átjárhatóságának biztosítása, zár�
 
 [^6]: A 7. §-t a 6/2010. (II. 24.) EüM rendelet 2. §-a iktatta be.
 [^7]: A 7. § (1) bekezdése a 15/2010. (IV. 9.) EüM rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^8]: Lásd a 15/2010. (IV. 9.) EÜM rendeletet.
+[^9]: A rendelet hatálybalépésének napja 2010. július 8.
+[^10]: 2010. október 6.
+[^11]: 2011. január 4.
