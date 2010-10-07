@@ -1124,7 +1124,13 @@
 
 | 187. | 360. | 31 | 543 | 03 | 0000 | 00 | 00 | Ipari üvegműves | Egyéb szolgáltatások szakmacsoport |
 
-| 188. | 361. | 31 | 815 | 01 | 0000 | 00 | 00 | Kéz- és lábápoló, műkörömépítő | Egyéb szolgáltatások szakmacsoport |
+| 188. | 361. | 33 | 815 | 02 |  |  |  | Kéz- és lábápoló, műkörömépítő | Egyéb szolgáltatások |
+
+|  |  | 33 | 815 | 02 | 0010 | 33 | 01 | Szakképesítés-elágazás: Kézápoló és műkörömépítő |  |
+
+|  |  | 33 | 815 | 02 | 0010 | 33 | 02 | Szakképesítés-elágazás: Lábápoló |  |
+
+|  |  | 33 | 815 | 02 | 0001 | 54 | 01 | Szakképesítés-ráépülés: Speciális lábápoló |  |
 
 | 189. | 362. | 52 | 815 | 01 | 0000 | 00 | 00 | Kozmetikus | Egyéb szolgáltatások |
 
@@ -1140,7 +1146,7 @@
 
 |  |  | 55 | 810 | 01 | 0010 | 55 | 01 | Szakképesítés-elágazás: Energetikai mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Építettkörnyezetmérnök-asszisztens |  |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Építettkörnyezetmérnök- asszisztens |  |
 
 |  |  | 55 | 810 | 01 | 0010 | 55 | 03 | Szakképesítés-elágazás: Faipari terméktervező |  |
 
@@ -1160,11 +1166,13 @@
 
 |  |  | 55 | 810 | 01 | 0010 | 55 | 11 | Szakképesítés-elágazás: Vegyész mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 12 | Szakképesítés-elágazás: Vegyipari gépészmérnök- asszisztens |  |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 12 | Szakképesítés-elágazás: Vegyipari gépészmérnök-asszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 13 | Szakképesítés-elágazás: Villamosmérnök- asszisztens |  |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 13 | Szakképesítés-elágazás: Villamosmérnök-asszisztens |  |
 
 |  |  | 55 | 810 | 01 | 0010 | 55 | 14 | Szakképesítés-elágazás: Területfejlesztési szakasszisztens |  |
+
+|  |  | 55 | 810 | 01 | 0010 | 55 | 15 | Szakképesítés-elágazás: Munkavédelmi mérnökasszisztens |  |
 
 | 192. | 367. | 52 | 345 | 03 | 0000 | 00 | 00 | Munkaelemző | Egyéb szolgáltatások szakmacsoport |
 
@@ -3910,42 +3918,4 @@ D A bölcsődei korai fejlesztés módszerei
 
 B A kisgyermek környezetében elvárt higiénés követelmények
 
-B A fertőző betegségek megelőzésében alkalmazott eljárások
-
-B Szervezés és felvilágosítás
-
-A szint megjelölésével a szakmai készségek:
-
-1 Elemi szintű számítógéphasználat
-
-3 Olvasott köznyelvi szöveg megértése
-
-3 Köznyelvi szöveg fogalmazása írásban
-
-3 Kézírás
-
-1 Szakmai nyelvű beszédkészség
-
-3 Elemi számolási készség
-
-3 Mennyiségérzék
-
-3 Háztartási eszközök használata
-
-3 Kerti eszközök használata
-
-3 Kéziszerszámok használata
-
-2 Informatikai eszközök használata
-
-3 Híradástechnikai eszközök használata
-
-3 Játékok használata
-
-2 Dekorációs anyagok (színes ceruza, textíliák, papírok stb.) használata
-
-Személyes kompetenciák:
-
-Szervezőkészség
-
-[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
