@@ -124,11 +124,21 @@
 
 1.62. a Természeti Örökségünk Alapítvány,
 
-1.63. az Agrár-Vállalkozási Hitelgarancia Alapítvány
+1.63. az Agrár-Vállalkozási Hitelgarancia Alapítvány,
+
+1.64.[^2] a Fórum Film Alapítvány,
+
+1.65.[^3] a Kármán Alapítvány,
+
+1.66.[^4] az Ipar a Korszerű Mérnökképzésért Alapítvány,
+
+1.67.[^5] a Budapesti Osztrák Iskola Alapítvány,
+
+1.68.[^6] a Tudományos és Technológiai Alapítvány
 
 tekintetében.
 
-2. Az 1. pont szerinti közalapítványok és alapítványok (a továbbiakban együtt: alapítványok) tekintetében a Kormány felkéri a kormányzati tevékenység összehangolásáért felelős, valamint az állami vagyon felügyeletéért felelős minisz- tereket, hogy – a feladatkörük tekintetében érintett miniszterek bevonásával – vizsgálják felül az alapítványokhoz rendelt feladatok ellátásának hatékonyságát és együttes előterjesztésben tegyenek javaslatot a Kormány számára a vizsgálat alapján szükségessé váló intézkedésekre.
+2.[^7] Az 1. pont szerinti közalapítványok és alapítványok (a továbbiakban együtt: alapítványok) tekintetében a Kormány felkéri a kormányzati tevékenység összehangolásáért felelős, valamint az állami vagyon felügyeletéért felelős minisz- tereket, hogy – a feladatkörük tekintetében érintett miniszterek bevonásával – vizsgálják felül az alapítványokhoz rendelt feladatok ellátásának hatékonyságát és együttes előterjesztésben tegyenek javaslatot a Kormány számára a vizsgálat alapján szükségessé váló intézkedésekre.
 
 A vizsgálat keretében a kormányzati tevékenység összehangolásáért felelős miniszter elsősorban a szakpolitikai, a társadalmi és civil kapcsolatok fejlesztésével, valamint az összkormányzati koordinációval, az állami vagyon felügyeletéért felelős miniszter pedig az állami vagyon felügyeletével kapcsolatos szempontok érvényesítéséért felel. A vizsgálat során fel kell tárni, hogy az alapítványok milyen önálló jogi személyiséggel rendelkező szervezeti egységgel rendelkeznek, fenntartanak-e, illetve működtetnek-e önálló jogi személyiséggel rendelkező intézményt.
 
@@ -138,7 +148,7 @@ Felelősök: a kormányzati tevékenység összehangolásáért felelős miniszt
 
 az állami vagyon felügyeletéért felelős miniszter
 
-Határidő: 2010. szeptember 30.
+Határidő: 2010. október 31.
 
 3. A Kormány felhívja a minisztereket, hogy a 2005. üzleti évig visszamenőleg a kormányzati tevékenység összehango- lásáért felelős miniszter számára – elektronikus formában az alábbiak szerint – juttassák el a felelősségi körükbe tartozó alapítványok beszámolóit és közhasznúsági jelentéseit:
 
@@ -156,7 +166,9 @@ Határidő: 2010. szeptember 30.
 
 3.3. a külügyminiszter
 
-3.3.1. a Demokrácia Központ Közalapítvány;
+3.3.1. a Demokrácia Központ Közalapítvány,
+
+3.3.2.[^8] a Tudományos és Technológiai Alapítvány;
 
 3.4. a nemzetgazdasági miniszter
 
@@ -250,7 +262,15 @@ Határidő: 2010. szeptember 30.
 
 3.5.38. a Pro Renovanda Cultura Hungariae Alapítvány,
 
-3.5.39. a Talentum Kulturális Alapítvány;
+3.5.39. a Talentum Kulturális Alapítvány,
+
+3.5.40.[^9] a Fórum Film Alapítvány,
+
+3.5.41.[^10] a Kármán Alapítvány,
+
+3.5.42.[^11] az Ipar a Korszerű Mérnökképzésért Alapítvány,
+
+3.5.43.[^12] a Budapesti Osztrák Iskola Alapítvány;
 
 3.6. a nemzeti fejlesztési miniszter
 
@@ -285,3 +305,15 @@ Határidő: azonnal
 4.4. a Magyar Nemzeti Üdülési Alapítványt érintő intézkedésről szóló 1067/2007. (IX. 4.) Korm. határozat és
 
 4.5. a Kormány (köz)alapítványaiért felelősökről szóló 1081/2006. (VIII. 14.) Korm. határozat módosításáról szóló 1067/2008. (XI. 3.) Korm. határozat.
+
+[^2]: Az 1. pont 1.64. alpontját az 1206/2010. (X. 6.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 1. pont 1.65. alpontját az 1206/2010. (X. 6.) Korm. határozat 1. pontja iktatta be.
+[^4]: Az 1. pont 1.66. alpontját az 1206/2010. (X. 6.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 1. pont 1.67. alpontját az 1206/2010. (X. 6.) Korm. határozat 1. pontja iktatta be.
+[^6]: Az 1. pont 1.68. alpontját az 1206/2010. (X. 6.) Korm. határozat 1. pontja iktatta be.
+[^7]: A 2. pont az 1206/2010. (X. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^8]: A 3. pont 3.3. alpont 3.3.2. alpontját az 1206/2010. (X. 6.) Korm. határozat 3. pontja iktatta be.
+[^9]: A 3. pont 3.5. alpont 3.5.40. alpontját az 1206/2010. (X. 6.) Korm. határozat 4. pontja iktatta be.
+[^10]: A 3. pont 3.5. alpont 3.5.41. alpontját az 1206/2010. (X. 6.) Korm. határozat 4. pontja iktatta be.
+[^11]: A 3. pont 3.5. alpont 3.5.42. alpontját az 1206/2010. (X. 6.) Korm. határozat 4. pontja iktatta be.
+[^12]: A 3. pont 3.5. alpont 3.5.43. alpontját az 1206/2010. (X. 6.) Korm. határozat 4. pontja iktatta be.
