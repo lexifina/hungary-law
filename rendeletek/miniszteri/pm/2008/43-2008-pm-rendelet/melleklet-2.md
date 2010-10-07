@@ -164,7 +164,7 @@
 
 | Nyugat-Dunántúl | vj | _ | vj | vj | vj | vj | _ | vj | vj | vj | vj | vj | vj | _ | vj | _ | vj | vj | _ |
 
-| 28 | Sämling Gazdasági Továbbképző Kft. | Közép-Magyarország | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | _ | vj | _ |
+| 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 29 | Soter-Line Oktatási Tk és Szolgáltató kft. | Közép-Magyarország | vj | _ | vj | _ | vj | vj | _ | vj | _ | _ | _ | _ | vj | _ | _ | _ | _ | vj | vj |
 
@@ -176,4 +176,6 @@
 
 ## **-gal jelölt szakképesítések esetén a vizsgaszervező csak függő- és független biztosításközvetítő szakképesítés elágazás vizsgaszervezésére jogosult.
 
-2. számú melléklet a 43/2008. (XII. 31.) PM rendelethez
+2. számú melléklet a 43/2008. (XII. 31.) PM rendelethez[^4]
+
+[^4]: A 2. számú melléklet a 6/2010. (IX. 29.) NGM rendelet 2. §-a szerint módosított szöveg.

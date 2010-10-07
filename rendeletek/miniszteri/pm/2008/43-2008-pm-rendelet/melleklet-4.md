@@ -54,7 +54,7 @@
 
 ## vj - a megjelölt régióban az adott szakképzés vonatkozásában vizsgaszervezésre jogosult.
 
-4. számú melléklet a 43/2008. (XII. 31.) PM rendelethez[^2]
+4. számú melléklet a 43/2008. (XII. 31.) PM rendelethez[^5]
 
 A 23/2008. (VIII. 08.) PM rendelet szerinti termékdíj ügyintéző szakmai vizsga szervezésére
 
@@ -146,4 +146,4 @@ A 23/2008. (VIII. 08.) PM rendelet szerinti termékdíj ügyintéző szakmai viz
 
 vj – a megjelölt régióban az adott szakképesítés-elágazás vonatkozásában vizsgaszervezésre jogosult.
 
-[^2]: A 4. számú mellékletet az 5/2010. (I. 26.) PM rendelet 2. §-a iktatta be.
+[^5]: A 4. számú mellékletet az 5/2010. (I. 26.) PM rendelet 2. §-a iktatta be.

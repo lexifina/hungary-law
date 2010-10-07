@@ -108,7 +108,7 @@
 
 | 16 | Pallas 70 Oktatási kft. | Közép-Magyarország | vj | - | - | - | - | - | vj | - | - | vj | - | - | vj | - | - | - | - | - |
 
-| 17 | Sämling Gazdasági Továbbképző Kft. | Közép-Magyarország | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | vj | - | - |
+| 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## vj – a megjelölt régióban az adott szakképesítés vonatkozásában vizsgaszervezésre jogosult.
 
