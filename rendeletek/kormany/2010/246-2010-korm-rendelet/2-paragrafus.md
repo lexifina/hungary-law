@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az Európai Unió és tagállamai, valamint a Norvég Királyság közötti, a műholdas navigációról szóló együttműködési megállapodás (a továbbiakban: a Megállapodás) kötelező hatályának elismerésére.
