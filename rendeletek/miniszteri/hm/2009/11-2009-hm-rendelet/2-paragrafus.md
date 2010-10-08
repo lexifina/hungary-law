@@ -2,7 +2,7 @@
 
 a) magasabb parancsnok, vezető (a továbbiakban együtt: magasabb parancsnok):
 
-aa) a HM gazdasági feladatokért felelős szakállamtitkára: a Honvéd Vezérkar kivételével a HM szervek, a HM Tábori Lelkészi Szolgálat, a HM szervezetek, a Zrínyi Miklós Nemzetvédelmi Egyetem, valamint a HM Állami Egészségügyi Központ tekintetében,
+aa)[^1] a HM gazdasági feladatokért felelős helyettes államtitkára: a Honvéd Vezérkar kivételével a HM szervek, a HM Tábori Lelkészi Szolgálat, a HM szervezetek, a Zrínyi Miklós Nemzetvédelmi Egyetem, valamint a HM Állami Egészségügyi Központ tekintetében,
 
 ab) a HM Honvéd Vezérkar főnöke (a továbbiakban: HM HVKF): a Honvéd Vezérkar, a HM HVKF közvetlen alárendeltségébe tartozó szervezetek, valamint a Magyar Honvédség katonai szervezetei tekintetében,
 
@@ -23,3 +23,5 @@ f) pénzügyi és számviteli szerv:
 fa) a saját pénzügyi és számviteli szervezeti elemmel rendelkező honvédelmi szervezet esetében a szervezeti elem,
 
 fb) a saját pénzügyi és számviteli szervezeti elemmel nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet állományából kikülönített szervezeti elem.
+
+[^1]: A 2. § a) pont aa) alpontja a 15/2010. (X. 5.) HM rendelet 3. §-a szerint módosított szöveg.

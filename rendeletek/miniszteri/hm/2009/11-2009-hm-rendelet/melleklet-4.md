@@ -12,8 +12,6 @@
 
 ## Kérelem indokolása:
 
-## Magasabb parancsnoki illetményelőleg kérelmezése esetén az előleg felvétele miatt keletkező adó- és járulékkötelezettségről a tájékoztatást megkaptam.
-
 ## ..................., 20.... év ....................... hó ....... nap.
 
 ## ...............................................
