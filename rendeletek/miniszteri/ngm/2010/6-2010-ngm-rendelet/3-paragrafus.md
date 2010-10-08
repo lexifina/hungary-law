@@ -1,1 +1,0 @@
-## 2. § Hatályát veszti a pénzügyminiszter hatáskörébe tartozó szakképesítések szakmai vizsgáinak szervezésére feljogosított intézményekről szóló 43/2008. (XII. 31.) PM rendelet 1. számú mellékletében foglalt táblázat 28. sorszámú sora, valamint 2. számú mellékletében foglalt táblázat 17. sorszámú sora.
