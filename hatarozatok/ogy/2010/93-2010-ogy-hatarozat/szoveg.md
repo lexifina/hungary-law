@@ -1,0 +1,1 @@
+Az Országgyűlés az Európai Uniónak a szomáliai biztonsági erők kiképzésére irányuló missziójához („EUTM Somalia”) történő magyar katonai hozzájárulásról szóló 1100/2010. (IV. 28.) Korm. határozatban foglalt döntésről szóló beszámolót elfogadja.
