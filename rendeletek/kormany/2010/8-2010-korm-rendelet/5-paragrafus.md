@@ -32,7 +32,7 @@ a) a gépbeszerzések,
 
 b) a megelőző munkálatok,
 
-c) a fejlesztések,
+c)[^11] a fejlesztések, a 3. § (10) bekezdésben foglaltak kivételével,
 
 d) a rovar- és kártevőirtás költségei,
 
@@ -49,3 +49,5 @@ e) a folyó jellegű működési kiadások.
 (11) Az önkormányzatnak, többcélú kistérségi társulásnak a 7. § (4) bekezdés szerinti elszámolással egyidejűleg kell igazolnia a biztosítási szerződés megkötését az Igazgatóság felé. Ezt követően az önkormányzat köteles valamennyi szerződéssel kapcsolatos változásról tájékoztatni az Igazgatóságot. Az Igazgatóság jogosult a szerződés meglétét évente ellenőrizni. Amennyiben nem történik biztosítási szerződéskötés, vagy a biztosítás négy éven belül az önkormányzat, többcélú kistérségi társulás felmondásából, vagy a díj nem fizetéséből megszűnik, akkor a támogatást vissza kell fizetni a költségvetés javára.
 
 (12) A (10)–(11) bekezdésben foglalt feltétel alól mentesül az önkormányzat, többcélú kistérségi társulás, ha az adott ingatlanra nem köthető biztosítás. Ezt a tényt az önkormányzat, többcélú kistérségi társulás legalább három, országos biztosítótársaság nyilatkozatával igazolja az Igazgatóság felé.
+
+[^11]: Az 5. § (6) bekezdés c) pontja a 243/2010. (X. 5.) Korm. rendelet 3. §-ával megállapított szöveg.

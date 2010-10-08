@@ -42,6 +42,6 @@
 
 | ............................................... ........................................................................ polgármester/elnök (kör)jegyző/munkaszervezet vezető |
 
-2. melléklet a 8/2010. (I. 28.) Korm. rendelethez[^14]
+2. melléklet a 8/2010. (I. 28.) Korm. rendelethez[^17]
 
-[^14]: A 2. melléklet a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg. [A 2. melléklet címében a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdésével elrendelt módosítás, amely szerint az „az OKF” szövegrész helyébe „a Védelmi Igazgatóság” szöveg lép, nem vezethető át.]
+[^17]: A 2. melléklet a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg. [A 2. melléklet címében a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdésével elrendelt módosítás, amely szerint az „az OKF” szövegrész helyébe „a Védelmi Igazgatóság” szöveg lép, valamint a 2. mellékletben a 243/2010. (X. 5.) Korm. rendelet 7. § (2) bekezdésével elrendelt módosítás, amely szerint az „a Védelmi Igazgatóság” szövegrész helyébe „a Katasztrófavédelmi Igazgatóság” szöveg lép, nem vezethető át.]

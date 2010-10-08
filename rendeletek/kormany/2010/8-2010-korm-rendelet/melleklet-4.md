@@ -22,7 +22,7 @@
 
 | P. H. ...................................... | P. H. ...................................... |
 
-| Megyei Katasztrófavédelmi Igazgatóság részéről: |  | Megyei Környezetvédelmi és Vízügyi Igazgatóság részéről: |  |
+| Katasztrófavédelmi Igazgatóság részéről: |  | Megyei Környezetvédelmi és Vízügyi Igazgatóság részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 

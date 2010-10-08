@@ -1,8 +1,8 @@
 ## A támogatás igénylése
 
-4. § (1)[^3] Az önkormányzat, illetve a többcélú kistérségi társulás az 5. melléklet szerinti adatlapon rögzített támogatási kérelmét – a (3) bekezdés szerinti kötelező mellékletek becsatolásával – a 3. § (4) bekezdése szerinti bejelentést követő 22 munkanapon belül köteles benyújtani papír alapon egy eredeti és egy másolati példányban a Magyar Államkincstár területileg illetékes szervének (a továbbiakban: Igazgatóság), továbbá egy másolati példányban a Kormány általános hatáskörű területi államigazgatási szervének. A benyújtási határidő meghosszabbítására nincs lehetőség, annak elmulasztása jogvesztő.
+4. § (1)[^6] Az önkormányzat, illetve a többcélú kistérségi társulás az 5. melléklet szerinti adatlapon rögzített támogatási kérelmét – a (3) bekezdés szerinti kötelező mellékletek becsatolásával – a 3. § (4) bekezdése szerinti bejelentést követő 22 munkanapon belül köteles benyújtani papír alapon egy eredeti és három másolati példányban a Magyar Államkincstár területileg illetékes szervének (a továbbiakban: Igazgatóság), továbbá egy másolati példányban a Kormány általános hatáskörű területi államigazgatási szervének. A benyújtási határidő meghosszabbítására nincs lehetőség, annak elmulasztása jogvesztő.
 
-(2)[^4] A kérelemben meg kell határozni a védekezés, illetve helyreállítás kezdési és befejezési határidejét. Az Igazgatóság megvizsgálja a kérelmet, és hiányosság észlelése esetén az Áht. 64/B. § (3) bekezdése alapján az önkormányzatot, többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított 5 munkanapon belül – elektronikusan és papír alapon is – gondoskodni kell az Igazgatóság és a Kormány általános hatáskörű területi államigazgatási szerve felé. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn belül nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja, és erről tájékoztatja a minisztert és a kérelmet benyújtót. Az Igazgatóság a pályázatokat papír alapon egy eredeti példányban részletes véleményének egyidejű csatolásával küldi meg a minisztérium részére.
+(2)[^7] A kérelemben meg kell határozni a védekezés, illetve helyreállítás kezdési és befejezési határidejét. Az Igazgatóság megvizsgálja a kérelmet, és hiányosság észlelése esetén az Áht. 64/B. § (3) bekezdése alapján az önkormányzatot, többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított 5 munkanapon belül – elektronikusan és papír alapon is – gondoskodni kell az Igazgatóság és a Kormány általános hatáskörű területi államigazgatási szerve felé. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn belül nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja, és erről tájékoztatja a minisztert és a kérelmet benyújtót. Az Igazgatóság a pályázatokat papír alapon egy eredeti és két másolati példányban részletes véleményének egyidejű csatolásával küldi meg a miniszter részére.
 
 (3) A támogatási kérelem kötelező mellékletei:
 
@@ -26,7 +26,9 @@ cb) más – a tulajdonában lévő – épületben ezt a feladatát nem tudja e
 
 cc) saját erejéből – részben vagy egészében – a vis maior helyzetet nem tudja megoldani,
 
-cd) vállalja a károsodott ingatlanra – az 5. § (10) bekezdése szerinti – értékkövető biztosítás megkötését;
+cd) vállalja a károsodott ingatlanra – az 5. § (10) bekezdése szerinti – értékkövető biztosítás megkötését,
+
+ce)[^8] vállalja a károsodott ingatlannak a költséghatékonyság és a megvalósíthatóság szempontjaira tekintettel történő helyreállítását;
 
 d) a biztosítással kapcsolatos iratok:
 
@@ -40,7 +42,7 @@ e) a rendkívüli időjárás által közvetlenül okozott károk esetében az O
 
 f) a bejelentett védekezési eseményekről, károkról készített fotódokumentáció;
 
-g)[^5] a Védelmi Igazgatóság tájékoztatója, illetve helyszíni ellenőrzés jegyzőkönyvét tartalmazó 2. melléklet;
+g)[^9] a Katasztrófavédelmi Igazgatóság tájékoztatója, illetve helyszíni ellenőrzés jegyzőkönyvét tartalmazó 2. melléklet;
 
 h) az előzetes helyszíni vizsgálat jegyzőkönyvét tartalmazó 3. melléklet;
 
@@ -56,9 +58,10 @@ m) a miniszter által a kérelmek elbírálása során egyedileg meghatározott,
 
 (4) A (3) bekezdés b) pontja szerinti szakértőnek függetlennek kell lennie a kérelmet benyújtó önkormányzattól, többcélú kistérségi társulástól és a helyreállítás későbbi kivitelezőjétől egyaránt.
 
-(5)[^6] Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b), ca), cb), cd), d), e) és i) pontjában megjelölt dokumentumok csatolása nem kötelező.
+(5)[^10] Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b), ca), cb), cd), ce), d), e) és i) pontjában megjelölt dokumentumok csatolása nem kötelező.
 
-[^3]: A 4. § (1) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^4]: A 4. § (2) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^5]: A 4. § (3) bekezdés g) pontja a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
-[^6]: A 4. § (5) bekezdése a 47/2010. (II. 26.) Korm. rendelet 2. § (6) bekezdése szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdés c) pont ce) alpontját a 243/2010. (X. 5.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 4. § (3) bekezdés g) pontja a 243/2010. (X. 5.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 4. § (5) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

@@ -32,7 +32,7 @@
 
 | adatok forintban |
 
-| Sor- szám | Vis maior esemény megnevezése (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi létesítmény, közmű és műtárgyai, pince- partfal stb.) | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alapterület (m2, fm) | A szakértői nyilatkozat szerinti megvaló- sítandó munkafeladat: | Mennyiség | Egységár | Nettó | Bruttó | Számlával eddig alátámasztva összesen bruttó | Számla sorszáma | Állam- igazgatási Hivatal észrevétele a szakértői nyilatkozat alapján |
+| Sor- szám | Vis maior esemény megnevezése (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi létesítmény, közmű és műtárgyai, pince- partfal stb.) | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alapterület (m2, fm) | A szakértői nyilatkozat szerinti megvaló- sítandó munkafeladat: | Mennyiség | Egységár | Nettó | Bruttó | Számlával eddig alátámasztva összesen bruttó | Számla sorszáma | A Kormány általános hatáskörű területi állam- igazgatási szerve észrevétele a szakértői nyilatkozat alapján |
 
 | 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
