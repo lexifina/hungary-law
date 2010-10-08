@@ -24,8 +24,8 @@ b) a tulajdonában lévő lakás lebontását a települési önkormányzat jegy
 
 c) lakása az igénylés benyújtásától számított két évnél korábban öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába, és a haszonélvező a lakásban lakik.
 
-(3)[^15] Az (1) bekezdés d) pontját nem kell alkalmazni, ha az igénylő a szolgálat felső korhatárát 5 éven belül eléri, illetve szolgálati (baleseti, rokkantsági) nyugállományba helyezése folyamatban van feltéve, hogy a munkáltatói kölcsön felhasználásával a végleges letelepedéséhez szükséges lakásigényét kívánja megoldani.
+(3)[^16] Az (1) bekezdés d) pontját nem kell alkalmazni, ha az igénylő a szolgálat felső korhatárát 5 éven belül eléri, illetve szolgálati (baleseti, rokkantsági) nyugállományba helyezése folyamatban van feltéve, hogy a munkáltatói kölcsön felhasználásával a végleges letelepedéséhez szükséges lakásigényét kívánja megoldani.
 
 (4) Ha a jogosult munkáltatói kölcsönre vonatkozó igénylésének elbírálására vagy a kölcsön összegének folyósítására a nyugállományba helyezés megtörténte után kerül sor, az egyéb feltételek megléte esetén az igényt érdemben el kell bírálni, és intézkedni kell a kölcsönnek a jogosult részére történő folyósítására.
 
-[^15]: A 194. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 15. pontja szerint módosított szöveg.
+[^16]: A 194. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 15. pontja szerint módosított szöveg.

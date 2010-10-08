@@ -1,4 +1,4 @@
-199. §[^16] (1) A lakáscélú támogatás iránt benyújtott kérelmeket a területi lakásgazdálkodási szerv lakhatástámogatási egysége a beérkezést követő 15 napon belül nyilvántartásba veszi, és azokat az igénylőket, akiknek a kérelme nem szorul hiánypótlásra, a beérkezés sorrendjében a (2)–(3) bekezdés szerinti kategóriákba sorolja.
+199. §[^17] (1) A lakáscélú támogatás iránt benyújtott kérelmeket a területi lakásgazdálkodási szerv lakhatástámogatási egysége a beérkezést követő 15 napon belül nyilvántartásba veszi, és azokat az igénylőket, akiknek a kérelme nem szorul hiánypótlásra, a beérkezés sorrendjében a (2)–(3) bekezdés szerinti kategóriákba sorolja.
 
 (2) I. kategóriába kell sorolni azt, aki
 
@@ -24,4 +24,4 @@ a szolgálati (munka-) helye vonzáskörzetében saját tulajdonú lakással nem
 
 (9) Amennyiben a kérelmező a hiánypótlási kötelezettségét teljesítette, az igénylés a teljesítés időpontjával sorolható a (2)–(3) bekezdés szerinti kategóriába. Amennyiben a hiánypótlásra nyitva álló határidő eredménytelenül telt el, az igénylést el kell utasítani.
 
-[^16]: A 199. § a 240. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^17]: A 199. § a 240. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.

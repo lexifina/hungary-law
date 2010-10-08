@@ -36,10 +36,12 @@ d) a kölcsön megfizetésével késedelembe esik, és a felszólításban megje
 
 e) a lakáscélú pénzintézeti kölcsönből fennálló tartozás csökkentéséhez, kiegyenlítéséhez nyújtott munkáltatói kölcsön felhasználását a támogatási megállapodás megkötésétől számított három hónapon belül pénzintézeti igazolás bemutatásával nem igazolja,
 
-f) lakásvásárlás esetén a támogatási szerződés megkötésétől számított három hónapon belül, lakásépítés esetén a használatbavételi engedély megküldésével egyidejűleg nem igazolja, hogy a támogatással megszerzett lakóingatlan vonatkozásában a külön jogszabályban foglalt lakcím-bejelentési kötelezettségét teljesítette, és nem igazolja azt, hogy az attól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz vagy az arra történő hétvégi hazautazáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül,
+f)[^18] lakásvásárlás esetén a támogatási szerződés megkötésétől számított három hónapon belül, lakásépítés esetén a használatbavételi engedély megküldésével egyidejűleg nem igazolja, hogy a támogatással megszerzett lakóingatlan vonatkozásában a külön jogszabályban foglalt lakcím-bejelentési kötelezettségét teljesítette, és nem igazolja azt, hogy az attól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz vagy az arra történő hazautazáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül,
 
 g) egyéb, jogszabályban vagy a lakáscélú támogatási megállapodásban előírt lényeges kötelezettségének nem tesz eleget.
 
 (3) A (2) bekezdés c) pontjában megállapított határidő az eltelte előtt benyújtott kérelemre – indokolt esetben – építés esetén egy évvel, vásárlás esetén három hónappal hosszabbítható meg.
 
 (4) A kölcsönt írásban kell felmondani és erről a folyósító pénzintézetet is értesíteni kell.
+
+[^18]: A 201. § (2) bekezdés f) pontja a 15/2010. (X. 5.) HM rendelet 6. § (2) bekezdése szerint módosított szöveg.
