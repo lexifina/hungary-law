@@ -1,4 +1,4 @@
-## 21–22. §[^52]
+## 21–22. §[^53]
 
 ## A NEM KÖLTSÉGVETÉSI SZERVI FORMÁBAN MŰKÖDŐ KEZELŐ SZERVEKRE VONATKOZÓ SAJÁTOS SZABÁLYOK
 
@@ -8,4 +8,4 @@
 
 (3) A kezelő szervnek a kezelt központi és a fejezeti kezelésű előirányzat, elkülönített állami pénzalap előirányzatai tekintetében a gazdálkodással, a könyvvezetéssel és az adatszolgáltatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége, illetve egységei vezetőjére a 17–18. §, alkalmazottaira a 19. § rendelkezéseit megfelelően alkalmazni kell.
 
-[^52]: A 21–22. §-t és a 21. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^53]: A 21–22. §-t és a 21. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

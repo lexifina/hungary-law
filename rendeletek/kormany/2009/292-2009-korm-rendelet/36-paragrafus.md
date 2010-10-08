@@ -1,6 +1,6 @@
 36. § (1) A helyi önkormányzat költségvetési rendelettervezete az alábbi szerkezetben készül:
 
-a)[^77] az önkormányzat és a költségvetési szervek bevételei forrásonként az államháztartásért felelős miniszternek az elemi költségvetés összeállítására vonatkozó tájékoztatójában rögzített főbb jogcím-csoportonkénti részletezettségben,
+a)[^78] az önkormányzat és a költségvetési szervek bevételei forrásonként az államháztartásért felelős miniszternek az elemi költségvetés összeállítására vonatkozó tájékoztatójában rögzített főbb jogcím-csoportonkénti részletezettségben,
 
 b) az önkormányzat és a költségvetési szervek működési, fenntartási kiadási előirányzatai költségvetési szervenként, kiemelt előirányzatonként részletezve,
 
@@ -52,9 +52,9 @@ e) egyéb nyújtott kedvezmény vagy kölcsön elengedésének összege.
 
 (5) A polgármester a képviselő-testület elé terjeszti a bizottságok által megtárgyalt, legalább a pénzügyi bizottság írásos véleményét és a könyvvizsgálatról készített írásos jelentést is csatoltan tartalmazó rendelettervezetet. A képviselő-testület ennek alapján megalkotja a költségvetési önkormányzati rendeletet.
 
-(6)[^78] A helyi önkormányzat képviselő-testülete a költségvetési rendeletben az (1) bekezdés szerinti formában önkormányzati szinten összevontan és külön-külön hagyja jóvá az önkormányzati hivatal, valamint az irányítása alá tartozó egyéb költségvetési szervek költségvetését, változatlanul beépíti a helyi kisebbségi önkormányzat költségvetési határozatát, továbbá dönt mindazoknak a lakossági és közösségi szolgáltatásoknak a támogatásáról, amelyeket nem a helyi önkormányzati, helyi kisebbségi önkormányzati költségvetési szervek útján végeztet. Ezen túlmenően más előirányzatokról is hozhat döntést.
+(6)[^79] A helyi önkormányzat képviselő-testülete a költségvetési rendeletben az (1) bekezdés szerinti formában önkormányzati szinten összevontan és külön-külön hagyja jóvá az önkormányzati hivatal, valamint az irányítása alá tartozó egyéb költségvetési szervek költségvetését, változatlanul beépíti a helyi kisebbségi önkormányzat költségvetési határozatát, továbbá dönt mindazoknak a lakossági és közösségi szolgáltatásoknak a támogatásáról, amelyeket nem a helyi önkormányzati, helyi kisebbségi önkormányzati költségvetési szervek útján végeztet. Ezen túlmenően más előirányzatokról is hozhat döntést.
 
 (7) Amennyiben a helyi önkormányzat, illetve a többcélú kistérségi társulás megállapodást köt más helyi önkormányzattal vagy többcélú kistérségi társulással költségvetési szerve gazdálkodási, műszaki feladatainak ellátására, a költségvetési szerv költségvetése az irányítását végző önkormányzat, illetve többcélú kistérségi társulás költségvetésébe épül be.
 
-[^77]: A 36. § (1) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^78]: A 36. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^78]: A 36. § (1) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^79]: A 36. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

@@ -30,7 +30,7 @@ k) az irányító szerv által a 16. § (1)–(3) bekezdésében foglaltak szeri
 
 a) a gazdálkodással – így különösen a kötelezettségvállalás, ellenjegyzés, a szakmai teljesítés igazolása, az érvényesítés, utalványozás gyakorlásának módjával, eljárási és dokumentációs részletszabályaival, valamint az ezeket végző személyek kijelölésének rendjével, és az adatszolgáltatási feladatok teljesítésével kapcsolatos belső előírásokat, feltételeket,
 
-b) a beszerzések lebonyolításával kapcsolatos eljárásrendet,
+b) a beszerzések lebonyolításával kapcsolatos eljárásrendet,[^52]
 
 c) a belföldi és külföldi kiküldetések elrendelésével és lebonyolításával, elszámolásával kapcsolatos kérdéseket,
 
@@ -59,3 +59,4 @@ i) a közérdekű adatok megismerésére irányuló kérelmek intézésének, to
 [^49]: A 20. § (2) bekezdés e) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
 [^50]: A 20. § (2) bekezdés f) pontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
 [^51]: A 20. § (2) bekezdés g) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^52]: Lásd a 19/2010. (XII. 10.) BM utasítást.

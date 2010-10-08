@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-292-20-
 | 2010-05-14 | 2009-292-20-22.4 | 169/2010. (V. 11.) Korm. rendelet |
 | 2010-08-15 | 2009-292-20-22.5 | 226/2010. (VIII. 13.) Korm. rendelet |
 | 2010-10-01 | 2009-292-20-22.6 | 241/2010. (IX. 24.) Korm. rendelet |
+| 2010-10-08 | 2009-292-20-22.7 | 19/2010. (XII. 10.) BM utasítás |

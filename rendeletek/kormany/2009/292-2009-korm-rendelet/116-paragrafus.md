@@ -1,4 +1,4 @@
-## 115. §[^173]
+## 115. §[^175]
 
 ## A testületi döntés sajátos szabályai
 
@@ -8,4 +8,4 @@
 
 (3) A Testület ülésein elhangzottakról és a meghozott támogatási döntésekről emlékeztetőt kell készíteni.
 
-[^173]: A 115. §-t a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^175]: A 115. §-t a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

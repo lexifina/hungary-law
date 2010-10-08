@@ -1,10 +1,10 @@
 ## A helyi önkormányzatok, helyi kisebbségi önkormányzatok, települési önkormányzatok többcélú kistérségi társulásainak valamint a helyi önkormányzatok jogi személyiségű társulásainak elemi költségvetése
 
-51. § (1)[^87] Az önkormányzati hivatal által készített elemi költségvetés tartalmazza a helyi önkormányzat költségvetési rendeletének e rendelet 36. § (1) bekezdés c)–e) pontjában meghatározott, a helyi önkormányzat költségvetési szervein kívül ellátott feladatainak, továbbá a hozzá kijelölt önállóan működő költségvetési szervek kiadási, bevételi előirányzatait is. A körjegyzőségbe társult, illetve a társult képviselő-testületbe tartozó önkormányzatnak e feladataira külön elemi költségvetés készül.
+51. § (1)[^88] Az önkormányzati hivatal által készített elemi költségvetés tartalmazza a helyi önkormányzat költségvetési rendeletének e rendelet 36. § (1) bekezdés c)–e) pontjában meghatározott, a helyi önkormányzat költségvetési szervein kívül ellátott feladatainak, továbbá a hozzá kijelölt önállóan működő költségvetési szervek kiadási, bevételi előirányzatait is. A körjegyzőségbe társult, illetve a társult képviselő-testületbe tartozó önkormányzatnak e feladataira külön elemi költségvetés készül.
 
 (2) A helyi önkormányzat irányítása alá tartozó önállóan működő és gazdálkodó költségvetési szerv önállóan készíti el a 46. § (1) és (3) bekezdése szerinti adatokat tartalmazó elemi költségvetését.
 
-(3)[^88] A helyi önkormányzat által irányított önállóan működő költségvetési szerv költségvetésének előirányzatait a helyi önkormányzat által a 16. § (1)–(3) bekezdésében foglaltak alapján a pénzügyi, gazdasági feladatai ellátására kijelölt költségvetési szerv elemi költségvetése tartalmazza. Amennyiben az önállóan működő költségvetési szerv pénzügyi, gazdasági feladatait más irányító szerv alá tartozó önállóan működő és gazdálkodó költségvetési szerv látja el, költségvetése az irányító helyi önkormányzat elemi költségvetésében szerepel.
+(3)[^89] A helyi önkormányzat által irányított önállóan működő költségvetési szerv költségvetésének előirányzatait a helyi önkormányzat által a 16. § (1)–(3) bekezdésében foglaltak alapján a pénzügyi, gazdasági feladatai ellátására kijelölt költségvetési szerv elemi költségvetése tartalmazza. Amennyiben az önállóan működő költségvetési szerv pénzügyi, gazdasági feladatait más irányító szerv alá tartozó önállóan működő és gazdálkodó költségvetési szerv látja el, költségvetése az irányító helyi önkormányzat elemi költségvetésében szerepel.
 
 (4) Az elemi költségvetésben a helyi önkormányzat a helyi kisebbségi önkormányzat elemi költségvetéséről a saját adataival összevontan, és külön helyi kisebbségi önkormányzatonként is információt ad.
 
@@ -16,5 +16,5 @@
 
 (8) A helyi önkormányzatok jogi személyiségű társulása, valamint az irányítása alá tartozó önállóan működő és gazdálkodó költségvetési szerv elemi költségvetését az (1)–(3) bekezdés rendelkezéseinek megfelelő alkalmazásával kell elkészíteni azzal, hogy a megállapodásban megjelölt vagy a társulásban megvalósuló feladat ellátását végző költségvetési szerv székhelye szerinti önkormányzat költségvetési szerveire meghatározott módon kell az elemi költségvetést az Igazgatóság részére megküldeni.
 
-[^87]: Az 51. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^88]: Az 51. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^88]: Az 51. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^89]: Az 51. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 20. §-ával megállapított szöveg.

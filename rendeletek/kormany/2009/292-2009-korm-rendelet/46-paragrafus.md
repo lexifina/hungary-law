@@ -1,10 +1,10 @@
-## 42–45. §[^80]
+## 42–45. §[^81]
 
 ## AZ ELEMI KÖLTSÉGVETÉS
 
 ## A központi költségvetési szerv elemi költségvetése
 
-46. §[^81] (1) A központi költségvetési szervek elemi költségvetést készítenek. Az önállóan működő és az önállóan működő és gazdálkodó központi költségvetési szerv elemi költségvetése magában foglalja
+46. §[^82] (1) A központi költségvetési szervek elemi költségvetést készítenek. Az önállóan működő és az önállóan működő és gazdálkodó központi költségvetési szerv elemi költségvetése magában foglalja
 
 a) a kiadásokat, bevételeket és támogatásokat kiemelt előirányzatokon belül tételenként és szakfeladatrend szerinti tevékenységenként részletezve,
 
@@ -20,5 +20,5 @@ c) a szakfeladatrend szerinti mutatók állományát és értékeit.
 
 (5) A központi költségvetési szerv az elemi költségvetést – a (3) bekezdés szerinti esetben költségvetési szervenként külön, valamint az összevont elemi költségvetést is – a fejezetet irányító szervnek – a gazdasági szervezettel nem rendelkező költségvetési szerv az e rendeletben meghatározott gazdálkodási feladatait ellátó önállóan működő és gazdálkodó költségvetési szerv útján – küldi meg az irányító szerv által meghatározott időpontig. A megküldött elemi költségvetéseket a fejezetet irányító szerv felülvizsgálja és dönt azok jóváhagyásáról. A jóváhagyott elemi költségvetéseket a fejezetet irányító szerv feldolgozza és – ha a költségvetési törvény másként nem rendelkezik – a tárgyév február 28-áig – év közben alapított költségvetési szerv esetén a kincstári költségvetés megállapítását követő negyvenöt napon belül – az államháztartásért felelős miniszter rendeletében foglaltak szerint a Kincstárhoz nyújtja be.
 
-[^80]: A 42–45. §-t és a 42. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
-[^81]: A 46. § a 226/2010. (VIII. 13.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^81]: A 42–45. §-t és a 42. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^82]: A 46. § a 226/2010. (VIII. 13.) Korm. rendelet 16. §-ával megállapított szöveg.

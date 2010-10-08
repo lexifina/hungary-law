@@ -4,7 +4,7 @@
 
 ## A KÖTELEZETTSÉGVÁLLALÁS
 
-72. § (1)[^115] Kötelezettségvállalásnak minősül az a foglalkoztatatásra irányuló jogviszony létesítéséről, szerződés (megállapodás) megkötéséről, támogatás biztosításáról, illetve más, pénzben kifejezhető értékű szolgáltatás teljesítésére irányuló kötelezettség vállalásáról szóló, szabályszerűen megtett jognyilatkozat, amelyet
+72. § (1)[^117] Kötelezettségvállalásnak minősül az a foglalkoztatatásra irányuló jogviszony létesítéséről, szerződés (megállapodás) megkötéséről, támogatás biztosításáról, illetve más, pénzben kifejezhető értékű szolgáltatás teljesítésére irányuló kötelezettség vállalásáról szóló, szabályszerűen megtett jognyilatkozat, amelyet
 
 a) a költségvetési szerv, a helyi önkormányzat, a helyi, illetve az országos kisebbségi önkormányzat, a többcélú kistérségi társulás, vagy a jogi személyiségű társulás a költségvetése előirányzatainak terhére,
 
@@ -14,7 +14,7 @@ vállal, ideértve az áru vagy szolgáltatás megrendeléséről elküldött é
 
 (2) A közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) és a felhatalmazása alapján kiadott kormányrendeletek szerint – a közbeszerzés megkezdéseként a közbeszerzési eljárást megindító – feladott hirdetmény, megküldött részvételi, ajánlattételi felhívás, továbbá a pályázati kiírás, az azonos célú előirányzatok esetében a meghirdetett támogatási konstrukció dokumentumai a kötelezettségvállalást előzetesen, feltételesen tanúsítják. Ezen intézkedések kiadására – ideértve az annak vállalására és ellenjegyzésére vonatkozó előírásokat is – a kötelezettségvállalás általános szabályait kell alkalmazni azzal, hogy a lekötött keretet fel kell szabadítani, amennyiben az intézkedést visszavonják.
 
-(3)[^116] Kötelezettségvállalásra – jogszabályban meghatározott kivétellel –
+(3)[^118] Kötelezettségvállalásra – jogszabályban meghatározott kivétellel –
 
 a) a költségvetési szerv,
 
@@ -24,25 +24,25 @@ c) a helyi önkormányzat, a települési önkormányzatok többcélú kistérs�
 
 (az a)–c) pont e fejezet alkalmazásában a továbbiakban együtt: kötelezettséget vállaló szerv) nevében az a)–b) pont szerinti esetben a szerv vezetője, vagy az általa írásban felhatalmazott, a (4)–(7) bekezdésben foglaltak kivételével a kötelezettséget vállaló szerv alkalmazásában álló személy, a c) pont szerinti esetben a (8)–(12) bekezdésben meghatározott személy (e fejezet alkalmazásában a továbbiakban: kötelezettségvállaló) írásban jogosult.
 
-(4)[^117] A (3) bekezdés alkalmazásában a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény 18. § (1) bekezdés b)–c) pontjában és (3) bekezdésében meghatározott szervek vezetőit is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
+(4)[^119] A (3) bekezdés alkalmazásában a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény 18. § (1) bekezdés b)–c) pontjában és (3) bekezdésében meghatározott szervek vezetőit is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
 
-(5)[^118] A (3) bekezdés alkalmazásában az Adó- és Pénzügyi Ellenőrzési Hivatal Informatikai Intézetének, Oktatási Intézetének, regionális főigazgatóságainak és a Kiemelt Ügyek és Adózók Főigazgatóságának vezetőjét is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
+(5)[^120] A (3) bekezdés alkalmazásában az Adó- és Pénzügyi Ellenőrzési Hivatal Informatikai Intézetének, Oktatási Intézetének, regionális főigazgatóságainak és a Kiemelt Ügyek és Adózók Főigazgatóságának vezetőjét is a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
 
-(6)[^119] Az Országgyűlés által megválasztott személyek a tisztségük ellátásával összefüggő feladatok tekintetében, az 1990. évi LVI. törvény 5. § (2) bekezdésében megjelölt személyek az ott meghatározott keret tekintetében jogosultak kötelezettségvállalásra. A külön törvény alapján biztosított működési keret felett az országgyűlési képviselőcsoportok rendelkezési jogosultsággal bírnak, az országgyűlési képviselőcsoportok vezetőit a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
+(6)[^121] Az Országgyűlés által megválasztott személyek a tisztségük ellátásával összefüggő feladatok tekintetében, az 1990. évi LVI. törvény 5. § (2) bekezdésében megjelölt személyek az ott meghatározott keret tekintetében jogosultak kötelezettségvállalásra. A külön törvény alapján biztosított működési keret felett az országgyűlési képviselőcsoportok rendelkezési jogosultsággal bírnak, az országgyűlési képviselőcsoportok vezetőit a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalható kötelezettségek tekintetében.
 
-(7)[^120] Az európai uniós forrásból finanszírozott normatív jellegű (mérlegelést nem igénylő) támogatások esetében a kötelezettséget vállaló szerv vezetője a közreműködő szervezet alkalmazásában álló személyt is felhatalmazhat írásban a kötelezettség vállalására. A felhatalmazásban a kötelezettségvállalás összeghatárát keretjelleggel meg kell határozni.
+(7)[^122] Az európai uniós forrásból finanszírozott normatív jellegű (mérlegelést nem igénylő) támogatások esetében a kötelezettséget vállaló szerv vezetője a közreműködő szervezet alkalmazásában álló személyt is felhatalmazhat írásban a kötelezettség vállalására. A felhatalmazásban a kötelezettségvállalás összeghatárát keretjelleggel meg kell határozni.
 
-(8)[^121] A helyi önkormányzat nevében az önkormányzati hivatal költségvetési előirányzatai terhére – a körjegyzőség kivételével és a (9) bekezdésben meghatározott kivétellel – a polgármester vagy az általa írásban felhatalmazott személy vállalhat kötelezettséget. A körjegyzőséghez tartozó önkormányzat nevében a polgármester vagy az általa írásban felhatalmazott személy az önkormányzat költségvetésében a költségvetési szervein kívüli előirányzat terhére vállalhat kötelezettséget.
+(8)[^123] A helyi önkormányzat nevében az önkormányzati hivatal költségvetési előirányzatai terhére – a körjegyzőség kivételével és a (9) bekezdésben meghatározott kivétellel – a polgármester vagy az általa írásban felhatalmazott személy vállalhat kötelezettséget. A körjegyzőséghez tartozó önkormányzat nevében a polgármester vagy az általa írásban felhatalmazott személy az önkormányzat költségvetésében a költségvetési szervein kívüli előirányzat terhére vállalhat kötelezettséget.
 
-(9)[^122] Törvény vagy kormányrendelet alapján a jegyző döntési hatáskörébe utalt feladatok előirányzatai, valamint a választási eljárásról szóló 1997. évi C. törvény 2. §-ának hatálya alá tartozó választások helyi, területi előkészítésére, lebonyolítására felhasználandó pénzeszközök felett kötelezettségvállalásra a jegyző jogosult.
+(9)[^124] Törvény vagy kormányrendelet alapján a jegyző döntési hatáskörébe utalt feladatok előirányzatai, valamint a választási eljárásról szóló 1997. évi C. törvény 2. §-ának hatálya alá tartozó választások helyi, területi előkészítésére, lebonyolítására felhasználandó pénzeszközök felett kötelezettségvállalásra a jegyző jogosult.
 
-(10)[^123] A helyi kisebbségi önkormányzat nevében kötelezettséget az Áht. 74/A. §-ában meghatározott személy vállalhat.
+(10)[^125] A helyi kisebbségi önkormányzat nevében kötelezettséget az Áht. 74/A. §-ában meghatározott személy vállalhat.
 
-(11)[^124] A települési önkormányzatok többcélú kistérségi társulása nevében kötelezettséget az Áht. 74/B. §-ában meghatározott személy, a helyi önkormányzatok jogi személyiségű társulásainak nevében kötelezettséget – ide nem értve a társulás irányítása alá tartozó költségvetési szervek előirányzatait – a társulási tanács elnöke vagy az általa írásban felhatalmazott, a megállapodásban megjelölt személy vállalhat.
+(11)[^126] A települési önkormányzatok többcélú kistérségi társulása nevében kötelezettséget az Áht. 74/B. §-ában meghatározott személy, a helyi önkormányzatok jogi személyiségű társulásainak nevében kötelezettséget – ide nem értve a társulás irányítása alá tartozó költségvetési szervek előirányzatait – a társulási tanács elnöke vagy az általa írásban felhatalmazott, a megállapodásban megjelölt személy vállalhat.
 
-(12)[^125] Az országos kisebbségi önkormányzat nevében az önkormányzat elnöke, az országos kisebbségi önkormányzat hivatala nevében – közgyűlési felhatalmazás alapján – a hivatal vezetője vállalhat kötelezettséget. Az országos kisebbségi önkormányzat nevében kötelezettségvállalásra az elnöki és elnökhelyettesi tisztség egyidejű betöltetlensége, vagy tartós akadályoztatásuk esetén az országos kisebbségi önkormányzat szervezeti és működési szabályzatában meghatározottak szerint a közgyűlés összehívására és vezetésére kijelölt testületi tag jogosult.
+(12)[^127] Az országos kisebbségi önkormányzat nevében az önkormányzat elnöke, az országos kisebbségi önkormányzat hivatala nevében – közgyűlési felhatalmazás alapján – a hivatal vezetője vállalhat kötelezettséget. Az országos kisebbségi önkormányzat nevében kötelezettségvállalásra az elnöki és elnökhelyettesi tisztség egyidejű betöltetlensége, vagy tartós akadályoztatásuk esetén az országos kisebbségi önkormányzat szervezeti és működési szabályzatában meghatározottak szerint a közgyűlés összehívására és vezetésére kijelölt testületi tag jogosult.
 
-(13)[^126] Törvény vagy e rendelet eltérő rendelkezése hiányában nem szükséges előzetesen az írásbeli kötelezettségvállalás az olyan kifizetések teljesítéséhez, amelyek
+(13)[^128] Törvény vagy e rendelet eltérő rendelkezése hiányában nem szükséges előzetesen az írásbeli kötelezettségvállalás az olyan kifizetések teljesítéséhez, amelyek
 
 a) gazdasági eseményenként a százezer forintot nem érik el,
 
@@ -50,18 +50,18 @@ b) pénzügyi szolgáltatások igénybevételéhez kapcsolódnak, vagy
 
 c) összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét jogszabály, nemzetközi szervezetben való tagsági viszony, vagy jogerős, illetve fellebbezésre tekintet nélkül végrehajtható bírósági, hatósági döntés teljes körűen meghatározza, így különösen a normatív és normatív jellegű hozzájárulások, nemzetközi kötelezettséggel kapcsolatos hozzájárulások, kártalanítási, kártérítési és megtérítési kötelezettségek, a csőd-, felszámolási és végelszámolási eljáráshoz kapcsolódó regisztrációs díjak, valamint az adományozott díjakhoz, kitüntetésekhez kapcsolódó pénzbeli juttatások esetén.
 
-(14)[^127] A (13) bekezdés szerinti kötelezettségvállalásokra e rendeletnek a kötelezettségvállalások teljesítésére (érvényesítés, utalványozás, az utalvány ellenjegyzése) és nyilvántartására vonatkozó szabályait alkalmazni kell. Az előzetes írásbeli kötelezettségvállalást nem igénylő kifizetések rendjét a kötelezettséget vállaló szerv belső szabályzatában rögzíti.
+(14)[^129] A (13) bekezdés szerinti kötelezettségvállalásokra e rendeletnek a kötelezettségvállalások teljesítésére (érvényesítés, utalványozás, az utalvány ellenjegyzése) és nyilvántartására vonatkozó szabályait alkalmazni kell. Az előzetes írásbeli kötelezettségvállalást nem igénylő kifizetések rendjét a kötelezettséget vállaló szerv belső szabályzatában rögzíti.
 
-[^115]: A 72. § (1) bekezdés záró szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^116]: A 72. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^117]: A 72. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^118]: A 72. § (5) bekezdése a 241/2010. (IX. 24.) Korm. rendelet 19. §-ával megállapított szöveg. A 72. § (5) bekezdését a 249. § (3) bekezdés a) pontja hatályon kívül helyezte 2011. január 1. napjával.
-[^119]: A 72. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^120]: A 72. § (7) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^121]: A 72. § (8) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^122]: A 72. § (9) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^123]: A 72. § (10) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^124]: A 72. § (11) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^125]: A 72. § (12) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^126]: A 72. § (13) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^127]: A 72. § (14) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^117]: A 72. § (1) bekezdés záró szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^118]: A 72. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^119]: A 72. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^120]: A 72. § (5) bekezdése a 241/2010. (IX. 24.) Korm. rendelet 19. §-ával megállapított szöveg. A 72. § (5) bekezdését a 249. § (3) bekezdés a) pontja hatályon kívül helyezte 2011. január 1. napjával.
+[^121]: A 72. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^122]: A 72. § (7) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^123]: A 72. § (8) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^124]: A 72. § (9) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^125]: A 72. § (10) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^126]: A 72. § (11) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^127]: A 72. § (12) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^128]: A 72. § (13) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^129]: A 72. § (14) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 27. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 168. §[^201]
+## 168. §[^203]
 
 ## X. Fejezet
 
@@ -12,4 +12,4 @@
 
 (2) A Kincstár hatósági letétkezelési tevékenységével kapcsolatos pénzeszközök elkülönített kezelésére az MNB-nél vezetett forint- és devizaszámlák szolgálnak.
 
-[^201]: A 168. §-t és az azt megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^203]: A 168. §-t és az azt megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

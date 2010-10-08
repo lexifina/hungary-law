@@ -1,6 +1,6 @@
 ## ELŐIRÁNYZATOK MEGVÁLTOZTATÁSA A KÖZPONTI KÖLTSÉGVETÉSI SZERVNÉL IRÁNYÍTÓ SZERVI HATÁSKÖRBEN
 
-58. §[^95] (1) Ha törvény eltérően nem rendelkezik a központi költségvetési szerv irányító szerve év közben – egyszeri vagy tartós jelleggel –
+58. §[^96] (1) Ha törvény eltérően nem rendelkezik a központi költségvetési szerv irányító szerve év közben – egyszeri vagy tartós jelleggel –
 
 a) a fejezeti kezelésű előirányzatok terhére a fejezet irányítása alá tartozó költségvetési szervek javára, és címen belül a költségvetési szervek között átcsoportosítást hajthat végre,
 
@@ -24,4 +24,4 @@ h) az Áht. 100/B. § (1) bekezdése és e rendelet 59/A. §-a alapján felhaszn
 
 (4) A fejezetet irányító szerv az irányítása alá tartozó költségvetési szerv előirányzatát nem csökkentheti a miniszter által adományozott kitüntetések, elismerések, és az irányító szerv jutalmazási vagy más teljesítményösztönzési célú kifizetései pénzügyi fedezetének biztosítása céljából.
 
-[^95]: Az 58. § a 226/2010. (VIII. 13.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^96]: Az 58. § a 226/2010. (VIII. 13.) Korm. rendelet 22. §-ával megállapított szöveg.

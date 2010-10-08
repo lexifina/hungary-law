@@ -1,8 +1,8 @@
 ## 59. § Az önállóan működő költségvetési szerv előirányzatainak irányító szervi hatáskörbe tartozó változtatását a gazdálkodási feladatainak ellátását végző önállóan működő és gazdálkodó költségvetési szerv vezetője útján jogosult kezdeményezni az irányító szervnél.
 
-## A költségvetési szervek és a fejezeti kezelésű előirányzatok többletbevételének felhasználása[^96]
+## A költségvetési szervek és a fejezeti kezelésű előirányzatok többletbevételének felhasználása[^97]
 
-59/A. §[^97] (1) Az Áht. 100/B. § (1) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában többletbevétel a költségvetési szerv és a fejezeti kezelésű előirányzat működési célú pénzeszközátvételek államháztartáson kívülről tétellel csökkentett intézményi működési bevételek és a beruházási célú pénzeszközátvételek államháztartáson kívülről és a felújítási célú pénzeszközátvételek államháztartáson kívülről tételekkel csökkentett felhalmozási és tőke jellegű bevételek elemi költségvetésben megtervezett eredeti – az 58. § (1) bekezdés d) pontja szerinti esetben a csökkentett módosított – előirányzatának együttes összegén felül pénzügyileg teljesült összeg.
+59/A. §[^98] (1) Az Áht. 100/B. § (1) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában többletbevétel a költségvetési szerv és a fejezeti kezelésű előirányzat működési célú pénzeszközátvételek államháztartáson kívülről tétellel csökkentett intézményi működési bevételek és a beruházási célú pénzeszközátvételek államháztartáson kívülről és a felújítási célú pénzeszközátvételek államháztartáson kívülről tételekkel csökkentett felhalmozási és tőke jellegű bevételek elemi költségvetésben megtervezett eredeti – az 58. § (1) bekezdés d) pontja szerinti esetben a csökkentett módosított – előirányzatának együttes összegén felül pénzügyileg teljesült összeg.
 
 (2) A Kormány irányítása vagy felügyelete alá tartozó fejezetbe sorolt költségvetési szerv és fejezeti kezelésű előirányzat esetén az államháztartásért felelős miniszter engedélyével használható fel a többletbevételnek az eredeti – az 58. § (1) bekezdés d) pontja szerinti esetben a csökkentett módosított – bevételi előirányzat 30%-át, de legalább 50 millió forintot meghaladó része.
 
@@ -14,5 +14,5 @@
 
 (6) Az irányító szerv vagy az államháztartásért felelős miniszter döntéséig a többletbevétellel a költségvetési szerv, fejezeti kezelésű előirányzat bevételi előirányzatait nem lehet módosítani. A felhasználásra nem engedélyezett összeget a döntés közlésétől számított öt napon belül a központi költségvetésnek – önkormányzati költségvetési szerv esetén az irányító szerv által megjelölt számlára – be kell fizetni.
 
-[^96]: Az 59/A. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 23. §-a iktatta be.
-[^97]: Az 59/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 23. §-a iktatta be.
+[^97]: Az 59/A. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 23. §-a iktatta be.
+[^98]: Az 59/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 23. §-a iktatta be.

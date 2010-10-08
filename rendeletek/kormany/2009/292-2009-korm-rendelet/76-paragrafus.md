@@ -8,6 +8,6 @@
 
 (4) Az európai uniós forrásból finanszírozott támogatások esetén a közreműködő szervezet alkalmazásában álló személy is megbízható a szakmai teljesítés igazolására. Az írásban adott megbízásban a szakmai teljesítést igazoló személy feladatait tételesen meg kell határozni.
 
-(5)[^138] A szakmai teljesítés igazolására jogosult személyeket – az adott kötelezettségvállaláshoz, vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – helyi önkormányzat nevében vállalt kötelezettség esetén a jegyző, más kötelezettségvállalás esetén a kötelezettségvállaló írásban jelöli ki.
+(5)[^140] A szakmai teljesítés igazolására jogosult személyeket – az adott kötelezettségvállaláshoz, vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – helyi önkormányzat nevében vállalt kötelezettség esetén a jegyző, más kötelezettségvállalás esetén a kötelezettségvállaló írásban jelöli ki.
 
-[^138]: A 76. § (5) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 30. §-a iktatta be.
+[^140]: A 76. § (5) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 30. §-a iktatta be.
