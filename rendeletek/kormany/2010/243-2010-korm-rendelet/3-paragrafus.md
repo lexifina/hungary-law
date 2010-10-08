@@ -1,0 +1,1 @@
+## „(5) Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b), ca), cb), cd), ce), d), e) és i) pontjában megjelölt dokumentumok csatolása nem kötelező.”
