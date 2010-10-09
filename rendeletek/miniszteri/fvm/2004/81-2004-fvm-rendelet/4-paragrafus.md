@@ -1,9 +1,11 @@
-## 4. § Az e rendelet értelmében elismert termelői csoport alatt bármely a 2. § (2) bekezdésében meghatározott gazdálkodó szervezet értendő, amely a 2. § (2) bekezdésében meghatározott célok megvalósítására alakult, és gazdasági tevékenysége során biztosítani képes:
+## 4. §[^12] Az e rendelet értelmében elismert termelői csoportnak a gazdasági tevékenysége során biztosítania kell:
 
 a) a termelés megszervezését és hozzáigazítását a kereslethez, különösen a minőség és mennyiség tekintetében;
 
 b) a tagok termékeinek tárolásához, áruvá történő előkészítéséhez és értékesítéséhez szükséges technikai hátteret;
 
-c) alkalmas olyan termelői kör összefogására, és termékmennyiség közös értékesítésére, amely elegendő az adott termék piaci ár- és értékesítési feltételeinek kedvező alakítására;
+c) olyan termelői kör összefogását és termékmennyiség közös értékesítését, amely elegendő az adott termék piaci ár- és értékesítési feltételeinek kedvező alakítására;
 
-d) alkalmas korszerű termelési, értékesítés szervezési, szaktanácsadási feladatok ellátására, amely csökkenti a költségeket, és segíti a piaci pozíciók erősödését.
+d) olyan korszerű termelési, értékesítés szervezési, szaktanácsadási feladatok ellátását, amely csökkenti a költségeket és segíti a piaci pozíciók erősödését.
+
+[^12]: A 4. § a 20/2010. (X. 1.) VM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.

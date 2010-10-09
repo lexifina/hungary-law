@@ -12,72 +12,52 @@
 
 ## Megjegyzés: az áruforgalmi tervet tartalmazó táblázatot termékekre és évekre lebontva kell kitölteni!
 
-3. számú melléklet a 81/2004. (V. 4.) FVM rendelethez[^41]
+3. számú melléklet a 81/2004. (V. 4.) FVM rendelethez[^48]
 
-Adatlap
+A termelői csoportok működési programjához csatolt adatlap tartalma
 
-a termelői csoportok elismeréséhez
+1. A kérelmező azonosító adatai és elérhetőségére vonatkozó adatok.
 
-| Név: |  |
+2. Elnök/Ügyvezető neve.
 
-| Gazdasági forma: |  |
+3. Termék, termékcsoport megnevezése.
 
-| Cím: |  |
+4. Az előzetes elismerés dátuma és a határozat ügyiratszáma.
 
-| Elektronikus cím: |  |
+5. A végleges állami elismerés dátuma és a határozat ügyiratszáma.
 
-| Elnök/Ügyvezető neve: |  |
+6. A tárgyévet megelőző év és a tárgyévi tény adatok, valamint a tárgyévet követő évre és a tárgyévet követő második évre vonatkozó terv adatok:
 
-| Telefon és fax elérhetősége: | Tel.: | Fax: |
+6.1. Tagok száma, ebből gazdasági társaság (szövetkezet, Kft., Rt.) (db).
 
-| Az előzetes elismerés dátuma: |  |
+6.2. Részjegytőke, törzstőke (E Ft).
 
-| Termék, termékcsoport: |  |
+6.3. Kft. esetén a legnagyobb üzletrész összege (E Ft).
 
-|  | A tárgyévet megelőző év | A tárgyévi | A tárgyévet követő év | A tárgyévet követő második év |
+6.4. Termelés (felvásárlás) termékenként [termék(ek), mértékegység].
 
-| tény adatok | terv adatok |
+6.5. Feldolgozott termék aránya (%), ebből:
 
-| Tagok száma |  |  |  |  |
+6.5.1. saját feldolgozás (%),
 
-| Ebből: Gazdasági társaság (Szövetkezet, Kft., Rt.) (db) |  |  |  |  |
+6.5.2. bérfeldolgozás (%),
 
-| Részjegytőke, törzstőke (E Ft) |  |  |  |  |
+6.5.3. 6.5.1+6.5.2 összesen.
 
-| Termelés (felvásárlás) termékenként |  |  |  |  |
+6.6 Összes árbevétel (E Ft).
 
-| (Termék/ek, mértékegység) |  |  |  |  |
+6.7. Összes értékesítési árbevétel (E Ft), ebből a tagi termék árbevétele (E Ft) és ebből a jogi személyiségű tagoktól származó árbevétel (E Ft).
 
-| Feldolgozott termék aránya (%) |  |  |  |  |
+6.8. Beruházási költség (E Ft).
 
-| Ebből a) saját feldolgozás (%) b) bérfeldolgozás (%) a) + b) = 100% |  |  |  |  |
+6.9. Működési költség hozzájárulás (E Ft).
 
-| Összes árbevétel (E Ft) |  |  |  |  |
+6.10. Alkalmazottak száma (foglalkoztatás jellege).
 
-| Összes értékesítési árbevétel (E Ft) |  |  |  |  |
+6.11. Tervezett támogatás (E Ft).
 
-| Ebből: Tagi termék árbevétele (E Ft) |  |  |  |  |
+6.12. A támogatás felhasználása működésre, beruházásra, forgóeszközre (jogcímenként bemutatva).
 
-| Beruházási költség (E Ft) |  |  |  |  |
+7. Keltezés, a kérelmező cégszerű aláírása.
 
-| Működési költség hozzájárulás (E Ft) |  |  |  |  |
-
-| Alkalmazottak száma (foglalkoztatás jellege) |  |  |  |  |
-
-| Tervezett támogatás (E Ft) |  |  |  |  |
-
-| A támogatás felhasználása (jogcímenként bemutatva): |  |  |  |  |
-
-| működésre |  |  |  |  |
-
-| beruházásra |  |  |  |  |
-
-| forgóeszközre |  |  |  |  |
-
-Dátum: ........................................................
-
-...............................................
-
-aláírás
-
-[^41]: A 3. számú melléklet a 65/2009. (VI. 4.) FVM rendelet 10. §-ával megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést csak a 2009. június 7. napját követően benyújtott elismerési kérelmekre kell alkalmazni.
+[^48]: A 3. számú melléklet a 20/2010. (X. 1.) VM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
