@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2010-07-12 | 2010-23-30-41.11 | 54/2010. (VII. 16.) OGY határozat |
 | 2010-09-13 | 2010-23-30-41.12 | 82/2010. (IX. 15.) OGY határozat |
 | 2010-10-04 | 2010-23-30-41.13 | 91/2010. (X. 8.) OGY határozat |
+| 2010-10-11 | 2010-23-30-41.14 | 97/2010. (X. 15.) OGY határozat |
