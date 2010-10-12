@@ -1,0 +1,1 @@
+2. § A Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 9. számú melléklet 1. pontja kiegészül a XIV. Belügyminisztérium fejezetben a Katasztrófa elhárítási célelőirányzatok (20. cím, 1. alcím 34. jogcím-csoport) sorral.
