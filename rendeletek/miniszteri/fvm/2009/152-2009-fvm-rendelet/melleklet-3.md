@@ -638,6 +638,102 @@ B rész
 
 |  |  | – A 24/2003. (V. 9.) ESZCSM rendelet szerinti speciális – gyógyászati célra szánt – tápszerek, diétás élelmiszerek | 100 mg/kg |
 
+| E 961 | Neotam | Alkoholmentes italok |  |
+
+|  |  | – Vízalapú ízesített italok, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 20 mg/l |
+
+|  |  | – Tej- és tejszármazék-alapú, illetve gyümölcsléalapú italok, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 20 mg/l |
+
+|  |  | Desszertek és hasonló termékek |  |
+
+|  |  | – Vízalapú ízesített desszertek, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Tej- és tejszármazék-alapú készítmények, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Gyümölcs- és zöldségalapú desszertek, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Tojásalapú desszertek, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Gabonaalapú desszertek, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Zsíralapú desszertek, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Snackek: különféle ízesítésű, közvetlenül fogyasztható, előre csomagolt, száraz, fűszeres, keményítőt tartalmazó termékek és bevonattal ellátott diófélék | 18 mg/kg |
+
+|  |  | Édességek |  |
+
+|  |  | – Édesség hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Kakaó- vagy szárítottgyümölcs-alapú édesség, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 65 mg/kg |
+
+|  |  | – Keményítőalapú édesség, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 65 mg/kg |
+
+|  |  | – Jégkrémhez való tölcsér vagy ostya, hozzáadott cukor nélkül | 60 mg/kg |
+
+|  |  | – Essoblaten | 60 mg/kg |
+
+|  |  | – Kakaó-, tej-, szárított gyümölcs- vagy zsíralapú kenhető készítmény, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Reggeli gabonamagvak 15%-nál nagyobb rostanyag- és legalább 20% korpatartalommal, csökkentett energiatartalommal és hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Leheletfrissítő cukorkák, hozzáadott cukor nélkül | 200 mg/kg |
+
+|  |  | – Erősen ízesített frissítő torokpasztillák, hozzáadott cukor nélkül | 65 mg/kg |
+
+|  |  | – Rágógumi, hozzáadott cukor nélkül | 250 mg/kg |
+
+|  |  | – Tábla formájú, csökkentett energiatartalmú édesség | 15 mg/kg |
+
+|  |  | – Almabor és körtebor | 20 mg/l |
+
+|  |  | – Alkoholmentes ital és sör, almabor, körtebor, szeszes italok vagy bor keverékéből álló italok | 20 mg/l |
+
+|  |  | – 15% (V/V)-nál kisebb alkoholtartalmú szeszes italok | 20 mg/l |
+
+|  |  | – Alkoholmentes vagy legfeljebb 1,2% (V/V) tényleges alkoholtartalmú sör | 20 mg/l |
+
+|  |  | – Asztali sör (»Bi!!re de table/Tafelbier/Table beer«), az eredeti extrakttartalom nem haladhatja meg a 6%-ot, kivéve a felső erjedésű egyszerű sört (»Obergäriges Einfachbier«) | 20 mg/l |
+
+|  |  | – Sörök, 30 milliekvivalens NaOH-ban kifejezett minimális savtartalommal | 20 mg/l |
+
+|  |  | – »Oud bruin«-típusú barna sörök | 20 mg/l |
+
+|  |  | – Csökkentett energiatartalmú sör | 1 mg/l |
+
+|  |  | – Fagyasztott állapotban fogyasztandó készítmények, csökkentett energiatartalommal és hozzáadott cukor nélkül | 26 mg/kg |
+
+|  |  | – Gyümölcskonzerv, csökkentett energiatartalommal vagy hozzáadott cukor nélkül | 32 mg/kg |
+
+|  |  | – Csökkentett energiatartalmú dzsem, zselé és gyümölcsíz | 32 mg/kg |
+
+|  |  | – Csökkentett energiatartalmú gyümölcs- és zöldségkészítmény | 32 mg/kg |
+
+|  |  | – Édes-savanyú gyümölcs- és zöldségkonzervek | 10 mg/kg |
+
+|  |  | – Feinskostsalat | 12 mg/kg |
+
+|  |  | – Édes-savanyú halkonzervek vagy félkonzervek, és halból, héjas és puhatestű víziállatból készült marinált termékek | 10 mg/kg |
+
+|  |  | – Csökkentett energiatartalmú levesek | 5 mg/l |
+
+|  |  | – Mártások | 12 mg/kg |
+
+|  |  | – Mustár | 12 mg/kg |
+
+|  |  | – Különleges táplálkozási igényeket kielégítő finom pékáru | 55 mg/kg |
+
+|  |  | – Testtömegcsökkentés céljára szolgáló, csökkentett energiatartalmú étrendben felhasználásra szánt– a testtömegcsökkentés céljára szolgáló, csökkentett energiatartalmú étrendben felhasználásra szánt élelmiszerekről szóló 27/2004. (IV. 24.) ESZCSM rendelet szerinti – élelmiszerek | 26 mg/kg |
+
+|  |  | Speciális gyógyászati célra szánt – a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. (V. 9.) ESZCSM rendelet szerinti – tápszerek, diétás élelmiszerek | 32 mg/kg |
+
+|  |  | – Folyékony – az étrend kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet szerinti – étrend-kiegészítők | 20 mg/kg |
+
+|  |  | – Szilárd – az étrend kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet szerinti – étrend kiegészítők | 60 mg/kg |
+
+|  |  | – Vitamin- és/vagy ásványielem-alapú, szirup típusú vagy rágható– az étrend kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet szerinti – étrendkiegészítők | 185 mg/kg |
+
+|  |  | – Asztali édesítőszerek | quantum satis |
+
 | E 962(*) | Aszpartám- és aceszulfám sója | Csökkentett energiatartalmú vagy hozzáadott cukor nélkül előállított alkoholmentes italok |  |
 
 |  |  | – Vízalapú ízesített italok | 350 mg/l (a) |
@@ -736,4 +832,4 @@ B rész
 
 (2) A maximális felhasználási szintek szabad imidben vannak kifejezve.
 
-[^11]: A 3. melléklet a 2. § (4) bekezdése alapján 2010. január 20-án lép hatályba.
+[^11]: A 3. melléklet a 65/2010. (V. 12.) FVM rendelet 3. § (2) bekezdése szerint módosított szöveg.
