@@ -57,7 +57,3 @@ XXVI. SZOCIÁLIS ÉS MUNKAÜGYI MINISZTÉRIUM fejezetben
 Családi pótlék (20. cím, 1. alcím)
 
 Anyasági támogatás (20. cím, 2. alcím)
-
-Gyermekgondozási segély (20. cím, 3. alcím)
-
-Gyermeknevelési támogatás (20. cím, 5. alcím)

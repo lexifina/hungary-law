@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-130-00-00
 | 2010-06-29 | 2010. évi LVII. törvény | 2009-130-00-00.2 |
 | 2010-07-29 | 2010. évi LXXVI. törvény | 2009-130-00-00.3 |
 | 2010-08-01 | 2010. évi LXXIX. törvény | 2009-130-00-00.4 |
+| 2010-10-12 | 2010. évi XCIII. törvény | 2009-130-00-00.5 |
