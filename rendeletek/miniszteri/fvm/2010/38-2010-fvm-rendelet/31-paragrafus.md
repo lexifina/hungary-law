@@ -1,0 +1,1 @@
+## 30. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 36. cikk a) pont iv. alpontjának és 39. cikkének a végrehajtásához szükséges rendelkezéseket állapítja meg.

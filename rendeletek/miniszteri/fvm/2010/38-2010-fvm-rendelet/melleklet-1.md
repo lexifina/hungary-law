@@ -1,4 +1,4 @@
-## 30. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 36. cikk a) pont iv. alpontjának és 39. cikkének a végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 31. §[^4] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet módosításáról szóló 21/2010. (X. 12.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 13/A. §-át és a 18. § (1) bekezdését, valamint a 15. § (4) bekezdés hatályon kívül helyezését 2010. május 1-je és a módosító rendelet hatálybalépése között benyújtott támogatási kérelmek vonatkozásában is alkalmazni kell.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -83,3 +83,5 @@
 | 1 | Faj | Fajta |
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
+
+[^4]: A 31. §-t a 21/2010. (X. 12.) VM rendelet 3. §-a iktatta be.

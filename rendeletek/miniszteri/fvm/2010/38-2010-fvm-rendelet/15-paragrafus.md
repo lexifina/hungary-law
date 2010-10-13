@@ -16,8 +16,10 @@ f) az ügyfelek aláírásai.
 
 (3) Egy kérelmező a támogatási időszak alatt egy célprogramra vonatkozóan csak mint átvevő vagy mint átadó szerepelhet.
 
-(4) Egy naptári évben egy támogatásra jogosult – átvevőként vagy átadóként – legfeljebb egy kötelezettségátadásra vonatkozó kérelmet nyújthat be. Amíg a támogatásra jogosult folyamatban lévő kötelezettségének az átadásáról vagy átvételéről az MVH nem dönt, addig új kötelezettségátadásra vonatkozó kérelem benyújtására a támogatásra jogosultnak az azt követő naptári évben nincs lehetősége.
+(4)[^2]
 
 (5) Vis maior esetén a támogatásra jogosult a (4) bekezdésben foglaltaktól eltérően a folyamatban lévő kötelezettségének az átadásról vagy átvételről történő döntés előtt is nyújthat be kötelezettségátadásra vonatkozó kérelmeket.
 
 (6) Az átadónak a kötelezettségátvállaláshoz szükséges tenyésztési dokumentumok másolati példányát az átvevő részére biztosítania kell.
+
+[^2]: A 15. § (4) bekezdését a 21/2010. (X. 12.) VM rendelet 4. §-a hatályon kívül helyezte.
