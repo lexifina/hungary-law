@@ -1,28 +1,28 @@
 ## Nemzetközi vonatkozású rendelkezések
 
-37. § (1)–(2)[^167]
+37. § (1)–(2)[^169]
 
-(3)[^168]
+(3)[^170]
 
-(4)–(6)[^169]
+(4)–(6)[^171]
 
-(7)[^170] Ha a Magyar Köztársaság területén élő,tartózkodási engedéllyel nem rendelkező kiskorú, nem magyar állampolgár kéri a felvételét nevelési-oktatási intézménybe, igazolnia kell, hogy a szülői felügyelettel kapcsolatos feladatokat ki látja el, továbbá, hogy az iskolai tanulmányokhoz szükséges feltételekről (lakhatás, étkezés stb.) ki gondoskodik.
+(7)[^172] Ha a Magyar Köztársaság területén élő,tartózkodási engedéllyel nem rendelkező kiskorú, nem magyar állampolgár kéri a felvételét nevelési-oktatási intézménybe, igazolnia kell, hogy a szülői felügyelettel kapcsolatos feladatokat ki látja el, továbbá, hogy az iskolai tanulmányokhoz szükséges feltételekről (lakhatás, étkezés stb.) ki gondoskodik.
 
-(8)[^171]
+(8)[^173]
 
-(9)[^172]
+(9)[^174]
 
-(10)[^173]
+(10)[^175]
 
 (11) A nevelési-oktatási intézmény közvetlenül teljesíti a külföldi megkereséseket, illetve közvetlenül küldhet külföldre megkeresést. A nevelési-oktatási intézmény nemzetközi kapcsolatait önállóan alakítja.
 
-(12)[^174] Ha az iskolai tanulmányok folytatását a magyar nyelv ismeretének hiánya, illetve a külföldi és a magyar iskola követelményrendszere közötti eltérés gátolja, az iskola igazgatója — a szülő egyetértésével — az évfolyam megismétlését engedélyezheti úgy is, hogy a tanuló csak felzárkóztató foglalkozásokon vesz részt. A foglalkozások idejét, az annak keretében oktatott ismeretek körét, az ismeretek elsajátításáról történő számadás módját az igazgató állapítja meg.
+(12)[^176] Ha az iskolai tanulmányok folytatását a magyar nyelv ismeretének hiánya, illetve a külföldi és a magyar iskola követelményrendszere közötti eltérés gátolja, az iskola igazgatója — a szülő egyetértésével — az évfolyam megismétlését engedélyezheti úgy is, hogy a tanuló csak felzárkóztató foglalkozásokon vesz részt. A foglalkozások idejét, az annak keretében oktatott ismeretek körét, az ismeretek elsajátításáról történő számadás módját az igazgató állapítja meg.
 
-[^167]: A 37. § (1)–(2) bekezdését a 2001: C. törvény 68. § (1) bekezdésének g) pontja hatályon kívül helyezte, e módosító törvény 68. § (2) bekezdése alapján a hatályon kívül helyezett rendelkezéseket a 2002. január 1-jét megelőzően benyújtott kérelmek esetén továbbra is alkalmazni kell.
-[^168]: A 37. § (3) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
-[^169]: A 37. § (4)–(6) bekezdését a 2001: C. törvény 68. § (1) bekezdésének g) pontja hatályon kívül helyezte, e módosító törvény 68. § (2) bekezdése alapján a hatályon kívül helyezett rendelkezéseket a 2002. január 1-jét megelőzően benyújtott kérelmek esetén továbbra is alkalmazni kell.
-[^170]: A 37.§ (7) bekezdése a 17/1994. ( VII. 29.) MKM rendelet 4.§-a (2) bekezdésének megfelelően módosított szöveg.
-[^171]: A 37. § (8) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
-[^172]: A 37. § (9) bekezdését a 2001: C. törvény 68. § (1) bekezdésének g) pontja hatályon kívül helyezte, e módosító törvény 68. § (2) bekezdése alapján a hatályon kívül helyezett rendelkezéseket a 2002. január 1-jét megelőzően benyújtott kérelmek esetén továbbra is alkalmazni kell.
-[^173]: A 37. § (10) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
-[^174]: A 37. § (12) bekezdését a 20/1994. ( XI. 10.) MKM rendelet 3. §-ának (4) bekezdése iktatta a szövegbe.
+[^169]: A 37. § (1)–(2) bekezdését a 2001: C. törvény 68. § (1) bekezdésének g) pontja hatályon kívül helyezte, e módosító törvény 68. § (2) bekezdése alapján a hatályon kívül helyezett rendelkezéseket a 2002. január 1-jét megelőzően benyújtott kérelmek esetén továbbra is alkalmazni kell.
+[^170]: A 37. § (3) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^171]: A 37. § (4)–(6) bekezdését a 2001: C. törvény 68. § (1) bekezdésének g) pontja hatályon kívül helyezte, e módosító törvény 68. § (2) bekezdése alapján a hatályon kívül helyezett rendelkezéseket a 2002. január 1-jét megelőzően benyújtott kérelmek esetén továbbra is alkalmazni kell.
+[^172]: A 37.§ (7) bekezdése a 17/1994. ( VII. 29.) MKM rendelet 4.§-a (2) bekezdésének megfelelően módosított szöveg.
+[^173]: A 37. § (8) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^174]: A 37. § (9) bekezdését a 2001: C. törvény 68. § (1) bekezdésének g) pontja hatályon kívül helyezte, e módosító törvény 68. § (2) bekezdése alapján a hatályon kívül helyezett rendelkezéseket a 2002. január 1-jét megelőzően benyújtott kérelmek esetén továbbra is alkalmazni kell.
+[^175]: A 37. § (10) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^176]: A 37. § (12) bekezdését a 20/1994. ( XI. 10.) MKM rendelet 3. §-ának (4) bekezdése iktatta a szövegbe.

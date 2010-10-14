@@ -38,7 +38,7 @@
 
 ## 5. A krónikusan beteg, valamint a testi, értelmi és érzékszervi fogyatékos tanulók esetében, az iskolaorvos véleményezésével, szükség esetén ki kell terjeszteni az 1–4. pontokban felsorolt korlátozásokat.
 
-## 6. A szakképzésben folyó gyakorlati képzés során és[^266] a szakmai előkészítő ismeretek oktatásakor, illetőleg a gimnáziumban folyó munkába állást előkészítő gyakorlati tanítási óra keretében végzett tevékenység keretében alkalmazni kell a közoktatási törvény 11. §-a (2) bekezdésének a munkavédelemre vonatkozó előírásait.
+## 6. A szakképzésben folyó gyakorlati képzés során és[^272] a szakmai előkészítő ismeretek oktatásakor, illetőleg a gimnáziumban folyó munkába állást előkészítő gyakorlati tanítási óra keretében végzett tevékenység keretében alkalmazni kell a közoktatási törvény 11. §-a (2) bekezdésének a munkavédelemre vonatkozó előírásait.
 
 ## A tanuló- és gyermekbalesetek jelentési kötelezettsége
 
@@ -66,14 +66,14 @@
 
 ## 6. A nem önkormányzati intézményfenntartók a részükre megküldött jegyzőkönyvet nyolc napon belül megküldik a nevelési-oktatási intézmény működéséhez szükséges engedélyt kiállító jegyző, főjegyző részére.
 
-## 7.[^267] A jegyző, főjegyző a nevelési-oktatási intézményektől, illetve a fenntartóktól érkezett baleseti jegyzőkönyveket a naptári félévet követő hónap utolsó napjáig megküldi az Oktatási és Kulturális Minisztérium részére.
+## 7.[^273] A jegyző, főjegyző a nevelési-oktatási intézményektől, illetve a fenntartóktól érkezett baleseti jegyzőkönyveket a naptári félévet követő hónap utolsó napjáig megküldi az Oktatási és Kulturális Minisztérium részére.
 
 ## 8. A nevelési-oktatási intézménynek lehetővé kell tenni az óvodaszék, iskolaszék, illetve a kollégiumi szék, ezek hiányában a szülői szervezet (közösség) és az iskolai diákönkormányzat képviselője részvételét a tanuló- és gyermekbalesetek kivizsgálásában.
 
 ## 9. Minden tanuló- és gyermekbalesetet követően meg kell tenni a szükséges intézkedést a hasonló esetek megelőzésére.
 
-3. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^268]
+3. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^274]
 
-[^266]: A Magyar Közlöny 1998. évi 38. számában közzétett helyesbítésnek megfelelő szöveg.
-[^267]: A 2. számú melléklet „A tanuló- és gyermekbalesetek jelentési kötelezettsége” című részének 7. pontja a 11/2006. (XI. 10.) OKM rendelet 4. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^268]: Az új 3. számú mellékletet a 16/1998. (IV. 8.) MKM rendelet 28. §-ának (2) bekezdése, valamint 2. számú melléklete iktatta a szövegbe, s egyidejűleg az eredeti 2–4. számú melléklet jelölését 4–6. számú mellékletre változtatta.
+[^272]: A Magyar Közlöny 1998. évi 38. számában közzétett helyesbítésnek megfelelő szöveg.
+[^273]: A 2. számú melléklet „A tanuló- és gyermekbalesetek jelentési kötelezettsége” című részének 7. pontja a 11/2006. (XI. 10.) OKM rendelet 4. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^274]: Az új 3. számú mellékletet a 16/1998. (IV. 8.) MKM rendelet 28. §-ának (2) bekezdése, valamint 2. számú melléklete iktatta a szövegbe, s egyidejűleg az eredeti 2–4. számú melléklet jelölését 4–6. számú mellékletre változtatta.

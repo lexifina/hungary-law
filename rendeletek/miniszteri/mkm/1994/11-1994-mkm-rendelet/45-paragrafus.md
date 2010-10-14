@@ -1,3 +1,3 @@
-## 44. §[^232]
+## 44. §[^238]
 
-[^232]: A 44. §-t a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^238]: A 44. §-t a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte.

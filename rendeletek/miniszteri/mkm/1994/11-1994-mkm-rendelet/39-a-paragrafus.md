@@ -1,4 +1,4 @@
-39/A. §[^180] (1)–(4)[^181]
+39/A. §[^182] (1)–(4)[^183]
 
 (5) A felzárkóztató oktatásban a pedagógus-munkakör betölthető
 
@@ -8,8 +8,8 @@ b) pályaorientáció, szakmai előkészítő ismeretek oktatása és szakmai al
 
 ## meghatározott felsőfokú iskolai végzettséggel és szakképzettséggel, illetve szakképesítéssel.
 
-(6)[^182]
+(6)[^184]
 
-[^180]: A 39/A. §-t a 8/2000. (V. 24.) OM rendelet 25. §-a iktatta be.
-[^181]: A 39/A. § (1)–(4) bekezdését a 22/2010. (V. 13.) OKM rendelet 15. § (1) bekezdése hatályon kívül helyezte.
-[^182]: A 39/A. § (6) bekezdését a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^182]: A 39/A. §-t a 8/2000. (V. 24.) OM rendelet 25. §-a iktatta be.
+[^183]: A 39/A. § (1)–(4) bekezdését a 22/2010. (V. 13.) OKM rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^184]: A 39/A. § (6) bekezdését a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének a) pontja hatályon kívül helyezte.

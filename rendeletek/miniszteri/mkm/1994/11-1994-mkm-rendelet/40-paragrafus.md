@@ -4,6 +4,6 @@
 
 (2) E rendeletnek a vezetői megbízásra (12—14. §), a javítóvizsgának független vizsgabizottság előtti letételére [22. § (1) és (3) bekezdése] vonatkozó rendelkezései a kihirdetést követő ötödik napon lépnek hatályba.
 
-(3)–(4)[^228]
+(3)–(4)[^234]
 
-[^228]: A 40. § (3)–(4) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^234]: A 40. § (3)–(4) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.

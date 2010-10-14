@@ -1,4 +1,4 @@
-## 20/A. §[^90] Ha a gyermek szülője óvodáztatási támogatásra jogosult,
+## 20/A. §[^92] Ha a gyermek szülője óvodáztatási támogatásra jogosult,
 
 a) a gyermeknek egy óvodai nyitvatartási napon legalább hat órát az óvodában kell tartózkodnia,
 
@@ -10,4 +10,4 @@ bb) a kifizetés esedékességét megelőzően – a jegyző által meghatározo
 
 bc) értesíti a jegyzőt, ha a gyermek óvodai elhelyezése megszűnik.
 
-[^90]: A 20/A. §-t a 32/2008. (XI. 24.) OKM rendelet 5. §-a iktatta be.
+[^92]: A 20/A. §-t a 32/2008. (XI. 24.) OKM rendelet 5. §-a iktatta be.
