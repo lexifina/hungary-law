@@ -32,13 +32,13 @@
 
 | 14. | 2011. 01. 28. | A Hátrányos Helyzetű Tanulók Arany János Tehetséggondozó Programjába tartozó intézmények megszervezik a találkozást a programba jelentkező, a pótló írásbelin részt vett tanulókkal. |
 
-| 15. | 2011. 01. 29., 10.00 | Egységes írásbeli felvételi vizsgák a kilencedik valamint a hetedik évfolyamos tehetséggondozó képzésre jelentkezők számára az érintett középiskolákban. |
+| 15. | 2011. 01. 29., 10.00 | Egységes írásbeli felvételi vizsgák a kilencedik évfolyamos tehetséggondozó képzésre jelentkezők számára az érintett középiskolákban. |
 
 | 16. | 2011. 01. 31. | A főjegyző megküldi az általános iskolának a kötelező felvételi feladatot ellátó középfokú iskola nevét és címét. |
 
 | 17. | 2011. 02. 01. | Jelentkezés az Igazságügyi és Rendészeti Minisztérium és a Honvédelmi Minisztérium által fenntartott iskolákba. |
 
-| 18. | 2011. 02. 03., 14.00 | Pótló írásbeli felvételi vizsgák a kilencedik valamint a hetedik évfolyamos tehetséggondozó képzésre jelentkezők számára azoknak, akik az előző írásbelin alapos ok miatt nem tudtak részt venni. |
+| 18. | 2011. 02. 03., 14.00 | Pótló írásbeli felvételi vizsgák a kilencedik évfolyamos tehetséggondozó képzésre jelentkezők számára azoknak, akik az előző írásbelin alapos ok miatt nem tudtak részt venni. |
 
 | 19. | 2011. 02. 10. | Az egységes írásbelit szervező középfokú intézmények értesítik az írásbeli eredményéről a tanulókat. |
 
