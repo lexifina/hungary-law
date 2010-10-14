@@ -52,8 +52,8 @@ me) amennyiben a szakértői vélemény kézhezvételétől számított tíz mun
 
 (3) A szakértői vizsgálat befejezését követően a szülőt tájékoztatni kell a szakértői vizsgálat megállapításairól, a szakértői vélemény várható tartalmáról, a szülői jogokról és kötelezettségekről. A tájékoztatás tényét, a tájékoztatási kötelezettség teljesítését írásba kell foglalni, és a szülővel alá kell íratni.
 
-(4)[^8] Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői és rehabilitációs bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésnek jogával.
+(4)[^10] Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői és rehabilitációs bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésnek jogával.
 
 (5) A szakértői véleményt – a vizsgálat lezárását követő huszonkét munkanapon belül – kézbesíteni kell a szülőnek. A szülőnek – a kézhezvételétől számítva – tíz munkanap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői vélemény szülő általi átvétele megtörtént.
 
-[^8]: A 14. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^10]: A 14. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
