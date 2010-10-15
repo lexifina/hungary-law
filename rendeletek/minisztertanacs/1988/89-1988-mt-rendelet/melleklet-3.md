@@ -1,37 +1,3 @@
-|  | Sorszám: H |
-
-## Kimutatás
-
-## az Európai Unió tagállamában bejegyzett jármű Magyar Köztársaság területén végzett
-
-## kabotázs-tevékenységéről
-
-| I. A jármű – rendszáma – magyarországi tárolóhelye |  |
-
-| II. Üzemben tartó – neve – ország jele – székhely címe – közösségi engedély száma |  |
-
-| III. A gépjárművezető – neve – az Európai Unión kívüli állam állampolgára esetén a járművezetői igazolvány száma |  |
-
-| IV. A jármű Magyar Köztársaság területére való belépési időpontja | (év) | (hónap) | (nap) |
-
-| V. A jármű Magyar Köztársaság területéről való kilépési időpontja | (év) | (hónap) | (nap) |
-
-| VI. A szállított áru tömege |  |
-
-| Kabotázs-fuvarozások |
-
-| A fuvaroztató (megbízó) neve, címe, a felrakóhely és a lerakóhely | megkezdése | befejezése |
-
-| 1. |  | (hónap, nap, óra) | (hónap, nap, óra) |
-
-| 2. |  | (hónap, nap, óra) | (hónap, nap, óra) |
-
-| 3. |  | (hónap, nap, óra) | (hónap, nap, óra) |
-
-## ................................. ..................................
-
-## helység, dátum fuvarozó aláírása
-
 3. számú melléklet a 89/1988. (XII. 20.) MT rendelethez[^152]
 
 Engedélymentesen végezhető nemzetközi közúti áruszállítási tevékenységek:

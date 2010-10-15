@@ -1,4 +1,4 @@
-27. §[^141] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+27. §[^140] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az Európai Parlament és a Tanács 2006/94/EK irányelve (2006. december 12.) a közúti árufuvarozás egyes típusaira vonatkozó közös szabályok létrehozásáról;
 
@@ -12,10 +12,11 @@ d) a Tanács 2006/103/EK irányelve (2006. november 20.) a közlekedéspolitika 
 
 a) a Tanács 881/92/EGK rendelete (1992. március 26.) a tagállamok területére vagy területéről történő, illetve a tagállamok területén áthaladó, Közösségen belüli közúti árufuvarozási piacra való bejutásról, 13. cikk;
 
-b) a Tanács 3118/93/EGK rendelete (1993. október 25.) a nem honos fuvarozók valamely tagállamban nyújtott belföldi közúti árufuvarozási szolgáltatásai feltételeinek meghatározásáról;
+b)[^141] az Európai Parlament és a Tanács 1072/2009/EK rendelete (2009. október 21.) a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól, 8. cikk;
 
 c) a Bizottság 792/94/EK rendelete (1994. április 8.) a 3118/93/EGK tanácsi rendeletnek a saját számlás közúti árufuvarozókra történő alkalmazása részletes szabályairól;
 
 d) az Európai Parlament és a Tanács 484/2002/EK rendelete (2002. március 1.) a 881/92/EGK és a 3118/93/EGK tanácsi rendeletnek a járművezetői igazolvány létrehozása érdekében történő módosításáról.
 
-[^141]: A 27. §-t a 277/2001.(XII. 22.) Korm. rendelet 11. §-a iktatta be, szövege a 101/2009. (V. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^140]: A 27. §-t a 277/2001.(XII. 22.) Korm. rendelet 11. §-a iktatta be, szövege a 101/2009. (V. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^141]: A 27. § (2) bekezdés b) pontja a 244/2010. (X. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

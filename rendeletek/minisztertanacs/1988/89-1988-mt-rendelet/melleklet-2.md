@@ -100,4 +100,4 @@
 [^148]: Az 1. számú melléklet A. rész II. fejezet 4. pontját a 158/2008. (VI. 10.) Korm. rendelet 5. § (2) bekezdése iktatta be, záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 13. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^149]: Az 1. számú melléklet B. része az 54/2007. (III. 28.) Korm. rendelet 6. § (2) bekezdése alapján 2008. szeptember 9-én lépett hatályba. A B. részben meghatározott továbbképzési képesítések megszerzésének határidejére vonatkozóan lásd e módosító rendelet 6. § (4) bekezdését.
 [^150]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet 14. számú melléklet.
-[^151]: A 2. számú melléklet a 101/2009. (V. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^151]: A 2. számú mellékletet hatályon kívül helyezte a 244/2010. (X. 5.) Korm. rendelet 3. §-a.
