@@ -14,6 +14,7 @@
 
 (7) Készenléti szolgálat esetén a tűzoltó a hivatali munkaidején túl a szolgálatteljesítés helyén kívül áll készenlétben és szükség esetén a szolgálati beosztásához előírt feladatra köteles jelentkezni.
 
-(8) Készültségi szolgálat esetén a hivatásos állomány tagjának, rendkívüli körülmények miatt (árvíz, helyi katasztrófa stb.) a szolgálatteljesítési helyén vagy az állományilletékes parancsnok által meghatározott helyen kell tartózkodnia és feladatokat végeznie.
+(8)[^3]
 
 [^2]: Hszt. 84. §-a, valamint 87. §-a.
+[^3]: A 3. § (8) bekezdését a 2/2010. (X. 15.) BM rendelet 1. § b) pontja hatályon kívül helyezte.
