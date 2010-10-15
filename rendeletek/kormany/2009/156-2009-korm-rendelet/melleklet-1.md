@@ -1,1 +1,3 @@
-1. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
+1. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^6]
+
+[^6]: Az 1. melléklet a 244/2010. (X. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.

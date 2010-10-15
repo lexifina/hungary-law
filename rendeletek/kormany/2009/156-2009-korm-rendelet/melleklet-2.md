@@ -8,7 +8,7 @@
 
 | 4. | A taxiengedély, személygépkocsis személyszállító engedély nincs a járművön | 30 000 | szállító gépjárművezető |
 
-| 5. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély, kabotázs-kimutatás a) hiánya, érvénytelensége b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól | 300 000 150 000 | szállító gépjárművezető |
+| 5. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély a) hiánya, érvénytelensége b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól | 300 000 150 000 | szállító gépjárművezető |
 
 | 6. | A járművezető szakmai képesítését igazoló okmány hiánya | 100 000 | szállító gépjárművezető |
 
