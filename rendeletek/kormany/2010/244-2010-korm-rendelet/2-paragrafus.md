@@ -1,0 +1,3 @@
+## 1. § A közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet (a továbbiakban: R.) 21. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Az Európai Unió más tagállamában bejegyzett járművel a Magyar Köztársaság területén kabotázsként végzett közúti áruszállítási tevékenység – kivéve, ha adott tagállam csatlakozási szerződése ettől eltérő rendelkezést tartalmaz – a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendeletnek megfelelően – az (5) bekezdésben foglalt kivétellel – igazolt nemzetközi fuvarfeladat teljesítését követően végezhető.”
