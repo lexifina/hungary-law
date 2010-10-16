@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-160-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-04-06 | 2008-160-20-82.2 | 160/2008. (XII. 18.) FVM rendelet |
+| 2010-10-16 | 2008-160-20-82.3 | 22/2010. (X. 15.) VM rendelet |

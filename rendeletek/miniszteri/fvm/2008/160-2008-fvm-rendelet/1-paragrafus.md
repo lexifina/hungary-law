@@ -1,6 +1,6 @@
 1. § (1) E rendelet alkalmazásában:
 
-a) mezőgazdasági termelő: az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS) 2008. évi igénybevételével kapcsolatos egyes kérdésekről szóló 39/2008. (III. 29.) FVM rendelet 1. § b) pontja szerinti mezőgazdasági termelő;
+a)[^1] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet 2. cikk a) pontja szerinti termelő;
 
 b) kiegészítő történelmi bázis jogosultság: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Eljárási tv.) 9. § n) pontja szerinti mezőgazdasági vagyoni értékű jog;
 
@@ -19,3 +19,5 @@ h) anyajuh: az 1782/2003/EK tanácsi rendelet 112. cikk a) pontjában meghatáro
 i) új belépő az anyajuh-tartás támogatása vonatkozásában: az a mezőgazdasági termelő, aki (amely) a 2008. évi támogatási határozatában meghatározott állattal rendelkezik és 2006-ban nem nyújtott be anyajuhtartás támogatására vonatkozó kérelmet.
 
 (2) Mezőgazdasági termelő jogutódja nem tekinthető az (1) bekezdés c), d) és i) pontjaiban meghatározott új belépőnek.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 22/2010. (X. 15.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
