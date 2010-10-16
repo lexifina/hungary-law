@@ -70,7 +70,7 @@ g) a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályo
 
 a) pénzügyi: a Költségvetési Főosztály (a továbbiakban: KF) vezetője, vagy helyettese;
 
-b)[^1] jogi: a Személyügyi, Jogi Képviseleti és Biztonsági Főosztály vezetője vagy helyettese, illetve az általuk kijelölt jogtanácsos, továbbá a 3. § (1) bekezdés a) pontja szerinti „9/2/25 Kisebbségpolitikai tevékenység támogatása” célelőirányzat, valamint a 3. § (1) bekezdés c) és h) pontjaiban meghatározott előirányzatok tekintetében a Kisebbség- és Nemzetpolitikáért Felelős Szakállamtitkárság kijelölt munkatársa. A beszerzések esetében a közbeszerzési eljárások lebonyolításáról, valamint a közbeszerzésekkel kapcsolatos adatszolgáltatások rendjéről szóló MeHVM utasítás rendelkezései szerint kell eljárni.
+b)[^2] jogi: a Személyügyi, Jogi Képviseleti és Biztonsági Főosztály vezetője vagy helyettese, illetve az általuk kijelölt jogtanácsos, továbbá a 3. § (1) bekezdés a) pontja szerinti „9/2/25 Kisebbségpolitikai tevékenység támogatása” célelőirányzat, valamint a 3. § (1) bekezdés c) és h) pontjaiban meghatározott előirányzatok tekintetében a Kisebbség- és Nemzetpolitikáért Felelős Szakállamtitkárság kijelölt munkatársa. A beszerzések esetében a közbeszerzési eljárások lebonyolításáról, valamint a közbeszerzésekkel kapcsolatos adatszolgáltatások rendjéről szóló MeHVM utasítás rendelkezései szerint kell eljárni.
 
 8. Szakmai teljesítésigazolás: a kötelezettségvállalás dokumentumában foglaltak teljesítésének írásban történő igazolása. A kiadás teljesítésének és a bevétel beszedésének elrendelése előtt okmányok alapján ellenőrizni, szakmailag igazolni kell azok jogosultságát, összegszerűségét, a szerződés, megrendelés, megállapodás teljesítését, illetve végrehajthatóságát. Az esetleges hiányosságok megszüntetésére intézkedést kell kezdeményezni, és érvényesíteni kell a szerződésben rögzített szankciókat. A teljesítés elfogadását megalapozó okmányok, bizonylatok és egyéb dokumentumok megőrzése a teljesítés igazolására jogosult személy feladata.
 
@@ -104,4 +104,4 @@ Az érvényesítésnek tartalmaznia kell az érvényesítésre utaló megjelöl�
 
 (7) Kötelezettségvállalást, érvényesítést, utalványozást, ellenjegyzést nem végezhet az a személy, aki ezt a tevékenységet közeli hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. §-ának b) pontja], vagy maga javára látná el.
 
-[^1]: Az 5. § (1) bekezdés 7. pont b) alpontja a 11/2010. (V. 7.) MeHVM rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdés 7. pont b) alpontja a 11/2010. (V. 7.) MeHVM rendelet 3. §-a szerint módosított szöveg.
