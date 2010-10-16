@@ -4,7 +4,7 @@
 
 (3) A 4. §, valamint az 5. § (4) bekezdése a Megállapodás 11. Cikkének (2) bekezdésében meghatározott időpontban hatályát veszti.
 
-(4) E törvény hatályát veszti, ha Románia Kormánya arról értesíti a Magyar Köztársaság Kormányát, hogy nem kíván a Megállapodásban részes féllé válni.
+(4)
 
 (5) A Megállapodás, illetve a törvény 2–3. §-a hatálybalépésének naptári napját, valamint a (2)–(4) bekezdésben meghatározott időpontok naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
