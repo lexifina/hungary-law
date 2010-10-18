@@ -1,7 +1,6 @@
-## 4–5. §[^1]
+## 4–5. §[^2]
 
-6. § (1) E rendelet 4–5. §-a e rendelet hatálybalépését követő napon hatályát veszti.
+6. §[^3]
 
-(2) E § az (1) bekezdésben meghatározott napot követő napon hatályát veszti.
-
-[^1]: A 4–5. §-t a 6. § (1) bekezdése hatályon kívül helyezte.
+[^2]: A 4–5. §-t a 6. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 6. § a (2) bekezdés alapján hatályát vesztette.
