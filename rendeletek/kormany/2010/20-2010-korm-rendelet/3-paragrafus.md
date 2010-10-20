@@ -1,4 +1,4 @@
-3. § (1) A MÁV-START, és a GYSEV legkésőbb 2010. február 15-ig – a várható gazdasági folyamatokon alapuló – pénzforgalmi tervet készít, és azt a KHEM részére megküldi. A vasúti társaságok helyközi személyszállítási közszolgáltatásaihoz nyújtott költségtérítés havi folyósítási ütemezését a közlekedési, hírközlési és energiaügyi miniszter, valamint a pénzügyminiszter a vasúti társaság által a vasúti személyszállítási közszolgáltatási szerződésben meghatározott határidőre benyújtott pénzforgalmi terv alapján együttesen, a Vtv. 27. §-ának (1) bekezdése szerinti közszolgáltatási szerződés (a továbbiakban: vasúti személyszállítási közszolgáltatási szerződés) záradékában (a továbbiakban: záradék) határozza meg. A költségtérítés folyósításának ütemezése a közlekedési, hírközlési és energiaügyi miniszter, valamint a pénzügyminiszter együttes döntésével módosítható. A költségtérítés folyósítása ütemezésének módosítását a megelőző időszak tényleges pénzforgalma és a költségtérítés ütemezése alapjául szolgáló pénzforgalmi terv közötti eltérések okainak bemutatásával a vasúti társaság is kezdeményezheti.
+3. § (1)[^2] A MÁV-START, és a GYSEV legkésőbb 2010. február 15-ig – a várható gazdasági folyamatokon alapuló – pénzforgalmi tervet készít, és azt a KHEM részére megküldi. A vasúti társaságok helyközi személyszállítási közszolgáltatásaihoz nyújtott költségtérítés havi folyósítási ütemezését a közlekedési, hírközlési és energiaügyi miniszter, valamint a pénzügyminiszter a vasúti társaság által a vasúti személyszállítási közszolgáltatási szerződésben meghatározott határidőre benyújtott pénzforgalmi terv alapján együttesen, a Vtv. 27. §-ának (1) bekezdése szerinti közszolgáltatási szerződés (a továbbiakban: vasúti személyszállítási közszolgáltatási szerződés) záradékában (a továbbiakban: záradék) határozza meg. A költségtérítés folyósításának ütemezése a közlekedési, hírközlési és energiaügyi miniszter, valamint a pénzügyminiszter együttes döntésével módosítható. A költségtérítés folyósítása ütemezésének módosítását a megelőző időszak tényleges pénzforgalma és a költségtérítés ütemezése alapjául szolgáló pénzforgalmi terv közötti eltérések okainak bemutatásával a vasúti társaság is kezdeményezheti. Jelen bekezdés rendelkezéseit nem kell alkalmazni az 1. § (3) bekezdés e) pontjában meghatározott támogatás folyósítása tekintetében.
 
 (2) A közlekedési, hírközlési és energiaügyi miniszter a pénzügyminiszterrel együttesen a személyszállítási közszolgáltatásokhoz a tárgyévet megelőző évben nyújtott költségtérítésnek a vasúti személyszállítási közszolgáltatási szerződésben rögzített elszámolását követően módosítja a tárgyévi záradékot, amennyiben ezt az elszámolás eredménye indokolttá teszi.
 
@@ -10,8 +10,12 @@
 
 (6) Az 1. § (3) bekezdése c) pontja esetében a KHEM – a PM-mel történő előzetes egyeztetés után – az Abtv. 11 §-a alapján költségtérítésre jogosult helyközi közszolgáltatást végző társaságokkal kötött közszolgáltatási szerződés záradékában rendelkezik a költségtérítésről. A költségtérítés folyósításáról a KHEM az APEH felé az e szerződés záradékában foglalt ütemezés alapján intézkedik. Az APEH a költségtérítést az igényléstől számított 15 napon belül folyósítja.
 
-(7)[^2]
+(7)[^3]
 
 (8) Az 1. § (3) bekezdésének a)–b) és d pontja szerinti szolgáltatók a havi költségtérítést a tárgyhó első napjától igényelhetik, amelyet az APEH az igénylést követő 15 napon belül folyósít.
 
-[^2]: A 3. § (7) bekezdését a 121/2010. (IV. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+(9)[^4] Az 1. § (3) bekezdés e) pontja szerinti költségtérítés a MÁV Magyar Államvasutak Zrt. számára 2010. november 5-ig folyósításra kerül.
+
+[^2]: A 3. § (1) bekezdése a 249/2010. (X. 19.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 3. § (7) bekezdését a 121/2010. (IV. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^4]: A 3. § (9) bekezdését a 249/2010. (X. 19.) Korm. rendelet 3. §-a iktatta be.

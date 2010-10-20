@@ -24,4 +24,8 @@ M Ft
 
 | d) | költségtérítés a GYSEV által működtetett vasúti pályahálózathoz | 1 300,0 |
 
+| e)3 | költségtérítés a MÁV Magyar Államvasutak Zrt. által működtetett vasúti pályahálózathoz | 23 000,0 |
+
 2 Az 1. § (3) bekezdés a) pontja a 121/2010. (IV. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+
+3 Az 1. § (3) bekezdés e) pontját a 249/2010. (X. 19.) Korm. rendelet 1. §-a iktatta be.
