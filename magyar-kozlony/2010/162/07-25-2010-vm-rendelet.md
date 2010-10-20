@@ -1,0 +1,483 @@
+# A vidékfejlesztési miniszter 25/2010. (X. 20.) VM rendelete
+
+Magyar Közlöny 2010. évi 162. szám, 2010. október 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/07ab4293f195303cf74305b919ca024d2b03b3f3/dokumentumok/01add18fb280c45f14f2754a314f0b8b77d574a2/letoltes)
+
+---
+
+A vidékfejlesztési miniszter 25/2010. (X. 20.) VM rendelete
+a növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló
+7/2001. (I. 17.) FVM rendelet módosításáról
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §-a (2) bekezdésének 4., 6. és 7. pontjában, valamint
+a szőlőtermesztésről és borgazdálkodásról szóló 2004. évi XVIII. törvény 57. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás
+alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.)
+Korm. rendelet 94. §-ának a) és c) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
+1. § (1) A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet
+(a továbbiakban: R.) 1. §-ának 11. pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában:]
+„11. Helyi piac: olyan, egy adott megyére vagy szomszédos megyékre kiterjedő körzet, ahol a kistermelő vagy
+feldolgozó növényt, növényi terméket végső felhasználás céljából értékesít.”
+(2) Az R. 1. §-ának 21. pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában:]
+„21. Termőhely: termesztő berendezés(ek), vagy földterületek együttese, amelyet termelési vagy gazdálkodási
+egységként használnak, és amely növény-egészségügyi célból külön kezelt részekből is állhat.”
+(3) Az R. 1. §-ának 28. pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában:]
+„28. Növényútlevél: hatósági címke (okmány, felirat), amely bizonyítja, hogy e rendelet előírásait betartották, és
+amelyet az Európai Unió szintjén szabványosítottak a különböző típusú növényekre, növényi termékekre, és amelyet
+az Európai Unió valamely tagállamának (a továbbiakban: tagállam) felelős hatósága dolgoz ki, kibocsátása pedig az ezt
+szabályozó rendelkezésekkel összhangban történik”.
+(4) Az R. 1. §-a a következő 46–48. ponttal egészül ki:
+[E rendelet alkalmazásában:]
+„46. Egységár: eladási profil szerinti felvásárlási ár, amely a friss fogyasztásra szánt árunál a nagykereskedelmi
+felvásárlási árak átlagára, a feldolgozásra szánt árunál az ipari üzemek felvásárlási árainak átlaga.
+47. Termés mennyiség: számlával igazolt eladott mennyiség, ennek hiányában a termésbecslés alapján megállapított
+mennyiség.
+48. Növénytermesztéssel hivatásszerűen foglalkozó személy: az a termelő, aki kereskedelmi céllal állít elő és értékesít
+növényt, illetve növényi terméket.”
+2. § Az R. 22–25. §-a helyébe a következő rendelkezés lép:
+„22. § (1) A kártalanítás alapja védett növények esetében a külön jogszabályban közzétett eszmei érték, minden más
+növény, növényi termék és egyéb anyag esetében a kártalanítás alapja a megsemmisített tulajdon, illetőleg
+a szaporításból kizárt szaporítóanyag mindenkori forgalmi értéke, továbbá a határozatban szereplő zárlati
+intézkedéssel közvetlenül kapcsolatos költségek összege, ide nem értve azt a költséget, amely a zárlati intézkedés
+elmaradása esetén is felmerült volna. A kártalanítás alapjául szolgáló forgalmi értéket – ha a kártalanítást kizáró ok nem
+áll fenn – becsléssel kell megállapítani.
+(2) A forgalmi érték becslési eljárását a fertőzöttség tényét megerősítő laboratóriumi vizsgálati eredmény közlését
+követően a zárlati határozat alapjául szolgáló körülmények kivizsgálásával egy időben meg kell kezdeni. Amennyiben
+a forgalmi érték megállapításához szükséges a termésbecslés is, azt az MgSzH területi szervének szakvéleményével
+kell elvégezni.
+(3) A forgalmi érték megállapításának alapjai:
+a) növény (pl. cserepes növény, gyümölcs, zöldség) esetében annak számlákkal igazolt beszerzési ára (beleértve
+az importárat is), ennek hiányában a könyv szerinti nyilvántartási ár vagy a káresemény időszakában kialakult átlagos
+nagykereskedelmi felvásárlási ár;
+b) növényi termék (pl. szárítmány) vagy egyéb anyag (pl. fa-csomagolóanyag) esetében annak számlákkal igazolt
+beszerzési ára (beleértve az importárat is), ennek hiányában a könyv szerinti nyilvántartási ár vagy a káresemény
+időszakában kialakult átlagos nagykereskedelmi felvásárlási ár;
+c) növényi szaporító- és ültetési anyag (pl. oltvány, palánta, vetőmag) esetében a káreseményt megelőző 6 hónapban
+kialakult átlagos piaci ár;
+
+d) egy- és kétéves vagy évelő (pl. lucerna) kultúrák esetében,
+da) a növényápolás költségei, ha a zárlat elrendelése a betakarítás előtt történt, vagy
+db) a káresemény időszakában kialakult átlagos nagykereskedelmi felvásárlási ár, ha a zárlat elrendelése betakarítás
+után (értékesítés előtt) történt, valamint
+dc) egy év becsült elmaradt haszna évelő kultúrák esetében, ha a zárlat elrendelésére az első két évben került sor;
+e) növényi szaporító- és ültetési anyag-előállító ültetvényeknél
+ea) törzsültetvények esetében
+eaa) az újratelepítés költségei (az eredeti ültetvény minősítési fokozatának megfelelő szaporítóanyag átlagos piaci
+ára, az ültetés közvetlen költségei), valamint az eredeti telepítéstől a megsemmisítésig eltelt időszak ápolási költsége
+a még nem minősített ültetvény esetén, vagy
+eab) a káresemény időszakára eső eladási szezon átlagos piaci ára a már minősített ültetvény esetén, valamint
+a becsült elmaradt haszon szamóca esetében egy évre, egyéb bogyós és más fás szárú növény esetében három évre
+számolva, a zárlatot megelőző években forgalmazott mennyiségek alapján,
+eb) fa- és szőlőiskola, csemetekert, szaporító telep esetében
+eba) a megsemmisített növényanyag telepítési költségei (az ültetési anyag számlával igazolt beszerzési ára és
+az ültetés közvetlen költségei), valamint a telepítéstől a megsemmisítésig eltelt időszak ápolási költsége, ha
+a kitermelés előtt történik a megsemmisítés, kivéve, ha ez már a kész, közvetlenül a kitermelés előtt álló
+növényanyagot érint, amely utóbbi esetben a megsemmisített növényanyag becsült piaci árának a kitermelés
+ráfordításával csökkentett összege, vagy
+ebb) növényanyag átlagos piaci ára, ha a megsemmisítés a kitermelés után történik;
+f) termőültetvények esetében
+fa) az újratelepítés költségei (az ültetési anyag átlagos piaci ára, az ültetés közvetlen költségei), valamint a telepítéstől
+a megsemmisítésig eltelt időszak ápolási költsége termőre még nem fordult ültetvény esetén, vagy
+fb) a megsemmisített termék alábbiak szerinti egységár és termésmennyiség alapján becsült ára már termő ültetvény
+esetén, valamint a becsült elmaradt haszon szamóca esetében egy évre, egyéb bogyós esetében három évre, más fás
+szárú növénynél hagyományos művelés esetében öt évre, intenzív művelésű ültetvény esetében három évre
+számolva.
+(4) Az elmaradt haszon becslésének alapja az adott termőtájon, a zárolt ültetvényben alkalmazott művelésmódhoz és
+technológiához hasonló termesztési gyakorlatot követő gazdaságokban, hosszú távon realizált hozam, figyelembe
+véve az éghajlati viszonyokat, ültetvény korát, termesztett fajtát és az azokkal összefüggő termésbiztonságot
+(terméshozás szakaszosságát).
+(5) A becsült kártalanítási érték a (3) bekezdés szerint becsült forgalmi értéknek az alábbiak szerint meghatározott
+százaléka:
+a) növényeknél 80%,
+b) növényi termékek, egyéb anyagoknál 70%,
+c) növényi szaporító- és ültetési anyagoknál 90%,
+d) egyéves és évelő kultúráknál 80%,
+e) növényi szaporító- és ültetési anyag-előállító ültetvényeknél 90%,
+f) termőültetvényeknél 80%.
+(6) Az (5) bekezdés szerinti becsült kártalanítási értéket növelik a zárlati intézkedéssel közvetlenül kapcsolatos
+költségek. Amennyiben a határozat a fertőzött termék megsemmisítését ipari feldolgozás vagy más irányú
+felhasználás útján is lehetővé teszi, akkor a termelő köteles a tőle elvárható módon mindent megtenni a feldolgozás,
+illetve a más irányú felhasználás realizálása érdekében. Az ennek során keletkezett árbevétel, ennek hiányában
+a káresemény időszakában kialakult átlagos nagykereskedelmi felvásárlási vagy átlagos piaci ár csökkenti a becsült
+kártalanítási értéket.
+(7) Ha az egyes zárlati károsítók elleni védekezés 7. számú mellékletben meghatározott előírásai lehetővé teszik,
+az MgSzH területi szerve rendelkezhet a laboratóriumi vizsgálat alapján egészséges, illetve a zárolt területen belül
+található, a fertőzés továbbterjedésében bizonyítottan szerepet nem játszó vizsgálatköteles áruk felhasználásáról és
+forgalomba hozataláról. Az így felszabadított, valamint a továbbszaporításból kivont, de egyéb célú felhasználásra
+engedélyezett vizsgálatköteles árut a termelő köteles a tőle elvárható módon kezelni, és piaci áron értékesíteni.
+Az ebből származó bevételt, ennek hiányában a káresemény időszakában kialakult átlagos nagykereskedelmi ár, vagy
+növényi szaporító- és ültetési anyag esetében a piaci ár a (6) bekezdésben megállapítottakhoz hasonlóan csökkenti
+a becsült kártalanítási értéket.
+
+(8) A kártalanítási összeget a (6) és (7) bekezdés szerinti korrekciók elvégzésével kell kiszámítani.
+23. § (1) A fertőzés terjesztésére alkalmas anyagokat, tárgyakat és eszközöket, ha az egyes zárlati károsítók elleni
+védekezési szabályok lehetővé teszik, és alkalmas eljárással ártalmatlanítani lehet (például hőkezelés, fertőtlenítés),
+annak elvégzése után a termelő az MgSzH területi szerve engedélye alapján azokat felhasználhatja vagy értékesítheti.
+Ebben az esetben erre nem jár kártalanítás.
+(2) Valamely zárlati károsító továbbterjedése ellen hozott zárlati intézkedés ideje alatt, a hatósági intézkedéssel
+érintett termőhelyen fellépő ugyanazon károsító okozta kárért nem jár újabb kártalanítás.
+24. § (1) A Tv. 54. §-ának (1) bekezdésében meghatározott esetekben, valamint ha a kárigény elbírálásánál
+a kártalanítást kizáró ok nem áll fenn, a kártalanítás összegét az MgSzH Központ állapítja meg.
+(2) A kártalanítási összeg nagysága a megsemmisített növény, növényi termék vagy egyéb anyag, eszköz, illetve tárgy
+22. § szerinti becsült értéke.
+(3) A kártalanítási határozat indoklásában meg kell jelölni, hogy
+a) a növények, növényi termékek és egyéb anyagok megsemmisítése mely zárlati károsító fertőzése következtében
+történt, és mi a kártalanítási igény elismerésének alapja,
+b) a megsemmisített eszközök, tárgyak ártalmatlanná tételét mely okból rendelték el.
+25. § A kártalanítási határozatban megjelölt összeget az MgSzH Központ a határozat jogerőre emelkedésétől számított
+harminc napon belül a termelőnek kifizeti.”
+3. § Az R. 35. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A növény-egészségügyi ellenőrzéseknél alkalmazott speciális mintavételi, laboratóriumi és termőhelyi vizsgálat
+módszereket az MgSzH Központ növény-egészségügyi módszertani kézikönyvben teszi közzé.”
+4. § (1) Az R. 69. §-a (1) bekezdésének o) pontja helyébe a következő rendelkezés lép:
+[Ez a rendelet a következő közösségi jogi aktusoknak való megfelelést szolgálja:]
+„o) a Tanács 2000/29/EK irányelve (2000. május 22.) a növényeket vagy növényi termékeket károsító szervezeteknek
+a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről, valamint
+az azt módosító,
+1. a Bizottság 2001/33/EK, 2002/28/EK, 2002/36/EK, 2003/22/EK, 2003/47/EK, 2003/116/EK, 2004/31/EK, 2004/70/EK,
+2004/102/EK, 2005/16/EK, 2005/77/EK, 2006/14/EK, 2006/35/EK, 2007/41/EK, 2008/64/EK, 2008/109/EK, 2009/7/EK,
+2009/118/EK és 2010/1/EU irányelve, valamint a Tanács 2002/89/EK és 2005/15/EK irányelve,
+2. az Európai Parlament és a Tanács 882/2004/EK rendelete (2004. április 29.) a takarmány- és élelmiszerjog, valamint
+az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés
+ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről,”
+(2) Az R. 69. §-a (2) bekezdésének 14. pontja helyébe a következő rendelkezés lép:
+[Ez a rendelet a következő közösségi határozatoknak való megfelelést szolgálja]
+„14. a Bizottság 2006/473/EK határozata (2006. július 5.) egyes harmadik országoknak és harmadik országok egyes
+területeinek a Xanthomonas campestristől (annak a citrusfélékre patogén minden törzsétől), a Cercospora angolensis
+Carv. et Mendestől és Guignardia citricarpa Kielytől (annak a citrusfélékre patogén minden törzsétől) mentesként
+történő elismeréséről, valamint az azt módosító 2010/134/EU bizottsági határozat,”
+(3) Az R. 69. §-a (2) bekezdésének 22. pontja helyébe a következő rendelkezés lép:
+„22. a Bizottság 2008/840/EK határozata (2008. november 7.) az Anoplophora chinensis (Forster) Közösségbe történő
+behurcolásának és Közösségen belüli elterjedésének megelőzését célzó sürgősségi intézkedésekről, valamint az azt
+módosító 2010/380/EU bizottsági határozat.”
+(4) Az R. 69. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ez a rendelet a Közösségben a meghatározott növény-egészségügyi kockázatoknak kitett védett övezetek
+elismeréséről szóló, 2008. július 4-i 690/2008/EK bizottsági rendelet, valamint az azt módosító, 2010. január 8-i
+17/2010/EU és a 2010. április 27-i 361/2010/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket
+állapítja meg.”
+5. § (1) Az R. 4. számú melléklete e rendelet 1. melléklete szerint módosul.
+(2) Az R. 5. számú melléklete e rendelet 2. melléklete szerint módosul.
+(3) Az R. 7. számú melléklete e rendelet 3. melléklete szerint módosul.
+(4) Az R. 8. számú melléklete e rendelet 4. melléklete szerint módosul.
+
+(5) Az R. 9. számú melléklete e rendelet 5. melléklete szerint módosul.
+(6) Az R. 10. számú melléklete e rendelet 6. melléklete szerint módosul.
+(7) Az R. 23. számú melléklete e rendelet 7. melléklete szerint módosul.
+(8) Az R. 26. számú melléklete e rendelet 8. melléklete szerint módosul.
+6. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba és az azt követő napon hatályát veszti.
+(2) Hatályát veszti az R. 9. számú mellékletének 4.2., 4.3. pontja és a 10. számú mellékletében található bejelentési űrlap
+7. pontja.
+(3) Hatályát veszti az Egri borvidék védett eredetű borairól szóló 102/2009. (VIII. 5.) FVM rendelet 8. § (2) bekezdésének
+negyedik mondata.
+7. § Ez a rendelet a következő közösségi jogi aktusoknak való megfelelést szolgálja:
+a) A Tanács 2007/33/EK irányelve (2007. június 11.) a burgonya-fonálféreg elleni védekezésről és a 69/465/EGK
+irányelv hatályon kívül helyezéséről;
+b) A Bizottság 2010/134/EU határozata (2010. március 1.) a 2006/473/EK határozat a kontinentális Ausztrália
+Xanthomonas campestristől (annak a citrusfélékre patogén minden törzsétől) mentesként történő elismerése
+tekintetében történő módosításáról;
+c) A Bizottság 361/2010/EU rendelete (2010. április 27.) a Közösségben a meghatározott növény-egészségügyi
+kockázatoknak kitett védett övezetek elismeréséről szóló 690/2008/EK rendelet módosításáról;
+d) A Bizottság 2010/380/EU határozata (2010. július 7.) a 2008/840/EK határozatnak az Anoplophora chinensis
+(Forster) Unióba történő behurcolásának megelőzését célzó sürgősségi intézkedések tekintetében történő
+módosításáról.
+Dr. Fazekas Sándor s. k.,
+vidékfejlesztési miniszter
+1. melléklet a 25/2010. (X. 20.) VM rendelethez
+Az R. 4. számú melléklete kiegészül a következő 20. ponttal:
+„20. Acer spp., ültetésre szánt növények, a vetőmag kivételével Kína”
+
+2. melléklet a 25/2010. (X. 20.) VM rendelethez
+Az R. 5. számú mellékletének 55. pontja helyébe a következő 55.1 és 55.2. pont lép:
+„55.1 A Kínán kívüli olyan országokból
+származó, alábbi nemzetségekbe, illetve
+fajba tartozó, ültetésre szánt növények,
+a vetőmag kivételével, ahol az Anoplophora
+chinensis (Forster) előfordul: Acer spp.,
+Aesculus hippocastanum, Alnus spp., Betula
+spp., Carpinus spp., Citrus spp., Corylus spp.,
+Cotoneaster spp., Fagus spp., Lagerstroemia
+spp., Malus spp., Platanus spp., Populus spp.,
+Prunus spp., Pyrus spp., Salix spp. és Ulmus
+spp.
+(1) A 4. számú melléklet A. részének 9., 16. és 18. pontjában, valamint
+az 5. számú melléklet A. része I. szakaszának 14., 15., 17., 18., 19.2., 20.,
+22.1., 22.2., 23.1., 23.2., 32.1., 32.3., 33., 34., 36.1., 39., 40., 43., 44. és
+46. pontjában meghatározott rendelkezések figyelembevétele
+mellett hatósági nyilatkozat arról, hogy a „fogékony növények”
+megfelelnek a 2008/840/EK bizottsági határozatban foglalt
+követelményeknek és hogy:
+a) a növényeket egész életciklusuk alatt a származási ország nemzeti
+növényvédelmi szervezete által – az adott növény-egészségügyi
+intézkedésekre vonatkozó nemzetközi szabványokkal összhangban –
+kártevőmentesnek nyilvánított területen lévő termőhelyen
+termesztették. A kártevőmentes terület nevét a „származási hely”
+rovatban kell feltüntetni, vagy
+b) a növényeket az exportot megelőzően legalább két éven keresztül
+– a növény-egészségügyi intézkedésekre vonatkozó nemzetközi
+szabványokkal összhangban – Anoplophora chinensistől (Forster)
+mentesnek nyilvánított termőhelyen termesztették:
+ba) melyet a származási ország nemzeti növényvédelmi szervezete
+nyilvántartásba vett és felügyel, továbbá
+bb) melyet évente kétszer, megfelelő időpontban elvégzett hatósági
+vizsgálatnak vetettek alá az Anoplophora chinensis (Forster)
+előfordulására utaló jelek kimutatására, azonban nem találtak
+a szervezetre utaló jeleket, továbbá
+bc) ha a növényeket olyan helyen termesztették,
+– ahol teljes volt a fizikai védelem az Anoplophora chinensis (Forster)
+behurcolása ellen, vagy
+– ahol megfelelő megelőző kezelések alkalmazására került sor és
+melyet egy legalább két km kiterjedésű pufferzóna vett körül,
+melyben évente, megfelelő időpontokban felméréseket végeztek
+az Anoplophora chinensis (Forster) jelenlétének vagy jeleinek
+kimutatására. Ha kimutatják az Anoplophora chinensis (Forster) jeleit,
+azonnali felszámolási intézkedéseket kell hozni a pufferzóna
+kártevőmentességének visszaállítása érdekében, továbbá
+bd) ahol a növényszállítmányokat közvetlenül az exportot
+megelőzően alaposan megvizsgálták – különös tekintettel
+a növénygyökerekre és -szárakra – az Anoplophora chinensis (Forster)
+jelenlétének kimutatása céljából. E vizsgálatnak megsemmisítéssel
+járó mintavételt is magában kell foglalnia. A vizsgálandó mintának
+lehetővé kell tennie legalább a fertőzöttségi szint 1%-ának
+kimutatását, 99%-os megbízhatósággal.
+(2) A 2008/840/EK bizottsági határozatban foglalt követelményeknek
+megfelelően a növényeket alaposan meg kell vizsgálni a belépési
+hely növény-egészségügyi határállomásán vagy az engedélyezett
+ellenőrzési helyen. Az alkalmazott vizsgálati módszereknek
+biztosítaniuk kell az Anoplophora chinensis (Forster) bármely jelének
+kimutatását, különösen a növény gyökereiben és szárában.
+E vizsgálatnak megsemmisítéssel járó mintavételt is magában kell
+foglalnia. A vizsgálandó mintának lehetővé kell tennie legalább
+a fertőzöttségi szint 1%-ának kimutatását, 99%-os megbízhatósággal.
+
+55.2. A Kínából származó, alábbi
+nemzetségekbe, illetve fajba tartozó,
+ültetésre szánt növények: Aesculus
+hippocastanum, Alnus spp., Betula spp.,
+Carpinus spp., Citrus spp., Corylus spp.,
+Cotoneaster spp., Fagus spp., Lagerstroemia
+spp., Malus spp., Platanus spp., Populus spp.,
+Prunus spp., Pyrus spp., Salix spp. és Ulmus
+spp.
+(1) A 4. számú melléklet A. részének 9., 16., 18. és 20. pontjában,
+valamint az 5. számú melléklet A. része I. szakaszának 14., 15., 17., 18.,
+19.2., 20., 22.1., 22.2., 23.1., 23.2., 32.1., 32.3., 33., 34., 36.1., 39., 40., 43.,
+44. és 46. pontjában meghatározott rendelkezések figyelembevétele
+mellett hatósági nyilatkozat arról, hogy a „fogékony növények”
+megfelelnek a 2008/840/EK bizottsági határozatban foglalt
+követelményeknek és hogy:
+a) a növényeket egész életciklusuk alatt Kína nemzeti
+növényvédelmi szervezete által – az adott növény-egészségügyi
+intézkedésekre vonatkozó nemzetközi szabványokkal összhangban –
+kártevőmentesnek nyilvánított területen lévő termőhelyen
+termesztették. A kártevőmentes terület nevét a „származási hely”
+rovatban kell feltüntetni, vagy
+b) a növényeket az exportot megelőzően legalább két éven keresztül
+– a növény-egészségügyi intézkedésekre vonatkozó nemzetközi
+szabványokkal összhangban – Anoplophora chinensistől (Forster)
+mentesnek nyilvánított termőhelyen termesztették:
+ba) melyet a származási ország nemzeti növényvédelmi szervezete
+nyilvántartásba vett és felügyel, továbbá
+bb) melyet évente kétszer, megfelelő időpontban elvégzett hatósági
+vizsgálatnak vetettek alá az Anoplophora chinensis (Forster)
+előfordulására utaló jelek kimutatására, azonban nem találtak
+a szervezetre utaló jeleket, továbbá
+bc) ha a növényeket olyan helyen termesztették, – ahol teljes volt
+a fizikai védelem az Anoplophora chinensis (Forster) behurcolása ellen,
+vagy
+– ahol megfelelő megelőző kezelések alkalmazására került sor és
+melyet egy legalább két km kiterjedésű pufferzóna vett körül,
+melyben évente, megfelelő időpontokban felméréseket végeztek
+az Anoplophora chinensis (Forster) jelenlétének vagy jeleinek
+kimutatására.
+Ha kimutatják az Anoplophora chinensis (Forster) jeleit, azonnali
+felszámolási intézkedéseket kell hozni a pufferzóna
+kártevőmentességének visszaállítása érdekében, továbbá
+bd) ahol a növényszállítmányokat közvetlenül az exportot
+megelőzően alaposan megvizsgálták – beleértve az egyes tételekre
+vonatkozó, célzott, megsemmisítéssel járó mintavételt is –, különös
+tekintettel a növénygyökerekre és –szárakra, az Anoplophora
+chinensis (Forster) jelenlétének kimutatása céljából. A vizsgálandó
+mintának lehetővé kell tennie legalább a fertőzöttségi szint 1%-ának
+kimutatását, 99%-os megbízhatósággal,
+c) a termőhely nyilvántartási száma.
+(2) A 2008/840/EK bizottsági határozatban foglalt követelményeknek
+megfelelően a növényeket alaposan meg kell vizsgálni a belépési
+hely növény-egészségügyi határállomásán vagy az engedélyezett
+ellenőrzési helyen. Az alkalmazott vizsgálati módszereknek
+biztosítaniuk kell az Anoplophora chinensis (Forster) bármely jelének
+kimutatását, különösen a növény gyökereiben és szárában.
+E vizsgálatnak megsemmisítéssel járó mintavételt is magában kell
+foglalnia. A vizsgálandó mintának lehetővé kell tennie legalább
+a fertőzöttségi szint 1%-ának kimutatását, 99%-os
+megbízhatósággal.”
+
+3. melléklet a 25/2010. (X. 20.) VM rendelethez
+1. Az R. 7. számú mellékletének 1.1.2.1–1.1.2.3. pontja helyébe a következő rendelkezés lép:
+„1.1.2.1. A burgonya-fonálféreg 1.1.2.3. pontban felsorolt, ültetésre szánt gazdanövényeinek és egyéb gyökeres,
+hagymás növényeknek a telepítése előtti kötelező talajvizsgálatok és az áruburgonya terület legalább 0,5%-án
+a burgonya-fonálféreg jelenlétének kiderítésére végzett hatósági ellenőrzések adatairól az MgSzH területi szerve
+kötelező nyilvántartást vezet, beleértve a mentes vizsgálati eredmények feljegyzését is. Az áruburgonyában végzett
+felderítés adatait ÿminden év április 1-jéig kell eljuttatni a Bizottságnak.
+1.1.2.2 Hatóságilag fertőzöttnek kell nyilvánítani az olyan parcellát, amelynek talajából a hatósági vizsgálat vagy
+felderítés során fonálféreg-fertőzöttséget mutattak ki.
+1.1.2.3. Hatóságilag fertőzöttnek kell nyilvánítani az olyan parcelláról származó burgonyát vagy az alábbi azon
+növényeket, melyek:
+a) a kártevők gyökeres gazdanövényei: Capsicum annuum, Lycopersicon esculentum, Solanum melongena,
+b) egyéb gyökeres növények: Allium porrum, Beta vulgaris, Brassica spp., Fragaria, Asparagus,
+c) ültetésre szánt, talajban termesztett hagyma, gumó, rizóma azok kivételével, amelyek esetében a csomagolás
+alapján vagy más módon bizonyított, hogy azokat nem hivatásszerűen növény vagy vágott virág előállítással
+foglalkozó végfelhasználónak történő értékesítésre szánják: Allium ascalonicum, Allium cepa, Dahlia, Gladiolus,
+Hyacinthus, Iris, Lilium, Narcissus, Tulipa,
+és egy olyan parcelláról származnak, amelyet a hatósági vizsgálat, vagy felderítés nyomán burgonyafonálféreggel
+fertőzöttnek nyilvánítottak, vagy amelyek olyan talajjal érintkeztek, amelyben burgonya-fonálférget találtak.
+Fertőzöttnek kell nyilvánítani e növények tárolóhelyeit is.”
+2. Az R. 7. számú mellékletének 1.4.1. pontja helyébe a következő rendelkezés lép:
+„1.4.1. Apple proliferation phytoplasma, Pear decline phytoplasma gyümölcsfán, Grapevine flavescens dorée
+phytoplasma szőlőn
+A fertőzött növényeket, valamint a környezetükben lévő és a fertőzés továbbterjesztésére alkalmas növényeket,
+valamint az azokat termő területet haladéktalanul zárlat alá kell helyezni. A fertőzött növényeket soron kívül meg kell
+semmisíteni, és a zárlat alá helyezett területet megfigyelés alatt kell tartani. Szaporító- és ültetvényanyagok esetében
+a fertőzött növények környezetében lévő gazdanövényeket, továbbá a fertőzött növények anyanövényeit e károsítók
+kimutatására alkalmas módszerekkel meg kell vizsgálni, és a vizsgálat eredménye alapján a fertőzött növényeket és
+közvetlen környezetükben lévő, nem fertőzött gazdanövényeket haladéktalanul meg kell semmisíteni. A fertőzést
+terjesztő vektorok elleni védekezésről folyamatosan gondoskodni kell. A zárlat a fertőzés megszüntetése után,
+a mentes vizsgálati eredmények birtokában oldható fel.
+1.4.1.1. Apricot chlorotic leafroll phytoplasma
+A fertőzött szaporítóanyagot termő területeket és azok növényállományát haladéktalanul zárlat alá kell helyezni.
+A fertőzés tüneteit mutató, valamint a károsító kimutatására alkalmas laboratóriumi vizsgálatok alapján fertőzöttnek
+minősített növényeket és azok közvetlen környezetében lévő gazdanövényeket égetéssel meg kell semmisíteni.
+A zárlat alá helyezett területre a fitoplazmát terjesztő vektorok ellen határidőre megszabott kötelező védekezést kell
+elrendelni. A zárlat a fertőzött növények megsemmisítése és a vektoroktól való mentesség elérése után oldható fel.
+A fertőzött gyümölcstermő ültetvényeket haladéktalanul zárlat alá kell helyezni. A fertőzött növényállományra
+a fitoplazmát terjesztő vektorok ellen határidőre megszabott kötelező védekezést kell elrendelni. A zárlat a vektoroktól
+ való mentesség elérése után oldható fel. A vektormentesség folyamatos biztosítását az ültetvényben a területileg
+illetékes MgSzH-nak a zárlat feloldása után meghatározott terv szerint ellenőriznie kell.”
+
+4. melléklet a 25/2010. (X. 20.) VM rendelethez
+1. Az R. 8. számú mellékletének II. szakaszában szereplő hatósági engedély minta 11. pontjában szereplő Kiegészítő
+nyilatkozat magyar nyelvű szövegrészének helyébe a következő szövegrész lép:
+„Az anyag szállítása a Közösség [területére]/ [területén belül]1 a 2008/61/EK irányelvnek való megfelelést szolgáló
+7/2001. (I. 17.) FVM rendelet szerint történik.”
+2. Az R. 8. számú melléklete III. szakasza A) részének 1.1. pontja helyébe a következő rendelkezés lép:
+„1.1. A növényi anyagot, az MgSzH által kiadott módszertani kézikönyvben meghatározott irányelvek alapján,
+megfelelő terápiás eljárásnak kell alávetni, ha az szükséges.”
+3. Az R. 8. számú melléklete III. szakasza A) részének 1.3.2. bekezdése helyébe a következő rendelkezés lép:
+„1.3.2. Az olyan betegségre (pl. Blight és Blight-like), amelyre nincs rövid távú tesztelési eljárás, a növényanyagot
+érkezéskor steril tenyészetben nevelt magoncra, hajtáscsúcs oltással kell ráoltani, az MgSzH által külön módszertani
+leírásban meghatározott irányelvek szerint, majd a kapott növényeket az 1.1. pontban megadott terápiás eljárásnak
+kell alávetni.”
+4. Az R. 8. számú melléklete III. szakasza A) részének 2.1. pontja helyébe a következő rendelkezés lép:
+„2.1. A növényi anyagot, az MgSzH által kiadott módszertani kézikönyvben meghatározott irányelvek alapján,
+megfelelő terápiás eljárásnak kell alávetni, ha az szükséges.”
+5. Az R. 8. számú melléklete III. szakasza A) részének 3.1. pontja helyébe a következő rendelkezés lép:
+„3.1. A növényi anyagot, az MgSzH által kiadott módszertani kézikönyvben meghatározott irányelvek alapján,
+megfelelő terápiás eljárásnak kell alávetni, ha az szükséges.”
+6. Az R. 8. számú melléklete III. szakasza A) részének 4.1. pontja helyébe a következő rendelkezés lép:
+„4.1. A növényi anyagot, az MgSzH által kiadott módszertani kézikönyvben meghatározott irányelvek alapján,
+megfelelő terápiás eljárásnak kell alávetni, ha az szükséges.”
+7. Az R. 8. számú melléklete III. szakasza A) része 4.5.1. pontjának d)–e) alpontja helyébe a következő rendelkezés lép:
+„d) Az a) és b) pontban hivatkozott anyagra vonatkozóan a Clavibacter michiganensis (Smith) Davis et al. ssp.
+sepedonicus (Spieckermann et Kotthoff) Davis et al. kórokozó vizsgálatára az MgSzH által kiadott módszertani
+kézikönyvben meghatározott eljárást kell alkalmazni.
+e) Az a) és b) pontban hivatkozott anyagra vonatkozóan a Ralstonia solanacearum (Smith) Yabuuchi et al. kórokozó
+vizsgálatára az MgSzH által kiadott módszertani kézikönyvben meghatározott eljárást kell alkalmazni.”
+5. melléklet a 25/2010. (X. 20.) VM rendelethez
+1. Az R. 9. számú mellékletének 9.1., 9.2. és 9.3. pontja helyébe a következő szöveg lép:
+„9. Továbbszaporításra termesztett lágyszárú növények
+9.1. A termelő minden év február 28-ig köteles az MgSzH illetékes területi szervének bejelenteni a kereskedelmi
+forgalomba kerülő, a 6. számú melléklet A. része I. szakasza 2. pontjában meghatározott, növényútlevél-köteles
+ültetésre szánt növények, továbbá a II. szakaszban felsorolt, védett zónában növényútlevél-köteles, ültetésre szánt
+lágyszárú növények bármely szaporítási fokozatú anyanövényeit, anyanövény állományait a védett zóna
+megnevezését az azonosításhoz szükséges faj, fajta, mennyiségi és területi adatok közlésével. A fentieken kívül be kell
+jelenteni a 6. számú melléklet A. része I. szakasza 2.4. pontjában meghatározott Allium növények esetében
+a dughagyma nem növényútlevél-köteles célú, de hivatásszerűen történő előállítását is. Az MgSzH területi szerve
+a bejelentett területeken szabadföldi termesztés esetében évente 2 alkalommal, üvegházi termesztés esetén
+2 havonta vizuális növény-egészségügyi vizsgálatot, illetve szükség esetén speciális laboratóriumi vizsgálatot végez,
+melynek eredményéről szemlejegyzőkönyvet, illetve laboratóriumi jegyzőkönyvet állít ki.
+9.2. Ültetésre szánt Lycopersicon esculentum, Capsicum annuum és Solanum melongena növényeket csak
+laboratóriumi vizsgálattal bizonyítottan, zárlati Globodera fajoktól mentes parcellán lehet előállítani és tárolni. Nem
+szükséges hatósági vizsgálat, ha MgSzH területi szerve megállapította, hogy nem áll fenn a burgonya-fonálféreg
+elterjedésének veszélye, mert az e pont szerinti növényekből előállított növényeket ugyanazon a hatóságilag
+azonosítható, egybefüggő termőhelyen belül fogják elültetni.
+9.3. Ültetésre szánt Allium porrum, Brassica spp. Fragaria spp. Asparagus spp. növényeket csak laboratóriumi
+vizsgálattal bizonyítottan, zárlati Globodera fajoktól mentes parcellán lehet előállítani és tárolni, vagy olyan területen,
+amelyen az előző 12 évben igazoltan nem termesztettek Solanum tuberosum, Lycopersicon esculentum, Capsicum
+
+annuum és Solanum melongena növényeket, vagy a megfelelő, hatóságilag jóváhagyott vizsgálat eredményein
+alapulva az utolsó 12 év során igazoltan nem volt a parcellában burgonya-fonálféreg. Nem szükséges hatósági
+vizsgálat, ha MgSzH területi szerve megállapította, hogy nem áll fenn a burgonya-fonálféreg elterjedésének veszélye,
+mert az e pont szerinti növényekből előállított növényeket ugyanazon a hatóságilag azonosítható, egybefüggő
+termőhelyen belül fogják elültetni, vagy ha az előállított növényeket a hatóság által elfogadott módszerrel kezelik
+(fertőtlenítik vagy róluk a talajt lemosással /lekeféléssel eltávolítják.)”
+2. Az R. 9. számú mellékletének 10.1 és 10.2. pontja helyébe a következő rendelkezés lép:
+„10. Gumók, hagymák, rizómák
+10.1. A termelő minden év február 28-ig köteles az MgSzH illetékes területi szervének bejelenteni a kereskedelmi
+forgalomba kerülő, a 6. számú melléklet I. szakasza 3. pontjában felsorolt fajok ültetésre szánt gumóinak, hagymáinak,
+hagymagumóinak előállítását ültetési anyag és késztermék előállítása céljából az azonosításhoz szükséges faj, fajta,
+mennyiségi és területi adatok közlésével. Az MgSzH területi szerve a bejelentett területeken szabadföldi termesztés
+esetében évente 2 alkalommal, üvegházi termesztés esetén havonta 1 alkalommal vizuális növény-egészségügyi
+vizsgálatot, illetve szükség esetén speciális laboratóriumi vizsgálatot végez, melynek eredményéről
+szemlejegyzőkönyvet, illetve laboratóriumi jegyzőkönyvet állít ki.
+10.2. Ültetésre szánt, talajban termesztett Allium cepa, A. ascalonicum Dahlia spp., Gladiolus spp, Hyacinthus spp, Iris
+spp, Lilium spp, Narcissus spp. és Tulipa spp. gumók, hagymák, rizómák
+A gumókat, hagymákat, rizómákat, ha azokat hivatásszerűen tevékenykedő végfelhasználónak történő értékesítésre
+szánják, csak laboratóriumi vizsgálattal bizonyítottan, zárlati Globodera fajoktól mentes parcellán lehet előállítani és
+tárolni, vagy olyan területen, amelyen az előző 12 évben igazoltan nem termesztettek Solanum tuberosum,
+Lycopersicon esculentum, Capsicum annuum és Solanum melongena növényeket, vagy a megfelelő, hatóságilag
+jóváhagyott vizsgálat eredményein alapulva az utolsó 12 év során igazoltan nem volt a parcellában
+burgonya-fonálféreg. Nem szükséges hatósági vizsgálat, ha MgSzH területi szerve megállapította, hogy nem áll fenn
+a burgonya-fonálféreg elterjedésének veszélye, mert az e pont szerinti növényekből előállított növényeket ugyanazon
+a hatóságilag azonosítható, egybefüggő termőhelyen belül fogják elültetni, vagy ha az előállított növényeket
+a hatóság által elfogadott módszerrel kezelik (fertőtlenítik vagy róluk a talajt lemosással /lekeféléssel eltávolítják.)”
+3. Az R. 9. számú mellékletének 12. és 13. pontja helyébe a következő rendelkezés lép:
+„12. Fa csomagolóanyagok
+A gyártó, a javító, a kezelő, a forgalmazó minden év február 28-ig köteles bejelentkezni az MgSzH illetékes területi
+szervénél a telephely megnevezésével, a gyártásra, forgalomba hozatalra szánt faanyag mennyiségének közlésével.
+Az MgSzH területi szerve a gyártónál, javítónál, a kezelőnél, illetve a forgalmazó kiszerelőnél évente két alkalommal
+vizuális növény-egészségügyi vizsgálatot végez, melynek eredményéről szemlejegyzőkönyvet állít ki.
+13. Terményraktárak, malmok és takarmánykeverők
+A tulajdonos vagy bérlő, illetve az üzemeltető minden év február 28-ig köteles bejelentkezni az MgSzH illetékes
+területi szervénél a raktározott termény, valamint a terményraktár, malom vagy takarmánykeverő adatainak
+közlésével (tulajdonos, bérlő, illetve üzemeltető megnevezése, település megnevezése, raktár neve és címe, tárolási
+kapacitás, termény neve). Az MgSzH területi szerve az ellenőrzéseket feladatterv alapján, felderítés jelleggel végzi el.
+A szemlék, illetve az azt esetenként kiegészítő laboratóriumi vizsgálatok elvégzése után az MgSzH területi szerve
+a növény-egészségügyi állapotról jegyzőkönyvet állít ki.”
+
+6. melléklet a 25/2010. (X. 20.) VM rendelethez
+Az R. 10. számú mellékletében található bejelentési űrlap 1. pontja helyébe a következő rendelkezés lép:
+„1. A termelés/raktározás
+jellege:
+Termelő Gyűjtőraktározó,
+forgalmazó
+Importőr
+Szaporító- és ültetvényanyag
+(folytatás a 4. pontban)
+Vetőburgonya
+Vetőmag
+Áruburgonya
+Citrusféle gyümölcs
+az ISPM 15 szabvány szerinti
+jelzést alkalmazó
+fa-csomagolóanyagot
+{} gyártó
+{} összeállító
+{} javító
+{} kezelő
+{} forgalmazó
+{} egyéb nyilvántartásra
+kötelezett
+{} egyéb vizsgálatra
+kötelezett”
+7. melléklet a 25/2010. (X. 20.) VM rendelethez
+Az R. 23. számú mellékletének címe helyébe a következő szöveg lép:
+„A fa csomagolóanyagokra vonatkozó előírások a FAO növény-egészségügyi intézkedésekre (ISPM) vonatkozó
+15. számú nemzetközi szabványának megfelelően”
+8. melléklet a 25/2010. (X. 20.) VM rendelethez
+Az R. 26. számú melléklete 2. pontjának a) alpontja helyébe a következő rendelkezés lép:
+[Az 5. számú melléklet A. része I. szakaszának 16.2. pontja alkalmazásában a következő területeket ismerik el
+a Xanthomonas campestris a citrusfélékre patogén minden törzsétől mentesnek]
+„a) Ausztráliában: Új Dél-Wales, Dél-Ausztrália, az Északi Terület, Queensland, Dél-Ausztrália, Victoria és Nyugat-
+Ausztrália;”
+
+VI.
+Az Al kot mány bí ró ság ha tá ro za tai és vég zé sei

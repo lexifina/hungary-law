@@ -1,0 +1,61 @@
+# A vidékfejlesztési miniszter 23/2010. (X. 20.) VM rendelete
+
+Magyar Közlöny 2010. évi 162. szám, 2010. október 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/07ab4293f195303cf74305b919ca024d2b03b3f3/dokumentumok/01add18fb280c45f14f2754a314f0b8b77d574a2/letoltes)
+
+---
+
+A vidékfejlesztési miniszter 23/2010. (X. 20.) VM rendelete
+az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez
+nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet módosításáról
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint
+a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) pontjában
+meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+Az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások
+részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet (a továbbiakban: R.) 3. §-a a következő (9) bekezdéssel
+egészül ki:
+„(9) A (7) bekezdésben foglaltakat az ÁTK I. valamint az ÁTK II. jogcím alapján benyújtott támogatási kérelmekhez
+kapcsolódó lemondásra irányuló kérelmek esetében is alkalmazni kell.”
+2. §
+(1) Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A mezőgazdasági termelő támogatási kérelem benyújtására akkor jogosult, ha:
+a) a mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (a továbbiakban: EUME), és
+b) olyan állattartó telepet működtet, amelyet az állat-egészségügyi hatóság nyilvántartásba vett, és
+c) a beruházást az állattartó telepen valósítja meg, és
+d) a 2. számú mellékletben meghatározott szervezet tagja, és
+e) az ÁTK I. jogcím, illetve az ÁTK II. jogcím keretében nem nyújtott be támogatási kérelmet vagy, ha az ügyfél
+az ÁTK I. jogcím, illetve az ÁTK II. jogcím keretében támogatási kérelemnek helyt adó vagy részben helyt adó
+támogatási határozattal rendelkezik, és
+ea) az ÁTK I. jogcím, illetve az ÁTK II. szerinti támogatási határozathoz kapcsolódó utolsó kifizetési kérelme
+vonatkozásában jogerős kifizetési határozattal rendelkezik, vagy
+eb) az ÁTK I. jogcím, illetve az ÁTK II. jogcím keretében támogatási kérelemnek helyt adó vagy részben helyt adó
+támogatási határozattal rendelkezik, a műveletet megkezdte az ÁTK III. jogcím támogatási kérelem benyújtásának
+napjáig, és fejlesztési, beruházási tevékenységre vonatkozóan már nyújtott be kifizetési kérelmet, vagy
+ec) az ÁTK I. jogcím, illetve az ÁTK II. jogcím keretében támogatási kérelemnek helyt adó vagy részben helyt adó
+támogatási határozattal rendelkezik, amelyhez kapcsolódóan az ÁTK III. jogcím támogatási kérelem benyújtásának
+napjáig még nem nyújtott be kifizetési kérelmet, és teljes bizonyító erejű magánokiratban foglalt, visszavonhatatlan
+nyilatkozatban az ÁTK I. jogcím, illetve az ÁTK II. jogcím keretében kapott támogatás egészéről lemond,
+f) az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg
+fizetéséről szóló 91/2009. (IV. 22.) Korm. rendelet [a továbbiakban: 91/2009. (IV. 22.) Korm. rendelet] alapján nem vett
+igénybe támogatási előleget, vagy ha vett igénybe, úgy az igénybe vett támogatási előleg összegére vonatkozóan
+a 91/2009. (IV. 22.) Korm. rendelet 5. § (1) bekezdésében előírt határidőben benyújtotta az elszámolását,
+g) a biogáz előállítással kapcsolatos – a „Trágyafeldolgozás anaerob fermentációval” csoportcím alatti – támogatási
+egység meg valósítása esetén szarvasmarha, sertés vagy baromfi állatfajokból legalább 200 ÁE szinten tartási
+kötelezettségvállalásra vonatkozóan nyújtja be a kérelmet, és az a)–f) pontokban meghatározott feltételeket is
+teljesíti.”
+(2) Az R. 5. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+ [(2) Nem vonatkozik:]
+„a) az (1) bekezdés a)–d) pontjában előírt feltétel a termelői csoportra;”
+
+3. §
+Az R. a következő 15. §-sal egészül ki:
+„15. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez
+nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet módosításáról szóló 23/2010.
+(X. 20.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 3. § (9) bekezdését, az 5. § (1) bekezdését,
+valamint az 5. § (2) bekezdés a) pontját a módosító rendelet hatálybalépésekor folyamatban levő ügyekben is
+alkalmazni kell.”
+4. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba, és a hatálybalépését követő napon a hatályát veszti.
+Dr. Fazekas Sándor s. k.,
+vidékfejlesztési miniszter
