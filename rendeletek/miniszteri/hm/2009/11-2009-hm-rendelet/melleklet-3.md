@@ -20,6 +20,6 @@
 
 ## szem. ig. száma
 
-3. számú melléklet a 11/2009. (VII. 10.) HM rendelethez[^14]
+3. számú melléklet a 11/2009. (VII. 10.) HM rendelethez[^15]
 
-[^14]: A 3. számú melléklet a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése, a 15/2010. (X. 5.) HM rendelet 5. §-a szerint módosított szöveg.
+[^15]: A 3. számú melléklet a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése, a 15/2010. (X. 5.) HM rendelet 5. §-a szerint módosított szöveg.
