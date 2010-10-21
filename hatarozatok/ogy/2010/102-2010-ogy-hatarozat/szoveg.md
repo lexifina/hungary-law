@@ -1,0 +1,1 @@
+Az Országgyűlés az afganisztáni Nemzetközi Biztonsági Közreműködő Erők (ISAF) műveleteiben történő magyar katonai részvétel engedélyezéséről szóló 2113/2008. (VIII. 27.) Korm. határozat módosításáról szóló beszámolót elfogadja.
