@@ -1,0 +1,1 @@
+Az Országgyűlés megállapítja, hogy az Állami Számvevőszék törvényi kötelezettségeit teljesítette, elfogadja az intézmény 2009. évi tevékenységéről szóló jelentését, valamint az intézmény gazdálkodásáról készített, független könyvvizsgáló által felülvizsgált és hitelesnek minősített pénzügyi beszámolót.
