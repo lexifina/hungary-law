@@ -26,6 +26,8 @@ e) a telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget 
 
 (8)[^15] A Vhr. 20. § (3)–(4) bekezdéseiben foglalt feltételeket e jogcím tekintetében megvalósítási helyenként kell alkalmazni.
 
+(9)[^16] A (7) bekezdésben foglaltakat az ÁTK I. valamint az ÁTK II. jogcím alapján benyújtott támogatási kérelmekhez kapcsolódó lemondásra irányuló kérelmek esetében is alkalmazni kell.
+
 [^7]: A 3. § (1) bekezdés a) pontja a 143/2009. (XI. 5.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^8]: A 3. § (1) bekezdés b) pontja a 143/2009. (XI. 5.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^9]: A 3. § (1) bekezdés c) pontja a 143/2009. (XI. 5.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
@@ -35,3 +37,4 @@ e) a telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget 
 [^13]: A 3. § (6) bekezdését a 92/2007. (VIII. 24.) FVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^14]: A 3. § (7) bekezdését a 130/2008. (X. 1.) FVM rendelet 2. §-a iktatta be, szövege a 143/2009. (XI. 5.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^15]: A 3. § (8) bekezdését a 130/2008. (X. 1.) FVM rendelet 2. §-a iktatta be.
+[^16]: A 3. § (9) bekezdését a 23/2010. (X. 20.) VM rendelet 1. §-a iktatta be.

@@ -176,6 +176,6 @@
 
 | 1 | 3 | 2 | 1 | 2 | Kapcsoló és vezérlő elemek, szerelvények kiépítése, szükséges transzformátor bővítés biztosítása | ezer Ft |
 
-4. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^90]
+4. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^94]
 
-[^90]: A 4. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^94]: A 4. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.

@@ -1,6 +1,7 @@
-## 14. §[^86] E rendeletnek az egyes Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó támogatásokról szóló miniszteri rendeletek módosításáról szóló 21/2010. (III. 16.) FVM rendelet 27. §-sával hatályon kívül helyezett 9. § (6) bekezdését a 2010. március 1-jétől benyújtott kifizetési kérelmek esetén nem kell alkalmazni.
+## 15. §[^89] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet módosításáról szóló 23/2010. (X. 20.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 3. § (9) bekezdését, az 5. § (1) bekezdését, valamint az 5. § (2) bekezdés a) pontját a módosító rendelet hatálybalépésekor[^90] folyamatban levő ügyekben is alkalmazni kell.
 
-1. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^87]
+1. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^91]
 
-[^86]: A 14. §-t a 21/2010. (III. 16.) FVM rendelet 26. §-a iktatta be.
-[^87]: Az 1. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^89]: A 15. §-t a 23/2010. (X. 20.) VM rendelet 3. §-a iktatta be.
+[^90]: A hatálybalépés időpontja: 2010. október 23.
+[^91]: Az 1. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
