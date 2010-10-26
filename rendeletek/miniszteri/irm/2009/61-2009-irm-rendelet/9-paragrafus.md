@@ -2,17 +2,7 @@
 
 ## A jogszabály tervezetének a megjelölése, a megalkotott jogszabály megjelölése a jogszabály kihirdetése során
 
-9. § (1) Az Alkotmány megjelölése annak kihirdetése során „A Magyar Köztársaság Alkotmánya”.
-
-(2) Az Alkotmány módosításának megjelölése annak kihirdetése során – az alábbi sorrendben –
-
-a) az „Az Alkotmány” kifejezést,
-
-b) az alkotmánymódosítás kihirdetésének évét, hónapját és napját „-i” képzős szerkezettel, valamint
-
-c) a „módosítása” kifejezést
-
-foglalja magában.
+9. § (1)–(2)[^4]
 
 (3) A megalkotott törvény megjelölése annak kihirdetése során – az alábbi sorrendben –
 
@@ -61,3 +51,5 @@ f) a jogszabály címét
 foglalja magában.
 
 (6) A jogszabály tervezetének a megjelölése – a jogszabály sorszáma és a kihirdetés ideje kivételével – az (1)–(5) bekezdésben meghatározott elemeket az ott meghatározott sorrendben foglalja magában.
+
+[^4]: A 9. § (1)–(2) bekezdését a 11/2010. (X. 25.) KIM rendelet 1. § (1) bekezdés 3. pontja hatályon kívül helyezte.

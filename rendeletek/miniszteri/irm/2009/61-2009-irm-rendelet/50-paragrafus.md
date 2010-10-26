@@ -22,7 +22,7 @@ ea) törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet te
 
 eb) hatályba léptető rendelkezések,
 
-ec) a jogszabály rövidítését megállapító rendelkezés,
+ec)[^16]
 
 ed) átmeneti rendelkezések,
 
@@ -33,3 +33,5 @@ ef) módosító rendelkezések,
 eg) hatályon kívül helyező rendelkezések,
 
 eh) a hatályba nem lépésről szóló rendelkezések.
+
+[^16]: Az 50. § (2) bekezdés e) pont ec) alpontját a 11/2010. (X. 25.) KIM rendelet 1. § (1) bekezdés 8. pontja hatályon kívül helyezte.

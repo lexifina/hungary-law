@@ -16,13 +16,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 2.2. A jogszabály megjelölése a kihirdetés során
 
-2.2.1. Az Alkotmány megjelölése a kihirdetés során
+2.2.1.[^32]
 
-| A MAGYAR KÖZTÁRSASÁG ALKOTMÁNYA |
-
-2.2.2. Az Alkotmány módosításának a megjelölése a kihirdetés során
-
-| Az Alkotmány {a jogszabály kihirdetése évének a száma}. {a jogszabály kihirdetésének a hónapja} {a jogszabály kihirdetése napjának a száma}-i módosítása |
+2.2.2.[^33]
 
 2.2.3. A törvény megjelölése a kihirdetés során
 
@@ -50,13 +46,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 2.3. A jogszabály tervezetének a megjelölése
 
-2.3.1. Az Alkotmány tervezetének a megjelölése
+2.3.1.[^34]
 
-| A MAGYAR KÖZTÁRSASÁG ALKOTMÁNYA |
-
-2.3.2. Az Alkotmány módosítása tervezetének a megjelölése
-
-| Az Alkotmány ... . … …-i módosítása |
+2.3.2.[^35]
 
 2.3.3. A törvény tervezetének a megjelölése
 
@@ -546,9 +538,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hivatkozott alpontot vagy alpontokat tartalmazó uniós jogi aktusra vonatkozó merev hivatkozás} {az alpontot vagy alpontokat tartalmazó cikk sorszámára vonatkozó hivatkozás} cikk {az alpontot vagy alpontokat tartalmazó pont megjelölésére vonatkozó hivatkozás} pont {az alpont vagy alpontok megjelölésére vonatkozó hivatkozás} alpontja |
 
-6. Az alkotmánymódosítás preambuluma
+6.[^36] Az alkotmánymódosítás preambuluma
 
-| Az Országgyűlés mint alkotmánymódosító hatalom az Alkotmány 19. § (3) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alkotmányt a következők szerint módosítja: |
+| Az Országgyűlés mint alkotmányozó hatalom az Alkotmány 19. § (3) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alkotmányt a következők szerint módosítja: |
 
 7. A bevezető rész felépítése
 
@@ -778,9 +770,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hatályba léptető rendelkezést tartalmazó szakasz száma}. § (1) Ez a {a jogszabály típusnak megjelölése} – {a jogszabály egészének hatálybalépésétől eltérő időpontban történő hatálybalépésről rendelkező bekezdésre vagy bekezdésekre vonatkozó merev hivatkozás}-ben foglalt kivétellel – {a hatálybalépés időpontja} lép hatályba. (2) {a jogszabály hatálybalépésének időpontjánál későbbi, de e rendelkezések közül a legkorábbi időpontban hatályba lépő szerkezeti egységre vagy annak szövegrészére vonatkozó merev hivatkozás vagy hivatkozások} {a későbbi hatálybalépés időpontja} lép hatályba. […[ ({az utolsó bekezdés száma}) {a legkésőbb hatályba lépő szerkezeti egységre vagy annak szövegrészére vonatkozó merev hivatkozás vagy hivatkozások} {a legkésőbbi hatálybalépés időpontja} lép hatályba |
 
-10. A jogszabály megjelölésének más jogszabályban kötelezően alkalmazandó rövidítését meghatározó rendelkezés
-
-| E {a jogszabály típusa} rövidítése: {a jogszabály rövidítése}. |
+10.[^37]
 
 11. A jogharmonizációs záradék formája és megszövegezése
 
@@ -1572,12 +1562,12 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | Hatályát veszti [{a mellékletre vonatkozó merev hivatkozás} címében (VAGY) [a (VAGY) az] {a melléklet pontjára vagy a mezőre vonatkozó merev hivatkozás}][-ában (VAGY) -ében] a „{hatályon kívül helyezni kívánt szövegrész}” szövegrész. |
 
-19. Technikai dereguláció
+19.[^38]
 
-19.1. A jogszabály egészét hatályon kívül helyező rendelkezés a hatályba léptető rendelkezéssel egy mondatban
-
-| {a jogszabály egészét hatályba léptető rendelkezést tartalmazó szakasz száma}. § Ez [a (VAGY) az] {a jogszabály típusa} {hatálybalépés időpontja} lép hatályba és {a jogszabály végrehajtottá válásának napját követő nap}-n hatályát veszti. |
-
-19.2. A jogszabálynak a megalkotásakor ismert időpontban végrehajtottá váló valamennyi rendelkezését hatályon kívül helyező rendelkezés
-
-| § (1) {A jogszabálynak a megalkotásakor ismert időpontban végrehajtottá váló valamennyi rendelkezése végrehajtottá válásának a napját követő nap}-n hatályát veszti {a jogszabálynak a megalkotásakor ismert időpontban végrehajtottá váló valamennyi rendelkezésére vonatkozó merev hivatkozás}. (2) Ez a § az (1) bekezdésben meghatározott napot követő napon hatályát veszti. |
+[^32]: Az 1. melléklet 2.2.1. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^33]: Az 1. melléklet 2.2.2. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^34]: Az 1. melléklet 2.3.1. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^35]: Az 1. melléklet 2.3.2. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^36]: Az 1. melléklet 6. pontja a 11/2010. (X. 25.) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^37]: Az 1. melléklet 10. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^38]: Az 1. melléklet 19. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 3. pontja hatályon kívül helyezte.

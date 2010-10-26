@@ -1,6 +1,6 @@
 21. § (1) Merev hivatkozásban a Magyar Köztársaság Alkotmányának a megjelölése „az Alkotmány”.
 
-(2) Merev hivatkozásban az alkotmánymódosítás megjelölése a 9. § (2) bekezdésében meghatározottakat foglalja magában.
+(2)[^6]
 
 (3) Merev hivatkozásban a törvény megjelölése – az alábbi sorrendben –
 
@@ -53,3 +53,5 @@ d) a „rendelet” kifejezést
 foglalja magában.
 
 (7) A jogszabály tervezetében az e rendelet hatálybalépése előtt kihirdetett jogszabályt is az (1)–(6) bekezdésnek megfelelően kell megjelölni azzal, hogy ha a kihirdetett jogszabály címe nem „-ról” vagy „-ről” ragra végződik, a „szóló” kifejezés helyett a „című” kifejezést kell alkalmazni.
+
+[^6]: A 21. § (2) bekezdését a 11/2010. (X. 25.) KIM rendelet 1. § (1) bekezdés 5. pontja hatályon kívül helyezte.

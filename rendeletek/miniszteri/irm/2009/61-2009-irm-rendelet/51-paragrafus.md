@@ -28,4 +28,6 @@ a) a törvény részletes tartalma vagy
 
 b) annak megállapítása, hogy a törvény valamely uniós jogi aktusnak való megfelelést szolgálja.
 
-(5) Az alkotmánymódosítás-tervezet preambulumában utalni kell arra, hogy az akaratkijelentés során az Országgyűlés az Alkotmány 19. § (3) bekezdés a) pontja szerinti hatáskörében eljárva mint alkotmánymódosító hatalom jár el.
+(5)[^17] Az alkotmánymódosítás-tervezet preambulumában utalni kell arra, hogy az akaratkijelentés során az Országgyűlés az Alkotmány 19. § (3) bekezdés a) pontja szerinti hatáskörében eljárva mint alkotmányozó hatalom jár el.
+
+[^17]: Az 51. § (5) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (7) bekezdés 2. pontja szerint módosított szöveg.
