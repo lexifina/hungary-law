@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Rónaszékiné Keresztes Monika országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 20. B.39.344/2008/8. számú megkeresésével érintett ügyben nem függeszti fel.
