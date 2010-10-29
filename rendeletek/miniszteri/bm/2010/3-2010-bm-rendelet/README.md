@@ -1,0 +1,9 @@
+# 3/2010. (X. 21.) BM rendelet
+
+a Belügyminisztérium és a belügyminiszter irányítása, illetve felügyelete alá tartozó szervek fontos és bizalmas munkaköreiről és a nemzetbiztonsági ellenőrzés szintjének megállapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-3-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-10-29 | 2010-3-20-0A.1 | 3/2010. (X. 21.) BM rendelet |

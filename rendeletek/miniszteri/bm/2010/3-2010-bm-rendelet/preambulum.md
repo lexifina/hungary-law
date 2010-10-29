@@ -1,0 +1,1 @@
+A nemzetbiztonsági szolgálatokról szóló 1995. CXXV. törvény 78. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 37. §-ának (2) bekezdésében és a miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § e) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:

@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya a Belügyminisztérium hivatali szerveire, valamint az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat kivételével a belügyminiszter által irányított, felügyelt háttérintézményekre terjed ki.
+
+(2) A Belügyminisztériumban, valamint a belügyminiszter irányítása, illetve felügyelete alá tartozó szerveknél a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 2. melléklet 18. pontja alapján a fontos és bizalmas munkaköröket, továbbá az ilyen munkakörben foglalkoztatott személyek nemzetbiztonsági ellenőrzésének szintjét a mellékletben foglaltak szerint határozom meg.
