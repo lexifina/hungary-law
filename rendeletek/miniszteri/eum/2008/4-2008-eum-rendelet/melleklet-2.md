@@ -4,7 +4,7 @@
 
 | Ország | Oklevél megnevezése | Kibocsátó szerv | Képesítést kísérő igazolás |
 
-| Belgium | – Diploma van arts (Orvosi oklevél) – Diplôme de docteur en médecine (Orvosdoktori oklevél) | 1. De universiteiten/les universités (Egyetemek) 2. De bevoegde Examencommissie van de Vlaamse Gemeenschap (A Flamand Közösség illetékes vizsgáztató bizottsága) / le Jury compétent d’enseignement de la Communauté francaise (A Francia Közösség illetékes oktatási bizottsága) |  |
+| Belgium | Diplôme de «médecin»/Master in de geneeskunde (Orvosi oklevél/Orvostudományi mesteroklevél) | Les universités/De universiteiten (Egyetemek) Le Jury compétent d’enseignement de la Communauté française (A Francia Közösség illetékes oktatási bizottsága)/De bevoegde Examencommissie van de Vlaamse Gemeenschap (A Flamand Közösség illetékes vizsgáztató bizottsága) |  |
 
 | Bulgária | Диплома за висше образование на образователно- квалификационна степен „магистър по Медицина” и професионална квалификация "Магистър-лекар”(Felsőfokú diploma a „medicina magisztere” fokozatú szakképzésről és a „magiszter-orvos” szakképzettségről) | Университет (Egyetem) |  |
 
@@ -58,7 +58,7 @@
 
 | Szlovákia | Vysokoškolsky diplom o udelení akademického titulu „doktor medicíny” („MUDr.”) (Felsőfokú orvosi tanulmányok befejezést igazoló oklevél „orvosdoktor” cím megszerzéséről („MUDr. – medicinae universalis doctor”)) | Vysoká škola (Egyetem) |  |
 
-| Finnország | Lääketieteen lisensiaatin tutkinto / medicine licentiatexamen (Egyetemi fokozatú orvosi képesítés) | 1. Helsingin yliopisto / Helsingfors universitet (Helsinki egyetem) 2. Kuopion yliopisto (Kupioi egyetem) 3. Oulun yliopisto (Oului egyetem) 4. Tampereen yliopisto (Tamperei egyetem) 5. Turun yliopisto (Turkui egyetem) | Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta / examensbevis om tilläggsutbildning för läkare inom primärvården (Bizonyítvány az orvos kiegészítő képzéséről az egészségügyi alapellátás terén) |
+| Finnország | Lääketieteen lisensiaatin tutkinto/medicine licentiatexamen (Egyetemi fokozatú orvosi képesítés) | 1. Helsingin yliopisto/Helsingfors universitet (Helsinki egyetem)2. Itä-Suomen yliopisto (Kelet-Finnországi egyetem)3. Oulun yliopisto (Oului egyetem) 4. Tampereen yliopisto (Tamperei egyetem)5. Turun yliopisto (Turkui egyetem) | Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta/ examensbevis om tilläggsutbildning för läkare inom primärvården (Bizonyítvány az orvos kiegészítő képzéséről az egészségügyi alapellátás terén) |
 
 | Svédország | Läkarexamen (Orvosi oklevél) | Universitet (Egyetem) | Bevis om praktisk utbildning som utfärdas av Socialstyrelsen (A Társadalombiztosítási Igazgatóság által kiadott igazolás gyakorlati képzésről) |
 
@@ -124,7 +124,7 @@
 
 | Szlovákia | Diplom o špecializácii (Szakosításról szóló oklevél) | 1. Slovenská zdravotnícka univerzita (Szlovák Egészségügyi Egyetem) 2. Univerzita Komenského v Bratislave (Pozsonyi Komenský Egyetem) 3. Univerzita Pavla Jozefa Šafárika v Košiciach (Kassai Pavol Jozef Šafárik Egyetem) |
 
-| Finnország | Erikoislääkärin tutkinto / specialläkarexamen (Szakorvosi képesítés) | 1. Helsingin yliopisto / Helsingfors universitet (Helsinki egyetem) 2. Kuopion yliopisto (Kupioi egyetem) 3. Oulun yliopisto (Oului egyetem) 4. Tampereen yliopisto (Tamperei egyetem) 5. Turun yliopisto (Turkui egyetem) |
+| Finnország | Erikoislääkärin tutkinto/specialläkarexamen (Szakorvosi képesítés) | 1. Helsingin yliopisto/Helsingfors universitet (Helsinki egyetem)2. Itä-Suomen yliopisto (Kelet-Finnországi egyetem)3. Oulun yliopisto (Oului egyetem)4. Tampereen yliopisto (Tamperei egyetem)5. Turun yliopisto (Turkui egyetem) |
 
 | Svédország | Bevis om specialkompetens som läkare, utfärdat av Socialstyrelsen (A Társadalombiztosítási Igazgatóság által kiadott szakorvosi oklevél) | Socialstyrelsen (Társadalombiztosítási Igazgatóság) |
 
@@ -2356,7 +2356,7 @@
 
 | Norvégia | – |  |
 
-| Ausztria | Radiologie (2004. március 31-ig) |  |
+| Ausztria | Radiologie |  |
 
 | Lengyelország | – |  |
 
@@ -2994,7 +2994,7 @@
 
 | Málta | Tabib tal-familja |
 
-| Hollandia | Certificaat van inschrijving in het register van erkende huisartsen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst (kiadta: Huisarts, Verpleeghuisarts en arts voor verstandelijk gehandicapte Registratie Commissie (HRVC) |
+| Hollandia | Certificaat van inschrijving in een specialistenregister van huisartse |
 
 | Norvégia | Bevis for kompetanse som allmenpraktiserende lege |
 
@@ -3164,4 +3164,4 @@
 
 2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^2]
 
-[^2]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja szerint módosított szöveg.

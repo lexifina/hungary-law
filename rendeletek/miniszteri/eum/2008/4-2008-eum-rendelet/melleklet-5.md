@@ -290,7 +290,7 @@ A) A gyógyszerész oklevelek megnevezései, kibocsátó szervei, valamint a ké
 
 | Szlovákia | Vysokoškolský diplom o udelení akademického titulu „magister farmácie” („Mgr.”) [Felsőfokú gyógyszerészi tanulmányok befejezést igazoló oklevél a „magister farmácie” cím megszerzéséről („Mgr.”)] | Vysoká školá (Egyetem) |  |
 
-| Finnország | Proviisorin tutkinto / provisorexamen (Gyógyszerész képesítés) | 1. Helsingin yliopisto / Helsingfors universitet (Helsinki egyetem) 2. Kuopion yliopisto (Kupioi egyetem) |  |
+| Finnország | Proviisorin tutkinto/provisorexamen (Gyógyszerész képesítés) | 1. Helsingin yliopisto/Helsingfors universitet (Helsinki egyetem)2. Itä-Suomen yliopisto (Kelet-Finnországi egyetem) |  |
 
 | Svédország | Apotekarexamen (Gyógyszerész oklevél) | Universitet och högskolor (Egyetem vagy főiskola) |  |
 
@@ -338,4 +338,4 @@ i) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állam
 
 k) Amennyiben az adott gyógyszerészi tevékenység végzéséhez az A) pont szerinti oklevél megszerzése mellett a külön jogszabály szakmai gyakorlat követelményét írja elő, a szakmai gyakorlathoz kötött gyógyszerészi tevékenység megkezdésének feltételeként előírt gyakorlat igazolásaként el kell fogadni a tagállami állampolgár származási vagy küldő tagállamának illetékes hatósága által kiadott olyan igazolást, amely tanúsítja, hogy a tagállami állampolgár a gyógyszerészi tevékenységet a külön jogszabályban előírttal azonos ideig gyakorolta a származási vagy küldő tagállamban.
 
-[^5]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § d) pontja szerint módosított szöveg.

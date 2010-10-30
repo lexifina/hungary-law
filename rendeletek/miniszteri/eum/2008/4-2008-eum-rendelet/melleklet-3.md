@@ -48,7 +48,7 @@
 
 | Norvégia | Vitnemål for bestått Sykepleierutdanning (Ápolói/ápolónői képzés elvégzését bizonyító képesítő oklevél) | Høgskole (Főiskola) |  |
 
-| Ausztria | 1. Diplom als ’Diplomierte Gesundheits- und Krankenschwester/ Diplomierter Gesundheits- und Krankenpfleger’ („Okleveles egészséggondozó és betegápolónő ill. okleveles egészséggondozó és betegápoló” oklevél) 2. Diplom als ’Diplomierte Krankenschwester/ Diplomierter Krankenpfleger’ (Okleveles betegápolónő / okleveles betegápoló) | 1. Schule für allgemeine Gesundheits- und Krankenpflege (Általános Egészséggondozó és Ápolóképző Iskola) 2. Allgemeine Krankenpflegeschule (Általános ápolóképző iskola) |  |
+| Ausztria | 1. Diplom über die Ausbildung in der allgemeinen Gesundheits- und Krankenpflege (Általános egészséggondozás és betegápolás képzés elvégzését tanúsító oklevél)2. Diplom als ‘Diplomierte Krankenschwester/Diplomierter Krankenpfleger’ (Okleveles betegápolónő/Okleveles betegápoló)3. Diplom über den Abschluss des Fachhochschul- Bachelorstudiengangs „Gesundheits- und Krankenpflege” (Egészséggondozás és betegápolás főiskolai bachelor képzés elvégzését tanúsító oklevél) | 1. Schule für allgemeine Gesundheits- und Krankenpflege (Általános Egészséggondozó és Ápolóképző Iskola)2. Allgemeine Krankenpflegeschule (Általános ápolóképző iskola)3. Fachhochschulrat/ Fachhochschule (Főiskolák Tanácsa/Főiskolák) |  |
 
 | Lengyelország | 1. Dyplom ukończenia studiów wyższych na kierunku pielęgniarstwo z tytułem „magister pielęgniarstwa” (Ápolói szakon végzettek egyetemi/főiskolai oklevele „okleveles ápoló” címmel) 2. Dyplom ukończenia studiów wyższych zawodowych na kierunku/specjalności pielęgniarstwo z tytułem „licencjat pielęgniarstwa” (Ápolói karon/szakon végzett felsőfokú tanulmányok befejezését igazoló diploma, mely „ápolónő licenc” cím használatára jogosít) | Instytucja prowadząca kształcenie na poziomie wyższym uznana przez właściwe władze (A felsőfokú végzettséget nyújtó oktatási intézmény képzési tevékenységét elismerő illetékes hatóság) |  |
 
@@ -114,7 +114,7 @@
 
 | Norvégia | Sykepleier |
 
-| Ausztria | Diplomierte Krankenschwester/Diplomierter Krankenpfleger |
+| Ausztria | Diplomierte Gesundheits- und Krankenschwester/Diplomierter Gesundheits- und Krankenpfleger |
 
 | Lengyelország | Pielęgniarka |
 
@@ -192,4 +192,4 @@
 
 3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^3]
 
-[^3]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja szerint módosított szöveg.
+[^3]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja szerint módosított szöveg.
