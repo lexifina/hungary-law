@@ -1,3 +1,0 @@
-6. § (1) A Kbt. IV. fejezete alkalmazásában a Kbt. 98. § (1) és (2) bekezdése, 138. § (3) bekezdése és a 144. § (4) bekezdése szerinti, az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetmény mintáját az 1. melléklet tartalmazza. A Kbt. V. fejezete alkalmazásában a Kbt. 200. § (1) és (2) bekezdése, a 231. § (1) és (2) bekezdése és a 237. § (1) és (2) bekezdése szerinti, az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetmény mintáját szintén az 1. melléklet tartalmazza.
-
-(2) A Kbt. IV. fejezete alkalmazásában a Kbt. 136/C. § (6) bekezdése szerinti, az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetmény mintáját a 2. melléklet tartalmazza.

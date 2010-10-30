@@ -1,1 +1,0 @@
-A közbeszerzésekről szóló 2003. évi CXXIX. törvény 404. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. §-ának h) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
