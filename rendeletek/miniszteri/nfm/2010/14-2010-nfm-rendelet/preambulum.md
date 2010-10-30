@@ -1,0 +1,1 @@
+A közbeszerzésekről szóló 2003. évi CXXIX. törvény 404. § (2) bekezdés a) pontjában kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

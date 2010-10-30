@@ -1,0 +1,1 @@
+## 7. § A Kbt. VI. és VII. fejezete alkalmazásában az egyszerű közbeszerzési eljárásban az ajánlattételi felhívást tartalmazó hirdetmény mintáját [Kbt. 249. § (1) bekezdése] a 3. melléklet tartalmazza.
