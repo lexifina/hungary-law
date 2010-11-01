@@ -10,4 +10,6 @@
 
 ## 6. Hatályát veszti a Miniszterelnöki Hivatalban, a minisztériumokban, az igazgatási és az igazgatás jellegű tevékenységet ellátó központi költségvetési szerveknél foglalkoztatottak létszámáról szóló 2057/2008. (V. 14.) Korm. határozat.
 
-1. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz
+1. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^1]
+
+[^1]: Az 1. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 1–2. pontja szerint módosított szöveg.

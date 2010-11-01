@@ -8,7 +8,7 @@
 
 | 3. | Belügyminisztérium | 346 |
 
-| 4. | Honvédelmi Minisztérium | 490 |
+| 4. | Honvédelmi Minisztérium | 550 |
 
 | 5. | Külügyminisztérium | 672 |
 
@@ -16,13 +16,13 @@
 
 | 7. | Nemzeti Erőforrás Minisztérium | 906 |
 
-| 8. | Nemzeti Fejlesztési Minisztérium | 549 |
+| 8. | Nemzeti Fejlesztési Minisztérium | 552 |
 
 | 9. | Vidékfejlesztési Minisztérium | 735 |
 
-| 10. | ÖSSZESEN: | 5764 |
+| 10. | ÖSSZESEN: | 5827 |
 
-2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz
+2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
 Igazgatási és igazgatási jellegű szervek létszáma
 
@@ -96,7 +96,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 4.3. | Magyar Kereskedelmi Engedélyezési Hivatal | 486 |
 
-| 4.4. | Nemzeti Kutatási és Technológiai Hivatal (Kutatásfejlesztési Pályázati és Kutatáshasznosítási Irodával együtt) | 161 |
+| 4.4. | Nemzeti Kutatási és Technológiai Hivatal (Kutatásfejlesztési Pályázati és Kutatáshasznosítási Irodával együtt) | 158 |
 
 | 4.5. | Nemzeti Fogyasztóvédelmi Hatóság | 512 |
 
@@ -296,4 +296,6 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 9.2. | Regionális Nyugdíjbiztosítási Igazgatóságok, Nyugdíjfolyósító Igazgatóság | 3 692 |
 
-| 10. | ÖSSZESEN: | 59 957 |
+| 10. | ÖSSZESEN: | 59 954 |
+
+[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
