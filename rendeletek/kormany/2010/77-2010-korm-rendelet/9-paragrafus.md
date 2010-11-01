@@ -1,3 +1,3 @@
-## 8. § A területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^2]
 
-## „(2) Területi (környezeti, társadalmi és gazdasági) hatásvizsgálat csak a területrendezési tervezési jogosultságról és a területrendezési tervezési tevékenység felügyeletét ellátó hatóság kijelöléséről szóló kormányrendeletben meghatározott területrendezési tervezési tevékenység folytatására jogosult személy irányításával készíthető el.”
+[^2]: A 8. §-t a 10. § (2) bekezdése hatályon kívül helyezte.
