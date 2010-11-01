@@ -40,7 +40,7 @@
 
 | Ország (állomáshely) ÁZSIA | Pénznem | Alapellátmányok bruttó havi összege |
 
-| Afganisztán | EUR | 2565 |
+| Afganisztán | EUR | 1707 |
 
 | Azerbajdzsán | EUR | 1434 |
 
@@ -72,7 +72,7 @@
 
 | Libanon | EUR | 1550 |
 
-| Pakisztán | EUR | 2060 |
+| Pakisztán | EUR | 1373 |
 
 | Palesztina | EUR | 1440 |
 
@@ -244,8 +244,8 @@ A kiegészítő pótlék bruttó havi összege
 
 | III. kategória (20%) |
 
-| Afganisztán | EUR | 513 |
+| Afganisztán | EUR | 341 |
 
-| Pakisztán | EUR | 412 |
+| Pakisztán | EUR | 275 |
 
-[^3]: A 2. számú melléklet a 10/2009. (XII. 30.) KüM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. számú melléklet a 3/2010. (X. 12.) KüM rendelet 1. §-ával megállapított szöveg.
