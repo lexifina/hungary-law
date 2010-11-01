@@ -150,13 +150,15 @@ b) 1000 Ft-ot meghaladó összeg esetén, vagy ha a villamosenergia-vásárlási
 
 (14)[^139] Ha a felhasználó a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
 
+(15)[^140] Az egyetemes szolgáltató a felhasználó kérésére a részszámlát, valamint az elszámoló számlát elektronikus úton bocsátja ki.
+
 ## Kifogás a számla ellen
 
-10. § (1)[^140] A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla kiegyenlítésére csak akkor van halasztó hatálya, ha a számla összege az előző év azonos időszakára vetített díj 150%-át meghaladja.
+10. § (1)[^141] A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla kiegyenlítésére csak akkor van halasztó hatálya, ha a számla összege az előző év azonos időszakára vetített díj 150%-át meghaladja.
 
 (2) Az egyetemes szolgáltató köteles a kifogást megvizsgálni, és ennek eredményéről a felhasználót legkésőbb a kifogás kézhezvételétől számított 15 napon belül írásban értesíteni.
 
-(3)[^141] Ha a felhasználót visszatérítés illeti meg, az egyetemes szolgáltató azt az esedékességtől számított 8 napon belül köteles a felhasználó részére készpénzben kifizetni vagy a felhasználó fizetési számlájára visszautalni. A felek erre vonatkozó megállapodása alapján az egyetemes szolgáltató jogosult a visszatérítést a felhasználót terhelő számlatartozás összegébe beszámítani.
+(3)[^142] Ha a felhasználót visszatérítés illeti meg, az egyetemes szolgáltató azt az esedékességtől számított 8 napon belül köteles a felhasználó részére készpénzben kifizetni vagy a felhasználó fizetési számlájára visszautalni. A felek erre vonatkozó megállapodása alapján az egyetemes szolgáltató jogosult a visszatérítést a felhasználót terhelő számlatartozás összegébe beszámítani.
 
 (4) Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót díj vagy díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel.
 
@@ -171,5 +173,6 @@ b) 1000 Ft-ot meghaladó összeg esetén, vagy ha a villamosenergia-vásárlási
 [^137]: A Vhr. 1. számú melléklet 7. § (8) bekezdése a 64/2009. (III. 31.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^138]: A Vhr. 1. számú melléklet 9. § (4) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^139]: A Vhr. 1. számú melléklet 9. § (14) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^140]: A Vhr. 1. számú melléklet 10. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^141]: A Vhr. 1. számú melléklet 10. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^140]: A Vhr. 1. számú melléklet 9. § (15) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^141]: A Vhr. 1. számú melléklet 10. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^142]: A Vhr. 1. számú melléklet 10. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.

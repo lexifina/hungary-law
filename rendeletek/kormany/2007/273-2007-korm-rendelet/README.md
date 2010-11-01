@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | --- | --- | --- |
 | 2009-12-31 | 2007-273-20-22.12 | 273/2007. (X. 19.) Korm. rendelet |
 | 2010-05-01 | 2007-273-20-22.13 | 116/2010. (IV. 15.) Korm. rendelet |
+| 2010-11-01 | 2007-273-20-22.14 | 116/2010. (IV. 15.) Korm. rendelet |
