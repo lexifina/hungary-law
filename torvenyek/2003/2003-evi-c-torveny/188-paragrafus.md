@@ -172,7 +172,7 @@ Közvetítő-előválasztás: az előfizető szerződésben köti ki a közvetí
 
 Hívásonkénti közvetítőválasztás: az előfizető egy-egy híváshoz a közvetítő szolgáltatót szolgáltató-választó előtét tárcsázásával – az esetleges előválasztástól is eltérően – határozza meg.
 
-69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a Hatóság internetes oldalain haladéktalanul.
+69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.
 
 70. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
 
