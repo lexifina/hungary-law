@@ -17,3 +17,9 @@
 (9) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-ának szavazata szükséges.
 
 (10) Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről és az e § szerinti feladatok végrehajtásának határidejéről.
+
+(11) Az (1) bekezdés szerinti országgyűlési határozatban foglalt, a Magyar Rádió Közalapítványt, a Hungária Televízió Közalapítványt, valamint a Magyar Televízió Közalapítványt érintő változások tekintetében a Polgári Törvénykönyv 74/A. § (2) bekezdésében, 74/A. § (6) bekezdésében, valamint a 74/B. § (5) bekezdésében foglalt rendelkezések azzal az eltéréssel alkalmazandók, hogy a Közszolgálati Közalapítvány a Kuratórium megalakulásával kezdi meg tevékenységét.
+
+(12) A (11) bekezdésben foglaltakra tekintettel a Kuratórium a megalakulásától kezdve teljes jogkörben jár el, a feladatai ellátásához szükséges jognyilatkozatokat érvényesen megteszi.
+
+(13) A Közszolgálati Közalapítvány adataiban bekövetkezett módosulást a megalakulást követően a bíróság a nyilvántartásban végzésével nyolc napon belül átvezeti. A nyilvántartásban szereplő adatok módosulásának átvezetése nem tagadható meg, ha az alapító okirat az e törvényben, valamint az ezen § szerinti országgyűlési határozatban meghatározott feltételeknek megfelel. A Közalapítvány Kuratóriuma által, annak megalakulását követően tett jognyilatkozatok érvényesek.

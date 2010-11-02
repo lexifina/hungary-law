@@ -16,7 +16,7 @@ a) a közszolgálati műsorszolgáltatók és az MTI Zrt. működési és fejles
 
 b) a Közalapítvány saját költségei (kiadásai).
 
-(3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot, közhasznú társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
+(3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
 
 (4) A Közalapítvány a működési költségeit az üzemben tartási díjnak e törvényben szabályozott mértékű részéből fedezi.
 

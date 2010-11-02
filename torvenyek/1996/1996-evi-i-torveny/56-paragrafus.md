@@ -8,7 +8,7 @@
 
 (5) A meg nem választott jelölt helyére új jelöltet kell állítani, és az új választást 10 napon belül meg kell tartani. Nem jelölhető újra az a személy, aki az előző választás során nem kapta meg az összes képviselő szavazatainak legalább 10%-át.
 
-(6) A Kuratórium akkor alakul meg, amikor a Kuratórium tagjait megválasztják.
+(6) A Kuratórium akkor tekintendő megalakultnak, amikor a Kuratórium tagjait megválasztják és az elnökét, valamint egy további tagját a Médiatanács delegálja.
 
 (7) Nem akadálya a Kuratórium megalakulásának, ha akár a kormánypárti, akár az ellenzéki oldal nem állít jelöltet. Ebben az esetben legalább 3 tag megválasztása szükséges.
 

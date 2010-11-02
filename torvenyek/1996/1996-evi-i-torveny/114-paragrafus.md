@@ -36,4 +36,6 @@ e) ha a műsorszolgáltatási lehetőségre több pályázatot nyújtanak be és
 
 (7) Amennyiben a televíziós műsorszolgáltatási jogosultság 2010. január 1. és a Dtv. 38. § (1) bekezdésében rögzített céldátum között úgy jár le, hogy az a jelen törvény 107. § (1) bekezdése alapján nem újítható meg, a Médiatanács a műsorszolgáltató kérelmére – a jogszabályban a televíziók műsorterjesztése digitális átállásának céldátumára megjelölt határidőig – a műsorszolgáltatási jogosultságra ideiglenes műsorszolgáltatási szerződést köthet.
 
-(8) A jelen szakasz (7) bekezdésének alkalmazása során az (1)–(3) bekezdések, valamint az (5)–(6) bekezdések nem alkalmazandók.
+(8) Amennyiben a rádiós műsorszolgáltatási jogosultság úgy jár le, hogy az e törvény 107. § (1) bekezdése alapján nem újítható meg, és a pályáztatási eljárás során döntés még nem született, a Médiatanács a korábban jogosultsággal rendelkező műsorszolgáltatóval, annak kérelmére, a nyertes pályázóval történő műsorszolgáltatási szerződés megkötése napjáig, de legfeljebb hatvan napos időtartamra ideiglenes műsorszolgáltatási szerződést köthet.
+
+(9) A jelen szakasz (7)–(8) bekezdéseinek alkalmazása során az (1)–(3) bekezdések, valamint az (5)–(6) bekezdések nem alkalmazandók.
