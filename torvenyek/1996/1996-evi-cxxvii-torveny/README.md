@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-127-00-00
 | 2010-05-29 | 2010. évi XLIII. törvény | 1996-127-00-00.7 |
 | 2010-08-11 | 2010. évi LXXXII. törvény | 1996-127-00-00.8 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 1996-127-00-00.9 |
+| 2010-11-02 | 2010. évi CIII. törvény | 1996-127-00-00.10 |
