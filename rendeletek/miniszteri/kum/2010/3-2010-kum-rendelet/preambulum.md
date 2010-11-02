@@ -1,1 +1,0 @@
-A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 80. §-ának (8) bekezdésében, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 203. §-ának (5) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
