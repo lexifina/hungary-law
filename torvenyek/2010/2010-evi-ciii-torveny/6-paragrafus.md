@@ -7,11 +7,3 @@
 (3) A 2. § 2011. január 1-jén lép hatályba.
 
 (4) E törvény 2011. január 2-án hatályát veszti.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
