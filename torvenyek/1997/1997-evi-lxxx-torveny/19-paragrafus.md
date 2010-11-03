@@ -15,3 +15,5 @@ A saját jogú nyugdíjas foglalkoztatott, valamint a kiegészítő tevékenysé
 (5) A foglalkoztató az 5. §-ban említett biztosított betegsége miatti keresőképtelensége, valamint a kórházi (klinikai) ápolása időtartamára folyósított táppénz egyharmadát hozzájárulás címén fizeti meg.
 
 (6) A foglalkoztató és az egyéni vállalkozó által fizetendő korkedvezmény-biztosítási járulék mértéke 13 százalék.
+
+(7) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő nyugdíjjárulék mértéke – a (2) bekezdés b) pontjában foglaltaktól eltérően – 9,5 százalék.

@@ -112,17 +112,13 @@ l) Járulék: a nyugdíjjárulék, a magán-nyugdíjpénztári tagdíj, az egés
 
 m) A magánnyugdíjpénztár tagja:
 
-1. a tagságra kötelezett pályakezdő,
+1.
 
 2. a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó
 
 személy.
 
-n) Tagságra kötelezett pályakezdő:
-
-1. az a természetes személy, aki az 1998. július 1-je és 2005. december 31-e között hatályos rendelkezések értelmében tagságra kötelezett pályakezdőnek minősült, és
-
-2. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 3. §-ának (1) bekezdésében meghatározott személy.
+n)
 
 o) Magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó:
 
