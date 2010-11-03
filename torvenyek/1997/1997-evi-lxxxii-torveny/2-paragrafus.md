@@ -8,7 +8,7 @@ b) a pénztárak által e törvényben foglaltak szerint létrehozott szervezet,
 
 c) a pénztárak állami felügyeletét ellátó szervek,
 
-d) azok a természetes személyek, akik a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény alapján pályakezdőnek minősülnek és törvény alapján kötelezően pénztártaggá válnak, illetőleg a pénztárba önkéntes döntés alapján beléptek,
+d) a pénztár tagjai,
 
 e) a pénztárakat alapító szervezetek.
 

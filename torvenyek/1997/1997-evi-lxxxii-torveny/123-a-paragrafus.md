@@ -1,1 +1,11 @@
-123/A. §
+123/A. § (1) Az a személy, akinek 2012. január 1-jét megelőzően a Tny. 12. § (7) bekezdése és a 28. § (2) bekezdése alapján a Tny. 6. § (1) bekezdésének a)–b) pontjában – ideértve a Tny. 6. § (4) bekezdésében felsorolt ellátásokat is – meghatározott nyugellátást állapítottak meg, 2011. december 31-ig kérheti nyugellátása összegének a Tny. 12. § (6) bekezdésének alkalmazásával történő módosítását.
+
+(2) Az (1) bekezdésben foglalt rendelkezés által érintett személy 2011. március 31-ig tértivevénnyel ellátott levélben kap tájékoztatást a nyugellátás módosításával kapcsolatos eljárásról.
+
+(3) Az (1) bekezdés szerinti módosítási kérelmet (a továbbiakban: módosítási kérelem) ahhoz a magánnyugdíjpénztárhoz kell benyújtani, amelytől az érintett személy nyugdíjszolgáltatásban részesült, illetve amelynek tagja. A pénztár a kérelmet annak beérkezésétől számított 8 napon belül köteles megvizsgálni. Amennyiben az (1) bekezdésben foglalt feltételeknek nem állnak fenn, a magánnyugdíjpénztár erről értesíti a kérelmezőt.
+
+(4) Amennyiben a kérelmező már részesült magánnyugdíjpénztári nyugdíjszolgáltatásban, az igénybe vett szolgáltatás összegét köteles a módosítási kérelem benyújtásától számított 60 napon belül a magánnyugdíjpénztár részére visszafizetni. A magánnyugdíjpénztár a visszafizetési kötelezettség teljesítését követően, legkésőbb a módosítási kérelem kézhezvételétől számított 90 napon belül köteles a magánnyugdíjpénztári nyugdíjszolgáltatás megállapításának vagy biztosítóintézettől történt megvásárlásának időpontjában a pénztártag egyéni számláján nyilvántartott jogszerű követelésének megfelelő összeget a Nyugdíjbiztosítási Alapba átutalni és erről a nyugdíjbiztosítási igazgatási szervet – a módosítási kérelem másolatának megküldésével együtt – értesíteni.
+
+(5) Amennyiben a kérelmező részére nyugdíjszolgáltatást nyújtó magánnyugdíjpénztár jogutód nélkül megszűnt, a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kérelem benyújtását, illetve az igénybe vett magán-nyugdíjpénztári szolgáltatás igazolt összegének visszafizetését az érintett személynek az illetékes nyugdíjbiztosítási igazgatási szerv részére kell teljesítenie.
+
+(6) A nyugdíjbiztosítási igazgatási szerv a (4)–(5) bekezdésben foglaltak szerint átutalt összeg beérkezését követő hónap utolsó napjáig intézkedik a nyugellátás összegének a megállapítás időpontjára visszamenőleges, az időközben végrehajtott nyugdíjemelések figyelembevételével történő módosításáról.

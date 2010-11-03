@@ -12,7 +12,7 @@ b) nyugdíjkorhatár:
 
 2. a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a pénztártag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, előnyugdíjat, bányásznyugdíjat, egyes művészeti tevékenységet folytatók öregségi nyugdíját, ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat is, valamint a szolgálati nyugdíjat), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
 
-c) pénztártag: az a természetes személy, aki pályakezdőként, vagy önkéntes döntés alapján pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
+c) pénztártag: az a természetes személy, aki pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
 
 d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára köteles megfizetni, ideértve azt az összeget is, amellyel a Tbj. által kötelezően megállapított mértéket a pénztártag, vagy javára más személy vagy szervezet kiegészíti,
 

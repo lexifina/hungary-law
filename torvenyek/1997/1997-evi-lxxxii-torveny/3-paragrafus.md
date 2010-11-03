@@ -1,6 +1,6 @@
-3. § (1) Törvény alapján az a természetes személy válik pénztártaggá, aki Magyarországon első ízben létesít nyugdíjbiztosítási jogviszonyt, és ebben az időpontban még nem töltötte be a 35. életévét (a továbbiakban: pályakezdő).
+3. § (1)
 
-(2) Önkéntes döntése alapján pénztártaggá válhat az a pályakezdőnek nem minősülő természetes személy, aki
+(2) Önkéntes döntése alapján pénztártaggá válhat az a természetes személy, aki
 
 a) Magyarországon nyugdíjbiztosítási jogviszonyban áll, és nem töltötte be a 30. életévét;
 
@@ -8,7 +8,7 @@ b) első ízben létesít Magyarországon nyugdíjbiztosítási jogviszonyt;
 
 c) a Tbj.-ben meghatározottak szerinti harmadik állam állampolgára, illetőleg hontalan, ha Magyarországon nyugdíjbiztosítási jogviszonyban áll.
 
-(3) Nyugdíjbiztosítási jogviszony létesítése esetén a 35. életévét be nem töltött személy a jogviszony létrejöttét követő 15 napon belül nyilatkozik foglalkoztatójának – megállapodás kötése esetén a nyugdíjbiztosítási igazgatási szervnek – arról, hogy a kötelező pénztártagság létesítésének feltételei fennállnak-e. Ennek során – ilyen tartalmú nyilatkozat esetén – a korábban fennálló biztosítási jogviszonyt igazolni kell.
+(3)
 
 (4) A (2) bekezdés alapján pénztártagságot létesítő személynek nyilatkoznia kell arról, hogy a pénztártagság létesítésének jogszabályi feltételei fennállnak.
 

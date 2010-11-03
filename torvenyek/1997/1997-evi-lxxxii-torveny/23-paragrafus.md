@@ -10,17 +10,17 @@ c) zárt pénztárban a tagsági viszony SzMSz szerinti feltételének megszűn�
 
 d) a Tny. szerint megállapított rokkantsági nyugdíjra jogosulttá válásával, a rokkantsági nyugdíj megállapításának napját megelőző nappal, a tag döntése szerint; illetőleg
 
-e) a törvény 123. §-ának (2) bekezdése szerinti visszalépéssel;
+e)
 
-f) a törvény 123. §-ának (6) bekezdése szerinti visszalépéssel, a nyugellátás megállapításának napját megelőző nappal;
+f) a törvény 123. § (6) bekezdése szerinti visszalépéssel, a visszalépés napjával,
 
 g) a törvény 3. § alapján magánnyugdíjpénztárba belépett személy – amennyiben a Tbj.-ben foglaltak alapján harmadik állam állampolgárának vagy hontalannak minősül – döntése szerint, a nyugdíjbiztosítási jogviszonya megszűnésének napjával;
 
-h) a törvény 123. §-ának (8) bekezdése szerinti visszalépéssel;
+h)
 
 i) a 28. § (1) bekezdésének b) pontja szerinti egyösszegű szolgáltatás igénybevételével;
 
-j) e törvény 123. §-ának (15) bekezdése szerinti visszalépéssel, a visszalépés napjával
+j)
 
 szűnik meg.
 

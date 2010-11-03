@@ -20,7 +20,7 @@ h) a pénztári tartalékokhoz tartozó befektetési portfóliók kialakításá
 
 i) a 28. § c) pontjában meghatározott tagsági viszony időtartama kiszámításának részletes szabályait;
 
-j)
+j) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés, továbbá az egyéni számlakövetelés átadásának és elszámolásának részletes szabályait;
 
 k) a piaci eszközértékelésen alapuló vagyonértékelést és teljesítménymérést tartalmazó letétkezelői jelentés megküldésére vonatkozó határidőt;
 
