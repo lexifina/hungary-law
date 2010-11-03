@@ -2,11 +2,7 @@
 
 (2) Az Ny. Alap részére a XXII. Pénzügyminisztérium fejezet, 26. cím, 1. alcím
 
-a) 1. Magánnyugdíjpénztári tagdíjfizetés miatti járulékkiesés pótlására jogcím-csoport szerinti támogatás átutalása
-
-aa) január–november hónapokban a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegével,
-
-ab) december hónapban az aa) pont szerinti átutalások összegének és a várható éves magánnyugdíjpénztári tagdíjbefizetés különbözetének összegével, legfeljebb az előirányzat mértékéig a tárgyhó utolsó kincstári napján,
+a) 1. Magánnyugdíjpénztári tagdíjfizetés miatti járulékkiesés pótlására jogcímcsoport szerinti támogatás átutalása január–október hónapokban a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegével történik, november–december hónapokban nem történik átutalás,
 
 b) 2. A Nyugdíjbiztosítási Alap kiadásainak támogatása jogcím-csoport szerinti támogatás átutalása
 

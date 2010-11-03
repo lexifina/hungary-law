@@ -1,8 +1,6 @@
 ## HATODIK Fejezet
 
-## A KÖZPONTI ALRENDSZER ÉS AZ ÁLLAMHÁZTARTÁSON KÍVÜLI SZERVEZETEK KAPCSOLATA
-
-## Az egyházak és társadalmi önszerveződések támogatása
+## A KÖZPONTI ALRENDSZER ÉS AZ ÁLLAMHÁZTARTÁSON KÍVÜLI SZERVEZETEK KAPCSOLATA Az egyházak és társadalmi önszerveződések támogatása
 
 52. § (1) Az Országgyűlés a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot (a továbbiakban: humánszolgáltatások) ellátó intézményt fenntartó egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, országos kisebbségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami intézmény fenntartója) részére működési és fenntartási célú normatív és egyéb hozzájárulást állapít meg a következők szerint:
 
