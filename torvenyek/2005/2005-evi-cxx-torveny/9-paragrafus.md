@@ -17,3 +17,5 @@ a) 1,2 százaléka egészségbiztosítási járuléknak,
 b) 18,8 százaléka nyugdíjbiztosítási járuléknak
 
 minősül.
+
+(3) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag magánszemélyt terhelő ekhoból – az (1) bekezdés c) pontjától eltérően – az ekhoalap 3,9 százaléka nyugdíjjáruléknak minősül.

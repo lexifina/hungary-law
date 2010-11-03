@@ -21,3 +21,5 @@ a) 94 százalékot a Nyugdíjbiztosítási Alapnak,
 b) 6 százalékot az Egészségbiztosítási Alapnak
 
 utal át.
+
+(4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes ekhora az (1) bekezdés b) pontja nem alkalmazható.
