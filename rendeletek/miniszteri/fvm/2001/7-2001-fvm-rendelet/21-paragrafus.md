@@ -1,6 +1,6 @@
 ## Kártalanítás
 
-21. §[^97] (1) A kártalanítási igényt az MgSzH Központ az általa lefolytatott becslési eljárás, valamint a megsemmisítés végrehajtását lefolytató MgSzH területi szervének jelentése alapján bírálja el.
+21. §[^101] (1) A kártalanítási igényt az MgSzH Központ az általa lefolytatott becslési eljárás, valamint a megsemmisítés végrehajtását lefolytató MgSzH területi szervének jelentése alapján bírálja el.
 
 (2) Ha a kártalanítási igény jogalapjának és összegének megállapításához a rendelkezésre álló adatok nem elegendőek, a kellő szakismerettel rendelkező szakértő véleményét kell kikérni.
 
@@ -10,4 +10,4 @@
 
 (5) A kártalanítási igény benyújtásakor két példányban kell csatolni valamennyi, a megsemmisített vizsgálatköteles áru származásával, növényegészségügyi ellenőrzésével kapcsolatos dokumentumot, valamint a megsemmisítés vagy engedélyezett felhasználás során keletkezett valamennyi okiratot, beleértve a végső elszámolást is.
 
-[^97]: A 21. § a 65/2007. (VII. 23.) FVM rendelet 5. §-ával megállapított szöveg.
+[^101]: A 21. § a 65/2007. (VII. 23.) FVM rendelet 5. §-ával megállapított szöveg.

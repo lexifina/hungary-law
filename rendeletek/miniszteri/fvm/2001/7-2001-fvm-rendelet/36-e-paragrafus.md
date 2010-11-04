@@ -10,9 +10,9 @@ a) a növényútlevél csak a szállítmányok felosztása, több szállítmány
 
 b) a csere kizárólag a hatósági termelői nyilvántartásba bejegyzett termelőnél lehetséges,
 
-c)[^144] a csereútlevelet a kérelmező telephelye szerint illetékes MgSzH területi szerve adhatja ki abban az esetben, ha az érintett termék azonossága garantálható, illetve az 1. és a 2. számú mellékletben felsorolt károsítók fertőzésének veszélye nem állt fenn a feladás óta,
+c)[^140] a csereútlevelet a kérelmező telephelye szerint illetékes MgSzH területi szerve adhatja ki abban az esetben, ha az érintett termék azonossága garantálható, illetve az 1. és a 2. számú mellékletben felsorolt károsítók fertőzésének veszélye nem állt fenn a feladás óta,
 
-d)[^145] a csereútlevélnek tartalmaznia kell a csereútlevélre vonatkozó jelölést, az eredeti termelő növény-egészségügyi nyilvántartási számát, valamint – a növény-egészségügyi állapot megváltozása esetén – az adott változásért felelős természetes vagy jogi személy növény-egészségügyi nyilvántartási számát is.
+d)[^141] a csereútlevélnek tartalmaznia kell a csereútlevélre vonatkozó jelölést, az eredeti termelő növény-egészségügyi nyilvántartási számát, valamint – a növény-egészségügyi állapot megváltozása esetén – az adott változásért felelős természetes vagy jogi személy növény-egészségügyi nyilvántartási számát is.
 
-[^144]: A 36/E. § (4) bekezdés c) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.
-[^145]: A 36/E. § (4) bekezdés d) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.
+[^140]: A 36/E. § (4) bekezdés c) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.
+[^141]: A 36/E. § (4) bekezdés d) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.

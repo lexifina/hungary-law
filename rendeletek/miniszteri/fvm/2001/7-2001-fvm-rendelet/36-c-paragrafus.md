@@ -1,4 +1,4 @@
-## 36/C. §[^142] A növényútlevelet
+## 36/C. §[^138] A növényútlevelet
 
 a) az MgSzH területi szerve, vagy
 
@@ -8,4 +8,4 @@ c) az MgSzH területi szerve eseti felhatalmazása alapján a termelő, előáll
 
 állítja elő és – ha szükséges – tárolja.
 
-[^142]: A 36/C. § a 30/2010. (III. 30.) FVM rendelet 2. §-ával megállapított szöveg.
+[^138]: A 36/C. § a 30/2010. (III. 30.) FVM rendelet 2. §-ával megállapított szöveg.

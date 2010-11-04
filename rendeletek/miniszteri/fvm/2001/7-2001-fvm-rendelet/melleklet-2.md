@@ -442,6 +442,6 @@
 
 | 2. Tomato spotted wilt virus | Svédország, Finnország |
 
-2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^311]
+2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^307]
 
-[^311]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^307]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja szerint módosított szöveg.

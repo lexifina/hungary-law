@@ -364,6 +364,6 @@
 
 | 2. Grapevine flavescence dorée MLO | A Vitis L. fajhoz tartozó növények, a termés és a vetőmag kivételével | Cseh Köztársaság (2009. március 31-ig), a franciaországi Champagne-Ardenne, Lotaringia és Elzász régiók (2009. március 31-ig), az olaszországi Basilicata régió (2009. március 31-ig) |
 
-3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^312]
+3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^308]
 
-[^312]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
+[^308]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.

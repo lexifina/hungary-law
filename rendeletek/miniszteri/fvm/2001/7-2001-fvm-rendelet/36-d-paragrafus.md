@@ -1,4 +1,4 @@
-36/D. §[^143] (1) A növényútlevél kibocsátásán annak elkészítését (ideértve az adatok kitöltését), valamint nyomtatását és – ha szükséges – tárolását kell érteni.
+36/D. §[^139] (1) A növényútlevél kibocsátásán annak elkészítését (ideértve az adatok kitöltését), valamint nyomtatását és – ha szükséges – tárolását kell érteni.
 
 (2) Az (1) bekezdésben meghatározottak biztosítása érdekében a 36/C. § a) és b) pontjában meghatározott hatóságok:
 
@@ -20,4 +20,4 @@ h) gondoskodnak arról, hogy a növényútlevél címke részét a 36/C. § c) p
 
 (3) Ha a 36/C. § c) pontja szerinti termelő, előállító, felvásárló, gyűjtőraktározó, forgalmazó vagy importőr olyan védett zónába szándékozik vizsgálatköteles árut szállítani, ahová nem rendelkezik érvényes növényútlevéllel, az MgSzH illetékes területi szerve megvizsgálja azt és meghatározza, hogy a termék alkalmas-e az adott védett zónába való belépésre. Ilyen esetben a kérelmezőnek a kiszállítást megelőzően időben tájékoztatnia kell az MgSzH illetékes területi szervét ilyen irányú szándékáról, és azzal egyidőben folyamodnia kell a megfelelő növényútlevélért.
 
-[^143]: A 36/D. § a 30/2010. (III. 30.) FVM rendelet 2. §-ával megállapított szöveg.
+[^139]: A 36/D. § a 30/2010. (III. 30.) FVM rendelet 2. §-ával megállapított szöveg.
