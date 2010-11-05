@@ -1,0 +1,3 @@
+4. § (1) A Költségvetési törvény 1. számú melléklet X. Miniszterelnökség fejezet, 20. Tartalékok cím, 1. Költségvetés általános tartaléka alcím kiadási előirányzata 92 504,7 millió forintra, a X. fejezet összesen kiadási előirányzata 345 277,6 millió forintra változik.
+
+(2) A Költségvetési törvény 1. számú melléklet a XLII. A központi költségvetés fő bevételei fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcíme kiegészül a 10. A MOL Nyrt. befizetése jogcímcsoporttal, melynek bevételi előirányzata 35 226,6 millió forint, a XLII. fejezet összesen bevételi előirányzata 6 413 498,7 millió forintra változik, a központi alrendszer összesen kiadási előirányzata 13 568 030,4 millió forintra, bevételi előirányzata 12 703 719,3 millió forintra változik.
