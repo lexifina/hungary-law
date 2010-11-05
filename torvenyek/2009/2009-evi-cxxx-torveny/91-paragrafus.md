@@ -12,6 +12,8 @@ e) a 26. § (3) bekezdésben meghatározott előirányzat felhasználásának r�
 
 f) a 27. §-ban meghatározott finanszírozási változás részletes szabályait,
 
-g) a LXXII. Egészségbiztosítási Alap fejezet 1. cím, 7. alcím, 12. Egészségügyi finanszírozás váltással kapcsolatos bevétel fizetésének részletes szabályait.
+g) a LXXII. Egészségbiztosítási Alap fejezet 1. cím, 7. alcím, 12. Egészségügyi finanszírozás váltással kapcsolatos bevétel fizetésének részletes szabályait,
+
+h) a 88/A. §-ban meghatározottak végrehajtásának részletes szabályait.
 
 (2) Felhatalmazást kap az önkormányzati miniszter, hogy – a pénzügyminiszterrel egyetértésben – a 31. § (1) bekezdés szerint létrehozott új előirányzat igénylésének, döntési rendszerének, folyósításának és elszámolásának részletes szabályairól rendeletet alkosson.

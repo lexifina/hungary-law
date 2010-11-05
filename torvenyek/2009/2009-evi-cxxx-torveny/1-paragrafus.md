@@ -4,8 +4,8 @@
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2010. évi
 
-a) bevételi főösszegét 12 668 492,7 millió forintban,
+a) bevételi főösszegét 12 703 719,3 millió forintban,
 
-b) kiadási főösszegét 13 532 803,8 millió forintban,
+b) kiadási főösszegét 13 568 030,4 millió forintban,
 
 c) hiányát 864 311,1 millió forintban állapítja meg.

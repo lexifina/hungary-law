@@ -1,6 +1,8 @@
 ## ÖTÖDIK Fejezet
 
-## AZ ÖNKORMÁNYZATI ÉS A KÖZPONTI ALRENDSZER KAPCSOLATAI A helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok központi alrendszerből származó forrásai
+## AZ ÖNKORMÁNYZATI ÉS A KÖZPONTI ALRENDSZER KAPCSOLATAI
+
+## A helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok központi alrendszerből származó forrásai
 
 43. § (1) Az Országgyűlés a helyi önkormányzatok, valamint a települési és területi kisebbségi önkormányzatok és a többcélú kistérségi társulások normatív állami hozzájárulásának és normatív részesedésű átengedett személyi jövedelemadójának (a továbbiakban: normatív hozzájárulások) jogcímeit és fajlagos összegeit a 3. számú mellékletben foglaltak szerint állapítja meg.
 

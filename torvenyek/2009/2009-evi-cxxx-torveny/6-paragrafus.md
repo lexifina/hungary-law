@@ -1,6 +1,8 @@
 ## HARMADIK Fejezet
 
-## A KÖZPONTI ALRENDSZER EGYES ELŐIRÁNYZATAINAK MEGÁLLAPÍTÁSÁVAL, TELJESÍTÉSÉVEL, ILLETŐLEG FELHASZNÁLÁSÁVAL KAPCSOLATOS RENDELKEZÉSEK A központi alrendszer egyes tartalék-előirányzatai
+## A KÖZPONTI ALRENDSZER EGYES ELŐIRÁNYZATAINAK MEGÁLLAPÍTÁSÁVAL, TELJESÍTÉSÉVEL, ILLETŐLEG FELHASZNÁLÁSÁVAL KAPCSOLATOS RENDELKEZÉSEK
+
+## A központi alrendszer egyes tartalék-előirányzatai
 
 6. § (1) Céltartalék szolgál a X. Miniszterelnökség fejezet, 20. cím, 2. alcím, 1. Különféle kifizetések jogcím-csoporton
 

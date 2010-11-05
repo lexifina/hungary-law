@@ -4056,7 +4056,7 @@ Kölcsönök
 
 |
 
-Nemzeti Információs Infrastruktúra Fejlesztési Intézet17
+Nemzeti Információs Infrastruktúra Fejlesztési Intézet22
 
 |
 
@@ -4196,7 +4196,7 @@ Dologi kiadások
 
 |
 
-ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet18
+ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet23
 
 |
 
@@ -6346,7 +6346,7 @@ Költségvetés általános tartaléka
 
 |
 
-57 278,1
+92 504,7
 
 |
 
@@ -6394,7 +6394,7 @@ X. fejezet összesen:
 
 |
 
-310 051,0
+345 277,6
 
 |
 
@@ -42038,7 +42038,7 @@ Fejezeti általános tartalék
 
 |
 
-Pénzügyi Szervezetek Állami Felügyelete19
+Pénzügyi Szervezetek Állami Felügyelete24
 
 |
 
@@ -53532,6 +53532,22 @@ Kezesség-visszatérülés
 
 |
 
+|
+
+10
+
+|
+
+A MOL Nyrt. befizetése
+
+|
+
+|
+
+35 226,6
+
+|
+
 5
 
 |
@@ -53672,7 +53688,7 @@ XLII. fejezet összesen:
 
 |
 
-6 378 272,1
+6 413 498,7
 
 |
 
@@ -57930,7 +57946,7 @@ KIADÁSI FŐÖSSZEG
 
 |
 
-13 532 803,8
+13 568 030,4
 
 |
 
@@ -57940,7 +57956,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-12 668 492,7
+12 703 719,3
 
 |
 
@@ -57952,8 +57968,8 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 –864 311,1
 
-17 A 343/2009. (XII. 30.) Korm. rendelet 5. § (5) bekezdése akként rendelkezik, hogy 2010. január 1-jétől az 1. számú melléklet X. Miniszterelnökség fejezet 4. cím Nemzeti Információs Infrastruktúra Fejlesztési Intézet besorolása XXXIII. Magyar Tudományos Akadémia fejezet 14. címre változik.
+22 A 343/2009. (XII. 30.) Korm. rendelet 5. § (5) bekezdése akként rendelkezik, hogy 2010. január 1-jétől az 1. számú melléklet X. Miniszterelnökség fejezet 4. cím Nemzeti Információs Infrastruktúra Fejlesztési Intézet besorolása XXXIII. Magyar Tudományos Akadémia fejezet 14. címre változik.
 
-18 Az 1. számú melléklet X. Miniszterelnökség fejezet 8. cím ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet besorolása a 305/2009. (XII. 23.) Korm. rendelet 9. § (3) bekezdése alapján – figyelemmel a 8. § (2) bekezdésére – 2010. január 1. napjával XXXI. Központi Statisztikai Hivatal fejezet 2. címre változik.
+23 Az 1. számú melléklet X. Miniszterelnökség fejezet 8. cím ECOSTAT Kormányzati Gazdaság- és Társadalom-stratégiai Kutató Intézet besorolása a 305/2009. (XII. 23.) Korm. rendelet 9. § (3) bekezdése alapján – figyelemmel a 8. § (2) bekezdésére – 2010. január 1. napjával XXXI. Központi Statisztikai Hivatal fejezet 2. címre változik.
 
-19 Az 1033/2010. (II. 9.) Korm. határozat 1. pont a) alpontja akként rendelkezik, hogy 2010. február 10-étől az 1. számú melléklet XXII. Pénzügyminisztérium fejezet 13. cím Pénzügyi Szervezetek Állami Felügyelete besorolása I. Országgyűlés fejezet 20. címre változik.
+24 Az 1033/2010. (II. 9.) Korm. határozat 1. pont a) alpontja akként rendelkezik, hogy 2010. február 10-étől az 1. számú melléklet XXII. Pénzügyminisztérium fejezet 13. cím Pénzügyi Szervezetek Állami Felügyelete besorolása I. Országgyűlés fejezet 20. címre változik.
