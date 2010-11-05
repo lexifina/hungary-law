@@ -68,7 +68,7 @@ i)[^16]
 
 (9)[^17] A 15 millió forint vagy azt meghaladó támogatási kérelem esetén a támogatás igénybevételének további feltétele – a jogcímre vonatkozó IH közleményben meghatározott – üzleti terv benyújtása.
 
-(10)[^18] A Vhr. 17. § (4) bekezdésétől eltérően a 6. § (1) bekezdés a) pontja szerinti időpontban benyújtott kérelmek esetében a művelet legkorábban a támogatási kérelem benyújtási évének január 1-jétől az ügyfél saját felelősségére megkezdhető.
+(10)[^18] A Vhr. 17. § (4) bekezdésétől eltérően a 6. § (1) bekezdése szerinti időpontban benyújtott kérelmek esetében a művelet legkorábban a támogatási kérelem benyújtási évében vagy az azt közvetlen megelőző évben az ügyfél saját felelősségére megkezdhető.
 
 [^5]: A 4. § (3) bekezdése a 49/2009. (IV. 16.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
 [^6]: A 4. § (4) bekezdése a 133/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
@@ -83,4 +83,4 @@ i)[^16]
 [^15]: A 4. § (8) bekezdés g) pontja a 49/2009. (IV. 16.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
 [^16]: A 4. § (8) bekezdésének i) pontját a 133/2007. (XI. 13.) FVM rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte a 49/2009. (IV. 16.) FVM rendelet 9. § (2) bekezdés b) pontja. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
 [^17]: A 4. § (9) bekezdését a 133/2007. (XI. 13.) FVM rendelet 1. § (7) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: A 4. § (10) bekezdését a 49/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
+[^18]: A 4. § (10) bekezdését a 49/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 26/2010. (XI. 4.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
