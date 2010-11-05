@@ -1,0 +1,5 @@
+12. § (1) Az Országgyűlés az Európai Gazdasági Térség (EGT) Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus forrásaira vonatkozó, a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 52. § (1) bekezdése alapján tett 2009. évi kötelezettségvállalást 13 945,7 millió forint összegben hagyja jóvá.
+
+(2) Az Országgyűlés a Svájci–Magyar Együttműködési Program forrásaira vonatkozó, a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 52. § (2) bekezdése alapján tett 2009. évi kötelezettségvállalást 237,7 millió forint összegben hagyja jóvá.
+
+(3) Az Országgyűlés a Nemzeti Stratégiai Referencia Keret, az Új Magyarország Vidékfejlesztési Program, valamint az Európai Halászati Alapból finanszírozott halászati támogatások forrásaira vonatkozó, a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 52. § (3)–(6) bekezdései alapján tett 2009. évi kötelezettségvállalást a 20. számú mellékletben meghatározott összegben hagyja jóvá.

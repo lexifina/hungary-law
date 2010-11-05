@@ -1,0 +1,1 @@
+29. § Felhatalmazást kap az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter, hogy az e törvény 7. §-ának (1)–(2), (5) és 8. §-ának (1)–(3) bekezdésében foglaltakat együttes rendeletben hirdesse ki.

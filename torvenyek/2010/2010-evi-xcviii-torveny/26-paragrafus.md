@@ -1,0 +1,1 @@
+26. § Az Országgyűlés tudomásul veszi, hogy a Magyar Köztársaság 2008. évi költségvetésének végrehajtásáról szóló 2009. évi CXXIX. törvény 15. §-ában és 17. §-ában előírt megtérítési kötelezettségek teljesítése megtörtént.
