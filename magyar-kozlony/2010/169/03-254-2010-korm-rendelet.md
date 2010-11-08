@@ -1,0 +1,178 @@
+# A Kormány 254/2010. (XI. 8.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 169. szám, 2010. november 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1a3368564ab96f11725a4812c44c3c6cab5f3f05/dokumentumok/79b0ca6f47e462cc502a1662648351256e47ab56/letoltes)
+
+---
+
+A Kormány 254/2010. (XI. 8.) Korm. rendelete
+a köztisztviselők tartós külszolgálatáról szóló 104/2003. (VII. 18.) Korm. rendelet módosításáról
+A Kormány a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 80. §-ának (4) bekezdésében kapott
+felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a következőket rendeli el:
+1. §
+A köztisztviselők tartós külszolgálatáról szóló 104/2003. (VII. 18.) Korm. rendelet (a továbbiakban: R.) 2. §-ának
+12. pontja helyébe az alábbi rendelkezés lép:
+„12. ellátmánypótlékra jogosító személy: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján
+a kihelyezettel közös háztartásban, életvitelszerűen a külszolgálat helyén tartózkodó házastársa vagy élettársa
+(a továbbiakban együtt: házastárs), valamint gyermeke, örökbe fogadott gyermeke, a házastársa gyermeke, illetve
+annak örökbe fogadott gyermeke (a továbbiakban együtt: gyermeke);”
+2. §
+Az R. 16. §-a (1) bekezdésének b) pontja helyébe az alábbi rendelkezés lép:
+[Tartós külszolgálatot az a személy láthat el, aki az alábbi feltételeknek megfelel:]
+„b) a munkakörhöz jogszabályban, illetve az e rendelet 3. számú mellékletében, továbbá a kihelyező közigazgatási
+szerv szabályzatában előírt iskolai végzettséggel, valamint szakképesítéssel rendelkezik.”
+3. §
+Az R. 21. §-a (2) bekezdésének c) pontja helyébe az alábbi rendelkezés lép:
+[A kihelyezésre és az áthelyezésre vonatkozó okiratnak tartalmaznia kell a külszolgálattal kapcsolatos minden lényeges
+adatot, így különösen a kihelyezett]
+„c) a kihelyezés (áthelyezés) időpontjában érvényes alapellátmányának összegét, az arra utaló pontos jogszabályi
+helyét, ellátmánya szorzószámát, az ellátmánypótlékokra való jogosultságát;”
+4. §
+Az R. 23. §-ának (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) Az alapellátmány összegét a külügyminiszter a közigazgatási és igazságügyi miniszter, valamint az érintett
+szakminiszterek egyetértésével állapítja meg.”
+5. §
+Az R. 24. §-ának (3) bekezdése helyébe az alábbi rendelkezés lép:
+„(3) Az ellátmányt és az ellátmánypótlékot havonta utólag, legkésőbb a tárgyhót követő hónap 10. napjáig kell
+kifizetni. A külszolgálat megszűnése, illetve megszüntetése esetén az ellátmány kifizethető a hazautazást megelőző öt
+munkanappal korábban.”
+6. §
+Az R. 24. §-a az alábbi (4) bekezdéssel egészül ki:
+„(4) Ha az ideiglenes berendelésre a kihelyezett ellen indított fegyelmi eljárás lefolytatása miatt kerül sor, az ideiglenes
+berendelés idején az ellátmány hetven százalékának folyósítása felfüggesztésre kerül. Amennyiben a fegyelmi eljárás
+felmentő határozattal zárul, akkor a ki nem fizetett ellátmányt utólag folyósítani kell.”
+7. §
+Az R. 26. §-a helyébe az alábbi § lép:
+„26. § (1) A kihelyezett a 2. § 12. pontjában meghatározott személyek után jogosult ellátmánypótlékra.
+Az ellátmánypótlék a kihelyezett külszolgálatának idejére, az arra jogosító személy tényleges kiutazásától végleges
+hazautazásának napjáig – az utazási napokat is beleértve – jár. A töredékhavi ellátmánypótlék kiszámításánál a tárgyhó
+naptári napjainak számát kell alapul venni.
+(2) Az ellátmánypótlék összege
+a) ellátmánypótlékra jogosító házastárs esetén
+aa) amennyiben nem rendelkezik munkajövedelemmel, a kihelyezett ellátmányának 25%-a,
+ab) ha a kihelyező szerv által fizetett munkabéren (illetményen) kívül a belföldi munkajövedelme és a kihelyező szerv
+által fizetett ellátmánya, illetve a külföldön szerzett munkajövedelme (megbízási díja, munkabére) összességében
+nem éri el az állomáshely szerinti alapellátmány összegét, a kihelyezett ellátmányának 12,5%-a;
+b) ellátmánypótlékra jogosító gyermek esetén a 2,5 szorzószámmal számított ellátmány
+ba) 12. életév betöltéséig 10%-a,
+bb) 12. életév betöltését követően 15%-a, ameddig iskolarendszerű oktatás keretében középfokú (érettségit adó),
+vagy szakképzésben (szakképesítést adó) képzésben vesz részt, de legfeljebb a gyermek 23. életévének betöltéséig;
+
+c) ellátmánypótlékra jogosító fogyatékos gyermek esetén a 2,5 szorzószámmal számított ellátmány
+ca) 12. életév betöltéséig 15%-a,
+cb) 12. életév betöltését követően 20%-a, ameddig iskolarendszerű oktatás keretében tanulmányokat folytat, de
+legfeljebb a gyermek 23. életévének betöltéséig.
+(3) Ellátmánypótlék nem jár
+a) ha az ellátmánypótlékra jogosító személy – a kihelyező szerv által fizetett munkabéren (illetményen) kívüli –
+belföldi munkajövedelme és a kihelyező szerv által fizetett ellátmánya, illetve a külföldön szerzett munkajövedelme
+(megbízási díja, munkabére) összességében tárgyhónapban meghaladja az állomáshely szerinti, 1,0 szorzószámmal
+számított ellátmány összegét. A jövedelem megszerzését a kihelyezett írásban köteles bejelenteni;
+b) az ellátmánypótlékra jogosító személynek a fogadó államtól való távollétének időtartama alatt, az elutazás és
+a visszaérkezés napját is beleértve.
+(4) A (3) bekezdés b) pontját nem kell alkalmazni, ha a távollétre a kihelyezett évi rendes szabadsága miatt kerül sor.
+(5) A kihelyezett köteles 3 munkanapon belül írásban bejelenteni, ha az ellátmánypótlékra jogosító személy a fogadó,
+vagy más államban foglalkoztatásra irányuló jogviszonyt – ideértve az állomáshelyen végzett távmunkát is – létesít.
+(6) A kihelyezett a külképviseleten írásban köteles bejelenteni – a fogadó államból történő el-, illetve visszautazást
+követő 3 napon belül a képviselet vezetőjének és a számfejtést végző kiküldöttnek az ellátmánypótlékra jogosító
+személyek fogadó államból való távollétének kezdő és befejező időpontját.
+(7) A kihelyezett a jogosulatlanul felvett ellátmánypótlékot a Ptk. 232. § (2) bekezdése szerinti kamattal növelt
+összegével köteles visszafizetni.
+(8) Az ellátmánypótlékra jogosító házastárs szülés miatti távolléte esetén a kihelyező közigazgatási szerv e §
+rendelkezéseitől eltérhet.
+(9) Az ellátmánypótlékra jogosító családtag elhalálozása esetén a kihelyezett részére a halál bekövetkeztéig járó
+ellátmánypótlékon felül ki kell fizetni az ellátmánypótlék egyhavi összegét.
+(10) Az (1) bekezdésben nem említett családtagoknak az állomáshelyen való tartózkodását a kihelyezett köteles
+írásban bejelenteni a képviselet-vezetőnek.
+(11) A külügyminiszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek
+részére meghatározott időtartamra, egyszeri utasításban különpótlékot állapíthat meg.
+(12) Az iskolarendszerszerű oktatás keretében végzett középfokú szakképzés befejezésének időpontja alatt az első
+érettségi, illetve szakmunkás bizonyítvány megszerzési hónapjának végét kell érteni.”
+8. §
+(1) A R. 27. §-ának (1)–(2) bekezdései helyébe az alábbi rendelkezések lépnek:
+„(1) A kihelyező közigazgatási szerv a kihelyezett kérelmére, a külképviseletre történt megérkezést követően, az első
+ellátmány kifizetéséig – egy alkalommal, az állomáshelyre jogszabályban megállapított alapellátmánnyal,
+a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számítva, kéthavi, az ellátmánypótlékra jogosító
+gyermekkel kihelyezésre kerülő kiküldött részére háromhavi, kamatmentes ellátmányelőleget nyújt.
+(2) A kihelyező közigazgatási szerv az (1) bekezdésben meghatározottakon felül, a kihelyezett kérelmére – kizárólag
+gépkocsi vásárlás céljára – az alapellátmánnyal, a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal
+számított, háromhavi ellátmánynak megfelelő, kamatmentes munkáltatói kölcsönt nyújthat a kihelyezéstől számított
+egy éven belül. A gépkocsi vásárlás céljára adott összeg nem haladhatja meg a gépkocsi vételárát. A gépkocsi vásárlást
+a kihelyezett számlával igazolja.”
+(2) A R. 27. §-a az alábbi (10) bekezdéssel egészül ki:
+„(10) Áthelyezés esetén – a kihelyező közigazgatási szerv egyedi döntése alapján – kizárólag a (2) bekezdésben
+meghatározott munkáltatói kölcsön nyújtható.”
+9. §
+Az R. 28. §-ának (1)–(2) bekezdései helyébe az alábbi rendelkezések lépnek:
+„(1) Ha a kihelyezett a külszolgálata alatt harmadik országban ideiglenes kiküldetést teljesít, ellátmánya mellett napidíj
+is megilleti. A fogadó államban teljesített ideiglenes kiküldetés esetén a napidíjat a kihelyezett ellátmánya tartalmazza.
+(2) Ha a kihelyezett az (1) bekezdés szerint ideiglenes kiküldetést teljesít, a napidíj egynapi összege az ideiglenes
+külföldi kiküldetés napidíjának összegéről és kifizetéséről szóló 204/2009. (IX. 18) Korm. rendeletben foglaltak alapján
+kerül meghatározásra.”
+10. §
+Az R. 36. §-a helyébe az alábbi § lép:
+„36. § (1) A kihelyező közigazgatási szerv az e §-ban foglaltak szerint biztosítja, hogy a kihelyezett ellátmánypótlékra
+jogosító gyermeke a kihelyezés ideje alatt az állomáshelyen az átlagos hazai képzési, egészségügyi és kulturális
+
+követelményeknek megfelelő és elsősorban térítésmentesen igénybe vehető, vagy átlagos költségszintű oktatási
+intézményben előkészítő, alap- és középfokú tanulmányokat folytathasson.
+(2) A kihelyező közigazgatási szerv hivatali szervezetének vezetője meghatározza és szükség szerinti rendszerességgel
+felülvizsgálja az állomáshelyen rendelkezésre álló azon – az átlagos hazai képzési, egészségügyi és kulturális
+követelményeknek megfelelő, átlagos költségszintű, világnyelven, illetve az általános gyakorlat szerint
+Magyarországon eredménnyel hasznosítható nyelve(ke)n képzést folytató – oktatási intézmény(ek) körét, amelyek
+tandíjára – a kihelyező közigazgatási szerv a külképviselet nevére, címére szóló számla vagy számlát helyettesítő
+bizonylat ellenében – térítést biztosít (tandíj térítés).
+(3) A tandíj térítés mértéke tanévenként a tandíj 80 százaléka. A fennmaradó összeget a kihelyezett viseli (önrész). Ettől
+eltérően, amennyiben a tanévre – a kihelyezett összes ellátmánypótlékra jogosító gyermekének tandíja után –
+fizetendő, éves önrész a kihelyezett éves bruttó ellátmányának 20 százalékát meghaladja, akkor a kihelyező
+közigazgatási szerv az éves tandíjnak ezt a részét is megtéríti.
+(4) Ha a kihelyezett gyermekét a (2) bekezdésben foglaltak szerint meghatározottaktól eltérő oktatási intézményben
+kívánja beíratni, vagy az állomáshelyen térítésmentesen igénybe vehető angol, német, francia, spanyol nyelven
+– az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő – képzést folytató oktatási
+intézmény, akkor a kihelyező szerv a kihelyezett részére tandíj térítést nem biztosít.
+(5) A kihelyezett sajátos nevelésű igényű gyermeke különleges gondozás keretében történő pedagógiai,
+gyógypedagógiai és konduktív pedagógiai ellátásának költségeit a (2) és (3) bekezdésben foglaltak szerint téríti
+a kihelyező közigazgatási szerv.”
+11. §
+Az R. 37. §-a helyébe az alábbi § lép:
+„37. § (1) A kihelyező közigazgatási szerv köteles a kihelyezett számára a feladatkörének, a vele együtt élő és
+ellátmánypótlékra jogosító személyek összetételének, létszámának és az állomáshely körülményeinek megfelelő,
+berendezett lakást biztosítani.
+(2) Az ideiglenes szállodai elhelyezés költségeit, a lakás bérleti díját a kihelyező közigazgatási szerv viseli. A lakás
+fenntartásával kapcsolatos valamennyi költség (többek között a közüzemi és telekommunikációs szolgáltatások díja)
+megfizetése a kihelyezettet terheli, amelyekre – mérőóra hiányában – a kihelyező közigazgatási szerv átalányt állapít
+meg.
+(3) A kihelyezettek lakhatására (a kihelyezettek lakásaira és a lakások berendezésére, a közüzemi díjak átalánydíjas
+térítésére) vonatkozó alapvető elveket, illetve a kihelyezett feladatkörének, a vele együtt élő és ellátmánypótlékra
+jogosító személyek összetételének, létszámának és az állomáshely körülményeinek megfelelő szolgálati lakások
+bérleti díjának felső határát a kihelyező közigazgatási szerv szabályzatban határozza meg.”
+12. §
+Az R. 41. §-a helyébe az alábbi § lép:
+„41. § Együtt élő házastársak, élettársak egyazon állomáshelyre történő kihelyezése esetén a 26. § (2) bekezdésének b)
+és c) pontjában és a (4) és (5) bekezdésben, a 27. § (1) és (2) bekezdésében, a 36. §-ban, valamint a 37. §
+(1) bekezdésében foglalt jogosultságok csak egyiküket illetik meg, a 26. § (7) bekezdésében és a 37. § (2) bekezdésében
+foglalt kötelezettségek csak egyiküket terhelik. A 36. § (4) bekezdésében meghatározott önrész megállapítása során
+kizárólag a magasabb összegű ellátmánnyal rendelkező kihelyezett ellátmányát kell alapul venni.”
+13. §
+E rendelet hatálybalépésével egyidejűleg hatályát veszti az R.
+a)
+15. §-ának (2) bekezdése, valamint
+b)
+18. §-a (1) bekezdésének c) pontjában a „(fizetés nélküli szabadság)” szövegrész.
+14. §
+Az R. az alábbi 3. számú melléklettel egészül ki:
+Munkakör
+Szükséges végzettség
+gazdasági vezető
+államilag elismert felsőfokú gazdasági, illetve pénzügyi-számviteli végzettség
+gazdasági felelős
+államilag elismert középfokú gazdasági, illetve pénzügyi-számviteli végzettség
+
+15. § Az R. a következő 46. §-sal egészül ki:
+„46. § (1) E rendeletnek a köztisztviselők tartós külszolgálatáról szóló 104/2003. (VII. 18.) Korm. rendelet módosításáról
+szóló 254/2010. (XI. 8.) Korm. rendelet (a továbbiakban: R1.) 2. §-ával megállapított 16. § (1) bekezdés b) pontját a 2011.
+január 1-jét követően kihelyezett személyekre kell alkalmazni.
+(2) E rendeletnek az R1. 9. §-ával megállapított 28. § (1) és (2) bekezdését az R1. hatálybalépését követően megkezdett
+ideiglenes kiküldetésekre kell alkalmazni.
+(3) E rendeletnek az R1. 10. §-ával megállapított 36. §-át 2011. január 1-jétől kezdődően kell alkalmazni.”
+16. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
