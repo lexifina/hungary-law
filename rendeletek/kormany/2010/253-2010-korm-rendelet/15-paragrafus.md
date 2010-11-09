@@ -1,0 +1,3 @@
+## „(6) Ha a 8. § (3) bekezdés a) pontja szerinti – az Európai Unió Hivatalos Lapjában közzéteendő – hirdetménnyel kapcsolatban az Európai Unió Kiadóhivatala hibaüzenetet küld a Szerkesztőbizottságnak, azt a Szerkesztőbizottság továbbítja a kérelmező számára. A kérelmező a hibaüzenet érkezésétől számított harminc napon belül a hirdetmény javítására irányuló kérelmet és javított hirdetményt jogosult feladni, amelyet a Szerkesztőbizottság ellenőrzés nélkül felad az Európai Unió Hivatalos Lapjában történő közzétételre. Ezt – szükség esetén – többször meg lehet ismételni. A hirdetmény feladása napjának az utolsó feladás napját kell tekinteni.
+
+## (7) A szokásos hibaüzenetek értelmezéséről a Közbeszerzések Tanácsa honlapján tájékoztatást tesz közzé.”
