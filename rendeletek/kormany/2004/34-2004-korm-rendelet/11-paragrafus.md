@@ -8,15 +8,13 @@ b) harminc napon belül pótolhatóak az a) ponton kívüli esetekben.
 
 (3) A hiánypótlásra történő felhívás alapján benyújtott kérelem, illetőleg hirdetmény esetében a hirdetmény feladása napjának az ismételt feladás napja minősül. A 9. § szerinti határidők ettől a naptól számítandók.
 
-(4) Abban az esetben, ha a hiánypótlásra történő felhívás alapján
+(4)[^17] Abban az esetben, ha a hiánypótlásra történő felhívás alapján
 
-a) a benyújtott kérelemből nem állapítható meg, hogy a kérelmet az arra jogosult nyújtotta-e be, illetőleg az ajánlatkérő meghatalmazott képviselője képviseleti jogosultságáról nem nyilatkozott, a Szerkesztőbizottság a közzétételi kérelmet visszavontnak tekinti, és erről a tényről az ajánlatkérőt és képviselőjét, valamint – az (1) bekezdés a) pontja szerinti hirdetmények esetében – a Tanácsot is haladéktalanul írásban tájékoztatja;
+a) a benyújtott kérelemből nem állapítható meg, hogy a kérelmet az arra jogosult nyújtotta-e be, a Szerkesztőbizottság a közzétételi kérelmet visszavontnak tekinti, és erről a tényről az ajánlatkérőt és képviselőjét, valamint – az (1) bekezdés a) pontja szerinti hirdetmények esetében – a Tanácsot is haladéktalanul írásban tájékoztatja;
 
 b) a kérelmező az eredetileg vagy a hiánypótlásra történő felhívás alapján benyújtott hirdetménnyel kapcsolatban a szerkesztési díjat ismételten nem vagy nem az előírt mértékben fizette be, a Szerkesztőbizottság erről a tényről a kérelmezőt a 10. § (1) bekezdése szerinti határidőkön belül írásban tájékoztatja; az ismételt hiánypótlásra az (1)–(3) bekezdésben foglaltak megfelelően alkalmazandóak;
 
-c)[^20] a benyújtott hirdetmény ismét nem felel meg a közbeszerzésekkel kapcsolatos jogszabályoknak, a Szerkesztőbizottság a hirdetményt a 10. § (3) bekezdése a) pontjának megfelelően teszi közzé;
-
-d)[^21] a kérelmező nem jelentkezett be vagy adatait nem módosította a Tanács által vezetett ajánlatkérők nyilvántartásában [Kbt. 18. § (2) bekezdés] a Szerkesztőbizottság a közzétételi kérelmet visszavontnak tekinti.
+c) a benyújtott hirdetmény ismét nem felel meg a közbeszerzésekkel kapcsolatos jogszabályoknak, a Szerkesztőbizottság a hirdetményt a 10. § (3) bekezdésének megfelelően teszi közzé.
 
 (5) A (4) bekezdés c) pontja szerinti esetben a Szerkesztőbizottság a hirdetményről a közzététele napján írásban tájékoztatja a Tanácsot.
 
@@ -24,5 +22,4 @@ d)[^21] a kérelmező nem jelentkezett be vagy adatait nem módosította a Taná
 
 (7) Abban az esetben, ha a hiánypótlás következtében a hirdetmény terjedelme csökken, a Szerkesztőbizottság a befizetett szerkesztési díj összegét részlegesen visszautalja.
 
-[^20]: A 11. § (4) bekezdésének c) pontja a 82/2009. (IV. 10.) Korm. rendelet 15. § (1) bekezdésének e) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^21]: A 11. § (4) bekezdésének d) pontját a 82/2009. (IV. 10.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^17]: A 11. § (4) bekezdése a 253/2010. (XI. 8.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.

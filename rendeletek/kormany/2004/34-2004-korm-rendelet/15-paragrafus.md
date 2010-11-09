@@ -4,8 +4,11 @@ a) ha a kérelmező a közzétételi kérelmet visszavonja, és a kérelemmel, i
 
 b) ha a 11. § (1) bekezdésének b) pontja szerinti hiánypótlási határidő eredménytelenül telt el, és ezért a közzétételi kérelmet visszavontnak kell tekinteni, a díj felét;
 
-c)[^23] ha a 11. § (4) bekezdésének a) és d) pontja szerint a közzétételi kérelmet visszavontnak kell tekinteni, a díj felét;
+c)[^20] ha a 11. § (4) bekezdés a) pontja szerint a közzétételi kérelmet visszavontnak kell tekinteni, a díj felét;
 
-d) ha a befizetett szerkesztési díj összege meghaladja az előírt mértéket, a túlfizetett összeget.
+d) ha a befizetett szerkesztési díj összege meghaladja az előírt mértéket, a túlfizetett összeget;
 
-[^23]: A 15. § c) pontja a 82/2009. (IV. 10.) Korm. rendelet 15. § (1) bekezdésének f) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően indult közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+e)[^21] ha az ajánlatkérő vagy a kérelmező a 8. § (2) bekezdés, illetve a 8. § (4) bekezdés a) pontja szerinti esetben szerkesztési díjat utalt át, a díj teljes összegét.
+
+[^20]: A 15. § c) pontja a 253/2010. (XI. 8.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.
+[^21]: A 15. § e) pontját a 253/2010. (XI. 8.) Korm. rendelet 9. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.

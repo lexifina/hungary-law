@@ -1,13 +1,11 @@
-## 32. §[^53] A Szerkesztőbizottság a befizetett ellenőrzési, illetőleg elektronikus hirdetménytovábbítási díjat tizenöt napon belül az alábbiak szerint utalja vissza:
+## 32. §[^53] A Szerkesztőbizottság a befizetett ellenőrzési díjat tizenöt napon belül az alábbiak szerint utalja vissza:
 
-a) ha a kérelmező a közzétételi kérelmet visszavonja, és a kérelemmel, illetőleg a hirdetménnyel kapcsolatban sor került hiánypótlásra történő felhívásra, a díj felét; amennyiben nem került sor hiánypótlásra történő felhívásra, a díj teljes összegét;
+a) ha a kérelmező a közzétételi kérelmet visszavonja, és a kérelemmel vagy a hirdetménnyel kapcsolatban sor került hiánypótlásra történő felhívásra, a díj felét; amennyiben nem került sor hiánypótlásra történő felhívásra, a díj teljes összegét;
 
-b) ha a 28. § (1) bekezdésének b) pontja szerinti hiánypótlási határidő eredménytelenül telt el, és ezért a közzétételi kérelmet visszavontnak kell tekinteni, a díj felét;
+b) ha a 28. § (1) bekezdés b) pontja szerinti hiánypótlási határidő eredménytelenül telt el, és ezért a közzétételi kérelmet visszavontnak kell tekinteni, a díj felét;
 
-c)[^54] a 28. § (4) bekezdésének c) pontja esetében – amennyiben sor került díjfizetésre – a befizetett díj egészét;
+c) ha a befizetett ellenőrzési díj összege meghaladja az előírt mértéket, a túlfizetett összeget;
 
-d)[^55] ha a befizetett ellenőrzési, illetőleg elektronikus hirdetményellenőrzési díj összege meghaladja az előírt mértéket, a túlfizetett összeget.
+d) ha az ajánlatkérő vagy a kérelmező a 8. § (2) bekezdés, illetve 8. § (4) bekezdés a) pontja szerinti esetben ellenőrzési díjat utalt át, a díj teljes összegét.
 
-[^53]: A 32. § felvezető szövege a 122/2007. (V. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 13. § (1)–(2) bekezdését.
-[^54]: A 32. § c) pontja a 122/2007. (V. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 13. § (1)–(2) bekezdését.
-[^55]: A 32. § d) pontja a 122/2007. (V. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 13. § (1)–(2) bekezdését.
+[^53]: A 32. § a 253/2010. (XI. 8.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.

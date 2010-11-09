@@ -1,4 +1,4 @@
-## 16. § A 6. § (1) bekezdése szerinti hirdetményeknek az Értesítőben történő közzétételéről az Értesítőt kiadó a közzétett hirdetményt tartalmazó oldalak (a hirdetmény levonata) öt munkanapon belül történő megküldésével értesíti a kérelmezőt.
+## 16. §[^22] A Szerkesztőbizottság a 6. § (1) bekezdés szerinti hirdetményeknek az Értesítőben történő közzététele napján a közzététel tényéről elektronikusan értesíti a kérelmezőt.
 
 17. § (1) Ha a kérelmező által benyújtott és az Értesítőben közzétett hirdetmény tartalma között eltérés van, a Szerkesztőbizottság a kérelmező kérelme alapján helyesbítést tesz közzé.
 
@@ -21,3 +21,5 @@ e) a helyesbítési kérelem feladásának napját.
 (5) Megalapozott a helyesbítési kérelem, ha az Értesítőben közzétett hirdetmény tartalma eltér a kérelmező által benyújtott hirdetmény tartalmához képest.
 
 (6) A Szerkesztőbizottság a helyesbítést térítésmentesen teszi közzé.
+
+[^22]: A 16. § a 253/2010. (XI. 8.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.

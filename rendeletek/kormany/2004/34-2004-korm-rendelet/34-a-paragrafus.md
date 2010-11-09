@@ -2,9 +2,9 @@
 
 ## A Közbeszerzések Tanácsa honlapján történő
 
-## közzététel rendje[^57]
+## közzététel rendje[^55]
 
-34/A. §[^58] (1) Ha a Kbt. bizonyos információknak a Tanács honlapján történő közzétételét írja elő, az ajánlatkérőnek csak azokat az információkat kell elektronikusan – a Tanács elnöke által kiadott tájékoztatóban foglaltaknak megfelelően – megküldenie a Tanács részére, amely információk nem állnak a Tanács rendelkezésére.
+34/A. §[^56] (1) Ha a Kbt. bizonyos információknak a Tanács honlapján történő közzétételét írja elő, az ajánlatkérőnek csak azokat az információkat kell elektronikusan – a Tanács elnöke által kiadott tájékoztatóban foglaltaknak megfelelően – megküldenie a Tanács részére, amely információk nem állnak a Tanács rendelkezésére.
 
 (2) A Kbt. által előírt, a Tanács honlapján történő közzététel céljából megküldésre kerülő információk megküldésekor az ajánlatkérőnek
 
@@ -24,5 +24,5 @@ be) a beküldött dokumentum típusát, ügyszámát és keletkezési időpontj�
 
 (3) A Kbt. által előírt információk Tanács honlapján történő közzététele díjmentes.
 
-[^57]: A 34/A. §-t megelőző alcímet a 82/2009. (IV. 10.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^58]: A 34/A. §-t a 82/2009. (IV. 10.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^55]: A 34/A. §-t megelőző alcímet a 82/2009. (IV. 10.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^56]: A 34/A. §-t a 82/2009. (IV. 10.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.

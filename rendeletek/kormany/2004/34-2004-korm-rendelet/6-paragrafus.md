@@ -2,39 +2,46 @@
 
 6. § (1) A Kbt. szerint – az ajánlatkérő által – az Értesítőben közzéteendő vagy közzétehető hirdetmények közzétételét a Szerkesztőbizottsághoz benyújtott kérelemmel kell kezdeményezni.
 
-(2) A hirdetmény közzétételére irányuló kérelmet az ajánlatkérő, illetőleg képviselője (a továbbiakban: kérelmező) nyújthatja be a Szerkesztőbizottsághoz.
+(2)[^6] A hirdetmény közzétételére irányuló kérelmet az ajánlatkérő vagy képviselője (a továbbiakban: kérelmező) nyújthatja be a Szerkesztőbizottsághoz. Ha a kérelmet az ajánlatkérő nevében más személy (szervezet) nyújtja be, úgy kell tekinteni, hogy ő az ajánlatkérő által meghatalmazott, és az ajánlatkérőnek küldendő iratokat a Szerkesztőbizottság – a 11. § (4) bekezdés a) pontjában és a 28. § (4) bekezdés a) pontjában foglalt kivétellel – e személynek (szervezetnek) küldi meg.
 
-(3)[^5] A kérelem elektronikus úton nyújtható be.
+(3)[^7] A kérelem elektronikus úton nyújtható be.
 
-(4) A kérelemhez mellékelni kell a hirdetmény egy példányát, valamint a 7. § szerinti szerkesztési díj befizetését igazoló okiratot vagy annak másolatát.
+(4)[^8] A kérelemhez mellékelni kell
 
-(5) A kérelemben meg kell adni az alábbiakat:
+a) a hirdetmény egy példányát,
 
-a) a kérelmező elérhetőségi adatait (postacím, telefax, illetőleg elektronikus levélcím);
+b) ha a kérelmező a hirdetmény ellenőrzését kéri, vagy a hirdetmény ellenőrzése a Kbt. 44. § (4)–(6) bekezdéseire, vagy 246. § (5) bekezdésére tekintettel kötelező és díjköteles, a 7. § szerinti szerkesztési díj befizetését igazoló okiratot vagy annak másolatát.
+
+(5)[^9] A kérelemben meg kell adni a következőket:
+
+a) a kérelmező elérhetőségi adatait (postacím, telefax és elektronikus levélcím);
 
 b) a kérelem az Értesítőben történő közzétételt kezdeményezi;
 
-c) az ajánlatkérő a Kbt. mely rendelkezése (§, bekezdés, pont) alapján tartozik annak a hatálya alá [ideértve a Kbt. 2. §-ának (4) bekezdése szerinti önkéntes alkalmazásának esetét is];
+c) az ajánlatkérő a Kbt. mely rendelkezése (§, bekezdés, pont) alapján tartozik annak a hatálya alá [ideértve a Kbt. 2. § (4) bekezdése szerinti önkéntes alkalmazásának esetét is];
 
-d)[^6] az ajánlatkérő a Kbt. mely része, illetőleg fejezete szerinti eljárást alkalmazza, a Kbt. 21. §-ának (3) bekezdése és 161. §-ának (5) bekezdése szerinti esetben kifejezett nyilatkozatot arra nézve, hogy a hirdetményt az Értesítőben szükséges közzétenni;
+d) az ajánlatkérő a Kbt. mely része és fejezete szerinti eljárást alkalmazza;
 
-e)[^7] a közbeszerzés (beszerzés) becsült értékét [szükség szerint utalást a Kbt. 245. §-ára];
+e) a közbeszerzés (beszerzés) általános forgalmi adó nélkül számított becsült értékét forintban [szükség szerint utalást a Kbt. 245. §-ára és 259. §-ára];
 
 f) ha a kérelmező olyan hirdetmény közzétételét kéri az Értesítőben, amelynek közzététele a Kbt. szerint nem kötelező, ezt a körülményt is;
 
 g) a kérelem és a hirdetmény feladásának napját;
 
-h)[^8] a 7. § (5) bekezdése szerinti esetben a hirdetmény elektronikus átalakítására irányuló kérelmet;
+h) azt, hogy az ajánlatkérő a Kbt. 241. § b) pontja alapján tartozik-e a Kbt. hatálya alá;
 
-i)[^9] az ajánlatkérőt a Tanács által vezetett ajánlatkérők nyilvántartásában [Kbt. 18. § (2) bekezdés] megjelölő azonosító számot;
+i) ha a kérelmet az ajánlatkérő nevében hivatalos közbeszerzési tanácsadó nyújtja be, akkor azt a sorszámot, amelyen a hivatalos közbeszerzési tanácsadó a hivatalos közbeszerzési tanácsadók névjegyzékében szerepel;
 
-j)[^10] eljárást megindító hirdetmény esetében a Kbt. 6. §-ának (2) bekezdése szerinti ellenjegyzés megtörténtére való utalást.
+j) ha a hirdetmény ellenőrzése nem kötelező, akkor annak közlését, hogy a kérelmező kéri-e a hirdetmény ellenőrzését;
 
-(6) Ha a hirdetmény közzétételét az ajánlatkérő által meghatalmazott személy vagy szervezet kezdeményezi, e személynek vagy szervezetnek a kérelemben nyilatkoznia kell képviseleti jogosultságáról is. A képviseleti jogosultságról való nyilatkozat hiányában a Szerkesztőbizottság a hiánypótlásra történő felhívást az ajánlatkérőnek küldi meg.
+k) az ajánlatkérőt a Tanács által vezetett ajánlatkérők nyilvántartásában [Kbt. 18. § (2) bekezdés] megjelölő azonosító számot;
 
-[^5]: A 6. § (3) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 16. § (2) bekezdésének a) pontjával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2010. július 1. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkamazni.
-[^6]: A 6. § (5) bekezdésének d) pontja a 82/2009. (IV. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^7]: A 6. § (5) bekezdésének e) pontja a 82/2009. (IV. 10.) Korm. rendelet 15. § (1) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^8]: A 6. § (5) bekezdésének h) pontját a 82/2009. (IV. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^9]: A 6. § (5) bekezdésének i) pontját a 82/2009. (IV. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^10]: A 6. § (5) bekezdésének j) pontját a 82/2009. (IV. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+l) ha a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri és a Kbt. 44. § (5) vagy (6) bekezdései, vagy 246. § (5) bekezdése szerint a díjjal kapcsolatban kedvezményre vagy mentességre jogosult, ennek közlését.
+
+(6)[^10]
+
+[^6]: A 6. § (2) bekezdése a 253/2010. (XI. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.
+[^7]: A 6. § (3) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 16. § (2) bekezdésének a) pontjával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2010. július 1. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkamazni.
+[^8]: A 6. § (4) bekezdése a 253/2010. (XI. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.
+[^9]: A 6. § (5) bekezdése a 253/2010. (XI. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.
+[^10]: A 6. § (6) bekezdését a 253/2010. (XI. 8.) Korm. rendelet 19. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 19. § (1) bekezdése alapján a 2010. november 9. napja után megkezdett közbeszerzésekre, tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, valamint megküldött hirdetményekre kell alkalmazni.
