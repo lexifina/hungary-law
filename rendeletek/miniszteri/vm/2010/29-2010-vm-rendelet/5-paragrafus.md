@@ -1,0 +1,1 @@
+## 4. § Az R. 10. § (3) bekezdés cb) pontjában a „2010. augusztus 20. és 30. között a tárgyidőszakban” szövegrész helyébe a „2010. augusztus 20. és 30. között a tárgyidőszakban, illetve a harmadik negyedévre és október hónapra vonatkozóan együttesen november 15-ig a tárgyidőszakban” szöveg lép.

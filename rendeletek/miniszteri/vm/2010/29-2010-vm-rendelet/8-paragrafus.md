@@ -1,0 +1,3 @@
+## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+
+8. § Ez a rendelet – az R. módosítása tekintetében – a tagállamok által 2010-re és az azt követő évekre benyújtott, egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló éves és többéves programok, valamint az azokhoz nyújtott közösségi pénzügyi hozzájárulás jóváhagyásáról szóló, 2009. november 26-i 2009/883/EK bizottsági határozat 4–6., 8–10. és 12. cikkének a végrehajtásához szükséges rendelkezéseket állapít meg.

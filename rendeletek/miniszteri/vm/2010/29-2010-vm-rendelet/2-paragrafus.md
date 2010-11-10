@@ -1,0 +1,1 @@
+## 1. § Az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2010. évi finanszírozásának szabályairól szóló 45/2010. (IV. 23.) FVM rendelet (a továbbiakban: R.) 4. §-ában az „500 millió forint” szövegrész helyébe a „850 millió forint” szöveg lép.
