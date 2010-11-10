@@ -164,7 +164,7 @@
 
 ## 4. A termelő aláírása.
 
-6. számú melléklet a 32/2009. (III. 31.) FVM rendelethez[^23]
+6. számú melléklet a 32/2009. (III. 31.) FVM rendelethez[^25]
 
 A kárenyhítő juttatás összegének kiszámítása
 
@@ -358,4 +358,4 @@ A kárenyhítő juttatás összegének kiszámítása
 
 8. A Mezőgazdasági Szakigazgatási Hivatal területi szervének aláírással és bélyegzőlenyomattal ellátott álláspontja, javaslata arról, hogy a kérelmező a káresemény(eke)t a jogszabályban előírt határidőben bejelentette, a szakigazgatási hivatal a jogszabály által előírt mellékletek szerint benyújtott kárenyhítő juttatás összegére vonatkozóan végzett számításokat ellenőrizte, amelynek alapján a juttatási igény jogosultságának megállapítását javasolja, módosítással javasolja vagy nem javasolja
 
-[^23]: A 6. számú melléklet a 116/2009. (VIII. 29.) FVM rendelet 8. §-ával megállapított szöveg.
+[^25]: A 6. számú melléklet a 116/2009. (VIII. 29.) FVM rendelet 8. §-ával megállapított szöveg.
