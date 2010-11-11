@@ -1,7 +1,10 @@
 ## Kiküldetés az állomáshelyről
 
-28. § (1) Ha a kihelyezett a külszolgálata alatt a Ktv. 49/C. §-a alapján a fogadó országban vagy harmadik országban kiküldetést teljesít, ellátmánya mellett valuta-költségtérítés (napidíj) is megilleti. Nem számolható el napidíj, ha a kiküldetés időtartama a 4 órát nem éri el.
+28. § (1)[^15] Ha a kihelyezett a külszolgálata alatt harmadik országban ideiglenes kiküldetést teljesít, ellátmánya mellett napidíj is megilleti. A fogadó államban teljesített ideiglenes kiküldetés esetén a napidíjat a kihelyezett ellátmánya tartalmazza.
 
-(2) Ha a kihelyezett az (1) bekezdés szerint kiküldetést teljesít, a napidíj egynapi összege a köztisztviselők ideiglenes külföldi kiküldetéséről szóló kormányrendelet mellékletében meghatározott, az adott kategóriához rendelt bázisösszeg 25%-a. A napidíj fele jár, ha a kiküldetés időtartama a 8 órát nem éri el.
+(2)[^16] Ha a kihelyezett az (1) bekezdés szerint ideiglenes kiküldetést teljesít, a napidíj egynapi összege az ideiglenes külföldi kiküldetés napidíjának összegéről és kifizetéséről szóló 204/2009. (IX. 18) Korm. rendeletben foglaltak alapján kerül meghatározásra.
 
 (3) A kiküldött részére szállásköltség csak a naptári naponként 8 órát meghaladó távollét esetén jár.
+
+[^15]: A 28. § (1) bekezdése a 254/2010. (XI. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^16]: A 28. § (2) bekezdése a 254/2010. (XI. 8.) Korm. rendelet 9. §-ával megállapított szöveg.

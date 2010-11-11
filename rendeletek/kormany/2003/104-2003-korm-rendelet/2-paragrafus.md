@@ -34,10 +34,7 @@ e) kulturális intézet;
 
 11. szolgálati érdek: a külügyminiszter, illetve a szakmai irányítást ellátó központi közigazgatási szerv vezetőjének feladat- és hatásköréről szóló kormányrendeletekben megállapított feladatok végrehajtásával kapcsolatos érdek;
 
-12. ellátmánypótlékra jogosító személy: a kihelyezettel az állomáshelyen, közös háztartásban, életvitelszerűen együtt élő
-
-a) házastársa, élettársa (a továbbiakban: házastárs), valamint
-
-b) gyermeke, örökbe fogadott gyermeke, illetőleg a házastársa gyermeke, örökbe fogadott gyermeke (a továbbiakban: gyermeke).
+12.[^2] ellátmánypótlékra jogosító személy: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a külszolgálat helyén tartózkodó házastársa vagy élettársa (a továbbiakban együtt: házastárs), valamint gyermeke, örökbe fogadott gyermeke, a házastársa gyermeke, illetve annak örökbe fogadott gyermeke (a továbbiakban együtt: gyermeke);
 
 [^1]: A 2. § 5. pontja a 356/2004. (XII. 23.) Korm. rendelet 4. § (2) bekezdésének b) pontjával megállapított szöveg.
+[^2]: A 2. § 12. pontja a 254/2010. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.

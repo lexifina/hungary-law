@@ -1,8 +1,8 @@
 ## Ellátmányelőleg
 
-27. § (1) A kihelyező közigazgatási szerv a kihelyezett kérelmére, a külképviseletre történt megérkezése után – egy alkalommal, a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számítva –, háromhavi, kamatmentes ellátmányelőleget nyújt.
+27. § (1)[^12] A kihelyező közigazgatási szerv a kihelyezett kérelmére, a külképviseletre történt megérkezést követően, az első ellátmány kifizetéséig – egy alkalommal, az állomáshelyre jogszabályban megállapított alapellátmánnyal, a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számítva, kéthavi, az ellátmánypótlékra jogosító gyermekkel kihelyezésre kerülő kiküldött részére háromhavi, kamatmentes ellátmányelőleget nyújt.
 
-(2) A kihelyező közigazgatási szerv az (1) bekezdésben meghatározottakon felül, a kihelyezett kérelmére – kizárólag gépkocsi vásárlás céljára – a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számított, hathavi ellátmánynak megfelelő, kamatmentes munkáltatói kölcsönt nyújthat a kihelyezéstől számított egy éven belül. A gépkocsi vásárlás céljára adott összeg nem haladhatja meg a gépkocsi vételárát. A gépkocsi vásárlást a kihelyezett számlával igazolja.
+(2)[^13] A kihelyező közigazgatási szerv az (1) bekezdésben meghatározottakon felül, a kihelyezett kérelmére – kizárólag gépkocsi vásárlás céljára – az alapellátmánnyal, a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számított, háromhavi ellátmánynak megfelelő, kamatmentes munkáltatói kölcsönt nyújthat a kihelyezéstől számított egy éven belül. A gépkocsi vásárlás céljára adott összeg nem haladhatja meg a gépkocsi vételárát. A gépkocsi vásárlást a kihelyezett számlával igazolja.
 
 (3) A kihelyezett a munkáltatói kölcsön felhasználásával vásárolt gépkocsira – az ellátmányelőleg törlesztésének időtartamára – köteles a vásárlással egyidejűleg casco vagy annak megfelelő egyéb biztosítást kötni.
 
@@ -17,3 +17,9 @@
 (8) Az egy évet meg nem haladó időtartamú kihelyezés esetén ellátmányelőleg és munkáltatói kölcsön nem adható.
 
 (9) A kihelyezett halála esetén az ellátmányelőleg és a munkáltatói kölcsön még esedékes, járandóságból le nem vonható része különös méltánylást érdemlő esetben kérelemre részben vagy egészben elengedhető.
+
+(10)[^14] Áthelyezés esetén – a kihelyező közigazgatási szerv egyedi döntése alapján – kizárólag a (2) bekezdésben meghatározott munkáltatói kölcsön nyújtható.
+
+[^12]: A 27. § (1) bekezdése a 254/2010. (XI. 8.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^13]: A 27. § (2) bekezdése a 254/2010. (XI. 8.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^14]: A 27. § (10) bekezdését a 254/2010. (XI. 8.) Korm. rendelet 8. § (2) bekezdése iktatta be.

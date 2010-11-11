@@ -1,14 +1,14 @@
 ## Ellátmánypótlék
 
-26. § (1) A kihelyezett a 2. § 12. pontjában meghatározott személyek után jogosult ellátmánypótlékra. Az ellátmánypótlék a kihelyezett külszolgálatának idejére, az arra jogosító személy tényleges kiutazásától végleges hazautazásának napjáig – az utazási napokat is beleértve – jár. A töredékhavi ellátmánypótlék kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
+26. §[^10] (1) A kihelyezett a 2. § 12. pontjában meghatározott személyek után jogosult ellátmánypótlékra. Az ellátmánypótlék a kihelyezett külszolgálatának idejére, az arra jogosító személy tényleges kiutazásától végleges hazautazásának napjáig – az utazási napokat is beleértve – jár. A töredékhavi ellátmánypótlék kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 
 (2) Az ellátmánypótlék összege
 
 a) ellátmánypótlékra jogosító házastárs esetén
 
-aa) amennyiben nem rendelkezik jövedelemmel, a kihelyezett ellátmányának 25%-a,
+aa) amennyiben nem rendelkezik munkajövedelemmel, a kihelyezett ellátmányának 25%-a,
 
-ab) ha a külföldön szerzett jövedelme (ellátmánya, megbízási díja, munkabére) nem éri el az állomáshely szerinti alapellátmány összegét, a kihelyezett ellátmányának 12,5%-a;
+ab) ha a kihelyező szerv által fizetett munkabéren (illetményen) kívül a belföldi munkajövedelme és a kihelyező szerv által fizetett ellátmánya, illetve a külföldön szerzett munkajövedelme (megbízási díja, munkabére) összességében nem éri el az állomáshely szerinti alapellátmány összegét, a kihelyezett ellátmányának 12,5%-a;
 
 b) ellátmánypótlékra jogosító gyermek esetén a 2,5 szorzószámmal számított ellátmány
 
@@ -22,16 +22,29 @@ ca) 12. életév betöltéséig 15%-a,
 
 cb) 12. életév betöltését követően 20%-a, ameddig iskolarendszerű oktatás keretében tanulmányokat folytat, de legfeljebb a gyermek 23. életévének betöltéséig.
 
-(3) Ellátmánypótlék nem jár, ha az (1) bekezdésben meghatározott személy a tárgyhónapban az állomáshely szerinti alapellátmány összegét meghaladó, külföldön szerzett jövedelemmel rendelkezik. A jövedelem megszerzését a kihelyezett írásban köteles bejelenteni.
+(3) Ellátmánypótlék nem jár
 
-(4) Az (1) bekezdésben meghatározott családtag elhalálozása esetén a kihelyezett részére a halál bekövetkeztéig járó ellátmánypótlékon felül ki kell fizetni az ellátmánypótlék egyhavi összegét.
+a) ha az ellátmánypótlékra jogosító személy – a kihelyező szerv által fizetett munkabéren (illetményen) kívüli – belföldi munkajövedelme és a kihelyező szerv által fizetett ellátmánya, illetve a külföldön szerzett munkajövedelme (megbízási díja, munkabére) összességében tárgyhónapban meghaladja az állomáshely szerinti, 1,0 szorzószámmal számított ellátmány összegét. A jövedelem megszerzését a kihelyezett írásban köteles bejelenteni;
 
-(5) Az ellátmánypótlék időarányosan jár a kihelyezettel az állomáshelyen nem együtt élő házastárs és az ellátmánypótlékra jogosító gyermek alkalmi, 15 napot meghaladó látogatása esetén.
+b) az ellátmánypótlékra jogosító személynek a fogadó államtól való távollétének időtartama alatt, az elutazás és a visszaérkezés napját is beleértve.
 
-(6) A kihelyezett ellátmánypótlékra nem jogosult az (1) bekezdésben meghatározott személynek az állomáshelytől – a kihelyezett szabadsága idejének kivételével – 90 napot meghaladó távolléte után. Többszöri távollét esetén a részidőket naptári évenként össze kell adni. A kihelyezett – az állomáshely elhagyása előtt, valamint az állomáshelyre történő visszautazást követően 3 napon belül – köteles írásban jelenteni a külképviselet vezetőjének az ellátmánypótlékra jogosító személyek állomáshelytől való távollétének kezdő és befejező napját. A 2. § 12. pontjának a) alpontjában meghatározott személy szülése miatti távolléte esetén a kihelyező közigazgatási szerv e bekezdés rendelkezéseitől eltérhet.
+(4) A (3) bekezdés b) pontját nem kell alkalmazni, ha a távollétre a kihelyezett évi rendes szabadsága miatt kerül sor.
 
-(7) Az (1) bekezdésben nem említett családtagoknak az állomáshelyen való tartózkodását a kihelyezett köteles írásban bejelenteni a képviselet-vezetőnek.
+(5) A kihelyezett köteles 3 munkanapon belül írásban bejelenteni, ha az ellátmánypótlékra jogosító személy a fogadó, vagy más államban foglalkoztatásra irányuló jogviszonyt – ideértve az állomáshelyen végzett távmunkát is – létesít.
 
-(8) A külügyminiszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére, meghatározott időtartamra, egyszeri utasításban különpótlékot állapíthat meg.[^2]
+(6) A kihelyezett a külképviseleten írásban köteles bejelenteni – a fogadó államból történő el-, illetve visszautazást követő 3 napon belül a képviselet vezetőjének és a számfejtést végző kiküldöttnek az ellátmánypótlékra jogosító személyek fogadó államból való távollétének kezdő és befejező időpontját.
 
-[^2]: Lásd a 7/2009. (V. 6.) KüM utasítást.
+(7) A kihelyezett a jogosulatlanul felvett ellátmánypótlékot a Ptk. 232. § (2) bekezdése szerinti kamattal növelt összegével köteles visszafizetni.
+
+(8) Az ellátmánypótlékra jogosító házastárs szülés miatti távolléte esetén a kihelyező közigazgatási szerv e § rendelkezéseitől eltérhet.
+
+(9) Az ellátmánypótlékra jogosító családtag elhalálozása esetén a kihelyezett részére a halál bekövetkeztéig járó ellátmánypótlékon felül ki kell fizetni az ellátmánypótlék egyhavi összegét.
+
+(10) Az (1) bekezdésben nem említett családtagoknak az állomáshelyen való tartózkodását a kihelyezett köteles írásban bejelenteni a képviselet-vezetőnek.
+
+(11) A külügyminiszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére meghatározott időtartamra, egyszeri utasításban különpótlékot állapíthat meg.[^11]
+
+(12) Az iskolarendszerszerű oktatás keretében végzett középfokú szakképzés befejezésének időpontja alatt az első érettségi, illetve szakmunkás bizonyítvány megszerzési hónapjának végét kell érteni.
+
+[^10]: A 26. § a 254/2010. (XI. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: Lásd a 7/2009. (V. 6.) KüM utasítást.

@@ -8,7 +8,7 @@ a) rangját és munkakörét, munkaköri kulcsszámát (1. számú melléklet);
 
 b) állomáshelyét;
 
-c) a kihelyezés (áthelyezés) időpontjában érvényes alapellátmány összegét, ellátmánya szorzószámát, az ellátmánypótlékokat;
+c)[^6] a kihelyezés (áthelyezés) időpontjában érvényes alapellátmányának összegét, az arra utaló pontos jogszabályi helyét, ellátmánya szorzószámát, az ellátmánypótlékokra való jogosultságát;
 
 d) köztisztviselő külszolgálathoz fűződő besorolását, illetményét;
 
@@ -29,3 +29,5 @@ i) kötelezettségeit és jogosultságait, a külszolgálat ellátásával kapcs
 (5) Amennyiben a külszolgálat a 18. § (2) bekezdésének b) pontja szerint a kihelyezés visszavonásával szűnik meg, a kihelyezést visszavonó okiratban a (3) bekezdésében foglaltakon túl a kihelyezés visszavonásának indokairól is tájékoztatni kell a kihelyezettet.
 
 (6) A kihelyező okirathoz csatolni kell a kihelyezett részletes munkaköri leírását. A munkaköri leírás tartalmazza a helyettesítés rendjét is.
+
+[^6]: A 21. § (2) bekezdés c) pontja a 254/2010. (XI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
