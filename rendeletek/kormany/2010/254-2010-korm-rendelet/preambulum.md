@@ -1,0 +1,1 @@
+A Kormány a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 80. §-ának (4) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a következőket rendeli el:
