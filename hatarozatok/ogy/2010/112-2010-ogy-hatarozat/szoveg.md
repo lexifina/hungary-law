@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Schiffer András országgyűlési képviselő mentelmi jogát a Budapest II. és III. Kerületi Bíróság 12. B.1470/2010/4. számú megkeresésével érintett ügyben nem függeszti fel.
