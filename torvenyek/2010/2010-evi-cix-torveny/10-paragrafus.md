@@ -5,11 +5,3 @@
 (3) A 3. Jegyzőkönyv hatálybalépésének naptári napját, valamint a (2) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
