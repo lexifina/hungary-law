@@ -4,7 +4,7 @@
 
 | 1. | Miniszterelnökség | 94 |
 
-| 2. | Közigazgatási és Igazságügyi Minisztérium | 1086 |
+| 2. | Közigazgatási és Igazságügyi Minisztérium | 1097 |
 
 | 3. | Belügyminisztérium | 346 |
 
@@ -20,7 +20,7 @@
 
 | 9. | Vidékfejlesztési Minisztérium | 735 |
 
-| 10. | ÖSSZESEN: | 5827 |
+| 10. | ÖSSZESEN: | 5838 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -28,31 +28,31 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 |  | Megnevezés | Létszám (fő) |
 
-| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 306 |
+| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 248 |
 
 | 1.1. | Központi Statisztikai Hivatal | 1 393 |
 
-| 1.2. | Magyar Szabadalmi Hivatal | 219 |
+| 1.2. | Magyar Szabadalmi Hivatal | 229 |
 
-| 1.3. | Kormányzati Ellenőrzési Hivatal | 167 |
+| 1.3. | Kormányzati Ellenőrzési Hivatal | 120 |
 
-| 1.4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 824 |
+| 1.4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 803 |
 
-| 1.5. | Regionális államigazgatási hivatalok | 1 403 |
+| 1.5. | Fővárosi, megyei közigazgatási hivatalok | 1 403 |
 
-| 1.5.1. | Regionális szociális és gyámhivatalok | 290 |
+| 1.5.1. | Fővárosi, megyei szociális és gyámhivatalok | 290 |
 
 | 1.6. | Balassi Intézet | 280 |
 
 | 1.7. | Egyenlő Bánásmód Hatóság | 20 |
 
-| 2. | Belügyminisztérium | 897 |
+| 2. | Belügyminisztérium | 997 |
 
 | 2.1. | Szervezett Bűnözés Elleni Koordinációs Központ | 16 |
 
-| 2.2. | Bevándorlási és Állampolgársági Hivatal | 881 |
+| 2.2. | Bevándorlási és Állampolgársági Hivatal | 981 |
 
-| 2.2.1. | Bevándorlási és Állampolgársági Hivatal | 822 |
+| 2.2.1. | Bevándorlási és Állampolgársági Hivatal | 922 |
 
 | 2.2.2. | Menekülteket Befogadó Állomás, Békéscsaba | 21 |
 
@@ -60,39 +60,39 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 2.2.4. | Menekülteket Befogadó Állomás, Debrecen | 26 |
 
-| 3. | Külügyminisztérium | 1 114 |
+| 3. | Külügyminisztérium | 1 184 |
 
-| 3.1. | Külképviseletek igazgatása | 1 094 |
+| 3.1. | Külképviseletek igazgatása | 1 164 |
 
 | 3.2. | Magyar Külügyi Intézet | 20 |
 
-| 4. | Nemzetgazdasági Minisztérium | 25 440 |
+| 4. | Nemzetgazdasági Minisztérium | 25 934 |
 
-| 4.1. | Adó- és Pénzügyi Ellenőrzési Hivatal | 15 635 |
+| 4.1. | Adó- és Pénzügyi Ellenőrzési Hivatal | 15 607 |
 
-| 4.1.1. | APEH Központi Hivatal | 1 074 |
+| 4.1.1. |  |  |
 
-| 4.1.2. | APEH Oktatási Igazgatóság | 40 |
+| 4.1.2. |  |  |
 
-| 4.1.3. | APEH Sztadi | 829 |
+| 4.1.3. |  |  |
 
-| 4.1.4. | APEH Közép-Dunántúli Regionális Igazgatóság | 1 366 |
+| 4.1.4. |  |  |
 
-| 4.1.5. | APEH Nyugat-Dunántúli Regionális Igazgatóság | 1 203 |
+| 4.1.5. |  |  |
 
-| 4.1.6. | APEH Dél-Dunántúli Regionális Igazgatóság | 1 144 |
+| 4.1.6. |  |  |
 
-| 4.1.7. | APEH Észak-Magyarországi Regionális Igazgatóság | 1 250 |
+| 4.1.7. |  |  |
 
-| 4.1.8. | APEH Közép-Magyarországi Regionális Igazgatóság | 5 038 |
+| 4.1.8. |  |  |
 
-| 4.1.9. | APEH Észak-Alföldi Regionális Igazgatóság | 1 589 |
+| 4.1.9. |  |  |
 
-| 4.1.10. | APEH Dél-Alföldi Regionális Igazgatóság | 1 522 |
+| 4.1.10. |  |  |
 
-| 4.1.11. | Kiemelt Adózók Igazgatósága | 580 |
+| 4.1.11. |  |  |
 
-| 4.2. | Magyar Államkincstár | 3 799 |
+| 4.2. | Magyar Államkincstár | 4 244 |
 
 | 4.3. | Magyar Kereskedelmi Engedélyezési Hivatal | 486 |
 
@@ -120,13 +120,15 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 4.8. | Országos Munkavédelmi és Munkaügyi Főfelügyelőség | 1 055 |
 
-| 5. | Nemzeti Erőforrás Minisztérium | 5 221 |
+| 4.9. | Európai Támogatásokat Auditáló Főigazgatóság | 80 |
 
-| 5.1. | Egészségbiztosítási Felügyelet | 80 |
+| 5. | Nemzeti Erőforrás Minisztérium | 5 291 |
 
-| 5.2. | EüM Engedélyezési és Közigazgatási Hivatal | 41 |
+| 5.1. |  |  |
 
-| 5.3. | Állami Népegészségügyi és Tisztiorvosi Szolgálat és intézményei | 3 908 |
+| 5.2. | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 50 |
+
+| 5.3. | Állami Népegészségügyi és Tisztiorvosi Szolgálat és intézményei | 4 049 |
 
 | 5.4. | Országos Rehabilitációs és Szociális Szakértői Intézet | 551 |
 
@@ -134,13 +136,13 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 5.6. | Oktatási Hivatal | 320 |
 
-| 6. | Nemzeti Fejlesztési Minisztérium | 3 181 |
+| 6. | Nemzeti Fejlesztési Minisztérium | 2 996 |
 
 | 6.1. | Nemzeti Fejlesztési Ügynökség | 241 |
 
 | 6.2. | Közlekedésbiztonsági Szervezet | 57 |
 
-| 6.3. | Magyar Bányászati és Földtani Hivatal | 365 |
+| 6.3. | Magyar Bányászati és Földtani Hivatal | 180 |
 
 | 6.4. | Magyar Energia Hivatal | 112 |
 
@@ -150,7 +152,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 6.7. | Országos Atomenergia Hivatal | 85 |
 
-| 7. | Vidékfejlesztési Minisztérium | 12 439 |
+| 7. | Vidékfejlesztési Minisztérium | 12 663 |
 
 | 7.1. | Mezőgazdasági Szakigazgatási Hivatal | 4 909 |
 
@@ -286,9 +288,11 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 7.5.11. | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 130 |
 
-| 8. | Egészségbiztosítási Alap | 3 372 |
+| 7.6. | Országos Meteorológiai Szolgálat | 224 |
 
-| 8.1. | Országos Egészségbiztosítási Pénztár és területi igazgatási szervei | 3 372 |
+| 8. | Egészségbiztosítási Alap | 3 465 |
+
+| 8.1. | Országos Egészségbiztosítási Pénztár és területi igazgatási szervei | 3 465 |
 
 | 9. | Nyugdíjbiztosítási Alap | 3 987 |
 
@@ -296,6 +300,20 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 9.2. | Regionális Nyugdíjbiztosítási Igazgatóságok, Nyugdíjfolyósító Igazgatóság | 3 692 |
 
-| 10. | ÖSSZESEN: | 59 954 |
+| 10. | Honvédelmi Minisztérium | 199 |
 
-[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+| 10.1. | Magyar Köztársaság Állandó NATO Képviselet, Védelempolitikai Részleg | 15 |
+
+| 10.2. | Magyar Köztársaság Állandó EBESZ Képviselet, Katonai Képviselet | 4 |
+
+| 10.3. | HM Védelmi Hivatal | 41 |
+
+| 10.4. | HM Központi Ellenőrzési és Hatósági Hivatal | 73 |
+
+| 10.5. | HM Nemzetközi Együttműködési Fegyverzet-ellenőrzési Hivatal | 41 |
+
+| 10.6. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 25 |
+
+| 11. | ÖSSZESEN: | 60 964 |
+
+[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja szerint módosított szöveg.

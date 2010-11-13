@@ -12,4 +12,4 @@
 
 1. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^1]
 
-[^1]: Az 1. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 1–2. pontja szerint módosított szöveg.
+[^1]: Az 1. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 1–2. pontja, az 1232/2010. (XI. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
