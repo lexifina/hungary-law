@@ -1,0 +1,1 @@
+3. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről a Moldovai Köztársaság közötti partnerség létrehozásáról szóló partnerségi és együttműködési megállapodáshoz csatolt jegyzőkönyvet (a továbbiakban: 1. Jegyzőkönyv) e törvénnyel kihirdeti.

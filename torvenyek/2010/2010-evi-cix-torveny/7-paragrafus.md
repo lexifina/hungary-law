@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamai, másrészről a Moldovai Köztársaság közötti partnerségi és együttműködési megállapodáshoz csatolt a Bolgár Köztársaságnak és Romániának a partnerségi és együttműködési megállapodáshoz történő csatlakozásának figyelembevételéről szóló jegyzőkönyvet (a továbbiakban: 3. Jegyzőkönyv) e törvénnyel kihirdeti.
