@@ -16,13 +16,7 @@ f) a vidékfejlesztési miniszter képviselőjeként a vidékfejlesztésért fel
 
 kijelöli.
 
-2. A Kormány
-
-a) a Balaton Fejlesztési Tanácsból dr. Suchman Tamást,
-
-b) a Budapesti Agglomerációs Fejlesztési Tanácsból dr. Bóth Jánost
-
-visszahívja.
+2.[^1] A Kormány a Balaton Fejlesztési Tanácsban a Kormány képviselőjévé dr. Bóka Istvánt kijelöli.
 
 3. A Kormány a regionális fejlesztési tanács tagjává
 
@@ -53,3 +47,5 @@ c) a Balaton Fejlesztési Tanácsba a Kormány képviselőjének kinevezésérő
 d) a Kormány képviselőjének a Közép-Magyarországi Regionális Fejlesztési Tanácsba történő kinevezéséről szóló 1141/2004. (XII. 11.) Korm. határozat
 
 hatályát veszti.
+
+[^1]: A 2. pont az 1237/2010. (XI. 16.) Korm. határozat 1. pontjával megállapított szöveg.
