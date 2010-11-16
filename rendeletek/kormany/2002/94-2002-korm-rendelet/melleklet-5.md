@@ -186,7 +186,7 @@
 
 ## 1. g) jelen rendelet alkalmazásában az „anyagában történő hasznosítási arány” az anyagában hasznosított csomagolási hulladék összes mennyiségének és a képződött csomagolási hulladék összes mennyiségének hányadosát jelenti.
 
-## 2. a) Nem minősül csomagolási hulladéknak a csomagolás vagy a csomagoló anyag termeléséből, vagy bármely más termelési, gyártási folyamatból származó termelési, gyártási maradék.
+## 2. a) Nem minősül csomagolási hulladéknak a csomagolás vagy a csomagoló anyag termeléséből, vagy bármely más termelési, gyártási folyamatból származó termelési, gyártási hulladék.
 
 ## 2. b) Az adatszolgáltatás szempontjából az a feltételezés alkalmazandó, hogy a kötelezett tevékenysége következtében egy adott évben Magyarországon képződött csomagolási hulladék mennyisége megegyezik az általa Magyarországon ugyanabban az évben forgalomba hozott csomagolás mennyiségével.
 
@@ -234,7 +234,7 @@
 
 ## d) a csomagolásban szennyeződésként maradó anyagnak tulajdoníthatóan veszélyesnek minősülő csomagolási hulladék mennyiségéről és minőségéről.
 
-5. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^79]
+5. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^84]
 
 A kötelezettek által minimálisan teljesítendő anyagában történő hasznosítási arányok
 
@@ -256,4 +256,4 @@ A kötelezettek által minimálisan teljesítendő anyagában történő hasznos
 
 ”
 
-[^79]: Az 5. számú mellékletet a 37/2006. (II. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^84]: Az 5. számú mellékletet a 37/2006. (II. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be.

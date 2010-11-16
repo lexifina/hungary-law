@@ -58,6 +58,6 @@
 
 ## Adagok mérésére szolgáló eszköz, amely mosó- és tisztítószerek tárolóeszközei záró elemének része
 
-4. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^78]
+4. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^83]
 
-[^78]: A 4. számú melléklet a 37/2006. (II. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés i)–q) pontja szerint módosított szöveg.
+[^83]: A 4. számú melléklet a 37/2006. (II. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés i)–q) pontja, a 255/2010. (XI. 8.) Korm. rendelet 5. §-a szerint módosított szöveg.
