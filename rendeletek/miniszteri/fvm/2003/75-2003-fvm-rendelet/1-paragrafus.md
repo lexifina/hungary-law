@@ -2,9 +2,9 @@
 
 1. §
 
-1. Vágóhíd üzemeltetője: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki bel-, illetve külkereskedelmi értékesítés vagy közfogyasztás céljából szarvasmarhát, sertést, juhot vagy kecskét vágó vágóhidat vagy vágóhelyet üzemeltet.
+1. [^1] Vágóhíd üzemeltetője: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki értékesítés vagy közfogyasztás céljából szarvasmarhát, sertést, juhot és kecskét vágó, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 35. § (1) bekezdése szerint engedélyezett élelmiszer létesítményben engedélyezett élelmiszer-vállalkozói tevékenységet végez.
 
-2. [^1] Minősítő szervezet: a vágósertések, vágómarhák, illetve vágójuhok és vágókecskék (a továbbiakban: vágóállatok) minősítésére jogosult jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet.
+2. [^2] Minősítő szervezet: a vágósertések, vágómarhák, vágójuhok és vágókecskék (a továbbiakban: vágóállatok) minősítésére jogosult jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet.
 
 3. Minősítő hely: a vágóhídi vágóvonal oly módon kialakított szakasza, ahol a megfelelően előkészített vágott testek, illetve féltestek mérlegelése, minősítési előírás szerinti osztályozása, valamint a minősítési adatok rögzítése zavartalanul biztosítható.
 
@@ -14,4 +14,11 @@
 
 6. Kereskedő: a vágóállat kis- és nagykereskedő.
 
-[^1]: Az 1. § 2. pontja a 132/2007. (XI. 8.) FVM rendelet 1. §-ával megállapított szöveg.
+7. [^3] Kifejlett szarvasmarha: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet III. melléklet IV. rész 2. pontja szerinti fogalom.
+
+8. [^4] Tenyészállat: az állattenyésztésről szóló 1993. évi CXIV. törvény 3. § 16. pontja szerinti fogalom.
+
+[^1]: Az 1. § 1. pontja a 28/2010. (XI. 9.) VM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^2]: Az 1. § 2. pontja a 28/2010. (XI. 9.) VM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^3]: Az 1. § 7. pontját a 28/2010. (XI. 9.) VM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^4]: Az 1. § 8. pontját a 28/2010. (XI. 9.) VM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

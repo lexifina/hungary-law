@@ -1,4 +1,4 @@
-## 17. §[^48] A miniszter a minősítés hatósági feladatainak keretében:
+## 17. §[^56] A miniszter a minősítés hatósági feladatainak keretében:
 
 a) elismeri, illetve elismerteti az alkalmazható minősítési módszereket és közzéteszi azokat;
 
@@ -10,4 +10,4 @@ d) jóváhagyja az oktatás és a továbbképzés szakmai és vizsga követelmé
 
 e) kijelöli a minősítők oktatására, továbbképzésére, vizsgáztatására jogosult intézményeket.
 
-[^48]: A 17. § felvezető szövege a 132/2007. (XI. 8.) FVM rendelet 13. §-ával megállapított szöveg.
+[^56]: A 17. § felvezető szövege a 132/2007. (XI. 8.) FVM rendelet 13. §-ával megállapított szöveg.
