@@ -1,4 +1,4 @@
-2. § (1) A méhanyanevelő telepekkel kapcsolatos eljárásában az MgSzH területi szerve és a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központ) tenyésztési hatóságként, az Állattenyésztési és Takarmányozási Kutatóintézet (a továbbiakban: ÁTK) szakértőként jár el. Az MgSzH területi szerve és az MgSzH Központ az ÁTK szakvéleményéhez nincsen kötve.
+2. § (1)[^1] A méhanyanevelő telepekkel kapcsolatos eljárásában a Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve) és a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központ) tenyésztési hatóságként, az Állattenyésztési és Takarmányozási Kutatóintézet (a továbbiakban: ÁTK) szakértőként jár el. Az MgSzH területi szerve és az MgSzH Központ az ÁTK szakvéleményéhez nincsen kötve.
 
 (2) A méhanyanevelő telepnek a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló jogszabály szerinti tenyészetkóddal kell rendelkeznie.
 
@@ -13,3 +13,5 @@ b) legalább az Országos Képzési Jegyzékben szereplő szakirányú szakképe
 c) az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet hatálybalépését megelőzően megszerzett, az a) vagy b) pontban szereplő szakképesítéssel egyenértékű szakképesítéssel,
 
 továbbá legalább 3 év méhészeti szakmai gyakorlattal kell rendelkeznie, amelyet az adott méhfajta elismert vagy ideiglenesen elismert tenyésztő szervezete (a továbbiakban együtt: tenyésztő szervezet) igazol.
+
+[^1]: A 2. § (1) bekezdése a 28/2010. (XI. 9.) VM rendelet 8. §-a szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
