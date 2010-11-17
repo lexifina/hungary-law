@@ -6,11 +6,11 @@
 
 ## 2. Egy fajta számára csak egy főkönyv vezethető.
 
-## 3.[^53] Az egyes fajták, tenyésztő vállalkozások, tenyészeteik és a részvállalkozások tenyészetazonosítóját – az egységesség érdekében – az MgSzH adja ki, és tartja nyilván.
+## 3.[^69] Az egyes fajták, tenyésztő vállalkozások, tenyészeteik és a részvállalkozások tenyészetazonosítóját – az egységesség érdekében – az MgSzH Központja adja ki, és tartja nyilván.
 
-## 4.[^54] A tenyésztő vállalkozáson belül a telepazonosító megjelöléseket az MgSzH adja ki a tenyésztő szervezet javaslata alapján.
+## 4.[^70] A tenyésztő vállalkozáson belül a telepazonosító megjelöléseket az MgSzH Központja adja ki a tenyésztő szervezet javaslata alapján.
 
-## 5.[^55] A főkönyveket az MgSzH évenként hitelesíti az állományok felülvizsgálata és a központi adatbankba beküldött adatok alapján. (Az MgSzH az I., II. és III. osztályba tartozó állományokat a „Felülvizsgálati szabályzat” szerint felülvizsgálja.)
+## 5.[^71] A főkönyveket az MgSzH Központja évenként hitelesíti az állományok felülvizsgálata és a központi adatbankba beküldött adatok alapján. (Az MgSzH Központja az I., II. és III. osztályba tartozó állományokat a „Felülvizsgálati Szabályzat” szerint felülvizsgálja.)
 
 ## 6. A főkönyv három osztályra tagolódik:
 
@@ -64,7 +64,7 @@
 
 ## 10. A főkönyv formája lehet: könyv, jegyzék, kartoték vagy más olyan adathordozó, amelyet hitelesíteni lehet.
 
-## 11.[^56] A 7. pontban részletezett állományok 9. pontban felsorolt adatait az MgSzH-nál vezetett központi adatbanknak kell átadni a termelési időszak zárását követő harminc napon belül. Az adatok védelmét és titkosságát az MgSzH biztosítja.
+## 11.[^72] A 7. pontban részletezett állományok 9. pontban felsorolt adatait az MgSzH Központjánál vezetett központi adatbanknak kell átadni a termelési időszak zárását követő harminc napon belül. Az adatok védelmét és titkosságát az MgSzH Központja biztosítja.
 
 ## 12. A tenyésztő vállalkozásnak import állomány vonatkozásában az eredeti külföldi származási igazolás alapján kell kiállítania – az elismerési kérelemben megjelölt módon – az állomány hazai forgalmazása esetén a származási igazolást.
 
@@ -74,7 +74,7 @@
 
 5. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^53]: A 4. számú melléklet I. 3. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^54]: A 4. számú melléklet I. 4. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^55]: A 4. számú melléklet I. 5. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^56]: A 4. számú melléklet I. 11. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12)–(13) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
+[^69]: A 4. számú melléklet I. rész 3. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^70]: A 4. számú melléklet I. rész 4. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^71]: A 4. számú melléklet I. rész 5. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^72]: A 4. számú melléklet I. rész 11. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

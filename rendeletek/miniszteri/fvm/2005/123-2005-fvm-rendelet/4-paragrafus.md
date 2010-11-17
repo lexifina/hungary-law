@@ -6,41 +6,37 @@ b) képes elvégezni a származási igazoláshoz szükséges tenyésztési adato
 
 c) képes feldolgozni és elemezni az állatok teljesítményvizsgálati adatait, amelyek a fajtanemesítési vagy fenntartási program végrehajtásához szükségesek.
 
-(2) A kérelemnek tartalmaznia kell:
+(2)[^7] A kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
 
-a) az elismerést kérő megnevezését (cégnevét), címét, székhelyét (telephelyét);
+a) az állatfajt és a fajtát;
 
-b) az állatfajt és a fajtát;
+b) a hasznosítási típust és a tenyészcélt;
 
-c) a hasznosítási típust és a tenyészcélt;
+c) a tenyésztésen belüli tevékenységi kört;
 
-d) a tenyésztésen belüli tevékenységi kört;
+d) a személyi feltételeket, a tenyésztésvezető nevének külön feltüntetésével és iskolai végzettségét igazoló okirat másolatával;
 
-e) a személyi feltételeket, a tenyésztésvezető nevének külön feltüntetésével és iskolai végzettségét igazoló okirat másolatával;
+e) a tenyésztési programot;
 
-f) a tenyésztési programot;
+f) a fajta besorolását;
 
-g)[^6]
+g) arra való utalást, hogy van-e nemesítő;
 
-h) a fajta besorolását;
+h) az állatok, a tenyésztojás és a keltetőtojás jelölési módját, valamint az egyéb szaporítóanyag jelölési rendjét;
 
-i) arra való utalást, hogy van-e nemesítő;
+i) a rendelkezésre álló tenyész-, és árutermelő állomány létszámát és helyét, a tenyésztojás keltetők azonosítóját a kérelem benyújtása idején;
 
-j) az állatok, a tenyésztojás és a keltetőtojás jelölési módját, valamint az egyéb szaporítóanyag jelölési rendjét;
+j) a fajta küllemi leírását, hibrid és keresztezési eljárás esetén a végterméket előállító, szaporító fokozatokra vonatkozóan is;
 
-k) a rendelkezésre álló tenyész-, illetve árutermelő állomány létszámát és helyét, a tenyésztojást keltetők azonosítóját a kérelem benyújtása idején;
+k) a kérelmező által meghatározott főbb, vagy gazdaságilag fontos paraméterek ismert vagy várható értékét, figyelemmel a szaporító fokozatokra is;
 
-l) a fajta küllemi leírását, hibrid és keresztezési eljárás esetén a végterméket előállító, szaporító fokozatokra vonatkozóan is;
+l) a törzskönyvi vagy tenyésztési főkönyvi szabályzatot, melynek általános előírásait az 1–6. számú mellékletek tartalmazzák, továbbá ló esetében annak az eredő törzskönyvnek a feltüntetését, amely törzskönyvi rendjének átvételére sor kerül;
 
-m) a kérelmező által meghatározott főbb, vagy gazdaságilag fontos paraméterek ismert vagy várható értékét, figyelemmel a szaporító fokozatokra is;
+m) a nyilvántartás és az igazolások rendjét;
 
-n) a törzskönyvi vagy tenyésztési főkönyvi szabályzatot, melynek általános előírásait az 1–6. számú mellékletek tartalmazzák, továbbá ló esetében annak az eredő törzskönyvnek a feltüntetését, amely törzskönyvi rendjének átvételére sor kerül;
+n) a származásellenőrzés módját és dokumentálásának rendjét.
 
-o) a nyilvántartás és az igazolások rendjét;
-
-p) a származásellenőrzés módját és dokumentálásának rendjét.
-
-(3) Ha a bejelentő egyéb vizsgálati szempontokat is megjelöl, a kérelemnek azokat is tartalmaznia kell.
+(3)[^8] Ha a kérelmező egyéb vizsgálati szempontokat is megjelöl, a kérelemnek azokat is tartalmaznia kell.
 
 (4) A kérelmező köteles beszerezni a tenyésztésvezető hozzájárulását érintett adatai kezeléséhez, amely hozzájárulást köteles a kérelemhez csatolni.
 
@@ -84,4 +80,5 @@ b) ha az adott ország ilyen elismerést nem ad ki, a származási ország illet
 
 c) megállapodást, amely tartalmazza védett fajta esetén az adott fajta tenyésztésére és forgalmazására feljogosító engedélyt, a fajta eredeti tulajdonosától származó jogokat és kötelezettségeket, a kérelmező kizárólagosságát, és a fajtanév használatára vonatkozó rendelkezéseket.
 
-[^6]: A 4. § (2) bekezdés g) pontját a 93/2008. (VII. 24.) FVM rendelet 8. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
+[^7]: A 4. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^8]: A 4. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

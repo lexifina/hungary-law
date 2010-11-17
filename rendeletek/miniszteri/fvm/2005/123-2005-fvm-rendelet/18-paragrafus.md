@@ -1,8 +1,6 @@
 18. § (1) E rendelet a kihirdetését követő 30. napon lép hatályba, ezzel egyidejűleg hatályát veszti a tenyésztő szervezetkénti elismerés, továbbá egyes tenyészállatokra vonatkozó törzskönyv, valamint tenyésztési főkönyv vezetésének és a származási igazolás kiállításának szabályairól szóló 30/1994. (VI. 28.) FM rendelet, valamint a fajtaelismerés rendjéről szóló 31/1994. (VI. 28.) FM rendelet.
 
-(2) E rendelet rendelkezéseit a rendelet hatálybalépése után indult eljárásokban kell alkalmazni.
-
-(3) Őshonos és külön jogszabályban nevesített fajták fajtaelismerése és kapcsolódó tenyésztő szervezetük elismerésére a külön jogszabályban előírtak az irányadók.
+(2)–(3)[^39]
 
 (4) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -37,3 +35,5 @@ k) a Bizottság 90/258/EGK határozata (1990. május 10.) a fajtatiszta tenyész
 l) a Bizottság 92/353/EGK határozata (1992. június 11.) a törzskönyvezett lófélékről méneskönyvet vezető vagy kiadó tenyésztő egyesületek és szövetségek jóváhagyására vagy elismerésére vonatkozó kritériumok megállapításáról;
 
 m) a Bizottság 2005/379/EK határozata (2005. május 17.) a szarvasmarhafélék fajtatiszta tenyészállatairól, azok spermájáról, petesejtjeiről és embrióiról kiállított származási bizonyítványról és az abban feltüntetendő adatokról.
+
+[^39]: A 18. § (2)–(3) bekezdését a 28/2010. (XI. 9.) VM rendelet 11. § c) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

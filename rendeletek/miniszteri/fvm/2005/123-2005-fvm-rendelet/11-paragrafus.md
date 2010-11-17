@@ -4,7 +4,7 @@ a) a védett fajtát tulajdonosa értékesíti, és az új tulajdonos nyújtja b
 
 b) a szabad fajta elismert tenyésztő szervezete megszűnik, illetve a fajta tenyésztéséről lemond.
 
-(2) A fajtákat a bejelentéskor és az elismeréskor be kell sorolni, az alábbiak szerint:
+(2)[^18] A fajtákat a kérelem benyújtását követően és az elismeréskor be kell sorolni, az alábbiak szerint:
 
 a) a nemesítés végeredménye alapján:
 
@@ -27,3 +27,5 @@ ca) védett fajta, amennyiben nemesítője ismert, szabadalommal vagy más jogi 
 cb) szabad besorolású fajta, amennyiben a ca) pontban foglalt feltételek nem állnak fenn, illetve ha az elismerésre történő bejelentést tenyésztő egyesület, vagy szövetség tette, és az elismerést követően a fajta fenntartás egyesületi vagy szövetségi formában történik.
 
 (3) Külföldi fajta esetében a védettség szerinti besorolást az eredeti elismerési állapot alapján kell megtenni.
+
+[^18]: A 11. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

@@ -4,9 +4,9 @@
 
 ## 1.1. Egy fajta számára csak egy törzskönyv vezethető.
 
-## 1.2.[^26] A törzskönyv fajtakódját és az ehhez tartozó tenyészetszámokat – az egységesség érdekében – az MgSzH adja ki és tartja nyilván.
+## 1.2.[^40] A törzskönyv fajtakódját és az ehhez tartozó tenyészetszámokat – az egységesség érdekében – az MgSzH Központja adja ki és tartja nyilván.
 
-## 1.3.[^27] A törzskönyvet az MgSzH évente hitelesíti.
+## 1.3.[^41] A törzskönyvet az MgSzH Központja évente hitelesíti.
 
 ## 2. A törzskönyv tartalma, szerkezete és vezetése
 
@@ -60,9 +60,9 @@
 
 ## 2.5. A törzskönyv a tenyésztő egyesületnél, illetve szövetségnél vagy annak megbízásából az adatfeldolgozó intézménynél vezethető és nem selejtezhető.
 
-## 2.6.[^28] A törzskönyvi adatok egy példányát az előírt formában az MgSzH-nál vezetett központi adatbanknak kell átadni, ott tárolni és biztosítani kell az adatok védelmét.
+## 2.6.[^42] A törzskönyvi adatok egy példányát az előírt formában az MgSzH Központjánál vezetett központi adatbanknak kell átadni, ott tárolni és biztosítani kell az adatok védelmét.
 
-## 2.7.[^29] A törzskönyvi adatokat az MgSzH hitelesíti
+## 2.7.[^43] A törzskönyvi adatokat az MgSzH Központja hitelesíti
 
 ## 2.7.1. az ellenőrzés,
 
@@ -110,13 +110,13 @@
 
 ## 1.10. a szakmai munkáért felelős személy aláírását és az elismert tenyésztő szervezet bélyegzőlenyomatát;
 
-## 1.11.[^30] a teljesítményvizsgálatokat és ellenőrző teszteket lebonyolító és a közzétevő MgSzH megnevezését.
+## 1.11.[^44] a teljesítményvizsgálatokat és ellenőrző teszteket lebonyolító és a közzétevő MgSzH Központja megnevezését.
 
-## 2.[^31] A származási igazolások sorszámát, illetve az azonosításhoz és nyilvántartáshoz szükséges legfontosabb adatokat az MgSzH-val közölni kell.
+## 2.[^45] A származási igazolások sorszámát, illetve az azonosításhoz és nyilvántartáshoz szükséges legfontosabb adatokat az MgSzH Központjával közölni kell.
 
-## 3.[^32] Az adatátvétel során észlelt valótlan adatközlés esetén az MgSzH a kifogásolt származási igazolást visszamenőlegesen is letiltja.
+## 3.[^46] Az adatátvétel során észlelt valótlan adatközlés esetén az MgSzH Központja a kifogásolt származási igazolást visszamenőlegesen is letiltja.
 
-## 4.[^33] A külföldi értékesítés céljára és a lovak számára kiállított származási igazolást az MgSzH által hitelesíttetni kell.
+## 4.[^47] A külföldi értékesítés céljára és a lovak számára kiállított származási igazolást az MgSzH Központja által hitelesíttetni kell.
 
 ## 5. A származási igazolásnak a tenyészállat telephelyén, szaporítóanyag esetén a deponálás helyén mindig rendelkezésre kell állnia.
 
@@ -124,11 +124,11 @@
 
 2. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^26]: Az 1. számú melléklet I. 1.2. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^27]: Az 1. számú melléklet I. 1.3. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^28]: Az 1. számú melléklet I. 2.6. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (13) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^29]: Az 1. számú melléklet I. 2.7. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^30]: Az 1. számú melléklet II. 1.11. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^31]: Az 1. számú melléklet II. 2. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (14) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^32]: Az 1. számú melléklet II. 3. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^33]: Az 1. számú melléklet II. 4. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
+[^40]: Az 1. számú melléklet I. rész 1.2. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^41]: Az 1. számú melléklet I. rész 1.3. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^42]: Az 1. számú melléklet I. rész 2.6. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^43]: Az 1. számú melléklet I. rész 2.7. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^44]: Az 1. számú melléklet II. rész 1.11. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^45]: Az 1. számú melléklet II. rész 2. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^46]: Az 1. számú melléklet II. rész 3. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^47]: Az 1. számú melléklet II. rész 4. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

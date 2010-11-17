@@ -34,7 +34,7 @@
 
 ## Hal
 
-## A fajták estében az MgSzH által szervezett teszten való részvétel szükséges.
+## A fajták estében az MgSzH Központja által szervezett teszten való részvétel szükséges.
 
 ## Öt ikrás anyahal és nyolc tejes, végtermékteszt esetén fajtánként 300 egynyaras ivadék.
 
@@ -42,7 +42,7 @@
 
 ## Méhanyanevelő telepenként 10 méh anya.
 
-9. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez[^68]
+9. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez[^86]
 
 A fajtaelismerés fenntartását szolgáló teljesítményvizsgálatok gyakorisága
 
@@ -60,7 +60,7 @@ Hibridek és legalább három fajtás keresztezések
 
 Reprodukciós teszt: 2000 fialás/év
 
-A fajtaelismerés fenntartásához szükséges vizsgálat, 3 éves ciklus esetén azonosak az elismerésnél előírtakkal annyi eltéréssel, hogy a hibridek és tenyészvonalak végtermékeit a ciklus alatt 2 hízékonysági és vágási teszt eredményei, összesen 128 beszállított egyed vizsgálata alapján kell értékelni, az MgSzH teszt programja szerint.
+A fajtaelismerés fenntartásához szükséges vizsgálat, 3 éves ciklus esetén azonosak az elismerésnél előírtakkal annyi eltéréssel, hogy a hibridek és tenyészvonalak végtermékeit a ciklus alatt 2 hízékonysági és vágási teszt eredményei, összesen 128 beszállított egyed vizsgálata alapján kell értékelni, az MgSzH Központja teszt programja szerint.
 
 Baromfi
 
@@ -68,10 +68,10 @@ A fajtaelismerés fenntartásához szükséges vizsgálat, 3 éves ciklus figyel
 
 Nyúl
 
-A fajtaelismerés fenntartásához szükséges az MgSzH által meghirdetett, teszten való részvétel.
+A fajtaelismerés fenntartásához szükséges az MgSzH Központja által meghirdetett, teszten való részvétel.
 
 Hal, méh
 
-A fajtaelismerés fenntartásához szükséges az MgSzH által meghirdetett, teszten való részvétel.
+A fajtaelismerés fenntartásához szükséges az MgSzH Központja által meghirdetett, teszten való részvétel.
 
-[^68]: A 9. számú melléklet a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
+[^86]: A 9. számú melléklet a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

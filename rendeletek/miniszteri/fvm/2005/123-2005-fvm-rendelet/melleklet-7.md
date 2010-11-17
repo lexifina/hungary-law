@@ -6,9 +6,9 @@
 
 ## 1.1. Egy fajta számára csak egy törzskönyv vezethető.
 
-## 1.2.[^64] A törzskönyv fajtakódját és az ehhez tartozó tenyészetszámokat – az egységesség érdekében – az MgSzH adja ki, és tartja nyilván.
+## 1.2.[^80] A törzskönyv fajtakódját és az ehhez tartozó tenyészetszámokat – az egységesség érdekében – az MgSzH Központja adja ki, és tartja nyilván.
 
-## 1.3.[^65] A törzskönyvet az MgSzH évente hitelesíti.
+## 1.3.[^81] A törzskönyvet az MgSzH Központja évente hitelesíti.
 
 ## 2. A törzskönyv tartalma, szerkezete és vezetése
 
@@ -34,7 +34,7 @@
 
 ## 2.3. A törzskönyv a tenyésztő egyesületnél, illetve szövetségnél vagy annak megbízásából az adatfeldolgozó intézménynél vezethető és nem selejtezhető.
 
-## 2.4.[^66] A törzskönyvi adatokat ellenőrzés, a törzskönyvek évenkénti felülvizsgálata, valamint az adatok központi adatbankba történő befogadása után az MgSzH hitelesíti.
+## 2.4.[^82] A törzskönyvi adatokat ellenőrzés, a törzskönyvek évenkénti felülvizsgálata, valamint az adatok központi adatbankba történő befogadása után az MgSzH Központja hitelesíti.
 
 ## 2.5. A törzskönyvben fel kell tüntetni felelősség viselését a jelölésért, az előírt bejelentésekért, a feljegyzésekért, valamint a regisztrációkért.
 
@@ -66,6 +66,6 @@
 
 7. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^64]: A 6. számú melléklet I. 1.2. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^65]: A 6. számú melléklet I. 1.3. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
-[^66]: A 6. számú melléklet I. 2.4. pontja a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
+[^80]: A 6. számú melléklet I. rész 1.2. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^81]: A 6. számú melléklet I. rész 1.3. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^82]: A 6. számú melléklet I. rész 2.4. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

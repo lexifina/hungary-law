@@ -1,6 +1,6 @@
-## Az egyes fajták elismeréséhez szükséges legkisebb létszámok
+## Az egyes fajok fajtáinak elismeréséhez szükséges legkisebb létszámok[^83]
 
-## 1. Szarvasmarha
+## 1. Szarvasmarhafélék[^84]
 
 ## 1.1. Hazai fajták esetében 1000 A és B törzskönyves tehén
 
@@ -108,6 +108,8 @@
 
 ## 13.1.2. Hibridek: 25 ikrás és 25 tejes törzskönyvi ellenőrzés alatt álló elit szülőpár vonalanként.
 
-8. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez[^67]
+8. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez[^85]
 
-[^67]: A 8. számú melléklet a 93/2008. (VII. 24.) FVM rendelet 9. § (12) bekezdése szerint módosított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2008. szeptember 22-ét követően indult ügyekben kell alkalmazni.
+[^83]: A 7. számú melléklet címe a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^84]: A 7. számú melléklet 1. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^85]: A 8. számú melléklet a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
