@@ -4,7 +4,7 @@
 
 (2) A tenyésztési hatóság az ellenőrzéseket a spermatároló központok ellenőrzési szabályzata (a továbbiakban: Szabályzat) alapján végzi el.
 
-(3) A Szabályzatot a tenyésztési hatóság 2007. december 31-ig készíti el.
+(3)[^18] A Szabályzatot a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központja) 2010. december 31-ig készíti el, hogy az egyúttal megfeleljen a szarvasmarhafajba tartozó háziállatok mélyhűtött spermájának Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról szóló, 1988. június 14-i 88/407/EGK irányelvnek (a továbbiakban: 88/407/EGK irányelv).
 
 (4) Az (1) bekezdés szerinti hatósági ellenőrzés dokumentációs és helyszíni ellenőrzésből állhat, továbbá kiterjedhet a sperma – mintavételt követő – laboratóriumi minőségellenőrzésére is.
 
@@ -25,3 +25,8 @@ b) a felfüggesztési határidő eredménytelen eltelte esetén visszavonja.
 a) nem tesz eleget a 7. § (6) bekezdésében foglalt nyilvántartási kötelezettségének, vagy
 
 b) szándékosan forgalmaz ismert, az adott fajta tenyésztési programjában kizárásként nevesített genetikai rendellenességet hordozó apaállattól származó spermát.
+
+(10)[^19] A spermatároló központokat a területileg illetékes kerületi hivatalnak kockázati tényezők figyelembevételével rendszeresen, legalább évente kétszer ellenőriznie kell, amelynek során állandó jelleggel ellenőrzi az engedélyezés és működtetés állategészségügyi feltételeit. Az ellenőrzés legalább egyike a tenyésztési hatósággal együtt történik. Az ellenőrzés az engedélyesre és üzemeltetőre egyetemlegesen kiterjed.
+
+[^18]: A 10. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (7) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^19]: A 10. § (10) bekezdését a 28/2010. (XI. 9.) VM rendelet 5. § (8) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.

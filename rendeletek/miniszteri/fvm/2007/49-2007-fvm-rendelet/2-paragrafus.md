@@ -2,33 +2,29 @@
 
 2. § (1) A spermatároló központ üzemeltetésének engedélyezésére irányuló kérelmet (a továbbiakban: kérelem) az államilag elismert tenyésztő szervezet (a továbbiakban: kérelmező) nyújtja be. Az engedélyezési eljárás során az üzemeltető és a kérelmező kölcsönösen együttműködnek egymással.
 
-(2) A kérelmet a Mezőgazdasági Szakigazgatási Hivatal Központjához (a továbbiakban: tenyésztési hatóság) kell benyújtani.
+(2)[^4] A kérelmet a spermatároló központ üzemeltetési helye szerinti területileg illetékes Mezőgazdasági Szakigazgatási Hivatal területi szervéhez (a továbbiakban: tenyésztési hatóság) kell benyújtani.
 
-(3) A kérelemnek tartalmaznia kell
+(3)[^5] A kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
 
-a) a kérelmező nevét,
+a) a kérelmező adószámát,
 
-b) a kérelmező címét,
+b) az üzemeltető nevét,
 
-c) a kérelmező adószámát,
+c) a természetes személy üzemeltető lakóhelyének, amennyiben az üzemeltető jogi személy vagy jogi személyiség nélküli jogalany székhelyének címét,
 
-d) az üzemeltető nevét,
+d) a természetes személy üzemeltető adóazonosító jelét, amennyiben az üzemeltető jogi személy vagy jogi személyiség nélküli jogalany adószámát,
 
-e) az üzemeltető lakó-, illetve székhelyének címét,
+e) az üzemeltetésért felelős személy
 
-f) az üzemeltető adószámát, illetve adóazonosító jelét,
+ea) nevét,
 
-g) az üzemeltetésért felelős személy
+eb) címét,
 
-ga) nevét,
+ec) képzettségének megjelölését és a képzettséget igazoló dokumentum hiteles másolatát,
 
-gb) címét,
+f) az üzemeltetni kívánt spermatároló központ címét,
 
-gc) képzettségének megjelölését és a képzettséget igazoló dokumentum hiteles másolatát,
-
-h) az üzemeltetni kívánt spermatároló központ címét,
-
-i) a tárolni, illetve forgalmazni kívánt sperma donor állatfajának és fajtájának megnevezését.
+g) a tárolni vagy forgalmazni kívánt sperma donor állatfajának és fajtájának megnevezését.
 
 (4) A kérelemhez mellékelni kell
 
@@ -36,8 +32,13 @@ a) az üzemeltetés (7) bekezdés szerinti személyi és a melléklet szerinti t
 
 b) az üzemeltető személyes adatainak kezeléséhez történő hozzájárulását tartalmazó nyilatkozatot.
 
-(5) A kérelemhez csatolni kell a külön jogszabály szerint fizetendő igazgatási szolgáltatási díj megfizetését igazoló dokumentumot.
+(5)[^6]
 
-(6) A tenyésztési hatóság az engedély megadása előtt megkeresést intéz a Mezőgazdasági Szakigazgatási Hivatal spermatároló központ székhelye szerint illetékes területi szervéhez (a továbbiakban: állategészségügyi hatóság) annak vizsgálata céljából, hogy a létesítmény eleget tesz-e a vonatkozó állategészségügyi jogszabályoknak. A vizsgálat dokumentációs és helyszíni ellenőrzésből áll.
+(6)[^7] Az engedélyezési eljárásban vizsgálni kell a spermatároló központ kialakításának, felszereltségének és üzemeltetési feltételeinek állategészségügyi jogszabályoknak való megfelelését.
 
 (7) A spermatároló üzemeltetéséért felelős személynek állatorvosi vagy agrármérnöki egyetemi oklevéllel kell rendelkeznie.
+
+[^4]: A 2. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^5]: A 2. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^6]: A 2. § (5) bekezdését a 28/2010. (XI. 9.) VM rendelet 11. § d) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^7]: A 2. § (6) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
