@@ -1,3 +1,3 @@
-## Tájékoztatás és jelentéstétel[^11]
+## Tájékoztatás és jelentéstétel[^21]
 
-[^11]: A 9/B. §-t megelőző alcímet az 5/2009. (I. 27.) FVM rendelet 3. §-a iktatta be.
+[^21]: A 9/B. §-t megelőző alcímet az 5/2009. (I. 27.) FVM rendelet 3. §-a iktatta be.
