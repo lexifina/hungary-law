@@ -2,7 +2,7 @@
 
 Ez a rendelet 1994. július 1. napján lép hatályba, rendelkezéseit az ezt követően megkezdett eljárások esetében kell alkalmazni. A rendelet alkalmazása szempontjából megkezdett eljárásnak minősül a Tv. hatálybalépését követően indított vizsgálat.
 
-Melléklet a 33/1994. (VI. 28.) FM rendelethez[^8]
+Melléklet a 33/1994. (VI. 28.) FM rendelethez[^19]
 
 Az állattenyésztéssel kapcsolatos igazgatási szolgáltatások díjtételei
 
@@ -81,32 +81,6 @@ igazgatási szolgáltatásokért fizetendő díj összege
 | 2.5. Gímszarvas komplett andrológiai vizsgálata helyszíni mintavétellel, friss ondó minőségi és szelektív bakteriológiai vizsgálata | 2 000 Ft/egyed |
 
 | 3. Méhanya nevelő telep üzemeltetésének évi engedélyezés előtti vizsgálata | 45 000 Ft/telep |
-
-| Az R. 3. § (1) bekezdés f) pontja alapján: |
-
-| Engedélyhez kötött tevékenységek felülvizsgálati eljárási díja: |  |
-
-| 1. Mesterséges termékenyítő és embriológiai állomások, halkeltetők éves helyszíni felülvizsgálati eljárási díja | 45 000 Ft/állomás, illetve keltető |
-
-| 2. Baromfikeltető állomás esetenkénti felülvizsgálata (keltető kapacitás tyúktojásban) |  |
-
-| 1000–10 000 | 27 800 Ft/állomás |
-
-| 10 000–20 000 | 30 500 Ft/állomás |
-
-| 20 001–50 000 | 38 900 Ft/állomás |
-
-| 50 001–100 000 | 48 600 Ft/állomás |
-
-| 100 001–500 000 | 65 600 Ft/állomás |
-
-| 500 001–1 000 000 | 84 000 Ft/állomás |
-
-| 1 000 001–3 000 000 | 99 300 Ft/állomás |
-
-| 3 000 001 fölött | 115 000 Ft/állomás |
-
-| 3. Mesterséges termékenyítési engedély megújításához, az éves felülvizsgálati eljárás alkalmával lefolytatott vizsgálatok. Friss és mélyhűtött sperma vizsgálatok fajtól függetlenül | 2 000 Ft/minta |
 
 | Az R. 3. § (1) bekezdésének g) pontja alapján: |
 
@@ -192,4 +166,4 @@ igazgatási szolgáltatásokért fizetendő díj összege
 
 | A hatósági származás-ellenőrzés DNS módszerrel történő végzése | 10 000 Ft/egyed |
 
-[^8]: A melléklet a 79/2005. (IX. 13.) FVM rendelet 1. §-ával megállapított szöveg.
+[^19]: A melléklet a 79/2005. (IX. 13.) FVM rendelet 1. §-ával megállapított, a 28/2010. (XI. 9.) VM rendelet 11. § a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az ez utóbbi módosító rendeletben foglaltak szerint kell lefolytatni.
