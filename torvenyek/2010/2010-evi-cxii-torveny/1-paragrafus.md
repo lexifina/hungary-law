@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Közösségek és tagállamaik, valamint Szerbia közötti Stabilizációs és Társulási Megállapodás (a továbbiakban: a Megállapodás) kötelező hatályának elismerésére.
