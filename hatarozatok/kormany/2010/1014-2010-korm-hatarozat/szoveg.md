@@ -20,11 +20,11 @@
 
 Melléklet az 1014/2010. (I. 28.) Korm. határozathoz[^1]
 
-A 2009. évi előirányzat-maradvány átcsoportosítása
+A 2009. ÉVI ELŐIRÁNYZAT-MARADVÁNY ÁTCSOPORTOSÍTÁSA
 
-| Ezer forintban |
+|  |  |  |  |  |  |  |  |  |  |  |  |  | Ezer forintban |
 
-| Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | Kiemelt előirányzat neve | Átcsopor- tosítás (+/–) |
+| Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | Kiemelt előirányzat neve | Átcsoporto- sítás (+/–) |
 
 | XIII. |  |  |  |  |  |  | Honvédelmi Minisztérium |  |
 
@@ -34,37 +34,43 @@ A 2009. évi előirányzat-maradvány átcsoportosítása
 
 |  |  |  |  |  | 3 |  |  |  |  |  |  | Működési költségvetés |  |
 
-|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 263 000 |
+|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 55 000 |
 
 |  |  |  |  |  | 3 |  |  |  |  |  |  | Felhalmozási költségvetés |  |
 
-|  |  |  |  |  |  | 7 |  |  |  |  |  |  | Előző évi felhalmozási célú előirányzat-maradvány átvétel | 382 000 |
+|  |  |  |  |  |  | 7 |  |  |  |  |  |  | Előző évi felhalmozási célú előirányzat-maradvány átvétel | 510 000 |
 
 |  |  | 4 |  |  |  |  |  |  | HM Fejlesztési és Logisztikai Ügynökség, csapatok központi logisztikai ellátás kiadásai |  |
 
 |  |  |  |  |  | 3 |  |  |  |  |  |  | Működési költségvetés |  |
 
-|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 759 000 |
+|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 518 149 |
 
 |  |  |  |  |  | 3 |  |  |  |  |  |  | Felhalmozási költségvetés |  |
 
-|  |  |  |  |  |  | 7 |  |  |  |  |  |  | Előző évi felhalmozási célú előirányzat-maradvány átvétel | 1 242 000 |
+|  |  |  |  |  |  | 7 |  |  |  |  |  |  | Előző évi felhalmozási célú előirányzat-maradvány átvétel | 1 105 799 |
 
 |  | 2 |  |  |  |  |  |  | Magyar Honvédség |  |
 
+|  |  | 2 |  |  |  |  |  |  | Honvéd Vezérkar közvetlen szervezetei |  |
+
+|  |  |  |  |  | 3 |  |  |  |  |  |  | Működési költségvetés |  |
+
+|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 26 981 |
+
 |  |  | 2 |  |  |  |  |  |  | MH ÖHP és alárendelt szervezetei |  |
 
-|  |  |  |  |  | 3 |  |  |  |  |  |  | Működési Költségvetés |  |
+|  |  |  |  |  | 3 |  |  |  |  |  |  | Működési költségvetés |  |
 
-|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 2 524 000 |
+|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 2 577 019 |
 
 |  | 3 |  |  |  |  |  |  | Katonai Nemzetbiztonsági Szolgálatok |  |
 
 |  |  | 1 |  |  |  |  |  |  | Katonai Felderítő Hivatal |  |
 
-|  |  |  |  |  | 3 |  |  |  |  |  |  | Működési Költségvetés |  |
+|  |  |  |  |  | 3 |  |  |  |  |  |  | Működési költségvetés |  |
 
-|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 30 000 |
+|  |  |  |  |  |  | 4 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átvétele | 407 052 |
 
 | XXVI. |  |  |  |  |  |  | Szociális és Munkaügyi Minisztérium |  |
 
@@ -76,4 +82,4 @@ A 2009. évi előirányzat-maradvány átcsoportosítása
 
 |  |  |  |  |  |  | 0 |  |  |  |  |  |  | Előző évi működési célú előirányzat-maradvány átadás | –5 200 000 |
 
-[^1]: A melléklet az 1059/2010. (III. 5.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: A melléklet az 1242/2010. (XI. 17.) Korm. határozat 1. pontjával megállapított szöveg.
