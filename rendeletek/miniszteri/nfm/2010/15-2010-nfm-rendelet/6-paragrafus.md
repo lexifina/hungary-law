@@ -1,0 +1,3 @@
+## 5. § Az R. 10. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) Amennyiben a beruházást, illetve fejlesztést osztatlan közös tulajdonban álló ingatlanon kívánják megvalósítani, a pályázat befogadásának feltétele a tulajdonostársak között közokiratba vagy teljes bizonyító erejű magánokiratba foglalt használati megállapodás és az ahhoz tartozó használati megosztásra vonatkozó vázrajz benyújtása. A 14. § (1) bekezdés i) pontja szerinti per-, teher- és igénymentesség követelményének az osztatlan közös tulajdon azon tulajdoni hányada vonatkozásában kell teljesülnie, amely a beruházás (fejlesztés) helyszíne.”

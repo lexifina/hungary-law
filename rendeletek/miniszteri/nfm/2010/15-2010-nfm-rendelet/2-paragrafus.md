@@ -1,0 +1,3 @@
+## 1. § A Közlekedés Operatív Program 4. prioritásának első konstrukciójára vonatkozó részletes szabályokról szóló 10/2008. (VIII. 1.) NFGM rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az e rendeletben szabályozott célelőirányzat felhasználására, kezelésére, működtetésére és ellenőrzésére az e rendeletben nem szabályozott kérdésekben az államháztartásról szóló 1992. évi XXXVIII. törvényben (a továbbiakban: Áht.) és az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletben (a továbbiakban: Ámr.) foglaltak megfelelően alkalmazandók.”
