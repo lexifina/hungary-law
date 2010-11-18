@@ -1,0 +1,1 @@
+## 2. § A választási bizottság tagjai 2011. január 10-én mentesülnek a jogszabályban előírt munkavégzési kötelezettség alól, és erre az időre átlagbér illeti meg őket, amelyet a munkáltató fizet. A munkáltató a választási szerv tagját megillető bér megtérítését 2011. január 14-ig igényelheti a választási bizottság mellett működő választási irodától [Ve. 21. § (4) bekezdés].
