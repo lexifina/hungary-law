@@ -1,3 +1,0 @@
-## „(3) E rendelet a juh- és kecskefélék azonosítási és nyilvántartási rendszerének létrehozásáról, valamint az 1782/2003/EK rendelet, továbbá a 92/102/EGK és a 64/432/EGK irányelv módosításáról szóló, 2003. december 17-i 21/2004/EK tanácsi rendelet, a Bizottság 933/2008/EK rendelete, a Bizottság 968/2006/EK rendelete, a Bizottság 759/2009/EK rendelete és a Bizottság 506/2010/EU rendelete végrehajtásához szükséges rendelkezéseket állapítja meg.”
-
-## 8. A méhanyanevelő telep üzemeltetéséről, valamint a méhanya és szaporítóanyag előállításáról, felhasználásáról szóló 67/2010. (V. 12.) FVM rendelet módosítása
