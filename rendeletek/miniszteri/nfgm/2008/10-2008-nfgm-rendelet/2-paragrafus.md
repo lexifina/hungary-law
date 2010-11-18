@@ -22,11 +22,13 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 
 8. ipari park: az „Ipari Park” címről és az ipari parkok fejlesztését szolgáló rendszer működéséről szóló 186/2005. (IX. 13.) Korm. rendelet szerint „Ipari Park” címet elnyert szervezet;
 
+8a.[^3] jövedelemtermelő projekt: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló, 2006. július 11-i 1083/2006/EK tanácsi rendelet 55. cikk (1) bekezdése szerinti projekt;
+
 9. kapcsolódó vállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (3)–(6) bekezdése szerinti vállalkozások;
 
 10. kereskedelmi repülőtér: rendszeres utas-, poggyász-, áru- és postatovábbítást végző légi forgalom céljaira létesített nyilvános repülőtér;
 
-11. közlekedési infrastruktúra elemek: útcsatlakozások, vasúti összekötések és csatlakozások, iparvágányok, valamint a vízi áruszállítás kikötői infrastruktúrájának a 4. § c) pontjában meghatározott elemei;
+11.[^4] közlekedési infrastruktúra elemek: közúti kapcsolatok, vasúti összekötések és csatlakozások, iparvágányok, valamint a vízi áruszállítás kikötői infrastruktúrájának a 4. § c) pontjában meghatározott elemei;
 
 12. nehéz helyzetben lévő vállalkozás: a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) szerinti nehéz helyzetben lévő vállalkozás;
 
@@ -43,3 +45,6 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 18. támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 2. számú mellékletében foglalt módszer alapján kiszámolt értéke;
 
 19. TEU (twenty-foot equivalent unit): a nemzetközi szabványügyi szervezet ISO IC(C) típusú konténeregysége.
+
+[^3]: Az 1. § 8a. pontját a 15/2010. (XI. 15.) NFM rendelet 2. §-a iktatta be.
+[^4]: A 2. § 11. pontja a 15/2010. (XI. 15.) NFM rendelet 10. §-a szerint módosított szöveg.
