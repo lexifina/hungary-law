@@ -1,0 +1,131 @@
+A Kormány
+
+1. az Európa 2020 Stratégia kiemelt céljainak eléréséhez nemzeti vállalásként a következő számszerű célkitűzések teljesítését vállalja 2020-ig:
+
+– a 20–64 éves népesség foglalkoztatási rátája 75 százalékra nő;
+
+– a kutatás-fejlesztési ráfordítások szintje a bruttó hazai termék 1,8 százalékára nő;
+
+– a megújuló energiaforrások részaránya az energiafelhasználáson belül 14,6 százalékra nő, a teljes energiamegtakarítás-vállalás 10 százalék, az üvegházhatású gázok kibocsátása az Európai Unió emisszió-kereskedelmi rendszerén kívül a 2005. évi szinthez képest legfeljebb 10 százalékkal nő;
+
+– a felsőfokú vagy annak megfelelő végzettséggel rendelkezők aránya a 30–34 éves népességen belül 30,3 százalékra nő, az oktatásban, képzésben nem részesülő, legfeljebb alsó középfokú végzettséggel rendelkezők aránya a 18–24 éves népességen belül 10 százalékra csökken;
+
+– a szegénységben vagy társadalmi kirekesztettségben élő népesség aránya 5 százalékponttal csökken;
+
+2. jóváhagyja a számára bemutatott előzetes Nemzeti Intézkedési Tervet, és felhívja a nemzetgazdasági minisztert, hogy az előzetes Nemzeti Intézkedési Tervet az Európai Bizottság számára küldje meg;
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: azonnal
+
+3. felhívja a nemzetgazdasági minisztert, hogy a 4–14. pontokban részletezett módon az érintett minisztériumok bevonásával készítse el a végleges Nemzeti Intézkedési Terv tervezetét, és azt – az Európai Bizottság felé történő benyújtás határidejét figyelembe véve – terjessze a Kormány elé;
+
+Felelős: nemzetgazdasági miniszter az érintett miniszterek bevonásával
+
+Határidő: 2011. március 30.
+
+4. felhívja a nemzetgazdasági minisztert, hogy készítse el és terjessze a Kormány elé a végleges Nemzeti Intézkedési Terv kereteit megalapozó horizontális elveket, és ezzel összhangban a végleges Nemzeti Intézkedési Tervben megjeleníteni kívánt intézkedések listáját, figyelemmel a Kormány részére bemutatott javaslatokra;
+
+Felelős: nemzetgazdasági miniszter az érintett miniszterek bevonásával
+
+Határidő: 2011. január 30.
+
+5. felhívja a nemzetgazdasági minisztert, hogy a foglalkoztatáspolitika, a szakképzés és felnőttképzés, a stratégiailag kiemelt gazdasági ágazati politikák, valamint az adórendszer foglalkoztatáshoz kapcsolódó elemei tekintetében véglegesítse és dolgozza ki részletesen a foglalkoztatási ráta növelésére irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzetgazdasági miniszter
+
+vidékfejlesztési miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+6. felhívja a nemzeti erőforrás minisztert, hogy az oktatás, a nyugdíjrendszer, a rokkantsági és szociális ellátások, az egészségügyi ellátórendszer, valamint a gyermekneveléshez kapcsolódó pénzbeli ellátások és a gyermekellátó intézményrendszer tekintetében – a nemzetgazdasági miniszter bevonásával – véglegesítse és dolgozza ki részletesen a foglalkoztatási ráta növeléséhez hozzájáruló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzeti erőforrás miniszter
+
+nemzetgazdasági miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+7. felhívja a nemzeti erőforrás minisztert, hogy – a nemzetgazdasági miniszter és a nemzeti fejlesztési miniszter bevonásával – véglegesítse és részletesen dolgozza ki a képzettségi szint javítására irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzeti erőforrás miniszter
+
+nemzetgazdasági miniszter
+
+nemzeti fejlesztési miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+8. felhívja a nemzetgazdasági minisztert, hogy véglegesítse és dolgozza ki részletesen a vállalkozások üzleti környezetének javítására irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzetgazdasági miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+9. felhívja a nemzetgazdasági minisztert és a nemzeti erőforrás minisztert, hogy véglegesítsék és dolgozzák ki részletesen a munkaerőpiac igényeihez jobban illeszkedő képzési struktúrára irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzetgazdasági miniszter
+
+nemzeti erőforrás miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+10. felhívja a nemzetgazdasági minisztert, hogy véglegesítse és dolgozza ki részletesen a kutatás-fejlesztési ráfordítások növelésére irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzetgazdasági miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+11. felhívja a nemzeti fejlesztési minisztert, hogy a vidékfejlesztési miniszter bevonásával véglegesítse és dolgozza ki részletesen a megújuló energiaforrások arányának növelésére, az energiahatékonyság javítására, illetve az Európai Unió emisszió-kereskedelmi rendszere alá nem tartozó üvegházhatású gázok kibocsátásának korlátozására irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzeti fejlesztési miniszter
+
+vidékfejlesztési miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+12. felhívja a nemzeti erőforrás minisztert, a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert és a vidékfejlesztési minisztert, hogy a közigazgatási és igazságügyi miniszter koordinálása mellett véglegesítsék és dolgozzák ki részletesen a szegénység visszaszorításához hozzájáruló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: közigazgatási és igazságügyi miniszter
+
+nemzeti erőforrás miniszter
+
+nemzetgazdasági miniszter
+
+nemzeti fejlesztési miniszter
+
+vidékfejlesztési miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+13. felhívja a nemzetgazdasági minisztert, hogy véglegesítse és dolgozza ki részletesen az államháztartás hiányának és az államadósság szintjének csökkentésére irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzetgazdasági miniszter a további érintett miniszterek bevonásával
+
+Határidő: 2011. február 28.
+
+14. felhívja a nemzetgazdasági minisztert, hogy véglegesítse és dolgozza ki részletesen a devizahitelek magas arányából származó kockázatok csökkentésére irányuló, a végleges Nemzeti Intézkedési Tervben szerepeltetni javasolt intézkedéseket;
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: 2011. február 28.
+
+15. felhívja a nemzetgazdasági minisztert, hogy a Kormány részére bemutatott társadalmi egyeztetési terv alapján, az érintett miniszterek bevonásával folytassa le a végleges Nemzeti Intézkedési Terv társadalmi egyeztetését, továbbá végezze el a jogszabály által előírt és egyéb szükséges hatásvizsgálatokat;
+
+Felelős: nemzetgazdasági miniszter az érintett miniszterek bevonásával
+
+Határidő: 2011. március 30.
+
+16. felhívja a nemzetgazdasági minisztert, hogy a végleges Nemzeti Intézkedési Terv kialakításába vonja be az Országgyűlés hatáskörrel rendelkező szakbizottságait;
+
+Felelős: nemzetgazdasági miniszter az érintett miniszterek bevonásával
+
+Határidő: 2011. március 30.
+
+17. felhívja a nemzetgazdasági minisztert és a vidékfejlesztési minisztert, hogy készítsen szektorális kimutatást az egyes iparágakban szükségessé váló intézkedésekről, valamint ehhez kapcsolódóan folytasson konzultációt az egyes szektorok képviselőivel.
+
+Felelős: nemzetgazdasági miniszter
+
+vidékfejlesztési miniszter
+
+Határidő: 2011. március 30.
