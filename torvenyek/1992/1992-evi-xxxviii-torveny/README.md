@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-38-00-00
 | 2010-08-15 | 2010. évi XC. törvény | 1992-38-00-00.105 |
 | 2010-09-01 | 2010. évi LXXXVII. törvény | 1992-38-00-00.106 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 1992-38-00-00.107 |
+| 2010-11-19 | 2010. évi CXIV. törvény | 1992-38-00-00.108 |
