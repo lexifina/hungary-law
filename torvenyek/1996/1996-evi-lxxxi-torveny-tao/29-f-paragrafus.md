@@ -8,4 +8,4 @@
 
 (5) Az adózó a 2003-ban és az azt megelőzően kezdődő adóévekben hatályos 7. § (1) bekezdés zs) pontja alapján igénybe vett kedvezményre a 8. § (1) bekezdés u) pontjának 2003-ban hatályos előírásait alkalmazza.
 
-(6)
+(6) Az a közhasznú társaság, amelynek kényszer-végelszámolását a cégbíróság 2009. június 30-át követően indult törvényességi felügyeleti eljárás keretében rendelte el, nem alkalmazza a 16. § (1) bekezdés c) pontjának rendelkezéseit, valamint adózás előtti eredményét csökkenti a kényszer-végelszámolásra tekintettel elszámolt bevétel összegével.

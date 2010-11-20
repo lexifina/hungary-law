@@ -78,9 +78,9 @@ x)
 
 y) az adóév első napján mikrovállalkozásnak minősülő adózónál – döntése szerint – a (19)–(20) bekezdésben foglaltakat is figyelembe véve a foglalkoztatottak átlagos állományi létszáma előző adóévhez, az adózó átalakulása esetén a jogelőd utolsó adóévéhez, előző adóév hiányában nullához viszonyított növekményének és az adóév első napján érvényes havi minimálbér adóévre számított összegének szorzata, feltéve, hogy az adózó foglalkoztatottainak átlagos állományi létszáma a megelőző adóévben legfeljebb 5 fő és az adózónak az adóév utolsó napján nincs az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása,
 
-z) a kiemelkedően közhasznú besorolással rendelkező szervezetnek vagy közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú szervezettel kötött tartós adományozási szerződés keretében, a közhasznú szervezetekről szóló törvényben nevesített közhasznú tevékenység, a kiemelkedően közhasznú besorolást megalapozó közfeladat támogatására az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének
+z) a kiemelkedően közhasznú besorolással rendelkező szervezetnek vagy közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú szervezettel kötött tartós adományozási szerződés keretében, a közhasznú szervezetekről szóló törvényben nevesített közhasznú tevékenység, a kiemelkedően közhasznú besorolást megalapozó közfeladat támogatására, vagy a Magyar Kármentő Alapnak az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének
 
-1. 50 százaléka kiemelkedően közhasznú szervezet támogatása esetén,
+1. 50 százaléka kiemelkedően közhasznú szervezet és a Magyar Kármentő Alap támogatása esetén,
 
 2. 20 százaléka tartós adományozási szerződés esetén,
 
@@ -106,7 +106,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 (6)
 
-(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a kiemelkedően közhasznú szervezet által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot.
+(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a kiemelten közhasznú szervezet vagy a Magyar Kármentő Alap által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot.
 
 (8)
 
