@@ -102,7 +102,7 @@ b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből 
 
 4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
 
-4.16. az „Útravaló” Ösztöndíjprogram keretében a kormány rendeletében meghatározott feltételekkel és módon adományozott tanulói és mentori ösztöndíj;
+4.16. az „Útravaló” Ösztöndíjprogram keretében a kormány rendeletében meghatározott feltételekkel és módon adományozott tanulói és mentori ösztöndíj, valamint a kisebbségpolitikáért felelős miniszter rendeletével alapított – anyanyelvű és kétnyelvű kisebbségi program szerint működő középfokú iskolák tanulói részére adományozható – ösztöndíj;
 
 4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, a Deák Ferenc Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
 

@@ -10,15 +10,11 @@ d) 7. § (1) bekezdés dz) pontjában az „adóévi árfolyamnyeresége, felté
 
 e) 7. §-ának (7) bekezdésében a „ha rendelkezik a közhasznú szervezet, a kiemelkedően közhasznú szervezet által” szövegrész helyébe a „ha rendelkezik a közhasznú szervezet, a kiemelten közhasznú szervezet vagy a Magyar Kármentő Alap által” szöveg;
 
-f) 7. § (12) bekezdés a „19. § (1) bekezdése szerinti” szövegrész helyébe a „19. § szerinti” szöveg;
-
-g) 7. § (17) bekezdésében a „19. § (1) bekezdése szerinti” szövegrész helyébe a „19. § szerinti” szöveg;
-
-h) 7. § (20) bekezdésében a „19. § (1) bekezdése szerinti” szövegrész helyébe a „19. § szerinti” szöveg;
+f)–h)
 
 i) 8. § (1) bekezdés ud) alpontjában a „természetbeni juttatásként” szövegrész helyébe a „juttatásként” szöveg;
 
-j) 15/A. § (6) bekezdésében a „19. § (1) bekezdése szerinti” szövegrész helyébe a „19. § szerinti” szöveg;
+j)
 
 k) 26. §-ának (10) bekezdésében a „az 50 millió” szövegrész helyébe a „a 100 millió” szöveg;
 

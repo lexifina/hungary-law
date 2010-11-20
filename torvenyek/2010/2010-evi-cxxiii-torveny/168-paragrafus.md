@@ -14,6 +14,6 @@ f) 34. § (1) és (5) bekezdésében a „33,5 százalék” szövegrészek hely
 
 g) 47. § (3) bekezdésében a „levont járulékok” szövegrész helyébe a „tárgyévre, illetve a tárgyévtől eltérő időre levont járulékok” szöveg,
 
-h) 58. § (1) bekezdés c) pontjában a „teljesítésének módját” szövegrész helyébe a „teljesítésének módját, valamint az 56/A. § (5) bekezdésében meghatározott bevallás és adatszolgáltatás adattartalmával és a járulékbefizetéssel összefüggő részletes szabályokat,” szöveg
+h)
 
 lép.

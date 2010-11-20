@@ -6,7 +6,7 @@
 
 3. 3/A. §-a;
 
-4. 7. § (1) bekezdés s) alpontjában a „69. § (10) bekezdésének rendelkezéseiben meghatározott” szövegrész, z) alpontja;
+4. 7. § (1) bekezdés s) alpontjában a „69. § (10) bekezdésének rendelkezéseiben meghatározott” szövegrész;
 
 5. 13. § (1) bekezdés k) pontja;
 
@@ -22,7 +22,7 @@
 
 11. 28. § (1) bekezdés a) pontja és (9) bekezdése;
 
-12. 29. § (1) bekezdésében az „Az adóterhet nem viselő járandóságot a kifizetése (juttatása) időpontja szerint kell adóalapként figyelembe venni.” szövegrész, (2) bekezdésének b) pontja, (3) bekezdésében a „– kivéve, ha az adóterhet nem viselő járandóság –” szövegrész;
+12. 29. § (1) bekezdésében az „Az adóterhet nem viselő járandóságot a kifizetése (juttatása) időpontja szerint kell adóalapként figyelembe venni.” szövegrész, (2) bekezdése;
 
 13. 30. §-a és az azt megelőző alcím;
 
@@ -78,4 +78,8 @@
 
 39. 82. § (3) bekezdése;
 
-40. 1. számú melléklete 2. pontjának 2.4. alpontja.
+40. 1. számú melléklete 2. pontjának 2.4. alpontja, 7. pontjának 7.2. alpontjában a „borravaló” szövegrész;
+
+41. 3. számú melléklete I. Jellemzően előforduló költségek fejezete 3. pontjának b) alpontja;
+
+42. 11. számú melléklete I. Jellemzően előforduló költségek fejezete 3. pontjának b) alpontja.

@@ -13,11 +13,3 @@
 (6) E törvény 103. §–108. §-a a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, és 13. cikkének való megfelelést szolgálja.
 
 (7) E törvény 236. §-a a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról szóló 2010/66/EU tanácsi irányelvnek való megfelelést szolgálja.”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
