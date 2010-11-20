@@ -22,7 +22,7 @@ g) monitoring adat-nyilvántartási rendszer [az a)–g) pontok a továbbiakban 
 
 a) a vámhatóság által kezelt vámadatbázisból,
 
-b) a külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
+b) a nemzeti külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
 
 c) a szőlőültetvény-kataszterből,
 
