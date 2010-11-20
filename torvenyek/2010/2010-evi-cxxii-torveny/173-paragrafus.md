@@ -1,0 +1,1 @@
+173. § Hatályát veszti az Európai Unióról szóló szerződés K.3 cikke alapján létrehozott, az informatika vámügyi alkalmazásáról szóló, Brüsszelben, 1995. július 26-án kelt Egyezmény és annak szerves részét képező Jegyzőkönyvek, valamint az Egyezmény ideiglenes alkalmazásáról szóló 1995. július 26-án aláírt Megállapodás kihirdetéséről szóló 2005. évi XCIX. törvény.

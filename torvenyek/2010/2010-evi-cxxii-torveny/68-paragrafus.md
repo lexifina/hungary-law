@@ -1,0 +1,1 @@
+68. § Amennyiben törvény előírja vagy megengedi a NAV és más szervek közötti adatszolgáltatást, illetve adatátadást – ha a technikai feltételek mindkét szervnél adottak –, az adatszolgáltatás, adatátadás, adatátvétel elektronikus úton is teljesíthető.

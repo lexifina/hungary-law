@@ -1,0 +1,1 @@
+79. § A NAV vámszerve az elektronikus úton kapcsolatot tartó ügyfél azonosítása érdekében nyilvántartja az elektronikus úton kapcsolatot tartó természetes személy (felhasználó) természetes személyazonosító adatait, lakcímét, elektronikus levélcímét, adóazonosító jelét, állampolgárságát.

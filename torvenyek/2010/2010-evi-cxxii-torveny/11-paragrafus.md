@@ -1,0 +1,1 @@
+11. § A 10. § (2)–(7) bekezdésétől eltérően a pénzügyőrök tekintetében a kijelölt miniszter vagy az elnök hatáskörébe utalt kiemelt munkáltatói jogköröket a 7. számú melléklet tartalmazza. Az elnök hatáskörébe tartozó kiemelt munkáltatói jogkörök az elnök által kijelölt vezetőre írásban átruházhatók. Az átruházott kiemelt munkáltatói jogkör nem ruházható tovább.

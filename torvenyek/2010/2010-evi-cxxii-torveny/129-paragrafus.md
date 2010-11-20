@@ -1,0 +1,3 @@
+## „(1) Az adó-, jövedelem- és illetőségigazolást (a továbbiakban: adóhatósági igazolás) az adóhatóság hatáskörében eljárva a nyilvántartásában szereplő adatok alapján, a kiállítás napján fennálló állapotnak megfelelő, az adózó által kért és a jogszabályban előírt adattartalommal állítja ki, feltéve, hogy az adózó az adóhatósági igazolás kiadásának szükségességét valószínűsíti. Az adóhatósági igazolás hatósági bizonyítványnak minősül. Az adózó együttes adóigazolás kiállítását kérheti. Az együttes adóigazolás tartalmazza az adózó állami adó- és vámhatóságnál nyilvántartott adó- és vámtartozását, illetve azok hiányát.”
+
+129. § Az Art. 88. § (5)–(7) bekezdései helyébe a következő rendelkezések lépnek:

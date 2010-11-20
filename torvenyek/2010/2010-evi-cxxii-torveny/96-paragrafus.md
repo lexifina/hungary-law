@@ -1,0 +1,1 @@
+96. § Az Adó- és Pénzügyi Ellenőrzési Hivatalnál, illetve a Vám- és Pénzügyőrségnél 2010. december 31-én folyamatban lévő hatósági ügyeket 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal hatáskörrel és illetékességgel rendelkező szerve (kirendeltsége) folytatja le.

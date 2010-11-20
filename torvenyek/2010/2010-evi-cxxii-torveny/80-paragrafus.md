@@ -1,0 +1,1 @@
+80. § Az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az információtechnológia vámcélokra történő használatáról szóló Egyezménnyel összefüggésben az EU váminformációs rendszerének adataihoz való közvetlen hozzáférésre a NAV jogosult.

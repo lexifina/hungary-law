@@ -1,0 +1,1 @@
+17. § A NAV hivatásos állományú tagjaira a Hszt. 90. § (1) és (2) bekezdései, 99. § (1) és (2) bekezdése, 100. §-a, 100/A. §-a, 100/B. §-a, 101. §-a, 103. § (1)–(3) bekezdései, 116/A. §-a, 118. § (3) bekezdése, 245/H. §-a, és a 2., 6., 6/A., 6/B. számú mellékletei nem alkalmazhatóak.

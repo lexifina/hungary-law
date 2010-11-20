@@ -1,0 +1,3 @@
+## „(8) A kapcsolattartó közigazgatási szerv az Európai Közösség tagállamai illetékes hatóságának megkeresésére – az e törvényben meghatározott szabályoknak megfelelően – kézbesíti az adózónak a tagállami adóhatóságok által az (1) bekezdésben meghatározottakkal kapcsolatban kibocsátott határozatot, illetve egyéb okiratot. A kézbesítés iránti megkeresésben fel kell tüntetni a határozat vagy egyéb okirat tárgyát, az adózó nevét, címét, valamint minden egyéb, a címzett azonosításához szükséges információt. A kapcsolattartó közigazgatási szerv haladéktalanul értesíti a megkereső hatóságot az általa tett intézkedésről, különösen a kézbesítés időpontjáról.”
+
+124. § Az Art. 71. § (6) bekezdése helyébe a következő rendelkezés lép:

@@ -1,0 +1,1 @@
+9. § A NAV alsó fokú vámszerve kirendeltségének operatív vezetését a 8. § (5) bekezdés szerint kinevezett igazgatóhelyettes, illetve főosztályvezetői besorolású kirendeltségvezető látja el, aki a kirendeltséghez telepített hatáskör gyakorlója.
