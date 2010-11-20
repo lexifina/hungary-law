@@ -1,0 +1,3 @@
+189. § Az Szt. 47. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A bekerülési (beszerzési) értéket csökkenti a próbaüzemeltetés során előállított, raktárra vett, értékesített termék, teljesített szolgáltatás előállítási költsége, ennek hiányában az állománybavételkori piaci értéke, illetve a még várhatóan felmerülő költségekkel csökkentett eladási ára, várható eladási ára, legfeljebb a próbaüzemeltetés – bekerülési (beszerzési) értékként figyelembe vett – költségéig, valamint a bekerülési (beszerzési) értékben elszámolt kamat összegét csökkenti a beruházásra adott előleg után, annak elszámolásáig, a beruházásra elkülönített pénzeszköz után, annak felhasználásáig kapott kamat összege.”

@@ -1,0 +1,41 @@
+144. § A Kjtv. 7. §-ának 14. pontja helyébe a következő rendelkezés lép:
+
+„14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
+
+a) a bankközi hitelből eredő, belföldön székhellyel rendelkező adóssal szemben, vagy belföldön fiókteleppel rendelkező adóssal szemben e fióktelep útján fennálló követeléssel,
+
+b) a belföldön székhellyel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott, valamint a belföldön fiókteleppel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által e fióktelep útján kibocsátott, hitelviszonyt megtestesítő értékpapírral,
+
+c) a belföldön székhellyel rendelkező más hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott részvénnyel,
+
+d) a nyújtott hitelből, alárendelt kölcsöntőkéből és kiegészítő alárendelt kölcsöntőkéből eredő, belföldön székhellyel rendelkező pénzügyi vállalkozással, befektetési vállalkozással szemben, vagy belföldön fiókteleppel rendelkező pénzügyi vállalkozással, befektetési vállalkozással szemben e fióktelep útján fennálló követeléssel (ideértve a velük kötött valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből eredő követelést is),
+
+e) a bankközi hitelből eredő, az Európai Unió más tagállamában székhellyel rendelkező adóssal szemben, vagy az Európai Unió más tagállamában fiókteleppel rendelkező adóssal szemben e fióktelep útján fennálló követeléssel,
+
+f) az Európai Unió más tagállamában székhellyel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott, valamint az Európai Unió más tagállamában fiókteleppel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által e fióktelep útján kibocsátott, hitelviszonyt megtestesítő értékpapírral,
+
+g) az Európai Unió más tagállamában székhellyel rendelkező más hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott részvénnyel,
+
+h) a nyújtott hitelből, alárendelt kölcsöntőkéből és kiegészítő alárendelt kölcsöntőkéből eredő, az Európai Unió más tagállamában székhellyel rendelkező pénzügyi vállalkozással, befektetési vállalkozással szemben, vagy az Európai Unió más tagállamában fiókteleppel rendelkező pénzügyi vállalkozással, befektetési vállalkozással szemben e fióktelep útján fennálló követeléssel (bármely esetben ideértve a velük kötött valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből eredő követelést is),
+
+figyelembe véve, hogy
+
+i) az e)–h) pontok alapján az adóalany a mérlegfőösszeget csak akkor csökkentheti, ha rendelkezik az e)–h) pontban említett adós, illetőleg hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által az adóbevallás benyújtására előírt határidő letelte előtt írásban megtett, a j)–k) pont szerint meghatározott nyilatkozattal,
+
+j) az i) pont szerinti nyilatkozat tartalmazza a nyilatkozattevő megnevezését, székelyét (ideértve a nyilatkozattévő fióktelepet is), cégjegyzékszámát (nyilvántartási számát) és a cégjegyzékét (nyilvántartását) vezető bíróság, hatóság megnevezését, valamint a nyilatkozattevő k) pontban meghatározott eszközeinek az adóalany beszámolója mérlegfordulónapján fennálló együttes értékét (akkor is, ha az nulla),
+
+k) a j) pont szerinti eszközök a következők:
+
+ka) a bankközi hitelből eredő, az Európai Unió tagállamának nem minősülő államban (a továbbiakban: harmadik államban) székhellyel rendelkező adóssal szemben fennálló követelések, valamint a bankközi hitelből eredő, harmadik államban fiókteleppel rendelkező adóssal szemben e fióktelep útján fennálló követelések,
+
+kb) a harmadik államban székhellyel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott, hitelviszonyt megtestesítő értékpapírok, valamint a harmadik államban fiókteleppel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által e fióktelep útján kibocsátott, hitelviszonyt megtestesítő értékpapírok,
+
+kc) a harmadik államban székhellyel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott részvények,
+
+kd) a nyújtott hitelből, alárendelt kölcsöntőkéből és kiegészítő alárendelt kölcsöntőkéből eredő, harmadik államban székhellyel rendelkező pénzügyi vállalkozással, befektetési vállalkozással szemben fennálló követelések, valamint a nyújtott hitelből, alárendelt kölcsöntőkéből és kiegészítő alárendelt kölcsöntőkéből eredő, harmadik államban fiókteleppel rendelkező pénzügyi vállalkozással, befektetési vállalkozással szemben e fióktelep útján fennálló követelések (bármely esetben ideértve a velük kötött valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből eredő követelést is),
+
+l) a k) pontban meghatározott eszközöknek a j) pont szerinti nyilatkozatban foglalt értéke – de legfeljebb a nyilatkozattevővel szemben fennálló követelések és a nyilatkozattévő által kibocsátott értékpapírok, részvények alapján az e)–h) pontok szerint a mérlegfőösszeg csökkentéseként elszámolt összeg – a módosított mérlegfőösszeg megállapításakor a mérlegfőösszeget növeli,
+
+m) ha a j) pont szerinti nyilatkozat az eszközök értékét devizában tartalmazza, akkor ennek átszámítása az adóalany által a mérlegfőösszeg meghatározott árfolyamnak megfelelően történik,
+
+n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz kapcsolódó minden jogkövetkezmény az adóalanyt terheli;”

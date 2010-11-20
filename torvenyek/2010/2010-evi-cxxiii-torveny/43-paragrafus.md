@@ -1,0 +1,3 @@
+43. § A Tao tv. a következő 29/O. §-sal egészül ki:
+
+„29/O. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 26. §-a (10) bekezdésének rendelkezéseit a 2010. december 16-át követően teljesítendő adóelőleg kiegészítésre – ideértve az eltérő üzleti évet választó adózó által teljesítendő adóelőleg kiegészítést is – alkalmazni kell.”

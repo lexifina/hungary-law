@@ -1,0 +1,3 @@
+192. § Az Szt. 141. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az átalakulással létrejövő gazdasági társaság végleges vagyonmérlegében kimutatott saját tőke és a vagyonmérleg-tervezetében kimutatott saját tőke különbözetének összegével – a változás tartalmának és előjelének megfelelően – a tőketartalékot, az eredménytartalékot, illetve a lekötött tartalékot kell módosítani a végleges vagyonmérlegben. A tőketartalék módosítása során, ha emiatt a tőketartalék negatívvá válna, a tőketartalék pozitív összegéig a tőketartalékot, azt meghaladóan az eredménytartalékot kell csökkenteni.”
