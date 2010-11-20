@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamaik, másrészről az Albán Köztársaság közötti stabilizációs és társulási megállapodáshoz a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozásának figyelembevételéről szóló Jegyzőkönyvet (a továbbiakban: a Jegyzőkönyv) e törvénnyel kihirdeti.
