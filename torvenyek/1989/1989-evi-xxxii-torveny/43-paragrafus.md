@@ -5,3 +5,5 @@
 (3) Az Alkotmánybíróság elrendeli az alkotmányellenes jogszabály vagy állami irányítás egyéb jogi eszköze alapján jogerős határozattal lezárt büntetőeljárás felülvizsgálatát, ha az elítélt még nem mentesült a hátrányos következmények alól, és az eljárásban alkalmazott rendelkezés semmisségéből a büntetés, illetőleg intézkedés csökkentése vagy mellőzése, illetőleg a felelősség alóli mentesülés vagy annak korlátozása következne.
 
 (4) Az Alkotmánybíróság a 42. § (1) bekezdésében, valamint a 43. § (1)—(2) bekezdésében meghatározott időponttól eltérően is meghatározhatja az alkotmányellenes jogszabály hatályon kívül helyezését vagy a konkrét esetben történő alkalmazhatóságát, ha ezt a jogbiztonság, vagy az eljárást kezdeményező különösen fontos érdeke indokolja.
+
+(5) A (4) bekezdés nem alkalmazható, ha az Alkotmánybíróság a törvényt vagy a törvényi rendelkezést az Alkotmány 32/A. § (3) bekezdése alapján nem semmisítheti meg.
