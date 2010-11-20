@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamai, másrészről az Azerbajdzsán Köztársaság közötti partnerségi és együttműködési megállapodáshoz a Bolgár Köztársaságnak és Romániának az Európai Unióhoz történő csatlakozásának figyelembevételéről szóló jegyzőkönyvet (a továbbiakban: 3. Jegyzőkönyv) e törvénnyel kihirdeti.
