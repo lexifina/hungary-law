@@ -8,4 +8,4 @@
 
 (4)
 
-(5) Az adópolitikáért felelős miniszter elrendeli az illeték megállapításának mellőzését, ha ezt az állampolgárok szélesebb körét érintő rendkívüli esemény, elemi csapás indokolja.
+(5) Az adópolitikáért felelős miniszter rendeletben állapíthatja meg az illeték megállapításának mellőzésére vonatkozó szabályokat, ha ezt az állampolgárok szélesebb körét érintő rendkívüli esemény, elemi csapás indokolja.
