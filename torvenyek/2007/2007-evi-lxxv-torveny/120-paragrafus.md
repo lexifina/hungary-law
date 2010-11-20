@@ -8,4 +8,4 @@
 
 (5) A kamara tisztségviselői nem lehetnek egymásnak közeli hozzátartozói. Az alapszabály az összeférhetetlenség további eseteit is meghatározhatja.
 
-(6) A kamarai tag könyvvizsgáló legfeljebb két alkalommal töltheti be ugyanazt a tisztséget.
+(6)

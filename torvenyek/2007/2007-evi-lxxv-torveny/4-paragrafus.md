@@ -6,7 +6,7 @@
 
 (3) A kamara jogosult arra, hogy a Magyar Köztársaság címerét a kamara épületein, helyiségeiben elhelyezze, valamint hivatalos iratain és bélyegzőin feltüntesse.
 
-(4) A 2006/43/EK irányelv alkalmazásában a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásának engedélyezése, a kamarai tagok és a könyvvizsgáló cégek nyilvántartásba vétele, a minőségbiztosítás, a fegyelmi eljárások, a harmadik országbeli könyvvizsgálók és harmadik országbeli könyvvizsgáló gazdálkodók jegyzékbe vétele, valamint a nemzetközi együttműködés tekintetében a kamara minősül illetékes hatóságnak.
+(4) A 2006/43/EK irányelv alkalmazásában a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásának engedélyezése, a kamarai tagok és a könyvvizsgáló cégek nyilvántartásba vétele, a minőségbiztosítás, a fegyelmi eljárások, a harmadik országbeli könyvvizsgálók és harmadik országbeli könyvvizsgáló gazdálkodók jegyzékbe vétele tekintetében a kamara minősül illetékes hatóságnak.
 
 (5) A kamara
 
@@ -24,9 +24,9 @@ f) szervezi és felügyeli a kamarai tag könyvvizsgálók kötelező szakmai to
 
 g) véleményt nyilvánít a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel kapcsolatos kérdésekben,
 
-h) dönt a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek fegyelmi ügyében,
+h) dönt a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek fegyelmi ügyében.
 
-i) a hatáskörébe tartozó ügyekben együttműködik más államok illetékes hatóságaival.
+i)
 
 (6) A kamara a tagok képviseletében különösen az alábbi feladatokat látja el:
 

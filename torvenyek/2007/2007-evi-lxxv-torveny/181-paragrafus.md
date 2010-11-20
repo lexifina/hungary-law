@@ -1,1 +1,1 @@
-181. § A kamara – feladatkörében eljárva – jogosult az illetékes hatóságot megkeresni, adat-, információkérés, valamint vizsgálat kezdeményezése céljából. A kamara az illetékes hatóság által lefolytatandó vizsgálatban való részvételre képviselőt delegálhat.
+181. § A Könyvvizsgálói Közfelügyeleti Bizottság – feladatkörében eljárva – jogosult az illetékes hatóságot megkeresni, adat-, információkérés, valamint vizsgálat kezdeményezése céljából. A Könyvvizsgálói Közfelügyeleti Bizottság az illetékes hatóság által lefolytatandó vizsgálatban való részvételre képviselőt delegálhat.

@@ -10,6 +10,8 @@ b) nem áll cselekvőképességet korlátozó vagy kizáró gondnokság alatt,
 
 c) megfelelő ismeretekkel és tapasztalatokkal rendelkezik jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel összefüggő kérdéskörökben,
 
-d) korábban legfeljebb egy alkalommal volt a bizottság tagja.
+d) korábban legfeljebb egy alkalommal volt a bizottság tagja,
+
+e) a kamara vele szemben a tagság időtartama alatt és a felkérést megelőzően sem alkalmazott fegyelmi büntetést vagy figyelmeztetést.
 
 (3) A bizottság tagjai nem lehetnek egymásnak közeli hozzátartozói.

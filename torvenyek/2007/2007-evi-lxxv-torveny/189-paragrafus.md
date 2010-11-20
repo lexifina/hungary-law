@@ -6,9 +6,9 @@ b) a magyar nemzeti könyvvizsgálati standardok, a kamara etikai szabályzata, 
 
 c) a szakmai továbbképzési rendszer és a minőségbiztosítási rendszer működését,
 
-d) a fegyelmi eljárásokat, valamint
+d) a fegyelmi eljárásokat.
 
-e) a más államok illetékes hatóságaival folytatott együttműködést.
+e)
 
 (2) A bizottság az (1) bekezdésben meghatározott feladataival összefüggésben a miniszter számára javaslatot tehet jogszabály megalkotására vagy egyedi intézkedés megtételére.
 

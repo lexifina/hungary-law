@@ -4,11 +4,11 @@
 
 (3) A bizottsági tag a miniszter (2) bekezdésben meghatározott felhívására, a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a bizottsági tagon kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy vele szemben a 12. § a) pontjában meghatározott kizáró ok nem áll fenn.
 
-(4) Ha az (3) bekezdésben meghatározott felhívásra a bizottsági tag igazolja, hogy vele szemben nem áll fenn a 12. § a) pontjában meghatározott kizáró ok, a miniszter az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a bizottsági tag részére megtéríti.
+(4) Ha a (3) bekezdésben meghatározott felhívásra a bizottsági tag igazolja, hogy vele szemben nem áll fenn a 12. § a) pontjában meghatározott kizáró ok, a miniszter az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a bizottsági tag részére megtéríti.
 
 (5) A miniszter a 12. § a) pontjában meghatározott kizáró ok fennállásának ellenőrzése céljából kezeli
 
-a) pályázó,
+a) a pályázó,
 
 b) a bizottsági tag
 
