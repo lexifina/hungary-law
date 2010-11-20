@@ -1,0 +1,119 @@
+1. Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 38. § b) pontjával összhangban az európai kritikus infrastruktúra védelem nemzeti koordinációjáért a belügyminiszter felelős.
+
+Felelős: belügyminiszter
+
+Határidő: azonnal
+
+2. Az európai kritikus infrastruktúra védelmével kapcsolatos ügyekben a nemzeti kapcsolattartó és koordinációs feladatokat – mint ECIP kapcsolattartó pont (ECIP Contact Point) – a belügyminiszter látja el. A belügyminiszter mint ECIP kapcsolattartó pont koordinálja az európai kritikus infrastruktúrák védelmével kapcsolatos kérdéseket az Európai Unió tagállamainak ECIP kapcsolattartó pontjaival és az Európai Bizottsággal.
+
+Felelős: belügyminiszter
+
+Határidő: azonnal
+
+3. A Kormány felhatalmazza a belügyminisztert, hogy az európai kritikus infrastruktúrák azonosításáról és kijelöléséről, valamint védelmük javítása szükségességének értékeléséről szóló, 2008. december 8-i 2008/114/EK tanácsi irányelv (a továbbiakban: Irányelv) hatálya alá tartozó ágazatok tekintetében érintett miniszterek bevonásával két- vagy többoldalú megbeszéléseket folytasson az európai kritikus infrastruktúrák azonosításáról és kijelöléséről az Európai Unió tagállamai által kijelölt kapcsolattartókkal, az Európai Bizottsággal és az Irányelv végrehajtásához szükséges kijelölések tekintetében a megállapodásokat megkösse.
+
+Felelős: belügyminiszter
+
+érintett miniszterek
+
+Határidő: folyamatosan
+
+4. a) A Kormány felhívja a belügyminisztert, a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert, a közigazgatási és igazságügyi minisztert és a honvédelmi minisztert, hogy az Alkotmányvédelmi Hivatal, a Magyar Energia Hivatal, a Magyar Kereskedelmi és Engedélyezési Hivatal, a Nemzeti Biztonsági Felügyelet, a Nemzeti Közlekedési Hatóság, az Országos Katasztrófavédelmi Főigazgatóság, az Országos Rendőr-főkapitányság és a Terrorelhárítási Központ bevonásával hozzanak létre és működtessenek szakmai munkacsoportot (a továbbiakban: munkacsoport).
+
+Felelős: belügyminiszter
+
+nemzeti fejlesztési miniszter
+
+nemzetgazdasági miniszter
+
+közigazgatási és igazságügyi miniszter
+
+honvédelmi miniszter
+
+Határidő: a munkacsoport létrehozására 2010. november 30.
+
+a működtetésére folyamatosan
+
+b) Az a) pont szerint létrehozott munkacsoport feladata, hogy
+
+1. dolgozza ki az európai kritikus infrastruktúrák azonosításához szükséges kritériumrendszert,
+
+2. dolgozza ki a nemzeti kritikus infrastruktúra védelem intézmény- és kritériumrendszerét, továbbá
+
+3. amennyiben az Irányelv III. Mellékletében foglalt eljárási rend alapján szükségesnek tartja európai kritikus infrastruktúra kijelölését, akkor a lehetséges európai kritikus infrastruktúrák üzemeltetőinek vagy tulajdonosainak bevonásával tegyen javaslatot a kijelölésre és a kijelölés felülvizsgálatára.
+
+Felelős: a munkacsoport tagjai
+
+Határidő: az 1. pontban foglaltakra 2011. január 5.
+
+a 2. pontban foglaltakra 2011. február 28.
+
+a 3. pontban foglaltakra folyamatosan
+
+c) A Kormány felhívja a honvédelmi minisztert, hogy a b) pont 1. alpontjában meghatározott kritériumrendszerrel összhangban dolgozza ki a honvédelmi érdekből kritikus infrastruktúrák védelmére vonatkozó intézmény- és követelményrendszert.
+
+Felelős: honvédelmi miniszter
+
+Határidő: 2011. február 28.
+
+5. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az európai kritikus infrastruktúrává való kijelölésből származó kötelezettségek érvényesítése érdekében mérje fel az Irányelv hatálya alá tartozó ágazatok hatósági engedélyezése és felügyelete terén meglévő ágazati jogszabályokat, és szükség esetén tegyen javaslatot a jogszabály-módosításra vagy arról saját hatáskörében gondoskodjon.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: a jogszabályok felmérésére 2011. január 31.
+
+az esetlegesen szükséges jogszabály-módosító javaslattételre vagy saját hatáskörű módosításra
+
+a felmérés befejezése után folyamatosan
+
+6. A Kormány felhatalmazza a nemzeti fejlesztési minisztert, hogy a 4. a) pont szerint létrehozott munkacsoport javaslata és a belügyminiszter által az európai kritikus infrastruktúrák kijelöléséről lefolytatott tárgyalások alapján jelölje ki az európai kritikus infrastruktúrát.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: 2011. február 15.
+
+7. a) A Kormány évente jelentést nyújt be az Európai Bizottságnak
+
+1. azon infrastruktúrák ágazatonkénti számáról, amelyek tekintetében a horizontális kritériumok küszöbértékeivel kapcsolatban megbeszéléseket folytattak,
+
+2. az európai kritikus infrastruktúrának kijelölt infrastruktúrák ágazatonkénti számáról, valamint az Európai Unió azon tagállamainak számáról, amelyek a kijelölt infrastruktúrától függnek.
+
+Felelős: belügyminiszter
+
+nemzeti fejlesztési miniszter
+
+nemzetgazdasági miniszter
+
+külügyminiszter
+
+Határidő: első alkalommal a feladatok végrehajtásáról 2011. január 12-ig, azt követően évente
+
+b) A Kormány az Irányelvben meghatározottak szerint jelentést nyújt be az Európai Bizottságnak ágazatonként azon ágazatok sebezhetőségi pontjainak, az azokat fenyegető veszélyeknek és kockázatoknak típusairól, amelyekben európai kritikus infrastruktúrát jelöltek ki.
+
+Felelős: belügyminiszter
+
+nemzeti fejlesztési miniszter
+
+nemzetgazdasági miniszter
+
+külügyminiszter
+
+Határidő: az első, a Magyar Köztársaság területén található európai kritikus infrastruktúra kijelölését követően kétévente, az Európai Bizottság számára küldendő éves jelentéssel együtt
+
+8. a) A kormányzati szereplők és a civil szféra kritikus infrastruktúra védelemmel kapcsolatos együttműködésének megteremtése érdekében a nemzeti fejlesztési miniszter vezetésével, a belügyminiszter és az érintett miniszterek részéről kijelölt vezetők részvételével, valamint az érintett infrastruktúra-tulajdonosok, üzemeltetők, érdekvédelmi szervezetek, tudományos testületek bevonásával kritikus infrastruktúra védelmi konzultációs fórumot kell felállítani és működtetni.
+
+Felelős: nemzeti fejlesztési miniszter
+
+érintett miniszterek
+
+Határidő: a létrehozásra 2011. március 31., a működtetésre folyamatosan
+
+b) A kritikus infrastruktúra védelem nemzeti programjának megvalósítása érdekében az a) pont szerint létrehozott konzultációs fórum keretében rendszeresen tanácskozásokat kell folytatni, melyen a résztvevők megvitatják az ágazatok infrastruktúrái vonatkozásában fennálló fenyegetettségeket, a védelmi tervek elkészítésének folyamatát, és a védelmi intézkedések alkalmazásának állapotát, valamint a kritikus infrastruktúra védelemmel kapcsolatos további aktuális kérdéseket. A konzultációs fórum ajánlásokat tehet a kritikus infrastruktúra védelemre vonatkozó jogszabály-tervezetek megalkotására.
+
+Felelős: nemzeti fejlesztési miniszter
+
+érintett miniszterek
+
+Határidő: folyamatosan
+
+9. Ez a határozat a közzétételét követő napon lép hatályba.
