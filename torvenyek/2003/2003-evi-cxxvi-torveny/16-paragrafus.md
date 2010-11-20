@@ -58,7 +58,7 @@ u) megkeresésre az élelmiszerlánc-felügyeleti szervet, valamint a borászati
 
 v) az engedélyezési, ellenőrzési, felügyeleti, nyilvántartási, hitelesítési és piacfelügyeleti feladataik ellátása céljából
 
-va) a külkereskedelmi államigazgatási hatóságot,
+va) a nemzeti külkereskedelmi államigazgatási szervet,
 
 vb) a kábítószer-prekurzorok kivitelének és behozatalának engedélyezésére kijelölt hatóságot,
 
