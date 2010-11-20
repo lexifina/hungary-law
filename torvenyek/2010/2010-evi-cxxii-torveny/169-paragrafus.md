@@ -1,9 +1,3 @@
 ## „(4) A cég a cégjegyzékből való törléssel szűnik meg. Ha a cég törlésére nem felszámolási eljárást követően kerül sor, a cégbíróság a céget akkor törölheti a cégjegyzékből, ha az állami adóhatóság – a vámhatóságtól beszerzett adatok alapján is – elektronikus úton arról tájékoztatja, hogy a cégnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez vagy ennek hiányában az 56. § (1) bekezdésében, a 84. § (1) bekezdésében, vagy a 91. § (1) bekezdésében meghatározott elektronikus értesítéstől, illetve a végelszámolást lezáró beszámoló közzétételétől számított 90 nap eltelt. Végelszámolás esetén az állami adóhatóság arról is tájékoztatja a cégbíróságot, hogy a cégnek van-e az állami adóhatóságnál, vagy – a vámhatóságtól beszerzett adatok alapján – a vámhatóságnál nyilvántartott köztartozása. Amennyiben a tájékoztatás szerint az adóhatóság a cégnél eljárást folytat, vagy ellenőrzést, végrehajtást kezdeményez, vagy a cég köztartozással rendelkezik, a cég csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő elektronikus tájékoztatást követően törölhető a cégjegyzékből. A cégjegyzék azt is tartalmazza, hogy a törlésre kérelemre vagy hivatalból került-e sor.”
 
-169. § (1) Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény (a továbbiakban: Díjtörvény) 32/B. § (1) bekezdése a következő b) ponttal egészül ki:
-
-[Az ingatlan-nyilvántartási eljárás díja alól teljes személyes díjmentességben részesül:]
-
-## „b) az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság.”
-
-(2) A Díjtörvény a következő új 33/B. §-sal egészül ki:
+### 169. §
