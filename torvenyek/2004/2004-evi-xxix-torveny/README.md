@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-29-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-29-00-00.11 |
+| 2010-11-20 | 2010. évi CV. törvény | 2004-29-00-00.12 |
