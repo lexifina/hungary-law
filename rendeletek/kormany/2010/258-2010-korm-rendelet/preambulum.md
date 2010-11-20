@@ -1,0 +1,1 @@
+A Kormány a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény (a továbbiakban: Tv.) 41. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében a következőket rendeli el:
