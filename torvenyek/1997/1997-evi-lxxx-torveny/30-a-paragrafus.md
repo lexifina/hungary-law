@@ -7,3 +7,9 @@ Tbj. 30/A. § (1) A mezőgazdasági őstermelő – ideértve a tevékenység�
 (3) A mezőgazdasági őstermelő a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében az adóévre vonatkozóan nyilatkozattal vállalhatja, hogy a 19. § (1)–(3) bekezdés szerinti járulékokat (tagdíjat) az (1)–(2) bekezdésben meghatározott járulékalapnál magasabb összeg után fizeti meg. A mezőgazdasági őstermelő a magasabb járulékalap választásáról a tárgyév első negyedévére vonatkozó járulékbevallásában nyilatkozik az állami adóhatóságnak. A nyilatkozat az Art. szerinti végrehajtható okiratnak minősül.
 
 (4) A mezőgazdasági őstermelő járulékfizetési kötelezettségére a 29. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+(5) A (2) bekezdésben foglaltaktól eltérően a magán-nyugdíjpénztári tag őstermelő esetében
+
+a) a 2011. január 1-je és 2011. január 12-e közötti időszakban esedékes tagdíj mértéke 0 százalék, a nyugdíjjárulék mértéke 9,5 százalék,
+
+b) a 2011. január 13-a és 2011. december 31-e közötti időszakban esedékes tagdíj mértéke 0 százalék, a nyugdíjjárulék mértéke 10 százalék.
