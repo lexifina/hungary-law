@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Orosz Föderáció közötti társulást létrehozó partnerségi és együttműködési megállapodáshoz csatolt, a Bolgár Köztársaságnak és Romániának az Európai Unióhoz történő csatlakozásának figyelembevételéről szóló jegyzőkönyvet (a továbbiakban: 2. Jegyzőkönyv) e törvénnyel kihirdeti.

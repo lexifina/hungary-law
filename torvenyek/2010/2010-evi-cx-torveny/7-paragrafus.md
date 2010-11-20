@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Orosz Föderáció közötti partnerség létrehozásáról szóló partnerségi és együttműködési megállapodáshoz csatolt jegyzőkönyvet (a továbbiakban: 3. Jegyzőkönyv) e törvénnyel kihirdeti.

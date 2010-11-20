@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Orosz Föderáció közötti partnerség létrehozásáról szóló Partnerségi és együttműködési megállapodást (a továbbiakban: a Megállapodás) e törvénnyel kihirdeti.
