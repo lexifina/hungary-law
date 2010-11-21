@@ -1,6 +1,6 @@
 ## a telepítési jogtartalékból a telepítési jogot részére az MVH térítésmentesen nyújtja.
 
-13. §[^34] (1) Az újratelepítési jog vásárlási kérelmet az MVH által rendszeresített és honlapján közzétett nyomtatványon kell benyújtani.
+13. §[^35] (1) Az újratelepítési jog vásárlási kérelmet az MVH által rendszeresített és honlapján közzétett nyomtatványon kell benyújtani.
 
 (2) Az MVH PKI az újratelepítési jog vásárlási kérelmeket beérkezésük sorrendjében bírálja el.
 
@@ -16,4 +16,4 @@
 
 (8) Amennyiben a kérelmező fizetési kötelezettségének határidőben nem tesz eleget, úgy az MVH PKI az újratelepítési jog vásárlása iránti kérelmet elutasítja.
 
-[^34]: A 13. § a 63/2010. (V. 11.) FVM rendelet 7. §-ával megállapított szöveg.
+[^35]: A 13. § a 63/2010. (V. 11.) FVM rendelet 7. §-ával megállapított szöveg.
