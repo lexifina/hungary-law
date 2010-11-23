@@ -1,0 +1,1 @@
+7. § Az Országgyűlés a levélváltás formájában az Európai Közösség és Izrael Állam között a kölcsönös liberalizációs intézkedésekről és az EK–Izrael társulási megállapodás 1. és 2. jegyzőkönyvének helyettesítéséről szóló megállapodást (a továbbiakban: 3. Módosítás) e törvénnyel kihirdeti.

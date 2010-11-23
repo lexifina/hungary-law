@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamaik, másrészről Izrael állam közötti társulás létrehozásáról szóló euro-mediterrán megállapodáshoz a Bolgár Köztársaság és Románia Európai Unióhoz történő csatlakozásának figyelembevételéről szóló jegyzőkönyvet (a továbbiakban: 2. Módosítás) e törvénnyel kihirdeti.
