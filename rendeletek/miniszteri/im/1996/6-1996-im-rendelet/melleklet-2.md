@@ -34,7 +34,7 @@
 
 ## – az előzetesen letartóztatottnál saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
 
-## 3.[^225] Élelmiszerek, étkezési eszközök:
+## 3.[^230] Élelmiszerek, étkezési eszközök:
 
 ## – az intézetben vásárolt vagy csomagban beküldhető élelmiszerek;
 
@@ -54,7 +54,7 @@
 
 ## – pohár.
 
-## 4.[^226] Dohányáruk:
+## 4.[^231] Dohányáruk:
 
 ## – cigaretta, szivar, dohány;
 
@@ -74,13 +74,13 @@
 
 ## – könyvek, napilapok, folyóiratok.
 
-## 6. Egyéb használati tárgyak:
+## 6.[^232] Egyéb használati tárgyak:
 
 ## – a vallásgyakorlathoz szükséges kegytárgyak;
 
 ## – elemmel működtethető zsebrádió, fülhallgató;
 
-## –[^227] maximum 37 cm-es képátmérőjű, hordozható, teletext nélküli tv-készülék;
+## – maximum 37 cm-es képátmérőjű, hordozható tv-készülék;
 
 ## – karóra;
 
@@ -98,6 +98,6 @@
 
 2. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^225]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^226]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^227]: Az 1. számú melléklet 6. pontjának harmadik gondolatjeles bekezdése a 18/2002. (XI. 30.) IM rendelet 66. §-ának (2) bekezdésével megállapított szöveg.
+[^230]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^231]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^232]: Az 1. számú melléklet 6. pontja a 12/2010. (XI. 9.) KIM rendelet 7. §-ával megállapított szöveg.

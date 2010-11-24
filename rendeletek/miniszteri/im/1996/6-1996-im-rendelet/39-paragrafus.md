@@ -14,8 +14,8 @@ e) a fekvőbetegeket az egészségesektől, a betegek közül a fertőzőket a n
 
 (2) Jogszabály az (1) bekezdésben foglaltakon túl, az elkülönítés egyéb szempontjait is meghatározhatja.
 
-(3)[^44]
+(3)[^45]
 
 (4) Az elkülönítést külön körleten, ennek elkülönített részén, illetve külön zárkában vagy lakóhelyiségben kell végrehajtani.
 
-[^44]: A 39. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^45]: A 39. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.

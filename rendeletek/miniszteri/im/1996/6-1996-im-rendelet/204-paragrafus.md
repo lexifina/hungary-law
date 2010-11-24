@@ -20,6 +20,6 @@ h) a szabadságvesztés végrehajtásának idejét,
 
 i) a szabadságvesztés végrehajtása alatt a munkáltatásban részt vett elítélt által betöltött munkaköröket, azok időtartamát, és – öt évre visszamenőleg – az évenkénti munkadíjat,
 
-j)[^173] részben felfüggesztett szabadságvesztés esetén a felfüggesztett rész lejártának napját
+j)[^178] részben felfüggesztett szabadságvesztés esetén a felfüggesztett rész lejártának napját
 
-[^173]: A 204. § j) pontját a 11/2010. (III. 31.) IRM rendelet 8. §-a iktatta be.
+[^178]: A 204. § j) pontját a 11/2010. (III. 31.) IRM rendelet 8. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 169. §[^129]
+## 169. §[^133]
 
 ## Az átmeneti csoport
 
@@ -6,7 +6,7 @@
 
 (2) Az elítélt a személyes szükségletre fordítható pénzösszeget vagy annak egy részét készpénzben is megkaphatja.
 
-(3)[^130] Az átmeneti csoportba helyezésről az intézet székhelye szerint illetékes pártfogó felügyelői szolgálat pártfogó felügyelőjét értesíteni kell.
+(3)[^134] Az átmeneti csoportba helyezésről az intézet székhelye szerint illetékes pártfogó felügyelői szolgálat pártfogó felügyelőjét értesíteni kell.
 
-[^129]: A 169. §-t a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^130]: A 170. § (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 12. §-a iktatta be, szövege a 12/2006. (III. 23.) IM rendelet 34. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^133]: A 169. §-t a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^134]: A 170. § (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 12. §-a iktatta be, szövege a 12/2006. (III. 23.) IM rendelet 34. § (3) bekezdésének a) pontja szerint módosított szöveg.

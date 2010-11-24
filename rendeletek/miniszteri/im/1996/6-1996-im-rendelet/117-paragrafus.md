@@ -12,8 +12,8 @@ a) a tizennyolc éven aluli elítélt;
 
 b) az elítélt nő a terhessége megállapításától gyermekének hat hónapos koráig, illetve, ha a gyermeke az intézetben van elhelyezve, annak egyéves koráig;
 
-c)[^101] az egészségkárosító kockázatok között foglalkoztatott elítélt.
+c)[^102] az egészségkárosító kockázatok között foglalkoztatott elítélt.
 
 (5) A félórát meg nem haladó túlmunka félórának, a félórát meghaladó túlmunka teljes órának számít.
 
-[^101]: A 117. § (4) bekezdésének c) pontja a 18/2002. (XI. 30.) IM rendelet 34. §-ával megállapított szöveg.
+[^102]: A 117. § (4) bekezdésének c) pontja a 18/2002. (XI. 30.) IM rendelet 34. §-ával megállapított szöveg.

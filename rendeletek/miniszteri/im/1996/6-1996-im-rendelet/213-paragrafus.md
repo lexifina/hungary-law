@@ -4,6 +4,6 @@
 
 (2) Az intézetben szülői értekezlet tartható, a fiatalkorúak részére szervezett rendezvényekre a hozzátartozói is meghívhatók.
 
-(3)[^184]
+(3)[^189]
 
-[^184]: A 213. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^189]: A 213. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.

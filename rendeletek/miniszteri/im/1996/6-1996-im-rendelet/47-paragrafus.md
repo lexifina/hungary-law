@@ -1,8 +1,8 @@
 ## Különleges biztonságú zárkába,
 
-## illetve körletre helyezés[^54]
+## illetve körletre helyezés[^55]
 
-47. §[^55] (1) A IV. biztonsági csoportba sorolt elítélt különleges biztonságú zárkába, illetve körletre helyezhető.
+47. §[^56] (1) A IV. biztonsági csoportba sorolt elítélt különleges biztonságú zárkába, illetve körletre helyezhető.
 
 (2) Különleges biztonságú zárkába, illetve körletre helyezhető az elítélt akkor is, ha életének vagy testi épségének a védelme más módon nem biztosítható.
 
@@ -36,5 +36,5 @@ a) különleges biztonságú zárka: olyan sajátos szabályok alapján működt
 
 b) különleges biztonságú körlet: az országos parancsnok intézkedésében kijelölt intézetnek az e célra kialakított, különleges biztonságú zárkákból és a hozzájuk tartozó helyiségekből álló, elkülönített része, ahová az (1) és (2) bekezdésben meghatározott elítélt végrehajtási fokozattól függetlenül helyezhető el.
 
-[^54]: A 47. § előtti alcím a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
-[^55]: A 47. § a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
+[^55]: A 47. § előtti alcím a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
+[^56]: A 47. § a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.

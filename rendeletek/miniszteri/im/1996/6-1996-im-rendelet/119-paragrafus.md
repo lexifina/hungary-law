@@ -8,6 +8,6 @@
 
 (3) A szabadság az elítélt kérelmére, vagy egyéb indokolt esetben több részletben, a ledolgozott munkanapok arányában is kiadható.
 
-(4)[^102] Ha a munkáltatónál a munkáltatás szünetel, vagy az elítélt munkáltatása bármely okból megszűnik (pl. átszállítás) és az elítélt még ki nem adott időarányos fizetett szabadsággal rendelkezik, a megállapított szabadságát ki kell adni, ha ez nem lehetséges, úgy pénzben kell megváltani.
+(4)[^103] Ha a munkáltatónál a munkáltatás szünetel, vagy az elítélt munkáltatása bármely okból megszűnik (pl. átszállítás) és az elítélt még ki nem adott időarányos fizetett szabadsággal rendelkezik, a megállapított szabadságát ki kell adni, ha ez nem lehetséges, úgy pénzben kell megváltani.
 
-[^102]: A 119. § (4) bekezdése a 18/2002. (XI. 30.) IM rendelet 35. §-ával megállapított szöveg.
+[^103]: A 119. § (4) bekezdése a 18/2002. (XI. 30.) IM rendelet 35. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## felszerelési tárgyai
 
-## 1.[^230] Személyenként:
+## 1.[^235] Személyenként:
 
 ## – fekhely;
 
@@ -12,7 +12,7 @@
 
 ## – lavór.
 
-## 2.[^231] Közös használatra:
+## 2.[^236] Közös használatra:
 
 ## – asztal;
 
@@ -28,5 +28,5 @@
 
 4. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^230]: A 3. számú melléklet 1. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (4) bekezdése szerint kiegészített szöveg.
-[^231]: A 3. számú melléklet 2. pontja a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja szerint módosított szöveg.
+[^235]: A 3. számú melléklet 1. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (4) bekezdése szerint kiegészített szöveg.
+[^236]: A 3. számú melléklet 2. pontja a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja szerint módosított szöveg.
