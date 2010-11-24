@@ -4,4 +4,4 @@
 
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja.
 
-(4) Az ügyészségre vonatkozó szabályokat törvény állapítja meg.
+(4) Az ügyészségről, valamint az ügyészek szolgálati viszonyáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
