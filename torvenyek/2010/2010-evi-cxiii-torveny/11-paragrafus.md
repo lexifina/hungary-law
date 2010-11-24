@@ -5,11 +5,3 @@
 (3) Hatályát veszti az Alkotmány 7. § (2) bekezdése.
 
 (4) Ez a törvény nem érinti a hatálybalépése előtt alkotott jogszabályok hatályát.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
