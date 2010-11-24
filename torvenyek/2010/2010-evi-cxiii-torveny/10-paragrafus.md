@@ -1,0 +1,1 @@
+10. § Az Alkotmány 20. § (5) bekezdésében a „Kormány tagja és az államtitkár” szövegrész helyébe a „Kormány tagja, az államtitkár és a kormánymegbízott” szöveg, 39. § (2) bekezdésében a „Kormány tagjai és az államtitkárok” szövegrész helyébe a „Kormány tagjai, az államtitkárok és a kormánymegbízottak” szöveg lép.
