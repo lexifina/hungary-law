@@ -1,6 +1,6 @@
 A kormányközi vegyes bizottságok tagjainak és tisztségviselőinek kijelöléséről szóló 2118/2008. (VIII. 27.) Korm. határozat 3. pont a) alpontja szerinti jogkörömben eljárva a nemzetgazdasági miniszter és a külügyminiszter együttes előterjesztése alapján
 
-1.
+1.[^2]
 
 Varga Istvánt
 
@@ -98,8 +98,6 @@ dr. Matolcsy Györgyöt
 
 – a Magyar–Indiai Gazdasági Együttműködési Vegyes Bizottság,
 
-– a Magyar–Kínai Gazdasági Vegyes Bizottság,
-
 – a Magyar–Brazil Gazdasági Együttműködési Vegyes Bizottság,
 
 – a Magyar–Román Gazdasági Együttműködési Kormányközi Bizottság,
@@ -160,6 +158,8 @@ dr. Fellegi Tamást
 
 – a Magyar–Ukrán Kormányközi Gazdasági Együttműködési Vegyes Bizottság,
 
+– a Magyar–Kínai Gazdasági Vegyes Bizottság,
+
 dr. Hóvári Jánost
 
 – a Magyar–Izraeli Gazdasági Együttműködési Vegyes Bizottság,
@@ -194,9 +194,10 @@ magyar tagozata elnökévé kinevezem.
 
 3. Ez a határozat a közzététele napján lép hatályba.
 
-4.[^1]
+4.[^3]
 
-5.[^2]
+5.[^4]
 
-[^1]: A 4. pontot az 5. pont hatályon kívül helyezte.
-[^2]: Az 5. pont ugyanezen pont alapján hatályát vesztette.
+[^2]: Az 1. pont a 106/2010. (XI. 25.) ME határozat 3–4. pontja szerint módosított szöveg.
+[^3]: A 4. pontot az 5. pont hatályon kívül helyezte.
+[^4]: Az 5. pont ugyanezen pont alapján hatályát vesztette.
