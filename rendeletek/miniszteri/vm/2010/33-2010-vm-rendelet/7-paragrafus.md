@@ -1,0 +1,1 @@
+## 6. § A beérkezett pályázatokat a PNT 44 munkanapon belül, az e rendeletben foglalt szakmai szempontok figyelembevételével rangsorolja és választja ki a nyertes pályázatot, amelyről írásban tájékoztatja a vidékfejlesztési minisztert (a továbbiakban: miniszter) és a pályázókat, valamint döntését közzéteszi saját honlapján is.

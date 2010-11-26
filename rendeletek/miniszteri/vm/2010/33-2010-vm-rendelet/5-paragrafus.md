@@ -1,0 +1,1 @@
+## 4. § A 3. § szerinti tilalom nem vonatkozik a termékek speciális szempontok alapján meghatározott csoportjára, különösen egy adott gyümölcsfajból vagy azok egy csoportjából, illetve valamely különleges eljárással készült pálinkákra országosan meghirdetett versenyekre.

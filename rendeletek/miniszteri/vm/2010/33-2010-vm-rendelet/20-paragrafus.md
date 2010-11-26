@@ -1,0 +1,1 @@
+## 19. § Az analitikai vizsgálat elvégzésére a verseny lebonyolítója jelöli ki a vizsgáló laboratóriumot, amelynek rendelkeznie kell a termékek vizsgálatához szükséges ismeretekkel, eszközökkel és gyakorlattal.

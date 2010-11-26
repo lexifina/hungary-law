@@ -1,0 +1,1 @@
+## 20. § Ha az analitikai vizsgálat során egy vagy több paraméter a mérési bizonytalanságon belül megközelíti, vagy a nem megfelelőség irányában túllépi az előírt határértéket, akkor a mérést az adott vizsgálatra akkreditált laboratóriumban meg kell ismételni.
