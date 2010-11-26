@@ -1,0 +1,17 @@
+1. Az »„a Magyar Államvasutak Zrt. jelenlegi gazdasági helyzetéhez vezető, 2002–2010 közötti – kiemelten a MÁV Zrt. szerkezetátalakítására és a leánytársaságok privatizációjára vonatkozó – döntések vizsgálatára” országgyűlési vizsgálóbizottság létrehozásáról« című 115/2010. (XI. 25.) OGY határozat (a továbbiakban: MÁVh.) V–VI. pontja alapján az Országgyűlés a vizsgálóbizottság tisztségviselőinek és tagjainak a következőket választja meg:
+
+Elnök: Manninger Jenő (Fidesz)
+
+Tagjai:
+
+dr. Dancsó József (Fidesz)
+
+Spaller Endre (KDNP)
+
+Göndör István (MSZP)
+
+Korondi Miklós (Jobbik)
+
+Jávor Benedek (LMP)
+
+2. E határozat a Mávh. hatálybalépésével egyidejűleg lép hatályba.
