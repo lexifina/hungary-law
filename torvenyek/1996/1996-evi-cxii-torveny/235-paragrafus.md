@@ -26,7 +26,9 @@ l) a partnerkockázat kezelésére és tőkekövetelményére
 
 m) a független közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 
-n) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére
+n) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
+
+o) a Hpt. 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára
 
 vonatkozó részletes szabályokat.
 

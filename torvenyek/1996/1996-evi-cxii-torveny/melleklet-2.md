@@ -226,7 +226,9 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 4. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
-5.
+5.1. Lakáscélú hitel- vagy kölcsönszerződés: ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- illetőleg kölcsönszerződés, amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése vagy felújítása.
+
+5.2. Lakáscélú pénzügyi lízingszerződés: olyan pénzügyi lízingszerződés, amelyben a felek által okiratban rögzített cél lakóingatlan tulajdonjogának harmadik személy eladótól történő, lízingbevevő általi megszerzése.
 
 6. Jegyzett tőke: az Szmt. 35. §-ának (3) bekezdése szerint meghatározott tőke.
 
