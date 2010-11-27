@@ -53,3 +53,7 @@ b) harmadik személy nyújtja, és a hitelszerződés előkészítése vagy megk
 20. teljes hiteldíj mutató: a hitel teljes díjának aránya a hitel teljes összegéhez éves százalékában kifejezve,
 
 21. változó hitelkamat: minden olyan kamat, ami nem minősül rögzített hitelkamatnak.
+
+22. Lakáscélú jelzáloghitel: olyan jelzáloghitel, amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése vagy felújítása.
+
+23. Lakáscélú pénzügyi lízing: olyan lízing, amelyben a felek által okiratban rögzített cél lakóingatlan tulajdonjogának harmadik személy eladótól történő, lízingbevevő általi megszerzése.

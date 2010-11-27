@@ -1,4 +1,4 @@
-32. § (1) E törvény rendelkezései – a (2)–(5) bekezdésben meghatározott kivétellel – kizárólag a 2010. június 11-ét követően kötött szerződésekre alkalmazandóak.
+32. § (1) E törvény rendelkezései – a (2)–(7) bekezdésben meghatározott kivétellel – kizárólag a 2010. június 11-ét követően kötött szerződésekre alkalmazandóak.
 
 (2) E törvény 20. §-a (3)–(5) bekezdésének, 21–25. §-ának és 35. §-ának rendelkezései kizárólag a 2010. március 1-jét követően kötött szerződésekre alkalmazandóak.
 
@@ -7,3 +7,7 @@
 (4) 2010. március 1-jén már megkötött határozatlan idejű hitelszerződésre a 20. § (1) és (2) bekezdésében meghatározott rendelkezéseket alkalmazni kell.
 
 (5) E törvény 33. §-át a hatálybalépését követően előterjesztett végrehajtási kérelmek alapján indult végrehajtási eljárásokban lehet alkalmazni.
+
+(6) Az egyes pénzügyi tárgyú törvényeknek a nehéz helyzetbe került lakáscélú hitelt felvevő fogyasztók megsegítése érdekében szükséges módosításáról szóló 2010. évi XCVI. törvény (a továbbiakban: Módosító törvény) 7. § (1) és (2) bekezdésével megállapított 25. § (4)–(7) bekezdéseket a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított tizenötödik napot követően teljesített előtörlesztésekre is alkalmazni kell.
+
+(7) A Módosító törvény 8. §-ával megállapított 28. § (3) bekezdést a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított tizenötödik napot követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.

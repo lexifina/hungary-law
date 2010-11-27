@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-162-00-00
 | --- | --- | --- |
 | 2010-01-14 | 2009. évi CLXII. törvény | 2009-162-00-00.0 (közlönyállapot) |
 | 2010-01-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-162-00-00.1 |
+| 2010-11-27 | 2010. évi XCVI. törvény | 2009-162-00-00.2 |
