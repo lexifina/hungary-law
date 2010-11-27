@@ -1,0 +1,1 @@
+1/A. § A 6/A. § hatálya – az ott meghatározottak szerint – kiterjed a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és közalkalmazottra, ha a munkáltató egésze vagy egy része jogszabály rendelkezése folytán e törvény hatálya alá kerül.

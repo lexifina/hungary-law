@@ -9,3 +9,5 @@
 (4) Törvény eltérő rendelkezése hiányában a vezetői kinevezés határozatlan időre szól.
 
 (5) Az (1) bekezdés szerinti vezetői munkakört betöltő kormánytisztviselőre a Ktv. 23–29. §-a nem alkalmazható.
+
+(6) A tartós külszolgálat időtartamára – a (4) bekezdésben foglaltaktól eltérően – vezetői kinevezés határozott időre is adható.

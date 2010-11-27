@@ -7,3 +7,11 @@
 (2) Felhatalmazást kap a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, hogy a kormánytisztviselői jogviszonnyal kapcsolatos munkáltatói jogkör gyakorlásával és átruházásával összefüggő részletes szabályokat rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e törvény alapján vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+
+a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési és kárpótlási feladatokat ellátó szervek dolgozóinak igazolványára vonatkozó szabályokat,
+
+b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait
+
+rendeletben állapítsa meg.
