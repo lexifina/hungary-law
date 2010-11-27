@@ -2,11 +2,11 @@
 
 ## AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONY LÉTESÍTÉSE, MÓDOSÍTÁSA, A VEZETŐK MEGBÍZATÁSA, KINEVEZÉSE, A VEZETŐI MEGBÍZATÁS, KINEVEZÉS MEGSZŰNÉSE
 
-14. § (1) Ügyésszé azt a választójoggal rendelkező magyar állampolgárt lehet kinevezni, illetőleg legfőbb ügyésszé megválasztani, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+14. § (1) Ügyésszé azt a választójoggal rendelkező magyar állampolgárt lehet kinevezni, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
-(2) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés hat évre választja.
+(2) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés kilenc évre választja a határozatlan időre kinevezett ügyészek közül.
 
-(3) A legfőbb ügyész helyettest a legfőbb ügyész javaslatára a köztársasági elnök határozatlan időre nevezi ki.
+(3) A legfőbb ügyész helyettest a legfőbb ügyész javaslatára a köztársasági elnök határozatlan időre nevezi ki a határozatlan időre kinevezett ügyészek közül.
 
 (4) A legfőbb ügyész az ügyészt első alkalommal (első ügyészi kinevezés) három évre, azt követően pedig – a 14/D. § (4) bekezdésében meghatározott eset kivételével – határozatlan időre nevezi ki. Nyugdíjas, illetőleg nyugdíjkorhatárt betöltött személy kinevezése ettől eltérő határozott időre, illetőleg határozatlan időre is szólhat. Az ügyész első kinevezése határozatlan időre szól, ha
 

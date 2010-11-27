@@ -20,7 +20,7 @@ f) hivatalvesztése kimondásával [20. § (8) bekezdés];
 
 g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
 
-h) hetvenedik életévének betöltésével;
+h) hetvenedik életévének betöltésével vagy – a 20. § (1a) bekezdés b) pontja szerinti esetben – a 20. § (10) bekezdése szerinti időpontban;
 
 i) halálával;
 

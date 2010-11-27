@@ -6,7 +6,7 @@ b) átszervezés, létszámcsökkentés következtében az ügyész munkaköre f
 
 c) az ügyész feladatai ellátására tartósan alkalmatlan, illetőleg a 41. § (8) bekezdésében említett vizsgálatnak nem vetette alá magát;
 
-d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy a 70. életévét még nem töltötte be, de az általános öregségi nyugdíjkorhatárt betöltött ügyész felmentését e jogcímre hivatkozással maga kéri;
+d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy a 65. életévét betöltötte, vagy az általános öregségi nyugdíjkorhatárt betöltött ügyész felmentését e jogcímre hivatkozással maga kéri,
 
 e) az ügyész felmentése a 22. § (3) bekezdésében meghatározott okból válik szükségessé.
 
