@@ -26,7 +26,7 @@ i) az önálló bírósági végrehajtó és az önálló bírósági végrehajt
 
 j) alkotmánybíróságnál, bíróságnál ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársaság Elnökének Hivatalánál, az Országgyűlés Hivatalánál szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
 
-k) a pártfogó felügyelői szolgálatnál pártfogó felügyelői tevékenységet végző, igazságügyi alkalmazotti jogviszonyban álló személy;
+k)
 
 l) jogszabály alapján közhatalmi, államigazgatási feladatokkal megbízott szervnél, testületnél az a személy, aki közhatalmi, államigazgatási feladatot lát el,
 
