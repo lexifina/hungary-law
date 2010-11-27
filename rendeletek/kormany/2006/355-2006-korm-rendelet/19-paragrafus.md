@@ -12,6 +12,6 @@ b) a finanszírozásba bevont pénzintézet útján,
 
 c) közvetlenül a kedvezményezett számlájára történő átutalással,
 
-d)[^10] rendkívül indokolt esetben a kedvezményezett címére fizetési számláról történő készpénz-kifizetés kézbesítése útján
+d)[^11] rendkívül indokolt esetben a kedvezményezett címére fizetési számláról történő készpénz-kifizetés kézbesítése útján
 
-[^10]: A 19. § (3) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 43. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 19. § (3) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 43. § (3) bekezdése szerint módosított szöveg.

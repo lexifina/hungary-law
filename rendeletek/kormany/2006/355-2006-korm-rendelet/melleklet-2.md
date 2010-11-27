@@ -16,7 +16,7 @@
 
 | Ukrajna | Kárpátaljai Magyar Kulturális Szövetség, Ukrajnai Magyar Demokrata Szövetség |
 
-2. számú melléklet a 355/2006. (XII. 27.) Korm. rendelethez[^15]
+2. számú melléklet a 355/2006. (XII. 27.) Korm. rendelethez[^16]
 
 I. Magasabb vezetői beosztások a Szülőföld Alap Irodában
 
@@ -52,4 +52,4 @@ II. Közalkalmazotti munkakörök a Szülőföld Alap Irodában
 
 | Műszaki, fenntartási, üzemviteli alkalmazott, szakmunkás, segédmunkás, kisegítő alkalmazott | * | * | * | * |  |  |  |  |  |  |
 
-[^15]: A 2. számú melléklet a 357/2008. (XII. 31.) Korm. rendelet 12. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
+[^16]: A 2. számú melléklet a 357/2008. (XII. 31.) Korm. rendelet 12. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.

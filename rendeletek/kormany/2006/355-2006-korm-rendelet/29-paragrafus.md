@@ -1,4 +1,4 @@
-## 28. §[^12] Az Iroda a 26. és 27. §-okban meghatározottakon túl elvégzi az Áht.-ban és az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletben (a továbbiakban: Ámr.) a számviteli jogszabályokban, továbbá a más jogszabályokban részére az Alap kezelésére vonatkozóan előírt feladatokat.
+## 28. §[^13] Az Iroda a 26. és 27. §-okban meghatározottakon túl elvégzi az Áht.-ban és az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletben (a továbbiakban: Ámr.) a számviteli jogszabályokban, továbbá a más jogszabályokban részére az Alap kezelésére vonatkozóan előírt feladatokat.
 
 ## III.
 
@@ -12,4 +12,4 @@
 
 (3) A miniszter a számára az e rendeletben meghatározott feladatkörök ellátásával a nemzetpolitikáért felelős szakállamtitkárt megbízhatja.
 
-[^12]: A 28. § a 292/2009. (XII. 19.) Korm. rendelet 244. § b) pontja szerint módosított szöveg.
+[^13]: A 28. § a 292/2009. (XII. 19.) Korm. rendelet 244. § b) pontja szerint módosított szöveg.

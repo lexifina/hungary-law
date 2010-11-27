@@ -34,7 +34,7 @@ l) az elállás jogát;
 
 m) a pályázók adatainak kezeléséhez; a pályázók adatainak és a döntés tartalmának az Alap internetes honlapján való nyilvános közzétételhez, valamint a szomszédos államokban élő magyaroknak nyújtott támogatások központi nyilvántartásáról szóló 233/2005. (X. 19.) Korm. rendelet alapján létrehozott nyilvántartási rendszer kezelőjének történő továbbításhoz való hozzájárulást;
 
-n)[^6] beszedés esetére a támogatás kedvezményezettje által pénzforgalmi szolgáltatójának adott beszedési megbízás benyújtására vonatkozó felhatalmazó levelét.
+n)[^7] beszedés esetére a támogatás kedvezményezettje által pénzforgalmi szolgáltatójának adott beszedési megbízás benyújtására vonatkozó felhatalmazó levelét.
 
 (5) Az Iroda befogadja, és a Kollégium döntésének kezdeményezése érdekében a pályázatokban megjelölt határidő lejártát követő negyvenöt napon belül – a nemzetpolitikáért felelős szakállamtitkár folyamatos tájékoztatásával – előkészíti a beérkezett pályázatokat, összesítőt és döntési javaslatot készít.
 
@@ -58,4 +58,4 @@ d) a pályázó gazdálkodó szervezetben, vagy e szervezetben a szavazati jogok
 
 (11) Ha a (10) bekezdés rendelkezései miatt a Kollégium határozatképtelen lenne, a miniszter a döntést másik Kollégium hatáskörébe utalhatja.
 
-[^6]: A 15. § (4) bekezdés n) pontját a 314/2009. (XII. 28.) Korm. rendelet 43. § (1) bekezdése iktatta be.
+[^7]: A 15. § (4) bekezdés n) pontját a 314/2009. (XII. 28.) Korm. rendelet 43. § (1) bekezdése iktatta be.
