@@ -1,0 +1,3 @@
+68. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 28. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(2) A végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett igazságügyi alkalmazott esetében szolgálati viszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.”

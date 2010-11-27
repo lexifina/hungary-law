@@ -1,0 +1,1 @@
+42. § Hatályát veszti az illetékekről szóló 1990. évi XCIII. törvény 57. § (1) bekezdés e) pontjában a „ , valamint az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás” szövegrész és a Melléklet XV. pont 3. alpontja.

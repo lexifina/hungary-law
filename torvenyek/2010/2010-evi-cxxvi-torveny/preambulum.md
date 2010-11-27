@@ -1,0 +1,1 @@
+Az Országgyűlés a jó állam kialakítása keretében, a területi államigazgatási szervezetrendszer működésének egységessé és hatékonyabbá tétele, ezáltal a területi államigazgatási feladatellátás fejlődése és színvonalának növelése, valamint az ügyfél-centrikus területi államigazgatás megvalósítása érdekében a következő törvényt alkotja:

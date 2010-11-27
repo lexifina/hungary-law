@@ -1,0 +1,3 @@
+## 15. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet módosítása
+
+33. § Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet 3. § (1)–(2) bekezdésében, 23. § (3) bekezdésében, 26/D. § (3) bekezdésében, 41/B. § (3) bekezdés d) pontjában, 41/C. § (2) bekezdés c) pontjában, 41/D. § (1) bekezdés a) pontjában, 41/D. § (2) bekezdés b) pontjában a „közigazgatási hivatal” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szerve” szöveg, 41/D. § (1) bekezdés c) pontjában a „jogosultságot biztosító közigazgatási hivatal” szövegrész helyébe a „Kormány jogosultságot biztosító általános hatáskörű területi államigazgatási szerve” szöveg lép.
