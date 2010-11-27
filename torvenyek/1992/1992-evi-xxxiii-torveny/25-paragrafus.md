@@ -10,7 +10,7 @@ b) a közalkalmazott halálával,
 
 c) a munkáltató jogutód nélküli megszűnésével, valamint
 
-d) a 22. § (16) bekezdésében és a 25/A. § (1) bekezdésében meghatározott esetben,
+d) a 22. (16) bekezdésében és a 25/A. § (1) bekezdésében meghatározott esetben, továbbá ha törvény így rendelkezik,
 
 e) a prémiumévek programban történő részvétel esetén az erre vonatkozó külön törvény szabályai szerint.
 
