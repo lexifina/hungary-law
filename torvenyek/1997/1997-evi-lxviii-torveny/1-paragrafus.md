@@ -8,7 +8,7 @@ a) a bíróságokkal,
 
 b) az Országos Igazságszolgáltatási Tanács Hivatalával (a továbbiakban: OIT Hivatala),
 
-c) a Kormány által rendeletben kijelölt pártfogó felügyelői, jogi segítségnyújtó, áldozatsegítő és kárpótlási tevékenységért felelős szervvel, valamint igazságügyi szakértői intézménnyel (a továbbiakban együttesen: egyéb igazságügyi szerv)
+c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv)
 
 létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 

@@ -8,7 +8,7 @@ c) az a)–b) pontba nem tartozó szervek alkalmazottja esetén a közigazgatás
 
 a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Ktv. szerinti illetménykiegészítéssel növelt alapilletményénél.
 
-(2) A bírósági titkár, az igazságügyi szakértő és a pártfogó felügyelő alapilletménye nem lehet kevesebb a szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés] az illetménykiegészítéssel növelt alapilletményénél.
+(2) A bírósági titkár, az igazságügyi szakértő alapilletménye nem lehet kevesebb a szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés] az illetménykiegészítéssel növelt alapilletményénél.
 
 (3) A bírósági fogalmazó és a szakértő-jelölt alapilletménye nem lehet kevesebb a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a közigazgatási hivatalnál az illetménykiegészítéssel növelt alapilletményénél.
 

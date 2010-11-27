@@ -1,3 +1,1 @@
-127. § (1) A munkáltató a törvény hatálybalépésének az időpontjában szolgálati viszonyban álló igazságügyi alkalmazott részére a középfokú iskolai, továbbá segédmunkás esetén az általános iskolai végzettség megszerzésére – legfeljebb 3 évre – halasztást engedélyezhet. A munkáltató a 2003. július 1-jén szolgálati viszonyban álló pártfogó felügyelő részére a felsőfokú képesítés megszerzésére – legfeljebb hat évre – halasztást engedélyezhet. Nem kötelezhető a pártfogó felügyelő a felsőfokú képesítés megszerzésére, ha a nyugdíjkorhatár eléréséig szükséges idő hat évnél kevesebb.
-
-(2) A képesítés megszerzése nem terheli azt az igazságügyi alkalmazottat, akit a törvény hatálybalépése előtt a vonatkozó jogszabályok alapján ez alól mentesítettek, illetve azokat az ügykezelőket [7. § (1) bekezdés], akik e törvény hatálybalépésekor szolgálati viszonyban állnak.
+127. §

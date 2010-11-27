@@ -2,7 +2,7 @@
 
 (2) Az igazságügyi szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő töredékévet egész évnek kell számítani.
 
-(3) Szolgálati időként kell figyelembe venni a kinevezés előtt más igazságügyi vagy ügyészségi szervnél – pártfogó felügyelő esetében a gyámhivatalnál köztisztviselőként, illetve más szervnél azonos jellegű munkakörben köztisztviselőként vagy közalkalmazottként –, azonos jellegű munkakörben eltöltött időt.
+(3) Szolgálati időként kell figyelembe venni a kinevezés előtt más igazságügyi vagy ügyészségi szervnél azonos jellegű munkakörben eltöltött időt.
 
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 

@@ -1,6 +1,6 @@
 ## A rendkívüli munkavégzés elismerése
 
-113. § (1) Az igazságügyi szakértő, a szakértőjelölt, a pártfogó felügyelő, valamint a tisztviselő részére – ha ügyeleti vagy készenléti díjra nem jogosult – rendkívüli munkavégzés esetén ezzel azonos tartamú szabadidő jár. A heti pihenőnapon vagy munkaszüneti napon végzett rendkívüli munkavégzés ellenértékeként kétszeres idejű szabadidő jár.
+113. § (1) Az igazságügyi szakértő, a szakértőjelölt, valamint a tisztviselő részére – ha ügyeleti vagy készenléti díjra nem jogosult – rendkívüli munkavégzés esetén ezzel azonos tartamú szabadidő jár. A heti pihenőnapon vagy munkaszüneti napon végzett rendkívüli munkavégzés ellenértékeként kétszeres idejű szabadidő jár.
 
 (2) Az (1) bekezdés szerinti szabadidő helyett a rendszeresen rendkívüli munkát végzők részére legfeljebb évi tizenöt nap szabadidő-átalány állapítható meg.
 

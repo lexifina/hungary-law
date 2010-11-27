@@ -14,6 +14,8 @@ e) az e törvényben meghatározott egyéb esetekben, a törvény erejénél fog
 
 f) azonnali hatállyal a próbaidő alatt,
 
-g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is.
+g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is,
+
+h) külön törvény rendelkezése folytán.
 
 (2)

@@ -4,7 +4,7 @@
 
 a) a bírósági fogalmazó és a bírósági titkár,
 
-b) a pártfogó felügyelő,
+b)
 
 c) az igazságügyi szakértő és a szakértőjelölt,
 

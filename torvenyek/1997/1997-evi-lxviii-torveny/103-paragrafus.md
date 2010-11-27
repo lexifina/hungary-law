@@ -1,4 +1,4 @@
-103. § (1) A bírósági fogalmazónak a 98. § (2)–(3) bekezdése alapján történő előresorolásától eltekintve, átlagon felüli színvonalú munkavégzés esetén a bírósági titkár és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a pártfogó felügyelő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható.
+103. § (1) A bírósági fogalmazónak a 98. § (2)–(3) bekezdése alapján történő előresorolásától eltekintve, átlagon felüli színvonalú munkavégzés esetén a bírósági titkár és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható.
 
 (2) Két soron kívüli előresorolás között legalább hat évnek kell eltelnie.
 

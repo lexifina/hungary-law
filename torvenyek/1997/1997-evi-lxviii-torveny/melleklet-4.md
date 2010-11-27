@@ -1,6 +1,6 @@
 4. számú melléklet az 1997. évi LXVIII. törvényhez
 
-Az igazságügyi szakértő, a szakértőjelölt, a pártfogó felügyelő, a tisztviselő és az írnok alapilletménye
+Az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok alapilletménye
 
 |
 

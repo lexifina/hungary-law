@@ -20,7 +20,7 @@ a) aki büntetett előéletű,
 
 b) aki a betöltendő munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(5) Bírósági fogalmazónak, bírósági titkárnak, igazságügyi szakértőnek és pártfogó felügyelőnek a (4) bekezdésben meghatározottakon túl azt sem lehet kinevezni:
+(5) Bírósági fogalmazónak, bírósági titkárnak, igazságügyi szakértőnek a (4) bekezdésben meghatározottakon túl azt sem lehet kinevezni:
 
 a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
 

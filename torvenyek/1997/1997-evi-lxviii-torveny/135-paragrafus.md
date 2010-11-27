@@ -6,7 +6,7 @@
 
 a)
 
-b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT, valamint feladatkörükben a kárpótlásért felelős miniszter és az áldozatsegítésért felelős miniszter egyetértésével –,
+b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT egyetértésével –,
 
 c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OIT egyetértésével,
 
