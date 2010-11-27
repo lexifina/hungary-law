@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-19-00-00
 | 2010-03-24 | 2010. évi XL. törvény | 2004-19-00-00.16 |
 | 2010-04-01 | 2009. évi CLV. törvény | 2004-19-00-00.17 |
 | 2010-06-17 | 2010. évi LII. törvény | 2004-19-00-00.18 |
+| 2010-11-27 | 2010. évi CXXIII. törvény | 2004-19-00-00.19 |

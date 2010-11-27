@@ -10,6 +10,6 @@
 
 (5) A Vám- és Pénzügyőrség az eljárásban résztvevők természetes személyazonosító és lakcím adatait, továbbá az ügy azonosító adatait ügyviteli célból, az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.
 
-(6) A Vám- és Pénzügyőrség által kezelt adatokat személyazonosításra alkalmatlan módon, statisztikai célra fel lehet használni.
+(6) A Vám- és Pénzügyőrség által kezelt adatokat személyazonosításra alkalmatlan módon, történelmi kutatási, statisztikai vagy tudományos célra fel lehet használni.
 
 (7) Az adópolitikáért felelős miniszter, a kormánybiztos, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
