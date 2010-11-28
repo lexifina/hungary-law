@@ -2,8 +2,8 @@
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A határozat hatálybalépésével egyidejűleg az egyes kétoldalú gazdasági együttműködési kormányközi bizottságok, valamint a tartományi szintű vegyesbizottságok magyar tagozati elnökeinek felmentéséről és kinevezéséről szóló 86/2010. (IX. 15.) ME határozat (a továbbiakban: Bizottsági határozat) 1. pontjában a dr. Fellegi Tamás társelnök által vezetett bizottságok felsorolása a „– a Magyar–Kínai Gazdasági Vegyes Bizottság,” szövegrésszel egészül ki.
-
-4. A határozat hatálybalépésével egyidejűleg a Bizottsági határozat 1. pontjában a dr. Matolcsy György társelnök által vezetett bizottságok felsorolásából a „– a Magyar–Kínai Gazdasági Vegyes Bizottság,” szövegrész hatályát veszti.
+3–4.[^1]
 
 5. A határozat 3–4. pontja a határozat hatálybalépését követő második napon hatályát veszti. Ez a pont a határozat hatálybalépését követő harmadik napon hatályát veszti.
+
+[^1]: A 3–4. pontot az 5. pont hatályon kívül helyezte.
