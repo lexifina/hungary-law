@@ -4,7 +4,7 @@
 
 | 1 | Támrendszer-, művelésmód- és technológiai korszerűsítés |
 
-| Jégvédő-háló és esővédő fólia tartására alkalmas támrendszer: Betonoszlopok huzalokkal, süllyedésgátló lemez, oszloprögzítő anker, huzal vassodrony és csavarja, oszlopsapka, 30 cm hosszítás háló védelmére, oszlopsapka hosszítás nélkül végoszlopokra | hektáronként 3500 |
+| Jégvédő-háló és esővédő fólia tartására alkalmas támrendszer: Oszlopok huzalokkal, süllyedésgátló lemez, oszloprögzítő anker, huzal vassodrony és csavarja, oszlopsapka, 30 cm hosszítás háló védelmére, oszlopsapka hosszítás nélkül végoszlopokra | hektáronként 3500 |
 
 | 2 | Talajtakaró fólia: Fekete bakháttakaró fólia | hektáronként 400 |
 

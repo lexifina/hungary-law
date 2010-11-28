@@ -12,8 +12,12 @@
 
 4. meglévő, korszerű ültetvény: az 1. mellékletben foglalt táblázat B és E oszlopa szerinti hozamú és tőszámú ültetvény;
 
-5. termőre fordult ültetvény: a 3. mellékletben meghatározott szakmai feltételeknek megfelelő ültetvény;
+5.[^1] ültetvény termőre fordulásának időpontja: az az év, amikor az 1. mellékletben foglalt táblázat H oszlopában meghatározott időtartam elteltével a 3. melléklet szerinti szakmai paraméterek teljesülnek;
 
-6. ültetvény termőre fordulásának időpontja: az az év, amikor a tárgyévi termés értékesítéséből származó árbevétel meghaladja a tárgyévi ráfordításokat;
+6.[^2] víztakarékos öntözési rendszer: az 1. mellékletben foglalt táblázat K oszlopában meghatározott öntözési követelményeknek megfelelő öntözési rendszerek.
 
-7. víztakarékos öntözési rendszer: az 1. mellékletben foglalt táblázat K oszlopában meghatározott öntözési követelményeknek megfelelő öntözési rendszerek.
+7.[^3]
+
+[^1]: A 2. § 5. pontja a 34/2010. (XI. 25.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 6. pontja a 34/2010. (XI. 25.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 7. pontját a 34/2010. (XI. 25.) VM rendelet 8. §-a hatályon kívül helyezte.

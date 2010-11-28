@@ -26,7 +26,7 @@ aa) az egysoros vagy kétsoros csepegtető rendszer kiépítése,
 
 ab) a mikroszórófejes öntözés,
 
-ac) a mobil öntözőrendszer,
+ac)[^7] a csévélő dobos mobil öntözőrendszer,
 
 ad) a párásító, színező öntözés,
 
@@ -34,4 +34,7 @@ ae) a fagyvédelmi öntözés, és
 
 b) a tápanyag-utánpótlási rendszer berendezéseinek kiépítése, fejlesztése.
 
-(4) Az 1. célterület szerint igénybe vett támogatás elszámolhatóságának feltétele, hogy az (1) bekezdésben foglalt valamennyi beruházás együttesen megvalósuljon.
+(4)[^8] Az 1. célterület esetén a támogatás igénybevételének feltétele, hogy az (1) bekezdésben foglalt valamennyi beruházás együttesen megvalósuljon.
+
+[^7]: A 6. § (3) bekezdés a) pont ac) alpontja a 34/2010. (XI. 25.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (4) bekezdése a 34/2010. (XI. 25.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.

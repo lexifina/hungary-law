@@ -1,14 +1,18 @@
 ## 4. A támogatás igénybevételének feltételei
 
-4. § (1) Támogatás igénybevételére jogosult a mezőgazdasági termelő, ha
+4. § (1)[^5] Támogatás igénybevételére jogosult
 
-a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdésének d) pontja alapján az állami adóhatósághoz bejelentett – 01.2., 01.5. alágazatba tartozó tevékenységet végez,
+a) a mezőgazdasági termelő, ha
 
-b) zöldség-gyümölcs termelői csoport, termelői szervezet vagy azok leányvállalatai [a továbbiakban az a) és b) pont együtt: ügyfél],
+aa) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdésének d) pontja alapján az állami adóhatósághoz bejelentett – 01.2., 01.5. alágazatba tartozó tevékenységet végez és
 
-c) a mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (EUME).
+ab) a mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (EUME),
 
-(2)[^1] Az (1) bekezdés c) pontjában meghatározott feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalnia kell, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben megfelel az (1) bekezdés c) pontjában meghatározott feltételeknek.
+b) a zöldség-gyümölcs termelői csoport, termelői szervezet vagy azok leányvállalatai
+
+[a továbbiakban az a) és b) pont együtt: ügyfél].
+
+(2)[^6] Az (1) bekezdés a) pont ab) alpontjában meghatározott feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalnia kell, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben megfelel az (1) bekezdés a) pont ab) alpontjában meghatározott feltételnek.
 
 (3) Az ültetvény területének növelése abban az esetben támogatható, ha a beruházás alapján az ültetvény területe eléri az 1. mellékletben foglalt táblázat F oszlopában az adott fajra vonatkozó legkisebb ültetvényméretet azzal, hogy a régi és az új ültetvény együttesen egy adott megyén belüli vagy közvetlenül szomszédos megyében elhelyezkedő ültetvényt alkot.
 
@@ -34,4 +38,5 @@ f) a telepítési engedély szerint megvalósítani a beruházást.
 
 (6) Egy ügyfél egy támogatási kérelemben külön-külön és mindhárom célterületre vonatkozóan is igényelhet támogatást.
 
-[^1]: A 4. § (2) bekezdése a 49/2010. (IV. 27.) FVM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdése a 34/2010. (XI. 25.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdése a 34/2010. (XI. 25.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
