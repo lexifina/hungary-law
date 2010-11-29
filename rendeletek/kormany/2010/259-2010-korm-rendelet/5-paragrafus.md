@@ -6,8 +6,8 @@
 
 (2)[^2]
 
-(3)[^3] E § (2) bekezdése e rendelet hatálybalépését követő napon hatályát veszti. Ez a bekezdés e rendelet hatálybalépését követő második napon hatályát veszti.
+(3)[^3]
 
 [^1]: Lásd a 2010: CXXVI. törvény 22. § (1) bekezdését.
 [^2]: Az 5. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^3]: Az 5. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette. [A (3) bekezdés alapján az (1) bekezdést követő második napon lép hatályba.]
+[^3]: Az 5. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
