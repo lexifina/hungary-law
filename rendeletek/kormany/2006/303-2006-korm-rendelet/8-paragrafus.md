@@ -1,6 +1,6 @@
 ## Az áldozatsegítő szolgálat, ezen belül a támogató hatóság és a döntő hatóság kijelölése
 
-8. §[^8] (1) Áldozatsegítő szolgálatként a Kormány az Igazságügyi Hivatalt jelöli ki.
+8. §[^9] (1) Áldozatsegítő szolgálatként a Kormány az Igazságügyi Hivatalt jelöli ki.
 
 (2) Az áldozatsegítési országos adatbázisból a statisztikai kimutatást a Központi Igazságügyi Hivatal készíti.
 
@@ -8,4 +8,4 @@
 
 (4) A járadékra való jogosultságot a járadékra jogosult lakóhelye szerint illetékes területi igazságügyi hivatal ellenőrzi.
 
-[^8]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 503. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 503. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
