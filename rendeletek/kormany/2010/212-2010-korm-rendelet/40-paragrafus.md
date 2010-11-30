@@ -84,7 +84,7 @@ b) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás 
 
 c) működteti és irányítja az Európai Unió Szolidaritás és a Migrációs áramlások igazgatása általános programból származó támogatások felhasználásának rendszerét és közreműködik a Strukturális Alapok, valamint a Kohéziós Alap hazai felhasználásához kapcsolódó Új Magyarország Fejlesztési Terv előkészítésében és nyomon követésében,
 
-d) az áldozatsegítésért való felelőssége körében szakmailag irányítja a bűncselekmények áldozatainak segítéséért felelős hatóságot,
+d)[^1]
 
 e) ellátja az Európai Unió Bűnmegelőzési Hálózat magyar kapcsolattartó pontjának feladatait,
 
@@ -99,3 +99,5 @@ gb) ellátja a hatáskörbe utalt szabálysértési méltányossági ügyeket,
 h) működteti a Duna Palota és Kiadót,
 
 i) működteti az Országos Bűnmegelőzési Bizottságot.
+
+[^1]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

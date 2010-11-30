@@ -40,7 +40,7 @@ s) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügye
 
 t) a Vízügyi és Környezetvédelmi Központi Igazgatóságot,
 
-u)[^1]
+u)[^2]
 
 v) a környezetvédelmi és vízügyi igazgatóságokat,
 
@@ -54,4 +54,4 @@ b) a Kormány nevében az ENSZ Élelmezési és Mezőgazdasági Szervezeteinek M
 
 c) a külügyminiszterrel egyetértésben a külképviseleti hálózatban dolgozó mező- és környezetgazdasági szakattasék működését.
 
-[^1]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte.
+[^2]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte.
