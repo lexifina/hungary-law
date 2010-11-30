@@ -1,0 +1,1 @@
+Az Országgyűlés arra való tekintettel, hogy 2010. június 23-án Brüsszelben aláírták az Európai Unióról szóló Szerződéshez, az Európai Unió Működéséről szóló Szerződéshez és az Európai Atomenergia-közösséget létrehozó Szerződéshez csatolt, az átmeneti rendelkezésekről szóló jegyzőkönyvet módosító jegyzőkönyvet a következő törvényt alkotja:
