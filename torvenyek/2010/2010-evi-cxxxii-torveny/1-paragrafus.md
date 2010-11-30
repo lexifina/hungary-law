@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a San Marino Köztársaság között a kettős adóztatás elkerüléséről a jövedelemadók területén Rómában, 2009. szeptember 15. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
