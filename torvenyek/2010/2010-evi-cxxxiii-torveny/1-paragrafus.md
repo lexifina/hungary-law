@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Tajpeji Magyar Kereskedelmi Iroda és a Magyarországi Tajpej Képviseleti Iroda között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelemadók területén tárgyú Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
