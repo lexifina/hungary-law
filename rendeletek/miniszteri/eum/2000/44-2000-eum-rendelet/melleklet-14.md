@@ -1,4 +1,4 @@
-## 1. ADATLAP[^124]
+## 1. ADATLAP[^161]
 
 ## 1. ADATLAP
 
@@ -70,7 +70,7 @@
 
 |  | aláírás |
 
-## 2. ADATLAP[^125]
+## 2. ADATLAP[^162]
 
 ## 2. ADATLAP
 
@@ -136,8 +136,8 @@
 
 |  | aláírás |
 
-14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^126]
+14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^163]
 
-[^124]: Az 1. adatlap a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
-[^125]: A 2. adatlap a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
-[^126]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.
+[^161]: Az 1. adatlap a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^162]: A 2. adatlap a 25/2010. (V. 12.) EüM rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^163]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.

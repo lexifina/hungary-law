@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-44-20-0
 | --- | --- | --- |
 | 2009-03-16 | 2000-44-20-0B.14 | 44/2000. (XII. 27.) EüM rendelet |
 | 2010-05-20 | 2000-44-20-0B.15 | 25/2010. (V. 12.) EüM rendelet |
+| 2010-12-01 | 2000-44-20-0B.16 | 25/2010. (V. 12.) EüM rendelet |

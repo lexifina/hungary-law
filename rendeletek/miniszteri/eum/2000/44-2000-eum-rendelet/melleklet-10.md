@@ -1,6 +1,6 @@
 ## Vegyi anyag kémiai azonosítása a kémiai elnevezés feltüntetésének mellőzése esetén
 
-## A)[^108] A kémiai elnevezés feltüntetésének mellőzésére irányuló kérelem elbírálásához szükséges információk
+## A)[^143] A kémiai elnevezés feltüntetésének mellőzésére irányuló kérelem elbírálásához szükséges információk
 
 ## A kérelem benyújtásához szükséges információk az alábbiak:
 
@@ -824,7 +824,7 @@
 
 ## (Az idézett példák a közösségi jegyzékből vett anyagok, amelyekre vonatkozóan bizalmas adatkezelési kérelem benyújtható.)
 
-10. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^109]
+10. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^144]
 
-[^108]: A 9. számú melléklet A) része a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének k) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
-[^109]: A 10. számú melléklet a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^143]: A 9. számú melléklet A) része a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének k) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^144]: A 10. számú melléklet a 38/2008. (X. 3.) EüM rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni. A 10. számú mellékletet a 25/2010. (V. 12) EüM rendelet 3. § (2) bekezdés d) pontja hatályon kívül helyezte [ez utóbbi módosító rendelet 7. § (3) bekezdése alapján 2015. június 1-jén lép hatályba].
