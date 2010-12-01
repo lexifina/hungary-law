@@ -1,1 +1,0 @@
-## 3. § Az R. 1. § (2) bekezdésében a „közhatalmi” szövegrész helyébe a „központi” szöveg, 22. § (2) bekezdés b) pontjában „az igazságügyi és rendészeti miniszternek” szövegrész helyébe „az igazságügyért felelős miniszternek” szöveg lép.
