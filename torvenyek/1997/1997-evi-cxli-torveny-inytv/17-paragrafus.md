@@ -47,3 +47,5 @@ u) ranghely megváltoztatása,
 v) a társasházakról szóló 2003. évi CXXXIII. törvény 10. §-ának (2) bekezdése szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, illetőleg a társasházakról szóló 2003. évi CXXXIII. törvény 10. §-ának (3) bekezdése szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat módosítása, továbbá az elfogadás, a módosítás időpontja.
 
 (2) Az (1) bekezdés a)–k) pontjaiban említett tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti. Az l)–v) pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
+
+(3) Tulajdonjog fenntartással történő eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.
