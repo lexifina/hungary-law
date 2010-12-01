@@ -1,6 +1,6 @@
 ## Kozmetikai termék bejelentéséhez, kozmetikai termékkel kapcsolatos kérelemhez szükséges adatok
 
-## I.[^91] A kozmetikai termék bejelentéséhez (nyilvántartásba vételi eljárásához) szükséges adatok
+## I.[^93] A kozmetikai termék bejelentéséhez (nyilvántartásba vételi eljárásához) szükséges adatok
 
 ## 1. A bejelentő (cég) neve, címe, telephelye (elérhetősége).
 
@@ -68,7 +68,7 @@
 
 ## 7. Annak ismertetése, hogy az Európai Unió bármely tagállamában nyújtottak-e be titkosítási kérelmet az adott összetevővel kapcsolatban, illetve a meghozott döntés.
 
-10. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^92]
+10. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^94]
 
-[^91]: A 9. számú melléklet I. pontja a 14/2010. (IV. 7.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^92]: A 10. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette; újonnan beiktatta a 3/2004. (XI. 17.) EüM rendelet 4. § (3) bekezdése, szövege a 16/2009. (V. 11.) EüM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^93]: A 9. számú melléklet I. pontja a 14/2010. (IV. 7.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^94]: A 10. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette; újonnan beiktatta a 3/2004. (XI. 17.) EüM rendelet 4. § (3) bekezdése, szövege a 16/2009. (V. 11.) EüM rendelet 4. § (3) bekezdése szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 | 1b | Tetraborátok | a) Fürdőtermékek b) Hajhullámosító termékek | a) 18% (bórsav tömeg%-ában) b) 8% (bórsav tömeg%-ában) | a) Nem használható 3 év alatti gyermekeknek szánt termékben | a) Nem használható 3 év alatti gyermekek fürdetésére b) Alaposan leöblíteni |
 
-| 2a | Tioglikolsav és sói | a) Hajhullámosító vagy kiegyenesítő termékek – általános használat – szakipari használat b) Szőrtelenítők c) Használat után eltávolításra kerülő egyéb hajápoló termékek | – 8% használatra kész pH 7–9.5 – 11% használatra kész pH 7–9.5 – 5% használatra kész pH 7–12.7 – 2% használatra kész pH 9.5-ig Százalékok tioglikolsavra számítva | a) b) c) A használati utasításnak a következő mondatokat kell tartalmazni magyar nyelven: – Szembe jutása kerülendő – Szembe jutáskor azonnal bőséges vízzel öblögetni és orvoshoz fordulni – a) és c) esetben megfelelő kesztyű használandó | a)– Tioglikolátot tartalmaz – Kövesse az előírásokat – Gyermekek elől elzárandó – Csak szakipari használatra b) c)– Tioglikolátot tartalmaz – Kövesse az előírásokat – Gyermekek elől elzárandó |
+| 2a | Tioglikolsav és sói | a) Hajhullámosító vagy kiegyenesítő termékek – általános használat – szakipari használat b) Szőrtelenítők c) Használat után eltávolításra kerülő egyéb hajápoló termékek | – 8% használatra kész pH 7–9.5 – 11% használatra kész pH 7–9.5 – 5% használatra kész pH 7–12.7 – 2% használatra kész pH 9.5-ig Százalékok tioglikolsavra számítva | a) b) c) A használati utasításnak a következő mondatokat kell tartalmazni magyar nyelven: – Szembe jutása kerülendő – Szembe jutáskor azonnal bőséges vízzel öblögetni és orvoshoz fordulni – a) és c) esetben megfelelő kesztyű használandó | a) – Tioglikolátot tartalmaz – Kövesse az előírásokat – Gyermekek elől elzárandó – Csak szakipari használatra b) c) – Tioglikolátot tartalmaz – Kövesse az előírásokat – Gyermekek elől elzárandó |
 
 | 2b | Tioglikolsav észterek | Hajhullámosító vagy kiegyenesítő termékek: – általános használat – szakipari használat | – 8% használatra kész pH 6–9.5 – 11% használatra kész pH 6–9.5 Százalékok tioglikolsavra számítva | A használati utasításnak a következő mondatokat kell tartalmazni magyar nyelven: – Érzékenységet okozhat a bőrrel való érintkezéskor – Szembe jutása kerülendő – Szembe jutáskor azonnal bőséges vízzel öblögetni és orvoshoz fordulni – Megfelelő kesztyű használandó | – Tioglikolátot tartalmaz – Kövesse az előírásokat – Gyermekek elől elzárandó – Csak szakipari használatra |
 
@@ -42,7 +42,7 @@
 
 | 13 | Formaldehid | Körömerősítő | 5% formaldehidre számítva |  | A körömágy zsírral, olajjal védendő Formaldehidet tartalmaz (2) |
 
-| 14 | Hidrokinon (3) | a) b) Műkörömnél | 0,02% (használat előtti összekeverés után |  | a)b) Csak szakipari használatra Bőrre ne kerüljön Gondosan olvassa el a használati utasítást |
+| 14 | Hidrokinon (3) | a) b) Műkörömnél | 0,02% (használat előtti összekeverés után |  | a) b) Csak szakipari használatra Bőrre ne kerüljön Gondosan olvassa el a használati utasítást |
 
 | 15a | Kálium- és nátriumhidroxid | a) Körömágybőr eltávolító b) Hajkiegyenesítő 1. Általános használat 2. Szakipari használat c) pH beállító – szőrtelenítők d) pH beállítóként egyéb felhasználás | a) 5% súly szerint (4) b) 1. 2% súly szerint (4) 2. 4,5% súly szerint (4) c) pH 12.7-ig d) pH 11-ig |  | a) Lúgot tartalmaz Szembe ne kerüljön Vakságot okozhat Gyermekek elől elzárandó b) 1. Lúgot tartalmaz Szembe ne kerüljön Vakságot okozhat Gyermekek elől elzárandó 2. Csak szakipari használatra Szembe ne kerüljön Vakságot okozhat c) Gyermekek elől elzárandó Szembe ne kerüljön |
 
@@ -106,7 +106,7 @@
 
 | 44 | 1,3-Bisz(hidroximetil) imidazolidin-2-thion | a) Hajkezelő termékek b) Körömápoló termékek | a) 2%-ig b) 2%-ig | a) Tilos aerosolokban b) Az alkalmazott termék pH-ja nem lehet több mint 4 | 1,3-bisz(hidroximetil) imidazolidin-2-thiont tartalmaz |
 
-| 45 | Benzil alkohol (10) CAS-szám 100-51-6 | a) oldószer b) illatszer/aromás vegyületek/azok alapanyagai |  | b)Az anyag jelenlétét jelölni kell az összetevőknek a 6. cikk (1) bekezdésének g) pontjában említett felsorolásában: – a leöblítésre nem kerülő termékekben a 0,001%-ot, – a leöblítendő termékekben a 0,01%-ot |  |
+| 45 | Benzil alkohol (10) CAS-szám 100-51-6 | a) oldószer b) illatszer/aromás vegyületek/azok alapanyagai |  | b) Az anyag jelenlétét jelölni kell az összetevőknek a 6. cikk (1) bekezdésének g) pontjában említett felsorolásában: – a leöblítésre nem kerülő termékekben a 0,001%-ot, – a leöblítendő termékekben a 0,01%-ot |  |
 
 | 46 | 6-metilkumarin | Szájhigiénés termékek | 0,003% |  |  |
 
@@ -160,9 +160,9 @@
 
 | 71 | Eugenol (CAS szám 97-53-0) |  |  | Az anyag jelenlétét jelezni kell az összetevők felsorolásában, amennyiben koncentrációja meghaladja: – 0,001% a bőrön maradó termékekben – 0,01% a leöblítendő termékekben |  |
 
-| 72 | Hidroxicitronellal CAS-szám 107-75-5 | a) Szájápolási termékek b) Egyéb termékek | b) 1,0% | a) b)Az anyag jelenlétét jelölni kell az összetevőknek a 6. cikk (1) bekezdésének g) pontjában említett felsorolásában: – a leöblítésre nem kerülő termékekben a 0,001%-ot, – a leöblítendő termékekben a 0,01%-ot |  |
+| 72 | Hidroxicitronellal CAS-szám 107-75-5 | a) Szájápolási termékek b) Egyéb termékek | b) 1,0% | a) b) Az anyag jelenlétét jelölni kell az összetevőknek a 6. cikk (1) bekezdésének g) pontjában említett felsorolásában: – a leöblítésre nem kerülő termékekben a 0,001%-ot, – a leöblítendő termékekben a 0,01%-ot |  |
 
-| 73 | Izoeugenol CAS-szám 97-54-1 | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% | a) b)Az anyag jelenlétét jelölni kell az összetevőknek a 6. cikk (1) bekezdésének g) pontjában említett felsorolásában: – a leöblítésre nem kerülő termékekben a 0,001%-ot, – a leöblítendő termékekben a 0,01%-ot |  |
+| 73 | Izoeugenol CAS-szám 97-54-1 | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% | a) b) Az anyag jelenlétét jelölni kell az összetevőknek a 6. cikk (1) bekezdésének g) pontjában említett felsorolásában: – a leöblítésre nem kerülő termékekben a 0,001%-ot, – a leöblítendő termékekben a 0,01%-ot |  |
 
 | 74 | Amilcin namil alkohol (CAS szám 101-85-9) |  |  | Az anyag jelenlétét jelezni kell az összetevők felsorolásában, amennyiben koncentrációja meghaladja: – 0,001% a bőrön maradó termékekben – 0,01% a leöblítendő termékekben |  |
 
@@ -330,23 +330,23 @@
 
 | 156 | Cuminum cyminum terméséből készült olaj és kivonat CAS-szám 84775-51-9 | a) Leöblítésre nem kerülő termékek b) Leöblítendő termékek | a) 0,4% köményolaj |  |  |
 
-| 157 | ds-Rose ketone-1[12]CAS-szám 23726-94-5 (Z)-1-(2,6,6-trimetil-2- ciklo-hexén-1-il)-2-buten- 1-on (cisz-a-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
+| 157 | ds-Rose ketone-1[12] CAS-szám 23726-94-5 (Z)-1-(2,6,6-trimetil-2- ciklo-hexén-1-il)-2-buten- 1-on (cisz-a-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
 
-| 158 | trans-Rose ketone-2[12]CAS-szám 23726-91-2 (E)-1-(2,6,6-trimetil-1- ciklo-hexén-1-il)-2-buten- 1-on (transz-YY-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
+| 158 | trans-Rose ketone-2[12] CAS-szám 23726-91-2 (E)-1-(2,6,6-trimetil-1- ciklo-hexén-1-il)-2-buten- 1-on (transz-YY-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
 
-| 159 | trans-Rose ketone-5[12]CAS-szám 39872-57-6 (E)-1-(2,4,4-trimetil-2- ciklo-hexén-1-il)-2-buten- 1-on izodamaszkon |  | 0,02% |  |  |
+| 159 | trans-Rose ketone-5[12] CAS-szám 39872-57-6 (E)-1-(2,4,4-trimetil-2- ciklo-hexén-1-il)-2-buten- 1-on izodamaszkon |  | 0,02% |  |  |
 
-| 160 | Rose ketone-4[12]CAS-szám 23696-85-7 Trimetil-ciklohexa-1,3- dién-1-il)-2-buten-1-on (Damasz-kenon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
+| 160 | Rose ketone-4[12] CAS-szám 23696-85-7 Trimetil-ciklohexa-1,3- dién-1-il)-2-buten-1-on (Damasz-kenon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
 
-| 161 | Rose ketone-3[12]CAS-szám 57378-68-4 1-(2,6,6-Trimetil-3-ciklo- hexén-1-il)-2-buten-1-on (delta-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
+| 161 | Rose ketone-3[12] CAS-szám 57378-68-4 1-(2,6,6-Trimetil-3-ciklo- hexén-1-il)-2-buten-1-on (delta-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
 
 | 162 | cis-Rose ketone-2 (12) CAS-szám 23726-92-3 1-(2,6,6-Trimetil-1-ciklo- hexén-1-il)-2-buten-1-on (cisz-YY-Damaszkon) | a) Szájápolási termékek b) Egyéb | b) 0,02% |  |  |
 
-| 163 | trans-Rose ketone-1[12]CAS-szám 24720-09-0 1-(2,6,6-Trimetil-2-ciklo- hexén-1-il)-2-buten-1-on (transz-a-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
+| 163 | trans-Rose ketone-1[12] CAS-szám 24720-09-0 1-(2,6,6-Trimetil-2-ciklo- hexén-1-il)-2-buten-1-on (transz-a-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
 
-| 164 | Rose ketone-5[12]CAS-szám 33673-71-1 1-(2,4,4-Trimetil-2-ciklo- hexén-1-il)-2-buten-1-on |  | 0,02% |  |  |
+| 164 | Rose ketone-5[12] CAS-szám 33673-71-1 1-(2,4,4-Trimetil-2-ciklo- hexén-1-il)-2-buten-1-on |  | 0,02% |  |  |
 
-| 165 | trans-Rose ketone-3[12]CAS-szám 71048-82-3 1-(2,6,6-Trimetil-3-ciklo- hexén-1-il)-2-buten-1-on (transz-delta-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
+| 165 | trans-Rose ketone-3[12] CAS-szám 71048-82-3 1-(2,6,6-Trimetil-3-ciklo- hexén-1-il)-2-buten-1-on (transz-delta-Damaszkon) | a) Szájápolási termékek b) Egyéb termékek | b) 0,02% |  |  |
 
 | 166 | trans-2-hexenal CAS-szám 6728-26-3 | a) Szájápolási termékek b) Egyéb termékek | b) 0,002% |  |  |
 
@@ -430,6 +430,18 @@
 
 | 205 | 4-hidroxi-propil- amino-3- nitrofenol[13] 4- Hydroxypropyl- amino-3- nitrophenol (INCI) (CAS-szám 92952-81-3) EINECS-szám 406-305-9 | a) Oxidáló hajfestékek összetevőjeként b) Nem oxidáló hajfestékek összetevőjeként | b) 2,6% | a) Oxidatív körülmények között összekeverve a hajra alkalmazott maximális koncentráció nem haladhatja meg a 2,6%-ot (szabad bázisra számolva) a) és b) esetében: – Nitrozáló rendszerekben nem használható – Maximális nitrozamin-koncent- ráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó | a) A keverési arányt fel kell tüntetni a címkén. |
 
+| [20687 | Verbénából nyert abszolút olaj (Lippia citriodora Kunth.) (CAS-szám: 8024–12–2) |  | 0,2% |  |  |  |
+
+| 20788 | Ethyl Lauroyl Arginate HCl (INCI) [14] Ethyl-Nα-dodeca- noyl-L-arginate hydrochloride (CAS-szám: 60372–77–2; EK-szám: 434–630–6) | a) Szappanok b) Korpásodás elleni samponok c) Nem szórófejes dezodorok | 0,8% | Nem a termékben lévő mikroorganizmu- sok kifejlődésének megakadályozá- sára. E célt jól láthatóan fel kell tüntetni a terméken.] |  |
+
+| 208 | 1-(béta-ami- no-etil)-amino -4-(béta-hidroxi- etil)-oxi- 2-nitro-benzol és sói HC Orange No. 2 (CAS-szám: 85765–48–6) EINECS-szám: 416–410–1 | Nem oxidáló hajfestékek összetevőjeként | 1,0% | – Nitrozáló rendszerekben nem használható – Maximális nitrozamin- koncentráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó | A hajfestékek/ hajszínezők súlyos allergiás reakciót válthatnak ki. Kérjük, olvassa el és kövesse az utasításokat! Ezt a terméket nem 16 éven aluli személyeknél való alkalmazásra szánták. Az ideiglenes ‘fekete henna’ tetoválás növelheti az allergia kialakulásának veszélyét. Ne használjon hajfestéket/ hajszínezőt, ha: – arcán kiütés van, vagy fejbőre érzékeny, irritált és sérült, – hajfestés után bármikor bármilyen reakciót észlelt, – korábban ideiglenes ‘fekete henna’ tetoválás során valamilyen reakciót észlelt. |
+
+| 209 | 2-[(2-metoxi-4- nitro-fenil)- amino]-etanol és sói 2-Hydroxy- ethylamino-5- nitroanisole (CAS-szám: 66095–81–6) EINECS-szám: 266–138–0 | Nem oxidáló hajfestékek összetevőjeként | 0,2% | – Nitrozáló rendszerekben nem használható – Maximális nitrozamin- koncentráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó |  |
+
+## 87 A 206. pont a 7/2010. (IX. 2.) NEFMI rendelet 4. § (2) bekezdése alapján 2011. február 15-én lép hatályba.
+
+## 88 A 207. pont a 7/2010. (IX. 2.) NEFMI rendelet 4. § (3) bekezdése alapján 2011. március 1-jén lép hatályba.
+
 ## (1) Ezek az anyagok használhatók önállóan vagy kombinációban, feltéve, hogy a kozmetikai termékben engedélyezett maximális szintjeik arányának összege nem haladja meg az 1-et.
 
 ## (2) Csak ha a koncentráció 0,05% fölött van.
@@ -506,13 +518,13 @@
 
 | 25 | 2,6-Dimetoxi-3,5-piridin-diamin (CAS szám 85679-78-3) és sói | Hajfesték oxidáló színező anyaga | 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% | Allergiás reakciót okozhat | 2010. 12. 31. |
 
-| 26 | HC Orange 2 (CAS szám 85765-48-6) és sói | Hajfesték nem oxidáló színező anyaga | 1,0% |  |  | 2010. 12. 31. |
+| 26 |  |  |  |  |  |  |
 
 | 27 | HC Violet 1 (CAS szám 82576-75-8) és sói | a) Hajfesték oxidáló színező anyaga b) Hajfesték nem oxidáló színező anyaga | a) 0,5% b) 0,5% | Hidrogén peroxiddal kombináltan, alkalmazás során a maximális koncentráció 0,25% |  | 2010. 12. 31. |
 
 | 28 |  |  |  |  |  |  |
 
-| 29 | 2-Hidroxi-etilamino-5-nitro- anisol (CAS szám 66095-81-6) és sói | Hajfesték nem oxidáló színező anyaga | 1,0% |  |  | 2010. 12. 31. |
+| 29 |  |  |  |  |  |  |
 
 | 30 |  |  |  |  |  |  |
 
@@ -554,6 +566,6 @@
 
 | 57−62 |  |  |  |  |  |  |
 
-4. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^85]
+4. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^87]
 
-[^85]: A 4. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (4) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 4. § (2) bekezdésének c) pontja, a 47/2007. (X. 31.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^87]: A 4. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (4) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 4. § (2) bekezdésének c) pontja, a 47/2007. (X. 31.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.
