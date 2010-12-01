@@ -1,4 +1,4 @@
-12. § (1) A szenátusi véleményezést követően a rektorhelyettest, a dékánt, a főtitkárt és a gazdasági (fő)igazgatót határozott időre a miniszter bízza meg, illetve nevezi ki.
+12. § (1) A szenátusi véleményezést követően a rektorhelyettest, a dékánt, a főtitkárt, a katonai főigazgatót és a gazdasági (fő)igazgatót határozott időre a miniszter bízza meg, illetve nevezi ki.
 
 (2) Rektorhelyettesi kinevezést vagy megbízást, dékáni kinevezést egyetemi tanár, egyetemi docens, főiskolai tanár, dékán-helyettesi megbízást főiskolai docens is kaphat.
 

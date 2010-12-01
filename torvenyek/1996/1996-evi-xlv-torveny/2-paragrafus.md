@@ -10,4 +10,4 @@ c) országos parancsnok: az a) pont szerinti fegyveres szerv országos parancsno
 
 d) szakmai gyakorlat: az intézmény tanterve által megkövetelt csapat-, területi vagy üzemi gyakorlat,
 
-e) vezető: a rektor (a továbbiakban: az intézmény vezetője), a dékán és helyetteseik, a gazdasági (fő)igazgató, az igazgatási feladatot ellátó szervezeti egység vezetője (a továbbiakban: főtitkár), az oktatási és a tudományos kutatási szervezeti egység vezetője, a kollégiumi igazgató.
+e) vezető: a rektor (a továbbiakban: az intézmény vezetője), a dékán és helyetteseik, a gazdasági (fő)igazgató, az igazgatási feladatot ellátó szervezeti egység vezetője (a továbbiakban: főtitkár), a katonai főigazgató, az oktatási és a tudományos kutatási szervezeti egység vezetője, a kollégiumi igazgató.
