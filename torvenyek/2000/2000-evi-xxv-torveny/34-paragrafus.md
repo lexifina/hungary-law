@@ -72,7 +72,7 @@ m)
 
 rendeletben meghatározza.
 
-(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a közösségi jegyzéket és annak változásait rendeletben tegye közzé.
+(5)
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter és a foglalkoztatáspolitikáért felelős miniszter, hogy a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját együttes rendeletben állapítsa meg.
 

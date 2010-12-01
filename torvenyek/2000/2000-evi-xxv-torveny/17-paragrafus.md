@@ -1,4 +1,4 @@
-## A veszélyes anyagok, illetve a veszélyes keverékek feliratozása címkézése
+## A veszélyes keverékek feliratozása, címkézése
 
 17. § (1) A külön jogszabályban meghatározott veszélyes keverékeket és azon keverékeket, amelyek legalább egy veszélyes anyagot tartalmaznak, e törvény és a végrehajtására kiadott külön jogszabály szerint kell osztályozni, csomagolni és feliratozni (címkézni). Bármely, a 29. § szerint bejelentéshez kötött tevékenység csak a (2)–(8) bekezdés vagy a CLP szerint feliratozott (címkézett) veszélyes anyaggal, illetve veszélyes keverékkel végezhető.
 
@@ -8,13 +8,13 @@ a) a termék nevét, a benne lévő veszélyes anyag megnevezését a közössé
 
 b) a forgalomba hozatalért felelős személy megnevezését és teljes címét, telefonszámát;
 
-c) a veszélyes anyag, illetve a veszélyes keverék használatával felmerülő veszély megjelölését és a veszély jelképét (szimbólumát);
+c) a veszélyes keverék használatával felmerülő veszély megjelölését és a veszély jelképét (szimbólumát);
 
-d) a veszélyes anyag, illetve a veszélyes keverék használatával járó különös kockázatokat megjelölő, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (R mondat);
+d) a veszélyes keverék használatával járó különös kockázatokat megjelölő, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (R mondat);
 
-e) a veszélyes anyag, illetve a veszélyes keverék biztonságos használatával kapcsolatos, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (S mondat);
+e) a veszélyes keverék biztonságos használatával kapcsolatos, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (S mondat);
 
-f) az Európai Közösségben (EU-ban) jegyzékbe vett veszélyes anyagok esetén az EINECS, illetve az ELINCS szerinti jegyzékszámot. Az e jegyzékekben szereplő anyagok esetében – a lakossági forgalomba kerülő veszélyes anyagok esetén 2002. január 1. napjától – a feliraton (címkén) szerepelnie kell az ,,EK felirat'' szavaknak is;
+f)
 
 g)
 
@@ -26,7 +26,7 @@ g)
 
 (6) A feliratot (címkét) a csomagolás egy, illetve több oldalán úgy kell elhelyezni, hogy ha a csomagot szabályosan teszik le, azt vízszintesen lehessen olvasni.
 
-(7) A veszélyes anyagok és veszélyes keverékek felirata (címkéje) nem tartalmazhat olyan kifejezést vagy megjelölést, amely a termék veszélyességének nem megfelelő értékelését eredményezheti, így különösen nem utalhat a termék ártalmatlanságára vagy veszélytelenségére.
+(7) A veszélyes keverékek felirata (címkéje) nem tartalmazhat olyan kifejezést vagy megjelölést, amely a termék veszélyességének nem megfelelő értékelését eredményezheti, így különösen nem utalhat a termék ártalmatlanságára vagy veszélytelenségére.
 
 (8)
 
