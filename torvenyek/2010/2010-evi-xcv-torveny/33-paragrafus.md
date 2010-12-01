@@ -1,0 +1,3 @@
+33. § A Hjt. 178. § (1) bekezdés helyébe a következő rendelkezés lép:
+
+„(1) A kártérítési eljárás elrendelését követő 60 napon belül a 177. § (1) bekezdésében meghatározott személy a kártérítésre kötelezésről vagy annak mellőzéséről indokolt határozattal dönt. Ha az eljárás alá vonttal szemben a kárigénnyel összefüggően büntetőeljárás indult, a káreljárást a büntetőeljárás jogerős befejezéséig fel kell függeszteni, és a határozathozatalra megállapított 60 napos határidő a büntetőeljárás jogerős befejezésekor kezdődik. Az eljárás alá vont tartós távolléte, illetve egészségügyi szabadsága esetén azok időtartamára a káreljárás felfüggeszthető. A felfüggesztés időtartama nem számít bele a határozathozatalra megállapított 60 napos határidőbe.”
