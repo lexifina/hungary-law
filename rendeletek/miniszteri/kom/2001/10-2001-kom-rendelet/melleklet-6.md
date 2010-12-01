@@ -1,20 +1,18 @@
-## A rendeletben előforduló és a veszélyes anyagok kockázataira utaló ,,R'' mondatok értelmezése
+## A rendeletben előforduló és a veszélyes anyagok kockázataira utaló R-mondatok jelentése
 
-## A veszélyes anyagok kockázataira utaló R-mondatok jelentése a külön jogszabályok megfelelő alkalmazásával:
+## 1. R40 = a rákkeltő hatás korlátozott mértékben bizonyított,
 
-## R40 = a rákkeltő hatás korlátozott mértékben bizonyított,
+## 2. R45 = rákot okozhat (karcinogén hatású lehet),
 
-## R45 = rákot okozhat (karcinogén hatású lehet),
+## 3. R46 = öröklődő genetikai károsodást okozhat (mutagén hatású lehet),
 
-## R46 = öröklődő genetikai károsodást okozhat (mutagén hatású lehet),
+## 4. R49 = belélegezve rákot okozhat (karcinogén hatású lehet),
 
-## R49 = belélegezve rákot okozhat (karcinogén hatású lehet),
+## 5. R60 = a fertilitást (fogamzóképességet vagy nemzőképességet) károsíthatja,
 
-## R60 = a fertilitást (fogamzóképességet vagy nemzőképességet) károsíthatja,
+## 6. R61 = a születendő gyermekre ártalmas lehet,
 
-## R61 = a születendő gyermekre ártalmas lehet.
-
-## Az R jelű anyagok felsorolása az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló, az Egészségügyi Közlöny 2000. november 30-i, L. évfolyam, 22. számában közzétett 8004/2000. (EüK. 22.) EüM tájékoztatóban található. Az ott felsorolt anyagok közül e rendeletet csak a fenti hat R jelű vegyületcsoport és ezek közül is csak a VOC anyagok érintik.
+## 7. R68 = maradandó egészségkárosodást okozhat.
 
 6. számú melléklet a 10/2001. (IV. 19.) KöM rendelethez
 

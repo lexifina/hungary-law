@@ -20,6 +20,6 @@
 
 ## A kibocsátás-csökkentési terv kidolgozása során, a technológia kiválasztásánál törekedni kell a felhasznált termék szilárdanyag tartalmának növelésére és az oldószertartalom csökkentésére.
 
-5. számú melléklet a 10/2001. (IV. 19.) KöM rendelethez[^15]
+5. számú melléklet a 10/2001. (IV. 19.) KöM rendelethez[^19]
 
-[^15]: Az 5. számú melléklet a 21/2005. (VIII. 26.) KvVM rendelet 8. §-a szerint módosított szöveg.
+[^19]: Az 5. számú melléklet a 7/2010. (III. 31.) KvVM rendelet 1. § (5) bekezdésével megállapított szöveg.

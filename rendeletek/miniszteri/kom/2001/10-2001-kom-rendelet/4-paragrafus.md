@@ -24,7 +24,7 @@ b) Az olyan tevékenységek esetében, amelyek a 2. számú melléklet szerint n
 
 (4) A (3) bekezdésben megadott felmentésekről a környezetvédelmi hatóság nyilvántartást vezet.
 
-(5)[^5] Az olyan anyagokat vagy készítményeket, amelyek rákkeltőnek, mutagénnek vagy toxikusnak minősülnek, és VOC tartalmuk miatt a veszélyes anyagok 5. számú melléklet szerinti kockázataira utaló R45, R46, R49, R60, R61 megjelölést (R-mondat) viselik, figyelembe véve az e rendelet 5. §-ában felsorolt szempontokat, kevésbé veszélyes anyagokkal vagy készítményekkel ki kell váltani, a műszaki és gazdasági szempontok figyelembevételével, a legrövidebb időn belül. Ezen anyagok kiváltására a felhasználókat intézkedési terv készítésére és végrehajtására kötelezi a környezetvédelmi hatóság. A végrehajtási határidőket tartalmazó intézkedési terv elkészítésének határideje 2007. április 30.
+(5)[^5] Az olyan anyagokat vagy keverékeket, amelyekhez rákkeltő, mutagén vagy reprodukciós toxicitásúnak besorolt VOC tartalmuk miatt az 5. melléklet szerinti kockázatokra utaló H340, H350, H350i, H360D, H360F vagy az R45, R46, R49, R60 és R61 R-mondatok vannak rendelve, vagy ezek feltüntetése szükséges, – figyelembe véve a műszaki és gazdasági, valamint az 5. §-ban felsorolt szempontokat – fel kell váltani kevésbé ártalmas anyagokkal vagy keverékekkel.
 
 (6)[^6] Az (5) bekezdés szerinti VOC véggáz kibocsátásoknál, ahol az R45, R46, R49, R60, R61 megjelölést viselő vegyületek összességének tömegárama nagyobb vagy egyenlő 10 g/h-val, a VOC véggáz kibocsátási határérték a 2.1. számú mellékletben meghatározott határértéktől eltérően 2 mg/m3 (273,15 K hőmérséklet és 101,3 kPa nyomás esetén). A kibocsátási határérték az e bekezdésben felsorolt R jelű VOC vegyületek összes tömegére vonatkozik.
 
@@ -51,7 +51,7 @@ _____
 * mg C/Nm3: a véggáz egy normálköbméterében lévő VOC által tartalmazott karbon (C) tömege mg mértékegységben.
 
 [^4]: A 4. § (1) bekezdésének a) pontja a 21/2005. (VIII. 26.) KvVM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 4. § (5) bekezdésének harmadik mondata a 42/2006. (X. 6.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § (5) bekezdése a 7/2010. (III. 31.) KvVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 4. § (6) bekezdésének második mondata a 21/2005. (VIII. 26.) KvVM rendelet 2. §-ával megállapított szöveg.
 [^7]: A 4. § (7) bekezdése a 7/2010. (III. 31.) KvVM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^8]: A 4. § (9) bekezdésének b) pontja a 21/2005. (VIII. 26.) KvVM rendelet 4. §-ával megállapított szöveg.

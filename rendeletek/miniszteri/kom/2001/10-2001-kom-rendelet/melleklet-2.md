@@ -104,13 +104,13 @@
 
 ## Gyógyszerészeti termékek kémiai szintézise, fermentálása, extrahálása, formulálása és késztermékké alakítása, és amennyiben ugyanazon a telephelyen végzik, a közbenső (intermedier) termékek gyártása.
 
-## Az alkalmazott kifejezések:
+## Az alkalmazott kifejezések:[^14]
 
-## bevonat: bármely felvitt réteg – beleértve valamennyi szerves oldószert vagy olyan készítményt, ami a megfelelő felvitel érdekében szerves oldószereket tartalmaz –, amit dekorációs, védő vagy más funkcionális hatás biztosítására használnak a munkatárgy felületén;
+## bevonat: bármely felvitt réteg – beleértve valamennyi szerves oldószert vagy olyan keveréket, ami a megfelelő felvitel érdekében szerves oldószereket tartalmaz –, amit dekorációs, védő vagy más funkcionális hatás biztosítására használnak a munkatárgy felületén;
 
-## ragasztóanyag: bármely olyan készítmény, beleértve minden szerves oldószert vagy olyan készítményt, ami a megfelelő felvitel érdekében szerves oldószereket tartalmaz, amit egy termék különálló részeinek összeragasztására használnak;
+## ragasztóanyag: bármely olyan keverék, beleértve minden szerves oldószert vagy olyan keveréket, ami a megfelelő felvitel érdekében szerves oldószereket tartalmaz, amit egy termék különálló részeinek összeragasztására használnak;
 
-## tinta vagy nyomdafesték: bármely olyan készítmény, beleértve minden szerves oldószert vagy a megfelelő felvitel érdekében szerves oldószereket tartalmazó készítményt, amit nyomtatásnál használnak szöveg vagy képek felületre történő nyomtatására;
+## tinta vagy nyomdafesték: bármely olyan keverék, beleértve minden szerves oldószert vagy a megfelelő felvitel érdekében szerves oldószereket tartalmazó készítményt, amit nyomtatásnál használnak szöveg vagy képek felületre történő nyomtatására;
 
 ## lakk: utolsónak felvitt réteg, mely általában átlátszó bevonat.
 
@@ -168,11 +168,11 @@
 
 | >1000 | 150 | 3 | 3 | oldószerbevitel 3%-a |
 
-| 18. | Gumi feldolgozás (>15) |  | 201 | 252 | 252 | oldószerbevitel 25%-a | 1 Ha olyan technológiákat használnak, amelyeknél megengedett a visszanyert oldószerek újrafelhasználása, a kibocsátási határérték a véggázokban 150 mg C/Nm3. 2 A diffúz kibocsátás határértéke nem tartalmazza azt az oldószermennyiséget, amelyet a termék vagy készítmény összetevőjeként zárt tartályban értékesítenek. |
+| 18. | Gumi feldolgozás (>15) |  | 201 | 252 | 252 | oldószerbevitel 25%-a | 1 Ha olyan technológiákat használnak, amelyeknél megengedett a visszanyert oldószerek újrafelhasználása, a kibocsátási határérték a véggázokban 150 mg C/Nm3. 2 A diffúz kibocsátás határértéke nem tartalmazza azt az oldószermennyiséget, amelyet a termék vagy keverék összetevőjeként zárt tartályban értékesítenek. |
 
 | 19. | Növényolaj és állati zsír kinyerési (extrahálás) és növényolaj finomítási tevékenységek (>10) |  |  |  |  | Állati zsír: 1,5 kg/t Ricinusolaj: 3 kg/t Repcemag: 1 kg/t Napraforgó: 1 kg/t Szójabab (normál őrlés, sajtolás): 0,8 kg/t Szójabab (fehér üledék): 1,2 kg/t Egyéb magvak és növényi anyagok: – 3 kg/t1 – 1,5 kg/t2 – 4 kg/t3 | 1 Olyan berendezésekre, ahol adagonként dolgozzák fel a magvakat, illetve egyéb növényi anyagokat, a környezetvédelmi hatóság, minden esetet külön vizsgálva, a teljes kibocsátás határértékét az elérhető legjobb technika alapján állapítja meg. 2 Minden frakcionálási folyamatra, eljárásra vonatkozik, kivéve a zagy (kötőanyag) eltávolítást. 3 Zagy (kötőanyag) eltávolításra vonatkozó határérték. |
 
-| 20. | Gyógyszerészeti termékek gyártása (>50) |  | 201 | 52 | 152 | az oldószer-bevitel 5%-a | az oldószer- bevitel 15%-a | 1 Ha olyan eljárásokat alkalmaznak, amelyeknél a visszanyert oldószerek újrafelhasználása megengedett, a véggáz kibocsátás határértéke 150 mg C/Nm3. 2 A diffúz kibocsátási határértékek nem tartalmazzák azt az oldószermennyiséget, amelyet a termék vagy készítmény részeként, zárt tartályban értékesítenek. |
+| 20. | Gyógyszerészeti termékek gyártása (>50) |  | 201 | 52 | 152 | az oldószer-bevitel 5%-a | az oldószer- bevitel 15%-a | 1 Ha olyan eljárásokat alkalmaznak, amelyeknél a visszanyert oldószerek újrafelhasználása megengedett, a véggáz kibocsátás határértéke 150 mg C/Nm3. 2 A diffúz kibocsátási határértékek nem tartalmazzák azt az oldószermennyiséget, amelyet a termék vagy keverék részeként, zárt tartályban értékesítenek. |
 
 ## Az alkalmazott kifejezések:
 
@@ -183,3 +183,4 @@
 2.2. számú melléklet
 
 [^13]: Az 1. számú melléklet 3. pontjának a) alpontját a 25/2006. (II. 3.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^14]: Az 1. számú melléklet Az alkalmazott kifejezések rész a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg [az e módosító rendelet 2. § (1) bekezdés a) pont ac) alpontjával elrendelt módosítás, amely szerint a „készítmények” szövegrész helyébe „keverékek” szöveg lép, nem vezethető át].
