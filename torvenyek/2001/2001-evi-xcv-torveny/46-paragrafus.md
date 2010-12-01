@@ -24,7 +24,7 @@ h) a nem katonai felsőoktatási intézményeknél,
 
 i) a tudományos (kutató) és kulturális intézményeknél,
 
-j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szerveknél,
+j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetnél, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetnél, illetve társadalmi szervezetnél,
 
 k) a bíróságoknál és az Országos Igazságszolgáltatási Tanács Hivatalában,
 
@@ -39,3 +39,9 @@ l) az egészségügyi intézményeknél
 (6) Katonai bíró és katonai ügyész a (3) bekezdés g) pontja alapján csak az igazságügyért felelős miniszter által vezetett minisztériumban teljesíthet szolgálatot.
 
 (7) A katonai-szakmai ismeretek (5) bekezdés szerinti szükségessége vonatkozásában az ország fegyveres védelmére történő felkészítéséből, a béke- és minősített időszaki honvédségi feladatrendszerből, különösen a rendeltetés szerinti alkalmazás és a szövetségi kötelezettségek sajátosságaiból következő, különleges ismereteken, jártasságokon, készségeken és képességeken, szakmai gyakorlaton, tapasztalaton alapuló követelményeket, illetve a feladatellátás függelmi rendszerhez és fokozott felelősséghez kötöttségét kell érvényesíteni.
+
+(8) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, katonai feladat végrehajtása közben meghatározott egészségügyi tevékenységet a harctéri egészségügyi katonán túl harctéri életmentő katona is végezhet
+
+a) a műveleti területen, továbbá
+
+b) a katonai feladatban közvetlenül közreműködő személyeken.

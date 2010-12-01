@@ -1,8 +1,8 @@
 ## A véleménynyilvánítás szabadsága
 
-21. § (1) A hivatásos állomány tagja nem lehet tagja pártnak, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti és az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat.
+21. § (1)
 
-(2) A szerződéses állomány tagjának párttagságát szolgálatteljesítése alatt fel kell függesztenie.
+(2) A szerződéses állomány tagjának párttagságát szolgálatteljesítése alatt fel kell függesztenie. Párt nevében vagy érdekében – szolgálati viszonyának szüneteltetése idején – csak az országgyűlési, az európai parlamenti, valamint a helyi önkormányzati képviselők és polgármesterek, illetve kisebbségi önkormányzati képviselő választáson jelöltként való részvétele során vállalhat közszereplést.
 
 (3) Az állomány tagja a részére kiadott parancsot, intézkedést nem bírálhatja, azokról a jog- és érdekérvényesítő tevékenysége körén kívül véleményt nem mondhat, a szolgálati rendet és a fegyelmet sértő nyilatkozatot nem tehet, a sajtónyilvánosság igénybevételével hivatalos eljárásban magánvéleményt nem nyilváníthat.
 

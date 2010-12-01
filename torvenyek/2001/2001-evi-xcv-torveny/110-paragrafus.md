@@ -2,7 +2,7 @@
 
 110. § (1) Az állomány tagja illetménykiegészítésre jogosult, ha
 
-a) a minisztériumban, a minisztérium hivatalaiban, ügynökségeiben, valamint országos parancsnokságon,
+a) a minisztériumban, a minisztérium hivatalaiban, ügynökségeiben, igazgatóságaiban, valamint országos parancsnokságon,
 
 b) a középszintű irányító szervnél (parancsnokságnál, igazgatóságnál) és a velük azonosnak tekinthető szervnél,
 

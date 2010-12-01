@@ -2,7 +2,15 @@
 
 103. § (1) Az állomány tagjának kérelmére illetmény nélküli szabadságot kell engedélyezni:
 
-a) a szülési szabadság letöltése után a gyermek gondozása céljából a gyermek 3. életévének, tartósan beteg vagy súlyosan fogyatékos gyermek esetében a 12. életéve betöltéséig;
+a) a gyermek gondozása céljából
+
+aa) a szülési szabadság letöltését követő naptól,
+
+ab) az állomány férfi tagjának a gyermek születésétől,
+
+ac) örökbefogadott vagy nevelt gyermek esetén az örökbefogadás vagy a nevelésbe vétel hivatalosan igazolt időpontjától
+
+a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás évének végéig –, tartósan beteg vagy súlyosan fogyatékos gyermek esetében a 12. életéve betöltéséig;
 
 b) a gyermek betegsége esetén az otthoni ápolás érdekében a gyermek 12 éves koráig a betegség tartamára;
 

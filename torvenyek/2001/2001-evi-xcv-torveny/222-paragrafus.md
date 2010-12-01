@@ -1,6 +1,6 @@
 ## Határozat elleni fellebbezés
 
-222. § (1) Az állomány tagja a honvédségen belüli eljárás során fegyelmi, kártérítési, a betegségnek a szolgálati kötelmekkel való összefüggését érintő, valamint nyugdíj ügyben hozott első fokú határozat ellen – ha e törvény eltérően nem rendelkezik – a kézbesítéstől számított 15 napon belül fellebbezést nyújthat be.
+222. § (1) Az állomány tagja a fegyelmi, a kártérítési, a nyugdíj-, valamint a balesetnek, vagy a betegségnek a szolgálati kötelmekkel való összefüggését érintő ügyben hozott első fokú határozat ellen – ha e törvény eltérően nem rendelkezik – a kézbesítéstől számított 15 napon belül fellebbezést nyújthat be.
 
 (2) Az állomány tagja halálának a szolgálati kötelmekkel való összefüggése kérdésében hozott első fokú határozat ellen a közeli hozzátartozó nyújthat be fellebbezést.
 

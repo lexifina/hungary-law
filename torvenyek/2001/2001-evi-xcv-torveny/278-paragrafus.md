@@ -1,1 +1,0 @@
-278. § Az előmenetelhez – e törvény szerint – szükséges minősítéseket első alkalommal 2003. évben kell elkészíteni. Az eddig az időpontig esedékes előmenetelhez az éves teljesítményértékelést kell figyelembe venni.

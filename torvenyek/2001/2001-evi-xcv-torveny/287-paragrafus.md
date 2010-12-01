@@ -56,6 +56,8 @@ fd) a Honvédség létszámigénye kielégítését támogató, ösztönző rend
 
 fe) a legénységi állományúakra vonatkozó eltérő szabályokat, ideértve a szolgálat érdekében áthelyezettek házastársára, gyermekére tekintettel folyósítható juttatások szabályait;
 
+ff) az étkezési hozzájárulás formáját és juttatásának rendjét;
+
 g) az állomány pihentetésének, üdültetésének rendjét, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokat;
 
 h) a nyugellátásra, baleseti járadékra, továbbá a társadalombiztosítási szabályok szerinti ellátáson kívüli kiegészítő, térítéses szolgáltatásokat és az azokra jogosultak körét, a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgáltatások térítésének szabályait;
@@ -70,4 +72,8 @@ l) a toborzási rendszer kialakítását, feladatait, feltételrendszerét és e
 
 (3) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg az Európai Unió magyar soros elnökségében közvetlenül résztvevő katonai szolgálati jogviszonyban állók kiválasztására, valamint többletmunkájukhoz és képzési többlet terhükhöz kapcsolódó jutalmazásuk/anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat.
 
-(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel együttes rendeletben szabályozza a Magyar Honvédségnél alkalmazandó védőoltásokra vonatkozó szabályokat.
+(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel együttes rendeletben szabályozza
+
+a) azon fertőző betegségek körét, amelyek esetében a megbetegedési veszély, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, így különösen a szolgálati célból külföldre történő kiutazáskor a kötelező védőoltás elrendelésének van helye, továbbá a Magyar Honvédségnél járványügyi feladatokat ellátó szerv védőoltásokkal kapcsolatos feladatait, az oltóanyagok beszerzésének és a védőoltások felvételének rendjét,
+
+b) a katonai feladat végrehajtása közben elvégezhető egészségügyi tevékenységek, az egészségügyi tevékenységek elvégzéséhez szükséges egészségügyi szakirányú szakmai továbbképzés körét, a szakkiképzési követelményeket, azok szakmai tartalmát, illetve kijelölje az elvégezhető egészségügyi tevékenységekhez szükséges egészségügyi szakirányú szakmai továbbképzésre és a szakkiképzés lefolytatására jogosított intézmények körét.

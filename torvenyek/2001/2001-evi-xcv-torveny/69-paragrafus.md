@@ -2,7 +2,7 @@
 
 69. § (1) A hivatásos állományba visszavételre a szolgálat érdekében az 56. § a) pontja és az 59. § (1) bekezdésének a)–b) pontja, a 63. § (1) bekezdése alapján, vagy a korábbi szabályok szerinti kérelmére megszűnt szolgálati viszony esetében van lehetőség.
 
-(2) Akinek a szolgálati viszonya a 62. § (1) bekezdés c) pontja alapján szűnt meg, mandátumának lejártát követően – 30 napon belül előterjesztett kérelmére – az állományba vissza kell venni.
+(2)
 
 (3) Akinek a rokkantságát a felülvizsgálat során megszüntették, az állományba akkor vehető vissza, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek.
 

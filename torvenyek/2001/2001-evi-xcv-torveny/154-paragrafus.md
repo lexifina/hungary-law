@@ -1,4 +1,4 @@
-154. § (1) A fegyelmi vizsgálat befejezésekor a vizsgáló az állomány eljárás alá vont tagját és képviselőjét felhívja, hogy az iratismertetésen – a felhívásban megjelölt időpontban – jelenjen meg.
+154. § (1) A fegyelmi vizsgálat befejezésekor a vizsgáló az állomány eljárás alá vont tagját felhívja, hogy az iratismertetésen – a megjelölt időpontban – jelenjen meg. Ha az állomány eljárás alá vont tagjának van képviselője, a vizsgáló a képviselőt hívja fel az iratismertetésen való megjelenésre, az állomány eljárás alá vont tagját pedig értesíti az iratismertetésről. Az értesítést, a felhívást a címzetteknek az iratismertetés előtt legalább 3 nappal kézbesíteni kell.
 
 (2) Az iratismertetés során az (1) bekezdésben megjelölt személyek bizonyítási indítványt tehetnek. A bizonyítás felvételéről vagy mellőzéséről a vizsgáló dönt. A döntés ellen külön jogorvoslatnak helye nincs.
 

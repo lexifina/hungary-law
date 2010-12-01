@@ -24,7 +24,9 @@ j) akinek más szervhez történő vezénylését megszüntették, beosztásba h
 
 k) aki – vezénylési határozat alapján – egybefüggően egy évet meghaladó időtartamra hosszabbított külföldi szolgálatot teljesít, annak megszűnéséig;
 
-l) akinek a gyermekgondozási segély illetmény nélküli szabadság igénybevétele nélkül történő folyósítása időszakában beosztása megszűnt, a felmentési védelem idejére.
+l) akinek a gyermekgondozási segély illetmény nélküli szabadság igénybevétele nélkül történő folyósítása időszakában beosztása megszűnt, a felmentési védelem idejére;
+
+m) aki az 59/B. § szerinti esetben az előterjesztési javaslattal szemben bírósághoz fordult, a kereset jogerős elbírálásáig, de legfeljebb a hivatásos szolgálat felső korhatáráig.
 
 (2) Az (1) bekezdés alá tartozók esetében – szolgálati beosztás hiányában – a beosztás szintje az utolsó betöltött beosztással azonos, ha ilyennel nem rendelkezett, akkor viselt rendfokozatának megfelelő.
 
@@ -35,3 +37,5 @@ l) akinek a gyermekgondozási segély illetmény nélküli szabadság igénybev�
 (5) Az állomány (1) bekezdés b), e), f) és l) pontja alá tartozó tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
 
 (6) A munkába állás elősegítése érdekében az (1) bekezdés b), e), f) és l) pontjaiban szereplők adatait – rendelkezési állományba vétellel egyidejűleg – meg kell küldeni a központi közszolgálati nyilvántartás számára.
+
+(7) Az állomány tábornoki rendfokozatú, (1) bekezdés m) pontja szerint rendelkezési állományban lévő tagjának a 117. § (1) bekezdése szerint távolléti díj jár, amelynek legfeljebb 50%-át a munkáltatói jogkört gyakorló elöljáró visszatartja. A 117. § (2) bekezdést megfelelően alkalmazni kell, amennyiben az állomány tábornoki rendfokozatú tagjának szolgálati viszonya az 59/B. § alapján nem kerül megszüntetésre.

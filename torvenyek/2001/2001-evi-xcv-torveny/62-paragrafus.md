@@ -27,3 +27,5 @@ k) a 41/A. § (1) bekezdés b) pontjában foglalt igazolási kötelezettség ism
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
 (3) Az (1) bekezdés h) pontját akkor kell alkalmazni, ha a további állampolgárság megszerzésére az állomány tagjának közrehatására, vagy kifejezett beleegyezésével került sor, és az befolyásolja közreműködését a Honvédség feladatainak ellátásában.
+
+(4) Az (1) bekezdés c) pontja a hivatásos állomány tagjára nem alkalmazható.

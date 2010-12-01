@@ -101,3 +101,9 @@ j) külföldi állomásozás.
 (39) Készenléti jellegű beosztás: azok a külön jogszabályban meghatározott beosztások, ahol a beosztási feladat nem kíván állandó szolgálatteljesítést a szolgálat teljes időtartama alatt, hanem olyan igénybevétellel jár, amely részben lehetővé teszi az állomány tagjának pihentetését.
 
 (40) Műveleti terület: a Hvt. 204. § (1) bekezdésének g) pontjában meghatározott terület.
+
+(41) Harctéri egészségügyi katona: az állomány azon tagja, aki egészségügyi szakképesítéssel rendelkezik, és az ehhez szükséges, az egészségügyről szóló törvény szerinti egészségügyi szakirányú szakmai továbbképzésen eredményesen részt vett.
+
+(42) Harctéri életmentő katona: az állomány azon tagja, aki egészségügyi szakképesítéssel nem rendelkezik, azonban a Magyar Honvédség, illetve a szövetséges fegyveres erők által szervezett egészségügyi szakkiképzésen eredményesen részt vett.
+
+(43) Nagy értékű képzés: az olyan képzés, amely esetén a tanulmányi támogatás pénzben kiszámított havi összege meghaladja a köztisztviselői illetményalap tízszeresét.

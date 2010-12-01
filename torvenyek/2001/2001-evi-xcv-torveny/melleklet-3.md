@@ -82,7 +82,7 @@ vonatkozó döntések
 
 |
 
-4.1. Szolgálati beosztásból felfüggesztés
+4.1. Szolgálati beosztásból felfüggesztés, illetményvisszatartás
 
 – tábornok, ezredes
 

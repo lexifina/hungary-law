@@ -44,7 +44,7 @@ d) akinek szolgálati viszonya három évnél rövidebb szolgálati idő alatt s
 
 (5) A szerződéses katona részére a próbaidő leteltekor – a katonai és rendvédelmi oktatási intézményben végzettek esetében az első havi illetmény kifizetésével egyidejűleg – a leszerelési segély terhére, toborzópénz címén kéthavi távolléti díjnak megfelelő összegű előleget kell folyósítani.
 
-(6) Az a szerződéses katona, akinek szolgálati viszonya a vállalt idő letelte előtt szűnik meg, az (5) bekezdés szerinti előlegből a le nem szolgált időre eső összeget – az 59. § (1) bekezdés a) és b) pontjában foglalt kivételekkel – köteles visszafizetni.
+(6) Az a szerződéses katona, akinek szolgálati viszonya a vállalt idő letelte előtt szűnik meg, az (5) bekezdés szerinti előlegből a le nem szolgált időre eső összeget – az 56. § g) és i) pontjában, valamint az 59. § (1) bekezdés a) és b) pontjában foglalt kivételekkel – köteles visszafizetni.
 
 (7) Nem jár leszerelési segély az után a szerződéses katona után, akinek a szolgálati viszonya az 56. § g) pontja alapján szűnt meg.
 
@@ -78,7 +78,7 @@ g) a 9. év letöltésekor 6,0 havi,
 
 h) a 10. év letöltésekor 7,0 havi,
 
-i) a 11. év letöltésekor 8,0 havi
+i) a 11. év letöltésekor, vagy az ezt követő első szerződés-hosszabbításkor 8,0 havi
 
 távolléti díjjal azonos, amit azonban a korábban kifizetett szerződés-hosszabbítási díj havi mértékeivel csökkenteni kell.
 

@@ -1,4 +1,4 @@
-146. § (1) Az egyszerű ténybeli megítélésű, kisebb tárgyi súlyú fegyelemsértés esetén, ha az elkövető a fegyelemsértést beismerte, a vizsgáló megbízása mellőzhető. A fegyelemsértés ebben az esetben az eljárás alá vont személynek a fegyelmi eljárást elrendelő parancsnok által történt meghallgatása alapján is elbírálható (egyszerűsített eljárás).
+146. § (1) Az egyszerű ténybeli megítélésű, kisebb tárgyi súlyú fegyelemsértés esetén, ha az elkövető a fegyelemsértést beismerte, a vizsgáló megbízása mellőzhető. A fegyelmi eljárást ebben az esetben is határozattal kell elrendelni, azonban a fegyelemsértés az eljárás alá vont személynek a fegyelmi eljárást elrendelő parancsnok által történt meghallgatása alapján is elbírálható (a továbbiakban: egyszerűsített eljárás).
 
 (2) Az egyszerűsített eljárásban megállapított fegyelmi felelősség esetén csak a 135. § (1) bekezdés a)–c) pontjaiban meghatározott fenyítés szabható ki.
 

@@ -12,4 +12,4 @@
 
 (6) A katonai felsőoktatási intézmény oktatói és kutatói beosztásaira az állomány külön jogszabályban előírt feltételekkel rendelkező tagjai korlátozás nélkül pályázhatnak. A pályázat elnyerése esetén őket a szolgálat érdekében kell a felsőoktatási intézménybe kinevezni vagy áthelyezni.
 
-(7) A Honvédség egészségügyi intézményeiben és az Állami Egészségügyi Központban – ha jogszabály eltérően nem rendelkezik – a vezető beosztások kizárólag pályázat útján kerülhetnek betöltésre.
+(7) A Honvédség egészségügyi intézményeiben és a Honvédkórház-Állami Egészségügyi Központban (Honvéd, Rendészeti és Vasútegészségügyi Központ) – ha jogszabály eltérően nem rendelkezik – a vezető beosztások kizárólag pályázat útján kerülhetnek betöltésre.

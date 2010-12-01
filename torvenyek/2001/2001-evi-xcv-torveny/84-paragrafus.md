@@ -78,4 +78,4 @@
 
 (3) A speciális beosztásokat és az azokban elérhető legmagasabb rendfokozatokat a miniszter jogszabályban határozza meg.
 
-(4) Az állomány speciális beosztást betöltő tagja – az általa betöltött beosztásban elérhető legmagasabb rendfokozat eléréséig – a 83. § (9) bekezdésében meghatározott kivétellel, kizárólag a (2) bekezdés szerinti meghatározott várakozási idő leteltekor lép elő a következő rendfokozatba.
+(4) Az állomány speciális beosztást betöltő tagja – az általa betöltött beosztásban elérhető legmagasabb rendfokozat eléréséig – a 83. § (9) bekezdésben meghatározott kivétellel, a (2) bekezdés szerinti meghatározott várakozási idő leteltekor, illetve azt követően az előmeneteli feltételek teljesülése esetén lép elő a következő rendfokozatba.
