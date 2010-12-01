@@ -36,7 +36,7 @@ h) rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása tilos;
 
 i) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az olajretek rovarirtását;
 
-j) szálas pillangós takarmánynövények betakarítása esetén:
+j)[^77] szálas pillangós takarmánynövények betakarítása esetén:
 
 ja) minden kaszáláskor táblánként legalább 5%, de legfeljebb 10% kaszálatlan területet kell hagyni, a tábla szélével érintkezően,
 
@@ -44,9 +44,9 @@ jb) madárbarát kaszálási módszert kell alkalmazni,
 
 jc) kaszálásnál vadriasztó lánc használata kötelező,
 
-jd) kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját,
+jd) a bejelentési kötelezettség alá eső adott évi első kaszálás és július 31-e között végzett kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját,
 
-je) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
+je) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
 
 k) a vetésváltás szabályainak betartása;
 
@@ -59,3 +59,5 @@ n) a célprogram 5 éve alatt a célprogramba bevitt teljes területen a követk
 o) a célprogram 5 éve alatt legfeljebb egyszer végezhető középmély- vagy mélylazítás.
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 220 euró/ha-nak megfelelő forintösszeg.
+
+[^77]: A 63. § (4) bekezdés j) pontja a 35/2010. (XI. 30.) VM rendelet 21. §-ával megállapított szöveg.

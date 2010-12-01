@@ -18,7 +18,7 @@ e) szója, olajrepce, napraforgó nem követheti egymást a vetésváltásban.
 
 a) az ugaroltatás ideje alatt tilos műtrágya és növényvédő szer alkalmazása;
 
-b) legalább 10 cm magas tarló alkalmazása mellett kaszálást vagy szárzúzást évente, június 15-ét követően lehet végezni;
+b)[^15] legalább 10 cm magas tarló hagyása mellett kaszálást vagy szárzúzást évente, június 15-ét követően lehet végezni, a kaszálást követően a kaszálék a területről lehordható;
 
 c) a zöldugart július 30. után lehet feltörni, a növényi részek talajba forgatásával;
 
@@ -30,9 +30,9 @@ f) a pihentetett terület nem vehető figyelembe zöldugarként.
 
 (5) A 29. § (3) bekezdése szerinti ritka növényfajták termesztése esetén egy adott kötelezettségvállalással érintett egybefüggő területen belül a ritka növényfajtát tartalmazó tábla mellett nem lehet ugyanolyan fajú, nem ritka növényfajtával borított táblát elhelyezni.
 
-(6)[^15] Az 58. § (4) bekezdés d) és g) pontja, az 59. § (4) bekezdés e) és h) pontja, a 60. § (4) bekezdés e) és h) pontja, a 65. § (4) bekezdés d) és g) pontja, valamint a 66. § (4) bekezdés d) és g) pontja szerinti előírásokat nem kell alkalmazni azon táblára vonatkozóan, amelyen a teljes támogatási időszak alatt évelő szálas pillangós takarmánynövény termesztése történik.
+(6)[^16] Az 58. § (4) bekezdés d) és g) pontja, az 59. § (4) bekezdés e) és h) pontja, a 60. § (4) bekezdés e) és h) pontja, a 65. § (4) bekezdés d) és g) pontja, valamint a 66. § (4) bekezdés d) és g) pontja szerinti előírásokat nem kell alkalmazni azon táblára vonatkozóan, amelyen a teljes támogatási időszak alatt évelő szálas pillangós takarmánynövény termesztése történik.
 
-(7)[^16] A 3. § (1) bekezdés a) pontja szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
+(7)[^17] A 3. § (1) bekezdés a) pontja szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
 
 a) zöldtrágyázás megvalósítása esetén a növényállomány beforgatását megelőző 15 napon belül a zöldtrágyázásra kerülő növényfajt, a munkálat végzésének helyét és időpontját;
 
@@ -40,5 +40,6 @@ b) másodvetés megvalósítása esetén a munkálatok elvégzését követő 15
 
 c) középmély lazítás megvalósítása esetén a munkálat elvégzését követő 15 napon belül a megvalósítás helyét és időpontját.
 
-[^15]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
-[^16]: A 16. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+[^15]: A 16. § (4) bekezdés b) pontja a 35/2010. (XI. 30.) VM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+[^17]: A 16. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.

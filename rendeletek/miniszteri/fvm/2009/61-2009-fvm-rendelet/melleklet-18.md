@@ -1,6 +1,6 @@
 ## Növényvédelmi minimumkövetelmények
 
-## A.)[^75] 2010. december 31-ig minimumkövetelményként figyelembe veendő előírások
+## A.)[^96] 2010. december 31-ig minimumkövetelményként figyelembe veendő előírások
 
 ## 1.) Engedélyköteles terméket Magyarországon csak az élelmiszerlánc-felügyeleti szerv által kiadott engedély alapján, az élelmiszerláncról és hatósági felügyeletről szóló 2008. évi XLVI. törvény végrehajtására kiadott külön jogszabály szerint lehet forgalomba hozni és felhasználni.
 
@@ -22,4 +22,4 @@
 
 18. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
 
-[^75]: A 17. számú melléklet A.) pontja a 79. § (2) bekezdése alapján hatályát veszti 2011. január 1. napjával.
+[^96]: A 17. számú melléklet A.) pontja a 79. § (2) bekezdése alapján hatályát veszti 2011. január 1. napjával.

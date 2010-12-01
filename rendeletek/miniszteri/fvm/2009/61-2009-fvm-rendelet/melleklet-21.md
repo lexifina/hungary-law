@@ -12,8 +12,8 @@
 
 | 3 |  |  |  |  |  |  |  |  |  |  |  |
 
-21. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^76]
+21. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^97]
 
 Gazdálkodási napló kötelező formai és tartalmi követelményei
 
-[^76]: Alkalmazására lásd a 126/2009. (IX. 29.) FVM rendelet 3. § (2) bekezdését.
+[^97]: Alkalmazására lásd a 126/2009. (IX. 29.) FVM rendelet 3. § (2) bekezdését.

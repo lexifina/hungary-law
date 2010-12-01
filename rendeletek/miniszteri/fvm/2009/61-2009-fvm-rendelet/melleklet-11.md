@@ -1,27 +1,29 @@
 ## A szántóföldi célprogramokban zöldségnövényként támogatható növények köre
 
-| Articsóka | Feketegyökér | Paprika | Szárazbab |
+|  | A | B | C | D |
 
-| Bimbóskel | Fokhagyma | Paradicsom | Torma |
+| 1 | Articsóka | Fokhagyma | Paradicsom | Torma |
 
-| Brokkoli | Földieper (szamóca) | Pasztinák | Tök |
+| 2 | Bimbóskel | Földieper (szamóca) | Pasztinák | Tök |
 
-| Cékla | Futóbab | Petrezselyem | Tojásgyümölcs |
+| 3 | Brokkoli | Futóbab | Petrezselyem | Tojásgyümölcs |
 
-| Cukkini | Fűszerpaprika | Póréhagyma | Uborka |
+| 4 | Cékla | Fűszerpaprika | Póréhagyma | Uborka |
 
-| Cukorborsó | Galambbegysaláta | Rebarbara | Vöröshagyma |
+| 5 | Cukkini | Galambbegysaláta | Rebarbara | Újzélandi spenót |
 
-| Csemege kukorica | Karalábé | Retek | Zeller |
+| 6 | Cukorborsó | Karalábé | Retek | Vöröshagyma |
 
-| Dinnye | Karfiol | Sárgarépa | Zöldbab |
+| 7 | Csemege kukorica | Karfiol | Sárgarépa | Zeller |
 
-| Endívia | Kelkáposzta | Sóska | Zöldborsó |
+| 8 | Dinnye | Kelkáposzta | Sóska | Zöldbab |
 
-| Édeskömény | Kínai kel | Spanyol Articsóka | Zsázsa |
+| 9 | Endívia | Kínai kel | Spanyol Articsóka | Zöldborsó |
 
-| Fejessaláta | Lilahagyma | Spárga |  |
+| 10 | Fejessaláta | Lilahagyma | Spárga | Zsázsa |
 
-| Fejeskáposzta | Metélőhagyma | Spenót |  |
+| 11 | Fejeskáposzta | Metélőhagyma | Spenót |  |
+
+| 12 | Feketegyökér | Paprika | Szárazbab |  |
 
 11. számú melléklet a 61/2009. (V. 14.) FVM rendelethez

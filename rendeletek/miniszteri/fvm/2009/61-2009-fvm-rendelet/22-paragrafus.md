@@ -8,7 +8,7 @@
 
 (4) Fás szárú energetikai célú ültetvény telepítésére, valamint ültetvény telepítése esetében az (1)–(3) bekezdésben foglaltak nem alkalmazandók, ide nem értve a 21. § (1) és (3) bekezdései szerinti ültetvény újratelepítést.
 
-(5) A 3. § (1) bekezdés a) és b) pontjában meghatározott célprogramok esetén a támogatásra jogosult a támogatott területét a megkezdett gazdálkodási év végével az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet [a továbbiakban: 46/2009. (IV. 16.) FVM rendelet] szerinti agrár-erdészeti intézkedésbe bevonhatja.
+(5)[^23] A 3. § (1) bekezdés a) és b) pontjában meghatározott célprogramok esetén a támogatásra jogosult a támogatott területét a megkezdett gazdálkodási év befejeztével, az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet (a továbbiakban: 46/2009. (IV. 16.) FVM rendelet) szerinti agrár-erdészeti intézkedésbe bevonhatja. Természetvédelmi oltalom alatt álló területek, valamint az MTÉT területek agrár-erdészeti intézkedések alá való bevonása az illetékes állami természetvédelmi szerv írásos hozzájárulása alapján történhet.
 
 (6) Az (5) bekezdésben foglaltak esetén:
 
@@ -23,3 +23,5 @@ b) amennyiben a 3. § (1) bekezdés b) pontjában meghatározott gyepgazdálkod�
 (9) A támogatásra jogosult köteles a (8) bekezdés szerinti, beruházással érintett kötelezettségvállalással érintett egybefüggő terület elhelyezkedését legalább 3 méter pontossággal megadó EOV koordinátákat a kifizetési kérelem benyújtására rendelkezésre álló időszakban elektronikus úton benyújtani.
 
 (10) A (9) bekezdésben foglalt beruházással érintett ismételt területazonosításának költségeit a támogatásra jogosult viseli, arra vonatkozóan a 29. § (5) bekezdése szerinti kifizetés nem igényelhető.
+
+[^23]: A 22. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 4. §-ával megállapított szöveg.
