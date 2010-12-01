@@ -1,0 +1,3 @@
+## 13. § Az R. 49. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Ügyfél által felmért kötelezettségvállalással érintett egybefüggő terület és a helyszíni ellenőrzésen mért kötelezettségvállalással érintett egybefüggő terület eltérése esetén – a 3 méteres mérési toleranciát figyelembe véve – a két területnagyság közötti különbözetként jelentkező kötelezettségvállalással érintett egybefüggő terület részei nem jogosultak támogatásra, az adott terület a támogatási időszak lejártáig kizárásra kerül, és a területre vonatkozóan már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.”

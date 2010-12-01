@@ -1,0 +1,3 @@
+## 16. § Az R. 54. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Amennyiben a 43. § (1) bekezdése alapján meghatározott határidőn túl, de az adott gazdálkodási éven belül történik meg a kifizetési kérelem módosítására vonatkozó kérelem benyújtása, úgy a kifizetési összeget növelő módosítással érintett táblák után a földhasználó az adott gazdálkodási évben nem jogosult a támogatásra. A gazdálkodási év végét követően benyújtott módosítás az érintett táblák adott gazdálkodási évben a támogatásból történő kizárását eredményezi. Amennyiben a támogatásra jogosult részére a támogatási összeg kifizetésre került, úgy annak jogosulatlanul igénybe vett részét vissza kell fizetnie.”
