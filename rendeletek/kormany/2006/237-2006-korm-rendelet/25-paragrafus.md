@@ -1,6 +1,6 @@
 ## A besorolási döntés
 
-25. §[^80] (1)[^81] A Hivatal a besorolási döntést
+25. §[^75] (1)[^76] A Hivatal a besorolási döntést
 
 a) a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 15. napjáig,
 
@@ -32,5 +32,5 @@ h) a felsőoktatási intézmény számára a miniszter által pályázat kereté
 
 (5) A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be, azt, aki a ponthatárt elérte vagy meghaladta, kötelező besorolni.
 
-[^80]: A 25. § és az azt megelőző alcím a 198/2008. (VIII. 4.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^81]: A 25. § (1) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^75]: A 25. § és az azt megelőző alcím a 198/2008. (VIII. 4.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^76]: A 25. § (1) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

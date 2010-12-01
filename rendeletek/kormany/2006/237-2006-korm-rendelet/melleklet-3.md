@@ -882,7 +882,7 @@
 
 | minden más szakképzés | az Oktatási Hivatal döntése szerint |
 
-3. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^120]
+3. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^115]
 
 A felvételi eljárás során figyelembe vehető érettségi vizsgatárgyak
 
@@ -952,4 +952,4 @@ c) a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vizsgáz
 
 – vendéglátó-idegenforgalmi alapismeretek.
 
-[^120]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^115]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.

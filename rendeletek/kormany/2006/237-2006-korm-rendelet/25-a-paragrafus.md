@@ -1,4 +1,4 @@
-25/A. §[^82] (1) A besorolási döntés előkészítésében a Hivatal és a felsőoktatási intézmények vesznek részt.
+25/A. §[^77] (1) A besorolási döntés előkészítésében a Hivatal és a felsőoktatási intézmények vesznek részt.
 
 (2) A besorolási döntés előkészítéseként a Hivatal – a rendelkezésre álló adatok alapján – tervezetet készít az egyes képzések ponthatárára.
 
@@ -16,4 +16,4 @@ b) az egyes képzésekre a Tájékoztatóban közzétett legalacsonyabb keretsz�
 
 (7) A felsőoktatási intézmények számára a (2) bekezdésben meghatározott javaslat elkészítésétől kezdve folyamatosan biztosítani kell az egyes képzéseikre jelentkezőkről a jelentkezési sorszámok és a felvételi pontszámok szerinti létszámot megmutató statisztikát.
 
-[^82]: A 25/A. §-t a 198/2008. (VIII. 4.) Korm. rendelet 12. §-a iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^77]: A 25/A. §-t a 198/2008. (VIII. 4.) Korm. rendelet 12. §-a iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

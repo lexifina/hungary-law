@@ -2,7 +2,7 @@
 
 ## Pontszámítás a mesterképzésben
 
-35. §[^99] (1) A 14–16. §, 18–21. §, 23–24. §-ban foglaltak a mesterképzésre történő jelentkezésre nem alkalmazhatók.
+35. §[^94] (1) A 14–16. §, 18–21. §, 23–24. §-ban foglaltak a mesterképzésre történő jelentkezésre nem alkalmazhatók.
 
 (2) A jelentkező teljesítményét pontozásos rendszerben kell értékelni a felvételi teljesítményért és a többletteljesítményért kapható maximális pontszám meghatározásával, melyek összege legfeljebb 100 pont.
 
@@ -12,4 +12,4 @@
 
 (5) A művészeti, művészetközvetítő és sporttudományi képzési területre jelentkezők esetében a jelentkezők teljesítményét kizárólag a gyakorlati vizsga alapján is meg lehet állapítani.
 
-[^99]: A 35. § a 98/2009. (IV. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^94]: A 35. § a 98/2009. (IV. 24.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -2,9 +2,9 @@
 
 27. § (1) A jelentkezők a felvételi eljárás során tett egyes cselekményeket elektronikusan is végezhetik.
 
-(2)[^90] Az elektronikus ügyintézést támogató információs rendszer létrehozásáról és üzemeltetéséről az Educatio Kht. gondoskodik oly módon, hogy a rendszerben elvégzett minden egyes műveletre – különösen az adatok módosítására – vonatkozóan ellenőrizhető legyen a művelet elvégzésének időpontja és megállapítható legyen a műveletet végző személye.
+(2)[^85] Az elektronikus ügyintézést támogató információs rendszer létrehozásáról és üzemeltetéséről az Educatio Kht. gondoskodik oly módon, hogy a rendszerben elvégzett minden egyes műveletre – különösen az adatok módosítására – vonatkozóan ellenőrizhető legyen a művelet elvégzésének időpontja és megállapítható legyen a műveletet végző személye.
 
-(3)[^91] Az Educatio Kht. teljes körű tájékoztatást ad a jelentkezők és a felsőoktatási intézmények számára az elektronikus ügyintézés feltételeiről, módjáról, illetve teljes körű útmutatást ad a rendszer szolgáltatásairól, funkcióiról, használatáról.
+(3)[^86] Az Educatio Kht. teljes körű tájékoztatást ad a jelentkezők és a felsőoktatási intézmények számára az elektronikus ügyintézés feltételeiről, módjáról, illetve teljes körű útmutatást ad a rendszer szolgáltatásairól, funkcióiról, használatáról.
 
-[^90]: A 27. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^91]: A 27. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^85]: A 27. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^86]: A 27. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

@@ -44,6 +44,6 @@
 
 ## Művészetközvetítő képzési terület: minden szakon.
 
-2. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^119]
+2. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^114]
 
-[^119]: A 2. számú mellékletet e rendelet 46. § (4) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 308/2008. (XII. 20.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 98/2009. (IV. 24.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^114]: A 2. számú mellékletet e rendelet 46. § (4) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 308/2008. (XII. 20.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 98/2009. (IV. 24.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
