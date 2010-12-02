@@ -1,3 +1,0 @@
-## 15. § Az R. 53. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Amennyiben egy kötelezettségvállalással érintett egybefüggő terület vonatkozásában vis maior körülmény miatt legalább három gazdálkodási évben nem valósul meg a célprogram előírásai szerinti hasznosítás, úgy a kötelezettségvállalással érintett egybefüggő terület a célprogramból az adott célprogram támogatási időszakának lejáratáig kizárásra kerül a területre addig felvett támogatási összeg visszafizetési kötelezettsége nélkül. Haláleset miatti vis maior bejelentéskor, ha a jogutód az adott kötelezettségvállalással érintett egybefüggő terület vonatkozásában a kötelezettségeket megszakítás nélkül teljesíti, az a célprogram előírásai szerinti hasznosításnak minősül.”
