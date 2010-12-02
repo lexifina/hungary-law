@@ -6,7 +6,7 @@
 
 (4) Ha a pályázat nyertesével a szerződéskötés meghiúsul, vagy a szerződés aláírása után a nyertes a szerződést nem teljesíti és ezért a kiíró a szerződéstől elállt, vagy a felek megszüntették vagy felbontották azt, úgy a kiíró – korábbi döntése alapján – jogosult a soron következő ajánlattevővel szerződést kötni vagy az ajánlati kötöttség lejárta után új pályázatot kiírni.
 
-(5) A Nemzeti Földalapba tartozó ingatlanok pályázat útján történő értékesítése során az elővásárlásra jogosult személy a pályázati kiírásban foglaltaknak megfelelően, a nyertes pályázattal azonos tartalmú elfogadó, illetve az elővásárlási jogáról lemondó nyilatkozatot tehet. A nyertes pályázat tartalmáról, valamint a jognyilatkozat megtételének határidejéről az MNV Zrt. tájékoztatja az elővásárlásra jogosultakat.
+(5)[^12]
 
 (6) Eredménytelen a pályázati eljárás, ha
 
@@ -19,3 +19,5 @@ c) a kiíró a 42. § (4) bekezdésében megjelölt okból az eljárás érvény
 d) a legjobb érvényes ajánlat elfogadása jelentős vagyonvesztéssel járna.
 
 (7) A kiíró a pályázati eljárás során készített jegyzőkönyveket, dokumentumokat köteles öt évig megőrizni.
+
+[^12]: A 41. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.

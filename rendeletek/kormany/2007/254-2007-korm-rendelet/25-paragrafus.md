@@ -18,4 +18,6 @@ c) ingatlan esetében egy hónapnál nem régebbi teljes tulajdoni lap másolato
 
 (6) Az értékesítésre vonatkozó döntés megalapozásához független szakértővel el kell végeztetni – a tőzsdén jegyzett részvény kivételével – az érintett vagyonelem forgalmi értékbecslését (vagyonértékelését). Az értékesítésre vonatkozó döntés a szakvéleményben rögzített érvényességi időn belül hozható meg.
 
-(7) A Nemzeti Földalapba tartozó termőföld esetén az MNV Zrt. a forgalmi értéket a (6) bekezdéstől eltérően, egyszerűsített értékbecsléssel is megállapíthatja. Ennek módszerét az MNV Zrt. külön szabályzatban teszi közzé.
+(7)[^5]
+
+[^5]: A 25. § (7) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.

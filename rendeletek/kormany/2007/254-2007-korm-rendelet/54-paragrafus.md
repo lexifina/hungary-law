@@ -4,11 +4,11 @@
 
 54. § (1) E rendelet a kihirdetése napján lép hatályba.
 
-(2)–(3)[^13]
+(2)–(3)[^17]
 
-(4)[^14] A 14. § (3) bekezdésében megjelölt szabályzatot az MNV Zrt. a Magyar Közlönyben közzéteszi.
+(4)[^18] A 14. § (3) bekezdésében megjelölt szabályzatot az MNV Zrt. a Magyar Közlönyben közzéteszi.
 
-(5) Az MNV Zrt. jogelődei által állami tulajdonú termőföldre kötött haszonbérleti szerződéseket – figyelemmel a külön jogszabályok szerinti védettségi szempontokra is – 2008. december 31-ig kell felülvizsgálni és e rendelet szabályainak megfelelő módosításukat kezdeményezni. A felülvizsgálat alapján azon szerződéseknél, ahol a haszonbérleti díj mértéke nem éri el a helyben kialakult díjtételt, illetve amelyek nem felelnek meg a jogszabályi feltételeknek, az MNV Zrt. a szerződés módosítását haladéktalanul köteles kezdeményezni.
+(5)[^19]
 
 (6) A központi költségvetési szervekkel kötött vagyonkezelési szerződéseknek a Vtv. 59. § (5) bekezdése szerinti felülvizsgálata során – az ágazati, szakmai szempontok érvényesítése érdekében – a vagyonkezelési szerződéssel kapcsolatos döntés meghozatalához az adott központi költségvetési szerv irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértése szükséges.
 
@@ -44,5 +44,6 @@ A 14. § (1) bekezdésében megjelölt adatszolgáltatást rendszeresen, az alá
 
 Az I. pont szerint összevontan nyilvántartott vagyonelemek adatait az 1–4. pontban meghatározott határidőig összesítve kell jelenteni.
 
-[^13]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 28. pontja hatályon kívül helyezte.
-[^14]: Az 54. § (4) bekezdése a 118/2008. (V. 8.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
+[^17]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 28. pontja hatályon kívül helyezte.
+[^18]: Az 54. § (4) bekezdése a 118/2008. (V. 8.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
+[^19]: Az 54. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § g) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
