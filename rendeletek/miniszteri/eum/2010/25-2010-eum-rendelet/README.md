@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-25-20-0
 | --- | --- | --- |
 | 2010-05-20 | 2010-25-20-0B.1 | 25/2010. (V. 12.) EüM rendelet |
 | 2010-05-21 | 2010-25-20-0B.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-12-02 | 2010-25-20-0B.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
