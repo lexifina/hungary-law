@@ -1,0 +1,3 @@
+## IV. Fejezet
+
+## NYILVÁNOS ÁRVERÉSSEL TÖRTÉNŐ ELADÁS

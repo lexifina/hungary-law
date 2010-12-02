@@ -1,0 +1,3 @@
+36. § (1) A haszonbérleti szerződésbe kell foglalni az NFA azon jogát, hogy két évenként felülvizsgálja a szerződésben meghatározott haszonbérleti díjat, és a felülvizsgálat eredményeként, valamint a piaci érték figyelembevételével a haszonbérleti díj összegének megváltozása miatt a szerződés módosítását kezdeményezze. Ha a szerződés fennállása alatt a díj felülvizsgált összegében a felek harminc napon belül nem tudnak megállapodni, az NFA a haszonbérleti szerződést felmondhatja.
+
+(2) Az NFA-val e rendelet alapján megkötött haszonbérleti szerződés időtartamának – a Tft.-ben foglalt előírások betartásával történő – meghosszabbításához nem kell pályázati eljárást lefolytatni.

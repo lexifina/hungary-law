@@ -1,0 +1,3 @@
+33. § (1) Amennyiben a nyertes árverező vagy a sorrend szerinti elsőhelyi elővásárlásra jogosult a hirdetményben előírt határidő alatt a szerződést neki felróható okból nem köti meg, vagy a teljes vételárat nem fizeti meg, úgy kell tekinteni, hogy a jogügylettől visszalépett. Ilyen esetben a befizetett árverési biztosítékot elveszti és felelős a szerződéskötés meghiúsulásából az NFA-t ért károkért, továbbá viselni köteles az NFA ebből fakadó költségeit.
+
+(2) Az árverési eljárás során a 6. § (1)–(4) bekezdését, a 8. § (2) bekezdését, a 10. § (2) bekezdés a) pontját, és a 21–24. §-t megfelelően alkalmazni kell. Az összeférhetetlenségi szabályokat az NFA részéről az árverés lebonyolítását végző személyek és az árverező személyek viszonyában kell alkalmazni.
