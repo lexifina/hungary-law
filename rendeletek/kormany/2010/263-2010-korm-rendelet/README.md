@@ -1,0 +1,9 @@
+# 263/2010. (XI. 17.) Korm. rendelet
+
+a Nemzeti Földalapba tartozó földrészletek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-263-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-12-02 | 2010-263-20-22.1 | 263/2010. (XI. 17.) Korm. rendelet |

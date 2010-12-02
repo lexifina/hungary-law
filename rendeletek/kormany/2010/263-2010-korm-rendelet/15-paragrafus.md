@@ -1,0 +1,1 @@
+15. § Hatályát veszti a termőföldnek és erdőnek a szociális földprogram folytatása céljából ingyenesen történő önkormányzati tulajdonba vagy vagyonkezelésbe adásának feltételeiről és eljárási rendjéről szóló 19/2006. (III. 14.) FVM rendelet.
