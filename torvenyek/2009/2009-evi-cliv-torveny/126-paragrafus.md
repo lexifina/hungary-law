@@ -26,19 +26,7 @@ a) 18. §-a és az azt megelőző címe,
 
 b) 29. § (3) bekezdésének „kereskedelmi forgalomba hozott” szövegrésze.
 
-(4) Hatályát veszti a Kbtv.
-
-a) 9. § (1) bekezdésének „anyagot és veszélyes” szövegrésze, valamint 9. § (2)–(4) bekezdése,
-
-b) 14. § (2) bekezdés e) pontjának ea) és eb) alpontjában az „anyagokat, illetve” szövegrész,
-
-c) 17. § (2) bekezdés c)–e) pontjában az „a veszélyes anyag, illetve” szövegrész,
-
-d) 17. § (2) bekezdés f) pontja,
-
-e) 17. § (7) bekezdésében a „veszélyes anyagok és” szövegrész,
-
-f) 34. § (5) bekezdése.
+(4)
 
 (5) Hatályát veszti a Kbtv.
 
