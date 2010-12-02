@@ -40,7 +40,9 @@ p) a Nemzeti Biztonsági Felügyelet vezetője,
 
 q) a Magyar Köztársaság külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy,
 
-r) törvény által minősítésre feljogosított személy.
+r) törvény által minősítésre feljogosított személy,
+
+s) az autonóm államigazgatási szerv vezetője.
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
