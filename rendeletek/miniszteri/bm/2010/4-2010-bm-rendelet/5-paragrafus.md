@@ -1,0 +1,3 @@
+## 4. § A Rendőrség, a Rendőrtiszti Főiskola és a rendészeti szakközépiskolák egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról szóló 12/2009. (IV. 30.) IRM rendelet (a továbbiakban: R2.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A rendelet hatálya kiterjed a Rendőrségre, valamint a Rendőrtiszti Főiskolára és a rendészeti szakközépiskolákra (a továbbiakban együtt: oktatási intézmények), továbbá az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: szolgálatok) tábornoki rendfokozatú hivatásos állományú tagjaira, az igényjogosultakra, továbbá a hivatásos állományból nyugállományba helyezett személyekre.”
