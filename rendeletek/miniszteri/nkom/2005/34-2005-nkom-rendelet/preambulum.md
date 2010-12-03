@@ -1,1 +1,0 @@
-A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. §-a (2) bekezdésének b) pontjában foglalt felhatalmazás alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
