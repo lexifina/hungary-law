@@ -2,7 +2,7 @@
 
 (2) A benyújtott pályázatok elbírálása során a munkabizottság bírálati szempontként figyelembe veszi a 10. § (4) bekezdésében meghatározott szempontok mellett azt is, hogy a tervezett tevékenység milyen mértékben illeszkedik a kedvezményezett (partnerország) nemzeti fejlesztési programjához és fordít figyelmet ennek érvényesítésére.
 
-(3) Az előirányzatból támogatás nyújtása támogatási kérelem alapján is történhet a nemzetközi fejlesztési együttműködés jogcímcsoporton belül a külképviseleti mikroprojekt jogcím [28. § (1) bekezdés e) pont] és a humanitárius segélyezés jogcímcsoport esetében.
+(3)[^19]
 
 (4) Az előirányzat céljával összhangban álló egyéb kifizetések teljesíthetők
 
@@ -16,4 +16,7 @@ esetében.
 
 (5) Az egyéb támogatási jellegű tevékenység jogcímből [28. § (1) és (2) bekezdésé d) pont] kifizetés csak akkor teljesíthető, ha a támogatás más jogcímen nem valósítható meg. Egyéb támogatási jellegű tevékenység jogcímén történő kifizetés a kedvezményezett indokolással ellátott kérelmére – a munkabizottság javaslata alapján – abban az esetben is teljesíthető, ha a kedvezményezett saját forrás biztosítására nem képes.
 
-(6) Amennyiben a külföldi igénylő kormányzati szerv, a támogatási igénynek nem kell tartalmaznia a 7. § c) pontja szerinti adatot, valamint a támogatási igényhez nem kell csatolni a 8. §-ban írt dokumentumokat, kivéve a saját forrás meglétéről szóló nyilatkozatot [8. § e) pont].
+(6)[^20] Amennyiben a külföldi pályázó kormányzati szerv, a pályázatnak nem kell tartalmaznia a 7. § c) pontja szerinti adatot, valamint a pályázathoz nem kell csatolni a 8. §-ban írt dokumentumokat, kivéve a saját forrás meglétéről szóló nyilatkozatot [8. § e) pont].
+
+[^19]: A 29. § (3) bekezdését a 4/2010. (XII. 3.) KüM rendelet 17. §-a hatályon kívül helyezte.
+[^20]: A 29. § (6) bekezdése a 4/2010. (XII. 3.) KüM rendelet 11. §-ával megállapított szöveg.

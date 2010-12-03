@@ -1,9 +1,12 @@
-## 4. A támogatási igények elbírálása
+## 4. [^12] A pályázatok elbírálása
 
-9. § (1) A minisztérium munkabizottsága (a továbbiakban: munkabizottság) – a támogatási igény alapján – javaslatot tesz támogatás odaítélésére, valamint egyéb kifizetések teljesítésére. Támogatási kérelem esetében a munkabizottság csak különösen indokolt esetben tehet javaslatot támogatás nyújtására.
+9. §[^13] (1) A minisztérium munkabizottsága (a továbbiakban: munkabizottság) javaslatot tesz támogatás odaítélésére, valamint egyéb kifizetések teljesítésére.
 
-(2) A pályázat elfogadásáról a kötelezettségvállalásra jogosult dönt. A támogatási kérelem elfogadása a miniszter hatáskörébe tartozik, ha az igényelt összeg eléri vagy meghaladja az ötvenmillió forintot, ha a támogatási kérelem alapján nyújtott támogatás nem éri el az ötvenmillió forintot, a támogatás nyújtásáról az államtitkár dönt.
+(2) A pályázat elfogadásáról a kötelezettségvállalásra jogosult dönt.
 
-(3) A munkabizottság javaslatot tesz az államháztartási körbe tartozó igénylők támogatási kérelmének elbírálására is.
+(3) A munkabizottság javaslatot tesz az államháztartási körbe tartozó pályázók pályázatának elbírálására is.
 
-(4) A munkabizottság szükség szerint, de havonta legalább egy alkalommal ülésezik. A munkabizottság a támogatási igény benyújtásától számított harminc, vagy a hiánypótlás határidejének lejártától számított tizenöt munkanapon belül teszi meg az (1) bekezdés szerinti javaslatát.
+(4) A munkabizottság szükség szerint, de havonta legalább egy alkalommal ülésezik. A munkabizottság a pályázat benyújtásától számított harminc, vagy a hiánypótlás határidejének lejártától számított tizenöt munkanapon belül teszi meg az (1) bekezdés szerinti javaslatát.
+
+[^12]: A 4. cím a 4/2010. (XII. 3.) KüM rendelet 8. §-ával megállapított szöveg.
+[^13]: A 9. § a 4/2010. (XII. 3.) KüM rendelet 8. §-ával megállapított szöveg.

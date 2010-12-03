@@ -1,5 +1,3 @@
-## 38. § Az előirányzat céljával összhangban álló kifizetések a külképviseletek közreműködésével is teljesíthetők.
-
 ## III. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

@@ -14,4 +14,8 @@ d) Nemzetközi Fejlesztési Együttműködés (a továbbiakban: NEFE)és humanit
 
 e) Lakossági EU tájékoztatási feladatok (5. cím, 36. alcím),
 
-f) Külföldi magyar emlékek megőrzése (5. cím, 43. alcím).
+f) Külföldi magyar emlékek megőrzése (5. cím, 43. alcím),
+
+g)[^2] 2011. évi magyar EU-elnökségre való felkészülés (5. cím, 39. alcím).
+
+[^2]: Az 1. § g) pontját a 4/2010. (XII. 3.) KüM rendelet 1. §-a iktatta be.
