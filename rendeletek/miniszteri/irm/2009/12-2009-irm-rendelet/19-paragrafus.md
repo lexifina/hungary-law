@@ -22,13 +22,13 @@ c) a gombozási, átalakítási (igazítási), vállszalag-bevarrási és paroli
 
 (4) Az igényjogosultak az átszerelési költség terhére szerzik be a hiányzó ruházati termékeket és felszerelési cikkeket vagy gondoskodnak az egyenruházat átszereléséről.
 
-(5)[^16] Az áthelyezett igényjogosult részére a ruházati utánpótlási ellátmányt – az átadó szerv által kiadott igazolás figyelembevételével – a fogadó szerv csak az áthelyezés időpontjától biztosítja, kivéve a Rendőrségen belüli áthelyezéskor.
+(5)[^18] Az áthelyezett igényjogosult részére a ruházati utánpótlási ellátmányt – az átadó szerv által kiadott igazolás figyelembevételével – a fogadó szerv csak az áthelyezés időpontjától biztosítja, kivéve a Rendőrségen belüli áthelyezéskor.
 
 (6) Az átszerelési költség összegének kiszámításánál a ruházati termékek és felszerelési cikkek tekintetében az egyenruházati bolt érvényben lévő árjegyzékében az I. osztályú szériagyártású termékekre és cikkekre meghatározott árakat, míg a munkadíjak tekintetében a területileg illetékes – önálló egységgel szerződéses viszonyban lévő – egyenruházatot készítő egység árait kell alapul venni. Ettől eltérni csak a 17. § (7) bekezdésben meghatározottak figyelembevételével lehet.
 
-(7)[^17] Az alapellátás-kiegészítésben részesülők a tárgyévben kifizetett ruházati utánpótlási ellátmány teljes összegére jogosultak.
+(7)[^19] Az alapellátás-kiegészítésben részesülők a tárgyévben kifizetett ruházati utánpótlási ellátmány teljes összegére jogosultak.
 
 (8) Amennyiben az áthelyezett igényjogosult az egységes szolgálati egyenruházattal vagy más továbbhasználatra alkalmas egyenruházati termékekkel és felszerelési cikkel ellátásra került, azt a fogadó szerv az áthelyezett részére nem biztosítja.
 
-[^16]: A 19. § (5) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^17]: A 19. § (7) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^18]: A 19. § (5) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^19]: A 19. § (7) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.

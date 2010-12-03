@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya kiterjed a Rendőrségre, valamint a Rendőrtiszti Főiskolára és a rendészeti szakközépiskolákra (a továbbiakban együtt: oktatási intézmények), az igényjogosultakra, továbbá a hivatásos állományból nyugállományba helyezett személyekre.
+## 1. §[^2] A rendelet hatálya kiterjed a Rendőrségre, valamint a Rendőrtiszti Főiskolára és a rendészeti szakközépiskolákra (a továbbiakban együtt: oktatási intézmények), továbbá az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: szolgálatok) tábornoki rendfokozatú hivatásos állományú tagjaira, az igényjogosultakra, továbbá a hivatásos állományból nyugállományba helyezett személyekre.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -20,7 +20,7 @@ ec) a munka- és védőruházat, illetve a védőeszközök, védőfelszerelése
 
 ed) a ruházati egységfelszerelési anyagok,
 
-ee)[^1] szolgálati azonosító jelvény, hivatásos állománykategóriát kifejező jelvény, határvadász jelvény, karjelvény, testületi jelvény, hímzett azonosító, kitüntetések és tartozékai, valamint
+ee)[^3] szolgálati azonosító jelvény, hivatásos állománykategóriát kifejező jelvény, határvadász jelvény, karjelvény, testületi jelvény, hímzett azonosító, kitüntetések és tartozékai, valamint
 
 ef) a javító és karbantartó anyagok;
 
@@ -34,4 +34,5 @@ gb) vegyes ruhás alapellátási norma, amely az egyenruházati termékeken és 
 
 gc) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló ruházatot és polgári ruhapénzt, vagy csak polgári ruhapénzt tartalmaz, és az ide sorolt igényjogosultak alapvetően polgári ruházatban teljesítenek szolgálatot.
 
-[^1]: A 2. § e) pont ee) alpontja a 32/2010. (V. 12.) IRM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 4/2010. (XI. 25.) BM rendelet 4. §-ával megállapított szöveg.
+[^3]: A 2. § e) pont ee) alpontja a 32/2010. (V. 12.) IRM rendelet 1. §-ával megállapított szöveg.

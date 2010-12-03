@@ -66,6 +66,6 @@
 
 | 14. | Névkitűző | db | 1 |
 
-6. melléklet a 12/2009. (IV. 30.) IRM rendelethez[^46]
+6. melléklet a 12/2009. (IV. 30.) IRM rendelethez[^49]
 
-[^46]: A 6. mellékletet a 77/2009. (XII. 28.) IRM rendelet 10. § (3) bekezdése iktatta be.
+[^49]: A 6. mellékletet a 77/2009. (XII. 28.) IRM rendelet 10. § (3) bekezdése iktatta be.

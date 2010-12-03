@@ -1,4 +1,4 @@
-50/A. §[^39] (1) A hímzett azonosító a szolgálati azonosító jelvény számát tartalmazó ruházati felszerelés, amely a bevetési öltözetet viselő állomány részére, valamint a szolgálati azonosító jelvény láthatóságát nem biztosító felszerelés viselése esetén biztosítja az egyenruhát viselő rendőr azonosíthatóságát. A hímzett azonosító leírását a 7. melléklet tartalmazza.
+50/A. §[^41] (1) A hímzett azonosító a szolgálati azonosító jelvény számát tartalmazó ruházati felszerelés, amely a bevetési öltözetet viselő állomány részére, valamint a szolgálati azonosító jelvény láthatóságát nem biztosító felszerelés viselése esetén biztosítja az egyenruhát viselő rendőr azonosíthatóságát. A hímzett azonosító leírását a 7. melléklet tartalmazza.
 
 (2) A hímzett azonosító száma megegyezik a hivatásos állomány tagja szolgálati azonosító jelvényének számával.
 
@@ -18,4 +18,4 @@ f) bevetési kabáton és bevetési huzatruhán jobb oldalon a tépőzáron
 
 kell viselni.
 
-[^39]: Az 50/A. §-t a 32/2010. (V. 12.) IRM rendelet 3. §-a iktatta be.
+[^41]: Az 50/A. §-t a 32/2010. (V. 12.) IRM rendelet 3. §-a iktatta be.

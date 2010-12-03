@@ -1,4 +1,4 @@
-16/A. §[^9] (1) A ruházati utánpótlási ellátmány felhasználását igazoló számlával az igényjogosultnak tárgyév október 31-ig kell elszámolnia.
+16/A. §[^11] (1) A ruházati utánpótlási ellátmány felhasználását igazoló számlával az igényjogosultnak tárgyév október 31-ig kell elszámolnia.
 
 (2) Amennyiben az időarányos ruházati utánpótlási ellátmány kifizetésére tárgyév október 1. és december 1. között kerül sor, az igényjogosultnak a kifizetett összeggel 30 napon belül el kell számolnia.
 
@@ -12,4 +12,4 @@
 
 (7) Ha az igényjogosult a ruházati utánpótlási ellátmánnyal nem, vagy csak részben számol el, a ruházati utánpótlási ellátmányt biztosító szervezeti egység a számla benyújtására nyitva álló határidő elteltét követő 30 napon belül értesíti az illetményt folyósító szervet az igényjogosultnak az elszámolás után fennálló adó- és járulékfizetési kötelezettségéről. Adó- és járulékfizetési kötelezettség fennmaradása esetén az illetményfolyósító szerv gondoskodik a megfizetendő adó és járulék következő havi illetményből történő levonásáról.
 
-[^9]: A 16/A. §-t a 77/2009. (XII. 28.) IRM rendelet 3. §-a iktatta be.
+[^11]: A 16/A. §-t a 77/2009. (XII. 28.) IRM rendelet 3. §-a iktatta be.

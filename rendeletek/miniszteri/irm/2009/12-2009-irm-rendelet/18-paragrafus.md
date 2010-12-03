@@ -16,7 +16,7 @@ b) a már szolgálati viszonyban lévőkre vonatkozóan az átminősítés napja
 
 (6) Az alapellátás kiadásának terhelési időpontja az igényjogosultság kezdeti hónapjának első napja.
 
-(7)[^13] Az alapellátási egyenruházati normában szereplő ruházati termékeket és felszerelési cikkeket vagy azok árát, illetve a ruházati utalványt, valamint a ruházati utánpótlási ellátmányt az igényjogosultság keletkezésének időpontjában kell biztosítani. Ettől eltérni csak – az alapellátási norma előírásainak megfelelően – a próbaidőre felvett személyek esetében lehet.
+(7)[^15] Az alapellátási egyenruházati normában szereplő ruházati termékeket és felszerelési cikkeket vagy azok árát, illetve a ruházati utalványt, valamint a ruházati utánpótlási ellátmányt az igényjogosultság keletkezésének időpontjában kell biztosítani. Ettől eltérni csak – az alapellátási norma előírásainak megfelelően – a próbaidőre felvett személyek esetében lehet.
 
 (8) Teljes alapellátásra igényjogosult:
 
@@ -26,10 +26,10 @@ b) a tábornokká kinevezett (ruhaszínváltozással járó áthelyezés esetén
 
 c) az az áthelyezett, aki a fogadó szervnél rendszerben lévő egyik ruházati termékkel sem került előzőleg ellátásra.
 
-(9)[^14] A teljes alapellátásban részesülők esetében – amennyiben más fegyveres szervnél ruházati utánpótlási ellátmányban részesültek – a tárgyévre folyósított ruházati utánpótlási ellátmánynak az év hátralévő hónapjaira eső hányadát túlellátásként kell kezelni, és azt a következő naptári évben járó ruházati utánpótlási ellátmányból le kell vonni.
+(9)[^16] A teljes alapellátásban részesülők esetében – amennyiben más fegyveres szervnél ruházati utánpótlási ellátmányban részesültek – a tárgyévre folyósított ruházati utánpótlási ellátmánynak az év hátralévő hónapjaira eső hányadát túlellátásként kell kezelni, és azt a következő naptári évben járó ruházati utánpótlási ellátmányból le kell vonni.
 
-(10)[^15] Ha az új felszerelők az alapellátásra kifizetett vagy ruházati utalványfüzetben jóváírt forintösszeg felhasználásáról az anyagi szakszolgálat felé – az erre kijelölt időn belül a vásárlást, anyagkiadást bizonyító dokumentum bemutatásával – nem számolnak el, abban az esetben az el nem számolt összeg forintértékét túlellátásként kell számukra előjegyezni, és azt az esedékessé váló ruházati utánpótlási ellátmányból le kell vonni (csökkentett ruházati utánpótlási ellátmány).
+(10)[^17] Ha az új felszerelők az alapellátásra kifizetett vagy ruházati utalványfüzetben jóváírt forintösszeg felhasználásáról az anyagi szakszolgálat felé – az erre kijelölt időn belül a vásárlást, anyagkiadást bizonyító dokumentum bemutatásával – nem számolnak el, abban az esetben az el nem számolt összeg forintértékét túlellátásként kell számukra előjegyezni, és azt az esedékessé váló ruházati utánpótlási ellátmányból le kell vonni (csökkentett ruházati utánpótlási ellátmány).
 
-[^13]: A 18. § (7) bekezdése a 77/2009. (XII. 28.) IRM rendelet 5. §-ával megállapított szöveg.
-[^14]: A 18. § (9) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^15]: A 18. § (10) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^15]: A 18. § (7) bekezdése a 77/2009. (XII. 28.) IRM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 18. § (9) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^17]: A 18. § (10) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.

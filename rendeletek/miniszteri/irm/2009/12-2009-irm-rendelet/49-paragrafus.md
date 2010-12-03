@@ -2,7 +2,7 @@
 
 49. § (1) Az igényjogosult a 44. § (1) bekezdés ab) és ac) pontjában meghatározott társasági, illetve szolgálati vagy köznapi öltözetén névkitűzőt visel.
 
-(2)[^36] A névkitűző a viselőjének teljes nevét tartalmazó „BODONI ANTIQUA” betűtípusú, nagy nyomtatott betűvel írott, 80x14 mm méretű, lekerekített sarkú, ezüstszínű fémlap. A betűk fekete színűek.
+(2)[^38] A névkitűző a viselőjének teljes nevét tartalmazó „BODONI ANTIQUA” betűtípusú, nagy nyomtatott betűvel írott, 80x14 mm méretű, lekerekített sarkú, ezüstszínű fémlap. A betűk fekete színűek.
 
 (3) A névkitűzőt az egyenruházat jobb oldali mellrészén lévő zsebfedő felső szélének tűzésén, középen – a hivatásos állománykategóriát kifejező hímzett jelvény alatt – vagy az ennek megfelelő helyen kell elhelyezni.
 
@@ -12,4 +12,4 @@
 
 (6) A vegyes ruhás normába sorolt (amennyiben nem egyenruhában teljesít szolgálatot), illetve a polgári ruhás normába sorolt igényjogosult a névkitűzőt az állományilletékes parancsnok intézkedésének megfelelően viseli szolgálati helyén.
 
-[^36]: A 49. § (2) bekezdése a 16/2009. (VI. 3.) IRM rendelet 1. §-ával megállapított szöveg.
+[^38]: A 49. § (2) bekezdése a 16/2009. (VI. 3.) IRM rendelet 1. §-ával megállapított szöveg.
