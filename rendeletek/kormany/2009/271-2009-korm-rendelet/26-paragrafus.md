@@ -4,7 +4,7 @@
 
 26. § (1)[^9]
 
-(2)[^10] Az e rendelet hatálybalépését megelőzően keletkezett követelések a rendelet hatálybalépését követő egy év alatt évülnek el.
+(2)[^10]
 
 [^9]: A 26. § (1) bekezdését a 24. § (4) bekezdés b) pontja hatályon kívül helyezte.
-[^10]: A 26. § (2) bekezdését a 24. § (4) bekezdés c) pontja hatályon kívül helyezi 2010. december 3. napjával.
+[^10]: A 26. § (2) bekezdését a 24. § (4) bekezdés c) pontja hatályon kívül helyezte.
