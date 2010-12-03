@@ -1,7 +1,9 @@
 ## 12. § A rendőrség szervei minden tudomásukra jutott tűzesetről az ügyeletük útján haladéktalanul kötelesek a tűzoltóság illetékes szerveit értesíteni.
 
-13. § (1) A tűzoltóság szervei bűncselekmény gyanúja vagy halál esetén az ügyeletük útján haladéktalanul kötelesek a rendőrség illetékes szerveit értesíteni.
+13. §[^14] (1) A hatóság a 3. § (1) bekezdés a) és b) pontja esetén a tűzeseti helyszíni szemléről szóló jegyzőkönyvet, és annak elkészültéig keletkezett egyéb tűzvizsgálati bizonyítékokat azonnal megküldi a rendőrség részére.
 
-(2) Amennyiben a tűzesettel kapcsolatban a rendőrség és a tűzvizsgáló is helyszíni szemlét folytat le, úgy azt lehetőség szerint egyidejűleg kell lefolytatni. A tűzvizsgálati eljárás a rendőrség vagy más hatóság által folytatott eljárással párhuzamosan is lefolytatható.
+(2) A rendőrségtől érkezett megkeresés esetén a hatóság a megkeresés időpontjáig keletkezett tűzvizsgálati bizonyítékokat küldi meg.
 
-(3) A tűzvizsgáló az (1) bekezdésben meghatározott esetben, illetve a rendőrség megkeresésére, a vizsgálat lezárását követően a tűzvizsgálati jelentést a keletkezett egyéb iratokkal együtt a kiadmányozási rendnek megfelelően haladéktalanul megküldi a vizsgálatot végző rendőri szervnek.
+(3) A tűzvizsgáló a vizsgálat lezárását követően a tűzvizsgálati jelentést a keletkezett egyéb bizonyítékokkal együtt a kiadmányozási rendnek megfelelően haladéktalanul megküldi a vizsgálatot végző rendőri szervnek.
+
+[^14]: A 13. § a 4/2010. (XI. 25.) BM rendelet 17. §-ával megállapított szöveg.
