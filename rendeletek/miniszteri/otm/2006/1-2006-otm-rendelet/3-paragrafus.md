@@ -4,7 +4,7 @@
 
 (2) A tűzoltó az esküjében/fogadalmában vállalt, jogszabályokban, munkaköri leírásában előírt, valamint az elöljárói által meghatározott utasítást köteles teljesíteni.
 
-(3) A tűzoltó a szolgálati feladatainak ellátására – külön jogszabályban[^2] előírt – hivatali, ügyeleti, készültségi, készenléti és készenléti jellegű szolgálatot teljesít.
+(3) A tűzoltó a szolgálati feladatainak ellátására – külön jogszabályban[^3] előírt – hivatali, ügyeleti, készültségi, készenléti és készenléti jellegű szolgálatot teljesít.
 
 (4) A hivatali munkaidő meghatározásáról az állományilletékes parancsnok – az elöljáró parancsnok tájékoztatásával – intézkedik az irányítása alatt álló szervezet vonatkozásában.
 
@@ -14,7 +14,7 @@
 
 (7) Készenléti szolgálat esetén a tűzoltó a hivatali munkaidején túl a szolgálatteljesítés helyén kívül áll készenlétben és szükség esetén a szolgálati beosztásához előírt feladatra köteles jelentkezni.
 
-(8)[^3]
+(8)[^4]
 
-[^2]: Hszt. 84. §-a, valamint 87. §-a.
-[^3]: A 3. § (8) bekezdését a 2/2010. (X. 15.) BM rendelet 1. § b) pontja hatályon kívül helyezte.
+[^3]: Hszt. 84. §-a, valamint 87. §-a.
+[^4]: A 3. § (8) bekezdését a 2/2010. (X. 15.) BM rendelet 1. § b) pontja hatályon kívül helyezte.

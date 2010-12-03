@@ -12,7 +12,7 @@ c) kapu ügyeletesi szolgálat: a Szolgálati Rend alapján felállított belső
 
 d) beosztás: meghatározott feltételekhez kötött olyan hivatali kategória, amely meghatározza a tűzoltónak a tűzoltóság szervezetében betöltött helyét, ellátandó szolgálati feladatainak körét, elöljárói vagy alárendeltségi viszonyát,
 
-e) elöljáró[^1]: munkáltatói jogkört gyakorló elöljáró, állományilletékes parancsnok, elöljáró parancsnok, szolgálati elöljáró,
+e) elöljáró[^2]: munkáltatói jogkört gyakorló elöljáró, állományilletékes parancsnok, elöljáró parancsnok, szolgálati elöljáró,
 
 f) feljebbvaló: az a hivatásos állományú, aki magasabb rendfokozattal rendelkezik és az alacsonyabb rendfokozatú személlyel nem áll elöljárói viszonyban,
 
@@ -48,4 +48,4 @@ u) tűzoltó laktanya: a tűzoltóság elhelyezésére és a szolgálat ellátá
 
 v) utasítás: valamely cselekvés, eljárás, magatartás célszerű végrehajtásának módjára vonatkozó, írásban vagy szóban közölt irányító rendelkezés.
 
-[^1]: A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 2. § a), b), c), d) pontja szerint.
+[^2]: A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 2. § a), b), c), d) pontja szerint.
