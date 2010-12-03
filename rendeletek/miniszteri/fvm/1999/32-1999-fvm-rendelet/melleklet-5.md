@@ -1,3 +1,3 @@
-5. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^73]
+5. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^77]
 
-[^73]: Az 5. számú melléklet a 178/2009. (XII. 29.) FVM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^77]: Az 5. számú melléklet a 178/2009. (XII. 29.) FVM rendelet 10. § (4) bekezdésével megállapított szöveg.

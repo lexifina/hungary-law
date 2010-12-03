@@ -1,8 +1,8 @@
-1. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^28]
+1. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^31]
 
 ## A borjak tartásának minimális követelményei
 
-1.[^29] Borjú: a szarvasmarha (Bos taurus) hat hónapos koráig.
+1.[^32] Borjú: a szarvasmarha (Bos taurus) hat hónapos koráig.
 
 2. A borjútartásban használatos istállóknak, berendezéseknek és egyéb használati eszközöknek hatékonyan tisztíthatóknak és fertőtleníthetőknek kell lenniük, valamint a borjakra nézve ártalmas anyagot nem tartalmazhatnak. A bélsarat, vizeletet, takarmánymaradékot, a kiszórt takarmányt a szükséges gyakorisággal el kell távolítani, hogy csökkenjen az erős szagok kialakulásának, valamint a rovarok és rágcsálók vonzásának lehetősége. Az állattartás során használt eszközöket, berendezéseket és karámokat rendszeresen tisztítani és fertőtleníteni kell a keresztfertőzések megakadályozása, valamint a kórokozók elszaporodásának megelőzése érdekében.
 
@@ -10,7 +10,7 @@
 
 4. Az épület szigetelésének, fűtésének, szellőztetésének biztosítania kell, hogy a légáramlás, a porkoncentráció, a hőmérséklet, a relatív páratartalom és a szén-dioxid, az ammónia, valamint az egyéb gázok koncentrációja a borjak egészségét nem károsító szinten maradjon a más jogszabályban előírt kibocsátási előírások figyelembevételével.
 
-5.[^30] Valamennyi, a borjak egészsége és jóléte szempontjából lényeges automatikus üzemű vagy mechanikus működésű berendezést legalább naponta egy alkalommal ellenőrizni kell. Az észlelt meghibásodást azonnal meg kell szüntetni. Ha ez nem lehetséges, addig, amíg a hiba nem szüntethető meg, a borjak egészsége és jó közérzete érdekében meg kell tenni a szükséges intézkedéseket, és olyan alternatív megoldást kell alkalmazni, amely biztosítja a folyadék- és takarmányellátást és a megfelelő környezeti állapot fenntartását.
+5.[^33] Valamennyi, a borjak egészsége és jóléte szempontjából lényeges automatikus üzemű vagy mechanikus működésű berendezést legalább naponta egy alkalommal ellenőrizni kell. Az észlelt meghibásodást azonnal meg kell szüntetni. Ha ez nem lehetséges, addig, amíg a hiba nem szüntethető meg, a borjak egészsége és jó közérzete érdekében meg kell tenni a szükséges intézkedéseket, és olyan alternatív megoldást kell alkalmazni, amely biztosítja a folyadék- és takarmányellátást és a megfelelő környezeti állapot fenntartását.
 
 6. Mesterséges szellőzési rendszer alkalmazása esetén megfelelő kisegítő megoldással kell biztosítani a légcserét annak érdekében, hogy a borjak egészségi állapota még a mesterséges szellőztetési rendszer meghibásodása esetén se károsodjon, illetve a borjak komfortérzete ne romoljon. A rendszer meghibásodására a gondozót riasztórendszernek kell figyelmeztetnie. A riasztórendszer működőképességét rendszeresen ellenőrizni kell.
 
@@ -20,39 +20,39 @@
 
 9. A borjúszállás kialakításánál minden egyes borjú számára biztosítani kell a lefekvés, a pihenés, a felkelés, a saját maga nehézség nélküli ellátásának a lehetőségét, valamint, hogy fajtársait láthassa.
 
-10.[^31] A borjakat lekötni tilos, kivéve a csoportosan tartottakat az etetés idejére, legfeljebb egy órára. A lekötőrendszereket rendszeresen ellenőrizni kell. A kényelmes rögzítés érdekében el kell végezni a szükséges utánállítást. A lekötésre használt eszközöknek olyannak kell lenniük, hogy ne okozzanak fulladást vagy sérülést, valamint elég hosszúnak kell lenniük, hogy a borjú nehézség nélkül lefekhessen, pihenhessen, felkelhessen és saját magát elláthassa.
+10.[^34] A borjakat lekötni tilos, kivéve a csoportosan tartottakat az etetés idejére, legfeljebb egy órára. A lekötőrendszereket rendszeresen ellenőrizni kell. A kényelmes rögzítés érdekében el kell végezni a szükséges utánállítást. A lekötésre használt eszközöknek olyannak kell lenniük, hogy ne okozzanak fulladást vagy sérülést, valamint elég hosszúnak kell lenniük, hogy a borjú nehézség nélkül lefekhessen, pihenhessen, felkelhessen és saját magát elláthassa.
 
-11.[^32] A padozatnak repedésektől és folytonossági hiányoktól mentesnek, a folyadék elvezetésére megfelelő lejtéssel kialakítottnak, egyenletesnek, simának, de csúszásmentesnek kell lennie, és úgy kell azt kialakítani, hogy se a felállás, se a fekvés ne okozzon sérülést vagy szenvedést. A padozatkialakítás feleljen meg a borjú méretének, testtömegének, legyen megfelelően szilárd. A fekvőhelynek kényelmesnek, tisztának, megfelelő vízelvezető képességűnek és a borjak számára ártalmatlannak kell lennie. A két hetesnél fiatalabb borjak részére megfelelő almozást kell biztosítani.
+11.[^35] A padozatnak repedésektől és folytonossági hiányoktól mentesnek, a folyadék elvezetésére megfelelő lejtéssel kialakítottnak, egyenletesnek, simának, de csúszásmentesnek kell lennie, és úgy kell azt kialakítani, hogy se a felállás, se a fekvés ne okozzon sérülést vagy szenvedést. A padozatkialakítás feleljen meg a borjú méretének, testtömegének, legyen megfelelően szilárd. A fekvőhelynek kényelmesnek, tisztának, megfelelő vízelvezető képességűnek és a borjak számára ártalmatlannak kell lennie. A két hetesnél fiatalabb borjak részére megfelelő almozást kell biztosítani.
 
 12. Gondoskodni kell a borjú korának, testtömegének, szokásainak, fiziológiai szükségleteinek megfelelő takarmányozásról, annak érdekében, hogy a borjú megfelelő egészségi állapota és jó közérzete fenntartható legyen. Minden kéthetesnél idősebb borjúnak rosttartalmú takarmányt kell adni naponta, valamint azoknak annyi vasat kell biztosítani, hogy vérükben a hemoglobin literenkénti szintje a 4,5 mmol értéket elérje. Nyolchetes koruktól húszhetes korukig fokozatosan 50 grammról minimum 250 grammra kell emelni a napi emészthető rostanyag táplálék útján történő bevitelét. A borjakra szájkosarat rakni tilos. Egyedi esetben – állatorvos utasítása alapján – a rossz szokás kialakulásának megelőzése céljából az indokolt lehető legrövidebb időtartamra szopásgátló eszközök alkalmazása megengedett.
 
 13. A borjakat naponta legalább két alkalommal kell etetni. Csoportosan tartott borjak esetében, amelyek nem ,,ad libitum'' etetésűek, vagy abban az esetben, ha nem automatikus működésű takarmányellátó berendezést alkalmaznak, a csoport minden egyes állatának lehetőleg azonos időben kell a takarmányhoz jutnia, valamint törekedni kell a takarmányhoz való hozzáférés egyenlő esélyének biztosítására.
 
-14.[^33] Minden kéthetesnél idősebb borjú számára biztosítani kell a megfelelő mennyiségű friss itatóvizet, illetve azt, hogy folyadékbeviteli igényét más folyadékkal kielégíthesse. Hőség vagy betegség esetén gondoskodni kell a friss folyadékkal való folyamatos ellátásról.
+14.[^36] Minden kéthetesnél idősebb borjú számára biztosítani kell a megfelelő mennyiségű friss itatóvizet, illetve azt, hogy folyadékbeviteli igényét más folyadékkal kielégíthesse. Hőség vagy betegség esetén gondoskodni kell a friss folyadékkal való folyamatos ellátásról.
 
 15. Mind az etető-, mind az itatóberendezést úgy kell megtervezni, kivitelezni, elhelyezni és üzemeltetni, hogy a borjak számára biztosított takarmánynak és folyadéknak elszennyeződési lehetősége a legkisebb legyen.
 
-16.[^34] A borjút a születését követően haladéktalanul, de minden esetben az élete első hat órájában szarvasmarhától származó föcstejhez (colostrumhoz) kell juttatni.
+16.[^37] A borjút a születését követően haladéktalanul, de minden esetben az élete első hat órájában szarvasmarhától származó föcstejhez (colostrumhoz) kell juttatni.
 
-17.[^35] Minden állattartóhelynek meg kell felelnie az alábbi követelményeknek:
+17.[^38] Minden állattartóhelynek meg kell felelnie az alábbi követelményeknek:
 
 17.1. Borjakat nyolchetes korukig szabad egyedi ketrecben tartani. Az egyedi ketrec hosszúságának legalább a borjak orrhegytől ülőgumóig mért testhosszának 1,1-szeresének, szélességének legalább a borjú álló testhelyzetében mért marmagasságával megegyezőnek kell lennie. Az egyedi borjúketrecek oldalsó határoló elemeinek – a beteg állatok számára szolgáló izoláló boxok kivételével – biztosítaniuk kell, hogy az állat láthassa fajtársait. A borjakat nyolchetes korukat követően egyedi ketrecben csak akkor lehet tartani, ha állatorvos tanúsítja, hogy a borjú egészségi állapota vagy viselkedése megkívánja, hogy kezelés céljából elkülönítsék. 17.2. Csoportosan tartott borjak számára 150 kg-os testtömegig legalább 1,5 m2, 150–220 kg-os testtömegig legalább 1,7 m2, 220 kg testtömeg felett legalább 1,8 m2 területet kell biztosítani.
 
-18.[^36] A 17. pontban foglaltak nem vonatkoznak:
+18.[^39] A 17. pontban foglaltak nem vonatkoznak:
 
 18.1. az anyjukkal együtt tartott szopósborjak tartására, valamint
 
 18.2. azon állattartóhelyekre, ahol 6 borjúnál kevesebb állatot tartanak.
 
-19–24.[^37]
+19–24.[^40]
 
-[^28]: Az 1. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 1. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^30]: Az 1. számú melléklet 5. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^31]: Az 1. számú melléklet 10. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^32]: Az 1. számú melléklet 11. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított szöveg.
-[^33]: Az 1. számú melléklet 14. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés d) pontja szerint módosított szöveg.
-[^34]: Az 1. számú melléklet 16. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 1. számú melléklet 17. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^36]: Az 1. számú melléklet 18. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^37]: Az 1. számú melléklet 19–24. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^31]: Az 1. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 1. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^33]: Az 1. számú melléklet 5. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 1. számú melléklet 10. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^35]: Az 1. számú melléklet 11. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított szöveg.
+[^36]: Az 1. számú melléklet 14. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^37]: Az 1. számú melléklet 16. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. számú melléklet 17. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. számú melléklet 18. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^40]: Az 1. számú melléklet 19–24. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés a) pontja hatályon kívül helyezte.

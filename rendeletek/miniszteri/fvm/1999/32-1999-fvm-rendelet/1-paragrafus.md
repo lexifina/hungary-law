@@ -6,7 +6,7 @@ b) az állattartással foglalkozó természetes személyre, jogi személyre és 
 
 (2) A rendelet hatálya nem terjed ki:
 
-a) a vadon élő állatokra,
+a)[^2] a vadon élő állatokra, valamint a Magyarországon vadászható állatfajok vadaskertben vagy vadasparkban tartott egyedeire,
 
 b) a versenyeken, bemutatókon, kulturális vagy sporteseményeken vagy ilyen tevékenységek során való felhasználásra szánt állatokra,
 
@@ -15,3 +15,4 @@ c) a kísérleti vagy laboratóriumi állatokra,
 d) a gerinctelen állatokra.
 
 [^1]: Az 1. § a 20/2002. (III. 14.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontja a 31/2010. (XI. 18.) VM rendelet 2. §-ával megállapított szöveg.
