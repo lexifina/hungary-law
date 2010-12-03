@@ -11,3 +11,7 @@
 (4) Az MH HEK hatáskörébe tartozó alkalmassági vizsgálat az illetékes személyügyi szerv bejelentése alapján, előjegyzés szerint történik.
 
 (5) Az alkalmassági vizsgálatot kérő szerv személyügyi és egészségügyi szakterülete együttesen gondoskodik arról, hogy a vizsgálatra küldött személlyel kapcsolatos minden előzményi adat – beleértve a fizikai alkalmasságról szóló minősítés – a vizsgálatot végző orvos, illetve pszichológus rendelkezésére álljon.
+
+(6)[^1] Azokat az egészségi és pszichikai alkalmassági vizsgálatokat, továbbá az ezekkel összefüggő összesített minősítés megállapítását, amelyek elvégzésére e rendelet az MH HEK-et jelöli ki, első fokon a rendvédelmi szervek illetékes alapellátó orvosai és pszichológusai, másodfokon a rendvédelmi szervek irányító miniszter által kijelölt orvosai és pszichológusai is végezhetik.
+
+[^1]: A 3. § (6) bekezdését a 4/2010. (XI. 25.) BM rendelet 20. §-a iktatta be.
