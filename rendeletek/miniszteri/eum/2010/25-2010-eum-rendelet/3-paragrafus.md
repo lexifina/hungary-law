@@ -1,6 +1,6 @@
-## 2. §[^4]
+## 2. §[^5]
 
-3. § (1)[^5]
+3. § (1)[^6]
 
 (2) Hatályát veszti az R1.
 
@@ -12,5 +12,5 @@ c) 6. §-a és az azt megelőző „(A Kbtv. 14. § és 17. §-ához)” szöveg
 
 d) 1–4. számú melléklete, valamint 9. és 10. számú melléklete.
 
-[^4]: A 2. §-t a 8. § (1) bekezdése hatályon kívül helyezte.
-[^5]: A 3. § (1) bekezdését a 8. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 2. §-t a 8. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 3. § (1) bekezdését a 8. § (2) bekezdése hatályon kívül helyezte.

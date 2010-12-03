@@ -1,4 +1,4 @@
-## 4–6. §[^6]
+## 4–6. §[^7]
 
 7. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) Ez a rendelet a (3) bekezdésben meghatározott napot követő napon hatályát veszti.
 
-[^6]: A 4–6. §-t a 8. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 4–6. §-t a 8. § (1) bekezdése hatályon kívül helyezte.
