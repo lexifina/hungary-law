@@ -10,7 +10,7 @@
 
 ## 1.3. Azokat az állatokat, amelyek fajuk, nemük, koruk vagy származásuk következtében kárt okozhatnak egymásban, el kell különíteni, és el kell zárni egymástól.
 
-## 1.4.[^11] Az állatokat meg kell védeni a kedvezőtlen időjárási viszonyoktól. Amennyiben magas hőmérsékletnek és páratartalomnak vannak kitéve, úgy megfelelő hűtést kell biztosítani számukra.
+## 1.4.[^12] Az állatokat meg kell védeni a kedvezőtlen időjárási viszonyoktól. Amennyiben magas hőmérsékletnek és páratartalomnak vannak kitéve, úgy megfelelő hűtést kell biztosítani számukra.
 
 ## 1.5. Legalább reggelenként és esténként ellenőrizni kell az állatok kondícióját és egészségi állapotát.
 
@@ -30,7 +30,7 @@
 
 ## 2.2. A kirakás alatt ügyelni kell arra, hogy az állatokat ne ijesszék meg, ne izgassák vagy ne ingereljék, továbbá biztosítani kell azt, nehogy elessenek. Az állatokat nem szabad fejüknél, szarvuknál, fülüknél, lábuknál, farkuknál, vagy szőrzetüknél fogva oly módon felemelni, hogy az felesleges fájdalmat vagy szenvedést okozzon. Amikor szükséges, az állatokat egyenként kell vezetni.
 
-## 2.3.[^12] Az állatokat óvatosan kell mozgatni. A felhajtókat, a terelő utakat és az átjárókat úgy kell kialakítani, hogy minimálisra csökkenjen az állatok sérülésének kockázata, továbbá úgy kell elrendezni, hogy kihasználják az állatok csoportos közlekedésre való hajlamát. Az állatok terelésére szolgáló eszközöket kizárólag erre a célra, és csak rövid ideig lehet használni. Az áramütést okozó eszközök (pl. elektromos ösztöke) használatát, amíg lehetséges, mellőzni kell. Az állatokra áramütést mérő eszköz csakis olyan kifejlett szarvasmarhafélék és sertések esetében alkalmazható, amelyek nem hajlandóak megmozdulni, feltéve, hogy az állatok előtt van szabad terület, amelyben mozoghatnak. Az áramütések nem tarthatnak tovább egy másodpercnél, és azokat megfelelő időközönként, kizárólag az állatok hátsó lábának izomzatára lehet alkalmazni. Az áramütéseket nem szabad ismételten alkalmazni, ha az állat nem reagál.
+## 2.3.[^13] Az állatokat óvatosan kell mozgatni. A felhajtókat, a terelő utakat és az átjárókat úgy kell kialakítani, hogy minimálisra csökkenjen az állatok sérülésének kockázata, továbbá úgy kell elrendezni, hogy kihasználják az állatok csoportos közlekedésre való hajlamát. Az állatok terelésére szolgáló eszközöket kizárólag erre a célra, és csak rövid ideig lehet használni. Az áramütést okozó eszközök (pl. elektromos ösztöke) használatát, amíg lehetséges, mellőzni kell. Az állatokra áramütést mérő eszköz csakis olyan kifejlett szarvasmarhafélék és sertések esetében alkalmazható, amelyek nem hajlandóak megmozdulni, feltéve, hogy az állatok előtt van szabad terület, amelyben mozoghatnak. Az áramütések nem tarthatnak tovább egy másodpercnél, és azokat megfelelő időközönként, kizárólag az állatok hátsó lábának izomzatára lehet alkalmazni. Az áramütéseket nem szabad ismételten alkalmazni, ha az állat nem reagál.
 
 ## 2.4. Az állatokat nem szabad megütni, sem megnyomni a test különösen érzékeny részeit. Különösen nem szabad az állatok farkát meghúzni, megcsavarni, vagy megtörni, és nem szabad a szemükbe nyúlni. Verés és rúgás nem alkalmazható.
 
@@ -38,7 +38,7 @@
 
 ## 2.6. A vágóhidakat elegendő számú karámmal kell felszerelni az állatok megfelelő elszállásolásához, védelmet nyújtva a kedvezőtlen időjárási hatások ellen.
 
-## 2.7.[^13] A külön jogszabályokban meghatározott, vonatkozó előírások megtartásán kívül az állatszállásoknak, istállóknak rendelkezniük kell:
+## 2.7.[^14] A külön jogszabályokban meghatározott, vonatkozó előírások megtartásán kívül az állatszállásoknak, istállóknak rendelkezniük kell:
 
 ## – olyan padozattal, amely minimálisra csökkenti a csúszás veszélyét, és nem okoz sérülést az azzal érintkezésbe kerülő állatoknak,
 
@@ -54,7 +54,7 @@
 
 ## 2.9. Azoknak az állatoknak, amelyeket érkeztetésük után nem visznek azonnal a vágás helyére, ivóvizet kell biztosítani olyan megoldással, hogy ahhoz mindenkor hozzáférhessenek. Azokat az állatokat, amelyeket érkeztetésük után nyolc órán belül nem vágnak le, szükség szerint, de nyolc óra elteltével feltétlenül itatni, tizenkét óra elteltével etetni kell, megfelelő időközökben, csökkentett mennyiségű takarmány adásával.
 
-## 2.10.[^14] Azokat az állatokat, amelyeket tizenkét órán át vagy ennél hosszabb ideig a vágóhídon tartanak, el kell szállásolni, és ahol szükséges, az állatokat úgy kell megkötni, hogy nehézség nélkül lefekhessenek és táplálkozhassanak. Ahol az állatok nincsenek megkötve, azokról úgy kell gondoskodni, hogy lefekhessenek és zavartalanul táplálkozhassanak.
+## 2.10.[^15] Azokat az állatokat, amelyeket tizenkét órán át vagy ennél hosszabb ideig a vágóhídon tartanak, el kell szállásolni, és ahol szükséges, az állatokat úgy kell megkötni, hogy nehézség nélkül lefekhessenek és táplálkozhassanak. Ahol az állatok nincsenek megkötve, azokról úgy kell gondoskodni, hogy lefekhessenek és zavartalanul táplálkozhassanak.
 
 ## 3.
 
@@ -66,14 +66,14 @@
 
 ## 3.3. A konténerekben szállított állatokat a lehető legrövidebb időn belül le kell vágni, ettől eltérő esetben, ha szükséges, az állatokat meg kell itatni és etetni a 2.9. pontban foglaltak szerint.
 
-## 4.[^15]
+## 4.[^16]
 
 ## Az állatok etetésére és itatására a vonatkozó jogszabályok rendelkezései az irányadók.
 
 2. számú melléklet a 9/1999. (I. 27.) FVM rendelethez
 
-[^11]: Az 1. számú melléklet 1.4. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
-[^12]: Az 1. számú melléklet 2. pontjának 2.3. alpontja a 77/2006. (XI. 3.) FVM rendelet 2. §-ával megállapított szöveg.
-[^13]: Az 1. számú melléklet 2.7. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
-[^14]: Az 1. számú melléklet 2.10. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
-[^15]: Az 1. számú melléklet 4. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^12]: Az 1. számú melléklet 1.4. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^13]: Az 1. számú melléklet 2. pontjának 2.3. alpontja a 77/2006. (XI. 3.) FVM rendelet 2. §-ával megállapított szöveg.
+[^14]: Az 1. számú melléklet 2.7. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^15]: Az 1. számú melléklet 2.10. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^16]: Az 1. számú melléklet 4. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.

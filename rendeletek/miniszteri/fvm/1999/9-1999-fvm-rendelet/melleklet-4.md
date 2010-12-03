@@ -20,7 +20,7 @@
 
 ## – Széndioxid-gáz alkalmazása.
 
-## 1.3.[^19] Bizonyos fajok esetében az állategészségügyi hatóság engedélyezheti a lefejezést, a nyak kicsavarását (nyakcsigolyák kificamítását) és a vákuumkamrában történő leölést, ha azok a rendelet 3. §-ában foglaltaknak megfelelnek, és az e melléklet 3. pontjában meghatározott, a leölésre vonatkozó különleges előírások érvényesülnek.
+## 1.3.[^20] Bizonyos fajok esetében az állategészségügyi hatóság engedélyezheti a lefejezést, a nyak kicsavarását (nyakcsigolyák kificamítását) és a vákuumkamrában történő leölést, ha azok a rendelet 3. §-ában foglaltaknak megfelelnek, és az e melléklet 3. pontjában meghatározott, a leölésre vonatkozó különleges előírások érvényesülnek.
 
 ## 2. A kábítás különleges előírásai
 
@@ -46,13 +46,15 @@
 
 ## 2.3.1.1. Az elektródákat úgy kell elhelyezni, hogy azok befogják a koponyát, és az áram áthaladjon az agyon. Megfelelő intézkedéseket kell tenni ahhoz, hogy jó elektromos kapcsolat jöjjön létre (például a sűrű gyapjú eltávolításával vagy a bőrfelület benedvesítésével).
 
-## 2.3.1.2. Ha az állatokat egyenként kábítják el, a kábítóberendezést
+## 2.3.1.2.[^21] Ha az állatokat egyenként kábítják el, a kábítóberendezést
 
-## – el kell látni egy olyan műszerrel, amely méri a terhelés impedanciáját (ellenállását), és megakadályozza a berendezés működését, ha a minimálisan előírt áram nem tud áthaladni,
+## a) el kell látni egy olyan műszerrel, amely méri a terhelés impedanciáját (ellenállását), és megakadályozza a berendezés működését, ha a minimálisan előírt áram nem tud áthaladni,
 
-## – el kell látni egy olyan műszerrel, amely az egyes állatoknál fény- és hanghatással jelzi a berendezés működési időtartamát,
+## b) el kell látni egy olyan műszerrel, amely az egyes állatoknál fény- vagy hanghatással jelzi a berendezés működési időtartamát,
 
-## – el kell látni egy olyan műszerrel, amely jelzi a terhelés alatti feszültséget és az áramerősséget. Ezt úgy kell elhelyezni, hogy azt a kezelőszemély jól láthassa.
+## c) el kell látni egy olyan műszerrel, amely jelzi a terhelés alatti feszültséget és az áramerősséget,
+
+## d) úgy kell elhelyezni, hogy az a)–c) pontban felsorolt műszerek kijelzőjét a kezelőszemély jól láthassa.
 
 ## 2.3.2. Vízfürdős kábítók
 
@@ -70,13 +72,13 @@
 
 ## 2.4.1. A sertések kábításánál a széndioxid-koncentrációjának legalább 70 térfogatszázaléknak kell lennie.
 
-## 2.4.2.[^20] A sertések kábítókamráját és a továbbításra szolgáló berendezést úgy kell kialakítani és működtetni, hogy a sertések sérülése és a mellkas összenyomása elkerülhető legyen, továbbá, hogy a sertések mindaddig állva maradjanak, amíg el nem veszítik az eszméletüket. Megfelelő világításról kell gondoskodni a szállítóberendezési rendszerben és a kamrában, amely lehetővé teszi, hogy a sertések egymást és a környezetüket láthassák.
+## 2.4.2.[^22] A sertések kábítókamráját és a továbbításra szolgáló berendezést úgy kell kialakítani és működtetni, hogy a sertések sérülése és a mellkas összenyomása elkerülhető legyen, továbbá, hogy a sertések mindaddig állva maradjanak, amíg el nem veszítik az eszméletüket. Megfelelő világításról kell gondoskodni a szállítóberendezési rendszerben és a kamrában, amely lehetővé teszi, hogy a sertések egymást és a környezetüket láthassák.
 
 ## 2.4.3. A kamrát megfelelő készülékkel kell felszerelni, amely a legnagyobb behatási ponton méri a gáz koncentrációját, továbbá jól látható és hallható figyelmeztető jelzést ad, ha a széndioxid-koncentráció a szükséges szint alá esik.
 
 ## 2.4.4. A sertéseket olyan boxokba vagy konténerekbe kell elhelyezni, amelyekben láthatják egymást és a berendezésbe való kerülésüktől számított 30 másodpercen belül a gázkamrába kell jutniuk. A kamrában a sertéseknek a belépéstől a lehető legrövidebb időn belül a maximális gázkoncentráció helyére kell kerülniük, és ezt követően elegendő ideig kell azokat a széndioxid-gáz hatásának kitenni annak érdekében, hogy a kábult állapot a levágásukig megmaradjon.
 
-## 3.[^21] A leölés különleges előírásai
+## 3.[^23] A leölés különleges előírásai
 
 ## 3.1. Szabadgolyós pisztoly vagy puska
 
@@ -104,6 +106,7 @@
 
 4. számú melléklet a 9/1999. (I. 27.) FVM rendelethez
 
-[^19]: A 3. számú melléklet 1.3. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
-[^20]: A 3. számú melléklet 2.4.2. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
-[^21]: A 3. számú melléklet 3. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^20]: A 3. számú melléklet 1.3. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^21]: A 3. számú melléklet 2.3.1.2. pontja a 31/2010. (XI. 18.) VM rendelet 1. §-ával megállapított szöveg.
+[^22]: A 3. számú melléklet 2.4.2. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^23]: A 3. számú melléklet 3. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.

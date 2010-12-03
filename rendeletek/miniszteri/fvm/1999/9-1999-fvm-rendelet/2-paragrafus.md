@@ -16,6 +16,6 @@ f) leölés: minden, az állat halálát okozó eljárás;
 
 g) levágás: olyan eljárás, amely az állat halálát elvéreztetéssel idézi elő.
 
-h)[^2] felesleges csibe: valamennyi baromfifaj 72 óránál fiatalabb, még nem takarmányozott, a felnevelésre valamely okból alkalmatlan egyede.
+h)[^3] felesleges csibe: valamennyi baromfifaj 72 óránál fiatalabb, még nem takarmányozott, a felnevelésre valamely okból alkalmatlan egyede.
 
-[^2]: A 2. § h) pontját a 26/2002. (IV. 13.) FVM rendelet 2. §-a iktatta a szövegbe.
+[^3]: A 2. § h) pontját a 26/2002. (IV. 13.) FVM rendelet 2. §-a iktatta a szövegbe.

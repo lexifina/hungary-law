@@ -10,6 +10,6 @@
 
 ## 4. Amennyiben a baromfi elvéreztetésére automata nyakvágó berendezést használnak, kézi tartalékeszközt kell biztosítani az esetleges üzemzavar vagy meghibásodás esetére annak érdekében, hogy az állatokat azonnal le lehessen vágni.
 
-5. számú melléklet a 9/1999. (I. 27.) FVM rendelethez[^22]
+5. számú melléklet a 9/1999. (I. 27.) FVM rendelethez[^24]
 
-[^22]: Az 5. számú melléklet a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^24]: Az 5. számú melléklet a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.

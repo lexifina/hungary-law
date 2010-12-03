@@ -1,6 +1,6 @@
 ## Prémes állatok leölési módszerei
 
-## 1.1.[^23] Engedélyezett módszerek
+## 1.1.[^25] Engedélyezett módszerek
 
 ## – Mechanikus működtetésű eszközök, amelyek behatolnak az agyba.
 
@@ -14,7 +14,7 @@
 
 ## – Széndioxid-gáz alkalmazása.
 
-## 1.2.[^24] A hatóság feladata eldönteni, hogy melyik állatfajnál melyik módszer a legmegfelelőbb. A mellékletben nem nevesített állatfajok esetében a megfelelő módszer kiválasztásáról az állomás dönt.
+## 1.2.[^26] A hatóság feladata eldönteni, hogy melyik állatfajnál melyik módszer a legmegfelelőbb. A mellékletben nem nevesített állatfajok esetében a megfelelő módszer kiválasztásáról az állomás dönt.
 
 ## 2. Különleges követelmények
 
@@ -102,10 +102,10 @@ a keltető üzemekben
 
 2.2.2. Az állatokat addig kell ebben a térben tartani, amíg el nem pusztulnak.
 
-3.[^25] Engedélyezett módszer az embriók elpusztítására:
+3.[^27] Engedélyezett módszer az embriók elpusztítására:
 
 Az élő embriók azonnali elpusztításához minden keltetőüzemnek rendelkeznie kell a 2.1. pontban meghatározott mechanikus berendezéssel vagy egyéb, tudományosan elismert leölési módszer alkalmazásához szükséges eszközökkel, amelyeknek meg kell felelniük az e rendelet 3. §-ában foglalt általános előírásoknak.
 
-[^23]: A 6. számú melléklet eredeti 1. pontjának számozását a 26/2002. (IV. 13.) FVM rendelet 9. §-a 1.1. pontra változtatta.
-[^24]: A 6. számú melléklet 1.2. pontját a 26/2002. (IV. 13.) FVM rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti 6. számú melléklet 1. pontjának számozását 1.1. pontra változtatva.
-[^25]: A 7. számú melléklet 3. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^25]: A 6. számú melléklet eredeti 1. pontjának számozását a 26/2002. (IV. 13.) FVM rendelet 9. §-a 1.1. pontra változtatta.
+[^26]: A 6. számú melléklet 1.2. pontját a 26/2002. (IV. 13.) FVM rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti 6. számú melléklet 1. pontjának számozását 1.1. pontra változtatva.
+[^27]: A 7. számú melléklet 3. pontja a 26/2002. (IV. 13.) FVM rendelet 9. §-ával megállapított szöveg.
