@@ -20,10 +20,12 @@
 
 ## 3. A zászlórúd: 240 centiméter hosszú, henger alakú, skarlátszínűre lakkozott, alsó harmadánál szétcsavarható rúd.
 
-2. számú melléklet a 24/2006. (X. 5.) IRM rendelethez
+2. számú melléklet a 24/2006. (X. 5.) IRM rendelethez[^3]
 
 A zászlószalagok
 
-1. Az igazságügyi és rendészeti miniszter szalagja: 16 centiméter széles fehér szatén szalag, közepén 20–25 centiméteres csokorba kötve, két ága 100-100 centiméter hosszúságú, végén 10-10 centiméter aranyrojt. A szalag ágai arannyal hímzettek, első ágán „MAGYAR KÖZTÁRSASÁG”, a második ágon pedig „IGAZSÁGÜGYI ÉS RENDÉSZETI MINISZTER” felirat található. A betűk mérete 5 centiméter magasságú, a hímzés legvastagabb része 0,5 centiméter. A szalag írott oldalán 2 centiméter széles piros és zöld ékekből álló pártázat fut körbe.
+1. A belügyminiszter szalagja: 16 centiméter széles fehér szatén szalag, közepén 20–25 centiméteres csokorba kötve, két ága 100–100 centiméter hosszúságú, végén 10–10 centiméter aranyrojt. A szalag ágai arannyal hímzettek, első ágán „MAGYAR KÖZTÁRSASÁG”; a második ágon pedig „BELÜGYMINISZTER” felirat található. A betűk mérete 5 centiméter magasságú, a hímzés legvastagabb része 0,5 centiméter. A szalag írott oldalán 2 centiméter széles piros és zöld ékekből álló pártázat fut körbe.
 
-2. Az országos parancsnok szalagja: 14 centiméter széles lila szatén szalag, közepén 10–15 centiméteres csokorba kötve, két ága 90-90 centiméter hosszúságú, végén 8-8 centiméter ezüstrojt. A szalag ágai ezüsttel hímzettek, első ágán „BÜNTETÉS-VÉGREHAJTÁS”, a második ágon pedig „ORSZÁGOS PARANCSNOK” felirat található. A betűk mérete 4 centiméter magasságú, a hímzés legvastagabb része 0,5 centiméter. A szalag írott oldalán 2 centiméter széles piros, fehér és zöld ékekből álló pártázat fut körbe.
+2. Az országos parancsnok szalagja: 14 centiméter széles lila szatén szalag, közepén 10–15 centiméteres csokorba kötve, két ága 90–90 centiméter hosszúságú, végén 8–8 centiméter ezüstrojt. A szalag ágai ezüsttel hímzettek, első ágán „BÜNTETÉS-VÉGREHAJTÁS”, a második ágon pedig „ORSZÁGOS PARANCSNOK” felirat található. A betűk mérete 4 centiméter magasságú, a hímzés legvastagabb része 0,5 centiméter. A szalag írott oldalán 2 centiméter széles piros, fehér és zöld ékekből álló pártázat fut körbe.
+
+[^3]: A 2. számú melléklet a 4/2010. (XI. 25.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
