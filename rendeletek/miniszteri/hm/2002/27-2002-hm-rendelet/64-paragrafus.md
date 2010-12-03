@@ -6,6 +6,6 @@
 
 (4) Az Árvízvédelemért Szolgálati Jelet ünnepélyes állománygyűlésen kell átadni.
 
-(5)[^68] Az átadás rendjétől a honvédelmi miniszter eltérést engedélyezhet.
+(5)[^75] Az átadás rendjétől a honvédelmi miniszter eltérést engedélyezhet.
 
-[^68]: A 64. § (5) bekezdését a 4/2004. (III. 2.) HM rendelet 4. §-a iktatta a szövegbe.
+[^75]: A 64. § (5) bekezdését a 4/2004. (III. 2.) HM rendelet 4. §-a iktatta a szövegbe.

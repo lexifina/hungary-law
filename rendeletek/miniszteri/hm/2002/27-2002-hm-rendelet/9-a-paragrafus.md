@@ -4,7 +4,7 @@
 
 ## kitüntető címet alapítok.
 
-9/A. §[^8] (1) A Honvédség érdekében végzett példamutató szolgálatteljesítés, valamint a tárgyévben nyújtott kiemelkedő teljesítmény elismerésére
+9/A. §[^10] (1) A Honvédség érdekében végzett példamutató szolgálatteljesítés, valamint a tárgyévben nyújtott kiemelkedő teljesítmény elismerésére
 
 ## „Az Év Katonája”
 
@@ -12,4 +12,4 @@
 
 (2) A cím adományozására évente május 21-én, a Honvédelem Napján kerül sor.
 
-[^8]: A 9/A. §-t a 7/2007. (II. 23.) HM rendelet 3. §-a iktatta be.
+[^10]: A 9/A. §-t a 7/2007. (II. 23.) HM rendelet 3. §-a iktatta be.

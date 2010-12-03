@@ -1,4 +1,4 @@
-## 22/A. §[^17] Augusztus 20-án a tisztté avatás alkalmából
+## 22/A. §[^19] Augusztus 20-án a tisztté avatás alkalmából
 
 ## Avatási Szablya
 
@@ -14,4 +14,4 @@
 
 (4) Emléktárgy polgári és külföldi személyek részére is adományozható.
 
-[^17]: A 22/A. §-t a 2/2009. (III. 17.) HM rendelet 1. §-a iktatta be. E módosító rendelet 7. § (2) bekezdése alapján Avatási Szablya a 2008. január 1. után avatott tiszti állomány részére adományozható.
+[^19]: A 22/A. §-t a 2/2009. (III. 17.) HM rendelet 1. §-a iktatta be. E módosító rendelet 7. § (2) bekezdése alapján Avatási Szablya a 2008. január 1. után avatott tiszti állomány részére adományozható.
