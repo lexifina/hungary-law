@@ -1,1 +1,0 @@
-A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. §-a (2) bekezdésének b) pontjában (a továbbiakban: Törvény), továbbá a vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény 5. §-ának (2) bekezdésében foglalt felhatalmazás alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
