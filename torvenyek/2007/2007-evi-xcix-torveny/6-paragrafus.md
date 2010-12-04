@@ -1,27 +1,27 @@
 ## Nyilvántartás
 
-6. § (1) A Fővárosi Bíróság a csoportosulás adatairól számítógépes nyilvántartást vezet.
+6. § (1) A Fővárosi Bíróság az európai területi társulás adatairól számítógépes nyilvántartást vezet.
 
-(2) A nyilvántartásban a csoportosulás alábbi adatai szerepelnek:
+(2) A nyilvántartásban az európai területi társulás alábbi adatai szerepelnek:
 
-a) a csoportosulás neve, székhelye,
+a) az európai területi társulás neve, székhelye,
 
-b) a csoportosulásban tagként részt vevők neve, székhelye,
+b) az európai területi társulásban tagként részt vevők neve, székhelye,
 
-c) a csoportosulás célkitűzése és feladatai,
+c) az európai területi társulás célkitűzése és feladatai,
 
-d) a csoportosulás működésének időtartama,
+d) az európai területi társulás működésének időtartama,
 
-e) a csoportosulás igazgatójának neve, lakóhelye, a képviseleti jog gyakorlásának módja (önálló vagy együttes),
+e) az európai területi társulás igazgatójának neve, lakóhelye, a képviseleti jog gyakorlásának módja (önálló vagy együttes),
 
 f) az alapszabály, egyezmény kelte,
 
-g) a csoportosulás nyilvántartásba vételének időpontja,
+g) az európai területi társulás nyilvántartásba vételének időpontja,
 
-h) a csoportosulás nyilvántartási száma,
+h) az európai területi társulás nyilvántartási száma,
 
-i) ha a csoportosulás csőd, felszámolási, végelszámolási, adósságrendezési eljárás, valamint a Rendelet 14. cikke szerinti megszüntetés hatálya alatt áll, akkor erre a tényre utalás, és az eljárás kezdő időpontja,
+i) ha az európai területi társulás csőd, felszámolási, végelszámolási, adósságrendezési eljárás, valamint a Rendelet 14. cikke szerinti megszüntetés hatálya alatt áll, akkor erre a tényre utalás, és az eljárás kezdő időpontja,
 
-j) a csoportosulás megszűnésének időpontja.
+j) az európai területi társulás megszűnésének időpontja.
 
-(3) A nyilvántartás fennálló, illetve törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat bárki megtekintheti és azokról feljegyzést készíthet.
+(3) A nyilvántartás fennálló, illetve törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat a Fővárosi Bíróság az interneten bárki számára korlátozás nélkül megismerhető módon közzéteszi.

@@ -1,1 +1,1 @@
-17. § A csoportosulás a nyilvántartásból való törléssel szűnik meg.
+17. § Az európai területi társulás a nyilvántartásból való törléssel szűnik meg.

@@ -1,1 +1,1 @@
-12. § Az Állami Számvevőszék ellenőrzések lefolytatása céljából megkeresheti a létrehozás helye szerinti tagállam illetékes hatóságát, amennyiben külföldi székhelyű csoportosulásban magyar jog szerinti tag vesz részt.
+12. § Az Állami Számvevőszék ellenőrzések lefolytatása céljából megkeresheti a létrehozás helye szerinti tagállam illetékes hatóságát, amennyiben külföldi székhelyű európai területi társulásban magyar jog szerinti tag vesz részt.

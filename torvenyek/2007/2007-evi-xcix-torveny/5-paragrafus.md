@@ -1,12 +1,12 @@
 ## Nyilvántartásba vétel
 
-5. § (1) A csoportosulás bírósági nyilvántartásba vétellel jön létre. A nyilvántartásba vételi eljárás nemperes eljárás, melyre a Fővárosi Bíróság kizárólagosan illetékes. Az eljárásban a jogi képviselet kötelező.
+5. § (1) Az európai területi társulás bírósági nyilvántartásba vétellel jön létre. A nyilvántartásba vételi eljárás nemperes eljárás, melyre a Fővárosi Bíróság kizárólagosan illetékes. Az eljárásban a jogi képviselet kötelező.
 
 (2) A nyilvántartásba vétel iránti kérelemhez az egyezmény és az alapszabály eredeti példányát, amennyiben az nem magyar nyelven készült, annak magyar nyelvű hiteles fordítását, valamint a Rendelet 4. cikkének (3) bekezdése szerinti jóváhagyások eredeti példányát és magyar nyelvű hiteles fordítását kell csatolni.
 
 (3) A kérelemnek tartalmaznia kell a 6. § (2) bekezdés a)–f) pontjaiban meghatározott adatokat.
 
-(4) A csoportosulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt. A hiánypótlásra megfelelő – legfeljebb harminc napos – határidőt kell biztosítani, amely kérelemre, indokolt esetben tizenöt nappal meghosszabbítható.
+(4) Az európai területi társulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt. A hiánypótlásra megfelelő – legfeljebb harminc napos – határidőt kell biztosítani, amely kérelemre, indokolt esetben tizenöt nappal meghosszabbítható.
 
 A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérelemnek nincs helye. Ha a hiánypótlási határidőt elmulasztották, vagy a hiánypótlást hiányosan, illetve hibásan terjesztették elő, a bíróság a kérelmet végzéssel elutasítja.
 
@@ -22,6 +22,6 @@ A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérel
 
 (10) A bíróság a nyilvántartásba vételről szóló határozatát az ügyésznek is kézbesíti.
 
-(11) A csoportosulás tevékenységét a nyilvántartásba vételről szóló határozat jogerőre emelkedése után kezdheti meg.
+(11) Az európai területi társulás tevékenységét a nyilvántartásba vételről szóló határozat jogerőre emelkedése után kezdheti meg.
 
 (12) A nyilvántartásba bejegyzett adatok változását – a változástól számított harminc napon belül – a bíróságnak be kell jelenteni, a bejelentésre és a változásnak a nyilvántartásban történő átvezetésére az (1)–(11) bekezdésben foglaltakat kell megfelelően alkalmazni.
