@@ -1,22 +1,22 @@
-1. A Kormány az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 11. §-a (2) bekezdésének a) pontja alapján az alábbi előzetes többletkapacitás-befogadásokat hagyja jóvá azzal, hogy a többletkapacitás-befogadás finanszírozási igénye nem haladhatja meg a Kormány által jóváhagyott 2009., illetve 2010. évi költségvetési keretszámokat.
+1.[^2] A Kormány az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 11. §-a (2) bekezdésének a) pontja alapján az alábbi előzetes többletkapacitás-befogadásokat hagyja jóvá azzal, hogy a többletkapacitás-befogadás finanszírozási igénye nem haladhatja meg a Kormány által jóváhagyott 2009., illetve 2010. évi költségvetési keretszámokat.
 
 TIOP 2.1.2. Kistérségi járóbeteg-szakellátó központok kialakítása és fejlesztése
 
 Dél-Alföld
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó |
 
 | Jánoshalma | 200 | 60 | 204 | 192 |
 
 | Kiskunmajsa | 200 | 60 | 192 | 180 |
 
-| Sarkad | 200 | 120 | 200 | 300 |
+| Sarkad | 142 | 120 | 200 | 300 |
 
-| Összesen | 600 | 240 | 596 | 672 |
+| Összesen | 542 | 240 | 596 | 672 |
 
 Dél-Dunántúl
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó |
 
 | Szentlőrinc | 200 | 120 | 80 | 520 |
 
@@ -26,15 +26,15 @@ Dél-Dunántúl
 
 | Csurgó | 165 | 90 | 0 | 100 |
 
-| Tab | 166 | 100 | 28 | 300 |
+| Tab | 165 | 80 | 28 | 300 |
 
 | Sásd | 200 | 48 | 0 | 200 |
 
-| Összesen | 1070 | 568 | 188 | 1740 |
+| Összesen | 1069 | 648 | 188 | 1740 |
 
 Észak-Alföld
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó |
 
 | Baktalórántháza | 200 | 120 | 80 | 520 |
 
@@ -50,25 +50,25 @@ Dél-Dunántúl
 
 Észak-Magyarország
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó |
 
 | Gönc | 200 | 100 | 140 | 300 |
 
-| Rétság | 200 | 120 | 140 | 300 |
+| Rétság | 200 | 120 | 150 | 300 |
 
 | Szécsény | 200 | 100 | 140 | 300 |
 
 | Cigánd | 200 | 120 | 70 | 300 |
 
-| Mezőcsát | 200 | 120 | 0 | 342 |
+| Mezőcsát | 145 | 120 | 0 | 342 |
 
 | Tokaj | 200 | 120 | 200 | 100 |
 
-| Összesen | 1200 | 680 | 690 | 1642 |
+| Összesen | 1145 | 680 | 700 | 1642 |
 
 Közép-Dunántúl
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó |
 
 | Aba | 200 | 120 | 200 | 300 |
 
@@ -80,7 +80,7 @@ Közép-Dunántúl
 
 Nyugat-Dunántúl
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó |
 
 | Tét | 200 | 120 | 288 | 520 |
 
@@ -88,13 +88,13 @@ Nyugat-Dunántúl
 
 | Összesen | 400 | 210 | 438 | 820 |
 
-| MINDÖSSZESEN | 4839 | 2597 | 2552 | 7034 |
+| MINDÖSSZESEN | 4725 | 2677 | 2562 | 7034 |
 
 TIOP 2.1.3. Aktív kórházi ellátásokat kiváltó járóbeteg-szolgáltatások fejlesztése
 
 Dél-Dunántúl
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
 
 | Siklós | 52 | 41 | 250 | 300 | 0 |
 
@@ -104,7 +104,7 @@ Dél-Dunántúl
 
 Észak-Magyarország
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
 
 | Szikszó | –12 | 12 | 478 | 500 | 0 |
 
@@ -114,7 +114,7 @@ Dél-Dunántúl
 
 Közép-Dunántúl
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
 
 | Várpalota | 169 | 67 | 600 | 0 | 6750 |
 
@@ -126,7 +126,7 @@ Közép-Dunántúl
 
 Nyugat-Dunántúl
 
-| Kistérség | Heti szakorvosi óra szám | Heti nem szakorvosi óra szám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
+| Kistérség | Heti szakorvosi óraszám | Heti nem szakorvosi óraszám | Súlyszám/év | Vizitszám/hó | Ápolási nap/év |
 
 | Sárvár | 86 | 30 | 0 | 0 | 0 |
 
@@ -137,3 +137,5 @@ Nyugat-Dunántúl
 | MINDÖSSZESEN | 621 | 391 | 3400 | 2850 | 6750 |
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 1266/2010. (XII. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
