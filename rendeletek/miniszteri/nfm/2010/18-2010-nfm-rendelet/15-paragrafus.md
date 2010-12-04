@@ -1,0 +1,1 @@
+## 14. § A földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendelet (a továbbiakban: 74/2009. KHEM rendelet) 1. § (2) bekezdésében a „3. mellékletének” szövegrész helyébe a „4. mellékletének” szöveg lép.
