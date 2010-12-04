@@ -4,7 +4,7 @@
 
 a) biztosítja a földgáz biztonsági készletképzés feltételeit, a szükségessé váló beruházásban tőkerészesedéssel részt vesz;
 
-b) gondoskodik az előírt készlet fenntartásáról és a szükséges fejlesztések elvégzéséről;
+b) gondoskodik az előírt készlet fenntartásáról, a miniszter által előírt készlet-mértéket meghaladó készlet esetén a többlet értékesítéséről, a szükséges fejlesztések elvégzéséről;
 
 c) ellenőrzi az e törvényben meghatározott tagsági jogviszonnyal kapcsolatos kötelezettségek teljesítését;
 

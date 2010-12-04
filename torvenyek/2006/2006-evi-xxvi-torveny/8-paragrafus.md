@@ -18,6 +18,8 @@ f) a felhasználó a szervezett piacon földgázt vásárol.
 
 (4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontja esetén az értékesített földgáz hőmennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz hőmennyisége gigajoule-ban mérve.
 
+(4a) A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
+
 (5) A tagi hozzájárulás fizetési kötelezettség
 
 a) a (2) bekezdés a)–c) és az e)–f) pontjai esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
