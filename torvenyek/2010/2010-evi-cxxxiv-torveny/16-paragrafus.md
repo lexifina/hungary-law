@@ -5,11 +5,3 @@
 (3) Hatályát veszti a GET 105. § (3) bekezdésében az „Az indokolt költségek mértékét a Hivatal honlapján teszi közzé.” szövegrész, valamint a GET 107/A. § (5) bekezdése.
 
 (4) Ez a törvény a hatálybalépését követő napon hatályát veszti.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
