@@ -17,3 +17,9 @@ a) az így számított átlagos fűtőértéknek,
 b) a vásárolt földgáz köbméterben mért mennyiségének, és
 
 c) a vásárlás időpontjában az egységnyi hőmennyiségre vonatkozó díjnak
+
+## a szorzataként kell meghatározni. Az alapdíj fizetése a következő vásárlás alkalmával utólag történik, az előző vásárlás óta eltelt időszakban érvényes alapdíjak összegzésével. A megkezdett hónap egész hónapnak számít.
+
+(6)[^7] A miniszter a 2. mellékletben évente teszi közzé a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabályozás során alkalmazott referencia időszakot, és az árfolyamok mértékét.
+
+[^7]: A 17. § (6) bekezdését a 18/2010. (XII. 3.) NFM rendelet 1. §-a iktatta be.

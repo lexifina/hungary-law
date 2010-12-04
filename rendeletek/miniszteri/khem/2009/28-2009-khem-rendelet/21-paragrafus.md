@@ -1,3 +1,3 @@
-## 20. §[^4]
+## 20. §[^9]
 
-[^4]: A 20. § ugyanezen § alapján hatályát vesztette.
+[^9]: A 20. § ugyanezen § alapján hatályát vesztette.
