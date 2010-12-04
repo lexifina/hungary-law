@@ -64,7 +64,7 @@ dr. Horváth Endrét,
 
 dr. Kardkovács Kolost,
 
-dr. Olajos Pétert,
+dr. Olajos Pétert,[^1]
 
 dr. Rezsőfi Istvánt,
 
@@ -127,3 +127,5 @@ a Vidékfejlesztési Minisztérium helyettes államtitkárává
 – 2010. június 7-ei hatállyal –
 
 kinevezem.
+
+[^1]: A 110/2010. (XII. 14.) ME határozat alapján Olajos Péter tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztérium”-ot kell érteni.
