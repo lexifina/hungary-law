@@ -34,7 +34,7 @@ a Külügyminisztérium államtitkárává,
 
 dr. Becsey Zsoltot,
 
-Bencsik Jánost,
+Bencsik Jánost,[^1]
 
 dr. Cséfalvay Zoltánt,
 
@@ -89,3 +89,5 @@ a Vidékfejlesztési Minisztérium államtitkárává
 kinevezem.
 
 KEH ügyszám: IV-2/01918/2010.
+
+[^1]: A 304/2010. (XII. 20.) KE határozat alapján Bencsik János tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztériumot” kell érteni.
