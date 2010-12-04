@@ -1,1 +1,0 @@
-## 1. § A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő a földgázellátásról szóló 2008. évi XL. törvény 141. § (1) bekezdésében meghatározott földgázmennyiséget az általa meghatározott mértékben ismételten felajánlhatja vételre az egyetemes szolgáltatónak.
