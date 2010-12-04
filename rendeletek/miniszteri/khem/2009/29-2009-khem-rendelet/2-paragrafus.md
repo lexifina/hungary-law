@@ -12,8 +12,8 @@ d) mobilgáz-finanszírozási költség: azon árelem, amely a föld alatti gáz
 
 e) nagykereskedői árrés: a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő jogutódjára 2009-ben elvégzett költség-felülvizsgálat alapján megállapított árelem,
 
-f)[^1] likviditási tényező: az a százalékban kifejezett összeg, amely a Magyar Nemzeti Bank (a továbbiakban: MNB) hivatalos devizaárfolyama és a kereskedelmi bankok által alkalmazott árfolyamok közötti átlagos eltérést jelöli.
+f)[^1]
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET), valamint a felhatalmazása alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
-[^1]: A 2. § (1) bekezdésének f) pontját a 42/2009. (VIII. 31.) KHEM rendelet 1. §-a iktatta be.
+[^1]: A 2. § (1) bekezdésének f) pontját a 42/2009. (VIII. 31.) KHEM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 18/2010. (XII. 3.) NFM rendelet 9. § (2) bekezdése.
