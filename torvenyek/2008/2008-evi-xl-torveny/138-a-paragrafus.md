@@ -1,6 +1,6 @@
 138/A. § (1) A Get. szerinti közüzemi nagykereskedői engedéllyel rendelkezett engedélyesnek engedélyköteles tevékenysége végzése során 2009. június 30-ig a földgázár-szabályozásban elismert (az árszabályozásban figyelembevételre kerülő) és a tényleges importköltségeinek negatív különbözetéből adódó bevételi hiányát a rendszerirányító által az e célból létrehozott elkülönített számlán kezelt, kötelező befizetésből származó pénzeszközből kell biztosítani.
 
-(2) Az (1) bekezdésben meghatározott pénzeszközt 2010. december 31-ig
+(2) Az (1) bekezdésben meghatározott pénzeszközt 2011. június 30-ig
 
 a) a felhasználó részére földgázt értékesítő
 

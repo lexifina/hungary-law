@@ -16,7 +16,7 @@ g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával,
 
 h) javaslatot tesz a felhasználó igénye alapján az engedélyes által külön díj ellenében végezhető kiegészítő, illetve karbantartó szolgáltatások körére és díjaira, továbbá az egyetemes szolgáltatás felmondása, valamint a közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályaira és az áralakítás elveire;
 
-i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira vonatkozó előírások teljesülését és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
+i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, ellenőrzi továbbá az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátására termelt hazai földgáz árképzésére vonatkozó szabályok betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 
 í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
 
@@ -52,7 +52,7 @@ q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben el�
 
 r) a rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a rendszerirányító javaslatára dönt a napi földgáz és kapacitás kereskedelmi piacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
 
-s) jogosult feladatának ellátása érdekében – külön jogszabályban meghatározott módon – az engedélyes társaság irataiba betekinteni, ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-ának (2) bekezdésében meghatározott üzleti titkot tartalmazó iratokat is, továbbá jogosult az engedélyben meghatározott tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyestől eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
+s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság valamint a termelői csoporttag irataiba betekinteni, ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. § (2) bekezdésében meghatározott üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyestől, a termelői csoporttagtól eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
 
 t) meghatározza azon – személyes adatokat nem tartalmazó – gazdálkodási adatok körét, amelyet az engedélyes köteles nyilvánosságra hozni;
 

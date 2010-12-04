@@ -1,4 +1,4 @@
-107/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
+107/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő.
 
 (2) A kihirdetett árakat az egyetemes szolgáltató a kihirdetést követő 3 napon belül a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
 
@@ -6,7 +6,7 @@
 
 (4) Az egyetemes szolgáltatás árára vonatkozó előírások teljesülését a Hivatal ellenőrzi.
 
-(5) Az engedélyesek kötelesek a 107. § (1)–(2) bekezdésével összhangban a Hivatal 107. § (3) bekezdés szerinti előkészítő tevékenységének elősegítése érdekében az általuk alkalmazandó egyetemes szolgáltatási árakra javaslatot tenni, és azt a Hivatalhoz benyújtani.
+(5)
 
 (6) Az egyetemes szolgáltató köteles
 

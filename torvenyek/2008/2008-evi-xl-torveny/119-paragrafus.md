@@ -20,6 +20,8 @@ b) bírságot szabhat ki a tulajdonosra, vagy az üzemeltetőre,
 
 c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jogszabályban előírt feladatok teljesítésére, és az engedélyes tevékenység folytatására.
 
+(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a termelői csoporttagra is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
+
 (3) A Hivatal az (1)–(2) bekezdésekben felsorolt intézkedéseket egyidejűleg is alkalmazhatja. A (2) bekezdés c) pontja szerinti kijelölés esetén a Hivatal dönt az engedélyes tevékenység felfüggesztéséről, vagy az engedély teljes vagy részleges visszavonásáról. A bírság ismételten kiszabható. A kiszabható bírság legmagasabb összegét külön jogszabály határozza meg.
 
 (4) A Hivatal az engedélyt módosíthatja vagy visszavonhatja, ha az engedélyes az ellátás-, az élet-, az egészség-, az üzem- és a vagyonbiztonságot vagy a környezetet veszélyeztető módon üzemelteti a szállító- és az elosztóvezetéket, valamint a tárolót, továbbá ha a jogszabályban meghatározott kötelezettségeinek és az engedélyben foglaltaknak nem képes eleget tenni.

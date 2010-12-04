@@ -10,15 +10,15 @@ d) földgáztárolási díjat
 
 (a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 
-(2) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető egyéb szolgáltatások díjainak meg kell felelniük az átláthatóság, az arányosság és a megkülönböztetés-mentesség elvének.
+(2) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető egyéb szolgáltatások díjainak meg kell felelniük az átláthatóság, az arányosság és a megkülönböztetés-mentesség elvének. Nem sérti a megkülönböztetés-mentesség elvét az, ha az egyetemes szolgáltatásra jogosult fogyasztók az önálló érdekérvényesítő képesség terén fennálló, a többi felhasználóhoz képest hátrányosabb helyzetének ellensúlyozása érdekében a rendszerhasználati díjak ellátási típusonként – azaz az egyetemes szolgáltatás és a földgáz-kereskedelmi jogviszony tekintetében – differenciáltan kerülnek meghatározásra.
 
-(3) A rendszerhasználati díjakat a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, és összehasonlító elemzések alapján kell meghatározni, úgy hogy a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze. Az indokolt költségek meghatározásának részletes szabályait a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslat kidolgozása során figyelembe veszi az érintett engedélyesek véleményét is. Az indokolt költségek mértékét a Hivatal honlapján teszi közzé.
+(3) A rendszerhasználati díjakat a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, és összehasonlító elemzések alapján kell meghatározni, úgy hogy a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze. Az indokolt költségek meghatározásának részletes szabályait a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslat kidolgozása során figyelembe veszi az érintett engedélyesek véleményét is.
 
 (4) A földgázelosztási díjból származó árbevételt a földgázelosztók között az e törvény hatálybalépésekor meglévő elosztóvezetékeken végzett földgázelosztás indokolt költségei arányában kell megosztani. Ennek érdekében a földgázelosztók között szükség esetén – külön jogszabályban meghatározott módon, az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett eljárási rend és számítási módszer szerint meghatározott – kiegyenlítő fizetéseket kell végrehajtani. A Hivatal által meghatározott összegű kiegyenlítő fizetéseket a Hivatal által megbízott pénzügyi szervezet teljesíti a földgázelosztóknak a földgázelosztói befizetések beszedésére és a kiegyenlítő fizetések teljesítésére elkülönítetten vezetett számláról.
 
 (5) Az engedélyesek az (1)–(3) bekezdésekben foglaltaknak megfelelően kötelesek az általuk alkalmazandó rendszerhasználati díjakra a külön jogszabályban foglaltak szerint javaslatot tenni, és azt a Hivatalhoz benyújtani.
 
-(6) A Hivatal az általa előkészített, a rendszerhasználati díjakra és az alkalmazásuk feltételeire vonatkozó előterjesztést honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelettel történő kihirdetésüket.
+(6) A Hivatal az általa előkészített, a rendszerhasználati díjakra és az alkalmazásuk feltételeire vonatkozó előterjesztést megküldi a miniszter részére és kezdeményezi azok rendelettel történő kihirdetését.
 
 (7) A miniszter a Hivatal előterjesztését elfogadja vagy elutasítja. Az előterjesztés
 

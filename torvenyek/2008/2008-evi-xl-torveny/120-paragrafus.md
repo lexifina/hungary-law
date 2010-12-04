@@ -4,7 +4,7 @@
 
 ## Számviteli szétválasztás
 
-120. § (1) Az integrált földgázipari vállalkozás köteles az Sztv.-ben meghatározott módon eszközeit és forrásait, bevételeit és ráfordításait belső számvitelében földgázipari tevékenységenként is, és a nem földgázipari tevékenységeitől is elkülöníteni, valamint azokat az éves beszámoló kiegészítő mellékletében, a tevékenységenként készített mérlegben és az eredmény kimutatásban olyan módon bemutatni, mintha az egyes tevékenységeket önálló gazdálkodó szervezetek végeznék.
+120. § (1) Az integrált, valamint a több engedéllyel rendelkező földgázipari vállalkozás köteles az Sztv.-ben meghatározott módon eszközeit és forrásait, bevételeit és ráfordításait belső számvitelében földgázipari tevékenységenként is, és a nem földgázipari tevékenységeitől is elkülöníteni, valamint azokat az éves beszámoló kiegészítő mellékletében, a tevékenységenként készített mérlegben és az eredmény kimutatásban olyan módon bemutatni, mintha az egyes tevékenységeket önálló gazdálkodó szervezetek végeznék.
 
 (2) Az integrált földgázipari vállalkozás köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkrimináció-mentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
 
