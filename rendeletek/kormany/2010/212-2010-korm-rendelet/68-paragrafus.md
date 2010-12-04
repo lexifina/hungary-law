@@ -1,4 +1,4 @@
-## 68. § A miniszter a kábítószer-megelőzéssel kapcsolatos és kábítószerügyi koordinációs feladatai körében
+## 68. §[^166] A miniszter a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért való felelőssége körében
 
 a) összehangolja a tiltott kábítószer-fogyasztás visszaszorítása, mérséklése, illetve megelőzése érdekében szükséges nemzeti stratégia és kormányzati programok megvalósulását, részt vesz azok végrehajtásában, és nyomon követi azok érvényesülését,
 
@@ -9,3 +9,5 @@ c) elkészíti a kábítószer-fogyasztás megelőzését szolgáló kormányzat
 d) működteti és fejleszti a megelőző-felvilágosító szolgáltatást végző intézményrendszert és
 
 e) meghatározza a kábítószer-megelőzéssel kapcsolatos területek szakmai felügyeleti rendszerét.
+
+[^166]: A 68. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (43) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

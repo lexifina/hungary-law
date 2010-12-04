@@ -1,4 +1,4 @@
-## 34. § A közigazgatási és igazságügyi miniszter a nemzetiségekkel kapcsolatos feladatok ellátásában való felelőssége körében:
+## 34. §[^72] A miniszter a kisebbségpolitikáért való felelőssége körében:
 
 a) összehangolja a nemzetiség- és nemzetpolitikai stratégiai szempontokat,
 
@@ -19,3 +19,5 @@ h) felügyeli a Strasbourgban, 1992. november 5-én létrehozott Regionális vag
 i) koordinálja a bilaterális egyezmények alapján járó nemzetiségi támogatások felhasználását,
 
 j) közreműködik a nemzetiségi nevelési, oktatási feladatokhoz nyújtott támogatások döntési rendszerének működtetésében.
+
+[^72]: A 34. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (22) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

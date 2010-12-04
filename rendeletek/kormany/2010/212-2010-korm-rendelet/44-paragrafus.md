@@ -21,3 +21,7 @@ bd) az egészségügyi ellátás személyi, tárgyi és működési feltételeit
 c) gondoskodik a mentéssel, a betegszállítással, a vérellátással és a transzplantációval kapcsolatos feladatok megvalósítása feltételrendszerének biztosításáról és
 
 d) ellátja a hatáskörébe tartozó minőségvédelmi, minőségszabályozási és hatósági minőség-ellenőrzési feladatokat.
+
+(3)[^122] A miniszter az egészségügyért való felelőssége körében felel az egészségfejlesztési és betegségmegelőzési feladatokért.
+
+[^122]: A 44. § (3) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 16. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

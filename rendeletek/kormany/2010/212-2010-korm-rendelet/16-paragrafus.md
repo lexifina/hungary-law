@@ -1,8 +1,8 @@
-16. § (1) A miniszter az igazságügyi szakpolitikai feladat- és hatáskörében
+16. § (1)[^40] A miniszter
 
 a) törvényességi felügyeletet gyakorol a közjegyzők, az ügyvédek, a bírósági végrehajtók és az igazságügyi szakértők kamarái felett,
 
-b) ellátja a személyiadat- és lakcímnyilvántartás vezetéséért felelős hatóság, valamint az érintett miniszterekkel együttműködve a körzetközponti feladatokat ellátó települési, fővárosi kerületi önkormányzat jegyzőjének szakmai irányítását,
+b)[^41] ellátja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, valamint az érintett miniszterekkel együttműködve a körzetközponti feladatokat ellátó települési, fővárosi kerületi önkormányzat jegyzőjének szakmai irányítását,
 
 c) az anyakönyvi ügyekért való felelősség körében ellátja az anyakönyvi ügyek ellátásáért felelős hatóság szakmai irányítását,
 
@@ -11,3 +11,6 @@ d) ellátja a jogi segítségnyújtásért, pártfogásért, valamint büntetőj
 e) a kárpótlásért való felelősség körében ellátja a kárpótlásért felelős hatóság szakmai irányítását,
 
 f) ellátja az Igazságügyi Szakértői és Kutató Intézetek szakmai irányítását.
+
+[^40]: A 16. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^41]: A 16. § (1) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (10) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

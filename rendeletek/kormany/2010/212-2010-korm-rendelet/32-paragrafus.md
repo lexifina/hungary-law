@@ -1,4 +1,4 @@
-## 32. § A közigazgatási és igazságügyi miniszter az egyházakkal kapcsolatos feladatok ellátása körében
+## 32. §[^67] A miniszter
 
 a) összehangolja a Kormány egyházi kapcsolattartással összefüggő feladatait, irányítja az ezzel összefüggő stratégiai kérdések végrehajtását,
 
@@ -26,7 +26,7 @@ l) közreműködik a kistelepüléseken működő egyházak népességmegtartó 
 
 m) közreműködik a Nemzeti Kulturális Alap működtetésében,
 
-n) működteti az örökös nélkül elhalt zsidó származású, vallású, sérelmet szenvedett személyek után a zsidó közösségi vagyoni igények rendezését koordináló Tárcaközi Bizottságot,
+n)[^68]
 
 o) részt vesz a kisebbségi vegyes bizottságok működésében,
 
@@ -39,3 +39,6 @@ r) együttműködik az érintett miniszterekkel a falusi és agroturizmussal kap
 s) koordinálja az Új Magyarország Fejlesztési Terv egyházakkal összefüggő projektjeit,
 
 t) közreműködik a Nemzeti Egészségügyi Tanács munkájában.
+
+[^67]: A 32. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^68]: A 32. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (12) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.

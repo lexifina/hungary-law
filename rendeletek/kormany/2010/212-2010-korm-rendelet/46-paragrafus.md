@@ -18,11 +18,11 @@ h) a népegészségügyi feladatokra,
 
 i) a táplálkozás-egészségügy rendszerére,
 
-j) a feladatkörébe tartozó szakterületek tekintetében – a környezetvédelmért felelős miniszterrel, valamint törvényben adott felhatalmazás alapján az élelmiszer-biztonságért felelős miniszterrel együttesen – az élelmiszer-biztonság területére vonatkozó határértékek kivételével az egészségre ható tényezők határértékére,
+j)[^125] a feladatkörébe tartozó szakterületek tekintetében – a vidékfejlesztési miniszter közreműködésével – az élelmiszer-biztonság területére vonatkozó határértékek kivételével az egészségre ható tényezők határértékére,
 
 k) az egészséget károsító környezeti hatások megelőzéséhez és csökkentéséhez szükséges egészségvédelmi feladatokra, a nemdohányzók egészségvédelmével kapcsolatos feladatokra,
 
-l) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben a munkavállalók egyes fizikai tényezők hatásának való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményekre, valamint a foglalkoztatáspolitikáért felelős miniszterrel együttesen a munkahelyi kémiai biztonság részletes szabályaira,
+l)[^126] a munkavállalók egyes fizikai tényezők hatásának való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményekre, valamint a munkahelyi kémiai biztonság részletes szabályaira,
 
 m) az élelmiszerek kivételével az emberi szervezettel érintkezésbe kerülő anyagok, különösen a kozmetikai termékek előállításának és forgalomba hozatalának egészségügyi feltételeire,
 
@@ -43,3 +43,6 @@ t) a gyógyhelyekkel, gyógyfürdőintézményekkel, gyógyvizekkel és egyéb t
 vonatkozó jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
 (2) A miniszter az egészségügyért való felelőssége keretében ellátja a Nemzeti Népegészségügyi Programmal kapcsolatos feladatokat, koordinálja a Program előkészítését, valamint biztosítja végrehajtását.
+
+[^125]: A 46. § (1) bekezdés j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (29) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^126]: A 46. § (1) bekezdés l) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (20) bekezdés a)–b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

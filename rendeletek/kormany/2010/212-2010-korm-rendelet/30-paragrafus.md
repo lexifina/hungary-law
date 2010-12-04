@@ -1,10 +1,10 @@
-## 30. § A miniszter a társadalmi felzárkózásért való felelőssége körében
+## 30. §[^61] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében
 
-a) irányítási jogot gyakorol az Oktatási és Kulturális Minisztérium Támogatáskezelő Igazgatósága felett, nem érintve a közreműködő szervezeti tevékenységet,
+a)[^62]
 
-b) a közigazgatási és igazságügyi miniszter irányítja a regionális képző központokat, a vállalatok közvetlen képzési megrendelései tekintetében a nemzetgazdasági miniszter iránymutatása alapján,
+b)[^63] irányítja a regionális képző központokat, a vállalatok közvetlen képzési megrendelései tekintetében a nemzetgazdasági miniszter iránymutatása alapján,
 
-c) részt vesz az ÚMFT azon operatív programjainak Monitoring Bizottságai tevékenységében, melyek társadalmi felzárkózásban érintett feladatokat látnak el,
+c)[^64] részt vesz az Új Magyarország Fejlesztési Terv azon operatív programjainak Monitoring Bizottságai tevékenységében, melyek társadalmi felzárkózásban érintett feladatokat látnak el,
 
 d) irányítja a leghátrányosabb helyzetű kistérségek felzárkózási programjait,
 
@@ -29,3 +29,8 @@ m) koordinálja a társadalmi felzárkózás és befogadás foglalkoztatási, ok
 n) részt vesz, a roma- és társadalmi felzárkózási szakterülettel foglalkozó országos, valamint területi egyeztető fórum, illetve tanács munkájában, továbbá szakmai felügyeletet gyakorol a roma- és társadalmi felzárkózási feladatot ellátó állami tulajdonú gazdasági társaságok ilyen irányú tevékenysége felett,
 
 o) működteti a Társadalmi Felzárkózás Tárcaközi Bizottságot.
+
+[^61]: A 30. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (19) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^62]: A 30. § a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (11) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^63]: A 30. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (11) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^64]: A 30. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (19) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

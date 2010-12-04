@@ -1,4 +1,4 @@
-## 33. § A közigazgatási és igazságügyi miniszter a társadalmi és civil kapcsolatok fejlesztéséért való felelőssége körében:
+## 33. §[^69] A miniszter a társadalmi és civil kapcsolatok fejlesztéséért való felelőssége körében:
 
 a) összehangolja a Kormánynak a civil és társadalmi kapcsolatok fejlesztésével összefüggő feladatait,
 
@@ -12,9 +12,9 @@ e) együttműködik a Kormány közalapítványainak alapítói jogai gyakorlás
 
 f) ellátja a Nemzeti Civil Alapprogram működtetésével kapcsolatos feladatokat,
 
-g) ellátja a Civil Koordinációs Tárcaközi Bizottság titkársági teendőit,
+g)[^70] gondoskodik a civil szektor erősödését elősegítő szolgáltató és fejlesztő programok kidolgozásáról, a civil társadalommal való párbeszédet biztosító informatikai rendszerek kialakításáról és működtetéséről, valamint gondoskodik az önkéntességgel kapcsolatos kormányzati politika kialakításáról a hatáskörrel rendelkező miniszterrel együttműködve,
 
-h) vezeti a közérdekű önkéntes tevékenységről szóló törvényben foglalt hatósági nyilvántartást,
+h)[^71]
 
 i) közreműködik a közérdekű önkéntes tevékenységre vonatkozó jogszabályok előkészítésében,
 
@@ -25,3 +25,7 @@ k) feladatkörében együttműködik az európai uniós fejlesztésekkel foglalk
 l) dönt a hatáskörébe utalt civil támogatási források felosztásáról,
 
 m) működteti a Civil Szolgáltató Központ hálózatot.
+
+[^69]: A 33. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (13) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^70]: A 33. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^71]: A 33. § h) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (13) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.

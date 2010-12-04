@@ -22,4 +22,8 @@ j) részt vesz a munkaerőpiacon hátrányos helyzetben lévők foglalkoztatás�
 
 k) részt vesz a magyar nyelv és kultúra megőrzése, terjesztése és megismertetése, valamint oktatása terén jelentkező állami feladatok végrehajtásában,
 
-l) elősegíti a civil szektor szervezeteinek részvételét az oktatási közfeladatok ellátásában.
+l) elősegíti a civil szektor szervezeteinek részvételét az oktatási közfeladatok ellátásában,
+
+m)[^149] a Wekerle Sándor Alapkezelő irányítása vonatkozásában a Wekerle Sándor Alapkezelő által bonyolított, hazai pályázati forrásból finanszírozott oktatási programok tekintetében a közigazgatási és igazságügyi miniszter intézkedéséhez kapcsolódó egyetértési jogot gyakorol.
+
+[^149]: A 62. § m) pontját a 267/2010. (XII. 3.) Korm. rendelet 18. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

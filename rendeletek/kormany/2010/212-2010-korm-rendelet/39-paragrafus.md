@@ -1,46 +1,46 @@
-39. § (1) A rendészetért való felelősségi körében a miniszter előkészíti különösen
+39. § (1)[^81] A miniszter előkészíti különösen
 
-a) a büntetés-végrehajtási szervezet jogállásáról és működéséről szóló,
+a)[^82] a büntetés-végrehajtási szervezet jogállásáról és működéséről,
 
-b) a rendőrség jogállásáról, szervezetéről és működéséről szóló,
+b)[^83] a rendőrség jogállásáról, szervezetéről és működéséről,
 
-c) a – hírszerzési tevékenység kivételével – a polgári nemzetbiztonsági szervek jogállásáról és működésükről szóló,
+c)[^84] a – polgári hírszerzési tevékenység kivételével – a polgári nemzetbiztonsági szervek jogállásáról és működésükről,
 
-d) a hivatásos állományúak szolgálati viszonyáról szóló,
+d)[^85] a hivatásos állományúak szolgálati viszonyáról,
 
-e) a személy és vagyonvédelemről, a magánnyomozásról szóló,
+e)[^86] a személy és vagyonvédelemről, a magánnyomozásról,
 
-f) az államhatár őrizetéről, a határforgalom ellenőrzésről szóló,
+f)[^87] az államhatár őrizetéről, a határforgalom ellenőrzésről,
 
-g) a közlekedésrendészeti szabályokról szóló,
+g)[^88] a közlekedésrendészeti szabályokról,
 
-h) a közterület-felügyeletről szóló
+h)[^89] a közterület-felügyeletről
 
-jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
+szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
 
-(2) A helyi önkormányzatokért való felelőssége körében a miniszter előkészíti különösen
+(2)[^90] A helyi önkormányzatokért való felelőssége körében a miniszter előkészíti különösen
 
-a) a helyi önkormányzatokról szóló,
+a)[^91] a helyi önkormányzatokról,
 
-b) a helyi önkormányzati képviselők és polgármesterek jogállásáról szóló,
+b)[^92] a helyi önkormányzati képviselők és polgármesterek jogállásáról,
 
-c) a helyi önkormányzatok társulásairól szóló,
+c)[^93] a helyi önkormányzatok társulásairól,
 
-d) a helyi önkormányzatok vis maior támogatásáról szóló,
+d)[^94] a helyi önkormányzatok vis maior támogatásáról,
 
-e) a helyi önkormányzati tulajdonról, illetve vagyongazdálkodásról szóló,
+e)[^95] a helyi önkormányzati tulajdonról, illetve a helyi önkormányzatok vagyongazdálkodásáról,
 
-f) a közigazgatási és igazságügyi miniszter közreműködésével a területszervezési eljárásról szóló,
+f)[^96] a közigazgatási és igazságügyi miniszter közreműködésével a területszervezési eljárásról,
 
-g) közreműködőként a helyi önkormányzatokat megillető normatív költségvetési hozzájárulásokra és támogatásokra, valamint a központi adókból részesedés mértékére és az elosztás módjáról szóló,
+g)[^97] közreműködőként a helyi önkormányzatokat megillető normatív költségvetési hozzájárulásokra és támogatásokra, valamint a központi adókból részesedés mértékére és az elosztás módjáról,
 
-h) az önkormányzati finanszírozási rendszer továbbfejlesztéséről, különös tekintettel a társult feladatellátás, így a többcélú kistérségi társulások ösztönzéséről szóló,
+h)[^98] az önkormányzati finanszírozási rendszer továbbfejlesztéséről, különös tekintettel a társult feladatellátás, így a többcélú kistérségi társulások ösztönzéséről,
 
 i) közreműködőként a helyi önkormányzatok tulajdonát, vagyoni helyzetét érintő,
 
-jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
+szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
 
-(3) Az építésügyért való felelőssége körében a miniszter előkészíti különösen:
+(3)[^99] A miniszter előkészíti különösen:
 
 a) a területrendezésért való felelősségéből következően
 
@@ -108,7 +108,7 @@ c) a menekültek jogállásáról és a menekültügyi eljárásról,
 
 d) az idegenrendészeti és menekültügyi hatóság jogállásáról, szervezetéről és működéséről szóló jogszabályokat, továbbá e tárgykörben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(5) Katasztrófavédelemért való felelőssége körében a miniszter előkészíti különösen
+(5)[^100] A katasztrófák elleni védekezésért való felelőssége körében a miniszter előkészíti különösen
 
 a) a katasztrófák elleni védekezés egységes irányítási rendszerének kialakításáról és működéséről,
 
@@ -118,13 +118,13 @@ c) a tűz elleni védekezéssel kapcsolatos feladatokról,
 
 d) az ipari balesetek megelőzéséről és elhárításáról, valamint az országhatáron túli hatással járó ipari balesetek nemzetközi értesítési és kölcsönös segítségnyújtási rendszeréről,
 
-e) az infrastruktúra kritikus elemivel kapcsolatos feladatokról szóló
+e)[^101] az infrastruktúra kritikus elemeivel kapcsolatos feladatokról
 
-jogszabályokat, továbbá e tárgykörben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
+szóló jogszabályokat, továbbá e tárgykörben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(6) A miniszter felelősségi körében előkészíti továbbá
+(6)[^102] A miniszter előkészíti továbbá
 
-a) a Közigazgatási és Igazságügyi Minisztériummal együttműködve, a bűncselekmények áldozatainak segítéséről szóló,
+a)[^103] a közigazgatási és igazságügyi miniszterrel együttműködve, a bűncselekmények áldozatainak segítéséről szóló,
 
 b) a bűncselekmények megelőzéséről szóló,
 
@@ -133,3 +133,27 @@ c) a külföldre utazás szabályozásáért való felelőssége körében a mag
 d) a szabálysértési szabályozásért való felelőssége keretében a szabálysértési eljárásról és a szabálysértésekről szóló
 
 jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
+
+[^81]: A 39. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés a) pontja, záró szövegrésze e módosító rendelet 40. § (25) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^82]: A 39. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^83]: A 39. § (1) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^84]: A 39. § (1) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés a) pontja, a 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^85]: A 39. § (1) bekezdés d) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^86]: A 39. § (1) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^87]: A 39. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^88]: A 39. § (1) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^89]: A 39. § (1) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^90]: A 39. § (2) bekezdés záró szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^91]: A 39. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^92]: A 39. § (2) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^93]: A 39. § (2) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^94]: A 39. § (2) bekezdés d) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^95]: A 39. § (2) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés c) pontja, a 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^96]: A 39. § (2) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^97]: A 39. § (2) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^98]: A 39. § (2) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^99]: A 39. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^100]: A 39. § (5) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés f) pontja, záró szövegrésze e módosító rendelet 40. § (25) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^101]: A 39. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés g) pontja, a 41. § (15) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^102]: A 39. § (6) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^103]: A 39. § (6) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

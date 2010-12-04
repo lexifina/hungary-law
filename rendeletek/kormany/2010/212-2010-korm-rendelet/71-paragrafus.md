@@ -1,4 +1,4 @@
-71. § (1) A miniszter a foglalkoztatási rehabilitációval, valamint a fogyatékos és megváltozott munkaképességű személyek esélyegyenlőségével és társadalmi integrációjával kapcsolatos feladatai körében
+71. § (1)[^169] A miniszter a társadalmi esélyegyenlőség előmozdításáért való felelőssége körében
 
 a) programokat dolgoz ki a fogyatékos és megváltozott munkaképességűek foglalkoztatására, képzésére és támogatására,
 
@@ -6,7 +6,7 @@ b) programokat dolgoz ki az egyenlő esélyű hozzáférés és a komplex rehabi
 
 c) kezdeményezi, előkészíti, illetőleg kidolgozza a foglalkoztatási rehabilitáció szabályait, ellátja a foglalkoztatási rehabilitáció irányításával, a minisztériumok ezzel kapcsolatos tevékenységének koordinálásával kapcsolatos feladatokat,
 
-d) a nemzetgazdasági miniszter kezelésébe tartozó Munkaerő-piaci Alap képzési alaprészének belső felosztásáról szóló megállapodás szerint együttműködik a nemzetgazdasági miniszterrel az Alap rehabilitációs alaprészének hatáskörébe tartozó felhasználásában,
+d)[^170] a nemzetgazdasági miniszter kezelésébe tartozó Munkaerő-piaci Alap rehabilitációs alaprészének belső felosztásáról szóló megállapodás szerint együttműködik a nemzetgazdasági miniszterrel a Munkaerő-piaci Alap rehabilitációs alaprészének hatáskörébe tartozó felhasználásában,
 
 e) ellátja a fogyatékos és megváltozott munkaképességű munkavállalók foglalkoztatásával és annak támogatásával kapcsolatos feladatokat,
 
@@ -16,7 +16,7 @@ g) koordinálja a fogyatékossággal élő emberek érdekeit szolgáló nemzetk�
 
 h) a fogyatékos személyek ellátását szolgáló országos intézmények tekintetében fenntartói jogot gyakorol.
 
-(2) A miniszter a nők és férfiak társadalmi egyenlőségének előmozdításával kapcsolatos feladatai körében
+(2)[^171] A miniszter a társadalmi esélyegyenlőség előmozdításáért való felelőssége körében
 
 a) kidolgozza a „Nemzeti Cselekvési Program a nemek egyenlőségéért” stratégiai dokumentumot, utóköveti és értékeli végrehajtását,
 
@@ -28,7 +28,7 @@ d) programot dolgoz ki a munkahelyi és a családi kötelezettségek összehango
 
 e) a Kormány nevében ellátja a nőkkel szembeni hátrányos megkülönböztetés minden formájának kiküszöböléséről szóló, New Yorkban, 1979. december 18-án elfogadott ENSZ-egyezmény kihirdetéséről szóló 1982. évi 10. törvényerejű rendeletben foglaltak végrehajtásának összehangolásával és ellenőrzésével kapcsolatos feladatokat, elkészíti az Egyezményben foglaltak érvényesüléséről szóló jelentéseket.
 
-(3) A miniszter – a társadalmi felzárkóztatást célzó programok kivételével – a társadalmi esélyegyenlőség előmozdításáért való felelőssége körében – az (1)–(2) bekezdésben foglaltakon túl –
+(3)[^172] A miniszter – a társadalmi felzárkóztatást célzó programok kivételével – a társadalmi esélyegyenlőség előmozdításáért való felelőssége körében
 
 a) részt vesz a hátrányos helyzetű rétegek esélyegyenlőségét biztosító kormányzati intézkedések kidolgozásában és végrehajtásában,
 
@@ -42,4 +42,12 @@ e) részt vesz a lakhatási programok kidolgozásában és a lakhatással kapcso
 
 f) az esélyegyenlőségi szempontok érvényesítése érdekében egyetértési jogot gyakorol a hátrányos helyzetű társadalmi csoportok életviszonyait e minőségükben érintő előterjesztések esetében és
 
-g) figyelemmel kíséri az információs társadalom esélyegyenlőségi kérdéseit és az ezzel kapcsolatos kormányzati stratégiák, programok, intézkedések kidolgozását.
+g) figyelemmel kíséri az információs társadalom esélyegyenlőségi kérdéseit és az ezzel kapcsolatos kormányzati stratégiák, programok, intézkedések kidolgozását,
+
+h)[^173] ellátja a közérdekű önkéntes tevékenységről szóló törvényben foglalt hatósági feladatokat, és vezeti az abban meghatározott hatósági nyilvántartást.
+
+[^169]: A 71. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (46) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^170]: A 71. § (1) bekezdés d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (46) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^171]: A 71. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (46) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^172]: A 71. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (28) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^173]: A 71. § (3) bekezdés h) pontját a 267/2010. (XII. 3.) Korm. rendelet 22. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

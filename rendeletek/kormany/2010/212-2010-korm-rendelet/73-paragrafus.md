@@ -4,15 +4,15 @@
 
 ## 73. § A nemzetgazdasági miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a) gazdaságpolitikáért, a gazdaságpolitika makrogazdasági szabályozásáért, a versenyképesség megteremtéséért,
+a)[^175] gazdaságpolitikáért,
 
-b) államháztartásért és költségvetési politikáért,
+b)[^176] államháztartásért,
 
 c) adópolitikáért,
 
-d) nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés, illetve az egészségbiztosítási járulék-fizetés szabályozásáért,
+d)[^177] nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért,
 
-e) számviteli és könyvvizsgálati szabályozásért,
+e)[^178] számviteli szabályozásért,
 
 f) pénz-, tőke- és biztosítási piac szabályozásáért,
 
@@ -20,22 +20,57 @@ g) nemzetközi pénzügyi kapcsolatokért,
 
 h) iparügyekért,
 
-i) belgazdaságért, ennek részeként a kereskedelemért, a turizmusért, vendéglátásért és fogyasztóvédelemért,
+i)[^179] egészségbiztosítási járulék-fizetés szabályozásáért,
 
-j) külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztésért,
+j)[^180] külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért,
 
-k) energiastratégiáért és klíma-politikáért, az energiahatékonyságért és energiatakarékosságért, a fenntartható fejlődés feltételeinek megteremtéséért, a fenntartható energiagazdálkodásért,
+k)[^181]
 
-l) építésgazdaságért, valamint a lakásgazdálkodásért és lakáspolitikáért,
+l)[^182] lakásgazdálkodásért és lakáspolitikáért,
 
-m) foglalkoztatáspolitikáért, ide nem értve a foglalkoztatási rehabilitációt,
+m)[^183] foglalkoztatáspolitikáért,
 
 n) szakképzésért és felnőttképzésért,
 
 o) társadalmi párbeszédért,
 
-p) gazdasági stratégiaalkotás részeként a területfejlesztés stratégiai tervezéséért,
+p)[^184] területfejlesztés stratégiai tervezéséért,
 
 q) kutatás-fejlesztésért és technológiai innovációért
 
+r)[^185] gazdaságpolitika makrogazdasági szabályozásáért,
+
+s)[^186] kereskedelemért,
+
+t)[^187] turizmusért,
+
+u)[^188] idegenforgalomért,
+
+v)[^189] vendéglátásért,
+
+w)[^190] fogyasztóvédelemért,
+
+x)[^191] építésgazdaságért és
+
+y)[^192] belgazdaságért
+
 felelős tagja.
+
+[^175]: A 73. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^176]: A 73. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^177]: A 73. § d) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^178]: A 73. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^179]: A 73. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^180]: A 73. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (47) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^181]: A 73. § k) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^182]: A 73. § l) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^183]: A 73. § m) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^184]: A 73. § p) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (29) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^185]: A 73. § r) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^186]: A 73. § s) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^187]: A 73. § t) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^188]: A 73. § u) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^189]: A 73. § v) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^190]: A 73. § w) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^191]: A 73. § x) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^192]: A 73. § y) pontját a 267/2010. (XII. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

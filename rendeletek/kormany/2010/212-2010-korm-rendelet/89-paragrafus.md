@@ -14,38 +14,45 @@ f) a központi fűtésről és melegvíz-szolgáltatásról,
 
 g) a behozott kőolaj és kőolajtermékek biztonsági készletezéséről,
 
-h) a nemzetgazdasági miniszter közreműködésével a bioüzemanyagok és más megújuló üzemanyagok közlekedési célú felhasználásáról,
+h)[^246] a bioüzemanyagok és más megújuló üzemanyagok közlekedési célú felhasználásáról,
 
-i) a nemzetgazdasági miniszter közreműködésével a megújuló energiaforrások hő- és villamosenergia-termelési céllal történő felhasználásáról,
+i)[^247] a megújuló energiaforrások hő- és villamosenergia-termelési céllal történő felhasználásáról,
 
-j) a nemzetgazdasági miniszter közreműködésével az energiahatékonyság és energiatakarékosság fokozása érdekében teendő lépésekről
+j)[^248] az energiahatékonyság és energiatakarékosság fokozása érdekében teendő lépésekről
 
 szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(2) A miniszter az energiapolitikáért való felelőssége körében
+(2)[^249] A miniszter az energiapolitikáért való felelőssége körében – ezzel összefüggésben az energiastratégiával és klíma-politikával, az energiahatékonysággal és energiatakarékossággal, a fenntartható fejlődés feltételeinek megteremtésével, valamint a fenntartható energiagazdálkodással kapcsolatos feladatok ellátása során –
 
-a) a javaslattételre jogosult miniszter javaslatait figyelembe véve eljár az új belépő tartalékba tartozó egységmennyiség kivételével az üvegházhatású gázok kibocsátási egységeinek kiosztásával összefüggő ügyek tekintetében,
+a) az EU kibocsátás kereskedelmi rendszerének vonatkozásában ellátja az üvegházhatású gázok európai kibocsátási egységeinek kiosztására, elszámolására, az emisszió-kereskedelmi rendszer működtetésére vonatkozó feladatokat, és gondoskodik azok végrehajtásáról,
 
-b) a javaslattételre jogosult miniszter javaslatait figyelembe véve eljár az üvegházhatású gázok kibocsátási egységeinek értékesítéséből származó bevétel felhasználására vonatkozó ügyek tekintetében,
+b) gondoskodik a közösségi jogszabályok és a Kiotói Jegyzőkönyv szerinti kibocsátási jogosultságok értékesítéséről, értékesítési bevételeinek felhasználásáról, szervezi a felhasználás végrehajtását,
 
-c) kidolgozza a hosszú távú Energia Stratégia alapján a Cselekvési Tervet, és energiapolitikai programokat,
+c) kidolgozza a hosszú távú Energia Stratégiát, valamint ez alapján a Cselekvési Tervet és az energiapolitikai programokat,
 
-d) felügyeli az energiahatékonysági célkitűzések elérését szolgáló Nemzeti Energiahatékonysági Cselekvési Terv végrehajtását,
+d) kidolgozza az energiahatékonysági, energiatakarékossági célkitűzések elérését szolgáló Stratégiát, valamint ez alapján a Nemzeti Energiahatékonysági Cselekvési Tervet, és felügyeli annak végrehajtását,
 
-e) kidolgozza a bioüzemanyagok és más megújuló üzemanyagok közlekedési célú felhasználására, a megújuló energiaforrásokra, illetve azok – többek között hő- és villamosenergia-termelési céllal történő – felhasználására, továbbá az energiahatékonyság és energiatakarékosság fokozására vonatkozó Cselekvési Tervet, Programokat,
+e) kidolgozza az épület-energiahatékonyság közép- és hosszú távú cselekvési tervét, és működteti az épületenergetikai programokat és épület-energiatakarékossági programokat,
 
-f) egyetértési jogot gyakorol az e) pontban meghatározottak stratégiájának kialakításakor,
+f) kidolgozza a bioüzemanyagok és más megújuló üzemanyagok közlekedési célú felhasználására, a megújuló energiaforrásokra, illetve azok – többek között hő- és villamosenergia-termelési céllal történő – felhasználására vonatkozó Stratégiát, valamint ez alapján a Cselekvési Tervet és programokat, és felügyeli azok végrehajtását,
 
-g) a Klímapolitikai Stratégia alapján kidolgozza a Klímapolitikai Cselekvési Tervet, Programokat, jogszabályokat, gondoskodik azok végrehajtásáról, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeletet ad ki,
+g) kidolgozza a Klímapolitikai Stratégiát, valamint ez alapján a Klímapolitikai Cselekvési Tervet, programokat, szükséges jogszabályokat, és koordinálja azok végrehajtását,
 
-h) a javaslattételre jogosult miniszter javaslatait figyelembe véve ellátja az üvegházhatású gázok kibocsátási egységeinek kiosztására, elszámolására, az emisszió-kereskedelmi rendszer működtetésére vonatkozó szabályozási feladatokat és gondoskodik azok végrehajtásáról,
+h) ellátja az üzemanyagok minősítésével és forgalmazásával kapcsolatos szabályozási feladatokat,
 
-i) a javaslattételre jogosult miniszter javaslatait figyelembe véve dönt az üvegházhatású gázok tekintetében a kibocsátási kvóták értékesítési bevételeinek felhasználásáról, szervezi annak végrehajtását, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeletet ad ki,
+i) gondoskodik a fenntartható gazdasági fejlődés és energiagazdálkodás stratégiai feltételeinek megteremtéséről,
 
-j) az e–i) pontokban meghatározott feladatok körében ellátja a hazai, közösségi és nemzetközi feladatok végrehajtásával kapcsolatos feladatokat.
+j) az a)–i) pontban meghatározott feladatai során ellátja a hazai, közösségi és nemzetközi feladatok végrehajtásával kapcsolatos feladatokat,
+
+k) e feladatkörét illetően szakmai felügyeletet gyakorol az ÉMI Építésügyi és Minőségellenőrző Innovációs Nonprofit Kft. felett.
 
 (3) A miniszter az energiapolitikáért való felelőssége körében a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 28. § (1) bekezdése alapján a magyar állam képviseletére jogosult a következő szerződések vonatkozásában:
 
 a) Egyezségi Megállapodás az E.ON AG, az E.ON Ruhrgas International Gmbh, az E.On Földgáz Trade Zrt. és a Magyar Köztársaság között,
 
 b) Szerződés elővásárlási jog alapításáról az E.ON AG, az E.ON Ruhrgas International Gmbh, az E.On Földgáz Trade Zrt., a Magyar Köztársaság és a Magyar Nemzeti Vagyonkezelő Zrt. között.
+
+[^246]: A 89. § (1) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^247]: A 89. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^248]: A 89. § (1) bekezdés j) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^249]: A 89. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

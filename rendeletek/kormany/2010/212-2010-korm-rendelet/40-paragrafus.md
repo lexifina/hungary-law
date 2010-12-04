@@ -1,4 +1,4 @@
-40. § (1) A miniszter a rendészetért való felelősség körében
+40. § (1)[^104] A miniszter
 
 a) irányítja a rendőrséget, a bűnügyi szakértői és kutató tevékenységet és gyakorolja a rendészeti középfokú és felsőoktatási intézmények tekintetében a fenntartót megillető jogosítványokat,
 
@@ -12,7 +12,7 @@ e) gondoskodik a személy- és vagyonőrök, a közterület felügyelet, valamin
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége körében
 
-a) az önkormányzati érdekszövetségek javaslatának kikérését követően a 21. § p) pont figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait,
+a)[^105] az önkormányzati érdekszövetségek javaslatának kikérését követően a 26. § p) pont figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait,
 
 b) ellátja – a nemzetgazdasági miniszterrel együttesen – a központi költségvetés előkészítéséből és végrehajtásából, valamint a zárszámadásból adódó, helyi önkormányzatokat és a helyi kisebbségi önkormányzatokat érintő kormányzati teendőket, és szervezi az azok megalapozásához szükséges információszolgáltatást,
 
@@ -34,7 +34,7 @@ j) közreműködik a helyi önkormányzatok és intézmények számviteli, tová
 
 k) közreműködik az ágazati és térségi fejlesztési programok helyi önkormányzatokat érintő részének kidolgozásában.
 
-(3) A miniszter a katasztrófa védelemért való felelőssége körében
+(3)[^106] A miniszter a katasztrófák elleni védekezésért való felelőssége körében
 
 a) irányítja az Országos Katasztrófa védelmi Főigazgatóságot,
 
@@ -54,7 +54,9 @@ h) ellátja a Kormányzati Koordinációs Bizottság elnöki teendőit,
 
 i) irányítja a védelmi igazgatás – feladat- és hatáskörébe tartozó – egyes feladatainak ellátásában részt vevő szervek értesítésével összefüggő tevékenységeket.
 
-(4) A miniszter a menekültügyi és idegenrendészetért való felelőssége körében, illetve a 22. §-ban meghatározottakat kivéve az állampolgársági feladatok ellátása tekintetében irányítja a Bevándorlási és Állampolgársági Hivatalt.
+(4)[^107] A miniszter irányítja a Bevándorlási és Állampolgársági Hivatalt.
+
+(4a)[^108] A Kormány állampolgársági ügyekért felelős miniszterként a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1), (2), (4)–(7) bekezdésével összefüggő honosítási eljárásban, a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a szerinti eljárásban, a magyar állampolgárságról történő lemondással kapcsolatos eljárásban, a magyar állampolgárság visszavonásával kapcsolatos eljárásban és a magyar állampolgárság igazolásával kapcsolatos eljárásban a minisztert jelöli ki.
 
 (5) A miniszter az építésügyért való felelősségi körében
 
@@ -62,7 +64,7 @@ a) szakmai irányítást gyakorol az állami főépítészek területfejlesztés
 
 b) gondoskodik a földtani veszélyhelyzet megelőzésével és elhárításával kapcsolatos pályázati rendszer működtetéséről,
 
-c) egyetértési jogot gyakorol a nemzeti erőforrásokért felelős miniszterrel az építészeti és régészeti emlékek védetté nyilvánítása és a védettség megszüntetése ügyében, továbbá a Világörökség Magyar Nemzeti Bizottság munkájában,
+c)[^109] egyetértési jogot gyakorol a nemzeti erőforrás miniszterrel az építészeti és régészeti emlékek védetté nyilvánítása és a védettség megszüntetése ügyében, továbbá a Világörökség Magyar Nemzeti Bizottság munkájában,
 
 d) részt vesz az akadálymentes épített környezet alakításával összefüggő kormányzati feladatok megvalósításában,
 
@@ -70,11 +72,11 @@ e) összehangolja és szakmailag irányítja az építésügyi és az építésf
 
 f) ellátja a hatáskörébe utalt minőségügyi, termékbiztonsági, tanúsítási, minőségbiztosítási, hatósági felügyeleti feladatokat, közreműködik a nemzeti szabványok kidolgozásában,
 
-g) ellátja a Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. (VÁTI) a terület- és településrendezési, a településfejlesztési és építésügyi feladatai szakmai felügyeletével kapcsolatos feladatokat,
+g)[^110] ellátja a Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. (a továbbiakban: VÁTI) a terület- és településrendezési, a településfejlesztési és építésügyi feladatai szakmai felügyeletével kapcsolatos feladatokat,
 
 h) törvényességi felügyeletet gyakorol a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a területi mérnöki kamarák és a területi építész kamarák tevékenysége felett és a nemzetgazdasági miniszterrel együtt ellátja a Magyar Kereskedelmi és Iparkamara által ellátott építésügyi feladatok ellenőrzését,
 
-i) ellátja a Nemzeti Építésügyi Fórum, a Nemzeti Építészeti Tanács és az Építésügyi Dokumentációs Központ működtetésével, továbbá feladatkörét illetően szakmai felügyeletet gyakorol az ÉMI Építésügyi és Minőségellenőrző Innovációs Nonprofit Kft. felett.
+i)[^111] ellátja a Nemzeti Építésügyi Fórum, a Nemzeti Építészeti Tanács és az Építésügyi Dokumentációs Központ működtetésével kapcsolatos feladatokat, továbbá feladatkörét illetően szakmai felügyeletet gyakorol az ÉMI Építésügyi és Minőségellenőrző Innovációs Nonprofit Kft. felett.
 
 (6) A miniszter továbbá
 
@@ -84,7 +86,7 @@ b) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás 
 
 c) működteti és irányítja az Európai Unió Szolidaritás és a Migrációs áramlások igazgatása általános programból származó támogatások felhasználásának rendszerét és közreműködik a Strukturális Alapok, valamint a Kohéziós Alap hazai felhasználásához kapcsolódó Új Magyarország Fejlesztési Terv előkészítésében és nyomon követésében,
 
-d)[^1]
+d)[^112]
 
 e) ellátja az Európai Unió Bűnmegelőzési Hálózat magyar kapcsolattartó pontjának feladatait,
 
@@ -96,8 +98,17 @@ ga) összehangolja a szabálysértési hatóságok tevékenységét,
 
 gb) ellátja a hatáskörbe utalt szabálysértési méltányossági ügyeket,
 
-h) működteti a Duna Palota és Kiadót,
+h)[^113] működteti a Duna Palota Kulturális Nonprofit Kft.-t,
 
 i) működteti az Országos Bűnmegelőzési Bizottságot.
 
-[^1]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^104]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^105]: A 40. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^106]: A 40. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^107]: A 40. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^108]: A 40. § (4a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^109]: A 40. § (5) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^110]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^111]: A 40. § (5) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^112]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^113]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

@@ -6,7 +6,7 @@
 
 a) a közigazgatási és igazságügyi miniszter esetében KIM,
 
-b) a miniszterelnökség esetében Miniszterelnökség,
+b)[^311] a miniszterelnök általános helyettese esetében TNM,
 
 c) a belügyminiszter esetében BM,
 
@@ -21,3 +21,5 @@ g) a nemzetgazdasági miniszter esetében NGM,
 h) a nemzeti fejlesztési miniszter esetében NFM,
 
 i) a vidékfejlesztési miniszter esetében VM.
+
+[^311]: A 119. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 38. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

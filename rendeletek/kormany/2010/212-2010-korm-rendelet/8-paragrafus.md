@@ -1,6 +1,6 @@
-8. § (1) A miniszter meghatározza az e-közigazgatás általános elveit, előkészíti az ezzel kapcsolatos jogszabályokat és állami irányítás egyéb jogi eszközeit, valamint törvény és kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
+8. § (1)[^27] A miniszter az e-közigazgatásért való felelőssége körében meghatározza az e-közigazgatás általános elveit, előkészíti az ezzel kapcsolatos jogszabályokat és állami irányítás egyéb jogi eszközeit, valamint törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(2) A miniszter az e-közigazgatásért való felelőssége körében:
+(2)[^28] A miniszter az (1) bekezdésben meghatározott feladata körében:
 
 a) előkészíti a szolgáltató állam kialakításához szükséges közigazgatási szolgáltatási és informatikai stratégiát,
 
@@ -21,3 +21,6 @@ h) gondoskodik a nemzeti fejlesztési miniszterrel együttműködve az állampol
 i) ellátja az összkormányzati szintű közigazgatási informatikai alkalmazásokkal összefüggő igazgatásszervezési feladatokat,
 
 j) felügyeli a közigazgatási szervek által nyújtott tájékoztatási, kapcsolattartási és ügyintézési szolgáltatásokat és a közigazgatási szervek részére előírt együttműködési kötelezettségek teljesítését.
+
+[^27]: A 8. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (6) bekezdés a)–b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^28]: A 8. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

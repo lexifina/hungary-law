@@ -1,3 +1,5 @@
+## 93. §[^264]
+
 ## X. Fejezet
 
 ## A VIDÉKFEJLESZTÉSI MINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
@@ -22,7 +24,7 @@ h) földügyért,
 
 i) vadgazdálkodásért,
 
-j) halgazdálkodásért
+j)[^265] halgazdálkodásért,
 
 k) környezetvédelemért,
 
@@ -31,3 +33,6 @@ l) természetvédelemért és
 m) vízgazdálkodásért
 
 felelős tagja.
+
+[^264]: A 93. §-t a 267/2010. (XII. 3.) Korm. rendelet 41. § (39) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^265]: A 94. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (59) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

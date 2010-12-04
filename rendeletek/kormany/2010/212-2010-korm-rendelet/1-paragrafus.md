@@ -2,11 +2,13 @@
 
 ## A MINISZTERELNÖK ÁLTALÁNOS HELYETTESÉNEK FELADAT- ÉS HATÁSKÖRE
 
-1. § (1) A Miniszterelnök általános helyettese felelősségi körében a miniszterelnök által meghatározott rendben helyettesíti a miniszterelnököt.
+1. § (1)[^1] A miniszterelnök általános helyettese felelősségi körében a miniszterelnök által meghatározott rendben helyettesíti a miniszterelnököt.
 
-(2) A Miniszterelnök általános helyettese közreműködik közigazgatási és igazságügyi miniszternek az egyházpolitikával és egyház-diplomáciával kapcsolatos feladatai ellátásában.
+(2)[^2] A miniszterelnök általános helyettese közreműködik közigazgatási és igazságügyi miniszternek az egyházpolitikával és egyház-diplomáciával kapcsolatos feladatai ellátásában.
 
-(3) A Miniszterelnök általános helyettese a nemzetpolitikáért való felelőssége körében
+(2a)[^3] A miniszterelnök általános helyettese a Kormány nemzetpolitikáért felelős tagja.
+
+(3)[^4] A miniszterelnök általános helyettese a nemzetpolitikáért való felelőssége körében
 
 a) kidolgozza a magyar nemzet integritása, illetve határokon átnyúló összefogása érdekében a kölcsönös felelősség és figyelem elvén nyugvó nemzetpolitikát,
 
@@ -41,3 +43,8 @@ a) a (2) bekezdésben meghatározott feladatok tekintetében a Közigazgatási �
 b) a (3)–(4) bekezdésben meghatározott feladatok tekintetében a Közigazgatási és Igazságügyi Minisztérium parlamenti államtitkára
 
 helyettesíti.
+
+[^1]: Az 1. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^4]: Az 1. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (1) bekezdés c) pontja szerint módosított szöveg.

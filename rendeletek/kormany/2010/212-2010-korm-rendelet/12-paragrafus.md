@@ -2,26 +2,46 @@
 
 ## A KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
 
-## 12. § A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+## 12. §[^31] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a) igazságügyi szakpolitikáért,
+a) igazságügyért,
 
 b) helyi önkormányzatok törvényességi ellenőrzéséért,
 
 c) közigazgatás-szervezésért,
 
-d) közigazgatás fejlesztéséért való felelőssége részeként a területi közigazgatás fejlesztéséért,
+d) közigazgatás-fejlesztésért,
 
 e) köziratok kezelésének szakmai irányításáért,
 
-f) választójogi és népszavazási szabályozásért, a választások és népszavazások lebonyolításáért,
+f) választójogi és népszavazási szabályozásért,
 
-g) társadalmi esélyegyenlőség előmozdításának részeként az egyenlő bánásmód biztosításáért, a romák társadalmi integrációjáért,
+g) választások és népszavazások lebonyolításáért,
 
-h) társadalmi esélyegyenlőség előmozdításának részeként a társadalmi és civil kapcsolatok fejlesztéséért való felelősséggel kapcsolatos feladatok tekintetében,
+h) egyenlő bánásmód biztosításáért és társadalmi felzárkózásért,
 
-i) társadalompolitika összehangolásáért való felelőssége körében az egyházakkal történő kapcsolattartásért, a nemzetiségekkel való kapcsolattartásért,
+i) társadalmi és civil kapcsolatok fejlesztéséért,
 
-j) minősített adatok védelmének szakmai felügyeletével kapcsolatos feladatok ellátásáért
+j) társadalompolitika összehangolásáért,
 
-felelős tagja
+k) tudománypolitika koordinációjáért,
+
+l) minősített adatok védelmének szakmai felügyeletéért,
+
+m) állampolgársági ügyekért,
+
+n) anyakönyvi ügyekért,
+
+o) kárpótlásért,
+
+p) személyiadat- és lakcímnyilvántartásért,
+
+q) egyházakkal való kapcsolattartás koordinációjáért,
+
+r) kormányzati társadalmi kapcsolatok összehangolásáért,
+
+s) kisebbségpolitikáért és
+
+t) romák társadalmi integrációjáért
+
+[^31]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

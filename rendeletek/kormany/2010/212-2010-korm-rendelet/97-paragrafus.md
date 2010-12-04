@@ -1,6 +1,6 @@
 97. § (1) A miniszter az agrár-vidékfejlesztésért való felelőssége körében előkészíti különösen
 
-a) az Európai Mezőgazdasági és Vidékfejlesztési Alaphoz (EMVA) kapcsolódó Nemzeti Agrár-Vidékfejlesztési Programról,
+a)[^272] az Európai Mezőgazdasági és Vidékfejlesztési Alaphoz (EMVA) kapcsolódó Új Magyarország Vidékfejlesztési Programról,
 
 b) az agrár-vidékfejlesztési támogatásokról szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
@@ -18,23 +18,29 @@ d) a termelésnövelő anyagok, termesztőközegek, növénykondicionáló szere
 
 szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(4) A miniszter az élelmiszerlánc-felügyeletért való felelőssége körében állat-egészségügyi feladatai keretében előkészíti különösen
+(4)[^273] A miniszter az élelmiszerlánc-felügyeletért való felelőssége körében állat-egészségügyi feladatai keretében előkészíti különösen
 
-a) a veszélyes állatbetegségek járványos fellépésének megelőzéséről,
+a) az állatok tartásának, tenyésztésének, szaporításának, forgalomba hozatalának, kezelésének szabályairól,
 
-b) az egyes állatgyógyászati termékek előállításáról, törzskönyvezéséről, forgalomba hozataláról, forgalmazásáról és felhasználásáról,
+b) az állatok forgalmára, szállítására és kereskedelmére vonatkozó szabályokról,
 
-c) az állati eredetű melléktermékek kezeléséről
+c) az állatállományok állat-egészségügyi védelméről,
 
-szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+d) a veszélyes állatbetegségek járványos fellépésének megelőzéséről,
 
-(5) A miniszter a természetvédelemért és élelmiszerlánc-felügyeletért való felelőssége körében állat-egészségügyi feladatai keretében felel továbbá az állatok védelméért, e körben előkészíti különösen az állatok védelméről és kíméletéről, valamint az ahhoz kapcsolódó hatósági feladatokról szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+e) az egyes állatgyógyászati termékek előállításáról, törzskönyvezéséről, forgalomba hozataláról, forgalmazásáról és felhasználásáról,
 
-(6) A miniszter az élelmiszerlánc-felügyeletért való felelőssége körében élelmiszer-biztonsági feladatai keretében felel az élelmiszer-higiéniáért és az élelmiszer-ellenőrzésért, e körben – a nemzeti erőforrás miniszterrel együttműködve – előkészíti különösen
+f) az állati eredetű termékek és melléktermékek kezeléséről
+
+## szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+
+(5)[^274] A miniszter a természetvédelemért való felelőssége, valamint az élelmiszerlánc-felügyeletért való felelőssége körében állat-egészségügyi feladatai keretében felel továbbá az állatok védelméért, e körben előkészíti különösen az állatok védelméről és kíméletéről, valamint az ahhoz kapcsolódó hatósági feladatokról szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+
+(6)[^275] A miniszter az élelmiszerlánc-felügyeletért való felelőssége körében élelmiszer-biztonsági feladatai keretében felel az élelmiszer-higiéniáért és az élelmiszer-ellenőrzésért, e körben – a nemzetgazdasági miniszterrel együttműködve – előkészíti különösen
 
 a) az élelmiszer-biztonsági és élelmiszer-higiéniai követelményekről,
 
-b) az élelmiszer minőség-ellenőrzésről, valamint a bor és zöldség-gyümölcs minőség-ellenőrzésről,
+b)[^276] az élelmiszer minőség-ellenőrzésről, a zöldség-gyümölcs ellenőrzésről, valamint a borminősítésről és -ellenőrzésről,
 
 c) a bor előállítás és forgalomba hozatal feltételrendszeréről
 
@@ -88,7 +94,7 @@ d) a földügyi informatikai rendszerről
 
 szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(13) A miniszter a vadgazdálkodásért, halgazdálkodásért való felelőssége körében előkészíti különösen
+(13)[^277] A miniszter a vadgazdálkodásért való felelőssége, valamint a halgazdálkodásért való felelőssége körében előkészíti különösen
 
 a) a vadászható, halászható állatfajokról, valamint azok génkészlete védelméről, fenntartásának, hasznosításának szabályairól,
 
@@ -97,3 +103,10 @@ b) a vadászat gyakorlásának feltételeiről, a vadászat rendjéről és a va
 c) a halászat feltételeiről
 
 szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+
+[^272]: A 97. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (61) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^273]: A 97. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 32. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^274]: A 97. § (5) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (61) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^275]: A 97. § (6) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (61) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^276]: A 97. § (6) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (61) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^277]: A 97. § (13) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (61) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
