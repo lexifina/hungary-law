@@ -1,3 +1,3 @@
 ## A kétszeres adóztatás elkerülése
 
-6. § Amennyiben az adóalany által folytatott tevékenység egyidejűleg a 2. § a) és c) vagy a 2. § b) és c) pontja alapján egyaránt adóköteles lehet, akkor az adót csak az egyik, a magasabb összegű adófizetési kötelezettséget eredményező tevékenység után köteles megfizetni.
+6. § Ha az adóalany 2. § c) pontja szerinti tevékenysége a 2. § a) és/vagy b) pontja szerint is adóköteles, akkor a 2. § a), illetve b) pontja szerinti tevékenység után az 5. § a) és c), illetve az 5. § b) és c) pontjai szerinti adómértékek alkalmazásával számított adóösszegek közül csak a nagyobbat kell megfizetni.
