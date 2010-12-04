@@ -1,4 +1,4 @@
-27. §[^212] (1) A finanszírozási szerződésben meghatározható a szolgáltató által nyújtható szolgáltatások köre, a szolgáltatásvolumen, a teljesítményvolumen, a teljesítés időbeli ütemezése és a többletteljesítmény elszámolásának feltételei és mértéke.
+27. §[^211] (1) A finanszírozási szerződésben meghatározható a szolgáltató által nyújtható szolgáltatások köre, a szolgáltatásvolumen, a teljesítményvolumen, a teljesítés időbeli ütemezése és a többletteljesítmény elszámolásának feltételei és mértéke.
 
 (2) A teljesítményvolument (a továbbiakban: TVK) a járóbeteg-szakellátásra – ideértve a 32. § szerinti CT, MRI vizsgálatokat is –, az aktív fekvőbeteg-szakellátásra vonatkozóan éves szinten, illetve időarányosan, – az ellátási igények 28. számú mellékletben meghatározott országos szezonális index szerinti változásának figyelembevételével – havi bontásban kell meghatározni.
 
@@ -36,4 +36,4 @@ kivételével történik.
 
 (8) A tárgyidőszakra megállapított TVK-t a tárgyidőszak szerinti hónapokra vonatkozóan jelentett szolgáltatói teljesítmények elszámolásában kell alkalmazni.
 
-[^212]: A 27. § a 232/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
+[^211]: A 27. § a 232/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.

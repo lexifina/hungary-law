@@ -30,4 +30,4 @@
 
 5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^386]
 
-[^386]: Az 5. számú mellékletet a 329/2005. (XII. 29.) Korm. rendelet 16. § (6) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 166/2010. (V. 11.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 184/2010. (V. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^386]: Az 5. számú mellékletet a 329/2005. (XII. 29.) Korm. rendelet 16. § (6) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 269/2010. (XII. 3.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

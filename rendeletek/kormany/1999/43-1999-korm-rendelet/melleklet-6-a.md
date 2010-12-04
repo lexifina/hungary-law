@@ -60,7 +60,9 @@
 
 |  |  | Eseti kereset-kiegészítés fedezete | 11 200,0 |
 
-| 13. | Célelőirányzatok összesen | 11 525,9 |
+|  |  | Adósságkonszolidáció támogatása | 27 480,9 |
+
+| 13. | Célelőirányzatok összesen | 39 006,8 |
 
 | 14. | Mentés | 22 469,0 |
 
@@ -88,7 +90,7 @@
 
 | 21. | Gyógyító-megelőző ellátás céltartalék | 2 390,0 |
 
-|  | Összesen | 757 632,1 |
+|  | Összesen | 785 113,0 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^387]
 
