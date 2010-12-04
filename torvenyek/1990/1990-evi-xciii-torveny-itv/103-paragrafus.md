@@ -242,7 +242,7 @@ n) az építésrendészeti hatósági intézkedés kérése esetében 15 000 for
 
 2. az építésügyi és építésfelügyeleti hatósági eljárásban hozott döntés ellen igénybe vehető fellebbezés esetén 30 000 forint,
 
-3. a felügyeleti intézkedés kezdeményezése esetén 50 000 forint.
+3.
 
 4. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, elvi építési, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
 

@@ -46,6 +46,8 @@ qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. na
 
 qe) az üzletágat átvevő társaság vállalja azt is, hogy az átvett eszközöket az illetékkiszabásra történő bemutatást követő egy éven belül nem idegeníti el;
 
+r)
+
 s) a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
 
 t) a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása.

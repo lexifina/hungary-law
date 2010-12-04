@@ -1,0 +1,1 @@
+99/B. § A Mellékletnek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20. alcímével hatályon kívül helyezett XV. pont 3. alpontját a hatályvesztést megelőzően indult eljárásokban alkalmazni kell.

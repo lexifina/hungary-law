@@ -104,4 +104,6 @@ történik a kiállítása;
 
 34. a Pénzügyi Szervezetek Állami Felügyeletének fogyasztóvédelmi eljárása;
 
-35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása.
+35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása;
+
+36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás.

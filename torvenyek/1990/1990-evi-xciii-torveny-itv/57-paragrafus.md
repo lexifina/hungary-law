@@ -8,7 +8,7 @@ c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 
 d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
 
-e) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az európai területi együttműködési csoportosulás, továbbá a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény alapján létrehozott MRP szervezet nyilvántartásba vételére irányuló eljárás, valamint az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
+e) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az európai területi együttműködési csoportosulás, továbbá a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény alapján létrehozott MRP szervezet nyilvántartásba vételére irányuló eljárás;
 
 f) a megszűnt cég törlése iránti kérelem, ideértve az egyszerűsített végelszámolásban – a végelszámoló személyének bejelentésével együtt – előterjesztett törlés iránti kérelmet;
 
