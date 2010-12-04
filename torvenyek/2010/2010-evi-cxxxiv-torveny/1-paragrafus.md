@@ -1,0 +1,19 @@
+## A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény módosítása
+
+1. § A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény (a továbbiakban: Fbkt.) 4. §-a helyébe a következő rendelkezések lépnek:
+
+„4. § (1) A földgáz biztonsági készlet mértéke legalább 600 millió m3 és legfeljebb 1200 millió m3 mobil földgázkészlet azzal, hogy a földgáz biztonsági készletet olyan tárolóban kell elhelyezni, amelynek kitárolási kapacitása napi 20 millió m3 és amely ezt a napi kitárolási mennyiséget 600 millió m3 földgáz biztonsági készlet tárolása esetén legalább a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és a tanácsi rendelet (a továbbiakban: 994/2010/EU rendelet) 8. cikk (1) bekezdés c) pontjában meghatározott időtartamon keresztül biztosítani képes.
+
+(2) A biztonsági földgázkészlet mértékét, valamint erre tekintettel a készletértékesítési vagy készletbeszerzési kötelezettség mértékét és feltételeit, a biztonsági földgázkészlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) évenként január 15-ig rendeletben határozza meg. A Szövetség a készletezési kötelezettségének készlet beszerzéssel tesz eleget, a miniszter által előírt készlet-mértéket meghaladó készlet esetén a többletet a Szövetség köteles az (5) bekezdés szerinti rendeletben foglalt feltételekkel értékesíteni.
+
+(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 994/2010/EU rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg.
+
+(4) Készletbeszerzési vagy készletértékesítési kötelezettség esetén a Szövetségnek a földgáz betárolását vagy kitárolását a miniszter rendeletében meghatározott ütemezéssel és határidővel kell végrehajtania.
+
+(5) Készletértékesítés esetén a miniszter rendeletben állapítja meg az értékesítendő földgáz mennyiségét, a földgáz-értékesítés módját, a készlet értékét, amely alapján meghatározott árnál alacsonyabb áron a földgáz nem értékesíthető, valamint a kedvezményezettek körét. Készletértékesítés során a miniszter által megállapított készlet értéke legalább az átlagos beszerzési értékkel egyezik meg. A készletértékesítést követően a Szövetség az értékesített földgáz árát a hitelei törlesztésére vagy a miniszter által rendeletben meghatározott esetben és módon készletvisszapótlásra fordítja.
+
+(6) Amennyiben a Szövetség által betárolt biztonsági készletet tároló földalatti gáztárolóban készletértékesítést követően szabad kapacitások állnak a Szövetség rendelkezésére, ezen szabad kapacitásokat a Szövetség másodlagos kapacitás-kereskedelemben értékesítheti. A szabad kapacitások értékesítésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+
+(7) A készletezési kötelezettség csak a Szövetség tulajdonában, résztulajdonában vagy bérleményében lévő föld alatti tárolóban tárolt, illetve föld alatti tárolóteret üzemeltető földgáztárolóval kötött szerződés alapján tároltatott földgázzal teljesíthető.
+
+(8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.”
