@@ -126,100 +126,10 @@ KMOP 4.3.2. „Kistérségi járóbeteg-szakellátás fejlesztése a Közép-mag
 
 | Összesen | 0 | 60 |
 
-3. Az Új Magyarország Fejlesztési Terv Társadalmi Infrastruktúra Operatív Program járóbeteg-szakellátás fejlesztésével kapcsolatos pályázataival összefüggő többletkapacitási kérelmek előzetes befogadásáról szóló 1019/2008. (III. 26.) Korm. határozat 1. pontjában
-
-a) a
-
-(Dél-Alföld)
-
-| Sarkad | 200 | 120 | 200 | 300 |
-
-| Összesen | 600 | 240 | 596 | 672 |
-
-sor helyébe a
-
-| Sarkad | 142 | 120 | 200 | 300 |
-
-| Összesen | 542 | 240 | 596 | 672 |
-
-sor,
-
-b) a
-
-(Dél-Dunántúl)
-
-| Tab | 166 | 100 | 28 | 300 |
-
-sor helyébe a
-
-| Tab | 165 | 80 | 28 | 300 |
-
-sor,
-
-c) az
-
-(Dél-Dunántúl)
-
-| Összesen | 1070 | 568 | 188 | 1740 |
-
-sor helyébe az
-
-| Összesen | 1069 | 648 | 188 | 1740 |
-
-sor,
-
-d) a
-
-(Észak-Magyarország)
-
-| Rétság | 200 | 120 | 140 | 300 |
-
-sor helyébe a
-
-| Rétság | 200 | 120 | 150 | 300 |
-
-sor,
-
-e) a
-
-(Észak-Magyarország)
-
-| Mezőcsát | 200 | 120 | 0 | 342 |
-
-sor helyébe a
-
-| Mezőcsát | 145 | 120 | 0 | 342 |
-
-sor,
-
-f) az
-
-(Észak-Magyarország)
-
-| Összesen | 1200 | 680 | 690 | 1642 |
-
-sor helyébe az
-
-| Összesen | 1145 | 680 | 700 | 1642 |
-
-sor,
-
-g) a
-
-(Nyugat-Dunántúl)
-
-| MINDÖSSZESEN | 4839 | 2597 | 2552 | 7034 |
-
-sor helyébe a
-
-(Nyugat-Dunántúl)
-
-| MINDÖSSZESEN | 4725 | 2677 | 2562 | 7034 |
-
-sor
-
-lép.
+3.[^1]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
 5. A 3. pont az e határozat hatálybalépését követő napon hatályát veszti. Ez a pont az e határozat hatálybalépését követő második napon hatályát veszti.
+
+[^1]: A 3. pontot az 5. pont hatályon kívül helyezte.
