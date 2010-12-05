@@ -1,5 +1,0 @@
-12. § A GET 133. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg]
-
-„3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatók részére vételre felajánlott földgázforrás árát, a felajánlás keretében értékesített mennyiséget a földgáztárolóból és importból származó mennyiség szerinti bontásban; az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges hazai termelésű földgáz mennyiségét, az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, az igénybevételre jogosultak vagy e törvény szerint kötelezettek körét, valamint a 141/A. §-ban és a 141/B. §-okban foglaltak megsértése esetén az e rendelkezésekben meghatározott engedélyesekkel szemben alkalmazandó jogkövetkezmények körét,”
