@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-29-00-00
 | --- | --- | --- |
 | 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-29-00-00.11 |
 | 2010-11-20 | 2010. évi CV. törvény | 2004-29-00-00.12 |
+| 2010-12-05 | 2010. évi CXVII. törvény | 2004-29-00-00.13 |
