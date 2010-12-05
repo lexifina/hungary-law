@@ -1,0 +1,9 @@
+17. § Hatályát veszti az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 143/A. §-át megelőző alcíme és 143/A–143/E. §-a.
+
+Dr. Schmitt Pál s. k.,
+
+köztársasági elnök
+
+Dr. Kövér László s. k.,
+
+az Országgyűlés elnöke

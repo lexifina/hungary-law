@@ -1,0 +1,1 @@
+Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásra gyakorolt hatása csökkentése, a bioüzemanyag előállítása során a fenntarthatósági szempontok érvényesítése érdekében, az európai uniós jogi követelményekre figyelemmel a következő törvényt alkotja:
