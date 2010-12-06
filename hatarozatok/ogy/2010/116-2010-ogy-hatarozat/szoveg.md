@@ -2,6 +2,8 @@
 
 Elnök: Manninger Jenő (Fidesz)
 
+Alelnök: Jávor Benedek (LMP)[^2]
+
 Tagjai:
 
 dr. Dancsó József (Fidesz)
@@ -12,6 +14,6 @@ Göndör István (MSZP)
 
 Korondi Miklós (Jobbik)
 
-Jávor Benedek (LMP)
-
 2. E határozat a Mávh. hatálybalépésével egyidejűleg lép hatályba.
+
+[^2]: A 121/2010. (XII. 7.) OGY határozat 1. pontjával megállapított szöveg.
