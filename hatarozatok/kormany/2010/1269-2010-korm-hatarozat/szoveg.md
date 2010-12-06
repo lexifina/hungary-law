@@ -34,6 +34,8 @@ h) szükség esetén a feladatkörrel rendelkező miniszter, illetve a Kormány 
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7. A határozat hatálybalépésével egyidejűleg hatályát veszti a magyar–orosz gazdasági kapcsolatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1151/2010. (VII. 9.) Korm. határozat.
+7.[^1]
 
 8. A határozat 7. pontja a határozat hatálybalépését követő második napon hatályát veszti. Ez a pont a határozat hatálybalépését követő 3. napon hatályát veszti.
+
+[^1]: A 7. pontot a 8. pont hatályon kívül helyezte.
