@@ -126,10 +126,11 @@ KMOP 4.3.2. „Kistérségi járóbeteg-szakellátás fejlesztése a Közép-mag
 
 | Összesen | 0 | 60 |
 
-3.[^1]
+3.[^2]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5. A 3. pont az e határozat hatálybalépését követő napon hatályát veszti. Ez a pont az e határozat hatálybalépését követő második napon hatályát veszti.
+5.[^3]
 
-[^1]: A 3. pontot az 5. pont hatályon kívül helyezte.
+[^2]: A 3. pontot az 5. pont hatályon kívül helyezte.
+[^3]: Az 5. pont ugyanezen pont alapján hatályát vesztette.
