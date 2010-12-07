@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-58-00-00
 | 2010-08-14 | 2010. évi XC. törvény | 2010-58-00-00.3 |
 | 2010-09-01 | 2010. évi XC. törvény | 2010-58-00-00.4 |
 | 2010-11-27 | 2010. évi CXXVI. törvény | 2010-58-00-00.5 |
+| 2010-12-07 | 2010. évi CXXXVIII. törvény | 2010-58-00-00.6 |
