@@ -34,8 +34,9 @@ h) szükség esetén a feladatkörrel rendelkező miniszter, illetve a Kormány 
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7.[^1]
+7.[^2]
 
-8. A határozat 7. pontja a határozat hatálybalépését követő második napon hatályát veszti. Ez a pont a határozat hatálybalépését követő 3. napon hatályát veszti.
+8.[^3]
 
-[^1]: A 7. pontot a 8. pont hatályon kívül helyezte.
+[^2]: A 7. pontot a 8. pont hatályon kívül helyezte.
+[^3]: A 8. pont ugyanezen pont alapján hatályát vesztette.

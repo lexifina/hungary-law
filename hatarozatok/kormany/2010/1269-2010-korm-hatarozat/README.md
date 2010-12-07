@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1269-30
 | --- | --- | --- |
 | 2010-12-04 | 2010-1269-30-22.1 | 1269/2010. (XII. 3.) Korm. határozat |
 | 2010-12-06 | 2010-1269-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-12-07 | 2010-1269-30-22.3 | 1522/2011. (XII. 30.) Korm. határozat |
