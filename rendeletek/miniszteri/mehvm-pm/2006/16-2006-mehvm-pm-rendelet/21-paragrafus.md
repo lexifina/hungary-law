@@ -1,11 +1,9 @@
-21. § (1)[^87] Az 1 milliárd forintot meg nem haladó támogatással megvalósuló projektek közösségi értékhatárokat elérő vagy meghaladó értékű közbeszerzései esetében a 20. §-ban foglaltak mellett a kedvezményezett a projektet érintő valamennyi közbeszerzési eljárás megindításának szándékáról az ajánlati, részvételi, illetve ajánlattételi felhívás, valamint a dokumentáció (a továbbiakban: közbeszerzési dokumentumok) megküldésével az eljárás tervezett megindítása előtt legalább 15 munkanappal tájékoztatja a közreműködő szervezetet. Ha a közreműködő szervezet az eljárás előkészítésébe vagy az eljárásba a (3) bekezdésben, valamint külön jogszabályban meghatározott módon be kívánja vonni az EKKE-t, a dokumentumok megküldésével erről haladéktalanul tájékoztatja.
+21. §[^89] (1) A közösségi értékhatárokat el nem érő értékű, továbbá építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárás során a (2)–(4) bekezdésben foglaltak alkalmazandók.
 
-(2)[^88]
+(2) A kedvezményezett a közbeszerzési eljárás eredményhirdetésének időpontjáról – legalább 2 munkanappal megelőzően – értesíti a közreműködő szervezetet. A kedvezményezett az eredményhirdetést követő 2 munkanapon belül megküldi a közbeszerzési eljárás során keletkezett összes dokumentumot – jogorvoslati eljárás esetén a KDB döntését tartalmazó dokumentumot is – a közreműködő szervezet részére. Az eredményhirdetés kifejezés alatt az eljárás eredményéről szóló összegzés megküldésének napját is érteni kell.
 
-(3)[^89] Amennyiben az EKKE – a közreműködő szervezet tájékoztatását követően – az eljárás előkészítése vagy lefolytatása során dokumentumokat kér be vagy megfigyelőt delegál, írásos szakértői jelentést készít a kedvezményezett és a közreműködő szervezet részére.
+(3) A közreműködő szervezet a (2) bekezdés szerinti dokumentumokat – figyelemmel az NFÜ által kiadott egységes működési kézikönyvben foglaltakra is – utóellenőrzésnek veti alá. A közreműködő szervezet a dokumentumok beérkezését követő 5 munkanapon belül az ellenőrzés eredményéről a kedvezményezettet értesíti. A közreműködő szervezet az ellenőrzés eredményétől függően lefolytatja a KR-ben meghatározott szabálytalansági eljárást, illetve a jogorvoslati eljárás kezdeményez.
 
-(4) Amennyiben az EKKE jelentésében jogszabálysértést vagy annak gyanúját jelzi, a kedvezményezett 8 napon belül írásos választ készít az EKKE és a közreműködő szervezet részére.
+(4) Az NFÜ a közbeszerzési eljárások utóellenőrzését magához vonhatja, a döntéséről a közreműködő szervezetet értesíti. Ebben az esetben az ellenőrzést a Közbeszerzési Felügyeleti Főosztály (a továbbiakban: KFF) végzi.
 
-[^87]: A 21. § (1) bekezdése a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 19. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^88]: A 21. § (2) bekezdését a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^89]: A 21. § (3) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 23. § (2) bekezdésével megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^89]: A 21. § a 16/2010. (XI. 18.) NFM–NGM együttes rendelet 1. §-ával megállapított szöveg.

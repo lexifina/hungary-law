@@ -1,4 +1,4 @@
-3/A. §[^12] (1) Amennyiben a felhívásban nem zárták ki, projektjavaslatot a projekt megvalósítására létrehozott konzorcium (a továbbiakban: konzorcium) is benyújthat.
+3/A. §[^13] (1) Amennyiben a felhívásban nem zárták ki, projektjavaslatot a projekt megvalósítására létrehozott konzorcium (a továbbiakban: konzorcium) is benyújthat.
 
 (2) A konzorcium az erre irányuló, a felhívás részeként közzétett megállapodás-tervezetben foglalt rendelkezéseket is tartalmazó megállapodással (a továbbiakban: konzorciumi együttműködési megállapodás) jön létre.
 
@@ -8,4 +8,4 @@
 
 (5) A konzorciumot az NFÜ-vel és a közreműködő szervezettel szemben a konzorciumi együttműködési megállapodásban kijelölt tag képviseli.
 
-[^12]: A 3/A. §-t a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 2. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^13]: A 3/A. §-t a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 2. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,12 +1,10 @@
-## 22/B. §[^92] A támogatási döntésről szóló értesítés kézhezvételét – kiemelt projekt és kétfordulós pályázat esetén a részletes projektjavaslat benyújtását – követően a projektgazda köteles a közreműködő szervezetet a közbeszerzési eljárások megindításáról a 21–22. §-ban foglalt határidők szerint tájékoztatni. Ha a közreműködő szervezet, illetve az NFÜ a 21–22. §-ban meghatározott módon kíván eljárni, a tájékoztatás kézhezvételét követő 10 munkanapon belül tájékoztatja a kedvezményezettet.
-
 ## A megvalósítás nyomon követése
 
-23. § (1)[^93] A kedvezményezett a támogatási szerződés megkötésétől kezdve hathavonta legalább egy alkalommal előrehaladási jelentést nyújt be a közreműködő szervezethez. Az előrehaladási jelentést az NFÜ által meghatározott formátumban, elektronikusan kell benyújtani. A támogatási szerződésben az NFÜ előírhatja, hogy az előrehaladási jelentést a kedvezményezett papír alapon is köteles benyújtani. A kétféle módon benyújtott előrehaladási jelentésben mutatkozó eltérés esetén a papír alapú és aláírt előrehaladási jelentés tekintendő hitelesnek azzal, hogy a papír alapú és az elektronikus formájú előrehaladási jelentés egyezőségéről a kedvezményezett köteles gondoskodni.
+23. § (1)[^98] A kedvezményezett a támogatási szerződés megkötésétől kezdve hathavonta legalább egy alkalommal előrehaladási jelentést nyújt be a közreműködő szervezethez. Az előrehaladási jelentést az NFÜ által meghatározott formátumban, elektronikusan kell benyújtani. A támogatási szerződésben az NFÜ előírhatja, hogy az előrehaladási jelentést a kedvezményezett papír alapon is köteles benyújtani. A kétféle módon benyújtott előrehaladási jelentésben mutatkozó eltérés esetén a papír alapú és aláírt előrehaladási jelentés tekintendő hitelesnek azzal, hogy a papír alapú és az elektronikus formájú előrehaladási jelentés egyezőségéről a kedvezményezett köteles gondoskodni.
 
 (2) Amennyiben a támogatás nem éri el a 10 millió forintot, vagy a projekt megvalósításának időtartama nem éri el az 1 évet, a kedvezményezett egyetlen előrehaladási jelentést (záró jelentést) nyújt be a közreműködő szervezethez.
 
-(3)[^94] Az előrehaladási jelentés információkat tartalmaz a projekt eredményességéről és hatékonyságáról, így különösen:
+(3)[^99] Az előrehaladási jelentés információkat tartalmaz a projekt eredményességéről és hatékonyságáról, így különösen:
 
 a) a célokhoz mért előrehaladás, beleértve a számszerűsített célok mutatóit,
 
@@ -20,11 +18,11 @@ e) a környezeti fenntarthatóság és az esélyegyenlőség érvényesítése a
 
 f) helyszíni szemlék, ellenőrzések megállapításai alapján a kedvezményezett által készített intézkedési tervek és megtett intézkedések.
 
-(4)[^95] A jelentéshez az alábbi, az előrehaladást igazoló dokumentumokat kell csatolni:
+(4)[^100] A jelentéshez az alábbi, az előrehaladást igazoló dokumentumokat kell csatolni:
 
-a)[^96]
+a)[^101]
 
-b)[^97] a (szükség esetén) lefolytatott közbeszerzési eljárás ajánlati, részvételi, illetve ajánlattételi felhívása, az ajánlatok elbírálásának befejezésekor készített összegezés, jogorvoslat esetén a KDB határozata, valamint a Kbt. által előírt esetekben hivatalos közbeszerzési tanácsadó igénybevételének igazolása;
+b)[^102] a (szükség esetén) lefolytatott közbeszerzési eljárás ajánlati, részvételi, illetve ajánlattételi felhívása, az ajánlatok elbírálásának befejezésekor készített összegezés, jogorvoslat esetén a KDB határozata, valamint a Kbt. által előírt esetekben hivatalos közbeszerzési tanácsadó igénybevételének igazolása;
 
 c) a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését igazoló dokumentumok.
 
@@ -36,9 +34,8 @@ b) kezdeményezi a támogatási szerződés módosítását, vagy
 
 c) kezdeményezi a támogatás felfüggesztését, a már kifizetett támogatás visszafizetésének elrendelését, vagy a támogatási szerződés megszüntetését.
 
-[^92]: A 22/B. §-t a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 25. §-a iktatta be, szövege a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 21. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^93]: A 23. § (1) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 26. § (1) bekezdésével megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^94]: A 23. § (3) bekezdése a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 16. §-ával megállapított szöveg, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^95]: A 23. § (4) bekezdésének bevezető szövegrésze a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 26. § (2) bekezdésével megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^96]: A 23. § (4) bekezdésének a) pontját a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^97]: A 23. § (4) bekezdés b) pontját a 20/2010. (V. 13.) NFGM–PM együttes rendelet 14. §-a hatályon kívül helyezte, újonnan a 2/2010. (VI. 29.) NFM–NGM együttes rendelet 1. §-a iktatta be.
+[^98]: A 23. § (1) bekezdése a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 26. § (1) bekezdésével megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^99]: A 23. § (3) bekezdése a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 16. §-ával megállapított szöveg, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^100]: A 23. § (4) bekezdésének bevezető szövegrésze a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 26. § (2) bekezdésével megállapított szöveg. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^101]: A 23. § (4) bekezdésének a) pontját a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^102]: A 23. § (4) bekezdés b) pontját a 20/2010. (V. 13.) NFGM–PM együttes rendelet 14. §-a hatályon kívül helyezte, újonnan a 2/2010. (VI. 29.) NFM–NGM együttes rendelet 1. §-a iktatta be.

@@ -1,8 +1,8 @@
-## Részletes projektjavaslatok kiválasztása – kiemelt projekt, kistérségi programban meghatározott projekt, egyfordulós pályázat esetén, kétfordulós pályázat második fordulójában[^60]
+## Részletes projektjavaslatok kiválasztása – kiemelt projekt, kistérségi programban meghatározott projekt, egyfordulós pályázat esetén, kétfordulós pályázat második fordulójában[^61]
 
-11. § (1)[^61] Az NFÜ felhívásban tájékoztatja az akciótervben, illetve a kistérségi programban meghatározott, illetve kétfordulós pályázat esetében a 4–10. §, valamint a 3. § (9) bekezdése szerint kiválasztott lehetséges projektgazdákat a támogatás igénylésének feltételeiről a 4. § (2)–(4) bekezdésében meghatározott módon.
+11. § (1)[^62] Az NFÜ felhívásban tájékoztatja az akciótervben, illetve a kistérségi programban meghatározott, illetve kétfordulós pályázat esetében a 4–10. §, valamint a 3. § (9) bekezdése szerint kiválasztott lehetséges projektgazdákat a támogatás igénylésének feltételeiről a 4. § (2)–(4) bekezdésében meghatározott módon.
 
-(2)[^62] Az 1 milliárd forintot meghaladó támogatással megvalósítandó beruházás esetén a projekt adatlaphoz csatolni kell legalább:
+(2)[^63] Az 1 milliárd forintot meghaladó támogatással megvalósítandó beruházás esetén a projekt adatlaphoz csatolni kell legalább:
 
 a) a megalapozó tanulmányokat és terveket, nyomvonalváltozással nem járó közútfelújítási projektek kivételével megvalósíthatósági tanulmányt, jövedelemtermelő és nagyprojektek esetén külön költség-haszon elemzést, külön jogszabály előírása esetén környezeti hatástanulmányt, engedélyezési vagy annál részletesebb terveket,
 
@@ -18,9 +18,9 @@ d) nagyprojekt esetén a Bizottság 2006. december 8-i 1828/2006/EK rendeleténe
 
 (5) Az NFÜ, illetve a közreműködő szervezet gondoskodik a felhívás közzétételéről az 5. §-ban meghatározott módon.
 
-(6)[^63] Kiemelt projekt, kistérségi programban meghatározott projekt, valamint kétfordulós pályázat második fordulója esetében a közreműködő szervezet biztosítja a projektgazdák számára a személyes konzultáció lehetőségét. Kiemelt projekt, kistérségi programban meghatározott projekt, valamint kétfordulós pályázat második fordulója esetében az 5. § (5) bekezdésében foglalt korlátozást nem kell alkalmazni.
+(6)[^64] Kiemelt projekt, kistérségi programban meghatározott projekt, valamint kétfordulós pályázat második fordulója esetében a közreműködő szervezet biztosítja a projektgazdák számára a személyes konzultáció lehetőségét. Kiemelt projekt, kistérségi programban meghatározott projekt, valamint kétfordulós pályázat második fordulója esetében az 5. § (5) bekezdésében foglalt korlátozást nem kell alkalmazni.
 
-[^60]: A 11. §-t megelőző alcím a 14/2008. NFGM–PM együttes rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^61]: A 11. § (1) bekezdése a 14/2008. NFGM–PM együttes rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^62]: A 11. § (2) bekezdése a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 9. §-ával megállapított szöveg, e módosító rendelet 18. § (4) bekezdése alapján a rendelkezést a 2009. január 1-jét követően meghirdetett pályázatok esetében kell alkalmazni.
-[^63]: A 11. § (6) bekezdése a 14/2008. NFGM–PM együttes rendelet 11. § (3) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^61]: A 11. §-t megelőző alcím a 14/2008. NFGM–PM együttes rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^62]: A 11. § (1) bekezdése a 14/2008. NFGM–PM együttes rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^63]: A 11. § (2) bekezdése a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 9. §-ával megállapított szöveg, e módosító rendelet 18. § (4) bekezdése alapján a rendelkezést a 2009. január 1-jét követően meghirdetett pályázatok esetében kell alkalmazni.
+[^64]: A 11. § (6) bekezdése a 14/2008. NFGM–PM együttes rendelet 11. § (3) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

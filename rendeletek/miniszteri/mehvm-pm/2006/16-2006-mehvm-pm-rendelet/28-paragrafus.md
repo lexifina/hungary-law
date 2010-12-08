@@ -14,6 +14,6 @@ c) az Európai Parlament és a Tanács 1081/2006/EK rendelete (2006. július 5.)
 
 d) a Tanács 1084/2006/EK rendelete (2006. július 11.) a Kohéziós Alap létrehozásáról és az 1164/94/EK rendelet hatályon kívül helyezéséről.
 
-(4)[^104] Ahol e rendelet napot említ, azon naptári napot kell érteni.
+(4)[^109] Ahol e rendelet napot említ, azon naptári napot kell érteni.
 
-[^104]: A 28. § (4) bekezdését a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 28. §-a iktatta be. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^109]: A 28. § (4) bekezdését a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 28. §-a iktatta be. E rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
