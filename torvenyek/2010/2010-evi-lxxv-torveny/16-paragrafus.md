@@ -1,6 +1,6 @@
 16. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2010. augusztus 1-jén lép hatályba.
 
-(2) E törvény 24. §-a a kihirdetéssel egyidejűleg, a 11. § (1) bekezdés c) pontja, a 11. § (5) bekezdés a) pontja 2010. december 1-jén lép hatályba.
+(2)
 
 (3) E törvény hatálybalépését követően az alkalmi munkavállalói és egyszerűsített foglalkoztatási jogviszonyból származó adóbevallási és -befizetési kötelezettségre egységesen e törvény, a hatálybalépését megelőző időszakra vonatkozó bejelentési, bevallási és fizetési kötelezettségre a 2010. március 31-éig tartó adómegállapítási időszakra vonatkozóan az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény, a 2010. április 1.–július 31. közötti adómegállapítási időszakra vonatkozóan az egyszerűsített foglalkoztatásról szóló 2009. évi CLII. törvény (a továbbiakban: Eftv.) rendelkezéseit kell alkalmazni.
 
