@@ -5,11 +5,3 @@
 (3) A Megállapodás hatálybalépésének naptári napját, illetve a (2) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (4) E törvény végrehajtásához szükséges intézkedésekről az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter gondoskodik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
