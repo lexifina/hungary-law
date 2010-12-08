@@ -1,6 +1,6 @@
 132. § (1) Az I. Fejezet – a (2) bekezdésben foglalt kivétellel – 2010. augusztus 15-én lép hatályba.
 
-(2) A 3. § (1) bekezdésének c) pontja 2010. december 1-jén lép hatályba.
+(2)
 
 (3) Az I. Fejezetben meghatározott bejelentési szabályokat 2010. augusztus 15-étől, a regisztrációs díjfizetésre vonatkozó rendelkezéseket pedig 2010. szeptember 15-étől kell alkalmazni.
 
