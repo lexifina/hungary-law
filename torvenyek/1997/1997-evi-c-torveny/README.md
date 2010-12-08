@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-100-00-00
 | 2010-06-29 | 2010. évi LXII. törvény | 1997-100-00-00.21 |
 | 2010-06-30 | 2010. évi LX. törvény | 1997-100-00-00.22 |
 | 2010-07-06 | 2010. évi LVIII. törvény | 1997-100-00-00.23 |
+| 2010-12-08 | 193/2010. (XII. 8.) AB határozat | 1997-100-00-00.24 |
