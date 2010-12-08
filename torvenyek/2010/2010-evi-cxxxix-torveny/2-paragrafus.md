@@ -5,11 +5,3 @@
 a) 3. § (1) bekezdés c) pontja, valamint 132. § (2) bekezdése hatályát veszti,
 
 b) 3. § (4) bekezdésében az „(1) bekezdés b)–c) pontja” szövegrész helyébe az „(1) bekezdés b) pontja” szöveg lép.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
