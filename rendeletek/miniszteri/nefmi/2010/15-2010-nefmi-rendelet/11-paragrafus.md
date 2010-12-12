@@ -1,0 +1,1 @@
+## „(5) Az (1) bekezdés szerinti támogatást a Nemzeti Szabadidősport Szövetség a szabadidősport fejlesztésében közreműködő, a rendszeres testmozgáshoz, a munkahelyi sporthoz és az egészséges életmódhoz kapcsolódó szakmai programok megvalósítását végző sportszövetségek és sportszervezetek részére továbbadhatja.”
