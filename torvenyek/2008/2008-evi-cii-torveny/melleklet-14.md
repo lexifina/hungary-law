@@ -299,3 +299,9 @@ Kohéziós Alap támogatásból megvalósuló projektek (2. cím, 3. alcím)
 Új Magyarország Fejlesztési Terv (2. cím, 4. alcím)
 
 Területi Együttműködés (2. cím, 5. alcím)
+
+Egyéb uniós előirányzatok (2. cím, 6. alcím)
+
+Állami költségvetési kedvezményezettek sajáterő támogatása (2. cím, 7. alcím, 8. jogcím-csoport)
+
+XXII. PÉNZÜGYMINISZTÉRIUM fejezetben
