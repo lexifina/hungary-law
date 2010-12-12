@@ -12,7 +12,7 @@ e) doppingellenes tevékenységgel,
 
 f) sportfelszerelés, sporteszközök, sportágspecifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával, valamint a sporttevékenységbe bevont állatokkal,
 
-g)[^10] a sportszövetség vagy sportszervezet tulajdonában, vagyonkezelésében lévő, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével
+g)[^11] a sportszövetség vagy sportszervezet tulajdonában, vagyonkezelésében lévő, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével
 
 ## összefüggő költségek számolhatóak el, továbbá a támogatás legfeljebb 30%-áig a munkaviszonyban, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek juttatásai és a munkaadókat terhelő járulékok számolhatók el.
 
@@ -66,4 +66,4 @@ bf) egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállí
 
 (8) A 22. § a) pontja alapján a miniszter az olimpiai sportágak felnőtt és a felnőtt alatti két utánpótlás-korosztályának nemzetközi eredményessége alapján – az illetékes országos sportági szakszövetségnek a felkészülés szakmai feladataira vonatkozó javaslata figyelembevételével – támogatást nyújt olimpiai kerettagok felkészítését végző sportszervezetek, jogi személyiséggel rendelkező szakosztályok, sportegyesületi műhelyek részére.
 
-[^10]: A 24. § (1) bekezdésének g) pontját a 23/2009. (VIII. 5.) ÖM rendelet 3. §-a iktatta be.
+[^11]: A 24. § (1) bekezdésének g) pontját a 23/2009. (VIII. 5.) ÖM rendelet 3. §-a iktatta be.

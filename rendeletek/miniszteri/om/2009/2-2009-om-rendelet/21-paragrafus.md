@@ -28,7 +28,7 @@ j) egyéb, a sportegészségüggyel összefüggő feladatok ellátásához.
 
 (3) A miniszter az (1) bekezdés szerinti előirányzat terhére támogatást nyújthat a sportszövetségek részére a válogatott kerettagok sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások igénybevételéhez, így különösen sportágspecifikus eszközök, berendezések, műszerek vásárlásához, a táplálkozási tanácsadáshoz, az étrend-kiegészítők, vitaminok vásárlásához.
 
-(4)[^9]
+(4)[^10]
 
 (5) A miniszter az (1) bekezdés szerinti előirányzat terhére támogatást nyújt az alábbi doppingellenes feladatok ellátásához:
 
@@ -44,4 +44,4 @@ e) az egyéb, a doppingellenes tevékenységgel összefüggő feladatok ellátá
 
 (6) Az (1) bekezdés szerinti előirányzat terhére támogatás nyújtható a doppingellenes tevékenységet végző szervezetek részére doppingellenes feladataik ellátásához.
 
-[^9]: A 21. § (4) bekezdését a 23/2009. (VIII. 5.) ÖM rendelet 8. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 21. § (4) bekezdését a 23/2009. (VIII. 5.) ÖM rendelet 8. § (3) bekezdése hatályon kívül helyezte.
