@@ -40,7 +40,7 @@
 
 | Tervezett létesítménye: | Papp László Budapest Sportaréna | ( ) |
 
-| NUSI | ( ) |
+| NSK | ( ) |
 
 | egyéb: | ( ) |
 
@@ -92,7 +92,7 @@
 
 ## a képviseletre jogosult személy aláírása
 
-5. melléklet a 6/2010. (II. 18.) ÖM rendelethez
+5. melléklet a 6/2010. (II. 18.) ÖM rendelethez[^35]
 
 TÁMOGATÁSI KÉRELEM
 
@@ -150,7 +150,7 @@ a hazai rendezésű sportesemények (a továbbiakban: sportrendezvény) rendezé
 
 | Tervezett létesítménye: | Papp László Budapest Sportaréna | ( ) |
 
-| NUSI | ( ) |
+| NSK | ( ) |
 
 | egyéb: | ( ) |
 
@@ -377,3 +377,5 @@ P. H.
 .......................................................................................
 
 a képviseletre jogosult személy aláírása
+
+[^35]: Az 5. melléklet a 15/2010. (XII. 11.) NEFMI rendelet 13. § f) pontja szerint módosított szöveg.

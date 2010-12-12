@@ -26,9 +26,11 @@ b) a sportszövetségi, sportszervezeti iroda működésével kapcsolatos költs
 
 c) a sporttevékenységgel közvetlenül összefüggő szakmai, kommunikációs és marketing kiadványok megjelentetésének költségei,
 
-d) a támogatás legfeljebb 35%-áig a személyi juttatások, a munkaadót terhelő járulékok, a gazdasági vezetéssel és könyveléssel kapcsolatos költségek,
+d)[^21] a támogatás legfeljebb 30%-áig a személyi juttatások, a munkaadót terhelő járulékok,
 
-e) legfeljebb havonta 100 000 Ft értékben a sportszövetség, sportszervezet működésével kapcsolatos belföldi utazási költségek
+e) legfeljebb havonta 100 000 Ft értékben a sportszövetség, sportszervezet működésével kapcsolatos belföldi utazási költségek,
+
+f)[^22] a pénzügyi tevékenységgel és könyveléssel kapcsolatos költségek
 
 számolhatóak el.
 
@@ -62,12 +64,15 @@ bf) egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállí
 
 (6) A 22. § b) pontjában foglaltak támogatására rendelkezésre álló összeg – részére szerződéssel átadott – pályázati keretének felhasználásáról az NSSZ gondoskodik. A pályázati felhívás kiírása, valamint a támogatásban részesülő pályázók körének meghatározása a miniszter egyetértésével történik. A pályázati felhívást, a támogatásban részesülő pályázók névsorát, valamint támogatásaik összegét az NSSZ hivatalos honlapján jelenteti meg. A nyertes pályázók részére a támogatást az NSSZ szerződéssel továbbadja.
 
-(7) A 22. § g) pontjában foglalt, a sportszakemberek mentori tevékenységéhez nyújtott támogatást a NUSI a sportszövetségek, valamint a sportegyesületek részére továbbadhatja.
+(7)[^23] A 22. § g) pontjában foglalt, a sportszakemberek mentori tevékenységéhez nyújtott támogatást az NSI a sportszövetségek, valamint a sportegyesületek részére továbbadhatja.
 
 (8) A 22. § a) pontja alapján a miniszter az olimpiai sportágak felnőtt és a felnőtt alatti két utánpótlás-korosztályának nemzetközi eredményessége alapján – az országos sportági szakszövetségnek a felkészülés szakmai feladataira vonatkozó javaslata figyelembevételével – támogatást nyújt olimpiai kerettagok felkészítését végző sportszervezetek, jogi személyiséggel rendelkező szakosztályok, sportegyesületi műhelyek részére.
 
 (9) A 22. § a) pontja alapján nyújtott támogatást az országos sportági szakszövetség tagszervezeteinek továbbadhatja.
 
-(10)[^3] A 22. § l) pontja alapján nyújtott támogatást a MOB országos sportági szakszövetségek, sportszervezetek, ezek jogi személyiséggel rendelkező szakosztálya, valamint szervezeti egysége részére továbbadhatja.
+(10)[^24] A 22. § l) pontja alapján nyújtott támogatást a MOB országos sportági szakszövetségek, sportszervezetek, ezek jogi személyiséggel rendelkező szakosztálya, valamint szervezeti egysége részére továbbadhatja.
 
-[^3]: A 24. § (10) bekezdését a 3/2010. (VII.) NEFMI rendelet 2. §-a iktatta be.
+[^21]: A 24. § (2) bekezdés d) pontja a 15/2010. (XII. 11.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^22]: A 24. § (2) bekezdés f) pontját a 15/2010. (XII. 11.) NEFMI rendelet 7. § (2) bekezdése iktatta be.
+[^23]: A 24. § (7) bekezdése a 15/2010. (XII. 11.) NEFMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^24]: A 24. § (10) bekezdését a 3/2010. (VII.) NEFMI rendelet 2. §-a iktatta be.

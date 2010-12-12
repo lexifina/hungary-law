@@ -32,4 +32,6 @@ b) sportszövetségek, integrált sportszövetségek, sportszervezetek, valamint
 
 (4) Az (1) bekezdés szerinti támogatás nyújtása a támogatási szerződésben foglalt ütemezésben történik.
 
-(5) Az MPB az (1) bekezdés szerinti támogatást tagszervezetei részére továbbadhatja.
+(5)[^31] Az MPB az (1) bekezdés szerinti támogatást tagszervezetei, és ezek tagszervezetei részére továbbadhatja.
+
+[^31]: Az 52. § (5) bekezdése a 15/2010. (XII. 11.) NEFMI rendelet 11. §-ával megállapított szöveg.

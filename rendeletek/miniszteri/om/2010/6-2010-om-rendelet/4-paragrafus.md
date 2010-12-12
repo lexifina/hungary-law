@@ -14,4 +14,6 @@ b) a 3. § (1) bekezdés b) és c) pontja esetén legfeljebb 1 év.
 
 (6) A visszavont támogatást a kedvezményezett – a visszavonásról szóló értesítés kézhezvételétől számított 15 napon belül – a visszavonáskor érvényes, a Polgári Törvénykönyv szerinti kamattal növelt összegben köteles visszafizetni az Önkormányzati Minisztérium (a továbbiakban: ÖM) 10023002-01009349-50001006 számú fejezeti kezelésű előirányzat-felhasználási keretalszámlájára.
 
-(7) A miniszter a támogatás visszavonásáról, illetve felfüggesztéséről a döntés meghozatalát követő 5 napon belül értesíti az NDKT-t, továbbá a 3. § (1) bekezdés c) pontja esetén a Nemzeti Sporttanácsot. Ha a miniszter a támogatást a 3. § (1) bekezdés a) pontjában meghatározottak miatt függeszti fel vagy a sportösztöndíj felfüggesztését kezdeményezi, döntéséről – annak meghozatalától számított 5 napon belül – értesíti a Wesselényi Miklós Sportközalapítványt, amely felfüggeszti a támogatás további folyósítását.
+(7)[^3] A miniszter a támogatás visszavonásáról, illetve felfüggesztéséről a döntés meghozatalát követő öt napon belül értesíti az NDKT-t. Ha a miniszter a támogatást a 3. § (1) bekezdés a) pontjában meghatározottak miatt függeszti fel vagy a sportösztöndíj felfüggesztését kezdeményezi, döntéséről – annak meghozatalától számított öt napon belül – értesíti a Wesselényi Miklós Sportközalapítványt, amely felfüggeszti a támogatás további folyósítását.
+
+[^3]: A 4. § (7) bekezdése a 15/2010. (XII. 11.) NEFMI rendelet 4. §-ával megállapított szöveg.

@@ -34,4 +34,6 @@
 
 | III. | 750 000 | 600 000 | 450 000 | 1 500 000 | 1 200 000 | 900 000 |
 
-4. melléklet a 6/2010. (II. 18.) ÖM rendelethez
+4. melléklet a 6/2010. (II. 18.) ÖM rendelethez[^34]
+
+[^34]: A 4. melléklet a 15/2010. (XII. 11.) NEFMI rendelet 13. § f) pontja szerint módosított szöveg.

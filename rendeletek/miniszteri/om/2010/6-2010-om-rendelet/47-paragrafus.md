@@ -20,7 +20,13 @@ h) a Magyarországi Éjféli Sportbajnokságok Egyesület Holdsugár programján
 
 i) szabadidősport programok céljára is szolgáló létesítmények működését, igénybevételét,
 
-j) egyéb, az egészséges életmód terjesztésével, a szabadidősport, az iskolai, diák- és felsőoktatási sport fejlesztésével összefüggő programok, feladatok ellátását.
+j) egyéb, az egészséges életmód terjesztésével, a szabadidősport, az iskolai, diák- és felsőoktatási sport fejlesztésével összefüggő programok, feladatok ellátását,
+
+k)[^27] a szabadidősport területén működő szakemberek képzését szolgáló jegyzetek elkészíttetését és kiadását, továbbá a szakmai vizsgák írásbeli feladatainak és értékelő lapjainak kidolgozását és expediálását,
+
+l)[^28] a testkulturális felsőoktatási képzésben részt vevő felsőoktatási intézmények és a mellettük működő sportegyesületek műhelyeinek szabadidősporttal kapcsolatos tevékenységét,
+
+m)[^29] a szabadidősport területén a sportinformációs rendszerek kialakításával, működtetésével kapcsolatos feladatokat, szakértői tevékenységet.
 
 (2) A Magyarországi Éjféli Sportbajnokságok Egyesület az (1) bekezdés h) pontja szerinti támogatását a miniszterrel kötött szerződésben megjelölt, a Holdsugár Programban részt vevő jogi személyek részére a Holdsugár Program megvalósítása céljából továbbadhatja.
 
@@ -41,3 +47,10 @@ f) a támogatás legfeljebb 10%-áig a sportesemény szervezésével összefügg
 számolhatóak el.
 
 (4) Az (1) bekezdés szerinti támogatást a helyi önkormányzat és a többcélú kistérségi társulás a sportszövetség jogi személyiséggel rendelkező – a helyi önkormányzat, többcélú kistérségi társulás területén működő – területi szervezeti egységének, sportszervezetnek, közoktatási intézménynek, valamint költségvetési szervének vagy többségi tulajdonában álló gazdasági társaságnak továbbadhatja.
+
+(5)[^30] Az (1) bekezdés szerinti támogatást a Nemzeti Szabadidősport Szövetség a szabadidősport fejlesztésében közreműködő, a rendszeres testmozgáshoz, a munkahelyi sporthoz és az egészséges életmódhoz kapcsolódó szakmai programok megvalósítását végző sportszövetségek és sportszervezetek részére továbbadhatja.
+
+[^27]: A 47. § (1) bekezdés k) pontját a 15/2010. (XII. 11.) NEFMI rendelet 10. § (1) bekezdése iktatta be.
+[^28]: A 47. § (1) bekezdés l) pontját a 15/2010. (XII. 11.) NEFMI rendelet 10. § (1) bekezdése iktatta be.
+[^29]: A 47. § (1) bekezdés m) pontját a 15/2010. (XII. 11.) NEFMI rendelet 10. § (1) bekezdése iktatta be.
+[^30]: A 47. § (5) bekezdését a 15/2010. (XII. 11.) NEFMI rendelet 10. § (2) bekezdése iktatta be.

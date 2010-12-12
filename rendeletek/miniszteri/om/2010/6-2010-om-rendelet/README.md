@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-6-20-2L
 | --- | --- | --- |
 | 2010-02-21 | 2010-6-20-2L.1 | 6/2010. (II. 18.) ÖM rendelet |
 | 2010-07-31 | 2010-6-20-2L.2 | 3/2010. (VII.) NEFMI rendelet |
+| 2010-12-12 | 2010-6-20-2L.3 | 15/2010. (XII. 11.) NEFMI rendelet |

@@ -56,4 +56,6 @@ h) a kedvezményezett ÁFA-levonási jogosultságról szóló nyilatkozata.
 
 a) a kedvezményezettnek a támogatóval korábban kötött szerződéseiben foglalt lejárt esedékességű kötelezettségeinek teljesítéséről vagy részbeni teljesítéséről szóló elszámolást a támogató elfogadta, és
 
-b) a kedvezményezettnek a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézettel (a továbbiakban: NUSI), a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.-vel, valamint a sportról szóló törvény szerinti sportközalapítvánnyal szemben 90 napnál régebbi, esedékessé vált és meg nem fizetett tartozása nem áll fenn.
+b)[^4] a kedvezményezettnek a Nemzeti Sportközpontokkal (a továbbiakban: NSK) és a Nemzeti Sport Intézettel (a továbbiakban: NSI), a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.-vel, valamint a sportról szóló törvény szerinti sportközalapítvánnyal szemben 90 napnál régebbi, esedékessé vált és meg nem fizetett tartozása nem áll fenn.
+
+[^4]: A 6. § (6) bekezdés b) pontja a 15/2010. (XII. 11.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
