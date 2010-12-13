@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya az Európai Unió más tagállamában forgalomba helyezett és a Magyar Köztársaság Rendőrsége részére a Magyar EU elnökségi feladatok végrehajtása során szükséges speciális szállítási és biztosítási tevékenység ellátása céljából üzemeltetésre átadott gépjárművekre (a továbbiakban: speciális szolgálati gépjárművek) terjed ki.

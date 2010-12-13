@@ -1,0 +1,1 @@
+## 6. § Az üzembentartó biztosítja, hogy a speciális szolgálati gépjárművek megfeleljenek a 7. §-ban felsorolt jogszabályokban előírt műszaki, közlekedésbiztonsági és környezetvédelmi követelményeknek.
