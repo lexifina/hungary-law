@@ -106,6 +106,6 @@
 
 ## Ezután vegyük ki a próbadarabokat, melyek reprezentálják az előkezelt vizsgálati mintát.
 
-6. melléklet a 25/2005. (IV. 29.) GKM rendelethez[^22]
+6. melléklet a 25/2005. (IV. 29.) GKM rendelethez[^20]
 
-[^22]: A 6. melléklet a 32/2006. (VI. 1.) GKM rendelet 5. §-a, a 72/2007. (VIII. 9.) GKM rendelet 4. §-a, a 27/2008. (XII. 20.) NFGM rendelet 12–14. §-a szerint módosított szöveg.
+[^20]: A 6. melléklet a 32/2006. (VI. 1.) GKM rendelet 5. §-a, a 72/2007. (VIII. 9.) GKM rendelet 4. §-a, a 27/2008. (XII. 20.) NFGM rendelet 12–14. §-a, a 9/2010. (XII. 14.) NGM rendelet 3. § (3) bekezdése szerint módosított szöveg.

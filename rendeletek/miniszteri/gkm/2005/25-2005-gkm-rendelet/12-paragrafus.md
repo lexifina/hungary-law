@@ -8,7 +8,7 @@
 
 (4) Hímzett textilterméknél a nyersanyag-összetételt a termék egészére kell megadni, és az alapkelme és a hímzőfonal összetétele ezen összetevők megnevezése mellett külön-külön is feltüntethető. Ha a hímzett rész felülete nem éri el a termék felületének 10%-át, csak az alapkelme összetételét kell megadni.
 
-(5)[^5] A különböző szálasanyagból készült magfonalat és burkolófonalat tartalmazó, fogyasztóknak forgalmazott fonalnál a nyersanyag-összetételt a termék egészére kell megadni, és a magfonal és a burkolófonal összetétele ezen összetevők megnevezése mellett külön-külön is feltüntethető.
+(5)[^6] A különböző szálasanyagból készült magfonalat és burkolófonalat tartalmazó, fogyasztóknak forgalmazott fonalnál a nyersanyag-összetételt a termék egészére kell megadni, és a magfonal és a burkolófonal összetétele ezen összetevők megnevezése mellett külön-külön is feltüntethető.
 
 (6) A bársony, plüss, továbbá a bársony, illetve plüss jellegű textiltermékeknél a nyersanyag-összetételt a termék egészére kell megadni. Ha a termék alapkelméje és hasznos felülete különböző szálasanyagból készült, az alapkelme és a hasznos felület (színoldal) összetétele ezen részek megnevezése mellett külön-külön is feltüntethető.
 
@@ -28,4 +28,4 @@ b) az a) pontban felsoroltaktól eltérő fűzőtermékek nyersanyag-összetéte
 
 (9) A (8) bekezdésben említett fűzőtermékek egyes részeinek nyersanyag-össszetételét úgy kell megadni, hogy a fogyasztó könnyen megérthesse, hogy a tájékoztatás a termék mely részére vonatkozik.
 
-[^5]: A 12. § (5) bekezdése a 27/2008. (XII. 20.) NFGM rendelet 5. §-ával megállapított szöveg.
+[^6]: A 12. § (5) bekezdése a 27/2008. (XII. 20.) NFGM rendelet 5. §-ával megállapított szöveg.

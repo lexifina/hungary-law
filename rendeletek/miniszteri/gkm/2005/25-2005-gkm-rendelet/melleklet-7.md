@@ -74,7 +74,7 @@
 
 ## I.6. A vizsgálati minta előkezelése
 
-## Ha valamely anyagot a [textiltermékek elnevezéséről szóló, 1996. december 16-i 96/74/EK európai parlamenti és tanácsi irányelv 12. cikke (3) bekezdésében leírt] százalékos számításokhoz nem szabad figyelembe venni, azt először el kell távolítani egy olyan módszerrel, amely egyik szálkomponensre sincs hatással.
+## Ha valamely anyagot a [textiltermékek elnevezéséről szóló, 2009. január 14-i 2008/121/EK európai parlamenti és tanácsi irányelv 12. cikke f) pontjában leírt] százalékos számításokhoz nem szabad figyelembe venni, azt először el kell távolítani egy olyan módszerrel, amely egyik szálkomponensre sincs hatással.
 
 ## Ennek érdekében a vízzel és petroléterrel eltávolítható idegenanyagok kivonása úgy történik, hogy a légszáraz mintát Soxhlet extrahálókészülékben egy órán keresztül petroléteres kivonásnak vetjük alá, óránként legalább 6 ciklus sebességgel. A petrolétert engedjük elpárologni a mintából, majd közvetlen kezeléssel extrahálunk, ami abból áll, hogy a mintát szobahőmérsékleten, egy órán keresztül vízben áztatjuk, majd ezt követően az áztatást egy további órán keresztül megismételjük 65 ±5 °C hőmérsékletű vízben, a folyadékot időnként felkeverve. A folyadék és a minta aránya 100:1 legyen. A felesleges vizet kipréseléssel, leszívatással vagy centrifugálással távolítsuk el a mintából, majd hagyjuk, hogy levegőn száradjon.
 
@@ -256,39 +256,45 @@
 
 ## IV.3. Adjuk meg az egyes eredményeket és az eredmények számtani átlagát, egy tizedesjegyre kerekítve.
 
-## Az egyes módszerek – összefoglaló táblázat
+## AZ EGYES MÓDSZEREK – ÖSSZEFOGLALÓ TÁBLÁZAT
 
-| Módszer | Alkalmazási terület | Reagens |
+| A | B | C |
 
-| 1. | Acetát | Meghatározott más szálak | Aceton |
+| Mód- szer | Alkalmazási terület | Reagens |
 
-| 2. | Egyes fehérjeszálak | Meghatározott más szálak | Hipoklorit |
+|  | Oldható komponens | Oldhatatlan komponens |
 
-| 3. | Viszkóz, rézoxid-szál vagy meghatározott típusú modál | Pamut vagy elasztolefin | Hangyasav és cinkklorid |
+| 1. | Acetát | Bizonyos más szálak | Aceton |
 
-| 4. | Poliamid vagy nejlon | Meghatározott más szálak | Hangyasav, 80 tömeg%-os |
+| 2. | Egyes fehérjeszálak | Bizonyos más szálak | Hipoklorit |
 
-| 5. | Acetát | Triacetát vagy elasztolefon | Benzilalkohol |
+| 3. | Viszkóz, rézoxid-szál vagy meghatározott típusú modál | Pamut, elasztolefin vagy melamin | Hangyasav és cinkklorid |
 
-| 6. | Triacetát vagy polilaktid | Meghatározott más szálak | Diklórmetán |
+| 4. | Poliamid vagy nejlon | Bizonyos más szálak | Hangyasav, 80 tömeg%-os |
 
-| 7. | Meghatározott cellulózszálak | Poliészter, elaszto-multiészter vagy elasztolefin | Kénsav, 75 tömeg%-os |
+| 5. | Acetát | Triacetát, elasztolefin vagy melamin | Benzinalkohol |
 
-| 8. | Akril, meghatározott modakril- vagy meghatározott poliklorid szálak | Meghatározott más szálak | Dimetilformamid |
+| 6. | Triacetát vagy polilaktid | Bizonyos más szálak | Diklórmetán |
 
-| 9. | Meghatározott polikloridok | Meghatározott más szálak | Széndiszulfid/aceton, 55,5/44,5 térfogat%-os |
+| 7. | Egyes cellulózszálak | Poliészter, elaszto-multiészter vagy elasztolefin | Kénsav, 75 tömeg%-os |
 
-| 10. | Acetát | Meghatározott polikloridok vagy elasztolefin | Jégecet |
+| 8. | Akril, meghatározott modakril- vagy meghatározott poliklorid szálak | Bizonyos más szálak | Dimetilformamid |
 
-| 11. | Selyem | Gyapjú, szőr vagy elasztolefin | Kénsav, 75 tömeg%-os |
+| 9. | Egyes polikloridok | Bizonyos más szálak | Széndiszulfid/aceton, 55,5/44,5 térfogat %-os |
 
-| 12. | Juta | Meghatározott állati eredetű szálak | Nitrogéntartalom módszer |
+| 10. | Acetát | Bizonyos polikloridok, elasztolefin vagy melamin | Jégecet |
 
-| 13. | Polipropilén | Meghatározott más szálak | Xilol |
+| 11. | Selyem | Gyapjú, szőr, elasztolefin vagy melamin | Kénsav, 75 tömeg%-os |
 
-| 14. | Meghatározott más szálak | Poliklorid szálak (a vinilklorid homopolimerjei) vagy elasztolefin | Koncentrált kénsav módszer |
+| 12. | Juta | Egyes állati eredetű szálak | Nitrogéntartalom módszer |
 
-| 15. | Poliklorid szálak, meghatározott modakrilok, meghatározott elasztánok, acetátok, triacetátok | Meghatározott más szálak | Ciklohexanon |
+| 13. | Polipropilén | Bizonyos más szálak | Xilol |
+
+| 14. | Bizonyos más szálak | Poliklorid szálak (a vinilklorid homopolimerjei), elasztolefin vagy melamin | Koncentrált kénsav módszer |
+
+| 15. | Poliklorid szálak, egyes modakrilok, egyes elasztánok, acetátok, triacetátok | Bizonyos más szálak | Ciklohexanon |
+
+| 16. | Melamin | Pamut vagy aramid | Forró hangyasav, 90 tömeg%-os |
 
 ## 1. MÓDSZER
 
@@ -304,7 +310,7 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2) és (3), selyem (4), pamut (5), len (7), kender (8), juta (9), manilakender (10), alfafű (11), kókuszrost (12), seprűzanót (13), rami (14), szizál (15), rézoxid-szál (21), modál (22), fehérjeszál (23), viszkóz (25), akril (26), poliamid vagy nejlon (30), poliészter (34), elaszto-multiészter (45) és elasztolefin (46).
+## 2. gyapjú (1), állati szőr (2) és (3), selyem (4), pamut (5), len (7), kender (8), juta (9), manilakender (10), alfafű (11), kókuszrost (12), seprűzanót (13), rami (14), szizál (15), rézoxid-szál (21), modál (22), fehérjeszál (23), viszkóz (25), akril (26), poliamid vagy nejlon (30), poliészter (35), elaszto-multiészter (46), elasztolefin (47) és melamin (48).
 
 ## Ez a módszer semmilyen körülmények között nem alkalmazható olyan acetátszálak esetében, amelyeknek a felületét deacetilezték.
 
@@ -334,7 +340,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve a melamin szálak esetében, amelyeknél a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -354,9 +360,9 @@
 
 ## és
 
-## 2. pamut (5), rézoxid-szál (21), viszkóz (25), akril (26), poliklorid (27), poliamid vagy nejlon (30), poliészter (34), polipropilén (36), elasztán (42), üvegszál (43), elaszto-multiészter (45) és elasztolefin (46).
+## 2. pamut (5), rézoxid-szál (21), viszkóz (25), akril (26), poliklorid (27), poliamid vagy nejlon (30), poliészter (35), polipropilén (37), elasztán (43), üvegszál (44), elaszto-multiészter (46) elasztolefin (47) és melamin (48).
 
-## Ha különböző fehérjeszálak vannak jelen, akkor a módszerrel ezek összes tömegét határozzuk meg s nem egyedi mennyiségüket.
+## Ha különböző fehérjeszálak vannak jelen, akkor a módszerrel ezek összes tömege határozandó meg és nem egyedi mennyiségük.
 
 ## 2. ALAPELV
 
@@ -404,7 +410,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00, kivéve pamut, viszkóz és modál szálak esetén, melyekhez ’d’ = 1,01, és fehérítetlen pamut esetén, melyhez ’d’ = 1,03.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve pamut, viszkóz, modál és melamin szálak esetén, melyekhez ’d’ = 1,01, és fehérítetlen pamut esetén, melyhez ’d’ = 1,03.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -424,7 +430,7 @@
 
 ## és
 
-## 2. pamut (5) és elasztolefin (46).
+## 2. pamut (5), elasztolefin (47) és melamin (48).
 
 ## Ha modál szálat találunk a keverékben, egy előzetes vizsgálatot kell elvégezni annak megállapítására, hogy oldódik-e a reagensben.
 
@@ -464,7 +470,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános utasításokban meghatározottak szerint számítsuk ki. A „d” értéke pamut esetében 1,02, elasztolefin esetében pedig 1,00.
+## Az eredmények az általános utasításokban meghatározottak szerint számítandók. A ’d’ értéke pamut esetében 1,02, melamin esetében 1,01, elasztolefin esetében pedig 1,00.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -484,9 +490,9 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2) és (3), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), akril (26), poliklorid (27), poliészter (34), polipropilén (36), üvegszál (43), elaszto-multiészter (45) és elasztolefin (46).
+## 2.  gyapjú (1), állati szőr (2) és (3), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), akril (26), poliklorid (27), poliészter (35), polipropilén (37), üvegszál (44), elaszto-multiészter (46), elasztolefin (47) és melamin (48).
 
-## Mint azt fentebb említettük, ezt a módszert gyapjúkeverékekre is lehet alkalmazni, de ahol a gyapjútartalom meghaladja a 25%-ot, a 2. módszert kell alkalmazni (a gyapjút lúgos nátriumhipoklorit oldattal kell kioldani).
+## A fent említetteknek megfelelően, ezt a módszert gyapjúkeverékekre is lehet alkalmazni, de ahol a gyapjútartalom meghaladja a 25%-ot, a 2. módszert kell alkalmazni (a gyapjút lúgos nátriumhipoklorit oldattal kell kioldani).
 
 ## 2. ALAPELV
 
@@ -514,7 +520,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve a melamin szálak esetében, melyeknél a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -534,7 +540,7 @@
 
 ## és
 
-## 2. triacetát (24) és elasztolefin (46).
+## 2.  triacetát (24), elasztolefin (47) és melamin (48).
 
 ## 2. ALAPELV
 
@@ -578,7 +584,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve a melamin szálak esetében, ahol a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -598,7 +604,7 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2) és (3), selyem (4), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), akril (26), poliamid vagy nejlon (30), poliészter (34), üvegszál (43), elaszto-multiészter (45) és elasztolefin (46).
+## 2. gyapjú (1), állati szőr (2) és (3), selyem (4), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), akril (26), poliamid vagy nejlon (30), poliészter (35), üvegszál (44), elaszto-multiészter (46), elasztolefin (47) és melamin (48).
 
 ## Megjegyzés:
 
@@ -628,7 +634,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános utasításokban meghatározottak szerint számítsuk ki. A „d” értéke 1,00, kivéve a poliészter, elaszto-multiészter és az elasztolefin esetében, amelyeknél a „d” értéke 1,01
+## Az eredmények az általános utasításokban meghatározottak szerint számítandók. A ’d’ értéke 1,00, kivéve a poliészter, elaszto-multiészter, elasztolefin és melamin szálak esetében, amelyeknél a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -648,7 +654,7 @@
 
 ## és
 
-## 2. poliészter (34), elaszto-multiészter (45) és elasztolefin (46).
+## 2. poliészter (35), elaszto-multiészter (46) és elasztolefin (47).
 
 ## 2. ALAPELV
 
@@ -700,9 +706,9 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2) és (3), selyem (4), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), poliamid vagy nejlon (30), poliészter (34), elaszto-multiészter (45) és elasztolefin (46).
+## 2. gyapjú (1), állati szőr (2) és (3), selyem (4), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), poliamid vagy nejlon (30), poliészter (35), elaszto-multiészter (46), elasztolefin (47) és melamin (48).
 
-## A módszer egyaránt alkalmas előzetesen metallizált festékkel festett akrilok és egyes modakrilok esetében, ugyanakkor nem alkalmas olyan szálaknál, amelyeket krómos utánkezeléssel színeztek.
+## A módszer egyaránt alkalmas előzetesen metallizált színezékkel színezett akrilok és egyes modakrilok esetében, ugyanakkor nem alkalmas olyan szálaknál, amelyeket krómos utánkezeléssel színeztek.
 
 ## 2. ALAPELV
 
@@ -738,7 +744,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál meghatározottak szerint számítsuk ki. A ‘d’ értéke 1,00, kivéve a gyapjú, a pamut, a rézoxid-szál, a modál, a poliészter és az elaszto-multiészter esetében, amelyek tekintetében a ‘d’ értéke 1,01.
+## Az eredmények az általános információknál meghatározottak szerint számítandók. A ’d’ értéke 1,00, kivéve a gyapjú, a pamut, a rézoxid-szál, a modál, a poliészter,az elaszto-multiészter és a melamin esetében, amelyek tekintetében a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -758,7 +764,7 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2 és 3), selyem (4), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), akril (26), poliamid vagy nylon (30), poliészter (34), üvegszál (43) vagy elaszto-multiészter (45).
+## 2. gyapjú (1), állati szőr (2 és 3), selyem (4), pamut (5), rézoxid-szál (21), modál (22), viszkóz (25), akril (26), poliamid vagy nejlon (30), poliészter (35), üvegszál (44), elaszto-multiészter (46) és melamin (48).
 
 ## Ha a keverék gyapjú- vagy selyemtartalma nagyobb 25%-nál, a 2. módszert kell használni.
 
@@ -796,7 +802,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve a melamin szálak esetében, amelyeknél a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -816,7 +822,7 @@
 
 ## és
 
-## 2. meghatározott poliklorid szálak (27), mégpedig PVC-szálak akár utánklórozottak, akár nem és elasztolefin (46).
+## 2. meghatározott poliklorid szálak (27), mégpedig PVC-szálak akár utánklórozottak, akár nem, elasztolefin (47) és melamin (48).
 
 ## 2. ALAPELV
 
@@ -864,7 +870,7 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2) és (3) és elasztolefin (46).
+## 2. gyapjú (1), állati szőr (2) és (3), elasztolefin (47) és melamin (48).
 
 ## 2. ALAPELV
 
@@ -896,7 +902,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános utasításokban meghatározottak szerint számítsuk ki. A „d” értéke gyapjú esetében 0,985, elasztolefin esetében pedig 1,00.
+## Az eredmények az általános utasításokban meghatározottak szerint számítandók. A ’d’ értéke gyapjú esetében 0,985, elasztolefin esetében 1,00, a melamin esetében pedig 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -1024,9 +1030,7 @@
 
 ## és
 
-## 2. gyapjú (1), állati szőr (2 és 3), selyem (4), pamut (5), acetát (19), rézoxid-szál (21), modál (22), triacetát (24), viszkóz (25), akril (26), poliamid vagy nylon (30), poliészter (34), üvegszál (43) vagy elaszto-multiészter (45).
-
-## Ha modálszálat találunk a keverékben, egy előzetes vizsgálatot kell elvégezni annak megállapítására, hogy oldódik-e a reagensben.
+## 2. gyapjú (1), állati szőr (2 és 3), selyem (4), pamut (5), acetát (19), rézoxid-szál (21), modál (22), triacetát (24), viszkóz (25), akril (26), poliamid vagy nejlon (30), poliészter (35), üvegszál (44), elaszto-multiészter (46) és melamin (48).
 
 ## 2. ALAPELV
 
@@ -1066,7 +1070,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve a melamin szálat, ahol a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -1082,17 +1086,17 @@
 
 ## Ez a módszer, az idegenanyagok eltávolítása után, a következő szálakból álló kétkomponensű keverékekhez alkalmazható:
 
-## 1. poliklorid szálak (27) melyek vinilklorid homopolimer alapúak, akár utánklórozottak, akár nem, elasztolefin (46), valamint
+## 1. pamut (5), acetát (19), rézoxid-szál (21), modál (22), triacetát (24), viszkóz (25), egyes akrilok (26), egyes modakrilok (29), poliamid vagy nejlon (30), poliészter (35), elaszto-multiészter (46), valamint
 
-## 2. pamut (5), acetát (19), rézoxid-szál (21), modál (22), triacetát (24), viszkóz (25), egyes akrilok (26), egyes modakrilok (29), poliamid vagy nylon (30), poliészter (34) vagy elaszto-multiészter (45).
+## 2. poliklorid szálak (27) melyek vinilklorid homopolimer alapúak, akár utánklórozottak, akár nem, elasztolefin (47), valamint melamin (48).
 
-## A módszer azokra a modakrilokra alkalmazható, melyek koncentrált kénsavba (sűrűség 20 °C-on: 1,84 g/cm3) bemerítve áttetsző oldatot adnak.
+## A módszer azokra a modakrilokra alkalmazható, melyek koncentrált kénsavba (sűrűség 20 °C-on: 1,84 g/ml) bemerítve áttetsző oldatot adnak.
 
 ## Ez a módszer alkalmazható a 8. és a 9. módszer helyett.
 
 ## 2. ALAPELV
 
-## A keverék nem klórszál és nem elasztolefin összetevőjét (vagyis az 1. bekezdés 2. pontjában említett szálak) tömény kénsavval (relatív sűrűsége 20 °C-on 1,84) kioldjuk a keverék ismert száraz tömegéből. A poliklorid szálból vagy elasztolefinből álló visszamaradt anyagot összegyűjtjük, kimossuk, megszárítjuk és lemérjük, tömegét – szükség esetén korrigálva – a keverék száraz tömegének százalékában fejezzük ki. A második összetevő százalékos arányát a kettő különbségéből állapítjuk meg.
+## A keverék nem poliklorid, nem elasztolefin és nem melamin összetevőjét (vagyis az 1. bekezdés 1. pontjában említett szálak) tömény kénsavval (relatív sűrűsége 20 °C-on 1,84 g/ml) kell kioldani a keverék ismert száraz tömegéből. A poliklorid szálból, elasztolefinből és melaminból álló visszamaradt anyagot össze kell gyűjteni és ki kell mosni. A megszárított anyag lemért tömegét – szükség esetén korrigálva – a keverék száraz tömegének százalékában kell kifejezni. A második összetevő százalékos aránya a kettő különbségéből állapítandó meg.
 
 ## 3. ESZKÖZÖK ÉS REAGENSEK (az általános részben megadottakon kívül)
 
@@ -1128,7 +1132,7 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00.
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, kivéve a melamin szálak esetében, ahol a ’d’ értéke 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
@@ -1146,13 +1150,13 @@
 
 ## Ez a módszer, az idegenanyagok eltávolítása után, a következő szálakból álló kétkomponensű keverékekhez alkalmazható:
 
-## 1. acetát (19), triacetát (24), poliklorid (27), meghatározott modakrilok (29), meghatározott elasztánok (42)
+## 1. acetát (19), triacetát (24), poliklorid (27), meghatározott modakrilok (29), meghatározott elasztánok (43)
 
 ## és
 
-## 2. gyapjú (1), állati szőrök (2) és (3), selyem (4), pamut (5), rézoxid-szál (cupro) (21), modál (22), viszkóz (25), poliamid vagy nejlon (30), akril (26) és üvegszál (43).
+## 2. gyapjú (1), állati szőrök (2) és (3), selyem (4), pamut (5), rézoxid-szál (cupro) (21), modál (22), viszkóz (25), akril (26), poliamid vagy nejlon (30), üvegszál (44), és melamin (48).
 
-## Ha modakril- vagy elasztánszálat találunk a keverékben, egy előzetes vizsgálatot kell elvégezni annak megállapítására, hogy a szál teljes mértékben oldódik-e a reagensben.
+## Ha modakril- vagy elasztánszál van a keverékben, egy előzetes vizsgálatot kell elvégezni annak megállapítására, hogy a szál teljes mértékben oldódik-e a reagensben.
 
 ## A poliklorid tartalmú keverékek elemzéséhez a 9. vagy 14. módszer is alkalmazható.
 
@@ -1196,19 +1200,67 @@
 
 ## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
 
-## Az eredményeket az általános információknál megadott módon számítsuk ki. A ’d’ értéke 1,00, a következők kivételével:
-
-|  | selyem | 1,01 |
-
-|  | akril | 0,98. |
+## Az eredmények az általános információknál megadott módon számítandók. A ’d’ értéke 1,00, a következők kivételével: akril 0,98., selyem és melamin 1,01.
 
 ## 6. A MÓDSZER PONTOSSÁGA
 
-## Textilanyagok homogén keveréke esetében az ezzel a módszerrel kapott eredmények megbízhatósági tartománya, 95%-os megbízhatósági szint mellett, nem nagyobb ±1-nél.
+## Textilanyagok homogén keveréke esetében az ezzel a módszerrel kapott eredmények megbízhatósági tartománya, 95%-os megbízhatósági szint mellett, nem nagyobb +1-nél.
 
 ## A 15. módszer 3.1.1. pontjában hivatkozott ábra
 
-7. melléklet a 25/2005. (IV. 29.) GKM rendelethez[^23]
+## 16. MÓDSZER
+
+## (Forró hangyasavas módszer)
+
+## 1. ALKALMAZÁS TERÜLET
+
+## Ez a módszer a nem szálas anyagok eltávolítását követően a következő összetételű, kétkomponensű keverékek esetében alkalmazható:
+
+## 1. melamin (48)
+
+## és
+
+## 2. pamut (5) és aramid (31).
+
+## 2. ALAPELV
+
+## A melamint az ismert száraz tömegű keverékből (90 tömegszázalékos) forró hangyasavval oldjuk ki.
+
+## A visszamaradt anyag összegyűjtjendő, kimosandó. A megszárított és megmért anyag tömege szükség esetén a megfelelő módon korrigálva a keverék száraz tömegére vonatkoztatott százalékos értékben fejezendő ki. A különbség alapján határozható meg a második összetevő százalékos aránya.
+
+## Megjegyzés: Szigorúan ajánlott a hőmérséklet tartományon belül maradni, mivel a melamin oldhatósága nagymértékben függ a hőmérséklettől.
+
+## 3. ESZKÖZÖK ÉS REAGENSEK (az általános részben megadottakon túl)
+
+## 3.1. Eszközök
+
+## 3.1.1. Legalább 200 ml űrtartalmú, üvegdugóval ellátott Erlenmeyer-lombik.
+
+## 3.1.2. Rázó vízfürdő vagy egyéb olyan eszköz, amely rázni és 90 ± 2°C-on tudja tartani a lombikot.
+
+## 3.2. Reagensek
+
+## 3.2.1. Hangyasav (90 tömegszázalékos, relatív sűrűsége 20 °C-on 1,204 g/ml). 890 ml 98–100 tömegszázalékos hangyasavat (relatív sűrűsége 20 °C-on 1,220 g/ml) egészítsünk ki vízzel 1 literre.
+
+## 3.2.2. Híg ammóniaoldat: tömény ammóniaoldatból 80 ml-t (relatív sűrűsége 20 °C-on 0,880 g/ml) egészítsünk ki vízzel 1 literre.
+
+## 4. VIZSGÁLATI ELJÁRÁS
+
+## Az általános útmutatóban leírtak végrehajtása után a következők szerint kell eljárni:
+
+## A legalább 200 ml-es, üvegdugóval ellátott Erlenmeyer-lombikban található próbadarab minden grammjához 100 ml hangyasavat kell adni. Üvegdugót rátéve alaposan fel kell rázni, hogy a minta átnedvesedjen. A lombikot rázó vízfürdőben 90 ± 2 °C-on egy óra hosszat erőteljesen kell rázatni. Hagyni kell a lombikot szobahőmérsékletűre hűlni, majd a folyadékot egy lemért szűrőtégelyen dekantálni. A szálmaradékot tartalmazó lombikba 50 ml hangyasavat öntve, kézzel fel kell rázni, és a lombik tartalmát átszűrni a szűrőtégelyen. A visszamaradt szálakat a szűrőtégelyre kell átvinni úgy, hogy a lombikot kis mennyiségű hangyasavval kell kiöblíteni. A tégelyt leszívással le kell üríteni, ezt követően a szálmaradékot ki kell mosni hangyasavval, forró vízzel, híg ammóniaoldattal, végül hideg vízzel, miközben a tégelyt minden egyes folyadék-hozzáadás után le kell szivatni. Leszívás addig nem alkalmazható, amíg mindegyik mosófolyadék gravitációs úton teljesen le nem csöpögött. Végül a tégelyt le kell szívatni, meg kell szárítani, le kell hűteni és meg kell mérni a szálmaradékkal együtt.
+
+## Megjegyzés: A hőmérséklet nagyon erősen befolyásolja a melamin oldhatóságát, ezért gondosan ellenőrizni kell.
+
+## 5. AZ EREDMÉNYEK KISZÁMÍTÁSA ÉS MEGADÁSA
+
+## Az eredmények az általános utasításokban meghatározottak szerint számítandók. A ’d’ értéke pamut és aramid esetében 1,02.
+
+## 6. A MÓDSZER PONTOSSÁGA
+
+## Textilanyagok homogén keveréke esetében az e módszerrel nyerhető eredmények megbízhatósági tartománya 95%-os konfidenciaszinten nem nagyobb ± 2-nél.
+
+7. melléklet a 25/2005. (IV. 29.) GKM rendelethez[^21]
 
 Három komponenst tartalmazó szálkeverékek nyersanyag-összetételének mennyiségi meghatározása
 
@@ -1744,4 +1796,4 @@ Tipikus három komponenst tartalmazó keverékek, amelyek nyersanyag-összetéte
 
 |  | 35. |  | meghatározott polikloridok | pamut, viszkóz, rézoxid-szál (cupro) vagy modál | poliészter | 4. | 8. (dimetilformamid) és 7. (kénsav, 75 tömeg%-os) vagy 9. (széndiszulfid/aceton, 55,5/44,5 tömeg%) és 7. (kénsav, 75 tömeg%-os) |
 
-[^23]: A 7. melléklet a 27/2008. (XII. 20.) NFGM rendelet 15. §-a szerint módosított szöveg.
+[^21]: A 7. melléklet a 27/2008. (XII. 20.) NFGM rendelet 15. §-a szerint módosított szöveg.

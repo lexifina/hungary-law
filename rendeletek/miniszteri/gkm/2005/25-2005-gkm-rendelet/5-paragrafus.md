@@ -1,4 +1,4 @@
-## 4. §[^3] A nyersanyag-összetétel e rendelet szerinti feltüntetése a gyártó kötelezettsége.
+## 4. §[^4] A nyersanyag-összetétel e rendelet szerinti feltüntetése a gyártó kötelezettsége.
 
 ## Elnevezések
 
@@ -8,4 +8,4 @@
 
 (3) A „selyem” elnevezés nem alkalmazható a végtelen szálasanyagokra, a szál alakjának vagy kiszerelésének jellemzése céljából.
 
-[^3]: A 4. § a 27/2008. (XII. 20.) NFGM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 4. § a 27/2008. (XII. 20.) NFGM rendelet 3. §-ával megállapított szöveg.

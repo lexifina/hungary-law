@@ -1,18 +1,20 @@
 ## Egyezményes járulékanyag-hányadok
 
-| Sorszám | Szál | % |
+| A | B | C |
+
+| Sor- szám | Szál | % |
 
 | 1–2. | Gyapjú és szőrök |  |
 
 | fésült szálak | 18,25 |
 
-| kártolt szálak | 117,00 |
+| kártolt szálak | 17,00 |
 
 | 3. | Szőrök |  |
 
 | fésült szálak | 18,25 |
 
-| kártolt szálak | 117,00 |
+| kártolt szálak | 17,00 |
 
 | Lószőr |  |
 
@@ -88,41 +90,41 @@
 
 | 33. | Lyocell | 13,00 |
 
-| 33.a. | Polilaktid | 1,50 |
+| 34. | Polilaktid | 1,50 |
 
-| 34. | Poliészter |  |
+| 35. | Poliészter |  |
 
 | vágott szál | 1,50 |
 
 | végtelen szál | 1,50 |
 
-| 35. | Polietilén | 1,50 |
+| 36. | Polietilén | 1,50 |
 
-| 36. | Polipropilén | 2,00 |
+| 37. | Polipropilén | 2,00 |
 
-| 37. | Polikarbamid | 2,00 |
+| 38. | Polikarbamid | 2,00 |
 
-| 38. | Poliuretán |  |
+| 39. | Poliuretán |  |
 
 | vágott szál | 3,50 |
 
 | végtelen szál | 3,00 |
 
-| 39. | Vinil | 5,00 |
+| 40. | Vinil | 5,00 |
 
-| 40. | Trivinil | 3,00 |
+| 41. | Trivinil | 3,00 |
 
-| 41. | Elasztodién | 1,00 |
+| 42. | Elasztodién | 1,00 |
 
-| 42. | Elasztán | 1,50 |
+| 43. | Elasztán | 1,50 |
 
-| 43. | Üvegszál |  |
+| 44. | Üvegszál |  |
 
 | végtelen szál 5 μm átmérő felett | 2,00 |
 
 | végtelen szál 5 μm átmérőig | 3,00 |
 
-| 44. | Fémszál | 2,00 |
+| 45. | Fémszál | 2,00 |
 
 | Fémezett szál | 2,00 |
 
@@ -130,12 +132,10 @@
 
 | Papírfonal | 13,75 |
 
-| 45. | Elaszto-multiészter | 1,50 |
+| 46. | Elaszto-multiészter | 1,50 |
 
-| 46. | Elasztolefin | 1,50 |
+| 47. | Elasztolefin | 1,50 |
 
-## Megjegyzés:
-
-## 1 A 17% járulékanyag-hányadot kell alkalmazni akkor is, ha nem lehet megállapítani, hogy a textiltermék fésült vagy kártolt szálból készült.
+| 48. | Melamin | 7,00 |
 
 5. melléklet a 25/2005. (IV. 29.) GKM rendelethez
