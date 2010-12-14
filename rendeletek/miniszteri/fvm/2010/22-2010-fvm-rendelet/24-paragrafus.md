@@ -4,6 +4,8 @@
 
 (3) A támogatási kérelemben nyilatkozni kell a juhtej és juhtej-tejtermékek tárgyévben történő értékesítéséről.
 
-(4) Az MVH a támogatásra bejelentett állatokról szóló döntést legkésőbb 2010. december 15-éig közli a mezőgazdasági termelővel.
+(4)[^3] Az MVH a támogatásra bejelentett állatokról szóló döntést legkésőbb 2011. január 15-ig közli a mezőgazdasági termelővel.
 
 (5) A támogatási összeg 2011. április 30-áig kerül kifizetésre.
+
+[^3]: A 24. § (4) bekezdése a 37/2010. (XII. 14.) VM rendelet 12. §-ával megállapított szöveg.

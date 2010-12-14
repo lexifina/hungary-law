@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-22-20-8
 | 2010-03-20 | 2010-22-20-82.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-03-21 | 2010-22-20-82.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-10-16 | 2010-22-20-82.4 | 22/2010. (X. 15.) VM rendelet |
+| 2010-12-14 | 2010-22-20-82.5 | 25/2011. (IV. 7.) VM rendelet |
