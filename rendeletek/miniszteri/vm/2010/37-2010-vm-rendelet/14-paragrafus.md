@@ -1,0 +1,3 @@
+## „(6) A támogatás nyújtásáról döntő szerv az előző és az adott évben nyújtott átmeneti állami támogatásról minden év augusztus 15-éig beszámolót készít az agrárpolitikáért felelős miniszter részére.”
+
+14. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2009. évi igénybevételével kapcsolatos egyes kérdésekről szóló 37/2009. (IV. 3.) FVM rendelet egyes jogcímeihez kapcsolódó támogatási összegekről szóló 132/2009. (X. 14.) FVM rendelet azzal, hogy rendelkezéseit a folyamatban lévő ügyekben alkalmazni kell.
