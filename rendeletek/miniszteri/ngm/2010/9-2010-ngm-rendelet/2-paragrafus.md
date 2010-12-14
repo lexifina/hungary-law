@@ -1,0 +1,1 @@
+## 1. § A textiltermékek forgalomba hozatalának egyes követelményeiről szóló 25/2005. (IV. 29.) GKM rendelet (a továbbiakban: R.) 13. § (2) bekezdésében a „96/74/EK európai parlamenti és tanácsi irányelv” szövegrész helyébe a „2008/121/EK európai parlamenti és tanácsi irányelv” szöveg lép.
