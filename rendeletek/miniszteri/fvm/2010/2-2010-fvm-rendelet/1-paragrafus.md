@@ -6,7 +6,7 @@
 
 3. átlátható formában nyújtott támogatás: azok a támogatási formák, amelyek esetében előzetesen, kockázatelemzés elvégzése nélkül kiszámítható a pontos támogatástartalom;
 
-4. átmeneti állami támogatás: a (2009/C 261/02) számú bizottsági közleménnyel módosított az Ideiglenes közösségi keretrendszer a finanszírozási lehetőségek elérésének támogatására irányuló állami támogatási intézkedésekhez a jelenlegi pénzügyi és gazdasági válságban elnevezésű (2009/C 83/01) számú bizottsági közlemény 4.2. pontjában meghatározott állami támogatás;
+4.[^2] átmeneti állami támogatás: a 2009/C 261/02. számú bizottsági közleménnyel módosított, az Ideiglenes közösségi keretrendszer a finanszírozási lehetőségek elérésének támogatására irányuló állami támogatási intézkedésekhez a jelenlegi pénzügyi és gazdasági válságban elnevezésű 2009/C 83/01. számú bizottsági közlemény 4.2. pontjában, valamint a finanszírozási lehetőségek elérésének támogatására irányuló állami támogatási intézkedésekhez a jelenlegi pénzügyi és gazdasági válságban alkalmazott ideiglenes közösségi keretszabályról szóló, 2011. évre vonatkozó bizottsági közlemény 2.2. pontjában meghatározott állami támogatás;
 
 5. diszkont kamatláb: a különböző években folyósított támogatások, illetve a több év alatt megvalósított projektek felmerült költségei jelenértékének kiszámításához használt kamatláb;
 
@@ -33,3 +33,5 @@
 16. támogatás nyújtásáról döntő szerv: az egyedi támogatás odaítéléséről döntő vagy a támogatási program, illetve a pályázati felhívás elkészítéséért felelős szerv vagy személy;
 
 17. támogatási program: a 4/2009. (I. 10.) Korm. rendelet 1. § 31. pontjában meghatározott támogatás.
+
+[^2]: Az 1. § 4. pontja 37/2010. (XII. 14.) VM rendelet 13. § (1) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
 ## 2. § E rendelet a mezőgazdasági termékek elsődleges előállításával foglalkozó vállalkozások (a továbbiakban: mezőgazdasági termelő vállalkozások) részére odaítélhető átmeneti állami támogatás igénybevételének általános eljárási szabályait állapítja meg.
 
-3. § (1) A támogatás nyújtásáról döntő szerv külön jogszabály vagy pályázati felhívás alapján a mezőgazdasági termelő vállalkozásoknak átlátható formában átmeneti állami támogatást nyújthat. Az összes átmeneti állami támogatás támogatástartalma a 2008. január 1. és 2010. december 31. közötti időszakban vállalkozásonként nem haladhatja meg a tizenötezer eurós értékhatárt figyelemmel a (2)–(4) bekezdésekben foglaltakra.
+3. § (1)[^3] A támogatás nyújtásáról döntő szerv külön jogszabály vagy pályázati felhívás alapján a mezőgazdasági termelő vállalkozásoknak átlátható formában átmeneti állami támogatást nyújthat. Ha az átmeneti állami támogatás 2010. december 31-éig kerül odaítélésre, akkor az összes átmeneti állami támogatás támogatástartalma a 2008. január 1. és 2010. december 31. közötti időszakban vállalkozásonként nem haladhatja meg a tizenötezer eurós értékhatárt figyelemmel a (2)–(4) bekezdésekben foglaltakra. Ha az átmeneti állami támogatás 2011. január 1-jétől kerül odaítélésre, akkor az összes átmeneti állami támogatás támogatástartalma a 2008. január 1. és 2011. december 31. közötti időszakban vállalkozásonként nem haladhatja meg a tizenötezer eurós értékhatárt figyelemmel a (2)–(4) bekezdésekben foglaltakra.
 
-(2) Egy mezőgazdasági termelő vállalkozásnak 2008. január 1-je és 2010. december 31-e között odaítélt átmeneti állami támogatás és a mezőgazdasági csekély összegű (de minimis) rendelet hatálya alá tartozó támogatás támogatástartalma együttesen nem haladhatja meg a tizenötezer eurónak megfelelő forintösszeget.
+(2)[^4] Ha az átmeneti állami támogatás 2010. december 31-éig kerül odaítélésre, akkor egy mezőgazdasági termelő vállalkozásnak 2008. január 1-je és 2010. december 31-e között odaítélt átmeneti állami támogatás és a mezőgazdasági csekély összegű (de minimis) rendelet hatálya alá tartozó támogatás támogatástartalma együttesen nem haladhatja meg a tizenötezer eurónak megfelelő forintösszeget. Ha az átmeneti állami támogatás 2011. január 1-jétől kerül odaítélésre, akkor egy mezőgazdasági termelő vállalkozásnak 2008. január 1-je és 2011. december 31-e között odaítélt átmeneti állami támogatás és a mezőgazdasági csekély összegű (de minimis) rendelet hatálya alá tartozó támogatás támogatástartalma együttesen nem haladhatja meg a tizenötezer eurónak megfelelő forintösszeget.
 
 (3) Azonos elszámolható költségek tekintetében az átmeneti állami támogatás nem halmozható a mezőgazdasági csekély összegű (de minimis) rendelet hatálya alá tartozó támogatással.
 
@@ -23,3 +23,6 @@ e) ha a támogatás az import áruk helyett hazai áru használatától függ.
 (6) Átmeneti állami támogatással csak olyan mezőgazdasági termelő vállalkozás támogatható, amely 2008. július 1-jén nem minősült nehéz helyzetben lévő vállalkozásnak. Támogatás nyújtható továbbá azoknak a vállalkozásoknak, amelyek 2008. július 1-je után, a globális pénzügyi és gazdasági válság következtében kerültek nehéz helyzetbe, de 2008. július 1-jén nem voltak nehéz helyzetben.
 
 (7) A több részletben fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni.
+
+[^3]: A 3. § (1) bekezdése 37/2010. (XII. 14.) VM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (2) bekezdése 37/2010. (XII. 14.) VM rendelet 13. § (2) bekezdésével megállapított szöveg.
