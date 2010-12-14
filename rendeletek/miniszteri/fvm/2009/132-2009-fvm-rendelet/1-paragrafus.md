@@ -1,3 +1,0 @@
-## I. Fejezet
-
-## EGYSÉGES TERÜLETALAPÚ TÁMOGATÁS
