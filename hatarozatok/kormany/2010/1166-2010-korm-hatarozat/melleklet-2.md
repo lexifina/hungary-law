@@ -2,7 +2,7 @@
 
 |  | Megnevezés | Létszám (fő) |
 
-| 1. | Miniszterelnökség | 94 |
+| 1. | Miniszterelnökség | 102 |
 
 | 2. | Közigazgatási és Igazságügyi Minisztérium | 1097 |
 
@@ -10,7 +10,7 @@
 
 | 4. | Honvédelmi Minisztérium | 550 |
 
-| 5. | Külügyminisztérium | 672 |
+| 5. | Külügyminisztérium | 668 |
 
 | 6. | Nemzetgazdasági Minisztérium | 871 |
 
@@ -20,7 +20,7 @@
 
 | 9. | Vidékfejlesztési Minisztérium | 735 |
 
-| 10. | ÖSSZESEN: | 5938 |
+| 10. | ÖSSZESEN: | 5942 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -28,7 +28,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 |  | Megnevezés | Létszám (fő) |
 
-| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 248 |
+| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 348 |
 
 | 1.1. | Központi Statisztikai Hivatal | 1 393 |
 
@@ -38,7 +38,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 1.4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 803 |
 
-| 1.5. | Fővárosi, megyei közigazgatási hivatalok | 1 403 |
+| 1.5. | Fővárosi, megyei közigazgatási hivatalok | 1 503, ebből 100 fő 2011. december 31-éig terjedő időre |
 
 | 1.5.1. | Fővárosi, megyei szociális és gyámhivatalok | 290 |
 
@@ -122,7 +122,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 4.9. | Európai Támogatásokat Auditáló Főigazgatóság | 80 |
 
-| 5. | Nemzeti Erőforrás Minisztérium | 5 291 |
+| 5. | Nemzeti Erőforrás Minisztérium | 5 287 |
 
 | 5.1. |  |  |
 
@@ -132,7 +132,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 5.4. | Országos Rehabilitációs és Szociális Szakértői Intézet | 551 |
 
-| 5.5. | Kulturális Örökségvédelmi Hivatal | 321 |
+| 5.5. | Kulturális Örökségvédelmi Hivatal | 317 |
 
 | 5.6. | Oktatási Hivatal | 320 |
 
@@ -314,6 +314,6 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 10.6. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 25 |
 
-| 11. | ÖSSZESEN: | 60 914 |
+| 11. | ÖSSZESEN: | 61 010 |
 
-[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
