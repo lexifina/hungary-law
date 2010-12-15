@@ -1,9 +1,11 @@
-2. § (1) A népszámlálás során az adatszolgáltatás a természetes személyek, a lakó- és üdülőegységek, valamint a közösségi elhelyezést szolgáló intézetek (pl. diákotthon, kórház) következő adatainak összeírására terjed ki:
+2. § (1) A népszámlálás során az adatszolgáltatás a természetes személyek, a lakások, valamint az intézetek következő adatköreinek az összeírására terjed ki:
 
-a) a természetes személyekre vonatkozóan: nem, születési időpont, lakóhely, családi állapot, családi állás, termékenység, iskolába járás, iskolai végzettség, személyek és háztartások megélhetési forrása, foglalkozás, munkáltató és munkahely, közlekedés, utazás, egészségi állapot, fogyatékosság, állampolgárság, vallás, nemzetiség, anyanyelv, nyelvismeret, a lakáshasználat jogcíme, üdülőtulajdon;
+a) a természetes személyekre vonatkozóan: nem, születési időpont, lakóhely, családi állapot, családi állás, élveszületett gyermekek adatai, iskolába járás, iskolai végzettség, gazdasági aktivitás, foglalkozás, munkáltató és munkahely, tanulással, munkavégzéssel összefüggő napi közlekedés és utazás, egészségi állapot, fogyatékosság, állampolgárság, vallás, nemzetiség, anyanyelv, nyelvismeret, a lakáshasználat jogcíme;
 
-b) a lakó- és üdülőegységre vonatkozóan: rendeltetés (típus), tulajdoni jelleg, helyiségek száma, alapterület, kommunális ellátottság, felszereltség, karbantartás, a fűtés módja, építési év, falazat, a környezet lakóövezeti jellege;
+b) a lakásokra vonatkozóan: a lakás címe, rendeltetése (típusa), tulajdoni jellege, helyiségeinek száma, alapterülete, kommunális ellátottsága, felszereltsége, építési éve, falazata, a környezet lakóövezeti jellege;
 
-c) a közösségi elhelyezést szolgáló intézetekre (pl. diákotthon, kórház) vonatkozóan: az intézet rendeltetése, a fenntartó gazdálkodási formája; tulajdoni jellege, dolgozói létszáma, az intézet férőhelyeinek, egészségügyi helyiségeinek száma, lakóövezeti jellege, kommunális ellátottsága, az étkeztetés formája; az intézeti épület típusa, nagysága, építési éve, falazata, felszereltsége, fűtésének módja, utolsó felújításának ideje, helyiségeinek típusa és száma, az üzemeltetés időszaka.
+c) az intézetekre vonatkozóan: az intézet címe, rendeltetése, tulajdoni jellege, dolgozói létszáma, férőhelyeinek, egészségügyi helyiségeinek száma, kommunális ellátottsága, az étkeztetés formája; az intézeti épület típusa, nagysága, építési éve, utolsó felújításának éve, falazata, felszereltsége, helyiségeinek típusa és száma, az üzemeltetés időszaka; az intézet fenntartójának gazdálkodási formája, az intézet környezetének lakóövezeti jellege.
 
 (2) A népszámlálás során a személy családi és utónevét a népszámlálási kérdőívre felvenni nem szabad.
+
+(3) A lakások címét belső azonosítóval kell ellátni és a teljeskörűség ellenőrzését követően a népszámlálás során felvett adatoktól elkülönítetten kell kezelni.
