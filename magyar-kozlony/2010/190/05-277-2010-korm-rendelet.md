@@ -1,0 +1,110 @@
+# A Kormány 277/2010. (XII. 15.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 190. szám, 2010. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/03cbdc88f7626a5b79382dcf41687439cee6ac31/dokumentumok/06b1f8fd889852adc2ff119a914769a07404d4ba/letoltes)
+
+---
+
+A Kormány 277/2010. (XII. 15.) Korm. rendelete
+a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet módosításáról
+A Kormány a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 80. § (1) bekezdés a) pontjában, valamint az Alkotmány 35. §
+(1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet (a továbbiakban: R.) 2. §-a a következő
+(5) bekezdéssel egészül ki:
+„(5) A fővárosi és megyei kormányhivataloknál foglalkoztatott köztisztviselőkre megfelelően kell alkalmazni a 3. számú
+melléklet képesítési előírásait, amennyiben a 2. számú melléklet nem tartalmaz rájuk vonatkozóan képesítési előírást.”
+2. §
+(1) Az R. 2. számú melléklete e rendelet 1. melléklete szerint módosul.
+(2) Az R. 3. számú melléklete e rendelet 2. melléklete szerint módosul.
+3. §
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 1. §-a, 2. § (1) bekezdése, valamint a 4. §-a 2011. január 1-jén lép hatályba.
+(3) E rendelet 2011. január 2-án hatályát veszti.
+4. §
+Hatályát veszti a Korm. rendelet 3. számú mellékletének 62. pontja bevezető szövegrészében az „és lobbitevékenységgel”
+szöveg, valamint a „Lobbitevékenységgel összefüggő feladatkör: Lobbihatósági (szak)ügyintéző: jogász vagy közgazdasági
+felsőoktatásban szerzett szakképzettség; okleveles közigazgatási szakértő vagy főiskolai szintű igazgatásszervező
+szakképzettség.” szöveg.
+5. §
+E rendelet hatálybalépésekor közszolgálati jogviszonyban állót továbbra is képesítettnek kell tekinteni, ha a rendelet
+hatálybalépését megelőzően az R. alapján a képesítési követelményeknek megfelelt, azonban a rendelet változása
+folytán már nem minősülne képesítettnek.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 277/2010. (XII. 15.) Korm. rendelethez
+Az R. 2. számú mellékletének I. pontja a következő 19. ponttal egészül ki:
+„19. Jogi segítségnyújtással, áldozatsegítéssel és pártfogó felügyelettel összefüggő feladatkör
+Az I. besorolási osztályban, kiemelt munkakörök:
+Jogi segítségnyújtási feladatkör:
+Vezetői munkakört betöltők: jogász szakképzettség.
+Jogi segítségnyújtási szakreferens/ügyintéző: jogász, okleveles közigazgatási szakértő, főiskolai szintű
+igazgatásszervező vagy igazságügyi ügyintéző szakképzettség.
+Áldozatsegítési feladatkör:
+Vezetői munkakört betöltők: jogász szakképzettség.
+Áldozatsegítő szakreferens/ügyintéző: jogász, szociális munkás vagy pszichológus szakképzettség.
+Pártfogó felügyelői feladatkör:
+Vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú
+továbbképzési szakon szerzett szakképzettség.
+Pártfogó felügyelő: jogász, okleveles közigazgatási szakértő, pszichológus, szociálpolitikus, szociológus vagy teológus;
+egyetemi vagy főiskolai szintű pedagógus, vagy szociális munkás; főiskolai szintű gyógypedagógus,
+igazgatásszervező vagy szociálpedagógus; felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett –
+így különösen addiktológiai konzultáns, gyermek- és ifjúságvédelmi tanácsadó, mentálhigiénés – szakképzettség.
+Pártfogó felügyelői asszisztens, pártfogó felügyelői szakreferens/ügyintéző: szakirányú felsőfokú iskolai végzettség
+vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
+Egyéb vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és
+szakirányú továbbképzési szakon szerzett szakképzettség.”
+2. melléklet a 277/2010. (XII. 15.) Korm. rendelethez
+1. Az R. 3. számú mellékletének 62. pontja helyébe a következő rendelkezés lép:
+„62. Kárpótlással, jogi segítségnyújtással, áldozatsegítéssel, pártfogó felügyelettel és lobbitevékenységgel összefüggő
+feladatkör
+Az I. besorolási osztályban, kiemelt munkakörök:
+Kárpótlással összefüggő feladatkör:
+Vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú
+továbbképzési szakon szerzett szakképzettség.
+Kárpótlási szakügyintéző, árverési szakügyintéző, nemzeti gondozási szakügyintéző: jogász vagy
+bölcsészettudományi felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus, agrár-,
+közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális
+igazgatási szakképzettség; rendvédelmi felsőoktatásban szerzett főiskolai szintű igazgatásrendészeti szakképzettség;
+katonai felsőoktatási intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett
+szakképzettség.
+Jogi segítségnyújtási feladatkör:
+Vezetői munkakört betöltők: jogász szakképzettség.
+Jogi segítségnyújtási szakreferens/ügyintéző: jogász, okleveles közigazgatási szakértő, főiskolai szintű
+igazgatásszervező vagy igazságügyi ügyintéző szakképzettség.
+Áldozatsegítési feladatkör:
+Vezetői munkakört betöltők: jogász szakképzettség.
+Áldozatsegítő szakreferens/ügyintéző: jogász, szociális munkás vagy pszichológus szakképzettség.
+Pártfogó felügyelői feladatkör:
+Vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú
+továbbképzési szakon szerzett szakképzettség.
+Pártfogó felügyelő: jogász, okleveles közigazgatási szakértő, pszichológus, szociálpolitikus, szociológus vagy teológus;
+egyetemi vagy főiskolai szintű pedagógus, vagy szociális munkás; főiskolai szintű gyógypedagógus,
+
+igazgatásszervező vagy szociálpedagógus; felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett –
+így különösen addiktológiai konzultáns, gyermek- és ifjúságvédelmi tanácsadó, mentálhigiénés – szakképzettség.
+Pártfogó felügyelői asszisztens, pártfogó felügyelői szakreferens/ügyintéző: szakirányú felsőfokú iskolai végzettség
+vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
+Lobbitevékenységgel összefüggő feladatkör:
+Lobbihatósági (szak)ügyintéző: jogász vagy közgazdasági felsőoktatásban szerzett szakképzettség; okleveles
+közigazgatási szakértő vagy főiskolai szintű igazgatásszervező szakképzettség.
+Egyéb vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és
+szakirányú továbbképzési szakon szerzett szakképzettség.”
+2. Az R. 3. számú mellékletének 92. pontja helyébe a következő rendelkezés lép:
+„92. Munkavédelmi és munkaügyi igazgatási és hatósági feladatkör
+I. besorolási osztályban
+Munkavédelmi felügyelőség vezetője, munkavédelmi felügyelő, munkavédelem központi irányítását ellátó
+szerv/szervezeti egység vezetője és érdemi ügyintéző munkatársai: munkahigiénés és/vagy foglalkozás-orvostan,
+közegészségtan-járvány, népegészségtan szakképesítésű szakorvos szakképzettség; egyetemi vagy főiskolai szintű
+szakképzettség a következő területeken és felsőfokú munkavédelmi szakképesítés: jogász; szociológus, statisztikus,
+természettudományi-, agrár-, műszaki-, biztonságtechnikai mérnök szakon szerzett szakképzettség; államigazgatási
+szakképzettség; egészségügyi felsőoktatásban szerzett közegészségügyi-járványügyi felügyelői szakképesítés;
+egészségügyi gondozás és prevenció alapképzési szak népegészségügyi ellenőri szakirányán szerzett vagy
+népegészségügyi mesterszakon szerzett szakképzettség.
+Munkaügyi felügyelőség vezetője, munkaügyi felügyelő, munkaügy központi irányítását ellátó szerv/szervezeti
+egység vezetője és érdemi ügyintéző munkatársai: jogász, egyetemi szintű humánszervező; statisztikus, egyetemi
+vagy főiskolai szintű közgazdasági, gazdasági mérnöki szakképzettség; főiskolai szintű államigazgatási, munkaügyi
+kapcsolatok végzettség, rendvédelmi felsőoktatásban szerzett igazgatásrendészeti szakképzettség; főiskolai szintű
+személyügyi szervező szakképzettség; egyéb felsőfokú végzettség és munkaügyi felügyelő, felsőfokú munkaügyi,
+személyügyi szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező
+szakképzettség.”

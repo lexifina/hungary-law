@@ -1,0 +1,115 @@
+# A Kormány 280/2010. (XII. 15.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 190. szám, 2010. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/03cbdc88f7626a5b79382dcf41687439cee6ac31/dokumentumok/06b1f8fd889852adc2ff119a914769a07404d4ba/letoltes)
+
+---
+
+A Kormány 280/2010. (XII. 15.) Korm. rendelete
+a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
+190/2008. (VII. 29.) Korm. rendelet, valamint a közúti közlekedés szabályairól szóló
+1/1975. (II. 5.) KPM–BM együttes rendelet módosításáról
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 9. és 14. alpontjában kapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet (a továbbiakban: R.)
+4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 2. § (1) bekezdésében foglalt tilalom alól az üzemben tartó vagy a szállítás megrendelője 1. mellékletnek
+megfelelő kérelmére a közlekedési hatóság a (2) bekezdésben meghatározott esetekben, a tehergépkocsi üzemben
+tartójának székhelye szerint illetékes környezetvédelemi, természetvédelmi és vízügyi felügyelőség egyidejű
+tájékoztatása mellett, meghatározott időtartamra, de legfeljebb egy naptári évre a 2. mellékletben meghatározott
+tartalmú engedély kiadásával, a legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású tehergépkocsira
+– a 3. mellékletben megjelölt útvonalakra ki nem terjedő – felmentést ad. A teljes naptári évre vonatkozó, éves
+felmentések iránti kérelmet legkésőbb a tárgyévet megelőző év december 1-jéig kell benyújtani. Az éves felmentés
+– a kérelemtől függően – a tárgyévet követő év január 31-ig tartó időbeli hatállyal is kiadható.”
+2. §
+Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) A 2. §-ban meghatározott közlekedési korlátozás nem vonatkozik:
+1. a Magyar Honvédség, a rend őrség, a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a tűz-, polgári és
+katasztrófavédelem, a vámhatóság szervezete, valamint a közlekedési hatóság által üzemben tartott vagy igénybe
+vett,
+2. a katasztrófa- és vízkárelhárítást, -megelőzést, valamint segítségnyújtást végző,
+3. a műszaki, baleseti és rakománymentést végző,
+4. a kommunális feladatot ellátó, ideértve a településtisztasági szolgáltatásokhoz, települési hulladékok kezeléséhez,
+köztisztasági tevékenységhez, valamint közüzemi hibaelhárításhoz használt,
+5. a kizárólag friss virágrakományt vagy élő növényekből álló rakományt szállító,
+6. a terménybetakarításhoz kapcsolódó áruszállításhoz, takarmányszállításhoz, mezőgazdasági munkagép vagy lassú
+jármű áttelepítéséhez használt,
+7. az élő állatot, friss tejet, tejterméket, friss és fagyasztott húst és hústerméket, friss pékárut, gyorsan romló
+élelmiszert, tojást, friss zöldséget (árut) szállító és az ilyen szállítási célból üresen közlekedő
+tehergépkocsira.
+(2) A 2. §-ban meghatározott közlekedési korlátozás – a 2. § (1) bekezdés a) pontjában meghatározott időszakban
+a 3. mellékletben meghatározott útvonalak kivételével – nem vonatkozik:
+1. az Európai Közösség és a Magyar Köztársaság közötti közúti árufuvarozás meghatározott feltételeinek kialakításáról
+és a kombinált fuvarozás elősegítéséről szóló Megállapodás kihirdetéséről rendelkező törvényben meghatározott
+kombinált áruszállítást
+1a) az átrakó állomás (kombiterminál) és a le-, vagy felrakóhely között vagy
+1b) a határátkelőhelyhez legközelebb lévő átrakó állomás és határátkelőhely között végző,
+2. a humanitárius szervezet kezdeményezése alapján humanitárius jellegűként kezelt küldemények szállítását végző,
+3. a postai levelek, csomagok és újságok szállítását végző,
+4. a forgalmazásra és fogyasztásra szánt folyékony vagy gáznemű üzemanyagok, tüzelőanyagok és gyógyászati célú
+gázok szállítását végző, legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású,
+5. az út-, vasút- vagy közműépítéshez, közérdekű beruházásokhoz, továbbá ezek fenntartásához, javításához vagy
+tisztításához használt,
+6. az államhatár és a közlekedési hatóság által erre a célra kijelölt legközelebbi parkoló között közlekedő,
+7. az államhatártól a magyarországi telephelyig vagy az első lerakóhelyig – a 2. § (1) bekezdés a) pontja szerinti
+időszakban – közlekedő,
+8. a kulturális, gazdasági és sportrendezvényekhez berendezések és állatok szállításához használt, ideértve a rádió,
+televízió és a külső filmfelvételekkel összefüggő szállításokat is,
+9. a lakossági költöztetéshez használt,
+
+10. a vasút-, hajóállomási és repülőtéri el- és felfuvarozást (a feladó vagy fogadó cég telephelyétől legközelebb eső
+állomás viszonylatában) végző, a korlátozás ideje alatt érkező, illetőleg továbbításra kerülő árut szállító,
+11. a vontatmány nélkül közlekedő, 7,5 tonnát meg nem haladó saját tömegű nyerges vontató kialakítású, legalább
+7-es (EURO 3-as) környezetvédelmi osztály besorolású, valamint
+12. a közút kezelője által a meghatározott össztömeget vagy tengelyterhelést vagy méretet meghaladó járművek
+közlekedésére kiadott hozzájárulás alapján közlekedő
+tehergépkocsira.”
+3. §
+Az R. 1. melléklete helyébe e rendelet 1. melléklete lép.
+4. §
+(1) Az R. 6. § c) pontjában az „5. § e), g), j), o) vagy q) pontjában” szövegrész helyébe az „5. § (2) bekezdés 2., 3., 5., 8. vagy
+10. pontjában” szöveg lép.
+(2) Az R. 2. melléklet 4. pontjában az „érvényességének időtartama” szövegrész helyébe az „időbeli hatálya” szöveg lép.
+(3) Az R. 4. melléklet 1. pontjában az „5. § e), g), j), o), q) pontjában” szövegrész helyébe az „5. § (2) bekezdés 2., 3., 5., 8.,
+10. pontjában” szöveg lép.
+5. §
+Hatályát veszti az R. 3. melléklet nyitó szövegrészében a „nyári korlátozási időszak alatt a” és a „(július 1-jétől augusztus
+31-éig)” szövegrész.
+6. §
+A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 37. §-a a következő (6) és
+(7) bekezdéssel egészül ki:
+„(6) Tilos előzni az azonos irányú forgalom számára két forgalmi sávval rendelkező autópályán és autóúton – 6 és 22 óra
+között – a 7500 kg-ot meghaladó megengedett legnagyobb össztömegű tehergépkocsival, vontatóval, valamint
+e járműből és pótkocsiból álló járműszerelvénnyel.
+(7) A (6) bekezdésben meghatározott előzési tilalom esetén a tilalom hatálya alá tartozó járműveknek olyan követési
+távolságot kell tartaniuk, hogy közéjük legalább egy – az abban meghatározott előzési tilalom hatálya alá tartozó –
+járműszerelvény biztonságosan besorolhasson.”
+7. §
+Ez a rendelet 2011. január 1-jén lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 280/2010. (XII. 15.) Korm. rendelethez
+„1. melléklet a 190/2008. (VII. 29.) Korm. rendelethez
+A közlekedési korlátozás alóli felmentési kérelem tartalma:
+a)
+a szállítani kívánt áru megnevezése, tömege, mérete, csomagolásának jellege,
+b)
+a kérelem részletes indokolása, ideértve annak indokolását is, hogy a szállítás miért nem végezhető 7,5 tonna
+megengedett legnagyobb össztömeg alatti tehergépkocsival,
+c)
+a szállításhoz szükséges tehergépkocsik számának indokolása,
+d)
+a szállítás tervezett időpontja (csak eseti felmentés esetében),
+e)
+a szállítás tervezett útvonala,
+f)
+a szállító tehergépkocsik üzemben tartójának neve, címe,
+g)
+a szállító tehergépkocsik gyártmánya, típusa, felépítmény kialakítása, forgalmi rendszáma,
+h)
+a kérelmező aláírása, bélyegzője,
+i)
+a kért felmentés időbeli hatálya, és
+j)
+nyilatkozat arról, hogy a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben
+meghatározott útvonalakat nem veszik igénybe.”

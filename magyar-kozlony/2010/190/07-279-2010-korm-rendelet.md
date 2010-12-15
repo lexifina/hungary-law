@@ -1,0 +1,34 @@
+# A Kormány 279/2010. (XII. 15.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 190. szám, 2010. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/03cbdc88f7626a5b79382dcf41687439cee6ac31/dokumentumok/06b1f8fd889852adc2ff119a914769a07404d4ba/letoltes)
+
+---
+
+A Kormány 279/2010. (XII. 15.) Korm. rendelete
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának
+részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A tárgyév utolsó hónapjában a havi kifizetést követően és az átcsoportosítás után az egyes szakfeladatokon még
+rendelkezésre álló előirányzat osztható fel és fizethető ki, az államháztartásért felelős miniszter egyetértésével.”
+2. § A Kr. a következő 55. §-sal egészül ki:
+„55. § (1) A 2010. év utolsó hónapjában, az esedékes havi kifizetést követően a háziorvosi, háziorvosi ügyeleti és
+fogászati ellátásra rendelkezésre álló előirányzat terhére kiegészítő díjazás biztosítható
+a) a területi ellátási kötelezettséggel rendelkező háziorvosi és házi gyermekorvosi szolgálatok részére szolgálatonként
+200 ezer forint összegben,
+b) a hajléktalanok ellátását biztosító háziorvosi szolgálatok részére szolgálatonként 200 ezer forint összegben,
+c) a hajléktalanok ellátását biztosító háziorvosi centrumok részére centrumonként 1500 ezer forint összegben,
+d) a háziorvosi sürgősségi ellátást biztosító központi ügyeleti szolgálatok részére szolgálatonként 200 ezer forint
+összegben,
+e) a fogorvosi alapellátást nyújtó szolgálatok részére szolgálatonként 150 ezer forint összegben heti 30 órás rendelési
+idő esetén, az ennél rövidebb rendelési idővel működő szolgálatok esetén az időarányos összegben.
+(2) A finanszírozó az (1) bekezdés szerint megállapított kiegészítő díjat 2010. december 31-éig utalványozza.”
+3. § Hatályát veszti a Kr. 55. §-a.
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 3. § 2011. január 1-jén lép hatályba.
+(3) Ez a rendelet 2011. január 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
