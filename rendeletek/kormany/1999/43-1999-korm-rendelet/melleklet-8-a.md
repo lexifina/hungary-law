@@ -20,6 +20,6 @@
 
 ## ** A 37. § (4) bekezdésében foglalt rendelkezés szerinti minősítés.
 
-8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^391]
+8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^392]
 
-[^391]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^392]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be.

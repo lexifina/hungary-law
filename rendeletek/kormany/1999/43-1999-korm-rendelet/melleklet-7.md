@@ -102,6 +102,6 @@ A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek c
 
 3. Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az ÁNTSZ engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^389]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az ÁNTSZ engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^390]
 
-[^389]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^390]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.

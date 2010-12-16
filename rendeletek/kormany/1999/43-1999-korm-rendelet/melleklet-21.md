@@ -376,10 +376,10 @@
 
 ## Pozitív szűrés esetén: A vezető diagnózis BNO kódja
 
-21. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^404]
+21. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^405]
 
 „E” térítési kategória alapján történő ellátás jelentése
 
 E-adatlap
 
-[^404]: A 21. számú mellékletet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (6) bekezdése iktatta a szövegbe.
+[^405]: A 21. számú mellékletet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (6) bekezdése iktatta a szövegbe.
