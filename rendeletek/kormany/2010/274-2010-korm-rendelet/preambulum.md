@@ -1,0 +1,1 @@
+A Kormány a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 81/A. §-ában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
