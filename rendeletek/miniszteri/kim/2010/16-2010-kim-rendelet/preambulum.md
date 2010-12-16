@@ -1,0 +1,1 @@
+Az európai területi együttműködési csoportosulásról szóló 2007. évi XCIX. törvény 19/A. § (2) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
