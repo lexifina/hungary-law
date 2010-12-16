@@ -1,10 +1,10 @@
-## 30. §[^61] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében
+## 30. §[^62] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében
 
-a)[^62]
+a)[^63]
 
-b)[^63] irányítja a regionális képző központokat, a vállalatok közvetlen képzési megrendelései tekintetében a nemzetgazdasági miniszter iránymutatása alapján,
+b)[^64] irányítja a regionális képző központokat, a vállalatok közvetlen képzési megrendelései tekintetében a nemzetgazdasági miniszter iránymutatása alapján,
 
-c)[^64] részt vesz az Új Magyarország Fejlesztési Terv azon operatív programjainak Monitoring Bizottságai tevékenységében, melyek társadalmi felzárkózásban érintett feladatokat látnak el,
+c)[^65] részt vesz az Új Magyarország Fejlesztési Terv azon operatív programjainak Monitoring Bizottságai tevékenységében, melyek társadalmi felzárkózásban érintett feladatokat látnak el,
 
 d) irányítja a leghátrányosabb helyzetű kistérségek felzárkózási programjait,
 
@@ -30,7 +30,7 @@ n) részt vesz, a roma- és társadalmi felzárkózási szakterülettel foglalko
 
 o) működteti a Társadalmi Felzárkózás Tárcaközi Bizottságot.
 
-[^61]: A 30. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (19) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^62]: A 30. § a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (11) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^63]: A 30. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (11) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^64]: A 30. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (19) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^62]: A 30. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (19) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^63]: A 30. § a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (11) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^64]: A 30. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (11) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^65]: A 30. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (19) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

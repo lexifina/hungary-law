@@ -1,4 +1,4 @@
-92. § (1)[^252] A miniszter az informatikáért, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért és az űrkutatásért való felelőssége körében:
+92. § (1)[^253] A miniszter az informatikáért, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért és az űrkutatásért való felelőssége körében:
 
 a) egyetértést gyakorol a szolgáltató állam kialakításához szükséges közigazgatási informatika stratégiájának előterjesztéséhez, a végrehajtás akcióprogramjainak összehangolásához,
 
@@ -10,7 +10,7 @@ d) felügyeli a külön jogszabályokban meghatározott zártcélú hálózatok,
 
 e) felügyeli az Egységes Digitális Rádiórendszer, Informatikai Közháló Program és az Egységes Kormányzati Gerinchálózat működését, üzemeltető szervezeteit,
 
-f)[^253] szakmai irányítást gyakorol a közigazgatási intézmények, állami vagy részben állami tulajdonban lévő gazdasági társaságok, hírközlési, informatikai tevékenysége felett, ide értve a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát is, ennek keretében:
+f)[^254] szakmai irányítást gyakorol a közigazgatási intézmények, állami vagy részben állami tulajdonban lévő gazdasági társaságok, hírközlési, informatikai tevékenysége felett, ide értve a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát is, ennek keretében:
 
 fa) felügyeli a közigazgatási szervezetek kezelésében lévő közigazgatási informatikai infrastruktúra eszközrendszerének (SW, HW, hálózati eszközök, telekommunikációs szolgáltatások), továbbá az állami, vagy részben állami tulajdonban lévő gazdasági társaságok infokommunikációs infrastruktúráinak üzemeltetését,
 
@@ -18,27 +18,27 @@ fb) ellenőrzi az üzemeltetés személyi, tárgyi feltételeit, az informatikai
 
 fc) gondoskodik a közigazgatási informatika infrastrukturális eszközrendszerének fejlesztéséről, az üzemeltetés feltételeinek meghatározásáról,
 
-g)[^254] jogosult az f) pontban említett szervezetek infokommunikációs infrastruktúrájáért felelős vezetőinek, az informatikai biztonságért felelős vezető személyére javaslatot tenni, illetőleg a központi közigazgatási szervezetek, hivatalok, intézmények infokommunikációért felelős és informatikai biztonságért felelős vezetőinek kinevezéséhez egyetértési jogot gyakorolni,
+g)[^255] jogosult az f) pontban említett szervezetek infokommunikációs infrastruktúrájáért felelős vezetőinek, az informatikai biztonságért felelős vezető személyére javaslatot tenni, illetőleg a központi közigazgatási szervezetek, hivatalok, intézmények infokommunikációért felelős és informatikai biztonságért felelős vezetőinek kinevezéséhez egyetértési jogot gyakorolni,
 
 h) jóváhagyja az ágazatok informatikai infrastruktúra-fejlesztési (SW, HW, hálózati eszközök, telekommunikációs szolgálktatások) stratégiáit, a kormányhivatalok, központi hivatalok, közigazgatási szervek fejlesztési, beszerzési terveit,
 
-i)[^255] egyetértési jogot gyakorol az f) pontban érintett szervezetek infokommunikációs tartalmú szerződéseihez, kötelezettségvállalásaihoz, kivéve az f) pont fc) alpontban meghatározott fejlesztési tevékenységet, ahol a szerződéseket megköti és gondozza,
+i)[^256] egyetértési jogot gyakorol az f) pontban érintett szervezetek infokommunikációs tartalmú szerződéseihez, kötelezettségvállalásaihoz, kivéve az f) pont fc) alpontban meghatározott fejlesztési tevékenységet, ahol a szerződéseket megköti és gondozza,
 
 j) közreműködik a védelemszervezés közigazgatási szerveket érintő informatikai feladatainak tervezésében, végrehajtásában,
 
-k)[^256] ellátja az űrkutatási tárgyú nemzetközi szerződésekkel kapcsolatos, továbbá az európai integrációból adódó űrkutatási és űrpolitikai program-előkészítési és harmonizációs feladatokat, külön felhatalmazás alapján képviseli a Kormányt a nemzetközi szervezetekben; kidolgozza az űrkutatás fő irányait és programjait; biztosítja a Magyar Űrkutatási Tanács (MŰT) és az Űrkutatási Tudományos Tanács (ŰTT) működésének feltételeit,
+k)[^257] ellátja az űrkutatási tárgyú nemzetközi szerződésekkel kapcsolatos, továbbá az európai integrációból adódó űrkutatási és űrpolitikai program-előkészítési és harmonizációs feladatokat, külön felhatalmazás alapján képviseli a Kormányt a nemzetközi szervezetekben; kidolgozza az űrkutatás fő irányait és programjait; biztosítja a Magyar Űrkutatási Tanács (MŰT) és az Űrkutatási Tudományos Tanács (ŰTT) működésének feltételeit,
 
 l) megszervezi a nemzeti adatvagyon adatfeldolgozását,
 
-m)[^257] irányítja
+m)[^258] irányítja
 
-ma)[^258] a Kormányzati Informatikai Fejlesztési Ügynökséget,
+ma)[^259] a Kormányzati Informatikai Fejlesztési Ügynökséget,
 
-mb)[^259] a Magyar Űrkutatási Irodát,
+mb)[^260] a Magyar Űrkutatási Irodát,
 
-mc)[^260] a Kopint-Datorg Zrt.-t.
+mc)[^261] a Kopint-Datorg Zrt.-t.
 
-(2)[^261] A miniszter az elektronikus hírközlésért, audiovizuális politikáért, informatikáért és postaügyért való felelősságe körében
+(2)[^262] A miniszter az elektronikus hírközlésért, audiovizuális politikáért, informatikáért és postaügyért való felelősságe körében
 
 a) előkészíti az elektronikus hírközléssel összefüggő stratégiákat, továbbá összehangolja az azokhoz kapcsolódó programok végrehajtását,
 
@@ -62,21 +62,21 @@ j) irányítja, illetve felügyeli
 
 ja) a Nemzeti Információs Infrastruktúra Fejlesztési Intézetet
 
-jb)[^262] – az oktatásigazgatással és -fejlesztéssel kapcsolatos programok tekintetében a nemzeti erőforrás miniszter egyetértésével – az Educatio Társadalmi Szolgáltató Nonprofit Kft.-t,
+jb)[^263] – az oktatásigazgatással és -fejlesztéssel kapcsolatos programok tekintetében a nemzeti erőforrás miniszter egyetértésével – az Educatio Társadalmi Szolgáltató Nonprofit Kft.-t,
 
-jc)[^263] – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvényben meghatározottak szerint a nemzeti erőforrás miniszterrel – a Neumann János Digitális Könyvtár és Multimédia Központ Nonprofit Kft.-t,
+jc)[^264] – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvényben meghatározottak szerint a nemzeti erőforrás miniszterrel – a Neumann János Digitális Könyvtár és Multimédia Központ Nonprofit Kft.-t,
 
 jd) a Nemzeti Hírközlési és Informatikai Tanácsot.
 
-[^252]: A 92. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^253]: A 92. § (1) bekezdés f) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^254]: A 92. § (1) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^255]: A 92. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^256]: A 92. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (38) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^257]: A 92. § (1) bekezdés m) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^258]: A 92. § (1) bekezdés m) pont ma) alpontja a 268/2010. (XII. 3.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^259]: A 92. § (1) bekezdés m) pont mb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^260]: A 92. § (1) bekezdés m) pont mc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^261]: A 92. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^262]: A 92. § (2) bekezdés j) pont jb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^263]: A 92. § (2) bekezdés j) pont jc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^253]: A 92. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^254]: A 92. § (1) bekezdés f) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^255]: A 92. § (1) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^256]: A 92. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^257]: A 92. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (38) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^258]: A 92. § (1) bekezdés m) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^259]: A 92. § (1) bekezdés m) pont ma) alpontja a 268/2010. (XII. 3.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^260]: A 92. § (1) bekezdés m) pont mb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^261]: A 92. § (1) bekezdés m) pont mc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^262]: A 92. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^263]: A 92. § (2) bekezdés j) pont jb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^264]: A 92. § (2) bekezdés j) pont jc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

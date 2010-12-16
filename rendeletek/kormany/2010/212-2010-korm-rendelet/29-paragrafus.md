@@ -1,6 +1,6 @@
-29. § (1)[^59] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében felelős:
+29. § (1)[^60] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében felelős:
 
-a)[^60] a gyermekek esélyteremtéséért,
+a)[^61] a gyermekek esélyteremtéséért,
 
 b) a hátrányos térségekben élők társadalmi felzárkózását előmozdító programok kidolgozásáért és részt vesz a megvalósításukban,
 
@@ -42,5 +42,5 @@ n) koordinálja a felelősségi körébe tartozó kormányzati stratégiai kutat
 
 o) a társadalmi felzárkózás vonatkozásában közreműködik a nemzeti erőforrás miniszterrel az oktatási tevékenységet végző közalapítványok alapítói jogainak gyakorlásában.
 
-[^59]: A 29. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (18) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^60]: A 29. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (10) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^60]: A 29. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (18) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^61]: A 29. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (10) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

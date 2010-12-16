@@ -8,7 +8,7 @@ c) kialakítja a Kormány külgazdasági politikáját,
 
 d) az érintett miniszterekkel együttműködve, a külügyminiszter vonatkozó hatásköreire tekintettel gondoskodik az áruk, szolgáltatások, a személyek és a tőke szabad áramlásával kapcsolatos európai uniós irányelvek magyarországi végrehajtásáról, a magyar álláspont kialakításáról és kidolgozásáról, valamint képviseli azokat az Európai Unió feladatkörrel rendelkező intézményeiben,
 
-e)[^209] felel a külgazdasági diplomata hálózat szakmai irányításáért, irányítja az OECD melletti Magyar Állandó Képviseletet, javaslatot tesz a képviseletet vezető nagykövet kinevezésére, felmentésére, kezdeményezi a szakdiplomaták kinevezését, felmentését,
+e)[^210] felel a külgazdasági diplomata hálózat szakmai irányításáért, irányítja az OECD melletti Magyar Állandó Képviseletet, javaslatot tesz a képviseletet vezető nagykövet kinevezésére, felmentésére, kezdeményezi a szakdiplomaták kinevezését, felmentését,
 
 f) stratégiát dolgoz ki a külföldi működő tőke befektetések ösztönzésére, az áruk és szolgáltatások külkereskedelmének, valamint a hazai vállalkozások működő tőke exportjának elősegítésére,
 
@@ -16,10 +16,10 @@ g) ellátja a Kárpát-medencei Gazdasági Övezet létrehozásával és működ
 
 h) irányítja, értékeli és ellenőrzi a kereskedelemfejlesztést és a befektetés-ösztönzést szolgáló hazai intézményrendszert,
 
-i)[^210] ellátja a Magyar Turizmus Zrt., illetve a Magyar Befektetési és Kereskedelemfejlesztési Ügynökség (ITD Hungary Zrt.) szakmai felügyeletét,
+i)[^211] ellátja a Magyar Turizmus Zrt., illetve a Magyar Befektetési és Kereskedelemfejlesztési Ügynökség (ITD Hungary Zrt.) szakmai felügyeletét,
 
-[j)[^211] irányítja a Nemzeti Külgazdasági Hivatalt.]
+[j)[^212] irányítja a Nemzeti Külgazdasági Hivatalt.]
 
-[^209]: A 78. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^210]: A 78. § i) pontjában a 267/2010. (XII. 3.) Korm. rendelet 41. § (33) bekezdése alapján hatályát veszti az „ , illetve a Magyar Befektetési és Kereskedelemfejlesztési Ügynökség (ITD Hungary Zrt.)” szövegrész. [E módosító rendelet 46. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.] Alkalmazására lásd e módosító rendelet 47. §-át.
-[^211]: A 78. § j) pontját a 267/2010. (XII. 3.) Korm. rendelet 25. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át. [E módosító rendelet 46. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^210]: A 78. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^211]: A 78. § i) pontjában a 267/2010. (XII. 3.) Korm. rendelet 41. § (33) bekezdése alapján hatályát veszti az „ , illetve a Magyar Befektetési és Kereskedelemfejlesztési Ügynökség (ITD Hungary Zrt.)” szövegrész. [E módosító rendelet 46. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.] Alkalmazására lásd e módosító rendelet 47. §-át.
+[^212]: A 78. § j) pontját a 267/2010. (XII. 3.) Korm. rendelet 25. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át. [E módosító rendelet 46. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
