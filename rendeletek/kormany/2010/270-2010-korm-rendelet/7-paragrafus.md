@@ -1,0 +1,5 @@
+## 6. § Az R. 3. § (3) bekezdésében a „december 23-ig” szövegrész helyébe a „december hónapjának 7. munkanapjáig” szöveg, 7. § (9) bekezdés nyitó szövegrészében az „a szabályozási pótdíj” szövegrész helyébe az „a szabályozási pótdíj, valamint a módosítási pótdíj” szöveg, a „következik be” szövegrész helyébe a „következett be” szövegrész, 7. § (9) bekezdés a) pontjában az „átviteli hálózaton” szövegrész helyébe az „az átviteli hálózaton” szöveg, a 7. § (11) bekezdésében az „a szabályozási pótdíjból” szövegrész helyébe az „a szabályozási és a módosítási pótdíjból” szöveg lép.
+
+7. § (1) Hatályát veszti az R. 1. § (4) bekezdés c) pont cc) alpontjában a „vagy” szövegrész, 1. § (4) bekezdés d) pontja, 5. § (5a) és (12) bekezdése, 8. § (2) bekezdésében a „vagy (12)” és a 11. § (7) bekezdésében a „vagy (12)” szövegrész.
+
+(2) Hatályát veszti az R. 3. § (11) bekezdése, 6/A. §-a, 9/A. § (1) bekezdés j) pontja, 11. § (10) bekezdése, 2. számú melléklet 5. pontja, 4. számú melléklet II. fejezet 4–6. pontja.
