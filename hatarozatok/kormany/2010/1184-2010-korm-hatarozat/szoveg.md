@@ -24,13 +24,13 @@ a) a Dél-Alföldi Regionális Fejlesztési Tanácsban Mágori Andreát, Simonka
 
 b) a Dél-Dunántúli Regionális Fejlesztési Tanácsban Filczinger Ágnest, Schmidt Jenőt, Gere Attilát, dr. Jarjabka Ákost, Juhász Tibort, Szekó Józsefet, Patay Vilmost, Ribányi Józsefet,
 
-c) az Észak-Alföldi Regionális Fejlesztési Tanácsban dr. Seszták Miklóst, Borbás Zsoltot, dr. Kovács Ferencet, dr. Tiba Istvánt, dr. Tilki Attilát, Molnár Ivánt, Tasó Lászlót, Balogh Zoltánt,
+c)[^2] az Észak-Alföldi Regionális Fejlesztési Tanácsban dr. Seszták Miklóst, Borbás Zsoltot, dr. Vinnai Győzőt, dr. Tiba Istvánt, dr. Tilki Attilát, Molnár Ivánt, Tasó Lászlót, Balogh Zoltánt,
 
-d) az Észak-Magyarországi Regionális Fejlesztési Tanácsban Gál Erzsébetet, Riz Gábort, dr. Tóth Józsefet, Balázs Józsefet, dr. Nagy Kálmánt, Szandai Józsefet, Koncz Ferencet, Barna Jánost,
+d)[^3] az Észak-Magyarországi Regionális Fejlesztési Tanácsban Gál Erzsébetet, Vámos Zoltánt, Farkas Zoltánt, Balázs Józsefet, dr. Ódor Ferencet, Szandai Józsefet, Aros Jánost, Barna Jánost,
 
-e) a Közép-Dunántúli Regionális Fejlesztési Tanácsban Szabóné Cserna Évát, Csányiné Pergel Andreát, Sövényházi Balázst, dr. Kreft-Horváth Lórándot, dr. Csernavölgyi Istvánt, Horváthy Lórántot, dr. Cser-Palkovics Andrást, Óvádi Pétert,
+e)[^4] a Közép-Dunántúli Regionális Fejlesztési Tanácsban Szabóné Cserna Évát, Tessely Zoltánt, Sövényházi Balázst, dr. Kreft-Horváth Lórándot, dr. Csernavölgyi Istvánt, Horváthy Lórántot, Tratnyek Istvánt, Óvádi Pétert,
 
-f) a Közép-Magyarországi Regionális Fejlesztési Tanácsban dr. Láng Zsoltot, Tóth Jánost, Egry Attilát, dr. Pesti Imrét, Pápai Mihályt, dr. Bácskai Jánost, Riz Leventét, Kucsák Lászlót,
+f)[^5] a Közép-Magyarországi Regionális Fejlesztési Tanácsban dr. Fónagy Jánost, dr. Láng Zsoltot, Tóth Jánost, Egry Attilát, dr. Pesti Imrét, Pápai Mihályt, dr. Bácskai Jánost, Riz Leventét, Kucsák Lászlót,
 
 g) a Nyugat-Dunántúli Regionális Fejlesztési Tanácsban Kepli Józsefet, Bánó Zoltánt, Firtl Mátyást, dr. Gulyás Zoltánt, Papp Nándort, Kiniczky Istvánt, Lazáry Viktort, Hámori Györgyöt
 
@@ -49,3 +49,7 @@ d) a Kormány képviselőjének a Közép-Magyarországi Regionális Fejlesztés
 hatályát veszti.
 
 [^1]: A 2. pont az 1237/2010. (XI. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont c) alpontja az 1291/2010. (XII. 15.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A 3. pont d) alpontja az 1291/2010. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 3. pont e) alpontja az 1291/2010. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^5]: A 3. pont f) alpontja az 1291/2010. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
