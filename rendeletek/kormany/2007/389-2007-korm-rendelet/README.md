@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-389-20-
 | 2010-01-01 | 2007-389-20-22.9 | 389/2007. (XII. 23.) Korm. rendelet |
 | 2010-03-01 | 2007-389-20-22.10 | 29/2010. (II. 17.) Korm. rendelet |
 | 2010-07-01 | 2007-389-20-22.11 | 175/2010. (V. 13.) Korm. rendelet |
+| 2010-12-16 | 2007-389-20-22.12 | 175/2010. (V. 13.) Korm. rendelet |

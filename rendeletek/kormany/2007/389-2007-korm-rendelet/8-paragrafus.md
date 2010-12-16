@@ -2,7 +2,7 @@
 
 8. §[^53] (1) Az Értékesítő a tárgyévet követően eredetigazolással igazolja, hogy az általa a tárgyévben termelt és a kötelező átvételi rendszerben értékesített villamos energia adott mennyisége megfelel a kötelező átvétel e rendelet szerinti, valamint kapcsolt energiatermelés esetén a nagy hatásfokú kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló külön jogszabály követelményeinek.
 
-(2)[^54] Ha az Értékesítő az 5. § (11) vagy (12) bekezdésének megfelelően a kapcsoltan termelt villamos energiát csak a fűtési idényben értékesíti a kötelező átvételi rendszerben, akkor az eredetigazolást megalapozó – a nagy hatásfokú kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló külön jogszabály szerinti – számításokat úgy kell elvégezni, mintha az Értékesítő a fűtési idényen kívül nem termelt volna villamos energiát.
+(2)[^54] Ha az Értékesítő az 5. § (11) bekezdésének megfelelően a kapcsoltan termelt villamos energiát csak a fűtési idényben értékesíti a kötelező átvételi rendszerben, akkor az eredetigazolást megalapozó – a nagy hatásfokú kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló külön jogszabály szerinti – számításokat úgy kell elvégezni, mintha az Értékesítő a fűtési idényen kívül nem termelt volna villamos energiát.
 
 (3)[^55] Eredetigazolást kérhet az a megújuló energiaforrásból vagy hulladékból nyert energiával vagy hővel kapcsoltan villamos energiát előállító termelő is, aki (amely) nem kíván a kötelező átvételi rendszerben értékesíteni. Az eredetigazolás önmagában nem jelent jogosultságot a kötelező átvételi rendszerben történő értékesítésre.
 
@@ -25,7 +25,7 @@
 (12) A Hivatal a (11) bekezdés alapján készült értékelő jelentést megküldi az Európai Bizottságnak és az energiapolitikáért felelős miniszternek.
 
 [^53]: A 8. § e rendelet 10. § (3) bekezdése alapján 2008. január 9-én lépett hatályba.
-[^54]: A 8. § (2) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 7. §-ával megállapított, a 175/2010. (V. 13.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^54]: A 8. § (2) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 7. §-ával megállapított, a 270/2010. (XII. 8.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
 [^55]: A 8. § (3) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^56]: A 8. § (4) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 11. § (12) bekezdése szerint módosított szöveg.
 [^57]: A 8. § (8) bekezdés második mondatát a 182/2009. (IX. 10.) Korm. rendelet 613. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

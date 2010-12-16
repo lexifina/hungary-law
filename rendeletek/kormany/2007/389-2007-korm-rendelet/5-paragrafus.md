@@ -80,7 +80,7 @@ bb) a völgyidőszakra: 0,28,
 
 bc) a mélyvölgy időszakra: 0,09.
 
-(5a)[^27] A földgázellátásról szóló 2008. évi XL. törvény 3. § 23. pontjának megfelelő, azonban a földgázellátásról szóló 2008. évi XL. törvény végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendeletben meghatározott minőségi követelményeket el nem érő, de közvetlen energetikai célra felhasználható, földalatti mezőből kitermelhető földgázzal, 10 MW-nál nem nagyobb teljesítőképességű erőműben termelt villamos energia kötelező átvételi árai e rendelet 2. mellékletének 5. pontjában meghatározott bázisárakon alapulnak.
+(5a)[^27]
 
 (6) A használt berendezést is magában foglaló erőműegységben termelt villamos energia kötelező átvételi árai ez e rendelet 2. számú mellékletének 3. pontjában meghatározott bázisárakon alapulnak, ha a berendezésre vonatkozó engedély e rendelet hatálybalépése után került kiadásra.
 
@@ -96,18 +96,18 @@ bc) a mélyvölgy időszakra: 0,09.
 
 (11)[^33] Az Értékesítő jogosult arra, hogy az általa termelt villamos energiát – az egész évben a kötelező átvételi rendszerben történő értékesítés helyett – saját döntése alapján a fűtési idényben a kötelező átvételi rendszerben, a fűtési idényen kívül a versenypiacon értékesítse. A kötelező átvételi rendszerben a (4) bekezdésben meghatározott feltételek szerint részt vevő Értékesítő nem jogosult a fűtési idényen kívüli időszakban a (3) bekezdés szerinti értékesítésre.
 
-(12)[^34] Az 1. § (4) bekezdés d) pontja alapján az Értékesítő kizárólag a fűtési idényben jogosult az általa termelt villamos energiának a kötelező átvételi rendszerben történő értékesítésére.
+(12)[^34]
 
 [^22]: Az 5. § (3) bekezdésének b) pontja a 287/2008. (XI. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^23]: Az 5. § (3) bekezdésének c) pontját a 287/2008. (XI. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 11. § (4) bekezdése alapján az 5. § (3) bekezdés c) pontjának hatálya alá tartozó Értékesítő a kötelező átvételi rendszerben elszámolhatja az általa 2008. január 1-je és 2008. november 30. között termelt átvételi kötelezettség alá eső villamos energiát is.
 [^24]: Az 5. § (4) bekezdésének bevezető szövegrésze a 287/2008. (XI. 28.) Korm. rendelet 11. § (10) bekezdése szerint módosított szöveg.
 [^25]: Az 5. § (4) bekezdés b) pontja a 349/2008. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^26]: Az 5. § (5) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^27]: Az 5. § (5a) bekezdését a 29/2010. (II. 17.) Korm. rendelet 1. §-a iktatta be.
+[^27]: Az 5. § (5a) bekezdését a 29/2010. (II. 17.) Korm. rendelet 1. §-a iktatta be, a 270/2010. (XII. 8.) Korm. rendelet 7. § (1) bekezdése hatályon kívül helyezte.
 [^28]: Az 5. § (7) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^29]: Az 5. § (7) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg. E módosító rendelet 11. § (3) bekezdése alapján a rendelkezés 2011. január 1-én lép hatályba.
 [^30]: Az 5. § (8) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^31]: Az 5. § (9) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 4. §-a iktatta be.
 [^32]: Az 5. § (10) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 4. §-a iktatta be.
 [^33]: Az 5. § (11) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 4. §-a iktatta be.
-[^34]: Az 5. § (12) bekezdését a 175/2010. (V. 13.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^34]: Az 5. § (12) bekezdését a 175/2010. (V. 13.) Korm. rendelet 8. § (3) bekezdése iktatta be, a 270/2010. (XII. 8.) Korm. rendelet 7. § (1) bekezdése hatályon kívül helyezte.
