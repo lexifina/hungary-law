@@ -1,9 +1,0 @@
-5. § A Törvény 4. §-a helyébe a következő rendelkezés lép:
-
-„4. § (1) A népszámlálás előkészítésének és végrehajtásának a szakmai felügyeletét, az internetes adatgyűjtés előkészítését és lebonyolítását, az összeírás technikai feltételeinek biztosítását (így különösen az adatfelvétel előkészítési és végrehajtási munkáiban részt vevők felkészítését, a szükséges nyomtatványok és elektronikus kérdőívek, számítástechnikai programok biztosítását), a helyi előkészítés és az összeírás szakmai felügyeletét, továbbá az adatok feldolgozását és közzétételét a Központi Statisztikai Hivatal végzi. A feldolgozott adatoknak az Európai Bizottság (Eurostat) számára történő továbbításáról a Központi Statisztikai Hivatal gondoskodik.
-
-(2) A népszámlálás helyi előkészítéséről és a település közigazgatási területén az adatfelvétel végrehajtásáról, ideértve az ehhez szükséges technikai feltételek biztosítását – az internetes adatgyűjtés előkészítése és lebonyolítása, valamint a (3) bekezdésben foglaltak kivételével –, a települési (a fővárosban a kerületi) önkormányzat jegyzője gondoskodik.
-
-(3) A Magyar Honvédség és a rendvédelmi szervek által fenntartott intézetek és a befogadó állomások, valamint az ezekben az intézetekben és a befogadó állomásokon élők vonatkozásában a népszámlálás helyi előkészítéséért és az adatfelvétel végrehajtásáért – a települési (a fővárosban a kerületi) önkormányzat jegyzőjével együttműködve – az intézet, befogadó állomás vezetője a felelős.
-
-(4) A begyűjtött adatok a feldolgozási folyamat lezárásáig a Magyar Köztársaság területét nem hagyhatják el.”
