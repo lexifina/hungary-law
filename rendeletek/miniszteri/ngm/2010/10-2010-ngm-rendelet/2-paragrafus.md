@@ -1,0 +1,5 @@
+## 2. § Az okmányiroda a magánszemély kérelmére mellőzi
+
+a) személyenként egy gépjármű, egy pótkocsi (a továbbiakban e § alkalmazásában együtt: gépjármű) tulajdonjoga vagy gépjárműre vonatkozó vagyoni értékű jog megszerzését terhelő visszterhes vagyonátruházási vagy ajándékozási illeték és a gépjármű tulajdonosának, vagyoni értékű jog jogosultjának személyében bekövetkezett változásnak megfelelő forgalmi engedély, törzskönyv kiállításáért járó eljárási illeték megállapítását, ha a gépjárműszerzésre olyan gépjármű vagy azon fennálló vagyoni értékű jog pótlása érdekében kerül sor, mely 2010. október 4-én Kolontár, Devecser és Somlóvásárhely települések valamelyikén az iszapömlés következtében olyan mértékben károsodott, hogy azt a gépjármű tulajdonosa vagy az azon fennálló vagyoni értékű jog jogosultja helyreállítani nem kívánja, és ezért annak forgalomból történő kivonását és bontását kezdeményezte.
+
+b) Kolontár, Devecser és Somlóvásárhely települések valamelyikén az iszapömlés következtében megrongálódott, illetve megsemmisült, okmányirodai hatáskörben kiállított okmányok pótlásának kezdeményezéséért fizetendő eljárási illeték megfizetésére történő felhívást.
