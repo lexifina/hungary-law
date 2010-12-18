@@ -1,4 +1,4 @@
-12. §[^51] (1) A Köztársasági Őrezred megelőző-védelmi tevékenysége körében végzett veszélyeztetettség-értékelés alapján a rendészetért felelős miniszter – a használóval egyetértésben – más létesítmény Köztársasági Őrezred által történő, ideiglenes jellegű őrzését és védelmét is elrendelheti a veszélyeztetettség fennállásának időtartamára.
+12. §[^55] (1) A Köztársasági Őrezred megelőző-védelmi tevékenysége körében végzett veszélyeztetettség-értékelés alapján a rendészetért felelős miniszter – a használóval egyetértésben – más létesítmény Köztársasági Őrezred által történő, ideiglenes jellegű őrzését és védelmét is elrendelheti a veszélyeztetettség fennállásának időtartamára.
 
 (2) Az (1) bekezdés szerinti őrzés és védelem a rendészetért felelős miniszter döntése szerint
 
@@ -12,4 +12,4 @@ terjed ki.
 
 (3) A veszélyeztetettség fennállását a Köztársasági Őrezred folyamatosan értékeli, és megszűnése esetén javaslatot tesz az (1) bekezdés szerinti őrzés és védelem megszüntetésére.
 
-[^51]: A 12. § a 63/2010. (III. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^55]: A 12. § a 63/2010. (III. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
