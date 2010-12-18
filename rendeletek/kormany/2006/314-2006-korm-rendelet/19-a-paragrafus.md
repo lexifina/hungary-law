@@ -1,3 +1,3 @@
-## 19. §[^105] A Kormány a Vám- és Pénzügyőrség hivatásos állományának egészségügyi, pszichikai és fizikai alkalmasságát vizsgáló és minősítő szervként a Vám- és Pénzügyőrség Szociális Egészségügyi és Kulturális Központját jelöli ki. A Vám- és Pénzügyőrség e vizsgálatokat külön megállapodás alapján az Állami Egészségügyi Központban vagy a Honvéd Egészségügyi Központban is végeztetheti.
+## 19. §[^105] A Kormány a Vám- és Pénzügyőrség hivatásos állományának egészségügyi, pszichikai és fizikai alkalmasságát vizsgáló és minősítő szervként a Vám- és Pénzügyőrség Szociális Egészségügyi és Kulturális Központját jelöli ki. A Vám- és Pénzügyőrség e vizsgálatokat külön megállapodás alapján a Honvédkórház–Állami Egészségügyi Központban vagy a Honvéd Egészségügyi Központban is végeztetheti.
 
-[^105]: A 19. § a 175/2007. (VI. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^105]: A 19. § a 175/2007. (VI. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 282/2010. (XII. 15.) Korm. rendelet 14. §-a szerint módosított szöveg.
