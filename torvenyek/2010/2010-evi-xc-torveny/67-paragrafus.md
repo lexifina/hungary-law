@@ -1,1 +1,1 @@
-67. § 2011. január 1-jén hatályát veszti az Áht. 100/A. § (2) bekezdésében a „vagy a (3) bekezdésben megjelölt dologi kiadások előirányzata terhére, ha a szellemi tevékenység ellátása a tervezettől eltérően a továbbiakban a létszám-előirányzat keretein belüli foglalkoztatással történik” szövegrész és a 100/A. § (3) bekezdése.
+67. §
