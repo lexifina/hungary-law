@@ -1,8 +1,8 @@
-## A HM ÁEK SAJÁT JOGÚ IGÉNYJOGOSULTJAI ÁLTAL A HM ÁEK-EN KÍVÜL BIZTOSÍTOTT EGÉSZSÉGÜGYI ELLÁTÁSOK IGÉNYBEVÉTELÉNEK SZABÁLYAI[^20]
+## A HONVÉDKÓRHÁZ SAJÁT JOGÚ IGÉNYJOGOSULTJAI ÁLTAL A HONVÉDKÓRHÁZON KÍVÜL BIZTOSÍTOTT EGÉSZSÉGÜGYI ELLÁTÁSOK IGÉNYBEVÉTELÉNEK SZABÁLYAI[^20]
 
 ## Alapellátás
 
-8. § (1)[^21] A HM ÁEK alapellátást nem nyújt. A saját jogú igényjogosult az alapellátást vezénylés, berendelés esetén az Ebtv.-ben meghatározottakon túl a szolgálatteljesítés helye szerinti finanszírozott háziorvosnál is igénybe veheti.
+8. § (1)[^21] A Honvédkórház alapellátást nem nyújt. A saját jogú igényjogosult az alapellátást vezénylés, berendelés esetén az Ebtv.-ben meghatározottakon túl a szolgálatteljesítés helye szerinti finanszírozott háziorvosnál is igénybe veheti.
 
 (2) Az (1) bekezdésen túlmenően az alapellátást
 
@@ -12,5 +12,5 @@ b) a rendvédelmi szervek személyi állománya a rendvédelmi szerv szolgálatt
 
 c) a vasutas állomány a területi ellátási kötelezettség nélküli vasúti háziorvosi rendelőben
 
-[^20]: A 8. §-t megelőző cím a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) és g) pontja szerint módosított szöveg.
-[^21]: A 8. § (1) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 8. §-t megelőző alcím a 282/2010. (XII. 15.) Korm. rendelet 18. § b) és g) pontja szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

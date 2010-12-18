@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-a)[^1] Honvédelmi Minisztérium Állami Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi Központ) (a továbbiakban: HM ÁEK): az Igazságügyi és Rendészeti Minisztérium (a továbbiakban: IRM) Központi Kórház és Intézményei, a Magyar Honvédség (a továbbiakban: MH) Verőcei Betegotthon, az MH Hévízi Mozgásszervi Rehabilitációs Intézet, az MH Balatonfüredi Kardiológiai Rehabilitációs Intézet, a MÁV Kórház és Központi Rendelőintézet (a külön jogszabályban meghatározott tevékenység kivételével), a Budai MÁV Kórház (a külön jogszabályban meghatározott tevékenység kivételével), továbbá az Országos Gyógyintézeti Központ és az MH Dr. Radó György Honvéd Egészségügyi Központ (a továbbiakban: HEK) fekvőbeteg-szakellátó és egyes járóbeteg- szakellátó elemeinek jogutódlással történő átvételével, az e rendeletben részletezett feladatköreik átvállalásával létrejövő, a honvédelemért felelős miniszter felügyelete alatt álló egészségügyi szolgáltató intézmény;
+a)[^1] Honvédkórház–Állami Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi Központ) (a továbbiakban: Honvédkórház): az Igazságügyi és Rendészeti Minisztérium (a továbbiakban: IRM) Központi Kórház és Intézményei, a Magyar Honvédség (a továbbiakban: MH) Verőcei Betegotthon, az MH Hévízi Mozgásszervi Rehabilitációs Intézet, az MH Balatonfüredi Kardiológiai Rehabilitációs Intézet, a MÁV Kórház és Központi Rendelőintézet (a külön jogszabályban meghatározott tevékenység kivételével), a Budai MÁV Kórház (a külön jogszabályban meghatározott tevékenység kivételével), továbbá az Országos Gyógyintézeti Központ és az MH Dr. Radó György Honvéd Egészségügyi Központ (a továbbiakban: HEK) fekvőbeteg-szakellátó és egyes járóbeteg- szakellátó elemeinek jogutódlással történő átvételével, az e rendeletben részletezett feladatköreik átvállalásával létrejövő, a honvédelemért felelős miniszter felügyelete alatt álló egészségügyi szolgáltató intézmény;
 
 b) az MH személyi állománya: a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 79. §-a szerinti állomány – kivéve a kiképzett és kiképzetlen potenciális hadköteleseket –, továbbá a katonai nemzetbiztonsági szolgálatok közalkalmazotti állománya;
 
@@ -42,5 +42,5 @@ o) saját jogú igényjogosult: a b)–d), valamint f) pontok szerinti személye
 
 p) hozzátartozói jogon igényjogosult: a saját jogú igényjogosult biztosított közeli hozzátartozója és biztosított családtagja.
 
-[^1]: Az 1. § a) pontja a 236/2009. (X. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a) pontja a 236/2009. (X. 20.) Korm. rendelet 1. §-ával megállapított, a 282/2010. (XII. 15.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § n) pontja a 63/2010. (III. 18.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.

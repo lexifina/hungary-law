@@ -1,6 +1,6 @@
-## A HM ÁEK SZOLGÁLTATÁSAIRA IGÉNYJOGOSULTAK ÉS JOGOSULTAK[^3]
+## A HONVÉDKÓRHÁZ SZOLGÁLTATÁSAIRA IGÉNYJOGOSULTAK ÉS JOGOSULTAK[^3]
 
-2. § (1)[^4] A HM ÁEK egészségügyi szolgáltatásaira igényjogosult:
+2. § (1)[^4] A Honvédkórház egészségügyi szolgáltatásaira igényjogosult:
 
 a) az MH személyi állománya és biztosított közeli hozzátartozója, a személyi állományból nyugállományba helyezett és biztosított családtagja, a HM oktatási intézményeibe jelentkező a felvételi alkalmassági vizsgálat tekintetében, a honvédelmi ösztöndíjas hallgató és családi segélyre jogosult biztosított közeli hozzátartozója a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 41/G. §-a szerinti esetben, valamint a tényleges katonai szolgálatot teljesítő önkéntes tartalékos;
 
@@ -14,10 +14,10 @@ e) azok a természetes személyek, akik részére a honvédelemért felelős min
 
 f) a honvédelemért, a rendvédelemért, illetve a vasúti közlekedésért felelős miniszterek által többségi tulajdonosi jogok alapján irányított gazdasági társaság munkaviszonyban álló alkalmazottai, nyugdíjasai és az alkalmazottak családtagjai.
 
-(2)[^7] A HM ÁEK egészségügyi szolgáltatásaira jogosult továbbá az, akik tekintetében a HM ÁEK területi ellátásra kötelezett.
+(2)[^7] A Honvédkórház egészségügyi szolgáltatásaira jogosult továbbá az, akik tekintetében a Honvédkórház területi ellátásra kötelezett.
 
-[^3]: A 2. §-t megelőző cím a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés bevezető szövegrésze a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. §-t megelőző alcím a 282/2010. (XII. 15.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés nyitó szövegrésze a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdésének b) pontja a Magyar Közlöny 2007. évi 96. számában megjelent helyesbítésnek megfelelő szöveg.
 [^6]: A 2. § (1) bekezdés d) pontja a 264/2009. (XI. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^7]: A 2. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a)–b) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
