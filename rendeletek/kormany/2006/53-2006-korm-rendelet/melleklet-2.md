@@ -66,31 +66,33 @@
 
 ## Mestertanár elnevezésű munkakörbe lehet átsorolni azt a mesterfokozattal rendelkező adjunktus oktatói munkakörben foglalkoztatott közalkalmazottat, aki a felsőoktatási intézmény által folytatott alapképzésben, szakmai-elméleti és gyakorlati oktatásban vesz részt, és megfelel az intézmény foglalkoztatási követelményrendszerében előírt sajátos mestertanári követelményeknek.
 
-2. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^35]
+2. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^38]
 
-A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezése, fizetési osztályokba sorolása
+A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezése,
 
-és a vezetői pótlék mértéke
+fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
-| Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék min. %-a37 |
+| Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék min. %-a |
 
-| A | B | C | D | E | F | G | H | I | J |
+|  | A | B | C | D | E | F | G | H | I | J |
 
 | vezetői munkakörök: |
 
 | pályáztatásra kötelezett: |
 
-| a) magasabb vezető beosztás: |
+| a) magasabb vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
 
 | rektor (oktatói besorolás szerint) |  |  |  |  |  |  |  |  |  |  | 300 |
 
-| könyvtárigazgató |  |  |  |  |  |  |  | * | * | * |  |
+| rektorhelyettes (oktatói besorolás szerint) |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| b) vezető beosztás: |
+| dékán (oktatói besorolás szerint) |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| főigazgató |  |  |  |  |  |  | * | * | * |  |  |
+| főtitkár |  |  |  |  |  |  |  | * | * | * |  |
 
-| főigazgató-helyettes |  |  |  |  |  |  | * | * | * |  |  |
+| gazdasági igazgató |  |  |  |  |  | * | * | * | * | * |  |
+
+| b) vezető beosztás: |
 
 | igazgató (oktatói besorolás szerint) |  |  |  |  |  |  |  |  |  |  | 150 |
 
@@ -102,17 +104,21 @@ A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezé
 
 | oktatási szervezeti egység vezető helyettes |  |  |  |  |  |  |  |  |  |  | 100 |
 
-| intézetvezető (tudományos intézetnél) |  |  |  |  |  |  |  | * | * | * |  |
+| igazgató (kinevezett, szervezeti egység vezetője) |  |  |  |  |  |  |  | * | * | * |  |
 
-| könyvtárigazgató-helyettes |  |  |  |  |  |  |  | * | * | * |  |
+| Igazgató-helyettes (szervezeti egység vezető helyettese) |  |  |  |  |  |  | * | * | * |  |  |
+
+| gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+
+| intézetvezető (tudományos intézetnél) |  |  |  |  |  |  |  | * | * | * |  |
 
 | hivatalvezető (dékáni, főigazgatói, rektori) |  |  |  |  |  | * | * | * | * |  |  |
 
-| hivatalvezető-helyettes |  |  |  |  |  | * | * | * | * |  |  |
+| osztályvezető (kinevezett, szervezeti egység vezetője) |  |  |  |  |  | * | * | * | * | * |  |
+
+| osztályvezető-helyettes  (szervezeti egység vezető helyettese) |  |  |  |  |  | * | * | * | * |  |  |
 
 | irodavezető |  |  |  |  |  | * | * | * |  |  |  |
-
-| irodavezető-helyettes |  |  |  |  |  | * | * | * |  |  |  |
 
 | felsőoktatási munkakörök: |
 
@@ -122,21 +128,29 @@ A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezé
 
 | szakcsoportvezető |  |  |  |  |  |  | * | * | * | * |  |
 
-| b) szakalkalmazott |
+| alosztályvezető |  |  |  |  | * | * | * | * | * |  |  |
+
+| csoportvezető |  |  |  |  | * | * | * | * |  |  |  |
+
+| központvezető |  |  |  |  | * | * | * | * |  |  |  |
+
+| részlegvezető |  |  |  |  | * | * | * | * |  |  |  |
+
+| b) szakalkalmazott |  |  |  |  |  |  |  |  |  |  |  |
 
 | nyelvtanár |  |  |  |  |  | * | * | * | * | * |  |
 
-| tanár |  |  |  |  |  | * | * | * |  |  |  |
-
 | testnevelő tanár |  |  |  |  |  | * | * | * | * |  |  |
 
-| pszichológus |  |  |  |  |  |  |  | * | * | * |  |
+| belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |
 
-| könyvtáros |  |  |  |  |  | * | * |  |  |  |  |
+| jogász |  |  |  |  |  | * | * | * | * | * |  |
 
-| jogász |  |  |  |  |  |  |  | * | * | * |  |
+| mérnök |  |  |  |  |  |  |  | * | * | * |  |
 
-| főelőadó |  |  |  |  | * | * | * |  |  |  |  |
+| üzemeltető mérnök |  |  |  |  |  | * | * | * | * | * |  |
+
+| főelőadó |  |  |  |  | * | * | * | * | * | * |  |
 
 | pályáztatás alól mentesített: |
 
@@ -144,36 +158,34 @@ A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezé
 
 | gyakorlati oktató |  |  |  | * | * | * | * |  |  |  |  |
 
-| (fő-) technikus, |  |  |  | * | * | * |  |  |  |  |  |
+| szervező |  |  |  | * | * | * | * |  |  |  |  |
+
+| (fő-) technikus |  |  |  | * | * | * |  |  |  |  |  |
 
 | informatikus |  |  |  | * | * | * |  |  |  |  |  |
 
 | előadó |  |  |  | * | * | * |  |  |  |  |  |
 
-| kabinetkezelő |  |  | * | * | * |  |  |  |  |  |  |
+| fotós |  | * | * | * |  |  |  |  |  |  |  |
 
-| szakmunkás |  |  | * | * | * |  |  |  |  |  |  |
+| szakmunkás |  | * | * | * | * |  |  |  |  |  |  |
 
-| adminisztrátor |  |  |  | * | * | * |  |  |  |  |  |
+| alosztályvezető |  |  |  |  | * | * | * | * | * |  |  |
 
-| adatrögzítő |  |  |  | * | * | * |  |  |  |  |  |
+| gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| gépíró |  |  | * | * | * |  |  |  |  |  |  |
+| lőtérvezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| nyilvántartó |  |  | * | * | * |  |  |  |  |  |  |
+| forgalmi alkalmazott | * | * | * | * |  |  |  |  |  |  |  |
 
-| raktárvezető, raktáros |  |  | * | * | * |  |  |  |  |  |  |
+| raktárvezető, raktárvezető- helyettes |  |  | * | * | * |  |  |  |  |  |  |
+
+| raktáros |  | * | * |  |  |  |  |  |  |  |  |
 
 | pénztáros |  |  |  | * | * | * |  |  |  |  |  |
 
-| ügykezelő, vezető ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
+| ügykezelő, vezető ügykezelő |  | * | * | * | * |  |  |  |  |  |  |
 
 | gondnok | * | * | * |  |  |  |  |  |  |  |  |
 
-| takarító | * | * | * |  |  |  |  |  |  |  |  |
-
-| szállító, rakodómunkás | * | * | * |  |  |  |  |  |  |  |  |
-
-37 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
-
-[^35]: A 2. számú mellékletet a 355/2008. (XII. 31.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva.
+[^38]: A 2. számú mellékletet a 355/2008. (XII. 31.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva. A 2. számú melléklet a 282/2010. (XII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
