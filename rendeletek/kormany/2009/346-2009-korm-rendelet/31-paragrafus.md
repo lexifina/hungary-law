@@ -4,6 +4,6 @@
 
 31. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2) Hatályát veszti a honvédelmi szervek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 226/2004. (VII. 27.) Korm. rendelet 1–10. §-a és 12–13. §-a.
+(2)–(3)[^11]
 
-(3) A honvédelmi szervek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 226/2004. (VII. 27.) Korm. rendelet 11. § (5) bekezdésében az „az 5. § (4) bekezdésében meghatározott honvédelmi szervnek” szövegrész helyébe az „a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt szervezetnek” szöveg lép.
+[^11]: A 31. § (2)–(3) bekezdését a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.

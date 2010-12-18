@@ -1,1 +1,3 @@
-## 28. § A HM költségvetési fejezetnél azon előző évi előirányzat-maradványok, melyek – a központi gazdálkodás és ellátásból adódóan – a keletkezési helyüktől eltérő költségvetési címen, alcímen, illetve honvédelmi szervezetnél kerülnek jóváhagyásra, ott számolhatók el teljesített bevételként és kiadásként, ahol az előirányzat-maradvány ténylegesen felhasználásra kerül.
+## 28/A. §[^10] Az Áht. 100/B. § (1) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában a honvédelmi szervezetek többletbevétele az elemi költségvetésben megtervezett eredeti előirányzat az Ámr. 59/A. § (1) bekezdése szerinti bevételekkel, valamint a HM fejezet visszatérüléseiből és inkurrencia értékesítéséből befolyó központosított bevételekkel csökkentett összegén felül pénzügyileg teljesült összeg.
+
+[^10]: A 28/A. §-t a 282/2010. (XII. 15.) Korm. rendelet 5. §-a iktatta be.

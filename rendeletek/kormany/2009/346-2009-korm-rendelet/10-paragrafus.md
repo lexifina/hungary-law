@@ -1,5 +1,11 @@
-10. § (1) Az állami költségvetés összeállításának 9. § a) pontja szerinti szakaszában más honvédelmi szervezet nem vesz részt, intézményi költségvetési javaslatot, előzetes megvalósítási és teljesítménytervet nem készít.
+## 10. §[^5] A Magyar Köztársaság költségvetésének elfogadását követően a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet:
 
-(2) A HM költségvetési fejezet véglegesített költségvetési javaslatának az államháztartásért felelős miniszter részére történő megküldését követően, a miniszter által kiadott költségvetési tervezési keretszámoknak és meghatározott eljárási rendnek megfelelően, a honvédelmi szervezetek által összeállított éves költségvetési tervek az Ámr. 32. § (8) bekezdésében meghatározott határidőig véglegesítésre kerülnek.
+a) összeállítja a HM költségvetési fejezet a költségvetési törvény szerkezeti rendjének megfelelő részletezettségű kincstári költségvetését és az Ámr.-ben meghatározott határideig megküldi a Kincstár részére;
 
-(3) A 2. § (4) bekezdés h) pontja szerinti, a nemzetközi feladatokhoz kapcsolódó éves költségvetési tervek létszámadatokat nem tartalmazó megvalósítási tervvel kerülnek véglegesítésre a (2) bekezdés szerinti határidőig.
+b) összeállítja a honvédelmi szervezetek intézményi költségvetési tervének, valamint az egyes tárcaszintű és nemzetközi költségvetési tervek (a továbbiakban együtt: intézményi költségvetési terv) elkészítéséhez szükséges előirányzat-keretekre vonatkozó javaslatát, valamint az intézményi költségvetési tervjavaslatok elkészítésére vonatkozó HM utasítás-tervezetet és azokat a miniszter által történő jóváhagyást követően kiadja a honvédelmi szervezetek részére;
+
+c) felülvizsgálja az intézményi költségvetési tervjavaslatokat és azokat cím, alcím, valamint a b) pont szerinti HM utasításban meghatározott részletezettséggel jóváhagyásra felterjeszti;
+
+d) a költségvetési törvény szerkezeti rendjének megfelelően összeállítja a HM költségvetési fejezet elemi költségvetését és azt az Ámr.-ben meghatározott határideig a Kincstár részére megküldi.
+
+[^5]: A 10. § a 282/2010. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.

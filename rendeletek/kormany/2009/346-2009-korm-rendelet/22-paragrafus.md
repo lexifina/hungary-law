@@ -1,1 +1,0 @@
-## 21. § Az MH kijelölt katonai szervezetei közhatalmi tevékenységükön túl a szakorvosi és a fogorvosi járóbeteg-ellátás szakágazatokba tartozó egészségügyi és a szakmai középfokú oktatás szakágazatba tartozó közszolgáltatást is végezhetnek.

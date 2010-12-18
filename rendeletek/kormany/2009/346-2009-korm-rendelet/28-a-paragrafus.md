@@ -1,0 +1,1 @@
+## 28. § A HM költségvetési fejezetnél azon előző évi előirányzat-maradványok, melyek – a központi gazdálkodás és ellátásból adódóan – a keletkezési helyüktől eltérő költségvetési címen, alcímen, illetve honvédelmi szervezetnél kerülnek jóváhagyásra, ott számolhatók el teljesített bevételként és kiadásként, ahol az előirányzat-maradvány ténylegesen felhasználásra kerül.
