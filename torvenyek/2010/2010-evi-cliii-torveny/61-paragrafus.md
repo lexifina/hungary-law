@@ -1,0 +1,23 @@
+## A közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény módosítása
+
+61. § A közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 164. §-a a következő szöveggel lép hatályba:
+
+„164. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 36. §-ának (7) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (8)–(9) bekezdéssel egészül ki:
+
+„(7) A gyógyszer forgalomba hozatali engedélyének jogosultja legfeljebb a 36. § (1) és (4) bekezdései szerinti befizetési kötelezettségének 100%-a mértékéig kaphat juttatást a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti saját éves beszámolójában, valamint a konszolidációba bevont érintett vállalkozása Szt. szerinti éves beszámolójában kimutatott, egészségügyi ágazatot érintő kutatási és fejlesztési ráfordítások – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 31. §-a (2) bekezdésének c) pontjában foglaltakkal összhangban lévő – összege után, a (9) bekezdésben előírtak figyelembevételével, amennyiben e ráfordítások meghaladják a forgalomba hozatali engedély jogosultja által forgalmazott támogatott gyógyszerek után kifizetett társadalombiztosítási támogatás termelői (import beszerzési) árral arányos része 20%-át, és e törvény szerinti valamennyi fizetési kötelezettségének eleget tett. A forgalomba hozatali engedély jogosultja és az Szt. szerinti, konszolidációba bevont érintett vállalkozások jogszabályban meghatározott kutatási és fejlesztési ráfordításait együttesen kell figyelembe venni oly módon, hogy ugyanazon ráfordítás összege csak egyszer kerüljön figyelembevételre a juttatás igénybevételekor. A konszolidációba bevont érintett vállalkozások kutatási és fejlesztési tevékenységhez egymásnak nyújtott szolgáltatásaival összefüggésben felmerült kutatási és fejlesztési ráfordítások juttatásként csak az egyik félnél érvényesíthetők.
+
+(8) A juttatás összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell
+
+a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra kerülő gyógyszerekről és egyéb gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 8. pontja szerinti beavatkozással nem járó vizsgálat költségével,
+
+b) a kutatás és fejlesztés céljára a mérlegkészítés napjáig az adóhatóságtól, illetve az államháztartás alrendszereinek más szervétől, vagy az Európai Unió különböző pénzügyi alapjaiból igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás bevételként elszámolt összegével,
+
+c) a Tao. tv. 22. §-ának (9) bekezdése szerint az adóévben az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között elszámolt bérköltség alapján igénybevett adókedvezmény összegével,
+
+d) a Tao. tv. szerinti külföldi telephelynél felmerült (elszámolt) kutatási és fejlesztési költségekkel, amennyiben
+
+da) a telephely olyan államban van, amely nem tagja az Európai Uniónak, Gazdasági Együttműködési és Fejlesztési Szervezetnek (a továbbiakban: OECD), nem részese az Európa Gazdasági Térségről szóló Megállapodásnak, vagy amellyel Magyarország nem kötött a kettős adóztatás elkerüléséről szóló egyezményt, vagy
+
+db) a telephely olyan államban van, amely tagja az Európai Uniónak, az OECD-nek, részese az Európa Gazdasági Térségről szóló Megállapodásnak, vagy amellyel Magyarországnak van a kettős adóztatás elkerüléséről szóló egyezménye és a forgalomba hozatali engedély jogosultját a telephely szerinti állam szabályai szerint is terheli a közfinanszírozásban részesülő gyógyszerek és tápszerek után kifizetett társadalombiztosítási támogatás alapján arányosan meghatározott, illetve az ismertetési tevékenységet végző magánszemélyek száma alapján meghatározott fizetési kötelezettség, és e kutatási és fejlesztési ráfordításokat a telephely szerinti államban már figyelembe vették kötelezettségcsökkentő tételként vagy e kutatási és fejlesztési ráfordításokat az adott államban engedményként bármilyen adó alapjánál már figyelembe vették, vagy egyéb adókedvezményként már érvényesítették.
+
+(9) A juttatás nem érinti az államnak a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 3. § (2) bekezdése szerinti kötelezettségét. A 36. § (7)–(8) bekezdés szerinti juttatás az E. Alap terhére nem vehető igénybe.””

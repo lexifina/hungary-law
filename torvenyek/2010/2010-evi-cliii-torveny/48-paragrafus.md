@@ -1,0 +1,1 @@
+48. § A települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény melléklete a Győr-Moson-Sopron megyéhez tartozó Mosonmagyaróvári kistérség részben a „Mosonszolnok” szövegrészt követően a „Mosonudvar”, a Zala megyéhez tartozó Zalaszentgróti kistérség részben a „Szalapa” szövegrészt követően a „Tekenye” szöveggel egészül ki.
