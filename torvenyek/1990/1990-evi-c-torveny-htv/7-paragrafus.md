@@ -6,7 +6,7 @@ b) a vagyoni típusú adók körében az adót egységesen – tételes összegb
 
 c) az általa bevezetett adó mértékeként nem állapíthat meg többet az adómaximumnál,
 
-d) a kerületi önkormányzat a fővárosi közgyűlés által bevezetett adót annak hatályon kívül helyezése időpontjáig, a fővárosi közgyűlés az általa az 1. § (3) bekezdés alapján bevezetett adót a kerületi képviselő-testületek többségi véleményének beszerzéséig nem működtetheti,
+d) ha a helyi adót az 1. § (3) bekezdése alapján a fővárosi önkormányzat vezeti be, akkor az a kerületi önkormányzat, amely az adó fővárosi önkormányzat általi bevezetésébe beleegyezett, az adót az adóévben nem működtetheti,
 
 e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó, továbbá a vállalkozók kommunális adója és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A vállalkozók kommunális adója és a helyi iparűzési adó esetén adónemenként egy adómérték alkalmazható. A vállalkozó üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó alapjának alapterület szerinti megállapítása esetén kizárólag az adótárgy fajtája, illetőleg a településen belüli földrajzi elhelyezkedése alapján állapítható meg differenciált adómérték,
 

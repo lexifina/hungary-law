@@ -10,4 +10,4 @@
 
 (2) A főváros esetében az építményadót, a telekadót, a magánszemély kommunális adóját, valamint a vállalkozók kommunális adóját és az idegenforgalmi adót a (3) bekezdés kivételével a kerületi önkormányzat, a helyi iparűzési adót a fővárosi önkormányzat jogosult bevezetni.
 
-(3) A kerületi önkormányzat által a (2) bekezdés szerint bevezethető helyi adót a kerületi önkormányzat helyett a fővárosi önkormányzat akkor jogosult rendeletével bevezetni, ha a fővárosi rendelettel a kerületi képviselő-testületek többsége egyetért.
+(3) A kerületi önkormányzat által a (2) bekezdés szerint bevezethető helyi adót a kerületi önkormányzat helyett a fővárosi önkormányzat akkor jogosult rendeletével bevezetni, ha ahhoz minden adóév tekintetében az érintett kerületi önkormányzat képviselőtestülete előzetes beleegyezését adja.
