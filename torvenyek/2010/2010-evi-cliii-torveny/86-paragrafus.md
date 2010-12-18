@@ -8,14 +8,6 @@
 
 (5) E törvény 84. §-a 2011. december 31-én hatályát veszti.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2010. évi CLIII. törvényhez
 
 Az Art. 3. számú melléklet F) pontja helyébe a következő rendelkezés lép:
