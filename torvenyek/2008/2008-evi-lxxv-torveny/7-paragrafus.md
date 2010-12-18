@@ -1,27 +1,19 @@
 ## A KÖLTSÉGVETÉSI TANÁCS
 
-## A Költségvetési Tanács feladatai és hatásköre
+## A Költségvetési Tanács feladatai
 
-7. § (1) A Költségvetési Tanács az Országgyűlés törvényhozási tevékenységét támogató háromtagú testület, amely tevékenysége során nem utasítható, csak a törvényeknek van alárendelve.
+7. § (1) A Költségvetési Tanács az Országgyűlés törvényhozási tevékenységét támogató háromtagú testület.
 
-(2) A Költségvetési Tanács
+(2) A Költségvetési Tanács véleményt nyilvánít az Országgyűlésnek benyújtani tervezett költségvetési törvény tervezetéről.
 
-a) makrogazdasági előrejelzéseket készít;
+(3) A Kormány a költségvetési törvény tervezetét a (2) bekezdés szerinti véleménynyilvánítás céljából megküldi a Költségvetési Tanácsnak, amely a tervezet kézhezvételét követő 10 napon belül a tervezetre vonatkozó véleményét megküldi a Kormány részére.
 
-b) a költségvetési adatokra vonatkozóan technikai kivetítést készít;
+(4) A Költségvetési Tanács a (3) bekezdés szerinti véleményében a tervezetre észrevételeket tehet, valamint – ha a tervezettel kapcsolatban annak hitelességére vagy végrehajthatóságára vonatkozóan alapvető ellenvetései vannak – a tervezettel való egyet nem értését jelzi.
 
-c) a költségvetési tervezéssel, előrejelzéssel és hatásvizsgálattal kapcsolatos módszertani ajánlásokat készít;
+(5) A Kormány a költségvetési törvényjavaslatot a Költségvetési Tanács véleményének kézhezvételét vagy – költségvetési tanácsi vélemény hiányában – a (3) bekezdés szerinti határidő eredménytelen elteltét követően nyújthatja be az Országgyűlés elé.
 
-d) becslést készít mind a benyújtást követően, mind a zárószavazást megelőzően a költségvetési és pótköltségvetési törvényjavaslatok, valamint minden olyan, az Országgyűlés által tárgyalt törvényjavaslat költségvetési hatására vonatkozóan, amely külső tételek alakulására befolyással lehet;
+(6) Ha a Költségvetési Tanács a tervezettel kapcsolatban a (3) bekezdés szerinti határidőig egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és ismételt véleményezésre megküldi a Költségvetési Tanácsnak. A Költségvetési Tanács az ismételten megküldött tervezetre vonatkozó véleményét a tervezet kézhezvételét követő 5 napon belül megküldi a Kormány részére.
 
-e) becslést készíthet az Országgyűlés által tárgyalt, a d) pontban megjelölteken kívüli törvényjavaslatok, továbbá azon módosító, kapcsolódó módosító és zárószavazás előtti módosító javaslatok költségvetési hatására vonatkozóan, amelyekről a Házszabály szerint az Országgyűlésnek határoznia kell;
+(7) A Kormány a költségvetési törvényjavaslatot a (6) bekezdés szerinti eljárás esetén a Költségvetési Tanács újabb véleményének kézhezvételét vagy – költségvetési tanácsi vélemény hiányában – a (6) bekezdés szerinti határidő eredménytelen elteltét követően nyújthatja be az Országgyűlés elé.
 
-f) megkeresésükre a feladatkörébe tartozó kérdésekről tájékoztatja a köztársasági elnököt, az országgyűlési biztosokat, az Állami Számvevőszék elnökét, a Magyar Nemzeti Bank elnökét és az Országgyűlés bizottságait;
-
-g) tájékoztathatja az Országgyűlés költségvetési ügyekben feladatkörrel rendelkező bizottságát vagy a Kormányt a költségvetési fegyelem megtartását és az államháztartás átláthatóságát célzó jogszabály-alkotási javaslatairól;
-
-h) véleményezi a költségvetési elszámolási és számviteli tárgyú jogszabályok tervezeteit.
-
-(3) A Költségvetési Tanács által készített előrejelzéseket, becsléseket és ajánlásokat a Költségvetési Tanács honlapján közzé kell tenni.
-
-(4) A Költségvetési Tanács tevékenységéről és a feladatkörét érintő tapasztalatokról évente beszámol az Országgyűlésnek.
+(8) A Költségvetési Tanács véleményét – ha a (6) bekezdés szerint ismételt véleményezésre került sor, az ismételten megküldött tervezetre vonatkozó véleményt – az Országgyűlés honlapján a költségvetési törvényjavaslat benyújtását követően haladéktalanul közzé kell tenni.
