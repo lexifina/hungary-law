@@ -1,6 +1,6 @@
 71. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) az állami vagyon és az ahhoz kapcsolódó bevételek és kiadások, az állami vagyonon végzett értéknövelő beruházások nyilvántartásának, valamint a vagyonnal való elszámolásnak a szabályait, az MNV Zrt. könyvvezetésének és beszámoló készítésének sajátosságait,
+a) az állami vagyon és az ahhoz kapcsolódó bevételek és kiadások, az állami vagyonon végzett értéknövelő beruházások nyilvántartásának, valamint a vagyonnal való elszámolásnak a szabályait, a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek könyvvezetésének és beszámoló készítésének sajátosságait,
 
 b) az állami vagyonról vezetett nyilvántartás, és az állami vagyont használó személyek ezzel összefüggő adatszolgáltatási kötelezettségének szabályait,
 
