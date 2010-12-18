@@ -6,23 +6,15 @@
 
 ## Igazolás a szálláshely-üzemeltetési engedélyről
 
-## A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló a 239/2009. (X. 20.) Korm. rendelet alapján
+## A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet alapján ........................................................... .............................................................. szálláshely-szolgáltató részére ........................................ helységben ......... irányítószám ....................................................................... utca (tér, út) .......... szám alatt ................................................... típusú szálláshely üzemeltetését .................................................................................. elnevezéssel engedélyeztem.
 
-## szálláshely-szolgáltató részére ....................... helységben
+## A szálláshely-szolgáltató székhelye: ..................................................... település neve, ........... irányítószám ................. kerület ....................................... utca (tér, út) ............... szám.
 
-## ......... irányítószám .......................... utca (tér, út).......... szám alatt ................................................... típusú szálláshely üzemeltetését .................................................................................. elnevezéssel engedélyeztem.
-
-## A szálláshely-szolgáltató székhelye:   település neve, ........... irányítószám ................. kerület
-
-## ....................................... utca (tér, út)............... szám.
-
-## A szálláshely-szolgáltató azonosító száma/cégjegyzékszáma/vállalkozói nyilvántartási száma:
-
-## A szálláshely-szolgáltató adószáma:
+## A szálláshely-szolgáltató adóazonosító száma:
 
 ## A szálláshely-szolgáltató statisztikai számjele:
 
-## Kelt: ................................., ...... év ............... hónap ...... nap.
+## Kelt: ................................., ...... év ............... hónap ...... nap.
 
 ## P. H.
 

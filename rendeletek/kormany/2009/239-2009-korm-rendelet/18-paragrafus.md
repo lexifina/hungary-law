@@ -2,8 +2,11 @@
 
 (2) Az e rendelet hatálybalépésekor a magánszálláshelyek idegenforgalmi célú hasznosításáról szóló 110/1997. (VI. 25.) Korm. rendelet [a továbbiakban: 110/1997. (VI. 25.) Korm. rendelet] – az e rendelet hatálybalépését megelőző napon hatályos – 2. §-a szerinti nyilvántartásba (a továbbiakban: magánszálláshely-nyilvántartás) vett szálláshely-szolgáltató által üzemeltetett szálláshelyek a 3. melléklet II. pontjában meghatározott megfelelési szabályok szerint az e rendelet szerinti szálláshely-üzemeltetési engedéllyel rendelkező szálláshelynek minősülnek azzal, hogy a szálláshely-üzemeltetési engedély jogosultjának a magánszálláshely-nyilvántartásban szereplő szállásadót kell tekinteni.
 
-(3) Az e rendeletben foglalt, az (1) bekezdés szerinti szálláshelyek tekintetében a kereskedelmi és a fizetővendéglátó szálláshelyek osztályba sorolásáról, valamint a falusi szálláshelyek minősítéséről szóló 45/1998. (VI. 24.) IKIM rendelet [a továbbiakban: 45/1998. (VI. 24.) IKIM rendelet], a (2) bekezdés szerinti szálláshelyek tekintetében a 110/1997. (VI. 25.) Korm. rendelet – az e rendelet hatálybalépését megelőző napon hatályos – rendelkezéseiben előírtnál szigorúbb követelményeket 2009. december 31-ig kell teljesíteni.
+(3)[^7]
 
 (4) Ha az (1) és a (2) bekezdés hatálya alá tartozó szálláshely tekintetében a 13. §-ban előírt adatokban változás következik be, a szálláshely-szolgáltató köteles az adatváltozást haladéktalanul bejelenteni a jegyzőnek. A jegyző az adatváltozás tekintetében a 13. § szerint jár el.
 
-(5) Az e rendelet hatálybalépését megelőzően a 133/2007. (VI. 13.) Korm. rendelet – az e rendelet hatálybalépését megelőző napon hatályos – 2. melléklete 4. pontjában felsorolt üzletkörökre engedélyezett üzletekről vezetett nyilvántartás, valamint a 110/1997. (VI. 25.) Korm. rendelet szerinti hatósági nyilvántartásnak az egyéni vállalkozó szállásadókra vonatkozó adatait 2009. december 31-ig kell átvezetni az e rendelet szerinti nyilvántartásba.
+(5)[^8]
+
+[^7]: A 18. § (3) bekezdését a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^8]: A 18. § (5) bekezdését a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
