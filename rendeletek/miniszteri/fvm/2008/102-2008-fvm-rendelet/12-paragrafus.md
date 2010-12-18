@@ -2,6 +2,6 @@
 
 12. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2) Az 1–9. § 2010. december 31-én hatályát veszti.
+(2)–(3)[^26]
 
-(3) Ez a rendelet 2016. május 31-én hatályát veszti.
+[^26]: A 12. § (2)–(3) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
