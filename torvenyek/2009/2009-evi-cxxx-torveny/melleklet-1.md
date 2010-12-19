@@ -6346,7 +6346,7 @@ Költségvetés általános tartaléka
 
 |
 
-92 504,7
+153 504,7
 
 |
 
@@ -6394,7 +6394,7 @@ X. fejezet összesen:
 
 |
 
-345 277,6
+406 277,6
 
 |
 
@@ -53338,6 +53338,34 @@ Energiaellátók jövedelemadója
 
 |
 
+|
+
+12
+
+|
+
+Egyes ágazatokat terhelő különadó
+
+|
+
+|
+
+|
+
+1
+
+|
+
+Távközlési ágazati különadó
+
+|
+
+|
+
+61 000,0
+
+|
+
 2
 
 |
@@ -53688,7 +53716,7 @@ XLII. fejezet összesen:
 
 |
 
-6 413 498,7
+6 474 498,7
 
 |
 
@@ -57946,7 +57974,7 @@ KIADÁSI FŐÖSSZEG
 
 |
 
-13 568 030,4
+13 629 030,4
 
 |
 
@@ -57956,7 +57984,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-12 703 719,3
+12 764 719,3
 
 |
 
