@@ -94,6 +94,6 @@ h) 14. cím Települési és területi kisebbségi önkormányzatok támogatása
 
 (2) Az előirányzatonkénti részletes eljárási és hatásköri szabályokat a 9. számú melléklet határozza meg.
 
-(3)[^1] Az (1) bekezdés a) pontja szerinti „9/2/07 Nemzeti és kiemelt ünnepek, egyéb rendezvények, események támogatása” célelőirányzat felhasználása során a nemzeti rendezvények szervezését, valamint a műszaki, művészeti, logisztikai és biztosítási feladatok előkészítését és lebonyolítását a Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft. látja el.
+(3)[^2] Az (1) bekezdés szerinti fejezeti kezelésű előirányzatok felhasználása során a nemzeti és kiemelt ünnepek (nemzeti rendezvények), az Európai Unió 2011-es magyar elnökségével kapcsolatos rendezvények, valamint a Közigazgatási és Igazságügyi Minisztérium feladat- és hatáskörébe tartozó egyéb rendezvények szervezését, illetve az ezekhez kapcsolódó műszaki, művészeti, logisztikai és biztosítási feladatok előkészítését és lebonyolítását a Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft. látja el.
 
-[^1]: A 3. § (3) bekezdését a 10/2010. (X. 15.) KIM rendelet 1. §-a iktatta be.
+[^2]: A 3. § (3) bekezdését a 10/2010. (X. 15.) KIM rendelet 1. §-a iktatta be, szövege a 18/2010. (XII. 20.) KIM rendelet 1. §-ával megállapított szöveg.

@@ -308,7 +308,7 @@ szakmai teljesítésigazoló:
 
 – a kisebbség- és nemzetpolitikáért felelős szakállamtitkár
 
-9/3/10 Egyéb civil és nonprofit szervezetek támogatása[^3]
+9/3/10 Egyéb civil és nonprofit szervezetek támogatása[^4]
 
 Az előirányzat célja olyan szervezetek működésének segítése, amelyek különféle eszközökkel próbálnak választ adni a magyar társadalmat, illetve a demokratikus berendezkedést érő kihívásokra. Az egyedi támogatások célja a civil társadalom erősítése. A támogatott szervezetek akár tudományos tevékenységet, akár közösségi fejlesztő munkát is végezhetnek.
 
@@ -590,4 +590,4 @@ kötelezettségvállaló:
 
 – kisebbségpolitikáért felelős miniszter
 
-[^3]: A 9. számú melléklet b) pont 9/3/10 alcíme a 10/2010. (IV. 30.) MeHVM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 9. számú melléklet b) pont 9/3/10 alcíme a 10/2010. (IV. 30.) MeHVM rendelet 1. §-a szerint módosított szöveg.
