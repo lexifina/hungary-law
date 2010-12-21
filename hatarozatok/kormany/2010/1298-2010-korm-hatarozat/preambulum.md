@@ -1,0 +1,1 @@
+A Kormány – annak érdekében, hogy az uniós források adta lehetőségekkel élve új pályázatok elindításával, az operatív programokon belül a források átstrukturálásával a támogatási rendszert összhangba hozza a gazdasági akcióterv és az Új Széchenyi Terv céljaival – elrendeli
