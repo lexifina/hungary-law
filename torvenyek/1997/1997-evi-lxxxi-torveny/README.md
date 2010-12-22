@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-81-00-00.39 |
 | 2010-09-23 | 170/2010. (IX. 23.) AB határozat | 1997-81-00-00.40 |
 | 2010-10-03 | 2010. évi XCII. törvény | 1997-81-00-00.41 |
+| 2010-12-22 | 2010. évi CLIV. törvény | 1997-81-00-00.42 |

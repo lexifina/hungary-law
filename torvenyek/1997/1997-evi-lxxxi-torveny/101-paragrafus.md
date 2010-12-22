@@ -30,7 +30,13 @@ l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljár�
 
 m) a nyugdíj-biztosítási igazgatási szervek hivatalos iratainak a közigazgatási hatósági eljárásokban elektronikus úton történő teljesítésével kapcsolatos részletes szabályokat,
 
-n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait
+n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
+
+p) az özvegyi járadék számítására vonatkozó szabályokat;
+
+q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
+
+r) a társadalombiztosítási egyéni számlával kapcsolatos szabályozást
 
 rendeletben határozza meg.
 

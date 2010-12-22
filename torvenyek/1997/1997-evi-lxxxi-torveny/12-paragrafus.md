@@ -82,8 +82,8 @@ szolgálati idő (év) havi átlagkereset százaléka
 
 (5) A 10–19 évi szolgálati idő alapján megállapított öregségi résznyugdíjat akkor is a nyugdíj alapját képező havi átlagkeresetnek a szolgálati időtől függő százalékában kell megállapítani, ha ez nem éri el az öregségi nyugdíj legkisebb összegét.
 
-(6) Az öregségi nyugdíj összegét – ha a biztosított kizárólag a társadalombiztosítási nyugdíjrendszer keretében fizetett nyugdíjjárulékot, vagy a magánnyugdíjpénztárban az egyéni számláján lévő összeget a Nyugdíjbiztosítási Alaphoz átutalták – az (1) bekezdés szerint kell meghatározni.
+(6) Ha a biztosított magánnyugdíjpénztárnak nem tagja, az öregségi nyugdíj összegét az (1)–(5) bekezdés szerint kell meghatározni.
 
-(7) Ha a biztosítottnak a magánnyugdíjpénztárban az egyéni számláján lévő összeget saját döntése alapján nem utalták át a Nyugdíjbiztosítási Alap részére, az öregségi nyugdíj összege a (6) bekezdés szerint kiszámított összeg hetvenöt százaléka.
+(7) Ha a biztosított magán-nyugdíjpénztári tag, az öregségi nyugdíj összegét – figyelemmel a 2. § (6) bekezdésében foglaltakra is – úgy kell megállapítani, hogy az (1)–(5) bekezdés szerint kiszámított összeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
 
 (8) Ha a 39. §-ban előírt arányos beszámítás miatt a biztosított szolgálati ideje nem éri el a tíz évet, az öregségi nyugdíj összegét – a (2)–(3) bekezdés alkalmazása nélkül – úgy kell meghatározni, hogy a havi átlagkeresetnek a tíz évhez tartozó (1) bekezdés szerinti százalékos mértékét annyiszor 2 százalékponttal kell csökkenteni, ahány év a tíz év szolgálati időből hiányzik.

@@ -18,7 +18,9 @@ b) az árvaellátás,
 
 c) a szülői nyugdíj,
 
-d) a baleseti hozzátartozói nyugellátások.
+d) a baleseti hozzátartozói nyugellátások,
+
+e) az özvegyi járadék.
 
 (3) Az, aki egyidejűleg
 
