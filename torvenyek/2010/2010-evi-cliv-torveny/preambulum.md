@@ -1,0 +1,1 @@
+Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárakból a társadalombiztosítási nyugdíjrendszerbe történő visszalépéssel kapcsolatos egyes feladatok biztonságos és átlátható ellátása érdekében a következő törvényt alkotja:

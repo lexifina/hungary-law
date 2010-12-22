@@ -1,0 +1,1 @@
+7. § Az Alap vagyonát képező eszközök értékesítéséből származó bevételt a Nyugdíjbiztosítási Alap fejezetnek és a központi költségvetésnek a Magyar Köztársaság költségvetéséről szóló törvényben meghatározott előirányzata javára kell befizetni vagy azt az államadósság csökkentésére kell fordítani.
