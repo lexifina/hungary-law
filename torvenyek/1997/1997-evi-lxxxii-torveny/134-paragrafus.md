@@ -26,7 +26,13 @@ k) a piaci eszközértékelésen alapuló vagyonértékelést és teljesítmény
 
 l) a magánnyugdíjpénztárak közötti átlépés részletes szabályait;
 
-m) a pénzforgalmi számla és a befektetési számla közötti pénzáramlások Pénzkezelési Szabályzatban rögzítendő részletes szabályait.
+m) a pénzforgalmi számla és a befektetési számla közötti pénzáramlások Pénzkezelési Szabályzatban rögzítendő részletes szabályait;
+
+n) a társadalombiztosítási nyugdíjrendszerbe átlépő magán-nyugdíjpénztári taggal összefüggő elszámolások és kifizetések rendjét;
+
+o) a 24. § (10) bekezdése szerinti nyilatkozattétel részletes eljárási szabályait;
+
+p) a 123. § (6) bekezdése szerinti igazolási kérelem részletes eljárási szabályait.
 
 (2) Felhatalmazást kap a nyugdíjjárulék- és nyugdíjbiztosítási járulék-fizetés szabályozásáért felelős miniszter, hogy rendeletben állapítsa meg:
 

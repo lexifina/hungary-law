@@ -31,3 +31,5 @@ c) a felhalmozási időszakban az általa kezdeményezett egyedi portfólióvál
 (6) Az Alap köteles egy országos napilapban és a Magyar Közlönyben közzétenni az igényérvényesítés legelső napját, helyét és módját, továbbá a kifizetés teljesítésével megbízott szervezet nevét.
 
 (7) A felszámolás alatt álló pénztár járadékos tagja számára az Alap a járadék teljes összegének folyósítását garantálja. Minden más esetben az Alap garanciája a felszámolás kezdő időpontjában, vagy a tag kérésére, a felszámolás kezdő időpontját megelőző üzleti évről készített éves beszámoló mérleg-fordulónapján, a tag követelésének összegéig áll fenn.
+
+(8) Az Alap a magánnyugdíjpénztár adatszolgáltatása alapján kormányrendeletben meghatározottak szerint átadja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozó garanciális kifizetésekre fordítható eszközöket a Nyugdíjreform és Adósságcsökkentő Alap számára.

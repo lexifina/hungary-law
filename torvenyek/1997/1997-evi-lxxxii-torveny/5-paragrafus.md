@@ -6,7 +6,7 @@
 
 (3) A kölcsönösség és az öngondoskodás elve alapján a pénztártagok közösen teremtik meg a pénztár működésének és szolgáltatásainak fedezetét, a pénztárak pedig az Alap létrehozásával és fenntartásával az e törvényben meghatározott módon gondoskodnak a pénztárak szolgáltatási kötelezettségének teljesítéséről. A pénztártagok a felhalmozási időszakban befektetői, a járadékos időszakban befektetői és biztosítási kockázatközösséget alkotnak.
 
-(4) A pénztártag követelése – a tulajdonlás elve szerint – a pénztártag tulajdona, amelyre az e törvényben foglaltak szerint kedvezményezett jelölhető. A pénztártag követeléséért a pénztár, illetve az e törvényben meghatározott feltételek szerint az Alap és a központi költségvetés tartozik helytállni.
+(4) A pénztártag követelése – a tulajdonlás elve szerint – a pénztártag tulajdona, amelyre az e törvényben foglaltak szerint kedvezményezett jelölhető. A pénztártag követeléséért a pénztár, és az e törvényben meghatározott feltételek szerint az Alap tartozik helytállni.
 
 (5) A zárt gazdálkodás elve az alábbiak egyidejű érvényesítését jelenti:
 

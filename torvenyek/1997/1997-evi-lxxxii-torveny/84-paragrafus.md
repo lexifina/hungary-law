@@ -16,9 +16,9 @@ b) új tag nem vehető fel, a folyamatba tett kifizetéseket szüneteltetni kell
 
 c) a tagdíjak beszedéséről az Alap gondoskodik.
 
-(3) A Felügyelet köteles a felszámolás kezdő időpontjában a pénztár tevékenységi engedélyét visszavonni és az más pénztár kijelölésével a tagsági viszony folytatásáról és a járadékszolgáltatások teljesítéséről gondoskodni.
+(3) A Felügyelet köteles a felszámolás kezdő időpontjában a pénztár tevékenységi engedélyét visszavonni.
 
-(4) A Felügyelet a felszámolás kezdő időpontjától számított 60 napon belül köteles kijelölni azt a pénztárat, ahol a tagsági jogviszonyt folytatni lehet. A kijelölt pénztár a tagok átvételét nem tagadhatja meg. A kijelölés a tag szabad pénztárválasztási jogát nem érinti. A pénztárak közötti elszámolás tekintetében, a pénztárak közötti átlépésre vonatkozó szabályokat kell alkalmazni.
+(4) A felszámoló a felszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben tájékoztatja a pénztár tagjait a felszámolás tényéről és egyúttal 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, akkor a felszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében.
 
 (5) A felszámolás kezdő időpontjában a tartalékokhoz tartozó eszközök listáját azonnal le kell zárni, és azt a felszámolónak át kell adni. A felszámolási eljárás során ezek az eszközök külön kezelendők és azok csak a fedezeti tartalékkal szemben fennálló tagi, illetve hozzátartozói követelések kielégítése után használhatók fel egyéb kötelezettségek kielégítésére.
 

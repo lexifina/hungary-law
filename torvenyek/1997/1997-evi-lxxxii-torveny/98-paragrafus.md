@@ -8,4 +8,4 @@
 
 (4) Az Alap éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a Kormány rendeletben állapítja meg.
 
-(5) Az Alap a Magyar Nemzeti Banktól kölcsönt, átmeneti vagy tartós hiány esetén hitelt vehet fel. A Magyar Nemzeti Banktól felvett kölcsön visszafizetéséért a központi költségvetés készfizető kezesként felel.
+(5)
