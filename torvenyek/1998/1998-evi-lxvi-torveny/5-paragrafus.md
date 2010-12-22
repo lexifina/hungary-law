@@ -14,6 +14,8 @@ f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszer
 
 g) az Szja tv. 70. §-ában említett juttatások azon része, amely 25 százalékos adókulccsal adózik.
 
+i) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt a volt pénztártagnak kifizetett, a hozamgarantált tőke összege feletti összeg.
+
 (2) A kifizetőt és a bérbeadó természetes személyt nem terheli a 3. § (1) bekezdésében meghatározott egészségügyihozzájárulás-fizetési kötelezettség az ingatlan bérbeadásból származó jövedelem után, ha a bérbeadó bérleti díjból származó bevételére az önálló tevékenységből származó jövedelemre irányadó szabályokat alkalmazza.
 
 (3) A Tbj. 13. §-ában említett közösségi rendelet hatálya alá tartozó, másik tagállamban biztosított személy jövedelme után nem kell egészségügyi hozzájárulást fizetni. Az egészségügyihozzájárulás-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban fennálló biztosítást tanúsító igazolással igazolja.
