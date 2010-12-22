@@ -1,0 +1,1 @@
+84/L. § A jövedelem kiszámításánál nem kell figyelembe venni a pénztártag társadalombiztosítási nyugdíjrendszerbe 2010. november 3-át követően az Mpt. 123. § (6) bekezdése szerint történt visszalépése esetén a magánnyugdíjpénztár által teljesített visszalépő tagi kifizetéseket.
