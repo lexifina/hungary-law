@@ -75,15 +75,3 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 5. a Dán Királyság esetében: afgift af lystfartøjsforsikringer, afgift af ansvarsforsikringer for motorkøretøjer .v., stempelafgift af forsikringspræmier;
 
 6. az Egyesült Királyság esetében: insurance premium tax (IPT);
-
-7. az Észt Köztársaság esetében: -,
-
-8. a Finn Köztársaság esetében: eräistä vakuutusmaksuista suoritettava vero/skatt på vissa försäkringspremier, palosuojelumaksu/brandskyddsavgift;
-
-9. a Francia Köztársaság esetében: taxe sur les conventions d’assurances;
-
-10. a Görög Köztársaság esetében: Φόρος κύκλου εργασιών (Φ.Κ.Ε), Τέλη Χαρτοσήμου;
-
-11. a Holland Királyság esetében: assurantiebelasting;
-
-12. Írország esetében: levy on insurance premiums;
