@@ -22,8 +22,11 @@ g) a kiállítás dátuma és a kedvezményezett cégszerű aláírása.
 
 (4) A működési előleg igénylésének díja (a továbbiakban: előlegigénylési díj) a működési előleg összegének 2,8%-a, amelyet a megállapított működési előlegből az MVH a működési előleg megállapítását követően számít ki, és a működési előleg folyósítását megelőzően egy részletben von le a megállapított működési előlegből. Az előlegigénylési díj az MVH-t illeti meg.
 
-(5) A kedvezményezett legkésőbb 2010. december 31-ig köteles a működési előleggel elszámolni. Az elszámolás a működési előleg fizetésének alapjául szolgáló támogatási jogcímmel kapcsolatos kifizetési kérelem MVH részére történő benyújtásával történik.
+(5)[^1] A kedvezményezett legkésőbb 2011. december 31-ig köteles a működési előleggel elszámolni. Az elszámolás a működési előleg fizetésének alapjául szolgáló támogatási jogcímmel kapcsolatos kifizetési kérelem MVH részére történő benyújtásával történik.
 
-(6) Az MVH minden olyan kifizetési kérelem alapján a LEADER működési forrás terhére jóváhagyható támogatás összegét csökkenti – a kifizetési kérelemre vonatkozó formanyomtatványon meghatározott adott támogatási jogcímen kifizetett működési előleg összegének a kedvezményezett által meghatározott esetben és mértékében –, amelyet 2010. december 31-ig nyújtottak be.
+(6)[^2] Az MVH minden olyan kifizetési kérelem alapján a LEADER működési forrás terhére jóváhagyható támogatás összegét csökkenti – a kifizetési kérelemre vonatkozó formanyomtatványon meghatározott adott támogatási jogcímen kifizetett működési előleg összegének a kedvezményezett által meghatározott esetben és mértékében –, amelyet 2011. december 31-ig nyújtottak be.
 
 (7) Ha a kedvezményezett a működési előleggel az (5) bekezdésben meghatározott határnapig nem vagy csak részben számol el, a kifizetett, de el nem számolt működési előleg jogosulatlanul igénybe vett támogatásnak minősül, amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 59. § (3) bekezdése alapján adók módjára behajtandó köztartozásnak minősül.
+
+[^1]: Az 5. § (5) bekezdése a 294/2010. (XII. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 5. § (6) bekezdése a 294/2010. (XII. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
