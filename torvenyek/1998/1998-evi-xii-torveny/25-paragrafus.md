@@ -1,1 +1,1 @@
-25. §
+25. § A központi adatkezelő szerv az útiokmány-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.

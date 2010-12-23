@@ -12,7 +12,7 @@ a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útle
 
 b) a Magyar Köztársaság útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
 
-c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint meghatározza azokat a szerveket, amelyek a központi adatkezelő szerv részére adatfeldolgozást végezhetnek, illetőleg az úti okmányok előállításában közreműködhetnek;
+c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 
 d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 

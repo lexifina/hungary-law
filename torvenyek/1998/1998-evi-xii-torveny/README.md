@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2009-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 1998-12-00-00.18 |
 | 2010-03-24 | 2010. évi XL. törvény | 1998-12-00-00.19 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 1998-12-00-00.20 |
+| 2010-12-23 | 2010. évi CLVII. törvény | 1998-12-00-00.21 |
