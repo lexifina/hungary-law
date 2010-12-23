@@ -43,11 +43,3 @@ e) 86. §-ának (5) bekezdésében, 99. §-ának (1) bekezdésében, 110. §-áb
 (5) A lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény 2. § (4) bekezdésében a „2010. december 31.” szövegrész helyébe a „2011. június 30.” szöveg lép.
 
 (6) Nem lép hatályba az egyes pénzügyi tárgyú törvények módosításáról szóló 2009. évi CL. törvény 147. §-ának (2) bekezdése, 151. §-a és a 157. §-ának (3) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
