@@ -1,0 +1,7 @@
+2. § (1) A nemzeti adatvagyon részét képező adatállomány tekintetében törvény az adatfeldolgozással megbízható személyek és szervezetek körét korlátozhatja, vagy az adatfeldolgozásnak az adatkezelőtől különböző személy vagy szervezet általi ellátását kizárhatja.
+
+(2) Ha törvény arról rendelkezik, hogy az adatfeldolgozást csak államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet láthatja el, az adatkezelő kizárólag a Kormány rendeletében az adott nyilvántartás tekintetében meghatározott szervvel vagy szervezettel köthet adatfeldolgozási szerződést. Ha a Kormány rendelete az adott nyilvántartás tekintetében meghatározott adatfeldolgozó igénybevételét teszi kötelezővé, az adatkezelő ezen adatfeldolgozót bízza meg az adatfeldolgozással.
+
+(3) Felhatalmazást kap a Kormány, hogy a (2) bekezdés szerinti államigazgatási szerveket és kizárólagos állami tulajdonú gazdálkodó szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a (2) bekezdés szerinti adatfeldolgozó megbízására az adatkezelő köteles, rendeletben határozza meg.
+
+(4) A (3) bekezdés szerinti rendelet az adatfeldolgozók körének meghatározásáról – ideértve az adatfeldolgozó kötelező megbízásának esetét – az elektronikus adatfeldolgozásra és a nem elektronikus adatfeldolgozásra külön-külön is rendelkezhet.
