@@ -24,11 +24,11 @@
 
 ## 6. A Legfőbb Ügyészség épülete
 
-## 7.[^66] A Közigazgatási és Igazságügyi Minisztérium központi épülete
+## 7.[^65] A Közigazgatási és Igazságügyi Minisztérium központi épülete
 
 ## 8. A Külügyminisztérium központi épületei
 
-## 9.[^67] A Belügyminisztérium
+## 9.[^66] A Belügyminisztérium
 
 ## 10. Az Állami Számvevőszék központi épületei
 
@@ -36,11 +36,9 @@
 
 ## 12. A Szent Korona és a koronázási jelvények
 
-## 13. A Budapest XII. kerület, Béla király úti Kormány-vendégház területéből a Köztársasági Elnöki Rezidencia
+## 13.[^67]
 
-## [14.[^68] A Nemzetbiztonsági Szakszolgálat központi objektuma]
-
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^69]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^68]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -174,7 +172,7 @@
 
 65. Zalaegerszeg, Zala Megyei Kórház
 
-[^66]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^67]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^68]: Az 1. melléklet 2. pont 14. alpontját a 63/2010. (III. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be. [E módosító rendelet 14. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
-[^69]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^65]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^66]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^67]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^68]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
