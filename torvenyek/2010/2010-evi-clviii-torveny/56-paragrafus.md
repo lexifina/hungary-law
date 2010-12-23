@@ -1,0 +1,1 @@
+56. § A Felügyelet csak az ellenőrzési feladatainak ellátása érdekében és az ellenőrzéshez szükséges mértékben vizsgálhatja a 4. §-ban meghatározott szervezetek és személyek ügyfelére, illetve a pénztártagra vonatkozó adatokat. A Felügyelet ellenőrzési feladatkörében való eljárásához történő, titokkörbe tartozó adatátadásáról az ügyfél, pénztártag tájékoztatása mellőzhető.
