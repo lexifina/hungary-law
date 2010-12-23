@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-172-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-31 | 1997-172-20-22.18 | 172/1997. (X. 6.) Korm. rendelet |
+| 2010-12-23 | 1997-172-20-22.19 | 297/2010. (XII. 23.) Korm. rendelet |

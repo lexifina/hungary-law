@@ -1,3 +1,3 @@
-## 7. §[^26]
+## 7. §[^23] A központi nyilvántartás az Mpt. 123. § (12) bekezdése szerinti adatszolgáltatást az érintett pénztártagok írásbeli tájékoztatása érdekében, eseti adatszolgáltatásként, az Mpt. 120/A. § (8) és (9) bekezdése szerinti adatszolgáltatást rendszeres adatszolgáltatásként, a pénztári adatszolgáltatások beérkezését követő hónap 10. napjáig teljesíti, az Mpt. 120/A. § (8) bekezdése szerinti esetben havi rendszerességgel.
 
-[^26]: A 7. §-t a 236/2006. (XI. 24.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 7. §-t a 236/2006. (XI. 24.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 297/2010. (XII. 23.) Korm. rendelet 9. § (5) bekezdése iktatta be.

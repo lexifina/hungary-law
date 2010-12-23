@@ -1,4 +1,4 @@
-## 1.[^34] A belépési nyilatkozat adattartalma:
+## 1.[^31] A belépési nyilatkozat adattartalma:
 
 ## – Pénztártag természetes személyazonosító adatai
 
@@ -70,7 +70,7 @@
 
 ## – Magánnyugdíjpénztár záradékolása, aláírása
 
-## 2.[^35] A pénztártagsági jogviszony létesítéséhez, módosulásához és megszűnéséhez kapcsolódó adatok:
+## 2.[^32] A pénztártagsági jogviszony létesítéséhez, módosulásához és megszűnéséhez kapcsolódó adatok:
 
 ## – Pénztártag természetes személyazonosító adatai
 
@@ -132,13 +132,13 @@
 
 ## 5. A pénztár által megállapított nyugdíjpénztári szolgáltatások és egyösszegű kifizetések adatai:
 
-## –[^36] A szolgáltatást vagy egyösszegű kifizetést igénybe vevő személy azonosító adatai (neve, TAJ száma, adóazonosító jele/útlevélszáma, születési helye, születési dátuma, anyja neve, leánykori neve, lakóhelye: település neve, irányítószáma, közterület neve, jellege, házszám)
+## –[^33] A szolgáltatást vagy egyösszegű kifizetést igénybe vevő személy azonosító adatai (neve, TAJ száma, adóazonosító jele/útlevélszáma, születési helye, születési dátuma, anyja neve, leánykori neve, lakóhelye: település neve, irányítószáma, közterület neve, jellege, házszám)
 
 ## – A szolgáltatás vagy egyösszegű kifizetés igénybevételének jogalapja (saját jogon a nyugdíjkorhatár elérésekor, saját jogon a Tny. szerint megállapított rokkantsági nyugellátás igénybevétele esetén, kedvezményezetti jogon)
 
 ## – A Tny. szerint megállapított nyugellátás igénybevételének időpontja
 
-## –[^37] Kedvezményezettként igénybe vett szolgáltatás vagy egyösszegű kifizetés esetén a felhalmozó pénztártag azonosítója (TAJ száma, adóazonosító jele/útlevélszáma)
+## –[^34] Kedvezményezettként igénybe vett szolgáltatás vagy egyösszegű kifizetés esetén a felhalmozó pénztártag azonosítója (TAJ száma, adóazonosító jele/útlevélszáma)
 
 ## – A választott járadékszolgáltatás vagy egyösszegű kifizetés típusa (az Mpt. 27. §-a és 28. §-a alapján)
 
@@ -152,7 +152,7 @@
 
 ## – Pénztártag neve
 
-## –[^38] Pénztártag TAJ száma, adóazonosító jele vagy útlevélszáma
+## –[^35] Pénztártag TAJ száma, adóazonosító jele vagy útlevélszáma
 
 ## – Tárgyév (elszámolási időszak alapján)
 
@@ -184,137 +184,50 @@
 
 ## – A tagi követelés piaci értéke tárgyév december 31-én
 
-2. számú melléklet a 172/1997. (X. 6.) Korm. rendelethez[^39]
+## 7.[^36] az adóhatóság által az egyéni nyugdíjjárulék számla vezetéséhez teljesített adatszolgáltatás adattartalma:
 
-PÉNZÜGYI SZERVEZETEK ÁLLAMI FELÜGYELETE
+| 1. a Tbj. 44. §-ának (1) bekezdése szerinti nyilvántartásra kötelezett adatai (neve, székhelye, adóazonosító száma), |
 
-A foglalkoztatók adatszolgáltatása a pénztártagok pénztárválasztásáról
+| 2. a munkáltató, kifizető jogelődjének adóazonosító száma, |
 
-A bizonylatot nyomtatott nagybetűkkel kérjük kitölteni!
+| 3. a magánszemély természetes személyazonosító adatai (ideértve az előző nevet és a titulust is), neme, állampolgársága, |
 
-Kitöltési útmutató a túloldalon!
+| 4. a magánszemély adóazonosító jele, |
 
-Az adatszolgáltatás a 172/1997. (X. 6.) Korm. rendelet alapján kötelező!
+| 5. a biztosításban töltött idő tartama, az alkalmazás minősége, jogcímének kódja, valamint a magánszemély nyugdíjas státusa, az arányos szolgálati idő naptári napjainak száma, |
 
-| Foglalkoztató | 1. Megnevezése: | 5. Az adatszolgáltató neve: |
+| 6. a társadalombiztosítási (nyugdíj-biztosítási, egészségbiztosítási és munkaerő-piaci) járulék és a korkedvezmény-biztosítási járulék alapja, összege, |
 
-| 2. Adóazonosítója: /_/_/_/_/_/_/_/_/_/_/_/ | 6. Telefonszáma: /_/_/_/_/_/_/_/_/_/_/_/ |
+| 7. a nyugdíjjárulék (magánnyugdíj-pénztári tagdíj) alapját képező jövedelem, a nyugdíjjárulék-köteles jutalom összege, illetőleg a levont nyugdíjjárulék (magánnyugdíj-pénztári tagdíj és a pénztártag, illetőleg a foglalkoztató által vállalt tagdíj-kiegészítés) összege, |
 
-| 3. KSH száma: /_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/ | 7. Az adatszolgáltatás típusa: /_/ |
+| 9. a természetbeni egészségbiztosítási, a pénzbeli egészségbiztosítási és a munkaerő-piaci járulékok levonása és/vagy a nyugdíjjárulék-levonás (magánnyugdíj-pénztári tagdíj levonás) elmaradásának oka, |
 
-|  | 4. Címe: /_/_/_/_/ ..................................... (település) ............................................ (közterület, jellege) ............. hsz. |
+| 10. a tárgyhónaptól eltérő biztosítási jogviszony időtartama, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetőleg az ezen időtartamra vonatkozó társadalombiztosítási (nyugdíj-biztosítási, egészségbiztosítási és munkaerő-piaci) járulék, a levont természetbeni és pénzbeli egészségbiztosítási, munkaerő-piaci és nyugdíjjárulék (magán-nyugdíjpénztári tagdíj, a pénztártag, illetőleg a foglalkoztató által vállalt tagdíj-kiegészítés) alapja és összege, |
 
-| P É N Z T Á R T A G | 1 | 8. Családi és utóneve: |  |  | 12. Születési ideje: /_/_/_/_/ /_/_/ /_/_/ |
+| 11. a gyermekgondozási díj (gyed), gyermekgondozási segély (gyes), gyermeknevelési támogatás (gyet), ápolási díj, munkanélküli-ellátás folyósításának időtartama, az ellátás összege, és az abból levont nyugdíjjárulék (magán-nyugdíjpénztári tagdíj, a pénztártag által vállalt tagdíj-kiegészítés) összege, illetőleg a levonás elmaradásának oka, |
 
-| 9. Anyja születési családi és utóneve: |  |  | 13. Születési helye: ........................................... |
+| 12. a biztosítás szüneteléséről vagy munkabérrel ellátatlanság idejéről, ennek jogcímkódja, |
 
-| 10. TAJ száma: /_/_/_/ /_/_/_/ /_/_/_/ adóazonosító jele: /_/_/_/_/_/_/_/_/_/_/ 11. Útlevélszáma: |  |  | 14. Neme: /_/ 15. Állampolgársága: /_/ |
+| 13. a foglalkozás FEOR számáról, a heti munkaidő tartamáról, a korkedvezményre jogosító munkakör tartama, |
 
-| 16. Címe: /_/_/_/_/ ..................................... (település) ............................................ közterület, jellege ............. hsz. |
+| 14. az egészségügyi dolgozók heti 48 órát meghaladó önként vállalt többletmunkavégzésének ideje (munkaórában), |
 
-| 17. Pénztártagság kezdete: /_/_/_/_/ /_/_/ /_/_/ | 18. Jogcímkód*: /_/_/ |
+| 15. a tárgyhónapban létesített magánnyugdíj-pénztári tagsági viszony kezdete és a magánnyugdíjpénztár azonosító kódja, a tárgyhónapban, a pénztártag más pénztárba történő átlépése esetén a tárgyhónapot megelőző hónapban megszűnt magánnyugdíj-pénztári tagsági viszony utolsó napja és a magánnyugdíjpénztár-azonosító kódja, a hónap utolsó napján fennálló magánnyugdíj-pénztári tagság és a magánnyugdíjpénztár azonosító kódja, a magánnyugdíj-pénztári tag társadalombiztosítási nyugdíjrendszerbe történő visszalépése napja, |
 
-| 19. Pénztár neve: .......................................................................................................... | 20. Pénztár azonosítója: /_/_/_/_/ |
+| 24. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 31. § (5) bekezdése szerinti nyilatkozatában foglalt választásáról, |
 
-| 2 | 8. Családi és utóneve: |  |  | 12. Születési ideje: /_/_/_/_/ /_/_/ /_/_/ |
+| 26. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választásáról.” |
 
-| 9. Anyja születési családi és utóneve: |  |  | 13. Születési helye: ........................................... |
+| 27. a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztatott munkavállaló esetében, e foglalkoztatási jogviszonnyal összefüggésben az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összege, és a foglalkoztatás napja (napjai), |
 
-| 10. TAJ száma: /_/_/_/ /_/_/_/ /_/_/_/ adóazonosító jele: /_/_/_/_/_/_/_/_/_/_/ 11. Útlevélszáma: |  |  | 14. Neme: /_/ 15. Állampolgársága: /_/ |
+| 28. a felszolgálási díj után fizetett nyugdíjjárulékot is magában foglaló nyugdíjbiztosítási járulék alapjáról és összegéről |
 
-| 16. Címe: /_/_/_/_/ ..................................... (település) ............................................ közterület, jellege ............. hsz. |
+2. számú melléklet a 172/1997. (X. 6.) Korm. rendelethez[^37]
 
-| 17. Pénztártagság kezdete: /_/_/_/_/ /_/_/ /_/_/ | 18. Jogcímkód*: /_/_/ |
-
-| 19. Pénztár neve: .......................................................................................................... | 20. Pénztár azonosítója: /_/_/_/_/ |
-
-| 3 | 8. Családi és utóneve: |  |  | 12. Születési ideje: /_/_/_/_/ /_/_/ /_/_/ |
-
-| 9. Anyja születési családi és utóneve: |  |  | 13. Születési helye: ........................................... |
-
-| 10. TAJ száma: /_/_/_/ /_/_/_/ /_/_/_/ adóazonosító jele: /_/_/_/_/_/_/_/_/_/_/ 11. Útlevélszáma: |  |  | 14. Neme: /_/ 15. Állampolgársága: /_/ |
-
-| 16. Címe: /_/_/_/_/ ..................................... (település) ............................................ közterület, jellege ............. hsz. |
-
-| 17. Pénztártagság kezdete: /_/_/_/_/ /_/_/ /_/_/ | 18. Jogcímkód*: /_/_/ |
-
-| 19. Pénztár neve: .......................................................................................................... | 20. Pénztár azonosítója: /_/_/_/_/ |
-
-Kelt: ....................................................................
-
-P. H.
-
-Cégszerű aláírás:
-
-........................................................
-
-A jelentőlapot a pénztárválasztást elmulasztott pályakezdő lakóhelye (magyarországi lakóhely vagy tartózkodási hely hiányában a foglalkoztató Magyarországon bejegyzett székhelye, telephelye, képviselete, fióktelepe) szerint illetékes területi pénztárhoz kell eljuttatni!
-
-KITÖLTÉSI ÚTMUTATÓ
-
-A „foglalkoztatók adatszolgáltatása a pénztártagok pénztárválasztásáról” nyomtatványhoz
-
-1. A foglalkoztató megnevezése.
-
-2. Az állami adóhatóság által kiadott 11 jegyű adóazonosítót kell beírni. Amennyiben kevesebb mint 11 számjegyű, az azonosítót jobbra igazítva kell feltüntetni.
-
-3. A foglalkoztató 17 számjegyű statisztikai számjele.
-
-4. A foglalkoztató postai irányítószáma, székhely település neve, közterület jellege, házszám.
-
-5. Az adatszolgáltatást teljesítő, kapcsolattartó személy neve.
-
-6. Az adatszolgáltatást teljesítő, kapcsolattartó személy telefonszáma.
-
-7. A rovatba „X” jelet kell írni, ha a feltüntetett pénztártag(ok)ra vonatkozóan már történt adatszolgáltatás, de az abban közölt adatokat javítani, módosítani kell.
-
-8. Családi és utónév. Nyomtatott nagybetűkkel kell kitölteni, jól láthatóan elkülönítve.
-
-9. Pénztártag anyja születési családi és utóneve. Nyomtatott nagybetűkkel kell kitölteni, jól láthatóan elkülönítve a családi és utónevet.
-
-10. A pénztártag társadalombiztosítási azonosító jele (TAJ szám), adóazonosító jele.
-
-11. Nem magyar állampolgár pénztártag esetén, TAJ szám hiányában az útlevélszáma, vagy – EGT állampolgár esetén – a személyazonosító igazolvány száma. EGT állampolgár alatt Tbj. 4. §-a v) pontja szerinti állam állampolgára értendő.
-
-12. Év, hónap, nap.
-
-13. Pénztártag születési helye. Nyomtatott nagybetűkkel kell kitölteni.
-
-14. A rovat kitöltésénél: férfi: (1), nő: (2).
-
-15. A rovat kitöltésénél: magyar: M, külföldi: K, hontalan: H.
-
-16. A pénztártag lakóhelyének postai irányítószáma, település neve, közterület jellege, házszám.
-
-17. Kötelező pénztártagság esetén az első, illetőleg azon biztosítási jogviszony keletkezésének napja, amely alapján a pénztártagság kötelezően létrejött.
-
-18. A használható jogcímkódok:
-
-X1 kódot kell a mezőbe írni, ha a pályakezdő pénztártagságra kötelezése – a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 2002. január 1-jét megelőzően hatályos 22. § (8) bekezdés a) pontja alapján – irányítás útján történik. (2001. december 31-ig létrejött tagsági jogviszony esetén használható!)
-
-11 Olyan pályakezdő személy, akinek a pénztártagságra kötelezése irányítás útján történik. Csak 2003. január 1-jén vagy azt követően létrejött biztosítási jogviszony esetén használható!
-
-19. Ha a pályakezdő – 2002. január 1-jét megelőző, továbbá 2002. december 31-ét követő – biztosítottá válásától számított 15 napon belül nem választ pénztárat, vagy választását nem jelenti be, a pályakezdő lakóhelye szerinti területi pénztár nevét kell feltüntetni.
-
-20. A 19. pontban meghatározott területi pénztárnak a Pénzügyi Szervezetek Állami Felügyelete által kiadott négy számjegyű azonosítója (pénztárkód).
-
-Területileg illetékes nyugdíjpénztárak
-
-| Megye | Pénztár neve | Pénztárkód |
-
-| Baranya megye és Jász-Nagykun-Szolnok megye | Allianz Hungária Biztosító Rt. Önkéntes és Magánnyugdíjpénztár | 0016 |
-
-| Csongrád megye | ÁB-Aegon Önkéntes és Magánnyugdíjpénztár | 0008 |
-
-| Az összes többi megyében, valamint Budapesten | OTP Magánnyugdíjpénztár | 0002 |
-
-Területi pénztár: a Pénzügyi Szervezetek Állami Felügyelete által kijelölt azon magánnyugdíjpénztár, amelynek a pénztárválasztást elmulasztó 2002. január 1-jét megelőzően vagy 2002. december 31-ét követően pályakezdő – lakóhelye szerint – a tagjává válik.
-
-A jelentőlapot a pénztárválasztást elmulasztott pályakezdő lakóhelye (külföldi állampolgár magyarországi lakóhelyének vagy tartózkodási helyének hiányában a foglalkoztató Magyarországon bejegyzett székhelye, telephelye, képviselete, fióktelepe) szerint illetékes területi pénztárhoz kell eljuttatni!
-
-[^34]: Az 1. számú melléklet 1. pontja a 265/2005. (XII. 14.) Korm. rendelet 2. §-ával megállapított, valamint a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a, a 314/2009. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^35]: Az 1. számú melléklet 2. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: Az 1. számú melléklet 5. pontjának első francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
-[^37]: Az 1. számú melléklet 5. pontjának negyedik francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^38]: Az 1. számú melléklet 6. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
-[^39]: A 2. számú melléklet a 236/2006. (XI. 24.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 119. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: Az 1. számú melléklet 1. pontja a 265/2005. (XII. 14.) Korm. rendelet 2. §-ával megállapított, valamint a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a, a 314/2009. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^32]: Az 1. számú melléklet 2. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: Az 1. számú melléklet 5. pontjának első francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
+[^34]: Az 1. számú melléklet 5. pontjának negyedik francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^35]: Az 1. számú melléklet 6. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
+[^36]: Az 1. számú melléklet 7. pontját a 297/2010. (XII. 23.) Korm. rendelet 9. § (6) bekezdése iktatta be.
+[^37]: A 2. számú mellékletet a 297/2010. (XII. 23.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
