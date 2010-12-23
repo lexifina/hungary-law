@@ -1,3 +1,5 @@
+## is alkalmazni kell.
+
 ## VII. Fejezet
 
 ## AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS

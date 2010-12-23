@@ -4,6 +4,6 @@
 
 36. § (1) E rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^160]
+(2)[^165]
 
-[^160]: A 36. § (2) bekezdését a 127/2007. (X. 29.) FVM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^165]: A 36. § (2) bekezdését a 127/2007. (X. 29.) FVM rendelet 6. § (2) bekezdése hatályon kívül helyezte.

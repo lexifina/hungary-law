@@ -94,6 +94,6 @@
 
 |  | 92.52.11.1. | Múzeumi szolgáltatás, kulturális örökség védelme. | 12% | 6 000 000 |
 
-4. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^164]
+4. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^172]
 
-[^164]: A 4. számú mellékletet a 39/2007. (V. 15.) FVM rendelet 6. § (2) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
+[^172]: A 4. számú mellékletet a 39/2007. (V. 15.) FVM rendelet 6. § (2) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.

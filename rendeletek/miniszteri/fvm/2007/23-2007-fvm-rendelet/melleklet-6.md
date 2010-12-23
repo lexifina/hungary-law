@@ -16,6 +16,6 @@
 
 ## – Okleveles díszkertészeti és növényalkalmazási mérnök
 
-6. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^167]
+6. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^175]
 
-[^167]: A 6. számú mellékletet a 63/2007. (VII. 13.) FVM rendelet 6. §-a iktatta be, szövege a 97/2008. (VII. 25.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^175]: A 6. számú mellékletet a 63/2007. (VII. 13.) FVM rendelet 6. §-a iktatta be, szövege a 97/2008. (VII. 25.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg.
