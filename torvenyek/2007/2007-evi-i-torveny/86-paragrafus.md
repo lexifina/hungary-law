@@ -30,7 +30,7 @@ b) a kitoloncolási őrizet végrehajtásának szabályait,
 
 c) a kitoloncolás végrehajtásának szabályait, és
 
-d) a központi idegenrendészeti nyilvántartás adatfeldolgozó szervét.
+d)
 
 (3) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az e törvény hatálya alá tartozó eljárások díját.
 
