@@ -476,6 +476,6 @@
 
 |  |  | .... |  |  |  |  |
 
-6. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^216]
+6. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^219]
 
-[^216]: A 6. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 21. §-ával megállapított és a 396/2007. (XII. 27.) Korm. rendelet 35. §-a, a 331/2008. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^219]: A 6. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 21. §-ával megállapított és a 396/2007. (XII. 27.) Korm. rendelet 35. §-a, a 331/2008. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.

@@ -64,7 +64,7 @@
 
 | 013 |  | Lejárat nélküli eszközök |  |  |
 
-7. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^217]
+7. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^220]
 
 Számlakeret-tükör
 
@@ -182,9 +182,9 @@ BEFEKTETETT ESZKÖZÖK
 
 172. Állampapírok
 
-173.[^218]
+173.[^221]
 
-174.[^219]
+174.[^222]
 
 175. Befektetési jegyek (határozott futamidejű)
 
@@ -274,7 +274,7 @@ KÖVETELÉSEK, PÉNZÜGYI ESZKÖZÖK ÉS AKTÍV IDŐBELI ELHATÁROLÁSOK
 
 359. Adott előlegek értékvesztése és annak visszaírása
 
-36.[^220] ÉRTÉKPAPÍR KÖLCSÖNBE ADÁSÁBÓL SZÁRMAZÓ KÖVETELÉSEK, EGYÉB KÖVETELÉSEK
+36.[^223] ÉRTÉKPAPÍR KÖLCSÖNBE ADÁSÁBÓL SZÁRMAZÓ KÖVETELÉSEK, EGYÉB KÖVETELÉSEK
 
 361. Értékpapír kölcsönbe adásából származó követelések
 
@@ -328,9 +328,9 @@ KÖVETELÉSEK, PÉNZÜGYI ESZKÖZÖK ÉS AKTÍV IDŐBELI ELHATÁROLÁSOK
 
 3722. Kincstárjegyek és más állampapírok
 
-3723.[^221]
+3723.[^224]
 
-3724.[^222]
+3724.[^225]
 
 3725. Befektetési jegyek (határozott futamidejű)
 
@@ -436,11 +436,11 @@ FORRÁSOK
 
 4224. Egyéni számlákon jóváírt, realizált hozambevételekből képzett céltartalék igénybevétele
 
-42241.[^223] Tagsági viszony megszűnésekor kifizetett realizált hozam
+42241.[^226] Tagsági viszony megszűnésekor kifizetett realizált hozam
 
-42242.[^224] Realizált hozam terhére kifizetett értékelési különbözet
+42242.[^227] Realizált hozam terhére kifizetett értékelési különbözet
 
-42243.[^225] Szolgáltatási tartalékra átvezetett realizált hozam
+42243.[^228] Szolgáltatási tartalékra átvezetett realizált hozam
 
 4225–4228. Szolgáltatási tartalékon
 
@@ -550,7 +550,7 @@ FORRÁSOK
 
 452. Rövid lejáratú kölcsönök
 
-453.[^226] Értékpapír-kölcsönzésből eredő kötelezettségek
+453.[^229] Értékpapír-kölcsönzésből eredő kötelezettségek
 
 461–478. Egyéb rövid lejáratú kötelezettségek
 
@@ -896,31 +896,13 @@ RÁFORDÍTÁSOK
 
 852. Pénztári szolgáltatások fedezetét terhelő egyéb ráfordítások
 
-8521. Meg nem fizetett fedezeti célú tagdíjak hitelezési vesztesége
-
-8529. Egyéb szolgáltatási célú ráfordítások
-
-853. Likviditási és kockázati fedezetet terhelő egyéb ráfordítások
-
-8531. Meg nem fizetett likviditási és kockázati célú tagdíjak hitelezési vesztesége
-
-8539. Egyéb likviditási és kockázati célú ráfordítások
-
-86. KÜLÖNFÉLE EGYÉB RÁFORDÍTÁSOK
-
-861. Káreseményekkel kapcsolatos fizetések, fizetendő összegek
-
-862. Bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések
-
-863. Működéssel kapcsolatos egyéb behajthatatlan követelés leírt összege
-
-[^217]: A 7. számú melléklet a 287/2002. (XII. 23.) Korm. rendelet 27. § (4) bekezdése és a 358/2006. (XII. 27.) Korm. rendelet 22. §-a, valamint a 396/2007. (XII. 27.) Korm. rendelet 36. §-a szerint módosított szöveg. Alkalmazásáral lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
-[^218]: A 7. számú melléklet 173. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^219]: A 7. számú melléklet 174. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^220]: A 7. számú melléklet 36. főkönyvi számlája (36–3629. sorok) a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készült beszámolóra kell alkalmazni.
-[^221]: A 7. számú melléklet 3723. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^222]: A 7. számú melléklet 3724. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^223]: A 7. számú melléklet 42241. pontját a 236/2003. (XII. 17.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^224]: A 7. számú melléklet 42242. pontját a 236/2003. (XII. 17.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^225]: A 7. számú melléklet 42243. pontját a 236/2003. (XII. 17.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^226]: A 7. számú melléklet 453. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készült beszámolóra kell alkalmazni.
+[^220]: A 7. számú melléklet a 287/2002. (XII. 23.) Korm. rendelet 27. § (4) bekezdése és a 358/2006. (XII. 27.) Korm. rendelet 22. §-a, valamint a 396/2007. (XII. 27.) Korm. rendelet 36. §-a szerint módosított szöveg. Alkalmazásáral lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+[^221]: A 7. számú melléklet 173. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^222]: A 7. számú melléklet 174. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^223]: A 7. számú melléklet 36. főkönyvi számlája (36–3629. sorok) a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készült beszámolóra kell alkalmazni.
+[^224]: A 7. számú melléklet 3723. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^225]: A 7. számú melléklet 3724. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^226]: A 7. számú melléklet 42241. pontját a 236/2003. (XII. 17.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^227]: A 7. számú melléklet 42242. pontját a 236/2003. (XII. 17.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^228]: A 7. számú melléklet 42243. pontját a 236/2003. (XII. 17.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^229]: A 7. számú melléklet 453. sorát a 285/2005. (XII. 20.) Korm. rendelet 13. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készült beszámolóra kell alkalmazni.
