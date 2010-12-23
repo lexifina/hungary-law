@@ -5,11 +5,3 @@
 (3) Az 1. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (4) E törvény az 1. § hatálybalépését követő napon hatályát veszti.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
