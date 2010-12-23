@@ -1,0 +1,49 @@
+# A Kormány 311/2010. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 197. szám, 2010. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8d3e60a013c919e795a8225b7f863469c2cbf88e/dokumentumok/6f7aeb9bc09c303eddb926cd21d9f66ad41e41ee/letoltes)
+
+---
+
+A Kormány 311/2010. (XII. 23.) Korm. rendelete
+a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény végrehajtásáról szóló
+160/2003. (X. 7.) Korm. rendelet módosításáról
+A Kormány a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 15. § (3) bekezdésében foglalt felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a következőket rendeli el:
+1. § (1) A Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény végrehajtásáról szóló 160/2003. (X. 7.) Korm. rendelet
+(a továbbiakban: NCAr.) 8. § (1a) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a következő
+(1b) bekezdéssel egészül ki:
+„(1a) A támogatás iránti kérelem érvénytelenségét az Alapprogram kezelő szerve állapítja meg, melynek
+eredményéről a kérelem benyújtása szerinti módon tájékoztatja benyújtó szervezetet.”
+(1b) Az Alapprogram kezelő szerve – a hiánypótlási határidő lejártát követő 10 munkanapon belül – tájékoztatja
+a hiánypótlást benyújtó szervezetet a hiánypótlás eredményéről.”
+(2) AzNCAr. 9/C§ (2) bekezdésehelyébeakövetkezőrendelkezéslép,egyidejűlegakövetkező(3) bekezdésselegészülki:
+„(2) A Kollégium az (1) bekezdés szerinti előterjesztés kézhezvételétől számított 30 napon belül dönt a szakmai
+beszámolóról. Amennyiben a Kollégium a szakmai beszámolót egészben vagy részben elutasítja, döntését részletes
+szakmai indoklással köteles ellátni.”
+„(3) Az Alapprogram kezelő szerve által egészben vagy részben el nem fogadott pénzügyi elszámolást a (2) bekezdés
+szerinti szakmai beszámolóról történő döntéshozatal során figyelembe kell venni.”
+2. § Ez a rendelet 2011. január 1-jén lép hatályba, és 2011. január 2-án hatályát veszti.
+3. § (1) Az NCAr.
+a) 9. § (5) bekezdés első mondatában a „Kollégiumok” szövegrész helyébe a „kötelezettségvállaló”,
+b) 9. § (7) bekezdésében a „tárgyévet követő év június 30-áig” szövegrész helyébe a „tárgyév szeptember 30-áig”,
+c) 11. §-ában az „ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe
+a „Wekerle Sándor Alapkezelő”
+szöveg lép.
+(2) Hatályát veszti az NCAr.
+a) 7. § (5) bekezdésében az „a támogatási szerződés megkötésekor” szöveg,
+b) 9. § (5) bekezdésének második mondata,
+c) 12. § (4) bekezdésében a „A 2005. évben” szöveg,
+d) 12. § (5) bekezdésében a „2005. évben” szöveg.
+Orbán Viktor s. k.,
+miniszterelnök
+
+A Kormány 312/2010. (XII. 23.) rendelete
+a Magyar Kármentő Alapról szóló 252/2010. (X. 21.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés
+i) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A Magyar KármentőAlaprólszóló252/2010.(X. 21.) Korm.rendelet3.§ (2) bekezdéseakövetkezőe) ponttalegészülki:
+[A Bizottság tagjai:]
+„e) a Budapesti Nyílt Társadalom Intézet Alapítvány kijelölt képviselője.”
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

@@ -1,0 +1,69 @@
+# A Kormány 307/2010. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 197. szám, 2010. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8d3e60a013c919e795a8225b7f863469c2cbf88e/dokumentumok/6f7aeb9bc09c303eddb926cd21d9f66ad41e41ee/letoltes)
+
+---
+
+A Kormány 307/2010. (XII. 23.) Korm. rendelete
+a felszíni vizek minősége védelmének szabályairól szóló
+220/2004. (VII. 21.) Korm. rendelet és a települési hulladékkezelési közszolgáltatási díj
+megállapításának részletes szakmai szabályairól szóló 64/2008. (III. 28.) Korm. rendelet
+módosításáról
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 29. pontjában, továbbá
+a 4. § tekintetében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (1) bekezdés j) pontjában kapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A felszínivizek minősége védelménekszabályairólszóló220/2004. (VII. 21.) Korm. rendelet (a továbbiakban:Kr.) 19. §-a
+a következő (2a) bekezdéssel egészül ki:
+„(2a) Ha a termálfürdőből vagy gyógyászati célú termálvíz hasznosításából keletkező szennyvíz bevezetése
+a hatásterületen lévő befogadó vízfolyás-rendszer hasznosítását veszélyezteti, a szennyvizet a hatóság által
+meghatározott időszakban és módon, a vízhasználat veszélyeztetése nélkül lehet bevezetni a vízfolyásba.”
+2. § (1) A Kr. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló
+miniszteri rendeletben megállapított kibocsátási határértékeket – a (2), az (5) és a (6) bekezdésekben foglaltak
+kivételével – a meglévő létesítményekre legkésőbb 2010. december 31-ig kell teljesíteni (türelmi idő).”
+(2) A Kr. 38. §-a a következő (5)–(7) bekezdésekkel egészül ki:
+„(5) A szolgáltatókérelméreahatósága(7) bekezdésbenmeghatározotttürelmiidőnbelülihatárnapotállapítmeg,ha
+a) a határértékek teljesítéséhez szükséges beruházás
+aa) vízjogi létesítési engedélye 2010. december 31-ig jogerőre emelkedett, vagy
+ab) támogatásáróla Környezet és Energia Operatív Program Irányító Hatósága által jóváhagyott döntés megszületett,
+és
+
+b) a települési szennyvíztisztítóból kibocsátott szennyvíz a dikromátos oxigénfogyasztás (KOIk
+), a biokémiai
+oxigénigény (BOI5
+) és az összes lebegőanyag (ÖLA) koncentrációja vagy minimális eltávolítási hatásfoka tekintetében
+nem haladja meg a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes
+szabályairól szóló miniszteri rendeletben a települések szennyvíz-elvezetésére és -tisztítására vonatkozó technológiai
+határértékekként meghatározott követelményeket.
+(6) Ha a nem szolgáltató kibocsátó a hatóság által jóváhagyott szennyezéscsökkentési ütemtervének végrehajtását
+megkezdte,de aztazütemezésnekmegfelelőennemtudja teljesíteni,akkor–kérelmére–ahatósága(7) bekezdésben
+meghatározott türelmi időn belüli határnapot állapíthat meg, ha a nem szolgáltató kibocsátó csatolta a kérelemhez:
+a) a módosított szennyezéscsökkentési ütemtervet, valamint
+b) az előrehaladás állapotáról szóló jelentést, és
+az ezekben foglalt adatok alapján megállapítható, hogy a meghatározott határnapig a módosított
+szennyezéscsökkentési ütemterv teljesül.
+(7) Az (5) és a (6) bekezdésekben meghatározott esetekben a türelmi idő utolsó napja:
+a) 2015. december 31.
+aa) a szolgáltató esetében,
+ab) azon nem szolgáltató kibocsátó esetében, akinél a szennyvíz vagy használt víz termálfürdőből vagy gyógyászati
+célú termálvíz hasznosításából keletkezik;
+b) 2012. december 31. az a) pont alá nem tartozó esetben.”
+3. § A Kr. a következő 44/A. §-sal egészül ki:
+„44/A. § (1) E kormányrendeletnek a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm.
+rendelet és a települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól szóló
+64/2008. (III. 28.) Korm. rendelet módosításáról szóló 307/2010. (XII. 23.) Korm. rendelettel (a továbbiakban:
+kormányrendelet mód.) megállapított rendelkezéseit a kormányrendelet mód. hatálybalépésekor folyamatban lévő
+hatósági eljárásokban is alkalmazni kell.
+(2) A kormányrendelet mód.-sal megállapított 38. § (5) bekezdés a) pontjában és a (6) bekezdésben meghatározott
+esetben a hatóság a bírságot a 39. § (3) bekezdése alapján állapítja meg.”
+4. § A települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól szóló 64/2008.
+(III. 28.) Korm. rendelet 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A Nemzeti Települési Szennyvíz-elvezetési és -tisztítási Megvalósítási Programról szóló 25/2002. (II. 27.) Korm.
+rendelet (a továbbiakban: Kr.) hatálya alá tartozó településeken a folyékony hulladék kezelésének díját az (1) bekezdés
+b) pontjában és a (2) bekezdésben foglaltak alapján kell meghatározni a Kr. 2. §-ában meghatározott időpontoktól
+kezdődően, kivéve, ha a közműves szennyvíz elvezetéséhez és tisztításához szükséges beruházás
+a) vízjogi létesítési engedélye jogerőre emelkedett vagy
+b) támogatásárólaKörnyezetésEnergiaOperatívProgramIrányítóHatóságaáltaljóváhagyottdöntésmegszületett.”
+5. § Ez a rendelet 2010. december 30-án lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
