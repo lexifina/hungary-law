@@ -74,4 +74,4 @@ b) a Magyar Tudományos Akadémia mint köztestület nem gazdasági társasági 
 
 (11)
 
-(12) A családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai során a kincstár a magánszemélyek részére vagy jogán megállapított jogosultságokról és támogatásokról egységes szociális nyilvántartást vezet.
+(12) A családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai során a kincstár a magánszemélyek részére vagy jogán megállapított jogosultságokról és támogatásokról egységes szociális nyilvántartást vezet. Az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával a kincstár csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
