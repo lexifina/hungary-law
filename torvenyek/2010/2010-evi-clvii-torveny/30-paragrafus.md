@@ -3,9 +3,3 @@
 (2) A nyilvántartás adatkezelője az (1) bekezdésben meghatározott időpontig köteles biztosítani az adatfeldolgozás e törvénnyel megállapított rendelkezéseknek megfelelő végzését.
 
 (3) Felhatalmazást kap a Kormány, hogy az adatkezelő (2) bekezdés szerinti eljárásának részletes szabályait rendeletben állapítsa meg.
-
-Dr. Schmitt Pál s. k., köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
