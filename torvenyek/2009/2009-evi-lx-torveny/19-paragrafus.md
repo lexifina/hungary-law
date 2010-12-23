@@ -18,12 +18,12 @@ a) kizárólag olyan informatikai és kommunikációs rendszer alkalmazható, am
 
 b) a szolgáltatás nyújtásához kizárólag olyan, a vonatkozó szabványoknak és műszaki előírásoknak megfelelő, megbízható és a külön jogszabály szerint tanúsított informatikai rendszerek és termékek használhatók, amelyek lehetővé teszik a hiteles iratcserét, biztosítják az elektronikus iratok sértetlenségét és védettségét, valamint az informatikai rendszerekben tárolt adatok hiteles archiválását.
 
-(3) A központi rendszerben a továbbított üzenetekről vezetett naplófájlokat úgy kell megőrizni, hogy azokhoz csak a küldő, illetve a címzett írásos megbízásából, valamint az erre törvényben feljogosított szervezeteknek kizárólag olvasási joggal lehessen hozzáférni. A naplófájlokat az üzemeltető öt évig őrzi meg. Folyamatban levő eljárás esetén az eljárás bármely résztvevőjének kérésére a tárolást az ügy lezártáig meg kell hosszabbítani.
+(3) A központi rendszerben a továbbított üzenetekről vezetett naplófájlokat úgy kell megőrizni, hogy azokhoz csak a küldő, illetve a címzett írásos megbízásából, valamint az erre törvényben feljogosított szervezeteknek kizárólag olvasási joggal lehessen hozzáférni. A naplófájlokat a működtető öt évig őrzi meg. Folyamatban levő eljárás esetén az eljárás bármely résztvevőjének kérésére a tárolást az ügy lezártáig meg kell hosszabbítani.
 
-(4) Az elektronikus közszolgáltatás nyújtója, valamint a központi rendszer üzemeltetője köteles biztosítani, hogy az érintettek személyes, valamint az elektronikus tárhelyen elhelyezett adataik sorsát a közhasznúság követelményeinek megfelelő kapun keresztül nyomon tudják követni.
+(4) Az elektronikus közszolgáltatás nyújtója, valamint a központi rendszer működtetője köteles biztosítani, hogy az érintettek személyes, valamint az elektronikus tárhelyen elhelyezett adataik sorsát a közhasznúság követelményeinek megfelelő kapun keresztül nyomon tudják követni.
 
 (5) Amennyiben a központi rendszer használója igényli, és ehhez a nyilvános titkosító kulcsát a központi rendszer kulcstárában elhelyezte, az elektronikus közszolgáltatást nyújtó szervezet köteles a szolgáltatott információt titkosítottan megküldeni. Törvény egyes elektronikus szolgáltatások nyújtásának feltételévé teheti a nyilvános titkosító kulcs kulcstárba helyezését.
 
 (6) A központi rendszer működtetését és fejlesztését a közigazgatási informatikáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
 
-(7) A központi rendszert a Kormány által kijelölt közigazgatási szerv működteti, ehhez – a közigazgatási informatikáért felelős miniszter előzetes hozzájárulásával – más szolgáltató vagy szervezet közreműködését is igénybe veheti.
+(7) A központi rendszert a Kormány által rendeletben kijelölt államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet működteti.

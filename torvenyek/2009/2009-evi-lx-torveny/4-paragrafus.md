@@ -14,7 +14,7 @@ e) az üzemeltetés folytonosságát,
 
 f) az egyenlő bánásmód követelményének érvényesítését.
 
-(2) A központi rendszeren továbbított adatokból személyi profil (felhasználói szokások elemzése, közvetlen személyes adatokhoz és érdemi ügyadatokhoz való hozzáférés) nem képezhető. Ennek betartását a központi rendszer üzemeltetője technikai megoldással biztosítja.
+(2) A központi rendszeren továbbított adatokból személyi profil (felhasználói szokások elemzése, közvetlen személyes adatokhoz és érdemi ügyadatokhoz való hozzáférés) nem képezhető. Ennek betartását a központi rendszer létrehozásáért, működtetéséért, üzemeltetéséért és fejlesztéséért felelős jogi személy vagy más szervezet (a továbbiakban: a központi rendszer működtetője) technikai megoldással biztosítja.
 
 (3) Az elektronikus közszolgáltatások fejlesztése során biztosítani kell, hogy költségvetési vagy EU forrásokból létrehozott szoftverek, eljárási rendek, illetve más immateriális javak korlátlan felhasználási jogával az állam rendelkezzen, és a fejlesztések eredményei minden közigazgatási és közfeladatot ellátó szerv számára külön térítés nélkül hozzáférhetőek legyenek.
 
