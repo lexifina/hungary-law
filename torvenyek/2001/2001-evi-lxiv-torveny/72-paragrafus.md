@@ -2,4 +2,4 @@
 
 (2) A nyilvántartás a kulturális örökség elemeinek azonosításához szükséges adatokat és tényeket tartalmazza.
 
-(3)
+(3) A hatóság a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.

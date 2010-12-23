@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-64-00-00.14 |
 | 2010-08-01 | 2010. évi LXIX. törvény | 2001-64-00-00.15 |
 | 2010-08-28 | 2010. évi XC. törvény | 2001-64-00-00.16 |
+| 2010-12-23 | 2010. évi CLVII. törvény | 2001-64-00-00.17 |
