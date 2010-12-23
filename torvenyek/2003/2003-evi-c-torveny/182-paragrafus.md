@@ -30,7 +30,7 @@ i) az elektronikus hírközlési szolgáltatót, alkalmazottját, tagját, megb�
 
 j) az Egyetemes Elektronikus Hírközlési Támogatási Kassza létrehozására, működésére, forrásaira, felügyeletére, felhasználására és megszüntetésére vonatkozó részletes szabályokat;
 
-k) a zártcélú hálózatokra vonatkozó, e törvénytől eltérő szabályokat;
+k) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 
 l) a digitális rádió- és televízió-műsorok elérése érdekében a Hatóság által a 100. § (3) bekezdése alapján előírható kötelezettségek részletes szabályait;
 

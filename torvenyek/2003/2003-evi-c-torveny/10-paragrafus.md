@@ -28,7 +28,7 @@ m) eljár az elektronikus hírközlési szolgáltatások bejelentésével, a pol
 
 n) eljár a Kormány, illetve a miniszter hatáskörébe nem tartozó, polgári célú frekvenciagazdálkodással kapcsolatos ügyekben;
 
-o) zártcélú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a zártcélú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
+o)
 
 p) ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
 

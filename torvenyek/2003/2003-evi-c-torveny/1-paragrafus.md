@@ -16,4 +16,4 @@ c) a felhasználókra, a fogyasztókra és az előfizetőkre,
 
 d) az a) pontban foglalt tevékenységet vagy szolgáltatást végző, illetve nyújtó, vagy azzal összefüggő tevékenységet végző vagy azt igénybevevő belföldi vagy külföldi természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire.
 
-(2) E törvényt a kizárólag kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi, illetőleg védelmi igények kielégítését szolgáló – rendeltetésük szerint elkülönült – hírközlő hálózatok (zártcélú hálózatok) tekintetében a rájuk vonatkozó külön törvényekben és más jogszabályokban foglalt eltérésekkel kell alkalmazni.
+(2) E törvényt a jogszabályban meghatározott közfeladatok ellátásához szükséges olyan elektronikus hírközlő hálózat esetén, amely nyilvános elektronikus hírközlő hálózattól fizikailag vagy logikailag elkülönített (a továbbiakban: kormányzati célú hálózat), valamint az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenység tekintetében a rájuk vonatkozó külön jogszabályokban foglalt eltérésekkel kell alkalmazni.

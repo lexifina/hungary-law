@@ -12,7 +12,7 @@
 
 (6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek részére az elektronikus hírközlési szolgáltató egyedi kérelemre szolgáltat adatot, közvetlen elektronikus adatkapcsolat útján, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelményeknek megfelelő, az elektronikus hírközlési szolgáltató által kiépített felületen. Amennyiben az elektronikus adatkapcsolat útján az igényelt adat nem hozzáférhető, az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy – erre vonatkozó igény esetén – elektronikus adathordozón teljesíti. Az elektronikus adatkapcsolat kiépítését nem igénylő titkos információgyűjtésre felhatalmazott szervezetek számára az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy elektronikus adathordozón teljesíti. Az adatszolgáltatási felület valamennyi költségét az elektronikus hírközlési szolgáltató viseli, az adatszolgáltatást az elektronikus hírközlési szolgáltató térítésmentesen teljesíti.
 
-(7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a zártcélú hálózatok üzemeltetőivel.
+(7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a kormányzati célú hálózat működtetőjével.
 
 (8) Műszaki, forgalmi, katasztrófa- vagy egyéb veszély miatt keletkező üzemzavar elhárításához a szolgáltató köteles külön jogszabályban meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott felkészülési, zavarelhárítási és katasztrófaelhárítási tervekkel és a felkészülésre vonatkozó jogszabályokból következő feladatok ellátásához szükséges mértékű és összetételű tartalékokkal rendelkezni.
 
