@@ -1,4 +1,4 @@
-50. § (1) A kötvénynyilvántartásban kezelt személyes adatok tekintetében az adatkezelő a kötvénynyilvántartó szerv.
+50. § (1) A kötvénynyilvántartásban kezelt személyes adatok tekintetében az adatkezelő a kötvénynyilvántartó szerv. A kötvénynyilvántartó szerv a kötvénynyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (2) A kötvénynyilvántartásból nem vagy csak részlegesen szolgáltatható adat, ha az arra jogosult az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből törvény rendelkezése alapján korlátozta vagy megtiltotta. A korlátozásról, tiltásról, illetve azok feloldásáról a nyilvántartó szervet értesíteni kell.
 
