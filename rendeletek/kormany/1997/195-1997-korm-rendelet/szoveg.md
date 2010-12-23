@@ -12,11 +12,11 @@ együttesen kell figyelembe venni.
 
 R. 2. § (1)[^4]
 
-(2)[^5] A Tbj. 4. §-a n) pontjának 2. alpontja alkalmazásánál a tagságra kötelezett pályakezdő írásban nyilatkozik foglalkoztatójának arról, hogy magyarországi biztosítási jogviszonya alapján pályakezdőnek minősül.
+(2)[^5]
 
-(3)[^6] A Tbj. 4. §-a n) pontjának 2. alpontja, valamint o) pontjának 2. alpontja alkalmazásánál a tagságra kötelezett pályakezdő, valamint a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó a megállapodás kötésére irányuló szándéka bejelentését a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) szabályai szerint a nyugdíjbiztosítási igazgatási szervnél teszi meg, bejelentésében írásban nyilatkozik arról, hogy megállapodása alapján pályakezdőnek minősül.
+(3)[^6]
 
-(4)[^7] A (2) és (3) bekezdés szerinti nyilatkozatok tartalmi és formai követelményét a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) határozza meg, valamint gondoskodik a nyomtatványminta Pénzügyi Közlönyben és a honlapján történő közzétételéről. A magánnyugdíjpénztár a nyilatkozat megtételére alkalmas formanyomtatványt díjmentesen biztosítja a nyilatkozattevő számára.
+(4)[^7]
 
 (5)[^8]
 
@@ -172,79 +172,81 @@ R. 7/B. §[^60] (1) Ha az egyidejűleg több biztosítási jogviszonyban áll�
 
 R. 7/C. §[^62] (1)[^63] A magánnyugdíjpénztár-tag tagdíjfizetési kötelezettsége
 
-a) a Tbj. 4. §-a n) pontjának 2. alpontja szerint tagságra kötelezett pályakezdő első biztosítási kötelezettséggel járó jogviszonyának kezdő napjával [Mpt. 22. §-a (1) bekezdésének a) pontja], illetőleg a Tbj. 34. §-a (1) bekezdése alapján kötött megállapodásban meghatározott időponttal,
+a)[^64]
 
-b)[^64] a Tbj. 4. §-a o) pontjának 2. alpontja szerint a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy esetében a tagsági jogviszonyának első napjával [Mpt. 22. § (1) bekezdés b) pontja]
+b)[^65] a Tbj. 4. §-a o) pontjának 2. alpontja szerint a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy esetében a tagsági jogviszonyának első napjával [Mpt. 22. § (1) bekezdés b) pontja]
 
 kezdődően áll fenn.
 
 (2) Az Mpt. 24. §-ának (4)–(5) bekezdése alapján tagdíjfizetésre kötött megállapodás esetén a tagdíjfizetési kötelezettség a megállapodásban foglaltak szerint áll fenn.
 
-R. 8. §[^65] (1)[^66] A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem [Tbj. 34. §-ának (1), (5) és (8) bek.] szerzésére irányuló megállapodás megkötésére a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes Regionális Nyugdíjbiztosítási Igazgatóság, a Magyar Köztársaság területén lakóhellyel nem rendelkező, külföldön élő személy esetében [Tbj. 34. §-ának (5) bek.] a Közép-magyarországi Regionális Nyugdíjbiztosítási Igazgatóság illetékes.
+R. 8. §[^66] (1)[^67] A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem [Tbj. 34. §-ának (1), (5) és (8) bek.] szerzésére irányuló megállapodás megkötésére a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes Regionális Nyugdíjbiztosítási Igazgatóság, a Magyar Köztársaság területén lakóhellyel nem rendelkező, külföldön élő személy esetében [Tbj. 34. §-ának (5) bek.] a Közép-magyarországi Regionális Nyugdíjbiztosítási Igazgatóság illetékes.
 
-(2)[^67] A Tbj. 34. §-a (5) bekezdésének b) pontja szerinti megállapodás megkötésére a megállapodást kötő személyre – ha a megállapodást más javára kötik, a kedvezményezettre – irányadó öregségi nyugdíjkorhatár – figyelemmel a korkedvezményre is – betöltése után kerülhet sor.
+(2)[^68] A Tbj. 34. §-a (5) bekezdésének b) pontja szerinti megállapodás megkötésére a megállapodást kötő személyre – ha a megállapodást más javára kötik, a kedvezményezettre – irányadó öregségi nyugdíjkorhatár – figyelemmel a korkedvezményre is – betöltése után kerülhet sor.
 
-(3)[^68] Az egészségügyi szolgáltatás biztosítására kötött megállapodás [Tbj. 34. §-ának (10) bekezdése] megkötésére a REP jogosult.
+(3)[^69] Az egészségügyi szolgáltatás biztosítására kötött megállapodás [Tbj. 34. §-ának (10) bekezdése] megkötésére a REP jogosult.
 
-(4)[^69] A Tbj. 34. §-ának (10) bekezdésében meghatározott egészségügyi szolgáltatás biztosítására irányuló megállapodás megkötéséhez bemutatandó a kedvezményezett személyazonosságát igazoló okmány, a lakó-, tartózkodási-, illetőleg szálláshelyet igazoló dokumentum, külföldi állampolgár esetében az idegenrendészeti hatóság által kiadott, tartózkodásra jogosító okmány.
+(4)[^70] A Tbj. 34. §-ának (10) bekezdésében meghatározott egészségügyi szolgáltatás biztosítására irányuló megállapodás megkötéséhez bemutatandó a kedvezményezett személyazonosságát igazoló okmány, a lakó-, tartózkodási-, illetőleg szálláshelyet igazoló dokumentum, külföldi állampolgár esetében az idegenrendészeti hatóság által kiadott, tartózkodásra jogosító okmány.
 
-R. 8/A. §[^70] Megállapodás alapján megfizetett járulékot, magán-nyugdíjpénztári tagdíjat – az Art. szerinti elévülési időn belül – vissza kell fizetni
+R. 8/A. §[^71] Megállapodás alapján megfizetett járulékot, magán-nyugdíjpénztári tagdíjat – az Art. szerinti elévülési időn belül – vissza kell fizetni
 
 a) ha a megállapodás nem felel meg a Tbj. 34. § (1), (5) és (8) bekezdésében foglaltaknak (érvénytelen megállapodás), illetőleg
 
 b) arra az időtartamra vonatkozóan, amely időtartamot a nyugellátás megállapításakor szolgálati időként nem vettek figyelembe,
 
-c)[^71] abban az esetben, ha utólag a megállapodást kötő személy a 9/C. §-ban meghatározott okirattal igazolja, hogy a megállapodás időtartama alatt biztosítotti jogviszonyt eredményező jogviszonyban állt.
+c)[^72] abban az esetben, ha utólag a megállapodást kötő személy a 9/C. §-ban meghatározott okirattal igazolja, hogy a megállapodás időtartama alatt biztosítotti jogviszonyt eredményező jogviszonyban állt.
 
-R. 9. §[^72] (1) A kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás a Tbj. 10. § (2) bekezdésében meghatározott időtartam alatt köteles egészségügyi szolgáltatási járulékot fizetni.
+R. 9. §[^73] (1) A kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás a Tbj. 10. § (2) bekezdésében meghatározott időtartam alatt köteles egészségügyi szolgáltatási járulékot fizetni.
 
-(2)[^73]
+(2)[^74]
 
-R. 9/A. § (1)[^74] A biztosított a magánnyugdíjpénztárhoz való csatlakozása visszavonásáról illetőleg a társadalombiztosítási nyugdíjrendszerbe történő visszalépéséről szóló nyilatkozatáról az érintett magánnyugdíjpénztár mellett egyidejűleg valamennyi foglalkoztatóját is tájékoztatni köteles. A nyilatkozatban meg kell jelölni a visszalépés, illetőleg a pénztártagság megszüntetésének napját, amely a nyilatkozattétel napjától korábbi időpont nem lehet.
+R. 9/A. § (1)[^75] A biztosított a magánnyugdíjpénztárhoz való csatlakozása visszavonásáról illetőleg a társadalombiztosítási nyugdíjrendszerbe történő visszalépéséről szóló nyilatkozatáról az érintett magánnyugdíjpénztár mellett egyidejűleg valamennyi foglalkoztatóját is tájékoztatni köteles. A nyilatkozatban meg kell jelölni a visszalépés, illetőleg a pénztártagság megszüntetésének napját, amely a nyilatkozattétel napjától korábbi időpont nem lehet.
 
-(2)[^75] A magánnyugdíjpénztár a Tbj. 45. § (4) bekezdésében meghatározott adatszolgáltatást a biztosított lakóhelye szerint illetékes regionális nyugdíj-biztosítási igazgatósághoz nyújtja be, egyidejűleg teljesíti az egyéni számlán jóváírt, tagdíj-kiegészítéssel csökkentett összeg átutalását. A magánnyugdíjpénztár az előírt adatszolgáltatást az Mpt. 24. § (8) bekezdése és 29. § (9) bekezdés b) pontja szerinti átutalás esetén is teljesíti. A PSZÁF gondoskodik az adatszolgáltatás tartalmának és módjának a Pénzügyi Közlönyben, valamint a honlapján történő közzétételéről.
+(2)[^76] A magánnyugdíjpénztár a Tbj. 45. § (4) bekezdésében meghatározott adatszolgáltatást a biztosított lakóhelye szerint illetékes regionális nyugdíj-biztosítási igazgatósághoz nyújtja be, egyidejűleg teljesíti az egyéni számlán jóváírt, tagdíj-kiegészítéssel csökkentett összeg átutalását. A magánnyugdíjpénztár az előírt adatszolgáltatást az Mpt. 24. § (8) bekezdése és 29. § (9) bekezdés b) pontja szerinti átutalás esetén is teljesíti. A PSZÁF gondoskodik az adatszolgáltatás tartalmának és módjának a Pénzügyi Közlönyben, valamint a honlapján történő közzétételéről.
 
 (3) A (2) bekezdés szerint kell eljárni akkor is, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 28. §-ának (2) bekezdése alapján a rokkant, illetőleg a Tny. 44/C. §-ának (1) bekezdése alapján a jogszerző saját döntése szerint az egyéni számláján lévő összeget, illetve a jogszerzőnek a felhalmozási időszakban bekövetkezett halála esetén a hozzátartozó döntése alapján az egyéni számlán a rá eső részt kell átutalni a Nyugdíjbiztosítási Alap javára.
 
-R. 9/B. §[^76] A rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény alapján folyósított rehabilitációs járadékból levont tagdíjat a nyugdíjbiztosítási igazgatási szerv havonta, az ellátás folyósítását követő hónap 5. napjáig utalja át az érintett magánnyugdíjpénztárhoz, és egyidejűleg közli a tagdíjak elszámolásához szükséges adatokat. Az adatszolgáltatás módjára és tartalmára vonatkozóan a nyugdíjbiztosítási igazgatási szerv a magánnyugdíjpénztárakkal 2008. január 31-éig megállapodást köt.
+(4)[^77] Az Mpt. 123/A. §-ában meghatározott esetben a magánnyugdíjpénztár a módosítási kérelemhez kapcsolódó értesítést a biztosított lakóhelye szerint illetékes nyugdíj-biztosítási igazgatósághoz, magyarországi lakóhely hiányában a fővárosi nyugdíj-biztosítási igazgatósághoz nyújtja be.
 
-R. 9/C. §[^77] A Tbj. 44/C. §-ában meghatározott eljárás során felhasználható minden olyan közokirat és teljes bizonyító erejű magánokirat, valamint minden más, erre alkalmas további bizonyítási eszköz, amely a biztosítással járó jogviszony fennállását, illetve az egészségügyi szolgáltatásra való jogosultságot valószínűsíti.
+R. 9/B. §[^78] A rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény alapján folyósított rehabilitációs járadékból levont tagdíjat a nyugdíjbiztosítási igazgatási szerv havonta, az ellátás folyósítását követő hónap 5. napjáig utalja át az érintett magánnyugdíjpénztárhoz, és egyidejűleg közli a tagdíjak elszámolásához szükséges adatokat. Az adatszolgáltatás módjára és tartalmára vonatkozóan a nyugdíjbiztosítási igazgatási szerv a magánnyugdíjpénztárakkal 2008. január 31-éig megállapodást köt.
 
-R. 10. §[^78] A Tbj. 20. és 24. §-ában foglalt rendelkezések alkalmazása során a minimálbér kétszeresét csökkenteni kell a minimálbér kétszeresének egy naptári napra jutó összege és azon időszak naptári napjai számának szorzatával, amelyre a foglalkoztatottnak járulékalapot képező jövedelme nem volt, így különösen ha táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben részesült vagy fizetés nélküli szabadságon volt. E rendelkezést kell alkalmazni akkor is, ha a biztosítással járó jogviszony hónap közben kezdődött vagy szűnt meg.
+R. 9/C. §[^79] A Tbj. 44/C. §-ában meghatározott eljárás során felhasználható minden olyan közokirat és teljes bizonyító erejű magánokirat, valamint minden más, erre alkalmas további bizonyítási eszköz, amely a biztosítással járó jogviszony fennállását, illetve az egészségügyi szolgáltatásra való jogosultságot valószínűsíti.
 
-R. 10/A. §[^79]
+R. 10. §[^80] A Tbj. 20. és 24. §-ában foglalt rendelkezések alkalmazása során a minimálbér kétszeresét csökkenteni kell a minimálbér kétszeresének egy naptári napra jutó összege és azon időszak naptári napjai számának szorzatával, amelyre a foglalkoztatottnak járulékalapot képező jövedelme nem volt, így különösen ha táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben részesült vagy fizetés nélküli szabadságon volt. E rendelkezést kell alkalmazni akkor is, ha a biztosítással járó jogviszony hónap közben kezdődött vagy szűnt meg.
 
-R. 11. §[^80]
+R. 10/A. §[^81]
 
-R. 12. §[^81] (1)[^82]
+R. 11. §[^82]
 
-(2)[^83]
+R. 12. §[^83] (1)[^84]
 
-R. 13. §[^84]
+(2)[^85]
 
-R. 13/A. §[^85] (1)[^86]
+R. 13. §[^86]
 
-(2)[^87]
+R. 13/A. §[^87] (1)[^88]
 
-R. 14. §[^88]
+(2)[^89]
 
-R. 15. §[^89]
+R. 14. §[^90]
 
-R. 16. §[^90] (1) A (2) bekezdésben nem említett esetben a külföldi pénznemben keletkezett bevételből a járulékalapot a Magyar Nemzeti Bank (a továbbiakban: MNB) hivatalos – a jövedelem megszerzésének napját megelőző hónap 15. napján érvényes – devizaárfolyamának alkalmazásával kell forintra átszámítani. Olyan külföldi pénznem esetén, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot kell a forintra történő átszámításhoz figyelembe venni.
+R. 15. §[^91]
+
+R. 16. §[^92] (1) A (2) bekezdésben nem említett esetben a külföldi pénznemben keletkezett bevételből a járulékalapot a Magyar Nemzeti Bank (a továbbiakban: MNB) hivatalos – a jövedelem megszerzésének napját megelőző hónap 15. napján érvényes – devizaárfolyamának alkalmazásával kell forintra átszámítani. Olyan külföldi pénznem esetén, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot kell a forintra történő átszámításhoz figyelembe venni.
 
 (2) Az (1) bekezdés rendelkezésétől eltérően, ha a külföldi pénznemben keletkezett bevételből az Szja tv. szerinti adóelőleg-alap számításnál figyelembe vett jövedelem képezi a járulékalapot, a forintra történő átszámítás megegyezik az adóelőleg-alap számításnál figyelembe vett jövedelem megállapításakor az Szja tv. szabályai szerint alkalmazott átszámítással.
 
-R. 17. §[^91] (1)[^92] A Tbj. 46. §-ának (1) bekezdése szerinti nyilvántartás tartalmazza a biztosítással járó jogviszony megnevezését, a biztosítási kötelezettség kezdetét, továbbá az igazolás átvételének elismerését.
+R. 17. §[^93] (1)[^94] A Tbj. 46. §-ának (1) bekezdése szerinti nyilvántartás tartalmazza a biztosítással járó jogviszony megnevezését, a biztosítási kötelezettség kezdetét, továbbá az igazolás átvételének elismerését.
 
 (2) Igazolásnak minősül a foglalkoztatási jogviszonyra irányuló szerződés, amennyiben az a foglalkoztatás (tevékenység) megkezdésekor a foglalkoztatott részére átadásra került.
 
-R. 17/A. §[^93]
+R. 17/A. §[^95]
 
-R. 18. §[^94] (1)[^95] Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény hatálya alá nem tartozó egyéni vállalkozó 15 napon belül köteles bejelenteni a telephelye (állandó lakhelye) szerint illetékes állami adóhatósághoz
+R. 18. §[^96] (1)[^97] Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény hatálya alá nem tartozó egyéni vállalkozó 15 napon belül köteles bejelenteni a telephelye (állandó lakhelye) szerint illetékes állami adóhatósághoz
 
-a)[^96] a magán-állatorvosi tevékenység gyakorlására jogosító igazolvány kiállításának, bevonásának, valamint a gyógyszerészi magántevékenység engedélyezésének, megszűnésének időpontját,
+a)[^98] a magán-állatorvosi tevékenység gyakorlására jogosító igazolvány kiállításának, bevonásának, valamint a gyógyszerészi magántevékenység engedélyezésének, megszűnésének időpontját,
 
-b)[^97] az ügyvéd és az egyéni szabadalmi ügyvivő az ügyvédi, a szabadalmi ügyvivői kamarai tagság kezdetének, megszűnésének, valamint szüneteltetésének időpontját,
+b)[^99] az ügyvéd és az egyéni szabadalmi ügyvivő az ügyvédi, a szabadalmi ügyvivői kamarai tagság kezdetének, megszűnésének, valamint szüneteltetésének időpontját,
 
 c) a közjegyző és az önálló bírósági végrehajtó a szolgálat keletkezésének, megszűnésének időpontját.
 
@@ -256,15 +258,15 @@ a) a Tbj. 4. §-ának f) pontja szerinti ellátást állapítottak meg részére
 
 b) legalább heti 36 órás munkaviszonyt létesített, vagy ilyen jogviszonya megszűnt, a létesítéstől, a megszüntetésétől számított,
 
-c)[^98] közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, a tanulói, hallgatói jogviszonyának kezdő időpontjától számított, illetőleg a vállalkozói tevékenység kezdetét követő
+c)[^100] közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, a tanulói, hallgatói jogviszonyának kezdő időpontjától számított, illetőleg a vállalkozói tevékenység kezdetét követő
 
 15 napon belül az (1) bekezdésben említett igazgatási szervnél bejelentést tesz.
 
-R. 19. §[^99] (1)[^100] A foglalkoztató és a pénztártag (az egyéni vállalkozó pénztártag kivételével) írásban köteles bejelenteni a magánnyugdíjpénztárnak az Mpt. 26. § (5) bekezdése alapján az általa vállalt tagdíjkiegészítés összegét (mértékét) és fizetésének kezdő, valamint a tagdíjkiegészítés vállalása megszűnésének időpontját.
+R. 19. §[^101] (1)[^102] A foglalkoztató és a pénztártag (az egyéni vállalkozó pénztártag kivételével) írásban köteles bejelenteni a magánnyugdíjpénztárnak az Mpt. 26. § (5) bekezdése alapján az általa vállalt tagdíjkiegészítés összegét (mértékét) és fizetésének kezdő, valamint a tagdíjkiegészítés vállalása megszűnésének időpontját.
 
-(2)[^101]
+(2)[^103]
 
-(3)[^102] Az egyéni vállalkozó írásban köteles bejelenteni az érintett magánnyugdíjpénztárnak
+(3)[^104] Az egyéni vállalkozó írásban köteles bejelenteni az érintett magánnyugdíjpénztárnak
 
 a) az Mpt. 26. § (5) bekezdése alapján vállalt tagdíjkiegészítés összegét (mértékét) és fizetésének kezdő, valamint a tagdíjkiegészítés vállalása megszűnésének időpontját,
 
@@ -272,19 +274,19 @@ b) a Tbj. 31. § (4) bekezdés hatálya alá tartozását,
 
 c) az egyszerűsített vállalkozói adó (a továbbiakban: eva) szabályai szerint adózó egyéni vállalkozó eva-alanyiságának kezdetét és megszűnését,
 
-d)[^103] eva-alanyiság esetén a tevékenységre jellemző keresetnél magasabb járulékalap utáni járulékfizetés vállalását.
+d)[^105] eva-alanyiság esetén a tevékenységre jellemző keresetnél magasabb járulékalap utáni járulékfizetés vállalását.
 
-(4)[^104] A nyugellátás szerzése érdekében a Tbj. 34. §-ának (1) bekezdése alapján megállapodás kötését kezdeményező személy nyilatkozik arról, hogy pályakezdőnek minősül-e a Tbj. 4. §-a n) pontjának 2. alpontja szerint. A megállapodás megkötésére a pályakezdő magánnyugdíjpénztári tagsága létrejöttével, a tagsági okirat benyújtása (bemutatása) alapján a 7/C. § (1) bekezdésében meghatározott időponttal kerül sor. A pályakezdővel kötendő megállapodás alapján fizetendő járulék mértéke a tagdíj összegével csökkentett összegben kerül megállapításra.
+(4)[^106]
 
-(5)[^105] Az (1) és (3) bekezdésben meghatározott, írásban történő kötelezettségvállalásnak minősül a tagdíj-kiegészítés Tbj. 50. §-a szerinti bevallása is, melynek alapján a Tbj. 51. § (9) bekezdésében foglalt kötelezettség a vállalás megszűnésének bejelentéséig fennáll.
+(5)[^107] Az (1) és (3) bekezdésben meghatározott, írásban történő kötelezettségvállalásnak minősül a tagdíj-kiegészítés Tbj. 50. §-a szerinti bevallása is, melynek alapján a Tbj. 51. § (9) bekezdésében foglalt kötelezettség a vállalás megszűnésének bejelentéséig fennáll.
 
-(6)[^106]
+(6)[^108]
 
-R. 19/A. §[^107] (1) Az egyik magánnyugdíjpénztárból a másik magánnyugdíjpénztárba átlépett pénztártagra (a továbbiakban: átlépett pénztártag) az átlépés napjával kezdődő bevallási időszak(ok)ra vonatkozó tagdíjbevallási és befizetési kötelezettséget, továbbá ezen bevallások helyesbítéseit és önellenőrzéseit, valamint az átlépés napjától kezdődően az átlépés napját megelőző időszakra vonatkozó pótbevallásokat, továbbá az átlépés napját megelőző időszakra vonatkozó bevallások önellenőrzéseit, helyesbítéseit az átvevő pénztár feltüntetésével és annak tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlájára kell teljesíteni a Tbj. 50. §-ban foglaltak szerint.
+R. 19/A. §[^109] (1) Az egyik magánnyugdíjpénztárból a másik magánnyugdíjpénztárba átlépett pénztártagra (a továbbiakban: átlépett pénztártag) az átlépés napjával kezdődő bevallási időszak(ok)ra vonatkozó tagdíjbevallási és befizetési kötelezettséget, továbbá ezen bevallások helyesbítéseit és önellenőrzéseit, valamint az átlépés napjától kezdődően az átlépés napját megelőző időszakra vonatkozó pótbevallásokat, továbbá az átlépés napját megelőző időszakra vonatkozó bevallások önellenőrzéseit, helyesbítéseit az átvevő pénztár feltüntetésével és annak tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlájára kell teljesíteni a Tbj. 50. §-ban foglaltak szerint.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, az átlépés napját megelőző bevallási időszakra vonatkozó bevallások önellenőrzéseit és helyesbítéseit, és az átlépés napját megelőző időszakra vonatkozó pótbevallásokat, ha azok benyújtására az átlépés napját megelőzően, illetve az átlépés napját magában foglaló hónapban kerül sor, még az átadó pénztár feltüntetésével, annak tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlájára kell teljesíteni a Tbj. 50. §-ban foglaltak szerint.
 
-R. 20. §[^108] (1) A magánnyugdíjpénztár az Art. 52. § (7) bekezdésében meghatározott, az állami adóhatóság által teljesített adatszolgáltatás és a tagdíj (késedelmi pótlék, önellenőrzési pótlék) átutalás adatait a bevallási időszakra pénztáranként, az adott foglalkoztató és a foglalkoztatóhoz tartozó tagok vonatkozásában az adatszolgáltatás beérkezését követő hónap utolsó napjáig egyezteti.
+R. 20. §[^110] (1) A magánnyugdíjpénztár az Art. 52. § (7) bekezdésében meghatározott, az állami adóhatóság által teljesített adatszolgáltatás és a tagdíj (késedelmi pótlék, önellenőrzési pótlék) átutalás adatait a bevallási időszakra pénztáranként, az adott foglalkoztató és a foglalkoztatóhoz tartozó tagok vonatkozásában az adatszolgáltatás beérkezését követő hónap utolsó napjáig egyezteti.
 
 (2) A magánnyugdíjpénztár a Tbj. 51. § bekezdése szerinti egyeztetés lefolytatása iránti kérelemben az állami adóhatóságot keresi meg, ha a saját nyilvántartása, az adóhatóság adatszolgáltatása és a tagdíjfizetés között eltérést, vagy a bevallási kötelezettség téves, hibás vagy hiányos teljesítését állapítja meg, továbbá ha a nála nyilvántartott pénztártagra a tárgyévre vonatkozóan vagy a tárgyévben adatszolgáltatás, valamint befizetés sem érkezett, és ennek oka a pénztárnál nem ismert.
 
@@ -306,29 +308,29 @@ g) minden olyan tényt, körülményt, amely a hatósági eljárás lefolytatás
 
 (4) A megkeresést a magánnyugdíjpénztár az (1) bekezdés szerint a pénztárnál lefolytatott egyeztetést követően – a (3) bekezdés f) pontjában foglalt eset kivételével – havonta, az adatátadás módjára kötött megállapodásban foglaltaknak megfelelően elektronikus úton küldi meg az adóhatóságnak, az egyeztetett időszakban feltárt hiba, hiányosság esetén az egyeztetést követő hónap utolsó napjáig.
 
-(5)[^109] Az adóhatóság a pénztári megkeresés alapján lefolytatott egyeztetés eredményéről értesíti a pénztárat. Amennyiben a pénztári megkeresés alapján az egyeztetés nem vezet eredményre, az adóhatóság az Art. szerinti eljárást folytatja le.
+(5)[^111] Az adóhatóság a pénztári megkeresés alapján lefolytatott egyeztetés eredményéről értesíti a pénztárat. Amennyiben a pénztári megkeresés alapján az egyeztetés nem vezet eredményre, az adóhatóság az Art. szerinti eljárást folytatja le.
 
-(6)[^110] Ha a pénztár részére – más pénztárnál fennálló tagsági jogviszonyra tekintettel – tévesen érkezik bevallási adatszolgáltatás az adóhatóságtól, a pénztár a Pénztárak Központi Nyilvántartásával (a továbbiakban: PKN) történt egyeztetést követően a (2)–(4) bekezdésben foglaltak szerinti megkeresésben értesíti az adóhatóságot. Az értesítés alapján az állami adóhatóság a bevallás helyesbítésére szólítja fel a foglalkoztatót. A megkeresésben fel kell tüntetni a pénztártag nevét és adóazonosító jelét, a foglalkoztató nevét, adószámát és azt a bevallási időszakot, amelyre a téves bevallás vonatkozott, továbbá meg kell nevezni azt a magánnyugdíjpénztárt, ahol a pénztártagság a PKN adatai alapján fennáll. A foglalkoztató helyesbítése, önellenőrzése alapján megállapított tagdíjtúlfizetés összegét a magánnyugdíjpénztár az adóhatóság értesítése alapján visszautalja a Magyar Államkincstár által vezetett, erre a célra megnyitott technikai számlára, és közli a jogosult pénztár adatait. Az adóhatóság a foglalkoztató kérelmére (átvezetési kérelem) intézkedik a tagdíjtúlfizetés összegének a jogosult pénztár részére történő átutalásáról.
+(6)[^112] Ha a pénztár részére – más pénztárnál fennálló tagsági jogviszonyra tekintettel – tévesen érkezik bevallási adatszolgáltatás az adóhatóságtól, a pénztár a Pénztárak Központi Nyilvántartásával (a továbbiakban: PKN) történt egyeztetést követően a (2)–(4) bekezdésben foglaltak szerinti megkeresésben értesíti az adóhatóságot. Az értesítés alapján az állami adóhatóság a bevallás helyesbítésére szólítja fel a foglalkoztatót. A megkeresésben fel kell tüntetni a pénztártag nevét és adóazonosító jelét, a foglalkoztató nevét, adószámát és azt a bevallási időszakot, amelyre a téves bevallás vonatkozott, továbbá meg kell nevezni azt a magánnyugdíjpénztárt, ahol a pénztártagság a PKN adatai alapján fennáll. A foglalkoztató helyesbítése, önellenőrzése alapján megállapított tagdíjtúlfizetés összegét a magánnyugdíjpénztár az adóhatóság értesítése alapján visszautalja a Magyar Államkincstár által vezetett, erre a célra megnyitott technikai számlára, és közli a jogosult pénztár adatait. Az adóhatóság a foglalkoztató kérelmére (átvezetési kérelem) intézkedik a tagdíjtúlfizetés összegének a jogosult pénztár részére történő átutalásáról.
 
-(7)[^111]
+(7)[^113]
 
-(8)[^112] A pénztár évente egy alkalommal, a tárgyévre vonatkozóan a tárgyévet követő év május 31-éig köteles a tagok egyéni számláit felülvizsgálni. Azokra a bevallási időszakokra vonatkozóan, amelyekre sem adatszolgáltatás, sem befizetés nem érkezett, és a korábbi adatszolgáltatás alapján nem állapítható meg a tagdíjfizetést megalapozó jogviszony megszűnése, a pénztár a felülvizsgálatot követő 30 napon belül a (3)–(4) bekezdésben foglaltak szerinti megkeresést küld az állami adóhatóság részére.
+(8)[^114] A pénztár évente egy alkalommal, a tárgyévre vonatkozóan a tárgyévet követő év május 31-éig köteles a tagok egyéni számláit felülvizsgálni. Azokra a bevallási időszakokra vonatkozóan, amelyekre sem adatszolgáltatás, sem befizetés nem érkezett, és a korábbi adatszolgáltatás alapján nem állapítható meg a tagdíjfizetést megalapozó jogviszony megszűnése, a pénztár a felülvizsgálatot követő 30 napon belül a (3)–(4) bekezdésben foglaltak szerinti megkeresést küld az állami adóhatóság részére.
 
-(9)[^113] A pénztár legkésőbb a tárgyévet követő év június 30-áig írásban értesítést küld a tagdíjbevallást és befizetést teljesítő foglalkoztatók, egyéni vállalkozók részére a tagdíjfizetési kötelezettség alapján a pénztárhoz befolyt tagdíj összegéről, a bevallási és befizetési adatok részletezésével. Az értesítésben egy teljes évre (12 hónapra) vonatkozó adatokat kell közölni.
+(9)[^115] A pénztár legkésőbb a tárgyévet követő év június 30-áig írásban értesítést küld a tagdíjbevallást és befizetést teljesítő foglalkoztatók, egyéni vállalkozók részére a tagdíjfizetési kötelezettség alapján a pénztárhoz befolyt tagdíj összegéről, a bevallási és befizetési adatok részletezésével. Az értesítésben egy teljes évre (12 hónapra) vonatkozó adatokat kell közölni.
 
-(10)[^114] A pénztár a foglalkoztatói, az egyéni vállalkozói és a mezőgazdasági őstermelői bevallási és befizetési adatokat évente egy alkalommal – a járulék-bevallási gyakoriságnak megfelelő bontásban – az adatátadás módjára kötött megállapodásban foglaltaknak megfelelően, elektronikus úton, az állami adóhatóság által a tárgyévet követő év július 31-éig átadott adatok alapján, a tárgyévet követő év szeptember 30-áig egyezteti az állami adóhatósággal.
+(10)[^116] A pénztár a foglalkoztatói, az egyéni vállalkozói és a mezőgazdasági őstermelői bevallási és befizetési adatokat évente egy alkalommal – a járulék-bevallási gyakoriságnak megfelelő bontásban – az adatátadás módjára kötött megállapodásban foglaltaknak megfelelően, elektronikus úton, az állami adóhatóság által a tárgyévet követő év július 31-éig átadott adatok alapján, a tárgyévet követő év szeptember 30-áig egyezteti az állami adóhatósággal.
 
-(11)[^115]
+(11)[^117]
 
-R. 20/A. §[^116] (1)[^117] A Tbj. 50. § (7) bekezdése szerinti átutalással egyidejűleg a Magyar Államkincstár a pénztárak és az állami adóhatóság közötti megállapodásban foglaltaknak megfelelően átadja a pénztár részére a befizetésre vonatkozó pénzforgalmi számlakivonat, csekkes befizetés esetén a postai képfájlokat és a postai analitikus állomány alábbi adatait:
+R. 20/A. §[^118] (1)[^119] A Tbj. 50. § (7) bekezdése szerinti átutalással egyidejűleg a Magyar Államkincstár a pénztárak és az állami adóhatóság közötti megállapodásban foglaltaknak megfelelően átadja a pénztár részére a befizetésre vonatkozó pénzforgalmi számlakivonat, csekkes befizetés esetén a postai képfájlokat és a postai analitikus állomány alábbi adatait:
 
-a)[^118] pénzforgalmi számláról történő utalás esetén
+a)[^120] pénzforgalmi számláról történő utalás esetén
 
 aa) a befizető (foglalkoztató) neve,
 
-ab)[^119] a befizető pénzforgalmi számlaszáma,
+ab)[^121] a befizető pénzforgalmi számlaszáma,
 
-ac)[^120] a Magyar Államkincstárnál vezetett pénzforgalmi számlára érkezés dátuma,
+ac)[^122] a Magyar Államkincstárnál vezetett pénzforgalmi számlára érkezés dátuma,
 
 ad) az átutalás összege,
 
@@ -352,7 +354,7 @@ bg) a képi állomány megküldése.
 
 (2) Ha a pénztár a befizetést az (1) bekezdésben meghatározott bármely adat hiányában nem tudja azonosítani, a befizetés azonosítása céljából az adatátadás módjára kötött megállapodásban foglaltaknak megfelelően elektronikus úton haladéktalanul megkeresi az adóhatóságot. Az adóhatóság haladéktalanul tájékoztatja a pénztárat a befizető általa nyilvántartott és az Art. 52. § (7) bekezdése szerint közölhető azonosító adatairól.
 
-R. 21. §[^121] (1)[^122] Az állami adóhatóság a magánnyugdíjpénztár 20. § (4) és (8) bekezdésében meghatározott megkeresése alapján a foglalkoztató, egyéni vállalkozó tagdíjbevallási és tagdíjfizetési kötelezettsége tekintetében az egyeztetés eredménytelensége esetén vizsgálatot tart és lefolytatja az Art. szerinti eljárást, valamint annak eredményéről értesíti a pénztárat. Mulasztás megállapítása esetén határozatában a követelés jogosultjaként az eljárást kezdeményező magánnyugdíjpénztárat jelöli meg. Az adóhatóság a határozatához mellékeli a megállapítás alapját képező egyénenkénti tagdíj- és a késedelmi pótlék kimutatást havi bontásban.
+R. 21. §[^123] (1)[^124] Az állami adóhatóság a magánnyugdíjpénztár 20. § (4) és (8) bekezdésében meghatározott megkeresése alapján a foglalkoztató, egyéni vállalkozó tagdíjbevallási és tagdíjfizetési kötelezettsége tekintetében az egyeztetés eredménytelensége esetén vizsgálatot tart és lefolytatja az Art. szerinti eljárást, valamint annak eredményéről értesíti a pénztárat. Mulasztás megállapítása esetén határozatában a követelés jogosultjaként az eljárást kezdeményező magánnyugdíjpénztárat jelöli meg. Az adóhatóság a határozatához mellékeli a megállapítás alapját képező egyénenkénti tagdíj- és a késedelmi pótlék kimutatást havi bontásban.
 
 (2) Az állami adóhatóság által lefolytatott eljárás eredményeként megállapított elmaradt járulék-, illetőleg magán-nyugdíjpénztári tagdíjkövetelés kapcsán befolyt összeget a társadalombiztosítás pénzügyi alapjai és az érintett magánnyugdíjpénztárak között a követelés arányában osztja meg.
 
@@ -360,47 +362,47 @@ R. 21. §[^121] (1)[^122] Az állami adóhatóság a magánnyugdíjpénztár 2
 
 (4) Az állami adóhatóság az általa indított végrehajtási eljárásról és annak eredményéről, a felszámolási eljárás során a pénztár képviseletében benyújtott hitelezői igényről, a behajtott tagdíj, késedelmi pótlék és önellenőrzési pótlék összegéről, továbbá a behajthatatlan tagdíjtartozás tényéről és összegéről havonta az adatátadás módjára kötött megállapodásban foglaltaknak megfelelően elektronikus úton értesíti az érintett magánnyugdíjpénztárat. Felszámolási eljárás esetén a behajthatatlanság tényét a bíróság felszámolási eljárást befejező jogerős végzése, illetőleg a felszámoló által adott nyilatkozat alapján a pénztár állapítja meg.
 
-(5)[^123] Ha az állami adóhatóság megállapítja, hogy a tagdíj és a késedelmi pótlék (önellenőrzési pótlék) számlán tartozás és túlfizetés is mutatkozik, az egyes számlák közötti rendezés, átvezetés érdekében nyilatkozatra szólítja fel a befizetésre kötelezettet. Ha a foglalkoztató a felszólításra az adott határidőn belül nem válaszol, az adóhatóság az adónemek közötti, hivatalból történő átvezetésről értesíti a magánnyugdíjpénztárt. Az értesítés alapján a magánnyugdíjpénztár az egyik számlán lévő túlfizetést a másik számlán lévő tartozás rendezésére átvezeti.
+(5)[^125] Ha az állami adóhatóság megállapítja, hogy a tagdíj és a késedelmi pótlék (önellenőrzési pótlék) számlán tartozás és túlfizetés is mutatkozik, az egyes számlák közötti rendezés, átvezetés érdekében nyilatkozatra szólítja fel a befizetésre kötelezettet. Ha a foglalkoztató a felszólításra az adott határidőn belül nem válaszol, az adóhatóság az adónemek közötti, hivatalból történő átvezetésről értesíti a magánnyugdíjpénztárt. Az értesítés alapján a magánnyugdíjpénztár az egyik számlán lévő túlfizetést a másik számlán lévő tartozás rendezésére átvezeti.
 
-(6)[^124] A Tbj. 54. § (2) bekezdés a) pontja szerint hozott jogerős határozatot az OEP – a követelés- és az igényérvényesítésre meghatározott határidőre is figyelemmel – közli a nyugdíjbiztosítási igazgatási szervvel. A Tbj. 54. § (2) bekezdés b) pontja alapján hozott jogerős határozatot az állami adóhatóság közli az egészségbiztosítási és nyugdíjbiztosítási igazgatási szervvel.
+(6)[^126] A Tbj. 54. § (2) bekezdés a) pontja szerint hozott jogerős határozatot az OEP – a követelés- és az igényérvényesítésre meghatározott határidőre is figyelemmel – közli a nyugdíjbiztosítási igazgatási szervvel. A Tbj. 54. § (2) bekezdés b) pontja alapján hozott jogerős határozatot az állami adóhatóság közli az egészségbiztosítási és nyugdíjbiztosítási igazgatási szervvel.
 
-R. 21/A. §[^125] A Magyar Államkincstár által vezetett, magánnyugdíjpénztáranként megnyitott tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlákra teljesített téves befizetés összegét a foglalkoztató az Art. szabályai szerint az adóhatóságtól kérheti vissza. A magánnyugdíjpénztár a téves befizetés összegét az adóhatóság adatszolgáltatása alapján 8 napon belül visszautalja a Magyar Államkincstár által vezetett, erre a célra megnyitott technikai számlára.
+R. 21/A. §[^127] A Magyar Államkincstár által vezetett, magánnyugdíjpénztáranként megnyitott tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlákra teljesített téves befizetés összegét a foglalkoztató az Art. szabályai szerint az adóhatóságtól kérheti vissza. A magánnyugdíjpénztár a téves befizetés összegét az adóhatóság adatszolgáltatása alapján 8 napon belül visszautalja a Magyar Államkincstár által vezetett, erre a célra megnyitott technikai számlára.
 
 (2) A tárgyévre vonatkozó, és a tárgyhavi tagdíj-kötelezettséget meghaladó tagdíjtúlfizetés összegét az állami adóhatóság adatszolgáltatása alapján a magánnyugdíjpénztár 8 munkanapon belül visszautalja a Magyar Államkincstár által vezetett, erre a célra megnyitott technikai számlára. A tagdíjtúlfizetés kiutalásáról az adóhatóság az Art. szabályai szerint intézkedik.
 
 (3) A tárgyévtől eltérő – legkorábban a 2007. január 1-jét követő – bevallási időszakra megállapított tagdíjtúlfizetés elszámolása során, a túlfizetés összegét a magánnyugdíjpénztár a foglalkoztató rendelkezése és az adóhatóság adatszolgáltatása alapján 8 munkanapon belül visszautalja a Magyar Államkincstár által vezetett erre a célra megnyitott technikai számlára. A tagdíjtúlfizetés kiutalásáról az adóhatóság az Art. szabályai szerint intézkedik.
 
-R. 21/B. §[^126] A magán-nyugdíjpénztári tagdíjjal összefüggő késedelmi pótlék és önellenőrzési pótlék egyéni számlára történő elszámolására a tagdíj elszámolására vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az adózói szinten kimutatásra kerülő pótlékokat a késedelemmel érintett bevallásban, önellenőrzésben szereplő pénztártagok között tagdíjnagyságuk arányában kell elszámolni.
+R. 21/B. §[^128] A magán-nyugdíjpénztári tagdíjjal összefüggő késedelmi pótlék és önellenőrzési pótlék egyéni számlára történő elszámolására a tagdíj elszámolására vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az adózói szinten kimutatásra kerülő pótlékokat a késedelemmel érintett bevallásban, önellenőrzésben szereplő pénztártagok között tagdíjnagyságuk arányában kell elszámolni.
 
-R. 21/C. §[^127] (1)[^128] A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztató – a helyi önkormányzati kör kivételével – az általa kifizetett ellátások összegét a REP-nél igényelheti.
+R. 21/C. §[^129] (1)[^130] A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztató – a helyi önkormányzati kör kivételével – az általa kifizetett ellátások összegét a REP-nél igényelheti.
 
-(2)[^129] Az elszámolást a REP részére kell megküldeni. A REP az adatokat felülvizsgálja és az elszámolás beérkezését követő 5 munkanapon belül rendelkezik a táppénz-hozzájárulással csökkentett összeg megtérítéséről.
+(2)[^131] Az elszámolást a REP részére kell megküldeni. A REP az adatokat felülvizsgálja és az elszámolás beérkezését követő 5 munkanapon belül rendelkezik a táppénz-hozzájárulással csökkentett összeg megtérítéséről.
 
-(3)[^130] A helyi önkormányzatoknál és intézményeiknél kifizetett ellátások fedezetének igénylése és elszámolása a Magyar Államkincstár területi igazgatóságainak adatszolgáltatási kötelezettségére vonatkozó – a külön jogszabályban meghatározott – szabályok szerint történik.
+(3)[^132] A helyi önkormányzatoknál és intézményeiknél kifizetett ellátások fedezetének igénylése és elszámolása a Magyar Államkincstár területi igazgatóságainak adatszolgáltatási kötelezettségére vonatkozó – a külön jogszabályban meghatározott – szabályok szerint történik.
 
-(4)[^131] A társadalombiztosítási kifizetőhelyet működtető foglalkoztató a biztosítottak pénzbeli ellátásának fedezete érdekében az egészségbiztosítási igazgatási szerv által folyósított pénzösszeg fogadása és kezelése céljából hitelintézetnél számlát nyithat. E számlára csak az előzőekben meghatározott jogcím alapján teljesíthető utalás. A számlán elhelyezett pénzösszegből csak az ellátás kifizetése, illetőleg az esetleges téves átutalás visszafizetése teljesíthető. A számla megnyitása kötelező, ha a kifizetőhely gazdálkodási körülményeinek figyelembevételével megalapozottan feltehető, hogy ellene a harmadik személyekkel szemben fennálló tartozása miatt végrehajtási eljárás indul.
+(4)[^133] A társadalombiztosítási kifizetőhelyet működtető foglalkoztató a biztosítottak pénzbeli ellátásának fedezete érdekében az egészségbiztosítási igazgatási szerv által folyósított pénzösszeg fogadása és kezelése céljából hitelintézetnél számlát nyithat. E számlára csak az előzőekben meghatározott jogcím alapján teljesíthető utalás. A számlán elhelyezett pénzösszegből csak az ellátás kifizetése, illetőleg az esetleges téves átutalás visszafizetése teljesíthető. A számla megnyitása kötelező, ha a kifizetőhely gazdálkodási körülményeinek figyelembevételével megalapozottan feltehető, hogy ellene a harmadik személyekkel szemben fennálló tartozása miatt végrehajtási eljárás indul.
 
-R. 22. § (1)[^132] A Magyar Államkincstár Regionális Igazgatósága a Tbj. 44/A. § (1) bekezdésében meghatározott ellátásban részesülő személyeket az OEP-nek jelenti be. Az adatok átadásának módjáról a Magyar Államkincstár az OEP-pel köt megállapodást.
+R. 22. § (1)[^134] A Magyar Államkincstár Regionális Igazgatósága a Tbj. 44/A. § (1) bekezdésében meghatározott ellátásban részesülő személyeket az OEP-nek jelenti be. Az adatok átadásának módjáról a Magyar Államkincstár az OEP-pel köt megállapodást.
 
-(2)[^133] A települési önkormányzat jegyzője a Tbj. 44/A. § (2) bekezdésében meghatározott ellátásban részesülő, vagy szociálisan rászorult személyeket a REP-nek jelenti be.
+(2)[^135] A települési önkormányzat jegyzője a Tbj. 44/A. § (2) bekezdésében meghatározott ellátásban részesülő, vagy szociálisan rászorult személyeket a REP-nek jelenti be.
 
-(3)[^134] A bejelentésre kötelezett a Tbj. 44/A. § (3) bekezdésének a)–d) pontjában említett személyeket a REP-nek, az e)–f) pontban említett személyeket az OEP-nek jelenti be.
+(3)[^136] A bejelentésre kötelezett a Tbj. 44/A. § (3) bekezdésének a)–d) pontjában említett személyeket a REP-nek, az e)–f) pontban említett személyeket az OEP-nek jelenti be.
 
-(4)[^135] A Tbj. 16. § (1) bekezdésének j) pontjában meghatározott személy a Tbj. 44/A. § (5) bekezdésében meghatározott bejelentést a REP-nek teljesíti, egyidejűleg az Országos Rehabilitációs és Szociális Szakértői Intézet szakvéleményével igazolja jogosultságát. A Tbj. 16. § (1) bekezdésének k) és s) pontjában említett személy a bejelentést a REP-nek teljesíti.
+(4)[^137] A Tbj. 16. § (1) bekezdésének j) pontjában meghatározott személy a Tbj. 44/A. § (5) bekezdésében meghatározott bejelentést a REP-nek teljesíti, egyidejűleg az Országos Rehabilitációs és Szociális Szakértői Intézet szakvéleményével igazolja jogosultságát. A Tbj. 16. § (1) bekezdésének k) és s) pontjában említett személy a bejelentést a REP-nek teljesíti.
 
-(5)[^136] Az APEH az Art. 16. § (4) bekezdésében előírt bejelentés teljesítésére a Magyar Honvédséggel, a rendvédelmi szervekkel a szolgálati viszonyban állók vonatkozásában, valamint a polgári nemzetbiztonsági szolgálattal megállapodást köt.
+(5)[^138] Az APEH az Art. 16. § (4) bekezdésében előírt bejelentés teljesítésére a Magyar Honvédséggel, a rendvédelmi szervekkel a szolgálati viszonyban állók vonatkozásában, valamint a polgári nemzetbiztonsági szolgálattal megállapodást köt.
 
-(6)[^137] A Tbj. 44/A. § (4) bekezdésében meghatározott ellátásban részesülő személyekre vonatkozó bejelentés teljesítésének módjáról az ONYF és az OEP megállapodást köt.
+(6)[^139] A Tbj. 44/A. § (4) bekezdésében meghatározott ellátásban részesülő személyekre vonatkozó bejelentés teljesítésének módjáról az ONYF és az OEP megállapodást köt.
 
-(7)[^138] Az (1)–(3) bekezdés szerinti bejelentést elektronikus úton vagy gépi adathordozón, a (4) bekezdés szerinti bejelentést az erre a célra rendszeresített nyomtatványon kell teljesíteni.
+(7)[^140] Az (1)–(3) bekezdés szerinti bejelentést elektronikus úton vagy gépi adathordozón, a (4) bekezdés szerinti bejelentést az erre a célra rendszeresített nyomtatványon kell teljesíteni.
 
-(8)[^139] Az OEP a nyilvántartása szerint taj-számmal rendelkező személyek természetes személyazonosító adatairól, lakcíméről, taj-számáról, valamint azok változásáról adatot szolgáltat az ONYF-nek. Az adatok átadásának módjáról az OEP és az ONYF megállapodást köt.
+(8)[^141] Az OEP a nyilvántartása szerint taj-számmal rendelkező személyek természetes személyazonosító adatairól, lakcíméről, taj-számáról, valamint azok változásáról adatot szolgáltat az ONYF-nek. Az adatok átadásának módjáról az OEP és az ONYF megállapodást köt.
 
-(9)[^140] Az egészségügyi szolgáltatásra való jogosultság megállapítása érdekében a Tbj. 39. §-ának (2) bekezdése szerint járulékfizetésre kötelezett személyekre vonatkozó adatok átadásának módjáról az állami adóhatóság és az OEP megállapodást köt.
+(9)[^142] Az egészségügyi szolgáltatásra való jogosultság megállapítása érdekében a Tbj. 39. §-ának (2) bekezdése szerint járulékfizetésre kötelezett személyekre vonatkozó adatok átadásának módjáról az állami adóhatóság és az OEP megállapodást köt.
 
-(10)[^141] Az OEP a Tbj. 54. § (2) bekezdésének a) pontja és (3) bekezdése szerinti ellenőrzése során a biztosítási jogviszony utólagos megállapításáról vagy törléséről határozatot hoznak, ha a járulék utólagos megállapítására elévülés miatt részben vagy egészben már nincs lehetőség.
+(10)[^143] Az OEP a Tbj. 54. § (2) bekezdésének a) pontja és (3) bekezdése szerinti ellenőrzése során a biztosítási jogviszony utólagos megállapításáról vagy törléséről határozatot hoznak, ha a járulék utólagos megállapítására elévülés miatt részben vagy egészben már nincs lehetőség.
 
-R. 23. §[^142] (1) A 24–27/B. § rendelkezéseit
+R. 23. §[^144] (1) A 24–27/B. § rendelkezéseit
 
 a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet, a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések által pusztán állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi rendelet,
 
@@ -422,7 +424,7 @@ c) munkáltató: az a) pont szerinti személy foglalkoztatója,
 
 d) önálló vállalkozó: a Tbj. szerinti egyéni vállalkozó, a Tbj. 5. § (1) bekezdés i) pontja szerinti mezőgazdasági őstermelő, és a külföldi jog szerint annak megfelelő személy.
 
-R. 24. §[^143] (1) A koordinációs rendeletek és az egyezmény rendelkezései szerinti kiküldetés (a továbbiakban: kiküldetés) esetén az alkalmazandó jog meghatározása érdekében a munkáltató – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – a székhelye szerint illetékes REP-nek az alábbi adatokat szolgáltatja:
+R. 24. §[^145] (1) A koordinációs rendeletek és az egyezmény rendelkezései szerinti kiküldetés (a továbbiakban: kiküldetés) esetén az alkalmazandó jog meghatározása érdekében a munkáltató – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – a székhelye szerint illetékes REP-nek az alábbi adatokat szolgáltatja:
 
 a) munkáltató neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
 
@@ -458,7 +460,7 @@ a) külföldi telephellyel rendelkező vállalkozás esetén a kiküldetést meg
 
 b) egyszerűsített beszámoló készítésére kötelezett gazdálkodó, egyéni vállalkozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adó hatálya alá tartozó adóalany esetén az előző adóévi összes bevételén belül a belföldi tevékenységből származó összes bevételeit.
 
-R. 25. §[^144] (1) Kiküldetésnél a magyar jog alkalmazandó jogként való meghatározásának feltétele, hogy a kiküldő munkáltató jelentős gazdasági tevékenységet folytasson belföldön.
+R. 25. §[^146] (1) Kiküldetésnél a magyar jog alkalmazandó jogként való meghatározásának feltétele, hogy a kiküldő munkáltató jelentős gazdasági tevékenységet folytasson belföldön.
 
 (2) Jelentős belföldi gazdasági tevékenység akkor áll fenn, ha
 
@@ -496,7 +498,7 @@ bc) korábban ugyanabban az államban volt – a koordinációs rendeletekben, i
 
 bd) kiküldetésére azért kerül sor, hogy a kiküldetés helye szerinti vállalkozás a munkavállalót egy másik vállalkozás rendelkezésére bocsássa, vagy másik tagállamba küldje tovább.
 
-R. 26. §[^145] (1) Ha az önálló vállalkozó belföldön folytatott vállalkozói tevékenységét átmenetileg a koordinációs rendeletek hatálya alá tartozó másik tagállamban vagy egyezményben részes másik államban (a továbbiakban együtt: másik állam) folytatja, a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy vállalkozásának székhelye szerint illetékes REP-nek – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
+R. 26. §[^147] (1) Ha az önálló vállalkozó belföldön folytatott vállalkozói tevékenységét átmenetileg a koordinációs rendeletek hatálya alá tartozó másik tagállamban vagy egyezményben részes másik államban (a továbbiakban együtt: másik állam) folytatja, a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy vállalkozásának székhelye szerint illetékes REP-nek – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
 
 a) természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, vállalkozásának nyilvántartási száma,
 
@@ -508,7 +510,7 @@ d) a másik államban történő munkavégzés tervezett időtartama.
 
 (2) A koordinációs rendeletekben, illetve egyezményben előírt feltételek teljesítése esetén a REP alkalmazandó jogként meghatározza a magyar jogot és ezt igazolja.
 
-R. 27. §[^146] (1) Ha a munkavállaló, az önálló vállalkozó belföldi munkavégzése mellett, azzal egyidejűleg munkavállalóként vagy önálló vállalkozóként másik államban is végez munkát, a koordinációs rendeletek vagy az egyezmény rendelkezései alapján a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy munkáltatójának székhelye szerint illetékes REP-nek – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
+R. 27. §[^148] (1) Ha a munkavállaló, az önálló vállalkozó belföldi munkavégzése mellett, azzal egyidejűleg munkavállalóként vagy önálló vállalkozóként másik államban is végez munkát, a koordinációs rendeletek vagy az egyezmény rendelkezései alapján a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy munkáltatójának székhelye szerint illetékes REP-nek – az OEP által erre a célra rendszeresített és honlapján közzétett nyomtatványon – az alábbi adatokat szolgáltatja:
 
 a) természetes személyazonosító adatai, állampolgársága, lakcíme, taj-száma, az önálló vállalkozó nyilvántartási száma,
 
@@ -528,7 +530,7 @@ a) a munkavállaló belföldön fennálló munkaviszonyához kapcsolódó munkai
 
 b) az önálló vállalkozó belföldön elért bevétele eléri az összes vállalkozói bevételének 25 százalékát.
 
-R. 27/A. §[^147] (1) Ha a REP alkalmazandó jogként a magyar jogot megállapítja, erről – az erre irányuló kérelem benyújtásától számított 22 munkanapon belül – hatósági bizonyítványt (a továbbiakban: igazolás) állít ki, és meghatározza annak időbeli hatályát és feltételeit. Az igazolás tanúsítja, hogy a munkavállaló, önálló vállalkozó a másik államban történő munkavégzése idején is a magyar társadalombiztosítási jogszabályok hatálya alatt áll.
+R. 27/A. §[^149] (1) Ha a REP alkalmazandó jogként a magyar jogot megállapítja, erről – az erre irányuló kérelem benyújtásától számított 22 munkanapon belül – hatósági bizonyítványt (a továbbiakban: igazolás) állít ki, és meghatározza annak időbeli hatályát és feltételeit. Az igazolás tanúsítja, hogy a munkavállaló, önálló vállalkozó a másik államban történő munkavégzése idején is a magyar társadalombiztosítási jogszabályok hatálya alatt áll.
 
 (2) Ha a korábbi kiküldetés lejártát követő 60 napon belül a munkáltató ugyanazon munkavállalóját ugyanazon államba kívánja kiküldeni, a magyar jog akkor alkalmazható az újabb kiküldetésre, ha annak időtartama a korábbi kiküldetéssel együtt sem haladja meg a koordinációs rendeletekben, illetve az egyezményben meghatározott leghosszabb időtartamot.
 
@@ -540,7 +542,7 @@ R. 27/A. §[^147] (1) Ha a REP alkalmazandó jogként a magyar jogot megállap
 
 (6) Ha a REP hivatalból megállapítja, hogy a magyar jog alkalmazásának feltételei az igazolás kiadását követően már nem teljesülnek vagy eleve nem álltak fenn, az igazolást módosítja, vagy visszavonja, és kezdeményezi a másik állambeli biztosítási kötelezettség megállapítását.
 
-R. 27/B. §[^148] (1) A koordinációs rendeletekben és az egyezményben meghatározott szabályok alóli kivétel megállapítását a munkáltató és a munkavállaló, illetve az önálló vállalkozó az OEP-től kérheti.
+R. 27/B. §[^150] (1) A koordinációs rendeletekben és az egyezményben meghatározott szabályok alóli kivétel megállapítását a munkáltató és a munkavállaló, illetve az önálló vállalkozó az OEP-től kérheti.
 
 (2) A kivétel megállapításának akkor lehet helye, ha
 
@@ -552,21 +554,21 @@ c) olyan egyéb, különös méltánylást érdemlő körülmény áll fenn, ame
 
 (3) A kérelmező a kérelem benyújtásával egyidejűleg igazolja azokat a tényeket, körülményeket, amelyekre tekintettel a kivétel megállapítását kéri.
 
-R. 28. § (1)[^149] Ez a rendelet – a (2) bekezdésben foglalt eltéréssel – 1998. január 1-jén lép hatályba.
+R. 28. § (1)[^151] Ez a rendelet – a (2) bekezdésben foglalt eltéréssel – 1998. január 1-jén lép hatályba.
 
 (2) A 3–4. §-ok felhasználási szerződésre vonatkozó rendelkezései 1997. december 13-án lépnek hatályba azzal, hogy a biztosítás 1997. december 12-ét követő időtartamra vonatkozó elbírálásánál e rendelet rendelkezéseit kell alkalmazni akkor is, ha a felhasználási szerződés megkötésére az említett időpontot megelőzően került sor.
 
-(3)[^150]
+(3)[^152]
 
 (4) E rendelet szabályait az 1997. évi LXXIV. törvény hatálya alá tartozó munkáltatók esetében nem kell alkalmazni.
 
 (5) A Tbj. alkalmazásában a gyermekgondozási segély összege alatt a 10/1982. (IV. 16.) MT rendelet alapján folyósított gyermekgondozási segély esetén a jövedelempótlékkal növelt összeget kell érteni.
 
-(6)[^151] A 19. § szerinti adatszolgáltatási és megfizetési kötelezettséget a TÁH számfejtési körébe tartozó önkormányzatok és intézményeik vonatkozásában a TÁH-ok teljesítik.
+(6)[^153] A 19. § szerinti adatszolgáltatási és megfizetési kötelezettséget a TÁH számfejtési körébe tartozó önkormányzatok és intézményeik vonatkozásában a TÁH-ok teljesítik.
 
-R. 29. §[^152] (1)[^153] A foglalkoztató által külföldön foglalkoztatott biztosított esetében a foglalkoztatás 1996. december 31-e és 1999. január 1-je közötti időtartamának szolgálati időként történő elismerésére a megállapodás megkötésére irányuló kérelmet a foglalkoztató székhelye szerint illetékes nyugdíjbiztosítási igazgatási szervnél előterjeszteni. A kérelemben nyilatkozni kell arra vonatkozóan, hogy a foglalkoztató mely személy(ek) után, milyen időtartamra (naptári évre, évekre, hónapra, hónapokra, napra, napokra) kívánja a megállapodást megkötni, illetőleg vállalni a nyugdíjbiztosítási és a nyugdíjjárulék megfizetését. Az előterjesztett kérelemben közölni kell
+R. 29. §[^154] (1)[^155] A foglalkoztató által külföldön foglalkoztatott biztosított esetében a foglalkoztatás 1996. december 31-e és 1999. január 1-je közötti időtartamának szolgálati időként történő elismerésére a megállapodás megkötésére irányuló kérelmet a foglalkoztató székhelye szerint illetékes nyugdíjbiztosítási igazgatási szervnél előterjeszteni. A kérelemben nyilatkozni kell arra vonatkozóan, hogy a foglalkoztató mely személy(ek) után, milyen időtartamra (naptári évre, évekre, hónapra, hónapokra, napra, napokra) kívánja a megállapodást megkötni, illetőleg vállalni a nyugdíjbiztosítási és a nyugdíjjárulék megfizetését. Az előterjesztett kérelemben közölni kell
 
-a)[^154] a foglalkoztató nevét, címét, székhelyét (telephelyét), pénzforgalmi számlaszámát (törzsszámát), a társadalombiztosítás kifizetőhely működésének tényét,
+a)[^156] a foglalkoztató nevét, címét, székhelyét (telephelyét), pénzforgalmi számlaszámát (törzsszámát), a társadalombiztosítás kifizetőhely működésének tényét,
 
 b) a biztosítottak személyi adatait [TAJ szám, születési év, hónap, nap, neve (előző név), leánykori neve, anyja neve, születési helye], a fennálló (fennállt) biztosítási jogviszony időtartamát, ezen időtartamon belül a külföldi foglalkoztatás idejét és tényét, alkalmazásának minőségét,
 
@@ -578,15 +580,17 @@ d) a külföldön foglalkoztatott biztosított(ak) munkaszerződésében meghat�
 
 (3) A nyugdíjbiztosítási igazgatási szerv a megállapodás megkötése és a befizetett nyugdíjbiztosítási és nyugdíjjárulék alapján intézkedik a Nyugdíjbiztosítási Egyéni Nyilvántartólap kiállításáról.
 
-(4)[^155] Ha a megállapodást kötő foglalkoztató, vagy a biztosított a megállapodás alapján vállalt járulékfizetési kötelezettségét az előírt határnapig nem teljesíti, a megállapodás érvénytelenné válik. A járulékfizetés csak akkor tekinthető teljesítettnek, ha a megállapodás szerinti nyugdíjbiztosítási és nyugdíjjárulék megfizetése egyaránt megtörtént.
+(4)[^157] Ha a megállapodást kötő foglalkoztató, vagy a biztosított a megállapodás alapján vállalt járulékfizetési kötelezettségét az előírt határnapig nem teljesíti, a megállapodás érvénytelenné válik. A járulékfizetés csak akkor tekinthető teljesítettnek, ha a megállapodás szerinti nyugdíjbiztosítási és nyugdíjjárulék megfizetése egyaránt megtörtént.
 
-R. 30. §[^156] A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet módosításáról szóló 107/2010. (IV. 9.) Korm. rendelettel megállapított
+R. 30. §[^158] A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet módosításáról szóló 107/2010. (IV. 9.) Korm. rendelettel megállapított
 
 a) 5/G. § (2) bekezdése a munkavállaló választása szerint 2010. január 1-jétől visszamenőlegesen alkalmazható,
 
 b) 23–27/B. §-t a 2010. április 30-át követően indult ügyekben kell alkalmazni.
 
-R. 31. §[^157] Ez a rendelet a 23–27/B. §-ban
+R. 30/A. §[^159] A 19/A. §-ban foglaltaktól eltérően az egyik pénztárból a másik pénztárba átlépett vagy a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 1998. január 1-je és 2010. december 31-e közötti bevallási időszakra tévesen az átadó pénztárhoz benyújtott bevallásokat és beérkezett befizetéseket az átadó pénztár feldolgozza, és azt a tag egyéni számláján kimutatja. A tagsági jogviszony megszűnését követően könyvelt tagi követelés összegét a pénztár a Pénztárak Központi Nyilvántartásával történt egyeztetést követően az átlépés szabályai szerint átutalja a pénztártag aktuális pénztárába, illetőleg a Nyugdíjbiztosítási Alap részére. A rendezésről a pénztár – az adatátadás módjáról kötött megállapodásban foglaltaknak megfelelően – értesíti az állami adóhatóságot.
+
+R. 31. §[^160] Ez a rendelet a 23–27/B. §-ban
 
 a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet II. címének, a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet III. címének, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések által pusztán állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi rendelet 1. és 2. cikkének, és
 
@@ -598,9 +602,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^2]: Az R. 1. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 333/2008. (XII. 30.) Korm. rendelet 1. §-a.
 [^3]: Az R. 1. § (2) bekezdését a 333/2000. (XII. 30.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. E módosító rendelet 8. § (1) bekezdése alapján az rendelkezést a folyamatban lévő ügyekben is alkalmazni kell, kivéve, ha ez a járulékfizetési kötelezettség növekedését eredményezné.
 [^4]: Az R. 2. § (1) bekezdését a 328/2004. (XII. 11.) Korm. rendelet 8. §-ának b) pontja hatályon kívül helyezte.
-[^5]: Az R. 2. §-ának új (2) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (6) bekezdésre változtatva. Az R. 2. § (2) bekezdése a 262/2005. (XII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: Az R. 2. §-ának (3) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 262/2005. (XII. 14.) Korm. rendelet 1. §-ával megállapított, valamint a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: Az R. 2. §-ának (4) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 122. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: Az R. 2. §-ának új (2) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (6) bekezdésre változtatva. A (2) bekezdést a 297/2010. (XII. 23.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^6]: Az R. 2. §-ának (3) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 297/2010. (XII. 23.) Korm. rendelet 13. § b) pontja.
+[^7]: Az R. 2. §-ának (4) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 297/2010. (XII. 23.) Korm. rendelet 13. § b) pontja.
 [^8]: Az R. 2. §-ának (5) bekezdését a 129/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja.
 [^9]: Az R. 2. § eredeti (2) bekezdésének számozását a 129/2004. (IV. 29.) Korm. rendelet 1. §-a (6) bekezdésre változtatta. Az R. 2. § (6) bekezdését a 328/2006. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének c) pontja hatályon kívül helyezte.
 [^10]: Az R. 2. §-ának (7) bekezdését a 114/2005. (VI. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
@@ -657,97 +661,100 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^61]: Az R. 7/B. §-ának (2) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^62]: Az R. 7/C. §-át a 68/1998. (III. 31.) Korm. rendelet 3. §-a iktatta be, szövege a 294/2002. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^63]: Az R. 7/C. §-ának (1) bekezdése a 262/2005. (XII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^64]: Az R. 7/C. §-a (1) bekezdésének b) pontja a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^65]: Az R. 8. §-a a 202/1999. (XII.26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^66]: Az R. 8. §-ának (1) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^67]: Az R. 8. §-ának (2) bekezdését a 208/2000. (XII. 11.) Korm. rendelet 3. §-ának (2) bekezdése iktatta be, mely az eredeti (2) bekezdés számozását (3) bekezdésre változtatta; szövege a 259/2001. (XII. 19.) Korm. rendelet 10. §-a (1) bekezdésének a) pontja szerint kiegészített szöveg.
-[^68]: Az R. 8. §-ának (3) — eredetileg (2) — bekezdése a 262/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított, a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^69]: Az R. 8. § (4) bekezdését a 331/2009. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^70]: Az R. 8/A. §-t a 328/2004. (XII. 11.) Korm. rendelet 4. §-a iktatta be. Felvezető szövege a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja szerint módosított szöveg.
-[^71]: A 8/A. § c) pontját a 333/2008. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^72]: Az R. 9. §-a a 366/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^73]: Az R. 9. § (2) bekezdését a 331/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^74]: Az R. 9/A. §-ának (1) bekezdése a 259/2001. (XII. 19.) Korm. rendelet 4. §-a, illetve 10. §-a (1) bekezdésének a) pontja szerint kiegészített, valamint a 294/2002. (XII. 27.) Korm. rendelet 17. § (1) bekezdésének a) pontja szerint módosított szöveg.
-[^75]: Az R. 9/A. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^76]: Az R. 9/B. §-át a 366/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^77]: Az R. 9/C. §-át a 366/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 122. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^78]: A 10. §-t a 221/1998. (XII. 30.) Korm. rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte, újonnan beiktatta a 159/2006. (VII. 27.) Korm. rendelet 8. §-a, szövege a 366/2007. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^79]: Az R. 10/A. §-át a 202/1999. (XII.26.) Korm. rendelet 19. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.
-[^80]: Az R. 11. §-át a 64/1998. (III. 31.) Korm. rendelet 26. §-ának (2) bekezdése hatályon kívül helyezte.
-[^81]: Az R. 12. §-a a 202/1999. (XII.26.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^82]: Az R. 12. § (1) bekezdését a 328/2004. (XII. 11.) Korm. rendelet 8. §-ának b) pontja hatályon kívül helyezte.
-[^83]: Az R. 12. §-ának (2) bekezdését a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja hatályon kívül helyezte.
-[^84]: Az R. 13. §-át a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^85]: Az R. 13/A.§-át a 202/1999. (XII. 26.) Korm. rendelet 19.§-a (1) bekezdésének b) pontja hatályon kívül helyezte. Újonnan beiktatta a 208/2000. (XII. 11.) Korm. rendelet 5.§-a.
-[^86]: Az R. 13/A. §-ának (1) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 13. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.
-[^87]: A 13/A. § (2) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
-[^88]: Az R. 14. §-a a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
-[^89]: Az R. 15. §-át a 221/1998. (XII. 30.) Korm. rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 259/2001. (XII. 19.) Korm. rendelet 6. §-a iktatta a szövegbe. A 258/2003. (XII. 24.) Korm. rendelet 13. §-a (1) bekezdésének b) pontja újra hatályon kívül helyezte.
-[^90]: Az R. 16. §-át a 278/1997. ( XII. 23.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 129/2004. (IV. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^91]: Az R. 17. §-át a 202/1999. (XII. 26.) Korm. rendelet 19. §-a (1) bekezdésének b) pontja hatályon kívül helyezte. Újonnan megállapította a 208/2000. (XII. 11.) Korm. rendelet 6. §-a.
-[^92]: Az R. 17. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^93]: Az R. 17/A. §-át a 221/1998. (XII. 30.) Korm. rendelet 15. §-a iktatta be. A 17/A. § a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
-[^94]: Az R. 18.§-a a 202/1999. (XII.26.)Korm. rendelet 13.§-ával megállapított szöveg.
-[^95]: Az R. 18. §-a (1) bekezdésének felvezető szövegrésze a 258/2003. (XII. 24.) Korm. rendelet 8. §-ával megállapított, a 159/2006. (VII. 27.) Korm. rendelet 18. § (2) bekezdésének a) pontja, a 331/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^96]: Az R. 18. §-ának a) pontja a 258/2003. (XII. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^97]: Az R. 18. § (1) bekezdésének b) pontja a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
-[^98]: Az R. 18. §-a (2) bekezdésének c) pontja a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének g) pontja szerint módosított szöveg.
-[^99]: Az R. 19. §-a a 259/2001. (XII. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^100]: Az R. 19. § (1) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2007. január 1. napján lépett hatályba. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
-[^101]: Az R. 19. §-ának (2) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
-[^102]: Az R. 19. § (3) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2007. január 1. napján lépett hatályba. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
-[^103]: Az R. 19. §-a (3) bekezdésének d) pontja a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének h) pontja, a 331/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^104]: Az R. 19. § (4) bekezdése a 294/2002. (XII. 27.) Korm. rendelet 12. §-ának (3) bekezdésével megállapított, valamint a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
-[^105]: Az R. 19. §-ának (5) bekezdését a 328/2006. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
-[^106]: Az R. 19. §-ának (6) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
-[^107]: Az R. 19/A. §-át a 366/2007. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
-[^108]: Az R. 20. §-a a 328/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^109]: Az R. 20. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^110]: Az R. 20. §-ának (6) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^111]: Az R. 20. §-ának (7) bekezdését a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének e) pontja hatályon kívül helyezte.
-[^112]: Az R. 20. § (8) bekezdése a 331/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^113]: A 20. § (9) bekezdésben előírt kötelezettséget a 333/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése alapján 2008-ra vonatkozóan 2009. október 31-éig kell teljesíteni.
-[^114]: Az R. 20. § (10) bekezdése a 331/2009. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^115]: Az R. 20. § (11) bekezdését a 171/2008. (VI. 28.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. § (2) bekezdése.
-[^116]: Az R. 20/A. §-át a 328/2006. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
-[^117]: Az R. 20/A. §-a (1) bekezdésének felvezető szövege a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének i) pontja, a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^118]: Az R. 20/A. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^119]: Az R. 20/A. § (1) bekezdés a) pont ab) alpontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^120]: Az R. 20/A. § (1) bekezdés a) pont ac) alpontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^121]: Az R. 21. §-a a 328/2006. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a 2007. január 1-jét megelőző időszakra vonatkozóan behajtott tagdíjat, tagdíjkiegészítést, késedelmi pótlékot, önellenőrzési pótlékot az állami adóhatóság közvetlenül az érintett magánnyugdíjpénztár részére utalja át.
-[^122]: Az R. 21. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^123]: A 21. § (5) bekezdése a 333/2008. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^124]: Az R. 20. §-ának (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^125]: Az R. új 21/A. §-át a 262/2005. (XII. 14.) Korm. rendelet 13. §-a iktatta be, egyidejűleg az eredeti 21/A. § számozását 21/C. §-ra változtatta. A 21/A. §-t a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 28/2007. (II. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 366/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^126]: Az R. 21/B. §-át a 202/1999. (XII. 26.)Korm. rendelet 17. §-a iktatta be, szövege a 366/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^127]: Az R. 21/A. §-át a 202/1999. (XII. 26.)Korm. rendelet 16. §-a iktatta be, számozását 21/C. §-ra változtatta a 262/2005. (XII. 14.) Korm. rendelet.
-[^128]: Az R. 21/C. § (1) bekezdése a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^129]: Az R. 21/C. § (2) bekezdése a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés d) pontja, a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^130]: Az R. 21/C. §-ának – eredeti 21/A. § – (3) bekezdése a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
-[^131]: Az R. 21/C. §-ának – eredeti 21/A. § – (4) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 11. §-a iktatta a szövegbe.
-[^132]: Az R. 22. §-ának (1) bekezdését a 258/2003. ( XII. 24.) Korm. rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^133]: Az R. 22. §-ának (2) bekezdését a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés f) pontja, a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^134]: Az R. 22. §-ának új (3) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatta. A (3) bekezdést a 294/2002. (XII. 27.) Korm. rendelet 17. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 333/2008. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^135]: Az R. 22. §-a eredeti (3) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (4) bekezdésre változtatta. A (4) bekezdést a 294/2002. (XII. 27.) Korm. rendelet 17. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^136]: Az R. 22. §-ának eredeti (4) bekezdés számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (5) bekezdésre változtatta. Az R. 22. § (5) bekezdése a 328/2004. (XII. 11.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja, a 159/2006. (VII. 27.) Korm. rendelet 18. § (2) bekezdésének a) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 20. pontja szerint módosított szöveg.
-[^137]: Az R. 22. §-a eredeti (5) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. § (1) bekezdése (6) bekezdésre változtatta. A (6) bekezdést a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^138]: Az R. 22. §-a eredeti (6) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (7) bekezdésre változtatta. A (7) bekezdést a 174/2005. (IX. 1.) Korm. rendelet 5. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^139]: Az R. 22. §-ának (8) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének f) pontja, újonnan a 107/2010. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
-[^140]: Az R. 22. §-ának (9) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be. Szövege a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
-[^141]: Az R. 22. §-ának (10) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 12. §-a iktatta be, szövege a 328/2004. (XII. 11.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 123–124. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^142]: Az R. 23. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
-[^143]: Az R. 24. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
-[^144]: Az R. 25. §-át újonnan a 28/2007. (II. 28.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
-[^145]: Az R. 26. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
-[^146]: Az R. 27. §-át a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 28/2007. (II. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^147]: Az R. 27/A. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
-[^148]: Az R. 27/B. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
-[^149]: Az R. 28. § (1) bekezdés második–harmadik mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
-[^150]: Az R. 28. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
-[^151]: Az R. 28. §-ának (6) bekezdése a 64/1998. (III. 31.) Korm. rendelet 15. §-ával megállapított szöveg, a 26. §-nak (3) bekezdése a „19.§ ”-ra hivatkozást „ 22. §”-ra módosította.
-[^152]: Az R. 29. §-át a 221/1998. (XII. 30.) Korm. rendelet 23. §-a iktatta a szövegbe.
-[^153]: Az R. 29. §-ának (1) bekezdése a 208/2000. (XII. 11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése, felvezető szövegének első mondata a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének j) pontja szerint módosított szöveg.
-[^154]: Az R. 29. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^155]: Az R. 29. §-a (4) bekezdésének első mondatát a 208/2000. (XII.11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése hatályon kívül helyezte.
-[^156]: Az R. 30. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
-[^157]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
+[^64]: Az R. 7/C. § (1) bekezdés a) pontját a 297/2010. (XII. 23.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^65]: Az R. 7/C. §-a (1) bekezdésének b) pontja a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^66]: Az R. 8. §-a a 202/1999. (XII.26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^67]: Az R. 8. §-ának (1) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^68]: Az R. 8. §-ának (2) bekezdését a 208/2000. (XII. 11.) Korm. rendelet 3. §-ának (2) bekezdése iktatta be, mely az eredeti (2) bekezdés számozását (3) bekezdésre változtatta; szövege a 259/2001. (XII. 19.) Korm. rendelet 10. §-a (1) bekezdésének a) pontja szerint kiegészített szöveg.
+[^69]: Az R. 8. §-ának (3) — eredetileg (2) — bekezdése a 262/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított, a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^70]: Az R. 8. § (4) bekezdését a 331/2009. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^71]: Az R. 8/A. §-t a 328/2004. (XII. 11.) Korm. rendelet 4. §-a iktatta be. Felvezető szövege a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja szerint módosított szöveg.
+[^72]: A 8/A. § c) pontját a 333/2008. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^73]: Az R. 9. §-a a 366/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^74]: Az R. 9. § (2) bekezdését a 331/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^75]: Az R. 9/A. §-ának (1) bekezdése a 259/2001. (XII. 19.) Korm. rendelet 4. §-a, illetve 10. §-a (1) bekezdésének a) pontja szerint kiegészített, valamint a 294/2002. (XII. 27.) Korm. rendelet 17. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^76]: Az R. 9/A. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: Az R. 9/A. § (4) bekezdését a 297/2010. (XII. 23.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^78]: Az R. 9/B. §-át a 366/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^79]: Az R. 9/C. §-át a 366/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 122. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^80]: A 10. §-t a 221/1998. (XII. 30.) Korm. rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte, újonnan beiktatta a 159/2006. (VII. 27.) Korm. rendelet 8. §-a, szövege a 366/2007. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^81]: Az R. 10/A. §-át a 202/1999. (XII.26.) Korm. rendelet 19. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^82]: Az R. 11. §-át a 64/1998. (III. 31.) Korm. rendelet 26. §-ának (2) bekezdése hatályon kívül helyezte.
+[^83]: Az R. 12. §-a a 202/1999. (XII.26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^84]: Az R. 12. § (1) bekezdését a 328/2004. (XII. 11.) Korm. rendelet 8. §-ának b) pontja hatályon kívül helyezte.
+[^85]: Az R. 12. §-ának (2) bekezdését a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^86]: Az R. 13. §-át a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^87]: Az R. 13/A.§-át a 202/1999. (XII. 26.) Korm. rendelet 19.§-a (1) bekezdésének b) pontja hatályon kívül helyezte. Újonnan beiktatta a 208/2000. (XII. 11.) Korm. rendelet 5.§-a.
+[^88]: Az R. 13/A. §-ának (1) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 13. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^89]: A 13/A. § (2) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
+[^90]: Az R. 14. §-a a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
+[^91]: Az R. 15. §-át a 221/1998. (XII. 30.) Korm. rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 259/2001. (XII. 19.) Korm. rendelet 6. §-a iktatta a szövegbe. A 258/2003. (XII. 24.) Korm. rendelet 13. §-a (1) bekezdésének b) pontja újra hatályon kívül helyezte.
+[^92]: Az R. 16. §-át a 278/1997. ( XII. 23.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 129/2004. (IV. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^93]: Az R. 17. §-át a 202/1999. (XII. 26.) Korm. rendelet 19. §-a (1) bekezdésének b) pontja hatályon kívül helyezte. Újonnan megállapította a 208/2000. (XII. 11.) Korm. rendelet 6. §-a.
+[^94]: Az R. 17. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^95]: Az R. 17/A. §-át a 221/1998. (XII. 30.) Korm. rendelet 15. §-a iktatta be. A 17/A. § a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
+[^96]: Az R. 18.§-a a 202/1999. (XII.26.)Korm. rendelet 13.§-ával megállapított szöveg.
+[^97]: Az R. 18. §-a (1) bekezdésének felvezető szövegrésze a 258/2003. (XII. 24.) Korm. rendelet 8. §-ával megállapított, a 159/2006. (VII. 27.) Korm. rendelet 18. § (2) bekezdésének a) pontja, a 331/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^98]: Az R. 18. §-ának a) pontja a 258/2003. (XII. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^99]: Az R. 18. § (1) bekezdésének b) pontja a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^100]: Az R. 18. §-a (2) bekezdésének c) pontja a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének g) pontja szerint módosított szöveg.
+[^101]: Az R. 19. §-a a 259/2001. (XII. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^102]: Az R. 19. § (1) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2007. január 1. napján lépett hatályba. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
+[^103]: Az R. 19. §-ának (2) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
+[^104]: Az R. 19. § (3) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2007. január 1. napján lépett hatályba. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
+[^105]: Az R. 19. §-a (3) bekezdésének d) pontja a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének h) pontja, a 331/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^106]: Az R. 19. § (4) bekezdését a 297/2010. (XII. 23.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^107]: Az R. 19. §-ának (5) bekezdését a 328/2006. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
+[^108]: Az R. 19. §-ának (6) bekezdése a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése alapján hatályát vesztette 2007. január 1. napjával.
+[^109]: Az R. 19/A. §-át a 366/2007. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^110]: Az R. 20. §-a a 328/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^111]: Az R. 20. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^112]: Az R. 20. §-ának (6) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^113]: Az R. 20. §-ának (7) bekezdését a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének e) pontja hatályon kívül helyezte.
+[^114]: Az R. 20. § (8) bekezdése a 331/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^115]: A 20. § (9) bekezdésben előírt kötelezettséget a 333/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése alapján 2008-ra vonatkozóan 2009. október 31-éig kell teljesíteni.
+[^116]: Az R. 20. § (10) bekezdése a 331/2009. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^117]: Az R. 20. § (11) bekezdését a 171/2008. (VI. 28.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. § (2) bekezdése.
+[^118]: Az R. 20/A. §-át a 328/2006. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^119]: Az R. 20/A. §-a (1) bekezdésének felvezető szövege a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének i) pontja, a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^120]: Az R. 20/A. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^121]: Az R. 20/A. § (1) bekezdés a) pont ab) alpontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^122]: Az R. 20/A. § (1) bekezdés a) pont ac) alpontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^123]: Az R. 21. §-a a 328/2006. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a 2007. január 1-jét megelőző időszakra vonatkozóan behajtott tagdíjat, tagdíjkiegészítést, késedelmi pótlékot, önellenőrzési pótlékot az állami adóhatóság közvetlenül az érintett magánnyugdíjpénztár részére utalja át.
+[^124]: Az R. 21. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^125]: A 21. § (5) bekezdése a 333/2008. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^126]: Az R. 20. §-ának (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^127]: Az R. új 21/A. §-át a 262/2005. (XII. 14.) Korm. rendelet 13. §-a iktatta be, egyidejűleg az eredeti 21/A. § számozását 21/C. §-ra változtatta. A 21/A. §-t a 159/2006. (VII. 27.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 28/2007. (II. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 366/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^128]: Az R. 21/B. §-át a 202/1999. (XII. 26.)Korm. rendelet 17. §-a iktatta be, szövege a 366/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^129]: Az R. 21/A. §-át a 202/1999. (XII. 26.)Korm. rendelet 16. §-a iktatta be, számozását 21/C. §-ra változtatta a 262/2005. (XII. 14.) Korm. rendelet.
+[^130]: Az R. 21/C. § (1) bekezdése a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^131]: Az R. 21/C. § (2) bekezdése a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés d) pontja, a 182/2009. (IX. 10.) Korm. rendelet 124. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^132]: Az R. 21/C. §-ának – eredeti 21/A. § – (3) bekezdése a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^133]: Az R. 21/C. §-ának – eredeti 21/A. § – (4) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 11. §-a iktatta a szövegbe.
+[^134]: Az R. 22. §-ának (1) bekezdését a 258/2003. ( XII. 24.) Korm. rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^135]: Az R. 22. §-ának (2) bekezdését a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés f) pontja, a 182/2009. (IX. 10.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^136]: Az R. 22. §-ának új (3) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatta. A (3) bekezdést a 294/2002. (XII. 27.) Korm. rendelet 17. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 333/2008. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^137]: Az R. 22. §-a eredeti (3) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (4) bekezdésre változtatta. A (4) bekezdést a 294/2002. (XII. 27.) Korm. rendelet 17. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 333/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^138]: Az R. 22. §-ának eredeti (4) bekezdés számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (5) bekezdésre változtatta. Az R. 22. § (5) bekezdése a 328/2004. (XII. 11.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja, a 159/2006. (VII. 27.) Korm. rendelet 18. § (2) bekezdésének a) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 20. pontja szerint módosított szöveg.
+[^139]: Az R. 22. §-a eredeti (5) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. § (1) bekezdése (6) bekezdésre változtatta. A (6) bekezdést a 28/2007. (II. 28.) Korm. rendelet 10. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^140]: Az R. 22. §-a eredeti (6) bekezdésének számozását a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (1) bekezdése (7) bekezdésre változtatta. A (7) bekezdést a 174/2005. (IX. 1.) Korm. rendelet 5. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 366/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^141]: Az R. 22. §-ának (8) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének f) pontja, újonnan a 107/2010. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^142]: Az R. 22. §-ának (9) bekezdését a 259/2001. (XII. 19.) Korm. rendelet 9. §-ának (3) bekezdése iktatta be. Szövege a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^143]: Az R. 22. §-ának (10) bekezdését a 258/2003. (XII. 24.) Korm. rendelet 12. §-a iktatta be, szövege a 328/2004. (XII. 11.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 123–124. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^144]: Az R. 23. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^145]: Az R. 24. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^146]: Az R. 25. §-át újonnan a 28/2007. (II. 28.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^147]: Az R. 26. §-át a 366/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 107/2010. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^148]: Az R. 27. §-át a 262/2005. (XII. 14.) Korm. rendelet 15. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 28/2007. (II. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 107/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^149]: Az R. 27/A. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
+[^150]: Az R. 27/B. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
+[^151]: Az R. 28. § (1) bekezdés második–harmadik mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
+[^152]: Az R. 28. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1315. pontja hatályon kívül helyezte.
+[^153]: Az R. 28. §-ának (6) bekezdése a 64/1998. (III. 31.) Korm. rendelet 15. §-ával megállapított szöveg, a 26. §-nak (3) bekezdése a „19.§ ”-ra hivatkozást „ 22. §”-ra módosította.
+[^154]: Az R. 29. §-át a 221/1998. (XII. 30.) Korm. rendelet 23. §-a iktatta a szövegbe.
+[^155]: Az R. 29. §-ának (1) bekezdése a 208/2000. (XII. 11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése, felvezető szövegének első mondata a 366/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdésének j) pontja szerint módosított szöveg.
+[^156]: Az R. 29. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^157]: Az R. 29. §-a (4) bekezdésének első mondatát a 208/2000. (XII.11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése hatályon kívül helyezte.
+[^158]: Az R. 30. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
+[^159]: Az R. 30/A. §-át a 297/2010. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^160]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
