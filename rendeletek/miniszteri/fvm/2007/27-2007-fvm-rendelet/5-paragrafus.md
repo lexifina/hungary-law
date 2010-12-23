@@ -58,13 +58,7 @@ f)[^44] az élelmiszerláncról és hatósági felügyeletéről szóló 2008. �
 
 (6)[^48] Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalja, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben meg fog felelni az (1) bekezdés a) pontjában meghatározott feltételnek.
 
-(8)[^49] A Vhr. 25. § (2) bekezdésétől és a Vhr. 33. § (4) bekezdésétől eltérően a 2009. november 16. és 2009. december 15. között benyújtott támogatási kérelmek esetében
-
-a) a támogatási határozat közlésétől számított 12 hónapon belül az ügyfél köteles kifizetési kérelmet benyújtani, valamint
-
-b) a támogatási döntéssel jóváhagyott elszámolható kiadások összegének legalább 50%-át az ügyfél köteles a támogatási határozat közlésétől számított 24 hónapon belül megvalósítani.
-
-(9)[^50] Ha az ügyfél teljesíti a (8) bekezdésben foglaltakat, akkor a beruházás megvalósítására további 12 hónap áll rendelkezésére. Ha az ügyfél nem teljesíti a (8) bekezdésben foglaltakat, akkor további kifizetési kérelem benyújtására nem jogosult, és az addig kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+(8)–(9)[^49]
 
 [^36]: A 4/B. §-t a 143/2009. (XI. 5.) FVM rendelet 3. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^37]: Az 5. § (1) bekezdése a 23/2010. (X. 20.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -79,5 +73,4 @@ b) a támogatási döntéssel jóváhagyott elszámolható kiadások összegéne
 [^46]: Az 5. § (5) bekezdését a 38/2007. (V. 15.) FVM rendelet 3. § (2) bekezdése iktatta be.
 [^47]: Az 5. § újabb (5) bekezdését a 82/2007. (VIII. 3.) FVM rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 143/2009. (XI. 5.) FVM rendelet 9. § (4) bekezdése. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^48]: Az 5. § (6) bekezdését a 38/2007. (V. 15.) FVM rendelet 3. § (2) bekezdése iktatta be.
-[^49]: Az 5. § (8) bekezdését a 143/2009. (XI. 5.) FVM rendelet 4. § (6) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^50]: Az 5. § (9) bekezdését a 143/2009. (XI. 5.) FVM rendelet 4. § (6) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^49]: Az 5. § (8)–(9) bekezdését a 143/2009. (XI. 5.) FVM rendelet 4. § (6) bekezdése iktatta be, hatályon kívül helyezte a 41/2010. (XII. 20.) VM rendelet 7. §-a.

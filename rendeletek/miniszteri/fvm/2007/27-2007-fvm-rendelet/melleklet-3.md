@@ -94,6 +94,6 @@
 
 ## Magyar Termelői Értékesítő és Szolgáltató Szervezetek/Szövetkezetek Együttműködése (HANGYA)
 
-3. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^93]
+3. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^92]
 
-[^93]: A 3. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^92]: A 3. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
