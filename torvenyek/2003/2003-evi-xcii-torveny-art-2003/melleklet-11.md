@@ -73,5 +73,3 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 4. a Cseh Köztársaság esetében: -;
 
 5. a Dán Királyság esetében: afgift af lystfartøjsforsikringer, afgift af ansvarsforsikringer for motorkøretøjer .v., stempelafgift af forsikringspræmier;
-
-6. az Egyesült Királyság esetében: insurance premium tax (IPT);
