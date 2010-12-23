@@ -22,6 +22,6 @@ c) a jogosult nem tartja be a repülőtérrendet,
 
 d) a jogosult a 11. §-ban meghatározott, a számviteli elkülönítéssel kapcsolatos kötelezettségét megszegi.
 
-(3)[^12]
+(3)[^14]
 
-[^12]: A 10. § (3) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 20. § (6) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 10. § (3) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 20. § (6) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

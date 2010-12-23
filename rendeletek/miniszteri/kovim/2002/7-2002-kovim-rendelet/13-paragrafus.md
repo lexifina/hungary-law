@@ -1,6 +1,6 @@
 ## A harmadik fél részére történő földi kiszolgálás korlátozása
 
-13. § (1)[^14] A légiközlekedési hatóság a repülőtér üzemben tartójának kérelmére a kiszolgálók számát tevékenységenként legkevesebb kettőre korlátozhatja olyan repülőtéren, amelyen évente legalább kétmillió utas- vagy 50 000 tonna áruforgalmat bonyolítanak le – feltéve, ha a légiközlekedés biztonsága, illetve a rendelkezésre álló terület vagy kapacitás korlátai azt indokolják – a következő tevékenységek vonatkozásában:
+13. § (1)[^16] A légiközlekedési hatóság a repülőtér üzemben tartójának kérelmére a kiszolgálók számát tevékenységenként legkevesebb kettőre korlátozhatja olyan repülőtéren, amelyen évente legalább kétmillió utas- vagy 50 000 tonna áruforgalmat bonyolítanak le – feltéve, ha a légiközlekedés biztonsága, illetve a rendelkezésre álló terület vagy kapacitás korlátai azt indokolják – a következő tevékenységek vonatkozásában:
 
 a) poggyászkezelés,
 
@@ -22,4 +22,4 @@ d) az a szervezet, amely az a) vagy a b) pontban meghatározottak irányítása 
 
 (3) Amennyiben a légiközlekedési hatóság korlátozza a kiszolgálók számát, a repülőtér-használók minden egyes, korlátozás alatt álló földi kiszolgálási tevékenység vonatkozásában legalább két kiszolgáló közül választhatnak.
 
-[^14]: A 13. § (1) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 20. § (5) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 13. § (1) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 20. § (5) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

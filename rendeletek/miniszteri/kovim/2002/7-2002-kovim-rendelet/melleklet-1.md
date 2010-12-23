@@ -1,4 +1,4 @@
-## 24. §[^23] Ez a rendelet a – a légiközlekedésről szóló 1995. évi XCVII. törvényben foglaltakkal együtt – a Tanácsnak a közösségi repülőterek földi kiszolgálási piacához való hozzáférésről szóló 1996. október 15-i 96/67/EK irányelvének való megfelelést szolgálja.
+## 24. §[^25] Ez a rendelet a – a légiközlekedésről szóló 1995. évi XCVII. törvényben foglaltakkal együtt – a Tanácsnak a közösségi repülőterek földi kiszolgálási piacához való hozzáférésről szóló 1996. október 15-i 96/67/EK irányelvének való megfelelést szolgálja.
 
 1. számú melléklet a 7/2002. (I. 28.) KöViM rendelethez
 
@@ -102,4 +102,4 @@ A forgalmi előtéren előforduló feladatok:
 
 14.5. egyéb biztonsági szolgáltatások.
 
-[^23]: A 24. § a 48/2009. (IX. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 24. § a 48/2009. (IX. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

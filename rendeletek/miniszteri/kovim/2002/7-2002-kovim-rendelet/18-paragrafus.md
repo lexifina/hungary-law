@@ -10,7 +10,7 @@ c) tulajdonosi érdekeltséggel rendelkezik a b) pontban meghatározott kiszolg�
 
 (2) Az (1) bekezdésben említett esetben, a repülőtér üzemben tartója a saját kiszolgálásra jogosult repülőtér-használókat, illetve a kiszolgálókat ötéves időtartamra választja ki a földi kiszolgáláshoz kapcsolódó objektív, átlátható és hátrányos megkülönböztetéstől mentes feltételek alapján, figyelembe véve a biztonságra, a költséghatékonyságra, valamint a földi kiszolgálásra rendelkezésre álló terület és kapacitás optimális kihasználásának követelményeit.
 
-(3)[^20] A kiszolgálók kiválasztása nyilvános pályázat útján történik. A pályázati felhívást
+(3)[^22] A kiszolgálók kiválasztása nyilvános pályázat útján történik. A pályázati felhívást
 
 a) a repülőtér üzemben tartója honlapján,
 
@@ -24,4 +24,4 @@ közzé kell tenni.
 
 (5) Ha a repülőtéren a földi kiszolgálást a légiközlekedési hatóság a 12. §, a 13. § (1) bekezdése vagy a 14. § (1) bekezdése alapján korlátozza, és a jogosult földi kiszolgálási tevékenységét megszünteti, mielőtt az engedélyének időtartama lejár, vagy engedélyét a légiközlekedési hatóság a 9. § alapján felfüggeszti, a jogosult helyett újabb saját kiszolgálásra jogosult repülőtér-használó, illetve kiszolgáló kiválasztására az e rendeletben előírt szabályok vonatkoznak.
 
-[^20]: A 18. § (3) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^22]: A 18. § (3) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 1. §-ával megállapított szöveg.
