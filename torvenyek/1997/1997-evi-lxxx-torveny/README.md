@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2010-10-03 | 2010. évi XCII. törvény | 1997-80-00-00.44 |
 | 2010-11-03 | 2010. évi C. törvény | 1997-80-00-00.45 |
 | 2010-11-20 | 2010. évi CXXIII. törvény | 1997-80-00-00.46 |
+| 2010-12-23 | 2010. évi CLVII. törvény | 1997-80-00-00.47 |

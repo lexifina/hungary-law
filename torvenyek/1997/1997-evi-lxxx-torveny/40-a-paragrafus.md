@@ -1,0 +1,1 @@
+Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás és az egészségbiztosítási nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
