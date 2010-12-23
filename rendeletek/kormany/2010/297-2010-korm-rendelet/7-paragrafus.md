@@ -1,0 +1,5 @@
+## 4. Igazolási kérelem
+
+7. § (1) Az igazolási kérelmet [Mpt. 123. § (6) bekezdése] az a nyugdíj-biztosítási igazgatóság bírálja el hatósági eljárásban, amelynél azt előterjesztették. A Magyar Köztársaság külképviseletén, a Nyugdíjfolyósító Igazgatóságnál vagy az ONYF-nél előterjesztett igazolási kérelmet a fővárosi nyugdíj-biztosítási igazgatóság bírálja el. A Nyugdíjfolyósító Igazgatóság és – a Külügyminisztériumon keresztül – a Magyar Köztársaság külképviseletei az igazolási kérelmet a nyilatkozattal együtt az előterjesztéstől számított 8 napon belül megküldik az ONYF-nek. Az ONYF a részére megküldött és a nála benyújtott kérelmeket haladéktalanul továbbítja a fővárosi nyugdíj-biztosítási igazgatóságnak.
+
+(2) Ha a nyugdíj-biztosítási igazgatóság a kérelemnek helyt ad, a döntést a nyilatkozatra feljegyzi, és annak egy példányát megküldi az ONYF-nek. Az ONYF a nyilatkozatot a határozat jogerőre emelkedését követő 8 napon belül megküldi az érintett magánnyugdíjpénztárnak, továbbá másolatban a Felügyeletnek, valamint az ÁKK-nak.
