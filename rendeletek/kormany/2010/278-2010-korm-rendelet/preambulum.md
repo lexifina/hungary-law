@@ -1,0 +1,1 @@
+A Kormány a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében a következőket rendeli el:
