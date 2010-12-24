@@ -1,0 +1,1 @@
+## „c) „C” osztály: kizárólag sétarepülés céljára szolgáló, fel- és leszállásra kijelölt olyan terület, amelyen a használó légijármű számára, a légiüzemeltetési utasításában meghatározott hosszúsági, szélességi mérettel és akadálymentességgel rendelkező repülési sáv rendelkezésre áll, és ahol a fel- és leszállást biztonságosan végre lehet hajtani.”
