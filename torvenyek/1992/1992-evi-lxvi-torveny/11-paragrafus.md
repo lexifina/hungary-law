@@ -6,7 +6,7 @@
 
 a) nevét;
 
-b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), valamint menekült, bevándorolt, letelepedett jogállását, illetve a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét;
+b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), valamint menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, illetve a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét;
 
 c) nemét;
 

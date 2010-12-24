@@ -20,7 +20,7 @@ ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyette
 
 gb) a Magyar Köztársaság területének külföldi letelepedés szándékával történő elhagyását,
 
-gc) a bevándorlási engedély visszavonását, illetőleg a menekült jogállás megszűnését,
+gc) a bevándorlási engedély visszavonását, illetőleg a menekült vagy oltalmazott jogállás megszűnését,
 
 gd) a magyar állampolgárság megszűnését,
 
@@ -28,7 +28,9 @@ ge) a tulajdonos halálát;
 
 h) kezeli a központi okmánytárat;
 
-m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat.
+m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
+
+n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat.
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
