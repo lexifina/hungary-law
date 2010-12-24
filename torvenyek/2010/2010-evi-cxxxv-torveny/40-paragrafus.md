@@ -1,3 +1,3 @@
-40. § A Harmtv. 27. § (2) bekezdése helyébe a következő rendelkezés lép:
+## „(3) A tanulmányi célból kiadott tartózkodási engedély érvényességi ideje a (2) bekezdésben meghatározottak figyelembevételével sem haladhatja meg a kérelmező úti okmányának érvényességi idejét.”
 
-„(2) A nemzeti tartózkodási engedély érvényességi ideje legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható.”
+40. § A Harmtv. 27. § (2) bekezdése helyébe a következő rendelkezés lép:

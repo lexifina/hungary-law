@@ -1,7 +1,15 @@
+## „52/A. § (1) Amennyiben nincs olyan biztonságos ország, amely az érintett harmadik országbeli állampolgárt befogadja, a visszairányítás végrehajtásának vagy a kiutasítás végrehajtásának tilalma esetén az idegenrendészeti hatóság a harmadik országbeli állampolgárt befogadottként ismeri el, és a 29. § (1) bekezdés b) pontja alapján intézkedik a humanitárius tartózkodási engedély kiadásáról.
+
+## (2) A befogadottkénti elismerés feltételeinek megszűnése esetén az idegrendészeti hatóság a befogadott státuszt visszavonja.
+
+## (3) A befogadott státuszt abban az esetben is vissza kell vonni, ha a harmadik országbeli állampolgár
+
+## a) más jogcímen szerzett tartózkodási jogosultságot, vagy
+
+## b) a befogadott státusz felülvizsgálatára folytatott eljárás során az eljáró idegenrendészeti hatóság felhívására – a felhívástól számított – három hónapon belül nem jelenik meg az eljáró hatóság előtt.”
+
 59. § (1) A Harmtv. 53. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-„(1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a kiutasítást előkészítő őrizetet, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, valamint az idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.”
+## „(1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a kiutasítást előkészítő őrizetet, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, valamint az idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.”
 
 (2) A Harmtv. 53. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes, a nemzeti és az EK letelepedési engedély kérelmezésekor, valamint a 29. § (1) bekezdés a)–b) és d)–f) pontjai szerinti humanitárius tartózkodási engedély kiadásakor az idegenrendészeti hatóság a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján jár el.”

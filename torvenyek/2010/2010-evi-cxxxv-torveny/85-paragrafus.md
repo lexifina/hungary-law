@@ -1,5 +1,3 @@
+## „(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben foglaltaknak.”
+
 85. § A Met. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § (1) A befogadási feltételek magukba foglalják a befogadás anyagi feltételeit, valamint az elismerését kérő mozgásszabadságával, egészségügyi és szociális ellátásával, valamint oktatásával kapcsolatos valamennyi, törvényben és kormányrendeletben meghatározott jogosultságot és intézkedést.
-
-(2) Az elismerését kérő – rászorultsága esetén – térítésmentesen jogosult az e törvényben és külön jogszabályban meghatározott befogadási feltételekre.”

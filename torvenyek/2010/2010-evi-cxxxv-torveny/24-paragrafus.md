@@ -1,15 +1,5 @@
+## „(2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban vagy önálló határozatban kell rendelkezni. Bírósági kiutasítás esetén a kitoloncolást a bírósági kiutasítás végrehajtásáról hozott végzésben vagy önálló végzésben kell elrendelni, amellyel szemben – a (4) bekezdésben meghatározott kivétellel – jogorvoslatnak nincs helye.
+
+## (3) A kitoloncolást elrendelő határozat vagy végzés végrehajtásának felfüggesztése nem kérelmezhető.”
+
 24. § Az Szmtv. 51. §-a helyébe a következő rendelkezés lép:
-
-„51. § (1) Az eljáró hatóság a kitoloncolás végrehajtásának biztosítása érdekében őrizetbe (a továbbiakban: kitoloncolási őrizet) veszi azt az EGT-állampolgárt, illetve a családtagot, akinek kitoloncolását az 50. § (1) bekezdése alapján rendelte el. Kiskorút nem lehet kitoloncolási őrizetbe venni.
-
-(2) Ha a kitoloncolás elrendelésére az 50. § (1a) bekezdése alapján került sor, az EGT-állampolgárt, illetve a családtagot az eljáró hatóság kitoloncolási őrizetbe veheti.
-
-(3) A kitoloncolási őrizetet az eljáró hatóság legfeljebb hetvenkét órára rendelheti el, amelyet a kitoloncolási őrizet helye szerint illetékes helyi bíróság a kitoloncolás végrehajtásáig, de alkalmanként legfeljebb harminc nappal meghosszabbíthat.
-
-(4) A kitoloncolási őrizetet határozattal kell elrendelni, és a közléssel egyidejűleg végre kell hajtani. A kitoloncolási őrizetet azonnal meg kell szüntetni, ha
-
-a) elrendelésének oka megszűnt,
-
-b) nyilvánvalóvá válik, hogy a kiutasítást nem lehet végrehajtani, vagy
-
-c) az elrendeléstől számított három hónap eltelt.”

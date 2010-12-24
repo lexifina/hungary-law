@@ -1,3 +1,3 @@
-109. § A Met. 58. § (3) bekezdése helyébe a következő rendelkezés lép:
+## „57. § A részletes vizsgálati eljárásban e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatóságként vesz részt.”
 
-„(3) Alaptalan a kérelem, ha a menekültkénti elismerés feltételei nem állnak fenn, vagy a menekültkénti elismerés a 8. § (1) bekezdés alapján kizárt.”
+109. § A Met. 58. § (3) bekezdése helyébe a következő rendelkezés lép:

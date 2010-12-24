@@ -1,3 +1,3 @@
-3. § Az Szmtv. 4. §-a a következő (1a) bekezdéssel egészül ki:
+## „b) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik.”
 
-„(1a) Amennyiben a három hónapot meg nem haladó tartózkodásra jogosító vízumot kérelmező a családi kapcsolatot a beutazás engedélyezése érdekében létesítette, az e törvényben, illetve e törvény végrehajtási rendeletében meghatározott kedvezmények a kérelmezőre nem alkalmazhatóak.”
+3. § Az Szmtv. 4. §-a a következő (1a) bekezdéssel egészül ki:

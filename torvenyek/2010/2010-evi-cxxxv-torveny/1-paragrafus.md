@@ -4,6 +4,6 @@
 
 [A Magyar Köztársaság az e törvényben foglaltak szerint biztosítja a szabad mozgás és tartózkodás jogának gyakorlását]
 
-„db) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik,”
+## „db) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik,”
 
 [és a hatóság családtagként való beutazását és tartózkodását engedélyezi.]

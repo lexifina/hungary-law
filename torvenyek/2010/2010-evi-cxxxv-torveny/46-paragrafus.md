@@ -1,3 +1,3 @@
-46. § A Harmtv. 41. § (2) bekezdése helyébe a következő rendelkezés lép:
+## „b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyelet jogát gyakorló harmadik országbeli állampolgár szülőnek a Magyar Köztársaság területén történő tartózkodásra jogosító engedélyét az idegenrendészeti hatóság visszavonta, és a kiskorú további tartózkodásának feltételei a szülői felügyeletet gyakorló másik szülőnél a Magyar Köztársaság területén nem biztosítottak;”
 
-„(2) Ha a visszairányítás az (1) bekezdés b) pontjában meghatározott időtartamon belül nem hajtható végre, a harmadik országbeli állampolgár kiutasítása érdekében intézkedni kell. Amennyiben a kiutasításra nem a 43. § (2) bekezdés d) pontja alapján kerül sor, a harmadik országbeli állampolgárral szemben nem lehet beutazási és tartózkodási tilalmat elrendelni.”
+46. § A Harmtv. 41. § (2) bekezdése helyébe a következő rendelkezés lép:

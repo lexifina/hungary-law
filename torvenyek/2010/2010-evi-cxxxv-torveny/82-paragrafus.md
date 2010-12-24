@@ -1,3 +1,3 @@
-82. § A Met. 9. §-a helyébe a következő rendelkezés lép:
+## „(5) A miniszter menekültként ismerheti el azt a más állam hatósága vagy az Egyesült Nemzetek Szervezete Menekültügyi Főbiztossága által menekültként elismert külföldit, akire nézve a menekültügyi hatóság a genfi egyezmény alkalmazhatóságát megállapította.”
 
-„9. § Ha a menekültkénti elismerését kérő származási országa szerepel a biztonságos származási országok európai uniós vagy nemzeti listáján, az elismerését kérőnek kell bizonyítania, hogy az elismerést kérő vonatkozásában származási országa nem felel meg a biztonságos származási országokra meghatározott feltételeknek.”
+82. § A Met. 9. §-a helyébe a következő rendelkezés lép:

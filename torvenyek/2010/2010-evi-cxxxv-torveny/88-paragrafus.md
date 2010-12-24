@@ -1,3 +1,3 @@
-88. § A Met. 29. §-a helyébe a következő rendelkezés lép:
+## „28. § A befogadás anyagi feltételeit a fogva tartott elismerését kérő részére is biztosítani kell.”
 
-„29. § A befogadási feltételek biztosítása során figyelemmel kell lenni a különleges bánásmódot igénylő személy sajátos szükségleteire.”
+88. § A Met. 29. §-a helyébe a következő rendelkezés lép:

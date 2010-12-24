@@ -1,13 +1,3 @@
+## „(10) A (3) bekezdésben foglaltak nem alkalmazhatók, ha a kérelmező származási országa nem igazolt, vagy valószínűsített.”
+
 98. § A Met. 46. §-a helyébe a következő rendelkezés lép:
-
-„46. § A menekültügyi hatóság által lefolytatott eljárásban nincs helye
-
-a) fellebbezésnek, újrafelvételi eljárásnak;
-
-b) az eljárás kérelemre történő felfüggesztésének;
-
-c) elektronikus kapcsolattartásnak;
-
-d) a jogszabálysértő döntés visszavonásáról rendelkező döntés elleni jogorvoslatnak;
-
-e) kézbesítési ügygondnok kijelölésének.”

@@ -7,11 +7,3 @@ a) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 b) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikáról, valamint a külföldi állampolgárságú munkavállalókra vonatkozó statisztikák összeállításáról szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. július 11-i 862/2007/EK tanácsi rendelet [77. §];
 
 c) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [12. §, 35. §].
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke

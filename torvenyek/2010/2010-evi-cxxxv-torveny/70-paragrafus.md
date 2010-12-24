@@ -1,3 +1,5 @@
-70. § A Harmtv. 82. §-a helyébe a következő rendelkezés lép:
+## „Az oktatási intézmények bejelentési kötelezettsége
 
-„82. § A Magyar Köztársaság külképviselete úti okmányt ad ki egyszeri utazásra annak a Magyar Köztársaság által hontalanként elismert, bevándorolt, illetve letelepedett harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem vagy csak aránytalan nehézségek árán pótolható, és emiatt a Magyar Köztársaság területére történő visszatérésére nincs lehetőség.”
+## 74/A. § Az oktatási intézmény azokról a külföldi hallgatókról, akik a tanulmányaikat megkezdték, befejezték vagy megszakították, illetve akik a beiratkozási kötelezettségüknek nem tettek eleget, vagy akiknek a hallgatói jogviszonya megszűnt, nyolc munkanapon belül köteles tájékoztatni az oktatási intézmény székhelye szerint illetékes idegenrendészeti hatóságot.”
+
+70. § A Harmtv. 82. §-a helyébe a következő rendelkezés lép:

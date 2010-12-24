@@ -1,5 +1,3 @@
+## „(2a) Ha a kiutasítást a 40. § (2) bekezdés c) pontja alapján rendeli el az eljáró hatóság, a beutazási és tartózkodási tilalom időtartamára az elrendelést kezdeményező rendvédelmi szerv javaslatot tesz.”
+
 20. § Az Szmtv. a 47. §-t követően a következő 47/A–47/B. §-sal egészül ki:
-
-„47/A. § Az idegenrendészeti kiutasítás végrehajtásának biztosítása érdekében az eljáró hatóság az EGT-állampolgár, illetve a családtag úti okmányát elveheti, amely intézkedéssel szemben külön jogorvoslatnak nincs helye.
-
-47/B. § A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján harmadik országbeli állampolgárokkal szemben elrendelt idegenrendészeti kiutasításokat és a kiutasító határozatok alapján a Schengeni Információs Rendszerben elhelyezett, a Schengeni Végrehajtási Egyezmény 96. cikke szerinti beutazási és tartózkodási tilalom figyelmeztető jelzéseket (a továbbiakban: SIS jelzés) a harmadik országbeli családtag kiutasítása végrehajtása előtt vagy a tartózkodási jogot igazoló okmány kiállítása iránti eljárásban – a 33. §-ban foglaltakra is figyelemmel – felül kell vizsgálni. Ha a kiutasítás és a beutazási és tartózkodási tilalom, valamint a SIS jelzés fenntartása aránytalan érdeksérelemmel jár, az idegenrendészeti kiutasítás elrendeléséről hozott határozatot az eljáró hatóság törli. Az eljáró hatóság az eljárást tizenöt munkanap alatt folytatja le és határozattal dönt.”

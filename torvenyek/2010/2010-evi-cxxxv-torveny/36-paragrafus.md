@@ -1,3 +1,3 @@
-36. § A Harmtv. 16. §-a a következő (4) bekezdéssel egészül ki:
+## „(4) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, visszavonása, valamint a vízum meghosszabbítása tárgyában hozott döntés ellen fellebbezésnek van helye. A fellebbezés tárgyában hozott döntés ellen további jogorvoslatnak nincs helye.”
 
-„(4) A harmadik országbeli állampolgár az e törvény végrehajtási rendeletében meghatározott méltányossági kérelem elfogadása esetén a Magyar Köztársaság területén terjeszthet elő tartózkodási engedély kiadása iránti kérelmet.”
+36. § A Harmtv. 16. §-a a következő (4) bekezdéssel egészül ki:

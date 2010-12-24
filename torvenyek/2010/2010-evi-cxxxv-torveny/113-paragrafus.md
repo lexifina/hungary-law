@@ -1,3 +1,3 @@
-113. § A Met. 68. § (3) bekezdése helyébe a következő rendelkezés lép:
+## „(2) A menekültügyi hatóság az elismerésről szóló határozat közlésével egyidejűleg a menekültként vagy oltalmazottként elismert külföldit – az anyanyelvén vagy az általa értett más nyelven – írásban tájékoztatja a jogairól és kötelezettségeiről.”
 
-„(3) A keresetről a bíróság – a keresetlevél beérkezésétől számított negyvenöt munkanapon belül – peres eljárásban dönt. Amennyiben a kérelmező személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, a bíróság soron kívül jár el.”
+113. § A Met. 68. § (3) bekezdése helyébe a következő rendelkezés lép:

@@ -1,3 +1,3 @@
-14. § Az Szmtv. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+## „(2a) Az eljáró hatóság a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási kártya kiadása iránti kérelme benyújtásakor a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelete, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján jár el.”
 
-„(1) Az EGT-állampolgár, valamint a családtag a Magyar Köztársaság területén lévő első lakóhelyét a regisztrációs igazolás, illetve a tartózkodási kártya kiállításával kapcsolatos eljárásban jelenti be a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény rendelkezéseinek megfelelően.”
+14. § Az Szmtv. 27. § (1) bekezdése helyébe a következő rendelkezés lép:

@@ -1,3 +1,3 @@
-87. § A Met. 28. §-a helyébe a következő rendelkezés lép:
+## „27. § Amennyiben törvény vagy kormányrendelet másként nem rendelkezik, az elismerését kérő az elismerés iránti kérelem benyújtását követően a menekültügyi eljárás jogerős lezárásig az e törvényben és külön jogszabályban meghatározott, az egészségi állapotának megfelelő és alapszükségleteit kielégítő befogadás anyagi feltételeire és egyéb támogatásokra jogosult.”
 
-„28. § A befogadás anyagi feltételeit a fogva tartott elismerését kérő részére is biztosítani kell.”
+87. § A Met. 28. §-a helyébe a következő rendelkezés lép:

@@ -1,3 +1,5 @@
+## „(1) Ha a gyermek felügyelet nélkül marad vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a települési önkormányzat jegyzője, a gyámhivatal valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a bíróság a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket ideiglenesen”
+
 ## III. Fejezet
 
 ## Záró rendelkezések

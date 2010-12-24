@@ -1,19 +1,23 @@
+## „47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kitoloncolását rendelte el.
+
+## (2) Az idegenrendészeti hatóság a beutazási és tartózkodási tilalmat önálló határozattal rendeli el, ha a harmadik országbeli állampolgár kitoloncolását a 65. § (1) bekezdés d) pontja alapján rendelte el.
+
+## (3) A beutazási és tartózkodási tilalmat elrendelő önálló határozat ellen a harmadik országbeli állampolgár fellebbezést terjeszthet elő. A határozat ellen további jogorvoslatnak nincs helye. A fellebbezés a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. Az idegenrendészeti hatóság a fellebbezést az ügy irataival együtt haladéktalanul megküldi a fellebbezés elbírálására jogosult hatóságnak, mely a fellebbezést öt munkanapon belül bírálja el.
+
+## (4) Az idegenrendészeti hatóság a 43. § (2) bekezdésében meghatározott kiutasítási okok alapján elrendelt kiutasítás esetén beutazási és tartózkodási tilalmat rendelhet el a jogsértés jellegére és súlyára, a harmadik országbeli állampolgár személyes körülményeire, ismételt beutazásának és tartózkodásának a közrendre, a közbiztonságra vagy a nemzetbiztonságra jelentett veszélyére figyelemmel.
+
+## (5) A kiutasítással együtt vagy az önálló határozatban elrendelt beutazási és tartózkodási tilalom időtartamát években kell meghatározni, és – a (6) bekezdésben foglalt kivétellel – legfeljebb öt évre kell elrendelni.
+
+## (6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása a Magyar Köztársaság területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
+
+## (7) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát az Európai Unió tagállamai területének elhagyásának napjától, vagy ha ez nem ismert, az erre meghatározott határnaptól kell számítani.
+
+## (8) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be a Magyar Köztársaság területére.
+
+## (9) A beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból vagy kérelemre – visszavonhatja ha,
+
+## a) a harmadik országbeli állampolgárral szemben a 43. § (2) bekezdése alapján került sor kiutasítással együtt beutazási és tartózkodási tilalom elrendelésére és a harmadik országbeli állampolgár bizonyítani tudja, hogy a kiutasító határozatnak teljes mértékben eleget téve elhagyta az Európai Unió tagállamainak területét, vagy
+
+## b) további fenntartása az elrendelésére okot adó körülmények jelentős megváltozására figyelemmel nem indokolt.”
+
 54. § A Harmtv. a 48. §-t követően a következő 48/A–48/C. §-sal egészül ki:
-
-„48/A. § (1) Ha a harmadik országbeli állampolgár kiutasítására irányuló idegenrendészeti eljárás során arra utaló tény merül fel, hogy a dublini rendeletek alkalmazásának feltételei állnak fenn, és a harmadik országbeli állampolgár a menedékjogi törvény szerinti elismerés iránti kérelmet nem terjesztett elő, az idegenrendészeti hatóság kezdeményezi a menekültügyi hatóságnál, hogy a dublini eljárást folytassa le, és annak befejezéséig az idegenrendészeti eljárást felfüggeszti.
-
-(2) Az (1) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
-
-48/B. § (1) Ha a dublini rendeletek alapján valamely a dublini rendeleteket alkalmazó állam a kérelmező visszavételére köteles, a menekültügyi hatóság a harmadik országbeli állampolgár visszaadásáról végzéssel dönt.
-
-(2) A visszaadásról rendelkező végzéssel szemben bírósági felülvizsgálatnak van helye.
-
-(3) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
-
-(4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
-
-(5) A bírósági felülvizsgálat során a visszaadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására nincs halasztó hatálya.
-
-48/C. § (1) Ha a dublini eljárás a harmadik országbeli állampolgár visszaadásával zárul, az idegenrendészeti eljárást a visszaadás időpontjában meg kell szüntetni.
-
-(2) Az eljárást megszüntető végzéssel szemben jogorvoslatnak nincs helye.”

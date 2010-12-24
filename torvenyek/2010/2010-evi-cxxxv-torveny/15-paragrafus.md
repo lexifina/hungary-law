@@ -1,3 +1,3 @@
-15. § Az Szmtv. 30. §-a helyébe a következő rendelkezés lép:
+## „(1) Az EGT-állampolgár, valamint a családtag a Magyar Köztársaság területén lévő első lakóhelyét a regisztrációs igazolás, illetve a tartózkodási kártya kiállításával kapcsolatos eljárásban jelenti be a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény rendelkezéseinek megfelelően.”
 
-„30. § Ha az EGT-állampolgár vagy a családtag felhagy tartózkodási jogának gyakorlásával, ezt az eljáró hatóságnak bejelentheti, és a tartózkodási jogot igazoló okmányát leadhatja.”
+15. § Az Szmtv. 30. §-a helyébe a következő rendelkezés lép:

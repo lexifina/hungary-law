@@ -1,5 +1,5 @@
+## „(4a) A biometrikus adatokat tartalmazó tartózkodásra jogosító okmány tároló elemének a harmadik országbeli állampolgár azonosítása céljából valamely fizikai tulajdonságának (arcképmás, ujjnyomat) rögzítésével előállított személyes adatait az idegenrendészeti hatóság a személyes adatnak a tároló elemből történő olvasásával kezelheti a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában meghatározott célból.
+
+## (4b) Az idegenrendészeti hatóság a (4a) bekezdésben meghatározott célból rögzített ujjnyomat-adatot kizárólag a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak megállapítása céljából, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.”
+
 69. § A Harmtv. a 74. §-t követően a következő alcímmel és 74/A. §-sal egészül ki:
-
-„Az oktatási intézmények bejelentési kötelezettsége
-
-74/A. § Az oktatási intézmény azokról a külföldi hallgatókról, akik a tanulmányaikat megkezdték, befejezték vagy megszakították, illetve akik a beiratkozási kötelezettségüknek nem tettek eleget, vagy akiknek a hallgatói jogviszonya megszűnt, nyolc munkanapon belül köteles tájékoztatni az oktatási intézmény székhelye szerint illetékes idegenrendészeti hatóságot.”

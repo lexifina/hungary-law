@@ -1,3 +1,3 @@
-72. § A Harmtv. 90. § (1) bekezdése helyébe a következő rendelkezés lép:
+## „c) az őrizet meghosszabbítása tárgyában hozott bírósági határozatot.”
 
-„(1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak sincs helye.”
+72. § A Harmtv. 90. § (1) bekezdése helyébe a következő rendelkezés lép:
