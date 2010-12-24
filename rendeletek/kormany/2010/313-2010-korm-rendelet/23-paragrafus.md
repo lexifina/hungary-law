@@ -1,0 +1,1 @@
+## „(7) Amennyiben a költségvetési szerv az alaptevékenysége ellátásához kapcsolódóan meghatározott feladat ellátására támogatásban részesül, a támogatás összegét úgy kell megállapítani, hogy az fedezetet nyújtson a felmerült közvetlen és közvetett költségekre is. E rendelkezést nem kell alkalmazni az európai uniós forrásból finanszírozott támogatásokra.”
