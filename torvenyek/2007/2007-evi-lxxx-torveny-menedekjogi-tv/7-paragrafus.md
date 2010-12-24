@@ -8,4 +8,4 @@
 
 (4) Az idegenrendészetért és menekültügyért felelős miniszter (a továbbiakban: miniszter) a menekültkénti elismerés feltételei fennállásának hiányában kivételes méltányosságból menekültként ismerheti el azt a külföldit, akinek az elismerését humanitárius ok indokolja, feltéve, hogy a külföldi menekültkénti elismerését kizáró ok nem áll fenn.
 
-(5) A miniszter menekültként ismerheti el azt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztossága által menekültként elismert külföldit, akire nézve a menekültügyi hatóság a Genfi Egyezmény alkalmazhatóságát megállapította. Az e bekezdés alapján elismert menekültek száma évente száz főt nem haladhat meg.
+(5) A miniszter menekültként ismerheti el azt a más állam hatósága vagy az Egyesült Nemzetek Szervezete Menekültügyi Főbiztossága által menekültként elismert külföldit, akire nézve a menekültügyi hatóság a genfi egyezmény alkalmazhatóságát megállapította.

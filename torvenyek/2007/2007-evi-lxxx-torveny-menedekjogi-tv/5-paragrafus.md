@@ -20,6 +20,6 @@ b) nyilatkozni vagyonáról, jövedelméről;
 
 c) a menekültügyi hatóság által számára kijelölt szálláshelyen – az e törvényben meghatározottak szerint – életvitelszerűen tartózkodni és a kijelölt szálláshelyen a tartózkodásra irányadó magatartási szabályokat megtartani;
 
-d) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
+d) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni.
 
-e) a befogadó állomáson való foglalkoztatás kivételével a munkavállalástól tartózkodni.
+e)

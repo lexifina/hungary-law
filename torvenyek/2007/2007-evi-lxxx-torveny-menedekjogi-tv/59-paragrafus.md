@@ -2,7 +2,7 @@
 
 a) származási országa biztonságos származási országnak tekinthető;
 
-b) olyan országból érkezett, amely rá nézve biztonságos harmadik országnak minősül;
+b)
 
 c) nem tárja fel a menekülésre okot adó tényeket és körülményeket, vagy az ezekre vonatkozó nyilatkozata olyan mértékben összefüggéstelen vagy ellentmondásos, hogy abból nem lehet arra következtetni, hogy őt üldözés vagy súlyos sérelem érte vagy ezek veszélye áll fenn;
 

@@ -20,7 +20,11 @@ h) jelölje ki az országinformáció szolgáltatásáért felelős szervet;
 
 i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit.
 
+(1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
+
 (2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a Magyar Köztársaság által nemzeti szinten biztonságosnak nyilvánított származási országok listáját.
+
+(2a) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a 7. § (5) bekezdése alapján évente menekültként elismerhető külföldiek számát.
 
 (3) A miniszter felhatalmazást kap arra, hogy rendeletben
 

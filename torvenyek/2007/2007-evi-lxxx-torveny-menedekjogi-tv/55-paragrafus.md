@@ -1,5 +1,5 @@
-55. § (1) Ha a menekültügyi hatóság a kérelem elfogadhatóságát állapítja meg, a kérelmet érdemi eljárásra utalja.
+55. § (1) A menekültügyi hatóság a kérelmet részletes vizsgálati eljárásra utalja, amennyiben a kérelem elfogadhatóságát állapítja meg, és a kérelem nem nyilvánvalóan megalapozatlan.
 
-(2) Az érdemi eljárásra utaló végzéssel szemben jogorvoslatnak nincs helye.
+(2) A részletes vizsgálati eljárásra utaló végzéssel szemben jogorvoslatnak nincs helye.
 
-(3) Ha a menekültügyi hatóság a kérelmet érdemi eljárásra utalja, és a kérelmező idegenrendészeti őrizetben van, a menekültügyi hatóság kezdeményezésére az idegenrendészeti hatóság az őrizetet megszünteti.
+(3)

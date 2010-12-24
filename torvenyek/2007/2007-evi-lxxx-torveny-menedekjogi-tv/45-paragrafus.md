@@ -8,16 +8,10 @@
 
 (4) Az (1) vagy a (2) bekezdés szerinti tilalom fennállása esetén a menekültügyi hatóság javaslatára az idegenrendészeti hatóság a külföldit befogadottként ismeri el.
 
-(5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és kötelezi a Magyar Köztársaság területének elhagyására.
+(5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról.
 
-(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyar Köztársaság által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről, egyidejűleg kötelezi a Magyar Köztársaság területének elhagyására.
+(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyar Köztársaság által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről.
 
-(7) Az ország elhagyására vonatkozó kötelezettség teljesítésére legalább tíz, legfeljebb harminc napos határidőt kell biztosítani.
+(7)–(9)
 
-(8) A Magyar Köztársaság területének elhagyására vonatkozó kötelezést mellőzni kell, ha a külföldi
-
-a) a Magyar Köztársaság területén más jogcímen tartózkodásra jogosult;
-
-b) a döntéshozatal időpontjában olyan állapotban van, hogy az országelhagyási kötelezettség végrehajtása egészségének súlyos, visszafordíthatatlan vagy maradandó romlását, illetve életveszélyes állapotát idézné elő, és mindezt igazságügyi orvosszakértői vélemény igazolja.
-
-(9) A külföldit kötelezni kell a Magyar Köztársaság területének elhagyására, ha a (8) bekezdés b) pont szerinti veszélyeztetett állapota megszűnt.
+(10) A (3) bekezdésben foglaltak nem alkalmazhatók, ha a kérelmező származási országa nem igazolt, vagy valószínűsített.

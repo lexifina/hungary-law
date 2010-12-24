@@ -32,7 +32,7 @@ o) a jogszabály, illetve szerződés alapján támogatást folyósító szervek
 
 igényelhetnek adatot.
 
-(2) A menekültügyi hatóság a menekültként vagy oltalmazottként történő elismerésről – az érintett természetes személyazonosító adatainak közlésével – tájékoztatja a személyiadat- és lakcímnyilvántartást kezelő központi szervet a nyilvántartásba történő felvétel, illetve személyazonosító igazolvánnyal, valamint személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából.
+(2) A menekültügyi hatóság – az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából – a menekültként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes települési önkormányzat jegyzőjét az oltalmazottként történő elismerésről a személyiadat- és lakcímnyilvántartást kezelő központi szervet.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
 

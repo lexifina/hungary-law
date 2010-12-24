@@ -14,13 +14,13 @@ f) a menekültkénti vagy oltalmazottkénti, valamint a menedékeskénti elismer
 
 g) a menekültkénti, oltalmazottkénti vagy menedékeskénti elismerés tényét és időpontját, a határozatot hozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a határozat hatálya hány személyre terjed ki;
 
-h) az elismerés iránti kérelem elutasításának, a menekültügyi eljárás megszüntetésének, valamint az elismerés visszavonásának tényét, okát és időpontját, az országelhagyási kötelezettség teljesítésének határidejét, a döntéshozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a döntés hatálya hány személyre terjed ki;
+h) az elismerés iránti kérelem elutasításának, a menekültügyi eljárás megszüntetésének, valamint az elismerés visszavonásának tényét, okát és időpontját, a döntéshozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a döntés hatálya hány személyre terjed ki;
 
 i) az elismerését kérő dublini eljárás alapján történő átadásának tényét és okát, az átadásról rendelkező végzés meghozatalának, valamint az elismerését kérő átadásának időpontját, továbbá azt, hogy a végzés hatálya hány személyre terjed ki;
 
-j) családi állapotát, foglalkozását, iskolai végzettségét;
+j) az elismerését kérő családi állapotát, foglalkozását, iskolai végzettségét;
 
-k) lakóhelyét, tartózkodási helyét, szálláshelyét;
+k) az elismerését kérő, valamint az e törvény szerinti támogatásban és ellátásban részesülő menekült, oltalmazott, menedékes lakóhelyét, tartózkodási helyét, szálláshelyét;
 
 l) a származási országa nevét;
 
@@ -30,15 +30,17 @@ n) a személyazonosságát igazoló és úti okmányainak adatait (az okmány az
 
 o) a vele együtt érkező családtagok természetes személyazonosító adatait és magyarországi tartózkodásuk jogcímét;
 
-p) jövedelmi, vagyoni helyzetére vonatkozó olyan adatokat, amelyeket nyilatkozata, az általa szolgáltatott irat vagy az adóhatóság, illetve a társadalombiztosítási feladatokat ellátó szerv adatszolgáltatása tartalmazott.
+p) jövedelmi, vagyoni helyzetére vonatkozó olyan adatokat, amelyeket nyilatkozata, az általa szolgáltatott irat vagy az adóhatóság, illetve a társadalombiztosítási feladatokat ellátó szerv adatszolgáltatása tartalmazott;
+
+q) a hivatalból indított eljárás tényét és időpontját;
+
+r) a menekültügyi eljárás során e törvény alapján foganatosított eljárási cselekmény tényét és időpontját.
 
 (2) A menekültügyi hatóság
 
-a) az (1) bekezdés a)–o) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
+a) az (1) bekezdés a)–o) és q)–r) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
 
-b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől
-
-számított öt évig kezeli.
+b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig kezeli.
 
 (3) Az ujjnyomat rögzítésének és tárolásának célja az elismerését kérő azonosítása és a kérelem többszöri benyújtásának megállapítása. Az eljáró hatóság a rögzített ujjnyomatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja a (4) bekezdés szerinti adatfeldolgozó szervnek.
 
@@ -57,3 +59,7 @@ b) a tizenkettedik életévét betöltött elismerését kérő esetében a víz
 [(5) A (4) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
 
 (6) A menekültügyi hatóság a (3) bekezdés b) pontjában meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 21. és 22. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.]
+
+[(8) A menekültügyi hatóság a menedékesként elismert harmadik országbeli állampolgárnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatait kezeli.]
+
+[(9) A menekültügyi hatóság a (8) bekezdésben meghatározott célból rögzített ujjnyomatadatot a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak céljából, annak befejezéséig kezelheti.]

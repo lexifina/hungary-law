@@ -18,22 +18,22 @@ g) származási ország: az állampolgárság, illetve hontalan személy esetén
 
 h) biztonságos származási ország: az az ország, amely szerepel az Európai Unió Tanácsának a biztonságos származási országnak tekintendő harmadik országokról szóló minimumlistáján, illetve a Kormány rendeletében nemzeti szinten biztonságosnak nyilvánított származási országok listáján, vagy ezen listákon lévő országok egy része; a származási országnak bármelyik listán való szereplése az elismerést kérő személy tekintetében megdönthető vélelmet állít fel, amely szerint ebben az országban, illetőleg az ország egy részében általában és következetesen nem tapasztalható üldöztetés, nem alkalmaznak kínzást, sem kegyetlen, embertelen vagy megalázó bánásmódot vagy büntetést, és amely ország ezen jogok és szabadságok megsértése ellen hatékony jogorvoslati rendszert biztosít;
 
-i) biztonságos harmadik ország: a kérelmező vonatkozásában az az állam, ahol a kérelmező a Magyar Köztársaság területére érkezését megelőzően tartózkodott vagy annak területén átutazott, és lehetősége volt arra, hogy menekültkénti elismerés vagy kiegészítő védelem iránti kérelmet nyújtson be, feltéve, hogy a menekültügyi hatóság meggyőződött arról, hogy az adott országban
+i) biztonságos harmadik ország: az az ország, amelyre vonatkozóan a menekültügyi hatóság meggyőződött arról, hogy a kérelmező az alábbi elvekkel összhangban lévő bánásmódban részesül:
 
-ia) a kérelmező életét és szabadságát nem fenyegeti veszély faji vagy vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz tartozása vagy politikai meggyőződése miatt, illetve nincs kitéve súlyos sérelem veszélyének,
+ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz való tartozása vagy politikai meggyőződés miatt, illetve nincs kitéve súlyos sérelem veszélyének;
 
-ib) a Genfi Egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét,
+ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
 
-ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve, és
+ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve; és
 
-id) biztosított a Genfi Egyezménnyel összhangban álló védelem;
+id) a menekültkénti elismerés kérelmezésének lehetősége biztosított, és a menekültkénti elismerés esetén biztosított a genfi egyezménnyel összhangban álló védelem;
 
 j) családtag: a külföldi
 
-ja) házastársa,
+ja) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
 
-jb) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
+jb) szülője, ha az elismerését kérő vagy a nemzetközi védelemben részesített személy kiskorú,
 
-jc) szülője, ha az elismerését kérő kiskorú;
+jc) házastársa, amennyiben a családi kapcsolat már a Magyarországra érkezést megelőzően is fennállt;
 
-k) különleges bánásmódot igénylő személy: olyan kiszolgáltatott személy – különösen a kiskorú, a kísérő nélküli kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, aki egyéni helyzetére tekintettel sajátos szükségletekkel rendelkezik.
+k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik.

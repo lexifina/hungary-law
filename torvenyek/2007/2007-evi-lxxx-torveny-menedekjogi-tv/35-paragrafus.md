@@ -10,7 +10,7 @@
 
 (5) Ha a cselekvőképtelen személy személyesen kíván elismerés iránti kérelmet előterjeszteni, a menekültügyi hatóság köteles a menekültügyi eljárásba a cselekvőképtelen személy helyett a törvényes képviselőjét bevonni, ennek hiányában ügygondnok kirendelését kérni.
 
-(6) Ha az elismerését kérő kísérő nélküli kiskorú, a menekültügyi hatóság haladéktalanul intézkedik a kiskorú képviseletét ellátó ügygondnok kirendelése iránt.
+(6) Ha az elismerését kérő kísérő nélküli kiskorú, a menekültügyi hatóság haladéktalanul intézkedik a kiskorú képviseletét ellátó ügygondnok kirendelése iránt, kivéve, ha az elismerését kérő minden valószínűség szerint eléri nagykorúságát, mielőtt a menekültügyi hatóság az ügy érdemére vonatkozó döntését meghozza.
 
 (7) A kísérő nélküli kiskorú ügyében a menekültügyi eljárást soron kívül kell lefolytatni.
 

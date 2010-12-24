@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
 
-(4) Ha a dublini eljárás során megkeresett tagállam a kérelmező átvételére és a kérelem vizsgálatára köteles, a menekültügyi hatóság a kérelmező átadásáról végzéssel dönt.
+(4) Ha a dublini eljárás során megkeresett tagállam a kérelmező átvételére és a kérelem vizsgálatára köteles, a menekültügyi hatóság a kérelmező átadásáról végzéssel dönt. Az átadásról hozott végzés közlését követően a kérelem visszavonásának nincs helye.
 
 (5) A menekültügyi hatóság az átadásról hozott végzésben rendelkezik arról, hogy a külföldi az átadás végrehajtásáig, de legfeljebb 72 óráig a számára kijelölt tartózkodási helyet az átadás végrehajtásának biztosítása érdekében nem hagyhatja el.
 
