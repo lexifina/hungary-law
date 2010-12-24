@@ -1,0 +1,3 @@
+49. § A Harmtv. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 43. § (1) bekezdés a)–b) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom időtartama az elrendelés alapjául szolgáló kötelezettség vagy tilalom időtartamához igazodik. A 43. § (1) bekezdés c)–e) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom időtartamát az elrendelő idegenrendészeti hatóság határozza meg, amely legfeljebb három évre rendelhető el, és alkalmanként legfeljebb további három évvel meghosszabbítható. A beutazási és tartózkodási tilalmat haladéktalanul törölni kell, ha az elrendelésének oka megszűnt.”

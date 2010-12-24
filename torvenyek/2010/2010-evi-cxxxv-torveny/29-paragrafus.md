@@ -1,0 +1,11 @@
+29. § (1) Az Szmtv. 81. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az eljáró hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági feladatokat ellátó hatóság, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c), és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, az okmányiroda, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.”
+
+(2) Az Szmtv. 81. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A munkaügyi hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit a Magyar Köztársaság más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.”
+
+(3) Az Szmtv. 81. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat. A 75. § (1) bekezdés a)–c) és g) pontjában foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.”
