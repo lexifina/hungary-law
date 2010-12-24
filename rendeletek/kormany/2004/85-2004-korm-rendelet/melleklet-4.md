@@ -18,6 +18,6 @@
 
 | Megjegyzések | Kamatmentes hitelnél kondíciók stb. |
 
-4. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^83]
+4. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^87]
 
-[^83]: A 4. számú mellékletet a 217/2006. (XI. 9.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte, újonnan az 50/2009. (III. 6.) Korm. rendelet 5. §-a iktatta be.
+[^87]: A 4. számú mellékletet a 217/2006. (XI. 9.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte, újonnan az 50/2009. (III. 6.) Korm. rendelet 5. §-a iktatta be.

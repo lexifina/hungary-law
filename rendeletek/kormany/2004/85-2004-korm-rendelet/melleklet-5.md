@@ -44,6 +44,6 @@
 
 | Rossz/Pénzügyi nehézségek (CCC és ennél alacsonyabb) | 400 | 650 | 1000 |
 
-5. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^84]
+5. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^88]
 
-[^84]: Az 5. számú mellékletet a 247/2007. (IX. 26.) Korm. rendelet 7. §-a hatályon kívül helyezte, újonnan a 108/2009. (V. 20.) Korm. rendelet 2. §-a iktatta be.
+[^88]: Az 5. számú mellékletet a 247/2007. (IX. 26.) Korm. rendelet 7. §-a hatályon kívül helyezte, újonnan a 108/2009. (V. 20.) Korm. rendelet 2. §-a iktatta be.

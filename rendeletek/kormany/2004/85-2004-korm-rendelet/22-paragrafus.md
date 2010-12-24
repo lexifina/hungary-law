@@ -1,4 +1,4 @@
-## 21. §[^52]
+## 21. §[^53]
 
 22. § (1) A Bizottság támogatással kapcsolatos határozatáról a pénzügyminiszter értesíti a támogatást nyújtó szervet.
 
@@ -6,4 +6,4 @@
 
 (3) Ha a Bizottság a (2) bekezdés szerinti értesítés kézhezvételétől számított tizenöt napon belül nem hozza meg a támogatással kapcsolatos határozatát, a pénzügyminiszter tájékoztatja a támogatást nyújtó szervet, hogy a támogatás végrehajtható.
 
-[^52]: A 21. §-t a 66/2005. (IV. 13.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^53]: A 21. §-t a 66/2005. (IV. 13.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.

@@ -2,13 +2,13 @@
 
 ## tájékoztatási és bejelentési kötelezettség
 
-## hatálya alá tartozó létező támogatási programokból nyújtott támogatások[^46]
+## hatálya alá tartozó létező támogatási programokból nyújtott támogatások[^47]
 
-16. §[^47] (1)[^48] Létező támogatási programból előzetesen be kell jelenteni a pénzügyminiszter részére a (3) és (4) bekezdés hatálya alá tartozó támogatásokat.
+16. §[^48] (1)[^49] Létező támogatási programból előzetesen be kell jelenteni a pénzügyminiszter részére a (3) és (4) bekezdés hatálya alá tartozó támogatásokat.
 
 (2) A (3) bekezdésben meghatározott támogatások esetében a pénzügyminiszter eljárására a 17–22. § rendelkezései irányadók.
 
-(3)[^49] A pénzügyminiszter jóváhagyás céljából – a Bizottság részére bejelenti
+(3)[^50] A pénzügyminiszter jóváhagyás céljából – a Bizottság részére bejelenti
 
 a) közúti, vasúti és vízi szállítási ágazatnak nyújtott támogatásokat a közúti, vasúti és vízi szállítási ágazatnak nyújtott állami támogatásokról szóló, többször módosított 1107/70/EK tanácsi rendelet 5. cikk (1) bekezdésében foglaltak szerint;
 
@@ -20,7 +20,7 @@ d) azokat a támogatásokat, amelyek nyújtása során egy létesítmény, a reg
 
 e) bármely más támogatást, amely esetében a közösségi jog a Bizottság részére történő bejelentési kötelezettségről rendelkezik.
 
-(4)[^50] A pénzügyminiszter a vonatkozó közösségi szabály rendelkezései alapján tájékoztatja a Bizottságot
+(4)[^51] A pénzügyminiszter a vonatkozó közösségi szabály rendelkezései alapján tájékoztatja a Bizottságot
 
 a) a szénbányászatnak nyújtott támogatásokról, a szénbányászatnak nyújtott állami támogatásokról szóló 1407/2002/EK tanácsi rendelet 9. cikkében foglaltak szerint;
 
@@ -32,8 +32,8 @@ d) a kutatás-fejlesztési projekteknek nyújtott 3 millió eurót meghaladó t�
 
 e) bármely más támogatásról, amely esetében a közösségi jog a Bizottság részére történő tájékoztatási kötelezettségről rendelkezik.
 
-[^46]: A 16. § előtti cím a 66/2005. (IV. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^47]: A 16. § a 66/2005. (IV. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^48]: A 16. § (1) bekezdése a 217/2006. (XI. 9.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^49]: A 16. § (3) bekezdése a 268/2008. (XI. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^50]: A 16. § (4) bekezdése a 268/2008. (XI. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^47]: A 16. § előtti cím a 66/2005. (IV. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^48]: A 16. § a 66/2005. (IV. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^49]: A 16. § (1) bekezdése a 217/2006. (XI. 9.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^50]: A 16. § (3) bekezdése a 268/2008. (XI. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^51]: A 16. § (4) bekezdése a 268/2008. (XI. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

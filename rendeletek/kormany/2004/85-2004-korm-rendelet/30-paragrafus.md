@@ -1,10 +1,10 @@
-## 29. §[^68] A központi költségvetésből, illetve az elkülönített állami pénzalapokból nyújtott támogatás esetében a pénzügyminiszter az előzetes véleményét, illetve állásfoglalását, azok kiadását követő harminc napon belül megküldi a Magyar Államkincstárnak.
+## 29. §[^72] A központi költségvetésből, illetve az elkülönített állami pénzalapokból nyújtott támogatás esetében a pénzügyminiszter az előzetes véleményét, illetve állásfoglalását, azok kiadását követő harminc napon belül megküldi a Magyar Államkincstárnak.
 
 ## VII. Fejezet
 
 ## REGIONÁLIS TÁMOGATÁSI TÉRKÉP
 
-30. §[^69] (1) A regionális iránymutatás szerinti beruházási támogatások esetében a következő maximális támogatási intenzitások engedélyezhetők:
+30. §[^73] (1) A regionális iránymutatás szerinti beruházási támogatások esetében a következő maximális támogatási intenzitások engedélyezhetők:
 
 a) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl tervezési-statisztikai régiókban 50%,
 
@@ -18,5 +18,5 @@ d) Budapesten 2007. január 1-jétől 25%, 2011. január 1-jétől 10%.
 
 (3) Az (1) bekezdésben meghatározott támogatási intenzitások a regionális iránymutatás 4.3. fejezete alá tartozó beruházások esetében az ott leírtaknak megfelelően csökkennek.
 
-[^68]: A 29. § a 268/2008. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^69]: A 30. § a 217/2006. (XI. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^72]: A 29. § a 268/2008. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^73]: A 30. § a 217/2006. (XI. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

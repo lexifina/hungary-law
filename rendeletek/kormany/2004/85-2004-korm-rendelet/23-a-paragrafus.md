@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^54]
+## IV/A. Fejezet[^55]
 
 ## A PÉNZÜGYI VÁLSÁG MIATTI ÁTMENETI SZABÁLYOK
 
@@ -28,14 +28,19 @@ e) amennyiben az átmeneti támogatás az importáruk helyett hazai áru haszná
 
 (5) A több részletben fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni.
 
-(6) Egy vállalkozásnak 2008. január 1-je és 2010. december 31-e között odaítélt, a jelen § hatálya alá tartozó, és csekély összegű támogatás támogatástartalma együttesen nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget.
+(6)[^56] Egy vállalkozásnak 2008. január 1-je és 2011. december 31-e között odaítélt, a jelen § hatálya alá tartozó, és csekély összegű támogatás támogatástartalma együttesen nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget.
 
 (7) A támogatás nyújtását megelőzően a vállalkozás írásban tájékoztatja a támogatást nyújtót az e § alapján, illetve csekély összegű támogatás formájában 2008. január 1-jét követően neki odaítélt támogatásokról és a még el nem bírált támogatási kérelmeiről.
 
 (8) Átmeneti támogatás csak akkor nyújtható, ha a támogatást nyújtó megbizonyosodott arról, hogy a vállalkozásnak odaítélt csekély összegű és az átmeneti támogatás nem haladja meg a (6) bekezdésben szereplő mértéket.
 
-(9) A támogatást nyújtó kötelessége, hogy felhívja a kedvezményezett figyelmét arra, hogy pénzügyi válság kapcsán nyújtandó átmeneti támogatásban részesült, és egy vállalkozásnak 2008. január 1-je és 2010. december 31-e között odaítélt, a jelen § hatálya alá tartozó és csekély összegű támogatás támogatástartalma együttesen nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget.
+(9)[^57] A támogatást nyújtó kötelessége, hogy felhívja a kedvezményezett figyelmét arra, hogy pénzügyi válság kapcsán nyújtandó átmeneti támogatásban részesült, és egy vállalkozásnak 2008. január 1-je és 2011. december 31-e között odaítélt, a jelen § hatálya alá tartozó és csekély összegű támogatás támogatástartalma együttesen nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget.
 
 (10) A támogatást nyújtó kötelessége, hogy felhívja a kedvezményezett figyelmét arra, hogy az átmeneti támogatáshoz kapcsolódó minden iratot az odaítélést követő 10. évig meg kell őriznie és a támogatást nyújtó ilyen irányú felhívása esetén azokat köteles bemutatni.
 
-[^54]: A IV/A. Fejezetet (23/A–23/D. §-t) az 50/2009. (III. 6.) Korm. rendelet 3. §-a iktatta be.
+(11)[^58] A kedvezményezett legkésőbb 2010. december 31-ig benyújtja a támogatási kérelemre vonatkozó teljes dokumentációt a támogatást nyújtó részére.
+
+[^55]: A IV/A. Fejezetet (23/A–23/D. §-t) az 50/2009. (III. 6.) Korm. rendelet 3. §-a iktatta be.
+[^56]: A 23/A. § (6) bekezdése a 298/2010. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^57]: A 23/A. § (9) bekezdése a 298/2010. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^58]: A 23/A. § (11) bekezdését a 298/2010. (XII. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be.

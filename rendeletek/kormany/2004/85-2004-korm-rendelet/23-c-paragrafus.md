@@ -1,6 +1,6 @@
-## Állami kezességvállalás[^55]
+## Állami kezességvállalás[^59]
 
-23/C. §[^56] (1) E § alapján állami kezességvállalás abban az esetben nyújtható, ha a kezességvállalás díja kis- és középvállalkozásoknál legfeljebb 25%-kal, egyéb esetben legfeljebb 15%-kal kevesebb, mint az 5. mellékletben megállapított kezességvállalási díj. A fentiek alapján csökkentett kezességvállalási díj a kezességvállalás első két évére vonatkozik, a további évekre az 5. mellékletben megállapított kezességvállalási díj alkalmazandó.
+23/C. §[^60] (1) E § alapján állami kezességvállalás abban az esetben nyújtható, ha a kezességvállalás díja kis- és középvállalkozásoknál legfeljebb 25%-kal, egyéb esetben legfeljebb 15%-kal kevesebb, mint az 5. mellékletben megállapított kezességvállalási díj. A fentiek alapján csökkentett kezességvállalási díj a kezességvállalás első két évére vonatkozik, a további évekre az 5. mellékletben megállapított kezességvállalási díj alkalmazandó.
 
 (2) A kezességvállalásnak meghatározott pénzügyi ügylethez kell kapcsolódnia, meghatározott maximális összegre kell vonatkoznia, és időben korlátozottnak kell lennie.
 
@@ -22,5 +22,5 @@
 
 (11) E § rendelkezései csak a 2009. április 27-e és 2010. december 31-e között vállalt kezességek vonatkozásában alkalmazhatók.
 
-[^55]: A 23/C. §-t megelőző alcímet az 50/2009. (III. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 108/2009. (V. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^56]: A 23/C. §-t az 50/2009. (III. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 108/2009. (V. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^59]: A 23/C. §-t megelőző alcímet az 50/2009. (III. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 108/2009. (V. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^60]: A 23/C. §-t az 50/2009. (III. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 108/2009. (V. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

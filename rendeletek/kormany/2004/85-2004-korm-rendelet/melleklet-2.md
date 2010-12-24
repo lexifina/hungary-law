@@ -104,6 +104,6 @@
 
 ## L. Beruházáshoz nyújtott támogatás az 1628/2006/EK bizottsági rendelet alapján
 
-2. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^81]
+2. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^85]
 
-[^81]: A 2. számú melléklet a 268/2008. (XI. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^85]: A 2. számú melléklet a 268/2008. (XI. 18.) Korm. rendelet 11. §-ával megállapított szöveg.

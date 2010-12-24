@@ -242,6 +242,6 @@
 
 ## E konstrukció támogatástartalma 100 millió Ft.
 
-3. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^82]
+3. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^86]
 
-[^82]: A 3. számú melléklet a 66/2005. (IV. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^86]: A 3. számú melléklet a 66/2005. (IV. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.

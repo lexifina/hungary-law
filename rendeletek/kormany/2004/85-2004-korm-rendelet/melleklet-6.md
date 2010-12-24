@@ -20,6 +20,6 @@
 
 | CCC vagy kevesebb | 380 | 630 | 980 |
 
-6. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^85]
+6. számú melléklet a 85/2004. (IV. 19.) Korm. rendelethez[^89]
 
-[^85]: A 6. számú mellékletet a 318/2005. (XII. 26.) Korm. rendelet 51. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^89]: A 6. számú mellékletet a 318/2005. (XII. 26.) Korm. rendelet 51. § (2) bekezdésének f) pontja hatályon kívül helyezte.
