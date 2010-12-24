@@ -1,23 +1,26 @@
 ## 96. § A 94. § (1) bekezdés a) és b) pontjában foglalt okirat csatolása alól felmentés adható, ha az okirat beszerzése a harmadik országbeli állampolgár önhibáján kívüli okból lehetetlen, vagy aránytalan nehézséggel járna. Ilyen esetben az okiratot a kérelmező nyilatkozata pótolja.
 
-## A Nemzetbiztonsági Hivatal szakhatósági eljárása
+## Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ szakhatósági eljárása[^98]
 
-97. § (1)[^70] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e a Magyar Köztársaság nemzetbiztonságát – a Nemzetbiztonsági Hivatalt szakhatóságként jelöli ki.
+97. §[^99] (1) A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e a Magyar Köztársaság nemzetbiztonságát – elsőfokon az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot, másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert szakhatóságként jelöli ki.
 
-(2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja a Nemzetbiztonsági Hivatalnak. A Nemzetbiztonsági Hivatal megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
+(2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ részére. Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
 
-(3)[^71] A Nemzetbiztonsági Hivatal a szakhatósági állásfoglalását
+(3) Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ a szakhatósági állásfoglalását
 
-a)[^72] ideiglenes letelepedési engedély iránti kérelem esetén tizenöt munkanapon belül,
+a) ideiglenes letelepedési engedély iránti kérelem esetén húsz napon belül,
 
-b)[^73] nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén harminc munkanapon belül
+b) nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén negyvenöt napon belül
 
-## adja meg a regionális igazgatóságnak.
+adja meg a regionális igazgatóságnak.
 
-(4)[^74] Ha a szakhatósági állásfoglalás megküldését követően a harmadik országbeli állampolgárra vonatkozóan olyan adat merül fel, amely a szakhatósági hozzájárulás visszavonását indokolja, a szakhatóság a regionális igazgatóságot haladéktalanul értesíti.
+(4) Ha a szakhatósági állásfoglalás megküldését követően a harmadik országbeli állampolgárra vonatkozóan a szakhatóság érdekkörében olyan adat merül fel, amely a korábbi szakhatósági hozzájárulás visszavonását indokolja, a szakhatóság új szakhatósági állásfoglalását a regionális igazgatóságnak haladéktalanul megküldi.
 
-[^70]: A 97. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^71]: A 97. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^72]: A 97. § (3) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^73]: A 97. § (3) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^74]: A 97. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(5) A fellebbezéssel megtámadott szakhatósági vélemény tekintetében másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter jár el. A szakhatósági állásfoglalását
+
+a) ideiglenes letelepedési engedély iránti kérelem esetén tizenöt napon belül,
+
+b) nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén húsz napon belül
+
+[^98]: A 97. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
+[^99]: A 97. § a 290/2010. (XII. 21.) Korm. rendelet 54. § (1) bekezdésével megállapított szöveg.

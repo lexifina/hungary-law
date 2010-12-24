@@ -1,3 +1,7 @@
-83. § (1) Az általános iskolai, valamint a középiskolai tanulmányokat folytató befogadott, illetve emberkereskedelem áldozatává vált harmadik országbeli állampolgár törvényes képviselője az oktatási intézménybe való beiratkozáskor beiskolázási támogatás iránti kérelmet nyújthat be a regionális igazgatósághoz. A Hivatal – a regionális igazgatóság javaslatára – szociális alapon való rászorultság megállapítása esetén egyszeri beiskolázási támogatást folyósíthat.
+83. §[^91] (1) A nevelési-oktatási intézményi oktatás keretében tanulmányokat folytató befogadott, illetve emberkereskedelem áldozatává vált harmadik országbeli állampolgár törvényes képviselője az oktatási intézménybe való beiratkozáskor beiskolázási támogatás iránti kérelmet nyújthat be a regionális igazgatósághoz. A Hivatal – a regionális igazgatóság javaslatára – szociális alapon való rászorultság megállapítása esetén egyszeri beiskolázási támogatást folyósíthat.
 
 (2) A beiskolázási támogatás összege az öregségi nyugdíj mindenkori legkisebb összegének 50%-a.
+
+(3) A beiskolázási támogatás tanévenként egyszer vehető igénybe, tankönyvre, tantárgyi munkafüzetre, tanszerre, tanfelszerelésre és ruházatra fordítható.
+
+[^91]: A 83. § a 290/2010. (XII. 21.) Korm. rendelet 52. §-ával megállapított szöveg.

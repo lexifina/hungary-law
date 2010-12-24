@@ -46,6 +46,6 @@ r) 142. § (3) bekezdése
 
 ## a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
 
-(3)–(6)[^135]
+(3)–(6)[^191]
 
-[^135]: A 182. § (3)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 93. pontja hatályon kívül helyezte.
+[^191]: A 182. § (3)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 93. pontja hatályon kívül helyezte.

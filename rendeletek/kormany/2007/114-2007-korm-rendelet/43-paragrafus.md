@@ -15,3 +15,7 @@ e) hamis adatot tartalmaz, vagy meghamisították;
 f) a jogosultja tartózkodási engedély okmányt, letelepedett státuszt igazoló okmányt vagy a szabad mozgás és tartózkodás jogát igazoló okmányt kapott;
 
 g) jogosultja meghalt.
+
+h)[^58] jogosultja magyar állampolgárságot szerzett.
+
+[^58]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.

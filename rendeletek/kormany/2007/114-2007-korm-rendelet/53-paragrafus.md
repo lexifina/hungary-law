@@ -14,4 +14,8 @@ e) hamis adatot tartalmaz, vagy meghamisították;
 
 f) a jogosultja letelepedett státuszt igazoló okmányt, vagy a szabad mozgás és tartózkodás jogát igazoló okmányt kapott;
 
-g) jogosultja meghalt.
+g) jogosultja meghalt;
+
+h)[^73] jogosultja magyar állampolgárságot szerzett.
+
+[^73]: Az 53. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 40. §-a iktatta be.

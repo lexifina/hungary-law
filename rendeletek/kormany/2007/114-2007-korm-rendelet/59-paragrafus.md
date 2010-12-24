@@ -8,7 +8,7 @@ b) alkalmi munkavállalói könyvvel;
 
 c) a gazdasági tevékenységre vonatkozó üzleti tervvel;
 
-d)[^62] egyéni vállalkozói igazolvánnyal, ennek hiányában az egyéni vállalkozói nyilvántartási számmal;
+d)[^78] egyéni vállalkozói igazolvánnyal, ennek hiányában az egyéni vállalkozói nyilvántartási számmal;
 
 e) mezőgazdasági őstermelői igazolvánnyal;
 
@@ -18,8 +18,12 @@ g) más hitelt érdemlő módon.
 
 (2) A Tv. 20. § (1) bekezdés c) pontjában foglalt beutazási és tartózkodási cél akkor tekinthető igazoltnak, ha
 
-a) a gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy (a továbbiakban ezen bekezdés alkalmazásában együtt: gazdasági társaság) legalább három magyar állampolgárt vagy a szabad mozgás és tartózkodás jogával rendelkező személyt foglalkoztat teljes munkaidőben, vagy
+a)[^79] a gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy (ezen bekezdés alkalmazásában a továbbiakban együtt: gazdasági társaság) legalább hat hónapja folyamatosan, megszakítás nélkül jogszerűen legalább három magyar állampolgárt vagy a szabad mozgás és tartózkodás jogával rendelkező személyt foglalkoztat teljes munkaidőben, vagy
 
 b) a kérelmező harmadik országbeli állampolgár tartózkodása a Magyar Köztársaság területén a gazdasági társaság működése szempontjából elengedhetetlen, és a kérelemhez csatolt üzleti terv alapján valószínűsíthető, hogy a gazdasági társaság a kérelmező megélhetését is biztosító bevételt fog elérni.
 
-[^62]: Az 59. § (1) bekezdés d) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+(3)[^80] A (2) bekezdés b) pontja szerinti üzleti tervben foglaltakat hitelt érdemlően alá kell támasztani, így különösen vállalkozási szerződés, megbízási szerződés, megállapodás, értékesítésre, beszerzésre vonatkozó szerződés csatolásával.
+
+[^78]: Az 59. § (1) bekezdés d) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^79]: Az 59. § (2) bekezdés a) pontja a 290/2010. (XII. 21.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^80]: Az 59. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 43. § (2) bekezdése iktatta be.

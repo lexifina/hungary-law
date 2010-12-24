@@ -14,6 +14,6 @@ d) magyar vagy a Magyar Köztársaság területén székhellyel rendelkező kül
 
 (2) A meghívólevél iránti kérelmet külön jogszabályban meghatározott formanyomtatványon, a kérelmező lakóhelye, tartózkodási helye vagy szálláshelye, illetve a jogi személy székhelye szerint illetékes regionális igazgatóságon kell benyújtani.
 
-(3)[^63] A regionális igazgatóság a meghívólevél iránti kérelmet tíz munkanapon belül, ha a meghívott harmadik országbeli állampolgár beutazásához a Magyar Köztársaságnak jelentős gazdasági, kulturális, tudományos vagy sportérdeke fűződik, öt munkanapon belül bírálja el.
+(3)[^82] A regionális igazgatóság a meghívólevél iránti kérelmet tizenöt napon belül, ha a meghívott harmadik országbeli állampolgár beutazásához a Magyar Köztársaságnak jelentős gazdasági, kulturális, tudományos vagy sportérdeke fűződik, nyolc napon belül bírálja el.
 
-[^63]: A 64. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^82]: A 64. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.

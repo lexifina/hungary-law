@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | --- | --- | --- |
 | 2010-01-01 | 2007-114-20-22.10 | 114/2007. (V. 24.) Korm. rendelet |
 | 2010-04-05 | 2007-114-20-22.11 | 96/2010. (III. 31.) Korm. rendelet |
+| 2010-12-24 | 2007-114-20-22.12 | 290/2010. (XII. 21.) Korm. rendelet |

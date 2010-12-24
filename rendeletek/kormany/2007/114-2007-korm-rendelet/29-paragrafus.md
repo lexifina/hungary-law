@@ -10,7 +10,13 @@
 
 (2) A beutazás és a tartózkodás célja akkor tekinthető igazoltnak, ha a kérelmező a Tv. 19–28. §-ában meghatározott valamely célból vagy célokból kíván a Magyar Köztársaság területén tartózkodni, és tartózkodása indokait okirattal is alátámasztja.
 
-(3) A lakhatás feltételével az a harmadik országbeli állampolgár rendelkezik, aki az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan tulajdonosa vagy ilyen ingatlan használatára bármely jogcímen jogosult.
+(3)[^35] A lakhatás feltételével az a harmadik országbeli állampolgár rendelkezik, aki
+
+a) az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan, vagy más, lakhatásra alkalmas ingatlan tulajdonosa, vagy ilyen ingatlan használatára bármely jogcímen jogosult, és
+
+b) amennyiben az ingatlanban tartózkodók esetén az egy főre jutó lakószoba terület legalább 6 négyzetméter.
+
+(3a)[^36] A regionális igazgatóság kivételes méltányosságból a (3) bekezdés b) pontjában foglalt feltételek hiányában is biztosítottnak fogadhatja el a harmadik országbeli állampolgár lakhatását.
 
 (4) A három hónapot meghaladó tartózkodásra jogosító vízum, valamint a tartózkodási engedély kiadására irányuló eljárásban a lakhatás különösen az alábbiakkal igazolható:
 
@@ -26,15 +32,15 @@ e) a Magyar Köztársaság területén tartózkodási vízummal vagy tartózkod�
 
 f) más hitelt érdemlő módon.
 
-(5) A harmadik országbeli állampolgár a három hónapot meghaladó tartózkodáshoz szükséges anyagi fedezettel akkor rendelkezik, ha ő maga vagy részére családtagja a rendelkezésére álló jövedelemből, illetve vagyonból megélhetése, lakhatása, kiutazása, valamint szükség esetén egészségügyi ellátása költségeit biztosítani tudja.
+(5)[^37] A harmadik országbeli állampolgár a három hónapot meghaladó tartózkodáshoz szükséges anyagi fedezettel akkor rendelkezik, ha ő maga vagy részére családtagja a rendelkezésére álló jogszerűen megszerzett jövedelemből, illetve vagyonból megélhetése, lakhatása, kiutazása, valamint szükség esetén egészségügyi ellátása költségeit biztosítani tudja.
 
 (6) A három hónapot meghaladó tartózkodásra jogosító vízum, valamint a tartózkodási engedély kiadására irányuló eljárásban a megélhetés különösen az alábbiakkal igazolható:
 
-a)[^32] magyar fizetőeszközzel vagy magyarországi hitelintézetnél átváltható külföldi fizetőeszközzel;
+a)[^38] magyar fizetőeszközzel vagy magyarországi hitelintézetnél átváltható külföldi fizetőeszközzel;
 
-b)[^33] a harmadik országbeli állampolgárt magyarországi pénzforgalmi szolgáltatónál készpénz felvételére jogosító okirattal (fizetési számlaszerződés, betétkönyv stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
+b)[^39] a harmadik országbeli állampolgárt magyarországi pénzforgalmi szolgáltatónál készpénz felvételére jogosító okirattal (fizetési számlaszerződés, betétkönyv stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
 
-c)[^34] magyarországi kereskedelmi forgalomban elfogadott készpénz-helyettesítő fizetőeszközzel (csekk, hitelkártya stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
+c)[^40] magyarországi kereskedelmi forgalomban elfogadott készpénz-helyettesítő fizetőeszközzel (csekk, hitelkártya stb.) és a rendelkezésre álló készpénzfedezetre vonatkozó hitelintézeti igazolással;
 
 d) hatósági hozzájárulással ellátott érvényes meghívólevéllel;
 
@@ -66,6 +72,9 @@ c) nemzetközi szerződés vagy megállapodás alapján jogosult a magyar biztos
 
 d) a megélhetését igazoló okiratok alapján egészségügyi ellátása költségeit biztosítani képes.
 
-[^32]: A 29. § (6) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^33]: A 29. § (6) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^34]: A 29. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^35]: A 29. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^36]: A 29. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^37]: A 29. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 35. § (3) bekezdésével megállapított szöveg.
+[^38]: A 29. § (6) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^39]: A 29. § (6) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^40]: A 29. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.

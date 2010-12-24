@@ -1,7 +1,16 @@
-## Kötelezés a Magyar Köztársaság területének elhagyására
+## Az Európai Unió tagállamai területének önkéntes elhagyása[^109]
 
-113. § (1) A Tv. 42. § (2) bekezdésében foglalt határidőt a tartózkodás jogcímére, valamint a harmadik országbeli állampolgár visszautazásának előkészítéséhez szükséges időtartamra figyelemmel kell meghatározni.
+## 113. §[^110] A harmadik országbeli állampolgár tartózkodása jogszerűségét az önkéntes távozásra nyitva álló határidő leteltéig
 
-(2) A Magyar Köztársaság területének elhagyására vonatkozó kötelezettség határidejének első napja a tartózkodásra jogosító okmány kiadását vagy meghosszabbítását elutasító, illetve a tartózkodásra jogosító okmányt visszavonó határozat jogerőssé válásának napja.
+a) a tartózkodási engedély iránti kérelmet elutasító határozattal;
 
-(3) A harmadik országbeli állampolgár tartózkodása jogszerűségét a teljesítési határidő leteltéig a Magyar Köztársaság területének elhagyására kötelező határozattal igazolja.
+b) a tartózkodásra jogosító okmányát visszavonó határozattal;
+
+c) a kiutasítást elrendelő határozattal;
+
+d) a bírósági kiutasítás végrehajtására hozott végzéssel, vagy
+
+e) a teljesítési határidő meghosszabbításáról hozott végzéssel
+
+[^109]: A 113. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^110]: A 113. § a 290/2010. (XII. 21.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.

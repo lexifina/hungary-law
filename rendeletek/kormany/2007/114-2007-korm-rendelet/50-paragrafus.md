@@ -1,13 +1,17 @@
-50. § (1) A regionális igazgatóság a tartózkodási engedély iránti kérelemről a közbiztonság és a nemzetbiztonság védelme érdekében meghatározott esetekben a Nemzetbiztonsági Hivatal véleményét kéri.
+50. § (1)[^67] A regionális igazgatóság a tartózkodási engedély iránti kérelemről a közbiztonság és a nemzetbiztonság védelme érdekében meghatározott esetekben a Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ véleményét kéri.
 
-(2)[^58] A Nemzetbiztonsági Hivatal köteles a megkeresésnek
+(2)[^68] A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ köteles a megkeresésnek
 
-a) a 49. § (2) bekezdésében foglalt esetben öt,
+a)[^69] a 49. § (2) bekezdésében foglalt esetben nyolc,
 
-b) a 49. § (3) bekezdésében foglalt esetben tíz,
+b)[^70] a 49. § (3) bekezdésében foglalt esetben tizenöt,
 
-c) egyéb esetben tizenöt
+c)[^71] egyéb esetben húsz
 
-munkanapon belül eleget tenni.
+napon belül eleget tenni.
 
-[^58]: Az 50. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 546. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: Az 50. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^68]: Az 50. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 546. § (6) bekezdésével megállapított, nyitó szövegrésze a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^69]: Az 50. § (2) bekezdés a) pontja a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.
+[^70]: Az 50. § (2) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.
+[^71]: Az 50. § (2) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.
