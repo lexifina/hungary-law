@@ -1,13 +1,15 @@
 ## A befogadási feltételek megvonása és megtagadása
 
-35. § (1) A 15. §-ban felsorolt ellátások és támogatások közül a Tv. 30. § (1) bekezdése alapján megvonható, illetve megtagadható
+35. §[^25] (1) A menekültügyi hatóság a befogadási feltételek korlátozásáról vagy megvonásáról határozott vagy határozatlan időre szólóan rendelkezik.
 
-a) a befogadó állomáson nyújtott elhelyezés és ellátás, az ötödik életévét betöltött kiskorú elismerését kérő számára biztosított, közoktatásban való részvételt elősegítő nyelvi képzés kivételével,
+(2) Kiskorú elismerését kérő esetében elsődlegesen a befogadási feltételek korlátozása alkalmazandó. Megvonás, illetve megtagadás esetén messzemenően figyelembe kell venni a gyermek mindenek felett álló érdekeit, és az arányosság elvét.
 
-b) a szabad felhasználású havi költőpénz,
+(3) A (2) bekezdésben foglaltak nem érintik a kiskorú által elkövetett szabályszegés következményeként bekövetkezett károkozás miatt fennálló kártérítési kötelezettséget.
 
-c) az utazási kedvezmények igénybevétele, illetve
+(4) Különleges bánásmódot igénylő személyek esetében a korlátozó, megvonó vagy megtagadó intézkedések csak különösen indokolt esetben érinthetik azon befogadási feltételeket, amelyekben az elismerését kérő egyéni helyzetére tekintettel részesül.
 
-d) az ország végleges elhagyásának támogatása.
+(5) Amennyiben a korlátozás vagy megvonás határozatlan időre szólt, és az annak alapjául szolgáló okok elhárultak, a menekültügyi hatóság az elismerését kérő egyedi helyzetének mérlegelését követően a korlátozott vagy megvont befogadási feltételeket – végzéssel – hivatalból, vagy az elismerését kérő kérelmére újból biztosíthatja.
 
-(2) A befogadó állomáson nyújtott elhelyezés és ellátás nem vonható meg, illetve nem tagadható meg az elismerés iránti kérelem első alkalommal történő benyújtása esetén, ha az elismerését kérő rászorult.
+(6) A menekültügyi hatóság a Tv. 30. § (3) bekezdésében foglalt kötelezettsége keretében – a megvonó, megtagadó döntés közlését megelőzően – megkeresi az intézményi elhelyezést nyújtó állami, vagy civil fenntartású intézményt a különleges bánásmódot igénylő elismerését kérő megvonó, megtagadó döntés időbeli hatálya alatti, de legfeljebb az elismerését kérő menekültügyi eljárásának idejére szóló elhelyezése céljából. Az elhelyezés más formájának biztosítása érdekében a menekültügyi hatóság vizsgálja az elismerését kérő a Magyar Köztársaság területén legális tartózkodási jogosultsággal rendelkező családtagoknál történő elhelyezése lehetőségét is.
+
+[^25]: A 35. § a 290/2010. (XII. 21.) Korm. rendelet 95. §-ával megállapított szöveg.

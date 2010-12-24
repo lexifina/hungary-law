@@ -1,5 +1,8 @@
-## Az elismerését kérő tankötelezettsége teljesítésével kapcsolatos költségek megtérítése
+## Oktatási, nevelési költségek megtérítése[^19]
 
-29. § (1) A menekültügyi hatóság – az elismerését kérő tankötelezettségének teljesítése érdekében – az elismerését kérő általános iskolai, szakiskolai, középiskolai, alapfokú művészetoktatási intézményi, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményi oktatásával, illetve diákotthoni, kollégiumi elhelyezésével kapcsolatos költségeket megtéríti.
+29. §[^20] (1) A menekültügyi hatóság – kérelemre – az elismerését kérő tankötelezettsége teljesítésének elősegítése érdekében, a befogadó állomáson való tartózkodás ideje alatt, az elismerését kérő óvodai nevelésével, általános iskolai, szakiskolai, középiskolai, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményi (a továbbiakban: nevelési-oktatási intézmény) oktatásával összefüggésben felmerült, a nevelési-oktatási intézménybe irányuló helyi, vagy helyközi utazáshoz igénybe vett menetjegy vagy bérlet költségét, továbbá a nevelési-oktatási intézményben igénybe vett étkezés költségét, és a diákotthoni, kollégiumi elhelyezés díját megtéríti.
 
-(2) A menekültügyi hatóság megtéríti a nevelési-oktatási intézményben igénybe vett étkezés, valamint a nevelési-oktatási intézménybe irányuló helyi, illetve helyközi utazáshoz igénybe vett menetjegy vagy bérlet költségét is. Az iskolai tanfelszerelési költségekből a menekültügyi hatóság a tankönyvek és tantárgyi munkafüzetek oktatási intézmény által igazolt költségét téríti meg.
+(2) A menekültügyi hatóság az intézmény által igazolt költségeket számla alapján utólag téríti meg.
+
+[^19]: A 29. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
+[^20]: A 29. § a 290/2010. (XII. 21.) Korm. rendelet 91. §-ával megállapított szöveg.

@@ -14,8 +14,8 @@
 
 (8) A 37. §-ban foglalt ellátások és támogatások biztosításáról a menekültügyi hatóság – a Tv. 32. § (3) bekezdésén alapuló megvonás, illetve megtagadás eseteit kivéve – határozattal dönt.
 
-(9)–(10)[^5]
+(9)–(10)[^27]
 
 (11) A menekültügyi hatóság (8) bekezdés szerinti határozatával, valamint a jegyző (7) bekezdés szerinti határozatával szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
 
-[^5]: A 39. § (9)–(10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 39. § (9)–(10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

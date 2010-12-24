@@ -1,4 +1,4 @@
-## 111–116. §[^23]
+## 111–116. §[^84]
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -36,4 +36,4 @@ a) a Tanács 407/2002/EK rendelete (2002. február 28.) a Dublini Egyezmény hat
 
 b) a Bizottság 1560/2003/EK rendelete (2003. szeptember 2.) egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról.
 
-[^23]: A 111–116. § és a 111. §-t megelőző alcím e rendelet 109. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 111–116. § és a 111. §-t megelőző alcím e rendelet 109. § (2) bekezdése alapján hatályát vesztette.

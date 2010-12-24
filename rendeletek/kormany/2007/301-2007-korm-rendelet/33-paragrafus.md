@@ -4,7 +4,7 @@
 
 (2) A család egységének fenntartását – lehetőség szerint – a különleges bánásmódot igénylő személy elkülönített elhelyezése során is biztosítani kell.
 
-(3) A befogadás során a kiskorú elismerését kérő érdekeinek szem előtt tartásával kell eljárni. A befogadó állomáson nyújtott elhelyezés során a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, továbbá lakhatásáról kell gondoskodni.
+(3)[^22] A befogadás során elsődlegesen a kiskorú elismerését kérő érdekeinek szem előtt tartásával kell eljárni. A befogadó állomáson nyújtott elhelyezés során a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, továbbá – a (2) bekezdésben foglaltak sérelme nélkül – a nagykorúaktól elkülönített elhelyezéséről kell gondoskodni.
 
 (4) A kísérő nélküli kiskorú elismerését kérőt – tizennyolcadik életéve betöltéséig – kiskorúak elkülönített elhelyezésére és ellátására alkalmas befogadó állomáson kell elhelyezni.
 
@@ -13,3 +13,8 @@
 (6) A kísérő nélküli kiskorú számára kijelölt szálláshelyet csak kivételes esetben és csak a kiskorú érdekeire tekintettel lehet megváltoztatni.
 
 (7) A kísérő nélküli kiskorú elhelyezése során a család egységét a testvérek együttes elhelyezésével kell biztosítani figyelembe véve a testvérek életkorát és érettségük fokát is.
+
+(8)[^23] A nemi erőszak, súlyos elhanyagolás, kizsákmányolás, kínzás, vagy kegyetlen, embertelen és megalázó bánásmód áldozatául esett, továbbá fegyveres konfliktus során traumát szenvedett kiskorúak megfelelő rehabilitációs, szükség esetén mentálhigiénés ellátása és szaktanácsadása érdekében a menekültügyi hatóság jelzéssel él az illetékes egészségügyi intézmény, kísérő nélküli kiskorú esetében az illetékes gyermekvédelmi intézmény felé.
+
+[^22]: A 33. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 93. § (1) bekezdésével megállapított szöveg.
+[^23]: A 33. § (8) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 93. § (3) bekezdése iktatta be.

@@ -1,11 +1,9 @@
-36. § (1) A menekültügyi hatóság a megvonásról, illetve megtagadásról rendelkező döntés alapjául szolgáló körülmények fennállását, valamint ennek alapján döntése fenntartásának szükségességét – az elismerését kérő kérelmére vagy a döntés meghozatalától számított egy hónap elteltével hivatalból felülvizsgálja. A menekültügyi hatóság a felülvizsgálat eredményéről végzéssel dönt.
+36. §[^26] (1) A Tv. 30. § (7) bekezdése alapján elrendelt visszatérítési kötelezettséget az elismerését kérő postai utalvány vagy házipénztári befizetés útján teljesítheti.
 
-(2) Ha a menekültügyi hatóság a Tv. 30. § (6) bekezdése alapján a megvont, illetve megtagadott befogadási feltételeket visszaállítja, illetve megítéli, a befogadási feltételek pénzben kifejezhető ellenértéke, illetve a pénzbeli támogatás utólag nem fizethető ki.
+(2) Különös méltánylást érdemlő esetben a menekültügyi hatóság a visszatérítési kötelezettség megállapítása során részletfizetést engedélyezhet.
 
-(3) Ha a menekültügyi hatóság a Tv. 30. § (6) bekezdése alapján hozott döntésében azt állapítja meg, hogy a befogadási feltételek megvonása, illetve megtagadása nem volt megalapozott, a megvont, illetve megtagadott befogadási feltételek pénzben kifejezhető ellenértékét, illetve a pénzbeli támogatást az elismerését kérőnek visszamenőleg meg kell téríteni.
+(3) A menekültügyi hatóság a befogadási feltételek korlátozása keretében – a Tv. 30. § (6) bekezdésében foglalt szempontok mérlegelése alapján – rendelkezhet a befogadási feltételek mértékének 25, 50 vagy 75 százalékban történő csökkentéséről.
 
-(4) Ha a menekültügyi hatóság a Tv. 30. § (7) bekezdése alapján az elismerését kérőt a pénzbeli támogatások, illetve a befogadás anyagi feltételei költségeinek visszafizetésére kötelezte, a visszafizetési kötelezettség teljesítéséig a befogadási feltételek akkor sem nyújthatók, ha az elismerését kérő a befogadási feltételekre időközben jogosulttá vált.
+(4) Amennyiben a korlátozó rendelkezés olyan befogadási feltételt érint, amelynek mértéke nem számszerűsíthető, a menekültügyi hatóság a (3) bekezdés szerinti arányszámoktól eltekinthet, és az adott befogadási feltételre vonatkozó rendelkezések alapján dönthet a korlátozás mértékéről.
 
-(5) A menekültügyi hatóság a (4) bekezdésben foglaltak alól különös méltánylást érdemlő esetben kivételt tehet.
-
-(6) A befogadási feltételek megvonására vagy megtagadására, illetve azok visszaállítására vagy megítélésére vonatkozó döntésnek az elismerését kérő helyzetének egyéni értékelésén kell alapulnia.
+[^26]: A 36. § a 290/2010. (XII. 21.) Korm. rendelet 96. §-ával megállapított szöveg.

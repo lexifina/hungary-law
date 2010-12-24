@@ -1,7 +1,13 @@
-63. § (1) Az elismerés iránti kérelem előterjesztését követően a menekültügyi hatóság haladéktalanul értesíti a befogadó állomás helye szerint illetékes egészségügyi államigazgatási szerv kistérségi tisztifőorvosát (a továbbiakban: tisztifőorvos) az adott járványügyi helyzetnek megfelelő orvosi vizsgálatok elrendelése érdekében.
+63. § (1)[^53] Az elismerés iránti kérelem előterjesztését követően a menekültügyi hatóság haladéktalanul értesíti az elismerését kérő tartózkodási helye szerint illetékes egészségügyi államigazgatási szerv kistérségi tisztifőorvosát (a továbbiakban: tisztifőorvos) az adott járványügyi helyzetnek megfelelő orvosi vizsgálatok elrendelése érdekében.
 
-(2) Ha az (1) bekezdésben elrendelt vizsgálatok elvégzését követően a befogadó állomáson működő háziorvos megállapítja, hogy az elismerését kérő közegészséget veszélyeztető betegségben szenved, illetve fertőzőképes, haladéktalanul értesíti a tisztifőorvost, aki – a menekültügyi hatóság tájékoztatása mellett – javaslatot tesz a szükséges korlátozó intézkedések megtételére.
+(2)[^54] Ha az (1) bekezdésben elrendelt vizsgálatok eredménye alapján a tisztifőorvos megállapítja, hogy az elismerését kérő közegészséget veszélyeztető betegségben szenved, illetve fertőzőképes, a menekültügyi hatóság tájékoztatása mellett haladéktalanul javaslatot tesz a szükséges korlátozó intézkedések megtételére.
 
 (3) A (2) bekezdés szerinti egészségi állapot fennállásáig az elismerését kérő közösségben nem vagy állapotára, betegségére, illetve kórokozó-hordozó állapotára figyelemmel a tisztifőorvos által meghatározott korlátozásokkal helyezhető el. Ha az elismerését kérő közösségben nem helyezhető el, gondozásba vételéről és elhelyezéséről a tisztifőorvos által meghatározott módon elkülönítetten kell gondoskodni. Az elkülönítésről a menekültügyi hatóságot értesíteni kell. A járványügyi érdekből szükséges intézkedések költségeit a menekültügyi hatóság megtéríti.
 
 (4) Ha a fekvőbeteg-gyógyintézet fertőző osztályán vagy kijelölt gyógyintézetben elkülönített elismerését kérő elkülönítésére a továbbiakban nincs szükség, erről a tisztifőorvos a menekültügyi hatóságot értesíti, és az elismerését kérőt a számára kijelölt szálláshelyre irányítja.
+
+(5)[^55] Nincs szükség az (1) bekezdés szerinti orvosi vizsgálat elrendelésére, illetve elvégzésére, ha az elismerését kérő járványügyi helyzetre tekintettel indokolt orvosi vizsgálatát korábban magyar egészségügyi államigazgatási szerv már elvégezte, és annak megtörténte óta az elismerését kérő nem hagyta el a Magyar Köztársaság területét.
+
+[^53]: A 63. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 111. § (1) bekezdésével megállapított szöveg.
+[^54]: A 63. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 111. § (1) bekezdésével megállapított szöveg.
+[^55]: A 63. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 111. § (2) bekezdése iktatta be.

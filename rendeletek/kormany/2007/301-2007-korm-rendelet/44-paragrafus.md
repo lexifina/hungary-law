@@ -2,8 +2,8 @@
 
 ## Egészségügyi ellátás
 
-44. § (1)[^6] Ha a menekült vagy az oltalmazott nem áll társadalombiztosítási jogviszonyban, az elismerésről szóló határozat jogerőre emelkedésétől számított két évig egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
+44. § (1)[^32] Ha a menekült vagy az oltalmazott nem áll társadalombiztosítási jogviszonyban, az elismerésről szóló határozat jogerőre emelkedésétől számított egy évig egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
 
 (2) Ha a menedékes nem áll társadalombiztosítási jogviszonyban, egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
 
-[^6]: A 44. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 587. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 44. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 100. §-ával megállapított szöveg.
