@@ -1,12 +1,12 @@
-## 5. §[^11]
+## 5. §[^12]
 
 ## Záró rendelkezések
 
-6. § (1)[^12] E rendelet – a (2) bekezdésben foglaltak kivételével – 2003. január 1-jén lép hatályba.
+6. § (1)[^13] E rendelet – a (2) bekezdésben foglaltak kivételével – 2003. január 1-jén lép hatályba.
 
-(2)[^13]
+(2)[^14]
 
-(3) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban a települési szennyvíztisztításról szóló, 91/271/EGK tanácsi irányelvvel a szennyvízelvezetési agglomerációk lehatárolása tekintetében összeegyeztethető szabályozást tartalmaz.
+(3)[^15]
 
 Melléklet a 26/2002. (II. 27.) Korm. rendelethez
 
@@ -18,7 +18,7 @@ A települési szennyvízelvezetési agglomeráció lehatárolásának módszert
 
 1.2. Ahol a gyűjtőrendszerek létrehozása nem indokolt, akár azért, mert nem járna környezeti előnyökkel, akár azért, mert túlságosan költséges lenne, azonos szintű környezetvédelmet nyújtó egyedi rendszereket vagy más megfelelő rendszereket kell alkalmazni.
 
-1.3.[^14] Több település szennyvízelvezetési agglomerációt alakíthat ki a 3. és 4. pont szerinti lehatárolási szempontok figyelembevételével. A szennyvízelvezetési agglomeráció központjának az a település tekinthető, amelynek közigazgatási területén valósul meg a tisztító vagy elhelyező telep (mezőgazdasági, illetőleg egyéb hasznosítás esetén). A kapcsolódó települések szennyvízelvezetési alrendszereket alkotnak. Amennyiben az így kialakított szennyvízelvezetési agglomeráció terhelése eléri a 2000 LE-t, az agglomeráció szennyvízelvezetése és -tisztítása a Nemzeti Megvalósítási Program részét képezi.
+1.3.[^16] Több település szennyvízelvezetési agglomerációt alakíthat ki a 3. és 4. pont szerinti lehatárolási szempontok figyelembevételével. A szennyvízelvezetési agglomeráció központjának az a település tekinthető, amelynek közigazgatási területén valósul meg a tisztító vagy elhelyező telep (mezőgazdasági, illetőleg egyéb hasznosítás esetén). A kapcsolódó települések szennyvízelvezetési alrendszereket alkotnak. Amennyiben az így kialakított szennyvízelvezetési agglomeráció terhelése eléri a 2000 LE-t, az agglomeráció szennyvízelvezetése és -tisztítása a Nemzeti Megvalósítási Program részét képezi.
 
 Azok a vízbázisvédelmi célprogramba bevont, továbbá környezetvédelmi érdekből meghatározott települések, amelyek az előző szempontok szerint kialakított szennyvízelvezetési agglomerációk körén kívül esnek, környezetvédelmi és gazdaságossági indokoltság esetén önálló szennyvízrendszert alkothatnak.
 
@@ -100,7 +100,7 @@ bf) a hosszú külterületi csatornaszakaszok kiépítése, az esetleges szivatt
 
 4.3. A szennyvízvezetékekben és -átemelőkben való tartózkodási ideje:
 
-a)[^15] a hátrányos minőségváltozások elkerülése érdekében a nyers szennyvíz gravitációs és nyomóvezetékekben, valamint az átemelőkben történő együttes tartózkodási ideje a szezonális és heti ingadozásokat figyelembe vevő napi átlagterhelésre a 6 órát nem haladhatja meg. Amennyiben a tartózkodási idő ezt az értéket legfeljebb 30%-kal meghaladja, műszaki beavatkozásokkal – szagtalanító berendezés beépítésének kivételével – kell megelőzni a nem kívánt anaerob folyamatok bekövetkezését.
+a)[^17] a hátrányos minőségváltozások elkerülése érdekében a nyers szennyvíz gravitációs és nyomóvezetékekben, valamint az átemelőkben történő együttes tartózkodási ideje a szezonális és heti ingadozásokat figyelembe vevő napi átlagterhelésre a 6 órát nem haladhatja meg. Amennyiben a tartózkodási idő ezt az értéket legfeljebb 30%-kal meghaladja, műszaki beavatkozásokkal – szagtalanító berendezés beépítésének kivételével – kell megelőzni a nem kívánt anaerob folyamatok bekövetkezését.
 
 b) a távvezetékeknél a gravitációs adottságokat lehetőség szerint optimálisan ki kell használni, vagyis ahol lehet, kerülni kell átemelők alkalmazását.
 
@@ -116,11 +116,11 @@ d) a nyomócső átmérője NA 50-ig csökkenthető aprító, daraboló berendez
 
 e) a hálózatok csomópontjainál a vízszálat meg kell szakítani (átemelő vagy gravitációs akna), nyomócső közvetlenül nyomócsőre nem csatlakozhat.
 
-4.5.[^16] Az alrendszerek belső gyűjtőhálózatának kiépítésénél a szennyvízelvezetési agglomeráción belüli település(rész) szennyvízcsatorna-ellátási körzetének lehatárolásának feltételei:
+4.5.[^18] Az alrendszerek belső gyűjtőhálózatának kiépítésénél a szennyvízelvezetési agglomeráción belüli településrész öblözetenként történő lehatárolási feltételei:
 
-a) az 1,0 km vezetékhosszra történő rácsatlakozás érje el a 120 főt vagy a 45 lakást (hazai statisztikai adatok figyelembevételével átlagosan 2,7 fő/lakás), a vizsgálatnál a vezetékhosszba a házi bekötővezetékek nem számítandók be; vagy
+a) az 1,0 km vezetékhosszra történő rácsatlakozás érje el a 120 főt vagy az 52 lakást [hazai statisztikai adatok figyelembevételével átlagosan 2,3 fő/lakás (KSH: 2009)], a vizsgálatnál a vezetékhosszba a házi bekötővezetékek nem számítandók be, vagy
 
-b) a legkisebb lakosszám hektáronként 30 fő, illetve a tartósan magas talajvízállású területeken a legkisebb lakosszám hektáronként 30 főnél kisebb lehet.
+b) a legkisebb lakosszám hektáronként 30 fő„ illetve a tartósan magas talajvízállású területeken a legkisebb lakosszám hektáronként 30 főnél kisebb lehet.
 
 4.6. Szennyezőanyag-kibocsátási terhelések számítása:
 
@@ -156,9 +156,9 @@ d) a tisztítótelep terhelése a szennyvízcsatornán vezetett szennyvízmennyi
 
 a) a rendszerek létesítési és üzemeltetési költségét mindenkor együttesen kell kezelni;
 
-b)[^17] a szennyvízelvezetési agglomeráció kiterjesztése akkor lehetséges, ha valamennyi települési szennyvízcsatornázási alrendszer az egy rendszerbe kapcsolással – igazoltan legalább 30%-os díjcsökkenést eredményez, mint az egyedi, vagy a települési szintű önálló megoldás változata.
+b)[^19] a szennyvízelvezetési agglomeráció kiterjesztése akkor lehetséges, ha valamennyi települési szennyvízcsatornázási alrendszer az egy rendszerbe kapcsolással – igazoltan legalább 30%-os díjcsökkenést eredményez, mint az egyedi, vagy a települési szintű önálló megoldás változata.
 
-c)[^18] csupán gazdasági oldalról vizsgálva az egyetlen központi tisztítótelep létesítése addig tekinthető gazdaságosnak, amíg a telep fajlagos megvalósítási és üzemeltetési költségének csökkentéséből származó megtakarítások nem haladják meg az ,,improduktív létesítmények'' (települési szennyvíz-csatornázási alrendszerek közötti nem kihasználható vezetékek és átemelők) költségét.
+c)[^20] csupán gazdasági oldalról vizsgálva az egyetlen központi tisztítótelep létesítése addig tekinthető gazdaságosnak, amíg a telep fajlagos megvalósítási és üzemeltetési költségének csökkentéséből származó megtakarítások nem haladják meg az ,,improduktív létesítmények'' (települési szennyvíz-csatornázási alrendszerek közötti nem kihasználható vezetékek és átemelők) költségét.
 
 Egy regionális rendszer és több önálló rendszer költségeinek összehasonlítására a következő összefüggés szolgál:
 
@@ -198,11 +198,12 @@ Rendkívül fontos gazdasági tényező a szennyvíztisztító (elhelyező) tele
 
 4.8. Az előnyök és hátrányok értékelésénél a 4.3–4.7. pontokban leírt feltételek teljesülése a meghatározó.
 
-[^11]: Az 5. §-t a 31/2006. (II. 8.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^12]: A 6. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 980. pontja hatályon kívül helyezte.
-[^13]: A 6. § (2) bekezdését a 31/2006. (II. 8.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^14]: A melléklet 1.3. pontjának második bekezdése a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^15]: A melléklet 4.3. pontjának a) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
-[^16]: A melléklet 4.5. pontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (3) bekezdésével megállapított szöveg.
-[^17]: A melléklet 4.7. pont b) alpontja a 87/2009. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^18]: A melléklet 4.7. pontjának c) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (4) bekezdésével megállapított szöveg.
+[^12]: Az 5. §-t a 31/2006. (II. 8.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 6. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 980. pontja hatályon kívül helyezte.
+[^14]: A 6. § (2) bekezdését a 31/2006. (II. 8.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 6. § (3) bekezdését a 286/2010. (XII. 16.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^16]: A melléklet 1.3. pontjának második bekezdése a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^17]: A melléklet 4.3. pontjának a) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
+[^18]: A melléklet 4.5. pontja a 286/2010. (XII. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A melléklet 4.7. pont b) alpontja a 87/2009. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: A melléklet 4.7. pontjának c) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (4) bekezdésével megállapított szöveg.
