@@ -6,10 +6,10 @@
 
 a) az egyszeri utazásra jogosító úti okmány kiadásának díját,
 
-b)[^4] a tartózkodási engedély kiadására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló eljárás díját,
+b)[^4] a tartózkodási engedély kiadására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló és a fellebbezési eljárás díját,
 
 ## ha a kérelmet a konzuli tisztviselőnél terjesztik elő.
 
 (4) A bejelentési kötelezettségek teljesítése díjmentes.
 
-[^4]: A 3. § (3) bekezdésének b) pontja e rendelet 9. § (2) bekezdése alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lépett hatályba.
+[^4]: A 3. § (3) bekezdés b) pontja a 12/2010. (XII. 23.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
