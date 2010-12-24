@@ -4,7 +4,7 @@
 
 11. § Az ügyész az ezen fejezetben írt felügyeleti tevékenysége során bármely időpontban
 
-a) ellenőrizheti az őrizetbe vétel, az előzetes letartóztatás, a kényszergyógykezelés és az ideiglenes kényszergyógykezelés, a szabadságvesztés, a külföldiek beutazásáról és tartózkodásáról szóló törvényben meghatározott őrizet, a szabálysértési és a pénzbírságot helyettesítő elzárás, valamint a nyomozó hatóságok előállító helyiségeiben foganatosított személyes szabadságkorlátozás törvényességét; megtekintheti a fogvatartás körülményeit és rendjét szabályozó utasításokat, a fogvatartási iratokat;
+a) ellenőrizheti az őrizetbe vétel, az előzetes letartóztatás, a kényszergyógykezelés és az ideiglenes kényszergyógykezelés, a szabadságvesztés, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott őrizet és e törvények alapján elrendelt kitoloncolások végrehajtása, a szabálysértési és a pénzbírságot helyettesítő elzárás, valamint a nyomozó hatóságok előállító helyiségeiben foganatosított személyes szabadságkorlátozás törvényességét; megtekintheti a fogva tartás körülményeit és rendjét szabályozó utasításokat, a fogvatartási iratokat;
 
 b) ellenőrizheti a javítóintézetekben az előzetes letartóztatás foganatosításának, valamint a javítóintézeti nevelés végrehajtásának törvényességét;
 
