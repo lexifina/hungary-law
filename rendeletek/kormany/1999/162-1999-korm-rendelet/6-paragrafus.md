@@ -1,4 +1,4 @@
-## 5/A. §[^18] A Hivatal hatósági eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+## 5/A. §[^18]
 
 6. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
@@ -28,7 +28,7 @@ A Belügyminisztérium Bevándorlási és Állampolgársági Hivatal területi s
 
 | 7. Nyugat-Dunántúli Regionális Igazgatóság Székhely: Győr | Győr-Moson-Sopron, Vas, Zala megye |
 
-[^18]: Az 5/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 10. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^18]: Az 5/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 10. § (4) bekezdése iktatta be, hatályon kívül helyezte a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés d) pontja.
 [^19]: A 6. § (2) bekezdését a 303/2006. (XII. 23.) Korm. rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
 [^20]: A mellékletet a 173/2001. (IX. 26.) Korm. rendelet melléklete iktatta a szövegbe.
 [^21]: A melléklet címe a 303/2006. (XII. 23.) Korm. rendelet 25. § (3) bekezdésének b) pontja szerint módosított szöveg.
