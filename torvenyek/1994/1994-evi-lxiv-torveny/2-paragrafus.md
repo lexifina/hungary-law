@@ -16,7 +16,7 @@ g) sorozatosan törvénysértő tevékenysége, mulasztása miatti jogi felelős
 
 h) választójoga elvesztésével,
 
-i) a polgármesternek e tisztségével összefüggő bűncselekménye miatt, a büntetőjogi felelősség jogerős megállapításával, az ítélet jogerőre emelkedésének a napjával,
+i)
 
 j)
 
@@ -24,9 +24,9 @@ j)
 
 a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek,
 
-b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésén új alpolgármester megválasztásával,
+b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésének napján,
 
-c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben.
+c) továbbá az (1) bekezdés b), d)–j) pontjaiban foglalt esetekben,
 
 d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 

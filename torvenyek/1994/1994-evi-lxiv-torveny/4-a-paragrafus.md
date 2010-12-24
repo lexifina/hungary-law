@@ -2,4 +2,4 @@
 
 (2) Amennyiben a polgármester foglalkoztatási jogviszonya, illetőleg társadalmi megbízatása év közben keletkezik, vagy szűnik meg, az (1) bekezdésben meghatározott jutalom időarányos része állapítható meg.
 
-(3) A polgármester illetményének, tiszteletdíjának a választást követően megállapított összege a megválasztását megelőző polgármesteri illetménye, tiszteletdíja összegénél – a 4. § (3) bekezdésében foglalt kivétellel – nem lehet kevesebb.
+(3)
