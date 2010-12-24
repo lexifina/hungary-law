@@ -273,3 +273,15 @@ Tartózkodási engedély kérelem egyéb célból
 | közterület jellege: | házszám: | épület: | közterület jellege: | házszám: | épület: |
 
 | a szálláshelyen tartózkodás jogcíme: ⬜ tulajdonos ⬜ bérlő ⬜ családtag ⬜ szívességi lakáshasználó ⬜ egyéb, éspedig: |
+
+| 5. Amennyiben alap- vagy középfokú tanulmányokat folytat, az oktatási intézmény neve és székhelye |
+
+| oktatási intézmény neve: | tanulmányok jellege: ⬜ alapfokú ⬜ egyéb |
+
+| székhely címe: |
+
+| 6. Magyarországi megélhetésére vonatkozó adatok |
+
+| rendszeres jövedelem jellege: | havi összege: |
+
+| rendelkezésre álló megtakarítás: | megélhetést biztosító egyéb kiegészítő jövedelem/vagyon: |

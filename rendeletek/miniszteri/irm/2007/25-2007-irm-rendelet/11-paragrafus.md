@@ -1,3 +1,5 @@
-## 10. § Az EGT-állampolgár és a családtag az állandó tartózkodási kártyát, illetve a személyi adat- és lakcímnyilvántartást vezető szerv által kiadott, a személyi azonosítóról és a lakcímről szóló hatósági igazolványt köteles magánál tartani és az arra feljogosított hatóságnak bemutatni. Erről az EGT-állampolgárt és a családtagot az okmány kiadásakor tájékoztatni kell.
+## 10/A. §[^2] A tartózkodási jogot igazoló okmányt az érvénytelenségét megállapító, az okmány cseréjét vagy pótlását végző regionális igazgatóság matrica formátumú okmány esetén „ÉRVÉNYTELEN” szövegű nedves bélyegzőlenyomat elhelyezésével, kártya formátumú okmány esetén kilyukasztással érvényteleníti, és gondoskodik az érvénytelenség tényének, okának és időpontjának a központi idegenrendészeti nyilvántartásba történő bejegyzéséről.
 
 ## Az aláírás minta
+
+[^2]: A 10/A. §-t a 12/2010. (XII. 23.) BM rendelet 4. §-a iktatta be.

@@ -1,7 +1,3 @@
-## 16. § A Harmtv. vhr. 63. §-ában meghatározott meghívólevelet az e rendelet 8. mellékletében foglalt formában és adattartalommal kell kiállítani.
+## 16. §[^6] A Harmtv. vhr. 64. §-ában meghatározott meghívólevél hatósági záradékolása iránti kérelmet az e rendelet 8. mellékletében foglalt formanyomtatványon kell benyújtani.
 
-17. § (1)[^3]
-
-(2) A három hónapot meghaladó tartózkodásra jogosító vízum iránti kérelmet az e rendelet 10. mellékletében meghatározott formanyomtatványon kell benyújtani.
-
-[^3]: A 17. § (1) bekezdését a 12/2010. (IV. 2.) IRM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 16. § a 12/2010. (XII. 23.) BM rendelet 6. §-ával megállapított szöveg.
