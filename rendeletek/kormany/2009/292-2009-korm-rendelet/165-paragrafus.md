@@ -46,7 +46,7 @@ i) betartani a titoktartási kötelezettségre vonatkozó szabályokat.
 
 (5) A kincstári biztos megbízatásának megszűnésekor záró értékelést köteles készíteni, amelyet – a (3) bekezdés h) pontjában megjelölt intézkedési tervvel együtt – a 164. § (3) bekezdés szerinti ad hoc bizottság tárgyal meg és dönt annak elfogadásáról. A záró ad hoc bizottsági ülésre az érintett intézmény vezetőjét is meg kell hívni.
 
-(6)[^201] A fejezetet irányító szerv vezetője az ad hoc bizottság által elfogadott, az adósság újraképződését megakadályozó záró intézkedési tervben foglaltak végrehajtására az elfogadást követő tizenöt napon belül köteles írásban megtenni a szükséges intézkedéseket, illetve kezdeményezni az illetékes szervnél azok megtételét. A fejezetet irányító szerv köteles a megtett intézkedések hatásáról a vizsgálatot követő két éven keresztül negyedévente a Nemzetgazdasági Minisztériumot, a Kincstárt és – külön határozat esetén – a Kormányt tájékoztatni.
+(6)[^200] A fejezetet irányító szerv vezetője az ad hoc bizottság által elfogadott, az adósság újraképződését megakadályozó záró intézkedési tervben foglaltak végrehajtására az elfogadást követő tizenöt napon belül köteles írásban megtenni a szükséges intézkedéseket, illetve kezdeményezni az illetékes szervnél azok megtételét. A fejezetet irányító szerv köteles a megtett intézkedések hatásáról a vizsgálatot követő két éven keresztül negyedévente a Nemzetgazdasági Minisztériumot, a Kincstárt és – külön határozat esetén – a Kormányt tájékoztatni.
 
 (7) A (3) bekezdés g) pontja alapján a fejezetet irányító szerv vezetője köteles vizsgálatot elrendelni a költségvetési szerv vezetője, illetve gazdasági vezetője személyi felelősségének megállapítására a tartozásállomány létrejöttével összefüggésben.
 
@@ -70,4 +70,4 @@ a) a (9) bekezdés b) pontjában foglalt esetben új kincstári biztos kijelöl�
 
 b) a (9) bekezdés c) pontja szerinti esetben intézkedést kezdeményezni a költségvetési szerv gazdálkodásának javítására, átszervezésére, a finanszírozás felfüggesztésére vagy korlátozására, illetve a költségvetési szerv átalakítására, megszüntetésére.
 
-[^201]: A 165. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^200]: A 165. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

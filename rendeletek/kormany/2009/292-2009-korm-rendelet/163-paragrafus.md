@@ -1,10 +1,12 @@
+## 162. §[^193]
+
 ## IX. Fejezet
 
-## A KÖLTSÉGVETÉSI FŐFELÜGYELŐ, KÖLTSÉGVETÉSI FELÜGYELŐ ÉS A BIZTOSOK[^195]
+## A KÖLTSÉGVETÉSI FŐFELÜGYELŐ, KÖLTSÉGVETÉSI FELÜGYELŐ ÉS A BIZTOSOK[^194]
 
-## A költségvetési (fő)felügyelő[^196]
+## A költségvetési (fő)felügyelő[^195]
 
-163. §[^197] (1) Az Áht. 46/A. §-a szerinti költségvetési (fő)felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel és a kijelölés évét megelőző tíz évben legalább három éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
+163. §[^196] (1) Az Áht. 46/A. §-a szerinti költségvetési (fő)felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel és a kijelölés évét megelőző tíz évben legalább három éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
 
 (2) Nem jelölhető ki költségvetési (fő)felügyelőnek az a természetes személy, aki
 
@@ -56,6 +58,7 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (12) A költségvetési szervhez kijelölt kincstári biztos, felsőoktatási kincstári megbízott köteles a költségvetési (fő)felügyelőt munkájában támogatni.
 
-[^195]: A IX. fejezet címe a 226/2010. (VIII. 13.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^196]: A 163. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^197]: A 163. § a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^193]: A 162. §-t megelőző alcímet a 313/2010. (XII. 23.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte. A 162. § a 313/2010. (XII. 23.) Korm. rendelet 42. §-a alapján nem lép hatályba.
+[^194]: A IX. fejezet címe a 226/2010. (VIII. 13.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^195]: A 163. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^196]: A 163. § a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 209. § A fejezeti kezelésű előirányzatok kötelezettségvállalással nem terhelt, valamint a gazdálkodási szabályok megsértéséből származó előirányzat-maradványa a központi költségvetést illeti meg.
 
-210. §[^246] (1) Kötelezettségvállalással terhelt előirányzat-maradványnak kell tekinteni
+210. §[^245] (1) Kötelezettségvállalással terhelt előirányzat-maradványnak kell tekinteni
 
 a) a tárgyévben szerződés vagy bármely más dokumentum alapján igazolhatóan befolyt bevételt, amely bizonyítottan a bevétel ellenszolgáltatásaként teljesítendő kiadásokra a következő évben kerül felhasználásra, vagy a bevétel kizárólagos felhasználási célját jogszabály meghatározza,
 
@@ -16,4 +16,4 @@ f) a deviza- és a valuta készlet év végi értékelése során megállapítot
 
 (2) A korábbi években államháztartáson belüli és kívüli szervezeteknek, személyeknek kifizetett, de visszatérített, fel nem használt támogatás, támogatási előleg terhére a tárgyévben – az európai uniós források előirányzatai kivételével – az államháztartásért felelős miniszter egyetértésével vállalható új kötelezettség.
 
-[^246]: A 210. § a 226/2010. (VIII. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^245]: A 210. § a 226/2010. (VIII. 13.) Korm. rendelet 58. §-ával megállapított szöveg.

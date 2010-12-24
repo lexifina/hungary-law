@@ -2,9 +2,6 @@
 
 (2)[^188] A Kincstár a 10. számú mellékletben szereplő előirányzatok esetén – ide nem értve az ÚMFT operatív programjainak technikai segítségnyújtás előirányzatait – a jelen fejezet eljárási szabályain túl a kifizetéseknél a számlavezető rendszerhez kapcsolódóan ellenőrzi a 143. § (2) bekezdése és a 145. § (2) bekezdése szerinti adatküldés megtörténtét, valamint a kedvezményezettek köztartozásra vonatkozó információit, és az adatküldés hiányában, illetve tartozás esetén erre figyelmezteti a támogatás folyósítóját.
 
-[(2)[^189] A Kincstár a 10. számú mellékletben szereplő előirányzatok esetén – ide nem értve az ÚMFT operatív programjainak technikai segítségnyújtás előirányzatait – a jelen fejezet eljárási szabályain túl a kifizetéseknél a számlavezető rendszerhez kapcsolódóan ellenőrzi a 143. § (2) bekezdése és a 145. § (2) bekezdése szerinti adatküldés megtörténtét, valamint a kedvezményezettek köztartozásra vonatkozó információit, és az adatküldés hiányában, illetve tartozás esetén felfüggeszti a kifizetést.]
-
 (3) Ha telephelyjuttatáson, illetve telephely megvásárlására vagy építésére adott közvetlen vissza nem térítendő költségvetésből nyújtott támogatáson kívül más vissza nem térítendő költségvetésből nyújtott támogatás igénybevételére is lehetősége volt a pályázónak, akkor a folyósítás módjára a támogatói okiratban vagy a támogatási szerződésben foglalt egyedi szabályokat kell érvényesíteni. Ilyen esetben a kiadott támogatói okirat vagy a megkötött támogatási szerződés folyósításra vonatkozó részét a költségvetésből nyújtott támogatás forrását jelentő valamennyi azonos célú előirányzat kezelőjének alá kell írnia.
 
 [^188]: A 151. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^189]: A 151. § (2) bekezdése a 248. §-sal megállapított szöveg [2011. január 1-jén lép hatályba].
