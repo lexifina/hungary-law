@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Innovációs és Technológiai Intézet és a Magyar Köztársaság Kormánya közötti Székhely-megállapodás (a továbbiakban: Székhely-megállapodás) kötelező hatályának elismerésére.
