@@ -10,4 +10,4 @@ d) a családegyesítést kivéve, családi kapcsolatok erősítése érdekében
 
 kíván a Magyar Köztársaság területén tartózkodni.
 
-(2) A nemzeti tartózkodási engedély érvényességi ideje legfeljebb öt év, amely alkalmanként öt évvel meghosszabbítható.
+(2) A nemzeti tartózkodási engedély érvényességi ideje legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható.

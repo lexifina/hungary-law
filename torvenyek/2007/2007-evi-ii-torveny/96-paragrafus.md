@@ -16,6 +16,6 @@ g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma,
 
 h) az első beutazás és az utolsó kiutazás időpontja;
 
-i) a szálláshely címe.
+i) a szálláshely címe;
 
-(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
+(2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.

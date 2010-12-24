@@ -10,7 +10,7 @@ c) a harmadik országbeli állampolgár a Magyar Köztársaság területét hat 
 
 a) az engedély megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt;
 
-b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyelet jogát gyakorló harmadik országbeli állampolgár szülőt a Magyar Köztársaság területén történő tartózkodásra jogosító engedélyt az idegenrendészeti hatóság visszavonta, és a kiskorú további tartózkodásának feltételei a szülői felügyeletet gyakorló másik szülőnél a Magyar Köztársaság területén nem biztosítottak;
+b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyelet jogát gyakorló harmadik országbeli állampolgár szülőnek a Magyar Köztársaság területén történő tartózkodásra jogosító engedélyét az idegenrendészeti hatóság visszavonta, és a kiskorú további tartózkodásának feltételei a szülői felügyeletet gyakorló másik szülőnél a Magyar Köztársaság területén nem biztosítottak;
 
 c) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott engedélye esetén magyar állampolgár házastársa a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyta, vagy a harmadik országbeli házastárs Magyar Köztársaság területén történő jogszerű tartózkodása megszűnt;
 

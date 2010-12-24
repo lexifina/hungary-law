@@ -12,8 +12,8 @@ a) a kiutasított;
 
 b) meghívás esetén a meghívó;
 
-c) a munkáltató, ha a kiutasítást a 43. § (2) bekezdés d) pontja alapján rendelték el;
+c) a munkáltató, ha a kiutasítást a 43. § (2) bekezdés c) pontja alapján rendelték el;
 
-d) a kutatószervezet, ha a beutazásra kutatási célból került sor, és a kiutasítást a 43. § (2) bekezdés b) vagy c) pontja alapján rendelték el.
+d) a kutató szervezet, ha a beutazásra kutatási célból került sor, és a kiutasítást a 43. § (2) bekezdés b) pontja alapján rendelték el.
 
 (5) A kutatószervezet (4) bekezdés d) pont szerinti felelőssége a fogadási megállapodás megszűnését követő hat hónapig áll fenn.

@@ -24,6 +24,6 @@ b) testvére és egyenesági rokona, ha egészségi állapota miatt képtelen ö
 
 (8) A nemzeti vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyar Köztársaság területén született harmadik országbeli állampolgár gyermeke részére családi együttélés céljából tartózkodási engedélyt kell kiállítani.
 
-(9) A (10) bekezdésben foglalt kivétellel a családegyesítési célú tartózkodási engedély érvényességi ideje három év, amely alkalmanként három évvel meghosszabbítható.
+(9) A családegyesítési célú tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
 (10) A családegyesítés céljából kiadott tartózkodási engedély érvényességi ideje nem haladhatja meg a családegyesítő tartózkodási engedélyének érvényességi idejét.

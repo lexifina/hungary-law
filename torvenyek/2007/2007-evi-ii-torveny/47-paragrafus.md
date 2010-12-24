@@ -1,5 +1,21 @@
-47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, amely egy évnél rövidebb és tíz évnél hosszabb nem lehet.
+47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kitoloncolását rendelte el.
 
-(2) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát a kiutasítás végrehajtásának napjától kell számítani.
+(2) Az idegenrendészeti hatóság a beutazási és tartózkodási tilalmat önálló határozattal rendeli el, ha a harmadik országbeli állampolgár kitoloncolását a 65. § (1) bekezdés d) pontja alapján rendelte el.
 
-(3) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be a Magyar Köztársaság területére.
+(3) A beutazási és tartózkodási tilalmat elrendelő önálló határozat ellen a harmadik országbeli állampolgár fellebbezést terjeszthet elő. A határozat ellen további jogorvoslatnak nincs helye. A fellebbezés a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. Az idegenrendészeti hatóság a fellebbezést az ügy irataival együtt haladéktalanul megküldi a fellebbezés elbírálására jogosult hatóságnak, mely a fellebbezést öt munkanapon belül bírálja el.
+
+(4) Az idegenrendészeti hatóság a 43. § (2) bekezdésében meghatározott kiutasítási okok alapján elrendelt kiutasítás esetén beutazási és tartózkodási tilalmat rendelhet el a jogsértés jellegére és súlyára, a harmadik országbeli állampolgár személyes körülményeire, ismételt beutazásának és tartózkodásának a közrendre, a közbiztonságra vagy a nemzetbiztonságra jelentett veszélyére figyelemmel.
+
+(5) A kiutasítással együtt vagy az önálló határozatban elrendelt beutazási és tartózkodási tilalom időtartamát években kell meghatározni, és – a (6) bekezdésben foglalt kivétellel – legfeljebb öt évre kell elrendelni.
+
+(6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása a Magyar Köztársaság területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
+
+(7) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát az Európai Unió tagállamai területének elhagyásának napjától, vagy ha ez nem ismert, az erre meghatározott határnaptól kell számítani.
+
+(8) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be a Magyar Köztársaság területére.
+
+(9) A beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból vagy kérelemre – visszavonhatja ha,
+
+a) a harmadik országbeli állampolgárral szemben a 43. § (2) bekezdése alapján került sor kiutasítással együtt beutazási és tartózkodási tilalom elrendelésére és a harmadik országbeli állampolgár bizonyítani tudja, hogy a kiutasító határozatnak teljes mértékben eleget téve elhagyta az Európai Unió tagállamainak területét, vagy
+
+b) további fenntartása az elrendelésére okot adó körülmények jelentős megváltozására figyelemmel nem indokolt.

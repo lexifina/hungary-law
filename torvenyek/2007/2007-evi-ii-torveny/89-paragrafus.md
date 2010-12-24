@@ -6,7 +6,7 @@ a) a határozatot;
 
 b) a bíróságnak a határozat bírósági felülvizsgálatára irányuló eljárásban hozott határozatát;
 
-c) az őrizet törvényességének bírósági felülvizsgálata és meghosszabbítása tárgyában hozott bírósági határozatot.
+c) az őrizet meghosszabbítása tárgyában hozott bírósági határozatot.
 
 (3) A közlés tényét és időpontját jegyzőkönyvbe kell foglalni, és azt az ügyféllel alá kell íratni.
 

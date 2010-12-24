@@ -30,14 +30,18 @@ m) a Tanács 1996. március 4-i ajánlása a helyi konzulátusok együttműköd�
 
 n) a Tanács 1997. június 26-i állásfoglalása a harmadik állambeli kísérő nélküli kiskorúakról;
 
-o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről.
+o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről;
+
+p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv.
 
 (2) E törvény
 
 a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet [6. §; 40. §];
 
-b) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
+b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [53. §, 67. §, 96. §, 99. §, 111. §];
 
-c) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §; 8. §; 12. §; 111. §]
+c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
+
+d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

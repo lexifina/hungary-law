@@ -12,7 +12,9 @@ d) az őrizet határideje letelt, de az őrizet elrendelésére alapul szolgál�
 
 e) a harmadik országbeli állampolgár humanitárius célú tartózkodási engedéllyel rendelkezik;
 
-f) a harmadik országbeli állampolgár kiutasítás hatálya alatt áll, és a megélhetéséhez szükséges anyagi és lakhatási feltételekkel nem rendelkezik.
+f) a harmadik országbeli állampolgár kiutasítás hatálya alatt áll, és a megélhetéséhez szükséges anyagi és lakhatási feltételekkel nem rendelkezik;
+
+g) vele szemben az 54. § (1) bekezdés a) vagy b) pontja alapján idegenrendészeti őrizet elrendelésének lenne helye, és az őrizet rá nézve – különös tekintettel egészségi állapotára, életkorára – aránytalanul súlyos hátránnyal járna.
 
 (2) A határozat rendelkező részében meg kell határozni:
 
@@ -26,8 +28,8 @@ c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás,
 
 (4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
 
-(5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti. Az elrendelő határozat ellen méltányossági eljárásnak nincs helye.
+(5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti.
 
-(6) A kijelölt helyen történő tartózkodást elrendelő határozat ellen a harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – kifogással élhet. A kifogásra az 57. § és az 59. § rendelkezéseit kell megfelelően alkalmazni.
+(6) A kijelölt helyen történő tartózkodást elrendelő határozat ellen a harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – kifogással élhet. A kifogásra az 57. § és az 59. § rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a kifogás a kijelölt helyen történő tartózkodásra vonatkozó kötelezettség hatálya alatt bármikor előterjeszthető.
 
 (7) A kifogást a bíróság nyolc napon belül bírálja el.

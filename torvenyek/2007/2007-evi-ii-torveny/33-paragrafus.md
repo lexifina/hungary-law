@@ -10,9 +10,11 @@ c) akivel szemben az e törvényben meghatározott kizáró ok nem áll fenn.
 
 a) aki büntetett előéletű, és a büntetett előélethez fűződő joghátrányok alól még nem mentesült;
 
-b) akinek a letelepedése veszélyezteti a Magyar Köztársaság nemzetbiztonságát;
+b) akinek a letelepedése veszélyezteti a Magyar Köztársaság közbiztonságát vagy nemzetbiztonságát;
 
-c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll.
+c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+
+d) aki az engedély megszerzése érdekében hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette.
 
 (3) Ha a letelepedett vagy bevándorolt harmadik országbeli állampolgárnak a Magyar Köztársaság területén harmadik országbeli állampolgár gyermeke született, a születés bejelentését követően a gyermek részére
 

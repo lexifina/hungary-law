@@ -12,7 +12,7 @@ d) aki a Magyar Köztársaság területén jogszerűen tartózkodó harmadik ors
 
 e) aki emberkereskedelem áldozata, az áldozatsegítő hatóság indítványára, a gondolkodási idő tartamára;
 
-f) akinek beutazását a 13. § (2) bekezdése alapján engedélyezik, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
+f) akinek beutazását a törvényben meghatározott feltételek hiányában csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezik, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 
 g) akinek az úti okmányát külön törvény alapján visszatartották, és nem rendelkezik a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel;
 
@@ -20,11 +20,11 @@ h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendé
 
 i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 
-j) akit a 62. § (1) bekezdés a), b), c), d) vagy f) pontja alapján kijelölt helyen való tartózkodásra köteleztek.
+j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényességi ideje
 
-a) az (1) bekezdés a)–c) pontjában, valamint f)–h) pontjában foglalt esetekben három hónap, amely alkalmanként három hónappal meghosszabbítható;
+a) az (1) bekezdés a)–c) pontjában, valamint f)–h) pontjában foglalt esetekben legfeljebb három hónap, amely alkalmanként legfeljebb három hónappal meghosszabbítható;
 
 b) az (1) bekezdés d) pontjában foglalt esetben a szülő tartózkodásának időtartamához igazodik;
 

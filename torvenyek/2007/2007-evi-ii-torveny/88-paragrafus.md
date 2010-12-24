@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben meghatározott eljárásokban – a vízumeljárás kivételével – a kérelem hiányosan történő benyújtása esetén a hiánypótlási felhívást az ügyfél részére az eljáró hatóság azonnal átadja.
 
-(3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, nincs helye elektronikus ügyintézésnek.
+(3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, az ügyfél nem jogosult elektronikus kapcsolatot tartani a hatósággal.

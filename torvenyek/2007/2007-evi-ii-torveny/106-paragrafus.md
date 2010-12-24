@@ -22,7 +22,13 @@ j) a munkaügyi hatóság,
 
 k) a munkavédelmi hatóság és
 
-l) a közegészségügyi hatóság
+l) a közegészségügyi hatóság,
+
+m) a nyugdíjbiztosítási igazgatási szerv,
+
+n) a helyi önkormányzat hatósági feladatot ellátó szerve és
+
+o) az okmányiroda
 
 részére továbbíthat adatot.
 

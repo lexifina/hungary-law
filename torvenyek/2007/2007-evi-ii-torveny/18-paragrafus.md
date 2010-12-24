@@ -2,10 +2,10 @@
 
 a) nem felel meg a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt valamely feltételnek;
 
-b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt;
+b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette;
 
 c) közegészséget veszélyeztető betegségben szenved, és nem veti alá magát kötelező és rendszeres egészségügyi ellátásnak, vagy a Magyar Köztársaság területén történő tartózkodása alatt az egészségügyre vonatkozó hatályos magyar jogszabályok előírásait nem tartja be;
 
-d) a családi kapcsolatot kizárólag a családi együttélés céljára szolgáló tartózkodási engedély kiadása érdekében hozta létre.
+d) a családi kapcsolatot a családi együttélés céljára szolgáló tartózkodási engedély kiadása érdekében hozta létre.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.

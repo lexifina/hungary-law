@@ -34,7 +34,11 @@ o) a tagállamok által hozott kiutasítási határozatok elismerésének és v�
 
 p) a hontalanság megállapítására irányuló eljárás részletes szabályait;
 
-q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait.
+q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
+
+r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket.
+
+(1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
 (2) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza:
 
@@ -54,12 +58,12 @@ e) a harmadik országbeli állampolgárok részére kiállított úti okmányok 
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben – a közegészséget veszélyeztető betegségeket rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
+(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
 
 a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
 
 b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
 
-(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
+(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
 
-(8) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
+(8) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.

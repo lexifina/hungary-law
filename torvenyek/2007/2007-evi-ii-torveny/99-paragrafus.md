@@ -18,6 +18,6 @@ h) a lakcím;
 
 i) a személyi azonosító;
 
-j) a személyazonosító igazolvány okmányszáma.
+j) a személyazonosító igazolvány okmányszáma;
 
-(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
+(2) Az (1) bekezdés a)–j) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
