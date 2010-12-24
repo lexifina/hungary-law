@@ -8,7 +8,9 @@ b) a Veszprém Megyei Önkormányzat főjegyzője,
 
 c) a belügyminiszter által kijelölt, a katasztrófavédelmi szervezet állományába tartozó személy,
 
-d) Kolontár, Devecser és Somlóvásárhely település polgármestere.
+d) Kolontár, Devecser és Somlóvásárhely település polgármestere,
+
+e)[^1] a Budapesti Nyílt Társadalom Intézet Alapítvány kijelölt képviselője.
 
 (3) A Bizottság elnöke felkéri a Veszprém megyei 01. számú országgyűlési egyéni választókerület megválasztott országgyűlési képviselőjét a Bizottság munkájában való részvételre. A felkérés elfogadása esetén az országgyűlési képviselő a Bizottság teljes jogú tagja.
 
@@ -19,3 +21,5 @@ d) Kolontár, Devecser és Somlóvásárhely település polgármestere.
 (6) A Bizottság tagjai sorából választ elnökhelyettest. Az elnökhelyettes akadályoztatása esetén teljes jogkörrel helyettesíti az elnököt.
 
 (7) A Bizottság tagjai tevékenységüket díjazás és költségtérítés nélkül végzik.
+
+[^1]: A 3. § (2) bekezdés e) pontját a 312/2010. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
