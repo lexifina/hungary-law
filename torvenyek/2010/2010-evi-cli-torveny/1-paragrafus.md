@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Bolgár Köztársaságnak és Romániának az Európai Unióhoz történő csatlakozása következtében, az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államközösség közötti, a személyek szabad mozgásáról szóló megállapodásban Szerződő Félként való részvételéről szóló Jegyzőkönyvet (a továbbiakban: a Jegyzőkönyv) e törvénnyel kihirdeti.
