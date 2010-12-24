@@ -2,9 +2,7 @@
 
 (2) A Bizottság elnökének és tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek közeli hozzátartozóinak [Ptk. 685. § b) pont] pályázatát érdemi vizsgálat nélkül el kell utasítani.
 
-(3) A Bizottság elnöke és tagjai, a kollégium vezetője és tagjai nem vehetnek részt olyan szervezetek támogatási igényeinek elbírálásában, amelyben mint tagok, tulajdonosok, vezető tisztségviselők, illetve felügyelő bizottsági tagok érintettek, vagy a támogatást igénylővel a döntést megelőző egy évben ilyen kapcsolatban álltak, továbbá, ha a döntés következtében akár közvetve is vagyoni előnyben részesülnének.
-
-(4) A (3) bekezdésben meghatározott esetben a döntéshez az összeférhetetlenséggel nem érintett tagok háromnegyedének szavazata szükséges.
+(3)–(4)
 
 (5) A Bizottság elnöke és tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 

@@ -1,4 +1,4 @@
-2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve társadalmi szervezetek javaslata alapján bízza meg. A Bizottság elnökét a miniszter nevezi ki.
+2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve társadalmi szervezetek javaslata alapján bízza meg. A Bizottság elnöke a miniszter vagy az általa megbízott személy.
 
 (2) A Bizottság a miniszter által jóváhagyott éves munkaterv alapján látja el feladatát.
 

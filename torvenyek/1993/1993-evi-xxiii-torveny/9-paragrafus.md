@@ -1,6 +1,6 @@
 9. § (1) Az Alap terhére a támogatás visszatérítendő és részben vagy egészben vissza nem térítendő formában nyújtható.
 
-(2) A támogatások nyílt, vagy meghívásos pályázatok útján, illetve – a miniszteri keret felhasználása során vagy kivételesen indokolt esetben – egyedi elbírálás alapján adhatók.
+(2) A támogatások nyílt vagy meghívásos pályázatok útján, illetve – a miniszteri keret felhasználása során vagy kivételesen indokolt esetben – egyedi pályázatok elbírálása alapján – gazdálkodási formától függetlenül – adhatók.
 
 (3) Az (1)–(2) bekezdések szerinti megosztás arányairól – ideértve a támogatás összegének a kollégiumok közötti felosztását is – a bizottság a miniszter egyetértésével dönt.
 
