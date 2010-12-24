@@ -1,0 +1,1 @@
+## „(5) Ha a menekült, az oltalmazott vagy a menedékes a befogadó állomáson való életvitelszerű tartózkodással írásbeli bejelentés nélkül felhagy, vagy a bejelentett távollét időtartama összességében a harminc napot meghaladja, a befogadó állomáson történő ismételt elhelyezésre és ellátásra nem jogosult.”

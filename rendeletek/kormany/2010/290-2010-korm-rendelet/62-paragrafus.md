@@ -1,0 +1,9 @@
+## „(4) A Tv. 43. § (1) bekezdés e) pontja alapján elrendelt önálló beutazási és tartózkodási tilalmat haladéktalanul törölni kell, ha a harmadik országbeli állampolgár a kiszabott pénzbírságot vagy helyszíni bírságot megfizette.
+
+## (5) Ha a pénzbírságot, illetve a helyszíni bírságot a harmadik országbeli állampolgár utólag, készpénzben fizeti meg, a szabálysértési hatóság, a bíróság vagy a helyszíni bírságot kiszabó szerv a bírságnak a számlájára történő megérkezését követően az önálló beutazási és tartózkodási tilalom törlése érdekében haladéktalanul értesíti a regionális igazgatóságot.
+
+## (6) Ha a harmadik országbeli állampolgár a vízum kiadására irányuló eljárásban igazolja a pénzbírság, illetve a helyszíni bírság utólag történő megfizetését, a konzuli tisztviselő – az önálló beutazási és tartózkodási tilalom törlése érdekében – a befizetés tényéről a befizető természetes személyazonosító adatainak, állampolgárságának, úti okmánya számának, a határozat vagy a helyszíni bírság ügyszámának, a befizetésre került bírság összegének és az ügyben eljárt hatóság vagy szerv megnevezésének közlésével haladéktalanul tájékoztatja a beutazási és tartózkodási tilalmat elrendelő regionális igazgatóságot.
+
+## (7) Amennyiben a Rendőrség a határátkelőhelyen történő személyellenőrzés során megállapítja, hogy a harmadik országbeli állampolgárral szemben kizárólag a pénzbírság, illetőleg helyszíni bírság meg nem fizetése miatt rendeltek el önálló beutazási és tartózkodási tilalmat, köteles a harmadik országbeli állampolgárt tájékoztatni arról, hogy a tartozását utólag, készpénzben is megfizetheti.
+
+## (8) Ha a harmadik országbeli állampolgár utólag, készpénzben teljesíti fizetési kötelezettségét, vagy rendelkezik a befizetés banki terhelését igazoló bizonylattal, a Rendőrség az önálló beutazási és tartózkodási tilalmat törli, és ezt követően engedélyezi beléptetését.”

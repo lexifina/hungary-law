@@ -1,0 +1,3 @@
+## „(4) Amennyiben az elismerését kérő idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, az intézkedés végrehajtásának helye a menekültügyi eljárás alatt kizárólag a menekültügyi hatóság előzetes hozzájárulásával változtatható meg.
+
+## (5) Amennyiben az elismerését kérő személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés hatálya alatt áll, a kényszerintézkedés, az intézkedés vagy a büntetés megszűnéséről, vagy a végrehajtás helyének megváltozásáról az idegenrendészeti hatóság tudomásszerzését követően haladéktalanul tájékoztatja a menekültügyi hatóságot.”

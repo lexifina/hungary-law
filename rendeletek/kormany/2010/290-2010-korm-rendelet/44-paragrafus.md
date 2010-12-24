@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdés b) pontja szerinti üzleti tervben foglaltakat hitelt érdemlően alá kell támasztani, így különösen vállalkozási szerződés, megbízási szerződés, megállapodás, értékesítésre, beszerzésre vonatkozó szerződés csatolásával.”
