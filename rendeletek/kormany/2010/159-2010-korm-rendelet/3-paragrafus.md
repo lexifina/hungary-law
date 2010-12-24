@@ -32,6 +32,8 @@ d) ha a létesítési engedély időbeli hatályának tartama alatt az engedély
 
 (5) A leszállóhelyre vonatkozó hatósági engedélyek fajtái:
 
-a) létesítési engedély,
+a) létesítési engedély.
 
-b) megszüntetési engedély.
+b)[^6]
+
+[^6]: A 3. § (5) bekezdés b) pontját a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.

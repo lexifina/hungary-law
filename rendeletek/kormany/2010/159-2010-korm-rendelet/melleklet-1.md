@@ -1,4 +1,4 @@
-1. melléklet a 159/2010. (V. 6.) Korm. rendelethez
+1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^30]
 
 ## A repülőtér területén lévő általános építmények
 
@@ -8,18 +8,10 @@
 
 3. Hangár
 
-4. Szertár
+4. Irányító toronyépület
 
-5. Raktár
+5. SRA-terület kerítése
 
-6. Irányító toronyépület
+6. Navigációs berendezések antennái
 
-7. Iroda
-
-8. Öltöző
-
-9. Kerítés
-
-10. Tűzivíztározó tó
-
-11. Navigációs berendezések antennái
+[^30]: Az 1. melléklet a 309/2010. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
