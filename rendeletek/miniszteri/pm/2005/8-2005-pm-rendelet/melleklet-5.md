@@ -2,64 +2,64 @@
 
 ## (az irányító szerv tölti ki)
 
-## Irányító szerv megnevezése, száma: .............................................
+## Irányító szerv megnevezése, száma: ..................................................................
 
-## Elszámolási időszak: .......... ......... ............ - .............. .......... ........
+| Elszámolási időszak: |  |  |  |  |  |  |  |  | – |  |  |  |  |  |  |  |  |
 
-| 1. Cím | 2. Cím, alcím megnevezése | 3. A kifizetett személyi juttatás összege | 4. Munkaadói közterhek | 5. Személyi juttatás és munkaadói közterhek együtt (3+4) |
+|  |  |  |  |  | Ezer Ft-ban |
 
-| Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt |
+| 1. Cím | 2. Cím, alcím megnevezése | 3. A kifizetett személyi juttatás összege | 4. Munkaadói közterhek – kivéve: egyes természetbeni és béren kívüli juttatások után a kifizetőt terhelő Szja összege (Dologi kiadások) | 5. Egyes természetbeni és béren kívüli juttatások után a kifizetőt terhelő Szja összege (Dologi kiadások) | 6. Személyi juttatás és munkaadói közterhek együtt (3+4+5) |
 
-| Irányító szerv összesen: |  |  |  |  |  |  |  |  |  |
+|  |  | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt |
+
+| Irányító szerv összesen: |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## Tájékoztató adat
 
-| Cím | Cím, alcím megnevezése | Prémiumévek programban részt vevők létszáma (fő) | Különleges foglalkoztatási állományban lévők létszáma (fő) | Változás az előző igénylés időszakához viszonyítva (fő) |
+| Cím | Cím, alcím megnevezése | Prémiumévek programban részt vevők létszáma az elszámolási időszak utolsó napján (fő) | Különleges foglalkoztatási állományban lévők létszáma az elszámolási időszak utolsó napján (fő) | Változás az előző igénylés időszakához viszonyítva (fő) |
 
-| Prémiumévek program | Különleges foglalkoztatási állomány |
+|  |  |  |  | Prémiumévek program | Különleges foglalkoztatási állomány |
 
-| Irányító szerv összesen: |  |  |  |  |
+| Irányító szerv összesen: |  |  |  |  |  |
 
-## Kelt: ..................... év ................. hó ............. nap
+## Kelt: .................... év ................. hó ........ nap
 
-## .....................................................
+## ..................................................
 
-## cégszerű aláírás”
+## cégszerű aláírás
 
-5. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^24]
+5. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^23]
 
-Igénylőlap
-
-a PéPtv. 4. § (8), 5. § (3), 6. § (1) bekezdésében foglalt költségvetési megtérítés folyósításához
+Igénylőlap a PéPtv. 4. § (8), 5. § (3), 6. § (1) bekezdésében foglalt költségvetési megtérítés folyósításához
 
 (helyi önkormányzat, társulás tölti ki)
 
 Helyi önkormányzat, társulás megnevezése: ..................................................................
 
-KSH kódja: ⬜⬜⬜⬜⬜⬜⬜
+| KSH kódja: |  |  |  |  |  |  |  |
 
-Elszámolási időszak:  ⬜⬜⬜⬜ ⬜⬜ ⬜⬜–⬜⬜⬜⬜ ⬜⬜ ⬜⬜
+| Elszámolási időszak: |  |  |  |  |  |  |  |  | – |  |  |  |  |  |  |  |  |
 
-Ezer Ft-ban
+|  |  |  |  |  | Ezer Ft-ban |
 
-| 1. Sorszám | 2. Költség- vetési szerv meg- nevezése | 3. A kifizetett személyi juttatás összege | 4. Munkaadói közterhek | 5. Személyi juttatás és munkaadói közterhek együtt (3+4) |
+| 1. Sorszám | 2. Költségvetési szerv megnevezése | 3. A kifizetett személyi juttatás összege | 4. Munkaadói közterhek – kivéve: egyes természetbeni és béren kívüli juttatások után a kifizetőt terhelő Szja összege (Dologi kiadások) | 5. Egyes természetbeni és béren kívüli juttatások után a kifizetőt terhelő Szja összege (Dologi kiadások) | 6. Személyi juttatás és munkaadói közterhek együtt (3+4+5) |
 
-| Prémium- évek program | Különleges foglalkoz- tatási állomány | Együtt | Prémium- évek program | Különleges foglalkoz- tatási állomány | Együtt | Prémium- évek program | Különleges foglalkoz- tatási állomány | Együtt |
+|  |  | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt | Prémiumévek program | Különleges foglalkoztatási állomány | Együtt |
 
-| Helyi önkormányzat, társulás összesen: |  |  |  |  |  |  |  |  |  |
+| Helyi önkormányzat, társulás összesen: |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Tájékoztató adat
 
-| Sorszám | Költségvetési szerv megnevezése | Prémiumévek programban részt vevők létszáma (fő) | Különleges foglalkoztatási állományban lévők létszáma (fő) | Változás az előző igénylés időszakához viszonyítva (fő) |
+| Sorszám | Költségvetési szerv megnevezése | Prémiumévek programban részt vevők létszáma az elszámolási időszak utolsó napján (fő) | Különleges foglalkoztatási állományban lévők létszáma az elszámolási időszak utolsó napján (fő) | Változás az előző igénylés időszakához viszonyítva (fő) |  |
 
-| Prémiumévek program | Különleges foglalkoztatási állomány |
+|  |  |  |  | Prémiumévek program | Különleges foglalkoztatási állomány |
 
-| Helyi önkormányzat, társulás összesen: |  |  |  |  |
+| Helyi önkormányzat, társulás összesen: |  |  |  |  |  |
 
-Kelt: ..................... év ......................... hó ............. nap
+Kelt: .................... év ................. hó ........ nap
 
-.....................................................................
+..................................................
 
 cégszerű aláírás
 
-[^24]: Az 5. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 5. számú melléklet a 12/2010. (XII. 23.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.

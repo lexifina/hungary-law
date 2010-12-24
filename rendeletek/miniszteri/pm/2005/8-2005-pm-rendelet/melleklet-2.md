@@ -1,81 +1,85 @@
-## Igénylőlap
+| Igénylőlap |
 
-## a PéPtv. 4. § (8), 5. § (3), 6. § (1) bekezdésében foglalt költségvetési megtérítés folyósításához
+| a PéPtv. 4. § (8), 5. § (3), 6. § (1) bekezdésében foglalt költségvetési megtérítés folyósításához |
 
-## (a munkáltató tölti ki)
+| (a munkáltató tölti ki) |
 
-| 1. | Munkáltató megnevezése: ....................................................................................................................................... |
+| 1. | Munkáltató megnevezése: ................................................................................................................... |
 
-| 2. | Költségvetési törzskönyvi azonosító száma: | ⬜⬜⬜⬜⬜⬜/vagy |
+| 2. | Költségvetési törzskönyvi azonosító száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | /vagy |
 
-|  | Cégjegyzékszáma: | Cg. ⬜⬜–⬜⬜–⬜⬜⬜⬜ |
+| Cégjegyzékszáma: |  |  |  |  | Cg. |  |  | - |  |  | - |  |  |  |  |  |
 
-| 3. | Elszámolási időszak | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 3. | Elszámolási időszak |  |  |  |  |  |  |  |  |  | - |  |  |  |  |  |  |  |  |
 
-| 4. | Érintett létszám (fő) | ⬜⬜⬜⬜ |
+| 4. | Érintett létszám (fő) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ebből: |  |
+| ebből: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | prémiumévek programban részt vevő | ⬜⬜⬜⬜ |
+| prémiumévek programban részt vevő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | különleges foglalkoztatási állományba helyezett | ⬜⬜⬜⬜ |
+| különleges foglalkoztatási állományba helyezett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5. | *A kifizetett személyi juttatás összege (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| 5. | *A kifizetett személyi juttatás összege (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ebből: |  |
+| ebből: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | prémiumévek programmal összefüggő (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| prémiumévek programmal összefüggő (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | különleges foglalkoztatási állománnyal összefüggő (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| különleges foglalkoztatási állománnyal összefüggő (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6. | Munkáltatói közterhek összesen (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| 6. | Munkáltatói közterhek összesen (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ebből: |  |
+| ebből: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | prémiumévek programmal összefüggő (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| prémiumévek programmal összefüggő (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | különleges foglalkoztatási állománnyal összefüggő (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| különleges foglalkoztatási állománnyal összefüggő (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 7. | A 6. pont összesenből: |  |
+| 7. | A 6. pont összesenből: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Nyugdíjbiztosítási járulék (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| Nyugdíjbiztosítási járulék (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Egészségbiztosítási járulék (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| Egészségbiztosítási járulék (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Munkaadói járulék (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| Munkaerőpiaci járulék (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Tételes egészségügyi hozzájárulás (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| Egyes természetbeni és egyéb béren kívüli juttatások után a kifizetőt terhelő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 8. | Az illetmény és közterhek együttes összege (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| Szja összege (Dologi kiadások) (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ebből: |  |
+| 8. | Az illetmény és közterhek együttes összege (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | prémiumévek programmal összefüggő (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| ebből: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | különleges foglalkoztatási állománnyal összefüggő (E Ft) | ⬜⬜⬜⬜⬜⬜ |
+| prémiumévek programmal összefüggő (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A munkáltató a PéPtv. 6. § (2) bekezdésében foglalt feltételt vállalja | ⬜ |
+| különleges foglalkoztatási állománnyal összefüggő (E Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A munkáltató átlagos havi statisztikai állományi létszáma [PéPtv. 6. § (2) bekezdés] |  |
+## ____________________
 
-|  | időpont: | ⬜⬜⬜⬜⬜⬜⬜⬜ |
+## * A PéPtv. 6. § (1) bekezdése szerinti juttatások
 
-|  | létszám: | ⬜⬜⬜⬜ |
+| A munkáltató a PéPtv. 6. § (2) bekezdésében foglalt feltételt vállalja |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## Felelősségem tudatában kijelentem, hogy az igénybejelentésben közölt adatok a valóságnak megfelelnek.
+| A munkáltató költségvetési engedélyezett létszámkerete [PéPtv. 6. § (2)] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## Kelt: .................... év ................. hó ........ nap
+| időpont (az elszámolási időszak utolsó napja): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## ..........................................
+| létszám: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## cégszerű aláírás
+| Felelősségem tudatában kijelentem, hogy az igénybejelentésben közölt adatok a valóságnak megfelelnek. |
 
-## (irányító szerv, helyi önkormányzat, társulás tölti ki)
+| Kelt: .................... év ................. hó ........ nap |
 
-## 1. Beérkezés dátuma: ⬜⬜⬜⬜ ⬜⬜ ⬜⬜
+| .......................................... cégszerű aláírás |
 
-## 2. Nyilvántartásba vétel száma: ⬜⬜⬜⬜⬜
+| (irányító szerv, helyi önkormányzat, társulás tölti ki) |
 
-2. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^21]
+| 1. | Beérkezés dátuma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^21]: A 2. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (1) bekezdésével megállapított szöveg.
+| 2. | Nyilvántartásba vétel száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+2. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^20]
+
+[^20]: A 2. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (1) bekezdésével megállapított szöveg.

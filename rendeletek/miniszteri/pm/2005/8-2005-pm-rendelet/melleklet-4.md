@@ -42,6 +42,6 @@
 
 ## cégszerű aláírás
 
-4. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^23]
+4. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^22]
 
-[^23]: A 4. számú melléklet a 23/2009. (XI. 10.) PM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^22]: A 4. számú melléklet a 12/2010. (XII. 23.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
