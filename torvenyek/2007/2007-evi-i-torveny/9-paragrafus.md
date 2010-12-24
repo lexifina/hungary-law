@@ -4,6 +4,8 @@ a) balesettel vagy egészségkárosodással összefüggő és gyógykezelést ig
 
 b) keresőtevékenysége megszűnését követően külön törvényben meghatározott álláskeresővé vált, vagy
 
-c) szakmai tevékenysége magasabb szintű gyakorlásához szakképzésben vesz részt, feltéve, hogy a szakképzéshez előírt gyakorlatot a keresőtevékenysége során szerezte.
+c) szakmai tevékenysége gyakorlásához szakképzésben vesz részt, feltéve, hogy a szakképzéshez előírt gyakorlatot a keresőtevékenységével összefüggésben szerezte.
 
-(2) Az (1) bekezdés b) pontjában meghatározott EGT-állampolgár a keresőtevékenységén alapuló tartózkodási jogát a külön törvényben meghatározott álláskeresési támogatás folyósításának időtartamára tartja meg.
+(2) Az (1) bekezdés b) pontjában meghatározott EGT-állampolgár a keresőtevékenységén alapuló tartózkodási jogát, amennyiben a keresőtevékenység időtartama az egy évet meghaladta, korlátlan ideig tartja meg.
+
+(3) Az (1) bekezdés b) pontjában meghatározott EGT-állampolgár a keresőtevékenységén alapuló tartózkodási jogát, amennyiben a keresőtevékenység időtartama az egy évet nem haladta meg, a külön törvényben meghatározott álláskeresési támogatás folyósításának időtartamára, de legalább hat hónapig tartja meg.

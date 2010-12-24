@@ -1,7 +1,13 @@
-19. § (1) Az állandó tartózkodási jog megszűnik
+19. § (1) Az EGT-állampolgárnak vagy harmadik országbeli állampolgár családtagjának az állandó tartózkodási joga megszűnik két év folyamatos távolléttel.
 
-a) két év folyamatos távolléttel vagy
+(1a) A magyar állampolgár harmadik országbeli családtagjának az állandó tartózkodási joga megszűnik
 
-b) beutazási és tartózkodási tilalom elrendelése esetén.
+a) két év folyamatos távolléttel;
 
-(2) Az (1) bekezdés a) pontjában foglalt esetben az állandó tartózkodási jog megszűnését az eljáró hatóság határozattal állapítja meg.
+b) beutazási és tartózkodási tilalom elrendelése esetén;
+
+c) ha a családi kapcsolat létesítése a tartózkodási jog megszerzése érdekében történt, vagy
+
+d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította.
+
+(2) Az (1) és az (1a) bekezdésben foglalt esetekben az állandó tartózkodási jog megszűnését az eljáró hatóság határozattal állapítja meg.

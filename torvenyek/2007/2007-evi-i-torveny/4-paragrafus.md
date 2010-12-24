@@ -1,3 +1,5 @@
 4. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
 
+(1a) Amennyiben a három hónapot meg nem haladó tartózkodásra jogosító vízumot kérelmező a családi kapcsolatot a beutazás engedélyezése érdekében létesítette, az e törvényben, illetve e törvény végrehajtási rendeletében meghatározott kedvezmények a kérelmezőre nem alkalmazhatóak.
+
 (2) A három hónapot meg nem haladó tartózkodásra jogosító vízum a harmadik ország állampolgárságával rendelkező családtagot többszöri beutazásra és az első beutazás napjától számított bármely hat hónapos időszakban három hónapos tartózkodásra jogosítja.

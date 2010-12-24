@@ -1,6 +1,8 @@
-41. § (1) Az idegenrendészeti kiutasítás elrendelésével együtt egy évnél nem rövidebb és öt évnél nem hosszabb időtartamú beutazási és tartózkodási tilalmat kell elrendelni.
+41. § (1) Az idegenrendészeti kiutasítás elrendelésével együtt – a 40. § (2) bekezdés a) és b) pontjában, valamint a 40. § (5) bekezdésben meghatározott esetek kivételével – egytől öt évig terjedő időtartamú beutazási és tartózkodási tilalmat kell elrendelni. A 40. § (2) bekezdés a) és b) pontja alapján elrendelt idegenrendészeti kiutasítással együtt az EGT-állampolgár vagy családtag részére meg kell állapítani az ország elhagyására vonatkozó kötelezettséget.
 
 (2) Ha a kiutasítást közegészségügyi okból rendelik el, a beutazási és tartózkodási tilalom időtartamára a közegészségügyi hatóság javaslatot tesz.
+
+(2a) Ha a kiutasítást a 40. § (2) bekezdés c) pontja alapján rendeli el az eljáró hatóság, a beutazási és tartózkodási tilalom időtartamára az elrendelést kezdeményező rendvédelmi szerv javaslatot tesz.
 
 (3) Az e törvény szerinti kiutasítással együtt elrendelt beutazási és tartózkodási tilalom időtartamát a kiutasítás végrehajtásának napjától kell számítani.
 

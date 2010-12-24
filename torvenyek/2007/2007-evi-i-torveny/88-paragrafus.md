@@ -10,12 +10,4 @@
 
 (5) Az EGT-állampolgár és a családtag által e törvény hatálybalépése előtt benyújtott, elsőfokú határozattal még el nem bírált tartózkodási vagy letelepedési engedély iránti kérelmekkel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni.
 
-(6) Az EGT-állampolgárral és a családtaggal szemben e törvény hatálybalépése előtt a külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény (a továbbiakban: Idtv.) alapján elrendelt őrizetre e törvény rendelkezéseit kell alkalmazni. Ha az őrizet elrendelésétől számított harminc nap eltelt, az őrizetet e törvény hatálybalépésének napján meg kell szüntetni.
-
-(7) Ha a Bolgár Köztársaság, valamint Románia állampolgáraival és harmadik ország állampolgárságával rendelkező családtagjaival szemben az Idtv. alapján elrendelt őrizet elrendelésétől számított harminc nap eltelt, az őrizetet e törvény hatálybalépésének napján meg kell szüntetni.
-
-(8) E törvény hatálybalépésének napján érvényét veszti a Bolgár Köztársaság, valamint Románia állampolgáraival és harmadik ország állampolgárságával rendelkező családtagjaival szemben az idegenrendészeti hatóság által
-
-a) az Idtv. alapján elrendelt kiutasítás és az azzal együtt elrendelt beutazási és tartózkodási tilalom, valamint
-
-b) az Idtv. 32. § (1) bekezdés a)–c) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom.
+(6)–(8)

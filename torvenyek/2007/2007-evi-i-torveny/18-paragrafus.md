@@ -12,7 +12,11 @@ d) legalább három évig megszakítás nélkül folytatta keresőtevékenység�
 
 a) külön törvényben meghatározottak szerint álláskeresőnek minősül, vagy
 
-b) betegség vagy baleset következtében nem folytat keresőtevékenységet.
+b) betegség vagy baleset következtében nem folytat keresőtevékenységet,
+
+c) rajta kívül álló ok miatt nem folytat keresőtevékenységet.
+
+(2a) Az (1) bekezdés a) és b) pontja alkalmazásában a keresőtevékenység folytatásának időtartamába beleszámít az Európai Gazdasági Térségről szóló megállapodásban részes tagállam területén folytatott keresőtevékenység időtartama is.
 
 (3) Ha a keresőtevékenység folytatása céljából tartózkodó EGT-állampolgár házastársa magyar állampolgár, az EGT-állampolgár az (1) bekezdés a) és b) pontjában foglalt tartózkodási, illetve keresőtevékenység folytatásával kapcsolatos időtartamra vonatkozó feltételek hiányában is állandó tartózkodásra jogosult, ha
 

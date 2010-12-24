@@ -6,4 +6,12 @@
 
 a) aki a Magyar Köztársaság területének elhagyására vonatkozó kötelezettségének az előírt határidőn belül nem tett eleget,
 
-b) akinek a beutazási vagy a tartózkodási joga nem áll fenn, de aki ennek ellenére a beutazási vagy a tartózkodási joga igazolása céljából az eljáró hatóság előtt hamis adatra vagy valótlan tényre hivatkozott.
+b) akinek a beutazási vagy a tartózkodási joga nem áll fenn, de aki ennek ellenére a beutazási vagy a tartózkodási joga igazolása céljából az eljáró hatóság előtt hamis adatra vagy valótlan tényre hivatkozott,
+
+c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent a Magyar Köztársaság nemzetbiztonságára.
+
+(3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek.
+
+(4) Büntetőeljárás során hozott jogerős ítélet önmagában nem képezheti a (2) bekezdés c) pontja alapján elrendelt kiutasító döntés meghozatalának alapját.
+
+(5) Az állandó tartózkodási joggal rendelkező EGT-állampolgár vagy családtag – a (2) bekezdés c) pontjában meghatározott eset kivételével – nem utasítható ki a Magyar Köztársaság területéről.

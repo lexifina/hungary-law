@@ -1,0 +1,1 @@
+48/A. § A bíróság által elrendelt kiutasítás végrehajtásának biztosítása érdekében az eljáró hatóság az EGT-állampolgár, illetve a családtag úti okmányát elveheti, amely intézkedéssel szemben külön jogorvoslatnak nincs helye.

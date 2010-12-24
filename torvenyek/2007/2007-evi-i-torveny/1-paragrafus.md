@@ -14,7 +14,7 @@ d) annak az EGT-állampolgárt vagy a magyar állampolgárt kísérő vagy hozz�
 
 da) a magyar állampolgár eltartottja, vagy vele legalább egy éve egy háztartásban él, illetve akiről súlyos egészségügyi okból a magyar állampolgár személyesen gondoskodik,
 
-db) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele legalább egy évig egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik,
+db) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik,
 
 és a hatóság családtagként való beutazását és tartózkodását engedélyezi.
 

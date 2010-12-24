@@ -2,7 +2,7 @@
 
 a) a magyar állampolgár eltartottja, vagy vele legalább egy éve egy háztartásban él, illetve akiről súlyos egészségügyi okból a magyar állampolgár személyesen gondoskodik,
 
-b) – abban az országban, ahonnan érkeznek – a 6. § (1) bekezdésében meghatározott feltételeket teljesítő EGT-állampolgár eltartottja volt, vagy vele legalább egy évig egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik.
+b) – abban az országban, ahonnan érkeznek – a 6. § (1) bekezdésében meghatározott feltételeket teljesítő EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik.
 
 (2) Az (1) bekezdésben foglalt személy tartózkodási joga megszűnik, ha az életközösség már nem áll fenn.
 

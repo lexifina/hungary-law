@@ -14,7 +14,9 @@ d) a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt áll
 
 e) a személyes szabadságukban korlátozott EGT-állampolgárok és családtagok nyilvántartása,
 
-f) az úti okmány, illetve a személyazonosító igazolvány elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása.
+f) az úti okmány, illetve a személyazonosító igazolvány elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása,
+
+g) a három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
