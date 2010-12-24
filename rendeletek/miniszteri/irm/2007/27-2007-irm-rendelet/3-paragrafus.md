@@ -1,9 +1,15 @@
-3. § (1) A befogadott őrizetes a közösségben – a (2) bekezdésben foglaltak szükség szerint laboratóriumi vizsgálattal igazolt kizárásával – csak előzetes orvosi vizsgálat után, a vizsgálatot végző orvos írásbeli egyetértése alapján helyezhető el.
+3. §[^4] (1) A befogadott őrizetes csak előzetes orvosi vizsgálat után, a vizsgálatot végző orvos írásbeli egyetértése alapján helyezhető el közösségben.
 
-(2) Nem helyezhető el a közösségben az az őrizetes, aki fertőző beteg vagy kórokozó-hordozó.
+(2) Nem helyezhető el közösségben az az őrizetes, aki fertőző beteg vagy kórokozó-hordozó. A fertőző beteg vagy kórokozó-hordozó őrizetest a többi őrizetestől el kell különíteni és haladéktalanul értesíteni kell az őrzött szállás helye szerint illetékes egészségügyi államigazgatási szervet.
 
-(3) Az (1) bekezdésben meghatározott orvosi vizsgálatnak ki kell terjednie az őrizetesen lévő külsérelmi nyomok megállapítására (látlelet), annak okára, illetőleg rögzíteni kell, hogy az őrizetesen külsérelmi nyomok nem találhatók.
+(3) Amennyiben az őrizetes egészségi állapota miatt nem helyezhető el őrzött szálláson, haladéktalanul egészségügyi intézménybe kell szállítani.
 
-(4) Ha az őrizetesen külsérelmi nyomok találhatók, nyilatkoznia kell a keletkezés okáról és körülményeiről. A nyilatkozatot az őrzött szállás fenntartójának két tanú jelenlétében jegyzőkönyvben kell rögzítenie.
+(4) A származási országában kínzás, nemi erőszak vagy egyéb erőszakos cselekményeket elszenvedett különös bánásmódot igénylő őrizetesnek a befogadáshoz szükséges vizsgálatot végző orvos véleménye alapján biztosítani kell az említett cselekményekkel okozott sérülések megfelelő szakorvosi kezelést.
 
-(5) A látleletet és a (4) bekezdésben meghatározott jegyzőkönyvet az őrzött szállás törvényességi felügyeletét ellátó ügyésznek meg kell küldeni.
+(5) Az (1) bekezdésben meghatározott orvosi vizsgálatnak ki kell terjednie az őrizetesen lévő külsérelmi nyomok megállapítására (látlelet), annak okára, illetőleg rögzíteni kell, hogy az őrizetesen külsérelmi nyomok nem találhatók.
+
+(6) Ha az őrizetesen külsérelmi nyomok találhatók, nyilatkoznia kell a keletkezés okáról és körülményeiről. A nyilatkozatot az őrzött szállás fenntartójának jegyzőkönyvben kell rögzítenie. A jegyzőkönyvet két tanú jelenlétében kell az őrizetesnek és az őrzött szállás fenntartójának aláírnia.
+
+(7) A látleletet és a (6) bekezdésben meghatározott jegyzőkönyvet az őrzött szállás törvényességi felügyeletét ellátó ügyésznek meg kell küldeni.
+
+[^4]: A 3. § a 12/2010. (XII. 23.) BM rendelet 15. §-ával megállapított szöveg.
