@@ -50,7 +50,19 @@ bc) szövetkezet tisztségviselője,
 
 bd) alapítvány kezelő szervezetének tagja, tisztségviselője.
 
+(2a) Összeférhetetlenség miatt meg kell szüntetni annak a polgármesternek a megbízatását,
+
+a) akit a közügyek gyakorlásától jogerősen eltiltottak,
+
+b) akit bűntett miatt jogerősen szabadságvesztésre ítéltek,
+
+c) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi,
+
+d) akinek kényszergyógykezelését a bíróság jogerősen elrendelte.
+
 (3) A polgármester az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított 30 napon belül köteles megszüntetni.
+
+(3a) A polgármester köteles az ellene indított büntetőeljárás során az első tárgyalás időpontjáról, illetve a bűnösséget megállapító jogerős ítéletről az idézés, illetve a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, a helyi választási bizottságot és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
 
 (4) Ha a polgármester a (3) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára – a száznál kevesebb lakosú község kivételével a képviselők közül választott háromtagú bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő 30 napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget, illetőleg dönthet a hozzájárulás megadásáról, ha e törvény ezt lehetővé teszi. A képviselő-testület határozatát az ülést követő munkanapon a polgármesternek kézbesíteni kell.
 
