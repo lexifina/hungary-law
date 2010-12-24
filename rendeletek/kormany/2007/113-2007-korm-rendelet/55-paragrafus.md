@@ -1,9 +1,9 @@
-55. § (1)[^38] Az érintett a végrehajtás módja ellen végrehajtási kifogással élhet, amelyet a végrehajtás befejezését követő öt munkanapon belül írásban, postai úton kell előterjeszteni.
+55. § (1)[^67] Az érintett a végrehajtás módja ellen végrehajtási kifogással élhet, amelyet a végrehajtás befejezését követő nyolc napon belül írásban, postai úton kell előterjeszteni.
 
-(2)[^39] A végrehajtást foganatosító szervnek a kifogás tárgyában hozott végzése ellen fellebbezésnek van helye, amelyet a közléstől számított öt munkanapon belül a kifogást elbíráló szervnél lehet előterjeszteni.
+(2)[^68] A végrehajtást foganatosító szervnek a kifogás tárgyában hozott végzése ellen fellebbezésnek van helye, amelyet a közléstől számított nyolc napon belül a kifogást elbíráló szervnél lehet előterjeszteni.
 
-(3)[^40] A fellebbezés elbírálására jogosult hatóság a fellebbezésről tíz munkanapon belül dönt.
+(3)[^69] A fellebbezés elbírálására jogosult hatóság a fellebbezésről tizenöt napon belül dönt.
 
-[^38]: Az 55. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 544. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: Az 55. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 544. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^40]: Az 55. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: Az 55. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.
+[^68]: Az 55. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.
+[^69]: Az 55. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (4) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.

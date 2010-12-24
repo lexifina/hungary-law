@@ -1,4 +1,4 @@
-## 43. § A családtag a tartózkodási jogcímnek a Tv. 10. és 11. §-ban foglalt okból bekövetkezett változását köteles az annak alapjául szolgáló tény bekövetkeztétől számított harminc napon belül a lakóhelye szerint illetékes regionális igazgatóságnál az okiratok egyidejű csatolásával bejelenteni.
+## 43/A. §[^53] Az ellenőrzés során az EGT-állampolgárnál vagy a családtagnál talált, más személy részére kiállított és jogtalanul birtokban tartott úti okmányt az eljáró hatóság lefoglalja, és – ha bűncselekmény gyanúja nem merül fel – továbbítja az azt kiállító állam Magyarországra akkreditált külképviseletének.
 
 ## A tartózkodás közegészségügyi szabályai
 
@@ -13,3 +13,5 @@
 a) megteszi a szükséges járványügyi intézkedéseket, vagy
 
 b) a Tv. 40. § (1) bekezdésében foglaltakra tekintettel – egyidejűleg javaslatot téve a beutazási és tartózkodási tilalom időtartamára – az EGT-állampolgár vagy a családtag kiutasítását kezdeményezi.
+
+[^53]: A 43/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 18. §-a iktatta be.

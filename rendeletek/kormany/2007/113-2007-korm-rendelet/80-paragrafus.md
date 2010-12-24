@@ -4,7 +4,7 @@
 
 (2) E rendelet 70. §-a a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-(3)[^55] Ez a rendelet
+(3)[^85] Ez a rendelet
 
 1. a 18/A-C. §-ban a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i 1931/2006/EK európai parlamenti és tanácsi rendelet,
 
@@ -16,4 +16,4 @@
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^55]: A 80. § (3) bekezdését a 327/2007. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 96/2010. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^85]: A 80. § (3) bekezdését a 327/2007. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 96/2010. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.

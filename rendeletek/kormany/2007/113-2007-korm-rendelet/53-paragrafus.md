@@ -1,8 +1,11 @@
+## iránt.
+
 ## Kitoloncolás
 
-53. § (1)[^36] A kitoloncolás feltételeinek megteremtésére a Rendőrség intézkedik.
+53. §[^65] (1) A kitoloncolás feltételeinek megteremtéséről – a (2) bekezdésben foglalt kivétellel – a Rendőrség intézkedik.
 
-(2)[^37] A kitoloncolást a Rendőrség foganatosítja.
+(2) Ha a kitoloncolás a kiutasítás végrehajtása érdekében légi úton történik, a kitoloncolás feltételeinek megteremtésére a Hivatal intézkedik.
 
-[^36]: Az 53. § (1) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^37]: Az 53. § (2) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+(3) A kitoloncolást a Rendőrség foganatosítja.
+
+[^65]: Az 53. § a 290/2010. (XII. 21.) Korm. rendelet 23. §-ával megállapított szöveg.

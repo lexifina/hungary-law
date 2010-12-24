@@ -12,4 +12,6 @@ d) egyéb hitelt érdemlő módon
 
 ## igazolhatja.
 
-(2) Ahol e rendelet anyakönyvet említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.
+(2)[^30] Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell. A magyar állampolgár harmadik országbeli családtagja által benyújtott házassági anyakönyvi kivonat a hazai anyakönyvezést követően fogadható el.
+
+[^30]: A 24. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

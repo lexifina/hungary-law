@@ -8,6 +8,8 @@ c) a munkahelyi baleset vagy foglalkozási megbetegedés eredményeként beköve
 
 d) a valamely EGT-állam területén folytatott keresőtevékenység az azt igazoló okirattal vagy más irattal.
 
+(1a)[^35] A Tv. 18. § (2a) bekezdése alkalmazásában az Európai Gazdasági Térségről szóló megállapodásban részes tagállamban folytatott keresőtevékenységet a hatáskörrel és illetékességgel rendelkező külföldi hatóság által kiállított okirattal vagy más irattal kell igazolni.
+
 (2) A Tv. 18. § (3) bekezdése alkalmazásában az állandó tartózkodás joga
 
 a) az öregségi vagy korengedményes nyugdíj folyósítását megállapító határozattal, vagy
@@ -17,3 +19,5 @@ b) a balesettel vagy egészségkárosodással összefüggő és gyógykezelést 
 ## igazolható.
 
 (3) A Tv. 18. § (5) bekezdése alkalmazásában az állandó tartózkodás joga az EGT-állampolgár halálának körülményeit megállapító munkabaleseti jegyzőkönyvvel igazolható.
+
+[^35]: A 34. § (1a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
