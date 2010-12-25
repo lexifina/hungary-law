@@ -10,4 +10,6 @@ b) működteti a jelöltek vizsgáztatását végző állami szakvizsga bizotts�
 
 c) gondoskodik az egészségügyi felsőfokú szakirányú szakmai képzésben szerzett szakvizsga bizonyítványok és az egészségügyi szakirányú szakmai képzésben szerzett bizonyítványok kiállításáról.
 
-(4) Az ESZTT az egészségügyi szakirányú szakmai képzéssel és egészségügyi szakirányú szakmai továbbképzéssel kapcsolatos nyilvántartás vezetési feladatait az NVB útján gyakorolja.
+(4)[^1] Az ESZTT az egészségügyi szakirányú szakmai képzéssel kapcsolatos nyilvántartás vezetési feladatait az NVB útján gyakorolja.
+
+[^1]: A 7. § (4) bekezdése a 17/2010. (XII. 20.) NEFMI rendelet 7. §-a szerint módosított szöveg.
