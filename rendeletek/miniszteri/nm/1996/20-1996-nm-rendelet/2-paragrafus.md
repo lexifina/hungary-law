@@ -18,7 +18,7 @@ c) beszédterápiát logopédus,
 
 d) dietoterápiát egészségügyi főiskolai végzettséggel és legalább hároméves szakmai gyakorlattal rendelkező dietetikus
 
-e)[^4] otthoni parenterális táplálást kizárólag krónikus bélelégtelenségben szenvedő betegek ellátása esetén ezen tevékenység végzésére feljogosító licenccel rendelkező szakápoló, diplomás ápoló
+e)[^4]
 
 ## végezhet.
 
@@ -26,5 +26,5 @@ e)[^4] otthoni parenterális táplálást kizárólag krónikus bélelégtelens�
 
 [^2]: A 2. § (2) bekezdését a 15/1999. (VI. 9.) EüM rendelet 4. §-a hatályon kívül helyezte, újonnan a 26/2009. (VIII. 5.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 15/2010. (IV. 9.) EüM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (3) bekezdése a 26/2009. (VIII. 5.) EüM rendelet – 5/2010. (II. 16.) EüM rendelet 17. §-a szerint módosított – 2. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (3) bekezdés e) pontját a 15/2010. (IV. 9.) EüM rendelet 13. § (2) bekezdése iktatta be.
+[^4]: A 2. § (3) bekezdés e) pontját a 15/2010. (IV. 9.) EüM rendelet 13. § (2) bekezdése iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 5. §-a hatályon kívül helyezte.
 [^5]: A 2. § (4) bekezdését a 26/2009. (VIII. 5.) EüM rendelet 2. § (3) bekezdése iktatta be.
