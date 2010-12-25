@@ -80,15 +80,7 @@ III. Egyéb adatok
 
 10. az Eütv. szerinti eljárás keretében kiszabott jogerős büntetés ténye és a büntetést kiszabó határozat jogerőre emelkedésének napja
 
-11.[^32] Licenc vizsgák
-
-– Licenc vizsga neve
-
-– A licenc bizonyítvány száma
-
-– A licenc bizonyítvány (és – ha van – a licenc megújítását tanúsító igazolás) kelte
-
-– A jogosultsági időszak lejárta
+11.[^32]
 
 IV. A működési nyilvántartás száma
 
@@ -145,4 +137,4 @@ X. Kiegészítő gyakorlati továbbképzés kezdete, vége
 XI. Megjegyzés
 
 [^31]: A 2. számú melléklet az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
-[^32]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be.
+[^32]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte.
