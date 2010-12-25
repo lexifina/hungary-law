@@ -1,1 +1,0 @@
-A prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény 7. § (4) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
