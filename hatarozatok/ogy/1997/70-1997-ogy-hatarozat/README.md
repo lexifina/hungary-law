@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-70-30-4
 | --- | --- | --- |
 | 2007-03-28 | 1997-70-30-41.3 | 70/1997. (VII. 15.) OGY határozat |
 | 2010-09-15 | 1997-70-30-41.4 | 80/2010. (IX. 15.) OGY határozat |
+| 2010-12-27 | 1997-70-30-41.5 | 80/2026. (XI. 3.) OGY határozat |

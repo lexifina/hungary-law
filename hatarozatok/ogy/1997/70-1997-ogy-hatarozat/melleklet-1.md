@@ -282,7 +282,7 @@
 
 ## 5.7.[^8] A részvénytársaság elnöke az Nht., a Gt., más jogszabályok és az Alapító Okirat rendelkezéseivel összhangban irányítja a részvénytársaságot. Ennek keretében:
 
-## – évente írásban beszámol az Országgyűlésnek a részvénytársaság tevékenységéről, amelynek keretében sor kerül a mérleg és eredménykimutatás jóváhagyására, valamint a nyereség felosztására. Az elnök beszámolóját a részvénytársaság felügyelőbizottságának véleményével együtt kell az Országgyűlés elé terjeszteni. A beszámolóhoz mellékelni kell az Állami Számvevőszék elnökének jelentését a részvénytársaság gazdasági tevékenységéről;
+## – évente írásban beszámol az Országgyűlésnek a részvénytársaság tevékenységéről, amelynek keretében sor kerül a mérleg és eredménykimutatás jóváhagyására, valamint a nyereség felosztására. Az elnök beszámolóját a részvénytársaság felügyelőbizottságának véleményével együtt kell az Országgyűlés elé terjeszteni.
 
 ## – az Országgyűlésnek történő évenkénti beszámolás keretében elkészíti és bemutatja a részvénytársaság következő évi gazdálkodási tervét, és gondoskodik annak végrehajtásáról;
 
@@ -490,7 +490,7 @@
 [^5]: A mellékletben szereplő Alapító Okirat I. részének 1.4. pontja a 27/2007. (III. 28.) OGY határozat 3. pontjával megállapított szöveg.
 [^6]: A mellékletben szereplő Alapító Okirat II. részének 2.3. pontja a 27/2007. (III. 28.) OGY határozat 4. pontjával megállapított szöveg.
 [^7]: A mellékletben szereplő Alapító Okirat III. fejezete 3.2. pontjának első bekezdése a 7/1998. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^8]: A mellékletben szereplő Alapító Okirat V. részének 5.7. pontja a 27/2007. (III. 28.) OGY határozat 5. pontja szerint módosított szöveg.
+[^8]: A mellékletben szereplő Alapító Okirat V. részének 5.7. pontja a 27/2007. (III. 28.) OGY határozat 5. pontja, a 132/2010. (XII. 27.) OGY. határozat 1. pontja szerint módosított szöveg.
 [^9]: A mellékletben szereplő Alapító Okirat V. részének 5.8. pontja a 27/2007. (III. 28.) OGY határozat 6. pontjával megállapított szöveg.
 [^10]: A mellékletben szereplő Alapító Okirat V. részének 5.12. pontját a 27/2007. (III. 28.) OGY határozat 7. pontja iktatta be.
 [^11]: A mellékletben szereplő Alapító Okirat X. részének 10.5. pontja a 27/2007. (III. 28.) OGY határozat 8. pontjával megállapított szöveg.
