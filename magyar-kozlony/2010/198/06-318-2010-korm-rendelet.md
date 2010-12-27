@@ -1,0 +1,84 @@
+# A Kormány 318/2010. (XII. 27.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 198. szám, 2010. december 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a390e8e49134bff4aefd53c2b85915ced8dccb8d/dokumentumok/571275a557a8576ddaa68e3392a0c85c30a63a7d/letoltes)
+
+---
+
+A Kormány 318/2010. (XII. 27.) Korm. rendelete
+az Országos Nyugdíjbiztosítási Főigazgatóságról szóló
+289/2006. (XII. 23.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 40. §
+(2) bekezdésében meghatározott feladatkörében eljárva, valamint
+a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101/A. §-ában,
+a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval
+összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § b)–d) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § Az Országos Nyugdíjbiztosítási Főigazgatóságról szóló 289/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Onyfr.)
+2. §-a helyébe a következő rendelkezés lép:
+„2. § (1) Az ONYF igazgatási szervei a Nyugdíjfolyósító Igazgatóság és a Központi Nyugdíjnyilvántartó és Informatikai
+Igazgatóság (a továbbiakban együtt: központi igazgatási szerv).
+(2) A központi igazgatási szervek önállóan működő és gazdálkodó, az ONYF-től elkülönült költségvetési szervek, és
+az ONYF közvetlen irányítása alatt állnak.
+(3) A központi igazgatási szervek székhelye Budapest, feladat- és hatáskörüket az ország egész területére kiterjedő
+illetékességgel látják el.
+(4) A központi igazgatási szervet igazgató vezeti. Az igazgatót és annak helyettesét a főigazgató nevezi ki és menti fel,
+továbbá gyakorolja felettük az egyéb munkáltatói jogköröket. A központi igazgatási szerv más alkalmazottai felett
+a munkáltatói jogkört az igazgató gyakorolja.
+(5) A központi igazgatási szerv működésének rendjét a főigazgató által jóváhagyott szervezeti és működési szabályzat
+határozza meg.
+(6) A Nyugdíjfolyósító Igazgatóság külön jogszabályban meghatározott elsőfokú nyugdíj-megállapítási, illetve
+nyugdíj-folyósítási feladat- és hatáskörrel rendelkezik.
+(7) A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság külön jogszabályban meghatározott elsőfokú
+nyugdíj-megállapítási feladat- és hatáskörrel, továbbá központi nyilvántartási és informatikai feladat- és hatáskörrel
+rendelkezik.”
+2. § Az Onyfr. a következő 2/A. §-sal egészül ki:
+„2/A. § (1) A nyugdíjbiztosítási igazgatóság a fővárosi és megyei kormányhivatal szakigazgatási szerve.
+(2) A nyugdíjbiztosítási igazgatóság tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és
+megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi
+CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási
+szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés
+h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az ONYF
+főigazgatója.
+(3) A nyugdíjbiztosítási igazgatóság illetékességi területe – a fővárosi nyugdíjbiztosítási igazgatóság illetékességének
+kivételével – megegyezik a megyei kormányhivatal illetékességével. A fővárosi nyugdíjbiztosítási igazgatóság
+illetékessége Budapest főváros és Pest megye területére is kiterjed.”
+3. § Az Onyfr. 3. § (2)–(5) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Kormány első fokon eljáró nyugdíjbiztosítási igazgatási szervnek a nyugdíjbiztosítási igazgatóságokat és
+a központi igazgatási szerveket jelöli ki.
+(3) A Kormány másodfokú nyugdíjbiztosítási igazgatási szervnek az ONYF-et jelöli ki.
+(4) A nyugdíjbiztosítási igazgatóságok és a központi igazgatási szervek hatósági ügyeiben a fellebbezés elbírálására
+jogosult hatóság és a felügyeleti szerv az ONYF.
+(5) Az ONYF vezetője vagy más kormánytisztviselője a központi igazgatási szervek vezetőjét vagy kiadmányozási
+jogkörrel rendelkező ügyintézőjét az elsőfokú közigazgatási hatósági eljárásban nem utasíthatja.”
+
+4. § Az Onyfr. a következő 7. §-sal egészül ki:
+„7. § (1) A Közép-magyarországi Regionális Nyugdíjbiztosítási Igazgatóság kivételével a 2011. január 1-jét megelőzően
+regionális illetékességgel működő – különválással egyidejűleg összeolvadás révén szakigazgatási szervvé váló –
+regionális nyugdíjbiztosítási igazgatóság jogutóda az alapító okiratban foglaltak szerint a korábbi illetékességi
+területén működő azon megyei kormányhivatal, amellyel a megyei illetékességi területet illetően az összeolvadás
+megtörténik.
+(2) A Közép-magyarországi Regionális Nyugdíjbiztosítási Igazgatóság jogutóda Budapest Főváros Kormányhivatala.
+(3) Az (1) bekezdéstől eltérően az alapító okiratban foglaltak szerint a Közép-magyarországi Regionális
+Nyugdíjbiztosítási Igazgatóság feladatainak részleges átvevője az ONYF, valamint a Központi Nyugdíjnyilvántartó és
+Informatikai Igazgatóság, amely a számára jogszabályban megállapított feladat- és hatáskörök, valamint
+a feladatellátáshoz kapcsolódó jogviszonyok tekintetében a Közép-magyarországi Regionális Nyugdíjbiztosítási
+Igazgatóság jogutódjának tekintendő.
+(4) A (3) bekezdés szerinti jogutódlás részleteire vonatkozóan a közigazgatás-szervezésért felelős miniszter és az ONYF
+főigazgatója külön intézkedést adhat ki.
+(5) 2011. január 1-jétől a főigazgató által meghatározott körben, alapító okiratban foglaltak szerint a Központi
+Nyugdíjnyilvántartó és Informatikai Igazgatóság az ONYF feladatainak részleges átvevője, a számára jogszabályban
+megállapított feladat- és hatáskörök, valamint a feladatellátáshoz kapcsolódó jogviszonyok tekintetében az ONYF
+jogutódának tekintendő.
+(6) A Nyugdíjbiztosítási Alap tekintetében az ONYF vagyonkezelésében lévő ingatlanállomány tekintetében az ONYF
+és a fővárosi és megyei kormányhivatalok, illetőleg a Nemzeti Államigazgatási Központ az ingatlanok átadásának
+ingyenes vagy visszterhes jellegét, az ingatlanok használatát és üzemeltetését külön megállapodásban rendezik.”
+5. § Az Onyfr. 1. § (4) bekezdésében az „A főigazgatót” szövegrész helyébe az „Az ONYF főigazgatóját (a továbbiakban:
+főigazgató)” szöveg, a 4. § (1) bekezdés a) pontjában a „tervezési” szövegrész helyébe a „Nyugdíjbiztosítási Alappal
+kapcsolatos tervezési” szöveg, a 4. § (1) bekezdés c) pontjában a „továbbá” szövegrész helyébe a „továbbá a központi
+igazgatási szervek tekintetében” szöveg, a 4. § (1) bekezdés d) pontjában a „nyugdíj-biztosítási” szövegrész helyébe
+a „központi” szöveg, a 4. § (1) bekezdés e) pontjában a „belső eljárási, ügyviteli rendet” szövegrész helyébe a „belső
+eljárás rendjét, valamint a központi igazgatási szervek ügyviteli rendjét” szöveg lép.
+6. § Hatályát veszti az Onyfr. melléklete.
+7. § Ez a rendelet 2011. január 1-jén lép hatályba, 2011. január 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

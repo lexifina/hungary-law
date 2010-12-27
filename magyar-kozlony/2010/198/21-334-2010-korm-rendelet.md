@@ -1,0 +1,148 @@
+# A Kormány 334/2010. (XII. 27.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 198. szám, 2010. december 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a390e8e49134bff4aefd53c2b85915ced8dccb8d/dokumentumok/571275a557a8576ddaa68e3392a0c85c30a63a7d/letoltes)
+
+---
+
+A Kormány 334/2010. (XII. 27.) Korm. rendelete
+a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások
+fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet
+módosításáról
+A Kormány a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló
+1997. évi LXXX. törvény 58. § (1) bekezdés a), c), d) és k) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés
+b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló
+1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 4. § (6) bekezdése
+helyébe a következő rendelkezés lép:
+„(6) A Tbj. 10. § (3) bekezdésében nem említett, a mezőgazdasági és vidékfejlesztési támogatási szerv által vezetett
+ügyfél-nyilvántartási rendszerben nyilvántartott, a Tbj. szerint mezőgazdasági őstermelőnek minősülő
+mezőgazdasági termelő biztosítási kötelezettsége a nyilvántartásba vétel napjától a nyilvántartásból való törlés
+napjáig áll fenn.”
+2. §
+Az R. 4/A. §-a a következő (6) bekezdéssel egészül ki:
+„(6) A biztosítás szünetelése alatt – a szünetelést megelőzően fennálló biztosítással járó jogviszony alapján – kifizetett
+(juttatott) járulékalapot képező jövedelmet a járulékfizetési felső határig úgy kell figyelembe venni, mintha annak
+kifizetésére a szünetelés kezdő napját megelőző napon került volna sor.”
+3. §
+Az R. 6. §-a helyébe a következő rendelkezés lép:
+„6. § Az egyéni és társas vállalkozó járulékfizetési alsó határának számításánál havonta meg kell állapítani, hogy
+a tárgyév első napjától, illetve a vállalkozói vagy személyes közreműködői tevékenység év közben történő
+megkezdése esetén ennek napjától a tárgyhónap utolsó napjáig a megállapított járulékalap havi átlagban eléri-e a Tbj.
+szerinti minimálbér összegét. Ha a járulékalap havi átlagos összege a tárgyhavi járulékalapot képező jövedelem
+mellett kisebb a Tbj. szerinti minimálbérnél, a járulékokat a tárgyhónapban meg kell fizetni az után az összeg után is,
+amellyel a járulékalap havi átlagos összege eléri a Tbj. szerinti minimálbér összegét.”
+
+4. § Az R. 7/C. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A magánnyugdíjpénztár-tag tagdíjfizetési kötelezettsége)
+„a) a Tbj. 34. § (1) bekezdése alapján kötött megállapodásban meghatározott időponttal,”
+(kezdődően áll fenn.)
+5. § (1) Az R. 21/A. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A magánnyugdíjpénztár (1)–(3) bekezdésben meghatározott határidőt követő, késedelmes utalása miatt
+a pénztárt a határidő lejártát követő naptól a visszautalás napjáig a késedelem minden naptári napjára az Art. 165. §
+(2) bekezdése szerinti mértékű kamat terheli. Az állami adóhatóság jelzése alapján a magánnyugdíjpénztár
+a megkeresést követő 8 napon belül átutalja a késedelmi kamat összegét az állami adóhatóság részére. Az átutalás
+a Magyar Államkincstár által vezetett, erre a célra megnyitott technikai számlára történik.”
+(2) Az R. 21/C. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztató – a helyi önkormányzati kör kivételével – az általa
+kifizetett ellátások összegét az egészségbiztosítási szakigazgatási szervnél, illetve a fővárosi és megyei kormányhivatal
+mint kifizetőhely esetén az OEP-nél igényelheti.
+(2) Az elszámolást az egészségbiztosítási szakigazgatási szerv, illetve a fővárosi és megyei kormányhivatalok mint
+kifizetőhelyek esetén az OEP részére kell megküldeni. Az egészségbiztosítási szakigazgatási szerv, illetve az OEP
+az adatokat felülvizsgálja, és az elszámolás beérkezését követő 8 napon belül rendelkezik a táppénz-hozzájárulással
+csökkentett összeg megtérítéséről.”
+6. § Az R. 22. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Az (1)–(3) bekezdés szerinti bejelentést elektronikus úton vagy gépi adathordozón az OEP által rendszeresített
+programmal, a (4) bekezdés szerinti bejelentést az erre a célra rendszeresített nyomtatványon kell teljesíteni. A Tbj.
+44/A. § (10) bekezdése szerinti bejelentést elektronikus úton vagy gépi adathordozón az OEP által rendszeresített
+programmal, vagy az erre a célra rendszeresített nyomtatványon kell teljesíteni.”
+7. § Az R. 25. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Nem állapítható meg a magyar jog alkalmazandó jogként, ha)
+„a) a foglalkoztató
+aa) a cégbíróság által jogerősen be nem jegyzett előtársaság,
+ab) a kiküldetés teljes időtartama alatt csak olyan munkavállalókat foglalkoztat belföldön, akik a cég irányításával
+vagy adminisztratív tevékenységével kapcsolatos feladatokat látnak el, vagy
+ac) a kiküldetés helye szerinti államban a magyarországi tevékenységéhez képest – a gazdasági tevékenységek
+statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes
+meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i
+1893/2006/EK európai parlamenti és tanácsi rendelet 1. melléklete szerint – más nemzetgazdasági ágazatba tartozó
+tevékenységet folytat, vagy”
+8. § Az R. 26. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Nem alkalmazható a magyar jog az önálló vállalkozó másik államban folytatott tevékenységének időtartama alatt,
+ha e tevékenységéhez – az (1) bekezdés b) pontja szerint – hasonló belföldi tevékenységet az önálló vállalkozó a másik
+tagállami munkavégzés megkezdése előtt kevesebb mint 60 napig folytatott.”
+9. § Az R. 27. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Ha a munkavállaló a koordinációs rendeletek hatálya alá tarozik, a (3) bekezdés akkor alkalmazható, ha
+a munkavállaló belföldön és a másik tagállamban egy olyan munkáltató javára végez munkát, amely az Európai Unió
+területén letelepedett.”
+
+10. § Az R.
+a) 2. § (7) bekezdésében az „az Mpt.” szövegrész helyébe az „a magánnyugdíjról és a magánnyugdíjpénztárakról
+szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.)” szöveg,
+b) 5/A. § (2) bekezdésében a „regionális egészségbiztosítási pénztár (a továbbiakban: REP)” szövegrész helyébe
+a „fővárosi, megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szerve
+(a továbbiakban: egészségbiztosítási szakigazgatási szerv)” szöveg,
+c) 5/A. § (3) bekezdésében a „tájékoztatja a REP-et” szövegrész helyébe a „tájékoztatja az egészségbiztosítási
+szakigazgatási szervet, illetve a fővárosi és megyei kormányhivatalok mint kifizetőhelyek esetén az OEP-et,”
+szöveg,
+d) 5/A. § (4) bekezdésében az „OEP területi igazgatási szerve” szövegrész helyébe az „egészségbiztosítási
+szakigazgatási szerv” szöveg, az „OEP területi igazgatási szervei” szövegrész helyébe az „egészségbiztosítási
+szakigazgatási szerv” szöveg, a „küldik meg” szövegrész helyébe a „küldi meg” szöveg,
+e) 8. § (1) bekezdésében a „Regionális Nyugdíjbiztosítási Igazgatóság” szövegrész helyébe a „nyugdíjbiztosítási
+igazgatóság” szöveg, a „Közép-magyarországi Regionális Nyugdíjbiztosítási Igazgatóság” szövegrész helyébe
+a „Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság” szöveg,
+f) 8. § (3) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+g) 9/A. § (2) bekezdésében a „PSZÁF” szövegrész helyébe a „Pénzügyi Szervezetek Állami Felügyelete
+(a továbbiakban: PSZÁF)” szöveg,
+h) 19. § (3) bekezdés d) pontjában a „tevékenységre jellemző keresetnél” szövegrész helyébe a „minimálbérnél”
+szöveg,
+i) 21. § (3) bekezdésében az „5 munkanapon” szövegrész helyébe a „8 napon” szöveg,
+j) 21. § (6) bekezdésében az „egészségbiztosítási és” szövegrész helyébe az „OEP-pel és a” szöveg,
+k) 21/C. § (4) bekezdésében az „az egészségbiztosítási igazgatási szerv” szövegrész helyébe az „egészségbiztosítási
+szakigazgatási szerv” szöveg,
+l) 22. § (2) és (4) bekezdésében az „a REP-nek” szövegrészek helyébe az „az egészségbiztosítási szakigazgatási
+szervnek” szöveg,
+m) 22. § (3) bekezdésében a „bekezdésének a)–d) pontjában említett személyeket a REP-nek, az e)–f) pontban”
+szövegrész helyébe a „bekezdésében” szöveg,
+n) 24. § (1) bekezdésében a „REP-nek” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervnek” szöveg,
+o) 25. § (6) bekezdés b) pont bb) alpontjában a „munkaviszonyának létesítésére” szövegrész helyébe
+a „kiküldetésére” szöveg,
+p) 26. § (1) bekezdésében a „REP-nek” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervnek” szöveg,
+q) 26. § (2) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+r) 27. § (1) bekezdésében a „REP-nek” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervnek” szöveg,
+s) 27. § (3) bekezdés a) pontjában a „belföldön fennálló munkaviszonyához” szövegrész helyébe a „belföldön
+folytatott tevékenységéhez” szöveg,
+t) 27/A. § (1) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+a „22 munkanapon” szövegrész helyébe a „30 napon” szöveg,
+u) 27/A. § (5) bekezdésében az „a REP-et” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervet”
+szöveg,
+v) 27/A. § (6) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg
+lép.
+11. § Hatályát veszti az R.
+a) 2. § (2)–(4) bekezdése,
+b) 2/A. §-a,
+c) 5/C. § (1) bekezdésében az „és a nyugdíjas biztosítással járó jogviszonya a nyugdíj megállapítását követően is
+fennáll, illetve egyéni vagy társas vállalkozói tevékenységét tovább folytatja,” szövegrész,
+d) 5/C. § (2) bekezdésében a „(vagy az említett ellátás megállapításának kezdő napját megelőzően fennálló
+jogviszonyában történő továbbfoglalkoztatása)” szövegrész,
+e) 5/D. § (3), (4) és (6) bekezdése,
+f) 5/G. § (1) bekezdése,
+g) 6/B. §-a,
+
+h) 7/A. § (5) bekezdése,
+i) 9/A. § (2) bekezdésében a „regionális” szövegrész,
+j) 19. § (4) bekezdése.
+12. § Nem lép hatályba a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.)
+Korm. rendelet 87. § (2) bekezdésében az „az 5/D. § (3) bekezdésében a „Pénzügyminisztérium Vám- és Pénzügyőrség
+Országos Parancsnoksága cím” szövegrész helyébe „NAV” szöveg,” szövegrész.
+13. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2010. december 31-én lép hatályba.
+(2) Az 1–11. § és a 14. § 2011. január 1-jén lép hatályba.
+(3) Ez a rendelet 2011. január 2-án hatályát veszti.
+14. § E rendelet 7–9. §-a
+a) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és
+tanácsi rendelet II. címének,
+b) a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás
+megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet II. címének
+végrehajtásához szükséges rendelkezéseket állapít meg.
+Orbán Viktor s. k.,
+miniszterelnök
