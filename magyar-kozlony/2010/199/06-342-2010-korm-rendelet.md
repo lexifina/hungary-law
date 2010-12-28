@@ -1,0 +1,282 @@
+# A Kormány 342/2010. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 199. szám, 2010. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/315d75921970352dfddb9705853b38e7f96bee30/dokumentumok/ebe397506c0dd4c272a1621382228c53b30d370f/letoltes)
+
+---
+
+A Kormány 342/2010. (XII. 28.) Korm. rendelete
+a kisebbségi önkormányzatoknak a központi költségvetésből, valamint fejezeti kezelésű
+előirányzatból nyújtott támogatások feltételrendszeréről és elszámolásának rendjéről
+A Kormány a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 64. §-a (5) bekezdésének b) pontjában,
+a III. fejezet tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés t) pontjában kapott felhatalmazás
+alapján, a 11. § tekintetében az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány
+35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+I. FEJEZET
+1. Általános rendelkezések
+1. § (1) E rendelet alkalmazásában
+a) határidő, határnap: a rendelet szerinti határidők naptári napokban értendők, amennyiben a rendelet szerinti
+valamely határnap nem munkanapra esik, úgy a határnap az ezt követő első munkanap;
+b) Támogató: a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény (a továbbiakban: Nek. tv.)
+62. §-ának (1) bekezdése alapján a Kormány által rendeletben kijelölt, a nemzeti és etnikai kisebbségekkel
+kapcsolatos állami feladatok ellátásáért felelős államigazgatási szerv vezetője.
+
+II. FEJEZET
+2. A települési és területi kisebbségi önkormányzatok működési támogatása
+2. §
+(1) E fejezet hatálya a községben, a városban és a főváros kerületeiben (a továbbiakban: települési), továbbá a megyében
+és a fővárosban (a továbbiakban: területi) működő kisebbségi önkormányzatok feladatarányos támogatására terjed ki.
+(2) E fejezet alkalmazásában
+a)
+feladatarányos támogatás: a települési és a területi kisebbségi önkormányzatok általános működési és
+feladatalapú támogatása;
+b)
+általános működési támogatás: a települési és a területi kisebbségi önkormányzatokat a képviselő-testület alakuló
+ülését követő hónap 1-jétől e rendelet szerint megillető, a kisebbségi önkormányzati működéssel közvetlenül
+összefüggő – a Nek. tv. 27. §-ának (1)–(2) bekezdése szerint a helyi önkormányzat által biztosított feltételeken
+kívüli – feltételek biztosítására, a kisebbségi közfeladatok ellátásához közvetlenül kapcsolódó költségek
+fedezetéül szolgáló támogatás (ilyen költségek különösen a rezsi típusú és a munkabér típusú költségek,
+a költségtérítés, a tiszteletdíj);
+c)
+feladatalapú támogatás: a támogatási évben általános működési támogatásban részesült, és a Támogatónak
+a Kincstárhoz intézett, a feladatalapú támogatás utalására vonatkozó rendelkező levele keltének időpontjában
+működő települési és területi kisebbségi önkormányzatoknak az e rendeletben rögzített feltételrendszer alapján
+nyújtható támogatás;
+d)
+a feladatalapú támogatás alapjául szolgáló időszak: a költségvetési év (támogatási év) április 1. napját megelőző
+12 hónap.
+(3) A Nek. tv. 55. § (1) bekezdésben foglaltakra tekintettel a fővárosi, megyei kormányhivatal (a továbbiakban:
+kormányhivatal) a Nek. tv. 30/F. §-ának (2) bekezdése alapján rendelkezésére álló valamennyi települési és területi
+kisebbségi önkormányzati testületi jegyzőkönyvet – annak a kormányhivatalhoz történő beérkezését követő három
+napon belül elektronikus úton vagy papíralapon (zárt ülés esetén kizárólag papíralapú határozat-kivonatot) –
+megküldi a Wekerle Sándor Alapkezelőnek (a továbbiakban: Alapkezelő) és a kisebbségpolitikáért felelős állami szerv
+vezetőjének (a továbbiakban: Támogató).
+(4) A települési és a területi kisebbségi önkormányzatok számára a mindenkori költségvetési törvényben megállapított
+– a települési és a területi kisebbségi önkormányzatok általános működési és feladatalapú támogatására együttesen
+fordítható – feladatarányos támogatás felosztási aránya: egyharmad rész általános működési támogatás, kétharmad
+rész feladatalapú támogatás. Az egy területi kisebbségi önkormányzatra jutó feladatarányos támogatás összege
+– kizárólag az együttes támogatás felosztásának számításánál – az egy települési kisebbségi önkormányzatra jutó
+feladatarányos támogatás kétszerese.
+(5) Ha a települési és a területi kisebbségi önkormányzat év közben megszűnik, a megszűnését követő hónap 1-jétől nem
+illeti meg feladatarányos támogatás időarányos része. Évközi megszűnésnek minősül a területi kisebbségi
+önkormányzati időközi választás eredménytelensége, továbbá, ha a települési, területi kisebbségi önkormányzati
+választások eredményeképpen nem kerül sor új képviselő-testület megalakulására.
+(6) A települési és a területi kisebbségi önkormányzat gazdálkodásának végrehajtó szerve – területi kisebbségi
+önkormányzat esetén az időközi választás eredménytelenségét követően – a kisebbségi önkormányzatot meg nem
+illető időarányos támogatási előirányzatról való lemondásról a képviselő-testület megszűnését követő három napon
+belül értesíti a Támogatót és a Magyar Államkincstárat (a továbbiakban: Kincstár), egyidejűleg intézkedik az ennek
+megfelelő összegnek a Kincstár részére történő visszafizetéséről.
+3. Az általános működési támogatás
+3. §
+(1) Általános működési támogatásra a támogatási évben január 10-éig a kormányhivatal által a Támogatónak és
+az Alapkezelőnek megküldött értesítésben szereplő, és a Támogatónak a Kincstárhoz intézett támogatás utalására
+vonatkozó rendelkező levele keltének időpontjában működő települési és területi kisebbségi önkormányzat jogosult.
+(2) Az általános működési támogatás egy települési és egy területi kisebbségi önkormányzatra jutó éves összegét
+(2013. évtől éves átlagösszegét) a Támogató közleményként minden év január 31-éig közzéteszi a Magyar Közlönyben.
+(3) Az éves általános működési támogatás Kincstár részére történő átutalásáról a Támogató január 31-éig intézkedik,
+a támogatásban részesülő települési kisebbségi önkormányzatok jegyzékének egyidejű megküldése mellett.
+A támogatás egy összegben történő folyósítása iránt a Kincstár tizenöt napon belül intézkedik.
+
+(4) A települési és területi kisebbségi önkormányzati választás évében az újonnan megalakult kisebbségi önkormányzat
+részére a képviselő-testület megalakulásáról szóló értesítés alapján, az értesítésnek a Támogatóhoz történő
+beérkezésétől számított harminc napon belül, egy összegben kerül sor az e rendelet szerinti időarányos általános
+működési támogatás Kincstár által történő folyósítására, a Támogató által – a képviselő-testület megalakulásáról szóló
+értesítés beérkezésétől számított 15 napon belül – megtett intézkedés alapján.
+(5) 2013. évtől települési kisebbségi önkormányzat esetében az általános működési támogatás mértéke a legutolsó
+népszámlálás – az adott településen az adott nemzeti és etnikai kisebbséghez tartozásra vonatkozó – adatainak
+figyelembevételével kerül megállapításra. Eszerint a települési kisebbségi önkormányzat részére megállapítható
+általános működési támogatás az egy települési kisebbségi önkormányzatra eső átlagtámogatás összegének
+a)
+3%-a, ha a nemzetiséghez tartozók száma a településen négy főnél kevesebb,
+b)
+50%-a, ha a nemzetiséghez tartozók száma a településen legalább négy, illetve legfeljebb harminc,
+c)
+100%-a, ha a nemzetiséghez tartozók száma a településen legalább harmincegy, illetve legfeljebb ötven,
+d)
+200%-a, ha a nemzetiséghez tartozók száma a településen meghaladja az ötvenet.
+(6) 2013. évtől területi kisebbségi önkormányzat esetében az általános működési támogatás mértéke a megyében
+(fővárosban) a támogatási év január 1-jén működő települési (fővárosi kerületi) kisebbségi önkormányzatok számának
+figyelembevételével kerül megállapításra. Eszerint a területi kisebbségi önkormányzat részére megállapítható
+általános működési támogatás az egy települési kisebbségi önkormányzatra eső átlagtámogatás összegének
+a)
+kétszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) kisebbségi önkormányzatok száma
+legalább tíz, illetve legfeljebb húsz,
+b)
+négyszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) kisebbségi önkormányzatok
+száma meghaladja a húszat.
+4. A feladatalapú támogatás
+4. §
+(1) A feladatalapú támogatás a kisebbségi közügyeknek a települési és a területi kisebbségi önkormányzatok által történő
+ellátását szolgálja. Feladatalapú támogatás az Alapkezelőhöz a támogatási év április 15. napjáig benyújtott
+igénybejelentés alapján állapítható meg, az e rendelet szerinti feltételek teljesülése esetén. A képviselő-testület elnöke
+által aláírt, a kisebbségi önkormányzat bélyegző lenyomatával ellátott igénybejelentés kötelező melléklete
+a képviselő-testület – a feladatalapú támogatás igényléséről hozott – döntéséről szóló hiteles határozat kivonata.
+(2) A feladatalapú támogatás megállapítására igénybejelentés, továbbá a feladatalapú támogatás alapjául szolgáló
+időszakban keletkezett legalább négy testületi ülés, a közmeghallgatás jegyzőkönyveinek az e rendelet 1. számú
+mellékletét képező szempontrendszer szerinti feldolgozása alapján kerülhet sor. A testületi ülések és
+a közmeghallgatás jegyzőkönyveinek az Alapkezelőhöz és a Támogatóhoz történő beérkezésének rendjét a 2. §
+(3) bekezdés határozza meg, a szükséges számú jegyzőkönyv beérkezésének határideje a támogatási év április
+15. napja.
+(3) A támogatási évben megállapított 1 pontszám forintértékét a rendelkezésre álló költségvetési keret és az érintett
+kisebbségi önkormányzatok részére meghatározott összes pontszám hányada adja. A települési, területi kisebbségi
+önkormányzat éves feladatalapú támogatása az egységnyi összeg és a megállapított pontszám szorzata.
+(4) A Támogató a támogatási döntéséről értesíti az Alapkezelőt, a támogatásban részesülő települési és területi
+kisebbségi önkormányzatok jegyzékének egyidejű megküldésével. Az Alapkezelő intézkedik a Kincstárnál
+a támogatás egy összegben, augusztus 15-ig történő utalása iránt a támogatásban részesülő települési és területi
+kisebbségi önkormányzatok jegyzékének és a megállapított támogatási összegek egyidejű megküldése mellett.
+A támogatás folyósításáról a Kincstár tizenöt napon belül intézkedik.
+5. A feladatalapú támogatás megállapítására vonatkozó eljárási szabályok
+5. §
+(1) A Támogató a feladatalapú támogatásról – a 4. § (1)–(2) bekezdésben meghatározott dokumentumok alapján,
+az Alapkezelő szervezeti és működési szabályzata és ügyrendje, valamint a Támogató egyetértésével megállapított
+részletes eljárási rendje szerint lefolytatott döntés-előkészítést követően – dönt.
+(2) Az Alapkezelő a támogatási döntést előkészítő eljárása során megvizsgálja, hogy a kisebbségi önkormányzat 4. §
+(1) bekezdés szerinti igénybejelentése, és a (2) bekezdés szerinti jegyzőkönyvei megküldésre kerültek-e, illetve
+a megküldött dokumentumok alapján további adatok közlése, dokumentumok (előterjesztések) csatolása
+szükséges-e, vizsgálja továbbá, hogy az e rendelet által meghatározott feltételeknek megfelel-e a kisebbségi
+
+önkormányzat. A hiányzó adatok közlése, a dokumentumok csatolása érdekében az érintett kisebbségi önkormányzat
+felé nyolcnapos határidő tűzésével egyszeri hiánypótlási felhívás kibocsátására, szükség szerint a kormányhivatallal
+történő egyeztetésre kerül sor.
+(3) A hiánypótlásról szóló felhívásban az Alapkezelő felhívja a figyelmet arra, hogy a határidő jogvesztő, amennyiben
+a kisebbségi önkormányzat a hiánypótlási felhívásban foglaltaknak határidőben nem tesz eleget, a támogatási évben
+nem részesülhet feladatarányos támogatásban.
+6. §
+(1) A feladatalapú támogatásokra vonatkozó döntési javaslatot kisebbségi önkormányzati szintenként az Alapkezelő
+készíti elő, az előkészítésben a Támogató hatáskörrel rendelkező szervezeti egysége szakmai segítséget nyújt az 5. §
+(1) bekezdés szerinti eljárási rendben meghatározottak szerint. Az Alapkezelő – indokolással ellátott, az elutasító
+döntési javaslatokra is kiterjedő – tételes döntési javaslatát kisebbségi önkormányzatonként a támogatási év július 1.
+napjáig döntéshozatal céljából megküldi a Támogató részére.
+(2) A döntési javaslat a támogatás mértékét – kisebbségi önkormányzati szintenként – a jelen rendelet 1. számú
+mellékletében szereplő szempontrendszer alapján kisebbségi önkormányzatokra lebontva, összegszerűen
+tartalmazza.
+(3) A Támogató által történő döntéshozatalra minden év július 31. napjáig kerül sor, ennek eredménye a döntéshozatalt
+követő 3 napon belül a Támogató honlapján közzétételre kerül.
+7. §
+(1) A jogosulatlanul igénybe vett támogatási összeg után a települési, illetve területi kisebbségi önkormányzatot
+visszafizetési és kamatfizetési kötelezettség terheli, az államháztartásról szóló 1992. évi XXXVIII. törvény
+(a továbbiakban: Áht.) 64/B. § (1)–(2) bekezdés szerinti rendben.
+(2) Az e fejezet szerinti támogatással kapcsolatos elszámolás, ellenőrzés rendjére az Áht.-nak a helyi önkormányzatok
+elszámolási és ellenőrzési rendjére vonatkozó rendelkezései alkalmazandóak.
+(3) Az e fejezetben nem szabályozott kérdésekben az államháztartásból származó támogatások igénylésére,
+felhasználására, határidő számítására vonatkozó rendelkezések megfelelően alkalmazandóak.
+(4) A települési és területi kisebbségi önkormányzat által a feladatarányos támogatás tárgyévében fel nem használt
+(kötelezettségvállalással nem terhelt) maradványa a következő év június 30-áig kötelezettségvállalással terhelhető.
+III. FEJEZET
+6. Az országos kisebbségi önkormányzatok, intézményeik, és a kisebbségi sajtó működési támogatása
+8. §
+(1) E fejezet hatálya – a 11. § kivételével – az országos kisebbségi önkormányzatok, intézményeik és a kisebbségi sajtó
+– a központi költségvetés fejezeti kezelésű előirányzatából történő, a költségvetési törvényben meghatározott
+összegű – működési támogatására (a továbbiakban: támogatás) terjed ki.
+(2) E fejezet alkalmazásában
+a)
+kisebbségi önkormányzati intézmény: az országos kisebbségi önkormányzat által költségvetési szervként vagy
+nonprofit gazdasági társaságként alapított, vagy más szervezettől átvett, vagy más szervezettel közösen
+működtetett, nyilvántartásba vett szervezet;
+b)
+kisebbségi sajtó: az a kisebbségi időszaki lap, amelyet az országos kisebbségi önkormányzat alapított, vagy – nem
+országos kisebbségi önkormányzati alapító esetében – amelynek alapítójával és kiadójával az országos kisebbségi
+önkormányzat a lap működésének támogatására megállapodást kötött, illetve az az elektronikus médium,
+amelyet az országos kisebbségi önkormányzat alapított, vagy – nem országos kisebbségi önkormányzati alapító
+esetében – amelynek alapítójával és működtetőjével az országos kisebbségi önkormányzat a médium
+működésének támogatására megállapodást kötött.
+9. §
+(1) A támogatás negyedévenkénti egyenlő részletekben történő folyósítása iránt a Támogató a költségvetési törvény
+hatálybalépését követően, január 15. napjáig, ezt követően minden negyedév első hónap 15. napjáig intézkedik
+a Kincstárnál. A Kincstár a rendelkezést követő 5 napon belül intézkedik a támogatás folyósítása iránt.
+(2) Az (1) bekezdés szerinti támogatás célnak megfelelő felhasználásának elszámolása és ellenőrzése, továbbá
+a jogosulatlanul igénybe vett támogatás visszakövetelése során az e rendeletben foglaltak, továbbá az államháztartás
+működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) fejezeti kezelésű előirányzatok
+elszámolására, ellenőrzésére vonatkozó szabályai szerint kell eljárni.
+
+10. § (1) Az országos kisebbségi önkormányzat az országos kisebbségi önkormányzat alakuló ülését követő 30 napon belül
+benyújtja a Támogatónak 1–1 eredeti vagy hiteles másolati példányban
+a) az országos kisebbségi önkormányzat közgyűlése alakuló ülésének jegyzőkönyvét,
+b) az országos kisebbségi önkormányzat törzskönyvi nyilvántartásba vételéről szóló határozatot, amennyiben
+a törzskönyvi nyilvántartásba vételre sor került,
+c) az országos kisebbségi önkormányzat elnökének közjegyző által hitelesített aláírási címpéldányát,
+d) a támogatni kívánt, az országos kisebbségi önkormányzat fenntartásában lévő kisebbségi önkormányzati
+intézmények és kisebbségi sajtó jegyzékét (a szervezet és szervezetenkénti támogatási összeg megjelölésével) és
+a 8. § (2) bekezdés b) pontja szerinti megállapodást (megállapodásokat),
+e) a támogatásban részesülő kisebbségi sajtó működtetőjének alapító okiratát (alapszabályát), szervezeti és
+működési szabályzatát, valamint a törzskönyvi (cégbírósági, hatósági) nyilvántartásba vételről szóló jogerős
+határozatot (végzést),
+f) az országos kisebbségi önkormányzat valamennyi bankszámlájának vezetéséről szóló, a bankszámlákat vezető
+hitelintézet(ek) által kiállított eredeti igazolást,
+g) az országos kisebbségi önkormányzat felhatalmazását a Kincstár részére arra vonatkozóan, hogy jogosulatlanul
+igénybe vett támogatás esetén, a Támogató erről szóló értesítése alapján, az f) pont szerinti bankszámlákat
+azonnali beszedés megbízás alapján megterhelje, a Kincstár javára,
+h) az országos kisebbségi önkormányzat nyilatkozatát arra vonatkozóan, hogy a közölt adatokban bekövetkező
+változást annak bekövetkeztét követő három napon belül hiteles módon igazolja és megküldi a Támogatónak,
+i) az országos kisebbségi önkormányzat nyilatkozatát annak tudomásulvételéről, hogy a Kincstár a köztartozások
+figyelemmel kísérése érdekében az e fejezet rendelkezései alapján bejelentett költségvetésből nyújtott
+támogatások kedvezményezettjeinek az Áht. 18/C. §-ának (14) bekezdésében meghatározott adatait
+elektronikus úton megküldi az Áht. 18/C. §-ának (13) bekezdése szerinti adóhatóságok részére.
+(2) A támogatásról elkülönített számviteli nyilvántartást vezet az országos kisebbségi önkormányzat, az érintett
+intézmény, az időszaki lap kiadója, illetve az elektronikus médium működtetője.
+(3) Az országos kisebbségi önkormányzat a támogatás felhasználásáról a zárszámadás elfogadását követő 30 napon belül
+– az Ámr. és a Támogató által kiadott, a támogatások elszámolására vonatkozó szabályozás szerinti szakmai és
+pénzügyi beszámoló benyújtásával – elszámol a Támogatónak.
+(4) Az elszámolás és a támogatás felhasználásának ellenőrzése során országos kisebbségi önkormányzat az ellenőrzés
+tűrésére, az Áht. és az Ámr. által előírt nyilatkozatok megtételére, illetőleg adatok szolgáltatására köteles.
+11. § (1) A központi költségvetésben jóváhagyott kisebbségpolitikai fejezeti kezelésű előirányzatból pályázati úton (nyílt vagy
+meghívásos pályázattal) vagy kérelemre nyújtható támogatás, a nemzeti és etnikai kisebbségek önazonosságának
+megőrzését, anyanyelvük, hagyományaik, szellemi és tárgyi emlékeik ápolását szolgáló célokra.
+(2) Az (1) bekezdés szerinti – a Támogató által meghatározott pályázati prioritások alapján az Alapkezelő által közzétett
+pályázati felhívásra benyújtott – pályázatokról a Kisebbségi Támogatási Bizottság (a továbbiakban: Bizottság) javaslata
+alapján Támogató dönt.
+(3) A kilencfős Bizottság tagjai egyenlő arányban az Országgyűlés Emberi jogi, kisebbségi, civil- és vallásügyi bizottsága,
+az országos kisebbségi önkormányzatok és az Alapkezelő által delegált személyek. A Bizottság működtetésével
+kapcsolatos feladatokat az Alapkezelő látja el.
+(4) Alapkezelő a (2)–(3) bekezdés szerinti feladatokon túl ellátja a támogatások elszámoltatásával kapcsolatos Ámr.
+szerinti feladatokat. Az elszámolás megállapításairól haladéktalanul értesíti Támogatót, a szükséges intézkedések
+megtétele érdekében.
+(5) A támogatási szerződés alapján a támogatás utalása iránti intézkedésre, továbbá a támogatás utalására a 4. §
+(4) bekezdés szerinti rendben, megfelelően kerül sor – az e rendeletben nem szabályozott kérdésekben – az Ámr.-nek
+a fejezeti előirányzatokból nyújtott támogatásokra vonatkozó rendelkezései szerint.
+
+7. Záró rendelkezések
+12. §
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2010. december 31-én lép hatályba.
+(2) Az 1–10. § és a 13. § 2011. január 1-jén lép hatályba.
+13. §
+(1) Hatályát veszti a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások
+feltételrendszeréről és elszámolásának rendjéről szóló 375/2007. (XII. 23.) Korm. rendelet.
+(2) 2011. évben az e rendelet 4. § (1) bekezdése szerinti igénybejelentéssel azonos elbírálás alá esik a kisebbségi
+önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások feltételrendszeréről és
+elszámolásának rendjéről szóló 375/2007. (XII. 23.) Korm. rendelet 3. § (2) bekezdése szerinti formanyomtatványon
+benyújtott igénylés.
+Orbán Viktor s. k.,
+miniszterelnök
+Melléklet a 342/2010. (XII. 28.) Korm. rendelethez
+A feladatalapú támogatás elbírálásának szempontrendszere
+1. A kisebbségi érdekképviselettel összefüggő feladatok
+A kisebbségi önkormányzat működési területén a kisebbségi közösséget megillető jogosultságok érvényesítésével,
+érdekképviselettel, érdekvédelemmel kapcsolatos, a társadalmi különbségek felszámolása, a társadalmi felzárkózás
+érdekében folytatott, az anyanyelv használatával, a helyben működő intézmények tevékenységével összefüggő,
+a kisebbségi közösség sajátos kulturális önazonosságának megerősítését szolgáló döntési, együttdöntési jogok
+gyakorlásával kapcsolatos tevékenység ellátásáról szóló képviselő-testületi döntések:
+1 döntés maximum 5 pont
+Maximális pontszám: 30 pont
+2. A kisebbségek kulturális autonómiájával (kulturális, közművelődési, oktatási feladatok, hagyományápolás,
+közgyűjtemény, média) összefüggő intézményalapítói, intézményfenntartói, támogatói, szervezési feladatok
+ellátása
+2.1. A kisebbségi önkormányzat működési területén (a Nek. tv. szerinti intézményi társulásban résztvevő települési
+kisebbségi önkormányzat esetén a társulás illetékességi területe tekintendő működési területnek) a kisebbségi
+közösség nevelésének, oktatási feltételeinek bővítését, anyanyelvének fejlesztését szolgáló képviselő-testületi
+döntések:
+1 döntés maximum 5 pont
+Maximális pontszám: 30 pont
+2.2. A kisebbségi közösségnek az adott településhez kötődő történelmi múltjával, kulturális örökségének ápolásával
+kapcsolatos feladatok ellátását, saját alapítású vagy fenntartású (esetleg társfenntartásban működő) közművelődési
+intézménnyel, közgyűjteménnyel, médiával kapcsolatos feladatok ellátását, más fenntartó által helyben működtetett
+közművelődési intézménnyel, közgyűjteménnyel, médiával való együttműködést, az érintett kisebbség által
+használt nyelven a kisebbségi önkormányzat működési területén meg valósuló kulturális jellegű programok
+szervezését szolgáló képviselő-testületi döntések:
+1 döntés maximum 5 pont
+Maximális pontszám: 30 pont
+3. A kisebbségi léttel összefüggő egyéb feladatok
+A kisebbségi civil szervezetekkel való együttműködést, a helyi anyanyelvű hitéleti tevékenység támogatását szolgáló
+képviselő-testületi döntések:
+1 döntés maximum 1 pont
+Maximális pontszám: 10 pont
+ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont

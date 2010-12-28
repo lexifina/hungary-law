@@ -1,0 +1,267 @@
+# A Kormány 341/2010. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 199. szám, 2010. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/315d75921970352dfddb9705853b38e7f96bee30/dokumentumok/ebe397506c0dd4c272a1621382228c53b30d370f/letoltes)
+
+---
+
+A Kormány 341/2010. (XII. 28.) Korm. rendelete
+az egyes iparjogvédelmi beadványok elektronikus úton való benyújtására vonatkozó
+részletes szabályokról szóló 147/2007. (VI. 26.) Korm. rendelet,
+valamint a Magyar Szabadalmi Hivatal név- és feladatkörének változásával érintett
+egyéb kormányrendeletek módosításáról
+A Kormány a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 118. § (4) bekezdésében és a védjegyek és a földrajzi
+árujelzők oltalmáról szóló 1997. évi XI. törvény 121. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §
+(1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 18. § tekintetében a szerzői jogról szóló 1999. évi LXXVI. törvény 112. § (4) bekezdésében kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 7–17. §, valamint a 19–27. § tekintetében az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alkotmány 40. § (2) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § Az egyes iparjogvédelmi beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokról szóló
+147/2007. (VI. 26.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A következő beadványok (a továbbiakban együtt: iparjogvédelmi beadvány) elektronikus úton kizárólag
+a Szellemi Tulajdon Nemzeti Hivatala által e célra rendszeresített elektronikus űrlap (a továbbiakban: elektronikus
+űrlap) használatával nyújthatók be:
+a) szabadalmi ügyekben szabadalmi bejelentés, európai szabadalmi bejelentés igénypontjainak közzétételére
+irányuló kérelem, európai szabadalmi bejelentés igénypontjainak magyar nyelvű fordítása, európai szabadalom
+igénypontjainak magyar nyelvű fordítása, illetve európai szabadalom szövegének angol vagy magyar nyelvű
+fordítása, a felsorolt fordítások kijavítására irányuló kérelem, a szabadalom jogosultjának, feltalálójának vagy
+képviselőjének nevében (elnevezésében) vagy lakcímében (székhelyében) bekövetkezett változásoknak a szabadalmi
+lajstromban való feltüntetésére irányuló kérelem, lajstromkivonat igénylésére vonatkozó kérelem, valamint
+iratbetekintésre vonatkozó kérelem,
+b) növényfajta-oltalmi ügyekben az oltalom jogosultjának, nemesítőjének vagy képviselőjének nevében
+(elnevezésében) vagy lakcímében (székhelyében) bekövetkezett változásoknak a növényfajta-oltalmi lajstromban
+való feltüntetésére irányuló kérelem, lajstromkivonat igénylésére vonatkozó kérelem, valamint iratbetekintésre
+vonatkozó kérelem,
+c) használatiminta-oltalmi ügyekben használatiminta-oltalmi bejelentés, a minta jogosultjának, feltalálójának vagy
+képviselőjének nevében (elnevezésében) vagy lakcímében (székhelyében) bekövetkezett változásoknak
+a mintaoltalmi lajstromban való feltüntetésére irányuló kérelem, lajstromkivonat igénylésére vonatkozó kérelem,
+valamint iratbetekintésre vonatkozó kérelem,
+
+d) formatervezésiminta-oltalmi ügyekben formatervezésiminta-oltalmi bejelentés, formatervezési mintaoltalom
+megújítása iránti kérelem, a mintaoltalom jogosultjának, szerzőjének vagy képviselőjének nevében (elnevezésében)
+vagy lakcímében (székhelyében) bekövetkezett változásoknak a mintaoltalmi lajstromban való feltüntetésére irányuló
+kérelem, lajstromkivonat igénylésére vonatkozó kérelem, valamint iratbetekintésre vonatkozó kérelem,
+e) topográfiaoltalmi ügyekben topográfiaoltalmi bejelentés, a topográfiaoltalom jogosultjának, szerzőjének vagy
+képviselőjének nevében (elnevezésében) vagy lakcímében (székhelyében) bekövetkezett változásoknak
+a topográfiaoltalmi lajstromban való feltüntetésére irányuló kérelem, lajstromkivonat igénylésére vonatkozó kérelem,
+valamint iratbetekintésre vonatkozó kérelem,
+f) védjegyügyekben védjegybejelentés, védjegymegújítási kérelem, a védjegy jogosultjának vagy képviselőjének
+nevében (elnevezésében) vagy lakcímében (székhelyében) bekövetkezett változásoknak a védjegylajstromban való
+feltüntetésére irányuló kérelem, gyorsított eljárás vagy különleges gyorsított eljárás kezdeményezésére irányuló
+kérelem, lajstromkivonat igénylésére vonatkozó kérelem, valamint iratbetekintésre vonatkozó kérelem,
+g) nemzeti oltalom alatt álló földrajzi árujelzőkkel kapcsolatos ügyekben lajstromkivonat igénylésére vonatkozó
+kérelem, valamint iratbetekintésre vonatkozó kérelem,
+h) az elektronikus úton, ügyfélkapun keresztül kezdeményezett eljárásokban a járulékos beadványok (így különösen
+a hiánypótlás, a díjfizetés igazolása, a nyilatkozat, a módosítás, az igazolási kérelem, az eljárás folytatása iránti kérelem,
+illetve a határidő-hosszabbítási kérelem), kivéve, ha a beadvány valamely iparjogvédelmi bejelentésről való döntésre
+irányul.”
+2. §
+Az R. 4. §-a helyébe a következő rendelkezés lép:
+„4. § Az ügyfélkapuval vagy cégkapuval rendelkező ügyfél, illetve képviselő az iparjogvédelmi beadványt elektronikus
+úton az ügyfélkapun keresztül történő bejelentkezést követően is benyújthatja a Szellemi Tulajdon Nemzeti
+Hivatalának elektronikus ügyintézési rendszerén keresztül.”
+3. §
+(1) Az R. 1. § (2) és (4)–(5) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti
+Hivatala” szöveg lép.
+(2) Az R. 1. § (3) bekezdésében, valamint 3. §-ában a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon
+Nemzeti Hivatalának” szöveg lép.
+4. §
+Hatályát veszti az R. 6. §-a (1) bekezdésének d) pontjában az „és védjegy-megújítási kérelem” szövegrész.
+5. §
+(1) Hatályát veszti az R. 6. § (2) bekezdése, 7. § (2)–(3) bekezdése és 8. § (2) bekezdése.
+(2) Hatályát veszti az R. 7. § (4) bekezdésében az „azzal, hogy az így csatolt melléklet fájlmérete legfeljebb 3 Mbyte lehet”
+szövegrész.
+6. §
+Az R. melléklete helyébe e rendelet melléklete lép.
+7. §
+A Magyar Népköztársaság és a Portugál Köztársaság Kormányai között létrejött, a származási jelzések,
+eredetmegjelölések és egyéb földrajzi megnevezések oltalmáról szóló Megállapodás kihirdetéséről szóló 49/1986.
+(XI. 12.) MT rendelet 3. § (2) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon
+Nemzeti Hivatalának” szöveg lép.
+8. §
+A sajtótermékek kötelespéldányainak szolgáltatásáról és hasznosításáról szóló 60/1998. (III. 27.) Korm. rendelet 13. §
+(2) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatala” szöveg
+lép.
+9. §
+(1) A Szerzői Jogi Szakértő Testület szervezetéről és működéséről szóló 156/1999. (XI. 3.) Korm. rendelet 2. §
+(1) bekezdésében a „Magyar Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon
+Nemzeti Hivatalának (a továbbiakban: Hivatal)” szöveg lép.
+(2) A Szerzői Jogi Szakértő Testület szervezetéről és működéséről szóló 156/1999. (XI. 3.) Korm. rendelet 2. §
+(4) bekezdésében az „Az MSZH” szövegrész helyébe az „A Hivatal” szöveg lép.
+
+(3) A Szerzői Jogi Szakértő Testület szervezetéről és működéséről szóló 156/1999. (XI. 3.) Korm. rendelet 3. §
+(1) bekezdésében, 3. § (3) bekezdésében, 4. § (1) és (4) bekezdésében, 5. § (1)–(3) bekezdésében és 9. §
+(1) bekezdésében az „az MSZH” szövegrész helyébe az „a Hivatal” szöveg lép.
+(4) A Szerzői Jogi Szakértő Testület szervezetéről és működéséről szóló 156/1999. (XI. 3.) Korm. rendelet 5. §
+(4) bekezdésében az „az MSZH” szövegrészek helyébe az „a Hivatal” szöveg lép.
+10. §
+(1) A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet 2. § (2) bekezdésében a „Magyar
+Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának
+(a továbbiakban: Hivatal)” szöveg lép.
+(2) A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet 2. § (3) és (4) bekezdésében, valamint a 3. §
+(1) bekezdésében az „az MSZH” szövegrész helyébe az „a Hivatal” szöveg lép.
+(3) A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet 4. § (6) bekezdésében az „az MSZH”
+szövegrészek helyébe az „a Hivatal” szöveg lép.
+11. §
+(1) Az Iparjogvédelmi Szakértői Testület szervezetéről és működéséről szóló 270/2002. (XII. 20.) Korm. rendelet 2. §
+(1) bekezdésében a „Magyar Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon
+Nemzeti Hivatalának (a továbbiakban: Hivatal)” szöveg lép.
+(2) Az Iparjogvédelmi Szakértői Testület szervezetéről és működéséről szóló 270/2002. (XII. 20.) Korm. rendelet 2. §
+(4) bekezdésében az „Az MSZH” szövegrész helyébe az „A Hivatal” szöveg lép.
+(3) Az Iparjogvédelmi Szakértői Testület szervezetéről és működéséről szóló 270/2002. (XII. 20.) Korm. rendelet 3. §
+(1) bekezdésében, 4. § (1) és (4) bekezdésében, 5. § (1) és (2) bekezdésében, valamint 9. § (1) bekezdésében az „az
+MSZH” szövegrész helyébe az „a Hivatal” szöveg lép.
+(4) Az Iparjogvédelmi Szakértői Testület szervezetéről és működéséről szóló 270/2002. (XII. 20.) Korm. rendelet 3. §
+(3) bekezdésében, valamint 5. § (3) és (4) bekezdésében az „az MSZH” szövegrészek helyébe az „a Hivatal” szöveg lép.
+12. §
+(1) Az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához szükséges
+szabályokról szóló 26/2004. (II. 26.) Korm. rendelet 2. §-át megelőző alcímében a „Magyar Szabadalmi Hivatal”
+szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+(2) Az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához szükséges
+szabályokról szóló 26/2004. (II. 26.) Korm. rendelet 2. §-ában a „Magyar Szabadalmi Hivatal” szövegrész helyébe
+a „Szellemi Tulajdon Nemzeti Hivatalának (a továbbiakban: Hivatal)” szöveg lép.
+13. §
+(1) Az egyes szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló 371/2004. (XII. 26.) Korm.
+rendelet 7. § (3) bekezdésében a „Magyar Szabadalmi Hivatalt” szövegrész helyébe a „Szellemi Tulajdon Nemzeti
+Hivatalát” szöveg lép.
+(2) Az egyes szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló 371/2004. (XII. 26.) Korm.
+rendelet 7. § (4) és (5) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti
+Hivatala” szöveg lép.
+14. §
+A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól
+ szóló 31/2007. (II. 28.) Korm. rendelet 2. számú melléklet 2. alcímében foglalt táblázat 24. sora helyébe a következő sor
+lép:
+„
+24.
+Szellemi Tulajdon Nemzeti Hivatala
+SZTNH
+ ”
+15. §
+Az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat
+kihirdetéséről szóló 319/2007. (XII. 5.) Korm. rendelet 3. § (3) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész
+helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+16. §
+A Szabadalmi Jogi Szerződés mellékletét képező Végrehajtási Szabályzat kihirdetéséről szóló 320/2007. (XII. 5.) Korm.
+rendelet 3. § (4) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti
+Hivatalának” szöveg lép.
+
+17. §
+(1) A szabadalmi bejelentés államtitokká minősítéséhez szükséges eljárás részletes szabályairól szóló 141/2008. (V. 16.)
+Korm. rendelet 2. §-ában a „Magyar Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi
+Tulajdon Nemzeti Hivatalának (a továbbiakban: Hivatal)” szöveg lép.
+(2) A szabadalmi bejelentés államtitokká minősítéséhez szükséges eljárás részletes szabályairól szóló 141/2008. (V. 16.)
+Korm. rendelet 3. § (1) és (4) bekezdésében az „Az MSZH” szövegrész helyébe az „A Hivatal” szöveg lép.
+(3) A szabadalmi bejelentés államtitokká minősítéséhez szükséges eljárás részletes szabályairól szóló 141/2008. (V. 16.)
+Korm. rendelet 3. § (2) és (3) bekezdésében az „az MSZH” szövegrész helyébe az „a Hivatal” szöveg lép.
+18. §
+(1) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 2. § (4) bekezdésében a „Magyar Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi
+Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal)” szöveg lép.
+(2) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 3. § (1) bekezdés a) pontjában, 4. § (1) bekezdésében, 6. § (1) bekezdésében, 7. § (2) bekezdésében, valamint
+8. § (3) és (4) bekezdésében az „az MSZH” szövegrész helyébe az „a Hivatal” szöveg lép.
+(3) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 4. § (1) bekezdésében, 6. § (2) bekezdésében, valamint 7. § (2) bekezdésében az „Az MSZH” szövegrész
+helyébe az „A Hivatal” szöveg lép.
+(4) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 4. § (4) bekezdésében az „az MSZH” szövegrészek helyébe az „a Hivatal” szöveg lép.
+(5) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 4. § (7) bekezdésében a „310” szövegrész helyébe a „311” szöveg lép.
+(6) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 4. § (7) bekezdésében és 6. § (3) bekezdésében az „az MSZH-nak” szövegrész helyébe az „a Hivatalnak” szöveg
+lép.
+(7) Az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm.
+rendelet 8. § (1) bekezdésében az „Azokról az árva művekről, amelyek tekintetében felhasználási engedélyt adott,
+az MSZH” szövegrész helyébe „Az árva művek felhasználására vonatkozóan kiadott engedélyekről a Hivatal” szöveg
+lép.
+19. §
+(1) A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló
+eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 2. § (2) bekezdésében a „Magyar
+Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatala
+(a továbbiakban: Hivatal)” szöveg lép.
+(2) A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló
+eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 8. § (2) bekezdésében, 9. §
+(2) bekezdésében, valamint 15. § (1) bekezdésében az „az MSZH-nak” szövegrész helyébe az „a Hivatalnak” szöveg lép.
+(3) A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló
+eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 16. § (1) bekezdésében az „az MSZH-t”
+szövegrész helyébe az „a Hivatalt” szöveg lép.
+20. §
+A borászati termékek eredetmegjelöléseinek és földrajzi jelzéseinek közösségi oltalmára irányuló eljárásról, valamint
+ezen termékek ellenőrzéséről szóló 178/2009. (IX. 4.) Korm. rendelet 12. § (2) bekezdésében a „Magyar Szabadalmi
+Hivatalnak (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+21. §
+Az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 2. § 6. pont i) alpontjában a „Magyar
+Szabadalmi Hivatal” szövegrészek helyébe a „Szellemi Tulajdon Nemzeti Hivatala” szöveg lép.
+22. §
+Az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat
+2009. március 25-én, az Európai Szabadalmi Szervezet Igazgatótanácsának CA/D 2/09. számú határozatával
+megállapított módosításának kihirdetéséről szóló 43/2010. (II. 26.) Korm. rendelet 3. § (2) bekezdésében a „Magyar
+Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+
+23. § Az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat
+2009. március 25-én, az Európai Szabadalmi Szervezet Igazgatótanácsának CA/D 3/09. számú határozatával
+megállapított módosításának kihirdetéséről szóló 44/2010. (II. 26.) Korm. rendelet 3. § (2) bekezdésében a „Magyar
+Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+24. § Az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat
+2009. október 27-én, az Európai Szabadalmi Szervezet Igazgatótanácsának CA/D 20/09. számú határozatával
+megállapított módosításának kihirdetéséről szóló 45/2010. (II. 26.) Korm. rendelet 3. § (2) bekezdésében a „Magyar
+Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+25. § Az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat
+2009. október 28-án, az Európai Szabadalmi Szervezet Igazgatótanácsának CA/D 18/09. számú határozatával
+megállapított módosításának kihirdetéséről szóló 46/2010. (II. 26.) Korm. rendelet 3. § (2) bekezdésében a „Magyar
+Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
+26. § (1) Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010.
+(VII. 1.) Korm. rendelet 16. § (1) bekezdése a következő g) ponttal egészül ki:
+[A miniszter]
+„g) a Szellemi Tulajdon Nemzeti Hivatala elnökének javaslatára jóváhagyja a szerzői és szomszédos jogok közös
+kezelését végző egyesületek díjszabásait.”
+(2) Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010.
+(VII. 1.) Korm. rendelet 54. §-a helyébe a következő rendelkezés lép:
+„54. § A miniszter egyéb kormányzati felelőssége körében
+a) véleményezi a szerzői és szomszédos jogok közös kezelését végző egyesületek díjszabásait,
+b) együttműködik a közigazgatási és igazságügyi miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala elnökével
+a szerzői joggal kapcsolatos jogszabályok, valamint nemzetközi szerzői jogi egyezmények előkészítésében,
+c) muzeális intézményeket nyilvántartó hatóságként működik.”
+27. § (1) Hatályát veszti az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához
+szükséges szabályokról szóló 26/2004. (II. 26.) Korm. rendelet 3. § (1)–(3) és (5)–(8) bekezdésében, 4. § (1) és
+(2) bekezdésében, 4/A. § (1), (3) és (4) bekezdésében, 4/B. § (1)–(4) bekezdésében, 5. § (1)–(3) bekezdésében, 6. §
+(1) bekezdésében, 8/A. § (3) bekezdésében, 9. § (1) és (3)–(5) és (8) bekezdésében, valamint 11. § (2) bekezdésében
+a „Magyar Szabadalmi” szövegrész.
+(2) Hatályukat vesztik az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához
+szükséges szabályokról szóló 26/2004. (II. 26.) Korm. rendelet 9. § (2) bekezdésében a „Magyar Szabadalmi”
+szövegrészek.
+(3) Hatályát veszti az egyes miniszteri statútumok módosításáról szóló 177/2009. (IX. 3.) Korm. rendelet.
+(4) Hatályát veszti az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló
+212/2010. (VII. 1.) Korm. rendelet 51. § a) pontjában a „, valamint a szerzői és szomszédos jogokkal” szövegrész.
+28. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2011. január 1-jén lép hatályba.
+(2) Az 1. § és az 5–6. § 2011. március 1-jén lép hatályba.
+29. § Ez a rendelet 2011. március 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+
+Melléklet a 341/2010. (XII. 28.) Korm. rendelethez
+„Melléklet a 147/2007. (VI. 26.) Korm. rendelethez
+1. Képi adatmegjelenítési formátumok
+JPEG (.jpg), PNG (.png)
+2. Képi elemek megjelenítésére is alkalmas adatmegjelenítési formátum
+Portable Document Format (.pdf), legalább 1.4. verzió (ISO 19005–1:2005 PDF/A; ISO 15930–1–6 PDF/X), azzal, hogy
+az e formátumban csatolt fájlnak a felhasznált betűkészleteket beágyazva kell tartalmaznia; a fájl feldolgozhatósága
+(pl. nyomtatása, szövegének kereshetősége vagy másolhatósága) nem korlátozható.
+3. Szövegszerű adatmegjelenítési formátumok
+eXtensible Markup Language (XML)
+Rich Text Format (RTF)
+Open Document Format (ODF)
+Portable Document Format (.pdf) legalább 1.4. (ISO 19005–1:2005 PDF/A; ISO 15930–1–6 PDF/X), azzal, hogy
+az e formátumban csatolt fájlnak a felhasznált betűkészleteket beágyazva kell tartalmaznia; a fájl feldolgozhatósága
+(pl. nyomtatása, szövegének kereshetősége vagy másolhatósága) nem korlátozható.
+Karakterszinten túli jellemzőket nem használó, a 4. pontban meghatározott karakterformátumot alkalmazó állomány
+(egyszerűszöveg-formátum)
+WIPO Standard ST.25 (Standard for the Presentation of Nucleotide and Amino Acid Sequence Listings in Patent
+Applications)
+4. Karakterszintű megjelenítésre vonatkozó formátumok
+ISO/IEC 646:1991 (7 bites karakterkészlet információcsere biztosításához, ASCII)
+ISO 8859–1:1998 (Latin–1, 8 bites grafikus karakterkészlet)
+ISO 8859–2:1999 (Latin–2), a magyar referenciakészletre vonatkozóan az MSZ 7795–3:1992 ASCII és ASCII/PC kód
+szerinti eltéréssel is
+ISO 10646:2003 (Unicode v.4.0)”
