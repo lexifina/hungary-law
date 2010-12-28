@@ -2,7 +2,7 @@
 
 ## 1.1. A tanfolyam megtartására alkalmas helyiség,
 
-## – amely megfelel az országos településrendezési és építési követelményeknek[^29],
+## – amely megfelel az országos településrendezési és építési követelményeknek[^35],
 
 ## – amelyben valamennyi hallgató és közreműködő számára megfelelő ülőhely és jegyzetelésre alkalmas bútorzat van.
 
@@ -20,4 +20,4 @@
 
 3. számú melléklet a 32/2003. (V. 20.) GKM rendelethez
 
-[^29]: Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet.
+[^35]: Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet.

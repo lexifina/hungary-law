@@ -20,7 +20,7 @@
 
 ## 9. Gyakorlati ismeretek
 
-## 10. Bányászati ismeretek[^28]
+## 10. Bányászati ismeretek[^34]
 
 ## B) Saját géperejű vasúti munkagép-vezetői kategória
 
@@ -146,4 +146,4 @@
 
 2. számú melléklet a 32/2003. (V. 20.) GKM rendelethez
 
-[^28]: Csak bányavasúti járművezetői kategóriánál.
+[^34]: Csak bányavasúti járművezetői kategóriánál.

@@ -242,11 +242,11 @@
 
 ## 4. Mozdonyszolgálati utasítások
 
-## 5. Forgalmi ismeretek[^30]
+## 5. Forgalmi ismeretek[^36]
 
-## 6.[^31] Vezetési gyakorlat
+## 6.[^37] Vezetési gyakorlat
 
 4. számú melléklet a 32/2003. (V. 20.) GKM rendelethez
 
-[^30]: A Magyar Közlöny 2003. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^31]: A Magyar Közlöny 2003. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^36]: A Magyar Közlöny 2003. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^37]: A Magyar Közlöny 2003. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
