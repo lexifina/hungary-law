@@ -1,3 +1,0 @@
-## 3. § Az R. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A szolgáltató az igénylést havonta két alkalommal, a hónap 5. és 20. napjáig, de legkésőbb 2018. január 5-éig küldheti meg elektronikusan és – a közreműködőnél rendelkezésre álló aláírásbejelentőn szereplő személy(ek) aláírásával ellátott – papír alapon a közreműködőnek. Az igénylésben azon számlákon jóváírt támogatás tüntethető fel, amelyeken a feltüntetett fogyasztási időszak zárónapja korábbi, mint az igénylés megküldésének időpontja. Ugyanazon számlára és támogatási összegre igénylés csak egyszer nyújtható be.”
