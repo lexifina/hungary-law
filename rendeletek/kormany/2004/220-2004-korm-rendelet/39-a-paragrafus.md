@@ -1,8 +1,8 @@
-## FELSZÍNI VIZEK KÁRMENTESÍTÉSE[^102]
+## FELSZÍNI VIZEK KÁRMENTESÍTÉSE[^106]
 
-## A kivizsgálás[^103]
+## A kivizsgálás[^107]
 
-39/A. §[^104] (1)[^105] A felügyelőség a felszíni víz jelentősen kedvezőtlen állapotának valószínűségéről birtokába került adat, információ alapján vizsgálatot folytat le. A kivizsgálást a felügyelőség a kockázat mérlegelése alapján legfeljebb az adat, információ beérkezésétől számított három hónapon belül hajtja végre.
+39/A. §[^108] (1)[^109] A felügyelőség a felszíni víz jelentősen kedvezőtlen állapotának valószínűségéről birtokába került adat, információ alapján vizsgálatot folytat le. A kivizsgálást a felügyelőség a kockázat mérlegelése alapján legfeljebb az adat, információ beérkezésétől számított három hónapon belül hajtja végre.
 
 (2) A felszíni víz állapota valószínűsíthetően jelentős és kedvezőtlen az alábbi feltételek bármelyikének megvalósulása esetén:
 
@@ -12,7 +12,7 @@ b) a rendeltetésszerű vízhasználat korlátozása, akadályozása;
 
 c) környezet-egészségügyi kockázat fennállása;
 
-d)[^106] a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló miniszteri rendeletben meghatározott környezetminőségi határérték túllépése;
+d)[^110] a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló miniszteri rendeletben meghatározott környezetminőségi határérték túllépése;
 
 e) e rendelet 1. számú mellékletének C) pontjában meghatározott anyagok, továbbá D) pontjában meghatározott anyagok, meghatározott technológiából történő felszíni vízbe kerülése;
 
@@ -20,7 +20,7 @@ f) hatósági határozatban megállapított alapállapot kedvezőtlen megváltoz
 
 (3) A kivizsgálás alapján a felügyelőség dönt:
 
-a)[^107] a környezetkárosodás megelőzésének és elhárításának rendjéről szóló a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti kárelhárítás megindításáról,
+a)[^111] a környezetkárosodás megelőzésének és elhárításának rendjéről szóló a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti kárelhárítás megindításáról,
 
 b) a kármentesítés bármely szakaszának, vagy a szakaszok 39/B. § (4) bekezdés szerinti együttes elrendeléséről,
 
@@ -28,12 +28,12 @@ c) a Kvt. 73. § alapján a környezetvédelmi felülvizsgálatról,
 
 d) a környezetkárosodás bekövetkezése valószínűségének hiányában az eljárás megszüntetéséről.
 
-(4)[^108] A felügyelőség a kivizsgálás során, valamint a kármentesítés bármely szakaszában azonnali beavatkozást igénylő környezetkárosodás esetén a szükséges környezetvédelmi megelőző és kárelhárítással összefüggő, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti intézkedésről rendelkezhet.
+(4)[^112] A felügyelőség a kivizsgálás során, valamint a kármentesítés bármely szakaszában azonnali beavatkozást igénylő környezetkárosodás esetén a szükséges környezetvédelmi megelőző és kárelhárítással összefüggő, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti intézkedésről rendelkezhet.
 
-[^102]: A 39/A. §-t megelőző címet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^103]: A 39/A. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^104]: A 39/A. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^105]: A 39/A. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^106]: A 39/A. § (2) bekezdés d) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^107]: A 39/A. § (3) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^108]: A 39/A. § (4) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^106]: A 39/A. §-t megelőző címet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^107]: A 39/A. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^108]: A 39/A. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^109]: A 39/A. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^110]: A 39/A. § (2) bekezdés d) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^111]: A 39/A. § (3) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^112]: A 39/A. § (4) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.

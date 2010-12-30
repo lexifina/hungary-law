@@ -1,6 +1,6 @@
 ## Rendkívüli szennyezés
 
-36. § (1)[^92] Aki rendkívüli szennyezést okoz, rendkívüli vízszennyezési vagy csatornabírságot köteles fizetni.
+36. § (1)[^93] Aki rendkívüli szennyezést okoz, rendkívüli vízszennyezési vagy csatornabírságot köteles fizetni.
 
 (2) A rendkívüli vízszennyezési vagy csatornabírságot a szennyezés időszakára minden szennyező anyagra külön-külön, a szennyező anyagok teljes mennyiségére kell meghatározni.
 
@@ -18,4 +18,4 @@ d) ötszöröse, ha a kibocsátó a rendkívüli szennyezésre vonatkozó bejele
 
 (5) A felügyelőségnek előre bejelentett tervszerű karbantartási műveletből származó vízszennyezés miatt a határérték feletti kibocsátás után kell a vízszennyezési bírságot kiszabni.
 
-[^92]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
+[^93]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
