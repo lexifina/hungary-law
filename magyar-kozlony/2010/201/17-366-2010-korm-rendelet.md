@@ -1,0 +1,443 @@
+# A Kormány 366/2010. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 201. szám, 2010. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/98f0562b29fc87f068413a2a44206432ef7e3904/dokumentumok/86c159a654f4e11302131d8ff05380563e723552/letoltes)
+
+---
+
+A Kormány 366/2010. (XII. 30.) Korm. rendelete
+a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló
+217/1997. (XII. 1.) Korm. rendelet és a térítési díj ellenében igénybe vehető egyes egészségügyi
+szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (5) bekezdésében,
+a 2. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés c) pontjában,
+a 3. §, valamint a 15. § a) pontja tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §
+(2) bekezdés g) pontjában,
+a 4. §, valamint a 15. § c)–d) és h) pontja tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §
+(2) bekezdés u) pontjában,
+az 5. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés k) pontjában,
+a 6. §, valamint a 15. § e)–g) pontja tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §
+(2) bekezdés r) pontjában,
+a 7. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában,
+a 8. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés y) pontjában,
+a 9–13. §, valamint a 15. § i) pontja tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §
+(2) bekezdés k) pontjában,
+a 15. § j) pontja tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés
+m) pontjában,
+a 16–18. § és az 1–3. melléklet tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §
+(2) bekezdés o) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+(1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm.
+rendelet (a továbbiakban: Vhr.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendelet hatálya kiterjed a biztosítottakra, az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP),
+a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szerveire
+(a továbbiakban: egészségbiztosítási szakigazgatási szerv), továbbá a kötelező egészségbiztosítás keretében
+szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve
+kiszolgáltató, gyógyászati ellátást nyújtó szolgáltatókra, valamint a biztosított foglalkoztatójára, és annak
+kifizetőhelyére.”
+(2) A Vhr. 1. § (4)–(8) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) A Kormány egészségbiztosítóként – ha kormányrendelet ettől eltérően nem rendelkezik – az OEP-et jelöli ki az
+Ebtv. 5/B. § n) pontjában, 9. §-ában, 20. § (1) bekezdésében, 20/A. § (3) és (8) bekezdésében, 21. § (1) bekezdés a) pont
+aa) alpontjában, b) és e) pontjában, 26. § (1) és (2) bekezdésében, 27. § (10) bekezdésében, 30. §-ában, 30/A. §-ában,
+31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4)–(5) és (7) bekezdésében, 36. § (1)–(2) és (6)–(9) bekezdésében, 38. §
+(1)–(2) és (4)–(6) bekezdésében, 38/A. §-ában, 38/B. §-ában, 68/A. § (4) bekezdésében, 70. § (1) bekezdés
+b)–c) pontjában és (4)–(5) bekezdésében, 79/A. §-ában, 80. § (1) bekezdésében, 82. § (2) bekezdésében foglalt
+feladatok ellátására.
+(5) A Kormány egészségbiztosítóként az egészségbiztosítási szakigazgatási szervet jelöli ki az Ebtv. 27. §
+(5)–(7) bekezdésében, 62. § (2) bekezdés c) pontjában, 69. §-ában, 70. § (1) bekezdés a) pontjában és (3) bekezdésében,
+72. § (1) bekezdésében, 81. § (1) bekezdésében foglalt feladatok ellátására.
+(6) A Kormány egészségbiztosítóként az OEP-et és az egészségbiztosítási szakigazgatási szervet együtt jelöli ki az
+Ebtv. 5. §-ában, 27. § (1)–(2) és (11) bekezdésében, 50. §-ában, 72. § (2) bekezdésében, 79. § (1) és (3) bekezdésében,
+80. § (2) bekezdésében foglalt feladatok ellátására.
+(7) A Kormány vasutas egészségbiztosítási szervként a fővárosi kormányhivatal egészségbiztosítási szakigazgatási
+szervét jelöli ki az Ebtv. 65. § (2) bekezdésében, valamint 70. § (3) és (4) bekezdésében foglalt feladatok ellátására.
+(8) A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében és a 49/A. §-ban, valamint az
+Ebtv. 81. § (1) bekezdésében foglalt esetekben a fővárosi és megyei kormányhivatalok mint kifizetőhelyek
+tekintetében az OEP jár el.”
+
+2. § A Vhr. 7/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök
+külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.”
+3. § (1) A Vhr. 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az utazási utalvány kiállítására és a szolgáltatás igénybevételének az utazási utalványon történő igazolására
+kötelezett
+a) a 2. § (2)–(3) bekezdése, továbbá a 3. § (1) és (3) bekezdése szerint beutalásra jogosult orvos a szakellátásra, illetve
+az orvosszakértői vizsgálatra történő beutaláskor,
+b) az egészségügyi szakellátás orvosa – ideértve a gondozóintézet szakorvosát is – a vizsgálat, a kezelés,
+a fekvőbeteg-gyógyintézetből való elbocsátás – ideértve az adaptációs szabadságra való elbocsátás és visszarendelés
+esetét is – és az ismételt kezelés elrendelésekor, továbbá az egészségügyi szakellátás illetékes főorvosa által kijelölt
+személy, ha a biztosított kezelését nem orvos végzi,
+c) az orvosi rehabilitáció keretében szanatóriumi ellátás rendelésére jogosult orvos a beutaláskor, elbocsátáskor
+pedig a szanatórium által kijelölt orvos,
+d) gyógyászati ellátás igénybevétele esetében az annak rendelésére jogosult orvos az elrendelésekor – megjelölve az
+igénybevétel számát vagy időtartamát is –, az ellátás igénybevételét követően pedig a gyógyászati ellátást nyújtó
+egészségügyi szolgáltató – ideértve a gyógyászati ellátást nyújtó közfürdőt, gyógyfürdőt is – által kijelölt személy,
+e) egyedileg, méretre készített gyógyászati segédeszközöknél a rendelő orvos, valamint a szükséges próbára való
+berendeléskor és kiszolgáltatáskor, továbbá a gyógyászati segédeszközök javításakor személyes megjelenés esetén
+a gyógyászati segédeszközt gyártó (forgalmazó) által kijelölt személy,
+f) a Szakértői Intézet illetékes szervének vezetője által kijelölt személy a vizsgálat elrendelésekor, illetve a vizsgálatot
+követően,
+g) a Szakértői Rehabilitációs Bizottság vezetője a vizsgálaton történő megjelenéskor,
+h) az Ebtv. 22. § (5) bekezdésében említett esetben – a szűrővizsgálat igénybevételekor – a szűrővizsgálatot végző
+egészségügyi szolgáltató.”
+(2) A Vhr. 11. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az utazási költség megtérítésére való jogosultság abban az esetben állapítható meg, ha a (3) bekezdésben
+megjelölt orvos az utazás szükségességét igazolja. Ha az orvos javaslata alapján a biztosítottnak kísérőre van szüksége,
+akkor azt a biztosított részére kiállított utalványon kell jelölni. A jogosultság igazolása az erre a célra rendszeresített
+szigorú számadású „Utazási utalvány” elnevezésű nyomtatványon történik, amelyen legfeljebb négy megjelenés
+igazolható. Utólagos kiállítás esetén a kérelmet el kell utasítani.”
+4. § A Vhr. 11/D. § (2) bekezdés c) pontja a következő cd) alponttal egészül ki:
+[A kérelemnek tartalmaznia kell a biztosított nevét, címét, TAJ számát, valamint – a b) pont bb) alpontját kivéve –
+a gyógyszer kiadására a beteg által megjelölt gyógyszertárnak, egyedi gyártású gyógyászati segédeszköz esetén a beteg
+által megjelölt gyógyászati segédeszköz gyártójának vagy forgalmazójának a megnevezését, és – a (3) bekezdés
+a) pontjában foglalt eset kivételével – a kérelemhez mellékelni kell:
+gyógyászati segédeszközre vonatkozó kérelem esetén az a) pontban foglaltakon kívül:]
+„cd) az Ebtv. 26. § (1) bekezdés d) pontja esetében a biztosított nyilatkozatát, melyben megnevezi azt a korábban
+méltányosságból támogatott gyógyászati segédeszközt, amely javítási díjához kéri a támogatást, és megjelöli, hogy
+a javítandó eszköz tekintetében mikor részesült méltányosságból támogatásban;”
+5. § A Vhr. 12/A. § (14) bekezdése helyébe a következő rendelkezés lép:
+„(14) A TAJ-jal nem rendelkező, belföldinek nem minősülő, egyszerűsített foglalkoztatás keretében alkalmazott
+természetes személy részére – az állami foglalkoztatási szerv megkeresésére – az egészségbiztosítási szerv TAJ-t képez,
+és erről az Igazolás kiadásával értesíti az érintett személyt. Az OEP az Igazoláson a „kizárólag baleseti egészségügyi
+szolgáltatásra jogosult” szöveggel a jogosultságot korlátozza.”
+6. § A Vhr. 12/B. § (6) bekezdése a következő mondattal egészül ki:
+„Ismeretlen, az (1) bekezdés szerinti ellenőrzéshez szükséges adatokat igazolni nem tudó személynél – fekvőbeteg
+szakellátás esetén – legkésőbb az intézményből történő elbocsátás napján kell teljesíteni a jogviszony ellenőrzési
+kötelezettséget.”
+
+7. § (1) A Vhr. 20/A. § (1) bekezdése a következő mondattal egészül ki:
+„Az OEP a foglalkozás-egészségügyi alapszolgáltatást nyújtó egészségügyi szolgáltatóval a biztosítottak foglalkozási
+megbetegedése és üzemi balesete miatt szükségessé vált járóbeteg-szakellátásokra történő beutalásra köti meg
+a szerződést.”
+(2) A Vhr. 20/A. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A polgári nemzetbiztonsági szolgálatok szerződésére – figyelemmel a nemzetbiztonsági szolgálatokról szóló
+1995. évi CXXV. törvény 28. § (5) bekezdésére – a (3) bekezdés a) pont ac) alpontját nem kell alkalmazni, valamint
+a (4) bekezdés a) pontja szerinti melléklet alatt az egészségügyi tevékenység végzésére jogosító működési engedély
+számát kell érteni.”
+8. § (1) A Vhr. 25/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az elszámolási nyilatkozatot
+a) kúraszerű ellátás esetén a teljesítmény-elszámolás szempontjából egy ellátási esetnek minősülő ellátás
+befejezésekor,
+b) injekciós kúra, infúziós kúra, kötözés, gyógytorna kezelés, fizikotherápiás kezelés esetén a teljesítményelszámolás
+szempontjából egy ellátási esetnek minősülő ellátás befejezésekor
+köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.”
+(2) A Vhr. 25/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Dialízis kezelés esetén az elszámolási nyilatkozatot havonta, a tárgyhónapot követő első dialízis kezeléskor
+a tárgyhónapban elvégzett dialízis kezelésekről, valamint a kúra befejezésekor a még el nem számolt dialízis
+kezelésekről köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.”
+(3) A Vhr. 25/A. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Az egészségügyi szolgáltató gondoskodik arról, hogy az Ebtv. 18. § (9)–(10) bekezdése szerinti lehetőségről szóló
+tájékoztató az ellátást igénybe vevők számára jól látható helyen kifüggesztésre kerüljön.”
+9. § A Vhr. 25/B. §-a helyébe a következő rendelkezés lép:
+„25/B. § (1) Az Ebtv. 39. § (1) bekezdése szerinti választás esetén a választott ellátás iránti kérelmet az Ebtv. 62. §
+(1) bekezdése, gyermekgondozási támogatás választása esetén a családok támogatásáról szóló 1998. évi
+LXXXIV. törvény 35. §-a szerint illetékes szervhez kell benyújtani a folyósítás alatt álló ellátás megszüntetésére
+vonatkozó kérelemmel együtt.
+(2) A korábban folyósított ellátás megszüntetésének napjáról a folyósító szerv értesíti a választott újabb ellátás
+megállapítására jogosult szervet. A folyósító szerv a korábban folyósított ellátás megszüntetéséről szóló határozatát
+megküldi a választott ellátást folyósító szervnek. A határozatnak tartalmaznia kell azt az összeget, amellyel a választott
+újabb ellátás visszamenőlegesen járó összegét csökkenteni kell.
+(3) A választott ellátást az értesítésben szereplő napot követő naptól kell folyósítani.
+(4) A választott újabb ellátás tekintetében visszamenőleges az az összeg, ami a biztosított, illetve a szülő által
+választott időponttól a korábban folyósított ellátás megszüntetésének napjáig jár az ellátásra jogosultnak.
+(5) A korábban folyósított ellátás megszüntetéséről szóló határozat beérkezését követő 30. napon a csökkentést
+teljesítettnek kell tekinteni.
+(6) A gyermekgondozási támogatást folyósító szerv és az egészségbiztosító külön megállapodás keretén belül
+elszámol az Ebtv. 39. §-a szerinti választás eredményeképpen túlfolyósított és levont összeggel.
+(7) A kifizetőhelyek tekintetében az OEP, illetve az egészségbiztosítási szakigazgatási szervek gondoskodnak
+a gyermekgondozási támogatás és a pénzbeli ellátás közötti különbözet elszámolásáról attól függően, hogy
+a kifizetőhely a kifizetőhelyi elszámolását mely szervnek köteles benyújtani.”
+10. § A Vhr. 31. §-a a következő (11) bekezdéssel egészül ki:
+„(11) A biztosítási jogviszony megszűnését követően megállapított ellátások esetében az Ebtv. 48. § (4) bekezdésének
+alkalmazásakor a megszűnt biztosítási jogviszony alapjául szolgáló szerződés szerinti jövedelmet kell figyelembe
+venni.”
+11. § A Vhr. 45. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az egészségbiztosítási szakigazgatási szervek és a társadalombiztosítási kifizetőhelyek az (1) bekezdés szerint
+meghozott jogerős határozatuk egy példányát – az Ebtv. 67–68. §-a szerinti megtérítési eljárás megindítása
+
+szükségességének vizsgálata céljából – megküldik az OEP-nek. A határozathoz mellékelni kell a munkabaleseti
+jegyzőkönyvet, Üzemi baleseti jegyzőkönyvet vagy a 43. § (3) bekezdése szerinti értesítést, illetve a 43. § (4) bekezdése
+szerinti nyomtatványt.”
+12. §
+A Vhr. 47. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az (1) bekezdésben említett nyilatkozatot az egészségbiztosítási szakigazgatási szervek és a társadalombiztosítási
+kifizetőhelyek – az Ebtv. 67–68. §-a szerinti megtérítési eljárás megindítása szükségességének vizsgálata céljából –
+megküldik az OEP-nek.”
+13. §
+A Vhr. 49. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az Ebtv. 70. §
+a) (3) bekezdése szerinti eljárásban az Ebtv. 66. §-án alapuló megtérítésre kötelező fizetési meghagyás kiadására
+a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerinti egészségbiztosítási szakigazgatási szerv,
+b) (4) bekezdése szerinti eljárásban a foglalkoztató székhelye szerinti egészségbiztosítási szerv,
+c) (5) bekezdése szerinti eljárásban az ellátásban részesült személy lakóhelye szerinti egészségbiztosítási szerv
+illetékes.”
+14. §
+A Vhr.
+1.
+2. § (2) bekezdés i) pontjában az „a REP” szövegrész helyébe az „az OEP” szöveg,
+2.
+4. § (1) bekezdés a) pontjában az „a REP-pel” szövegrész helyébe az „az OEP-pel” szöveg,
+3.
+11. § (8) bekezdésében a „kísérő számára ki kell állítani” szövegrész helyébe a „beutalt részére kell kiállítani”
+szöveg,
+4.
+11. § (10) bekezdésében az „egészségbiztosító” szövegrész helyébe az „egészségbiztosítási szakigazgatási szerv”
+szöveg,
+5.
+11. § (12) bekezdésében az „a REP felé” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervnek”
+szöveg,
+6.
+11/B. § (2) bekezdésében az „a lakóhelye szerint illetékes REP-nél mint közreműködő hatóságnál” szövegrész
+helyébe az „az OEP-nél” szöveg,
+7.
+11/B. § (3) bekezdésében az „(a továbbiakban: TAJ szám)” szövegrész helyébe az „(a továbbiakban: TAJ)” szöveg,
+8.
+11/C. § (3) bekezdésében az „egészségügyi szolgáltatóval és a REP-pel” szövegrész helyébe az „egészségügyi
+szolgáltatóval” szöveg,
+9.
+11/C. § (4) bekezdésében a „TAJ számát” szövegrész helyébe a „TAJ-át” szöveg,
+10. 11/D. § (1) bekezdésében a „26. § (1) bekezdés c) pontja, illetve (2) bekezdése szerinti méltányossági kérelmet
+a lakóhelye szerint illetékes REP-nél, illetve az OEP-nél, az e § (3) bekezdése szerinti esetben pedig az OEP-nél”
+szövegrész helyébe a „26. §-a szerinti méltányossági kérelmet az OEP-nél” szöveg,
+11. 11/D. § (2) bekezdésében a „TAJ számát” szövegrész helyébe a „TAJ-át” szöveg,
+12. 11/D. § (4) bekezdésében a „forgalmazónak, illetve döntéséről értesíti a kérelmező lakóhelye szerint illetékes
+REP-et” szövegrész helyébe a „forgalmazónak” szöveg,
+13. 11/D. § (5) bekezdésében a „8 munkanapon” szövegrész helyébe a „tizenkét napon” szöveg,
+14. 12. § (5) bekezdésében az „OEP, illetve a REP” szövegrész helyébe az „OEP” szöveg,
+15. 12. § (11) bekezdésében a „Közép-magyarországi Regionális Egészségbiztosítási Pénztár” szövegrész helyébe
+a „fővárosi kormányhivatal egészségbiztosítási szakigazgatási szerv” szöveg, a „Közép-magyarországi Regionális
+Egészségbiztosítási Pénztárral” szövegrész helyébe a „fővárosi kormányhivatal egészségbiztosítási szakigazgatási
+szervével” szöveg,
+16. 12. § (12) bekezdésében a „Közép-magyarországi Regionális Egészségbiztosítási Pénztár” szövegrész helyébe
+a „fővárosi kormányhivatal egészségbiztosítási szakigazgatási szerve” szöveg,
+17. 12/A. § (1) bekezdésében a „TAJ-számot” szövegrészek helyébe a „TAJ-t” szöveg, a „bármely REP” szövegrész
+helyébe a „bármely egészségbiztosítási szakigazgatási szerv, illetve az OEP” szöveg, az „a REP” szövegrész helyébe
+az „az egészségbiztosítási szakigazgatási szerv, illetve az OEP” szöveg,
+18. 12/A. § (3) bekezdésében a „REP” szövegrész helyébe az „egészségbiztosítási szakigazgatási szerv” szöveg, az
+„öt munkanapon” szövegrész helyébe a „nyolc napon” szöveg, a „TAJ-számát” szövegrész helyébe a „TAJ-át”
+szöveg,
+
+19. 12/A. § (6) bekezdésében a „REP-nél, illetve kirendeltségnél” szövegrész helyébe az „egészségbiztosítási
+szakigazgatási szervnél, illetve az OEP-nél” szöveg,
+20. 12/A. § (8) bekezdésében a „megkezdését követő három munkanapon belül” szövegrész helyébe a „megkezdése
+előtt” szöveg, az „a REP-től” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervtől” szöveg, a „TAJ
+szám” szövegrész helyébe a „TAJ” szöveg, az „A REP” szövegrész helyébe az „Az egészségbiztosítási szakigazgatási
+szerv” szöveg, a „TAJ számot” szövegrész helyébe a „TAJ-t” szöveg, az „a REP-hez” szövegrész helyébe az „az
+egészségbiztosítási szakigazgatási szervhez” szöveg, a „3 munkanapon” szövegrész helyébe az „öt napon” szöveg,
+az „a REP-et” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervet” szöveg, a „TAJ számát”
+szövegrész helyébe a „TAJ-át” szöveg,
+21. 12/A. § (9) bekezdésében a „TAJ szám” szövegrész helyébe a „TAJ” szöveg,
+22. 12/A. § (10) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+az „a REP-nél” szövegrészek helyébe az „az egészségbiztosítási szakigazgatási szervnél” szöveg,
+a „3 munkanapon” szövegrész helyébe az „öt napon” szöveg,
+23. 12/A. § (13) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+24. 12/B. § (1) bekezdésében a „TAJ számot” szövegrész helyébe a „TAJ-t” szöveg,
+25. 12/B. § (5) bekezdés b) pontjában a „REP-et” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervet”
+szöveg,
+26. 12/B. § (11) bekezdésében az „illetékes REP felé” szövegrész helyébe az „OEP-nek” szöveg,
+27. 12/B. § (13) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+28. 14. § (1) bekezdésében az „– a (3) bekezdésben foglaltak kivételével – az egészségügyi szolgáltató telephelye
+szerint illetékes REP határozatlan időre köti meg. A több régióban telephellyel rendelkező egészségügyi
+szolgáltató esetében az OEP eltérő szerződéskötési illetékességet állapíthat meg” szövegrész helyébe az „az OEP
+határozatlan időre köti meg” szöveg,
+29. 14. § (3) bekezdésében az „a szolgáltató működési területe szerint illetékes REP” szövegrész helyébe az „az OEP”
+szöveg,
+30. 14. § (4) bekezdésében az „az egészségügyi szolgáltató székhelye szerint illetékes REP” szövegrész helyébe az
+„az OEP” szöveg,
+31. 15. § (1) bekezdésében az „OEP, illetve REP” szövegrész helyébe az „OEP” szöveg,
+32. 15. § (2) bekezdésében az „illetékes REP” szövegrész helyébe az „OEP” szöveg,
+33. 16. § (1) bekezdésében az „A REP” szövegrész helyébe az „Az OEP” szöveg,
+34. 16. § (3) és (4) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+35. 17. § (1) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+36. 19. §-ában az „a REP” szövegrész helyébe az „az OEP” szöveg,
+37. 20. §-ában az „a REP” szövegrész helyébe az „az OEP” szöveg,
+38. 20/A. § (1) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+39. 21. § (1)–(2) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+40. 22. § (4) bekezdésében az „A REP” szövegrész helyébe az „Az OEP” szöveg,
+41. 22. § (6) bekezdésében a „(4) bekezdése” szövegrész helyébe a „(11) bekezdése” szöveg, az „a REP” szövegrészek
+helyébe az „az OEP” szöveg,
+42. 22. § (12) bekezdésében az „azt a REP-et, amellyel az Ebtv. 32. §-ának (1) bekezdése szerinti szerződéses
+jogviszonya fennáll” szövegrész helyébe az „az OEP-et” szöveg,
+43. 22/A. § (2) bekezdésében az „intézmény helye szerinti illetékes REP-et” szövegrész helyébe az „az OEP-et” szöveg,
+44. 22/A. § (3) bekezdésében az „a REP-et” szövegrész helyébe az „az OEP-et” szöveg,
+45. 24. §-ában az „a REP” szövegrész helyébe az „az OEP” szöveg,
+46. 25. § (1) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+47. 25. § (2)–(3) bekezdésében az „A REP” szövegrész helyébe az „Az OEP” szöveg,
+48. 31/D. § (1) bekezdésében a „REP-hez” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervhez”
+szöveg,
+49. 31/D. § (3) bekezdésében az „A REP” szövegrész helyébe az „Az egészségbiztosítási szakigazgatási szerv” szöveg,
+50. 31/D. § (6) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+51. 31/E. §-ában az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+52. 31/G. § (1) bekezdésében a „REP-nél” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervnél” szöveg,
+a „TAJ számát” szövegrész helyébe a „TAJ-át” szöveg,
+
+53. 37. § (1) bekezdésében a „három munkanapon” szövegrész helyébe az „öt napon” szöveg, a „REP-nek” szövegrész
+helyébe az „egészségbiztosítási szakigazgatási szervnek” szöveg,
+54. 37. § (2) bekezdésében a „REP-nél” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervnél” szöveg,
+55. 37. § (4) bekezdésében az „A REP” szövegrész helyébe az „Az egészségbiztosítási szakigazgatási szerv” szöveg,
+a „10 munkanapos” szövegrész helyébe a „tizenöt napos” szöveg, az „a REP” szövegrész helyébe az
+„az egészségbiztosítási szakigazgatási szerv” szöveg,
+56. 37/A. § (2) bekezdésében a „REP-hez” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervhez”
+szöveg,
+57. 38. § (3) bekezdésében a „három munkanapon” szövegrész helyébe az „öt napon” szöveg,
+58. 38/A. § (1) bekezdésében az „a REP-hez” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervhez”
+szöveg, az „A REP” szövegrész helyébe az „Az egészségbiztosítási szakigazgatási szerv” szöveg, az
+„öt munkanapon” szövegrész helyébe a „nyolc napon” szöveg,
+59. 38/A. § (3) bekezdésében az „a REP” szövegrészek helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+az „A REP” szövegrész helyébe az „Az egészségbiztosítási szakigazgatási szerv” szöveg,
+60. 39. § (2) bekezdésében az „A REP” szövegrész helyébe az „Az egészségbiztosítási szakigazgatási szerv” szöveg,
+61. 39. § (3) bekezdésében a „REP” szövegrész helyébe az „egészségbiztosítási szakigazgatási szerv” szöveg,
+62. 40. § (2) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+63. 42. § (1) bekezdésében a „8. munkanapon” szövegrész helyébe a „tizenöt napon” szöveg, a „3 munkanapon”
+szövegrész helyébe az „öt napon” szöveg,
+64. 42. § (2) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+a „REP-et” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervet” szöveg,
+65. 42/A. §-ában az „öt munkanapon” szövegrész helyébe a „nyolc napon” szöveg,
+66. 43. § (5) bekezdésében az „a REP-nek” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervnek”
+szöveg,
+67. 43/A. § (1) bekezdésében a „Közép-Magyarországi Regionális Egészségbiztosítási Pénztár” szövegrész helyébe
+a „fővárosi kormányhivatal egészségbiztosítási szakigazgatási szerve” szöveg,
+68. 44. § (1) bekezdésében a „REP” szövegrészek helyébe az „egészségbiztosítási szakigazgatási szerv” szöveg,
+69. 45. § (1) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+70. 45. § (5) bekezdésében az „a REP” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szerv” szöveg,
+71. 45. § (7) bekezdésében a „REP” szövegrész helyébe az „egészségbiztosítási szakigazgatási szerv” szöveg,
+72. 47. § (2) bekezdésében a „8 napon” szövegrész helyébe a „tizenöt napon” szöveg, az „a REP-nek” szövegrész
+helyébe az „az OEP-nek” szöveg,
+73. 48. §-ában a „három munkanapon” szövegrész helyébe az „öt napon” szöveg,
+74. 49. § (2) bekezdésében az „a REP” szövegrész helyébe az „az OEP” szöveg,
+75. 49/A. §-ában az „a REP” szövegrész helyébe az „az OEP” szöveg,
+76. 49/B. §-ában a „REP-hez” szövegrész helyébe az „egészségbiztosítási szakigazgatási szervhez” szöveg,
+77. 49/E. §-ában az „a REP-hez” szövegrész helyébe az „az egészségbiztosítási szakigazgatási szervhez” szöveg
+lép.
+15. § Hatályát veszti a Vhr.
+a) 11. § (1) bekezdésében az „is” szövegrész,
+b) 11/B. § (5) bekezdése,
+c) 11/D. §-át megelőző alcímben az „és gyógyászati ellátások” szövegrész,
+d) 1/D. § (2) bekezdés a) pontjában az „ , illetve ellátással” szövegrész,
+e) 12/A. § (8) bekezdésében az „és azt havonta, a tárgyhónapot megelőző hónap végén, a jogosultsági jogviszony
+fennállásának – aláírásával és pecsétjével történő – igazolásával érvényesíti” szövegrész,
+f) 12/A. § (15) és (16) bekezdése,
+g) 22. § (3) és (10) bekezdése,
+h) 31. § (3) bekezdés c) pontjában az „a háromévesnél fiatalabb gyermek gondozása, valamint” szövegrész,
+i) 37/A. § (1) bekezdésének utolsó mondata,
+j) 49/E. §-ában a „szóban vagy” szövegrész.
+
+16. § A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.)
+Korm. rendelet (a továbbiakban: Kr.)
+a) 1. § (1) bekezdése az „a részleges” szövegrészt követően a „ , kiegészítő” szöveggel,
+b) 1. § (4) bekezdése az „a részleges” szövegrészt követően az „és kiegészítő” szöveggel
+egészül ki.
+17. § A Kr. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az Ebtv. 23. § a), c) és k) pontjában foglalt részleges, valamint 23/A. § c) pontjában foglalt kiegészítő térítési díj
+ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díját az 1. számú melléklet határozza meg.”
+18. § (1) A Kr. 1. számú melléklete az 1. melléklet szerint módosul.
+(2) A Kr. 1. számú melléklete a 2. melléklet szerint módosul.
+(3) A Kr. 2. számú melléklete helyébe a 3. melléklet lép.
+19. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2011. január 1-jén lép hatályba.
+(2) A 18. § (2) bekezdése és a 2. melléklet 2011. július 1-jén lép hatályba.
+(3) Ez a rendelet 2011. július 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 366/2010. (XII. 30.) Korm. rendelethez
+1. A Kr. 1. számú mellékletének címe helyébe a következő cím lép:
+„Az Ebtv. 23. §-ában foglalt egyes részleges, valamint 23/A. §-ában foglalt egyes kiegészítő térítési díj mellett igénybe
+vehető egészségügyi szolgáltatások térítési díja”
+2. A Kr. 1. számú mellékletének 5. pontja helyébe a következő rendelkezés lép:
+„5. Az Ebtv. 23/A. § c) pontja alapján az ápolási osztályon orvosi beutalás alapján történő elhelyezés és ápolás esetén,
+illetve krónikus fekvőbeteg-ellátásban ápolási díjjal finanszírozott biztosított után a részleges térítési díj 600 Ft/nap.”
+2. melléklet a 366/2010. (XII. 30.) Korm. rendelethez
+A Kr. 1. számú mellékletének 5. pontja helyébe a következő rendelkezés lép:
+„5. Az Ebtv. 23/A. § c) pontja alapján az ápolási osztályon orvosi beutalás alapján történő elhelyezés és ápolás esetén,
+illetve krónikus fekvőbeteg-ellátásban ápolási díjjal finanszírozott biztosított után a részleges térítési díj 800 Ft/nap.”
+3. melléklet a 366/2010. (XII. 30.) Korm. rendelethez
+„2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez
+A B
+1. Lőfegyvert munkakörükből eredően tartani szándékozó, illetve tartó személyek
+(I. csoport) lőfegyvertartásra való egészségi alkalmasságának pszichológiai vizsgálata
+a) első fokon 6 800 Ft
+b) másodfokon 11 300 Ft
+
+2. Lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való
+a) orvosi alkalmassági vizsgálata
+aa) első fokon 6 800 Ft
+ab) másodfokon 11 300 Ft
+b) pszichológiai alkalmassági vizsgálata
+ba) első fokon 6 800 Ft
+bb) másodfokon 11 300 Ft
+3. Gépjármű-vezetői, belvízi hajózási szolgálati és belvízi kedvtelési célú vízijármű-vezetői
+alkalmassági vizsgálat, III. és IV. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők
+időszakos és soron kívüli alkalmassági vizsgálata
+a) ha a 40. életévét még nem töltötte be:
+aa) első fokon 6 800 Ft
+ab) másodfokon 10 100 Ft
+b) ha a 40. életévét betöltötte, de a 60. életévét még nem érte el:
+ba) első fokon 4 500 Ft
+bb) másodfokon 6 800 Ft
+c) ha a 60. életévét betöltötte:
+ca) első fokon 2 300 Ft
+cb) másodfokon 4 500 Ft
+4. Alkohol szintjének kimutatása érdekében végzett vér- és vizeletvétel 4 500 Ft
+5. Kábítószer szintjének kimutatása érdekében végzett
+a) vérvétel 3 000 Ft
+b) vizeletvétel 1 500 Ft
+6. Látlelet kiadása 3 300 Ft
+7. Részeg személy detoxikálása 6 800 Ft
+8. Kábítószer hatása alatt álló személy akut ellátása 6 800 Ft
+9. Tengeri hajózási egészségi alkalmassági vizsgálat
+a) tengeri hajózási szolgálatot teljesítő személy alkalmassági vizsgálata
+aa) az egészségi alkalmasság első vizsgálata 18 000 Ft
+ab) az egészségi alkalmasság időszakos vizsgálata 14 600 Ft
+ac) az egészségi alkalmasság soron kívüli vizsgálata 12 400 Ft
+b) I. és II. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők alkalmassági
+vizsgálata
+ba) az egészségi alkalmasság első vizsgálata 11 300 Ft
+bb) az egészségi alkalmasság időszakos vizsgálata 9 100 Ft
+bc) az egészségi alkalmasság soron kívüli vizsgálata 6 800 Ft
+c) III. és IV. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők első alkalmassági
+vizsgálata
+9 100 Ft
+10. Jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve,
+ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra,
+kedvezményre való jogosultság megállapítása céljából kerül sor
+6 800 Ft
+11. Hivatásos sportolók sportegészségügyi vizsgálata 9 100 Ft
+12. Hivatásos sportolók további sportegészségügyi szakvizsgálata Az adott
+ellátásnak
+a közfinan-
+szírozásban
+érvényesíthető
+díja
+13. Repülő-egészségügyi alkalmassági vizsgálat
+a) 1. egészségügyi osztály
+aa) első, illetve kibővített (terheléses EKG, teljes körű szemészeti vagy teljes körű
+fül-orr-gégészeti vizsgálatra is kiterjedő) vizsgálat
+26 900 Ft
+ab) időszakos vizsgálat 15 100 Ft
+
+b) 2. egészségügyi osztály
+ba) első, illetve kibővített (terheléses EKG vizsgálatra is kiterjedő) vizsgálat 12 900 Ft
+bb) időszakos vizsgálat 8 600 Ft
+c) 3. egészségügyi osztály
+ca) első, illetve kibővített (terheléses EKG, teljes körű szemészeti vagy teljes körű
+fül-orr-gégészeti vizsgálatra is kiterjedő) vizsgálat
+26 900 Ft
+cb) időszakos vizsgálat 15 100 Ft
+14. Az a mellkas-szűrővizsgálat (tüdőszűrés), melynek igénybevételére nem az egészségügyi
+hatóság által a fertőző betegségek és a járványok megelőzése érdekében szükséges
+járványügyi intézkedésekről szóló miniszteri rendelet szerint kötelezően elrendelt
+szűrővizsgálat keretében, vagy nem a kötelező egészségbiztosítás keretében igénybe
+vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi
+szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti
+korhoz kötött szűrővizsgálat keretében, vagy nem jogszabály által előírt, a szakképzésről
+szóló 1993. évi LXXVI. törvény 2. § (1) bekezdés a)–c) pontja szerinti szakképzési
+intézményekben oktatásban részesülők szakmai alkalmassági vizsgálatai keretében kerül
+sor.
+A mellkas-
+szűrővizsgálat
+közfinan-
+szírozásban
+érvényesíthető
+díja
+15. A foglalkoztathatóság szakvéleményezése 3 100 Ft/fő/eset
+”
