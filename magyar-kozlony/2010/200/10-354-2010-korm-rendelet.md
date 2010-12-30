@@ -1,0 +1,302 @@
+# A Kormány 354/2010. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 200. szám, 2010. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fb18f63a37d277b7ee5af10775b9b215f80000d3/dokumentumok/09406ae5fb3498365c4a3fd50f9af7c4733b5654/letoltes)
+
+---
+
+A Kormány 354/2010. (XII. 30.) Korm. rendelete
+a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosításáról, valamint a korengedményes nyugdíjba vonulás
+lehetőségének meghosszabbításáról
+A Kormány
+a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés c), e), h), i), l), n) és o) pontjában kapott
+felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 19–23. § tekintetében az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. §
+(1) bekezdés g) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosítása
+1. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm.
+rendelet (a továbbiakban: TnyR.) 1. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Ha jogszabály másként nem rendelkezik, a társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási
+igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben
+első fokon
+a) ha hozzátartozói nyugellátás esetén az elhunyt jogszerző saját jogú nyugellátásban részesült, ide nem értve
+a rehabilitációs járadékot, vagy ha az elhunyt jogán hozzátartozói nyugellátás megállapítására már sor került –
+a Nyugdíjfolyósító Igazgatóság,
+
+b) az a) pontban nem említett esetben az igénylő lakóhelye, illetve a foglalkoztató vagy egyéb szerv székhelye
+(telephelye) szerint illetékes nyugdíjbiztosítási igazgatóság
+jár el.
+(2) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá
+tartozó hatósági ügyekben, a szociális biztonsági (szociálpolitikai) egyezmények alapján járó nyugellátás
+megállapításával kapcsolatos hatósági ügyekben, valamint a külföldön élő vagy tartózkodó személy esetén
+a nyugellátás megállapításával kapcsolatos hatósági ügyekben első fokon
+a) – ha hozzátartozói nyugellátás esetén az elhunyt jogszerző a magyar jogszabályok szerint saját jogú
+nyugellátásban részesült, ide nem értve a rehabilitációs járadékot, vagy ha az elhunyt jogán hozzátartozói nyugellátás
+megállapítására már sor került – a Nyugdíjfolyósító Igazgatóság,
+b) az a) pontban nem említett esetben a Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság
+jár el.”
+2. § A TnyR. 11/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a 2010. december 31-ét követő és 2012. január 1-jét megelőző időponttól megállapításra kerülő saját jogú
+nyugellátás alapját képező havi átlagkereset 330 000 forintnál több, akkor
+a) a 330 001–374 000 forint közötti átlagkereset kilencven százalékát,
+b) a 374 001–422 000 forint közötti átlagkereset nyolcvan százalékát,
+c) a 422 001 forint feletti átlagkereset hetven százalékát
+kell a saját jogú nyugellátás megállapításánál figyelembe venni.”
+3. § A TnyR. az „A havi átlagkereset meghatározása” alcímet megelőzően a következő 12. §-sal egészül ki:
+„12. § (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá
+eső jogviszonnyal szerzett jogosultsági időnek
+a) az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–i) pontjában, valamint (2)–(3) bekezdésében
+meghatározott jogviszonyban;
+b) az 1998. január 1-jét megelőzően
+1. az a) pont szerinti jogviszonyban,
+2. a kisiparosként,
+3. a magánkereskedőként,
+4. az alkalmi fizikai munkát végzőként,
+5. a szerződéses üzemeltetésű üzlet biztosított vezetőjeként,
+6. a gépjárművezető-képző munkaközösség tagjaként,
+7. a gazdasági munkaközösség tagjaként,
+8. az ipari és szolgáltató szövetkezeti szakcsoport tagjaként,
+9. a kisszövetkezet tagjaként,
+10. a mezőgazdasági szakszövetkezeti tagként,
+11. a mezőgazdasági szakcsoport tagjaként,
+12. az egyéni gazdálkodóként,
+13. a nemzetközi szervhez tagként vagy munkatársként kiküldött személyként,
+14. a külföldi munkavállalóként,
+15. a külföldi munkavállaló előadóművészként,
+16. az ügyvédi munkaközösség tagjaként,
+17. a jogtanácsosi munkaközösség tagjaként,
+18. a szabadalmi ügyvivői iroda vagy társaság tagjaként,
+19. a közjegyzőként,
+20. az önálló bírósági végrehajtóként,
+21. a szerzői jogvédelem alá tartozó személyes alkotótevékenységet, előadóművészi tevékenységet folytatóként,
+22. a munkaviszonyban nem álló előadóművészként, valamint
+23. a 29. § (8) bekezdése, a 36. §, a 41. § és a 44. § (2) bekezdése alapján
+szerzett szolgálati idő minősül.
+(2) A Tny. 18. § (2a)–(2d) bekezdése alapján megállapított öregségi teljes nyugdíj összegét valamennyi megszerzett
+szolgálati idő alapján kell megállapítani.
+
+(3) Ha a Tny. 18. § (2a)–(2d) bekezdése szerinti öregségi teljes nyugdíjat a jogosult súlyosan fogyatékos vér szerinti
+vagy örökbe fogadott gyermekére is tekintettel állapítják meg, a kérelemhez csatolni kell az ápolási díjat megállapító
+határozat másolatát, valamint – ha a határozatból a hozzátartozói viszony nem állapítható meg – be kell mutatni
+a hozzátartozói viszonyt igazoló közokiratot vagy csatolni kell annak másolatát.
+(4) Ha az öregségi teljes nyugdíjat a Tny. 18. § (2d) bekezdésében foglaltakra is tekintettel állapítják meg, be kell
+mutatni a hozzátartozói viszonyt igazoló közokiratot vagy csatolni kell annak másolatát.
+(5) Ha a kérelmező hatósági nyilvántartásban szereplő adatokat nem igazol, a nyugdíj-megállapító szerv a kérelem
+elbírálásáhozszükségesadatokszolgáltatásairántikérelemmelfordul azadatokrólnyilvántartástvezetőhatósághoz.”
+4. § A TnyR. 15. § (5) bekezdése a következő l) ponttal egészül ki:
+[Azévesszintűkeresetekheztartozóadó–(3)bekezdésc)pontjaszerinti–meghatározásasoránazadottévbenelértkereset
+alapján kiszámított adó összegéből]
+„l) 2011. évben a (2) bekezdésnek az adóalap-kiegészítésre vonatkozó rendelkezésére is figyelemmel megállapított
+kereset 16 százalékát, de legfeljebb 145 200 forintot”
+[kell levonni.]
+5. § A TnyR. 23/A. §-a helyébe a következő rendelkezés lép:
+„23/A. § A Tny. 36/D. § (5) bekezdésének és 36/G. § (4) bekezdésének alkalmazása során az állapotváltozás időpontja
+az állapotváltozásnak a rehabilitációs szakértői szerv szakhatósági állásfoglalásában megállapított napja.”
+6. § A TnyR. 25. §-a helyébe a következő rendelkezés lép:
+„25. § A Tny. 36/D. § (5) bekezdésének és 36/G. § (4) bekezdésének alkalmazása során a rokkantsági, baleseti
+rokkantsági nyugdíj állapotjavulás miatt történő csökkentéséről (leszállításáról) a szakhatósági állásfoglalás
+kiadásának napját követő második hónap első napjától kell intézkedni. Állapotrosszabbodás esetén – az
+igényérvényesítésre vonatkozó határidő figyelembevételével – a felemelt összegű rokkantsági nyugdíjat az
+állapotváltozás időpontját követő hónap első napjától kell megállapítani.”
+7. § A TnyR. a következő 66/A. §-sal egészül ki:
+„66/A. § (1) A nyugdíjbiztosítási igazgatási szervek eljárásaiban – ha az adott eljárás tekintetében jogszabály másként
+nem rendelkezik – az ügyintézési határidő huszonkét munkanap, amely legfeljebb huszonkét munkanappal
+hosszabbítható meg.
+(2) Ha a Tny. 22/A. §-a szerinti növelés esetén a növelést megelőző naptári év előtt elért keresetet, jövedelmet
+a növelést megelőző naptári év kereseti szintjéhez kell igazítani, és a kérelmet a tárgyévi valorizációs szorzószámok
+hatálybalépését megelőzően nyújtották be, az ügyintézési határidő a tárgyévi valorizációs szorzószámok
+hatálybalépését követő tizedik munkanapon jár le.
+(3) A nyugdíjbiztosítási igazgatási szerv a Tny. 96. § (8) bekezdése szerinti igazolást a kérelem benyújtását követő
+tizenöt munkanapon belül állítja ki.”
+8. § A TnyR. a következő 68. §-sal egészül ki:
+„68. § Ha a korábban megszűnt rokkantsági, baleseti rokkantsági nyugdíj vagy rehabilitációs járadék mellett szerzett,
+a Tny. 22/A. §-a szerinti növelésre való jogosultságot már megállapították, újabb saját jogú nyugellátás megállapítása
+esetén a növelés összegét a megállapítását követő emelésekkel együtt, külön határozat hozatala nélkül, az újabb saját
+jogú nyugellátással együtt kell folyósítani.”
+9. § (1) A TnyR. 72/B. §-a a következő (1a)–(1g) bekezdéssel egészül ki:
+„(1a) Kivételes nyugellátás megállapítása és kivételes nyugellátás-emelés engedélyezése iránti kérelem az Országos
+Nyugdíjbiztosítási Főigazgatósághoz (a továbbiakban: ONYF) nyújtható be.
+(1b) Az (1a) bekezdésben foglaltakon túl
+a) kivételes nyugellátás megállapítása iránti kérelmet kivételes özvegyi nyugdíj és árvaellátás megállapítása esetén,
+ha az elhunyt jogszerző már nyugellátásban részesült, valamint a továbbtanuló árva árvaellátásának kivételes
+meghosszabbítása esetén a Nyugdíjfolyósító Igazgatósághoz, egyéb esetben a kérelmező lakóhelye szerint illetékes
+nyugdíjbiztosítási igazgatósághoz,
+
+b) kivételes nyugellátás-emelés engedélyezése iránti kérelmet hozzátartozói nyugellátás esetén a Nyugdíjfolyósító
+Igazgatósághoz, egyéb esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatósághoz
+is be lehet nyújtani.
+(1c) Egyszeri segély engedélyezése iránti kérelmet az ONYF-hez, a Nyugdíjfolyósító Igazgatósághoz vagy a kérelmező
+lakóhelye szerint illetékes nyugdíjbiztosítási igazgatósághoz lehet benyújtani.
+(1d) A Tny. 66. §-a alapján
+a) a továbbtanuló árva árvaellátásának kivételes meghosszabbítását
+aa) a (20) bekezdés szerinti esetben, továbbá ha a kérelmet hozzá nyújtották be, az ONYF főigazgatója
+engedélyezheti,
+ab) az aa) alpontban nem említett esetben a Nyugdíjfolyósító Igazgatóság igazgatója engedélyezheti;
+b) az a) pontban nem említett esetben kivételes nyugellátást az ONYF főigazgatója állapíthat meg;
+c) kivételes nyugellátás-emelést
+ca) a(20) bekezdésszerintiesetben,továbbáhaakérelmethozzányújtottákbe,azONYFfőigazgatójaengedélyezhet,
+cb) a ca) alpontbannem említett esetbenhozzátartozóinyugellátáseseténa Nyugdíjfolyósító Igazgatóságigazgatója
+engedélyezhet,
+cc) a ca)–cb) alpontban nem említett esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság
+vezetője engedélyezhet;
+d) egyszeri segélyt
+da) a(20) bekezdésszerintiesetben,továbbáhaakérelmethozzányújtottákbe,azONYFfőigazgatójaengedélyezhet,
+db) a da) alpontban nem említett esetben a Nyugdíjfolyósító Igazgatóság igazgatója vagy a kérelmező lakóhelye
+szerint illetékes nyugdíjbiztosítási igazgatóság vezetője engedélyezhet attól függően, hogy a kérelmet melyiküknél
+nyújtották be.
+(1e) Az (1d) bekezdés b) pontja szerinti ügyekben a Nyugdíjfolyósító Igazgatóság igazgatója és a nyugdíjbiztosítási
+igazgatóság vezetője – ha a kérelmet hozzá nyújtották be – közreműködő hatóságként jár el azzal, hogy a kivételes
+nyugellátás megállapítása iránti kérelmet – a kérelem megérkezését követő naptól számított tizenöt munkanapon
+belül – akkor is elutasítja, ha a kivételes nyugellátás megállapításának jogszabályi feltételei nem állnak fenn.
+(1f) A Nyugdíjfolyósító Igazgatóság igazgatója és a nyugdíjbiztosítási igazgatóság vezetője a továbbtanuló árva
+árvaellátásának kivételes meghosszabbítása, valamint a kivételes nyugellátás-emelés és az egyszeri segély
+engedélyezése iránti ügyben – ha a kérelmet hozzá nyújtották be –
+a) a kérelmet megküldi az ONYF főigazgatójának, ha megállapítja, hogy a kérelmező nem felel meg az általa
+engedélyezhető árvaellátás-meghosszabbítás, nyugellátás-emelés, illetve egyszeri segély feltételeinek, de
+a (20) bekezdés szerinti feltételek fennállnak,
+b) az a) pontban nem említett esetben a kérelemről dönt.
+(1g) Ha az ONYF főigazgatójánakvagy a Nyugdíjfolyósító Igazgatóságigazgatójánakhatáskörébetartozó ügyekben –
+a különös méltánylást érdemlő körülmények fennállásának megítélése érdekében – helyszíni szemlét kell tartani,
+a helyszíni szemlét az eljáró hatóság megkeresésre a nyugdíjbiztosítási igazgatóság – a megkereséstől számított
+tizenöt munkanapon belül – folytatja le, és annak eredményéről három munkanapon belül értesíti a megkereső
+hatóságot.”
+(2) A TnyR. 72/B. § (4) bekezdése a következő c) ponttal egészül ki:
+[A Tny. 66. §-a alapján akkor állapítható meg]
+„c) kivételes rehabilitációs járadék, ha a kérelmező rendelkezik a szükséges szolgálati idő legalább felével, és megfelel
+a rehabilitációs járadékra való jogosultság egyéb feltételeinek,”
+[továbbá a kérelmező nem részesül az Szt. 4. § (1) bekezdésének i) pontjában megjelölt rendszeres pénzellátásban, ide
+nem értve az időskorúak járadékát.]
+(3) A TnyR. 72/B. §-a a következő (8a) és (8b) bekezdéssel egészül ki:
+„(8a) Az ONYF főigazgatója a kivételes nyugellátást megállapító határozatát közli a nyugellátás ügyében egyébként
+illetékes nyugdíj-megállapító szervvel, amely a kivételes nyugellátás megállapítását követően ellátja
+a nyugdíj-megállapító szerv hatáskörébe tartozó feladatokat.
+(8b) A kivételes nyugellátást kérelemre meg kell szüntetni. A kivételes saját jogú nyugellátás mellett szerzett, a Tny.
+22/A. §-a szerinti növelés a kivételes nyugellátás megszüntetését követően is érvényesíthető, illetve azt a 68. § szerint
+folyósítani kell, ha a jogosultnak később saját jogú nyugellátást – ide értve a kivételes nyugellátást is – állapítanak
+meg.”
+
+10. § A TnyR. 76/B. §-a a következő (2) bekezdéssel egészül ki, egyidejűleg a § jelenlegi szövegének jelölése (1) bekezdésre
+változik:
+„(2) Ha a Magyar Köztársaság területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt, a Tny. 87–88. §-a
+alapján fennálló követelést a nyugdíjbiztosítási igazgatási szerv – a kötelező gépjármű-felelősségbiztosításról szóló
+törvényben meghatározott Nemzeti Iroda közreműködésével – a kötelezett biztosítójával szemben érvényesíti. Ha
+a kötelezett biztosítója a fizetési kötelezettségének a felhívás kézhezvételét követő kilencven napon belül nem tesz
+eleget, a nyugdíjbiztosítási igazgatási szerv a követelését a Nemzeti Irodával szemben megtérítésre kötelező
+határozattal érvényesíti. Az ONYF az eljárás rendjét a Nemzeti Irodával kötött megállapodásban rendezi.”
+11. § A TnyR. 80. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A megállapított nyugellátás visszamenőlegesen járó összegét csökkenteni kell annak az ellátásnak az összegével,
+amely ugyanarra az időszakra került folyósításra, feltéve, hogy a jogosultat a két ellátás egyidejűleg nem illethette
+volna meg. A beszámítást a nyugdíjfolyósító szerv határozattal rendeli el. Ha a visszamenőlegesen járó ellátás összege
+alacsonyabb, mint a beszámított összeg, a jogalap nélkül felvett különbözet visszafizetését a Tny. 84. §-ában
+meghatározott feltételek fennállása esetén el kell rendelni.”
+12. § A TnyR. 81. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Baleseti járadékkal kapcsolatos megtérítés esetén a követelés érvényesítésére a kötelező egészségbiztosítás
+ellátásairól szóló 1997. évi LXXXIII. törvény 68. § (3) bekezdésében megjelölt összeghatárt kell alkalmazni.”
+13. § A TnyR. a következő 82. §-sal egészül ki:
+„82. § A Tny. 93. § (1) bekezdésében meghatározott öt évet – a megtérítési követelés kivételével – a határozat keltétől
+kell számítani. A megtérítési követelés az ellátás kifizetésétől számított öt éven belül érvényesíthető.”
+14. § A TnyR. 83. §-ának első mondata helyébe a következő rendelkezés lép:
+„A visszafizetésre kötelezett halála esetén a követelés meg nem térült összegét – az örökség erejéig – az örökössel
+szemben kell érvényesíteni, feltéve, hogy az örökhagyó még élt, amikor őt a nyugdíjbiztosítási igazgatási szerv jogerős
+határozattal az ellátás visszafizetésére kötelezte.”
+15. § A TnyR. a következő 92. §-sal egészül ki:
+„92. § (1) E rendeletnek a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosításáról, valamint a korengedményes nyugdíjba vonulás lehetőségének
+meghosszabbításáról szóló 354/2010. (XII. 30.) Korm. rendelettel megállapított, illetve módosított 11/B. §
+(2) bekezdését, 12. §-át, 15. § (5) bekezdés l) pontját, 68. §-át, 72/B. § (4) bekezdés c) pontját, 72/B. § (5) bekezdését,
+72/B. § (9) bekezdését,72/B. § (17) bekezdésa) és b) pontját, 72/B. § (20) bekezdésa) pontját, 85. § (2) és (5) bekezdését,
+valamint 89. § (10) bekezdését a 2010. december 31-ét követő időponttól kezdődően megállapításra kerülő ellátások,
+valamint az említett időpontot követő adatszolgáltatás és bejelentés esetén kell alkalmazni.
+(2) E rendeletnek a társadalombiztosításinyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásárólszóló 168/1997.
+(X. 6.) Korm. rendelet módosításáról, valamint a korengedményes nyugdíjba vonulás lehetőségének
+meghosszabbításáról szóló 354/2010. (XII. 30.) Korm. rendelettel megállapított, illetve módosított 1. § (1) és
+(2) bekezdését, 72/B. § (1a)–(1g), (8a) és (8b) bekezdését, valamint 83. §-át a 2011. január 1-jén folyamatban lévő
+ügyekben is alkalmazni kell.
+(3) A Tny. 97. § (3) bekezdésének – 2010. december 31-én hatályos – b) pontja alapján teljesítendő adatszolgáltatást
+e rendelet 2010. december 31-én hatályos 85–89. §-ában foglaltak szerint kell teljesíteni.”
+16. § A TnyR.
+a) 11. §-ában, 23. § (1) bekezdésében, 28. § (1) bekezdésében és 64/D. §-ában a „2011.” szövegrész helyébe a „2012.”
+szöveg,
+b) 14. § (10) bekezdésében, 89. § (9) és (11) bekezdésében a „Foglalkoztatási és Szociális Hivatal” szövegrész helyébe
+a „Foglalkoztatási Hivatal” szöveg,
+c) 24. § (4) bekezdésében az „a nyugdíjasként szerzett” szövegrész helyébe az „az 1997. január 1-jét megelőzően
+nyugdíjasként szerzett” szöveg,
+
+d) 56. § (1) bekezdésében a „nyugdíjbiztosítási egyéni nyilvántartó lap kiállítására és vezetésére kötelezett”
+szövegrész helyébe a „nyugdíjbiztosítási egyéni nyilvántartó lap (a továbbiakban: nyilvántartó lap) kiállítására
+és vezetésére kötelezett, ennek hiányában a nyugdíjbiztosítási igazgatási szerv” szöveg,
+e) 72/B. § (1), (2) és (9)–(12) bekezdésében a „kivételes nyugdíjemelés” szövegrész helyébe a „kivételes
+nyugellátás-emelés” szöveg,
+f) 72/B. § (5) bekezdésében a „kivételes rokkantsági nyugdíj” szövegrész helyébe a „kivételes rokkantsági nyugdíj
+vagy kivételes rehabilitációs járadék” szöveg,
+g) 72/B.§ (9) bekezdésébenés72/B.§ (17) bekezdésa) pontjábana„65000”szövegrészhelyébea„70000”szöveg,
+h) 72/B. § (13) bekezdésében a „kivételes nyugdíjemelés” szövegrész helyébe a „kivételes nyugellátás-emelés”
+szöveg, a „méltányossági nyugdíjemelést” szövegrész helyébe a „kivételes nyugellátás-emelést” szöveg,
+i) 72/B. § (15) bekezdésében az „a Tny. 66. §-ában meghatározott szervek vezetői” szövegrész helyébe az
+„az (1d) bekezdés d) pontja szerinti személyek” szöveg,
+j) 72/B. § (17) bekezdés b) pontjában és 72/B. § (20) bekezdés a) pontjában a „75 000” szövegrész helyébe a „80 000”
+szöveg,
+k) 79. § (3) bekezdésében és 85. § (5) bekezdésében a „tíz munkanapon” szövegrészek helyébe a „tizenöt napon”
+szöveg,
+l) 85. § (2) bekezdésében a „tizedik munkanap” szövegrész helyébe a „tizenötödik nap” szöveg,
+m) 85. § (4) bekezdésében a „tizenkét hónapra számított összegét” szövegrész helyébe a „tizennyolcszorosát”
+szöveg,
+n) 89. § (10) bekezdésében az „öt munkanapon” szövegrész helyébe a „nyolc napon” szöveg
+lép.
+17. § (1) Hatályukat vesztik a TnyR. 24. § (1) bekezdésében, 88/A. § (2) bekezdésében és 89. § (10) bekezdésében a „regionális”
+szövegrészek.
+(2) Hatályát veszti a TnyR.
+a) 72/B. § (1) bekezdésében az „az igénylő lakhelye szerint illetékes regionális nyugdíjbiztosítási igazgatósághoz,
+valamint – kivételes özvegyi nyugdíj és árvaellátás esetén, ha a jogszerző már nyugellátásban részesült –
+a Nyugdíjfolyósító Igazgatósághoz” szövegrész,
+b) 85. § (1) bekezdése,
+c) 86. § (1) bekezdésének első és második mondata, valamint (2), (3), (5) és (7)–(9) bekezdése,
+d) 87. § (1) bekezdés a)–c), f), g), i) és j) pontja, valamint (2)–(5) bekezdése,
+e) 88. § (1) bekezdésében az „– a (2) bekezdésben foglalt kivétellel –” szövegrész,
+f) 88. § (2) és (3) bekezdése,
+g) 89. § (1)–(8) bekezdése.
+2. A korengedményes nyugdíjazásról szóló 181/1996. (XII. 6.) Korm. rendelet hatályon kívül helyezése
+18. § Hatályát veszti a korengedményes nyugdíjazásról szóló 181/1996. (XII. 6.) Korm. rendelet.
+3. A korengedményes nyugdíjba vonulás lehetőségének meghosszabbításáról szóló
+283/2009. (XII. 11.) Korm. rendelet módosítása
+19. § A korengedményes nyugdíjba vonulás lehetőségének meghosszabbításáról szóló 283/2009. (XII. 11.) Korm. rendelet
+(a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Korengedményes nyugdíj akkor állapítható meg, ha
+a) a munkavállaló a korengedményes nyugdíjra való jogosultsághoz szükséges életkort és szolgálati időt 2011.
+december 31-éig betölti, illetve megszerzi,
+b) a munkavállaló és a munkáltató a korengedményes nyugdíjazásról szóló megállapodás megkötésének szándékát
+a (3) bekezdés szerint a fővárosi és megyei kormányhivatal munkaügyi központjának (a továbbiakban: munkaügyi
+központ) bejelentette,
+c) a munkáltató és a munkavállaló között megkötött megállapodást 2011. december 31-éig megküldik az illetékes
+nyugdíjbiztosítási igazgatási szervnek, és
+d) a korengedményes nyugdíjba vonulás időpontja legkésőbb 2011. december 31-e.”
+
+20. § Az R. 5. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+„(5) A 2011. évben megkötött megállapodás alapján megállapításra kerülő korengedményes nyugdíj összegét
+– a korengedményes nyugdíjazásról szóló 181/1996. (XII. 6.) Korm. rendelet 4. § (3) bekezdésével ellentétben – a Tny.
+18/A–18/B. §-ának megfelelő alkalmazásával kell megállapítani azzal, hogy a Tny. 18/B. § (2) bekezdése szerinti
+csökkentés mértéke nem haladhatja meg az öregségi nyugdíj összegének 8,4 százalékát. 2011. december 31-ét
+követően korengedményes nyugdíjra megállapodás nem köthető.
+(6) E rendeletnek a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosításáról, valamint a korengedményes nyugdíjba vonulás lehetőségének
+meghosszabbításáról szóló 354/2010. (XII. 30.) Korm. rendelettel megállapított 1. § (1) bekezdés d) pontját a 2011.
+évben megkötött megállapodások esetén kell alkalmazni. Egyebekben – ha kormányrendelet másként nem
+rendelkezik– a korengedményesnyugdíjra 2011. december31-ét követőenisa korengedményesnyugdíjazásrólszóló
+181/1996. (XII. 6.) Korm. rendelet 2011. december 31-én hatályos rendelkezéseit kell alkalmazni.”
+21. § Az R. 2. § (2) bekezdésében az „Adó- és Pénzügyi Ellenőrzési Hivatal regionális igazgatóságát, valamint a regionális
+munkaügyi központot” szövegrész helyébe az „állami adóhatóságot és a munkaügyi központot” szöveg lép.
+22. § Hatályukat vesztik az R. 1. § (3) bekezdésében a „regionális” szövegrészek.
+4. A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló
+273/2010. (XII. 9.) Korm. rendelet módosítása
+23. § Nem lép hatályba a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.)
+Korm. rendelet 86. §-ában az „(a továbbiakban: NAV)” szövegrész, valamint az „ , a 89. § (8) bekezdésében
+„a rendvédelmi szervek” szövegrész helyébe „a rendvédelmi szervek, a NAV” szöveg” szövegrész.
+5. Záró rendelkezések
+24. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivételekkel – 2010. december 31-én lép hatályba.
+(2) Az 1–17. § és a 19–22. § 2011. január 1-jén lép hatályba.
+(3) A 18. § 2012. január 1-jén lép hatályba.
+(4) Ez a rendelet 2012. január 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
