@@ -1,4 +1,4 @@
-48. § (1) A helyszíni ellenőrzést a mezőgazdasági és vidékfejlesztési támogatási szerv, vagy annak megbízása alapján az átruházott feladatot ellátó szerv megbízólevéllel, illetve szolgálati igazolvánnyal rendelkező alkalmazottja, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzését végző, arra jogosult szerv, illetve szervezet megbízólevéllel rendelkező alkalmazottja (a továbbiakban együtt: ellenőr) folytathatja le.
+48. § (1) A helyszíni ellenőrzést a hatáskörrel rendelkező hatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv, vagy annak megbízása alapján az átruházott feladatot ellátó szerv megbízólevéllel vagy szolgálati igazolvánnyal rendelkező alkalmazottja, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzését végző, arra jogosult szerv, szervezet megbízólevéllel rendelkező alkalmazottja (a továbbiakban együtt: ellenőr) folytathatja le.
 
 (2) Az ellenőr részére kiállított, iktató számmal ellátott megbízólevél tartalmazza:
 

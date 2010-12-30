@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2010-07-06 | 2010. évi LVIII. törvény | 2007-17-00-00.13 |
 | 2010-11-20 | 2010. évi CV. törvény | 2007-17-00-00.14 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 2007-17-00-00.15 |
+| 2010-12-30 | 2010. évi CLXII. törvény | 2007-17-00-00.16 |

@@ -30,19 +30,19 @@ m) nyilvánvaló hiba: az ügyfél által benyújtott kérelemben, pályázatban
 
 n) mezőgazdasági vagyoni értékű jog:
 
-1. a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/2001/EK, 454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71 EGK és a 2529/2001/EK rendeletek módosításáról szóló 1782/2003/EK tanácsi rendeletben (2003. szeptember 29.) foglaltaknak megfelelően kiosztott, az egységes támogatási rendszerben való részvételre feljogosító támogatási jogosultság,
+1. a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben (a továbbiakban: 73/2009/EK tanácsi rendelet) foglaltaknak megfelelően kiosztott, az egységes támogatási rendszerben való részvételre feljogosító támogatási jogosultság,
 
-2. az 1782/2003/EK rendelet 11. fejezetében meghatározott anyajuhra és anyakecskére vonatkozó támogatási jogosultság, és a 12. fejezetében meghatározott anyatehénre vonatkozó támogatási jogosultság,
+2. a 73/2009/EK rendelet IV. cím 1. fejezet 10. cikkében meghatározott anyajuhra és anyakecskére vonatkozó támogatási jogosultság, és a 11. cikkében meghatározott anyatehénre vonatkozó támogatási jogosultság,
 
-3. a tej- és tejtermékágazatban illeték megállapításáról szóló 1788/2003/EK tanácsi rendelet (2003. szeptember 29.) 5. cikk j) pontjában meghatározott egyéni referenciamennyiség,
+3. a tej- és tejtermékágazatban illeték megállapításáról szóló, 2003. szeptember 29-i 1788/2003/EK tanácsi rendelet 5. cikk j) pontjában meghatározott egyéni referenciamennyiség,
 
-4. a borpiac közös szervezéséről szóló 1493/1999/EK tanácsi rendelet (1999. május 17.) 2. cikkében meghatározott új telepítési jog, és újratelepítési jog, valamint
+4. a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”), 2007. október 22-i 1234/2007/EK tanácsi rendelet 85h–85i. cikkében meghatározott új telepítési jog és újratelepítési jog, valamint
 
 5. jogszabályban mezőgazdasági vagyoni értékű jognak minősített jog;
 
-o) kölcsönös megfeleltetés: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló 2003. szeptember 29-i 1782/2003/EK tanácsi rendelet által előírt kölcsönös megfeleltetés, moduláció, valamint integrált igazgatási és ellenőrzési rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló 796/2004/EK bizottsági rendelet (2004. április 21.) 2. cikk (30) bekezdésében meghatározott fogalom;
+o) kölcsönös megfeleltetés: a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet 2. cikk (31) bekezdésében, valamint a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 1975/2006/EK rendelet 19. cikk (1) bekezdésében meghatározott fogalom;
 
-p) hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó követelmények ellenőrzését, igazolását végző közigazgatási szerv;
+p) hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó előírások és követelmények ellenőrzését, igazolását végző közigazgatási szerv;
 
 q) szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló 2988/95/EK Euratom tanácsi rendelet (1995. december 18.) 1. cikk (2) bekezdésében megállapított tényállás;
 

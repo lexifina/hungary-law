@@ -4,4 +4,4 @@
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv az elháríthatatlan külső ok meglétét intézkedésenként egyedileg, és a következménnyel okozati összefüggésben vizsgálja, és dönt annak elfogadásáról.
 
-(3) Nem tekinthető jogosulatlanul igénybe vett támogatásnak, ha az ügyfél kötelezettségének elháríthatatlan külső ok miatt igazoltan nem tud eleget tenni.
+(3) Nem tekinthető intézkedésben való jogosulatlan részvételnek, ha az ügyfél kötelezettségének elháríthatatlan külső ok miatt igazoltan nem tud eleget tenni.

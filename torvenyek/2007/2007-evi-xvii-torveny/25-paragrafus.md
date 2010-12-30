@@ -10,7 +10,7 @@ d) a felhasználáshoz az érintett ügyfél hozzájárul.
 
 (2) Az egyes intézkedésekben való részvétellel összefüggő adatot a mezőgazdasági és vidékfejlesztési támogatási szerv és a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a jogosulatlanul igénybe vett támogatás végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adóhatóságot, illetve a vámhatóságot a nem nyilvános támogatási adatról, ha az adó-, illetve vámteher vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adóhatóságot, illetve a vámhatóságot a nem nyilvános támogatási adatról, ha az adó-, illetve vámteher vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv – ha az adott szerv az adat kezelésére törvény alapján egyébként jogosult – tájékoztatja a nem nyilvános támogatási adatról:
 

@@ -8,13 +8,13 @@ a) természetes személyazonosító adatait, állampolgárságát, elnevezését
 
 b) képviseletére jogosult nevét, lakcímét;
 
-c) az adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél nem természetes személy, valamint külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát;
+c) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél külföldi természetes személy, vagy külföldi vállalkozás, akkor az illetősége szerinti állam hatósága által megállapított adóazonosító számát; továbbá pénzügyi következményekkel járó intézkedésben részt vevő, támogatást igénylő külföldi természetes személy vagy külföldi vállalkozás esetén az adózás rendjéről szóló törvény szerinti adóazonosító számát;
 
 d) lakcímét, székhelyét, telephelyét vagy telephelyeit;
 
 e) statisztikai számjelét, amennyiben az ügyfél nem természetes személy;
 
-f) levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét), valamint elektronikus kapcsolattartás esetén elektronikus levélcímét;
+f) levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá elektronikus kapcsolattartás esetén elektronikus levélcímét, valamint pénzügyi következményekkel járó intézkedésben részt vevő, támogatást igénylő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét);
 
 g) iratai őrzésének helyét, ha az nem azonos az ügyfél székhelyével vagy lakóhelyével;
 
@@ -38,8 +38,10 @@ c) törvény felhatalmazása alapján, az abban meghatározott körben külön j
 
 d) működteti az ügyfél-nyilvántartás informatikai rendszerét.
 
-(4) A nyilvántartásba vétel iránti kérelmet a mezőgazdasági és vidékfejlesztési támogatási szervnél, valamint a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
+(4) A nyilvántartásba vétel iránti kérelmet az erre rendszeresített hatályban levő nyomtatványon a mezőgazdasági és vidékfejlesztési támogatási szervnél, valamint a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörrel rendelkező hatóság részére biztosítja az ügyfél-nyilvántartási rendszerhez való folyamatos hozzáférést, továbbá feladataik ellátása, a szükséges ellenőrzések lefolytatása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság kölcsönösen biztosítják egymás részére a szakrendszereikhez való hozzáférést.
 
 (6) A mezőgazdasági és vidékfejlesztési támogatási szerv, illetve a hatáskörrel rendelkező hatóság a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
+
+(7) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását a regisztrációs szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél csak egy regisztrációs számot kaphat.

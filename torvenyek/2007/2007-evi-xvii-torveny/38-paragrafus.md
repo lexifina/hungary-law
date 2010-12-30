@@ -4,14 +4,16 @@
 
 (2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
 
-(3) Jogszabály lehetővé teheti, hogy a kérelmet benyújtani, illetve adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen vagy fax útján is lehessen. A regisztrációs szám megállapítása iránti kérelem személyesen is benyújtható.
+(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. A regisztrációs szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
-(5) Amennyiben ezt közvetlenül alkalmazandó közösségi jogi aktusban foglaltak végrehajtása megköveteli, jogszabály, illetve pályázati felhívást tartalmazó közlemény a kérelem vagy más irat benyújtása esetében a mezőgazdasági és vidékfejlesztési támogatási szervhez történő legkorábbi, illetve legkésőbbi beérkezési határidőt is meghatározhat.
+(5) Amennyiben ezt közvetlenül alkalmazandó közösségi jogi aktusban foglaltak végrehajtása megköveteli, jogszabály vagy pályázati felhívást tartalmazó közlemény a kérelem vagy más irat benyújtása esetében a mezőgazdasági és vidékfejlesztési támogatási szervhez történő legkorábbi, illetve legkésőbbi beérkezési határidőt, továbbá – a személyes benyújtás lehetőségének biztosítása mellett – telefax útján történő kötelező benyújtást is meghatározhat.
 
 (6) A kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – kivéve, ha az intézkedésben való részvétel részletes feltételeit meghatározó jogszabály ezt kifejezetten lehetővé teszi – igazolásnak helye nincs.
 
 (7) A kérelem, illetve a pályázat benyújtása, valamint a vonatkozó jogszabályokban, illetve a pályázati felhívásban rögzített feltételek teljesítése az intézkedésben való részvételre nem jelent alanyi jogosultságot, arról csak a rendelkezésre álló jogosultsági keretekre tekintettel hozható döntés.
 
 (8) Az intézkedésekben való részvétel során az ügyfélnek kell a jogosultsági feltételek meglétét hitelt érdemlően bizonyítania. Az ügyfelet terheli továbbá a kérelemmel, illetve a pályázattal összefüggésben tett bármilyen nyilatkozatával, állításával, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított ténnyel szemben a bizonyítási kötelezettség.
+
+(9) Az intézkedésben való részvételre vonatkozó kérelemben az ügyfélnek nyilatkoznia kell arról, hogy tudomásul veszi, hogy amennyiben az intézkedésekkel kapcsolatos lejárt tartozását nem egyenlíti ki, a fizetési számláját vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.

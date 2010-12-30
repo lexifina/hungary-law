@@ -2,7 +2,7 @@
 
 81. § (1) Felhatalmazást kap a Kormány, hogy:
 
-a) az EMGA-ból, az EMVA-ból, az EHA-ból támogatott intézkedésekkel kapcsolatos pénzügyi, számviteli, lebonyolítási, biztosítékkezelési rendet,
+a) a törvény hatálya alá tartozó intézkedésekkel kapcsolatos pénzügyi, számviteli, lebonyolítási, biztosítékkezelési rendet,
 
 b)
 
@@ -26,7 +26,7 @@ a) a törvény hatálya alá tartozó egyes intézkedések igénybevételével, 
 
 b) a mezőgazdasági vagyoni értékű jogok kiosztásának részletes szabályait, illetve nemzeti tartalékának mértékét,
 
-c) a mezőgazdasági és vidékfejlesztési szaktanácsadási rendszer felállítására, működésére, valamint a szaktanácsadók képzettségére vonatkozó részletes szabályokat,
+c) a mezőgazdasági és vidékfejlesztési szaktanácsadási rendszer felállítására, működésére, a területi szaktanácsadási központként végzett tevékenység engedélyezésére, valamint a szaktanácsadók képzettségére vonatkozó részletes szabályokat,
 
 d) az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
 
@@ -34,7 +34,7 @@ e) a helyi akciócsoportok elismerési rendjének részletes szabályait,
 
 f) a nemzeti vidéki hálózat felállításával kapcsolatos részletes szabályokat,
 
-g) az EMVA, illetve az EHA esetén alkalmazandó monitoring részletes szabályait, illetve a monitoringindikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
+g) az EMVA vagy az EHA esetén, valamint az EMGA-ból támogatott Nemzeti Diverzifikációs Program intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét
 
 h) a pályázati eljárás részletes szabályait,
 
@@ -52,7 +52,13 @@ n) a kölcsönös megfeleltetés végrehajtásához kialakítandó nyilvántart�
 
 o) az EMVA-ból és az EHA-ból finanszírozott intézkedések esetében a legkisebb, a jogutódlás vagy a kötelezettségátvállalás tárgyát képező részt,
 
-p) az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat
+p) az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
+
+q) a mesterséges körülmények megállapításának eseteit,
+
+r) az ügyfél-nyilvántartás módját és feltételeit, továbbá az ügyfél-nyilvántartással kapcsolatos eljárás részletes szabályait,
+
+s) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait
 
 rendeletben állapítsa meg.
 

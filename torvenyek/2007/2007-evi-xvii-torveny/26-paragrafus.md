@@ -14,7 +14,9 @@ e) intervenciós raktárregiszter,
 
 f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszere,
 
-g) monitoring adat-nyilvántartási rendszer [az a)–g) pontok a továbbiakban együtt: nyilvántartási rendszerek].
+g) monitoring adat-nyilvántartási rendszer,
+
+h) tevékenységihely-nyilvántartási rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -54,7 +56,7 @@ p) az egyenlő bánásmód követelményének érvényesülését ellenőrző k�
 
 q) az I. és II. Nemzeti Fejlesztési Tervhez kapcsolódó információs rendszerekből,
 
-r) az adóhatóságtól az adóazonosító nyilvántartásból,
+r) az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEÁOR' 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
 
 s) a Tenyészet Információs Rendszerből,
 
@@ -66,10 +68,14 @@ v) a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
 
 w) az Országos Nyugdíjbiztosítási Főigazgatóság adattárából az ügyfelek sajátjogú nyugellátásáról,
 
-x) az egyéni vállalkozók nyilvántartásából.
+x) az egyéni vállalkozók nyilvántartásából,
+
+y) a vámhatóság által kezelt jövedéki adatbázisból,
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv a kölcsönös megfeleltetés körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszerek működtetése érdekében a hatáskörrel rendelkező hatóság részére a 26. § (1) bekezdés b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az ellenőrzések lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
 
 (6) Az (1) és (3) bekezdés szerinti nyilvántartásokban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
+
+(7) A mezőgazdasági és vidékfejlesztési támogatási szerv az egyablakos vámügyintézés körébe tartozó eljárásokhoz kapcsolódó nyilvántartási rendszerek működtetése érdekében a vámhatóság részére a 26. § (1) bekezdés a)–b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az eljárások lefolytatásához és kiértékeléséhez szükséges mértékben átadja.

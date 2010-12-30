@@ -10,7 +10,7 @@ b) a mezőgazdasági vagyoni értékű jogra való jogosultság megállapítás�
 
 c) a nyilvántartásba vétellel,
 
-d) a mezőgazdasági vagyoni értékű jog átruházásához kapcsolódó hatósági hozzájárulással, valamint
+d) a mezőgazdasági vagyoni értékű jog átruházásával, átengedésével, nyilvántartásban történő átvezetésével, valamint
 
 e) a hatósági engedélyezéssel
 

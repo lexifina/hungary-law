@@ -10,7 +10,7 @@ b) másik tagállamban kiállított exportbizonyítvány alapján export-visszat
 
 c) export-visszatérítés megállapítására szolgáló eljárás keretében ajánlat, valamint
 
-d) intervenciós értékesítési vagy felvásárlási eljárás során ajánlat
+d) intervenciós felvásárlási, tárolási vagy értékesítési eljárás során ajánlat
 
 benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél eljárást kezdeményez.
 

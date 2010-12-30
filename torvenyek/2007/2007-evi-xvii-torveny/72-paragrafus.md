@@ -1,6 +1,6 @@
 ## Egyes támogatások igénybevételéből való kizárás
 
-72. § (1) Ha közvetlenül alkalmazandó közösségi jogi aktus eltérően nem rendelkezik, az az ügyfél, aki jogosulatlanul vette igénybe a támogatást, illetve a mulasztási bírság alapjául szolgáló cselekményt szándékosan, illetőleg ismételten valósítja meg, legfeljebb öt évre kizárható egyes támogatások igénybevételéből.
+72. § (1) Ha közvetlenül alkalmazandó közösségi jogi aktus eltérően nem rendelkezik, az az ügyfél, aki intézkedésben jogosulatlanul vett részt, illetve a mulasztási bírság alapjául szolgáló cselekményt szándékosan, illetőleg ismételten valósítja meg, legfeljebb öt évre kizárható egyes támogatások igénybevételéből.
 
 (2) Ismételten valósítja meg a cselekményt az, aki öt éven belül legalább két alkalommal követi el a jogkövetkezmény alapjául szolgáló cselekményt.
 

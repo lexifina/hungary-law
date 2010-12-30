@@ -4,7 +4,7 @@
 
 (2) Az EMVA-ból és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában az elsőfokú határozat meghozatalát követően a támogatási kérelem rangsort nem érintő adatai módosításának legkésőbbi benyújtási határideje a kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző harmincadik nap. Rangsort érintő adatnak minősül minden olyan adat, érték, vállalás, ami szerepel az adott intézkedés értékelési szempontjai között.
 
-(3) Az EMVA-ból, és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kifizetési kérelemben szereplő adatokra, a kifizetési kérelemhez csatolt dokumentumokra nézve módosítási kérelem a kifizetési kérelem benyújtására nyitva álló időszakon belül, legkésőbb az elsőfokú eljárás során hozott kifizetési döntés kézhezvételéig nyújtható be.
+(3) Az EMVA-ból, és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kifizetési kérelemben szereplő adatokra, a kifizetési kérelemhez csatolt dokumentumokra nézve módosítási kérelem a kifizetési kérelem benyújtására nyitva álló időszakon belül nyújtható be.
 
 (4) Az EMGA-ból finanszírozott, valamint a tagállami hatáskörben hozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kérelem benyújtási határidejét követően a benyújtott kérelemre vonatkozóan nem nyújtható be olyan módosítási kérelem, ami az eredeti kérelemben megjelölt igényt, támogatási alapot vagy összeget meghaladja, kivéve ha
 

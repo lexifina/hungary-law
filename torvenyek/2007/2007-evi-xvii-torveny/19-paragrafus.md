@@ -1,6 +1,6 @@
 ## A hatáskörrel rendelkező hatóság feladatai
 
-19. § (1) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés körébe tartozó ellenőrzéseket külön jogszabály alapján folytatja le.
+19. § (1) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés körébe tartozó ellenőrzéseket végez.
 
 (2) A hatáskörrel rendelkező hatóság az ellenőrzések eredményeiről a mezőgazdasági és vidékfejlesztési támogatási szervet a (3)–(5) bekezdésben foglaltaknak megfelelően tájékoztatja.
 

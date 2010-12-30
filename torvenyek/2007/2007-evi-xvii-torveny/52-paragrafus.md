@@ -8,4 +8,8 @@
 
 (5) Az ellenőr a helyszíni ellenőrzés során köteles a tényeket, körülményeket, adatokat rögzíteni, és a jelen levő ügyfelet, illetve annak képviselőjét az ellenőrzés során tett megállapításairól tájékoztatni.
 
-(6) Az ügyfélre nézve terhelő megállapításokat tartalmazó jegyzőkönyv egy másolati példányát az ellenőr – amennyiben az ehhez szükséges technikai feltételek adottak – köteles az ügyfélnek a helyszínen átadni vagy azt az ügyfél részére a jegyzőkönyv lezárásától számított tíz munkanapon belül megküldeni, amelyre az ügyfél öt munkanapon belül észrevételt tehet.
+(6) Az ügyfélre nézve terhelő megállapításokat tartalmazó jegyzőkönyv egy másolati példányát az ellenőr – amennyiben az ehhez szükséges technikai feltételek adottak – köteles az ügyfélnek a helyszínen átadni vagy azt az ügyfél részére a jegyzőkönyv lezárásától számított tizenöt napon belül megküldeni, amelyre az ügyfél nyolc napon belül észrevételt tehet.
+
+(7) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyféllel szerződéses kapcsolatban álló harmadik személynél az intézkedésben való részvétellel összefüggésben kapcsolódó ellenőrzést végezhet.
+
+(8) Amennyiben a tényállás tisztázását befolyásolja a helyszíni ellenőrzés során vagy a jegyzőkönyvre írásban, határidőn belül az ügyfél által előterjesztett észrevétel, a mezőgazdasági támogatási szerv a jegyzőkönyvet módosítja vagy ismételt ellenőrzés keretében kiegészítő jegyzőkönyv felvételével tisztázza a tényállást. Az ellenőrzést legfeljebb az észrevétel kézbesítésétől, szóban előterjesztett észrevétel esetén annak jegyzőkönyvbe vételének napjától számított harminc napig lehet folytatni, ha az ügyfél észrevételei indokolják vagy a határozat meghozatalához a tényállás tisztázása válik szükségessé. Ilyen esetben kiegészítő jegyzőkönyvet kell készíteni.
