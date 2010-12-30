@@ -1,0 +1,3 @@
+18. § A Tv. 37. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1) bekezdésben foglaltakra is figyelemmel a mezőgazdasági és vidékfejlesztési támogatási szervnek közzé kell tennie a rendszeresített nyomtatványokat, az ahhoz kapcsolódó eljárási tájékoztatókat, és gondoskodnia kell arról, hogy azok az ügyfelek számára megfelelő időben, az ügyfelek által elérhető helyen álljanak rendelkezésre. A haladéktalan szabályozást igénylő esetek kivételével az intézkedésre vonatkozó jogszabály kihirdetését követően, annak eltérő rendelkezése hiányában, a kérelmek benyújtására rendszeresített nyomtatványokat a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelembenyújtási időszakot megelőző tíz nappal közzéteszi a honlapján.”

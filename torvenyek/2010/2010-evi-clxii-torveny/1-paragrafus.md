@@ -1,0 +1,5 @@
+1. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 5. §-a a következő g) ponttal egészül ki:
+
+[A piaci szereplők gazdálkodása kiszámíthatóságának érdekében biztosítani kell, hogy:]
+
+„g) a törvény hatálya alá tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat tartalmazó, új intézkedést bevezető jogszabályt a kérelmek benyújtására nyitva álló időtartam kezdő napját legalább két hónappal, egyéb esetekben jogszabályt a kérelmek benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően kell kihirdetni. Haladéktalan szabályozást igénylő esetekben ezen időtartam – a jogalkotás rendjére vonatkozó szabályozás figyelembevétele mellett – lerövidíthető úgy, hogy haladéktalan szabályozást igénylő esetnek minősül, ha a szabályozással érintetteknek a jogszabály mielőbbi hatálybalépéséhez különösen méltányolható érdeke fűződik.”
