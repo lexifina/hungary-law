@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-101-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-101-00-00.5 |
 | 2010-07-05 | 2010. évi LXVII. törvény | 2008-101-00-00.6 |
+| 2010-12-30 | 2010. évi CLXII. törvény | 2008-101-00-00.7 |
