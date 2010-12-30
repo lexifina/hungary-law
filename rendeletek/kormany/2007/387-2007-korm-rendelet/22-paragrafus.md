@@ -20,7 +20,7 @@ b) aki az átmeneti járadék, a rendszeres szociális járadék vagy a bányás
 
 (6) A (4) bekezdésben foglalt személyek járadékra való jogosultságának megszüntetésére e rendelet 17. §-a (1) bekezdésének a)–d), f–g) és i)–j) pontjait, 17. §-ának (2)–(6) bekezdését és 18. §-át kell alkalmazni.
 
-(7)[^25] A (4) bekezdésben foglalt személyek járadékra való jogosultságának a keresőtevékenységből származó kereset, jövedelem mértéke miatti megszüntetésére 2010. december 31-éig a 2007. december 31-én hatályos rendelkezéseket, azt követően e rendelet 17. §-a (1) bekezdésének e) pontját, 17. §-ának (6) bekezdését és 18. §-át kell alkalmazni.
+(7)[^25] A (4) bekezdésben foglalt személyek járadékra való jogosultságának a keresőtevékenységből származó kereset, jövedelem mértéke miatti megszüntetésére 2012. január 1-jét megelőzően a 2007. december 31-én hatályos rendelkezéseket, azt követően e rendelet 17. §-a (1) bekezdésének e) pontját, 17. §-ának (6) bekezdését és 18. §-át kell alkalmazni.
 
 (8) A munkaügyi központnak azzal az együttműködésre köteles járadékossal kell álláskeresési megállapodást kötnie, akinek rendszeres szociális járadékra való jogosultságát 2008. december 31-ét követően állapítják meg.
 
@@ -39,5 +39,5 @@ b) aki az átmeneti járadék, a rendszeres szociális járadék vagy a bányás
 (15) A (14) bekezdést az e rendelet hatálybalépésekor szünetelő kiegészítés ismételt folyósítása során is alkalmazni kell.
 
 [^24]: A 19–21. § e rendelet 23. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 22. § (7) bekezdése a 309/2009. (XII. 28.) Korm. rendelet 3. § (3) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 3. § (2) bekezdése alapján a 2009. december 31-én folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
+[^25]: A 22. § (7) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
 [^26]: A 22. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 610. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
