@@ -1,0 +1,3 @@
+37. § Az Lt. 69. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nyilvános repülőtér, a lajstromba bejegyzett polgári légijármű, a lajstromozásra nem kötelezett polgári légijármű üzemben tartása, valamint polgári légiforgalmi irányító szolgálat által légiforgalmi irányítói tevékenység– harmadik személynek okozott kár megtérítése céljából – felelősségbiztosítási fedezet fennállása esetén végezhető. A nyilvános repülőterek esetében a felelősségbiztosítási fedezet összegét a tárgyévet megelőző három év statisztikai adatai alapján számított átlagos éves utasforgalom alapján kell megállapítani.”

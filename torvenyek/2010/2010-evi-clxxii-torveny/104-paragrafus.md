@@ -1,0 +1,1 @@
+104. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 9. § (2) bekezdésében a „beszerezni” szövegrész helyébe a „kikérni” szöveg, 13. §-ában a „10 munkanapon” szövegrész helyébe a „tizenöt napon” szöveg, 16. § (2) bekezdésében az „öt munkanapon” szövegrész helyébe a „nyolc napon” szöveg lép.

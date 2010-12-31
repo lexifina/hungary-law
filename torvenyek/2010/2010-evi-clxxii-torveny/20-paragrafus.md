@@ -1,0 +1,3 @@
+20. § A Kkt. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az úthálózat közutakból és a közforgalom elől el nem zárt magánutakból áll. Az országos közutak az állam tulajdonában, a helyi közutak a települési önkormányzatok tulajdonában vannak. Magánútnak minősülnek a természetes személyek, jogi személyek és a jogi személyiséggel nem rendelkező gazdasági társaságok tulajdonában álló területen lévő utak. Magánútnak minősül továbbá az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt út, továbbá az állam tulajdonában, valamint a vízügyi igazgatási szerv kezelésében lévő elsőrendű árvízvédelmi fővonalakon a kerékpáros forgalom számára megnyitott út.”

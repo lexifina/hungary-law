@@ -1,0 +1,1 @@
+103. § A víziközlekedésről szóló 2000. évi XLII. törvény 34. § (6) bekezdésében a „tizenöt munkanapon” szövegrész helyébe a „húsz napon” szöveg, a 41/A. § (5) bekezdés a) pontjában a „tizenöt munkanapon” szövegrész helyébe a „húsz napon” szöveg, a „tizenötödik munkanapon” szövegrész helyébe a „huszadik napon” szöveg lép.
