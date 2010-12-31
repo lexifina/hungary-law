@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-11-20-1
 | 2010-01-01 | 2009-11-20-15.2 | 11/2009. (VII. 10.) HM rendelet |
 | 2010-10-08 | 2009-11-20-15.3 | 15/2010. (X. 5.) HM rendelet |
 | 2010-10-20 | 2009-11-20-15.4 | 15/2010. (X. 5.) HM rendelet |
+| 2010-12-31 | 2009-11-20-15.5 | 22/2009. (XII. 29.) HM rendelet |
