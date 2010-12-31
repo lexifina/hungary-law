@@ -16,10 +16,11 @@ f) 6. mellékletében meghatározott adattartalommal rendszeresített űrlapon k
 
 g) 7. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a végrehajtás elrendelése iránti papír alapú kérelmet,
 
-h) 8. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a végrehajtási lap visszavonása iránti papír alapú kérelmet,
+h)[^1]
 
-i)[^1] 9. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a fizetési meghagyás kibocsátása iránti egyszerűsített, papír alapú kérelmet.
+i)[^2] 9. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a fizetési meghagyás kibocsátása iránti egyszerűsített, papír alapú kérelmet.
 
 (2) Az (1) bekezdésben foglalt űrlapok rendszeresítése a Magyar Országos Közjegyzői Kamara (a továbbiakban: közjegyzői kamara) feladata.
 
-[^1]: Az 1. § (1) bekezdés i) pontja a 17. § (2) bekezdése alapján 2011. január 10-én lép hatályba.
+[^1]: Az 1. § (1) bekezdés h) pontját a 28/2010. (XII. 31.) KIM rendelet 8. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés i) pontja a 17. § (2) bekezdése alapján 2011. január 10-én lép hatályba.
