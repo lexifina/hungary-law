@@ -34,41 +34,53 @@
 
 | 17. | 25C | PÉNZÜGYI VÁLLALKOZÁSOK – A pénzmosás megelőzésével és a terrorizmus finanszírozásával kapcsolatos adatok | N, A |
 
-| 18. | 25DF | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Fogyasztási hitel | V |
+| 18. | 25DA | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel – és pénzügyi lízing termékek – Áruhitel | V |
 
-| 19. | 25DH | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Hitelkártyák | V |
+| 19. | 25DC | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel – és pénzügyi lízing termékek – Gépjárműhitel | V |
 
-| 20. | 25DI | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Ingatlanlízing | V |
+| 20. | 25DG | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel – és pénzügyi lízing termékek – Gépjárműlízing |  |
 
-| 21. | 25DJ | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Szabad felhasználású jelzáloghitel | V |
+| 21. | 25DH | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Hitelkártyák | V |
 
-| 22. | 25DL | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Lakáscélú hitel | V |
+| 22. | 25DI | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Ingatlanlízing | V |
 
-| 23. | 25DM | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Megtakarítás fedezete mellett nyújtott hitel | V |
+| 23. | 25DJ | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Szabad felhasználású jelzáloghitel | V |
 
-| 24. | 26A | PÉNZÜGYI VÁLLALKOZÁSOK – Minősített követelésállomány alakulása | N, A |
+| 24. | 25DK | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Személyi kölcsön | V |
 
-| 25. | 27A | PÉNZÜGYI VÁLLALKOZÁSOK – A nyilvántartásba vett panaszbejelentések felmérése | N, A |
+| 25. | 25DL | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Ingatlan célú hitel | V |
 
-| 26. | PVVDN | PÉNZÜGYI VÁLLALKOZÁS felügyeleti változó díj számítása (negyedéves) | N |
+| 26. | 25DM | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízing termékek – Megtakarítás fedezete mellett nyújtott hitel | V |
 
-| 27. | PVFVDN | EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE felügyeleti változó díj számítása (negyedéves) | N |
+| 27. | 26A | PÉNZÜGYI VÁLLALKOZÁSOK – Minősített követelésállomány alakulása | N, A |
 
-| 28. | PVAD | PÉNZÜGYI VÁLLALKOZÁS felügyeleti alapdíj számítása (éves) | É |
+| 28. | 27A | PÉNZÜGYI VÁLLALKOZÁSOK – A nyilvántartásba vett panaszbejelentések felmérése | N, A |
 
-| 29. | PVFAD | EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE felügyeleti alapdíj számítása (éves) | É |
+| 29. | PVVDN | PÉNZÜGYI VÁLLALKOZÁS felügyeleti változó díj számítása (negyedéves) | N |
 
-| 30. | KTAPVE1 | INTÉZMÉNYI ALAPADATOK | J, V |
+| 30. | PVFVDN | EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE felügyeleti változó díj számítása (negyedéves) | N |
 
-| 31. | KTAPVE2 | BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK | J, V |
+| 31. | PVAD | PÉNZÜGYI VÁLLALKOZÁS felügyeleti alapdíj számítása (éves) | É |
 
-| 32. | KTAPVE3 | TULAJDONOS ADATAI | J, V |
+| 32. | PVFAD | EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE felügyeleti alapdíj számítása (éves) | É |
 
-| 33. | KTAPVE4 | MINŐSÍTETT BEFOLYÁS | J, V |
+| 33. | KTAPVE1 | INTÉZMÉNYI ALAPADATOK | J, V |
 
-| 34. | KTAPVE5 | KÖNYVVIZSGÁLÓ ADATAI | J, V |
+| 34. | KTAPVE2 | BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK | J, V |
 
-| 35. | KTAPVE6 | KISZERVEZÉS ADATOK | J, V |
+| 35. | KTAPVE3 | TULAJDONOS ADATAI | J, V |
+
+| 36. | KTAPVE4 | MINŐSÍTETT BEFOLYÁS | J, V |
+
+| 37. | KTAPVE5 | KÖNYVVIZSGÁLÓ ADATAI | J, V |
+
+| 38. | KTAPVE6 | KISZERVEZÉS ADATOK | J, V |
+
+| 39. | HPTPK | PÉNZÜGYI KÖZVETÍTŐK ADATAI | V |
+
+| 40. | PKTEV | BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ KÖZVETÍTŐK TEVÉKENYSÉGI HELYE | V |
+
+| 41. | PKVEZ | FÜGGETLEN KÖZVETÍTŐK VEZETŐ ÁLLÁSÚ SZEMÉLYEI | V |
 
 ## ahol
 
@@ -84,19 +96,27 @@
 
 5. § (1) E rendelet 2009. január 1. napján lép hatályba azzal, hogy rendelkezéseit először a 2009. év első negyedévéről készített jelentésnél kell alkalmazni.
 
-(2)–(3)[^4]
+(2)[^8] E rendeletnek a pénzügyi vállalkozások által a Pénzügyi Szervezetek Állami Felügyelete részére szolgáltatandó adatok köréről és az adatszolgáltatás módjáról szóló 46/2008. (XII. 31.) PM rendelet módosításáról szóló 22/2010. (XII. 31.) NGM rendelettel módosított rendelkezéseit és mellékletét először a 2011. január hónapra vonatkozó jelentés esetében kell alkalmazni.
 
-(4)[^5]
+(3)[^9]
 
-Melléklet a 46/2008. (XII. 31.) PM rendelethez[^6]
+(4)[^10]
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
+Melléklet a 46/2008. (XII. 31.) PM rendelethez[^11]
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
 20B
 
 A PÉNZÜGYI VÁLLALKOZÁS RENDSZERES NEGYEDÉVES BESZÁMOLÓJA
 
-| 21A PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Eszközök Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+21A
+
+PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE – Eszközök
+
+| Nagyságrend: ezer forint |
 
 | Sor- szám | PSZÁF kód | Megnevezés | Bruttó (nyilvántartási, bekerülési, beszerzési, stb.) érték | Értékcsökkenés, értékvesztés | Értékelési különbözet | Könyv szerinti (nettó) érték összesen | Mód |
 
@@ -236,13 +256,19 @@ A PÉNZÜGYI VÁLLALKOZÁS RENDSZERES NEGYEDÉVES BESZÁMOLÓJA
 
 | 065 | 21A92 | Befektetett eszközök (5+10+15+25+28+33+34+37+40+43+(58 és 59-ből az idetartozó tétel értéke)) |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 21B PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Források Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sorszám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód |
+21B
+
+PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE – Források
+
+| Nagyságrend: ezer forint |
+
+| Sor- szám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód |
 
 | 1 | 2 | 3 | 4 |
 
@@ -382,11 +408,17 @@ A PÉNZÜGYI VÁLLALKOZÁS RENDSZERES NEGYEDÉVES BESZÁMOLÓJA
 
 | 067 | 21B93 | Hosszú lejáratú kötelezettségek (6+13+17+28+31+34+37+48) |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 21C PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖTELEZETTSÉGEI Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+21C
+
+PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖTELEZETTSÉGEI
+
+| Nagyságrend: ezer forint |
 
 | Sorszám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód |
 
@@ -438,11 +470,17 @@ A PÉNZÜGYI VÁLLALKOZÁS RENDSZERES NEGYEDÉVES BESZÁMOLÓJA
 
 | 022 | 21C3 | Továbbengedményezett fedezetek és biztosítékok |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 21D PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖVETELÉSEI Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+21D
+
+PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖVETELÉSEI
+
+| Nagyságrend: ezer forint |
 
 | Sorszám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód |
 
@@ -518,17 +556,21 @@ A PÉNZÜGYI VÁLLALKOZÁS RENDSZERES NEGYEDÉVES BESZÁMOLÓJA
 
 | 034 | 21D5 | Függővé tett kamatok és kamat jellegű jutalékok |  |  |  |  |
 
-|  | Jelmagyarázat |
+| Jelmagyarázat |
 
-|  |  | Tilos |
+|  | Tilos |
 
-Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| 21E PÉNZÜGYI VÁLLALKOZÁSOK - TÁJÉKOZTATÓ ADATOK (speciális tevékenységekkel kapcsolatosan) Nagyságrend: ezer forint |
+21E
 
-| Sorszám | PSZÁF kód | Megnevezés | Tárgynegyedévi | Halmozott (tárgyév elejétől kumulált) | Mód. |
+PÉNZÜGYI VÁLLALKOZÁSOK - TÁJÉKOZTATÓ ADATOK (speciális tevékenységekkel kapcsolatosan)
 
-| db | érték | db | érték |
+| Nagyságrend: ezer forint |
+
+| Sor- szám | PSZÁF kód | Megnevezés | Tárgynegyedévi | Halmozott (tárgyév elejétől kumulált) | Mód. |
+
+| db | érték | db | érték |  |
 
 | 1 | 2 | 3 | 4 | 5 |
 
@@ -668,15 +710,21 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  | Jelmagyarázat |
 
-|  |  | Tilos |
+|  | Tilos |
 
-| 22A PÉNZÜGYI VÁLLALKOZÁSOK EREDMÉNYKIMUTATÁSA Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-|  |  |  | Tárgy negyedév | Halmozott | Mód |
+22A
 
-| Sorszám | PSZÁF kód | Megnevezés | 1 | 2 | 3 |
+PÉNZÜGYI VÁLLALKOZÁSOK EREDMÉNYKIMUTATÁSA
 
-|  |  |  | a | b | z |
+| Nagyságrend: ezer forint |
+
+| Sor- szám | PSZÁF kód | Megnevezés | Tárgy negyedév | Halmozott | Mód |
+
+| 1 | 2 | 3 |
+
+| a | b | z |
 
 | 001 | 22A1 | Kamatkülönbözet (2-3) |  |  |  |
 
@@ -804,21 +852,27 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 063 | 22A63 | Jóváhagyott osztalék és részesedés |  |  |  |
 
-|  | Jelmagyarázat |
+| Jelmagyarázat |
 
-|  |  | Tilos |
+|  | Tilos |
 
-| 23AA PÉNZÜGYI VÁLLALKOZÁSOK - Mérlegadatok részletezése Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-|  |  |  | Bruttó (nyilvántartási, bekerülési, beszerzési, stb.) érték | Értékvesztés | Értékelési különbözet | Könyv szerinti (nettó) érték összesen | Mód. |
+23AA
 
-|  |  |  |  | Deviza |  |
+PÉNZÜGYI VÁLLALKOZÁSOK - Mérlegadatok részletezése
 
-| Sor- szám | PSZÁF kód | Megnevezés | Forint | deviza-tétel | deviza alapú forint-tétel | Összesen (a+b+c) |
+| Nagyságrend: ezer forint |
 
-|  |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Sor- szám | PSZÁF kód | Megnevezés | Bruttó (nyilvántartási, bekerülési, beszerzési, stb.) érték | Érték- vesztés | Értékelési különbözet | Könyv szerinti (nettó) érték összesen | Mód. |
 
-|  |  |  | a | b | c | d | e | f | g | z |
+|  | Deviza | Összesen (a+b+c) |
+
+| Forint | deviza-tétel | deviza alapú forint-tétel |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+
+| a | b | c | d | e | f | g | z |
 
 | 001 | 23AA0 | HITELINTÉZETEKKEL SZEMBENI KÖVETELÉSEK |  |  |  |  |  |  |  |  |
 
@@ -840,7 +894,7 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 010 | 23AA121 | lakosság (11+17+18+19) |  |  |  |  |  |  |  |  |
 
-| 011 | 23AA1211 | lakossági fogyasztási hitelek összesen (12+.+16) |  |  |  |  |  |  |  |  |
+| 011 | 23AA1211 | lakossági fogyasztási hitelek összesen (12+⬜.+16) |  |  |  |  |  |  |  |  |
 
 | 012 | 23AA12111 | gépjármű vásárlási hitelek |  |  |  |  |  |  |  |  |
 
@@ -930,21 +984,27 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 055 | 23AA4231 | ebből: államháztartás |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 23AB PÉNZÜGYI VÁLLALKOZÁSOK - Ügyféllel szembeni követelések részletezése Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-|  |  |  | Bruttó (nyilvántartási, bekerülési, beszerzési, stb.) érték | Értékvesztés | Értékkülönbözet | Könyv szerinti (nettó) érték összesen | Mód. |
+23AB
 
-|  |  |  | Forint | Deviza | Összesen (a+b+c) |
+PÉNZÜGYI VÁLLALKOZÁSOK - Ügyféllel szembeni követelések részletezése
 
-| Sorszám | PSZÁF kód | Megnevezés | deviza-tétel | deviza alapú forint-tétel |
+| Nagyságrend: ezer forint |
 
-|  |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Sor- szám | PSZÁF kód | Megnevezés | Bruttó (nyilvántartási, bekerülési, beszerzési, stb.) érték | Értékvesztés | Értékkülönbözet | Könyv szerinti (nettó) érték összesen | Mód. |
 
-|  |  |  | a | b | c | d | e | f | g | z |
+| Forint | Deviza | Összesen (a+b+c) |
+
+| deviza-tétel | deviza alapú forint-tétel |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+
+| a | b | c | d | e | f | g | z |
 
 | 001 | 23AB1 | ÜGYFELEKKEL SZEMBENI KÖVETELÉSEK (2+16+30) |  |  |  |  |  |  |  |  |
 
@@ -1010,13 +1070,19 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 032 | 23AB132 | ebből: faktoring követelés |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 23B PÉNZÜGYI VÁLLALKOZÁSOK - LEJÁRATI ÖSSZHANG ELEMZÉS Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sorszám | PSZÁF kód | Megnevezés | Hátralévő lejárat szerint (Cash- flow alapon) |  |
+23B
+
+PÉNZÜGYI VÁLLALKOZÁSOK - LEJÁRATI ÖSSZHANG ELEMZÉS
+
+| Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Hátralévő lejárat szerint (Cash- flow alapon) |  |  |
 
 | Lejárt | 0-30 nap | 31-90 nap | 91-365 nap | 1-2 év között | 2-5 év között | 5 év felett | Lejárat nélkül | CT | Összesen (a+...+h-/+i) | Mód. |
 
@@ -1082,11 +1148,17 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 029 | 23B42 | Halmozott nettó bázispozíció |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+| Jelmagyarázat |
 
-|  |  | Tilos |
+|  | Tilos |
 
-| 23C PÉNZÜGYI VÁLLALKOZÁSOK - Ügyfelekkel szembeni tőkekövetelések alakulása Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+23C
+
+PÉNZÜGYI VÁLLALKOZÁSOK - Ügyfelekkel szembeni tőkekövetelések alakulása
+
+| Nagyságrend: ezer forint |
 
 | Sorszám | PSZÁF kód | Megnevezés | Nyitó állomány | Növekedés | Csökkenés | Záró állomány |  |
 
@@ -1120,17 +1192,23 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 012 | 23C52 | Egyéb tevékenység darabszáma |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+| Jelmagyarázat |
 
-|  |  | Tilos |
+|  | Tilos |
 
-| 23D PÉNZÜGYI VÁLLALKOZÁSOK - Ügyletstruktúra (hátralévő lejárat szerint) Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sorszám | PSZÁF kód | Megnevezés | 60 hónap felett | 60 - 36 hónap között | 36 - 12 hónap között | 12 hónap alatt | Összesen érték | Összesen db |  |
+23D
 
-| Ft alap | Dev. alap | Ft alap | Dev. alap | Ft alap | Dev. alap | Ft alap | Dev. alap |  |
+PÉNZÜGYI VÁLLALKOZÁSOK - Ügyletstruktúra (hátralévő lejárat szerint)
 
-| érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | Mód. |
+| Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | 60 hónap felett | 60 - 36 hónap között | 36 - 12 hónap között | 12 hónap alatt | Összesen érték | Összesen db | Mód. |
+
+| Ft alap | Dev. alap | Ft alap | Dev. alap | Ft alap | Dev. alap | Ft alap | Dev. alap |
+
+| érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 
@@ -1150,15 +1228,21 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 24A PÉNZÜGYI VÁLLALKOZÁS - Portfolió elemzése - Követelés állomány faktoring nélkül (lejárat óta eltelt idő) Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-|  |  |  | Ügyletszám (db) | Tőke | Kamat | Egyéb követelés | Összesen | Értékvesztés | Nettó érték összesen | Mód |
+24A
 
-| Sorszám | PSZÁF kód | Megnevezés | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+PÉNZÜGYI VÁLLALKOZÁS - Portfolió elemzése - Követelés állomány faktoring nélkül (lejárat óta eltelt idő)
 
-|  |  |  | a | b | c | d | e | f | g | z |
+| Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Ügyletszám (db) | Tőke | Kamat | Egyéb követelés | Összesen | Értékvesztés | Nettó érték összesen | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+
+| a | b | c | d | e | f | g | z |
 
 | 001 | 24A0 | Követelések összesen ( 24A1+2+3 ) |  |  |  |  |  |  |  |  |
 
@@ -1168,7 +1252,7 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 003 | 24A11 | Nem lejárt eredeti szerződés szerint |  |  |  |  |  |  |  |  |
 
-| 004 | 24A12 | Újratárgyalt |  |  |  |  |  |  |  |  |
+| 004 | 24A12 | Átstrukturált |  |  |  |  |  |  |  |  |
 
 | 005 | 24A13 | Lejárt összesen |  |  |  |  |  |  |  |  |
 
@@ -1188,7 +1272,7 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 012 | 24A21 | Nem lejárt eredeti szerződés szerint |  |  |  |  |  |  |  |  |
 
-| 013 | 24A22 | Újratárgyalt |  |  |  |  |  |  |  |  |
+| 013 | 24A22 | Átstrukturált |  |  |  |  |  |  |  |  |
 
 | 014 | 24A23 | Lejárt összesen |  |  |  |  |  |  |  |  |
 
@@ -1208,7 +1292,7 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 021 | 24A31 | Nem lejárt eredeti szerződés szerint |  |  |  |  |  |  |  |  |
 
-| 022 | 24A32 | Újratárgyalt |  |  |  |  |  |  |  |  |
+| 022 | 24A32 | Átstrukturált |  |  |  |  |  |  |  |  |
 
 | 023 | 24A33 | Lejárt összesen |  |  |  |  |  |  |  |  |
 
@@ -1222,13 +1306,19 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 028 | 24A335 | 1 év feletti |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |  |
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |  |  |  |  |  |  |
 
-| 24B PÉNZÜGYI VÁLLALKOZÁS - Portfolió elemzése - faktoring állomány (lejárat óta eltelt idő) Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sorszám | PSZÁF kód | Megnevezés | Ügyletszám (db) | Eredeti tőkekövetelés | A megvásárláskori tőkekövetelés | Követelés összesen | Beszerzési érték | Egyéb követelés | Értékvesztés | Értékelési különbözet | Nettó érték összesen | Mód. |
+24B
+
+PÉNZÜGYI VÁLLALKOZÁS - Portfolió elemzése - faktoring állomány (lejárat óta eltelt idő)
+
+| Nagyságrend: ezer forint |
+
+| Sor- szám | PSZÁF kód | Megnevezés | Ügyletszám (db) | Eredeti tőkekövetelés | A megvásárláskori tőkekövetelés | Követelés összesen | Beszerzési érték | Egyéb követelés | Értékvesztés | Értékelési különbözet | Nettó érték összesen | Mód. |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
@@ -1242,7 +1332,7 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 004 | 24B111 | Nem lejárt eredeti szerződés szerint |  |  |  |  |  |  |  |  |  |  |
 
-| 005 | 24B112 | Újratárgyalt |  |  |  |  |  |  |  |  |  |  |
+| 005 | 24B112 | Átstrukturált |  |  |  |  |  |  |  |  |  |  |
 
 | 006 | 24B113 | Lejárt összesen |  |  |  |  |  |  |  |  |  |  |
 
@@ -1260,7 +1350,7 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 013 | 24B121 | Nem lejárt eredeti szerződés szerint |  |  |  |  |  |  |  |  |  |  |
 
-| 014 | 24B122 | Újratárgyalt |  |  |  |  |  |  |  |  |  |  |
+| 014 | 24B122 | Átstrukturált |  |  |  |  |  |  |  |  |  |  |
 
 | 015 | 24B123 | Lejárt összesen |  |  |  |  |  |  |  |  |  |  |
 
@@ -1282,27 +1372,41 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 024 | 24B212 | Lejárt követelés |  |  |  |  |  |  |  |  |  |  |
 
-| 025 | 24B2121 | 1-180 nap |  |  |  |  |  |  |  |  |  |  |
+| 025 | 24B2121 | 1- 90 nap |  |  |  |  |  |  |  |  |  |  |
 
-| 026 | 24B2122 | 181 nap felett |  |  |  |  |  |  |  |  |  |  |
+| 026 | 24B2122 | 90-180 nap |  |  |  |  |  |  |  |  |  |  |
 
-| 027 | 24B22 | Nem pénzügyi körtől köv. kezelésre vásárolt faktoring |  |  |  |  |  |  |  |  |  |  |
+| 027 | 24B2123 | 181-365 nap |  |  |  |  |  |  |  |  |  |  |
 
-| 028 | 24B221 | Nem lejárt követelés |  |  |  |  |  |  |  |  |  |  |
+| 028 | 24B2124 | 1 év feletti |  |  |  |  |  |  |  |  |  |  |
 
-| 029 | 24B222 | Lejárt követelés |  |  |  |  |  |  |  |  |  |  |
+| 029 | 24B22 | Nem pénzügyi körtől köv. kezelésre vásárolt faktoring |  |  |  |  |  |  |  |  |  |  |
 
-| 030 | 24B2221 | 1-180 nap |  |  |  |  |  |  |  |  |  |  |
+| 030 | 24B221 | Nem lejárt követelés |  |  |  |  |  |  |  |  |  |  |
 
-| 031 | 24B2222 | 181 nap felett |  |  |  |  |  |  |  |  |  |  |
+| 031 | 24B222 | Lejárt követelés |  |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+| 032 | 24B2221 | 1- 90 nap |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | Tilos |
+| 033 | 24B2222 | 90-180 nap |  |  |  |  |  |  |  |  |  |  |
 
-| 25A PÉNZÜGYI VÁLLALKOZÁSOK - KÖVETELÉSEK RÉSZLETEZÉSE Nagyságrend: ezer forint |
+| 034 | 24B2223 | 181-365 nap |  |  |  |  |  |  |  |  |  |  |
 
-| Sorszám | PSZÁF kód | Megnevezés |  | Forint követelések | Deviza követelések |  |
+| 035 | 24B2224 | 1 év feletti |  |  |  |  |  |  |  |  |  |  |
+
+| Jelmagyarázat |
+
+|  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25A
+
+PÉNZÜGYI VÁLLALKOZÁSOK - KÖVETELÉSEK RÉSZLETEZÉSE
+
+| Nagyságrend: ezer forint |
+
+| Sor- szám | PSZÁF kód | Megnevezés |  |  |  |  | Forint követelések | Deviza követelések |  |  |  |  |  |
 
 | Ügyfél (adós) megnevezése | Kódjel | Adósminősítés | Törzsszám | Jogcím | Állomány | Eredeti lejárat | Jogcím | Állomány | Eredeti lejárat | Ügyfél követelés összesen | Értékvesztés | Értékelési különbözet | Nettó érték összesen | Mód. |
 
@@ -1324,15 +1428,21 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  | 25A599 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 25B PÉNZÜGYI VÁLLALKOZÁSOK - KÖTELEZETTSÉGEK RÉSZLETEZÉSE Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sor- szám | PSZÁF kód | Megnevezés |  | Forint kötelezettségek | Deviza kötelezettségek |  |
+25B
 
-| Ügyfél (partner) megnevezése | Kódjel | Törzsszám | Kötelezettség jogcíme | Állomány | Lejárat | Lehívható szabad hitelkeret | Kötelezettség jogcíme | Állomány | Lejárat | Lehívható szabad hitelkeret | Értékelési különbözet | Kötelezettség összesen | Mód. |
+PÉNZÜGYI VÁLLALKOZÁS - KÖTELEZETTSÉGEK RÉSZLETEZÉSE
+
+| Nagyságrend: ezer forint |
+
+| Sor- szám | PSZÁF kód | Megnevezés |  |  |  | Forint kötelezettségek | Deviza kötelezettségek |  |  |  |
+
+| Ügyfél (partner) megnevezése | Kódjel | Törzsszám | Kötelezettség jogcíme | Állomány | Lejárat | Lehívható szabad hitelkeret | Kötelezettség jogcíme | Állomány | Lejárat | Lehívható szabad hitelkeret | Értékelési különbözet | Kötelezett- ség összesen | Mód. |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
@@ -1356,25 +1466,37 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 009 | 25B16 | Egyéb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 010 | 25B2 | Kapcsolt vállalkozás összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 010 | 25B2 | Tulajdonos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 011 | 25B3 | Tulajdonossal szembeni összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 011 | 25B21 | ebből: Anyavállalat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 012 | 25B4 | Nem részletezettek összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 012 | 25B211 | rövid |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 013 | 25B501 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 013 | 25B212 | hosszú |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 25B3 | Kapcsolt vállalkozás (nem tulajdonos) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 25B4 | Nem részletezettek összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 25B501 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | ... | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | 25B599 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |
 
-| 25C PÉNZÜGYI VÁLLALKOZÁSOK - A pénzmosás megelőzésével és terrorizmus finanszírozással kapcsolatos adatok Nagyságrend: ezer forint |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sorszám | PSZÁF kód | Megnevezés | Tárgynegyedév | Halmozott (naptári év elejétől kumulált) |  |
+25C
+
+PÉNZÜGYI VÁLLALKOZÁSOK - A pénzmosás megelőzésével és terrorizmus finanszírozással kapcsolatos adatok
+
+| Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgynegyedév | Halmozott (naptári év elejétől kumulált) |
 
 | Darabszám | Összeg | Darabszám | Összeg | Mód. |
 
@@ -1434,100 +1556,193 @@ Vonatkozási idő: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 026 | 25C8 | Terrorista lista alapján zárolt követelések |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |
 
-|  |  | Tilos |
+|  | Tilos |
 
-| 25DF PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek - Fogyasztási hitel |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Sor- kód | PSZÁF kód | Termék- kód | Hitelkonstrukció teljes megnevezése | A fogyasztási hitel típusa | A felhasználás célja | Devizanem | Futamidő | Igényelhető kölcsönösszeg (Ft) | THM | Kamat | Kezelési költség |
+25DA
 
-| Min. | Max. | Futamidő (hónap vagy hét) | Min. | Max. | Referencia THM (%) | A konstrukció THM minimuma (%) | A konstrukció THM maximuma (%) | Kamatozás típusa | Éves mértéke (%) | Kamatbázis | Kamat felár (%) | További (kockázati) felár (%) | Alapja | Éves mértéke (%) | Min. összege | Max. összege | Deviza-nem |
+Termékismertető - Hitel- és lízingtermékek - Áruhitel
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| Nagyságrend: forint |
 
-| a | b | c | d | e | f1 | f2 | f3 | g1 | g2 | h1 | h2 | h3 | i1 | i2 | i3 | i4 | i5 | j1 | j2 | j3 | j4 | j5 |
+| Sorszám | PSZÁF kód | Megnevezés | Termékkód | Hitelkonstrukció teljes megnevezése | Devizanem | Futamidő (hónap) | Igényelhető kölcsönösszeg (Ft) | Min. önerő mértéke | THM | Kamat |
 
-| 001 | 25DF0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 002 | 25DF0002 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | …. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | 25DF9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 25DF PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek - Fogyasztási hitel (folytatás) |
-
-| Folyósításig fizetendő díjak | Szerződésmódosítási díj | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Egyéb díjak | Folyósítás és törlesztés jellemzői | Egyéb megjegyzés | Termékhez kapcsolódó akcióra vonatkozó adatok | Hiper-hivatkozás termék-kondíciókhoz | Mód |
-
-| Teljes előtörlesztés díja | Egyéb pénzügyi teljesítéssel járó szerződés-módosítás díja | Pénzügyi teljesítéssel nem járó szerződés-módosítás díja | Késedelmi kamat mértéke (%) | Egyéb, késedelemhez kapcsolódó díjak | Akciós a termék? | Kedvezmény leírása | A kedvezmény igénybevételének feltétele | Akció időtartama |
-
-| kezdete | vége |
-
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 |
-
-| k | l1 | l2 | l3 | m1 | m2 | n | o | p | q1 | q2 | q3 | q4 | q5 | r | z |
-
-| 25DH PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek - Hitelkártyák |
-
-| Sorkód | PSZÁF kód | Termékkód | Hitelkártya konstrukció teljes megnevezése | Devizanem (Ft/deviza) | Kártya típusa | Kártya érvényességi ideje (év) | Igényelhető hitelkeret mértéke (Ft) | Kamatmentes felhasználás maximális ideje (nap) | Minimum havi törlesztőrészlet | THM | Ügyleti kamatláb éves mértéke (%) | Éves kártyadíj | Készpénzfelvétel díja |
-
-| Min. | Max. | Referencia THM (%) | A konstrukció THM minimuma (%) | A konstrukció THM maximuma (%) | Normál díj a főkártyára (Ft/deviza) | Megjegyzés | Belföldön | Külföldön |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-
-| a | b | c | d | e | f1 | f2 | g | h | i1 | i2 | i3 | j | k1 | k2 | l1 | l2 |
-
-| 001 | 25DH0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 002 | 25DH0002 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | …. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | 25DH9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 25DH PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek - Hitelkártyák (folytatás) |
-
-| Letiltás díja (Ft/deviza) | Kártya pótlásának díja (Ft/deviza) | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Hitelkeret túllépés díja | Egyéb díjak | Egyéb megjegyzés | Kártyához kapcsolódó speciális kedvezmények | Akciós-e a termék? | Az akciós termékhez kapcsolódó kedvezmény leírása | Akció időtartama | Hiper-hivatkozás termék-kondíciókhoz | Mód |
-
-| Késedelmi kamat mértéke (%) | Egyéb, késedelemhez kapcsolódó díjak |
-
-| kezdete | vége |
-
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-
-| m | n | o1 | o2 | p | q | r | s | t1 | t2 | t3 | t4 | u | z |
-
-| 25DI PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető – Hitel- és pénzügyi lízing termékek – Ingatlanlízing |
-
-| Sorkód | PSZÁF kód | Termékkód | Megnevezés | Lízing típusa | Lízing tárgya | Devizanem | Finanszírozás alapja | Futamidő (hónap) | Igényelhető finanszírozási összeg (Ft-ban) | Finanszírozás max. aránya | Maradvány- érték aránya (%) | Kamat |
-
-| min. | max. | min. | max. | alapja | mértéke (%) | Kamatozás típusa | Kamatbázis | Kamat felár (%) | Kamat mértéke (%) | További (kockázati) felár (%) |
+| Min. | Max. | Min. | Max. | A ker. kommunikációban szereplő THM (%) | A konstrukció THM minimuma (%) | A konstrukció THM maximuma (%) | THM-hez kapcsolódó megjegyzések | Kamatozás típusa | Kamat éves mértéke min. (%) | Kamat éves mértéke max. (%) | Kamatbázis | Kamat- és további (kockázati) felár (%) | Kamatozáshoz kapcsolódó megjegyzések |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 
-| a | b | c | d | e | f | g1 | g2 | h1 | h2 | i1 | i2 | j | k1 | k2 | k3 | k4 | k5 |
+| a | b | c | d1 | d2 | e1 | e2 | f | g1 | g2 | g3 | g4 | h1 | h2 | h3 | h4 | h5 | h6 |
 
-| 001 | 25DI0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 001 | 25DA0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 002 | 25DI0002 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | …. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 25DA9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 25DI9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Jelmagyarázat |  |
 
-| 25DI PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető – Hitel- és pénzügyi lízing termékek – Ingatlanlízing (folytatás) |
+|  |  | Tilos |  |
 
-| Folyósításig a pénzügyi intézménynek fizetendő összes költség, díj | Folyósításig harmadik személynek - pénzügyi intézménynél - fizetendő egyéb díjak | Szerződésmódosítási díj | Egyéb díjak | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Egyéb megjegyzés | Termékhez kapcsolódó akcióra vonatkozó adatok | Hiper-hivatkozás termék- kondíciókhoz | Mód |
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
 
-| Teljes előtörlesztés díja | Egyéb pénzügyi teljesítéssel járó szerz.mód. díja | Pénzügyi teljesítéssel nem járó szerz.mód. díja | késedelmi kamat mértéke | egyéb, késedelemhez kapcsolódó díjak | Akciós a termék? | Kedvezmény leírása | A kedvezmény igénybevételének feltétele | Akció időtartama |
+25DA
 
-| kezdete | vége |
+Termékismertető - Hitel- és lízingtermékek – Áruhitel (folytatás)
 
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 |
+| Nagyságrend: forint |
 
-| l1 | l2 | m1 | m2 | m3 | n | o1 | o2 | p | q1 | q2 | q3 | q4 | q5 | r | z |
+| Kezelési költség | THM számításánál figyelembe nem veendő egyéb költségek, díjak | Folyósítás és törlesztés jellemzői | Szerződésmódosítási díj | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Egyéb megjegyzések | Termékhez kapcsolódó akcióra vonatkozó adatok | Hiperhivatkozás termékkondíciókhoz | Mód |
 
-[^4]: Az 5. § (2)–(3) bekezdése az 5. § (4) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^6]: A melléklet a 27/2009. (XI. 23.) PM rendelet 4. § (2) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján először a 2010. év első negyedévéről készített jelentésnél kell alkalmazni.
+| Kezelési költség mértéke | Megfizetés módja | Teljes előtörlesztés díja | Egyéb pénzügyi teljesítéssel járó szerződésmódosítás díja | Pénzügyi teljesítéssel nem járó szerződésmódosítás díja | Késedelmi kamat mértéke | Egyéb, késedelemhez kapcsolódó díjak | Akciós a termék? | Kedvezmény leírása | A kedvezmény igénybevételének feltétele | Akció időtartama |
+
+| Kezdete | Vége |
+
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 |
+
+| i1 | i2 | j | k | l1 | l2 | l3 | m1 | m2 | n | o1 | o2 | o3 | o4 | o5 | p | z |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DC
+
+Termékismertető - Hitel- és lízingtermékek - Gépjárműlízing
+
+| Nagyságrend: forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Termékkód | Lízingkonstrukció teljes megnevezése | Lízing típusa | Lízing tárgya | Devizanem | Futamidő (hónap) | Igényelhető finanszírozási összeg (Ft) | Finanszírozás maximális aránya | Maradványérték max. aránya | THM |
+
+| Min. | Max. | Min. | Max. | Alapja | Maximális mértéke (%) | A ker. kommunikációban szereplő THM (%) | A konstrukció THM minimuma (%) | A konstrukció THM maximuma (%) | THM-hez kapcsolódó megjegyzések |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+
+| a | b | c | d | e | f1 | f2 | g1 | g2 | h1 | h2 | i | j1 | j2 | j3 | j4 |
+
+| 001 | 25DC0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 25DC9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |
+
+|  |  | Tilos |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DC
+
+Termékismertető - Hitel- és lízingtermékek – Gépjárműlízing (folytatás)
+
+| Nagyságrend: forint |
+
+| Kamat | THM számításánál figyelembe nem veendő egyéb költségek, díjak | Folyósítás és törlesztés jellemzői | Szerződésmódosítási díj | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Egyéb megjegyzések | Termékhez kapcsolódó akcióra vonatkozó adatok | Hiperhivatkozás termékkondíciókhoz | Mód |
+
+| Kamatozás típusa | Kamat éves mértéke min. (%) | Kamat éves mértéke max. (%) | Kamatbázis | Kamat- és további (kockázati) felár (%) | Kamatozáshoz kapcsolódó megjegyzések | Teljes előtörlesztés díja | Egyéb pénzügyi teljesítéssel járó szerződésmódosítás díja | Pénzügyi teljesítéssel nem járó szerződésmódosítás díja | Késedelmi kamat mértéke | Egyéb, késedelemhez kapcsolódó díjak | Akciós a termék? | Kedvezmény leírása | A kedvezmény igénybevételének feltétele | Akció időtartama |
+
+| Kezdete | Vége |
+
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 |
+
+| k1 | k2 | k3 | k4 | k5 | k6 | l | m | n1 | n2 | n3 | o1 | o2 | p | q1 | q2 | q3 | q4 | q5 | r | z |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DG
+
+Termékismertető - Hitel- és lízingtermékek - Gépjárműhitel
+
+| Nagyságrend: forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Termékkód | Hitelkonstrukció teljes megnevezése | A gépjárműhitel tárgya | Devizanem | Futamidő (hónap) | Igényelhető kölcsönösszeg (Ft) | Min. önerő mértéke | THM | Kamat |
+
+| Min. | Max. | Min. | Max. | A ker. kommunikációban szereplő THM (%) | A konstrukció THM minimuma (%) | A konstrukció THM maximuma (%) | THM-hez kapcsolódó megjegyzések | Kamatozás típusa | Kamat éves mértéke min. (%) | Kamat éves mértéke max. (%) | Kamatbázis | Kamat- és további (kockázati) felár (%) | Kamatozáshoz kapcsolódó megjegyzések |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+
+| a | b | c | d | e1 | e2 | f1 | f2 | g | h1 | h2 | h3 | h4 | i1 | i2 | i3 | i4 | i5 | i6 |
+
+| 001 | 25DG0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 25DG9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |
+
+|  |  | Tilos |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DG
+
+Termékismertető - Hitel- és lízingtermékek - Gépjárműhitel
+
+| Nagyságrend: forint |
+
+| Kezelési költség | THM számításánál figyelembe nem veendő egyéb költségek, díjak | Folyósítás és törlesztés jellemzői | Szerződésmódosítási díj | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Egyéb megjegyzések | Termékhez kapcsolódó akcióra vonatkozó adatok | Hiperhivatkozás termékkondíciókhoz | Mód |
+
+| Kezelési költség mértéke | Megfizetés módja | Teljes előtörlesztés díja | Egyéb pénzügyi teljesítéssel járó szerződésmódosítás díja | Pénzügyi teljesítéssel nem járó szerződésmódosítás díja | Késedelmi kamat mértéke | Egyéb, késedelemhez kapcsolódó díjak | Akciós a termék? | Kedvezmény leírása | A kedvezmény igénybevételének feltétele | Akció időtartama |
+
+| Kezdete | Vége |
+
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 |
+
+| j1 | j2 | k | l | m1 | m2 | m3 | n1 | n2 | o | p1 | p2 | p3 | p4 | p5 | q | z |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DH
+
+PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek - Hitelkártyák
+
+| Nagyságrend: forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Termékkód | Hitelkártya konstrukció teljes megnevezése | Devizanem | Kártya típusa | Kártya érvényességi ideje (év) | Igényelhető hitelkeret mértéke (Ft) | Kamatmentes felhasználás maximális ideje (nap) | Minimum havi törlesztőrészlet | THM | Ügyleti kamatláb éves mértéke (%) | Éves kártyadíj |
+
+| Min. | Max. | A ker. kommunikációban szereplő THM (%) | A konstrukció THM minimuma (%) | A konstrukció THM maximuma (%) | A THM-hez kapcsolódó megjegyzések | Normál díj a főkártyára | Devizanem | Megjegyzés |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+
+| a | b | c | d | e | f1 | f2 | g | h | i1 | i2 | i3 | i4 | j | k1 | k2 | k3 |
+
+| 001 | 25DH0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 25DH9999 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |
+
+|  |  | Tilos |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DH
+
+PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek – Hitelkártyák (folytatás)
+
+| Nagyságrend: forint |
+
+| Készpénzfelvétel díja | Kártya letiltás díja | Kártya pótlásának díja | Késedelmes teljesítéshez kapcsolódó díjak, költségek | Hitelkeret túllépés díja | Egyéb díjak | Egyéb megjegyzés | Kártyához kapcsolódó speciális kedvezmények | Akciós-e a termék? | Az akciós termékhez kapcsolódó kedvezmény leírása | Akció időtartama | Hiperhivatkozás termékkondíciókhoz | Mód |
+
+| Belföldön | Külföldön | Díj összege | Devizanem | Késedelmi kamat mértéke | Egyéb, késedelemhez kapcsolódó díjak | Kezdete | Vége |
+
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 |
+
+| l1 | l2 | m1 | m2 | n | o1 | o2 | p | q | r | s | t1 | t2 | t3 | t4 | u | z |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+25DI
+
+PÉNZÜGYI VÁLLALKOZÁSOK - Termékismertető - Hitel- és lízingtermékek - Ingatlanlízing
+
+| Nagyságrend: forint |
+
+[^8]: Az 5. § (2) bekezdése az 5. § (4) bekezdése alapján hatályát vesztette, újonnan a 22/2010. (XII. 31.) NGM rendelet 4. §-a iktatta be.
+[^9]: Az 5. § (3) bekezdése az 5. § (4) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^11]: A Melléklet a 22/2010. (XII. 31.) NGM rendelet 5. §-ával megállapított szöveg.

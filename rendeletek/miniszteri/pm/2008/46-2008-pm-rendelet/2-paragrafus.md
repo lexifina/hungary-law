@@ -1,5 +1,7 @@
-2. § (1) A pénzügyi vállalkozás és a fióktelep a felügyeleti jelentését a mellékletben foglaltaknak megfelelő tartalommal és formában, a titokvédelmi rendelkezések megtartásával köteles elkészíteni és a Felügyelet részére megküldeni. A felügyeleti jelentések elkészítésének alapját a magyar számviteli jogszabályok szerint készített főkönyvi és analitikus nyilvántartások képezik. A felügyeleti jelentésről a Felügyelet honlapján módszertani útmutatót tesz közzé.
+2. § (1)[^3] A pénzügyi vállalkozás és a fióktelep a felügyeleti jelentését a mellékletben foglaltaknak megfelelő tartalommal és formában, a titokvédelmi rendelkezések megtartásával köteles elkészíteni és a Felügyelet részére megküldeni. A felügyeleti jelentések elkészítésének alapját a magyar számviteli jogszabályok szerint készített főkönyvi és analitikus nyilvántartások képezik. A felügyeleti jelentésről a Felügyelet honlapján időbélyegzővel ellátott módszertani útmutatót tesz közzé.
 
 (2) Az e rendeletben előírt kötelezettséget – a negyedéves és az éves jelentéseket, továbbá a törzsadat jelentéseket – a Felügyelet által meghatározott elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva (a továbbiakban: elektronikus úton), a Felügyelet Kihelyezett Adatküldő Program rendszerén (a továbbiakban: adatfogadó rendszer) keresztül kell teljesíteni.
 
 (3) A Felügyelet a (2) bekezdés szerinti kötelezettséget akkor tekinti teljesítettnek, ha a pénzügyi vállalkozás és a fióktelep elektronikus úton megküldött felügyeleti jelentése az adatfogadó rendszerben „feldolgozott” státuszt kap, amelyről a Felügyelet elektronikus üzenetet küld az adatszolgáltatónak.
+
+[^3]: A 2. § (1) bekezdése a 22/2010. (XII. 31.) NGM rendelet 1. §-ával megállapított szöveg.
