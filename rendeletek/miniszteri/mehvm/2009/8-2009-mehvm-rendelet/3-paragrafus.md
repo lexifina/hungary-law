@@ -1,3 +1,0 @@
-## 2. § Az R. 3. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Tanács a piacelemzést és a jelentős piaci erővel rendelkező szolgáltatók kijelölését, valamint a rájuk vonatkozó kötelezettségek előírását a versenyjog vonatkozó szabályai szerint, a magyar elektronikus hírközlési piac sajátosságainak figyelembevételével végzi el. A mellékletben meghatározott szolgáltatási (áru) piacok érintett piacként való azonosítása esetében a Tanácsnak nem kell bizonyítania az ajánlásban szereplő, az előzetes szabályozás alá vonható piacok kijelölése céljából együttesen alkalmazandó kritériumoknak a teljesülését.”

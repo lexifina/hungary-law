@@ -1,5 +1,0 @@
-## 1. § A piacmeghatározás, a piacelemzés és a jelentős piaci erővel rendelkező szolgáltatók azonosítása, valamint a rájuk vonatkozó kötelezettségek előírása során alkalmazandó alapelvekről szóló 16/2004. (IV. 24.) IHM rendelet (a továbbiakban: R.) 2. §-ának (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A Tanács az érintett piacokat a mellékletben meghatározott szolgáltatási (áru) piacok vizsgálatából kiindulva, a magyar elektronikus hírközlési piac sajátosságainak figyelembevételével határozza meg.
-
-## (3) A Tanács a magyar elektronikus hírközlési piac sajátosságai által indokolt esetben a mellékletben meghatározott szolgáltatási (áru) piacoktól eltérő piacokat is meghatározhat. A mellékletben nem említett szolgáltatási (áru) piacok meghatározása esetén a Tanácsnak biztosítania kell a Bizottság által az érintett termékpiacokról és szolgáltatási piacokról kiadott ajánlásban (a továbbiakban: ajánlás) szereplő, az előzetes szabályozás alá vonható piacok kijelölése céljából együttesen alkalmazandó kritériumoknak a teljesülését.”
