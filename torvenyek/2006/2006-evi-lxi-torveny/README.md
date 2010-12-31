@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-61-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2008-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-61-00-00.10 |
+| 2010-12-31 | 2003. évi CXXIII. törvény | 2006-61-00-00.11 |
