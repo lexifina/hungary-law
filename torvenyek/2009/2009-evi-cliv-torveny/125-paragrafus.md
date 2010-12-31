@@ -12,7 +12,7 @@
 
 (6) A 85. § és a 127. § (21) bekezdése 2010. július 1-jén lép hatályba.
 
-(7) A 18. § és a 20. § 2010. október 1-jén lép hatályba azzal, hogy a 2010. október 1-jét megelőzően létrejött szerződésekre 2010. december 31-éig a 2010. szeptember 30-án hatályos szabályokat kell alkalmazni.
+(7) A 18. § és a 20. § 2010. október 1-jén lép hatályba azzal, hogy a 2010. október 1-jét megelőzően létrejött szerződésekre 2011. december 31-éig a 2010. szeptember 30-án hatályos szabályokat kell alkalmazni.
 
 (8) A 66. § (1) bekezdése, a 126. § (4) bekezdése és a 129. § (1)–(3) bekezdése 2010. december 1-jén lép hatályba.
 

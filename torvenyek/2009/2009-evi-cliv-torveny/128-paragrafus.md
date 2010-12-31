@@ -1,6 +1,6 @@
-128. § (1) Az Ebtv. 10–17. §-a szerinti egészségügyi szolgáltatásokra 2010. december 31-ig – 2011. január 1-jei hatálybalépéssel – az e törvényben foglaltaknak megfelelő új finanszírozási szerződést kell kötni. Az új finanszírozási szerződések hatályának beálltával egyidejűleg a korábbi finanszírozási szerződések a törvény erejénél fogva megszűnnek.
+128. § (1) Az Ebtv. 10–17. §-a szerinti egészségügyi szolgáltatásokra 2011. december 31-ig – 2012. január 1-jei hatálybalépéssel – az e törvényben foglaltaknak megfelelő új finanszírozási szerződést kell kötni. Az új finanszírozási szerződések hatályának beálltával egyidejűleg a korábbi finanszírozási szerződések a törvény erejénél fogva megszűnnek.
 
-(2) Az Ebtv. 30. § (2) bekezdése alapján az e törvényben foglaltaknak megfelelő új szerződéseket 2010. december 31-ig – 2011. január 1-jei hatálybalépéssel – kell megkötni a gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával, gyógyászati ellátás nyújtójával. Az új szerződések hatályának beálltával egyidejűleg a korábbi szerződések a törvény erejénél fogva megszűnnek.
+(2) Az Ebtv. 30. § (2) bekezdése alapján az e törvényben foglaltaknak megfelelő új szerződéseket 2011. december 31-ig – 2012. január 1-jei hatálybalépéssel – kell megkötni a gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával, gyógyászati ellátás nyújtójával. Az új szerződések hatályának beálltával egyidejűleg a korábbi szerződések a törvény erejénél fogva megszűnnek.
 
 (3) A 2010. január 1-jét megelőzően elszenvedett úti balesetnek minősülő üzemi baleset esetén az Ebtv. 56. §-ának (5) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
@@ -12,4 +12,4 @@
 
 (7) A Gytv. e törvénnyel módosított 10. § (5) bekezdése szerinti, 2010. január 1. napját megelőzően indult és még le nem zárult eljárásokban a Bizottság 1084/2003/EK rendeletét kell alkalmazni.
 
-(8) Az Eütv. e törvénnyel megállapított 116/C. §-a azzal alkalmazható, hogy az e törvény hatálybalépését megelőzően minősítési eljárás során továbbképzési pontértékkel ellátott továbbképzések lefolytathatók.
+(8)
