@@ -1,10 +1,6 @@
-1. számú melléklet az 5/2006. (II. 7.) PM rendelethez[^18]
+1. számú melléklet az 5/2006. (II. 7.) PM rendelethez[^19]
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
-| 42A1A |
-
-| A biztosító nem-élet üzletág állományának bemutatása a tárgy időszak végén (darab) |
+| 42A1A A biztosító nem-élet üzletág állományának bemutatása a tárgy időszak végén (darab) |
 
 | Sorszám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Törlés díjnemfizetés miatt | Törlés érdekmúlás miatt | Biztosító általi felmondás miatt | Biztosított általi felmondás miatt | Éven belüli előre meghatározott tartam lejárta miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | A biztosítottak száma a tárgyidőszak végén | Mód |
 
@@ -112,11 +108,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A1B A biztosító élet üzletág állományának bemutatása a tárgyidőszak végén (darab) |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Díjmentesítések | Visszavásárlások | Részleges visszavásárlással érintett | Haláleset miatti megszűnés | Lejáratkori megszűnés | Törlés díj nem fizetés miatt | A biztosított általi felmondás a 30 napos felmondási jogának érvényesítése miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | A biztosítottak száma a tárgy időszak végén | Mód |
+| Sorszám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Díjmentesítések | Visszavásárlások | Részleges visszavásárlással érintett | Haláleset miatti megszűnés | Lejáratkori megszűnés | Törlés díj nem fizetés miatt | A biztosított általi felmondás a 30 napos felmondási jogának érvényesítése miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | A biztosítottak száma a tárgy időszak végén | Mód |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 
@@ -128,7 +122,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 003 | 42A1B111 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 004 | 42A1B1111 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 004 | 42A1B1111 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 005 | 42A1B1112 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -156,7 +150,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 017 | 42A1B121 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 018 | 42A1B1211 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 018 | 42A1B1211 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 019 | 42A1B1212 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -188,11 +182,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A1C A biztosító nem-élet üzletág állományának bemutatása a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Törlés díjnemfizetés miatt | Törlés érdekmúlás miatt | Biztosító általi felmondás miatt | Biztosított általi felmondás miatt | Éven belüli előre meghatározott tartam lejárta miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | Mód |
+| Sorszám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Törlés díjnemfizetés miatt | Törlés érdekmúlás miatt | Biztosító általi felmondás miatt | Biztosított általi felmondás miatt | Éven belüli előre meghatározott tartam lejárta miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | Mód |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 
@@ -248,11 +240,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
+| 42A1D A biztosító élet üzletág állományának bemutatása a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| 42A1D A biztosító életbiztosítási üzletág állományának bemutatása a tárgyidőszak végén Nagyságrend: ezer forint |
-
-| Sor- szám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Díjmentesítések | Visszavásárlások | Haláleset miatti megszűnés | Lejáratkori megszűnés | Törlés díjnemfizetés miatt | A biztosított általi felmondás a 30 napos felmondási jogának érvényesítése miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | Mód |
+| Sorszám | PSZÁF kód | Megnevezés | Nyitó állomány | Indexálások | Szaporulat | Díjmentesítések | Visszavásárlások | Haláleset miatti megszűnés | Lejáratkori megszűnés | Törlés díj nem fizetés miatt | A biztosított általi felmondás a 30 napos felmondási jogának érvényesítése miatt | Technikai megszűnés | Egyéb megszűnés | Állományvesztés | Záróállomány | Mód |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
@@ -262,7 +252,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 002 | 42A1D11 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 003 | 42A1D111 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 003 | 42A1D111 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 004 | 42A1D112 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -292,11 +282,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A1E A biztosító néhány termékcsoportjának főbb adatai a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés | A biztosítási szerződések darabszáma | Díjbevétel | Kárkifizetés és szolgáltatás | Mód |
+| Sorszám | PSZÁF kód | Megnevezés | A biztosítási szerződések darabszáma | Díjbevétel | Kárkifizetés és szolgáltatás | Mód |
 
 | 1 | 2 | 3 | 4 |
 
@@ -334,11 +322,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A1F Az életbiztosítási ág záró állományának részletezett bemutatása a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Záró állomány (darab) | Biztosítási összeg (ezer Ft) |  |
+| Sorszám | PSZÁF kód | Megnevezés | Záró állomány (darab) | Biztosítási összeg (ezer Ft) |  |
 
 | 5 éves tartamig | 6-10 éves tartam között | 11-20 éves tartam között | 20 év feletti, de határozott tartamú | Teljes életre szóló, határozatlan tartamú | Egyéb határozatlan tartamú | Összesen | 5 éves tartamig | 6-10 éves tartam között | 11-20 éves tartam között | 20 év feletti, de határozott tartamú | Teljes életre szóló, határozatlan tartamú | Egyéb határozatlan tartamú | Összesen | Mód |
 
@@ -352,7 +338,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 003 | 42A1F111 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 004 | 42A1F1111 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 004 | 42A1F1111 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 005 | 42A1F1112 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -380,7 +366,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 017 | 42A1F121 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 018 | 42A1F1211 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 018 | 42A1F1211 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 019 | 42A1F1212 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -388,7 +374,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 021 | 42A1F1214 | Term fix biztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 022 | 42A1F1215 | Halasztott járadékbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 022 | 42A1F1215 | Halasztot járadékbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 023 | 42A1F1216 | Azonnal induló, vagy már megindult járadékbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -410,11 +396,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A1G A biztosító néhány, hitelekhez köthető termékcsoportjának főbb adatai a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés | A biztosítási szerződések darabszáma | Díjbevétel | Aktuális biztosítási összeg | Biztosítottak száma | Kárkifizetés és szolgáltatás (db) | Kárkifizetés és szolgáltatás (ezer Ft) | Mód |
+| Sorszám | PSZÁF kód | Megnevezés | A biztosítási szerződések darabszáma | Díjbevétel | Aktuális biztosítási összeg | Biztosítottak száma | Kárkifizetés és szolgáltatás (db) | Kárkifizetés és szolgáltatás (ezer Ft) | Mód |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
@@ -448,13 +432,15 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 014 | 42A1G35 | egyéb életbiztosítások |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
+|  | Jelmagyarázat |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |
 
 | 42A2A A biztosító díjbevétele biztosítási ágazatonként a tárgyidőszak végén Nagyságrend: ezer forint |
 
 | Sorszám | PSZÁF kód | Megnevezés |  |  |  | Viszontbiztosításba adott |  |  |  |  |  |
 
-| Díjbevétel összesen | A megszolgált díj | "1" oszlopból: viszontbiztosításba vett díjbevétel (aktív) | Direktbiztosítá- sokból származó díjbevételre vonatkozóan | A viszont- biztosításba vett díjbevételre (aktív) vonatkozóan | Egyszeri díjas díjbevétel az "1" oszlopból | Egyszeri díjas díjbevételből vb-be vett díjbevétel (aktív) | Befolyt, pénzügyileg realizált díjbevétel az "1" oszlopból | Eseti befizetésből származó díjbevétel az "1" oszlopból | Mód |
+| Díjbevétel összesen | A megszolgált díj | "1" oszlopból: viszontbiztosításba vett díjbevétel (aktív) | Direktbiztosításokból származó díjbevételre vonatkozóan | A viszontbiztosításba vett díjbevételre (aktív) vonatkozóan | Egyszeri díjas díjbevétel az "1" oszlopból | Egyszeri díjas díjbevételből vb-be vett díjbevétel (aktív) | Befolyt, pénzügyileg realizált díjbevétel az "1" oszlopból | Eseti befizetésből származó díjbevétel az "1" oszlopból | Mód |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
@@ -540,11 +526,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A2C Jelzáloghitelezés bemutatása a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Nyitó állomány | Szaporulat | Állományvesztés | Záró állomány | Átlagos futamidő | A hitelbiztosíték értéke |  |
+| Sorszám | PSZÁF kód | Megnevezés | Nyitó állomány | Szaporulat | Állományvesztés | Záró állomány | Átlagos futamidő | A hitelbiztosíték értéke |  |
 
 | (db) | (ezer Ft) | (db) | (ezer Ft) | (db) | (ezer Ft) | (db) | (ezer Ft) | (év) | (ezer Ft) | Mód |
 
@@ -558,7 +542,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 003 | 42A2C111 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |
 
-| 004 | 42A2C1111 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |
+| 004 | 42A2C1111 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |
 
 | 005 | 42A2C1112 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -586,7 +570,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 017 | 42A2C121 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |
 
-| 018 | 42A2C1211 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |
+| 018 | 42A2C1211 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |
 
 | 019 | 42A2C1212 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -616,11 +600,9 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A3A1 Kárkifizetés és szolgáltatás bemutatása biztosítási ágazatonként a tárgyidőszak végén Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés |  | Tárgyidőszaki kárkifizetés összege | Függőkár tartalék (tételes) összege | IBNR tartalék összege | Matematikai tartalék összege |  |
+| Sorszám | PSZÁF kód | Megnevezés |  | Tárgyidőszaki kárkifizetés összege | Függőkár tartalék (tételes) összege | IBNR tartalék összege | Matematikai tartalék összege |  |
 
 | Több, mint 9 éve bekövetkezett károkra | 9 éve bekövetkezett károkra | 8 éve bekövetkezett károkra | 7 éve bekövetkezett károkra | 6 éve bekövetkezett károkra | 5 éve bekövetkezett károkra | 4 éve bekövetkezett károkra | 3 éve bekövetkezett károkra | 2 éve bekövetkezett károkra | Előző évben bekövetkezett károkra | Tárgyidőszakban bekövetkezett károkra | Összesen | Több, mint 9 éve bekövetkezett károkra | 9 éve bekövetkezett károkra | 8 éve bekövetkezett károkra | 7 éve bekövetkezett károkra | 6 éve bekövetkezett károkra | 5 éve bekövetkezett károkra | 4 éve bekövetkezett károkra | 3 éve bekövetkezett károkra | 2 éve bekövetkezett károkra | Előző évben bekövetkezett károkra | Tárgyidőszakban bekövetkezett károkra | Összesen | Több, mint 9 éve bekövetkezett károkra | 9 éve bekövetkezett károkra | 8 éve bekövetkezett károkra | 7 éve bekövetkezett károkra | 6 éve bekövetkezett károkra | 5 éve bekövetkezett károkra | 4 éve bekövetkezett károkra | 3 éve bekövetkezett károkra | 2 éve bekövetkezett károkra | Előző évben bekövetkezett károkra | Tárgyidőszakban bekövetkezett károkra | Összesen | Tárgyidőszakot megelőzően bekövetkezett károkra | Tárgyidőszakban bekövetkezett károkra | Összesen | Mód |
 
@@ -634,7 +616,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 003 | 42A3A1111 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 004 | 42A3A11111 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 004 | 42A3A11111 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 005 | 42A3A11112 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -710,13 +692,11 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
 | 42A3A2 Kárkifizetés és szolgáltatás bemutatása biztosítási ágazatonként a tárgyidőszak végén (darab) |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Tárgyidőszakban kifizetett károk darabszáma | Tárgyidőszakot követően várható kifizetésre kerülő károk darabszáma |  |
+| Sorszám | PSZÁF kód | Megnevezés | Tárgyidőszakban kifizetett károk darabszáma | Tárgyidőszakot követően várható kifizetésre kerülő károk darabszáma |  |
 
-| Több, mint 9 éve bekövetkezett károkra | 9 éve bekövetkezett károkra | 8 éve bekövetkezett károkra | 7 éve bekövetkezett károkra | 6 éve bekövetkezett károkra | 5 éve bekövetkezett károkra | 4 éve bekövetkezett károkra | 3 éve bekövetkezett károkra | 2 éve bekövetkezett károkra | Előző évben bekövetkezett károk | Tárgyidőszakban bekövetkezett károk | Összesen | Több, mint 9 éve bekövetkezett károkra | 9 éve bekövetkezett károkra | 8 éve bekövetkezett károkra | 7 éve bekövetkezett károkra | 6 éve bekövetkezett károkra | 5 éve bekövetkezett károkra | 4 éve bekövetkezett károkra | 3 éve bekövetkezett károkra | 2 éve bekövetkezett károkra | Előző évben bekövetkezett károk | Tárgyidőszakban bekövetkezett károk | Összesen | Mód |
+| Több, mint 9 éve bekövet- kezett károkra | 9 éve bekövet- kezett károkra | 8 éve bekövet- kezett károkra | 7 éve bekövet- kezett károkra | 6 éve bekövet- kezett károkra | 5 éve bekövet- kezett károkra | 4 éve bekövet- kezett károkra | 3 éve bekövet- kezett károkra | 2 éve bekövet- kezett károkra | Előző évben bekövet- kezett károk | Tárgyidőszakban bekövet- kezett károk | Összesen | Több, mint 9 éve bekövet- kezett károkra | 9 éve bekövet- kezett károkra | 8 éve bekövet- kezett károkra | 7 éve bekövet- kezett károkra | 6 éve bekövet- kezett károkra | 5 éve bekövet- kezett károkra | 4 éve bekövet- kezett károkra | 3 éve bekövet- kezett károkra | 2 éve bekövet- kezett károkra | Előző évben bekövet- kezett károk | Tárgyidőszakban bekövet- kezett károk | Összesen | Mód |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 
@@ -728,7 +708,7 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 003 | 42A3A2111 | Hagyományos életbiztosítások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 004 | 42A3A21111 | Halálesetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 004 | 42A3A21111 | Halál esetre szóló életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 005 | 42A3A21112 | Elérési életbiztosítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -800,10 +780,8 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 
 | 039 | 42A3A22 | CSÉB |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |  |
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
-
-[^18]: Az 1. számú melléklet a 24/2009. (XI. 13.) PM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a biztosítók 2009. évre vonatkozó, 2010-ben esedékes belső adatszolgáltatását a 2009. december 31-én hatályos szabályok szerint kell teljesíteni; 5. § (3) bekezdése alapján a rendelkezést először a felügyeleti alapdíj számításáról szóló éves bevallás teljesítése esetében kell alkalmazni.
+[^19]: Az 1. számú melléklet a 24/2010. (XII. 31.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.

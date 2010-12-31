@@ -1,8 +1,8 @@
 1. § (1)[^1] A biztosító belső adatszolgáltatását éves és negyedéves belső jelentéssel, belső törzsadat jelentéssel, éves beszámolóval és felügyeleti alapdíj táblával teljesíti.
 
-(2)[^2] A biztosító a Bit. 172. § a) pontjában meghatározott éves belső jelentést készít a Melléklet megfelelő táblázatainak kitöltésével. A biztosító a Bit. 172. § c) pontjában meghatározott negyedéves belső jelentést készít a Melléklet megfelelő táblázatainak kitöltésével.
+(2)[^2] A biztosító a Bit. 172. § a) pontjában meghatározott éves belső jelentést készít az 1. melléklet megfelelő táblázatainak kitöltésével. A biztosító a Bit. 172. § c) pontjában meghatározott negyedéves belső jelentést készít a 2. melléklet megfelelő táblázatainak kitöltésével.
 
-(3)[^3] A biztosító belső törzsadat jelentést készít a Melléklet megfelelő táblázatainak kitöltésével.
+(3)[^3] A biztosító belső törzsadat jelentést készít a 3. melléklet megfelelő táblázatainak kitöltésével.
 
 (4)[^4] A biztosító az éves belső jelentést a Bit. 147. § (1) bekezdésében meghatározottak szerint az éves beszámolóval együtt, elektronikus úton megküldi a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére.
 
@@ -13,8 +13,8 @@
 (7)[^7] A biztosító a Felügyelet által kiadott tevékenységi engedélyről szóló határozat jogerőre emelkedésének napjától a felügyeleti engedély visszavonásáról szóló határozat jogerőre emelkedésének napjáig köteles az e rendelet szerinti belső adatszolgáltatás teljesítésére.
 
 [^1]: Az 1. § (1) bekezdése a 24/2009. (XI. 13.) PM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a biztosítók 2009. évre vonatkozó, 2010-ben esedékes belső adatszolgáltatását a 2009. december 31-én hatályos szabályai alapján kell teljesíteni; 5. § (3) bekezdése alapján a rendelkezést először a felügyeleti alapdíj számításáról szóló éves bevallás teljesítése esetében kell alkalmazni.
-[^2]: Az 1. § (2) bekezdése a 24/2009. (XI. 13.) PM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a biztosítók 2009. évre vonatkozó, 2010-ben esedékes belső adatszolgáltatását a 2009. december 31-én hatályos szabályai alapján kell teljesíteni; 5. § (3) bekezdése alapján a rendelkezést először a felügyeleti alapdíj számításáról szóló éves bevallás teljesítése esetében kell alkalmazni.
-[^3]: Az 1. § (3) bekezdése a 49/2008. (XII. 31.) PM rendelet 1. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2)–(3) bekezdését.
+[^2]: Az 1. § (2) bekezdése a 24/2010. (XII. 31.) NGM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 24/2010. (XII. 31.) NGM rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (4) bekezdése a 24/2009. (XI. 13.) PM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a biztosítók 2009. évre vonatkozó, 2010-ben esedékes belső adatszolgáltatását a 2009. december 31-én hatályos szabályai alapján kell teljesíteni; 5. § (3) bekezdése alapján a rendelkezést először a felügyeleti alapdíj számításáról szóló éves bevallás teljesítése esetében kell alkalmazni.
 [^5]: Az 1. § (5) bekezdése a 24/2009. (XI. 13.) PM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a biztosítók 2009. évre vonatkozó, 2010-ben esedékes belső adatszolgáltatását a 2009. december 31-én hatályos szabályai alapján kell teljesíteni; 5. § (3) bekezdése alapján a rendelkezést először a felügyeleti alapdíj számításáról szóló éves bevallás teljesítése esetében kell alkalmazni.
 [^6]: Az 1. § (6) bekezdése a 24/2009. (XI. 13.) PM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a biztosítók 2009. évre vonatkozó, 2010-ben esedékes belső adatszolgáltatását a 2009. december 31-én hatályos szabályai alapján kell teljesíteni; 5. § (3) bekezdése alapján a rendelkezést először a felügyeleti alapdíj számításáról szóló éves bevallás teljesítése esetében kell alkalmazni.
