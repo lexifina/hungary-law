@@ -1,4 +1,4 @@
-54. § (1) A végrehajtási lap visszavonása iránti kérelem előterjesztésére a végrehajtási kérelem előterjesztésére, a visszavonásról rendelkező végzés megküldésére pedig a végrehajtási lap megküldésére vonatkozó szabályokat kell alkalmazni.
+54. § (1) A végrehajtási lap visszavonása iránti kérelem előterjesztésére a végrehajtási kérelem előterjesztésére, a visszavonásról rendelkező végzés megküldésére pedig a végrehajtási lap megküldésére vonatkozó szabályokat kell alkalmazni azzal, hogy végrehajtási lap visszavonása iránti papír alapú kérelmet nem űrlapon kell előterjeszteni.
 
 (2) A jogi személy fél és a jogi képviselővel rendelkező fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
 

@@ -44,4 +44,4 @@ l) a jogosult a hiánypótlási felhívást követően a kitűzött határidő a
 
 (5) A fizetési meghagyás iránti kérelem elutasítására a Pp. 130. §-ának (3) bekezdését megfelelően alkalmazni kell.
 
-(6) A közjegyző az (1) bekezdés d) pontjában foglaltak megállapítása érdekében ingyenesen jogosult elektronikus úton betekinteni a bíróság ügylajstromába; a közjegyző az adatokat a MOKK rendszerén keresztül automatikusan igényelheti. A bíróság biztosítja, hogy a nyilvántartásában a peres ügyek a felek neve és címe, valamint az ügy tárgya szerint is kereshetőek legyenek. A közjegyző az (1) bekezdés d) pontjában foglaltak ellenőrzése céljából megtekintheti a MOKK rendszerében a fizetési meghagyásos ügyekről kezelt adatokat.
+(6)
