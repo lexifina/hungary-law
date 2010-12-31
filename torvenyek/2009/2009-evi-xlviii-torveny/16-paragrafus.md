@@ -12,7 +12,7 @@
 
 (7) E törvény 1–3. §-át a folyamatban lévő végrehajtási eljárásokban és a zálogtárgyak folyamatban lévő bírósági végrehajtáson kívüli értékesítése esetében is alkalmazni kell, ha a törvény hatálybalépéséig még nem került sor az árverés, nyilvános pályázat kitűzésére vagy a zálogtárgy végrehajtáson kívüli értékesítésének meghirdetésére.
 
-(8) A Vht. 132/F. §-ának (6) bekezdésében a „15. nap” szövegrész helyébe a „30. nap” szöveg, 145/A. §-ának (3) bekezdésében pedig a „30 napnál” szövegrész helyébe a „60 napnál” szövegrész lép.
+(8)
 
 (9) A Tv. – e törvény 5. §-ának (1) bekezdésével megállapított – 2. §-ának (1) bekezdését a hatálybalépését követően kezdeményezett áthidaló kölcsönre kell alkalmazni.
 
