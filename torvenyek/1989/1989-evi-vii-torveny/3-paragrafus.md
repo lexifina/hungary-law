@@ -1,6 +1,6 @@
 3. § (1) Jogellenes a sztrájk:
 
-a) az 1. § (1) bekezdése és a 2. § (1) bekezdése rendelkezéseinek meg nem tartása esetén,
+a) ha az 1. § (1) bekezdésébe, (3) bekezdésébe, a 2. § (1) bekezdésébe vagy a 4. § (2) bekezdésébe ütközik,
 
 b) Alkotmányba ütköző cél érdekében,
 

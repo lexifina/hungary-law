@@ -1,6 +1,6 @@
 2. § (1) Sztrájk kezdeményezhető, ha
 
-a) a vitatott kérdést érintő egyeztető eljárás [Mt. 66/A. § (2)—(5) bek.] hét napon belül nem vezetett eredményre, vagy
+a) a vitatott kérdést érintő kollektív munkaügyi vitában megtartott egyeztető eljárás hét napon belül nem vezetett eredményre, vagy
 
 b) az egyeztető eljárás a sztrájkot kezdeményezőnek fel nem róható ok miatt nem jött létre.
 
