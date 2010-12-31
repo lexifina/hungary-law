@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-28-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-06-01 | 2010-28-20-1U.1 | 28/2010. (V. 12.) IRM rendelet |
+| 2010-12-31 | 2010-28-20-1U.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
