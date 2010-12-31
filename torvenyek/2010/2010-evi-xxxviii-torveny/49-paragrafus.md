@@ -1,3 +1,5 @@
+## Eseti és ügygondnok
+
 49. § (1) A közjegyző ügygondnokot rendel ki, vagy – ha az a leltározás során nem történt meg – a gyámhatóságot keresi meg eseti gondnok kirendelése végett, ha
 
 a) az öröklésben érdekeltnek nincs törvényes képviselője és méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes kiskorú, illetve olyan nagykorú személy, akinek a cselekvőképességét a bíróság olyan ügycsoportban korlátozta, amely érinti ingó és ingatlanvagyonnal való rendelkezési jogát, illetve örökösödési ügyekkel kapcsolatos jognyilatkozatát;
