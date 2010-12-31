@@ -1,16 +1,4 @@
-22. § (1) Az Szt. 4. §-a (1) bekezdésének d) pontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában]
-
-„d) közeli hozzátartozó:
-
-da) a házastárs, a bejegyzett élettárs, az élettárs,
-
-db) a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, illetve a Ptk. 7:2. §-a 18. pontjának b)–c) alpontja szerinti személy által nevelt gyermek,
-
-dc) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve a Ptk. 7:2. §-a 18. pontjának b)–c) alpontja szerinti személy által nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (a továbbiakban: fogyatékos gyermek),
-
-dd) a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa, bejegyzett élettársa vagy élettársa;”
+22. § (1)
 
 (2) Az Szt. 4. §-a (1) bekezdése m) pontjának me) alpontja helyébe a következő rendelkezés lép:
 
