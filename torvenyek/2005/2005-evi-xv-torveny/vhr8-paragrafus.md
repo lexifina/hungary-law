@@ -16,10 +16,4 @@ b) az adott létesítmény részére a kibocsátási egységek kiosztani terveze
 
 (5) A kormány a 2008. január 1-jétől 2012. december 31-ig terjedő időszakra (második kereskedési időszak), valamint 2012-től kezdődően ötéves időszakokra állapít meg Kiosztási Tervet és Kiosztási Listát.
 
-(6) A Kormány
-
-a) a Kiosztási Tervet az Európai Bizottság (a továbbiakban: Bizottság) jóváhagyását követően, valamint
-
-b) a Kiosztási Listát
-
-rendeletben hirdeti ki.
+(6) A Kiosztási Tervet és a Kiosztási Listát az Európai Bizottság (a továbbiakban: Bizottság) jóváhagyását követően a Kormány rendeletben hirdeti ki.

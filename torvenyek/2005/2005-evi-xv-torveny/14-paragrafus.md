@@ -1,6 +1,12 @@
 ## A kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység beszámítása
 
-Üht. 14. § (1) A külön jogszabály rendelkezéseinek megfelelően megállapított és átadott kibocsátás-csökkentési egységet, illetve igazolt kibocsátás-csökkentési egységet a külön jogszabály szerinti nemzeti forgalmi jegyzék kezelője 2008. január 1-jétől a létesítmény üzemeltetőjének kérelmére beszámítja a kibocsátási egységek visszaadására irányuló kötelezettség teljesítéséhez.
+Üht. 14. § (1) A
+
+a) létesítmény üzemeltetője, vagy a
+
+b) légijármű üzemben tartó
+
+ÜHG-egységek visszaadására irányuló kötelezettségének teljesítése során az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvény szerinti kibocsátás-csökkentési egységet, vagy igazolt kibocsátás-csökkentési egységet is felhasználhat a külön jogszabályban meghatározott mértékig.
 
 (2) Nem alkalmazható a beszámítás olyan kibocsátáscsökkentési egység, illetve igazolt kibocsátás-csökkentési egység esetén, amely
 

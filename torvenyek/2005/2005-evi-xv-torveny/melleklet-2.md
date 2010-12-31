@@ -14,7 +14,7 @@ A kiosztható kibocsátási egységek teljes mennyisége nem lehet több, mint a
 
 3. A Kiosztási Tervnek összhangban kell állnia a vonatkozó európai közösségi jogi aktusokkal és szakpolitikai eszközökkel. Az új jogszabályi követelmények következtében felmerülő elkerülhetetlen kibocsátásnövekedést is figyelembe kell venni.
 
-4. Az Európai Közösséget létrehozó szerződés, különösen annak 87. és 88. cikke értelmében a Kiosztási Terv nem részesíthet indokolatlan előnyben bizonyos vállalkozásokat vagy tevékenységeket.
+4. Az EUMSZ, különösen annak 106. és 107. cikke értelmében a Kiosztási Terv nem részesíthet indokolatlan előnyben bizonyos vállalkozásokat vagy tevékenységeket.
 
 5. A Kiosztási Tervnek tartalmaznia kell, hogy az új belépők miként kapcsolódhatnak be a kibocsátási egységkereskedelmi rendszerbe.
 
@@ -26,7 +26,7 @@ A kiosztható kibocsátási egységek teljes mennyisége nem lehet több, mint a
 
 9. A Kiosztási Tervnek tartalmaznia kell az e törvény hatálya alá tartozó, kibocsátási engedéllyel rendelkező létesítmények előzetes jegyzékét és az egyes létesítmények számára kiosztani tervezett kibocsátási egységek mennyiségét.
 
-10. A Kiosztási Terv tájékoztatást adhat arról is, hogy miként veszi figyelembe az Európai Gazdasági Térségen kívüli országok vagy szervezetek okozta verseny hatásait.
+10. A Kiosztási Terv tájékoztatást adhat arról is, hogy miként veszi figyelembe az EGT-megállapodásban részes államokon kívüli országok vagy szervezetek okozta verseny hatásait.
 
 11. A Kiosztási Terv kitér a kiosztás gazdasági vonatkozásaira, különös tekintettel az agroökológiai potenciál megőrzésének és optimális hasznosításának érdekeire.
 

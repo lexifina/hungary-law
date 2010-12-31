@@ -1,6 +1,6 @@
-## A kibocsátási egységkereskedelem nyilvánossága
+## Az ÜHG-egyégek kereskedelmének nyilvánossága
 
-Üht. 16. § A kibocsátási egységkereskedelemmel kapcsolatos adatok, így különösen a
+Üht. 16. § Az ÜHG-egységek kereskedelmével kapcsolatos adatok, így különösen a
 
 a) kiadott kibocsátási engedélyekre,
 

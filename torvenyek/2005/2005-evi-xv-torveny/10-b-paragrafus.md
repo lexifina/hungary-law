@@ -1,0 +1,3 @@
+Üht. 10/B. § (1) A légiközlekedési kibocsátási egységek teljes mennyiségének a Bizottság által meghatározott referenciaérték alapján kiszámított része térítés nélkül kerül kiosztásra a légijármű üzemben tartók részére. A teljes mennyiség Bizottság által meghatározott része és a közösségi külön tartalékalapból ki nem osztott légiközlekedési kibocsátási egységek árverésen kerülnek értékesítésre, a Bizottság által elfogadott részletes szabályok szerint. A kiosztás átruházásnak minősül.
+
+(2) A légiközlekedési kibocsátási egységeknek a Bizottság által meghatározott referenciaérték alapján kiszámított része a közösségi külön tartalékalapból kerül kiosztásra a légiközlekedési új belépők részére. A kiosztás ez esetben is átruházásnak minősül.

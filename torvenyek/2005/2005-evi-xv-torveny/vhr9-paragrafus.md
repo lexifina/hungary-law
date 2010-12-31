@@ -14,4 +14,4 @@ c) a kereskedési időszak végét követő év május 1-jén, ha a kibocsátás
 
 [Üht. 10. §] (2) A 8. § (2) bekezdésének megfelelően értékesített kibocsátási egységek jóváírásáról a környezetvédelmi hatóság gondoskodik.
 
-(3) Az új belépő részére az adott kereskedési időszak alatt kiosztott kibocsátási egységek mennyiségét a környezetvédelmi hatóság határozatban állapítja meg, és gondoskodik a kibocsátási egységeknek az üzemeltető számláján történő jóváírásáról.
+(3) Az új belépő részére az adott kereskedési időszak alatt kiosztott kibocsátási egységek mennyiségét a miniszter határozatban állapítja meg, és gondoskodik a kibocsátási egységeknek az üzemeltető számláján történő jóváírásáról.
