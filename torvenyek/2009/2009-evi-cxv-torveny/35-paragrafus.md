@@ -8,7 +8,7 @@
 
 (2) Az 1–34., 37–72., 74–75. §, a 76. § (1)–(15) bekezdése, a 77–85. §, a 87. § (1)–(3), valamint a 87. § (5)–(12) bekezdése és a 88–93. § 2010. január 1-jén lép hatályba.
 
-(3) A 87. § (4) bekezdése 2011. november 1-jén lép hatályba.
+(3)
 
 (4) A 76. § (16) bekezdése 2015. január 1-jén lép hatályba.
 
@@ -16,6 +16,6 @@
 
 (6) A 76. § (16) bekezdése 2015. január 2-án hatályát veszti.
 
-(7) A 87. § (4) bekezdése 2011. november 2-án hatályát veszti.
+(7)
 
 (8) Az egyéni vállalkozásról szóló 1990. évi V. törvény 2010. január 2-án hatályát veszti.
