@@ -1,7 +1,10 @@
 ## 2. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-3. § (1) A folyamatban lévő képzéseket a megkezdésükkor érvényes követelmények alapján kell befejezni. Javító-, pótlóvizsga letételére a korábbi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. december 31-ig van lehetőség.
+3. §[^1] (1) A folyamatban lévő képzéseket a megkezdésükkor érvényes követelmények alapján kell befejezni. Javító-, pótlóvizsga letételére a korábbi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. december 31-ig van lehetőség.
 
-(2) Az e rendelet hatálybalépését megelőzően a gazdasági és közlekedési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 15/2008. (IV. 3.) GKM rendelet 2. melléklet „AZ 1. MELLÉKLET 16. SORSZÁMA ALATT KIADOTT ÉPÍTŐ- ÉS ANYAGMOZGATÓ GÉP KEZELŐJE SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI” fejezet rendelkezései alapján már megkezdett képzést követően a vizsga, illetve a pótlóvizsga 2010. december 15-ig tehető le.
+(2)[^2]
 
 (3) Az e rendelet hatálybalépését megelőzően az építő- és anyagmozgató gép kezelője egyes részszakképesítéseire, valamint szakképesítés-elágazásaira a közlekedési szakképesítések szakmai vizsgáinak szervezésére feljogosított intézményekről, valamint a gazdasági és közlekedési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 15/2008. (IV. 3.) GKM rendelet módosításáról szóló 22/2008. (VIII. 28.) KHEM rendelet alapján végzett vizsgaszervezési tevékenység az erre vonatkozó engedély érvényességéig a 4. mellékletben meghatározott szakképesítés megfeleltetés figyelembevételével végezhető.
+
+[^1]: A 3. §-t a 4. § (3) bekezdése hatályon kívül helyezte. [A 4. (3) bekezdése alapján 2014. január 1-jén lép hatályba.]
+[^2]: A 3. § (2) bekezdését a 4. § (2) bekezdése hatályon kívül helyezte.

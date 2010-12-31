@@ -7229,3 +7229,5 @@ Adatmentés és archiválás
 Adatbázis szoftvert telepít
 
 Adatbázisok tervezése és kialakítása
+
+3. A szakképesítéssel rokon szakképesítések:
