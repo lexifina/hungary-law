@@ -1,1 +1,1 @@
-78/A. § 2010-ben az első helyezést elért érmes járadékának mértéke a bérből és fizetésből élők 2008. évi – a Központi Statisztikai Hivatal által számított – országos szintű bruttó nominál átlagkeresetének megfelelő összeg.
+78/A. §
