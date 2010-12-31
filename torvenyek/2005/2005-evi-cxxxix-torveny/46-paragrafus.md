@@ -64,7 +64,7 @@ f) a felsőoktatási intézmény által létrehozott, illetve támogatott gazdas
 
 g) jogszabályban meghatározottak szerint tanulmányi szerződést, hallgatói szerződést kössön, munkavégzés melletti tanulmányok esetén igénybe vegye a tanulmányi szabadságot.
 
-(6) Az (5) bekezdés e)–f) pontjában meghatározott hallgatói munkadíj – külön törvényben meghatározottak szerint – mentes a közterhektől, a mindenkori legkisebb kötelező munkabér (minimálbér) mértékéig.
+(6)
 
 (7) A hallgatót megilleti az érdekérvényesítés és a jogorvoslat joga, e körben különösen, hogy
 

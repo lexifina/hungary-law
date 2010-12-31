@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-139-00-00
 | 2010-07-27 | 2010. évi LXXII. törvény | 2005-139-00-00.26 |
 | 2010-08-15 | 2010. évi XC. törvény | 2005-139-00-00.27 |
 | 2010-09-01 | 2010. évi XC. törvény | 2005-139-00-00.28 |
+| 2010-12-31 | 2010. évi CXXIII. törvény | 2005-139-00-00.29 |
