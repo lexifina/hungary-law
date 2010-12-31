@@ -50,7 +50,7 @@
 
 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 
-24. a megújuló energiaforrásból, a hulladékból nyert energiából és a kapcsolt energiatermelésből származó villamos energia eredetét igazoló bizonyítványra, a bizonyítvány kiadására, az ilyen energiaforrásból termelt villamos energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a zöld bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány rendszer bevezetésének időpontját,
+24. a megújuló energiaforrásból, a hulladékból nyert energiából és a kapcsolt energiatermelésből származó villamos energia eredetét igazoló bizonyítványra, a bizonyítvány kiadására, az ilyen energiaforrásból termelt villamos energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
 
 25. a Hivatal közérdekű határozatainak körét és a közzétételére vonatkozó részletes szabályokat,
 
