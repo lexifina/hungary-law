@@ -1,0 +1,5 @@
+9. §[^9] (1) A támogatás negyedévenkénti egyenlő részletekben történő folyósítása iránt a Támogató a költségvetési törvény hatálybalépését követően, január 15. napjáig, ezt követően minden negyedév első hónap 15. napjáig intézkedik a Kincstárnál. A Kincstár a rendelkezést követő 5 napon belül intézkedik a támogatás folyósítása iránt.
+
+(2) Az (1) bekezdés szerinti támogatás célnak megfelelő felhasználásának elszámolása és ellenőrzése, továbbá a jogosulatlanul igénybe vett támogatás visszakövetelése során az e rendeletben foglaltak, továbbá az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) fejezeti kezelésű előirányzatok elszámolására, ellenőrzésére vonatkozó szabályai szerint kell eljárni.
+
+[^9]: A 9. § a 12. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
