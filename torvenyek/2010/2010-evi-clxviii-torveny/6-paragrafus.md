@@ -9,11 +9,3 @@
 (5) Hatályát veszti a Btv. 43/A. §-ának (4) bekezdése.
 
 (6) Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény 29. §-a (1) bekezdésének a „termelő, a feldolgozó,” szövegrész helyébe a „termelő és a feldolgozó, valamint” szövegrész lép.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
