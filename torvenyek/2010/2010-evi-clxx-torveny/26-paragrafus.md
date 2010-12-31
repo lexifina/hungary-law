@@ -7,11 +7,3 @@
 (3) E törvény 22–24. §-a 2011. március 1-jén lép hatályba.
 
 (4) Ez a törvény 2011. március 2-án hatályát veszti.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
