@@ -1,1 +1,0 @@
-## „(1) A tervpályázat kiírását, dokumentációját, valamint a tervpályázati eljárás során készült iratokat, jegyzőkönyveket, zárójelentést, továbbá a pályaművek feliratozását és szöveges részeit magyar nyelven akkor is el kell készíteni, ha a kiíró a hirdetményben más nyelvet határoz meg. Vita esetén a magyar nyelvű szöveg az irányadó.”
