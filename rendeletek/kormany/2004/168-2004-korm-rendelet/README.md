@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | --- | --- | --- |
 | 2010-01-01 | 2004-168-20-22.12 | 168/2004. (V. 25.) Korm. rendelet |
 | 2010-04-17 | 2004-168-20-22.13 | 142/2007. (VI. 20.) Korm. rendelet |
+| 2010-12-31 | 2004-168-20-22.14 | 338/2009. (XII. 29.) Korm. rendelet |
