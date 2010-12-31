@@ -2,7 +2,7 @@
 
 (2) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 19. § (2) bekezdésében a „miniszter, hogy” szövegrész helyébe a „miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter egyetértésével kiadott rendeletben” szöveg lép.
 
-(3) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 19/B. § (4) bekezdésében a „miniszter, hogy rendeletben” szövegrész helyébe a „miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter egyetértésével kiadott rendeletben” szöveg lép.
+(3) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 19/B. § (4) bekezdésében a „miniszter, hogy rendeletben” szövegrész helyébe a „miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, valamint az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben” szöveg lép.
 
 (4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39/A. § (9) bekezdésében a „foglalkoztatáspolitikáért felelős minisztérium” szövegrész helyébe a „miniszter” szöveg lép.
 

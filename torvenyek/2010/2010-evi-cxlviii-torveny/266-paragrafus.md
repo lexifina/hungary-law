@@ -3,11 +3,3 @@
 (2) Ez a § az (1) bekezdésben meghatározott napot követő napon hatályát veszti.
 
 (3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 33. § (7) bekezdésében a „huszonkét” szövegrész helyébe a „harminc” szöveg lép.”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke

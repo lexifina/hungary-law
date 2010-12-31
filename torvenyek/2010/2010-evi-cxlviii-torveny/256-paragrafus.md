@@ -2,7 +2,7 @@
 
 (2) A minősített adat védelméről szóló 2009. évi CLV. törvény 4. § (3) bekezdésében az „a polgári nemzetbiztonsági szolgálatokat irányító miniszter” szövegrész helyébe az „a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter” szöveg lép.
 
-(3) A minősített adat védelméről szóló 2009. évi CLV. törvény 8. § (5) bekezdésében az „ügyészség vezetője, Miniszterelnöki Hivatalt vezető” szövegrész helyébe az „ügyészség vezetője, a miniszterelnök a miniszterelnöki biztos, a kormányzati tevékenység összehangolásáért felelős” szöveg lép.
+(3) A minősített adat védelméről szóló 2009. évi CLV. törvény 8. § (5) bekezdésében az „ügyészség vezetője, a Miniszterelnöki Hivatalt vezető” szövegrész helyébe az „ügyészség vezetője, a miniszterelnök a miniszterelnöki biztos, a kormányzati tevékenység összehangolásáért felelős” szöveg lép.
 
 (4) A minősített adat védelméről szóló 2009. évi CLV. törvény 10. § (3) bekezdésében az „a kiállításától számított” szövegrész helyébe az „a szakvélemény kiállításától számított” szöveg lép.
 
