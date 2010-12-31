@@ -2,7 +2,7 @@
 
 9. § A törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
 
-a) beruházás: az ügyfél által eszközölt, a számvitelről szóló 2000. évi C. törvény és a személyi jövedelemadóról szóló 1995. évi CXVII. törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
+a) beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. §-a (1) bekezdésének a) pontjában megfogalmazott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 
 b) egyéb szervezet: jogi személyiséggel nem rendelkező gazdasági társaság, szakcsoport, polgári jogi társaság, és minden más, jogi személyiséggel nem rendelkező személyi egyesülés;
 
