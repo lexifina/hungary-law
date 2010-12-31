@@ -34,4 +34,4 @@ a kihirdetést követő 45. napon lép hatályba.
 
 (5)
 
-(6) Az (5) bekezdésben foglalt rendelkezéseket a törvény hatálybalépését követően indult ügyekben kell alkalmazni.
+(6)

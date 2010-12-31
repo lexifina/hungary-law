@@ -24,15 +24,17 @@ i) az e törvény szerinti szakértői tevékenység folytatásának a részlete
 
 j) az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
 
-k) az országos törzshálózati, regionális és egyéb vasúti pályának minősülő vasúti pályákat,
+k) az országos törzshálózati, regionális és egyéb vasúti pályának minősülő vasúti pályákat, valamint a vasúti pályáknak az egyes vasúti pályatípusok közötti átsorolásra vonatkozó szabályokat,
 
-l) a vasúti építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, valamint üzemeltetése, illetve üzemben tartása ellenőrzésének részletes szabályait
+l) a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi létesítményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, valamint üzemeltetése, illetve üzemben tartása ellenőrzésének részletes szabályait,
+
+m) a vasúti társaság indokoltnak elismert és az állam által meg nem térített költségei finanszírozására felvett hitel esetében az állami kezességre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-1. a működési engedélyezés részletes szabályait, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának a részletes szabályait,
+1. a működési engedélyezés részletes szabályait, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának részletes szabályait, valamint a tevékenység megkezdésének bejelentésére vonatkozó szabályokat
 
 2. a vasútbiztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokat,
 
@@ -50,9 +52,9 @@ rendeletben állapítsa meg.
 
 9. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények üzembe helyezése engedélyezésének, időszakos vizsgálatának és ellenőrzésének előírásait,
 
-10.
+10. a vasúti járművek nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó rendelkezéseket,
 
-11. a vasúti pálya tartozékának minősülő vasúti távközlő-berendezések körét,
+11. a vasúti pályák nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó rendelkezéseket,
 
 12. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
 
@@ -76,7 +78,7 @@ rendeletben állapítsa meg.
 
 22. a vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módját és feltételeit,
 
-23. a záhonyi körzetben a vasúti pályahálózathoz tartozó átrakó és rendező pályaudvarok vasúti üzemi létesítményeinek körét az államháztartásért felelős miniszterrel egyetértésben,
+23. a vasúti járművek karbantartását, vizsgálatát végző személyek és vizsgahelyek engedélyezésére vonatkozó részletes szabályokat,
 
 24. a vasúti közlekedés biztonságára és a biztonsági szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó szabályokat,
 
@@ -94,4 +96,4 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a miniszter, hogy az országos vasúti pályahálózathoz tartozó felszín alatti vasúti pálya nyomvonala által érintett ingatlanok jegyzékét rendeletben közzétegye.
+(3) Felhatalmazást kap a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti szakértői tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjakat rendeletben állapítsa meg.

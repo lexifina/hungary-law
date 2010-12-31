@@ -1,12 +1,12 @@
 ## VASÚTBIZTONSÁGI TANÚSÍTVÁNY ÉS VASÚTBIZTONSÁGI ENGEDÉLY
 
-33. § (1) A belföldön bejegyzett vasúti társaság a vasúti pályahálózatot kizárólag a közlekedési hatóság által kiállított vasútbiztonsági tanúsítvány birtokában használhatja. A vasútbiztonsági tanúsítvány igazolja, hogy a vasúti társaság létrehozta a biztonsági rendszerét, és a kockázatok korlátozása és a vasúti pályahálózat biztonságos üzemeltetése érdekében képes megfelelni a kölcsönös átjárhatósági műszaki előírásokban, valamint a nemzeti biztonsági szabályokban meghatározott követelményeknek.
+33. § (1) A belföldön bejegyzett vasúti társaság a vasúti pályahálózatot – a (7) bekezdésben meghatározott kivétellel – kizárólag a közlekedési hatóság által kiállított vasútbiztonsági tanúsítvány birtokában használhatja. A vasútbiztonsági tanúsítvány igazolja, hogy a vasúti társaság létrehozta a biztonsági rendszerét, és a kockázatok korlátozása és a vasúti pályahálózaton biztonságos vasúti közlekedési tevékenység végzése érdekében képes megfelelni az ÁME-kben, valamint a nemzeti biztonsági szabályokban meghatározott követelményeknek.
 
 (2) A vasútbiztonsági tanúsítvány a következő részekből áll:
 
 a) vasútbiztonsági tanúsítvány a jogosult biztonságirányítási rendszerének elfogadásáról,
 
-b) vasútbiztonsági tanúsítvány a jogosultnak az igénybe venni kívánt vasúti pályahálózaton való biztonságos közlekedéséhez szükséges – az ÁME-k és a nemzeti vasútbiztonsági szabályok alkalmazásával, a személyzet bizonyítványainak elfogadásával, és a jogosult által használt vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos – sajátos követelmények teljesítése érdekében tett intézkedései elfogadásáról, a jogosult által benyújtott dokumentáció alapján.
+b) vasútbiztonsági tanúsítvány a jogosultnak az igénybe venni kívánt vasúti pályahálózaton való biztonságos közlekedéséhez szükséges – az ÁME-k, a nemzeti vasútbiztonsági szabályok és a vasúti pályahálózatok üzemeltetésére vonatkozó szabályok alkalmazásával, a személyzet bizonyítványainak elfogadásával, és a jogosult által használt vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos – sajátos követelmények teljesítése érdekében tett intézkedései elfogadásáról, a jogosult által benyújtott dokumentáció alapján.
 
 (3) A (2) bekezdés a) pontja szerinti vasútbiztonsági tanúsítványban részletezni kell a vasútbiztonsági tanúsítvány által érintett vasúti tevékenység jellemzőit.
 
@@ -15,3 +15,11 @@ b) vasútbiztonsági tanúsítvány a jogosultnak az igénybe venni kívánt vas
 (5) A vasútbiztonsági tanúsítvánnyal már rendelkező vasúti társaságnak a vasútbiztonsági tanúsítvány a hatálya alá nem tartozó vasúti pályahálózat használatához kiegészítő vasútbiztonsági tanúsítványt kell kérnie. A kiegészítő vasútbiztonsági tanúsítványban a közlekedési hatóság azt igazolja, hogy a vasúti társaság e további vasúti pályahálózatra vonatkozóan is megfelel a (2) bekezdés b) pontjában foglalt feltételeknek. E rendelkezést megfelelően alkalmazni kell abban az esetben is, ha más EGT-államban a 95/18/EK irányelvvel összhangban kiadott működési engedély alapján működő és ott vasútbiztonsági tanúsítványt szerzett vasúti társaság a Magyar Köztársaság területén lévő vasúti pályahálózatot kívánja használni.
 
 (6) A kiegészítő vasútbiztonsági tanúsítvány vonatkozásában alkalmazni kell a 35. § (2)–(7) bekezdéseiben foglaltakat.
+
+(7) Nem kell vasútbiztonsági tanúsítvány
+
+a) a turistavasútnak,
+
+b) a sífelvonónak,
+
+c) a saját célú vasúti pályahálózaton áruszállítás végzéséhez.

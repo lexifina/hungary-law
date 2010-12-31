@@ -4,7 +4,7 @@
 
 a) jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai – ideértve a trolibusz felsővezetékét is – építéséhez, létesítéséhez, korszerűsítéséhez, átalakításához, használatbavételéhez, fennmaradásához és megszüntetéséhez,
 
-b) vasúti jármű üzembe helyezéséhez,
+b) vasúti jármű típusának engedélyezéséhez és a vasúti jármű üzembe helyezéséhez,
 
 c) vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok, nyomástartó edények üzemben tartásához, átalakításához,
 

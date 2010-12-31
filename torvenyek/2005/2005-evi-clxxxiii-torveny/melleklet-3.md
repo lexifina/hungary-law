@@ -22,7 +22,7 @@ b) vasúti állomások használata és állomáshasználathoz kapcsolódó járu
 
 c) vasúti üzemanyagtöltő berendezések és felsővezetéki rendszerek használata,
 
-d) állomási, szolgálati helyiségek, vonali területek és berendezések használata, állomási és vonali üzemszünet felfüggesztése, illetve vasúti járművek tárolása,
+d) állomási, szolgálati helyiségek, vonali területek és berendezések használata, , illetve vasúti járművek tárolása,
 
 e) hozzáférés a vasúti jármű karbantartására szolgáló létesítményekhez, a különböző nyomtávok közötti átrakást szolgáló berendezésekhez és a vasúti pályahálózat igénybevételéhez elengedhetetlenül szükséges egyéb létesítményekhez és berendezésekhez.
 

@@ -4,7 +4,7 @@
 
 (2) A vasúti közlekedés biztonsága érdekében
 
-a) az üzembentartó a kialakult vagy várható veszélyhelyzet esetén köteles a veszélyre (várható veszélyre) az érintetteket figyelmeztetni,
+a) az üzembentartó a kialakult vagy várható katasztrófa, rendkívüli esemény, súlyos káresemény (a továbbiakban együtt: veszélyhelyzet) esetén köteles a veszélyhelyzetre az érintetteket figyelmeztetni,
 
 b) a vasúti pályahálózat működtetője – a veszélyhelyzet megszűnéséig – jogosult a veszélyeztetett vasúti pályának, illetve pályaszakasznak a lezárására, továbbá az adott pályaszakaszra kiadott menetvonalak visszavonására, a közúti átjárót érintő lezárás esetén a közút kezelőjének értesítése mellett,
 

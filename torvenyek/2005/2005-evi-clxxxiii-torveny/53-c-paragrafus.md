@@ -10,7 +10,7 @@ b) a vasúti pályahálózat működtetője vagy vasúti személyszállítási k
 
 folytatja le.
 
-(4) A vasúti igazgatási szerv a (2) bekezdés szerinti eljárásban a vasúti személyszállítási közszolgáltatási szerződés odaítéléséről döntő szervet vagy szerveket és a vasúti személyszállítási közszolgáltatást végző vasúti társaságot a megalapozott döntéshez szükséges információk átadására hívhatja fel. A vasúti igazgatási szerv – szükség esetén az érintett felekkel való konzultációt követően – az összes lényeges információ kézhezvételét követő 45 munkanapon belül határoz. A vasúti igazgatási szerv a határozatában megállapítja a (2) bekezdésben meghatározott gazdasági hátrány elkerülése érdekében szükséges intézkedéseket, valamint azt az időtartamot, amelynek elteltét követően a határozat felülvizsgálatát
+(4) A vasúti igazgatási szerv a (2) bekezdés szerinti eljárásban a vasúti személyszállítási közszolgáltatási szerződés odaítéléséről döntő szervet vagy szerveket és a vasúti személyszállítási közszolgáltatást végző vasúti társaságot a megalapozott döntéshez szükséges információk átadására hívhatja fel. A vasúti igazgatási szerv – szükség esetén az érintett felekkel való konzultációt követően – az összes lényeges információ kézhezvételét követő két hónapon belül határoz. A vasúti igazgatási szerv a határozatában megállapítja a (2) bekezdésben meghatározott gazdasági hátrány elkerülése érdekében szükséges intézkedéseket, valamint azt az időtartamot, amelynek elteltét követően a határozat felülvizsgálatát
 
 a) a vasúti személyszállítási közszolgáltatási szerződést odaítélő szerv,
 

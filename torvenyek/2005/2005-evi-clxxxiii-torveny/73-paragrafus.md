@@ -12,7 +12,7 @@ e) az 57. § és 57/A. § szerinti keretmegállapodások jóváhagyása,
 
 f) integrált vasúti társaság 66. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, illetőleg annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
 
-g) a 37. § szerinti számviteli elkülönítés teljesítésének ellenőrzése,
+g)
 
 h) a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a vasúti pályahálózat működtetője, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés vasúti pályák nyílt hozzáférésűvé, illetve nyílt hozzáférés alól mentessé történő minősítéséről,
 
@@ -40,4 +40,4 @@ s) a 27/E. § szerinti kártalanítási kötelezettség megállapítása.
 
 (2) A vasúti igazgatási szerv információt cserélhet a más EGT-államokban működő nemzeti szabályozó szervezetekkel, az Európai Bizottsággal és az Európai Vasúti Ügynökséggel a tevékenységéről, a döntéshozatali elveiről és gyakorlatáról, abból a célból, hogy a vasúti szabályozás döntéshozatali elvei az EGT-n belül összehangolhatók legyenek.
 
-(3) Az (1) bekezdés f) pontja szerinti mérlegelés során a hatóság a bírság kiszabását akkor mellőzi, ha a bírság kiszabására okot adó tevékenység vagy mulasztás az életet, a testi épséget, a vagyonbiztonságot, a közlekedés biztonságát vagy a közteherviselési kötelezettség teljesítését közvetlenül nem veszélyezteti, harmadik személynek kárt nem okoz, a tevékenység vagy mulasztás tekintetében a rosszhiszeműség, a hatóság félrevezetésének szándéka nem állapítható meg, és a tevékenység vagy mulasztás első ízben fordul elő.
+(3)

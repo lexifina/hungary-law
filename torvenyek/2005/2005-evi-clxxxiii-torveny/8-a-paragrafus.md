@@ -1,4 +1,4 @@
-8/A. § (1) A 8. § (1) bekezdés a) pontjában meghatározott üzleti jó hírnévvel nem rendelkezik az a kérelmező, amelynek a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) szerinti vezetője és a gazdasági társaságokról szóló törvény szerinti vezető tisztségviselője (a továbbiakban együtt: vezető) büntetett előéletű.
+8/A. § (1) A 8. § (1) bekezdés a) pontjában meghatározott üzleti jó hírnévvel nem rendelkezik az a kérelmező, amelynek a gazdasági társaságokról szóló törvény szerinti vezető tisztségviselője (a továbbiakban együtt: vezető) büntetett előéletű.
 
 (2) A vezető a működési engedély kiadása iránti kérelem benyújtásával egyidejűleg a vasúti igazgatási szerv részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy az e tényre vonatkozó adatokat a bűnügyi nyilvántartó szerv a vasúti igazgatási szerv részére – annak a működési engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vezető büntetlen előéletű-e.
 

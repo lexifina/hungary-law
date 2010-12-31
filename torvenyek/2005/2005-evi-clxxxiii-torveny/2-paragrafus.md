@@ -8,7 +8,17 @@
 
 2. vasúti rendszer: a hagyományos és a nagysebességű vasúti rendszerek strukturális és működési alrendszereinek összessége, valamint ezek irányítása és üzemeltetése;
 
-3. szervezet: a jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság.
+3. szervezet: a jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság;
+
+4. kölcsönös átjárhatóság: egy vasúti pályahálózat azon képessége, amely lehetővé teszi az ezeken a pályahálózatokon előírt teljesítményt elérő vonatok biztonságos és zavartalan haladását. Ez a képesség azoktól a szabályozási, műszaki és üzemeltetési feltételektől függ, amelyeket az alapvető követelményeknek való megfelelés érdekében be kell tartani;
+
+5. nyomtáv: a vasúti pálya két sínszálának egymástól való távolsága;
+
+6. normál nyomtáv: a vasúti pálya két sínszálának egymástól való távolsága 1435 mm;
+
+7. keskeny nyomtáv: a normál nyomtávnál keskenyebb nyomtáv;
+
+8. széles nyomtáv: a normál nyomtávnál nagyobb nyomtáv.
 
 (2) Vasúti tevékenységek, szolgáltatások:
 
@@ -16,9 +26,9 @@
 
 2. vasúti pályahálózat működtetése: vasúti pályahálózat üzemeltetése és fenntartása, létesítése, felújítása, fejlesztése, megszüntetése, valamint az ezekhez közvetlenül kapcsolódó tevékenységek, továbbá a vasúti pályahálózat használatával összefüggő – a 3. számú mellékletben meghatározott – egyéb szolgáltatások nyújtása;
 
-3. vállalkozó vasúti tevékenység: a más részére díj ellenében végzett vasúti személyszállítás, a vasúti árutovábbítás, valamint a más személy részére ellenérték fejében végzett vontatás (vontatási szolgáltatás), ideértve az ezekhez kapcsolódó kiegészítő tevékenységeket is;
+3. vállalkozó vasúti tevékenység: a más részére díj ellenében végzett vasúti személyszállítás, a vasúti árutovábbítás, valamint a más személy részére ellenérték fejében végzett vontatás (vontatási szolgáltatás);
 
-4. vasúti személyszállítás: vasúti járművel szerződés alapján, díj ellenében végzett személyszállítás, valamint az ezekhez kapcsolódó kiegészítő szolgáltatások;
+4. vasúti személyszállítás: vasúti járművel szerződés alapján, díj ellenében végzett személyszállítás;
 
 5. belföldi vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás egyaránt a Magyar Köztársaság területén van;
 
@@ -114,7 +124,7 @@ vasúti pálya;
 
 5. regionális vasúti pálya: az országos törzshálózati vasúti pályához csatlakozó – külön jogszabályban meghatározott – vasúti pálya;
 
-6. egyéb vasúti pálya: a 4–5. és 7–9. pontokban meghatározott vasúti pályának nem minősülő, állami tulajdonban vagy az állam legalább többségi irányítást biztosító befolyása alatt álló szervezet tulajdonában álló, külön jogszabályban meghatározott vasúti pálya;
+6. egyéb vasúti pálya: a 4–5. és 7–9. pontokban meghatározott vasúti pályának nem minősülő, állami tulajdonban vagy az állam legalább többségi befolyása alatt álló szervezet tulajdonában álló, külön jogszabályban meghatározott vasúti pálya;
 
 7. csatlakozó vasúti pálya: az országos vasúti pályahálózatot és a sajátcélú vasúti pályahálózatot összekötő vasúti pálya, amelyhez egynél több saját célú pálya kapcsolódik, illetve egynél több végfelhasználó kiszolgálására alkalmas;
 
@@ -122,7 +132,7 @@ vasúti pálya;
 
 9. helyi vasúti pálya: a helyi vasúti pályahálózat részét képező vasúti pálya;
 
-10. vasúti pályahálózat: egy vasúti társaság által működtetett összefüggő rendszer, amely az 1970. december 18-ai 1108/70/EGK bizottsági rendelet I. mellékletében található számlaforma egyes rovataiban feltüntetendő tételek meghatározásáról szóló, 1970. december 18-ai 2598/70/EGK bizottsági rendelet I. mellékletének A. részében felsorolt elemekből áll, azzal az eltéréssel, hogy az utolsó francia bekezdésben foglaltak helyett „A pályavasúti részleg által használt épületek”-et kell érteni;
+10. vasúti pályahálózat: egy vasúti társaság által működtetett összefüggő rendszer, amely az 1970. december 18-ai 1108/70/EGK bizottsági rendelet I. mellékletében található számlaforma egyes rovataiban feltüntetendő tételek meghatározásáról szóló, 2006. június 9-i 851/2006/EK bizottsági rendelet I. mellékletének A. részében felsorolt elemekből áll, azzal az eltéréssel, hogy az utolsó francia bekezdésben foglaltak helyett „A pályavasúti részleg által használt épületek”-et kell érteni;
 
 11. országos vasúti pályahálózat: térségi, elővárosi, helyi, illetve sajátcélú vasúti pályahálózatnak nem minősülő vasúti pályahálózat; nem minősül az országos vasúti pályahálózat részének a külön jogszabályban meghatározott egyéb vasúti pálya és tartozéka sem;
 
@@ -136,7 +146,7 @@ vasúti pálya;
 
 (5) Egyéb fogalmak:
 
-1. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró jármű;
+1. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró, saját kerekein a vasúti sínen közlekedő jármű, amely a transzeurópai hagyományos és nagysebességű vasúti rendszerben az ÁME-k szerinti egy vagy több alrendszerből, vagy ezen alrendszerek egy vagy több részéből áll;
 
 2. különleges vasút: a magasvasút, a felszín alatti vasút (metró, kéregvasút), a fogaskerekű vasút, a sikló, a függővasút és a sífelvonó;
 
@@ -176,7 +186,9 @@ vasúti pálya;
 
 17. egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a miniszter által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
 
-18. Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület.
+18. Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület;
+
+19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 
 (6) A 68. §–68/G. § alkalmazásában:
 

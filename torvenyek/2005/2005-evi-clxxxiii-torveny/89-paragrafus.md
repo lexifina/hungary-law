@@ -24,6 +24,10 @@ j) az Európai Parlament és a Tanács 2007/58/EK irányelve (2007. október 23.
 
 k) az Európai Parlament és a Tanács 2007/59/EK irányelve (2007. október 23.) a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők minősítéséről [a törvény végrehajtására a 88. § (1) bekezdésének g) pontjában, valamint 88. §-a (2) bekezdésének 2. és 12. pontjában adott felhatalmazások alapján megalkotott rendeletekkel együtt].
 
+l) az Európai Parlament és a Tanács 2008/110/EK irányelve (2008. december 16.) a közösségi vasutak biztonságáról szóló 2004/49/EK irányelv (vasúti biztonsági irányelv) módosításáról 1. cikk 1. pont, 2. pont, 5. pont b) pontja, 7. és 9. pont,
+
+m) az Európai Parlament és a Tanács 2008/57/EK irányelve (2008. június 17.) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról 2. cikk b)–c) pontjai, 21. cikk (8) bekezdés, 23. cikk (7) bekezdés, 25. cikk (5) bekezdés.
+
 (2) Ez a törvény a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) az Európai Parlament és a Tanács 1370/2007/EK rendelete (2007. október 23.) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről,

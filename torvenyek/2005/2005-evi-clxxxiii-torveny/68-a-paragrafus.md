@@ -1,6 +1,6 @@
 ## AZ UTAZÓ VASÚTI MUNKAVÁLLALÓK JOGAI ÉS KÖTELEZETTSÉGEI
 
-68/A. § (1) Az Mt. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók esetében.
+68/A. § (1) A Munka Törvénykönyvéről szóló törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók esetében.
 
 (2) Az e fejezetben foglalt rendelkezéseket nem kell alkalmazni az országhatárokon átnyúló helyi és térségi vasúti személyszállítás és az országhatár 15 kilométeres körzetét át nem lépő, országhatárokon átnyúló vasúti árutovábbítás, valamint a Magyar Köztársaság és a szomszédos ország határállomásai közötti szolgáltatás tekintetében.
 

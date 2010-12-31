@@ -10,15 +10,13 @@
 
 (2) A vasúti pályahálózat működtetője nem köteles a nyílt hozzáférést biztosítani
 
-a) a kizárólag vasúti személyszállítás céljára fenntartott különálló helyi és térségi vasúti pályahálózathoz,
+a) a kizárólag vasúti személyszállítás céljára fenntartott – nem átjárható – helyi és térségi vasúti pályahálózathoz,
 
 b) a kizárólag vasúti személyszállítás céljára fenntartott elővárosi vasúti pályahálózathoz,
 
-c) a saját célú vasúti tevékenységet végző szervezet tulajdonában lévő vasúti pályákból álló, és kizárólagosan az e szervezet által áruszállításra használt saját célú vasúti pályahálózathoz,
+c) a kizárólag a vasúti pályahálózat tulajdonosa által vagy az ő érdekében áruszállításra használt saját célú vasúti pályahálózathoz,
 
-d) a kizárólag honvédelmi célra használt vasúti pályahálózathoz,
-
-e) az összekötő vasúti pályához, kivéve a vasúti pályahálózat működtető által üzemeltetett saját célú vasúti pályahálózathoz vezető összekötő vasúti pályát.
+d) a kizárólag honvédelmi célra használt vasúti pályahálózathoz.
 
 (3) A transz-európai vasúti áruszállítási hálózat részeként működő vasútvonalak minden esetben a nyílt hozzáférés körébe tartoznak.
 
