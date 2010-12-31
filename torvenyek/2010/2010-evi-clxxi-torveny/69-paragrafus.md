@@ -1,0 +1,3 @@
+69. § A Cst. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A közoktatási intézményben a tizennyolcadik életévének betöltését követően tanulmányokat folytató azon személyre tekintettel, aki után a tizennyolcadik életéve betöltéséig az (1) bekezdés g) vagy h) pontja szerinti összegben folyósítottak iskoláztatási támogatást, az iskoláztatási támogatást továbbra is a korábban folyósított összegnek megfelelő összegben kell folyósítani. Más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül az (1) bekezdés g)–i) pontja szerinti, valamint az e bekezdés alapján folyósított ellátás.”

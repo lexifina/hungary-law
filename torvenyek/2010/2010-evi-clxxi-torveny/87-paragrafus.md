@@ -1,0 +1,3 @@
+87. § A Fot. 20. §-a helyébe a következő rendelkezés lép:
+
+„20. § A 21. §-ban megjelölt állami feladatot a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a társadalmi esélyegyenlőség előmozdításáért felelős miniszter szakmai felügyelete alatt álló szervezet látja el. A szervezet számára törvény vagy kormányrendelet további feladatokat állapíthat meg.”

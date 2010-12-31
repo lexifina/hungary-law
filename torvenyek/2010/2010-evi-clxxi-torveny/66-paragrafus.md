@@ -1,0 +1,13 @@
+## 3. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
+
+66. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Nevelési ellátásra jogosult
+
+a) a vér szerinti, az örökbe fogadó szülő, a szülővel együtt élő házastárs, az a személy, aki a saját háztartásában nevelt gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van (a továbbiakban együtt: szülő), a nevelőszülő, a hivatásos nevelőszülő, a gyám, továbbá az a személy, akihez a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 72. §-ának (1) bekezdése alapján a gyermeket ideiglenes hatállyal elhelyezték, a saját háztartásában nevelt,
+
+b) a vagyonkezelői joggal felruházott gyám, illetőleg a vagyonkezelő eseti gondnok a gyermekotthonban nevelt, és
+
+c) a Magyarország területén működő szociális intézmény vezetője – amennyiben más személy jogosultsága a b) pont alapján nem állapítható meg – az intézményben elhelyezett,
+
+még nem tanköteles gyermekre tekintettel, a gyermek tankötelessé válása évének október 31-éig.”
