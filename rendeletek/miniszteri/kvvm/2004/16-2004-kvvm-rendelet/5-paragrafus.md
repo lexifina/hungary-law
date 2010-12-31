@@ -1,32 +1,36 @@
 ## 4. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-## 5. §[^8] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 5. §[^8] Ez a rendelet
 
-a) az Európai Parlament és a Tanács 2002/95/EK irányelve (2003. január 27.) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról 2. cikke (1), (3) bekezdésének, 3. cikkének, 4. cikke (1)–(2) bekezdésének, mellékletének;
+a) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2003. január 27-i 2002/95/EK európai parlamenti és tanácsi irányelv 2. cikk (1) és (3) bekezdésének, 3. cikkének, 4. cikk (1)–(2) bekezdésének, valamint mellékletének;
 
-b) a Bizottság 2005/618/EK határozata (2005. augusztus 18.) egyes veszélyes anyagok elektromos és elektronikus berendezésekben való maximális koncentrációértékeinek meghatározása céljából a 2000/95/EK európai parlamenti és tanácsi irányelv módosításáról;
+b) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való maximális koncentrációértékeinek meghatározása céljából a 2000/95/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2005. augusztus 18-i 2005/618/EK bizottsági határozatnak;
 
-c) a Bizottság 2005/717/EK határozata (2005. október 13.) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki haladáshoz való hozzáigazítás céljából történő módosításáról;
+c) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki haladáshoz való hozzáigazítás céljából történő módosításáról szóló, 2005. október 13-i 2005/717/EK bizottsági határozatnak;
 
-d) a Bizottság 2005/747/EK határozata (2005. október 21.) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki haladáshoz való hozzáigazítás céljából történő módosításáról,
+d) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki haladáshoz való hozzáigazítás céljából történő módosításáról szóló, 2005. október 21-i 2005/747/EK bizottsági határozatának;
 
-e)[^9] a Bizottság 2006/310/EK határozata (2006. április 21.) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének az ólom alkalmazására vonatkozó mentességek tekintetében, a műszaki haladáshoz való hozzáigazítás céljából történő módosításáról,
+e) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének az ólom alkalmazására vonatkozó mentességek tekintetében, a műszaki haladáshoz való hozzáigazítás céljából történő módosításáról szóló, 2006. április 21-i 2006/310/EK bizottsági határozatának;
 
-f)[^10] a Bizottság 2006/690/EK határozata (2006. október 12.) a műszaki fejlődéshez történő hozzáigazítás érdekében a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a kristályüvegben található ólom alkalmazásai mentesítésének tekintetében történő módosításáról;
+f) a műszaki fejlődéshez történő hozzáigazítás érdekében a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a kristályüvegben található ólom alkalmazásai mentesítésének tekintetében történő módosításáról szóló, 2006. október 12-i 2006/690/EK bizottsági határozatának;
 
-g)[^11] a Bizottság 2006/691/EK határozata (2006. október 12.) a műszaki fejlődéshez történő hozzáigazítás érdekében a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének az ólom és a kadmium alkalmazásai mentesítésének tekintetében történő módosításáról;
+g) a műszaki fejlődéshez történő hozzáigazítás érdekében a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének az ólom és a kadmium alkalmazásai mentesítésének tekintetében történő módosításáról szóló, 2006. október 12-i 2006/691/EK bizottsági határozatának;
 
-h)[^12] a Bizottság 2006/692/EK határozata (2006. október 12.) a műszaki fejlődéshez történő hozzáigazítás érdekében a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a hatvegyértékű króm alkalmazásai mentesítésének tekintetében történő módosításáról;
+h) a műszaki fejlődéshez történő hozzáigazítás érdekében a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a hatvegyértékű króm alkalmazásai mentesítésének tekintetében történő módosításáról szóló, 2006. október 12-i 2006/692/EK bizottsági határozatának;
 
-i)[^13] az Európai Parlament és a Tanács 2006/66/EK irányelve (2006. szeptember 6.) az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK irányelv hatályon kívül helyezéséről 11. cikke;
+i) az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK irányelv hatályon kívül helyezéséről szóló, 2006. szeptember 6-i 2006/66/EK európai parlamenti és tanácsi irányelv 11. cikkének;
 
-j)[^14] a Bizottság 2008/385/EK határozata (2008. január 24.) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének az ólom és a kadmium alkalmazásaira vonatkozó mentesítések tekintetében történő, a műszaki fejlődéshez való hozzáigazítást szolgáló módosításáról;
+j) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének az ólom és a kadmium alkalmazásaira vonatkozó mentesítések tekintetében történő, a műszaki fejlődéshez való hozzáigazítást szolgáló módosításáról szóló, 2008. január 24-i 2008/385/EK bizottsági határozatának;
 
-k)[^15] a Bizottság 2009/428/EK határozata (2009. június 4.) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki fejlődéshez való hozzáigazítás céljából, a száloptikai kommunikációs rendszerekben használt RIG Faraday-rotátorokban szennyeződésként előforduló ólomra vonatkozó mentesség tekintetében történő módosításáról;
+k) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki fejlődéshez való hozzáigazítás céljából, a száloptikai kommunikációs rendszerekben használt RIG Faraday-rotátorokban szennyeződésként előforduló ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2009. június 4-i 2009/428/EK bizottsági határozatának;
 
-l)[^16] a Bizottság 2009/443/EK határozata (2009. június 10.) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki fejlődéshez való hozzáigazítás céljából, az ólom, a kadmium és a higany alkalmazásaira vonatkozó mentességek tekintetében történő módosításáról.
+l) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki fejlődéshez való hozzáigazítás céljából, az ólom, a kadmium és a higany alkalmazásaira vonatkozó mentességek tekintetében történő módosításáról szóló, 2009. június 10-i 2009/443/EK bizottsági határozatának és
 
-Melléklet a 16/2004. (X. 8.) KvVM rendelethez[^17]
+m) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a kadmium alkalmazásainak egyikére vonatkozó mentesség tekintetében történő módosításáról szóló, 2010. február 25-i 2010/122/EU bizottsági határozatának
+
+való megfelelést szolgálja.
+
+Melléklet a 16/2004. (X. 8.) KvVM rendelethez[^9]
 
 Az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifenilek (PBB-k)
 
@@ -126,7 +130,7 @@ Az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifen
 
 | 3. | A 100 dB (A) és annál nagyobb hangnyomású, nagy teljesítményű hangszórókban használt transzduktorokban, közvetlenül a tekercsen található áramvezető anyagok elektromos, illetve mechanikus forrasztóanyagaként használt kadmium alapú ötvözetek. | nincs határérték |
 
-| 4. |  |  |
+| 4. | A II–VI típusú félvezető anyagból készülő, szilárdtest-világítási vagy -kijelző rendszerekben használt színátalakító LED-ekben lévő kadmium 2014. július 1-jéig. | a fénykibocsátó terület egy mm2-ére eső kadmium- mennyiség 10 μg |
 
 | 5. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid. | nincs határérték |
 
@@ -138,13 +142,5 @@ Az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifen
 
 | V. |  |  |  |
 
-[^8]: Az 5. § a 26/2006. (IV. 28.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^9]: Az 5. § e) pontját a 31/2006. (VI. 28.) KvVM rendelet 1. §-a iktatta be.
-[^10]: Az 5. § f) pontját az 1/2007. (I. 18.) KvVM rendelet 1. §-a iktatta be.
-[^11]: Az 5. § g) pontját az 1/2007. (I. 18.) KvVM rendelet 1. §-a iktatta be.
-[^12]: Az 5. § h) pontját az 1/2007. (I. 18.) KvVM rendelet 1. §-a iktatta be.
-[^13]: Az 5. § i) pontját a 21/2008. (VIII. 30.) KvVM rendelet 11. § (3) bekezdése iktatta be.
-[^14]: Az 5. § j) pontját a 28/2008. (XII. 10.) KvVM rendelet 5. §-a iktatta be.
-[^15]: Az 5. § k) pontját a 17/2009. (X. 22.) KvVM rendelet 1. §-a iktatta be.
-[^16]: Az 5. § l) pontját a 17/2009. (X. 22.) KvVM rendelet 1. §-a iktatta be.
-[^17]: A melléklet a 31/2006. (VI. 28.) KvVM rendelet 2. §-ával megállapított, az 1/2007. (I. 18.) KvVM rendelet 2. §-a, a 28/2008. (XII. 10.) KvVM rendelet 6. §-a, a 17/2009. (X. 22.) KvVM rendelet 2. §-a, továbbá a 3. § (2)–(5) bekezdése szerint módosított szöveg.
+[^8]: Az 5. § a 45/2010. (XII. 23.) VM rendelet 1. §-ával megállapított szöveg.
+[^9]: A melléklet a 31/2006. (VI. 28.) KvVM rendelet 2. §-ával megállapított, az 1/2007. (I. 18.) KvVM rendelet 2. §-a, a 28/2008. (XII. 10.) KvVM rendelet 6. §-a, a 17/2009. (X. 22.) KvVM rendelet 2. §-a, továbbá a 3. § (2)–(5) bekezdése, a 45/2010. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
