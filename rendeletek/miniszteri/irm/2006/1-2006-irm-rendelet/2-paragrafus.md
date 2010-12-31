@@ -1,4 +1,4 @@
-## 1. §[^1] Az Igazságügyi és Rendészeti Minisztérium szervezeti egységeként működő Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat (a továbbiakban: céginformációs szolgálat) a Ctv. 1. § (2) bekezdés a) pontjában meghatározott, a cégjegyzékadatok és a cégiratok megismerését szolgáló céginformáció-szolgáltatási kötelezettségének az e rendeletben foglalt szabályok szerint tesz eleget. A céginformációs szolgálat a céginformáció-szolgáltatás során a természetes személyek tekintetében bejegyzett lakóhelyre vonatkozó adatok megismerhetőségét – a céginformációt kérő személyére figyelemmel – a Ctv.-ben foglaltak alapján biztosítja.
+## 1. §[^1] Az igazságügyért felelős miniszter által vezetett minisztérium szervezeti egységeként működő Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat (a továbbiakban: céginformációs szolgálat) a Ctv. 1. § (2) bekezdés a) pontjában meghatározott, a cégjegyzékadatok és a cégiratok megismerését szolgáló céginformáció-szolgáltatási kötelezettségének az e rendeletben foglalt szabályok szerint tesz eleget.
 
 2. § (1)[^2] A céginformációs szolgálat papír alapon, illetve elektronikusan közokirat formájában ad céginformációt a cég
 
@@ -16,7 +16,7 @@ c) cégjegyzékben szereplő valamennyi hatályos és törölt adatáról (cégm
 
 (5)[^5] A céginformációs szolgálat a Ctv. 15. § (1) bekezdése alapján céginformációként csak a cégjegyzékben szereplő fennálló vagy törölt, valamint még be nem jegyzett adataiba történő betekintést biztosítja.
 
-[^1]: Az 1. § a 67/2009. (XII. 18.) IRM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 20/2010. (XII. 22.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés bevezető szövegrésze a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdése a 67/2009. (XII. 18.) IRM rendelet 4. § (1) bekezdése szerint módosított szöveg.
