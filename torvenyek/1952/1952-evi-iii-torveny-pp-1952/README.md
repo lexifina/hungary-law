@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2010-06-01 | 2009. évi L. törvény | 1952-3-00-00.76 |
 | 2010-06-29 | 2010. évi LIX. törvény | 1952-3-00-00.77 |
 | 2010-08-01 | 2010. évi LIX. törvény | 1952-3-00-00.78 |
+| 2010-12-31 | 2010. évi CLXXVIII. törvény | 1952-3-00-00.79 |

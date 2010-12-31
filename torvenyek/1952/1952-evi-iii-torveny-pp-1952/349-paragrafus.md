@@ -12,7 +12,7 @@ a) a munkaszerződés megkötését megelőző tárgyalásra, a munkaviszony meg
 
 b) a kollektív szerződés kötésére jogosult felek, illetve ezek és harmadik személy között, a kollektív szerződés fennállására, továbbá a kollektív szerződésből eredő jogra,
 
-c) a sztrájkkal, egyéb munkaharccal vagy a szervezkedési szabadsággal kapcsolatos jogellenes magatartásra,
+c) a sztrájkkal, egyéb munkaharccal vagy a szervezkedési szabadsággal kapcsolatos jogellenes magatartásra vagy törvényben előírt kötelezettség teljesítésére,
 
 d) az európai részvénytársaságban, valamint az európai szövetkezetben a munkavállalók döntéshozatalba történő bevonására vonatkozó szabályok megsértésére
 
