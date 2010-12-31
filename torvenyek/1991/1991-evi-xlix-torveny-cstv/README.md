@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 1991-49-00-00.57 |
 | 2010-06-29 | 2010. évi LIX. törvény | 1991-49-00-00.58 |
 | 2010-07-01 | 9/2002. (III. 22.) OM rendelet | 1991-49-00-00.59 |
+| 2010-12-31 | 2010. évi CLXXIX. törvény | 1991-49-00-00.60 |
