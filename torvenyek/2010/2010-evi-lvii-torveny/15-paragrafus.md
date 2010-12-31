@@ -30,4 +30,4 @@ e) az adózó a helyi adókról szóló törvény 39/A. §-ának (5) bekezdése,
 
 (11) Azon folyamatban lévő csődeljárási, felszámolási, végelszámolási, vagyonrendezési és adósságrendezési eljárásokban, amelyekben az állami adóhatóság a helyi iparűzési adót érintően hitelezőként jár el, e törvény hatálybalépését követően a települési (a fővárosban a fővárosi) önkormányzatot megillető helyi iparűzési adó követelések tekintetében hitelezőként az illetékes önkormányzati adóhatóság jár el.
 
-(12) Ez a törvény – a 15. § (1)–(11) bekezdésekben foglaltak kivételével – a hatálybalépését követő napon hatályát veszti. E bekezdés 2010. december 31-én hatályát veszti.
+(12)
