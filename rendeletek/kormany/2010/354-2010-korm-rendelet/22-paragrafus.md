@@ -1,0 +1,1 @@
+## 21. § Az R. 2. § (2) bekezdésében az „Adó- és Pénzügyi Ellenőrzési Hivatal regionális igazgatóságát, valamint a regionális munkaügyi központot” szövegrész helyébe az „állami adóhatóságot és a munkaügyi központot” szöveg lép.
