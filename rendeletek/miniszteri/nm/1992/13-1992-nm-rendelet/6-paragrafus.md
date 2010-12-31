@@ -1,16 +1,13 @@
-## 6. §
+## 6. §[^8]
 
-## A közúti járművezető az 5. § (1)—(2) bekezdéseiben meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatnak köteles magát alávetni, ha
+## A közúti járművezető az 5. § (1)–(4) bekezdésében meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatnak köteles magát alávetni, ha
 
-a) az egészségi alkalmasság megállapítását végző egészségügyi szerv a vizsgálatra rövidebb határidőt állapított meg;
+a) a 7. § (1)–(2) bekezdésében meghatározott szervek (személyek) kezdeményezésére az egészségi alkalmasságát megállapító szerv erre felszólította,
 
-b) a 7. § (1)—(2) bekezdéseiben meghatározott szervek (személyek) kezdeményezésére az egészségi alkalmasságát megállapító szerv erre felszólította;
+b) eszméletvesztéssel járó rosszulléte vagy sérülése volt,
 
-c) eszméletvesztéssel járó rosszulléte vagy sérülése volt;
+c) látásélességében szemüveggel nem javítható rosszabbodás, vagy hallásában a forgalom menetének észlelését zavaró csökkenés állott be, vagy
 
-d) látásélességében szemüveggel nem javítható rosszabbodás, vagy hallásában a forgalom menetének észlelését zavaró csökkenés állott be;
+d) súlyos hipoglikémia fordult elő.
 
-e)[^5] az eljáró hatóság — a külön jogszabályban meghatározott esetekben[^6] — soron kívüli egészségi alkalmassági vizsgálatot rendelt el.
-
-[^5]: A 6. § e) pontja a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (3) bekezdése szerint módosított szöveg.
-[^6]: Lásd a 20/1990. (VIII. 6.) BM rendelet 4. § (7) bekezdését.
+[^8]: A 6. § a 19/2010. (XII. 23.) NEFMI rendelet 2. §-ával megállapított szöveg.
