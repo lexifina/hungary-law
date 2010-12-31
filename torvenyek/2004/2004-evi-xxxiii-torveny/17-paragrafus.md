@@ -21,3 +21,5 @@
 (8) A belső szolgáltató a helyi közlekedés ellátásáért felelős illetékességi területén kívüli, a 3. § (4) bekezdésének b) pontja szerinti megállapodás alapján helyi járattal közigazgatási határon kívül végzett személyszállítást, valamint más önkormányzatok területén végzett személyszállítást a közszolgáltatási szerződés belső szolgáltatóként történt közvetlen odaítélését követő 1 évig tarthatja fenn.
 
 (9) Az egyenlő esélyű hozzáférést a közforgalmú menetrend alapján végzett személyszállításban részt vevő autóbuszokon, továbbá az autóbusz-pályaudvarok és a megállóhelyek személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1-jéig kell biztosítani.
+
+(10) A belföldi menetrend szerinti személyszállítást végző szolgáltatók autóbuszvásárlásaik során a közszolgáltatást ellátó közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített, a tiszta és energiahatékony közúti járművek használatáról szóló kormányrendeletben foglaltakat figyelembe veszik.

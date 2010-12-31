@@ -2,7 +2,7 @@
 
 a) a közszolgáltatási feladatok és az azokkal összefüggő követelmények meghatározása adott területre (területrészre, hálózatra, vonalcsoportra, vonalra vagy járatra) és a szolgáltatóval szemben;
 
-b) a közszolgáltatási feladatok ellátására leginkább megfelelő, a legszínvonalasabb és a köz számára legkevésbé költséges szolgáltatást kínáló, legalkalmasabb szolgáltató kiválasztása és megbízása, a szolgáltató tevékenységének folyamatos figyelemmel kísérése és ellenőrzése;
+b) a közszolgáltatási feladatok ellátására leginkább megfelelő, a legszínvonalasabb és a köz számára legkevésbé költséges szolgáltatást kínáló, az energetikai és környezeti hatások figyelembevételével legalkalmasabb szolgáltató kiválasztása és megbízása, a szolgáltató tevékenységének folyamatos figyelemmel kísérése és ellenőrzése;
 
 c) társadalmilag indokolt utazási igények kielégítését szolgáló, de üzleti alapon jövedelmezően nem biztosítható szolgáltatás esetén a szolgáltató közszolgáltatási feladatra kötelezése és az abból származó veszteségeinek kiegyenlítése.
 

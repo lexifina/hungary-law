@@ -24,7 +24,9 @@ h) az alvállalkozó közreműködésére vonatkozó feltételeket,
 
 i) a közszolgáltatási szerződés módosításának, felmondásának feltételeit,
 
-j) minden olyan további feltételt, amelyet az ellátásért felelős a közszolgáltatási szerződésben érvényesíteni kíván.
+j) a közszolgáltatást ellátó közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített, a tiszta és energiahatékony közúti járművek használatáról szóló Kormányrendelet szerint megállapított energetikai és környezeti hatások figyelembevételének módját, súlyát;
+
+k) minden olyan további feltételt, amelyet az ellátásért felelős a közszolgáltatási szerződésben érvényesíteni kíván.
 
 (4) A pályázati kiírásban szereplő feltételeket és a pályázat elbírálásának szempontjait az 5. §-ban foglaltak alapján kell meghatározni. A feltételek körében az ellátásért felelős a szolgáltató kötelezettségeként előírhatja a letelepedést, a korábbi szolgáltató munkavállalóinak, illetőleg azok meghatározott körének meghatározott feltételekkel történő átvételét, továbbá alvállalkozó meghatározott mértékű bevonását a közszolgáltatásba, az alvállalkozó személyének megjelölése nélkül.
 

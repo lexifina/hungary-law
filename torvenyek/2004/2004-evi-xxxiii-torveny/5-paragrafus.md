@@ -14,4 +14,6 @@ f) a járművek és szolgáltatási infrastruktúra színvonala, azok használat
 
 g) a személyzettel szembeni elvárások, foglalkoztatási feltételek,
 
-h) a szolgáltatások ráfordításigénye.
+h) a szolgáltatások ráfordításigénye,
+
+i) a közszolgáltatást ellátó közúti járművek energetikai és környezeti hatásai.
