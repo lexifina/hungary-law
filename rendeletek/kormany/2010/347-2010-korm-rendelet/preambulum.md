@@ -1,0 +1,1 @@
+A Kormány az állami vagyonról szóló 2007. évi CVI. törvény 71. §-a (1) bekezdésének a) pontjában és a számvitelről szóló 2000. évi C. törvény 178. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
