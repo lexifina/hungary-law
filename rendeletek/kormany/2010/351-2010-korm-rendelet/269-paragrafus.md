@@ -1,0 +1,3 @@
+## 268. § Az egyes fémek begyűjtésével és értékesítésével összefüggő visszaélések visszaszorításáról szóló 2009. évi LXI. törvény végrehajtásáról szóló 312/2009. (XII. 28.) Korm. rendelet 13. § (8) bekezdésében a „Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH)” szövegrész helyébe a „fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága” szöveg, 13. § (10) bekezdésében az „MKEH-t” szövegrész helyébe a „fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságát” szöveg lép.
+
+## Az adómentes természetbeni juttatásnak minősülő, fogyasztói árkiegészítést nem tartalmazó közlekedési kedvezményekről szóló 324/2009. (XII. 29.) Korm. rendelet módosítása

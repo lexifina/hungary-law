@@ -1,0 +1,3 @@
+## 279. § A polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló 169/2010. (V. 11.) Korm. rendelet 3. § (3) bekezdésében az „az NKH Légiközlekedési Igazgatóság igazgatója” szövegrész helyébe az „a Nemzeti Közlekedési Hatóság Légügyi Hivatalának vezetője” szöveg lép.
+
+## A magyar-horvát összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 173/2010. (V. 13.) Korm. rendelet módosítása

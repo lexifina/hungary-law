@@ -1,0 +1,3 @@
+## 184. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 140. § (3) bekezdésében az „egészségügyi szolgáltató székhelye (telephelye) szerint illetékes szervének jelenti, amely a térítés ellenjegyzése után a jelentést továbbítja az OEP részére” szövegrész helyébe a „részére jelenti” szöveg, a 140. § (4) bekezdésében az „OEP egészségügyi szolgáltató székhelye (telephelye) szerint illetékes szervéhez” szövegrész helyébe az „OEP-hez” szöveg lép.
+
+## Az országhatárt átlépő hulladékszállításról szóló 180/2007. (VII. 3.) Korm. rendelet módosítása

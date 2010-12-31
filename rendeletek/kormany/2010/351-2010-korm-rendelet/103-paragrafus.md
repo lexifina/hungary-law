@@ -1,0 +1,3 @@
+## 102. § A Magyar Élelmiszer-biztonsági Hivatal létrehozásáról szóló 66/2003. (V.15.) Korm. rendelet (a továbbiakban: 66/2003. (V.15.) Korm. rendelet) 5/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A többéves nemzeti ellenőrzési terv elkészítését a Hivatal koordinálja. A terv elkészítése során a vámhatóság közreműködését is igénylő feladatok tekintetében a Nemzeti Adó- és Vámhivatal véleményét ki kell kérni. A tervet a miniszter a nemzetgazdasági miniszterrel egyetértésben fogadja el. A tervet a minisztérium, valamint a Nemzetgazdasági Minisztérium hivatalos lapjában közzé kell tenni.”

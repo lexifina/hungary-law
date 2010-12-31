@@ -1,0 +1,1 @@
+## „e) illetékességi területén ellátja a regionális fejlesztési és képzési bizottság működésével, a hatáskörébe tartozó döntések, javaslatok, állásfoglalások előkészítésével és a végrehajtással, valamint működtetési költségeinek felhasználásával kapcsolatos feladatokat.”

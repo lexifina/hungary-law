@@ -1,0 +1,3 @@
+## 81. § A munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről szóló 118/2001. (VI. 30.) Korm. rendelet 1. § (1) bekezdésében a „megyei (fővárosi) munkaügyi központ” szövegrész helyébe a „fővárosi és megyei kormányhivatal munkaügyi feladatot ellátó szakigazgatási szerve (a továbbiakban: munkaügyi központ” szöveg, 8. § (6) bekezdésében a „Foglalkoztatási és Szociális Hivatal” szövegrész helyébe a „Foglalkoztatási Hivatal” szöveg lép.
+
+## Az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló 140/2001. (VIII. 8.) Korm. rendelet módosítása

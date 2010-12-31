@@ -1,0 +1,1 @@
+## 55. § Az állatvédelmi bírságról szóló 244/1998. (XII. 31.) Korm. rendelet (a továbbiakban: 244/1998. (XII. 31.) Korm. rendelet) 3. § (1) bekezdésének b) pontjában a „Mezőgazdasági Szakigazgatási Hivatal illetékes területi szerve” szövegrész helyébe a „megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága” szöveg lép.

@@ -1,0 +1,3 @@
+## 3. § A 89/1988. (XII. 20.) MT rendelet 4/A. §-ában az „az NKH Kiemelt Ügyek Igazgatóságától” szövegrész hatályát veszti.
+
+## Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet módosítása
