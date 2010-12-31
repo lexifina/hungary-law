@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2010-01-16 | 2009. évi CXL. törvény | 1993-48-00-00.39 |
 | 2010-02-23 | 2010. évi IV. törvény | 1993-48-00-00.40 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1993-48-00-00.41 |
+| 2010-12-31 | 2010. évi CLXXXI. törvény | 1993-48-00-00.42 |

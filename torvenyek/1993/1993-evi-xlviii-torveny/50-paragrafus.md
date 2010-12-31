@@ -28,6 +28,6 @@ c) a kiadott és érvényes kutatási engedélyükben meghatározott nyersanyagr
 
 (10) Ha a bányatelek jogosítottja a (8) bekezdésben meghatározott kötelezettségét nem teljesíti, a bányafelügyelet hivatalból intézkedik a mulasztó bányászati jogának törléséről és a földtani adatok beszolgáltatásáról.
 
-(11)
+(11) E törvénynek az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény 1. § (4) bekezdésével megállapított 43. § (9) bekezdésében meghatározott bányavállalkozónak nem minősülő bányászati hulladék kezelő felügyeleti díj fizetési kötelezettsége első alkalommal 2012. január 1. napján keletkezik.
 
 (12)–(14)

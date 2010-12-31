@@ -6,7 +6,9 @@ a) a 4. § szerinti felszíni előkutatást a kötelező bejelentést elmulasztv
 
 b) bányászati koncesszió vagy bányafelügyeleti engedély nélkül ásványi nyersanyagot termel ki, vagy geotermikus energiát hasznosít,
 
-c) külön jogszabályban előírt hatósági engedély nélkül vagy attól eltérően folytatott tevékenysége során ásványi nyersanyagot termel ki vagy geotermikus energiát hasznosít.
+c) külön jogszabályban előírt hatósági engedély nélkül vagy attól eltérően folytatott tevékenysége során ásványi nyersanyagot termel ki vagy geotermikus energiát hasznosít,
+
+d) bányászati hulladékot engedély nélkül kezel, tárol.
 
 (2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul vagy engedélytől eltérő módon gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását felfüggesztheti, az engedélyt visszavonhatja, illetőleg kezdeményezheti a koncessziós szerződés megszüntetését, és elrendelheti az eredeti állapot helyreállítását, vagy, ha ez már nem lehetséges, a tájrendezést.
 

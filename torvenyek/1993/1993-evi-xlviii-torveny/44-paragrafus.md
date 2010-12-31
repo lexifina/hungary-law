@@ -26,7 +26,7 @@ l) egyes nem bányászati célt szolgáló, bányászati módszerekkel végzett 
 
 m) a robbantástechnikai kutató tevékenység,
 
-n) a bányászati tevékenység során keletkező hulladék kezelése, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése, valamint bezárása és utógondozása,
+n) a bányászati hulladék kezelése, és az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése, valamint bezárása és utógondozása.
 
 o) az a)–n) pontokban felsorolt tevékenységekhez és létesítményekhez alkalmazott nyomástartó berendezések és rendszerek építése, használatbavétele, üzemeltetése és elbontása,
 

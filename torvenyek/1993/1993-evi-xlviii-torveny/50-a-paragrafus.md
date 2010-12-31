@@ -66,7 +66,9 @@ j) az e törvény szerinti földtani szakértői tevékenység folytatásának r
 
 k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére vonatkozó szabályok,
 
-l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
+l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
+
+m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok
 
 rendeletben történő megállapítására.
 

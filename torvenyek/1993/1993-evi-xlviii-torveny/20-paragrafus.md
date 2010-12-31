@@ -26,7 +26,7 @@ ba) J %-a, ahol
 
 ## J: a bányajáradék százalékos mértéke,
 
-## P: az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, illetve jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára,
+## P: hatósági áron értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló külön jogszabályban megállapított hatósági ár, szabadáras értékesítés esetén az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, illetve jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára,
 
 ## A: a hazai kitermelésű földgáz elismert értéke 2003-ban,
 
@@ -52,9 +52,9 @@ g) szilárd ásványi energiahordozók mélyműveléses bányászata esetén 0%-
 
 h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
 
-Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, az a)–c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, az a)–c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik. A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti.
+(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 
-(4)
+A (3) bekezdés ba) pont szerinti bányajáradék mértéke akkor emelkedik az előbbiek szerint, ha P: az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, vagy jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára. A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti.
 
 (5)
 

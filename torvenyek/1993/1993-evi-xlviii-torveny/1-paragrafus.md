@@ -24,7 +24,7 @@ h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 
 i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
 
-j) a bányászati tevékenység során keletkező hulladék kezelése;
+j) a bányászati hulladék kezelése;
 
 k) az a)–j) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések.
 
