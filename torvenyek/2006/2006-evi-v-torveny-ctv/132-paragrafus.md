@@ -22,7 +22,9 @@ f) a Tanács 89/667/EGK tizenkettedik társasági jogi irányelve (1989. decembe
 
 g) a Tanács 2001/86/EK irányelve (2001. október 8.) az európai részvénytársaság statútumának a munkavállalói részvételre vonatkozó kiegészítéséről;
 
-h) az Európai Parlament és a Tanács 2004/25/EK irányelve (2004. április 21.) a nyilvános vételi ajánlatról.
+h) az Európai Parlament és a Tanács 2004/25/EK irányelve (2004. április 21.) a nyilvános vételi ajánlatról;
+
+i) az Európai Parlament és a Tanács 2009/109/EK irányelve (2009. szeptember 16.) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról.
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 

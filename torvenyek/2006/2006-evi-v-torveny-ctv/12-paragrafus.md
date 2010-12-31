@@ -6,4 +6,4 @@
 
 (4) A cégbíróságon a cégiratokról e törvényben, illetve külön jogszabályban meghatározott módon kérhető másolat.
 
-(5) A cégbíróság a betekintés során, valamint a kiadott cégmásolatban, cégkivonatban és cégbizonyítványban – ellenkező kérelem hiányában – nem tünteti fel a természetes személy tekintetében bejegyzett lakóhelyet. A cégbíróság az e §-ban meghatározott betekintést, az adat- és cégirat szolgáltatást a 10. § (4)–(6) bekezdésében foglaltak szerint biztosítja.
+(5)
