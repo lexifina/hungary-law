@@ -28,7 +28,7 @@ l) a dinamikus beszerzési rendszerre vonatkozó szabályokat;
 
 m) a védett foglalkoztatók részére fenntartott közbeszerzések részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályait;
 
-n)
+n) a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 
 o)
 
