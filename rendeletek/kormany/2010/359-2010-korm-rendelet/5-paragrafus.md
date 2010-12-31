@@ -1,0 +1,1 @@
+## „(3) Amennyiben a szülő nő – ide nem értve a Cst. 29. § (3) bekezdése szerinti személyt – hitelt érdemlően igazolja, hogy a terhesség időtartama alatt legalább 5 hónap időtartamig egybefüggően külföldön tartózkodott, úgy a (2) bekezdés a) pontja szerinti igazolást nem kell a kérelméhez csatolnia.”
