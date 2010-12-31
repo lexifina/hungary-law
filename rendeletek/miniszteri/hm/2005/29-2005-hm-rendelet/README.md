@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-29-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-07-11 | 2005-29-20-15.3 | 29/2005. (VII. 27.) HM rendelet |
+| 2010-12-31 | 2005-29-20-15.4 | 41/2013. (VII. 17.) NFM rendelet |

@@ -6,6 +6,6 @@
 
 47. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^6]
+(2)[^7]
 
-[^6]: A 47. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 51. pontja hatályon kívül helyezte.
+[^7]: A 47. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 51. pontja hatályon kívül helyezte.

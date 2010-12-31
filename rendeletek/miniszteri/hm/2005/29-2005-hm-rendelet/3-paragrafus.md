@@ -18,8 +18,8 @@
 
 (7) 30 napot meg nem haladó frekvenciahasználat esetén, amennyiben a felhasználási terület, a sávfoglaltság és a sugárzási paraméterek lehetővé teszik, a frekvenciakijelölés és rádióengedély összevontan is kiadható.
 
-(8) A frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendelet[^3] felosztási táblázata „közös” oszlopában megadott rádióalkalmazásokhoz feltételként előírt, a frekvenciagazdálkodó hatóságok közötti megállapodás előkészítése, illetőleg az egyeztetés műszaki vizsgálatnak minősül.
+(8) A frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendelet[^4] felosztási táblázata „közös” oszlopában megadott rádióalkalmazásokhoz feltételként előírt, a frekvenciagazdálkodó hatóságok közötti megállapodás előkészítése, illetőleg az egyeztetés műszaki vizsgálatnak minősül.
 
 (9) A nem polgári célú harmonizált frekvenciasávú rádióalkalmazások rádióberendezéseinek jegyzékét az 1. számú melléklet tartalmazza.
 
-[^3]: Lásd: 346/2004. (XII. 22.) Korm. rendelet.
+[^4]: Lásd: 346/2004. (XII. 22.) Korm. rendelet.

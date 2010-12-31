@@ -28,7 +28,7 @@
 
 ## 4. Az engedélyesnél rendszeresített okmány, amely legalább az Üzemeltetési igazolás esetében meghatározott c)–g) pontokban foglaltakat tartalmazza.
 
-5. számú melléklet a 29/2005. (VII. 27.) HM rendelethez[^7]
+5. számú melléklet a 29/2005. (VII. 27.) HM rendelethez[^8]
 
 Felhasználási szabályok a nem polgári célú frekvenciasávok használatához
 
@@ -36,7 +36,7 @@ Felhasználási szabályok a nem polgári célú frekvenciasávok használatáho
 
 3025–3155 kHz, 3900–3950 kHz, 4700–4750 kHz, 5680–5730 kHz, 6685–6765 kHz, 8965–9040 kHz, 11 175–11 275 kHz, 13 200–13 260 kHz, 15 010–15 100 kHz és a 17 970–18 030 kHz frekvenciasávokban a Rádiószabályzat 26. Függeléke által meghatározottak szerint jelölhető ki frekvencia.
 
-2.[^8] A földi mozgószolgálat keretében a 66–68,5/70,5–73 MHz, a 75,2–76,45/79,7–80,95 MHz, valamint a 76,45–77,7/86,25–87,5 MHz sávokban kétfrekvenciás, a 68,5–70,5 MHz, a 80,95–81,5 MHz, valamint a 82–86,25 MHz sávokban egyfrekvenciás keskenysávú (legfeljebb 25 kHz csatorna-sávszélességű) analóg és digitális rádióalkalmazások részére jelölhető ki frekvencia.
+2.[^9]
 
 3. A 380–385/390–395 MHz sávokban a készenléti szolgálatok és a kormányzat Egységes Digitális Rádiótávközlő rendszere (EDR) részére az ERC/DEC/(99)02, az ERC/DEC/(01)19, az ECC/DEC/(06)05 és az ECC/DEC/(08)05 Határozatok, valamint a CEPT T/R 02-02 Ajánlás alapján jelölhető ki frekvencia.
 
@@ -46,5 +46,5 @@ Felhasználási szabályok a nem polgári célú frekvenciasávok használatáho
 
 6. A 22,442–22,6/23,45–23,6 GHz frekvenciasávban, állandó telephelyű pont-pont közötti 2–155 Mbps átviteli kapacitású digitális rádiórelé berendezések részére a CEPT T/R 13-02 (Montreux 1993) Ajánlás A. mellékletében meghatározott feltételekkel jelölhető ki frekvencia, 3,5 MHz, 7 MHz, 14 MHz és 28 MHz csatornaosztás szerinti elrendezésben.
 
-[^7]: Az 5. számú melléklet a 6/2009. (VII. 3.) MeHVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 5. számú melléklet 2. pontját a 6/2009. (VII. 3.) MeHVM rendelet 2. § (2) bekezdése hatályon kívül helyezi 2010. december 31. napjával.
+[^8]: Az 5. számú melléklet a 6/2009. (VII. 3.) MeHVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 5. számú melléklet 2. pontját a 6/2009. (VII. 3.) MeHVM rendelet 2. § (2) bekezdése hatályon kívül helyezte.

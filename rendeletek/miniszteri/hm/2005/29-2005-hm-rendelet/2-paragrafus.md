@@ -8,11 +8,11 @@
 
 3. Frekvenciakiosztási terv: a rádióalkalmazásra vonatkozó frekvenciasáv-használati, illetve csatornaelrendezési terv, amelyet nemzetközi vonatkozásban az arra illetékes értekezlet, nemzeti vonatkozásban a magyar frekvenciagazdálkodó hatóságok fogadnak el.
 
-4.[^1] Hatósági frekvenciajegyzék: frekvenciakiosztási terv (elsősorban légiforgalmi célú) alapján készült frekvenciakijelölési terv, melyet a frekvenciagazdálkodó hatóságok egyeztetés után fogadnak el és a Nemzeti Hírközlési Hatóság honlapján tesz közzé.
+4.[^2] Hatósági frekvenciajegyzék: frekvenciakiosztási terv (elsősorban légiforgalmi célú) alapján készült frekvenciakijelölési terv, melyet a frekvenciagazdálkodó hatóságok egyeztetés után fogadnak el és a Nemzeti Hírközlési Hatóság honlapján tesz közzé.
 
 5. Keret-rádióengedély: rádióengedély, amely lehetővé teszi az állomások, a hálózatok, illetőleg a rendszerek üzemben tartását azoknál a rádiószolgálati alkalmazásoknál, amelyeknél a felhasználás frekvenciajegyzék szerinti, vagy a frekvenciakijelölés blokkgazdálkodásra jogosít.
 
-6. NATO eljárás: az Észak-atlanti Szerződés Szervezetének illetékes szerve által jóváhagyott (elfogadott) a szövetséges és a békepartnerségi országok érvényes frekvencia igénylési és biztosítási rendszere[^2], amelynek mindenkori adattartalmáról a hatóság az eljárásban érintettek kérésére tájékoztatást ad.
+6. NATO eljárás: az Észak-atlanti Szerződés Szervezetének illetékes szerve által jóváhagyott (elfogadott) a szövetséges és a békepartnerségi országok érvényes frekvencia igénylési és biztosítási rendszere[^3], amelynek mindenkori adattartalmáról a hatóság az eljárásban érintettek kérésére tájékoztatást ad.
 
 7. Rádiómegfigyelés: a hatóságnak egy frekvenciasáv tervezett, összehangolt felhasználását, az adatszolgáltatást és a rádiófrekvenciás spektrumra vonatkozó információgyűjtést segítő, a rádió-mérőszolgálat útján végzett rádiómérő és értékelő tevékenysége.
 
@@ -34,5 +34,5 @@
 
 (2) Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakat az Eht. 188. §-a és a frekvencia-sávok nemzeti felosztására vonatkozó jogszabály szerint kell értelmezni.
 
-[^1]: A 2. § (1) bekezdésének 4. pontja a 6/2009. (VII. 3.) MeHVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: NATO Joint Civil/Military Frequency Agreement (NJFA), valamint ACP 190 NATO Guide Spectrum Management in Military Operations.
+[^2]: A 2. § (1) bekezdésének 4. pontja a 6/2009. (VII. 3.) MeHVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: NATO Joint Civil/Military Frequency Agreement (NJFA), valamint ACP 190 NATO Guide Spectrum Management in Military Operations.
