@@ -12,7 +12,7 @@
 
 a) a Nemzeti Éghajlatváltozási Programot;
 
-b) a kiotói egységekkel, és az abból származó bevételekkel való gazdálkodás, valamint az értékesítési eljárás részletes szabályait;
+b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 
 c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
 

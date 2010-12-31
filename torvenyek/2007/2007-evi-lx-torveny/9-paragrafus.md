@@ -1,10 +1,10 @@
-## A kiotói egységekkel való gazdálkodás
+## A kibocsátási jogosultságokkal való gazdálkodás
 
-9. § (1) A kincstári vagyon részét képező kiotói egységek értékesítési eljárása során az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.), valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell alkalmazni.
+9. § (1) A kincstári vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.), az Üht., valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A kiotói egységek feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
+(2) A kibocsátási jogosultságok feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
 
-(3) A kiotói egységet megterhelni, annak tulajdonjogát – az Üht. 3. § c) pontjában meghatározott kibocsátási egység kivételével – ingyenesen átengedni nem lehet.
+(3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
 (4) Egy adott kötelezettségvállalási időszakban a nemzeti forgalmi jegyzékben a kibocsátható mennyiségi egységek száma nem lehet kevesebb a Keretegyezmény, továbbá a Jegyzőkönyv által előírt tartalék mennyiségnél.
 

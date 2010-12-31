@@ -1,1 +1,1 @@
-13/E. § A környezetvédelmi hatóság e § szerinti engedélyezési eljárásáért a miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+13/E. § A környezetvédelmi hatóság e § szerinti engedélyezési eljárásáért a külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.

@@ -42,4 +42,6 @@
 
 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 
-21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő.
+21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
+
+22. Kibocsátási jogosultság: a kiotói egység, az. Üht. 3. § szerinti kibocsátási egység és légiközlekedési kibocsátási egység.
