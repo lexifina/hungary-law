@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-143-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2004-143-20-22.8 | 143/2004. (IV. 29.) Korm. rendelet |
+| 2010-12-31 | 2004-143-20-22.9 | 338/2009. (XII. 29.) Korm. rendelet |
