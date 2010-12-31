@@ -1,3 +1,0 @@
-28. § A Hszt. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Szolgálati érdekből polgári oktatási intézményben vagy iskolarendszeren kívüli oktatás vagy képzés folytatása céljából a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagjával tanulmányi szerződést köthet. Nem köthető tanulmányi szerződés, ha a tanulmányok elvégzésére a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagját kötelezte. A tanulmányi szerződést, illetve a kötelezést – a lényegi tartalmi elemek (képzés tárgya, időtartama, helye, teljesítés módja, határideje, költségek viselése, kötelezettségek) rögzítésével – írásba kell foglalni.”

@@ -1,9 +1,0 @@
-73. § A Hszt. 329. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 326. § (1) bekezdésében meghatározott szempontból az alábbiak szerint kell a szolgálati viszonyban eltöltött időt számítani:
-
-a) 2-szeresen a hivatásos állomány azon tagjainak, akik háborús, rendkívüli vagy különösen veszélyes körülmények között külföldön teljesítenek szolgálatot, valamint a rendőrségnek a terrorcselekmények elhárítására létrehozott szervezeti egységénél tényleges terrorelhárítói feladatokat teljesítőknek, továbbá a vám- és pénzügyőrség fegyveres bűnelkövetők elfogását, és a helyszín fegyveres biztosítását főtevékenységként végző szervezeti elem tagjainak,
-
-b) 1,5-szeresen a helikopterek hajózó állományának, a tűzszerészeknek, búvároknak, az a) pont alá nem eső, nemzetközi szerződés alapján békefenntartói tevékenységet folytatóknak, a polgári nemzetbiztonsági szolgálatok állományából a tartós külföldi szolgálatot teljesítőknek,
-
-c) 1,2-szeresen a földfelszín alatt szolgálatot teljesítőknek, a fogva tartottakkal közvetlenül folyamatosan foglalkozó állomány tagjainak, valamint a fokozott igénybevétellel járó beosztásokban szolgálatot teljesítő végrehajtói feladatot ellátó állománynak.”
