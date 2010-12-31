@@ -1,1 +1,0 @@
-A Kormány a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 134. § (1) bekezdésének a), h) és l) pontjában foglalt felhatalmazás alapján, figyelemmel a 68. § (2) bekezdésére, az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
