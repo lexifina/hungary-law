@@ -16,6 +16,6 @@
 
 | 8. | A Tanács 21/2004/EK rendelete (2003. december 17.) a juh- és kecskefélék azonosítási és nyilvántartási rendszerének létrehozásáról, valamint az 1782/2003/EK rendelet, továbbá a 92/101/EGK és 64/432/EGK irányelv módosításáról 3. cikk, 4. cikk és 5. cikk | – Mezőgazdasági Szakigazgatási Hivatal Központja és területi szervei |
 
-2. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^22]
+2. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^23]
 
-[^22]: A 2. számú melléklet e rendelet 5. § (2) bekezdésének a) pontja alapján 2011. január 1-jén lép hatályba.
+[^23]: A 2. számú melléklet e rendelet 5. § (2) bekezdésének a) pontja alapján 2011. január 1-jén lép hatályba.
