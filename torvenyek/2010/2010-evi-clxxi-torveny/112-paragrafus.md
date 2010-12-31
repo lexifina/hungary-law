@@ -21,11 +21,3 @@
 (10) A Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvény 37. § (3) bekezdése a következő szöveggel lép hatályba:
 
 „(3) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 19/B. § (4) bekezdésében a „miniszter, hogy rendeletben” szövegrész helyébe a „miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, valamint az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben” szöveg lép.”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
