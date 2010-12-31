@@ -1,21 +1,27 @@
 ## 8. § A segélyhitelnyújtás feltételeinek meg kell felelniük az OECD Megállapodás szerződéskötés időpontjában hatályos rendelkezéseinek.
 
-## 9. § Kötött segélyhitelek az alábbi feltételek együttes teljesülése esetén folyósíthatók:
+9. §[^12] (1) Kötött segélyhitel nem nyújtható olyan állami vagy magánprojekthez, amely piaci vagy az OECD Megállapodásban foglalt feltételekkel finanszírozva, üzleti alapon megvalósítható. E rendelkezés nem vonatkozik
 
-(1) A kedvezményezett ország jogosultsága segélyhitelekre:
+a) a de minimis hitellel,
 
-Feltételhez kötött segélyhitel csak olyan országnak nyújtható, amely az egy főre jutó bruttó nemzeti jövedelem (GNI) alapján 17 éves lejáratú világbanki kölcsönre jogosult. Az egyes országok irányadó besorolását, átsorolását az OECD Megállapodásban meghatározott követelmények és eljárások alkalmazásával az OECD végzi.
+b) az ENSZ által a világ legelmaradottabb államai körébe sorolt országok részére nyújtott kötött segélyhitellel, valamint
 
-(2) A projekt jogosultsága kötött segélyhitel finanszírozásra:
+c) a magas kedvezményezettségű hitellel
 
-Kötött segélyhitel nem nyújtható olyan állami vagy magánprojektekhez, amelyek piaci vagy az OECD Megállapodásban foglalt feltételekkel finanszírozva, üzleti alapon megvalósíthatóak.
+finanszírozott projektre, amely esetén a projekt jogosultságának vizsgálatát nem kell elvégezni.
 
-(3) Kötött segélyhitelre csak azok az (1) és (2) bekezdésekben foglaltaknak megfelelő projektek jogosultak, amelyek esetében az OECD Megállapodás jóváhagyási rendje szerint, az OECD Megállapodás aláírói nem emeltek kifogást.
+(2) Kötött segélyhitelre csak az (1) bekezdésben és az 5. § (2) bekezdésében foglaltaknak megfelelő projekt jogosult, amely esetében az OECD Megállapodás aláírói az OECD Megállapodás jóváhagyási rendje szerint nem emeltek kifogást.
 
-(4) Kötött segélyhitel konstrukcióban a kedvezményezett ország nemzeti fejlesztési programjaival, prioritást élvező célkitűzéseivel összhangban lévő projektek finanszírozhatók.
+(3) Kötött segélyhitel-konstrukcióban a kedvezményezett ország nemzeti fejlesztési programjaival, prioritást élvező célkitűzéseivel összhangban lévő projektek finanszírozhatók.
 
-(5) A feltételhez kötött segélyhitel kedvezményezettségének mértéke eléri az OECD Megállapodásban előírt minimumot:
+(4) A kötött segélyhitelhez kapcsolódó kedvezményezettség mértékének el kell érnie
 
-Az érvényes kedvezményezettség mértéke nem lehet kevesebb 35%-nál, az ENSZ által a világ legelmaradottabb államai körébe sorolt országok esetében pedig 50%-nál.
+a) az OECD Megállapodásban rögzített 35%-os, vagy az ENSZ által a világ legelmaradottabb államai körébe sorolt országok esetében 50%-os minimumok, vagy
 
-(6) A hitelügyletben résztvevőknek írásban nyilatkozniuk kell arról, hogy az OECD ,,Vesztegetésről és a hivatalosan támogatott exporthitelekről'' szóló cselekvési nyilatkozatban foglaltak értelmében nem vettek részt az ügylettel kapcsolatos vesztegetésben és nincs tudomásuk korrupcióról.
+b) az OECD Fenntartható Hitelezés Elveiről Szóló Egyezményben előírt minimumok
+
+## közül a szigorúbb küszöbértéket.
+
+(5) A segélyhitelügyletben részt vevőknek írásban nyilatkozniuk kell arról, hogy az OECD „Vesztegetésről és a hivatalosan támogatott exporthitelekről” szóló cselekvési nyilatkozatban foglaltak értelmében nem vettek részt az ügylettel kapcsolatos vesztegetésben és nincs tudomásuk korrupcióról. Jelen rendelet alapján segélyhitel abban az esetben folyósítható, ha az Eximbank által az OECD „Államilag támogatott exporthitelek közös környezetvédelmi szemléletéről” szóló Ajánlásának megfelelően előzetesen elvégzett környezeti célú átvilágítás és a környezeti hatástanulmány alapján a finanszírozott ügylet nem minősül a környezetre nézve károsnak.
+
+[^12]: A 9. § a 299/2010. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

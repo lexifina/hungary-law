@@ -1,6 +1,5 @@
-6. § (1)[^6] Kötött segélyhitelek nyújtásáról a kedvezményezett országokkal kormányközi szerződésekben kell megállapodni. A kötött segélyhitelek feltételeit rögzítő kormányközi szerződések előkészítéséért és végrehajtásáért a gazdasági és közlekedési miniszter felelős.
+6. §[^10] (1) Kötött segélyhitelek nyújtásáról a kedvezményezett országokkal nemzetközi szerződésekben kell megállapodni. A kötött segélyhitelek feltételeit rögzítő nemzetközi szerződések előkészítéséről és végrehajtásáról a miniszter gondoskodik.
 
-(2)[^7] A kötött segélyhitelek 5. § (1) és (2) bekezdés alapján történő felajánlásának, valamint a kötött segélyhitelek nyújtására vonatkozó kormányközi szerződéseknek az OECD-nél, illetve Európai Uniónál az előírt adattartalommal és határidőben történő bejelentéséért a GKM felelős.
+(2) A kötött segélyhitelek 5. § (1) és (3) bekezdése alapján történő felajánlásának, valamint a kötött segélyhitelek nyújtására vonatkozó nemzetközi szerződéseknek az OECD-nél és az Európai Uniónál az előírt adattartalommal és határidőben történő bejelentéséért a miniszter, az egyes hitelügyletek bejelentéséért pedig az Eximbank felelős.
 
-[^6]: A 6. § (1) bekezdése a 335/2004. (XII. 15.) Korm. rendelet 12. §-ának (3) bekezdése szerint módosított szöveg.
-[^7]: A 6. § (2) bekezdése a 335/2004. (XII. 15.) Korm. rendelet 12. §-ának (2) bekezdése szerint módosított szöveg.
+[^10]: A 6. § a 299/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
