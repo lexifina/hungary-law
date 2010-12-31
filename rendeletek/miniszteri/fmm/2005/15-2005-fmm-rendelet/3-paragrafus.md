@@ -22,7 +22,7 @@ e) foglalkoztatásához kapcsolódó irányítási és ügyviteli tevékenységg
 
 (3) A pályázati felhíváshoz, valamint az évenkénti támogatás iránti kérelemre vonatkozó tájékoztatáshoz az (1) bekezdés a)–e) pontjaiban felsorolt támogatható költségek elszámolásának részletes leírását tartalmazó útmutatót kell mellékelni.
 
-(4)[^16] A védett foglalkoztatók költségkompenzációs támogatása összegének megállapítását a hatósági keretszerződés érvényességi ideje alatt évente kell kérelmezni. A kérelmet a foglalkoztatási rehabilitációért felelős miniszter bírálja el. A támogatást – a folyósítás részletes feltételeit tartalmazó, a minisztériummal megkötött hatósági keretszerződésben, valamint az éves támogatási szerződésben foglaltak szerint – havonta, utólag kell folyósítani. A 2010. január 1-jén hatósági keretszerződéssel rendelkező támogatottnak a 2010. évben megítélt költségkompenzációs támogatásból – legfeljebb az éves támogatás 2/12-ed részének erejéig – szeptember, október hónapokra egyszeri előleg folyósítható, amennyiben ezt 2010. szeptember 30-ig a Hivatalnál kérelmezi.
+(4)[^16] A védett foglalkoztatók költségkompenzációs támogatása összegének megállapítását a hatósági keretszerződés hatályossági ideje alatt évente kell kérelmezni. A kérelmet a társadalmi esélyegyenlőség előmozdításáért felelős miniszter bírálja el. A támogatást – a folyósítás részletes feltételeit tartalmazó, a minisztériummal megkötött hatósági keretszerződésben, valamint az éves támogatási szerződésben foglaltak szerint – havonta, utólag kell folyósítani. A hatályos hatósági keretszerződéssel rendelkező támogatottnak a 2010. évben megítélt éves költségkompenzációs támogatás legfeljebb 2/12-ed részének erejéig – a 2011. évre megítélt támogatások terhére, január, február hónapokra – egyszeri előleg folyósítható, amennyiben ezt 2011. január 31-ig a Hivatalnál kérelmezi.
 
 (5) Az (1) bekezdés d) pontjában meghatározott munkavállaló támogatható munkabére és járulékai összegének meghatározásakor a 2. § (1)–(6) bekezdéseiben foglalt rendelkezéseket megfelelően alkalmazni kell.
 
@@ -30,4 +30,4 @@ e) foglalkoztatásához kapcsolódó irányítási és ügyviteli tevékenységg
 [^13]: A 3. §-t megelőző cím a 21/2008. (XII. 31.) SZMM rendelet 2. §-ával megállapított szöveg.
 [^14]: A 3. §-t megelőző alcímet a 21/2008. (XII. 31.) SZMM rendelet 2. §-a iktatta be.
 [^15]: A 3. § a 21/2008. (XII. 31.) SZMM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (5) bekezdése alapján a 2009. január 1-jét megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
-[^16]: A 3. § (4) bekezdése a 9/2010. (IX. 17.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^16]: A 3. § (4) bekezdése a 23/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
