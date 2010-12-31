@@ -9,11 +9,3 @@
 (4) A Költségvetési Tanács köztársasági elnök által jelölt tagjára megbízatásának megszűnéséig a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépését megelőzően hatályos 14. §-t alkalmazni kell. A Költségvetési Tanács köztársasági elnök által jelölt tagja részére 2010. december 31-ig ki kell fizetni illetményét és egyéb járandóságait, továbbá ki kell adni a jogszabályokban előírt igazolásokat.”
 
 (2) A takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvény 10. § (1) bekezdésében a „jelölt tag” szövegrész helyébe a „kinevezett tag” szöveg lép.”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
