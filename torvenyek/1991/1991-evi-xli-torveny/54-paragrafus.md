@@ -22,7 +22,7 @@ j) működteti a közjegyzői levéltárat és az elektronikus levéltárat,
 
 k) nyilvántartást vezet a jogerős fegyelmi határozatokról.
 
-l) pénz, értéktárgy és értékpapír bizalmi őrzésére vonatkozó szabályok megsértése miatt keletkezett és a közjegyző vagyonából nem fedezhető károk legalább részbeni megtérítésének fedezésére alapot képez, vagy felelősségbiztosítást köt,
+l) pénz, értéktárgy és értékpapír bizalmi őrzésére, vagy a letétkezelésre vonatkozó szabályok megsértése miatt keletkezett és a közjegyző vagyonából nem fedezhető károk legalább részbeni megtérítésének fedezésére alapot képez vagy felelősségbiztosítást köt,
 
 m) e törvényben vagy más jogszabályban hatáskörébe utalt feladatok ellátásához közjegyzői hozzájárulás fizetésére kötelezi a közjegyzőt,
 
