@@ -2,7 +2,7 @@
 
 3. § (1) A Kassza szervezetét az igazgató vezeti.
 
-(2)[^3] Az igazgató személyéről az elektronikus hírközlésért felelős miniszter (a továbbiakban: miniszter) dönt.
+(2)[^4] Az igazgató személyéről az elektronikus hírközlésért felelős miniszter (a továbbiakban: miniszter) dönt.
 
 (3) Igazgató az lehet, aki legalább hároméves hírközlési szakmai gyakorlattal és felsőfokú iskolai végzettséggel rendelkezik.
 
@@ -32,4 +32,4 @@ c) a tag halálával.
 
 (13) A (12) bekezdés b) vagy c) pontja szerinti esetben a tagot jelölő szervezet a tagság megszűnését követő 15 napon belül új tag jelölésére jogosult. Az új tagot a miniszter a jelölés kézhezvételétől számított 15 napon belül kinevezi. Az új tag jelölésére és kinevezésére egyebekben a (7)–(11) bekezdés rendelkezései értelemszerűen alkalmazandóak.
 
-[^3]: A 3. § (2) bekezdése a 352/2008. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 352/2008. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

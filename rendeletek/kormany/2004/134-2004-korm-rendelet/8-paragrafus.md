@@ -6,6 +6,6 @@
 
 (3) Ha a Kasszába befolyt támogatásra fordítható források az összes elfogadott támogatási igényt nem fedezik, az egyetemes szolgáltatók támogatási igényeit az elfogadott igényekkel arányosan kell kielégíteni.
 
-(4)[^7] A támogatások kifizetésére az Eht. 122. § (5) bekezdésében meghatározott határidőt követően befolyt forrásokat a Kassza a befolyt forrásokkal érintett tárgyévre vonatkozó határozatokban megállapított, a jogosult szolgáltatókat megillető támogatásoknak késedelmi kamattal növelt összegével arányosan haladéktalanul, de legkésőbb a források befolyását követő 30 napon belül kifizeti a jogosult szolgáltatóknak.
+(4)[^8] A támogatások kifizetésére az Eht. 122. § (5) bekezdésében meghatározott határidőt követően befolyt forrásokat a Kassza a befolyt forrásokkal érintett tárgyévre vonatkozó határozatokban megállapított, a jogosult szolgáltatókat megillető támogatásoknak késedelmi kamattal növelt összegével arányosan haladéktalanul, de legkésőbb a források befolyását követő 30 napon belül kifizeti a jogosult szolgáltatóknak.
 
-[^7]: A 8. § (4) bekezdése a 97/2010. (III. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^8]: A 8. § (4) bekezdése a 97/2010. (III. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.

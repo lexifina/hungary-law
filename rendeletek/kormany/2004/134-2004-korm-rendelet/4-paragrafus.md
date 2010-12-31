@@ -2,7 +2,7 @@
 
 4. § (1) A miniszter kezelői jogkörében többek között megszervezi a Kassza működését, jóváhagyja szervezeti és működési szabályzatát, az Ellenőrző Testület ügyrendjét, elfogadja a Kassza működési költségeire vonatkozó éves költségvetést, valamint a 11. § (1) bekezdése szerinti beszámolót. A (4) bekezdés alapján a hatóság külön jogszabály rendelkezései szerint határozatot hoz az elektronikus hírközlési szolgáltatók által a Kasszába fizetendő hozzájárulás és a Kassza által az egyetemes szolgáltatók részére teljesíthető támogatás mértékéről.
 
-(2)[^4] Az (1) bekezdés szerinti hatósági határozatokkal szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény[^5] szerinti fellebbezésnek van helye.
+(2)[^5] Az (1) bekezdés szerinti hatósági határozatokkal szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény[^6] szerinti fellebbezésnek van helye.
 
 (3) A Kassza igazgatója köteles a hatályos jogszabályok és az e rendeletben foglaltak figyelembevételével
 
@@ -32,5 +32,5 @@ b) a Kassza által az egyetemes szolgáltatók részére teljesíthető támogat
 
 (7) A hatóság az (1) bekezdés szerinti határozatait legkésőbb a tárgyévet követő év július 31-éig meghozza.
 
-[^4]: A 4. § (2) bekezdése a 222/2005. (X. 13.) Korm. rendelet 1. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 349. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: Lásd a 2004: CXL. törvényt.
+[^5]: A 4. § (2) bekezdése a 222/2005. (X. 13.) Korm. rendelet 1. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 349. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: Lásd a 2004: CXL. törvényt.
