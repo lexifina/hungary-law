@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 63. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
