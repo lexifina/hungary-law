@@ -1,0 +1,1 @@
+22/A. § Integrált ügyfélszolgálati pótlékra jogosult az a kormánytisztviselő, aki a fővárosi és megyei kormányhivatalokon belül működő integrált ügyfélszolgálati irodán ügyfélszolgálati feladatok ellátásával összefüggő munkakört tölt be. A pótlék mértéke az alapilletmény 20%-a.
