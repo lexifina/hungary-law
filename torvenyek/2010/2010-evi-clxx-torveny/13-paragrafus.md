@@ -1,0 +1,3 @@
+13. § A Tny. 100. §-a a következő (2) bekezdéssel egészül ki, egyidejűleg a § jelenlegi szövegének megjelölése (1) bekezdésre változik:
+
+„(2) Ha a szolgálati idő elismerésére irányuló eljárásban, a nyugellátás megállapítására irányuló eljárásban vagy a 96. § (9) bekezdése szerinti eljárásban a tényállás tisztázása érdekében indokolt, az adatszolgáltatásra kötelezett, illetve az egykorú iratokat őrző más személy vagy szervezet birtokában lévő olyan adatok megismerése céljából, amelynek kezelésére törvény a nyugdíjbiztosítási igazgatási szervet feljogosítja, hatósági ellenőrzést kell lefolytatni.”

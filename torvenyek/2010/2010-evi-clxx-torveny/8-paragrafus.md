@@ -1,0 +1,3 @@
+8. § A Tny. 80. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a bíróság az (1) bekezdés szerinti jogszabálysértést a rehabilitációs szakértői szerv megalapozatlan szakhatósági állásfoglalása vagy más jogszabálysértése miatt állapítja meg, a késedelmi kamatot a rehabilitációs szakértői szerv a nyugdíjbiztosítási igazgatási szervek kimutatása alapján téríti meg. A megtérítés módjáról és az elszámolás rendjéről – ideértve azt is, hogy a kimutatásban foglaltakat a rehabilitációs szakértői szerv milyen módon ellenőrizheti – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv és a rehabilitációs szakértői szerv megállapodást köt.”
