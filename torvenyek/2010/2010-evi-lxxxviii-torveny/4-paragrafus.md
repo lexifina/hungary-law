@@ -1,3 +1,0 @@
-4. § A Kbt. 8. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ajánlatkérő az ajánlatoknak a 83–87. §-ok alkalmazását követő vagy – ha ezen rendelkezések egyikét sem kellett a közbeszerzési eljárásban alkalmazni, az eljárást lezáró döntést megelőző – 81. § (3)–(4) bekezdése szerinti elbírálására legalább háromtagú bírálóbizottságot köteles létrehozni, amely írásbeli szakvéleményt és döntési javaslatot készít az ajánlatkérő nevében a közbeszerzési eljárást lezáró döntést meghozó személy vagy testület részére. A bírálóbizottsági munkáról jegyzőkönyvet kell készíteni, amelynek részét képezik a tagok indokolással ellátott bírálati lapjai.”

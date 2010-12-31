@@ -1,3 +1,0 @@
-57. § A Kbt. 133. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A nyílt eljárásnak (3. cím) az 50. § (3)–(5) bekezdésében, az 51. § (3) bekezdésében, az 52–54. §-ban, az 56. § (1), (4) bekezdésében, az 57. § (5) bekezdésében, az 58. § (1) bekezdésében, az 59. §-ban, a 60. § (5) bekezdésében, a 61. § (1)–(2) bekezdésében, a 62. § (2) bekezdésében, a 65. § (2) bekezdésében, a 69–70/A. §-ban, a 71. § (1), (4) bekezdésében, a 79. § (3) bekezdésében, a 81. §-ban, a 83. §-ban, a 85. §-ban, a 88–91. §-ban, a 94. §-ban és a 99. §-ban említett ajánlati felhívása helyett ajánlattételi felhívást kell érteni.”
