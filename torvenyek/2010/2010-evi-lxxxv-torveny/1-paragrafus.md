@@ -1,3 +1,0 @@
-1. § A katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény (a továbbiakban: Hft.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) E törvény rendelkezéseit megfelelően alkalmazni kell a katonai szakképzésben részt vevő tényleges állományú hallgatókra is. A katonai szakképzésben részt vevő tényleges állományú hallgató gyakorlási célú szolgálatot teljesíthet, valamint honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 70. § (1) bekezdés h) pontjában meghatározott feladatok ellátására a Melléklet V. pontja szerinti díjazással kirendelhető.”
