@@ -20,4 +20,6 @@ h) az Európai Parlament és a Tanács 2006/46/EK irányelve (2006. június 14.)
 
 i) az Európai Parlament és a Tanács 2007/63/EK irányelve (2007. november 13.) a Tanács 78/855/EGK és a 82/891/EGK tanácsi irányelvének a független szakértő által a részvénytársaságok egyesülése vagy szétválása alkalmával készítendő jelentésre vonatkozó követelmény tekintetében történő módosításáról,
 
-j) az Európai Parlament és a Tanács 2007/36/EK irányelve (2007. július 11.) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban.
+j) az Európai Parlament és a Tanács 2007/36/EK irányelve (2007. július 11.) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban,
+
+k) az Európai Parlament és a Tanács 2009/109/EK irányelve (2009. szeptember 16.) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról.

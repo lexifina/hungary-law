@@ -5,3 +5,5 @@
 (3) Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést kimondó határozat meghozatala során a 237. §-t megfelelően alkalmazni kell.
 
 (4) Az egyesüléssel érintett részvénytársaságok hitelezői – a 76. § (2) bekezdésben foglalt rendelkezések megfelelő alkalmazásával – biztosítékot igényelhetnek, ha igazolják, hogy az egyesülés veszélyezteti követeléseik kielégítésének alapját, feltéve, hogy az egyesüléssel érintett részvénytársaságok korábban nem nyújtottak számukra biztosítékot.
+
+(5) Mentesül a részvénytársaság az (1) bekezdésben foglalt kötelezettség alól, amennyiben az egyesülési szerződés elfogadásáról döntő közgyűlés napja előtt harminc nappal és legalább a közgyűlés lezárásáig tartó időszak alatt a részvénytársaság saját honlapján – a Ctv. 21/A. §-ában foglaltak szerint – folyamatosan, korlátozástól mentesen és ingyenesen biztosítja az érintett dokumentumok megismerhetőségét a nyilvánosság számára, vagy a dokumentumokat a Cégközlönyben való közzététel útján hozza nyilvánosságra.
