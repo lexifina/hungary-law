@@ -1,0 +1,3 @@
+## 1. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A Tbj. 10. § (3) bekezdésében nem említett, a mezőgazdasági és vidékfejlesztési támogatási szerv által vezetett ügyfél-nyilvántartási rendszerben nyilvántartott, a Tbj. szerint mezőgazdasági őstermelőnek minősülő mezőgazdasági termelő biztosítási kötelezettsége a nyilvántartásba vétel napjától a nyilvántartásból való törlés napjáig áll fenn.”

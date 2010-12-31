@@ -1,0 +1,3 @@
+## 3. § Az R. 6. §-a helyébe a következő rendelkezés lép:
+
+## „6. § Az egyéni és társas vállalkozó járulékfizetési alsó határának számításánál havonta meg kell állapítani, hogy a tárgyév első napjától, illetve a vállalkozói vagy személyes közreműködői tevékenység év közben történő megkezdése esetén ennek napjától a tárgyhónap utolsó napjáig a megállapított járulékalap havi átlagban eléri-e a Tbj. szerinti minimálbér összegét. Ha a járulékalap havi átlagos összege a tárgyhavi járulékalapot képező jövedelem mellett kisebb a Tbj. szerinti minimálbérnél, a járulékokat a tárgyhónapban meg kell fizetni az után az összeg után is, amellyel a járulékalap havi átlagos összege eléri a Tbj. szerinti minimálbér összegét.”
