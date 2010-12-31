@@ -1,4 +1,4 @@
-10. § (1) A Költségvetési Tanács tagjai közül a köztársasági elnök által jelölt tag
+10. § (1) A Költségvetési Tanács tagjai közül a köztársasági elnök által kinevezett tag
 
 a) vezeti a Költségvetési Tanácsot,
 
