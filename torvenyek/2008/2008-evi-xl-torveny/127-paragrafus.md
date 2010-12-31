@@ -52,7 +52,7 @@ q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben el�
 
 r) a rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a rendszerirányító javaslatára dönt a napi földgáz és kapacitás kereskedelmi piacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
 
-s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság valamint a termelői csoporttag irataiba betekinteni, ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. § (2) bekezdésében meghatározott üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyestől, a termelői csoporttagtól eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
+s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság valamint a hazai termelésű földgázt termelő irataiba betekinteni, ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. § (2) bekezdésében meghatározott üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyestől, a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
 
 t) meghatározza azon – személyes adatokat nem tartalmazó – gazdálkodási adatok körét, amelyet az engedélyes köteles nyilvánosságra hozni;
 

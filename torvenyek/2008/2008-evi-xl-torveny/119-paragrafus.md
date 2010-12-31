@@ -20,7 +20,7 @@ b) bírságot szabhat ki a tulajdonosra, vagy az üzemeltetőre,
 
 c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jogszabályban előírt feladatok teljesítésére, és az engedélyes tevékenység folytatására.
 
-(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a termelői csoporttagra is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
+(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a hazai termelésű földgázt termelőre is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
 
 (3) A Hivatal az (1)–(2) bekezdésekben felsorolt intézkedéseket egyidejűleg is alkalmazhatja. A (2) bekezdés c) pontja szerinti kijelölés esetén a Hivatal dönt az engedélyes tevékenység felfüggesztéséről, vagy az engedély teljes vagy részleges visszavonásáról. A bírság ismételten kiszabható. A kiszabható bírság legmagasabb összegét külön jogszabály határozza meg.
 
