@@ -1,0 +1,1 @@
+263. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdés e) pontjában a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatala” szöveg lép.

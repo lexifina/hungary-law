@@ -1,0 +1,3 @@
+84. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 115/R. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az igazgatási szolgáltatási díj, a megújítási díj és a fenntartási díj megfizetésének időpontja átutalás útján történő teljesítés esetében a Hivatal külön jogszabályban megjelölt pénzforgalmi számláján történő jóváírást megelőző második banki munkanap, külföldről indított átutalás esetében a jóváírást megelőző ötödik banki munkanap. A banki munkanapok számításánál a kincstár munkarendje az irányadó. Ha a teljesítés készpénz-átutalási megbízás útján történik, a megfizetés napja a készpénz-átutalási megbízás postára adásának napja.”

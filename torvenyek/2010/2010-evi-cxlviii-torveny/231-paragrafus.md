@@ -1,0 +1,1 @@
+231. § Hatályát veszti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 4. § (2) bekezdés a) pontjában az „a miniszterhelyettes,” szövegrész.

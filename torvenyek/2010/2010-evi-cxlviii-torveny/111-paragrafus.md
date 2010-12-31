@@ -1,0 +1,3 @@
+111. § A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 39. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban, kivéve, ha az utóbbit a védjegyjogosult jogutód nélküli megszűnése miatt kérték. Ha a védjegy lajstromozására irányuló eljárásban a megjelölés lajstromozásával szemben benyújtott felszólalás tárgyában tárgyalást kell tartani, a Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hozza meg határozatát. A tanács szótöbbséggel dönt.”

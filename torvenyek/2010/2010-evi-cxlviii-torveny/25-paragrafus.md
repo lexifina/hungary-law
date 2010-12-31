@@ -1,0 +1,3 @@
+## 24. A Magyar Népköztársaság és a Svájci Államszövetség között létrejött, a származási jelzések, eredetmegjelölések és egyéb földrajzi megjelölések oltalmáról szóló szerződés kihirdetéséről szóló 1981. évi 27. törvényerejű rendelet módosítása
+
+25. § A Magyar Népköztársaság és a Svájci Államszövetség között létrejött, a származási jelzések, eredetmegjelölések és egyéb földrajzi megjelölések oltalmáról szóló szerződés kihirdetéséről szóló 1981. évi 27. törvényerejű rendelet 3. § (2) bekezdésében az „az Országos Találmányi Hivatal elnöke” szövegrész helyébe az „a Szellemi Tulajdon Nemzeti Hivatalának elnöke” szöveg lép.

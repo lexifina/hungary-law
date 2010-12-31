@@ -1,0 +1,5 @@
+## 58. A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény módosítása
+
+95. § A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A címert tartalmazó védjegy lajstromozásához szükséges engedély megadásáról – kérelemre, a védjegybejelentésben megjelölt árujegyzék szerinti áruk vagy szolgáltatások tekintetében hatáskörrel rendelkező miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter dönt. A kormányzati tevékenység összehangolásáért felelős miniszter a kérelem elbírálása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) alapján jár el. Az ügyfél a határozat felülvizsgálatát a határozat közlésétől számított harminc napon belül keresettel kérheti a bíróságtól.”

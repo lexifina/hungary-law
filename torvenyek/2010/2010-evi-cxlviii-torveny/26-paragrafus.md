@@ -1,0 +1,3 @@
+## 25. Az eredetmegjelölések oltalmára és nemzetközi lajstromozására vonatkozó Lisszaboni Megállapodásnak, az 1967. évi július hó 14. napján Stockholmban felülvizsgált szövege kihirdetéséről szóló 1982. évi 1. törvényerejű rendelet módosítása
+
+26. § Az eredetmegjelölések oltalmára és nemzetközi lajstromozására vonatkozó Lisszaboni Megállapodásnak, az 1967. évi július hó 14. napján Stockholmban felülvizsgált szövege kihirdetéséről szóló 1982. évi 1. törvényerejű rendelet 5. § (2) bekezdésében a „Magyar Szabadalmi Hivatal elnöke” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának elnöke” szöveg lép.

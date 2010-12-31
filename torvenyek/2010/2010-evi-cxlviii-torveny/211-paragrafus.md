@@ -1,0 +1,3 @@
+## 111. Az Európai Unióról szóló szerződés K.3 cikke alapján létrehozott, a vámigazgatási szervek közötti kölcsönös segítségnyújtásról és együttműködésről szóló, Brüsszelben, 1997. december 18-án kelt Egyezmény kihirdetéséről szóló 2006. évi LXXXIX. törvény módosítása
+
+211. § Az Európai Unióról szóló szerződés K.3 cikke alapján létrehozott, a vámigazgatási szervek közötti kölcsönös segítségnyújtásról és együttműködésről szóló, Brüsszelben, 1997. december 18-án kelt Egyezmény kihirdetéséről szóló 2006. évi LXXXIX. törvény 4. § (3) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.

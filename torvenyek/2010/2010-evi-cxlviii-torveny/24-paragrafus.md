@@ -1,0 +1,3 @@
+## 23. A mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezésének nemzetközi elismeréséről szóló Budapesti Szerződés kihirdetéséről szóló 1981. évi 1. törvényerejű rendelet módosítása
+
+24. § A mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezésének nemzetközi elismeréséről szóló Budapesti Szerződés kihirdetéséről szóló 1981. évi 1. törvényerejű rendelet 3. § (3) bekezdésében a „Magyar Szabadalmi Hivatal elnöke” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának elnöke” szöveg, a „Magyar Szabadalmi Hivatal hivatalos lapjában” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának hivatalos lapjában” szöveg lép.

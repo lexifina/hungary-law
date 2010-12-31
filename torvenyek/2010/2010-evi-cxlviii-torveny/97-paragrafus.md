@@ -1,0 +1,5 @@
+97. § A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 10. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Nemzetközi vásáron (kiállításon, árubemutatón stb.) a Magyar Köztársaságra utaló elnevezést és a címer használatát az ilyen esemény rendezésére vagy az azon való részvételre jogosultak részére – a külpolitikáért felelős miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter engedélyezi.
+
+(2) Nemzetközi kulturális vagy társadalmi jellegű rendezvény esetén az (1) bekezdés megfelelő alkalmazásával az engedély megadásáról – a külpolitikáért felelős miniszter, továbbá társadalmi rendezvény esetén a rendezvény jellege szerint hatáskörrel rendelkező miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter dönt. A kérelmet a kormányzati tevékenység összehangolásáért felelős miniszterhez kell benyújtani.”

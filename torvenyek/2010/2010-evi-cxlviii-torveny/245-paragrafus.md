@@ -1,0 +1,1 @@
+245. § Nem lép hatályba a Londonban, 2000. október 17-én kelt, az európai szabadalmak megadásáról szóló Egyezmény 65. cikkének alkalmazásáról szóló Megállapodáshoz való csatlakozásról szóló 2009. évi XXIII. törvény 9. §-a és 10. §-a.

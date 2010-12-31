@@ -1,0 +1,3 @@
+## 29. A Genfben, az 1983. évi június hó 20. napján kelt, a szakmai rehabilitációról és a foglalkoztatásról (rokkant személyek) szóló egyezmény kihirdetéséről szóló 1985. évi 9. törvényerejű rendelet módosítása
+
+30. § A Genfben, az 1983. évi június hó 20. napján kelt, a szakmai rehabilitációról és a foglalkoztatásról (rokkant személyek) szóló egyezmény kihirdetéséről szóló 1985. évi 9. törvényerejű rendelet 3. § (2) bekezdésében a „foglalkoztatáspolitikáért felelős miniszter” szövegrész helyébe a „foglalkoztatáspolitikáért felelős miniszter és a társadalmi esélyegyenlőség előmozdításáért felelős miniszter” szöveg lép.

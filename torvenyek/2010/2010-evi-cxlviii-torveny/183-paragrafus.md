@@ -1,0 +1,3 @@
+## 89. A plasztikus robbanóanyagok megjelöléséről, azok felderítése céljából Montreálban, 1991. március 1. napján létrehozott Egyezmény kihirdetéséről szóló 2003. évi LXVI. törvény módosítása
+
+183. § A plasztikus robbanóanyagok megjelöléséről, azok felderítése céljából Montreálban, 1991. március 1. napján létrehozott Egyezmény kihirdetéséről szóló 2003. évi LXVI. törvény 4. § (2) bekezdésében az „és a polgári nemzetbiztonsági szolgálatokat irányító miniszter” szövegrész helyébe az „ , a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter” szöveg lép.
