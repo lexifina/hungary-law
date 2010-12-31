@@ -1,0 +1,1 @@
+9. § A VET. 171. § (5) bekezdésében a „jelen bekezdés szerinti meghosszabbítás” szövegrész helyébe a „jelen, illetve az (5a) bekezdés szerinti meghosszabbítás” szöveg, 171. § (8) bekezdésében a „zöld bizonyítvány- és kapcsolt bizonyítvány-rendszer” szövegrész helyébe a „zöld bizonyítvány-rendszer” szöveg, az „az (5)–(6) bekezdés” szövegrész helyébe az „a (6) bekezdés” szöveg lép.
