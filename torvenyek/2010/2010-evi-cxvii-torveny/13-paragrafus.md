@@ -24,7 +24,7 @@ j) az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási ré
 
 k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, valamint a 3. § és a 7. § szerinti bírság kiszabására jogosult hatóságokat,
 
-l) a 3. § és a 7. § szerinti bírság megállapításával és megfizetésével kapcsolatos részletes szabályokat,
+l) a 3. § és a 7. § szerinti bírság megállapításával, mérséklésével és megfizetésével kapcsolatos részletes szabályokat,
 
 m) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 
