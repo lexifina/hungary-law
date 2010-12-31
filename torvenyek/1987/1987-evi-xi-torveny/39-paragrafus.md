@@ -1,1 +1,0 @@
-39. § A Kormány által kezdeményezett törvény javaslatát, továbbá törvényerejű rendelet tervezetét a Kormány nevében az általa kijelölt miniszter, államtitkár terjeszti az Országgyűlés, illetőleg a köztársasági elnök elé.

@@ -1,1 +1,0 @@
-43. § Ha a miniszter, az államtitkár az országos hatáskörű szerv vezetője, a Legfelsőbb Bíróság elnöke, a legfőbb ügyész, a társadalmi szervezet vagy az érdekképviseleti szerv azt észleli, hogy a jogszabály előkészítésére vagy a jogalkotási eljárásra vonatkozó szabályt megszegték, intézkedés végett a Kormányhoz fordulhat.

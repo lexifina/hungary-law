@@ -1,1 +1,0 @@
-42. § A tanácsrendelet előkészítésének, a tervezet társadalmi vitájának, továbbá a rendelet megalkotásának a szabályait a tanácsokról szóló törvény és végrehajtási rendelete, valamint a tanács szervezeti és működési szabályzata tartalmazza.

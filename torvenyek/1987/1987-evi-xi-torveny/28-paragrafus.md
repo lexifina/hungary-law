@@ -1,1 +1,0 @@
-28. § A törvény, a törvényerejű rendelet és a minisztertanácsi rendelet tervezetét véleményezésre meg kell küldeni a legfőbb ügyésznek, továbbá – ha az a bíróságok hatáskörét is érinti – a Legfelsőbb Bíróság elnökének is.

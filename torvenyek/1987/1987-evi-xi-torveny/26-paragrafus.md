@@ -1,1 +1,0 @@
-26. § Ha a miniszteri rendelet vagy az államtitkári rendelkezés más miniszter, illetőleg államtitkár feladatkörét is érinti, a rendeletet, illetőleg a rendelkezést vele együttesen vagy vele egyetértésben kell kiadni. Véleményeltérés esetén a Kormány dönt.
