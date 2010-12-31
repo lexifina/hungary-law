@@ -1,0 +1,3 @@
+36. § Az Eütv. 207. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A donor jogosult az adományozással összefüggésben szükséges egészségügyi ellátásának máshonnan meg nem térülő költségeinek megtérítésére, továbbá az adományozással kapcsolatos jövedelemkiesésének, valamint az adományozásról szóló nyilatkozat megtételével, az utazással összefüggésben ténylegesen felmerült és igazolt – társadalombiztosítási jogviszonya alapján nem fedezett – költségeinek megtérítésére. Meg kell téríteni a donor szervkivételt elrendelő egészségügyi intézménybe történt átszállítása esetén az ebből keletkező többletszállítási költségeket is. E költségeket az E. Alap kezeléséért felelős szerv fizeti ki, melynek a költségvetés azt megtéríti.”

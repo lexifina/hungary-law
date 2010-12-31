@@ -1,0 +1,3 @@
+8. § Az Ebtv. 38. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az (1)–(2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, az az így elszámolt támogatásnak a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét visszatéríti. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 2 éven belül támogatás elszámolása során is érvényesíthető.”

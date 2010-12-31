@@ -1,0 +1,3 @@
+22. § Az Eütv. 110. § (15) bekezdése helyébe a következő rendelkezés lép:
+
+„(15) A (3) bekezdésben foglaltak alapján felügyelet mellett tevékenységet végző személy köteles ezt a tényt legkésőbb a felügyelet mellett végzett tevékenység megkezdésétől számított tizenöt napon belül a 112. § (4) bekezdés a), f) és m) pontja szerinti adataival együtt bejelenteni a működési nyilvántartást vezető szervnek. A felügyelet során a felügyeletet ellátó személy a felügyelt személy által önállóan nem végezhető szakmai tevékenységért teljes felelősséggel tartozik. A felügyeletet ellátó személy a felügyeleti tevékenység ellátásáért az egészségügyi dolgozók továbbképzéséről szóló miniszteri rendeletek szerinti továbbképzési pontokra jogosult.”

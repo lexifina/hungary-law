@@ -1,0 +1,3 @@
+51. § A Gytv. 2009. CLIV. törvénnyel beiktatott 25/A. §-a helyébe a következő rendelkezés lép:
+
+„25/A. § A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett (újszerű) terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel meghatározott minőségi követelményeknek megfelelően állítják elő és egy kezelőorvos kizárólagos szakmai felelőssége mellett használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében [a továbbiakban: fejlett (újszerű) terápiás gyógyszerkészítmény kórházi eseti gyártása].”

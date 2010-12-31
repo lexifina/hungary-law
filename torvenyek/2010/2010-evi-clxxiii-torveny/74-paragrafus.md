@@ -1,0 +1,15 @@
+74. § A Gyftv. a következő 53/A–B. §-sal egészül ki:
+
+„53/A. § (1) A gyógyszertár működtetője minden olyan tervezett változást, amely érinti a működési engedély kiadásának feltételeit, illetve a működési engedélyben szereplő adatokat, köteles előzetesen írásban bejelenteni az egészségügyi államigazgatási szervnek. Az előre nem tervezhető eseményeket azok észlelését követő öt munkanapon belül kell bejelenteni. Amennyiben a változás érinti a működési engedély előírt kötelező tartalmát, a bejelentéssel egyidejűleg kérni kell a működési engedély módosítását.
+
+(2) Az (1) bekezdés szerinti bejelentés alapján az engedélyező egészségügyi államigazgatási szerv helyszíni szemle lefolytatásával, illetve amennyiben a bejelentés jellegéből adódóan az nem szükséges, annak mellőzésével a működési engedélyt módosítja vagy visszavonja.
+
+(3) A gyógyszertár működtetője a gyógyszertár működtetését naptári évente legfeljebb 21 napig szüneteltetheti. A szüneteltetést legalább egy hónappal előbb be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek. Az előre nem tervezhető szüneteltetést az arra okot adó körülmény észlelését követően haladéktalanul, de legkésőbb a következő munkanapon be kell jelenteni.
+
+(4) A (3) bekezdés szerinti bejelentésben meg kell jelölni a szüneteltetés okát, a kezdetét és a várható befejezés időpontját. A gyógyszertár újbóli megnyitását be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben eltér az előzetes bejelentésben feltüntetett időponttól.
+
+(5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt visszavonja.
+
+53/B. § (1) A közforgalmú gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv engedélyezi a közforgalmú gyógyszertár áthelyezését, amennyiben a gyógyszertárnak helyet adó ingatlan bérleti joga az ingatlan tulajdonosának a bérlőt hátrányosan érintő rendelkezése okán megszűnik, vagy az ingatlan megsemmisül.
+
+(2) Az (1) bekezdés szerinti áthelyezésre kizárólag az adott településen/településrészen kerülhet sor akkor, ha a meglévő közforgalmú gyógyszertárak bejárata és az áthelyezendő közforgalmú gyógyszertár bejárata között 50 000 lélekszámot meghaladó városokban 250 méter, egyéb településeken legalább 300 méter távolság van.”
