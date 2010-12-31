@@ -1,4 +1,4 @@
-5. §[^29] (1)[^30] A bértámogatás mértéke a munkabér és járulékai együttes összegének
+5. §[^22] (1)[^23] A bértámogatás mértéke a munkabér és járulékai együttes összegének
 
 a) a 2. § (1) bekezdés e) pontjának ea) és ek) alpontjaiban meghatározott munkavállaló esetén legfeljebb 40 százaléka;
 
@@ -12,5 +12,5 @@ d) a 2. § (1) bekezdés e) pontjának ee)–ei) alpontjaiban meghatározott mun
 
 (3) A bértámogatás az OOSZI, vagy az ORSZI – a 2. § (1) bekezdése e) pontjának ej)–ek) alpontjaiban megjelölt körülményt első alkalommal megállapító-szakvéleménye kiállításának időpontját követően, a munkaképesség-csökkenés, illetőleg az egészségkárosodás időtartamát meg nem haladóan, legfeljebb 36 hónapra állapítható meg.
 
-[^29]: Az 5. § a 357/2008. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani. Az 5. §-t megelőző alcímet e módosító rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^30]: Az 5. § (1) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: Az 5. § a 357/2008. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani. Az 5. §-t megelőző alcímet e módosító rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^23]: Az 5. § (1) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -8,11 +8,9 @@ b)[^21] a foglalkoztatást a munkavállaló meglévő képességeinek megfelelő
 
 c) az Flt. 41/A. § (1)–(2) bekezdésében foglalt kötelező foglalkoztatási szintet (továbbiakban: rehabilitációs foglalkoztatási kötelezettség) teljesíti.
 
-[(2)[^22] A bértámogatás mérlegelési jogkörben állapítható meg. A bértámogatás az alaptanúsítvánnyal rendelkező, legalább 20 főt foglalkoztató munkáltató esetében az olyan megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható, akiket a munkáltató az Flt. 41/A. § (1)–(2) bekezdésében meghatározott kötelező foglalkoztatási szinten felül foglalkoztat.]
+(2) A naptári negyedév első hónapjától kezdődően fel kell függeszteni a támogatás folyósítását, ha a munkáltatónak a rehabilitációs hozzájárulás előző negyedévi elszámolása során befizetési kötelezettsége keletkezett. A támogatás ismételten abban az esetben folyósítható, ha a munkáltató rehabilitációs foglalkoztatási kötelezettségét egy naptári negyedéven keresztül ismét teljesíti.
 
-(2) [(3)[^23]] A naptári negyedév első hónapjától kezdődően fel kell függeszteni a támogatás folyósítását, ha a munkáltatónak a rehabilitációs hozzájárulás előző negyedévi elszámolása során befizetési kötelezettsége keletkezett. A támogatás ismételten abban az esetben folyósítható, ha a munkáltató rehabilitációs foglalkoztatási kötelezettségét egy naptári negyedéven keresztül ismét teljesíti.
-
-(3) [(4)[^24]] Nem állapítható meg a bértámogatás, ha a támogatással érintett megváltozott munkaképességű munkavállaló
+(3) Nem állapítható meg a bértámogatás, ha a támogatással érintett megváltozott munkaképességű munkavállaló
 
 a) öregségi nyugdíjra jogosult,
 
@@ -22,9 +20,9 @@ c) foglalkoztatására átengedés, kirendelés vagy munkaerő-kölcsönzés ker
 
 d) alkalmazására tekintettel a munkáltató a megváltozott munkaképességű munkavállaló foglalkoztatásához nyújtható egyéb támogatásban [2. § f) pont] részesül.
 
-(4) [(5)[^25]] Nem nyújtható támogatás a (3) bekezdés c) pontjában megjelölt kiküldetéshez, illetőleg a munka természetéből eredően szokásos telephelyen kívül végzett foglalkoztatáshoz, ha a munkavégzésre a munkáltató által kötött, olyan szerződés teljesítése érdekében kerül sor, amelynek tárgya valamely vállalkozás részére termelő vagy – az üzembe helyezési, szavatossági, szervizelési és jótállási tevékenységnek nem tekinthető – szolgáltató tevékenység folytatása, és a munkavégzésre a vállalkozás székhelyén, telephelyén, fióktelepén, illetőleg érdekkörében kerül sor.
+(4) Nem nyújtható támogatás a (3) bekezdés c) pontjában megjelölt kiküldetéshez, illetőleg a munka természetéből eredően szokásos telephelyen kívül végzett foglalkoztatáshoz, ha a munkavégzésre a munkáltató által kötött, olyan szerződés teljesítése érdekében kerül sor, amelynek tárgya valamely vállalkozás részére termelő vagy – az üzembe helyezési, szavatossági, szervizelési és jótállási tevékenységnek nem tekinthető – szolgáltató tevékenység folytatása, és a munkavégzésre a vállalkozás székhelyén, telephelyén, fióktelepén, illetőleg érdekkörében kerül sor.
 
-(5) [(6)[^26]] A támogatás összege havonta nem haladhatja meg a tárgyévet megelőző második évre vonatkozó – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági éves bruttó átlagkereset egy tizenketted része – az 5. § (1) bekezdésében meghatározott támogatási mértékek szerinti arányos – összegének
+(5) A támogatás összege havonta nem haladhatja meg a tárgyévet megelőző második évre vonatkozó – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági éves bruttó átlagkereset egy tizenketted része – az 5. § (1) bekezdésében meghatározott támogatási mértékek szerinti arányos – összegének
 
 a) 60 százalékát, szakképzettséget nem igénylő munkakör betöltése esetén,
 
@@ -32,17 +30,10 @@ b) 80 százalékát, alapfokú vagy középfokú szakképzettséget igénylő mu
 
 c) 120 százalékát, felsőfokú szakképzettséget vagy felsőfokú iskolai végzettséget igénylő munkakör betöltése esetén.
 
-(6) [(7)[^27]] Ha a foglalkoztatás nem teljes munkaidőben történik, akkor a támogatás összegének felső határaként a (6) bekezdés rendelkezései alapján meghatározott összeg arányos részét kell figyelembe venni.
+(6) Ha a foglalkoztatás nem teljes munkaidőben történik, akkor a támogatás összegének felső határaként a (6) bekezdés rendelkezései alapján meghatározott összeg arányos részét kell figyelembe venni.
 
-(7) [(8)[^28]] Ha a (6) bekezdésben megjelölt nemzetgazdasági éves bruttó átlagkereset összege a támogatás folyósításának időtartama alatt emelkedik, akkor – a munkáltató kérelmére – az azt követő időszakra a támogatás összege a nemzetgazdasági éves bruttó átlagkereset emelkedésének arányában megnövelhető, de a támogatás százalékos mértéke nem emelkedhet.
+(7) Ha a (6) bekezdésben megjelölt nemzetgazdasági éves bruttó átlagkereset összege a támogatás folyósításának időtartama alatt emelkedik, akkor – a munkáltató kérelmére – az azt követő időszakra a támogatás összege a nemzetgazdasági éves bruttó átlagkereset emelkedésének arányában megnövelhető, de a támogatás százalékos mértéke nem emelkedhet.
 
 [^19]: A 4. §-t megelőző alcím a 357/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^20]: A 4. § a 357/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
 [^21]: A 4. § (1) bekezdés b) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^22]: A 4. § új (2) bekezdését a 352/2009. (XII. 30.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (2)–(7) bekezdés számozását (3)–(8) bekezdésre változtatva; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
-[^23]: A 4. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 352/2009. (XII. 30.) Korm. rendelet 2. §-a; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
-[^24]: A 4. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 352/2009. (XII. 30.) Korm. rendelet 2. §-a; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
-[^25]: A 4. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 352/2009. (XII. 30.) Korm. rendelet 2. §-a; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
-[^26]: A 4. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 352/2009. (XII. 30.) Korm. rendelet 2. §-a; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
-[^27]: A 4. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 352/2009. (XII. 30.) Korm. rendelet 2. §-a; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
-[^28]: A 4. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 352/2009. (XII. 30.) Korm. rendelet 2. §-a; e módosító rendelet 8. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
