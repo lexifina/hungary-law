@@ -40,61 +40,101 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 1. Hagyatéki ügyek, 2. Értékpapír-, és okirat semmissé nyilvánítási ügy, 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 9/c. Gyermek nevéről szóló utólagos nyilatkozat bejegyzése, 10. Végrehajtás elrendelése a közjegyző által jóváhagyott egyezség és közjegyzői okirat alapján 11. Összesen
 
-0M16397_2
+0M16399_2
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 | a | b | c |
 
-| Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Érkezett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Érkezett |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Befejezett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Befejezett |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Folyamatban maradt | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Folyamatban maradt | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Jogerőre emelkedett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Jogerőre emelkedett |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Fel nem terjesztett fellebbezések | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fel nem terjesztett fellebbezések | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Elutasítás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Elutasítás |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A másodfokú bíróságról visszaérkezett ügyekben hozott határozatok: | Helybenhagyás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A másodfokú bíróságról visszaérkezett ügyekben hozott határozatok: | Helybenhagyás |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Meghiúsult ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Meghiúsult ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | A befejezett ügyekben az eljárás időtartama * |
 
-| 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3–6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3–6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6–12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6–12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 év felett |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 év felett |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve.
 
-4. Adatszolgáltató adatai
+4. Végrehajtás elrendelése iránti ügyek (kivéve fizetési meghagyásos ügyek és fizetési meghagyás alapján végrehajtás elrendelése és biztosítási intézkedés elrendelése iránti ügyek)
+
+| Az eljárás tárgya | Pénzkövetelés | Meghatározott cselekmény | Összesen |
+
+| Előző hónapról folyamatban maradt ügyek száma |  |  |  |
+
+| Az érkezett ügyek száma | ebből | új ügyként érkezett |  |  |  |
+
+|  |  | újra megindult |  |  |  |
+
+|  |  | összesen |  |  |  |
+
+| A befejezett ügyek száma | befejezés módja | végrehajtási lap |  |  |  |
+
+|  |  | végrehajtási záradék |  |  |  |
+
+|  |  | megtagadás |  |  |  |
+
+|  |  | elutasítás |  |  |  |
+
+|  |  | megszüntetés |  |  |  |
+
+|  |  | egyéb |  |  |  |
+
+|  |  | összesen |  |  |  |
+
+| Az ügyekből | megyei bírósági | végrehajtónak átadva |  |  |  |
+
+| önálló bírósági |  |  |  |
+
+| A hónap végén folyamatban maradt ügyek száma |  |  |  |
+
+| A főkövetelés összege az érkezett végrehajtási kérelmekben összesen (Ft)* |  |
+
+| A főkövetelés összege az elrendelt végrehajtási ügyekben (Ft)* |  |
+
+| A főkövetelés összege a megyei végrehajtónak átadott ügyekben (Ft)* |  |
+
+| A pénzkövetelés összege az önálló végrehajtónak átadott ügyekben (Ft)* |  |
+
+* Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
 közjegyző neve:
 
@@ -106,4 +146,4 @@ Kelt, .................., ....... év ......... hó .... nap.
 
 közjegyző
 
-[^92]: Az 5. számú melléklet a 28/2010. (V. 12.) IRM rendelet 41. §-ával megállapított szöveg.
+[^92]: Az 5. számú melléklet a 28/2010. (V. 12.) IRM rendelet 42. § (2) bekezdésével megállapított szöveg.
