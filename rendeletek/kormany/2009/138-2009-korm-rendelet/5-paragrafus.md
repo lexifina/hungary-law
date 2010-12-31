@@ -8,7 +8,7 @@ b) a jogsértő állapot megszüntetésére tett, a hatóság eljárását megel
 
 c) a jogsértő üzemanyag-forgalmazó korábbi jogsértő magatartására.
 
-(2) Amennyiben az üzemanyag-forgalmazó bioüzemanyag-ellátásban beállott válsághelyzet következményeként hoz forgalomba a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot, a vámhatóság az EUtv. 143/C. § (1) bekezdés a) pontja alapján megállapított bírság összegét a jogsértő üzemanyag-forgalmazó kérelmére mérsékelheti, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el. A bioüzemanyag-ellátásban beállott válsághelyzetnek kell tekinteni a bioüzemanyagok termelésében beállott nagymértékű kapacitás-kiesést, az üzemanyag-forgalmazónál, illetve annak ellátójánál bekövetkezett tartós üzemzavart vagy a bioüzemanyagok európai kereskedelmében bekövetkezett zavart, amennyiben ezek következtében az üzemanyag-forgalmazó igazoltan nem volt képes a kötelezettség teljesítéséhez szükséges bioüzemanyag-mennyiséget beszerezni.
+(2)[^2]
 
 (3) Az (1) bekezdés szerinti bírság ismételten is kiszabható.
 
@@ -19,3 +19,5 @@ c) a jogsértő üzemanyag-forgalmazó korábbi jogsértő magatartására.
 (6) A bírságot az azt megállapító határozat jogerőre emelkedésétől számított 8 napon belül kell a vámhatóság számlájára megfizetni.
 
 (7) A jogerősen kiszabott bírság részletekben történő megfizetésének vagy halasztott megfizetésének engedélyezésére az adózás rendjéről szóló 2003. évi XCII. törvénynek a részletfizetésre és fizetéshalasztásra vonatkozó rendelkezéseit kell értelemszerűen alkalmazni.
+
+[^2]: Az 5. § (2) bekezdését a 2010: CLXXII. törvény 105. § (4) bekezdése hatályon kívül helyezte.
