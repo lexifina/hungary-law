@@ -1,6 +1,6 @@
 | 48A A független biztosításközvetítő adatai a szakmai felelősség vagyoni fedezetéről és a foglalkoztatottak létszámáról Nagyságrend: ezer forint |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Érték | Mód |
+| Sorszám | PSZÁF kód | Megnevezés | Érték | Mód |
 
 | 1 | 2 |
 
@@ -40,13 +40,13 @@
 
 | 016 | 48A33 | Közvetített szerződések típusa |  |  |
 
-| 017 | 48A331 | Kötelező gépjármű-felelősségbiztosítás |  |  |
+| 017 | 48A331 | Kötelező gépjármű felelősségbiztosítás |  |  |
 
 | 018 | 48A332 | Befektetési egységekhez kötött (unit-linked) életbiztosítás |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |
 
 | 48B1A Biztosításközvetítői tevékenységből származó jutalékbevételek és továbbadott jutalékok Nagyságrend: ezer forint |
 
@@ -64,9 +64,11 @@
 
 |  | 48B1A0199 |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |
 
 | 48B1B A biztosításközvetítő egyéb tevékenységéből származó bevételei Nagyságrend: ezer forint |
 
@@ -96,15 +98,15 @@
 
 | 010 | 48B1B19 | egyéb |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |
 
 | 48B2 A közvetített biztosítási szerződések száma, díja Nagyságrend: ezer forint |
 
 | Sorszám | PSZÁF kód | Megnevezés |  | Folyamatos dijfizetésű biztosítási szerződések | Egyszeri díjfizetésű biztosítási szerződések | darabszáma (db) |  |
 
-|  | darabszáma (db) | éves állománydíjának összege (eFt) | darabszáma (db) | éves biztosítási díjának összege (eFt) | Díjmentesített biztosítási szerződések |  |
+|  | darabszáma (db) | éves állománydíjának összege | darabszáma (db) | éves biztosítási díjának összege | Díjmentesített biztosítási |  |
 
 | Biztosító megnevezése | élet | nem élet | viszontbiztosítás | élet | nem élet | viszontbiztosítás | élet | nem élet | viszontbiztosítás | élet | nem élet | viszontbiztosítás | élet | nem élet | viszontbiztosítás | Mód |
 
@@ -124,15 +126,15 @@
 
 | 005 | 48B22 | Élő (záró) állományban lévő szerződések összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 010 | 48B2201 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 006 | 48B2201 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | …. | …. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 011 | 48B2299 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 007 | 48B2299 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 48C A független biztosításközvetítőre vonatkozó főbb mérleg és eredménykimutatás adatok Nagyságrend: ezer forint |
 
@@ -168,11 +170,13 @@
 
 | 013 | 48C11 | Értékesítés nettó árbevétele összesen |  |  |  |
 
-| 014 | 48C12 | Adózott eredmény |  |  |  |
+| 014 | 48C12 | Adózás előtti eredmény |  |  |  |
 
-|  | Jelmagyarázat |  |
+| 015 | 48C13 | Adózott eredmény |  |  |  |
 
-|  |  | Tilos |
+|  | Jelmagyarázat |  |  |  |
+
+|  |  | Tilos |  |  |  |
 
 | BESZAD Biztosítási piac egyéb szereplői felügyeleti alapdíj számítása (éves) Nagyságrend: ezer forint |
 
@@ -182,11 +186,17 @@
 
 | a | b |
 
-| 001 | BESZAD1 | Előírt alapdíj |  |  |
+| 001 | BESZAD1 | A független biztosításközvetítő által, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott vagy megbízott biztosításközvetítést végző természetes személy száma tárgyév január 1-jén |  |  |
 
-| 002 | BESZAD2 | Megfizetett alapdíj |  |  |
+| 002 | BESZAD2 | Előírt alapdíj |  |  |
 
-| KTABK1 Intézményi alapadatok |
+| 003 | BESZAD3 | Megfizetett alapdíj |  |  |
+
+|  | Jelmagyarázat |  |  |
+
+|  |  | Tilos |  |  |
+
+| KTABK1 Intézményi alapadatok Nagyságrend: forint |
 
 | Sorszám | PSZÁF kód | Megnevezés | Adat | Mód |
 
@@ -236,9 +246,9 @@
 
 | 021 | KTABK113 | Cégjegyzékszám*** |  |  |
 
-| 022 | KTABK114 | Cégbírósági bejegyzés kelte (éééé.hh.nn.)*** |  |  |
+| 022 | KTABK114 | Cégbírósági bejegyzés kelte(éééé.hh.nn.)*** |  |  |
 
-| 023 | KTABK1151 | Alapítás időpontja (éééé.hh.nn.)*** |  |  |
+| 023 | KTABK1151 | Alapítás időpontja(éééé.hh.nn.)*** |  |  |
 
 | 024 | KTABK1152 | Jogi státusz változás időpontja(éééé.hh.nn)*** |  |  |
 
@@ -280,29 +290,39 @@
 
 | 043 | KTABK1232 | Város |  |  |
 
-| 044 | KTABK1233 | Utca, házszám, emelet, ajtó |  |  |
+| 044 | KTABK1233 | Utca, házszám, emelet. ajtó |  |  |
 
 | 045 | KTABK1234 | Ország |  |  |
 
-| 046 | KTABK124 | PSZÁF kapcsolattartásért felelős személy* |  |  |
+| 046 | KTABK124 | Egyéb, tényleges tevékenység végzésére szolgáló hely címe |  |  |
 
-| 047 | KTABK1241 | Neve* |  |  |
+| 047 | KTABK1241 | Irányítószám |  |  |
 
-| 048 | KTABK1242 | Telefonszáma* |  |  |
+| 048 | KTABK1242 | Város |  |  |
 
-| 049 | KTABK1243 | E-mail címe* |  |  |
+| 049 | KTABK1243 | Utca, házszám, emelet, ajtó |  |  |
 
-| 050 | KTABK125 | Felügyeleti adatszolgáltatásért felelős személy* |  |  |
+| 050 | KTABK1244 | Ország |  |  |
 
-| 051 | KTABK1251 | Neve* |  |  |
+| 051 | KTABK125 | PSZÁF kapcsolattartásért felelős személy* |  |  |
 
-| 052 | KTABK1252 | Telefonszáma* |  |  |
+| 052 | KTABK1251 | Neve* |  |  |
 
-| 053 | KTABK1253 | E-mail címe* |  |  |
+| 053 | KTABK1252 | Telefonszáma* |  |  |
 
-|  | Jelmagyarázat |
+| 054 | KTABK1253 | E-mail címe* |  |  |
 
-|  |  | Tilos |
+| 055 | KTABK126 | Felügyeleti adatszolgáltatásért felelős személy* |  |  |
+
+| 056 | KTABK1261 | Neve* |  |  |
+
+| 057 | KTABK1262 | Telefonszáma* |  |  |
+
+| 058 | KTABK1263 | E-mail címe* |  |  |
+
+|  | Jelmagyarázat |  |  |
+
+|  |  | Tilos |  |  |
 
 | KTABK2 Tisztségviselő |
 
@@ -312,19 +332,19 @@
 
 | a | b |
 
-| 001 | KTABK2101 | Bejelentő intézmény neve |  |  |
+| 001 | KTABK2101 | Bejelentő intézmény neve* |  |  |
 
-| 002 | KTABK2102 | Adószám |  |  |
+| 002 | KTABK2102 | Adószám* |  |  |
 
-| 003 | KTABK2201 | Igazgató/Ügyvezető neve |  |  |
+| 003 | KTABK2201 | Igazgató/Ügyvezető neve* |  |  |
 
 | 004 | KTABK2202 | Születési név |  |  |
 
-| 005 | KTABK2203 | Anyja neve |  |  |
+| 005 | KTABK2203 | Anyja neve* |  |  |
 
-| 006 | KTABK2204 | Születési helye |  |  |
+| 006 | KTABK2204 | Születési helye* |  |  |
 
-| 007 | KTABK2205 | Születési ideje (éééé.hh.nn.) |  |  |
+| 007 | KTABK2205 | Születési ideje (éééé.hh.nn.)* |  |  |
 
 | 008 | KTABK2206 | Személyi igazolvány száma |  |  |
 
@@ -334,9 +354,9 @@
 
 | 011 | KTABK22082 | Egyéb azonosító dokumentum száma |  |  |
 
-| 012 | KTABK2209 | Állampolgársága |  |  |
+| 012 | KTABK2209 | Állampolgársága* |  |  |
 
-| 013 | KTABK2210 | Lakcím |  |  |
+| 013 | KTABK2210 | Lakcím* |  |  |
 
 | 014 | KTABK22101 | Irányítószám |  |  |
 
@@ -346,17 +366,17 @@
 
 | 017 | KTABK22104 | Ország |  |  |
 
-| 018 | KTABK2211 | Legmagasabb iskolai végzettség |  |  |
+| 018 | KTABK2211 | Legmagasabb iskolai végzettség* |  |  |
 
-| 019 | KTABK2301 | Szakmai vezető neve |  |  |
+| 019 | KTABK2301 | Szakmai vezető neve* |  |  |
 
 | 020 | KTABK2302 | Születési név |  |  |
 
-| 021 | KTABK2303 | Anyja neve |  |  |
+| 021 | KTABK2303 | Anyja neve* |  |  |
 
-| 022 | KTABK2304 | Születési helye |  |  |
+| 022 | KTABK2304 | Születési helye* |  |  |
 
-| 023 | KTABK2305 | Születési ideje (éééé.hh.nn.) |  |  |
+| 023 | KTABK2305 | Születési ideje (éééé.hh.nn.)* |  |  |
 
 | 024 | KTABK2306 | Személyi igazolvány száma |  |  |
 
@@ -366,9 +386,9 @@
 
 | 027 | KTABK23082 | Egyéb azonosító dokumentum száma |  |  |
 
-| 028 | KTABK2309 | Állampolgársága |  |  |
+| 028 | KTABK2309 | Állampolgársága* |  |  |
 
-| 029 | KTABK2310 | Lakcím |  |  |
+| 029 | KTABK2310 | Lakcím* |  |  |
 
 | 030 | KTABK23101 | Irányítószám |  |  |
 
@@ -378,11 +398,11 @@
 
 | 033 | KTABK23104 | Ország |  |  |
 
-| 034 | KTABK2311 | Legmagasabb iskolai végzettség |  |  |
+| 034 | KTABK2311 | Legmagasabb iskolai végzettség* |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |
 
 | KTABK3 Tulajdoni részesedés más független biztosításközvetítőben Nagyságrend: forint |
 
@@ -394,11 +414,11 @@
 
 | 001 | KTABK30001 | Bejelentő adatai |  |  |
 
-| 002 | KTABK300011 | Bejelentő intézmény neve |  |  |
+| 002 | KTABK300011 | Bejelentő intézmény neve* |  |  |
 
-| 003 | KTABK300012 | Adószám |  |  |
+| 003 | KTABK300012 | Adószám* |  |  |
 
-| 004 | KTABK300013 | Székhely |  |  |
+| 004 | KTABK300013 | Székhely* |  |  |
 
 | 005 | KTABK3000131 | Irányítószám |  |  |
 
@@ -410,11 +430,11 @@
 
 | 009 | KTABK301 | Tulajdonolt intézmény adatai |  |  |
 
-| 010 | KTABK3011 | Tulajdonolt intézmény neve |  |  |
+| 010 | KTABK3011 | Tulajdonolt intézmény neve* |  |  |
 
-| 011 | KTABK3012 | Adószáma |  |  |
+| 011 | KTABK3012 | Adószáma* |  |  |
 
-| 012 | KTABK3013 | Székhely |  |  |
+| 012 | KTABK3013 | Székhely* |  |  |
 
 | 013 | KTABK30131 | Irányítószám |  |  |
 
@@ -424,21 +444,47 @@
 
 | 016 | KTABK30134 | Ország |  |  |
 
-| 017 | KTABK3014 | Tulajdonszerzés időpontja |  |  |
+| 017 | KTABK3014 | Tulajdonszerzés időpontja* |  |  |
 
-| 018 | KTABK3015 | Tulajdon megszűnésének időpontja |  |  |
+| 018 | KTABK3015 | Tulajdon megszűnésének időpontja**** |  |  |
 
-| 019 | KTABK3016 | Tulajdoni rész % |  |  |
+| 019 | KTABK3016 | Tulajdoni rész %* |  |  |
 
-| 020 | KTABK3017 | Tulajdoni rész Ft |  |  |
+| 020 | KTABK3017 | Tulajdoni rész Ft* |  |  |
 
-|  | Jelmagyarázat |
+|  | ...... | ...... |  |  |
 
-|  |  | Tilos |
+| 021 | KTABK309 | Tulajdonolt intézmény adatai |  |  |
 
-| KTAFBK1 Biztosításközvetítő fióktelep Intézményi alapadatok |
+| 022 | KTABK3091 | Tulajdonolt intézmény neve* |  |  |
 
-| Sor- szám | PSZÁF kód | Megnevezés | Adat | Mód |
+| 023 | KTABK3092 | Adószáma* |  |  |
+
+| 024 | KTABK3093 | Székhely* |  |  |
+
+| 025 | KTABK30931 | Irányítószám |  |  |
+
+| 026 | KTABK30932 | Város |  |  |
+
+| 027 | KTABK30933 | Utca, házszám, emelet, ajtó |  |  |
+
+| 028 | KTABK30934 | Ország |  |  |
+
+| 029 | KTABK3094 | Tulajdonszerzés időpontja* |  |  |
+
+| 030 | KTABK3095 | Tulajdon megszűnésének időpontja**** |  |  |
+
+| 031 | KTABK3096 | Tulajdoni rész %* |  |  |
+
+| 032 | KTABK3097 | Tulajdoni rész Ft* |  |  |
+
+|  | Jelmagyarázat |  |  |
+
+|  |  | Tilos |  |  |
+
+| KTAFBK1 Biztosításközvetítő fióktelep Intézményi alapadatok Nagyságrend: forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Adat | Mód |
 
 | 1 | 2 |
 
@@ -486,23 +532,23 @@
 
 | 021 | KTAFBK113 | Cégjegyzékszám*** |  |  |
 
-| 022 | KTAFBK114 | Cégbírósági bejegyzés kelte (éééé.hh.nn.)*** |  |  |
+| 022 | KTAFBK114 | Cégbírósági bejegyzés kelte(éééé.hh.nn.)*** |  |  |
 
 | 023 | KTAFBK1151 | Alapítás időpontja (éééé.hh.nn.)*** |  |  |
 
-| 024 | KTAFBK1152 | Jogi státusz változás időpontja (éééé.hh.nn)*** |  |  |
+| 024 | KTAFBK1152 | Jogi státusz változás időpontja (éééé.hh.nn.)**** |  |  |
 
 | 025 | KTAFBK116 | Jegyzett tőke összesen* |  |  |
 
 | 026 | KTAFBK1161 | ebből: jegyzett tőke pénzbeni* |  |  |
 
-| 027 | KTAFBK117 | Hivatalos levelek címzettjének neve |  |  |
+| 027 | KTAFBK117 | Hivatalos levelek címzettjének neve* |  |  |
 
-| 028 | KTAFBK118 | Beosztása (hivatali rangja) |  |  |
+| 028 | KTAFBK118 | Beosztása (hivatali rangja)* |  |  |
 
-| 029 | KTAFBK119 | Anyaintézmény neve |  |  |
+| 029 | KTAFBK119 | Anyaintézmény neve* |  |  |
 
-| 030 | KTAFBK120 | Telephely címe |  |  |
+| 030 | KTAFBK120 | Telephely címe* |  |  |
 
 | 031 | KTAFBK1201 | Irányítószám |  |  |
 
@@ -528,9 +574,9 @@
 
 | 042 | KTAFBK1223 | E-mail címe* |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |
 
 | KTAFBK2 Biztosításközvetítő fióktelep Tisztségviselő |
 
@@ -544,15 +590,15 @@
 
 | 002 | KTAFBK2102 | Adószám* |  |  |
 
-| 003 | KTAFBK2201 | Igazgató/Ügyvezető neve |  |  |
+| 003 | KTAFBK2201 | Igazgató/Ügyvezető neve* |  |  |
 
 | 004 | KTAFBK2202 | Születési név |  |  |
 
-| 005 | KTAFBK2203 | Anyja neve |  |  |
+| 005 | KTAFBK2203 | Anyja neve* |  |  |
 
-| 006 | KTAFBK2204 | Születési helye |  |  |
+| 006 | KTAFBK2204 | Születési helye* |  |  |
 
-| 007 | KTAFBK2205 | Születési ideje (éééé.hh.nn.) |  |  |
+| 007 | KTAFBK2205 | Születési ideje (éééé.hh.nn.)* |  |  |
 
 | 008 | KTAFBK2206 | Személyi igazolvány száma |  |  |
 
@@ -562,31 +608,31 @@
 
 | 011 | KTAFBK22082 | Egyéb azonosító dokumentum száma |  |  |
 
-| 012 | KTAFBK2209 | Állampolgársága |  |  |
+| 012 | KTAFBK2209 | Állampolgársága* |  |  |
 
-| 013 | KTAFBK2210 | Lakcím |  |  |
+| 013 | KTAFBK2210 | Lakcím* |  |  |
 
 | 014 | KTAFBK22101 | Irányítószám |  |  |
 
 | 015 | KTAFBK22102 | Város |  |  |
 
-| 016 | KTAFBK22103 | Utca, házszám, emelet, ajtó |  |  |
+| 016 | KTAFBK22103 | Utca, házszám, emelet, ajót |  |  |
 
 | 017 | KTAFBK22104 | Ország |  |  |
 
-| 018 | KTAFBK2211 | Legmagasabb iskolai végzettség |  |  |
+| 018 | KTAFBK2211 | Legmagasabb iskolai végzettség* |  |  |
 
-| 019 | KTAFBK2301 | Szakmai vezető neve |  |  |
+| 019 | KTAFBK2301 | Szakmai vezető neve* |  |  |
 
 | 020 | KTAFBK2302 | Születési név |  |  |
 
-| 021 | KTAFBK2303 | Anyja neve |  |  |
+| 021 | KTAFBK2303 | Anyja neve* |  |  |
 
-| 022 | KTAFBK2304 | Születési helye |  |  |
+| 022 | KTAFBK2304 | Születési helye* |  |  |
 
-| 023 | KTAFBK2305 | Születési ideje (éééé.hh.nn.) |  |  |
+| 023 | KTAFBK2305 | Születési ideje (éééé.hh.nn.)* |  |  |
 
-| 024 | KTAFBK2306 | Személyi igazolvány száma |  |  |
+| 024 | KTAFBK2306 | Személy igazolvány száma |  |  |
 
 | 025 | KTAFBK2307 | Útlevélszám |  |  |
 
@@ -594,9 +640,9 @@
 
 | 027 | KTAFBK23082 | Egyéb azonosító dokumentum száma |  |  |
 
-| 028 | KTAFBK2309 | Állampolgársága |  |  |
+| 028 | KTAFBK2309 | Állampolgársága* |  |  |
 
-| 029 | KTAFBK2310 | Lakcím |  |  |
+| 029 | KTAFBK2310 | Lakcím* |  |  |
 
 | 030 | KTAFBK23101 | Irányítószám |  |  |
 
@@ -606,12 +652,12 @@
 
 | 033 | KTAFBK23104 | Ország |  |  |
 
-| 034 | KTAFBK2311 | Legmagasabb iskolai végzettség |  |  |
+| 034 | KTAFBK2311 | Legmagasabb iskolai végzettség* |  |  |
 
-|  | Jelmagyarázat |
+|  | Jelmagyarázat |  |  |
 
-|  |  | Tilos |
+|  |  | Tilos |  |  |
 
-2. számú melléklet a 45/2007. (XII. 29.) PM rendelethez[^12]
+2. számú melléklet a 45/2007. (XII. 29.) PM rendelethez[^13]
 
-[^12]: A 2. számú mellékletet a 42/2008. (XII. 31.) PM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
+[^13]: A 2. számú mellékletet a 42/2008. (XII. 31.) PM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
