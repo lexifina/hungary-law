@@ -2,7 +2,7 @@
 
 ## Vegyes és záró rendelkezések
 
-27. § (1)[^96] E rendelet 2–14. §-ában meghatározott vízügyi hatósági eljárásokban a döntést a kérelem előterjesztésétől számított 2 hónapon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő 22 munkanapon belül adják meg állásfoglalásukat. A hiányosan benyújtott kérelem esetében a felügyelőség az ügyfelet a kérelem beérkezésétől számított 10 munkanapon belül hívja fel hiánypótlásra.
+27. § (1)[^96] E rendelet 2–14. §-ában meghatározott vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 2 hónapon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő harminc napon belül adják meg állásfoglalásukat. A hiányosan benyújtott kérelem esetében a felügyelőség az ügyfelet a kérelem beérkezésétől számított tizenöt napon belül hívja fel hiánypótlásra.
 
 (2)[^97] A hivatalból indított eljárásban a vízügyi hatóság az idézésre vonatkozó általános szabályok szerint a székhelyén kívül lakó vagy tartózkodó magánszemélyt a székhelyére is idézheti.
 
@@ -65,7 +65,7 @@ d) A IV. ,,kisebb jelentőségű'' kategóriába tartoznak:
 – az előbbi kategóriákba be nem sorolható vízilétesítmények és vízhasználatok.
 
 [^95]: A 26. §-t és az azt megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^96]: A 27. § (1) bekezdése a 228/2005. (X. 13.) Korm. rendelet 7. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 73. pontja, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^96]: A 27. § (1) bekezdése a 228/2005. (X. 13.) Korm. rendelet 7. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 73. pontja, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^97]: A 27. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^98]: A 27. § (3) bekezdése a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének g) pontjával megállapított szöveg.
 [^99]: A 27. § új (4) bekezdését a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (5)–(7) bekezdésre változtatva. A 27. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
