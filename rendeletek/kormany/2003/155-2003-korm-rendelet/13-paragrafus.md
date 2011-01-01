@@ -2,11 +2,11 @@
 
 a) a birtokában lévő pirotechnikai termékekről naprakész terméknyilvántartást vezetni, és azt a nyilvántartás felvételétől számított öt éven át megőrizni akkor is, ha befejezte tevékenységét;
 
-b)[^48] a gyártás megindítását és a pirotechnikus(ok) személyének megváltozását, illetőleg a gyártási tevékenység két hónapon túli szüneteltetését az engedélyező hatóságnak haladéktalanul bejelenteni;
+b)[^49] a gyártás megindítását és a pirotechnikus(ok) személyének megváltozását, illetőleg a gyártási tevékenység két hónapon túli szüneteltetését az engedélyező hatóságnak haladéktalanul bejelenteni;
 
-c)[^49] a gyártási tevékenység megszüntetése esetén tevékenység megszüntetését nyolc napon belül az engedélyező hatóságnak írásban bejelenteni.
+c)[^50] a gyártási tevékenység megszüntetése esetén tevékenység megszüntetését nyolc napon belül az engedélyező hatóságnak írásban bejelenteni.
 
-13/A.[^50] (1) Engedély kizárólag megsemmisítési tevékenységre is adható. A megsemmisítési engedély iránti kérelemnek tartalmaznia kell:
+13/A.[^51] (1) Engedély kizárólag megsemmisítési tevékenységre is adható. A megsemmisítési engedély iránti kérelemnek tartalmaznia kell:
 
 a) a kérelmet benyújtó gazdálkodó szervezet nevét, székhelyét, adószámát, cégszerű aláírását,
 
@@ -32,6 +32,6 @@ b) a megsemmisítési tevékenység megindítását és a felelős pirotechnikus
 
 c) a megsemmisítési tevékenység megszüntetése esetén a tevékenység megszüntetését nyolc napon belül az engedélyező hatóságnak írásban bejelenteni.
 
-[^48]: A 13. § b) pontja a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 14. pontja, a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^49]: A 13. § c) pontja a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^50]: A 13/A. §-t a 263/2009. (XI. 26.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: A 13. § b) pontja a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 14. pontja, a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: A 13. § c) pontja a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^51]: A 13/A. §-t a 263/2009. (XI. 26.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

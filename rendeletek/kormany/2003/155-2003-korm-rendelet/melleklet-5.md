@@ -1,6 +1,6 @@
 ## Tárolási előírások
 
-## 1.[^124] A pirotechnikai terméket forgalmazó üzlet eladóterében
+## 1.[^127] A pirotechnikai terméket forgalmazó üzlet eladóterében
 
 ## a) az I-es osztályba tartozó termékből nettó hatóanyag-tartalom szerint összesen 20 kg tárolható,
 
@@ -52,7 +52,7 @@
 
 ## 20. A közvetlen (kézi) gyújtással szerelt terméket csak a gyújtóhelyet borító védősapkával (védőburkolattal) szabad mozgatni és szállítani.
 
-## 21.[^125] Magánszemélyek által szabadon felhasználható pirotechnikai termékekre vonatkozó tárolási előírások:
+## 21.[^128] Magánszemélyek által szabadon felhasználható pirotechnikai termékekre vonatkozó tárolási előírások:
 
 ## a) pirotechnikai termékek más tűzveszélyes anyagokkal együtt nem tárolhatók,
 
@@ -70,7 +70,7 @@
 
 ## h) a közvetlen (kézi) gyújtással szerelt terméket csak a gyújtóhelyet borító védősapkával (védőburkolattal) szabad mozgatni és szállítani.
 
-5. számú melléklet a 155/2003. (X. 1.) Korm. rendelethez[^126]
+5. számú melléklet a 155/2003. (X. 1.) Korm. rendelethez[^129]
 
 Pirotechnikai Biztonsági Szabályzat
 
@@ -90,7 +90,7 @@ a) a szabadon birtokolható és a műszaki pirotechnikai termékek felhasználá
 
 b) a pirotechnikai termékek gyártása, megsemmisítése, raktározása és szállítása, mely tevékenységek külön szabályozottak.
 
-3.[^127] A pirotechnikus a tevékenysége során felelősségteljes magatartást köteles tanúsítani, és a pirotechnikai tevékenységet nem kezdheti meg, illetve nem végezheti tudatmódosító szer (alkohol, gyógyszer, élénkítő vagy bódító hatású anyag) által befolyásolt állapotban.
+3.[^130] A pirotechnikus a tevékenysége során felelősségteljes magatartást köteles tanúsítani, és a pirotechnikai tevékenységet nem kezdheti meg, illetve nem végezheti tudatmódosító szer (alkohol, gyógyszer, élénkítő vagy bódító hatású anyag) által befolyásolt állapotban.
 
 II. Fejezet
 
@@ -100,11 +100,11 @@ Pirotechnikai tevékenység előkészítése
 
 5. A helyszín bejárása során fel kell mérni a területen lévő és a tevékenység időpontjában ideiglenesen felállított műtárgyak elhelyezkedését, a közönség elhelyezkedését és lehetséges mozgásait, a járművek elhelyezkedését és azok mozgásának lehetőségét, a tevékenységet befolyásoló időjárási viszonyok lehetséges hatásait, a területen lévő potenciális veszélyforrások elhelyezkedését, a felhasználni tervezett pirotechnikai termékek esetleges hibás működésének lehetséges következményeit és azok elleni védekezési módokat. Figyelembe kell venni a működtetni tervezett pirotechnikai termékek védőterületeit és a kilövési hely statikai állapotát is.
 
-6.[^128] A pirotechnikus a megrendelővel közli az általa kijelölt lezárandó terület (működtetési terület) határait és közösen, megegyezésük szerint gondoskodnak arról, hogy a működtetési területen lehetőleg ne legyen potenciális veszélyforrás. Amikor a telepítés és a működtetés nem egy napon kerül lebonyolításra, a telepítés kezdete és a termékek élesítése közötti időszakra a felelős pirotechnikus a működtetési területnél kisebb lezárandó területet is meghatározhat. Ez esetben a telepítés kezdetétől a lezárt terület folyamatos őrzéséről gondoskodni kell.
+6.[^131] A pirotechnikus a megrendelővel közli az általa kijelölt lezárandó terület (működtetési terület) határait és közösen, megegyezésük szerint gondoskodnak arról, hogy a működtetési területen lehetőleg ne legyen potenciális veszélyforrás. Amikor a telepítés és a működtetés nem egy napon kerül lebonyolításra, a telepítés kezdete és a termékek élesítése közötti időszakra a felelős pirotechnikus a működtetési területnél kisebb lezárandó területet is meghatározhat. Ez esetben a telepítés kezdetétől a lezárt terület folyamatos őrzéséről gondoskodni kell.
 
 7. A helyszínt úgy kell kiválasztani, hogy a felhasználandó pirotechnikai termékek védőterületén belül potenciális veszélyforrás ne legyen.
 
-8.[^129] A felhasználási engedély beszerzését követően a felelős pirotechnikus a megrendelővel, illetve a rendőrséggel egyeztetve gondoskodjon az estleges útlezárás, forgalomelterelés, biztonsági őrzés-védelem, hajózási tilalom stb. megvalósításáról, ha ezt a pirotechnikai tevékenység kivitelezése igényli. Itt nem lehet figyelmen kívül hagyni a területileg illetékes hatóságok előírásait, meg kell felelni ezeknek a követelményeknek is.
+8.[^132] A felhasználási engedély beszerzését követően a felelős pirotechnikus a megrendelővel, illetve a rendőrséggel egyeztetve gondoskodjon az estleges útlezárás, forgalomelterelés, biztonsági őrzés-védelem, hajózási tilalom stb. megvalósításáról, ha ezt a pirotechnikai tevékenység kivitelezése igényli. Itt nem lehet figyelmen kívül hagyni a területileg illetékes hatóságok előírásait, meg kell felelni ezeknek a követelményeknek is.
 
 III. Fejezet
 
@@ -170,7 +170,7 @@ előkészítése, telepítése, működtetése
 
 36. Az indítást végző szükség szerint használjon védőeszközöket (szemüveg, fejvédő, lángálló ruházat stb.).
 
-37.[^130] A működtetési területen – a működtetés során – az indítást végző személyzet kivételével más személy nem tartózkodhat. Az indítás előtt az indítást végző meggyőződik arról, hogy illetéktelen személyek nem tartózkodnak a működtetési területen.
+37.[^133] A működtetési területen – a működtetés során – az indítást végző személyzet kivételével más személy nem tartózkodhat. Az indítás előtt az indítást végző meggyőződik arról, hogy illetéktelen személyek nem tartózkodnak a működtetési területen.
 
 38. Ha a lejátszás közben bármilyen okból illetéktelen személy hatol be a működtetési területre, a működtetést le kell állítani, ha ez lehetséges, és addig folytatni nem szabad, amíg az illetéktelen behatoló a területet nem hagyta el.
 
@@ -178,7 +178,7 @@ előkészítése, telepítése, működtetése
 
 40. Az indítást végző pirotechnikus folyamatosan kövesse figyelemmel a pirotechnikai termékek működését, és ha rendellenességet tapasztal, az indítást a hiba elhárításáig szüneteltesse.
 
-41.[^131] Erős szélben (a széliránytól függetlenül, ha a szél sebessége a kilövés irányától a pirotechnikai terméket a biztonsági távolságon kívülre eltéríti) a pirotechnikai termékek felhasználásának lebonyolítását el kell halasztani, valamint amennyiben elkezdték, úgy a felelős pirotechnikus állítsa le a működtetést, ha ez lehetséges.
+41.[^134] Erős szélben (a széliránytól függetlenül, ha a szél sebessége a kilövés irányától a pirotechnikai terméket a biztonsági távolságon kívülre eltéríti) a pirotechnikai termékek felhasználásának lebonyolítását el kell halasztani, valamint amennyiben elkezdték, úgy a felelős pirotechnikus állítsa le a működtetést, ha ez lehetséges.
 
 42. Ha a felelős pirotechnikus a működtetés során a közbiztonságra veszélyt (lásd tűz, rendzavarás) észlel, állítsa le a további felhasználást, ha ez lehetséges. Tűz esetén az oltást a készenlétben tartott tűzoltó készülékkel azonnal kezdje meg és értesítse a helyileg illetékes tűzoltóságot. Rendzavarás esetén értesítse a helyileg illetékes rendőrséget.
 
@@ -226,7 +226,7 @@ Működtetés utáni eljárás
 
 46. Az indítás befejeztével legalább 10 perc várakozás után lehet megkezdeni a működtető eszközök átvizsgálását.
 
-47.[^132] A felhasználás során indított, de el nem működött (állva maradt) pirotechnikai terméket össze kell gyűjteni, az eredetileg nem izzógyújtóval szerelt termékről az izzógyújtót le kell szerelni, és külön-külön tároló eszközbe kell tenni. Az el nem működött pirotechnikai termékek összegyűjtése után lehet a felszerelést visszabontani.
+47.[^135] A felhasználás során indított, de el nem működött (állva maradt) pirotechnikai terméket össze kell gyűjteni, az eredetileg nem izzógyújtóval szerelt termékről az izzógyújtót le kell szerelni, és külön-külön tároló eszközbe kell tenni. Az el nem működött pirotechnikai termékek összegyűjtése után lehet a felszerelést visszabontani.
 
 48. Minden pirotechnikai terméket át kell nézni, hogy esetleg tűz keletkezését kiváltó parázs, zsarátnok ne maradjon benne. A működtetési területet és környezetét is át kell vizsgálni esetleges gyújtóforrások után kutatva.
 
@@ -234,15 +234,15 @@ Működtetés utáni eljárás
 
 50. A tevékenységért felelős pirotechnikus a helyszínt akkor hagyhatja el, ha a működtetés helyszínét átvizsgálta és rendben levőnek találta. A távozás időpontját fel kell jegyeznie.
 
-51.[^133] A tevékenység során keletkező hulladék pirotechnikai anyagokat össze kell gyűjteni és át kell adni olyan gazdasági társaságnak, amely jogosult pirotechnikai anyagok megsemmisítésére.
+51.[^136] A tevékenység során keletkező hulladék pirotechnikai anyagokat össze kell gyűjteni és át kell adni olyan gazdasági társaságnak, amely jogosult pirotechnikai anyagok megsemmisítésére.
 
-[^124]: A 4. számú melléklet 1. pontja a 245/2005. (XI. 8.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^125]: A 4. számú melléklet 21. pontját a 245/2005. (XI. 8.) Korm. rendelet 28. §-a iktatta be.
-[^126]: Az 5. számú mellékletet a 245/2005. (XI. 8.) Korm. rendelet 29. §-a iktatta be.
-[^127]: Az 5. számú melléklet 3. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^128]: Az 5. számú melléklet 6. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^129]: Az 5. számú melléklet 8. pontja a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés n) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^130]: Az 5. számú melléklet 37. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^131]: Az 5. számú melléklet 41. pontja a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés n) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^132]: Az 5. számú melléklet 47. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^133]: Az 5. számú melléklet 51. pont a 263/2009. (XI. 26.) Korm. rendelet 19. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^127]: A 4. számú melléklet 1. pontja a 245/2005. (XI. 8.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^128]: A 4. számú melléklet 21. pontját a 245/2005. (XI. 8.) Korm. rendelet 28. §-a iktatta be.
+[^129]: Az 5. számú mellékletet a 245/2005. (XI. 8.) Korm. rendelet 29. §-a iktatta be.
+[^130]: Az 5. számú melléklet 3. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^131]: Az 5. számú melléklet 6. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^132]: Az 5. számú melléklet 8. pontja a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés n) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^133]: Az 5. számú melléklet 37. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^134]: Az 5. számú melléklet 41. pontja a 263/2009. (XI. 26.) Korm. rendelet 19. § (1) bekezdés n) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^135]: Az 5. számú melléklet 47. pontja a 263/2009. (XI. 26.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^136]: Az 5. számú melléklet 51. pont a 263/2009. (XI. 26.) Korm. rendelet 19. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
