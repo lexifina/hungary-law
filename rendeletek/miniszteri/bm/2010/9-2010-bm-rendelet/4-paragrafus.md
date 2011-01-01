@@ -1,0 +1,3 @@
+## 3. § Az R1. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A különleges bevetési pótlékra, a díszelgési pótlékra, a nyomozói pótlékra, az ügyeleti pótlékra, a különleges gépjárművezetői pótlékra, a kutyavezetői pótlékra, a veszélyes tűzoltó beosztás pótlékra, a veszélyes katasztrófavédelmi beosztás pótlékra, az egyéb veszélyességi pótlékra, a közterületi pótlékra, a határrendészeti pótlékra, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv állománya belső ellenőrzési pótlékára, valamint a terrorizmust elhárító szerv hivatásos állományának pótlékára jogosító beosztásokat és a pótlék mértékét a 2. számú melléklet tartalmazza.”
