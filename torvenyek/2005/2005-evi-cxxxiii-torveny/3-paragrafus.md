@@ -2,7 +2,7 @@
 
 (2) Vállalkozás keretében természetes személy ilyen tevékenységet – ha e törvény kivételt nem tesz – csak a kamara tagjaként folytathat.
 
-(3) A szolgálati viszony fennállása alatt a rendőrség – ideértve a Rendvédelmi Szervek Védelmi Szolgálatát is – és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai, továbbá – munkaviszonyuk, illetve munkavégzésre irányuló egyéb jogviszonyuk tartama alatt – a rendőrségnek a személy- és vagyonvédelmi tevékenységet folytatók és foglalkoztatottjaik tevékenységét érintő, a hatósági feladatok ellátásában közreműködő, nem hivatásos állományú munkatársai:
+(3) A szolgálati viszony fennállása alatt a rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai, továbbá – munkaviszonyuk, illetve munkavégzésre irányuló egyéb jogviszonyuk tartama alatt – a rendőrségnek a személy- és vagyonvédelmi tevékenységet folytatók és foglalkoztatottjaik tevékenységét érintő, a hatósági feladatok ellátásában közreműködő, nem hivatásos állományú munkatársai:
 
 a) nem lehetnek vezető tisztségviselői, tagjai a kamara által nyilvántartásba vett vállalkozásnak, valamint olyan gazdasági társaságnak, amely tagja valamely, a kamara által nyilvántartásba vett vállalkozásnak,
 

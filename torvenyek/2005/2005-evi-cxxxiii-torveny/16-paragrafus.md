@@ -1,5 +1,5 @@
 16. § (1) A személy- és vagyonvédelmi, illetve a magánnyomozói tevékenységet végző személy hatósági jogkörrel nem rendelkezik, a hatóság eljárását nem akadályozhatja.
 
-(2) A személy- és vagyonvédelmi, illetve a magánnyomozói tevékenységet folytató a Magyar Honvédségre, rendvédelmi szervre, más hatóságra utaló elnevezést, formaruhát, illetve hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rangjelzést nem használhat.
+(2) A személy- és vagyonvédelmi, illetve a magánnyomozói tevékenységet folytató a Magyar Honvédségre, rendvédelmi szervre, más hatóságra utaló elnevezést, formaruhát, illetve hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rangjelzést nem használhat. E rendelkezés nem alkalmazható a Magyar Honvédség objektumai őrzésével kapcsolatos, önkéntes tartalékos által ellátott személy- és vagyonvédelmi tevékenységre.
 
 (3) A személy- és vagyonőr formaruháján fel kell tüntetni a vállalkozás nevét vagy az engedélyezett rövidített nevét, valamint a személy- és vagyonőr elnevezést. A vagyonvédelmi biztonságtechnikai tervező, illetve a vagyonvédelmi biztonságtechnikai szerelő esetében – formaruha hiányában – a vállalkozás nevét vagy az engedélyezett rövidített nevét, valamint a vagyonvédelmi biztonságtechnikai tervező, illetve vagyonvédelmi biztonságtechnikai szerelő elnevezést a kitűzőn kell megjeleníteni.
