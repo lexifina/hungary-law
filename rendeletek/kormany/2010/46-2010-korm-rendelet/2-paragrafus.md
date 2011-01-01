@@ -1,0 +1,1 @@
+## 1. § A Kormány az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzatnak – az Európai Szabadalmi Szervezet Igazgatótanácsának 2009. október 28-án kelt, CA/D 18/09. számú határozatával megállapított – módosítását (a továbbiakban: a Végrehajtási Szabályzat módosítása) e rendelettel kihirdeti.

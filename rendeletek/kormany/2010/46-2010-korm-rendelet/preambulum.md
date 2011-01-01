@@ -1,0 +1,1 @@
+A Kormány az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegének kihirdetéséről szóló 2007. évi CXXX. törvény 3. § (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a következőket rendeli el:
