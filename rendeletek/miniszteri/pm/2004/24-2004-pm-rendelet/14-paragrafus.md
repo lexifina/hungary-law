@@ -1,3 +1,0 @@
-## 13/B. §[^25] Az AEO-tanúsítványok kiadásával kapcsolatos eljárást, illetve a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet végrehajtási szabályairól szóló, 1993. július 2-i 2454/1993/EGK bizottsági rendelet (a továbbiakban: EK végrehajtási rendelet) 14g–14k. cikke szerinti feltételek vizsgálatát a kérelmező székhelye, ennek hiányában telephelye szerint illetékes regionális ellenőrzési központ folytatja le.
-
-[^25]: A 13/B. §-t a 48/2007. (XII. 29.) PM rendelet 15. §-a iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 9. §-ával megállapított szöveg.
