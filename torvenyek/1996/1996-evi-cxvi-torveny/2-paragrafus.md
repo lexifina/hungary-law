@@ -52,4 +52,6 @@ v) nukleáris baleset: minden olyan rendkívüli esemény, amely atomkárt okoz;
 
 x) SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi Valuta Alap által meghatározott nemzetközi elszámolási egység;
 
-y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték.
+y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
+
+z) ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának a kizárása, a környezet elemeitől történő elszigeteléssel.

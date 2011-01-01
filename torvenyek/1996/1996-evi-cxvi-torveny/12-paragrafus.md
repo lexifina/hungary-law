@@ -4,7 +4,7 @@
 
 a) a 17. § (2) bekezdésének a), o) és q) pontja szerinti ügyekben 6 hónap;
 
-b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti ügyekben 45 munkanap.
+b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti ügyekben két hónap.
 
 (2) Az eljáró hatóság vezetője az ügyintézési határidőt indokolt esetben egy alkalommal, a 17. § (2) bekezdésének a), o) és q) pontja szerinti ügyekben legfeljebb három hónappal meghosszabbíthatja. Erről értesíteni kell az ügyfelet és mindazokat, akiket az eljárás megindításáról értesítettek.
 

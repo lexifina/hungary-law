@@ -18,10 +18,10 @@ d) érvényesítés során az engedélyes és a külső bejelentő.
 
 (3) A kérelemre indult eljárásban az ügyfelet értesíteni kell az eljárás megindításáról:
 
-a) a 17. § (2) bekezdésének a), o) és q) pontja szerinti kérelem beérkezésétől számított 22 munkanapon belül,
+a) a 17. § (2) bekezdésének a), o) és q) pontja szerinti kérelem beérkezésétől számított harminc napon belül,
 
-b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti kérelem beérkezésétől számított 7 munkanapon belül.
+b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti kérelem beérkezésétől számított tíz napon belül.
 
-(4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, őt az eljáró hatóság a 17. § (2) bekezdésének a) pontja szerinti eljárásoknál a kérelem beérkezésétől számított 4 hónapon belül, míg a 17. § (2) bekezdésének c), d), m) és n) pontja szerinti eljárásoknál 22 munkanapon belül hiánypótlásra hívja fel.
+(4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, őt az eljáró hatóság a 17. § (2) bekezdésének a) pontja szerinti eljárásoknál a kérelem beérkezésétől számított 4 hónapon belül, míg a 17. § (2) bekezdésének c), d), m) és n) pontja szerinti eljárásoknál harminc napon belül hiánypótlásra hívja fel.
 
 (5) Az egészségügyi államigazgatási szerv atomenergia alkalmazásával összefüggő, radioaktív anyagok közúti szállításának engedélyezésével, létesítményekkel, berendezésekkel, tevékenységekkel, radioaktív hulladék elhelyezésével, eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítésével, sugárvédelmi képzéssel, személyi dozimetriai ellenőrzésével és a belső sugárterhelés meghatározásával kapcsolatos, kérelemre lefolytatott eljárásáért vagy igazgatási jellegű szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
