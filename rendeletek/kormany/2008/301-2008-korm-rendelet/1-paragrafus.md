@@ -172,7 +172,11 @@ g) elismert elszámolóház;
 
 65. nemteljesítéskori veszteségráta (LGD): az ügyfél nemteljesítéséből származó veszteségnek a nemteljesítés időpontjában fennálló kitettséghez viszonyított aránya;
 
-66. nettósítási halmaz: azonos partnerrel létrejött ügyletek csoportja, amelyek jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát képezik, és amelyek esetén a nettósítást a szerződéses nettósításra és a hitelkockázat mérséklésre vonatkozó előírások lehetővé teszik;
+66.[^1] nettósítási halmaz:
+
+66.1. azonos partnerrel létrejött ügyletek csoportja, amelyek jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát képezik, és amelyek esetén a nettósítást a szerződéses nettósításra és a hitelkockázat mérséklésre vonatkozó előírások lehetővé teszik,
+
+66.2. a belső modell módszer alkalmazásánál egy azonos partnerrel létrejött 66.1. pont szerinti ügyletcsoportok összessége, ha a várható kitettség (EE) becslésénél a negatív piaci értéket a modellszámítások során nullának tekintik;
 
 67. partner hitelkockázat (CCR): annak a kockázata, hogy az ügyletben érintett partner nemteljesítése az ügylet pénzáramlásának végleges teljesítése előtt bekövetkezhet;
 
@@ -215,3 +219,5 @@ g) elismert elszámolóház;
 86. vásárolt követelés: minden olyan le nem járt vagy legfeljebb kilencven napja lejárt követelés, amely üzletszerű termék-, szolgáltatásvásárlás vagy eszközzel fedezett ügylet engedményezésével keletkezett;
 
 87. veszteség: a hitelkockázat esetén olyan gazdasági veszteség, amely tartalmazza a behajtás közvetlen és közvetett költségeit is, és a behajtási összegek, költségek tekintetében figyelembe veszi a pénz időértékét.
+
+[^1]: Az 1. § (2) bekezdés 66. pontja a 349/2010. (XII. 28.) Korm. rendelet 59. §-ával megállapított szöveg.

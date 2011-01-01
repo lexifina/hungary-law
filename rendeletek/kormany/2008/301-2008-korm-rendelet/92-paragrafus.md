@@ -14,6 +14,6 @@
 
 (8) Függetlenül attól, hogy a befektetési vállalkozás külső, belső, közös adatforrásokat vagy ennek a háromnak a kombinációját használja nemteljesítési valószínűség becsléseihez, az ezeket alátámasztó múltbeli megfigyelési időszak hosszának egy forrás tekintetében legalább öt évnek kell lennie. Ha a megfigyelési időszak egy forrás tekintetében hosszabb időszakot tekint át, és ezek az adatok meghatározóak, akkor ezt a hosszabb időszakot kell alkalmazni. Ez a követelmény részesedések esetén alkalmazott, 55. §-ban meghatározott módszerre is vonatkozik.
 
-(9)[^2] A 42. § (6) bekezdésének c) pontja szerinti belső minősítésen alapuló módszer bevezetésekor a befektetési vállalkozás két évre vonatkozó adatot alkalmazhat, amely kétéves időszakot minden évben egy évvel meghosszabbít az ötéves időtartam eléréséig.
+(9)[^8] A 42. § (6) bekezdésének c) pontja szerinti belső minősítésen alapuló módszer bevezetésekor a befektetési vállalkozás két évre vonatkozó adatot alkalmazhat, amely kétéves időszakot minden évben egy évvel meghosszabbít az ötéves időtartam eléréséig.
 
-[^2]: A 92. § (9) bekezdése e rendelet 246. § (3) bekezdése alapján 2012. december 31-én hatályát veszti azzal, hogy az abban foglaltakat a 2012. december 31-ig kérelmezett engedélyezési eljárás során a befektetési vállalkozás kérelmére alkalmazni lehet.
+[^8]: A 92. § (9) bekezdése e rendelet 246. § (3) bekezdése alapján 2012. december 31-én hatályát veszti azzal, hogy az abban foglaltakat a 2012. december 31-ig kérelmezett engedélyezési eljárás során a befektetési vállalkozás kérelmére alkalmazni lehet.

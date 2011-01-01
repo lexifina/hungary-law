@@ -1,1 +1,0 @@
-## 237. § A kizárólag általános piaci zavar bekövetkezése és a 21. §-ban meghatározott feltételek teljesülése esetén lehívható likviditási hitelkeret értékére 20%-os hitelegyenértékesítési tényezőt lehet alkalmazni.

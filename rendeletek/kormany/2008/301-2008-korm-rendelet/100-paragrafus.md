@@ -1,4 +1,4 @@
-100. § (1) Ha a 42. § (6) bekezdésének d) pontja szerinti belső minősítésen alapuló módszert alkalmazó befektetési vállalkozás a sztenderd módszert alkalmazhatja a központi kormánnyal, központi bankkal, hitelintézettel és befektetési vállalkozással szembeni kitettségre, akkor az általuk nyújtott garanciára nem alkalmazhatóak az e §, a 101. és 102. § rendelkezései. Ebben az esetben a befektetési vállalkozás a 116. § szerint ismerheti el az előre nem rendelkezésre bocsátott hitelkockázati fedezetet.
+100. § (1)[^12] Ha a 42. § (6) bekezdésének d) pontja szerinti belső minősítésen alapuló módszert alkalmazó befektetési vállalkozás a sztenderd módszert alkalmazhatja a központi kormánnyal, központi bankkal, hitelintézettel, befektetési vállalkozással és a 128. § (1) g) pontja szerinti vállalkozással szembeni kitettségre, akkor az általuk nyújtott garanciára nem alkalmazhatóak az e §, a 101. és 102. § rendelkezései. Ebben az esetben a befektetési vállalkozás a 116. § szerint ismerheti el az előre nem rendelkezésre bocsátott hitelkockázati fedezetet.
 
 (2) A lakossággal szembeni kitettségre vonatkozó garancia esetén az e § szerinti követelmények a kategóriákba vagy poolokba (halmazokba) soroláskor és a nemteljesítés becslésekor is fennállnak.
 
@@ -11,3 +11,5 @@
 (6) A Felügyelet engedélyével elismerhető olyan garancia vagy készfizető kezesség, amely bizonyos feltételek teljesülése esetén a garancianyújtót vagy a készfizető kezességet vállalót nem kötelezi teljesítésre (feltételes garanciák). A feltételes garanciát a befektetési vállalkozás akkor ismerheti el, ha képes a feltételes garancia kockázatcsökkentő hatásának megfelelő számszerűsítésére, hatékony és folyamatos figyelemmel kísérésére.
 
 (7) A befektetési vállalkozásnak a kategóriába vagy poolba (halmazba) sorolás kritériumait és a kockázatcsökkentési hatás lehetséges romlását megfelelő módon kell kezelnie.
+
+[^12]: A 100. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 63. §-ával megállapított szöveg.

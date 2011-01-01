@@ -20,4 +20,6 @@ d) az ingatlanon alapított jelzálogjog fedezet mellett nyújtott hitelek eset�
 
 (2) Ha az (1) bekezdésben foglalt feltételek nem teljesülnek, akkor az 50%-os kockázati súly nem alkalmazható. Ha az (1) bekezdésben foglalt feltételek legalább egy naptári éven keresztül újra teljesültek, akkor az azt követő naptári évtől az (1) bekezdésben meghatározott kockázati súly alkalmazását a Felügyelet kérelemre ismételten engedélyezi.
 
-(3) A 170. §-tól és az (1) bekezdéstől eltérően a befektetési vállalkozás – külön engedélyezési eljárás nélkül – másik EGT-állam területén elhelyezkedő ingatlanon alapított jelzálogjoggal teljes mértékben fedezett kitettséghez 50%-os kockázati súlyt rendelhet, ha az adott tagállamban az (1) bekezdés szerinti súlyozás alkalmazható és az (1) bekezdés a)–d) pontjaiban foglalt feltételek teljesülnek.
+(3)[^19] Ha a Felügyelet a befektetési vállalkozás számára engedélyezte az (1) bekezdés alkalmazását a befektetési vállalkozás – külön engedélyezési eljárás nélkül – másik EGT-állam területén elhelyezkedő ingatlanon alapított jelzálogjoggal teljes mértékben fedezett kitettséghez 50%-os kockázati súlyt rendelhet, ha az adott tagállamban az (1) bekezdés szerinti súlyozás alkalmazható és az (1) bekezdés a)–d) pontjaiban foglalt feltételek teljesülnek.
+
+[^19]: A 171. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 69. §-ával megállapított szöveg.
