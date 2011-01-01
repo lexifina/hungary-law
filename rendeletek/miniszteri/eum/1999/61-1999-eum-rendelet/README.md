@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-61-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-09-01 | 1999-61-20-0B.4 | 61/1999. (XII. 1.) EüM rendelet |
+| 2011-01-01 | 1999-61-20-0B.5 | 27/2010. (XII. 30.) NGM rendelet |
