@@ -34,6 +34,6 @@ c) egy évnél hosszabb fennmaradó lejáratnál: harminc napon belül.
 
 (11) A (10) bekezdés szerinti nettósítás elvégzését követően a határidős ügyletekből származó nettó fiktív hosszú és rövid pozíciókat az általános pozíciókockázat meghatározása szempontjából a kötvényekkel azonos módon kell kezelni és tőkekövetelményét a 16. § szerint kell kiszámítani.
 
-(12)[^29] A Hpt. 90. §-ának (2) bekezdése, illetve a Tpt. 181/A. §-ának (2) bekezdése szerinti vállalkozások határidős ügyleteiből származó általános kamatkockázatának megállapításakor az összevont alapú számításokat végző vállalkozás az összevonás során is az (1)–(11) bekezdés szerint jár el. A határidős ügyletek figyelembe vehető értéke meghatározásakor a 13. § (8) bekezdése szerint kell eljárni.
+(12)[^32] A Hpt. 90. §-ának (2) bekezdése, illetve a Tpt. 181/A. §-ának (2) bekezdése szerinti vállalkozások határidős ügyleteiből származó általános kamatkockázatának megállapításakor az összevont alapú számításokat végző vállalkozás az összevonás során is az (1)–(11) bekezdés szerint jár el. A határidős ügyletek figyelembe vehető értéke meghatározásakor a 13. § (8) bekezdése szerint kell eljárni.
 
-[^29]: A 17. § (12) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 9. §-a iktatta be; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.
+[^32]: A 17. § (12) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 9. §-a iktatta be; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.

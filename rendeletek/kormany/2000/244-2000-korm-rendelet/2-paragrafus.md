@@ -34,6 +34,12 @@
 
 16.[^6] hitelezési kockázat nélküli kötvény: olyan hitelviszonyt megtestesítő értékpapír, amelynek kibocsátója a Hkr. előírásai szerint 0%-os kockázati súlyozás alá esik,
 
+16a.[^7] hitelezési kockázatról szóló jogszabály:
+
+a) befektetési vállalkozás esetén a befektetési vállalkozás hitelkockázatáról szóló 301/2008. (XII. 17.) Korm. rendelet (a továbbiakban: Bhkr.),
+
+b) hitelintézet esetén a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 196/2007. (VII. 30.) Korm. rendelet (a továbbiakban: Hkr.),
+
 17. hozamgörbe: az állampapírok hozamának és lejáratának összefüggését kifejező függvény,
 
 18. jelentősen diverzifikált index: olyan index, amelyben egy értékpapír részaránya sem haladja meg a 20%-ot, valamint a legnagyobb részaránnyal rendelkező öt értékpapír együttes részaránya nem haladja meg a 60%-ot az indexen belül,
@@ -93,3 +99,4 @@ d) az elszámolást követően fennmaradó kötelezettség a továbbiakban az ú
 [^4]: A 2. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^5]: A 2. § (1) bekezdésének 15. pontja a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdésének 16. pontja a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 16a. pontját a 349/2010. (XII. 28.) 3. §-a iktatta be.

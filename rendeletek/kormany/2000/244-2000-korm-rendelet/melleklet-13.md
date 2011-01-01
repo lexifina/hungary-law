@@ -32,7 +32,7 @@
 
 |  | 250%– | 900% |  |
 
-13. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^109]
+13. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^123]
 
 Rendszerek és ellenőrzési mechanizmusok
 
@@ -72,7 +72,7 @@ g) a modellt rendszeresen, de legalább évente felül kell vizsgálni.
 
 9. Az intézmény a kevésbé likvid tételekre vonatkozó értékelési tartalék szükségességének megállapításakor a következő tényezőket veszi figyelembe: a pozíció/kockázatok pozíción belüli fedezéséhez szükséges idő, az eladási és vételi árajánlat különbségek volatilitása és átlaga, a piaci árjegyzések rendelkezésre állása (az árjegyzők száma és kiléte), a kereskedési mennyiségek volatilitása és átlaga, a piaci koncentráció, a pozíciók öregedése, a modell alapú árazás alapulvételének mértéke és egyéb modell-kockázatok hatása.
 
-10.[^110] Ha az értékelési korrekciók/tartalékok a tárgyévben jelentős veszteségekhez vezetnek, akkor ennek összegét az intézmény szavatoló tőkéjéből le kell vonni. Ugyanígy kell eljárni abban az esetben is, ha az intézmény által alkalmazott számviteli előírások szerint számítottakat meghaladó értékelési korrekciók/tartalékok vezetnek jelentős veszteségekhez.
+10.[^124] Ha az értékelési korrekciók/tartalékok a tárgyévben jelentős veszteségekhez vezetnek, akkor ennek összegét az intézmény szavatoló tőkéjéből le kell vonni. Ugyanígy kell eljárni abban az esetben is, ha az intézmény által alkalmazott számviteli előírások szerint számítottakat meghaladó értékelési korrekciók/tartalékok vezetnek jelentős veszteségekhez.
 
-[^109]: A 13. számú mellékletet a 345/2007. (XII. 19.) Korm. rendelet 26. § (6) bekezdése iktatta be.
-[^110]: A 13. számú mellékletének 10. pontja a 301/2008. (XII. 17.) Korm. rendelet 250. § (2) bekezdésével megállapított szöveg. E módosító rendelet 246. § (2) bekezdése alapján a rendelkezést a befektetési vállalkozónak 2009. január 1-jétől kell alkalmaznia.
+[^123]: A 13. számú mellékletet a 345/2007. (XII. 19.) Korm. rendelet 26. § (6) bekezdése iktatta be.
+[^124]: A 13. számú mellékletének 10. pontja a 301/2008. (XII. 17.) Korm. rendelet 250. § (2) bekezdésével megállapított szöveg. E módosító rendelet 246. § (2) bekezdése alapján a rendelkezést a befektetési vállalkozónak 2009. január 1-jétől kell alkalmaznia.

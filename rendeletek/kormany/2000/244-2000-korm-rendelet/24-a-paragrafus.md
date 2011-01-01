@@ -1,8 +1,8 @@
 ## 24. § A 23. § (1) bekezdés a) pontjában leírt módszert választó intézménynek – az opciós ügyletek delta kockázata mellett – teljesítenie kell a 2. számú melléklet szerint az opciós ügyletek gamma és vega kockázatának tőkekövetelményét is.
 
-## A hitelderivatívával fedezett kereskedési könyvi pozíciók egyedi kockázatának tőkekövetelménye[^43]
+## A hitelderivatívával fedezett kereskedési könyvi pozíciók egyedi kockázatának tőkekövetelménye[^46]
 
-24/A. §[^44] (1) A tőkekövetelmény számítás során a hitelderivatívával biztosított védelem a (2)–(7) bekezdésekben leírt módon vehető figyelembe.
+24/A. §[^47] (1) A tőkekövetelmény számítás során a hitelderivatívával biztosított védelem a (2)–(7) bekezdésekben leírt módon vehető figyelembe.
 
 (2) A teljes beszámítás akkor alkalmazható, ha az alap és a fedezetül szolgáló pozíció értéke mindig ellentétes irányú, és
 
@@ -30,5 +30,5 @@ c) a pozíció a (4) bekezdés alá tartozik, de eszközösszetétel eltérés �
 
 (7) Az (1)–(6) bekezdés hatálya alá nem tartozó esetekben a pozíció mindkét oldalára egyedi kockázati tőkekövetelményt kell kiszámítani.
 
-[^43]: A 24/A. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
-[^44]: A 24/A. §-t a 345/2007. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
+[^46]: A 24/A. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
+[^47]: A 24/A. §-t a 345/2007. (XII. 19.) Korm. rendelet 16. §-a iktatta be.

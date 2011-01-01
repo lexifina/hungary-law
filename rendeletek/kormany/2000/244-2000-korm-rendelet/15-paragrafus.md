@@ -2,7 +2,7 @@
 
 ## tőkekövetelménye
 
-15. § (1)[^26] Az intézmény a 3. számú melléklet szerinti táblázat megfelelő soraiba besorolja a kötvények nettó pozícióit, majd megszorozza azokat a táblázatban található súlyokkal.
+15. § (1)[^29] Az intézmény a 3. számú melléklet szerinti táblázat megfelelő soraiba besorolja a kötvények nettó pozícióit, majd megszorozza azokat a táblázatban található súlyokkal.
 
 (2) A kötvények egyedi pozíciókockázatának tőkekövetelménye a súlyozott nettó pozíciók értékének előjel független összege.
 
@@ -20,7 +20,7 @@ b) az átváltható értékpapír árfolyama 10 százaléknál kevesebbel haladj
 
 (7) A (6) bekezdéstől eltérő esetekben az intézmény úgy kezelheti a részvényre átváltható értékpapírt, mint a kötvényt.
 
-(8)[^27] A Hpt. 90. §-ának (2) bekezdése, illetve a Tpt. 181/A. §-ának (2) bekezdése szerinti vállalkozások kereskedési könyvében szereplő kötvényeinek nettó pozícióit az összevont alapú számításokat végző vállalkozás a 3. számú melléklet szerinti táblázat megfelelő oszlopaiba besorolja, majd megszorozza a táblázatban található súlyokkal. A kötvények nettó pozícióinak besorolásakor figyelembe vehető érték meghatározásakor a 13. § (8) bekezdése szerint kell eljárni. A tőkekövetelmény kiszámításakor ugyanúgy kell eljárni, mint egyedi intézmény esetén.
+(8)[^30] A Hpt. 90. §-ának (2) bekezdése, illetve a Tpt. 181/A. §-ának (2) bekezdése szerinti vállalkozások kereskedési könyvében szereplő kötvényeinek nettó pozícióit az összevont alapú számításokat végző vállalkozás a 3. számú melléklet szerinti táblázat megfelelő oszlopaiba besorolja, majd megszorozza a táblázatban található súlyokkal. A kötvények nettó pozícióinak besorolásakor figyelembe vehető érték meghatározásakor a 13. § (8) bekezdése szerint kell eljárni. A tőkekövetelmény kiszámításakor ugyanúgy kell eljárni, mint egyedi intézmény esetén.
 
-[^26]: A 15. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^27]: A 15. § (8) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 7. §-a iktatta be; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.
+[^29]: A 15. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^30]: A 15. § (8) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 7. §-a iktatta be; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.

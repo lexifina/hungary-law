@@ -1,4 +1,4 @@
-## 42. §[^78]
+## 42. §[^91]
 
 ## IX. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Az engedélyezés és alkalmazás feltételei
 
-43. § (1)[^79] A Felügyelet engedélyezheti az intézmény számára, hogy a pozíciókockázatra vonatkozó tőkekövetelmény, valamint az árukockázatra és a devizaárfolyam kockázatra vonatkozó teljes tőkekövetelmény számítását az e rendelet szerint kialakított belső modell alapján végezze.
+43. § (1)[^92] A Felügyelet engedélyezheti az intézmény számára, hogy a pozíciókockázatra vonatkozó tőkekövetelmény, valamint az árukockázatra és a devizaárfolyam kockázatra vonatkozó teljes tőkekövetelmény számítását az e rendelet szerint kialakított belső modell alapján végezze.
 
 (2) Az (1) bekezdésben említett modell alapján történő tőkekövetelmény számításra az intézménynek a Felügyelet engedélyében meghatározott időponttól van lehetősége.
 
@@ -16,7 +16,7 @@
 
 a) a modell a napi kockázatkezelési folyamat szerves részét képezi és alapul szolgál a kockázatvállalások tervezéséhez és az azokhoz kapcsolódó limitek kialakításához, valamint a vállalt kockázatokról és a limitek betartásáról a vezetés számára készített jelentéshez;
 
-b)[^80] az intézmény kockázatmérési szervezeti egysége független a kereskedési célú ügyleteket lebonyolító szervezeti egységtől, elvégzi a belső modell kezdeti és folyamatos jóváhagyását, és közvetlenül az ügyvezetés számára készít jelentést;
+b)[^93] az intézmény kockázatmérési szervezeti egysége független a kereskedési célú ügyleteket lebonyolító szervezeti egységtől, elvégzi a belső modell kezdeti és folyamatos jóváhagyását, és közvetlenül az ügyvezetés számára készít jelentést;
 
 c) az intézmény legfőbb operatív irányító szerve és vezetői aktívan részt vesznek a kockázatkezelési folyamatban, és a kockázatmérési szervezeti egység által készített napi jelentéseket olyan vezetők kapják, akik megfelelő hatáskörrel rendelkeznek a vállalt pozíciók, kockázatvállalások és limitek csökkentésére;
 
@@ -26,7 +26,7 @@ e) az intézmény ellenőrzi és biztosítja, hogy a kockázatmérési rendszer 
 
 f) az intézmény modellje bizonyíthatóan alkalmas a piaci kockázatok mérésére, illetve kifinomultan méri az opciók valamennyi kockázatát;
 
-g)[^81] az intézmény rendszeresen végez olyan teszteket a modellek segítségével, amelyek azt vizsgálják, hogy szélsőségesen kedvezőtlen piaci körülmények esetén hogyan alakul az intézmény tőke- és jövedelemhelyzete, a teszt eredményeit a vezetők felülvizsgálják és – ha szükséges – a módosításokat a belső szabályzatokon és a kockázatkezelési rendszeren végrehajtják (Az intézmény ezen tesztek segítségével vizsgálja a piacok szélsőséges körülmények közötti illikviditása, a koncentrációs kockázat, az egyirányú piac, a váratlan esemény miatti nem teljesítés, egyes pozíciók értékének nem linearitása, a jelentős veszteséggel zárható pozíciók és a jelentős árrésnek kitett pozíciók kockázata és más olyan kockázat hatását, amelyet nem kezel megfelelően a kockáztatott érték módszer. Az alkalmazott módszerek a portfólió természetétől és attól függenek, hogy súlyos piaci körülmények között mennyi idő szükséges a kockázat fedezéséhez és kezeléséhez.); és
+g)[^94] az intézmény rendszeresen végez olyan teszteket a modellek segítségével, amelyek azt vizsgálják, hogy szélsőségesen kedvezőtlen piaci körülmények esetén hogyan alakul az intézmény tőke- és jövedelemhelyzete, a teszt eredményeit a vezetők felülvizsgálják és – ha szükséges – a módosításokat a belső szabályzatokon és a kockázatkezelési rendszeren végrehajtják (Az intézmény ezen tesztek segítségével vizsgálja a piacok szélsőséges körülmények közötti illikviditása, a koncentrációs kockázat, az egyirányú piac, a váratlan esemény miatti nem teljesítés, egyes pozíciók értékének nem linearitása, a jelentős veszteséggel zárható pozíciók és a jelentős árrésnek kitett pozíciók kockázata és más olyan kockázat hatását, amelyet nem kezel megfelelően a kockáztatott érték módszer. Az alkalmazott módszerek a portfólió természetétől és attól függenek, hogy súlyos piaci körülmények között mennyi idő szükséges a kockázat fedezéséhez és kezeléséhez.); és
 
 h) a kialakított modell működése és az alkalmazott számítási módszerek áttekinthetőek és megfelelően dokumentáltak.
 
@@ -52,7 +52,7 @@ b) az intézménynek következetesen kell alkalmaznia a modellt;
 
 c) a modellnek a belső szabályzatban meghatározott árat kell alapul vennie a számításokhoz.
 
-(8)[^82] A kötvény és részvény egyedi pozíciókockázatának meghatározásához használt belső modell alkalmazásának feltételei:
+(8)[^95] A kötvény és részvény egyedi pozíciókockázatának meghatározásához használt belső modell alkalmazásának feltételei:
 
 a) jól magyarázza a portfólió historikus ármozgásait,
 
@@ -62,25 +62,25 @@ c) kedvezőtlen körülmények között is megbízható,
 
 d) az egyedi kockázatok előrejelzésének hitelességét utótesztelési eljárással alátámasztja;
 
-e)[^83] méri a kibocsátóhoz kapcsolódó báziskockázatot, vagyis az intézmény bizonyítja, hogy a modell érzékeny a hasonló, de nem azonos pozíciók közötti lényeges sajátságbeli különbségekre,
+e)[^96] méri a kibocsátóhoz kapcsolódó báziskockázatot, vagyis az intézmény bizonyítja, hogy a modell érzékeny a hasonló, de nem azonos pozíciók közötti lényeges sajátságbeli különbségekre,
 
-f)[^84] méri az eseménykockázatot,
+f)[^97] méri az eseménykockázatot,
 
-g)[^85] ha az intézmény a kockáztatott érték módszer szerint nem kimutatható eseménykockázatnak van kitéve (a tartási periódus meghaladja a tíz napot és a konfidencia intervallum a 99%-ot nem éri el), akkor az intézmény ezen eseményeket belső tőkeértékelésében figyelembe veszi,
+g)[^98] ha az intézmény a kockáztatott érték módszer szerint nem kimutatható eseménykockázatnak van kitéve (a tartási periódus meghaladja a tíz napot és a konfidencia intervallum a 99%-ot nem éri el), akkor az intézmény ezen eseményeket belső tőkeértékelésében figyelembe veszi,
 
-h)[^86] az intézmény modelljének konzervatív módon kell megállapítania a kevésbé likvid és a korlátozott ár-átláthatóságú pozíciókból adódó, reális piaci helyzetekben megvalósuló kockázatot. A becslés csak akkor használható, ha a rendelkezésre álló adatok nem elegendőek, vagy a pozíció, illetve a portfolió valós volatilitását nem tükrözik,
+h)[^99] az intézmény modelljének konzervatív módon kell megállapítania a kevésbé likvid és a korlátozott ár-átláthatóságú pozíciókból adódó, reális piaci helyzetekben megvalósuló kockázatot. A becslés csak akkor használható, ha a rendelkezésre álló adatok nem elegendőek, vagy a pozíció, illetve a portfolió valós volatilitását nem tükrözik,
 
-i)[^87] az intézménynek tőkekövetelménye számításakor rendelkeznie kell kockáztatott érték módszer szerint mért nemteljesítési kockázatot növelő, a kereskedési könyvi pozíció szerinti nemteljesítési kockázat mérésére szolgáló módszerrel,
+i)[^100] az intézménynek tőkekövetelménye számításakor rendelkeznie kell kockáztatott érték módszer szerint mért nemteljesítési kockázatot növelő, a kereskedési könyvi pozíció szerinti nemteljesítési kockázat mérésére szolgáló módszerrel,
 
-j)[^88] az intézménynek bizonyítania kell, hogy módszere megfelel a Hkr.-ben meghatározott belső minősítésen alapuló módszerre vonatkozó előírásoknak,
+j)[^101] az intézménynek bizonyítania kell, hogy módszere megfelel a hitelezési kockázatról szóló jogszabályban meghatározott belső minősítésen alapuló módszerre vonatkozó előírásoknak,
 
-k)[^89] ha az intézmény a nemteljesítési kockázat miatti növekményt nem belső fejlesztésű módszer segítségével méri, akkor a felárat a Hkr.-ben meghatározott sztenderd vagy belső minősítésen alapuló módszerrel állapítja meg.
+k)[^102] ha az intézmény a nemteljesítési kockázat miatti növekményt nem belső fejlesztésű módszer segítségével méri, akkor a felárat a hitelezési kockázatról szóló jogszabályban meghatározott sztenderd vagy belső minősítésen alapuló módszerrel állapítja meg.
 
-(9)[^90] Az intézmény a (8) bekezdés i) pontjában előírt módszer alkalmazása során a nemteljesítési kockázat miatti tőkekövetelmény-növekmény számításakor – a kétszeres beszámítás elkerülése érdekében – figyelembe veheti a kockáztatott érték módszer számításkor már beszámított nemteljesítési kockázat mértékét, különösen olyan pozícióknál, amelyeket a piaci körülmények rosszabbodása vagy a hitelkörnyezet romlására utaló egyéb jelek esetén tíz napon belül le lehet és le is kell zárni. Ha az intézmény a nemteljesítési kockázatot a feláron keresztül méri, rendelkeznie kell a mérést igazoló módszerekkel.
+(9)[^103] Az intézmény a (8) bekezdés i) pontjában előírt módszer alkalmazása során a nemteljesítési kockázat miatti tőkekövetelmény-növekmény számításakor – a kétszeres beszámítás elkerülése érdekében – figyelembe veheti a kockáztatott érték módszer számításkor már beszámított nemteljesítési kockázat mértékét, különösen olyan pozícióknál, amelyeket a piaci körülmények rosszabbodása vagy a hitelkörnyezet romlására utaló egyéb jelek esetén tíz napon belül le lehet és le is kell zárni. Ha az intézmény a nemteljesítési kockázatot a feláron keresztül méri, rendelkeznie kell a mérést igazoló módszerekkel.
 
-(10)[^91] Ha az intézmény nem rendelkezik a (8) bekezdésben meghatározottaknak megfelelő modellel, akkor a kötvény egyedi pozíciókockázatának tőkekövetelményét a 15. § szerint, a részvény egyedi pozíciókockázatának tőkekövetelményét a 19. § szerint kell meghatároznia.
+(10)[^104] Ha az intézmény nem rendelkezik a (8) bekezdésben meghatározottaknak megfelelő modellel, akkor a kötvény egyedi pozíciókockázatának tőkekövetelményét a 15. § szerint, a részvény egyedi pozíciókockázatának tőkekövetelményét a 19. § szerint kell meghatároznia.
 
-(11)[^92] Az intézménynek a rendszeres belső ellenőrzés keretében, de évente legalább egyszer el kell végeznie a kockázatmérési rendszer felülvizsgálatát. A felülvizsgálatnak ki kell terjednie a kereskedési célú ügyleteket lebonyolító egység, valamint a független kockázatmérési egység működésére, továbbá:
+(11)[^105] Az intézménynek a rendszeres belső ellenőrzés keretében, de évente legalább egyszer el kell végeznie a kockázatmérési rendszer felülvizsgálatát. A felülvizsgálatnak ki kell terjednie a kereskedési célú ügyleteket lebonyolító egység, valamint a független kockázatmérési egység működésére, továbbá:
 
 a) a kockázatkezelési rendszer és folyamat dokumentációjának és a kockázatkezelő szervezeti egység szervezetének alkalmassága;
 
@@ -96,18 +96,18 @@ f) az az eljárás, amit az intézmény a modellszámítások alapjául szolgál
 
 g) az az eljárás, amit az intézmény a modell alkalmassága tesztelésének ellenőrzésére alkalmaz.
 
-[^78]: A 42. § a 230/2003. (XII. 16.) Korm. rendelet 30. §-ának (2) bekezdése alapján 2004. december 31. napján hatályát vesztette.
-[^79]: A 43. § (1) bekezdése a 230/2003. (XII. 16.) Korm. rendelet 21. §-ának (1) bekezdésével megállapított szöveg; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át. A 345/2007. (XII. 19.) Korm. rendelet 27. § (7) bekezdése alapján a Felügyelet által 2007. január 1-jéig a 43. § (1) bekezdése alapján engedélyezett belső modell 2009. december 31-éig változatlan formában alkalmazható.
-[^80]: A 43. § (4) bekezdésének b) pontja a 345/2007. (XII. 19.) Korm. rendelet 22. §-ának (1) bekezdésével megállapított szöveg.
-[^81]: A 43. § (4) bekezdésének g) pontja a 345/2007. (XII. 19.) Korm. rendelet 22. §-ának (2) bekezdésével megállapított szöveg.
-[^82]: A 43. § új (8) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 21. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (10) bekezdésre változtatva; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.
-[^83]: A 43. § (8) bekezdésének e) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^84]: A 43. § (8) bekezdésének f) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^85]: A 43. § (8) bekezdésének g) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^86]: A 43. § (8) bekezdésének h) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^87]: A 43. § (8) bekezdésének i) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^88]: A 43. § (8) bekezdésének j) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^89]: A 43. § (8) bekezdésének k) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^90]: A 43. § új (9) bekezdését a 345/2007. (XII. 19.) Korm. rendelet 22. § (4) bekezdése iktatta be, egyidejűleg az eredeti (9)–(10) bekezdés számozását (10)–(11) bekezdésre változtatva.
-[^91]: A 43. § (9) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 21. §-ának (2) bekezdése iktatta be, számozását a 345/2007. (XII. 19.) Korm. rendelet 22. § (4) bekezdése (10) bekezdésre változtatta.
-[^92]: A 43. § (10) – eredeti (8) – bekezdésének számozását a 345/2007. (XII. 19.) Korm. rendelet 22. § (4) bekezdése (11) bekezdésre változtatta.
+[^91]: A 42. § a 230/2003. (XII. 16.) Korm. rendelet 30. §-ának (2) bekezdése alapján 2004. december 31. napján hatályát vesztette.
+[^92]: A 43. § (1) bekezdése a 230/2003. (XII. 16.) Korm. rendelet 21. §-ának (1) bekezdésével megállapított szöveg; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át. A 345/2007. (XII. 19.) Korm. rendelet 27. § (7) bekezdése alapján a Felügyelet által 2007. január 1-jéig a 43. § (1) bekezdése alapján engedélyezett belső modell 2009. december 31-éig változatlan formában alkalmazható.
+[^93]: A 43. § (4) bekezdésének b) pontja a 345/2007. (XII. 19.) Korm. rendelet 22. §-ának (1) bekezdésével megállapított szöveg.
+[^94]: A 43. § (4) bekezdésének g) pontja a 345/2007. (XII. 19.) Korm. rendelet 22. §-ának (2) bekezdésével megállapított szöveg.
+[^95]: A 43. § új (8) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 21. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (10) bekezdésre változtatva; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.
+[^96]: A 43. § (8) bekezdésének e) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^97]: A 43. § (8) bekezdésének f) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^98]: A 43. § (8) bekezdésének g) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^99]: A 43. § (8) bekezdésének h) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^100]: A 43. § (8) bekezdésének i) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^101]: A 43. § (8) bekezdésének j) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 349/2010. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^102]: A 43. § (8) bekezdésének k) pontját a 345/2007. (XII. 19.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 349/2010. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^103]: A 43. § új (9) bekezdését a 345/2007. (XII. 19.) Korm. rendelet 22. § (4) bekezdése iktatta be, egyidejűleg az eredeti (9)–(10) bekezdés számozását (10)–(11) bekezdésre változtatva.
+[^104]: A 43. § (9) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 21. §-ának (2) bekezdése iktatta be, számozását a 345/2007. (XII. 19.) Korm. rendelet 22. § (4) bekezdése (10) bekezdésre változtatta.
+[^105]: A 43. § (10) – eredeti (8) – bekezdésének számozását a 345/2007. (XII. 19.) Korm. rendelet 22. § (4) bekezdése (11) bekezdésre változtatta.

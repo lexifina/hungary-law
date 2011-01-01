@@ -14,7 +14,7 @@ c) az ügyféllel lebonyolított, illetve megkötött ügyletek, megállapodáso
 
 (3) Az egy ügyféllel vagy ügyfélcsoporttal szemben felmerülő kockázatokat a kereskedési könyvi és a nem kereskedési könyvi kockázatok összeadásával kell meghatározni.
 
-(4)[^70] A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben és a Hpt.-ben meghatározott, nagykockázat vállalására vonatkozó korlátok túllépése esetén az intézménynek az alábbi feltételeket kell egyidejűleg teljesítenie:
+(4)[^83] A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben és a Hpt.-ben meghatározott, nagykockázat vállalására vonatkozó korlátok túllépése esetén az intézménynek az alábbi feltételeket kell egyidejűleg teljesítenie:
 
 a) a többlet kizárólag a kereskedési könyvben keletkezik;
 
@@ -30,7 +30,7 @@ d) amennyiben a többletek 10 napnál hosszabb ideig állnak fenn az egyéni üg
 
 (7) A nagykockázat vállalására vonatkozó korlátoknak a (4) bekezdés szerinti túllépése esetén az intézmény pótlólagos tőkekövetelményét a 12. számú mellékletben foglaltak szerint kell kiszámítani.
 
-(8)[^71] A Hpt. 90. §-ának (2) bekezdése, illetve a Tpt. 181/A. §-ának (2) bekezdése szerinti vállalkozások esetében az összevont alapú számításokat végző vállalkozásnak a nagykockázat vállalást összevont alapon kell tekintenie.
+(8)[^84] A Hpt. 90. §-ának (2) bekezdése, illetve a Tpt. 181/A. §-ának (2) bekezdése szerinti vállalkozások esetében az összevont alapú számításokat végző vállalkozásnak a nagykockázat vállalást összevont alapon kell tekintenie.
 
-[^70]: A 38. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^71]: A 38. § (8) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 18. §-a iktatta be; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.
+[^83]: A 38. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^84]: A 38. § (8) bekezdését a 230/2003. (XII. 16.) Korm. rendelet 18. §-a iktatta be; a napi jelentések, a havi jelentések és az összevont alapú számítások és adatok tekintetében lásd e módosító rendelet 27. §-át.

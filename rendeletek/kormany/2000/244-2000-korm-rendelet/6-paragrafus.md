@@ -8,6 +8,6 @@
 
 (4) A fiktív pénzáramlás értéke a jövőbeli pénzáramlás jelenértékével egyenlő.
 
-(5)[^11] Az intézmény a kereskedési szándékkal tartott repó típusú, határidős kereskedéshez kapcsolódó pozícióit akkor tarthatja nyilván a kereskedési könyvben, ha azok megfelelnek a 3. §-ban foglaltaknak és minden repó típusú, határidős kereskedéshez kapcsolódó pozíciót a kereskedési könyvben tartanak nyilván.
+(5)[^12] Az intézmény a kereskedési szándékkal tartott repó típusú, határidős kereskedéshez kapcsolódó pozícióit akkor tarthatja nyilván a kereskedési könyvben, ha azok megfelelnek a 3. §-ban foglaltaknak és minden repó típusú, határidős kereskedéshez kapcsolódó pozíciót a kereskedési könyvben tartanak nyilván.
 
-[^11]: A 6. § (5) bekezdését a 301/2008. (XII. 17.) Korm. rendelet 250. § (1) bekezdése iktatta be. E módosító rendelet 246. § (2) bekezdése alapján a rendelkezést a befektetési vállalkozónak 2009. január 1-jétől kell alkalmaznia.
+[^12]: A 6. § (5) bekezdését a 301/2008. (XII. 17.) Korm. rendelet 250. § (1) bekezdése iktatta be. E módosító rendelet 246. § (2) bekezdése alapján a rendelkezést a befektetési vállalkozónak 2009. január 1-jétől kell alkalmaznia.
