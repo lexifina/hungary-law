@@ -32,7 +32,7 @@ g) a zaj és rezgés elleni védelem,
 
 h) az energiatakarékosság és hővédelem,
 
-i) az életvédelem és katasztrófavédelem
+i) az élet- és vagyonvédelem, valamint katasztrófavédelem
 
 követelményeit.
 

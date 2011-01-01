@@ -34,7 +34,7 @@
 
 12. Integrált településfejlesztési stratégia: stratégiai szemléletű, a településfejlesztési koncepcióban foglaltak megvalósítását szolgáló dokumentum.
 
-13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet a rendeltetésének megfelelően bárki használhat, és az ingatlan-nyilvántartás ekként tart nyilván. Egyéb ingatlanoknak a közhasználat céljára átadott területrészére – az erről szóló külön szerződésben foglaltak keretei között – a közterületre vonatkozó rendelkezéseket kell alkalmazni. Közterület rendeltetése különösen: a közlekedés biztosítása (utak, terek), a pihenő és emlékhelyek kialakítása (parkok, köztéri szobrok stb.), a közművek elhelyezése.
+13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet az ingatlan-nyilvántartás ekként tart nyilván.
 
 14. Külterület: a település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési, illetőleg különleges (pl. bánya, vízmeder, hulladéktelep) célra szolgáló része.
 
@@ -81,3 +81,13 @@
 35. Övezeti terv: a helyi építési szabályzatban megállapított építési övezetek, illetőleg övezetek területi lehatárolását – a település ingatlan-nyilvántartási térképének másolatán – tartalmazó terv, amely a szabályzat mellékletét képezi.
 
 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése.
+
+[37. Közmű: elosztó, gyűjtő, továbbító, szabályozó, mérő rendeltetésű építmények, vezetékek, berendezések összessége, amely az egyes területfelhasználási egységek és az építmények rendeltetésszerű használatának biztosítása érdekében a fogyasztók vízellátási, vízelvezetési, gáz-, hő- és villamosenergia-ellátási, valamint hírközlési időszakos vagy folyamatos igényeit a település saját termelő, illetve előkészítő berendezései révén, vagy távvezetéki rendszerekhez kapcsolódva központosan, folyamatosan, kellő biztonsággal, közösségi úton, üzemszerűen működve elégíti ki.
+
+38. Közműpótló műtárgy: a közművet telken elhelyezett egyedi berendezéssel, építménnyel helyettesítő műtárgy (kút, szennyvíztároló, szennyvízkezelő, -átemelő, -tisztító, aggregátor stb.).
+
+39. Nyomvonal jellegű építmény: a sajátos építményfajták körében a vasúti pálya, a függő- és szállítószalag pálya, a közút (a közutakhoz tartozó járdát és kerékpárutat is ideértve), a vízilétesítmény, a vízellátási vezeték, a csatorna, a kőolaj-, kőolajtermék, földgáz-, egyéb gáz- és gáztermék szállító és elosztóvezeték, a villamosenergia átviteli és elosztóhálózat, a villamosenergia termelői-, magán- és közvetlen vezeték, a távhővezeték-hálózat, az elektronikus hírközlési építmény.
+
+40. Egységes közmű és nyomvonal jellegű építmény nyilvántartási rendszer (a továbbiakban: e-közmű): elektronikus, osztott relációs adatbázisokon megvalósuló lekérdezési rendszer, amely a közmű- és nyomvonal jellegű építmények szolgáltatói, kezelői vagy tulajdonosi nyilvántartásaira építve, internetes felületen a közmű- és nyomvonal jellegű építmények adatainak hozzáférését biztosítja – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott jogosultságok szerint – a felhasználók számára.
+
+41. Építésügyi monitoringrendszer: a területfelhasználási egységek és az építmények tervezett és tényleges adatait és azok változásait megfigyelő, követő, elemző és nyilvántartó térinformatikai rendszer, amely elektronikus ingatlan-nyilvántartási, elektronikus távérzékelési, digitális terület- és településrendezési tervi, valamint építmény nyilvántartási adatokból áll.]

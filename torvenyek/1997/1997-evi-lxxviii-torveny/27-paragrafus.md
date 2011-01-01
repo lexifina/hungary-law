@@ -1,6 +1,6 @@
 ## Kiszolgáló és lakóút céljára történő lejegyzés
 
-27. § (1) Ha a helyi építési szabályzat szerint – a településrészen fekvő ingatlanok megfelelő megközelítése, illetve használatának elősegítése érdekében – kiszolgáló és lakóút (a továbbiakban: kiszolgáló út) létesítése, bővítése vagy szabályozása szükséges, és a megvalósítás a kiszolgáló út, valamint a környező építmény, telek rendeltetésszerű használatának biztosítása érdekében az adott telkek igénybevételével indokolt, vagy a más telken történő megvalósítás a tulajdonban nagyobb sérelemmel járna, a közigazgtaási hivatal a teleknek kiszolgáló út céljára szükséges részét a telek fekvése szerinti települési önkormányzat javára igénybe veheti és lejegyezheti.
+27. § (1) Ha a helyi építési szabályzat szerint – a településrészen fekvő ingatlanok megfelelő megközelítése, illetve használatának elősegítése érdekében – kiszolgáló és lakóút (a továbbiakban: kiszolgáló út) létesítése, bővítése vagy szabályozása szükséges, és a megvalósítás a kiszolgáló út, valamint a környező építmény, telek rendeltetésszerű használatának biztosítása érdekében az adott telkek igénybevételével indokolt, vagy a más telken történő megvalósítás a tulajdonban nagyobb sérelemmel járna, a Kormány általános hatáskörű területi államigazgatási szerve a teleknek kiszolgáló út céljára szükséges részét a telek fekvése szerinti települési önkormányzat javára igénybe veheti és lejegyezheti.
 
 (2)
 
@@ -18,4 +18,4 @@
 
 (9) Az (1)–(8) bekezdés előírásait kell alkalmazni a hasonló rendeltetésű és szerepkörű külterületi helyi közutak esetében is.
 
-(10) A közigazgatási hivatal lejegyzéssel kapcsolatos eljárására egyebekben a kisajátítási eljárásra vonatkozó szabályokat kell megfelelően alkalmazni.
+(10) A Kormány általános hatáskörű területi államigazgatási szerve lejegyzéssel kapcsolatos eljárására egyebekben a kisajátítási eljárásra vonatkozó szabályokat kell megfelelően alkalmazni.

@@ -1,12 +1,12 @@
 ## Az építmény fennmaradásának engedélyezése
 
-48. § (1) Ha az építményt, építményrészt szabálytalanul építették meg, az építésügyi hatóság arra – az építtető vagy az ingatlannal rendelkezni jogosult kérelme alapján – fennmaradási engedélyt ad, ha a 36. §-ban meghatározott feltételek fennállnak vagy megteremthetők és az építtető az építési jogosultságát igazolta. Ha az építményt, építményrészt építésügyi hatósági engedély nélkül bontották le az építésügyi hatóság azt tudomásul veszi.
+48. § (1) Ha az építményt, építményrészt szabálytalan építési tevékenységgel valósították meg, az építésügyi hatóság arra – az építtető vagy az ingatlannal rendelkezni jogosult kérelme alapján – fennmaradási engedélyt ad, ha a 36. §-ban meghatározott feltételek fennállnak vagy megteremthetők és az építtető az építési jogosultságát igazolta. Ha az építményt, építményrészt építésügyi hatósági engedély nélkül bontották le az építésügyi hatóság azt tudomásul veszi.
 
 (2) Fennmaradási engedély az (1) bekezdésben foglaltak érvényesítése mellett kiadható akkor is, ha
 
 a) az építmény, építményrész átalakítással szabályossá tehető, vagy
 
-b) a szabálytalansággal okozott érdeksérelem jelentéktelen, közérdeket nem sért, vagy a hatóság által meghatározott határidőn belül elhárítható.
+b) a szabálytalanság közérdeket nem sért, vagy az érdeksérelem a hatóság által meghatározott határidőn belül elhárítható.
 
 (3)–(6)
 
@@ -24,9 +24,9 @@ a) a szabályossá tétel érdekében szükséges munkálatok elvégzését vagy
 
 b) – ha az építmény fennmaradása átalakítással sem engedélyezhető –, a lebontását.
 
-(9) Az építésügyi hatóság a szabálytalanság tudomásra jutásától számított egy éven belül, legkésőbb azonban az építés befejezésétől – ha nem állapítható meg – az építmény használatbavételétől számított tíz éven belül intézkedhet. A (7) bekezdésben foglaltak és az új eljárás lefolytatása esetén az egyéves időtartam kezdetét a meghatározott idő elteltétől, valamint az engedély visszavonásától, az átalakítási kötelezettségre előírt teljesítési határidő lejártától, illetőleg az új eljárás lefolytatását elrendelő jogerős határozat keltétől kell számítani.
+(9) Az építésügyi hatóság a szabálytalanság tudomásra jutásától számított két éven belül, legkésőbb azonban az építés befejezésétől – ha nem állapítható meg – az építmény használatbavételétől számított tíz éven belül intézkedhet. A (7) bekezdésben foglaltak és az új eljárás lefolytatása esetén a kétéves időtartam kezdetét a meghatározott idő elteltétől, valamint az engedély visszavonásától, az átalakítási kötelezettségre előírt teljesítési határidő lejártától, illetőleg az új eljárás lefolytatását elrendelő jogerős határozat keltétől kell számítani.
 
-(10) A (9) bekezdés szerinti egyéves időtartam az építésügyi hatóság számára újra kezdődik:
+(10) A (9) bekezdés szerinti kétéves időtartam az építésügyi hatóság számára újra kezdődik:
 
 a) a (3) bekezdésben foglaltak esetén a fennmaradási engedélykérelem benyújtására való felhívás közlésétől, illetve
 
