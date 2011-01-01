@@ -1,1 +1,0 @@
-## „(5) Ha a baleseti táppénz számításánál figyelembe vehető időszakban végzett munkáért nem rendszeres jövedelmet fizetnek ki, akkor a baleseti táppénz alapját képező naptári napi jövedelem kiszámításánál a rendszeres jövedelem naptári napi összegéhez hozzá kell adni a nem rendszeres jövedelem (4) bekezdés szerint megállapított naptári napi összegét.”

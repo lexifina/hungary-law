@@ -1,1 +1,0 @@
-## „(8) A Kormány vasutas egészségbiztosítási szervként a Közép-magyarországi Regionális Egészségbiztosítási Pénztárat jelöli ki az Ebtv. 65. § (2) bekezdésében, valamint 70. § (3)–(4) bekezdésében foglalt feladatok ellátására.”
