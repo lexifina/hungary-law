@@ -4,7 +4,7 @@
 
 (2) A hatóság a fellebbezés esetén a nem jogszabálysértő döntést akkor is visszavonhatja, illetve a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
 
-(3) Ha a fellebbezés alapján a szakhatóság megállapítja, hogy a szakhatósági állásfoglalás jogszabályt sért, állásfoglalását módosíthatja.
+(3) Ha a fellebbezés alapján a szakhatóság megállapítja, hogy a szakhatósági állásfoglalás jogszabályt sért, állásfoglalását módosítja.
 
 (4) A szakhatóság a fellebbezés esetén a nem jogszabálysértő szakhatósági állásfoglalást a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
 

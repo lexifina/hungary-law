@@ -1,6 +1,6 @@
 ## A kérelem érdemi vizsgálat nélküli elutasítása
 
-30. § A hatóság a kérelmet érdemi vizsgálat nélkül, öt munkanapon belül elutasítja, ha
+30. § A hatóság a kérelmet érdemi vizsgálat nélkül, nyolc napon belül elutasítja, ha
 
 a) az eljárásra magyar hatóságnak nincs joghatósága,
 

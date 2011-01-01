@@ -1,6 +1,8 @@
-43. § (1) Az ügyintéző a hatóság vezetőjének haladéktalanul, de legkésőbb az ok felmerülésétől számított három munkanapon belül köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A kizárási okot a kizárási okról való tudomásszerzéstől számított öt munkanapon belül az ügyfél is bejelentheti. Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, őt a kizárást megtagadó végzésben eljárási bírsággal lehet sújtani.
+43. § (1) Az ügyintéző a hatóság vezetőjének haladéktalanul, de legkésőbb az ok felmerülésétől számított öt napon belül köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A kizárási okot a kizárási okról való tudomásszerzéstől számított nyolc napon belül az ügyfél is bejelentheti. Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, őt a kizárást megtagadó végzésben eljárási bírsággal lehet sújtani.
 
-(2) A kizárás tárgyában a hatóság vezetője dönt, szükség esetén más ügyintézőt jelöl ki, továbbá arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ügyintéző járt el.
+(2) A kizárás tárgyában a hatóság vezetője dönt, szükség esetén más ügyintézőt jelöl ki, továbbá arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ügyintéző járt el. A kizárás tárgyában hozott végzést az ügyféllel közölni kell.
+
+(2a) A hatóság vezetője a kizárásról az eljárás megindításáról való értesítést megelőzően végzés kibocsátása nélkül dönt.
 
 (3) Ha a hatóságnál nincs másik, megfelelő szakképzettséggel rendelkező ügyintéző, a felügyeleti szerv vezetője másik azonos hatáskörű hatóságot jelöl ki.
 

@@ -1,6 +1,6 @@
 ## Hatósági szolgáltatás
 
-169. § (1) Jogszabályban arra feljogosított hatóság az ügyfél számára
+169. § (1) Jogszabályban arra feljogosított hatóság, valamint az integrált ügyfélszolgálati iroda az ügyfél számára
 
 a) más hatóságok elektronikus tájékoztatásához, illetve elektronikus kapcsolattartási rendszeréhez történő hozzáférést biztosíthat,
 

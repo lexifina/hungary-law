@@ -10,6 +10,6 @@
 
 (3) A hatósági bizonyítvány és a hatósági igazolvány kiadásának megtagadásáról, valamint a hatósági nyilvántartásba való bejegyzés megtagadásáról a hatóság határozatot hoz.
 
-(4) A hatósági bizonyítványnak, hatósági igazolványnak és hatósági nyilvántartásnak az adattartalmát és a kiállítás (bejegyzés) módját a hatósági igazolványt, bizonyítványt rendszeresítő, illetve a hatósági nyilvántartást létrehozó jogszabály határozza meg.
+(4)
 
 (5) Az eljárás megindításáról az ügyfelet a hatósági bizonyítvánnyal, igazolvánnyal és nyilvántartással kapcsolatos eljárásokban nem kell értesíteni.

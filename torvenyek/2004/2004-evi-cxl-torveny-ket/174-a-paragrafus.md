@@ -11,3 +11,5 @@ bb) a szakhatóság által a szakhatósági állásfoglalás kialakítása sorá
 c) meghatározza a szakhatósági közreműködésre, az ügyben érdemi döntésre jogosult hatóság és a szakhatóság közötti együttműködésre vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a végrehajtást foganatosító szervet és a külföldi határozat végrehajtására irányuló megkereséssel kapcsolatban intézkedésre jogosult szervet vagy szerveket.
+
+(3) Felhatalmazást kap a Kormány, hogy az integrált ügyfélszolgálati irodát vagy irodákat rendeletben jelölje ki, valamint meghatározza feladat- és hatáskörüket.

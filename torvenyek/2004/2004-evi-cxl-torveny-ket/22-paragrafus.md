@@ -2,7 +2,7 @@
 
 22. § (1) A hatóság a joghatóságát – ezzel összefüggésben az alkalmazandó jogot –, valamint hatáskörét és illetékességét az eljárás minden szakaszában hivatalból köteles vizsgálni.
 
-(2) Hatáskör vagy illetékesség hiányában a hatóság a kérelmet és az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a kérelem megérkezésétől, folyamatban levő ügyben a hatáskör és illetékesség hiányának megállapításától számított öt munkanapon belül átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
+(2) Hatáskör vagy illetékesség hiányában a hatóság a kérelmet és az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a kérelem megérkezésétől, folyamatban levő ügyben a hatáskör és illetékesség hiányának megállapításától számított nyolc napon belül átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
 
 (3) A hatóság – tekintet nélkül a joghatóságára, valamint a hatáskörére és az illetékességére – hivatalból köteles megtenni azt az ideiglenes intézkedést, amelynek hiányában a késedelem elháríthatatlan kárral vagy veszéllyel járna.
 

@@ -6,7 +6,7 @@
 
 (4) Ha a szakvélemény nem egyértelmű, hiányos, önmagával vagy más szakértő véleményével, illetve a bizonyított tényekkel ellentétben állónak látszik, vagy helyességéhez egyébként nyomatékos kétség fér, a szakértő köteles a hatóság felhívására a szükséges felvilágosítást megadni.
 
-(5) Ha ugyanazon bizonyítandó tényre készített szakvélemények között az ügy eldöntése szempontjából lényeges szakkérdésben olyan eltérés van, amely a szakértőktől kért felvilágosítással nem tisztázható, a hatóság másik szakértőt rendel ki, aki abban a kérdésben foglal állást, hogy a szakvélemények közötti eltérés mire vezethető vissza, szükséges-e bármelyik szakvélemény kiegészítése.
+(5) Ha ugyanazon bizonyítandó tényre készített szakvélemények között az ügy eldöntése szempontjából lényeges szakkérdésben olyan eltérés van, amely a szakértőktől kért felvilágosítással vagy más módon nem tisztázható, a hatóság másik szakértőt rendel ki, aki abban a kérdésben foglal állást, hogy a szakvélemények közötti eltérés mire vezethető vissza, szükséges-e bármelyik szakvélemény kiegészítése.
 
 (6) Ha a hatóság a szakértőt tárgyaláson kívül hallgatja meg, a meghallgatásra a tárgyalás szabályait kell megfelelően alkalmazni.
 

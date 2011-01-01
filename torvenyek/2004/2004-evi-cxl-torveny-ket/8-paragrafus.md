@@ -1,5 +1,1 @@
-8. § (1) Törvény eltérő rendelkezése hiányában az ügyfél és az eljárás egyéb résztvevője nem köteles a hatósággal elektronikus úton kapcsolatot tartani.
-
-(2) Törvény eltérő rendelkezése hiányában az ügyfél a kérelmére induló eljárás során és az eljárás egyéb résztvevője egy alkalommal indokolás nélkül, további esetekben méltányolható indokolással megváltoztathatja a kapcsolattartás általa addig alkalmazott módját.
-
-(3) Ha a közigazgatási hatóságok számára az egymás közötti kapcsolattartásban az elektronikus út vagy elektronikus levél igénybevétele kötelező, nem alkalmazhatják a kapcsolattartás más módját.
+8. § Az eljárás megindítására irányuló kérelmet benyújtó ügyfél és az eljárás egyéb résztvevője – e törvény keretei között – az egyes kapcsolattartási formák közül szabadon választhat.

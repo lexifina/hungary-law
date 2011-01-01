@@ -18,11 +18,13 @@ g) a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezeteknek az elj
 
 h) az eljárás irataiban lévő személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratokról való másolat készítéséért fizetendő költségtérítés mértékét és a költségtérítés megfizetésének szabályait.
 
-(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel és a társadalmi esélyegyenlőségért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
+(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel, a társadalmi esélyegyenlőség előmozdításért felelős miniszterrel, valamint az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
 
 (3) Felhatalmazást kap
 
-a)–c)
+a) a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy az irányítása alá tartozó polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét – az adatvédelmi biztos véleményének kikérésével – rendeletben állapítsa meg.
+
+b)–c)
 
 d) a közigazgatás-fejlesztésért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével rendeletben állapítsa meg a tanú és a hatósági tanú által felszámítható költségekre vonatkozó részletes szabályokat,
 

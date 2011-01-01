@@ -6,7 +6,7 @@ b) a hatóság az eljárást megszüntette, vagy
 
 c) az ügy érdemében döntést hozott.
 
-(2) Ha jogszabály másként nem rendelkezik, a tényállás tisztázásához a továbbiakban már nem szükséges lefoglalt dolgot öt munkanapon belül ki kell adni annak, akitől azt lefoglalták. Ha a hatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges lefoglalt iratokat és tárgyi bizonyítékokat át kell adni a megkeresett szervnek.
+(2) Ha jogszabály másként nem rendelkezik, a tényállás tisztázásához a továbbiakban már nem szükséges lefoglalt dolgot nyolc napon belül ki kell adni annak, akitől azt lefoglalták. Ha a hatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges lefoglalt iratokat és tárgyi bizonyítékokat át kell adni a megkeresett szervnek.
 
 (3) Ha a körülmények alapján nyilvánvaló, hogy az, akitől a dolgot lefoglalták, a dolog birtoklására nem jogosult, a hatóság a dolgot az arra jogos igényt bejelentő személynek adja ki.
 

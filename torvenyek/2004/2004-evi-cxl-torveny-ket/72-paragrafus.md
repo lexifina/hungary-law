@@ -12,7 +12,7 @@ da) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújt
 
 db) a szakhatóság megnevezését és állásfoglalása rendelkező részét,
 
-dc) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél részére történő megfizetésre vonatkozó döntést,
+dc) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél vagy központi költségvetés részére történő megfizetésre vonatkozó döntést,
 
 dd) az eljárási költség megállapítását, ha arról a hatóság nem külön dönt,
 
@@ -32,7 +32,7 @@ ec) a mérlegelési, méltányossági jogkörben hozott határozat esetén a mé
 
 ed) a szakhatósági állásfoglalás indokolását,
 
-ee) az ügyintézési határidő leteltének napját, az ügyintézési határidő túllépése esetén az arról szóló tájékoztatást, hogy az ügyintézési határidőt mely, az ügyfélnek felróható okból nem tartotta be, vagy hogy az ügyintézési határidő túllépése esetén a 33/A. § alkalmazásának van helye,
+ee) az ügyintézési határidő túllépése esetén az ügyintézési határidő leteltének napját, valamint az arról szóló tájékoztatást, hogy az ügyintézési határidőt mely, az ügyfélnek vagy az eljárás egyéb résztvevőjének felróható okból nem tartotta be, vagy hogy a 33/A. § alkalmazásának van helye,
 
 ef) azokat a jogszabályhelyeket, amelyek alapján a hatóság a határozatot hozta,
 
@@ -42,12 +42,16 @@ f) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, h
 
 g) a döntés kiadmányozójának aláírását és a hatóság bélyegzőlenyomatát.
 
-(2) A végzésnek – ha jogszabály további követelményt nem állapít meg – tartalmaznia kell az (1) bekezdés a), b), c), da), dc)–dg), f) és g) pontjában meghatározott tartalmi elemeket, valamint a döntés részletes indokolását, ezen belül az (1) bekezdés ec), ef) és eg) pontjában meghatározott tartalmi elemeket. Kizárólag az eljárást megszüntető végzésnek kell tartalmaznia az (1) bekezdés ee) pontja szerinti tájékoztatást.
+(2) A végzésnek – ha jogszabály további követelményt nem állapít meg – tartalmaznia kell az (1) bekezdés a)–c) pontjában, d) pont da), df) és dg) alpontjában, e) pont ec), ef) és eg) alpontjában, f) és g) pontjában meghatározott tartalmi elemeket. Az eljárást megszüntető végzésnek tartalmaznia kell az (1) bekezdés d) pont dc)–de) alpontjában, valamint e) pont ee) alpontjában meghatározott tartalmi elemeket is.
 
 (3) A 22. § (4) bekezdése szerinti, ideiglenes intézkedésről szóló végzés indokolásában ismertetni kell az ideiglenes intézkedés szükségességét és célszerűségét megalapozó tényeket és körülményeket, valamint a felmerült költséget, feltéve, hogy a költség megtérítésére az ideiglenesen intézkedő hatóság igényt tart.
 
-(4) Ha a hatóság a kérelemnek teljes egészében helyt ad, és az ügyben nincs ellenérdekű ügyfél, egyszerűsített döntés hozható, amely nem tartalmazza az indokolást és a jogorvoslatról szóló tájékoztatást. Az egyezséget jóváhagyó egyszerűsített döntésből mellőzhető az indokolás.
+(4) Indokolást és jogorvoslatról való tájékoztatást nem tartalmazó egyszerűsített döntés hozható, ha
 
-(5) A kizárólag valamely eljárási cselekmény időpontját meghatározó végzésből mellőzhető az indokolás.
+a) a hatóság a kérelemnek teljes egészében helyt ad, és az ügyben nincs ellenérdekű ügyfél, vagy a döntés az ellenérdekű ügyfél jogát vagy jogos érdekét nem érinti, vagy
 
-(6) Az indokolás mellőzhető, ha az késleltetné a döntés meghozatalát és a késedelem életveszéllyel vagy súlyos kárral fenyegető helyzet kialakulásához vezethet. Ebben az esetben a döntés meghozatalától számított öt munkanapon belül meg kell küldeni az indokolást az ügyfél részére. A jogorvoslat igénybevételének határidejét az indokolás kézbesítésének napjától kell számítani.
+b) az kizárólag valamely eljárási cselekmény időpontját határozza meg.
+
+(5) Az egyezséget jóváhagyó egyszerűsített döntésből mellőzhető az indokolás.
+
+(6) Az indokolás mellőzhető, ha az késleltetné a döntés meghozatalát és a késedelem életveszéllyel vagy súlyos kárral fenyegető helyzet kialakulásához vezethet. Ebben az esetben a döntés meghozatalától számított tíz napon belül meg kell küldeni az indokolást az ügyfél részére. A jogorvoslat igénybevételének határidejét az indokolás kézbesítésének napjától kell számítani.

@@ -8,11 +8,11 @@ b) kérelemre indult eljárásban – az eljárás megindítására irányuló k
 
 helyébe.
 
-(2) Kérelemre indult eljárásban a kérelmező ügyfél jogutódja – az eljárásról való tudomásszerzéstől számított tíz munkanapon belül, de legkésőbb a jogutódlástól számított hat hónapon belül – kérheti a jogutódlás megállapítását.
+(2) Kérelemre indult eljárásban a kérelmező ügyfél jogutódja – az eljárásról való tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a jogutódlástól számított hat hónapon belül – kérheti a jogutódlás megállapítását.
 
-(3) Jogszabály lehetővé teheti, hogy a jogerős határozat alapján jogosított ügyfél helyébe jogutódja lépjen. A jogerős határozattal megállapított kötelezettség esetén – indokolt esetben a teljesítési határidő egy alkalommal történő meghosszabbításával – lehetőséget kell adni a jogutódnak a kötelezettség önkéntes teljesítésére.
+(3) Jogszabály lehetővé teheti, hogy a jogerős határozat alapján jogosított ügyfél helyébe jogutódja lépjen. Ha a jogerős határozattal megállapított kötelezettség tekintetében a kötelezett helyébe jogutód lép, számára – indokolt kérelmére új teljesítési határidő megállapításával – lehetőséget kell biztosítani a kötelezettség önkéntes teljesítésére.
 
-(4) A hatóságnak a jogutódlás előtt hozott döntése hatályos a jogutóddal szemben, kivéve
+(4) A hatóságnak a jogutódlás előtt hozott végzése hatályos a jogutóddal szemben, kivéve
 
 a) a jogelőd természetes személy ügyféllel szemben az eljárás akadályozása vagy az idézésről való távolmaradás miatt kötelezettséget megállapító végzést,
 
@@ -22,4 +22,4 @@ c) a jogelőd természetes személy ügyfél számára költségmentességet eng
 
 (5) Jogutód hiányában a jogszabálysértő, illetve a közérdeket sértő vagy veszélyeztető állapot megszüntetéséről az eljáró hatóság hivatalból intézkedik.
 
-(6) A jogutódlás kérdésében hozott végzés ellen önálló fellebbezésnek van helye.
+(6) A jogutódlás, valamint az új teljesítési határidő megállapítása kérdésében hozott végzést az ügyféllel közölni kell. A jogutódlás tárgyában hozott és az új teljesítési határidő megállapítását megtagadó végzés ellen önálló fellebbezésnek van helye.

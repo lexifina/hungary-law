@@ -5,3 +5,5 @@
 (3) Ha a dolog átadására köteles személy nem adja át a dolgot, a hatóság a lefoglalást a rendőrség közreműködésével foganatosítja, és a dolog átadására köteles személyt eljárási bírsággal sújthatja.
 
 (4) A lefoglalás foganatosítására a szemle szabályai irányadóak azzal, hogy a szemletárgy birtokosára vonatkozó szabályokat a lefoglalt dolog birtokosára kell alkalmazni.
+
+(5) A lefoglalást elrendelő, valamint a lefoglalás megszüntetése iránti kérelmet elutasító végzés ellen önálló fellebbezésnek van helye. A fellebbezésnek a végzés végrehajtására nincs halasztó hatálya.

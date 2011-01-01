@@ -18,6 +18,6 @@ b) nincs ellenérdekű ügyfél vagy az ellenérdekű ügyfél az eljárás felf
 
 (7) Ha a hatóság az eljárást a (3) bekezdés alapján függesztette fel, és az ügyfél az eljárás folytatását hat hónapon belül nem kéri, a hatóság a csak kérelemre folytatható eljárás megszüntetéséről dönt.
 
-(8) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor az ügyintézési határidő kivételével újra kezdődik.
+(8) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor az ügyintézési határidő kivételével újra kezdődik. A felfüggesztés időtartama alatt megtett valamennyi eljárási cselekmény hatálytalan, kivéve azokat, amelyek a felfüggesztési ok megszüntetésére irányulnak.
 
 (9) A hatóság az eljárás felfüggesztése esetén is dönthet úgy, hogy a folyamatban lévő eljárási cselekményeket és az azok teljesítésére megállapított határidőket az eljárás felfüggesztése nem érinti.

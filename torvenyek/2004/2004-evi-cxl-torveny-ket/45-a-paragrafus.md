@@ -14,9 +14,9 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (2) A szakhatóság a megkeresés megérkezését követően haladéktalanul ellenőrzi, hogy van-e hatásköre és illetékessége az ügy elbírálására.
 
-(3) Ha a szakhatóság megállapítja hatásköre hiányát, erről a megkeresés megérkezésétől számított öt munkanapon belül tájékoztatja a hatóságot, és megszünteti a szakhatósági eljárást.
+(3) Ha a szakhatóság megállapítja hatásköre hiányát, erről a megkeresés megérkezésétől számított nyolc napon belül tájékoztatja a hatóságot, és megszünteti a szakhatósági eljárást.
 
-(4) Ha a szakhatóság megállapítja illetékessége hiányát, a megkeresést a megérkezésétől számított öt munkanapon belül az ügy összes iratával együtt az illetékességgel rendelkező hatósághoz – a hatóság egyidejű tájékoztatása mellett – átteszi, és megszünteti a szakhatósági eljárást.
+(4) Ha a szakhatóság megállapítja illetékessége hiányát, a megkeresést a megérkezésétől számított nyolc napon belül az ügy összes iratával együtt az illetékességgel rendelkező hatósághoz – a hatóság egyidejű tájékoztatása mellett – átteszi.
 
 (5) Ha a szakhatóság megállapítja, hogy változatlan tényállás és jogi szabályozás mellett a megkeresés szerinti ugyanazon jog érvényesítésére irányuló kérelemről – az előzetes szakhatósági hozzájárulás kivételével – korábban szakhatósági állásfoglalást adott ki, haladéktalanul megküldi a hatóságnak a korábbi szakhatósági állásfoglalását, és megszünteti a szakhatósági eljárást. Nincs lehetőség a megkeresésnek a korábbi szakhatósági állásfoglalás megküldésével történő teljesítésére újrafelvételi eljárásban.
 

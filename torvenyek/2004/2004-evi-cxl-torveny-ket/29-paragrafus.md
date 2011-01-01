@@ -20,13 +20,13 @@ a) a hivatalból indult eljárásban az ismert ügyfelet az első eljárási cse
 
 b) a kérelemre indult eljárásban – az eljárás megindítására irányuló kérelmet benyújtó ügyfelet kivéve – az ismert ügyfelet a kérelem beérkezésétől
 
-számított öt munkanapon belül értesíteni kell.
+számított nyolc napon belül értesíteni kell.
 
 (4) Az értesítés csak akkor mellőzhető, ha
 
 a) az veszélyeztetné az eljárás eredményességét,
 
-b) az eljárás megindítása után a hatóság öt munkanapon belül érdemben dönt, vagy a kérelmet érdemi vizsgálat nélkül elutasítja, vagy az eljárást megszünteti,
+b) az eljárás megindítása után a hatóság nyolc napon belül érdemben dönt, vagy a kérelmet érdemi vizsgálat nélkül elutasítja, vagy az eljárást megszünteti,
 
 c) az ellenőrzésre feljogosított hatóság az adott tárgyban folyamatosan lát el az érintettnél ellenőrzési feladatot,
 
@@ -54,7 +54,7 @@ c) a tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be 
 
 (8) A hatóság a hivatalbóli eljárást kezdeményező személyt vagy szervet kérelmére tájékoztatja az eljárás megindításáról.
 
-(9) Ha az eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított öt munkanapon belül a hatóság a 28/C. § (1) és (2) bekezdésében meghatározott szabályok szerint értesíti
+(9) Ha az eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított nyolc napon belül a hatóság a 28/C. § (1) és (2) bekezdésében meghatározott szabályok szerint értesíti
 
 a) az ügy iktatási számáról, az ügyintéző nevéről és hivatali elérhetőségéről,
 
@@ -66,4 +66,4 @@ d) arról, hogy kérelme a szükséges adatainak kezeléséhez és belföldi jog
 
 (10) A 15. § (5) bekezdés alapján ügyfélnek minősülő szervezetek kormányrendeletben meghatározott adatbázis alapján történő értesítése az (5) és a (7) bekezdés szerinti adatokat együttesen tartalmazza.
 
-(11) A hatóság külön kérelem nélkül is az ügyfél anyanyelvére lefordított végzésben értesíti az eljárás megindításáról azt a magyar nyelvet nem beszélő ügyfelet, akivel szemben az eljárást folytatja. Az értesítés az (5) bekezdésben foglaltakon túl tartalmazza a nyelvhasználati és az ezzel járó költségviselési szabályokról szóló tájékoztatást.
+(11) A hatóság külön kérelem nélkül is az ügyfél anyanyelvére lefordított értesítést küld az eljárás megindításáról annak a magyar nyelvet nem beszélő ügyfélnek, akivel szemben az eljárást folytatja. Az értesítés az (5) bekezdésben foglaltakon túl tartalmazza a nyelvhasználati és az ezzel járó költségviselési szabályokról szóló tájékoztatást.

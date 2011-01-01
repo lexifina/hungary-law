@@ -6,7 +6,7 @@ b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) 
 
 c) a hatóság a nyilvánosság véleményének megismerése érdekében ezt szükségesnek tartja.
 
-(2) A közmeghallgatás helyéről és idejéről a hatóság – ha jogszabály másként nem rendelkezik – öt munkanappal korábban hirdetményi úton, továbbá közhírré tétel útján értesíti az érintetteket.
+(2) A közmeghallgatás helyéről és idejéről a hatóság – ha jogszabály másként nem rendelkezik – három nappal korábban hirdetményi úton, továbbá közhírré tétel útján értesíti az érintetteket.
 
 (3) A közmeghallgatáson elhangzottakról a hatóság jegyzőkönyvet készít, amely tartalmazza
 

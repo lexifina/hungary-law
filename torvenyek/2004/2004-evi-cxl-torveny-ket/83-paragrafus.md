@@ -10,7 +10,7 @@ b) területén a bizonyítással kapcsolatos dolog van, vagy a bizonyítani kív
 
 c) nyilvántartása az adatot tartalmazza.
 
-(3) Ha jogszabály másként nem rendelkezik, a hatósági bizonyítványt a kérelem előterjesztésétől számított öt munkanapon belül kell kiadni, illetve az ügyfél által benyújtott iratot záradékkal ellátni. Ha jogszabály másként nem rendelkezik, a hatósági bizonyítványban fel kell tüntetni, hogy azt kinek és milyen bizonyítékok alapján adták ki. A hatósági bizonyítvány alakiságára is irányadók a 72. § (1) bekezdésének a) és f) pontjában foglalt követelmények.
+(3) Ha jogszabály másként nem rendelkezik, a hatósági bizonyítványt a kérelem előterjesztésétől számított tíz napon belül kell kiadni, illetve az ügyfél által benyújtott iratot záradékkal ellátni. Ha jogszabály másként nem rendelkezik, a hatósági bizonyítványban fel kell tüntetni, hogy azt kinek és milyen bizonyítékok alapján adták ki. A hatósági bizonyítvány alakiságára is irányadók a 72. § (1) bekezdésének a) és f) pontjában foglalt követelmények.
 
 (4) A hatósági bizonyítvány tartalmát – az ellenkező bizonyításáig – mindenki köteles elfogadni.
 

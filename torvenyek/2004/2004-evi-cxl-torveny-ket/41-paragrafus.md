@@ -30,6 +30,6 @@ d) összegyűjti és rendszerezett formában a hatóság rendelkezésére bocsá
 
 (7) A hatósági közvetítőt munkájáért díj illeti meg, és a költségviselés szabályai szerint igényt tarthat költségeinek megtérítésére.
 
-(8) A hatósági közvetítők a közigazgatási hivatal által vezetett nyilvántartása tartalmazza a hatósági közvetítő természetes személyazonosító adatait, képesítését, az elérhetőségéhez szükséges adatokat, valamint azt a tevékenységi kört, amelyben hatósági közvetítőként eljárhat.
+(8) A Kormány általános hatáskörű területi államigazgatási szervének a hatósági közvetítőkről vezetett nyilvántartása tartalmazza a hatósági közvetítő természetes személyazonosító adatait, képesítését, az elérhetőségéhez szükséges adatokat, valamint azt a tevékenységi kört, amelyben hatósági közvetítőként eljárhat.
 
 (9) A (8) bekezdés szerinti nyilvántartásnak a hatósági közvetítő nevére, elérhetőségére, képesítésére, valamint tevékenységi körére vonatkozó adatai nyilvánosak.

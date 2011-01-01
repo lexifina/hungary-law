@@ -4,4 +4,4 @@
 
 (3) Jogszabály az ügy bonyolultságára tekintettel tájékoztatási kötelezettséget írhat elő a jogi képviselővel eljáró ügyfelek számára is.
 
-(4) A közigazgatási hatóság a törvényben meghatározott korlátozásokkal az ügyfeleknek és képviselőiknek, valamint más érdekelteknek biztosítja az iratbetekintési jogot, jogszabályban meghatározott esetben közmeghallgatást tart, és döntését az ügyfelekkel közli. A hatóság ugyanakkor gondoskodik a törvény által védett titkok megőrzéséről és a személyes adatok védelméről.
+(4) A közigazgatási hatóság a törvényben meghatározott korlátozásokkal az ügyfeleknek és képviselőiknek, valamint más érdekelteknek biztosítja az iratbetekintési jogot, jogszabályban meghatározott esetben közmeghallgatást tart, és döntését az érintettekkel közli. A hatóság ugyanakkor gondoskodik a törvény által védett titkok megőrzéséről és a személyes adatok védelméről.

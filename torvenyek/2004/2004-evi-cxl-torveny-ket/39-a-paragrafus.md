@@ -1,6 +1,6 @@
 ## Adatok zárt kezelése
 
-39/A. § (1) Erre irányuló indokolt kérelem esetén a hatóság elrendelheti a tanú, a tolmács, a szemletárgy birtokosa természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az adatok zárt kezelése iránti kérelmet előterjesztő valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti.
+39/A. § (1) Erre irányuló indokolt kérelem esetén a hatóság elrendeli a tanú, a tolmács, a szemletárgy birtokosa és a hivatalbóli eljárást kezdeményező személy természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az adatok zárt kezelése iránti kérelmet előterjesztő valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést kizárólag a kérelmet előterjesztővel kell közölni.
 
 (2) A szakértő az (1) bekezdésben foglaltak szerint az igazságügyi szakértői névjegyzék nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme zárt kezelését kérheti.
 

@@ -10,8 +10,8 @@
 
 (5) Meghatározott ügyekben törvény az ügyfél jogaival ruházhatja fel az érdekvédelmi szervezeteket és azokat a társadalmi szervezeteket, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul.
 
-(6) Az ügyféli jogok gyakorlását törvény ahhoz a feltételhez kötheti, hogy az ügyfél az első fokú eljárásban részt vesz.
+(6) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogainak gyakorlását törvény ahhoz a feltételhez kötheti, hogy az ügyfél az első fokú eljárásban nyilatkozatot tesz vagy kérelmet nyújt be.
 
-(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Az eljáró hatóság hivatalból vizsgálhatja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
+(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
 
 (8) Az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzés ellen önálló fellebbezésnek van helye.

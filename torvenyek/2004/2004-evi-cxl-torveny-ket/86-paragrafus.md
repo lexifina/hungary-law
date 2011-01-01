@@ -9,3 +9,5 @@
 (4) Ha jogszabály eltérően nem rendelkezik, az ügyfél jogorvoslati kérelmének benyújtására nyitva álló határidő akkor kezdődik, amikor a jogszabálysértő vagy hibás adat bejegyzése vagy a mulasztás az ügyfél tudomására jutott.
 
 (5) Ha jogszabály másként nem rendelkezik, az ügyfél illeték vagy díj lerovása mellett a nyilvántartásból hitelesített másolatot vagy kivonatot kérhet.
+
+(6) A Kormány által rendeletben meghatározott hatósági nyilvántartások tekintetében az ügyfél jogosult a rá vonatkozó adatok megváltozását az integrált ügyfélszolgálati irodánál bejelenteni. Az integrált ügyfélszolgálati iroda a változásbejelentést továbbítja a hatósági nyilvántartást vezető hatósághoz, amely a (3) bekezdés alapján jár el.

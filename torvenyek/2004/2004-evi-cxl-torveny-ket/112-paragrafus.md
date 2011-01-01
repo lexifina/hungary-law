@@ -1,6 +1,6 @@
 ## Újrafelvételi eljárás
 
-112. § (1) Ha az ügyfélnek a jogerős határozattal lezárt ügyben a határozat jogerőre emelkedését követően jutott tudomására a határozat meghozatala előtt már meglévő, az eljárásban még el nem bírált és az ügy elbírálása szempontjából lényeges tény, adat vagy más bizonyíték, a tudomásszerzéstől számított tíz munkanapon belül újrafelvételi kérelmet nyújthat be, feltéve, hogy elbírálása esetén az ügyfélre kedvezőbb határozatot eredményezett volna.
+112. § (1) Ha az ügyfélnek a jogerős határozattal lezárt ügyben a határozat jogerőre emelkedését követően jutott tudomására a határozat meghozatala előtt már meglévő, az eljárásban még el nem bírált és az ügy elbírálása szempontjából lényeges tény, adat vagy más bizonyíték, a tudomásszerzéstől számított tizenöt napon belül újrafelvételi kérelmet nyújthat be, feltéve, hogy elbírálása esetén az ügyfélre kedvezőbb határozatot eredményezett volna.
 
 (2) A hatóság az újrafelvételi kérelmet érdemi vizsgálat nélkül elutasítja, ha
 
@@ -12,13 +12,13 @@ c) a határozat jogerőre emelkedésétől számítva hat hónap eltelt,
 
 d) azt törvény, kormányrendelet vagy önkormányzati hatósági ügyben önkormányzati rendelet kizárja.
 
-(3) Törvény, az ügyfél különös méltánylást érdemlő érdekére tekintettel a (2) bekezdés c) pontja szerinti határidőnél hosszabb, de három évet meg nem haladó jogvesztő határidőt is meghatározhat az újrafelvételi kérelem benyújtására, feltéve hogy az újrafelvételi eljárásban hozott döntés mások jogát, jogos érdekét vagy jogi helyzetét nem érinti.
+(3) Törvény, az ügyfél különös méltánylást érdemlő érdekére tekintettel a (2) bekezdés c) pontja szerinti határidőnél hosszabb, de három évet meg nem haladó jogvesztő határidőt is meghatározhat az újrafelvételi kérelem benyújtására, feltéve hogy az újrafelvételi eljárásban hozott döntés mások jogát vagy jogos érdekét nem érinti.
 
 (4) Az újrafelvételi kérelmet az elsőfokú hatóság bírálja el.
 
 (5)
 
-(6) Az újrafelvételi eljárásban a hatóság a jogerős határozatot módosíthatja, visszavonhatja, vagy az utóbb ismertté vált tényállásnak megfelelő új döntést hozhat. E döntés ellen jogorvoslatnak az általános szabályok szerint van helye.
+(6) Az újrafelvételi eljárásban a hatóság a jogerős határozatot módosíthatja, visszavonhatja, vagy az utóbb ismertté vált tényállásnak megfelelő új döntést hozhat. E döntést közölni kell azzal, akivel a jogerős döntést közölték, ellene jogorvoslatnak az általános szabályok szerint van helye.
 
 (7) Ha a hatóság az újrafelvételi kérelemnek helyt ad, az ügyfelet olyan eljárásjogi helyzetbe kell hozni, mint amilyenben akkor lenne, ha már a korábbi határozat meghozatalakor ismerte volna az újrafelvételi eljárás alapjául szolgáló tényt, adatot vagy bizonyítékot. Az újrafelvételi kérelem alapján hozott döntésnek nem akadálya a jóhiszeműen szerzett és gyakorolt jogok sérelme.
 

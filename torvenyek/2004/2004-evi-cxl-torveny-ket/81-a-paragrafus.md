@@ -13,3 +13,5 @@ c) kijavító döntés meghozatalával
 teljesíti.
 
 (3) A kijavítás ellen jogorvoslatnak nincs helye.
+
+(4) A kijavítást közölni kell azzal, akivel a kijavítandó döntést közölték.

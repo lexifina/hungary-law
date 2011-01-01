@@ -8,7 +8,7 @@
 
 (4) Ha az ügyfél az alapeljárás illetékével vagy díjával egyidejűleg nem vagy csak részben fizeti meg a szakhatósági eljárásért fizetendő illetéket vagy díjat, a hatóság haladéktalanul – valamennyi szakhatóság tekintetében – hiánypótlásra szólítja fel. A hatóság akkor keresi meg a szakhatóságot, ha az ügyfél a hiánypótlást teljesítette.
 
-(5) Nem kell a szakhatóságot megkeresni, ha a hatóság nyolc munkanapon belül megállapítja, hogy a kérelmet a szakhatósági állásfoglalástól függetlenül el kell utasítani.
+(5) Nem kell a szakhatóságot megkeresni, ha a hatóság tíz napon belül megállapítja, hogy a kérelmet a szakhatósági állásfoglalástól függetlenül el kell utasítani.
 
 (6) A szakhatósági állásfoglalás tartalmára a határozat tartalmára vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy az állásfoglalás
 

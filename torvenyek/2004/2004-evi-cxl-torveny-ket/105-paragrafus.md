@@ -6,8 +6,8 @@
 
 (4) A megismételt eljárásban az első fokú döntést hozó hatóságot a másodfokú végzés rendelkező része és indokolása köti.
 
-(5) A fellebbezési eljárás során hozott döntést a fellebbezővel és azokkal, akikkel az első fokú döntést közölték, a másodfokú döntést hozó hatóság az első fokú döntést hozó hatóság útján közli.
+(5) Az (1)–(3) bekezdés szerinti döntést közölni kell a fellebbezővel és azzal, akivel az első fokú döntést közölték.
 
 (6)
 
-(7) A másodfokú döntést hozó hatóság a fellebbezés elbírálása érdekében megküldött iratokat a döntés meghozatalát követően visszaküldi a döntéssel együtt az első fokú döntést hozó hatósághoz, amely intézkedik a döntés kézbesítése iránt.
+(7) A másodfokú döntést hozó hatóság a fellebbezés elbírálása érdekében megküldött iratokat az (1)–(3) bekezdés szerinti döntés meghozatalát követően visszaküldi a döntéssel együtt az első fokú döntést hozó hatósághoz, amely intézkedik a döntés kézbesítése iránt.

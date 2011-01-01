@@ -1,6 +1,6 @@
 ## A hatáskör megállapítása és az eljárási kötelezettség
 
-19. § (1) A hatóság hatáskörét – a hatósági eljárás körébe tartozó ügyfajta meghatározásával – jogszabály állapítja meg. Jogszabály a hatóság szervezeti egységére hatáskört nem telepíthet. Jogszabályban kell megjelölni az elsőfokú, továbbá ha az nem a 106. és 107. §-ban megjelölt hatóság, a fellebbezés elbírálására jogosult hatóságot.
+19. § (1) A hatóság hatáskörét – a hatósági eljárás körébe tartozó ügyfajta meghatározásával – jogszabály állapítja meg. Törvény eltérő rendelkezése hiányában jogszabály a hatóság szervezeti egységére hatáskört nem telepíthet. Jogszabályban kell megjelölni az elsőfokú, továbbá ha az nem a 106. és 107. §-ban megjelölt hatóság, a fellebbezés elbírálására jogosult hatóságot.
 
 (2) Önkormányzati hatósági ügyben első fokon a képviselő-testület, törvény rendelkezése alapján a polgármester jár el. A képviselő-testület ezt a hatáskörét önkormányzati rendeletben a polgármesterre, a részönkormányzat testületére, a képviselő-testület bizottságára vagy törvényben meghatározottak szerint létrehozott társulásra ruházhatja át.
 

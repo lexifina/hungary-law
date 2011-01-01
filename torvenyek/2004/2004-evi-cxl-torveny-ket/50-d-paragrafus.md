@@ -6,6 +6,6 @@ a) kezelése, tárolása, illetve őrzése – különösen a dolog értékére 
 
 b) értéke az előreláthatólag hosszú ideig tartó tárolás miatt jelentősen csökkenne.
 
-(3) Az (1) és (2) bekezdés esetén a lefoglalt dolog akkor értékesíthető, ha a hatóság felhívásától számított három munkanapon belül a lefoglalt dolog kiadása iránt senki nem jelentett be jogos igényt.
+(3) Az (1) és (2) bekezdés esetén a lefoglalt dolog akkor értékesíthető, ha a hatóság felhívásától számított öt napon belül a lefoglalt dolog kiadása iránt senki nem jelentett be jogos igényt.
 
 (4) A lefoglalt dolog értékesítéséből befolyt ellenérték a lefoglalt dolog helyébe lép.

@@ -1,0 +1,1 @@
+69/B. § Ha a hatóság hivatalból nem tudja megállapítani, hogy az iratbetekintési kérelem benyújtásakor az iratbetekintés 69. § (2) bekezdés szerinti korlátozásának az okai fennállnak-e, az üzleti és más méltányolható magánérdek alapján védelemre jogosultat nyilatkozattételre hívja fel. Az iratbetekintés nem tagadható meg, ha a jogosult határidőben nem nyilatkozik.

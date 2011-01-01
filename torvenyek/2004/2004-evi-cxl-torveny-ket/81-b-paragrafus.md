@@ -15,3 +15,5 @@ b) a hiányos döntés bevonása mellett az eredeti döntést és a kiegészít�
 teljesíti.
 
 (4) A kiegészítés ellen ugyanolyan jogorvoslatnak van helye, mint az eredeti döntés ellen volt.
+
+(5) A kiegészítést közölni kell azzal, akivel a kiegészítendő döntést közölték.

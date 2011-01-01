@@ -6,7 +6,7 @@ a) az ügyfél lakó- vagy tartózkodási helye, ennek hiányában szálláshely
 
 b) az ügy tárgyát képező ingatlan fekszik,
 
-c) az engedélyhez vagy bejelentéshez kötött tevékenységet gyakorolják vagy gyakorolni kívánják, vagy
+c) az ügy tárgyát képező tevékenységet gyakorolják vagy gyakorolni kívánják, vagy
 
 d) a jogellenes magatartást elkövették.
 
@@ -18,4 +18,4 @@ d) a jogellenes magatartást elkövették.
 
 (5) Az ügyben illetékességgel rendelkező azonos hatáskörű hatóságok közül az ügyfél kérelmének hiányában az jár el, amelynél az eljárás előbb indult meg (a továbbiakban: megelőzés).
 
-(6) Ha a hatóság megállapítja, hogy az ügyben más hatóság a megelőzés alapján már eljárt, vagy más hatóság előtt eljárás van folyamatban, saját eljárását megszünteti, illetve szükség esetén a döntést visszavonja, és erről szóló döntését a korábban eljárt, illetve a folyamatban lévő ügyben eljáró hatósággal és az ügyféllel közli. Az eljárást megszüntető és a döntést visszavonó döntés ellen jogorvoslatnak nincs helye.
+(6) Ha a hatóság megállapítja, hogy az ügyben más hatóság a megelőzés alapján már eljárt, vagy más hatóság előtt eljárás van folyamatban, saját eljárását megszünteti, illetve szükség esetén a döntést visszavonja, és erről szóló döntését a korábban eljárt, illetve a folyamatban lévő ügyben eljáró hatósággal és az ügyféllel közli. Az eljárást megszüntető végzés és a döntést visszavonó döntés ellen jogorvoslatnak nincs helye.

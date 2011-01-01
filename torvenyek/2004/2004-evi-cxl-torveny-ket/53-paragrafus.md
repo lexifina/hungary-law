@@ -19,3 +19,5 @@ b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény 
 (5) Nem használható fel bizonyítékként a (3) bekezdésben foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 
 (6) Törvényben meghatározott esetek kivételével a diplomáciai mentességben részesülő személy nem köteles tanúvallomást tenni.
+
+(7) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, eljárási bírsággal sújtható.

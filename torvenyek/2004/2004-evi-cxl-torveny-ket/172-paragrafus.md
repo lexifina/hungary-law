@@ -18,7 +18,7 @@ g) hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbe f
 
 h)
 
-i) irat: minden olyan tárgy, amely rögzített adatot hordoz;
+i) irat, okirat, közokirat, magánokirat: a Polgári perrendtartásról szóló törvény szerinti irat, okirat, közokirat és magánokirat;
 
 j) központi elektronikus szolgáltató rendszer: az elektronikus közszolgáltatásról szóló törvény szerinti központi elektronikus szolgáltató rendszer;
 

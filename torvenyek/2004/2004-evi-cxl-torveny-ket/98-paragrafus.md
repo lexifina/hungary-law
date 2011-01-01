@@ -18,7 +18,7 @@ d) az eljárás felfüggesztése tárgyában hozott,
 
 e) a 33/A. §-ban meghatározott fizetési kötelezettséggel kapcsolatos,
 
-f) a természetes személyazonosító adatok és a lakcím zárt kezelésére vonatkozó kérelemnek helyt adó,
+f)
 
 g) az eljárási bírságot kiszabó,
 

@@ -2,7 +2,7 @@
 
 a) a szabálysértési eljárásra, a választási eljárásra, a népszavazás előkészítésére és lebonyolítására, a területszervezési eljárásra és – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra,
 
-b) a helyi önkormányzat vagy annak szerve által jogszabályban meghatározott feltételekkel rendelkezők számára biztosítandó támogatások elosztására irányuló eljárásban a rendelkezésre álló támogatási keretösszegen felül benyújtott támogatási igényekre.
+b)
 
 (2) E törvény rendelkezéseit
 
@@ -16,13 +16,21 @@ d) a termékek és a szolgáltatások forgalmazására, illetve értékesítés�
 
 e) a pénz- és tőkepiaci, a biztosítási, az önkéntes kölcsönös biztosító pénztári és a magán-nyugdíjpénztári tevékenység felügyeletével kapcsolatos eljárásban, valamint a versenyfelügyeleti és bejelentési eljárásban,
 
-f) a közbeszerzésekkel kapcsolatos jogorvoslati eljárásban
+f) a közbeszerzésekkel kapcsolatos jogorvoslati eljárásban,
+
+g) az atomenergia alkalmazási körébe tartozó ügyekben,
+
+g) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a médiaigazgatással, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával kapcsolatos eljárásban
+
+h) a veszélyes létesítményekkel kapcsolatos eljárásban, valamint
+
+i) a társadalombiztosítás ellátásaival kapcsolatos eljárásban
 
 csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.
 
 (3) Az (1) és (2) bekezdésben fel nem sorolt közigazgatási hatósági eljárásokra vonatkozó jogszabályok e törvény rendelkezéseitől kizárólag akkor térhetnek el, ha azt e törvény kifejezetten megengedi.
 
-(4) Ha az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eljárási szabályt állapít meg, e törvény rendelkezései az ott szabályozott kérdésben nem alkalmazhatók. E törvény rendelkezéseitől az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusának, valamint az Európai Unió egyéb kötelező jogi aktusának végrehajtása céljából – az ahhoz szükséges mértékben és módon – törvény, kormányrendelet vagy a Magyar Nemzeti Bank elnökének rendelete eltérhet.
+(4) Ha az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eljárási szabályt állapít meg, e törvény rendelkezései az ott szabályozott kérdésben nem alkalmazhatók. E törvény rendelkezéseitől az Európai Unió kötelező jogi aktusának végrehajtása céljából – az ahhoz szükséges mértékben és módon – törvény, kormányrendelet vagy a Magyar Nemzeti Bank elnökének rendelete eltérhet.
 
 (5) E törvény rendelkezéseitől a nemzetközi szerződést kihirdető törvény eltérhet.
 

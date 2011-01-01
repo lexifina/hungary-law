@@ -1,1 +1,1 @@
-93. §
+93. § Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ellenőrzés megindításáról értesített ügyfél nem sértette meg a jogszabályokban és a hatósági határozatban foglalt előírásokat, erről az ügyfelet értesíti.

@@ -18,6 +18,6 @@ c) a polgármester, főpolgármester, megyei közgyűlés elnöke, a megyei jog�
 
 d) főjegyző, jegyző, körjegyző, a képviselő-testület hivatalának ügyintézője, a hatósági igazgatási társulás,
 
-e) egyéb szervezet, köztestület vagy személy, amelyet (akit) törvény vagy kormányrendelet jogosít fel közigazgatási hatósági jogkör gyakorlására.
+e) törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb szervezet, köztestület vagy személy.
 
-(4) Ha törvény vagy kormányrendelet nem közigazgatási feladat ellátására létrehozott szervezetet, köztestületet vagy személyt jogosít fel közigazgatási hatósági jogkör gyakorlására, meg kell határozni azokat az ügyeket, amelyekben e törvény rendelkezései az irányadók.
+(4) Ha törvény vagy kormányrendelet egyéb szervezetet, köztestületet vagy személyt jogosít fel közigazgatási hatósági jogkör gyakorlására, meg kell határozni azokat az ügyeket, amelyekben e törvény rendelkezései az irányadók.
