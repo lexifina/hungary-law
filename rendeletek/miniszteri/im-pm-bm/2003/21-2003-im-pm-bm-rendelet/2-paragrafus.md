@@ -4,7 +4,7 @@ a) a terhelt készkiadását, valamint a terhelt meghatalmazott védőjének a k
 
 b) a magánvádló készkiadását, valamint a magánvádló képviselőjének készkiadását és díját a magánvádló;
 
-c)[^1] a pótmagánvádló készkiadását, valamint a pótmagánvádló képviselőjének készkiadását és díját a pótmagánvádló, a személyes költségmentességben részesült pótmagánvádló esetében ezen költségeket az Igazságügyi Hivatal;
+c)[^1] a pótmagánvádló készkiadását, valamint a pótmagánvádló képviselőjének készkiadását és díját a pótmagánvádló, a személyes költségmentességben részesült pótmagánvádló esetében ezen költségeket a jogi segítségnyújtó szolgálat,
 
 d) a magánfél készkiadását, valamint a magánfél képviselőjének (törvényes képviselőjének) készkiadását és díját a magánfél;
 
@@ -26,4 +26,4 @@ g) a segítő készkiadását és díját az a terhelt, tanú vagy törvényben 
 
 (7) A (2)–(5) bekezdésben meghatározott szervek és személyek az általuk előlegezett költségről az eljáró hatóságot haladéktalanul értesítik.
 
-[^1]: A 2. § (1) bekezdésének c) pontja az 57/2007. (XII. 22.) IRM–PM együttes rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a pártfogó ügyvédi képviselet biztosítására irányuló kérelmet 2008. január 1. napját követően terjesztették elő.
+[^1]: A 2. § (1) bekezdés c) pontja a 30/2010. (XII. 31.) KIM rendelet 20. §-ával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-21-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-21-20-06.3 | 21/2003. (VI. 24.) IM–PM–BM együttes rendelet |
+| 2011-01-01 | 2003-21-20-06.4 | 30/2010. (XII. 31.) KIM rendelet |
