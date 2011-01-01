@@ -1,1 +1,0 @@
-A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 58. §-a (8) bekezdésének f) pontjában foglalt felhatalmazás alapján – az informatikai és hírközlési miniszterrel egyetértésben – a következőket rendelem el:
