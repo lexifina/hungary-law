@@ -2,9 +2,9 @@
 
 (2) Az állami adóhatóság szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata-üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásban hozott határozatai ellen fellebbezésnek nincs helye. Az e törvényben meghatározott ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek, illetve kérelemnek, az e törvényben foglalt kivételekkel, a végrehajtásra halasztó hatálya van.
 
-(3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított 10 munkanapon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
+(3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
 
-(4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról 45 munkanapon, játékautomata nyilvántartásba vételéről pedig 10 munkanapon belül dönt. E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
+(4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt. E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
 
 (5)
 

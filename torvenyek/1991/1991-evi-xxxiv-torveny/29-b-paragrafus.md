@@ -14,7 +14,7 @@
 
 (7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
 
-(8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított 15 munkanapon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
+(8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított húsz napon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
 
 (9) Ha a kártyaterem üzemeltetése nem felel meg a játéktervnek és az engedélynek, az állami adóhatóság a kártyaterem működését felfüggeszti. Az állami adóhatóság akkor is köteles a kártyaterem működtetését felfüggeszteni, ha az engedély a helyszínen nem található. Ha a kártyateremben az engedélyezett kártyajátékon túl más szerencsejáték szervező tevékenység folyik, az állami adóhatóság a kártyaterem engedélyét visszavonja.
 
