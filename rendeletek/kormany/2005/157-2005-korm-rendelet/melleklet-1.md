@@ -2,4 +2,4 @@
 
 A hőtermelő létesítmények létesítési és a vezetékjog engedélyezési eljárásban kijelölt szakhatóságok
 
-[^23]: A Vhr. 1. melléklete a 362/2008. (XII. 31.) Korm. rendelet 29. § (3) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 414–415. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A Vhr. 1. melléklete a 351/2010. (XII. 30.) Korm. rendelet 137. §-ával megállapított szöveg.
