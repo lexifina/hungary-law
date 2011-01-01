@@ -1,26 +1,21 @@
-## A kapacitásfelosztás éves módosítása
+## A kapacitásfelosztás módosítása[^16]
 
-3. § (1)[^10] A Tv. 4. § (2) bekezdése szerinti, a kapacitásfelosztás módosítására készített javaslatot az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) elektronikus és nyomtatott formában küldi meg az illetékes Regionális Egészségügyi Tanácsoknak (a továbbiakban: RET), illetve az ÁNTSZ RET székhelye szerint illetékes regionális intézetének. Az OEP a javaslatához mellékeli az egyes szolgáltatók külön jogszabály szerinti teljesítményvolumenére vonatkozó kihasználtsági mutatókat.
+3. § (1)[^17] A Tv. 4. § (2) bekezdése szerinti, a kapacitásfelosztás módosítására készített javaslatot az OEP elektronikus formában küldi meg az OTH-nak.
 
-(2) Amennyiben a RET a Tv. 4. § (3) bekezdése alapján módosítási javaslatot készít, azt elektronikus és nyomtatott formában küldi meg az ÁNTSZ RET székhelye szerint illetékes regionális intézetének.
+(2)–(3)[^18]
 
-(3) A Tv. 4. § (3) bekezdése szerinti véleményről szóló szavazás során a RET tagjai által a döntéshozatalkor képviselt lekötött
+(4)[^19] A Tv. 4. § (3) bekezdése szerinti határozatban – amennyiben szükséges – az ellátási terület módosításáról is rendelkezni kell. Amennyiben az ellátási terület nem módosul, ennek tényét a határozatban rögzíteni kell.
 
-a) ágyszámot kell a fekvőbeteg-szakellátást érintően, illetve
+(5)[^20]
 
-b) óraszámot kell a járóbeteg-szakellátást érintően
+(6)[^21]
 
-## figyelembe venni.
+(7)[^22] A Tv. 4. §-a szerinti eljárás nem érintheti az egészségügyi szolgáltatónak azon kapacitását, amely vonatkozásában a 12. § (1) bekezdése szerinti pályázat során fenntartási kötelezettséget vállalt.
 
-(4) A Tv. 4. § (5) bekezdése szerinti határozatban – amennyiben szükséges – az ellátási terület módosításáról is rendelkezni kell. Amennyiben az ellátási terület nem módosul, ennek tényét a határozatban rögzíteni kell.
-
-(5)[^11] Ha az ÁNTSZ az éves kapacitásfelosztás-módosítási eljárása során él a Tv. 4. § (7) bekezdése szerint biztosított, a szakmacsoportok közötti 10%-os átcsoportosítási lehetőséggel, a kapacitásfelosztás módosításáról hozott döntését követően az átcsoportosítások irányát és mértékét szakmacsoportonként a honlapján közzéteszi.
-
-(6)[^12] A Tv. 4. § (8) bekezdése alkalmazásában mindenkori kiindulási alapként a Tv. 3. számú mellékletében meghatározott kapacitás-mennyiséget kell figyelembe venni. A Tv. 4. § (8) bekezdésében foglaltakat azon járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók vonatkozásában lehet alkalmazni, amelyek 10 000 lakosra jutó kapacitása az OEP-nél rendelkezésre álló, az adott évet megelőző finanszírozási év adatai alapján az országos átlagnál alacsonyabb. Amennyiben a Tv. 4. § (8) bekezdése alkalmazásra kerül, az ÁNTSZ döntésében foglaltakat a Tv. 5/A. § (7) bekezdése szerinti nyilvántartáson át kell vezetni.
-
-(7)[^13] A Tv. 4. §-a szerinti eljárás nem érintheti az egészségügyi szolgáltatónak azon kapacitását, amely vonatkozásában a 12. § (1) bekezdése szerinti pályázat során fenntartási kötelezettséget vállalt.
-
-[^10]: A 3. § (1) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 3. § (5) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^12]: A 3. § új (6) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatva.
-[^13]: A 3. § (6) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 4. §-a iktatta be, számozását (7) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 2. § (2) bekezdése.
+[^16]: A 3. §-t megelőző alcím a 363/2010. (XII. 30.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
+[^17]: A 3. § (1) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: A 3. § (2)–(3) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 16. § 2. pontja hatályon kívül helyezte.
+[^19]: A 3. § (4) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.
+[^20]: A 3. § (5) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 16. § 2. pontja hatályon kívül helyezte.
+[^21]: A 3. § új (6) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatva. A (6) bekezdést a 363/2010. (XII. 30.) Korm. rendelet 16. § 2. pontja hatályon kívül helyezte.
+[^22]: A 3. § (6) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 4. §-a iktatta be, számozását (7) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 2. § (2) bekezdése.

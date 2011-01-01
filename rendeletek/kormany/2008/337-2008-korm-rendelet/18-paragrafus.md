@@ -1,26 +1,13 @@
-## „d) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény
-
-## da) 4. § (4)–(9) és (11) bekezdése,
-
-## db) 4/A. § (2) bekezdés b) pontja,
-
-## dc) 5. § (4) és (5) bekezdése,
-
-## dd) 5/A. § (1) és (7) bekezdése,
-
-## de) 5/B. § (1)–(5) és (7) bekezdése,
-
-## df) 8/A. § (1) bekezdése,”
-
-## [szerinti feladatok ellátására.]
+## 17. §[^119] Az 5/A. § (4) bekezdése szerinti listát első ízben 2011. február 1-jéig kell közzétenni.
 
 18. § (1) Ez a rendelet 2009. január 1-jén lép hatályba.
 
-(2)[^54]
+(2)[^120]
 
 (3) A 12. § rendelkezéseit az e rendelet hatálybalépését követően kiírt pályázatok esetén kell alkalmazni.
 
-(4)–(5)[^55]
+(4)–(5)[^121]
 
-[^54]: A 18. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^55]: A 18. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^119]: A második 17. §-t a 363/2010. (XII. 30.) Korm. rendelet 14. §-a iktatta be.
+[^120]: A 18. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^121]: A 18. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,19 +1,26 @@
-8/A. §[^26] (1) A Tv. 7. § (1) bekezdése szerinti átcsoportosítás esetén
+8/A. §[^55] (1) A Tv. 7. § (1) bekezdése szerinti átcsoportosítás esetén
 
 a) egy aktív fekvőbeteg-szakellátási ágy helyébe egy krónikus fekvőbeteg-szakellátási ágy,
 
-b) egy aktív fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 6 járóbeteg-szakellátási szolgáltatási óra,
+b)[^56] egy aktív fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 15 járóbeteg-szakellátási szolgáltatási óra,
 
 c) egy aktív fekvőbeteg-szakellátási ágy, valamint heti egy járóbeteg-szakellátási szolgáltatási óra helyébe egynapos ellátásra az átcsoportosított, adott szakma aktív fekvőbeteg-, illetve járóbeteg-szakellátási kapacitására jutó havi átlagos teljesítmény egyenértékének megfelelő mennyiségű szolgáltatási egység,
 
 d) hét krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy helyébe öt, illetve hat ápolási fekvőbeteg-szakellátási ágy helyébe három, a külön jogszabály szerinti szorzóval finanszírozott intézeti hospice ágy
 
-állapítható meg, azzal, hogy amennyiben intézeti hospice-re a d) pont szerinti kapacitás-mennyiséget meghaladóan csoportosítanak át, az az ott meghatározottak arányában történhet.
+e)[^57] egy rehabilitációs fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 5 járóbeteg-szakellátási szolgáltatási óra
 
-(2) Ha a Tv. 7. § (1) bekezdése alapján krónikus nappali kórházi ellátásra csoportosítanak át, az átcsoportosítandó krónikus, illetve rehabilitációs ágyszámot a nappali kórházi ellátás szakmai háttérosztályának tényleges ágyszámához arányosítva kell meghatározni, azzal, hogy
+állapítható meg, azzal, hogy amennyiben intézeti hospice-re a d) pont szerinti kapacitás-mennyiséget meghaladóan csoportosítanak át, az az ott meghatározottak arányában történhet,
 
-a) az átcsoportosított kapacitással megegyező krónikus szorzójú rehabilitációs osztály keretében működtetni kívánt, külön jogszabály szerint finanszírozott nappali kórházi ellátás kialakításához a szakmai osztály ágyszámának függvényében tíz ágyanként öt krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy,
+(2)[^58] A Tv. 7. § (1) bekezdése alapján rehabilitációs nappali ellátásra történő átcsoportosítás esetén egy krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy helyébe
 
-b) az átcsoportosított kapacitásnál magasabb krónikus szorzójú rehabilitációs osztály keretében működtetni kívánt, külön jogszabály szerint finanszírozott nappali kórházi ellátás kialakításához a szakmai osztály ágyszámának függvényében tíz ágyanként hat krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy
+a) pszichiátriai rehabilitáció keretében működtetni kívánt nappali kórházi vagy nappali ellátás esetén napi 1,2 beteglétszám,
 
-[^26]: A 8/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+b) az a) pontban nem említett más rehabilitációs szakma keretében működtetni kívánt rehabilitációs nappali kórházi vagy nappali ellátás esetén napi 1 beteglétszám
+
+állapítható meg, azzal, hogy amennyiben nappali kórházi vagy nappali ellátásra az a) és b) pont szerinti kapacitásmennyiséget meghaladóan csoportosítanak át, az az ott meghatározottak arányában történhet.
+
+[^55]: A 8/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^56]: A 8/A. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 10. pontja szerint módosított szöveg.
+[^57]: A 8/A. § (1) bekezdés e) pontját a 363/2010. (XII. 30.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^58]: A 8/A. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

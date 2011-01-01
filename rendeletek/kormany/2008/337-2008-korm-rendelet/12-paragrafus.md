@@ -1,57 +1,57 @@
 ## Az előzetes többletkapacitás-befogadási eljárás
 
-12. § (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
+12. §[^78] (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
 
 a) címzett támogatás szakmai programja,
 
 b) központi költségvetésből támogatott egyéb beruházás,
 
-c) európai uniós pályázat,
+c) európai uniós forrásból támogatott pályázat,
 
-d) az Új Magyarországért Fejlesztési Tervben foglaltak,
+d) egyéb regionális fejlesztések,
 
-e) egyéb regionális fejlesztések,
+e) népegészségügyi programok
 
-f) népegészségügyi programok
-
-## megvalósítása többletkapacitások befogadását igényli.
+megvalósítása többletkapacitások befogadását igényli.
 
 (2) Az (1) bekezdés szerinti befogadásnál figyelembe kell venni, hogy a befogadásra kerülő többletkapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg
 
-a) a költségvetési törvényben rendelkezésre álló források, és
+a) a költségvetési törvényben rendelkezésre álló források,
 
-b) a befogadással összefüggésben megszűnő szerződés következtében felszabaduló finanszírozás, valamint
+b) a befogadással összefüggésben megszűnő szerződés következtében felszabaduló finanszírozás és
 
 c) a finanszírozási szabályok módosításának eredményeként felszabaduló források
 
-## együttes összegét.
+együttes összegét.
 
-(3)[^32] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal kell benyújtani a kérelmezett többletkapacitás működtetési helye szerint illetékes RET-hez és az egészségügyi miniszterhez. A kérelem részét képezi a befogadásra javasolt egészségügyi szolgáltatások finanszírozására – a pályázat megvalósítását követően, a pályázatban előírt fenntartási időszak egészére – vonatkozó pénzügyi hatásvizsgálat, amelynek tartalmaznia kell a kérelmezett befogadással összefüggő egyéb finanszírozási és kapacitás-módosítási feltételeket is.
+(3) Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal kell elektronikusan és nyomtatott formában benyújtani az egészségügyért felelős miniszterhez. A kérelem az alábbiakat tartalmazza:
 
-(4) A RET az (1) bekezdés szerinti befogadási kérelmet véleményezi, és az azonos pályázati kiíráshoz kapcsolódó többletkapacitás előzetes befogadására beérkezett több kérelem esetén a befogadásokra vonatkozóan rangsort állapít meg. A RET a rangsort a befogadási kérelem beérkezését követő 30 napon belül megküldi az egészségügyi miniszternek.
+a) a pályázat részét képező és a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
 
-(5)[^33]
+b) a kérelmezett kapacitás tervezett kihasználtságának, betegforgalmi adatainak bemutatását,
 
-(6) Amennyiben a RET az (1) bekezdés szerinti befogadási kérelmet nem véleményezi vagy nem támogatja, az egészségügyi miniszter a kapacitásbővítési kérelem elbírálása érdekében az ellátási érdek fennállásának eldöntéséhez megkéri az ÁNTSZ RET székhelye szerint illetékes regionális intézetének véleményét.
+c) a Tv. szerinti elérési szabályoknak történő megfelelést,
 
-(7) Az egészségügyi miniszter a RET által megállapított rangsor megérkezését – ennek hiányában a (4) bekezdés szerinti határidő eredménytelen elteltét – követő 15 napon belül a befogadásra vonatkozó, az OEP-pel együttesen készített javaslatát a pályázó által a fenntartható finanszírozásra vonatkozóan készített pénzügyi hatásvizsgálattal, valamint – ha készült ilyen – az ÁNTSZ (6) bekezdés szerinti véleményével együtt megküldi a pénzügyminiszternek.
+d) a kérelmezett kapacitással összefüggésben tervezett ellátási területet,
 
-(8) A pénzügyminiszter a (7) bekezdés szerinti javaslat beérkezését követő 30 napon belül érdemi választ ad az egészségügyi miniszternek a befogadással történő egyetértése, illetve annak elutasítása tárgyában. Elutasítás esetén az érdemi válasz közlése indoklással együtt történik.
+e) a kérelmezett kapacitásbefogadás tekintetében a finanszírozás megkezdésének tervezett időpontját, a fejlesztés egyes részelemeinek – részletes indoklással ellátott – finanszírozására vonatkozó bontásban, amennyiben a fejlesztés egyes kapacitásbefogadással érintett részelemeinek megvalósulása és a fejlesztés egészének tervezett finanszírozása időben eltér,
 
-(9) Az egészségügyi miniszter a pénzügyminiszter (8) bekezdés szerinti értesítésének beérkezését követően haladéktalanul értesíti a befogadást kérő személyt, az OEP-et és az illetékes RET-et a döntéséről, és a befogadással összefüggésben megállapított feltételekről.
+f) a fenntartási időszakra vonatkozó pénzügyi hatásvizsgálatot, amely magában foglalja
 
-(10) A (9) bekezdésben foglalt értesítést a pályázó a támogatás kérésére irányuló szakmai programjához csatoltan nyújtja be.
+fa) az ellátandó feladatra vonatkozó várható éves bevételeket és kiadásokat, valamint
 
-(11) Az (1) bekezdés szerinti támogatás iránti igény elutasítása esetén az egészségügyi miniszter a pályázó előzetes kapacitásbefogadását törli. A támogatási igény elfogadása esetén a beruházás megvalósulását követő 30 napon belül az illetékes REP a külön jogszabályban foglaltakat is figyelembe véve finanszírozási szerződést köt az egészségügyi szolgáltatóval.
+fb) a tervezett kapacitásbővítésnek az egészségügyi szolgáltató egészére gyakorolt hatásának bemutatását, tekintettel a más szervezeti egységeknél megjelenő többletköltségekre, illetve a más egységeknél elérhető megtakarításokra, méretgazdaságossági szempontokra.
 
-(12) Amennyiben a támogatás a kérelemben foglaltaktól eltérően került elfogadásra, akkor ezen többletkapacitás befogadásához az egészségügyi miniszter és a pénzügyminiszter egyetértése szükséges.
+(4) Az egészségügyért felelős miniszter a kapacitásbővítési kérelem elbírálása érdekében az ellátási érdek fennállásának eldöntéséhez kikéri az OTH és az OEP véleményét, amelyet az OEP és az OTH a megkereséstől számított 10 napon belül megküld.
 
-(13) Amennyiben a pályázó a pályázatában a működés megkezdésére megjelölt határidőt követő fél éven belül – érvényes működési engedéllyel – nem kezdeményezi a finanszírozási szerződés megkötését, az OEP a pályázó előzetes kapacitásbefogadását törli. Ilyen esetben a többletkapacitás befogadására ismételt pályázatot kell benyújtani.
+(5) Az OTH (4) bekezdés szerinti véleménye az alábbiakat tartalmazza:
 
-(14) Az OEP az előzetes befogadásokról évenkénti bontásban nyilvántartást vezet, amelyet minden év február 28-áig a Magyar Közlönyben és az OEP honlapján közzé kell tenni.
+a) a megye érintett részén kimutatható-e kapacitáshiány,
 
-(15)[^34] Amennyiben az előzetes többletkapacitás-befogadási eljárás keretében hozott döntés a befogadás fedezetéül a régió rendelkezésére álló járóbeteg-szakellátási kapacitásokat jelölte meg, ez a befogadás a Tv. 4. § (8) bekezdése szerinti kapacitásmennyiség régióra eső részének terhére történhet.
+b) vannak-e szünetelő kapacitások az érintett szakmában,
 
-[^32]: A 12. § (3) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^33]: A 12. § (5) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 14. § (3) bekezdés ac) alpontja hatályon kívül helyezte.
-[^34]: A 12. § (15) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
+
+(6) Az OEP (4) bekezdés szerinti véleménye a (3) bekezdés szerinti kérelem finanszírozási szempontú véleményezésén túlmenően a többletkapacitás-befogadás mértékére és feltételeire vonatkozó javaslatát is tartalmazza.
+
+[^78]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
