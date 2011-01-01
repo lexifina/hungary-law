@@ -14,4 +14,6 @@ e) 37. §-a tekintetében az ágazati szabályok alapján az adott tevékenység
 
 hatáskörrel rendelkező illetékes hatóságot jelöli ki.
 
-(2) A Kormány a szolgáltatás felügyeletét ellátó hatóságként az ágazati szabályokban nem szabályozott szolgáltatási tevékenységek vonatkozásában a Szolgtv. 37. § (1) bekezdése tekintetében a szolgáltatás felügyeletét ellátó hatóságként a Nemzeti Fogyasztóvédelmi Hatóságot jelöli ki.
+(2)[^1] A Kormány a szolgáltatás felügyeletét ellátó hatóságként az ágazati szabályokban nem szabályozott szolgáltatási tevékenységek vonatkozásában a Szolgtv. 37. § (1) bekezdése tekintetében a szolgáltatás felügyeletét ellátó hatóságként a fogyasztóvédelmi hatóságot jelöli ki.
+
+[^1]: A 4. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 251. §-a szerint módosított szöveg.
