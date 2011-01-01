@@ -1,0 +1,1 @@
+## „(6) Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.”
