@@ -1,0 +1,3 @@
+## 17. § A Pártfogó Felügyelői Szolgálat tevékenységéről, valamint ehhez kapcsolódóan egyes igazságügyminiszteri rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 17. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+
+## „(2) Ha az új munkahely kijelölése folytán a közérdekű munka végrehajtásának ellenőrzésére más fővárosi, megyei igazságügyi szolgálat illetékes, az ügy iratait a 10. §-ban foglaltak teljesítésére és a közérdekű munka végrehajtásának ellenőrzésére az addig eljáró fővárosi, megyei igazságügyi szolgálat ahhoz a fővárosi, megyei igazságügyi szolgálathoz teszi át, amelynek illetékességi területén az új munkahely működik.”

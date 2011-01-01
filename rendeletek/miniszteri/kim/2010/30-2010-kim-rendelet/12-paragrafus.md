@@ -1,0 +1,3 @@
+## 11. § A Pártfogó Felügyelői Szolgálat tevékenységéről, valamint ehhez kapcsolódóan egyes igazságügyminiszteri rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 2. §-a helyébe az alábbi rendelkezés lép:
+
+## „2. § Ha az ügyész vagy a bíróság, illetve a büntetés-végrehajtási bíró (a továbbiakban a bíróság és a büntetés-végrehajtási bíró együtt: bíróság) pártfogó felügyelői vélemény beszerzését rendeli el, annak elkészítésére a terhelt lakóhelye (tartózkodási helye) szerint illetékes fővárosi, megyei igazságügyi szolgálatot rendeli ki, azt a fővárosi, megyei igazságügyi szolgálat vezetője által kijelölt pártfogó felügyelő készíti el.”
