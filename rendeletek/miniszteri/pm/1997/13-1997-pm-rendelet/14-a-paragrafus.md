@@ -1,1 +1,0 @@
-## 14. § Kutyavezetői pótlék a pénzügyőrt akkor is megilleti, ha a szolgálati feladatát valamilyen oknál fogva átmenetileg nem látja el, de a kutya gondozását változatlanul végzi (pl. szabadság, betegség). Nem jogosult pótlékra, ha a kutya gondozását, annak kórházi ápolása miatt egy naptári hónapot meghaladó időn túl nem végzi.
