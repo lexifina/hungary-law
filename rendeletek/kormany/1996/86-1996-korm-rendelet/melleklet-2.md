@@ -100,13 +100,13 @@
 
 ## 1.21. közgyógyellátási igazolvány;
 
-## 1.22. az ÁNTSZ hatósági jogkörének gyakorlására jogosító igazolvány;
+## 1.22.[^55] az Állami Népegészségügyi és Tisztiorvosi Szolgálat szervei, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító igazolvány;
 
 ## 1.23. hatósági bizonyítvány szociális rászorultságról egészségügyi szolgáltatásra való jogosultsághoz;
 
 ## 1.24. szakorvosi, szakfogorvosi, szakgyógyszerészi bizonyítványok;
 
-## 1.25. az Országos Nyugdíjbiztosítási Főigazgatóság és igazgatási szervei ellenőreinek ellenőri igazolványa;
+## 1.25.[^56] az Országos Nyugdíjbiztosítási Főigazgatóság, a nyugdíjbiztosítási igazgatóságok, és egyéb nyugdíjbiztosítási igazgatási szervek ellenőreinek ellenőri igazolványa;
 
 ## 1.26. a HM és az MH szervek hivatásos és szerződéses állománya, továbbá egyes köztisztviselői, közalkalmazottai, valamint az önkéntes tartalékosok részére rendszeresített szolgálati, munkáltatói igazolványok, valamint a nyugállományú katonák igazolványa;
 
@@ -126,11 +126,11 @@
 
 ## 1.34. a nemzetbiztonsági szolgálatok hivatásos állománya részére rendszeresített szolgálati igazolványok, a nemzetbiztonsági szolgálatok közalkalmazottai részére rendszeresített munkáltatói igazolványok;
 
-## 1.35. a Vám- és Pénzügyőrség szolgálati igazolványai;
+## 1.35.[^57] a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjainak szolgálati igazolványai;
 
 ## 1.36. büntetés-végrehajtás igazolványai;
 
-## 1.37. a Rendvédelmi Szervek Védelmi Szolgálatának kiegészítő igazolványa;
+## 1.37.[^58] a Nemzeti Védelmi Szolgálat kiegészítő igazolványa;
 
 ## 1.38. az Igazságügyi és Rendészeti Minisztérium, továbbá az igazságügyi és rendészeti miniszter irányítása alá tartozó szervek köztisztviselői, közalkalmazotti és hivatásos állománya részére rendszeresített szolgálati és munkáltatói igazolványok;
 
@@ -146,7 +146,7 @@
 
 ## 1.44. a bírósági végrehajtók, a bírósági végrehajtó helyettesek, a bírósági végrehajtójelöltek, helyettes bírósági végrehajtók igazolványai;
 
-## 1.45. az Igazságügyi Hivatal dolgozójának dolgozói igazolványa;
+## 1.45.[^59] a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata, továbbá a fővárosi és megyei kormányhivatal igazságügyi szolgálata dolgozójának dolgozói igazolványa;
 
 ## 1.46. a Magyar Köztársaság Ügyészsége szolgálati igazolványai;
 
@@ -172,7 +172,7 @@
 
 ## 1.57. futárigazolványok;
 
-## 1.58. APEH adóigazolvány;
+## 1.58.[^60] adóigazolvány;
 
 ## 1.59. regisztrált mérlegképes könyvelői igazolvány;
 
@@ -240,21 +240,21 @@
 
 ## 1.91. lobbiigazolvány;
 
-## 1.92.[^55] anyakönyvi kivonat, anyakönyv.
+## 1.92.[^61] anyakönyvi kivonat, anyakönyv.
 
 ## 1.92. közrendvédelmi terület okmányai;
 
-## 1.93.[^56] az Országos Munkavédelmi és Munkaügyi Főfelügyelőség hatósági jogkörének gyakorlására jogosító munkabiztonsági felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
+## 1.93.[^62] az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, továbbá a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
 
 ## 1.94. a Nemzeti Hírközlési Hatóság hatósági ellenőrzésre és intézkedésre feljogosított személyeinek igazolványa;
 
-## 1.95.[^57] a Gazdasági és Közlekedési Minisztérium, a Nemzeti Közlekedési Hatóság, a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
+## 1.95.[^63] a Nemzeti fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság és a fővárosi és megyei kormányhivatal közlekedési felügyelősége, a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
 
 ## 1.96. bányafelügyeleti hatósági feladatokat ellátó személyek részére rendszeresített igazolványok;
 
 ## 1.97. igazolvány a közlekedési balesetet kivizsgáló szakmai bizottság tagja, illetve a szakmai kivizsgáló részére;
 
-## 1.98.[^58] a „Nemzeti Fogyasztóvédelmi Hatóság Regionális Felügyelősége” igazolvány;
+## 1.98.[^64] fogyasztóvédelmi hatóság igazolványa;
 
 ## 1.99. az Önkormányzati és Területfejlesztési Minisztérium, továbbá az önkormányzati és területfejlesztési miniszter alá tartozó szervek köztisztviselői, közalkalmazotti és hivatásos állománya részére rendszeresített szolgálati és munkáltatói igazolványok.
 
@@ -288,7 +288,7 @@
 
 ## 2.14. Külügyminisztériumi munkáltatói igazolvány és ideiglenes belépő;
 
-## 2.15. belépési engedély a Vám- és Pénzügyőrség objektumaiba;
+## 2.15.[^65] belépési engedély a Nemzeti Adó- és Vámhivatal vámszerveinek és nyomozóhatósági szerveinek objektumaiba;
 
 ## 2.16. belépési engedélyek az Országgyűlési Biztos Hivatalába;
 
@@ -316,27 +316,27 @@
 
 ## 2.28. belépési engedély a büntetés-végrehajtás objektumaiba;
 
-## 2.29.[^59]
+## 2.29.[^66]
 
 ## 2.30. belépésre és tartózkodásra jogosító engedély a határátkelőhelyen hatósági vagy jogszabály alapján egyéb feladatot ellátó személynek;
 
 ## 2.31. belépésre jogosító fényképes és ideiglenes belépőkártyák a Paksi Atomerőmű fokozottan őrzött üzemi területére;
 
-## 2.32.[^60] a repülőtér üzemben tartója által kibocsátott belépésre jogosító igazolványok a nemzetközi kereskedelmi repülőterek területére;
+## 2.32.[^67] a repülőtér üzemben tartója által kibocsátott belépésre jogosító igazolványok a nemzetközi kereskedelmi repülőterek területére;
 
 ## 2.33. belépésre jogosító igazolványok a HungaroControl Magyar Légiforgalmi Szolgálat Zrt. objektumaiba;
 
-## 2.34.[^61] a repülőtér üzemben tartója által kibocsátott behajtási és útvonalengedélyek a nemzetközi kereskedelmi repülőterek területére;
+## 2.34.[^68] a repülőtér üzemben tartója által kibocsátott behajtási és útvonalengedélyek a nemzetközi kereskedelmi repülőterek területére;
 
-## 2.35.[^62] a nemzetközi kereskedelmi repülőtér területén alkalmazott belterületi gépjármű-vezetői engedélyek;
+## 2.35.[^69] a nemzetközi kereskedelmi repülőtér területén alkalmazott belterületi gépjármű-vezetői engedélyek;
 
-## 2.36.[^63] a légiközlekedési védelmi hatósági felügyelet és a légiközlekedés védelmi ellenőrzés ellátására jogosult személyek részére kiállított a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre jogosító okmány.
+## 2.36.[^70] a légiközlekedési védelmi hatósági felügyelet és a légiközlekedés védelmi ellenőrzés ellátására jogosult személyek részére kiállított a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre jogosító okmány.
 
 ## 3. Egyéb okmányok
 
 ## A Kormány által határozatban meghatározott egyes kiemelt jelentőségű események, rendezvények igazolványai, belépési engedélyei.
 
-2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^64]
+2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^71]
 
 ## Az okmányvédelmi kategóriák meghatározásánál irányadó szempontok
 
@@ -360,13 +360,20 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^52]: Az 1. számú melléklet II. pontjának 22. alpontját a 115/2007. (V. 24.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^53]: Az 1. számú melléklet II. részének 23. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^54]: Az 1. számú melléklet III. pontjának 1.6. alpontja a 115/2007. (V. 24.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^55]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^56]: Az 1. számú melléklet III. részének 1.93. pontja a 70/2007. (IV. 14.) Korm. rendelet 7. § (4) bekezdésének g) pontja szerint módosított szöveg.
-[^57]: Az 1. számú melléklet II. részének 1.95. pontja a 156/2008. (VI. 6.) Korm. rendelet 2. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 2. § (5) bekezdése alapján a Magyar Vasúti Hivatal jogutódja – a Ktv. 14. § (1) bekezdés c) pontjának alkalmazása szempontjából is – a Nemzeti Közlekedési Hatóság; lásd még a 2. § (4) bekezdését.
-[^58]: Az 1. számú melléklet III. részének 1.98. alpontja a 226/2007. (VIII. 31.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^59]: Az 1. számú melléklet III. részének 2.29. pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 7. pontja hatályon kívül helyezte.
-[^60]: Az 1. számú melléklet III. pont 2.32. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^61]: Az 1. számú melléklet III. pont 2.34. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^62]: Az 1. számú melléklet III. pont 2.35. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^63]: Az 1. számú melléklet III. pont 2.36. alpontját a 169/2010. (V. 11.) Korm. rendelet 47. §-a iktatta be.
-[^64]: A 2. számú melléklet címe a 299/2006. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^55]: Az 1. melléklet III. fejezet 1. pont 1.22. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet III. fejezet 1. pont 1.25. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^57]: Az 1. számú melléklet III. pont 1.35. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^58]: Az 1. számú melléklet III. rész 1. Személyi és jogosultságot igazoló okmányok pont 1.37. alpontja a 293/2010. (XII. 22.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
+[^59]: Az 1. melléklet III. fejezet 1. pont 1.45. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^60]: Az 1. számú melléklet III. pont 1.58. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^61]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^62]: Az 1. melléklet III. fejezet 1. pont 1.93. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^63]: Az 1. melléklet III. fejezet 1. pont 1.95. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.
+[^64]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
+[^65]: Az 1. számú melléklet III. pont 2.15. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^66]: Az 1. számú melléklet III. részének 2.29. pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 7. pontja hatályon kívül helyezte.
+[^67]: Az 1. számú melléklet III. pont 2.32. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^68]: Az 1. számú melléklet III. pont 2.34. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^69]: Az 1. számú melléklet III. pont 2.35. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^70]: Az 1. számú melléklet III. pont 2.36. alpontját a 169/2010. (V. 11.) Korm. rendelet 47. §-a iktatta be.
+[^71]: A 2. számú melléklet címe a 299/2006. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
