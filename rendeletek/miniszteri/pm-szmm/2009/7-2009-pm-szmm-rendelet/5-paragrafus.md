@@ -4,6 +4,9 @@
 
 a) munkavállalók számáról nem és kor szerinti megoszlás szerint,
 
-b) a munkaadók számáról éves átlagos statisztikai állományi létszám feltüntetésével havonta adatot szolgáltat a Foglalkoztatási és Szociális Hivatal részére.
+b)[^5] a munkaadók számáról éves átlagos statisztikai állományi létszám feltüntetésével havonta adatot szolgáltat a Foglalkoztatási Hivatal részére.
 
-(2) Az adatokat a Foglalkoztatási és Szociális Hivatal negyedévenként, havonkénti és területi bontásban összesíti, és a negyedévet követő hónap utolsó napjáig megküldi a Szociális és Munkaügyi Minisztérium részére.
+(2)[^6] Az adatokat a Foglalkoztatási Hivatal negyedévenként, havonkénti és területi bontásban összesíti, és a negyedévet követő hónap utolsó napjáig megküldi a Nemzetgazdasági Minisztérium részére.
+
+[^5]: Az 5. § (1) bekezdés b) pontja a 27/2010. (XII. 31.) NGM rendelet 65. § (2) bekezdése szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 65. § (2) bekezdése szerint módosított szöveg.
