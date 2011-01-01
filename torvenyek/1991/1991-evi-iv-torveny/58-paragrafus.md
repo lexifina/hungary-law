@@ -68,9 +68,9 @@ k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű
 
 l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 90 napot nem haladja meg,
 
-m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahelymegtartási esélyei testi vagy szellemi károsodása miatt csökkennek. Ettől eltérően a 41/A. § alkalmazása szempontjából a megváltozott munkaképességű személy fogalmát külön jogszabály határozza meg,
+m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek; a rehabilitációs hozzájárulás fizetési kötelezettség megállapítása szempontjából a 42. §-ban meghatározott személy,
 
-n) alkalmi foglalkoztatásnak minősülő munkaviszony: az egyszerűsített foglalkoztatásról szóló törvény által szabályozott munka,
+n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 
 o) közhasznú tevékenység: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. §-ának c) pontjában felsorolt tevékenységek,
 
@@ -102,7 +102,7 @@ d)
 
 a) – az államháztartásért felelős miniszterrel egyetértésben – az álláskeresési járadék összege kiszámításának, ennek keretében a 26. § (1) bekezdésében meghatározott járulékalap havi átlagos összege meghatározásának, valamint az álláskeresési járadék és álláskeresési segély folyósításának
 
-b) az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés részletes feltételeinek, továbbá az álláskeresési megállapodás,
+b) az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés részletes feltételeinek,
 
 c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 
@@ -127,3 +127,5 @@ b) munkaviszonyt
 említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tagállamaiban hatályos jogszabályok szerinti megfelelő ellátásokat és jogviszonyokat is érteni kell.
 
 (10) Felhatalmazást kap a Kormány, hogy az e törvény szerinti magán-munkaközvetítési tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a magán-munkaközvetítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
+
+(11) A rehabilitációs hozzájárulást – a 2011. január 1-jétől 2011. június 30-ig terjedő időszak tekintetében – a 42. §-ban foglaltaktól eltérően a törvény 2010. december 31-én hatályos 58. § (5) bekezdés m) pontjában foglaltak figyelembevételével kell megfizetni.

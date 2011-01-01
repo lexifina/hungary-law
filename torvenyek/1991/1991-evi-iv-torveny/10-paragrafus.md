@@ -6,4 +6,4 @@
 
 (3) A MAT megbízatása négy évre szól.
 
-(4) Ha a MAT a megbízatásának lejártát követő munkanapig nem alakul meg, a Munkaerőpiaci Alap foglalkoztatási és rehabilitációs alaprészével kapcsolatos döntési jogkörét a miniszter gyakorolja.
+(4) Ha a MAT a megbízatásának lejártát követő munkanapig nem alakul meg, a Munkaerőpiaci Alap foglalkoztatási alaprészével kapcsolatos döntési jogkörét a miniszter gyakorolja.

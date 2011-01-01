@@ -1,4 +1,4 @@
-55. § (1) Ha a támogatás pénzügyi fedezetéül a Munkaerőpiaci Alap foglalkoztatási, valamint rehabilitációs alaprészének
+55. § (1) Ha a támogatás pénzügyi fedezetéül a Munkaerőpiaci Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
 
 a) központi kerete szolgál, a minisztérium vagy az állami foglalkoztatási szerv,
 

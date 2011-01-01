@@ -1,12 +1,10 @@
 39/A. § (1) A Munkaerőpiaci Alappal a miniszter rendelkezik. Rendelkezési jogát
 
-a) a (2)–(5) bekezdésben foglaltak szerint a MAT-tal,
+a) a (2)–(5) bekezdésben foglaltak szerint a MAT-tal megosztva,
 
-b) a Munkaerőpiaci Alap képzési alaprésze tekintetében – a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározottak szerint – az oktatásért felelős miniszterrel
+b) a Munkaerőpiaci Alap képzési alaprésze tekintetében – a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározottak szerint – az oktatásért felelős miniszterrel megosztva
 
-c)
-
-megosztva gyakorolja.
+gyakorolja.
 
 (2) A MAT a Munkaerőpiaci Alap tekintetében
 
@@ -18,15 +16,15 @@ b) dönt
 
 2. az érdekegyeztetés működési feltételeinek biztosításához történő hozzájárulásról, annak felhasználási módjáról,
 
-3. a gazdaságfejlesztést, területfejlesztést szolgáló központi programokhoz való csatlakozásról, továbbá kiemelten a rehabilitációs foglalkoztatást és az esélyegyenlőséget segítő programok, valamint a munkaerőpiaci intézményfejlesztési programok Munkaerőpiaci Alapból történő hazai finanszírozásáról
+3. a gazdaságfejlesztést, területfejlesztést szolgáló központi programokhoz való csatlakozásról, továbbá kiemelten az esélyegyenlőséget segítő programok Munkaerőpiaci Alapból történő hazai finanszírozásáról,
 
 4. a projektek benyújtását megelőzően a PHARE, majd az Európai Szociális Alap társfinanszírozásával megvalósuló munkaerőpiaci programok Munkaerőpiaci Alapból történő hazai finanszírozásáról
 
-5. az állami foglalkoztatási szervnek a MAT által indított programokhoz tartozó feladatairól, s az ezzel összefüggő, a Munkaerőpiaci Alap működési alaprészében nem tervezett, a 39. § (6) bekezdésében meghatározott kiadások finanszírozásáról;
+5. az állami foglalkoztatási szervnek a MAT által indított programokhoz tartozó feladatairól;
 
 c) véleményezi a Munkaerőpiaci Alap éves költségvetését;
 
-d) véleményezi az álláskeresők támogatásaira, a foglalkoztatást elősegítő támogatásokra, a Munkaerőpiaci Alappal való gazdálkodásra vonatkozó jogszabálytervezeteket, valamint – a munkahelyteremtő támogatások kivételével – a miniszter egyedi döntéseinek tervezetét. A miniszter az álláskeresők támogatásaira, a foglalkoztatást elősegítő támogatásokra, a munkahelyteremtést, foglalkoztatási szerkezetátalakítást elősegítő programok és támogatások szabályaira vonatkozó, a Munkaerőpiaci Alap rehabilitációs alaprészéből nyújtható támogatásra vonatkozó, valamint a 19. § (2) bekezdésében meghatározott támogatásra vonatkozó rendeletet a MAT véleményének meghallgatása nélkül adja ki, ha a MAT álláspontja az erről szóló előterjesztés benyújtását követő 30 napon belül nem született meg;
+d) véleményezi az álláskeresők támogatásaira, a foglalkoztatást elősegítő támogatásokra, a Munkaerőpiaci Alappal való gazdálkodásra vonatkozó jogszabálytervezeteket, valamint – a munkahelyteremtő támogatások kivételével – a miniszter egyedi döntéseinek tervezetét. A miniszter az álláskeresők támogatásaira, a foglalkoztatást elősegítő támogatásokra, a munkahelyteremtést, foglalkoztatási szerkezetátalakítást segítő programok és támogatások szabályaira vonatkozó rendeletet a MAT véleményének meghallgatása nélkül adja ki, ha a MAT álláspontja az erről szóló előterjesztés benyújtását követő 30 napon belül nem született meg;
 
 e) értékeli
 
@@ -54,13 +52,13 @@ a) a foglalkoztatási alaprész tekintetében dönt
 
 3. foglalkoztatási és képzési célú közalapítványok támogatásáról;
 
-b) a rehabilitációs alaprész tekintetében dönt a központi és a decentralizált keret arányáról, a decentralizálás elveiről, valamint az átcsoportosításokról;
+b)
 
 c) a képzési alaprész tekintetében rendszeresen tájékoztatást kérhet a Nemzeti Szakképzési és Felnőttképzési Tanácsnak a Munkaerőpiaci Alapot érintő javaslatairól.
 
 (4) A miniszter
 
-a)
+a) dönt a közfoglalkoztatási támogatások előirányzat központi és decentralizált keretének arányáról és a decentralizálás elveiről;
 
 b) dönt a Munkaerőpiaci Alap egyes alaprészei közötti átcsoportosításról, ha a MAT döntése
 
@@ -70,7 +68,7 @@ b) dönt a Munkaerőpiaci Alap egyes alaprészei közötti átcsoportosításró
 
 3. az előterjesztés benyújtásától számított 30 napon belül nem születik meg;
 
-c) a foglalkoztatási és a rehabilitációs alaprész tekintetében dönt a központi és decentralizált pénzeszközök arányáról, a decentralizálás elveiről, ha a MAT döntése
+c) a foglalkoztatási alaprész tekintetében dönt a központi és decentralizált pénzeszközök arányáról, a decentralizálás elveiről, ha a MAT döntése
 
 1. jogszabályba ütközik,
 
@@ -82,7 +80,7 @@ e) a MAT-nak a (2) bekezdés g) pontja szerinti kezdeményezésére szakértői 
 
 (5) A miniszter dönt
 
-a) – a b) pontban meghatározott kivétellel – a foglalkoztatási és rehabilitációs alaprész központi pénzügyi keretének felhasználásáról,
+a) – a b) pontban meghatározott kivétellel – a foglalkoztatási alaprész központi pénzügyi keretének felhasználásáról,
 
 b) központi foglalkoztatási, képzési és munkaerőpiaci integrációs programok indításáról és költségeiről, ha a MAT döntése
 
@@ -102,7 +100,7 @@ b) a kiadások évközi ütemezésének módosításáról,
 
 c) a Munkaerőpiaci Alap 39. § (3) bekezdésének c), valamint e)–g) pontjaiban meghatározott alaprészek tekintetében a kiadások csökkentéséről.
 
-(9) A Munkaerőpiaci Alap pénzeszközeinek felhasználásáról e törvény, valamint külön jogszabály szerint a foglalkoztatáspolitikáért felelős minisztérium, valamint az állami foglalkoztatási szervek gondoskodnak.
+(9) A Munkaerőpiaci Alap pénzeszközeinek felhasználásáról e törvény, valamint külön jogszabály szerint a miniszter, valamint az állami foglalkoztatási szervek gondoskodnak.
 
 (10) A Munkaerőpiaci Alap bevételi és kiadási előirányzatát és annak alaprészek közötti megosztását az Országgyűlés címenként és alcímenként a költségvetési törvényben hagyja jóvá. Az alaprészen belüli további jogcímeket a miniszter állapítja meg.
 

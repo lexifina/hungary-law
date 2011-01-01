@@ -12,7 +12,7 @@ d) aki rehabilitációs járadékban részesül,
 
 e) akinek munkaviszonya várhatóan egy éven belül megszűnik, és ezt a munkaadó a munkavállalóval és az állami foglalkoztatási szervvel előzetesen írásban közölte, vagy
 
-f) aki közhasznú munkavégzésben vesz részt, és a képzésben való részvételt vállalja, továbbá
+f) aki közfoglalkoztatásban vesz részt, és a képzésben való részvételt vállalja, továbbá
 
 g) aki munkaviszonyban áll és rendszeres foglalkoztatása képzés nélkül nem biztosítható.
 
@@ -32,7 +32,7 @@ aa) keresetkiegészítés vagy keresetpótló juttatás, valamint
 
 ab) a képzéssel kapcsolatos költségek megtérítése;
 
-b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a rendelkezésre állási támogatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése
+b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a bérpótló juttatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése
 
 adható.
 

@@ -4,7 +4,7 @@
 
 ## Munkaerőpiaci szolgáltatások
 
-13/A. § (1) Az állami foglalkoztatási szerv a munkahelykeresést, a munkához, valamint megfelelő munkaerőhöz jutást, továbbá a munkahely megtartását szolgáltatások nyújtásával is elősegíti.
+13/A. § (1) Az állami foglalkoztatási szerv és az állami felnőttképzési intézmény a munkahelykeresést, a munkához, valamint megfelelő munkaerőhöz jutást, továbbá a munkahely megtartását szolgáltatások nyújtásával is elősegíti.
 
 (2) A munkaerőpiaci szolgáltatások formái a következők:
 
@@ -14,7 +14,11 @@ b) munka-, pálya-, álláskeresési, rehabilitációs, helyi (térségi) foglal
 
 c) munkaközvetítés.
 
-(3) Támogatás nyújtható annak, aki a (2) bekezdés a)–b) pontjában meghatározott munkaerőpiaci szolgáltatást a (4) bekezdés szerinti jogszabályban meghatározott feltételekkel nyújtja.
+(3) Az állami foglalkoztatási szerv a (2) bekezdés a)–b) pontjában meghatározott munkaerőpiaci szolgáltatást a (4) bekezdés szerinti jogszabályban meghatározott feltételekkel az alábbiak szerint biztosítja:
+
+a) pályázati eljárás eredményeként támogatást nyújt, vagy
+
+b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2003. évi CXXIX. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
 
 (4) Felhatalmazást kap a
 

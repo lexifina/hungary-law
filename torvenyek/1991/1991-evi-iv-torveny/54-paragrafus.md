@@ -4,11 +4,11 @@
 
 54. § (1)
 
-(2) A 43. § (2) bekezdésének a) pontja, továbbá a pályázat alapján nyújtható foglalkoztatást elősegítő támogatások esetében a pályázati felhívásban az elbírálásra nyitva álló határidő legfeljebb három hónapban állapítható meg. Ha e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott támogatásban természetes személy részesül, a hatósági szerződést csak személyesen kötheti meg.
+(2) A 40. § (2) bekezdésének a) pontja, továbbá a pályázat alapján nyújtható foglalkoztatást elősegítő támogatások esetében a pályázati felhívásban az elbírálásra nyitva álló határidő legfeljebb három hónapban állapítható meg. Ha e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott támogatásban természetes személy részesül, a hatósági szerződést csak személyesen kötheti meg.
 
 (3) Ha az állami foglalkoztatási szerv nem e törvény vagy a felhatalmazása alapján kiadott jogszabály, hanem más jogszabály alapján nyújt a foglalkoztatás elősegítése érdekében támogatást, a támogatással kapcsolatos ügyben az eljárására e törvény rendelkezéseit kell megfelelően alkalmazni, kivéve, ha a támogatásról szóló jogszabály ettől eltérően rendelkezik.
 
-(4) A közösségi jogszabályok szerinti migráns munkavállaló munkanélküli ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot negyvenöt munkanapon belül kell meghozni.
+(4) A közösségi jogszabályok szerinti migráns munkavállaló munkanélküli ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot két hónapon belül kell meghozni.
 
 (5) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabály által szabályozott
 
@@ -16,7 +16,7 @@ a) kérelemre indult közigazgatási eljárásban az ismert ügyfelet az eljár�
 
 b) hivatalból folytatott közigazgatási eljárásban az ügyfélnek az eljáró hatóság felhívására közölnie kell az érdemi döntéshez szükséges adatokat, valamint a természetes személyazonosító adatait.
 
-(6) Az e törvényben, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott közigazgatási hatósági ügyben a hiánypótlási felhívást a kérelem beérkezésétől számított tíz munkanapon belül kell kibocsátani, a végrehajtás foganatosításáról az önkéntes teljesítés elmaradásának megállapításától számított tíz munkanapon belül kell dönteni.
+(6) Az e törvényben, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott közigazgatási hatósági ügyben a hiánypótlási felhívást a kérelem beérkezésétől számított tizenöt napon belül kell kibocsátani, a végrehajtás foganatosításáról az önkéntes teljesítés elmaradásának megállapításától számított tizenöt napon belül kell dönteni.
 
 (7) Az e törvényben meghatározott nyilvántartásokat magyar nyelven kell vezetni. Az e törvényben meghatározott szerv a hatósági bizonyítványt magyar nyelven állítja ki.
 
@@ -38,7 +38,7 @@ f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci pr
 
 g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
-(10) Az az álláskereső, aki a 35. életévét nem töltötte be, és általános iskolai végzettséggel nem rendelkezik, az 58. § (5) bekezdése d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a (9) bekezdés a)–c) pontjában, valamint e) pontjában foglaltakat köteles teljesíteni.
+(10)
 
 (11) Az állami foglalkoztatási szerv álláskeresőként – kérelmére – azt a személyt veszi nyilvántartásba, aki
 
@@ -48,13 +48,9 @@ b) kötelezettséget vállal arra, hogy az állami foglalkoztatási szervvel a (
 
 együttműködik.
 
-(12) Álláskeresési megállapodást kell kötni azzal az ügyféllel
+(12)
 
-a) akinek részére álláskeresési támogatás megállapítására kerül sor,
-
-b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott rendelkezésre állási támogatásra jogosult.
-
-(13) Álláskeresési megállapodás köthető azzal az ügyféllel, akinek az együttműködési kötelezettségét álláskeresési megállapodásban célszerű szabályozni.
+(13)
 
 (14) Az állami foglalkoztatási szerv – külön jogszabályban meghatározott időponttól – törli az álláskeresők nyilvántartásából az álláskeresőt, ha
 
@@ -76,8 +72,16 @@ h) külön törvény szerint az aktív korúak ellátására jogosult, de egész
 
 i) álláskeresési járadékra, álláskeresési segélyre, valamint vállalkozói járadékra nem jogosult vagy annak folyósítási idejét kimerítette, és külön törvény szerint aktív korúak ellátásának megállapítását kéri, feltéve, hogy a Szoc. tv. 37/B. § (1) bekezdése alapján az állami foglalkoztatási szervvel nem köteles együttműködni.
 
+(14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása szünetel, ha az álláskereső
+
+a) a munkaügyi központ által támogatott képzésben vesz részt,
+
+b) rövid, 90 napot meg nem haladó időtartamú kereső tevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat, továbbá
+
+c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész.
+
 (15) Az állami foglalkoztatási szerv hatósági ellenőrzési tevékenységére a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy az állami foglalkoztatási szerv a személyazonosság megállapítására alkalmas okmány felmutatására szólíthatja fel azt az ügyfelet, akinek személyazonosságát meg kell állapítania.
 
 (16) A nemzetközi egyezmény hatálya alá tartozó személyre e törvény rendelkezéseit az egyezmény szabályai szerint kell alkalmazni.
 
-(17) Az állami foglalkoztatási szerv a (13) bekezdés c)–e) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
+(17) Az állami foglalkoztatási szerv a (14) bekezdés g)–i) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.

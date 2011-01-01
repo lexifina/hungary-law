@@ -1,6 +1,6 @@
 ## Adatvédelmi rendelkezések
 
-57/A. § (1) A foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium, az állami foglalkoztatási szerv és a munkaügyi hatóság az álláskeresési támogatással, a foglalkoztatást elősegítő támogatásokkal, a munkaerőpiaci szolgáltatásokkal, továbbá a külföldiek magyarországi foglalkoztatásával kapcsolatos tevékenysége, valamint hatósági ellenőrzése során, valamint a munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ-számot alkalmazhatja.
+57/A. § (1) A miniszter, az állami foglalkoztatási szerv és a munkaügyi hatóság az álláskeresési támogatással, a foglalkoztatást elősegítő támogatásokkal, a munkaerőpiaci szolgáltatásokkal, továbbá a külföldiek magyarországi foglalkoztatásával kapcsolatos tevékenysége, valamint hatósági ellenőrzése során, valamint a munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ-számot alkalmazhatja.
 
 (2) Az (1) bekezdésben meghatározott szervek a jogszabályban meghatározott feladataik ellátásával összefüggésben a következő adatok nyilvántartására jogosultak:
 

@@ -10,7 +10,7 @@
 
 (6) Ha az önkormányzat a támogatást a (4) bekezdésben meghatározott céltól eltérően használja fel, az állami foglalkoztatási szerv a megállapodást felbontja, és az önkormányzat köteles a támogatás visszafizetésére.
 
-(7) A támogatást a települési önkormányzat részére az ellátást megszüntető határozat jogerőre emelkedésétől számított 60 napon belül kell folyósítani. A folyósítás lebonyolítása a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium és a helyi önkormányzatokért felelős minisztérium megállapodása szerint történik.
+(7) A támogatást a települési önkormányzat részére az ellátást megszüntető határozat jogerőre emelkedésétől számított 60 napon belül kell folyósítani. A folyósítás lebonyolítása a miniszter és a helyi önkormányzatokért felelős miniszter megállapodása szerint történik.
 
 (8)
 

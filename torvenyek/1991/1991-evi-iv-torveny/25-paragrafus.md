@@ -12,7 +12,7 @@ d) munkát akar vállalni, de önálló álláskeresése nem vezetett eredményr
 
 (2) Az (1) bekezdés d) pontjában előírt feltételek alkalmazásában a munkahely akkor megfelelő, ha
 
-a) az álláskereső képzettségi szintjének, vagy az állami foglalkoztatási szerv által felajánlott és a képzettségi szintnek megfelelő képzési lehetőség figyelembevételével megszerezhető képzettségének, vagy az általa utoljára legalább hat hónapig betöltött munkakör képzettségi szintjének megfelel, vagy az általa utoljára legalább hat hónapig ellátott egyéni, illetőleg társas vállalkozói tevékenység képzettségi szintjének megfelel,
+a)
 
 b) egészségi állapota szerint az álláskereső a munka elvégzésére alkalmas,
 
@@ -34,6 +34,6 @@ c) saját részére magánerőből lakás építése [Mt. 140. § (1) bek.]
 
 miatt kerül sor.
 
-(5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség (ideértve a közhasznú foglalkoztatást, valamint a külön jogszabályban meghatározott közmunkát és a közcélú foglalkoztatást is) felajánlható.
+(5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség (ideértve a közfoglalkoztatást is) felajánlható.
 
 (6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.

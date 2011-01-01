@@ -1,1 +1,1 @@
-43/B. § Az állami foglalkoztatási szervek közreműködésével, az Európai Globalizációs Alkalmazkodási Alap bevonásával megvalósuló programok tekintetében a Munkaerőpiaci Alap a támogatásokat elő- és társfinanszírozza. Az előfinanszírozott összeget terheli az Európai Globalizációs Alap által meg nem térített kiadás.
+### 43/B. §

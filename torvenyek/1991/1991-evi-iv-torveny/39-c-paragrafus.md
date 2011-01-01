@@ -6,7 +6,7 @@ b)
 
 c)
 
-d) a rehabilitációs hozzájárulás;
+d)
 
 e) a szakképzési hozzájárulásról és a képzési rendszer fejlesztésének támogatásáról szóló törvényben meghatározott szakképzési hozzájárulás;
 
@@ -14,7 +14,7 @@ f) a központi költségvetési támogatás;
 
 g) az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás végrehajtása érdekében befolyó bevételek;
 
-h) a privatizációból származó bevételek;
+h)
 
 i) egyéb bevételek: a Munkaerőpiaci Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, bírság, késedelmi pótlék, kamatbevétel, a Munkaerőpiaci Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
 

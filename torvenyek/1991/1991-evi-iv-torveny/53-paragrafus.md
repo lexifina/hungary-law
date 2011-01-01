@@ -1,3 +1,3 @@
 53. § (1)–(2)
 
-(3) Felhatalmazást kap a miniszter, hogy rendeletben meghatározza az állami felnőttképzési intézmény feladatait, az állami felnőttképzési intézmény irányítását ellátó szervet, az állami felnőttképzési intézmény vezetőjének jogállását, kinevezésének rendjét, az állami felnőttképzési intézmény irányításának rendjét és szabályait, az állami felnőttképzési intézmény és az állami foglalkoztatási szerv – a Munkaerőpiaci Alapból támogatott – munkaerő-piaci képzések lebonyolításával kapcsolatos együttműködését, az állami felnőttképzési intézmény feladatai ellátásának finanszírozását, a képzési keret felhasználásának szabályait.
+(3)

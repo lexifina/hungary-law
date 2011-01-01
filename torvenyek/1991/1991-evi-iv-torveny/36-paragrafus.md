@@ -4,4 +4,4 @@
 
 (2)
 
-(3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább tizenöt munkanappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
+(3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább huszonegy nappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.

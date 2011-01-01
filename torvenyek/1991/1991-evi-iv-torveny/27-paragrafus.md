@@ -32,13 +32,15 @@ időtartamával.
 
 (7) Az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezése és az álláskeresési járadék folyósításának az (5) bekezdésben foglaltak szerint megállapított kezdő napja közötti időtartam az álláskeresési járadék folyósításának idejébe nem számít be.
 
-(8) Ha az álláskeresési járadékban részesülő személy a járadék folyósítási idejének kimerítését megelőzően határozatlan időtartamú, legalább napi négy óra munkaidejű munkaviszonyt létesít, kérelmére a folyósítási időből még fennmaradó időtartamra járó juttatás összegének a (9) bekezdésben meghatározott mértékét egy összegben ki kell fizetni. A kifizetés további feltétele, hogy az álláskeresési járadékban részesült személy a járadék megszüntetésétől a kifizetés napjáig folyamatosan munkaviszonyban álljon. A munkaviszony fennállását a munkaadó igazolja. A kérelmet az álláskeresési járadék folyósítási idejének lejártát követő 30 napon belül kell benyújtani, a juttatást a kérelem benyújtásától számított negyvenöt munkanapon belül kell kifizetni.
+(8) Ha az álláskeresési járadékban részesülő személy a járadék folyósítási idejének kimerítését megelőzően határozatlan időtartamú, legalább napi négy óra munkaidejű munkaviszonyt létesít, kérelmére a folyósítási időből még fennmaradó időtartamra járó juttatás összegének a (9) bekezdésben meghatározott mértékét egy összegben ki kell fizetni. A kifizetés további feltétele, hogy az álláskeresési járadékban részesült személy a járadék megszüntetésétől a kifizetés napjáig folyamatosan munkaviszonyban álljon. A munkaviszony fennállását a munkaadó igazolja. A kérelmet az álláskeresési járadék folyósítási idejének lejártát követő 30 napon belül kell benyújtani, a juttatást a kérelem benyújtásától számított két hónapon belül kell kifizetni.
 
 (9) A (8) bekezdésben meghatározott, egy összegben kifizetendő juttatás mértéke
 
 a) a munkaviszonynak a folyósítási idő 26. § (5) bekezdésében meghatározott első szakaszában történő létesítése esetén a még hátralévő időtartamra járó juttatás összegének 80 százaléka,
 
 b) a munkaviszonynak a folyósítási idő 26. § (6) bekezdésében meghatározott második szakaszában történő létesítése esetén a még hátralévő időtartamra járó juttatás összegének 30 százaléka.
+
+(9a) Ha az álláskeresési járadékban részesülő személy az álláskeresési járadék folyósítási idejének kimerítését megelőzően nem a lakó- vagy tartózkodási helyén létesít a (8) bekezdésben meghatározott feltételeknek megfelelő munkaviszonyt, a (9) bekezdésben meghatározott mértékű juttatást a részére – kérelmére – egy összegben a kereső tevékenységre vonatkozó bejelentési kötelezettség teljesítését követő legközelebbi számfejtés alkalmával kell kifizetni.
 
 (10) A (9) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
 

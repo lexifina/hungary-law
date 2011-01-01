@@ -1,0 +1,1 @@
+59/A. § 2011. január 1. előtt a Munkaerőpiaci Alap rehabilitációs alaprész terhére megkötött támogatási szerződésekből eredő követelések, illetve az alaprészt terhelő kötelezettségek a XX. Nemzeti Erőforrás Minisztérium fejezet „Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás” nevű fejezeti kezelésű előirányzatot illetik meg, illetve terhelik.

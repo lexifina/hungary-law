@@ -14,11 +14,9 @@ c) a munkaerő-piaci helyzetükkel összefüggő, következő adatokat:
 
 ca) munkaerő-piaci képzésben történő részvétel,
 
-cb) közmunka keretében történő foglalkoztatás,
+cb) közfoglalkoztatás keretében történő foglalkoztatás,
 
-cc) közcélú foglalkoztatás,
-
-cd) közhasznú foglalkoztatás,
+cc)–cd)
 
 ce) munkaerő-piaci programban történő részvétel,
 
@@ -30,7 +28,7 @@ ch) állami foglalkoztatási szerv szolgáltatásainak igénybevétele,
 
 ci) alkalmi foglalkoztatásban történő részvétel,
 
-cj) az álláskeresési megállapodás megkötésének időpontja,
+cj)
 
 d) az álláskeresőként történő nyilvántartással összefüggő következő adatokat:
 

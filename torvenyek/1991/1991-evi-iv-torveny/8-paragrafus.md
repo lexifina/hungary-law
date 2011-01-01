@@ -6,7 +6,7 @@
 
 (4) A helyi önkormányzat a külön törvényben meghatározott foglalkoztatási feladatainak ellátása során
 
-a) külön jogszabályban meghatározott közmunkát, közcélú foglalkoztatást szervez, a külön törvényben meghatározott rendelkezésre állási támogatásra jogosult személyek foglalkoztatásának elősegítése céljából – a települési kisebbségi önkormányzat, az állami foglalkoztatási szerv és a szociálpolitikai kerekasztal véleményének kikérésével – külön törvényben foglaltak szerint közfoglalkoztatási tervet készít,
+a) külön jogszabályban meghatározott közfoglalkoztatást szervez,
 
 b) figyelemmel kíséri a helyi foglalkoztatási viszonyok alakulását,
 
@@ -16,13 +16,13 @@ d) részt vesz a helyi foglalkoztatási érdekegyeztetésben,
 
 e) az állami foglalkoztatási szerv működési feltételeihez és fejlesztéséhez támogatást nyújt.
 
-(5) A helyi önkormányzat a (4) bekezdés a) pontjában meghatározott közfoglalkoztatási terv tervezetét véleményezés céljából, 15 napos határidővel megküldi az állami foglalkoztatási szerv és a szociálpolitikai kerekasztal részére. Ha az állami foglalkoztatási szerv és a szociálpolitikai kerekasztal a véleményezési határidőn belül nem ad véleményt, úgy kell tekinteni, hogy a közfoglalkoztatási terv tervezetében foglaltakkal egyetért.
+(5)
 
 (6) A munkaadó:
 
 a) érdekképviseleti szervei útján részt vesz a foglalkoztatási érdekegyeztetésben,
 
-b) segíti az állami foglalkoztatási szerv munkáját, ennek keretében munkaerőigényéről és annak megszűnéséről folyamatosan, de legkésőbb a betöltés esedékességekor — a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium által meghatározott módon — tájékoztatja az állami foglalkoztatási szervet,
+b) segíti az állami foglalkoztatási szerv munkáját, ennek keretében munkaerőigényéről és annak megszűnéséről folyamatosan, de legkésőbb a betöltés esedékességekor — a miniszter által meghatározott módon — tájékoztatja az állami foglalkoztatási szervet,
 
 c) járulék fizetésével hozzájárul az álláskeresők támogatásához.
 

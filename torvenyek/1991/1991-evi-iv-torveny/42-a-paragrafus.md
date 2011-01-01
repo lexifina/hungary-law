@@ -4,4 +4,4 @@
 
 (3) A rehabilitációs hozzájárulás e törvény által nem szabályozott kérdéseiben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni
 
-(4) A rehabilitációs hozzájárulás fizetésének e törvényben nem szabályozott kérdéseiben az Art. rendelkezéseit megfelelően alkalmazni kell. A rehabilitációs hozzájárulást az állami adóhatóság naponta utalja át a Munkaerőpiaci Alap javára.
+(4) A rehabilitációs hozzájárulás fizetésének e törvényben nem szabályozott kérdéseiben az Art. rendelkezéseit megfelelően alkalmazni kell. A rehabilitációs hozzájárulás a központi költségvetés bevételét képezi.
