@@ -90,7 +90,7 @@
 
 3. számú melléklet
 
-15/2009. (VII. 24.) SZMM rendelethez[^6]
+15/2009. (VII. 24.) SZMM rendelethez[^8]
 
 [^*:]: A megfelelő rész egyértelműen jelölendő.
-[^6]: A 3. számú melléklet 4/2010. (II. 26.) SZMM rendelet 22. § (1) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^8]: A 3. számú melléklet 4/2010. (II. 26.) SZMM rendelet 22. § (1) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

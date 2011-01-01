@@ -6,7 +6,7 @@
 
 (4) Az Európai Uniós források terhére 2009. szeptember 1-jéig kiírt pályázatok keretében megvalósuló képzésekre az R. szabályait kell alkalmazni.
 
-(5)[^4] Az e rendelet hatálybalépésének napján folyamatban lévő képzések esetében az R. szabályait kell alkalmazni, azzal, hogy
+(5)[^6] Az e rendelet hatálybalépésének napján folyamatban lévő képzések esetében az R. szabályait kell alkalmazni, azzal, hogy
 
 a) az R. 5. § (1) bekezdésében meghatározott adatszolgáltatást az e rendelet 5. § (1) bekezdésében előírt határidőig kell teljesíteni, valamint
 
@@ -16,4 +16,4 @@ c) az R. 6. § (2) bekezdése helyett az e rendelet 6. § (2) bekezdésében el�
 
 (6) E rendeletet a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatásokra vonatkozóan 2013. december 31-ig lehet alkalmazni.
 
-[^4]: A 9. § (5) bekezdése a 4/2010. (II. 26.) SZMM rendelet 21. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^6]: A 9. § (5) bekezdése a 4/2010. (II. 26.) SZMM rendelet 21. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

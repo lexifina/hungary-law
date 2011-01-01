@@ -4,7 +4,7 @@
 
 ## a) a képző intézmény külön jogszabályban meghatározott intézmény-akkreditációs tanúsítványának cégszerűen hitelesített másolata,
 
-## b)[^7]
+## b)[^9]
 
 ## c) felnőttképzési szerződés eredeti vagy cégszerűen hitelesített másolata,
 
@@ -42,7 +42,7 @@
 
 ## a) a külső és a belső képzés esetén meghatározott dokumentumok.
 
-5. számú melléklet a 15/2009. (VII. 24.) SZMM rendelethez[^8]
+5. számú melléklet a 15/2009. (VII. 24.) SZMM rendelethez[^10]
 
 Elszámolható költségek
 
@@ -84,5 +84,5 @@ a) A képzésben részt vevő munkavállaló személyi jellegű költségei vona
 
 b) Az oktatók, tanácsadók, illetve a képzésben részt vevő munkavállaló személyi jellegű ráfordításaiból elszámolható költség havi (huszonkét munkanapra vetített) mértéke nem haladhatja meg a tárgyévet megelőző második évre vonatkozó KSH adatok szerint a versenyszférában foglalkoztatottak havi bruttó átlagkeresetének kétszeresét.
 
-[^7]: A 4. számú melléklet 1. pont b) alpontját a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés c) pont cc) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
-[^8]: Az 5. számú melléklet 4/2010. (II. 26.) SZMM rendelet 22. § (2) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^9]: A 4. számú melléklet 1. pont b) alpontját a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés c) pont cc) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^10]: Az 5. számú melléklet 4/2010. (II. 26.) SZMM rendelet 22. § (2) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
