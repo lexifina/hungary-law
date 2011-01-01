@@ -2,4 +2,6 @@
 
 7. § (1) Ez a rendelet a kihirdetése napján lép hatályba.
 
-(2) Alapítása évében a Jedlik Ányos-díj adományozására a Magyar Szabadalmi Hivatal centenáriumának megünneplése alkalmával kerül sor.
+(2)[^6]
+
+[^6]: A 7. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
