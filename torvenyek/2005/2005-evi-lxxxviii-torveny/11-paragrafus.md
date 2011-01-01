@@ -1,4 +1,4 @@
-11. § (1) A fogadó szervezet a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
+11. § (1) A fogadó szervezet a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
 
 a) az önkéntesek foglalkoztatását,
 
