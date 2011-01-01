@@ -18,8 +18,8 @@ c) az 1956-os forradalom és szabadságharc leverésében való részvétel miat
 
 d) az 1956-os forradalom és szabadságharc leverésében önként vett részt.
 
-e)[^7]
+e)[^8]
 
 (4) Az (1)–(3) bekezdés kizáró rendelkezéseit a 4. §-ban meghatározott személyek esetében is alkalmazni kell.
 
-[^7]: A 2. § (3) bekezdésének e) pontját a 10/2003. (IV. 3.) AB határozat 2. pontja 2000. december 26. napjára visszamenő hatállyal megsemmisítette.
+[^8]: A 2. § (3) bekezdésének e) pontját a 10/2003. (IV. 3.) AB határozat 2. pontja 2000. december 26. napjára visszamenő hatállyal megsemmisítette.

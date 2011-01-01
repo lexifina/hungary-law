@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-267-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2000-267-20-22.10 | 267/2000. (XII. 26.) Korm. rendelet |
+| 2011-01-01 | 2000-267-20-22.11 | 332/2010. (XII. 27.) Korm. rendelet |
