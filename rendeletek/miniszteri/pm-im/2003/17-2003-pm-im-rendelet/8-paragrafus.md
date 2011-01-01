@@ -1,7 +1,9 @@
-## 7. § A helyi nyomozó hatóság az illetékességi területén kívül nyomozási cselekményt csak a Központi Bűnüldözési Parancsnokság engedélyével és az illetékes nyomozó hatóság értesítése mellett végezhet. Halaszthatatlan nyomozási cselekmény végzésekor az értesítést utólag haladéktalanul meg kell tenni, továbbá a Központi Bűnüldözési Parancsnokság engedélye is mellőzhető, azonban az illetékességi terület elhagyását és az elvégzett nyomozási cselekményt a Központi Bűnüldözési Parancsnokságnak utólag jelenteni kell.
+## 7. §[^5]
 
 ## I. Fejezet
 
 ## A Be. 35. §-ához
 
 ## (A nyomozó hatóság feladata)
+
+[^5]: A 7. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (1) bekezdése hatályon kívül helyezte.

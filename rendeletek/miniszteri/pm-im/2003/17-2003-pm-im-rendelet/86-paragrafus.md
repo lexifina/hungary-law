@@ -6,8 +6,8 @@ b) a végrehajtás rögzítésének egyéb módját, így különösen a fényk�
 
 c) ha a megőrzésre kötelezésre írásbeli határozat nélkül került sor, az erre való utalást,
 
-d)[^61]
+d)[^57]
 
 e) a megőrzésre kötelezettnek, illetve megbízottjának (képviselőjének) nyilatkozatát arra vonatkozóan, hogy a nyomozási cselekmény, illetve a lefolytatás módja miatt él-e panasszal.
 
-[^61]: A 86. § d) pontját a 24/2006. (IX. 28.) PM–IRM együttes rendelet 45. § (2) bekezdése hatályon kívül helyezte.
+[^57]: A 86. § d) pontját a 24/2006. (IX. 28.) PM–IRM együttes rendelet 45. § (2) bekezdése hatályon kívül helyezte.

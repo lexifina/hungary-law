@@ -1,10 +1,10 @@
-## 137/A. §[^81] A bírói engedélyhez kötött titkos információgyűjtés eredményének felhasználásakor az indítványozó ügyészt a Vám- és Pénzügyőrség eljáró nyomozó hatóság vezetője az országos parancsnokság rendészeti főigazgatójának előzetes – a felhasználás kockázataira, valamint az így keletkező anyagi és egyéb kötelezettségekre vonatkozó – állásfoglalásáról tájékoztatja.
+## 137/A. §[^77] A bírói engedélyhez kötött titkos információgyűjtés eredményének felhasználásakor az indítványozó ügyészt a Vám- és Pénzügyőrség eljáró nyomozó hatóság vezetője az országos parancsnokság rendészeti főigazgatójának előzetes – a felhasználás kockázataira, valamint az így keletkező anyagi és egyéb kötelezettségekre vonatkozó – állásfoglalásáról tájékoztatja.
 
 ## V. Fejezet
 
 ## A Be. 446–468. §-aihoz
 
-## (A fiatalkorúak elleni büntetőeljárás)[^82]
+## (A fiatalkorúak elleni büntetőeljárás)[^78]
 
 138. § (1) A fiatalkorúak elleni büntetőeljárás szabályait kell alkalmazni azzal a gyanúsítottal szemben is, aki
 
@@ -14,5 +14,5 @@ b) a bűncselekmény elkövetése után, de a büntetőeljárás megindítása e
 
 (2) Ha a gyanúsított a nyomozás során a tizennyolcadik életévét betöltötte, vagy házasságkötés folytán nagykorúvá válik, a volt törvényes képviselő e minőségéből eredő jogait már nem gyakorolhatja.
 
-[^81]: A 137/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 38. §-a iktatta be.
-[^82]: A 138. §-t megelőző alcím a 24/2006. (IX. 28.) PM–IRM együttes rendelet 39. §-ával megállapított szöveg.
+[^77]: A 137/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 38. §-a iktatta be.
+[^78]: A 138. §-t megelőző alcím a 24/2006. (IX. 28.) PM–IRM együttes rendelet 39. §-ával megállapított szöveg.
