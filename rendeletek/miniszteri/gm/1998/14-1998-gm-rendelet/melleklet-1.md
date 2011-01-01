@@ -54,7 +54,7 @@
 
 ## 2.4. Cseppfolyósított gáz:* kritikus hőmérséklete 20 °C vagy annál magasabb.
 
-## 2.5.[^5] Engedélyezési nyomás: az a legnagyobb túlnyomás, amelyre a Magyar Kereskedelmi Engedélyezési Hivatal illetékes területi mérésügyi és műszaki biztonsági hatósága (a továbbiakban: Felügyelet) a palackot engedélyezi (engedélyezett töltetnyomás).
+## 2.5.[^5] Engedélyezési nyomás: az a legnagyobb túlnyomás, amelyre a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága (a továbbiakban: Felügyelet) a palackot engedélyezi (engedélyezett töltetnyomás).
 
 ## 2.6. Fajlagos töltettömeg (töltési fok): az 1 liter palacktérfogatba tölthető cseppfolyósított gáz tömege (kg).
 
@@ -2899,7 +2899,7 @@ V. fejezet 1. melléklet
 VI. fejezet 1. melléklet
 
 [^4]: A melléklet I. Fejezetének 1.2.15. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
-[^5]: A melléklet I. fejezetének 2.5. pontja a 87/2006. (XII. 26.) GKM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^5]: A melléklet I. fejezetének 2.5. pontja a 27/2010. (XII. 31. NGM rendelet 13. §-a szerint módosított szöveg.
 [^6]: A melléklet I. Fejezet 2. Fogalmak alcím 2.29. pont a) alpontja a 16/2010. (IV. 28.) NFGM rendelet 11. §-ával megállapított szöveg.
 [^7]: A melléklet I. Fejezetének 3.2. pontja a 39/2004. (IV. 7.) GKM rendelet 7. § (3) bekezdésének b) pontjával megállapított szöveg.
 [^8]: Lásd 1998. MK 106. szám 6682. oldal.
