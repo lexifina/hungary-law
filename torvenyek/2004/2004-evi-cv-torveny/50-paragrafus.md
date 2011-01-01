@@ -20,9 +20,15 @@ h) összehangolja a miniszterek és központi államigazgatási szervek honvéde
 
 i) gondoskodik a Honvédelmi Tanács és a kormány speciális működésének feltételeiről.
 
+j) gondoskodik a NATO Válságreagálási Rendszerének nemzeti alkalmazásáról, továbbá létrehozza és irányítja a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedések rendszerét,
+
+k) gondoskodik a honvédelmi felkészítés, a válságkezelés, a békeidejű működéstől eltérő időszakok kormányzati irányítási-vezetési rendszerének, valamint az i) pontban meghatározott feladat info-kommunikációs támogatásáról, az e feladatokkal összefüggő minősített információ biztonságos tárolásáról, továbbításáról,
+
+l) kihirdetésre alkalmas állapotba előkészíti a rendkívüli állapot, a szükségállapot, az Alkotmány 19/E. § szerinti eset, valamint a megelőző védelmi helyzet idején bevezethető rendkívüli intézkedéseket.
+
 (2) A Honvédség működésének irányítása körében a kormány meghatározza különösen
 
-a) a Honvédség felső szintű irányításának és vezetésének rendjére vonatkozó szabályokat,
+a) a Honvédség irányításának és felső szintű vezetésének rendjére vonatkozó szabályokat,
 
 b) a Honvédség területi elhelyezésének, felszerelésének, felkészítésének alapvető követelményeit,
 
@@ -34,7 +40,7 @@ d) megelőző védelmi helyzet kihirdetése esetén, illetve az Alkotmány 19/E.
 
 a) megtervezi a Honvédség fenntartásának és fejlesztésének költségeit,
 
-b) az a) pontban foglaltaktól elkülönítve tervezi a honvédelmi felkészítéssel – ezen belül a nemzetgazdaság felkészítésével, a Honvédelmi Tanács és a kormány speciális működési feltételeinek és a lakosság légi riasztásának biztosításával – kapcsolatos költségeket, valamint gondoskodik a jóváhagyott költségvetési átcsoportosítások végrehajtásáról.
+b) az a) pontban foglaltaktól elkülönítve tervezi a honvédelmi felkészítéssel – ezen belül a nemzetgazdaság felkészítésével, a Honvédelmi Tanács és a Kormány speciális működési feltételeinek, az (1) bekezdés k) pontjában meghatározott info-kommunikációs rendszer fenntartásával és fejlesztésével, továbbá a lakosság légi riasztásának biztosításával – kapcsolatos költségeket, valamint gondoskodik a jóváhagyott költségvetési átcsoportosítások végrehajtásáról.
 
 (4) Az (1)–(3) bekezdésben meghatározottak végrehajtására a kormány rendeletet, illetőleg határozatot ad ki.
 

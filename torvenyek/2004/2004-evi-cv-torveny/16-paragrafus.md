@@ -2,6 +2,6 @@
 
 (2) A sorozáskor megállapítható katonai alkalmassági fokozatok: „katonai szolgálatra alkalmas”, „katonai szolgálatra ideiglenesen alkalmatlan” és „katonai szolgálatra alkalmatlan”.
 
-(3) A katonai alkalmassági fokozatok ismérveit a honvédelemért felelős miniszter és az egészségügyért felelős miniszter együttes rendeletben állapítja meg.
+(3) A katonai alkalmassági fokozatok ismérveit a honvédelemért felelős miniszter az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítja meg.
 
 (4) Ha a sorozáskor a hadköteles katonai alkalmassági fokozatát múló jellegű betegsége miatt nem lehet megállapítani, a hadkötelest felgyógyulása után a hadkiegészítő parancsnokság ismételt sorozásra rendelheti.

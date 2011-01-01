@@ -4,7 +4,7 @@
 
 a) alkalmazás: a fegyveres erők rendeltetésszerű használata, harctevékenység,
 
-b) állomásozás: a Honvédség szervezeteinek átvonulásához szükséges időt, illetve a gyakorlat és hozzá kapcsolódó államhatár-átlépés időtartamát meghaladó tartós külföldi, illetve külföldi fegyveres erők esetében magyarországi jelenlét a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 46. §-a (3) bekezdésének b) pontja kivételével,
+b) állomásozás: a Honvédség szervezeteinek átvonulásához szükséges időt, illetve a gyakorlat és hozzá kapcsolódó államhatár-átlépés időtartamát meghaladó tartós külföldi, illetve külföldi fegyveres erők esetében magyarországi jelenlét a Hjt. 46. §-a (3) bekezdésének b) pontja kivételével,
 
 c) államhatár átlépése: az alakulatok Magyarország területére történő belépése, az országból való kilépése, valamint az átvonulás,
 
@@ -26,6 +26,8 @@ k) NATO Válságreagálási Rendszer: a NATO készültségi és tervezési rendj
 
 l) szövetséges fegyveres erők: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint a Magyar Köztársasággal szövetséges államok fegyveres erői, valamint az e szerződés alapján létrehozott közös katonai szervezetek,
 
-m) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja: azon katonai célú beruházások, fejlesztések összessége, amelyeket e Szervezet védelmi képességének megőrzése vagy fokozása érdekében tervez és megvalósít. Ezen beruházások érdekében a NATO által elfogadott, részben vagy egészben finanszírozott képességcsomagok, fejlesztési programok megvalósításához szükséges termékek, szolgáltatások beszerzése, továbbá a beruházások során elkészült eszközök mentesek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 10. §-a szerinti közterhek alól, illetőleg – a külön jogszabályok szerint – a befizetett környezetvédelmi termékdíj visszaigényelhető. E mentesség nem terjed ki a jogszabály alapján fizetendő bírságokra.
+m) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja: azon katonai célú beruházások, fejlesztések összessége, amelyeket e Szervezet védelmi képességének megőrzése vagy fokozása érdekében tervez és megvalósít. Ezen beruházások érdekében a NATO által elfogadott, részben vagy egészben finanszírozott képességcsomagok, fejlesztési programok megvalósításához szükséges termékek, szolgáltatások beszerzése, továbbá a beruházások során elkészült eszközök mentesek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 10. §-a szerinti közterhek alól, illetőleg – a külön jogszabályok szerint – a befizetett környezetvédelmi termékdíj visszaigényelhető. E mentesség nem terjed ki a jogszabály alapján fizetendő bírságokra,
+
+n) honvédelmi érdek: az ország biztonságát, katonai védelmi képességét meghatározó módon befolyásoló körülmények összessége, ideértve különösen az alkotmányos rend védelméhez, a szövetségesi kötelezettségek teljesítéséhez, a függetlenség elleni támadó szándékú törekvések, a szuverenitást és területi integritást sértő vagy veszélyeztető törekvések elhárításához fűződő érdekeket.
 
 (2) Ahol nemzetközi szerződés fegyveres erőkről rendelkezik, a Magyar Köztársaság vonatkozásában a Magyar Honvédséget kell érteni.

@@ -1,4 +1,4 @@
-29. § (1) A polgári szolgálat teljesítésére vonatkozó engedély iránti kérelmet a közigazgatási hivatal bírálja el. A hadkiegészítő parancsnokság az eljárásban ügyfélként vehet részt.
+29. § (1) A polgári szolgálat teljesítésére vonatkozó engedély iránti kérelmet a Kormány általános hatáskörű területi államigazgatási szerve bírálja el. A hadkiegészítő parancsnokság az eljárásban ügyfélként vehet részt.
 
 (2) A polgári szolgálat teljesítésére vonatkozó engedély iránti kérelmet el kell utasítani, ha a körülményekből a lelkiismereti okra való hivatkozás alaptalansága megállapítható.
 

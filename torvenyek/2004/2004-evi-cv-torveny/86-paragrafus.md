@@ -1,3 +1,3 @@
-86. § (1) A haditechnikai eszközöknek és anyagoknak meg kell felelniük az ellátási, fenntartási és tartalékolási normáknak, valamint azoknak az igényeknek, amelyek a haderőnemek, fegyvernemek és szakcsapatok eredményes tevékenységét biztosítják. A haditechnikai eszközök és anyagok katonai szervezetek közötti elosztását az állománytáblákban kell rögzíteni.
+86. § (1) A haditechnikai eszközöknek és anyagoknak meg kell felelniük az ellátási, fenntartási és tartalékolási normáknak, valamint azoknak az igényeknek, amelyek a haderőnemek, fegyvernemek és szakcsapatok eredményes tevékenységét biztosítják. A haditechnikai eszközök katonai szervezetek közötti elosztását az állománytáblákban kell rögzíteni.
 
 (2) A Honvédség katonai szervezeteit haditechnikai eszközökkel és anyagokkal a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetének előirányzatai terhére, valamint más központi költségvetési források igénybevételével kell felszerelni.

@@ -14,7 +14,7 @@ f) megállapítja a Honvédség felkészítésének követelményeit, szabályoz
 
 g) dönt a Honvédség létszámára – ezen belül az állományarányokra –, szervezetére, felszerelésére, valamint az ország területének védelmi célú előkészítésére vonatkozó javaslatok elfogadásáról és előterjesztéséről; az Országgyűlés, illetőleg a kormány döntése után intézkedik annak végrehajtására,
 
-h) megállapítja a Honvédség feladatainak teljesítése szempontjából fontos közlekedési és hírközlő hálózat, valamint a légi, sugárfigyelő, jelző- és riasztási rendszerek működőképességének biztosítása érdekében folytatott együttműködési feladatokat és végrehajtásuk rendjét,
+h) megállapítja a Honvédség feladatainak teljesítése szempontjából fontos közlekedési hálózat, a híradó, informatikai és információvédelmi szolgáltatások, valamint a légi, sugárfigyelő, jelző- és riasztási rendszerek működőképességének biztosítása érdekében folytatott együttműködési feladatokat és végrehajtásuk rendjét,
 
 i) megállapítja a nemzetközi szerződésekből fakadó katonai kötelezettségeket, intézkedik azok végrehajtására,
 
@@ -26,9 +26,9 @@ l) meghatározza a Honvédség gazdálkodására, valamint a honvédségi ingatl
 
 m) megállapítja a személyügyi hatásköröket, szabályozza azok gyakorlásának módját,
 
-n) kiadja a Honvédség anyagi-technikai, közlekedési, logisztikai, pénzügyi, egészségügyi, igazgatási és jogi tevékenységére vonatkozó alapvető rendelkezéseket, gondoskodik a végrehajtásukról rendelkező szakutasítások kiadásáról, intézkedik a végrehajtás tervezésére, szervezésére és irányítására, irányítja a haditechnikai eszközök és anyagok beszerzését, valamint a katonai szervezetek ezekkel történő ellátását,
+n) kiadja a Honvédség logisztikai, pénzügyi, egészségügyi, igazgatási és jogi tevékenységére vonatkozó alapvető rendelkezéseket, gondoskodik a végrehajtásukról rendelkező szakutasítások kiadásáról, intézkedik a végrehajtás tervezésére, szervezésére és irányítására, irányítja a haditechnikai eszközök és anyagok beszerzését, valamint a katonai szervezetek ezekkel történő ellátását,
 
-o) szabályozza a személyi állomány élet-, szolgálati és munkakörülményeinek feltételeit,
+o) szabályozza a személyi állomány élet-, szolgálati, és munkakörülményeivel összefüggő juttatásainak, költségtérítéseinek, kedvezményeinek, támogatásainak rendszerét, ideértve az egyes szociális juttatások, a laktanyai elhelyezés, és a lakhatást célzó ellátás jogosultjainak körét, feltételeit és rendjét,
 
 p) meghatározza a szövetségi követelményeknek és a nemzeti sajátosságoknak megfelelően a Honvédség ellenőrzésének rendszerét, a vezetés biztosítása érdekében a híradással és az informatikai fejlesztéssel kapcsolatos feladatokat, kiadja azok tervezésére, szervezésére és irányítására vonatkozó rendelkezéseket, gondoskodik az adat- és információvédelemről,
 
@@ -41,3 +41,5 @@ t) megállapítja a Honvédség tevékenységével, diszlokációjával kapcsola
 u) ellátja a jogszabály, országgyűlési és kormányhatározat által megállapított egyéb feladatokat.
 
 (2) A honvédelemért felelős miniszter az (1) bekezdés szerinti hatáskörében hozott döntések előkészítéséről és végrehajtásáról – a közigazgatási államtitkárnak és a 101. § (3) bekezdésére figyelemmel a Honvéd Vezérkar főnökének közreműködésével – a honvédelemért felelős miniszter által vezetett minisztérium útján gondoskodik.
+
+(3) Az önkéntes tartalékosok kiképzésen túli tényleges katonai szolgálatra történő behívásának elrendeléséről a Honvéd Vezérkar főnöke javaslatára a honvédelemért felelős miniszter dönt.

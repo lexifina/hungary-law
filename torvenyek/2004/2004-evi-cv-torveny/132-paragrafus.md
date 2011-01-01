@@ -8,9 +8,9 @@ c) egyértelműen arra lehet következtetni, hogy az a) vagy a b) pont szerinti 
 
 (2) Az (1) bekezdés c) pontja szerinti esetben a felszólítás, illetve a figyelmeztető tűz mellőzhető, ha az eset összes körülményei folytán arra már nincs idő, és a késedelem az élet- és vagyonbiztonság sérelmével járna.
 
-(3) A NATO műveleti alárendeltségében levő magyar vagy a szövetség más tagállama légvédelmi készenléti erői figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancs (a fegyver alkalmazása előtt) csak a Magyar Honvédség Légierő Parancsnokság (a továbbiakban: MH LEP) ügyeletes tábornokának megerősítésével adható ki.
+(3) A NATO műveleti alárendeltségében levő magyar vagy a szövetség más tagállama légvédelmi készenléti erői magyar légtérben történő figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancs végrehajtására csak a Honvédség légierő ügyeletes parancsnokának megerősítésével kerülhet sor.
 
-(4) A nemzeti alárendeltségű légvédelmi készenléti szolgálatot ellátó erők figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancsot az MH LEP ügyeletes tábornoka adhat.
+(4) A nemzeti alárendeltségű légvédelmi készenléti szolgálatot ellátó erők figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancsot a Honvédség légierő ügyeletes parancsnoka adhat.
 
 (5) Az elfogást végrehajtó repülőgép vezetője az ellene irányuló közvetlen támadás elhárítása érdekében – azonnali jelentési kötelezettség mellett – saját elhatározása alapján tüzet nyithat.
 

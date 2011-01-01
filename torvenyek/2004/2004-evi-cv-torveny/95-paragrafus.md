@@ -1,4 +1,4 @@
-## A Honvédség felső szintű irányítása és vezetése
+## A Honvédség irányítása és felső szintű vezetése
 
 95. § (1) A Honvédséget békében az Alkotmányban és e törvényben meghatározottak szerint az Országgyűlés, a köztársasági elnök, a kormány és a honvédelemért felelős miniszter irányítja.
 

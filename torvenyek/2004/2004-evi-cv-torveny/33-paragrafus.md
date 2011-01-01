@@ -22,4 +22,4 @@ f) akit fontos közérdekből a felügyeletet gyakorló miniszter – a foglalko
 
 g) a hivatását gyakorló lelkész.
 
-(5) A honvédelmi munkakötelezettség nem terjed ki a Honvédség és a rendvédelmi szervek tényleges állományú tagjaira, köztisztviselőire és közalkalmazottaira.
+(5) A honvédelmi munkakötelezettség nem terjed ki a Honvédség és a rendvédelmi szervek tényleges állományú tagjaira, kormánytisztviselőire, köztisztviselőire és közalkalmazottaira.

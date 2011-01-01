@@ -5,3 +5,5 @@
 (2) Az (1) bekezdésben foglalt rendelkezéseket a katonai és rendvédelmi felsőoktatási intézmények ösztöndíjas hallgatói, valamint a katonai szakképzésben részt vevő tényleges állományú hallgatók esetében is alkalmazni kell.
 
 (3) Az e törvény hatálybalépése előtt a sorkatonai szolgálat teljesítésével összefüggő balesetekkel, illetve a sorkatonai szolgálattal összefüggésben kialakult, vagy azzal összefüggésben súlyosbodott betegségekkel kapcsolatos kárigények elbírálására a sorkatonai szolgálat teljesítése alatt hatályos jogszabályok rendelkezéseit kell alkalmazni.
+
+(4) Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét is érteni kell.

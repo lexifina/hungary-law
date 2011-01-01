@@ -1,6 +1,6 @@
 ## A katonai nyilvántartás
 
-7. § (1) A katonai nyilvántartásban a hadkötelezettség bevezetésének előkészítése érdekében a potenciális hadkötelesekről, továbbá a hadkötelezettséggel összefüggő szociális ellátás és kegyeleti tevékenység biztosításához a volt hadkötelesekről már béke idején, illetőleg a hadkötelezettség bevezetése után a hadkötelesről is a következő adatok kezelhetők:
+7. § (1) A katonai nyilvántartásban a hadkötelezettség bevezetésének előkészítése érdekében a potenciális hadkötelesekről és a kiképzett tartalékosokról, továbbá a hadkötelezettséggel összefüggő szociális ellátás és kegyeleti tevékenység biztosításához a volt hadkötelesekről már béke idején, valamint a hadkötelezettség bevezetése után a hadkötelesekről is a következő adatok kezelhetők:
 
 A) személyazonosító adatai:
 
@@ -110,9 +110,11 @@ l) adóazonosító jele (az adóköteles jövedelemmel összefüggő adóhatós�
 
 m) az igényjogosult hozzátartozó személyi adatai (név, születési hely és idő, lakcím), a szociális ellátás megítéléséhez szükséges vagyoni helyzete, valamint az ellátások juttatásáról történő adatszolgáltatási kötelezettség teljesítése céljából adóazonosító jele és nyugdíjfolyósítási törzsszáma,
 
-n) társadalombiztosítási azonosító jele.
+n) társadalombiztosítási azonosító jele,
 
-(2) A potenciális hadkötelesre vonatkozó adatokat a hadköteles kor felső határáig a Honvédség központi adatfeldolgozó szerve, azt követően a Honvédség központi irattározásra kijelölt szerve kezeli. Rendkívüli állapot és megelőző védelmi helyzet idején a hadkötelesre vonatkozó adatokat a hadköteles kor felső határáig a hadkiegészítő parancsnokság és a Honvédség központi adatfeldolgozó szerve, azt követően a Honvédség központi irattározásra kijelölt szerve kezeli.
+S) a meghagyásba tervezés és helyezés céljából a hadkötelesnek a munkakörére vonatkozó adatok, a Kormány 207. § (1) bekezdés i) pontja alapján kiadott rendeletében mentesített szervezetek kivételével.
+
+(2) A potenciális hadkötelesre vonatkozó adatokat a hadköteles kor felső határáig a Honvédség központi adatfeldolgozó szerve, azt követően a Honvédség központi irattárazásra kijelölt szerve kezeli. A kiképzett tartalékosokra vonatkozó adatokat a hivatásos katonai szolgálat felső korhatára eléréséig a lakóhely szerint illetékes hadkiegészítő parancsnokság és a Honvédség központi adatfeldolgozó szerve, azt követően a Honvédség központi irattárazásra kijelölt szerve kezeli. Rendkívüli állapot és megelőző védelmi helyzet idején a hadkötelesre vonatkozó adatokat a hadköteles kor felső határáig a hadkiegészítő parancsnokság és a Honvédség központi adatfeldolgozó szerve, azt követően a Honvédség központi irattárazásra kijelölt szerve kezeli.
 
 (3) A hadkötelezettségtől függetlenül – a megszerzett érdekvédelmi jogosultsággal járó szolgáltatások biztosítása érdekében – a (2) bekezdésben említett szervek az (1) bekezdés A), B), P) és R) pontjában meghatározott adatokat az érdekvédelmi jogosultság megszűnését követően 3 évig őrzik meg.
 

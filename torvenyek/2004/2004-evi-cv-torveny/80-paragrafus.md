@@ -8,9 +8,9 @@ b) a szerződéses katonák,
 
 c) a szolgálatot teljesítő önkéntes tartalékos katonák,
 
-d) a katonai felsőoktatási intézmény honvédségi ösztöndíjas, valamint szakképzésben részt vevő hallgatói,
+d) a honvéd tisztjelöltek
 
-e) a katonai középfokú oktatási intézmény hallgatói,
+e) a honvéd tiszthelyettes-jelöltek,
 
 f) megelőző védelmi helyzet és rendkívüli állapot idején – a hadkötelezettség bevezetése után – a hadköteles katonák.
 

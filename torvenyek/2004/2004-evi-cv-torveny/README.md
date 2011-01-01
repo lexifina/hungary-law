@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-105-00-00
 | 2010-07-06 | 2010. évi LVIII. törvény | 2004-105-00-00.13 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 2004-105-00-00.14 |
 | 2010-10-12 | 2010. évi XCIII. törvény | 2004-105-00-00.15 |
+| 2011-01-01 | 2010. évi CLXXX. törvény | 2004-105-00-00.16 |

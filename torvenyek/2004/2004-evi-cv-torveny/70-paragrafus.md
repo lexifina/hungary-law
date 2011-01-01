@@ -18,8 +18,8 @@ h) hozzájárulás a katasztrófavédelmi feladatok megoldásához,
 
 i) állami szervek részére térítés ellenében katonai szakértelmet és speciális eszközöket igénylő feladatok ellátása,
 
-j) részvétel az állami protokolláris feladatok teljesítésében.
+j) részvétel az állami protokolláris feladatok teljesítésében, valamint a magyar állam folytonosságát és függetlenségét megtestesítő ereklye (a Szent Korona és a hozzá tartozó egyes jelvények) teljes körű, illetve egyes kijelölt létesítmények protokolláris jellegű őrzése.
 
-(2) Az egyes honvédségi szervezetek konkrét feladatait – az (1) bekezdés keretei között – külön jogszabályok, az állami irányítás egyéb jogi eszközei, valamint a belső rendelkezések határozzák meg.
+(2) Az egyes honvédségi szervezetek konkrét feladatait – az (1) bekezdés keretei között – külön jogszabályok, közjogi szervezetszabályozó eszközök, valamint a belső rendelkezések határozzák meg.
 
-(3) Az (1) bekezdés g)–j) pontjában meghatározott feladatokat a Honvédség fegyverhasználati jog nélkül látja el.
+(3) Az (1) bekezdés g)–j) pontjában meghatározott feladatokat – a magyar állam folytonosságát és függetlenségét megtestesítő Szent Korona és a hozzá tartozó egyes jelvények őrzése kivételével – a Honvédség fegyverhasználati jog nélkül látja el.

@@ -26,7 +26,9 @@ l) hagyományőrzés,
 
 m) kegyeleti tevékenység, hadisírgondozás,
 
-n) nemzetközi szerződés alapján meghatározott egyéb feladatok.
+n) nemzetközi szerződés alapján meghatározott egyéb feladatok,
+
+o) híradó, informatikai és információvédelmi szolgáltatások, és azokkal kapcsolatos feladatok.
 
 (2) A Honvédség közreműködik a külföldi fegyveres erőknek a Magyar Köztársaság területén az (1) bekezdés szerinti feladatai végrehajtásához szükséges feltételek biztosításában.
 

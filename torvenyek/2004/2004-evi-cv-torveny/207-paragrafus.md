@@ -4,7 +4,7 @@
 
 a) a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszer elemeit, feladatait, eljárási rendjét, a közreműködők kötelezettségeit,
 
-b) váratlan légitámadás esetére a légiriasztási rendszer szabályait,
+b) légitámadás esetére a légiriasztási rendszer szabályait,
 
 c) a miniszterek honvédelmi igazgatási feladatait,
 
@@ -22,7 +22,9 @@ i) a meghagyással kapcsolatos eljárásnak és a meghagyásba bevont szervek be
 
 j) a Magyar Honvédség feladatainak ellátásával összefüggő nemzetközi kártérítési ügyekkel kapcsolatos eljárás részletes szabályait,
 
-k) a hadkötelezettség teljesítésével összefüggő egyes költségek megtérítésének és a díjazások folyósításának szabályait.
+k) a hadkötelezettség teljesítésével összefüggő egyes költségek megtérítésének és a díjazások folyósításának szabályait,
+
+l) a Honvédség által védendő létesítmények, valamint a magyar állam folytonosságát és függetlenségét megtestesítő ereklyék körét, illetve azok őrzésére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 
@@ -34,14 +36,24 @@ c) a katonai futárszolgálat feladatait,
 
 d) a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
 
-e) a szolgálati tevékenység és a katonai rendészeti tevékenység teljesítését (Szolgálati Szabályzat),
+e) a Szolgálati Szabályzat részeként a szolgálati tevékenység, az önkéntes tartalékos őrzés-védelmi és a katonai rendészeti tevékenység teljesítését,
 
-f) a Magyar Honvédség jogi képviseletének rendjét.
+f) a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe, irányítása, fenntartói irányítása és felügyelete alá tartozó, valamint a Honvédség hadrendje szerinti szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
+
+g) a Honvédség személyi állományának élet-, szolgálati, és munkakörülményeivel összefüggő juttatásainak, ideértve az egyes szociális juttatások, a laktanyai elhelyezés, és a lakhatást célzó ellátás jogosultjainak körét, feltételeit és rendjét,
+
+h) a NATO- NYEU központi nyilvántartó, a NATO- NYEU központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
+
+i) a meg nem térülő károk leírással és törléssel történő rendezésének és nyilvántartásának sajátos szabályait,
+
+j) az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
+
+k) honvédelmi ágazatban dolgozók igazolványának fajtáit, az igazolványok kezelését és kiadását.
 
 (3) Felhatalmazást kap az érintett szerv szerinti illetékes miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg a tárcájára és az irányítása alá tartozó szervekre vonatkozóan a meghagyással kapcsolatos követelményeket.
 
-(4) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy a honvédelemért felelős miniszterrel együttes rendeletben szabályozza a polgári nemzetbiztonsági szolgálatok állományának a 8. § (4) bekezdése szerinti adatszolgáltatása rendjét.
+(4) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári hírszerzési tevékenység irányításáért felelős miniszter és a honvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a polgári nemzetbiztonsági szolgálatok állományának a 8. § (4) bekezdése szerinti adatszolgáltatása rendjét.
 
-(5) Felhatalmazást kap a honvédelemért felelős miniszter és az egészségügyért felelős miniszter, hogy együttes rendeletben állapítsa meg a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának rendjét.
+(5) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának rendjét.
 
 (6) Felhatalmazást kap az érintett miniszter, hogy a törvény alapján a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg ágazata honvédelmi feladatait.

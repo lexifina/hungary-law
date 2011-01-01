@@ -16,9 +16,7 @@ b) önmaga ellátására képtelen,
 
 c) szellemi fogyatékossága vagy elmebetegsége miatt magatehetetlen,
 
-d) süket, néma vagy süketnéma,
-
-[d) siket, nagyothalló vagy beszédfogyatékos,]
+d) siket, nagyothalló vagy beszédfogyatékos,
 
 e) vak vagy egyik szeme hiányzik,
 
