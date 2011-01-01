@@ -16,6 +16,4 @@
 
 „(2) A fellebbezési eljárásban az ügyintézési határidő két hónap.”
 
-(5) A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény a következő 22/A. §-sal egészül ki:
-
-„22/A. § Integrált ügyfélszolgálati pótlékra jogosult az a kormánytisztviselő, aki a megyei, fővárosi kormányhivatalokon belül működő integrált ügyfélszolgálati irodán ügyfélszolgálati feladatok ellátásával összefüggő munkakört tölt be. A pótlék mértéke az illetményalap 20%-a.”
+(5)
