@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-112-00-00
 | 2010-06-01 | 2009. évi CL. törvény | 1996-112-00-00.62 |
 | 2010-06-11 | 2009. évi CLXII. törvény | 1996-112-00-00.63 |
 | 2010-11-27 | 2010. évi XCVI. törvény | 1996-112-00-00.64 |
+| 2011-01-01 | 2010. évi CLIX. törvény | 1996-112-00-00.65 |

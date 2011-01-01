@@ -22,6 +22,6 @@ b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében me
 
 c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását.
 
-(3) Felügyeleti biztosnak olyan természetes személy nevezhető ki, aki megfelel a hitelintézeti ügyvezetőkkel szemben támasztott, a 68. §-ban meghatározott követelményeknek.
+(3)
 
-(4) Felügyeleti biztos kirendelése esetén egy hitelintézethez egyidejűleg legalább két felügyeleti biztost kell kirendelni.
+(4)

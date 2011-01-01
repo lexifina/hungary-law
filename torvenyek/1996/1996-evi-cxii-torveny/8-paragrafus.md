@@ -16,6 +16,6 @@
 
 (4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott eltéréssel – bármely jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is végezheti.
 
-(5) A többes kiemelt közvetítő részvénytársaságként vagy korlátolt felelősségű társaságként működhet.
+(5) A többes kiemelt közvetítő részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.
 
 (6) Pénzfeldolgozási tevékenységet [3. § (2) bekezdés c) pontja] pénzügyi intézménynek nem minősülő, jogi személyiséggel rendelkező gazdasági társaság vagy szövetkezet is végezhet.

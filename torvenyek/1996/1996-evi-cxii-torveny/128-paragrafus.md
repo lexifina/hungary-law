@@ -10,4 +10,4 @@
 
 (4) A hitelintézet az önkéntes alapba befizetett összeget egyéb ráfordításként számolja el.
 
-(5) A Felügyelet által az önkéntes alapban tag szövetkezeti hitelintézetektől beszedett bírságok összegének nyolcvan százalékát az önkéntes alapba kell befizetni.
+(5)

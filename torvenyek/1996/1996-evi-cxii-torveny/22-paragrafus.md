@@ -1,4 +1,4 @@
-22. § (1) Pénzügyi vállalkozás kizárólag más pénzügyi vállalkozással egyesülhet, illetve beolvadhat hitelintézetbe. Hitelintézetbe más hitelintézet, pénzügyi vállalkozás, járulékos vállalkozás és befektetési vállalkozás olvadhat be, illetve hitelintézet más hitelintézettel olvadhat össze.
+22. § (1) Pénzügyi vállalkozás kizárólag más pénzügyi vállalkozással egyesülhet, illetve beolvadhat hitelintézetbe. Hitelintézetbe más hitelintézet, pénzügyi vállalkozás, járulékos vállalkozás befektetési vállalkozás és központi szerződő fél olvadhat be, illetve hitelintézet más hitelintézettel olvadhat össze.
 
 (2) Részvénytársasági formában működő pénzügyi intézmény nem egyesülhet szövetkezeti formában működő pénzügyi intézménnyel.
 

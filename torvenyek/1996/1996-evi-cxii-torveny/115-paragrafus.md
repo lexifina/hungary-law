@@ -16,6 +16,6 @@ a kért információt megadni.
 
 (5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az Alap kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az Alap ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
-(6) A hitelintézet köteles a betétekre és a betétesekre vonatkozó – a 3. számú melléklet I. fejezet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából az Alap kérésére öt munkanapon belül átadhatóak legyenek.
+(6) A hitelintézet köteles a betétekre és a betétesekre vonatkozó – a 3. számú melléklet I. fejezet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából az Alap kérésére öt munkanapon belül átadhatóak legyenek. Közösségi betéteknél a hitelintézet a betétes adatain túlmenően abban az esetben köteles a társasházak és lakásszövetkezetek esetén a lakások számát, építőközösségek és iskolai takarékossági csoportok esetén a közösséget alkotó személyek számát nyilvántartani, ha a betét összege meghaladja a 101. § (1) bekezdésében foglalt összeghatárt.
 
 (7) Az Alap a tagintézetek által megküldött adatállományok alapján rendszeresen teszteli kifizető rendszerének működését.

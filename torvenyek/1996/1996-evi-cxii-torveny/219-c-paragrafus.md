@@ -2,7 +2,7 @@
 
 ## Függő közvetítő
 
-219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő – és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy – e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény felel.
+219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény felel.
 
 (2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől, pénzforgalmi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
 

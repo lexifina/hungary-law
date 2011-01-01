@@ -16,7 +16,17 @@ c) rendelkezik
 
 (2) Az (1) bekezdés b) pontja szerinti bejelentésnek tartalmaznia kell a kinevezni tervezett személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 44. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
-(3) Az (1) bekezdés c) pontjának 1–3. alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi végzettséget igazoló egyetemi diplomával, illetve főiskolai oklevéllel, illetőleg könyvvizsgálói vagy felsőfokú, illetőleg posztgraduális bankszakmai – így különösen banki tanácsadó – képesítéssel rendelkezik.
+(3) Az (1) bekezdés c) pontjának 1–3. alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki
+
+a) a felsőoktatásról szóló 1993. évi LXXX. törvény szerint a közgazdasági felsőoktatásban egyetemi vagy főiskolai szintű szakképzettséget, vagy a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerint a gazdaságtudományok képzési területen alapképzésben vagy mesterképzésben közgazdász szakképzettséget,
+
+b) jogász szakképzettséget,
+
+c) könyvvizsgálói képesítést vagy
+
+d) felsőfokú vagy posztgraduális bankszakmai képesítést
+
+szerzett.
 
 (4) Pénzügyi vállalkozás ügyvezetőjének az nevezhető ki, aki
 

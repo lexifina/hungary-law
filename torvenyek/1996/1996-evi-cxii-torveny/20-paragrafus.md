@@ -14,4 +14,6 @@ e) az igazgatóság jogkörének módosítása,
 
 f) átváltoztatható vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,
 
-g) részvényre vonatkozó elővásárlási jog alapítása és megváltoztatása.
+g) részvényre vonatkozó elővásárlási jog alapítása és megváltoztatása,
+
+h) részjegy névértékének, az egy tag által jegyezhető vagy jegyzendő részjegyek számának megváltoztatása.

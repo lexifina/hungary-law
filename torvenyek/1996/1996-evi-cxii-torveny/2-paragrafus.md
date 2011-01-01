@@ -16,7 +16,7 @@ g)
 
 h) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére;
 
-i) a külön jogszabályban meghatározott fogyasztói csoportok szervezőinek tevékenységére.
+i)
 
 (2) E törvény rendelkezései nem terjednek ki:
 

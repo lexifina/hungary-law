@@ -22,4 +22,4 @@ b) módot ad a hitelintézetnek észrevételei megtételére.
 
 (9) Ha a kölcsön igénybevételét szükségessé tevő káresemény kapcsán az Alap bevételre tesz szert, azt elsősorban a fennálló kölcsöntartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, illetőleg visszafizetésére kell fordítani.
 
-(10) A hitelintézet végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a befizetést megelőző negyedév átlagos biztosított betétállománya.
+(10) A hitelintézet a végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a hitelintézet által a felszámolás vagy végelszámolás elrendelését megelőzően teljesített legutolsó díjfizetésének alapjául szolgáló betétállomány.

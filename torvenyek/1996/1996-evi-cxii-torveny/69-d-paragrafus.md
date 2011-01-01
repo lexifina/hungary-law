@@ -1,0 +1,3 @@
+69/D. § (1) A munkaviszony megszűnéséhez kapcsolódó kifizetések az eltelt időszakban elért teljesítményt tükrözik, az el nem ért eredményhez kifizetés nem kapcsolódhat.
+
+(2) Ha a hitelintézet a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár, a hitelintézetnek a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 69/C. § (3) bekezdésében meghatározott eszközök formájában.

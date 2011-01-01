@@ -1,14 +1,14 @@
-16. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő vagy többes kiemelt közvetítő kaphat engedélyt.
+16. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
 
 (2) A 3. § (2) bekezdésének b) pontjában meghatározott kiegészítő pénzügyi szolgáltatás végzésére – a (4) bekezdésben meghatározott kivétellel – pénzügyi vállalkozás, pénzforgalmi intézmény (a továbbiakban együtt: pénzforgalmi elszámolóház) a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha igazolja, hogy
 
 a) legalább ötszázmillió forint jegyzett és befizetett tőkével rendelkezik,
 
-b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – cégjegyzékben feltüntetett – főtevékenységként végzi, és egyéb tevékenysége a főtevékenységet kiegészíti, illetőleg a főtevékenység ellátását nem befolyásolja hátrányosan,
+b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – cégjegyzékben feltüntetett – főtevékenységként végzi, egyéb tevékenysége a főtevékenységet kiegészíti, vagy a főtevékenység ellátását nem befolyásolja hátrányosan,
 
 c) részvénytársaságként vagy részvénytársaság fióktelepeként működik.
 
-(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, valamint a Tpt. szerinti elszámolóházi tevékenységet végző szervezet szerezhet.
+(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, valamint a Tpt. szerinti elszámolóházi tevékenységet végző szervezet szerezhet.
 
 (4) Ha a pénzforgalmi elszámolóház a kiegészítő pénzügyi szolgáltatást kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében végzi, a kérelmező a 3. § (6) bekezdése szerinti engedélyt akkor is megkaphatja, ha igazolja, hogy – a (2) bekezdés a) pontjától eltérően – legalább százötvenmillió forint jegyzett és befizetett tőkével rendelkezik.
 

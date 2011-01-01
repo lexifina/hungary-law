@@ -15,3 +15,5 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 (4)
 
 (5) A hitelintézet az (1) bekezdésben meghatározott kivonatot, valamint a (3) bekezdésben meghatározott kimutatást – a felek eltérő megállapodásának hiányában – magyar nyelven köteles kiállítani és megküldeni.
+
+(6) A hitelintézet köteles évente az Alap által meghatározott formában kimutatást készíteni a betétesnek a hitelintézetnél elhelyezett biztosított betétei összevont egyenlegéről és az annak alapján a betétes javára fennálló betétbiztosítási összegről.

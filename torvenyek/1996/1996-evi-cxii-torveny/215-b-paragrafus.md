@@ -43,3 +43,7 @@ d) a c) pont szerinti intézkedés teljesítésének határidejét és a végreh
 e) a panasz megválaszolásának időpontját.
 
 (13) A pénzügyi intézmény és a pénzforgalmi intézmény a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A pénzügyi intézmény és a pénzforgalmi intézmény a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A pénzügyi intézmény és a pénzforgalmi intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.

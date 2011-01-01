@@ -6,11 +6,23 @@ A szavatoló tőke számítása
 
 1. A hitelintézet szavatoló tőkéje alapvető, járulékos és kiegészítő tőkéből áll.
 
-2. Az alapvető tőke a 3–4. pontban meghatározott pozitív és negatív összetevők 5–7. pontban foglaltak figyelembevételével számított összege.
+2. Az alapvető tőke a 3–5. pontban meghatározott pozitív és negatív összetevők 6–10. pontban foglaltak figyelembevételével számított összege.
 
 3. Az alapvető tőke pozitív összetevői a számviteli kimutatások alapján:
 
-a) jegyzett tőke,
+a) befizetett jegyzett tőke, ideértve a következő részvényfajtákat és részjegyeket, ha megfelel a 6. pontban meghatározott feltételeknek:
+
+aa) törzsrészvény,
+
+ab) elsőbbségi részvény,
+
+ac) dolgozói részvény,
+
+ad) külön törvényben vagy jogszabályban meghatározott egyéb elsőbbségi jogot biztosító részvény,
+
+ae) szövetkezeti részjegy,
+
+af) befektetői részjegy,
 
 b) tőketartalék,
 
@@ -22,63 +34,125 @@ e) általános kockázati céltartalék a kockázattal súlyozott kitettség ér
 
 f) eredménytartalék, ha pozitív,
 
-g) könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív
+g) könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív, és nem tartalmaz semmilyen előrelátható kifizetést, vagy osztalékot,
 
-h) alapvető kölcsöntőke.
+h) vegyes tulajdonságú befizetett jegyzett tőke, ideértve a kamatozó részvényeket, a visszaváltható részvényeket és mindazon jegyzett tőkébe tartozó részvényeket és részjegyeket, amelyek nem tartoznak az a) pont alá és megfelelnek a 7. pontban meghatározott feltételeknek,
 
-3A. A – külön jogszabályban meghatározott – értékpapírosítást kezdeményező hitelintézetnél a 3. pontban nem vehető figyelembe az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereség, amely hitelminőség javítást nyújt az értékpapírosított pozíciókra.
+i) alapvető kölcsöntőke.
 
-4. Az alapvető tőke negatív összetevői a számviteli kimutatások alapján:
+4. A – külön jogszabályban meghatározott – értékpapírosítást kezdeményező hitelintézetnél a 3. pontban nem vehető figyelembe az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereség, amely hitelminőség javítást nyújt az értékpapírosított pozíciókra.
 
-a) jegyzett tőke be nem fizetett része,
+5. Az alapvető tőke negatív összetevői a számviteli kimutatások alapján:
+
+a) visszavásárolt saját részvények könyv szerinti értéke,
 
 b) immateriális javak,
 
-c) osztalék-elsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények,
+c) eredménytartalék, ha negatív,
 
-d) eredménytartalék, ha negatív,
+d) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatolótőke-számítás esetén az évközi negatív eredmény,
 
-e) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatoló tőke számítás esetén az évközi negatív eredmény,
+e) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
 
-f) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalék hiányt, illetve az el nem számolt értékvesztést is),
+f) a vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének a 14. pont szerinti korlátozások miatt figyelembe nem vehető része,
 
-g) az alapvető kölcsöntőkének a 7B. pont szerinti korlátozások miatt figyelembe nem vehető része.
+g) a kereskedési könyvben nyilvántartott kevésbé likvid tételekre külön jogszabály alapján számított, jelentős veszteséget eredményező értékelési korrekciók (az Szmt. szerinti valós értékelés alá nem vont tételek esetében ezen értékelési korrekcióknak az elszámolt értékvesztés és megképzett céltartalék feletti többlete).
 
-h) a kereskedési könyvben nyilvántartott kevésbé likvid tételekre külön jogszabály alapján számított, jelentős veszteséget eredményező értékelési korrekciók (az Szmt. szerinti valós értékelés alá nem vont tételek esetében ezen értékelési korrekcióknak az elszámolt értékvesztés és megképzett céltartalék feletti többlete),
+6. A 3. pont a) alpontja szerinti befizetett jegyzett tőkében olyan részvény és részjegy vehető figyelembe, amely
 
-i) visszavásárolt saját részvények könyv szerinti értéke.
+a) a felszámolás során a kielégítési rangsorban az utolsó helyen áll,
 
-5. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+b) a névértékhez képest előre rögzített mértékű osztalék-, részesedés-, vagy kamatfizetésre nem jogosít,
 
-6. Ha a hitelintézet a jegyzett tőke leszállításáról dönt, a hitelintézetnek a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe venni.
+c) az elmúlt év vagy évek elmaradt osztalék, részesedés vagy kamat kifizetésére a későbbi időszakban jogosító, kumulatív tulajdonsággal nem rendelkezik.
 
-7. A szavatoló tőke számítása során az általános kockázati céltartalék a mindenkori társasági adó mértékével csökkentett összegben vehető figyelembe.
+7. A 3. pont h) alpontja szerinti vegyes tulajdonságú befizetett jegyzett tőkének minősül minden olyan részvény és részjegy, amely nem felel meg 6. pontban foglalt feltételeknek, de teljesíti a következőket:
 
-7A. A törvény alkalmazásában alapvető kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+a) a felszámolás során a kielégítési rangsorban a járulékos tőkében szereplő eszközök után következik,
 
-a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+b) visszaváltásuk, illetve visszavásárlásuk a hitelintézet mérlegelési joga,
 
-b) a kölcsön nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek előtti legutolsó helyen áll,
+c) kibocsátástól számított 5 évnél korábban nem válthatók, illetve vásárolhatók vissza,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan futamidejű, kizárólag a Felügyelet engedélyével, legalább öt év futamidő elteltét követően mondható fel,
+d) a jegyzési dokumentáció feltételei olyanok, hogy a visszaváltásra, visszavásárlásra vonatkozó ösztönzés mérsékelt, és hatása 10 évnél nem korábban jelentkezik,
 
-d) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) visszaváltásukhoz, illetve visszavásárlásukhoz felügyeleti engedély kell,
 
-e) a kölcsön-, illetve az értékpapír-adásvételi szerződés semminemű olyan feltételt nem tartalmaz, amely a kapcsolódó kamat- és járulékfizetést tíz éven belül megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
+f) a hitelintézet a jegyzési dokumentáció alapján bármikor jogosult arra, hogy meghatározatlan ideig ne fizessen osztalékot, részesedést vagy kamatot, anélkül, hogy az elmaradt osztalék, részesedés vagy kamat fizetésére a későbbiekben bármilyen kötelezettsége lenne,
 
-f) a hitelintézet a kamatfizetést elhalaszthatja,
+g) a jegyzési dokumentációban szereplő osztalék, részesedés, kamat és egyéb kifizetési feltételek olyanok, hogy azok nem akadályozzák a hitelintézet szükség esetén történő feltőkésítését,
 
-g) ha egy adott évben az f) alpontban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
+h) a Felügyelet a részvény és részjegy visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
 
-h) ha a hitelintézet a kölcsön alapján valamely fizetési kötelezettségének nem tesz eleget, akkor a kölcsönnyújtó – ezen a jogcímen – nem jogosult a hitelintézet felszámolását kezdeményezni,
+i) a Felügyelet törölheti a részvény és részjegy visszaváltását, osztalék, részesedés vagy kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-i) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
+j) a Felügyelet engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
 
-7B. A figyelembe vehető alapvető kölcsöntőke összege nem haladhatja meg az alapvető tőkeelemek összegének 15%-át.
+k) a hitelintézet köteles törölni az osztalék-, részesedés-, vagy kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-8. A járulékos tőke pozitív összetevői a számviteli kimutatások alapján:
+l) a Felügyelet előírhatja az osztalék-, részesedés-, vagy kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
 
-a) osztalék-elsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények,
+m) a Felügyelet az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek és részjegynek a 3. pont a) alpontja szerinti részvénnyel vagy részjeggyel való helyettesítést.
+
+8. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+
+9. Ha a hitelintézet a jegyzett tőke leszállításáról dönt, a hitelintézetnek a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe vennie.
+
+10. A szavatoló tőke számítása során az általános kockázati céltartalék a mindenkori társasági adó mértékével csökkentett összegben vehető figyelembe.
+
+11. A törvény alkalmazásában alapvető kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+
+a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+
+b) a kölcsönszerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet folyamatos működése mellett is a hitelintézet adósságának rendezésébe, és a kölcsönt nyújtó követelése felszámolási eljárás esetén a törlesztések sorrendjében a járulékos kölcsöntőke után áll,
+
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag a Felügyelet engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
+
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok tartalmazhatnak egy vagy több visszaváltási opciót, melynek lehívása kizárólag a hitelintézet döntésétől függ,
+
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+
+f) a Felügyelet a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
+
+g) a Felügyelet törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
+
+h) a Felügyelet engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
+
+i) amennyiben egy határozatlan futamidejű kölcsön, vagy hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok mérsékelt ösztönzést tartalmaznak a visszaváltásra vagy visszavásárlásra, akkor ilyen tőketörlesztés a futamidő első 10 évében nem lehetséges,
+
+j) határozott futamidejű kölcsön-, illetve hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmazhatnak, ami a futamidő lejárata előtti visszafizetésre ösztönöz,
+
+k) a hitelintézet a kamatfizetést törölheti,
+
+l) a hitelintézet köteles törölni a kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
+
+m) a Felügyelet előírhatja a kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+
+n) ha egy adott évben a k)–m) alpontokban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
+
+o) ha a hitelintézet a kölcsön alapján valamely fizetési kötelezettségének nem tesz eleget, akkor a kölcsönnyújtó – ezen a jogcímen – nem jogosult a hitelintézet felszámolását kezdeményezni,
+
+p) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
+
+q) a Felügyelet a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
+
+12. a) Amennyiben a hitelintézet több alapvető, illetve járulékos kölcsöntőkét bocsátott ki, a kölcsöntőke tulajdonosai számára megfelelő tájékoztatást kell adnia a kölcsöntőke adósságrendezésbe való bevonásának lehetőségéről, az adott kölcsöntőke elem kielégítési sorrendben elfoglalt helyéről, valamint a különböző kibocsátású kölcsöntőkék egymáshoz viszonyított helyéről az adósságbevonási, illetve -kielégítési sorrendben.
+
+b) Ha az alapvető és járulékos kölcsöntőke különleges célú gazdasági egységen keresztül kerül kibocsátásra, akkor a 11. pontban foglaltak teljesülése esetén átválthatónak kell lennie a hitelintézet által közvetlenül kibocsátott kölcsöntőkére azzal, hogy a kölcsöntőkenyújtók nem kerülhetnek hátrányosabb helyzetbe, mintha a kölcsöntőkét a hitelintézet közvetlenül bocsátotta volna ki. A különleges célú gazdasági egység egyéb tevékenységet üzletszerűen nem végezhet.
+
+13. A szavatoló tőke számítása során az alapvető kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, alapvető kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
+
+14. A vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének az alapvető tőkébe történő együttes beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+
+a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre vagy részjegyre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a hitelintézet pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt a Felügyelet előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
+
+b) az alapvető tőke együttesen legfeljebb 35%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely határozatlan futamidejű, és amelyhez nem kapcsolódik visszaváltásra vagy visszavásárlásra ösztönző rendelkezés, de az a) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át,
+
+c) az alapvető tőke együttesen legfeljebb 15%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke, és alapvető kölcsöntőke, amely lejárattal rendelkezik, vagy amelyhez visszaváltásra vagy visszavásárlásra mérsékelt ösztönző rendelkezés kapcsolódik, de az a) és b) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át.
+
+15. A járulékos tőke pozitív összetevői a számviteli kimutatások alapján:
+
+a) a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett elsőbbségi részvények, továbbá minden egyéb részvény és részjegy, amely nem felel meg a 6. vagy 7. pontban foglalt feltételeknek,
 
 b) értékelési tartalék,
 
@@ -86,53 +160,55 @@ c) alárendelt kölcsöntőke,
 
 d) járulékos kölcsöntőke,
 
-e) a 7B. pontban meghatározott mértéket meghaladó alapvető kölcsöntőke,
+e) a 14. pontban meghatározott mértéket meghaladó vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke,
 
 f) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett kockázati céltartalék – ide nem értve az általános kockázati céltartalék – összegének a várható veszteség értékével csökkentett értéke a kockázattal súlyozott kitettség érték 0,6%-áig, ha ez a különbség pozitív.
 
-8A. Ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 8. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
+16. Ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 15. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
 
-9. A járulékos tőke negatív összetevője:
+17. A járulékos tőke negatív összetevője:
 
 az alárendelt kölcsöntőke figyelembe nem vehető része.
 
-9A. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
+18. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
 
-a) kielégíti a 7A. pont a)–f) és h)–i) alpontban meghatározott feltételeket, és
+a) kielégíti a 11. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
 
-b) ha egy adott évben a 7A. pont f) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 7A. pont f) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
+b) ha egy adott évben a 11. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 11. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
 
-10. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+19. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
 
-a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
 
-b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek előtti legutolsó helyen áll,
+b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
 
-c) a kölcsön, – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje öt évet meghaladó lejáratú, és legkevesebb öt év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb öt év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
 
-d) a kölcsön-, illetve az értékpapír adás-vételi szerződés semminemű olyan feltételt nem tartalmaz, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referencia kamat emelkedéséből adódó kamatnövekedést,
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
 
 f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 
-11. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását legalább a visszafizetési időpontot megelőző öt év során – fokozatosan, évente egyenlő arányban – csökkenteni kell.
+20. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását a visszafizetési időpontot megelőző 5 év során – fokozatosan, évente 20%-kal egyenlő arányban – csökkenteni kell.
 
-12. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
+21. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
 
-12A. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+22. A szavatoló tőke számítása során a járulékos és alárendelt kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, járulékos vagy alárendelt kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
 
-13. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+23. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+
+24. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
 
 a) a figyelembe vehető járulékos tőke összege nem haladhatja meg az alapvető tőke összegének 100%-át,
 
-b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alárendelt kölcsöntőke, valamint a 8. pont a) alpontja szerinti lejárattal rendelkező osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
+b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alapvető, járulékos és alárendelt kölcsöntőke, valamint a járulékos tőkeként figyelembe vehető lejárattal rendelkező részvények és részjegyek összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
 
-14. A 13. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50-50%-os arányban kell levonni:
+25. A 24. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50–50%-os arányban kell levonni:
 
 a) a más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékét – ha a felsoroltaknál a hitelintézet minősített befolyással rendelkezik –, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékét,
 
-b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–13. pontok figyelembevételével számított szavatoló tőke tíz százalékát meghaladó részét,
+b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–24. pontok figyelembevételével számított szavatoló tőke 10%-át meghaladó részét,
 
 c) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék összegének a várható veszteség értékével csökkentett értékének összegét, ha ez a különbség negatív, valamint a részesedések kockázattal súlyozott kitettség értékének – a külön jogszabály szerinti – az egyszerű súlyozási módszerrel vagy PD/LGD módszerrel történő meghatározása esetén, a részvénykitettségek várható vesztesége összegét,
 
@@ -140,14 +216,22 @@ d) azon értékpapírosítási pozíciók összegét, amelyhez külön jogszabá
 
 e) a kereskedési könyv szerinti nyitva szállítás értékét a második szerződés szerinti (fizetést vagy szállítást követő) 5. munkanaptól az ügylet megszűntéig.
 
-14A. Ha a 13. pont szerinti korlátozások figyelembe vételével meghatározott járulékos tőke értékét meghaladja a 14. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
+26. Ha a 24. pont szerinti korlátozások figyelembevételével meghatározott járulékos tőke értékét meghaladja a 25. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
 
-15. A 14. pontban foglalt levonásokat követően fennmaradó – a 8. pont f) alpontjában és a 14. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 79–85. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
+27. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó – a 15. pont f) alpontjában és a 25. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 79–85. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
 
-16. A 14. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni:
+28. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 79. és 83. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 24. pontban meghatározott korlátozásokat.
 
-a) a 79. és 83. § szerinti limittúllépések összegét,
+29. A szavatoló tőke a 76. § (1) bekezdése a) pontjának 1. és 4. pontja és (2) bekezdése alkalmazásában a 28. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
 
-b)
+30. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az alapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 28. pontban foglalt levonások és a 76. § (1) bekezdése a) pontjának 1. és 4. alpontjában, a 76. § (2) bekezdésében és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 24. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
 
-A levonások során érvényesíteni kell a 13. pontban meghatározott korlátozásokat.
+31. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
+
+a) megfelel a 19. pont a), b), d), e) és f) alpontjában rögzített feltételeknek,
+
+b) eredeti futamideje legalább két év,
+
+c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően kizárólag akkor fizethető vissza, ha a kereskedési könyvet vezető intézmény megfelel a rá vonatkozó tőkekövetelményeknek.
+
+32. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének 200%-át.

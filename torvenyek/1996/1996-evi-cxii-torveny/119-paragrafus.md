@@ -8,7 +8,7 @@ a) a csatlakozási díj,
 
 b) hitelintézetek által teljesített rendszeres, illetve rendkívüli éves befizetés,
 
-c) a Felügyelet által a hitelintézetektől, ide nem értve az önkéntes betétbiztosítási, illetve intézményvédelmi alapban tag szövetkezeti hitelintézeteket, a beszedett bírságok összegének nyolcvan százaléka,
+c)
 
 d) az Alap által felvett kölcsön,
 

@@ -28,7 +28,11 @@ m) a független közvetítők felelősségbiztosítási szerződéseinek tartalm
 
 n) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
 
-o) a Hpt. 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára
+o) a Hpt. 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
+
+p) az átruházott hitelkockázatot megtestesítő kitettségekre,
+
+q) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
 
 vonatkozó részletes szabályokat.
 
@@ -40,9 +44,7 @@ b) a kintlevőségek, befektetések, a mérlegen kívüli tételek és a fedezet
 
 c)–e)
 
-f) a belső ellenőrzési rendszerekre, illetőleg eljárásokra,
-
-g) a Felügyeletnek szolgáltatandó rendszeres jelentések tartalmára, formájára, a jelentésadás módjára és időpontjára,
+f)–g)
 
 h) a közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 
@@ -56,7 +58,7 @@ l) a deviza nyitott pozícióra,
 
 m) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre,
 
-n)
+n) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére,
 
 o)
 
@@ -68,4 +70,10 @@ r) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű s
 
 vonatkozó részletes szabályokat.
 
-(3)
+(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+
+a) a hitelintézetek befektetési szabályzatára,
+
+b) a belső ellenőrzési rendszerekre, eljárásokra
+
+vonatkozó részletes szabályokat.

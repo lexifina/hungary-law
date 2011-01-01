@@ -8,6 +8,6 @@
 
 (2)
 
-(3) E törvény hatálybalépésének napján hatályát veszti a jogalkotásról szóló 1987. évi XI. törvény 51/B. §-a, az előtte lévő cím, valamint az 1991. évi LXVIII. törvény.
+(3)
 
 (4)

@@ -36,8 +36,10 @@ n) a pénzügyi intézmény által vállalt kockázat fedezetét nyújtó harmad
 
 o) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása
 
-p) az MNB részére, írásbeli megkeresés alapján a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 4. § (1)–(7) bekezdéseiben meghatározott alapvető feladatai teljesítése érdekében végrehajtott műveletei biztosítékául szolgáló hitelkövetelésekre vonatkozó adatátadás,
+p) az MNB részére, írásbeli megkeresés alapján az MNB tv. 4. § (1)–(7) bekezdéseiben meghatározott alapvető feladatai teljesítése érdekében végrehajtott műveletei biztosítékául szolgáló hitelkövetelésekre vonatkozó adatátadás,
 
-q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás.
+q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
+
+r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek.
 
 (2)–(10)

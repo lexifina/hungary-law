@@ -4,9 +4,9 @@ a) a nevét, székhelyét,
 
 b) a tevékenység végzésének helyét,
 
-c) az alapítás nyilvántartásba vételének, valamint a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontját,
+c) a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontját,
 
-d) azt az adatot, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, pénzforgalmi közvetítő, többes kiemelt közvetítő, többes ügynök, alkusz, vagy közvetítői alvállalkozó,
+d) azt az adatot, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, pénzforgalmi közvetítő, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó,
 
 e) a közvetítőt megbízó pénzügyi intézmény, pénzforgalmi intézmény nevét,
 
@@ -16,11 +16,9 @@ g) a közvetítői alvállalkozó esetén a közvetítő nevét,
 
 h) a független közvetítőnél vezető állású személynek
 
-ha) a tisztségét, valamint az általa betöltött munkakört,
+ha) a tisztségét,
 
-hb) a 3. számú melléklet I. Fejezetében meghatározott azonosító adatait és
-
-hc) a jogviszony jellegére vonatkozó adatát.
+hb) a 3. számú melléklet I. Fejezetében meghatározott azonosító adatai közül a vezető állású személy nevét, születési helyét, idejét és anyja nevét.
 
 (2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 

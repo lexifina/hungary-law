@@ -194,7 +194,7 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 12. Vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot.
 
-13.
+13. Konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó hitelintézet és EU-szintű hitelintézeti anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság
 
 14. Érintett felügyeleti hatóság:
 
@@ -220,7 +220,7 @@ a) vállalkozásban fennálló tulajdoni hányadának (részesedésének) mért�
 
 b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testületi tagjainak legalább húsz százalékát kinevezheti vagy felmentheti, vagy
 
-c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a vállalkozás működésére.
+c) létesítő okirat, megállapodás alapján vagy összehangoltan eljáró személyek együttműködésének eredményeképpen jelentős befolyást gyakorolhat a vállalkozás működésére.
 
 3. Jó üzleti hírnév: a pénzügyi intézmény és a pénzforgalmi intézmény vezetőinek, minősített befolyással rendelkező tulajdonosainak a pénzügyi intézmény és a pénzforgalmi intézmény irányítására, illetve tulajdonlására való alkalmasságát igazoló feltételek megléte.
 
@@ -282,11 +282,13 @@ b) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fe
 
 c) betét és fizetési számla (bankszámla).
 
+Nem minősül versengő szolgáltatásnak a kézizálog fedezete mellett nyújtott pénzkölcsön.
+
 20. Ügyfélcsoport (kapcsolatban álló ügyfelek csoportja): két vagy több ügyfél, akikkel szemben a hitelintézet (vagy azon vállalkozás, amelyre az összevont alapú felügyelet kiterjed) kockázatot vállalt és ez egyetlen kockázatnak minősül, mert
 
 a) az egyik ügyfél közvetve vagy közvetlenül az Szmt. 3. § (2) bekezdésének 1. pontja szerinti meghatározó befolyást gyakorol a csoport másik tagja felett,
 
-b) az ügyfelek olyan kapcsolatban állnak egymással, hogy ha az egyiknél pénzügyi problémák merülnek fel, valószínűsíthető, hogy a másik is visszafizetési nehézségekkel kénytelen számolni; ilyen kapcsolatnak számít különösen a
+b) az ügyfelek olyan kapcsolatban állnak egymással, hogy ha az egyiknél pénzügyi – különösen finanszírozási vagy visszafizetési – problémák merülnek fel, valószínűsíthető, hogy a másik is finanszírozási vagy visszafizetési nehézségekkel kénytelen számolni; ilyen kapcsolatnak számít különösen a
 
 1. kezesség, készfizető kezesség, garanciák és egyéb biztosíték,
 
@@ -342,7 +344,21 @@ g) független közvetítő esetén a pénzügyi szolgáltatás közvetítéséne
 
 36. Csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik.
 
-37.
+37.1. Visszaváltásra vagy visszavásárlásra ösztönző rendelkezés: minden olyan szerződéses kitétel, amely a pénzügyi intézményt az alapvető kölcsöntőke visszaváltására vagy visszavásárlásra ösztönzi, így különösen
+
+a) amely a kapcsolódó kamat- vagy járadékfizetést a futamidő során emeli (step-up), ide nem értve a referenciakamat változásából származó kamatnövekedést,
+
+b) valamint ha a szerződés lehetőséget biztosít a kölcsöntőke kibocsátója számára arra, hogy a kölcsöntőkét részvénnyé vagy részjeggyé váltsa át egy előre meghatározott konverziós rátán.
+
+37.2. Mérsékelt visszaváltásra vagy visszavásárlásra ösztönző rendelkezés: kamat vagy járadék emelkedése mérsékeltnek tekinthető, ha az nem haladja meg
+
+a) a 100 bázispontot, csökkentve az eredeti megállapodás szerinti kamatláb és a megnövelt kamatláb közötti különbséggel, vagy
+
+b) az eredeti kockázati felár 50%-át, csökkentve az eredeti megállapodás szerinti kamatláb és a megnövelt kamatláb közötti különbséggel.
+
+Az eszköz futamideje alatt legfeljebb egy alkalommal kerülhet sor a kamat vagy járulék ilyen emelésére.
+
+Mérsékelt visszaváltásra vagy visszavásárlásra ösztönző rendelkezésnek csak az a kölcsöntőke részvénnyé való átváltás minősíthető, amely esetében az átváltás időpontjában meghatározott konverziós ráta nem több, mint a kibocsátás időpontjában meghatározott konverziós ráta 150%-a.
 
 38. Anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol.
 
@@ -382,6 +398,40 @@ b) pénzforgalmi intézmény esetén olyan megállapodás egy pénzforgalmi int�
 
 54. Tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
 
+55. Eszközfedezet melletti értékpapír-kibocsátás (ABCP program): olyan értékpapírosítási program, amelynek keretében kibocsátott értékpapírok könyv szerinti értékének legalább 75%-a kereskedelmi értékpapír.
+
+56. Értékpapírosítás: olyan ügylet, amelynek keretében
+
+a) egy kitettség vagy a kitettségek halmazának (pooljának) hitelezési kockázata több ügyletrész-sorozatba kerül besorolásra,
+
+b) az ügylettel kapcsolatos kifizetések az értékpapírosított kitettség, illetve a kitettségek halmazának (pooljának) teljesítése függvényében alakulnak, és
+
+c) az ügyletrészsorozatok egymáshoz viszonyított alárendeltsége határozza meg az ügylet futamideje alatt a veszteségek eloszlását.
+
+57. Értékpapírosítási pozíció: az értékpapírosítási ügyletben vállalt hitelezési kockázati kitettség;
+
+58. Értékpapírosítást kezdeményező: olyan vállalkozás, amely
+
+a) saját maga vagy kapcsolt vállalkozásán keresztül – közvetlenül vagy közvetve – részese volt az értékpapírosítás alapjául szolgáló kitettséget létrehozó azon eredeti megállapodásnak, amelyben rögzítették az adós (potenciális adós) fizetési kötelezettségét (potenciális fizetési kötelezettségét), vagy
+
+b) megvásárolja egy harmadik fél kitettségeit, majd értékpapírosítja azokat.
+
+59. Különleges célú gazdasági egység (KCGE): hitelintézetnek vagy befektetési vállalkozásnak nem minősülő, egy vagy több értékpapírosítási ügylet végrehajtására létrehozott olyan jogi személyiségű gazdasági társaság vagy egyéb jogi személy, amelynek tevékenysége kizárólag az értékpapírosítási ügylet végrehajtására korlátozódik, és amelynek forrásai között az értékpapírosítást kezdeményező kötelezettségei elkülönülnek e jogi személyiségű gazdasági társaság vagy egyéb jogi személy kötelezettségeitől, és az értékpapírosítási ügylethez kapcsolódó tulajdonosi vagy rendelkezési jogok gyakorlója jogait korlátlanul megterhelheti vagy elcserélheti.
+
+60. Likviditási többlettartalék: előre meghatározott stresszhelyzetben egy adott időhorizonton mért nettó finanszírozási résnek a normál likviditási helyzethez mért növekményét ellensúlyozó képesség, amely meghatározott tulajdonságokkal rendelkező likvid eszközökből áll.
+
+61. Stressz: olyan jelentősen kedvezőtlen helyzet, amely a gazdasági és piaci folyamatok normál körülményei között reálisan nem várható, de valószínűséggel ki sem zárható.
+
+62. Szponzor: értékpapírosítást kezdeményezőnek nem minősülő hitelintézet, amely ABCP programot vagy más értékpapírosítási konstrukciót hoz létre és működtet, amely harmadik fél kitettségeit vásárolja meg.
+
+63. Ügyletrészsorozat: az értékpapírosítási ügylet alapjául szolgáló egy vagy több kitettség hitelezési kockázatának szerződésben rögzített, elkülönülő része, ahol e rész egy pozíciójához nagyobb vagy kisebb hitelezési kockázat kapcsolódik, mint az ügylet más részének ugyanilyen méretű pozíciójához tartozó hitelezési kockázata, figyelmen kívül hagyva a harmadik fél által az adott értékpapírosítási pozícióval rendelkezőnek nyújtott hitelkockázati fedezeteket.
+
+64. Javadalmazás: a hitelintézet által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás.
+
+65. Teljesítményjavadalmazás: a hitelintézet és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a hitelintézet, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a hitelintézet pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
+
+66. Nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
+
 III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 1. Előre nem rendelkezésre bocsátott hitelkockázati fedezet: olyan hitelezésikockázat-mérséklési eljárás, amelynél a hitelintézet kitettségéhez kapcsolódó hitelezési kockázat mérséklése egy harmadik fél kötelezettségvállalásából származik, amely szerint az adós nemteljesítése, fizetésképtelensége esetén, vagy egyéb, a felek megállapodása szerint a kielégítési jog megnyíltát eredményező hitelesemény beálltakor meghatározott összeg kifizetésére vállal kötelezettséget.
@@ -406,7 +456,7 @@ III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 11. Intézményvédelmi rendszer: olyan rendszer, amelynek célja, hogy a hozzá csatlakozott tag likviditását, illetőleg fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén ezen tag számára a jogszabályi követelményeknek való megfelelés érdekében támogatást nyújthasson.
 
-12. Kitettség: eszköz vagy olyan mérlegen kívüli kötelezettség, amelyből eszköz keletkezik.
+12. Kitettség: eszköz vagy olyan mérlegen kívüli tétel, amelyből eszköz keletkezik vagy eszköz keletkezhet.
 
 13. Központi kormány: a Magyar Állam, valamint minden olyan szervezet, amelyet az Európai Unió bármely tagállamának jogrendje annak tekint.
 

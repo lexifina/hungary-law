@@ -54,7 +54,7 @@ d) pénzügyi ügynöki tevékenység a bankközi piacon.
 
 (9) A függő ügynök a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
 
-(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
+(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
 (11) A kockázati tőkealap a tőkepiacról szóló 2001. évi CXX. tövényben (a továbbiakban: Tpt.) meghatározott mértékben az ott felsorolt személyi kör részére pénzkölcsönt nyújthat.
 

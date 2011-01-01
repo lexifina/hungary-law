@@ -1,35 +1,51 @@
-80. § (1) A 79. § (1)–(3) és (7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni
+80. § A 79. § (1)–(3) bekezdésében foglalt rendelkezéseket nem kell alkalmazni
 
 a) a hitelintézet anyavállalatával, az adott anyavállalat más leányvállalatával vagy a hitelintézet saját leányvállalatával szembeni kitettségre, amennyiben az érintett vállalkozásokra olyan összevont alapú felügyelet vonatkozik, amelybe a hitelintézet is beletartozik,
 
-b) a központi kormánnyal, a központi bankkal szembeni olyan – hitelkockázati fedezettel nem ellátott – kitettségre, amelyhez a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
+b) a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettségre, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
 
-c) a nemzetközi szervezettel, a multilaterális fejlesztési bankkal szembeni olyan – hitelkockázati fedezettel nem ellátott – kitettségre, amelyhez a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
+c) a központi kormánnyal, a központi bankkal szembeni olyan kitettségre, amelyhez a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában hitelkockázati fedezet nélkül is nulla százalékos kockázati súly rendelhető,
 
-d) központi kormány, központi bank, nemzetközi szervezet, multilaterális fejlesztési bank vagy közszektorbeli intézmény által kifejezetten garantált olyan kitettségre, ahol a garanciát nyújtóval szembeni – hitelkockázati fedezettel nem ellátott – kitettségre a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
+d) a nemzetközi szervezettel, a multilaterális fejlesztési bankkal szembeni olyan kitettségre, amelyhez a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában hitelkockázati fedezet nélkül is nulla százalékos kockázati súly rendelhető,
 
-e) olyan kitettségre, amely központi kormánnyal, központi bankkal, közszektorbeli intézménnyel, nemzetközi szervezettel vagy multilaterális fejlesztési bankkal szemben áll fenn, vagy amelyet ezek valamelyike garantál azzal, hogy akivel szemben a kitettség fennáll vagy aki a garanciát nyújtja, annak hitelkockázati fedezettel nem ellátott kitettségére a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
+e) központi kormány, központi bank, nemzetközi szervezet, multilaterális fejlesztési bank vagy közszektorbeli intézmény által kifejezetten garantált olyan kitettségre, ahol a garanciát nyújtóval szembeni kitettségre a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában hitelkockázati fedezet nélkül is nulla százalékos kockázati súly rendelhető,
 
-f) központi kormánnyal, központi bankkal szembeni, a központi kormány, központi bank nemzeti pénznemében fennálló (denominált) és finanszírozott kitettségre,
+f) olyan kitettségre, amely központi kormánnyal, központi bankkal, közszektorbeli intézménnyel, nemzetközi szervezettel vagy multilaterális fejlesztési bankkal szemben áll fenn, vagy amelyet ezek valamelyike garantál azzal, hogy akivel szemben a kitettség fennáll vagy aki a garanciát nyújtja, annak hitelkockázati fedezettel nem ellátott kitettségére a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában nulla százalékos kockázati súly rendelhető,
 
-g) olyan központi kormány, központi bank nemzeti pénznemében lévő, óvadékként lekötött összeg vagy óvadékul adott betét, az adott központi kormány, központi bank által kibocsátott hitelviszonyt megtestesítő értékpapír által fedezett kitettségre, amelynél a központi kormánnyal, központi bankkal szembeni kitettségre a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
+g) az olyan készpénz óvadékkal fedezett kitettségre, amelyet a hitelintézetnél vagy a hitelintézet anya- vagy leányvállalatánál helyeztek el,
 
-h) olyan kitettségre, amelynek hitelkockázati fedezete nemzetközi szervezet, multilaterális fejlesztési bank vagy az Európai Unió tagállamának központi kormánya, központi bankja, regionális kormánya, helyi önkormányzata vagy közszektorbeli intézménye által kibocsátott olyan, hitelviszonyt megtestesítő értékpapír, amelynél a központi kormánnyal, központi bankkal szembeni kitettségre a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
+h) az olyan letéti jegy óvadékkal fedezett kitettségre, amelyet a hitelt nyújtó hitelintézet vagy az a hitelintézet bocsátott ki, amely a hitelt nyújtó hitelintézet anya- vagy leányvállalata, és amely óvadékot ezek valamelyikénél helyezték el,
 
-i) külön jogszabályban meghatározott fedezett kötvény formájában fennálló kitettségre,
+i) olyan kitettségre, amelynek hitelkockázati fedezete nemzetközi szervezet, multilaterális fejlesztési bank vagy az Európai Unió tagállamának központi kormánya, központi bankja, regionális kormánya, helyi önkormányzata vagy közszektorbeli intézménye által kibocsátott olyan, hitelviszonyt megtestesítő értékpapír, amelynél a központi kormánnyal, központi bankkal szembeni kitettségre a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában nulla százalékos kockázati súly rendelhető,
 
-j) külön jogszabályban meghatározottak szerint nulla vagy húsz százalékos ügyletkockázati súlyozás alá tartozó, kitettséget jelentő mérlegen kívüli kötelezettségvállalásra, az ügyletkockázati súly nélkül számított ötvenszázalékos értéken,
+j) a hitelezési kockázat kezeléséről szóló külön jogszabályban meghatározott fedezett kötvény formájában fennálló kitettségre,
 
-k) a hitelintézettel, a befektetési vállalkozással és a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozással szembeni, szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező, legfeljebb egyéves lejáratú kitettségre,
+k) külön jogszabályban meghatározottak szerint húsz százalékos ügyletkockázati súlyozás alá tartozó mérlegen kívüli okmányos meghitelezésre, valamint – az l) pontban meghatározott eltéréssel – hitelkeret még igénybe nem vett részére, az ügyletkockázati súly nélkül számított ötvenszázalékos értéken,
 
-l) a biztosítóban lévő részesedésre a hitelintézet szavatoló tőkéjének legfeljebb negyven százalékáig,
+l) külön jogszabályban meghatározottak szerint nulla százalékos ügyletkockázati súlyozás alá tartozó mérlegen kívüli hitelkeret még igénybe nem vett részére, ha olyan megállapodás van az ügyféllel vagy ügyfélcsoporttal, amely alapján a hitel csak akkor hívható le, ha az nem vezet a 79. § (2) bekezdésében meghatározott korlátozás túllépéséhez,
 
 m) olyan hitelintézettel szemben fennálló kitettségre, amellyel a hitelnyújtó hitelintézet jogszabályi vagy szerződéses kapcsolatban áll, és amely a hitelintézet készpénz-elszámolási műveletéért felelős.
 
-(2) Az (1) bekezdésben meghatározott ügyletekhez kapcsolódó fedezeteket a hitelintézet köteles elkülönítetten nyilvántartani, annak érdekében, hogy figyelemmel kísérje és elemezze a fedezet nyújtójával szembeni lehetséges koncentrációs kockázatot.
+(2) Az (1) bekezdésben meghatározott ügyletekhez kapcsolódó fedezeteket, valamint a 79. § (6) bekezdése szerinti kitettségi osztály alapjául szolgáló eszközöket a hitelintézet köteles elkülönítetten nyilvántartani, annak érdekében, hogy figyelemmel kísérje és elemezze a fedezet nyújtójával, valamint az alapul szolgáló eszközökkel szembeni lehetséges koncentrációs kockázatot.
 
-(3) A 2. számú melléklet I. fejezet 10.2. pontjának d) alpontja szerinti kockázatvállalások tekintetében a 79. § (1)–(3) és (7) bekezdésében foglalt rendelkezéseket a jelzálog-hitelintézet által megvásárolt önálló zálogjoggal biztosított egyes ügyfélkövetelésekre kell alkalmazni, a zálogjog megvásárlásának időpontjára vonatkozóan.
+(3) A 2. számú melléklet I. fejezet 10.2. pontjának d) alpontja szerinti kockázatvállalások tekintetében a 79. § (1)–(3) bekezdésében foglalt rendelkezéseket a jelzálog-hitelintézet által megvásárolt önálló zálogjoggal biztosított egyes ügyfélkövetelésekre kell alkalmazni, a zálogjog megvásárlásának időpontjára vonatkozóan.
 
-(4) A 79. § (1)–(3) és (7) bekezdés alkalmazásában a tagállam regionális kormányával, helyi önkormányzatával szembeni kitettség, valamint az általa garantált kitettség értékének húsz százalékát kell figyelembe venni, ha ezen kitettséghez a sztenderd módszer alkalmazásában húsz százalékos kockázati súly rendelhető.
+(4) A nagykockázat-vállalásra vonatkozó rendelkezések tekintetében a garancia magában foglalja a készfizető kezességet, valamint a hitelezési kockázat mérsékléseként figyelembe vehető hitelderivatívákat is a hitelkockázati eseményhez kapcsolt értékpapírok kivételével.
 
-(5) Hitelkockázati fedezetként kizárólag elismert hitelezéskockázat-mérséklő tétel vehető figyelembe. A hitelezésikockázat-mérséklő tétel figyelembevételekor a sztenderd módszer vagy a 76/C. § (6) bekezdésének c) pontja szerinti módszer alkalmazása esetén a külön jogszabályban rögzített hitelezésikockázat-mérséklő tételre vonatkozó minimális követelményeknek kell eleget tenni.
+(5) A nagykockázat-vállalásra vonatkozó rendelkezések tekintetében hitelkockázati fedezetként – a (6) bekezdésben meghatározott eltéréssel – kizárólag elismert hitelezésikockázat-mérséklő tétel vehető figyelembe azzal, hogy a hitelezésikockázat-mérséklő tétel figyelembevételekor a hitelezési kockázat tőkekövetelményének sztenderd módszere vagy a 76/C. § (6) bekezdésének c) pontja szerinti módszer alkalmazása esetén a külön jogszabályban rögzített hitelezésikockázat-mérséklő tételre vonatkozó minimális követelményeknek kell eleget tenni.
+
+(6) Hitelkockázati fedezetként – a (7) bekezdésben meghatározott eltéréssel – nem vehető figyelembe a hitelkockázati fedezetek elismerhetőségéről szóló külön jogszabály szerinti
+
+a) kereskedelmi szolgáltatáshoz vagy legfeljebb egy év eredeti lejáratú ügylethez kapcsolódó követelést terhelő dologi biztosíték,
+
+b) ingó vagyontárgyat terhelő dologi biztosíték és
+
+c) lízingbe adott vagyontárgyat terhelő dologi biztosíték.
+
+(7) A 79. § (4) bekezdése szerinti kitettség érték a tulajdonos által lakott vagy bérbe adott lakóingatlan hitelbiztosítéki értékének legfeljebb ötven százalékával csökkenthető, ha
+
+a) a kitettség lakóingatlanon bejegyzett jelzálogjoggal van fedezve, vagy a kitettség olyan lízingügyletből ered, amelyben a lízingbeadó mindaddig fenntartja a lízingbe adott lakóingatlan tulajdonjogát, ameddig a lízingbe vevő nem él vételi jogával,
+
+b) a lakóingatlan hitelbiztosítéki értékét legalább háromévente meghatározzák, és
+
+c) a lakóingatlan a hitelkockázati fedezetek elismerhetőségéről szóló külön jogszabály szerint elismert hitelkockázati fedezet.

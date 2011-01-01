@@ -6,13 +6,13 @@ b) hitelintézettel és befektetési vállalkozással szembeni kitettségi oszt�
 
 c) ha az üzleti egységekben lévő kitettségek, valamint a méret és kockázati jellemzői alapján a kitettségi osztályok nem jelentősek,
 
-d) a Magyar Köztársaság kormányával szembeni kitettség esetén, ha ezen kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell rendelni,
+d) az Európai Unió tagállamának központi kormányával szembeni kitettség esetén, ha ezen kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell rendelni,
 
-e) a Magyar Köztársaság helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
+e) az Európai Unió tagállamának regionális kormányával, helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
 
-1. a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, valamint
+ea) a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a regionális kormány, a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, valamint
 
-2. a Magyar Köztársaság kormányával szembeni kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell alkalmazni,
+eb) az Európai Unió tagállamának központi kormányával szembeni kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell alkalmazni,
 
 f) a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 76/A. § (7) bekezdésében foglaltaknak, valamint a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettség esetén, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
 

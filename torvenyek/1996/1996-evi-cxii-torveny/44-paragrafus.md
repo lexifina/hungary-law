@@ -2,7 +2,7 @@
 
 44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő huszonkét munkanapon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
+(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
 (3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 

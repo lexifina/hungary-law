@@ -24,6 +24,12 @@ h) megbízás alapján elektronikus pénzeszközön történő adattárolást,
 
 i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében tulajdonába került fedezet, illetőleg biztosíték hasznosítására irányuló tevékenységet,
 
-j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet
+j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
+
+k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
+
+l) külön jogszabályban meghatározott közösségi támogatások közvetítését
 
 folytathat.
+
+(4) Fizetési rendszert működtető pénzügyi vállalkozás a (3) bekezdésben foglaltakon kívül egyéb pénzügyi szolgáltatásnak nem minősülő üzletszerű tevékenységet is folytathat, ha ezen tevékenysége a főtevékenységként végzett fizetési rendszer működtetését nem befolyásolja hátrányosan.

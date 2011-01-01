@@ -1,37 +1,43 @@
 ## Nagykockázat vállalásának korlátozása
 
-79. § (1) Nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni – a hitelezési kockázat tőkekövetelményének sztenderd módszerrel történő számításakor figyelembe veendő – kitettség, ha annak – (4) bekezdés szerint korrigált – értéke eléri a hitelintézet szavatoló tőkéjének legalább tíz százalékát.
+79. § (1) Nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni, a hitelezési kockázat tőkekövetelményének sztenderd módszerrel történő számításakor figyelembe veendő kitettség, ha annak – a (4) bekezdés szerint korrigált – értéke eléri a hitelintézet szavatoló tőkéjének legalább tíz százalékát.
 
-(2) Az egy ügyféllel vagy ügyfélcsoporttal szembeni – az (1) bekezdés szerint számított – kitettség értéknek az összege nem haladhatja meg a hitelintézet szavatoló tőkéjének a huszonöt százalékát.
+(2) Az egy ügyféllel vagy ügyfélcsoporttal szembeni – az (1) bekezdés szerint számított – kitettség értéknek az összege a hitelkockázat-mérséklés hatását is figyelembe véve
 
-(3) A hitelintézet által vállalt nagykockázat együttes összege nem lehet több, mint a hitelintézet szavatoló tőkéjének nyolcszorosa.
+a) nem haladhatja meg a hitelintézet szavatoló tőkéjének a huszonöt százalékát, vagy
+
+b) ha az ügyfél hitelintézet, befektetési vállalkozás, vagy az ügyfélcsoport egy vagy több hitelintézetet, befektetési vállalkozást is tartalmaz, akkor a negyvenkettő milliárd forint és az a) pontban meghatározott összeg közül a magasabbat azzal, hogy az ügyfélcsoport nem hitelintézet, befektetési vállalkozás tagjával szembeni kitettség értékének az összege – a hitelkockázat-mérséklés hatását is figyelembe véve – nem haladhatja meg a hitelintézet szavatoló tőkéjének a huszonöt százalékát.
+
+(3) Ha a hitelintézet szavatoló tőkéjének huszonöt százaléka nem éri el a negyvenkettő milliárd forintot, akkor a (2) bekezdés b) pontjának alkalmazásában – a hitelkockázat-mérséklés hatását is figyelembe véve – a kitettség értéke nem haladhatja meg a hitelintézet által a 13/D. § (3) bekezdés b) pontja alapján meghatározott mértéket, de legfeljebb a szavatoló tőke összegét.
 
 (4) A nagykockázat vállalásánál a kitettség értékének meghatározásakor a következőket kell figyelembe venni:
 
-a) sztenderd módszer szerint meghatározott kitettség azzal, hogy a mérlegen kívüli kötelezettségvállalás esetén a külön jogszabályban meghatározott ügyletkockázati súlyok nem kerülnek alkalmazásra,
+a) a hitelezési kockázat tőkekövetelményének sztenderd módszere szerint meghatározott kitettség érték azzal, hogy a mérlegen kívüli kötelezettségvállalás esetén a külön jogszabályban meghatározott ügyletkockázati súlyok nem kerülnek alkalmazásra,
 
-b) származtatott ügylet esetén a külön jogszabályban meghatározott módszerek valamelyike szerinti számított érték,
+b) származtatott ügylet esetén a hitelintézet partnerkockázatának kezeléséről szóló külön jogszabályban meghatározott módszerek valamelyike szerinti számított érték,
 
 c) nem kell a számításokba bevonni
 
-1. mindazon tételt, amelyet a szavatoló tőke kiszámítása során a prudenciális előírások túllépése miatt a hitelintézet a szavatoló tőkéjéből levont, vagy
+ca) mindazon tételt, amelyet a szavatoló tőke kiszámítása során a prudenciális előírások túllépése miatt a hitelintézet a szavatoló tőkéjéből levont,
 
-2. a fizetést követő negyvennyolc órát meg nem haladóan fennálló valuta-, illetve devizaügyletből származó követelést, vagy
+cb) a fizetést követő két munkanapot meg nem haladóan fennálló valuta-, illetve devizaügyletből származó követelést,
 
-3. az értékpapír-adásvételi ügylet esetében a fizetést vagy az értékpapír leszállítását követő öt munkanapot meg nem haladóan fennálló követelést.
+cc) az értékpapír-adásvételi ügylet esetében a fizetést vagy az értékpapír leszállítását követő öt munkanapot meg nem haladóan fennálló követelést,
 
-(5)
+cd) az ügyfél részére nyújtott pénzforgalmi szolgáltatásból – ideértve a fizetési, értékpapír-elszámolási és klíring szolgáltatás végrehajtását is bármilyen valutában, devizában, vagy pénzügyi eszközzel kapcsolatos elszámolási, klíring és letéti szolgáltatást is – származó követelést a következő munkanapig, vagy
 
-(6) A nagykockázat meghatározásánál a pénzügyi szolgáltatási tevékenység és a befektetési szolgáltatási tevékenység során vállalt kockázatokat együttesen kell figyelembe venni. A befektetési szolgáltatási tevékenység során vállalt kockázatokkal a (2) bekezdésben meghatározott mérték túlléphető abban az esetben, ha a hitelintézet ezen kockázatok fedezetére jogszabályban meghatározott mértékű tőkével rendelkezik.
+ce) a pénzforgalmi szolgáltatásból – ideértve a fizetési, klíring és értékpapír-elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában – származó pénzforgalmi szolgáltatóval szemben fennálló napon belüli kitettséget.
 
-(7) Ha az adott ügyfél vagy ügyfélcsoport a hitelintézet anyavállalata vagy leányvállalata, az adott anyavállalat leányvállalata, a hitelintézetben minősített befolyással rendelkező tulajdonos, vagy olyan vállalkozás, amelyben a hitelintézet vagy a hitelintézet tulajdonosa, igazgatósági tagja, felügyelő bizottsági tagja, ügyvezetője, illetve ezek közeli hozzátartozója minősített befolyással rendelkezik, a (2) bekezdésben meghatározott arány húsz százalék.
+(5) A nagykockázat meghatározásánál a pénzügyi szolgáltatási tevékenység és a befektetési szolgáltatási tevékenység során vállalt kockázatokat együttesen kell figyelembe venni. A befektetési szolgáltatási tevékenység során vállalt kockázatokkal a (2) és (3) bekezdésben meghatározott mérték túlléphető abban az esetben, ha a hitelintézet ezen kockázatok fedezetére jogszabályban meghatározott mértékű tőkével rendelkezik.
 
-(8) A hitelintézet a (7) bekezdésben meghatározott kockázatvállalásáról az igazgatóság jelen lévő tagjainak több mint kétharmados többségével dönt, az igazgatóság által jóváhagyott szabályzat alapján. A hitelintézet a kockázatvállalásokról elkülönített nyilvántartást vezet.
+(6) A hitelintézet az ügyfélcsoport meghatározásakor az
 
-(9) A kockázatvállalásról a (8) bekezdésben meghatározott döntésnek tartalmaznia kell a kamat- és törlesztési feltételeket is.
+a) értékpapírosítási pozícióba,
 
-(10) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3), illetőleg (7) bekezdésében foglalt korlátozást, a Felügyelet – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.
+b) kollektív befektetési értékpapírban fennálló kitettségbe vagy
 
-(11) A hitelintézet haladéktalanul jelenti a Felügyelet részére, amennyiben a (7) bekezdés szerinti kockázatvállalás átlag alatti, vagy rosszabb minősítést kap.
+c) egyéb tételbe
 
-(12) Vitás esetben a Felügyelet dönt arról, hogy a kockázatvállalás a (7) bekezdés szerinti kockázatvállalásnak minősül-e.
+tartozó kitettségi osztály esetében az ügyletet, az annak alapjául szolgáló eszközöket, vagy mindkettőt az ügylet gazdasági tartalma és az ügylet szerkezetéből eredő kockázatok felmérésével értékeli.
+
+(7) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3) bekezdésben foglalt korlátozást, a Felügyelet – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.

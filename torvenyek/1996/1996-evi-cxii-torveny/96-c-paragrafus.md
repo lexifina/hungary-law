@@ -24,11 +24,11 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 
 (10) A 96/A. § szerinti ellenőrzést a Felügyelet más tagállam felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
-(11) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyeletét, akkor a (7)–(9) bekezdésben rögzítetteken kívül az illetékes felügyeleti hatóságokkal történő együttműködése
+(11) Ha a Felügyelet a konszolidáló felügyeleti hatóság, akkor a (7)–(9) bekezdésben rögzítetteken kívül az Európai Unió tagállamának hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
 
-a) kiterjed az ellenőrzési, a felügyeleti felülvizsgálati feladatok összehangolására,
+a) a rendes működés során, ideértve az irányítási rendszerre és a kockázatkezelési követelményre vonatkozó rendelkezések [13/D. §] ellenőrzését, a hitelintézetek belső tőkemegfelelési folyamatának [76/K. §] értékelését, a felügyeleti felülvizsgálatot [145/A. §], a nyilvánosságra hozatali követelmények [137/A. §] alkalmazását, valamint a hitelintézettel szemben alkalmazott intézkedéseket,
 
-b) keretében biztosítja a felügyeleti feladatok ellátásához szükséges információáramlást.
+b) szükség esetén az illetékes központi bankok bevonásával a válsághelyzetekre való felkészülés és a válsághelyzetek során, ideértve a hitelintézetek működésében és a pénzügyi piacokon zajló kedvezőtlen folyamatokat is.
 
 (12) A Felügyelet – a XXVII. Fejezetre is tekintettel – minden olyan információt megad a tagállami illetékes felügyeleti hatóságnak, amely
 
@@ -46,10 +46,10 @@ b) keretében biztosítja a felügyeleti feladatok ellátásához szükséges in
 
 (14) Ha a Felügyelet egy másik tagállamban székhellyel rendelkező EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor a Felügyeletnek elsődlegesen ehhez a hatósághoz kell fordulnia.
 
-(15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó hitelintézet felügyeletét, és olyan válsághelyzet áll elő, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
+(15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó hitelintézet felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
 
 a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
 
 b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
 
-az adott tagállamban székhelye van, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
+a székhelye van, vagy amely tagállamban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.

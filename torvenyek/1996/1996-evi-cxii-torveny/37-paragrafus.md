@@ -14,7 +14,7 @@ a) minősített befolyást kíván szerezni, vagy
 
 b) minősített befolyását úgy kívánja módosítani, hogy az elérje a húsz, a harminchárom vagy a ötven százalékos határértéket.
 
-(2) Az (1) bekezdésben meghatározott engedély iránti kérelemhez a kérelmezőnek be kell nyújtania a 17. § (1) bekezdésének g), h) pontjában és a 17. § (3)–(4) bekezdésében meghatározott iratokat.
+(2) Az (1) bekezdésben meghatározott engedély iránti kérelemhez a kérelmezőnek be kell nyújtania a 17. § (1) bekezdésének g), h) pontjában és a 17. § (2)–(4) bekezdésében meghatározott iratokat.
 
 (3) A pénzügyi intézmény tulajdonosa a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak a Felügyelet engedélyével köthet.
 
