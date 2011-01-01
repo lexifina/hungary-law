@@ -8,9 +8,9 @@
 
 (4) A monetáris tanács 49. § (4) bekezdésének c) pontjában meghatározott tagjainak MNB-től származó keresete az elnök keresetének 35%-a.
 
-(5) A felügyelő bizottság elnökének tiszteletdíja az MNB elnöke MNB-től származó keresetének 15%-a.
+(5) A felügyelő bizottság elnökének tiszteletdíja e törvény által meghatározott fix összeg. A tiszteletdíj mértéke havi bruttó 1 200 000 forint.
 
-(6) A felügyelő bizottság további tagjainak tiszteletdíja az MNB elnöke MNB-től származó keresetének 10%-a.
+(6) A felügyelő bizottság további tagjainak tiszteletdíja e törvény által meghatározott fix összeg. A tiszteletdíj mértéke havi bruttó 800 000 forint.
 
 (7) Az MNB elnökét és alelnökeit a monetáris tanácsi tagságért külön díjazás nem illeti meg.
 

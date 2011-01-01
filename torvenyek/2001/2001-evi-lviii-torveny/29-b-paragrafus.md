@@ -8,7 +8,7 @@
 
 (5) A 29/A. § d) pontjában meghatározott ügyekben az ügyintézési határidő három hónap.
 
-(6) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tíz munkanap.
+(6) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
 
 (7) Az MNB az eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha erre – a 4. § (1)–(7) bekezdésében meghatározott alapvető feladatai ellátása érdekében, a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van. Az MNB e végzését soron kívül hozza meg.
 
