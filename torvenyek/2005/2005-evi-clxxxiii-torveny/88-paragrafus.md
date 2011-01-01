@@ -40,7 +40,7 @@ rendeletben állapítsa meg.
 
 3. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
 
-4. a hálózat-hozzáférési díjrendszer kereteit, valamint a hálózat-hozzáférési díjak képzésének, illetve alkalmazásának alapvető szabályait, valamint a Díjképzési Módszertanra és a Díjszámítási Dokumentumra vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel együttesen,
+4. a hálózat-hozzáférési díjrendszer kereteit, valamint a hálózat-hozzáférési díjak képzésének, illetve alkalmazásának alapvető szabályait, valamint a Díjképzési Módszertanra és a Díjszámítási Dokumentumra vonatkozó részletes szabályokat az államháztartásért felelős miniszter egyetértésével kiadott,
 
 5. a Hálózati Üzletszabályzatának tartalmára vonatkozó részletes szabályokat,
 
@@ -60,7 +60,7 @@ rendeletben állapítsa meg.
 
 13. a vasúti járművek, a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok gyártását, javítását, minősítését, valamint hatósági műszaki vizsgálatát végző személyek, illetve szervezetek működési feltételeit,
 
-14. a számviteli elválasztásnak és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszterrel együttesen,
+14. a számviteli elválasztásnak és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszter egyetértésével kiadott,
 
 15. a különleges vasutak működésének és hatósági engedélyezésének a feltételeit,
 
@@ -88,7 +88,7 @@ rendeletben állapítsa meg.
 
 27. a vasúti pályahálózathoz való nyílt hozzáférésnek az 53/C. § szerinti korlátozását,
 
-28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energetikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
+28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
 
 29. az egységes egyeztetési eljárásra vonatkozó részletes szabályokat,
 

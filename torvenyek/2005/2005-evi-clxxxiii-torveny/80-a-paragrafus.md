@@ -1,9 +1,11 @@
-80/A. § (1) A 80. § (4) bekezdés a) és b) pontjában meghatározott eljárásokban hozott elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az eljárásban nem vett részt.
+80/A. § (1) A közlekedési hatóság vasúti pályával és vasúti üzemi létesítménnyel kapcsolatos eljárásában ügyfélnek minősül a vasúti pálya vagy vasúti létesítmény építése, korszerűsítése, átalakítása és megszüntetése által terület-igénybevétellel érintett, vagy a vasúti pálya, vagy a vasúti létesítménnyel szomszédos, továbbá a megvalósult vasúti pálya, vagy vasúti létesítmény környezetvédelmi hatástanulmányában, ennek hiányában a műszaki tervdokumentációjában igazolt hatásterületen lévő ingatlan tulajdonosa, vagy az ezen ingatlan vonatkozásában a használat jogát biztosító dologi joggal rendelkező személy.
 
-(2) A 80. § (4) bekezdés a) és b) pontjában meghatározott eljárások megindítására irányuló kérelem elektronikus úton nem nyújtható be.
+(2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezését követő naptól számított harminc napon belül adja ki.
 
-(3) A hatóság a 10. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen az eljárás megindításától számított öt munkanapon belül értesíti.
+(3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban három hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, valamint a vasúti járművek típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje hat hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A vasúti szakhatósági eljárás ügyintézési határideje harminc nap.
 
-(4) A kiemelt jelentőségű ügynek nyilvánított, illetve jogszabályban közérdekűnek minősített vasúti pálya kialakításával kapcsolatos műszaki engedély – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) Az országos, térségi, elővárosi és helyi vasúti pályahálózatba tartozó vasúti pálya és tartozékai, valamint vasúti üzemi létesítmény engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
 
-(5) A 80. § (4) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(5) A közlekedési hatóság a vasútbiztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
+
+(6) A 80. § (1) bekezdés b) pontjában meghatározott eljárásokban a kérelmet és mellékleteit magyar nyelven kell benyújtani.

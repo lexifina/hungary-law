@@ -12,7 +12,7 @@ d)
 
 e) a honvédelemmel, a polgári védelemmel és a katasztrófa-elhárítással összefüggő vasúti feladatok ellátása.
 
-(2) A közlekedésért felelős miniszter (a továbbiakban: miniszter) feladata:
+(2) A miniszter feladata:
 
 a) a vasúti közlekedéspolitika és vasúti fejlesztési koncepció előkészítése, a jóváhagyott vasúti közlekedéspolitika és vasúti fejlesztési koncepció végrehajtásának szervezése,
 
