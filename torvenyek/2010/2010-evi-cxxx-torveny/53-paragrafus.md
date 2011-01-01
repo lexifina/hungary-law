@@ -11,11 +11,3 @@
 5. a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról szóló 2007. évi XV. törvény 18. § (5) bekezdése és
 
 6. az elektronikus információszabadságról szóló 2005. évi XC. törvény módosításáról szóló 2008. évi XXV. törvény 8. § (2) és (3) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
