@@ -8,7 +8,7 @@ Felelős: nemzeti fejlesztési és gazdasági miniszter
 
 Határidő: azonnal
 
-2. A Széchenyi Kártya Program keretében 2011. január 1-jétől kibocsátott kártyákhoz kapcsolódó kamat- és garanciadíj-támogatás mértéke 0 százalékpont.
+2.[^2]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -27,3 +27,5 @@ e) az elektronikus egészségbiztosítási kártya bevezetéséről szóló 1079
 f) valamint a Széchenyi Kártya Program folytatásának feltételeiről szóló 1015/2008. (III. 12.) Korm. határozat módosításáról szóló 1084/2008. (XII. 18.) Korm. határozat
 
 hatályát veszti.
+
+[^2]: A 2. pontot az 1310/2010. (XII. 27.) Korm. határozat 8. pontja hatályon kívül helyezte.
