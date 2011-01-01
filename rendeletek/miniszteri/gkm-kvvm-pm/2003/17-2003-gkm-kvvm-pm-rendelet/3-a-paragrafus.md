@@ -1,4 +1,4 @@
-3/A. §[^7] (1) Tengeri hajózásban használatos üzemanyag SOx kibocsátás-szabályozási területen fekvő, kizárólagos gazdasági övezetben és környezetszennyezés-ellenőrzési területen
+3/A. §[^9] (1) Tengeri hajózásban használatos üzemanyag SOx kibocsátás-szabályozási területen fekvő, kizárólagos gazdasági övezetben és környezetszennyezés-ellenőrzési területen
 
 a) a MARPOL VI. melléklete 14. rendelkezése (3) bekezdésének a) pontjában meghatározott balti-tengeri körzetben 2006. augusztus 11-től kezdődően,
 
@@ -26,4 +26,4 @@ d) azon dokumentumok egyidejű csatolásával, amelyek alapján megállapította
 
 (6) Az (1) bekezdés a) pontjában említett időponttól kezdődően hajózási gázolaj akkor hozható forgalomba, ha kéntartalma legfeljebb 1,5 m/m %.
 
-[^7]: A 3/A. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 4. §-a iktatta be.
+[^9]: A 3/A. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 4. §-a iktatta be.

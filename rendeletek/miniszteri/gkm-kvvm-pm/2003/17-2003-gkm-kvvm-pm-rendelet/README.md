@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-17-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-11-06 | 2003-17-20-0L.9 | 17/2003. (IV. 4.) GKM–KvVM–PM együttes rendelet |
+| 2011-01-01 | 2003-17-20-0L.10 | 35/2010. (XII. 31.) NFM rendelet |

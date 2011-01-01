@@ -20,6 +20,6 @@
 
 2. számú melléklet a 17/2003. (IV. 4.) GKM–KvVM–PM
 
-együttes rendelethez[^32]
+együttes rendelethez[^38]
 
-[^32]: A 2. számú melléklet a 68/2004. (IV. 28.) GKM–KvVM–PM együttes rendelet 7. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (2) bekezdése alapján az első vizsgált időszak 2004. május 1-jétől december 31-ig tart.
+[^38]: A 2. számú melléklet a 68/2004. (IV. 28.) GKM–KvVM–PM együttes rendelet 7. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (2) bekezdése alapján az első vizsgált időszak 2004. május 1-jétől december 31-ig tart.

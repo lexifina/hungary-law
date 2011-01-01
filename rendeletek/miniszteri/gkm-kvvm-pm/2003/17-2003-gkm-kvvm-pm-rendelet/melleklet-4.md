@@ -58,7 +58,7 @@
 
 4. számú melléklet a 17/2003. (IV. 4.) GKM–KvVM–PM
 
-együttes rendelethez[^34]
+együttes rendelethez[^40]
 
 Engedély
 
@@ -124,4 +124,4 @@ Kelt: ..........................................................................
 
 |  | (bélyegző) |
 
-[^34]: A 4. számú melléklet a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 10. pontja, a 61/2009. (XI. 5.) KHEM–KvVM–PM együttes rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+[^40]: A 4. számú melléklet a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 10. pontja, a 61/2009. (XI. 5.) KHEM–KvVM–PM együttes rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően indult, illetve a megismételt eljárásokban kell alkalmazni.
