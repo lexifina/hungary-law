@@ -1,4 +1,4 @@
-10/B. § (1) A szolgáltató központ nyilvántartja és kezeli a versenyvizsgával, a 10. §-ban meghatározott pályázati eljárással (a továbbiakban: pályázati eljárás) és a kompetencia vizsgálattal, a tartalékállománnyal, a toborzási adatbázissal kapcsolatos adatokat. A pályázati eljárás lefolytatását követően – függetlenül annak eredményességétől – a szolgáltató központ a pályázati eljárásokkal kapcsolatos adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából tárolhatja. A pályázati eljárással kapcsolatos adatokat a szolgáltató központ a pályázati eljárás lezárását követően törli a nyilvántartásából, kivéve, ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon, valamint bekerüljön a toborzási adatbázisba. A szolgáltató központ a versenyvizsgára vonatkozó adatokat, annak érvényessége lejártát követően törli a nyilvántartásából.
+10/B. § (1) A szolgáltató központ nyilvántartja és kezeli a versenyvizsgával, a 10. §-ban meghatározott pályázati eljárással (a továbbiakban: pályázati eljárás) és a kompetencia vizsgálattal, a toborzási adatbázissal kapcsolatos adatokat. A pályázati eljárás lefolytatását követően – függetlenül annak eredményességétől – a szolgáltató központ a pályázati eljárásokkal kapcsolatos adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából tárolhatja. A pályázati eljárással kapcsolatos adatokat a szolgáltató központ a pályázati eljárás lezárását követően törli a nyilvántartásából, kivéve, ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon, valamint bekerüljön a toborzási adatbázisba. A szolgáltató központ a versenyvizsgára vonatkozó adatokat, annak érvényessége lejártát követően törli a nyilvántartásából.
 
 (2) Az (1) bekezdésben meghatározott adatnyilvántartás és -kezelés a pályázó
 
@@ -28,29 +28,11 @@ c) a 7. számú mellékletben meghatározott adatokra
 
 terjed ki.
 
-(4) Az (1) bekezdésben meghatározott adatnyilvántartás és -kezelés a köztisztviselő
-
-a) természetes személyazonosító adataira,
-
-b) önéletrajzára, motivációs levelére,
-
-c) versenyvizsga eredményére és érvényességi idejére,
-
-d) a pályázati eljáráshoz és a kiválasztáshoz kapcsolódó egyéb adataira,
-
-e) a pályázati eljárás során használt kiválasztási módszerek eredményeire,
-
-f) az 5. számú mellékletben meghatározott adatokra,
-
-g) kompetencia-vizsgálat eredményére,
-
-h) a 7. számú mellékletben meghatározott adatokra
-
-terjed ki.
+(4)
 
 (5) A szolgáltató központ által vezetett nyilvántartás célja a kiválasztási eljárás segítése. A szolgáltató központ nyilvántartásában szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, az adatszolgáltatásért a szolgáltató központ vezetője felelős.
 
-(6) Adatvédelmi szabályzatban kell meghatározni az iratok, az adatok kezelésének adatvédelmi, adatbiztonsági szabályait, így különösen a pályázó, a versenyvizsgázó, a köztisztviselő saját adataival történő rendelkezési joga biztosításának, a harmadik személy részére történő adattovábbításnak, a betekintési jog gyakorlásának, valamint az adatkezelésben részt vevő köztisztviselő felelősségének és az adatokhoz történő hozzáférése terjedelmének szabályait. Az adatvédelmi szabályzatot a központi közszolgálati hatóság vezetője hagyja jóvá.
+(6) Adatvédelmi szabályzatban kell meghatározni az iratok, az adatok kezelésének adatvédelmi, adatbiztonsági szabályait, így különösen a pályázó, a versenyvizsgázó, saját adataival történő rendelkezési joga biztosításának, a harmadik személy részére történő adattovábbításnak, a betekintési jog gyakorlásának, valamint az adatkezelésben részt vevő köztisztviselő felelősségének és az adatokhoz történő hozzáférése terjedelmének szabályait. Az adatvédelmi szabályzatot a központi közszolgálati hatóság vezetője hagyja jóvá.
 
 (7) A szolgáltató központ által vezetett nyilvántartásból – jogszabályban meghatározott módon – az (5) bekezdésben meghatározott célra a pályázatot kiíró közigazgatási szerv számára személyazonosításra alkalmas módon, statisztikai célra csak személyazonosításra alkalmatlan módon szolgáltatható adat.
 

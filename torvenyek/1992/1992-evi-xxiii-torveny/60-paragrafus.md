@@ -1,6 +1,6 @@
 60. § (1) Ha a bíróság megállapítja, hogy a munkáltató a köztisztviselő közszolgálati jogviszonyát jogellenesen szüntette meg, a köztisztviselő abban az esetben kérheti az eredeti munkakörében történő továbbfoglalkoztatását, ha
 
-a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe (Mt. 4. §), illetve felmentési védelembe [Mt. 90. § (1) bekezdés] ütközik, vagy a munkáltató megszegi a felmentési korlátozásokra vonatkozó rendelkezéseket [17. § (5) bekezdés], vagy
+a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe (Mt. 4. §), illetve felmentési védelembe [Mt. 90. § (1) bekezdés] ütközik, vagy a munkáltató megszegi a felmentési korlátozásokra vonatkozó rendelkezéseket [17. § (6) bekezdés], vagy
 
 b) a munkáltató a választott szakszervezeti tisztségviselő, illetve a munkavédelmi képviselőnek (munkavédelmi bizottság tagjainak) közszolgálati jogviszonyát az Mt. 28. §-ába, vagy a munkavédelemről szóló 1993. évi XCIII. törvény 76. §-ának (3) bekezdésébe ütköző módon szüntette meg,
 

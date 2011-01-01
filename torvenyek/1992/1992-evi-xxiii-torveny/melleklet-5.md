@@ -34,9 +34,9 @@ II.
 
 III.
 
-a munkáltató megnevezése, tevékenységi területe
+a jelenlegi munkáltató megnevezése, tevékenységi területe
 
-a korábbi munkaviszonyban töltött időtartamok
+a korábbi közigazgatási jellegű munkáltató megnevezése, tevékenységi területe, valamint az ott jogviszonyban töltött időtartamok
 
 szakmai tapasztalat
 

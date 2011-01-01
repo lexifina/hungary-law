@@ -36,7 +36,7 @@ d) átminősítés esetén a hivatásos szolgálati viszonyban
 
 eltöltött idő is.
 
-(6) A végkielégítés összegének a felére jogosult a köztisztviselő, ha felmentésére azért került sor, mert a 17. § (5) bekezdése szerinti áthelyezéséhez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg, így különösen, ha
+(6) A végkielégítés összegének a felére jogosult a köztisztviselő, ha felmentésére azért került sor, mert a 17. § (6) bekezdése szerinti áthelyezéséhez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg, így különösen, ha
 
 a) a felajánlott illetmény összege kevesebb a korábbi illetménye 80%-ánál,
 

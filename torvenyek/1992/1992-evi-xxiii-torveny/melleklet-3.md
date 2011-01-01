@@ -24,6 +24,10 @@ I/A.
 
 – fizetési számlaszáma [49/A. § (1) bek.]
 
+– email címe
+
+– fényképe
+
 I/B.
 
 – eltartott gyermeke(i)
@@ -54,19 +58,21 @@ II.
 
 – képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai
 
-III.
+III. A korábbi foglalkoztatásra vonatkozó adatok
 
-— korábbi munkaviszonyban [72. § (1) bek.] töltött időtartamok
+– a munkahely megnevezése
 
-megnevezése
+– jogviszony típusának megnevezése
 
-a munkahely megnevezése
+– beosztás
 
-beosztás
+– besorolás
 
-besorolás
+– munkakör
 
-a megszűnés módja
+– jogviszony kezdő/befejező dátuma
+
+– a megszűnés módja
 
 IV.
 
@@ -85,6 +91,8 @@ IV.
 — esküokmány száma, kelte
 
 – közigazgatási versenyvizsga adatai
+
+– a munkaköri alkalmassági vizsgálat eredményének adatai
 
 V.
 

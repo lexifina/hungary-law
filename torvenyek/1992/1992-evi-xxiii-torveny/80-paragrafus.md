@@ -8,7 +8,7 @@ c) a közszolgálati jogviszonnyal összefüggő személyi iratokra,
 
 d) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott köztisztviselők közszolgálati jogviszonyára, sajátos jogállására,
 
-e) a Bibó István Közigazgatási Ösztöndíjra, valamint az ösztöndíjat megalapozó képzésre,
+e) a Magyar Közigazgatási Ösztöndíjra,
 
 f) a köztisztviselők, ügykezelők ideiglenes (három hónapot meg nem haladó) külföldi kiküldetésére,
 
@@ -16,7 +16,7 @@ g) a tartalékállományba helyezésre,
 
 h) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e törvény alapján folytatott adatfeldolgozásra,
 
-i)
+i) a közigazgatási szakmai gyakorlatra,
 
 j) a közigazgatási versenyvizsga rendjére, szervezésére, lebonyolítására, teljesítésére, költségeire, a vizsgakövetelmények szintjére, tárgyköreire és megállapításának rendjére, valamint a közigazgatási versenyvizsga vizsgaszabályzatára,
 

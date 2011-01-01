@@ -16,6 +16,6 @@ c) a közigazgatási szerv által írásban meghatározott feltételeket teljes�
 
 (9) E törvény alkalmazásában közigazgatási szakvizsgával egyenértékű a jogi szakvizsga, valamint az OKV elnöksége által teljes körűen közigazgatási jellegűnek minősített tudományos fokozat és az annak alapján adott mentesítés. Az OKV elnöksége részben is közigazgatási jellegűnek minősítheti a köztisztviselő tudományos fokozatát, ebben az esetben a köztisztviselő a közigazgatási szakvizsgának abból a részéből tesz vizsgát, amelyre a mentesítés nem vonatkozik.
 
-(10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet, feltéve, ha állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve Rendőrtiszti Főiskolán oklevelet szerzett. A Bibó István Közigazgatási Ösztöndíjban részesülő személy az ösztöndíj időtartama alatt közigazgatási szakvizsgát tehet.
+(10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet, feltéve, ha állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve Rendőrtiszti Főiskolán oklevelet szerzett.
 
 (11) Az (1) bekezdés c) pontjában említett feltételek a köztisztviselő feladatának ellátásához nélkülözhetetlen ismeretek – képzés, továbbképzés, átképzés formájában történő – megszerzésére irányulhatnak.

@@ -12,6 +12,8 @@ indokolja a kinevezés módosítását.
 
 (3) Végleges áthelyezés esetén a közszolgálati igazolás, valamint a köztisztviselő illetményének és egyéb járandóságainak kiadása szempontjából úgy kell eljárni, mintha a közszolgálati jogviszony megszűnt volna.
 
+(3a) A (2) bekezdés alkalmazása szempontjából közigazgatási szervnek kell tekinteni e törvény 1. § (1) és (2) bekezdésében, valamint a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 1. §-ában meghatározott szerveket.
+
 (4) Ha a jegyző jogviszonyának fennállása alatt másik jegyzői állás betöltésére irányuló eredményes pályázatot nyújtott be és közszolgálati jogviszonyát – erre tekintettel – közös megegyezéssel szüntette meg, a jogviszonya megszüntetésének jogkövetkezményeire az áthelyezés szabályait kell megfelelően alkalmazni.
 
 (5) Nem minősül a kinevezés módosításának, ha a köztisztviselő – a közigazgatási szerv hatékony működéséhez szükséges munkaszervezési okból, ideiglenesen – munkáltatói jogkör gyakorlójának írásbeli utasítása alapján eredeti munkaköre helyett, vagy eredeti munkaköre mellett más munkakörbe tartozó feladatokat lát el (átirányítás). Az átirányítás csak akkor rendelhető el, ha a másik munkakörbe tartozó feladatok ellátása megfelel a köztisztviselő képzettségének. Az átirányítás a köztisztviselőre nézve – különösen beosztására, korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat.
