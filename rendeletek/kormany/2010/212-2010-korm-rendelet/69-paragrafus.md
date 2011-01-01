@@ -1,4 +1,4 @@
-## 69. §[^168] A miniszter a gyermekek és az ifjúság védelméért való felelőssége körében
+## 69. §[^182] A miniszter a gyermekek és az ifjúság védelméért való felelőssége körében
 
 a) meghatározza a gyermekek védelmével kapcsolatos kormányzati koncepcióból eredő feladatokat, cselekvési programokat;
 
@@ -26,4 +26,4 @@ g) meghatározza a gyermek- és ifjúságvédelemhez tartozó területek szakmai
 
 h) meghatározza a gyermek- és ifjúságvédelemhez tartozó területen foglalkoztatottak tekintetében a közalkalmazotti jogviszonnyal összefüggő egyes speciális kérdéseket, az egyes közalkalmazotti osztályba tartozó munkaköröket, az azokhoz kapcsolódó elnevezéseket, a munkakörök betöltéséhez szükséges iskolai végzettség (képesítés) megszerzése alóli végleges mentesítés szabályait.
 
-[^168]: A 69. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (44) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^182]: A 69. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (44) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

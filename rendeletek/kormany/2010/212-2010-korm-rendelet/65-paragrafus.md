@@ -1,10 +1,10 @@
 ## 65. § A miniszter
 
-a)[^157] a szociál- és nyugdíjpolitikáért való felelőssége körében előkészíti különösen
+a)[^169] a szociál- és nyugdíjpolitikáért való felelőssége körében előkészíti különösen
 
-aa)[^158]
+aa)[^170]
 
-ab)[^159]
+ab)[^171]
 
 ac) a pénzbeli és természetbeni szociális ellátásokkal és a szociális szolgáltatásokkal,
 
@@ -18,13 +18,13 @@ bb) a gyermekneveléshez kapcsolódó támogatásokkal,
 
 bc) a gyámüggyel;
 
-c)[^160] a társadalmi esélyegyenlőség előmozdításáért való felelőssége körében előkészíti különösen
+c)[^172] a társadalmi esélyegyenlőség előmozdításáért való felelőssége körében előkészíti különösen
 
 ca) fogyatékos és megváltozott munkaképességű személyek helyzetével, esélyegyenlőségük biztosításával, foglalkoztatásával, valamint e személyek és foglalkoztatásuk támogatásával,
 
 cb) a fogyatékos személyek önálló életvitelét biztosító szolgáltatásokkal,
 
-d)[^161] a családpolitikáért való felelőssége körében előkészíti különösen
+d)[^173] a családpolitikáért való felelőssége körében előkészíti különösen
 
 da) a családok támogatásával, családpolitikai eszközök kialakításával, működtetésével,
 
@@ -32,8 +32,8 @@ db) a kisgyermekes szülők munkavállalásának ösztönzését és segítésé
 
 összefüggő jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-[^157]: A 65. § a) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^158]: A 65. § a) pont aa) alpontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^159]: A 65. § a) pont ab) alpontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^160]: A 65. § c) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^161]: A 65. § d) pontját a 267/2010. (XII. 3.) Korm. rendelet 21. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^169]: A 65. § a) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^170]: A 65. § a) pont aa) alpontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^171]: A 65. § a) pont ab) alpontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^172]: A 65. § c) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (26) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^173]: A 65. § d) pontját a 267/2010. (XII. 3.) Korm. rendelet 21. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

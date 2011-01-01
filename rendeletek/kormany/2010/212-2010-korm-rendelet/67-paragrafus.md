@@ -1,4 +1,4 @@
-## 67. §[^166] A miniszter a szociál- és nyugdíjpolitikáért, valamint a családpolitikáért való felelőssége körében
+## 67. §[^180] A miniszter a szociál- és nyugdíjpolitikáért, valamint a családpolitikáért való felelőssége körében
 
 a) meghatározza a szociális intézményi ellátások és szolgáltatások rendszerét, illetve az azokra vonatkozó fejlesztési irányokat, feladatokat,
 
@@ -30,4 +30,4 @@ n) meghatározza a szociál-, család- és nyugdíjpolitikához tartozó terüle
 
 o) a külön jogszabályban foglaltak szerint ellátja a megyei, fővárosi szociális és gyámhivatalok tevékenységének szakmai irányítását.
 
-[^166]: A 67. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (42) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^180]: A 67. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (42) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

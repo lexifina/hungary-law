@@ -10,42 +10,42 @@ d) a területfejlesztést szolgáló forrásokról,
 
 szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(2)[^231] A miniszter a területfejlesztésért való felelőssége körében
+(2)[^250] A miniszter a területfejlesztésért való felelőssége körében
 
-a)[^232] működteti a Magyarországi Régiók Brüsszeli Képviseletét és az Országos Területfejlesztési Tanácsot,
+a)[^251] működteti a Magyarországi Régiók Brüsszeli Képviseletét és az Országos Területfejlesztési Tanácsot,
 
-b)[^233] közreműködik az ország területi folyamatainak alakulásáról és a területfejlesztési politika érvényesüléséről szóló országgyűlési beszámoló előkészítésében,
+b)[^252] közreműködik az ország területi folyamatainak alakulásáról és a területfejlesztési politika érvényesüléséről szóló országgyűlési beszámoló előkészítésében,
 
-c)[^234] kidolgozza a területfejlesztési támogatások és a decentralizáció irányelveit, a területfejlesztést szolgáló pénzügyi eszközök felhasználásának szabályait, továbbá javaslatot tesz a területfejlesztést szolgáló központi és térségi pénzeszközök arányára,
+c)[^253] kidolgozza a területfejlesztési támogatások és a decentralizáció irányelveit, a területfejlesztést szolgáló pénzügyi eszközök felhasználásának szabályait, továbbá javaslatot tesz a területfejlesztést szolgáló központi és térségi pénzeszközök arányára,
 
-d)[^235] közreműködik a regionális fejlesztési tanácsok, a térségi fejlesztési tanácsok és a megyei területfejlesztési tanácsok munkájában, ellátja az Országos Területfejlesztési Tanácsban való részvétellel és a Tanács működésével kapcsolatos feladatokat, összehangolja a központi közigazgatási szervek területfejlesztéssel összefüggő tevékenységét, biztosítja a területfejlesztés ágazati és területi szereplői közötti koordinációt,
+d)[^254] közreműködik a regionális fejlesztési tanácsok, a térségi fejlesztési tanácsok és a megyei területfejlesztési tanácsok munkájában, ellátja az Országos Területfejlesztési Tanácsban való részvétellel és a Tanács működésével kapcsolatos feladatokat, összehangolja a központi közigazgatási szervek területfejlesztéssel összefüggő tevékenységét, biztosítja a területfejlesztés ágazati és területi szereplői közötti koordinációt,
 
-e)[^236] kialakítja és működteti a terület- és regionális fejlesztéssel és a területrendezéssel kapcsolatos információs és adatszolgáltatási rendszert,
+e)[^255] kialakítja és működteti a terület- és regionális fejlesztéssel és a területrendezéssel kapcsolatos információs és adatszolgáltatási rendszert,
 
-f)[^237] javaslatot tesz a Kormány képviselőjére a Balaton Fejlesztési Tanácsban, a Budapesti Agglomerációs Fejlesztési Tanácsban és a regionális fejlesztési tanácsokban,
+f)[^256] javaslatot tesz a Kormány képviselőjére a Balaton Fejlesztési Tanácsban, a Budapesti Agglomerációs Fejlesztési Tanácsban és a regionális fejlesztési tanácsokban,
 
-g)[^238] összehangolja a Balatonnal kapcsolatos összkormányzati feladatokat,
+g)[^257] összehangolja a Balatonnal kapcsolatos összkormányzati feladatokat,
 
-h)[^239] összehangolja a területfejlesztési célokat és az önkormányzati fejlesztéseket közvetlenül szolgáló hazai pénzügyi források pályázati rendszerben történő felhasználását, gondoskodik a pályázati rendszer kialakításáról, előkészítéséről, nyilvántartást vezet a pályázatokról,
+h)[^258] összehangolja a területfejlesztési célokat és az önkormányzati fejlesztéseket közvetlenül szolgáló hazai pénzügyi források pályázati rendszerben történő felhasználását, gondoskodik a pályázati rendszer kialakításáról, előkészítéséről, nyilvántartást vezet a pályázatokról,
 
-i)[^240] működteti a közvetlen terület- és a területi önkormányzati fejlesztési célokat szolgáló decentralizált pályázati rendszert,
+i)[^259] működteti a közvetlen terület- és a területi önkormányzati fejlesztési célokat szolgáló decentralizált pályázati rendszert,
 
-j)[^241] előkészíti, kidolgozza és ellátja a területfejlesztés intézményrendszerének (regionális, megyei, kistérségi) korszerűsítésével és szakmai felügyeletével kapcsolatos feladatokat,
+j)[^260] előkészíti, kidolgozza és ellátja a területfejlesztés intézményrendszerének (regionális, megyei, kistérségi) korszerűsítésével és szakmai felügyeletével kapcsolatos feladatokat,
 
-k)[^242] kidolgozza és megvalósítja a területfejlesztés intézményrendszerének központi finanszírozását,
+k)[^261] kidolgozza és megvalósítja a területfejlesztés intézményrendszerének központi finanszírozását,
 
-l)[^243] felügyeli és szakmailag irányítja a kistérségi hálózat munkáját,
+l)[^262] felügyeli és szakmailag irányítja a kistérségi hálózat munkáját.
 
-[^231]: A 86. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (55) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^232]: A 86. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (55) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^233]: A 86. § (2) bekezdés eredeti c) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a b) pontra változtatta.
-[^234]: A 86. § (2) bekezdés eredeti d) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a c) pontra változtatta.
-[^235]: A 86. § (2) bekezdés eredeti e) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a d) pontra változtatta.
-[^236]: A 86. § (2) bekezdés eredeti f) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a e) pontra változtatta.
-[^237]: A 86. § (2) bekezdés eredeti g) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a f) pontra változtatta.
-[^238]: A 86. § (2) bekezdés eredeti h) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a g) pontra változtatta.
-[^239]: A 86. § (2) bekezdés eredeti i) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a h) pontra változtatta.
-[^240]: A 86. § (2) bekezdés eredeti j) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a i) pontra változtatta.
-[^241]: A 86. § (2) bekezdés eredeti k) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a j) pontra változtatta.
-[^242]: A 86. § (2) bekezdés eredeti l) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a k) pontra változtatta.
-[^243]: A 86. § (2) bekezdés eredeti m) pontjának megjelölését l) pontra változtatta a 267/2010. (XII. 3.) Korm. rendelet 42. §-a, szövege e módosító rendelet 40. § (55) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^250]: A 86. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (55) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^251]: A 86. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (55) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^252]: A 86. § (2) bekezdés eredeti c) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a b) pontra változtatta.
+[^253]: A 86. § (2) bekezdés eredeti d) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a c) pontra változtatta.
+[^254]: A 86. § (2) bekezdés eredeti e) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a d) pontra változtatta.
+[^255]: A 86. § (2) bekezdés eredeti f) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a e) pontra változtatta.
+[^256]: A 86. § (2) bekezdés eredeti g) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a f) pontra változtatta.
+[^257]: A 86. § (2) bekezdés eredeti h) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a g) pontra változtatta.
+[^258]: A 86. § (2) bekezdés eredeti i) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a h) pontra változtatta.
+[^259]: A 86. § (2) bekezdés eredeti j) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a i) pontra változtatta.
+[^260]: A 86. § (2) bekezdés eredeti k) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a j) pontra változtatta.
+[^261]: A 86. § (2) bekezdés eredeti l) pontjának megjelölését a 267/2010. (XII. 3.) Korm. rendelet 42. §-a k) pontra változtatta.
+[^262]: A 86. § (2) bekezdés eredeti m) pontjának megjelölését l) pontra változtatta a 267/2010. (XII. 3.) Korm. rendelet 42. §-a, szövege e módosító rendelet 40. § (55) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

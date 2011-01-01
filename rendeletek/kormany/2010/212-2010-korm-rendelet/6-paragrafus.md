@@ -10,7 +10,7 @@ c)[^10] évente két alkalommal megszervezi és lebonyolítja a minisztériumok 
 
 d) gondoskodik a minisztériumok jogi és kodifikációs feladatok ellátásáért felelős vezetők továbbképzéséről.
 
-(3)[^11] A miniszter az (1) bekezdésben meghatározott feladata ellátása körében, a kormányprogram megvalósítása érdekében – törvényben meghatározott kivételekkel, valamint az önkormányzati rendeletek tervezetei kivételével – felel a kormány általános politikája érvényesüléséért az egyes szakpolitikák megvalósítása során. E feladata ellátása körében véleményez valamennyi kormány-előterjesztést az általános kormányzati politikának való megfelelősége szempontjából, valamint koordinálja az egyes miniszterek jogszabályok és állami irányítás egyéb jogi eszközei előkészítésére irányuló tevékenységét.
+(3)[^11] A miniszter az (1) bekezdésben meghatározott feladata ellátása körében, a kormányprogram megvalósítása érdekében – törvényben meghatározott kivételekkel, valamint az önkormányzati rendeletek tervezetei kivételével – felel a kormány általános politikája érvényesüléséért az egyes szakpolitikák megvalósítása során. E feladata ellátása körében véleményez valamennyi kormány-előterjesztést az általános kormányzati politikának való megfelelősége szempontjából, valamint koordinálja az egyes miniszterek jogszabályok és közjogi szervezetszabályozó eszközök előkészítésére irányuló tevékenységét.
 
 (4)[^12] A miniszter az (1) bekezdésben meghatározott feladata ellátása körében – törvényben meghatározott kivételekkel, valamint az önkormányzati rendeletek tervezetei kivételével – valamennyi jogszabálytervezetet véleményezi abból a szempontból, hogy az megfelel-e az Európai Unió jogának, a Magyar Köztársaság nemzetközi jogi kötelezettségeinek.
 
@@ -60,22 +60,23 @@ f) ellenőrzi a Kormány személyzetpolitikával kapcsolatos döntéseinek végr
 
 (8)[^17] A miniszter az (1) bekezdésben meghatározott feladata ellátása körében a jogszabályok és más jogi aktusok kihirdetésével, illetve közzétételével összefüggésben
 
-a)[^18] gondoskodik a kormányrendeletek, a kormányhatározatok, a miniszterelnöki rendeletek és határozatok, a miniszteri rendeletek, valamint a jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotási törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetésről, a Magyar Közlöny és a Határozatok Tára szerkesztéséről,
+a)[^18] gondoskodik a kormányrendeletek, a kormányhatározatok, a miniszterelnöki rendeletek és határozatok, a miniszteri rendeletek, valamint a jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotási törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetésről, a Magyar Közlöny szerkesztéséről,
 
 b)[^19]
 
-c) kijelöli a Magyar Közlöny és a Határozatok Tára szerkesztőbizottságának tagjait és felelős szerkesztőjét,
+c)[^20] kijelöli a Magyar Közlöny szerkesztőbizottságának tagjait és felelős szerkesztőjét,
 
 d) nyilvántartja a Kormány és a miniszterelnök rendeleteit és határozatait.
 
 [^9]: A 6. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^10]: A 6. § (2) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^11]: A 6. § (3) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^11]: A 6. § (3) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés c) pontja, a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 47. §-át.
 [^12]: A 6. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^13]: A 6. § (5) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^14]: A 6. § (5) bekezdés d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^15]: A 6. § (6) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^16]: A 6. § (7) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^17]: A 6. § (8) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^18]: A 6. § (8) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^18]: A 6. § (8) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (4) bekezdés j) pontja, a 300/2010. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 47. §-át.
 [^19]: A 6. § (8) bekezdés b) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^20]: A 6. § (8) bekezdés c) pontja a 300/2010. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

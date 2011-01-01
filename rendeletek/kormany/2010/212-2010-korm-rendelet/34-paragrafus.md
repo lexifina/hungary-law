@@ -1,4 +1,4 @@
-## 34. §[^73] A miniszter a kisebbségpolitikáért való felelőssége körében:
+## 34. §[^79] A miniszter a kisebbségpolitikáért való felelőssége körében:
 
 a) összehangolja a nemzetiség- és nemzetpolitikai stratégiai szempontokat,
 
@@ -20,4 +20,4 @@ i) koordinálja a bilaterális egyezmények alapján járó nemzetiségi támoga
 
 j) közreműködik a nemzetiségi nevelési, oktatási feladatokhoz nyújtott támogatások döntési rendszerének működtetésében.
 
-[^73]: A 34. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (22) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^79]: A 34. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (22) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

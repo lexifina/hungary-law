@@ -1,4 +1,4 @@
-## 32. §[^68] A miniszter
+## 32. §[^74] A miniszter
 
 a) összehangolja a Kormány egyházi kapcsolattartással összefüggő feladatait, irányítja az ezzel összefüggő stratégiai kérdések végrehajtását,
 
@@ -26,7 +26,7 @@ l) közreműködik a kistelepüléseken működő egyházak népességmegtartó 
 
 m) közreműködik a Nemzeti Kulturális Alap működtetésében,
 
-n)[^69]
+n)[^75]
 
 o) részt vesz a kisebbségi vegyes bizottságok működésében,
 
@@ -40,5 +40,5 @@ s) koordinálja az Új Magyarország Fejlesztési Terv egyházakkal összefügg�
 
 t) közreműködik a Nemzeti Egészségügyi Tanács munkájában.
 
-[^68]: A 32. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^69]: A 32. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (12) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^74]: A 32. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^75]: A 32. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (12) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
