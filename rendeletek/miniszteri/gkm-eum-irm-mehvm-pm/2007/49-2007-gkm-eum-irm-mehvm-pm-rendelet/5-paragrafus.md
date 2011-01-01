@@ -10,6 +10,7 @@ b) a 2. § a)–f) pontjaiban meghatározott adatokat az európai uniós csatlak
 
 (3) A Rendőrség a hatósági eljárásai során birtokába kerülő, a 2. § d)–f) pontjaiban meghatározott adatokat a rendőrségről szóló 1994. évi XXXIV. törvény előírásai szerint az R.-ben meghatározott engedélyezési és ellenőrzési feladatai ellátásához az MKEH-nak és a Vám- és Pénzügyőrség illetékes szervének adja át.
 
-(4) Az Állami Népegészségügyi és Tisztiorvosi Szolgálat területileg illetékes regionális intézete a 2. § d) pontjában meghatározott adatokat a Rendőrségnek és az MKEH-nak a kábítószer-prekurzorokkal kapcsolatos feladatai ellátásához adja át.
+(4)[^3] A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve a 2. § d) pontjában meghatározott adatokat a Rendőrségnek és az MKEH-nak a kábítószer-prekurzorokkal kapcsolatos feladatai ellátásához adja át.
 
 [^2]: Az 5. § (1) bekezdésének a) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 5. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^3]: Az 5. § (4) bekezdése a 27/2010. (XII. 31.) NGM rendelet 59. §-a szerint módosított szöveg.
