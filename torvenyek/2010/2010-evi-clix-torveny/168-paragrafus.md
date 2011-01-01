@@ -9,11 +9,3 @@ c) az Európai Parlament és a Tanács 2009/110/EK irányelve az elektronikuspé
 d) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2007/64/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeleti szabályok és válságkezelés tekintetében történő módosításáról,
 
 e) az Európai Parlament és a Tanács 2010. november 24-i 2010/76/EU irányelve a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
