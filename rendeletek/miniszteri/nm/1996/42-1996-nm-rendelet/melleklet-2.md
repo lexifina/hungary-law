@@ -118,7 +118,7 @@
 
 ## költségvetési szervek:
 
-| 1. | Szociálpolitikai és Munkaügyi Intézet |  | 1134 Budapest, Tüzér u. 33–35. |
+| 1. | Nemzeti Család- és Szociálpolitikai Intézet |  | 1134 Budapest, Tüzér u. 33–35. |
 
 | 2. | Értelmi Fogyatékosok Rehabilitációs Intézete |  | 2120 Dunakeszi, Fóti u. 55. |
 
