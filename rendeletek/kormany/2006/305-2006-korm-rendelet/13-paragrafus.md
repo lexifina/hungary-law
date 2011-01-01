@@ -18,7 +18,7 @@ d) a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének kri
 
 e) a szervezett bűnözéssel összefüggő bűncselekménnyel szerzett javakról, azok legalizálására szolgáló vállalkozásokról, egyéb módszerekről és eszközökről.
 
-(3) A Nemzetbiztonsági Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal (a továbbiakban együtt: nemzetbiztonsági szolgálat) főigazgatója, valamint a Rendvédelmi Szervek Védelmi Szolgálatának (a továbbiakban: RSZVSZ) vezetője által kijelölt központi szerv adatszolgáltatást teljesít a Központ részére:
+(3)[^5] A Nemzetbiztonsági Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal (a továbbiakban együtt: nemzetbiztonsági szolgálat) főigazgatója, valamint a Nemzeti Védelmi Szolgálat (a továbbiakban: NVSZ) főigazgatója által kijelölt központi szerv adatszolgáltatást teljesít a Központ részére:
 
 a) a felderítés során a szervezett bűnözéssel összefüggő bűncselekmény gyanújának felmerüléséről, a gyanú alapjául szolgáló bűncselekmény Btk. szerinti minősítéséről;
 
@@ -26,8 +26,11 @@ b) a felderítés során a szervezett bűnözéssel összefüggő bűncselekmén
 
 c) a (2) bekezdés d) és e) pontjában meghatározottakról.
 
-(4) A nyomozó hatóság, a nemzetbiztonsági szolgálat, illetve az RSZVSZ a (2) és a (3) bekezdésben meghatározott adatokat a felderítés, illetve a büntetőeljárás során keletkezett irat másolatának vagy kivonatának megküldésével szolgáltatja.
+(4)[^6] A nyomozó hatóság, a nemzetbiztonsági szolgálat, illetve az NVSZ a (2) és a (3) bekezdésben meghatározott adatokat a felderítés, illetve a büntetőeljárás során keletkezett irat másolatának vagy kivonatának megküldésével szolgáltatja.
 
-(5) A nyomozó hatóság, a nemzetbiztonsági szolgálat, illetve az RSZVSZ köteles megküldeni a Központnak a szervezett bűnözésről készített értékelő jelentések, tájékoztatók másolatának vagy kivonatának egy példányát.
+(5)[^7] A nyomozó hatóság, a nemzetbiztonsági szolgálat, illetve az NVSZ köteles megküldeni a Központnak a szervezett bűnözésről készített értékelő jelentések, tájékoztatók másolatának vagy kivonatának egy példányát.
 
 [^4]: A 13. § (2) bekezdésének bevezető szövegrésze a 331/2007. (XII. 13.) Korm. rendelet 3. § 32. pontja szerint módosított szöveg.
+[^5]: A 13. § (3) bekezdés nyitó szövegrésze a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
+[^6]: A 13. § (4) bekezdése a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
+[^7]: A 13. § (5) bekezdése a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
