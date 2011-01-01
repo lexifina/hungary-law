@@ -4,7 +4,7 @@
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
-a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint – a katonai nemzetbiztonsági szolgálatok kivételével – az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek,
+a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a katonai nemzetbiztonsági szolgálatok,
 
 b)
 

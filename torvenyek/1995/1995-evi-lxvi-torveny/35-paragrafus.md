@@ -12,7 +12,7 @@
 
 (5)
 
-(6) Felhatalmazást kap az önkormányzatokért felelős miniszter, hogy a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben az önkormányzati hivatalok számára egységes irattári tervet adjon ki.
+(6) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben az önkormányzati hivatalok számára egységes irattári tervet adjon ki.
 
 (7) Ahol jogszabály ,,történeti értékű iratot'' említ, azon ,,maradandó értékű iratot'' kell érteni.
 

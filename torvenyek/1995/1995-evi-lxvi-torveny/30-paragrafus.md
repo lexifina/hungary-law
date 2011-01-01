@@ -14,6 +14,6 @@ b) levéltári anyagának nyilvántartásával, szakszerű, biztonságos őrzés
 
 c) levéltári anyagából a közlevéltárakra vonatkozó rendelkezések szerint tájékoztatást nyújt, adatokat szolgáltat, iratokat kölcsönöz és anyagában — saját szabályzata szerint — a kutatást ingyenesen lehetővé teszi.
 
-(3) Ha a nyilvános magánlevéltár a (2) bekezdésben meghatározott követelményeket nem teljesíti, a miniszter elrendeli a levéltár nyilvántartásból való törlését. A törlés elrendelésével egyidejűleg kezdeményezi a levéltári anyag védetté nyilvánítását.
+(3) Ha a nyilvános magánlevéltár a (2) bekezdésben meghatározott követelményeket nem teljesíti, a kultúráért felelős miniszter elrendeli a levéltár nyilvántartásból való törlését. A törlés elrendelésével egyidejűleg kezdeményezi a levéltári anyag védetté nyilvánítását.
 
 (4) A nyilvános magánlevéltár a 34/C. §-ban foglaltak szerinti költségvetési támogatásban részesül. A költségvetési támogatás a pártok által fenntartott nyilvános magánlevéltárakat is megilleti.

@@ -4,9 +4,9 @@
 
 a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
 
-b) a központi államigazgatási szerv a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
+b) a központi államigazgatási szerv, valamint a Pénzügyi Szervezetek Állami Felügyelete a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
 
-c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a területileg illetékes közigazgatási hivatallal egyetértésben.
+c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
@@ -20,7 +20,7 @@ c) az igazságügyért felelős miniszter a közjegyzők és bírósági végreh
 
 (4) A szakmai irányítást ellátó miniszter az állami és helyi önkormányzati intézmények meghatározott csoportja részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben egységes iratkezelési szabályzatot vagy egyedi iratkezelési szabályzatuk mellékletét képező egységes irattári tervet ad ki.
 
-(5) Az önkormányzati hivatalok számára az önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
+(5) Az önkormányzati hivatalok számára a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
 
 (6) A jogi személyiséggel rendelkező önkormányzati társulás, az önkormányzatok többcélú kistérségi társulása (a továbbiakban együtt: önkormányzati társulások) a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
 
