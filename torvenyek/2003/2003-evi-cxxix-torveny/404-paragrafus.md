@@ -22,7 +22,7 @@ i) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katon
 
 j) a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályokat;
 
-k) a 2011-es magyar EU-elnökség előkészítésével és lebonyolításával összefüggő, a közösségi értékhatárt el nem érő értékű beszerzések sajátos szabályait;
+k) a 243. § h) pontjában meghatározott beszerzések sajátos szabályait;
 
 l) a dinamikus beszerzési rendszerre vonatkozó szabályokat;
 
@@ -34,7 +34,7 @@ o)
 
 p)
 
-(2) Felhatalmazást kap a nemzeti fejlesztésért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben szabályozza
 
 a) a hirdetmények, bírálati összegezések és az éves statisztikai összegezés mintáját;
 
@@ -42,7 +42,7 @@ b) a közbeszerzésekre vonatkozó nómenklatúrát;
 
 c) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására vonatkozó szabályokat;
 
-d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszterrel együttesen.
+d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszter egyetértésével.
 
 (3) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben szabályozza a munkavállalók védelmére és a munkafeltételekre vonatkozó tájékoztatási kötelezettség teljesítésének eljárási szabályait és díjazását.
 

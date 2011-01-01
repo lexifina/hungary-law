@@ -18,4 +18,4 @@ b) a felek a szerződéskötési moratóriumra [96/A. § (4) bekezdés, 99. § (
 
 (5) A keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül kell benyújtani a Közbeszerzési Döntőbizottsághoz.
 
-(6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő három munkanapon belül továbbítja a bírósághoz.
+(6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő öt napon belül továbbítja a bírósághoz.

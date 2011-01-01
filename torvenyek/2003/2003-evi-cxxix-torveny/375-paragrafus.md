@@ -6,7 +6,7 @@
 
 a) a Gazdasági Versenyhivatal elnöke;
 
-b) a közbeszerzésekért felelős miniszter;
+b) az állami vagyon felügyeletéért felelős miniszter;
 
 c) a gazdaságpolitikáért felelős miniszter.
 

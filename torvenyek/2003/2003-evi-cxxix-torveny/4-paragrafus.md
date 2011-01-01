@@ -96,7 +96,7 @@ c) tagként (részvényesként) jogosult arra, hogy a vezető tisztségviselők 
 
 23. meghívásos eljárás: olyan közbeszerzési eljárás, amelyben az ajánlatkérő által – az e törvényben előírtak szerint – kiválasztottak tehetnek ajánlatot;
 
-23/A. műemlékekkel kapcsolatos építési beruházás: az olyan építési beruházás, amellyel kapcsolatos hatósági engedélyezési eljárás lefolytatása a Kulturális Örökségvédelmi Hivatal hatósági jogkörébe tartozik;
+23/A. műemlékekkel kapcsolatos építési beruházás: az olyan építési beruházás, amellyel kapcsolatos hatósági engedélyezési eljárás lefolytatása a kulturális örökségvédelmi hatóság jogkörébe tartozik;
 
 23/B. műszaki ajánlás: európai szabványügyi szervezet által nem szabványként kiadott bármely dokumentum, amelyet a piaci igények kielégítésére, szabályozott eljárás szerint dolgoztak ki;
 

@@ -20,7 +20,7 @@ a) meglévő építmény vagy egyéb ingatlan vétele vagy ingatlanra vonatkozó
 
 b) a 3. melléklet 6. csoportjába tartozó pénzügyi szolgáltatás, amely értékpapírok vagy egyéb pénzügyi eszközök kibocsátása, eladása, vétele vagy átruházása által valósul meg, vagy amely a monetáris, az árfolyam- vagy a tartalékkezelési politika, vagy a központi kormányzat adósságkezelési politikájának megvalósítása érdekében pénz- vagy tőkeszerzésre irányul, továbbá a jegybanki tevékenység;
 
-c) műsorszám (műsoranyag) műsorszolgáltató általi vétele, fejlesztése, előállítása vagy közös előállítása, valamint a műsoridőre vonatkozó szerződés;
+c) műsorszám (műsoranyag) médiaszolgáltató vagy a Médiaszolgáltatás-támogató és Vagyonkezelő Alap általi vétele, fejlesztése, előállítása vagy közös előállítása, valamint a műsoridőre vonatkozó szerződés;
 
 d)
 

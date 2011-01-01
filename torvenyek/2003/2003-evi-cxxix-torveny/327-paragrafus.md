@@ -6,7 +6,7 @@ b) az Állami Számvevőszék;
 
 c) a Kormány által kijelölt belső ellenőrzési szerv;
 
-d) a közigazgatási hivatal;
+d) a Kormány általános hatáskörű területi államigazgatási szerve és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv;
 
 e) a kincstár;
 

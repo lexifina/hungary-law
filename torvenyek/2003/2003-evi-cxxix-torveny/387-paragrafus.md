@@ -10,7 +10,7 @@ b) az ajánlattevő és az erőforrást nyújtó szervezet közötti, a Polgári
 
 (4) A minősített ajánlattevők hivatalos jegyzékébe történő felvételért igazgatási szolgáltatási díjat kell fizetni. A díj mértéke százötvenezer forint. A díj megfizetése alól mentesség nem adható. A kérelemhez csatolni kell a díj befizetéséről szóló igazolást is.
 
-(5) A Tanács a kérelemről – a kézhezvételét követő negyvenöt munkanapon belül – határozattal dönt. A határidő – indokolt esetben – egy alkalommal negyvenöt munkanappal meghosszabbítható.
+(5) A Tanács a kérelemről – a kézhezvételét követő két hónapon belül – határozattal dönt. A határidő – indokolt esetben – egy alkalommal két hónappal meghosszabbítható.
 
 (6)
 

@@ -32,13 +32,13 @@ i) honlapján közzéteszi a Közbeszerzési Döntőbizottság eljárását kezd
 
 j) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
 
-k) a közbeszerzésekért felelős minisztériummal egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
+k) az állami vagyon felügyeletéért felelős miniszterrel egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
 
 l) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és teljesítését [307. § (4) bekezdése];
 
 m) elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását;
 
-n) a közbeszerzésekért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában;
+n) az állami vagyon felügyeletéért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában;
 
 o) kapcsolatot tart más államok közbeszerzési szervezeteivel;
 

@@ -14,7 +14,7 @@ e)
 
 f) a közalapítvány;
 
-g) a Magyar Nemzeti Bank, a Magyar Nemzeti Vagyonkezelő Zrt., a Magyar Fejlesztési Bank Részvénytársaság, a Magyar Távirati Iroda Részvénytársaság, a közszolgálati műsorszolgáltatók, valamint az a közműsor-szolgáltató, amelynek működését többségi részben állami, illetve önkormányzati költségvetésből finanszírozzák, továbbá a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa;
+g) a Magyar Nemzeti Bank, a Magyar Nemzeti Vagyonkezelő Zrt., a Magyar Fejlesztési Bank Részvénytársaság, közszolgálati médiaszolgáltatók, valamint az a közösségi médiaszolgáltató, amelynek működését többségi részben állami, illetve önkormányzati költségvetésből finanszírozzák, továbbá a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa;
 
 h) az a jogképes szervezet, amelynek létrehozataláról jogszabály rendelkezik, meghatározva a szervezet által ellátandó feladatot, az irányítására, illetőleg az ellenőrzésére, valamint a működésére vonatkozó szabályokat, feltéve, hogy e bekezdés a)–g) pontjában meghatározott egy vagy több szervezet, illetőleg az Országgyűlés vagy a Kormány meghatározó befolyást képes felette gyakorolni, vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza;
 

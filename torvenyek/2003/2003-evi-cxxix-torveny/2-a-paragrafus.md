@@ -6,7 +6,7 @@ b) a gazdálkodó szervezet a szerződéskötést követő éves nettó árbevé
 
 (2) Az (1) bekezdésben foglaltak irányadóak akkor is, ha az (1) bekezdés a) pontja szerinti gazdálkodó szervezetben a tagsági jogot megtestesítő üzletrész, illetve részvény több, a 22. § (1) bekezdése szerint ajánlatkérőnek minősülő szervezet közös tulajdonában van; ebben az esetben jogaikat közös képviselőjük útján gyakorolják.
 
-(3) Az (1) bekezdésben foglaltak irányadóak akkor is, ha az (1) bekezdés a) pontja szerinti gazdálkodó szervezet tulajdonosa az állam; ebben az esetben az (1) bekezdés szerinti további feltételeknek a tulajdonosi jogokat gyakorló jogalany (miniszter vagy más központi államigazgatási szervet vezető személy esetén az általa vezetett szerv) mint ajánlatkérő vonatkozásában kell fennállniuk.
+(3) Az (1) bekezdésben foglaltak irányadóak akkor is, ha az (1) bekezdés a) pontja szerinti gazdálkodó szervezet tulajdonosa az állam; ebben az esetben az (1) bekezdés szerinti további feltételeknek a tulajdonosi jogokat gyakorló jogalany (miniszter vagy más központi államigazgatási szervet vezető személy esetén az általa vezetett szerv, valamint a Pénzügyi Szervezetek Állami Felügyelete) mint ajánlatkérő vonatkozásában kell fennállniuk.
 
 (4) Ha törvény eltérően nem rendelkezik, a szerződések határozott időre, legfeljebb három évre köthetők; a szerződések közbeszerzési eljárás mellőzésével akkor hosszabbíthatók meg, ha az (1) bekezdés szerinti feltételek teljesültek.
 
