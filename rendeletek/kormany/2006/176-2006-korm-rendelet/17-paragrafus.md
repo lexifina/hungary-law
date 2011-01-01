@@ -1,1 +1,0 @@
-## 16. § A Hivatal a lobbisták, illetve a lobbiszervezetek általa kezelt adatait a nyilvántartásból történő törlés időpontjától számított 10 évig tárolja, ezt követően gondoskodik az adatok törléséről.

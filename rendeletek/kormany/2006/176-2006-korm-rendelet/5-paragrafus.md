@@ -1,3 +1,0 @@
-5. § (1) A Hivatal a lobbista Ltv. 30. § (1) bekezdése szerinti tájékoztatójának beérkezésétől számított 30 napon belül összeveti a lobbista tájékoztatóját a lobbitevékenységgel érintett közhatalmi döntést hozó szerv Ltv. 30. § (4) bekezdése szerinti tájékoztatójával.
-
-(2) Amennyiben az (1) bekezdés szerinti tájékoztatók egy adott lobbitevékenységgel kapcsolatban eltérő adatokat vagy állításokat tartalmaznak, a Hivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései alapján köteles az Ltv. 16. § (2) bekezdése szerinti döntés meghozatalához szükséges tényállást tisztázni.
