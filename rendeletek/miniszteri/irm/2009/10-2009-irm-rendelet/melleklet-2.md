@@ -1,6 +1,6 @@
 ## I.
 
-## A) A Rendőrség szerveinél, az RSZVSZ-nél, a BÁHBÁ-nál, az IRM NOPVK-nál a közalkalmazottak által ellátható egyes beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke
+## A) A rendőrségnél, a BÁHBÁ-nál, a NOPVK-nál, az RVKI-nál a közalkalmazottak által ellátható egyes beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L |
 
@@ -10,23 +10,23 @@
 
 | 3 | 1. Magasabb vezetői beosztások, munkakörök: |
 
-| 4 | 1.1 Igazgató (Rend.) |  |  |  |  |  | * | * | * | * | * |  |
+| 4 | 1.1 Igazgató (rend.) |  |  |  |  |  | * | * | * | * | * |  |
 
-| 5 | 1.2 Igazgatóhelyettes (Rend.) |  |  |  |  |  | * | * | * | * | * | 250% |
+| 5 | 1.2 Igazgatóhelyettes (rend.) |  |  |  |  |  | * | * | * | * | * | 250% |
 
-| 6 | 1.3 Főosztályvezető (Rend.) |  |  |  |  |  | * | * | * | * | * |  |
+| 6 | 1.3 Főosztályvezető (rend.) |  |  |  |  |  | * | * | * | * | * |  |
 
-| 7 | 1.4 Főosztályvezető-helyettes (Rend.) |  |  |  |  |  | * | * | * | * | * | 225% |
+| 7 | 1.4 Főosztályvezető-helyettes (rend.) |  |  |  |  |  | * | * | * | * | * | 225% |
 
 | 8 | 1.5 Igazgató (BÁHBÁ) |  |  |  |  |  | * | * | * | * | * |  |
 
 | 9 | 2. Vezetői beosztások, munkakörök: |
 
-| 10 | 2.1 Osztályvezető (Rend.) |  |  |  |  |  | * | * | * | * | * |  |
+| 10 | 2.1 Osztályvezető (rend.) |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 11 | 2.2 Osztályvezető-helyettes (Rend.) |  |  |  |  |  | * | * | * | * | * | 150% |
+| 11 | 2.2 Osztályvezető-helyettes (rend.) |  |  |  |  |  | * | * | * | * | * | 150% |
 
-| 12 | 2.3 Osztályvezető-helyettes (IRM NOPVK) |  |  |  |  |  | * | * | * | * | * | 150% |
+| 12 | 2.3 Osztályvezető-helyettes (NOPVK) |  |  |  |  |  | * | * | * | * | * | 150% |
 
 | 13 | 2.4 Gazdasági osztályvezető (BÁHBÁ) |  |  |  |  |  | * | * | * | * | * |  |
 
@@ -38,7 +38,7 @@
 
 | 17 | 3.3 Bér- és társadalombiztosítási ügyintéző |  |  | * | * | * | * | * | * |  |  |  |
 
-| 18 | 3.4 Csoportvezető |  |  |  |  | * | * | * | * | * |  |  |
+| 18 | 3.4 Csoportvezető |  |  |  |  | * | * | * | * | * | * |  |
 
 | 19 | 3.5 Előadó |  | * | * | * |  |  |  |  |  |  |  |
 
@@ -46,7 +46,7 @@
 
 | 21 | 3.7 Főelőadó |  |  |  |  | * | * | * | * | * |  |  |
 
-| 22 | 3.8 Főenergetikus |  |  |  |  | * | * |  |  |  |  |  |
+| 22 | 3.8 Főenergetikus |  |  |  |  |  |  | * | * |  |  |  |
 
 | 23 | 3.9 Főkönyvelő |  |  |  |  | * | * | * | * | * |  |  |
 
@@ -102,7 +102,7 @@
 
 | 49 | 4. Ügyviteli munkakörök |
 
-| 50 | 4.1. A Rendőrség szerveinél, az RSZVSZ-nél, az IRM NOPVK-nál az ügyviteli munkakörök nem kötelezettek pályáztatásra |
+| 50 | 4.1 A rendőrség szerveinél, a NOPVK-nál az ügyviteli munkakörök nem kötelezettek pályáztatásra |
 
 | 51 | 4.1.1 Adatrögzítő | * | * | * |  |  |  |  |  |  |  |  |
 
@@ -126,155 +126,163 @@
 
 | 61 | 4.1.11 Több munkafolyamatot ellátó ügyviteli alkalmazott |  | * | * | * |  |  |  |  |  |  |  |
 
-| 62 | 4.1.12 Ügykezelésvezető |  | * | * | * |  |  |  |  |  |  |  |
+| 62 | 4.1.12 Ügykezelés-vezető |  | * | * | * |  |  |  |  |  |  |  |
 
 | 63 | 4.1.13 Ügykezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 64 | 5. Fizikai munkakörök |
+| 64 | 4.1.14 Szakértő |  |  |  |  | * | * | * | * | * | * |  |
 
-| 65 | 5.1 A Rendőrség szerveinél, az IRM NOPVK-nál, a BÁHBÁ-nál a fizikai munkakörök nem kötelezettek pályáztatásra |
+| 65 | 4.1.15 Szakértői csoportvezető |  |  |  |  | * | * | * | * | * | * |  |
 
-| 66 | 5.1.1 Autófényező |  | * | * | * |  |  |  |  |  |  |  |
+| 66 | 5. Fizikai munkakörök |
 
-| 67 | 5.1.2 Autószerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 67 | 5.1 A rendőrség szerveinél, a NOPVK-nál, a BÁHBÁ-nál a fizikai munkakörök nem kötelezettek pályáztatásra |
 
-| 68 | 5.1.3 Autóvillamossági-szerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 68 | 5.1.1 Autófényező |  | * | * | * |  |  |  |  |  |  |  |
 
-| 69 | 5.1.4 Asztalos |  | * | * | * |  |  |  |  |  |  |  |
+| 69 | 5.1.2 Autószerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 70 | 5.1.5 Állatgondozó | * |  |  |  |  |  |  |  |  |  |  |
+| 70 | 5.1.3 Autóvillamossági-szerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 71 | 5.1.6 Beosztott szakács |  | * | * | * |  |  |  |  |  |  |  |
+| 71 | 5.1.4 Asszisztens |  |  |  | * | * | * |  |  |  |  |  |
 
-| 72 | 5.1.7 Beszerző |  | * | * | * |  |  |  |  |  |  |  |
+| 72 | 5.1.5 Szakasszisztens |  |  |  | * | * | * |  |  |  |  |  |
 
-| 73 | 5.1.8 Betanított munkás | * |  |  |  |  |  |  |  |  |  |  |
+| 73 | 5.1.6 Asztalos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 74 | 5.1.9 Burkoló |  | * | * | * |  |  |  |  |  |  |  |
+| 74 | 5.1.7 Állatgondozó | * |  |  |  |  |  |  |  |  |  |  |
 
-| 75 | 5.1.10 Büfés |  | * | * | * |  |  |  |  |  |  |  |
+| 75 | 5.1.8 Beosztott szakács |  | * | * | * |  |  |  |  |  |  |  |
 
-| 76 | 5.1.11 Büfévezető |  | * | * | * |  |  |  |  |  |  |  |
+| 76 | 5.1.9 Beszerző |  | * | * | * |  |  |  |  |  |  |  |
 
-| 77 | 5.1.12 Cukrász |  | * | * | * |  |  |  |  |  |  |  |
+| 77 | 5.1.10 Betanított munkás | * |  |  |  |  |  |  |  |  |  |  |
 
-| 78 | 5.1.13 Csomagolási szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
+| 78 | 5.1.11 Burkoló |  | * | * | * |  |  |  |  |  |  |  |
 
-| 79 | 5.1.14 Eligazító | * |  |  |  |  |  |  |  |  |  |  |
+| 79 | 5.1.12 Büfés |  | * | * | * |  |  |  |  |  |  |  |
 
-| 80 | 5.1.15 Erőműkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 80 | 5.1.13 Büfévezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 81 | 5.1.16 Esztergályos |  | * | * | * |  |  |  |  |  |  |  |
+| 81 | 5.1.14 Cukrász |  | * | * | * |  |  |  |  |  |  |  |
 
-| 82 | 5.1.17 Éjjeliőr | * |  |  |  |  |  |  |  |  |  |  |
+| 82 | 5.1.15 Csomagolási szakunkás |  | * | * | * |  |  |  |  |  |  |  |
 
-| 83 | 5.1.18 Étteremvezető |  | * | * | * |  |  |  |  |  |  |  |
+| 83 | 5.1.16 Eligazító | * |  |  |  |  |  |  |  |  |  |  |
 
-| 84 | 5.1.19 Fegyveres biztonsági őr | * | * | * | * |  |  |  |  |  |  |  |
+| 84 | 5.1.17 Erőműkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 85 | 5.1.20 Felszolgáló |  | * | * | * |  |  |  |  |  |  |  |
+| 85 | 5.1.18 Esztergályos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 86 | 5.1.21 Festő-mázoló |  | * | * | * |  |  |  |  |  |  |  |
+| 86 | 5.1.19 Éjjeliőr | * |  |  |  |  |  |  |  |  |  |  |
 
-| 87 | 5.1.22 Fényképész | * | * | * | * |  |  |  |  |  |  |  |
+| 87 | 5.1.20 Étteremvezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 88 | 5.1.23 Fodrász |  | * | * | * |  |  |  |  |  |  |  |
+| 88 | 5.1.21 Fegyveres biztonsági őr | * | * | * | * |  |  |  |  |  |  |  |
 
-| 89 | 5.1.24 Fűtésszerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 89 | 5.1.22 Felszolgáló |  | * | * | * |  |  |  |  |  |  |  |
 
-| 90 | 5.1.25 Garázsmester |  | * | * | * |  |  |  |  |  |  |  |
+| 90 | 5.1.23 Festő-mázoló |  | * | * | * |  |  |  |  |  |  |  |
 
-| 91 | 5.1.26 Gazdaasszony | * | * | * |  |  |  |  |  |  |  |  |
+| 91 | 5.1.24 Fényképész | * | * | * | * |  |  |  |  |  |  |  |
 
-| 92 | 5.1.27 Gazdaságvezető (főkertész) |  | * | * | * |  |  |  |  |  |  |  |
+| 92 | 5.1.25 Fodrász |  | * | * | * |  |  |  |  |  |  |  |
 
-| 93 | 5.1.28 Gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
+| 93 | 5.1.26 Fűtésszerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 94 | 5.1.29 Gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 94 | 5.1.27 Garázsmester |  | * | * | * |  |  |  |  |  |  |  |
 
-| 95 | 5.1.30 Gondnok | * | * | * | * |  |  |  |  |  |  |  |
+| 95 | 5.1.28 Gazdaasszony | * | * | * |  |  |  |  |  |  |  |  |
 
-| 96 | 5.1.31 Helikopter-főszerelő |  |  |  |  | * | * | * |  |  |  |  |
+| 96 | 5.1.29 Gazdaságvezető (főkertész) |  | * | * | * |  |  |  |  |  |  |  |
 
-| 97 | 5.1.32 Helikopterszerelő |  |  |  | * |  |  |  |  |  |  |  |
+| 97 | 5.1.30 Gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 98 | 5.1.33 Híradástechnikai szerelő |  |  | * | * |  |  |  |  |  |  |  |
+| 98 | 5.1.31 Gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 99 | 5.1.34 Indító | * | * | * | * |  |  |  |  |  |  |  |
+| 99 | 5.1.32 Gondnok | * | * | * | * |  |  |  |  |  |  |  |
 
-| 100 | 5.1.35 Kapus, portás | * |  |  |  |  |  |  |  |  |  |  |
+| 100 | 5.1.33 Helikopter-főszerelő |  |  |  |  | * | * | * |  |  |  |  |
 
-| 101 | 5.1.36 Karosszéria-lakatos |  | * | * | * |  |  |  |  |  |  |  |
+| 101 | 5.1.34 Helikopterszerelő |  |  |  | * |  |  |  |  |  |  |  |
 
-| 102 | 5.1.37 Kazánfűtő |  | * | * | * |  |  |  |  |  |  |  |
+| 102 | 5.1.35 Híradástechnikai szerel |  |  | * | * |  |  |  |  |  |  |  |
 
-| 103 | 5.1.38 Kárpitos |  | * | * | * |  |  |  |  |  |  |  |
+| 103 | 5.1.36 Indító | * | * | * | * |  |  |  |  |  |  |  |
 
-| 104 | 5.1.39 Kertész |  | * | * | * |  |  |  |  |  |  |  |
+| 104 | 5.1.37 Kapus, portás | * |  |  |  |  |  |  |  |  |  |  |
 
-| 105 | 5.1.40 Készültségi ügyeletes |  | * | * | * |  |  |  |  |  |  |  |
+| 105 | 5.1.38 Karosszéria-lakatos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 106 | 5.1.41 Kézbesítő | * |  |  |  |  |  |  |  |  |  |  |
+| 106 | 5.1.39 Kazánfűtő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 107 | 5.1.42 Kocsimosó | * |  |  |  |  |  |  |  |  |  |  |
+| 107 | 5.1.40 Kárpitos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 108 | 5.1.43 Konyhalány, mosogató | * |  |  |  |  |  |  |  |  |  |  |
+| 108 | 5.1.41 Kertész |  | * | * | * |  |  |  |  |  |  |  |
 
-| 109 | 5.1.44 Konyhamészáros |  | * | * | * |  |  |  |  |  |  |  |
+| 109 | 5.1.42 Készültségi ügyeletes |  | * | * | * |  |  |  |  |  |  |  |
 
-| 110 | 5.1.45 Konyhafőnök, konyhavezető |  | * | * | * |  |  |  |  |  |  |  |
+| 110 | 5.1.43 Kézbesítő | * |  |  |  |  |  |  |  |  |  |  |
 
-| 111 | 5.1.46 Kőműves |  | * | * | * |  |  |  |  |  |  |  |
+| 111 | 5.1.44 Kocsimosó | * |  |  |  |  |  |  |  |  |  |  |
 
-| 112 | 5.1.47 Laboráns |  |  |  | * |  |  |  |  |  |  |  |
+| 112 | 5.1.45 Konyhalány, mosogató | * |  |  |  |  |  |  |  |  |  |  |
 
-| 113 | 5.1.48 Lakatos |  | * | * | * |  |  |  |  |  |  |  |
+| 113 | 5.1.46 Konyhamészáros |  | * | * | * |  |  |  |  |  |  |  |
 
-| 114 | 5.1.49 Liftkezelő | * |  |  |  |  |  |  |  |  |  |  |
+| 114 | 5.1.47 Konyhafőnök, konyavezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 115 | 5.1.50 Mosodavezető |  | * | * | * |  |  |  |  |  |  |  |
+| 115 | 5.1.48 Kőműves |  | * | * | * |  |  |  |  |  |  |  |
 
-| 116 | 5.1.51 Műhelyvezető |  | * | * | * |  |  |  |  |  |  |  |
+| 116 | 5.1.49 Laboráns |  |  |  | * |  |  |  |  |  |  |  |
 
-| 117 | 5.1.52 Műszerész |  | * | * | * |  |  |  |  |  |  |  |
+| 117 | 5.1.50 Lakatos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 118 | 5.1.53 Önálló szakács |  | * | * | * |  |  |  |  |  |  |  |
+| 118 | 5.1.51 Liftkezelő | * |  |  |  |  |  |  |  |  |  |  |
 
-| 119 | 5.1.54 Raktárkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 119 | 5.1.52 Mosodavezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 120 | 5.1.55 Raktáros |  | * | * | * |  |  |  |  |  |  |  |
+| 120 | 5.1.53 Műhelyvezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 121 | 5.1.56 Raktárvezető |  | * | * | * | * | * |  |  |  |  |  |
+| 121 | 5.1.54 Műszerész |  | * | * | * |  |  |  |  |  |  |  |
 
-| 122 | 5.1.57 Részlegvezető |  | * | * | * |  |  |  |  |  |  |  |
+| 122 | 5.1.55 Önálló szakács |  | * | * | * |  |  |  |  |  |  |  |
 
-| 123 | 5.1.58 Részlegvezető szakács |  | * | * | * |  |  |  |  |  |  |  |
+| 123 | 5.1.56 Raktárkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 124 | 5.1.59 Segédmunkás | * |  |  |  |  |  |  |  |  |  |  |
+| 124 | 5.1.57 Raktáros |  | * | * | * |  |  |  |  |  |  |  |
 
-| 125 | 5.1.60 Sokszorosító | * |  | * |  |  |  |  |  |  |  |  |
+| 125 | 5.1.58 Raktárvezető |  | * | * | * | * | * |  |  |  |  |  |
 
-| 126 | 5.1.61 Szabó |  | * | * | * |  |  |  |  |  |  |  |
+| 126 | 5.1.59 Részlegvezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 127 | 5.1.62 Szállítómunkás | * |  |  |  |  |  |  |  |  |  |  |
+| 127 | 5.1.60 Részlegvezető szakács |  | * | * | * |  |  |  |  |  |  |  |
 
-| 128 | 5.1.63 Szobalány | * |  |  |  |  |  |  |  |  |  |  |
+| 128 | 5.1.61 Segédmunkás | * |  |  |  |  |  |  |  |  |  |  |
 
-| 129 | 5.1.64 Takarító | * |  |  |  |  |  |  |  |  |  |  |
+| 129 | 5.1.62 Sokszorosító | * |  | * |  |  |  |  |  |  |  |  |
 
-| 130 | 5.1.65 Technikus |  |  |  | * | * | * |  |  |  |  |  |
+| 130 | 5.1.63 Szabó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 131 | 5.1.66 Telefonközpont-kezelő | * |  |  |  |  |  |  |  |  |  |  |
+| 131 | 5.1.64 Szállítómunkás | * |  |  |  |  |  |  |  |  |  |  |
 
-| 132 | 5.1.67 Úszómester | * |  |  |  |  |  |  |  |  |  |  |
+| 132 | 5.1.65 Szobalány | * |  |  |  |  |  |  |  |  |  |  |
 
-| 133 | 5.1.68 Vezetőtechnikus |  |  |  | * | * | * |  |  |  |  |  |
+| 133 | 5.1.66 Takarító | * |  |  |  |  |  |  |  |  |  |  |
 
-| 134 | 5.1.69 Villanyszerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 134 | 5.1.67 Technikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 135 | 5.1.70 Vízijármű-szerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 135 | 5.1.68 Telefonközpont-kezelő | * |  |  |  |  |  |  |  |  |  |  |
 
-| 136 | 5.1.71 Vízvezeték-szerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 136 | 5.1.69 Úszómester | * |  |  |  |  |  |  |  |  |  |  |
+
+| 137 | 5.1.70 Vezető-technikus |  |  |  | * | * | * |  |  |  |  |  |
+
+| 138 | 5.1.71 Villanyszerelő |  | * | * | * |  |  |  |  |  |  |  |
+
+| 139 | 5.1.72 Vízijármű-szerelő |  | * | * | * |  |  |  |  |  |  |  |
+
+| 140 | 5.1.73 Vízvezeték-szerelő |  | * | * | * |  |  |  |  |  |  |  |
 
 ## B) A melléklet A. része szerinti munkáltatóknál közalkalmazottak által ellátható egyes beosztások, munkakörök képesítési követelménye
 
@@ -390,6 +398,6 @@
 
 ## 6. Ha a rendelet nem tartalmazza a munkáltató által alkalmazni kívánt munkakörre vonatkozóan a megfelelő munkaköri megnevezést, akkor a munkakör ellátására alkalmazni kívánt közalkalmazottat a hasonló munkaköri feladatokat igénylő, a rendeletben szereplő munkakörbe kell besorolni.
 
-2. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^16]
+2. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^30]
 
-[^16]: A 2. melléklet a 30/2010. (V. 12.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 2. melléklet a 30/2010. (V. 12.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.

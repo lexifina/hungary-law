@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-10-20-1
 | --- | --- | --- |
 | 2010-01-01 | 2009-10-20-1U.2 | 10/2009. (IV. 17.) IRM rendelet |
 | 2010-05-27 | 2009-10-20-1U.3 | 30/2010. (V. 12.) IRM rendelet |
+| 2011-01-01 | 2009-10-20-1U.4 | 11/2010. (XII. 22.) BM rendelet |

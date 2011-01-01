@@ -1,4 +1,4 @@
-## 7. § A rendőrség területi szerveinél, valamint az RSZVSZ-nél foglalkoztatott közalkalmazottak felett a munkáltatói jogkört a 4. mellékletben felsorolt vezetők gyakorolják.
+## 7. §[^28] A rendőrségnél, az NOPVK-nál és az RVKI-nál foglalkoztatott közalkalmazottak felett a munkáltatói jogkört a 4. mellékletben felsorolt vezetők gyakorolják.
 
 8. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba
 
@@ -13,3 +13,5 @@
 a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a belügyminiszter ágazati irányítása alá tartozó szerveknél történő végrehajtásáról szóló 62/1997. (XI. 7.) BM rendelet 1. §-ának (2)–(4) bekezdése, 2. §-ának (2) bekezdése, 2/A. §-a, 3–3/B. §-a, 9. §-ának (2) bekezdése 1. számú melléklete, 2. számú melléklete, 4. számú melléklete és 5. számú mellékletének 1–5. pontja,
 
 b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a büntetés-végrehajtás szerveinél történő végrehajtásáról szóló 7/1993. (III. 9.) IM rendelet.
+
+[^28]: A 7. § a 11/2010. (XII. 22.) BM rendelet 2. §-ával megállapított szöveg.

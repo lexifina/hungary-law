@@ -112,6 +112,6 @@
 
 ## * Azon munkakörök, melyek nem tartoznak a 19/2008. (IX. 18.) IRM rendeletben meghatározott szolgálati tevékenységek közé.
 
-3. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^17]
+3. melléklet a 10/2009. (IV. 17.) IRM rendelethez[^31]
 
-[^17]: A 3. melléklet a 85/2009. (XII. 30.) IRM rendelet 7. § (2) bekezdése, a 30/2010. (V. 12.) IRM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^31]: A 3. mellékletet a 11/2010. (XII. 22.) BM rendelet 6. § a) pontja hatályon kívül helyezte.

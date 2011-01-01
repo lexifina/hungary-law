@@ -1,19 +1,21 @@
 ## A rendelet hatálya
 
-## 1. §[^1] A rendelet hatálya az igazságügyi és rendészeti miniszter ágazati irányítása alá tartozó szervekre:
+## 1. §[^2] A rendelet hatálya kiterjed
 
-a) a Rendőrség szerveire,
+a) az általános rendőrségi feladatok ellátására létrehozott szervre,
 
-b) a Büntetés-végrehajtás Országos Parancsnokságára, a büntetés-végrehajtási intézetekre és intézményekre (a továbbiakban: büntetés-végrehajtási szerv),
+a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre és a
 
-c) a Rendvédelmi Szervek Védelmi Szolgálatára (a továbbiakban: RSZVSZ),
+a terrorizmust elhárító szervre (a továbbiakban együtt: rendőrség),
 
-d) a Bevándorlási és Állampolgársági Hivatal befogadó állomására (a továbbiakban: BÁHBÁ),
+b) a Büntetés-végrehajtás Országos Parancsnokságára, a büntetés-végrehajtási intézetekre és intézményekre (a továbbiakban együtt: büntetés-végrehajtási szerv),
 
-e) a Bűnügyi Szakértői és Kutatóintézetre (a továbbiakban: BSZKI),
+c) a Bevándorlási és Állampolgársági Hivatal befogadó állomására (a továbbiakban: BÁHBÁ),
 
-f) az IRM Nemzetközi Oktatási és Polgári Válságkezelési Központra (a továbbiakban: IRM NOPVK),
+d) a Nemzetközi Oktatási és Polgári Válságkezelési Központra (a továbbiakban: NOPVK),
 
-valamint az e szerveknél foglalkoztatott közalkalmazottakra terjed ki.
+e) Rendészeti Vezetőképző és Kutatóintézet (a továbbiakban: RVKI),
 
-[^1]: Az 1. § a 85/2009. (XII. 30.) IRM rendelet 1. §-ával megállapított szöveg.
+valamint az a)–e) pontban meghatározott szerveknél foglalkoztatott közalkalmazottakra.
+
+[^2]: Az 1. § a 11/2010. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
