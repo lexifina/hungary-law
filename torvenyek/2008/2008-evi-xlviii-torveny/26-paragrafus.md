@@ -6,4 +6,4 @@
 
 (4) E törvény rendelkezései – a 24. § (2) és (4) bekezdésében meghatározottak kivételével – az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatás Támogató és Vagyonkezelő Alapba kell befizetni.
+(5) A médiaszolgáltatóval szemben kiszabott bírságot a Médiaszolgáltatás-támogató és Vagyonkezelő Alapba kell befizetni.

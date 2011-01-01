@@ -4,4 +4,4 @@
 
 (2) Törvény vagy az annak végrehajtására kiadott jogszabály az egyes árukra vonatkozó vagy az egyes kommunikációs eszközök útján megvalósuló gazdasági reklámtevékenységre külön szabályokat állapíthat meg. Ha a külön törvény eltérően nem rendelkezik, az ilyen szabályok megsértésére e törvény rendelkezéseit megfelelően alkalmazni kell.
 
-(3) A rádió és televízió műsorszolgáltatásában közzétett reklámra – ha e törvénytől eltérő követelményeket állapít meg – a rádiózásról és televíziózásról szóló 1996. évi I. törvényben foglalt rendelkezéseket kell alkalmazni.
+(3) Az audiovizuális és rádiós médiaszolgáltatásban közzétett reklámra a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvényt, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényt is alkalmazni kell.

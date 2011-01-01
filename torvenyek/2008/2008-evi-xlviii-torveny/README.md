@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-48-00-00
 | 2010-03-04 | 23/2010. (III. 4.) AB határozat | 2008-48-00-00.9 |
 | 2010-08-11 | 2010. évi LXXXII. törvény | 2008-48-00-00.10 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 2008-48-00-00.11 |
+| 2011-01-01 | 2011. évi CXXV. törvény | 2008-48-00-00.12 |

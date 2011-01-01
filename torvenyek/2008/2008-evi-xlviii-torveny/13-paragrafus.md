@@ -18,4 +18,4 @@ c) ha tartalmazza az áruk árainak összehasonlítását, köteles azt tárgyil
 
 d) eredetmegjelöléssel rendelkező termékek összehasonlítása esetén kizárólag azonos eredetmegjelölésű termékekre vonatkozhat.
 
-(3) Jogszerű összehasonlító reklám esetében a védjegyjogosult kizárólagos használati joga alapján nem léphet fel védjegyének az összehasonlító reklámban történő – a célnak megfelelő módon megvalósuló – használatával szemben, feltéve, hogy a védjegy használata elengedhetetlen az összehasonlításhoz és nem haladja meg a feltétlenül szükséges mértéket.
+(3)

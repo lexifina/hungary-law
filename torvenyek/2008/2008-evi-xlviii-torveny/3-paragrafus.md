@@ -26,7 +26,7 @@ l) reklámozó: akinek érdekében a reklámot közzéteszik, illetve aki a rekl
 
 m) reklámszolgáltató: aki önálló gazdasági tevékenysége körében a reklámot megalkotja, létrehozza, illetve ezzel összefüggésben egyéb szolgáltatást nyújt,
 
-n) sajtótermék: az időszaki lap egyes lapszámai, a rádió- és televízió-műsor, a könyv, a röplap és az egyéb szöveges kiadvány – ide nem értve a bankjegyet és az értékpapírt –, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más tájékoztatást vagy műsort tartalmazó, nyilvános közlésre szánt technikai eszköz,
+n) sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül.
 
 o) szabadtéri reklámhordozó: reklám közzététele céljából építményen kívül elhelyezett eszköz,
 
