@@ -1,3 +1,5 @@
 7. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2) Az MgSzH Központ az általa nyilvántartott kísérleti és csemegeszőlő ültetvények adatait e rendelet hatálybalépése után 22 munkanapon belül megküldi a FÖMI-nek a VINGIS rendszerben való rögzítés céljából.
+(2)[^15]
+
+[^15]: A 7. § (2) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 289. § (2) bekezdése hatályon kívül helyezte.

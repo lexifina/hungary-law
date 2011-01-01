@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-231-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-08-26 | 2010-231-20-22.1 | 231/2010. (VIII. 18.) Korm. rendelet |
+| 2011-01-01 | 2010-231-20-22.2 | 351/2010. (XII. 30.) Korm. rendelet |
