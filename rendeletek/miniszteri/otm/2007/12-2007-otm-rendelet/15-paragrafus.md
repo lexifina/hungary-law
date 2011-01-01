@@ -8,9 +8,9 @@
 
 (3) A tűzvizsgálati jelentés kiadására az összefoglaló jelentés záradékolását követően kerül sor.
 
-(4)[^15] Ha a tűz keletkezésének ok-okozati összefüggései nem állapíthatóak meg vagy nem bizonyíthatóak, akkor azt a tűzvizsgálati jelentésben ismeretlenként kell megjelölni.
+(4)[^16] Ha a tűz keletkezésének ok-okozati összefüggései nem állapíthatóak meg vagy nem bizonyíthatóak, akkor azt a tűzvizsgálati jelentésben ismeretlenként kell megjelölni.
 
-(5)[^16] A tűzvizsgálati eljárással kapcsolatban – annak befejezéséig – a nyilatkozattétel a 17. § (1) bekezdés a)–d) pontjában foglaltakra terjedhet ki a közreműködő szervekre vonatkozó szabályok figyelembevételével.
+(5)[^17] A tűzvizsgálati eljárással kapcsolatban – annak befejezéséig – a nyilatkozattétel a 17. § (1) bekezdés a)–d) pontjában foglaltakra terjedhet ki a közreműködő szervekre vonatkozó szabályok figyelembevételével.
 
-[^15]: A 15. § (4) bekezdése a 4/2010. (XI. 25.) BM rendelet 18. §-ával megállapított szöveg.
-[^16]: A 15. § (5) bekezdését a 4/2010. (XI. 25.) BM rendelet 19. §-a iktatta be.
+[^16]: A 15. § (4) bekezdése a 4/2010. (XI. 25.) BM rendelet 18. §-ával megállapított szöveg.
+[^17]: A 15. § (5) bekezdését a 4/2010. (XI. 25.) BM rendelet 19. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 (2) A rendelet 8. §-ának (3) bekezdése 2008. január 1-jén lép hatályba.
 
-Melléklet a 12/2007. (IV. 25.) ÖTM rendelethez[^18]
+Melléklet a 12/2007. (IV. 25.) ÖTM rendelethez[^19]
 
 | Fejléc (tűzvédelmi hatóság megnevezése, címe, telefonszáma) | Ügyszám:Tárgy: Tűzvizsgálati jelentés Ügyintéző neve:Ügyfél neve, lakóhelye/székhelye: |
 
@@ -24,7 +24,7 @@ Tűz keletkezésének ok-okozati összefüggései:
 
 Tűz terjedésére vonatkozó megállapítások:
 
-A tűzvizsgálati jelentésben foglalt megállapítások ellen a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 98. § (1) bekezdése alapján fellebbezésnek van helye, melyet a Ket. 99. § (1) bekezdése és a 102. § (1) bekezdése alapján a tűzvizsgálati jelentés közlésétől számított 10 munkanapon belül 5000 forint illetékbélyeggel ellátva, a Megyei Katasztrófavédelmi Igazgatóságnak/Országos Katasztrófavédelmi Főigazgatóságnak (megfelelő rész aláhúzandó) címezve, a hivatalomnál kell előterjeszteni.
+A tűzvizsgálati jelentésben foglalt megállapítások ellen a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 98. § (1) bekezdése alapján fellebbezésnek van helye, melyet a Ket. 99. § (1) bekezdése és a 102. § (1) bekezdése alapján a tűzvizsgálati jelentés közlésétől számított tizenöt napon belül 5000 forint illetékbélyeggel ellátva, a Megyei Katasztrófavédelmi Igazgatóságnak/BM Országos Katasztrófavédelmi Főigazgatóságnak (megfelelő rész aláhúzandó) címezve, a hivatalomnál kell előterjeszteni.
 
 A fellebbezési illeték mértékét az illetékekről szóló 1990. évi XCIII. törvény 29. § (2) bekezdése írja elő.
 
@@ -42,4 +42,4 @@ kiadmányozó hivatali beosztása
 
 a hatóság bélyegzőlenyomata
 
-[^18]: A Melléklet a 4/2010. (XI. 25.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^19]: A Melléklet a 4/2010. (XI. 25.) BM rendelet 21. § (3) bekezdésével megállapított, a 13/2010. (XII. 28.) BM rendelet 2. § (8) bekezdése szerint módosított szöveg.

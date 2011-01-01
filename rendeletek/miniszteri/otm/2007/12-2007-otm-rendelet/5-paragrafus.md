@@ -1,4 +1,4 @@
-## 4. §[^3] A Magyar Honvédség létesítményeiben, ingatlanaiban, járműveiben keletkezett tűzesetek vizsgálatában a tűzvédelmi hatóság (a továbbiakban: hatóság) az érintettek felkérésére szakértőként működik közre.
+## 4. §[^4] A Magyar Honvédség létesítményeiben, ingatlanaiban, járműveiben keletkezett tűzesetek vizsgálatában a tűzvédelmi hatóság (a továbbiakban: hatóság) az érintettek felkérésére szakértőként működik közre.
 
 ## A tűzvizsgálatot biztosító cselekmények
 
@@ -8,4 +8,4 @@ a) intézkedik a terület és a bizonyítékok biztonságos, változatlan állap
 
 b) jelentésben rögzíti a helyszínre vonatkozó adatokat, információkat, helyszínrajzot és szükség szerint kép- és filmfelvételeket készít.
 
-[^3]: A 4. § a 4/2010. (XI. 25.) BM rendelet 11. §-ával megállapított szöveg.
+[^4]: A 4. § a 4/2010. (XI. 25.) BM rendelet 11. §-ával megállapított szöveg.

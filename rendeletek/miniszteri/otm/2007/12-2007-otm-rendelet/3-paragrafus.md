@@ -1,4 +1,4 @@
-3. §[^2] (1) Hivatalból tűzvizsgálati eljárást kell lefolytatni az alábbi esetekben:
+3. §[^3] (1) Hivatalból tűzvizsgálati eljárást kell lefolytatni az alábbi esetekben:
 
 a) a tűzesettel összefüggésben bűncselekmény gyanúja merül fel,
 
@@ -18,4 +18,4 @@ h) szakmai vagy egyéb szempontból a megyei katasztrófavédelmi igazgató, a f
 
 (2) A minősített riasztási fokozat megállapításánál a káreset felszámolása során, egy időben helyszínen tartózkodó legnagyobb erő-eszköz alapján megállapítható riasztási fokozatot kell figyelembe venni.
 
-[^2]: A 3. § a 4/2010. (XI. 25.) BM rendelet 10. §-ával megállapított szöveg.
+[^3]: A 3. § a 4/2010. (XI. 25.) BM rendelet 10. §-ával megállapított szöveg.
