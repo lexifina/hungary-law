@@ -2,7 +2,7 @@
 
 a) 2004–2006. évi Humánerőforrás-fejlesztési Operatív Programon (a továbbiakban: Operatív Program) az Európai Bizottság és a Magyar Köztársaság Kormányának képviselői által aláírt programdokumentumot,
 
-b)[^3]
+b)[^4]
 
 c) az EQUAL Közösségi Kezdeményezés intézkedésein
 
@@ -20,7 +20,7 @@ ce) 5–6. technikai segítségnyújtás
 
 ## kell érteni.
 
-(2)[^4]
+(2)[^5]
 
-[^3]: A 2. § (1) bekezdésének b) pontját a 24/2007. (IX. 15.) ÖTM–SZMM együttes rendelet 4. §-a hatályon kívül helyezte.
-[^4]: A 2. § (2) bekezdését a 24/2007. (IX. 15.) ÖTM–SZMM együttes rendelet 4. §-a hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdésének b) pontját a 24/2007. (IX. 15.) ÖTM–SZMM együttes rendelet 4. §-a hatályon kívül helyezte.
+[^5]: A 2. § (2) bekezdését a 24/2007. (IX. 15.) ÖTM–SZMM együttes rendelet 4. §-a hatályon kívül helyezte.
