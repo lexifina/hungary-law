@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-132-00-00
 | --- | --- | --- |
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-132-00-00.11 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1997-132-00-00.12 |
+| 2011-01-01 | 2010. évi CXXIII. törvény | 1997-132-00-00.13 |
