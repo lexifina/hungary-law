@@ -1,0 +1,1 @@
+77. § Az I. Országgyűlés fejezeten belül megtervezett, a volt köztársasági elnökök közéletben történő részvétele, közcélú felajánlásai, adományai vállalásai költségeinek fedezetéül szolgáló 2011. évre megtervezett előirányzat összegéből a volt köztársasági elnökök részére 80,0–80,0 millió forint áll rendelkezésre.
