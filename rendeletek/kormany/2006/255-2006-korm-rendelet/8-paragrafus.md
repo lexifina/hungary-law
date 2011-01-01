@@ -10,7 +10,7 @@ b) javaslattétel az operatív program vagy prioritástengely, kivételes esetbe
 
 c) javaslattétel az akcióterv tartalmára, valamint módosításának kezdeményezése a közreműködő szervezetek bevonásával; a javaslat megküldése az NFÜ számára. Amennyiben egy operatív program prioritástengelyeiért több miniszter felelős, az érintett prioritástengelyekért felelős miniszter és az operatív program forrásainak legnagyobb részéért felelős miniszter közösen tesz javaslatot;
 
-d)[^34] javaslattétel az NFÜ-nek kiemelt projektek azonosítására, a más szervezetek által javasolt kiemelt projektek véleményezése a közreműködő szervezet bevonásával;
+d)[^35] javaslattétel az NFÜ-nek kiemelt projektek azonosítására, a más szervezetek által javasolt kiemelt projektek véleményezése a közreműködő szervezet bevonásával;
 
 e) részvétel a pályázati kiírások kidolgozásában;
 
@@ -22,4 +22,4 @@ h) javaslattétel az NFÜ-nek a közreműködő szervezetek kiválasztására, a
 
 i) a kizárólag hazai forrásból finanszírozott támogatások és a részben vagy egészben európai uniós forrásokból finanszírozott támogatások összehangolása, az átfedések kiküszöbölése.
 
-[^34]: A 8. § (2) bekezdésének d) pontja a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^35]: A 8. § (2) bekezdésének d) pontja a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

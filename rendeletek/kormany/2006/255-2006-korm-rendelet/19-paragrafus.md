@@ -1,6 +1,6 @@
 ## Panasz lehetősége
 
-19. §[^76] (1) A projektgazda a projekt javaslat elutasítása, csökkentett összköltséggel történő támogatása vagy feltételekkel történő támogatása ellen, jogszabálysértés vagy a pályázati kiírás szerinti tájékoztatásban foglaltak megsértése esetén a döntés kézhezvételétől számított 5 munkanapon belül, egy alkalommal, az indokok megjelölésével panasszal élhet az NFÜ-nél. Az NFÜ döntése elleni panaszt a fejlesztéspolitikáért felelős miniszter, a közreműködő szervezet döntése elleni panaszt az NFÜ bírálja el.
+19. §[^77] (1) A projektgazda a projekt javaslat elutasítása, csökkentett összköltséggel történő támogatása vagy feltételekkel történő támogatása ellen, jogszabálysértés vagy a pályázati kiírás szerinti tájékoztatásban foglaltak megsértése esetén a döntés kézhezvételétől számított 5 munkanapon belül, egy alkalommal, az indokok megjelölésével panasszal élhet az NFÜ-nél. Az NFÜ döntése elleni panaszt a fejlesztéspolitikáért felelős miniszter, a közreműködő szervezet döntése elleni panaszt az NFÜ bírálja el.
 
 (2) A közreműködő szervezet döntése elleni panaszokat az NFÜ haladéktalanul továbbítja a közreműködő szervezetnek.
 
@@ -38,4 +38,4 @@ b) a panaszt indokolt döntésével elutasítja.
 
 (9) A panasz kivizsgálásában, illetve elbírálásában nem vehet részt az, aki a panasz által érintett projekt elbírálási eljárásában részt vett.
 
-[^76]: A 19. § a 202/2008. (VIII. 14.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 6. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 29. napja után meghirdetett pályázatok esetében kell alkalmazni.
+[^77]: A 19. § a 202/2008. (VIII. 14.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 6. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 29. napja után meghirdetett pályázatok esetében kell alkalmazni.

@@ -12,7 +12,7 @@ c) annak biztosítása, hogy az ellenőrzéseket a megfelelő nemzetközi ellen�
 
 d) az 1083/2006/EK rendelet 71. cikk (2) bekezdésének megfelelően az irányítási és ellenőrzési rendszerek felállításáról szóló – az ellenőrzési hatóság által elkészített – értékelés („akkreditáció”) kritériumrendszerének véleményezése;
 
-e)[^44]
+e)[^45]
 
 f) a nemzeti ellenőrzési stratégiában foglalt ellenőrzések és az alapokból származó támogatások lebonyolításában, ellenőrzésében érintett szervezetek által az alapokból származó támogatások vonatkozásában végzett egyéb ellenőrzések áttekintése, harmonizálása révén az ellenőrzési erőforrások átfedésektől mentes, hatékony és eredményes felhasználásának biztosítása;
 
@@ -66,4 +66,4 @@ g) az igazoló hatóság pénzügyi és számviteli nyilvántartásainak vezeté
 
 h) az adminisztratív hibák, valamint az operatív program megvalósítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciók végrehajtása, a visszafizetett alapokból származó támogatások Európai Bizottság felé történő elszámolása.
 
-[^44]: A 13. § (2) bekezdésének e) pontját a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^45]: A 13. § (2) bekezdésének e) pontját a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.

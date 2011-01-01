@@ -22,8 +22,8 @@ j) az EMIR-ben az adatok folyamatos rögzítése, az adatbázis naprakészségé
 
 k) beszámolók készítése és megküldése a miniszter és az NFÜ részére az akcióterv és az éves munkaterv megvalósításában történt előrehaladásról és a szükséges intézkedésekre vonatkozó javaslatokról;
 
-l)[^40] a 7. § (3) bekezdés h) pontja szerinti kommunikációs stratégiában meghatározott tájékoztatással és nyilvánossággal kapcsolatos feladatok.
+l)[^41] a 7. § (3) bekezdés h) pontja szerinti kommunikációs stratégiában meghatározott tájékoztatással és nyilvánossággal kapcsolatos feladatok.
 
 (2) Amennyiben adott támogatási konstrukció megvalósításába közreműködő szervezet nem kerül bevonásra, az (1) bekezdés d)–k) pontjai szerinti feladatokat az NFÜ látja el.
 
-[^40]: A 11. § (1) bekezdésének l) pontját a 262/2007. (X. 4.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^41]: A 11. § (1) bekezdésének l) pontját a 262/2007. (X. 4.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

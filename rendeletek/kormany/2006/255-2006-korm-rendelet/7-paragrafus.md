@@ -6,9 +6,9 @@
 
 a) az NFT és az operatív programok tervezésének koordinációja;
 
-b)[^21]
+b)[^22]
 
-c)[^22] a Kormány által jóváhagyott NFT, operatív programok, valamint azok módosításának benyújtása az Európai Bizottsághoz;
+c)[^23] a Kormány által jóváhagyott NFT, operatív programok, valamint azok módosításának benyújtása az Európai Bizottsághoz;
 
 d) az akciótervek elkészítéséhez módszertan kialakítása;
 
@@ -24,7 +24,7 @@ h) az Európai Mezőgazdasági Vidékfejlesztési Alap, az Európai Halászati A
 
 a) az NFT megvalósításának folyamatos nyomon követése;
 
-b)[^23]
+b)[^24]
 
 c) az NFT egészét vagy több operatív programot együttesen érintő kérdésekben kapcsolattartás az Európai Bizottsággal, és a Magyar Köztársaság érdekeinek képviselete;
 
@@ -32,7 +32,7 @@ d) a közreműködő szervezetek előminősítése szempontrendszerének kialak�
 
 e) az NFT és az operatív programok irányítási és ellenőrzési rendszer leírásainak kidolgozása, folyamatos aktualizálása és megküldése az Európai Bizottság részére;
 
-f)[^24] a közreműködő szervezetek támogatások felhasználásával kapcsolatos belső eljárásrendjeinek kialakításához működési kézikönyv kidolgozása;
+f)[^25] a közreműködő szervezetek támogatások felhasználásával kapcsolatos belső eljárásrendjeinek kialakításához működési kézikönyv kidolgozása;
 
 g) az EMIR folyamatos továbbfejlesztése, működtetése;
 
@@ -42,15 +42,15 @@ i) egységes, minden operatív programot lefedő NFT pályázati ügyfélszolgá
 
 j) forrás biztosítása az operatív programok fejezeti kezelésű előirányzat-felhasználási keretszámláin, illetve a lebonyolítási számlákon;
 
-k)[^25] a jogosulatlan vagy szabálytalan felhasználásból eredő összegek visszautalása az igazoló hatóság vonatkozó pénzforgalmi számláira;
+k)[^26] a jogosulatlan vagy szabálytalan felhasználásból eredő összegek visszautalása az igazoló hatóság vonatkozó pénzforgalmi számláira;
 
 l) a komplex programok megvalósításának koordinációja, nyomon követése;
 
-m)[^26] a forráskezelő szervezettel a finanszírozási szerződés megkötése és e szerződés teljesítésének felügyelete.
+m)[^27] a forráskezelő szervezettel a finanszírozási szerződés megkötése és e szerződés teljesítésének felügyelete.
 
 (4) Az NFÜ-nek az operatív programok megvalósításával kapcsolatos irányító hatósági feladatai különösen:
 
-a)[^27] az operatív programok, akciótervek és kapcsolódó dokumentumok kidolgozásának koordinálása;
+a)[^28] az operatív programok, akciótervek és kapcsolódó dokumentumok kidolgozásának koordinálása;
 
 b) javaslattétel az operatív program módosítására, beleértve a pénzügyi tábla prioritástengelyek közti módosítását;
 
@@ -60,11 +60,11 @@ d) kezdeményezés és közreműködés az operatív programot érintő értéke
 
 e) a monitoring bizottság működtetése, ügyrendjének kidolgozása, titkársági feladatainak ellátása;
 
-f)[^28] az operatív program végrehajtásáról éves és záró jelentés készítése, a jelentés előterjesztése a monitoring bizottságnak, majd megküldése az Európai Bizottságnak az éves jelentés esetében minden év június 30-ig, a záró jelentés tekintetében 2017. március 31-ig;
+f)[^29] az operatív program végrehajtásáról éves és záró jelentés készítése, a jelentés előterjesztése a monitoring bizottságnak, majd megküldése az Európai Bizottságnak az éves jelentés esetében minden év június 30-ig, a záró jelentés tekintetében 2017. március 31-ig;
 
 g) az operatív program szakmai végrehajtása tekintetében kapcsolattartás az Európai Bizottság illetékes főigazgatóságával;
 
-h)[^29]
+h)[^30]
 
 i) a pályázati kiírások és támogatási szerződés minták, valamint az ezen mintáktól eltérő egyedi támogatási szerződések jóváhagyása;
 
@@ -74,13 +74,13 @@ k) a program irányítási és ellenőrzési rendszerének kialakítása;
 
 l) a projekt kiválasztást előkészítő bíráló bizottságok felállítása, ügyrendjének kidolgozása és elnöki feladatainak ellátása, vagy ennek delegálása a közreműködő szervezetre;
 
-m)–n)[^30]
+m)–n)[^31]
 
-o)[^31] az értékelés alapján az 1 milliárd forintot nem meghaladó támogatásra javasolt projekt javaslatok jóváhagyása, vagy – meghatározott összeghatár alatt és feltételek szerint – ennek delegálása a közreműködő szervezetre;
+o)[^32] az értékelés alapján az 1 milliárd forintot nem meghaladó támogatásra javasolt projekt javaslatok jóváhagyása, vagy – meghatározott összeghatár alatt és feltételek szerint – ennek delegálása a közreműködő szervezetre;
 
 p) elszámolás az igazoló hatóság felé;
 
-q)[^32] a tárgyévre és a következő évre vonatkozó kifizetési előrejelzések összeállítása évente, operatív programonként és azon belül finanszírozó alaponkénti bontásban, majd az összeállított kifizetési előrejelzések legkésőbb március 31-ig az igazoló hatósághoz történő benyújtása.
+q)[^33] a tárgyévre és a következő évre vonatkozó kifizetési előrejelzések összeállítása évente, operatív programonként és azon belül finanszírozó alaponkénti bontásban, majd az összeállított kifizetési előrejelzések legkésőbb március 31-ig az igazoló hatósághoz történő benyújtása.
 
 (5) Az NFÜ-nek a közreműködő szervezetekkel kapcsolatos feladatai:
 
@@ -98,18 +98,18 @@ f) rendszerszintű szabálytalanság felmerülése esetén a közreműködő sze
 
 (6) Az NFÜ belső szabályzataiban – az 1083/2006/EK rendelet 60. cikkében meghatározott felelősségnek megfelelően – meghatározza az irányító hatóságok részletes feladat- és hatáskörét.
 
-(7)[^33]
+(7)[^34]
 
-[^21]: A 7. § (2) bekezdésének b) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^22]: A 7. § (2) bekezdésének c) pontja a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^23]: A 7. § (3) bekezdésének b) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^24]: A 7. § (3) bekezdésének f) pontja a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^25]: A 7. § (3) bekezdés k) pontja a 314/2009. (XII. 28.) Korm. rendelet 41. §-a szerint módosított szöveg.
-[^26]: A 7. § (3) bekezdésének m) pontját a 262/2007. (X. 4.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^27]: A 7. § (4) bekezdésének a) pontja a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^28]: A 7. § (4) bekezdés f) pontja a 202/2008. (VIII. 14.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^29]: A 7. § (4) bekezdésének h) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^30]: A 7. § (4) bekezdésének m)–n) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^31]: A 7. § (4) bekezdésének o) pontja a 105/2007. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^32]: A 7. § (4) bekezdés q) pontját a 359/2008. (XII. 31.) Korm. rendelet 34. § (5) bekezdése iktatta be.
-[^33]: A 7. § (7) bekezdését a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^22]: A 7. § (2) bekezdésének b) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^23]: A 7. § (2) bekezdésének c) pontja a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^24]: A 7. § (3) bekezdésének b) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^25]: A 7. § (3) bekezdésének f) pontja a 262/2007. (X. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^26]: A 7. § (3) bekezdés k) pontja a 314/2009. (XII. 28.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^27]: A 7. § (3) bekezdésének m) pontját a 262/2007. (X. 4.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^28]: A 7. § (4) bekezdésének a) pontja a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^29]: A 7. § (4) bekezdés f) pontja a 202/2008. (VIII. 14.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^30]: A 7. § (4) bekezdésének h) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^31]: A 7. § (4) bekezdésének m)–n) pontját a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^32]: A 7. § (4) bekezdésének o) pontja a 105/2007. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^33]: A 7. § (4) bekezdés q) pontját a 359/2008. (XII. 31.) Korm. rendelet 34. § (5) bekezdése iktatta be.
+[^34]: A 7. § (7) bekezdését a 104/2008. (IV. 29.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.

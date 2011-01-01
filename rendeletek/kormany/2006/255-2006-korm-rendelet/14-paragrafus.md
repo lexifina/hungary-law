@@ -2,13 +2,13 @@
 
 14. § (1) Az operatív programok végrehajtását monitoring bizottságok követik nyomon.
 
-(2)[^45] A monitoring bizottság elnökét a miniszterelnök nevezi ki.
+(2)[^46] A monitoring bizottság elnökét a miniszterelnök nevezi ki.
 
 (3) A monitoring bizottság tagjainak száma legfeljebb 35 fő. A monitoring bizottságba tagot delegál az irányító hatóság, valamint az irányító hatóság felkérése alapján:
 
 a) az érintett miniszterek,
 
-b)[^46] a közreműködő szervezetek és a forráskezelő szervezet,
+b)[^47] a közreműködő szervezetek és a forráskezelő szervezet,
 
 c) az államháztartásért felelős miniszter,
 
@@ -40,7 +40,7 @@ a) ellátja az 1083/2006/EK rendelet 65. cikkében meghatározott feladatokat,
 
 b) megtárgyalja az akciótervet.
 
-(7)[^47]
+(7)[^48]
 
 (8) Az 1083/2006/EK rendelet 65. cikk a) pontja szerinti projekt kiválasztási szempontok meghatározásakor biztosítani kell, hogy olyan projektek kerüljenek kiválasztásra, amelyek
 
@@ -56,6 +56,6 @@ e) hozzájárulnak a környezeti fenntarthatóság és az esélyegyenlőség ér
 
 f) megvalósulásának feltételei biztosítottak.
 
-[^45]: A 14. § (2) bekezdése a 104/2008. (IV. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^46]: A 14. § (3) bekezdésének b) pontja a 262/2007. (X. 4.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^47]: A 14. § (7) bekezdését a 105/2007. (V. 9.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^46]: A 14. § (2) bekezdése a 104/2008. (IV. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^47]: A 14. § (3) bekezdésének b) pontja a 262/2007. (X. 4.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^48]: A 14. § (7) bekezdését a 105/2007. (V. 9.) Korm. rendelet 7. §-a hatályon kívül helyezte.
