@@ -2,4 +2,4 @@
 
 (2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
-(3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről huszonkét munkanapon belül intézkedni kell.
+(3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
