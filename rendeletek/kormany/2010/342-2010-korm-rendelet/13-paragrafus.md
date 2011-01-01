@@ -1,4 +1,4 @@
-13. §[^11] (1) Hatályát veszti a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások feltételrendszeréről és elszámolásának rendjéről szóló 375/2007. (XII. 23.) Korm. rendelet.
+13. § (1) Hatályát veszti a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások feltételrendszeréről és elszámolásának rendjéről szóló 375/2007. (XII. 23.) Korm. rendelet.
 
 (2) 2011. évben az e rendelet 4. § (1) bekezdése szerinti igénybejelentéssel azonos elbírálás alá esik a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások feltételrendszeréről és elszámolásának rendjéről szóló 375/2007. (XII. 23.) Korm. rendelet 3. § (2) bekezdése szerinti formanyomtatványon benyújtott igénylés.
 
@@ -37,5 +37,3 @@ A feladatalapú támogatás elbírálásának szempontrendszere
 | Maximális pontszám: 10 pont |
 
 | ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont |
-
-[^11]: A 13. § a 12. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.

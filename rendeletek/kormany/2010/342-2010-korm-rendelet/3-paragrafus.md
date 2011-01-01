@@ -1,6 +1,6 @@
 ## 3. Az általános működési támogatás
 
-3. §[^3] (1) Általános működési támogatásra a támogatási évben január 10-éig a kormányhivatal által a Támogatónak és az Alapkezelőnek megküldött értesítésben szereplő, és a Támogatónak a Kincstárhoz intézett támogatás utalására vonatkozó rendelkező levele keltének időpontjában működő települési és területi kisebbségi önkormányzat jogosult.
+3. § (1) Általános működési támogatásra a támogatási évben január 10-éig a kormányhivatal által a Támogatónak és az Alapkezelőnek megküldött értesítésben szereplő, és a Támogatónak a Kincstárhoz intézett támogatás utalására vonatkozó rendelkező levele keltének időpontjában működő települési és területi kisebbségi önkormányzat jogosult.
 
 (2) Az általános működési támogatás egy települési és egy területi kisebbségi önkormányzatra jutó éves összegét (2013. évtől éves átlagösszegét) a Támogató közleményként minden év január 31-éig közzéteszi a Magyar Közlönyben.
 
@@ -23,5 +23,3 @@ d) 200%-a, ha a nemzetiséghez tartozók száma a településen meghaladja az ö
 a) kétszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) kisebbségi önkormányzatok száma legalább tíz, illetve legfeljebb húsz,
 
 b) négyszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) kisebbségi önkormányzatok száma meghaladja a húszat.
-
-[^3]: A 3. § a 12. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.

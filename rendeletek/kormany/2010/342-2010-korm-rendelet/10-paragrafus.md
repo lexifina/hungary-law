@@ -1,4 +1,4 @@
-10. §[^10] (1) Az országos kisebbségi önkormányzat az országos kisebbségi önkormányzat alakuló ülését követő 30 napon belül benyújtja a Támogatónak 1–1 eredeti vagy hiteles másolati példányban
+10. § (1) Az országos kisebbségi önkormányzat az országos kisebbségi önkormányzat alakuló ülését követő 30 napon belül benyújtja a Támogatónak 1–1 eredeti vagy hiteles másolati példányban
 
 a) az országos kisebbségi önkormányzat közgyűlése alakuló ülésének jegyzőkönyvét,
 
@@ -23,5 +23,3 @@ i) az országos kisebbségi önkormányzat nyilatkozatát annak tudomásulvétel
 (3) Az országos kisebbségi önkormányzat a támogatás felhasználásáról a zárszámadás elfogadását követő 30 napon belül – az Ámr. és a Támogató által kiadott, a támogatások elszámolására vonatkozó szabályozás szerinti szakmai és pénzügyi beszámoló benyújtásával – elszámol a Támogatónak.
 
 (4) Az elszámolás és a támogatás felhasználásának ellenőrzése során országos kisebbségi önkormányzat az ellenőrzés tűrésére, az Áht. és az Ámr. által előírt nyilatkozatok megtételére, illetőleg adatok szolgáltatására köteles.
-
-[^10]: A 10. § a 12. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.

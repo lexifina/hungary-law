@@ -2,7 +2,7 @@
 
 ## 2. A települési és területi kisebbségi önkormányzatok működési támogatása
 
-2. §[^2] (1) E fejezet hatálya a községben, a városban és a főváros kerületeiben (a továbbiakban: települési), továbbá a megyében és a fővárosban (a továbbiakban: területi) működő kisebbségi önkormányzatok feladatarányos támogatására terjed ki.
+2. § (1) E fejezet hatálya a községben, a városban és a főváros kerületeiben (a továbbiakban: települési), továbbá a megyében és a fővárosban (a továbbiakban: területi) működő kisebbségi önkormányzatok feladatarányos támogatására terjed ki.
 
 (2) E fejezet alkalmazásában
 
@@ -21,5 +21,3 @@ d) a feladatalapú támogatás alapjául szolgáló időszak: a költségvetési
 (5) Ha a települési és a területi kisebbségi önkormányzat év közben megszűnik, a megszűnését követő hónap 1-jétől nem illeti meg feladatarányos támogatás időarányos része. Évközi megszűnésnek minősül a területi kisebbségi önkormányzati időközi választás eredménytelensége, továbbá, ha a települési, területi kisebbségi önkormányzati választások eredményeképpen nem kerül sor új képviselő-testület megalakulására.
 
 (6) A települési és a területi kisebbségi önkormányzat gazdálkodásának végrehajtó szerve – területi kisebbségi önkormányzat esetén az időközi választás eredménytelenségét követően – a kisebbségi önkormányzatot meg nem illető időarányos támogatási előirányzatról való lemondásról a képviselő-testület megszűnését követő három napon belül értesíti a Támogatót és a Magyar Államkincstárat (a továbbiakban: Kincstár), egyidejűleg intézkedik az ennek megfelelő összegnek a Kincstár részére történő visszafizetéséről.
-
-[^2]: A 2. § a 12. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
