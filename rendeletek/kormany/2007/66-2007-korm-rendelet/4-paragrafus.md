@@ -28,6 +28,6 @@ e) a beépített tachográf kivitele (analóg vagy digitális)
 
 (5) Az (1) bekezdésben meghatározott ellenőrzéseket a közúti ellenőrzés során az 1. melléklet A. részében meghatározott vizsgálati célok együttes vagy külön-külön történő vizsgálatával kell elvégezni.
 
-(6) Az ellenőrző szerv az 1. melléklet A. részében meghatározott vizsgálati célok jegyzékét, valamint a 2. mellékletben meghatározott ellenőrző eszközöket biztosítja az ellenőr részére. Az ellenőr részére a digitális tachográf ellenőrzéséhez szükséges ellenőri kártyát a közlekedési hatóság biztosítja a külön jogszabályban[^4] meghatározott eljárásban.
+(6) Az ellenőrző szerv az 1. melléklet A. részében meghatározott vizsgálati célok jegyzékét, valamint a 2. mellékletben meghatározott ellenőrző eszközöket biztosítja az ellenőr részére. Az ellenőr részére a digitális tachográf ellenőrzéséhez szükséges ellenőri kártyát a közlekedési hatóság biztosítja a külön jogszabályban[^6] meghatározott eljárásban.
 
-[^4]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.
+[^6]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.

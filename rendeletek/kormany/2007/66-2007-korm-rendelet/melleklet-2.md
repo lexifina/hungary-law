@@ -16,13 +16,13 @@
 
 ## – ugyanezek a kinyomaton szereplő adatok;
 
-## 2. a 3821/85/EGK tanácsi rendelet 15. cikke (7) bekezdésében említett időszakra vonatkozóan minden olyan eset, amikor a jármű megengedett sebességét túllépték, amely magában foglal minden olyan, egy percnél hosszabb időszakot, amely alatt a jármű sebessége N3 kategóriájú járművek esetében meghaladta a 90 km/órát, vagy M3 kategóriájú járművek esetében a 105 km/órát[^15];
+## 2. a 3821/85/EGK tanácsi rendelet 15. cikke (7) bekezdésében említett időszakra vonatkozóan minden olyan eset, amikor a jármű megengedett sebességét túllépték, amely magában foglal minden olyan, egy percnél hosszabb időszakot, amely alatt a jármű sebessége N3 kategóriájú járművek esetében meghaladta a 90 km/órát, vagy M3 kategóriájú járművek esetében a 105 km/órát[^28];
 
 ## 3. indokolt esetben a jármű által elért, a tachográf által rögzített pillanatnyi sebességek legfeljebb a jármű megelőző 24 órai használatára vonatkozóan;
 
 ## 4. a tachográf helyes működése (a készülékkel és/vagy a járművezető kártyájával és/vagy az adatrögzítő lapokkal történt esetleges visszaélés megállapítása), vagy amennyiben indokolt, a 3821/85/EGK tanácsi rendelet 14. cikkének (5) bekezdésében felsorolt dokumentumok megléte a járművön;
 
-## 5.[^16] a járművekbe szerelt tachográf készülékek ellenőrzése, amelynek célja olyan berendezés(ek) beszerelésének, illetve használatának felderítése, amely(ek) célja adatok megsemmisítése, elrejtése, manipulálása, módosítása, a tachográf készülék alkotórészei közötti elektronikus adatcsere zavarása vagy az adatok azok titkosítását megelőzően ily módon történő blokkolása vagy módosítása.
+## 5.[^29] a járművekbe szerelt tachográf készülékek ellenőrzése, amelynek célja olyan berendezés(ek) beszerelésének, illetve használatának felderítése, amely(ek) célja adatok megsemmisítése, elrejtése, manipulálása, módosítása, a tachográf készülék alkotórészei közötti elektronikus adatcsere zavarása vagy az adatok azok titkosítását megelőzően ily módon történő blokkolása vagy módosítása.
 
 ## B. rész
 
@@ -46,8 +46,8 @@ A rendelet hatálya alá tartozó közúti és telephelyi ellenőrzést végző 
 
 2. a tachográfok adatrögzítő lapjainak ellenőrzésére szolgáló berendezés.
 
-3.[^17] kifejezetten az elemzésre alkalmas berendezés a megfelelő szoftverrel az adatokhoz rendelt digitális aláírás ellenőrzéséhez és hitelességének igazolásához, valamint kifejezetten az elemzésre alkalmas szoftver a járművek részletes sebességprofiljának meghatározásához a tachográf készülék ellenőrzése előtt.
+3.[^30] kifejezetten az elemzésre alkalmas berendezés a megfelelő szoftverrel az adatokhoz rendelt digitális aláírás ellenőrzéséhez és hitelességének igazolásához, valamint kifejezetten az elemzésre alkalmas szoftver a járművek részletes sebességprofiljának meghatározásához a tachográf készülék ellenőrzése előtt.
 
-[^15]: Az N3 és M3 járműkategória meghatározását lásd a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 2. §-ban.
-[^16]: Az 1. melléklet 5. pontját a 272/2009. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
-[^17]: A 2. melléklet 3. pontját a 272/2009. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^28]: Az N3 és M3 járműkategória meghatározását lásd a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 2. §-ban.
+[^29]: Az 1. melléklet 5. pontját a 272/2009. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
+[^30]: A 2. melléklet 3. pontját a 272/2009. (XII. 1.) Korm. rendelet 6. §-a iktatta be.

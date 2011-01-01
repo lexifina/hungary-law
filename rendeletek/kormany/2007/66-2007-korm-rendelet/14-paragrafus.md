@@ -1,6 +1,6 @@
 ## 13. § A közúti és a telephelyi ellenőrzés során az ellenőrző szervek az AETR Megállapodás hatálya alá tartozó közúti szállítás esetén az AETR Megállapodáshoz csatlakozott országgal kötött – külön jogszabályban kihirdetett – kétoldalú megállapodásban foglalt rendelkezések végrehajtását is ellenőrzik.
 
-14. § (1) Az NKH Központi Hivatala minden naptári év negyedik negyedévében a következő évre szólóan elkészíti az éves közúti és telephelyi ellenőrzési tervet, amelyben – a 9. §-ban meghatározott adatszolgáltatás elemzésére is figyelemmel – az ellenőrző szervek közötti koordinációs feladatkörében gondoskodik arról, hogy az ellenőrző szervek által végzett közúti és telephelyi ellenőrzések éves száma elérje:
+14. § (1)[^13] Az NKH Központja minden naptári év negyedik negyedévében a következő évre szólóan elkészíti az éves közúti és telephelyi ellenőrzési tervet, amelyben – a 9. §-ban meghatározott adatszolgáltatás elemzésére is figyelemmel – az ellenőrző szervek közötti koordinációs feladatkörében gondoskodik arról, hogy az ellenőrző szervek által végzett közúti és telephelyi ellenőrzések éves száma elérje:
 
 a) 2007. december 31-éig az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó járművek száma, valamint az éves munkanapok szorzataként számított összes munkanapok számának 1%-át,
 
@@ -24,11 +24,12 @@ ba) legalább 30%-át közúti ellenőrzés keretében, és
 
 bb) legalább 50%-át telephelyi ellenőrzés keretében,
 
-c)[^8] a tachográf készülék rendeltetésszerű működését befolyásoló eszközök feltárása érdekében az ellenőrzés alá vont járművek legalább 10%-át
+c)[^14] a tachográf készülék rendeltetésszerű működését befolyásoló eszközök feltárása érdekében az ellenőrzés alá vont járművek legalább 10%-át
 
 ## ellenőrizzék.
 
-(3)[^9]
+(3)[^15]
 
-[^8]: A 14. § (2) bekezdés c) pontját a 272/2009. (XII. 1.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A 14. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 530. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 14. § (1) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
+[^14]: A 14. § (2) bekezdés c) pontját a 272/2009. (XII. 1.) Korm. rendelet 3. §-a iktatta be.
+[^15]: A 14. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 530. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
