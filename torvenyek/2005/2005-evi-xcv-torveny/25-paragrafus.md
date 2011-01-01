@@ -24,7 +24,7 @@ c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvos
 
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
-(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés szerinti engedély kiadásáról a kérelem benyújtását követő tizenöt munkanapon – sürgős szükség esetén soron kívül, de legkésőbb 2 munkanapon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
+(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
 
 (9) Sürgős szükség esetén indokolt, indikáción túli gyógyszerrendelés szabályait külön jogszabály tartalmazza.
 

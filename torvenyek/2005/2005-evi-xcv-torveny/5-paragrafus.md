@@ -32,10 +32,12 @@ e) osztályozását,
 
 f) lejárati idejét és tárolásának körülményeit.
 
-(6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem benyújtásától számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
+(6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
 (7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább hat hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy a külön jogszabály szerinti mellékhatás bejelentési kötelezettség alapján beérkezett adatok alapján legfeljebb csak öt évre újítja meg.
 
 (8)
 
 (9) Ha a gyógyszer gyártója, illetve a forgalomba hozatali engedély jogosultja személyében változás következik be, a forgalomba hozatali engedély jogosultja köteles a változást – a változást megtörténtét követő harminc napon belül – a gyógyszerészeti államigazgatási szervhez bejelenteni.
+
+(10) A gyógyszerészeti államigazgatási szerv által nem az Európai Unió kötelező jogi aktusában rögzített eljárással forgalomba hozatalra engedélyezett készítmények módosítási kérelmeit az 1234/2008/EK bizottsági rendeletben rögzített módon és határidőkkel kell elbírálni.

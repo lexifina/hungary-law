@@ -20,11 +20,11 @@ rendeletben szabályozza.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
-a) a gyógyszerek forgalomba hozatali engedély kiadásával kapcsolatos eljárás részletes szabályait, az engedélyezés feltételeit, továbbá a forgalomból való kivonás rendjét,
+a) a gyógyszerek forgalomba hozatali engedély kiadásával kapcsolatos eljárás részletes szabályait, az engedélyezés feltételeit, továbbá a forgalomból való kivonás, illetve a forgalmazás felfüggesztésének rendjét,
 
 b) az e törvény hatálya alá tartozó gyógyszerek különböző típusait,
 
-c) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok működésére és felügyeletére vonatkozó részletes szabályokat,
+c) a helyes laboratóriumi gyakorlat alapelveire és követelményeire vonatkozó, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok működésére és felügyeletére vonatkozó részletes szabályokat,
 
 d) a klinikai vizsgálatok szakmai feltételeit, a klinikai vizsgálatok engedélyezéséhez szükséges dokumentációt, az engedélyezési eljárás részletes szabályait, a kutatásetikai bizottság eljárását, valamint a klinikai vizsgálatok végzésének és ezek ellenőrzésének szakmai feltételeit,
 
@@ -52,7 +52,9 @@ o) a gyógyszertár által történő gyógyszer kiszolgáltatás formáit és s
 
 p) a gyógyszerek ártalmatlanításának módját és a követendő eljárás rendjét, a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek esetén alkalmazandó fokozott biztonsági rendszabályokat, valamint a környezetvédelmi előírások betartásának ellenőrzését,
 
-q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait
+q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait,
+
+r) a gyógykezelt személy által a határátlépés során a gyógykezeléshez szükséges, kábítószerként vagy pszichotróp anyagként minősített gyógyszerekről kiállítandó kezelőorvosi igazolás nemzetközi előírásoknak megfelelő tartalmi és formai követelményeit,
 
 rendeletben szabályozza.
 
@@ -68,10 +70,10 @@ e) az immunológiai készítmények egy gyártási tételének vizsgálatáért 
 
 fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.
 
-(7) A gyógyszernek nem minősülő gyógyhatású anyagok és készítmények nyilvántartásáról és forgalomba hozataláról szóló 10/1987. (VIII. 19.) EüM rendelet alapján gyógyszernek nem minősülő anyagként vagy készítményként nyilvántartásba vett termékek gyártói, illetve forgalmazói 2011. március 31-éig kérhetik készítményeik gyógyszerré vagy más termékké való átminősítését. E törvény hatálybalépését követően új gyógyszernek nem minősülő gyógyhatású készítmény nyilvántartásba vétele és a forgalomba hozatala engedélyezésére eljárás nem indítható.
+(7) A gyógyszernek nem minősülő gyógyhatású anyagok és készítmények nyilvántartásáról és forgalomba hozataláról szóló miniszteri rendelet alapján gyógyszernek nem minősülő anyagként vagy készítményként nyilvántartásba vett termékek gyártói, illetve forgalmazói 2011. március 31-éig kérhetik növényi összetevőt is tartalmazó készítményeik gyógyszerré vagy más termékké való átminősítését. E törvény hatálybalépését követően új gyógyszernek nem minősülő gyógyhatású készítmény nyilvántartásba vételére és a forgalomba hozatalának engedélyezésére eljárás nem indítható.
 
 (8) A (7) bekezdés alatti termékek gyógyszerré történő átminősítésének feltételeit külön jogszabály állapítja meg.
 
-(9) A (7) bekezdés alatti termékek – amennyiben azokat nem minősítették át gyógyszerré – 2011. április 1. napjától gyógyhatásra való hivatkozással nem hozhatók forgalomba.
+(9) A 2011. március 31-én már forgalomban lévő, növényi összetevőt is tartalmazó gyógyszernek nem minősülő gyógyhatású anyagok és készítmények gyógyhatásra való hivatkozással lejárati idejükig, de legkésőbb 2013. április 1. napjáig forgalmazhatóak.
 
-(10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/A. § szerinti díj kezelésére és nyilvántartására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
+(10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/B. § szerinti díj kezelésére, nyilvántartására és megosztására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
