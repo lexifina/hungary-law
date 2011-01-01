@@ -6,7 +6,8 @@
 
 (4)–(5)[^321]
 
-(6) A Belügyi rendészeti ismeretek érettségi vizsgatárgyból középszinten írásbeli vizsgát, valamint emelt szinten írásbeli és szóbeli vizsgát első alkalommal a 2009/2010. tanév május–júniusi vizsgaidőszakától lehet tenni.
+(6)[^322]
 
 [^320]: A 60/B. §-t a 6/2008. (I. 22.) Korm. rendelet 10. §-a iktatta be.
 [^321]: A 60/B. § (4)–(5) bekezdését a 254/2009. (XI. 20.) Korm. rendelet 6. § (5) bekezdése hatályon kívül helyezte.
+[^322]: A 60/B. § (6) bekezdését 351/2010. (XII. 30.) Korm. rendelet 42. §-a hatályon kívül helyezte.
