@@ -24,8 +24,8 @@ b) a használt mértékegység külön jogszabályban meghatározott jele vagy a
 
 1 l = 1,760 pint vagy 0,220 gallon;
 
-c)[^2] a csomagoló vagy a csomagolást megrendelő vagy – jogszabály eltérő rendelkezése hiányában – az Európai Gazdasági Térségről szóló megállapodásban részes tagállamban letelepedett importőr azonosítását lehetővé tevő jelölés vagy felirat.
+c)[^3] a csomagoló vagy a csomagolást megrendelő vagy – jogszabály eltérő rendelkezése hiányában – az Európai Gazdasági Térségről szóló megállapodásban részes tagállamban letelepedett importőr azonosítását lehetővé tevő jelölés vagy felirat.
 
 (3) Azokat az előrecsomagolt termékeket lehet megjelölni EK jelöléssel, amelyek megfelelnek e rendelet előírásainak. Nem alkalmazható olyan jelölés vagy jelzés, amely összetéveszthető az EK-jelöléssel.
 
-[^2]: A 4. § (2) bekezdés c) pontja a 2/2009. (I. 23.) NFGM–FVM együttes rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § (2) bekezdés c) pontja a 2/2009. (I. 23.) NFGM–FVM együttes rendelet 2. §-ával megállapított szöveg.
