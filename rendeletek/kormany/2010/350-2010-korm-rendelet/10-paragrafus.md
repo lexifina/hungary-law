@@ -1,0 +1,1 @@
+## „(8) Tartós társulási részesedésként mutatja ki a társult helyi önkormányzat az Ötv. 80. § (5) bekezdése szerint jogi személyiségű társulásnak, illetve többcélú kistérségi társulásnak a társulási szerződés, illetve annak módosítása szerint átadott forgalomképes vagyont.”

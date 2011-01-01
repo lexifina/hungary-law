@@ -1,0 +1,1 @@
+## „(11) Az (1)–(7) bekezdésben – az Ámr. 18. § (5) bekezdése szerinti költségvetési szerveket kivéve – a beszámoló elkészítéséért kijelölt felelős személynek szerepelnie kell a Tv. 151. § (3) bekezdése szerinti nyilvántartások valamelyikében és rendelkeznie kell a számviteli szolgáltatás ellátására jogosító engedéllyel.”
