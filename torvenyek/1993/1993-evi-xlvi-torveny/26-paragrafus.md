@@ -17,3 +17,9 @@ d) a statisztikai kérdőívek főbb formai követelményeit;
 e)
 
 f) a népmozgalmi statisztikai adatgyűjtés részletes szabályait.
+
+(4) Felhatalmazást kap a KSH felett felügyeletet gyakorló miniszter, hogy
+
+a) a kötelező statisztikai fogalmakat, módszereket, osztályozásokat, névjegyzékeket és számjeleket rendeletben szabályozza, és
+
+b) rendeletében statisztikai közleményt hatályon kívül helyezzen.
