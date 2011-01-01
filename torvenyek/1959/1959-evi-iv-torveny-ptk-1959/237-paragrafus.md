@@ -20,6 +20,6 @@ Ptké.34. § Ha a Ptk. 237. §-ának (1) bekezdésében és a 361. §-ának (3) 
 
 Ptké.35. § A szolgáltatásnak (vagyoni előnynek) az állam javára való megítélését nem akadályozza az, hogy a szolgáltatást a sérelmet okozó fél már megkapta, illetőleg a vagyoni előnyt a gazdagodást előidéző fél már visszakapta.
 
-Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket a pénzügyminiszter az igazságügyminiszterrel egyetértésben szabályozza.
+Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket az adópolitikáért felelős miniszter az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 Ptké.36/A. § Az ügyész keresetet indíthat a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében a szerződés semmisségének megállapítása iránt.

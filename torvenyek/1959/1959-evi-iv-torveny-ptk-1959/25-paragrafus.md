@@ -8,7 +8,7 @@ Ptk.25. § (1) A holtnak nyilvánított személyt az ellenkező bizonyításá
 
 ## Holtnak nyilvánítás
 
-Ptké.15. § Felhatalmazást kap az igazságügyminiszter, hogy a holtnak nyilvánítási eljárást, valamint a halál tényének bírósági megállapításával kapcsolatos kérdéseket rendelettel szabályozza.
+Ptké.15. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy a holtnak nyilvánítási eljárást, valamint a halál tényének bírósági megállapításával kapcsolatos kérdéseket rendelettel szabályozza.
 
 ## II. CÍM
 

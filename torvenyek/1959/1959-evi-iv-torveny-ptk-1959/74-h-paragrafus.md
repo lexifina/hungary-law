@@ -22,7 +22,7 @@ Ptké.91/A. § (1) Az alapítvány nyilvántartásba vételére irányuló hián
 
 (5) A nyilvántartásba bejegyzett adatok változását – a változástól számított hatvan napon belül – a bíróságnak be kell jelenteni, a bejelentésre az (1)–(4) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-(6) A nyilvántartás tartalmazza az igazságügy-miniszter rendeletében meghatározott adatokat, köztük az alapítvány kezelő szerve (szervezete) tagjainak, valamint az alapítvány képviselőjének nevét, lakóhelyét. A nyilvántartás fennálló, illetve törölt adatai, valamint a bírósághoz benyújtott iratok nyilvánosak – ideértve a még el nem bírált kérelmet és mellékleteit is – azokat bárki megtekintheti és azokról feljegyzést készíthet.
+(6) A nyilvántartás tartalmazza az igazságügyért felelős miniszter rendeletében meghatározott adatokat, köztük az alapítvány kezelő szerve (szervezete) tagjainak, valamint az alapítvány képviselőjének nevét, lakóhelyét. A nyilvántartás fennálló, illetve törölt adatai, valamint a bírósághoz benyújtott iratok nyilvánosak – ideértve a még el nem bírált kérelmet és mellékleteit is – azokat bárki megtekintheti és azokról feljegyzést készíthet.
 
 (7) A bíróság az alapítvány adatait számítógépen rögzíti.
 

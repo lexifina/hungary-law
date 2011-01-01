@@ -10,6 +10,16 @@ Ptk.261. § (1) Jelzálogjog esetén a zálogtárgy a zálogkötelezett birtok
 
 (4) Természetes személy – ide nem értve az egyéni vállalkozót – devizában nyilvántartott, vagy nyújtott (deviza alapú) kölcsönszerződéséből keletkező hitelezői követelés biztosítására, természetes személy tulajdonában álló ingatlanon, vagy ingatlannak természetes személy tulajdonában lévő tulajdoni illetőségére jelzálogjog nem alapítható, a felek ettől eltérő rendelkezése semmis.
 
-Ptké. 83/A. § (1) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 81. §-ával megállapított Ptk. 261. § (4) bekezdését csak a hatálybalépését követően kötött jelzálogjog alapítására irányuló szerződésre kell alkalmazni azzal, hogy a hatálybalépését megelőzően kötött jelzálogjoggal biztosított kölcsönszerződés tekintetében sincsen akadálya annak, hogy a szerződéses jogviszonyban történő jogutódlás (hitelezői engedményezés vagy adósi tartozásátvállalás) és a kölcsönszerződés módosítása, vagy megszüntetése és új szerződés kötése következtében az adóssal szemben zálogjogosultként más személy javára, vagy azonos hitelező azonos követelésének biztosítására a kölcsönszerződés módosítása miatt más pénznemben és összegben alapítsanak vagy jegyezzenek be jelzálogjogot (kölcsönkiváltás), valamint hogy a hitelezői követelés fedezetéül szolgáló ingatlanra bejegyzett jelzálogjog törlésével egyidejűleg másik felajánlott ingatlanra alapítsanak jelzálogjogot (fedezetcsere) abban az esetben, ha a jelzálogjog és az azzal biztosított követelés mértéke a korábbinál nem terhesebb.
+Ptké.83/A. § (1) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 81. §-ával megállapított Ptk. 261. § (4) bekezdését a hatálybalépését követően kötött jelzálogjog alapítására irányuló szerződésre kell alkalmazni azzal, hogy a hatálybalépését megelőzően kötött jelzálogjoggal biztosított kölcsönszerződés vonatkozásában sincsen akadálya
 
-(2) Az (1) bekezdésben foglaltak teljesítése érdekében a kölcsönszerződés módosításában meg kell jelölni a követelés eredeti és módosított összegét forintban is.
+a) a követelés, illetve a tartozás tekintetében történő jogutódlásnak (engedményezés, tartozásátvállalás, a jogutódlás egyéb esetei),
+
+b) a szerződés módosításának,
+
+c) a követelés biztosítékául szolgáló ingatlanra bejegyzett jelzálogjogról történő lemondással egyidejűleg más ingatlanon jelzálogjog alapításának (fedezetcsere), vagy
+
+d) a szerződés megszüntetése és azonos vagy más hitelezővel a kötelezett által kötött új szerződés (kölcsönkiváltás) jelzálogjoggal való biztosításának,
+
+ha – a b) és d) pontban foglalt esetben – a biztosítandó követelés mértéke a korábbinál nem terhesebb.
+
+(2) A követelés mértéke a korábbinál nem terhesebbnek akkor tekinthető, ha annak összege – az alkalmazott árfolyamok különbözőségéből és az eredeti kölcsöntartozás megszüntetésével, illetve az azt kiváltó kölcsön folyósításával összefüggésben igazoltan felmerülő díjakból, költségekből adódó többletköveteléstől eltekintve – nem haladja meg az eredeti követelés még fennálló összegét.
