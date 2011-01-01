@@ -8,4 +8,4 @@
 
 (4)
 
-(5) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezésétől számított tíz munkanapon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt.
+(5) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezését követő naptól számított tizenöt napon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt.

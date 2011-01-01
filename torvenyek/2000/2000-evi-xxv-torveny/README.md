@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-25-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2000-25-00-00.16 |
 | 2010-12-01 | 2009. évi CLIV. törvény | 2000-25-00-00.17 |
+| 2011-01-01 | 2009. évi CLIV. törvény | 2000-25-00-00.18 |

@@ -20,7 +20,9 @@ e) az Európai Parlament és a Tanács 2004/9/EK irányelve (2004. február 11.)
 
 f) a Tanács 98/24/EK irányelve (1998. április 7.) a munkájuk során vegyi anyagokkal kapcsolatos kockázatoknak kitett munkavállalók egészségének és biztonságának védelméről (tizennegyedik egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében),
 
-g) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról, 9. cikk (a törvény 33/A. §-a).
+g) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról, 9. cikk (a törvény 33/A. §-a),
+
+h) az Európai Parlament és a Tanács 2008/112/EK irányelve (2008. december 16.) a 76/768/EGK, a 88/378/EGK, az 1999/13/EK tanácsi irányelveknek, és a 2000/53/EK, a 2002/96/EK és 2004/42/EK európai parlamenti és tanácsi irányelveknek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról, 4. és 5. cikk (a törvény 1. § c) és d) pontja).
 
 (2) Ez a törvény a 34. § (3) bekezdésének b) pontjában, a 34. § (4) bekezdés a) pontjának aj) alpontjában, valamint a 34. § (5) bekezdésében foglalt felhatalmazás alapján kiadott végrehajtási rendeleteivel együtt
 

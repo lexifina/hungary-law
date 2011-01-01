@@ -74,6 +74,6 @@ rendeletben meghatározza.
 
 (5)
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter és a foglalkoztatáspolitikáért felelős miniszter, hogy a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját együttes rendeletben állapítsa meg.
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját.
 
-(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter és az egészségügyért felelős miniszter, hogy a veszélyes anyaggal, illetve veszélyes keverékkel munkahelyen végzett tevékenység kémiai biztonsági szabályait együttes rendeletben állapítsa meg.
+(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a veszélyes anyaggal, illetve veszélyes keverékkel munkahelyen végzett tevékenység kémiai biztonsági szabályait.
