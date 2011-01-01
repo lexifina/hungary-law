@@ -1,10 +1,10 @@
 ## Átmeneti rendelkezések
 
-31. § (1)–(6)[^236]
+31. § (1)–(6)[^238]
 
 (7) A pénzügyi vállalkozás a kamat függővé tétel szabályát a 2001. január 1-je után szerződés szerint felszámított, időarányosan járó és esedékes kamatokra köteles alkalmazni.
 
-(8)[^237]
+(8)[^239]
 
-[^236]: A 31. § (1)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
-[^237]: A 31. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
+[^238]: A 31. § (1)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
+[^239]: A 31. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.

@@ -408,6 +408,6 @@
 
 ## 13. Mérleg szerinti vesztesége
 
-3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^241]
+3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^244]
 
-[^241]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^244]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
