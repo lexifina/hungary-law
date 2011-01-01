@@ -106,4 +106,6 @@ történik a kiállítása;
 
 35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása;
 
-36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás.
+36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
+
+36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás.

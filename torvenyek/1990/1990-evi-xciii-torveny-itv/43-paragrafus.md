@@ -4,7 +4,7 @@
 
 (2) A házassági perben érvényesített lakáshasználat rendezése iránti igény, valamint az egyező akaratnyilvánításon alapuló bontóperben a házastársi közös vagyon megosztása iránti igény esetében ezek pertárgyértékét az illeték megállapításánál nem lehet külön figyelembe venni. Ha a fél egyéb vagyonjogi igényt érvényesít, ez után csak a házassági per illetékét meghaladó részt kell megfizetni.
 
-(3) A közigazgatási határozat bírósági felülvizsgálata iránti eljárás illetéke – ha törvény másként nem rendelkezik, és a határozat nem adó-, illeték-, adójellegű kötelezettséggel, társadalombiztosítási járulék- vagy vámkötelezettséggel, versenyüggyel, műsorszolgáltatással – kivéve a panaszügyeket –, elektronikus hírközléssel vagy közbeszerzéssel kapcsolatos – 20 000 forint.
+(3) A közigazgatási határozat bírósági felülvizsgálata iránti eljárás illetéke – ha törvény másként nem rendelkezik, és a határozat nem adó-, illeték-, adójellegű kötelezettséggel, társadalombiztosítási járulék- vagy vámkötelezettséggel, versenyüggyel, sajtótermékkel és médiaszolgáltatással – kivéve a panaszügyeket –, elektronikus hírközléssel vagy közbeszerzéssel kapcsolatos – 20 000 forint.
 
 (4) A kisajátítási kártalanítási határozat jogalap tekintetében történő felülvizsgálata esetén az illeték mértéke 10 000 forint.
 

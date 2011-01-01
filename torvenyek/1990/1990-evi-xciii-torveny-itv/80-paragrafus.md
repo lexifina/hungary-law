@@ -21,3 +21,5 @@ i) mindazokban a bírósági eljárásokban, ahol az eljárás illetékmentes, v
 j) a hatóság visszatéríti a természetes személy ügyfél által lerótt illetéket, ha számára az eljárás során költségmentességet engedélyez, vagy ha hatásköre az ügy elbírálása alatt megszűnt, és az ügy elbírálására nincs hatáskörrel rendelkező más hatóság.
 
 (2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
+
+(3) Ha az 5. § (1) bekezdése szerinti szervezet (alapítvány) közigazgatási hatósági vagy bírósági eljárás kezdeményezésekor, illetve gépjármű, pótkocsi szerzése esetén az illetékmentesség igénybevételére jogosult lett volna, a megfizetett illetéket az adózó kérelmére – az adóvisszatérítés szabályai szerint – az állami adóhatóság visszatéríti. Az eljárási illeték visszatérítése iránti kérelmet az állami adóhatósághoz címezve az eljáró közigazgatási hatóságnál vagy bíróságnál kell benyújtani, mely az eljárási illeték megfizetésének tényét igazolva a kérelmet továbbítja az állami adóhatósághoz.
