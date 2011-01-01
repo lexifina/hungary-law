@@ -1,4 +1,4 @@
-16. §[^16] (1) A kedvtelésből tartott állatokkal kíméletesen kell bánni, azoknak szükségtelenül fájdalmat, szenvedést, illetve félelmet okozni nem szabad.
+16. §[^17] (1) A kedvtelésből tartott állatokkal kíméletesen kell bánni, azoknak szükségtelenül fájdalmat, szenvedést, illetve félelmet okozni nem szabad.
 
 (2) A kedvtelésből tartott állat tartója köteles az állat életfeltételeinek kialakítása és a tartása során
 
@@ -10,4 +10,4 @@ b) az állatot a fajának (fajtájának), korának, fiziológiai állapotának �
 
 (4) Reklám, bemutatás, illetve a figyelem felkeltése céljából tartott állat az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló külön rendeletben meghatározott tartási feltételek mellett tartható.
 
-[^16]: A 16. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^17]: A 16. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-8. §[^8] (1) A 338/97/EK rendelet hatálya alá tartozó faj egyedének forgalmazásakor át kell adni a vevő részére
+8. §[^9] (1) A 338/97/EK rendelet hatálya alá tartozó faj egyedének forgalmazásakor át kell adni a vevő részére
 
 a) a 338/97/EK rendeletben, illetve
 
@@ -8,4 +8,4 @@ meghatározott esetekben az előírt származási igazolást, tenyésztői bizon
 
 (2) Amennyiben jogszabály a kedvtelésből tartott állatfaj esetében kötelező immunizálást rendel el, akkor ennek a fajnak az egyede csak akkor forgalmazható, ha az állat rendelkezik az életkorának megfelelő igazolt kötelező immunizálással.
 
-[^8]: A 8. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^9]: A 8. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.

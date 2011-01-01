@@ -40,7 +40,7 @@
 
 ## 8. Szürke mókus (Sciurus carolinensis)
 
-2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^21]
+2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^23]
 
 ## A 9. § (2) bekezdése szerinti írásos dokumentumok
 
@@ -78,4 +78,4 @@ l) az e rendelet szerinti minimális tartási követelmények,
 
 m) az állat milyen veszélyt és egészségügyi ártalmat jelent az állat tartójának egészségére, és azt hogyan lehet megelőzni.
 
-[^21]: A 2. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^23]: A 2. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.

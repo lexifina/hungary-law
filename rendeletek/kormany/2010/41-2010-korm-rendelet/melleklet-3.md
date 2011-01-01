@@ -1,4 +1,4 @@
-3. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^22]
+3. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^24]
 
 A kedvtelésből tartott állatok minimális elhelyezési feltételei az állatkereskedésben
 
@@ -210,4 +210,4 @@ O. Görény
 
 | 0,5 | 0,25 | 1 | 1 |
 
-[^22]: A 3. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^24]: A 3. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.

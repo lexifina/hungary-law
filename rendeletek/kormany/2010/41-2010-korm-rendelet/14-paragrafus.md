@@ -1,6 +1,6 @@
-## 13. §[^13] Az állattartónak rendelkeznie kell a kötelező immunizálásra vonatkozó mindenkori adatokkal és dokumentumokkal, egyedi tartós megjelöléssel rendelkező állat esetében az állat azonosítására vonatkozó adatokkal és dokumentumokkal is. Amennyiben az állat új tulajdonoshoz kerül, részére e dokumentumokat át kell adni, illetve tájékoztatni kell az állat fajáról (fajtájáról), – ha ismert – az egyed neméről és koráról, továbbá az egyed tartásához szükséges minimális ismeretekről.
+## 13. §[^14] Az állattartónak rendelkeznie kell a kötelező immunizálásra vonatkozó mindenkori adatokkal és dokumentumokkal, egyedi tartós megjelöléssel rendelkező állat esetében az állat azonosítására vonatkozó adatokkal és dokumentumokkal is. Amennyiben az állat új tulajdonoshoz kerül, részére e dokumentumokat át kell adni, illetve tájékoztatni kell az állat fajáról (fajtájáról), – ha ismert – az egyed neméről és koráról, továbbá az egyed tartásához szükséges minimális ismeretekről.
 
-14. §[^14] (1) Az állatok számára a táplálékot, továbbá a nyulak és rágcsálók esetében a fogak koptatásához szükséges rágóanyagot az adott fajnak, az egyed korának és élettani állapotának megfelelő minőségben, mennyiségben és lehetőség szerint az adott faj természetes viselkedési szokásaihoz leginkább alkalmazkodó időközönként kell biztosítani.
+14. §[^15] (1) Az állatok számára a táplálékot, továbbá a nyulak és rágcsálók esetében a fogak koptatásához szükséges rágóanyagot az adott fajnak, az egyed korának és élettani állapotának megfelelő minőségben, mennyiségben és lehetőség szerint az adott faj természetes viselkedési szokásaihoz leginkább alkalmazkodó időközönként kell biztosítani.
 
 (2) A kedvtelésből tartott állatot úgy kell tartani, hogy az állat tartása lehetővé tegye annak természetes viselkedését, ugyanakkor a környező lakóközösség kialakult élet- és szokásrendjét tartósan és szükségtelenül ne zavarja.
 
@@ -38,5 +38,5 @@ tartani.
 
 (14) Az (5) bekezdés a) pontjában, valamint a (6) bekezdésben foglalt rendelkezés nem terjed ki az állatmenhelyekre.
 
-[^13]: A 13. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
-[^14]: A 14. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^14]: A 13. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^15]: A 14. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
