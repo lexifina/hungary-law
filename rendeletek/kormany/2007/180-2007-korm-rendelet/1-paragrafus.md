@@ -10,12 +10,13 @@
 
 (6) A biztosíték kedvezményezettje a Főfelügyelőség. Amennyiben a hulladékszállítást a bejelentésben foglaltaktól eltérően, vagy a hulladék hasznosítását vagy ártalmatlanítását jogellenesen hajtják végre, a Főfelügyelőség rendelkezik a biztosíték felett, és felhasználhatja az összeget a kötelezettségek teljesítésére történő kifizetésekre, illetve a más hatóságok céljára történő kifizetésekre.
 
-(7) A Főfelügyelőség a hulladék szállítására vonatkozó eljárásáról
+(7)[^2] A Főfelügyelőség a hulladék szállítására vonatkozó eljárásáról
 
-a) hulladék behozatala esetén a hasznosítás helye szerinti környezetvédelmi felügyelőséget, a Vám- és Pénzügyőrség Országos Parancsnokságát (a továbbiakban: VPOP), valamint veszélyes hulladék esetén az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF),
+a) hulladék behozatala esetén a hasznosítás helye szerinti környezetvédelmi felügyelőséget, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Hivatalát, valamint veszélyes hulladék esetén az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF),
 
-b) hulladék kivitele esetén a hulladék termelőjének (birtokosának) telephelye szerinti illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, a VPOP-t, valamint veszélyes hulladék esetén az OKF-t,
+b) hulladék kivitele esetén a hulladék termelőjének (birtokosának) telephelye szerinti illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, a NAV Központi Hivatalát, valamint veszélyes hulladék esetén az OKF-t,
 
-c) hulladéknak az országon történő átszállítása esetén a VPOP-t, valamint veszélyes hulladék esetén az OKF-t
+c) hulladéknak az országon történő átszállítása esetén a NAV Központi Hivatalát, valamint veszélyes hulladék esetén az OKF-t értesíti.
 
 [^1]: Az 1. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 549. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: Az 1. § (7) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (1) bekezdésével megállapított szöveg.
