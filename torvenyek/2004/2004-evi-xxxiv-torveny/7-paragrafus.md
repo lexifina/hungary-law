@@ -1,6 +1,6 @@
-7. § (1) A célelőirányzat terhére támogatásban részesülhetnek a KKV-k, valamint a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek.
+7. § (1) A célelőirányzat terhére vállalkozások, valamint a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek részesülhetnek támogatásban. A célelőirányzat felhasználásának rendjét olyan módon kell kialakítani, hogy a KKV-k – többek között speciálisan KKV-k számára meghirdetett támogatási konstrukciók, magasabb támogatási intenzitás és a támogatás ellenében teljesítendő enyhébb kötelezettségek révén – a többi vállalkozáshoz képest előnyben részesüljenek.
 
-(2) Támogatásban részesíthetők azok a programok, amelyek célja:
+(2) Támogatásban részesíthetők azok a programok, amelyek célja többek között:
 
 a) a vállalkozásindításhoz szükséges feltételek megteremtése,
 
