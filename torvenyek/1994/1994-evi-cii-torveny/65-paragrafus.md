@@ -8,7 +8,7 @@ b) a hegyközségi tagok, a hegyközségek és a hegyközségi tanácsok adatszo
 
 c) a származási bizonyítvány kiadása, valamint
 
-d) a helyi önkormányzatokért felelős miniszterrel együttes rendeletben a törvény által meghatározott közigazgatási feladatoknak a hegyközségek részére történő átadása
+d) a helyi önkormányzatokért felelős miniszter egyetértésével kiadott rendeletben a törvény által meghatározott közigazgatási feladatoknak a hegyközségek részére történő átadása
 
 rendjét szabályozza,
 
