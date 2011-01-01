@@ -14,7 +14,7 @@ c) teljességi nyilatkozatot, melyben a jelentkező felelősséget vállal, hogy
 
 d) a jelentkezőnek az árverési, illetve a pályázati eljárásban történő teljes körű képviseletére jogosultak nevét, személyazonosító adatait, valamint a képviseleti jog igazolására alkalmas dokumentumot;
 
-e)[^13] a részvételi díj átutalását igazoló dokumentumot;
+e)[^14] a részvételi díj átutalását igazoló dokumentumot;
 
 f) a kiírási dokumentáció megvásárlását igazoló dokumentumot;
 
@@ -28,12 +28,12 @@ i) az e rendeletben és a kiírási dokumentációban megjelölt egyéb dokument
 
 (4) Amennyiben a jelentkező nem magyar nyelven nyújt be – a (2) bekezdésben foglaltakon túli egyéb – dokumentumot, csatolni kell annak magyar nyelvű fordítását is. Vitatott esetben – a kiírási dokumentáció eltérő rendelkezése hiányában – a magyar nyelvű változat az irányadó.
 
-(5)[^14] Hiteles fordításnak minősül a rendelet alkalmazása szempontjából az Országos Fordító és Fordításhitelesítő Iroda, a magyar külképviseleti hatóság és a magyar közjegyző által fordított vagy hitelesítési záradékával ellátott fordítás, továbbá a szakfordítói vagy szakfordító-lektor képesítéssel rendelkező személy által készített fordítás.
+(5)[^15] Hiteles fordításnak minősül a rendelet alkalmazása szempontjából az Országos Fordító és Fordításhitelesítő Iroda, a magyar külképviseleti hatóság és a magyar közjegyző által fordított vagy hitelesítési záradékával ellátott fordítás, továbbá a szakfordítói vagy szakfordító-lektor képesítéssel rendelkező személy által készített fordítás.
 
-(6)[^15] A kiírási dokumentáció lehetővé teheti a (2) bekezdés szerinti dokumentumok elektronikus formában vagy más módon történő benyújtását.
+(6)[^16] A kiírási dokumentáció lehetővé teheti a (2) bekezdés szerinti dokumentumok elektronikus formában vagy más módon történő benyújtását.
 
 (7) A kiírási dokumentáció lehetővé teheti, hogy a jelentkező a (2) bekezdés g) pontja szerinti igazolások helyett az igazolandó körülményekre vonatkozó saját nyilatkozatát nyújtsa be.
 
-[^13]: A 10. § (2) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 67. §-a szerint módosított szöveg.
-[^14]: A 10. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 460. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 10. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 459. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 10. § (2) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^15]: A 10. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 460. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 10. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 459. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

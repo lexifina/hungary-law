@@ -26,6 +26,6 @@ f) ha szükséges, olyan adatok és dokumentációk előírását, amelyek alapj
 
 (5) Az árverést a hirdetmény közzétételét követő 60. és 150. nap között kell lebonyolítani.
 
-(6)[^27] Az (5) bekezdés szerinti határidőt a bizottságnak a döntésre vonatkozó egyhangú javaslata alapján a hatóság egy alkalommal legfeljebb huszonkét munkanappal meghosszabbíthatja.
+(6)[^28] Az (5) bekezdés szerinti határidőt a bizottságnak a döntésre vonatkozó egyhangú javaslata alapján a hatóság egy alkalommal legfeljebb harminc nappal meghosszabbíthatja.
 
-[^27]: A 24. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 460. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 24. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (73) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

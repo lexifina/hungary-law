@@ -36,7 +36,7 @@
 
 ## p) tájékoztatást a fizetési késedelem, részteljesítés vagy a teljesítés elmaradásának következményeire;
 
-## q)[^31] tájékoztatást arra vonatkozóan, hogy a frekvenciahasználati jogosultságot, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultságot megszerző nyertesek részére a hatóság milyen eljárási rend szerint adja ki a hatályos jogszabályi rendelkezéseknek megfelelően a frekvencia használatához szükséges engedélyeket.
+## q)[^32] tájékoztatást arra vonatkozóan, hogy a frekvenciahasználati jogosultságot, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultságot megszerző nyertesek részére a hatóság milyen eljárási rend szerint adja ki a hatályos jogszabályi rendelkezéseknek megfelelően a frekvencia használatához szükséges engedélyeket.
 
 2. melléklet a 78/2006. (IV. 4.) Korm. rendelethez
 
@@ -74,7 +74,7 @@ m) tájékoztatást a pályázat nyertesei által fizetendő teljes pályázati 
 
 n) tájékoztatást a fizetési késedelem, részteljesítés vagy a teljesítés elmaradásának következményeiről;
 
-o)[^32] tájékoztatást arra vonatkozóan, hogy a frekvenciahasználati jogosultságot, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultságot megszerző nyertesek részére a hatóság milyen eljárási rend szerint adja ki a hatályos jogszabályi rendelkezéseknek megfelelően a frekvencia használatához szükséges engedélyeket.
+o)[^33] tájékoztatást arra vonatkozóan, hogy a frekvenciahasználati jogosultságot, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultságot megszerző nyertesek részére a hatóság milyen eljárási rend szerint adja ki a hatályos jogszabályi rendelkezéseknek megfelelően a frekvencia használatához szükséges engedélyeket.
 
-[^31]: Az 1. melléklet q) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének b) pontja, a 229/2008. (IX. 12.) Korm. rendelet 12. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^32]: A 2. melléklet o) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének b) pontja, a 229/2008. (IX. 12.) Korm. rendelet 12. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet q) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének b) pontja, a 229/2008. (IX. 12.) Korm. rendelet 12. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet o) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének b) pontja, a 229/2008. (IX. 12.) Korm. rendelet 12. § (3) bekezdésének b) pontja szerint módosított szöveg.

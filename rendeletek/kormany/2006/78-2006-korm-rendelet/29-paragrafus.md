@@ -4,6 +4,6 @@
 
 (3) A pályázat elbírálásának eredményét a felhívás közzétételét követő 60. és 150. nap között kell közzétenni a Hírközlési Értesítőben, valamint elektronikus úton a hatóság honlapján. A közzététel napjának a Hírközlési Értesítőben történő megjelenés napja számít.
 
-(4)[^29] A (3) bekezdés szerinti határidőket a bizottság egyhangú döntési javaslata alapján a hatóság egy alkalommal legfeljebb huszonkét munkanappal meghosszabbíthatja.
+(4)[^30] A (3) bekezdés szerinti határidőket a bizottság egyhangú döntési javaslata alapján a hatóság egy alkalommal legfeljebb harminc nappal meghosszabbíthatja.
 
-[^29]: A 29. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 460. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 29. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (73) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

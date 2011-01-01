@@ -1,4 +1,4 @@
-13. § (1)[^17] A hatóság a jelentkezéseket a jelentkezési határidő lejártától számított tíz munkanapon belül megvizsgálja abból a szempontból, hogy:
+13. § (1)[^18] A hatóság a jelentkezéseket a jelentkezési határidő lejártától számított tizenöt napon belül megvizsgálja abból a szempontból, hogy:
 
 a) a jelentkező nem esik-e a 9. § szerinti korlátozó rendelkezések hatálya alá;
 
@@ -14,4 +14,4 @@ c) a benyújtott dokumentumok alapján a jelentkező megfelel-e az e rendeletben
 
 (5) A nyilvántartásba vételről a hatóság a résztvevővé vált jelentkezőket értesíti, és a nyilvántartásba vett résztvevők listáját a hatóság honlapján közzéteszi.
 
-[^17]: A 13. § (1) bekezdés bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 460. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 13. § (1) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (73) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

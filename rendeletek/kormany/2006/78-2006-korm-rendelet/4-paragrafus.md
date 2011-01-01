@@ -6,9 +6,9 @@ a) az eljárás rendjére vonatkozó alapvető szabályokat (különösen: jelen
 
 b) az elnyerhető frekvenciakészlet leírását, valamint használatának részletes feltételeit;
 
-c)[^11] a frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság alapján végezhető elektronikus hírközlési tevékenység alapvető adatait és végzésének feltételeit;
+c)[^12] a frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság alapján végezhető elektronikus hírközlési tevékenység alapvető adatait és végzésének feltételeit;
 
-d)[^12] a frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság továbbhasznosíthatóságára vonatkozó jogszabályi feltételeket;
+d)[^13] a frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság továbbhasznosíthatóságára vonatkozó jogszabályi feltételeket;
 
 e) a részvételi díj összegét és megfizetésének feltételeit;
 
@@ -34,5 +34,5 @@ c) a szolgáltatás megkezdésének időpontját és a területi ellátottság b
 
 (5) A hatóság jogosult a kiírási dokumentációban a benyújtott pályázatokra vonatkozó ajánlati kötöttséget megállapítani, amelynek időtartama az eljárást lezáró döntés jogerőre emelkedésének várható időpontját 60 nappal nem haladhatja meg. Amennyiben a hatóság a kiírási dokumentációt a jelentkezések benyújtására nyitva álló határidő leteltét követően módosítja, illetve a jelentkezőket viszontajánlat tételére hívja fel, a részvételre jelentkezők addigi ajánlataik tekintetében a módosult, illetve a viszontajánlat-tételi felhívásban érintett rendelkezés vonatkozásában mentesülnek ajánlati kötöttségük alól.
 
-[^11]: A 4. § (1) bekezdésének c) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének a) pontja szerint módosított szöveg.
-[^12]: A 4. § (1) bekezdésének d) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^12]: A 4. § (1) bekezdésének c) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdésének d) pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (3) bekezdésének a) pontja szerint módosított szöveg.
