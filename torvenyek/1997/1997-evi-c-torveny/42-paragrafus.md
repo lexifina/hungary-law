@@ -1,6 +1,6 @@
 ## Plakát
 
-42. § (1) A választási kampány végéig a jelölő szervezetek és a jelöltek engedély nélkül készíthetnek plakátot. A plakát olyan sajtóterméknek minősül, amely engedély és bejelentés nélkül előállítható. Egyebekben a plakátra a sajtóról szóló jogszabályokat kell alkalmazni.
+42. § (1) A választási kampány végéig a jelölő szervezetek és a jelöltek engedély nélkül készíthetnek plakátot. A plakát engedély és bejelentés nélkül előállítható.
 
 (2) Plakát – a (3)–(6) bekezdésben meghatározott kivételekkel – korlátozás nélkül elhelyezhető.
 

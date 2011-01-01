@@ -2,11 +2,11 @@
 
 44/A. § (1) A sajtó választási kampányban történő részvételével (így különösen a választási eljárás alapelveinek megsértésével, a politikai hirdetések közzétételével) kapcsolatos kifogást
 
-a) nem országos terjesztésű időszaki lap, illetőleg helyi műsorszolgáltatás esetében a kiadó, illetőleg a műsorszolgáltató székhelye vagy lakcíme szerint illetékes helyi választási bizottság,
+a) nem országos terjesztésű időszaki lap, illetőleg helyi médiaszolgáltatás esetében a kiadó, illetőleg a médiaszolgáltató székhelye vagy lakcíme szerint illetékes helyi választási bizottság,
 
-b) körzeti műsorszolgáltatás esetében a műsorszolgáltató székhelye vagy lakcíme szerint illetékes területi választási bizottság,
+b) körzeti médiaszolgáltatás esetében a médiaszolgáltató székhelye vagy lakcíme szerint illetékes területi választási bizottság,
 
-c) országos terjesztésű időszaki lap, hírügynökség, illetőleg országos műsorszolgáltatás esetében az Országos Választási Bizottság
+c) országos terjesztésű időszaki lap, hírügynökség, illetőleg országos médiaszolgáltatás esetében az Országos Választási Bizottság
 
 bírálja el.
 
@@ -16,7 +16,7 @@ a) napilap, hírügynökség esetében három napon belül,
 
 b) folyóirat esetében a legközelebbi számban azonos módon,
 
-c) műsorszolgáltató esetében három napon belül, a jogsértő közléssel azonos napszakban és azonos számú alkalommal
+c) médiaszolgáltató esetében három napon belül, a jogsértő közléssel azonos napszakban és azonos számú alkalommal
 
 tegye közzé.
 

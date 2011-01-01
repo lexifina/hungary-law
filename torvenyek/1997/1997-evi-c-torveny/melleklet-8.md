@@ -10,7 +10,7 @@ SZAVAZÓLAP
 
 ........... (év) ............................... (hónap) ............ (nap)
 
-Érvényesen szavazni legfeljebb 5 jelöltre lehet!
+Érvényesen szavazni legfeljebb 4 jelöltre lehet!
 
 1. O (jelölt neve, jelölő szervezet neve)
 
