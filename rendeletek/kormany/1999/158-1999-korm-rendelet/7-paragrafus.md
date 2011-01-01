@@ -4,14 +4,14 @@
 
 (2) Az (1) bekezdésben meghatározott személy
 
-a)[^21] által ellátandó feladatot és a feladatellátás helyét a katasztrófa által érintett területen működő regionális tisztifőorvos jelöli ki;
+a)[^31] által ellátandó feladatot és a feladatellátás helyét a katasztrófa által érintett területen működő megyei tisztifőorvos jelöli ki;
 
-b)[^22] megfelelő helyre történő eljuttatásáról szükség esetén az (1) bekezdésben meghatározott személy lakóhelye, illetve tartózkodási helye szerint illetékes regionális intézet gondoskodik;
+b)[^32] megfelelő helyre történő eljuttatásáról szükség esetén az (1) bekezdésben meghatározott személy lakóhelye, illetve tartózkodási helye szerint illetékes megyei népegészségügyi szakigazgatási szerv gondoskodik;
 
 c) elhelyezéséről és ellátásáról a 6. § (7) bekezdésében meghatározottak szerint kell gondoskodni.
 
-(3)[^23] Az Eütv. 228. § (2) bekezdés b) pontjában meghatározott katasztrófa esetén az érintett regionális tisztifőorvos a megyei (fővárosi) védelmi bizottságnál szükség szerint kezdeményezi a polgári védelmi szervezetek alkalmazását.
+(3)[^33] Az Eütv. 228. § (2) bekezdés b) pontjában meghatározott katasztrófa esetén az érintett megyei tisztifőorvos a megyei (fővárosi) védelmi bizottságnál szükség szerint kezdeményezi a polgári védelmi szervezetek alkalmazását.
 
-[^21]: A 7. § (2) bekezdés a) pontja a 147/2009. (VII. 17.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^22]: A 7. § (2) bekezdés b) pontja a 147/2009. (VII. 17.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 7. § (3) bekezdését a 147/2009. (VII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^31]: A 7. § (2) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 63. § h) pontja szerint módosított szöveg.
+[^32]: A 7. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 63. § i) pontja szerint módosított szöveg.
+[^33]: A 7. § (3) bekezdését a 147/2009. (VII. 17.) Korm. rendelet 5. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 63. § h) pontja szerint módosított szöveg.
