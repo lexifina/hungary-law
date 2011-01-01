@@ -8,7 +8,7 @@ Melléklet a 90/2007. (XI. 17.) GKM rendelethez[^2]
 
 | I. |  |
 
-| II. | MAGYAR SZABADALMI HIVATAL |
+| II. | SZELLEMI TULAJDON NEMZETI HIVATALA |
 
 |  | 1. | Gazdasági főigazgató (gazdasági vezető) | C |
 
@@ -65,4 +65,4 @@ Melléklet a 90/2007. (XI. 17.) GKM rendelethez[^2]
 |  | Külszolgálatra jelölt személy | C |
 
 [^1]: A 2. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
-[^2]: A melléklet a 8/2008. (VI. 30.) KHEM rendelet 6. § (2) bekezdésének b) pontja, a 23/2008. (XI. 18.) NFGM rendelet 2. § (2) bekezdése, a 10/2009. (III. 12.) KHEM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: A melléklet a 8/2008. (VI. 30.) KHEM rendelet 6. § (2) bekezdésének b) pontja, a 23/2008. (XI. 18.) NFGM rendelet 2. § (2) bekezdése, a 10/2009. (III. 12.) KHEM rendelet 2. § (2) bekezdése, a 27/2010. (XII. 28.) KIM rendelet 14. §-a szerint módosított szöveg.
