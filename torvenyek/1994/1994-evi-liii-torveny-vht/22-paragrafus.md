@@ -8,6 +8,6 @@ c)
 
 d) azt a teljes bizonyító erejű magánokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját,
 
-e) a Magyar Szabadalmi Hivatalnak a költségek viselése tárgyában hozott döntését,
+e) a Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését,
 
 f) a károkozás helye szerint illetékes községi, városi, fővárosi kerületi jegyzőnek a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott eljárásában hozott, a károsultnak és a kárért felelős személynek vadkár, vadászati kár vagy vadban okozott kár megtérítésére, valamint az általuk előlegezett eljárási költség viselésére vonatkozó egyezségét jóváhagyó határozatát.

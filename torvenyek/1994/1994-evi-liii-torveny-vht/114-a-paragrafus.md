@@ -1,6 +1,6 @@
 ## A zálogjogosult bekapcsolódása a végrehajtási eljárásba
 
-114/A. § (1) A zálogjogosultnak a 114. § szerinti értesítés kézhezvételét követő 8 munkanapon belül előterjesztett kérelmére a végrehajtást foganatosító bíróság a soron kívül meghozott végzésével megállapítja a zálogjogosult kielégítési jogának megnyíltát, és engedélyezi, hogy a végrehajtási eljárásba bekapcsolódjék, ha a zálogjoggal biztosított követelés jogalapja és összegszerűsége – önálló zálogjog esetén a jogalap és az összegszerűség – nem vitatott.
+114/A. § (1) A zálogjogosultnak a 114. § szerinti értesítés kézhezvételét követő 15 munkanapon belül előterjesztett kérelmére a végrehajtást foganatosító bíróság a soron kívül meghozott végzésével megállapítja a zálogjogosult kielégítési jogának megnyíltát, és engedélyezi, hogy a végrehajtási eljárásba bekapcsolódjék, ha a zálogjoggal biztosított követelés jogalapja és összegszerűsége – önálló zálogjog esetén a jogalap és az összegszerűség – nem vitatott.
 
 (2) A kielégítési jog megnyíltát – szemben a végrehajtás általános feltételeivel – a bíróság az alapján állapítja meg, hogy a zálogtárgyat végrehajtási eljárás során lefoglalták. A kielégítési jog megnyíltát a foglalás ténye alapján nem lehet megállapítani, ha a zálogjogosult az adós hozzátartozója vagy olyan jogi személy, amelynek az adóssal való viszonyában többségi befolyás áll fenn, illetve a zálogjog alapítására a gazdálkodó szervezet és tagja között került sor.
 
