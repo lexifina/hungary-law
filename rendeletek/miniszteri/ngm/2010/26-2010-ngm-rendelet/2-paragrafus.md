@@ -1,0 +1,1 @@
+## 1. § Az éghető folyadékok és olvadékok tárolótartályairól szóló 11/1994. (III. 25.) IKM rendelet 10. § (1) bekezdésében a „22 munkanapon” szövegrész helyébe a „30 napon” szöveg, a 4. melléklet 8. b) pontjában az „5 munkanapon” szövegrész helyébe a „8 napon” szöveg lép.

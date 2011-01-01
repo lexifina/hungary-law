@@ -1,0 +1,1 @@
+## 5. § Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet 22/A. § (7) bekezdésben az „5 munkanapon” szövegrész helyébe a „8 napon” szöveg, a 47. § (2) bekezdésében a „nyolc munkanapon” szövegrész helyébe a „tíz napon” szöveg lép.

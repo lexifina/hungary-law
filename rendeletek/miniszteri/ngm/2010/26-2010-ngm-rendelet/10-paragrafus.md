@@ -1,0 +1,1 @@
+## 9. § Az Országos Érdekegyeztető Tanácsról szóló 2009. évi LXXIII. törvény végrehajtásáról szóló 21/2009. (IX. 30.) SZMM rendelet 3. § (3) bekezdésben az „öt munkanap” szövegrész helyébe a „nyolc nap” szöveg, a „húsz munkanap” szövegrész helyébe a „30 nap” szöveg, a 3. § (5) bekezdés b) pontjában a „tíz munkanapos” szövegrész helyébe a „15 napos” szöveg lép.
