@@ -42,16 +42,15 @@ b) a miniszter hatáskörébe tartozó szakképesítésekkel összefüggő felad
 
 6. szervezi a szakmai tankönyvek kidolgozását és kiadását;
 
-7. közreműködik a humánerőforrás fejlesztést, valamint a szociális képzéseket érintő stratégiai tervezésben;
+7.[^4] közreműködik a humánerőforrás fejlesztést érintő stratégiai tervezésben;
 
 8. elősegíti az Európai Unió által meghatározott szociális ágazatot érintő stratégiák, irányvonalak megvalósulását;
 
-9. vezeti a személyes gondoskodást nyújtó szervezetekben szakmai tevékenységet végző szakképzett személyek működési nyilvántartását;
-
-10. ellátja az Országos Szociális és Gyermekvédelmi Továbbképzési és Szakvizsga Bizottság feladatait;
-
-11. működteti és fejleszti a szociális ágazat továbbképzési, alap- és szakvizsga rendszerét;
+9–11.[^5]
 
 12. kidolgozza és fejleszti az általa folytatott képzések minőségirányítási rendszerét.
 
 (2) Az Intézet az (1) bekezdés a) pontjának 4. és 5. pontjában meghatározott feladatát – külön jogszabályban meghatározottak alapján – a szakképesítésért felelős miniszterekkel együttműködve látja el.
+
+[^4]: Az 5. § (1) bekezdés b) pont 7. alpontja a 355/2010. (XII. 30.) Korm. rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (1) bekezdés b) pont 9–11. alpontját a 355/2010. (XII. 30.) Korm. rendelet 3. § (3) bekezdés b) pontja hatályon kívül helyezte.
