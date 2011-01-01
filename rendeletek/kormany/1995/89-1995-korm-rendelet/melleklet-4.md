@@ -20,7 +20,7 @@
 
 ## ahol: Ae, Be, Ce, De az ellátandó munkavállalók száma az A—D foglalkozás-egészségi osztályokból, A, B, C, D az A—D foglalkozás-egészségi osztály létszámhatárainak számértékei.
 
-## Ha F = 100+-20, akkoregy főműszakidőben rendelkezésre álló orvost és egy ápolót kell biztosítani.[^25]
+## Ha F = 100+-20, akkoregy főműszakidőben rendelkezésre álló orvost és egy ápolót kell biztosítani.[^24]
 
 4. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
 
@@ -132,4 +132,4 @@ Ebbe a foglalkozás-egészségi osztályba sorolandók a
 
 tevékenységet végző munkavállalók, továbbá az ,,A'', a ,,B'' és a ,,C'' foglalkozás-egészségi osztályba sorolt tevékenységek nem fizikai munkaköreiben dolgozó, más osztályokba nem sorolt munkavállalói.
 
-[^25]: A 3. számú melléket utolsó mondata a 9/1999. (I. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 3. számú melléket utolsó mondata a 9/1999. (I. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
