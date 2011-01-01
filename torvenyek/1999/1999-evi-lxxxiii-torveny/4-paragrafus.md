@@ -2,4 +2,4 @@
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Jegyzőkönyvhöz kapcsolódó Végrehajtási Szabályzatot rendeletben kihirdesse.
 
-(3) Az Ügyintézési Utasítások magyar fordításának közrebocsátásáról a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(3) Az Ügyintézési Utasítások magyar fordításának közrebocsátásáról a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
