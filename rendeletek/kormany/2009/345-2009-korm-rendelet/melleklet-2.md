@@ -2,17 +2,17 @@
 
 | Adatszolgáltató | Adattípus | Adat megnevezése | Visszamenőleges adatszolgáltatás | A 6. § (4) bekezdésében meghatározottaktól eltérő adatszolgáltatási határidő |
 
-| Földművelésügyi és Vidékfejlesztési Minisztérium | Kataszteri adatok | – A mezőgazdasági termelésből véglegesen kivonásra engedélyezett földek megoszlása felhasználási célok szerint; – A mezőgazdasági termelésből véglegesen kivonásra engedélyezett földek megoszlása művelési ágak szerint | 2006-ig visszamenően |  |
+| agrár-vidékfejlesztésért és erdőgazdálkodásért felelős miniszter által vezetett minisztérium | Kataszteri adatok | – A mezőgazdasági termelésből véglegesen kivonásra engedélyezett földek megoszlása felhasználási célok szerint; – A mezőgazdasági termelésből véglegesen kivonásra engedélyezett földek megoszlása művelési ágak szerint | 2006-ig visszamenően |  |
 
 |  | Műtrágyázás (Agrárgazdasági Kutatató Intézet adatai) | – Műtrágya értékesítés értékesítési irányok szerint (hatóanyag tartalom) | 1994-ig visszamenően a teljes adatsor |  |
 
 |  | Nemzetközi jelentéstétel adatai | Az ENSZ Élelmezési és Mezőgazdasági Szervezete felé jelentett mezőgazdasági és erdészeti adatok | 1985-ig visszamenően a teljes adatsor | Adatszolgáltatás a jelentés benyújtásával egyidejűleg |
 
-| [Mezőgazdasági és Vidékfejlesztési Hivatalnál rendelkezésre álló adatok:] | A mezőgazdaság, a földhasználat, földhasználat-válto- zás és az erdészet szektorok emissziójának és szén elnyelésének számításához szükséges földművelési és állattenyésztési adatok összesített kimutatás formájában a támogatási adatok alapján | Földművelési adatok: – A különböző művelési ágba eső területek nagysága és térbeli elhelyezkedése, illetve ezek változása az egységes területalapú támogatás (SAPS), a CORINE, illetve egyéb (pl. távérzékelési stb.) adatbázisok alapján; – Szőlő és gyümölcsös telepítés és kivágás (területi adatok) Állattenyésztési adatok (a rendelkezésre álló támogatási adatok alapján): – Állattartó telepek állatlétszám adatai (állatfaj szerinti felbontásban); – Állattartó telepek trágyakezelési technológiája; – Állattartó telepek állattartási és takarmányozási technológiája – Az állattartótelepek istállótípusa és állattartási technológiája | 2004-ig visszamenően teljes adatsor | Az állattenyésztési adatok legkorábban 2010. június 30-tól |
+| [Mezőgazdasági és Vidékfejlesztési Hivatalnál rendelkezésre álló adatok:] | A mezőgazdaság, a földhasználat, földhasználat-változás és az erdészet szektorok emissziójának és szén elnyelésének számításához szükséges földművelési és állattenyésztési adatok összesített kimutatás formájában a támogatási adatok alapján | Földművelési adatok: – A különböző művelési ágba eső területek nagysága és térbeli elhelyezkedése, illetve ezek változása az egységes területalapú támogatás (SAPS), a CORINE, illetve egyéb (pl. távérzékelési stb.) adatbázisok alapján; – Szőlő és gyümölcsös telepítés és kivágás (területi adatok) Állattenyésztési adatok (a rendelkezésre álló támogatási adatok alapján): – Állattartó telepek állatlétszám adatai (állatfaj szerinti felbontásban); – Állattartó telepek trágyakezelési technológiája; – Állattartó telepek állattartási és takarmányozási technológiája – Az állattartótelepek istállótípusa és állattartási technológiája | 2004-ig visszamenően teljes adatsor | Az állattenyésztési adatok legkorábban 2010. június 30-tól |
 
 | [Mezőgazdasági Szakigazgatási Hivatalnál rendelkezésre álló, illetve azokból számítható adatok:] | Talajvédelmi Információs és Monitoring rendszer adatai az összes mérőhelyre vonatkozóan | – Talaj szervesanyag tartalma; – Szén-dioxid produkció; – Összes nitrogén tartalom; nitrát-nitrit tartalom | 1992-től a rendelkezésre álló adatsor |  |
 
-| Közlekedési, Hírközlési és Energiaügyi Minisztérium | Energiagazdálkodási statisztikai adatok | Energiamérleg adatok (TJ) a nyilvántartási rendszerhez szükséges bontásban | 1985-ig visszamenően a teljes adatsor | minden év október 15-ig |
+| energiapolitikáért felelős miniszter által vezetett minisztérium | Energiagazdálkodási statisztikai adatok | Energiamérleg adatok (TJ) a nyilvántartási rendszerhez szükséges bontásban | 1985-ig visszamenően a teljes adatsor | minden év október 15-ig |
 
 |  |  | Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (Üht.) hatálya alá tartozó ágazatok energiafelhasználási adatai (2005-től), visszamenőleg korrigált adatok jelzése | 2005-ig visszamenőleg, a teljes adatsor |  |
 
@@ -52,7 +52,7 @@
 
 |  | Földhasználati adatok | – A földterület használata művelési ágak szerint, megyénként (1965-ig visszamenően) | 1965-ig visszamenően a teljes adatsor |  |
 
-| Önkormányzati Minisztérium [Országos Katasztrófavédelmi Főigazgatóságnál rendelkezésre álló adatok:] | Erdőt és a mezőgazdasági művelés alatt álló területeket ért tűzesetek | Az erdőt és a mezőgazdasági művelés alatt álló területeket ért tűzesetek területi adatai, (országos statisztikaként, művelési áganként, ha) | 1998-ig visszamenően a teljes adatsor |  |
+| helyi önkormányzatokért felelős miniszter által vezetett minisztérium [Országos Katasztrófavédelmi Főigazgatóságnál rendelkezésre álló adatok:] | Erdőt és a mezőgazdasági művelés alatt álló területeket ért tűzesetek | Az erdőt és a mezőgazdasági művelés alatt álló területeket ért tűzesetek területi adatai, (országos statisztikaként, művelési áganként, ha) | 1998-ig visszamenően a teljes adatsor |  |
 
 2. melléklet a 345/2009. (XII. 30.) Korm. rendelethez
 
