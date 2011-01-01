@@ -1,10 +1,10 @@
 ## IV. Fejezet
 
-## A MAGYAR SZABADALMI HIVATAL ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
+## A SZELLEMI TULAJDON NEMZETI HIVATALA ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
 
-## A Magyar Szabadalmi Hivatal hatásköre
+## A Szellemi Tulajdon Nemzeti Hivatala hatásköre
 
-26. § A Magyar Szabadalmi Hivatal hatáskörébe tartoznak:
+26. § A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak:
 
 a) a mintaoltalom megadásával,
 

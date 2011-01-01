@@ -1,4 +1,4 @@
-35. § A Magyar Szabadalmi Hivatal a mintaoltalmi bejelentés érdemi vizsgálatát a következő szempontokból végzi:
+35. § A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi bejelentés érdemi vizsgálatát a következő szempontokból végzi:
 
 a) a bejelentés tárgya minta-e;
 
