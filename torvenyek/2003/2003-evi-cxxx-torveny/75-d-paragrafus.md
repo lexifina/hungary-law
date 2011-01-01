@@ -1,0 +1,1 @@
+75/D. § A 75/A. § (4) bekezdés szerinti megállapodás eltérő rendelkezése hiányában az érintett tagállam viseli a magyar intervenciós egység alkalmazásával kapcsolatos valamennyi költséget, beleértve a szállítási és szállásköltségeket.

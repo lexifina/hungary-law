@@ -1,0 +1,1 @@
+75/B. § A magyar intervenciós egység tagja jogosult arra, hogy az érintett tagállam területén támogatói minőségben járjon el, és saját hatáskörében eljárva – az érintett tagállam jogával összhangban – megtegye a kért segítség megadásához szükséges intézkedést, ha tevékenységét az érintett tagállam felelőssége, felügyelete és irányítása mellett végzi.
