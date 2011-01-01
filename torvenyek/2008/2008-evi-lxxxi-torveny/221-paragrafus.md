@@ -1,1 +1,1 @@
-221. § 2009. január 1-jén a VPtv. 2. §-a (1) bekezdésének e) pontjában az „Európai Mezőgazdasági Orientációs és Garanciaalap Garanciarészlegéből (EMOGA)” szövegrész helyébe az „Európai Mezőgazdasági Garanciaalapból (EMGA)” szövegrész lép.
+221. §
