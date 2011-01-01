@@ -26,25 +26,25 @@ g) az adós vagyona terhére kifizetések csak a vagyonfelügyelő ellenjegyzés
 
 h) az adóssal kötött szerződéstől nem lehet elállni, vagy azt nem lehet felmondani arra hivatkozással, hogy az adós a fizetési haladék időtartama alatt tartozását nem egyenlíti ki.
 
-(3) A fizetési haladék nem érinti a csődeljárás kezdő időpontját megelőzően kikötött óvadék, valamint a tőkepiacról szóló 2001. évi CXX. törvény 5. §-a (1) bekezdésének 107. pontjában meghatározott pozíciólezáró nettósításra vonatkozó keretmegállapodás érvényesíthetőségét, ha az egyik fél vagy mindkét fél
+(3) A fizetési haladék nem érinti a csődeljárás kezdő időpontját megelőzően kikötött óvadék, valamint a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 107. pontjában meghatározott pozíciólezáró nettósításra vonatkozó keretmegállapodás érvényesíthetőségét, ha az egyik fél vagy mindkét fél
 
-a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 1. számú mellékletében, illetve az Európai Parlament és Tanács 2002/47/EK irányelvének 1. cikk a) pontját átültető EGT-állam jogszabályai szerint közszektorbeli intézmény, vagy
+a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 1. számú mellékletében, illetve az Európai Parlament és Tanács 2002/47/EK irányelvének 1. cikk (2) bekezdésének a) pontját átültető EGT-állam jogszabályai szerinti közszektorbeli intézmény, vagy
 
 b) a Magyar Nemzeti Bank, más EGT-állam központi bankja, az Európai Központi Bank, a Nemzetközi Fizetések Bankja, a Hpt. 1. számú mellékletében meghatározott nemzetközi pénzügyi intézmény,
 
-c) EGT-államban székhellyel rendelkező hitelintézet, ideértve a hitelintézetek tevékenységének megkezdéséről és folytatásáról szóló 2006. június 14-i 2006/48/EK az európai parlamenti és tanácsi irányelv 2. cikkét átültető EGT-állam jogszabályaiban meghatározott szervezeteket is,
+c) EGT-államban székhellyel rendelkező hitelintézet, ideértve a hitelintézetek tevékenységének megkezdéséről és folytatásáról szóló, az Európai Parlament és Tanács 2006/48/EK irányelvének 2. cikkét átültető EGT-állam jogszabályaiban meghatározott szervezeteket is,
 
-d) EGT-államban székhellyel rendelkező befektetési vállalkozás (az Európai Parlament és Tanács 2004/39/EK irányelvét átültető EGT-állam jogszabályai szerinti befektetési vállalkozás),
+d) EGT-államban székhellyel rendelkező, az Európai Parlament és Tanács 2004/39/EK irányelvét átültető EGT-állam jogszabályai szerinti befektetési vállalkozás,
 
-e) EGT-államban székhellyel rendelkező pénzügyi vállalkozás (az Európai Parlament és Tanács 2006/48/EK irányelvét átültető EGT-állam jogszabályai szerinti pénzügyi vállalkozás),
+e) EGT-államban székhellyel rendelkező, az Európai Parlament és Tanács 2006/48/EK irányelvét átültető EGT-állam jogszabályai szerinti pénzügyi vállalkozás,
 
-f) EGT-államban székhellyel rendelkező biztosító (a Tanács 92/49/EGK irányelvét, és a Tanács 2002/83/EK irányelvét átültető EGT-állam jogszabályai szerinti biztosító),
+f) EGT-államban székhellyel rendelkező, a Tanács 92/49/EGK irányelvét, és a Tanács 2002/83/EK irányelvét átültető EGT-állam jogszabályai szerinti biztosító,
 
 g) EGT-államban székhellyel rendelkező, a Tanács 85/611/EGK irányelvét átültető EGT-állam jogszabályai szerinti átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozás (a továbbiakban: ÁÉKBV),
 
 h) ÁÉKBV-t kezelő vállalkozás, vagy
 
-i) EGT-államban székhellyel rendelkező [az Európai Parlament és Tanács 2002/47/EK irányelvének 1. cikk d) pontját átültető EGT-állam jogszabályai szerinti] központi szerződő fél, elszámolóházi, központi értéktári tevékenység folytatására jogosult szervezet.
+i) EGT-államban székhellyel rendelkező, az Európai Parlament és Tanács 2002/47/EK irányelvének 1. cikk (2) bekezdésének d) pontját átültető EGT-állam jogszabályai szerinti központi szerződő fél, elszámolóházi, központi értéktári tevékenység folytatására jogosult szervezet.
 
 (4) A fizetési haladék nem szünteti meg az adós és a hitelező közötti jogviszonyokból eredő jogokat és kötelezettségeket, de annak időtartama alatt a jogok gyakorlása és a kötelezettségek teljesítése csak az e törvényben meghatározott eltérésekkel lehetséges. A fizetési haladék időtartama alatt az adós pénzfizetési kötelezettsége nemteljesítéséhez vagy késedelmes teljesítéséhez fűződő jogkövetkezmények – az (1) és (3) bekezdésben foglaltak kivételével – nem állnak be.
 

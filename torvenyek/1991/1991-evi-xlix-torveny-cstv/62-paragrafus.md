@@ -7,3 +7,5 @@
 (4) Az állam a vele szemben támasztott követeléseket — azok jellegétől függetlenül — pénzben is kielégítheti.
 
 (5) Azoknak a hitelezőknek az érdekeit, akiknek a követeléséért az állam felelősséggel tartozik, a felszámolónak kell képviselnie.
+
+(6) A járadékjellegű követelések tekintetében az államot az államháztartásért felelős miniszter képviseli.
