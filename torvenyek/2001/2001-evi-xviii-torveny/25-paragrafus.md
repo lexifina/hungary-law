@@ -16,9 +16,9 @@ f) a külpolitikáért felelős miniszter a magyar állampolgárok jogai és ér
 
 g) az ügyészség a törvényességi felügyelet gyakorlása során, valamint a vádemelés előtt a jogsegélykérelem elintézéséhez, továbbá a nemzetközi szerződésekben meghatározott, és a viszonossági gyakorlatból eredő feladatai teljesítéséhez;
 
-h) a Rendvédelmi Szervek Védelmi Szolgálata jogszabályban meghatározott feladatai ellátásához;
+h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv jogszabályban meghatározott feladatai ellátásához;
 
-i) a rendőrség szervei a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott határrendészeti feladatainak ellátásához, továbbá az ezzel kapcsolatos személyazonosság megállapításához;
+i) a rendőrség szervei a rendőrségről szóló törvényben meghatározott határrendészeti feladatainak ellátásához, továbbá az ezzel kapcsolatos személyazonosság megállapításához;
 
 j) a menekültügyi és idegenrendészeti ügyekben eljáró szervek a személyazonosság megállapításához;
 

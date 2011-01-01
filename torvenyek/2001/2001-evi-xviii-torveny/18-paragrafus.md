@@ -28,4 +28,6 @@ e) a körözést elrendelő hatóság megnevezését;
 
 f) a felkutatáshoz szükséges egyéb – jogszabályban meghatározott – adatot; továbbá
 
-g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetőleg a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta.
+g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetőleg a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta;
+
+h) a szabadságvesztés vagy közérdekű munka kiszabásáról rendelkező jogerős bírósági ítélet számát.

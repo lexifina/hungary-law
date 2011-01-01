@@ -1,6 +1,6 @@
 ## Adatszolgáltatás a körözési nyilvántartásból
 
-28. § (1) A Rendőrség az adatszolgáltatást kérelemre, az adatigénylés kézhezvételétől számított tíz munkanapon belül, és a (3) bekezdésben meghatározott kivétellel – külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetése ellenében – teljesíti.
+28. § (1) A Rendőrség az adatszolgáltatást kérelemre, az adatigénylés kézhezvételétől számított tizenöt napon belül, és a (3) bekezdésben meghatározott kivétellel – külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetése ellenében – teljesíti.
 
 (2) Az igazgatási szolgáltatási díj a Rendőrség bevétele.
 

@@ -12,7 +12,7 @@ b) igazoltatást végezhet egy meghatározott helyen megjelenő, illetve tartóz
 
 c) terepkutatást végezhet;
 
-d) a közszolgálati műsorszolgáltatónak minősülő rádióban és televízióban díjmentesen közérdekű közleményt, illetve a sajtóban és az interneten felhívást tehet közzé;
+d) a közszolgálati médiaszolgáltatónak minősülő rádióban és televízióban díjmentesen közérdekű közleményt, illetve a sajtóban és az interneten felhívást tehet közzé;
 
 e) a körözött személy nevét, képmását, az azonosításához szükséges adatait, a valószínű megjelenési, tartózkodási helyét és a nyilvánosságra hozatal okát nyomós közérdekből vagy különös méltánylást érdemlő magánérdekből nyilvánosságra hozhatja, kivéve, ha azt a körözést elrendelő hatóság kifejezetten megtiltotta;
 
@@ -28,7 +28,9 @@ j) a központi személyiadat- és lakcímnyilvántartásban, valamint a határfo
 
 k) a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény rendelkezései szerint a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése céljából adatot továbbíthat, illetve abból a körözési feladatok ellátása céljából a SIRENE Iroda útján adatot igényelhet;
 
-l) a központi közlekedési nyilvántartásból, a személyiadat- és lakcímnyilvántartásból, az útiokmány-nyilvántartásból, az idegenrendészeti nyilvántartásból az elveszett, eltulajdonított, megsemmisült okmányokról a körözési feladatok ellátása céljából adatokat vehet át.
+l) a központi közlekedési nyilvántartásból, a személyiadat- és lakcímnyilvántartásból, az útiokmány-nyilvántartásból, az idegenrendészeti nyilvántartásból az elveszett, eltulajdonított, megsemmisült okmányokról a körözési feladatok ellátása céljából adatokat vehet át;
+
+m) elektronikus hírközlési szolgáltatótól helymeghatározási adatot kérhet.
 
 (2) A polgári bíróság határozata alapján folytatott körözés során az (1) bekezdés ab) alpontjában, valamint d) és e) pontjában meghatározott módon nem végezhető adatgyűjtés.
 

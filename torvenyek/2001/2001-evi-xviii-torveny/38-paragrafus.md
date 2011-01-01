@@ -1,6 +1,6 @@
 ## IV. Fejezet
 
-## ZÁRÓ RENDELKEZÉSEK
+## ZÁRÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
 38. § (1) Ez a törvény a kihirdetését követő hatodik hónap első napján lép hatályba. Rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
