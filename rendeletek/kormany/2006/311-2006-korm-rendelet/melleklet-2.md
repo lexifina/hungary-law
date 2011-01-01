@@ -1,25 +1,49 @@
-## A Magyar Államkincstár központi és területi szervezeteinek, székhelyeinek és illetékességeinek jegyzéke
+## A Magyar Államkincstár központi és területi szerveinek, székhelyeinek és illetékességeinek jegyzéke
 
-| I. | A Magyar Államkincstár központi szervezetének megnevezése | székhelye | illetékességi területe |
+| I. | A Magyar Államkincstár központi szervének megnevezése | székhelye | illetékességi területe |
 
-| 1. | Magyar Államkincstár Központ | Budapest |  |
+| 1. | Magyar Államkincstár Központ | Budapest | – |
 
-| II. | A Magyar Államkincstár területi szervezetének megnevezése | székhelye | illetékességi területe |
+| II. | A Magyar Államkincstár területi szerveinek megnevezése | székhelye | illetékességi területe |
 
-| 1. | Közép-magyarországi Regionális Igazgatóság | Budapest | Budapest, Pest megye |
+| 1. | Baranya Megyei Igazgatóság | Pécs | Baranya megye |
 
-| 2. | Közép-dunántúli Regionális Igazgatóság | Veszprém | Fejér megye, Komárom-Esztergom megye, Veszprém megye |
+| 2. | Bács-Kiskun Megyei Igazgatóság | Kecskemét | Bács-Kiskun megye |
 
-| 3. | Nyugat-dunántúli Regionális Igazgatóság | Győr | Győr-Moson-Sopron megye, Vas megye, Zala megye |
+| 3. | Békés Megyei Igazgatóság | Békéscsaba | Békés megye |
 
-| 4. | Dél- dunántúli Regionális Igazgatóság | Pécs | Baranya megye, Tolna megye, Somogy megye |
+| 4. | Borsod-Abaúj-Zemplén Megyei Igazgatóság | Miskolc | Borsod-Abaúj-Zemplén megye |
 
-| 5. | Észak-magyarországi Regionális Igazgatóság | Salgótarján | Borsod-Abaúj-Zemplén megye, Heves megye, Nógrád megye |
+| 5. | Budapesti és Pest Megyei Igazgatóság | Budapest | Budapest, Pest megye |
 
-| 6. | Észak-alföldi Regionális Igazgatóság | Szolnok | Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye, Szabolcs-Szatmár-Bereg megye |
+| 6. | Csongrád Megyei Igazgatóság | Szeged | Csongrád megye |
 
-| 7. | Dél-alföldi Regionális Igazgatóság | Kecskemét | Bács-Kiskun megye, Békés megye Csongrád megye |
+| 7. | Fejér Megyei Igazgatóság | Székesfehérvár | Fejér megye |
 
-2. számú melléklet a 311/2006. (XII. 23.) Korm. rendelethez[^11]
+| 8. | Győr-Moson-Sopron Megyei Igazgatóság | Győr | Győr-Moson-Sopron megye |
 
-[^11]: A 2. számú melléklet e rendelet 9. §-a alapján 2007. április 1. napján hatályát vesztette.
+| 9. | Hajdú-Bihar Megyei Igazgatóság | Debrecen | Hajdú-Bihar megye |
+
+| 10. | Heves Megyei Igazgatóság | Eger | Heves megye |
+
+| 11. | Jász-Nagykun-Szolnok Megyei Igazgatóság | Szolnok | Jász-Nagykun-Szolnok megye |
+
+| 12. | Komárom-Esztergom Megyei Igazgatóság | Tatabánya | Komárom-Esztergom megye |
+
+| 13. | Nógrád Megyei Igazgatóság | Salgótarján | Nógrád megye |
+
+| 14. | Somogy Megyei Igazgatóság | Kaposvár | Somogy megye |
+
+| 15. | Szabolcs-Szatmár-Bereg Megyei Igazgatóság | Nyíregyháza | Szabolcs-Szatmár-Bereg megye |
+
+| 16. | Tolna Megyei Igazgatóság | Szekszárd | Tolna megye |
+
+| 17. | Vas Megyei Igazgatóság | Szombathely | Vas megye |
+
+| 18. | Veszprém Megyei Igazgatóság | Veszprém | Veszprém megye |
+
+| 19. | Zala Megyei Igazgatóság | Zalaegerszeg | Zala megye |
+
+2. számú melléklet a 311/2006. (XII. 23.) Korm. rendelethez[^18]
+
+[^18]: A 2. számú melléklet e rendelet 9. §-a alapján 2007. április 1. napján hatályát vesztette.
