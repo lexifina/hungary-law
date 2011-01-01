@@ -32,10 +32,11 @@ c) a műhelykártyát a kártyakibocsátó hatóságnál leadják, amennyiben
 
 (7) A letöltött személyes adatokat a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben[^56] foglaltak megtartásával kell kezelni. A további letöltött adatokat üzleti titokként kell kezelni.
 
-(8) A (6) bekezdésben meghatározott adatletöltés-visszatöltés meghiúsulása esetében ennek tényéről a műhely – jegyzőkönyv felvétele és megküldése mellett – 15 munkanapon belül értesíti a kártyakibocsátó hatóságot, valamint a jármű üzemben tartóját.
+(8)[^57] A (6) bekezdésben meghatározott adatletöltés-visszatöltés meghiúsulása esetében ennek tényéről a műhely – jegyzőkönyv felvétele és megküldése mellett – 15 napon belül értesíti a kártyakibocsátó hatóságot, valamint a jármű üzemben tartóját.
 
 [^52]: A 12. § e rendelet – 35/2006. (VI. 15.) GKM rendelet 4. §-ával megállapított – 15. § (2) bekezdése alapján 2006. június 23. napján lépett hatályba.
 [^53]: A 12. § (1) bekezdésének b) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § h) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^54]: A 12. § (3) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § e) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^55]: A 12. § (5) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § i) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^56]: A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény.
+[^57]: A 12. § (8) bekezdése a 28/2010. (XII. 22.) NFM rendelet 2. § (8) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

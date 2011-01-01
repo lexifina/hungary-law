@@ -34,7 +34,7 @@ c) a nyilvántartás szerint a tachográf kártya kiadására nem került sor.
 
 (7) Az ellenőrző szerv tagja a tachográf kártya elvételéről átvételi elismervényt ad, mely tartalmazza az elvétel e rendeletben meghatározott jogalapját.
 
-(8)[^49] A helyszínen elvett tachográf kártyát, valamint az intézkedésről készült jegyzőkönyv egy példányát az ellenőrző szerv három munkanapon belül a kártyakibocsátó hatóságnak, külföldi hatóság által kibocsátott kártya esetében a külön jogszabályban meghatározott közlekedési hatóságnak megküldi.
+(8)[^49] A helyszínen elvett tachográf kártyát, valamint az intézkedésről készült jegyzőkönyv egy példányát az ellenőrző szerv három napon belül a kártyakibocsátó hatóságnak, külföldi hatóság által kibocsátott kártya esetében a külön jogszabályban meghatározott közlekedési hatóságnak megküldi.
 
 (9)[^50] A (4) bekezdés alapján bevont tachográf kártyát a közlekedési hatóság a tachográf kártyát kiadó tagállam illetékes hatóságának – a bevonás okának megjelölésével – megküldi.
 
@@ -46,6 +46,6 @@ c) a nyilvántartás szerint a tachográf kártya kiadására nem került sor.
 [^46]: A 11. § (1) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^47]: A 11. § (2) bekezdés c) pontja a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^48]: A 11. § (4) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § f) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^49]: A 11. § (8) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § g) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: A 11. § (8) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § g) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése, a 28/2010. (XII. 22.) NFM rendelet 2. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^50]: A 11. § (9) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § e) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^51]: A 11. § (11) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
