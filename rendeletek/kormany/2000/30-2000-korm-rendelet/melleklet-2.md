@@ -28,7 +28,7 @@
 
 = a jogutód vállalkozás cégbejegyzéséről szóló igazolást,
 
-= az MgSzH területi szerve igazolását az átalakult cég regisztrációjáról,
+= a Földművelésügyi Igazgatóság igazolását az átalakult cég regisztrációjáról,
 
 = a hitelintézet igazolását az átalakulás elfogadásáról, illetve a hitelállomány továbbviteléről,
 
@@ -38,7 +38,7 @@
 
 a) a pályázó részére az FVM által kiadott ,,igazolás'', a kibontakozási hitelszerződés, a pótlólagos hitelszerződés másolatainak bemutatása (ez utóbbi csak pótlólagos hitel igénybevétele esetén); e pontot csak az első önértékelés során, 2001-ben kell teljesíteni;
 
-b)[^52] az MgSzH illetékes területi szerve igazolása a pályázónak a jelentés készítésének évében történt regisztrációjáról, az éves árbevétel megoszlásáról, amennyiben a pályázót a beszámolás évében elemi kár érte, az erre vonatkozó bejelentés, illetve az MgSzH területi szerve által kiállított igazolás, a kapcsolódó támogatást tartalmazó igazolás;
+b)[^52] a Földművelésügyi Igazgatóság igazolása a pályázónak a jelentés készítésének évében történt regisztrációjáról, az éves árbevétel megoszlásáról, amennyiben a pályázót a beszámolás évében elemi kár érte, az erre vonatkozó bejelentés, illetve a Földművelésügyi Igazgatóság által kiállított igazolás, a kapcsolódó támogatást tartalmazó igazolás;
 
 c) a beszámolási évről szóló éves mérlegbeszámoló, pénztárkönyv kimutatás, illetve a társasági adó, SZJA bevallás vonatkozó igazolólapjai;
 
@@ -73,7 +73,7 @@ Dátum: ..................
 cégszerű aláírás
 
 [^50]: A 2. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
-[^51]: A 2. szám melléklet 1. pontja a 337/2007. (XII. 13.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^52]: A 2. szám melléklet 2. pontjának b) alpontja a 337/2007. (XII. 13.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^51]: A 2. számú melléklet 1. pontja a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^52]: A 2. számú melléklet 2. pontjának b) alpontja a 337/2007. (XII. 13.) Korm. rendelet 8. § f) pontja, a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.
 [^53]: A 2. számú melléklet 2. pontjának d) alpontja a 163/2009. (VIII. 6.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^54]: A 2. számú melléklet 2. pontjának i) alpontját a 163/2009. (VIII. 6.) Korm. rendelet 34. § (3) bekezdése iktatta be.
