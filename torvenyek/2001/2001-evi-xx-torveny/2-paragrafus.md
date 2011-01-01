@@ -8,7 +8,7 @@ a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és 
 
 b) a nemzetgazdasági szempontból kiemelt állami és önkormányzati fejlesztések, beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások, illetve az ezek bővítéséhez szükséges fejlesztési hitel- és tőkefinanszírozásában;
 
-c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások – beruházásainak, kísérleti fejlesztéseinek fejlesztési hitel- és tőkefinanszírozásában, valamint a mezőgazdasági őstermelők és családi gazdálkodók beruházásainak fejlesztési hitelfinanszírozásában;
+c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások –, valamint a mezőgazdasági őstermelők és családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
 
 d) az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
 
@@ -26,12 +26,14 @@ szükséges hitelek refinanszírozásában;
 
 g) a Kormány határozata alapján az elemi kárt szenvedett térségben a gazdálkodó szervezetek, önkormányzatok és természetes személyek részére a kár következményeinek felszámolását szolgáló beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában;
 
-h) a külön jogszabályban meghatározott „Pályamódosító hitelprogram” refinanszírozásában;
+h)
 
 i) a Kormány határozata alapján a Magyar Vállalkozásfejlesztési Alapítvány, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységéhez szükséges hitelek, illetve kölcsönök finanszírozásában;
 
 j) az arra jogosult pártoknak a működési feltételeiket szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtásában;
 
-k) a Kormány határozata alapján – a piaci elégtelenségek mérséklése érdekében – gazdálkodó szervezetek és önkormányzatok részére éven túli lejáratú forgóeszköz hitelek és kölcsönök finanszírozásában, továbbá éven túli lejáratú forgóeszköz hitelekre és kölcsönökre vonatkozó készfizető kezesség vagy bankgarancia vállalásában, amelyeknek elsősorban a piaci elégtelenségek miatt kárt szenvedő, termelő tevékenységet folytató piaci szereplők forráshoz jutását kell biztosítania;
+k) az 1. számú mellékletben meghatározott állami tulajdonú gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő bankgarancia nyújtásában;
 
-l) a Magyar Állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására.
+l) a Magyar Állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására;
+
+m) kormányhatározat alapján egyéb fejlesztési feladatok ellátásában.

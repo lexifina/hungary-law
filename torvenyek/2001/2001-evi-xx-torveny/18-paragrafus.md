@@ -8,9 +8,11 @@
 
 (4) Az MFB Zrt. alkalmazottja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelő bizottsági tag, kivéve, ha
 
-a) az MFB Zrt. közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
+a) az MFB Zrt., vagy a Magyar Állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
 
-b) a gazdasági társaságban az állam tulajdoni részesedéssel rendelkezik.
+b) helyi önkormányzat közvetlen vagy közvetett többségi részesedéssel rendelkezik a gazdasági társaságban,
+
+c) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2), illetőleg (3) bekezdés szerint – kockázatot vállalt.
 
 (5) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja, alkalmazottja köteles haladéktalanul írásban bejelenteni, ha vele szemben az (1)–(4) bekezdésben meghatározott összeférhetetlenségi ok merül fel, illetve, ha munkaviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A bejelentésekről az MFB Zrt. köteles nyilvántartást vezetni.
 

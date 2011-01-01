@@ -50,24 +50,16 @@ h) egyéb, az a)–g) pontokban foglaltakhoz kapcsolódó kiegészítő szolgál
 
 (7) Az (5) bekezdésben meghatározott társasági részesedések elidegenítésére, biztosítékul adására vagy más módon történő megterhelésére, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítására, illetve a gazdálkodó szervezet végelszámolással történő megszüntetésére az erre feljogosított szervezet és az MFB Zrt. közötti egyeztetést követően kerül sor.
 
-(8) Az (5) bekezdésben meghatározott, az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet részére az MFB Zrt. által – a Magyar Állam nevében – hitelt, (tulajdonosi) kölcsönt, tőkeemelést, és támogatást nyújtani, továbbá hitelt, kölcsönt átütemezni csak az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) előzetes jóváhagyásával lehet. Ez a rendelkezés nem vonatkozik arra, ha a hitelt, kölcsönt az MFB Zrt. saját jogán nyújtja, vagy ha az MFB Zrt. ilyen hitel, kölcsön átütemezéséről dönt.
+(8)
 
 (9) Az MFB Zrt. saját vagyonát, illetve annak nyilvántartását el kell különíteni annak a vagyonnak a nyilvántartásától, amely felett e törvény erejénél fogva a Magyar Állam nevében az MFB Zrt. gyakorolja a tulajdonosi jogokat (rábízott vagyon).
 
-(10) Az MFB Zrt. a tulajdonosi joggyakorlása körébe tartozó állami vagyont (rábízott vagyon) az adott vagyontárgy sajátosságainak megfelelő, az azonosítást lehetővé tevő módon naturáliában (mennyiségben) és értékben, a keletkezés (aktiválás) időpontját is feltüntetve tartja nyilván.
+(10) Az MFB Zrt. a rábízott vagyon körébe tartozó állami vagyont az adott vagyontárgy sajátosságainak megfelelő, az azonosítást lehetővé tevő módon naturáliában (mennyiségben) és értékben, a keletkezés (aktiválás) időpontját is feltüntetve tartja nyilván. Ezen elkülönített nyilvántartás tételesen tartalmazza a társasági részesedések könyv szerinti bruttó és nettó értékét, az elszámolt értékvesztés összegét, és az azokban bekövetkezett változásokat is.
 
 (11) Az értéken történő nyilvántartástól csak abban az esetben lehet eltekinteni, ha az adott vagyontárgy értéke természeténél, jellegénél fogva nem állapítható meg.
 
-(12) Az (5) bekezdésben meghatározott állami vagyonnal való gazdálkodásból származó bevételek – törvény eltérő rendelkezése hiányában – a központi költségvetés bevételét vagy finanszírozási bevételét képezik.
+(12) Az MFB Zrt.-nek a 3. § (5) bekezdése alapján a Magyar Állam nevében végzett tulajdonosi joggyakorlásból eredő szervezeti működési költségeit a központi költségvetés biztosítja.
 
-(13) Az (5) bekezdés szerinti állami vagyonnal való gazdálkodásból eredő kiadások a központi költségvetés kiadását vagy finanszírozási kiadását képezik.
+(13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
-(14) Az MFB Zrt.
-
-a) közreműködik a rábízott vagyonnal – a (6) bekezdésben foglaltak kivételével – kapcsolatos bevételek és kiadások tervezésében,
-
-b) a Magyar Állam nevében és képviseletében – a (6) bekezdésben foglaltak kivételével – gondoskodik a rábízott vagyonnal kapcsolatos bevételek beszedéséről, és a rábízott vagyonnal kapcsolatos kiadások teljesítéséről az államháztartási gazdálkodásra vonatkozó előírások szerint,
-
-c) a zárszámadás elkészítéséhez beszámol – a (6) bekezdésben foglaltak kivételével – a rábízott állami vagyonnal kapcsolatos bevételek kiadások teljesüléséről.
-
-(15) A (14) bekezdésben foglaltakat mind a költségvetési, mind a finanszírozási bevételekre és kiadásokra alkalmazni kell.
+(14)–(15)

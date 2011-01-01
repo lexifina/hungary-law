@@ -6,7 +6,7 @@
 
 5. § (1) Az Állam a központi költségvetés terhére készfizető kezesként felel az MFB Zrt. által
 
-a) forrásszerzés céljából felvett, éven túli lejáratú hitelekből és kölcsönökből, valamint kötvénykibocsátásokból eredő fizetési kötelezettségek teljesítéséért;
+a) forrásszerzés céljából felvett hitelekből és kölcsönökből, valamint kötvénykibocsátásokból eredő fizetési kötelezettségek teljesítéséért;
 
 b) a Kormány határozata alapján nyújtott hitelfinanszírozásból, valamint harmadik fél javára vállalt készfizető kezességből és bankgaranciából származó kötelezettségek teljesítéséért.
 
