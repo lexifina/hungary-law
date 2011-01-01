@@ -1,6 +1,6 @@
-## A közhasznú egyszerűsített beszámoló közhasznú eredménylevezetésének előírt tagolása
+## A közhasznú egyszerűsített beszámoló eredménylevezetésének előírt tagolása
 
-## az egyszeres könyvvitelt vezető közhasznú egyéb szervezetnél
+## az egyszeres könyvvitelt vezető közhasznú egyéb szervezetnél[^65]
 
 ## A. Összes közhasznú tevékenység bevétele (I+II)
 
@@ -98,8 +98,9 @@
 
 ## D. Pénzügyileg rendezett egyéb ráfordítások
 
-## E.[^61] A szervezet által nyújtott támogatások (pénzügyileg rendezett)
+## E.[^66] A szervezet által nyújtott támogatások (pénzügyileg rendezett)
 
 4. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez
 
-[^61]: A 3. számú mellékletének Tájékoztató adatok táblázata E. sora a 237/2003. (XII. 17.) Korm. rendelet 14. §-ának (2) bekezdése szerint módosított szöveg.
+[^65]: A 3. számú melléklet címe a 345/2010. (XII. 28.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^66]: A 3. számú mellékletének Tájékoztató adatok táblázata E. sora a 237/2003. (XII. 17.) Korm. rendelet 14. §-ának (2) bekezdése szerint módosított szöveg.

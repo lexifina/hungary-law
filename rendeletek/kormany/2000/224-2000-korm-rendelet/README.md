@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-224-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-29 | 2000-224-20-22.11 | 224/2000. (XII. 19.) Korm. rendelet |
+| 2011-01-01 | 2000-224-20-22.12 | 345/2010. (XII. 28.) Korm. rendelet |

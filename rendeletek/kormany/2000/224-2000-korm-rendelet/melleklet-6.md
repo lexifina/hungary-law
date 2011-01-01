@@ -122,7 +122,7 @@ Rendkívüli ráfordítások
 
 F. Összes ráfordítás (D+E)
 
-G. Adózás előtti vállalkozási eredmény (B–E)[^62]
+G. Adózás előtti vállalkozási eredmény (B–E)[^67]
 
 H. Adófizetési kötelezettség
 
@@ -144,7 +144,7 @@ ebből: – megbízási díjak
 
 3. Bérjárulékok
 
-B.[^63] A szervezet által nyújtott támogatások
+B.[^68] A szervezet által nyújtott támogatások
 
-[^62]: Közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú társaság esetén (C–F).
-[^63]: A 6. számú mellékletének Tájékoztató adatok táblázata B. sora a 237/2003. (XII. 17.) Korm. rendelet 14. §-ának (2) bekezdése szerint módosított szöveg.
+[^67]: Közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú társaság esetén (C–F).
+[^68]: A 6. számú mellékletének Tájékoztató adatok táblázata B. sora a 237/2003. (XII. 17.) Korm. rendelet 14. §-ának (2) bekezdése szerint módosított szöveg.
