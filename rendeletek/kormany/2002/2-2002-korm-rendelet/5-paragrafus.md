@@ -6,8 +6,8 @@
 
 (4) A vizsga témaköreit a 2. számú melléklet tartalmazza.
 
-(5)[^10] A szakképesítést igazoló bizonyítványt az NKH Központi Hivatala adja ki. A bizonyítvány mintáját és az abban feltüntetendő adatokat a 3. számú melléklet tartalmazza.
+(5)[^10] A szakképesítést igazoló bizonyítvány mintáját és az abban feltüntetendő adatokat a 3. számú melléklet tartalmazza.
 
 (6) A bizonyítvány öt évig érvényes. A bizonyítvány érvényessége öt évvel meghosszabbítható, ha tulajdonosa az érvényesség lejárta előtt ismeretfelújító képzésben vesz részt és sikeres vizsgát tesz.
 
-[^10]: Az 5. § (5) bekezdése a 264/2006. (XII. 20.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 96. §-ával megállapított szöveg. [E módosító rendelet 95. §-ával elrendelt módosítás, amely szerint „a Közlekedési Főfelügyelet” szövegrész helyébe az „az NKH Központja” szöveg lép, nem vezethető át.]
