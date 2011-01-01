@@ -16,7 +16,7 @@ d) a munkáltató kötelezettségvállalását arra vonatkozóan, hogy a foglalk
 
 e) a megállapodás betartása ellenőrzésének módját, megszegésének az Fbtv. 3. § (2) bekezdése szerinti jogkövetkezményeit.
 
-(2)[^5] A megállapodás megkötése előtt a munkaügyi központ
+(2)[^6] A megállapodás megkötése előtt a munkaügyi központ
 
 a) ellenőrzi, hogy
 
@@ -30,4 +30,4 @@ b) intézkedik – a közigazgatási hatósági eljárás és szolgáltatás ál
 
 (3) Az Fbtv. 2. § (1) bekezdésében említett, a munkáltató működésére vonatkozó legalább 6 hónapos feltétel fennállását a kedvezménnyel érintett munkaviszony létrejöttének időpontjától visszafelé számítva kell megállapítani.
 
-[^5]: A 2. § (2) bekezdése a 34/2008. (XII. 31.) PM–SZMM együttes rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § (2) bekezdése a 34/2008. (XII. 31.) PM–SZMM együttes rendelet 2. §-ával megállapított szöveg.
