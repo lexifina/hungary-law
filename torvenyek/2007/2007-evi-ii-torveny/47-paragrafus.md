@@ -2,7 +2,7 @@
 
 (2) Az idegenrendészeti hatóság a beutazási és tartózkodási tilalmat önálló határozattal rendeli el, ha a harmadik országbeli állampolgár kitoloncolását a 65. § (1) bekezdés d) pontja alapján rendelte el.
 
-(3) A beutazási és tartózkodási tilalmat elrendelő önálló határozat ellen a harmadik országbeli állampolgár fellebbezést terjeszthet elő. A határozat ellen további jogorvoslatnak nincs helye. A fellebbezés a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. Az idegenrendészeti hatóság a fellebbezést az ügy irataival együtt haladéktalanul megküldi a fellebbezés elbírálására jogosult hatóságnak, mely a fellebbezést öt munkanapon belül bírálja el.
+(3) A beutazási és tartózkodási tilalmat elrendelő önálló határozat ellen a harmadik országbeli állampolgár fellebbezést terjeszthet elő. A határozat ellen további jogorvoslatnak nincs helye. A fellebbezés a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. Az idegenrendészeti hatóság a fellebbezést az ügy irataival együtt haladéktalanul megküldi a fellebbezés elbírálására jogosult hatóságnak, mely a fellebbezést nyolc napon belül bírálja el.
 
 (4) Az idegenrendészeti hatóság a 43. § (2) bekezdésében meghatározott kiutasítási okok alapján elrendelt kiutasítás esetén beutazási és tartózkodási tilalmat rendelhet el a jogsértés jellegére és súlyára, a harmadik országbeli állampolgár személyes körülményeire, ismételt beutazásának és tartózkodásának a közrendre, a közbiztonságra vagy a nemzetbiztonságra jelentett veszélyére figyelemmel.
 
