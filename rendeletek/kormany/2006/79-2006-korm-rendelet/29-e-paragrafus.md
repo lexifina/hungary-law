@@ -1,4 +1,4 @@
-29/E. §[^80] (1) A Hivatal által nyilvántartott adatokban bekövetkezett változás átvezetését, a működési engedély módosítását – ideértve a felsőoktatási törvény 36. §-a szerinti átalakulást is – kérelmezni kell. Több fenntartó esetén a kérelmet az együttműködési megállapodásban rögzítettek szerint kell benyújtani. A fenntartók közötti együttműködési megállapodás rendelkezésének hiányában a kérelmet együttesen kell benyújtani.
+29/E. §[^81] (1) A Hivatal által nyilvántartott adatokban bekövetkezett változás átvezetését, a működési engedély módosítását – ideértve a felsőoktatási törvény 36. §-a szerinti átalakulást is – kérelmezni kell. Több fenntartó esetén a kérelmet az együttműködési megállapodásban rögzítettek szerint kell benyújtani. A fenntartók közötti együttműködési megállapodás rendelkezésének hiányában a kérelmet együttesen kell benyújtani.
 
 (2) A felsőoktatási intézmény rektora kérelmezi alap-, illetve mesterképzési szak indításának, kar, illetve doktori iskola létesítésének nyilvántartásba vételét.
 
@@ -46,4 +46,4 @@ c) azt, hogy a közös képzésben részt vevő felsőoktatási intézmények a 
 
 d) azt, hogy a társintézményekben folytatott képzés a b) pont szerinti felsőoktatási intézmény szempontjából a felsőoktatási törvény szerinti részképzés, melyet a kérelmező intézmény automatikusan engedélyezettnek tekint és kötelezettséget vállal a társintézményekben a közös képzés keretében teljesített követelmények elismerésére.
 
-[^80]: A 29/E. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^81]: A 29/E. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

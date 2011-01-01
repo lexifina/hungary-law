@@ -92,6 +92,6 @@
 
 | művészetközvetítés | 5% | 2% |
 
-5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^106]
+5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^107]
 
-[^106]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.
+[^107]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.

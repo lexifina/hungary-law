@@ -10,7 +10,7 @@
 
 (4) A részidős képzésben egy adott szakhoz rendelt teljesítendő kreditek száma megegyezik a teljes idejű képzéshez rendelt kreditek számával.
 
-(5)[^63] Az intézmény az általa ajánlott tantervben – a szakirányú továbbképzések kivételével – az egyes félévek kreditértéke – figyelembe véve az intézmény által meghatározott képzési időszakot – legfeljebb három kredittel térhet el felfelé vagy lefelé a harminc kredittől. Szakirányú továbbképzés esetében az intézmény az általa ajánlott tantervben a szakdolgozat tíznél nem nagyobb kreditértékének levonása után az egyes félévekre jutó átlagos kreditértéktől legfeljebb tíz százalékkal térhet el.
+(5)[^64] Az intézmény az általa ajánlott tantervben – a szakirányú továbbképzések kivételével – az egyes félévek kreditértéke – figyelembe véve az intézmény által meghatározott képzési időszakot – legfeljebb három kredittel térhet el felfelé vagy lefelé a harminc kredittől. Szakirányú továbbképzés esetében az intézmény az általa ajánlott tantervben a szakdolgozat tíznél nem nagyobb kreditértékének levonása után az egyes félévekre jutó átlagos kreditértéktől legfeljebb tíz százalékkal térhet el.
 
 (6) Kredit csak olyan tantárgyhoz rendelhető, amelynek minősítése ötfokozatú vagy háromfokozatú skálán érdemjeggyel történik. Tantárgyhoz csak egész értékű kredit rendelhető.
 
@@ -22,4 +22,4 @@
 
 (10) A felsőoktatási törvény 58. §-ának (7) bekezdése alapján elismert tanulmányi teljesítmény kreditértéke megegyezik annak a tantervi követelménynek a kreditértékével, amelyet teljesítettnek minősítenek, a megszerzett érdemjegy azonban a tantárgyak elismerésekor nem módosítható.
 
-[^63]: A 23. § (5) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^64]: A 23. § (5) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.

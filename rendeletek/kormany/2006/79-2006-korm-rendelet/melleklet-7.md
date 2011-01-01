@@ -196,6 +196,6 @@
 
 | minden más felsőfokú szakképzés | az Oktatási Hivatal döntése szerint |
 
-7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^109]
+7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^110]
 
-[^109]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^110]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.

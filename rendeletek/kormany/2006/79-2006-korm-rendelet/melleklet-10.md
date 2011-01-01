@@ -18,7 +18,7 @@
 
 ## A 2. b) pont szerinti sorszám nem adható ki, ha a 11-gyel való osztás maradéka egyenlő tízzel.
 
-10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^113]
+10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^114]
 
 A kötelezően használt okiratok formaszövegei
 
@@ -762,4 +762,4 @@ Dátum, aláírás
 
 1 A megfelelő X jellel megjelölendő.
 
-[^113]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^114]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a szerint módosított szöveg.
