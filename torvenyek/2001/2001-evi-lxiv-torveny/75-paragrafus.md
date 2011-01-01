@@ -12,8 +12,8 @@ b) az előzetes nyilatkozat, előzetes szakhatósági állásfoglalás, valamint
 
 c)
 
-d) a 30. § (5) bekezdésében meghatározott esetben a bejelentéstől számított harmincöt munkanap;
+d) a 30. § (5) bekezdésében meghatározott esetben a bejelentést követő naptól számított negyvenöt nap;
 
 e)
 
-f) a hiánypótlási felhívás és a hatósági bizonyítvány kiadása esetén tíz munkanap.
+f) a hiánypótlási felhívás és a hatósági bizonyítvány kiadása esetén tizenöt nap.

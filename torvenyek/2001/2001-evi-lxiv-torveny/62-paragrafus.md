@@ -4,7 +4,7 @@
 
 62. § A hatóság feladata a kulturális örökség elemei megőrzésének, fenntartható használatának elősegítése és támogatása. Ennek érdekében ellátja:
 
-a) országos illetékességgel az e törvényben, valamint a külön jogszabályokban meghatározott hatósági feladatokat;
+a) a jogszabályban meghatározott hatósági feladatokat;
 
 b) az örökségvédelmi felügyeleti feladatokat;
 

@@ -4,7 +4,7 @@
 
 a) szabályozza az örökségvédelmi bírsággal kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
 
-b) rendeletben jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat;
+b) jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat, és állapítsa meg az azok eljárására vonatkozó általános szabályokat;
 
 c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
 
