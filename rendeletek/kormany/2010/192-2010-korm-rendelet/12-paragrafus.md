@@ -2,7 +2,7 @@
 
 ## A Kormány központi üdülőjének használata
 
-12. § (1) Az állami vezető, a kabinetfőnök, a kormánybiztos, a miniszteri biztos, a Kormány általános hatáskörű államigazgatási szervének vezetője és a Ksztv. 33. § (3) bekezdésében meghatározott személy jogosult a Kormány központi üdülőjének (a továbbiakban: üdülő) használatára.
+12. § (1)[^6] Az állami vezető, a kabinetfőnök, a kormánybiztos, a miniszteri biztos, a kormánymegbízott és a Ksztv. 33. § (3) bekezdésében meghatározott személy jogosult a Kormány központi üdülőjének (a továbbiakban: üdülő) használatára.
 
 (2) A közigazgatási és igazságügyi miniszter az (1) bekezdésben fel nem sorolt személy számára is engedélyezheti az üdülő használatát.
 
@@ -11,3 +11,5 @@
 (4) Az igényjogosult a saját és hozzátartozója üdülésével összefüggésben térítési díjat fizet.
 
 (5) A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
+
+[^6]: A 12. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 286. § e) pontja szerint módosított szöveg.
