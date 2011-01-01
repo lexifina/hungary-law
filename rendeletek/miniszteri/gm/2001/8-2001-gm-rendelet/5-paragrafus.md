@@ -1,4 +1,4 @@
-## 5. §[^4] A Hivatal az eljárásai során jogosult:
+## 5. §[^4] A Hatóság az eljárásai során jogosult:
 
 a) a feltárt műszaki-biztonsági hiányosságok megszüntetését, illetve a hiba kijavítását megfelelő határidő meghatározása mellett elrendelni,
 
@@ -12,4 +12,4 @@ e) baleset esetén annak műszaki okait kivizsgálni és a hasonló balesetek me
 
 f) a villamosműhöz csatlakozó berendezések életveszélyt okozó hibái esetén azoknak a villamosműről való lekapcsolását elrendelni.
 
-[^4]: Az 5. § felvezető szövege a 127/2005. (XII. 29.) GKM rendelet 13. § (2) bekezdése, a 87/2006. (XII. 26.) GKM rendelet 24. §-ának a) pontja szerint módosított szöveg.
+[^4]: Az 5. § nyitó szövegrésze a 27/2010. (XII. 31.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
