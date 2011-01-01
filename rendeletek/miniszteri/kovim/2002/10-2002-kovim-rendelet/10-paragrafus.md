@@ -1,6 +1,6 @@
 ## Kérelem
 
-10. §[^17] (1) A 3. § (1) bekezdésében meghatározott kérelmet – a gazdasági célú légiközlekedési tevékenység tervezett megkezdése előtt legalább 45 munkanappal – írásban kell a légiközlekedési hatósághoz benyújtani.
+10. §[^17] (1)[^18] A 3. § (1) bekezdésében meghatározott kérelmet – a gazdasági célú légiközlekedési tevékenység tervezett megkezdése előtt legalább 2 hónappal – írásban kell a légiközlekedési hatósághoz benyújtani.
 
 (2) A tevékenységi engedély iránti kérelemnek a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl tartalmaznia kell az alábbiakat:
 
@@ -25,3 +25,4 @@ e) a (2) bekezdés c) pontjában foglaltak tekintetében az érintett személyek
 (4) Ha a kérelmező a kérelemhez az adó-, vám- és járulékfizetési kötelezettség tekintetében a 3 hónapnál nem régebbi hatósági igazolásokat, a vállalkozói igazolványát vagy a cégkivonatát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a nyilvántartást vezető szervet.
 
 [^17]: A 10. § a 14/2010. (III. 4.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^18]: A 10. § (1) bekezdése a 28/2010. (XII. 22.) NFM rendelet 2. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

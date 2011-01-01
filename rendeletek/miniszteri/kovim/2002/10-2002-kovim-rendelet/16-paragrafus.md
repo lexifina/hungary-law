@@ -6,6 +6,6 @@
 
 (2) E rendelet 6. §-ának (2) bekezdése, 7. §-ának (3) bekezdése, 8. §-ának (2) bekezdése és a rendelet mellékletei 2004. január 1-jén lépnek hatályba.
 
-(3)[^28]
+(3)[^29]
 
-[^28]: A 16. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 8. pontja hatályon kívül helyezte.
+[^29]: A 16. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 8. pontja hatályon kívül helyezte.
