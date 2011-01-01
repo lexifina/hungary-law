@@ -24,8 +24,8 @@ b) jogszabály, hatósági intézkedés vagy szerződés alapján a Honvédség 
 
 c) a Honvédséget illető vagyoni értékű jogok és követelések,
 
-d)[^1] a gazdálkodó szervezeteknek [Ptk. 685. § c) pont], illetve társadalmi szervezeteknek átadott azon vagyontárgyak és pénzeszközök, amelyeket e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek;
+d)[^1] a vállalkozásoknak [Ptk. 685. § c) pont], illetve társadalmi szervezeteknek átadott azon vagyontárgyak és pénzeszközök, amelyeket e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek;
 
 3. külföldi szolgálat: a Hjt. 2. § (32) bekezdésben meghatározott katonai szolgálat.
 
-[^1]: A 2. § 2. pont d) alpontjának „gazdálkodó szervezeteknek [Ptk. 685. § c) pont]” szövegrésze helyébe a „Polgári Törvénykönyv szerinti vállalkozásoknak” szöveg lép a 9/2010. (V. 4.) HM rendelet 4. §-a alapján. [E módosító rendelet 14. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^1]: A 2. § 2. pont d) alpontja a 9/2010. (V. 4.) HM rendelet 4. §-a szerint módosított szöveg.
