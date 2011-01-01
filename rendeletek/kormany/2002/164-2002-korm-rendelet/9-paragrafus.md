@@ -4,9 +4,9 @@
 
 (2) A kérelmek tárcák közötti elosztásáról a Titkárság gondoskodik.
 
-(3)[^22] A honvédelemért felelős miniszter a gazdálkodó szervezet szakmai és gazdasági alkalmasságáról 65 munkanapos ügyintézési határidőn belül dönt.
+(3)[^22] A honvédelemért felelős miniszter a gazdálkodó szervezet szakmai és gazdasági alkalmasságáról három hónapos ügyintézési határidőn belül dönt.
 
 [^19]: A 8. § a 117/2007. (V. 31.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^20]: A 9. § a 117/2007. (V. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^21]: A 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (4) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (34) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
