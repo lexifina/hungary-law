@@ -8,8 +8,9 @@
 
 (5)[^65] A szállítási engedély a kiállítását követő három hónapig hatályos.
 
-(6) A szállítás, illetve a részszállítások lebonyolításáról az engedéllyel rendelkező három munkanapon belül köteles értesíteni az engedélyt kiállító hatóságot.
+(6)[^66] A szállítás, illetve a részszállítások lebonyolításáról az engedéllyel rendelkező öt napon belül köteles értesíteni az engedélyt kiállító hatóságot.
 
 [^63]: A 23/B. §-t a 235/2007. (IX. 4.) Korm. rendelet 6. §-a iktatta be.
 [^64]: A 23/B. § (4) bekezdése a 144/2009. (VII. 10.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^65]: A 23/B. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^66]: A 23/B. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (35) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

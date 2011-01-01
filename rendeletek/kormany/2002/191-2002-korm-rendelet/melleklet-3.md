@@ -242,6 +242,6 @@
 
 ## 3.2.6. a vizsgálati jegyzőkönyveket.
 
-3. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^74]
+3. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^75]
 
-[^74]: A 3. számú mellékletet a 163/2010. (V. 11.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
+[^75]: A 3. számú mellékletet a 163/2010. (V. 11.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.

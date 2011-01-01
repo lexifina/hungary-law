@@ -78,6 +78,6 @@
 
 ## c) A préselt vagy öntött szilárd rakétahajtó anyagok nem tartalmazhatnak semmiféle, a működést veszélyesen befolyásoló repedést vagy gázbuborékot.
 
-2. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^73]
+2. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^74]
 
-[^73]: A 2. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^74]: A 2. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
