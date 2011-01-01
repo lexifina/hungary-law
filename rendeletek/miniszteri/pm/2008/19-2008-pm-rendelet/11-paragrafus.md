@@ -1,1 +1,0 @@
-## 10. § Az e rendeletben és az Áfa tv.-ben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvényt (a továbbiakban: Art.) kell irányadónak tekinteni azzal, hogy az adó visszatérítésére a költségvetési támogatás kiutalására vonatkozó rendelkezéseit kell megfelelően alkalmazni.

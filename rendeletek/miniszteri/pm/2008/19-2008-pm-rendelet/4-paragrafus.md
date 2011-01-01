@@ -1,3 +1,0 @@
-4. § (1) Az adó-visszatéríttetési kérelem benyújtását követően az állami adóhatóság az adóigazgatási eljárás keretében a tényállás tisztázása céljából további kiegészítő adatokat, egyéb információkat kérhet írásban a közhasznú tevékenységet folytató személytől, szervezettől.
-
-(2) A közhasznú tevékenységet folytató személy, szervezet számára a válaszadásra nyitva álló határidő 60 nap, amely az (1) bekezdésben említett írásos megkeresés kézhezvételétől számítandó. Ez a határidő nem hosszabbítható meg, eredménytelen elteltének esetében az állami adóhatóság a rendelkezésére álló adatok, egyéb információk alapján dönt.
