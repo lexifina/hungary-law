@@ -2,7 +2,7 @@
 
 ## A fegyvertartáshoz szükséges elméleti és jártassági követelmények
 
-10. § (1)[^18] A lőfegyver tartásához előírt vizsgát a megyei (fővárosi) rendőr-főkapitányságon kell letenni.
+10. § (1)[^19] A lőfegyver tartásához előírt vizsgát a megyei (fővárosi) rendőr-főkapitányságon kell letenni.
 
 (2) A vizsgára írásban kell jelentkezni, a jelentkező köteles megjelölni, hogy milyen jellegű lőfegyverre, illetve lőfegyverekre kíván vizsgát tenni. A vizsgára jelentkezésnek nem feltétele a lőfegyver megszerzésére és tartására irányuló kérelem benyújtása.
 
@@ -14,4 +14,4 @@
 
 (6) A vizsgákról hitelesített nyilvántartókönyvet kell vezetni, melyben fel kell tüntetni a vizsgázó természetes személyazonosító adatait, a vizsga időpontját, típusát (huzagolatlan vagy huzagolt csövű hosszú lőfegyver vagy rövid lőfegyver), eredményét, a vizsgabizonyítvány sorszámát, valamint a vizsgázónak a vizsgabizonyítvány átvételét igazoló, és a vizsgabizottság elnökének aláírását.
 
-[^18]: A 10. § (1) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 6. pontja szerint módosított szöveg.
+[^19]: A 10. § (1) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 6. pontja szerint módosított szöveg.
