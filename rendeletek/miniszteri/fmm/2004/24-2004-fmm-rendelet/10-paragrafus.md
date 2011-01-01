@@ -18,7 +18,7 @@ b) a kérelmezőnek a köztartozásmentes adózói adatbázisban való szereplé
 
 a) az intézmény az Fktv., illetve a kormányrendelet szabályainak megsértésével folytatja tevékenységét,
 
-b) a munkaügyi központ az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
+b)[^23] a fővárosi és megyei kormányhivatal munkaügyi központja az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
 
 c) az e rendeletben előírt akkreditációs követelmények nem teljesülnek,
 
@@ -33,3 +33,4 @@ g) az Oktatási Hivatal ezt a felsőoktatási intézménynek a felsőoktatási n
 h) az intézményt a felnőttképzést folytató intézmények nyilvántartásából törölték.
 
 [^22]: A 10. § a 4/2010. (II. 26.) SZMM rendelet 6. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^23]: A 10. § (3) bekezdés b) pontja a 27/2010. (XII. 31.) NGM rendelet 41. §-a szerint módosított szöveg.

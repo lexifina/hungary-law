@@ -30,6 +30,6 @@
 
 | ................................................ cégszerű aláírás |
 
-5. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^102]
+5. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^105]
 
-[^102]: Az 5. számú mellékletet a 100/2010. (IV. 2.) Korm. rendelet 5. § b) pont ba) alpontja hatályon kívül helyezte.
+[^105]: Az 5. számú mellékletet a 100/2010. (IV. 2.) Korm. rendelet 5. § b) pont ba) alpontja hatályon kívül helyezte.

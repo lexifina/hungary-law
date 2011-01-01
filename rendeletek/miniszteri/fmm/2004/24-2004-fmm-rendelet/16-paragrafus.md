@@ -1,4 +1,4 @@
-16. §[^39] (1) Nem adható programakkreditáció, ha
+16. §[^40] (1) Nem adható programakkreditáció, ha
 
 a) a kérelmező intézmény a felnőttképzési tevékenység folytatását megtiltó intézkedés hatálya alatt áll,
 
@@ -16,7 +16,7 @@ a) azt az intézmény saját maga kéri,
 
 b) a képzési program megvalósítása nem az e rendelet szerinti követelményeknek megfelelően történik,
 
-c) a munkaügyi központ az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
+c)[^41] a fővárosi és megyei kormányhivatal munkaügyi központja az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
 
 d) az intézmény képzési tevékenységét az Fktv., illetve a kormányrendelet szabályainak megsértésével folytatja,
 
@@ -30,4 +30,5 @@ h) az Oktatási Hivatal ezt a felsőoktatási intézménynek a felsőoktatási n
 
 i) az Fktv. 19. § (3) bekezdése alapján a programakkreditációs tanúsítvány kiadásának feltételei már nem állnak fenn.
 
-[^39]: A 16. § a 4/2010. (II. 26.) SZMM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^40]: A 16. § a 4/2010. (II. 26.) SZMM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^41]: A 16. § (3) bekezdés c) pontja a 27/2010. (XII. 31.) NGM rendelet 41. §-a szerint módosított szöveg.
