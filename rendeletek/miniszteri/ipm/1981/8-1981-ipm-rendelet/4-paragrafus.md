@@ -1,4 +1,4 @@
-## 3. §[^2] A KLÉSZ előírásai megtartásának hatósági ellenőrzése – külön jogszabály értelmében – a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) hatáskörébe tartozik.
+## 3. §[^2] A KLÉSZ előírásai megtartásának hatósági ellenőrzése – külön jogszabály értelmében – a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága (a továbbiakban: hatóság) hatáskörébe tartozik.
 
 4. § (1) Ez a rendelet a kihirdetése napján lép hatályba; egyidejűleg az 1/1964. (IX. 9.) NIM rendelet, valamint az azt módosító 7/1978. (X. 25.) NIM rendelet és az azzal kiadott „Érintésvédelmi Rendszabály” hatályát veszti.
 
@@ -398,7 +398,7 @@ kivizsgálni, illetve kivizsgáltatni és hiba esetén annak kijavítása érdek
 
 25. § (1) A feltárt hiányosságok kiküszöbölését az MSZ 172/1 szerinti „szerelői ellenőrzéssel”, illetve „szabványossági felülvizsgálattal” kell igazolni. Az erre vonatkozó bizonylatokra is a 23. § (6) bekezdésének az előírásait kell alkalmazni.
 
-(2)[^8] Amennyiben az épület érintésvédelmi rendszerén feltárt hibák kijavítására előírt határidők műszaki-gazdasági okok miatt nem teljesíthetők, az ingatlankezelő kellő indokolással határidő módosítást kérhet a Hivataltól.
+(2)[^8] Amennyiben az épület érintésvédelmi rendszerén feltárt hibák kijavítására előírt határidők műszaki-gazdasági okok miatt nem teljesíthetők, az ingatlankezelő kellő indokolással határidő módosítást kérhet a hatóságtól.
 
 A fogyasztó feladatai
 
@@ -512,10 +512,10 @@ A karbantartó vállalat feladatai
 
 (5) Amennyiben a villamos készülék, fogyasztóberendezés a javítás - esetleg a vizsgálatot követő ismételt javítás - után sem lenne érintésvédelem szempontjából megfelelő, a karbantartó vállalat köteles erre a veszélyhelyzetre írásban felhívni a megrendelő figyelmét, a készülékre „Javíthatatlan, bekapcsolása életveszélyes” feliratot ragasztani.
 
-[^2]: A 3. § a 127/2005. (XII. 29.) GKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § a 127/2005. (XII. 29.) GKM rendelet 2. § (1) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 1. § a) pontja szerint módosított szöveg.
 [^3]: Lásd az 1994: XLVIII. törvényt.
 [^4]: ME-04 115 Az egyenlő potenciálra hozás hálózatának a kialakítása.
 [^5]: MSZ-09 0163 Szerelési előírások a szabálytalan áramelvezetés megakadályozására.
 [^6]: ME-04 115 Az egyenlő potenciálra hozás hálozatának kialakítása.
 [^7]: MSZ 172/1. Érintésvédelmi Szabályzat 1000 V-nál nem nagyobb feszültségű erősáramú villamos berendezések számára.
-[^8]: A melléklet 25. § (2) bekezdése a 127/2005. (XII. 29.) GKM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A melléklet 25. § (2) bekezdése a 127/2005. (XII. 29.) GKM rendelet 2. § (2) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 1. § b) pontja szerint módosított szöveg.
