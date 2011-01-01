@@ -1,1 +1,0 @@
-A Kormány a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 42/A. § a) és b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. §-a (1) bekezdésének b) pontjában és 40. §-a (3) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
