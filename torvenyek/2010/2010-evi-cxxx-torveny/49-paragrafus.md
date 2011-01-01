@@ -1,0 +1,1 @@
+49. § Hatályát veszti az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (2) bekezdése, 6. § (4) bekezdés b)–c) pontja, 6. § (10) és (11) bekezdése.
