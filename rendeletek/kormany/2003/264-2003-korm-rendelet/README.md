@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-264-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2003-264-20-22.7 | 264/2003. (XII. 24.) Korm. rendelet |
+| 2011-01-01 | 2003-264-20-22.8 | 222/2014. (IX. 4.) Korm. rendelet |
