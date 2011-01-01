@@ -1,5 +1,0 @@
-## 4. § Az R. 6. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(2) A Mehib Zrt.-t kárkintlévőség eredményes behajtása esetén a befolyt követelés kamat és késedelmi kamat nélkül számított összegének 5%-a illeti meg jutalékként. Devizában befolyt megtérülés esetén a jutalék alapjának forint értékét a befolyás napján érvényes, az MNB által hivatalosan közzétett devizaárfolyamon állapítja meg.
-
-## (3) A Mehib Zrt. a jutalék folyósításához a 7. § (3) bekezdése szerinti átutalást követő hónap 15. munkanapjáig a PM számára a 7. melléklet szerint jelentést készít, amelyet egyidejűleg megküld a Magyar Államkincstár számára, és a (2) bekezdés szerint megállapítja a jutalék összegét. A kimutatás alapján kiállított számla megküldésével egyidejűleg igényli a jutalék összegét a PM-től a 10032000–01457058 Egyéb pénzügyi elszámolások kiadási számláról. A PM az igénylés beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére a jutalék összegét tartalmazó utalványt.”

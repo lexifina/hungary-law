@@ -1,3 +1,0 @@
-## „(5) Az Eximbank a (3) bekezdés szerinti garanciabeváltás okafogyottságáról vagy az értesítésben szereplőnél kisebb összegéről haladéktalanul értesíti a PM-et.
-
-## (6) Az Eximbank a Magyar Állam kockázatának felmérése céljából, az állami készfizető kezességgel fedezett exportcélú garanciaügyletekből adódó be nem váltott kötelezettségeket negyedévente rendszeresen – a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet általános előírásaival összhangban – a saját kockázatra vállalt kötelezettséggel azonos módon külön is minősíti. E minősítés során fedezetként nem vehető figyelembe a Magyar Állam készfizető kezességvállalása.”
