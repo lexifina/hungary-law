@@ -2,9 +2,9 @@
 
 15. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2)[^12]
+(2)[^24]
 
-(3)[^13]
+(3)[^25]
 
 Melléklet a 321/2007. (XII. 5.) Korm. rendelethez
 
@@ -68,5 +68,5 @@ A komplex rehabilitációval összefüggésben felmerülő foglalkoztatási és 
 
 7 A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 80. §-a és 84. §-a alapján.
 
-[^12]: A 15. § (2) bekezdése e rendelet 15. § (3) bekezdése alapján hatályát vesztette.
-[^13]: A 15. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^24]: A 15. § (2) bekezdése e rendelet 15. § (3) bekezdése alapján hatályát vesztette.
+[^25]: A 15. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
