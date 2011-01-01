@@ -28,4 +28,4 @@ a) a korábban hadiipari tevékenységet végző gazdálkodó szervezetnek az á
 
 b) többségi vagy közvetlen irányítást biztosító befolyással bíró tagja vagy részvényese hadiipari tevékenységet folytat.
 
-(6) Az engedélyezési eljárás ügyintézési határideje harmincöt munkanap.
+(6) Az engedélyezési eljárás ügyintézési határideje negyvenöt nap.
