@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-86-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1992-05-22 | 1992-86-20-22.1 | 86/1992. (V. 22.) Korm. rendelet |
+| 2011-01-01 | 1992-86-20-22.2 | 351/2010. (XII. 30.) Korm. rendelet |
