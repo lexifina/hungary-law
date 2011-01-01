@@ -1,6 +1,6 @@
-## A kereskedelmi csomagolással kapcsolatos különleges mentességi szabályok[^29]
+## A kereskedelmi csomagolással kapcsolatos különleges mentességi szabályok[^31]
 
-7/C. §[^30] (1) A kötelezett az újrahasználható és nem újrahasználható kereskedelmi csomagolás termékdíjának megfizetése alól, a bevallás során annak levonásával mentesül.
+7/C. §[^32] (1) A kötelezett az újrahasználható és nem újrahasználható kereskedelmi csomagolás termékdíjának megfizetése alól, a bevallás során annak levonásával mentesül.
 
 (2) A kötelezett az újrahasználhatóként első alkalommal forgalomba hozott kereskedelmi csomagolás után fizetendő termékdíjból az éves forgalomba hozott újrahasználható kereskedelmi csomagolás mennyiségének az éves visszavett újrahasználható kereskedelmi csomagolás mennyiségéhez viszonyított arányának megfelelő arányban levonást érvényesíthet.
 
@@ -38,5 +38,5 @@ tartalmazza.
 
 (7) A kereskedelmi csomagolás után fizetendő termékdíj levonásának ellenőrzése során a mentességi engedély ellenőrzésére vonatkozó szabályokat kell értelemszerűen alkalmazni.
 
-[^29]: A 7/C. §-t megelőző alcímet a 313/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
-[^30]: A 7/C. §-t a 313/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 298/2009. (XII. 21.) Korm. rendelet 6. §-ával megállapított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 12. §-át.
+[^31]: A 7/C. §-t megelőző alcímet a 313/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^32]: A 7/C. §-t a 313/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 298/2009. (XII. 21.) Korm. rendelet 6. §-ával megállapított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 12. §-át.

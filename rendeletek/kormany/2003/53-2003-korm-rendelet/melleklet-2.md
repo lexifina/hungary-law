@@ -200,6 +200,6 @@
 
 ## mm = 1
 
-2. számú melléklet az 53/2003. (IV. 11.) Korm. rendelethez[^85]
+2. számú melléklet az 53/2003. (IV. 11.) Korm. rendelethez[^87]
 
-[^85]: A 2. számú melléklet a 298/2009. (XII. 21.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 12. §-át.
+[^87]: A 2. számú melléklet a 298/2009. (XII. 21.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 12. §-át.

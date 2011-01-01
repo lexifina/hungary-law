@@ -18,6 +18,6 @@
 
 ## 0,5 energetikai célú hasznosítás esetén
 
-4. számú melléklet az 53/2003. (IV. 11.) Korm. rendelethez[^86]
+4. számú melléklet az 53/2003. (IV. 11.) Korm. rendelethez[^88]
 
-[^86]: A 4. számú mellékletet újonnan a 313/2008. (XII. 22.) Korm. rendelet 9. § (4) bekezdése iktatta be, hatályon kívül helyezte a 298/2009. (XII. 21.) Korm. rendelet 11. § (3) bekezdése; alkalmazására lásd ez utóbbi módosító rendelet 12. §-át.
+[^88]: A 4. számú mellékletet újonnan a 313/2008. (XII. 22.) Korm. rendelet 9. § (4) bekezdése iktatta be, hatályon kívül helyezte a 298/2009. (XII. 21.) Korm. rendelet 11. § (3) bekezdése; alkalmazására lásd ez utóbbi módosító rendelet 12. §-át.

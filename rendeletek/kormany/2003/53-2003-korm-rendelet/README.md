@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-53-20-2
 | --- | --- | --- |
 | 2010-01-01 | 2003-53-20-22.13 | 53/2003. (IV. 11.) Korm. rendelet |
 | 2010-11-18 | 2003-53-20-22.14 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2011-01-01 | 2003-53-20-22.15 | 343/2011. (XII. 29.) Korm. rendelet |
