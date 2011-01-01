@@ -18,10 +18,13 @@ e) ha az Eht. 118. § (4) bekezdése szerint a szolgáltatót nem terheli szerz�
 
 a) az igénylő, vagy
 
-b) az igénylő kérésére a szolgáltató a kérés kézhezvételét követő 3 munkanapon belül
+b)[^2] az igénylő kérésére a szolgáltató a kérés kézhezvételét követő öt napon belül
 
 a hatósági bizonyítvány kiadása iránti kérelmet, a visszautasítást és annak indokait, valamint annak indokait alátámasztó bizonyítékokat a Nemzeti Hírközlési Hatóságnál (a továbbiakban: hatóság) nyújtja be.
 
 (4) A hatósági bizonyítvány tartalmazza az elfizetői hozzáférési pont földrajzi helyét belterület esetén cím és helyrajzi szám szerint, külterület esetén helyrajzi szám szerint az előfizetői hozzáférési pontnál elérhető telefonhálózathoz hozzáférést biztosító szolgáltatások felsorolását, vagy hiányát, és ezen hozzáférési szolgáltatásokon keresztül elérhető internetszolgáltatások adatátviteli sebességét és hibaarányát vagy hiányát, valamint ezek alapján az (1) bekezdés a)–b) pontjában foglalt tények fennállását vagy hiányát. Amennyiben a hatóság az (1) bekezdés a)–b) pontjában foglalt tények fennállásának hiányát állapítja meg, a szolgáltató az igénybejelentést haladéktalanul köteles elfogadni.
 
-(5) A hatóság a hatósági bizonyítványt a kérelem előterjesztésétől számított 15 munkanapon belül adja ki.
+(5)[^3] A hatóság a hatósági bizonyítványt a kérelem megérkezését követő naptól számított húsz napon belül adja ki.
+
+[^2]: A 3. § (3) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (144) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^3]: A 3. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (144) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
