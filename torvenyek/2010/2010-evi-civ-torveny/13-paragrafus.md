@@ -1,0 +1,3 @@
+13. § (1) A médiatartalom-szolgáltatók összességének feladata a hiteles, gyors, pontos tájékoztatás a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről.
+
+(2) A tájékoztatási tevékenységet végző lineáris és lekérhető médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni.

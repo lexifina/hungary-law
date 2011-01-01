@@ -1,0 +1,1 @@
+10. § Mindenkinek joga van arra, hogy megfelelően tájékoztassák a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről.

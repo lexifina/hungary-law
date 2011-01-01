@@ -1,0 +1,3 @@
+8. § (1) A médiatartalom-szolgáltató, annak munkavállalója vagy a médiatartalom-szolgáltatóval munkavégzésre irányuló egyéb jogviszonyban álló személy nem vonható felelősségre olyan jogsértésért, amelyet valamely közérdekű információ megszerzésével összefüggésben követett el, és az adott információ általa nem, vagy csak aránytalan nehézséggel lett volna más módon megszerezhető, feltéve, hogy az így elkövetett jogsértés nem okoz aránytalan vagy súlyos sérelmet, továbbá az információ megszerzésére nem a minősített adatok védelméről szóló törvény megsértésével került sor.
+
+(2) Az (1) bekezdésben foglalt jogosultság nem jelent mentességet a jogsértéssel okozott vagyoni kár megtérítésére irányuló igény polgári peres úton való érvényesítésével szemben.
