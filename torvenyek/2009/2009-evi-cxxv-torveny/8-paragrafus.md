@@ -8,7 +8,7 @@ b) a közszolgáltatási tevékenység, valamint
 
 c) a 10. § (4) bekezdése szerinti szóbeli vizsgák
 
-során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevékenység tekintetében nem áll foglalkoztatástól eltiltás hatálya alatt, továbbá rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek.
+során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevékenység tekintetében nem áll foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, megfelel az ott meghatározott egyéb feltételeknek, valamint eleget tesz az ott meghatározott, továbbképzésre és szakmai gyakorlatra vonatkozó előírásoknak.
 
 (2) Aki az (1) bekezdés szerinti jelnyelvi tolmácsolási tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Jelnyelvi Tolmácsok Országos Névjegyzékét (a továbbiakban: Névjegyzék) vezető hatóságnak bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
@@ -28,7 +28,13 @@ e) tevékenységének leírását (kompetenciáját),
 
 f) által vállalt tolmácsolási típusokat,
 
-g) Névjegyzékbe történő felvételének időpontját.
+g) Névjegyzékbe történő felvételének időpontját,
+
+h) továbbképzésen történő részvételének helyét, időpontját és időtartamát, valamint a továbbképzést végző szervezet megnevezését,
+
+i) igazolt szakmai gyakorlatának időtartamát,
+
+j) tevékenységének szüneteltetése esetén annak tényét, valamint időtartamát.
 
 (5) A Névjegyzékben szereplő adatokból a Névjegyzéket vezető hatóság a honlapján közzéteszi a jelnyelvi tolmács
 
@@ -42,11 +48,13 @@ d) szakképzettségének, szakképesítésének, részszakképesítésének megn
 
 e) tevékenységének leírását (kompetenciáját),
 
-f) által vállalt tolmácsolási típusokat.
+f) által vállalt tolmácsolási típusokat,
 
-(6) Törölni kell a Névjegyzékből annak a jelnyelvi tolmácsnak az adatait, aki a törlést kéri, vagy aki a büntetlen előéletre vonatkozó feltétellel már nem rendelkezik, vagy a tolmácsfoglalkozás gyakorlásától eltiltás hatálya alatt áll. A Névjegyzékből törölt jelnyelvi tolmácsok adatait a Névjegyzéket vezető hatóság elkülönítetten kezeli.
+g) tevékenységének szüneteltetése esetén annak tényét, valamint időtartamát.
 
-(7) A Névjegyzéket vezető hatóság a (6) bekezdés szerinti kizáró feltétel fennállását bármikor ellenőrizheti, felhívására a Névjegyzékbe bejelentkező, vagy az abban szereplő jelnyelvi tolmács hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn kizáró feltétel.
+(6) Törölni kell a Névjegyzékből annak a jelnyelvi tolmácsnak az adatait, aki a törlést kéri, a tolmácsolási tevékenység folytatásához szükséges szakmai gyakorlatot vagy továbbképzési kötelezettséget nem teljesítette, a büntetlen előéletre vonatkozó feltételnek már nem felel meg, vagy a tolmácsfoglalkozás gyakorlásától eltiltás hatálya alatt áll. A Névjegyzékből törölt jelnyelvi tolmácsok adatait a Névjegyzéket vezető hatóság elkülönítetten kezeli.
+
+(7) A Névjegyzéket vezető hatóság a büntetlen előéletre vagy a tolmácsfoglalkozás gyakorlásától eltiltásra vonatkozó kizáró feltétel fennállását bármikor ellenőrizheti. Felhívására a Névjegyzékbe bejelentkező vagy az abban szereplő jelnyelvi tolmács hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn a kizáró feltétel.
 
 (8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás jogerős befejezéséig kezelheti.
 

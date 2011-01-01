@@ -1,6 +1,6 @@
 ## Finanszírozási szabályok
 
-10. § (1) A térítésmentes jelnyelvi tolmácsszolgáltatáshoz, valamint a jelnyelvi tolmácsszolgálatok működéséhez szükséges forrást a mindenkori költségvetési törvény tartalmazza. A térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozása a Közalapítvány útján történik.
+10. § (1) A térítésmentes jelnyelvi tolmácsszolgáltatáshoz, valamint a jelnyelvi tolmácsszolgálatok működéséhez szükséges forrást a mindenkori költségvetési törvény tartalmazza. A térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozása a 6. § (1) bekezdése szerinti szervezet útján történik.
 
 (2) A jelnyelvi tolmácsszolgálatok működését az állam – a külön jogszabályban meghatározott pályázati rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja.
 

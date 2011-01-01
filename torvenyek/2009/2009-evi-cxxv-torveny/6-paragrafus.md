@@ -1,4 +1,4 @@
-6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott közalapítvány (a továbbiakban: Közalapítvány) a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi. A térítésmentes jelnyelvi tolmácsszolgáltatásról – az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás ellenőrzése céljából – a Közalapítvány nyilvántartást vezet. A nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója a Közalapítvány.
+6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a társadalmi esélyegyenlőség előmozdításáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
 
 (2) A nyilvántartás tartalmazza
 
@@ -10,8 +10,8 @@ c) a térítésmentes jelnyelvi tolmácsszolgáltatást igénybe vevő személy 
 
 d) a jelnyelvi tolmács, illetve tolmácsszolgálat megnevezését és elérhetőségeit, a tolmácsolás helyét, időpontját és időtartamát, továbbá a tolmácsolás típusát.
 
-(3) A nyilvántartás részére a (2) bekezdésben foglalt, a jelnyelvi tolmácsszolgáltatás igénybevevője által rendelkezésre bocsátott adatokat a tolmácsszolgáltatást nyújtó jelnyelvi tolmácsszolgálat továbbítja. A jelnyelvi tolmácsszolgálat a tolmácsszolgáltatási tevékenysége ellátásához jogosult a (2) bekezdés szerinti adatok kezelésére. A jelnyelvi tolmácsszolgálat részére a Közalapítvány a nyilvántartásból a (2) bekezdés a) és c) pontjában meghatározott adatokat elektronikus adatkapcsolat keretében továbbítja.
+(3) A nyilvántartás részére a (2) bekezdésben foglalt, a jelnyelvi tolmácsszolgáltatás igénybevevője által rendelkezésre bocsátott adatokat a tolmácsszolgáltatást nyújtó jelnyelvi tolmácsszolgálat továbbítja. A jelnyelvi tolmácsszolgálat a tolmácsszolgáltatási tevékenysége ellátásához jogosult a (2) bekezdés szerinti adatok kezelésére. A jelnyelvi tolmácsszolgálat részére az (1) bekezdés szerinti szervezet a nyilvántartásból a (2) bekezdés a) és c) pontjában meghatározott adatokat elektronikus adatkapcsolat keretében továbbítja.
 
-(4) A Közalapítvány a nyilvántartásban szereplő adatokat személyazonosításra alkalmatlan módon statisztikai célra is felhasználhatja, illetve azokból statisztikai célra adatot szolgáltathat.
+(4) Az (1) bekezdés szerinti szervezet a nyilvántartásban szereplő adatokat személyazonosításra alkalmatlan módon statisztikai célra is felhasználhatja, illetve azokból statisztikai célra adatot szolgáltathat.
 
-(5) A nyilvántartásban szereplő adatokat a Közalapítvány 5 évig kezeli, ezt követően az adatokat törli a nyilvántartásból. A jelnyelvi tolmácsszolgálat a (2) bekezdésben foglalt adatok kezelésére a térítésmentes jelnyelvi tolmácsszolgáltatás időtartamára jogosult.
+(5) A nyilvántartásban szereplő adatokat az (1) bekezdés szerinti szervezet 5 évig kezeli, ezt követően az adatokat törli a nyilvántartásból. A jelnyelvi tolmácsszolgálat a (2) bekezdésben foglalt adatok kezelésére a térítésmentes jelnyelvi tolmácsszolgáltatás időtartamára jogosult.
