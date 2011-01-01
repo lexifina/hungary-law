@@ -20,7 +20,7 @@ távolabb nem lehet.
 
 (5) A 42. § (3) bekezdésének a rendelkezése értelemszerűen irányadó a féklámpára is.
 
-(6)[^105] A középső féklámpát a gépkocsi hosszirányú függőleges felezősíkjában, a jármű belső terében vagy azon kívül úgy kell elhelyezni, hogy átvilágított felületének alsó széle a 64. § (1) bekezdésének a) pontjában meghatározott féklámpa átvilágított felületének felső szélénél magasabban legyen, és
+(6)[^113] A középső féklámpát a gépkocsi hosszirányú függőleges felezősíkjában, a jármű belső terében vagy azon kívül úgy kell elhelyezni, hogy átvilágított felületének alsó széle a 64. § (1) bekezdésének a) pontjában meghatározott féklámpa átvilágított felületének felső szélénél magasabban legyen, és
 
 a) a gépkocsi belső terében történő elhelyezés esetén a hátsó ablak alsó vagy felső szélénél,
 
@@ -32,4 +32,4 @@ bb) az úttest felszínétől legalább 0,85 méter magasságban
 
 legyen.
 
-[^105]: A 65. § (6) bekezdésént a 12/1995. (VII. 12.) KHVM rendelet 5. §-a iktatta a szövegbe.
+[^113]: A 65. § (6) bekezdésént a 12/1995. (VII. 12.) KHVM rendelet 5. §-a iktatta a szövegbe.

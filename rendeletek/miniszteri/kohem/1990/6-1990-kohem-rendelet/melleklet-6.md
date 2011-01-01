@@ -122,6 +122,6 @@
 
 ## (11) Az Euro 6. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL199 p130) módosított, a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet I. mellékletének 2. táblázata határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^245]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^259]
 
-[^245]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^259]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

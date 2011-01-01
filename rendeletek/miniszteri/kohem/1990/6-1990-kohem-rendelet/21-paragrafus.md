@@ -18,7 +18,7 @@ e bekezdés rendelkezései a félpótkocsira nem vonatkoznak.
 
 (4) Ráfutó fékkel felszerelt pótkocsi abban az esetben vontatható, ha a pótkocsi össztömege nem haladja meg a vonó jármű össztömegének a háromnegyedét.
 
-(5)[^63] Oldalkocsis motorkerékpárral és motoros triciklivel pótkocsi nem vontatható. Oldalkocsi nélküli motorkerékpárral egy – legfeljebb 80 kilogramm megengedett legnagyobb össztömegű – egykerekű pótkocsi, gépkocsival egy pótkocsi, nyerges vontatóval egy félpótkocsi, vontatóval és mezőgazdasági vontatóval legfeljebb két pótkocsi, lassú járművel egy pótkocsi vontatható. A közlekedési hatóság – az ehhez szükséges műszaki és üzemeltetési feltételek meghatározásával – tehergépkocsival második pótkocsi vontatását engedélyezheti.
+(5)[^70] Oldalkocsis motorkerékpárral és motoros triciklivel pótkocsi nem vontatható. Oldalkocsi nélküli motorkerékpárral egy – legfeljebb 80 kilogramm megengedett legnagyobb össztömegű – egykerekű pótkocsi, gépkocsival egy pótkocsi, nyerges vontatóval egy félpótkocsi, vontatóval és mezőgazdasági vontatóval legfeljebb két pótkocsi, lassú járművel egy pótkocsi vontatható. A közlekedési hatóság – az ehhez szükséges műszaki és üzemeltetési feltételek meghatározásával – tehergépkocsival második pótkocsi vontatását engedélyezheti.
 
 (6) Mezőgazdasági vontatóval egy személyszállításra berendezett pótkocsi vontatható. Más járművel ilyen pótkocsi nem vontatható.
 
@@ -32,10 +32,10 @@ e bekezdés rendelkezései a félpótkocsira nem vonatkoznak.
 
 (9) Ha a pótkocsi — szélességi mérete folytán — a vonó jármű hátsó helyzetjelző lámpáit takarja, az 55. § (2) bekezdésében a pótkocsi hátsó helyzetjelző lámpájának elhelyezésére vonatkozó előírásokat a járműszerelvény szélességét alapulvéve is teljesíteni kell. Ez a rendelkezés a 42. § (3) bekezdésében foglaltak megfelelő alkalmazásával is teljesíthető.
 
-(10)[^64] A gépjármű által vontatható pótkocsi össztömegét – a (2) bekezdésben meghatározott mértéket meg nem haladóan – a 18. § (1) bekezdésben meghatározott – a járműszerelvény megengedett legnagyobb össztömegére vonatkoztatott – motorteljesítmény figyelembevételével kell megállapítani. Az előírt motorteljesítmény hiányában a gépjármű hatósági engedélyébe bejegyzett vontatható pótkocsi össztömegének értékét 2004. december 31. napjával – a járműszerelvényhez előírt motorteljesítmény által meghatározott mértékéig – korlátozni kell.
+(10)[^71] A gépjármű által vontatható pótkocsi össztömegét – a (2) bekezdésben meghatározott mértéket meg nem haladóan – a 18. § (1) bekezdésben meghatározott – a járműszerelvény megengedett legnagyobb össztömegére vonatkoztatott – motorteljesítmény figyelembevételével kell megállapítani. Az előírt motorteljesítmény hiányában a gépjármű hatósági engedélyébe bejegyzett vontatható pótkocsi össztömegének értékét 2004. december 31. napjával – a járműszerelvényhez előírt motorteljesítmény által meghatározott mértékéig – korlátozni kell.
 
-(11)[^65]
+(11)[^72]
 
-[^63]: A 21. § (5) bekezdése a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^64]: A 21. § (10) bekezdését a 40/2002. (XII. 28.) GKM rendelet 4. §-a iktatta be.
-[^65]: A 21. § (11) bekezdését a 145/2004. (XII. 29.) GKM rendelet 1. §-a iktatta be; e módosító rendelet 4. § (3) bekezdése a (11) bekezdést hatályon kívül helyezte 2006. december 31. napjával.
+[^70]: A 21. § (5) bekezdése a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^71]: A 21. § (10) bekezdését a 40/2002. (XII. 28.) GKM rendelet 4. §-a iktatta be.
+[^72]: A 21. § (11) bekezdését a 145/2004. (XII. 29.) GKM rendelet 1. §-a iktatta be; e módosító rendelet 4. § (3) bekezdése a (11) bekezdést hatályon kívül helyezte 2006. december 31. napjával.
