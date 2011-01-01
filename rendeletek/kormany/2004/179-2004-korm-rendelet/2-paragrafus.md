@@ -10,7 +10,7 @@
 
 3.[^3] Központi Pénzügyi és Szerződéskötő Egység (a továbbiakban: KPSZE): a Schengen Alap támogatásból finanszírozott fejlesztési feladatok pénzügyi és adminisztratív lebonyolítására kijelölt szervezeti egység, amely a Szakmai Közreműködő Szervezetekkel (a továbbiakban: SzKSz) együttműködve ellátja a támogatások felhasználásával összefüggő közbeszerzési eljárások lebonyolítását, továbbá a szerződéskötési, nyilvántartási és egyéb pénzügyi adminisztrációs feladatokat;
 
-4.[^4] Szakmai Közreműködő Szervezetek: feladataikat az Igazságügyi és Rendészeti Minisztériumnál és a Vám- és Pénzügyőrség Országos Parancsnokságán a felelős miniszter által kijelölt szervezeti egység, a Gazdasági és Közlekedési Minisztériumnál a felelős miniszter által kijelölt szervezeti egység, vagy a Gazdasági és Közlekedési Minisztérium felügyelete alá tartozó, a felelős miniszter által kijelölt jogi személy, illetve annak szervezeti egysége látja el, amely rendelkezik az Európai Unió Bizottsága megfelelő intézményi akkreditációjával. Az SzKSz-ek felelősek a Schengen Alap támogatásból finanszírozott fejlesztési feladatok szakmai és technikai tervezéséért, előkészítéséért, a megvalósítás közvetlen nyomon követéséért, illetőleg az e rendeletben meghatározott esetekben a vonatkozó közbeszerzési eljárások lebonyolításáért, a szerződéskötési, nyilvántartási és egyéb pénzügyi adminisztrációs feladatok ellátásáért, továbbá ezen feladatokkal kapcsolatos szervezeten belüli belső koordináció végzéséért;
+4.[^4] Szakmai Közreműködő Szervezetek: feladataikat a Belügyminisztériumnál és a Nemzeti Adó- és Vámhivatal Központi Hivatalánál a felelős miniszter által kijelölt szervezeti egység, a Nemzetgazdasági Minisztériumnál a felelős miniszter által kijelölt szervezeti egység, vagy a Nemzetgazdasági Minisztérium felügyelete alá tartozó, a felelős miniszter által kijelölt jogi személy, illetve annak szervezeti egysége látja el, amely rendelkezik az Európai Unió Bizottsága megfelelő intézményi akkreditációjával. Az SzKSz-ek felelősek a Schengen Alap támogatásból finanszírozott fejlesztési feladatok szakmai és technikai tervezéséért, előkészítéséért, a megvalósítás közvetlen nyomon követéséért, illetve az e rendeletben meghatározott esetekben a vonatkozó közbeszerzési eljárások lebonyolításáért, a szerződéskötési, nyilvántartási és egyéb pénzügyi adminisztrációs feladatok ellátásáért, továbbá ezen feladatokkal kapcsolatos szervezeten belüli belső koordináció végzéséért;
 
 5.[^5]
 
@@ -58,7 +58,7 @@
 
 [^2]: A 2. § 2. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 3. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § 4. pontja a 352/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 4. pontja a 273/2010. (XII. 9.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 5. pontját a 171/2010. (V. 13.) Korm. rendelet 1. § 6. pontja hatályon kívül helyezte.
 [^6]: A 2. § 6. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 7. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
