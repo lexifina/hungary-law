@@ -2,4 +2,4 @@
 
 (2) A Tanácsban, Kollégiumban a jelölést, illetve választást megelőző 3 év során tagi tisztséget betöltő személy akkor jelölhető, illetve választható újra, ha megbízása kezdetét megelőző 3 évben az Alapprogram egyik testületének sem volt tagja.
 
-(3) A Tanács és a Kollégiumok tagjainak díjazását a miniszter rendeletben szabályozza. A díj egy hónapra járó összege nem lehet kevesebb a mindenkori kötelező legkisebb munkabér havi összegénél, a díjazás kifizetése a testületi döntésekben történő részvétel figyelembevételével történik.
+(3) A Tanács és a Kollégiumok tagjainak költségtérítését a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza. A költségtérítés egy hónapra járó összege a mindenkori kötelező legkisebb munkabér havi összegének felét nem haladhatja meg.

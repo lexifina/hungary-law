@@ -10,6 +10,6 @@
 
 a) az Alapprogram működésével kapcsolatos beszámolók tartalmi elemeit, a beszámolás rendjét, az Alapprogram nyilvánosságával kapcsolatos részletes szabályokat,
 
-b) a Tanács és a Kollégium tagjai díjazásának szabályait az államháztartásért felelős miniszterrel egyetértésben
+b) a Tanács és a Kollégium tagjai a költségtérítése elszámolása szabályait az államháztartásért felelős miniszterrel egyetértésben
 
 rendeletben állapítsa meg.

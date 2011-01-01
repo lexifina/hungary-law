@@ -4,4 +4,4 @@
 
 (2) Az 1. § (2) bekezdésének a) és j) pontjában megjelölt célok kivételével csak a közhasznú szervezetekről szóló 1997. évi CLVI. törvény alapján közhasznú jogállást jogerősen megszerzett civil szervezet jogosult az Alapprogram támogatására.
 
-(3) Nem jogosult az Alapprogramból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban a központi költségvetésből, és a támogatást az erről szóló támogatási szerződés szerint működési célra kapja.
+(3) Nem jogosult az Alapprogramból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban a központi költségvetésből,.

@@ -1,4 +1,4 @@
-8. § (1) A Tanács, illetve Kollégium tagjának megbízása megszűnik
+8. § (1) A Tanács, tagjának megbízása megszűnik
 
 a) a megbízás időtartamának lejártával, illetve a (2) bekezdésben foglalt esetben,
 
@@ -7,6 +7,18 @@ b) a tisztségről történő lemondással,
 c) a tag halálával, vagy
 
 d) a megbízás visszavonásával.
+
+(1a) A Kollégium tagjának megbízása megszűnik
+
+a) a megbízás időtartamának lejártával, illetve a (2) bekezdésben foglalt esetben,
+
+b) a tisztségről történő lemondással,
+
+c) a tag halálával,
+
+d) a megbízás visszavonásával,
+
+e) a Kollégium 5. § (2) bekezdése szerinti megszűnése esetén.
 
 (2) A civil jelöltállítási rendszerben újra nem választott tanácsi, kollégiumi tagok megbízatása megszűnik a testület új tagjainak a 13. § (1) bekezdése szerinti megválasztását követő megbízása napján.
 
