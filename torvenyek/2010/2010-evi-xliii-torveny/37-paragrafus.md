@@ -10,4 +10,4 @@
 
 (5) A minisztert az Európai Unió Tanácsa miniszteri képviseletet igénylő testületeiben az államtitkár, az Európai Unió kormányzati részvétellel működő egyéb intézményeiben – a miniszter döntése alapján – a miniszter részletes feladat- és hatásköréről szóló kormányrendeletben kijelölt másik miniszter, az államtitkár, a közigazgatási államtitkár vagy a miniszter által kijelölt helyettes államtitkár helyettesíti.
 
-(6) A minisztert a rendelet kiadásában nem lehet helyettesíteni.
+(6)

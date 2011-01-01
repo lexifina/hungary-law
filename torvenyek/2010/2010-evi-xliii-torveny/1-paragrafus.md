@@ -30,9 +30,9 @@ a) a Közbeszerzések Tanácsa,
 
 b) a Nemzeti Média- és Hírközlési Hatóság,
 
-c) a Gazdasági Versenyhivatal,
+c) a Gazdasági Versenyhivatal.
 
-d) a Pénzügyi Szervezetek Állami Felügyelete.
+d)
 
 (4) Kormányhivatal
 
@@ -44,9 +44,9 @@ c) a Magyar Energia Hivatal,
 
 d) az Országos Atomenergia Hivatal,
 
-e) a Magyar Szabadalmi Hivatal.
+e) a Szellemi Tulajdon Nemzeti Hivatala.
 
-f)
+f) a Nemzeti Adó- és Vámhivatal.
 
 (5) Rendvédelmi szerv
 
@@ -54,7 +54,7 @@ a) a rendőrség,
 
 b) a polgári védelem,
 
-c) a vám- és pénzügyőrség,
+c)
 
 d) a büntetés-végrehajtási szervezet,
 
