@@ -24,11 +24,11 @@ j)[^91] felszíni vízbe, csapadékvíz elvezető hálózatba engedély nélkül
 
 ## a felügyelőség az e rendelet 2. számú melléklete 2/II. pontjában meghatározott vízvédelmi bírság megfizetésére kötelezi.
 
-(2)[^92] A vízvédelmi bírságot az erről rendelkező határozat jogerőre emelkedését követő 22 munkanapon belül kell a határozatban megjelölt számlára a felügyelőség részére befizetni.
+(2)[^92] A vízvédelmi bírságot az erről rendelkező határozat jogerőre emelkedését követő harminc napon belül kell a határozatban megjelölt számlára a felügyelőség részére befizetni.
 
 [^87]: A 35. § (1) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^88]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
 [^89]: A 35. § (1) bekezdés c) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^90]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
 [^91]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
-[^92]: A 35. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^92]: A 35. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
