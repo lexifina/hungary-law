@@ -1,5 +1,11 @@
 ## 26. § Minősítés alapján történő szolgálati viszony megszüntetésére a minősítésre jogosult szolgálati elöljáró tesz javaslatot. A szolgálati viszony megszüntetéséről akkor is intézkedni kell, ha a minősítés megállapításaival szemben az érintett bírósághoz fordult.
 
-27. § (1) A Hszt. 56. § (6) bekezdés a)–b) pontjában meghatározott esetekben a hivatásos szolgálatra méltatlanná válás miatti felmentésre csak a büntetőeljárásban hozott jogerős ítélet alapján kerülhet sor. Az ítélet (ítéleti értesítő) kézhezvételét követően az állományilletékes parancsnok haladéktalanul köteles intézkedni a szolgálati viszony megszüntetéséről.
+27. §[^20] (1) A Hszt. 56. § (6) bekezdésében meghatározott esetben a hivatásos szolgálatra alkalmatlanná válás miatti felmentésre büntetőeljárásban hozott jogerős ítélet vagy a kifogástalan életvitel ellenőrzés befejezéséről szóló indokolt határozat alapján kerülhet sor.
 
-(2) Ha az ítéletre tekintettel lehetőség van a Hszt. 56. § (7) bekezdése szerinti miniszteri döntésre, a felmentés közlésével egyidejűleg az érintett figyelmét fel kell hívni arra, hogy 3 munkanapon belül eziránt írásbeli kérelmet nyújthat be szolgálati úton a miniszterhez. A határidő leteltéig, illetve a kérelem benyújtása esetén annak elbírálásáig a szolgálati viszony megszüntetését nem lehet végrehajtani, azonban az érintettet mentesíteni kell a szolgálat ellátása alól. Az állományparancsot vagy határozatot a miniszteri döntéstől függően hatályon kívül kell helyezni, vagy annak hatályát a miniszter elutasító döntésének napjára kell módosítani.
+(2) Az állományilletékes parancsnok
+
+a) a büntetőeljárásban hozott jogerős ítélet (ítéleti értesítő) kézhezvételét követően, vagy
+
+b) a kifogástalan életvitel ellenőrzés befejezéséről szóló indokolt határozat kézhezvételét követően, amennyiben a kifogásolható életvitelt megállapítja,
+
+[^20]: A 27. § a 16/2010. (XII. 31.) BM rendelet 7. §-ával megállapított szöveg.

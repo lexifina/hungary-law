@@ -14,4 +14,6 @@ c) esküokmányt.
 
 (5) Az aláírt esküokmányt az állományparancs vagy határozat mellékleteként a személyi anyagban kell elhelyezni és kezelni.
 
-(6) A szolgálati viszony létesítésére vonatkozó eljárási szabályokat a hivatásos állományba visszavétellel, más fegyveres szervtől áthelyezéssel vagy közalkalmazotti, köztisztviselői állományból áthelyezéssel történő szolgálati viszony létesítésekor is alkalmazni kell.
+(6)[^6] A szolgálati viszony létesítésére vonatkozó eljárási szabályokat a hivatásos állományba visszavétellel, más fegyveres szervtől áthelyezéssel vagy közalkalmazotti, köztisztviselői vagy kormánytisztviselői állományból áthelyezéssel történő szolgálati viszony létesítésekor is alkalmazni kell.
+
+[^6]: A 4. § (6) bekezdése a 16/2010. (XII. 31.) BM rendelet 8. §-a szerint módosított szöveg.

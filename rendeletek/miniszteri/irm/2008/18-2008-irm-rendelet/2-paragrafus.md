@@ -22,12 +22,13 @@ c) személyazonosságát és lakcímét igazoló okmány másolatát,
 
 d) korábbi szolgálati és egyéb foglalkoztatási jogviszonyairól szóló igazolásokat,
 
-e) saját és közeli hozzátartozói, illetve a vele egy háztartásban élők írásbeli nyilatkozatát a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 37. §-ában meghatározott adatai kezeléséhez, a Hszt. 258. §-a szerinti biztonsági ellenőrzéshez és a személyes adatai kezeléséhez történő hozzájárulásról,
+e)[^3] saját és közeli hozzátartozói, illetve a vele egy háztartásban élők írásbeli nyilatkozatát a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 37. §-ában meghatározott adatai kezeléséhez, a Hszt. 37/B. §-a és 37/C. §-a szerinti kifogástalan életvitel ellenőrzéséhez való hozzájárulásról, a Hszt. 37. §-ában feltételként meghatározott megbízhatósági vizsgálat tudomásul vételéről és a Hszt. 37/B. § (1) bekezdés ba) alpontjában meghatározott adatai kezeléséhez történő hozzájárulásról,
 
 f) nemzetbiztonsági ellenőrzésre kötelezett beosztásba tervezése esetében – a felvételi eljárást lefolytató szervezet által biztosított – az ellenőrzési szintnek megfelelő, az általa kitöltött kérdőívet,
 
-g)[^1]
+g)[^4]
 
 (5) A (4) bekezdés e)–g) pontjában szereplő nyilatkozatok, illetve a kitöltött biztonsági kérdőív csatolása hiányában a felvételi kérelmet el kell utasítani. Egyéb okból hiányos vagy hitelesnek nem tekinthető iratok pótlására, kiegészítésre határidő tűzésével a jelentkezőt fel kell szólítani. Ha a hiányosságok pótlása határidőben nem történik meg, a kérelmet el kell utasítani.
 
-[^1]: A 2. § (4) bekezdés g) pontját a 75/2009. (XII. 23.) IRM rendelet 8. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (4) bekezdés e) pontja a 16/2010. (XII. 31.) BM rendelet 6. §-ával megállapított szöveg.
+[^4]: A 2. § (4) bekezdés g) pontját a 75/2009. (XII. 23.) IRM rendelet 8. § (3) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## haladéktalanul intézkedik a szolgálati viszony megszüntetésére.
+
 ## A szolgálati viszony megszűnése a törvény erejénél fogva
 
 28. § (1) Akinek a szolgálati viszonya a Hszt. 59. § (1) bekezdés a), c) vagy e) pontjában meghatározott okból szűnik meg, az erről szóló állományparancsban vagy határozatban csak a megszűnés jogcímét és az arra okot adó körülmény bekövetkeztének napját kell megjelölni.

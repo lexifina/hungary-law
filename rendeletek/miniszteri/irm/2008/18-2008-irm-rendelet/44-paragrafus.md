@@ -1,3 +1,5 @@
+## 43. §[^22]
+
 ## A szabadság nyilvántartásának, kiadásának szabályai
 
 44. § (1) A hivatásos állomány tagját megillető alap- és pótszabadság mértékét évente, illetve a jogosultság változását követően meg kell állapítani, és azt az érintett tudomására kell hozni.
@@ -18,6 +20,7 @@ a) meg kell állapítani a hivatali munkarendben dolgozók évi munkanapjainak s
 
 b) a váltásos szolgálati időrendszerben dolgozók szolgálati napjait el kell osztani a hivatali munkarendben dolgozók munkanapjainak számával, így megállapítható a két szolgálati rend szerinti szabadságként számfejthető távollétek aránya.
 
-(8)[^7] A Hszt. 94. § (1) bekezdés a) pontjában meghatározott egészségügyi szabadság a gyermek kórházi ápolását, illetve betegségét megállapító orvosi igazolás alapján vehető igénybe.
+(8)[^23] A Hszt. 94. § (1) bekezdés a) pontjában meghatározott egészségügyi szabadság a gyermek kórházi ápolását, illetve betegségét megállapító orvosi igazolás alapján vehető igénybe.
 
-[^7]: A 44. § (8) bekezdése a 75/2009. (XII. 23.) IRM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 43. §-t és az azt megelőző alcímet a 16/2010. (XII. 31.) BM rendelet 9. §-a hatályon kívül helyezte.
+[^23]: A 44. § (8) bekezdése a 75/2009. (XII. 23.) IRM rendelet 8. § (2) bekezdése szerint módosított szöveg.

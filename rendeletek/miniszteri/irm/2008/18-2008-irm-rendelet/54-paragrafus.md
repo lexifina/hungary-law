@@ -4,7 +4,7 @@
 
 (2) Állományparancsban vagy határozatban kell elrendelni
 
-a)[^10] a szolgálati viszony keletkezését, a kinevezést, a változó szolgálatteljesítési helyre vonatkozó kinevezést a szolgálatteljesítési helyek meghatározásával, a különleges állományba vételt,
+a)[^27] a szolgálati viszony keletkezését, a kinevezést, a változó szolgálatteljesítési helyre vonatkozó kinevezést a szolgálatteljesítési helyek meghatározásával, a különleges állományba vételt,
 
 b) a szolgálati hely, a beosztás változását, módosítását,
 
@@ -16,13 +16,13 @@ e) a kitüntetést, a jutalmazást,
 
 f) a fegyelmi eljárással kapcsolatos intézkedéseket,
 
-g)[^11] az illetmény nélküli szabadság, a rész-szolgálatteljesítési idő engedélyezését,
+g)[^28] az illetmény nélküli szabadság, a rész-szolgálatteljesítési idő engedélyezését,
 
 h) a szolgálati viszony szünetelését,
 
 i) a névváltozás átvezetését,
 
-j)[^12] a fegyveres szervek közötti, illetve a fegyveres szervek és a Magyar Honvédség között történő áthelyezést, a vezénylést, a megbízást,
+j)[^29] a fegyveres szervek közötti, illetve a fegyveres szervek és a Magyar Honvédség között történő áthelyezést, a vezénylést, a megbízást,
 
 k) a rendelkezési állományba helyezést, annak megszüntetését,
 
@@ -44,6 +44,6 @@ m) a korábbi munkáltatói intézkedés módosítását
 
 (8) Központi hatáskörben vagy más szerv által kiadott állományparancs vagy határozat intézkedésre megküldött példányait személyi iratként kell kezelni, és az általános iratkezelési szabályoknak megfelelően az irattári terv előírásai szerint kell selejtezni.
 
-[^10]: Az 54. § (2) bekezdés a) pontja a 75/2009. (XII. 23.) IRM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^11]: Az 54. § (2) bekezdés g) pontja a 75/2009. (XII. 23.) IRM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^12]: Az 54. § (2) bekezdés j) pontja a 75/2009. (XII. 23.) IRM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^27]: Az 54. § (2) bekezdés a) pontja a 75/2009. (XII. 23.) IRM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^28]: Az 54. § (2) bekezdés g) pontja a 75/2009. (XII. 23.) IRM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^29]: Az 54. § (2) bekezdés j) pontja a 75/2009. (XII. 23.) IRM rendelet 4. § (3) bekezdésével megállapított szöveg.
