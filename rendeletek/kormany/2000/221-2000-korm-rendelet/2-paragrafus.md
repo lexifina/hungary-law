@@ -32,17 +32,18 @@ b) a futamidő alatt az egyik fél kérésére az ügyletet értékelik és a sz
 
 13. értékpapírok beszerzésének piaci értékkülönbözete: a kamatozó értékpapírok kamatot nem tartalmazó vételára (beszerzési értéke) és névértéke közötti különbözet;
 
-14. monetáris célból tartott értékpapír: a Magyar Nemzeti Bank monetáris politikájának megvalósítása céljából vásárolt Magyar Állam által kibocsátott értékpapír;
+14.[^3] monetáris célból tartott értékpapír: a Magyar Nemzeti Bank monetáris politikájának megvalósítása céljából vásárolt értékpapír;
 
 15. monetáris célból kötött swap ügylet: belföldön, belföldi hitelintézetekkel, a monetáris politikai eszköztár részeként kötött, deviza-forint rövid lejáratú swap ügylet;
 
-16.[^3]
+16.[^4]
 
 17. értékpapír: a Tv. szerinti hitelviszonyt megtestesítő értékpapír és tulajdoni részesedést jelentő befektetés.
 
-18.[^4] realizált deviza árfolyamnyereség, illetve -veszteség: egy adott devizanemben fennálló nettó devizapozíció abszolút értékében vett csökkenése esetén az adott napi hivatalos árfolyam és az átlagos beszerzési árfolyam különbségéből eredő nyereség vagy veszteség.
+18.[^5] realizált deviza árfolyamnyereség, illetve -veszteség: egy adott devizanemben fennálló nettó devizapozíció abszolút értékében vett csökkenése esetén az adott napi hivatalos árfolyam és az átlagos beszerzési árfolyam különbségéből eredő nyereség vagy veszteség.
 
 [^1]: A 2. § 9. pontja a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg, a meghatározást e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^2]: A 2. § 12. pontja a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, a meghatározást e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^3]: A 2. § 16. pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^4]: A 2. § 18. pontját a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^3]: A 2. § 14. pontja a 345/2010. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^4]: A 2. § 16. pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^5]: A 2. § 18. pontját a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.

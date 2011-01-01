@@ -1,6 +1,6 @@
 ## KIEGÉSZÍTŐ MELLÉKLET
 
-19. §[^48] (1) A kiegészítő mellékletnek a Tv. előírásain túlmenően tartalmaznia kell a következőket:
+19. §[^52] (1) A kiegészítő mellékletnek a Tv. előírásain túlmenően tartalmaznia kell a következőket:
 
 1. az MNB-nek a központi költségvetéssel, a belföldi hitelintézetekkel szembeni nettó pozíciójának és nettó kamategyenlegének alakulását, összetevőit, meghatározó tényezőit;
 
@@ -24,4 +24,4 @@
 
 (2) A kiegészítő mellékletnek nem képezi részét a cash-flow kimutatás.
 
-[^48]: A 19. § a 242/2003. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^52]: A 19. § a 242/2003. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

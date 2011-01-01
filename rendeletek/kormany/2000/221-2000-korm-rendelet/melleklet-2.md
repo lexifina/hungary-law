@@ -1,4 +1,4 @@
-2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^55]
+2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^60]
 
 ## Az eredménykimutatás előírt tagolása
 
@@ -94,4 +94,4 @@ XXII. Fizetett (jóváhagyott) osztalék
 
 XXIII. Mérleg szerinti eredmény
 
-[^55]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^60]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
