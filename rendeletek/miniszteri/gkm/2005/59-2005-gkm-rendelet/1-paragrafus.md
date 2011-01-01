@@ -8,8 +8,9 @@
 
 a) a GKM Főügyelet feladatait, továbbá a Közlekedési Főügyelet feladatait az Állami Közúti Műszaki és Információs Közhasznú Társaság (e célra kijelölt szervezeti egysége: ÚTINFORM),
 
-b) az Ipari Főügyelet feladatait a Magyar Műszaki Biztonsági Hivatal,
+b)[^1] az Ipari Főügyelet feladatait a Magyar Kereskedelmi Engedélyezési Hivatal és a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága,
 
-c)[^1] az Energetikai Főügyelet feladatait a bányafelügyelet műszaki-biztonsági, munkavédelmi hatáskörébe tartozó ügyekben a Magyar Bányászati és Földtani Hivatal, a villamosenergetikai ügyekben a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság
+c)[^2] az Energetikai Főügyelet feladatait a bányafelügyelet műszaki-biztonsági, munkavédelmi hatáskörébe tartozó ügyekben a Magyar Bányászati és Földtani Hivatal, a villamosenergetikai ügyekben a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság
 
-[^1]: Az 1. § (4) bekezdésének c) pontja a 86/2006. (XII. 26.) GKM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (4) bekezdés b) pontja a 27/2010. (XII. 31.) NGM rendelet 49. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdésének c) pontja a 86/2006. (XII. 26.) GKM rendelet 17. § (1) bekezdésével megállapított szöveg.
