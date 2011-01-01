@@ -82,7 +82,7 @@
 
 ## 2. Részletes vizsgálatok
 
-## A részletes vizsgálatnak célja annak megállapítása, hogy az ivóvíz minősége megfelel-e a jelen rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az OTH, illetve a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól az MgSzH ÉTbI az OTH-val egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző valószínűleg nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték túllépésének veszélyével járna. A radioaktivitásra vonatkozó határértékekre az 1. számú melléklet C) részében található 13., 14. és 15. megjegyzés az irányadó.
+## A részletes vizsgálatnak célja annak megállapítása, hogy az ivóvíz minősége megfelel-e a jelen rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az OTH, illetve a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól az MgSzH az OTH-val egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző valószínűleg nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték túllépésének veszélyével járna. A radioaktivitásra vonatkozó határértékekre az 1. számú melléklet C) részében található 13., 14. és 15. megjegyzés az irányadó.
 
 ## Felszín alatti, nem a 4. § (2) bekezdése szerinti vízbázisok vize esetében a peszticidek, benzol, 1,2-diklór-etán, tetraklór-etilén, triklór-etilén, cisz-1,2-dikór-etilén és – nem klórozott vizek esetében – a trihalometánok csak az első felméréskor – és ha nem voltak kimutathatók az alsó méréshatárt, illetve a határérték 10%-át meghaladó koncentrációban –, akkor utána csak 10 évenként egyszer, illetve vízszennyezés gyanúja esetén mérendők. A 4. § (2) bekezdése szerinti vízbázisok vizére ugyanez vonatkozik, de 5 évenként kell elvégezni a mérést. Benz(a)pirént és policiklusos aromás szénhidrogéneket felszín alatti vízbázisok vize esetében ugyanilyen gyakorisággal, de csak akkor kell mérni, ha a permanganát index (KOIps) értéke a 3,5 mg/l-t (a TOC a 2,0 mg/l-t) meghaladja.
 
@@ -92,7 +92,7 @@
 
 ## élelmiszer előállításra használt ivóvíz esetében
 
-## A vízmintavételi helyeket a vízellátó rendszer üzemeltetője (élelmiszert előállító, feldolgozó stb. üzemben maga az üzem) a 4. § (1) bekezdés a)–c) pontjai szerinti pontokon az ÁNTSZ illetékes intézetével, a 4. § (1) bekezdés d) pontja szerinti ponton az ÁNTSZ illetékes intézetével és az MgSzH területi szervével egyeztetve jelöli ki.
+## A vízmintavételi helyeket a vízellátó rendszer üzemeltetője (élelmiszert előállító, feldolgozó stb. üzemben maga az üzem) a 4. § (1) bekezdés a)-c) pontjai szerinti pontokon az illetékes népegészségügyi szakigazgatási szervvel; a 4. § (1) bekezdés d) pontja szerinti ponton az illetékes népegészségügyi szakigazgatás szervvel és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságával egyeztetve jelöli ki.
 
 ## A víznyerő helyek (kutak), a vízkezelési technológia, a vízellátó rendszerbe betáplálás vagy más hálózati pont (pl. tárolók) mintázása is célszerű, azonban az itt vett minták az alábbi követelmény teljesítése szempontjából nem vehetők figyelembe.
 
@@ -168,6 +168,6 @@
 
 ## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^59]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^65]
 
-[^59]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.
+[^65]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.

@@ -18,7 +18,7 @@
 
 ## 1.7. A termék felhasználási területét (részletezve).
 
-## 1.8.[^61] Az OKI vizsgálati eredményeit és szakvéleményét.
+## 1.8.[^67] Az OKI vizsgálati eredményeit és szakvéleményét.
 
 ## 2. A külön jogszabály hatálya alá nem tartozó, vízkezelésben használt vegyszer esetében az 1.1–1.8. pontokban felsoroltakon kívül:
 
@@ -160,11 +160,11 @@
 
 ## A vizsgálat során kioldódó anyagok mennyiségét felületegységre átszámítva értékelik attól is függően, hogy milyen a felhasználás módja. Műanyagok esetén a kioldódó szerves anyagot (TOC) minden esetben mérni és értékelni kell.
 
-6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^62]
+6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^68]
 
 A szolgáltatott ivóvíz vonatkozásában nyilvántartott
 
 minőségi kifogással érintett települések listája
 
-[^61]: Az 5. számú melléklet 1.8 pontja a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^62]: A 6. számú melléklet a 65/2009. (III. 31.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^67]: Az 5. számú melléklet 1.8 pontja a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^68]: A 6. számú melléklet a 65/2009. (III. 31.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

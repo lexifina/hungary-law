@@ -94,7 +94,7 @@
 
 ## 4. Törekedni kell minél kisebb érték elérésére anélkül, hogy a fertőtlenítés biztonsága csökkenne. Csak ott kell mérni, ahol a vizet ózonnal kezelik. Hatálybalépés a 10. § (6) bekezdése szerint.
 
-## 5. A határérték a megfelelő mintavételi módszerrel – 1 L (egy liter) kifolyatás nélkül vett vízminta egy részének felhasználásával – a fogyasztói csapnál vett vízmintára vonatkozik és jellemző kell hogy legyen a fogyasztó szervezetébe jutó heti átlagos mennyiségre. Ahol kivitelezhető, az 5. § (6) bekezdésével összhangban megállapított egységes mintavételi és vizsgálati módszereket kell alkalmazni. Az ÁNTSZ illetékes intézete köteles figyelembe venni, hogy az előfordulási csúcsértékek okozhatnak káros egészségügyi hatást.
+## 5. A határérték a megfelelő mintavételi módszerrel – 1 L (egy liter) kifolyatás nélkül vett vízminta egy részének felhasználásával – a fogyasztói csapnál vett vízmintára vonatkozik és jellemző kell hogy legyen a fogyasztó szervezetébe jutó heti átlagos mennyiségre. Ahol kivitelezhető, az 5. § (6) bekezdésével összhangban megállapított egységes mintavételi és vizsgálati módszereket kell alkalmazni. Az illetékes népegészségügyi szakigazgatási szerv köteles figyelembe venni, hogy az előfordulási csúcsértékek okozhatnak káros egészségügyi hatást.
 
 ## 6. A nitrát és nitrit együttes koncentrációjára a következő feltételeknek teljesülnie kell:
 
@@ -128,7 +128,7 @@
 
 ## – egyéb hasonló termékek (többek között növekedésszabályozók), valamint metabolitjaik, bomlási és reakció termékeik.
 
-## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (környezetvédelmi felügyelőségek, ÁNTSZ intézetek, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
+## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (környezetvédelmi felügyelőségek, fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervei, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
 
 ## 9. A határérték az egyes peszticidekre külön-külön vonatkozik. Aldrin, dieldrin, heptaklór és heptaklór-epoxid esetében a határérték 0,030 μg/l.
 
@@ -214,7 +214,7 @@
 
 ## 2. A víz nem lehet agresszív.
 
-## 3. Ezt a vízminőségi jellemzőt csak akkor kell mérni, ha a víz felszíni vízből származik vagy felszíni víz által befolyásolt. Amennyiben Clostridiumot kimutatnak, az ÁNTSZ illetékes intézete köteles megvizsgálni, hogy a vízellátás kórokozó mikroorganizmus például Cryptosporidium jelenléte miatt nem jelenthet-e veszélyt az emberi egészségre. Az ÁNTSZ illetékes intézete köteles a vizsgálat eredményéről beszámolni a 9. § szerinti jelentésében.
+## 3. Ezt a vízminőségi jellemzőt csak akkor kell mérni, ha a víz felszíni vízből származik vagy felszíni víz által befolyásolt. Amennyiben Clostridiumot kimutatnak, az illetékes népegészségügyi szakigazgatási szerv köteles megvizsgálni, hogy a vízellátás kórokozó mikroorganizmus például Cryptosporidium jelenléte miatt nem jelenthet-e veszélyt az emberi egészségre. Az illetékes népegészségügyi szakigazgatási szerv köteles a vizsgálat eredményéről beszámolni a 9. § szerinti jelentésében.
 
 ## 4. Tartályokban forgalmazott vízben a minimális pH érték 4,5; szénsavval dúsított vízben még alacsonyabb lehet.
 
@@ -222,7 +222,7 @@
 
 ## 5. Tartályban forgalmazott vízre a jelen melléklet A) részében foglaltak vonatkoznak.
 
-## 6. Az ÁNTSZ illetékes intézete vízműre, illetve mintavételi pontra, a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól az MgSzH területi szerve mintavételi pontra határértéket szabhat meg, amelyet 90%-os gyakorisággal kell betartani; az eseti túllépés e határértéknek legfeljebb a négyszerese lehet. A 37 °C-os telepszámot csak a 2. számú melléklet szerinti esetekben kell meghatározni.
+## 6. Az illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve vízműre, illetve mintavételi pontra; a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága mintavételi pontra határértéket szabhat meg, amelyet 90%-os gyakorisággal kell betartani; az eseti túllépés e határértéknek legfeljebb a négyszerese lehet. A 37 °C-os telepszámot csak a 2. számú melléklet szerinti esetekben kell meghatározni.
 
 ## 7. Tartályban forgalmazott vízre az egység: szám/250 ml.
 
@@ -320,6 +320,6 @@
 
 ## * Az ideiglenes határérték első életévüket be nem töltött csecsemők és várandós anyák ivóvízellátásában nem alkalmazható.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^58]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^64]
 
-[^58]: A 2. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének e) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (2) bekezdése és 9. § (4) bekezdése szerint módosított szöveg.
+[^64]: A 2. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének e) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (2) bekezdése és 9. § (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 85. §-a szerint módosított szöveg.
