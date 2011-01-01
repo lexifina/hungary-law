@@ -1,0 +1,1 @@
+6. § Ez a rendelet 2011. január 1. napján lép hatályba. Ahol e rendelet hatálybalépését megelőzően kiadott jogszabály az ITD Hungary Nonprofit Közhasznú Zártkörűen Működő Részvénytársaságot említi, ott a továbbiakban a Nemzeti Külgazdasági Hivatalt kell érteni.
