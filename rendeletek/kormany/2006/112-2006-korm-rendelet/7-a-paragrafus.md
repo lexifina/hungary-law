@@ -1,6 +1,6 @@
 ## Szociális igazgatási bírság
 
-7/A. §[^50] (1) A szociális foglalkoztatás ellenőrzése során a szociális és gyámhivatal, illetve az FSZH bírságot szabhat ki
+7/A. §[^54] (1)[^55] A szociális foglalkoztatás ellenőrzése során a szociális és gyámhivatal, illetve a Hivatal bírságot szabhat ki
 
 a) a foglalkoztatóval szemben, ha az nem kéri az 5. § (2) bekezdése szerinti esetekben a foglalkoztatási engedély módosítását,
 
@@ -22,4 +22,5 @@ e) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szo
 
 (6) Az intézményvezetőre vonatkozó rendelkezéseket a szociális intézmény vezetőjén kívül arra a személyre is alkalmazni kell, aki az intézményvezető jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
-[^50]: A 7/A. §-t és az azt megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^54]: A 7/A. §-t és az azt megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^55]: A 7/A. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
