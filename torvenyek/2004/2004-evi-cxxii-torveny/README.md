@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-122-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-122-00-00.10 |
 | 2010-07-06 | 2010. évi LVIII. törvény | 2004-122-00-00.11 |
+| 2011-01-01 | 2010. évi CLIII. törvény | 2004-122-00-00.12 |

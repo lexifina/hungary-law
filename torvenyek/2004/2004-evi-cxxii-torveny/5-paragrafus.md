@@ -4,7 +4,7 @@
 
 a) rendelkezik a Ktv. 72. § (1)–(4) bekezdése alapján legalább 10 év közszolgálati jogviszonyként elismert idővel,
 
-b) további foglalkoztatására a Ktv. 17. § (1) bekezdés a)–c) pontjában meghatározott okból nincs lehetőség,
+b) további foglalkoztatására a Ktv. 17. § (1) bekezdésében meghatározott okból nincs lehetőség,
 
 c) a prémiumévek programban való részvétel 3. § (1) bekezdés a)–b) pontjában foglalt feltételeinek nem felel meg, és
 
