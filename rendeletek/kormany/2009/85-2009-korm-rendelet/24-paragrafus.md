@@ -32,7 +32,7 @@ g) településfejlesztéssel összefüggő, a régió pályázati felhívásába
 
 h) életmentő készülékek beszerzése;
 
-i)[^23] önkormányzati fejlesztésekhez kapcsolódó közcélú foglalkoztatás anyag- és eszközbeszerzése.
+i)[^53] önkormányzati fejlesztésekhez kapcsolódó közcélú foglalkoztatás anyag- és eszközbeszerzése.
 
 (3) A (2) bekezdés c) pontja esetében az állami tulajdonú közutakon pályázati támogatással megvalósuló forgalombiztonsági beavatkozások esetén szükséges a Közlekedésfejlesztési Koordinációs Központ vagyonkezelői hozzájárulása. A feladat fejlesztési célú pénzeszköz átadás nélkül, önkormányzati kifizetések mellett kivitelezhető, a befejezést követő vagyon és üzemeltetési kötelezettség térítésmentes átadásával.
 
@@ -40,4 +40,4 @@ i)[^23] önkormányzati fejlesztésekhez kapcsolódó közcélú foglalkoztatás
 
 (5) A (2) bekezdés b) pontja szerinti jogcím alapján minden esetben, valamint a (2) bekezdés c) pont ce) alpontja alapján az elsősorban gazdasági tevékenység végzésére szolgáló ingatlanok megközelítését célzó projektekre vonatkozóan kizárólag csekély összegű támogatás nyújtható, amelyre a 32. § (9) és (10) bekezdésében foglaltakat kell alkalmazni.
 
-[^23]: A 24. § (2) bekezdésének i) pontját a 112/2009. (V. 27.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^53]: A 24. § (2) bekezdésének i) pontját a 112/2009. (V. 27.) Korm. rendelet 7. § (6) bekezdése iktatta be.

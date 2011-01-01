@@ -20,10 +20,10 @@ g) a helyi gazdaságfejlesztéssel összefüggő, a régió pályázati felhív�
 
 h) egészségfejlesztéshez kapcsolódó infrastrukturális fejlesztésekhez;
 
-i)[^24] önkormányzati fejlesztésekhez kapcsolódó közcélú foglalkoztatás anyag- és eszközbeszerzése.
+i)[^54] önkormányzati fejlesztésekhez kapcsolódó közcélú foglalkoztatás anyag- és eszközbeszerzése.
 
 (3) A Tanács a támogatást a régióhoz tartozó leghátrányosabb kistérségekből érkező pályázatok között az egyes kistérségek lakónépessége arányában osztja el. A kistérség lakónépessége arányában megállapított keretének erejéig forráshiány miatt pályázat nem utasítható el. Amennyiben az adott kistérségből nem érkezik be olyan összegű támogatási igény, mint amennyi az adott kistérségre lakónépesség alapján megállapított támogatási keret, akkor a Tanács az adott kistérségre jutó támogatási keret fel nem használt részét más kistérségekben megvalósuló fejlesztésekre fordíthatja.
 
 (4) A (2) bekezdés h) pontja szerinti jogcím alapján az elsősorban gazdasági tevékenységet támogató fejlesztésekre vonatkozóan kizárólag csekély összegű támogatás nyújtható, amelyre a 32. § (9) és (10) bekezdésében foglaltakat kell alkalmazni.
 
-[^24]: A 25. § (2) bekezdésének i) pontját a 112/2009. (V. 27.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^54]: A 25. § (2) bekezdésének i) pontját a 112/2009. (V. 27.) Korm. rendelet 7. § (7) bekezdése iktatta be.

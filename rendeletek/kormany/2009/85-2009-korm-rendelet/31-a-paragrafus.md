@@ -1,4 +1,4 @@
-31/A. §[^27] (1) A VTT terhére támogatásban részesíthető a Jánd-Gulácsi (Beregi) árapasztó tározó megvalósításához kapcsolódóan az érintett településeken az önkormányzati belterületi bel- és csapadékvíz-elvezetési célú, továbbá egyes szennyvíz-elvezetési és -kezelési célú infrastrukturális fejlesztések engedélyezési tervdokumentációjának elkészítése és az engedélyezési eljárás lefolytatása. Az engedélyezési tervdokumentáció pénzügyileg és műszakilag külön-külön megvalósítható, üzembe helyezhető és működtethető egységek kialakítását tartalmazza.
+31/A. §[^68] (1) A VTT terhére támogatásban részesíthető a Jánd-Gulácsi (Beregi) árapasztó tározó megvalósításához kapcsolódóan az érintett településeken az önkormányzati belterületi bel- és csapadékvíz-elvezetési célú, továbbá egyes szennyvíz-elvezetési és -kezelési célú infrastrukturális fejlesztések engedélyezési tervdokumentációjának elkészítése és az engedélyezési eljárás lefolytatása. Az engedélyezési tervdokumentáció pénzügyileg és műszakilag külön-külön megvalósítható, üzembe helyezhető és működtethető egységek kialakítását tartalmazza.
 
 (2) Az (1) bekezdés szerinti célra megítélt támogatás intenzitása legfeljebb 100% lehet.
 
@@ -10,4 +10,4 @@
 
 (6) Az (1) bekezdés szerinti támogatásra a 31. § rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni. Az (1) bekezdés szerinti támogatásra a 31. § (7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
-[^27]: A 31/A. §-t a 245/2009. (X. 30.) Korm. rendelet 2. §-a iktatta be.
+[^68]: A 31/A. §-t a 245/2009. (X. 30.) Korm. rendelet 2. §-a iktatta be.
