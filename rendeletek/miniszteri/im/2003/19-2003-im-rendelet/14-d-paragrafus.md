@@ -1,15 +1,3 @@
-## 14/D. §[^25] E rendelet rendelkezéseit a Hivatal lobbitevékenység ellenőrzésével kapcsolatos feladatait ellátó igazságügyi alkalmazottra azzal az eltéréssel kell alkalmazni, hogy a szóbeli vizsga tárgyai
+## 14/C. §[^12]
 
-a) a lobbitevékenységre vonatkozó jogszabályi rendelkezések,
-
-b) a lobbitevékenység ellenőrzését ellátó szervezet és feladatai,
-
-c) közigazgatási eljárási jogi ismeretek,
-
-d) az igazságügyi alkalmazottak szolgálati jogviszonyának főbb szabályai,
-
-e) adatvédelmi, statisztikai alapismeretek,
-
-f) ügyviteli és iratkezelési szabályok.
-
-[^25]: A 14/D. §-t az 1/2007. (I. 25.) IRM rendelet 26. §-a iktatta be. E módosító rendelet 29. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^12]: A 14/C. §-t a 12/2006. (III. 23.) IM rendelet 29. §-a iktatta be, hatályon kívül helyezte a 22/2010. (XII. 28.) KIM rendelet 11. §-a.
