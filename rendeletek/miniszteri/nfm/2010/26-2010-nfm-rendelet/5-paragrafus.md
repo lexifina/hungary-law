@@ -1,0 +1,1 @@
+## „c) 1,30 méternél nagyobb (1,30 m<d), az ilyen tengelycsoport együttes megengedett legnagyobb tengelyterhelése alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági vontatóból vagy lassú járműből és alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági pótkocsiból álló járműszerelvény esetében 32,0 tonna.”
