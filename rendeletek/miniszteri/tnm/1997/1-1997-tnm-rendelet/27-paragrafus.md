@@ -1,3 +1,3 @@
-## 26. §[^24]
+## 26. §[^29]
 
-[^24]: A 26. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.
+[^29]: A 26. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.

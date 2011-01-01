@@ -1,7 +1,7 @@
-## 37. §[^34] A Hszt. 56. §-a (6) bekezdésének c) pontja szerinti méltatlanság megállapításának részletes eljárási szabályait a polgári nemzetbiztonsági szolgálatok fegyelmi szabályzata állapítja meg.
+## 37. §[^39]
 
 ## A szolgálati viszony megszűnésére vonatkozó
 
 ## egyéb szabályok
 
-[^34]: A 37. § a 2/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
+[^39]: A 37. §-t a 8/2010. (XII. 22.) BM rendelet 9. §-a hatályon kívül helyezte.

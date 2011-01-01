@@ -1,7 +1,9 @@
-## 17. § A berendelt
+## 17. §[^19] A berendelt
 
-a) felett a munkáltatói jogokat – a kinevezés és felmentés kivételével – az irányítást segítő szervezet vezetője gyakorolja;
+a) felett a munkáltatói jogköröket – a kinevezés és felmentés kivételével – a foglalkoztató szerv gyakorolja,
 
-b) feladatait a munkaköri leírása, valamint az irányítást segítő szervezet vezetőjének rendelkezései szerint teljesíti;
+b) feladatait a munkaköri leírásban foglaltak, valamint a foglalkoztató szerv vezetőjének utasításai szerint teljesíti,
 
-c) feladatai teljesítése során a belső rendelkezések és az irányítást segítő szervezet munkarendjének betartásával jár el.
+c) feladatai teljesítése során a belső rendelkezések és a foglalkoztató szerv munkarendjének betartásával jár el.
+
+[^19]: A 17. § a 8/2010. (XII. 22.) BM rendelet 4. §-ával megállapított szöveg.

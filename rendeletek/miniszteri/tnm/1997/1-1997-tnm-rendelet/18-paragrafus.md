@@ -14,7 +14,7 @@ f) a Hszt. 293. §-ában meghatározott tanácsosi és főtanácsosi címmel já
 
 g) a Hszt. 293. §-ában meghatározott személyi és gépjárművezetői pótlék, a pótlékkal elismert tevékenység kifejtésének tényleges idejére;
 
-h)[^17] a nyelvpótlék, a nemzetbiztonsági pótlék és a Hszt. 285. §-ának (2) bekezdésében meghatározott szerv személyi állományának pótléka;
+h)[^20] a nyelvpótlék, a nemzetbiztonsági pótlék és a Hszt. 285. §-ának (2) bekezdésében meghatározott szerv személyi állományának pótléka;
 
 i) a Hivatalnál rendszeresített címek és elismerések elnyerése;
 
@@ -30,8 +30,9 @@ n) a már megkezdett tanulmányok folytatásához való jog;
 
 o) a Hivatalnál magasabb beosztás betöltésére, illetve felsőoktatási intézménybe felvételre meghirdetett pályázaton való részvétel és a pályázat elnyerése esetén – a berendelés megszüntetésével – a beosztás betöltése, illetve a tanulmányok folytatása.
 
-(2) A ht. állomány berendelt tagjának az (1) bekezdésben meghatározottakon túl jutalom adható a vonatkozó jogszabályokban és belső rendelkezésekben meghatározott szabályok szerint. A jutalom mértékét az irányítást segítő szervezet vezetője határozza meg.
+(2)[^21] A ht. állomány berendelt tagjának az (1) bekezdésben meghatározottakon túl jutalom adható a vonatkozó jogszabályokban és belső rendelkezésekben meghatározott szabályok szerint. A jutalom mértékét a foglalkoztató szerv vezetője határozza meg.
 
 (3) A berendeltet a szolgálati viszonyából eredően megillető jogosultságokat számára az a Hivatal biztosítja, amelynek rendelkezési állományába tartozik.
 
-[^17]: A 18. § (1) bekezdésének h) pontja a 4/2005. (VI. 25.) MeHVM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 18. § (1) bekezdésének h) pontja a 4/2005. (VI. 25.) MeHVM rendelet 1. §-ával megállapított szöveg.
+[^21]: A 18. § (2) bekezdése a 8/2010. (XII. 22.) BM rendelet 5. §-ával megállapított szöveg.

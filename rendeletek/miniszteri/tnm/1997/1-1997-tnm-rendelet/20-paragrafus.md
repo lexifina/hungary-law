@@ -1,4 +1,4 @@
-20. § (1) A miniszter az érintett főigazgató véleményének figyelembevételével megszünteti a berendelést, ha
+## 20. §[^25] A miniszter – az érintett főigazgató előzetes tájékoztatásával – megszünteti a berendelést, ha
 
 a) megszüntetése a szolgálat érdekében vagy elnyert pályázat miatt szükségessé vált;
 
@@ -12,4 +12,4 @@ e) a berendelt a beosztásával járó kötelezettségeit nem teljesíti, illet�
 
 f) a miniszter és a berendelt között erre vonatkozóan megegyezés született.
 
-(2) A berendelt kérésére a berendelés megszüntethető a beosztással, munkakörrel összefüggő feladatok, követelmények megváltozása vagy méltányolható egyéni (családi, szociális stb.), illetőleg egészségügyi ok miatt. A kérelemről az érintett főigazgató véleményének figyelembevételével a miniszter 30 napon belül dönt.
+[^25]: A 20. § a 8/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
