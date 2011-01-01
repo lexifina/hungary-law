@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-63-00-00
 | --- | --- | --- |
 | 2007-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-63-00-00.14 |
 | 2010-04-01 | 2009. évi CLV. törvény | 1992-63-00-00.15 |
+| 2011-01-01 | 2010. évi CXXVI. törvény | 1992-63-00-00.16 |
