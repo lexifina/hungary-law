@@ -1,0 +1,1 @@
+A Kormány a jogalkotásról szóló 2010. évi CXXX. törvény 30. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
