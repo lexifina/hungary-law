@@ -1,5 +1,3 @@
-## veszti hatályát. E bekezdés 2011. január 1-jén veszti hatályát.
-
 ## Átmeneti rendelkezések
 
 36. § (1)[^36]
