@@ -19,11 +19,3 @@ f) a 25. § (5)–(6) bekezdése szerinti juttatás kifizetésének részletes s
 (4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Nemzetgazdasági Minisztérium fejezet, 25. cím, 44. alcím Idegenforgalmi adó differenciált kiegészítése igénylésének, döntési rendszerének, folyósításának és elszámolásának részletes szabályairól 2011. január 31-ig rendeletet alkosson.
 
 (5) Az Országgyűlés elrendeli, hogy a Kormány a 42. § (1) bekezdése szerinti humánszolgáltatások tekintetében 2011. június 30-ig vizsgálja felül a hatályos szabályozást és tegyen javaslatot a finanszírozási rendszer átalakítására.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
