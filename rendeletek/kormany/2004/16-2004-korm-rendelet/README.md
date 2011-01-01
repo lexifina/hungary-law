@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-16-20-2
 | --- | --- | --- |
 | 2009-12-31 | 2004-16-20-22.10 | 16/2004. (II. 6.) Korm. rendelet |
 | 2010-05-29 | 2004-16-20-22.11 | 171/2010. (V. 13.) Korm. rendelet |
+| 2011-01-01 | 2004-16-20-22.12 | 289/2010. (XII. 21.) Korm. rendelet |
