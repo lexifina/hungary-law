@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-a) természetes fürdővíz: a felszíni vizek minden olyan eleme, amelyek használatát az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) kistérségi intézete (a továbbiakban: kistérségi intézet) fürdési célra engedélyezte (a továbbiakban: fürdővíz), és amelyre nem áll fenn a fürdés állandó hatósági tilalma;
+a)[^1] természetes fürdővíz: a felszíni vizek minden olyan eleme, amelyek használatát a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézete (a továbbiakban: kistérségi népegészségügyi intézet fürdési célra engedélyezte (a továbbiakban: fürdővíz), és amelyre nem áll fenn a fürdés állandó hatósági tilalma;
 
 b) természetes fürdőhely: fürdési célra engedélyezett víz és a hozzá tartozó vízparti terület (a továbbiakban: fürdőhely);
 
@@ -33,3 +33,5 @@ l) cianobaktérium burjánzás: a cianobaktériumok vízvirágzása vízszínez�
 m) makrofiton: magasabbrendű vízinövények;
 
 n) fitoplankton: vízben lebegő alacsonyrendű növényi szervezetek összessége.
+
+[^1]: A 2. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 213. § a) pontja szerint módosított szöveg.

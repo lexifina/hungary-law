@@ -24,9 +24,9 @@ j) a szennyezés kockázatának csökkentését szolgáló tevékenység.
 
 (2) A fürdővízminőség felügyelettel kapcsolatos feladatok végrehajtásáért az országos tisztifőorvos felel.
 
-(3)[^15]
+(3)[^24]
 
-(4)[^16] Az országos tisztifőorvos:
+(4)[^25] Az országos tisztifőorvos:
 
 a) rendszeresen értékeli a fürdővíz biztonsági helyzetet,
 
@@ -36,7 +36,7 @@ c) szakmai ajánlásokat dolgoz ki annak érdekében, hogy a 2015. évi fürdés
 
 (5) A határon átnyúló hatások által érintett fürdővizek minőségének ellenőrzése az érintett tagállamok, illetve az Európai Unió tagjai közé nem tartozó szomszédos államok közös felügyeletével történik.
 
-(6)[^17] Az országos tisztifőorvos kidolgozza a nyilvánosság fürdővízminőség-felügyeleti feladatok végrehajtásába történő bevonására vonatkozó szakmai ajánlását, különös tekintettel:
+(6)[^26] Az országos tisztifőorvos kidolgozza a nyilvánosság fürdővízminőség-felügyeleti feladatok végrehajtásába történő bevonására vonatkozó szakmai ajánlását, különös tekintettel:
 
 a) a nyilvánosság által megfogalmazott észrevételek, javaslatok vagy panaszok fogadásának, nyilvántartásának és megválaszolásának rendjére,
 
@@ -44,12 +44,12 @@ b) az a) pont szerinti információ elemzésének és hasznosításának módjá
 
 c) az a) pontban foglaltak megválaszolásának formai és tartalmi követelményeire (beleértve ezek határidejét is).
 
-(7)[^18] Az országos tisztifőorvos kidolgozza a cianobaktérium kockázat esetén javasolt tevékenységekre, illetve intézkedésekre vonatkozó szakmai ajánlásait.
+(7)[^27] Az országos tisztifőorvos kidolgozza a cianobaktérium kockázat esetén javasolt tevékenységekre, illetve intézkedésekre vonatkozó szakmai ajánlásait.
 
-(8)[^19] Az országos tisztifőorvos szakmai ajánlásait és közérdekű tájékoztatásait közzéteszi az ÁNTSZ honlapján.
+(8)[^28] Az országos tisztifőorvos szakmai ajánlásait és közérdekű tájékoztatásait közzéteszi az ÁNTSZ honlapján.
 
-[^15]: A 12. § (3) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
-[^16]: A 12. § (4) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^17]: A 12. § (6) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^18]: A 12. § (7) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^19]: A 12. § (8) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^24]: A 12. § (3) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^25]: A 12. § (4) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 12. § (6) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^27]: A 12. § (7) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^28]: A 12. § (8) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.

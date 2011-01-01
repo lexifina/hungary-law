@@ -1,8 +1,8 @@
 ## Nyilvánosság tájékoztatása
 
-11. § (1) A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a kistérségi és regionális intézetnek, valamint az OKI-nak értékelés és a nyilvánosság tájékoztatása céljából.
+11. § (1)[^20] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a kistérségi népegészségügyi intézetnek és a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének, valamint az OKI-nak értékelés és a nyilvánosság tájékoztatása céljából.
 
-(2) A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a kistérségi, illetve a regionális intézet felvilágosítást ad.
+(2)[^21] A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a kistérségi népegészségügyi intézet, illetve a megyei népegészségügyi szakigazgatási szerv felvilágosítást ad.
 
 (3) A kistérségi intézet elrendeli a fürdési tilalom alá eső fürdővizek fürdést tiltó táblával történő megjelölését.
 
@@ -46,7 +46,7 @@ h) a fürdővízzel kapcsolatos teljes körű információ hozzáférésének m�
 
 (8) A (7) bekezdés a)–g) pontjaiban foglalt információt az üzemeltető kérésére a 13. §-ban megjelölt Bizottság az üzemeltető rendelkezésére bocsátja.
 
-(9) A regionális intézet illetékességi területéről a megfelelő helyi, illetve országos médiában, valamint a honlapján – indokolt esetben több nyelven is – minden évben közzéteszi:
+(9)[^22] A megyei népegészségügyi szakigazgatási szerv illetékességi területéről a megfelelő helyi, illetve országos médiában, valamint a honlapján – indokolt esetben több nyelven is – minden évben közzéteszi:
 
 a) a fürdővizek listáját legkésőbb május 31-éig,
 
@@ -66,6 +66,11 @@ dd) a fürdőzők szennyezéssel összefüggő egészségügyi kockázatának me
 
 de) a szennyezés okainak elhárítására tett intézkedésekről.
 
-(10) A regionális intézet a (9) bekezdés b)–d) pontjaiban foglalt információt legkésőbb minden év november 15-éig tesz közzé.
+(10)[^23] A megyei népegészségügyi szakigazgatási szerv a (9) bekezdés b)–d) pontjaiban foglalt információt legkésőbb minden év november 15-éig tesz közzé.
 
 (11) Az OTH minden fürdési idény kezdete előtt legkésőbb május 31-ig az ÁNTSZ honlapján közzéteszi az engedélyezett fürdővizek és fürdőhelyek, valamint a tartós fürdési tilalom alá eső fürdővizek, illetve fürdőhelyek listáját.
+
+[^20]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § f) pontja szerint módosított szöveg.
+[^21]: A 11. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § g) pontja szerint módosított szöveg.
+[^22]: A 11. § (9) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 213. § h) pontja szerint módosított szöveg.
+[^23]: A 11. § (10) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § h) pontja szerint módosított szöveg.
