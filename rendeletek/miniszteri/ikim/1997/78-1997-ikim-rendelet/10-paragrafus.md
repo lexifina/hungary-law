@@ -2,23 +2,21 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba. Rendelkezéseit a hatálybalépést követően kezdeményezett eljárások esetében kell alkalmazni.
 
-(2)[^8]
+(2)[^10]
 
-Melléklet a 78/1997. (XII. 30.) IKIM rendelethez[^9]
-
-Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárási díjai
+Melléklet a 78/1997. (XII. 30.) IKIM rendelethez[^11]
 
 Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárási díjai
 
 | A díj számjele | Megnevezés | Díjszámítási alap | Szorzószám |
 
-| 01000 | 1. HOSSZÚSÁGMÉRŐK |  |  |
+| 01000 | 1. HOSSZÚSÁGMÉRŐK |  |  |
 
 | 01100 | Hosszúságmérők |  |  |
 
 | 01111 | Kereskedelmi hosszmérték (méterrúd) | db | 0,3 |
 
-| 01112 | Kereskedelmi hosszúságmérő gép | db | 14 |
+| 01112 | Kiterjedést-mérő műszer (hosszúság, területmérő, többdimenziós mérőeszköz) | db | 13 |
 
 | 01200 | Tartályban lévő folyadék szintjének méréséhez használt mérőszalag és mérőléc |  |  |
 
@@ -38,7 +36,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 01314 | Szintmérő kódadó | db | 4 |
 
-| 02000 | 2. ŰRMÉRTÉKEK |  |  |
+| 02000 | 2. ŰRMÉRTÉKEK |  |  |
 
 | 02111 | Űrmérték 1 cl–1 l | db | 0,04 |
 
@@ -46,7 +44,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 02113 | Űrmérték 100 l és nagyobb | db | 1 |
 
-| 03000 | 3. SÚLYOK |  |  |
+| 03000 | 3. SÚLYOK |  |  |
 
 | 03100 | M2 és M3 pontossági osztályúak |  |  |
 
@@ -58,7 +56,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 03211 | M1 súly 1 mg–200 g | db | 0,1 |
 
-| 03212 | M1 súly 500 g–20 kg | db | 0,2 |
+| 03212 | M1 súly 500 g–20-kg | db | 0,2 |
 
 | 03213 | M1 súly 50 kg–200 kg | db | 0,5 |
 
@@ -80,11 +78,11 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 03511 | E2 pontossági osztályú súly | db | 3,5 |
 
-| 03600 | E1 pontossági osztályúak |  |  |
+| 03600 | El pontossági osztályúak |  |  |
 
-| 03611 | E1 pontossági osztályú súly | db | 4,6 |
+| 03611 | El pontossági osztályú súly | db | 4,6 |
 
-| 04000 | 4. MÉRLEGEK |  |  |
+| 04000 | 4. MÉRLEGEK |  |  |
 
 | 04100 | I pontossági osztályú nem automatikus működésű mérlegek |  |  |
 
@@ -100,7 +98,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 04311 | III és IIII p. o. mérleg 2 kg méréshatárig | db | 0,8 |
 
-| 04312 | III és IIII p. o. mérleg 20 kg méréshatárig | db | 1,5 |
+| 04312 | III és IIII p. o. mérleg 20 kg méréshatárig | db | 1,6 |
 
 | 04313 | III és IIII p. o. mérleg 500 kg méréshatárig | db | 2,5 |
 
@@ -112,7 +110,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 04317 | III és IIII p. o. mérleg 30 t méréshatárig | db | 18 |
 
-| 04318 | III és IIII p. o. mérleg 60 t méréshatárig | db | 20 |
+| 04318 | III és IIII p. o. mérleg 60 t méréshatárig | db | 22 |
 
 | 04319 | III és IIII p. o. mérleg 60 t méréshatár felett | db | 25 |
 
@@ -124,17 +122,17 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 04500 | Automatikus működésű mérlegek |  |  |
 
-| 04511 | Folyamatosan összegző automatikus működésű mérleg (szállítószalag) | db | 34 |
+| 04511 | Folyamatosan, szakaszosan összegző adagoló mérleg | db | 34 |
 
-| 04512 | Automatikus működésű ellenőrző és osztályozó mérleg | db | 40 |
+| 04512 | Automatikus jelölő mérleg | db | 40 |
 
-| 05000 | 5. KÖZÚTI KERÉK- ÉS TENGELYTERHELÉS-MÉRŐK |  |  |
+| 05000 | 5. KÖZÚTI KERÉK- ÉS TENGELYTERHELÉS-MÉRŐK |  |  |
 
 | 05111 | Kerékterhelés-mérő 10 t méréshatárral | db | 14 |
 
 | 05211 | Tengelyterhelés-mérő 15 t méréshatárral | db | 40 |
 
-| 06000 | 6. KÖZÚTI ELLENŐRZÉSRE SZOLGÁLÓ GÉPJÁRMŰSEBESSÉG-MÉRŐK |  |  |
+| 06000 | 6. KÖZÚTI ELLENŐRZÉSRE SZOLGÁLÓ GÉPJÁRMŰSEBESSÉG-MÉRŐK |  |  |
 
 | 06111 | Radar elven működő berendezés | db | 30 |
 
@@ -142,29 +140,23 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 06211 | Lézersugárral mérő berendezés | db | 20 |
 
-| 07000 | 7. GÉPJÁRMŰ KIPUFOGÓGÁZ GÁZELEMZŐK |  |  |
+| 07000 | 7. GÉPJÁRMŰ KIPUFOGÓGÁZ GÁZELEMZŐK |  |  |
 
 | 07111 | Többkomponensű gázelemző | db | 11 |
 
 | 07211 | CO-mérő | db | 7 |
 
-| 08000 | 8. GÉPJÁRMŰ-GUMIABRONCSNYOMÁS MÉRŐK |  |  |
+| 08000 | 8. GÉPJÁRMŰ-GUMIABRONCSNYOMÁS MÉRŐK |  |  |
 
 | 08111 | Gépjármű-gumiabroncsnyomás mérő, légakkus és telepített kivitel | db | 1,2 |
 
 | 08112 | Gépjármű-gumiabroncsnyomás mérő, hordozható kivitel | db | 0,5 |
 
-| 09000 | 9. VITELDÍJJELZŐK |  |  |
+| 09000 | 9. VITELDÍJJELZŐK |  |  |
 
 | 09111 | Viteldíjjelző beépítve | db | 3 |
 
-| 10000 | 10. GÉPJÁRMŰ MENETÍRÓK |  |  |
-
-| 10111 | Menetíró kiszerelve | db | 1 |
-
-| 10112 | Menetíró beépítve | db | 2,5 |
-
-| 11000 | 11. VÍZMÉRŐK (HIDEG ÉS MELEG VÍZRE) |  |  |
+| 11000 | 10. VÍZMÉRŐK (HIDEG ÉS MELEG VÍZRE) |  |  |
 
 | 11111 | Vízmérő 5 m3/h-ig | db | 0,12 |
 
@@ -176,13 +168,13 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 11311 | Impulzusadó vízmérőhöz | db | 0,3 |
 
-| 12000 | 12. VÍZTŐL ELTÉRŐ FOLYADÉKOK MENNYISÉGÉNEK MEGHATÁROZÁSA |  |  |
+| 12000 | 11. VÍZTŐL ELTÉRŐ FOLYADÉKOK MENNYISÉGÉNEK MEGHATÁROZÁSA |  |  |
 
 | 12100 | Üzemanyagmérők |  |  |
 
-| 12111 | Üzemanyagmérő töltőpisztolyonként | db | 2,5 |
+| 12111 | Üzemanyagmérő töltőpisztolyonként | db | 2,8 |
 
-| 12115 | Autógáz-mérő PB gázra | db | 7 |
+| 12115 | Autógáz-mérő PB-gázra | db | 7 |
 
 | 12116 | Autógáz-mérő földgázra | db | 10 |
 
@@ -208,7 +200,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 12321 | Tároló tartály alapdíja 200 m3-ig | db | 7,5 |
 
-| 12322 | Fokozati díja névleges űrtartalomra vetített m3-enként | db | 0,7 |
+| 12322 | Fokozati díja névleges űrtartalomra vetített m3-enként | db | 1 |
 
 | 12330 | Tároló tartályok 200 m3-től |  |  |
 
@@ -228,7 +220,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 12351 | Tároló tartály alapdíja | db | 75 |
 
-| 12352 | Fokozati díja névleges űrtartalomra vetített m3-enként | db | 0,1 |
+| 12352 | Fokozati díja névleges űrtartalomra vetített m3-enként | db | 0,15 |
 
 | 12500 | Szeszmérők |  |  |
 
@@ -236,7 +228,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 12513 | Szeszfokoló | db | 1,2 |
 
-| 13000 | 13. SŰRŰSÉGMÉRŐK |  |  |
+| 13000 | 12. SŰRŰSÉGMÉRŐK |  |  |
 
 | 13111 | Areométer | db | 1,2 |
 
@@ -244,9 +236,11 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 13114 | Folyamatos működésű sűrűségmérő | db | 34 |
 
-| 14000 | 14. GÁZMÉRŐK |  |  |
+| 13211 | Légzési alkoholmérő | db | 16 |
 
-| 14111 | Gázmérő Qmax 6 m3/h-ig | db | 0,12 |
+| 14000 | 13. GÁZMÉRŐK |  |  |
+
+| 14111 | Gázmérő Qmax 6 m3/h-ig | db | 0,15 |
 
 | 14112 | Gázmérő Qmax 10 m3/h-ig | db | 0,3 |
 
@@ -258,7 +252,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 14116 | Gázmérő korrektor | db | 15 |
 
-| 15000 | 15. HŐFOGYASZTÁSMÉRŐK |  |  |
+| 15000 | 14. HŐFOGYASZTÁSMÉRŐK |  |  |
 
 | 15111 | Hőfogyasztásmérő átfolyásmérője 10 m3/h-ig | db | 1,5 |
 
@@ -270,13 +264,13 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 15117 | Kompakt hőfogyasztásmérő 5 m3/h-ig | db | 6 |
 
-| 16000 | 16. ÁRAM- ÉS FESZÜLTSÉGVÁLTÓK |  |  |
+| 16000 | 15. ÁRAM- ÉS FESZÜLTSÉGVÁLTÓK |  |  |
 
 | 16100 | Áramváltók |  |  |
 
 | 16111 | 0,1 és 0,2 p. o., áramváltó alapdíj | db | 0,6 |
 
-| 16112 | 0,1 és 0,2 p. o., áramváltó fokozati díj 100 A-ként | db | 0,3 |
+| 16112 | 0,1 és 0,2 p. o., áramváltó fokozati díj 100 A-enként | db | 0,3 |
 
 | 16113 | Áramváltó áttételvizsgálat, mért értékenként | db | 0,3 |
 
@@ -320,7 +314,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 16252 | 0,5 p. o. feszültségváltó több szekunderkörös háromfázisú 10 kV felett | db | 6 |
 
-| 17000 | 17. VILLAMOS FOGYASZTÁSMÉRŐK |  |  |
+| 17000 | 16. VILLAMOS FOGYASZTÁSMÉRŐK |  |  |
 
 | 17100 | Elektromechanikus fogyasztásmérő 1 pontossági osztályú |  |  |
 
@@ -330,9 +324,9 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 17200 | Elektromechanikus fogyasztásmérő, 2 pontossági osztályú |  |  |
 
-| 17211 | 2 p. o. egyfázisú fogyasztásmérő | db | 0,15 |
+| 17211 | 2 p. o. egyfázisú fogyasztásmérő | db | 0,16 |
 
-| 17212 | 2 p. o. két- vagy háromfázisú fogyasztásmérő | db | 0,3 |
+| 17212 | 2 p. o. két- vagy háromfázisú fogyasztásmérő | db | 0,4 |
 
 | 17213 | 2 p. o. háromfázisú fogyasztásmérő mellékkészülékkel | db | 1,5 |
 
@@ -346,7 +340,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 17411 | 0,5 p. o. elektronikus fogyasztásmérő alapdíja háromfázisra | db | 2,5 |
 
-| 17412 | Fokozati díj tarifánként, maximum mutatónként, egyéb funkciónk száma szerint | db | 0,3 |
+| 17412 | Fokozati díj tarifánként, maximum mutatónként, egyéb funkciók száma szerint | db | 0,3 |
 
 | 17420 | Elektronikus rendszerű, 1 pontossági osztályú fogyasztásmérő |  |  |
 
@@ -380,15 +374,15 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 17713 | Elektronikus kapcsolóóra 10 db felett | db | 1 |
 
-| 18000 | 18. SUGÁRVÉDELMI MÉRŐESZKÖZÖK |  |  |
+| 18000 | 17. SUGÁRVÉDELMI MÉRŐESZKÖZÖK |  |  |
 
 | 18100 | Dózismérők |  |  |
 
-| 18111 | dózismérő 1 μSv/h feletti méréshatárral | db | 11 |
+| 18111 | Dózismérő 1 μSv/h feletti méréshatárral | db | 11 |
 
-| 18112 | dózismérő 1 μSv/h alatti méréshatárral | db | 16 |
+| 18112 | Dózismérő 1 μSv/h alatti méréshatárral | db | 16 |
 
-| 18113 | orvosi dózismérők detektoronként és sug. minőségenként | db | 16 |
+| 18113 | Orvosi dózismérők detektoronként és sug. minőségenként | db | 16 |
 
 | 18200 | Szennyezettségmérők |  |  |
 
@@ -396,25 +390,25 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 18212 | Szennyezettségmérő kettőnél több radionukliddal | db | 14 |
 
-| 19000 | 19. ZAJSZINTMÉRŐK |  |  |
+| 19000 | 18. ZAJSZINTMÉRŐK |  |  |
 
 | 19111 | Zajszintmérő | db | 17 |
 
 | 19112 | Integráló zajszintmérő | db | 34 |
 
-| 20000 | 20. SZERENCSEJÁTÉK CÉLJÁRA SZOLGÁLÓ ESZKÖZÖK |  |  |
+| 20000 | 19. SZERENCSEJÁTÉK CÉLJÁRA SZOLGÁLÓ ESZKÖZÖK |  |  |
 
 | 20110 | Pénznyerő automata I. |  |  |
 
 | 20111 | Pénznyerő automata I. | db | 14 |
 
-| 20112 | Többjátékhelyes pénznyerő automata I. további játékhelyenként | db | 7 |
+| 20112 | Több játékhelyes pénznyerő automata I. további játékhelyenként | db | 7 |
 
 | 20120 | Pénznyerő automata II. |  |  |
 
 | 20121 | Pénznyerő automata II. | db | 10 |
 
-| 20122 | Többjátékhelyes pénznyerő automata II. további játékhelyenként | db | 5 |
+| 20122 | Több játékhelyes pénznyerő automata II. további játékhelyenként | db | 5 |
 
 | 20130 | Kaszinó eszközök |  |  |
 
@@ -422,27 +416,25 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 20132 | Rulettkerék | db | 40 |
 
-| 20141 | Részleges hitelesítés (IEK-, programhordozó javítása vagy számlálócsere esetén) | db | 7 |
-
-| 20151 | Üzemen kívül helyezett automata IEK-ének kiolvasása, dokumentálás | db | 4 |
+| 20151 | Üzemen kívül helyezett automata IEK-ének kiolvasása, az adathordozó hitelesítése | db | 8 |
 
 | 20160 | Játékautomata |  |  |
 
 | 20161 | Játékautomata hitelesítés | db | 3 |
 
-| 20162 | Többjátékhelyes játékautomata további játékhelyenként | db | 1 |
+| 20162 | Több játékhelyes játékautomata további játékhelyenként | db | 1 |
 
 | 20171 | Jegyzőkönyv felvétel IEK-, programhordozó javítása vagy számlálócsere esetén | db | 5 |
 
-| 20211 | Többjátékhelyes automaták összeplombálása, központi kreditkulcsos rendszer vagy jackpot rendszer hitelesítés | db | 6 |
+| 20211 | Több játékhelyes automaták összeplombálása, központi kreditkulcsos rendszer vagy jackpot rendszer hitelesítés | db | 6 |
 
 | 20212 | Programhordozó hitelesítés | db | 1 |
 
-| 20213 | Bizonyítvány módosítás (záradékolás) | db | 1 |
+| 20213 | Bizonyítványmódosítás (záradékolás) | db | 1 |
 
-| 20214 | Gyártói eredetiség igazolás kiadása | db | 1 |
+| 20214 | Gyártói eredetiségigazolás kiadása | db | 1 |
 
-| 21000 | 21. IDŐRÁFORDÍTÁS ALAPJÁN SZÁMÍTOTT DÍJAK |  |  |
+| 21000 | 20. IDŐRÁFORDÍTÁS ALAPJÁN SZÁMÍTOTT DÍJAK |  |  |
 
 | 21111 | Típusvizsgálat | óra | 4 |
 
@@ -454,15 +446,11 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 21511 | Hitelesítést helyettesítő mérőeszköz-minősítésre történő feljogosítási eljárás | óra | 3 |
 
-| 21521 | Hitelesítő laboratóriummá nyilvánítási eljárás | óra | 3 |
-
 | 21531 | Helyszíni szemle, helyszíni lezárás | óra | 4 |
 
 | 21541 | Egyéb engedélyezési eljárás | óra | 3 |
 
-| 21551 | Közreműködésre feljogosító eljárás | óra | 3 |
-
-| 22000 | 22. PÓTDÍJAK |  |  |
+| 22000 | 21. PÓTDÍJAK |  |  |
 
 | 22111 | Gépkocsihasználat Budapest közigazgatási területén belül (megkezdett nap) | db | 2 |
 
@@ -472,7 +460,7 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 22114 | Gépkocsihasználat közigazgatási régión kívül (megkezdett nap) | db | 5 |
 
-| 22211 | Hitelesítési bizonyítvány kiadása (a kötelezően elő nem írt esetekben) | db | 0,1 |
+| 22211 | Hitelesítési bizonyítvány kiadása (a kötelezően elő nem írt esetekben) | db | 0,15 |
 
-[^8]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 9. pontja hatályon kívül helyezte.
-[^9]: A melléklet a 69/2005. (IX. 15.) GKM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2005. október 1. napját követően kezdeményezett eljárásokra kell alkalmazni.
+[^10]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 9. pontja hatályon kívül helyezte.
+[^11]: A melléklet a 27/2010. (XII. 31.) NGM rendelet 11. § (4) bekezdésével megállapított szöveg. E módosító rendelet 76. § (2) bekezdése alapján a rendelkezést a 2010. december 31-ét követően indult eljárásokban kell alkalmazni.

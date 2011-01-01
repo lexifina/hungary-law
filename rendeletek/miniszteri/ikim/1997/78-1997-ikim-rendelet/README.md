@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-78-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1997-78-20-80.12 | 78/1997. (XII. 30.) IKIM rendelet |
+| 2011-01-01 | 1997-78-20-80.13 | 27/2010. (XII. 31.) NGM rendelet |
