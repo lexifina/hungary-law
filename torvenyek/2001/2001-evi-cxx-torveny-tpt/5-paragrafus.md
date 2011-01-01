@@ -286,7 +286,7 @@ e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a szé
 
 114. szabályozott piac: az Európai Unió tagállamának tőzsdéje és minden más olyan piaca, amely megfelel a következő feltételeknek:
 
-a) piacműködtető által működtetett és/vagy irányított multilaterális rendszer,
+a) a Bszt.-ben meghatározott piacműködtető által működtetett és/vagy irányított multilaterális rendszer,
 
 b) megkülönböztetésmentesen, szabályaival összhangban összehozza több harmadik fél pénzügyi eszközökben lévő vételi és eladási szándékát, vagy elősegíti ezt oly módon, hogy az szerződést eredményez a szabályai alapján kereskedésre bevezetett pénzügyi eszköz tekintetében,
 
@@ -356,9 +356,13 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 137. kereskedési nap: minden munkanap, kivéve, amelyet a szabályozott piac előzetesen kereskedési szünnappá nyilvánít,
 
-138. tőzsdére bevezetett értékpapír átvezetése: tőzsdére bevezetett értékpapír tőzsdei forgalomban tartásának megszüntetése valamely tőzsdén, feltéve, hogy az értékpapírt más tőzsdén forgalmazzák, vagy az értékpapírt egyidejűleg más tőzsdére bevezetik,
+138. konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó befektetési vállalkozás és EU-szintű befektetési vállalkozási anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság,
 
-139. tőzsdéről való kivezetés: tőzsdei termék tőzsdei forgalomban tartásának megszűntetése, feltéve, hogy a tőzsdei termékkel más tőzsdén nem kereskednek,
+139. szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése: szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése
+
+a) valamennyi szabályozott piacon (kivezetés),
+
+b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott piacon forgalmazzák (átvezetés),
 
 140. székhely szerinti tagállam: szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található.
 

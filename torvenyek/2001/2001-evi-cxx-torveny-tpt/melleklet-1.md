@@ -32,7 +32,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 15. Pmt.: a pénzmosás megelőzéséről és megakadályozásáról szóló törvény,
 
-16. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény,
+16. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény,
 
 17. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 

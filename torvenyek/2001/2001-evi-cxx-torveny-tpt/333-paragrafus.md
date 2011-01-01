@@ -2,7 +2,7 @@
 
 ## A TŐZSDEI TEVÉKENYSÉG FOLYTATÁSÁNAK MEGSZŰNÉSE
 
-333. § (1) Tőzsde felszámolójának vagy végelszámolójának a bíróság csak a Hpt.-ben meghatározott közhasznú társaságot jelölheti ki.
+333. § (1) Tőzsde felszámolójának vagy végelszámolójának a bíróság kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki. Tőzsde felszámolása esetén az eljárás felfüggesztésének nincs helye.
 
 (2) A tőzsde felszámolójának vagy végelszámolójának a kijelölését követő legalább hat hónapig a tőzsdei tevékenység folytatását biztosítania kell.
 

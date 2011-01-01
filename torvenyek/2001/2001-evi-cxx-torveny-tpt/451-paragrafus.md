@@ -28,37 +28,37 @@ q) az ingatlanértékelést végző természetes személy és szervezet felelős
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
-a) az ISIN azonosítóra vonatkozó szabályokat;
+a)
 
-b) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet Felügyelet részére történő adatszolgáltatási kötelezettségének tartalmát, módját és gyakoriságát;
+b)
 
 c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmát, módját és gyakoriságát;
 
-d)
+d) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 
 e) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség részletes szabályait;
 
 f) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre vonatkozó részletes szabályokat,
 
-g) a belső ellenőrzési rendszer kialakítására, valamint működtetésére vonatkozó részletes szabályokat;
+g)
 
 h) a befektetési alap befektetési szabályaira vonatkozó előírásokat;
 
-i) a tőzsdei termék átvezetésével és kivezetésével kapcsolatos előírásokat,
+i)
 
-j) a befektetési hitelekre és a halasztott fizetésekre vonatkozó követelményeket;
+j)
 
 k) az elszámolóháznak nem minősülő elszámolóházi tevékenységet végző szervezet tartalékképzésének módját és mértékét;
 
-l) a befektetési alapkezelő üzleti, szolgáltatási tevékenységéhez kapcsolódó, a Felügyelet részére történő adatszolgáltatási kötelezettségét, az adatszolgáltatás tartalmát, felépítését, módját, gyakoriságát;
+l)
 
-m) az ingatlanértékelést végző természetes személy végzettségére, szakképzettségére, szakmai gyakorlatára vonatkozó részletes szabályokat,
+m)
 
 n) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésének formáját és tartalmát.
 
 o) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű számítások módját, tartalmát, szerkezetét és gyakoriságát;
 
-p) a Felügyelet által elfogadott, illetve a nemzetközi pénzügyi piacokon általában használt nyelveket;
+p)
 
 q) a piacbefolyásolásra utaló magatartások minősítésekor figyelembe veendő körülményeket;
 
@@ -66,6 +66,12 @@ r) az elfogadott piaci gyakorlat megállapításának részletes szabályait;
 
 s) a bennfentes információ nyilvánosságra hozatalának kibocsátó általi késleltetésére vonatkozó részletes szabályokat;
 
-t) a kockázati tőkealapok, illetve a kockázati tőkealap-kezelők e törvény szerinti tevékenységéhez kapcsolódó, a Felügyelet részére történő adatszolgáltatási kötelezettségét, az adatszolgáltatás tartalmát, módját, gyakoriságát és időpontját;
+t)
 
-u) a központi értéktár Felügyelet részére történő adatszolgáltatási, valamint tájékoztatási kötelezettségének tartalmát, módját és gyakoriságát.
+u)
+
+(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+
+a) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
+
+b) az ISIN azonosítóra vonatkozó részletes szabályokat.

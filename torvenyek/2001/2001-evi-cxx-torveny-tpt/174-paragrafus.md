@@ -1,3 +1,1 @@
-174. § (1) A befektetési vállalkozás rendszeresen köteles az általa nyújtott befektetési hiteleket, halasztott fizetéseket a külön jogszabályban meghatározott követelmények figyelembevételével elkészített és a Felügyelet részére megküldött szabályzat alapján értékelni és minősíteni.
-
-(2) A befektetési vállalkozás az egyedileg minősített hitelezési, befektetési és országkockázatot – külön jogszabályban meghatározottak szerint – értékvesztés elszámolásával és annak visszaírásával, illetőleg céltartalék képzéssel és felhasználással, illetőleg felszabadítással veszi figyelembe. A befektetési vállalkozás az elszámolt értékvesztést, illetőleg céltartalék képzést a ráfordítások között mutatja ki.
+174. §

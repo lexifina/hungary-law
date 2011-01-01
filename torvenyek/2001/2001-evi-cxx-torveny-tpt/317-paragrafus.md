@@ -28,19 +28,19 @@ g) a tőzsdei kereskedők, a tőzsdére bevezetett értékpapírok kibocsátói 
 
 h) a tőzsdei forgalom elszámolásának rendjét (ha a tőzsde maga végzi ezt a tevékenységet);
 
-i) a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
+i) a tőzsde, a tőzsde tulajdonosai vagy működtetője érdekei és a tőzsde stabil működése között potenciálisan felmerülő összeférhetetlenség kezelésére vonatkozó szabályokat, továbbá a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
 
 j) a tőzsde által a szolgáltatást igénybe vevők részére felszámított díjakat.
 
-(5) A (4) bekezdés c) pontjában meghatározott szabályoknak biztosítaniuk kell a tőzsdei kereskedők, illetve a kereskedésben részt vevők számára az elszámolási rendszer kijelölési jogát, feltéve ha
+(5) A (4) bekezdés c) pontjában meghatározott szabályoknak biztosítaniuk kell a tőzsdei kereskedők számára az elszámolási rendszer megválasztásának jogát, feltéve ha
 
-a) a kiválasztott rendszer és azok között a rendszerek és berendezések közötti összeköttetések és megállapodások fennállnak, amelyek az érintett ügylet hatékony és gazdaságos elszámolásához szükségesek,
+a) a kiválasztott rendszer és azok között a rendszerek és infrastruktúrák közötti összeköttetések és megállapodások fennállnak, amelyek az érintett ügylet hatékony és gazdaságos elszámolásához szükségesek,
 
-b) a Felügyelet szerint a tőzsdén végrehajtott ügylet elszámolásának technikai feltételei a tőzsdei kereskedők, illetve a kereskedésben részt vevők által kijelölt – a tőzsde által választott rendszertől eltérő – elszámolási rendszerben a pénzügyi piacok zavartalan és rendezett működését lehetővé teszik.
+b) a Felügyelet jóváhagyása alapján a tőzsdén végrehajtott ügylet elszámolásának technikai feltételei a tőzsdei kereskedők által kijelölt – a tőzsde által választott rendszertől eltérő – elszámolási rendszerben a pénzügyi piacok zavartalan és rendezett működését lehetővé teszik.
 
 (6) A Felügyelet (5) bekezdés b) pontban előírt értékelése során figyelembe veszi a vizsgált elszámolási rendszer felett központi bank által felvigyázói szerepkörében végzett tevékenységét annak érdekében, hogy az ellenőrzés szükségtelen megkettőzését elkerülje.
 
-(7) A tőzsdére bevezetett értékpapírok kibocsátója nem kötelezhető a (4) bekezdés g) pontja szerinti adatszolgáltatás teljesítésére, ha az általa kibocsátott értékpapír adott tőzsdére történő bevezetése a hozzájárulása nélkül történt meg.
+(7) A tőzsdére bevezetett értékpapírok kibocsátója nem kötelezhető a (4) bekezdés g) pontja szerinti adatszolgáltatás teljesítésére, ha az általa kibocsátott értékpapír adott tőzsdére történő bevezetése a hozzájárulása nélkül történt meg. Ebben az esetben a tőzsde tájékoztatja a kibocsátót arról a tényről, hogy az általa kibocsátott értékpapírral az adott tőzsdén kereskednek.
 
 (8) A (4) bekezdés d) pontjában meghatározott szabályoknak biztosítaniuk kell
 

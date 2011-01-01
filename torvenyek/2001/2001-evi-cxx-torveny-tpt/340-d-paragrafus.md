@@ -2,7 +2,11 @@
 
 ## A KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG ENGEDÉLYEZÉSE
 
-340/D. § (1) Az 5. § (1) bekezdésének 83. pontja szerinti központi szerződő fél tevékenység csak kizárólagos tevékenységként végezhető, kivéve ha azt elszámolóház végzi.
+340/D. § (1) Központi szerződő fél által végezhető tevékenységek:
+
+a) központi szerződő féli tevékenység
+
+b) a 334. § a) pontjában meghatározott tevékenység.
 
 (2) A központi szerződő félként történő tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza.
 
