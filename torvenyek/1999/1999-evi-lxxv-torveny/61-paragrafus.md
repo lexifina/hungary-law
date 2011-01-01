@@ -1,5 +1,3 @@
-## VIII. Fejezet
-
 ## Hatályba léptető és átmeneti rendelkezések
 
 61. § (1) Ez a törvény – a (2)–(3) bekezdésben foglalt eltéréssel – a kihirdetését követő második hónap első napján lép hatályba, rendelkezéseit – a II., III. és az V. fejezetben foglaltak kivételével – a folyamatban lévő ügyekben is alkalmazni kell.

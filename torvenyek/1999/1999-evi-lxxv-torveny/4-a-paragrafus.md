@@ -26,24 +26,24 @@ b) figyelemmel kíséri a szervezett bűnözés terén jelentkező tendenciákat
 
 (3) A szervezett bűnözés elleni koordinációs központ részére e törvényben meghatározottak szerint
 
-a) a rendőrség központi szerve,
+a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
 
-b) a Rendvédelmi Szervek Védelmi Szolgálata,
+b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
-c)
+c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
 
 d) a Vám- és Pénzügyőrség,
 
-e) a Nemzetbiztonsági Hivatal,
+e) az Alkotmányvédelmi Hivatal,
 
 f) az Információs Hivatal,
 
 g) a Nemzetbiztonsági Szakszolgálat,
 
-h) a Katonai Biztonsági Hivatal, és
+h) a Katonai Biztonsági Hivatal és
 
 i) a Katonai Felderítő Hivatal
 
-szolgáltat adatokat, illetve jogosult onnan adatok igénylésére.
+szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
 (4) A szervezett bűnözés elleni koordinációs központ feladatainak ellátása során az együttműködő szervek országos parancsnokai által erre kijelölt központi szerveivel működik együtt.
