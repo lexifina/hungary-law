@@ -90,6 +90,6 @@
 
 ## c: A személyes adatok kivételével az adatokhoz való hozzáférési jog.
 
-2. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^12]
+2. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^13]
 
-[^12]: A 2. számú melléklet a 44/2008. (XII. 31.) PM rendelet 25. § (2) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^13]: A 2. számú melléklet a 44/2008. (XII. 31.) PM rendelet 25. § (2) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (4) bekezdése szerint módosított szöveg.

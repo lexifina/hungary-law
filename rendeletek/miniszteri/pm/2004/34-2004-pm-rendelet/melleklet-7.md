@@ -78,6 +78,6 @@
 
 ## c: A személyes adatok kivételével az adatokhoz való hozzáférési jog.
 
-7. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^17]
+7. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^18]
 
-[^17]: A 7. számú mellékletet a 48/2007. (XII. 29.) PM rendelet 22. § (7) bekezdése iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 13. § (9) bekezdésével megállapított szöveg.
+[^18]: A 7. számú mellékletet a 48/2007. (XII. 29.) PM rendelet 22. § (7) bekezdése iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 13. § (9) bekezdésével megállapított szöveg.

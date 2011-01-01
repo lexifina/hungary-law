@@ -26,6 +26,6 @@
 
 ## C: A SZEMÉLYES ADATOK KIVÉTELÉVEL AZ ADATOKHOZ VALÓ HOZZÁFÉRÉSI JOG.
 
-8. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^18]
+8. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^19]
 
-[^18]: A 8. számú mellékletet a 48/2007. (XII. 29.) PM rendelet 22. § (8) bekezdése iktatta be, szövege a 44/2008. (XII. 31.) PM rendelet 25. § (8) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (10) bekezdése szerint módosított szöveg.
+[^19]: A 8. számú mellékletet a 48/2007. (XII. 29.) PM rendelet 22. § (8) bekezdése iktatta be, szövege a 44/2008. (XII. 31.) PM rendelet 25. § (8) bekezdésével megállapított, a 28/2009. (XI. 30.) PM rendelet 13. § (10) bekezdése szerint módosított szöveg.

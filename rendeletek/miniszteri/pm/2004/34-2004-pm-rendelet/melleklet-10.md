@@ -84,7 +84,7 @@
 
 | Vám- és Pénzügyőrség rendszerfejlesztésért felelős szerve | Parancsnok és a parancsnok által kijelölt tagjai |  | x |
 
-10. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^20]
+10. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^21]
 
 I. rész
 
@@ -144,4 +144,4 @@ Az Illetékkezelő Rendszert kezelő szervek és a hozzáférési jogosultságok
 
 | Vám- és Pénzügyőrség rendszerfejlesztésért felelős szerve | Parancsnok és a parancsnok által kijelölt tagjai |  | x |
 
-[^20]: A 10. számú mellékletet a 20/2010. (V. 12.) PM rendelet 5. § (5) bekezdése iktatta be.
+[^21]: A 10. számú mellékletet a 20/2010. (V. 12.) PM rendelet 5. § (5) bekezdése iktatta be.

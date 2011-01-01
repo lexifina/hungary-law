@@ -62,7 +62,7 @@
 
 ## II. Az EMCS rendszerben kezelt adatok:
 
-## Az Európai Unió által létrehozott, nemzeti fejlesztésű informatikai rendszer, mely a közösségi és belföldi adó-felfüggesztési eljárásban továbbított jövedéki szállítmányok adatait kezeli.
+## Az Európai Unió által létrehozott, nemzeti fejlesztésű informatikai rendszer, mely a közösségi és belföldi adó-felfüggesztési eljárásban továbbított jövedéki szállítmányok, valamint a(z) − belföldi relációban szállított − adózott jövedéki szállítmányok adatait kezeli.
 
 ## III. A SEED rendszerben kezelt adatok:
 
@@ -116,6 +116,6 @@
 
 | Vám- és Pénzügyőrség rendszerfejlesztésért felelős szerve | Parancsnok és a parancsnok által kijelölt tagjai |  | x |
 
-4. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^14]
+4. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^15]
 
-[^14]: A 4. számú melléklet a 28/2009. (XI. 30.) PM rendelet 13. § (6) bekezdésével megállapított szöveg.
+[^15]: A 4. számú melléklet a 28/2009. (XI. 30.) PM rendelet 13. § (6) bekezdésével megállapított szöveg.

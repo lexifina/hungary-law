@@ -70,6 +70,6 @@
 
 | P | Parancsnok igénylése alapján |
 
-9. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^19]
+9. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^20]
 
-[^19]: A 9. számú mellékletet a 20/2010. (V. 12.) PM rendelet 5. § (4) bekezdése iktatta be.
+[^20]: A 9. számú mellékletet a 20/2010. (V. 12.) PM rendelet 5. § (4) bekezdése iktatta be.

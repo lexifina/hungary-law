@@ -64,6 +64,6 @@
 
 | P | Parancsnok igénylése alapján |
 
-5. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^15]
+5. számú melléklet a 34/2004. (VI. 23.) PM rendelethez[^16]
 
-[^15]: Az 5. számú melléklet a 28/2009. (XI. 30.) PM rendelet 13. § (7) bekezdésével megállapított szöveg.
+[^16]: Az 5. számú melléklet a 28/2009. (XI. 30.) PM rendelet 13. § (7) bekezdésével megállapított szöveg.
