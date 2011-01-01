@@ -1,1 +1,0 @@
-149/E. § A beszedési költségek levonása után valamennyi jogcímen az Alapba befolyt üzemben tartási díj 84. § (1) bekezdésében meghatározott százalékos mérték időarányos része illeti meg 2010-ben 2010. szeptember 6-tól kezdődően a Magyar Televízió Zrt.-t, a Magyar Rádió Zrt.-tés a Duna Televízió Zrt.-t.

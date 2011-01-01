@@ -1,5 +1,9 @@
-20. § (1) Nem adható jogosultság kizárólag kiegészítő műsorszolgáltatás végzésére.
+20–21. §
 
-(2) Kiegészítő műsorszolgáltatást csak a műsorszolgáltatásra jogosult végezhet.
+## B) RÉSZ
 
-(3) A kiegészítő műsorszolgáltatás végzésére vonatkozó igényt a műsorszolgáltatás iránti pályázatban kell közölni, illetőleg utólag be kell jelenteni.
+## A közszolgálati műsorszolgáltatás és a közműsorszolgáltatás alapelvei és szabályai
+
+1. CÍM
+
+Általános szabályok

@@ -1,1 +1,0 @@
-97. § A 102. § (1) bekezdésének a) pontja szerinti pályázatok esetében a Médiatanács köteles a pályázati határidő lejártát követő tizenöt napon belül a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában nyilvánosságra hozni a pályázók nevét, címét, a tervezett műsorszolgáltatás jellegét és vételkörzetét, valamint egyéb adatait.

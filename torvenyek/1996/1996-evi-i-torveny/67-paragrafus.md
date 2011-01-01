@@ -1,3 +1,0 @@
-67. § (1) A közszolgálati részvénytársaságok ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató gyakorolja mindazon hatásköröket, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását – évente egyszer – az általa vezetett közszolgálati részvénytársaság terhére meghatározott havi összegben kell megállapítani.
-
-(2) A vezérigazgató jogosult és egyben köteles két vezérigazgató-helyettes kinevezésére. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.

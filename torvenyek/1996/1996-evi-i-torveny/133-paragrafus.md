@@ -1,9 +1,0 @@
-133. § (1) A közszolgálati műsorszolgáltatók e törvény szerinti jogosultsága rádió műsorszolgáltatásnál hét év, televízió műsorszolgáltatásnál tíz év időtartamra szól. Az érvényességi idő lejártakor a jogosultság ugyanennyi időre többször, változtatás nélkül meghosszabbítható, ha az adott műsorszórási lehetőségekre vonatkozó nemzetközi korlátozások, a Frekvenciasávok Nemzeti Felosztási Táblázatának előírásai vagy az ellátottsági kötelezettségek nem változtak meg. A meg nem hosszabbítható jogosultság helyett a közszolgálati műsorszolgáltató ellátási kötelezettségének teljesítéséhez megfelelő más műsorsugárzási lehetőségre vonatkozó jogosultságot kell biztosítani.
-
-(2) Az országos földi terjesztésű televízió és rádió műsorszolgáltatási jogosultságok tekintetében a jogosultság megszűnését követően a Médiatanács — a kuratóriumok véleményének figyelembevételével — felülvizsgálja az országos műsorszolgáltatások rendszerét, és dönt arról, hogy a közszolgálati műsorszolgáltatók számára fenntartja-e addigi jogosultságaikat, vagy megváltoztatja azokat.
-
-(3) A közszolgálati műsorszolgáltatók műsorszolgáltatási kötelezettségeinek teljesítéséhez szükséges — frekvencia és sugárzási jellemzőkkel meghatározott — műsorszórási lehetőségeket előzetes egyeztetés után a Médiatanács a döntéseinek meghozatalára irányadó szavazási és nyilvánossági szabályok alkalmazásával állapítja meg.
-
-(4) A Médiatanács a (2) és (3) bekezdésben említett előzetes egyeztetést a Hatóság, a közszolgálati műsorszolgáltató, valamint a műsorok szórását végző távközlési szolgáltató képviselőivel folytatja le.
-
-(5) A (2) és (3) bekezdés nem vonatkozik a közszolgálati műsorszolgáltató külföldre irányuló rádió műsorszolgáltatásainak műsorszórási lehetőségeire. Ilyen műsorszolgáltatás céljára a Hatóság a frekvenciahasználatra vonatkozó jogosultságot a nemzetközi eljárás keretei között biztosítja.

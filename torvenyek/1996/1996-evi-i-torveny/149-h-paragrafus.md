@@ -1,1 +1,0 @@
-149/H. § E törvény 112. § (4) bekezdésének a) pontjában foglalt, a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény által módosított rendelkezést kell alkalmazni a folyamatban lévő ügyekben is, ha a Testület, illetve jogutódja, a Médiatanács még nem hozott határozatot.

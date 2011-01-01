@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-1-00-00
 | 2010-08-11 | 2010. évi LXXXII. törvény | 1996-1-00-00.36 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 1996-1-00-00.37 |
 | 2010-11-02 | 2010. évi CIII. törvény | 1996-1-00-00.38 |
+| 2011-01-01 | 2010. évi CLXXXV. törvény | 1996-1-00-00.39 |

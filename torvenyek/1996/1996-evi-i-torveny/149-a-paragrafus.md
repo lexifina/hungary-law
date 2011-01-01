@@ -1,1 +1,1 @@
-149/A. § Az Országos Rádió és Televízió Testület irodájának alkalmazottai a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépésével egyidejűleg a Hivatal alkalmazottaivá válnak azzal, hogy az Eht. 19. § (1) bekezdés b) pontja vonatkozásukban 2010. december 31-ig nem alkalmazható.
+149/A–149/H. §

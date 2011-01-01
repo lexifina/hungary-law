@@ -2,10 +2,12 @@
 
 (2)
 
-(3) A közalapítványok e törvény szerinti tulajdonszerzése, illetve társaságalapítása minden adó-, illetékfizetési kötelezettség alól mentes.
+(3)
 
 (4)
 
-(5) A közszolgálati műsorszolgáltatók mentesek a társasági adó alól, és személyes illetékmentességet élveznek.
+(5)
 
 (6)–(9)
+
+142. §–147. §
