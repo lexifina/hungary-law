@@ -2,7 +2,7 @@
 
 ## A HAZAI SZINTŰ LEBONYOLÍTÁS RÉSZLETES SZABÁLYAI
 
-12. § (1)[^26] A Program keretében meghirdetett pályázatokon közösségi támogatásra jóváhagyott projektek hazai partnerei számára – a hazai partner projektrészének legfeljebb 5%-ának megfelelő összegű – kapcsolódó hazai társfinanszírozást további pályáztatás nélkül a nemzeti hatóság biztosítja.
+12. § (1)[^26] A Program keretében meghirdetett pályázatokon közösségi támogatásra jóváhagyott projektek hazai partnerei számára a kapcsolódó hazai társfinanszírozást további pályáztatás nélkül a nemzeti hatóság biztosítja.
 
 (2) A hazai partnerek számára a hazai társfinanszírozás maximális összegét euróban kell rögzíteni. A hazai partnerek részére a hazai társfinanszírozás euróban kerül kifizetésre.
 
@@ -50,7 +50,7 @@ cb) a fejlesztés tárgya vagy a fejlesztés eredményeként létrejövő vagyon
 
 d) a Nemzeti Hatóság döntése alapján az állami többségű tulajdonban lévő gazdasági társaság, ha a támogatásból létrejövő vagyon ingyenesen az állam vagy az önkormányzat kizárólagos tulajdonába kerül.
 
-[^26]: A 12. § (1) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 12. § (1) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^27]: A 12. § (4) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
 [^28]: A 12. § (6) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
 [^29]: A 12. § (7) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
