@@ -1,1 +1,0 @@
-## 14. § A jegyző a támogatás felhasználásáról támogatottanként tételes elszámolást nyújt be a megyei újjáépítési bizottságnak 2008. december 15-ig, a 2009. évre áthúzódó helyreállítási, újjáépítési munkák, vagy azok helyett másik ingatlan vásárlása esetén 2009. július 31-ig. A megyei újjáépítési bizottság a jóváhagyott elszámolást tájékoztatásul megküldi az Igazgatóságnak.
