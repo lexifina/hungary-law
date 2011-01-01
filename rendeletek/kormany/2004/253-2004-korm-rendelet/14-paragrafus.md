@@ -14,10 +14,10 @@ d)[^27] a 11. § (1) bekezdése szerinti engedéllyel rendelkező személyeket.
 
 (3)[^28] A gyártási, a forgalmazási vagy a javítási tevékenységre kiadott engedély visszavonásig, az alkalmazotti engedély öt évig, a lőfegyver kiállítási engedély az engedélyben meghatározott időpontig hatályos.
 
-(4)[^29] A gyártási vagy forgalmazási engedéllyel rendelkező köteles az 5–8. számú mellékletek szerinti adatokat az Országos Rendőr-főkapitányság részére 3 munkanapon belül bejelenteni.
+(4)[^29] A gyártási vagy forgalmazási engedéllyel rendelkező köteles az 5–8. számú mellékletek szerinti adatokat az Országos Rendőr-főkapitányság részére öt napon belül bejelenteni.
 
 [^25]: A 13. § a 21/2010. (II. 9.) Korm. rendelet 2. § (2)–(3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^26]: A 14. § (2) bekezdés bevezető szövegrésze a 247/2009. (XI. 10.) Korm. rendelet 39. § d) pontja szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^27]: A 14. § (2) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^28]: A 14. § (3) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 16. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^29]: A 14. § (4) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 39. § d) pontja szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 14. § (4) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 39. § d) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

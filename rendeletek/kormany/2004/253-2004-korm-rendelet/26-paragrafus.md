@@ -14,7 +14,7 @@ d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételei
 
 (4) E rendelet eltérő rendelkezése hiányában a sportlőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát a sportlövő versenybírák esetében a Versenybírói Igazolvány, a sportlövő edzők esetében az Edzői Oklevél helyettesíti.
 
-(5)[^39] E rendelet eltérő rendelkezése hiányában a Rendőrség, a Rendvédelmi Szervek Védelmi Szolgálata, a nemzetbiztonsági szolgálatok, a Vám- és Pénzügyőrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver megszerzése és tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
+(5)[^39] E rendelet eltérő rendelkezése hiányában a Rendőrség, a Nemzeti Védelmi Szolgálat, a nemzetbiztonsági szolgálatok, a Vám- és Pénzügyőrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver megszerzése és tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
 
 (6) Az Európai Unió más tagállamában lakóhellyel rendelkező személy részére lőfegyver tartása akkor engedélyezhető, ha a lakóhely szerinti tagállam illetékes hatósága ezzel előzetesen egyetértett.
 
@@ -22,5 +22,5 @@ d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételei
 
 [^37]: A 26. § (1) bekezdés a) pontját a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^38]: A 26. § (1) bekezdés b) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^39]: A 26. § (5) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 1. § 59. pontja szerint módosított szöveg.
+[^39]: A 26. § (5) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 1. § 59. pontja, a 293/2010. (XII. 20.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 14. § (2)–(4) bekezdését.
 [^40]: A 26. § (7) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.

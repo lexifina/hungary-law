@@ -4,9 +4,9 @@
 
 (3)[^49] A fegyver megszerzési engedély 90 napig hatályos.
 
-(4)[^50] A megszerzési engedéllyel rendelkező 5 munkanapon belül köteles az engedélyező hatóságnak a birtokba vett lőfegyvert a fegyvertartási engedély kiállítása céljából bemutatni. A lejárt engedélyt a hatóságnak a hatályosság lejártát követő 5 munkanapon belül vissza kell adni.
+(4)[^50] A megszerzési engedéllyel rendelkező nyolc napon belül köteles az engedélyező hatóságnak a birtokba vett lőfegyvert a fegyvertartási engedély kiállítása céljából bemutatni. A lejárt engedélyt a hatóságnak a hatályosság lejártát követő nyolc napon belül vissza kell adni.
 
 [^47]: A 32. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 19. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^48]: A 32. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^49]: A 32. § (3) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^50]: A 32. § (4) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: A 32. § (4) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

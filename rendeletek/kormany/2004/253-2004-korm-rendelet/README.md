@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2010-04-02 | 2004-253-20-22.11 | 67/2010. (III. 18.) Korm. rendelet |
 | 2010-05-12 | 2004-253-20-22.12 | 163/2010. (V. 11.) Korm. rendelet |
 | 2010-09-01 | 2004-253-20-22.13 | 67/2010. (III. 18.) Korm. rendelet |
+| 2011-01-01 | 2004-253-20-22.14 | 247/2009. (XI. 10.) Korm. rendelet |

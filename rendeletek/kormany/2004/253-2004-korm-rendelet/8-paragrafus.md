@@ -1,4 +1,4 @@
-## 7. §[^10] A kereskedelmi célból behozott, kivitt és átszállított lőfegyverekről az engedéllyel rendelkező köteles a 16. számú melléklet szerinti adatokat 3 munkanapon belül az Országos Rendőr-főkapitányságnak bejelenteni.
+## 7. §[^10] A kereskedelmi célból behozott, kivitt és átszállított lőfegyverekről az engedéllyel rendelkező köteles a 16. számú melléklet szerinti adatokat öt napon belül az Országos Rendőr-főkapitányságnak bejelenteni.
 
 8. § (1)[^11] E rendelet eltérő rendelkezése hiányában a lőfegyver, lőszer behozatalához, kiviteléhez és átszállításához szükséges engedély kiadására irányuló kérelemnek a (2) bekezdésében foglaltakat kell tartalmaznia, az engedély meglétét igazoló hatósági igazolvány formáját és tartalmát a 16. számú melléklet határozza meg.
 
@@ -46,7 +46,7 @@ f) a védett személy nevét.
 
 (6)[^17] A lőfegyver, lőszer (lőszerelem) kereskedelmi célú behozatalára, kivitelére kiadott engedély egy évig hatályos.
 
-[^10]: A 7. § a 247/2009. (XI. 10.) Korm. rendelet 39. § d) pontja szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 7. § a 247/2009. (XI. 10.) Korm. rendelet 39. § d) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^11]: A 8. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 14 § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^12]: A 8. § (2) bekezdés bevezető szövegrésze a 247/2009. (XI. 10.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: A 8. § (2) bekezdés f) pontja a 247/2009. (XI. 10.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
