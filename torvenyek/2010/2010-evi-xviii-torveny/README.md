@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-18-00-00
 | 2010-05-01 | 2010. évi XVIII. törvény | 2010-18-00-00.0 (közlönyállapot) |
 | 2010-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-18-00-00.1 |
 | 2010-07-20 | 2010. évi LXXIII. törvény | 2010-18-00-00.2 |
+| 2011-01-01 | 2010. évi CLII. törvény | 2010-18-00-00.3 |

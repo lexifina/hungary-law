@@ -1,4 +1,4 @@
-16. § (1) A Hivatal a kérelmet öt munkanapon belül bírálja el.
+16. § (1) A Hivatal a kérelmet nyolc napon belül bírálja el.
 
 (2) A nyilvántartásból való adatszolgáltatás során csak az adatkérés céljának megvalósulásához elengedhetetlenül szükséges adat bocsátható a felvilágosítást kérő rendelkezésére.
 
