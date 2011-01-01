@@ -1,1 +1,0 @@
-Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében, valamint a Magyar Kereskedelmi Engedélyezési Hivatalról szóló 297/2005. (XII. 23.) Korm. rendelet 15. §-ának b) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
