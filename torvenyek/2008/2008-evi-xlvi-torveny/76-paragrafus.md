@@ -102,9 +102,9 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait.
 
-(3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszterrel együttes rendeletben szabályozza.
+(3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel együttes rendeletben szabályozza
+(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 a) az élelmiszerek előállításához szükséges technológiai segédanyagok körét, felhasználásának feltételeit;
 
@@ -134,11 +134,11 @@ i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hat
 
 j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket.
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
 
-(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit.
+(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit.
 
-(8) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza a Magyar Honvédség élelmiszer-biztonsággal kapcsolatos feladatait.
+(8) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség élelmiszer-biztonsággal kapcsolatos feladatait.
 
 (9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben szabályozza
 

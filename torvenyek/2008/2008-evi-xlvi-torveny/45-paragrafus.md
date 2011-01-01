@@ -4,7 +4,7 @@
 
 (2) Az igazgatási szolgáltatási díjat az azt kiszabó élelmiszerlánc-felügyeleti szerv számlájára kell befizetni.
 
-(3) A díj megfizetésének elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a kérelem benyújtásától számított tíz munkanapon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül köteles a díjat megfizetni, illetve igazolni annak megfizetését.
+(3) A díj megfizetésének elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni, illetve igazolni annak megfizetését.
 
 (4) Ha az igazgatási szolgáltatási díj meg nem fizetése ellenére az élelmiszerlánc-felügyeleti szerv eljár, a meg nem fizetett díj adók módjára behajtandó köztartozásnak minősül.
 

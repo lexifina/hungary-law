@@ -6,7 +6,7 @@
 
 39. § (1) Az élelmiszerlánc-felügyeleti szerv eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a 39. § (2)–(4) bekezdésében, a 42. §-ban, a 44. §-ban, a 49–50. §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) Az ügyintézési határidő a laboratóriumi vizsgálat elvégzéséhez elengedhetetlenül szükséges időtartammal, de legfeljebb negyvenöt munkanappal meghosszabbítható.
+(2) Az ügyintézési határidő a laboratóriumi vizsgálat elvégzéséhez elengedhetetlenül szükséges időtartammal, de legfeljebb két hónappal meghosszabbítható.
 
 (3) Ha a hatósági ellenőrzés keretében történő monitoringvizsgálat során a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
 
