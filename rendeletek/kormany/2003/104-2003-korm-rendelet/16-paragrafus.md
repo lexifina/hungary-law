@@ -2,7 +2,7 @@
 
 a) magyar állampolgár, aki nem állampolgára a fogadó államnak, lakóhelye Magyarországon van, büntetlen előéletű és cselekvőképes;
 
-b)[^4] a munkakörhöz jogszabályban, illetve az e rendelet 3. számú mellékletében, továbbá a kihelyező közigazgatási szerv szabályzatában előírt iskolai végzettséggel, valamint szakképesítéssel rendelkezik.
+b)[^5] a munkakörhöz jogszabályban, illetve az e rendelet 3. számú mellékletében, továbbá a kihelyező közigazgatási szerv szabályzatában előírt iskolai végzettséggel, valamint szakképesítéssel rendelkezik.
 
 c) a kihelyező közigazgatási szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat eredménye alapján a kijelölt állomáshelyen külszolgálatra alkalmas;
 
@@ -22,4 +22,4 @@ f) a munkaköréhez előírt típusú nemzetbiztonsági ellenőrzését elvégez
 
 (6) A munkáltatói jogkör gyakorlója – szakdiplomaták esetében a szaktárca vezetőjének egyetértésével – a külszolgálat megállapított időtartamát szolgálati érdekből, továbbá különös méltányolást érdemlő ok miatt, a kihelyezett egyetértésével, legfeljebb egy évvel meghosszabbíthatja.
 
-[^4]: A 16. § (1) bekezdés b) pontja a 254/2010. (XI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 16. § (1) bekezdés b) pontja a 254/2010. (XI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

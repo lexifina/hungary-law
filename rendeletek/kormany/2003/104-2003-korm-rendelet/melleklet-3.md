@@ -102,7 +102,7 @@
 
 ## helyi alkalmazott
 
-3. számú melléklet a 104/2003. (VII. 18.) Korm. rendelethez[^26]
+3. számú melléklet a 104/2003. (VII. 18.) Korm. rendelethez[^27]
 
 | Munkakör | Szükséges végzettség |
 
@@ -110,4 +110,4 @@
 
 | gazdasági felelős | államilag elismert középfokú gazdasági, illetve pénzügyi-számviteli végzettség |
 
-[^26]: A 3. számú mellékletet a 254/2010. (XI. 8.) Korm. rendelet 14. §-a iktatta be.
+[^27]: A 3. számú mellékletet a 254/2010. (XI. 8.) Korm. rendelet 14. §-a iktatta be.
