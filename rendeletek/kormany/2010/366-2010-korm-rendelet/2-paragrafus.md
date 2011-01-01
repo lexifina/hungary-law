@@ -1,0 +1,9 @@
+## „(4) A Kormány egészségbiztosítóként – ha kormányrendelet ettől eltérően nem rendelkezik – az OEP-et jelöli ki az Ebtv. 5/B. § n) pontjában, 9. §-ában, 20. § (1) bekezdésében, 20/A. § (3) és (8) bekezdésében, 21. § (1) bekezdés a) pont aa) alpontjában, b) és e) pontjában, 26. § (1) és (2) bekezdésében, 27. § (10) bekezdésében, 30. §-ában, 30/A. §-ában, 31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4)–(5) és (7) bekezdésében, 36. § (1)–(2) és (6)–(9) bekezdésében, 38. § (1)–(2) és (4)–(6) bekezdésében, 38/A. §-ában, 38/B. §-ában, 68/A. § (4) bekezdésében, 70. § (1) bekezdés b)–c) pontjában és (4)–(5) bekezdésében, 79/A. §-ában, 80. § (1) bekezdésében, 82. § (2) bekezdésében foglalt feladatok ellátására.
+
+## (5) A Kormány egészségbiztosítóként az egészségbiztosítási szakigazgatási szervet jelöli ki az Ebtv. 27. § (5)–(7) bekezdésében, 62. § (2) bekezdés c) pontjában, 69. §-ában, 70. § (1) bekezdés a) pontjában és (3) bekezdésében, 72. § (1) bekezdésében, 81. § (1) bekezdésében foglalt feladatok ellátására.
+
+## (6) A Kormány egészségbiztosítóként az OEP-et és az egészségbiztosítási szakigazgatási szervet együtt jelöli ki az Ebtv. 5. §-ában, 27. § (1)–(2) és (11) bekezdésében, 50. §-ában, 72. § (2) bekezdésében, 79. § (1) és (3) bekezdésében, 80. § (2) bekezdésében foglalt feladatok ellátására.
+
+## (7) A Kormány vasutas egészségbiztosítási szervként a fővárosi kormányhivatal egészségbiztosítási szakigazgatási szervét jelöli ki az Ebtv. 65. § (2) bekezdésében, valamint 70. § (3) és (4) bekezdésében foglalt feladatok ellátására.
+
+## (8) A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében és a 49/A. §-ban, valamint az Ebtv. 81. § (1) bekezdésében foglalt esetekben a fővárosi és megyei kormányhivatalok mint kifizetőhelyek tekintetében az OEP jár el.”
