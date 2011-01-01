@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet a hagyományos és nagysebességű transzeurópai vasúti rendszerben a vasúti alagutak biztonságával kapcsolatban elfogadott kölcsönös átjárhatóságról szóló 2008/163/EK bizottsági határozatnak való megfelelést szolgálja.
 
-1. melléklet a 17/2010 (III. 12.) KHEM rendelethez
+1. melléklet a 17/2010 (III. 12.) KHEM rendelethez[^2]
 
 A hagyományos és nagysebességű transzeurópai vasúti rendszerben
 
@@ -1432,7 +1432,7 @@ Minden jövőbeni megállapodás vagy a meglévő megállapodások módosítása
 
 Az alábbi különleges esetekben a következő különös rendelkezések megengedettek.
 
-E különleges esetek két kategóriába tartoznak: a rendelkezések vagy folyamatosan („P” eset), vagy ideiglenesen („T” eset) alkalmazandók. Ideiglenes esetekben ajánlatos, hogy az érintett tagállamok a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozatban kitűzött időpontig, vagyis 2010-ig („T1” eset) vagy 2020-ig („T2” eset) teljesítsék az adott alrendszerre vonatkozó előírásokat.
+E különleges esetek két kategóriába tartoznak: a rendelkezések vagy folyamatosan („P” eset), vagy ideiglenesen („T” eset) alkalmazandók. Ideiglenes esetekben ajánlatos, hogy az érintett tagállamok a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanács határozat kitűzött időpontig, vagyis 2010-ig („T1” eset) vagy 2020-ig („T2” eset) teljesítsék az adott alrendszerre vonatkozó előírásokat.
 
 7.5.2. Különleges esetek felsorolása
 
@@ -2619,3 +2619,5 @@ Az ajánlatkérőnek az alrendszer teljes élettartama alatt meg kell őriznie a
 F.4 A karbantartási előírások értékelése: A megfelelőség-értékelési eljárás
 
 Az eljárás még nyitott kérdés.
+
+[^2]: Az 1. melléklet a 30/2010. (XII. 23.) NFM rendelet 18. §-a szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a 2011. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
