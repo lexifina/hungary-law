@@ -8,4 +8,6 @@
 
 (5) A 185/2010/EU rendelet melléklet 5.1.5. pontja alapján a feladott poggyász esetén létrehozott kategóriákról a légiközlekedési hatóság a közlekedésért felelős miniszter útján tájékoztatja a Bizottságot.
 
-(6) A tiltott tárgyak bevitelének tilalma nem vonatkozik a repülőtéren szolgálatot teljesítő rendvédelmi szervek, valamint a repülőtér őrzését ellátó fegyveres biztonsági őrségnek a szerv illetékes vezetője által kirendelt, szolgálatban lévő, a repülőtér szigorított védelmi területére belépésre jogosító személyazonosító kártyával rendelkező személyek szolgálati felszerelésére. Ezt a repülőtér őrzését ellátó fegyveres biztonsági őrség munkatársai a repülőtér rendben meghatározott különleges kártyával igazolják.
+(6)[^4] A tiltott tárgyak bevitelének tilalma nem vonatkozik a repülőtéren szolgálatot teljesítő rendvédelmi szervek, a NAV, valamint a repülőtér őrzését ellátó fegyveres biztonsági őrségnek a szerv illetékes vezetője által kirendelt, szolgálatban lévő, a repülőtér szigorított védelmi területére belépésre jogosító személyazonosító kártyával rendelkező személyek szolgálati felszerelésére. Ezt a repülőtér őrzését ellátó fegyveres biztonsági őrség munkatársai a repülőtér rendben meghatározott különleges kártyával igazolják.
+
+[^4]: A 25. § (6) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 135. §-a szerint módosított szöveg.

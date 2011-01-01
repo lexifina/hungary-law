@@ -1,9 +1,9 @@
-## 47–51. §[^2]
+## 47–51. §[^7]
 
-52. § (1)–(2)[^3]
+52. § (1)–(2)[^8]
 
-(3)–(7)[^4]
+(3)–(7)[^9]
 
-[^2]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.
-[^3]: Az 52. § (1)–(2) bekezdését az 53. § (2) bekezdése hatályon kívül helyezte.
-[^4]: Az 52. § (3)–(7) bekezdését az 53. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.
+[^8]: Az 52. § (1)–(2) bekezdését az 53. § (2) bekezdése hatályon kívül helyezte.
+[^9]: Az 52. § (3)–(7) bekezdését az 53. § (1) bekezdése hatályon kívül helyezte.
