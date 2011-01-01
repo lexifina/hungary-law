@@ -1,8 +1,8 @@
 ## Vegyes és záró rendelkezések
 
-20. § (1) A társulási megállapodást az aláírást követő tizenöt napon belül meg kell küldeni a közigazgatási hivatalnak, amely arra harminc napon belül törvényességi észrevételt tehet.
+20. § (1) A társulási megállapodást az aláírást követő tizenöt napon belül meg kell küldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek, amely arra harminc napon belül törvényességi észrevételt tehet.
 
-(2) A közigazgatási hivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a társulás szervezete, működése, döntéshozatali eljárása megfelel-e a jogszabályoknak.
+(2) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a társulás szervezete, működése, döntéshozatali eljárása megfelel-e a jogszabályoknak.
 
 (3) Önkormányzati hatáskör, valamint törvény által a képviselő-testület hatáskörébe utalt
 

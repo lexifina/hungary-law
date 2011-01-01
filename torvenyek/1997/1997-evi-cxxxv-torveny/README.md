@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-135-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-135-00-00.7 |
 | 2010-05-01 | 2010. évi XV. törvény | 1997-135-00-00.8 |
+| 2011-01-01 | 2010. évi CXXVI. törvény | 1997-135-00-00.9 |
