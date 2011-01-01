@@ -1,0 +1,5 @@
+## 1. § Egyes folyékony tüzelő- és fűtőanyagok kéntartalmának csökkentéséről szóló 17/2003. (IV. 4.) GKM–KvVM–PM együttes rendelet (a továbbiakban: R.) 2. § c) pontja helyébe a következő rendelkezés lép:
+
+## (A rendelet alkalmazásában:)
+
+## „c) tengeri hajózásban használatos tüzelőanyag: bármely ásványolaj eredetű folyékony tüzelőanyag, amelynek rendeltetése a hajón történő felhasználás, vagy amelyet a hajón használnak fel, beleértve az ISO 8217 meghatározás szerinti tüzelőanyagot is, amely magában foglal minden olyan ásványolaj eredetű folyékony tüzelőanyagot, amelyet a nem közúti mozgó gépekbe építendő belsőégésű motorok gáznemű és részecskékből álló szennyezőanyag- kibocsátásának korlátozásáról szóló jogszabályban említett motorokban, valamint a kedvtelési célú vízi járművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott belvízi hajókon vagy kedvtelési célú vízi járműveken használnak fel, amikor ezek a vízi járművek a tengeren tartózkodnak,”
