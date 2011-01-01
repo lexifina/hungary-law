@@ -2,9 +2,9 @@
 
 7. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^12]
+(2)[^13]
 
-Melléklet a 64/1999. (IV. 28.) Korm. rendelethez[^13]
+Melléklet a 64/1999. (IV. 28.) Korm. rendelethez[^14]
 
-[^12]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1237. pontja hatályon kívül helyezte.
-[^13]: A mellékletet a 182/2009. (IX. 10.) Korm. rendelet 166. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1237. pontja hatályon kívül helyezte.
+[^14]: A mellékletet a 182/2009. (IX. 10.) Korm. rendelet 166. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
