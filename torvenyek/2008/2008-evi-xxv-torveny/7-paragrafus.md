@@ -8,4 +8,4 @@
 
 (5) A Magyar Közlöny 1998. január 1-jétől kezdődően, de 2008. július 1-jét megelőzően kiadott számait, valamint a Törvények és Rendeletek Hivatalos Gyűjteményének 2003. január 1-jét követően, de 2008. július 1-jét megelőzően kiadott számait a Magyar Közlöny 2008. július 1-jén hivatalban levő felelős szerkesztőjének a minősített elektronikus aláírásával ellátott elektronikus dokumentumként 2008. július 31-ig a kormányzati portálon közzé kell tenni.
 
-(6) Felhatalmazást kap a Miniszterelnöki Hivatalt vezető miniszter, hogy rendeletben szabályozza a hivatalos lapokkal és a hivatalos jogszabálygyűjteményekkel összefüggő adatbázisok felhasználói jogainak a Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság részéről a Miniszterelnöki Hivatalnak való átengedését.
+(6)
