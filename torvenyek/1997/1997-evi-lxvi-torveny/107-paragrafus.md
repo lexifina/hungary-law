@@ -4,7 +4,7 @@
 
 a) a bíróságokról szóló 1972. évi IV. törvény, továbbá az e törvény módosításáról szóló 1991. évi LVI. törvény és az 1991. évi LXVII. törvény, a 10. § azon rendelkezését kivéve, amellyel az Országos Bírói Tanács egyetértési és véleményezési jogkörét megállapítja, továbbá az 1993. évi XCI. törvény a 10. §-ának az 1972. évi IV. törvény 62/A., 62/B., 62/C., 62/D., 62/E. §-át megállapító rendelkezése kivételével, valamint a 15. §-ának 1972. évi IV. törvény 80/D., 80/E., 80/F. §-át megállapító rendelkezése kivételével, továbbá e törvény módosításáról szóló 1979. évi 16. törvényerejű rendelet,
 
-b) a jogalkotásról szóló 1987. évi XI. törvény 64. §-ának b) pontja,
+b)
 
 c) az Alkotmány módosításával összefüggésben egyes törvények módosításáról szóló 1989. évi XLII. törvény 1–16. §-a,
 
