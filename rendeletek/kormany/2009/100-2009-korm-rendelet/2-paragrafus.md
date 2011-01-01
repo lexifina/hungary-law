@@ -4,6 +4,8 @@
 
 (3) Ha a mű felhasználásához több szerző engedélye szükséges, és nem ismeretlen vagy nem tartózkodik ismeretlen helyen mindegyikük, a kérelemhez csatolni kell az ismert és egyúttal ismert helyen tartózkodó szerzőkkel kötött felhasználási szerződést is.
 
-(4) Ha a műnek több szerzője is ismeretlen, vagy ismert, de ismeretlen helyen tartózkodik, a Magyar Szabadalmi Hivatal (a továbbiakban: MSZH) az engedélyt csak akkor adja meg, ha a mű valamennyi ilyen szerzője tekintetében nyújtottak be kérelmet, és az engedély valamennyi ilyen szerző tekintetében megadható. A kérelemhez csatolni kell az ismert és egyúttal ismert helyen tartózkodó szerzőkkel kötött felhasználási szerződést is.
+(4)[^2] Ha a műnek több szerzője is ismeretlen, vagy ismert, de ismeretlen helyen tartózkodik, a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) az engedélyt csak akkor adja meg, ha a mű valamennyi ilyen szerzője tekintetében nyújtottak be kérelmet, és az engedély valamennyi ilyen szerző tekintetében megadható. A kérelemhez csatolni kell az ismert és egyúttal ismert helyen tartózkodó szerzőkkel kötött felhasználási szerződést is.
 
 (5) Egy kérelemben egy mű felhasználására kérhető engedély. Több műre vonatkozóan egy kérelmet lehet benyújtani abban az esetben, ha a kérelem ugyanazon szerző ugyanazon műtípusba tartozó műveinek azonos felhasználási módjára vonatkozik.
+
+[^2]: A 2. § (4) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg.

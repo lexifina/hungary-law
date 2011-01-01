@@ -1,1 +1,3 @@
-## 11. § A 6. § (4) bekezdésének e rendelet 12. §-a (3) bekezdésével történő hatályon kívül helyezése folytán megváltozó ügyintézési határidőt a 2009. december 31-ét követően benyújtott kérelmekre kell alkalmazni azzal, hogy azon kérelmek tekintetében, amelyek ügyintézési határidejéből 2009. december 31-én még több mint negyven munkanap van hátra, az ügyintézési határidő fennmaradó részét úgy kell megállapítani, mintha a kérelmet 2010. január 1-jén nyújtották volna be.
+## 11. §[^17]
+
+[^17]: A 11. §-t a 289/2010. (XII. 21.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
