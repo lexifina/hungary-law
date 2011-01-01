@@ -6,7 +6,7 @@
 
 a) a szakképzésről szóló külön jogszabályok alapján alap-, közép-, emeltszintű, illetve felsőfokú szakképesítéssel,
 
-b) egészségügyi szakirányú szakmai képesítéssel vagy
+b) egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudomány képzési terület alapképzési szakán szerzett szakképzettséggel, vagy
 
 c) felsőfokú szakirányú szakmai képesítéssel
 
@@ -22,8 +22,8 @@ amelynek során az egészségügyi szakirányú szakmai továbbképzésben rész
 
 (5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről
 
-a) a (3) bekezdés a) pontjában meghatározott személyek tekintetében a vizsgáztatásra miniszter által feljogosított szerv,
+a) a (3) bekezdés a) és b) pontjában meghatározott személyek tekintetében a vizsgáztatásra miniszter által feljogosított szerv,
 
-b) a (3) bekezdés b) és c) pontjában meghatározott személyek tekintetében az ESZTT
+b) a (3) bekezdés c) pontjában meghatározott személyek tekintetében az ESZTT
 
 egészségügyi szakmai tevékenység végzésére jogosító bizonyítványt állít ki.

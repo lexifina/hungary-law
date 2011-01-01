@@ -94,9 +94,9 @@ gf) gyógyintézet vezetőjének és vezetőhelyetteseinek képesítési követe
 
 gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység végzésére jogosító engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait, az engedélyezési és bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
-gh) az ápolói szintekhez tartozó tevékenységi kompetenciákat,
+gh) az egyes egészségügyi szakképesítésekhez tartozó tevékenységi kompetenciákat,
 
-h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat,
+h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
 
 i) az egészségügyi ágazati szakmai képzések tekintetében
 
@@ -108,27 +108,9 @@ ic) a képző intézmények személyi és tárgyi feltételeit, a képzőhellyé
 
 id) az egészségügyi szakirányú szakmai képzés és az egészségügyi felsőfokú szakirányú szakmai képzés rendszerbevételi eljárásának szabályait, valamint a megszerezhető szakmai képesítéseinek körét,
 
-ie) az egészségügyi szakmai továbbképzés
+ie) az egészségügyi szakmai továbbképzés részletes szabályait és
 
-(i) teljesítésének feltételeit,
-
-(ii) elméleti és gyakorlati továbbképzési formáit,
-
-(iii) során közreműködő szervek kiválasztásának szabályait,
-
-(iv) szervezésére való jogosultság megszerzésére irányuló engedélyezési eljárás részletes szabályait és az engedély megadásának feltételeit,
-
-(v) továbbképzési programjainak minősítési szempontjait,
-
-if) az egészségügyi szakirányú szakmai továbbképzésben
-
-(i) megszerezhető egészségügyi szakmai tevékenység végzésére jogosító képesítések körét,
-
-(ii) megszerezhető képesítés birtokában végezhető szakmai tevékenységek körét,
-
-(iii) megszerezhető képesítések létesítésének feltételeit,
-
-(iv) közreműködő szervek kiválasztásának szabályait,
+if) az egészségügyi szakirányú szakmai továbbképzés részletes szabályait
 
 j) az Egészségügyi Szakképzési és Továbbképzési Tanács szervezetére, működésére, feladat- és hatáskörére vonatkozó részletes szabályokat,
 
@@ -239,21 +221,3 @@ cg) az egészségfejlesztési programok akkreditációjáért,
 ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
 
 ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
-
-cj) az egészségügyi szakmai továbbképzés szervezésével kapcsolatos engedélyezési eljárásért
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket
-
-rendeletben állapítsa meg.
-
-(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
-
-b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
-
-c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
-
-d)–i)
-
-j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,

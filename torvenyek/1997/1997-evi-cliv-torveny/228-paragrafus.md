@@ -10,10 +10,4 @@ a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgá
 
 b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
-(3) Minősített időszakon kívül valamely eseményt, ha az
-
-a) egy megyét (fővárost) érint, az egészségügyi államigazgatási szerv,
-
-b) több megyét érint, a miniszter
-
-minősíthet katasztrófának.
+(3) Minősített időszakon kívül valamely eseményt – annak függvényében, hogy az egy megyét (a fővárost) vagy több megyét érint – az egészségügyi államigazgatási szerv vagy az egészségügyi államigazgatási szerv felügyeleti szerve minősítheti katasztrófának.

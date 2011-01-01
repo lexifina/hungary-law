@@ -15,3 +15,5 @@ e) az iskola-egészségügyi ellátásról.
 (2) A települési önkormányzat képviselő-testülete megállapítja és kialakítja az egészségügyi alapellátások körzeteit, több településre is kiterjedő ellátás esetén a körzet székhelyét.
 
 (3) A helyi önkormányzat biztosítja a tulajdonában vagy használatában levő járóbeteg-szakellátást, illetőleg fekvőbeteg-szakellátást nyújtó egészségügyi intézmények működését.
+
+(4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.

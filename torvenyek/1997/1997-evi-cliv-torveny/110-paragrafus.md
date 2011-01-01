@@ -1,14 +1,14 @@
 110. § (1) Egészségügyi tevékenység – folytatásának formájától és módjától függetlenül – e törvény és külön törvény rendelkezéseire figyelemmel önállóan vagy felügyelet mellett végezhető.
 
-(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4) és (10) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
+(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4) és (10) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
 
 (3) A (2) bekezdés szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
 
 a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt,
 
-b) akit a működési nyilvántartásból a 113. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
+b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
 
-c) aki a 113. § (7) bekezdés szerinti kiegészítő gyakorlati képzésben vesz részt, vagy
+c) aki a 113/A. § (2) bekezdés szerinti kiegészítő gyakorlati képzésben vesz részt, vagy
 
 d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.
 
@@ -56,7 +56,7 @@ d) azon személyek természetes személyazonosító adatairól is, akik egy kor�
 
 (14) A kormányrendeletben meghatározott hatóság a (10) bekezdés szerinti eljárásban a nyilvántartásba vételt elutasítja, ha a bejelentő a működési nyilvántartásba a 113. § (1) bekezdés d), illetve e) pontjai alapján nem lehetne felvehető, vagy a nyilvántartásból törölni kellene.
 
-(15) A (3) bekezdés szerint felügyeletet ellátó személy köteles a felügyeleti tevékenység ellátását legkésőbb annak megkezdésétől számított 10 munkanapon belül a felügyelt személy 112. § (4) bekezdése a), f) és m) pontjára vonatkozó adataival együtt bejelenteni a működési nyilvántartást vezető szervnek. A felügyelet során a felügyeletet ellátó személy a felügyelt személy által önállóan nem végezhető szakmai tevékenységért teljes felelősséggel tartozik. A felügyeletet ellátó személy a felügyeleti tevékenység ellátásáért a külön jogszabályban meghatározott továbbképzési pontokra jogosult.
+(15) A (3) bekezdésben foglaltak alapján felügyelet mellett tevékenységet végző személy köteles ezt a tényt legkésőbb a felügyelet mellett végzett tevékenység megkezdésétől számított tizenöt napon belül a 112. § (4) bekezdés a), f) és m) pontja szerinti adataival együtt bejelenteni a működési nyilvántartást vezető szervnek. A felügyelet során a felügyeletet ellátó személy a felügyelt személy által önállóan nem végezhető szakmai tevékenységért teljes felelősséggel tartozik. A felügyeletet ellátó személy a felügyeleti tevékenység ellátásáért az egészségügyi dolgozók továbbképzéséről szóló miniszteri rendeletek szerinti továbbképzési pontokra jogosult.
 
 (16) A működési nyilvántartást vezető szerv
 
@@ -86,7 +86,7 @@ kell alkalmazni.
 
 (22) A (17) bekezdés szerinti elismerési eljárást kérelmezőnek az eljárásért a kérelem benyújtásakor hatályos, jogszabályban megszabott kötelező legkisebb munkabér háromnegyedének megfelelő összeget kell eljárási díjként befizetnie az elismerő hatóságként eljáró egészségügyi államigazgatási szerv számlájára.
 
-(23) Amennyiben a Magyarországon gazdasági céllal nem letelepedett, egészségügyi tevékenységet végző, a szabad mozgás és tartózkodás jogával rendelkező személlyel kapcsolatban olyan adat jut a kormányrendeletben meghatározott szerv tudomására, amely egyébként a 113. § (1) bekezdésének b)–d) pontja szerint a működési nyilvántartásból való törlést vonná maga után, a kormányrendeletben meghatározott szerv tájékoztatja a letelepedés szerinti EGT-államnak, illetve annak az EGT-államnak a hatáskörrel rendelkező hatóságát, amelynek területén az adott személy gazdasági célú letelepedéssel nem járó tevékenységet kíván végezni.
+(23) Amennyiben a Magyarországon gazdasági céllal nem letelepedett, egészségügyi tevékenységet végző, a szabad mozgás és tartózkodás jogával rendelkező személlyel kapcsolatban olyan adat jut a kormányrendeletben meghatározott szerv tudomására, amely egyébként a 113/A. § (1) bekezdésének b)–d) pontja szerint a működési nyilvántartásból való törlést vonná maga után, a kormányrendeletben meghatározott szerv tájékoztatja a letelepedés szerinti EGT-államnak, illetve annak az EGT-államnak a hatáskörrel rendelkező hatóságát, amelynek területén az adott személy gazdasági célú letelepedéssel nem járó tevékenységet kíván végezni.
 
 (24) Az (1) bekezdés szerinti szakképesítését a szakképesítés szerinti egészségügyi tevékenység végzése során, illetve azzal összefüggésben a tevékenységet végző köteles erre irányuló külön kérelem vagy felhívás nélkül megismerhetővé tenni.
 

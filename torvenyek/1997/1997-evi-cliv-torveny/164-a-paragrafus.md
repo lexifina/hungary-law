@@ -1,3 +1,3 @@
 164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése és az ETT engedélye alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
-(2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem benyújtását követő negyvenöt napon belül adja meg.
+(2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.

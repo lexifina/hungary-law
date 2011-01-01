@@ -32,6 +32,6 @@ i) a javasolt életmódról.
 
 (7) A tájékoztatáshoz fűződő jogok gyakorlásához szükséges feltételeket a fenntartó biztosítja.
 
-(8) A betegnek joga van arra, hogy számára érthető módon kapjon tájékoztatást, figyelemmel életkorára, iskolázottságára, ismereteire, lelkiállapotára, e tekintetben megfogalmazott kívánságára, valamint arra, hogy a tájékoztatáshoz szükség esetén és lehetőség szerint tolmácsot vagy jeltolmácsot biztosítsanak.
+(8) A betegnek joga van arra, hogy számára érthető módon kapjon tájékoztatást, figyelemmel életkorára, iskolázottságára, ismereteire, lelkiállapotára, e tekintetben megfogalmazott kívánságára, valamint arra, hogy a tájékoztatáshoz szükség esetén és lehetőség szerint tolmácsot vagy jelnyelvi tolmácsot biztosítsanak.
 
 (9) Az orvos a vizsgálatot megelőzően köteles a beteget – amennyiben állapota lehetővé teszi – arról tájékoztatni, hogy a vizsgálat és az azt követő ellátás térítési díját meg kell téríteni, ha a vizsgálat eredménye szerint sürgős szükség nem áll fenn és az ellátás költségének fedezete a központi költségvetésben és az Egészségbiztosítási Alapon keresztül sincs biztosítva.

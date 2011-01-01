@@ -46,6 +46,12 @@ b) a kutatás a kutatás alanyára nézve a minimálist jelentősen meg nem hala
 
 c) a kutatásra – az ETT-nek az a) és b) pontban foglalt feltételek fennállása kérdésében kiadott szakhatósági állásfoglalása alapján – a miniszter engedélyt ad.
 
-(6) A kutatást az elsőfokú eljárásban az ETT bizottságának, a másodfokú eljárásban az ETT Elnökségének a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy a külön jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott független, orvos, jogász, teológus, etikus és pszichológus szakemberekből álló bizottság véleményének kikérésével az egészségügyi államigazgatási szerv, valamint az ott meghatározott esetben a (7) bekezdés szerinti szerv engedélyezi.
+(6) A kutatást
 
-(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő hatvan napon belül a vizsgálatot nem tiltja meg.
+a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának, a másodfokú eljárásban az ETT Elnökségének a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
+
+b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével
+
+az egészségügyi államigazgatási szerv, valamint az ott meghatározott esetben a (7) bekezdés szerinti szerv engedélyezi.
+
+(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított hatvan napon belül a vizsgálatot nem tiltja meg.

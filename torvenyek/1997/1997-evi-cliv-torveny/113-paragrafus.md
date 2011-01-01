@@ -1,37 +1,25 @@
-113. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv törli azt a személyt
+113. § (1) Az egészségügyi dolgozó működési nyilvántartásának időtartama öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható.
 
-a) aki a 112/A. § szerint nyilvántartását az ott meghatározott határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították,
+(2) A működési nyilvántartás ötéves időtartama akkor újítható meg, ha
 
-b) aki 1 évet meghaladó végrehajtandó szabadságvesztést kimondó, illetve foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll,
+a) a nyilvántartott személy e törvényben és jogszabályban foglaltak szerint teljesítette továbbképzési kötelezettségét vagy mentesül a továbbképzési kötelezettségteljesítés alól, és ezt a működési nyilvántartást vezető szerv részére igazolja, valamint
 
-c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
+b) nyilvántartásba vételt kizáró ok nem áll fenn.
 
-d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
+(3) A működési nyilvántartás egy alkalommal, jogszabályban foglalt feltételekkel, az egészségügyi tevékenység végzésének Magyarországon vagy az EGT valamely más tagállamában történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a (4) bekezdésben foglalt eltéréssel.
 
-e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
+(4) A (3) bekezdésben foglaltaktól eltérően, ha a nyilvántartott személy jogszabályban meghatározott közfeladat ellátása miatt szünetelteti az egészségügyi tevékenységet, a működési nyilvántartást a közfeladat ellátásának időtartamával, de legfeljebb öt évvel lehet meghosszabbítani, jogszabályban foglaltak szerint.
 
-f) aki a 112. § (3) bekezdésének c) pontja szerinti továbbképzési kötelezettsége teljesítését a működési nyilvántartása időtartamának lejárta előtt, vagy legkésőbb a 113. § (5) bekezdés szerinti felhívásra nem igazolja,
-
-g) aki szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg,
-
-h) aki elhalálozott,
-
-i) aki a törlését kéri.
-
-(2) Az (1) bekezdés c)–d) pontjai esetében az alkalmatlanságot megállapító szerv határozatát közli a működési nyilvántartást vezető szervvel.
-
-(3) Az elhalálozást az egészségügyi szolgáltató, illetve az egészségügyi államigazgatási szerv jelenti a működési nyilvántartást vezető szervnek.
-
-(4) A működési nyilvántartásba vételre, megújításra, illetve meghosszabbításra vonatkozó feltételek fennállása esetén az egészségügyi dolgozó a működési nyilvántartásba akkor vehető fel, működési nyilvántartása akkor újítható vagy hosszabbítható meg, ha írásban nyilatkozik arról, hogy Magyarországon kívül egészségügyi tevékenységet
+(5) A működési nyilvántartásba vételre, megújításra, illetve meghosszabbításra vonatkozó feltételek fennállása esetén az egészségügyi dolgozó a működési nyilvántartásba akkor vehető fel, működési nyilvántartása akkor újítható vagy hosszabbítható meg, ha írásban nyilatkozik arról, hogy Magyarországon kívül egészségügyi tevékenységet
 
 a) végzett vagy végez, és az egészségügyi tevékenység végzésének helye szerinti állam(ok) jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt,
 
 b) nem végzett és nem végez.
 
-(5) A működési nyilvántartást vezető szerv a működési nyilvántartás megújítására nyitva álló határidő lejárta előtt 60 nappal írásban, az egészségügyi államigazgatási szerv és – ha az egészségügyi dolgozó munkáltatója ismert – a munkáltató egyidejű értesítése mellett értesíti az egészségügyi dolgozót a működési nyilvántartása lejártáról és felhívja az egészségügyi dolgozót a továbbképzési kötelezettségének határidőben történő igazolására. A felhívást – ha az egészségügyi dolgozó eddig az időpontig továbbképzési kötelezettsége teljesítését nem igazolta – az első felhívás kézbesítését követő 30 nap elteltével meg kell ismételni. A felhívások eredménytelensége esetén a második felhívás kézbesítését követő 30. napon az egészségügyi dolgozót a működési nyilvántartásból törölni kell.
+(6) Az az egészségügyi dolgozó, aki a működési nyilvántartásba való felvételét
 
-(6)
+a) első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, vagy
 
-(7) Az (1) bekezdés f) pontjában foglalt esetben, külön jogszabály szerinti időpontig nem törölhető a működési nyilvántartásból az az egészségügyi dolgozó, aki legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek bejelenti, hogy a nyilvántartásból való törlés elkerülése érdekében a külön jogszabály szerinti kiegészítő gyakorlati továbbképzésben részt vesz.
+b) a nyilvántartásból való törlését követően kéri,
 
-(8) A működési nyilvántartást vezető szerv minden év április 1-jéig a megelőző évben bekövetkezett adatváltozások egyeztetése céljából a 112. § (4) bekezdés a) pontjában, valamint a 113. § (1) bekezdés h) pontjában szereplő adatok tekintetében a személyiadat- és lakcímnyilvántartást vezető hatóságot megkeresi. A megkeresett hatóság az adategyeztetés során köteles együttműködni és a szükséges adatokat a működési nyilvántartást vezető szerv rendelkezésére bocsátani.
+e törvény, valamint jogszabály szerinti, a működési nyilvántartás megújításához szükséges továbbképzési kötelezettség teljesítésére vonatkozó feltételek szerint annyi továbbképzési pont igazolására köteles, amennyi egyébként a működési nyilvántartás megújításához szükséges, kivéve azon személyeket, akik e törvény alapján mentesülnek a továbbképzési kötelezettség teljesítése alól.

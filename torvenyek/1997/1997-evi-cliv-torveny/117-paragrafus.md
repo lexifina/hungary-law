@@ -6,15 +6,15 @@ b) ellátja
 
 ba) az egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsgáztatással kapcsolatos,
 
-bb) a 116/D. § (3) bekezdése b) és c) pontjában meghatározott személyek tekintetében az egészségügyi szakirányú szakmai továbbképzést lezáró vizsgáztatással kapcsolatos,
+bb) a 116/D. § (3) bekezdése c) pontjában meghatározott személyek tekintetében az egészségügyi szakirányú szakmai továbbképzést lezáró vizsgáztatással kapcsolatos,
 
-bc) a felsőfokú szakirányú szakmai képesítés megszerzését tanúsító szakvizsga-bizonyítvány, a bb) pontban meghatározott személyek tekintetében egészségügyi szakmai tevékenység végzésére jogosító okirat kiállításával összefüggő és
+bc) a felsőfokú szakirányú szakmai képesítés megszerzését tanúsító szakvizsga-bizonyítvány, a bb) pontban meghatározott személyek tekintetében egészségügyi szakmai tevékenység végzésére jogosító okirat kiállításával összefüggő feladatokat.
 
-bd) a 116/C. § (1)–(6) bekezdéseiben meghatározott engedélyezési és ellenőrzési feladatokat.
+bd)
 
 (2) Az ESZTT dönt
 
-a) a 116/C. § (1) bekezdésében meghatározott engedély megadásáról,
+a)
 
 b) az egyes továbbképzések pontértékéről és
 
@@ -24,7 +24,7 @@ c) az egészségügyi felsőfokú szakirányú szakmai képzés tekintetében az
 
 (4) Az ESZTT munkájában meghívottként részt vesz az oktatásért felelős miniszter képviselője.
 
-(5) Az ESZTT elektronikusan és papír alapon egyaránt nyilvántartást vezet a felsőoktatási mesterképzésben oklevelet szerzett és egészségügyi felsőfokú szakirányú szakképesítést vagy felsőoktatási alap- vagy mesterképzésben oklevelet szerzett és egészségügyi szakirányú szakmai képzésben vagy egészségügyi szakirányú szakmai továbbképzésben képesítést szerzett személyekről.
+(5) Az ESZTT elektronikusan és papír alapon egyaránt nyilvántartást vezet az egészségügyi felsőfokú szakirányú szakképesítést szerzett személyekről.
 
 (6) A nyilvántartás tartalmazza:
 

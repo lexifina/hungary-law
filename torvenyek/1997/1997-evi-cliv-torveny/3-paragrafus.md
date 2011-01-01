@@ -44,7 +44,7 @@ o) életfenntartó beavatkozás: a beteg életének mesterséges módon történ
 
 p) egészségügyi dokumentáció: az egészségügyi szolgáltatás során az egészségügyi dolgozó tudomására jutó, a beteg kezelésével kapcsolatos egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
 
-q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap- vagy mesterképzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai továbbképzés, egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
+q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
 
 r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér, valamint az élettárs;
 

@@ -1,9 +1,15 @@
-112/A. § (1) A 112. § (10) bekezdés a) pontja szerinti megújításra vonatkozó kérelmet a működési nyilvántartás lejáratának napjáig lehet benyújtani. A 112. § (10) bekezdés b) pontja szerinti meghosszabbítás iránti kérelmet a szüneteltetés tényének igazolásával együtt, annak megkezdése előtt, de legkésőbb a szüneteltetés megkezdésétől számított 5 munkanapon belül kell benyújtani.
+112/A. § (1) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a működési nyilvántartást vezető szerv részére – annak a működési nyilvántartásba történő bejegyzés iránti kérelme elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a működési nyilvántartást vezető szerv a (2) bekezdésben meghatározott adatokat igényelhet a bűnügyi nyilvántartó szervtől.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően az előre nem tervezhető események – különösen súlyos betegség, baleset – miatti szüneteltetés esetén a meghosszabbítás iránti kérelem előterjesztésére – a szüneteltetés tényének igazolásával együtt – az esemény bekövetkeztét követően 90 napig van lehetőség.
+(2) A működési nyilvántartást vezető szerv az érvényes működési nyilvántartással rendelkező egészségügyi dolgozó tekintetében a működési nyilvántartás érvényességi ideje alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a működési nyilvántartásba vett személy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a működési nyilvántartást vezető szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a működési nyilvántartásba vett személy 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(3) A 112. § (10) bekezdésében foglaltaktól eltérően, ha a nyilvántartott személy a külön jogszabályban meghatározott közfeladat ellátása miatt szünetelteti az egészségügyi tevékenységet, abban az esetben kérelmére a közfeladat ellátásának teljes idejével hosszabbodik meg a működési nyilvántartás időtartama.
+(3) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó köteles hozzájárulását adni ahhoz, hogy a működési nyilvántartást vezető szerv a (2) bekezdés szerinti hatósági ellenőrzést az ott meghatározottak szerint folyamatosan végezze mindaddig, míg az egészségügyi dolgozó a működési nyilvántartásban szerepel.
 
-(4) A meghosszabbítás iránti kérelem – az (1) és (2) bekezdésben foglaltak figyelembevételével – a működési nyilvántartás lejárta napját követően nem nyújtható be, akkor sem, ha az (1) vagy a (2) bekezdés szerinti határidő még nem telt el.
+(4) Az (1) és (2) bekezdés alapján megismert személyes adatokat a működési nyilvántartást vezető szerv
 
-(5) A szüneteltetésre okot adó körülmény megszűnését a működési nyilvántartásban szereplő személy 30 napon belül köteles bejelenteni.
+a) a működési nyilvántartásba történő bejegyzés iránti eljárás jogerős befejezéséig, vagy
+
+b) a (2) bekezdés szerinti hatósági ellenőrzés időtartamára, vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+
+kezeli.
+
+(5) A működési nyilvántartást vezető szerv a nyilvántartásba vételt, valamint a megújítást követően az egészségügyi dolgozó természetes személyazonosító adatait, a szakképesítésének, szakképesítéseinek, szakképzettségének vagy szakképzettségeinek megnevezését, az oklevelének, bizonyítványának számát, az alapnyilvántartási és a működési nyilvántartási számát, a működési nyilvántartásának lejárati dátumát, valamint az esetleges korlátozott alkalmasságának tényét tartalmazó hatósági igazolványt állít ki.

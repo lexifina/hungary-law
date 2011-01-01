@@ -12,7 +12,7 @@ b) koordináció és érdekegyeztetés az egészségügyi régió területén m�
 
 c) az Egészségügyi Fejlesztési Előirányzat (a továbbiakban: EFE) forrásaira kiírt pályázatokkal kapcsolatos feladatok ellátása, továbbá az EFE regionális részének kezelése,
 
-d) a regionális szakellátási normatívák felosztására irányuló külön jogszabály szerinti eljárás lebonyolítása,
+d)
 
 e) működési területén az egészségügyi közszolgáltatást igénybevevő betegek körében betegelégedettségi vizsgálatok végzése és ennek figyelembevétele a fejlesztési prioritások kijelölése során,
 
