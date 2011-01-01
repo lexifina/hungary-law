@@ -2,6 +2,6 @@
 
 13. § (1) Ez a rendelet 2000. július 1-jén lép hatályba.
 
-(2)–(3)[^1]
+(2)–(3)[^2]
 
-[^1]: A 13. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1161. pontja hatályon kívül helyezte.
+[^2]: A 13. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1161. pontja hatályon kívül helyezte.
