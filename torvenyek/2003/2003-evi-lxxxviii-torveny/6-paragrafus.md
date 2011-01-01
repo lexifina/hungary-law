@@ -16,7 +16,9 @@ f) az a személy, aki saját felhasználásra előállított villamos energia te
 
 g) az a személy, aki a párnagázkészlet feltöltésére vagy szinten tartására a föld alatti gáztárolóba, illetve a szállító- vagy elosztóvezeték feltöltése céljából a szállító- vagy elosztóvezetékbe földgázt tárol be;
 
-h) az a személy, aki hálózati engedélyesként a hálózati veszteség pótlása céljából használ fel energiát.
+h) az a személy, aki hálózati engedélyesként a hálózati veszteség pótlása céljából használ fel energiát;
+
+i) az a személy, aki nem tüzelő-, vagy fűtőanyagként használ fel szenet.
 
 (2) Az adó-visszaigénylésre (adólevonásra) jogosult személy az (1) bekezdésben megjelölt célra ténylegesen felhasznált mennyiség után,
 
@@ -42,7 +44,7 @@ napján nyílik meg. A vételár megfizetésének napja a kötelezett bankszáml
 
 (5) Az adóvisszaigénylési (adólevonási) jogosultság érvényesítéséhez
 
-a) az energia beszerzéséről kiállított, az adó feltüntetését is tartalmazó számlával, illetve kivetéses adózás esetén a vámhatóság adót megállapító határozatával,
+a) az energia beszerzéséről kiállított, – a (2) bekezdés c) pontja szerinti esetet kivéve – az adó feltüntetését is tartalmazó számlával, illetve kivetéses adózás esetén a vámhatóság adót megállapító határozatával,
 
 b) az energia (1) bekezdésben megjelölt célra történt felhasználását igazoló belső számviteli bizonylattal,
 
@@ -52,4 +54,4 @@ d) a (3) bekezdés szerinti esetben továbbá az adóvisszaigénylés, adólevon
 
 kell rendelkezni.
 
-(6) Az (5) bekezdés a) pontja szerinti számlaként olyan számla is elfogadható, amelyet az e törvény szerint adózottan beszerzett, és a külön jogszabály szerint jogszerűen, illetve szerződésszegésnek nem minősülő módon továbbadott energiáról állított ki a továbbadást végző közüzemi fogyasztó, feljogosított fogyasztó vagy felhasználó, és amelynek mellékletét képezi a továbbadást végző nevére kiállított, a továbbadott energia adóalanytól történt beszerzéséről szóló számla másolata.
+(6) Az (5) bekezdés a) pontja szerinti számlaként olyan számla is elfogadható, amelyet az e törvény szerint adózottan beszerzett, és a külön jogszabály szerint jogszerűen, illetve szerződésszegésnek nem minősülő módon továbbadott energiáról állított ki a továbbadást végző felhasználó, és amelynek mellékletét képezi a továbbadást végző nevére kiállított, a továbbadott energia adóalanytól történt beszerzéséről szóló számla másolata.

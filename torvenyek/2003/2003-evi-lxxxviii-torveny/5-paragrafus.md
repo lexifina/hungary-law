@@ -6,6 +6,8 @@ b) a 3. § (1) bekezdés d) pontja esetében az adóbevallási időszak utolsó 
 
 c) a 3. § (1) bekezdés e) pontja esetében a vámjogi szabadforgalomba bocsátáskor, a vámjogi szabadforgalomba bocsátott mennyiségre,
 
-d) a 3. § (1) bekezdés f)–g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre
+d) a 3. § (1) bekezdés f)–g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre,
+
+e) a 3. § (1) bekezdés i) pontja esetében a vásárláskor, a vásárolt szén mennyiségére
 
 keletkezik.

@@ -16,8 +16,8 @@ f) a személy saját felhasználásra termel energiát, kivéve, ha a termelt vi
 
 g) az energiakereskedő saját célra használ fel energiát,
 
-h) a felhasználó az a)–g) pontban nem említett esetben energiaadóval nem terhelt energiát vásárol,
+h) a felhasználó az a)–g) pontban nem említett esetben energiaadóval nem terhelt energiát vásárol vagy használ fel,
 
 i) a felhasználó a szén vásárlásakor valótlan nyilatkozatot tesz az energiakereskedőnek arról, hogy lakossági fogyasztó.
 
-(2) Az adó alanya az (1) bekezdés b) pontja esetében az energiakereskedő, az (1) bekezdés c)–e) pontja esetében a felhasználó, az (1) bekezdés f) pontja esetében az előállító, az (1) bekezdés g) pontja esetében az energiakereskedő, illetve a hálózati engedélyes, az (1) bekezdés h) és i) pontja esetében a felhasználó (a továbbiakban együtt: adóalany).
+(2) Az adó alanya az (1) bekezdés b) pontja esetében az energiakereskedő, az (1) bekezdés c)–e) pontja esetében a felhasználó, az (1) bekezdés f) pontja esetében az előállító, az (1) bekezdés g) pontja esetében az energiakereskedő, az (1) bekezdés h) és i) pontja esetében a felhasználó (a továbbiakban együtt: adóalany).
