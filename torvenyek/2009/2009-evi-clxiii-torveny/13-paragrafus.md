@@ -12,6 +12,6 @@ ac) az e törvényben meghatározott joghátrányokat alkalmazza;
 
 b) az eljárást megszünteti és a határozatában megállapítja, hogy a vizsgálati eljárás elrendelésére okot adó feltételezett körülmények nem állnak fenn, vagy a vizsgálati eljárás során beszerzett bizonyítékok alapján nem állapítható meg a tisztességes eljárás követelményeinek megsértése, és a vizsgálati eljárás folytatásától sem várható eredmény; vagy
 
-c) végzésben úgy rendelkezhet, hogy az iratokat a vizsgálónak visszaadja, ha megállapítja, hogy a tényállás teljes körű tisztázásához további vizsgálatra van szükség, illetve a vizsgálati eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt, ebben az esetben legfeljebb 44 munkanapos határidőt állapíthat meg a vizsgáló részére.
+c) végzésben úgy rendelkezhet, hogy az iratokat a vizsgálónak visszaadja, ha megállapítja, hogy a tényállás teljes körű tisztázásához további vizsgálatra van szükség, illetve a vizsgálati eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt, ebben az esetben legfeljebb két hónapos határidőt állapíthat meg a vizsgáló részére.
 
 (2) A döntést a bejelentővel is közölni kell.

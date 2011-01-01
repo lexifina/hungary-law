@@ -8,7 +8,7 @@
 
 (4) A Hivatal a tudomására jutott tények, adatok értékelése alapján, a tisztességes eljárás követelményét sértő magatartással biztosított vagy lehetővé tett előny feltételezett mértékét is mérlegelve dönti el, hogy a vizsgálati eljárást megindítja, vagy azt mellőzi. Ha az előny jelentős mértékű, a Hivatal a vizsgálati eljárást megindítja.
 
-(5) Ha a Hivatal bejelentés alapján jár el, a vizsgálati eljárás megindításáról a bejelentéstől számított nyolc munkanapon belül dönt. Ha a tudomására jutott tények, adatok alapján az elért, vagy elérni kívánt előny jelentős mértéke valószínűsíthető, de a rendelkezésre álló tények és adatok alapján a vizsgálati eljárás megindításának szükségességéről más okból nem lehet egyértelműen állást foglalni, a Hivatal elnöke intézkedik az eljárás megindításáról szóló döntéshez szükséges adatok további tizenöt munkanapon belüli beszerzéséről.
+(5) Ha a Hivatal bejelentés alapján jár el, a vizsgálati eljárás megindításáról a bejelentéstől számított tíz napon belül dönt. Ha a tudomására jutott tények, adatok alapján az elért, vagy elérni kívánt előny jelentős mértéke valószínűsíthető, de a rendelkezésre álló tények és adatok alapján a vizsgálati eljárás megindításának szükségességéről más okból nem lehet egyértelműen állást foglalni, a Hivatal elnöke intézkedik az eljárás megindításáról szóló döntéshez szükséges adatok további húsz napon belüli beszerzéséről.
 
 (6) A Hivatal nem indít vizsgálati eljárást, ha
 
