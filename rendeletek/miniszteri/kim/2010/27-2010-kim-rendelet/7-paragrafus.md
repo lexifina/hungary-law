@@ -1,0 +1,3 @@
+## „(3) Az európai szabadalom szövegéről készített fordításnak az igénypontok magyar nyelvű, valamint – ha az Európai Szabadalmi Hivatal előtti eljárás nyelve a francia vagy a német volt – a szabadalmi leírás és a rajzokon szereplő szöveg angol vagy magyar nyelvű fordítását kell tartalmaznia; ilyenkor a rajzokat akkor is be kell nyújtani, ha azokon magyarra vagy angolra fordítandó szöveg nincs.
+
+## (4) Az európai szabadalom igénypontjainak és azokon kívüli szövegének fordítását a 2. § (2)–(5) bekezdésében foglaltak szerint kell elkészíteni, azzal az eltéréssel, hogy azt egy példányban kell benyújtani és a kivonattal kapcsolatos rendelkezések nem alkalmazandók.”
