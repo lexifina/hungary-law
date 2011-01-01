@@ -1,29 +1,37 @@
-3/A. §[^24] (1) A költségvetési szervek és a fejezeti kezelésű előirányzatok
+3/A. §[^12] (1) A költségvetési szervek és a fejezeti kezelésű előirányzatok
 
 a) kiadásait az Áht. 24. § (2) bekezdése szerinti előirányzatok alkotják,
 
 b) tárgyévi forrásai
 
-ba) a támogatás, amely – a bb) pont szerinti eset kivételével – a központi költségvetésből, a társadalombiztosítási költségvetési szervek részére a társadalombiztosítás pénzügyi alapjaiból, a helyi önkormányzat, a többcélú kistérségi társulás, a helyi kisebbségi, az országos kisebbségi önkormányzat költségvetéséből származik,
+ba) alaptevékenységéhez kapcsolódó tárgyévi forrásain belül kiemelt előirányzatot képez
 
-bb) a támogatásértékű bevétel, amely az elkülönített állami pénzalapból, a ba) pontba nem tartozó esetben helyi önkormányzattól, többcélú kistérségi társulástól, a társadalombiztosítás pénzügyi alapjaiból, a társadalombiztosítási költségvetési szervek részére a központi költségvetésből, az európai uniós forrásból finanszírozott programok végrehajtására nyitott lebonyolítási vagy célelszámolási számlán lévő pénzeszközből, a fejezeti kezelésű előirányzat bevételeként elszámolható összegből, a helyi önkormányzati költségvetési szerv esetén központi költségvetési fejezet előirányzatából származik,
+baa) a kapott támogatás, amely – a bab) pont szerinti eset kivételével – a központi költségvetésből, a társadalombiztosítási költségvetési szervek részére a társadalombiztosítás pénzügyi alapjaiból, a helyi önkormányzat, a többcélú kistérségi társulás, a helyi kisebbségi, az országos kisebbségi önkormányzat költségvetéséből származik,
 
-bc) a közhatalmi bevétel, amely az igazgatási szolgáltatási díjnak, a felügyeleti díjnak, a pénzbüntetésnek, és a bírságbevételnek a fizetési kötelezettséget előíró jogszabályban meghatározott mértéke,
+bab) a működési és a felhalmozási célú támogatásértékű bevételek, amelyek az elkülönített állami pénzalapból, a baa) pontba nem tartozó esetben helyi önkormányzattól, többcélú kistérségi társulástól, a társadalombiztosítás pénzügyi alapjaiból, a társadalombiztosítási költségvetési szervek részére a központi költségvetésből, az európai uniós forrásból finanszírozott programok végrehajtására nyitott lebonyolítási vagy célelszámolási számlán lévő pénzeszközből, a fejezeti kezelésű előirányzat bevételeként elszámolható összegből, a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatából, a helyi önkormányzati költségvetési szerv esetén központi költségvetési fejezet előirányzatából származnak,
 
-bd) az átvett pénzeszköz mint az államháztartáson kívülről származó olyan forrás, amely ellenében az átadó államháztartáson kívüli szervezet, személy az ellátandó feladatot meghatározhatja, de ellenszolgáltatást nem kér, az abból létrejött eredmény hasznosítási jogát nem köti ki, a költségvetési szervet vagy a központi, fejezeti kezelésű előirányzat kezelő szervét számlaadási kötelezettség külön jogszabály alapján nem terheli,
+bac) a közhatalmi bevételek, amelyek az igazgatási szolgáltatási díjból, a felügyeleti díjból, és a bírságbevételből származnak,
 
-be) a ba)–bd) és bf)–bg) pontokon kívüli jogcímeken keletkező egyéb működési és felhalmozási célú bevételek, így különösen az eszközök értékesítése és a nyújtott szolgáltatások ellenértéke, a bérleti és lízingdíj bevételek, az intézményi ellátási díjak, az alkalmazottak térítése, az általános forgalmi adó bevételek- és visszatérülések és a pénzügyi műveletek bevételei,
+bad) az intézményi működési bevételek, amelyek a működés során keletkezett bevételekből – így különösen az áru- és készletértékesítés, a nyújtott szolgáltatások ellenértéke, a bérleti és lízingdíj bevételek, az intézményi ellátási díjak, az alkalmazottak térítése, az általános forgalmi adó bevételek- és visszatérülések, valamint a hozam- és kamatbevételek – származnak,
 
-bf) vállalkozási bevétel, amely a költségvetési szerv vállalkozási tevékenysége során befolyó működési és felhalmozási célú bevétel,
+bae) a felhalmozási bevételek, amelyek a tárgyi eszközök és immateriális javak értékesítése és a pénzügyi befektetések bevételeiből származnak,
 
-bg) az átvett maradvány, amely központi költségvetési szerv, fejezeti kezelésű előirányzat, valamint az államháztartás nem központi költségvetési alrendszere maradványából származik,
+baf) a működési és a felhalmozási célú átvett pénzeszközök, mint az államháztartáson kívülről származó olyan források, amelyek ellenében az átadó államháztartáson kívüli szervezet vagy személy az ellátandó feladatot meghatározhatja, de ellenszolgáltatást nem kér, az abból létrejött eredmény hasznosítási jogát nem köti ki, a költségvetési szervet vagy a központi, fejezeti kezelésű előirányzat kezelő szervét számlaadási kötelezettség külön jogszabály alapján nem terheli,
 
-c) előző évi (évekbeli) forrásai
+bag) az előző évi működési és felhalmozási célú maradvány átvétele, amely központi költségvetési szerv, fejezeti kezelésű előirányzat, valamint az államháztartás nem központi költségvetési alrendszere maradványából származik,
 
-ca) a pénzmaradvány és az előirányzat-maradvány,
+bah) a kölcsönök, amelyek a kapott kölcsönökből és a nyújtott kölcsönök visszatérüléseiből származnak,
 
-cb) a vállalkozási tevékenység maradványa.
+bai) a finanszírozási bevételek, amelyek a belföldi hitelműveletek bevételeiből és a külföldi finanszírozás bevételeiből származnak,
 
-(2) A központi kezelésű előirányzatok kiadásaira és forrásaira az (1) bekezdés a) és ba)–be) pontjaiban foglalt szabályokat kell alkalmazni. Az alapok kiadásairól és bevételeiről külön törvények rendelkeznek.
+bb) a vállalkozási bevétel, amely a költségvetési szerv vállalkozási tevékenysége során befolyó működési és felhalmozási célú bevétel,
 
-[^24]: A 3/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
+c) előző évi (évekbeli), pénzforgalom nélküli forrásai
+
+ca) az előző évi előirányzat-maradvány, pénzmaradvány igénybevétele,
+
+cb) az előző évek vállalkozási maradványának igénybevétele.
+
+(2) A központi kezelésű előirányzatok kiadásaira és forrásaira az (1) bekezdés a) és baa)-bai) pontjaiban foglalt szabályokat kell alkalmazni. Az alapok kiadásairól és bevételeiről törvény rendelkezik.
+
+[^12]: A 3/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 4. §-a iktatta be, szövege a 313/2010. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

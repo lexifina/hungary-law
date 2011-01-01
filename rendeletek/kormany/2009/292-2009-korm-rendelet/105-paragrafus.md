@@ -1,4 +1,4 @@
-## 101–104. §[^165]
+## 101–104. §[^189]
 
 ## AZ ORSZÁGOS KISEBBSÉGI ÖNKORMÁNYZAT GAZDÁLKODÁSÁRA VONATKOZÓ SAJÁTOS SZABÁLYOK
 
@@ -40,4 +40,4 @@ b) intézkedni azon ingó és ingatlan vagyonnak, pénzeszköznek és iratanyagn
 
 (9) A megszűnő országos kisebbségi önkormányzat vagyonának ideiglenes kezelői a (7) bekezdés szerinti beszámoló kézhezvételétől számított tizenöt napon belül együttműködési megállapodást kötnek azzal a céllal, hogy az önkormányzati vagyon összehangolt kezelését, az intézmények folyamatos működését, a kisebbségi közügyek ellátását biztosítsák.
 
-[^165]: A 101–104. §-t és a 101. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^189]: A 101–104. §-t és a 101. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

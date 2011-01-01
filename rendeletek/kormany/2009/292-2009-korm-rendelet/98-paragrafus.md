@@ -1,3 +1,3 @@
-## 97. §[^163]
+## 97. §[^187]
 
-[^163]: A 97. §-t és az azt megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^187]: A 97. §-t és az azt megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

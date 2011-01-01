@@ -1,6 +1,6 @@
 ## A KINCSTÁRI BIZTOS
 
-164. § (1)[^197] Az államháztartásért felelős miniszter, továbbá – a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó fejezetekhez sorolt költségvetési szervek esetében a Kormány kezdeményezésére – az Országgyűlés (e cím alkalmazásában a továbbiakban együtt: kijelölő szerv) kincstári biztost jelöl ki a központi költségvetési szervhez, ha
+164. § (1)[^237] Az államháztartásért felelős miniszter, továbbá – a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó fejezetekhez sorolt költségvetési szervek esetében a Kormány kezdeményezésére – az Országgyűlés (e cím alkalmazásában a továbbiakban együtt: kijelölő szerv) kincstári biztost jelöl ki a központi költségvetési szervhez, ha
 
 a) annak elismert, az esedékességet követő hatvan napon túli tartozásállománya meghaladja az éves költségvetése eredeti kiadási előirányzatának 3,5%-át, vagy összege meghaladja az ötvenmillió forintot,
 
@@ -8,9 +8,9 @@ b) zárójelentéssel lezárult kincstári biztosi tevékenység után egy éven
 
 c) a Kincstár nyilvántartásaiból nyert adatok, a költségvetési szerv likviditási helyzete, illetve összes adósságának mértéke és aránya a gazdálkodás tartós kiegyensúlyozatlanságát jelzik.
 
-(2)[^198] A kincstári biztos kijelölését az (1) bekezdésben foglalt tartozásállomány elérése esetén az államháztartásért felelős miniszternél a Kincstár kezdeményezi. A Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó fejezetekhez sorolt költségvetési szerv esetében az államháztartásért felelős miniszter a javaslatot a Kormány elé terjesztése előtt az irányító szervvel egyezteti.
+(2)[^238] A kincstári biztos kijelölését az (1) bekezdésben foglalt tartozásállomány elérése esetén az államháztartásért felelős miniszternél a Kincstár kezdeményezi. A Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó fejezetekhez sorolt költségvetési szerv esetében az államháztartásért felelős miniszter a javaslatot a Kormány elé terjesztése előtt az irányító szervvel egyezteti.
 
-(3)[^199] A kincstári biztos tevékenységét a kijelölő szerv nevében az államháztartásért felelős miniszter, az irányító szerv vezetője és a Kincstár kijelölt vezetőiből álló ad hoc bizottság irányítja.
+(3)[^239] A kincstári biztos tevékenységét a kijelölő szerv nevében az államháztartásért felelős miniszter, az irányító szerv vezetője és a Kincstár kijelölt vezetőiből álló ad hoc bizottság irányítja.
 
 (4) Kincstári biztosnak
 
@@ -34,6 +34,6 @@ d) az (1) bekezdésben megállapított tartozásállomány jogosultjai tekintet�
 
 e) a költségvetési szerv vezetőjének, gazdasági vezetőjének vagy alkalmazottjának a Ptk. szerint hozzátartozója, e minőségének fennállása alatt, illetve annak megszűnésétől számított három évig.
 
-[^197]: A 164. § (1) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^198]: A 164. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^199]: A 164. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^237]: A 164. § (1) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^238]: A 164. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^239]: A 164. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.

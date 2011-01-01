@@ -6,6 +6,6 @@
 
 (4) A szöveges indokolásban a (3) bekezdésben foglaltakon túl ismertetni kell a központi és a fejezeti kezelésű előirányzatok célját, főbb feladatait, azon szervezetek típusait – amennyiben ismert azok körét –, amelyek azok pénzeszközeiből részesülnek, valamint az előirányzatból nyújtott támogatások főbb jellemzőit.
 
-(5)[^66]
+(5)[^63]
 
-[^66]: A 31. § (5) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^63]: A 31. § (5) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

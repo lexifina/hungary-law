@@ -1,27 +1,18 @@
-## ELŐIRÁNYZATOK MEGVÁLTOZTATÁSA A KÖZPONTI KÖLTSÉGVETÉSI SZERVNÉL IRÁNYÍTÓ SZERVI HATÁSKÖRBEN
+## Előirányzatok megváltoztatása a fejezetet irányító szerv hatáskörében[^102]
 
-58. §[^96] (1) Ha törvény eltérően nem rendelkezik a központi költségvetési szerv irányító szerve év közben – egyszeri vagy tartós jelleggel –
+58. §[^103] (1) Ha törvény eltérően nem rendelkezik a fejezetet irányító szerv a fejezeti kezelésű előirányzatok és az irányítása alá tartozó központi költségvetési szervek esetén
 
-a) a fejezeti kezelésű előirányzatok terhére a fejezet irányítása alá tartozó költségvetési szervek javára, és címen belül a költségvetési szervek között átcsoportosítást hajthat végre,
+a) gyakorolja az Áht. 27. § (3)–(5) bekezdésében és 27/A–27/B. §-ában meghatározott jogokat,
 
-b) a költségvetési szerv előirányzatai terhére átcsoportosítást hajthat végre a fejezeti kezelésű előirányzatok javára, ha a működési költségvetés előirányzatain megtakarítás keletkezik,
+b) a Kormány döntése vagy a fejezetet irányító szervek megállapodása alapján átcsoportosított összeggel a kiadási és az ahhoz kapcsolódó támogatási előirányzatokat megváltoztathatja,
 
-c) a Kormány döntése vagy a fejezetet irányító szervek között kötött megállapodás alapján átcsoportosított összeggel a kiadási és az ahhoz kapcsolódó támogatási előirányzatokat megnövelheti,
+c) a bevételek elmaradása esetén – az elmaradás okainak értékelése alapján – a kiadások és a bevételek előirányzatát a támogatási előirányzat egyidejű változtatásával vagy változtatása nélkül csökkentheti.
 
-d) a bevételek elmaradása esetén – az elmaradás okainak értékelése alapján – a kiadások és a bevételek előirányzatát a támogatási előirányzat egyidejű változtatásával vagy változtatása nélkül csökkentheti,
+(2) Az Áht. 27/B. § (1) bekezdése és 100/A. § (1) bekezdés a) pontja szerinti átcsoportosításhoz a Kormány irányítása alá tartozó fejezetet irányító szervnek abban az esetben kell az államháztartásért felelős miniszter előzetes engedélyét kérnie, ha a tárgyévben az előirányzat-átcsoportosítás során csökkenteni tervezett előirányzat-csoportból addig átcsoportosított előirányzatok összevont összege meghaladja, vagy az átcsoportosítás végrehajtásával meghaladná az adott előirányzat-csoport eredeti kiadási előirányzata főösszegének 10%-át.
 
-e) az időarányos és teljesítményarányos finanszírozású kiadási előirányzatok között, a forrást biztosító támogatási előirányzatok összegét megváltoztató előirányzat-átcsoportosítást hajthat végre,
+(3) A fejezetet irányító szerv az irányítása alá tartozó költségvetési szerv előirányzatát nem csökkentheti a miniszter által adományozott kitüntetések, elismerések, és az irányító szerv jutalmazási vagy más teljesítményösztönzési célú kifizetései pénzügyi fedezetének biztosítása céljából.
 
-f) a jóváhagyott előirányzatok felhasználását – ha azokat bizonyos feltételhez kötötte – indokolt esetben, az Áht. 100/F. §-ában foglaltakra is figyelemmel év közben időszakosan korlátozhatja vagy saját rendelkezésébe vonhatja, amiről a költségvetési szervét és a Kincstárt egyidejűleg értesíti,
+(4) E §-ban foglalt intézkedések elrendelésére a fejezetet irányító szerv vezetője, vagy az általa írásban kijelölt, a fejezetet irányító szerv állományába tartozó személy jogosult, és az intézkedést a 74. § szabályainak megfelelően kijelölt ellenjegyző ellenjegyzi.
 
-g) az Áht. 100/A. § (1) bekezdés a) pontja szerinti előirányzat-átcsoportosítást hajthat végre,
-
-h) az Áht. 100/B. § (1) bekezdése és e rendelet 59/A. §-a alapján felhasználásra engedélyezett többletbevétellel a bevételi és a hozzá kapcsolódó kiadási előirányzatokat megnövelheti.
-
-(2) A központi költségvetésben fejezetet alkotó, de a Kormány vagy miniszter irányítása vagy felügyelete alá nem tartozó szervek és testületek esetében az Áht. 39. § (5) bekezdésében foglalt előirányzat-átcsoportosítási jogokat a fejezetet irányító szerv vezetője gyakorolja.
-
-(3) Az (1) bekezdés g) pontja szerinti átcsoportosításhoz a Kormány irányítása alá tartozó fejezetet irányító szervnek abban az esetben kell az államháztartásért felelős miniszter előzetes engedélyét kérnie, ha a tárgyévben az előirányzat-átcsoportosítás során csökkenteni tervezett előirányzat-csoportból addig átcsoportosított előirányzatok összevont összege meghaladja, vagy az átcsoportosítás végrehajtásával meghaladná az adott előirányzat-csoport eredeti kiadási előirányzata főösszegének 10%-át.
-
-(4) A fejezetet irányító szerv az irányítása alá tartozó költségvetési szerv előirányzatát nem csökkentheti a miniszter által adományozott kitüntetések, elismerések, és az irányító szerv jutalmazási vagy más teljesítményösztönzési célú kifizetései pénzügyi fedezetének biztosítása céljából.
-
-[^96]: Az 58. § a 226/2010. (VIII. 13.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^102]: Az 58. §-t megelőző alcím a 313/2010. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^103]: Az 58. § a 313/2010. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.

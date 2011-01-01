@@ -16,11 +16,11 @@ f) az ellenőrzési jelentések, valamint az azok alapján készült intézkedé
 
 (2) A tervezésben közvetlenül részt vevő szervek:
 
-a)[^56] a Nemzetgazdasági Minisztérium,
+a)[^53] az államháztartásért felelős miniszter által irányított minisztérium,
 
 b) a fejezetet irányító szervek az általuk irányított fejezet, valamint szabályozott ágazat tekintetében,
 
-c)[^57] a Belügyminisztérium a helyi önkormányzatok, a kisebbségpolitikáért felelős állami szerv a helyi kisebbségi önkormányzatok és az országos kisebbségi önkormányzatok költségvetési kapcsolatai tekintetében,
+c)[^54] a helyi önkormányzatokért felelős miniszter által irányított minisztérium a helyi önkormányzatok, a kisebbségpolitikáért felelős állami szerv a helyi kisebbségi önkormányzatok és az országos kisebbségi önkormányzatok költségvetési kapcsolatai tekintetében,
 
 d) az alapok kezelői,
 
@@ -28,5 +28,5 @@ e) a Kincstár.
 
 (3) A költségvetési tervezésbe bevonandó államháztartáson kívüli szervezetek körét és az adatszolgáltatási kötelezettséget az 1. számú melléklet tartalmazza.
 
-[^56]: A 25. § (2) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^57]: A 25. § (2) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^53]: A 25. § (2) bekezdés a) pontja a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^54]: A 25. § (2) bekezdés c) pontja a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

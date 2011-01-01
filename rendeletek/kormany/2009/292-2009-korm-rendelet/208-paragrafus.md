@@ -14,12 +14,12 @@ e) a munkaadókat terhelő járulékok előirányzatának támogatással fedezet
 
 f) a gazdálkodási szabályok megsértéséből származó maradvány,
 
-g)[^242] az európai uniós forrásból finanszírozott programok és a kiotói egységek és kibocsátási egységek eladásából befolyt bevételek kivételével az az összeg, amelyet a költségvetési szervnek támogatási szerződés, megállapodás, feladatellátási megállapodás alapján juttattak, de arra a szerződés, megállapodás megkötésétől számított harminc napon belül nem vállalt kötelezettséget,
+g)[^306] az európai uniós forrásból finanszírozott programok és a kiotói egységek és kibocsátási egységek eladásából befolyt bevételek kivételével az az összeg, amelyet a költségvetési szervnek támogatási szerződés, megállapodás, feladatellátási megállapodás alapján juttattak, de arra a szerződés, megállapodás megkötésétől számított harminc napon belül nem vállalt kötelezettséget,
 
-h)[^243] az a)–g) ponton felüli kötelezettségvállalással nem terhelt előirányzat-maradvány az Áht. 24/B. § (6) bekezdésében foglalt kivételekkel.
+h)[^307] az a)–g) ponton felüli kötelezettségvállalással nem terhelt előirányzat-maradvány az Áht. 24/B. § (6) bekezdésében foglalt kivételekkel.
 
-(2)–(3)[^244]
+(2)–(3)[^308]
 
-[^242]: A 208. § (1) bekezdés g) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^243]: A 208. § (1) bekezdés h) pontját a 226/2010. (VIII. 13.) Korm. rendelet 57. §-a iktatta be.
-[^244]: A 208. § (2)–(3) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^306]: A 208. § (1) bekezdés g) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^307]: A 208. § (1) bekezdés h) pontját a 226/2010. (VIII. 13.) Korm. rendelet 57. §-a iktatta be.
+[^308]: A 208. § (2)–(3) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

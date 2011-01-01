@@ -1,6 +1,6 @@
-113. § (1)[^170] A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez a kedvezményezettnek a támogatóhoz be kell nyújtania a (2)–(3) bekezdés szerinti nyilatkozatokat, dokumentumokat a (4)–(6) bekezdésben foglalt szabályok figyelembevételével. A nyilatkozatok, dokumentumok benyújtásának határideje a (2) bekezdés c) pontja szerinti nyilatkozat esetén a támogatási döntés meghozatalának, egyéb nyilatkozatok, dokumentumok esetén a támogatói okirat kiadásának vagy a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés a)–b) és d)–h) pontja szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
+113. § (1)[^194] A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez a kedvezményezettnek a támogatóhoz be kell nyújtania a (2)–(3) bekezdés szerinti nyilatkozatokat, dokumentumokat a (4)–(6) bekezdésben foglalt szabályok figyelembevételével. A nyilatkozatok, dokumentumok benyújtásának határideje a (2) bekezdés c) pontja szerinti nyilatkozat esetén a támogatási döntés meghozatalának, egyéb nyilatkozatok, dokumentumok esetén a támogatói okirat kiadásának vagy a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés a)–b) és d)–h) pontja szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
 
-(2)[^171] A kedvezményezettől írásbeli nyilatkozatot kell kérni
+(2)[^195] A kedvezményezettől írásbeli nyilatkozatot kell kérni
 
 a) a támogatási igényében foglalt adatok, információk és dokumentumok teljeskörűségéről, valódiságáról és hitelességéről, valamint arról, hogy az adott tárgyban támogatási igényt korábban vagy egyidejűleg mikor és hol nyújtott be,
 
@@ -40,8 +40,8 @@ d) jogszabály, a pályázati felhívás vagy a támogató által előírt egyé
 
 (5) Központi költségvetési szerv vagy a támogató tulajdonában álló, vagy általa alapított gazdálkodó szervezet támogatási igénye esetében – ideértve azt az esetet is, ha a támogató a gazdálkodó szervezet felett alapítói, illetve tulajdonosi (tagsági, részvényesi, szavazatelsőbbségi) jogokat gyakorol – nem kell csatolni az (1)–(2) bekezdésben nevesített azon nyilatkozatokat, dokumentumokat, illetve nem kell a támogatási szerződésben megtenni azokat a nyilatkozatokat, amelyek olyan tények fennállását tanúsítják, amelyekről a támogatónak egyébként hivatalos tudomása van.
 
-(6)[^172] Külföldi kedvezményezett esetén – amennyiben jogszabály másként nem rendelkezik – a (2) bekezdés d) és h) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a b) pontban meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő.
+(6)[^196] Külföldi kedvezményezett esetén – amennyiben jogszabály másként nem rendelkezik – a (2) bekezdés d) és h) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a b) pontban meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő.
 
-[^170]: A 113. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^171]: A 113. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^172]: A 113. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^194]: A 113. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^195]: A 113. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^196]: A 113. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.

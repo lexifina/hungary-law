@@ -1,6 +1,6 @@
 36. § (1) A helyi önkormányzat költségvetési rendelettervezete az alábbi szerkezetben készül:
 
-a)[^78] az önkormányzat és a költségvetési szervek bevételei forrásonként az államháztartásért felelős miniszternek az elemi költségvetés összeállítására vonatkozó tájékoztatójában rögzített főbb jogcím-csoportonkénti részletezettségben,
+a)[^77] az önkormányzat és a költségvetési szervek bevételei forrásonként az államháztartásért felelős miniszternek az elemi költségvetés összeállítására vonatkozó tájékoztatójában rögzített főbb jogcím-csoportonkénti részletezettségben,
 
 b) az önkormányzat és a költségvetési szervek működési, fenntartási kiadási előirányzatai költségvetési szervenként, kiemelt előirányzatonként részletezve,
 
@@ -16,7 +16,7 @@ eb) a céltartalék,
 
 ec) a költségvetési bevételek és kiadások különbözeteként a költségvetési többlet vagy hiány összege,
 
-ed) a költségvetési hiány belső finanszírozására szolgáló előző évek pénzmaradványa működési, illetve felhalmozási cél szerinti tagolásban,
+ed)[^78] a költségvetési hiány belső finanszírozására szolgáló előző évek pénzmaradványa, vállalkozási maradványa működési, illetve felhalmozási cél szerinti tagolásban,
 
 ee) az ed) ponton kívüli költségvetési hiány külső finanszírozására vagy a költségvetési többlet felhasználására szolgáló finanszírozási célú műveletek bevételei, kiadásai működési, illetve felhalmozási cél szerinti tagolásban,
 
@@ -56,5 +56,6 @@ e) egyéb nyújtott kedvezmény vagy kölcsön elengedésének összege.
 
 (7) Amennyiben a helyi önkormányzat, illetve a többcélú kistérségi társulás megállapodást köt más helyi önkormányzattal vagy többcélú kistérségi társulással költségvetési szerve gazdálkodási, műszaki feladatainak ellátására, a költségvetési szerv költségvetése az irányítását végző önkormányzat, illetve többcélú kistérségi társulás költségvetésébe épül be.
 
-[^78]: A 36. § (1) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^77]: A 36. § (1) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^78]: A 36. § (1) bekezdés e) pont ed) alpontja a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
 [^79]: A 36. § (6) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

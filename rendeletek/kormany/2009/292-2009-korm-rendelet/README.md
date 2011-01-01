@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-292-20-
 | 2010-10-01 | 2009-292-20-22.6 | 241/2010. (IX. 24.) Korm. rendelet |
 | 2010-10-08 | 2009-292-20-22.7 | 19/2010. (XII. 10.) BM utasítás |
 | 2010-12-24 | 2009-292-20-22.8 | 313/2010. (XII. 23.) Korm. rendelet |
+| 2011-01-01 | 2009-292-20-22.9 | 313/2010. (XII. 23.) Korm. rendelet |

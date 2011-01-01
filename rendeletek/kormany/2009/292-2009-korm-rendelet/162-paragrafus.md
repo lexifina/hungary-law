@@ -1,1 +1,3 @@
-## 161. § A költségvetési szerv vezetője köteles szabályozni a szabálytalanságok kezelésének eljárásrendjét, amely – a fejezetet irányító szervek kivételével – a költségvetési szerv szervezeti és működési szabályzatának mellékletét képezi.
+## 161. §[^230]
+
+[^230]: A 161. §-t és az azt megelőző alcímet a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.

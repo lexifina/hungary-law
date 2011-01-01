@@ -1,9 +1,11 @@
 ## ELŐIRÁNYZATOK MEGVÁLTOZTATÁSA AZ ALAPOKNÁL
 
-61. § (1) Az elkülönített állami pénzalap előirányzatainak módosítására a fejezetet irányító szerv vezetője jogosult. Az előirányzatok átcsoportosításáról a fejezetet irányító szerv vezetője vagy az előirányzatok felett külön törvény alapján döntési jogosultsággal rendelkező testület dönt.
+61. § (1)[^112]
 
-(2)[^100] A fejezetet irányító szerv vezetője – az alap kezelő szerve útján, az államháztartásért felelős miniszter rendeletében meghatározott módon – értesíti a Kincstárt a költségvetési törvényben jóváhagyott előirányzatok megváltoztatásáról.
+(2)[^113] A fejezetet irányító szerv vezetője – az alap kezelő szerve útján, az államháztartásért felelős miniszter rendeletében meghatározott módon – értesíti a Kincstárt a költségvetési törvényben jóváhagyott előirányzatok megváltoztatásáról.
 
-(3) A társadalombiztosítási költségvetési szerveknél a költségvetés általános tartalékából és a céltartalékból származó pénzeszközök tekintetében az előirányzat-átcsoportosítás irányító szervi hatáskörben történik.
+(3)[^114] A társadalombiztosítási költségvetési szerveknél a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a költségvetés céltartalékából származó pénzeszközök tekintetében az előirányzat-átcsoportosítás irányító szervi hatáskörben történik.
 
-[^100]: A 61. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^112]: A 61. § (1) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.
+[^113]: A 61. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^114]: A 61. § (3) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

@@ -10,6 +10,6 @@
 
 (6) Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások esetén a támogatói okirat kiadásának vagy a támogatási szerződés megkötésének feltételeként a 114. § (1) bekezdés c)–h) pontjában foglalt feltételek teljesülését kell csak vizsgálni.
 
-(7) Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások azon – a központi költségvetés által korábban megelőlegezett – részét, amelyet az Európai Bizottság végső egyenleg kifizetés formájában térít meg, a központi költségvetés fő bevételei között kell elszámolni.
+(7)–(8)[^216]
 
-(8) Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások azon, a központi költségvetésből – a XIX. Uniós fejlesztések fejezet kivételével – megelőlegezett részét, amelyet az Európai Bizottság utólagos elszámolás alapján térít meg, a központi költségvetés fő bevételei között kell elszámolni.
+[^216]: A 140. § (7)–(8) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.

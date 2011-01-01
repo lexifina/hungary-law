@@ -8,7 +8,7 @@ a) az általános és kötelezően érvényesítendő tervezési követelmények
 
 b) a tervezett kiadások, bevételek, támogatások, a létszám és a mutatószámok értékeit, elkülönítve az önállóan működő és gazdálkodó és a hozzá rendelt önállóan működő költségvetési szerv előirányzatait, megjelölve azok kötelező vagy irányszám jellegét,
 
-c)[^60] a b) pontban megjelölt adatokhoz igazodóan az ellátandó és támogatott feladatok körében és a megvalósítás szakmai, működtetési, üzemeltetési, valamint foglalkoztatási és díjazási követelményeiben, feltételeiben érvényesítendő változásokat, hatáskör szerint a változások érvényesítésének módját,
+c)[^57] a b) pontban megjelölt adatokhoz igazodóan az ellátandó és támogatott feladatok körében és a megvalósítás szakmai, működtetési, üzemeltetési, valamint foglalkoztatási és díjazási követelményeiben, feltételeiben érvényesítendő változásokat, hatáskör szerint a változások érvényesítésének módját,
 
 d) a tervezés évében megvalósult előirányzat-változásoknak a tervezés irányszámaiban való számbavétele lehetőségét, illetve módját,
 
@@ -18,16 +18,16 @@ f) a tervezés eljárási teendőit, ideértve a gazdasági szervezettel rendelk
 
 és arról tájékoztatja a költségvetési javaslatok elkészítéséért felelős költségvetési szerveket.
 
-(2)[^61]
+(2)[^58]
 
 (3) A fejezetet irányító szerv az (1) bekezdésben foglaltak meghatározása előtt, majd a fejezeti költségvetési javaslat kialakításakor a költségvetési szervei bevonásával
 
 a) megvizsgálja a szakmai koncepciók megvalósításához és az intézményi működéshez rendelkezésre álló szervezeti, anyagi, személyi feltételeket, valamint azok bővítésének, illetve szűkítésének szükségességét és lehetőségeit,
 
-b)[^62] előzetesen megtervezi a várható többletforrások elosztását, továbbá
+b)[^59] előzetesen megtervezi a várható többletforrások elosztását, továbbá
 
 c) javaslatot dolgoz ki a kiadásokat, illetve a forrásokat befolyásoló intézkedésekre, ideértve a jogszabályok szükséges módosítását is.
 
-[^60]: A 27. § (1) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
-[^61]: A 27. § (2) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
-[^62]: A 27. § (3) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^57]: A 27. § (1) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^58]: A 27. § (2) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^59]: A 27. § (3) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

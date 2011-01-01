@@ -6,7 +6,7 @@
 
 ## A költségvetési maradvány
 
-207. § (1)[^241] A költségvetési maradvány az alaptevékenység kiadásainak és bevételeinek különbözete. A költségvetési maradvány lehet előirányzat-maradvány vagy pénzmaradvány.
+207. § (1)[^305] A költségvetési maradvány az alaptevékenység kiadásainak és bevételeinek különbözete. A költségvetési maradvány lehet előirányzat-maradvány vagy pénzmaradvány.
 
 (2) Az előirányzat-maradvány a kincstári körbe tartozó költségvetési szerveknél, a fejezeti kezelésű előirányzatoknál, valamint az alapoknál a módosított kiadási és bevételi előirányzatok és azok teljesítésének különbözete.
 
@@ -16,4 +16,4 @@
 
 (5) A költségvetési szerv az előirányzat-maradványt, pénzmaradványt az éves elemi költségvetési beszámoló készítésekor állapítja meg az államháztartási számviteli kormányrendelet előírásainak megfelelően.
 
-[^241]: A 207. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^305]: A 207. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.

@@ -6,7 +6,7 @@ b) egyéb, az előirányzat felhasználási céljával összhangban álló – �
 
 történik.
 
-(2) Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások (1) bekezdés a) pontja szerinti közvetlen felhasználása a 109. § (6) bekezdésében foglaltaknak megfelelően közreműködő szervezet bevonásával történhet.
+(2)[^192] Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások (1) bekezdés a) pontja szerinti közvetlen felhasználása a 109. § (7) bekezdésében foglaltaknak megfelelően közreműködő szervezet bevonásával történhet.
 
 (3) Az előirányzatok közvetett felhasználása
 
@@ -19,3 +19,5 @@ b) államháztartáson belüli vagy kívüli szervezeten keresztül történik, 
 (4) A fejezeti kezelésű előirányzatok (1) bekezdés szerinti közvetlen felhasználása, továbbá a lebonyolítás céljából átadott előirányzat rendelkezésre bocsátása kincstári körbe tartozók részére a kincstári finanszírozás általános szabályai szerint előirányzat-átcsoportosítással vagy közvetlenül teljesített kifizetéssel, kincstári körön kívüli természetes és jogi személyek, jogi személyiség nélküli egyéb szervezetek javára minden esetben közvetlenül teljesített kifizetéssel történik. Az elkülönített állami pénzalapok esetében a felhasználás, rendelkezésre bocsátás közvetlen kifizetéssel történik.
 
 (5) A költségvetésből nyújtott támogatás és a lebonyolítás céljából átadott előirányzat felhasználására nézve elkülönített számviteli nyilvántartást kell előírni a kedvezményezett, illetve a (3) bekezdés szerinti feladatot megvalósító szervezet (e fejezet alkalmazásában a továbbiakban: lebonyolító) részére.
+
+[^192]: A 110. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

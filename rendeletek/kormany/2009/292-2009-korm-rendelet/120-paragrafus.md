@@ -22,22 +22,10 @@ h) a kedvezményezett részéről, vagy a kedvezményezettre tekintettel harmadi
 
 i) a kedvezményezett teljesítését biztosító bankgarancia, kezesség – annak lejárata előtt legalább negyvenöt nappal – nem kerül meghosszabbításra.
 
-(2) Az e rendelet szabályai szerint alkalmazott szankciók mellett a fejezetet irányító szerv vezetőjének külön írásos döntésével a kedvezményezett meghatározott időre – de legfeljebb öt évre – kizárható az érintett előirányzatok támogatási rendszeréből, ha
-
-a) a kedvezményezett a támogatott tevékenységtől eltérő kiadásokra használja fel a költségvetésből nyújtott támogatást,
-
-b) a kedvezményezett a 121. § (1) bekezdésében meghatározott bejelentési kötelezettségének az előírt határidőig nem tett eleget,
-
-c) a kedvezményezett felszólítás ellenére nem tesz eleget a beszámolási, jelentéstételi kötelezettségének,
-
-d) a kedvezményezett nem tesz eleget ellenőrzéstűrési kötelezettségének, és ennek következtében a támogatott tevékenység szabályszerű megvalósítását nem lehet ellenőrizni,
-
-e) a kedvezményezett a támogatási igénye során valótlan, hamis adatot szolgáltatott,
-
-f) a kedvezményezett a jogosulatlanul igénybe vett támogatást a támogatói okirat visszavonásáról szóló döntésben, a támogatási szerződésben vagy a fizetési felszólításban meghatározott határidőben nem, vagy nem teljes mértékben fizette vissza, vagy
-
-g) a támogató a kedvezményezettnek felróható okból vonta vissza a támogatói okiratot vagy állt el a támogatási szerződéstől, illetve mondta fel azt.
+(2)[^204] A fejezetet irányító szerv az Áht. 122/B. §-ában meghatározott adatszolgáltatást a 9/a. számú melléklet szerint teljesíti. Az adatszolgáltatás nyilvános adatait a Kincstár a honlapján közzéteszi, a nem nyilvános adatokhoz a támogatók számára – jogosultság igénylés útján – elérhetőséget biztosít.
 
 (3) A (2) bekezdésben foglaltak fennállása esetén a támogató értesíti a fejezetet irányító szerv vezetőjét, egyben javaslatot tesz a kedvezményezett érintett előirányzatok támogatási rendszeréből történő kizárására, vagy annak mellőzésére.
 
 (4) A fejezetet irányító szerv vezetője – a jogszabály alapján alanyi jogon járó költségvetésből nyújtott támogatások kivételével – jogosult a támogatási rendszerében további szankciókat meghatározni, és a kedvezményezett kötelezettségeinek nem teljesítése esetén azokat érvényesíteni. A szankciók fajtáit és az alkalmazásuk elrendelése során érvényesítendő főbb szempontokat jogszabályban kell meghatározni.
+
+[^204]: A 120. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.

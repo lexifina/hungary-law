@@ -12,7 +12,7 @@ E rendelet alkalmazásában – a 135. § (3) bekezdésében foglalt eset kivét
 
 (3) Ha a (2) bekezdés szerinti jogszabály a költségvetésből nyújtott támogatás biztosításának módjáról nem rendelkezik, arról – a (4) bekezdésben meghatározott kivétellel – e rendelet előírásainak megfelelően a Ptk. szerint magánjogi szerződésnek minősülő támogatási szerződésben kell megállapodni a kedvezményezettel.
 
-(4) Ha a más fejezetbe sorolt, kincstári körbe tartozó kedvezményezett részére a költségvetésből nyújtott támogatás rendelkezésre bocsátása előirányzat-átcsoportosítással történik, arról az 55. § (6) bekezdése szerinti megállapodásban kell rendelkezni. A megállapodásnak az 55. § (6) bekezdésében foglaltakon felül a (6) bekezdésben foglalt feltételekről is rendelkeznie kell.
+(4)[^193] Ha a más fejezetbe sorolt, kincstári körbe tartozó kedvezményezett részére a költségvetésből nyújtott támogatás rendelkezésre bocsátása előirányzat-átcsoportosítással történik, arról az 55. § (5) bekezdése szerinti megállapodásban kell rendelkezni. A megállapodásnak az 55. § (5) bekezdésében foglaltakon felül a (6) bekezdésben foglalt feltételekről is rendelkeznie kell.
 
 (5) A támogató a támogatási döntés meghozatalát követő tizenöt napon belül írásban tájékoztatja a támogatási igény benyújtóját a támogatási döntésről. Az értesítésben közölni kell a támogatói okirat kiadásának tervezett időpontját, vagy a támogatási szerződés megkötésére megfelelő – jogszabály eltérő rendelkezése hiányában legfeljebb harminc napos – határidőt kell megállapítani.
 
@@ -51,3 +51,5 @@ m) a támogatások felhasználásának elkülönített nyilvántartási kötelez
 (9) A támogatót az előirányzatok felhasználása során – a kizárólag határon túli kedvezményezetteknek biztosított költségvetésből nyújtott támogatások kivételével – adatszolgáltatási kötelezettség terheli a Kincstár által működtetett monitoring rendszer felé a 138. § (2) bekezdésében, a 143. §-ban, a 145. § (2)–(3) bekezdésében és a 149. §-ban foglaltak szerint. Az egyedi döntés alapján biztosított költségvetésből nyújtott támogatások esetén a 138. § (2) bekezdése szerinti adatszolgáltatást a tervezett egyedi döntési keretre, támogatónként összevontan kell megadni.
 
 (10) A támogató a költségvetésből nyújtott támogatásokkal kapcsolatos valamennyi dokumentumot köteles a kedvezményezett utolsó beszámolójának és kifizetési igénylésének támogató általi jóváhagyásától számított legalább tíz évig megőrizni.
+
+[^193]: A 112. § (4) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

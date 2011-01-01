@@ -12,6 +12,10 @@ b) 10032000-01031496 „Kincstár Önkormányzatok előző évről származó be
 
 c) 10032000-01034073 „Kincstár Helyi önkormányzatok kamatbeszedési”számla.
 
+(3a)[^246] A (3) bekezdésben meghatározott felhatalmazó levél hiányában, a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet terhére történő költségvetési támogatás utalványozását a helyi önkormányzatokért felelős miniszter felfüggeszti. A felhatalmazó levél pótlásáról szóló kincstári értesítést követően a helyi önkormányzatokért felelős miniszter a felfüggesztett támogatást utalványozza. A Kincstár a nettó finanszírozáson kívüli támogatást az utalványozást követő banki napon teljesíti a helyi önkormányzatok részére. A nettó finanszírozás hatálya alá tartozó támogatás felfüggesztése esetén a folyósítás a pótlást követő nettó finanszírozási támogatás – 16. számú melléklet szerinti – utalási időpontjában teljesíthető.
+
+(3b)[^247] A Kincstár minden hónap 5-éig írásban tájékoztatja a helyi önkormányzatokért felelős minisztert az adott hónapban felhatalmazó levéllel nem rendelkező önkormányzatokról, többcélú kistérségi társulásokról.
+
 (4) A helyi önkormányzat, helyi kisebbségi önkormányzat megszüntetése esetén a jogutód önkormányzat a megszűnés időpontja szerinti határnappal köteles intézkedni a pénzforgalmi számla megszüntetéséről.
 
 (5) A helyi önkormányzat gazdálkodását végrehajtó szerv a pénzforgalmi számláján lévő szabad pénzeszközeit – a központi költségvetésből származó hozzájárulások és támogatások kivételével – bármely belföldi hitelintézetnél betétként elhelyezheti.
@@ -91,3 +95,6 @@ vezethet.
 (11) A hitellel rendelkező, azt felvenni szándékozó, illetve készfizető kezességet vállaló helyi önkormányzat a normatív állami hozzájárulásokkal, az egyéb központi költségvetési támogatásokkal, az átengedett személyi jövedelemadóval, valamint az államháztartáson belül működési célra átvett pénzeszközeivel kapcsolatos pénzforgalmát a költségvetési elszámolási számlához kapcsolódó alszámlán köteles elkülöníteni. Az alszámlán elkülönített összeget a helyi önkormányzat hitel fedezetére – likvid hitel kivételével – nem használhatja, illetve az alszámláról – likvid hitel kivételével – hiteltörlesztés, kezességbeváltás nem teljesíthető.
 
 (12) Az (1)–(11) bekezdésben foglalt szabályokat kell megfelelően alkalmazni a települési önkormányzatok által létrehozott többcélú kistérségi társulások, jogi személyiségű társulások számlavezetésére is.
+
+[^246]: A 174. § (3a) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^247]: A 174. § (3b) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 30. §-a iktatta be.

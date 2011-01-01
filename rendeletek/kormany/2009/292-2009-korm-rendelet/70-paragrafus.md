@@ -6,7 +6,7 @@
 
 a) a költségvetési törvényben megállapított költségvetési előirányzatokról és azok Országgyűlés, Kormány hatáskörében végzett megváltoztatásáról a Kincstár,
 
-b)[^110] a helyi önkormányzatok, helyi kisebbségi önkormányzatok és a többcélú kistérségi társulások állami hozzájárulási, támogatási előirányzatainak megváltoztatásáról a Belügyminisztérium, az országos kisebbségi önkormányzatok támogatását biztosító fejezeti kezelésű előirányzatok megváltoztatásáról a kisebbségpolitikáért felelős állami szerv,
+b)[^127] a helyi önkormányzatok, helyi kisebbségi önkormányzatok és a többcélú kistérségi társulások állami hozzájárulási, támogatási előirányzatainak megváltoztatásáról a helyi önkormányzatokért felelős miniszter, a helyi kisebbségi önkormányzatok feladatarányos támogatási előirányzatáról és az országos kisebbségi önkormányzatok támogatását biztosító fejezeti kezelésű előirányzatok megváltoztatásáról a kisebbségpolitikáért felelős állami szerv,
 
 c) a kincstári körbe tartozó kincstári ügyfelek kincstári előirányzatairól – kincstári költségvetéssel rendelkezők esetében a kiemelt előirányzatok, az alapok esetében az alapok költségvetésében szereplő előirányzatok – és azok megváltoztatásáról a Kincstár
 
@@ -20,4 +20,4 @@ b) az előirányzatnak, illetve megváltoztatásának a költségvetési tervez�
 
 c) az előirányzatok megváltoztatásának jogszabályban megállapított hatáskörei és esetei szerinti részletezésére.
 
-[^110]: A 70. § (1) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^127]: A 70. § (1) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a, a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

@@ -12,7 +12,7 @@ b) a kormányhivatalok és – az Országos Rádió és Televízió Testület ki
 
 c) az a)–b) pontban felsoroltak irányítása alatt működő költségvetési szervek.
 
-(2) A társadalombiztosítási költségvetési szervek az OEP, az ONYF és ezek igazgatási szervei.
+(2)[^13] A társadalombiztosítási költségvetési szervek az OEP, az ONYF és igazgatási szervei.
 
 (3) Helyi önkormányzati és helyi kisebbségi önkormányzati költségvetési szervek
 
@@ -34,6 +34,7 @@ b) a többcélú kistérségi társulás önálló munkaszervezete,
 
 c) a helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, a többcélú kistérségi társulás, továbbá a helyi kisebbségi önkormányzat, valamint a helyi kisebbségi önkormányzat jogi személyiségű társulása által alapított – az a)–b) pontban nem említett – költségvetési szervek.
 
-(4)[^25]
+(4)[^14]
 
-[^25]: A 8. § (4) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^13]: A 8. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^14]: A 8. § (4) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
