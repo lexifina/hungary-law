@@ -10,4 +10,6 @@ b) a jogosultsági vizsga letételének vagy a jogosultsági vizsga alóli mente
 
 (4) Harmadik országbeli állampolgár számára viszonosság alapján engedélyezhető szakmagyakorlási tevékenység.
 
-(5) A szakmagyakorló az adataiban bekövetkezett változást nyolc munkanapon belül írásban köteles bejelenteni a területi szakmai kamarának.
+(5)[^1] A szakmagyakorló az adataiban bekövetkezett változást tíz napon belül írásban köteles bejelenteni a területi szakmai kamarának.
+
+[^1]: A 2. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (120) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
