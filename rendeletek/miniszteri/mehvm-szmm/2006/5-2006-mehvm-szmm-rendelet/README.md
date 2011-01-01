@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-5-20-84
 | --- | --- | --- |
 | 2007-03-28 | 2006-5-20-84.2 | 5/2006. (VIII. 11.) MeHVM–SZMM együttes rendelet |
 | 2010-05-01 | 2006-5-20-84.3 | 39/2010. (II. 26.) Korm. rendelet |
+| 2011-01-01 | 2006-5-20-84.4 | 27/2010. (XII. 31.) NGM rendelet |
