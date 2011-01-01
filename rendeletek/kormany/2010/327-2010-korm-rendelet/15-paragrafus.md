@@ -1,0 +1,3 @@
+15. § (1) A halászatról és a horgászatról szóló 1997. évi XLI. törvény 16. §-ának (3) bekezdésében, 22. §-ának (2) bekezdésében, valamint 30/A. §-ában foglaltak tekintetében a Kormány halászati hatóságként az MgSzH-t jelöli ki.
+
+(2) Az MgSzH ellátja a Tanács 2008. szeptember 29-i, a jogellenes, nem bejelentett és szabályozatlan halászat megelőzésére, megakadályozására és felszámolására irányuló közösségi rendszer létrehozásáról, továbbá a 2847/93/EGK, az 1936/2001/EK és a 601/2004/EK rendelet módosításáról és az 1093/94/EK és az 1447/1999/EK rendelet hatályon kívül helyezéséről szóló 1005/2008/EK rendelete 16–18. cikkében, valamint 21. cikkében meghatározott tagállami illetékes hatósági feladatokat.
