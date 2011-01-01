@@ -16,7 +16,7 @@ f) a közösségi képviselők névjegyzékébe történő felvétel és az onna
 
 (2) Kamarai hatósági ügyben kérelem csak a Kamaránál, szóbeli kérelem pedig csak személyesen terjeszthető elő. Nem minősül írásbeli kérelemnek a telefax és az elektronikus hírközlő eszköz útján benyújtott kérelem.
 
-(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az ügyfelet a kérelem beérkezésétől számított huszonkét munkanapon belül – a hiánypótlásra nyitva álló határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra kell felhívni. Az ügyfél részére legalább huszonkét munkanapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
+(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az ügyfelet a kérelem beérkezésétől számított harminc napon belül – a hiánypótlásra nyitva álló határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra kell felhívni. Az ügyfél részére legalább harmincnapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
 
 (4) Kamarai hatósági ügyben a Kamara elnöksége jár el.
 

@@ -8,7 +8,7 @@ b) aki külön jogszabályban meghatározott felsőfokú iparjogvédelmi szakké
 
 c) akinek legalább hároméves szabadalmi ügyvivőjelölti gyakorlata van.
 
-(2) A vizsgát a Magyar Szabadalmi Hivatal mellett létrehozott Szabadalmi Ügyvivői Vizsgabizottság előtt kell letenni.
+(2) A vizsgát a Szellemi Tulajdon Nemzeti Hivatala mellett létrehozott Szabadalmi Ügyvivői Vizsgabizottság előtt kell letenni.
 
 (3) A vizsgára bocsátásra irányuló kérelmet a Szabadalmi Ügyvivői Vizsgabizottság elnökéhez kell benyújtani, aki a kérelem ügyében a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el. A vizsgára bocsátásra irányuló eljárásban a 30. § (2)–(3) és a (10)–(11) bekezdéseit megfelelően alkalmazni kell.
 

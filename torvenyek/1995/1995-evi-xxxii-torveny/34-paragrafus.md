@@ -1,8 +1,8 @@
 ## Törvényességi felügyelet
 
-34. § (1) A Kamara működése felett a Magyar Szabadalmi Hivatal elnöke gyakorol törvényességi felügyeletet.
+34. § (1) A Kamara működése felett a Szellemi Tulajdon Nemzeti Hivatala elnöke gyakorol törvényességi felügyeletet.
 
-(2) A Kamara alapszabályát, fegyelmi szabályzatát, valamint egyéb szabályzatait meg kell küldeni a Magyar Szabadalmi Hivatal elnökének.
+(2) A Kamara alapszabályát, fegyelmi szabályzatát, valamint egyéb szabályzatait meg kell küldeni a Szellemi Tulajdon Nemzeti Hivatala elnökének.
 
 (3) A törvényességi felügyelet arra terjed ki, hogy
 

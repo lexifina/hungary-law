@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés alkalmazásában iparjogvédelmi ügyek:
 
-a) a Magyar Szabadalmi Hivatal hatáskörébe tartozó szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, formatervezési mintaoltalmi és topográfiaoltalmi ügyek, a védjegyügyek, a földrajzi árujelzőkkel kapcsolatos ügyek, valamint az ezekhez kapcsolódó jogorvoslati és végrehajtási eljárások;
+a) a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, formatervezési mintaoltalmi és topográfiaoltalmi ügyek, a védjegyügyek, a földrajzi árujelzőkkel kapcsolatos ügyek, valamint az ezekhez kapcsolódó jogorvoslati és végrehajtási eljárások;
 
 b) a találmány- és a szabadalombitorlás, a növényfajta és a növényfajta-oltalom, a használati minta és a használati mintaoltalom, a formatervezési minta és a formatervezési mintaoltalom, a topográfia és a topográfiaoltalom bitorlása, továbbá a védjegybitorlás és a földrajzi árujelző oltalmának bitorlása miatt indított eljárások;
 
