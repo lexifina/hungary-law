@@ -10,7 +10,7 @@ c) védelmi és közjóléti, valamint az állam kizárólagos tulajdonában ál
 
 (2) Az erdészeti hatóság köteles
 
-a) az (1) bekezdés a) és b) pont esetén a tevékenység engedélyezése, illetve a módosítás iránti kérelem beérkezését követő 8 munkanapon belül,
+a) az (1) bekezdés a) és b) pont esetén a tevékenység engedélyezése, illetve a módosítás iránti kérelem beérkezését követő tíz napon belül,
 
 b) az (1) bekezdés c) pont esetén a körzeti erdőterv elkészítését követően 30 napon belül
 

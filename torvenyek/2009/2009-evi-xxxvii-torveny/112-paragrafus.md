@@ -76,14 +76,14 @@ b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét 
 
 2. az erdő igénybevételének részletes szabályait.
 
-(5) Felhatalmazást kap a miniszter, hogy a természetvédelemért felelős miniszterrel együttes rendeletben állapítsa meg az arborétumok jegyzékét.
+(5) Felhatalmazást kap a miniszter, hogy a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az arborétumok jegyzékét.
 
-(6) Felhatalmazást kap a miniszter, hogy a katasztrófák elleni védekezésért felelős miniszterrel együttes rendeletben állapítsa meg a tűzgyújtási tilalom elrendelésének részletes szabályait.
+(6) Felhatalmazást kap a miniszter, hogy a katasztrófák elleni védekezésért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a tűzgyújtási tilalom elrendelésének részletes szabályait.
 
-(7) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel együttes rendeletben szabályozza a honvédelmi rendeltetésű erdőkre vonatkozó különös szabályokat.
+(7) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédelmi rendeltetésű erdőkre vonatkozó különös szabályokat.
 
 (8) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az erdészeti hatósági eljárásban fizetendő igazgatási-szolgáltatási díj mértékét, megfizetésének részletes szabályait, a díjfizetés alóli mentesség eseteit.
 
 (9) Felhatalmazást kap a miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben állapítsa meg a faanyag származási igazolásának rendjét.
 
-(10) Felhatalmazást kap a miniszter, hogy a turizmusért felelős miniszterrel, a természetvédelemért felelős miniszterrel, valamint a sportpolitikáért felelős miniszterrel együttes rendeletben határozza meg a turista útjelzések és tájékoztató táblák elkészítésének és elhelyezésének, valamint a jelzett turista útvonalak nyilvántartásának részletes szabályait.
+(10) Felhatalmazást kap a miniszter, hogy a turizmusért felelős miniszter, a természetvédelemért felelős miniszter, valamint a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a turista útjelzések és tájékoztató táblák elkészítésének és elhelyezésének, valamint a jelzett turista útvonalak nyilvántartásának részletes szabályait.
