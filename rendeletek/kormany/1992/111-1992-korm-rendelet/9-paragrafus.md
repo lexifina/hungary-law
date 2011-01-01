@@ -8,9 +8,9 @@
 
 (2) A Tv. 2. és 3. §-ában meghatározott sérelmekhez kapcsolódó tulajdoni és a bérlakás végleges elvételével okozott sérelmek (a továbbiakban: tulajdoni sérelem) kárpótlása iránti kérelmet az 1992. évi XXIV. törvény végrehajtásáról szóló 92/1992. (VI. 10.) Korm. rendelet mellékletének megfelelő adatlapon kell előterjeszteni.
 
-(3)[^4] Az adatlapot a szükséges bizonyítékokkal együtt közvetlenül a Központi Igazságügyi Hivatalhoz, vagy az Igazságügyi Hivatal lakóhely szerint illetékes területi szervéhez lehet benyújtani.
+(3)[^4] Az adatlapot a szükséges bizonyítékokkal együtt közvetlenül a kárpótlási hatósághoz lehet benyújtani.
 
-(4)[^5] Nem kell okirati bizonyítékait ismételten beterjesztenie annak a kérelmezőnek, aki azokat a Központi Igazságügyi Hivatalnál benyújtott nyugdíjemelés iránti kérelemhez csatolta.
+(4)[^5] Nem kell okirati bizonyítékait ismételten beterjesztenie annak a kérelmezőnek, aki azokat a kárpótlási hatóságnál benyújtott nyugdíjemelés iránti kérelemhez csatolta.
 
-[^4]: A Vhr. 9. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 41. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A Vhr. 9. §-ának (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 41. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A Vhr. 9. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^5]: A Vhr. 9. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
-10. § (1)[^6] Ha a jogosult tulajdoni sérelem kárpótlása iránt is előterjesztette igényét és a Központi Igazságügyi Hivatal az élet elvesztéséért, vagy a szabadságelvonásért járó kárpótlás iránti kérelemnek legalább részben helyt adott, a tulajdoni sérelemért járó kárpótlás iránti igényt az Igazságügyi Hivatal területi szerve bírálja el.
+10. § (1)[^6] Ha a jogosult tulajdoni kárpótlása iránt is előterjesztette igényét és az élet elvesztéséért, vagy a szabadságelvonásért járó kárpótlás iránti kérelemnek legalább részben helyt adó döntés született, a tulajdoni sérelemért járó kárpótlás iránti igényt a kárpótlási hatóság bírálja el.
 
-(2)[^7] Az Igazságügyi Hivatal területi szervének az iratokat a Központi Igazságügyi Hivatal követlenül megküldi.
+(2)[^7]
 
-[^6]: A Vhr. 10. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 41. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A Vhr. 10. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 41–42. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 10. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^7]: A Vhr. 10. § (2) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 19. §-a hatályon kívül helyezte.
