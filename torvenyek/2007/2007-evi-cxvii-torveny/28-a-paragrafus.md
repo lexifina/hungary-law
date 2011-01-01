@@ -22,7 +22,7 @@ fogadja.
 
 (7) A foglalkoztatói nyugdíjszolgáltató intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a tagnak.
 
-(8) A panasz elutasítása esetén a foglalkoztatói nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy panaszával – annak jellege szerint – a Pénzügyi Szervezetek Állami Felügyeletének vagy a békéltető testületnek az eljárását kezdeményezheti, továbbá meg kell adni a Pénzügyi Szervezetek Állami Felügyeletének és a békéltető testületnek a levelezési címét.
+(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
 (9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Pénzügyi Szervezetek Állami Felügyeletének kérésére bemutatja.
 
@@ -43,3 +43,7 @@ d) a c) pont szerinti intézkedés teljesítésének határidejét és a végreh
 e) a panasz megválaszolásának időpontját.
 
 (13) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A nyugdíjszolgáltató a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A nyugdíjszolgáltató köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.

@@ -2,7 +2,7 @@
 
 10. § (1) Foglalkoztatói nyugdíjszolgáltató intézménynél az igazgatóság tagjának, a felügyelőbizottság tagjának, valamint cégvezetőnek (a továbbiakban: vezető állású személy) az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet nem adja meg az engedélyt, ha a bejelentésben megjelölt személy nem felel meg az e törvényben foglalt feltételeknek. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a huszonkét munkanapon belül nem hozza meg határozatát.
+(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a harminc napon belül nem hozza meg határozatát.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény köteles felügyelőbizottságot létrehozni.
 

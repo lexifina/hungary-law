@@ -34,7 +34,7 @@ c) más foglalkoztatói nyugdíjszolgáltató intézménybe átutaltatja, vagy
 
 d) a tagi számlán jóváírt összeget egy összegben felveszi.
 
-(10) A kedvezményezett a (9) bekezdésben meghatározott nyilatkozatot bármikor megteheti. Amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény írásbeli felhívására a kedvezményezett a felhívás igazolt kézhezvételétől számított harminc napon belül nem teszi meg a nyilatkozatot, akkor a foglalkoztatói nyugdíjszolgáltató intézménynek úgy kell eljárnia, mintha a kedvezményezett a (9) bekezdés b) pontjában foglalt eljárást választotta volna.
+(10) A kedvezményezett a (9) bekezdésben meghatározott nyilatkozatot bármikor megteheti. Amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény írásbeli felhívására a kedvezményezett a felhívás igazolt megérkezését követő naptól számított harminc napon belül nem teszi meg a nyilatkozatot, akkor a foglalkoztatói nyugdíjszolgáltató intézménynek úgy kell eljárnia, mintha a kedvezményezett a (9) bekezdés b) pontjában foglalt eljárást választotta volna.
 
 (11) Amennyiben a kedvezményezett a (9) bekezdés b) pontjában foglalt eljárást választotta, a nyilatkozat megtételének napjától a tagokkal egy megítélés alá esik.
 

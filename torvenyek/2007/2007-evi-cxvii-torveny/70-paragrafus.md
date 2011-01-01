@@ -12,6 +12,4 @@
 
 (6) A felügyeleti biztosnak folyamatosan biztosítania kell, hogy az általa megtett intézkedésekről a tulajdonosok és a tagok – kérésükre – három munkanapon belül írásban tájékoztatást kapjanak.
 
-(7) A Felügyelet felügyeleti biztosként olyan személyt rendel ki, aki megfelel a 10. §-ban előírt követelményeknek.
-
-(8) A felügyeleti biztosnak kirendelésekor írásban nyilatkoznia kell arról, hogy ő maga vagy közeli hozzátartozója valamely foglalkoztatói nyugdíjszolgáltató intézményben, biztosítóban, pénzügyi intézményben vagy befektetési vállalkozásban milyen és mekkora név-, illetve forgalmi értéket képviselő tulajdoni hányaddal rendelkezik.
+(7)–(8)
