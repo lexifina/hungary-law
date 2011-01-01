@@ -10,4 +10,6 @@ b) a kártalanítás megfizetésének egyéb előírásaira, valamint az érték
 
 vonatkozó szabályokat rendeletben állapítsa meg.
 
+(3a) Felhatalmazást kap a Kormány, hogy a kisajátítási hatóságot rendeletben jelölje ki.
+
 (4) Azok a nem igazságügyi szakértők, akik e törvény hatálybalépésének időpontjában, jogszabályi rendelkezés alapján kisajátítási eljárásban szakértőként való eljárásra jogosultak, e törvény hatálybalépését követő egy évig szakértőként kirendelhetők, eljárásukra az e törvény hatálybalépését megelőzően hatályos rendelkezéseket kell alkalmazni.

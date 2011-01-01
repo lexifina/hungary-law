@@ -14,6 +14,6 @@ f)
 
 (2) A bíróságnak a közigazgatási határozat végrehajtását felfüggesztő végzése kizárja az ingatlan tulajdonjogának átszállását. Ebben az esetben az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a per jogerős befejezéséig felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed.
 
-(3) A közigazgatási hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
+(3) A kisajátítási hatóság jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
 (4) A kisajátítási határozat felügyeleti jogkörben nem változtatható meg, és nem semmisíthető meg.

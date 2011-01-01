@@ -2,4 +2,4 @@
 
 22. § (1)
 
-(2) A kisajátítási eljárást a közigazgatási hivatal folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti közigazgatási hivatal az illetékes.
+(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság az illetékes.

@@ -1,6 +1,6 @@
 36. § (1) A kisajátítást elrendelő határozat jogerőre emelkedésével az ingatlan tulajdonjogát az állam, illetve a helyi önkormányzat szerzi meg.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően a közigazgatási hivatal közvetlenül a kisajátítást kérő harmadik személy tulajdonába adja az ingatlant, ha a kisajátításra
+(2) Az (1) bekezdésben foglaltaktól eltérően a kisajátítási hatóság közvetlenül a kisajátítást kérő harmadik személy tulajdonába adja az ingatlant, ha a kisajátításra
 
 a) – a radioaktív hulladéktároló építéséhez, bővítéséhez, biztonsági övezete megszerzéséhez, vagy távhőtermelő létesítmény, távhőközpont, illetve távhővezeték hálózat létesítéséhez, elhelyezéséhez szükséges kisajátítás kivételével – energiatermelés, energiaellátás, elektronikus hírközlési szolgáltatás kisajátítási cél, vagy nem állami, illetve nem önkormányzati tulajdonban lévő vízilétesítmény belső védőövezetének megszerzését szolgáló vízgazdálkodási feladatok ellátása kisajátítási cél, vagy
 
