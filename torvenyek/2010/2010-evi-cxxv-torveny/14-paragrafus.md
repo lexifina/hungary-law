@@ -1,0 +1,3 @@
+14. § A Konztv. 19. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A tiszteletbeli konzuli tisztviselő közigazgatási hatósági jogkört nem gyakorolhat, a miniszter azonban a kinevezésben felhatalmazhatja kérelmek átvételére. A kérelmek átvételekor a tiszteletbeli konzuli tisztviselő az ügyfél személyazonosságát személyazonosító okmány alapján ellenőrzi, és a kérelmet – az ügy elbírálására feladat- és hatáskörrel rendelkező hatósághoz történő továbbítás érdekében – három munkanapon belül megküldi az irányítási jogkört gyakorló diplomáciai vagy hivatásos konzuli képviseletnek. Az e kérelmek elbírálásához kapcsolódó ügyféli nyilatkozatok a tiszteletbeli konzuli tisztviselő előtt is megtehetők.”
