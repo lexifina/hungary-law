@@ -28,7 +28,7 @@ b) a fedezetként figyelembe vett értékvesztéssel csökkentett tőkére jár�
 
 a) a Magyar Nemzeti Banknál elkülönített, zárolt pénzforgalmi számlán tartott pénz,
 
-b) az Európai Unió, az Európai Gazdasági Térség (a továbbiakban: EGT) és a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) tagállamainak nemzeti bankjai, valamint az Európai Központi Bank által kibocsátott értékpapír,
+b) az Európai Unió, az EGT és az OECD tagállamainak nemzeti bankjai, valamint az Európai Központi Bank által kibocsátott értékpapír,
 
 c) az Európai Unió, az EGT és az OECD tagállamai, illetve teljes jogú tagjai által kibocsátott értékpapír,
 
@@ -38,9 +38,11 @@ e) a Magyar Állam készfizető kezességvállalása mellett kibocsátott érté
 
 f) azon értékpapírok, amelyek tőke- és kamattörlesztéséért a c) és d) pontban felsorolt kibocsátók valamelyike kezességet vállalt,
 
-g) a Magyar Állam készfizető kezességvállalása mellett nyújtott – a 3. § (3) bekezdésében szabályozott körbe nem tartozó – hitel.
+g) a Magyar Állam készfizető kezességvállalása mellett nyújtott – a 3. § (3) bekezdésében szabályozott körbe nem tartozó – hitel,
 
-(12) A (11) bekezdés c), d) és f) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés mértéke nem haladhatja meg az adott időpontban fennálló összes pótfedezet 2%-át.
+h) a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 196/2007. (VII. 30.) Korm. rendelet 14. §-ának (1) bekezdése szerint fedezett kötvénynek minősülő azon értékpapír, amelyet valamely tagállam nemzeti bankja, vagy az Európai Központi Bank elfogadható fedezetnek minősített, ide nem értve a jelzálog-hitelintézet saját kibocsátású jelzálogleveleit, valamint a Hpt. 2. számú mellékletének II/5. pontja értelmében a jelzálog-hitelintézettel szoros kapcsolatban álló hitelintézet vagy befektetési vállalkozás által kibocsátott fedezett kötvényt.
+
+(12) A (11) bekezdés c), d), f) és h) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés pótfedezetként legfeljebb a jelzálog-hitelintézetek által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 2%-áig vehető figyelembe. A (11) bekezdés h) pontjában felsorolt eszközök együttesen legfeljebb a pótfedezetek összegének 25%-áig vehetők figyelembe pótfedezetként, illetve összegük nem haladhatja meg a jelzálog-hitelintézet által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 5%-át.
 
 (13) A jelzálog-hitelintézet haladéktalanul jelenti a Felügyeletnek, ha
 

@@ -12,4 +12,4 @@
 
 (6)
 
-(7) A jelzálog-hitelintézet jelzálogjog és a hozzá kapcsolódó elidegenítési és terhelési tilalom bejegyzésére, módosítására vagy törlésére irányuló kérelem tárgyában az ingatlanügyi hatóság soron kívül, öt munkanapon belül dönt.
+(7) A jelzálog-hitelintézet jelzálogjog és a hozzá kapcsolódó elidegenítési és terhelési tilalom bejegyzésére, módosítására vagy törlésére irányuló kérelem tárgyában az ingatlanügyi hatóság soron kívül, nyolc napon belül dönt.
