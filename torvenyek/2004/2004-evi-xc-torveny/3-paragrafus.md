@@ -2,4 +2,4 @@
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Megállapodás Végrehajtási Szabályzatát rendeletben kihirdesse.
 
-(3) A Megállapodás végrehajtásával összefüggő feladatok ellátásáról a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(3) A Megállapodás végrehajtásával összefüggő feladatok ellátásáról a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
