@@ -1,10 +1,10 @@
 ## Sztenderdizált módszer
 
-4. § (1) A működési kockázat tőkekövetelménye a sztenderdizált módszer szerint az (5) bekezdésben felsorolt üzletágak súlyozott irányadó mutatóinak összege. Az egyes üzletágak irányadó mutatója az adott üzletághoz tartozó, 3. § szerint meghatározott érték.
+4. § (1)[^2] A működési kockázat tőkekövetelménye az (5) bekezdésben felsorolt üzletágak tőkekövetelményei éves összegének hároméves átlaga.
 
-(2) Ha egy üzletág irányadó mutatója negatív, akkor a számítások során ez figyelembe vehető.
+(2)[^3] Ha egy üzletág tőkekövetelménye negatív, akkor a számítások során ez figyelembe vehető.
 
-(3) A (2) bekezdéstől eltérően, ha az (1) bekezdés szerinti, egy adott évre vonatkozó súlyozott irányadó mutatók összege negatív, akkor e negatív értéket a hároméves számtani átlag számítása során nullával kell helyettesíteni.
+(3)[^4] A (2) bekezdéstől eltérően, ha az (1) bekezdés szerinti, adott évre vonatkozó üzletági tőkekövetelmények éves összege negatív, akkor e negatív értéket a hároméves számtani átlag számítása során nullával kell helyettesíteni.
 
 (4) Az (1) bekezdés szerinti átlag számítása során a számítást megelőző három üzleti év könyvvizsgáló által hitelesített éves beszámolóját kell figyelembe venni. Ha a hitelintézet az üzleti tevékenysége megkezdésének napjától számítva még nem működik három éve, vagy tevékenységi kör változása miatt nem áll rendelkezésre adat, akkor a rendelkezésre nem álló időszak, üzletág vagy tevékenység vonatkozásában az éves beszámoló adatai helyett az üzleti terve alapján becsült adatokat kell figyelembe vennie. Egyesülés, szétválás vagy tevékenységi kör változása esetén a működési kockázat tőkekövetelményének meghatározásához a Felügyelet engedélyével az üzleti tervben szereplő becsült adatok alkalmazhatóak.
 
@@ -28,7 +28,7 @@ h) vagyonkezelési tevékenységhez tizenkét százalékos
 
 ## súlyt kell rendelni.
 
-(6)[^2] A vállalati pénzügyek üzletágba kell besorolni:
+(6)[^5] A vállalati pénzügyek üzletágba kell besorolni:
 
 a) a pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást)
 
@@ -46,15 +46,15 @@ f) a befektetési elemzést és a pénzügyi elemzést.
 
 a) a pénzügyi ügynöki tevékenységet a bankközi piacon,
 
-b)[^3] pénzügyi eszközre vonatkozóan végzett megbízás felvételét és továbbítását,
+b)[^6] pénzügyi eszközre vonatkozóan végzett megbízás felvételét és továbbítását,
 
-c)[^4] a pénzügyi eszközre vonatkozóan megbízás végrehajtását az ügyfél javára.
+c)[^7] a pénzügyi eszközre vonatkozóan megbízás végrehajtását az ügyfél javára.
 
 d) az értékpapír-kölcsönzést, és
 
 e) a bankközi betét elhelyezését.
 
-(8)[^5] A lakossági közvetítői tevékenység üzletágba kell besorolni a hitelezési kockázatról szóló kormányrendelet alapján a lakossággal szembeni kitettségi osztályba való sorolás feltételeit kielégítő kitettségekhez kapcsolódó, pénzügyi eszközre vonatkozóan végzett megbízás végrehajtását az ügyfél javára.
+(8)[^8] A lakossági közvetítői tevékenység üzletágba kell besorolni a hitelezési kockázatról szóló kormányrendelet alapján a lakossággal szembeni kitettségi osztályba való sorolás feltételeit kielégítő kitettségekhez kapcsolódó, pénzügyi eszközre vonatkozóan végzett megbízás végrehajtását az ügyfél javára.
 
 (9) A kereskedelmi banki tevékenység üzletágba kell sorolni – a (10) bekezdésben meghatározott eltéréssel –
 
@@ -106,7 +106,10 @@ c) az önkéntes kölcsönös biztosító pénztár részére történő vagyonk
 
 d) a magánnyugdíjpénztár részére történő vagyonkezelést.
 
-[^2]: A 4. § (6) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (7) bekezdésének b) pontja a 380/2007. (XII. 23.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
-[^4]: A 4. § (7) bekezdésének c) pontja a 380/2007. (XII. 23.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
-[^5]: A 4. § (8) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 56. § (3) bekezdésével megállapított szöveg.
+[^2]: A 4. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^3]: A 4. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^4]: A 4. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^5]: A 4. § (6) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (7) bekezdésének b) pontja a 380/2007. (XII. 23.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (7) bekezdésének c) pontja a 380/2007. (XII. 23.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^8]: A 4. § (8) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 56. § (3) bekezdésével megállapított szöveg.
