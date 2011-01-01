@@ -2,7 +2,7 @@
 
 | Térségi övezetek | A kiemelt térségi és a megyei területrendezési terv készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek | A megyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
-| 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Mezőgazdasági Szakigazgatási Hivatal Központ | Mezőgazdasági Szakigazgatási Hivatal erdészeti igazgatási feladatokat ellátó területi szerve |
+| 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Mezőgazdasági Szakigazgatási Hivatal | megyei kormányhivatal erdészeti igazgatósága |
 
 | b) felszíni vizek vízminőség- védelmi vízgyűjtő területe | vízgazdálkodásért felelős miniszter | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
 
@@ -16,9 +16,9 @@
 
 | c) pufferterület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| d) világörökség és világörökség-várományos terület | kultúráért felelős miniszter | Kulturális Örökségvédelmi Hivatal |
+| d) világörökség és világörökség-várományos terület | Kulturális Örökségvédelmi Hivatal | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
 
-| e) történeti települési terület | kultúráért felelős miniszter | Kulturális Örökségvédelmi Hivatal |
+| e) történeti települési terület | Kulturális Örökségvédelmi Hivatal | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
 
 | f) rendszeresen belvízjárta terület | Vízügyi és Környezetvédelmi Központi Igazgatóság | Vízügyi és Környezetvédelmi Központi Igazgatóság |
 
@@ -28,6 +28,6 @@
 
 | i) honvédelmi terület | honvédelemért felelős miniszter | honvédelemért felelős miniszter |
 
-2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^14]
+2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^17]
 
-[^14]: A 2. melléklet a 7. § (2) bekezdése alapján 2009. december 26. napján lép hatályba.
+[^17]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a szerint módosított szöveg.

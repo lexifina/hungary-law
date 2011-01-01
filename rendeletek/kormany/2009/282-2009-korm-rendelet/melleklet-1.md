@@ -1,6 +1,6 @@
-## 9. §[^12]
+## 9. §[^15]
 
-1. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^13]
+1. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^16]
 
-[^12]: A 9. §-t a 7. § (5) bekezdése hatályon kívül helyezte.
-[^13]: Az 1. melléklet a 7. § (2) bekezdése alapján 2009. december 26. napján lép hatályba.
+[^15]: A 9. §-t a 7. § (5) bekezdése hatályon kívül helyezte.
+[^16]: Az 1. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a szerint módosított szöveg.

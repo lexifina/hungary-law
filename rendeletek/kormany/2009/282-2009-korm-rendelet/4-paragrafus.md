@@ -18,6 +18,7 @@ a) az államigazgatási szerv megnevezését;
 
 b) az (1) bekezdés szerinti dokumentumok megnevezését és az azok hozzáférhetőségéről szóló tájékoztatást;
 
-c) a térségi övezet kiterjedésére vonatkozó tájékoztatást helyrajzi számok felsorolásával, vagy tényleges kiterjedésének megfelelő adattartalommal bíró – a földhivatali alaptérképhez illeszthető – térképi adat- állománnyal, vagy a térségi övezettel érintett település megnevezésével.
+c)[^5] a térségi övezet kiterjedésére vonatkozó tájékoztatást helyrajzi számok felsorolásával, vagy tényleges kiterjedésének megfelelő adattartalommal bíró – az ingatlan-nyilvántartási térképi adatbázishoz illeszthető – térképi adat- állománnyal, vagy a térségi övezettel érintett település megnevezésével.
 
 [^4]: A 4. § a 7. § (2) bekezdése alapján 2009. december 26. napján lép hatályba.
+[^5]: A 4. § (3) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 263. §-a szerint módosított szöveg.
