@@ -8,6 +8,6 @@ c) a veszélyes áru szállítás biztonságát befolyásoló előkészítésre 
 
 történő ellenőrzésére terjed ki.
 
-(2)[^1] A rendelet hatálya nem terjed ki a Magyar Honvédség és a rendvédelmi szervek által végzett szállításokra.
+(2)[^1] A rendelet hatálya nem terjed ki a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek által végzett szállításokra.
 
-[^1]: Az 1. § (2) bekezdése a 60/2007. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (2) bekezdése a 60/2007. (III. 31.) Korm. rendelet 1. §-ával megállapított, a 273/2010. (XII. 9.) Korm. rendelet 95. §-a szerint módosított szöveg.
