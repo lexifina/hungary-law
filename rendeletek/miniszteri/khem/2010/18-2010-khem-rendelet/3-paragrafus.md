@@ -1,4 +1,4 @@
-## 2. §[^1] Ez a rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy rendelkezéseit 2011. március 1-jétől kell alkalmazni.
+## 2. §[^2] Ez a rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy rendelkezéseit 2011. március 1-jétől kell alkalmazni.
 
 ## 3. § Ez a rendelet
 
@@ -8,4 +8,4 @@ b) a transzeurópai hagyományos vasúti rendszer alrendszereire vonatkozó átj
 
 szolgálja.
 
-[^1]: A 2. § a 9/2010. (VIII. 31.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 2. § a 9/2010. (VIII. 31.) NFM rendelet 1. §-a szerint módosított szöveg.

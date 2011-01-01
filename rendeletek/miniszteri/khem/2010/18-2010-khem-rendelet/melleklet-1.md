@@ -1,4 +1,4 @@
-1. melléklet a 18/2010. (III. 12.) KHEM rendelethez
+1. melléklet a 18/2010. (III. 12.) KHEM rendelethez[^3]
 
 A transzeurópai hagyományos vasúti rendszer üzemeltetési és forgalomirányítási alrendszerével kapcsolatos kölcsönös átjárhatóságára vonatkozó műszaki előírásokról
 
@@ -1758,7 +1758,7 @@ E különleges esetek két kategóriába tartoznak:
 
 – a rendelkezések vagy folyamatosan („P” eset), vagy ideiglenesen („T” eset) alkalmazandók.
 
-– ideiglenes esetekben ajánlatos, hogy az érintett tagállamok a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozatban célként kitűzött 2010-ig („T1” eset), vagy 2020-ig („T2” eset) feleljenek meg a vonatkozó alrendszernek.
+– ideiglenes esetekben ajánlatos, hogy az érintett tagállamok a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanács határozat célként kitűzött 2010-ig („T1” eset), vagy 2020-ig („T2” eset) feleljenek meg a vonatkozó alrendszernek.
 
 7.3.2. *
 
@@ -5055,3 +5055,5 @@ SZÁMOZÁSA
 | (1) Üres futásra alkalmas 120 km/h sebességhatárig |  |  |
 
 | (2) Teherkocsi négy külön tengellyel |  |  |
+
+[^3]: Az 1. melléklet a 30/2010. (XII. 23.) NFM rendelet 18. §-a szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a 2011. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
