@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | --- | --- | --- |
 | 2010-11-20 | 2010. évi CXXII. törvény | 2010-122-00-00.0 (közlönyállapot) |
 | 2010-11-20 | 2010. évi CLIII. törvény | 2010-122-00-00.1 |
+| 2011-01-01 | 2010. évi CLVII. törvény | 2010-122-00-00.2 |
