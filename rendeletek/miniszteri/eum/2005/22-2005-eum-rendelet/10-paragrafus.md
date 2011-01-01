@@ -4,7 +4,7 @@
 
 (2) Az 5. § (3) bekezdésében írt kötelezettségek végrehajtásának határideje 2010. július 6. azon munkaeszközök esetében, amelyeket 2007. július 7. előtt bocsátanak a munkavállalók rendelkezésére, és amelyek használatánál – figyelembe véve a legújabb technikai előrelépéseket, illetve szervezési intézkedéseket is – az expozíciós határértékek nem tarthatók be.
 
-(3)–(4)[^4]
+(3)–(4)[^5]
 
 Melléklet a 22/2005. (VI. 24.) EüM rendelethez
 
@@ -44,4 +44,4 @@ d) A kockázat értékelésénél figyelembe kell venni a 4., 5. és 6. §-ban f
 
 A mérésnél a használt mérőműszer és mérési módszer feleljen meg az MSZ ISO 2631-1:2002 szabvány 5. pontjában foglaltaknak.
 
-[^4]: A 10. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. § 116. pontja hatályon kívül helyezte.
+[^5]: A 10. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. § 116. pontja hatályon kívül helyezte.
