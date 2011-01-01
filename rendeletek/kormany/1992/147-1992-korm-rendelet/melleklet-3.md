@@ -156,7 +156,7 @@
 
 ## 10–11. sorok: A kódlista alapján töltendő ki.
 
-## 13. sor: A kulturális örökségvédelmi, illetve természetvédelmi védettség kitöltése a kódjegyzék alapján történik. A sorba kötelező beírni a műemléki, természetvédelmi törzsszámot, régészeti lelőhely esetén a lelőhely egyedi azonosító számát is. Ha az ingatlan-nyilvántartásban nem egyértelműen rögzítettek a kulturális örökségvédelmet, természetvédelmet érintő adatok, akkor külön egyeztetés szükséges a kulturális örökségvédelmi, illetve természetvédelmi hatóságokkal.
+## 13. sor: A kulturális örökségvédelmi, illetve természetvédelmi védettség kitöltése a kódjegyzék alapján történik. A sorba kötelező beírni a műemléki, természetvédelmi törzsszámot, régészeti lelőhely esetén a lelőhely egyedi azonosító számát is. Ha az ingatlan-nyilvántartásban nem egyértelműen rögzítettek a kulturális örökségvédelmet, természetvédelmet érintő adatok, akkor külön egyeztetés szükséges a Kulturális Örökségvédelmi Hivatallal, illetve a természetvédelmi hatósággal.
 
 ## 14. sor: A tulajdonszerzés jogcímeit a kódjegyzék tartalmazza. Ha az ingatlan adatfelvételére olyan időpontban kerül sor, amikor az épület vagy építmény már üzembe helyezésre került, bekerülési értéket a számvitel nyilvántartásába vette, de a földhivatal az ingatlan-nyilvántartásba még nem jegyezte be, addig az ismert adatok kitöltése mellett rendezetlennek tekinthető a kataszter nyilvántartása. A borítólap megjegyzésre szolgáló oldalán a földhivatali rendezés szükségességét (okát) fel kell vezetni, és mindaddig számon tartani, míg a földhivatali bejegyzés nem történt meg.
 
