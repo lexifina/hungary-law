@@ -1,1 +1,0 @@
-A Kormány a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 100. §-ában foglalt felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b)–d) pontjában foglalt feladatkörében eljárva – a következő rendeletet alkotja.

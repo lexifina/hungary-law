@@ -1,1 +1,0 @@
-## 11. § A közigazgatás-szervezésért felelős miniszter – a helyi és kisebbségi önkormányzatok törvényességi ellenőrzése, a fejlesztési tanácsok törvényességi felügyelete és a közigazgatási hatósági ügyek kivételével – meghatározott ügyben bejelentésre, illetve kérelemre az illetékességgel rendelkező közigazgatási hivatal helyett másik közigazgatási hivatalt jelölhet ki eljárásra.
