@@ -130,7 +130,7 @@
 
 ## B. Alárendelt kölcsöntőke
 
-## C.[^97] Biztosítástechnikai tartalékok
+## C.[^98] Biztosítástechnikai tartalékok
 
 ## 1. Meg nem szolgált díjak tartaléka [a)+b)]
 
@@ -282,7 +282,7 @@
 
 ## 3. Halasztott bevételek
 
-2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^98]
+2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^99]
 
-[^97]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^98]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^98]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^99]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
