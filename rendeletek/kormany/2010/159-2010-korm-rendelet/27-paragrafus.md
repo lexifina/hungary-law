@@ -8,8 +8,8 @@ b) a repülőtér a létesítési engedélyben megjelölt rendeltetésének megf
 
 c) a repülőtér zavartalan használatához szükséges járulékos építmények – így különösen: parkolók, hulladék-, göngyölegtárolók – megvalósultak-e, a felvonulási épület elbontásra került-e, a környezetrendezést elvégezték-e, valamint
 
-d)[^11] amennyiben zajgátló védőövezet kijelölése szükséges, a zajgátló védőövezetet kijelölő határozatban foglaltak végrehajtása megtörtént-e.
+d)[^15] amennyiben zajgátló védőövezet kijelölése szükséges, a zajgátló védőövezetet kijelölő határozatban foglaltak végrehajtása megtörtént-e.
 
 (2) A használatbavételi engedély csak akkor adható meg, ha a repülőtér a rendeltetésszerű és biztonságos használat követelményeinek megfelel.
 
-[^11]: A 27. § (1) bekezdés d) pontja a 309/2010. (XII. 23.) 5. §-ával megállapított szöveg.
+[^15]: A 27. § (1) bekezdés d) pontja a 309/2010. (XII. 23.) 5. §-ával megállapított szöveg.

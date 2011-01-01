@@ -1,4 +1,4 @@
-43/A. §[^26] (1) A légiközlekedési hatóság által engedélyezett nem nyilvános fel- és leszállóhely kizárólag a IV–VI. repülőtérosztály valamelyikébe sorolható.
+43/A. §[^32] (1) A légiközlekedési hatóság által engedélyezett nem nyilvános fel- és leszállóhely kizárólag a IV–VI. repülőtérosztály valamelyikébe sorolható.
 
 (2) A repülőtérré minősítés iránti kérelemhez – a 4. § (2) bekezdésben foglaltakon túl, a (3) bekezdésben foglalt eltéréssel – a IV–VI. repülőtérosztálynak megfelelő fel- és leszállóhely esetében a 16. § (4) bekezdése szerinti mellékleteket kell csatolni.
 
@@ -16,4 +16,4 @@ b) a repülőtér besorolását,
 
 c) felhívást arra, hogy a repülőtér használatához üzemben tartási engedély is szükséges.
 
-[^26]: A 43/A. §-t a 309/2010. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^32]: A 43/A. §-t a 309/2010. (XII. 23.) Korm. rendelet 10. §-a iktatta be. [A 43/B. §-nak a 82/2011. (V. 18.) Korm. rendelet 53. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „43/B. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Kr.) megállapított rendelkezéseit a Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.”.]

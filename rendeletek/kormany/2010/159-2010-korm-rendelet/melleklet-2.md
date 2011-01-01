@@ -10,7 +10,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 1.1. az állandó határátkelőhely,
 
-1.2. a vámhatóságnak az Európai Unió külső vámhatárán működő alsó fokú szerve működéséhez szükséges feltételek,
+1.2.[^38] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
 
 1.3. fegyveres biztonsági szolgálat.
 
@@ -69,3 +69,5 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 4.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal a repülőtéren fogadni tervezett géptípusnak megfelelő, egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
 
 4.2. Repülőtérrend.
+
+[^38]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
