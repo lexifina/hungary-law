@@ -1,0 +1,5 @@
+## 2. Kedvezményezetti kör, hatály, kérelmezők
+
+2. § (1) A 2011. január 1. és 2011. december 31. közötti időszakra meghirdetett iskolatej programban a közoktatási törvény 20. § (1) bekezdés a)–d) pontjaiban és (2) bekezdésében foglalt közoktatási intézményekben óvodai nevelésben részt vevő gyermekek (a továbbiakban: óvodások), általános iskolai nevelésben-oktatásban részt vevő tanulók (a továbbiakban: általános iskolai tanulók), a középiskolai és szakiskolai nevelésben-oktatásban részt vevő tanulók (a továbbiakban: középfokú iskolai tanulók), valamint gyógypedagógiai, konduktív pedagógiai nevelésben- oktatásban részt vevő tanulók vehetnek részt.
+
+(2) Az iskolatej program keretében óvodásonként, általános iskolai tanulónként, középfokú iskolai tanulónként, valamint gyógypedagógiai, konduktív pedagógiai nevelésben-oktatásban részt vevő tanulónként foglalkozási és tanítási naponként átlagosan legfeljebb 0,25 liter tej egyenértékkel megegyező mennyiség erejéig az e rendeletben meghatározott tejtermékek után támogatás igényelhető.
