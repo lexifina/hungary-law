@@ -8,8 +8,8 @@
 
 14. § (1) Az időskorúak járadékának megállapítása iránti kérelmet a 2. számú melléklet szerinti formanyomtatványon kell benyújtani.
 
-(2)[^39]
+(2)[^41]
 
 (3) Ha a kérelmet a házastárs (élettárs) nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-[^39]: A 14. § (2) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 21. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^41]: A 14. § (2) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 21. § (1) bekezdésének b) pontja hatályon kívül helyezte.

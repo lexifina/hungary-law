@@ -1,4 +1,4 @@
-5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^182]
+5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^186]
 
 ## IGAZOLÁS ÉS SZAKVÉLEMÉNY
 
@@ -30,7 +30,7 @@ I. Igazolom, hogy
 
 ## Fenti igazolást nevezett részére
 
-## az Országos Rehabilitációs és Szociális Szakértői Intézet ............ fokú szakértői bizottságának .................... számú szakhatósági állásfoglalása vagy szakvéleménye, vagy a ...................... megyei gyermek szakfőorvos .................... számú igazolása, vagy ........................... fekvőbeteg-szakellátást nyújtó intézmény ....................................................... szakrendelő intézet szakorvosa által kiadott .................... keltű igazolás/zárójelentés, vagy a Tanulási Képességet Vizsgáló Szakértő Bizottság .................... számú szakvéleménye alapján állítottam ki.
+## az Nemzeti Rehabilitációs és Szociális Hivatal ............ fokú szakértői bizottságának .................... számú szakhatósági állásfoglalása vagy szakvéleménye, vagy a ...................... megyei gyermek szakfőorvos .................... számú igazolása, vagy ........................... fekvőbeteg-szakellátást nyújtó intézmény ....................................................... szakrendelő intézet szakorvosa által kiadott .................... keltű igazolás/zárójelentés, vagy a Tanulási Képességet Vizsgáló Szakértő Bizottság .................... számú szakvéleménye alapján állítottam ki.
 
 ## II. Szakvéleményem szerint a fent nevezett személy fogyatékossága/betegsége miatt állandó és tartós gondozásra szorul. A gondozás várható időtartama:
 
@@ -68,4 +68,4 @@ d) mozgásszervi károsodása, illetőleg funkciózavara olyan mértékű, hogy 
 
 2.Tartósan beteg az a személy, aki előreláthatólag három hónapnál hosszabb időtartamban állandó ápolást, gondozást igényel.
 
-[^182]: Az 5. számú melléklet a 213/2007. (VIII. 7.) Korm. rendelet 18. § m) pontjának me) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^186]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 332/2010. (XII. 27.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

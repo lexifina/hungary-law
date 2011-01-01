@@ -1,10 +1,10 @@
 ## 21. § Ha a lakásfenntartási támogatás megállapítására természetbeni juttatásként kerül sor, akkor a folyósítás a szolgáltató részére történik. Ebben az esetben a jogosultságot megállapító határozatban arról is rendelkezni kell, hogy a támogatást mely lakásfenntartási kiadás(ok)hoz nyújtják.
 
-22. §[^76] (1)[^77] Azon személy részére, akinél készülék működik, a lakásfenntartási támogatást részben vagy egészben a készülék működtetését lehetővé tevő eszköz (a továbbiakban: kódhordozó) formájában kell nyújtani, ideértve a készülék feltöltésének elektronikus úton, a fogyasztó javára történő teljesítését is.
+22. §[^80] (1)[^81] Azon személy részére, akinél készülék működik, a lakásfenntartási támogatást részben vagy egészben a készülék működtetését lehetővé tevő eszköz (a továbbiakban: kódhordozó) formájában kell nyújtani, ideértve a készülék feltöltésének elektronikus úton, a fogyasztó javára történő teljesítését is.
 
-(2)[^78] A készülékek (1) bekezdés szerinti működtetésének részleteiről az illetékes települési önkormányzat megállapodást köt a területén működő áram-, illetve gázszolgáltatóval.
+(2)[^82] A készülékek (1) bekezdés szerinti működtetésének részleteiről az illetékes települési önkormányzat megállapodást köt a területén működő áram-, illetve gázszolgáltatóval.
 
-(3)[^79] A készüléknek az Szt. 55/A. § (3) bekezdés szerinti biztosítása esetén
+(3)[^83] A készüléknek az Szt. 55/A. § (3) bekezdés szerinti biztosítása esetén
 
 a) a (2) bekezdés szerinti megállapodás kiterjed a készülék beszerzésének, illetve felszerelésének részletes feltételeire is,
 
@@ -12,10 +12,10 @@ b) amennyiben a jogosult a készülék leszerelését a felszereléstől számí
 
 (4) A készülék leszerelése esetén a lakásfenntartási támogatás kódhordozó formájában történő nyújtását meg kell szüntetni.
 
-(5)–(6)[^80]
+(5)–(6)[^84]
 
-[^76]: A 22. § a 326/2006. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^77]: A 22. § (1) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^78]: A 22. § (2) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^79]: A 22. § (3) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^80]: A 22. § (5)–(6) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés b) pont bc) alpontja hatályon kívül helyezte.
+[^80]: A 22. § a 326/2006. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^81]: A 22. § (1) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^82]: A 22. § (2) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^83]: A 22. § (3) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^84]: A 22. § (5)–(6) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés b) pont bc) alpontja hatályon kívül helyezte.
