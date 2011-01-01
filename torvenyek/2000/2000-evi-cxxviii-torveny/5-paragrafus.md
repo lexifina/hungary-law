@@ -30,4 +30,4 @@ l) az utánképzés igazolásának időpontját.
 
 (4) A Nyilvántartó a (2) bekezdés szerinti értesítésben megnevezett szabályszegéshez a jogszabályban rendelt pontszámot nyilvántartásba veszi.
 
-(5) A Nyilvántartót az (1) bekezdés l) pontjában megjelölt adatokról az utánképzésről szóló igazolás kiadására jogosult, külön jogszabályban meghatározott hatóság az igazolás kiállítását követő három munkanapon belül értesíti.
+(5) A Nyilvántartót az (1) bekezdés l) pontjában megjelölt adatokról az utánképzésről szóló igazolás kiadására jogosult, külön jogszabályban meghatározott hatóság az igazolás kiállítását követő nyolc napon belül értesíti.
