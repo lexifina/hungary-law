@@ -6,7 +6,7 @@
 
 35. § (1) A katonai felsőoktatási intézményben az Ftv. 125. §-át az alábbi eltérésekkel kell alkalmazni:
 
-a) az ösztöndíjas hallgató az Ftv. 125. § (3) bekezdés a)–c) pontjára térítési díj fizetése nélkül jogosult,
+a) a honvéd tisztjelölt az Ftv. 125. § (3) bekezdés a)–c) pontjára térítési díj fizetése nélkül jogosult,
 
 b) a kettős jogállású hallgató az Ftv. 125. § (3) bekezdés a) pontjára térítési díj fizetése nélkül jogosult.
 

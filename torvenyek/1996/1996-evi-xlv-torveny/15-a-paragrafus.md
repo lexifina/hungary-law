@@ -6,9 +6,9 @@ b) a hallgatói jogviszony fennállása alatt az intézmény írásbeli felhív�
 
 hatósági bizonyítvánnyal igazolja.
 
-(2) Az intézmény a hallgatói jogviszony fennállása alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hallgatót annak igazolására, hogy vele szemben nem áll fenn a 15. § (4) bekezdésben meghatározott kizáró ok. Ha a hallgató igazolja, hogy vele szemben nem áll fenn a 15. § (4) bekezdésben meghatározott kizáró ok, az intézmény az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
+(2) Az intézmény a hallgatói jogviszony fennállása alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hallgatót annak igazolására, hogy vele szemben nem áll fenn a 15. § (2) bekezdésben meghatározott kizáró ok. Ha a hallgató igazolja, hogy vele szemben nem áll fenn a 15. § (2) bekezdésben meghatározott kizáró ok, az intézmény az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
 
-(3) Az intézmény az (1) bekezdésben meghatározottak alapján megismert személyes adatokat – a 15. § (4) bekezdésben meghatározott kizáró ok fennállásának megállapítása céljából –
+(3) Az intézmény az (1) bekezdésben meghatározottak alapján megismert személyes adatokat – a 15. § (2) bekezdésben meghatározott kizáró ok fennállásának megállapítása céljából –
 
 a) a hallgatói jogviszony létesítéséről meghozott döntés időpontjáig,
 

@@ -4,7 +4,7 @@
 
 ## Az oktatói és tudományos kutatói munkakörre vonatkozó külön szabályok
 
-3. § (1) Az intézményben oktatói, tudományos kutatói munkakört, vezetői beosztást közalkalmazott a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) és a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) szerinti állomány tagja tölthet be.
+3. § (1) Az intézményben oktatói, tudományos kutatói munkakört, vezetői beosztást közalkalmazott a Hszt. és a Hjt. szerinti állomány tagja tölthet be.
 
 (2) Közalkalmazott oktató, tudományos kutató az lehet, aki
 

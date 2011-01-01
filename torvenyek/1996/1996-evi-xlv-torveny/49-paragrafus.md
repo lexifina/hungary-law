@@ -6,4 +6,6 @@
 
 49. § (1) Ez a törvény a kihirdetését követő 3. hónap 1. napján lép hatályba. E törvény hatálybalépése az azt megelőzően kötött tanulmányi szerződésekben foglalt hivatásos állományba vételi kötelezettséget nem érinti.
 
-(2)–(4)
+(2) A honvéd tisztjelölt jogállással összefüggésben 2011. február 1-jéig a megkötött ösztöndíjszerződéseket módosítani kell.
+
+(3)–(4)

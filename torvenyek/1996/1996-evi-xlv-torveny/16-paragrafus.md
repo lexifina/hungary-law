@@ -10,6 +10,6 @@ d) kizárás fegyelmi büntetés esetén, a fegyelmi határozat jogerőre emelke
 
 e) a hallgatói névjegyzékből való törléssel az Ftv. 76. § (2) bekezdés b)–c) pontjában említett esetben, a törlés napján,
 
-f) ha az intézmény az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a hallgatóval szemben fennáll a 15. § (4) bekezdésben meghatározott kizáró ok, vagy ha a hallgató a 15/A. § (2) bekezdésben meghatározott kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
+f) ha az intézmény az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a hallgatóval szemben fennáll a 15. § (2) bekezdésben meghatározott kizáró ok, vagy ha a hallgató a 15/A. § (2) bekezdésben meghatározott kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
 (2) A hallgatói jogviszony megszűnése után az oklevél kiadásáig a volt hallgatót a Szabályzatban meghatározottak szerint megilletik a záróvizsga letételéhez fűződő jogok, illetve terhelik a kötelezettségek.

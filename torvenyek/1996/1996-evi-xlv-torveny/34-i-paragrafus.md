@@ -1,0 +1,1 @@
+34/I. § A honvéd tisztjelölt tiszti állományba vétele hivatásos, vagy szerződéses jogviszony létesítésével történhet. Erről a Honvéd Vezérkar főnöke a Zászlóalj parancsnokának javaslatára a szolgálat érdekére tekintettel dönt.
