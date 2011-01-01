@@ -1,10 +1,10 @@
 ## Pénzügyi szervezetek különadója
 
-4/A. § (1) A 2010. július 1-jén már lezárt üzleti évi beszámolóval rendelkező pénzügyi szervezet a 2010. évben különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2011-ben különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadó fizetési kötelezettségét 2010. szeptember 30. napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatóságnak.
+(2) A pénzügyi szervezet a különadót 2011. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A pénzügyi szervezet a különadót a 2010. évben két egyenlő részletben, 2010. szeptember 30. napjáig és december 10. napjáig fizeti meg.
+(3) A 2010-ben jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti év választása miatt e törvény 2010. december 31-én hatályos rendelkezései szerint a különadó-bevallás benyújtására csak 2010. szeptember 30-a után kötelezett pénzügyi szervezet a különadót – a (4) bekezdés rendelkezéseinek megfelelő alkalmazásával – az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2011. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
@@ -28,13 +28,13 @@ d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél a 2009. évi
 
 e) befektetési alapkezelőnél az általa kezelt alapok 2009. december 31-i nettó eszközértékének, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon 2009. december 31-i értékének együttes összege.
 
-(5) A naptári évtől eltérő üzleti évet választó pénzügyi szervezet (4) bekezdés szerinti különadó alapját a rendelkezésre álló legutolsó beszámolóval lezárt üzleti év adatai alapján állapítja meg.
+(5)
 
 (6) A különadó mértéke
 
-a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,5 százalék,
+a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,53 százalék,
 
-b) biztosító esetén 6,2 százalék,
+b) biztosító esetén az adóalap 1 milliárd forintot meg nem haladó része után 1,5 százalék, 8 milliárd forintot meg nem haladó része után 3 százalék, az e feletti összegre 6,4 százalék,
 
 c) egyéb pénzügyi szervezet esetén:
 
@@ -48,11 +48,11 @@ cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százal
 
 ce) befektetési alapkezelőnél 0,028 százalék.
 
-(7) A 2011. január 1-je előtt jogutód nélkül megszűnő pénzügyi szervezetnek a bevallott – ideértve az adóhatóság által megállapított – különadónak a megfizetett részletekkel csökkentett összegét a végelszámolást vagy a felszámolást lezáró adóbevallás benyújtásával egyidejűleg kell megfizetnie.
+(7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint kiszámított összegét, legfeljebb annak mértékéig, csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
-(8) A (7) bekezdés rendelkezései az irányadók az átalakulással történő megszűnés esetén is, amennyiben a jogutód nem alanya az e § szerinti különadónak. Ha az átalakuláshoz kapcsolódó soron kívül benyújtandó adóbevallás benyújtásának időpontja és az átalakulás napja között az általános szabályok szerint különadó fizetés esedékessé válik, az esedékes különadó részletfizetési kötelezettséget teljesíteni kell.
+(8)
 
-(9) Ha a pénzügyi szervezet a (7) és (8) bekezdésben nem szabályozott bármely egyéb okból kikerül e törvény hatálya alól, a bevallott – ideértve az adóhatóság által megállapított – különadónak a megfizetett részletekkel csökkentett összegét a kikerülés napját követő 30. napjáig meg kell fizetnie.
+(9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
 (10) A különadó bevallás mellékleteként nyújtja be az adóhatósághoz:
 

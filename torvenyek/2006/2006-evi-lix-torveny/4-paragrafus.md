@@ -1,4 +1,4 @@
-## A hitelintézet adókötelezettsége
+## A hitelintézetek járadéka
 
 4. § (1) A hitelintézet az állami kamattámogatással, kamatkiegyenlítéssel közvetlenül vagy közvetetten érintett hitelállománya alapján az adóévben kamat és kamatjellegű bevételként (ideértve a külön jogszabály szerint jelzálog-levéllel finanaszírozott hitelek kamattámogatását is) elszámolt – az állami kamattámogatással, kamatkiegyenlítéssel közvetlenül vagy közvetetten érintett hitelállomány alapján, külön jogszabály előírása szerint a fizetett kamatok és kamatjellegű ráfordítások között elszámolt, a Magyar Állammal szembeni kamatkülönbözet fizetési kötelezettséggel csökkentett – összeg után 5 százalékos mértékkel járadékot állapít meg és fizet.
 
