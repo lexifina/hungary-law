@@ -6,7 +6,7 @@ b) a Kormány tagja,
 
 c) a helyi önkormányzat.
 
-(2) Szolgálati jel elismerést a rendészetért felelős miniszter, a határrendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a honvédelemért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, az adópolitikáért felelős miniszter és a polgári nemzetbiztonsági szolgálatokat irányító miniszter a Magyar Honvédségnél, a rendvédelmi szerveknél, a nemzetbiztonsági szolgálatoknál szolgálatot teljesítők részére alapíthat.
+(2) Szolgálati jel elismerést a rendészetért felelős miniszter, a határrendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a honvédelemért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter a Magyar Honvédségnél, a rendvédelmi szerveknél, a nemzetbiztonsági szolgálatoknál szolgálatot teljesítők részére alapíthat.
 
 (3) Az (1)—(2) bekezdés szerint alapított elismerések közül csak a díjakkal jár jutalom, amely az általános szabályok szerint adóköteles.
 
