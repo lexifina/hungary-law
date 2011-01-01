@@ -1,0 +1,27 @@
+## 1. § A kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a 8. § (3) bekezdésében foglaltak végrehajtására a tárolandó adatok körét és az adatokhoz való hozzáférés rendjét a rendészetért felelős miniszter, az egészségügyért felelős miniszter, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza.”
+
+2. § (1) A határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendelet 8. § (2) bekezdésében a „miniszterrel” szövegrészek helyébe a „miniszter” szöveg, az „együttes rendeletekben határozzák” szövegrész helyébe az „egyetértésével kiadott rendeletekben határozza” szöveg lép.
+
+(2) A nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló 173/2003. (X. 28.) Korm. rendelet 25. § (1) bekezdésében a „miniszter és” szövegrész helyébe a „miniszter, hogy” szöveg, a „miniszter, hogy együttes” szövegrész helyébe a „miniszter egyetértésével kiadott” szöveg, 25. § (2) bekezdésében a „miniszterrel” szövegrészek helyébe a „miniszter” szöveg, az „együttes” szövegrész helyébe az „egyetértésével kiadott” szöveg lép.
+
+(3) Az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendelet 20. § (3) bekezdésében, 27. § (2) bekezdésében és 33. § (3) bekezdés b) pontjában a „miniszterrel együttes” szövegrész helyébe a „miniszter egyetértésével kiadott” szöveg, 33. § (3) bekezdés c) pontjában a „miniszterrel a Kohéziós Alap közreműködő szervezetet együttes rendeletben” szövegrész helyébe a „miniszter egyetértésével kiadott rendeletben a Kohéziós Alap közreműködő szervezetet” szöveg lép.
+
+(4) A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának alapvető szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendelet 21. § (3) bekezdés a) pontjában az „együttes” szövegrész helyébe az „az államháztartásért felelős miniszter egyetértésével kiadott” szöveg lép.
+
+(5) A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendelet 6. § (3) bekezdésében a „miniszterrel együttes” szövegrész helyébe a „miniszter egyetértésével kiadott” szöveg lép.
+
+(6) Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet
+
+a) 6. § (3) bekezdésében, 29. § (2) bekezdés e) pontjában és 40. § (2) bekezdés e) pontjában az „állami irányítás egyéb jogi eszközei” szövegrész helyébe a „közjogi szervezetszabályozó eszközök” szöveg,
+
+b) 7. § (2) bekezdésében és a 8. § (1) bekezdésében az „állami irányítás egyéb jogi eszközeit” szövegrész helyébe a „közjogi szervezetszabályozó eszközöket” szöveg,
+
+c) 7. § (3) bekezdés k) pontjában az „az állami irányítás egyéb jogi eszközei” szövegrész helyébe az „a közjogi szervezetszabályozó eszközök” szöveg,
+
+d) 8. § (2) bekezdés g) pontjában az „az állami irányítás egyéb jogi eszközeinek” szövegrész helyébe a „közjogi szervezetszabályozó eszközök” szöveg,
+
+e) 20. § nyitó szövegrészében a „gondoskodik” szövegrész helyébe a „felel” szöveg
+
+lép.
