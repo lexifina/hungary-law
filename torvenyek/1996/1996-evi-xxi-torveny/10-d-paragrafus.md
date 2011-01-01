@@ -14,7 +14,7 @@ bd) az iparosok és kiskereskedők országos szakmai érdekvédelmi szervezetein
 
 be) a társadalmi szervezetek fóruma által delegált, a civil szervezetek egy képviselője,
 
-bf) a közigazgatási hivatal képviselője,
+bf) a Kormány általános hatáskörű területi államigazgatási szerve képviselője,
 
 bg) a kincstár képviselője;
 

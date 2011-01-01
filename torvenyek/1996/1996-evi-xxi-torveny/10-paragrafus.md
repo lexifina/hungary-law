@@ -8,4 +8,4 @@
 
 (2) A területfejlesztési önkormányzati társulásokra a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény szabályait kell alkalmazni.
 
-(3) A területfejlesztési önkormányzati társulások felett a közigazgatási hivatal törvényességi ellenőrzést gyakorol. A társulások működésének törvényességi ellenőrzését a közigazgatási hivatal a helyi önkormányzatokról szóló 1990. évi LXV. törvény 98–99. §-ai megfelelő alkalmazásával végzi.
+(3) A területfejlesztési önkormányzati társulások felett a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzést gyakorol. A társulások működésének törvényességi ellenőrzését a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a helyi önkormányzatokról szóló 1990. évi LXV. törvény 98–99. §-ai megfelelő alkalmazásával végzi.

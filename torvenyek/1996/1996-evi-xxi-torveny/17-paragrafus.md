@@ -52,7 +52,7 @@ f) évente beszámol a Kormánynak az előző évre ütemezett feladatok megval�
 
 a) a tanács illetékességi területén működő megyei területfejlesztési tanácsok elnökei;
 
-b) a Kormány részéről a miniszter képviselője, valamint a Kormány által meghatározott további nyolc miniszteri képviselő;
+b) a Kormány részéről a miniszter képviselője, valamint a Kormány által meghatározott további nyolc képviselő;
 
 c) az érintett többcélú kistérségi társulások, illetve kistérségi fejlesztési tanácsok megyénként egy-egy képviselője;
 
@@ -70,7 +70,13 @@ h) a fővárosi kerületi önkormányzatok egy képviselője, valamint
 
 i) a régió többcélú kistérségi társulásainak, illetve kistérségi fejlesztési tanácsainak további legfeljebb kettő képviselője.
 
-(7) A (6) bekezdés b) pontjában felsorolt miniszter képviseletét állásfoglalásra jogosult állandó megbízottja látja el. Az állandó megbízottat csak a megbízó miniszter által írásban felhatalmazott személy helyettesítheti. Az egységes kormányzati álláspont kialakítása és képviselete érdekében a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter a kormányzati területfejlesztési feladatokért felelős szerv közreműködésével gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és a regionális fejlesztési tanácsok közötti egyeztetés rendszerét. A tanács ülésén a tagsági joggal nem rendelkező napirenddel érintett miniszter képviselője részt vehet és felszólalhat.
+(7) A miniszter képviseletét állásfoglalásra jogosult állandó megbízottja látja el. Az állandó megbízottat csak a megbízó miniszter által írásban felhatalmazott személy helyettesítheti.
+
+(7a) A Kormány által meghatározott képviselők helyettesítésének rendjét a Kormány állapítja meg.
+
+(7b) Az egységes kormányzati álláspont kialakítása és képviselete érdekében a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter a kormányzati területfejlesztési feladatokért felelős szerv közreműködésével gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és a regionális fejlesztési tanácsok közötti egyeztetés rendszerét.
+
+(7c) A tanács ülésén a tagsági joggal nem rendelkező, napirenddel érintett miniszter képviselője részt vehet és felszólalhat.
 
 (8) Konzultációs joggal rendelkeznek mindazon a régió területén működő bírósági nyilvántartásba vett területfejlesztési, valamint a nők és férfiak esélyegyenlőségéért küzdő szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre és a regionális fejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
 
@@ -90,7 +96,7 @@ a) a megyei területfejlesztési tanácsok elnökei a megyei területfejlesztés
 
 b) a megyei jogú városok polgármesterei a megyei jogú város közgyűlésének, a főpolgármester a Fővárosi Közgyűlésnek,
 
-c) a miniszter képviselője az őt delegáló miniszternek,
+c) a miniszter képviselője az általa képviselt miniszternek,
 
 d) a tanács tagjai a delegáló szervezetnek,
 
