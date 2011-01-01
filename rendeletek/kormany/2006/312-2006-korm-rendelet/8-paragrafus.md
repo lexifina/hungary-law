@@ -2,6 +2,6 @@
 
 (2) A Hivatal köteles éves ellenőrzési tervét a tárgyévet megelőző év december 15. napjáig a miniszter útján a Kormánynak benyújtani.
 
-(3)[^12] Kormánydöntés, a miniszterelnök, illetve a közigazgatási és igazságügyi miniszter utasítása alapján a Hivatal elnöke soron kívüli ellenőrzést rendel el.
+(3)[^13] Kormánydöntés, a miniszterelnök, illetve a közigazgatási és igazságügyi miniszter utasítása alapján a Hivatal elnöke soron kívüli ellenőrzést rendel el.
 
-[^12]: A 8. § (3) bekezdése a 193/2010. (VI. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 8. § (3) bekezdése a 193/2010. (VI. 10.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## A Hivatal szervezete, vezetői
 
-2. § (1)[^3] A Hivatalt elnök vezeti, akit a miniszter javaslatára a miniszterelnök nevez ki és ment fel.
+2. § (1)[^4] A Hivatalt elnök vezeti, akit a miniszter javaslatára a miniszterelnök nevez ki és ment fel.
 
 (2) A Hivatal elnökét feladatai ellátásában elnökhelyettesek segítik, akiket a Hivatal elnökének javaslatára a miniszter nevez ki és ment fel.
 
@@ -8,4 +8,4 @@
 
 (4) A Hivatal alkalmazottai köztisztviselők, felettük a munkáltatói jogokat a Hivatal elnöke gyakorolja.
 
-[^3]: A 2. § (1) bekezdése a 193/2010. (VI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése a 193/2010. (VI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
