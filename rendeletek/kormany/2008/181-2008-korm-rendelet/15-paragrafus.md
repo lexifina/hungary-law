@@ -12,7 +12,7 @@
 
 (6)[^41] Az adatszolgáltatási kötelezettség teljesítése során a 3. melléklet 1.2. pontja szerinti adatokat első alkalommal 2011. évben, a 3. melléklet 1.3. pontja szerinti adatokat első alkalommal 2012. évben kell benyújtani. Ez a bekezdés 2012. február 21-én hatályát veszti.
 
-(7)[^42] Az 1. mellékletben a begyűjtési kötelezettség mértékét meghatározó számítási képletben 2009-ben a begyűjtési arányt csak a 2009-ben forgalmazott mennyiséggel kell megszorozni, 2010-ben pedig csak a 2009–2010. évben forgalmazott mennyiség átlagával. Ez a bekezdés 2011. január 1-jén hatályát veszti.
+(7)[^42]
 
 (8)[^43]
 
@@ -26,7 +26,7 @@
 [^39]: A 15. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^40]: A 15. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^41]: A 15. § (6) bekezdése a 101/2010. (IV. 2.) Korm. rendelet 6. § a) pont aa)–ab) alpontja és 7. § (1) bekezdése szerint módosított szöveg.
-[^42]: A 15. § (7) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^42]: A 15. § (7) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^43]: A 15. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^44]: A 15. § (9) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
 [^45]: A 15. § (10) bekezdése a 101/2010. (IV. 2.) Korm. rendelet 6. § b) pont ba)–bc) alpontja szerint módosított szöveg.
