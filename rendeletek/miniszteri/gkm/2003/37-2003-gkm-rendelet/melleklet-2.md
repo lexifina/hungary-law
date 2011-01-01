@@ -24,7 +24,7 @@
 
 ## Magyar Energia Hivatal 1081 Budapest Köztársaság tér 7.
 
-## Magyar Szabadalmi Hivatal 1054 Budapest Garibaldi u. 2.
+## Szellemi Tulajdon Nemzeti Hivatala 1054 Budapest Garibaldi u. 2.
 
 ## MAVIR Magyar Villamosenergia-ipari
 
