@@ -1,0 +1,1 @@
+## „(7) A kombinált kiszerelés maximálisan felírható mennyisége nem haladhatja meg a kombinált kiszerelésben szereplő eszközök közül a legalacsonyabb maximális felírható mennyiségű eszköz maximális felírható mennyiségét.”
