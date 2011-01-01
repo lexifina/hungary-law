@@ -18,13 +18,13 @@ g) a hazai és külföldi tudományos és technológiai ismeretek megszerzésér
 
 h) a társadalomtudományi kutatások támogatására.
 
-(2) Az Alap pénzeszközei felhasználhatók továbbá külön jogszabályban, nemzetközi szerződésben meghatározottak szerint különösen:
+(2) Az Alap pénzeszközei felhasználhatók továbbá jogszabályban, nemzetközi szerződésben meghatározottak szerint különösen:
 
 a) a Nemzeti Fejlesztési Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések hazai társfinanszírozására;
 
-b) a tudás- és technológia-intenzív kis- és középvállalkozásokba befektető kockázati tőkealapokban történő részvétel révén;
+b) a tudás- és technológia-intenzív kis- és középvállalkozásokba befektető magvető-, valamint kockázati tőkealapokban történő részvétel révén;
 
-c) a nemzetközi tudományos és technológiai együttműködésből adódó feladatokra;
+c) a nemzetközi – ideértve az Európai Unió keretében megvalósuló – tudományos és technológiai együttműködésből adódó feladatokra;
 
 d) a tudományos kutatás és a technológiai innováció szakpolitikai megalapozását szolgáló műszaki, közgazdasági, társadalomtudományi elemzések, tanulmányok, koncepciók készítésére;
 
@@ -34,20 +34,30 @@ f)
 
 g)
 
-(3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban, a Kutatási és Technológiai Innovációs Tanács jóváhagyásával, az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
+(3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
 
-(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítani kell a TéT attaséi hálózat, a Tudomány-, Technológiapolitikai és Versenyképességi Tanácsadó Testület, a Tudomány- és Technológiapolitikai Kollégium, valamint a Tudomány és Technológiapolitikai Titkárság működésének költségeit, feladataik ellátásához szükséges forrásokat.
+(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítani kell a TéT attaséi hálózat működésének költségeit, feladatai ellátásához szükséges forrásokat.
+
+(4a) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül
+
+a) a tudomány-, a kutatás-fejlesztési és az innováció-politika megalapozását szolgáló elemző tudás- és adatbázisok létrehozásához és kezeléséhez,
+
+b) az országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alap – programstratégiájának és tervezésének megalapozását szolgáló elemzések, tanulmányok, módszertanok, értékelések, koncepciók és stratégiák elkészítéséhez, valamint a támogatási programok stratégiai monitoringjához és értékeléséhez és
+
+c) innovációs szolgáltatás közvetlen biztosításához
+
+források biztosíthatók.
 
 (5) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítható az Új Magyarország Fejlesztési Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések – ideértve K+F nagy infrastruktúrák fejlesztését célzó beruházásokat – társfinanszírozása, hazai – Kormány által jóváhagyott – K+F infrastrukturális fejlesztések visszatérítendő támogatása, európai uniós együttműködés keretében megvalósuló – Kormány által jóváhagyott – K+F infrastrukturális beruházások vissza nem térítendő támogatása, az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség.
 
 (6) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül a nemzetközi European X-Ray Free-Electron Laser Facility (XFEL) GmbH-ban (a továbbiakban: GmbH) való tagi hozzájárulás és éves tagdíj a kutatás-fejlesztésért és technológiai innovációért felelős szerv részére az Alapból biztosítható. A GmbH-ban a kutatás-fejlesztésért és technológiai innovációért felelős szerv 1%-os részesedést szerezhet.
 
-(7) Az Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, a szerződések előkészítésével, megkötésével és bonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, valamint az ellenőrzéssel és értékeléssel, továbbá a kutatásfejlesztésért és technológiai innovációért felelős szervnél működtetésével kapcsolatos – költségeket az Alap finanszírozza. Az Alap kezelésével kapcsolatos költségek nem haladhatják meg az Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át.
+(7) Az Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, a szerződések előkészítésével, megkötésével és bonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, valamint az ellenőrzéssel és értékeléssel, kapcsolatos – költségeket az Alap finanszírozza. Az Alap kezelésével kapcsolatos költségek nem haladhatják meg az Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át.
 
-(8) Az Alap tárgyévi kiadási előirányzatának 25%-át regionális innovációs célokra kell felhasználni. Ezen pénzeszközöknek az Alap jogcímeivel és a régiók innovációs stratégiájával összhangban lévő felhasználási céljaira a regionális fejlesztési tanácsok tesznek javaslatot, és a kutatás-fejlesztésért és technológiai innovációért felelős szerv útján terjesztik a Kutatási és Technológiai Innovációs Tanács elé. A regionális innovációs célokra fordítandó összegből a költségvetési törvényben régiónként meghatározott keretek felhasználásáról – a Kutatási és Technológiai Innovációs Tanácsnak a 11. § (3) bekezdés szerinti egyetértésével kialakított decentralizált pályázati rendszerben – a regionális fejlesztési tanácsok döntenek.
+(8)
 
 (9) Az (1) bekezdés f) pontja szerinti kutatói tehetséggondozás, kutatói, oktatói továbbképzés, továbbá a (4) bekezdésben meghatározott jogcímek, feladatok éves támogatására együttesen a 2. § b) pontja szerinti tárgyévi központi költségvetési támogatás 8%-át meg nem haladó mértékben kerülhet sor.
 
-(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között az alap felett rendelkező miniszter – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
+(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között a fejlesztéspolitikáért felelős miniszter (a továbbiakban: miniszter) – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
 
 (11) Az Alapból nyújtott támogatások igénybevételének feltételeiről a kedvezményezettel szerződésben kell megállapodni.
