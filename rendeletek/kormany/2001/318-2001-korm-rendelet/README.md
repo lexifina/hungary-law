@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-318-20-
 | --- | --- | --- |
 | 2009-10-01 | 2001-318-20-22.9 | 318/2001. (XII. 29.) Korm. rendelet |
 | 2010-09-01 | 2001-318-20-22.10 | 234/2010. (VIII. 31.) Korm. rendelet |
+| 2011-01-01 | 2001-318-20-22.11 | 368/2010. (XII. 30.) Korm. rendelet |

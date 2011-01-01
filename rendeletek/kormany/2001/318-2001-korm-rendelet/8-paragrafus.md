@@ -1,5 +1,3 @@
-## 7. §[^10]
-
 8. §[^11] (1) A kérelmet a Hivatal az igazolvány kiadásával teljesíti. Ezzel egyidejűleg gondoskodik a jogosult és az igazolvány adatainak nyilvántartásba vételéről.
 
 (2)[^12] A Hivatal az igazolványt a kérelmező – kérelemben feltüntetett – választása szerint, a Kormány mellékletben megjelölt általános hatáskörű területi államigazgatási szerve (a továbbiakban: Kormány általános hatáskörű területi államigazgatási szerve) vagy diplomáciai és konzuli képviselet közreműködésével kézbesíti.
@@ -10,7 +8,6 @@
 
 (5) Az igazolványnak a (4) bekezdésben meghatározott okból történő megsemmisítése nem akadálya annak, hogy a kérelmező az általános szabályok szerint újabb kérelmet nyújtson be.
 
-[^10]: A 7. §-t a 223/2005. (X. 13.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
 [^11]: A 8. § a 130/2007. (VI. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^12]: A 8. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 37. pontja szerint módosított szöveg.
 [^13]: A 8. § (3) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 37. pontja szerint módosított szöveg.

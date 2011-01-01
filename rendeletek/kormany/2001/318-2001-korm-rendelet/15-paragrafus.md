@@ -2,15 +2,11 @@
 
 15. §[^28] (1) Az igazolvány a (2) bekezdésben meghatározott esetek kivételével határozatlan ideig érvényes.
 
-(2) Az igazolvány érvényét veszti:
+(2)[^29] A Hivatal az igazolvány érvénytelenségét a Szátv. 21. § (1) bekezdés szerinti érvénytelenségi ok alapján a nyilvántartásba hivatalból jegyzi be, és erről értesíti a támogatások központi nyilvántartását vezető szervet is.
 
-a) ha a Hivatal visszavonta,
-
-b) az igazolvány tulajdonosának halálával,
-
-c) ha a tulajdonosának birtokából kikerült, illetőleg használatra alkalmatlanná vált.
-
-(3) A Hivatal az igazolvány érvénytelenségét a nyilvántartásba hivatalból jegyzi be, és erről értesíti a támogatások központi nyilvántartását vezető szervet is.
+(3)[^30]
 
 [^27]: A 14. § a 130/2007. (VI. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^28]: A 15. § a 130/2007. (VI. 12.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^29]: A 15. § (2) bekezdése a 368/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: A 15. § (3) bekezdését a 368/2010. (XII. 30.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
