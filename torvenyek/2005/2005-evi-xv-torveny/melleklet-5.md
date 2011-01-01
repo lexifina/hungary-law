@@ -30,7 +30,7 @@ Amennyiben a legmagasabb adatmeghatározási szinthez tartozó módszer vagy a j
 
 Mennyiségmérés hitelessége
 
-Tömegmérési eredményeken alapuló számítás esetében az üzemeltető köteles gondoskodni a mérőberendezés használatbavétele előtt, majd használata közben rendszeres időközönként történő hitelesítéséről. A hitelesítést a Magyar Kereskedelmi és Engedélyezési Hivatal (MKEH) által kiadott tanúsítvánnyal köteles igazolni a környezetvédelmi hatóság felé. Ahol a mérőberendezés hitelesítése műszakilag nem lehetséges, az üzemeltető köteles a mérőberendezés alkalmasságát független akkreditált szervezet által történő kalibrálással biztosítani.
+Tömegmérési eredményeken alapuló számítás esetében az üzemeltető köteles gondoskodni a mérőberendezés használatbavétele előtt, majd használata közben rendszeres időközönként történő hitelesítéséről. A hitelesítést a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága által kiadott tanúsítvánnyal köteles igazolni a környezetvédelmi hatóság felé. Ahol a mérőberendezés hitelesítése műszakilag nem lehetséges, az üzemeltető köteles a mérőberendezés alkalmasságát független akkreditált szervezet által történő kalibrálással biztosítani.
 
 Gáztechnikai normál állapot (N)
 

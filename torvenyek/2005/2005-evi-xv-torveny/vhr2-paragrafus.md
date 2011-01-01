@@ -2,13 +2,13 @@
 
 Vhr. 2. § (1) Az üzemeltető köteles a kibocsátási engedély hatálya alá tartozó üvegházhatású gázkibocsátását az 5. mellékletben foglaltakra tekintettel, a 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátásának nyomon követésére és jelentésére vonatkozó iránymutatások létrehozásáról szóló 2007/589/EK bizottsági határozat (a továbbiakban: 2007/589/EK határozat), és a kibocsátási engedély szerint nyomon követni, és arról a környezetvédelmi hatóság részére a tárgyévet követő március 31-ig az Üht. 5. § (1) bekezdése szerint hitelesített jelentést tenni, a (2) bekezdés szerinti adatlapok felhasználásával. A jelentést postai úton és elektronikusan kell benyújtani.
 
-(2) A miniszter az (1) bekezdés szerinti hitelesített jelentésre, valamint a (4) bekezdés szerinti változás-bejelentésre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján.
+(2) A miniszter az (1) bekezdés szerinti hitelesített jelentésre, valamint a (4) bekezdés szerinti változás-bejelentésre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a minisztérium honlapján.
 
 (3) Az (1) bekezdésben meghatározottakon túl a környezetvédelmi hatóság jogosult – az engedélyben meghatározott tevékenységekre vonatkozóan, az engedélyben és az alkalmazandó jogszabályokban foglalt követelmények teljesítéséhez szükséges – további rendszeres, illetve eseti információkat kérni.
 
 (4) Az üzemeltető köteles a 4. mellékletben meghatározott adatok megváltozását, és a tevékenység végzéséhez kapcsolódó eseményeket az ott megjelölt határidővel – a (2) bekezdés szerint közzétett adatlapok felhasználásával – bejelenteni. A bejelentési kötelezettség elmulasztása esetén a hatóság a 19. § szerinti bírságot szab ki, és a kibocsátási engedélyt visszavonhatja.
 
-(5) A környezetvédelmi hatóság a 4. számú melléklet 1., 2., 4. és 5. pontja szerinti esetben ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki, vagy a módosítás iránti kérelmet elutasítja. Az engedély kiadásával kapcsolatos eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(5) A környezetvédelmi hatóság a 4. számú melléklet 1., 2., 4. és 5. pontja szerinti esetben ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki, vagy a módosítás iránti kérelmet elutasítja.
 
 (6) A 11/A. § szerinti bezáró létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a tevékenység folytatásának idejére vonatkozóan, hitelesített jelentést tenni. Ha a létesítmény bezárására a tárgyévet követő év január 1-je és március 1-je között kerül sor, akkor a bezárás évére vonatkozó jelentéstétel és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 

@@ -12,8 +12,8 @@ b) a kérelem első benyújtását követő években a 6. melléklet 2. c) és d
 
 (4) A (2) bekezdés b) pontjában foglaltak esetén a kérelmezőnek nyilatkoznia kell, hogy a korábbi új belépő eljárás alapjául szolgáló körülményekhez képest – ide nem értve a termelési, tüzelőanyag-felhasználási és kibocsátási mennyiségeket – történt-e változás. Ha változás következett be, vagy a környezethasználat feltételeit megállapító engedély vagy a kibocsátási engedély módosításra vagy visszavonásra került, meg kell adni a változással érintett adatokat, és az arra vonatkozó dokumentumokat mellékelni kell.
 
-(5) A miniszter a tárgyévet követő év február 28-ig – a gazdaságpolitikáért felelős miniszter, valamint az energiapolitikáért felelős miniszter véleményének kikérésével – a kiosztandó kibocsátási egységek mennyiségét, a Kiosztási Tervben az új belépő tartalék felhasználására vonatkozó szabályoknak megfelelően, a rendelkezésre álló tartalékmennyiségből, évente határozatban állapítja meg.
+(5) A miniszter a rendelkezésre álló tartalékmennyiségből a kiosztandó kibocsátási egységek mennyiségét a tárgyévet követő év február 28-ig, a Kiosztási Tervben az új belépő tartalék felhasználására vonatkozó szabályoknak megfelelően határozatban állapítja meg.
 
 (6) Az (5) bekezdés szerinti határozatot a miniszter közli a jegyzékkezelővel.
 
-(7) A jegyzékkezelő, a miniszter e tárgyban hozott határozata szerint, annak közlését követő 5 munkanapon belül írja jóvá az új belépő tartalék terhére kiosztott éves mennyiséget az üzemeltető számláján.
+(7) A jegyzékkezelő, a miniszter e tárgyban hozott határozata szerint, annak közlését követő nyolc napon belül írja jóvá az új belépő tartalék terhére kiosztott éves mennyiséget az üzemeltető számláján.

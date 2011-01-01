@@ -26,7 +26,7 @@ bb) amennyiben a jogosulatlanul jóváírt kibocsátási egység-mennyiséget ne
 
 (9) A bírság összegének megállapítása során a Magyar Nemzeti Bank által megállapított, a visszaadás napján közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
-(10) Az (1) bekezdésben, valamint a (3)–(8) bekezdésekben szabályozott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(10)
 
 [Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
 

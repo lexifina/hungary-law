@@ -14,7 +14,7 @@ d)
 
 (3) Az (1) bekezdés b)–c) pontjában meghatározott esetekben a környezetvédelmi hatóság a kibocsátási engedélyt a (2) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül a bezárás napjáig fennálló nyomon követési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától számított 45 napon belül teljesítenie kell.
 
-(4) A (3) bekezdésben szabályozott, a kibocsátási engedély visszavonására irányuló eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(4)
 
 [Üht. 10. §] (4)
 

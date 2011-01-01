@@ -1,4 +1,4 @@
-Vhr. 6. § (1) Amennyiben a Bizottság a Kiosztási Tervet részben vagy egészben elutasítja, azt a miniszter az elutasítás kézhezvételétől számított harminc napon belül a Bizottság észrevételeinek megfelelően, a gazdasági és közlekedési miniszterrel egyetértésben átdolgozza, és az átdolgozott változatot – a módosítás tartalmát és indokait összefoglaló tájékoztatóval együtt – a minisztérium honlapján közzéteszi.
+Vhr. 6. § (1) Amennyiben a Bizottság a Kiosztási Tervet részben vagy egészben elutasítja, azt a miniszter az elutasítás kézhezvételétől számított harminc napon belül a Bizottság észrevételeinek megfelelően, a gazdaságpolitikáért felelős miniszterrel egyetértésben átdolgozza, és az átdolgozott változatot – a módosítás tartalmát és indokait összefoglaló tájékoztatóval együtt – a minisztérium honlapján közzéteszi.
 
 (2) A Kiosztási Terv (1) bekezdés szerint átdolgozott változatára a közzétételt követő tizenöt napon belül írásban vagy elektronikus úton bárki észrevételt tehet.
 

@@ -76,7 +76,7 @@ B.2.3 Az egyes forrásanyagok fűtőértékének, széntartalmának, kibocsátá
 
 B.2.4 Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a 2007/589/EK Bizottsági Határozat iránymutatásait.
 
-B.2.5 A mennyiségi adatokat mérő mérőberendezés mérési pontossága, s annak megjelölése, hogy rendelkezik-e MKEH hitelesítési bizonyítvánnyal.
+B.2.5 A mennyiségi adatokat mérő mérőberendezés mérési pontossága, s annak megjelölése, hogy rendelkezik-e fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága által kiállított hitelesítési bizonyítvánnyal.
 
 B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 

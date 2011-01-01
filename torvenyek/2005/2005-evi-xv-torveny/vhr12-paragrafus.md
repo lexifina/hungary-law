@@ -32,12 +32,12 @@ c) a cég képviseletére vagy jegyzésére jogosult személy közjegyzői alá�
 
 d)
 
-(8) Amennyiben a megállapodás, illetve a kérelem az e rendeletben foglalt követelményeknek megfelel, a környezetvédelmi hatóság a kérelmet az annak alátámasztására szolgáló adatokkal együtt a miniszter útján haladéktalanul, de legkésőbb a kézhezvételtől számított tíz munkanapon belül továbbítja a Bizottság felé.
+(8) Amennyiben a megállapodás, illetve a kérelem az e rendeletben foglalt követelményeknek megfelel, a környezetvédelmi hatóság a kérelmet az annak alátámasztására szolgáló adatokkal együtt a miniszter útján haladéktalanul, de legkésőbb a megérkezését követő naptól számított tizenöt napon belül továbbítja a Bizottság felé.
 
-(9) Amennyiben a Bizottság a kézhezvételtől számított három hónapon belül a kérelem ellen nem emel kifogást, a környezetvédelmi hatóság a közös teljesítésben részt vevő üzemeltetők körét, a teljesítési megbízott személyét, továbbá a részt vevő üzemeltetőket együttesen megillető kibocsátási egységek mennyiségét a határidő lejártát követő tíz munkanapon belül határozatban állapítja meg. A Bizottság jóváhagyásáról vagy a kérelem elutasításáról a miniszter a határidő lejártát követően haladéktalanul értesíti a környezetvédelmi hatóságot.
+(9) Amennyiben a Bizottság a kézhezvételtől számított három hónapon belül a kérelem ellen nem emel kifogást, a környezetvédelmi hatóság a közös teljesítésben részt vevő üzemeltetők körét, a teljesítési megbízott személyét, továbbá a részt vevő üzemeltetőket együttesen megillető kibocsátási egységek mennyiségét a határidő lejártát követő tizenöt napon belül határozatban állapítja meg. A Bizottság jóváhagyásáról vagy a kérelem elutasításáról a miniszter a határidő lejártát követően haladéktalanul értesíti a környezetvédelmi hatóságot.
 
 (10) A közös teljesítésre irányuló jóváhagyott megállapodásokról a környezetvédelmi hatóság nyilvántartást vezet.
 
 (11) Ha a kérelmező a Magyarországon bejegyzett teljesítési megbízottra vonatkozó cégkivonatot nem csatolja, a környezetvédelmi hatóság az adatok szolgáltatása iránt megkeresi az adatokról nyilvántartást vezető bíróságot.
 
-(12) A közös teljesítésre vonatkozó megállapodás jóváhagyására irányuló eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(12)

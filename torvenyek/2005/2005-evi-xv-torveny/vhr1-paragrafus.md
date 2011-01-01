@@ -2,9 +2,9 @@
 
 Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenység (ideértve a próbaüzemet is) csak az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: környezetvédelmi hatóság) által kiadott kibocsátási engedély alapján végezhető.
 
-(2) A kibocsátási engedély iránti kérelem részletes tartalmi követelményeit a 2. melléklet állapítja meg. A környezetvédelmi és vízügyi miniszter (a továbbiakban: miniszter) a kibocsátási engedély iránti kérelemre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, a Környezetvédelmi és Vízügyi Minisztérium (a továbbiakban: minisztérium) hivatalos lapjában, valamint a környezetvédelmi hatóság honlapján.
+(2) A kibocsátási engedély iránti kérelem részletes tartalmi követelményeit a 2. melléklet állapítja meg. Az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a kibocsátási engedély iránti kérelemre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, a valamint a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján.
 
-(3) A 314/2005. (XII. 25.) Korm. rendelet alapján egységes környezethasználati engedélyhez kötött tevékenységek esetén a kibocsátási engedély iránti kérelmet az egységes környezethasználati engedély jogerőre emelkedését követően kell benyújtani a környezetvédelmi hatósághoz.
+(3) A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály alapján egységes környezethasználati engedélyhez kötött tevékenységek esetén a kibocsátási engedély iránti kérelmet az egységes környezethasználati engedély jogerőre emelkedését követően kell benyújtani a környezetvédelmi hatósághoz.
 
 (4) A (3) bekezdés alá nem tartozó tevékenységek esetén a kibocsátási engedély iránti kérelmet a környezethasználat feltételeit megállapító engedély jogerőre emelkedését követően kell benyújtani.
 
@@ -20,6 +20,6 @@ a) az engedély kiadásakor megállapított feltételek megváltoztak, az enged�
 
 b) ha az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kibocsátási engedélyt visszavonja.
 
-(9) Az (1) és a (8) bekezdésben szabályozott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(9)
 
 (10) Ha a kérelmező a kibocsátási engedély iránti kérelmében a 2. melléklet F. 1. vagy 2. pontjában meghatározott adatokat nem igazolja, a környezetvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
