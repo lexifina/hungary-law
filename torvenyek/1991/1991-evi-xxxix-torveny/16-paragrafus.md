@@ -1,10 +1,10 @@
 ## IV. Fejezet
 
-## A MAGYAR SZABADALMI HIVATAL ELJÁRÁSA AZ OLTALOMMAL ÖSSZEFÜGGŐ ÜGYEKBEN
+## A SZELLEMI TULAJDON NEMZETI HIVATALA ELJÁRÁSA AZ OLTALOMMAL ÖSSZEFÜGGŐ ÜGYEKBEN
 
-## A Magyar Szabadalmi Hivatal hatásköre
+## A Szellemi Tulajdon Nemzeti Hivatala hatásköre
 
-16. § A Magyar Szabadalmi Hivatal hatáskörébe tartoznak
+16. § A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak
 
 a) a topográfia lajstromozásával,
 

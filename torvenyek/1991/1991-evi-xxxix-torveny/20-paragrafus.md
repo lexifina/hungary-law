@@ -1,6 +1,6 @@
 ## A bejelentés
 
-20. § (1) A topográfia lajstromozására irányuló eljárás a Magyar Szabadalmi Hivatalhoz intézett bejelentéssel indul meg.
+20. § (1) A topográfia lajstromozására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához intézett bejelentéssel indul meg.
 
 (2) A bejelentés a kérelemből, a topográfia azonosítására alkalmas ábrázolásból és az ezekkel kapcsolatos egyéb mellékletekből áll.
 
