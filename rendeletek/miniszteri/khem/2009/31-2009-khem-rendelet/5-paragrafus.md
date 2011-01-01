@@ -10,6 +10,6 @@ c) a kapacitás-lekötési szerződéssel rendelkező felhasználó, valamint
 
 d) a Magyar Szénhidrogén Készletező Szövetség.
 
-(2)[^22] A rendszerirányítási díj díjtételeit a 2. melléklet I.b) alpontja, áralkalmazási feltételeit a 3. melléklet 4. pontja tartalmazza.
+(2)[^23] A rendszerirányítási díj díjtételeit a 2. melléklet I.b) alpontja, áralkalmazási feltételeit a 3. melléklet 4. pontja tartalmazza.
 
-[^22]: Az 5. § (2) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^23]: Az 5. § (2) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.

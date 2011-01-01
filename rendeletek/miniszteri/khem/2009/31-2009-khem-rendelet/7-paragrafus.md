@@ -32,11 +32,11 @@ d) a földgáztermelő
 
 ## köteles megfizetni.
 
-(7)[^29] Az elosztási kapacitásdíjak számszerűsítése az aktualizált (modellezett) kapacitás-lekötések (MJ/h) és az e rendelet hatálybalépése előtti lekötött megszakítható kapacitások (MJ/h) azon részének figyelembevételével történik, amely után elosztási kapacitásdíjat kell fizetni.
+(7)[^30] Az elosztási kapacitásdíjak számszerűsítése az aktualizált (modellezett) kapacitás-lekötések (MJ/h) és az e rendelet hatálybalépése előtti lekötött megszakítható kapacitások (MJ/h) azon részének figyelembevételével történik, amely után elosztási kapacitásdíjat kell fizetni.
 
 (8) A (6) bekezdés szerinti díjfizetésre kötelezetteket az (1) bekezdésben meghatározott díjon felül – és a 3. mellékletben meghatározott áralkalmazási feltételeken kívül – más földgázelosztási díj-fizetési kötelezettség nem terheli.
 
-(9)[^30] Az elosztási díjrendszer díjtételeit – felhasználói kategóriánként – a 2. melléklet II. 2. és III. 2. pontja és az 1. melléklet, áralkalmazási feltételeit a 3. melléklet 2. pontja, az újonnan beépíthető gázmérők meghatározását az 5. melléklet tartalmazza.
+(9)[^31] Az elosztási díjrendszer díjtételeit – felhasználói kategóriánként – a 2. melléklet II. 2. és III. 2. pontja és az 1. melléklet, áralkalmazási feltételeit a 3. melléklet 2. pontja, az újonnan beépíthető gázmérők meghatározását az 5. melléklet tartalmazza.
 
-[^29]: A 7. § (7) bekezdése a 4/2010. (VI. 30.) NFM rendelet 6. § (4) bekezdése szerint módosított szöveg.
-[^30]: A 7. § (9) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^30]: A 7. § (7) bekezdése a 4/2010. (VI. 30.) NFM rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^31]: A 7. § (9) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
