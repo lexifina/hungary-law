@@ -2,7 +2,7 @@
 
 5. § (1)[^10] A pénztárak a belépési nyilatkozat záradékolásával egyidejűleg közlik a Felügyelettel a tárgyhóban belépett, másik pénztártól átlépett új tagjaik adatait, továbbá a tagsági jogviszony változásával egyidejűleg közlik a pénztártag tagsági viszonyában bekövetkező változásokat és annak okát.
 
-(2)[^11] A társadalombiztosítási nyugdíjrendszerbe visszalépő tagra (ideértve a teljes összegű rokkantsági nyugellátás miatt visszalépő pénztártagokat, valamint a teljes összegű hozzátartozói nyugellátás megállapítását kérő kedvezményezetteket is) vonatkozó adatszolgáltatást a tagsági jogviszony megszűnésével, legkésőbb az egyéni számlakövetelésnek a Regionális Nyugdíjbiztosítási Igazgatóság részére történő átutalásával egyidejűleg kell teljesíteni.
+(2)[^11] A társadalombiztosítási nyugdíjrendszerbe visszalépő tagra (ideértve a teljes összegű rokkantsági nyugellátás miatt visszalépő pénztártagokat, valamint a teljes összegű hozzátartozói nyugellátás megállapítását kérő kedvezményezetteket is) vonatkozó adatszolgáltatást a tagsági jogviszony megszűnésével, legkésőbb az egyéni számlakövetelésnek a nyugdíjbiztosítási igazgatóság részére történő átutalásával egyidejűleg kell teljesíteni.
 
 (3)[^12] A tagdíjak bevallásának, megfizetésének követése érdekében a pénztárak havonta, az Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: APEH) által teljesített adatszolgáltatás beérkezését követő hónap 15. napjáig továbbítják a Felügyeletnek a foglalkoztatók által teljesített tagdíjbevallásra vonatkozó feldolgozott adatokat, kiegészítve a foglalkoztató(k) által a tag(ok) javára ténylegesen befizetett, a bevallás és a jogszabályi előírások alapján jóváírt tagdíj (tagdíj-kiegészítés) összegére vonatkozó adatokkal.
 
@@ -17,7 +17,7 @@
 (8)[^17] Az (1)–(6) bekezdések szerinti adatszolgáltatásokat a pénztár elektronikus úton teljesíti.
 
 [^10]: Az 5. § (1) bekezdése a 297/2010. (XII. 23.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^11]: Az 5. § (2) bekezdése a 236/2006. (XI. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 5. § (2) bekezdése a 236/2006. (XI. 24.) Korm. rendelet 3. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^12]: Az 5. § (3) bekezdése a 236/2006. (XI. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^13]: Az 5. § (4) bekezdését a 297/2010. (XII. 23.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
 [^14]: Az 5. § új (5) bekezdését a 258/2001. (XII. 19.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (5)-(6) bekezdés számozását (6)-(7) bekezdésre változtatta. A bekezdése a 331/2004. (XII. 11.) Korm. rendelet 7. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 119. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
