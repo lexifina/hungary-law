@@ -1,6 +1,6 @@
 ## Partnerkockázat kezelése
 
-## 15/B. §[^2] A hitelintézetnek a származtatott ügyletek partnerkockázatával kapcsolatban nyilvánosságra kell hoznia:
+## 15/B. §[^7] A hitelintézetnek a származtatott ügyletek partnerkockázatával kapcsolatban nyilvánosságra kell hoznia:
 
 a) a hitelezési és kereskedési limitek partnerkockázat kezelési rendszeréhez történő illesztését,
 
@@ -14,10 +14,12 @@ e) szerződéses nettósítás figyelembevételének hatását a tőkekövetelm�
 
 f) a partnerkockázat meghatározására alkalmazott módszert,
 
-g) a hitelderivatívák feltételezett értékét kitettség-típusok szerinti felosztásban,
+g)[^8] a fedezeti célú hitelderivatívák szerződéskötéskori névértékét és a jelenlegi kitettség értékeket a kitettség-típusok szerinti bontásban,
 
-h) a hitelderivatíva-ügyleteknek a hitelintézet saját hitelportfoliójában való alkalmazását, ideértve a felhasznált hitelderivatíva-termékek felosztását, és
+h)[^9] a hitelderivatíva-ügyleteknek a hitelintézet saját hitelportfoliójában való alkalmazását, és ettől elkülönítve az ügyfelek és a piac közötti közvetítői tevékenységben történő felhasználásukat, ideértve az alkalmazott hitelderivatíva-termékek megoszlását, valamint minden termékcsoporton belül a vásárolt és eladott hitelkockázati védelem szerinti bontást, és
 
 i) α becsült értékét, ha a hitelintézet a Felügyelet engedélyével alkalmazhatja az α becslést.
 
-[^2]: A 15/B. §-t és az azt megelőző alcímet a 380/2007. (XII. 23.) Korm. rendelet 57. § (2) bekezdése iktatta be.
+[^7]: A 15/B. §-t és az azt megelőző alcímet a 380/2007. (XII. 23.) Korm. rendelet 57. § (2) bekezdése iktatta be.
+[^8]: A 15/B. § g) pontja a 349/2010. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^9]: A 15/B. § h) pontja a 349/2010. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.

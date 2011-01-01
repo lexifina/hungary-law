@@ -1,6 +1,6 @@
 ## Értékpapírosítás
 
-15/A. §[^1] (1) Értékpapírosításra tőkekövetelményt számító hitelintézetnek nyilvánosságra kell hoznia
+15/A. §[^6] (1) Értékpapírosításra tőkekövetelményt számító hitelintézetnek nyilvánosságra kell hoznia
 
 a) az értékpapírosítási ügyleteinek értékelésére és kezelésére szolgáló szabályzatok főbb elveit és pontjait,
 
@@ -26,4 +26,4 @@ a) hagyományos és szintetikus értékpapírosítás szerinti megbontásban, va
 
 b) hitelminőségben bekövetkezett romlást szenvedett vagy késedelembe esett megbontásban.
 
-[^1]: A 15/A. §-t és az azt megelőző alcímet a 380/2007. (XII. 23.) Korm. rendelet 57. § (1) bekezdése iktatta be.
+[^6]: A 15/A. §-t és az azt megelőző alcímet a 380/2007. (XII. 23.) Korm. rendelet 57. § (1) bekezdése iktatta be.
