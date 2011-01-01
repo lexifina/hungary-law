@@ -1,3 +1,3 @@
-2/H. § (1) A 2. § (3) bekezdés a) pontja szerinti megállapodás kötelezően tartalmazza a 2/A. § (2) bekezdésében foglaltakat, valamint vonatkozásában a 2/A. § (1) és (3) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat – figyelemmel a (2) bekezdésben foglaltakra is – megfelelően alkalmazni kell.
+2/H. § (1) A 2. § (3) bekezdés a) pontja szerinti megállapodás kötelezően tartalmazza a 2/A. § (2) bekezdésében foglaltakat, valamint vonatkozásában a 2/A. § (1) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat megfelelően alkalmazni kell.
 
-(2) A 2. § (3) bekezdés a) pontja szerinti megállapodás kötése esetén a vagyoni biztosítékot az ellátási kötelezettséget átvállaló egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó adja, annak mértéke annak az egészségügyi szolgáltatónak az egészségbiztosítási finanszírozásából származó bevételéhez igazodik, amely az ellátást ténylegesen nyújtani fogja.
+(2)

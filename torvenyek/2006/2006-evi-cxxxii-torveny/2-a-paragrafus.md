@@ -22,4 +22,4 @@ i) a szerződés megkötésekor meglévő vagyonról szóló tételes listát, �
 
 j) a külön jogszabály szerinti folyamatos ellátás biztosítására vonatkozó szabályokat.
 
-(3) Egészségügyi ellátási szerződés csak a finanszírozási szerződés szerinti szolgáltatások összességére köthető.
+(3)

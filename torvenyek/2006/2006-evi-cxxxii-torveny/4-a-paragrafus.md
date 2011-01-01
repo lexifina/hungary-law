@@ -1,4 +1,4 @@
-4/A. § (1) A 4. § szerinti döntés során a régióban rendelkezésre álló kapacitásból – a 3. § (3) bekezdésében meghatározott kivétellel – bármely, az adott régióban működő egészségügyi szolgáltató részesülhet, azzal, hogy a kapacitásban részesülő egészségügyi szolgáltatónak meg kell felelnie az intézmények és azok szervezeti egységei működési feltételéül az ágyszámok tekintetében külön jogszabályban meghatározott feltételeknek.
+4/A. § (1)
 
 (2) A 4. § szerinti döntés során előnyben kell részesíteni
 
@@ -30,7 +30,7 @@ i) a továbbküldött betegek aránya,
 
 j) az átvett betegek aránya,
 
-k)
+k) a várólistára és a betegfogadási listára vonatkozó adatok,
 
 l) a külön jogszabály szerinti járóbeteg-szakellátásban szakterületenként az egy órában átlagosan ellátható esetszám,
 
@@ -46,7 +46,7 @@ a) az érintett lakosság legalább 95%-a számára, legalább az alapszakmákba
 
 b) amennyiben a kapacitások újraosztása során az intézmény aktív fekvőbeteg-szakellátása vagy valamilyen aktív fekvőbetegszakmája kerül megszüntetésre, az ellátási területébe tartozó települések lakosai számára az adott szakmákban szolgáltatást nyújtó legközelebbi intézmény 60 percen belül elérhető legyen közúton,
 
-c) a régióban működő szakmai centrumok működőképessége továbbra is fenntartható legyen.
+c) országos szakmai központok, valamint a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatók működőképessége továbbra is fenntartható legyen.
 
 (5) A járóbeteg-szakellátási kapacitásokat érintő döntéshozatal során biztosítani kell, hogy az érintett lakosság legalább 90%-a számára, legalább az alapszakmákban ellátást nyújtó járóbeteg-szakellátó intézmény elvi elérhetősége 30 percnél kevesebb legyen.
 

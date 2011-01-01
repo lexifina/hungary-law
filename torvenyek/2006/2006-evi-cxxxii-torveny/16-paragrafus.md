@@ -6,7 +6,7 @@
 
 (4)
 
-(5) Az egészségügyért felelős miniszter évente megvizsgálja az egészségügyi ellátórendszer működését, amely vizsgálat eredményéről beszámolóban tájékoztatja a Magyar Köztársaság Országgyűlésének Egészségügyi Bizottságát azzal, hogy ezen kötelezettségének a miniszter először 2008. május 31-ig kell, hogy eleget tegyen.
+(5)
 
 (6)
 
@@ -28,7 +28,7 @@ c) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló k
 
 d) az ellátási terület meghatározásának és módosításának részletszabályait,
 
-e) a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának eljárási szabályait, valamint a kapacitások más szolgáltatónak történő átadásához kapcsolódó pályázati eljárás részletes szabályait,
+e) a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának részletes szabályait, valamint a kapacitások más szolgáltatónak történő átadásához kapcsolódó pályázati eljárás részletes szabályait,
 
 f) azoknak a szakmáknak a körét, amelyekre az e törvény szerinti járóbeteg-szakellátási és fekvőbeteg-szakellátási kapacitásokra kiterjedően finanszírozási szerződést lehet kötni,
 
@@ -36,7 +36,9 @@ g) a váratlan helyzet vagy előre nem látható módon bekövetkező ellátási
 
 h) a többletkapacitás fogalmát, befogadásának eseteit, eljárásrendjét, mértékét és feltételeit, továbbá az új szolgáltatók befogadásának szabályait,
 
-i) a vagyoni biztosíték összegének megállapítására vonatkozó részletes szabályokat.
+i) a vagyoni biztosítékkal kapcsolatos részletes szabályokat,
+
+j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört.
 
 (15)
 

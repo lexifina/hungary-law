@@ -6,7 +6,7 @@ b) a közfinanszírozásban részesülő egészségügyi szolgáltatók fenntart
 
 c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
 
-d) a regionális egészségügyi tanácsokra (a továbbiakban: RET)
+d)
 
 terjed ki.
 
@@ -20,11 +20,11 @@ c) egészségügyi közszolgáltatásért felelős szerv: annak az egészségüg
 
 d) lekötött kapacitás: az az i) pont szerinti szakellátási kapacitás, amire érvényes finanszírozási szerződés kiterjed;
 
-e) rendelési óra: az egészségbiztosító által a társadalombiztosítás keretében finanszírozott óraszám;
+e) rendelési óra: az egészségbiztosító által az egészségbiztosítás keretében finanszírozott óraszám;
 
 f) régió: a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 5. §-ának e) pontjában meghatározott régióval megegyező terület;
 
-g) Regionális Egészségügyi Tanács: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 149/A. §-ában foglaltaknak megfelelően létrehozott és működő szervezet;
+g)
 
 h) sürgősségi ellátás: az Eütv. 3. §-ának i) pontja szerinti sürgős szükség fennállásának megállapítására irányuló vizsgálatokat, valamint a sürgős szükséget elhárító beavatkozásokat magában foglaló egészségügyi szolgáltatás;
 
@@ -40,7 +40,7 @@ j) területi szakellátási kötelezettség: az egészségügyi szolgáltató fe
 
 k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
 
-l) szakmai centrum: regionális vagy régióközi feladatot ellátó, speciális feladatellátásra szakosodott szervezeti egység vagy intézményrész;
+l)
 
 m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak, illetve az egészségügyi szolgáltató fenntartójának/tulajdonosának a j) pontban meghatározott kötelezettsége.
 

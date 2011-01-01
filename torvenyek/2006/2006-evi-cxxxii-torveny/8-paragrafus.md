@@ -1,10 +1,8 @@
 8. § (1) Az egészségbiztosító felelős
 
-a) az 1. számú mellékletben meghatározott szolgáltatók, illetve azok jogutódjai által nyújtott aktív és krónikus fekvőbeteg-szakellátások,
+a) a 3. § (1) bekezdés a) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
 
-b) a 2. számú mellékletben meghatározott kapacitások felhasználásával nyújtott aktív és krónikus fekvőbeteg-szakellátások,
-
-c) a 3. számú mellékletben meghatározott kapacitások felhasználásával nyújtott járóbeteg-szakellátások,
+b)–c)
 
 d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellátás,
 
@@ -16,11 +14,11 @@ Egészségbiztosítási Alap terhére történő külön jogszabály szerinti fi
 
 (2) Az egészségbiztosító az (1) bekezdés szerinti kötelezettség teljesítése érdekében – a külön jogszabályban foglaltak szerint – finanszírozási szerződést köt
 
-a) az (1) bekezdés a)–c) pontjaiban foglalt egészségügyi szakellátást nyújtó szolgáltatóval,
+a) az (1) bekezdés a) pontjában foglalt egészségügyi szakellátást nyújtó szolgáltatóval,
 
 b) a 2. § (3) bekezdése alapján megvalósuló feladatellátás esetén az a) pontban meghatározott egészségügyi szolgáltató helyett a feladatot ellátó egészségügyi szolgáltatóval,
 
-c) az (1) bekezdés c) pontja szerinti esetben az előzetesen befogadott és létrejött kapacitásra, annak mértékéig, a jogosult egészségügyi szolgáltatóval,
+c) az (1) bekezdés e) pontja szerinti esetben az előzetesen befogadott és létrejött kapacitásra, annak mértékéig, a jogosult egészségügyi szolgáltatóval,
 
 d) az (1) bekezdés d) pontja szerinti többletkapacitásokon szakellátást nyújtó szolgáltatóval,
 

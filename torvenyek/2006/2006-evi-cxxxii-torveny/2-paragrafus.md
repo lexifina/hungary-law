@@ -4,7 +4,7 @@ a) a települési és megyei önkormányzatok (a továbbiakban együtt: helyi ö
 
 b) az a) pont alá nem tartozó szervek az e törvényen alapuló szakellátási feladataikat
 
-a mindenkori lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti ellátási területen teljesítik.
+a 2010. december 31-én lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti ellátási területen teljesítik.
 
 (2) Amennyiben az (1) bekezdés b) pontja alá tartozó szerv e törvényen alapuló szakellátási feladatát nem teljesíti, az illetékes helyi önkormányzat köteles a külön törvény szerinti szakellátási kötelezettsége alapján az adott szakellátási feladat ellátásáról gondoskodni, kivéve, ha a 8/A. § szerinti eljárás során másik közszolgáltatásért felelős szervhez kerül a szakellátási feladat.
 

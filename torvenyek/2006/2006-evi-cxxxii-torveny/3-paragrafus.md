@@ -1,21 +1,17 @@
-3. § (1) Az 1. számú melléklet határozza meg
+3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2010. december 31-én
 
-a) azoknak az országos feladatkörű speciális intézeteknek és súlyponti kórházaknak a körét, amelyek, illetve amelyek jogutódjai az általuk nyújtott fekvőbeteg-szakellátásokért érvényes finanszírozási szerződés alapján külön jogszabály szerinti finanszírozásra jogosultak,
+a) lekötött, és
 
-b) a fekvőbeteg-szakellátási kapacitásoknak azt a mennyiségét, amelyen végzett egészségügyi szolgáltatásokért az a) pont szerinti – érvényes finanszírozási szerződéssel rendelkező – egészségügyi szolgáltató az Egészségbiztosítási Alap terhére külön jogszabályban foglaltak szerint finanszírozásra legalább jogosult,
+b) az egészségügyi államigazgatási szervnek bejelentve szüneteltetett
 
-c) azt a kapacitásmennyiséget, amit járványügyi és katasztrófahelyzet esetén az 1. számú mellékletben megjelölt egészségügyi szolgáltatók, illetve jogutódjai a kijelölt kapacitásokból 3, illetve 6 órán belül a külön jogszabályban meghatározottak szerint kötelesek a különleges helyzet fennállásának időtartamáig rendelkezésre bocsátani.
+szakellátási kapacitások összessége.
 
-(2) A 2. számú melléklet határozza meg a fekvőbeteg-szakellátások tekintetében, szakmacsoportonkénti bontásban azt a kapacitásmennyiséget, amiről a lekötött kapacitásokon belül a 4. § szerinti eljárás során rendelkezni lehet.
+(2) A 4. § szerinti eljárás során az (1) bekezdés szerinti kapacitásból bármely egészségügyi szolgáltató részesülhet, azzal, hogy a kapacitásban részesülő egészségügyi szolgáltatónak meg kell felelnie az intézmények és azok szervezeti egységei működési feltételéül jogszabályban meghatározott feltételeknek.
 
-(3) A 2. számú mellékletben meghatározott aktív és krónikus fekvőbeteg-szakellátási kapacitásokból bármely, az adott régióban működő egészségügyi szolgáltató részesülhet.
+(3) Járványügyi és katasztrófahelyzet esetén az egészségügyi szolgáltatók 3 órán belül kapacitásaik 10%-át, 6 órán belül kapacitásaik 20%-át kötelesek jogszabályban meghatározottak szerint a különleges helyzet fennállásának időtartamáig rendelkezésre bocsátani.
 
-(4) A 3. számú melléklet határozza meg
+(4) Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
 
-a) országosan azt a járóbeteg-szakellátási kapacitásmennyiséget, aminél a lekötött kapacitások mennyisége nem lehet kevesebb, és csak az e törvényben meghatározott esetben és mértékben lehet több,
-
-b) azokat a szakmacsoportokat, amelyekben a járóbeteg-szakellátás körében az országosan megállapított kapacitásmennyiség szétosztható.
-
-(5) Az 1. számú melléklet szerinti kapacitásmennyiség kizárólag az e törvény szerinti eljárások során – ide nem értve a (3) bekezdésben foglaltakat – változhat.
+(5) A 2. § (1) bekezdés és az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény szerinti eljárások során változhat.
 
 (6) Ha a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató egészségügyi tevékenységét gazdasági társaság működési formában szándékozik a továbbiakban ellátni, a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató helyébe – a költségvetési szerv megszűnésével egyidejűleg – lépő, az ellátási kötelezettséget és meglévő szerződéses kapacitások továbbvitelét vállaló gazdasági társaság a költségvetési szerv kapacitásai tekintetében a költségvetési szerv jogutódja.

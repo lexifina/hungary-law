@@ -2,7 +2,7 @@
 
 (2) Az egészségbiztosító az (1) bekezdés szerinti felszólítástól számított 60 nap elteltével megvizsgálja, hogy a felszólításban előírtakat a szolgáltató teljesítette-e.
 
-(3) Amennyiben az egészségbiztosító a (2) bekezdés szerinti ellenőrzés során megállapítja, hogy a szolgáltató nem tett eleget a felszólításban előírtaknak, szerződéskötési ajánlatot tesz az adott szolgáltatás finanszírozására a 4/A. § (4) bekezdése szerinti elérési szabályoknak megfelelő távolságon belül lévő, 1. számú mellékletben szereplő egészségügyi szolgáltatónak, ha az az adott szolgáltatás nyújtására rendelkezik működési engedéllyel.
+(3) Amennyiben az egészségbiztosító a (2) bekezdés szerinti ellenőrzés során megállapítja, hogy a szolgáltató nem tett eleget a felszólításban előírtaknak, szerződéskötési ajánlatot tesz az adott szolgáltatás finanszírozására a 4/A. § (4) bekezdése szerinti elérési szabályoknak megfelelő távolságon belül lévő egészségügyi szolgáltatónak, ha az az adott szolgáltatás nyújtására rendelkezik működési engedéllyel.
 
 (4) Az egészségbiztosító a (3) bekezdésben meghatározottak helyett külön jogszabályban foglaltak szerint pályázatot ír ki, amennyiben nincs olyan szolgáltató, amelynek a (3) bekezdés alapján szerződéskötési ajánlatot tehetne, vagy az ajánlatot a szolgáltató nem fogadta el.
 
