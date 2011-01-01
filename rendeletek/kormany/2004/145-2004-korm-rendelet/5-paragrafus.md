@@ -1,6 +1,6 @@
-## A Hivatal feladat- és hatásköre[^8]
+## A Hivatal feladat- és hatásköre[^9]
 
-## 5. §[^9] A Hivatal
+## 5. §[^10] A Hivatal
 
 a) a nemesfémtárgyak és termékek vizsgálatának, hitelesítésének és nemesfémtartalmuk tanúsításának részletes szabályairól szóló miniszteri rendeletben meghatározottak szerint engedélyezi a nemesfémtárgyak készítésével, javításával vagy árverésével foglalkozó vállalkozás tevékenységének megkezdését;
 
@@ -22,5 +22,5 @@ i) a nemesfémtárgyakat és -termékeket laboratóriumi vizsgálatot követően
 
 j) gondoskodik a hitelesítő eszközök, valamint a Hivatal eljárása során vizsgált és a birtokában lévő nemesfémtárgyak biztonságos megőrzéséről.
 
-[^8]: Az 5. § előtti alcím a 298/2005. (XII. 23.) Korm. rendelet 9. § (3) bekezdése szerint módosított szöveg.
-[^9]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 352. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: Az 5. § előtti alcím a 298/2005. (XII. 23.) Korm. rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^10]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 352. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
