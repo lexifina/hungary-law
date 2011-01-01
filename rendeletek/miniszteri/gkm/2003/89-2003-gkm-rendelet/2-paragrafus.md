@@ -178,7 +178,7 @@ b) súlyos baleset esetén a sérülttel, halála esetén közvetlen hozzátarto
 
 4.1. Ha a súlyos üzemzavar balesetet vagy közvetlen veszélyeztetést nem okozott, továbbá, ha súlyos üzemzavar tervszerű üzemi tevékenység következménye, a bányakapitányság a vizsgálatot a helyszíni szemle és a gazdálkodó szervezet által végzett vizsgálatról készített jelentés alapján további eljárás nélkül lezárhatja, amennyiben a vizsgálat az üzemzavar okát feltárta és hasonló esetek elkerülésére bányakapitánysági intézkedés nem szükséges.
 
-4.2.[^12] A 4.1. pont szerinti vizsgálatot 10 munkanapon belül be kell fejezni. Az eljárás befejezéséről hozott végzését a bányafelügyelet a 3.4. pont a) alpontjában felsoroltakkal közli.
+4.2.[^12] A 4.1. pont szerinti vizsgálatot 15 napon belül be kell fejezni. Az eljárás befejezéséről hozott végzését a bányafelügyelet a 3.4. pont a) alpontjában felsoroltakkal közli.
 
 4.3. Ha a létesítmény tűzvédelmi hatósági felügyelete nem tartozik a bányafelügyelet hatáskörébe, a bányakapitányság a keletkezett tűz vizsgálatában a tűzvédelmi hatóság felkérése szerint vesz részt, önálló vizsgálatot nem végez. Ebben az esetben is köteles a helyszínt megtekinteni, és ha az eset kapcsán bányafelügyeleti intézkedés nem szükséges, az eljárást a 4.1. pont szerint lezárhatja.
 
@@ -196,4 +196,4 @@ A gazdálkodó szervezet köteles gondoskodni a vizsgálattal kapcsolatban felme
 [^9]: A melléklet 3.1. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A melléklet 3.4. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^11]: A melléklet 3.5. pont második mondatát a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A melléklet 4.2. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A melléklet 4.2. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (2) bekezdésével megállapított, a 28/2010. (XII. 22.) NFM rendelet 2. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
