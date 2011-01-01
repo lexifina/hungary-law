@@ -184,11 +184,11 @@ A hulladékgazdálkodási tervezésbe bevonandó közigazgatási szervek
 
 a)[^11] Erdővédelemre kiterjedően
 
-Mezőgazdasági Szakigazgatási Hivatal területi szerve
+megyei kormányhivatal erdészeti igazgatósága
 
 b)[^12] talajvédelemre kiterjedően
 
-Mezőgazdasági Szakigazgatási Hivatal területi szerve
+megyei kormányhivatal növény- és talajvédelmi igazgatósága
 
 c)[^13] földtani és az ásványvagyon védelmére kiterjedő, valamint bányászati szakkérdések vonatkozásában az illetékes bányakapitányság
 
@@ -206,66 +206,72 @@ h) energetikai szakkérdések
 
 Magyar Energia Hivatal
 
-i) területhasználati szakkérdések
+i)[^18] területhasználati szakkérdések
 
-megyei földhivatal
+megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala
 
-j)[^18] állat-egészségügyi szakkérdések
+j)[^19] állat-egészségügyi szakkérdések
 
-Mezőgazdasági Szakigazgatási Hivatal területi szerve
+megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága
 
-k)[^19] növény-egészségügyi szakkérdések
+k)[^20] növény-egészségügyi szakkérdések
 
-Mezőgazdasági Szakigazgatási Hivatal területi szerve
+megyei kormányhivatal növény- és talajvédelmi igazgatósága
 
-l)[^20]
+l)[^21]
 
-m)[^21] közlekedési szakkérdések
+m)[^22] közlekedési szakkérdések
 
-Nemzeti Közlekedési Hatóság regionális igazgatósága
+fővárosi és megyei kormányhivatal közlekedési felügyelősége
 
 n) hírközlési szakkérdések
 
 hírközlési területi hivatal
 
-o)[^22] légügyi szakkérdések
+o)[^23] légügyi szakkérdések
 
-Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága
+Nemzeti Közlekedési Hatóság Légügyi Hivatala
 
 p) honvédelmi szakkérdések
 
 Honvédelmi Minisztérium
 
-q) építésügyi szakkérdések
+q)[^24] építésügyi szakkérdések
 
-területi főépítészi iroda
+illetékes állami főépítész
 
 r) meteorológiai szakkérdések
 
 Országos Meteorológiai Szolgálat
 
-s)[^23] fogyasztóvédelmi szakkérdések
+s)[^25] fogyasztóvédelmi szakkérdések
 
-Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve
+illetékes fővárosi és megyei kormányhivatal fogyasztóvédelmi felügyelősége
 
 t) veszélyes anyagokkal kapcsolatos szakkérdések, környezetbiztonsági szakkérdések
 
 megyei katasztrófavédelmi igazgatóság, Fővárosi Polgári Védelmi Igazgatóság
 
-u) közegészségügyi szakkérdések
+u)[^26] közegészségügyi szakkérdések
 
-megyei állami népegészségügyi és tisztiorvosi szolgálat
+fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve
 
-[^11]: A 2. számú melléklet a) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^12]: A 2. számú melléklet b) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+ua)[^27] Az u) pontban foglalt, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
+
+[^11]: A 2. számú melléklet a) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^12]: A 2. számú melléklet b) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^13]: A 2. számú melléklet c) pontja a 269/2006. (XII. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^14]: A 2. számú melléklet d) pontja a 340/2004. (XII. 22.) Korm. rendelet 25. §-ának (5) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell. A 2. számú melléklet d) pontját a 344/2009. (XII. 30.) Korm. rendelet 28. § (4) bekezdése hatályon kívül helyezte 2011. január 16. napjával. Ez utóbbi módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^15]: A 2. számú melléklet e) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 42. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^16]: A 2. számú melléklet f) pontját a 340/2004. (XII. 22.) Korm. rendelet 30. §-ának (2) bekezdése hatályon kívül helyezte.
 [^17]: A 2. számú melléklet g) pontját a 269/2006. (XII. 20.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
-[^18]: A 2. számú melléklet j) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^19]: A 2. számú melléklet k) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^20]: A 2. számú melléklet l) pontját a 340/2004. (XII. 22.) Korm. rendelet 30. §-ának (2) bekezdése hatályon kívül helyezte.
-[^21]: A 2. számú melléklet m) pontja a 264/2006. (XII. 20.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^22]: A 2. számú melléklet o) pontja a 264/2006. (XII. 20.) Korm. rendelet 23. §-a, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének d) pontja szerint módosított szöveg.
-[^23]: A 2. számú melléklet s) pontja a 226/2007. (VIII. 31.) Korm. rendelet 6. § n) pontja szerint módosított szöveg.
+[^18]: A 2. számú melléklet i) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^19]: A 2. számú melléklet j) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^20]: A 2. számú melléklet k) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^21]: A 2. számú melléklet l) pontját a 340/2004. (XII. 22.) Korm. rendelet 30. §-ának (2) bekezdése hatályon kívül helyezte.
+[^22]: A 2. számú melléklet m) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^23]: A 2. számú melléklet o) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^24]: A 2. számú melléklet q) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^25]: A 2. számú melléklet s) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^26]: A 2. számú melléklet u) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^27]: A 2. számú melléklet u) pont ua) alpontját a 351/2010. (XII. 30.) Korm. rendelet 108. §-a iktatta be.
