@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-3-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 2003-3-00-00.5 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 2003-3-00-00.6 |
 | 2010-07-06 | 2010. évi LVIII. törvény | 2003-3-00-00.7 |
+| 2011-01-01 | 2010. évi CXLVIII. törvény | 2003-3-00-00.8 |
