@@ -1,4 +1,4 @@
-## 8. §[^36]
+## 8. §[^38]
 
 ## Záró rendelkezések
 
@@ -6,7 +6,7 @@
 
 (2) E rendelet 3–4. §-ában, továbbá 5. §-ának (6)–(7) bekezdésében foglalt rendelkezések 2005. november 1-jén lépnek hatályba.
 
-(3)–(4)[^37]
+(3)–(4)[^39]
 
-[^36]: A 8. § – e rendelet 9. § (4) bekezdése alapján – 2006. december 31-én hatályát vesztette. A 8. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 13. pontja hatályon kívül helyezte.
-[^37]: A 9. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 13. pontja hatályon kívül helyezte.
+[^38]: A 8. § – e rendelet 9. § (4) bekezdése alapján – 2006. december 31-én hatályát vesztette. A 8. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 13. pontja hatályon kívül helyezte.
+[^39]: A 9. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 13. pontja hatályon kívül helyezte.
