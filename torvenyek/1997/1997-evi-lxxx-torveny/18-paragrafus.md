@@ -25,3 +25,5 @@ fizet.
 (4) A foglalkoztató a táppénzkiadásokhoz hozzájárul.
 
 (5) A járulékokat a járulékalapot képező jövedelem kifizetésekor irányadó járulékmértékek szerint kell megfizetni. A járulékokat a biztosítási kötelezettséggel járó jogviszony megszűnését követően kifizetett (kiosztott) járulékalapot képező jövedelem után is meg kell fizetni.
+
+(6) A (3) bekezdésben foglaltaktól eltérően, a külön törvényben meghatározott szolgálati nyugellátás, valamint a szolgálati rokkantsági nyugdíj járulékfizetéssel nem fedezett, 2011. január 1-je és 2011. december 31-e közötti időszakban esedékes többletköltségeit a Nyugdíjreform és Adósságcsökkentő Alap fizeti meg.

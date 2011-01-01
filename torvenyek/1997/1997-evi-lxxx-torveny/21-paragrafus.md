@@ -4,7 +4,7 @@ Tbj. 21. § Nem képezi a társadalombiztosítási járulék, a nyugdíjjárul
 
 a) a foglalkoztató által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a foglalkoztatót terhelő összege,
 
-b) az Szja.tv. 70. §-ában említett juttatások azon része, amely 25 százalékos adókulccsal adózik,
+b) az Szja tv. 71. §-a szerinti béren kívüli juttatás,
 
 c) a jövedelmet pótló kártérítés (keresetpótló járadék),
 

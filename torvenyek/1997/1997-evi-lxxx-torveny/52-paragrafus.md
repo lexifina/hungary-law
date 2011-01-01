@@ -4,7 +4,7 @@ Tbj. 52. § (1) A társadalombiztosítási kifizetőhelyet fenntartó foglalko
 
 (3) A társas vállalkozás köteles a tagjának biztosítási kötelezettség alá eső segítő családtagja után fizetendő járulékot a társas vállalkozó jövedelméből levonni és az egyéb járulékokkal együtt elszámolni és befizetni. Amennyiben a tagnak a járulék elszámolásakor jövedelme nincs, a segítő családtag után fizetendő járulékot a társas vállalkozás köteles megelőlegezni, elszámolni és befizetni.
 
-(4) A társas vállalkozás köteles a társas vállalkozó után fizetendő járulékot, a társas vállalkozó jövedelméből levont járulékkal együtt a tárgyhónapot követő hónap 12. napjáig befizetni. Amennyiben a tárgyhónapban a társas vállalkozó(k) részére jövedelmet nem fizettek és a tárgyév folyamán – a tárgyhónapig bezárólag – elszámolt járulék a tevékenységre jellemző kereset, bejelentés esetén a minimálbér után számított járulék összegét nem éri el, a társas vállalkozás a tevékenységre jellemző kereset, bejelentés esetén a minimálbér utáni járulékot köteles a társas vállalkozó helyett megelőlegezni, és azt a törvényben előírt határidőn belül befizetni.
+(4) A társas vállalkozás köteles a társas vállalkozó után fizetendő járulékot, a társas vállalkozó jövedelméből levont járulékkal együtt a tárgyhónapot követő hónap 12. napjáig befizetni. Amennyiben a tárgyhónapban a társas vállalkozó(k) részére jövedelmet nem fizettek és a tárgyév folyamán – a tárgyhónapig bezárólag – elszámolt járulék a minimálbér után számított járulék összegét nem éri el, a társas vállalkozás a minimálbér utáni járulékot köteles a társas vállalkozó helyett megelőlegezni, és azt a törvényben előírt határidőn belül befizetni.
 
 (5)
 

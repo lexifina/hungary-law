@@ -1,0 +1,5 @@
+## Átmeneti rendelkezések
+
+Tbj. 62. § (1) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított rendelkezéseit a 2011. január 1-jén és azt követően megszerzett jövedelmekre és keletkezett járulék-fizetési kötelezettségekre kell alkalmazni, azzal, hogy e törvény 2010. december 31-én hatályos 19. § (2) és (7) bekezdését és 30/A. § (2) és (5) bekezdését kell alkalmazni a 2011. január 10-éig megszerzett és 2010. december havi járulékalapot képező olyan jövedelemre, amelyet a 2010. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.
+
+(2) Az adóellenőrzés során a Tbj. 2010. december 31-én hatályos 27., 29. és 29/A. §-a alapján járulékfizetésre kötelezett terhére utólagos adómegállapítás keretében nem állapítható meg mulasztási bírság és adóbírság a tevékenységre jellemző kereset jogellenes megállapításával összefüggésben.

@@ -29,3 +29,19 @@ a jogosultság kezdetét és megszűnését követő 10 napon belül köteles te
 (8) Ha az egészségbiztosítási szerv az egészségbiztosítási nyilvántartás adatkezelőjeként a nyilvántartás felülvizsgálata során azt állapítja meg, hogy a foglalkoztató, illetve egyéb bejelentésre kötelezett a bejelentési kötelezettségét nem, vagy nem jogszabály szerint teljesítette, 15 napos határidő kitűzésével felszólítja a bejelentésre kötelezettet, hogy igazolja a bejelentés szabályszerű teljesítését. Ha a bejelentésre kötelezett határidőben nem igazolja a bejelentés teljesítését, 100 ezer forintig terjedő mulasztási bírsággal sújtható. A kiszabható bírság felső határa a be nem jelentett személyek számának és a bírság legmagasabb értékének szorzata.
 
 (9) A (7)–(8) bekezdésben meghatározott mulasztási bírság kiszabásánál az egészségbiztosítási szerv mérlegeli az eset összes körülményét, a kötelezett jogellenes magatartásának vagy mulasztásának súlyát és gyakoriságát, amely alapján a mulasztás súlyához igazodó bírságot szab ki, vagy a bírság kiszabását mellőzi.
+
+(10) A hajléktalan személyekről az egészségbiztosítási szervnek bejelentést tesznek az alábbi intézmények vezetői:
+
+a) hajléktalanok otthona,
+
+b) hajléktalanok átmeneti szállása,
+
+c) hajléktalanok rehabilitációs intézménye,
+
+d) hajléktalanok éjjeli menedékhelye,
+
+e) hajléktalanok nappali melegedője.
+
+A bejelentésről az intézmény vezetője igazolást ad ki a hajléktalan személy részére. A bejelentés és az igazolás érvényessége a bejelentés napját magában foglaló naptári hónapot követő hatodik naptári hónap utolsó napjáig tart.
+
+(11) A (10) bekezdésben meghatározott intézmény a bejelentés vagy az igazolás kiállításának elmulasztása miatt nem bírságolható.

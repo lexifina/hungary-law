@@ -6,7 +6,7 @@ Tbj. 4. § E törvény alkalmazásában:
 
 a) Foglalkoztató:
 
-1. bármely jogi és természetes személy, egyéni vállalkozó, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat, vagy a biztosítottnak a biztosítási kötelezettséggel járó jogviszonyára tekintettel vagy azzal összefüggésben járulékalapot képező jövedelmet juttat;
+1. bármely jogi és természetes személy, egyéni vállalkozó, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat;
 
 2. tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a szerződést kötő gazdálkodó szervezet, egyéni vállalkozó;
 
@@ -104,9 +104,9 @@ j) Külföldi: az a természetes személy, aki nem minősül belföldinek.
 
 k) Járulékalapot képező jövedelem:
 
-1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti, az összevont adóalapba tartozó, az önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, ideértve az Szja tv.-ben szabályozott kis összegű kifizetésből származó jövedelmet is, továbbá az Szja tv. 69. §-a szerinti természetbeni juttatás adóalapként megállapított értékének személyi jövedelemadóval növelt összege [ide nem értve az Szja. tv. 69. §-ának (10) bekezdése szerinti üzleti ajándék, reprezentáció címén adott terméket és nyújtott szolgáltatást], a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződésben meghatározott díj, a hivatásos nevelőszülői díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló),
+1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződésben meghatározott díj, a hivatásos nevelőszülői díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
 
-2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott személyi alapbér, illetőleg ha a munkát nem munkaviszony, hanem munkavégzésre irányuló egyéb jogviszony keretében végzik, a szerződésben meghatározott díj; az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj.
+2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott személyi alapbér, illetőleg ha a munkát nem munkaviszony, hanem munkavégzésre irányuló egyéb jogviszony keretében végzik, a szerződésben meghatározott díj.
 
 l) Járulék: a nyugdíjjárulék, a magán-nyugdíjpénztári tagdíj, az egészségbiztosítási- és munkaerő-piaci járulék, a társadalombiztosítási járulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék, valamint a korkedvezmény-biztosítási járulék.
 
@@ -130,7 +130,7 @@ p) Tanulószerződés:
 
 a szakképzésről szóló 1993. évi LXXVI. törvény szerinti tanulószerződés.
 
-q) Tevékenységre jellemző kereset: a természetes személy főtevékenységére jellemző, a piaci viszonyoknak megfelelő díjazás.
+q)
 
 r) Igazgatási szerv:
 
@@ -142,11 +142,13 @@ r) Igazgatási szerv:
 
 4.
 
-s) Minimálbér: a tárgyhónapot megelőző hónap első napján érvényes, a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított személyi alapbér kötelező legkisebb havi összege.
+s) Minimálbér:
 
-t) Kiküldetés, kirendelés, munkaerő-kölcsönzés:
+1. a tárgyhónap első napján érvényes, a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított személyi alapbér kötelező legkisebb havi összege, és
 
-a munkavállalónak a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 105–106/B. §-ában foglaltaknak megfelelő munkavégzése.
+2. a biztosított egyéni és társas vállalkozó járulékfizetéséről szóló rendelkezések alkalmazásában a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel.
+
+t)
 
 u) Belföldi:
 
@@ -166,4 +168,4 @@ z) Harmadik állam:
 
 az Európai Gazdasági Térség és a Magyar Köztársaság által kötött kétoldalú szociális biztonságról szóló egyezmény hatálya alá nem tartozó állam.
 
-zs) Hajléktalan: a bejelentett lakóhellyel nem rendelkező magyar állampolgár, ideértve azt a személyt is, akinek bejelentett lakóhelye a hajléktalan szállás.
+zs)
