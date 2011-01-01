@@ -1,3 +1,0 @@
-22. § A Hjt. 123. §-a helyébe a következő rendelkezés lép:
-
-123. § „Távolléti díjként az állomány tagja részére a kifizetés esedékességekor járó alapilletmény, az illetménykiegészítés, a rendszeres illetménypótlék, valamint a rendszeres kiegészítő illetmény együttes összegének a távollét idejére számított időarányos átlaga jár. Rendszeres illetménypótlékként a 111–112. §-okban, valamint a 114. § (1) bekezdésének a), l)–q) és t)–v) pontjaiban felsorolt pótlékokat, továbbá a 252. § (2) bekezdésében meghatározott titkosszolgálati pótlékot kell figyelembe venni.”

@@ -1,3 +1,0 @@
-30. § A Hjt. 156. § a következő (2) bekezdéssel egészül ki, ezzel egyidejűleg a § jelenlegi szövegének megjelölése (1) bekezdésre változik:
-
-„(2) Ha az elöljáró a fegyelmi vizsgálat felterjesztett anyagát elbírálásra alkalmasnak tartja – az iratok kézhezvételétől számított 15 napon belül – meghallgatást tűz ki és dönt a fegyelmi ügyben. Ennek keretében fenyítést szab ki, vagy ha a tényállás nincs kellően felderítve, illetve olyan eljárási szabálysértés történt, ami az ügy érdemi elbírálását lényegesen befolyásolja, kiegészítő eljárást rendel el. A kiegészítő eljárás tartama nem haladhatja meg a 15 napot, ez azonban nem számít bele az elbírálás határidejébe.”
