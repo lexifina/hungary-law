@@ -160,13 +160,9 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 | gyermekvédelmi asszisztens |  |  |  | * | * |  |  |  |  |  |
 
-| b) | gondozó/szakgondozó |  |  |  |  |  |  |  |  |  |  |
+| b) | kisgyermeknevelő |  |  | * | * | * | * | * |  |  |  |
 
-| gondozó |  |  | * | * |  |  |  |  |  |  |
-
-| segédgondozó | * | * |  |  |  |  |  |  |  |  |
-
-| szakgondozó |  |  |  |  | * |  |  |  |  |  |
+|  | segédgondozó | * | * |  |  |  |  |  |  |  |  |
 
 | c) | egyéb ágazati munkakörök |  |  |  |  |  |  |  |  |  |  |
 
@@ -190,7 +186,7 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 III. Nem ágazatspecifikus munkakörök[^41]
 
-III. Nem ágazatspecifikus munkakörök
+Nem ágazatspecifikus munkakörök
 
 | Megnevezés | Fizetési osztályok |
 
@@ -230,7 +226,7 @@ III. Nem ágazatspecifikus munkakörök
 
 | 3. | Szolgáltató munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-| élelmezésvezető |  |  | * | * |  |  |  |  |  |  |
+| élelmezésvezető |  |  | * | * | * |  |  |  |  |  |
 
 | technikus |  |  |  | * |  |  |  |  |  |  |
 
@@ -289,5 +285,5 @@ Megjegyzés:
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
 [^39]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^40]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^41]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^40]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^41]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
