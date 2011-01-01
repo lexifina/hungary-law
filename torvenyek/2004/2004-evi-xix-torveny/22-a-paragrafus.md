@@ -1,3 +1,0 @@
-## Leplezett figyelés elrendelése
-
-22/A. § A felhatalmazott szervek a 2. § (3) bekezdésében meghatározott célból leplezett figyelést rendelhetnek el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el a Magyar Köztársaság vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
