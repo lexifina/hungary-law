@@ -1,32 +1,58 @@
-## A felnőttképzést folytató intézmények nyilvántartását vezető állami foglalkoztatási szervek
+## A felnőttképzést folytató intézmények nyilvántartását vezető állami foglalkoztatási szervek és illetékességi területük
 
-## 1. Közép-magyarországi Regionális Munkaügyi Központ, Budapest
+## 1. Budapest Főváros Kormányhivatalának Munkaügyi Központja (Budapest)
 
-## Illetékességi területe: Budapest főváros, Pest megye
+## Budapest
 
-## 2. Dél-alföldi Regionális Munkaügyi Központ, Békéscsaba
+## Pest Megye
 
-## Illetékességi területe: Csongrád megye, Bács-Kiskun megye, Békés megye
+## 2. Baranya Megyei Kormányhivatal Munkaügyi Központja (Pécs)
 
-## 3. Észak-alföldi Regionális Munkaügyi Központ, Nyíregyháza
+## Baranya megye
 
-## Illetékességi területe: Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye, Szabolcs-Szatmár-Bereg megye
+## Somogy megye
 
-## 4. Észak-magyarországi Regionális Munkaügyi Központ, Miskolc
+## Tolna megye
 
-## Illetékességi területe: Borsod-Abaúj-Zemplén megye, Heves megye, Nógrád megye
+## 3. Békés Megyei Kormányhivatal Munkaügyi Központja (Békéscsaba)
 
-## 5. Dél-dunántúli Regionális Munkaügyi Központ, Pécs
+## Bács-Kiskun megye
 
-## Illetékességi területe: Somogy megye, Baranya megye, Tolna megye
+## Békés megye
 
-## 6. Közép-dunántúli Regionális Munkaügyi Központ, Székesfehérvár
+## Csongrád megye
 
-## Illetékességi területe: Veszprém megye, Fejér megye, Komárom-Esztergom megye
+## 4. Borsod-Abaúj-Zemplén Megyei Kormányhivatal Munkaügyi Központja (Miskolc)
 
-## 7. Nyugat-dunántúli Regionális Munkaügyi Központ, Szombathely
+## Borsod-Abaúj-Zemplén megye
 
-## Illetékességi területe: Győr-Moson-Sopron megye, Vas megye, Zala megye
+## Heves megye
+
+## Nógrád megye
+
+## 5. Fejér Megyei Kormányhivatal Munkaügyi Központja (Székesfehérvár)
+
+## Fejér megye
+
+## Komárom-Esztergom megye
+
+## Veszprém megye
+
+## 6. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Munkaügyi Központja (Nyíregyháza)
+
+## Jász-Nagykun-Szolnok megye
+
+## Hajdú-Bihar megye
+
+## Szabolcs-Szatmár-Bereg megye
+
+## 7. Vas Megyei Kormányhivatal Munkaügyi Központja (Szombathely)
+
+## Vas megye
+
+## Zala megye
+
+## Győr-Moson-Sopron megye
 
 2. melléklet a 2/2010. (II. 16.) SZMM rendelethez
 
