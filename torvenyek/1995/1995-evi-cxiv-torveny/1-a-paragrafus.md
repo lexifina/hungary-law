@@ -20,6 +20,6 @@ e) a kamarai tagság 3/C. § (1) bekezdésben meghatározott okból történő f
 
 (5) A kamarai nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a kamara a törlési okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra hívhatja fel.
 
-(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az elnökség a kérelem beérkezésétől számított tíz munkanapon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az elnökség a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
 (7)
