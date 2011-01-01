@@ -1,6 +1,6 @@
-## AZ ÁTMENETI TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK[^64]
+## AZ ÁTMENETI TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK[^65]
 
-40/A. §[^65] (1) A pénzügyi válság kapcsán nyújtott átmeneti támogatásnak (a továbbiakban: átmeneti támogatás) elő kell segítenie, hogy a támogatások eredményeként a K+F és innovációs tevékenységek köre a támogatott vállalkozás esetében ne csökkenjen.
+40/A. §[^66] (1) A pénzügyi válság kapcsán nyújtott átmeneti támogatásnak (a továbbiakban: átmeneti támogatás) elő kell segítenie, hogy a támogatások eredményeként a K+F és innovációs tevékenységek köre a támogatott vállalkozás esetében ne csökkenjen.
 
 (2) Az átmeneti támogatásként nyújtott összes támogatás támogatástartalma vállalkozásonként nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget, figyelemmel a (3) bekezdésben foglaltakra.
 
@@ -36,5 +36,5 @@ e) amennyiben az átmeneti támogatás az importáruk helyett hazai áru haszná
 
 (11) A kedvezményezett köteles, az átmeneti támogatáshoz kapcsolódó minden iratot az odaítélést követő tíz évig megőrizni és a támogatást nyújtó ilyen irányú felhívása esetén köteles azokat bemutatni.
 
-[^64]: A 40/A. §-t megelőző címet a 230/2009. (X. 16.) Korm. rendelet 7. §-a iktatta be.
-[^65]: A 40/A. §-t a 230/2009. (X. 16.) Korm. rendelet 7. §-a iktatta be.
+[^65]: A 40/A. §-t megelőző címet a 230/2009. (X. 16.) Korm. rendelet 7. §-a iktatta be.
+[^66]: A 40/A. §-t a 230/2009. (X. 16.) Korm. rendelet 7. §-a iktatta be.

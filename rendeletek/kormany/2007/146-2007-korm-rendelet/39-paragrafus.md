@@ -1,8 +1,8 @@
-## 37–38. §[^61]
+## 37–38. §[^62]
 
 ## A KÉPZÉSI TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK
 
-39. §[^62] (1) Képzési támogatást általános és speciális képzéshez lehet nyújtani.
+39. §[^63] (1) Képzési támogatást általános és speciális képzéshez lehet nyújtani.
 
 (2) E rendelet alapján képzési támogatás a kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez nyújtható.
 
@@ -34,5 +34,5 @@ b) speciális képzés esetén az elszámolható költségek 25%-a.
 
 (8) Ha valamely támogatási projektben mind speciális, mind általános képzési összetevők szerepelnek, amelyek a képzés támogatási intenzitásának a kiszámítása céljából egymástól nem választhatók el, vagy ha a támogatási projektben szereplő képzés speciális, illetve általános jellege nem állapítható meg, a (6) bekezdés b) pontja szerinti speciális képzésre vonatkozó támogatási intenzitásokat kell alkalmazni.
 
-[^61]: A 37–38. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^62]: A 39. § a 230/2009. (X. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^62]: A 37–38. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^63]: A 39. § a 230/2009. (X. 16.) Korm. rendelet 6. §-ával megállapított szöveg.

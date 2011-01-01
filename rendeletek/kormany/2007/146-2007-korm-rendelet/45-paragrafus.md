@@ -1,3 +1,3 @@
-45. §[^76]
+45. §[^77]
 
-[^76]: A 45. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 67. pontja hatályon kívül helyezte.
+[^77]: A 45. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 67. pontja hatályon kívül helyezte.
