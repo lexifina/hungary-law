@@ -1,63 +1,69 @@
-11. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^35]
+## Adatlap a hajléktalan személyek részére 2010. december hónapra járó rendelkezésre állási támogatás címén igénybe vehető támogatás igényléséhez
 
-## Adatlap
+## Tárgyhónap: 2010. december
 
-a hajléktalan személyek közcélú foglalkoztatásával összefüggő támogatás igényléséhez
+| 1. Budapest Főváros Önkormányzata |
 
-........ év .............. tárgyhónap
+| 2. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:……………………………………………………………. |
 
-1. Fővárosi önkormányzat megnevezése:
+| 3. A tárgyhónapban támogatásban részesülők száma: |  |
 
-2. KSH kódja:
+| a) az Szt. 2010. december 31-én hatályos 37. § (3) bekezdése szerinti összegű támogatásban részesülők száma: | ........................ fő |
 
-[2 számjegyű megyekód + 5 számjegyű településazonosító]
+| b) az Szt. 2010. december 31-én hatályos 37/C. § (4) bekezdése alapján támogatásban részesülők száma: | ........................ fő |
 
-3. A tárgyhónapban foglalkoztatottak száma:
+| Támogatásban részesülők száma összesen: | ........................ fő |
 
-a) teljes munkaidőben foglalkoztatottak száma: .......................... fő
+| 4. A tárgyhónapra történt kifizetés: |  |
 
-b) részmunkaidőben foglalkoztatottak száma: .......................... fő
+| a) az Szt. 2010. december 31-én hatályos 37. § (3) bekezdése szerinti összegű támogatásban részesülők számára: | ........................ Ft |
 
-Tárgyhóban foglalkoztatottak száma összesen: .......................... fő
+| b) az Szt. 2010. december 31-én hatályos 37/C. § (4) bekezdése alapján támogatásban részesülők számára: | ........................ Ft |
 
-4. A foglalkoztatással összefüggő személyi kifizetések a tárgyhóban:
+| Tárgyhavi kifizetés összesen: | ........................ Ft |
 
-a) teljes munkaidőben foglalkoztatottak részére: .......................... Ft
+| 5. A tárgyhavi kifizetések után járó térítés [a 4. pont a)+b) alpontjaiba foglalt összegek együttes összege]: | ........................ Ft |
 
-b) részmunkaidőben foglalkoztatottak részére: .......................... Ft
+| 6. Az igényelt előleg összege [megegyezik a tárgyhónapra járó térítés 5. pont szerinti összegének kétszeresével]: | ........................ Ft |
 
-Tárgyhavi személyi kifizetések összesen: .......................... Ft
+| Dátum: ............. év ...................................... hó ......... nap |
 
-5. A foglalkoztatással összefüggő személyi kiadások jogcímén igényelt térítés összege: .......................... Ft
+| P. H. |
 
-[megegyezik az 4. pont összegével]
+| ........................................................ a fővárosi főjegyző aláírása | ........................................................ a főpolgármester aláírása |
 
-6. A foglalkoztatással összefüggő személyi kiadások jogcímén számított előleg összege:
+11. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^31]
 
-a) a tárgyhónapra járó térítés: ............................Ft
+Adatlap a fővárosi önkormányzat által 2010. december hónapban szervezett közcélú foglalkoztatással összefüggő támogatás igényléséhez
 
-[megegyezik a 5. pont összegével]
+Tárgyhónap: 2010. december
 
-b) a tárgyhónapra járó térítés és az előző havi előleg különbözete (előjel nélkül): .......................... Ft
+| 1. Budapest Főváros Önkormányzata |
 
-[a január havi igénylés kivételével, a 6/a) pont és az előző havi 6/c) pontban szereplő összegek különbözete abszolút értékben; januárban a 6/a) pontban szereplő összeget kell beírni]
+| 2. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:…………………………………………………. |
 
-c) az előleg összege: ...........................Ft
+| 3. A tárgyhónapban foglalkoztatottak száma: |  |
 
-[a 6/a) és 6/b) pont összege az alábbiak szerint:
+| a) teljes munkaidőben foglalkoztatottak száma: | ....................... fő |
 
-– ha a tárgyhónapra járó térítés nagyobb, mint az előző havi előleg összege, akkor a 6/a) pont összegéhez hozzá kell adni a 6/b) pont összegét,
+| b) részmunkaidőben foglalkoztatottak száma: | ....................... fő |
 
-– ha tárgyhavi kifizetés kisebb, mint az előző havi előleg összege, akkor a 6/a) pont összegéből ki kell vonnia a 6/b) pont összegét.
+| Tárgyhóban foglalkoztatottak száma összesen: | ....................... fő |
 
-Január havi igényléskor a 6/a) pont összegének kétszeresét kell beírni.]
+| 4. A foglalkoztatással összefüggő személyi kifizetések a tárgyhónapban: |  |
 
-Dátum: ............. év ........................ hó ......... nap
+| a) teljes munkaidőben foglalkoztatottak részére: | ......................... Ft |
 
-P. H.
+| b) részmunkaidőben foglalkoztatottak részére: | ......................... Ft |
 
-| .......................................................... | .......................................................... |
+| Tárgyhavi személyi kifizetések összesen: | ......................... Ft |
 
-| a főjegyző aláírása | a főpolgármester aláírása |
+| 5. A foglalkoztatással összefüggő személyi kiadások jogcímén igényelt térítés összege [a 4. pont összegének 100%-a]: | ......................... Ft |
 
-[^35]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
+| Dátum: ............. év ...................................... hó ......... nap |
+
+| P. H. |
+
+| ........................................................ a fővárosi főjegyző aláírása | ........................................................ a főpolgármester aláírása |
+
+[^31]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 4. § (1) bekezdés f) pontjával megállapított szöveg.

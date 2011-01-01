@@ -1,4 +1,4 @@
-4. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^29]
+4. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^25]
 
 ## Adatlap a kifizetett ápolási díjjal összefüggésben igénybe vehető támogatás igényléséhez
 
@@ -100,4 +100,4 @@ P. H.
 
 a jegyző aláírása a polgármester aláírása
 
-[^29]: A 4. számú melléklet a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés c) pont ci) alpontja szerint módosított szöveg.
+[^25]: A 4. számú melléklet a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés c) pont ci) alpontja szerint módosított szöveg.
