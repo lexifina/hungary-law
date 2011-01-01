@@ -6,6 +6,6 @@ a) az 5–7. §-ban megjelölt támogatások esetén a rehabilitációs foglalko
 
 b) a 8–9. §-ban megjelölt támogatások esetén a költség előirányzat.
 
-(2)[^54]
+(2)[^60]
 
-[^54]: A 13. § (2) bekezdése e rendelet 17. §-a alapján 2006. december 31-én hatályát vesztette.
+[^60]: A 13. § (2) bekezdése e rendelet 17. §-a alapján 2006. december 31-én hatályát vesztette.

@@ -1,4 +1,4 @@
-5. §[^22] (1)[^23] A bértámogatás mértéke a munkabér és járulékai együttes összegének
+5. §[^26] (1)[^27] A bértámogatás mértéke a munkabér és járulékai együttes összegének
 
 a) a 2. § (1) bekezdés e) pontjának ea) és ek) alpontjaiban meghatározott munkavállaló esetén legfeljebb 40 százaléka;
 
@@ -10,7 +10,8 @@ d) a 2. § (1) bekezdés e) pontjának ee)–ei) alpontjaiban meghatározott mun
 
 (2) A bértámogatás legfeljebb 36 hónapra állapítható meg, és folyósítása – a (3) bekezdésben meghatározott kivétellel – legfeljebb 36 hónapra, több alkalommal is meghosszabbítható. A meghosszabbítás feltétele, hogy a munkaképesség-csökkenés, illetőleg az egészségkárosodás továbbra is fennáll.
 
-(3) A bértámogatás az OOSZI, vagy az ORSZI – a 2. § (1) bekezdése e) pontjának ej)–ek) alpontjaiban megjelölt körülményt első alkalommal megállapító-szakvéleménye kiállításának időpontját követően, a munkaképesség-csökkenés, illetőleg az egészségkárosodás időtartamát meg nem haladóan, legfeljebb 36 hónapra állapítható meg.
+(3)[^28] A bértámogatás az NRSZH, az ORSZI vagy az OOSZI – a 2. § (1) bekezdés e) pont ej)–ek) alpontjában megjelölt körülményt első alkalommal megállapító – szakvéleménye, szakhatósági állásfoglalása kiállításának időpontját követően, a munkaképesség-csökkenés, illetőleg az egészségkárosodás időtartamát meg nem haladóan, legfeljebb 36 hónapra állapítható meg.
 
-[^22]: Az 5. § a 357/2008. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani. Az 5. §-t megelőző alcímet e módosító rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^23]: Az 5. § (1) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: Az 5. § a 357/2008. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani. Az 5. §-t megelőző alcímet e módosító rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^27]: Az 5. § (1) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^28]: Az 5. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 16. § (3) bekezdés a) pontja szerint módosított szöveg.
