@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-33-00-00
 | --- | --- | --- |
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1991-33-00-00.15 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1991-33-00-00.16 |
+| 2011-01-01 | 2010. évi CXXVI. törvény | 1991-33-00-00.17 |

@@ -1,4 +1,4 @@
-14. § (1) A bizottság a fekvésük szerint illetékes települési, fővárosban a fővárosi önkormányzat tulajdonába adja:
+14. § (1) A Kormány általános hatáskörű területi államigazgatási szerve a fekvésük szerint illetékes települési, fővárosban a fővárosi önkormányzat tulajdonába adja:
 
 a) az állam tulajdonában lévő komp- és révátkelőhelyeket, azok hajózást kiszolgáló létesítményeivel együtt;
 
