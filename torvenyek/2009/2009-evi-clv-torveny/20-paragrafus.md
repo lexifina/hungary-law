@@ -4,7 +4,7 @@
 
 ## A Nemzeti Biztonsági Felügyelet
 
-20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, a Miniszterelnöki Hivatal szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet. A Nemzeti Biztonsági Felügyelet közigazgatási hatósági ügyekben történő eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet. A Nemzeti Biztonsági Felügyelet közigazgatási hatósági ügyekben történő eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) A Nemzeti Biztonsági Felügyelet
 
@@ -18,7 +18,7 @@ d) a minősített adatot kezelő elektronikus rendszerekről megfelelőségi iga
 
 e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
 
-f) egyetértési jogot gyakorol a titokbirtokos szervek biztonsági vezetőinek kinevezésével kapcsolatban,
+f) egyetértési jogot gyakorol a minősített adatot kezelő szervek biztonsági vezetőinek kinevezésével kapcsolatban,
 
 g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként egyedi vagy általános ajánlást bocsáthat ki az egységes minősítési gyakorlat kialakítása érdekében, illetve kezdeményezheti a minősítés felülvizsgálatát,
 
@@ -42,4 +42,10 @@ p) részt vesz a minősített adatok cseréjével járó két- vagy többoldalú
 
 q) gondoskodik a biztonsági vezetők részére tartandó képzésről és továbbképzésről,
 
-r) együttműködik az adatvédelmi biztossal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében.
+r) együttműködik az adatvédelmi biztossal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
+
+s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza azok zónabesorolását,
+
+t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának védelmével összefüggő méréseket, ezek alapján meghatározza azok zónabesorolását.
+
+(3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.

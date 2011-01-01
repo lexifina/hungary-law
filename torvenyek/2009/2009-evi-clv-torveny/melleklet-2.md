@@ -54,13 +54,13 @@ d) „EURA-RESTRICTED” – „Korlátozott terjesztésű!”.
 
 6. Az EUROPOL által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
 
-a) „EUROPOL TOP SECRET” – „Szigorúan titkos!”;
+a) „TRÈS SECRET UE/EU TOP SECRET” – „Szigorúan titkos!”;
 
-b) „EUROPOL SECRET” – „Titkos!”;
+b) „SECRET UE/EU SECRET” – „Titkos!”;
 
-c) „EUROPOL CONFIDENTIAL” – „Bizalmas!”;
+c) „CONFIDENTIEL UE/EU CONFIDENTIAL” – „Bizalmas!”;
 
-d) „EUROPOL RESTRICTED” – „Korlátozott terjesztésű!”.
+d) „RESTREINT UE/EU RESTRICTED” – „Korlátozott terjesztésű!”.
 
 7. AZ EUROJUST által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
 

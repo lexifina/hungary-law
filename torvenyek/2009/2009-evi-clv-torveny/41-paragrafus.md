@@ -12,6 +12,6 @@ d) a Nemzeti Biztonsági Felügyeletről szóló 1998. évi LXXXV. törvény,
 
 e) a Magyar Köztársaság 2001. és 2002. költségvetéséről szóló 2000. évi CXXXIII. törvény módosításáról szóló 2002. évi XXIII. törvény 23. § (7) bekezdése,
 
-f) a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 22. § (7) bekezdés második mondata,
+f)
 
 g) az ÁSZTLtv. 11. § (8) bekezdésében a „Ttv. szerinti” szövegrész.

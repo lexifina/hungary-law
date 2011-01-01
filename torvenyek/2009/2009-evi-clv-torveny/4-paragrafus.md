@@ -26,15 +26,15 @@ i) az ügyészség vezetője,
 
 j) az országgyűlési biztos,
 
-k) a Magyar Nemzeti Bank elnöke,
+k) a Pénzügyi Szervezetek Állami Felügyeletének elnöke, a Magyar Nemzeti Bank elnöke,
 
 l) a Kormány tagja,
 
-m) a kormánybiztos, a kormányhivatal vezetője,
+m) a kormánybiztos, a miniszterelnöki biztos, a kormányhivatal vezetője,
 
 n) a Kormány ügyrendje szerint működő testület vezetője,
 
-o) a rendvédelmi szerv központi szerve, valamint a katonai nemzetbiztonsági szolgálatok vezetője és a rendvédelmi szerveknél belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a vezetője,
+o) a rendvédelmi szerv központi szerve, valamint a katonai nemzetbiztonsági szolgálatok vezetője, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vezetője, az idegenrendészeti hatóság vezetője, továbbá a menekültügyi hatóság vezetője.
 
 p) a Nemzeti Biztonsági Felügyelet vezetője,
 
@@ -52,4 +52,4 @@ b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősí
 
 átruházhatják.
 
-(3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint az (1) bekezdés o) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
+(3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint az (1) bekezdés o) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.

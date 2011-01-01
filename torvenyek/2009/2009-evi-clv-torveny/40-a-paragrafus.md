@@ -1,0 +1,1 @@
+40/A. § Ez a törvény az EUROPOL-információk titoktartási szabályzatának elfogadásáról szóló 2009. november 30-i 2009/968/IB tanácsi határozat 10. cikk (4) bekezdésének a végrehajtáshoz szükséges rendelkezéseket állapít meg.
