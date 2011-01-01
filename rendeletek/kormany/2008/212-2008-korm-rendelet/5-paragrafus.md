@@ -2,7 +2,7 @@
 
 5. § E rendelet 2008. szeptember 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^3]
+Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^6]
 
 | Tevékenység | Egyéb eljárási költség (Ft) |
 
@@ -1270,4 +1270,4 @@ Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^3]
 
 | VRK | – vékonyréteg-kromatográfia |
 
-[^3]: A melléklet a 221/2009. (X. 9.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a 2009. október 15. napján folyamatban lévő fogyasztóvédelmi hatósági eljárásokat a 2009. október 14-én hatályos rendelkezések szerint kell lefolytatni.
+[^6]: A melléklet a 221/2009. (X. 9.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a 2009. október 15. napján folyamatban lévő fogyasztóvédelmi hatósági eljárásokat a 2009. október 14-én hatályos rendelkezések szerint kell lefolytatni.
