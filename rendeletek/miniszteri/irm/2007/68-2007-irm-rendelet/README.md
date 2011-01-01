@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-68-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2007-68-20-1U.3 | 68/2007. (XII. 28.) IRM rendelet |
+| 2011-01-01 | 2007-68-20-1U.4 | 41/2009. (IX. 15.) IRM rendelet |
