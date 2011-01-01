@@ -1,0 +1,1 @@
+A Kormány a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 17. § (1) bekezdés b) pontjában kapott felhatalmazás alapján – az Országos Érdekegyeztető Tanáccsal folytatott konzultáció alapján, az ott létrejött megállapodásnak megfelelő tartalommal –, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a következőket rendeli el.
