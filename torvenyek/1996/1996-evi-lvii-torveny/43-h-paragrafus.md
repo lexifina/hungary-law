@@ -12,7 +12,7 @@
 
 (7) A bejelentő kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy bejelentéssel élt a Gazdasági Versenyhivatalhoz.
 
-(8) A bejelentés beérkezésétől számított két hónapon belül a vizsgáló
+(8) A bejelentés beérkezését követő naptól számított két hónapon belül a vizsgáló
 
 a) a 70. § (1) bekezdése alapján végzéssel vizsgálatot rendel el, vagy
 

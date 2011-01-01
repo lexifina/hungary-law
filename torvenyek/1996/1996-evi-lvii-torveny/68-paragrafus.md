@@ -12,6 +12,6 @@ c) aki a 25. § szerinti elidegenítési kötelezettségnek egy éven belül nem
 
 (3) A 24. § szerinti kérelmet a 28. § (2) bekezdésében meghatározott időpontban kell benyújtani.
 
-(4) A kérelemnek az ügy elbírálásához szükséges valamennyi tényt, adatot tartalmaznia kell. Ennek hiányában a vizsgáló a kérelmet a beérkezéstől számított tíz munkanapon belül egy alkalommal – határidő megjelölésével – hiánypótlásra visszaadhatja. A hiánypótlásra szolgáló határidő indokolt esetben egy alkalommal meghosszabbítható. Ha a hiánypótlásra történő felhívás után a kérelmező a kérelem hiányait nem vagy nem megfelelően pótolja, a vizsgáló az eljárást megszünteti. Az eljárást megszüntető végzés ellen külön jogorvoslatnak van helye (82. §).
+(4) A kérelemnek az ügy elbírálásához szükséges valamennyi tényt, adatot tartalmaznia kell. Ennek hiányában a vizsgáló a kérelmet a beérkezést követő naptól számított tizenöt napon belül egy alkalommal – határidő megjelölésével – hiánypótlásra visszaadhatja. A hiánypótlásra szolgáló határidő indokolt esetben egy alkalommal meghosszabbítható. Ha a hiánypótlásra történő felhívás után a kérelmező a kérelem hiányait nem vagy nem megfelelően pótolja, a vizsgáló az eljárást megszünteti. Az eljárást megszüntető végzés ellen külön jogorvoslatnak van helye (82. §).
 
 (5) A kérelmező az eljárás megindítására irányuló kérelmét az eljárás során – a határozat hozataláig – visszavonhatja.

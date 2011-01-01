@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2010-04-01 | 2009. évi CLXIII. törvény | 1996-57-00-00.24 |
 | 2010-07-06 | 2010. évi LVIII. törvény | 1996-57-00-00.25 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 1996-57-00-00.26 |
+| 2011-01-01 | 2010. évi CLII. törvény | 1996-57-00-00.27 |

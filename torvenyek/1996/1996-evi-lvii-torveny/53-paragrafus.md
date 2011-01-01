@@ -1,4 +1,4 @@
-53. § (1) A kérelemre indult eljárásba a jogutód a jogutódlástól számított huszonkét munkanapon belül kérheti a jogutódlás megállapítását.
+53. § (1) A kérelemre indult eljárásba a jogutód a jogutódlástól számított harminc napon belül kérheti a jogutódlás megállapítását.
 
 (2) Ha a hivatalból indult eljárásban az ügyfél megszűnik, jogutódja az eljárásba bevonható. Ha a jogutód bevonása – a 70. § (1) bekezdésében foglaltakra tekintettel – nem indokolt, vagy ha az ügyfélnek nincs jogutódja, a vizsgáló, illetve az eljáró versenytanács az eljárást megszünteti.
 

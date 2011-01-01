@@ -12,9 +12,9 @@ c) a 24. § szerinti engedély iránti kérelem benyújtásának elmulasztása m
 
 kell meghozni.
 
-(3) Vállalkozások összefonódásának ellenőrzése során az eljárást befejező döntést a kérelem beérkezésétől, illetve a hiányok pótlásától számított
+(3) Vállalkozások összefonódásának ellenőrzése során az eljárást befejező döntést a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított
 
-a) harmincöt munkanapon belül kell meghozni, amennyiben
+a) negyvenöt napon belül kell meghozni, amennyiben
 
 aa) a 23. § és 25. § értelmében nem jön létre összefonódás, vagy
 
@@ -24,7 +24,7 @@ ac) az engedély a 30. § (2) bekezdése alapján nyilvánvalóan nem tagadható
 
 b) négy hónapon belül kell meghozni minden egyéb esetben.
 
-(4) A (3) bekezdés b) pontjának alkalmazásáról az eljáró versenytanács a kérelem beérkezésétől, illetve a hiányok pótlásától számított harmincöt munkanapon belül dönt.
+(4) A (3) bekezdés b) pontjának alkalmazásáról az eljáró versenytanács a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított negyvenöt napon belül dönt.
 
 (5) Az ügyintézési határidő számításánál – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – nem kell figyelembe venni
 
@@ -42,6 +42,6 @@ i) ha a 82. § (3) bekezdése szerinti jogorvoslati kérelemről való döntés 
 
 eltelt időt.
 
-(6) Az ügyintézési határidő indokolt esetben legfeljebb negyvenöt munkanappal, a (2) bekezdés b) pontja szerinti esetekben két alkalommal, egyenként legfeljebb hat hónappal, a (3) bekezdés a) pontja esetében tizenöt munkanappal meghosszabbítható.
+(6) Az ügyintézési határidő indokolt esetben legfeljebb két hónappal, a (2) bekezdés b) pontja szerinti esetekben két alkalommal, egyenként legfeljebb hat hónappal, a (3) bekezdés a) pontja esetében húsz nappal meghosszabbítható.
 
 (7) A vizsgáló kizárása esetben a vizsgálati határidők az új vizsgáló kijelölésével újra kezdődnek.
