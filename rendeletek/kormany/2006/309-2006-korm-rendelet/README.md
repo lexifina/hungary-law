@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-309-20-
 | --- | --- | --- |
 | 2009-10-19 | 2006-309-20-22.3 | 309/2006. (XII. 23.) Korm. rendelet |
 | 2010-07-10 | 2006-309-20-22.4 | 216/2010. (VII. 9.) Korm. rendelet |
+| 2011-01-01 | 2006-309-20-22.5 | 216/2010. (VII. 9.) Korm. rendelet |
