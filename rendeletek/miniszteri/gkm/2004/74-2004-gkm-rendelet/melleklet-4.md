@@ -948,6 +948,6 @@
 
 |  | a két végén levő kereszt, vagy láb egyik szára | F. |
 
-4. számú melléklet a 74/2004. (IV. 29.) GKM rendelethez[^48]
+4. számú melléklet a 74/2004. (IV. 29.) GKM rendelethez[^52]
 
-[^48]: A 4. számú mellékletet az 57/2006. (VIII. 3.) GKM rendelet 2. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^52]: A 4. számú mellékletet az 57/2006. (VIII. 3.) GKM rendelet 2. § (2) bekezdésének a) pontja hatályon kívül helyezte.

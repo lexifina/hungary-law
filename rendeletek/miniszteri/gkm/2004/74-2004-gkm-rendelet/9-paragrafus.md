@@ -1,6 +1,6 @@
 ## A fémjelek, a fémjelzéssel kapcsolatos egyéb hivatalos jelek alakja és rajza, a fémjelzés módszere és részletes szabályai
 
-## 9. §[^9] A fémjelek a következők:
+## 9. §[^10] A fémjelek a következők:
 
 a) 1. számú finomsági fokú platinatárgyra kard, felette az évszám betűjele és 950;
 
@@ -22,4 +22,4 @@ i) 3. számú finomsági fokú ezüsttárgyakra stilizált híd (veszprémi viad
 
 j) 4. számú finomsági fokú ezüsttárgyakra stilizált híd (Szabadság-híd), felette az évszám betűjele, alatta 4.
 
-[^9]: A 9. § a 87/2005. (X. 28.) GKM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 9. § a 87/2005. (X. 28.) GKM rendelet 4. §-ával megállapított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-74-20-0
 | --- | --- | --- |
 | 2006-08-08 | 2004-74-20-0L.6 | 74/2004. (IV. 29.) GKM rendelet |
 | 2010-03-05 | 2004-74-20-0L.7 | 10/2010. (III. 2.) NFGM rendelet |
+| 2011-01-01 | 2004-74-20-0L.8 | 26/2010. (XII. 31.) NGM rendelet |

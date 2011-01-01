@@ -4,6 +4,6 @@
 
 (3) Zománcozott nemesfémtárgynál az alak megtartásához szükséges, úgynevezett ,,kontraemail''-t szabad használni.
 
-(4)[^2] A 4. § (2) és (3) bekezdésében nem említett – nemesfémből készült – üreges tárgyak kitöltésére, valamint az 5. § (2) bekezdésében nem szereplő díszítési módokra vonatkozó kérelmet a Magyar Kereskedelmi Engedélyezési Hivatalhoz (a továbbiakban: Hivatal) kell benyújtani.
+(4)[^3] A 4. § (2) és (3) bekezdésében nem említett – nemesfémből készült – üreges tárgyak kitöltésére, valamint az 5. § (2) bekezdésében nem szereplő díszítési módokra vonatkozó kérelmet a Magyar Kereskedelmi Engedélyezési Hivatalhoz (a továbbiakban: Hivatal) kell benyújtani.
 
-[^2]: A 6. § (4) bekezdése a 127/2005. (XII. 29.) GKM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^3]: A 6. § (4) bekezdése a 127/2005. (XII. 29.) GKM rendelet 22. § (1) bekezdésével megállapított szöveg.

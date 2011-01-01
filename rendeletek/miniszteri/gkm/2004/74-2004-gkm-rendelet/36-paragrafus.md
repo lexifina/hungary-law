@@ -1,4 +1,4 @@
-36. §[^40] (1) A nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak készítésére, javítására, árverésére irányuló tevékenységet, továbbá az ilyen tárgyak forgalmazására irányuló kereskedelmi tevékenységet a Hivatal akkor engedélyezi, ha a vállalkozás az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül, és
+36. §[^41] (1) A nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak készítésére, javítására, árverésére irányuló tevékenységet, továbbá az ilyen tárgyak forgalmazására irányuló kereskedelmi tevékenységet a Hivatal akkor engedélyezi, ha a vállalkozás az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül, és
 
 a) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
@@ -18,7 +18,7 @@ e) a kérelmező által folytatni kívánt kereskedelmi tevékenység formáját
 
 f) amennyiben a 8. § (1) bekezdése alapján szükséges, az engedélyeztetni kívánt névjel adatát.
 
-(3) Az engedélyezési eljárás ügyintézési határideje tíz munkanap. A Hivatal a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazását végző vállalkozás esetében az engedélyt, valamint a (2) bekezdésben meghatározott adatokat, és dokumentumokat közli a kereskedelmi tevékenység folytatásának feltételeiről szóló külön jogszabályban meghatározottak szerint a kereskedőről nyilvántartást vezető jegyzővel.
+(3)[^42] Az engedélyezési eljárás ügyintézési határideje 15 nap. A Hivatal a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazását végző vállalkozás esetében az engedélyt, valamint a (2) bekezdésben meghatározott adatokat, és dokumentumokat közli a kereskedelmi tevékenység folytatásának feltételeiről szóló külön jogszabályban meghatározottak szerint a kereskedőről nyilvántartást vezető jegyzővel.
 
 (4) A Hivatal az engedély megadásával egyidejűleg a vállalkozást nyilvántartásba veszi. A nyilvántartás tartalmazza:
 
@@ -52,7 +52,7 @@ c) ha jogszabálysértés miatt az R. 12. § (6) bekezdés d) pontja szerinti jo
 
 (6) A (4) bekezdés szerint nyilvántartásba vett vállalkozás a nyilvántartásba vett adatokban bekövetkezett változást, valamint működése megszűnését köteles haladéktalanul a Hivatalnak bejelenteni.
 
-(7) A nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak készítését, javítását, árverését folytató vagy ilyen tárgyakat kereskedelmi tevékenység keretében forgalmazó vállalkozás az engedély (5) bekezdés szerinti visszavonása, és a nyilvántartásából történő törlését követő 10 munkanapon belül köteles a névjel beütésére szolgáló eszközt megsemmisítés céljából a Hivatalnak átadni.
+(7)[^43] A nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak készítését, javítását, árverését folytató vagy ilyen tárgyakat kereskedelmi tevékenység keretében forgalmazó vállalkozás az engedély (5) bekezdés szerinti visszavonása, és a nyilvántartásából történő törlését követő 15 napon belül köteles a névjel beütésére szolgáló eszközt megsemmisítés céljából a Hivatalnak átadni.
 
 (8) A Hivatal az engedély visszavonását és a vállalkozás nyilvántartásból való törlését közli
 
@@ -68,4 +68,6 @@ c) kereskedelmi tevékenység esetében a kereskedelmi tevékenység folytatás�
 
 (11) A 2009. október 1. előtt a Hivatal által nyilvántartásba vett, a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak készítését, javítását, árverését folytató vagy az ilyen tárgyakat kereskedelmi tevékenység keretében forgalmazó vállalkozásnak a (2) bekezdésben meghatározott adatokban bekövetkezett változás esetén kell az e § szerinti engedély iránti kérelmet benyújtania.
 
-[^40]: A 36. § a 10/2010. (III. 2.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 36. § a 10/2010. (III. 2.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 36. § (3) bekezdése a 26/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^43]: A 36. § (7) bekezdése a 26/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
