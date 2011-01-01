@@ -28,4 +28,4 @@ d) az érdekképviselet választott tisztségviselője részére munkavégzésre
 
 e) az érdekképviselet sztrájkalapjához történő hozzájárulásra.
 
-(5) Az (1) bekezdés a) pontjában meghatározott támogatás forrása a Munkaerőpiaci Alap, annak mértéke 2010-ben a Magyar Köztársaság 2010. évi költségvetéséről szóló törvényben meghatározott összeg, ezt követően pedig ezen összegnek a tárgyévet megelőző második évben a Központi Statisztikai Hivatal által meghatározott éves fogyasztói árnövekedéssel növelt összege.
+(5) Az (1) bekezdés a) pontjában meghatározott támogatás forrását és mértékét a költségvetésről szóló törvény határozza meg.
