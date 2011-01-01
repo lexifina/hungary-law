@@ -1,8 +1,8 @@
-## 6. §[^10]
+## 6. §[^14]
 
 7. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-Melléklet a 67/2006. (III. 27.) Korm. rendelethez[^11]
+Melléklet a 67/2006. (III. 27.) Korm. rendelethez[^15]
 
 ADATLAP
 
@@ -364,5 +364,5 @@ Az adatlap végén minden esetben szükséges a nyilatkozat aláírása, amellye
 
 Az adatlappal együtt benyújtott okiratokat eredetiben vagy hiteles másolatban kell csatolni.
 
-[^10]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 456. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 456. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
