@@ -1,0 +1,1 @@
+## 7. § A szerző írásban megadott hozzájárulása esetén a Hivatal a formanyomtatványon feltüntetett adatokat nyilvánosságra hozhatja, és az adatokból a nyilvánosság tájékoztatásának céljából adatbázist szerkeszthet.

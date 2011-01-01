@@ -1,0 +1,3 @@
+4. § (1) A Hivatal a 2. §-ban és a 3. §-ban meghatározott feltételeknek megfelelő, személyesen vagy képviselő által személyesen átadott irat útján benyújtott kérelmet azonnal, más módon benyújtott kérelmet a benyújtástól számított 30 napon belül teljesíti, és a nyilvántartásba vételről tanúsítványt állít ki. A tanúsítványhoz hozzáfűzi a szerző által benyújtott műpéldányt a Hivatal bélyegzőjével és a tanúsítvány nyilvántartási számával ellátott, lezárt borítékban.
+
+(2) A tanúsítvány és az ahhoz az (1) bekezdésnek megfelelően hozzáfűzött lezárt borítékban elhelyezett műpéldány az Szjt. 94/B. § (2) bekezdése szerinti igazoláshoz akkor használható fel, ha a zár és a boríték sérülésmentes állapotban van.

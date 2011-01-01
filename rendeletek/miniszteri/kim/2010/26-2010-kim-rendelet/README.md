@@ -1,0 +1,9 @@
+# 26/2010. (XII. 28.) KIM rendelet
+
+az önkéntes műnyilvántartás részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-26-20-2T
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-01-01 | 2010-26-20-2T.1 | 26/2010. (XII. 28.) KIM rendelet |
