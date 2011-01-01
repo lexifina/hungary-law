@@ -2,7 +2,7 @@
 
 26. § (1) A pályázati eljárás alapján nyújtható támogatások esetén a nyilvános pályázatot az NSZFI írja ki, és – a miniszter döntése és utasítása alapján – ellátja a pályázati program teljes körű végrehajtását.
 
-(2) Az NSZFI által az (1) bekezdés alapján ellátandó feladatokra, pályázatok értékelésére vonatkozóan a 13/2004. (IV. 27.) OM rendelet 12. §-ának (3) és (6) bekezdésében, valamint a 14. §-ában foglalt rendelkezések az irányadók azzal, hogy e rendelet alapján nyújtott támogatások esetében a pályázatok bírálatába az Oktatási Hivatalt nem kell bevonni.
+(2)[^16] Az NSZFI által az (1) bekezdés alapján ellátandó feladatokra, pályázatok értékelésére vonatkozóan a 13/2004. (IV. 27.) OM rendelet 12. §-ának (3) és (6) bekezdésében, valamint a 14. §-ában foglalt rendelkezések az irányadók azzal, hogy e rendelet alapján nyújtott támogatások esetében a pályázatok bírálatába a fővárosi és megyei kormányhivatal munkaügyi központját nem kell bevonni.
 
 (3) A pályázati kiírásnak a következőket kell tartalmaznia:
 
@@ -53,3 +53,5 @@ f) arról, hogy a pályázat szabályszerűségének és a támogatás rendeltet
 g) a szakképzési hozzájárulásra kötelezett, illetve más gazdálkodó szervezet esetében arról, hogy a pályázat elbírálásáig, illetve a támogatási szerződés lejártáig bejelenti, ha ellene csőd- vagy végelszámolási, illetve felszámolási eljárás indult.
 
 (6) A támogatási előleg nyújtásának a 24. § (3) bekezdésben meghatározottakon túl feltétele, hogy a támogatási előleg igénylésére vonatkozó lehetőséget a pályázati kiírás tartalmazza, az erre vonatkozó igényt a pályázó már a pályázatában is jelezze, és azt a támogatási szerződés tartalmazza.
+
+[^16]: A 26. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 58. §-a szerint módosított szöveg.
