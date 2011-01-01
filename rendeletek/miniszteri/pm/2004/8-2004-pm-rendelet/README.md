@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-8-20-53
 | 2010-04-01 | 2004-8-20-53.24 | 44/2009. (XII. 29.) PM rendelet |
 | 2010-05-01 | 2004-8-20-53.25 | 17/2010. (IV. 28.) PM rendelet |
 | 2010-09-27 | 2004-8-20-53.26 | 4/2010. (VIII. 13.) NGM rendelet |
+| 2011-01-01 | 2004-8-20-53.27 | 18/2010. (XII. 30.) NGM rendelet |

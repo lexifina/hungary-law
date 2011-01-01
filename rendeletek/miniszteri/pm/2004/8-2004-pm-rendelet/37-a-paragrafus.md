@@ -1,8 +1,8 @@
-## Nyilvántartások számítógépes vezetése, kísérő okmányok számítógépes előállítása[^175]
+## Nyilvántartások számítógépes vezetése, kísérő okmányok számítógépes előállítása[^183]
 
-37/A. §[^176] (1)[^177] A Jöt.-ben, illetve az e rendeletben meghatározott nyilvántartások számítógépes vezetését, valamint a 76. § (2)–(3) bekezdése szerinti termékkísérő okmányok, az egyszerűsített kísérő okmányok, a borkísérő okmányok, valamint a bérfőzési lap számítógépes előállítását és kitöltését az e §-ban meghatározott követelményeknek megfelelő, a regionális ellenőrzési központ által engedélyezett számítógépes programokkal kell végezni.
+37/A. §[^184] (1)[^185] A Jöt.-ben, illetve az e rendeletben meghatározott nyilvántartások számítógépes vezetését, valamint a 76. § (2)–(3) bekezdése szerinti termékkísérő okmányok, az egyszerűsített kísérő okmányok, a borkísérő okmányok, valamint a bérfőzési lap számítógépes előállítását és kitöltését az e §-ban meghatározott követelményeknek megfelelő, a regionális ellenőrzési központ által engedélyezett számítógépes programokkal kell végezni.
 
-(2)[^178] A Jöt.-ben, illetve az e rendeletben meghatározott nyilvántartások számítógépes vezetésére szolgáló program (a továbbiakban: nyilvántartó program) és a 76. § (2)–(3) bekezdés szerinti termékkísérő okmányok, az egyszerűsített kísérő okmányok, a borkísérő okmányok, valamint a bérfőzési lap számítógépes előállítását és kitöltését végző program (a továbbiakban: bizonylat-kiállító program) engedélyezéséhez szükséges feltétel, hogy
+(2)[^186] A Jöt.-ben, illetve az e rendeletben meghatározott nyilvántartások számítógépes vezetésére szolgáló program (a továbbiakban: nyilvántartó program) és a 76. § (2)–(3) bekezdés szerinti termékkísérő okmányok, az egyszerűsített kísérő okmányok, a borkísérő okmányok, valamint a bérfőzési lap számítógépes előállítását és kitöltését végző program (a továbbiakban: bizonylat-kiállító program) engedélyezéséhez szükséges feltétel, hogy
 
 a) a program a felhasználókat és azok hozzáférési jogosultságát nyilvántartsa, a felhasználók körében, illetve azok jogosultságában beállt változásokat nyomon kövesse,
 
@@ -32,13 +32,13 @@ a) a program által készített bizonylatok formátuma, tartalma, kiállításá
 
 b) a program a felhasznált sorszám (ideértve a stornózott sorszámot is) ismételt felhasználását ne engedélyezze,
 
-c)[^179] a program kizárólag a regionális ellenőrzési központ által az adott időszakra kiadott sorszámok felhasználását, emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során, és önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé,
+c)[^187] a program kizárólag a regionális ellenőrzési központ által az adott időszakra kiadott sorszámok felhasználását, emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során, és önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé,
 
-d)[^180] – a 78. § (3) bekezdése szerinti lehetőség alkalmazását biztosító program esetében – az egyszerűsített kísérő okmányra ráhelyezett különleges bélyegző (a továbbiakban: különleges bélyegző) megfeleljen e rendelet 48. számú mellékletében foglalt formai és tartalmi követelményeknek, valamint az adóraktár-engedélyes nyilatkozzon arról, hogy a különleges bélyegző alkalmazása az aláírásával egyenértékűnek tekinthető a Jöt. és e rendelet vonatkozó rendelkezéseinek alkalmazásában.
+d)[^188] – a 78. § (3) bekezdése szerinti lehetőség alkalmazását biztosító program esetében – az egyszerűsített kísérő okmányra ráhelyezett különleges bélyegző (a továbbiakban: különleges bélyegző) megfeleljen e rendelet 48. számú mellékletében foglalt formai és tartalmi követelményeknek, valamint az adóraktár-engedélyes nyilatkozzon arról, hogy a különleges bélyegző alkalmazása az aláírásával egyenértékűnek tekinthető a Jöt. és e rendelet vonatkozó rendelkezéseinek alkalmazásában.
 
-[^175]: A 37/A. §-t megelőző alcímet a 40/2007. (XII. 29.) PM rendelet 11. § (1) bekezdése iktatta be.
-[^176]: A 37/A. §-t a 40/2007. (XII. 29.) PM rendelet 11. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 42. § (1)–(4) bekezdését.
-[^177]: A 37/A. § (1) bekezdése a 44/2009. (XII. 29.) PM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^178]: A 37/A. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^179]: A 37/A. § (4) bekezdés c) pontja a 44/2008. (XII. 31.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
-[^180]: A 37/A. § (4) bekezdés d) pontja a 44/2009. (XII. 29.) PM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^183]: A 37/A. §-t megelőző alcímet a 40/2007. (XII. 29.) PM rendelet 11. § (1) bekezdése iktatta be.
+[^184]: A 37/A. §-t a 40/2007. (XII. 29.) PM rendelet 11. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 42. § (1)–(4) bekezdését.
+[^185]: A 37/A. § (1) bekezdése a 44/2009. (XII. 29.) PM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^186]: A 37/A. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^187]: A 37/A. § (4) bekezdés c) pontja a 44/2008. (XII. 31.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
+[^188]: A 37/A. § (4) bekezdés d) pontja a 44/2009. (XII. 29.) PM rendelet 16. § (3) bekezdésével megállapított szöveg.

@@ -60,7 +60,7 @@
 
 ## 2.14. Személyazonosító igazolvány (útlevél) száma:
 
-## 3.[^571] Köztartozásokra vonatkozó adatok
+## 3.[^591] Köztartozásokra vonatkozó adatok
 
 ## 3.1. Köztartozásmentes adózónak minősülésről kiállított igazolás száma, kiadásának kelte:
 
@@ -120,7 +120,7 @@
 
 ## V. Egyéb
 
-## 1.[^572] Egyszerűsített kísérő okmány aláírására jogosultak
+## 1.[^592] Egyszerűsített kísérő okmány aláírására jogosultak
 
 ## 1.1. Neve:
 
@@ -144,8 +144,8 @@
 
 ## a kérelmező aláírása (bélyegzője)
 
-2. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^573]
+2. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^593]
 
-[^571]: Az 1/A. számú melléklet I. pont 3. alpontja a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^572]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
-[^573]: A 2. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 33/2006. (XII. 25.) PM rendelet 23. §-a, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (3) bekezdése szerint módosított szöveg.
+[^591]: Az 1/A. számú melléklet I. pont 3. alpontja a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^592]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
+[^593]: A 2. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 33/2006. (XII. 25.) PM rendelet 23. §-a, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (3) bekezdése szerint módosított szöveg.

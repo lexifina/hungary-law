@@ -20,6 +20,18 @@
 
 ## 5. Zárókészlet (a tárgyhó utolsó napján):
 
-12. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^583]
+12. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^603]
 
-[^583]: A 12. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2) bekezdése, a 45/2005. (XII. 26.) PM rendelet 24. §-a, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+Felhasználói engedélyes által vezetett nyilvántartás adattartalma
+
+Termék megnevezése, vámtarifaszáma, mennyiségi egysége:
+
+Nyitókészlet (tárgyhó első napján):
+
+| a) | lédig mennyiség (tárolótartályonként, a tárolótartály egyedi azonosító jelének feltüntetésével) |
+
+| b) | kiszerelt mennyiség (kiszerelési egységenként és darabszámban) |
+
+Nyitókészlet összesen
+
+[^603]: A 12. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2) bekezdése, a 45/2005. (XII. 26.) PM rendelet 24. §-a, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 18/2010. (XII. 30.) NGM rendelet 16. § (2) bekezdése szerint módosított szöveg.

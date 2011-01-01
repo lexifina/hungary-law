@@ -6,7 +6,7 @@ a)[^9] a társasági szerződést (alapító okiratot, alapszabályt), vagy – 
 
 b)[^10] a Jöt. 35. § (1) bekezdés b) pontjában foglalt feltétel teljesítéséről kiadott, 30 napnál nem régebbi közokirati igazolást;
 
-c)[^11] – a kizárólag bérfőzést végző szeszfőzdére, illetve a sörfőzdére adóraktári engedélyt kérelmező kivételével – a Jöt. 35. § (1) bekezdés f) pontja szerinti közvetlen számítógépes kapcsolati rendszer kialakítására vonatkozó dokumentációt, a Hivatalos Értesítőben közzétett műszaki követelmények szerint;
+c)[^11]
 
 d)[^12]
 
@@ -47,7 +47,7 @@ p)[^17] a 61. § (1)–(2) bekezdésében vagy a 61/A. § (1) bekezdésében fog
 [^8]: A 2. § (1) bekezdésének bevezető szövegrésze a 40/2007. (XII. 29.) PM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdés b) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^11]: A 2. § (1) bekezdés c) pontja a 44/2009. (XII. 29.) PM rendelet 4. § (2) bekezdésével megállapított szöveg. A 2. § (1) bekezdés c) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (3) bekezdése hatályon kívül helyezte. [E módosító rendelet 44. § (3) bekezdése alapján a rendelkezés 2011. január 1-jén lép hatályba.]
+[^11]: A 2. § (1) bekezdés c) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (3) bekezdése hatályon kívül helyezte.
 [^12]: A 2. § (1) bekezdés d) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
 [^13]: A 2. § (1) bekezdés i) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^14]: A 2. § (1) bekezdés j) pontja a 44/2009. (XII. 29.) PM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 51. §-a alapján a 2009: CXIII. törvény 69. §-a szerinti esetekben a 8/2004. (III. 10.) PM rendelet termékkísérő okmányok aláírására jogosultak hitelesített aláírásmintájával kapcsolatos, valamint 75. §-ának 2010. március 31-én hatályos rendelkezéseit kell alkalmazni.

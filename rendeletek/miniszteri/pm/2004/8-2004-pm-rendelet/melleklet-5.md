@@ -82,6 +82,8 @@
 
 | 4.7. | Kizárólag adómentes felhasználó részére végzett ásványolaj vagy alkoholtermék behozatalra (adómentes felhasználó neve, jövedéki száma/engedélykérelme száma, dátuma): |
 
+| 4.8. | Kizárólag felhasználói engedélyes részére végzett egyéb ellenőrzött ásványolaj behozatalra (felhasználói engedélyes neve, jövedéki száma/engedélykérelme száma, dátuma): |
+
 | II. | Kérelmezett tevékenység jellege |
 
 | 1. | A Jöt. 24. § (1) bekezdés szerinti bejegyzett kereskedői tevékenység: |
@@ -110,9 +112,11 @@
 
 | 3.3.2. | Felhasználói engedéllyel (a kérelmező felhasználói engedélyének száma, érvényességi ideje): |
 
-| 3.3.3. | A Jöt. 25. § (6) bekezdése szerinti esetben ásványolajnak vagy alkoholterméknek adómentes felhasználó általi felhasználására (az adómentes felhasználó keretengedélyének jövedéki száma, érvényességi ideje): |
+| 3.3.3. | A Jöt. 25. § (1) bekezdése szerinti egyéb ellenőrzött ásványolaj felhasználói engedélyes általi felhasználására (a felhasználói engedélyes engedélyének jövedéki száma, érvényességi ideje): |
 
-| 3.3.4. | Egyéb felhasználásra: |
+| 3.3.4. | A Jöt. 25. § (6) bekezdése szerinti esetben ásványolajnak vagy alkoholterméknek adómentes felhasználó általi felhasználására (az adómentes felhasználó keretengedélyének jövedéki száma, érvényességi ideje): |
+
+| 3.3.5. | Egyéb felhasználásra: |
 
 | 4. | A fogadóhely használati jogcíme |
 
@@ -158,6 +162,6 @@
 
 |  | ......................................................................... a kérelmező aláírása (bélyegzője) |
 
-5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^576]
+5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^596]
 
-[^576]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított szöveg.
+[^596]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított szöveg.

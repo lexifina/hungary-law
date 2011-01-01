@@ -1,6 +1,6 @@
-## Adóügyi képviselő nyilvántartásba vétele[^120]
+## Adóügyi képviselő nyilvántartásba vétele[^125]
 
-25. §[^121] (1) Más tagállamban nyilvántartásba vett csomagküldő kereskedő adóügyi képviselőjének a Jöt. 31. § (2) bekezdése szerinti nyilvántartásba vételéhez a kérelmet a 7. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon kell benyújtani a regionális ellenőrzési központhoz.
+25. §[^126] (1) Más tagállamban nyilvántartásba vett csomagküldő kereskedő adóügyi képviselőjének a Jöt. 31. § (2) bekezdése szerinti nyilvántartásba vételéhez a kérelmet a 7. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon kell benyújtani a regionális ellenőrzési központhoz.
 
 (2) A nyilvántartásba vétel iránti kérelméhez csatolni kell
 
@@ -24,5 +24,5 @@ f) a 20. számú melléklet szerint vezetendő szállítási nyilvántartás min
 
 (6) A nyilvántartásba vétel iránti kérelem formanyomtatványa térítés ellenében a regionális ellenőrzési központoknál és a hatósági felügyeletet ellátó vám- és pénzügyőri hivataloknál szerezhető be, illetve letölthető a vámhatóság internetes honlapjáról.
 
-[^120]: A 25. §-t megelőző alcím a 44/2009. (XII. 29.) PM rendelet 13. §-ával megállapított szöveg.
-[^121]: A 25. § a 44/2009. (XII. 29.) PM rendelet 13. §-ával megállapított szöveg.
+[^125]: A 25. §-t megelőző alcím a 44/2009. (XII. 29.) PM rendelet 13. §-ával megállapított szöveg.
+[^126]: A 25. § a 44/2009. (XII. 29.) PM rendelet 13. §-ával megállapított szöveg.

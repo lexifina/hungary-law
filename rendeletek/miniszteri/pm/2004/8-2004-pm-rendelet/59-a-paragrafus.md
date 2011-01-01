@@ -1,6 +1,6 @@
-## Magánfőzés[^274]
+## Magánfőzés[^282]
 
-59/A. §[^275] (1) A magánfőző a Jöt. 67/A. § (1) bekezdése szerinti bejelentést a 31/A. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban köteles a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz írásban benyújtani.
+59/A. §[^283] (1) A magánfőző a Jöt. 67/A. § (1) bekezdése szerinti bejelentést a 31/A. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban köteles a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz írásban benyújtani.
 
 (2) A magánfőző az adó megfizetését a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal hivatalos helyén történő készpénz fizetéssel, fizetési számlára történő készpénz befizetéssel vagy átutalással köteles teljesíteni. A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal a hivatalos helyén teljesített készpénz fizetésről a magánfőző részére nyugtát bocsát ki és ad át.
 
@@ -12,5 +12,5 @@
 
 (6) A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal a Jöt. 67/A. § (1) bekezdése szerinti bejelentések alapján magánfőzőnként és háztartásonként összesíti, és a tárgyév első napjától göngyölíti a magánfőzők által bejelentett párlat mennyiségét.
 
-[^274]: Az 59/A. §-t megelőző alcímet a 4/2010. (VIII. 13.) NGM rendelet 3. §-a iktatta be.
-[^275]: Az 59/A. §-t a 4/2010. (VIII. 13.) NGM rendelet 3. §-a iktatta be.
+[^282]: Az 59/A. §-t megelőző alcímet a 4/2010. (VIII. 13.) NGM rendelet 3. §-a iktatta be.
+[^283]: Az 59/A. §-t a 4/2010. (VIII. 13.) NGM rendelet 3. §-a iktatta be.
