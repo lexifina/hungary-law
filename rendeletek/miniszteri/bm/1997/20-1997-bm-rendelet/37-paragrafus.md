@@ -1,3 +1,3 @@
-## 36. §[^32]
+## 36. §[^34]
 
-[^32]: A 36. §-t a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^34]: A 36. §-t a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (6) bekezdés b) pontja hatályon kívül helyezte.

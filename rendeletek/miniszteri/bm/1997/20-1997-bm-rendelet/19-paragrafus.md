@@ -34,9 +34,13 @@ o)[^25] vezetői illetménypótlék;
 
 p)[^26] veszélyes katasztrófavédelmi és tűzoltó beosztás pótléka;
 
-r)[^27] rendőrségi közterületi pótlék;
+r)[^27] közterületi pótlék;
 
-s)[^28] határrendészeti pótlék.
+s)[^28] határrendészeti pótlék;
+
+t)[^29] a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv állománya belső ellenőrzési pótléka;
+
+u)[^30] a terrorizmust elhárító szerv állományának pótléka.
 
 (2) A távolléti díj összegének megállapításánál az esedékesség időpontjában érvényes alapilletmény, illetménykiegészítés, rendszeres illetménypótlékok együttes összege az irányadó.
 
@@ -46,5 +50,7 @@ s)[^28] határrendészeti pótlék.
 [^24]: A 19. § (1) bekezdésének n) pontját a 38/1999. (X. 29.) BM rendelet 3. §-a iktatta be.
 [^25]: A 19. § (1) bekezdésének o) pontját a 17/2001. (IX. 5.) BM rendelet 2. §-a iktatta a szövegbe.
 [^26]: A 19. § (1) bekezdésének p) pontját a 28/2003. (VII. 9.) BM rendelet 1. § (2) bekezdése iktatta be, szövegét a 4/2006. (I. 20.) BM rendelet 2. § (2) bekezdése állapította meg. Ez utóbbi módosító rendelet 10. § (3) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni.
-[^27]: A 19. § (1) bekezdésének r) pontját a 4/2006. (I. 20.) BM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 10. § (3) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni.
+[^27]: A 19. § (1) bekezdésének r) pontját a 4/2006. (I. 20.) BM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2010. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
 [^28]: A 19. § (1) bekezdésének s) pontját a 4/2006. (I. 20.) BM rendelet 2. § (2) bekezdése iktatta be, szövege a 19/2008. (IX. 18.) IRM rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 19. § (1) bekezdés t) pontját a 9/2010. (XII. 22.) BM rendelet 1. §-a iktatta be.
+[^30]: A 19. § (1) bekezdés u) pontját a 9/2010. (XII. 22.) BM rendelet 1. §-a iktatta be.

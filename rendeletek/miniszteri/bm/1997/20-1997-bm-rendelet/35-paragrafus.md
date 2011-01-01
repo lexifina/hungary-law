@@ -1,4 +1,4 @@
-## 34. §[^31] A hivatásos állomány tagja és családtagjai külön rendelkezésben meghatározott feltételek szerint, és az ott meghatározott térítési díj ellenében kedvezményes üdülésben részesíthetők a fegyveres szerv, valamint a fegyveres szerv felügyeletét ellátó minisztérium kezelésében levő üdülőkben, hétvégi pihenőházakban.
+## 34. §[^33] A hivatásos állomány tagja és családtagjai külön rendelkezésben meghatározott feltételek szerint, és az ott meghatározott térítési díj ellenében kedvezményes üdülésben részesíthetők a fegyveres szerv, valamint a fegyveres szerv felügyeletét ellátó minisztérium kezelésében levő üdülőkben, hétvégi pihenőházakban.
 
 35. § (1) Visszatérítendő kamatmentes családalapítási támogatás a házas vagy élettársi viszonyban élő hivatásos állományúnak adható, aki 35 évnél nem idősebb, és a támogatást anyagi körülményei indokolják.
 
@@ -22,4 +22,4 @@ c) akinek illetményét – a fennálló tartozásai miatt – további levonás
 
 (8) A tartozás törlését az állományilletékes parancsnok kivételesen, rendkívüli méltánylást érdemlő esetben engedélyezheti. A vissza nem fizetett támogatás adóköteles jövedelemnek minősül.
 
-[^31]: A 34. § a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^33]: A 34. § a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (3) bekezdése szerint módosított szöveg.

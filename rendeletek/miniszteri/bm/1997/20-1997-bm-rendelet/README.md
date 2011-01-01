@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-20-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1997-20-20-0A.27 | 20/1997. (III. 19.) BM rendelet |
+| 2011-01-01 | 1997-20-20-0A.28 | 9/2010. (XII. 22.) BM rendelet |
