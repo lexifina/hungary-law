@@ -12,9 +12,9 @@ c) a lakosságra, az anyagi javakra és a környezetre gyakorolt hatások érté
 
 d) a megtett intézkedésekről.
 
-(2)[^22] A veszélyes katonai objektum felügyeleti hatóság a kivizsgálás lezárását követő öt munkanapon belül a veszélyes katonai objektumban bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetről, illetve a rendkívüli eseményről összefoglaló jelentés megküldésével az OKF-et tájékoztatja.
+(2)[^22] A veszélyes katonai objektum felügyeleti hatóság a kivizsgálás lezárását követő nyolc napon belül a veszélyes katonai objektumban bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetről, illetve a rendkívüli eseményről összefoglaló jelentés megküldésével az OKF-et tájékoztatja.
 
 (3) A honvédségi üzemeltető tájékoztatást küld a veszélyes katonai objektum felügyeleti hatóságnak abban az esetben, ha a technológia, a berendezések, a biztonsági irányítási rendszer alkalmazásakor vagy a védekezés területén szerzett saját tapasztalatok, továbbá a technikai fejlődés kapcsán tudomására jutó ismeretek, a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése, és az ellenük való védekezés rendszerének áttekintését szükségessé teszik.
 
 [^21]: A 21. § a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 198. pontja szerint módosított szöveg.
-[^22]: A 22. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 198. pontja, a 182/2009. (IX. 10.) Korm. rendelet 462. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 22. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 198. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (75) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
