@@ -16,4 +16,4 @@ szükséges.
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
-(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OIT Hivatala képesítési követelményei esetében az Országos Igazságszolgáltatási Tanáccsal egyetértésben – rendeletben határozza meg.
+(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OIT Hivatala képesítési követelményei esetében az Országos Igazságszolgáltatási Tanács véleményének kikérésével – rendeletben határozza meg.
