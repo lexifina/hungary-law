@@ -8,16 +8,16 @@
 
 (5) Az érintett környezetvédelmi szervezetek alapszabályukkal és a bírósági bejegyzésről szóló jogerős határozattal igazolhatják ügyféli jogosultságukat.
 
-(6)[^34] A felügyelőség a közmeghallgatásra vonatkozó adatokat – ha azok a 8. § (1) bekezdése szerint még nem voltak megadva – hirdetményi úton és legalább egy helyi lapban vagy napilapban vagy országos napilapban is közzéteszi, valamint közhírré tételre megküldi az eljárásban részt vevő önkormányzatok jegyzőinek. A jegyző a közhírré tételt követő három munkanapon belül tájékoztatja a felügyelőséget a közlemény közhírré tételének időpontjáról és helyéről.
+(6)[^37] A felügyelőség a közmeghallgatásra vonatkozó adatokat – ha azok a 8. § (1) bekezdése szerint még nem voltak megadva – hirdetményi úton és legalább egy helyi lapban vagy napilapban vagy országos napilapban is közzéteszi, valamint közhírré tételre megküldi az eljárásban részt vevő önkormányzatok jegyzőinek. A jegyző a közhírré tételt követő öt napon belül tájékoztatja a felügyelőséget a közlemény közhírré tételének időpontjáról és helyéről.
 
-(7)[^35] A közzétételnek legalább 22 munkanappal a közmeghallgatás időpontja előtt kell megtörténnie.
+(7)[^38] A közzétételnek legalább harminc nappal a közmeghallgatás időpontja előtt kell megtörténnie.
 
 (8) Az észrevételeket a közmeghallgatás időpontjáig a felügyelőséghez vagy a közmeghallgatás helye szerint illetékes települési önkormányzat jegyzőjéhez lehet benyújtani.
 
-(9)[^36] A közmeghallgatásról készült jegyzőkönyvről a felügyelőség tíz munkanapon belül másolatot küld a kérelmezőnek és az eljárásban részt vevő szakhatóságoknak.
+(9)[^39] A közmeghallgatásról készült jegyzőkönyvről a felügyelőség tizenöt napon belül másolatot küld a kérelmezőnek és az eljárásban részt vevő szakhatóságoknak.
 
 (10) A jegyzőkönyvet a felügyelőség megküldi az eljárásban részt vevő szervezetnek. A jegyzőkönyv nyilvánosságát biztosítani kell a felügyelőségnél és minden érintett települési önkormányzatnál.
 
-[^34]: A 9. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^35]: A 9. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: A 9. § (9) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (9) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^37]: A 9. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (8) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^38]: A 9. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^39]: A 9. § (9) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (9) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

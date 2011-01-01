@@ -2,31 +2,31 @@
 
 ## A környezeti hatástanulmány általános tartalmi követelményei
 
-A helyszíni vizsgálatokkal alátámasztott környezeti hatástanulmánynak – az előzetes vizsgálatban elfogadott vagy az előzetes konzultációban lehetségesnek tartott változatra (változatokra) a felügyelőség által meghatározott mélységben és részletezettségben – a következőket kell tartalmaznia:[^100]
+A helyszíni vizsgálatokkal alátámasztott környezeti hatástanulmánynak – az előzetes vizsgálatban elfogadott vagy az előzetes konzultációban lehetségesnek tartott változatra (változatokra) a felügyelőség által meghatározott mélységben és részletezettségben – a következőket kell tartalmaznia:[^104]
 
-1.[^101] Az előzmények összefoglalása, különösen
+1.[^105] Az előzmények összefoglalása, különösen
 
-a)[^102] a felügyelőség és a szakhatóságok állásfoglalásai, a nyilvánosság észrevételei az előzetes vizsgálatban, vagy a felügyelőség véleménye és a közigazgatási szervek, valamint a nyilvánosság észrevételei az előzetes konzultációban;
+a)[^106] a felügyelőség és a szakhatóságok állásfoglalásai, a nyilvánosság észrevételei az előzetes vizsgálatban, vagy a felügyelőség véleménye és a közigazgatási szervek, valamint a nyilvánosság észrevételei az előzetes konzultációban;
 
 b) a környezeti hatástanulmány kidolgozásának menete;
 
 c) a környezethasználó által korábban számba vett fő változatok és azoknak a fő okoknak a megjelölése, amelyek e korábbi változatok közüli választását – figyelembe véve a környezeti hatásokat – indokolták.
 
-2.[^103] A tervezett tevékenység – ideértve a kapcsolódó műveleteket és létesítményeket is – számba vett változatainak részletes leírása, különösen
+2.[^107] A tervezett tevékenység – ideértve a kapcsolódó műveleteket és létesítményeket is – számba vett változatainak részletes leírása, különösen
 
-a)[^104] az előzetes vizsgálati vagy az előzetes konzultációhoz benyújtott dokumentáció szerinti alapadatok [4. melléklet 1. b) pontja] részletezése, megjelölve azt, ha az ott leírtakhoz képest változás történt;
+a)[^108] az előzetes vizsgálati vagy az előzetes konzultációhoz benyújtott dokumentáció szerinti alapadatok [4. melléklet 1. b) pontja] részletezése, megjelölve azt, ha az ott leírtakhoz képest változás történt;
 
-b) az egyes hatótényezők[^105] részletezése
+b) az egyes hatótényezők[^109] részletezése
 
 ba) a hatótényező jellege, nagysága, időbeli változása, térbeli kiterjedése,
 
-bb) a hatótényező a tevékenység mely szakaszában jelenik meg, s az adott szakaszon belül a tevékenység mely részéhez rendelhető hozzá, mely környezeti elemeket[^106] érinti;
+bb) a hatótényező a tevékenység mely szakaszában jelenik meg, s az adott szakaszon belül a tevékenység mely részéhez rendelhető hozzá, mely környezeti elemeket[^110] érinti;
 
 c) az esetlegesen környezetterhelést okozó balesetek, meghibásodások lehetőségei, az ebből származó hatótényezők.
 
 3. A hatásfolyamatok és a hatásterületek leírása
 
-a) A hatótényezők kiváltotta hatásfolyamatokat környezeti elemenként külön-külön és környezeti rendszerként[^107] összességükben is elemezni kell. Fel kell tárni a közvetetten érvényesülő hatásfolyamatokat is.
+a) A hatótényezők kiváltotta hatásfolyamatokat környezeti elemenként külön-külön és környezeti rendszerként[^111] összességükben is elemezni kell. Fel kell tárni a közvetetten érvényesülő hatásfolyamatokat is.
 
 b) A hatásterületek kiterjedését a 7. mellékletében foglaltaknak megfelelően kell meghatározni, és térképen is be kell mutatni.
 
@@ -124,11 +124,11 @@ d) a környezeti állapotváltozások által érintett emberek egészségi álla
 
 e) a környezet és az emberi egészség védelmére foganatosítandó intézkedések.
 
-[^100]: A 6. számú melléklet bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^101]: A 6. számú melléklet 1. pont bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^102]: A 6. számú melléklet 1. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^103]: A 6. számú melléklet 2. pont nyitó szövegrésze a 110/2010. (IV. 9.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^104]: A 6. számú melléklet 2. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^105]: Hatótényező: környezetterhelés vagy a környezet igénybevétele [4. melléklet 1. fa) pontja].
-[^106]: Környezeti elem: föld, levegő, víz, élővilág, épített környezet, ez utóbbi részeként a műemlékek, műemléki területek és régészeti örökség [6. § a) pontja].
-[^107]: Környezeti rendszer: táj, település, éghajlat, természeti (ökológiai) rendszer [7. § b) pontja].
+[^104]: A 6. számú melléklet bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^105]: A 6. számú melléklet 1. pont bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^106]: A 6. számú melléklet 1. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^107]: A 6. számú melléklet 2. pont nyitó szövegrésze a 110/2010. (IV. 9.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^108]: A 6. számú melléklet 2. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^109]: Hatótényező: környezetterhelés vagy a környezet igénybevétele [4. melléklet 1. fa) pontja].
+[^110]: Környezeti elem: föld, levegő, víz, élővilág, épített környezet, ez utóbbi részeként a műemlékek, műemléki területek és régészeti örökség [6. § a) pontja].
+[^111]: Környezeti rendszer: táj, település, éghajlat, természeti (ökológiai) rendszer [7. § b) pontja].

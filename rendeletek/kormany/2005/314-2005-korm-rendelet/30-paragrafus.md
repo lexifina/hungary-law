@@ -1,4 +1,4 @@
-## 30. §[^88] Ez a rendelet a Kvt.-vel együtt
+## 30. §[^92] Ez a rendelet a Kvt.-vel együtt
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelvnek és az azt módosító 97/11/EK tanácsi irányelvnek,
 
@@ -6,4 +6,4 @@ b) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a ny
 
 c) a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló, 2008. január 15-i 2008/1/EK európai parlamenti és tanácsi irányelvnek való megfeleltetést szolgálja.
 
-[^88]: A 30. § a 110/2010. (IV. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^92]: A 30. § a 110/2010. (IV. 9.) Korm. rendelet 4. §-ával megállapított szöveg.

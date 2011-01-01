@@ -1,10 +1,10 @@
-## Az előzetes vizsgálati dokumentáció és a konzultációs kérelem tartalma[^91]
+## Az előzetes vizsgálati dokumentáció és a konzultációs kérelem tartalma[^95]
 
 ## 1. Az 1. vagy a 3. mellékletbe tartozó tevékenységek esetén
 
 ## a) a tervezett tevékenység célja;
 
-## b)[^92] a tervezett tevékenység, továbbá ha vannak más ésszerű telepítési, technológiai vagy egyéb változatai (a továbbiakban együtt: számításba vett változatok), akkor azok alapadatai:
+## b)[^96] a tervezett tevékenység, továbbá ha vannak más ésszerű telepítési, technológiai vagy egyéb változatai (a továbbiakban együtt: számításba vett változatok), akkor azok alapadatai:
 
 ## ba) a tevékenység volumene,
 
@@ -54,7 +54,7 @@
 
 ## fc) az fb) pont szerinti területről rendelkezésre álló környezeti állapot, területhasználati és demográfiai adatok, valamint a hatásfolyamatok jellegének ismeretében milyen és mennyire jelentős környezeti állapotváltozások (hatások) léphetnek fel,
 
-## fd)[^93] a Natura 2000 területet érintő hatások, a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások alapján.
+## fd)[^97] a Natura 2000 területet érintő hatások, a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások alapján.
 
 ## 2. A csak a 2. mellékletbe tartozó tevékenységek esetén
 
@@ -76,25 +76,25 @@
 
 ## i) a nyilvánosság tájékoztatása érdekében esetlegesen megtett intézkedések bemutatása és a vélemények összefoglalása,
 
-## j)[^94] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
+## j)[^98] ha a létesítmény a Natura 2000 területre hatással lehet, a hatások előzetes becslése a terület kijelölésének alapjául szolgáló fajokra és élőhelytípusokra gyakorolt hatások figyelembevételével.
 
 ## 3. Az 1–3. mellékletbe tartozó tevékenységek dokumentációjának egyéb (közös) követelményei
 
 ## a) az engedélykérő azonosító adatai;
 
-## b)[^95] minősített adatot, vagy a környezethasználó szerint üzleti titkot képező adatot, így megjelölve, elkülönítve kell ismertetni a dokumentációban és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesíteni, amelyek a tevékenység megítélést lehetővé teszik;
+## b)[^99] minősített adatot, vagy a környezethasználó szerint üzleti titkot képező adatot, így megjelölve, elkülönítve kell ismertetni a dokumentációban és a nyilvánosságra hozandó részben ezeket az adatokat olyan információkkal kell helyettesíteni, amelyek a tevékenység megítélést lehetővé teszik;
 
 ## c) ha a tevékenység során alkalmazandó technológia, felhasználandó anyagok és előállítandó termék környezetvédelmi minősítése korábban már megtörtént, a vonatkozó minősítési okiratot (okiratokat) csatolni kell;
 
 ## d) országhatáron átterjedő környezeti hatás bekövetkezésének lehetősége;
 
-## e)[^96]
+## e)[^100]
 
 5. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
 ## A környezeti hatásvizsgálat szükségességének szempontjai
 
-1.[^97] A tevékenység és a kapcsolódó műveletek, létesítmények jellemzői:
+1.[^101] A tevékenység és a kapcsolódó műveletek, létesítmények jellemzői:
 
 a) terület igénybevételének nagysága, ideértve a kapcsolódó műveletek, létesítmények területigényét is;
 
@@ -122,7 +122,7 @@ c) abszorpciós kapacitása (beleértve az érintett környezeti elemek és rend
 
 ca) vizes élőhelyek, hegyvidéki és erdőterületek,
 
-cb)[^98] védett természeti területek, Natura 2000 területek, természeti területek, érzékeny természeti területek, az ökológiai hálózat elemei,
+cb)[^102] védett természeti területek, Natura 2000 területek, természeti területek, érzékeny természeti területek, az ökológiai hálózat elemei,
 
 Natura 2000 területen különösen:
 
@@ -138,7 +138,7 @@ cd) sűrűn lakott területek,
 
 ce) történeti tájak, műemléki területek, műemlékek és régészeti örökség területei, megőrzendő karakterű települések vagy településrészek.
 
-3.[^99] A várható környezeti hatások jellemzői, figyelembe véve az 1. és 2. pontban lévő szempontokkal való összefüggést:
+3.[^103] A várható környezeti hatások jellemzői, figyelembe véve az 1. és 2. pontban lévő szempontokkal való összefüggést:
 
 a) területi kiterjedés és a területen élő, várhatóan érintettek számának nagysága;
 
@@ -158,12 +158,12 @@ h) a végső hatásviselőket (embert, természeti rendszereket) érő káros va
 
 i) egyéb, a környezeti hatások szempontjából lényeges jellemzők.
 
-[^91]: A 4. számú melléklet címe a 228/2010. (VIII. 13.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^92]: A 4. számú melléklet 1. pont b) alpontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^93]: A 4. számú melléklet 1. f) pont fd) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^94]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
-[^95]: A 4. melléklet 3. pont b) alpontja a 90/2010. (III. 26.) Korm. rendelet 68. §-ával megállapított szöveg.
-[^96]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^97]: Az 5. számú melléklet 1. pontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^98]: Az 5. számú melléklet 2. pont cb) alpontja a 266/2008. (XI. 6.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^99]: Az 5. számú melléklet 3. pontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^95]: A 4. számú melléklet címe a 228/2010. (VIII. 13.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^96]: A 4. számú melléklet 1. pont b) alpontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^97]: A 4. számú melléklet 1. f) pont fd) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^98]: A 4. számú melléklet 2. pont j) alpontját a 266/2008. (XI. 6.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^99]: A 4. melléklet 3. pont b) alpontja a 90/2010. (III. 26.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^100]: A 4. számú melléklet 3. pont e) alpontja a 151/2009. (VII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^101]: Az 5. számú melléklet 1. pontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^102]: Az 5. számú melléklet 2. pont cb) alpontja a 266/2008. (XI. 6.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^103]: Az 5. számú melléklet 3. pontja a 110/2010. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
