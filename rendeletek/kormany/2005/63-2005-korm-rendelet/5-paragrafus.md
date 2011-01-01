@@ -1,6 +1,6 @@
 ## A sorsolás szabályai
 
-5. § (1)[^8] A 4. § (2) bekezdésében meghatározott egyezség hiányában a földrészlet – kérelmezők közötti – megosztásának sorrendjét sorsolással kell megállapítani. A sorsolás helyszínéről és időpontjáról szóló értesítést a körzeti földhivatal legalább huszonkét munkanappal korábban – igazolható módon – a kérelmezők részére kézbesíti.
+5. § (1)[^8] A 4. § (2) bekezdésében meghatározott egyezség hiányában a földrészlet – kérelmezők közötti – megosztásának sorrendjét sorsolással kell megállapítani. A sorsolás helyszínéről és időpontjáról szóló értesítést a körzeti földhivatal legalább harminc nappal korábban – igazolható módon – a kérelmezők részére kézbesíti.
 
 (2) A sorsoláson minden, az adott földrészletben érintett kérelmező részt vehet, vagy meghatalmazottja útján képviseltetheti magát. A távollét nem akadályozza meg a sorsolás lebonyolítását és igazolásnak sincs helye.
 
@@ -26,7 +26,7 @@ f) mellékletként a jelenléti ívet.
 
 (7)[^12] A sorsolás elleni kifogást a megyei földhivatalhoz címezve, a körzeti földhivatalnál kell benyújtani.
 
-[^8]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 403. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (64) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^9]: Az 5. § (4) bekezdése a 232/2005. (X. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^10]: Az 5. § (5) bekezdése a 232/2005. (X. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: Az 5. § (6) bekezdése a 232/2005. (X. 19.) Korm. rendelet 1. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 403. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
