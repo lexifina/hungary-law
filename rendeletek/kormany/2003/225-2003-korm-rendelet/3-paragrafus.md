@@ -26,7 +26,7 @@ h) az olajszennyezésből eredő kárért viselt polgári jogi felelősségről 
 
 3. ellenőr: a hatóság szolgálatában álló vagy más olyan személy, akit a hajózási hatóság felhatalmazott az ellenőrzések végrehajtására, rendelkezik az ennek igazolására szolgáló, külön jogszabály[^1] alapján kiadott ellenőri igazolvánnyal és az illetékes hatóság előtt felelősséggel tartozik az ellenőrzések végrehajtásáért;
 
-4.[^2] ellenőrző hatóság: a Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága;
+4.[^2] ellenőrző hatóság: a hajózási hatóság;
 
 5. ellenőrzés: a hajó felkeresése a megfelelő okmányok és más dokumentumok, a hajó, annak felszerelései és személyzete állapotának, továbbá a hajón szolgálatot teljesítők élet- és munkakörülményeinek a megvizsgálására;
 
@@ -45,5 +45,5 @@ h) az olajszennyezésből eredő kárért viselt polgári jogi felelősségről 
 12. úti adatrögzítő: az esetleges baleset kivizsgálását elősegítő adatrögzítő készülék (a továbbiakban: VDR), amelynek meg kell felelnie a Nemzetközi Tengerészeti Szervezet (a továbbiakban: IMO) 1997. november 27-i A.861(20) határozata szerinti követelményeknek.
 
 [^1]: 10/2001. (III. 2.) KöViM rendelet a hajózásbiztonsági ellenőri munkakörre vonatkozó szakmai feltételekről és az ellenőrök azonosító okmányáról.
-[^2]: A 3. § 4. pontja a 264/2006. (XII. 20.) Korm. rendelet 24. §-a, a 168/2007. (VI. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^2]: A 3. § 4. pontja a 351/2010. (XII. 30.) Korm. rendelet 114. §-a szerint módosított szöveg.
 [^3]: A tengerészeti hatóságoknak a franciaországi St. Malo-ban létrehozott információs rendszere.
