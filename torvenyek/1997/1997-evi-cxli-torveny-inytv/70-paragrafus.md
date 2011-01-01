@@ -8,7 +8,7 @@ a) a bíróság, a bírósági végrehajtó, adóhatóság, a nemzetbiztonsági 
 
 b) az ügyészség a magánjogi és közigazgatási jogi ügyészi tevékenység ellátásához,
 
-c) a közjegyző a hagyatéki eljárás lefolytatásához igényli, illetve
+c) a jegyző a hagyatéki leltár elkészítéséhez, a közjegyző a hagyatéki eljárás lefolytatásához igényli,
 
 d) a tulajdonos igényli valamennyi ingatlanának ingatlan-nyilvántartásból történő megállapításához, illetve
 

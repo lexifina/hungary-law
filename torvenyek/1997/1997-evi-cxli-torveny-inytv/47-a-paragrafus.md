@@ -10,7 +10,7 @@ c) az ügyész értesítése esetén, az e törvény 42. § (2) bekezdésében m
 
 d) ha törvény így rendelkezik.
 
-(2) A függőben tartásról az ingatlanügyi hatóság a beadvány beérkezését követő öt munkanapon belül értesítés megküldésével tájékoztatja a kérelmezőt.
+(2) A függőben tartásról az ingatlanügyi hatóság a beadvány beérkezését követő nyolc napon belül értesítés megküldésével tájékoztatja a kérelmezőt.
 
 (3) A függőben tartást a tulajdoni lapra nem kell feljegyezni.
 

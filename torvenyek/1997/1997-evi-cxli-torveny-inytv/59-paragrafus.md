@@ -1,4 +1,4 @@
-59. § (1) A bírósági felülvizsgálati kérelem benyújtásának tényét a tulajdoni lapra fel kell jegyezni. Ha az ingatlanügyi hatóságnak a saját hatáskörben történő eljárásra nincs lehetősége, az iratokat a felülvizsgálati kérelem beérkezésétől számított öt munkanapon belül megküldi a bíróságnak.
+59. § (1) A bírósági felülvizsgálati kérelem benyújtásának tényét a tulajdoni lapra fel kell jegyezni. Ha az ingatlanügyi hatóságnak a saját hatáskörben történő eljárásra nincs lehetősége, az iratokat a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül megküldi a bíróságnak.
 
 (2)
 

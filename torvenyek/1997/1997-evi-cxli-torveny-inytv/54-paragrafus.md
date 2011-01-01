@@ -4,7 +4,7 @@
 
 (2) Ha az ingatlan-nyilvántartásból megállapítható, hogy az ingatlanra időközben harmadik személy jóhiszeműen jogot szerzett és a kijavítás vagy a kiegészítés az ő jogát sértené, a jogra és tényre vonatkozó kijavításnak vagy kiegészítésnek csak akkor van helye, ha ehhez az érdekelt harmadik személy hozzájárul.
 
-(3) A bírósági felülvizsgálati kérelem esetében az ingatlanügyi hatóság a határozatát a bírósági felülvizsgálati kérelem érkezésétől számított öt munkanap alatt saját hatáskörében a kérelem tartalmának megfelelően módosíthatja, illetve visszavonhatja.
+(3) A bírósági felülvizsgálati kérelem esetében az ingatlanügyi hatóság a határozatát a bírósági felülvizsgálati kérelem érkezésétől számított nyolc nap alatt saját hatáskörében a kérelem tartalmának megfelelően módosíthatja, illetve visszavonhatja.
 
 (4) A bejegyzés, a feljegyzés, az átvezetés, a határozat kijavításáról, kiegészítéséről, módosításáról, illetőleg visszavonásáról újabb határozatot kell hozni, és egyidejűleg a bejegyzést helyesbíteni, törölni, illetve a hiányzó bejegyzést pótolni kell. Az újabb határozatot kézbesíteni kell a kérelmezőnek, valamint mindazoknak, akik az eredeti határozatot megkapták. A végzés kijavításáról, kiegészítéséről, módosításáról, illetőleg visszavonásáról újabb végzést kell hozni, amelyet kézbesíteni kell a kérelmezőnek, valamint mindazoknak, akik az eredeti végzést megkapták.
 
