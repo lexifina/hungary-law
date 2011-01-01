@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-41-00-00
 | --- | --- | --- |
 | 2010-03-17 | 2010. évi XLI. törvény | 2010-41-00-00.0 (közlönyállapot) |
 | 2010-03-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-41-00-00.1 |
+| 2011-01-01 | 2010. évi CXLVIII. törvény | 2010-41-00-00.2 |
