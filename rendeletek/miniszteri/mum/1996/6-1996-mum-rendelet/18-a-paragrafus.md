@@ -1,6 +1,6 @@
-18/A. §[^95] (1)[^96] Regionális beruházási és foglalkoztatási támogatás induló beruházáshoz – a 18. §-ban foglaltakon kívül az e paragrafusban meghatározott feltételek mellett, az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló 1628/2006/EK bizottsági rendelet (HL L 2006.11.1. 302/29, a továbbiakban: 1628/2006/EK bizottsági rendelet) előírásaival összhangban – nyújtható.
+18/A. §[^88] (1)[^89] Regionális beruházási és foglalkoztatási támogatás induló beruházáshoz – a 18. §-ban foglaltakon kívül az e paragrafusban meghatározott feltételek mellett, az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló 1628/2006/EK bizottsági rendelet (HL L 2006.11.1. 302/29, a továbbiakban: 1628/2006/EK bizottsági rendelet) előírásaival összhangban – nyújtható.
 
-(2)[^97] Nem nyújtható regionális beruházási és foglalkoztatási támogatás
+(2)[^90] Nem nyújtható regionális beruházási és foglalkoztatási támogatás
 
 a) a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásról szóló 2006/C 54/08 számú iránymutatás (a továbbiakban: iránymutatás) I. számú mellékletében meghatározott acélipari tevékenységhez,
 
@@ -18,7 +18,7 @@ g) az 1628/2006/EK bizottsági rendelet 2. cikk (1) bekezdés p) és q) pontjáb
 
 h) a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) 2.1 alpontja szerinti nehéz helyzetben lévő vállalkozásnak.
 
-(3)[^98] A regionális beruházási és foglalkoztatási támogatás keretében a következő költségek számolhatók el:
+(3)[^91] A regionális beruházási és foglalkoztatási támogatás keretében a következő költségek számolhatók el:
 
 a) a beruházás célját szolgáló
 
@@ -44,9 +44,9 @@ c) eszköznyilvántartásba veszi, és az Sztv. 52–53. §-a szerinti értékcs
 
 (7) A (3) bekezdés a) pontjában megjelölt elszámolható költségekre nyújtott támogatás esetén a (6) bekezdésben meghatározott kötelezettségen túlmenően a foglalkoztatási kötelezettséget az érintett régióban legalább három – KKV esetében két – éven át folyamatosan, éves átlagos statisztikai állományi létszámra vonatkoztatva teljesíteni kell.
 
-(8)[^99] A (3) bekezdés b) pontjában megjelölt elszámolható költségek alapján nyújtott munkahelyteremtést szolgáló regionális beruházási és foglalkoztatási támogatás esetén a foglalkoztatási kötelezettséget az érintett régióban legalább öt – KKV esetében három – éven át folyamatosan, éves átlagos statisztikai állományi létszámra vonatkoztatva kell teljesíteni. Az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók száma a kedvezményezettnél közvetlenül teljes munkaidőben alkalmazott személyek számának nettó növekedése az előző 12 hónap átlagához képest. A munkahelyeket közvetlenül a támogatott beruházási projektnek kell létrehoznia.
+(8)[^92] A (3) bekezdés b) pontjában megjelölt elszámolható költségek alapján nyújtott munkahelyteremtést szolgáló regionális beruházási és foglalkoztatási támogatás esetén a foglalkoztatási kötelezettséget az érintett régióban legalább öt – KKV esetében három – éven át folyamatosan, éves átlagos statisztikai állományi létszámra vonatkoztatva kell teljesíteni. Az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók száma a kedvezményezettnél közvetlenül teljes munkaidőben alkalmazott személyek számának nettó növekedése az előző 12 hónap átlagához képest. A munkahelyeket közvetlenül a támogatott beruházási projektnek kell létrehoznia.
 
-(9)[^100] Egyedi kormánydöntés esetén a 18. § (2) bekezdés dd) pontjában meghatározott 90 napos időtartam egy évben is meghatározható, illetve a (7) bekezdésben előírt feltételtől el lehet tekinteni.
+(9)[^93] Egyedi kormánydöntés esetén a 18. § (2) bekezdés dd) pontjában meghatározott 90 napos időtartam egy évben is meghatározható, illetve a (7) bekezdésben előírt feltételtől el lehet tekinteni.
 
 (10) A támogatás keretében nem számolhatók el az alábbi költségek:
 
@@ -62,13 +62,14 @@ e) bérleti díjak, lízing költségek,
 
 f) a (3) bekezdés ab) alpont szerinti immateriális javak bekerülési értéke, ha azt a kedvezményezett nem kizárólag a támogatásban részesülő létesítményben használja,
 
-g) a korábban már használatba vett tárgyi eszköz bekerülési értéke,
+g) a korábban már használatba vett tárgyi eszköz bekerülési értéke.
 
-h) a 18. § (10) bekezdésében szereplő írásos értesítés átvételét megelőzően felmerült költségek.
+h)[^94]
 
-[^95]: Az új 18/A. §-t a 3/2007. (II. 9.) SZMM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 18/A. § számozását 18/C. §-ra változtatta. E módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1-jét követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
-[^96]: A 18/A. § (1) bekezdése a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^97]: A 18/A. § (2) bekezdés bevezető szövegrésze a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^98]: A 18/A. § (3) bekezdés bevezető szövegrésze a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^99]: A 18/A. § (8) bekezdése a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^100]: A 18/A. § (9) bekezdése a 33/2009. (XII. 30.) SZMM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^88]: Az új 18/A. §-t a 3/2007. (II. 9.) SZMM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 18/A. § számozását 18/C. §-ra változtatta. E módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1-jét követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
+[^89]: A 18/A. § (1) bekezdése a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
+[^90]: A 18/A. § (2) bekezdés bevezető szövegrésze a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
+[^91]: A 18/A. § (3) bekezdés bevezető szövegrésze a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
+[^92]: A 18/A. § (8) bekezdése a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
+[^93]: A 18/A. § (9) bekezdése a 33/2009. (XII. 30.) SZMM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^94]: A 18/A. § (10) bekezdés h) pontját a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja hatályon kívül helyezte.

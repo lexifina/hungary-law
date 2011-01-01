@@ -12,7 +12,7 @@ d)[^18] biztosítja a képzéshez szükséges tárgyi feltételeket,
 
 e)[^19] a tanfolyam indítását megfelelő létszám megléte esetén az év bármely szakában vállalja,
 
-f)[^20] képzési ajánlatai nem haladják meg a Szociális és Munkaügyi Minisztérium által, a Munkaügyi Közlönyben közzétett költségnormák kereteit,[^21]
+f)[^20] képzési ajánlatai nem haladják meg a Nemzetgazdasági Minisztérium által, a Munkaügyi Közlönyben közzétett költségnormák kereteit,[^21]
 
 g)[^22] a képzési ajánlata szerinti képzés a felnőttképzést folytató nyilvántartásba vételének részletes szabályairól szóló 48/2001. (XII. 29.) OM rendelet hatálya alá tartozik, az abban foglalt nyilvántartásban szerepel,
 
@@ -29,7 +29,7 @@ h)[^23] vállalja a 4. §-ban meghatározott együttműködési megállapodás m
 [^17]: A 3. § (2) bekezdése eredeti b) pontjának megjelölését a 6/2002. (XI. 28.) FMM rendelet 1. §-ának (2) bekezdése c) pontra változtatta.
 [^18]: A 3. § (2) bekezdése eredeti c) pontjának megjelölését a 6/2002. (XI. 28.) FMM rendelet 1. §-ának (2) bekezdése d) pontra változtatta.
 [^19]: A 3. § (2) bekezdése eredeti d) pontjának megjelölését a 6/2002. (XI. 28.) FMM rendelet 1. §-ának (2) bekezdése e) pontra változtatta.
-[^20]: A 3. § (2) bekezdése eredeti e) pontjának megjelölését és szövegét a 6/2002. (XI. 28.) FMM rendelet 1. §-ának (3) bekezdése f) pontra változtatta, illetve megállapította, az f) pont a 14/2008. (VII. 30.) SZMM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 3. § (2) bekezdése eredeti e) pontjának megjelölését és szövegét a 6/2002. (XI. 28.) FMM rendelet 1. §-ának (3) bekezdése f) pontra változtatta, illetve megállapította, az f) pont a 27/2010. (XII. 31.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
 [^21]: A 2007. évre vonatkozóan lásd a Hivatalos Értesítő 2007. évi 50. számában megjelent SZMM közleményt.
 [^22]: A 3. § (2) bekezdése eredeti f) pontjának megjelölését és szövegét a 6/2002. (XI. 28.) FMM rendelet 1. §-ának (3) bekezdése g) pontra változtatta, illetve megállapította.
 [^23]: A 3. § (2) bekezdésének h) pontját a 20/2005. (X. 27.) FMM rendelet 1. § (1) bekezdése iktatta be.
