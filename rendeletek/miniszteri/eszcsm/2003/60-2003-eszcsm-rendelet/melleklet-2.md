@@ -518,7 +518,7 @@
 
 ## 2. Hangjelzés vagy a behelyezés tényére az egészségügyi szolgáltatót figyelmeztető más jelzőrendszer működtetése.
 
-2. számú melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^24]
+2. számú melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^27]
 
 Tartalomjegyzék
 
@@ -6200,18 +6200,4 @@ Az ellátás végzéséhez szükséges minimális műtéti szám évenként: 5/�
 
 58113 arthrodesis fixateure externe
 
-A kéz kisízületeit vagy a radiocarpalis ízületet – szeptikus folyamatokban – a károsodott porcfelszínek eltávolítása után a csontfelszínek compressioja mellett külső rögzítővel fixáljuk. Ezen eljárás mellett a lágyrészek szeptikus folyamata megfelelően kezelhető.
-
-Ellátási szint:
-
-II/K, III/K
-
-Az ellátás végzéséhez szükséges minimális műtéti szám évenként: 5/év
-
-58191 ligamentum collaterale ulnare varrat
-
-Szalagvarrat 4/0 felszívódó monofil varróanyaggal. Külső rögzítés szükséges.
-
-Ellátási szint:
-
-[^24]: A 2. számú melléklet a 16/2004. (III. 23.) ESZCSM rendelet 1. §-a, 6. §-a, 7. § (3) bekezdés c) pontja, az 54/2004. (VI. 9.) ESZCSM rendelet 3. § (1)–(2) bekezdése, 4. § (2) bekezdése, 6. §-a, a 14/2005. (V. 2.) EüM rendelet 5. § (3) bekezdése, a 26/2008. (VII. 11.) EüM rendelet 1. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (4) bekezdése alapján a sürgősségi betegellátó osztályra (szakmakód: 4602) vonatkozó rendelkezéseket a folyamatban lévő ügyekben is alkalmazni kell; a 2. § (6) bekezdése alapján a „Genetikai laboratóriumi diagnosztika” személyi feltételeivel kapcsolatos rendelkezéseknek legkésőbb 2008. október 1. napjáig kell megfelelni.
+[^27]: A 2. számú melléklet a 16/2004. (III. 23.) ESZCSM rendelet 1. §-a, 6. §-a, 7. § (3) bekezdés c) pontja, az 54/2004. (VI. 9.) ESZCSM rendelet 3. § (1)–(2) bekezdése, 4. § (2) bekezdése, 6. §-a, a 14/2005. (V. 2.) EüM rendelet 5. § (3) bekezdése, a 26/2008. (VII. 11.) EüM rendelet 1. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.
