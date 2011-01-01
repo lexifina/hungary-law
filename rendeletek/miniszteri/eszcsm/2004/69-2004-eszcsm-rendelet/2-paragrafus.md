@@ -1,6 +1,6 @@
 2. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-Melléklet a 69/2004. (VIII. 5.) ESZCSM rendelethez[^2]
+Melléklet a 69/2004. (VIII. 5.) ESZCSM rendelethez[^3]
 
 A szociális ágazat irányításáért felelős miniszter hatáskörébe tartozó szociális szakképesítések
 
@@ -50,4 +50,4 @@ megszerzésére irányuló szakmai vizsga szervezésére feljogosított intézm�
 
 | Közép-Dunántúl | 54 8933 02 54 8933 04 | Szociális asszisztens Szociális, gyermek- és ifjúságvédelmi ügyintéző |
 
-[^2]: A melléklet címe a 9/2005. (XII. 21.) ICSSZEM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^3]: A melléklet címe a 9/2005. (XII. 21.) ICSSZEM rendelet 2. § (2) bekezdése szerint módosított szöveg.

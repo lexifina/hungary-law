@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-69-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 2004-69-20-0M.3 | 69/2004. (VIII. 5.) ESZCSM rendelet |
+| 2011-01-01 | 2004-69-20-0M.4 | 39/2015. (VIII. 28.) EMMI rendelet |
