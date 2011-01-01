@@ -1,9 +1,13 @@
-8/A. §[^15] (1) A közigazgatási hatósági döntés Fgytv. szerinti közzétételével kapcsolatos feladatokat az NFH azon szerve végzi, amely az adott döntést hozta.
+8/A. §[^23] (1)[^24] A közigazgatási hatósági döntés Fgytv. szerinti közzétételével kapcsolatos feladatokat az a szerv végzi, amely az adott döntést hozta.
 
-(2) A közigazgatási hatósági döntés bírósági felülvizsgálata esetén az erre vonatkozó bírósági döntés Fgytv. szerinti közzétételével kapcsolatos feladatokat az NFH központi szerve végzi.
+(2)[^25] A közigazgatási hatósági döntés bírósági felülvizsgálata esetén az erre vonatkozó bírósági döntés Fgytv. szerinti közzétételével kapcsolatos feladatokat az NFH végzi.
 
-(3) A hatósági szerződés közzétételét az NFH azon szerve végzi, amely az adott szerződést megkötötte.
+(3)[^26] A hatósági szerződés közzétételét az a szerv végzi, amely az adott szerződést megkötötte.
 
-(4) A fogyasztóvédelmi hatóság honlapja alatt az NFH központi szerve által üzemeltetett honlapot kell érteni.
+(4)[^27] A fogyasztóvédelmi hatóság honlapja alatt az NFH által üzemeltetett honlapot kell érteni.
 
-[^15]: A 8/A. §-t a 214/2008. (VIII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^23]: A 8/A. §-t a 214/2008. (VIII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 8/A. § (1) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^25]: A 8/A. § (2) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^26]: A 8/A. § (3) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^27]: A 8/A. § (4) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.

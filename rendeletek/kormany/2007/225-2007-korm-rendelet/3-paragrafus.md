@@ -1,9 +1,5 @@
-3. § (1) Az NFH központi szervből, területi szervekből, valamint azok kirendeltségeiből áll.
+3. §[^1] (1) A fogyasztóvédelmi felügyelőség (a továbbiakban: felügyelőségek) a fővárosi és megyei kormányhivatal szervezetében szakigazgatási szervként működik.
 
-(2) Az NFH központi szervét a főigazgató közvetlenül vezeti.
+(2) A felügyelőségek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az NFH főigazgatója.
 
-(3) Az NFH területi szervei az igazgató által vezetett regionális felügyelőségek (a továbbiakban: felügyelőségek). A felügyelőségek szervezeti egységei a – regionális felügyelőségek székhelyén kívüli – megyeszékhelyeken működő kirendeltségek.
-
-(4) A felügyelőségek megnevezését, székhelyét, illetékességi területét e rendelet melléklete tartalmazza.
-
-(5) Az NFH a közigazgatási hivatalok szakigazgatási szerveiként működő fogyasztóvédelmi felügyelőségek (ideértve azok területi osztályait is), valamint a Fogyasztóvédelmi Főfelügyelőség általános jogutódja.
+[^1]: A 3. § a 316/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
