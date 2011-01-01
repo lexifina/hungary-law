@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-2
 | 2010-02-20 | 2007-49-20-22.3 | 16/2010. (II. 5.) Korm. rendelet |
 | 2010-05-29 | 2007-49-20-22.4 | 171/2010. (V. 13.) Korm. rendelet |
 | 2010-07-01 | 2007-49-20-22.5 | 210/2010. (VI. 30.) Korm. rendelet |
+| 2011-01-01 | 2007-49-20-22.6 | 300/2010. (XII. 23.) Korm. rendelet |
