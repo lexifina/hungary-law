@@ -82,7 +82,7 @@ IV. Úti okmányok kiállításával kapcsolatos igazgatási szolgáltatási dí
 
 |  | 8. | Egyszeri utazásra jogosító utazási igazolvány kiállítására irányuló eljárás díja |  |
 
-|  | a) külföldön | 20 EUR |
+|  | a) |  |
 
 |  | b) belföldön | 4 000 Ft |
 
@@ -118,4 +118,4 @@ VI. Egyéb igazgatási szolgáltatási díjak
 
 |  | 2. | Fellebbezési kérelem díja | 5 500 Ft |
 
-[^12]: A 2. melléklet a 12/2010. (XII. 23.) BM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 24. § (2) bekezdése alapján a 2. melléklet I. pont 1–2. és 4. alpontja 2011. április 5-én lép hatályba, a 24. § (3) bekezdése alapján a II. pont 4–6. alpontja, III. pontja és az V. pont 2–9. pontja 2011. május 20-án lép hatályba.
+[^12]: A 2. melléklet a 12/2010. (XII. 23.) BM rendelet 22. §-ával megállapított, a 2010: CXXV. törvény 19. § (2) bekezdése szerint módosított szöveg. Előbbi módosító rendelet 24. § (2) bekezdése alapján a 2. melléklet I. pont 1–2. és 4. alpontja 2011. április 5-én lép hatályba, a 24. § (3) bekezdése alapján a 2. melléklet II. pont 4–6. alpontja, III. pontja és az V. pont 2–9. pontja 2011. május 20-án lép hatályba.
