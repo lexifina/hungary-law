@@ -1,4 +1,4 @@
-5. § (1)[^5]
+5. § (1)[^9]
 
 (2) A működési engedély tartalmazza:
 
@@ -14,4 +14,4 @@ e) a szolgáltatás végzésének helyét.
 
 (3) A közhasznú szervezet az engedélyezés alapjául szolgáló körülményben beállott bármely változást nyolc napon belül köteles bejelenteni a működést engedélyező szervnek.
 
-[^5]: Az 5. § (1) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^9]: Az 5. § (1) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

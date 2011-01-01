@@ -1,8 +1,14 @@
-3. § (1) A szolgáltatás működési engedélyhez kötött tevékenység.
+## 2. §[^2]
 
-(2)[^1] A működési engedély kiadására a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: működést engedélyező szerv) jogosult.
+3. §[^3] (1) A Kormány a nyílt örökbefogadást elősegítő tevékenységet (a továbbiakban: szolgáltatás) végző közhasznú szervezetek működését engedélyező szervként a gyermekek és az ifjúság védelméért felelős minisztert (a továbbiakban: működést engedélyező szerv) jelöli ki.
 
-(3)[^2] A működést engedélyező szerv nyilvántartást vezet a kiadott működési engedélyekről.
+(2) A működést engedélyező szerv nyilvántartást vezet a kiadott működési engedélyekről, és a működési engedélyt kiadó határozat jogerőre emelkedését követő tizenöt napon belül a 4. melléklet szerinti tanúsítványt állítja ki a közhasznú szervezet részére.
 
-[^1]: A 3. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: A 3. § (3) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 52. §-a iktatta be. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+(3) A működést engedélyező szerv
+
+a) a működési engedély visszavonása esetén a tanúsítványt bevonja,
+
+b) a működési engedélynek a tanúsítványban foglalt adatokat érintő módosítása esetén új tanúsítványt állít ki.
+
+[^2]: A 2. §-t a 360/2010. (XII. 30.) Korm. rendelet 37. § a) pontja hatályon kívül helyezte.
+[^3]: A 3. § a 360/2010. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.

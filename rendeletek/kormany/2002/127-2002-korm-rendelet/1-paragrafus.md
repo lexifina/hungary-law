@@ -1,15 +1,13 @@
-1. § (1) A nyílt örökbefogadások előmozdítása érdekében közhasznú szervezet – az e rendeletben foglaltak szerint – örökbefogadást elősegítő tevékenységet (a továbbiakban: szolgáltatás) folytathat.
+1. §[^1] (1) Az örökbefogadást elősegítő közhasznú szervezet (a továbbiakban: közhasznú szervezet) a Gyvt. 69/A. § (2) bekezdés a) és b) pontjában foglalt tevékenységét az 1. melléklet szerint dokumentálja. Az adatok rögzítését a közhasznú szervezet adatvédelmi szabályzatában erre kijelölt személy végzi.
 
-(2) A szolgáltatás körébe tartozik
+(2) A közhasznú szervezet a Gyvt. 69/A. § (2) bekezdés c) pontjában foglalt tevékenysége keretében a vér szerinti szülő döntése alapján
 
-a) a családgondozás keretében végzett tanácsadás és segítségnyújtás a szociális válsághelyzetben lévő, különösen a terhességét eltitkolni szándékozó várandós anya számára;
+a) a gyermek nyílt örökbefogadásának elősegítése érdekében az általa a Gyvt. 141/B. §-a szerint nyilvántartott örökbe fogadni szándékozó személyek közül – a nyilvántartási sorrend figyelembevételével – a gyermek számára alkalmas örökbefogadó szülőt javasol a vér szerinti szülő számára,
 
-b) erre irányuló igény esetén a családok átmeneti otthonában biztosított ellátáshoz való hozzájutás szervezése;
+b) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó személlyel való találkozását.
 
-c) az örökbe fogadni szándékozó – külön jogszabály szerinti – felkészítése az örökbefogadásra;
+(3) A (2) bekezdés a) pontja szerinti javaslatot a közhasznú szervezet legalább kettő, a 2. mellékletben meghatározott képesítéssel rendelkező munkatársának, ideértve a szakmai vezetőt is, kell előkészítenie és egybehangzóan megtennie.
 
-d) a vérszerinti szülő és az örökbe fogadni szándékozó személy kapcsolatfelvételének előkészítése;
+(4) A közhasznú szervezet által közvetített nyílt örökbefogadást a közhasznú szervezet a 3. melléklet szerint dokumentálja. Az adatok rögzítését a közhasznú szervezet adatvédelmi szabályzatában erre kijelölt személy végzi.
 
-e) a gyermeket örökbe adni szándékozó vérszerinti szülő (a továbbiakban: vérszerinti szülő) és az örökbe fogadni szándékozó személy adatainak nyilvántartása.
-
-(3) A szolgáltatás kiterjed – erre irányuló kérelem esetén – az örökbefogadás engedélyezését követően a vérszerinti szülőnek és az örökbefogadónak történő segítségnyújtásra, tanácsadásra.
+[^1]: Az 1. § a 360/2010. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.

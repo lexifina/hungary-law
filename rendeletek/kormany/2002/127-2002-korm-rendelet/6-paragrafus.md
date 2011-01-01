@@ -8,6 +8,9 @@ c) szolgáltatása a gyermekek érdekeivel ellentétes, közérdeket sért;
 
 d) szolgáltatása felfüggesztésre került és a feltárt hiányosság megszüntetése, illetve a jogszerű működés helyreállítása hatvan napon belül nem történik meg;
 
-e) megsértette a 10. § (1) bekezdésében meghatározott rendelkezést.
+e)[^10] megsértette a Gyvt. 69/E. § (1) bekezdésében meghatározott rendelkezést.
 
-(2) Ha a működést engedélyező szerv olyan szolgáltatásról szerez tudomást, amely engedély nélkül működik, a szervezetet eltiltja a szolgáltatás végzésétől.
+(2)[^11]
+
+[^10]: A 6. § (1) bekezdés e) pontja a 360/2010. (XII. 30.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.

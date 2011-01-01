@@ -1,20 +1,8 @@
-8. § (1) A szakmai vezető írásban megállapodást köt a szolgáltatás nyújtására:
+## 7. §[^12]
 
-a) a szülői felügyeleti joggal rendelkező vérszerinti szülővel;
+8. § (1)–(3)[^13]
 
-b) a várandós anyával;
-
-c) ha a vérszerinti szülő vagy várandós anya kiskorú, annak törvényes képviselőjével, illetve az eseti gondnokkal;
-
-d) az örökbe adandó gyermek gyámjával;
-
-e) az örökbe fogadni szándékozó házaspárral (személlyel).
-
-(2) Megállapodás csak olyan örökbe fogadni szándékozó házaspárral (személlyel) köthető, aki örökbefogadásra való alkalmasságot megállapító érvényes gyámhivatali határozattal rendelkezik.
-
-(3) Örökbe fogadni szándékozó házaspár esetén a felekkel nem kell külön-külön megállapodást kötni.
-
-(4) A megállapodás tartalmazza:
+(4)[^14] A szolgáltatás nyújtására irányuló megállapodás tartalmazza:
 
 a) az igényelt szolgáltatás pontos leírását;
 
@@ -35,3 +23,7 @@ a) az örökbefogadással kapcsolatos egyéb körülményeket;
 b) az örökbe fogadni szándékozó személy bejelentési kötelezettségét arra vonatkozóan, ha vele szemben a megállapodás megkötését követően az örökbefogadást kizáró ok keletkezik;
 
 c) örökbe fogadni szándékozó személyt terhelő költségek viselésének szabályait.
+
+[^12]: A 7. §-t a 360/2010. (XII. 30.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.
+[^13]: A 8. § (1)–(3) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 37. § d) pontja hatályon kívül helyezte.
+[^14]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 38. § c) pontjával megállapított szöveg.
