@@ -6,4 +6,6 @@
 
 (3) Az (1) és (2) bekezdésben meghatározott koordinátor ugyanaz a személy is lehet.
 
-(4) Amennyiben a tervező, kivitelező rendelkezik a munkabiztonsági szaktevékenység ellátásához előírt képesítéssel, nincs szükség külön koordinátor megbízására vagy alkalmazására. Ez esetben az Mvt. 19. §-ának (2) bekezdésében meghatározott írásbeli nyilatkozatban ki kell térni arra, hogy a koordinátori feladatokat ki látja el.
+(4)[^1] Amennyiben a tervező, kivitelező rendelkezik a munkabiztonsági szaktevékenység ellátásához előírt képesítéssel, nincs szükség külön koordinátor megbízására vagy alkalmazására.
+
+[^1]: A 3. § (4) bekezdése a 27/2010. (XII. 31.) NGM rendelet 75. § g) pontja szerint módosított szöveg.

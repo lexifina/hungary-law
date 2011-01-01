@@ -104,7 +104,7 @@ ea) ülve végzett szellemi és könnyű fizikai munkánál: 0,1 m/s,
 
 eb) helyváltoztatással járó könnyű fizikai munkánál: 0,2 m/s.
 
-5.6.[^2] A szellőztetési rendszerek üzembe helyezése során [Mvt. 21. § (3) bekezdése] mérésekkel kell meggyőződni az elegendő mennyiségű és minőségű levegő meglétéről. Az ezt tanúsító mérési dokumentumok megőrzéséről a munkáltató gondoskodik. A munkáltató jogutód nélküli megszűnése esetén a mérési dokumentumokat át kell adni az Országos Munkavédelmi és Munkaügyi Főfelügyelőség területileg illetékes munkavédelmi felügyelőségének.
+5.6.[^4] A szellőztetési rendszerek üzembe helyezése során mérésekkel kell meggyőződni az elegendő mennyiségű és minőségű levegő meglétéről. Az ezt tanúsító mérési dokumentumok megőrzéséről a munkáltató gondoskodik. A munkáltató jogutód nélküli megszűnése esetén a mérési dokumentumokat át kell adni a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségének.
 
 6. Munkavégzés veszélyes körülmények között
 
@@ -1532,4 +1532,4 @@ A puttony alatti terület megközelítését kényszerkapcsolatban működő kor
 
 15.24. A betonszivattyú- és a csővezetéknek a munka befejezése utáni átfújásakor, illetve tisztításakor senki sem tartózkodhat a cső kiömlő végénél. Ekkor a cső végét rögzíteni kell.
 
-[^2]: A 4. számú melléklet 5.6. pontja a 18/2007. (V. 10.) SZMM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 22. § (1) bekezdése alapján a 2007. május 13. napjáig az ÁNTSZ illetékes városi (fővárosi kerületi) intézetének átadott mérési dokumentumokat az ÁNTSZ illetékes városi (fővárosi kerületi) intézete a fenti időpontot követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Főfelügyelőség területileg illetékes munkavédelmi felügyelőségének.
+[^4]: A 4. számú melléklet I. rész 5. pont 5.6. alpontja a 27/2010. (XII. 31.) NGM rendelet 30. § (2) bekezdésével megállapított szöveg.
