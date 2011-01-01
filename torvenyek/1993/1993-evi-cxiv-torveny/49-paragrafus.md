@@ -40,7 +40,7 @@ a) rendeletben szabályozza
 
 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
-b) a természetvédelemért felelős miniszterrel együttes rendeletben szabályozza a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták körét, valamint a kijelölésük rendjét;
+b) a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták körét, valamint a kijelölésük rendjét;
 
 c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét.
 
