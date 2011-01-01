@@ -4,6 +4,6 @@
 
 a) az állami főépítész döntése ellen fellebbezésnek nincs helye,
 
-b) a térségi területfelhasználási engedélykérelmet 45 munkanapon belül el kell bírálni,
+b) a térségi területfelhasználási engedélykérelmet két hónapon belül el kell bírálni,
 
 c) a térségi területfelhasználási engedélykérelem tárgyában hozott határozat ellen keresetet a bíróság soron kívül bírálja el a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezései szerinti eljárásban.
