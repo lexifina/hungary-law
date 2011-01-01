@@ -10,6 +10,6 @@ d) a szolgáltatás biztosításának előkészítése az igénybe vevő részé
 
 e) az intézményben élők és dolgozók felkészítése az új igénybe vevő fogadására, az intézménybe történő beilleszkedés zavartalan biztosítása.
 
-(2)[^12] Az előgondozás két szakaszból áll. Az előgondozás I. szakaszában az előgondozást végző személy az (1) bekezdés a)–c) pontjában meghatározott feladatokat látja el. Az előgondozás I. szakaszában tájékoztatni kell az ellátást igénybe vevőt, illetve törvényes képviselőjét az intézménnyel kötendő megállapodás tartalmáról, valamint a térítési díj, az egyszeri hozzájárulás, illetve a térítési díj pótlék várható mértékéről is. Az előgondozás II. szakaszában az előgondozást végző személy az (1) bekezdés d) és e) pontjában meghatározott feladatokat látja el.
+(2)[^10] Az előgondozás két szakaszból áll. Az előgondozás I. szakaszában az előgondozást végző személy az (1) bekezdés a)–c) pontjában meghatározott feladatokat látja el. Az előgondozás I. szakaszában tájékoztatni kell az ellátást igénybe vevőt, illetve törvényes képviselőjét az intézménnyel kötendő megállapodás tartalmáról, valamint a térítési díj, az egyszeri hozzájárulás, illetve a térítési díj pótlék várható mértékéről is. Az előgondozás II. szakaszában az előgondozást végző személy az (1) bekezdés d) és e) pontjában meghatározott feladatokat látja el.
 
-[^12]: Az 5. § (2) bekezdése a 10/2006. (XII. 27.) SZMM rendelet 12. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdése a 10/2006. (XII. 27.) SZMM rendelet 12. § (3) bekezdésének a) pontja szerint módosított szöveg.

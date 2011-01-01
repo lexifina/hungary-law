@@ -2,37 +2,13 @@
 
 ## A szociális ellátás iránti kérelem
 
-3. § (1)[^3] A szociális ellátások közül
+3. §[^3] (1) A szociális ellátásokat szóban vagy írásban kell kérelmezni.
 
-a) az 1. számú melléklet szerinti formanyomtatvány kitöltésével kell kérelmezni
+(2) Házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás, idősek, fogyatékosok és demens személyek nappali ellátása, továbbá bentlakásos intézmény (az éjjeli menedékhely kivételével) esetén a kérelem előterjesztésekor mellékelni kell az 1. számú melléklet I. része szerinti orvosi igazolást.
 
-aa) az étkeztetést – a népkonyha kivételével –,
+(3) Az Szt. 115/A. §-a vagy a fenntartó döntése alapján térítésmentesen biztosítandó ellátások kivételével valamennyi személyes gondoskodási forma esetén a kérelem előterjesztésekor be kell nyújtani az 1. számú melléklet II. része szerinti jövedelemnyilatkozatot.
 
-ab) a házi segítségnyújtást,
-
-ac) a jelzőrendszeres házi segítségnyújtást,
-
-ad) a támogató szolgáltatást,
-
-ae) az idősek és fogyatékosok részére nyújtott nappali ellátást,
-
-af) a bentlakásos intézményi elhelyezést – az éjjeli menedékhely kivételével;
-
-b) írásban kell kérelmezni
-
-ba) a közösségi ellátást – a szenvedélybetegek alacsonyküszöbű ellátása kivételével,
-
-bb) a pszichiátriai és szenvedélybetegek részére nyújtott nappali ellátást.
-
-(2)[^4] Ha az intézményi jogviszony keletkezését beutaló határozat alapozza meg, a kérelmet két példányban kell benyújtani.
-
-(3)[^5] Az 1. számú melléklet szerinti kérelem C részének I. pontját – étkeztetés, házi segítségnyújtás, továbbá az Szt. 115/A. § szerint térítésmentesen biztosítandó ellátások kivételével – valamennyi személyes gondoskodási forma esetében, II. pontját étkeztetés és házi segítségnyújtás esetében, III. pontját – az Szt. 117/B. §-a szerinti vállalás kivételével – idősotthoni ellátás esetében kell kitölteni.
-
-(4) A családsegítő szolgáltatást igénybe vevő és a családsegítő szolgálat kapcsolatfelvételének dokumentálása a külön jogszabályban meghatározott forgalmi naplóban történik.
-
-(5) A családsegítő szolgáltatás igénybevétele esetén az egynél több találkozást igénylő segítségnyújtást a külön jogszabályban meghatározott esetnaplóban kell dokumentálni. Ebben az esetben a segítségnyújtás szakmai tartalmát az ellátás igénybevételekor – az ellátást igénybe vevő aláírásával ellátva – írásban kell rögzíteni.
+(4) Tartós bentlakásos ellátás esetén – az Szt. 117/B. § szerinti vállalás kivételével – a kérelem előterjesztésekor be kell nyújtani az 1. számú melléklet III. része szerinti vagyonnyilatkozatot. A vagyonnyilatkozat „3. Ingatlanvagyon” pontját rehabilitációs intézmény és rehabilitációs célú lakóotthon esetén nem kell kitölteni.
 
 [^2]: A 2. § a 3/2008. (IV. 15.) SZMM rendelet 14. § (3) bekezdése szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdése a 10/2006. (XII. 27.) SZMM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdése a 10/2006. (XII. 27.) SZMM rendelet 2. §-ával megállapított szöveg.
-[^5]: A 3. § (3) bekezdését a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 37/2007. (XII. 22.) SZMM rendelet 13. §-a iktatta be. A (3) bekezdés szövege a 35/2009. (XII. 30.) SZMM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § a 27/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.

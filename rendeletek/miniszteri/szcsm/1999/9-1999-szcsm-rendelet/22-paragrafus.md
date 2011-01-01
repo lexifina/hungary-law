@@ -1,12 +1,14 @@
-## A szociális rászorultság vizsgálata[^37]
+## szakvéleményt.
 
-22. §[^38] (1) Az Szt. 59/A. §-ának (1) bekezdése szerinti szolgáltatások esetében a szolgáltatás igénybevételére irányuló kérelemhez mellékelni kell a szociális rászorultságot igazoló iratokat, illetve azok másolatát.
+## A szociális rászorultság vizsgálata[^40]
+
+22. §[^41] (1) Az Szt. 59/A. §-ának (1) bekezdése szerinti szolgáltatások esetében a szolgáltatás igénybevételére irányuló kérelemhez mellékelni kell a szociális rászorultságot igazoló iratokat, illetve azok másolatát.
 
 (2) A szociális rászorultság igazolására a következő iratokat, nyilatkozatokat lehet elfogadni:
 
 a) az egészségi állapoton, illetve a betegségen alapuló szociális rászorultság esetében a külön jogszabály szerinti, két évnél nem régebbi
 
-aa)[^39] igazolást, amelynek 1. pontjában az ellátást igénylő besorolása a b)–e) pont szerinti vagy amelynek 1. pontja szerint jelzőrendszeres házi segítségnyújtás biztosítása egészségi állapot alapján indokolt, és a felülvizsgálat határideje – amennyiben megjelöl ilyet – nem járt le, illetve
+aa)[^42] igazolást, amelynek 1. pontjában az ellátást igénylő besorolása a b)–e) pont szerinti vagy amelynek 1. pontja szerint jelzőrendszeres házi segítségnyújtás biztosítása egészségi állapot alapján indokolt, és a felülvizsgálat határideje – amennyiben megjelöl ilyet – nem járt le, illetve
 
 ab) pszichiáter vagy neurológus szakorvosi szakvéleményt;
 
@@ -18,13 +20,21 @@ d) a súlyos fogyatékosság igazolására az Szt. 65/C. §-ának (6) bekezdése
 
 (3) Amennyiben a szociális rászorultság az Szt. alapján több feltétel egyidejű fennállásán alapul, valamennyi feltételt külön igazolni kell.
 
-(4)[^40] Az intézményvezető a szociális rászorultság vizsgálata alapján a 8. számú melléklet szerinti nyilatkozatot tölti ki. A nyilatkozat egy példányát az igénylő, igénybe vevő részére át kell adni.
+(4)[^43] Az intézményvezető a szociális rászorultság fennállását vagy annak hiányát rögzíti az Szt. 20. §-a szerinti nyilvántartásban.
 
-(5) A nyilatkozat átadásával egyidejűleg a szociálisan nem rászorult igénylőt tájékoztatni kell arról, hogy a szolgáltatást részére az intézmény, szolgáltató biztosítja-e, illetve a térítési díj összegéről.
+(5)[^44] A szociálisan nem rászorult igénylőt írásban tájékoztatni kell arról, hogy a szolgáltatást részére az intézmény, szolgáltató biztosítja-e, illetve a térítési díj összegéről.
 
 (6) Ha a szolgáltatást igénylő a kérelem benyújtásakor nem rendelkezik a (2) bekezdés szerinti irattal, az intézményvezető döntése alapján legfeljebb 60 napig a szociálisan rászorultakra vonatkozó szabályok szerint biztosítható a szolgáltatás. Ha az igénybe vevő a kérelem benyújtásától számított 60 napon belül nem csatolja a szociális rászorultságát igazoló iratot, rá a kérelem benyújtására visszamenő hatállyal a szociálisan nem rászorult személyekre vonatkozó szabályokat kell alkalmazni. Ha az igénybe vevő a szociális rászorultságát igazoló iratot 60 napon belül csatolja, a kérelem benyújtására visszamenő hatállyal szociálisan rászorultnak kell tekinteni.
 
-[^37]: A 22. § alcímét a 10/2006. (XII. 27.) SZMM rendelet 10. §-a iktatta be.
-[^38]: A 22. § a 10/2006. (XII. 27.) SZMM rendelet 10. §-ával megállapított szöveg.
-[^39]: A 22. § (2) bekezdés a) pont aa) alpontja a 35/2009. (XII. 30.) SZMM rendelet 6. §-ával megállapított szöveg.
-[^40]: A 22. § (4) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének aa) alpontja szerint módosított szöveg.
+(7)[^45] Ha a szociális rászorultság határozott ideig áll fenn, a határozott idő leteltét követő 60 napig a felülvizsgálat alatt álló személy számára továbbra is a szociálisan rászorultakra vonatkozó szabályok szerint kell biztosítani az ellátást. Ha az igénybe vevő
+
+a) a határozott idő leteltétől számított 60 napon belül nem csatolja a szociális rászorultságát igazoló iratot, rá a határozott idő leteltére visszamenő hatállyal a szociálisan nem rászorult személyekre vonatkozó szabályokat kell alkalmazni,
+
+b) a szociális rászorultságát igazoló iratot 60 napon belül csatolja, a határozott idő leteltére visszamenő hatállyal szociálisan rászorultnak kell tekinteni.
+
+[^40]: A 22. § alcímét a 10/2006. (XII. 27.) SZMM rendelet 10. §-a iktatta be.
+[^41]: A 22. § a 10/2006. (XII. 27.) SZMM rendelet 10. §-ával megállapított szöveg.
+[^42]: A 22. § (2) bekezdés a) pont aa) alpontja a 35/2009. (XII. 30.) SZMM rendelet 6. §-ával megállapított szöveg.
+[^43]: A 22. § (4) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^44]: A 22. § (5) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja szerint módosított szöveg.
+[^45]: A 22. § (7) bekezdését a 27/2010. (XII. 30.) NEFMI rendelet 7. § (2) bekezdése iktatta be.

@@ -1,298 +1,84 @@
-## Kérelem a személyes gondoskodást nyújtó szociális ellátás igénybevételéhez
+## I.
 
-## „A”
+## EGÉSZSÉGI ÁLLAPOTRA VONATKOZÓ IGAZOLÁS
 
-## (A formanyomtatvány az igényelt szociális ellátás típusának megfelelő adatok figyelembevételével töltendő ki.)
+## (a háziorvos, kezelőorvos tölti ki)
 
-## 1. Az ellátást igénybe vevő adatai:
+## Név (születési név):
+
+## Születési hely, idő:
+
+## Lakóhely:
+
+## Társadalombiztosítási Azonosító Jel:
+
+| 1. Házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás és nappali ellátás (idős, fogyatékos, demens személyek részére) igénybevétele esetén (házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás esetében az 1.1. pontot nem kell kitölteni): |
+
+| 1.1. önellátásra vonatkozó megállapítások: |
+
+| önellátásra képes □ részben képes □ segítséggel képes □ |
+
+| 1.2. szenved-e krónikus betegségben: |
+
+| 1.3. fogyatékosság típusa (hallássérült, látássérült, mozgássérült, értelmi sérült) és mértéke: |
+
+| 1.4. rendszeres orvosi ellenőrzés szükséges-e: |
+
+| 1.5. gyógyszerek adagolásának ellenőrzése szükséges-e: □ |
+
+| 1.6. szenvedett-e fertőző betegségben 6 hónapon belül: □ |
+
+| 1.7. egyéb megjegyzések: |
+
+| 2. Jelzőrendszeres házi segítségnyújtás igénybevételére vonatkozóan igazolom, hogy egészségi állapota alapján a jelzőrendszeres házi segítségnyújtás biztosítása |
+
+| indokolt □ nem indokolt □ |
+
+| 3. Átmeneti elhelyezés (az éjjeli menedékhely kivételével), ápolást-gondozást nyújtó, rehabilitációs intézmények, lakóotthon esetén |
+
+| 3.1. esettörténet (előzmények az egészségi állapotra vonatkozóan): |
+
+| 3.2. teljes diagnózis (részletes felsorolással, BNO kóddal): |
+
+| 3.3. prognózis (várható állapotváltozás): |
+
+| 3.4. ápolási-gondozási igények: |
+
+| 3.5. speciális diétára szorul-e: |
+
+| 3.6. szenvedélybetegségben szenved-e: |
+
+| 3.7. pszichiátriai megbetegedésben szenved-e: |
+
+| 3.8. fogyatékosságban szenved-e (típusa, mértéke): |
+
+| 3.9. idősotthoni ellátás esetén demenciában szenved-e: |
+
+| 3.10. gyógyszerszedés gyakorisága, várható időtartama (pl. végleges, időleges stb.), valamint az igénybevétel időpontjában szedett gyógyszerek köre: |
+
+| 4. A háziorvos (kezelőorvos) egyéb megjegyzései: |
+
+| Dátum: | Orvos aláírása: | P. H. |
+
+## (szükség esetén külön melléklet csatolható az igazoláshoz)
+
+## II.
+
+## JÖVEDELEMNYILATKOZAT
+
+## Az ellátást kérelmező személyre vonatkozó személyes adatok:
 
 ## Név:
 
-## Születési neve:
+## Születési név:
 
 ## Anyja neve:
 
-## Születési helye, időpontja:
+## Születési hely, idő:
 
-## Lakóhelye:
+## Lakóhely:
 
-## Tartózkodási helye:
-
-## Állampolgársága:
-
-## Bevándorolt, letelepedett vagy menekült jogállása:
-
-## Társadalombiztosítási Azonosító Jele:
-
-## Tartására köteles személy
-
-## a) neve:
-
-## b) lakóhelye:
-
-## Telefonszáma:
-
-## Legközelebbi hozzátartozójának (törvényes képviselőjének)
-
-## a) neve:
-
-## b) lakóhelye:
-
-## c) telefonszáma:
-
-## Az ellátást igénybe vevővel egy háztartásban élő nagykorú személyek száma:
-
-## 2. Milyen típusú ellátás igénybevételét kéri[^48]
-
-## 2.1. alapszolgáltatás
-
-## étkeztetés ⬜
-
-## házi segítségnyújtás ⬜
-
-## jelzőrendszeres házi segítségnyújtás ⬜
-
-## támogató szolgáltatás ⬜
-
-## 2.2. nappali ellátás
-
-## idősek nappali ellátása ⬜
-
-## fogyatékosok nappali ellátása ⬜
-
-## demens személyek nappali ellátása ⬜
-
-## 2.3. átmeneti ellátás
-
-## időskorúak gondozóháza ⬜
-
-## fogyatékos személyek gondozóháza ⬜
-
-## pszichiátriai betegek átmeneti otthona ⬜
-
-## szenvedélybetegek átmeneti otthona ⬜
-
-## hajléktalan személyek átmeneti szállása ⬜
-
-## 2.4. ápolást-gondozást nyújtó intézmény ⬜
-
-## pszichiátriai betegek otthona ⬜
-
-## fogyatékos személyek otthona ⬜
-
-## hajléktalan személyek otthona ⬜
-
-## szenvedélybetegek otthona ⬜
-
-## idősek otthona ⬜
-
-## a) az elhelyezést az általános szabályok szerint [nem a b) pontban felsorolt körülmények alapján] kéri ⬜
-
-## b) az elhelyezést a gondozási szükségletet megalapozó egyéb körülmények alapján kéri ⬜
-
-## ba) demencia kórkép legalább középsúlyos fokozata ⬜
-
-## bb) az ellátást igénylő egyedül él, nyolcvanadik életévét betöltötte és a települési önkormányzat a gondozási szükséglete ellenére részére házi segítségnyújtást nem biztosít ⬜
-
-## bc) az ellátást igénylő egyedül él, hetvenedik életévét betöltötte és lakóhelye közműves vízellátás vagy közműves villamosenergia-ellátás nélküli ingatlan ⬜
-
-## bd) az ellátást igénylő egyedül él, és vakok személyi járadékában vagy hallási fogyatékosként fogyatékossági támogatásban részesül ⬜
-
-## be) az ellátást igénylő egyedül él, a hallási fogyatékosságon kívüli okból fogyatékossági támogatásban részesül, és az Országos Rehabilitációs és Szociális Szakértői Intézet (a továbbiakban: ORSZI), illetve jogelődje szakértői bizottságának szakvéleménye, szakhatósági állásfoglalása az önkiszolgálási képességének hiányát állapította meg ⬜
-
-## bf) az ellátást igénylő egyedül él és I. rokkantsági csoportba tartozó rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban, illetve rokkantsági járadékban részesül ⬜
-
-## bg) az ellátást igénylő egyedül él, munkaképességét 100%-ban elvesztette, illetve legalább 80%-os mértékű egészségkárosodást szenvedett és az ORSZI, illetve jogelődje szakértői bizottságának szakvéleménye, szakhatósági állásfoglalása az önkiszolgálási képességének hiányát állapította meg ⬜
-
-## 2.5. rehabilitációs intézmény
-
-## pszichiátriai betegek rehabilitációs intézménye ⬜
-
-## szenvedélybetegek rehabilitációs intézménye ⬜
-
-## fogyatékos személyek rehabilitációs intézménye ⬜
-
-## hajléktalan személyek rehabilitációs intézménye ⬜
-
-## 2.6. lakóotthon
-
-## fogyatékos személyek lakóotthona ⬜
-
-## ápoló-gondozó célú ⬜
-
-## rehabilitációs célú ⬜
-
-## pszichiátriai betegek lakóotthona ⬜
-
-## szenvedélybetegek lakóotthona ⬜
-
-## 3. A személyes gondoskodást nyújtó szociális ellátás igénybevételére vonatkozó adatok:
-
-## 3.1. Étkeztetés
-
-## milyen időponttól kéri a szolgáltatás biztosítását:
-
-## milyen gyakorisággal kéri a szolgáltatás biztosítását:
-
-## az étkeztetés módja:
-
-## helyben fogyasztás ⬜
-
-## elvitellel ⬜
-
-## kiszállítással ⬜
-
-## diétás étkeztetés ⬜
-
-## 3.2. Házi segítségnyújtás ⬜
-
-## milyen időponttól kéri a szolgáltatás biztosítását:
-
-## milyen gyakorisággal kéri a szolgáltatás biztosítását:
-
-## milyen típusú segítséget igényel: ⬜
-
-## segítség a napi tevékenységek ellátásában ⬜
-
-## bevásárlás, gyógyszerbeszerzés ⬜
-
-## személyes gondozás ⬜
-
-## egyéb, éspedig ........................ ⬜
-
-## 3.3. Jelzőrendszeres házi segítségnyújtás igénybevétele milyen időponttól kéri a szolgáltatás biztosítását:
-
-## 3.4. Támogató szolgáltatás igénybevétele ⬜
-
-## milyen időponttól kéri a szolgáltatás biztosítását:
-
-## milyen gyakorisággal kéri a szolgáltatás biztosítását:
-
-## milyen típusú segítséget igényel:
-
-## szállító szolgáltatás ⬜
-
-## személyi segítő szolgáltatás ⬜
-
-## 3.5. Nappali ellátás ⬜
-
-## milyen időponttól kéri a szolgáltatás biztosítását:
-
-## étkeztetést igényel-e: igen  (normál  diétás ) nem
-
-## milyen gyakorisággal kéri az étkeztetést:
-
-## egyéb szolgáltatás igénylése:
-
-## 3.6. Átmeneti elhelyezés ⬜
-
-## milyen időponttól kéri a szolgáltatás biztosítását:
-
-## milyen időtartamra kéri az elhelyezést:
-
-## milyen okból kéri az elhelyezést:
-
-## 3.7. Ápolást-gondozást nyújtó, rehabilitációs intézmény
-
-## milyen időtartamra kéri a szolgáltatás biztosítását:
-
-## határozott (annak ideje) ...................... ⬜
-
-## határozatlan ⬜
-
-## soron kívüli elhelyezést kér-e : ⬜
-
-## ha igen, annak oka:
-
-## 3.8. Megjegyzések
-
-## 3.8.1. Házi segítségnyújtás és idősek otthona igénybevételére irányuló kérelem esetén – ha az elhelyezést az általános szabályok szerint kérik – a gondozási szükséglet vizsgálata során be kell mutatni a gondozási szükséglet megítélését szolgáló, rendelkezésre álló leletek és szakvélemények másolatát.
-
-## 3.8.2. Amennyiben az idősotthoni ellátást a gondozási szükségletet megalapozó egyéb körülmények alapján kérik, a 2.4. pontban megjelölt körülmények igazolásához a gondozási szükséglet vizsgálata során az alábbi dokumentumokat kell bemutatni:
-
-## ba) alpont esetén: az ORSZI vagy a Pszichiátriai, illetve Neurológiai Szakkollégium által befogadott demencia centrum szakvéleménye,
-
-## bb) alpont esetén: személyazonosításra alkalmas igazolvány másolata és a települési önkormányzat jegyzőjének igazolása a házi segítségnyújtás hiányáról,
-
-## bc) alpont esetén: személyazonosításra alkalmas igazolvány másolata és a települési önkormányzat jegyzőjének igazolása a közművesítés hiányáról,
-
-## bd) alpont esetén: személyazonosításra alkalmas igazolvány másolata és az ellátást megállapító jogerős határozat vagy az ellátás folyósítását igazoló irat másolata,
-
-## be) és bg) alpont esetén: személyazonosításra alkalmas igazolvány másolata és az ORSZI, illetve jogelődje érvényes és hatályos szakvéleményének, szakhatósági állásfoglalásának másolata az önkiszolgálási képesség hiányáról,
-
-## bf) alpont esetén: személyazonosításra alkalmas igazolvány másolata és a nyugdíjat, járadékot megállapító jogerős határozat, vagy a kérelem benyújtását megelőző havi nyugdíj-folyósítási, járadékfolyósítási csekkszelvény vagy bankszámlakivonat másolata.
-
-## Dátum:
-
-## Az ellátást igénybe vevő (törvényes képviselő) aláírása:
-
-## „B”
-
-## Egészségi állapotra vonatkozó adatok (a háziorvos, kezelőorvos tölti ki)
-
-## 1. Házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás és nappali ellátás igénybevétele esetén (házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás esetében az 1.1. pontot nem kell kitölteni):
-
-## 1.1. önellátásra vonatkozó megállapítások:
-
-## önellátásra képes ⬜ részben képes ⬜ segítséggel képes ⬜
-
-## 1.2. szenved-e krónikus betegségben:
-
-## 1.3. fogyatékosság típusa (hallássérült, látássérült, mozgássérült, értelmi sérült) és mértéke:
-
-## 1.4. rendszeres orvosi ellenőrzés szükséges-e:
-
-## 1.5. gyógyszerek adagolásának ellenőrzése szükséges: ⬜
-
-## 1.6. szenvedett fertőző betegségben 6 hónapon belül: ⬜
-
-## 1.7. egyéb megjegyzések:
-
-## 2. Átmeneti elhelyezést, ápolást-gondozást nyújtó, rehabilitációs intézmények, lakóotthon esetén (idősotthon esetén a 2.10. pontot nem kell kitölteni):
-
-## 2.1. esettörténet (előzmények az egészségi állapotra vonatkozóan):
-
-## 2.2. teljes diagnózis (részletes felsorolással, BNO kóddal):
-
-## 2.3. prognózis (várható állapotváltozás):
-
-## 2.4. ápolási-gondozási igények:
-
-## 2.5. speciális diétára szorul-e:
-
-## 2.6. szenvedélybetegségben szenved-e:
-
-## 2.7. pszichiátriai megbetegedésben szenved-e:
-
-## 2.8. szenved-e fogyatékosságban (típusa, mértéke):
-
-## 2.9. gyógyszerszedés gyakorisága, várható időtartama (pl. végleges, időleges stb.), valamint az igénybevétel időpontjában szedett gyógyszerek köre:
-
-## 2.10. a külön jogszabályban meghatározottak alapján az önellátás mértékének megállapítása:
-
-## 3. Soron kívüli elhelyezése indokolt: ⬜
-
-## A háziorvos (kezelőorvos) egyéb megjegyzései:
-
-## Dátum: Orvos aláírása: P. H.
-
-## „C”
-
-## I.
-
-## Jövedelemnyilatkozat
-
-## Az ellátást kérelmező személyre vonatkozó személyi adatok:
-
-## Neve:
-
-## Születési neve:
-
-## Anyja neve:
-
-## Születési hely, év, hó, nap:
-
-## Lakcím: település:   utca/házszám:   ir.szám:
+## Tartózkodási hely:
 
 ## (itt azt a lakcímet kell megjelölni, ahol a kérelmező életvitelszerűen tartózkodik)
 
@@ -300,263 +86,213 @@
 
 ## Az 1993. évi III. törvény 117/B. §-a szerint a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését az ellátást igénylő vagy a térítési díjat megfizető más személy vállalja-e (a rovat kitöltése nem minősül tényleges vállalásnak):
 
-## ⬜ igen – ebben az esetben a Jövedelemnyilatkozat 1–2. pontját és a „Vagyonnyilatkozat tartós bentlakásos idősotthoni ellátás kérelmezése esetén” elnevezésű űrlapot nem kell kitölteni,
+## □ igen - ebben az esetben a jövedelemnyilatkozat további részét és a „III. Vagyonnyilatkozat” nyomtatványt nem kell kitölteni,
 
-## ⬜ nem.
+## □ nem
 
-| A személyes gondoskodást nyújtó alapszolgáltatás, illetve szakosított ellátás esetén: |  |
+## Az ellátást kérelmező személyre vonatkozó jövedelmi adatok:
 
-| 1. az ellátást igénylő rendszeres (bruttó) havi jövedelme: |  |
+| A jövedelem típusa | Nettó összege |
 
-| 1.1. Munkaviszonyból és más foglalkoztatási jogviszonyból származó: |  |
+| Munkaviszonyból és más foglalkoztatási jogviszonyból származó |  |
 
-| 1.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó: |  |
+| Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékenységből származó |  |
 
-| 1.3. Alkalmi munkavégzésből, egyszerűsített foglalkoztatásból származó: |  |
+| Táppénz, gyermekgondozási támogatások |  |
 
-| 1.4. Táppénz, gyermekgondozási támogatások: |  |
+| Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |
 
-| 1.5. Önkormányzat és munkaügyi szervek által folyósított ellátások: |  |
+| Önkormányzat és munkaügyi szervek által folyósított ellátások |  |
 
-| Amennyiben az erre vonatkozó igazolás beszerzését hivatalból kéri, az ellátást folyósító szerv neve és címe: |  |
+| Egyéb jövedelem |  |
 
-| 1.6. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: |  |
+| Összes jövedelem |  |
 
-| 1.7. Egyéb jövedelem: |  |
+## Kiskorú igénybe vevő esetén a családban élőkre vonatkozó (nettó) jövedelmi adatok:
 
-| 2. összes (nettó) havi jövedelem: |  |
+## (kizárólag kiskorú kérelmező esetén szükséges kitölteni)
 
-| Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek. A térítési díj megállapításához szükséges jövedelmet igazoló bizonylatokat egyidejűleg csatoltam. Hozzájárulok a kérelemben szereplő adatoknak a szociális igazgatási eljárás során történő felhasználásához. |  |
+| A család létszáma: ................ fő | Munkaviszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékenységből származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és munkaügyi szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíj- szerű rendszeres szociális ellátások | Egyéb jöve- delem |
 
-| Dátum: |  |
+| Az ellátást igénybe vevő kiskorú |  |  |  |  |  |  |
 
-|  | Az ellátást igénybe vevő (törvényes képviselő) aláírása: |
+| A közeli hozzátartozók neve, születési ideje | Rokoni kapcsolat |  |  |  |  |  |  |
 
-## II.
+| 1) |  |  |  |  |  |  |  |
 
-## Jövedelemnyilatkozat étkeztetés, házi segítségnyújtás igényléséhez
+| 2) |  |  |  |  |  |  |  |
 
-## Személyi adatok
+| 3) |  |  |  |  |  |  |  |
 
-## 1. Az ellátást kérelmező személyre vonatkozó személyi adatok:
+| 4) |  |  |  |  |  |  |  |
 
-## Neve:
+| 5) |  |  |  |  |  |  |  |
 
-## Születési neve:
-
-## Anyja neve:
-
-## Születési hely, év, hó, nap:
-
-## Lakcím: település:…………………………utca/házszám:…………………………..ir.szám:……….....…
-
-## (itt azt a lakcímet vagy tartózkodási címet kell megjelölni, ahol a kérelmező életvitelszerűen tartózkodik)
-
-## Telefonszám (nem kötelező megadni): ........................................................................................
-
-## 2. Az ellátást kérelmező családi állapota:
-
-## ⬜ egyedülálló
-
-## ⬜ házastársával/élettársával él együtt
-
-## 3. A családban élők adatai:
+| ÖSSZESEN: |  |  |  |  |  |  |
 
 ## (szükség esetén a táblázat sorai bővíthetők)
 
-|  |  | Neve | Rokoni kapcsolat* | Születési hely, év, hó, nap | Anyja neve | 16. évet betöltött személy esetén az oktatási intézmény megnevezése | Megjegyzés** |
+## Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek. A térítési díj megállapításához szükséges jövedelmet igazoló bizonylatokat egyidejűleg csatoltam. Hozzájárulok a kérelemben szereplő adatoknak az eljárás során történő felhasználásához
 
-| Az ellátást igénylő | kérelmező |  |  |  |  |  |  |
+## Dátum:………………………..
 
-| + a vele családban élő | házastársa/élettársa |  |  |  |  |  |
+## ………………………………………….
 
-| gyermeke 1 |  |  |  |  |  |
+## az ellátást igénybe vevő
 
-| gyermeke 2 |  |  |  |  |  |
-
-| gyermeke 3 |  |  |  |  |  |
-
-| gyermeke 4 |  |  |  |  |  |
-
-| gyermeke 5 |  |  |  |  |  |
-
-| további közeli hozzátartozója 1 |  |  |  |  |  |  |
-
-| további közeli hozzátartozója 2 |  |  |  |  |  |  |
-
-| további közeli hozzátartozója 3 |  |  |  |  |  |  |
-
-| * A kérelmező: egyeneságbeli rokona (szülő, nagyszülő), örökbefogadott, a mostoha- és nevelt gyermeke, az örökbefogadó, a mostoha- és a nevelőszülője, valamint testvére |
-
-| ** Ebben az oszlopban kell feltüntetni, ha |
-
-| - a 16-20 év közötti gyermek nem jár oktatási intézménybe, de önálló keresettel még nem rendelkezik, vagy |
-
-| - életkortól függetlenül a tartós betegség vagy fogyatékosság fennállását. |
-
-## 4. A család lakóhelye: település:…………………………utca/házszám:…………………………..ir.szám:…………
-
-## A család létszáma: …………………………………… fő
-
-## Jövedelmi adatok:
-
-## 1. A családtagok jövedelme
-
-## (a családtagokat a 3. pontban megadott sorrendben kell feltüntetni)
-
-|  |  | Munkaviszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó | Alkalmi munkavégzésből , egyszerűsített foglalkoztatásból származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és munkaügyi szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások | Egyéb jövedelem | Összes jövedelem |
-
-| Az ellátást igénylő | kérelmező |  |  |  |  |  |  |  |  |
-
-| + a vele családban élő | házastársa/élettársa |  |  |  |  |  |  |  |  |
-
-| gyermeke 1 |  |  |  |  |  |  |  |  |
-
-| gyermeke 2 |  |  |  |  |  |  |  |  |
-
-| gyermeke 3 |  |  |  |  |  |  |  |  |
-
-| gyermeke 4 |  |  |  |  |  |  |  |  |
-
-| gyermeke 5 |  |  |  |  |  |  |  |  |
-
-| további közeli hozzátartozója 1 |  |  |  |  |  |  |  |  |
-
-| további közeli hozzátartozója 2 |  |  |  |  |  |  |  |  |
-
-| további közeli hozzátartozója 3 |  |  |  |  |  |  |  |  |
-
-| ÖSSZESEN: |  |  |  |  |  |  |  |  |
-
-## Felelősségem tudatában kijelentem, hogy életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó, a kérelemben közölt adatok a valóságnak megfelelnek.
-
-## Dátum: ………………………….
-
-## ……………………………………….
-
-## Kérelmező/törvényes képviselő aláírása
+## (törvényes képviselő) aláírása
 
 ## III.
 
-## Vagyonnyilatkozat tartós bentlakásos idősotthoni ellátás kérelmezése esetén
+## VAGYONNYILATKOZAT
 
-## A nyilatkozó személyi adatai
+## (tartós bentlakásos intézményi ellátás kérelmezése esetén
 
-## Neve:
+## kell kitölteni)
 
-## Születési neve:
+## 1. A nyilatkozóra vonatkozó személyes adatok:
+
+## Név:
+
+## Születési név:
 
 ## Anyja neve:
 
-## Születési hely, év, hó, nap:
+## Születési hely, idő:
 
 ## Lakóhely:
 
 ## Tartózkodási hely:
 
-## A nyilatkozó vagyona
+## (itt azt a lakcímet kell megjelölni, ahol a kérelmező életvitelszerűen tartózkodik)
 
-## 1. Lakástulajdon és lakótelek-tulajdon címe: ................. város/község ................... út/utca.................... hsz., ………. helyrajzi szám, alapterülete: ........... m2, tulajdoni hányad: ..........................., a szerzés ideje: ................ év
+## Telefonszám (nem kötelező megadni):
 
-## Becsült forgalmi érték:* .......................................... Ft
+## A nyilatkozó vagyona:
 
-## Haszonélvezeti joggal terhelt: igen nem (a megfelelő aláhúzandó)
+## 2. Pénzvagyon
 
-## 2. Üdülőtulajdon és üdülőtelek-tulajdon címe: ....................... város/község .................................. út/utca .................... hsz., ………. helyrajzi szám, alapterülete: ........... m2, tulajdoni hányad: ...................., a szerzés ideje: ................ év
+## 1. A nyilatkozó rendelkezésére álló készpénz összege: Ft
 
-## Becsült forgalmi érték:* .......................................... Ft
+## 2. Bankszámlán/fizetési számlán rendelkezésre álló összeg, ideértve a bankszámlán/fizetési számlán lekötött betéteket és a betétszerződés alapján rendelkezésre álló összeget is: Ft
 
-## 3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.): ............................ címe: ................................... város/község........................... út/utca .................... hsz., ………. helyrajzi szám, alapterülete: ........... m2, tulajdoni hányad: ................., a szerzés ideje: ................ év
+## A számlavezető pénzintézet neve, címe:
 
-## Becsült forgalmi érték:* .......................................... Ft
+## 3. Takarékbetét-szerződés alapján rendelkezésre álló összeg: Ft
 
-## 4. Termőföldtulajdon megnevezése: .......................... címe: ........................................ város/község .............................. út/utca .................... hsz., ………. helyrajzi szám, alapterülete: ........... m2, tulajdoni hányad: ...................., a szerzés ideje: ................ év
+## A betétszámlát vezető pénzintézet neve, címe:
 
-## Becsült forgalmi érték:* .......................................... Ft
+## Rehabilitációs intézmény és rehabilitációs célú lakóotthon esetén a „3. Ingatlanvagyon” pontot nem kell kitölteni!
 
-## 5. 18 hónapon belül ingyenesen átruházott ingatlan címe……………………..város/község…………………..
+## 3. Ingatlanvagyon
 
-## út/utca……..hsz., ………. helyrajzi szám, alapterülete……..m², tulajdoni hányad………….., az átruházás ideje……………….
+## 1. Lakástulajdon és lakótelek-tulajdon címe:
 
-## Becsült forgalmi érték:*……………………………Ft
+## helyrajzi száma: , a lakás alapterülete: ........ m2, a telek alapterülete: ........ m2, tulajdoni hányad: .........., a szerzés ideje: ............ év
+
+## Becsült forgalmi érték: ………………………Ft
+
+## Haszonélvezeti joggal terhelt: igen/nem (a megfelelő aláhúzandó)
+
+## 2. Üdülőtulajdon és üdülőtelek-tulajdon címe:
+
+## helyrajzi száma: …………, az üdülő alapterülete: ........ m2, a telek alapterülete: ........ m2, tulajdoni hányad: .........., a szerzés ideje: ............ év
+
+## Becsült forgalmi érték: ………………………Ft
+
+## 3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.): ................................ címe:
+
+## helyrajzi száma: …………, alapterülete: ........ m2, tulajdoni hányad: .........., a szerzés ideje: ............ év
+
+## Becsült forgalmi érték: ………………………Ft
+
+## 4. Termőföldtulajdon megnevezése: ................................. címe:
+
+## helyrajzi száma: …………, alapterülete: ........ m2, tulajdoni hányad: .........., a szerzés ideje: ............ év
+
+## Becsült forgalmi érték: ………………………Ft
+
+## 5. 18 hónapon belül ingyenesen átruházott ingatlan címe
+
+## helyrajzi száma: ……......, alapterülete .......... m2, tulajdoni hányad ........, az átruházás ideje ........... év
+
+## Becsült forgalmi érték: ………………………Ft
 
 ## 6. Ingatlanhoz kötődő vagyoni értékű jog:
 
-## A kapcsolódó ingatlan megnevezése…………………...................címe:…… …………………….város/község ………………………út/utca……..hsz. A vagyoni értékű jog megnevezése: haszonélvezeti ⬜, használati ⬜, földhasználati ⬜, lakáshasználati ⬜, haszonbérleti ⬜, bérleti ⬜, jelzálogjog ⬜, egyéb ⬜.**
+## A kapcsolódó ingatlan megnevezése .......................... címe:
 
-## Ingatlan becsült forgalmi értéke:* …………………………...Ft
+## helyrajzi száma: ……………
 
-## Kijelentem, hogy a fenti adatok a valóságnak megfelelnek. Hozzájárulok a nyilatkozatban szereplő adatoknak a szociális igazgatási eljárásban történő felhasználásához, kezeléséhez.
+## A vagyoni értékű jog megnevezése: haszonélvezeti □, használati □, földhasználati □, lakáshasználati □, haszonbérleti □, bérleti □, jelzálogjog □, egyéb □.
 
-## Kelt: .......... év .............................. hó ............ nap
+## Ingatlan becsült forgalmi értéke: ………………………Ft
 
-## ................................................
+## Kijelentem, hogy a fenti adatok a valóságnak megfelelnek. Hozzájárulok a nyilatkozatban szereplő adatoknak az eljárásban történő felhasználásához, kezeléséhez.
 
-## Kérelmező/ törvényes képviselő
+## Dátum:………………………..
 
-## aláírása
+## ………………………………………….
+
+## az ellátást igénybe vevő
+
+## (törvényes képviselő) aláírása
 
 ## Megjegyzés:
 
-## Ha a nyilatkozó vagy családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyar Köztársaság területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
+## Ha a nyilatkozó vagy kiskorú igénybe vevő esetén családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyar Köztársaság területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
 
-## __________
-
-## * Becsült forgalmi értékként az ingatlannak a településen szokásos forgalmi értékét kell feltüntetni.
-
-## ** A megfelelő választ X-szel kell jelölni.
-
-## Tájékoztató a jövedelemnyilatkozat kitöltéséhez
+## Tájékoztató a jövedelem- és a vagyonnyilatkozat kitöltéséhez
 
 ## I. Személyi adatok
 
-## Család alatt az egy lakásban, vagy személyes gondoskodást nyújtó bentlakásos szociális, gyermekvédelmi intézményben együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező közeli hozzátartozók közösségét kell érteni. Közeli hozzátartozó a jövedelemvizsgálat vonatkozásában a házastárs, az élettárs, a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, illetve nevelt gyermek, korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (fogyatékos gyermek), továbbá a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa.
+## Család alatt az egy lakásban, vagy személyes gondoskodást nyújtó bentlakásos szociális, gyermekvédelmi intézményben együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező közeli hozzátartozók közösségét kell érteni.
 
-## Egyedülálló az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van. A házastársak akkor tekinthetők különélőnek, ha a lakcímük különböző.
-
-## Az idősotthoni ellátást igénylőnek csak saját személyi adatait kell feltüntetnie.
+## Közeli hozzátartozó a jövedelemvizsgálat vonatkozásában a házastárs, az élettárs, a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, illetve nevelt gyermek, korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (fogyatékos gyermek), továbbá a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa.
 
 ## II. Jövedelmi adatok
 
-## Jövedelem: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
+## Jövedelem: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó - megszerzett - vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
 
 ## A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj. Befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
 
 ## Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, illetve az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, ha havi ellenértéke a minimálbér 50%-át nem haladja meg.
+## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
 
-## A családtagok jövedelmét külön-külön kell feltüntetni. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
+## A családtagok jövedelmét kizárólag kiskorú igénybe vevő esetén kell feltüntetni, külön-külön. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
 ## A havi jövedelem kiszámításakor
 
-## – rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap,
+## - rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap,
 
-## – nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap
+## - nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap
 
 ## alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
-## Jövedelem típusai:
+## III. Jövedelem típusai
 
-## 1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+## 1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, köztisztviselői jogviszonyban, kormánytisztviselői jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott - személyes közreműködést igénylő - tevékenységből származó jövedelem.
 
-## 2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
+## 2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-## 3.  Alkalmi munkavégzésből, illetve egyszerűsített foglalkoztatásból származó jövedelem: alkalmi munkavállalói könyvvel történő foglalkoztatás, illetve az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, illetve az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, ha havi mértéke a minimálbér 50%-át nem haladja meg.
+## 3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
-## 4. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+## 4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
 
-## 5. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
+## 5. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
-## 6. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+## 6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
-## 7. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
+## Szükség esetén a nyilatkozatok rovatai bővíthetők, valamint kitöltésük mellékletben folytatható.
 
-## A jövedelemnyilatkozatban szereplő jövedelmekről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
+## A jövedelemnyilatkozatban szereplő jövedelmekről a jövedelem típusának megfelelő iratot vagy annak másolatát kell a kérelemhez mellékelni.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez
+## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-## Előgondozási adatlap I.
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^55]
+
+## ELŐGONDOZÁSI ADATLAP I.
 
 1. Felvétel helye, ideje:
 
@@ -564,23 +300,19 @@
 
 a) név:
 
-b) leánykori név:
+b) lakcím:
 
-c) anyja neve:
+c) családi helyzete:
 
-d) lakcím:
+d) családi állapota:
 
-e) családi helyzete:
+e) iskolai végzettsége*:
 
-f) családi állapota:
-
-g) iskolai végzettsége:
-
-h) foglalkozása:
+f) foglalkozása*:
 
 3. Lakáskörülményre vonatkozó adatok:
 
-a) lakás tulajdoni jellege:
+a) lakás tulajdoni jellege*:
 
 b) lakókörnyezet minősége:
 
@@ -590,35 +322,35 @@ c) lakás állapota:
 
 a) legközelebbi hozzátartozói (elérhetőség, cím, telefonszám):
 
-b) közös háztartásban élő gondoskodásra szoruló hozzátartozó:
+b) közös háztartásban élő gondoskodásra szoruló hozzátartozó*:
 
-5.[^49] Szociális helyzetére vonatkozó adatok:
+5. Szociális helyzetére vonatkozó adatok:
 
-a) részesült-e az igénybevételt megelőző 6 hónapon belül:
+Részesült-e az igénybevételt megelőző 6 hónapon belül:
 
-aa) nappali ellátásban,
+a) nappali ellátásban,
 
-ab) étkeztetésben,
+b) étkeztetésben,
 
-ac) házi segítségnyújtásban,
+c) házi segítségnyújtásban,
 
-ad) jelzőrendszeres házi segítségnyújtásban,
+d) jelzőrendszeres házi segítségnyújtásban,
 
-ae) otthonápolásban,
+e) otthonápolásban,
 
-af) támogató szolgáltatásban,
+f) támogató szolgáltatásban,
 
-ag) családsegítésben,
+g) családsegítésben,
 
-ah) pszichiátriai betegek közösségi ellátásában,
+h) pszichiátriai betegek közösségi ellátásában,
 
-ai) szenvedélybetegek közösségi ellátásában,
+i) szenvedélybetegek közösségi ellátásában,
 
-aj) pénzbeli vagy természetbeni szociális segélyben,
+j) pénzbeli vagy természetbeni szociális segélyben,
 
-ak) átmeneti otthoni elhelyezésben.
+k) átmeneti otthoni elhelyezésben.
 
-6. Egészségi állapotára vonatkozó gondozói vélemény:[^50]
+6. Egészségi állapotára vonatkozó gondozói vélemény:
 
 a) mozgásképesség:
 
@@ -630,19 +362,13 @@ d) szenzoros funkciók (hallás, látás, szaglás, ízérzés):
 
 e) magatartás, kommunikációs készség:
 
-f) egyéb megjegyzések:
+7. Cselekvőképességet érintő gondnokság alatt áll-e:
 
-7. Fogyatékos személyeket ellátó intézmény, pszichiátriai betegeket ellátó intézmény, szenvedélybetegek otthona esetében:
+a) ha igen, gondnok neve, címe:
 
-a) cselekvőképességet érintő gondnokság alatt áll-e:
+b) milyen gondnokság (kizáró, korlátozó, ideiglenes, végleges):
 
-aa) ha igen, gondnok neve, címe:
-
-ab) milyen gondnokság (kizáró, korlátozó, ideiglenes, végleges):
-
-8. A háziorvos, kezelőorvos megjegyzései:
-
-9. Az e rendeletben előírt kapcsolatfelvétel ideje, módja:
+8. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szólórendeletben előírt kapcsolatfelvétel ideje, módja*:
 
 a) a szociális ellátást biztosító személlyel, intézménnyel:
 
@@ -654,7 +380,7 @@ d) gyámhivatallal:
 
 e) törvényes képviselővel, hozzátartozóval:
 
-10. Az előgondozást végző személy összegző véleménye:
+9. Az előgondozást végző személy összegző véleménye:
 
 a) elhelyezés sürgősségére vonatkozó indok:
 
@@ -666,8 +392,12 @@ d) más szolgáltatás, ellátás kezdeményezése:
 
 e) ennek oka:
 
+10. Egyéb megjegyzések az igénybe vevővel kapcsolatban:
+
 Az előgondozást végző személy neve, aláírása:
 
-[^48]: Az igényelt ellátást X-szel kell jelölni.
-[^49]: A 2. számú melléklet 5. pontja a 9/2009. (IV. 11.) SZMM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^50]: Indokolt esetben szükséges az egyes részeket kitölteni.
+____________________
+
+* nem kötelező kitölteni
+
+[^55]: Az 2. számú melléklet a 27/2010. (XII. 30.) NEFMI rendelet 10. § (2) bekezdésével megállapított szöveg.

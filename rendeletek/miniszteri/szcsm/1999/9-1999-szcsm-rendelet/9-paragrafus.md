@@ -1,6 +1,6 @@
-## 8. §[^18]
+## 8. §[^20]
 
-9. § (1)[^19] Az előgondozás során az előgondozást végző személy szükség esetén felveszi a kapcsolatot
+9. § (1)[^21] Az előgondozás során az előgondozást végző személy szükség esetén felveszi a kapcsolatot
 
 a) az igénybe vevő szociális ellátását biztosító intézménnyel, a szolgáltatást biztosító személlyel,
 
@@ -14,5 +14,5 @@ e) az ellátást igénybe vevő törvényes képviselőjével, illetve legközel
 
 (2) Az előgondozást végző személy szükség esetén segítséget nyújt az ellátást igénybe vevőnek az előgondozás során észlelt és hatáskörébe nem tartozó probléma megoldásához.
 
-[^18]: A 8. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének c) pontja hatályon kívül helyezte.
-[^19]: A 9. § (1) bekezdésének bevezető szövege a 37/2007. (XII. 22.) SZMM rendelet 16. §-ával megállapított, a 8/2010. (IX. 3.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+[^20]: A 8. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^21]: A 9. § (1) bekezdésének bevezető szövege a 37/2007. (XII. 22.) SZMM rendelet 16. §-ával megállapított, a 8/2010. (IX. 3.) NEFMI rendelet 4. §-a szerint módosított szöveg.

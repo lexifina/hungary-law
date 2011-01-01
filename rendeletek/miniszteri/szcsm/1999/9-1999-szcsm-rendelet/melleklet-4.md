@@ -1,54 +1,46 @@
-## Előgondozási adatlap II.
+## ELŐGONDOZÁSI ADATLAP II.
 
 ## 1. Felvétel helye, ideje:
 
 ## 2. Az ellátást igénybe vevő neve, lakcíme:
 
-## 3. Otthonbakerülés módja
-
-## a) beutalás:
-
-## b) soron kívüli elhelyezés:
-
-## c) áthelyezés:
-
-## d) intézményvezetői felvétel:
-
-## 4. Beköltözés módja:
-
-## segítség szükséges-e:
+## 3. Beköltözéséhez segítség szükséges-e:
 
 ## ha igen, milyen típusú:
 
-## 5. Milyen segítségnyújtást igényel:
+## 4. Milyen tárgyakat kíván magával vinni beköltözéskor:
 
-## 6. Az intézménnyel kapcsolatos elvárásai:
+## 5. Az igénybe vevőnek a beköltözés időpontjára vonatkozó nyilatkozata:
 
-## 7. Elhelyezéssel kapcsolatos kérése:
+## 6. Egyéb, a beköltözéssel kapcsolatos megjegyzés:
 
-## 8. Életvitele, jellemző szokásai:
+## 7. Milyen segítségnyújtást igényel az intézményben:
 
-## 9. Szabadidő eltöltésének módja:
+## 8. Elhelyezéssel kapcsolatos kérése:
 
-## 10. Kapcsolatteremtő képessége:
+## 9. Életvitele, jellemző szokásai*:
 
-## 11. Látogatók várható száma, látogatás gyakorisága:
+## 10. Szabadidő eltöltésének módja*:
 
-## 12. Saját ruházattal rendelkezik-e:
+## 11. Kapcsolatteremtő képessége:
 
-## 13. Milyen tárgyakat kíván magával vinni beköltözéskor:
+## 12. Látogatók várható száma, látogatás gyakorisága:
+
+## 13. Saját ruházattal rendelkezik-e:
 
 ## 14. Esetleges eltávozásra vonatkozó igénye:
 
-## 15. Vallásgyakorlásra vonatkozó igény:
+## 15. Hitéleti tevékenység gyakorlására vonatkozó igény*:
 
-## 16. Az igénylőnek a beköltözés időpontjára vonatkozó nyilatkozata:
-
-## 17. Egyéb, a beköltözéssel kapcsolatos megjegyzés:
+## 16. Egyéb, a beköltözéssel kapcsolatos megjegyzés:
 
 ## Az előgondozást végző személy neve, aláírása:
 
-4. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^51]
+## ____________________
+
+## * nem kötelező kitölteni
+
+4. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^57]
 
 ## Egyszerűsített előgondozási adatlap
 
@@ -76,4 +68,4 @@ e) magatartás, kommunikációs készség:
 
 Az előgondozást végző személy neve, aláírása:
 
-[^51]: A 4. számú melléklet a 10/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^57]: A 4. számú melléklet a 10/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdésével megállapított szöveg.
