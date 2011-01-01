@@ -1,3 +1,0 @@
-## ELSŐ RÉSZ
-
-## ÁLTALÁNOS SZABÁLYOK
