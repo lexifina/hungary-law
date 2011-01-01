@@ -1,12 +1,12 @@
-3. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^17]
+3. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^20]
 
 ## A feltárás során alkalmazható módszerek
 
-A feltárást a regionális igazgatóság által működtetett feltáró csoport (explorációs team) végzi, amely legalább három tagú, vezetőjét a regionális igazgatóság vezetője bízza meg a foglalkozásvezetői jogosultsággal rendelkező személyek közül. A csoportot úgy kell összeállítani, hogy abban valamennyi program végzésére legyen minősített szakember.
+A feltárást a közlekedési hatóság által működtetett feltáró csoport (explorációs team) végzi, amely legalább három tagú, vezetőjét a közlekedési hatóság vezetője bízza meg a foglalkozásvezetői jogosultsággal rendelkező személyek közül. A csoportot úgy kell összeállítani, hogy abban valamennyi program végzésére legyen minősített szakember.
 
 (A feltárást végző szakember az általa vizsgált személynél – annak utánképzése során – foglalkozásvezetőként nem vehet részt.)
 
-1. A közlekedési ismeretekben, képzettségben meglévő hiányosságok feltárása a közlekedési jogszabályok és a járművezetés elmélete tárgyköréből a Központi Hivatal által összeállított feladatlappal történik.
+1.[^21] A közlekedési ismeretekben, képzettségben meglévő hiányosságok feltárása a közlekedési jogszabályok és a járművezetés elmélete tárgyköréből a Nemzeti Közlekedési Hatóság Központja (a továbbiakban: Központ) által összeállított feladatlappal történik.
 
 A feladatlap megoldására a kötelezett 50 percet fordíthat.
 
@@ -20,4 +20,5 @@ Amennyiben a kötelezett jellemzően egyéb kategóriába tartozó jármű vezet
 
 Az utánképzésre kötelezés alapjául szolgáló cselekmény (cselekmények), valamint a feltárás eredményeinek összevetése és elemzése után a feltáró csoport az utánképzési programok közül a domináns probléma megoldását várhatóan leghatékonyabban szolgálóra irányítja a kötelezettet.
 
-[^17]: A 3. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 28. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 3. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^21]: A 3. számú melléklet 1. alpontja a 351/2010. (XII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## Az utánképzés programja az utánképzésre kötelezés alapjául szolgáló cselekmény(ek)től és az utánképzésre kötelezett közlekedési képzettségében, kultúrájában, illetőleg közlekedési magatartásában feltárt hiányosságoktól, valamint attól függ, hogy a kötelezett korábban már részt vett-e utánképzésben.
 
-## I.[^9] program
+## I.[^11] program
 
 ## A közlekedési képzettség hiányosságainak megszüntetésére irányuló elméleti foglalkozás
 
@@ -14,7 +14,7 @@
 
 ## Tárgyi feltételek:
 
-## — a regionális igazgatóság által e tevékenységre alkalmasnak minősített helyiség, a csoportlétszámnál legalább kettővel több, jegyzetelésre is lehetőséget nyújtó ülőhellyel;
+## —[^12] a közlekedési hatóság által e tevékenységre alkalmasnak minősített helyiség, a csoportlétszámnál legalább kettővel több, jegyzetelésre is lehetőséget nyújtó ülőhellyel;
 
 ## — keretezett diaképek kivetítésére alkalmas diavetítő vetítővászonnal, vagy egyéb, ezzel egyenértékű berendezés;
 
@@ -22,7 +22,7 @@
 
 ## — falitábla krétával vagy más, ezzel egyenértékű demonstrációs eszköz.
 
-## II.[^10] program
+## II.[^13] program
 
 ## A közlekedési képzettség, kultúra és magatartás hiányosságainak és hibáinak megszüntetését célzó járművezetési gyakorlati foglalkozás
 
@@ -36,7 +36,7 @@
 
 ## Tárgyi feltételek: azonosak a megfelelő járműkategóriájú járművezető-képző tanfolyamok járművezetési gyakorlati foglalkozásaival.
 
-## III.[^11] program
+## III.[^14] program
 
 ## A közlekedési szabályok megtartását célzó foglalkozás
 
@@ -50,7 +50,7 @@
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## IV.[^12] program
+## IV.[^15] program
 
 ## Magatartásformálás
 
@@ -64,7 +64,7 @@
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## V.[^13] program
+## V.[^16] program
 
 ## Az ,,enyhén ittas vezetők'' foglalkozása
 
@@ -78,7 +78,7 @@
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## VI.[^14] program
+## VI.[^17] program
 
 ## A ,,közepesen ittas vezetők'' foglalkozása
 
@@ -92,7 +92,7 @@
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## VII.[^15] program
+## VII.[^18] program
 
 ## A ,,súlyosan ittas, vagy visszatérő ittas vezetők'' foglalkozása
 
@@ -106,13 +106,14 @@
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-2. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^16]
+2. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^19]
 
-[^9]: Az 1. számú melléklet I. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 28–29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: Az 1. számú melléklet II. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: Az 1. számú melléklet III. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: Az 1. számú melléklet IV. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: Az 1. számú melléklet V. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: Az 1. számú melléklet VI. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: Az 1. számú melléklet VII. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: Az 1. számú melléklet I. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 28–29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: Az 1. számú melléklet I. cím 1. franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^13]: Az 1. számú melléklet II. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: Az 1. számú melléklet III. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: Az 1. számú melléklet IV. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: Az 1. számú melléklet V. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: Az 1. számú melléklet VI. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: Az 1. számú melléklet VII. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
