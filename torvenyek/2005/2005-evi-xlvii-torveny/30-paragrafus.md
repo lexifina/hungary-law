@@ -6,6 +6,6 @@
 
 (3) A szakértőjelölt az igazságügyi szakértői tevékenység folytatásához szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
-(4) A szakértőjelölt kérelmére a szakértői kamara a szakértőjelölti minőség igazolására igazgatási szolgáltatási díj ellenében 10 munkanapon belül hatósági igazolványt állít ki, amely tartalmazza a szakértőjelölt nevét, születési helyét és idejét, anyja születési nevét, a szakértőjelölti igazolvány számát, valamint a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő nevét és nyilvántartási számát. Az igazolvány kiállítására az a szakértői kamara illetékes, amelynek a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő a tagja.
+(4) A szakértőjelölt kérelmére a szakértői kamara a szakértőjelölti minőség igazolására igazgatási szolgáltatási díj ellenében tizenöt napon belül hatósági igazolványt állít ki, amely tartalmazza a szakértőjelölt nevét, születési helyét és idejét, anyja születési nevét, a szakértőjelölti igazolvány számát, valamint a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő nevét és nyilvántartási számát. Az igazolvány kiállítására az a szakértői kamara illetékes, amelynek a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő a tagja.
 
 (5) A szakértői kamara az igazolványt akkor állítja ki, ha a szakértőjelölt a kérelemhez mellékelte a munkája felügyeletének alapjául szolgáló jogviszonyról szóló okiratot.

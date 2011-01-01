@@ -26,7 +26,7 @@ k) a kirendelő előzetes hozzájárulását a vizsgálati tárgy megváltozás�
 
 (3) Az igazságügyi szakértő, a társaság, az igazságügyi szakértői intézmény és az igazságügyi szakértői testület megbízás alapján is adhat szakvéleményt, ha ez a kirendelő hatóságoktól származó feladatainak ellátását nem akadályozza és azzal nem összeférhetetlen; a szakértői tevékenységre e törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(4) A szakértő köteles a tudomására jutásától számított három munkanapon belül – szakértői intézmény, társaság vagy szervezet kirendelése esetén nyolc munkanapon belül, annak vezetője útján – közölni a kirendelő hatósággal, ha
+(4) A szakértő köteles a tudomására jutásától számított öt napon belül – szakértői intézmény, társaság vagy szervezet kirendelése esetén tíz napon belül, annak vezetője útján – közölni a kirendelő hatósággal, ha
 
 a) a személyére nézve törvényben meghatározott kizáró ok áll fenn,
 
