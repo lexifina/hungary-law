@@ -352,7 +352,7 @@
 
 ## ”
 
-4. számú melléklet a 45/2004. (XII. 29.) PM rendelethez[^3]
+4. számú melléklet a 45/2004. (XII. 29.) PM rendelethez[^4]
 
 Az R. a következő 12. melléklettel egészül ki:
 
@@ -408,4 +408,4 @@ Az R. a következő 12. melléklettel egészül ki:
 
 ”
 
-[^3]: A Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.
+[^4]: A Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.

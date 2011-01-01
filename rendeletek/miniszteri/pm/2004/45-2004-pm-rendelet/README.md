@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-45-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2004-45-20-53.2 | 45/2004. (XII. 29.) PM rendelet |
+| 2011-01-01 | 2004-45-20-53.3 | 2010: CXXII. törvény |
