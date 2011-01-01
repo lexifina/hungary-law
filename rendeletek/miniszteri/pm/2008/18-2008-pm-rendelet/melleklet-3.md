@@ -288,6 +288,6 @@
 
 ## – biztosítók és biztosítási termékek és más pénzügyi termékek általános összehasonlítási szempontjai és kapcsolódási pontjai
 
-3. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^33]
+3. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^34]
 
-[^33]: A 3. számú melléklet a 37/2009. (XII. 22.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^34]: A 3. számú melléklet a 37/2009. (XII. 22.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.

@@ -34,9 +34,10 @@ c) a jegyzékbe való felvétel időpontját,
 
 d) a jegyzékből való törlés időpontját és okát.
 
-(7) A képző szerv a (4) bekezdésben és a (6) bekezdés a) pontjában foglaltak változását a Hatóságnak a változástól számított 5 munkanapon belül bejelenti.
+(7)[^4] A képző szerv a (4) bekezdésben és a (6) bekezdés a) pontjában foglaltak változását a Hatóságnak a változástól számított 8 napon belül bejelenti.
 
 (8) A képző szerv jegyzékben foglalt adatait a tevékenység ellenőrzése, valamint egyéb hatósági, bírósági eljárásban történő felhasználás céljából a Hatóság a képző szerv jegyzékből való törlését követően 5 évig megőrzi.
 
 [^2]: A 2. § a 37/2009. (XII. 22.) PM rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § (4) bekezdés e) pontját a 18/2010. (IV. 29.) PM rendelet 22. § (1) bekezdése iktatta be.
+[^4]: A 2. § (7) bekezdése a 26/2010. (XII. 31.) NGM rendelet 7. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

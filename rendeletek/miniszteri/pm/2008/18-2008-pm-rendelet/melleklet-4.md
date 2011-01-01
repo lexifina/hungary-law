@@ -20,6 +20,6 @@
 
 ## aláírás
 
-4. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^34]
+4. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^35]
 
-[^34]: A 4. számú melléklet a 37/2009. (XII. 22.) PM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^35]: A 4. számú melléklet a 37/2009. (XII. 22.) PM rendelet 9. § (3) bekezdésével megállapított szöveg.
