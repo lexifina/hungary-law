@@ -48,6 +48,6 @@
 
 | Pénzkészlet összesen (08+09+10+11) (12=05+06–07) | 12 |  |
 
-6. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^423]
+6. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^438]
 
-[^423]: A 6. számú melléklet a 400/2007. (XII. 27.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. §-a alapján a rendelkezést a 2007. évről összeállított éves költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^438]: A 6. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.

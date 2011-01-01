@@ -1,1 +1,0 @@
-## Az eszközök értékvesztése

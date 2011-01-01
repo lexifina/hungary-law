@@ -2,7 +2,7 @@
 
 | Ezer forintban |
 
-| Megnevezés | Sorszám | Előző év | Tárgyév |
+| Megnevezés | Sor- szám | Előző év | Tárgyév |
 
 | A. Vállalkozási tevékenység bevételi előirányzata | 01 |  |  |
 
@@ -18,7 +18,7 @@
 
 | 2. Vállalkozási tevékenység működési célú pénzforgalom nélküli bevétele | 07 |  |  |
 
-| I. Vállalkozási tevékenység működési célú költségvetési bevételei (1+2) | 08 |  |  |
+| I. Vállalkozási tevékenység működési célú költségvetési bevételei (1+2) | 08 |  |  |
 
 | – Értékesített immateriális javak, tárgyi eszközök bevétele | 09 |  |  |
 
@@ -36,114 +36,92 @@
 
 | 4. Vállalkozási tevékenység felhalmozási célú pénzforgalom nélküli bevétele | 16 |  |  |
 
-| II. Vállalkozási tevékenység felhalmozási célú költségvetési bevételei (3+4) | 17 |  |  |
+| II. Vállalkozási tevékenység felhalmozási célú költségvetési bevételei (3+4) | 17 |  |  |
 
 | 5. Rövid lejáratú hitelek bevételei | 18 |  |  |
 
-| 6. Rövid lejáratú likvid hitelek és rövid lejáratú működési célú kötvénykibocsátás bevételei | 19 |  |  |
+| 6. Hosszú lejáratú hitelek és kötvénykibocsátás bevételei | 19 |  |  |
 
-| 7. Forgatási célú értékpapírok bevételei | 20 |  |  |
+| 7. Befektetési célú értékpapírok bevételei | 20 |  |  |
 
-| III. Vállalkozási tevékenység forgatási célú finanszírozási bevételei (5+...+7) | 21 |  |  |
+| III. Vállalkozási maradványban figyelembe vehető finanszírozási bevételek (5+6+7) | 21 |  |  |
 
-| 8. Hosszú lejáratú hitelek és kötvénykibocsátás bevételei | 22 |  |  |
+| B. Vállalkozási tevékenység szakfeladaton elszámolt bevételei összesen (I+II+III) | 22 |  |  |
 
-| 9. Befektetési célú értékpapírok bevételei | 23 |  |  |
+| C. Vállalkozási tevékenység szakfeladaton elszámolt bevételi maradványa |  |  |  |
 
-| IV. Vállalkozási tevékenység befektetési célú finanszírozási bevételei (8+9) | 24 |  |  |
+| (B–A) | 23 |  |  |
 
-| V. Vállalkozási tevékenységhez kapcsolódó költségvetési passzív pénzügyi elszámolások | 25 |  |  |
+| D. Vállalkozási tevékenység kiadási előirányzata | 24 |  |  |
 
-| B. Vállalkozási tevékenység bevételei összesen (I+...+V) | 26 |  |  |
+| – Vállalkozási tevékenység személyi juttatásai | 25 |  |  |
 
-| C. Vállalkozási tevékenység szakfeladaton elszámolt bevételi maradványa (A–I–II–5–IV) | 27 |  |  |
+| – Vállalkozási tevékenység munkaadót terhelő járulékai | 26 |  |  |
 
-| D. Vállalkozási tevékenység kiadási előirányzata | 28 |  |  |
+| – Vállalkozási tevékenység dologi kiadásai (áfa nélkül) | 27 |  |  |
 
-| – Vállalkozási tevékenység személyi juttatásai | 29 |  |  |
+| – Vállalkozási tevékenység működési célú áfa kiadásai | 28 |  |  |
 
-| – Vállalkozási tevékenység munkaadót terhelő járulékai | 30 |  |  |
+| – Vállalkozási tevékenység működési célú kamatkiadásai | 29 |  |  |
 
-| – Vállalkozási tevékenység dologi kiadásai (áfa nélkül) | 31 |  |  |
+| – Vállalkozási tevékenység egyéb folyó kiadásai | 30 |  |  |
 
-| – Vállalkozási tevékenység működési célú áfa kiadásai | 32 |  |  |
+| – Vállalkozási tevékenység működési célú pénzeszköz átadása | 31 |  |  |
 
-| – Vállalkozási tevékenység működési célú kamatkiadásai | 33 |  |  |
+| 8. Vállalkozási tevékenység működési célú pénzforgalmi kiadása (25+...+31) | 32 |  |  |
 
-| – Vállalkozási tevékenység egyéb folyó kiadásai | 34 |  |  |
+| 9. Vállalkozási tevékenység működési célú pénzforgalom nélküli kiadásai | 33 |  |  |
 
-| – Vállalkozási tevékenység működési célú pénzeszköz átadása | 35 |  |  |
+| IV. Vállalkozási tevékenység működési célú költségvetési kiadásai (8+9) | 34 |  |  |
 
-| 10. Vállalkozási tevékenység működési célú pénzforgalmi kiadása (29+...+35) | 36 |  |  |
+| – Vállalkozási tevékenység felhalmozási és tőkekiadásai | 35 |  |  |
 
-| 11. Vállalkozási tevékenység működési célú pénzforgalom nélküli kiadásai | 37 |  |  |
+| – Vállalkozási tevékenység felhalmozási célú kamatkiadásai | 36 |  |  |
 
-| VI. Vállalkozási tevékenység működési célú költségvetési kiadásai (10+11) | 38 |  |  |
+| – Vállalkozási tevékenység felhalmozási célú pénzeszközátadásai | 37 |  |  |
 
-| – Vállalkozási tevékenység felhalmozási és tőkekiadásai | 39 |  |  |
+| – Vállalkozási tevékenység felhalmozási célú áfa kiadásai | 38 |  |  |
 
-| – Vállalkozási tevékenység felhalmozási célú kamatkiadásai | 40 |  |  |
+| 10. Vállalkozási tevékenység felhalmozási és tőke jellegű pénzforgalmi kiadásai (35+...+38) | 39 |  |  |
 
-| – Vállalkozási tevékenység felhalmozási célú pénzeszközátadásai | 41 |  |  |
+| 11. Vállalkozási tevékenység felhalmozási célú pénzforgalom nélküli kiadása | 40 |  |  |
 
-| – Vállalkozási tevékenység felhalmozási célú áfa kiadásai | 42 |  |  |
+| V. Vállalkozási tevékenység felhalmozási célú költségvetési kiadásai (10+11) | 41 |  |  |
 
-| 12. Vállalkozási tevékenység felhalmozási és tőke jellegű pénzforgalmi kiadásai (39+...+42) | 43 |  |  |
+| 12. Rövid lejáratú hitelek kiadásai | 42 |  |  |
 
-| 13. Vállalkozási tevékenység felhalmozási célú pénzforgalom nélküli kiadása | 44 |  |  |
+| 13. Hosszú lejáratú hitelek és kötvénykibocsátás kiadásai | 43 |  |  |
 
-| VII. Vállalkozási tevékenység felhalmozási célú költségvetési kiadásai (12+13) | 45 |  |  |
+| 14. Befektetési célú értékpapírok kiadásai | 44 |  |  |
 
-| 14. Rövid lejáratú hitelek kiadásai | 46 |  |  |
+| VI. Vállalkozási maradványban figyelembe vehető finanszírozási kiadások (12+13+14) | 45 |  |  |
 
-| 15. Rövid lejáratú likvid hitelek és rövid lejáratú működési célú kötvénykibocsátás kiadásai | 47 |  |  |
+| E. Vállalkozási tevékenység szakfeladaton elszámolt kiadásai összesen (IV+V+VI) | 46 |  |  |
 
-| 16. Forgatási célú értékpapírok kiadásai | 48 |  |  |
+| F. Vállalkozási tevékenység szakfeladaton elszámolt kiadási maradványa |  |  |  |
 
-| VIII. Vállalkozási tevékenység forgatási célú finanszírozási kiadásai (14+...+16) | 49 |  |  |
+| (D–E) | 47 |  |  |
 
-| 17. Hosszú lejáratú hitelek és kötvénykibocsátás kiadásai | 50 |  |  |
+| G. Vállalkozási tevékenység pénzforgalmi maradványa (C+F), illetve (B–E) | 48 |  |  |
 
-| 18. Befektetési célú értékpapírok kiadásai | 51 |  |  |
+| 15. Vállalkozási tevékenységet terhelő értékcsökkenési leírás (–) | 49 |  |  |
 
-| IX. Vállalkozási tevékenység befektetési célú finanszírozási kiadásai (17+18) | 52 |  |  |
+| H. Vállalkozási tevékenység tárgyévi bevételeinek ráfordításokkal csökkentett pénzforgalmi maradványa (G–15) | 50 |  |  |
 
-| X. Vállalkozási tevékenységhez kapcsolódó költségvetési aktív pénzügyi elszámolások | 53 |  |  |
+| 16. Alaptevékenység ellátására felhasznált tárgyévi vállalkozási maradvány (–) | 51 |  |  |
 
-| E. Vállalkozási tevékenység – kiadásai összesen (VI+...+X) | 54 |  |  |
+| 17. Alaptevékenység ellátására felhasznált előző év(ek) vállalkozási maradványa (–) | 52 |  |  |
 
-| F. Vállalkozási tevékenység szakfeladaton elszámolt kiadási maradványa (D–VI–VII–14–IX) | 55 |  |  |
+| 18. A tárgyévet követő évben alaptevékenység ellátására felhasználni tervezett vállalkozási maradvány (–) | 53 |  |  |
 
-| G. Vállalkozási tevékenység pénzforgalmi maradványa (C–F) | 56 |  |  |
+| 19. Pénzforgalmi vállalkozási maradványt jogszabály alapján módosító tétel (±) | 54 |  |  |
 
-| 19. Vállalkozási tevékenységet terhelő értékcsökkenési leírás (–) | 57 |  |  |
+| I. Vállalkozási tevékenység módosított pénzforgalmi vállalkozási maradványa (H–16–17–18±19) | 55 |  |  |
 
-| H. Vállalkozási tevékenység tárgyévi bevételeinek ráfordításokkal csökkentett pénzforgalmi maradványa (G–19) | 58 |  |  |
+| J. Vállalkozási tevékenységet terhelő befizetés (–) | 56 |  |  |
 
-| 20. Alaptevékenység ellátására felhasznált tárgyévi vállalkozási maradvány (–) | 59 |  |  |
+| K. Vállalkozási tartalékba helyezendő összeg (G–16–17–J) | 57 |  |  |
 
-| 21. Alaptevékenység ellátására felhasznált előző év(ek) vállalkozási maradványa (–) | 60 |  |  |
+5. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^437]
 
-| 22. A tárgyévet követő évben alaptevékenység ellátására felhasználni tervezett vállalkozási maradvány (–) | 61 |  |  |
-
-| 23. Pénzforgalmi vállalkozási maradványt külön jogszabály alapján módosító tétel (+) | 62 |  |  |
-
-| I. Vállalkozási tevékenység módosított pénzforgalmi vállalkozási maradványa (H–20–21–22+23) | 63 |  |  |
-
-| J. Vállalkozási tevékenységet terhelő befizetés (–) | 64 |  |  |
-
-| K. Vállalkozási tartalékba helyezendő összeg (G–20–21–J) | 65 |  |  |
-
-| XI. Vállalkozási tevékenység forgatási célú finanszírozási műveleteinek egyenlege (III–VIII) | 66 |  |  |
-
-| XII. Vállalkozási tevékenység befektetési célú finanszírozási műveleteinek egyenlege (IV–IX) | 67 |  |  |
-
-| L. Vállalkozási tevékenység finanszírozási célú műveleteinek egyenlege (XI+XII) | 68 |  |  |
-
-| M. Vállalkozási tevékenység aktív és passzív pénzügyi műveletek egyenlege (V–X) | 69 |  |  |
-
-| N. Vállalkozási tevékenység bevételeinek és kiadásainak egyenlege (B–E) | 70 |  |  |
-
-5. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^422]
-
-[^422]: Az 5. számú melléklet a 307/2002. (XII. 27.) Korm. rendelet 22. §-ának (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése és 43. § (8) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 40. § (1)–(2) bekezdését.
+[^437]: Az 5. számú melléklet a 307/2002. (XII. 27.) Korm. rendelet 22. §-ának (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése és 43. § (8) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 40. § (1)–(2) bekezdését.

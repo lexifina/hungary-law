@@ -1,89 +1,89 @@
-## Előirányzat-maradvány alakulása
+## Előirányzat-maradvány kimutatás előírt tagolása
 
-## (az alap-, kiegészítő és kisegítő tevékenység szakfeladataira)
+## (az alaptevékenység szakfeladataira)
 
 | Ezer forintban |
 
-| Megnevezés | Sorszám | Előző év | Tárgyév |
+| Megnevezés | Sor- szám | Előző év | Tárgyév |
 
 | A. Kiadási előirányzat | 01 |  |  |
 
 | 1. Alaptevékenység működési kiadásai | 02 |  |  |
 
-| 2. Kiegészítő tevékenység működési kiadásai | 03 |  |  |
+| 1/a. Időlegesen szabad kapacitás kihasználását célzó tevékenység működési kiadásai | 03 |  |  |
 
-| 3. Kisegítő tevékenység működési kiadásai | 04 |  |  |
+| 1/b. Alaptevékenységbe átsorolt vállalkozási tevékenység működési kiadásai | 04 |  |  |
 
-| I. Működési kiadások összesen | 05 |  |  |
+| 1/c. Egyéb alaptevékenységi feladatok működési kiadásai | 05 |  |  |
 
-| 4. Alaptevékenység felhalmozási kiadásai | 06 |  |  |
+| 2. Alaptevékenység felhalmozási kiadásai | 06 |  |  |
 
-| 5. Kiegészítő tevékenység felhalmozási kiadásai | 07 |  |  |
+| 2/a. Időlegesen szabad kapacitás kihasználását célzó tevékenység felhalmozási kiadásai | 07 |  |  |
 
-| 6. Kisegítő tevékenység felhalmozási kiadásai | 08 |  |  |
+| 2/b. Alaptevékenységbe átsorolt vállalkozási tevékenység felhalmozási kiadásai | 08 |  |  |
 
-| II. Felhalmozási kiadások összesen | 09 |  |  |
+| 2/c. Egyéb alaptevékenységi feladatok felhalmozási kiadásai | 09 |  |  |
 
-| B. Kiadási előirányzat teljesítése | 10 |  |  |
+| B. Kiadási előirányzat teljesítése (1+2) | 10 |  |  |
 
 | C. Kiadási megtakarítás (túllépés) (A–B) (±) | 11 |  |  |
 
 | D. Bevételi előirányzat | 12 |  |  |
 
-| 7. Alaptevékenység működési bevételei | 13 |  |  |
+| 3. Alaptevékenység működési bevételei | 13 |  |  |
 
-| 8. Kiegészítő tevékenység működési bevételei | 14 |  |  |
+| 3/a. Időlegesen szabad kapacitás kihasználását célzó tevékenység működési bevételei | 14 |  |  |
 
-| 9. Kisegítő tevékenység működési bevételei | 15 |  |  |
+| 3/b. Alaptevékenységbe átsorolt vállalkozási tevékenység működési bevételei | 15 |  |  |
 
-| III. Működési bevételek összesen | 16 |  |  |
+| 3/c. Egyéb alaptevékenységi feladatok működési bevételei | 16 |  |  |
 
-| 10. Alaptevékenység felhalmozási bevételei | 17 |  |  |
+| 4. Alaptevékenység felhalmozási bevételei | 17 |  |  |
 
-| 11. Kiegészítő tevékenység felhalmozási bevételei | 18 |  |  |
+| 4/a. Időlegesen szabad kapacitás kihasználását célzó tevékenység felhalmozási bevételei | 18 |  |  |
 
-| 12. Kisegítő tevékenység felhalmozási bevételei | 19 |  |  |
+| 4/b. Alaptevékenységbe átsorolt vállalkozási tevékenység felhalmozási bevételei | 19 |  |  |
 
-| IV. Felhalmozási bevételek összesen | 20 |  |  |
+| 4/c. Egyéb alaptevékenységi feladatok felhalmozási bevételei | 20 |  |  |
 
-| E. Bevételi előirányzat teljesítése | 21 |  |  |
+| E. Bevételi előirányzat teljesítése (3+4) | 21 |  |  |
 
-| F. Bevételi lemaradás (túlteljesítés) (D–E) (±) | 22 |  |  |
+| F. Bevételi lemaradás (túlteljesítés) (E-D) (±) | 22 |  |  |
 
-| G. Kiadási megtakarítás, bevételi lemaradás különbsége (C–F) (±) | 23 |  |  |
+| G. Kiadási megtakarítás, bevételi lemaradás különbsége (C+F) (±) | 23 |  |  |
 
-| 13. Vállalkozási maradványból alaptevékenység ellátására felhasznált összeg (+) | 24 |  |  |
+| 5. Vállalkozási maradványból alaptevékenység ellátására felhasznált összeg (+) | 24 |  |  |
 
-| H. Módosított tárgyévi kiadási megtakarítás (G+13) (±) | 25 |  |  |
+| H. Módosított tárgyévi kiadási megtakarítás (G+5) (±) | 25 |  |  |
 
-| 14. Központi költségvetés központosított bevételét képező összeg (–) | 26 |  |  |
+| 6. Központi költségvetés központosított bevételét képező összeg (–) | 26 |  |  |
 
-| 15. Költségvetési szervet meg nem illető összeg (–) | 27 |  |  |
+| 7. Költségvetési szervet meg nem illető összeg (–) | 27 |  |  |
 
-| I. Felhasználható tárgyévi előirányzat-maradvány (H–14–15) | 28 |  |  |
+| I. Felhasználható tárgyévi előirányzat-maradvány (H–6–7) | 28 |  |  |
 
-| 16. Alaptevékenység előző év(ek)ből származó, tárgyévre jóváhagyott előirányzat maradványa | 29 |  |  |
+| 8. Alaptevékenység előző év(ek)ből származó, tárgyévre jóváhagyott (felhasználható) előirányzat maradványa (+) | 29 |  |  |
 
-| J. Felhasználható összes előirányzat-maradvány (I+16) | 30 |  |  |
+| J. Felhasználható összes előirányzat-maradvány (I+8) | 30 |  |  |
 
-| 17. Egészségbiztosítási Alapból folyósított pénzeszköz maradványa | 31 |  |  |
+| 9. Egészségbiztosítási Alapból folyósított pénzeszköz maradványa | 31 |  |  |
 
-| – Kötelezettségvállalással terhelt működési célú előirányzat-maradvány | 32 |  |  |
+| 10. Kötelezettségvállalással terhelt előirányzat-maradvány | 32 |  |  |
 
-| – Kötelezettségvállalással terhelt felhalmozási célú előirányzat-maradvány | 33 |  |  |
+| 10/a. Kötelezettségvállalással terhelt működési célú előirányzat-maradvány | 33 |  |  |
 
-| 18. Kötelezettségvállalással terhelt előirányzat-maradvány (32+33) | 34 |  |  |
+| 10/b. Kötelezettségvállalással terhelt felhalmozási célú előirányzat-maradvány | 34 |  |  |
 
-| – Működési célú szabad előirányzat-maradvány | 35 |  |  |
+| 11. Szabad előirányzat-maradvány | 35 |  |  |
 
-| – Felhalmozási célú szabad előirányzat-maradvány | 36 |  |  |
+| 11/a. Működési célú szabad előirányzat-maradvány | 36 |  |  |
 
-| 19. Szabad előirányzat-maradvány (35+36) | 37 |  |  |
+| – Ebből: Tárgyévi forgatási célú pénzügyi műveletek maradványa | 37 |  |  |
 
-| – Ebből: Tárgyévi forgatási célú pénzügyi műveletek maradványa | 38 |  |  |
+| 11/b. Felhalmozási célú szabad előirányzat-maradvány | 38 |  |  |
 
-| 20. Tájékoztató adat: Év végén a forgatási célú értékpapír állománya | 39 |  |  |
+| 12. Tájékoztató adat: Év végén a forgatási célú értékpapír állománya | 39 |  |  |
 
-4. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^421]
+4. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^436]
 
-[^421]: A 4. számú melléklet a 317/2009. (XII. 29.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján rendelkezéseit a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^436]: A 4. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.

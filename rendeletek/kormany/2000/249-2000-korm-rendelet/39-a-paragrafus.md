@@ -1,4 +1,4 @@
-39/A. §[^291] (1) A vállalkozási maradvány-kimutatás tartalmazza azokat a módosító tételeket, amelyek figyelembevétele után állapítható meg a vállalkozási tartalék.
+39/A. §[^302] (1) A vállalkozási maradvány-kimutatás tartalmazza azokat a módosító tételeket, amelyek figyelembevétele után állapítható meg a vállalkozási tartalék.
 
 (2) A vállalkozási maradvány-kimutatásban be kell mutatni a vállalkozási tevékenység bevételi és kiadási előirányzatait.
 
@@ -16,4 +16,4 @@
 
 (9) A tárgyévi vállalkozási maradványból az államháztartás szervezetét meg nem illető tételeket a gazdálkodásukra vonatkozó jogszabály tartalmazza.
 
-[^291]: A 39/A. §-t a 317/2009. (XII. 29.) Korm. rendelet 21. §-a iktatta be. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^302]: A 39/A. §-t a 317/2009. (XII. 29.) Korm. rendelet 21. §-a iktatta be. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.

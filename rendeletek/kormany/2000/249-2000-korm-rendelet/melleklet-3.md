@@ -82,6 +82,6 @@
 
 | – Felhalmozási célú szabad pénzmaradvány | 38 |  |  |
 
-3. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^420]
+3. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^435]
 
-[^420]: A 3. számú melléklet a 317/2009. (XII. 29.) Korm. rendelet 37. § (3) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján rendelkezéseit a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^435]: A 3. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
