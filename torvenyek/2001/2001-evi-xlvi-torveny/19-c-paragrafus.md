@@ -1,0 +1,1 @@
+19/C. § A konzuli díjat, a megkeresett szerv vagy szolgáltató díját, és a hatósági költséget a kérelem előterjesztésével egyidejűleg, illetve ha a díj vagy költség később merült fel, az arról való értesítést követő 30 napon belül a kérelmezőnek kell megfizetnie.

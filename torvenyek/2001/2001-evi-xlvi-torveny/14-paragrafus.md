@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti jogkörben eljáró konzuli tisztviselő a konzuli okirat készítésénél és a konzuli tanúsítvány kiállításánál a közjegyzőkről szóló törvény rendelkezései szerint jár el.
 
-(3) Az (1) és (2) bekezdés alapján készített okirat közokirat.
+(3) A konzuli tisztviselő köteles megtagadni a közreműködést a közjegyzőkről szóló törvényben foglalt esetekben, továbbá, ha az eljárás nemzetközi jogi szabályba vagy a fogadó állam jogszabályába ütközne.
 
-(4) A tanúsítvány kiállítására felhatalmazott tiszteletbeli konzuli tisztviselő e tevékenységének keretében beszedett konzuli díjat az általa vezetett képviselet fenntartására és a konzuli feladatok ellátására fordíthatja.
+(4) Az (1) és (2) bekezdés alapján készített okirat közokirat.
