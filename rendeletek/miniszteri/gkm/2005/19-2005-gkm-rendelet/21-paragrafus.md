@@ -1,10 +1,11 @@
-## 20. §[^27]
+## 20. §[^33]
 
 ## A díjfizetés módja
 
-21. § (1) Az iparjogvédelmi eljárásokért a díjakat a Magyar Szabadalmi Hivatalnak a Magyar Államkincstárnál vezetett 10032000-01731842-00000000 számú előirányzat-felhasználási keretszámlájára átutalással vagy készpénz-átutalási megbízás útján kell befizetni az azonosítási adatok (az ügyszám, illetőleg a lajstromszám) és a rendeltetés (jogcím) feltüntetésével, valamint a „310 Kincstári Tranzakciós Kód” megjelöléssel.
+21. § (1)[^34] Az iparjogvédelmi eljárásokért a díjakat a Hivatalnak a Magyar Államkincstárnál vezetett 10032000-01731842-00000000 számú előirányzat-felhasználási keretszámlájára átutalással vagy készpénz-átutalási megbízás útján kell befizetni az azonosítási adatok (az ügyszám, illetőleg a lajstromszám) és a rendeltetés (jogcím) feltüntetésével, valamint a „311 Kincstári Tranzakciós Kód” megjelöléssel.
 
-(2)[^28] A Magyar Szabadalmi Hivatal elnöke engedélyezheti a díjaknak az (1) bekezdésben foglaltaktól eltérő módon történő megfizetését, ideértve a letéti számla útján történő díjfizetést is.
+(2)[^35] A Hivatal elnöke engedélyezheti a díjaknak az (1) bekezdésben foglaltaktól eltérő módon történő megfizetését, ideértve a letéti számla útján történő díjfizetést is.
 
-[^27]: A 20. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
-[^28]: A 21. § (2) bekezdése a 11/2008. (III. 26.) GKM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2008. április 3. napját követően benyújtott bejelentések és kérelmek alapján esedékessé vált díjakra kell alkalmazni.
+[^33]: A 20. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^34]: A 21. § (1) bekezdése a 23/2010. (XII. 28.) KIM rendelet 3. § (3) bekezdése és 4. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 21. § (2) bekezdése a 11/2008. (III. 26.) GKM rendelet 6. §-ával megállapított, a 23/2010. (XII. 28) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.

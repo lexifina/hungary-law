@@ -1,4 +1,4 @@
-## A módosítási, a határidő-hosszabbítási, a megosztási és az eljárás folytatása iránti kérelem díja[^22]
+## A módosítási, a határidő-hosszabbítási, a megosztási és az eljárás folytatása iránti kérelem díja[^28]
 
 15. § (1) Az oltalom megadására irányuló bármely iparjogvédelmi ügyben a módosítási, valamint az ilyen és a 14. §-ban említett eljárásokban az adott cselekménnyel kapcsolatos határidő-hosszabbítási kérelem díja az első kérelem esetén 4800 forint, a második kérelem esetén 8500 forint, a további kérelmek esetén 16 000 forint.
 
@@ -16,10 +16,10 @@ b) az oltalmat több megjelölésre igénylő bejelentés megosztása esetén a 
 
 (6) Földrajzi árujelző lajstromozására irányuló bejelentés esetén a megosztási kérelem díja a keletkező további bejelentésenként 107 000 forint.
 
-(7)[^23] Iparjogvédelmi ügyben az eljárás folytatása iránti kérelem díja 35 000 forint.
+(7)[^29] Iparjogvédelmi ügyben az eljárás folytatása iránti kérelem díja 35 000 forint.
 
-(8)[^24] Ha az elmulasztott határidő díj fizetésére vonatkozott, a (7) bekezdésben meghatározott díjat e díjon felül kell megfizetni.
+(8)[^30] Ha az elmulasztott határidő díj fizetésére vonatkozott, a (7) bekezdésben meghatározott díjat e díjon felül kell megfizetni.
 
-[^22]: A 15. §-t megelőző alcím a 11/2008. (III. 26.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^23]: A 15. § (7) bekezdését a 11/2008. (III. 26.) GKM rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2008. április 3. napját követően benyújtott bejelentések és kérelmek alapján esedékessé vált díjakra kell alkalmazni.
-[^24]: A 15. § (8) bekezdését a 11/2008. (III. 26.) GKM rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2008. április 3. napját követően benyújtott bejelentések és kérelmek alapján esedékessé vált díjakra kell alkalmazni.
+[^28]: A 15. §-t megelőző alcím a 11/2008. (III. 26.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^29]: A 15. § (7) bekezdését a 11/2008. (III. 26.) GKM rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2008. április 3. napját követően benyújtott bejelentések és kérelmek alapján esedékessé vált díjakra kell alkalmazni.
+[^30]: A 15. § (8) bekezdését a 11/2008. (III. 26.) GKM rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2008. április 3. napját követően benyújtott bejelentések és kérelmek alapján esedékessé vált díjakra kell alkalmazni.

@@ -1,5 +1,5 @@
-## 19. §[^26]
+## 19. §[^32]
 
 ## Esedékesség
 
-[^26]: A 19. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^32]: A 19. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
