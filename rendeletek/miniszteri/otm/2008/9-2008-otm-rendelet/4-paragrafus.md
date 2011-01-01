@@ -4,13 +4,13 @@
 
 (2) A már üzemelő tűz és hiba átjelző rendszereket legkésőbb 2013. március 1-ig a rendelet 2. rész IV. fejezetének 4.6. pontjában foglalt tűzvédelmi műszaki követelmények szerint át kell építeni. A már üzemelő tűz és hiba átjelző rendszerek 4.6.2. a) pontban meghatározott regisztrációját legkésőbb 2008. október 1-ig végre kell hajtani.
 
-(3)[^1]
+(3)[^2]
 
 (4) A (3) bekezdés a rendelet hatálybalépését követő napon hatályát veszti.
 
 (5) E rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 
-Melléklet a 9/2008. (II. 22.) ÖTM rendelethez
+Melléklet a 9/2008. (II. 22.) ÖTM rendelethez[^3]
 
 OTSZ 1. rész
 
@@ -550,4 +550,5 @@ Jelzőtáblák
 
 Példák
 
-[^1]: A 4. § (3) bekezdése e rendelet 4. § (4) bekezdése alapján hatályát vesztette.
+[^2]: A 4. § (3) bekezdése e rendelet 4. § (4) bekezdése alapján hatályát vesztette.
+[^3]: A melléklet a 13/2010. (XII. 28.) BM rendelet 2. § (10) bekezdése szerint módosított szöveg.
