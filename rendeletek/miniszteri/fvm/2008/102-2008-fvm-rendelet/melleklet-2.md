@@ -44,7 +44,7 @@
 
 | 4.1.3. | agyag | 94 | 80 |  |  |  |  |  |
 
-2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^29]
+2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^31]
 
 ## Támogatási kérelem az erdők felújításának csekély összegű (de minimis) támogatásához
 
@@ -228,4 +228,4 @@ Kelt: ................................., .......... év ..................
 
 erdőgazdálkodó (szerv. vezető)
 
-[^29]: A 2. számú melléklet a 40/2010. (XII. 17.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. számú melléklet a 40/2010. (XII. 17.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
