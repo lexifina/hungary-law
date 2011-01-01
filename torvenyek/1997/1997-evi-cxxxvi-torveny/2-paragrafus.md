@@ -6,7 +6,7 @@
 
 (3) Az OTKA Bizottság tagjai:
 
-a) az oktatásért felelős miniszter által – az agrárpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a területfejlesztésért és területrendezésért felelős miniszter és az egészségügyért felelős miniszter egyetértésével – javasolt öt szakértő;
+a) az oktatásért felelős miniszter által – az agrárpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a területfejlesztésért felelős miniszter és az egészségügyért felelős miniszter egyetértésével – javasolt öt szakértő;
 
 b) az Akadémia elnöke által javasolt két szakértő;
 
