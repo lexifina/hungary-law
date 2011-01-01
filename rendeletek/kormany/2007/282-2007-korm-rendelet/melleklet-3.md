@@ -48,8 +48,8 @@
 
 | 11. | Ujjnyom-tenyérnyom vizsgálata (daktiloszkópia) | Bűnügyi Szakértői és Kutatóintézet |
 
-| 12. | Kábítószer szubsztancia alapú vizsgálata | Bűnügyi Szakértői és Kutatóintézet Vám- és Pénzügyőrség Vegyvizsgáló Intézete |
+| 12. | Kábítószer szubsztancia alapú vizsgálata | Bűnügyi Szakértői és Kutatóintézet |
 
-3. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^7]
+3. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^8]
 
-[^7]: A 3. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának o) pontja szerint módosított szöveg.
+[^8]: A 3. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának o) pontja szerint módosított szöveg.

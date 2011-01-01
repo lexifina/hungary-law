@@ -4,4 +4,6 @@
 
 (2) A 2. számú melléklet 1. pontja 2008. január 1-jén lép hatályba.
 
-(3) A 2. § (4) bekezdése és a 2. számú melléklet 12. pontjában a „Vám- és Pénzügyőrség Vegyvizsgáló Intézete” szövegrész 2009. január 1-jén lép hatályba.
+(3)[^5]
+
+[^5]: A 6. § (3) bekezdését a 273/2010. (XII. 9.) Korm. rendelet 139. § (5) bekezdése hatályon kívül helyezte.

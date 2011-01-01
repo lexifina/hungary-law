@@ -30,7 +30,7 @@
 
 | 7. | A védett és fokozottan védett területek (Natura 2000) állapotára, továbbá a tájvédelemre vonatkozó szakkérdés | Nemzeti Park Igazgatóság |
 
-4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez
+4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 
 Szakvélemény adására feljogosított szervek
 
@@ -68,7 +68,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | o) személy fénykép alapján történő azonosítása | Igazságügyi Szakértői és Kutatóintézet |
 
-|  | p) vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Vám- és Pénzügyőrség Vegyvizsgáló Intézete |
+|  | p) vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
 | 2. | Tűzvédelmi szakterületekkel kapcsolatos vizsgálatok |  |
 
@@ -116,10 +116,12 @@ Szakvélemény adására feljogosított szervek
 
 | 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (OMFI) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
-| 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Vám- és Pénzügyőrség Vegyvizsgáló Intézete |
+| 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
 | 8. | Zenei és irodalmi művek műfaji elhatárolási és átdolgozási kérdései | ARTISJUS Magyar Szerzői Jogvédő Iroda Egyesület |
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggö szakkérdés | Vízügyi és Környezetvédelmi Központi Igazgatóság (VKKI) |
 
 |  |  | Környezetvédelmi és Vízgazdálkodási Tudományos Kutató Intézet Közhasznú Társaság (VITUKI Kht.) |
+
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a szerint módosított szöveg.
