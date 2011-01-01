@@ -1,6 +1,6 @@
 ## Az eseti légtér igénylése
 
-15. § (1)[^4] A magyar légtér igénybevételéről szóló kormányrendeletben meghatározott eseti légtér kijelölése iránti kérelmet a (3) bekezdésben foglalt adatok megadásával, legalább tizenöt munkanappal a tervezett igénybevétel előtt, a katonai légügyi hatósághoz kell benyújtani.
+15. § (1)[^4] A magyar légtér igénybevételéről szóló kormányrendeletben meghatározott eseti légtér kijelölése iránti kérelmet a (3) bekezdésben foglalt adatok megadásával, legalább húsz nappal a tervezett igénybevétel előtt, a katonai légügyi hatósághoz kell benyújtani.
 
 (2) Eseti légteret a légiközlekedés biztonságának védelme érdekében kell igényelni:
 
@@ -40,6 +40,6 @@ d) a légtérben a légiforgalom szervezéséért felelős személy vagy szolgá
 
 (6)[^6] A katonai légügyi hatóság az (5) bekezdésben foglalt adatokat – közzététel céljából – a légtér működésének megkezdése előtt legkésőbb 7 nappal megküldi a légiforgalmi tájékoztató szolgálatnak.
 
-[^4]: A 15. § (1) bekezdése a 37/2010. (V. 4.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 15. § (1) bekezdése a 37/2010. (V. 4.) KHEM rendelet 2. § (1) bekezdésével megállapított, a 34/2010. (XII. 30.) NFM rendelet 1. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^5]: A 15. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 6. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
 [^6]: A 15. § (6) bekezdése a 37/2010. (V. 4.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
