@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-101-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-101-00-00.18 |
 | 2010-03-15 | 2010. évi XXXVII. törvény | 2001-101-00-00.19 |
+| 2011-01-01 | 2010. évi CLXXIII. törvény | 2001-101-00-00.20 |

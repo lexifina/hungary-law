@@ -32,8 +32,4 @@ a) az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési te
 
 b) az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
-(5) E törvény hatálya nem terjed ki:
-
-a) az egészségügyről szóló 1997. évi CLIV. törvényben szabályozott szakorvosok, szakfogorvosok, szakgyógyszerészek, klinikai szakpszichológusok képzésére (felsőfokú szakirányú szakképzés), továbbképzésére – beleértve más felsőfokú végzettséggel rendelkezők egészségügyi szakirányú szakképzését és továbbképzését is –, valamint
-
-b)
+(5) E törvény hatálya nem terjed ki az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdés a)–c) pontjai szerinti egészségügyi ágazati képzésekre.
