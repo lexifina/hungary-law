@@ -11,3 +11,5 @@
 a) a bölcsődei nevelési év végén, ha a gyermek a 3. évét betöltötte,
 
 b) ha a gyermek az (1), illetve (2) bekezdés szerinti életkort elérte.
+
+(5) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő kérésére gondoskodhat a gyermek intézményi gondozásának megszervezéséről.

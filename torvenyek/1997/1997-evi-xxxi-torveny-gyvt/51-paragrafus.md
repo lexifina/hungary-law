@@ -8,7 +8,7 @@
 
 a) befogadja az életvezetési problémák vagy más szociális és családi krízis miatt otthontalanná vált, továbbá védelmet kereső szülőt és gyermekét,
 
-b) befogadja a válsághelyzetben lévő bántalmazott vagy várandós anyákat, illetve a szülészetről kikerülő anyát és gyermekét,
+b) befogadja a válsághelyzetben lévő bántalmazott vagy várandós anyát, illetve a szülészetről kikerülő anyát és gyermekét, valamint a várandós anya kérelmére az anya élettársát vagy férjét.
 
 c) biztosítja az ellátást igénylő gyermek átmeneti gondozását és befogadja otthontalanná vált szüleit,
 

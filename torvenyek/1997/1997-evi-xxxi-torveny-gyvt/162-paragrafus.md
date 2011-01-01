@@ -12,7 +12,7 @@ d) a gyámhivatal vagy gyámhivatalok kijelölését, szervezetét, a gyámható
 
 e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
 
-f) a központi hatóság vagy hatóságok, továbbá a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
+f) a központi hatóság vagy hatóságok, az országos örökbefogadási nyilvántartást vezető szerv,, továbbá a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 
 g) a személyes adatok kezelésére vonatkozó részletes eljárási szabályokat,
 
@@ -20,7 +20,7 @@ h) a helyettes szülői és a nevelőszülői jogviszony egyes kérdéseit,
 
 i) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
 
-j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését,
+j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését, továbbá a működést engedélyező szerv kijelölését,
 
 k) a gyermekvédelmi közvetítői eljárás részletes szabályait,
 
@@ -34,7 +34,7 @@ o) az országos jelentési rendszer számára bejelentendő adatok körét, vala
 
 p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyettes szülői és nevelőszülői hálózatok országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését,
 
-q)
+q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 
 r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárás részletes szabályait,
 
@@ -60,11 +60,13 @@ f) az e törvény szerinti gyermekvédelmi és szociálpolitikai szakértői sza
 
 g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirányú szakképzés során szerzett szakképzettség megszerzését tanúsító oklevelek elismerésére, továbbá az eljáró hatóságra, annak feladat- és hatáskörére vonatkozó részletes szabályokat,
 
-h) az országos örökbefogadási nyilvántartásra vonatkozó részletes szabályokat,
+h) a módszertani intézmények kijelölésére és feladataira vonatkozó részletes szabályokat,
 
-i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait,
+i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
 
 j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
+
+[k)]
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 

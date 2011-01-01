@@ -10,6 +10,6 @@
 
 (4) Az utógondozás feladatainak ellátásába önkéntesek, társadalmi szervezetek, alapítványok és egyházi jogi személyek is bevonhatók.
 
-(5) A gyámhivatal az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor ismételten elrendeli, melynek során elsősorban a fiatal felnőtt volt utógondozóját, ha ez nem lehetséges, a fiatal felnőtt lakóhelye szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki.
+(5) A gyámhivatal az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor ismételten elrendeli, melynek során elsősorban a fiatal felnőtt volt utógondozóját, ha ez nem lehetséges, a fiatal felnőtt választása szerint a lakóhelye vagy a tartózkodási helye szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki.
 
 (6) A gyámhivatal az utógondozást az annak időtartama alatt nyújtott otthonteremtési támogatás elszámolásának időpontjáig meghosszabbítja.

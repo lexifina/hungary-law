@@ -14,7 +14,7 @@ a) különleges ellátást kell biztosítani
 
 aa) a tartósan beteg, illetve fogyatékos,
 
-ab) a kora miatt sajátos szükségletekkel bíró három év alatti
+ab) a három év alatti
 
 gyermek számára;
 

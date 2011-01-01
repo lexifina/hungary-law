@@ -38,7 +38,7 @@ b) a (2) bekezdés b) pontja szerinti esetben a fiatal felnőtt huszonnegyedik �
 
 (7) Az utógondozói ellátásban részesülő, tanintézményben nappali tagozaton tanulmányokat nem folytató munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
 
-(8) Az utógondozói ellátást nyújtó az utógondozói ellátásról szóló gyámhivatali határozat közlésétől számított 10 munkanapon belül megkeresi a gyámhivatalt, és kezdeményezi az ellátás megszüntetését, ha a fiatal felnőtt az ellátást nem veszi igénybe, és ennek okáról nem értesíti az ellátást nyújtót.
+(8) Az utógondozói ellátást nyújtó az utógondozói ellátásról szóló gyámhivatali határozat közlésétől számított tizenöt napon belül megkeresi a gyámhivatalt, és kezdeményezi az ellátás megszüntetését, ha a fiatal felnőtt az ellátást nem veszi igénybe, és ennek okáról nem értesíti az ellátást nyújtót.
 
 (9) Megszűnik az utógondozói ellátás
 

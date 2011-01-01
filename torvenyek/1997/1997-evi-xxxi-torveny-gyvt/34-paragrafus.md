@@ -1,11 +1,27 @@
 ## A gyermek és hozzátartozójának kapcsolattartása
 
-34. § (1) A 33. § (2) bekezdése c) pontjában meghatározott ellátásoknál a gyermek és szülője vagy más kapcsolattartásra jogosult hozzátartozója közötti (a továbbiakban együtt: kapcsolattartásra jogosult) kapcsolattartás formái különösen: a folyamatos és időszakos kapcsolattartás a gyermek elvitelének jogával és visszaadásának kötelezettségével, továbbá a gyermek tartózkodási helyén történő meglátogatás, levelezés, telefonkapcsolat, ajándékozás, csomagküldés.
+34. § (1) A bentlakásos gyermekintézményben, a helyettes szülőnél és a nevelőszülőnél biztosított személyes gondoskodást nyújtó gyermekjóléti alapellátásnál és gyermekvédelmi szakellátásnál a gyermek és szülője vagy más kapcsolattartásra jogosult hozzátartozója (a továbbiakban együtt: kapcsolattartásra jogosult) közötti kapcsolattartás formái:
 
-(2) A 33. § (2) bekezdés c) pontjában meghatározott ellátások során elő kell segíteni, hogy a kapcsolattartásra jogosult a gyermekkel kapcsolatot tartson fenn. A kapcsolattartásra jogosult a gyermeket a bentlakásos gyermekintézmény házirendje, illetve a nevelőszülői hálózatot működtetővel történt előzetes egyeztetés szerint látogathatja.
+a) a folyamatos és időszakos kapcsolattartás
 
-(3) A látogatás alkalmával biztosítani kell a kapcsolattartás kulturált és zavartalan körülményeit.
+aa) a gyermek tartózkodási helyén történő meglátogatásával, illetve
 
-(4) Az 54. §-ban meghatározott személyes gondoskodást nyújtó ellátásnál és az 57. §-ban meghatározott bentlakásos gyermekintézményben az ideiglenes hatállyal elhelyezett, illetve az átmeneti és tartós nevelésbe vett gyermek látogatását, továbbá az eltávozás és a szabadság engedélyezését a gyámhivatal határozata alapozza meg.
+ab) a gyermek elvitelének jogával és visszaadásának kötelezettségével, vagy
 
-(5) Az örökbefogadhatónak nyilvánítás szempontjából [Csjt. 48/A. § (1) bek.] nem tekinthető rendszeres kapcsolattartásnak a levélírás, telefonhívás, illetve csomagküldés, továbbá az évenkénti egy-két látogatás. A kapcsolattartás formájának és gyakoriságának elbírálása során a gyámhivatalnak mérlegelnie kell a szülő körülményeit is.
+ac) felügyelt kapcsolattartás keretében, és
+
+b) a levelezés, elektronikus levelezés, telefonkapcsolat, ajándékozás, csomagküldés.
+
+(2) A bentlakásos gyermekintézményben, a helyettes szülőnél és a nevelőszülőnél biztosított személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás során elő kell segíteni, hogy a kapcsolattartásra jogosult a gyermekkel kapcsolatot tartson fenn, feltéve, hogy a szülő nem áll a gyermek vagy a gyermeket nevelő személy sérelmére elkövetett cselekmény miatt ideiglenes megelőző távoltartás vagy megelőző távoltartás, továbbá a büntetőeljárásban elrendelhető távoltartás kényszerintézkedés hatálya alatt, vagy a gyermek súlyos bántalmazása miatt nem szüneteltették a szülő kapcsolattartási jogának gyakorlását.
+
+(3) A gyámhivatal a kapcsolattartásról a gyermek vér szerinti családjával, testvéreivel való kapcsolat fenntartása, a gyermek vér szerinti családjába való visszakerülésének elősegítése érdekében dönt. A kapcsolattartás formájának és gyakoriságának elbírálása során a gyámhivatal mérlegeli a gyermekjóléti alapellátás vagy a gyermekvédelmi szakellátás igénybevételének okát, valamint a kapcsolattartásra jogosult magatartását és körülményeit.
+
+(4) A gyámhivatal által elrendelt felügyelt kapcsolattartás esetén a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint, a gyámhivatal határozatában meghatározott helyszínen kerül sor a kapcsolattartásra.
+
+(5) Ha a (2) bekezdésben meghatározott kizáró feltételek nem állnak fenn, a kapcsolattartásra jogosult az átmeneti gondozásban részesülő gyermeket a bentlakásos gyermekintézmény házirendje vagy a helyettes szülői hálózatot működtetővel történt előzetes egyeztetés szerint, a gondozás helyszínén látogathatja. A látogatás alkalmával biztosítani kell a kapcsolattartás kulturált és zavartalan körülményeit. Átmeneti gondozásban részesülő gyermek esetén a kapcsolattartásról a gyámhivatal kérelemre dönt. A gyámhivatal szükség esetén felügyelt kapcsolattartást rendel el.
+
+(6) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá az átmeneti és tartós nevelésbe vett gyermekkel történő kapcsolattartásról a gyámhivatal hivatalból dönt. A gyermek legfeljebb két napra történő eltávozásának és két napnál hosszabb időtartamú szabadságának engedélyezését a gyámhivatal döntése alapozza meg. A gyermek gyámja jelzi a gyámhivatalnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyám között vita keletkezik.
+
+(7) Az örökbefogadhatónak nyilvánítás szempontjából nem tekinthető rendszeres kapcsolattartásnak a levélírás, a telefonhívás, a csomagküldés és a gyámhivatal határozatában szabályozottól jelentősen eltérő évenkénti egy-két látogatás.
+
+(8) A kapcsolattartással összefüggő, a gyermek számára a bentlakásos gyermekintézményben, a helyettes szülőnél és a nevelőszülőnél biztosított teljes körű ellátás által nem fedezett költségeket a kapcsolattartásra jogosult viseli. A települési önkormányzat rendkívüli gyermekvédelmi támogatás formájában nyújthat segítséget [21. § (2) bek.] a kapcsolattartásra jogosult számára a kapcsolattartással összefüggő költségek viseléséhez, különösen az utazási költségekhez, illetve a kapcsolattartásra jogosult otthonában történő kapcsolattartás esetén a gyermek ellátásának költségeihez. A területi gyermekvédelmi szakszolgálat a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint nyújt segítséget és támogatást a kapcsolattartás megvalósításához.

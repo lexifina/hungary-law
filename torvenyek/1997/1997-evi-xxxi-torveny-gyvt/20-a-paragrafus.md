@@ -1,6 +1,6 @@
 20/A. § (1) A települési önkormányzat jegyzője annak a gyermeknek, fiatal felnőttnek, akinek rendszeres gyermekvédelmi kedvezményre való jogosultsága
 
-a) a tárgyév július 1-jén fennáll, a tárgyév július hónapjában,
+a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában,
 
 b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában
 

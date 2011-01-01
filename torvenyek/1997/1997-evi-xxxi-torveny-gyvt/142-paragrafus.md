@@ -2,4 +2,10 @@
 
 (2) Az adatkezelésre és a nyilvántartások vezetésére vonatkozó rendelkezések az irányadóak a személyes gondoskodás megszervezésének a nem állami szerv által az önkormányzattól történő átvállalása, illetve a törvény által nem szabályozott, az önkormányzat képviselő-testülete vagy a jegyzője feladat- és hatáskörébe tartozó ellátásokról vezetett nyilvántartás esetén is.
 
-(3) A 137. § (2) bekezdése, a 138–139. §, a 140. § (1) és (2) bekezdése, a 141. § szerinti nyilvántartások nem nyilvánosak.
+(3) Az adatkezelésre törvényben feljogosított szerveken kívül a 137. § (2) bekezdése, a 138. §, a 139. §, a 140. § (1) és (2) bekezdése, a 141. § és a 141/B–141/D. §-ok szerinti nyilvántartások adatainak megismerésére jogosult
+
+a) a rá vonatkozó adatok tekintetében az érintett személy és törvényes képviselője,
+
+b) – az adatok megismeréséhez fűződő jogos érdek igazolásával – az egymásra vonatkozó adatok tekintetében a gyermek és a szülő,
+
+c) – az adatok megismeréséhez fűződő jogos érdek igazolásával – a szülőre vonatkozó adatok tekintetében a másik szülő.

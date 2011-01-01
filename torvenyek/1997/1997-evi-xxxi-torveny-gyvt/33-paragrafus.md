@@ -8,7 +8,17 @@ a) az ellátás tartamáról és feltételeiről,
 
 b) az intézmény által vezetett, reá vonatkozó nyilvántartásokról,
 
-c) az 50. és az 57. §-ok szerinti személyes gondoskodást nyújtó ellátásnál (a továbbiakban: bentlakásos gyermekintézmény), valamint a 49. és 54. §-ok szerinti személyes gondoskodást nyújtó ellátásnál az ellátásra jogosult gyermek, fiatal felnőtt és hozzátartozói közötti kapcsolattartásról, különösen a látogatás, a távozás és a visszatérés rendjéről,
+c) az ellátásra jogosult gyermek, fiatal felnőtt és hozzátartozói közötti kapcsolattartásról, különösen a látogatás, a távozás és a visszatérés rendjéről
+
+ca) a gyermekek átmeneti otthonában biztosított személyes gondoskodást nyújtó gyermekjóléti alapellátásnál, ha a gyermek kapcsolattartásra jogosult hozzátartozói külön élnek,
+
+cb) a családok átmeneti otthonában biztosított személyes gondoskodást nyújtó gyermekjóléti alapellátásnál, ha a gyermeknek van különélő, kapcsolattartásra jogosult hozzátartozója,
+
+cc) a gyermekotthonban biztosított személyes gondoskodást nyújtó gyermekvédelmi szakellátásnál (a ca)–cc) alpontokban szereplő intézmények a továbbiakban együtt: bentlakásos gyermekintézmény),
+
+cd) a helyettes szülőnél biztosított személyes gondoskodást nyújtó gyermekjóléti alapellátásnál és
+
+ce) a nevelőszülőnél biztosított személyes gondoskodást nyújtó gyermekvédelmi szakellátásnál,
 
 d) az érték- és vagyonmegőrzés módjáról,
 

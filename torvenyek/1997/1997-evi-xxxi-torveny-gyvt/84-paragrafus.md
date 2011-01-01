@@ -10,7 +10,7 @@ a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlak�
 
 b) átmeneti vagy tartós nevelésbe vette a gyermeket.
 
-(2) Gyámi feladatokat lát el a nevelőszülő – feltéve, ha a gyámságot vállalja – továbbá a gyermekotthon vezetője. A miniszter által vezetett minisztérium (a továbbiakban: minisztérium) speciális gyermekotthonának vezetője az otthonban elhelyezett gyermekek gyámjául nem rendelhető.
+(2) Gyámi feladatokat lát el a nevelőszülő – feltéve, ha a gyámságot vállalja – továbbá a gyermekotthon vezetője. A minisztérium speciális gyermekotthonának vezetője az otthonban elhelyezett gyermekek gyámjául nem rendelhető.
 
 (3) A gyámhivatal a gyermek számára – a (4) bekezdésben meghatározott kivétellel – a területi gyermekvédelmi szakszolgálat részéről erre kijelölt hivatásos gyámot rendeli ki, ha
 

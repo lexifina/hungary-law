@@ -6,6 +6,6 @@
 
 (3) A házi gyermekfelügyelet során a gyermek életkorához, egészségi állapotához igazodó gondozást, felügyeletet kell biztosítani.
 
-(4) Házi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (3) bekezdésében foglaltaknak.
+(4) Házi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.
 
 (5) A házi gyermekfelügyelet keretében segítséget kell nyújtani az iskolai tanulmányok folytatásához, amennyiben a gyermek tanulmányait a Kt. rendelkezései szerint fogyatékossága vagy súlyos betegsége miatt magántanulóként folytatja.

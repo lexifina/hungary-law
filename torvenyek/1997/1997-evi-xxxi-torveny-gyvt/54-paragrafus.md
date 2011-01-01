@@ -14,16 +14,16 @@ Az a) pontban meghatározott korkülönbségre, a nevelőszülőre vonatkozó ko
 
 (3) Hivatásos nevelőszülő az a nevelőszülő, aki a külön jogszabályban meghatározott képesítési előírásoknak megfelel, azzal, hogy a hivatásos nevelőszülő esetén az (1) bekezdés a) pontja szerinti feltételnek nem kell megvalósulnia. A képesítési előírásoktól – külön jogszabályban foglaltak szerint – a gyermek érdekében kivételesen el lehet térni.
 
-(4) Speciális hivatásos nevelőszülő az a hivatásos nevelőszülő, aki a képesítési előírásoknak megfelel, és alkalmas a nála elhelyezett súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő, speciális ellátást igénylő gyermek kiegyensúlyozott nevelésének biztosítására és családjába történő visszakerülésének elősegítésére.
+(4) Speciális hivatásos nevelőszülő az a hivatásos nevelőszülő, aki a képesítési előírásoknak megfelel, és alkalmas a nála elhelyezett súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő, speciális ellátást igénylő gyermek kiegyensúlyozott nevelésének biztosítására és családjába történő visszakerülésének elősegítésére. Különleges hivatásos nevelőszülő az a legalább három gyermeket ellátó hivatásos nevelőszülő, aki a képesítési előírásoknak megfelel, és alkalmas a nála elhelyezett tartósan beteg, fogyatékos, illetve három év alatti különleges ellátást igénylő gyermek kiegyensúlyozott nevelésének biztosítására és családjába történő visszakerülésének elősegítésére.
 
 (5) A nevelőszülő – saját gyermekeit is beszámítva – legfeljebb négy gyermek és fiatal felnőtt együttes ellátását biztosíthatja.
 
-(6) A hivatásos nevelőszülő, ide nem értve a speciális hivatásos nevelőszülőt – saját gyermekeit is beszámítva – legalább három, legfeljebb hét gyermek és fiatal felnőtt együttes ellátását biztosíthatja.
+(6) A hivatásos nevelőszülő, ide nem értve a speciális és különleges hivatásos nevelőszülőt – saját gyermekeit is beszámítva – legalább három, legfeljebb hét gyermek és fiatal felnőtt együttes ellátását biztosíthatja.
 
-(7) A speciális hivatásos nevelőszülő – saját gyermekeit is beszámítva – legfeljebb három gyermek és fiatal felnőtt együttes ellátását biztosíthatja.
+(7) A speciális hivatásos nevelőszülő – saját gyermekeit is beszámítva – legfeljebb három gyermek és fiatal felnőtt együttes ellátását biztosítja. A különleges hivatásos nevelőszülő – saját gyermekeit is beszámítva – legalább három, legfeljebb öt gyermek és fiatal felnőtt együttes ellátását biztosítja.
 
 (8) Ha mindkét házastárs, illetve élettárs nevelőszülői feladatot lát el, a közös háztartásukban elhelyezendő gyermekek száma akkor sem haladhatja meg az (5)–(7) bekezdésben meghatározott gyermeklétszámot.
 
-(9) A nevelőszülőnél, a hivatásos nevelőszülőnél, a speciális hivatásos nevelőszülőnél (a továbbiakban: nevelőszülő) elhelyezendő gyermekek számának meghatározásakor figyelembe kell venni a gyermek fogyatékosságát, személyiségzavarát vagy az egyéb különleges nevelést indokoló körülményt.
+(9) A nevelőszülőnél, a hivatásos nevelőszülőnél, a speciális és különleges hivatásos nevelőszülőnél (a továbbiakban: nevelőszülő) elhelyezendő gyermekek számának meghatározásakor figyelembe kell venni a gyermek fogyatékosságát, személyiségzavarát vagy az egyéb különleges nevelést indokoló körülményt.
 
 (10) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (5)–(7) bekezdésben meghatározott gyermeklétszámtól – a gyermek érdekében – el lehet térni.

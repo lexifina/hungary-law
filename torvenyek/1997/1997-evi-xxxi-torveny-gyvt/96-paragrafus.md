@@ -33,3 +33,5 @@ c) szakmai tanácsadással segíti a kijelölt feladatok tekintetében a terüle
 d) szakértőként közreműködik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők szakmai ellenőrzésében, a szakmai programok értékelésében,
 
 e) kezdeményezi a gyermekvédelmi rendszerben dolgozók továbbképzését és tapasztalatcseréjét.
+
+(10) A miniszter a módszertani feladatok ellátásához a módszertani intézmények kijelöléséről és feladatairól szóló miniszteri rendeletben meghatározottak szerint egyedi támogatást nyújt.

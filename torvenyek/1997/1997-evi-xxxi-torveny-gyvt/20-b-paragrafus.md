@@ -12,7 +12,7 @@ b) nyugellátásban, vagy baleseti nyugellátásban, vagy nyugdíjszerű rendsze
 
 (4) A települési önkormányzat jegyzője annak a gyámul kirendelt hozzátartozónak, akinek kiegészítő gyermekvédelmi támogatásra való jogosultsága
 
-a) a tárgyév július 1-jén fennáll, a tárgyév július hónapjában – a július hónapra járó kiegészítő gyermekvédelmi támogatás összege mellett –,
+a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó kiegészítő gyermekvédelmi támogatás összege mellett –,
 
 b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó kiegészítő gyermekvédelmi támogatás összege mellett –
 

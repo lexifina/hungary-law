@@ -14,10 +14,10 @@ b) meghatározott ideig hozzátartozóival a kapcsolattartását csak korlátozo
 
 c) a gyám (hivatásos gyám) egyetértésével meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát.
 
-(4) A gyámhivatal a határozathozatal előtt – a gyermek állapotát figyelembe véve – meghallgatja a gyermeket, törvényes képviselőjét, a gyermekjogi képviselőt, a gyámi tanácsadót, a speciális gyermekotthon vezetőjét, valamint beszerzi a megyei, fővárosi gyermekvédelmi szakértői bizottság véleményét. A meghallgatást szükség esetén a gyámhivatal hivatalos helyiségén kívül is meg lehet tartani.
+(4) A gyámhivatal a határozathozatal előtt – a gyermek állapotát figyelembe véve – meghallgatja a gyermeket, törvényes képviselőjét, a gyermekjogi képviselőt, a gyámi tanácsadót, a speciális gyermekotthon vezetőjét, valamint kikéri a megyei, fővárosi gyermekvédelmi szakértői bizottság véleményét. A meghallgatást szükség esetén a gyámhivatal hivatalos helyiségén kívül is meg lehet tartani.
 
 (5) A gyámhivatal a nevelési felügyelet kérdésében a megyei, fővárosi gyermekvédelmi szakértői bizottság véleményétől csak kivételesen indokolt esetben térhet el.
 
-(6) A gyámhivatal a gyermek nevelési felügyeletéről 5 munkanapon belül határoz.
+(6) A gyámhivatal a gyermek nevelési felügyeletéről 8 napon belül határoz.
 
 (7) A gyámhivatal a nevelési felügyeletet szükség szerint, de legalább havonta felülvizsgálja a megyei, fővárosi szakértői bizottság véleménye alapján.

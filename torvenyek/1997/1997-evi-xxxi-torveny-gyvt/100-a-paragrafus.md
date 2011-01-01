@@ -22,6 +22,6 @@ d) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemb
 
 (7) Ha a bírságot a települési önkormányzat jegyzője mint működést engedélyező szerv szabta ki, a bírságról szóló határozatát közli az ellenőrzési jogkört gyakorló gyámhivatallal.
 
-(8) A jogerősen kiszabott és meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.
+(8) A jogerősen kiszabott és meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül, amelyről az állami adóhatóság gondoskodik.
 
 (9) A bírságból befolyt összeget a miniszter a gyermekjóléti és gyermekvédelmi szolgáltatások fejlesztését segítő feladatokra használja fel.

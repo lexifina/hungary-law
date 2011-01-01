@@ -18,7 +18,7 @@ f) felkérésre környezettanulmányt készít,
 
 g) kezdeményezi a települési önkormányzatnál új ellátások bevezetését,
 
-h) a területi gyermekvédelmi szakszolgálat felkérésének megfelelően vizsgálja és feltárja az örökbe fogadni szándékozók körülményeit,
+h)
 
 i) biztosítja a gyermekjogi képviselő munkavégzéséhez szükséges helyiségeket,
 

@@ -30,7 +30,7 @@ m) gyermekvédelmi gondoskodás: az e törvényben meghatározottak szerint elre
 
 n) veszélyeztetettség: olyan – a gyermek vagy más személy által tanúsított – magatartás, mulasztás vagy körülmény következtében kialakult állapot, amely a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődését gátolja vagy akadályozza,
 
-o) várandós anya szociális válsághelyzete: olyan családi, környezeti, társadalmi helyzet vagy ezek következtében kialakult állapot, amely a várandós anya testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza, és ezáltal veszélyezteti a gyermek egészséges megszületését,
+o) várandós anya válsághelyzete: olyan családi, környezeti, szociális, társadalmi helyzet vagy ezek következtében kialakult állapot, amely a várandós anya testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza, és ezáltal veszélyezteti a gyermek egészséges megszületését,
 
 p) tartós betegség: azon kórforma, amely a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosít,
 

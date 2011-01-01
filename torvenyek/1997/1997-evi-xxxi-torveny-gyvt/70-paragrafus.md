@@ -19,3 +19,5 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 (4) A gyámhivatal a kérelem benyújtásakor tájékoztatja a szülőt jognyilatkozatának következményeiről.
 
 (5) Az (1) bekezdés c) pontja szerinti esetben a családbafogadással egyidejűleg meg kell szüntetni a gyermek átmeneti nevelésbe vételét.
+
+(6) A családbafogadás fennállása alatt is elrendelhető a gyermek védelembe vétele, ha annak feltételei megvalósulnak.

@@ -1,10 +1,10 @@
-73. § (1) A gyámhivatal – a (3) bekezdésben meghatározott kivétellel – az ideiglenes hatályú elhelyezést követően – függetlenül attól, hogy arra mely beutaló szerv intézkedése alapján kerül sor – annak elrendelésétől számított
+73. § (1) A gyámhivatal – a (3) bekezdésben meghatározott kivétellel – az ideiglenes hatályú elhelyezést követően – függetlenül attól, hogy arra mely beutaló szerv intézkedése alapján kerül sor, és hogy a döntést megfellebbezték-e – annak elrendelésétől számított
 
-a) 22 munkanapon belül megszünteti az ideiglenes hatályú elhelyezést, ha annak okai nem állnak fenn, vagy
+a) harminc napon belül megszünteti az ideiglenes hatályú elhelyezést, ha annak okai nem állnak fenn, vagy
 
-b) 27 munkanapon belül elrendeli a gyermek átmeneti vagy tartós nevelésbe vételét, vagy
+b) harmincöt napon belül elrendeli a gyermek átmeneti vagy tartós nevelésbe vételét, vagy
 
-c) 45 munkanapon belül pert indít az ideiglenes hatályú elhelyezés fenntartása vagy megváltoztatása mellett a gyermekelhelyezés megváltoztatása, illetve a szülői felügyelet megszüntetése iránt.
+c) két hónapon belül pert indít az ideiglenes hatályú elhelyezés fenntartása vagy megváltoztatása mellett a gyermekelhelyezés megváltoztatása, illetve a szülői felügyelet megszüntetése iránt.
 
 (2) A bíróság gyermekelhelyezéssel kapcsolatos döntésének az (1) bekezdés c) pontjában meghatározott perindítással történő megváltoztatására csak abban az esetben kerülhet sor, ha azok a körülmények, amelyekre a bíróság elhelyezési döntését alapította, később lényegesen megváltoztak.
 

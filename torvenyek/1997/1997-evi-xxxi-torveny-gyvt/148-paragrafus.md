@@ -2,7 +2,7 @@
 
 (2) A gyermekek napközbeni ellátását biztosító intézményben – a 149. §-ban foglalt kivétellel – az alapellátások keretébe tartozó szolgáltatások közül csak az étkezésért állapítható meg térítési díj.
 
-(3) A gyermekek napközbeni ellátása (a továbbiakban: gyermekétkeztetés) intézmény térítési díjának alapja az élelmezés nyersanyagköltségének egy ellátottra jutó napi összege.
+(3) A gyermekek napközbeni ellátása (a továbbiakban: gyermekétkeztetés) intézményi térítési díjának alapja – ide nem értve a bölcsődét – az élelmezés nyersanyagköltségének egy ellátottra jutó napi összege. A bölcsőde intézményi térítési díjának alapja az élelmezés nyersanyagköltsége és a nyersanyagköltség legfeljebb 50%-át kitevő rezsiköltség egy ellátottra jutó napi összege.
 
 (4) A személyi térítési díjat az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg.
 
@@ -14,7 +14,7 @@ aa) bölcsődés,
 
 ab) óvodás,
 
-ac) 1–7. évfolyamon nappali rendszerű iskolai oktatásban részt vevő,
+ac) 1–8. évfolyamon nappali rendszerű iskolai oktatásban részt vevő,
 
 ad) fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó intézményben elhelyezett, aa)–ac) alpont szerinti életkorú
 

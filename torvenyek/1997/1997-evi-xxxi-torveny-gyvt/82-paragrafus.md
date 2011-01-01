@@ -22,7 +22,7 @@ f) érdekében a 141. § (1) bekezdésének a) és b) pontja alapján vezetett n
 
 (5) Az egyéni elhelyezési terv megvalósításában, a feladatok teljesítésében a gyermek gondozója, gyámja (hivatásos gyámja), valamint az átmeneti nevelésbe vett gyermek szülője és a szülő lakóhelye szerint illetékes települési önkormányzat együttműködik.
 
-(6) A megyei, fővárosi gyermekvédelmi szakértői bizottságot a megyei, fővárosi területi gyermekvédelmi szakszolgálat működteti. Az országos gyermekvédelmi szakértői bizottságot a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) jelöli ki öt éves időtartamra.
+(6) A megyei, fővárosi gyermekvédelmi szakértői bizottságot a megyei, fővárosi területi gyermekvédelmi szakszolgálat működteti. Az országos gyermekvédelmi szakértői bizottságot a miniszter jelöli ki öt éves időtartamra.
 
 (7) A megyei, fővárosi, illetve az országos gyermekvédelmi szakértői bizottság legalább három tagból, a speciális szükségletű gyermekek vizsgálata esetén legalább öt tagból áll. A szakértői bizottság állandó tagja egy fő gyermekorvos, egy fő gyermek-szakpszichológus és egy fő szociális munkás. A speciális szükségletű gyermekek esetében a három állandó tagból álló bizottság kiegészül egy fő pszichiáterrel és egy fő gyógypedagógussal. A gyermekvédelmi szakértői bizottság felkérésére munkájába bevonhatók a gyermek egészségi, mentális és általános személyiségállapota szerinti eseti szakértő is.
 

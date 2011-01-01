@@ -4,13 +4,13 @@
 
 a) a gyermek óvodai beíratását követően első alkalommal, ha a gyermek óvodai beíratása
 
-aa) az év első felében történik és a gyermek óvodai nevelésben való részvétele óta legalább három hónap eltelt, a beíratás évének június hónapjában,
+aa) a naptári év első felében történik és a gyermek óvodai nevelésben való részvétele óta legalább két hónap eltelt, a beíratás évének június hónapjában,
 
-ab) az év első felében történik, de júniusig nem telt el három hónap, a beíratás évének december hónapjában,
+ab) a naptári év első felében történik, de júniusig nem telt el két hónap, a beíratás évének december hónapjában,
 
-ac) az év második felében történik és a gyermek óvodai nevelésben való részvétele óta legalább három hónap eltelt, a beíratás évének december hónapjában,
+ac) a naptári év második felében történik és a gyermek óvodai nevelésben való részvétele óta legalább két hónap eltelt, a beíratás évének december hónapjában,
 
-ad) az év második felében történik, de a beíratás évében decemberig nem telt el három hónap, a következő év június hónapjában [a továbbiakban az aa)–ad) pont alattiak együtt: első alkalom],
+ad) a naptári év második felében történik, de a beíratás évében decemberig nem telt el két hónap, a következő év június hónapjában [a továbbiakban az aa)–ad) pont alattiak együtt: első alkalom],
 
 b) a gyermek beíratását követően második és további alkalommal az óvodai nevelési jogviszony fennállásáig
 
@@ -24,4 +24,4 @@ pénzbeli támogatást folyósít.
 
 (3) Az (1) bekezdés szerinti pénzbeli támogatás összege a 2009. évben gyermekenként első alkalommal húszezer forint, ezt követőn esetenként és gyermekenként tízezer forint. A 2009. évet követően az összeg emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-(4) A helyi önkormányzat rendeletben előírhatja, hogy az első alkalommal folyósításra kerülő pénzbeli támogatás helyett a szülőnek gyermeke részére természetbeni támogatás nyújtható. A természetbeni támogatást a gyermek beíratását követő legfeljebb 15 munkanapon belül kell a szülő rendelkezésére bocsátani.
+(4) A helyi önkormányzat rendeletben előírhatja, hogy az első alkalommal folyósításra kerülő pénzbeli támogatás helyett a szülőnek gyermeke részére természetbeni támogatás nyújtható. A természetbeni támogatást a gyermek beíratását követő legfeljebb huszonegy napon belül kell a szülő rendelkezésére bocsátani.

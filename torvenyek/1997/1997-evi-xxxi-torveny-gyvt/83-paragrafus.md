@@ -28,4 +28,4 @@ d) előzetes letartóztatásban van, illetve szabadságvesztését vagy egyéb b
 
 (7) A gyermek tartózkodási helyének kijelöléséhez, illetve megváltoztatásához – a (6) bekezdés a) és d) pontjának kivételével – a gyám előzetesen beszerzi a gyámhivatal jóváhagyását. A (6) bekezdés a) és d) pontjában meghatározott esetekben a gyám értesíti a gyámhivatalt a tartózkodási hely kijelöléséről vagy megváltozásáról.
 
-(8) A gyámhivatal a (7) bekezdésben meghatározott kérelem jóváhagyásáról annak benyújtásától számított 5 munkanapon belül dönt. Ha a gyámhivatal 5 munkanap alatt nem foglal állást, a kérelmet jóváhagyottnak kell tekinteni. A gyámhivatal a gyám kérelmének jóváhagyását akkor tagadhatja meg, ha a tartózkodási hely kijelölése vagy megváltoztatása nem áll a gyermek érdekében.
+(8) A gyámhivatal a (7) bekezdésben meghatározott kérelem jóváhagyásáról annak megérkezését követő naptól számított nyolc napon belül dönt. Ha a gyámhivatal nyolc nap alatt nem foglal állást, a kérelmet jóváhagyottnak kell tekinteni. A gyámhivatal a gyám kérelmének jóváhagyását akkor tagadhatja meg, ha a tartózkodási hely kijelölése vagy megváltoztatása nem áll a gyermek érdekében.

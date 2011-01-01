@@ -10,4 +10,4 @@
 
 (5) A családi gyermekfelügyelet keretében gondozott saját gyermek után normatív állami hozzájárulást nem lehet igénybe venni.
 
-(6) Családi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43/A. § (4) bekezdésében foglaltaknak.
+(6) Családi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.

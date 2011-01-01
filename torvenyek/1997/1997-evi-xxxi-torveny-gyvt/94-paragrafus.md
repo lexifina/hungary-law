@@ -31,3 +31,5 @@ köteles működtetni.
 (6) Ha az intézmény ellátási területe a fenntartó önkormányzat illetékességi területét meghaladja, – eltérő megállapodás hiányában – az ellátást valamennyi jogosult számára azonos feltételek szerint kell biztosítani. E rendelkezést kell alkalmazni az ellátás megszüntetése esetén is.
 
 (7) Az intézményt fenntartó önkormányzat az intézménnyel nem rendelkező önkormányzat kérésére az ellátást nem tagadhatja meg, ha e törvény hatálybalépésekor vagy külön megállapodásuk alapján már biztosított ellátást.
+
+(8) A települési önkormányzat a bölcsődés korú gyermekek napközbeni ellátásának biztosítására irányuló, a (2) bekezdésben és a (3) bekezdés a) pontjában foglalt kötelezettségének a bölcsőde működtetése mellett családi napközi formájában is eleget tehet.
