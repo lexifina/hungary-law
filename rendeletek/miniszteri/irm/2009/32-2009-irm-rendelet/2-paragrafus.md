@@ -1,12 +1,12 @@
-## 1. § A Rendőrségnél rendszeresíthető kényszerítő eszközök típusait és fajtáit a melléklet tartalmazza.
+## 1. §[^1] A rendőrségnél rendszeresíthető kényszerítő eszközök típusait és fajtáit a melléklet tartalmazza.
 
 2. § (1) Ez a rendelet 2009. szeptember 1-jén lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
 Melléklet a 32/2009. (VIII. 19.) IRM rendelethez
 
-A. Lőfegyverek, gránátvetők
+A. Lőfegyverek, gránátvetők[^3]
 
 1. 7,65 mm-es Browning tölténnyel működő pisztolyok,
 
@@ -32,19 +32,25 @@ A. Lőfegyverek, gránátvetők
 
 12. 14,5 mm-es tölténnyel működő toronygéppuskák,
 
-13. .308-as kaliberű tölténnyel működő mesterlövő puskák,
+13. 5,56 mm-es .223-as tölténnyel működő gépkarabélyok,
 
-14. .338-as kaliberű tölténnyel működő mesterlövő puskák,
+14. 7,62x51 mm-es NATO tölténnyel működő puskák, mesterlövő puskák,
 
-15. 12-es kaliberű előágytáras ismétlő vagy öntöltő (félautomata) sörétes puskák,
+15. .308-as kaliberű tölténnyel működő puskák, mesterlövő puskák,
 
-16. Kézi könnygázgránát-vető,
+16. .338-as kaliberű tölténnyel működő mesterlövő puskák,
 
-17. Kézi gránátvető 40 mm-es gránátokhoz,
+17. .45-ös kaliberű tölténnyel működő pisztolyok,
 
-18. Gépjárműre szerelt automata könnygázgránát-vető,
+18. 12-es kaliberű előágytáras ismétlő vagy öntöltő (félautomata) sörétes puskák,
 
-19. Kézi páncélelhárító gránátvető.
+19. Kézi könnygázgránát-vető,
+
+20. Kézi gránátvető 40 mm-es gránátokhoz,
+
+21. Gépjárműre szerelt automata könnygázgránát-vető,
+
+22. Kézi páncélelhárító gránátvető.
 
 B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos eszközök
 
@@ -58,7 +64,7 @@ B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos esz
 
 5. Kardok,
 
-6–7.[^2]
+6–7.[^4]
 
 C. Mozgásszabadságot korlátozó eszközök
 
@@ -96,7 +102,7 @@ E. Speciális bevetési gépjárművek
 
 1. Vízágyúk.
 
-F. Lőfegyverek különféle töltényei, gránátvetők gránátjai
+F. Lőfegyverek különféle töltényei, gránátvetők gránátjai[^5]
 
 1. 7,65 mm-es Browning pisztolytöltény különféle változatai,
 
@@ -112,15 +118,23 @@ F. Lőfegyverek különféle töltényei, gránátvetők gránátjai
 
 7. 14,5 mm-es töltény különféle változatai,
 
-8. .308-as kaliberű töltény különféle változatai,
+8. 5,56 mm-es .223-as kaliberű töltény különféle változatai,
 
-9. .338-as kaliberű töltény különféle változatai,
+9. 7,62x51 mm-es NATO töltény különféle változatai,
 
-10. 12-es kaliberű töltények különféle változatai,
+10. .308-as kaliberű töltény különféle változatai,
 
-11. Kumulatív (páncéltörő) gránát,
+11. .338-as kaliberű töltény különféle változatai,
 
-12. 40 mm-es gránát különféle változatai.
+12. .45-ös kaliberű töltény különféle változatai,
+
+13. 12-es kaliberű töltények különféle változatai,
+
+14. Kumulatív (páncéltörő) gránát,
+
+15. 40 mm-es gránát különféle változatai,
+
+16. UKG könnygáz gránát.
 
 G. Védekezésre, vagy akaratnyilvánításra képtelen állapotot előidéző, természetes vagy mesterséges hatóanyagú, könnyfakasztó, szemet, nyálkahártyát irritáló eszközök és anyagok
 
@@ -138,5 +152,8 @@ H. A vízágyúk alkalmazásához szükséges kémiai anyagok
 
 1. Jelölőfestékek.
 
-[^1]: A 2. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^2]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^1]: Az 1. § a 9/2010. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^3]: A melléklet A. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
+[^4]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A melléklet F. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
