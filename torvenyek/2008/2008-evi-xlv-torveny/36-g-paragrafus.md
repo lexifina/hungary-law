@@ -1,4 +1,4 @@
-36/G. § (1) A közjegyző tanúsítványt az érintett személy élettársi nyilvántartásban szereplő adatainak igazolása céljából kizárólag a nyilvántartásban szereplő személynek állíthat ki.
+36/G. § (1) A közjegyző kérelemre tanúsítványt állít ki az élettársi nyilvántartásban szereplő személy számára az élettársi nyilvántartásban szereplő adatainak igazolása céljából, illetve az élettársi nyilvántartásban nem szereplő személy számára annak igazolására, hogy az élettársi nyilvántartásban nem szerepel.
 
 (2) Az országos kamara az élettársi nyilvántartásból az adatigénylésre jogosult részére szolgáltathat adatokat.
 

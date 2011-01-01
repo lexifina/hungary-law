@@ -38,9 +38,9 @@ d) az az időpont, amikor az anyakönyvi bejegyzés szerint a nyilvántartásba 
 
 e) a nyilatkozatot a nyilvántartásba bejegyző közjegyző neve, székhelye és a bejegyzésről szóló végzés ügyszáma.
 
-(5) Az élettársak közös kérelmére az élettársi nyilvántartás tartalmazza az élettársak nyilatkozatát a születendő közös gyermekeik családi nevéről.
+(5)
 
-(6) Az élettársi nyilvántartás közhitelesen tartalmazza az élettársaknak a (4) bekezdés b)–e) pontjaiban foglalt adatait és az (5) bekezdésben meghatározott nyilatkozatot.
+(6) Az élettársi nyilvántartás közhitelesen tartalmazza az élettársaknak a (4) bekezdés b)–e) pontjaiban foglalt adatait.
 
 (7) Az élettársi nyilvántartás az adatokat az élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzésének időpontjától számított 100 évig tartalmazza.
 
