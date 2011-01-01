@@ -1,4 +1,4 @@
-## 20. §[^40]
+## 20. §[^39]
 
 ## Hatósági ellenőrzés
 
@@ -14,7 +14,7 @@ b) az egyes védőövezeteket érintő tilalmak, tulajdonosi (használati) korl�
 
 c) a védőidom, védőterület, védősáv által behatárolt vízbázis állapotát, a védelem hatékonyságát.
 
-(4)[^41]
+(4)[^40]
 
-[^40]: A 20. §-t és az azt megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 68. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^41]: A 21. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 116. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 20. §-t és az azt megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 68. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^40]: A 21. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 116. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

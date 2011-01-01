@@ -1,8 +1,8 @@
 23. § (1) A védőidomot, védőterületet e rendelet hatálybalépésekor
 
-a)[^45] üzemelő vízbázis (vízkivétel), vízilétesítmény és távlati vízbázis esetén a határozatnak megfelelő ütemezésben,
+a)[^44] üzemelő vízbázis (vízkivétel), vízilétesítmény és távlati vízbázis esetén a határozatnak megfelelő ütemezésben,
 
-b)[^46]
+b)[^45]
 
 c) folyamatban lévő engedélyezési eljárás alatt álló, de üzemeltetési engedéllyel még nem rendelkező vízkivétel, vízilétesítmény esetén a határozatnak megfelelő ütemezésben, de nem később, mint a hatálybalépéstől számított 5 éven belül
 
@@ -12,8 +12,8 @@ kell kialakítani.
 
 (3) A (1) bekezdés szerinti határidők elmulasztása esetén a vízügyi hatóság a kiadott üzemeltetési engedélyt kártalanítási kötelezettség nélkül hivatalból visszavonja.
 
-(4)[^47]
+(4)[^46]
 
-[^45]: A 23. § (1) bekezdésének a) pontja a 231/2007. (IX. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^46]: A 23. § (1) bekezdésének b) pontját a 231/2007. (IX. 4.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^47]: A 23. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 116. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A 23. § (1) bekezdésének a) pontja a 231/2007. (IX. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^45]: A 23. § (1) bekezdésének b) pontját a 231/2007. (IX. 4.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^46]: A 23. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 116. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

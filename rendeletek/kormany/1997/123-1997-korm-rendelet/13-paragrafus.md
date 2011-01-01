@@ -16,21 +16,21 @@ d) a növénytermesztésre a 12. § (2) és (3) bekezdésben leírtakat kell ér
 
 e) önellátást szolgáló állattartás megengedett, de azt meghaladó mértékű állattartás és víziszárnyas telep csak a ,,B'' zónában lehetséges –, a hulladék (trágya) kezelése és tárolása során úgy kell eljárni, hogy a talaj és a talajvíz ne szennyeződhessen (így például a trágyalét vízzáró tartályban vagy medencében kell gyűjteni, és ellenőrzött módon, a hidrogeológiai védőövezeten kívül vagy legfeljebb annak ,,B'' zónájában lehet felhasználni);
 
-f)[^16] meglévő tárolóhelyen bármely, a vizet károsító folyékony anyagot csak úgy szabad tárolni, hogy
+f)[^15] meglévő tárolóhelyen bármely, a vizet károsító folyékony anyagot csak úgy szabad tárolni, hogy
 
 fa) a tárolótartály állapota kívülről is bármikor ellenőrizhető legyen, vagy
 
-fb)[^17] az üzemeltető a felügyelőség által engedélyezett módon tervezett és üzemeltetett rendszer segítségével rendszeresen ellenőrizze, hogy nem kerül-e károsító anyag a felszín alatti vízbe;
+fb)[^16] az üzemeltető a felügyelőség által engedélyezett módon tervezett és üzemeltetett rendszer segítségével rendszeresen ellenőrizze, hogy nem kerül-e károsító anyag a felszín alatti vízbe;
 
-g)[^18] a vizet károsító folyékony anyagok tárolására szolgáló új tárolóhelyet úgy kell kialakítani, hogy
+g)[^17] a vizet károsító folyékony anyagok tárolására szolgáló új tárolóhelyet úgy kell kialakítani, hogy
 
 ga) a tárolótartály állapota kívülről bármikor ellenőrizhető legyen,
 
 gb) a tárolótartály olyan vízzárófalú teknőben vagy tartályban legyen, amely – meghibásodás esetén – a teljes tárolt folyadékmennyiséget befogadja;
 
-h)[^19] a vízre veszélyes anyagot (így például ásványolajtermék) szállító csővezetéket a területen akkor lehet átvezetni, ha a vezeték biztonságát (így például külön burkolattal) megteremtik, gondoskodnak a vezeték rendszeres (így például havi ultrahangos) ellenőrzéséről és azt csőtörés esetére leállító automatikával látják el.
+h)[^18] a vízre veszélyes anyagot (így például ásványolajtermék) szállító csővezetéket a területen akkor lehet átvezetni, ha a vezeték biztonságát (így például külön burkolattal) megteremtik, gondoskodnak a vezeték rendszeres (így például havi ultrahangos) ellenőrzéséről és azt csőtörés esetére leállító automatikával látják el.
 
-[^16]: A 13. § (1) bekezdése f) pontjának bevezető szövegrésze a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: A 13. § (1) bekezdése f) pontjának fb) alpontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indított eljárásokban kell alkalmazni.
-[^18]: A 13. § (1) bekezdése g) pontjának bevezető szövegrésze a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^19]: A 13. § (1) bekezdésének h) pontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A 13. § (1) bekezdése f) pontjának bevezető szövegrésze a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 13. § (1) bekezdése f) pontjának fb) alpontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indított eljárásokban kell alkalmazni.
+[^17]: A 13. § (1) bekezdése g) pontjának bevezető szövegrésze a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 13. § (1) bekezdésének h) pontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
