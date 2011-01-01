@@ -14,7 +14,7 @@ e) ha e tevékenységük jogszabályi kötelezettségből ered, az ezt szabályo
 
 (3) A központi elektronikus szolgáltató rendszer adatkezelője a segítségnyújtó szervezetek (2) bekezdés szerinti adatait közzéteszi az integrált ügyintézési és tájékoztatási felületen.
 
-(4) A segítségnyújtó szervezet a közzétett adataiban történő változást a központi elektronikus szolgáltató rendszer adatkezelője számára a (2) bekezdésben rögzített formában 5 munkanapon belül bejelenti.
+(4)[^1] A segítségnyújtó szervezet a közzétett adataiban történő változást a központi elektronikus szolgáltató rendszer adatkezelője számára a (2) bekezdésben rögzített formában nyolc napon belül bejelenti.
 
 (5) A segítségnyújtó szervezet adatait a központi elektronikus szolgáltató rendszer adatkezelője törli a közzétételi listából, amennyiben
 
@@ -25,3 +25,5 @@ b) a szervezet megszűnt, vagy
 c) a szervezetet felügyeleti szerv vagy bíróság eltiltotta e tevékenység ellátásától.
 
 (6) Amennyiben a központi elektronikus szolgáltató rendszer adatkezelőjének a (2) bekezdés szerinti adatokban történt változás tudomására jut, tájékozódás céljából megkeresi az érintett segítségnyújtó szervezetet, amennyiben pedig az megszűnt, a felügyeletét ellátó, illetve működési nyilvántartást vezető szervet.
+
+[^1]: A 4. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (146) bekezdése szerint módosított szöveg. E módosító rendelez 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

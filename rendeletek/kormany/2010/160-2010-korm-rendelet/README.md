@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-160-20-
 | 2010-05-07 | 2010-160-20-22.1 | 160/2010. (V. 6.) Korm. rendelet |
 | 2010-05-08 | 2010-160-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-05-09 | 2010-160-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-01-01 | 2010-160-20-22.4 | 289/2010. (XII. 21.) Korm. rendelet |

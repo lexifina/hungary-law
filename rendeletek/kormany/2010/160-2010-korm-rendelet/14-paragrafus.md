@@ -1,6 +1,6 @@
-## 13. §[^2]
+## 13. §[^3]
 
-14. §[^3]
+14. §[^4]
 
-[^2]: A 13. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
-[^3]: A 14. § a (2) bekezdés alapján hatályát vesztette.
+[^3]: A 13. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 14. § a (2) bekezdés alapján hatályát vesztette.

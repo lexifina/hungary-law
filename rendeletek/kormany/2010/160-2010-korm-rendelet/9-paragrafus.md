@@ -6,8 +6,8 @@
 
 a) a cégszolgálat, és
 
-b)[^1] az egyéni vállalkozók nyilvántartását vezető szerv
+b)[^2] az egyéni vállalkozók nyilvántartását vezető szerv
 
 ingyenes és folyamatos adatszolgáltatást biztosítanak az integrált ügyintézési és tájékoztatási pont működtetője részére.
 
-[^1]: A 9. § b) pontja a 11. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
+[^2]: A 9. § b) pontja a 11. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
