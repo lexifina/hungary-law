@@ -20,7 +20,7 @@
 
 ## aláírás
 
-3. melléklet a 18/2010. (IV. 29.) PM rendelethez
+3. melléklet a 18/2010. (IV. 29.) PM rendelethez[^11]
 
 Jelentkezési lap a hatósági vizsgára
 
@@ -36,7 +36,7 @@ Lakcíme:
 
 | A hatósági vizsga letételének módja: | – számítógépen – írásban |
 
-| A hatósági vizsgára bocsátás alapja: | Középfokú végzettség |
+| A hatósági vizsgára bocsátás alapja: | Középfokú iskola utolsó évfolyamának elvégzése |
 
 A hatósági vizsga tervezett időpontja:
 
@@ -51,3 +51,5 @@ Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak felt�
 ............................................
 
 aláírás
+
+[^11]: A 3. melléklet a 19/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.
