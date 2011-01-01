@@ -1,3 +1,3 @@
-## 4. §[^7] A Kormány az állatvédelmi hatóságnak az eb veszélyessé minősítése iránti eljárásában, – az állat lehetőségekhez képest jóléte biztosítása kérdésében – első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal első fokú szakhatóságként eljáró szervét, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal másodfokú szakhatóságként eljáró szervét szakhatóságként jelöli ki.
+## 4. §[^10] A Kormány az állatvédelmi hatóságnak az eb veszélyessé minősítése iránti eljárásában, – az állat lehetőségekhez képest jóléte biztosítása kérdésében – első fokú eljárásban a kerületi hivatalt, másodfokú eljárásban az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot szakhatóságként jelöli ki.
 
-[^7]: A 4. § a 362/2008. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 4. § a 351/2010. (XII. 30.) Korm. rendelet 168. § (4) bekezdésével megállapított szöveg.

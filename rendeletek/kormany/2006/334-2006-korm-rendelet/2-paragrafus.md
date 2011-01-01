@@ -6,9 +6,9 @@
 
 (4) Az Ávt. 45/A. §-ában foglaltak tekintetében – figyelemmel az 1. § (4) bekezdésére – állatvédelmi hatóságként a települési, a fővárosban a kerületi önkormányzat jegyzője jár el.
 
-(5)[^3]
+(5)[^5]
 
-(6)[^4] A Kormány az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes, külön jogszabályban meghatározott állatok – tiltott kedvtelési célú tartása, szaporítása vagy forgalomba hozatala miatt történő – elkobzására, tulajdonának átruházására, végleges elhelyezésére, továbbá a végleges elhelyezésből eredő költségek viselésére kötelezésére, valamint az állat életének kioltására irányuló eljárás, valamint az Ávt. 48/B. §-ában foglaltak tekintetében állatvédelmi hatóságként a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget jelöli ki.
+(6)[^6] A Kormány az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes, külön jogszabályban meghatározott állatok – tiltott kedvtelési célú tartása, szaporítása vagy forgalomba hozatala miatt történő – elkobzására, tulajdonának átruházására, végleges elhelyezésére, továbbá a végleges elhelyezésből eredő költségek viselésére kötelezésére, valamint az állat életének kioltására irányuló eljárás, valamint az Ávt. 48/B. §-ában foglaltak tekintetében állatvédelmi hatóságként a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget jelöli ki.
 
-[^3]: A 2. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 512. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § (6) bekezdését a 107/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 511. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 2. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 512. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 2. § (6) bekezdését a 107/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 511. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
