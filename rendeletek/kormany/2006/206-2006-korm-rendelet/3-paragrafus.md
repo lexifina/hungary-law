@@ -10,7 +10,7 @@
 
 (4) Az adókedvezmény akkor vehető igénybe, ha a kérelem, illetve a bejelentés benyújtásának napjától a kötelező üzemeltetési időszakban vagy – ha az későbbi időpont – az adókedvezmény igénybevételének utolsó adóévéig
 
-a)[^12] az adózónál az állami, önkormányzati adóhatóság, valamint a vámhatóság adótartozás miatt – ide nem értve a késedelmi pótlék miatt fennálló tartozást – végrehajtási eljárást nem indított, vagy indított ugyan, de azt sikeresen foganatosította vagy az eljárás keretében fizetési könnyítést engedélyezett, amelynek feltételeit az adózó betartotta;
+a)[^12] az adózónál az állami adóhatóságnál, az önkormányzati adóhatóságnál, valamint a vámhatóságnál nyilvántartott adótartozás miatt – ide nem értve a késedelmi pótlék miatt fennálló tartozást – az állami adóhatóság, illetve az önkormányzati adóhatóság végrehajtási eljárást nem indított, vagy indított ugyan, de azt sikeresen foganatosította vagy az eljárás keretében fizetési könnyítést engedélyezett, amelynek feltételeit az adózó betartotta;
 
 b) az adózót közigazgatási hatóság határozatban, illetve annak bírósági felülvizsgálata esetén a bíróság jogerősen nem kötelezte bírság megfizetésére munkavállaló bejelentés vagy munkavállalási engedély nélküli foglalkoztatása miatt.
 
@@ -31,7 +31,7 @@ c) közvetlen támogatás igénylése esetén az eljáró hatóság a közvetlen
 (9)[^16] Az adókedvezmény jelenértékét 85/2004. (IV. 19.) Korm. rendelet 2. számú mellékletében meghatározott módszerrel kell meghatározni.
 
 [^11]: A 3. § (2) bekezdése a 202/2009. (IX. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. §-át.
-[^12]: A 3. § (4) bekezdésének a) pontja a 269/2008. (XI. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 3. § (3) bekezdése alapján a rendelkezést első ízben a 2008. adóévi adókötelezettségre lehet alkalmazni.
+[^12]: A 3. § (4) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 113. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (5) bekezdés a) pontja a 202/2009. (IX. 18.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 19. §-át.
 [^14]: A 3. § (7) bekezdését a 315/2006. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
 [^15]: A 3. § (8) bekezdését a 269/2008. (XI. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 202/2009. (IX. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. §-át.

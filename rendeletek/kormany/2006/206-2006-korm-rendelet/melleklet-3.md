@@ -10,4 +10,4 @@
 
 3. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^59]
 
-[^59]: A 3. számú melléklet a 202/2009. (IX. 18.) Korm. rendelet – a 313/2009. (XII. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított – 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. §-át.
+[^59]: A 3. számú melléklet a 202/2009. (IX. 18.) Korm. rendelet – a 313/2009. (XII. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított – 11. §-ával megállapított, a 273/2010. (XII. 9.) Korm. rendelet 113. § (2) bekezdése szerint módosított szöveg.

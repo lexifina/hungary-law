@@ -288,7 +288,7 @@
 
 ## g) tevékenysége a halászati tevékenységhez, továbbá halászati termékek feldolgozását és forgalmazását szolgáló beruházáshoz tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
 
-## h) a kérelem benyújtásakor nem áll az állami, az önkormányzati adóhatóságnál vagy a vámhatóságnál adótartozás – ide nem értve a késedelmi pótlék miatti tartozást – miatt végrehajtási eljárás alatt;
+## h) a kérelem benyújtásakor nem áll az állami, az önkormányzati adóhatóságnál vagy a vámhatóságnál nyilvántartott adótartozás – ide nem értve a késedelmi pótlék miatti tartozást – miatt az állami, illetve az önkormányzati adóhatóságnál végrehajtási eljárás alatt;
 
 ## i) a kérelem benyújtásakor megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok követelményeinek;
 
