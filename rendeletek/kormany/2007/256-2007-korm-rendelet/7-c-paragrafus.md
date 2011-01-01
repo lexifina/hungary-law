@@ -1,3 +1,3 @@
-## A Mezőgazdasági Menedzsment és Monitoring Információs Rendszer tagállami illetékes hatóságának kijelölése[^21]
+## A Mezőgazdasági Menedzsment és Monitoring Információs Rendszer tagállami illetékes hatóságának kijelölése[^19]
 
-[^21]: A 7/C. §-t megelőző alcímet a 219/2010. (VII. 27.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^19]: A 7/C. §-t megelőző alcímet a 219/2010. (VII. 27.) Korm. rendelet 9. § (3) bekezdése iktatta be.
