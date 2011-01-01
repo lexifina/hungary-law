@@ -1,12 +1,12 @@
-## 13/A. §[^62]
+## 13/A. §[^64]
 
 ## Záró rendelkezések
 
 14. § (1) Ez a rendelet – a (2) bekezdésben foglaltak figyelembevételével – 2005. november 1-jén lép hatályba.
 
-(2)[^63]
+(2)[^65]
 
-Melléklet a 176/2005. (IX. 2.) Korm. rendelethez[^64]
+Melléklet a 176/2005. (IX. 2.) Korm. rendelethez[^66]
 
 A munkáltató által, a 8. § (1) bekezdés d) pontja alapján készítendő, az akkreditációs követelmények
 
@@ -100,6 +100,6 @@ ________
 
 * Csak alap-, illetőleg rehabilitációs tanúsítvánnyal rendelkező munkáltatónak kell kitölteni.
 
-[^62]: A 13/A. §-t a 168/2009. (VIII. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 352/2009. (XII. 30.) Korm. rendelet 8. § (5) bekezdése.
-[^63]: A 14. § (2) bekezdését a 42/2008. (II. 29.) Korm. rendelet 11. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^64]: A mellékletet a 114/2009. (V. 29.) Korm. rendelet 8. §-a iktatta be.
+[^64]: A 13/A. §-t a 168/2009. (VIII. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 352/2009. (XII. 30.) Korm. rendelet 8. § (5) bekezdése.
+[^65]: A 14. § (2) bekezdését a 42/2008. (II. 29.) Korm. rendelet 11. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^66]: A mellékletet a 114/2009. (V. 29.) Korm. rendelet 8. §-a iktatta be.
