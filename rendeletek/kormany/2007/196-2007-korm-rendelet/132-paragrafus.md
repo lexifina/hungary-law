@@ -32,7 +32,7 @@ h) a belső modell megfelel a partnerkockázatról szóló jogszabály szerinti 
 
 i) megbízható és következetes.
 
-(4)[^22] Az (1) bekezdés szerinti belső modellt a hitelintézet a Felügyelet engedélyével az értékpapír ügylethez kapcsolódó hitelhez is alkalmazhatja, ha megfelel a partnerkockázatról szóló jogszabály szerződés szerinti nettósításra meghatározott feltételeinek.
+(4)[^36] Az (1) bekezdés szerinti belső modellt a hitelintézet a Felügyelet engedélyével az értékpapír ügylethez kapcsolódó hitelhez is alkalmazhatja, ha megfelel a partnerkockázatról szóló jogszabály szerződés szerinti nettósításra meghatározott feltételeinek.
 
 (5) Ha a hitelintézet a teljes mértékben korrigált kitettség érték számításához a belső modell módszert alkalmazza, akkor az kiterjed minden ügyfélre és értékpapírra azzal, hogy az elhanyagolható jelentőségű portfólióra a hitelintézet a 131. §-t alkalmazhatja.
 
@@ -70,4 +70,4 @@ E*: a teljes mértékben korrigált kitettség értéke.
 
 (10) A hitelintézet a belső modell módszerrel történő kockázattal súlyozott kitettség érték kiszámításakor a modell által az előző banki munkanapra adott eredményt alkalmazza.
 
-[^22]: A 132. § (4) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 55. § (11) bekezdésével megállapított szöveg.
+[^36]: A 132. § (4) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 55. § (11) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 6. A garanciák és a hitelderivatívák értékelésének minimumkövetelményei
 
-80. § (1) Ha a Hpt. 76/C. § (6) bekezdésének d) pontja szerinti belső minősítésen alapuló módszert alkalmazó hitelintézet a sztenderd módszert alkalmazhatja a központi kormánnyal, központi bankkal, hitelintézettel és befektetési vállalkozással szembeni kitettségre, akkor az általuk nyújtott garanciára nem alkalmazhatóak az e § és a 81–82. § rendelkezései. Ebben az esetben a hitelintézet a Hpt. 76/E–76/F. § szerint ismerheti el az előre nem rendelkezésre bocsátott hitelkockázati fedezetet.
+80. § (1)[^27] Ha a Hpt. 76/C. § (6) bekezdésének d) pontja szerinti belső minősítésen alapuló módszert alkalmazó hitelintézet a sztenderd módszert alkalmazhatja a központi kormánnyal, központi bankkal, hitelintézettel, befektetési vállalkozással és a 108. § (1) bekezdés g) pontja szerinti vállalkozással szembeni kitettségre, akkor az általuk nyújtott garanciára nem alkalmazhatóak az e § és a 81–82. § rendelkezései. Ebben az esetben a hitelintézet a Hpt. 76/E –76/F. § szerint ismerheti el az előre nem rendelkezésre bocsátott hitelkockázati fedezetet.
 
 (2) A lakossággal szembeni kitettségre vonatkozó garancia esetében az e § szerinti követelmények a kategóriákba vagy poolokba (halmazokba) soroláskor, illetve a nemteljesítés becslésekor is fennállnak.
 
@@ -13,3 +13,5 @@
 (6) A Felügyelet engedélyével elismerhető olyan garancia vagy készfizető kezesség, amely bizonyos feltételek teljesülése esetén a garancianyújtót vagy a készfizető kezességet vállalót nem kötelezi teljesítésre (feltételes garanciák). A feltételes garanciát a hitelintézet akkor ismerheti el, ha képes a feltételes garancia kockázatcsökkentő hatásának megfelelő számszerűsítésére, hatékony és folyamatos figyelemmel kísérésére.
 
 (7) A hitelintézetneknek a kategóriába vagy poolba (halmazba) sorolás kritériumait és a kockázatcsökkentési hatás lehetséges romlását megfelelő módon kell kezelnie.
+
+[^27]: A 80. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 19. §-ával megállapított szöveg.

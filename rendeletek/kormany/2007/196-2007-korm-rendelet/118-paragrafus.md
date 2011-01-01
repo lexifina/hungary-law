@@ -6,20 +6,26 @@ b) az a hitelintézet, amelynél az óvadékot vagy a letétet elhelyezték, kif
 
 c) az óvadék feltétlen és visszavonhatatlan.
 
-(2) Nemteljesítés esetére fedezetet nyújtó életbiztosítási kötvény vagy szerződés – amelynek a kedvezményezettje a hitelnyújtó hitelintézet – akkor ismerhető el egyéb, előre rendelkezésre bocsátott hitelkockázati fedezetként, ha
+(2)[^33] Nemteljesítés esetére fedezetet nyújtó életbiztosítási szerződés (kötvény) – amelyből eredő követelések jogosultja a hitelnyújtó hitelintézet – akkor ismerhető el egyéb, előre rendelkezésre bocsátott hitelkockázati fedezetként, ha
 
-a) a biztosító megfelel a 109. §-ban foglalt követelményeknek,
+a) az életbiztosítási szerződésből (kötvényből) eredő pénzköveteléseket a hitelnyújtó hitelintézetre engedményezték vagy azokra a hitelnyújtó hitelintézetnek zálogjoga van,
 
-b) abból eredő követelésre a hitelnyújtó hitelintézet javára zálogjogot alapítottak,
+b) a biztosítót értesítették a hitelintézet jogosultságáról, és ennek következtében a szerződésből (kötvényből) eredő követelések kifizetésére a hitelintézet beleegyezése nélkül nem kerülhet sor,
 
-c) a biztosítót értesítették a zálogjog alapításáról, és ennek következtében a zálogjog jogosultja más követeléseket megelőző sorrendben kielégítést kereshet,
+c) a hitelintézet jogosult arra, hogy az ügyfél hitelintézet felé történő nemteljesítése esetén a biztosítási szerződést felmondja, és a visszavásárlási értéket megkapja,
 
-d) a kötvény vagy szerződés biztosítási összege vagy visszavásárlási értéke nem csökkenhet,
+d) a hitelintézetet tájékoztatják az ügyfél bármely, a biztosítási szerződéssel kapcsolatos nemfizetéséről,
 
-e) a hitelintézet jogosult arra, hogy az ügyfél nemteljesítése esetén a kötvény vagy szerződés visszavásárlási értékének a zálogszerződésben meghatározott részét időben megkapja,
+e) a szerződés (kötvény) a kockázatvállalás teljes futamidejére hitelkockázati fedezetet biztosít azzal, hogy ha a biztosítási jogviszony a kockázatvállalás futamideje előtt megszűnik, akkor a hitelintézet köteles gondoskodni arról, hogy a szerződésben meghatározott biztosítási összeg vagy visszavásárlási érték a futamidő végéig fedezetként rendelkezésre álljon,
 
-f) a kötvény vagy a szerződés a kölcsön teljes futamidejére hitelkockázati fedezetet biztosít azzal, hogy ha a biztosítási jogviszony a kölcsön futamideje előtt jár le, akkor a futamidő végéig fedezetül szolgál a biztosítási összegnek vagy visszavásárlási értéknek a zálogszerződésben meghatározott része,
+f) az a) pontban meghatározott jogosultság a kölcsönszerződés megkötésekor valamennyi irányadó joghatóság előtt érvényes és érvényesíthető,
 
-g) a b) pont szerinti zálogjog alapítás a kölcsönszerződés megkötésekor valamennyi irányadó joghatóság előtt érvényes és érvényesíthető, és
+g) a szerződés (kötvény) visszavásárlási értékét a biztosító meghatározza, és az nem csökkenthető,
 
-h) a hitelnyújtó hitelintézetet tájékoztatják a kötvénytulajdonos vagy szerződő fél bármely, a kötvénnyel vagy szerződéssel kapcsolatos nemteljesítéséről.
+h) a visszavásárlási érték kifizetésére kérésre kellő időben kerül sor,
+
+i) a visszavásárlási érték kifizetésére a hitelintézet beleegyezése nélkül nem kerülhet sor, és
+
+j) az életbiztosító az Európai Unió valamely tagállamában tevékenységi engedélyt szerzett biztosító, vagy az Európai Unióban alkalmazott felügyeleti és szabályozási rendelkezésekkel legalább egyenértékű rendelkezéseket alkalmazó harmadik ország illetékes hatóságának felügyelete alá tartozik.
+
+[^33]: A 118. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.

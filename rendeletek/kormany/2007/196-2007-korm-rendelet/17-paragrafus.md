@@ -28,10 +28,10 @@ b) az eredeti lejárata szerint legfeljebb egy éves, a kölcsönnyújtásra, é
 
 a) a hitelintézet által nem saját kockázatra nyújtott hitel alapján fennálló követelés,
 
-b)[^9] a kölcsönnyújtásra, értékpapír-vásárlásra, bankgarancia és bankkezesség nyújtására, váltóleszámítolásra, váltókezesség nyújtására és egyéb kockázatvállalásra vonatkozó le nem hívott ígérvény és hitelkeret, amely bármikor, feltétel nélkül, azonnali hatállyal felmondható, vagy amelynél a hitelfelvevő hitelképességében bekövetkező minőségromlás automatikusan a megállapodás felmondását eredményezi.
+b)[^12] a kölcsönnyújtásra, értékpapír-vásárlásra, bankgarancia és bankkezesség nyújtására, váltóleszámítolásra, váltókezesség nyújtására és egyéb kockázatvállalásra vonatkozó le nem hívott ígérvény és hitelkeret, amely bármikor, feltétel nélkül, azonnali hatállyal felmondható, vagy amelynél a hitelfelvevő hitelképességében bekövetkező minőségromlás automatikusan a megállapodás felmondását eredményezi.
 
 c) a Hpt. 79. §-ának (2) és (7) bekezdésében, illetőleg a Tpt. 178. §-nak (3) bekezdésében foglalt korlát túllépéseinek a szavatoló tőke számítás során levont összege, és
 
 d) a bármikor feltétel nélkül visszavonható készenléti (stand-by) hitellevél.
 
-[^9]: A 17. § (4) bekezdésének b) pontja a 380/2007. (XII. 23.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
+[^12]: A 17. § (4) bekezdésének b) pontja a 380/2007. (XII. 23.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
