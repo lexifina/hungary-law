@@ -2,7 +2,7 @@
 
 |  | Megnevezés | Létszám (fő) |
 
-| 1. | Miniszterelnökség | 102 |
+| 1. | Miniszterelnökség | 120 |
 
 | 2. | Közigazgatási és Igazságügyi Minisztérium | 1097 |
 
@@ -20,7 +20,7 @@
 
 | 9. | Vidékfejlesztési Minisztérium | 735 |
 
-| 10. | ÖSSZESEN: | 5942 |
+| 10. | ÖSSZESEN: | 5960 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -66,7 +66,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 3.2. | Magyar Külügyi Intézet | 20 |
 
-| 4. | Nemzetgazdasági Minisztérium | 25 884 |
+| 4. | Nemzetgazdasági Minisztérium | 26 039 |
 
 | 4.1. | Adó- és Pénzügyi Ellenőrzési Hivatal | 15 607 |
 
@@ -121,6 +121,8 @@ Igazgatási és igazgatási jellegű szervek létszáma
 | 4.8. | Országos Munkavédelmi és Munkaügyi Főfelügyelőség | 1 055 |
 
 | 4.9. | Európai Támogatásokat Auditáló Főigazgatóság | 80 |
+
+| 4.10. | Nemzeti Külgazdasági Hivatal | 155 |
 
 | 5. | Nemzeti Erőforrás Minisztérium | 5 287 |
 
@@ -314,6 +316,6 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 10.6. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 25 |
 
-| 11. | ÖSSZESEN: | 61 010 |
+| 11. | ÖSSZESEN: | 61 165 |
 
-[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1248/2010. (XI. 19.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2–3. pontja szerint módosított szöveg.
