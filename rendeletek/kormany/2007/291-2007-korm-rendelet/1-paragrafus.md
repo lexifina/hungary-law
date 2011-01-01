@@ -10,25 +10,25 @@ c) résztvevőinek ellenőrzésére, és
 
 d) végzésével kapcsolatban megindult hatósági eljárások lefolytatására,
 
-e)[^1] végzése szakszerűségének és jogszerűségének ellenőrzésére,
+e)[^2] végzése szakszerűségének és jogszerűségének ellenőrzésére,
 
-f)[^2] során a felhasznált építési termékek megfelelőség igazolása meglétének ellenőrzésére,
+f)[^3] során a felhasznált építési termékek megfelelőség igazolása meglétének ellenőrzésére,
 
-g)[^3] végzéséhez előírt kivitelezési dokumentáció ellenőrzésére,
+g)[^4] végzéséhez előírt kivitelezési dokumentáció ellenőrzésére,
 
-h)[^4] során az építési napló vezetésének és tartalmának ellenőrzésére,
+h)[^5] során az építési napló vezetésének és tartalmának ellenőrzésére,
 
-i)[^5] ellenőrzésének módjára és tartalmára.
+i)[^6] ellenőrzésének módjára és tartalmára.
 
 (2) E rendelet rendelkezéseit, ha jogszabály másként nem rendelkezik
 
 a) a sajátos építményfajtákkal – az antennák, antennatartó szerkezetek és csatlakozó műtárgyak kivételével –, és
 
-b)[^6] az építménybe beépített felvonóval, a mozgólépcsővel és a mozgójárdával
+b)[^7] az építménybe beépített felvonóval, a mozgólépcsővel és a mozgójárdával
 
-[^1]: Az 1. § (1) bekezdésének e) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
-[^2]: Az 1. § (1) bekezdésének f) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
-[^3]: Az 1. § (1) bekezdésének g) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
-[^4]: Az 1. § (1) bekezdésének h) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
-[^5]: Az 1. § (1) bekezdésének i) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
-[^6]: Az 1. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdésének e) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
+[^3]: Az 1. § (1) bekezdésének f) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdésének g) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
+[^5]: Az 1. § (1) bekezdésének h) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
+[^6]: Az 1. § (1) bekezdésének i) pontját a 196/2009. (IX. 15.) Korm. rendelet 5. §-a iktatta be.
+[^7]: Az 1. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (1) bekezdésének a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-6. § (1)[^12] Az építésfelügyeleti hatóság ellenőrzi, hogy
+6. § (1)[^13] Az építésfelügyeleti hatóság ellenőrzi, hogy
 
 a) az építményekre, építési termékek (anyagok, szerkezetek, berendezések) módszerek és eljárások műszaki követelményeire és alkalmazására vonatkozó jogszabályokat, szabványokat, előírásokat és engedélyekben foglalt követelményeket az építőipari kivitelezési tevékenység végzése során megtartották-e,
 
@@ -44,4 +44,4 @@ j) az építési engedély számát, és
 
 k) a kivitelezés bejelentési kötelezettségének teljesítését.
 
-[^12]: A 6. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^13]: A 6. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
