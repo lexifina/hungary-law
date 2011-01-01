@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-29-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 2003-29-20-0M.2 | 29/2003. (V. 20.) ESZCSM rendelet |
+| 2011-01-01 | 2003-29-20-0M.3 | 24/2010. (XII. 30.) NEFMI rendelet |
