@@ -1,1 +1,0 @@
-13. § Az archiválás szabályait és feltételeit, a hasznosítás módját a közgyűjteménynek nem minősülő dokumentumok vonatkozásában a vezérigazgató a Kuratóriummal egyetértésben külön szabályzatban állapítja meg.

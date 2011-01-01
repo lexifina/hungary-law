@@ -1,1 +1,0 @@
-12. § A vezérigazgató jogosult és köteles két vezérigazgató-helyettes kinevezésére és gyakorolja a részvénytársaság munkavállalói tekintetében a munkáltatói jogokat. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
