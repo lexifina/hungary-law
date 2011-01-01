@@ -6,9 +6,9 @@
 
 ## 2. A megvalósíthatósági tanulmány műszaki munkarésze tartalmazza:
 
-## a)[^32] a meglévő – a beruházás céljával összefüggő – állapot bemutatását, a beruházás indokait, a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programmal összefüggő szennyvízelvezetési agglomerációk lehatárolásáról szóló 26/2002. (II. 27.) Korm. rendeletben, és a közműves szennyvízelvezető és -tisztító művel gazdaságosan el nem látható területekre vonatkozó Egyedi Szennyvízkezelés Nemzeti Megvalósítási Programjáról szóló 174/2003. (X. 28.) Korm. rendeletben előírt környezetvédelmi és gazdaságossági vizsgálatokkal együtt;
+## a)[^33] a meglévő – a beruházás céljával összefüggő – állapot bemutatását, a beruházás indokait, a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programmal összefüggő szennyvízelvezetési agglomerációk lehatárolásáról szóló 26/2002. (II. 27.) Korm. rendeletben, és a közműves szennyvízelvezető és -tisztító művel gazdaságosan el nem látható területekre vonatkozó Egyedi Szennyvízkezelés Nemzeti Megvalósítási Programjáról szóló 174/2003. (X. 28.) Korm. rendeletben előírt környezetvédelmi és gazdaságossági vizsgálatokkal együtt;
 
-## b)[^33] az ivóvíz és a keletkező (közcsatornába vezetett) szennyvíz mennyiségét és minőségét, az ellátandó lakosok számát, a szennyvíz-beruházással érintett lakosegyenértéket (LE), figyelemmel a tervezett ipari fejlesztésekre, egy főre jutó vízfogyasztás előrejelzésére, bemutatva az igényeket alakító tényezőket pl. a szolgáltatási díjváltozások becsülhető hatását;
+## b)[^34] az ivóvíz és a keletkező (közcsatornába vezetett) szennyvíz mennyiségét és minőségét, az ellátandó lakosok számát, a szennyvíz-beruházással érintett lakosegyenértéket (LE), figyelemmel a tervezett ipari fejlesztésekre, egy főre jutó vízfogyasztás előrejelzésére, bemutatva az igényeket alakító tényezőket pl. a szolgáltatási díjváltozások becsülhető hatását;
 
 ## c) a korábban megvalósult és működő vízgazdálkodási létesítményekkel, víziközművekkel összefüggő, az esetleges csatlakozással, annak lehetőségével kapcsolatos körülmények ismertetését (fejlesztések összehangolása, a korábbi és a tervezett létesítmények közös vagy eltérő üzemeltetése stb.);
 
@@ -108,7 +108,7 @@
 
 ## c) a szennyvízelvezetés, -tisztítás fejlesztésének részletezését és várható eredményét;
 
-## d)[^34] A keletkező szennyvizek várható mennyiségi és minőségi adatait a település tényleges vízfelhasználásának figyelembevételével kell meghatározni (átlagos és szélső értékek);
+## d)[^35] A keletkező szennyvizek várható mennyiségi és minőségi adatait a település tényleges vízfelhasználásának figyelembevételével kell meghatározni (átlagos és szélső értékek);
 
 ## e) a szennyvíz kezelésének, elhelyezésének lehetőségeit, módját, a befogadó megjelölését;
 
@@ -116,13 +116,13 @@
 
 ## g) a részletes helyszínrajzon a szennyvízelvezetési nyomvonalakat, a szennyvíztisztító helyét, általános elrendezését, a szennyvíz befogadóját, a bevezetés módját és helyét stb.;
 
-## h)[^35] ha a keletkező szennyvíz terhelése nem éri el a napi 5000 lakosegyenértéket, vizsgálni kell a természetes szennyvíztisztítási eljárások fő tisztítási elemként vagy utótisztítóként való alkalmazhatóságát (pl. gyökérzónás, faültetvényes stb.);
+## h)[^36] ha a keletkező szennyvíz terhelése nem éri el a napi 5000 lakosegyenértéket, vizsgálni kell a természetes szennyvíztisztítási eljárások fő tisztítási elemként vagy utótisztítóként való alkalmazhatóságát (pl. gyökérzónás, faültetvényes stb.);
 
 ## i) az iszapelhelyezés irányelveit, a szennyvíziszap kezelés, elhelyezés (hasznosítás) lehetőségeit és módját.
 
 3. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez
 
-[^32]: A 2. számú melléklet A) része 2. pontjának a) alpontja a 20/2006. (I. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^33]: A 2. számú melléklet A) része 2. pontjának b) alpontja a 20/2006. (I. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^34]: A 2. számú melléklet D) pontjának d) alpontja a 32/2000. (III. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^35]: A 2. számú melléklet D) pontjának h) alpontja a 347/2006. (XII. 23.) Korm. rendelet 41. § (4) bekezdésének b) pontjával megállapított szöveg.
+[^33]: A 2. számú melléklet A) része 2. pontjának a) alpontja a 20/2006. (I. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 2. számú melléklet A) része 2. pontjának b) alpontja a 20/2006. (I. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^35]: A 2. számú melléklet D) pontjának d) alpontja a 32/2000. (III. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^36]: A 2. számú melléklet D) pontjának h) alpontja a 347/2006. (XII. 23.) Korm. rendelet 41. § (4) bekezdésének b) pontjával megállapított szöveg.

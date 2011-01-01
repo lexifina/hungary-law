@@ -28,7 +28,7 @@
 
 ## – a bentlakásos intézmények férőhely-kihasználtsági mutatója %-ban kifejezve,
 
-## – [^37] a személyes gondoskodást nyújtó szociális intézmény és a falugondnoki szolgáltatás működésének engedélyezéséről szóló kormányrendelet alapján az ellátási körzetben működő bentlakásos intézmények helyzetének rövid bemutatása.
+## – [^39] a személyes gondoskodást nyújtó szociális intézmény és a falugondnoki szolgáltatás működésének engedélyezéséről szóló kormányrendelet alapján az ellátási körzetben működő bentlakásos intézmények helyzetének rövid bemutatása.
 
 ## Szakmai-tervezési program:
 
@@ -80,4 +80,4 @@
 
 5. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez
 
-[^37]: A 188/1999. (XII. 16.) Korm. rendelet 23. §-a (13) bekezdésének a) pontja módosította.
+[^39]: A 188/1999. (XII. 16.) Korm. rendelet 23. §-a (13) bekezdésének a) pontja módosította.
