@@ -1,0 +1,1 @@
+## 6. § A 4–5. §-ban foglaltak alapján az OEP a háziorvosi indikátor rendszer keretében vizsgálja az orvosok gyógyszerfelírását. A háziorvost a háziorvosi indikátor rendszer keretében, az ott meghatározott pontrendszer szerinti juttatásban részesíti az OEP.

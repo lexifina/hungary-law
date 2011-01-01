@@ -1,0 +1,3 @@
+5. § (1) Az orvosok gyógyszerrendelési tevékenysége a miniszteri rendeletben foglalt ATC csoportokban szereplő, kihirdetett hatóanyagot, illetve hatóanyagokat tartalmazó gyógyszerek esetén kizárólag normatív támogatási jogcímen történő gyógyszerrendelésük alapján kerül értékelésre.
+
+(2) Az orvosok gyógyszerrendelési tevékenységének értékelése során kapott országos átlag valamennyi orvos által felírt és a betegek által az adott hónapban kiváltott, a miniszteri rendeletben meghatározott ATC csoportokba tartozó értékelt hatóanyagokat tartalmazó közfinanszírozott gyógyszerek terápiás adagra számolt támogatásának az átlaga ATC csoportra forintban kifejezve, és az adott ATC csoportba tartozó hatóanyagok rendelési aránya százalékban kifejezve.
