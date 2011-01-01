@@ -1,3 +1,1 @@
-72. § (1) A nyugellátás iránti igény elbírálásához a rokkantságról, illetőleg a rehabilitálhatóságról a rehabilitációs szakértői szerv szakhatósági állásfoglalást ad.
-
-(2)
+72. § Az egészségkárosodáson alapuló nyugellátás iránti igény elbírálásához és az ellátásra való jogosultság felülvizsgálatához a rehabilitációs szakértői szerv komplex minősítést végez, és annak eredményéről szakhatósági állásfoglalást ad ki.

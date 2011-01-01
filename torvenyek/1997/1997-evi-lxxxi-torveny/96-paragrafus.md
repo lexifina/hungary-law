@@ -55,3 +55,7 @@ szerinti adatok igénylésére jogosultak.
 (6) A (4) bekezdésben nem szabályozott esetben adatok közlésének csak akkor van helye, ha ahhoz az érintett írásban hozzájárult.
 
 (7) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról másolatot, illetőleg nyilvántartott adatairól felvilágosítást kérhet.
+
+(8) A nyugdíjbiztosítási igazgatási szerv a biztosított (volt biztosított) kérelmére igazolást állít ki a biztosítási kötelezettséggel járó jogviszonyokra és a keresetekre, jövedelmekre vonatkozóan a nyilvántartásba bejelentett adatokról.
+
+(9) A biztosított (volt biztosított) kérheti a bejelentésre kötelezett szerv vagy személy rá vonatkozó adatszolgáltatásának hatósági ellenőrzését, és a rendelkezésére álló bizonyítékok figyelembevételével a nyilvántartás adatainak kiegészítését, javítását.

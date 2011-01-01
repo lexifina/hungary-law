@@ -1,0 +1,1 @@
+102/B. § E törvénynek az egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2010. évi CLXX. törvénnyel megállapított 93. § (3) bekezdését a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.

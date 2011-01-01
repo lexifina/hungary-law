@@ -14,7 +14,7 @@ d) fogyasztói árnövekedés és a tervezett országos nettó átlagkereset-nö
 
 (4) A (3) bekezdés szerinti nyugdíjemelésnél a nyugdíjasok fogyasztói ár növekedésének – a tárgyév első nyolc hónapjának tényadatára alapozott – várható mértékét kell figyelembe venni, amennyiben az meghaladja a fogyasztói árnövekedés várható mértékét.
 
-(5) Egyösszegű kifizetés esetén a kifizetett összeg egytizenkettedével a következő naptári év január hónapjában – az emelés végrehajtása előtt – a nyugellátás, a baleseti nyugellátás összegét meg kell növelni.
+(5) Egyösszegű kifizetés esetén a következő év januárjában a nyugellátás és a baleseti járadék összegét – az (1) bekezdés szerinti emelés végrehajtását megelőzően – meg kell emelni az egyösszegű kifizetés összegének alapjául szolgáló, kormányrendeletben meghatározott százalékos mérték egytizenketted részével.
 
 (6) Az Országgyűlés felhatalmazza a Kormányt, hogy a tényleges, illetőleg a várható makrogazdasági folyamatok és adatok ismeretében a szükséges feltételek megléte esetén további kiegészítő intézkedéseket tegyen.
 

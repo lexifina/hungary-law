@@ -2,4 +2,4 @@
 
 (2) A nyugellátás szüneteltetésének időtartama alatt az érintett nyugdíjasnak minősül.
 
-(3) Az újbóli folyósítás során a jogosultat az (1) bekezdés szerinti ellátás szüneteltetést megelőző összegének a 22/A. § szerinti emeléssel, továbbá az időközben végrehajtott emelésekkel – az egyes emelések esedékességi időpontjának figyelembevételével – növelt összege illeti meg.
+(3) Az újbóli folyósítás során a jogosultat az (1) bekezdés szerinti ellátás szüneteltetést megelőző összegének a 22/A. § szerinti növeléssel, továbbá az időközben végrehajtott emelésekkel – a növelés időpontjának és az egyes emelések esedékességének figyelembevételével – növelt összege illeti meg.
