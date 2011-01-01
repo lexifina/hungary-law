@@ -24,6 +24,6 @@ b) a szolgáltatás nyújtásához kizárólag olyan, a vonatkozó szabványokna
 
 (5) Amennyiben a központi rendszer használója igényli, és ehhez a nyilvános titkosító kulcsát a központi rendszer kulcstárában elhelyezte, az elektronikus közszolgáltatást nyújtó szervezet köteles a szolgáltatott információt titkosítottan megküldeni. Törvény egyes elektronikus szolgáltatások nyújtásának feltételévé teheti a nyilvános titkosító kulcs kulcstárba helyezését.
 
-(6) A központi rendszer működtetését és fejlesztését a közigazgatási informatikáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
+(6) A központi rendszer működtetését és fejlesztését a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
 
 (7) A központi rendszert a Kormány által rendeletben kijelölt államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet működteti.

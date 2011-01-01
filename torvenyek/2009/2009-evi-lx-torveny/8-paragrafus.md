@@ -2,6 +2,6 @@
 
 (2) A csatlakozásra kötelezett szervezetet a csatlakozási előfeltételek meglétével kapcsolatos külön jogszabály szerinti feltételek hiánya a szolgáltatási kötelezettség teljesítése alól nem mentesíti.
 
-(3) A központi rendszeren elérhető szolgáltatásokkal szemben támasztott hitelességi, minőségi, biztonsági és fejlesztési követelmények érvényesülését a közigazgatási informatikáért felelős miniszter ellenőrzi.
+(3) A központi rendszeren elérhető szolgáltatásokkal szemben támasztott hitelességi, minőségi, biztonsági és fejlesztési követelmények érvényesülését a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter ellenőrzi.
 
 (4) A központi rendszer üzemeltetésének és fejlesztésének költségeit az éves költségvetésben részletesen tervezni kell.
