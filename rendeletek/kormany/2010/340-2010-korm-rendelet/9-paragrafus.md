@@ -1,0 +1,3 @@
+## 8. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet 15/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha első fokon a központi szerv jár el, a honosított polgár esetében az Nytv. 4. § (3) bekezdés a) és b) pontjában meghatározott eljárásokban – az Nytv. 17–24/A. §-a szerinti adatszolgáltatások kivételével – a döntés-előkészítés során a Bevándorlási és Állampolgársági Hivatal által a hazai anyakönyvi szabályoknak megfelelő adatokkal megküldött, a személyazonosító igazolvány kiadásához szükséges adatlapot kell figyelembe venni.”
