@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-186-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-08-07 | 2005-186-20-22.4 | 186/2005. (IX. 13.) Korm. rendelet |
+| 2011-01-01 | 2005-186-20-22.5 | 297/2011. (XII. 22.) Korm. rendelet |
