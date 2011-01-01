@@ -1,3 +1,0 @@
-## 11. § A VPKr 16. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A jövedéki adóügyeknek nem minősülő jövedéki ügyekben – ha jogszabály másként nem rendelkezik –, továbbá a hatósági felügyelet keretében végzendő adóztatási feladatokkal, illetve a Jöt. 15. §-a (1)–(2) bekezdése és 65. §-a (1) bekezdésének d) pontja szerinti adófizetési kötelezettséggel kapcsolatos jövedéki adóügyekben első fokon a 14. § (1) bekezdésében megjelölt vám- és pénzügyőri hivatalok, a 14. § (3) bekezdésében megjelölt az Európai Unió külső vámhatárán működő vám- és pénzügyőri hivatalok, valamint a Pesti Jövedéki Adójegy és Zárjegy Hivatal és a 18. számú Vám- és Pénzügyőri Hivatal járnak el.”

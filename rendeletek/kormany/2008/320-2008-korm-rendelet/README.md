@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-320-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2008-320-20-22.1 | 320/2008. (XII. 29.) Korm. rendelet |
+| 2011-01-01 | 2008-320-20-22.2 | 2010: CXXII. törvény |

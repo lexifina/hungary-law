@@ -1,1 +1,0 @@
-## „(2) A Vám- és Pénzügyőrség Központi Repülőtéri Parancsnoksága végzi az (1) bekezdésben foglalt feladatokat a c) pont kivételével, illetve végzi az (1) bekezdés d) pontjában foglalt feladatot a 14. § (3) bekezdésének m) és n) pontjában fogalt szervek tekintetében.”
