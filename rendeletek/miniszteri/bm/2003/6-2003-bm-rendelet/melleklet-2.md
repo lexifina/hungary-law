@@ -298,6 +298,6 @@
 
 ## – az értesítést kiállította.
 
-2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^210]
+2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^213]
 
-[^210]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^213]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított szöveg.

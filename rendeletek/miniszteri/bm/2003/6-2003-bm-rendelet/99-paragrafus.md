@@ -8,6 +8,7 @@
 
 (4) A bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető értesíti a bejegyzett élettárs korábbi házasságkötését nyilvántartó anyakönyvvezetőt, ha a bejegyzett élettárs a bejegyzett élettársi kapcsolat létesítését megelőzően házassági névként volt férje nevét vagy családi nevét viselte a házasságra utaló toldással, és házassági nevét nem módosította másik házassági névviselési formára, ezért a születési családi nevének viselésére jogosult.
 
-(5) Az anyakönyvvezető az (1) és (2) bekezdésben előírt adatszolgáltatást az anyakönyvi másolat, a (3) és (4) bekezdésben előírt adatszolgáltatást anyakönyvi értesítés megküldésével teljesíti a bejegyzést követő öt munkanapon belül.
+(5)[^202] Az anyakönyvvezető az (1) és (2) bekezdésben előírt adatszolgáltatást az anyakönyvi másolat, a (3) és (4) bekezdésben előírt adatszolgáltatást anyakönyvi értesítés megküldésével teljesíti a bejegyzést követő nyolc napon belül.
 
 [^201]: A 99. § a 14/2009. (VI. 3.) IRM rendelet 42. §-ával megállapított szöveg.
+[^202]: A 99. § (5) bekezdése a 17/2010. (XII. 17.) KIM rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.

@@ -82,7 +82,7 @@
 
 ## A biztonsági tintával töltött íróeszközt az ASZA-rendszeren keresztül lehet megrendelni. A rendelést az évi egyszeri rendes okmányigényléssel együtt kell továbbítani.
 
-7. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^216]
+7. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^219]
 
 Az ASZA-rendszer használatához szükséges hozzáférési jogosultságok
 
@@ -224,4 +224,4 @@ f) a munkáltató jóváhagyó nyilatkozatát és aláírását.
 
 – a hozzáférési jogosultság érvényességének kezdő időpontját, továbbá az érvényesség megszűnésének idejét.
 
-[^216]: A 7. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be, szövege a 14/2009. (VI. 3.) IRM rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^219]: A 7. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be, szövege a 14/2009. (VI. 3.) IRM rendelet 44. § (2) bekezdésével megállapított szöveg.
