@@ -1,5 +1,5 @@
-## 60. §[^68] Utasforgalmi pótlékban kell részesíteni a hivatásos állomány tagját, ha a határon működő vám- és pénzügyőri hivataloknál a nemzetközi utasforgalmat közvetlenül ellenőrző vagy ahhoz szorosan kapcsolódó vámszakmai feladatot lát el.
+## 60. §[^74]
 
 ## Szemle pótlék
 
-[^68]: A 60. § a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^74]: A 60. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (2) bekezdése hatályon kívül helyezte.

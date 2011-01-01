@@ -2,8 +2,8 @@
 
 ## Nyomozói pótlék
 
-54. §[^64] (1) Nyomozói pótlékra jogosult, aki beosztása ellátása során bűnügyi megelőző és felderítő tevékenységet folytat.
+54. §[^70] (1) Nyomozói pótlékra jogosult, aki beosztása ellátása során bűnügyi megelőző és felderítő tevékenységet folytat.
 
 (2) A pótlékra jogosító beosztásokat miniszteri rendelet tartalmazza.
 
-[^64]: A 328/2005. (XII. 29.) Korm. rendelet 10. § (2) bekezdése alapján a nyomozói pótlékban részesülők szolgálati ideje e rendelet 25. § (5) bekezdése szerint 2006. január 1-jétől kezdődően számítható kedvezményesen.
+[^70]: A 328/2005. (XII. 29.) Korm. rendelet 10. § (2) bekezdése alapján a nyomozói pótlékban részesülők szolgálati ideje e rendelet 25. § (5) bekezdése szerint 2006. január 1-jétől kezdődően számítható kedvezményesen.

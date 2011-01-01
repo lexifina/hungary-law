@@ -1,3 +1,5 @@
-## 62. § Képviseleti pótlékot kell folyósítani a hivatásos állomány tagjának, ha a munkaköri leírása szerint bírósági eljárásban a vám- és pénzügyőrség képviseletét látja el, feltéve, ha a tárgyhónapban ezzel kapcsolatos feladata volt.
+## 62. §[^76]
 
 ## Pénzkezelői pótlék
+
+[^76]: A 62. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (2) bekezdése hatályon kívül helyezte.

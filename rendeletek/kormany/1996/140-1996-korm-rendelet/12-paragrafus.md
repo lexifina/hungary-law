@@ -22,6 +22,6 @@ c) a vezényelt a beosztásával járó kötelezettségeit nem teljesíti, illet
 
 (4) A vezénylést a küldő szerv parancsával kell megszüntetni. Egyebekben a 3. § (2) bekezdése szerint kell eljárni.
 
-(5)[^18]
+(5)[^20]
 
-[^18]: A 12. § (5) bekezdését a 333/2009. (XII. 29.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^20]: A 12. § (5) bekezdését a 333/2009. (XII. 29.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.

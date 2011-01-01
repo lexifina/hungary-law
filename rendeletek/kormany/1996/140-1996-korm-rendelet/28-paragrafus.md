@@ -1,4 +1,4 @@
-## (A Hszt. 104., 254., 293., 306. és 322. §-ához)[^36]
+## (A Hszt. 104., 254., 293., 306. és 322. §-ához)[^40]
 
 ## Illetménypótlék
 
@@ -8,4 +8,4 @@
 
 (3) Az egy hónapra számított illetménypótlékok esetében, ha a hivatásos állomány tagja az adott hónapban bármely oknál fogva a munkanapok felénél többet távol van, számára csak az időarányos rész folyósítható.
 
-[^36]: A 28. §-t megelőző jogszabályi hivatkozás a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének d) pontja szerint módosított szöveg.
+[^40]: A 28. §-t megelőző jogszabályi hivatkozás a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének d) pontja szerint módosított szöveg.

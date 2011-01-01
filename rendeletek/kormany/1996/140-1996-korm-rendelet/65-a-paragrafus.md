@@ -1,3 +1,3 @@
-## 65. §[^69]
+## 65. §[^77]
 
-[^69]: A 65. §-t a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^77]: A 65. §-t a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének f) pontja hatályon kívül helyezte.

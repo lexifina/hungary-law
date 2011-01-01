@@ -1,3 +1,5 @@
-## 61. § Szemle pótlékot kell folyósítani a hivatásos állomány azon tagjának, akit rendszeresen a kereskedelmi forgalom vámellenőrzése, illetve a jövedéki ellenőrzés területén foglalkoztatnak.
+## 61. §[^75]
 
 ## Képviseleti pótlék
+
+[^75]: A 61. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (2) bekezdése hatályon kívül helyezte.
