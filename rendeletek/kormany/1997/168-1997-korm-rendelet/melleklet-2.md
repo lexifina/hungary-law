@@ -1,4 +1,4 @@
-2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^287]
+2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^303]
 
 A keresetek beszámításához alkalmazandó valorizációs szorzószámok
 
@@ -128,4 +128,4 @@ esetén
 
 | 60. | 2008. | 1,017 |
 
-[^287]: A 2. számú melléklet az 58/2010. (III. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^303]: A 2. számú melléklet az 58/2010. (III. 16.) Korm. rendelet 3. §-ával megállapított szöveg.

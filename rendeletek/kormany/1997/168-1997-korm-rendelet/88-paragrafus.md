@@ -1,15 +1,12 @@
-88. § (1)[^254] A nyilvántartó lap kiállítására kötelezett – a (2) bekezdésben foglalt kivétellel – a nyilvántartó lap adattartalmát az ONYF által rendszeresített számítógépes programmal állítja elő, és adatszolgáltatási kötelezettségét e számítógépes program felhasználásával, elektronikus úton teljesíti.
+88. § (1)[^274] A nyilvántartó lap kiállítására kötelezett a nyilvántartó lap adattartalmát az ONYF által rendszeresített számítógépes programmal állítja elő, és adatszolgáltatási kötelezettségét e számítógépes program felhasználásával, elektronikus úton teljesíti.
 
-(2)[^255] A 87. § (1) bekezdés g) és i) pontja szerinti személyek, továbbá az öt főnél kevesebb biztosítottról adatot szolgáltató foglalkoztatók a nyilvántartó lap adattartalmát nem kötelesek az (1) bekezdés szerinti számítógépes programmal előállítani. Ha e személyek, illetve foglalkoztatók a nyilvántartó lap adattartalmát nem az (1) bekezdés szerinti számítógépes programmal állítják elő, az adatszolgáltatási kötelezettségüket – az ONYF által rendszeresített és a regionális nyugdíjbiztosítási igazgatóság által térítésmentesen rendelkezésre bocsátott – nyomtatványon vagy az adatoknak a regionális nyugdíjbiztosítási igazgatóságnál történő személyes bejelentésével teljesítik. A személyesen közölt adatokat a regionális nyugdíjbiztosítási igazgatóság rögzíti.
+(2)–(3)[^275]
 
-(3)[^256] Az adatszolgáltatással kapcsolatos felelősség – így különösen: az adatszolgáltatás elmulasztása, vagy késedelmes teljesítése, a valóságtól eltérő adatok szolgáltatása – akkor is a nyilvántartásra kötelezettet terheli, ha az adatszolgáltatást a megbízása alapján – az Art. rendelkezéseinek alkalmazásával – meghatalmazottja, illetve képviselője teljesíti.
+(4)[^276] Az adatszolgáltatás és a nyilvántartás általánostól eltérő rendjére az ONYF az Országos Egészségbiztosítási Pénztárral és a Nemzeti Adó- és Vámhivatallal megállapodást köthet.
 
-(4)[^257] Az adatszolgáltatás és a nyilvántartás általánostól eltérő rendjére az ONYF az Országos Egészségbiztosítási Pénztárral és az Adó- és Pénzügyi Ellenőrzési Hivatallal megállapodást köthet.
+(5)[^277]
 
-(5)[^258]
-
-[^254]: A 88. § (1) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a rendelkezést a 2009. december 31-ét követően teljesített adatszolgáltatásra kell alkalmazni.
-[^255]: A 88. § (2) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a rendelkezést a 2009. december 31-ét követően teljesített adatszolgáltatásra kell alkalmazni. Alkalmazására lásd még e módosító rendelet 12. § (7) bekezdését.
-[^256]: A 88. § (3) bekezdése a 327/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 332/2008. (XII. 30.) Korm. rendelet 15. § (2) bekezdés a) pont aj) alpontja szerint módosított szöveg. Ez utóbbi módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2008. december 31-ét követő időponttól megállapított ellátásokra, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
-[^257]: A 88. § (4) bekezdése a 327/2006. (XII. 23.) Korm. rendelet 12. § (4) bekezdésének 12. pontja szerint módosított szöveg. E módosító rendelet 12. § (2) bekezdése alapján a rendelkezést a 2006. december 31-ét követő időponttól megállapított ellátások, valamint az ezen időpontot követő adatszolgáltatás esetén kell alkalmazni.
-[^258]: A 88. § (5) bekezdését a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés r) pontja hatályon kívül helyezte.
+[^274]: A 88. § (1) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított, a 354/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^275]: A 88. § (2)–(3) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^276]: A 88. § (4) bekezdése a 327/2006. (XII. 23.) Korm. rendelet 12. § (4) bekezdésének 12. pontja, a 273/2010. (XII. 9.) Korm. rendelet 86. §-a szerint módosított szöveg.
+[^277]: A 88. § (5) bekezdését a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés r) pontja hatályon kívül helyezte.

@@ -40,11 +40,11 @@
 
 | 25 | 63,0 | 63,0 | 63,0 | 63,0 | 63,0 |
 
-22. §[^49] (1) Ha az igénylő a harmincötödik életévének betöltése után, de negyvenötödik életéve betöltését megelőzően rokkan meg, a rokkantsági nyugdíj összegét a Tny. 25. § (2) bekezdés, vagy a Tny. 25. § (3) bekezdés szerinti jogosultság esetén is a ténylegesen megszerzett szolgálati idő alapján kell – a 20–21. §-ok szerint – megállapítani.
+22. §[^51] (1) Ha az igénylő a harmincötödik életévének betöltése után, de negyvenötödik életéve betöltését megelőzően rokkan meg, a rokkantsági nyugdíj összegét a Tny. 25. § (2) bekezdés, vagy a Tny. 25. § (3) bekezdés szerinti jogosultság esetén is a ténylegesen megszerzett szolgálati idő alapján kell – a 20–21. §-ok szerint – megállapítani.
 
 (2) Az (1) bekezdésben meghatározott személy rokkantsági nyugdíjának összegét, ha nem rendelkezik legalább 10 év – korkedvezményre jogosító munkakörben eltöltött legalább 8 év – szolgálati idővel, tízévi, illetőleg nyolcévi szolgálati idő alapján kell megállapítani.
 
-(3)[^50] Ha a Tny. 39. §-ban előírt arányos beszámítás miatt a biztosított szolgálati ideje a 20. § alkalmazása során nem éri el a 10 évet, illetve a 21. § alkalmazása során a 8 évet, a rokkantsági nyugdíj összegét úgy kell meghatározni, hogy a havi átlagkeresetnek a 10, illetőleg 8 évhez tartozó 20–21. §-ok szerinti százalékos mértékét annyiszor kell további 2 százalékponttal csökkenteni, ahány év a 10, illetőleg 8 év szolgálati időből hiányzik.
+(3)[^52] Ha a Tny. 39. §-ban előírt arányos beszámítás miatt a biztosított szolgálati ideje a 20. § alkalmazása során nem éri el a 10 évet, illetve a 21. § alkalmazása során a 8 évet, a rokkantsági nyugdíj összegét úgy kell meghatározni, hogy a havi átlagkeresetnek a 10, illetőleg 8 évhez tartozó 20–21. §-ok szerinti százalékos mértékét annyiszor kell további 2 százalékponttal csökkenteni, ahány év a 10, illetőleg 8 év szolgálati időből hiányzik.
 
-[^49]: A 22. § a 234/1998. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^50]: A 22. § (3) bekezdését a 248/2003. (XII. 23.) Korm. rendelet 8. §-a iktatta be, e módosító rendelet 25. §-ának (3) bekezdése alapján rendelkezéseit a 2003. december 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
+[^51]: A 22. § a 234/1998. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^52]: A 22. § (3) bekezdését a 248/2003. (XII. 23.) Korm. rendelet 8. §-a iktatta be, e módosító rendelet 25. §-ának (3) bekezdése alapján rendelkezéseit a 2003. december 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
