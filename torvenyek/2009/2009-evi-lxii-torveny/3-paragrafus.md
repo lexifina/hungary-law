@@ -84,8 +84,6 @@ b) amelyben a hatósági jelzés viselésére nem kötelezett gépjárművek ese
 
 34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – díjnemfizetéssel megszűnik;
 
-[34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj – esedékességtől számított negyvenöt napon belüli – megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – az esedékességtől számított hatvanadik nap elteltével díjnemfizetéssel megszűnik;]
-
 35. üzemben tartó: a gépjármű telephelye szerinti ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos;
 
 36. zöldkártya: a zöldkártyarendszer országaiban elfogadott, egységes szabványnak megfelelő nemzetközi gépjármű-felelősségbiztosítási igazolvány (kártya), amelyet a nemzeti iroda nevében a biztosítási szerződésnek megfelelően a biztosítók állítanak ki az üzemben tartó számára, a meglátogatott országban megkövetelt gépjármű-felelősségbiztosítási fedezet meglétének igazolására;
