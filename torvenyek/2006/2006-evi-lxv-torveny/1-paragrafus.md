@@ -1,4 +1,4 @@
-1. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 74/G. §-a, azzal hogy azok a szervezetek, amelyek közalapítvány létrehozására e törvény hatálybalépése előtt a Ptk. 74/G. §-a alapján jogosultak voltak, alapítványt e törvény hatálybalépését követően sem alapíthatnak, ahhoz nem csatlakozhatnak és annak alapítói joga gyakorlására nem jelölhetők ki.
+1. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 74/G. §-a, azzal hogy azok a szervezetek, amelyek közalapítvány létrehozására e törvény hatálybalépése előtt a Ptk. 74/G. §-a alapján jogosultak voltak, alapítványt e törvény hatálybalépését követően sem alapíthatnak és ahhoz nem csatlakozhatnak.
 
 (2) Az e törvény hatálybalépése előtt nyilvántartásba vett közalapítvány (a továbbiakban: közalapítvány) működésére a Ptk. alapítványra vonatkozó rendelkezéseit az alábbi eltéréssel kell alkalmazni:
 
@@ -12,18 +12,18 @@ c) A közalapítvány pályázat kiírása nélkül évente a vagyona 5%-ának m
 
 – pályázati kiírás tartalmazza a támogatási célt, a támogatás feltételeit és az elszámolás részletes rendjét.
 
-d) A közalapítvány tevékenysége újabb közfeladat ellátásával nem bővíthető, a közalapítvány alapító jogainak gyakorlására más személy nem jelölhető ki.
+d)
 
 e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles. A közalapítvány gazdálkodásának törvényességét és célszerűségét – a helyi önkormányzat és a kisebbségi önkormányzat képviselő-testülete által alapított közalapítvány kivételével – az Állami Számvevőszék ellenőrzi.
 
 f) A közalapítvány alapító okiratának módosítását (módosítással egybeszerkesztett szövegét) a Magyar Közlönyben, illetve az önkormányzat hivatalos lapjában – ennek hiányában a helyben szokásos módon – közzé kell tenni.
 
-(3) Ha törvény vagy önkormányzati rendelet eltérően nem rendelkezik, kötelező egy éven belül kezdeményezni a megszüntetést, ha a közalapítvány vagyonán belül az államháztartáson kívüli eredetű bevétel – így különösen: juttatás, adomány – aránya (a működés megkezdésének évét nem számítva) két éven át 80% alatti.
+(3)
 
 (4) A közalapítványt – az alapítványra vonatkozó rendelkezéseken túlmenően – a bíróság nemperes eljárásban akkor is megszünteti, ha az alapító ezt arra hivatkozással kéri, hogy a közfeladat ellátásának biztosítása más módon vagy más szervezeti keretben hatékonyabban megvalósítható.
 
 (5) A közalapítvány megszűnése esetén az alapító köteles a megszűnt közalapítvány vagyonát – a hitelezők kielégítése után – a megszűnt közalapítvány céljához hasonló célra fordítani, és erről a nyilvánosságot megfelelően tájékoztatni. E kötelezettsége teljesítése során az alapító a megszűnt közalapítvány jogi személyiséggel rendelkező szervezeti egységét saját alapítású költségvetési szervvé alakíthatja át a költségvetési szerv alapítására vonatkozó szabályok megfelelő alkalmazásával. Ennek során azonban gondoskodnia kell annak a jogszabálynak a kiadásáról, amely tartalmazza a jogutódlással kapcsolatos és mindazon rendelkezéseket, amelyek a közalapítvány bírósági nyilvántartásból való törlésének napjával azonos fordulónapon az érintett jogi személy további működésének folyamatosságát megfelelően biztosítják.
 
-(6) A (3)–(5) bekezdésben foglaltakat az olyan alapítvány esetében is alkalmazni kell, amelyet az Országgyűlés, a Kormány, a minisztérium (miniszter), az országos hatáskörű szerv (vezetője) vagy a helyi önkormányzat (képviselő-testülete) önállóan vagy a felsoroltak bármelyikével közösen 1994. január 1-je előtt alapított, és e törvény hatálybalépésekor még ebben a formában működik.
+(6) Az Országgyűlés, a Kormány, a minisztérium (miniszter), az országos hatáskörű szerv (vezetője) által önállóan, vagy a felsoroltak bármelyikével közösen (a továbbiakban: állami alapító) alapított alapítványt (közalapítványt), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt az állami alapító kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha azt az állami alapító arra hivatkozással kéri, hogy az alapítvány (közalapítvány) céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, illetve egyéb közfeladatot ellátó szervezet által hatékonyabban megvalósítható. Ez esetben a megszűnt alapítvány vagyonát az állami alapító a megszüntetési kérelemben megjelölt központi költségvetési szerv, illetve egyéb közfeladatot ellátó szervezet támogatására fordítja.
 
-(7) A (4) bekezdésben foglalt rendelkezést a (6) bekezdésben felsorolt alapítóknak államháztartáson kívüli alapítóval közösen létrehozott alapítványaira is alkalmazni kell, ha az ilyen alapítványok alapítói az alapítvány megszüntetését – az érintett alapítvány hozzájárulásával – közösen kérik. Ilyen kérelem hiányában a (6) bekezdésben felsorolt alapító az alapítói jogainak gyakorlására államháztartáson kívüli szervezetet is kijelölhet.
+(7) A (4) bekezdésben foglalt rendelkezést a helyi önkormányzat (képviselő-testülete) által államháztartáson kívüli alapítóval közösen létrehozott alapítványokra is alkalmazni kell, ha az ilyen alapítványok alapítói az alapítvány megszüntetését – az érintett alapítvány hozzájárulásával – közösen kérik.
