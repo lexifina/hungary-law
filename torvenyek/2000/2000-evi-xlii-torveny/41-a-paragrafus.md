@@ -18,7 +18,7 @@ azon személyes adatait, amelyeket e kizáró ok fennállásának megállapítá
 
 (5) A hajóparancsnoki megbízatást az üzemben tartó azonnali hatállyal megszünteti, ha
 
-a) a hajóparancsnok a 34. § (5) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye, az ismételt felhívástól számított tizenötödik munkanapon,
+a) a hajóparancsnok a 34. § (5) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított húsz napon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye, az ismételt felhívástól számított huszadik napon,
 
 b) ha a 34. § (4) bekezdésében meghatározott kizáró ok fennállását az üzemben tartó az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja, e megállapításnak a hajóparancsnok részére történő kézbesítése napján.
 

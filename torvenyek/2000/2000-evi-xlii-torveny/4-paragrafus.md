@@ -2,7 +2,7 @@
 
 4. § (1) A hajózással, a víziutakkal és a kikötőkkel összefüggő állami feladatok körében az igazgatási tevékenységet, a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel, a miniszter – a (4) bekezdésben, továbbá az 5–6. §-okban megállapított kivétellel – az egységes közlekedési igazgatási szervezet, valamint a vízügyi igazgatási szervezet útján végzi.
 
-(2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett ágazati minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott központi és területi szervek (a továbbiakban együtt: hajózási hatóságok).
+(2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott központi és területi szervek (a továbbiakban együtt: hajózási hatóságok).
 
 (3) A hajózási hatóság eljárásáért külön jogszabályban meghatározott díjat kell fizetni.
 

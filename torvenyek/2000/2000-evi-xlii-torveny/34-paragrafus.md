@@ -34,4 +34,4 @@ d) vízi jármű vezetésétől eltiltás hatálya alatt áll.
 
 (5) A hajóparancsnokként alkalmazandó személy a hajóparancsnoki megbízást megelőzően az üzemben tartó részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben a (4) bekezdésben meghatározott kizáró ok (a továbbiakban: kizáró ok) nem áll fenn.
 
-(6) A megbízás időtartama alatt a hajóparancsnok az üzemben tartó írásbeli, a mulasztás jogkövetkezményeit ismertető felhívására, a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül a hajóparancsnokon kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy vele szemben a (4) bekezdésben meghatározott kizáró ok nem áll fenn.
+(6) A megbízás időtartama alatt a hajóparancsnok az üzemben tartó írásbeli, a mulasztás jogkövetkezményeit ismertető felhívására, a felhívástól számított húsz napon belül – ha e határidőn belül a hajóparancsnokon kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy vele szemben a (4) bekezdésben meghatározott kizáró ok nem áll fenn.

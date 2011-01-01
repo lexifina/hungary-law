@@ -66,7 +66,7 @@ p) a víziközlekedés rendjének,
 
 q) a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
 
-r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszterrel együttesen,
+r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
 
 s) a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben,
 
@@ -80,11 +80,11 @@ w) a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
 
 x) a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak
 
-y) a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energetikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
+y) a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
 
 rendeletben történő megállapítására.
 
-(3) Felhatalmazást kap a rendészetért felelős miniszter a hajózással kapcsolatos rendőrhatósági tevékenység szabályainak – ideértve az eljáró hatóság feladat- és hatáskörét, továbbá a hatósági tevékenységre vonatkozó rendelkezéseket is – a miniszterrel együttesen, rendeletben történő megállapítására.
+(3) Felhatalmazást kap a rendészetért felelős miniszter a hajózással kapcsolatos rendőrhatósági tevékenység szabályainak – ideértve az eljáró hatóság feladat- és hatáskörét, továbbá a hatósági tevékenységre vonatkozó rendelkezéseket is – a miniszter egyetértésével kiadott rendeletben történő megállapítására.
 
 (4) Felhatalmazást kap az egészségügyért felelős miniszter a hajózás egészségügyi és közegészségügyi-járványügyi követelményeinek és hatósági felügyelete szabályainak, továbbá az eljáró hatóság feladat- és hatáskörének, a miniszterrel egyetértésben, rendeletben történő megállapítására.
 
@@ -100,4 +100,4 @@ rendeletben történő megállapítására.
 
 (7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter a hajózással kapcsolatos munkabiztonsági követelményeknek a miniszterrel és az egészségügyért felelős miniszterrel egyetértésben, rendeletben történő megállapítására.
 
-(8) Felhatalmazást kap a honvédelemért felelős miniszter a Magyar Honvédség személyi állományára, úszólétesítményeire, továbbá a honvédelmi célú, mederben és parton lévő, hajózást szolgáló létesítményeire vonatkozóan e törvényben foglaltaktól eltérő szabályoknak a miniszterrel együttesen, rendeletben történő megállapítására.
+(8) Felhatalmazást kap a honvédelemért felelős miniszter a Magyar Honvédség személyi állományára, úszólétesítményeire, továbbá a honvédelmi célú, mederben és parton lévő, hajózást szolgáló létesítményeire vonatkozóan e törvényben foglaltaktól eltérő szabályoknak a miniszter egyetértésével kiadott rendeletben történő megállapítására.
