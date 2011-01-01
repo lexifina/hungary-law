@@ -22,9 +22,11 @@ i) a hagyatéki eljárás megismétlése tárgyában hozott,
 
 j) a tárgyalás tartása iránti kérelmet elutasító,
 
-k) a törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszonélvezeti jog megváltása tárgyában hozott, valamint
+k) az özvegyi jog megváltása tárgyában hozott,
 
-l) a hagyatékátadási terhek és az öröklési illeték ideiglenes hatályú hagyatékátadás esetén a hagyatékból való kifizetésének engedélyezése tárgyában hozott
+l) a hagyatékátadási terhek és az öröklési illeték ideiglenes hatályú hagyatékátadás esetén a hagyatékból való kifizetésének engedélyezése tárgyában hozott, valamint
+
+m) a megismételt hagyatéki eljárás ingatlan-nyilvántartásba való feljegyzése tárgyában hozott
 
 végzés ellen.
 

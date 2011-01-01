@@ -2,7 +2,7 @@
 
 (2) A közjegyző végzése ellen fellebbezéssel a gyámhatóság is élhet, ha az örökösként érdekelt
 
-a) méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes kiskorú, illetve olyan nagykorú személy, akinek a cselekvőképességét a bíróság olyan ügycsoportban korlátozta, amely érinti ingó és ingatlanvagyonnal való rendelkezési jogát, illetve örökösödési ügyekkel kapcsolatos jognyilatkozatát,
+a) méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes személy,
 
 b) ismeretlen helyen levő személy vagy
 

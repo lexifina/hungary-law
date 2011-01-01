@@ -6,4 +6,4 @@ b) az egyezségkötés lehetőségére és
 
 c) a közvetítői eljárás igénybevételének lehetőségére.
 
-(2) Ha az örökhagyó házastársát törvényes örökösként az általa lakott lakáson és az ahhoz tartozó berendezési és felszerelési tárgyakon törvényes öröklés rendje szerinti, a túlélőházastársat megillető, holtig tartó haszonélvezeti jog illeti meg, a közjegyző a túlélő házastársat és a törvényes állagörökösöket a törvényes öröklés rendje szerinti, a túlélőházastársat megillető, holtig tartó haszonélvezeti jog megváltásának lehetőségéről az idézésben tájékoztatja.
+(2) A közjegyző az özvegyi jog jogosultját és a törvényes állagörökösöket az özvegyi jog megváltásának lehetőségéről az idézésben tájékoztatja.

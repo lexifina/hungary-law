@@ -1,5 +1,9 @@
-## A törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszonélvezeti jog megváltása
+## Az özvegyi jog megváltása
 
-96. § (1) A hagyatéki eljárás során a törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszonélvezeti jog megváltását az összes arra jogosult együttesen, az arról szóló egyezségnek a közjegyző elé terjesztésével, a hagyatéki tárgyalás berekesztéséig kérheti.
+96. § (1) Az özvegyi jog megváltását az özvegy, illetve az örökösként érdekelt a hagyatéki tárgyalás berekesztéséig kérheti.
 
-(2) Ha a törvényes öröklés rendje szerinti, a túlélőházastársat megillető, holtig tartó haszonélvezeti jog megváltását nem az összes arra jogosult közösen előterjesztett egyezsége alapján kérték, a közjegyző a kérelmet előterjesztőt megfelelő határidővel felhívja arra, hogy a hiányt pótolja vagy az igényt bíróság előtt érvényesítse. Ha a hiányt az előterjesztő pótolja vagy igazolja a per megindítását, a közjegyző ennek figyelembevételével folytatja tovább az eljárást.
+(2) Az özvegyi jog megváltásának a póthagyatéki vagyonra nézve a póthagyatéki eljárásban is helye van.
+
+(3) A megváltásra vonatkozó rendelkezéseket megfelelően alkalmazni kell abban az esetben is, ha örökhagyó életbiztosítási vagy halálesetre szóló balesetbiztosítási szerződésének kedvezményezettje az örökös.
+
+(4) Az özvegyi jog megváltása iránti kérelem az özvegyi joggal terhelt hagyatéki vagyon, illetve vagyontárgy meghatározott hányadára, illetőleg meghatározott vagyontárgyra is előterjeszthető.

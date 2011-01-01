@@ -1,6 +1,6 @@
 ## A végintézkedés beszerzése
 
-46. § (1) Ha adat merül fel arra vonatkozóan, hogy az örökhagyó írásbeli végintézkedést tett, a közjegyző – ha annak eredeti példánya nem áll rendelkezésére – annak átadására felhívja azt a hatóságot vagy személyt, aki azt birtokában tartja.
+46. § (1) Ha adat merül fel arra vonatkozóan, hogy az örökhagyó írásbeli végintézkedést tett, a közjegyző – ha annak eredeti példánya nem áll rendelkezésére – annak (vagy törvény rendelkezése esetén hiteles másolatának vagy kiadmányának) átadására felhívja az azt birtokában tartó hatóságot vagy személyt.
 
 (2) Aki az örökhagyó haláláról hitelt érdemlően értesül, vagy akit a közjegyző a végintézkedés átadására felhív, – ha annak birtokában van, vagy helyéről, illetve birtokosáról információval rendelkezik – köteles az örökhagyó írásbeli végintézkedését vagy az arra vonatkozó adatokat a közjegyzőnek haladéktalanul átadni vagy megküldeni.
 

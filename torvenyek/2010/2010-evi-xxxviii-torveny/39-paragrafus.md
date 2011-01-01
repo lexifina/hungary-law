@@ -4,4 +4,4 @@ a) e tekintetben a Polgári Törvénykönyvről szóló törvényben meghatároz
 
 b) annak hasznairól a közjegyzőhöz számadást előterjeszteni; e számadás helyességét az öröklésben érdekeltek bírósági úton vitathatják.
 
-(2) Az (1) bekezdésben foglalt kötelezettségre a biztosítási intézkedést elrendelő végzés figyelemfelhívó rendelkezést tartalmaz.
+(2) Az (1) bekezdésben foglalt kötelezettségről a biztosítási intézkedést elrendelő végzés tájékoztatást tartalmaz.

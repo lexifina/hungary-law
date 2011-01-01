@@ -14,7 +14,7 @@ c) a hagyatéki eljárás során közjegyzői letétbe vehető vagyontárgyakat 
 
 d) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban elrendelt biztosítási intézkedés foganatosításával kapcsolatban felszámítható készkiadásokat, munkadíjakat, valamint költségeket, továbbá ezek megelőlegezésének és megfizetésének módját,
 
-e) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban kirendelt hagyatéki gondnok, ügygondnok és eseti gondnok díját, felszámítható költségeit, valamint ezek megfizetésének módját,
+e) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban kirendelt zár-, ügygondnok és eseti gondnok díját, felszámítható költségeit, valamint ezek megfizetésének módját,
 
 f) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárás iratainak nem hiteles másolatáért járó díj mértékét és megfizetésének módját,
 

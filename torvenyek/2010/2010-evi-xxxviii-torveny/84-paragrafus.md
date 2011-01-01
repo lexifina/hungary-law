@@ -1,1 +1,1 @@
-84. § A közjegyző az örökhagyó túlélő házastársa (élettársa) az általa lakott lakáson és az ahhoz tartozó berendezési és felszerelési tárgyakon az örökhagyó halála miatt a törvényes öröklés rendje szerint megillető, holtig tartó haszonélvezeti joggal (holtig tartó használati joggal) terhelten és teljes hatállyal adja át a hagyatékot, ha csak a haszonélvezeti jog (használati jog) vagy annak terjedelme vitás.
+84. § A közjegyző özvegyi joggal terhelten és teljes hatállyal adja át a hagyatékot, ha csak e jog vagy annak terjedelme vitás.

@@ -12,7 +12,7 @@ ac) lajstromozott vagyontárgy van,
 
 ad) a törvényben megállapított öröklési illetékmentes értéket meghaladó értékű ingó vagyon van, vagy
 
-b) a bejelentett hagyatéki tartozások várhatóan meghaladják a hagyatékba tartozó vagyon értékét.
+b) a jegyző vagy a közjegyző rendelkezésére álló adatok alapján valószínű, hogy a bejelentett hagyatéki tartozások meghaladják a hagyaték értékét.
 
 (2) A hagyatékot leltározni kell az öröklésben érdekelt kérelmére is, továbbá ha más kötelező leltározás alá eső vagyontárgy nincs, a 6. § (1) bekezdés db)–dd) alpontjaiban nevezettek kérelmére leltározni kell a kérelmező hagyatéki eljárásban való érdekeltségét megalapozó vagyontárgyat.
 
@@ -24,7 +24,7 @@ aa) méhmagzat,
 
 ab) cselekvőképtelen, valamint korlátozottan cselekvőképes kiskorú,
 
-ac) olyan nagykorú személy, akinek a cselekvőképességét a bíróság olyan ügycsoportban korlátozta, amely érinti az ingó és ingatlanvagyonnal való rendelkezési jogát, illetve az örökösödési ügyekkel kapcsolatos jognyilatkozatát,
+ac) cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú,
 
 ad) ismeretlen helyen lévő személy,
 

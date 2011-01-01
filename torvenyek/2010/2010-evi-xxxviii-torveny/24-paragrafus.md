@@ -4,7 +4,7 @@ a) méhmagzat,
 
 b) cselekvőképtelen, valamint korlátozottan cselekvőképes kiskorú,
 
-c) olyan nagykorú személy, akinek a cselekvőképességét a bíróság olyan ügycsoportban korlátozta, amely érinti az ingó és ingatlanvagyonnal való rendelkezési jogát, illetve az örökösödési ügyekkel kapcsolatos jognyilatkozatát,
+c) cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú,
 
 d) törvényes képviselővel vagy meghatalmazottal nem rendelkező, ismeretlen helyen tartózkodó vagy az ügyeinek vitelében más okból akadályozott természetes személy.
 

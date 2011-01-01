@@ -1,7 +1,23 @@
-## A végrendeleti végrehajtó jogállása
+99. § (1) A végrendeleti végrehajtó jogaira és kötelezettségeire a végintézkedés az irányadó; feladatát az örökhagyó utasításai és rendes gazdálkodás szabályai szerinti köteles ellátni. Különböző feladatokra más-más végrendeleti végrehajtó is megnevezhető. A jogszabályok betartása alól az örökhagyó jogszabályba ütköző utasítása nem mentesíti, de ha az örökhagyó célja jogszerű magatartással elérhető, a jogellenes utasítás teljesítése helyett a végrendeleti végrehajtó ez utóbbit köteles megtenni.
 
-99. § (1) A jegyző vagy a közjegyző amint arról tudomást szerez, hogy az örökhagyó végrendeleti végrehajtót nevezett meg és a rendelkezésre álló adatok alapján e személy erről nem tud vagy a végrendeletet nem ismeri, haladéktalanul értesíti és a végrendelet tartalmát vele közli.
+(2) Ha a végrendelet a végrendeleti végrehajtó jogait és kötelezettségeit nem határozza meg, a végrendeleti végrehajtó joga és kötelezettsége, hogy
 
-(2) A jegyző vagy a közjegyző amint a végrendeleti végrehajtó személyéről tudomást szerez, értesíti a végrendeleti végrehajtót jogairól és kötelezettségeiről, valamint felhívja, hogy nyilatkozzon megbízatása elfogadásáról. A megbízatás elfogadásáról szóló nyilatkozat a jegyző vagy a közjegyző által felvett jegyzőkönyvbe foglalással, vagy az arról szóló teljes bizonyító erejű magánokiratba vagy közokiratba foglalt elfogadó nyilatkozat közjegyző elé terjesztésével történhet.
+a) az eljáró hatóságokat a hagyaték leltározásában segítse, és az örökösök javára szükség esetén biztosítási intézkedés elrendelését indítványozza,
 
-(3) Ha a végrendeleti végrehajtó az értesítés és tájékoztatás kézhezvételétől számított 30 napon belül megbízatásának elfogadását a jegyző vagy a közjegyző előtt nem igazolja, a hagyatéki eljárásban úgy kell tekinteni, mintha a végrendeleti végrehajtói megbízatás nem jött volna létre. A határidő elmulasztása miatt igazolásnak nincs helye.
+b) követelje a végintézkedés rendelkezéseinek foganatosítását az örököstől, a hagyományostól, és ennek érdekében, amíg az örökhagyó végintézkedésében részesített személy maga fel nem lép, annak javára, de a saját nevében a bíróság előtt is eljárjon,
+
+c) a hagyatéki vagyon kezelésére irányuló jogkörében a hagyatékot birtokba vegye, és
+
+ca) a hagyatéki hitelezőket – különösen a halaszthatatlan kifizetéseket – a saját nevében eljárva, de a hagyaték terhére kielégítse,
+
+cb) a hagyatéki követeléseket a saját nevében eljárva, de a hagyaték javára érvényesítse,
+
+cc) az örökhagyó gazdasági társaságban (szövetkezetben) fennálló és a hagyaték megnyíltával az örökösre átszállt tagsági jogait gyakorolja,
+
+d) a hagyatékátadó végzés (ideértve a rész-hagyatékátadó végzést is) jogerőre emelkedését követően maga foganatosítsa annak rendelkezéseit.
+
+(3) A végrendeleti végrehajtó a (2) bekezdés c) pontjában meghatározott feladata ellátása során a hagyatékhoz tartozó vagyontárgy vonatkozásában
+
+a) kötelezettségeket nem vállalhat, illetve a vagyontárgyat nem idegenítheti el, kivéve, ha ahhoz minden öröklésben érdekelt hozzájárult,
+
+b) a hagyaték terhére ingyenesen nem rendelkezhet.

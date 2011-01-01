@@ -12,6 +12,6 @@ b) a kérelmező igazolja, hogy az öröklési rend tekintetében több, örök�
 
 (4) Ha az öröklés feltételhez van kötve, ezt az öröklési bizonyítványban fel kell tüntetni. Ha a hagyaték megnyíltáig a feltétel már bekövetkezett, a feltételre való utalást mellőzni kell.
 
-(5) A (2) bekezdés b) pontja alapján kiállított öröklési bizonyítványhoz a közjegyző annyiban van kötve, hogy attól eltérő határozatot osztályos egyezség alapján nem hozhat, valamint a hagyatékon (a hagyatéknak azon a részén, amelyre az öröklési bizonyítvány kiállítása vonatkozik) a törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszonélvezeti jog megváltásának is csak pénzben lehet helye.
+(5) A (2) bekezdés b) pontja alapján kiállított öröklési bizonyítványhoz a közjegyző annyiban van kötve, hogy attól eltérő határozatot osztályos egyezség alapján nem hozhat, valamint a hagyatékon (a hagyatéknak azon a részén, amelyre az öröklési bizonyítvány kiállítása vonatkozik) az özvegyi jog megváltásának is csak pénzben lehet helye.
 
 (6) Az öröklési bizonyítvány kiadása iránti eljárásban e törvénynek a közjegyző eljárásával kapcsolatos jogorvoslatokra vonatkozó rendelkezéseit alkalmazni kell.
