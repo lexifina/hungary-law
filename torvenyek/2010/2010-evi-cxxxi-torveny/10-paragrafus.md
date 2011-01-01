@@ -1,0 +1,3 @@
+10. § (1) A tervezetet a kormányzati szervekkel való egyeztetésre bocsátással egyidejűleg úgy kell közzétenni, hogy a tervezet céljához és hatálybalépéséhez igazodóan megfelelő idő álljon rendelkezésre a tervezet érdemi megítéléséhez és a vélemények kifejtéséhez, továbbá a jogszabály előkészítőjének arra, hogy a beérkezett véleményeket, javaslatokat érdemben mérlegelhesse.
+
+(2) A véleményezési határidő megegyezik a kormányzati szervekkel való egyeztetésre bocsátás során megállapított határidővel, kivételes esetben a jogszabály előkészítéséért felelős miniszter ettől eltérő időtartamot is meghatározhat.
