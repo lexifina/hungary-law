@@ -38,7 +38,7 @@ b) az igazgatási szolgáltatási díjfizetésre kötelezettek körének megáll
 
 (10)[^22]
 
-(11)[^23] Elektronikus ügyintézés esetén, az ügyfél kérelmére indult eljárásban a hatóság a kérelem megérkezésétől számított 3 munkanapon belül felhívja az ügyfelet, hogy 8 munkanapon belül fizesse meg az eljárásért fizetendő igazgatási szolgáltatási díjat.
+(11)[^23] Elektronikus ügyintézés esetén, az ügyfél kérelmére indult eljárásban a hatóság a kérelem megérkezésétől számított 5 napon belül felhívja az ügyfelet, hogy 8 napon belül fizesse meg az eljárásért fizetendő igazgatási szolgáltatási díjat.
 
 [^9]: A 16. § (1) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 38. § (5) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A 16. § (1) bekezdés a) pontja a 48/2009. (IX. 30.) KHEM rendelet 38. § (5) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -54,4 +54,4 @@ b) az igazgatási szolgáltatási díjfizetésre kötelezettek körének megáll
 [^20]: A 16. § (8) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 38. § (5) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^21]: A 16. § (9) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 38. § (3) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^22]: A 16. § (10) bekezdését a 6/2007. (I. 18.) GKM–KvVM együttes rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^23]: A 16. § (11) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 38. § (4) bekezdésével megállapított és (5) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 16. § (11) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 38. § (4) bekezdésével megállapított és (5) bekezdése, a 37/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
