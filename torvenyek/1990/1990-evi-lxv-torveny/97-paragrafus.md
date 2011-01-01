@@ -1,6 +1,6 @@
 97. § A miniszter:
 
-a) rendeletben határozza meg a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző, a főjegyző, a közigazgatási hivatal államigazgatási feladatai ellátásának szakmai szabályait, és ellenőrzi azok érvényesülését;
+a) rendeletben határozza meg a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző, a főjegyző, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv államigazgatási feladatai ellátásának szakmai szabályait, és ellenőrzi azok érvényesülését;
 
 b) rendeletben szabályozza a helyi önkormányzatok által fenntartott intézmények működésének szakmai követelményeit, az intézmények dolgozóinak képesítési előírásait, ellenőrzi az előírások érvényesülését;
 

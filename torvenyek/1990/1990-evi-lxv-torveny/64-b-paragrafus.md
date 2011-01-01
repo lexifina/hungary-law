@@ -1,11 +1,9 @@
 64/B. § A fővárosi önkormányzat kizárólagos bevételei:
 
-a) a normatív központi hozzájárulás igazgatási és közművelődési feladatokra;
+a) az önkormányzatot megillető vadászati jog haszonbérbe adásából származó bevételnek az érintett települések önkormányzataival kötött megállapodás szerint, területarányosan meghatározott része,
 
-b) az önkormányzatot megillető vadászati jog haszonbérbe adásából származó bevétel, az érintett települések önkormányzataival kötött megállapodás szerint, területarányosan meghatározott része;
+b) a fővárosi önkormányzat részére törvényben megállapított körben a befolyt környezetvédelmi és műemlékvédelmi bírság,
 
-c) a fővárosi önkormányzat részére törvényben megállapított körben a befolyt környezetvédelmi és műemlékvédelmi bírság;
+c) az illetékek a külön törvényben meghatározottak szerint, és
 
-d) az illetékek a külön törvényben meghatározottak szerint;
-
-e) a 64. § (2) bekezdése alapján járó központi támogatás.
+d) a 64. § (2) bekezdése alapján járó központi hozzájárulás.

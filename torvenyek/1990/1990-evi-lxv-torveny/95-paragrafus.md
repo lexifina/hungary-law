@@ -1,6 +1,6 @@
 95. § A Kormány:
 
-a) a helyi önkormányzatokért felelős miniszter közreműködésével, a közigazgatási hivatal útján biztosítja a helyi önkormányzatok törvényességi ellenőrzését;
+a) a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter közreműködésével, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv útján biztosítja a helyi önkormányzatok törvényességi ellenőrzését;
 
 b) javaslatot terjeszt az Országgyűléshez az Alkotmánnyal ellentétesen működő helyi képviselő-testület feloszlatására;
 

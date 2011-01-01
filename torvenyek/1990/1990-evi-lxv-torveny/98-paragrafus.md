@@ -1,14 +1,14 @@
-## A közigazgatási hivatal
+## A helyi önkormányzatok törvényességi ellenőrzése
 
-98. § (1) A fővárosi, megyei közigazgatási hivatal (a továbbiakban: közigazgatási hivatal) államigazgatási feladatokat ellátó költségvetési szerv, amelyet a Kormány által rendeletben kijelölt miniszter irányít. A közigazgatási hivatal működésének költségeit az Országgyűlés a költségvetési törvénynek a közigazgatási hivatalok irányítására kijelölt miniszter fejezetében, elkülönítetten biztosítja.
+98. § (1)
 
-(2) A közigazgatási hivatal
+(2) A fővárosi és megyei kormányhivatal a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv, amely
 
 a) ellátja a helyi önkormányzatok törvényességi ellenőrzését, a mérlegeléssel hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja;
 
 b)
 
-c) ellátja a törvényben megállapított, továbbá a Kormány által hatáskörébe utalt államigazgatási feladatokat, hatásköröket, hatósági jogköröket;
+c)
 
 d)
 
@@ -18,7 +18,7 @@ f) összehívja a képviselő-testület ülését, ha a 12. § (1) bekezdése sz
 
 g) a feladat- és hatáskörébe tartozó ügyben az önkormányzat kérésére szakmai segítséget nyújt.
 
-(3) A közigazgatási hivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a helyi önkormányzat
+(3) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a helyi önkormányzat
 
 a) szervezete, működése, döntéshozatali eljárása,
 
@@ -26,10 +26,10 @@ b) döntései (rendelete, határozata),
 
 c) bizottsága, részönkormányzata, polgármestere, főpolgármestere, megyei közgyűlés elnöke, társulása által hozott önkormányzati határozat megfelel-e a jogszabályoknak.
 
-(4) Nem terjed ki a közigazgatási hivatal törvényességi ellenőrzési jogköre — az (5) bekezdésben foglalt kivétellel — azokra a helyi önkormányzat, illetve szervei által hozott határozatokra, amelyek alapján
+(4) Nem terjed ki a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogköre — az (5) bekezdésben foglalt kivétellel — azokra a helyi önkormányzat, illetve szervei által hozott határozatokra, amelyek alapján
 
 a) munkaügyi vitának, illetve közszolgálati jogviszonyból származó vitának,
 
 b) külön jogszabályban meghatározott bírósági vagy államigazgatási eljárásnak van helye.
 
-(5) A közigazgatási hivatal törvényességi ellenőrzési jogköre kiterjed a (4) bekezdésben felsorolt határozatokra is a (3) bekezdés a) pontjában meghatározott körben, továbbá a (4) bekezdés a) pontja esetében, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
+(5) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogköre kiterjed a (4) bekezdésben felsorolt határozatokra is a (3) bekezdés a) pontjában meghatározott körben, továbbá a (4) bekezdés a) pontja esetében, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.

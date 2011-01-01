@@ -1,6 +1,6 @@
-99. § (1) A közigazgatási hivatal a törvényességi ellenőrzés körében — határidő tűzésével — felhívja az érintettet a törvénysértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a közigazgatási hivatalt tájékoztatni.
+99. § (1) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzés körében — határidő tűzésével — felhívja az érintettet a törvénysértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet tájékoztatni.
 
-(2) Ha a megadott határidőn belül intézkedés nem történt, a közigazgatási hivatal kezdeményezheti:
+(2) Ha a megadott határidőn belül intézkedés nem történt, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezheti:
 
 a) az Alkotmánybíróságnál a törvénysértő önkormányzati rendelet felülvizsgálatát és megsemmisítését;
 

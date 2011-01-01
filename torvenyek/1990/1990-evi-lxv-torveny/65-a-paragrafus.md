@@ -2,7 +2,7 @@
 
 65/A. § (1) Törvény határozza meg, hogy rendelkezései végrehajtására a közgyűlés, illetve a kerületi képviselő-testület alkothat rendeletet.
 
-(2) A közgyűlés feladatkörében alkotott rendelete végrehajtása érdekében felhatalmazást adhat kerületi képviselő-testületnek rendeletalkotásra. Az e tárgykörben alkotott kerületi rendelet nem terjeszkedhet túl a fővárosi közgyűlés rendeletében foglalt felhatalmazáson. A kerületi képviselő-testület rendelete nem lehet ellentétes a közgyűlés rendeletével.
+(2) A közgyűlés feladatkörében, nem felhatalmazás alapján alkotott rendelete végrehajtása érdekében felhatalmazást adhat a kerületi képviselő-testületnek rendeletalkotásra. A kerületi képviselő-testület rendelete nem lehet ellentétes a közgyűlés rendeletével.
 
 (3) A főpolgármester a fővárosi közgyűlés rendelettervezeteit tájékoztatásul megküldi a kerületi polgármestereknek. A kerületi polgármester a kerületi képviselő-testület rendelettervezeteit tájékoztatásul megküldi a főpolgármesternek.
 

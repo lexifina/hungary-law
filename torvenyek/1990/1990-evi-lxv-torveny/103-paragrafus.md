@@ -16,6 +16,6 @@ d) a 36. § (2) bekezdés b) pontjában említett munkáltatói jog magába fogl
 
 (2) A 33/A. és 33/B. és 33/C. §-ok alkalmazásában a polgármesteren az alpolgármestert, a megyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester helyettesét is érteni kell, azzal az eltéréssel, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja lehet.
 
-(3) A közigazgatási hivatal a köztársasági megbízott és hivatala jogutódja.
+(3)
 
 (4) A megszűnő tanács és szervei jogutóda a helyi önkormányzat.

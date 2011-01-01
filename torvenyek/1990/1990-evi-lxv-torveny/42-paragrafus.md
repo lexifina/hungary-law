@@ -14,4 +14,4 @@ d) a társulásba való belépés, illetőleg a kiválás szabályait,
 
 e) a társulás működési területén a helyszíni ügyintézés rendjét.
 
-(3) A megállapodást meg kell küldeni a közigazgatási hivatalnak, amely tizenöt napon belül tehet törvényességi észrevételt.
+(3) A megállapodást meg kell küldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek, amely tizenöt napon belül tehet törvényességi észrevételt.

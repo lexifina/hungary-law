@@ -6,7 +6,7 @@ b) szervezetének kialakítása és működésének meghatározása, továbbá a
 
 c) a helyi népszavazás kiírása, az önkormányzati jelképek, kitüntetések és elismerő címek meghatározása, használatuk szabályozása, díszpolgári cím adományozása;
 
-d) a gazdasági program, a költségvetés megállapítása, döntés a végrehajtásukról szóló beszámoló elfogadásáról, a helyi adó megállapítása, a településrendezési terv jóváhagyása, a képviselő-testület által meghatározott értékhatár feletti hitelfelvétel, a kötvénykibocsátás, továbbá a közösségi célú alapítvány és alapítványi forrás átvétele, és átadása;
+d) a gazdasági program, a költségvetés megállapítása, döntés a végrehajtásukról szóló beszámoló elfogadásáról, a helyi adó megállapítása, a településrendezési terv jóváhagyása, az éven túli hitelfelvétel, a képviselő-testület által meghatározott értékhatár feletti hitelfelvétel, a kötvénykibocsátás, továbbá a közösségi célú alapítvány és alapítványi forrás átvétele, és átadása;
 
 e) önkormányzati társulás létrehozása, társuláshoz, érdekképviseleti szervezethez való csatlakozás;
 
