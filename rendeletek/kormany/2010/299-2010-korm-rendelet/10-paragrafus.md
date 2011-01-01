@@ -1,3 +1,0 @@
-## 9. § Az R. 18. §-a helyébe az alábbi rendelkezés lép:
-
-## „18. § Az Eximbank segélyhitel-szerződésekre vonatkozóan szerződésenként megállapítja a segélyhitel-szerződés szerinti, fix kamatlábbal számított, a tárgynegyedévben időarányosan járó kamatokat, valamint a tárgynegyedévre vonatkozó forrásszerzési költsége alkalmazásával számított, azonos időszakra vonatkozó összeget. Amennyiben a forrásszerzési költség figyelembevételével számított összeg nagyobb az időarányosan járó kamatoknál, a különbözet a segélyhitel tárgynegyedévi kamattámogatási igénye, ellenkező esetben a kamatkülönbözet befizetési kötelezettsége.”
