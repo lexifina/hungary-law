@@ -1,12 +1,12 @@
-## 17. § Az e rendelet szerinti előírások betartását a külön jogszabályban meghatározott hatóság[^22] jogosult ellenőrizni és a jogszabályi felhatalmazás alapján a szükséges intézkedéseket megtenni.
+## 17. § Az e rendelet szerinti előírások betartását a külön jogszabályban meghatározott hatóság[^23] jogosult ellenőrizni és a jogszabályi felhatalmazás alapján a szükséges intézkedéseket megtenni.
 
 ## Záró rendelkezések
 
-18. § (1)[^23] Ez a rendelet a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+18. § (1)[^24] Ez a rendelet a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(2)[^24] E rendelet a mérőműszerekre és a metrológiai ellenőrzés módszereire vonatkozó közös rendelkezésekről szóló, 2009. április 23-i 2009/34/EK parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(2)[^25] E rendelet a mérőműszerekre és a metrológiai ellenőrzés módszereire vonatkozó közös rendelkezésekről szóló, 2009. április 23-i 2009/34/EK parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-Melléklet a 6/2001. (III. 19.) GM rendelethez[^25]
+Melléklet a 6/2001. (III. 19.) GM rendelethez[^26]
 
 Típusjóváhagyási jelölések
 
@@ -34,7 +34,7 @@ A rajzokon megadott méretek relatív számértékek; a kis „e” betűt és a
 
 A befoglaló körök átmérője 1,6 mm, 3,2 mm, 6,3 mm vagy 12,5 mm.
 
-[^22]: Az üzembe helyezéssel és az üzemeltetéssel kapcsolatos ügyekben a mérésügyi hatóság (Országos Mérésügyi Hivatal főosztályai és a mértékhitelesítő hivatalok, lásd az 1991: XLV. törvényt és a 127/1991. (X. 9.) Korm. rendeletet), a forgalmazással kapcsolatos ügyekben a Fogyasztóvédelmi Főfelügyelőség és a területi felügyelőségek (lásd az 1997: CLV. törvényt).
-[^23]: A 18. § (1) bekezdése a 33/2002. (XII. 17.) GKM rendelet 1. §-ával megállapított szöveg.
-[^24]: A 18. § (2) bekezdése a 10/2010. (III. 2.) NFGM rendelet 8. §-ával megállapított szöveg.
-[^25]: A melléklet a 22/2005. (IV. 15.) GKM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (1) bekezdése alapján a rendelkezést a 2005. április 23. napja után indult mérésügyi hatósági eljárásokra kell alkalmazni.
+[^23]: Az üzembe helyezéssel és az üzemeltetéssel kapcsolatos ügyekben a mérésügyi hatóság (Országos Mérésügyi Hivatal főosztályai és a mértékhitelesítő hivatalok, lásd az 1991: XLV. törvényt és a 127/1991. (X. 9.) Korm. rendeletet), a forgalmazással kapcsolatos ügyekben a Fogyasztóvédelmi Főfelügyelőség és a területi felügyelőségek (lásd az 1997: CLV. törvényt).
+[^24]: A 18. § (1) bekezdése a 33/2002. (XII. 17.) GKM rendelet 1. §-ával megállapított szöveg.
+[^25]: A 18. § (2) bekezdése a 10/2010. (III. 2.) NFGM rendelet 8. §-ával megállapított szöveg.
+[^26]: A melléklet a 22/2005. (IV. 15.) GKM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (1) bekezdése alapján a rendelkezést a 2005. április 23. napja után indult mérésügyi hatósági eljárásokra kell alkalmazni.
