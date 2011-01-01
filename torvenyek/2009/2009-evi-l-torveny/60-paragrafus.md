@@ -16,6 +16,6 @@ f) az eljárási díj, a végrehajtási díj és a biztosítási intézkedés el
 
 g) a költségkedvezmény előfeltételeire, engedélyezésére, megvonására, és a költségek előlegezésére, illetve az előlegezett, valamint a nem előlegezett költségek megfizetésére és behajtására vonatkozó szabályokat,
 
-h) a közigazgatási informatikáért felelő miniszterrel együttesen a MOKK rendszerének informatikai biztonsági technológiai, szervezeti-szervezési és módszertani követelményeit
+h) az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével a MOKK rendszerének informatikai biztonsági technológiai, szervezeti-szervezési és módszertani követelményeit
 
 rendeletben állapítsa meg.
