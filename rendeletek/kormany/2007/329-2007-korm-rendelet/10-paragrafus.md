@@ -2,32 +2,39 @@
 
 a) a nemzetközi és belföldi polgári repülés jogellenes cselekmények elleni védelmével kapcsolatos feladatokat,
 
-b)[^27] a repülőtereken a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét.
+b)[^41] a repülőtereken a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét.
 
-c)[^28]
+c)[^42]
 
-(2)[^29] A Repülőtéri Rendőr Igazgatóság a Budapest Ferihegy Nemzetközi Repülőtéren
+(2)[^43] A Repülőtéri Rendőr Igazgatóság a Budapest Ferihegy Nemzetközi Repülőtéren
 
 a) határellenőrzési és más határrendészeti feladatokat,
 
-b)[^30] nyomozó és közigazgatási, valamint a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat,
+b)[^44] nyomozó és közigazgatási, valamint a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat,
 
-c)[^31] a 13. §-ban meghatározott idegenrendészeti és menedékjogi feladatokat
+c)[^45] a 13. §-ban meghatározott idegenrendészeti és menedékjogi feladatokat,
+
+d)[^46] az egyes szabálysértésekről szóló kormányrendeletben meghatározott légiközlekedés biztonságát szolgáló szabályok megszegése szabálysértés esetén szabálysértési hatóságként jár el, a tulajdon elleni szabálysértések esetén lefolytatja a szabálysértésekről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást,
+
+e)[^47] törvényben meghatározott esetben közrendvédelmi bírságot állapít meg.
 
 ## lát el.
 
-(3)[^32] A Repülőtéri Rendőr Igazgatóság Budapest, Pest megye területén ellátja
+(3)[^48] A Repülőtéri Rendőr Igazgatóság Budapest, Pest megye területén ellátja
 
-a) a 11. § (2) bekezdés gd)–ge) alpontjában meghatározott feladatokat;
+a)[^49] a 11. § (2) bekezdés gd)–ge), valamint j) alpontjában meghatározott feladatokat;
 
 b) az ideiglenes légi határátkelőhelyek megnyitásával kapcsolatos rendészeti feladatokat.
 
-(4)[^33] A Repülőtéri Rendőr Igazgatóság a Budapest Ferihegy Nemzetközi Repülőtéren ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt hatósági feladatokat.
+(4)[^50] A Repülőtéri Rendőr Igazgatóság a Budapest Ferihegy Nemzetközi Repülőtéren ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt hatósági feladatokat.
 
-[^27]: A 10. § (1) bekezdés b) pontja a 169/2010. (V. 11.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^28]: A 10. § (1) bekezdés c) pontját a 30/2009. (II. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^29]: A 10. § (2) bekezdés bevezető szövegrésze a 247/2009. (XI. 10.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg.
-[^30]: A 10. § (2) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^31]: A 10. § (2) bekezdés c) pontja a 30/2009. (II. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^32]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^33]: A 10. § (4) bekezdését a 247/2009. (XI. 10.) Korm. rendelet 26. § (2) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 10. § (1) bekezdés b) pontja a 169/2010. (V. 11.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^42]: A 10. § (1) bekezdés c) pontját a 30/2009. (II. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^43]: A 10. § (2) bekezdés bevezető szövegrésze a 247/2009. (XI. 10.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg.
+[^44]: A 10. § (2) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A 10. § (2) bekezdés c) pontja a 30/2009. (II. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^46]: A 10. § (2) bekezdés d) pontját a 361/2010. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^47]: A 10. § (2) bekezdés e) pontját a 361/2010. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^48]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^49]: A 10. § (3) bekezdés a) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^50]: A 10. § (4) bekezdését a 247/2009. (XI. 10.) Korm. rendelet 26. § (2) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

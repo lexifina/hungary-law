@@ -1,6 +1,6 @@
-## 1. § A Rendőrség központi szerve az Országos Rendőrfőkapitányság (a továbbiakban: ORFK), székhelyét az 1. melléklet határozza meg.
+## 1. §[^2] Az Rtv.-ben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: általános rendőri szerv) központi szerve az Országos Rendőr-főkapitányság (a továbbiakban: ORFK), székhelyét az 1. melléklet határozza meg.
 
-2. § (1) A Rendőrségnek az Rtv. 4. §-ának (3) bekezdése alapján egyes feladatok ellátására létrehozott szervei:
+2. § (1)[^3] Az általános rendőri szerv egyes feladatok ellátására létrehozott szervei:
 
 a) a Köztársasági Őrezred,
 
@@ -8,8 +8,14 @@ b) a Nemzeti Nyomozó Iroda,
 
 c) a Készenléti Rendőrség,
 
-d)[^1] a Repülőtéri Rendőr Igazgatóság.
+d)[^4] a Repülőtéri Rendőr Igazgatóság,
 
-(2) A Rendőrség (1) bekezdésben meghatározott szerveinek székhelyét az 1. melléklet állapítja meg.
+e)[^5] a Bűnügyi Szakértői és Kutatóintézet.
 
-[^1]: A 2. § d) pontja a 30/2009. (II. 19.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+(2)[^6] Az általános rendőri szerv (1) bekezdésben meghatározott szerveinek székhelyét az 1. melléklet állapítja meg.
+
+[^2]: Az 1. § a 361/2010. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés nyitó szövegrésze a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 2. § d) pontja a 30/2009. (II. 19.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés e) pontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdése a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.

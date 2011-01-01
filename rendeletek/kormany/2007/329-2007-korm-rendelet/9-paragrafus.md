@@ -10,11 +10,11 @@ d) ellátja a különleges szállítmányok őrzésével kapcsolatos feladatokat
 
 e) részt vesz az országos szintű közbiztonsági, közlekedésbiztonsági és idegenrendészeti fokozott ellenőrzésekben,
 
-f)[^25] – a 7. § (2) bekezdés a) pontját és a 11. § (2) bekezdés i) pontját kivéve – a rendőrség hatáskörébe tartozó tűzszerészeti feladatokat lát el, valamint végzi a robbantással fenyegetett helyszínek átvizsgálását,
+f)[^38] – a 7. § (2) bekezdés a) pontját és a 11. § (2) bekezdés i) pontját kivéve – a rendőrség hatáskörébe tartozó tűzszerészeti feladatokat lát el, valamint végzi a robbantással fenyegetett helyszínek átvizsgálását,
 
 g) a személyszállító vonatok kísérésével kapcsolatos feladatot lát el,
 
-h)[^26]
+h)[^39]
 
 i) ellátja a hatósági eljárás során lefoglalt, a közbiztonságra különösen veszélyes anyagok, valamint különösen nagy, illetve különösen jelentős értékű kábítószer szállítmányok biztosítását,
 
@@ -24,9 +24,10 @@ k) ellátja a belföldi állami futárszolgálat tevékenységét,
 
 l) segítséget nyújt a területi és a helyi szervek közterületi szolgálatának és biztosítási feladatainak ellátásához,
 
-m) biztosítja a rendőri csapattevékenységre és a különleges rendőri feladatokra történő kiképzést és továbbképzést, gyűjti és elemzi e feladatok eredményes elvégzéséhez szükséges információkat,
+m)[^40] biztosítja a rendőri csapattevékenységre történő kiképzést és továbbképzést, gyűjti és elemzi e feladatok eredményes elvégzéséhez szükséges információkat,
 
 n) polgári repüléssel kapcsolatos feladatot lát el.
 
-[^25]: A 9. § f) pontja a 30/2009. (II. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^26]: A 9. § h) pontját a 232/2010. (VIII. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^38]: A 9. § f) pontja a 30/2009. (II. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^39]: A 9. § h) pontját a 232/2010. (VIII. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^40]: A 9. § m) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint módosított szöveg.

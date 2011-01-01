@@ -1,12 +1,12 @@
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^62]
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^90]
 
-## A Rendőrség egyes szerveinek elnevezése és székhelye
+## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^91]
 
-1. A Rendőrség központi szervének székhelye
+1.[^92] Az általános rendőri szerv központi szervének székhelye
 
 1.1. Országos Rendőr-főkapitányság, Budapest
 
-2. Az Rtv. 4. § (3) bekezdése alapján létrehozott rendőri szervek székhelye
+2.[^93] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
 
 2.1. Köztársasági Őrezred, Budapest
 
@@ -15,6 +15,8 @@
 2.3. Készenléti Rendőrség, Budapest
 
 2.4. Repülőtéri Rendőr Igazgatóság, Budapest
+
+2.5.[^94] Bűnügyi Szakértői és Kutatóintézet, Budapest
 
 3. A rendőr-főkapitányságok elnevezése és székhelye
 
@@ -58,4 +60,8 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^62]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^90]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
+[^92]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^93]: Az 1. melléklet 2. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^94]: Az 1. melléklet 2. pont 2.5. alpontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (3) bekezdése iktatta be.
