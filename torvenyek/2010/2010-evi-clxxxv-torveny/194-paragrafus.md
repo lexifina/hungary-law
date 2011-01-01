@@ -1,0 +1,7 @@
+194. § (1) Az önszabályozó szervezet és a Médiatanács által kötött közigazgatási szerződés kötelező tartalmi eleme az önszabályozó szervezet által kialakított – e fejezet szerinti önigazgatási feladatellátást meghatározó – szakmai, magatartási kódex (a továbbiakban: magatartási kódex).
+
+(2) A magatartási kódexet a közigazgatási szerződéskötés folyamatában az önszabályozó szervezet készíti el, és egyeztetés céljából megküldi a Médiatanácsnak. A Médiatanács a magatartási kódexet kizárólag abból a szempontból vizsgálja, hogy az megfelel-e a vonatkozó jogszabályoknak. A közigazgatási szerződés megkötésének érvényességi feltétele, hogy a magatartási kódex tekintetében a Médiatanács és az önszabályozó szervezet megállapodjon.
+
+(3) A magatartási kódex részletesen tartalmazza – a 192. § szerinti felhatalmazás tárgykörében – az önszabályozó szervezet önigazgatási feladatellátásával kapcsolatos eljárási és garanciális rendelkezéseket, a tagok vonatkozó jogait és kötelezettségeit, a tagok és az önszabályozó szervezet – felhatalmazás tárgyát érintő – viszonyát, illetve az önszabályozó szervezet által meghozható döntések típusait, rendszerét és azok jogi hatását.
+
+(4) A (2) bekezdésben meghatározottakon túlmenően a magatartási kódex anyagi része tartalmazza a felhatalmazás tárgyköre által kijelölt tevékenység, szolgáltatás, magatartás végzésére, folytatására vonatkozó szabályokat, feltételeket, illetve követelményeket.

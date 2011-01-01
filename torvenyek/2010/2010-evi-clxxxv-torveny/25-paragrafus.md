@@ -1,0 +1,1 @@
+25. § A kereskedelmi közlemény közzétételének megrendelője, továbbá az, akinek ezek közzétételéhez érdeke fűződik, nem gyakorolhat szerkesztői befolyást – a közzététel időpontja kivételével – a médiaszolgáltatásra.

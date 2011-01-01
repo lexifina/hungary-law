@@ -1,0 +1,11 @@
+178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b)–c) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+
+a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
+
+b) az intézkedés olyan rádiós médiaszolgáltatás, vagy sajtótermék médiatartalom-szolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
+
+c) az intézkedés a védendő érdekhez képest arányos.
+
+(2) Az (1) bekezdésben foglalt határozat meghozatalára irányuló eljárás megindítását megelőzően a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott rádiós médiaszolgáltatást nyújtó médiaszolgáltató, illetve a sajtótermék kiadója tartozik. A Médiatanács az (1) bekezdésben foglalt eljárását csak abban az esetben indíthatja meg, ha a tagállam az intézkedést a Médiatanács kérelmében foglalt ésszerű időn belül nem vagy nem megfelelő módon teszi meg.
+
+(3) Kivételesen sürgős esetben, a hallgatók és olvasók érdekeinek védelme érdekében az (1) bekezdés szerinti esetben a Médiatanács ideiglenes határozatot hozhat. Az ideiglenes határozat azonnal végrehajtható. A Médiatanács az ideiglenes határozatot annak közlésével egyidejűleg megküldi azon tagállamnak, amelynek joghatósága alá az (1) bekezdésben meghatározott rádiós médiaszolgáltatást nyújtó médiaszolgáltató, illetve a sajtótermék kiadója tartozik, egyúttal köteles kérni a tagállam intézkedését. Amennyiben a tagállam az intézkedést a kérelemben foglalt ésszerű időn belül megteszi, a Médiatanács az ideiglenes határozat visszavonásáról, amennyiben nem vagy nem megfelelő módon teszi meg, akkor az ideiglenes határozat fenntartásáról dönt.

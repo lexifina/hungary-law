@@ -1,0 +1,3 @@
+174. § (1) A Médiatanács jogvitás eljárásban jogosult a médiaigazgatásra vonatkozó szabály alapján fennálló szerződéskötési kötelezettség esetén a feleknek a szerződés tartalmára vonatkozó megegyezése hiányában – a 172. § (3) bekezdésben foglaltaknak megfelelő kérelem esetén – a szerződés létrehozására, módosítására, illetve a szerződés tartalmának megállapítására.
+
+(2) Amennyiben az e törvény szerint a műsorterjesztés, valamint a médiaszolgáltatás ellenértékére kiterjedően is indítható jogvitás eljárás, a Médiatanács megtilthatja az ellenérték további alkalmazását, egyidejűleg e törvény keretei között megállapíthatja a jogszerű árat és kötelezheti a médiaszolgáltatót vagy a műsorterjesztőt a jogszerű ár alkalmazására.

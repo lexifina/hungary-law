@@ -1,0 +1,9 @@
+## Médiapiaci ágazati vizsgálat
+
+169. § (1) A Médiatanács, az e törvényben foglalt rendelkezések érvényesülésének értékelése, illetve az e törvény szerinti hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy a médiaszolgáltatások piacán a verseny torzul, vagy korlátozódik – a piaci folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
+
+(2) A Médiatanács ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
+
+(3) A hatósági ellenőrzés megindításáról a Médiatanács hirdetmény útján értesíti a médiaszolgáltatókat, amelynek a Ket. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
+
+(4) Az ágazati vizsgálat során kiszabható eljárási bírság mértéke – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő árbevételének 0,5 százaléka, árbevétel hiányában vagy árbevétel közlésének hiányában legalább ötvenezer forint, legfeljebb ötvenmillió forint. Ezen túlmenően az adatszolgáltatás nem, vagy nem megfelelő teljesítése esetén a Médiatanács ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő médiaszolgáltató vezető tisztségviselőjét is.

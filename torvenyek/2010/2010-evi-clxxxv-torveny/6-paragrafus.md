@@ -1,0 +1,1 @@
+6. § A közszolgálati médiaszolgáltatás a demokratikus társadalmi rend megfelelő működésének elengedhetetlenül szükséges feltétele. A közszolgálati médiaszolgáltatás érdekeit különös súllyal kell figyelembe venni e törvény alkalmazásakor.

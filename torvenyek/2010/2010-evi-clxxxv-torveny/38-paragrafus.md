@@ -1,0 +1,7 @@
+## A jelentős befolyásoló erővel rendelkező médiaszolgáltatók közérdekű kötelezettségei
+
+38. § (1) A jelentős befolyásoló erővel rendelkező (a továbbiakban: JBE) lineáris audiovizuális médiaszolgáltató valamennyi munkanapon reggel 07 óra és 08 óra 30 perc között legalább tizenöt perc hosszúságú hírműsorszámot vagy általános tájékoztató műsorszámot, továbbá valamennyi napon 18 óra és 21 óra között legalább húsz perc hosszúságú önálló hírműsorszámot, a JBE lineáris rádiós médiaszolgáltató pedig valamennyi munkanapon reggel 06 óra 30 perc és 08 óra 30 perc között legalább tizenöt perc önálló hírműsorszámot köteles egybefüggően szolgáltatni. A más médiaszolgáltatótól átvett, illetve a demokratikus közvélemény tájékoztatását nem szolgáló, bűnügyi tematikájú híranyag vagy tudósítás a hírműsorszám időtartamának húsz százalékánál éves átlagban nem lehet hosszabb terjedelmű.
+
+(2) A JBE lineáris médiaszolgáltató az (1) bekezdésben és a 32. § (6) bekezdésben foglalt kötelezettségének köteles a legnagyobb éves átlagos közönségaránnyal bíró médiaszolgáltatásában eleget tenni.
+
+(3) A JBE lineáris médiaszolgáltató a digitális műsorterjesztéssel terjesztett valamennyi médiaszolgáltatása során köteles biztosítani, hogy a 19 óra és 23 óra között közzétett, eredetileg nem magyar nyelven készített filmalkotások és filmsorozatok legalább egynegyede eredeti nyelven, magyar felirattal is elérhető legyen, ideértve a 23 óra előtt elkezdődő, de azt követően véget érő műsorszámokat is.

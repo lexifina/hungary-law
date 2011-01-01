@@ -1,0 +1,11 @@
+177. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lekérhető audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+
+a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
+
+b) az intézkedés olyan lekérhető médiaszolgáltatás médiaszolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
+
+c) az intézkedés a védendő érdekhez képest arányos.
+
+(2) Az (1) bekezdésben foglalt határozat meghozatalára irányuló eljárás megindítását megelőzően a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott lekérhető médiaszolgáltatást nyújtó médiaszolgáltató tartozik. Amennyiben a tagállam az intézkedést a Médiatanács kérelmében foglalt ésszerű időn belül nem vagy nem megfelelő módon teszi meg, úgy a Médiatanács az (1) bekezdésben meghatározott határozat tervezetét megküldi az Európai Bizottságnak, valamint az érintett tagállamnak. Amennyiben az Európai Bizottság a Médiatanácsot a határozattervezet visszavonására kötelezi, a Médiatanács köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
+
+(3) Kivételesen sürgős esetben, a nézői érdekek védelme érdekében az (1) bekezdés szerinti esetben a Médiatanács ideiglenes határozatot hozhat. Az ideiglenes határozat azonnal végrehajtható. A Médiatanács az ideiglenes határozatot annak közlésével egyidejűleg megküldi az Európai Bizottságnak, valamint az érintett tagállamnak. A Médiatanács az ideiglenes határozat fenntartásáról vagy visszavonásáról az Európai Bizottság határozatában foglaltaknak megfelelően köteles dönteni.

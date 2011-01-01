@@ -1,0 +1,3 @@
+214. § (1) Az e törvényben foglaltak érvényesülése érdekében a műsorterjesztők és a közszolgálati médiaszolgáltatók kezdeményezhetik a másik félnél a 2010. december 31. előtt kötött műsorterjesztési szerződések felülvizsgálatát és módosítását. A szerződések módosítására irányuló tárgyalások elől egyik fél sem zárkózhat el.
+
+(2) Amennyiben a felek a szerződés felülvizsgálata és módosítása iránti ajánlat másik féllel való közlésétől számított három hónapon belül nem tudnak megállapodni, akkor a szerződés tartalmának megállapítása érdekében bármelyik fél a Médiatanácshoz fordulhat a jogvitás eljárás szabályai szerint.

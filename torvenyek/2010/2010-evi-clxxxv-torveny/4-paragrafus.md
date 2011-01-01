@@ -1,0 +1,1 @@
+4. § A médiaszolgáltatások sokszínűsége kiemelten fontos érték. A sokszínűség védelme kiterjed a tulajdoni monopólium kialakulásának, valamint a piaci verseny indokolatlan korlátozásának megakadályozására is. E törvényben foglalt rendelkezéseket a sokszínűség védelmének szempontját figyelembe véve kell értelmezni.

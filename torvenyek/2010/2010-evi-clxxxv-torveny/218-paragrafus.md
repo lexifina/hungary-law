@@ -1,0 +1,1 @@
+218. § A Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA) kezelésének, fenntartásának és működtetésének feladatát 2011. március 31. után a Hatóság látja el. Ezen időpontig gondoskodni kell a NAVA átadásáról a Hatóság részére, ideértve a működéshez kapott költségvetési támogatás időarányos részének átadását is.

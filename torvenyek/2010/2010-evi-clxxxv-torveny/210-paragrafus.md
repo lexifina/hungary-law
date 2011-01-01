@@ -1,0 +1,1 @@
+210. § Azon médiaszolgáltatások, amelyekre nézve az Rttv. 8–8/A. §-a kötelezettségeket határoz meg, e törvény hatálybalépése után kötelesek az Rttv. 8. § (3) bekezdésben és a 8/A. §-ban meghatározott kötelezettségeiknek 2012. január 1-ig eleget tenni.

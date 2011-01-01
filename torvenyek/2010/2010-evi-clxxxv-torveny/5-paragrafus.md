@@ -1,0 +1,1 @@
+5. § A Magyar Köztársaság területén élőknek, illetve a magyar nemzet tagjainak tájékozódáshoz és tájékoztatáshoz fűződő joga, illetve ezzel összefüggésben a demokratikus társadalmi nyilvánosság kialakulása és megerősödése kiemelkedő alkotmányos érdek. E törvényben foglaltakat a demokratikus közvélemény érdekének figyelembevételével kell értelmezni.

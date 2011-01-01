@@ -1,0 +1,5 @@
+170. § (1) Amennyiben a hatósági ellenőrzés eredményeként a Médiatanács megállapítja, hogy a vizsgált piaci folyamatok következtében a médiaszolgáltatások piacán a verseny torzulhat, vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezi a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
+
+(2) A Gazdasági Versenyhivatal a Médiatanács (1) bekezdés szerinti kezdeményezése alapján a versenyfelügyeleti eljárás megindítását mellőzi, amennyiben azonos vizsgálati tárgyban, azonos időszakra nézve ágazati vizsgálati eljárása van folyamatban, vagy, ha azonos vizsgálati tárgyban, azonos időszakra nézve már korábban ágazati vizsgálatot folytatott le. Erről a tényről a Gazdasági Versenyhivatal a Médiatanácsot tájékoztatja.
+
+(3) Amennyiben a versenyfelügyeleti eljárás kezdeményezése nem indokolt, vagy hatáskör hiányában nem lehetséges, illetve az azonosított piaci probléma a Médiatanács vagy a Hivatal saját hatáskörében sem orvosolható, tájékoztatja a jogalkotásra jogosult szervet.

@@ -1,0 +1,1 @@
+215. § A Magyar Rádió Nonprofit Zrt. művészeti együtteseinek fenntartásáról és fejlesztéséről a művészeti színvonal megőrzése érdekében e törvény hatálybalépését követően az Alap gondoskodik. A kultúráért felelős miniszter és az Alap szerződésben megállapodhatnak a művészeti együttesek fenntartójának megváltozásáról.

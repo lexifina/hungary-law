@@ -1,0 +1,47 @@
+## IV. Fejezet
+
+## KÖZÖSSÉGI MÉDIASZOLGÁLTATÁS
+
+66. § (1) A lineáris közösségi médiaszolgáltatás
+
+a) egy meghatározott társadalmi, nemzeti és etnikai kisebbség, kulturális vagy vallási közösség, csoport, vagy
+
+b) egy adott településen, régióban vagy vételkörzetben élők tájékoztatásra, kulturális műsorszámok elérésére irányuló különleges igényeit szolgálja ki, vagy
+
+c) műsoridejének túlnyomó részében a közszolgálati médiaszolgáltatás 83. §-ban meghatározott céljait szolgáló műsorszámok kerülnek közzétételre.
+
+(2) A lineáris közösségi médiaszolgáltatást nyújtó médiaszolgáltató médiaszolgáltatási szabályzatában meghatározza
+
+a) tevékenységének célját,
+
+b) azon kulturális területeket, témákat, amelyek bemutatását vállalta,
+
+c) a közszolgálati médiaszolgáltatás azon céljait, amelyek szolgálatát vállalta,
+
+d) az általa szolgálni kívánt közösséget vagy közösségeket (társadalmi csoportot vagy meghatározott földrajzi területen élőket),
+
+e) amennyiben az (1) bekezdés a)–b) pontnak megfelelően egy meghatározott közösség igényeit szolgálja ki, úgy e közösséget, valamint a kifejezetten e közösségnek szóló műsorszámok minimális, százalékos arányát a műsoridő egészéhez viszonyítottan.
+
+(3) A médiaszolgáltató a közösségi médiaszolgáltatásra vonatkozó törvényi rendelkezéseknek való megfelelésről és médiaszolgáltatási szabályzat betartásáról évente beszámol a Médiatanácsnak.
+
+(4) A lineáris közösségi médiaszolgáltatás:
+
+a) rendszeresen tájékoztat egy adott társadalmi vagy helyi közösség híreiről, illetve egyéb hírszolgáltatást is végez,
+
+b) kulturális műsorszámokat tesz közzé,
+
+c) törekszik a hallási fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
+
+d) audiovizuális médiaszolgáltatás esetén a magyar, illetve európai műsorkvótákra vonatkozó, 20. § szerinti előírások szerint működik, ide nem értve a független műsorkészítőkre vonatkozó műsorkvótákat,
+
+e) legalább naponta négyórányi műsoridővel rendelkezik, beleértve a képújság időtartamát is,
+
+f) legalább hetente négyórányi műsoridőben az adott naptári évben általa készített, szerkesztett és első ízben bemutatott (nem ismételt)műsorszámot tesz közzé,
+
+g) műsoridejének több mint kétharmadában köteles a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámokat szolgáltatni, amibe beleszámít a szolgált közösségnek szóló hírműsorszám, politikai tájékoztató műsorszám, kulturális műsorszám és az egyéb, nem elsősorban az adott közösségnek szóló hasonló tartalom is,
+
+h) rádiós médiaszolgáltatás esetében a zenei műsorszámok bemutatására szánt műsoridejének legalább ötven százalékát magyar zenei műsorszámok bemutatására fordítja.
+
+(5) A helyi vagy körzeti médiaszolgáltatás közösségi médiaszolgáltatásként való elismerése a Médiatanács médiaszolgáltatási pályázati nyertességről szóló döntésében vagy a Médiatanácsnál külön e célból kezdeményezett eljárásban, a Médiatanács határozata alapján történik meg. Ezen eljárás a médiaszolgáltatásnak a 42. § szerinti nyilvántartásba vételét követően a médiaszolgáltató által kezdeményezhető. A Médiatanács eljárása során megvizsgálja a már működő, vagy indítani kívánt médiaszolgáltatást és annak médiaszolgáltatási szabályzatában foglaltakat az (1)–(4) bekezdés szerinti kritériumoknak való megfelelés céljából, majd hatvan napon belül hatósági határozatot hoz. Országos médiaszolgáltatást nem lehet közösségi médiaszolgáltatásként elismerni.
+
+(6) Az (5) bekezdés alapján történő elismerést követően a Médiatanács legalább kétévente – új szolgáltatás esetében az első év után is – részletes, legalább hét műsornapra kiterjedő – vizsgálat során eljárásában hivatalból vizsgálja a médiaszolgáltató működését, amelynek érdekében az az általa közzétett műsorszámokkal, illetve a médiaszolgáltatás tartalmával kapcsolatban részletes adatszolgáltatásra köteles. Amennyiben a Médiatanács megállapítása szerint a vizsgált médiaszolgáltatás nem felel meg a lineáris közösségi médiaszolgáltatás feltételeinek, úgy határozatával visszavonja a közösségi médiaszolgáltatásként való elismerést.
