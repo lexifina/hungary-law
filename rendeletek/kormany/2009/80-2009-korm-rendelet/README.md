@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-80-20-2
 | --- | --- | --- |
 | 2009-04-09 | 2009-80-20-22.1 | 80/2009. (IV. 8.) Korm. rendelet |
 | 2010-09-01 | 2009-80-20-22.2 | 234/2010. (VIII. 31.) Korm. rendelet |
+| 2011-01-01 | 2009-80-20-22.3 | 234/2010. (VIII. 31.) Korm. rendelet |
