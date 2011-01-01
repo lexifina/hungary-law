@@ -1,3 +1,0 @@
-29. § (1) A Felügyelet eljárása során – ellenérdekű ügyfél hiányában – eltekinthet a magyar nyelv kötelező használatától és az iratok magyar nyelven történő benyújtásától. A Felügyelet ebben az esetben előírhatja az iratokról magyar nyelvű összefoglaló elkészítése kötelezettségét.
-
-(2) Az (1) bekezdésben foglaltak alkalmazását követően az eljárás más résztvevői – az ügyfél képviselője kivételével – és más hatóság részére a Felügyelet a rendelkezésére álló iratokat az eljárás nyelvén és – ellentétes nyilatkozatuk hiányában – magyar nyelvű fordításban adja át. A fordítás költségeit a Felügyelet viseli.

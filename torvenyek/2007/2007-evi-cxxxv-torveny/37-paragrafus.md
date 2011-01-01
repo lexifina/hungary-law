@@ -1,3 +1,0 @@
-## Engedélyezési eljárás
-
-37. §

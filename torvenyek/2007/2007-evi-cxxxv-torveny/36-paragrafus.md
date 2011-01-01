@@ -1,1 +1,0 @@
-36. § A Felügyelettel szemben – hatósági jogkörben hozott döntése miatt – kártérítési igény akkor érvényesíthető, ha a Felügyelet határozata vagy mulasztása jogszabálysértő és a bekövetkezett kárt közvetlenül ez idézte elő.

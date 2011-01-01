@@ -1,3 +1,0 @@
-46. § (1) A Felügyelet eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésben megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van. A Felügyelet e végzését soron kívül hozza meg.
-
-(2) Az (1) bekezdésben meghatározott végzést a Felügyelet az ügyféllel hirdetményi úton is közölheti. Ha a hirdetményi úton való közlés a Felügyelet honlapján történik, a végzést a Felügyelet időbélyegzővel látja el.
