@@ -1,4 +1,4 @@
-1. § (1)[^1] E rendelet hatálya – a katonai építésügyi hatóság és eljárásai kivételével –
+1. § (1)[^2] E rendelet hatálya – a katonai építésügyi hatóság és eljárásai kivételével –
 
 a) az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásban történő átvezetéséhez, vagy tény, állapot, egyéb adat helyszíni szemle alapján történő igazolásához az építésügyi hatóság hatáskörébe tartozó hatósági bizonyítvány kiadására,
 
@@ -16,7 +16,7 @@ a) az építésügyi hatóságnak az ingatlan-nyilvántartásban történő átv
 
 b) az építésügyi hatóságnak az összevont eljárás esetében az összevonandó eljárásokért (elvi engedélyezési és építési engedélyezési eljárás) a külön jogszabály szerinti külön-külön fizetendő igazgatási szolgáltatási díj vagy illeték mellett 10 000 forint,
 
-c)[^2] az integrált eljárásért
+c)[^3] az integrált eljárásért
 
 ca) a társhatóságoknak, szakhatóságoknak az eljárásaikért külön jogszabályban megállapított igazgatási szolgáltatási díjon vagy illetéken kívül az eljárásba bevont társhatóságonként további 20 000 forint,
 
@@ -28,7 +28,7 @@ igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
 
 a) a) és b) pontja szerinti emelt díjtételt az építésügyi hatóság,
 
-b)[^3] c) pontja szerinti, az integrált eljárásba bevont hatóságoknak (társhatóságoknak), szakhatóságoknak a külön jogszabályban megállapított igazgatási szolgáltatási díjat vagy illetéket az érintett eljárásaikért külön jogszabályban előírtak szerint, az integrált eljárásért hatóságonként (társhatóságonként) megállapított 20 000 forint, illetve közreműködő hatóság esetében az 50 000 forint összegű díjakat egy összegben a közreműködő hatóság
+b)[^4] c) pontja szerinti, az integrált eljárásba bevont hatóságoknak (társhatóságoknak), szakhatóságoknak a külön jogszabályban megállapított igazgatási szolgáltatási díjat vagy illetéket az érintett eljárásaikért külön jogszabályban előírtak szerint, az integrált eljárásért hatóságonként (társhatóságonként) megállapított 20 000 forint, illetve közreműködő hatóság esetében az 50 000 forint összegű díjakat egy összegben a közreműködő hatóság
 
 számlájára kell befizetni.
 
@@ -50,9 +50,9 @@ b) készpénz-átutalási megbízáson (csekken) történő befizetés esetén a
 
 (7) Elektronikus ügyintézés esetén a díjat az elektronikus ügyintézés részletes szabályairól szóló jogszabályban meghatározott módon és határidőn belül kell megfizetni.
 
-(8)[^4] A közreműködő hatóság köteles az integrált eljárásba bevont hatóságok (társhatóságok) és szakhatóságok számára a (2) bekezdés c) pontja szerinti díjhányadokat a beérkezést követő tíz munkanapon belül átutalni. A díjak átutalásáról, az esetleges hiányról vagy többletről – utóbbi visszautalása mellett – az eljáró elsőfokú hatóság köteles az ügyfelet öt munkanapon belül értesíteni, az érintett hatóság (társhatóság), szakhatóság egyidejű értesítésével.
+(8)[^5] A közreműködő hatóság köteles az integrált eljárásba bevont hatóságok (társhatóságok) és szakhatóságok számára a (2) bekezdés c) pontja szerinti díjhányadokat a beérkezést követő tizenöt napon belül átutalni. A díjak átutalásáról, az esetleges hiányról vagy többletről – utóbbi visszautalása mellett – az eljáró elsőfokú hatóság köteles az ügyfelet nyolc napon belül értesíteni, az érintett hatóság (társhatóság), szakhatóság egyidejű értesítésével.
 
-[^1]: Az 1. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdésének c) pontja az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
-[^3]: Az 1. § (3) bekezdésének b) pontja az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
-[^4]: Az 1. § (8) bekezdése az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^2]: Az 1. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdésének c) pontja az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^4]: Az 1. § (3) bekezdésének b) pontja az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^5]: Az 1. § (8) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (124) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
