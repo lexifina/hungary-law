@@ -4,6 +4,6 @@
 
 (3) E rendelet rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(4)–(6)[^1]
+(4)–(6)[^2]
 
-[^1]: A 9. § (4)–(6) bekezdése a 9. § (6) bekezdése alapján hatályát vesztette.
+[^2]: A 9. § (4)–(6) bekezdése a 9. § (6) bekezdése alapján hatályát vesztette.

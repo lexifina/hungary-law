@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-345-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-02-14 | 2008-345-20-22.2 | 345/2008. (XII. 30.) Korm. rendelet |
+| 2011-01-01 | 2008-345-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
