@@ -1,3 +1,0 @@
-27. § (1) A hagyaték biztosításával felmerült költségeket a közjegyző állapítja meg. A költségeket az köteles előlegezni és viselni, aki a biztosítási intézkedést kérte. Ha a leltárelőadó, illetőleg a közjegyző hivatalból rendelte el a biztosítási intézkedést, a költségeket az érdekeltek kötelesek előlegezni, és azok az örökösöket egyetemlegesen terhelik.
-
-(2) A hagyaték biztosítását elrendelő végzés ellen használt fellebbezésnek a biztosítás foganatosítására nincs halasztó hatálya, indokolt esetben azonban a biztosítás foganatosítását a fellebbezés elintézéséig a fellebbezési bíróság és a közjegyző is felfüggesztheti.
