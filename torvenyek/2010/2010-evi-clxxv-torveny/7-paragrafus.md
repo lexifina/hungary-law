@@ -15,11 +15,3 @@ a) a közalkalmazottat a kinevezése szerinti szakmai munkakörében kell továb
 b) a pályázat megnyerése esetén a közalkalmazott számára a 23. § alapján új vezetői megbízást kell adni.
 
 (4) Az (1) bekezdés b)–c) pontja szerinti vezető, illetve magasabb vezető beosztású közalkalmazott havi illetményének, illetménypótlékainak összege – a 2011. január 1-jével átalakult vezetői megbízás fennállásáig – nem lehet kevesebb az e törvény hatálybalépését megelőző hónap tekintetében őt megillető havi illetmény, illetménypótlék összegénél.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
