@@ -2,7 +2,7 @@
 
 ## JOGORVOSLAT
 
-92. § (1) Akinek az e törvény IV., V. és VI. fejezetében meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette – választása szerint – panasszal fordulhat az intézkedést foganatosító rendőri szervhez, vagy kérheti, hogy panaszát az országos rendőrfőkapitány a Testület által lefolytatott vizsgálatot követően bírálja el.
+92. § (1) Akinek az e törvény IV., V. és VI. fejezetében meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette – választása szerint – panasszal fordulhat az intézkedést foganatosító rendőri szervhez, vagy kérheti, hogy panaszát az országos rendőrfőkapitány, valamint a főigazgatók a Testület által lefolytatott vizsgálatot követően bírálja el.
 
 (2) Akinek az intézkedés jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedést foganatosító rendőri szervhez.
 

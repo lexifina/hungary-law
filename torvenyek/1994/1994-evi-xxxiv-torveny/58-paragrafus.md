@@ -22,4 +22,4 @@ i) nagy területű helyszín biztosítására;
 
 j) törvényben meghatározott más esetben.
 
-(2) Csapaterő alkalmazása során a Rendőrség a 17. § (1) bekezdésben írt jogokat indokolt mértékben korlátozhatja, területet személy- és járműforgalom elől elzárhat.
+(2) Csapaterő alkalmazása során a rendőrség a 17. § (1) bekezdésben írt jogokat indokolt mértékben korlátozhatja, területet személy- és járműforgalom elől elzárhat.

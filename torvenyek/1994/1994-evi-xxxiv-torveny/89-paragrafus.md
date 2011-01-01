@@ -1,1 +1,1 @@
-89. § A Rendőrség ügyviteli célból az eljárásban részt vevők személyazonosító- és lakcímadatait, továbbá az ügy azonosító adatait az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.
+89. § A rendőrség ügyviteli célból az eljárásban részt vevők személyazonosító- és lakcímadatait, továbbá az ügy azonosító adatait az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.

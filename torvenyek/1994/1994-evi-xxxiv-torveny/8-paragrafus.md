@@ -12,7 +12,7 @@
 
 (5) Ha a beszámolót a települési önkormányzatok többsége, illetőleg a megyei (fővárosi) önkormányzat nem fogadja el, három hónapon belül újabb beszámolót kell tartani. Ismételt elutasítás esetén a települési önkormányzatok többsége a megyei (fővárosi) rendőrfőkapitányhoz, a megyei (fővárosi) önkormányzat közgyűlése az országos rendőrfőkapitányhoz fordulhat. A megyei (fővárosi) rendőrfőkapitány, illetőleg az országos rendőrfőkapitány köteles az önkormányzatok által meghatározott kérdésekre is kiterjedő átfogó vizsgálatot tartani, ennek keretében a rendőri vezető felelősségét, illetőleg alkalmasságát megvizsgálni. A vizsgálat eredményéről az önkormányzatokat tájékoztatni kell. A megyei (fővárosi) rendőrfőkapitány, az országos rendőrfőkapitány köteles a közbiztonsági feladatok ellátása érdekében a vizsgálat szerint szükséges szolgálatszervezési, szervezeti, személyi és belső irányítási intézkedéseket megtenni.
 
-(6) A Rendőrség a (4) bekezdésben foglaltakon kívül is tájékoztatja az önkormányzatot, ha a lakosság széles körét érintő rendőri intézkedést tervez végrehajtani, feltéve, hogy ezzel nem veszélyezteti az intézkedés eredményességét.
+(6) Az általános rendőrségi feladatok ellátására létrehozott szerv a (4) bekezdésben foglaltakon kívül is tájékoztatja az önkormányzatot, ha a lakosság széles körét érintő rendőri intézkedést tervez végrehajtani, feltéve, hogy ezzel nem veszélyezteti az intézkedés eredményességét.
 
 (7) A (4) bekezdésben foglaltakon kívül a határrend és határőrizet helyzetéről, valamint a határforgalom alakulásáról
 
@@ -20,7 +20,7 @@ a) a határterülettel érintett területi önkormányzatok és megyei jogú vá
 
 b) az illetékességi területén lévő települési önkormányzat képviselő-testületét a rendőrkapitány, a határrendészeti kirendeltség vezetője vagy kijelölt helyettese felkérésre tájékoztatja.
 
-(8) A rendőrfőkapitány a közigazgatási hivatal vezetőjét, a területi önkormányzat közgyűlésének elnökét (főpolgármestert), a területi katasztrófavédelmi szerv vezetőjét, a Nemzetbiztonsági Hivatal területi szervének vezetőjét; a rendőrkapitány vagy a határrendészeti kirendeltség vezetője a települési önkormányzat polgármesterét tájékoztatja
+(8) A rendőrfőkapitány a Kormány általános hatáskörű területi államigazgatási szerve vezetőjét, a területi önkormányzat közgyűlésének elnökét (főpolgármestert), a területi katasztrófavédelmi szerv vezetőjét, az Alkotmányvédelmi Hivatal területi szervének vezetőjét; a rendőrkapitány vagy a határrendészeti kirendeltség vezetője a települési önkormányzat polgármesterét tájékoztatja
 
 a) a lakosságot a szomszédos állam területéről fenyegető veszélyről;
 
@@ -42,6 +42,6 @@ c) a (8) bekezdés b) pontjában foglaltakról a menekültügyi hatóságot;
 
 d) a (8) bekezdés e) pontjában foglaltakról a környezetvédelmi hatóságot, a természetvédelmi hatóságot és a vízügyi hatóságot.
 
-(10) A (4), (8) és (9) bekezdésben említett szervek vezetői a Rendőrség illetékes szervei részére tájékoztatást adnak a feladatkörükben tudomásukra jutott – a Rendőrség tevékenységét érintő – tényekről és körülményekről.
+(10) A (4), (8) és (9) bekezdésben említett szervek vezetői a rendőrség illetékes szervei részére tájékoztatást adnak a feladatkörükben tudomásukra jutott – a rendőrség tevékenységét érintő – tényekről és körülményekről.
 
-(11) Ha az önkormányzat képviselő-testülete a külön törvény szerinti felterjesztési jogával élve a Rendőrség – külön jogszabály rendelkezése alapján meg nem támadható – döntésével, intézkedésével vagy annak elmulasztásával kapcsolatban indokolást tartalmazó észrevételt tesz, azt az illetékes rendőri szerv tizenöt napon belül megvizsgálja, és a vizsgálat eredményéről tájékoztatja az önkormányzatot. Ha az illetékes rendőri szerv az észrevétellel nem ért egyet, a vizsgálat lezárását követően azt haladéktalanul megküldi a felettes rendőri szervnek. A felettes rendőri szerv vezetője az észrevételt megvizsgálja, és a vizsgálat eredményéről – tizenöt napon belül – az önkormányzatot tájékoztatja.
+(11) Ha az önkormányzat képviselő-testülete a külön törvény szerinti felterjesztési jogával élve a rendőrség – külön jogszabály rendelkezése alapján meg nem támadható – döntésével, intézkedésével vagy annak elmulasztásával kapcsolatban indokolást tartalmazó észrevételt tesz, azt az illetékes rendőri szerv tizenöt napon belül megvizsgálja, és a vizsgálat eredményéről tájékoztatja az önkormányzatot. Ha az illetékes rendőri szerv az észrevétellel nem ért egyet, a vizsgálat lezárását követően azt haladéktalanul megküldi a felettes rendőri szervnek. A felettes rendőri szerv vezetője az észrevételt megvizsgálja, és a vizsgálat eredményéről – tizenöt napon belül – az önkormányzatot tájékoztatja.

@@ -6,7 +6,7 @@ b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, esz
 
 c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, továbbá hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig;
 
-d) a Rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig;
+d) a rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig;
 
 e) súlyos bűncselekmény esetén vagy ha a bűncselekmény
 

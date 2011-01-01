@@ -1,11 +1,13 @@
-78. § (1) Az e törvényben meghatározott központi rendőrségi adatállományokat a Rendőrségnek az országos rendőrfőkapitány által kijelölt szervezeti egysége (rendőrségi adatkezelő szerv) kezeli és dolgozza fel.
+78. § (1) Az e törvényben meghatározott központi rendőrségi adatállományokat
 
-(2) A
+a) az általános rendőrségi feladatok ellátására létrehozott szervnél az országos rendőrfőkapitány,
 
-a) megyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány,
+b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél a főigazgató, valamint
 
-b) rendőrkapitányság, illetve a határrendészeti kirendeltség adatait a rendőrkapitány, illetve a határrendészeti kirendeltség vezetője
+c) a terrorizmust elhárító szervnél a főigazgató
 
 által kijelölt szervezeti egység kezeli és dolgozza fel.
 
-(3) A Rendőrség szervei a hatáskörükbe és illetékességükbe tartozó bűnüldözési, rendészeti, határrendészeti és közigazgatási ügyekben adatkezelést végeznek.
+(2) A kirendeltség adatait a kirendeltség vezetője, a megyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány, a rendőrkapitányság, határrendészeti kirendeltség adatait a rendőrkapitány, valamint a határrendészeti kirendeltség vezetője által kijelölt szervezeti egység kezeli és dolgozza fel.
+
+(3) A rendőrség szervei a hatáskörükbe és illetékességükbe tartozó bűnfelderítési, bűnüldözési, rendészeti, határrendészeti és közigazgatási ügyekben adatkezelést végeznek.

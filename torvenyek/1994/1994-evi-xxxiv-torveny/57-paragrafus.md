@@ -2,7 +2,7 @@
 
 57. § (1) Lőfegyverhasználatnak tömegben, csoportosulásban lévő személlyel szemben nincs helye, kivéve, ha az egyes személy elleni fegyverhasználat feltételei (54. §) fennállnak. A lőfegyverhasználatnak az egyes személy ellen kell irányulnia.
 
-(2) Nem állapítható meg a lőfegyverhasználat jogellenessége, ha a szabályos lőfegyverhasználat során olyan személyt ér találat, aki a helyszínt a Rendőrség felszólítása ellenére nem hagyta el.
+(2) Nem állapítható meg a lőfegyverhasználat jogellenessége, ha a szabályos lőfegyverhasználat során olyan személyt ér találat, aki a helyszínt a rendőrség felszólítása ellenére nem hagyta el.
 
 (3) A tömegben, csoportosulásban lévő személlyel szemben történő lőfegyverhasználatot a következő sorrendben meg kell előznie
 

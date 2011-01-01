@@ -6,4 +6,4 @@
 
 (3) Ha a rendszeresített kényszerítő eszköz nem áll rendelkezésre, vagy a használatára nincs lehetőség, a rendőr a bilincs, a rendőrbot vagy az útzár helyett más eszközt is igénybe vehet, ha a helyettesített eszköz alkalmazásának törvényi feltételei fennállnak és az, az azzal elérni kívánt törvényes cél megvalósítására alkalmas.
 
-(4) A Rendőrségnél rendszeresített robbanófegyverek a lőfegyverrel esnek egy tekintet alá.
+(4) A rendőrségnél rendszeresített robbanófegyverek a lőfegyverrel esnek egy tekintet alá.

@@ -1,1 +1,1 @@
-75. § A Rendvédelmi Szervek Védelmi Szolgálata feladatkörében az e fejezetben szabályozott titkos információgyűjtést a Rendőrségre vonatkozó szabályok szerint végezheti. Az engedély iránti kérelem (70. §), a sürgősségi elrendelés (72. §), valamint a megszüntetés elrendelése [73. § (1) bekezdés] az ellenőrző szerv vezetőjének hatáskörébe tartozik. A feladatkörében eljárva az adatok kezelésére a VIII. fejezetben foglaltak az irányadók.
+75. §

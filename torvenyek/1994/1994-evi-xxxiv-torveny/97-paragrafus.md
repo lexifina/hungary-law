@@ -12,7 +12,7 @@ d) csoportosulás: 3—10 főből álló, egységes akaratelhatározással fell�
 
 e) tömeg: 10 főt meghaladó csoportosulás;
 
-f)
+f) automatizált keresés: másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely során a válasz is teljesen automatizált módon érkezik.
 
 g)
 
@@ -22,15 +22,15 @@ i) súlyos bűncselekmény: az a bűntett, amelyet a törvény 5 évi, vagy enn�
 
 j) határterület: a határvonaltól számított az a területsáv, amelyet a Kormány rendeletében meghatározott települések közigazgatási területe alkot, továbbá a nemzetközi forgalom számára megnyitott repülőtér, vasútállomás és kikötő (kikötőhely) külön-külön meghatározott területe;
 
-k) határellenőrzés: a Rendőrségnek a Közösségi Kódex 2. cikk 9. pontjában meghatározott tevékenysége;
+k) határellenőrzés: a rendőrségnek a Közösségi Kódex 2. cikk 9. pontjában meghatározott tevékenysége;
 
-l) határforgalom-ellenőrzés: a Rendőrségnek a Közösségi Kódex 2. cikk 10. pontjában meghatározott tevékenysége;
+l) határforgalom-ellenőrzés: a rendőrségnek a Közösségi Kódex 2. cikk 10. pontjában meghatározott tevékenysége;
 
-m) határőrizet: a Rendőrségnek a Közösségi Kódex 2. cikk 11. pontjában meghatározott tevékenysége;
+m) határőrizet: a rendőrségnek a Közösségi Kódex 2. cikk 11. pontjában meghatározott tevékenysége;
 
 n) tömeges méretű migráció: a szomszéd állam területéről személyek tömeges menekülése, amely közvetlenül veszélyezteti az államhatár rendjét, és rendkívüli intézkedés bevezetését teszi szükségessé;
 
-o) tranzitterület: egyes nemzetközi határátkelőhelyen az üzemeltető által – a Rendőrség, valamint a vámhatóság egyetértésével – kijelölt terület, amely a személyek várakozására szolgál;
+o) tranzitterület: egyes nemzetközi határátkelőhelyen az üzemeltető által – a rendőrség, valamint a vámhatóság egyetértésével – kijelölt terület, amely a személyek várakozására szolgál;
 
 p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult.
 

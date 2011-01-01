@@ -1,6 +1,6 @@
 ## Tömegoszlatás
 
-59. § (1) Ha a jogellenesen összegyűlt, illetőleg jogellenes magatartást tanúsító tömeg a szétoszlásra irányuló rendőri felszólításnak nem tesz eleget, a Rendőrség az e fejezetben szabályozott kényszerítő eszközök alkalmazása mellett a tömeggel szemben a következő eszközt, illetőleg intézkedést alkalmazhatja:
+59. § (1) Ha a jogellenesen összegyűlt, illetőleg jogellenes magatartást tanúsító tömeg a szétoszlásra irányuló rendőri felszólításnak nem tesz eleget, a rendőrség az e fejezetben szabályozott kényszerítő eszközök alkalmazása mellett a tömeggel szemben a következő eszközt, illetőleg intézkedést alkalmazhatja:
 
 a) vízágyút,
 

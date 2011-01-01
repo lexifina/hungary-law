@@ -10,7 +10,7 @@ c) közveszély, továbbá az életet vagy testi épséget fenyegető közvetlen
 
 d) rendkívüli vagy tisztázatlan okból bekövetkezett halálesettel kapcsolatos intézkedés megtételére;
 
-e) végrehajtási eljárás lefolytatása céljából, ha az abban való közreműködés — jogszabály alapján — a Rendőrség számára kötelező;
+e) végrehajtási eljárás lefolytatása céljából, ha az abban való közreműködés — jogszabály alapján — a rendőrség számára kötelező;
 
 f) az elővezetés végrehajtása érdekében;
 
@@ -24,6 +24,6 @@ j) ha az előállítás a törvényben meghatározott egyéb okból szükséges.
 
 (2) A végrehajtási eljárásban a rendőr kirendelésének törvényességéért a végrehajtást elrendelő szerv vezetője a felelős.
 
-(3) A birtokos távollétében történt behatolást követően — a végrehajtási eljárásban való közreműködés kivételével — a Rendőrség köteles a birtokost tájékoztatni, és a vagyonvédelem érdekében szükséges intézkedést megtenni.
+(3) A birtokos távollétében történt behatolást követően — a végrehajtási eljárásban való közreműködés kivételével — a rendőrség köteles a birtokost tájékoztatni, és a vagyonvédelem érdekében szükséges intézkedést megtenni.
 
 (4) A magánlakásban való tartózkodás csak a feladat végrehajtásához szükséges ideig tarthat.

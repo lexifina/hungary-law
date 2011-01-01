@@ -1,4 +1,4 @@
-83. § A Rendőrség az e törvény alapján kezelhető személyes adatokat az alábbi forrásból gyűjti:
+83. § A rendőrség az e törvény alapján kezelhető személyes adatokat az alábbi forrásból gyűjti:
 
 a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 

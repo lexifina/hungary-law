@@ -4,4 +4,4 @@
 
 (2) A rendőr köteles a törvény rendelkezésének megfelelően, részrehajlás nélkül intézkedni.
 
-(3) Ha a rendőrt az intézkedés megtételében tárgy akadályozza, azt eltávolíthatja, vagy az akadályt más módon elháríthatja, az ezzel okozott kárért a Rendőrségnek az intézkedés alapjául szolgáló cselekményben vétlen károsultat kártalanítania kell.
+(3) Ha a rendőrt az intézkedés megtételében tárgy akadályozza, azt eltávolíthatja, vagy az akadályt más módon elháríthatja, az ezzel okozott kárért a rendőrségnek az intézkedés alapjául szolgáló cselekményben vétlen károsultat kártalanítania kell.

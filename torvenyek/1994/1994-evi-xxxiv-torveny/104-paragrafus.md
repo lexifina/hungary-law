@@ -2,7 +2,7 @@
 
 104. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlament és tanácsi rendelet 16. cikke,
+a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlament és tanácsi rendelet 7. és 16. cikke,
 
 b) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 12. cikk (4) bekezdése,
 
@@ -30,4 +30,10 @@ m) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, 
 
 n) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],
 
-o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelet 1. cikk 1. pontja [35/B. §].
+o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelet 1. cikk 1. pontja [35/B. §],
+
+p) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
+
+q) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. és 17–23. cikkei, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat 17. cikke,
+
+r) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról.

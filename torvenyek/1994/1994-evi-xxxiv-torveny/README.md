@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2010-07-06 | 2010. évi LVIII. törvény | 1994-34-00-00.41 |
 | 2010-08-19 | 232/2010. (VIII. 19.) Korm. rendelet | 1994-34-00-00.42 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1994-34-00-00.43 |
+| 2011-01-01 | 2010. évi CXLVII. törvény | 1994-34-00-00.44 |

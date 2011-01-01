@@ -12,6 +12,6 @@ d) a Schengeni Információs Rendszer
 
 (2) A technikai másolat az üzemzavar elhárításáig, legfeljebb hat óra időtartamig tárolható, ezt követően az adatot haladéktalanul meg kell semmisíteni.
 
-(3) A technikai másolat készítésének tényét a másolatot biztosító szervnél, illetve a Rendőrségnél is dokumentálni kell.
+(3) A technikai másolat készítésének tényét a másolatot biztosító szervnél, illetve a rendőrségnél is dokumentálni kell.
 
-(4) A Rendőrség a technikai másolat naplóadatait az üzemzavar elhárítását követő négy órán belül köteles a központi nyilvántartást vezető szervnek átadni.
+(4) A rendőrség a technikai másolat naplóadatait az üzemzavar elhárítását követő négy órán belül köteles a központi nyilvántartást vezető szervnek átadni.

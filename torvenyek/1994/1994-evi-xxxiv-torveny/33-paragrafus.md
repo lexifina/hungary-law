@@ -24,13 +24,13 @@ c) akitől bűncselekmény gyanúja vagy szabálysértés bizonyítása érdeké
 
 d) aki a szülői felügyelet vagy a gyámság, illetőleg az intézeti nevelés hatálya alól engedély nélkül kivonja magát;
 
-e) aki a pártfogó felügyelet — külön törvényben meghatározott és a Rendőrség hatáskörébe tartozó — szabályait megszegi;
+e) aki a pártfogó felügyelet — külön törvényben meghatározott és a rendőrség hatáskörébe tartozó — szabályait megszegi;
 
 f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
 
 g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye.
 
-(3) A Rendőrség az előállítással a személyi szabadságot csak a szükséges ideig, de legfeljebb 8 órán át korlátozhatja. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a rendőri szerv vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát a rendőri intézkedés kezdetétől kell számítani.
+(3) A rendőrség az előállítással a személyi szabadságot csak a szükséges ideig, de legfeljebb 8 órán át korlátozhatja. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a rendőri szerv vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát a rendőri intézkedés kezdetétől kell számítani.
 
 (4) Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani.
 

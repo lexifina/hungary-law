@@ -1,8 +1,8 @@
-## A Rendőrség segítségnyújtási kötelezettsége
+## A rendőrség segítségnyújtási kötelezettsége
 
 24. § (1) A rendőr köteles a feladatkörébe tartozó segítséget, illetőleg a hozzáfordulónak a tőle elvárható felvilágosítást megadni.
 
-(2) A magánérdekek védelme e törvény alapján csak akkor tartozik a Rendőrség hatáskörébe, ha a törvényes védelem az adott körülmények között más módon nem biztosítható, vagy ha a rendőri segítség nélkül a jog érvényesíthetősége meghiúsulna vagy számottevően megnehezülne.
+(2) A magánérdekek védelme e törvény alapján csak akkor tartozik a rendőrség hatáskörébe, ha a törvényes védelem az adott körülmények között más módon nem biztosítható, vagy ha a rendőri segítség nélkül a jog érvényesíthetősége meghiúsulna vagy számottevően megnehezülne.
 
 (3) A segítségnyújtás csak halaszthatatlan szolgálati érdekből tagadható meg, közvetlen életveszély esetén csak akkor, ha a segítségnyújtás miatt több ember élete kerülne közvetlen veszélybe.
 

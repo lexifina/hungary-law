@@ -1,8 +1,8 @@
 ## A rendőrségi adatkezelés és adatfeldolgozás általános szabályai
 
-77. § (1) A Rendőrség feladatai ellátása során
+77. § (1) A rendőrség feladatai ellátása során
 
-a) bűnmegelőzési, bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
+a) bűnmegelőzési, felderítési, bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
 
 b) rendészeti és határrendészeti feladatainak ellátásához szükséges személyes adatokat,
 

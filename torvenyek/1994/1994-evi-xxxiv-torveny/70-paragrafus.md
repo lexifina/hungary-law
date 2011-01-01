@@ -1,4 +1,4 @@
-70. § (1) A különleges eszköz alkalmazása iránti kérelmet a Rendőrség hatáskörrel és illetékességgel rendelkező nyomozó hatóságának vezetője ( a továbbiakban: nyomozó hatóság) terjeszti elő.
+70. § (1) A különleges eszköz alkalmazása iránti kérelmet a rendőrség hatáskörrel és illetékességgel rendelkező felderítő szervének vagy nyomozó hatóságának vezetője (a továbbiakban: nyomozó hatóság) terjeszti elő.
 
 (2) A kérelemnek tartalmaznia kell
 

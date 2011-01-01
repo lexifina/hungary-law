@@ -6,7 +6,7 @@ a) a 92–93/A. § rendelkezései szerint vizsgálatot folytat,
 
 b) működésének és eljárásainak tapasztalatairól háromévente beszámol az Országgyűlésnek, valamint évente tájékoztatja az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságait,
 
-c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
+c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak és a főigazgatóknak utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
 
 (2) A Testület öt tagját az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságainak együttes javaslatára az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával, egyidejű, listás módon választja. A Testület tagjaira az alapvető jogok védelme érdekében tevékenységet folytató szervek és szervezetek a bizottságoknak javaslatot tehetnek.
 

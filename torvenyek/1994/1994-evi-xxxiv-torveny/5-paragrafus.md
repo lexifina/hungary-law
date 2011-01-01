@@ -1,25 +1,35 @@
-5. § (1) A miniszter
+5. § A miniszter
 
-a) szabályozza a Rendőrség tevékenységét és működését,
+a) szabályozza a rendőrség tevékenységét és működését,
 
-b) irányítja az országos rendőrfőkapitány tevékenységét, törvényességi, szakszerűségi, pénzügyi és hatékonysági szempontból ellenőrzi a Rendőrség tevékenységét,
+b) irányítja az általános rendőrségi feladatok ellátására létrehozott szervet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, valamint a terrorizmust elhárító szervet,
 
-c) az országos rendőrfőkapitány javaslatára jóváhagyja a Rendőrség központi szervének szervezeti és működési szabályzatát,
+c) törvényességi, szakszerűségi, pénzügyi és hatékonysági szempontból ellenőrzi a rendőrség tevékenységét,
 
-d) előterjesztést készít a miniszterelnök részére az országos rendőrfőkapitány kinevezésére és felmentésére; az előterjesztéshez csatolja az Országgyűlés feladatkörrel rendelkező bizottságának állásfoglalását,
+d) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, valamint a terrorizmust elhárító szerv vezetője javaslatára jóváhagyja az általuk vezetett szervek szervezeti és működési szabályzatát,
 
-e) gyakorolja az országos rendőrfőkapitány felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat, kinevezi és felmenti az országos rendőrfőkapitány helyettesét vagy helyetteseit,
+e) előterjesztést készít a miniszterelnök részére az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének, valamint a terrorizmust elhárító szerv vezetőjének kinevezésére és felmentésére, az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjére vonatkozóan az előterjesztéshez csatolja az Országgyűlés feladatkörrel rendelkező bizottságának állásfoglalását,
 
-f) kinevezi és felmenti a rendőr-főkapitányságok vezetőit, gyakorolja a külön jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat,
+f) gyakorolja az általános rendőrségi feladatok ellátására létrehozott szerv, valamint a terrorizmust elhárító szerv vezetője felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat,
 
-g) a rendőrségi feladatok teljesítésére, a Kormánynak a közbiztonság és a közrend védelme, valamint az államhatár őrzése, a határforgalom ellenőrzése és az államhatár rendjének fenntartása körében hozott döntései végrehajtására – törvény eltérő rendelkezése hiányában – az országos rendőrfőkapitány számára egyedi utasítást adhat ki feladat elvégzésére, mulasztás pótlására vagy jogszabálysértő állapot megszüntetésére,
+g) kinevezi és felmenti
 
-h) az országos rendőrfőkapitányt jelentéstételre vagy beszámolóra kötelezheti,
+ga) az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének helyetteseit, a rendőr-főkapitányságok vezetőit, valamint a külön jogszabályban meghatározott rendőri szervek vezetőit,
 
-i) kinevezi és felmenti – a nemzetközi szerződések és a Kormány felhatalmazása alapján – az államhatárral kapcsolatos ügyek intézésére létrehozott szervek vezetőit, helyetteseit, tagjait és állandó szakértőit,
+gb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetőjét és helyetteseit, valamint
 
-j) jóváhagyja az államhatár rendjének fenntartása érdekében a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket,
+gc) a terrorizmust elhárító szerv vezetőjének helyetteseit,
 
-k) gondoskodik a Rendőrség belső bűnmegelőzési ellenőrzéséről, külön jogszabály alapján egyes személyek védelméről, a terrorfenyegetettséggel összefüggő információk elemzéséről, a terrorcselekmények felszámolásáról, a fegyveres bűnözők elfogásáról, a bűncselekmények felderítéséről. Az e feladat végrehajtására létrehozott szervezetek a Rendőrségre vonatkozó szabályok szerint járnak el, személyi állományukra a Rendvédelmi Szervek Védelmi Szolgálatára vonatkozó jogszabályi rendelkezések az irányadók. Az Rtv. 92. § (1) bekezdése szerinti panaszt a belügyminiszter bírálja el.
+h) kinevezi és felmenti – a nemzetközi szerződések és a Kormány felhatalmazása alapján – az államhatárral kapcsolatos ügyek intézésére létrehozott szervek vezetőit, helyetteseit, tagjait és állandó szakértőit,
 
-(2) A miniszter az irányítási jogkörében adott utasítással a Rendőrség hatáskörébe tartozó ügyet nem vonhat el, hatáskörének gyakorlását nem akadályozhatja.
+i) gyakorolja a külön jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat,
+
+j) törvény eltérő rendelkezése hiányában egyedi utasítást adhat ki feladat elvégzésére vagy mulasztás pótlására,
+
+k) az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjét, a belső bűnmegelőzési és bűnfelderítési szerv vezetőjét, valamint a terrorizmust elhárító szerv vezetőjét jelentéstételre vagy beszámolóra kötelezheti,
+
+l) jóváhagyja az államhatár rendjének fenntartása érdekében a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket,
+
+m) gondoskodik az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzésről, valamint
+
+n) dönt az általános rendőrségi feladatok ellátására létrehozott szerv vezetője által irányított szervek, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv közötti hatásköri összeütközésben.

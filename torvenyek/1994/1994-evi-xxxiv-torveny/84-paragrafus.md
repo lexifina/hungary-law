@@ -1,6 +1,6 @@
-84. § (1) A Rendőrség szervei az e törvényben meghatározott adatkezelési célból más rendőri, bűnüldöző, nemzetbiztonsági, igazságszolgáltatási és közigazgatási szervtől, valamint – törvény rendelkezése alapján – az adattal rendelkező más szervtől, a felhasználás céljának és jogalapjának megjelölésével adatokat vehetnek át. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
+84. § (1) A rendőrség szervei az e törvényben meghatározott adatkezelési célból más rendőri, bűnüldöző, nemzetbiztonsági, igazságszolgáltatási és közigazgatási szervtől, valamint – törvény rendelkezése alapján – az adattal rendelkező más szervtől, a felhasználás céljának és jogalapjának megjelölésével adatokat vehetnek át. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
 
-(2) A Rendőrség a törvényben meghatározott feladatai teljesítése érdekében térítés nélkül adatot kérhet az alábbi nyilvántartásokból:
+(2) A rendőrség a törvényben meghatározott feladatai teljesítése érdekében térítés nélkül adatot kérhet az alábbi nyilvántartásokból:
 
 a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 
@@ -44,4 +44,4 @@ u) a központi szabálysértési nyilvántartásból.
 
 (3) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés a), d), i), j), k) és m) pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 
-(4) A Rendőrség által történő adatátvétel, valamint adatfelhasználás jogszerűségéért az átvevő rendőri szerv vezetője tartozik felelősséggel. Az adattovábbítás tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
+(4) A rendőrség által történő adatátvétel, valamint adatfelhasználás jogszerűségéért az átvevő rendőri szerv vezetője tartozik felelősséggel. Az adattovábbítás tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
