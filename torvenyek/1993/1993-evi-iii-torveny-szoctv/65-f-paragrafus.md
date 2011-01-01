@@ -4,7 +4,7 @@
 
 a) tizennyolcadik életévüket betöltött, egészségi állapotuk vagy idős koruk miatt szociális és mentális támogatásra szoruló, önmaguk ellátására részben képes személyek,
 
-b) tizennyolcadik életévüket betöltött, fekvőbeteg-gyógyintézeti kezelést nem igénylő pszichiátriai betegek, illetve szenvedélybetegek,
+b) az Szt. 93. § (4) bekezdése szerinti kivétellel a tizennyolcadik életévüket betöltött, fekvőbeteg-gyógyintézeti kezelést nem igénylő pszichiátriai betegek, illetve szenvedélybetegek,
 
 c) harmadik életévüket betöltött, önkiszolgálásra részben képes vagy önellátásra nem képes, de felügyeletre szoruló fogyatékos, illetve autista személyek
 

@@ -18,7 +18,7 @@ b) a textíliával való ellátást, és
 
 c) a mentális gondozást.
 
-(5) A rehabilitációs intézményben és a rehabilitációs célú lakóotthonban határozott időre elhelyezett ellátottak részére – külön jogszabályban meghatározott feltételek alapján – kötelező előtakarékossági rendszert kell működtetni.
+(5) A rehabilitációs intézményben és a rehabilitációs célú lakóotthonban határozott időre elhelyezett ellátottak részére – külön jogszabályban meghatározott feltételek alapján – előtakarékossági rendszer működtethető.
 
 (6) A (4)–(5) bekezdés szerinti szolgáltatásokon túl az ellátottnak nyújtott további szolgáltatásokkal kapcsolatos körülményeket, így különösen
 
@@ -30,6 +30,6 @@ c) a szükséges egészségügyi ellátást vagy az egészségügyi ellátáshoz
 
 d) a szükséges utógondozást
 
-az ellátottal kötött, a 94/B. § (2) bekezdése, illetve a 94/D. § (1) bekezdése szerinti megállapodásban a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredményének figyelembevételével kell meghatározni.
+az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredményének figyelembevételével kell meghatározni.
 
 (7) Az utógondozás a rehabilitációs intézmény és a rehabilitációs célú lakóotthon által a társadalmi életben való részvétel, a munkavállalás és az önálló életvitel elősegítése érdekében nyújtott szolgáltatás. Az utógondozás időtartama nem haladhatja meg a két évet.

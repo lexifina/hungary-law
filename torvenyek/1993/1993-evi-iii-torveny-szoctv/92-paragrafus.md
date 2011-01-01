@@ -1,4 +1,10 @@
-92. § (1) A helyi önkormányzat a személyes gondoskodást nyújtó ellátásokról, azok igénybevételéről, valamint a fizetendő térítési díjakról rendeletet alkot.
+92. § (1) A személyes gondoskodást nyújtó ellátásokról, azok igénybevételéről, valamint a fizetendő térítési díjakról
+
+a) a helyi önkormányzat,
+
+b) ha a fenntartó önkormányzati társulás vagy többcélú kistérségi társulás, akkor a társulási megállapodásban erre kijelölt települési önkormányzat a társulási megállapodásban meghatározottak szerint
+
+rendeletet alkot.
 
 (2) Ha törvény másként nem rendelkezik, a helyi önkormányzat az (1) bekezdés szerinti rendeletben szabályozza
 
@@ -48,7 +54,7 @@ d)
 
 (9) Amennyiben a települési önkormányzat, a társulás és a megyei jogú város által készített szolgáltatástervezési koncepció tervezete nincs összhangban a megyei, fővárosi koncepcióval, egyeztetést kell tartani a tervek közös irányainak meghatározásáról.
 
-(10) A megyei, megyei jogú városi önkormányzat a jóváhagyott szolgáltatástervezési koncepciót megküldi a szociál- és családpolitikáért felelős miniszternek.
+(10) A megyei, megyei jogú városi önkormányzat a jóváhagyott szolgáltatástervezési koncepciót megküldi a szociál- és nyugdíjpolitikáért felelős miniszternek.
 
 V. CÍM
 

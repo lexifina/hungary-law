@@ -2,7 +2,7 @@
 
 (2) Előlegként a folyósított ellátás havi összegének legfeljebb 50%-a kérelmezhető.
 
-(3) Az előleget a jegyző a kérelem benyújtásának időpontjától számított három munkanapon belül – a kérelmezett összeg 100 Ft-ra történő felfelé kerekítésével – egyszerűsített határozattal állapítja meg.
+(3) Az előleget a jegyző a kérelem megérkezését követő naptól számított öt napon belül – a kérelmezett összeg 100 Ft-ra történő felfelé kerekítésével – egyszerűsített határozattal állapítja meg.
 
 (4) Az előleget a folyósításra kerülő ellátás – közfoglalkoztatás esetén a közfoglalkoztatásból származó havi kereset összege – terhére, hat egyenlő részletben kell levonni. A levonás az előleg kifizetését közvetlenül követő folyósítással kezdődik.
 

@@ -16,13 +16,13 @@ a) a kérelem benyújtását megelőzően megszűnt havi rendszeres jövedelmet,
 
 b) a vállalkozásból származó jövedelmet, feltéve, hogy a vállalkozási tevékenység megszűnt,
 
-c) a közmunkából, közhasznú munkából vagy közcélú munkából (a továbbiakban együtt: közfoglalkoztatás) származó havi jövedelemnek az öregségi nyugdíj legkisebb összegét meghaladó részét.
+c) a közfoglalkoztatásból származó havi jövedelemnek az öregségi nyugdíj legkisebb összegét meghaladó részét.
 
 (5) A vállalkozási tevékenység akkor tekinthető megszűntnek, ha az egyéni vállalkozói tevékenység az egyéni vállalkozóról szóló törvényben meghatározottak szerint megszűnt, az őstermelői igazolványt visszaadták vagy visszavonták, illetőleg a társas vállalkozást vagy az egyéni céget törölték a cégjegyzékből.
 
 (6) Ha az önkormányzat vagy annak jegyzője hivatalos tudomása vagy környezettanulmány lefolytatása alapján a kérelmező életkörülményeire tekintettel az (1) bekezdés szerinti jövedelemnyilatkozatban foglaltakat vitatja, felhívhatja a kérelmezőt az általa lakott lakás, illetve saját és a családja tulajdonában álló vagyon fenntartási költségeit igazoló dokumentumok benyújtására. Abban az esetben, ha a fenntartási költségek meghaladják a jövedelemnyilatkozatban szereplő jövedelem 50%-át, a jövedelem a fenntartási költségek figyelembevételével vélelmezhető.
 
-(7) A szociális hatáskört gyakorló szervek megkeresésére az állami adóhatóság tíz munkanapon belül köteles közölni a szociális ellátást igénylő, valamint – írásbeli felhatalmazás alapján – az egy főre jutó havi jövedelem kiszámításánál figyelembe veendő személy személyi jövedelemadójának alapját.
+(7) A szociális hatáskört gyakorló szervek megkeresésére az állami adóhatóság tizenöt napon belül köteles közölni a szociális ellátást igénylő, valamint – írásbeli felhatalmazás alapján – az egy főre jutó havi jövedelem kiszámításánál figyelembe veendő személy személyi jövedelemadójának alapját.
 
 (8) Ha a 3. § (3) bekezdése szerinti személy esetében a szociális ellátásra való jogosultság elbírálásához az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam, illetve olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, hatáskörrel és illetékességgel rendelkező hatóságának igazolása szükséges, akkor közvetítő szervként a kincstár jár el. A kincstár közvetítői eljárásához a megkereső szervnek meg kell adnia a megkeresendő külföldi hatóság nevét, postacímét, és a pontos kérdést, amelyre választ kíván kapni.
 

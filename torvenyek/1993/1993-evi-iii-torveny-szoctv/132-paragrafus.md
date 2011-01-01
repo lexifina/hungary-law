@@ -38,7 +38,7 @@ q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban köz
 
 r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, továbbá a fogyatékos személyek alapvizsgálatára vonatkozó szabályokat;
 
-s) a szociális igazgatási bírság alkalmazására és felhasználására vonatkozó részletes szabályokat;
+s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;
 
 t) az energiafelhasználási támogatás mértékére, a támogatásra való jogosultság megállapításának feltételeire és a jogosultak körére, a támogatás igénylésére, megállapítására, érvényesítésére, a támogatás jogszerű igénybevétele ellenőrzésének és a jogosulatlanul igénybe vett támogatás visszakövetelésének rendjére, továbbá a támogatás forrásául szolgáló előirányzat kezelésére és felhasználására vonatkozó szabályokat;
 
@@ -46,7 +46,7 @@ u) az egyházi kiegészítő támogatás megtérítésének részletes szabálya
 
 v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét.
 
-(2) Felhatalmazást kap a szociál- és családpolitikáért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
 a) az Országos Szociálpolitikai Szakértői Névjegyzékkel, valamint a szakértők tevékenységével összefüggő részletes szabályokat;
 
@@ -70,9 +70,11 @@ l) a szociális foglalkoztatás személyi és tárgyi feltételeit,
 
 m) a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályait;
 
-n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan rászorult személyek földgáz- és távhőszolgáltatáshoz kapcsolódó kiegészítő támogatásának, valamint egyéb fűtési támogatásának szabályait.
+n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan rászorult személyek földgáz- és távhőszolgáltatáshoz kapcsolódó kiegészítő támogatásának, valamint egyéb fűtési támogatásának szabályait;
 
-(3) Felhatalmazást kap az egészségbiztosításért felelős miniszter és az egészségügyért felelős miniszter, hogy együttes rendeletben szabályozza
+o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
+
+(3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 a) a szakmai szabályok szerint elsőként választandó, legalacsonyabb napi terápiás költséggel alkalmazott készítmények kiválasztásának szabályait,
 
@@ -80,6 +82,10 @@ b)
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
-a) az aktív korúak ellátására jogosult személyek közfoglalkoztatásban vagy képzésben való részvétele alól történő mentesítésének a 37/B. § (1) bekezdés a)–c) pontjában foglaltakon túli további feltételeit, valamint a feltételek fennállásának igazolási szabályait,
+a) a bérpótló juttatásra jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
 
-b) a rendszeres szociális segélyben részesülő, egészségkárosodottnak nem minősülő személyek együttműködésének eljárási szabályait, a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit.
+b) a rendszeres szociális segélyre való jogosultságnak a 37. § (1) bekezdés a)–c) pontjában foglaltakon túli, az aktív korúak ellátására jogosult személy családi körülményeire, egészségi vagy mentális állapotára vonatkozó feltételeit, valamint a feltételek fennállásának igazolási szabályait,
+
+c) a rendszeres szociális segélyben részesülő személyek együttműködésének eljárási szabályait, a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit, és
+
+d) az étkeztetés jogosultsági feltételeinek részletes szabályait.

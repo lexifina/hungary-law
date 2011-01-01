@@ -16,11 +16,23 @@ f) aki az aktív korúak ellátása iránti kérelem benyújtását megelőző k
 
 g) akinek esetében az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, a rendszeres szociális járadék, a bányász dolgozók egészségkárosodási járadéka, az átmeneti járadék, a rehabilitációs járadék, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, az ideiglenes özvegyi nyugdíj folyósítása megszűnt, illetve az özvegyi nyugdíj folyósítása a Tny. 52. §-ának (3) bekezdése szerinti okból szűnt meg, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervvel legalább három hónapig együttműködött,
 
-feltéve, hogy saját maga és családjának megélhetése más módon nem biztosított, és keresőtevékenységet – ide nem értve a közfoglalkoztatást és az egyszerűsített foglalkoztatásról szóló törvény szerint legfeljebb harmincegy napra létesített munkaviszony keretében végzett munkát – nem folytat.
+feltéve, hogy saját maga és családjának megélhetése más módon nem biztosított, és keresőtevékenységet – ide nem értve a közfoglalkoztatást, az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – nem folytat.
 
-(2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs.
+(2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
 
-(3) Az (1) bekezdés f) és g) pontja szerinti előzetes együttműködés időtartamának számításánál az aktív korúak ellátásának megállapítására irányuló kérelmet benyújtó személy által elvállalt munka időtartamát is figyelembe kell venni.
+a) az első nagykorú családtag arányszáma 1,0, azzal, hogy a gyermekét egyedülállóként nevelő szülő arányszáma 0,2-vel növekszik,
+
+b) a házas- vagy élettárs arányszáma 0,9,
+
+c) az első és második gyermek arányszáma gyermekenként 0,8,
+
+d) minden további gyermek arányszáma gyermekenként 0,7,
+
+e) a fogyatékos gyermek arányszáma 1,0, azzal, hogy a fogyatékos gyermeket a c) és d) pont alkalmazásánál figyelmen kívül kell hagyni, továbbá ahol
+
+f) az a) és b) pontok szerinti arányszám 0,2-vel növekszik, ha a személy fogyatékossági támogatásban részesül.
+
+(3) Az (1) bekezdés f) és g) pontja szerinti előzetes együttműködés időtartamának számításánál az aktív korúak ellátásának megállapítására irányuló kérelmet benyújtó személy által ezen időtartam alatt folytatott keresőtevékenység időtartamát is figyelembe kell venni.
 
 (4) Az aktív korúak ellátására való jogosultság
 
@@ -32,6 +44,6 @@ c) az (1) bekezdés g) pontja szerinti rendszeres pénzellátás folyósításá
 
 számított tizenkettő hónapon belül benyújtott kérelem alapján állapítható meg.
 
-(5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározottak kivételével – csak egy személy jogosult.
+(5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 
-(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a rendelkezésre állási támogatás – ideértve a 37/C. § (4) bekezdése szerinti személyt is –, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.
+(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a bérpótló juttatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.

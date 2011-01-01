@@ -4,4 +4,4 @@
 
 (3) Az ellátási kötelezettséggel nem rendelkező önkormányzat a szolgáltatása megszervezéséhez kapcsolódóan helyi rendeletében meghatározhatja, hogy csak saját települése lakosai részére biztosítja az ellátást. Az intézményt fenntartó önkormányzat az intézménnyel nem rendelkező önkormányzat kérése alapján a település lakosainak ellátását nem tagadhatja meg, ha e törvény hatálybalépésekor már az ellátást biztosította a másik település lakosai számára.
 
-(4) A szociális szolgáltatást a helyi önkormányzat, illetve a társulás más helyi önkormányzattal kötött megállapodás útján is biztosíthatja. A megállapodásban rögzíteni kell a szociális szolgáltatás igénybevételére vonatkozó szabályokat és az ellátottak után fizetendő hozzájárulás mértékét.
+(4) A szociális szolgáltatást a helyi önkormányzat, illetve a társulás más helyi önkormányzattal vagy társulással kötött megállapodás útján is biztosíthatja. A megállapodásban rögzíteni kell a szociális szolgáltatás igénybevételére vonatkozó szabályokat és az ellátottak után fizetendő hozzájárulás mértékét.

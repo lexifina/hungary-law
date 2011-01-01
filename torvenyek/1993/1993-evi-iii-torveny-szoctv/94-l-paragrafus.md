@@ -12,7 +12,11 @@ c) a támogató szolgálatot, a pszichiátriai betegek közösségi ellátását
 
 d) a hajléktalan személyek ellátását végző szociális segítő és utcai szociális munkás,
 
-e) az előgondozással megbízott személy.
+e) az előgondozással megbízott személy,
+
+f) az intézményi ellátásban foglalkoztatott ápoló, intézményvezető ápoló, gondozó, szociális, mentálhigiénés munkatárs,
+
+g) a falu- és a tanyagondnok.
 
 (3) A bentlakásos intézménynek rendelkeznie kell – a szolgáltatásban foglalkoztatottak védelme érdekében – az ellátást igénybevevők részéről esetlegesen felmerülő veszélyhelyzet kezelésére vonatkozó belső utasítással.
 

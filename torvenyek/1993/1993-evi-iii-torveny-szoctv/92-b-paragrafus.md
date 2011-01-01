@@ -1,6 +1,6 @@
 92/B. § (1) A személyes gondoskodást nyújtó szociális intézmény állami fenntartója
 
-a) meghatározza az intézményi térítési díjat;
+a) konkrét összegben meghatározza az intézményi térítési díjat;
 
 b) ellenőrzi az intézmény működésének törvényességét;
 

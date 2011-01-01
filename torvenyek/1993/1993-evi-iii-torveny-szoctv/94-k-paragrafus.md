@@ -1,6 +1,6 @@
 ## Az ellátottjogi képviselő
 
-94/K. § (1) Az ellátottjogi képviselő a személyes gondoskodást nyújtó alap- és szakosított ellátást biztosító intézményi elhelyezést igénybevevő, illetve a szolgáltatásban részesülő részére nyújt segítséget jogai gyakorlásában. Működése során tekintettel van a személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezéseire.
+94/K. § (1) Az ellátottjogi képviselő a személyes gondoskodást nyújtó alap- és szakosított ellátást biztosító intézményi elhelyezést igénybevevő, illetve a szolgáltatásban részesülő részére nyújt segítséget jogai gyakorlásában. Működése során tekintettel van az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezéseire.
 
 (2) Az ellátottjogi képviselő feladatai
 

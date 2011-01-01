@@ -14,4 +14,4 @@ e) hajléktalanságuk
 
 miatt.
 
-(2) Az (1) bekezdés szerinti jogosultsági feltételek részletes szabályait a települési önkormányzat rendeletben határozza meg. Jogosultsági feltételként jövedelmi helyzet nem határozható meg.
+(2) Az (1) bekezdés szerinti jogosultsági feltételek részletes szabályait a települési önkormányzat rendeletben határozza meg.

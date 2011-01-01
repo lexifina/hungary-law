@@ -8,7 +8,7 @@
 
 a) az intézmény működési költségének összesítését,
 
-b) az intézményi térítési díj havi összegét,
+b) a 115/A. § (1) bekezdése szerinti, térítésmentesen biztosított szolgáltatások kivételével az intézményi térítési díj havi összegét,
 
 c) az egy ellátottra jutó havi önköltség összegét.
 

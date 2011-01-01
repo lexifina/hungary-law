@@ -1,21 +1,19 @@
-37/A. § (1) A települési önkormányzat, illetve a közfoglalkoztatási feladatok ellátását magára vállaló önkormányzati társulás a közfoglalkoztatás hatékony megvalósítása és az álláskeresési megállapodásban foglaltakkal való összhang biztosítása céljából – az állami foglalkoztatási szerv által szolgáltatott összefoglaló adatok, információk és előrejelzések alapján – egyéves időtartamra közfoglalkoztatási tervet készít. A közfoglalkoztatási terv tervezetét a polgármester, illetve társulás esetén a társulási megállapodásban kijelölt személy előzetes véleményezésre megküldi az állami foglalkoztatási szervnek, az érintett települési kisebbségi önkormányzatoknak, illetve a 2000 fő feletti települések esetében a helyi szociálpolitikai kerekasztalnak. Az állami foglalkoztatási szerv, a települési kisebbségi önkormányzat és a szociálpolitikai kerekasztal a közfoglalkoztatási terv tervezetével kapcsolatos véleményéről annak kézhezvételétől számított tíz munkanapon belül tájékoztatja a települési önkormányzatot. Amennyiben az állami foglalkoztatási szerv, a települési kisebbségi önkormányzat és a szociálpolitikai kerekasztal határidőben nem nyilvánít véleményt, úgy kell tekinteni, hogy a közfoglalkoztatási terv tervezetében foglaltakkal egyetért. A települési önkormányzat képviselő-testülete, illetve a társulás döntéshozó szerve az állami foglalkoztatási szerv, a települési kisebbségi önkormányzat és a szociálpolitikai kerekasztal véleményének ismeretében a közfoglalkoztatási tervet évente február 15-éig fogadja el.
+37/A. § (1) A 37. § (1) bekezdésének b)–d) pontja szerinti esetekben a rendszeres szociális segély akkor állapítható meg és akkor folyósítható, ha az aktív korúak ellátására jogosult személy nyilatkozatában az e § szerinti együttműködési kötelezettséget vállal a települési önkormányzat által erre kijelölt szervvel (a továbbiakban: együttműködésre kijelölt szerv). Az együttműködés keretében a jogosult
 
-(2) A közfoglalkoztatási terv tartalmazza
+a) az együttműködésre kijelölt szervnél kérelmezi a nyilvántartásba vételét,
 
-a) a rendelkezésre állási támogatásra jogosult személyek képzettség szerinti várható összetételét,
+b) a beilleszkedését segítő programban való részvételről írásban megállapodik az együttműködésre kijelölt szervvel, és
 
-b) a részben vagy egészben közfoglalkoztatás keretében ellátandó közfeladatok megjelölését és várható ütemezését,
+c) teljesíti a beilleszkedését segítő programban foglaltakat.
 
-c) a b) pont szerinti feladatok ellátásához szükséges létszámot,
+(2) A beilleszkedést segítő program az önkormányzattal együttműködő személy szociális helyzetéhez és mentális állapotához igazodva kiterjedhet
 
-d) a közfoglalkoztatás finanszírozására rendelkezésre álló forrásokat.
+a) az együttműködésre kijelölt szervvel való kapcsolattartásra,
 
-(3) A közfoglalkoztatási tervet az elfogadását követő 5 napon belül meg kell küldeni a kincstárnak, valamint az állami foglalkoztatási szervnek. Ha a települési önkormányzat, illetve a közfoglalkoztatási feladatok ellátását magára vállaló önkormányzati társulás a közfoglalkoztatási tervet az (1) bekezdés szerinti időpontig nem fogadja el, akkor az elfogadott közfoglalkoztatási tervnek a kincstárhoz történő megérkezéséig a kincstár visszatartja a közcélú foglalkoztatásra a 124. § (2) bekezdése szerint biztosított állami támogatás 15%-át.
+b) az együttműködő személy számára előírt, az egyéni képességeket fejlesztő vagy az életmódot formáló foglalkozáson, tanácsadáson, illetőleg a munkavégzésre történő felkészülést segítő programban való részvételre,
 
-(4) A közfoglalkoztatási tervet módosítani kell, ha a (2) bekezdés b) pontjában megjelölt közfeladatokban bekövetkezett változás az ellátásukhoz szükséges létszám
+c) a felajánlott és az iskolai végzettségének megfelelő oktatásban, képzésben történő részvételre, különösen az általános iskolai végzettség és az első szakképesítés megszerzésére.
 
-a) 2000 fő feletti lakosságszámú településeknél 10%-át,
+(3) A települési önkormányzat rendeletben szabályozza az (1) és (2) bekezdés szerinti együttműködés eljárási szabályait, továbbá a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit.
 
-b) 2000 fő, vagy az alatti lakosságszámú településeknél 20%-át
-
-elérő mértékű bővítését, illetve csökkentését eredményezi.
+(4) Az (1) és (2) bekezdés szerinti együttműködés intézményi feltételeiről a települési önkormányzat elsősorban a családsegítő szolgálat útján gondoskodik.

@@ -8,4 +8,4 @@ a) alapszolgáltatás esetén tizenöt nap,
 
 b) bentlakásos intézmény esetén három hónap.
 
-(4) Ha a 94/D. § szerinti megállapodás felmondásának jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy, illetőleg a fenntartó vitatja, kérheti a bíróságtól a megállapodás jogellenes felmondásának megállapítását. Az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a bíróság jogerős határozatot nem hoz.
+(4) Ha egyházi és nem állami fenntartású szolgáltató, intézmény esetén a 94/C. § szerint megkötött megállapodás felmondásának jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy, illetőleg a fenntartó vitatja, kérheti a bíróságtól a megállapodás jogellenes felmondásának megállapítását. Az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a bíróság jogerős határozatot nem hoz.

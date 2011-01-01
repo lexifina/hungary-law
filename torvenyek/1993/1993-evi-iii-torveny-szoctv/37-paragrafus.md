@@ -1,13 +1,19 @@
-37. § (1) A 35. § (1) bekezdése szerinti személyt arra az időtartamra, amikor
+37. § (1) Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján
 
-a) közfoglalkoztatásban neki fel nem róható okból nem vesz részt és táppénzben vagy távolléti díjban nem részesül, vagy
+a) egészségkárosodott személynek minősül, vagy
 
-b) olyan képzésben vesz részt, amelyhez az Flt. szerinti keresetpótló juttatást részére nem állapítottak meg,
+b) az 55. életévét betöltötte, vagy
 
-rendelkezésre állási támogatás illeti meg.
+c) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, terhességi-gyermekágyi segélyben – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.] nem tudják biztosítani, vagy
 
-(2) A 35. § (1) bekezdése szerinti személy esetében az aktív korúak ellátására való jogosultságot megállapító határozatban egyidejűleg rendelkezni kell a rendelkezésre állási támogatásra való jogosultság megállapításáról.
+d) a települési önkormányzat rendeletében az aktív korúak ellátására jogosult személyek családi körülményeire, egészségi vagy mentális állapotára tekintettel meghatározott egyéb feltételeknek megfelel,
 
-(3) A rendelkezésre állási támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összege.
+rendszeres szociális segélyre jogosult.
 
-(4) Közfoglalkoztatásban részt vevő személy esetében a rendelkezésre állási támogatásnak a 25. § (4)–(6) bekezdése szerinti felülvizsgálatát a közfoglalkoztatás megszűnését követően kell lefolytatni.
+(2) Amennyiben az (1) bekezdés szerinti valamely feltétel az aktív korúak ellátására való jogosultság megállapítását követően következik be, a jogosult részére a rendszeres szociális segélyt a feltétel bekövetkezésének időpontját követő hónap első napjától kell megállapítani.
+
+(3) Ha az (1) bekezdés a), c), illetve d) pontja szerinti valamely feltétel megszűnik, a feltétel megszűnését követő hónap első napjától a 35. § (1) bekezdése szerinti ellátást kell megállapítani és a 35. § (3) bekezdése szerinti, valamint – ha a települési önkormányzat erről a 35. § (2) bekezdése alapján rendelkezett – a lakókörnyezet rendezettségének biztosítására vonatkozó kötelezettséget kell előírni. A feltétel megszűnésének hónapjára – amennyiben az aktív korúak ellátására való jogosultság továbbra is fennáll – rendszeres szociális segély jár.
+
+(4) A rendszeres szociális segély havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított személyi alapbér mindenkori kötelező legkisebb összegének személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 90%-ának szorzatával.
+
+(5) Ha a rendszeres szociális segély összege a (4) bekezdésben foglalt számítás szerint a havi ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell megállapítani.

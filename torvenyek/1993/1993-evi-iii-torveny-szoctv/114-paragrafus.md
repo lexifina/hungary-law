@@ -18,6 +18,6 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 
 a) aki jövedelemmel nem rendelkezik,
 
-b) étkeztetés és házi segítségnyújtás esetében akinek a családja jövedelemmel nem rendelkezik,
+b)
 
 és bentlakásos ellátás esetében a 119. § (2) bekezdése szerinti jelzálog alapjául szolgáló vagyona nincs.

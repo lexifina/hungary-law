@@ -18,4 +18,4 @@ e) éjjeli menedékhely;
 
 f) hajléktalan személyek átmeneti szállása;
 
-g) bázis-szállás.
+g)

@@ -22,4 +22,4 @@ i) a 3. § (3) bekezdése szerinti személy esetében a Magyarországon tartózk
 
 j) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
 
-k) a rendelkezésre állási támogatásra jogosult személy iskolai végzettségét és szakképzettségét.
+k) a bérpótló juttatásra jogosult személy iskolai végzettségét és szakképzettségét.

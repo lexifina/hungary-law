@@ -2,9 +2,9 @@
 
 a) a szolgáltatást igénybe vevő személy rendszeres havi jövedelmét,
 
-b) étkeztetés és házi segítségnyújtás esetében a családban egy főre jutó jövedelmet,
+b)
 
-c) kiskorú igénybe vevő esetén – a b) pont szerinti kivétellel – a vele közös háztartásban élő szülők egy főre jutó rendszeres havi jövedelmét
+c) kiskorú igénybe vevő esetén a családban egy főre jutó rendszeres havi jövedelmet
 
 kell figyelembe venni.
 

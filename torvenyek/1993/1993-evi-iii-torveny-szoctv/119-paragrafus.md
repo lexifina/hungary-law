@@ -8,6 +8,6 @@ c) az a)—b) pontban nem szabályozott esetekben a térítési díj fizetésér
 
 fizeti meg az intézménynek.
 
-(2) Ha a személyi térítési díjat az (1) bekezdés szerint nem fizetik meg, illetve ha a költőpénzt az intézmény biztosítja, a követelést tartós bentlakásos intézményi ellátás esetében a kötelezett ingatlanvagyonán, idősotthoni ellátás esetében a 119/C. § (5) bekezdése szerinti vagyonán fennálló jelzálogjog biztosítja.
+(2) Ha a személyi térítési díjat az (1) bekezdés szerint nem fizetik meg, illetve ha a költőpénzt az intézmény biztosítja, a követelést tartós bentlakásos intézményi ellátás esetében a kötelezett ingatlanvagyonán fennálló jelzálogjog biztosítja.
 
 (3) A jelzálogjogot a külön jogszabály szerint nyilvántartott folyó évi hátralék erejéig lehet bejegyezni. A jelzálog bejegyzésének kezdeményezéséről a szociális hatóság a jogszabályi feltételek fennállása esetén – a fenntartó kérelme alapján – határozatot hoz. A határozatot az ingatlanügyi hatósággal közölni kell.

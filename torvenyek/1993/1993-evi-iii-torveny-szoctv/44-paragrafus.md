@@ -1,10 +1,12 @@
-44. § (1) Az ápolási díj havi összege az öregségi nyugdíj mindenkori legkisebb összegének
+44. § (1) Az ápolási díj havi összege az éves központi költségvetési törvényben meghatározott alapösszeg
 
-a) a 41. § (1) bekezdésében foglalt esetben 100%-a,
+a) 100%-a a 41. § (1) bekezdésében,
 
-b) a 43/A. § (1) bekezdésében foglalt esetben 130%-a,
+b) 130%-a a 43/A. § (1) bekezdésében, és
 
-c) a 43/B. § (1) bekezdésében foglalt esetben legalább 80%-a.
+c) 80%-a a 43/B. § (1) bekezdésében
+
+foglalt esetben.
 
 (2) Az ápolási díj havi összege a más rendszeres pénzellátásban részesülő jogosult esetén az (1) bekezdés szerinti összegnek és a jogosult részére folyósított más rendszeres pénzellátás havi összegének a különbözete. Ha a különbözet az ezer forintot nem éri el, a jogosult részére ezer forint összegű ápolási díjat kell megállapítani.
 

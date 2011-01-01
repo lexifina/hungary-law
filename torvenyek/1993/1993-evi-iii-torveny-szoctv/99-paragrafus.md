@@ -1,6 +1,6 @@
-99. § (1) A bentlakásos intézmény fenntartója köteles meghatározni az intézményi jogviszonyban állók és az ellátásra jogosultak érdekvédelmét szolgáló fórum (a továbbiakban: érdekképviseleti fórum) megalakításának és tevékenységének szabályait.
+99. § (1) A tartós bentlakásos intézmény fenntartója köteles meghatározni az intézményi jogviszonyban állók és az ellátásra jogosultak érdekvédelmét szolgáló fórum (a továbbiakban: érdekképviseleti fórum) megalakításának és tevékenységének szabályait.
 
-(2) Az érdekképviseleti fórum a bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
+(2) Az érdekképviseleti fórum a tartós bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
 
 (3) Az érdekképviseleti fórum tagjai
 

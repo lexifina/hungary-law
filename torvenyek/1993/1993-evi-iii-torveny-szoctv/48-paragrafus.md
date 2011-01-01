@@ -1,6 +1,6 @@
 ## Köztemetés
 
-48. § (1) A haláleset helye szerint illetékes települési önkormányzat polgármestere önkormányzati hatáskörben – a halálesetről való tudomásszerzést követő huszonkét munkanapon belül – gondoskodik az elhunyt személy közköltségen történő eltemettetéséről, ha
+48. § (1) A haláleset helye szerint illetékes települési önkormányzat polgármestere önkormányzati hatáskörben – a halálesetről való tudomásszerzést követő harminc napon belül – gondoskodik az elhunyt személy közköltségen történő eltemettetéséről, ha
 
 a) nincs vagy nem lelhető fel az eltemettetésre köteles személy, vagy
 
