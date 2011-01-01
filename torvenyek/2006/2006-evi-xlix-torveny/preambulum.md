@@ -1,1 +1,0 @@
-Az Országgyűlés attól a szándéktól vezérelve, hogy meghatározza a lobbitevékenység, vagyis a megbízás alapján folytatott érdekérvényesítés szabályait, biztosítsa a közhatalmi döntések kapcsán megjelenített érdekek nyilvánosságát, ezzel erősítve a döntéshozó szervek tevékenységébe vetett bizalmat, a következő törvényt alkotja:

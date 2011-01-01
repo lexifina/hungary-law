@@ -1,1 +1,0 @@
-26. § A személyes kapcsolatfelvételről a közhatalmi döntést hozó szerv képviselője emlékeztetőt készít, amely röviden összefoglalja a találkozón elhangzottak lényegét. A 25. § (1) bekezdés a) és c) pontja szerinti esetben az Országgyűlés Házszabályában és a helyi önkormányzat szervezeti és működési szabályzatában foglaltak irányadóak.

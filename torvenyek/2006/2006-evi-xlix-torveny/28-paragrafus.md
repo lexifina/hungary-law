@@ -1,1 +1,0 @@
-28. § A lobbista a közhatalmi döntést hozó szerv részére szakmai háttéranyagokat, tudományos kiadványokat, hatástanulmányokat küldhet, illetve rendelkezésére bocsáthatja saját kutatásainak, elemzéseinek eredményét is.
