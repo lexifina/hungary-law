@@ -12,9 +12,9 @@
 
 ## VI.
 
-## Kérjük, hogy a REP illetékes felülvéleményező főorvosával is véleményeztesse a beteget
+## Kérjük, hogy az OEP illetékes felülvéleményező főorvosával is véleményeztesse a beteget
 
-| A REP ellenőrző vagy felülvéleményező főorvosának véleménye |
+| Az OEP ellenőrző vagy felülvéleményező főorvosának véleménye |
 
 ## ................................ év ................................. hó ................... nap.
 

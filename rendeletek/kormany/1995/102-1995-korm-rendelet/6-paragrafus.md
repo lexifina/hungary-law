@@ -10,7 +10,7 @@ b) az elrendelt vizsgálatokon megjelenni,
 
 c) ha a keresőképtelensége alatt más orvos is kezeli, erről a keresőképtelen állományban tartó orvost tájékoztatni.
 
-(3)[^15] A munkáltató jogosult a betegszabadság, illetőleg a táppénz igénybevétele alatt a munkavállaló keresőképtelenségének felülvizsgálatát kezdeményezni az illetékes REP-nél.
+(3)[^15] A munkáltató jogosult a betegszabadság, illetőleg a táppénz igénybevétele alatt a munkavállaló keresőképtelenségének felülvizsgálatát kezdeményezni az OEP-nél.
 
 [^14]: A 6. § (2) bekezdésének a) pontja a 252/2003. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^15]: A 6. § (3) bekezdése a 252/2003. (XII. 23.) Korm. rendelet 15. §-ának (2) bekezdése, a 360/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdésének d) pontja szerint módosított szöveg.
+[^15]: A 6. § (3) bekezdése a 252/2003. (XII. 23.) Korm. rendelet 15. §-ának (2) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.

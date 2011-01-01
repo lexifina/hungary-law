@@ -162,11 +162,11 @@
 
 4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^47]
 
-## ORVOSI BEUTALÓ a Szakértői Intézet szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás, a fogyatékosság véleményezése vagy a keresőképesség felülvéleményezése céljából
+## ORVOSI BEUTALÓ az orvosszakértői szerv szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás, a fogyatékosság véleményezése vagy a keresőképesség felülvéleményezése céljából
 
 ## ORVOSI BEUTALÓ
 
-## a Szakértői Intézet szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás,
+## az orvosszakértői szerv szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás,
 
 ## a fogyatékosság véleményezése vagy a keresőképesség felülvéleményezése céljából
 
@@ -252,7 +252,7 @@ II. (Minden esetben kitöltendő)
 
 13. A beteg/biztosított/igénylő vizsgálata
 
-□ lakóhelyén, tartózkodási helyén, □ a Szakértői Intézet telephelyén indokolt.
+□ lakóhelyén, tartózkodási helyén, □ az orvosszakértői szerv telephelyén indokolt.
 
 III. (A keresőképesség és a munkaképesség változás véleményezése esetén töltendő ki)
 
@@ -314,4 +314,4 @@ V. (Minden esetben kitöltendő)
 
 [^45]: Lásd 1999. MK 71. szám 4582. oldal.
 [^46]: Lásd 1999. MK 71. szám 4583. oldal.
-[^47]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 213/2007. (VIII. 7.) Korm. rendelet 18. § d) pontjának di) és dj) alpontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdésének e) pontja szerint módosított szöveg.
+[^47]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 213/2007. (VIII. 7.) Korm. rendelet 18. § d) pontjának di) alpontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdésének e) pontja, a 332/2010. (XII. 27.) Korm. rendelet 5. § b) pontja, a 351/2010. (XII. 30.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.

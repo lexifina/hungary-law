@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-102-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 1995-102-20-22.9 | 102/1995. (VIII. 25.) Korm. rendelet |
+| 2011-01-01 | 1995-102-20-22.10 | 252/2003. (XII. 23.) Korm. rendelet |
