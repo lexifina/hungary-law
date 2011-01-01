@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-202-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-01-01 | 1996-202-20-22.6 | 202/1996. (XII. 23.) Korm. rendelet |
+| 2011-01-01 | 1996-202-20-22.7 | 78/2025. (IV. 17.) Korm. rendelet |

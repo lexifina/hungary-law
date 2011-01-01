@@ -2,6 +2,6 @@
 
 (2) Az után a személy után, aki egyidejűleg az (1) bekezdésben említett több jogviszonyban áll, és munkaideje nincs, vagy nem mindegyik jogviszonyban határozták meg, az egészségügyi hozzájárulást annak a foglalkoztatónak kell megfizetni ahol a jövedelem magasabb. Ha a jövedelem mindegyik jogviszonyban azonos, az egészségügyi hozzájárulást az a foglalkoztató fizeti meg, ahol a foglalkoztatás korábban kezdődött.
 
-(3)–(4)[^1]
+(3)–(4)[^2]
 
-[^1]: Az 1. § (3)–(4) bekezdését az 59/1998. (XII. 11.) AB határozat megsemmisítette 1998. december 11. napjával.
+[^2]: Az 1. § (3)–(4) bekezdését az 59/1998. (XII. 11.) AB határozat megsemmisítette 1998. december 11. napjával.
