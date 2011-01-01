@@ -4274,6 +4274,7 @@
 
 (2) E rendelet hatálybalépésével egyidejűleg hatályát veszti az európai szabadalmak megadásáról szóló 1973. október 5-i Müncheni Egyezmény (Európai Szabadalmi Egyezmény) Végrehajtási Szabályzatának kihirdetéséről szóló 22/2002. (XII. 13.) IM rendelet.
 
-(3) Az e rendelet végrehajtásához szükséges intézkedésekről a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(3)[^2] Az e rendelet végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
 
 [^1]: A Végrehajtási Szabályzat módosításait a 43/2010. (II. 26.) Korm. rendelet, a 44/2010. (II. 26.) Korm. rendelet, a 45/2010. (II. 26.) Korm. rendelet, a 46/2010. (II. 26.) Korm. rendelet hirdette ki.
+[^2]: A 3. § (3) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
