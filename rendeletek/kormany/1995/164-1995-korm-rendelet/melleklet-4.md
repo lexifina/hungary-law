@@ -2,7 +2,7 @@
 
 ## a 164/1995. (XII. 27.) Korm. rendelet alapján
 
-## Országos Rehabilitációs és Szociális Szakértői Intézet
+## Nemzeti Rehabilitációs és Szociális Hivatal
 
 ## Címe: ...................................
 
@@ -48,6 +48,6 @@
 
 ## Figyelem: Ezen orvosi szakvéleményben szereplő adatok helyességéért a 164/1995. (XII. 27.) Korm. rendelet 20. § (5)—(7) bekezdései alapján a kiállító felel.
 
-4. számú melléklet a 164/1995. (XII. 27.) Korm. rendelethez[^105]
+4. számú melléklet a 164/1995. (XII. 27.) Korm. rendelethez[^106]
 
-[^105]: A 4. számú melléklet a 225/1996. ( XII. 26.) Korm. rendelet 10. §-ának (4) bekezdésével megállapított szöveg.
+[^106]: A 4. számú melléklet a 225/1996. ( XII. 26.) Korm. rendelet 10. §-ának (4) bekezdésével megállapított szöveg.

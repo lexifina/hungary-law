@@ -1,10 +1,10 @@
 5. § (1) Az átalakítási támogatás
 
-a)[^27] a vezetés feltételeként külön jogszabály alapján előírt, gyárilag automata sebességváltóval felszerelt személygépkocsi vásárlásához, illetve személygépkocsi segédberendezéssel történő felszereléséhez, átalakításához nyújtott támogatás, továbbá
+a)[^28] a vezetés feltételeként külön jogszabály alapján előírt, gyárilag automata sebességváltóval felszerelt személygépkocsi vásárlásához, illetve személygépkocsi segédberendezéssel történő felszereléséhez, átalakításához nyújtott támogatás, továbbá
 
-b)[^28] a személygépkocsi olyan átalakításához nyújtott támogatás, amely lehetővé teszi a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását, vagy
+b)[^29] a személygépkocsi olyan átalakításához nyújtott támogatás, amely lehetővé teszi a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását, vagy
 
-c)[^29] a személygépkocsinak a súlyos mozgáskorlátozott személy biztonságos szállítását szolgáló eszközzel való ellátásához nyújtott támogatás.
+c)[^30] a személygépkocsinak a súlyos mozgáskorlátozott személy biztonságos szállítását szolgáló eszközzel való ellátásához nyújtott támogatás.
 
 (2) Az átalakítási támogatás mértéke az átalakítás költsége, de legfeljebb 30 000 forint.
 
@@ -28,6 +28,6 @@ c) aki a kérelem benyújtását megelőző hét éven belül mozgáskorlátozot
 
 d) akinek családjában az egy főre jutó jövedelem a 4. § (1) bekezdés b) pontja szerinti összeget nem haladja meg.
 
-[^27]: Az 5. § (1) bekezdésének a) pontja a 225/1996. (XII. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^28]: Az 5. § (1) bekezdésének b) pontja a 124/2001. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^29]: Az 5. § (1) bekezdésének c) pontját a 124/2001. (VII. 10.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^28]: Az 5. § (1) bekezdésének a) pontja a 225/1996. (XII. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^29]: Az 5. § (1) bekezdésének b) pontja a 124/2001. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^30]: Az 5. § (1) bekezdésének c) pontját a 124/2001. (VII. 10.) Korm. rendelet 3. §-a iktatta a szövegbe.

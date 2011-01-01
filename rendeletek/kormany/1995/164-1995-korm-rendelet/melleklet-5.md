@@ -32,6 +32,6 @@
 
 ## * A közlekedési támogatás alapösszege 7000 Ft/év
 
-5. számú melléklet a 164/1995. (XII. 27.) Korm. rendelethez[^106]
+5. számú melléklet a 164/1995. (XII. 27.) Korm. rendelethez[^107]
 
-[^106]: Az 5. számú mellékletet a 218/2003. (XII. 11.) Korm. rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte.
+[^107]: Az 5. számú mellékletet a 218/2003. (XII. 11.) Korm. rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte.

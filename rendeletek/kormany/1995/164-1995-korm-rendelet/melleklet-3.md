@@ -30,7 +30,7 @@
 
 ## Közlekedőképesség minősítése (vizsgálat és szubjektív megítélés alapján):*
 
-## [^103]Életvitelszerűen ágyhoz kötött fekvőbeteg, és szállítása csak mentőjárművel biztosítható: igen nem
+## [^104]Életvitelszerűen ágyhoz kötött fekvőbeteg, és szállítása csak mentőjárművel biztosítható: igen nem
 
 ## a) járás: képtelen(3) súlyosan nehezített(2) nehéz(1) normál(0)
 
@@ -72,7 +72,7 @@
 
 ## * A megfelelő válasz aláhúzandó.
 
-3. számú melléklet a 164/1995. (XII. 27.) Korm. rendelethez[^104]
+3. számú melléklet a 164/1995. (XII. 27.) Korm. rendelethez[^105]
 
-[^103]: A 225/1996. ( XII. 26.) Korm. rendelet 10. §-ának (3) bekezdése szerint módosított szöveg.
-[^104]: A 225/1996. (XII. 26.) Korm. rendelet 10. §-ának (3) bekezdése, a 213/2007. (VIII. 7.) Korm. rendelet 18. § e) pontjának ed) alpontja szerint módosított szöveg.
+[^104]: A 225/1996. ( XII. 26.) Korm. rendelet 10. §-ának (3) bekezdése szerint módosított szöveg.
+[^105]: A 225/1996. (XII. 26.) Korm. rendelet 10. §-ának (3) bekezdése, a 332/2010. (XII. 27.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

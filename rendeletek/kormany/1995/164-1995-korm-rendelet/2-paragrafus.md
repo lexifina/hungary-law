@@ -8,6 +8,6 @@ b) személygépkocsi átalakítási támogatás( a továbbiakban: átalakítási
 
 c) közlekedési támogatás.
 
-d)[^13]
+d)[^14]
 
-[^13]: A 2. § d) pontját a 218/2003. (XII. 11.) Korm. rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte.
+[^14]: A 2. § d) pontját a 218/2003. (XII. 11.) Korm. rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte.

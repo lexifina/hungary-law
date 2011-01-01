@@ -1,4 +1,4 @@
-## 4/A. §[^26] A hivatal az alábbi feltételek együttes fennállása esetén szerzési támogatásra való jogosultságot állapíthat meg annak a súlyos mozgáskorlátozott személynek is,
+## 4/A. §[^27] A hivatal az alábbi feltételek együttes fennállása esetén szerzési támogatásra való jogosultságot állapíthat meg annak a súlyos mozgáskorlátozott személynek is,
 
 a) aki a szakértői bizottság véleménye szerint gépjármű vezetésére alkalmatlan,
 
@@ -8,4 +8,4 @@ c) akinek a gépjármű használata munkaviszonya vagy tanulói jogviszonya fenn
 
 d) akinek a szállítását érvényes vezetői engedéllyel rendelkező, vele legalább egy éve közös háztartásban élő, nagykorú gyermeke, testvére írásbeli nyilatkozatban vállalja.
 
-[^26]: A 4/A. §-t a 214/1997. (XII. 1.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^27]: A 4/A. §-t a 214/1997. (XII. 1.) Korm. rendelet 2. §-a iktatta a szövegbe.
