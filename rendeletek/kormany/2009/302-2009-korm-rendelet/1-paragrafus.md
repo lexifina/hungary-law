@@ -1,4 +1,4 @@
-1. §[^1] (1) A közúti közlekedésről szóló törvény szerinti vizsgáló állomás engedélyezése iránti kérelmet a kérelmező székhelye szerint illetékes közlekedési hatóság bírálja el.
+1. § (1)[^1] A közúti közlekedésről szóló törvény szerinti vizsgáló állomás engedélyezése iránti kérelmet a közlekedési hatóság bírálja el.
 
 (2) Az engedély iránti kérelemnek – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
 
@@ -20,4 +20,4 @@ c) a kérelmező nyilatkozatát arról, hogy a tevékenysége engedélyezése es
 
 d) a kérelmező minőségirányítási kézikönyvének egy példányát.
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 267. §-a szerint módosított szöveg.

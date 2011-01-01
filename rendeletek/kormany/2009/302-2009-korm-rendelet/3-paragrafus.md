@@ -1,4 +1,4 @@
-## 3. §[^3] A vizsgáló állomással a közúti közlekedésről szóló törvény alapján kötendő hatósági szerződésnek tartalmaznia kell:
+## 3. § A vizsgáló állomással a közúti közlekedésről szóló törvény alapján kötendő hatósági szerződésnek tartalmaznia kell:
 
 a) az eljáró hatóság megnevezését, a Magyar Államkincstárnál vezetett számlaszámát, az ügy számát, valamint ügyintézőjének és képviselőjének a nevét,
 
@@ -31,5 +31,3 @@ n) a szerződésszegésnek minősülő magatartásokat és azok jogkövetkezmén
 o) a tevékenység ellenőrzésének gyakoriságát és rendjét, valamint
 
 p) a vizsgáló állomás nyilatkozatát arról, hogy valamennyi e rendelet alapján a szerződésben foglalt kötelezettség tekintetében aláveti magát a szerződésszegés közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti következményeinek.
-
-[^3]: A 3. § a 4. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.

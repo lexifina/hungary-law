@@ -1,3 +1,3 @@
-5. §[^4]
+5. §[^3]
 
-[^4]: Az 5. §-t a (3) bekezdés hatályon kívül helyezte.
+[^3]: Az 5. §-t a (3) bekezdés hatályon kívül helyezte.
