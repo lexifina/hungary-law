@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-35-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 2000-35-20-83.3 | 35/2000. (X. 18.) GM rendelet |
+| 2011-01-01 | 2000-35-20-83.4 | 27/2010. (XII. 31.) NGM rendelet |
