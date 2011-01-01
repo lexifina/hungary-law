@@ -38,13 +38,13 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 3. Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek
 
-1. Hagyatéki ügyek, 2. Értékpapír-, és okirat semmissé nyilvánítási ügy, 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 9/c. Gyermek nevéről szóló utólagos nyilatkozat bejegyzése, 10. Végrehajtás elrendelése a közjegyző által jóváhagyott egyezség és közjegyzői okirat alapján 11. Összesen
+1. Hagyatéki ügy 2. Értékpapír- és okirat semmissé nyilvánítási ügy 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 10. Európai fizetési meghagyásos ügy 11. Összesen
 
-0M16399_2
+0M32128_2
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
-| a | b | c |
+| a | b |
 
 | Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -60,7 +60,7 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 | 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Jogerőre emelkedett |  |  |  |  |  |  |  |  |  |  |  |  |
+| Jogerőre emelkedett nemperes ügyek/végrehajthatóvá nyilvánított európai fizetési meghagyásos ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -80,9 +80,9 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 | Meghiúsult ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A befejezett ügyekben az eljárás időtartama * |
+| Az európai fizetési meghagyásos ügyekben érkezett ellentmondások száma |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
+| A befejezett ügyekben az eljárás időtartama: | 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 3–6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -94,7 +94,7 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 * A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve.
 
-4. Végrehajtás elrendelése iránti ügyek (kivéve fizetési meghagyásos ügyek és fizetési meghagyás alapján végrehajtás elrendelése és biztosítási intézkedés elrendelése iránti ügyek)
+4. Végrehajtás elrendelése iránti ügyek – kivéve fizetési meghagyásos ügyek és fizetési meghagyás alapján végrehajtás elrendelése és biztosítási intézkedés elrendelése iránti ügyek
 
 | Az eljárás tárgya | Pénzkövetelés | Meghatározott cselekmény | Összesen |
 
@@ -102,48 +102,40 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 | Az érkezett ügyek száma | ebből | új ügyként érkezett |  |  |  |
 
-|  |  | újra megindult |  |  |  |
+| újra megindult |  |  |  |
 
-|  |  | összesen |  |  |  |
+| összesen |  |  |  |
+
+| ebből európai fizetési meghagyás végrehajtás elrendelése iránti ügyek |  |  |  |
 
 | A befejezett ügyek száma | befejezés módja | végrehajtási lap |  |  |  |
 
-|  |  | végrehajtási záradék |  |  |  |
+| végrehajtási záradék |  |  |  |
 
-|  |  | megtagadás |  |  |  |
+| megtagadás |  |  |  |
 
-|  |  | elutasítás |  |  |  |
+| elutasítás |  |  |  |
 
-|  |  | megszüntetés |  |  |  |
+| megszüntetés |  |  |  |
 
-|  |  | egyéb |  |  |  |
+| egyéb (pl. tanúsítvány európai fizetési meghagyásos ügyekben) |  |  |  |
 
-|  |  | összesen |  |  |  |
+| összesen |  |  |  |
+
+| A hónap végén folyamatban maradt ügyek száma |  |  |  |
 
 | Az ügyekből | megyei bírósági | végrehajtónak átadva |  |  |  |
 
 | önálló bírósági |  |  |  |
 
-| A hónap végén folyamatban maradt ügyek száma |  |  |  |
-
 | A főkövetelés összege az érkezett végrehajtási kérelmekben összesen (Ft)* |  |
 
 | A főkövetelés összege az elrendelt végrehajtási ügyekben (Ft)* |  |
 
-| A főkövetelés összege a megyei végrehajtónak átadott ügyekben (Ft)* |  |
+| A főkövetelés összege a megyei bírósági végrehajtónak átadott ügyekben (Ft)* |  |
 
-| A pénzkövetelés összege az önálló végrehajtónak átadott ügyekben (Ft)* |  |
+| A főkövetelés összege az önálló bírósági végrehajtónak átadott ügyekben (Ft)* |  |
 
 * Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
-közjegyző neve:
-
-székhelye:
-
-Kelt, .................., ....... év ......... hó .... nap.
-
-...................................
-
-közjegyző
-
-[^92]: Az 5. számú melléklet a 28/2010. (V. 12.) IRM rendelet 42. § (2) bekezdésével megállapított szöveg.
+[^92]: Az 5. számú melléklet a 28/2010. (XII. 31.) KIM rendelet 1. §-ával megállapított szöveg.
