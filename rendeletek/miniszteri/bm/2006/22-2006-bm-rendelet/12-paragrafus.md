@@ -6,6 +6,6 @@
 
 ## „5. A szakmai tanfolyamszervező vállalkozások a szakképzési szerződés megkötésekor kötelesek tájékoztatni a jelentkezőket a személy- és vagyonőri tevékenységre jogosító igazolvány kiadásának feltételeiről – különösen az SzVMt. 6. §-ának (3) bekezdésében foglaltakról – és meggyőződni arról, hogy azokat a jelentkező tudomásul vette.”
 
-## Az Európai Unió jogának való megfelelés[^9]
+## Az Európai Unió jogának való megfelelés[^10]
 
-[^9]: Az újabb 12. §-t megelőző címet a 25/2007. (V. 31.) IRM rendelet 30. § (3) bekezdése iktatta be.
+[^10]: Az újabb 12. §-t megelőző címet a 25/2007. (V. 31.) IRM rendelet 30. § (3) bekezdése iktatta be.
