@@ -24,11 +24,11 @@
 
 ## * Az igazolás letölthető: www.pm.gov.hu
 
-8. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^98]
+8. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^101]
 
 ## ADATLAP
 
-könyvviteli szolgáltatást végzők kötelező továbbképzésének teljesítéséről[^99]
+könyvviteli szolgáltatást végzők kötelező továbbképzésének teljesítéséről[^102]
 
 Az adatlap kötelező tartalmi elemei a következők:
 
@@ -44,7 +44,7 @@ d) Témafelelős neve
 
 e) Témafelelős telefonszáma
 
-f)[^100] Résztvevők adatai
+f)[^103] Résztvevők adatai
 
 – sorszám
 
@@ -60,9 +60,9 @@ f)[^100] Résztvevők adatai
 
 – nyilvántartásban szereplő címe (irányítószám, helység, utca, házszám)
 
-2–4.[^101]
+2–4.[^104]
 
-[^98]: A 8. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése és a 182/2009. (IX. 10.) Korm. rendelet 273. § (2) bekezdésének c) pontja szerint módosított 7. számú melléklete iktatta be.
-[^99]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
-[^100]: A 8. számú melléklet 1. pont f) alpontja a 307/2009. (XII. 28.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^101]: A 8. számú melléklet 2–4. pontját a 307/2009. (XII. 28.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^101]: A 8. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése és a 182/2009. (IX. 10.) Korm. rendelet 273. § (2) bekezdésének c) pontja szerint módosított 7. számú melléklete iktatta be.
+[^102]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
+[^103]: A 8. számú melléklet 1. pont f) alpontja a 307/2009. (XII. 28.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^104]: A 8. számú melléklet 2–4. pontját a 307/2009. (XII. 28.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.

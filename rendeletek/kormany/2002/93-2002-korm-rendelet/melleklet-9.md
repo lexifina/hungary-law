@@ -1,8 +1,8 @@
-9. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^102]
+9. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^105]
 
 ADATLAP
 
-a könyvviteli szolgáltatást végzők továbbképzéséről készített értékelőlapok összesítéséhez[^103]
+a könyvviteli szolgáltatást végzők továbbképzéséről készített értékelőlapok összesítéséhez[^106]
 
 Az adatlap kötelező tartalmi elemei a következők:
 
@@ -60,5 +60,5 @@ j) Szervezés értékelése 1-től 5-ig terjedő skálán
 
 k) Szöveges értékelés, észrevételek, javaslatok összefoglalása
 
-[^102]: A 9. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^103]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
+[^105]: A 9. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^106]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu

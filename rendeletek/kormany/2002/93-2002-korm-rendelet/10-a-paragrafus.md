@@ -1,8 +1,8 @@
-10/A. §[^50] (1) Az akkreditációs eljárás a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezet (a továbbiakban: szervezet) kérelmére indul. A kérelmet a 4. számú mellékletben meghatározott tartalommal, a (7) bekezdésben felsorolt mellékletekkel együtt kell legkésőbb a továbbképzési évet megelőző év november 30-áig a pénzügyminiszternek benyújtani.
+10/A. §[^52] (1) Az akkreditációs eljárás a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezet (a továbbiakban: szervezet) kérelmére indul. A kérelmet a 4. számú mellékletben meghatározott tartalommal, a (7) bekezdésben felsorolt mellékletekkel együtt kell legkésőbb a továbbképzési évet megelőző év november 30-áig a pénzügyminiszternek benyújtani.
 
 (2) Az akkreditációs eljárás annak megállapítására irányul, hogy a szervezet megfelel-e az e rendeletben meghatározott feltételeknek.
 
-(3) A pénzügyminiszter az akkreditáció iránti kérelmek elbírálása során ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben meghatározott követelményeknek, és szükség esetén hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívás közlésétől számított 5 munkanapig van lehetősége.
+(3)[^53] A pénzügyminiszter az akkreditáció iránti kérelmek elbírálása során ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben meghatározott követelményeknek, és szükség esetén hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívás közlésétől számított nyolc napig van lehetősége.
 
 (4) Akkreditációt az a felnőttképzési tevékenység folytatására jogosult szervezet kaphat, amely
 
@@ -58,4 +58,5 @@ g) nem az e rendeletben előírt további feltételek szerint jár el.
 
 (15) Ha a szervezet nem csatolja a (6) bekezdés a) pontjában, valamint a (7) bekezdés a) pontjában foglaltak igazolására szolgáló dokumentumokat, a pénzügyminiszter megkeresi az adatokról nyilvántartást vezető hatóságot az adatok megszerzése érdekében.
 
-[^50]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A 10/A. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
