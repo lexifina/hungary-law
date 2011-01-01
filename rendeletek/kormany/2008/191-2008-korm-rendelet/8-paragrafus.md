@@ -8,8 +8,10 @@
 
 (4) Meghívásos pályázat esetén a pályázatot olyan szolgáltató támogatására is be lehet nyújtani, amely nem felel meg az 5. § (2) bekezdése szerinti feltételeknek. Ebben az esetben a pályázathoz csatolni kell a fenntartó nyilatkozatát arról, hogy vállalja a megfelelő jogerős működési engedélynek a pályázati kiírásban meghatározott időpontig történő megszerzését.
 
-(5) Az FSZH a döntés meghozatala előtt – a szolgáltatások területi lefedettsége, illetve a megfelelő minőségű és kapacitású szolgáltatások kialakítása érdekében – valamennyi pályázóval egyeztet, és javaslatot tehet a pályázóknak egyes pályázatban vállalt feladatok, feladatmutatók, illetve az ellátási terület módosítására. Az egyeztetés során a pályázati felhívás egyes feltételei a minisztérium jóváhagyásával módosíthatóak, amelyről valamennyi pályázót haladéktalanul értesíteni kell, és megfelelő határidőt kell számukra biztosítani pályázatuk módosítására.
+(5)[^39] A Hivatal a döntés meghozatala előtt – a szolgáltatások területi lefedettsége, illetve a megfelelő minőségű és kapacitású szolgáltatások kialakítása érdekében – valamennyi pályázóval egyeztet, és javaslatot tehet a pályázóknak egyes pályázatban vállalt feladatok, feladatmutatók, illetve az ellátási terület módosítására. Az egyeztetés során a pályázati felhívás egyes feltételei a minisztérium jóváhagyásával módosíthatóak, amelyről valamennyi pályázót haladéktalanul értesíteni kell, és megfelelő határidőt kell számukra biztosítani pályázatuk módosítására.
 
 (6) Az egyeztetésről jegyzőkönyvet kell felvenni, amely tartalmazza az egyeztetésen elhangzott lényeges megállapításokat. A jegyzőkönyv nyilvános, abba bárki betekinthet.
 
 (7) A meghívásos pályázatra egyebekben a 4–7. § rendelkezéseit kell megfelelően alkalmazni.
+
+[^39]: A 8. § (5) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés c) pontja szerint módosított szöveg.
