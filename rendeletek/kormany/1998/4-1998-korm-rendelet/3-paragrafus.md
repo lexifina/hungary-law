@@ -4,15 +4,15 @@
 
 (3)[^11] A fegyvert, lőszert, robbanóanyagot vagy egyéb veszélyes anyagot szállító, a rádiótechnikai zavaró, illetve optikai vagy földtani leképező berendezéssel felszerelt külföldi állami légijármű magyar légtérbe való berepüléséhez csak egyszeri berepülési engedély adható ki.
 
-(4)[^12] A külpolitikáért felelős miniszter az (1) vagy (2) bekezdés szerinti kérelmet – hozzájárulása esetén – haladéktalanul, de legkésőbb a kérelem beadását követő második munkanapon elektronikus úton vagy telefaxon továbbítja az NKH Légiközlekedési Igazgatóságának. A légiközlekedésről szóló törvény 7. § (1) bekezdésében meghatározott hozzájárulás megadása érdekében az NKH Légiközlekedési Igazgatósága a kérelmet elektronikus úton vagy telefaxon haladéktalanul megküldi az Információs Hivatalnak, a Nemzetbiztonsági Hivatalnak, a Katonai Biztonsági Hivatalnak és a Katonai Felderítő Hivatalnak.
+(4)[^12] A külpolitikáért felelős miniszter az (1) vagy (2) bekezdés szerinti kérelmet – hozzájárulása esetén – haladéktalanul, de legkésőbb a kérelem beadását követő második munkanapon elektronikus úton vagy telefaxon továbbítja a légiközlekedési hatóságnak. A légiközlekedésről szóló törvény 7. § (1) bekezdésében meghatározott hozzájárulás megadása érdekében a légiközlekedési hatóság a kérelmet elektronikus úton vagy telefaxon haladéktalanul megküldi az Információs Hivatalnak, a Nemzetbiztonsági Hivatalnak, a Katonai Biztonsági Hivatalnak és a Katonai Felderítő Hivatalnak.
 
-(4a)[^13] A légiközlekedésről szóló törvény 7. § (1) bekezdésében meghatározott hozzájárulást a kérelem kézhezvételétől számított két munkanapon belül elektronikus úton vagy telefaxon kell az NKH Légiközlekedési Igazgatóságának megküldeni.
+(4a)[^13] A légiközlekedésről szóló törvény 7. § (1) bekezdésében meghatározott hozzájárulást a kérelem kézhezvételétől számított két munkanapon belül elektronikus úton vagy telefaxon kell a légiközlekedési hatóságnak megküldeni.
 
 (4b)[^14] Az engedély akkor adható meg, ha ahhoz az Információs Hivatal, a Nemzetbiztonsági Hivatal, a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal a légiközlekedésről szóló törvény 7. §-a szerint hozzájárult. A hozzájárulást megadottnak kell tekinteni, ha a hozzájárulás megadása tárgyában az arra jogosult hatóság határidőben nem nyilatkozik.
 
-(4c)[^15] Az NKH Légiközlekedési Igazgatósága az engedély megadásáról vagy annak megtagadásáról haladéktalanul – de legkésőbb a hozzájárulások megadását, megtagadását, vagy a hozzájárulás megadására nyitva álló határidő lejártát követő napon – értesíti a külpolitikáért felelős minisztert.
+(4c)[^15] A légiközlekedési hatóság az engedély megadásáról vagy annak megtagadásáról haladéktalanul – de legkésőbb a hozzájárulások megadását, megtagadását, vagy a hozzájárulás megadására nyitva álló határidő lejártát követő napon – értesíti a külpolitikáért felelős minisztert.
 
-(5)[^16] A kiadott hozzájárulások alapján a berepülési engedélyt az NKH Légiközlekedési Igazgatósága adja ki, és azt a Külügyminisztérium útján közli az engedély iránti kérelmet benyújtó ügyféllel.
+(5)[^16] A kiadott hozzájárulások alapján a berepülési engedélyt a légiközlekedési hatóság adja ki, és azt a Külügyminisztérium útján közli az engedély iránti kérelmet benyújtó ügyféllel.
 
 (6)[^17] Az engedélyes az állami repülések céljára szolgáló repülőtéren tervezett leszálláshoz a repülés napját megelőzően legalább öt munkanappal a Magyar Honvédség Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) hozzájárulását kéri. A kérelemnek tartalmaznia kell a légijármű típusát, lajstromjelét és hívójelét, az állami repülések céljára szolgáló repülőtéren történő leszállás és az onnan való indulás tervezett időpontját és a repülés célját. A hozzájárulás megadásáról, illetve megtagadásáról az MH ÖHP két munkanapon belül dönt.
 
@@ -23,11 +23,11 @@
 [^9]: A 3. § (1) bekezdése a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 134. §-a, a 89/2010. (III. 26.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
 [^10]: A 3. § új (2) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatva. A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 134. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^11]: A 3. § (3) bekezdése a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (3) bekezdésével megállapított szöveg.
-[^12]: A 3. § eredeti (2) bekezdésének számozását a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 89/2010. (III. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^13]: A 3. § (4a) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 3. § eredeti (2) bekezdésének számozását a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 89/2010. (III. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 47. § b) és c) pontja szerint módosított szöveg.
+[^13]: A 3. § (4a) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
 [^14]: A 3. § (4b) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: A 3. § (4c) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^16]: A 3. § (5) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A 3. § (4c) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
+[^16]: A 3. § (5) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
 [^17]: A 3. § (6) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 134–135. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^18]: A 3. § (7) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta a szövegbe.
 [^19]: A 3. § (8) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta a szövegbe.
