@@ -4,4 +4,4 @@ a) akitől a személyi jogot visszavonták, a visszavonásról rendelkező hatá
 
 b) aki büntetett előéletű vagy a gyógyszerész foglalkozástól eltiltás hatálya alatt áll.
 
-(2) A személyi jogról az egészségügyi államigazgatási szervhez tett írásbeli bejelentéssel lehet lemondani. A személyi jog alapján működtetett közforgalmú gyógyszertár működése a lemondás bejelentésétől számított hat hónapon belül nem szüntethető meg, kivéve, ha a településen másik közforgalmú gyógyszertár kezdi meg a működését.
+(2) A személyi jogról az egészségügyi államigazgatási szervhez tett írásbeli bejelentéssel lehet lemondani. A személyi jog alapján működtetett közforgalmú gyógyszertár működése a lemondás bejelentésétől számított hat hónapon belül nem szüntethető meg, kivéve, ha a településen másik közforgalmú gyógyszertár működik vagy kezdi meg a működését.

@@ -1,6 +1,6 @@
-19. § (1) A gyógyszerek és a gyógyászati segédeszközök ismertetésének e törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén az eljárást az egészségügyi államigazgatási szerv folytatja le.
+19. § (1) A gyógyszerek és a gyógyászati segédeszközök ismertetésének e törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén az eljárást a gyógyszerészeti államigazgatási szerv folytatja le.
 
-(2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, az egészségügyi államigazgatási szerv
+(2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, a gyógyszerészeti államigazgatási szerv
 
 a) etikai eljárást kezdeményezhet a szakmailag illetékes etikai szervnél, ha ennek feltételei fennállnak,
 

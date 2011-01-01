@@ -1,0 +1,1 @@
+83/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény 79. §-ával megállapított 58. § (1) bekezdés e) pontjában és az 58. § (3)–(4) bekezdésében foglaltakat az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény hatálybalépését követően meghozott jogerős ítéletek vonatkozásában kell alkalmazni.

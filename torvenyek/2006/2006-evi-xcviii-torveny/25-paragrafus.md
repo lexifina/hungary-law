@@ -12,6 +12,6 @@ b) támogatási mértékének vagy összegének csökkentéséről dönt, a megv
 
 (5) Az egészségbiztosítási szerv a 23–25. §-ban szabályozott eljárására vonatkozó nyilvánosság biztosítása érdekében az internetes honlapján elektronikus úton közzéteszi
 
-a) a formai szempontból megfelelő kérelmet a kérelem beérkezését követő öt munkanapon belül, továbbá
+a) a formai szempontból megfelelő kérelmet a kérelem beérkezését követő nyolc napon belül, továbbá
 
 b) a kérelmezővel való közlésen túl – a külön jogszabály szerinti tájékoztató jellegű közzététellel – az ügyben hozott jogerős határozatot a kérelem elbírálását követő hónap 5. napjáig.

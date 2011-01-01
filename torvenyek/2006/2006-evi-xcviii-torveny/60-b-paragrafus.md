@@ -1,0 +1,1 @@
+60/B. § A személyi jog – az egészségügyi államigazgatási szerv engedélyével, és a gyógyszertárat működtető gazdasági társaság jóváhagyásával – személyi jogra e jogszabály alapján jogosult személynek átruházható, ebben az esetben a működési engedély módosításra kerül.

@@ -1,6 +1,6 @@
 77. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést ösztönző szabályokat,
+a) az egészségügyi szolgáltatók gyógyszerrendelésének értékelésére, annak szempontjaira, az ösztönző elemekre, a juttatásokra, azok feltételeire vonatkozó részletes szabályokat,
 
 b) a gyógyszertárak működőképességének fenntartásához nyújtandó támogatás megállapításának feltételeit,
 
@@ -26,7 +26,7 @@ d) a gyógyszertárak szolgálati rendjét,
 
 e) a gyógyszertárakban kötelezően készletben tartandó gyógyszerek körét,
 
-f) a gyógyszertár működtetéséhez szükséges helyiségekre, berendezésekre, felszerelésekre, eszközökre vonatkozó követelményeket,
+f) a gyógyszertár működtetéséhez szükséges személyi feltételeket, valamint a helyiségekre, berendezésekre, felszerelésekre, eszközökre vonatkozó követelményeket,
 
 g) a gyógyszertárak nyilvántartási, ügyviteli rendjét,
 
@@ -36,7 +36,7 @@ i) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható sz
 
 j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
 
-k) a minőségi és hatékony gyógyszerrendelés értékelésének alapjául szolgáló ATC-csoportokat és a célértéket,
+k) az egészségügyi szolgáltatók gyógyszerrendelése értékelésének alapjául szolgáló ATC-csoportokat, az értékelésre kerülő hatóanyagokat, a preferált megoszlási mutatókat, a célértékeket, és a felírt gyógyszerek mennyiségére vagy volumenére vonatkozó azon feltételeket, amelyek alapján a gyógyszerrendelés nem kerül értékelésre,
 
 l) a 24. § (4) bekezdésében, valamint a 33. § (6) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
 
@@ -46,7 +46,9 @@ n) az egészségbiztosítási szerv által működtetett internetes gyógyászat
 
 o) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait,
 
-p) az egyszerűsített támogatási jegyzékre vonatkozó részletes szabályokat, valamint az egyszerűsített támogatási jegyzékben szereplő funkcionális csoportba tartozó, és a háromhavi terápiás limit alapú támogatásban részesülő gyógyászati segédeszközök igénybevételének részletes szabályait.
+p) az egyszerűsített támogatási jegyzékre vonatkozó részletes szabályokat, valamint az egyszerűsített támogatási jegyzékben szereplő funkcionális csoportba tartozó, és a háromhavi terápiás limit alapú támogatásban részesülő gyógyászati segédeszközök igénybevételének részletes szabályait,
+
+q) a gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által vezetendő, a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét tartalmazó nyilvántartás tartalmára és a tájékoztatásra vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap az élelmiszerlánc-felügyeletért felelős miniszter, hogy
 
@@ -75,3 +77,5 @@ g) a szállító-előminősítésért
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a szociálpolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg a közgyógyellátásban ki nem szolgáltatható funkcionális csoportok körét.
+
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg a házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg által fizetett letéti díjához nyújtható támogatás szabályait.

@@ -1,0 +1,5 @@
+60/C. § (1) Ha a személyi jog az 59. § (1) bekezdés a) pontjában foglalt okból szűnik meg, akkor a korábbi személyi jog jogosultjának házastársa, gyermeke – ideértve örökbe fogadott, mostoha- vagy nevelt gyermekét is – vagy felmenője erre irányuló kérelem esetén személyi jog jogosultjává válik, amennyiben megfelel az 56. §-ban foglalt feltételeknek.
+
+(2) Amennyiben az (1) bekezdés szerint több, az 56. §-ban meghatározott feltételeknek megfelelő személy lenne jogosult a személyi jogra, e jogosultak a korábbi jogosult személyi jogról történő lemondásától, illetve halálától számított negyvenöt napon belül nyújthatnak be megállapodást az egészségügyi államigazgatási szervhez, amelyben megjelölik a személyi jogot megszerző személyt.
+
+(3) Amennyiben a korábbi személyi jog jogosultjának házastársa vagy gyermeke nem felel meg az 56. §-ban foglalt feltételeknek, azonban valamelyikük gyógyszerész egyetemi hallgató, vagy gyógyszerész oklevéllel rendelkezik, úgy a gyógyszertár felelős vezető alkalmazásával működtethető a személyi jog megszerzéséhez szükséges az 56. §-ban foglalt feltételek teljesítéséig.

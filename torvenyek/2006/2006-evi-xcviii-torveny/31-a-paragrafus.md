@@ -1,1 +1,1 @@
-31/A. § A házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg általi használatára a beteg és a forgalmazó között szerződést kell kötni, amelyre a Polgári Törvénykönyvről szóló törvény haszonkölcsön szerződésre vonatkozó rendelkezéseit kell alkalmazni.
+31/A. § A házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg által fizetett letéti díjához az egészségbiztosítási szerv az egészségbiztosításért felelős miniszteri rendelet szerinti támogatást nyújthat.

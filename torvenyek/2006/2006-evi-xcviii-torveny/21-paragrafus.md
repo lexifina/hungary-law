@@ -29,3 +29,5 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 (10) Az egészségügyi államigazgatási szerv a gyógyászati segédeszköz nagy- és kiskereskedelmi tevékenységet folytató forgalmazó működési engedélyét visszavonja, ha az ellenőrzése során azt állapítja meg, hogy a gyógyászati segédeszközök forgalmazására vonatkozó előírásokat ismételten és súlyosan megsérti.
 
 (11) Az egészségbiztosítási szerv a társadalombiztosítási támogatásba befogadott gyógyszer, tápszer és gyógyászati segédeszköz esetében forgalmazására vonatkozó előírásokat állapíthat meg a folyamatos és biztonságos ellátás érdekében.
+
+(12) A gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet köteles a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét folyamatosan követő, az egészségügyért felelős miniszter rendelete szerinti nyilvántartást vezetni. Köteles továbbá a fennálló pénzügyi kötelezettségekről rendszeresen tájékoztatni az érintett gyógyszertárakat.

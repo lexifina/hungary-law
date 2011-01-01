@@ -1,6 +1,6 @@
 ## A gyógyszerrel, illetve gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó szabályok
 
-17. § (1) Az embergyógyászati célra szánt, gyógyszertárból vény nélkül is kiadható gyógyszerek, továbbá a támogatással nem rendelhető gyógyászati segédeszközök reklámozása megengedett, ha a reklám:
+17. § (1) Az embergyógyászati célra szánt, gyógyszertárból vény nélkül is kiadható és társadalombiztosítási támogatásban nem részesülő gyógyszerek, továbbá a támogatással nem rendelhető gyógyászati segédeszközök reklámozása megengedett, ha a reklám:
 
 a) egyértelműen meghatározza, hogy a reklámozott termék gyógyszer, illetve gyógyászati segédeszköz,
 
@@ -34,15 +34,9 @@ h) annak képzetét kelti, hogy a gyógyszer vagy a gyógyászati segédeszköz 
 
 (3) A vény nélkül is kiadható gyógyszerek, illetve társadalombiztosítási támogatásban nem részesülő gyógyászati segédeszközök olyan reklámjára, amely kizárólag a gyógyszer vagy gyógyászati segédeszköz nevét és gyártójának nevét vagy védjegyét tartalmazza (emlékeztető reklám), az (1) bekezdés nem alkalmazandó. A gyógyszer vagy gyógyászati segédeszköz emlékeztető reklámja kizárólag rádióban vagy televízióban, ugyanazon reklám-összeállításon belül, e § (1)–(2) bekezdésének megfelelő reklám megjelenését követően tehető közzé.
 
-(4) Tilos a gyógyszertárból kizárólag orvosi vényre kiadható, társadalombiztosítási támogatásba befogadott gyógyszerek, továbbá a társadalombiztosítási támogatással rendelhető gyógyászati segédeszközök reklámozása.
+(4) Tilos a gyógyszertárból kizárólag orvosi vényre kiadható vagy társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek, továbbá a társadalombiztosítási támogatással rendelhető gyógyászati segédeszközök reklámozása.
 
-(5) A (4) bekezdésben foglalt tilalom nem vonatkozik – az egészségnevelési célú – az egészségügyi államigazgatási szerv által egyedileg engedélyezett
-
-a) védőoltási programokat népszerűsítő kampányokra,
-
-b) a dohányzásról történő leszokást támogató kampányokra,
-
-valamint az a) és b) pontokhoz kapcsolódó gyógyszerekről szóló tájékoztatásra.
+(5) A (4) bekezdésben foglalt tilalom nem vonatkozik – az egészségnevelési célú – az egészségügyi államigazgatási szerv által egyedileg engedélyezett védőoltási programokat népszerűsítő kampányokra, valamint az ezekhez kapcsolódó gyógyszerekről szóló tájékoztatásra.
 
 (6) Tilos közzétenni
 
@@ -62,4 +56,4 @@ g) olyan gyógyászati segédeszköz reklámját, amely a társadalombiztosítá
 
 (7)
 
-(8) A külön jogszabály szerinti minta kivételével tilos a betegnek, fogyasztónak olyan ajándék, minta, vásárlásra jogosító utalvány (kupon) akár közvetlenül, akár az orvos, illetve a gyógyszert, gyógyászati segédeszközt kiszolgáltató által történő adása, felajánlása, amely egy adott gyógyszer, egy adott gyógyszergyár termékei vagy a társadalombiztosítás által támogatott gyógyászati segédeszköz fogyasztására, használatára ösztönöz, vagy azt feltételül szabja.
+(8) Az egészségügyért felelős miniszter rendelete szerinti minta kivételével tilos a betegnek, fogyasztónak olyan ajándék, minta, vásárlásra jogosító utalvány (kupon) akár közvetlenül, akár az orvos, illetve a gyógyszert, gyógyászati segédeszközt kiszolgáltató által történő adása, felajánlása, amely egy adott gyógyszer, egy adott forgalomba hozatali engedély jogosult termékei vagy a társadalombiztosítás által támogatott gyógyászati segédeszköz fogyasztására, használatára ösztönöz, vagy azt feltételül szabja. Tilos továbbá a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök beteg által fizetendő térítési díjának a kiszolgáltató által bármilyen közvetlen vagy közvetett formában (ajándék, minta, vásárlásra jogosító utalvány, kupon, pontgyűjtés alapú kedvezmény útján vagy más hasonló módon) történő csökkentése, átvállalása, elengedése, vagy ahhoz bármilyen előnyök kötése. A társadalombiztosítási támogatással nem rendelhető gyógyszerek kiszolgáltatása esetén adott bármilyen kedvezmény – az árkedvezmény kivételével – kizárólag a gyógyszertárban nyújtott gyógyszerészi gondozás igénybevételére használható fel.

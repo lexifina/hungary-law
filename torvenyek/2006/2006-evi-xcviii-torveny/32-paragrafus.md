@@ -1,6 +1,6 @@
-32. § (1) A gyógyászati segédeszközök támogatásával kapcsolatos eljárások kérelemre vagy hivatalból indulnak.
+32. § (1) A gyógyászati segédeszközök támogatásával kapcsolatos eljárások kérelemre, bejelentésre vagy hivatalból indulnak.
 
-(2) A kérelem
+(2) A kérelem vagy a bejelentés
 
 a) még be nem fogadott gyógyászati segédeszközök
 
@@ -16,7 +16,7 @@ bb) kölcsönzési napidíjának csökkentésére azon termék esetében, amely 
 
 bc) más funkcionális csoportban (alcsoportban) történő támogatására,
 
-bd) nevének külön jogszabály szerinti megváltoztatására,
+bd) nevének megváltoztatására,
 
 be) közfinanszírozás alapjául szolgáló árának csökkentésére,
 
@@ -24,11 +24,11 @@ bf) közfinanszírozás alapjául szolgáló árának emelésére,
 
 bg) támogatásból való törlésére,
 
-bh) külön jogszabály szerinti méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására
+bh) méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására
 
 irányulhat.
 
-(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag az egészségbiztosítási szerv 32/B. § szerinti szállítójegyzékében szereplő minősített forgalomba hozó nyújthatja be az egészségbiztosítási szervhez.
+(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag az egészségbiztosítási szerv 32/B. § szerinti szállítójegyzékében szereplő minősített forgalomba hozó nyújthatja be az egészségbiztosítási szervhez. A (2) bekezdés b) pont bb), be) és bg) alpontja szerinti bejelentést a gyógyászati segédeszköz forgalomba hozója teheti meg.
 
 (4) Az egészségbiztosítási szerv
 
@@ -40,7 +40,7 @@ ba) kérelmében az adott funkcionális csoportba (alcsoportba) már befogadott,
 
 bb) kérelméhez legalább 100 betegre kiterjedő, Magyarországon végzett klinikai vizsgálat evidenciáit csatolja.
 
-(5) Az egészségbiztosítási szerv a (2) bekezdés bd) és bh) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján egyszerűsített eljárásban, a kérelem benyújtását követő 30 napon belül határozatban dönt.
+(5) Az egészségbiztosítási szerv a (2) bekezdés bd) és bh) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján egyszerűsített eljárásban, a kérelem megérkezését követő naptól számított 30 napon belül határozatban dönt.
 
 (6) A támogatott gyógyászati segédeszköz forgalomba hozójának a (2) bekezdés bb), be) és bg) alpontja esetében bejelentési kötelezettsége van. Az egészségbiztosítási szerv e bejelentéseket a külön jogszabályban foglalt feltételek szerint a bejelentést követő 15 napon belül közzéteszi.
 
@@ -80,11 +80,11 @@ l) az eszköz beteg által fizetendő térítési díját.
 
 (10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi:
 
-a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő tizenöt munkanapon belül, továbbá
+a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő huszonegy napon belül, továbbá
 
-b) az ügyben hozott jogerős határozatát az ügy elbírálását követő tíz munkanapon belül.
+b) az ügyben hozott jogerős határozatát az ügy elbírálását követő tizenöt napon belül.
 
-(11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz valamennyi, az egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozója vagy meghatalmazott képviselője kizárólag közösen nyújthat be külön jogszabály szerinti csoportos kérelmet az eszköz típusára vonatkozóan. Az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait e törvénnyel összhangban külön jogszabály tartalmazza.
+(11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozói vagy meghatalmazott képviselői kizárólag csoportosan nyújthatnak be kérelmet vagy tehetnek bejelentést az eszköz típusára vonatkozóan. A csoportos kérelemhez, bejelentéshez a támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozók vagy meghatalmazott képviselőik legalább felének csatlakoznia kell. A csoportos kérelem alapján született döntés valamennyi a kérelemmel, bejelentéssel érintett eszköz támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozóra kiterjed.
 
 (12) A (11) bekezdés szerinti kérelmet csak a (2) bekezdés aa), be), bf), bg) alpontjai tárgyában lehet az egészségbiztosítási szervhez benyújtani.
 

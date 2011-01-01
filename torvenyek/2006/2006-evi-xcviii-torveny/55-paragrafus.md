@@ -1,8 +1,8 @@
 ## Gyógyszerellátási garanciák
 
-55. § (1) Gyógyszert a betegek, fogyasztók, orvosok, valamint állatorvosok részére – ha jogszabály másként nem rendelkezik – gyógyszertárak szolgáltathatnak ki.
+55. § (1)
 
-(2) A gyógyszertár a betegforgalom számára nyitva álló helyiségében, illetve – amennyiben ilyennel rendelkezik – honlapján köteles tájékoztató rendszert működtetni vagy már működő elektronikus tájékoztató rendszerhez a díjmentes hozzáférést biztosítani. A tájékoztatónak alkalmasnak kell lenni az egymással helyettesíthető gyógyszerek, illetve gyógyászati segédeszközök esetében a gyógyszertárban forgalmazott azonos funkcionális csoportba tartozó termékek árainak összehasonlítására, valamint, hogy a vásárló, fogyasztó – a vény nélküli gyógyszerek esetében – a gyógyszer alkalmazásával kapcsolatos információkhoz a vásárlásról szóló döntését megelőzően is hozzájuthasson. Fogyatékos személyek, illetve segítségre szorulók számára az alkalmazáshoz szükséges információk megszerzéséhez a gyógyszer kiszolgáltatója segítséget nyújt.
+(2) A gyógyszertár – a kézigyógyszertár kivételével – a betegforgalom számára nyitva álló helyiségében, illetve – amennyiben ilyennel rendelkezik – honlapján köteles tájékoztató rendszert működtetni vagy már működő elektronikus tájékoztató rendszerhez a díjmentes hozzáférést biztosítani. A tájékoztatónak alkalmasnak kell lennie az egymással helyettesíthető gyógyszerek, illetve gyógyászati segédeszközök esetében a gyógyszertárban forgalmazott azonos funkcionális csoportba tartozó termékek árainak összehasonlítására, valamint arra, hogy a vásárló, beteg – a vény nélküli gyógyszerek esetében – a gyógyszer alkalmazásával kapcsolatos információkhoz a vásárlásról szóló döntését megelőzően is hozzájuthasson. Fogyatékos személyek, illetve segítségre szorulók számára az alkalmazáshoz szükséges információk megszerzéséhez a gyógyszer kiszolgáltatója segítséget nyújt.
 
 (3)
 
@@ -12,4 +12,4 @@
 
 (6) A gyógyszertár számára – az intézeti gyógyszertár kivételével – közfinanszírozott gyógyszer ellenérték nélkül nem adható, nem szállítható és nem ajánlható fel.
 
-(7) A gyógyszertárak működésének személyi és tárgyi feltételeit, ideérve a helyiségeinek, berendezésének, felszerelésének körét, szükséges mértékét, valamint az informatikai és nyilvántartási rendszerére vonatkozó követelményeket jogszabály állapítja meg. A közforgalmú gyógyszertár egyes magisztrális gyógyszerkészítési feladatainak ellátására másik közforgalmú gyógyszertárral megállapodást köthet. A megállapodást az egészségügyi államigazgatási szervnek be kell mutatni.
+(7) A gyógyszertárak működésének személyi és tárgyi feltételeit, ideérve a helyiségeinek, berendezésének, felszerelésének körét, szükséges mértékét, valamint az informatikai és nyilvántartási rendszerére vonatkozó követelményeket jogszabály állapítja meg.

@@ -10,7 +10,7 @@ a) a gyógyszer forgalomba hozatali engedélyének jogosultja, a gyógyszer forg
 
 b) az a) pontban meghatározottak megbízása alapján más gazdálkodó szervezet
 
-[az a) és b) pontban jelzettek a továbbiakban együtt: ismertetési tevékenységet folytató] ismertetési tevékenységet kíván folytatni, köteles az erre irányuló szándékát az egészségügyi államigazgatási szervnek bejelenteni.
+[az a) és b) pontban jelzettek a továbbiakban együtt: ismertetési tevékenységet folytató] ismertetési tevékenységet kíván folytatni, köteles az erre irányuló szándékát a gyógyszerészeti államigazgatási szervnek bejelenteni.
 
 (4) A (3) bekezdés szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmaznia kell:
 
@@ -24,7 +24,7 @@ d) a 13. § szerinti ismertető személy nyilatkozatát arról, hogy vele szembe
 
 e) a 13. § szerinti ismertető személy képzettségét igazoló oklevél számát és alap-nyilvántartási számát, ha az ismertetés külön jogszabály szerint meghatározott képzettséghez kötött.
 
-(5) A (3) bekezdés szerinti ismertetési tevékenységet folytató a bejelentésben részletezett adatokban történt változást haladéktalanul bejelenti az egészségügyi államigazgatási szervnek.
+(5) A (3) bekezdés szerinti ismertetési tevékenységet folytató a bejelentésben részletezett adatokban történt változást haladéktalanul bejelenti a gyógyszerészeti államigazgatási szervnek.
 
 (6) E § rendelkezéseit a gyógyszer és gyógyászati segédeszköz ismertetési tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
