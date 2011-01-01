@@ -1,0 +1,1 @@
+## 15. § Az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzat kihirdetéséről szóló 319/2007. (XII. 5.) Korm. rendelet 3. § (3) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.
