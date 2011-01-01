@@ -16,10 +16,12 @@ be) a ba)–bc) pontban említett személy igényjogosult hozzátartozója,
 
 c) a közlekedési szolgáltatónál szakmai gyakorlaton tanulószerződés vagy hallgatói szerződés alapján részt vevő szakképző iskolai tanuló, illetve felsőfokú szakképzésben részt vevő hallgató, valamint tanulószerződés nélkül a szorgalmi idő befejezését követő összefüggő szakmai gyakorlaton részt vevő szakképző iskolai tanuló,
 
-d) a közlekedésért felelős miniszter által vezetett minisztérium, a Nemzeti Közlekedési Hatóság Központi Hivatala, Kiemelt Ügyek Igazgatósága és Pályaalkalmassági Vizsgálat Igazgatósága, valamint a Közlekedésbiztonsági Szervezet köztisztviselője és ügykezelője, továbbá a Nemzeti Közlekedési Hatóság területi szerveinek hatósági feladatkörben eljáró köztisztviselője,
+d)[^2] a közlekedésért felelős miniszter által vezetett minisztérium, a Nemzeti Közlekedési Hatóság Központja, Közúti Gépjármű-közlekedési Hivatala és Útügyi, Vasúti és Hajózási Hivatala, valamint a Közlekedésbiztonsági Szervezet kormánytisztviselője és ügykezelője, továbbá a fővárosi és megyei kormányhivatalok közlekedési felügyelőségeinek hatósági feladatkörben eljáró kormánytisztviselője,
 
 e) az országos, térségi vagy elővárosi vasúti közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaságok, illetve azok jogelődjei és a helyközi közúti és helyi személyszállítási közszolgáltatást, valamint menetrend alapján vízi személyszállítási tevékenységet végző társaságok, illetve azok jogelődjei az általuk kötött, a jelen rendelet hatálybalépésekor hatályos viszonossági megállapodásokban jogosultként meghatározott személy
 
 részére díjmentes vagy kedvezményes utazás céljára a 2. §-ban foglalt feltételek mellett biztosítanak.
 
 (2) Az (1) bekezdés b) pont bd) és be) alpontjai alkalmazásában igényjogosult hozzátartozó a magánszeméllyel közös háztartásban élő házastárs, az élettárs, a bejegyzett élettárs, az eltartott gyermek (ideértve a mostoha, a nevelt és örökbe fogadott gyermeket is) 18 éves koráig, vagy nappali tagozatos iskolai tanulmányainak befejezéséig, vagy a családi pótlék folyósításának idejéig.
+
+[^2]: Az 1. § (1) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 269. §-ával megállapított szöveg.
