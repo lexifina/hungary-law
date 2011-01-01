@@ -78,7 +78,7 @@
 
 ## Alkalmassági vélemény a gépjárművezető-jelölt gépjárművezető egészségi alkalmasságról A.3510–265/N
 
-## Orvosi beutaló az Országos Rehabilitációs és Szociális Szakértői Intézethez, a munkaképesség-változás, a fogyatékosság véleményezése és a keresőképesség felülbírálata céljából A. 3510–90
+## Orvosi beutaló a Nemzeti Rehabilitációs és Szociális Hivatalhoz, a munkaképesség-változás, a fogyatékosság véleményezése és a keresőképesség felülbírálata céljából A. 3510–90
 
 ## Külön jogszabály szerinti adatlap a fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére
 
