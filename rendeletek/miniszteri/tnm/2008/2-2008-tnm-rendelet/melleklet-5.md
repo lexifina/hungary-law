@@ -6,7 +6,7 @@
 
 ## – az iparjogvédelem szerepe és jelentősége a gazdaságban, különös tekintettel az innovációra és a kutatás-fejlesztésre
 
-## 2. Nemzeti szabadalmi jog:
+## 2.[^22] Nemzeti szabadalmi jog:
 
 ## – a szabadalmi oltalom tárgya
 
@@ -30,7 +30,7 @@
 
 ## – a szabadalom megsemmisítése és korlátozása
 
-## – az MSZH eljárása szabadalmi ügyekben
+## – a Hivatal eljárása szabadalmi ügyekben
 
 ## – határidők, igazolások, képviselet, nyilvánosság
 
@@ -70,7 +70,7 @@
 
 ## – egyes fejlett ipari országok (USA, Japán) szabadalmi rendszere
 
-## 4. Használatiminta-oltalmi jog:
+## 4.[^23] Használatiminta-oltalmi jog:
 
 ## – a használatiminta-oltalom tárgya és tartalma
 
@@ -80,7 +80,7 @@
 
 ## – a mintaoltalom megszűnése
 
-## – az MSZH hatásköre és eljárása mintaoltalmi ügyekben
+## – a Hivatal hatásköre és eljárása mintaoltalmi ügyekben
 
 ## – a mintaoltalmi bejelentés vizsgálata
 
@@ -88,7 +88,7 @@
 
 ## – bírósági eljárás mintaoltalmi ügyekben és perekben
 
-## 5. Nemzeti védjegyjog és az egyéb árujelzők oltalma:
+## 5.[^24] Nemzeti védjegyjog és az egyéb árujelzők oltalma:
 
 ## – a védjegyoltalom tárgya
 
@@ -106,7 +106,7 @@
 
 ## – a védjegyoltalom megszűnése, lemondás a védjegyoltalomról, a védjegy törlése, megszűnés a használat hiánya miatt
 
-## – az MSZH hatásköre és eljárása védjegyügyekben, döntések, határidők, igazolások, képviselet, nyilvánosság
+## – a Hivatal hatásköre és eljárása védjegyügyekben, döntések, határidők, igazolások, képviselet, nyilvánosság
 
 ## – a védjegyügyek nyilvántartása, hatósági tájékoztatás
 
@@ -134,7 +134,7 @@
 
 ## – a közösségi védjegyrendszer, a Belső Piaci Harmonizációs Hivatal és a közösségi védjegyrendelet alapján lajstromozott közösségi védjegy
 
-## 7. Nemzeti, európai közösségi és nemzetközi formatervezésiminta-oltalmi jog:
+## 7.[^25] Nemzeti, európai közösségi és nemzetközi formatervezésiminta-oltalmi jog:
 
 ## – a formatervezésiminta-oltalom tárgya
 
@@ -148,7 +148,7 @@
 
 ## – a minta és a mintaoltalom bitorlása
 
-## – az MSZH eljárása mintaoltalmi ügyekben
+## – a Hivatal eljárása mintaoltalmi ügyekben
 
 ## – mintaoltalmi nyilvántartások, hatósági tájékoztatás
 
@@ -238,9 +238,9 @@
 
 ## – a szabadalmi ügyvivői működésre vonatkozó jogszabályi előírások
 
-5. számú melléklet a 2/2008. (VIII. 22.) TNM rendelethez
+5. számú melléklet a 2/2008. (VIII. 22.) TNM rendelethez[^26]
 
-Magyar Szabadalmi Hivatal
+Szellemi Tulajdon Nemzeti Hivatala
 
 Felnőttképzési nyilvántartási szám:
 
@@ -248,7 +248,7 @@ A bizonyítvány sorszáma:
 
 BIZONYÍTVÁNY
 
-A Magyar Szabadalmi Hivatal tanúsítja, hogy
+A Szellemi Tulajdon Nemzeti Hivatala tanúsítja, hogy
 
 ........................................,
 
@@ -274,8 +274,14 @@ Kelt Budapesten, .................................
 
 a vizsgabizottság elnöke
 
-az MSZH hivatalos bélyegzője
+a Szellemi Tulajdon Nemzeti Hivatala hivatalos bélyegzője
 
 __________
 
 * A megfelelő aláhúzandó.
+
+[^22]: A 4. számú melléklet 2. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^23]: A 4. számú melléklet 4. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^24]: A 4. számú melléklet 5. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^25]: A 4. számú melléklet 7. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^26]: Az 5. számú melléklet a 27/2010. (XII. 28.) KIM rendelet 15. § (8) bekezdése szerint módosított szöveg.

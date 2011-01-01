@@ -6,6 +6,8 @@
 
 (3) A középfokú iparjogvédelmi szakvizsga írásbeli és szóbeli részből áll.
 
-(4) Az alap- és középfokú iparjogvédelmi szakvizsgát a tanfolyam befejezését követően, legkésőbb hat hónapon belül kell letenni. A középfokú iparjogvédelmi szakvizsgát háromtagú vizsgabizottság előtt kell letenni. A vizsgabizottság tagjait és elnökét az MSZH elnöke kéri fel az iparjogvédelmi szakértelemmel vagy az iparjogvédelemmel kapcsolatos tevékenységi területen szakismerettel rendelkező személyek közül.
+(4)[^14] Az alap- és középfokú iparjogvédelmi szakvizsgát a tanfolyam befejezését követően, legkésőbb hat hónapon belül kell letenni. A középfokú iparjogvédelmi szakvizsgát háromtagú vizsgabizottság előtt kell letenni. A vizsgabizottság tagjait és elnökét a Hivatal elnöke kéri fel az iparjogvédelmi szakértelemmel vagy az iparjogvédelemmel kapcsolatos tevékenységi területen szakismerettel rendelkező személyek közül.
 
 (5) A vizsgázó kérheti a (4) bekezdésben meghatározott határidő lejártáig e határidő egy alkalommal, hat hónappal történő meghosszabbítását.
+
+[^14]: A 8. § (4) bekezdése a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.

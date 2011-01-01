@@ -24,7 +24,7 @@
 
 ## – bírósági eljárás szabadalmi ügyekben
 
-## 2. Védjegyjog:
+## 2.[^20] Védjegyjog:
 
 ## – a védjegyoltalom tárgya
 
@@ -32,7 +32,7 @@
 
 ## – védjegybitorlás
 
-## – az MSZH eljárása védjegyügyekben
+## – a Hivatal eljárása védjegyügyekben
 
 ## – a védjegy lajstromozására irányuló eljárás
 
@@ -42,7 +42,7 @@
 
 ## – a földrajzi árujelzők oltalma
 
-## 3. Formatervezésiminta- és használatiminta-oltalmi jog:
+## 3.[^21] Formatervezésiminta- és használatiminta-oltalmi jog:
 
 ## – a formatervezésiminta-oltalom tárgya és tartalma
 
@@ -50,7 +50,7 @@
 
 ## – a minta és a mintaoltalom bitorlása
 
-## – az MSZH eljárása mintaoltalmi ügyekben
+## – a Hivatal eljárása mintaoltalmi ügyekben
 
 ## – bírósági eljárás mintaoltalmi ügyekben és perekben
 
@@ -91,3 +91,6 @@
 ## – versenyjogi alapismeretek és jogesetek
 
 4. számú melléklet a 2/2008. (VIII. 22.) TNM rendelethez
+
+[^20]: A 3. számú melléklet 2. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^21]: A 3. számú melléklet 3. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.

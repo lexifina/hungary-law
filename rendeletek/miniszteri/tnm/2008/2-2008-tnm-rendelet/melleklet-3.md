@@ -28,13 +28,13 @@
 
 ## – a földrajzi árujelzők oltalma
 
-## 3. Formatervezésiminta- és használatiminta-oltalmi jog:
+## 3.[^19] Formatervezésiminta- és használatiminta-oltalmi jog:
 
 ## – a formatervezésiminta-oltalom tárgya és tartalma
 
 ## – a használatiminta-oltalom tárgya és tartalma
 
-## – az MSZH eljárása mintaoltalmi ügyekben
+## – a Hivatal eljárása mintaoltalmi ügyekben
 
 ## – bírósági eljárás mintaoltalmi ügyekben és perekben
 
@@ -61,3 +61,5 @@
 ## – kutatási gyakorlatok
 
 3. számú melléklet a 2/2008. (VIII. 22.) TNM rendelethez
+
+[^19]: A 2. számú melléklet 3. pontja a 27/2010. (XII. 28.) KIM rendelet 15. § (3) bekezdése szerint módosított szöveg.
