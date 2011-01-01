@@ -40,7 +40,7 @@
 
 2.9. az Országos Meteorológiai Szolgálat
 
-2.10. a rendvédelmi szervek országos parancsnokságai
+2.10.[^3] a rendvédelmi szervek országos parancsnokságai és a Nemzeti Adó- és Vámhivatal Központi Hivatala
 
 2.11. a Vízügyi és Környezetvédelmi Központi Igazgatóság
 
@@ -66,6 +66,8 @@
 
 3.4. a minisztériumok, érintett kormány- és központi hivatalok irányításával működő területi szervek
 
-3.5. a rendvédelmi szervek területi és helyi parancsnokságai
+3.5.[^4] a rendvédelmi szervek területi és helyi parancsnokságai, valamint a Nemzeti Adó- és Vámhivatal közép- és alsó fokú vámszervei és nyomozóhatósági szervei
 
 [^2]: A 20. § a (2) bekezdés alapján hatályát vesztette.
+[^3]: Az 1. számú melléklet 2. pont 2.10. alpontja a 273/2010. (XII. 9.) Korm. rendelet 134. §-ával megállapított szöveg.
+[^4]: Az 1. számú melléklet 3. pont 3.5. alpontja a 273/2010. (XII. 9.) Korm. rendelet 134. §-ával megállapított szöveg.
