@@ -43,7 +43,3 @@ d) külön jogszabály szerinti független biztosításközvetítői hatósági 
 4. Az 51. § (1) bekezdésében meghatározott biztosítási szaktanácsadói tevékenységet azon természetes személy végezhet, aki rendelkezik
 
 a) „biztosítási tanácsadó” szakképesítéssel; vagy
-
-b) „biztosítási szakjogász” szakképesítéssel; vagy
-
-c) „aktuárius” szakképesítéssel.

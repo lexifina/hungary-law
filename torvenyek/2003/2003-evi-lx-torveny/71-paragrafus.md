@@ -32,9 +32,9 @@ b) a biztosítóban 5 százalékot meghaladó, de a 111. § (1) bekezdése szeri
 
 c) a 89. § (1) bekezdés szerinti, a belső ellenőr személyére vonatkozó megállapodást,
 
-d) a külön jogszabályban megállapított mértékű nagykockázatokat,
+d)
 
-e) a nagykárokat,
+e)
 
 f) külföldi állandó képviselete megnyitását, címének, fontosabb adatainak megváltozását vagy megszüntetését, illetve a vezető(k) személyének és adatainak megváltozását,
 
@@ -42,7 +42,7 @@ g) az alapszabály (alapító okirat) módosítását,
 
 h) a tagállamokban megbízott kárrendezési megbízottjait, ezeknek a feladataik ellátásával összefüggő adatait, illetve az ezekben az adatokban bekövetkezett változásokat,
 
-i) az alkusszal és a szaktanácsadóval kötött felelősségbiztosítási szerződés megszűnését,
+i) független biztosításközvetítővel és a szaktanácsadóval kötött szakmai felelősségbiztosítási szerződés megszűnését,
 
 j) a 49. § (2) bekezdésében foglalt nyilvántartásban az 5. számú melléklet 2. pontjában (az A) b) és f) alpont, valamint a B) b) alpont kivételével) meghatározott adatokban bekövetkezett változásokat,
 

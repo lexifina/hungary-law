@@ -12,6 +12,4 @@
 
 (6) A felügyeleti biztos az általa megtett intézkedésekről a tulajdonosokat (tagokat) – írásbeli kérésükre – 3 napon belül írásban köteles tájékoztatni.
 
-(7) Felügyeleti biztosként olyan személy rendelhető ki, aki megfelel a 83. § (3) bekezdésében előírt követelményeknek.
-
-(8) A felügyeleti biztosnak kirendelésekor írásban nyilatkoznia kell arról, hogy ő maga vagy közeli hozzátartozója valamely biztosítónál, biztosításközvetítőnél, szaktanácsadói tevékenységet folytató társaságnál milyen és mekkora név-, illetve forgalmi értéket képviselő tulajdoni hányaddal rendelkezik.
+(7)–(8)

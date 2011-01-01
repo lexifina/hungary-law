@@ -18,22 +18,30 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (3) Nem szükséges a Felügyelet engedélye az Európai Unió másik tagállamában székhellyel rendelkező független biztosításközvetítő esetében fióktelepe útján vagy határon átnyúló szolgáltatásként történő tevékenység végzéshez.
 
-(4)
+(4) Ha a független biztosításközvetítő működése során saját tőkéje az (1) bekezdésben írt minimális alaptőke (törzstőke) mértéke alá csökken, a független biztosításközvetítő köteles a saját tőkét az előírt minimális alaptőke (törzstőke) mértékéig kiegészíteni.
 
 (5) Független biztosításközvetítői tevékenység végzésének feltétele az (1) bekezdésben foglaltakon túl a következő:
 
 a) a tevékenység folytatásához üzlethelyiség tulajdon-, használati vagy bérleti joga,
 
-b) a végzett tevékenység egyedi azonosítására alkalmas folyamatos nyilvántartás.
+b) a végzett tevékenység egyedi azonosítására alkalmas folyamatos nyilvántartás,
+
+c) az adatszolgáltatási kötelezettség teljesítéséhez szükséges tárgyi feltételek megléte.
 
 (6) A független biztosításközvetítői tevékenység irányítója kizárólag olyan természetes személy lehet, aki
 
 a) büntetlen előéletű, továbbá nem vezető tisztségviselője olyan gazdasági társaságnak, amellyel szemben a kérelem benyújtását megelőző három évben csőd- vagy felszámolási eljárás indult,
 
-b) felsőfokú végzettséggel rendelkezik, továbbá korábban biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdekképviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be, vagy biztosítási szaktanácsadóként működött, vagy e szerveknél összesen 5 éves munkaviszonnyal, köztisztviselői jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik; illetve középfokú végzettséggel rendelkezik és korábban biztosítónál vagy biztosításközvetítést folytató gazdálkodó szervezetnél legalább 7 éven át biztosításszakmai vezetői beosztást töltött be, és
+b) az alábbi szakmai követelmények valamelyikének megfelel:
+
+ba) felsőfokú végzettséggel rendelkezik és biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatás pénzügyi, illetve gazdasági területén vagy a megfelelő szakmai érdek-képviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be vagy biztosítási szaktanácsadóként működött vagy biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, biztosítási szaktanácsadónál, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdek-képviseleti szervnél összesen 5 éves, biztosításszakmai beosztásban eltöltött munkaviszonnyal, köztisztviselői jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik;
+
+bb) középfokú végzettséggel rendelkezik és biztosítónál vagy biztosításközvetítést folytató gazdálkodó szervezetnél legalább 7 éven át biztosításszakmai vezetői beosztást töltött be,
 
 c) kizárólag az adott biztosításközvetítőnél folytatja közvetítői tevékenységét,
 
-d) biztosítóval nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+d) biztosítóval nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban,
 
-(7) A (6) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet a nyilvántartásba vétel iránti kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra.
+e) ellen a Felügyelet feladatkörébe tartozó törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásainak súlyos vagy ismétlődő megsértése miatt, öt évnél nem régebben a legmagasabb összegű bírság kiszabására nem került sor, illetve a bíróság öt évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt nem állapította meg.
+
+(7) A (6) bekezdés b) pontjában előírt vezetői szakmai gyakorlat befejezése nem eshet az engedélyezési kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra.

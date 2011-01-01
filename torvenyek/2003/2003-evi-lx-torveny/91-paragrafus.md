@@ -14,6 +14,6 @@ aa) amely esetében a fizetőképtelenséget kizárólag felügyeleti szerve ál
 
 ab) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította; vagy
 
-b) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet 5 évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét megállapította.
+b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe tartozó törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben az illetékes felügyelet öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot szabta ki, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt megállapította.
 
 (5) A Felügyelet a szakmai alkalmasság és üzleti megbízhatóság fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.

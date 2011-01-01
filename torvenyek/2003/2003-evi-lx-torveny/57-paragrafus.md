@@ -32,7 +32,7 @@ k) a független biztosításközvetítő által más független biztosításköz
 
 l) az élet és nem-életbiztosítási ág együttes művelésére jogosult biztosító esetében valamely biztosítási ágban adódó szavatoló tőkehiány másik biztosítási ágból, a 124. § (5) bekezdésének megfelelően történő pótlásához,
 
-m) a 70. § (2) bekezdésének j) pontjában, a 83. §-ban és a 86–90. §-okban meghatározott személyek foglalkoztatásához, megbízásához, illetve kinevezéséhez, választásához,
+m) a 38. § (6) bekezdésében, a 70. § (2) bekezdésének j) pontjában, a 83. §-ban és a 86–90. §-okban meghatározott személyek foglalkoztatásához, megbízásához, illetve kinevezéséhez, választásához,
 
 n) az alapszabály tagi vagyonrész terhére történő kifizetésekről szóló szabályainak módosításához, ha az egyesület a tagi vagyonrészeket a szavatoló tőke számításakor figyelembe veszi,
 

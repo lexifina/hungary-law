@@ -14,9 +14,9 @@ e) ha az 1. számú mellékletben meghatározott nem-életbiztosítási ág A) r
 
 köteles foglalkoztatni.
 
-(2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját 22 munkanappal megelőzően a biztosító a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
+(2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját harminc nappal megelőzően a biztosító a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő huszonkét munkanapon belül nem hoz döntést.
+(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
 (4) Az egyéb vezetők legfeljebb 2 részvénytársaságnál tölthetnek be ilyen pozíciót.
 

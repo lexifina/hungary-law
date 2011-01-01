@@ -28,4 +28,4 @@ e) az a)–d) pontokra vonatkozó adatok, valamint a tartalékok helytállóság
 
 (4) A biztosító vezető biztosításmatematikusa az éves beszámolóval együtt ahhoz kapcsolódóan benyújtja a Felügyeletnek a biztosító éves külön aktuáriusi jelentését.
 
-(5) Az aktuáriusi jelentés tartalmi követelményeit a miniszter rendeletben állapítja meg.
+(5) Az aktuáriusi jelentés tartalmi követelményeit a Felügyelet elnöke rendeletben állapítja meg.

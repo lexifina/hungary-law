@@ -1,1 +1,1 @@
-200. § A felügyeleti biztos az e minőségében okozott kárért kizárólag a Felügyeletnek tartozik felelősséggel, vele szemben közvetlenül kártérítési igény nem érvényesíthető. A felügyeleti biztos által e minőségében harmadik személynek okozott károkért a Felügyelet felel.
+200. §

@@ -2,7 +2,7 @@
 
 206. § (1) A Felügyelet az általa kiadott alapítási és biztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, az MNB-nek, a cégbíróságnak, az egyesületek nyilvántartását végző fővárosi (megyei) bíróságnak, a Gazdasági Versenyhivatalnak és a biztosítók szakmai érdekképviseleti szervezeteinek.
 
-(2) A Felügyelet az általa kiadott független biztosításközvetítői és vezérügynöki engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatot haladéktalanul megküldi a cégbíróságnak.
+(2)
 
 (3)
 

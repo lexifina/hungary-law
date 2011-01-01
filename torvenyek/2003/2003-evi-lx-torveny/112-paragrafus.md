@@ -8,7 +8,7 @@ c) vagyoni, üzleti helyzete nem szilárd;
 
 d) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet 5 évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét megállapította;
 
-e) természetes személy esetén nem rendelkezik szakmai alkalmassággal és üzleti megbízhatósággal;
+e) nem rendelkezik szakmai alkalmassággal és üzleti megbízhatósággal;
 
 f) pénzügyi, gazdasági helyzete az ajánlat tárgyát képező részesedésszerzés nagyságához viszonyítva nem minősíthető megfelelőnek, vagy a kérelem benyújtását megelőző 3 év során megfelelő gazdasági eredménnyel nem rendelkezik;
 

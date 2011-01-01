@@ -14,6 +14,6 @@ c) a módosított tevékenységhez szükséges feltételek meglétének igazolá
 
 d) annak igazolását, hogy a tevékenység módosítása után a szükséges szavatoló tőkével rendelkezik.
 
-(2) A tevékenység módosítására vonatkozó engedély kiadását a Felügyelet megtagadja, ha valószínűsíthető, hogy a biztosító a tevékenység módosítása után a biztosítási szerződéseiből eredő kötelezettségeit nem képes teljesíteni.
+(2) A tevékenység módosítására vonatkozó engedély kiadását a Felügyelet a 63. § (3) bekezdésében foglaltak miatt tagadhatja meg.
 
-(3) Ha a biztosító az (1) bekezdés a)–b) pontjában foglalt adatokat nem igazolja, a Felügyelet – a biztosító tevékenység módosításának engedélyezéséhez – adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető bírósághoz, illetőleg hatósághoz.
+(3)

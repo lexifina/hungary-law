@@ -4,9 +4,9 @@
 
 ## A vezető állású személy
 
-83. § (1) Biztosítónál vezető állású személynek az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 22 munkanappal megelőzően a biztosító a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
+83. § (1) Biztosítónál vezető állású személynek az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a biztosító a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő huszonkét munkanapon belül nem hoz döntést.
+(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
 (3) Biztosítónál vezető állású személy kizárólag olyan személy lehet, aki
 
@@ -14,7 +14,7 @@ a) büntetlen előéletű,
 
 b) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik,
 
-c) legalább 5 éves biztosítási vagy vállalati gazdálkodási, illetve az államigazgatás pénzügyi és gazdasági területén szerzett vezetői gyakorlattal rendelkezik (az előírt szakmai gyakorlat befejezése nem eshet az engedély iránti kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra),
+c) biztosításszakmai vezetői gyakorlattal vagy legalább 30 főt foglalkoztató vállalkozásnál szerzett gazdálkodási vezetői gyakorlattal vagy az államigazgatás pénzügyi, illetve gazdasági területén szerzett vezetői gyakorlattal rendelkezik, ha e vezetői gyakorlat ideje hosszabb mint öt év, és az előírt vezetői gyakorlat befejezése nem esik az engedély iránti kérelem benyújtását tíz évvel megelőző időpontnál korábbi időpontra,
 
 d) felsőfokú iskolai végzettséggel rendelkezik,
 

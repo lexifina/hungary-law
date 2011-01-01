@@ -2,7 +2,7 @@
 
 68. § (1) A biztosító a jelzáloghitelezési tevékenység megkezdéséhez köteles a Felügyelet engedélyét kérni. Az engedélyezésre irányuló kérelemnek – a (6) bekezdésben foglalt eltéréssel – tartalmaznia kell:
 
-a) az alapszabályt,
+a) a módosított alapszabályt,
 
 b) az üzleti tervet,
 
@@ -18,4 +18,4 @@ d) annak igazolását, hogy a jelzáloghitelezési tevékenység megkezdése ut�
 
 (5) A hitelbiztosítéki érték megállapításának módszertani elveit külön jogszabály határozza meg. Ennek alapján a biztosító hitelbiztosítéki értékmegállapítási szabályzatot készít, amelyet a Felügyelet hagy jóvá.
 
-(6) Ha a biztosító az (1) bekezdés a)–b) pontjában foglalt feltételeket nem igazolja, a Felügyelet – a jelzálog-hitelezési tevékenység megkezdéséhez szükséges engedélyhez – adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető bírósághoz.
+(6)

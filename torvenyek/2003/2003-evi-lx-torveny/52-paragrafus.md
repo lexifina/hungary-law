@@ -12,4 +12,4 @@ c) az e törvény 13. számú mellékletében meghatározott szakképesítéssel
 
 (4) A szaktanácsadói tevékenység megkezdéséhez szükséges nyilvántartásba vételt a Felügyelet megtagadja, ha a szaktanácsadó nem felel meg az 51. §-ban és e §-ban előírt feltételeknek.
 
-(5) A biztosítási szakképesítéseket, ezek megszerzésének követelményeit és azon munkaköröket, amelyek betöltése ezen szakképesítések megszerzéséhez, mint feltételhez kötődik, a miniszter rendeletben állapítja meg.
+(5) A biztosítási szakképesítéseket, ezek megszerzésének követelményeit és azon munkaköröket, amelyek betöltése ezen szakképesítések megszerzéséhez, mint feltételhez kötődik, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.

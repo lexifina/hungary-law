@@ -18,7 +18,7 @@ d) a 126. § (4) bekezdésének b) pontja szerinti biztosító egyesület eseté
 
 e) biztosítási szaktanácsadó, illetve külföldi biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi képviselete esetén: egy,
 
-f) független biztosításközvetítő esetén legalább egy, de minden ötven – általa alkalmazott, vagy megbízott – biztosításközvetítést végző természetes személy és gazdálkodó szervezet után: egy.
+f) független biztosításközvetítő esetén legalább egy, de minden ötven – általa, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott, vagy megbízott – biztosításközvetítést végző természetes személy után: egy.
 
 (5) A szorzószám
 

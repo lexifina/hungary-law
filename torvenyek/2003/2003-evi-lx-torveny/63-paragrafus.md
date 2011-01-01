@@ -18,7 +18,7 @@ f) számviteli politikájának, részletes számviteli rendszerének a tervezet�
 
 g) a biztosító likviditását, fizetőképességét súlyosan veszélyeztető állapot esetén alkalmazandó eljárási rendet,
 
-h) a kérelmező arra vonatkozó nyilatkozatát, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közölt a Felügyelettel,
+h)
 
 i) kötelező gépjármű-felelősségbiztosítási ágazatra is kiterjedő engedélykérelem esetén valamennyi tagállamban működő kárrendezési megbízott megbízásának igazolását,
 
@@ -28,9 +28,9 @@ j) a pénzmosás megelőzéséről és megakadályozásáról szóló 2003. évi
 
 a) nem rendelkezik a 126. §-ban foglalt minimális biztonsági tőkével, illetve az üzleti tervében foglaltak szerinti tevékenység folytatásához a minimális szavatoló tőkével,
 
-b) üzleti terve nem felel meg a 67. § rendelkezéseinek, vagy annak valódisága kétségbevonható, illetve az abban foglaltak nem nyújtanak elegendő alapot a biztosítottak számára a biztosítási szolgáltatások teljesítésére,
+b) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem lesz képes megfelelni a tevékenységére vonatkozó jogszabályi előírásoknak, illetve tevékenysége a biztosítottak érdekét sértené vagy veszélyeztetné,
 
-c)
+c) a szükséges személyi és tárgyi feltételekkel nem rendelkezik.
 
 (4) Az engedély iránti kérelmet a Felügyelet abban az esetben is elutasíthatja, ha olyan tények, adatok, körülmények jutnak tudomására, amelyek alapján megalapozottan feltehető, hogy a biztosító hatékony felügyelete nem biztosítható, különösen, ha
 

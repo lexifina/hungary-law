@@ -43,3 +43,9 @@ d) a c) pont szerinti intézkedés teljesítésének határidejét és a végreh
 e) a panasz megválaszolásának időpontját.
 
 (13) A szolgáltató a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A szolgáltató a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A szolgáltató köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+
+(16) Viszontbiztosítás megkötése és nagykockázatra létrejövő biztosítási szerződés esetén a szolgáltatót az e §-ban meghatározott kötelezettség nem terheli.

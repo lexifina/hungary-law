@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-60-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2003-60-00-00.24 |
 | 2010-04-01 | 2009. évi CL. törvény | 2003-60-00-00.25 |
+| 2011-01-01 | 2010. évi CLIX. törvény | 2003-60-00-00.26 |

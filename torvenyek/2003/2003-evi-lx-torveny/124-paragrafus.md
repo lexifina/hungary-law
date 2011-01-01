@@ -12,7 +12,7 @@ d) a biztosítónak az olyan biztosítóban, harmadik országbeli biztosítóban
 
 e) a biztosítónak az olyan hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban birtokolt – a Hpt. 5. számú melléklete szerinti – osztalék elsőbbségi részvény és alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
 
-f) tartalékok (kötelező tartalékok és szabad tartalékok), amelyek nem kötődnek a vállalt biztosítási kötelezettségekhez és nem függőkártartalék;
+f)
 
 (3) A 8. számú mellékletben meghatározott minimális szavatoló tőke szükséglet számítását és fedezetének kimutatását az éves beszámolóval egyidejűleg kell elkészíteni és a Felügyelet részére megküldeni. A biztosító a negyedéves adatszolgáltatás keretében tájékoztatja a Felügyeletet a minimális szavatoló tőke szükséglete, valamint a rendelkezésre álló szavatoló tőkéje becsült értékéről.
 
