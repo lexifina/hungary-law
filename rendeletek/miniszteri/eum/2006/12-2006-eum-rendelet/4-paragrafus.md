@@ -1,4 +1,4 @@
-4. § (1)[^2] Az 1. § szerintinek minősülő tevékenységet a munkáltatónak a munka megkezdése előtt 15 nappal írásban be kell jelentenie az Országos Munkavédelmi és Munkaügyi Főfelügyelőség (a továbbiakban: OMMF) munkavégzés helye szerint illetékes területi munkavédelmi felügyelőségének (a továbbiakban együtt: munkavédelmi felügyelőség) nyilvántartásba vétel céljából.
+4. § (1)[^2] Az 1. § szerintinek minősülő tevékenységet a munkáltatónak a munka megkezdése előtt 15 nappal írásban be kell jelentenie a munkavégzés helye szerint illetékes fővárosi és megyei kormányhivatal munkavédelmi felügyelőségének (a továbbiakban: munkavédelmi felügyelőség) nyilvántartásba vétel céljából.
 
 (2) A bejelentés adattartalma a következő:
 
@@ -32,5 +32,5 @@ i) az azbesztszennyezettség mértékének ellenőrzését végző, a 6. § (3) 
 
 (8) Közmű meghibásodása miatt végzett, előre nem tervezhető, azbeszt-expozíció kockázatával járó munkavégzés esetén az (1) bekezdés szerinti bejelentést a munka megkezdését követő három munkanapon belül kell megtenni.
 
-[^2]: A 4. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 53. §-ával megállapított szöveg.
 [^3]: A 4. § (7) bekezdése a 18/2007. (V. 10.) SZMM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 22. § (5) bekezdése alapján a 2007. május 13. napjáig az ÁNTSZ munkavégzés helye szerint területileg illetékes városi, fővárosi kerületi intézete által vezetett nyilvántartást az ÁNTSZ munkavégzés helye szerint területileg illetékes városi, fővárosi kerületi intézete a fenti időpontot követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Főfelügyelőség munkavégzés helye szerint illetékes területi munkavédelmi felügyelőségnek.
