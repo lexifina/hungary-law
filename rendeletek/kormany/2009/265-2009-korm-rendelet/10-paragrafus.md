@@ -18,4 +18,6 @@ b) a Hivatal elrendelésére minden héten csütörtökön 10.00 óráig a köve
 
 (8) A földgázellátási válsághelyzet II. fokozata esetén a rendszerirányító – a rendelkezésre álló, különösen a 6. § (6) bekezdése és a 10. § (2) bekezdése szerinti információk figyelembevételével – köteles a földgázforrásokkal úgy gazdálkodni, hogy a válsághelyzet megszűnését követően a kereskedelmi földgáztárolóknak a válsághelyzet megszűnését követő első betárolási időszakáig az országos földgázellátás folyamatossága fenntartható legyen.
 
-(9) A földgázellátási válsághelyzet megszűnését követő 8 munkanapon belül a rendszerirányító köteles jelentést készíteni a válsághelyzet alatt megtett forrásgazdálkodási intézkedéseiről és azt a Hivatalnak megküldeni. A Hivatal minősíti a rendszerirányító forrásgazdálkodási tevékenységét.
+(9)[^2] A földgázellátási válsághelyzet megszűnését követő tíz napon belül a rendszerirányító köteles jelentést készíteni a válsághelyzet alatt megtett forrásgazdálkodási intézkedéseiről és azt a Hivatalnak megküldeni. A Hivatal minősíti a rendszerirányító forrásgazdálkodási tevékenységét.
+
+[^2]: A 10. § (9) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (131) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
