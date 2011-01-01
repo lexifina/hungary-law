@@ -44,7 +44,8 @@ b) a továbbképzési program nem felel meg az e rendelet 1. számú melléklet�
 
 (11) A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az Oktatási és Kulturális Minisztériumba kell megküldeni.
 
-(12) Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. Az Oktatási Hivatal megkeresi a szakképesítésért felelős minisztert véleményének beszerzése érdekében.
+(12)[^16] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. Az Oktatási Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
 
 [^14]: A 7. §-t megelőző alcím a 3/2010. (I. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^15]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^16]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

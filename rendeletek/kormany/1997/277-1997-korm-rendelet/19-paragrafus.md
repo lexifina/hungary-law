@@ -1,6 +1,6 @@
 ## Vegyes rendelkezések
 
-19. § (1)[^56]
+19. § (1)[^58]
 
 (2) A nevelési-oktatási intézmény nyilvántartja
 
@@ -14,4 +14,4 @@ d) a pedagógus-szakvizsga vagy azzal egyenértékű oklevél, tudományos fokoz
 
 e) a továbbképzésben való részvételt és a továbbképzés teljesítését.
 
-[^56]: A 19. § (1) bekezdését a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.
+[^58]: A 19. § (1) bekezdését a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.

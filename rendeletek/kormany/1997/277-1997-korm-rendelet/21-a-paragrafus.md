@@ -1,4 +1,4 @@
-## 21/A. §[^65] A 2009/2010. tanév második félévében és a 2010/2011. tanév első félévében
+## 21/A. §[^67] A 2009/2010. tanév második félévében és a 2010/2011. tanév első félévében
 
 a) az 5. § (3) bekezdésében foglalt rendelkezést azzal az eltéréssel kell alkalmazni, hogy a hétévenkénti továbbképzésnek hetven százaléka teljesíthető a bekezdésben meghatározottak szerint,
 
@@ -8,4 +8,4 @@ c) a központi költségvetés által biztosított támogatásból az e rendelet
 
 d) nem alkalmazhatók a közoktatásról szóló törvény 19. §-ának (8) bekezdésében felsorolt jogkövetkezmények abban az esetben, ha a pedagógus azért nem vett részt a továbbképzésben, mert a munkáltató központi költségvetési forrás hiányában nem tudott részére a tanulmányai folytatásához támogatást biztosítani.
 
-[^65]: A 21/A. §-t a 3/2010. (I. 14.) Korm. rendelet 8. §-a iktatta be.
+[^67]: A 21/A. §-t a 3/2010. (I. 14.) Korm. rendelet 8. §-a iktatta be.

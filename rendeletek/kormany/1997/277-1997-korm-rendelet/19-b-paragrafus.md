@@ -1,3 +1,3 @@
-## 19/A. §[^57] Az EDUCATIO Társadalmi Szolgáltató Kht. a közoktatási pályázatok fejlesztéskoordinációs támogatása érdekében személyes adatokat nem tartalmazó szakmai programkövető támogató rendszert és adatbázist működtet, az Új Magyarország Fejlesztési Terv által nyújtott pályázati források gyakorlatban történő szakmai és tartalmi felhasználását naprakész nyomon követése céljából.
+## 19/A. §[^59] Az EDUCATIO Társadalmi Szolgáltató Kht. a közoktatási pályázatok fejlesztéskoordinációs támogatása érdekében személyes adatokat nem tartalmazó szakmai programkövető támogató rendszert és adatbázist működtet, az Új Magyarország Fejlesztési Terv által nyújtott pályázati források gyakorlatban történő szakmai és tartalmi felhasználását naprakész nyomon követése céljából.
 
-[^57]: A 19/A. §-t a 93/2009. (IV. 24.) Korm. rendelet 9. §-a iktatta be.
+[^59]: A 19/A. §-t a 93/2009. (IV. 24.) Korm. rendelet 9. §-a iktatta be.
