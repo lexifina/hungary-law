@@ -12,9 +12,9 @@ e) az átmeneti nevelt, az ideiglenes hatállyal elhelyezett fiatalkorú vér sz
 
 f) az átmeneti vagy tartós nevelt fiatalkorú esetében a gondozását, nevelését végző gyermekotthont vagy nevelőszülőt,
 
-g)[^3] a fiatalkorú számára kirendelt pártfogó felügyelőt,
+g)[^4] a fiatalkorú számára kirendelt pártfogó felügyelőt,
 
-h)[^4] a Belügyminisztérium illetékes szervét.
+h)[^5] a Belügyminisztérium illetékes szervét.
 
 (2) A törvényes képviselőt és a vér szerinti szülőt tájékoztatni kell az őket érintő rendszabályokról, így különösen a levelezés, a csomagküldés, a telefonbeszélgetés, a látogatás rendjéről, valamint a fiatalkorú eltávozásra, szabadságra menetelének lehetőségéről, és tájékoztatást kell kérni a fiatalkorú esetleges egészségi problémájáról, korábbi gyógykezeléséről.
 
@@ -24,8 +24,8 @@ h)[^4] a Belügyminisztérium illetékes szervét.
 
 (5) Az átmeneti vagy tartós nevelt fiatalkorúról készített pedagógiai és pszichológiai vélemény, valamint az egészségi állapotára vonatkozó adatok beszerzése érdekében az intézet megkeresi a nevelésbe vételt elrendelő gyámhivatalt, ezzel egyidejűleg tájékoztatást kér a fiatalkorú eddigi életútjáról és családi kapcsolatairól.
 
-(6)[^5] A kirendelt pártfogó felügyelőtől tájékoztatást kell kérni a fiatalkorúnak a pártfogolás alatt tanúsított magatartásáról.
+(6)[^6] A kirendelt pártfogó felügyelőtől tájékoztatást kell kérni a fiatalkorúnak a pártfogolás alatt tanúsított magatartásáról.
 
-[^3]: A 16. § (1) bekezdésének g) pontja a 44/2003. (VII. 30.) ESZCSM rendelet 3. §-a (2) bekezdésének a) pontja szerint módosított szöveg.
-[^4]: A 16. § (1) bekezdésének h) pontja a 4/2002. (IX. 4.) ESZCSM rendelet 8. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
-[^5]: A 16. § (6) bekezdése a 44/2003. (VII. 30.) ESZCSM rendelet 3. §-a (2) bekezdésének b) pontja szerint módosított szöveg.
+[^4]: A 16. § (1) bekezdésének g) pontja a 44/2003. (VII. 30.) ESZCSM rendelet 3. §-a (2) bekezdésének a) pontja szerint módosított szöveg.
+[^5]: A 16. § (1) bekezdésének h) pontja a 4/2002. (IX. 4.) ESZCSM rendelet 8. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
+[^6]: A 16. § (6) bekezdése a 44/2003. (VII. 30.) ESZCSM rendelet 3. §-a (2) bekezdésének b) pontja szerint módosított szöveg.

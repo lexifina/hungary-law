@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-30-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1997-30-20-3D.5 | 30/1997. (X. 11.) NM rendelet |
+| 2011-01-01 | 1997-30-20-3D.6 | 44/2003. (VII. 30.) ESZCSM rendelet |
