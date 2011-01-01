@@ -24,12 +24,10 @@ e) a Legfelsőbb Bíróság elnöke esetében a Legfelsőbb Bíróság Hivatala,
 
 f)[^42] az ideiglenes védelemben részesített személy esetében a Miniszterelnökség,
 
-g) az e rendelet alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–c) pontban meghatározott hivatal.
-
-[g)[^43] az e rendelet alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–b) pontban meghatározott hivatal.]
+g)[^43] az e rendelet alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–b) pontban meghatározott hivatal.
 
 [^39]: A 8/E. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
 [^40]: A 8/E. § (1) bekezdés nyitó szövegrésze a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^41]: A 8/E. § (3) bekezdés b) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
 [^42]: A 8/E. § (3) bekezdés f) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^43]: A 8/E. § (3) bekezdés g) pontja a 232/2010. (VIII. 19.) Korm. rendelet 11. §-ával megállapított szöveg. [E módosító rendelet 15. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^43]: A 8/E. § (3) bekezdés g) pontja a 232/2010. (VIII. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
