@@ -2,9 +2,9 @@
 
 Melléklet a 130/1995. (X. 26.) Korm. rendelethez
 
-A NEMZETI ALAPTANTERV
+A NEMZETI ALAPTANTERV[^4]
 
-I.[^4] FEJEZET
+I.[^5] FEJEZET
 
 A NEMZETI ALAPTANTERV SZEREPE
 
@@ -294,7 +294,7 @@ II. FEJEZET
 
 KÖVETELMÉNYEK
 
-ANYANYELV ÉS IRODALOM[^5]
+ANYANYELV ÉS IRODALOM[^6]
 
 Az anyanyelvnek életünkben, a felnövekvő diák személyiségének, gondolkodásmódjának fejlesztésében és így az iskolai nevelésben-oktatásban alapvető szerepe van. A nyelvi hatóerő és a nyelvi minták követése kultúrát, értékeket közvetít; lehetővé teszi és gazdagítja a társas kapcsolatokat; az anyanyelvi készségek csiszolódása, az anyanyelvi ismeretek bővülése egyre szélesedő lehetőségeket ad információk megszerzéséhez, problémák megértéséhez.
 
@@ -1824,7 +1824,7 @@ EMBERISMERET
 
 | Az egyes ember fejlődése Életkorok jellemzői. Erkölcsi fejlődés. | Az ember fejlődésében való szemlélete. Helyezzen el konkrét embereket (és önmagát is) a megfelelő életkori szakaszba, s állapítsa meg, mennyiben érvényesek rájuk az adott életszakasz jellemzői. 1.a;1.F | A különböző életkori szakaszok legfőbb jellemzői. |
 
-RÉSZLETES KÖVETELMÉNYEK A 10. ÉVFOLYAM VÉGÉN[^6]
+RÉSZLETES KÖVETELMÉNYEK A 10. ÉVFOLYAM VÉGÉN[^7]
 
 (A példákat dőlt betűvel szedtük)
 
@@ -2083,6 +2083,7 @@ TOPOGRÁFIAI KÖVETELMÉNYEK A 6. ÉVFOLYAM VÉGÉN
 3. számú térkép
 
 [^3]: A 2. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1399. pontja szerint módosított szöveg.
-[^4]: A melléklet I. fejezete a 63/2000. (V. 5.) Korm. rendelet 2. §-ával, illetve mellékletével megállapított szöveg.
-[^5]: A melléklet II. fejezete ,,ANYANYELV ÉS IRODALOM'' alcímének utolsó bekezdését a 63/2000. (V. 5.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^6]: A 100/1997. (VI. 13.) Korm. rendelet 64. §-a szerint módosított szöveg.
+[^4]: A rendeletet a 243/2003. (XII. 17.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte, 2004. szeptember 1-jén az iskola első évfolyamán, ezt követően minden tanévben felmenő rendszerben a következő évfolyam tekintetében, teljes egészében 2017. augusztus 31. napjával.
+[^5]: A melléklet I. fejezete a 63/2000. (V. 5.) Korm. rendelet 2. §-ával, illetve mellékletével megállapított szöveg.
+[^6]: A melléklet II. fejezete ,,ANYANYELV ÉS IRODALOM'' alcímének utolsó bekezdését a 63/2000. (V. 5.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^7]: A 100/1997. (VI. 13.) Korm. rendelet 64. §-a szerint módosított szöveg.
