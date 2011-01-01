@@ -18,10 +18,10 @@ a) a fejezeti kezelésű előirányzat-felhasználási keretszámlák (a tovább
 
 b) a mindenkori költségvetési törvény értelmében az EMGA esetében havi finanszírozási tervet állít össze a Kincstár részére;
 
-c)[^10] a vonatkozó közösségi jogszabályok értelmében összeállítja az Európai Bizottság számára a kifizetési előrejelzéseket az Európai Unió költségvetési nómenklatúrája szerinti bontásban, azokat – az EHA kivételével – benyújtja az Európai Bizottság részére, továbbá tájékoztató jelleggel másolatban megküldi az irányító hatóság részére.
+c)[^12] a vonatkozó közösségi jogszabályok értelmében összeállítja az Európai Bizottság számára a kifizetési előrejelzéseket az Európai Unió költségvetési nómenklatúrája szerinti bontásban, azokat – az EHA kivételével – benyújtja az Európai Bizottság részére, továbbá tájékoztató jelleggel másolatban megküldi az irányító hatóság részére.
 
 (3) Az MVH az 1. § (2)–(5) bekezdéseiben meghatározott programok és intézkedések, valamint az azokkal kapcsolatos kiadások és bevételek előrejelzéséhez heti rendszerességgel heti finanszírozási tervet állít össze a Kincstár részére az Áht.-val, illetve a mindenkori költségvetési törvénnyel összhangban.
 
 (4) Az MVH az irányító hatóság és a pénzügyminiszter kérésére, az általuk meghatározott bontásban, az ütemezett, illetve várható kifizetésekről külön kimutatásokat, fontossági és időzítési rangsorokat készít.
 
-[^10]: A 4. § (2) bekezdés c) pontja a 138/2010. (IV. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 4. § (2) bekezdés c) pontja a 138/2010. (IV. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

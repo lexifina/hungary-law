@@ -12,13 +12,13 @@ b) a Mezőgazdasági és Vidékfejlesztési Hivatalra (a továbbiakban: MVH) min
 
 c) a Magyar Államkincstárra (a továbbiakban: Kincstár) mint a lebonyolításban közreműködő szervre,
 
-d) a Vám- és Pénzügyőrség Országos Parancsnokságának (a továbbiakban: VPOP) OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
+d)[^2] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Hivatalának OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
 
-e) az Adó- és Pénzügyi Ellenőrzési Hivatalra (a továbbiakban: állami adóhatóság) mint az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettség beszedésére irányuló végrehajtási eljárást lefolytató adóhatóságra,
+e)[^3] a NAV adóztatási szerveire (a továbbiakban: állami adóhatóság) mint az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettség beszedésére irányuló végrehajtási eljárást lefolytató adóhatóságra,
 
 f) a törvény 11. §-a (3) bekezdésének b)–f) pontjaiban meghatározott végrehajtási feladatot ellátó szervekre, illetve szervezetekre,
 
-g)[^2] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
+g)[^4] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
 
 (2) E rendelet hatálya kiterjed továbbá:
 
@@ -49,4 +49,6 @@ da) árfolyamnyereségek,
 db) a központi intervenciós intézkedések költségei és az EU átalány közötti különbség.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 138/2010. (IV. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés e) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
