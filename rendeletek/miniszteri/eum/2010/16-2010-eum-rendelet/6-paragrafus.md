@@ -10,4 +10,6 @@
 
 (5) Ha a (4) bekezdés alapján az első öt helyet – azonos hozott pontszámuk miatt – ötnél több jelentkező érte el, a munkáltatónak valamennyi, a (4) bekezdés alapján az első öt helynek megfelelő pontszámot elért jelentkező közül van lehetősége választani.
 
-(6) A jelentkező a rendszerbevételi eljárás lefolytatásával kapcsolatban, a személyét érintő kérdésben a felsőoktatási intézménynél írásban panasszal élhet a rendszerbevételi eljárás eredményéről való értesítést követő második munkanap végéig. A felsőoktatási intézmény a panaszt három munkanapon belül elbírálja, és a döntésről írásban értesíti a jelentkezőt.
+(6)[^4] A jelentkező a rendszerbevételi eljárás lefolytatásával kapcsolatban, a személyét érintő kérdésben a felsőoktatási intézménynél írásban panasszal élhet a rendszerbevételi eljárás eredményéről való értesítést követő harmadik nap végéig. A felsőoktatási intézmény a panaszt öt napon belül elbírálja, és a döntésről írásban értesíti a jelentkezőt.
+
+[^4]: A 6. § (6) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (7) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.

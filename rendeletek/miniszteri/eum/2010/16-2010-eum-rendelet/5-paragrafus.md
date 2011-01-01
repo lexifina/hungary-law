@@ -24,6 +24,8 @@ b) a rendszerbevételi eljárás során szükséges adatkezelésre vonatkozó r�
 
 a) a jelentkezési lapot határidőre nem nyújtja be,
 
-b) a jelentkezési lapot hiányosan nyújtja be, és azt a hiánypótlásra biztosított 15 munkanapos határidőn belül nem egészíti ki,
+b)[^3] a jelentkezési lapot hiányosan nyújtja be, és azt a hiánypótlásra biztosított tizennyolc napos határidőn belül nem egészíti ki,
 
 c) ötnél több támogatott állásra nyújt be jelentkezési lapot.
+
+[^3]: Az 5. § (5) bekezdés b) pontja a 18/2010. (XII. 23.) NEFMI rendelet 1. § (7) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
