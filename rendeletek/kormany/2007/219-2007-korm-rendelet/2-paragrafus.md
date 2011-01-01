@@ -20,4 +20,6 @@ g) RIS-felhasználók: a folyami információs szolgáltatásokat igénybe vevő
 
 h) összekapcsolhatóság: a szolgáltatások, az adattartalom, az adatcsere formája és frekvenciája olyan módon harmonizált, hogy a RIS-felhasználók európai szinten ugyanazokhoz a szolgáltatásokhoz és információkhoz férnek hozzá;
 
-i) RIS-üzemeltető: a Nemzeti Közlekedési Hatóság Központi Hivatala által a RIS technikai üzemeltetésével megbízott közhasznú szervezet.
+i)[^1] RIS-üzemeltető: a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala által a RIS technikai üzemeltetésével megbízott közhasznú szervezet.
+
+[^1]: A 2. § i) pontja a 351/2010. (XII. 30.) Korm. rendelet 186. §-a szerint módosított szöveg.

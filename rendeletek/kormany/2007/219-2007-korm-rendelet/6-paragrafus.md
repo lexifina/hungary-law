@@ -8,7 +8,7 @@ a) a 2. § (1) bekezdés a)–e) pontjában meghatározott adatok rögzítésér
 
 aa) a vízi rendészet rendőri szerveinél az országos rendőrfőkapitány,
 
-ab)[^1] a Rendőrségnél az országos rendőrfőkapitány,
+ab)[^3] a Rendőrségnél az országos rendőrfőkapitány,
 
 ac) a vámhatóságoknál, továbbá az uniós határkikötőkkel összefüggésben a Vám- és Pénzügyőrség országos parancsnoka,
 
@@ -40,4 +40,4 @@ c) a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partélétő
 
 (6) Az (1) és (3) bekezdésben meghatározott vezetők gondoskodnak a felügyeletük alá tartozó szerveknél a RIS- alkalmazás feltételeinek biztosításáról.
 
-[^1]: A 6. § (1) bekezdése a) pontjának ab) alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 70. pontjával megállapított szöveg.
+[^3]: A 6. § (1) bekezdése a) pontjának ab) alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 70. pontjával megállapított szöveg.
