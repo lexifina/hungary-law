@@ -1,3 +1,3 @@
-## Az Európai Unió jogának való megfelelés[^70]
+## Az Európai Unió jogának való megfelelés[^71]
 
-[^70]: A 21. §-t megelőző alcímet a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^71]: A 21. §-t megelőző alcímet a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
