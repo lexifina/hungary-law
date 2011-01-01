@@ -1,13 +1,13 @@
-27/F. §[^141] (1)[^142] A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek alkalmazása szempontjából pénzbeli családi ellátás a családi pótlék, a gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj.
+27/F. §[^144] (1)[^145] A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek alkalmazása szempontjából pénzbeli családi ellátás a családi pótlék, a gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj.
 
-(2)[^143]
+(2)[^146]
 
-(3)[^144] Amennyiben a 9. § (1) bekezdésében meghatározott igazolást külföldi szerv állította ki, a Regionális Igazgatóság a betegség, illetve fogyatékosság jellege szerinti orvosszakértő véleménye alapján dönt a külföldi igazolás elismeréséről.
+(3)[^147] Amennyiben a 9. § (1) bekezdésében meghatározott igazolást külföldi szerv állította ki, az EGT-s Igazgatóság a betegség, illetve fogyatékosság jellege szerinti orvosszakértő véleménye alapján dönt a külföldi igazolás elismeréséről.
 
-(4)[^145] A Regionális Igazgatóság a kérelem benyújtásától számított három hónapon belül határozattal dönt a kérelemről. Ezt a határidőt a Regionális Igazgatóság vezetője legfeljebb egy alkalommal három hónappal meghosszabbíthatja.
+(4)[^148] Az EGT-s Igazgatóság a kérelem benyújtásától számított három hónapon belül határozattal dönt a kérelemről. Ezt a határidőt az EGT-s Igazgatóság vezetője legfeljebb egy alkalommal három hónappal meghosszabbíthatja.
 
-[^141]: A 27/F. §-t a 125/2004. (IV. 29.) Korm. rendelet 8. §-a iktatta a szövegbe.
-[^142]: A 27/F. § (1) bekezdése a 140/2010. (IV. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^143]: A 27/F. § (2) bekezdését a 140/2010. (IV. 28.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^144]: A 27/F. § (3) bekezdése a 378/2004. (XII. 28.) Korm. rendelet 4. §-a (3) bekezdésének j) pontja szerint módosított szöveg.
-[^145]: A 27/F. § (4) bekezdése a 378/2004. (XII. 28.) Korm. rendelet 4. §-a (3) bekezdésének j) pontja, a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének r) pontja szerint módosított szöveg.
+[^144]: A 27/F. §-t a 125/2004. (IV. 29.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^145]: A 27/F. § (1) bekezdése a 140/2010. (IV. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^146]: A 27/F. § (2) bekezdését a 140/2010. (IV. 28.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^147]: A 27/F. § (3) bekezdése a 359/2010. (XII. 30.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^148]: A 27/F. § (4) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének r) pontja, a 359/2010. (XII. 30.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## A gyermekgondozási segély iránti kérelem adattartalma
 
-## I.[^160] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## I.[^163] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
 ## – a jogosultság jogcíme;
 
@@ -74,7 +74,7 @@
 
 ## – a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^161]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^164]
 
-[^160]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^161]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^163]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^164]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

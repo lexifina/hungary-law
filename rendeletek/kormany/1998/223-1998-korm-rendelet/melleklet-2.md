@@ -82,10 +82,12 @@
 
 ## 3.5 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban, gyámhatósági nyilvántartásban vagy a jegyzői szociális nyilvántartásban szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
 
-## 3.6 nyilatkozat a családi pótlék folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+## 3.6 együttes nyilatkozat arról, hogy a szülők jogerős bírósági döntés – ide értve az egyezséget – alapján egyenlő időszakokban felváltva gondozzák a 2.1. alpont szerinti gyermek(ek)et
 
-## 3.7 a kérelmező vagy a törvényes képviselő aláíróhelye
+## 3.7 nyilatkozat a családi pótlék folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^159]
+## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye
 
-[^159]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^162]
+
+[^162]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

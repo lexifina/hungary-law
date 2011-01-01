@@ -1,6 +1,6 @@
 ## 3. § A Cst. 39. §-a alapján – írásban – be kell jelenteni
 
-a)[^14] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
+a)[^15] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
 
 aa) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését,
 
@@ -22,31 +22,35 @@ ai) az Európai Unió tagállamában vagy az Európai Gazdasági Térségről sz
 
 aj) az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új bejegyzett élettársi vagy élettársi kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott adatát;
 
-b) a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
+b)[^16] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
 
 ba) a gyermek tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
 
-bb)[^15] ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek egyéves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
+bb) ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek egyéves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
 
-bc)[^16] ha a gyermekgondozási segélyre jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
+bc) ha a gyermekgondozási segélyre jogosult – ide nem értve a kiskorú szülő gyermekének gyámját, valamint a tartósan beteg vagy súlyosan fogyatékos gyermekre tekintettel gyermekgondozási segélyre jogosult személyt – a gyermek egyéves kora után heti 30 órát meghaladó időtartamban folytat keresőtevékenységet, kivéve ha azt az otthonában végzi,
 
-bd) ha az ellátásra jogosult a Cst. 27. §-a (1) bekezdésének a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül,
+bd) ha a gyermekgondozási segélyre jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
 
-be)[^17] a gyermek napközbeni ellátását biztosító intézményben történő elhelyezését, ide nem értve a 22. § (1)–(4) bekezdésében megjelölt eseteket,
+be) ha a gyermekgondozási segélyre a Cst. 20/B. §-a alapján jogosult személy heti 30 órát meghaladó időtartamban folytat keresőtevékenységet,
 
-bf) az ellátásra jogosult előzetes letartóztatásba vételét, illetve szabadságvesztés büntetésének megkezdését,
+bf) ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa terhességi-gyermekágyi segélyben vagy gyermekgondozási díjban részesül,
 
-bg) az ellátásra jogosult három hónapot meghaladó, egybefüggő külföldi tartózkodásának tényét,
+bg) a gyermek napközbeni ellátását biztosító intézményben történő elhelyezését, ide nem értve a 22. § (1)–(4) bekezdésében megjelölt eseteket,
 
-bh)[^18] nagyszülő által igénybe vett gyermekgondozási segély esetében mindazokat a körülményeket, amelyek akár a nagyszülő vonatkozásában, akár a szülő vonatkozásában a segélyre való jogosultság elvesztését vonják maguk után,
+bh) az ellátásra jogosult előzetes letartóztatásba vételét, illetve szabadságvesztés büntetésének megkezdését,
 
-bi)[^19] az ellátásra jogosult nevének, fizetési számlaszámának vagy lakcímének megváltozását,
+bi) az ellátásra jogosult három hónapot meghaladó, egybefüggő külföldi tartózkodásának tényét,
 
-bj)[^20] a gyermeknek az ellátásra jogosult háztartásából történő kikerülését, továbbá – gyermeknevelési támogatás esetében – ha a háztartásba a 2. életévét még be nem töltött kiskorú kerül,
+bj) nagyszülő által igénybe vett gyermekgondozási segély esetében mindazokat a körülményeket, amelyek akár a nagyszülő vonatkozásában, akár a szülő vonatkozásában a segélyre való jogosultság elvesztését vonják maguk után,
 
-bk)[^21] ha a gyermeknevelési támogatásra jogosult személy folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 24. §-ának (1)–(2) bekezdésében megjelölt módon és időtartamban történik,
+bk) az ellátásra jogosult nevének, fizetési számlaszámának vagy lakcímének megváltozását,
 
-bl)[^22] az EGT-államban történő munkavállalás vagy önálló vállalkozói tevékenység folytatásának tényét;
+bl) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését, továbbá – gyermeknevelési támogatás esetében – ha a háztartásba a 3. életévét még be nem töltött kiskorú kerül,
+
+bm) ha a gyermeknevelési támogatásra jogosult személy folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 24. §-ában megjelölt módon és időtartamban történik, valamint
+
+bn) az EGT-államban történő munkavállalás vagy önálló vállalkozói tevékenység folytatásának tényét;
 
 c) a méltányossági jogkörben megállapított gyermekgondozási segély folyósításának, szüneteltetésének időtartama alatt a b) pont alpontjaiban megjelölt bejelentési kötelezettségen túl
 
@@ -54,12 +58,5 @@ ca) a gyermek szüleinek a gyermek nevelésében történő akadályoztatásána
 
 cb) a gyermek – méltányossági gyermekgondozási segély megállapítására okot adó – betegségének megszűnését.
 
-[^14]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^15]: A 3. § b) pontjának bb) alpontja a 280/2005. (XII. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^16]: A 3. § b) pontjának bc) alpontja a 280/2005. (XII. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^17]: A 3. § b) pontjának be) alpontja a 280/2005. (XII. 20.) Korm. rendelet 10. § (4) bekezdésének a) pontja szerint módosított szöveg.
-[^18]: A 3. § b) pontjának bh) alpontját a 22/2002. (II. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
-[^19]: A 3. § b) pontjának bi) alpontját a 21/2004. (II. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 280/2005. (XII. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított, valamint a 176/2009. (VIII. 29.) Korm. rendelet 19. § (7) bekezdésének a) pontja szerint módosított szöveg.
-[^20]: A 3. § b) pontjának bj) alpontját a 280/2005. (XII. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 19. § (8) bekezdése szerint módosított szöveg.
-[^21]: A 3. § b) pontjának bk) alpontját a 280/2005.(XII. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^22]: A 3. § bl) alpontját a 176/2009. (VIII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^15]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

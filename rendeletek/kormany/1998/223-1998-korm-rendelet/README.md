@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2010-09-16 | 1998-223-20-22.29 | 236/2010. (IX. 13.) Korm. rendelet |
 | 2010-10-30 | 1998-223-20-22.30 | 238/2002. (XI. 8.) Korm. rendelet |
 | 2010-12-31 | 1998-223-20-22.31 | 140/2010. (IV. 28.) Korm. rendelet |
+| 2011-01-01 | 1998-223-20-22.32 | 359/2010. (XII. 30.) Korm. rendelet |

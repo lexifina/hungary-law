@@ -12,9 +12,9 @@
 
 ## – a kérelmező aláíróhelye.
 
-8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^167]
+8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^170]
 
-## A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma[^168]
+## A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma[^171]
 
 I. A kérelmezővel kapcsolatos adatok
 
@@ -30,11 +30,11 @@ I. A kérelmezővel kapcsolatos adatok
 
 ## – nyilatkozat arról, hogy a kérelmező kiküldetésben foglalkoztatott-e; amennyiben igen, a kiküldő munkáltató megnevezése, címe.
 
-II. A kérelmező házastársával, bejegyzett élettárásával, élettársával kapcsolatos adatok
+## II.[^172] A kérelmező házastársával, bejegyzett élettárásával, élettársával kapcsolatos adatok
 
 ## – életvitelszerű tartózkodási hely;
 
-## – a letelepedési, bevándorlási engedély, illetve tartózkodási kártya kiadásának időpontja;
+## – a tartózkodási jogot igazoló okmány kiadásának időpontja;
 
 ## – az EGT tagállam területén fennálló társadalombiztosításra kötelezett jogviszony(ai)ra vonatkozó adatok
 
@@ -48,5 +48,6 @@ II. A kérelmező házastársával, bejegyzett élettárásával, élettársáva
 
 III. A kérelmezővel, a házastársával (bejegyzett élettárásával, élettársával), valamint a gyermek(ek)kel kapcsolatos további adatok
 
-[^167]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^168]: A 8. számú melléklet címe a 140/2010. (IV. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^170]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^171]: A 8. számú melléklet címe a 140/2010. (IV. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^172]: A 8. számú melléklet II. pontja a 359/2010. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
