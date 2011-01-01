@@ -1,3 +1,5 @@
+## 3. §[^2]
+
 4. § (1) A Vám- és Pénzügyőrség bűnmegelőzési, bűnüldözési, valamint államigazgatási tevékenységével összefüggésben keletkezett adatok kezeléséről szóló 34/2004. (VI. 23.) PM rendelet (a továbbiakban: R.) 1. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
 [A Vám- és Pénzügyőrség az (1) bekezdésben meghatározott tevékenysége érdekében az alábbi adatbázisokat működteti:]
@@ -13,3 +15,5 @@
 (3) Az R. 1. § (2) bekezdése a következő i) és j) ponttal egészül ki:
 
 [A Vám- és Pénzügyőrség az (1) bekezdésben meghatározott tevékenysége érdekében az alábbi adatbázisokat működteti:]
+
+[^2]: A 3. §-t a 2010: CXXII. törvény 174. § (3) bekezdés 5. pontja hatályon kívül helyezte.
