@@ -12,9 +12,11 @@ a) a nyomozó hatóság és az ügyészség a bűncselekmények megelőzése, fe
 
 b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
 
-c) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
+c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv felderítés, elhárítás és információszerzés,
 
-d) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása
+d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
+
+e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása
 
 céljából jogosult.
 

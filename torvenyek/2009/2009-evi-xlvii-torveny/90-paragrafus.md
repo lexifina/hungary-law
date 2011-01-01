@@ -14,6 +14,6 @@ f) az adatigénylő megnevezését, az adathozzáférésre a 70. § (2) bekezdé
 
 g) a továbbított adatok megnevezését.
 
-(2) A Prümi Szerződés alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Prümi Szerződés 39. cikkét kell alkalmazni, a Megállapodás alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Megállapodás 15. cikkét kell alkalmazni.
+(2) A Megállapodás alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Megállapodás 15. cikkét kell alkalmazni.
 
 (3) Az adattovábbítási nyilvántartás adatait az adattovábbítástól számított húsz évig meg kell őrizni.

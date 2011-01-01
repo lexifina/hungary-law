@@ -2,15 +2,15 @@
 
 a) ha a büntetés határozott tartamú,
 
-aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+aa) öt évnél nem hosszabb szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
 
-ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított tizenkettő évig vagy
+ab) öt évet meghaladó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, vagy
 
-b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálát követő tizenkettő évig
+b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálát követő tizenkét évig
 
 kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 
