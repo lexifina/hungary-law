@@ -6,6 +6,6 @@
 
 ## Kelt ................ ................
 
-3. számú melléklet az 50/2004. (III. 23.) Korm. rendelethez[^74]
+3. számú melléklet az 50/2004. (III. 23.) Korm. rendelethez[^75]
 
-[^74]: A 3. számú melléklet a 108/2007. (V. 9.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2007. július 8. napja után megindított ügyekben kell alkalmazni; 18. § (2) bekezdése alapján a 2007. július 8. napja előtt alkalmazott űrlapok az ezen időponttól számított 90 napig felhasználhatók.
+[^75]: A 3. számú melléklet a 108/2007. (V. 9.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2007. július 8. napja után megindított ügyekben kell alkalmazni; 18. § (2) bekezdése alapján a 2007. július 8. napja előtt alkalmazott űrlapok az ezen időponttól számított 90 napig felhasználhatók.

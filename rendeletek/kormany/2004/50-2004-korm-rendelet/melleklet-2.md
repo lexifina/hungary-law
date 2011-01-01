@@ -8,6 +8,6 @@
 
 ## Kelt ................ ................
 
-2. számú melléklet az 50/2004. (III. 23.) Korm. rendelethez[^73]
+2. számú melléklet az 50/2004. (III. 23.) Korm. rendelethez[^74]
 
-[^73]: A 2. számú melléklet a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^74]: A 2. számú melléklet a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.

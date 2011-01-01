@@ -2,13 +2,13 @@
 
 a) Együttes Fellépés: a Tanács 2000. június 22-i, 401/2000/CFSP (Közös Kül- és Biztonságpolitika/KKBP) Együttes Fellépése az egyes katonai célú végfelhasználásokkal kapcsolatos műszaki segítségnyújtás ellenőrzéséről.
 
-b)[^2] Kettős felhasználású termékek: a 1334/2000/EK tanácsi rendelet 2. cikkének (a) pontja szerint.
+b)[^3] Kettős felhasználású termékek: a 1334/2000/EK tanácsi rendelet 2. cikkének (a) pontja szerint.
 
-c)[^3] Export: a 1334/2000/EK tanácsi rendelet 2. cikkének b) pontja szerint.
+c)[^4] Export: a 1334/2000/EK tanácsi rendelet 2. cikkének b) pontja szerint.
 
-d)[^4] Exportőr: a 1334/2000/EK tanácsi rendelet 2. cikkének c) pontja szerint.
+d)[^5] Exportőr: a 1334/2000/EK tanácsi rendelet 2. cikkének c) pontja szerint.
 
-e)[^5] Export-nyilatkozat: a 1334/2000/EK tanácsi rendelet 2. cikkének d) pontja szerint.
+e)[^6] Export-nyilatkozat: a 1334/2000/EK tanácsi rendelet 2. cikkének d) pontja szerint.
 
 f) Végfelhasználó: bármely személy, aki/amely a jelen rendelet szerint exportált kettős felhasználású terméket ténylegesen használja.
 
@@ -16,7 +16,7 @@ g) Címzett: bármely személy, aki/amely a jelen rendeletben megállapított ex
 
 h) Behozatal:
 
-ha)[^6] olyan kereskedelmi ügylet, amelynek során az Európai Közösség vámterületén kívüli területről a Közösségi Vámkódex létrehozásáról szóló 2913/1992/EGK tanácsi rendelet (a továbbiakban: Közösségi Vámkódex) 4. Cikkének (8) bekezdésében meghatározott „nem közösségi árut” hoznak be a Magyar Köztársaság területére, ideértve a vámszabad területre, illetve a tranzitterületre történő behozatalt is;
+ha)[^7] olyan kereskedelmi ügylet, amelynek során az Európai Közösség vámterületén kívüli területről a Közösségi Vámkódex létrehozásáról szóló 2913/1992/EGK tanácsi rendelet (a továbbiakban: Közösségi Vámkódex) 4. Cikkének (8) bekezdésében meghatározott „nem közösségi árut” hoznak be a Magyar Köztársaság területére, ideértve a vámszabad területre, illetve a tranzitterületre történő behozatalt is;
 
 hb) a Közösség vámterületén kívüli területről a Közösségi Vámkódex 114. cikkében foglalt aktív feldolgozásra beérkező áru, a 137. cikkében meghatározott ideiglenes behozatalra kerülő áru, a 145. cikkében foglaltak szerint passzív feldolgozásra kivitt árut visszahozatala, valamint a 185. cikkében meghatározott tértiáru behozatala;
 
@@ -34,14 +34,14 @@ m) Bróker: az a személy, aki/amely kettős felhasználású termékeknek ,,har
 
 n) Szolgáltatás: minden olyan műszaki támogató tevékenység, amely a kettős felhasználású termékek javításával, fejlesztésével, gyártásával, összeszerelésével, minőségi vizsgálatával, üzemeltetésével, karbantartásával, vagy bármely más műszaki szolgáltatással kapcsolatos.
 
-o)[^7] Eljáró Hatóság: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal).
+o)[^8] Eljáró Hatóság: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal).
 
-p)[^8] Transzfer: az 1334/2000/EK tanácsi rendelet IV. mellékletében felsorolt kettős felhasználású, valamint az Egyezmény 1. Mellékletének hatálya alá tartozó termékeknek a Közösség Vámterületén belüli átadása.
+p)[^9] Transzfer: az 1334/2000/EK tanácsi rendelet IV. mellékletében felsorolt kettős felhasználású, valamint az Egyezmény 1. Mellékletének hatálya alá tartozó termékeknek a Közösség Vámterületén belüli átadása.
 
-[^2]: A 2. § b) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^3]: A 2. § c) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^4]: A 2. § d) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^5]: A 2. § e) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^6]: A 2. § h) pontjának ha) alpontja a 108/2007. (V. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § o) pontja a 298/2005. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § p) pontja a 108/2007. (V. 9.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § b) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^4]: A 2. § c) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^5]: A 2. § d) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^6]: A 2. § e) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^7]: A 2. § h) pontjának ha) alpontja a 108/2007. (V. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § o) pontja a 298/2005. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § p) pontja a 108/2007. (V. 9.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

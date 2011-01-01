@@ -1,6 +1,6 @@
 ## A rendelet hatálya
 
-## 1. §[^1] A rendelet hatálya az alábbiakra terjed ki:
+## 1. §[^2] A rendelet hatálya az alábbiakra terjed ki:
 
 a) a kettős felhasználású termékek és technológiák kivitelére vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2000. június 22-i, 1334/2000/EK tanácsi rendelet (a továbbiakban: 1334/2000/EK tanácsi rendelet) hatálya alá tartozó kettős felhasználású termékek és technológiák transzferje, és az Európai Unió területén kívülre irányuló exportja;
 
@@ -10,4 +10,4 @@ c) a vegyi fegyverek kifejlesztésének, gyártásának, felhalmozásának és h
 
 d) az Egyezmény 1. Mellékletének hatálya alá tartozó vegyi anyagoknak a Magyar Köztársaság területére vagy annak területéről történő transzferje.
 
-[^1]: Az 1. § a 108/2007. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2007. július 8. napja után megindított ügyekben kell alkalmazni.
+[^2]: Az 1. § a 108/2007. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2007. július 8. napja után megindított ügyekben kell alkalmazni.

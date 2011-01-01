@@ -1,10 +1,10 @@
 ## A Nemzetközi Importigazolás iránti kérelem elbírálása
 
-19. § (1)[^56] A kérelmet a Hivatalnál a kitöltési útmutató szerint kitöltött nyomtatványokon kell benyújtani. Szükség szerint a Hivatal a kérelmezőt a termék műszaki paramétereire vonatkozó további adatszolgáltatásra hívhatja fel.
+19. § (1)[^57] A kérelmet a Hivatalnál a kitöltési útmutató szerint kitöltött nyomtatványokon kell benyújtani. Szükség szerint a Hivatal a kérelmezőt a termék műszaki paramétereire vonatkozó további adatszolgáltatásra hívhatja fel.
 
-(2)[^57] Az Igazolás iránti kérelem elbírálásának ügyintézési határideje huszonkét munkanap. Határozatát a Hivatal a külpolitikáért felelős miniszter egyetértése esetén, valamint az ügy tárgyától függően a rendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Vám- és Pénzügyőrség országos parancsnoka és a feladatkörrel rendelkező nemzetbiztonsági szolgálat főigazgatója véleményének kikérésével adja ki.
+(2)[^58] Az Igazolás iránti kérelem elbírálásának ügyintézési határideje harminc nap. Határozatát a Hivatal a külpolitikáért felelős miniszter egyetértése esetén, valamint az ügy tárgyától függően a rendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Vám- és Pénzügyőrség országos parancsnoka és a feladatkörrel rendelkező nemzetbiztonsági szolgálat főigazgatója véleményének kikérésével adja ki.
 
-(3)[^58] Az Igazolás kiadását a Hivatal megtagadja, illetve a kiadott Igazolást visszavonja, ha
+(3)[^59] Az Igazolás kiadását a Hivatal megtagadja, illetve a kiadott Igazolást visszavonja, ha
 
 a) a külföldi fél vagy a belföldi végső felhasználó a vonatkozó jogszabályokkal ellentétes tevékenységet folytat,
 
@@ -20,9 +20,9 @@ f) a kérelmező eltért a termék vagy technológia felhasználásának az Igaz
 
 g) a kérelmező a belső ellenőrzési rendszerét nem megfelelően működteti.
 
-(4)[^59]
+(4)[^60]
 
-[^56]: A 19. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 333. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^57]: A 19. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 333. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^58]: A 19. § (3) bekezdésének felvezető szövege a 108/2007. (V. 9.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2007. július 8. napja után megindított ügyekben kell alkalmazni.
-[^59]: A 19. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 335. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^57]: A 19. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 333. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: A 19. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 333. § (4) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (50) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^59]: A 19. § (3) bekezdésének felvezető szövege a 108/2007. (V. 9.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2007. július 8. napja után megindított ügyekben kell alkalmazni.
+[^60]: A 19. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 335. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

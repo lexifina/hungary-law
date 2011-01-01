@@ -76,7 +76,7 @@
 
 | .................................................................. dátum (Date) | .................................................................. aláírás (Signature) |
 
-4. számú melléklet az 50/2004. (III. 23.) Korm. rendelethez[^75]
+4. számú melléklet az 50/2004. (III. 23.) Korm. rendelethez[^76]
 
 NEMZETKÖZI TRANSZFER NYILATKOZAT
 
@@ -94,4 +94,4 @@ NEMZETKÖZI TRANSZFER NYILATKOZAT
 
 | Címzett neve: | Termék CAS száma: | Termék mennyisége: |
 
-[^75]: A 4. számú mellékletet a 108/2007. (V. 9.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2007. július 8. napja után megindított ügyekben kell alkalmazni.
+[^76]: A 4. számú mellékletet a 108/2007. (V. 9.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2007. július 8. napja után megindított ügyekben kell alkalmazni.

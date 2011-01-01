@@ -12,10 +12,10 @@ c) az a) pont szerinti haditechnikai termékek gyártásához, a gyártó létes
 
 (3) A műszaki segítségnyújtásra vonatkozó (1) bekezdés szerinti előírások nem alkalmazhatóak:
 
-a)[^46] ha a műszaki segítségnyújtás az 1334/2000/EK tanácsi rendelet II. számú mellékletében felsorolt országok bármelyikében kerül alkalmazásra;
+a)[^47] ha a műszaki segítségnyújtás az 1334/2000/EK tanácsi rendelet II. számú mellékletében felsorolt országok bármelyikében kerül alkalmazásra;
 
 b) ha a műszaki segítségnyújtás – átadott információ formájában – a nemzetközi export-ellenőrzési rezsimekben, szervezetekben és szerződésekben meghatározott nyilvános körben vagy tudományos alapkutatásban kerül alkalmazásra;
 
 c) ha a műszaki segítségnyújtás szóbeli közlés formájában történik, és nem vonatkozik egy vagy több nemzetközi export-ellenőrzési rezsim által ellenőrzött termékre.
 
-[^46]: A 12. § (3) bekezdésének a) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^47]: A 12. § (3) bekezdésének a) pontja a 108/2007. (V. 9.) Korm. rendelet 18. § (4) bekezdésének d) pontja szerint módosított szöveg.
