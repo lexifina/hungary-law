@@ -4,13 +4,13 @@ a) aki az igénylő háztartásában él, és
 
 aa) akire tekintettel a szülő, a nevelőszülő, a hivatásos nevelőszülő, a gyám családi pótlékra jogosult,
 
-ab) aki közoktatási intézmény tanulója vagy felsőoktatási intézményben első akkreditált felsőfokú iskolai rendszerű szakképzésben, első egyetemi vagy főiskolai szintű képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
+ab) aki közoktatási intézmény tanulója vagy felsőoktatási intézményben első felsőfokú szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
 
-ac) aki a családi pótlékra – a 8. § (2) bekezdésének e) pontja szerinti eset kivételével – saját jogán jogosult; vagy
+ac) aki a családi pótlékra – a 8. § (3) bekezdés e) pontja szerinti eset kivételével – saját jogán jogosult; vagy
 
 b) aki fogyatékosként szociális intézményi ellátásban részesül, feltéve, hogy őt a gyámhivatal nem vette átmeneti vagy tartós nevelésbe, és a családi pótlékot igénylő – a kormányrendeletben foglaltak szerint – vele kapcsolatot tart fenn.
 
-(2) A családi pótlékra való jogosultság szempontjából, valamint a 20. és a 23. § alkalmazása során saját háztartásban nevelt, gondozott gyermeknek kell tekinteni azt a gyermeket (személyt) is,
+(2) A családi pótlékra való jogosultság szempontjából, valamint az (1) bekezdés, a 20. és a 23. § alkalmazása során saját háztartásban nevelt, gondozott gyermeknek kell tekinteni azt a gyermeket (személyt) is,
 
 a) aki kül- és belföldi tanulmányai folytatása vagy gyógykezelése okán átmeneti jelleggel tartózkodik a háztartáson kívül,
 

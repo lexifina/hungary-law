@@ -2,7 +2,7 @@
 
 a) a Kormány arra, hogy a családtámogatási ellátások igénylésével, megállapításával, folyósításával és a jogalap nélkül felvett ellátások visszafizetésével, megtérítésével, valamint az igényelbíráló szervek adatfeldolgozásával kapcsolatos, továbbá a hatáskör átadásból adódó végrehajtási szabályokat rendeletben szabályozza;
 
-b) a szociál- és családpolitikáért felelős miniszter, hogy rendeletben szabályozza
+b) a családpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
 ba) – az egészségügyért felelős miniszterrel egyetértésben – a magasabb összegű családi pótlékra jogosító betegségek körét, valamint az erről szóló igazolások kiadásának rendjét,
 

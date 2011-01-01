@@ -14,14 +14,8 @@ c) szülei írásban nyilatkoznak arról, hogy a gyermekgondozási segélyről l
 
 a) ő maga megfelel az ellátásra való jogosultság feltételeinek, és
 
-b) a szülő esetében is fennállnak a jogosultsági feltételek.
+b) a jogosultsági feltételek – ide nem értve a kereső tevékenység folytatásából adódó kizáró körülményt – a szülő esetében is fennállnak.
 
 (5) A nagyszülő gyermekgondozási segélyre való jogosultságát akkor is meg kell szüntetni, ha olyan kizáró körülmény áll be, amely a szülő az ellátásnak saját maga általi igénybevétele esetén a gyermekgondozási segélyre való jogosultságának elvesztését vonná maga után.
 
 (6) Ha a szülő a gyermek után gyermekápolási táppénzt vesz igénybe, ez a körülmény a nagyszülő gyermekgondozási segélyre vonatkozó jogosultságát nem érinti.
-
-[20/B. § (1) A gyermek örökbefogadás előtti gondozásba történő kihelyezésének időpontjától számított hat hónap időtartamig gyermekgondozási segélyre jogosult az örökbefogadó szülő – a házastársi és rokoni örökbefogadás kivételével –, amennyiben a gyermek az örökbefogadás előtti gondozásba történő kihelyezéskor a 20. § (1) bekezdésének a)–b) pontjai szerinti életkort már betöltötte, azonban a 10. életévét még nem töltötte be.
-
-(2) Amennyiben a gyermek a 20. § (1) bekezdésének a)–c) pontjai szerinti életkort az örökbefogadás előtti gondozásba történő kihelyezést követő hat hónapon belül tölti be, akkor az örökbefogadó szülő 20. § (1) bekezdése szerinti gyermekgondozási segélyre való jogosultsága a gyermek 20. § (1) bekezdésének a)–c) pontjai szerinti életkorának betöltését követően a jogosultság kezdő időpontjától számított hat hónap elteltéig meghosszabbodik.
-
-(3) Az (1)–(2) bekezdés szerint gyermekgondozási segélyben részesülő személy kereső tevékenységet heti húsz órát meg nem haladó időtartamban folytathat.]
