@@ -1,4 +1,4 @@
-## A Magyar Kereskedelmi Engedélyezési Hivatal egyes munkaköreinek betöltéséhez szükséges
+## A Magyar Kereskedelmi Engedélyezési Hivatal, illetve a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságok egyes munkaköreinek betöltéséhez szükséges
 
 ## szakmai képesítések és gyakorlati idők
 
@@ -14,7 +14,7 @@
 
 | 4 | Veszélyes folyadék tároló tartály felügyelő | veszélyes folyadék és olvadék tároló létesítménye, üzemanyagtöltő állomások | okleveles gépészmérnöki, vagy gépészmérnöki, vagy okleveles gázipari mérnöki, vagy okleveles gázipari szakmérnöki, vagy okleveles vegyészmérnöki, vagy vegyészmérnöki végzettség |
 
-2. számú melléklet a 63/2005. (VII. 29.) GKM rendelethez[^8]
+2. számú melléklet a 63/2005. (VII. 29.) GKM rendelethez[^9]
 
 Magyar Kereskedelmi Engedélyezési Hivatal
 
@@ -42,4 +42,4 @@ Magyar Kereskedelmi Engedélyezési Hivatal
 
 főigazgató
 
-[^8]: A 2. számú melléklet a 127/2005. (XII. 29.) GKM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 2. számú melléklet a 127/2005. (XII. 29.) GKM rendelet 27. § (2) bekezdése szerint módosított szöveg.
