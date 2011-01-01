@@ -1,1 +1,0 @@
-A szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 112. §-ának (3) bekezdésében foglalt felhatalmazás alapján – az igazságügy-miniszterrel és a pénzügyminiszterrel egyetértésben – a közös jogkezelést végző egyesületek nyilvántartásának részletes szabályait a következőkben állapítom meg:
