@@ -4,9 +4,9 @@
 
 a) hitelesítési engedély: a hitelesítésre jogosult szerv által kiadott dokumentum annak igazolására, hogy a tervezett nyomásmérő típusa e jogszabályban előírt metrológiai és műszaki követelményeknek megfelel;
 
-b)[^1] a hitelesítésre jogosult szerv: a hitelesítési engedély és a hitelesítési bizonyítvány kiadására jogosult szerv a mérésügyi törvény alapján a Magyar Kereskedelmi Engedélyezési Hivatal;
+b)[^1] a hitelesítésre jogosult szerv: a hitelesítési engedély és a hitelesítési bizonyítvány kiadására jogosult szerv a mérésügyi törvény alapján a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága;
 
-c) illetékes ellenőrző hatóság: külön jogszabály alapján a nyomásmérő műszerek fogyasztói forgalmazásával kapcsolatos ügyekben a fogyasztóvédelmi felügyelőség, üzembe helyezéssel és az üzemeltetéssel kapcsolatos ügyekben a mérésügyi hatóság;
+c)[^2] illetékes ellenőrző hatóság: külön jogszabály alapján a nyomásmérő műszerek fogyasztói forgalmazásával kapcsolatos ügyekben a fogyasztóvédelmi hatóság, üzembe helyezéssel és az üzemeltetéssel kapcsolatos ügyekben a mérésügyi hatóság;
 
 d) a gumiabroncsnyomás-mérő forgalomba hozatala: a gumiabroncsnyomás-mérő ingyenes vagy visszterhes elidegenítése a fogyasztók és a felhasználók részére;
 
@@ -16,4 +16,5 @@ f) hitelesítési bizonyítvány: a hitelesítésre jogosult szerv által kiadot
 
 g) hitelesítés: a mérésügyről szóló 1991. évi XLV. törvény és a végrehajtására kiadott, többször módosított 127/1991. (X. 9.) Korm. rendeletben szabályozott eljárás.
 
-[^1]: A 2. § b) pontja a 87/2006. (XII. 26.) GKM rendelet 13. §-a szerint módosított szöveg.
+[^1]: A 2. § b) pontja a 27/2010. (XII. 31.) NGM rendelet 18. §-a szerint módosított szöveg.
+[^2]: A 2. § c) pontja a 27/2010. (XII. 30.) NGM rendelet 18. §-a szerint módosított szöveg.
