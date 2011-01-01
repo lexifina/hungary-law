@@ -4,11 +4,11 @@
 
 ## Az ügyész jogai az ügyészi törvényességi felügyelet körében
 
-13. § (1) Az ügyészi törvényességi felügyelet a Kormánynál alacsonyabb szintű közigazgatási szervek által kibocsátott jogszabályokra, illetőleg az állami irányítás egyéb jogi eszközeire, valamint e szervek egyéb, általános érvényű rendelkezéseire és e szervek jogalkalmazás körébe tartozó egyedi döntéseire terjed ki. Kiterjed ezen túlmenően a bíróságon kívüli, jogvitát intéző vagy hatósági jogkört gyakorló szervek és személyek ez irányú eljárásaira és egyedi döntéseire, valamint a gazdálkodó és egyéb szerveknek, jogi személyiséggel nem rendelkező szervezeteknek a munkaviszonnyal és a szövetkezeti tagsági viszonnyal összefüggő egyedi döntéseire, továbbá a jogszabályok felhatalmazása alapján kiadott általános érvényű intézkedéseire. Törvény az ügyészi törvényességi felügyelet hatályát más – e bekezdésben nem említett – szervekre is kiterjesztheti.
+13. § (1) Az ügyészi törvényességi felügyelet a Kormánynál alacsonyabb szintű közigazgatási szervek által kibocsátott jogszabályokra, illetőleg a közjogi szervezetszabályozó eszközökre, valamint e szervek egyéb, általános érvényű rendelkezéseire és e szervek jogalkalmazás körébe tartozó egyedi döntéseire terjed ki. Kiterjed ezen túlmenően a bíróságon kívüli, jogvitát intéző vagy hatósági jogkört gyakorló szervek és személyek ez irányú eljárásaira és egyedi döntéseire, valamint a gazdálkodó és egyéb szerveknek, jogi személyiséggel nem rendelkező szervezeteknek a munkaviszonnyal és a szövetkezeti tagsági viszonnyal összefüggő egyedi döntéseire, továbbá a jogszabályok felhatalmazása alapján kiadott általános érvényű intézkedéseire. Törvény az ügyészi törvényességi felügyelet hatályát más – e bekezdésben nem említett – szervekre is kiterjesztheti.
 
 (2) Az ügyész a törvényesség biztosítása érdekében az ügyészi törvényességi felügyelet során
 
-a) óvást emelhet az Alkotmánnyal vagy magasabb szintű jogszabállyal ellentétes jogszabály, illetőleg állami irányítás egyéb jogi eszköze ellen;
+a) óvást emelhet az Alkotmánnyal vagy magasabb szintű jogszabállyal ellentétes jogszabály, illetőleg közjogi szervezetszabályozó eszköz ellen;
 
 b) elbírálja azokat a törvényességi kérelmeket, közérdekű bejelentéseket és törvénysértésre utaló jelzéseket, amelyeket az államigazgatás és más, bíróságon kívüli jogalkalmazó szervek határozatai, illetőleg törvénysértő mulasztásai ellen az ügyészséghez benyújtanak;
 

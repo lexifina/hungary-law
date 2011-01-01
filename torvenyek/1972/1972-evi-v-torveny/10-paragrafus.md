@@ -18,4 +18,4 @@ e) mindazon perekben és peren kívüli eljárásokban, amelyekben az ügyészt 
 
 f) külön törvény felhatalmazása alapján az ügyész által közérdekből indítható polgári peres eljáráshoz az állami, a helyi önkormányzati és a kisebbségi önkormányzati szervek, a köztestületek és a gazdálkodó szervezetek vezetőitől iratok és adatok rendelkezésre bocsátását, továbbá felvilágosítás adását kérheti; a megkeresett szerv vezetője az ügyészi felkérésnek köteles az ügyész által kitűzött határidőn belül eleget tenni.
 
-(3) A helyi bíróságon ügyészségi titkár is képviselheti a vádat, kivéve, ha a bíróság az ügyészt a tárgyaláson való részvételre kötelezte.
+(3) A helyi bíróságon – törvényben meghatározott esetben – ügyészségi fogalmazó és ügyészségi titkár is képviselheti a vádat.

@@ -24,9 +24,9 @@ i) az Országos Igazságszolgáltatási Tanács tagjaként ellátja a külön t�
 
 j) az Alkotmánybíróságnál indítványozhatja
 
-— a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálatát;
+— a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálatát;
 
-— a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálatát;
+— a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálatát;
 
 — az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálását;
 

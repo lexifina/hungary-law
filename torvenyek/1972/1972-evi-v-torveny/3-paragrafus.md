@@ -2,7 +2,7 @@
 
 a) védi az Alkotmányban és más jogszabályokban biztosított jogokat;
 
-b) fellép az Alkotmány, a törvények, az egyéb jogszabályok és az állami irányítás egyéb jogi eszközei megtartása érdekében;
+b) fellép az Alkotmány, a törvények, az egyéb jogszabályok és a közjogi szervezetszabályozó eszközök megtartása érdekében;
 
 c) üldözi a tudomására jutott bűncselekményeket;
 
@@ -22,7 +22,7 @@ e) törvényességi felügyeletet lát el a büntetések és intézkedések vég
 
 f) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nem peres eljárásaiban);
 
-g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák (ügyészi törvényességi felügyelet);
+g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák, e körben ellátja a Rendőrségről szóló 1994. évi XXXIV. törvényben (a továbbiakban: Rtv.) meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálatra vonatkozó tevékenységének felügyeletét (ügyészi törvényességi felügyelet);
 
 h) kiemelt figyelmet fordít a kiskorúak sérelmére elkövetett bűncselekmények üldözésére, eljár a szükséges gyermekvédelmi intézkedések megtétele érdekében;
 
