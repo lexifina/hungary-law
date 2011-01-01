@@ -1,14 +1,14 @@
 ## 13. § Az Szt. 84/R. §-a alapján a nemzetközi szabadalmi bejelentést három azonos példányban kell benyújtani.
 
-## A Magyar Szabadalmi Hivatal mint megjelölt vagy kiválasztott hivatal – a nemzeti szakaszba lépés követelményei
+## A Hivatal mint megjelölt vagy kiválasztott hivatal – a nemzeti szakaszba lépés követelményei[^11]
 
-14. § (1) Ha a Magyar Szabadalmi Hivatal a nemzetközi szabadalmi bejelentés ügyében megjelölt vagy kiválasztott hivatalként jár el, a következőket kell benyújtani az iratok rendeltetésének feltüntetésével:
+14. § (1)[^12] Ha a Hivatal a nemzetközi szabadalmi bejelentés ügyében megjelölt vagy kiválasztott hivatalként jár el, a következőket kell benyújtani az iratok rendeltetésének feltüntetésével:
 
 a) a nemzetközi szabadalmi bejelentésnek az Szt. 84/S. §-ának (5) bekezdésében foglaltakkal összhangban elkészített magyar nyelvű fordítását;
 
 b) a feltaláló nevének és címének közlését, illetve a nemzetközi szabadalmi bejelentés ezt tartalmazó iratára való hivatkozást;
 
-c) ha az igénypontokat módosították, annak megjelölését, hogy a Magyar Szabadalmi Hivatal előtti eljárásban a szabadalmat az eredeti vagy a módosított igénypontok szerint igénylik-e;
+c)[^13] ha az igénypontokat módosították, annak megjelölését, hogy a Hivatal előtti eljárásban a szabadalmat az eredeti vagy a módosított igénypontok szerint igénylik-e;
 
 d) a nemzetközi szabadalmi bejelentés nemzetközi bejelentési számát;
 
@@ -29,3 +29,7 @@ k) ha a bejelentő a feltaláló jogutódja, szabadalmi bejelentés benyújtás�
 (2) A nemzetközi szabadalmi bejelentés magyar nyelvű fordítását három azonos példányban kell benyújtani.
 
 (3) Nukleotid- vagy aminosav-szekvenciák feltárását tartalmazó bejelentés esetében a 8. § előírásait is teljesíteni kell.
+
+[^11]: A 14. §-t megelőző alcím a 27/2010. (XII. 28.) KIM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 14. § (1) bekezdés nyitó szövegrésze a 27/2010. (XII. 28.) KIM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 14. § (1) bekezdés c) pontja a 27/2010. (XII. 28.) KIM rendelet 9. § (2) bekezdése szerint módosított szöveg.
