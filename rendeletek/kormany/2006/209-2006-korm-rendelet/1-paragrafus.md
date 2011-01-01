@@ -4,7 +4,7 @@
 
 (2) A polgármester öregségi nyugdíja, illetve közszolgálati járadéka megállapítása kérelemre történik.
 
-(3)[^1] A polgármester kérelmét tisztsége megszűnése napjától számított három hónapon belül a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerinti öregségi nyugellátás igénylésére rendszeresített igénybejelentő lapon, a kérelem elbírálására hatáskörrel rendelkező, lakóhely szerint illetékes regionális nyugdíjbiztosítási igazgatóságnál (a továbbiakban: megállapító szerv) nyújthatja be.
+(3)[^1] A polgármester kérelmét tisztsége megszűnése napjától számított három hónapon belül a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerinti öregségi nyugellátás igénylésére rendszeresített igénybejelentő lapon, a kérelem elbírálására hatáskörrel rendelkező, lakóhely szerint illetékes nyugdíjbiztosítási igazgatóságnál (a továbbiakban: megállapító szerv) nyújthatja be.
 
 (4)[^2] A kérelemhez csatolni kell az Országos Nyugdíjbiztosítási Főigazgatóság által e célra rendszeresített, a kitöltéshez szükséges tájékoztatót tartalmazó nyomtatványt vagy elektronikus űrlapot (a továbbiakban: igénybejelentő pótlap) és annak a helyi önkormányzatnak a jegyzője, főjegyzője (a továbbiakban együtt: jegyző) által a polgármester öregségi nyugdíja és közszolgálati járadéka megállapításához kiállított igazolást, amelynél a polgármester tisztsége megszűnt.
 
@@ -56,7 +56,7 @@ g) a jegyző aláírását, bélyegzőjét.
 
 (7)[^5] A megállapított öregségi nyugdíjat, közszolgálati járadékot a Nyugdíjfolyósító Igazgatóság (a továbbiakban: folyósító szerv) folyósítja.
 
-[^1]: Az 1. § (3) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 18. § (2) bekezdése f) pontjának fa) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 474. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^1]: Az 1. § (3) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 18. § (2) bekezdése f) pontjának fa) alpontja, a 351/2010. (XII. 30.) Korm. rendelet 154. §-a szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdése a 93/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (5) bekezdése a 93/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (6) bekezdése a 93/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
