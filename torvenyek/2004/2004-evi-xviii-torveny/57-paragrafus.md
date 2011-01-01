@@ -34,7 +34,7 @@ n) a Bor Eredetvédelmi Tanács összetételével, működésével és eljárás
 
 o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.
 
-(2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel együttes rendeletben a borászati termékek kötelező egységes bizonylatolási, nyilvántartási és elszámolási rendjét szabályozza.
+(2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben a borászati termékek kötelező egységes bizonylatolási, nyilvántartási és elszámolási rendjét szabályozza.
 
 (3) Felhatalmazást kap a Kormány, hogy
 

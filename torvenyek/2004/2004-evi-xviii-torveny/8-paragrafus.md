@@ -1,4 +1,4 @@
-8. § (1) Telepítés vagy kivágás esetén annak megtörténtét az engedélyes 10 munkanapon belül köteles az ültetvény fekvése szerint illetékes hegybíró részére írásban bejelenteni. A hegybíró a bejelentést 8 munkanapon belül továbbítja a növénytermesztési hatóság részére.
+8. § (1) Telepítés vagy kivágás esetén annak megtörténtét az engedélyes tizenöt napon belül köteles az ültetvény fekvése szerint illetékes hegybíró részére írásban bejelenteni. A hegybíró a bejelentést tíz napon belül továbbítja a növénytermesztési hatóság részére.
 
 (2) A bejelentés alapján a művelettel érintett területet a növénytermesztési hatóság ellenőrzi. Az ellenőrzésről szóló jegyzőkönyvet megküldi a hegybíró, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv részére.
 

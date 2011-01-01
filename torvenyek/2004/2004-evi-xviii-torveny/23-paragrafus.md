@@ -26,10 +26,10 @@ h) a bor savtartalmának módosítására vonatkozó tényt.
 
 (6) Továbbfeldolgozás céljára a Magyar Köztársaság területére behozott bor esetén a származási bizonyítványt a bor tárolási helye szerint illetékes hegybíró állítja ki, a borkísérő okmányok alapján.
 
-(7) A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bor esetén a származási bizonyítványt a forgalomba hozatali engedély helyettesíti. A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bornak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott adatait a továbbfeldolgozás megkezdése előtt 3 munkanappal a borászati üzem köteles írásban megküldeni a borászati hatóságnak.
+(7) A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bor esetén a származási bizonyítványt a forgalomba hozatali engedély helyettesíti. A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bornak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott adatait a továbbfeldolgozás megkezdése előtt öt nappal a borászati üzem köteles írásban megküldeni a borászati hatóságnak.
 
 (8) Nem minősül a borászati termék továbbfeldolgozásának a változatlan formában történő palackozás, illetve tárolás céljából történő átvétel, illetve vásárlás.
 
 (9) Továbbfeldolgozás, illetve kiszerelés céljából a Magyar Köztársaság területére behozott bor készletváltozásáról a borászati üzem adatot szolgáltat a borászati üzem helye szerint illetékes hegybíró részére. Az adatszolgáltatás a borászati üzem nevére, adószámára, a származási ország nevére, a behozott bor mennyiségére és kategóriájára terjed ki. Az adatszolgáltatás részletes szabályait az e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
-(10) A hegybíró a (9) bekezdésben meghatározott adatokat 10 munkanapon belül továbbítja a borászati hatóság részére.
+(10) A hegybíró a (9) bekezdésben meghatározott adatokat tizenöt napon belül továbbítja a borászati hatóság részére.
