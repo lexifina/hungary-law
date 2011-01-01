@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-302-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-04-11 | 2006-302-20-22.3 | 302/2006. (XII. 23.) Korm. rendelet |
+| 2011-01-01 | 2006-302-20-22.4 | 332/2010. (XII. 27.) Korm. rendelet |
