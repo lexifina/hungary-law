@@ -1,0 +1,1 @@
+## 7. § Hatályát veszti az R. 1. § (18) bekezdésében a „központi szerve” szövegrész, valamint 4. § (4) bekezdésében a „vagy az illetékes regionális egészségbiztosítási pénztár (a továbbiakban: REP)” szövegrész.
