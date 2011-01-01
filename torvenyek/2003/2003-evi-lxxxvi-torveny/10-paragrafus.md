@@ -6,7 +6,7 @@ b) a 14. §-ban meghatározott szakképzési célokra
 
 használható fel.
 
-(2) A bevételi előirányzat terhére, az Alap működési alaprészéből – a költségvetési törvényben meghatározott összegben – kell biztosítani az állami szakképzési és felnőttképzési intézet alapfeladatai ellátásához szükséges pénzeszközöket.
+(2)
 
 (3) Az alaprésznek az oktatásért felelős miniszter rendelkezési jogkörébe tartozó része
 
@@ -36,7 +36,7 @@ l) a Nemzeti Tehetség Programban meghatározott célok megvalósítására
 
 használható fel.
 
-(4) A 9. § (2) bekezdés g) pontja szerinti decentralizált keret
+(4) A 9. § (2) bekezdés h) pontja szerinti decentralizált keret
 
 a) a 14. § (1) és (10) bekezdése szerinti célok, valamint
 

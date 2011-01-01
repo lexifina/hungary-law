@@ -32,4 +32,6 @@ k) ellátja a külön jogszabályban meghatározott feladatokat.
 
 (6) A megyék és a főváros regionális besorolása a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény alapján meghatározott régiók szerint történik.
 
-(7) A bizottság működéséhez szükséges feltételek biztosításáról a szakképzésért és felnőttképzésért felelős miniszter a közoktatási feladatkörében eljáró oktatási hivatal útján gondoskodik.
+(7) A bizottság működésével, a hatáskörébe tartozó döntések, javaslatok, állásfoglalások előkészítésével és a végrehajtással, valamint működtetési költségeinek felhasználásával kapcsolatos feladatokat a bizottság munkaszervezeteként az állami foglalkoztatási szerv látja el.
+
+(8) A bizottság a (2) bekezdés b) és j) pontokban szereplő döntéseit a Magyar Kereskedelmi és Iparkamara javaslatának figyelembevételével hozza meg.
