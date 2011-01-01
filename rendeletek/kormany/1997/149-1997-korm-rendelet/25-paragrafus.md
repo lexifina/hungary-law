@@ -1,6 +1,6 @@
 ## A törvényes képviselet
 
-25. § (1)[^78] A szülő jognyilatkozatainak érvényességéhez a gyámhivatal jóváhagyása szükséges, ha a jognyilatkozat
+25. § (1)[^79] A szülő jognyilatkozatainak érvényességéhez a gyámhivatal jóváhagyása szükséges, ha a jognyilatkozat
 
 a) a gyermeket megillető tartásról történő lemondásra [Ptk. 13. § (1) bekezdés a) pont],
 
@@ -18,21 +18,21 @@ g) a gyermek lakásbérleti szerződésének közös megegyezéssel történő m
 
 h) a gyermek által kötött tartási vagy életjáradéki szerződésre,
 
-i)[^79] a gyermek személyes tulajdonát képező, az öregségi nyugdíj mindenkori legkisebb összegének hétszeresét meghaladó mértékű ingó és készpénzvagyonát, illetve vagyoni értékű jogát érintő jogügyletre [Ptk. 13. § (1) bek. e) pont],
+i)[^80] a gyermek személyes tulajdonát képező, az öregségi nyugdíj mindenkori legkisebb összegének hétszeresét meghaladó mértékű ingó és készpénzvagyonát, illetve vagyoni értékű jogát érintő jogügyletre [Ptk. 13. § (1) bek. e) pont],
 
-j)[^80] a gyermek tulajdonát képező – az öregségi nyugdíj mindenkori legkisebb összegének hétszeresét meghaladó – értékpapírt, üzletrészt, részvényt érintő jogügyletre [Ptk. 13. § (1) bek. e) pont],
+j)[^81] a gyermek tulajdonát képező – az öregségi nyugdíj mindenkori legkisebb összegének hétszeresét meghaladó – értékpapírt, üzletrészt, részvényt érintő jogügyletre [Ptk. 13. § (1) bek. e) pont],
 
 k) a gyermek beszolgáltatott vagyonára [Csjt. 82. § (2) bek., Ptk. 13. § (1) bek. d) pont],
 
 l) a gyermek részére ígért vagy adott ajándék visszautasítására [Ptk. 12/A. § (4) bek.],
 
-m)[^81] a gyermek ingatlantulajdonát érintő közös tulajdon átruházással történő megszüntetésére [Ptk. 13. § (1) bek. c) pont]
+m)[^82] a gyermek ingatlantulajdonát érintő közös tulajdon átruházással történő megszüntetésére [Ptk. 13. § (1) bek. c) pont]
 
 ## vonatkozik.
 
 (2) A gyámhivatal az (1) bekezdésben felsorolt jognyilatkozat jóváhagyását elutasítja, ha a jognyilatkozatot tartalmazó okirat alaki szempontból érvénytelen. A jognyilatkozat gyámhivatali jóváhagyása a jognyilatkozat érvényességéhez szükséges – jogszabályban előírt – egyéb feltételeket nem pótolja.
 
-[^78]: A 25. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^79]: A 25. § (1) bekezdésének i) pontja a 315/2005. (XII. 25.) Korm. rendelet 23. §-ával megállapított, a 319/2009. (XII. 29.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
-[^80]: A 25. § (1) bekezdés j) pontja a 319/2009. (XII. 29.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
-[^81]: A 25. § (1) bekezdésének m) pontját a 315/2005. (XII. 25.) Korm. rendelet 23. §-a iktatta be.
+[^79]: A 25. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^80]: A 25. § (1) bekezdésének i) pontja a 315/2005. (XII. 25.) Korm. rendelet 23. §-ával megállapított, a 319/2009. (XII. 29.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^81]: A 25. § (1) bekezdés j) pontja a 319/2009. (XII. 29.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^82]: A 25. § (1) bekezdésének m) pontját a 315/2005. (XII. 25.) Korm. rendelet 23. §-a iktatta be.

@@ -16,7 +16,7 @@ a) a szülők meghaltak,
 
 b) a szülők szülői felügyeletét a bíróság megszüntette,
 
-c) a szülők cselekvőképtelenek vagy cselekvőképességükben korlátozva vannak,
+c)[^574] a szülők cselekvőképtelenek vagy cselekvőképességükben e tekintetben korlátozva vannak,
 
 d) a szülők ismeretlen helyen távol vannak, vagy ténylegesen akadályozva vannak,
 
@@ -26,21 +26,22 @@ f) a gyermeket a gyámhivatal átmeneti vagy tartós nevelésbe vette,
 
 g) a gyámhivatal a gyermek családba fogadásához hozzájárult,
 
-h)[^514] a gyámhivatal a gyermeket ideiglenes hatállyal hozzátartozónál vagy más személynél, illetőleg nevelőszülőnél, gyermekotthonban vagy fogyatékosok és pszichiátriai betegek intézményében helyezte el és szülője ellen szülői felügyelet megszüntetése, illetőleg gyermek elhelyezése iránt per van folyamatban,
+h)[^575] a gyámhivatal a gyermeket ideiglenes hatállyal hozzátartozónál vagy más személynél, illetőleg nevelőszülőnél, gyermekotthonban vagy fogyatékosok és pszichiátriai betegek intézményében helyezte el és szülője ellen szülői felügyelet megszüntetése, illetőleg gyermek elhelyezése iránt per van folyamatban,
 
-i)[^515] a szülő hathetes életkornál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához hozzájárult,
+i)[^576] a szülő hathetes életkornál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához hozzájárult,
 
-j)[^516] a szülő a gyermeke ismert személy általi örökbefogadásához hozzájárult, kivéve, ha a szülő a házastárs által történő örökbefogadáshoz járult hozzá.
+j)[^577] a szülő a gyermeke ismert személy általi örökbefogadásához hozzájárult, kivéve, ha a szülő a házastárs által történő örökbefogadáshoz járult hozzá.
 
-(3)[^517] A gyámhivatal hivatásos gyámot rendel a gyermek részére, ha a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához, és a gyermeket ideiglenesen a leendő örökbefogadó szülőnél helyezték el [Csjt. 98. § (4) bek. d) pont].
+(3)[^578] A gyámhivatal hivatásos gyámot rendel a gyermek részére, ha a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához, és a gyermeket ideiglenesen a leendő örökbefogadó szülőnél helyezték el [Csjt. 98. § (4) bek. d) pont].
 
-(4)[^518] Ha a szülő gyermekének általa ismert személy részéről történő örökbefogadásához járult hozzá, és az örökbefogadás engedélyezését a megnevezett leendő örökbefogadó szülő egyidejűleg maga is kéri – alkalmassága esetén – az örökbefogadni szándékozó személyt a gyámhivatal a gyermek gyámjául rendeli ki.
+(4)[^579] Ha a szülő gyermekének általa ismert személy részéről történő örökbefogadásához járult hozzá, és az örökbefogadás engedélyezését a megnevezett leendő örökbefogadó szülő egyidejűleg maga is kéri – alkalmassága esetén – az örökbefogadni szándékozó személyt a gyámhivatal a gyermek gyámjául rendeli ki.
 
-(5)[^519] Ha a szülői felügyeleti jogot gyakorló szülő meghal, szülői felügyeletét a bíróság megszüntette vagy az szünetel, de a másik szülő él és szülői felügyeletét gyakorolhatja, gyám rendelésének nincs helye.
+(5)[^580] Ha a szülői felügyeleti jogot gyakorló szülő meghal, szülői felügyeletét a bíróság megszüntette vagy az szünetel, de a másik szülő él és szülői felügyeletét gyakorolhatja, gyám rendelésének nincs helye.
 
-[^514]: A 127. § (2) bekezdésének h) pontja a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdésével megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^515]: A 127. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^516]: A 127. § (2) bekezdésének j) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^517]: A 127. § új (3) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^518]: A 127. § (4) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^519]: A 127. § eredeti (3) bekezdésének számozását a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése (5) bekezdésre változtatta.
+[^574]: A 127. § (2) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 26. pontja szerint módosított szöveg.
+[^575]: A 127. § (2) bekezdésének h) pontja a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdésével megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^576]: A 127. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^577]: A 127. § (2) bekezdésének j) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^578]: A 127. § új (3) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^579]: A 127. § (4) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^580]: A 127. § eredeti (3) bekezdésének számozását a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése (5) bekezdésre változtatta.

@@ -52,6 +52,14 @@
 
 ## az óvodáztatási támogatást igénylő aláírása
 
-12. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^669]
+12. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^735]
 
-[^669]: A 12. számú mellékletet a 275/2008. (XI. 21.) Korm. rendelet 18. §-a iktatta be.
+Adatlap
+
+a Gyvt 20/C. §-a (1) bekezdésének a) pontja szerinti óvodáztatási támogatás előlegének igényléséhez
+
+és az elszámoláshoz
+
+……......... év ........... tárgyhónap
+
+[^735]: A 12. számú mellékletet a 275/2008. (XI. 21.) Korm. rendelet 18. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.

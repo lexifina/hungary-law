@@ -1,4 +1,4 @@
-## 13/A. §[^48] A szakértői vélemény elkészítésének határideje huszonkét munkanap.
+## 13/A. §[^48] A szakértői vélemény elkészítésének határideje harminc nap.
 
 ## A döntés tartalma és közlése
 
@@ -16,7 +16,7 @@ c) a döntés végrehajtásában, teljesítésében közreműködő szerv megker
 
 (4)[^52]
 
-[^48]: A 13/A. §-t a 315/2005. (XII. 25.) Korm. rendelet 13. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 6. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^48]: A 13/A. §-t a 315/2005. (XII. 25.) Korm. rendelet 13. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 6. §-ával megállapított, a 360/2010. (XII. 30.) Korm. rendelet 25. § 2. pontja szerint módosított szöveg.
 [^49]: A 14. § és alcíme a 315/2005. (XII. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^50]: A 14. § (1) bekezdés bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 6. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^51]: A 14. § (1) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

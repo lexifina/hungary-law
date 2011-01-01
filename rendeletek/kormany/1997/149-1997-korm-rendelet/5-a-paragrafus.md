@@ -28,7 +28,7 @@ k) a büntetőjogi felelősségre nem vonható 14 év alatti elkövetők ügyéb
 
 (3) A szociális és gyámhivatal a (2) bekezdés szerinti jelentés elkészítéséhez tájékoztatást kér
 
-a)[^6] az Igazságügyi Hivatal illetékes területi hivatalától, a rendőrségtől, valamint a jegyzőtől és a gyermekjóléti szolgálattól, a speciális gyermekotthontól, a javítóintézettől a gyermekkorú, illetve fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről, azok okairól,
+a)[^6] a pártfogó felügyelői feladatokat ellátó illetékes fővárosi, megyei igazságügyi szolgálattól, a rendőrségtől, valamint a jegyzőtől és a gyermekjóléti szolgálattól, a speciális gyermekotthontól, a javítóintézettől a gyermekkorú, illetve fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről, azok okairól,
 
 b) a gyermekjóléti szolgálattól a családgondozás és a védelembe vétel eredményéről.
 
@@ -38,5 +38,5 @@ b) a gyermekjóléti szolgálattól a családgondozás és a védelembe vétel e
 
 [^4]: A 3–5. §-t és a 3. §-t megelőző alcímet a 331/2006. (XII. 23.) Korm. rendelet 24. § (2) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
 [^5]: Az 5/A. §-t a 72/2003. (V. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 331/2006. (XII. 23.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^6]: Az 5/A. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^6]: Az 5/A. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 15. § a) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
 [^7]: Az 5/A. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

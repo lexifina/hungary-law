@@ -1,4 +1,4 @@
-91/R. §[^398] (1) Ha a jegyző illetékessége az iskoláztatási támogatás felfüggesztése alatt megszűnik, a jegyző haladéktalanul
+91/R. §[^456] (1) Ha a jegyző illetékessége az iskoláztatási támogatás felfüggesztése alatt megszűnik, a jegyző haladéktalanul
 
 a) felhívja a kirendelt eseti gondnokot az elszámolásra,
 
@@ -8,4 +8,4 @@ c) értesíti az illetékességváltozásról a Magyar Államkincstárnak az isk
 
 (2) A jegyző az eseti gondnokot az elszámolás elfogadását követően határozatával felmenti, és határozatát közli az illetékessé vált jegyzővel.
 
-[^398]: A 91/R. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^456]: A 91/R. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.

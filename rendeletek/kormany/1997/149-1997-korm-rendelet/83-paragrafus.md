@@ -10,8 +10,8 @@ a) felhívja a gyermekjóléti szolgálatot a gyermeknek az alapellátás keret�
 
 b) az iratok egyidejű megküldésével megkeresi a jegyzőt, ha a gyermek veszélyeztetettségének megszüntetéséhez a jegyző hatáskörébe tartozó intézkedés megtétele indokolt vagy szükséges.
 
-(3)[^333] A jegyző, illetve a gyámhivatal dönt a gyermekvédelmi intézkedés alkalmazásáról vagy az eljárás megszüntetéséről.
+(3)[^359] A jegyző, illetve a gyámhivatal dönt a gyermekvédelmi intézkedés alkalmazásáról vagy az eljárás megszüntetéséről.
 
 (4) Az (1) bekezdés a) valamint a (2) bekezdés a) és b) pontjában foglaltakat megfelelően alkalmazni kell akkor is, ha a jegyző illetve a gyámhivatal az általa addig alkalmazott gyermekvédelmi intézkedést megszünteti.
 
-[^333]: A 83. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 45. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés r) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^359]: A 83. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 45. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés r) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

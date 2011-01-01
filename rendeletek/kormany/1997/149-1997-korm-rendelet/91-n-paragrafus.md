@@ -1,4 +1,4 @@
-91/N. §[^393] (1) A jegyző a felülvizsgálati eljárás során
+91/N. §[^445] (1) A jegyző a felülvizsgálati eljárás során
 
 a) tájékoztatást kér a közoktatási intézmény igazgatójától arról, hogy
 
@@ -18,7 +18,7 @@ ab) a jegyző elrendeli az iskoláztatási támogatás változatlan módon tört
 
 b) ha a gyermek a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul nem mulasztott, a jegyző elrendeli az iskoláztatási támogatás felfüggesztésének megszüntetését.
 
-(3) A (2) bekezdés a) pont aa) alpontja és b) pontja szerinti esetben az iskoláztatási támogatás természetbeni formában történő nyújtása érdekében a jegyző megkeresi a gyermekjóléti szolgálatot, hogy 10 munkanapon belül készítse el a családtámogatási folyószámlán eddig összegyűlt vagy ezt követően arra átutalt iskoláztatási támogatás felhasználására vonatkozó pénzfelhasználási tervet és tegyen javaslatot az eseti gondnok személyére.
+(3)[^446] A (2) bekezdés a) pont aa) alpontja és b) pontja szerinti esetben az iskoláztatási támogatás természetbeni formában történő nyújtása érdekében a jegyző megkeresi a gyermekjóléti szolgálatot, hogy tizenöt napon belül készítse el a családtámogatási folyószámlán eddig összegyűlt vagy ezt követően arra átutalt iskoláztatási támogatás felhasználására vonatkozó pénzfelhasználási tervet és tegyen javaslatot az eseti gondnok személyére.
 
 (4) A jegyző a gyermekjóléti szolgálat javaslatának beérkezését követően tárgyalást tart,
 
@@ -30,7 +30,7 @@ ba) a korlátozottan cselekvőképes gyermeket,
 
 bb) a gyermekjóléti szolgálatot,
 
-bc) védelembe vett gyermek esetén a kirendelt családgondozót,
+bc)[^447] a kirendelt családgondozót,
 
 bd) a közoktatási intézmény igazgatóját,
 
@@ -58,4 +58,6 @@ e) a gyermek védelembe vételének a 91/K. § (2) bekezdése szerinti fenntart�
 
 (7) A (2) bekezdés b) pontja szerinti esetben a jegyző a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak a 91/G. § (6) bekezdése szerinti havi részleteit a felfüggesztés időtartamával megegyező számú hónapig, minden hónap 5. napjáig kifizeti az eseti gondnok részére.
 
-[^393]: A 91/N. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
+[^445]: A 91/N. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
+[^446]: A 91/N. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
+[^447]: A 91/N. § (4) bekezdés b) pont bc) alpontja a 360/2010. (XII. 30.) Korm. rendelet 24. § g) pontja szerint módosított szöveg.

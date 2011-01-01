@@ -2,9 +2,15 @@
 
 ## Környezettanulmány
 
-9. § (1)[^24] A gyámhatóság a Gyvt. 130. §-ának (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére más szervet vagy személyt is felkérhet.
+9. § (1)[^24] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a gyermekjóléti szolgálatot.
 
-(2)[^25] A gyámhatóság környezettanulmány (helyzetértékelés) elkészítésére elsősorban a gyermekjóléti szolgálatot, illetve a gyermekvédelmi szakszolgálatot kérheti fel.
+(2)[^25] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
+
+a) az örökbefogadhatónak nyilvánításra irányuló eljárás során a gyermekjóléti szolgálatot,
+
+b) az örökbefogadás előtti eljárás és az örökbefogadás engedélyezése iránti eljárás során a gyermekvédelmi szakszolgálatot
+
+kérheti fel.
 
 (3)[^26] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza
 
@@ -31,6 +37,6 @@ bd) anyagi és szociális körülményeit,
 be) ügyének szempontjából lényeges megállapításokat.
 
 [^23]: A 8/C. §-t a 315/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^24]: A 9. § (1) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 4. pontja szerint módosított szöveg.
-[^25]: A 9. § (2) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 5. pontja, a 275/2008. (XI. 21.) Korm. rendelet 23. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^24]: A 9. § (1) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^25]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^26]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 3. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

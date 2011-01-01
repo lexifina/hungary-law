@@ -6,6 +6,7 @@
 
 (3) Az eljárás során gondosan vizsgálni és mérlegelni kell a gyermek képességeit, eddigi tanulmányait és annak eredményeit, továbbá egészségi állapotát.
 
-(4) A (3) bekezdésben foglaltak vizsgálata során be kell szerezni a nevelési tanácsadó vagy a gyermek nevelési- oktatási intézményének véleményét, továbbá – szükség esetén – a gyermek-pszichiátriai gondozó vagy egyéb egészségügyi intézet szakvéleményét.
+(4)[^75] A (3) bekezdésben foglaltak vizsgálata során ki kell kérni a nevelési tanácsadó vagy a gyermek nevelési- oktatási intézményének véleményét, továbbá – szükség esetén – a gyermek-pszichiátriai gondozó vagy egyéb egészségügyi intézet szakvéleményét.
 
 [^74]: A 23. § (1) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^75]: A 23. § (4) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.

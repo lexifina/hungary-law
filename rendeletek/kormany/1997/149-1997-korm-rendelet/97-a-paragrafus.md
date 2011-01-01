@@ -1,5 +1,5 @@
-97/A. §[^422] (1) A jegyző, a városi gyámhivatal, a rendőrség és a büntetés-végrehajtási intézet parancsnoksága által hozott ideiglenes hatályú elhelyezésről szóló határozat elleni fellebbezés 5 munkanapon belül nyújtható be.
+97/A. §[^481] (1) Az ügyészség és a bíróság kivételével a Gyvt. 72. § (1) bekezdése szerinti beutaló szerv által hozott ideiglenes hatályú elhelyezésről szóló határozat elleni fellebbezés nyolc napon belül nyújtható be.
 
-(2) A jegyző, a városi gyámhivatal, a rendőrség és a büntetés-végrehajtási intézet parancsnoksága által hozott ideiglenes hatályú elhelyezésről szóló határozat elleni fellebbezést a beutaló szerv székhelye szerint illetékes szociális és gyámhivatal bírálja el 10 munkanapon belül.
+(2) Az ügyészség és a bíróság kivételével a Gyvt. 72. § (1) bekezdése szerinti beutaló szerv által hozott ideiglenes hatályú elhelyezésről szóló határozat elleni fellebbezést a beutaló szerv székhelye szerint illetékes szociális és gyámhivatal bírálja el tizenöt napon belül.
 
-[^422]: A 97/A. §-t a 237/2010. (IX. 13.) Korm. rendelet 11. §-a iktatta be.
+[^481]: A 97/A. §-t a 237/2010. (IX. 13.) Korm. rendelet 11. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.

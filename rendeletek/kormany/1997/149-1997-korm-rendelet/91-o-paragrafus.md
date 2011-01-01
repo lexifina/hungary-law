@@ -1,4 +1,4 @@
-91/O. §[^394] (1) Ha a jegyző illetékessége
+91/O. §[^448] (1) Ha a jegyző illetékessége
 
 a) az iskoláztatási támogatás felfüggesztése alatt szűnik meg, a jegyző haladéktalanul
 
@@ -16,4 +16,4 @@ bc) értesíti az illetékességváltozásról a Magyar Államkincstárnak az is
 
 (2) A jegyző az eseti gondnokot az elszámolás elfogadását követően határozatával felmenti, és határozatát közli az illetékessé vált jegyzővel.
 
-[^394]: A 91/O. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
+[^448]: A 91/O. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
