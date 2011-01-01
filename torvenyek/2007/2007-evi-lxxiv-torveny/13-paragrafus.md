@@ -8,7 +8,7 @@
 
 a) a műsorszórásra felosztott frekvenciákon a vonatkozó szabványok szerinti digitális műsorszórás bevezetését,
 
-b) a műsorszórásra felosztott frekvenciákon kiegészítő digitális szolgáltatások nyújtását,
+b) a műsorszórásra felosztott frekvenciákon kiegészítő médiaszolgáltatások nyújtását,
 
 c) a műsorszóró frekvenciákon üzemelő egyéb, többek között védelmi célokat szolgáló rendszerek és eszközök kivonásig történő alkalmazását.
 

@@ -1,1 +1,0 @@
-23. § A műsorszórásra felosztott frekvenciák használati jogosultságára vonatkozó pályázatokon a közszolgálati és nem nyereségérdekelt műsorszolgáltató vállalkozások, társadalmi szervezetek az Rttv. 101. § (3) bekezdésének megfelelő alkalmazásával előnyt élveznek.

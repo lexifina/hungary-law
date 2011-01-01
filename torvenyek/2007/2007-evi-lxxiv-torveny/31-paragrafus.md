@@ -1,6 +1,6 @@
 ## Interaktív digitális televíziós szolgáltatások együttműködési képessége
 
-31. § (1) Az interaktív digitális televíziós szolgáltatások nyújtására alkalmas digitális átviteli hálózatot üzemeltető műsorterjesztők és műsorszolgáltatók (e § alkalmazásában: kötelezettek) az átvitel módjára tekintet nélkül kötelesek nyílt alkalmazási program interfész (a továbbiakban: API) használatára törekedni.
+31. § (1) Az interaktív digitális televíziós szolgáltatások nyújtására alkalmas digitális átviteli hálózatot üzemeltető műsorterjesztők és médiaszolgáltatók (e § alkalmazásában: kötelezettek) az átvitel módjára tekintet nélkül kötelesek nyílt alkalmazási program interfész (a továbbiakban: API) használatára törekedni.
 
 (2) Az interaktív digitális televíziós szolgáltatások nyújtására alkalmas digitális átviteli hálózatokhoz csatlakoztatható digitális televíziókészülék és elektronikus hírközlő berendezés gyártói (e § alkalmazásában: kötelezett gyártók) e készülékek vonatkozásában kötelesek figyelembe venni a nyílt API-ra vonatkozó előírásokat.
 

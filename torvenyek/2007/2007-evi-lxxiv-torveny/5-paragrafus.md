@@ -10,7 +10,7 @@
 
 4. Digitális műsorszóró hálózat vagy műsorszóró adó: az elektronikus hírközlő berendezések és elektronikus hírközlési építmények összessége, amely digitális műsorszórásra a frekvenciasávok nemzeti felosztását megállapító jogszabályban műsorszórásra felosztott frekvenciákat használja;
 
-5. Digitális műsorszóró hálózat vagy műsorszóró adó üzemeltetője: az a szolgáltató, amely a digitális műsorszórással nyújtott műsorterjesztési szolgáltatás, illetve kiegészítő digitális szolgáltatások, a multiplex technikai szolgáltatás vagy más elektronikus hírközlési szolgáltatás feltételeit az előfizetőnek, vagy felhasználónak, vagy más szolgáltatóknak meghatározza, illetve az előfizetővel vagy szolgáltatóval szerződést köt;
+5. Digitális műsorszóró hálózat vagy műsorszóró adó üzemeltetője: az a szolgáltató, amely a digitális műsorszórással nyújtott műsorterjesztési szolgáltatás, illetve kiegészítő médiaszolgáltatások, a multiplex technikai szolgáltatás vagy más elektronikus hírközlési szolgáltatás feltételeit az előfizetőnek, vagy felhasználónak, vagy más szolgáltatóknak meghatározza, illetve az előfizetővel vagy szolgáltatóval szerződést köt;
 
 6. Digitális televíziókészülék: a digitális vevődekóder és az analóg televízió készülék, vagy kijelző együtt, illetve az integrált digitális televízió-vevőkészülék;
 
@@ -18,13 +18,11 @@
 
 8. Elektronikus hírközlési szolgáltatás: az Eht. 188. §-ának 13. pontjában meghatározott szolgáltatás;
 
-9. Elektronikus műsorkalauz (EPG): olyan tartalomszolgáltatást is magában foglaló alkalmazás, amely egyebek mellett segítséget nyújt a műsorszolgáltatások és a kiegészítő szolgáltatások közvetlen eléréséhez;
-
-10. Európai szabvány: az Európai Szabványügyi Bizottság (Comité Européen de Normalisation, CEN), az Európai Elektrotechnikai Szabványügyi Bizottság (Comité Européen de Normalisation Electrotechnique, CENELEC) és az Európai Távközlési Szabványügyi Intézet (European Telecommunications Standards Institute, ETSI) által elfogadott szabvány;
+9. Elektronikus műsorkalauz (EPG): olyan kiegészítő médiaszolgáltatás, amely egyebek mellett segítséget nyújt a médiaszolgáltatások és más kiegészítő médiaszolgáltatások közvetlen eléréséhez;
 
 11. Feltételes hozzáférési rendszer: minden olyan műszaki megoldás, intézkedés, illetve rendszer, amely lehetővé teszi, hogy valamely műszaki intézkedéssel védett rádió- vagy televízióműsorhoz előfizetés vagy más formában megjelenő előzetes egyedi feljogosítás alapján férjenek hozzá;
 
-12. Feltételes hozzáférési rendszer üzemeltető: feltételes hozzáférési rendszert üzemeltető digitális műsorterjesztő, műsorszolgáltató vagy más személy, jogi személyiséggel nem rendelkező szervezet;
+12. Feltételes hozzáférési rendszer üzemeltető: feltételes hozzáférési rendszert üzemeltető digitális műsorterjesztő, médiaszolgáltató vagy más személy, jogi személyiséggel nem rendelkező szervezet;
 
 13. Forgalomba hozatal: analóg televízió-vevőkészülék vagy digitális televízió-készülék visszterhes vagy ingyenes, első ízben történő belföldi rendelkezésre bocsátása, kereskedelmi értékesítése, beleértve a bérbeadást is;
 
@@ -46,29 +44,29 @@
 
 22. Kapcsolódó eszközök: azok az elektronikus hírközlő hálózathoz és/vagy elektronikus hírközlési szolgáltatáshoz kapcsolódó eszközök, amelyek lehetővé teszik, és/vagy támogatják az adott hálózat, és/vagy szolgáltatás útján történő szolgáltatásnyújtást. Idetartoznak a feltételes hozzáférésű rendszerek és az elektronikus műsorkalauz;
 
-23. Kiegészítő digitális szolgáltatás: tartalomszolgáltatást is magában foglaló információs társadalommal összefüggő szolgáltatás, valamint a digitális műsorterjesztő átviteli rendszeren továbbított, általában interaktív digitális televíziós szolgáltatások, amelyek nem minősülnek az Eht. 188. §-ának 13. pontja szerinti elektronikus hírközlési szolgáltatásnak, illetve az Rttv. 2. §-ának 30. pontja szerinti műsorszolgáltatásnak és amelyek felhasználóhoz való eljuttatására a digitális műsorterjesztő átviteli rendszert használják. Kiegészítő digitális szolgáltatás különösen: a digitális teletext, az elektronikus műsorkalauz, a műsorszolgáltató által összeállított kínálatból igény szerint vagy közel igény szerint nyújtott videó-szolgáltatás, más részére nyújtott digitális személyi műsorrögzítő szolgáltatás;
+23. Kiegészítő médiaszolgáltatás: tartalomszolgáltatást is magában foglaló mindazon szolgáltatás, amelyet műsorterjesztő rendszeren továbbítanak, és amely nem minősül sem médiaszolgáltatásnak, sem elektronikus hírközlési szolgáltatásnak;
 
-24. Kiegészítő szolgáltatást nyújtó: a 23. pont szerinti szolgáltatást nyújtó szolgáltató;
+24. Kiegészítő médiaszolgáltatást nyújtó: a 23. pont szerinti szolgáltatást nyújtó szolgáltató;
 
 25. Körzeti műsorterjesztő: olyan műsorterjesztő, amelynek vételkörzete meghaladja a helyi műsorterjesztő vételkörzetét, de vételkörzetében az ország lakosságának kevesebb mint a fele él;
 
-26. Közszolgálati műsorszolgáltatás: e törvény értelmében az Rttv.-ben közszolgálati műsorszolgáltatóként meghatározott műsorszolgáltató által előállított, az Rttv. 132. és 133. §-aiban meghatározott műsorszolgáltatás;
+26. Közszolgálati médiaszolgáltatás: e törvény értelmében az Mttv.-ben közszolgálati médiaszolgáltatóként meghatározott médiaszolgáltató által előállított médiaszolgáltatás;
 
-27. Közszolgálati műsorszolgáltató: az Rttv.-ben közszolgálati műsorszolgáltatóként meghatározott műsorszolgáltató;
+27. Közszolgálati médiaszolgáltató: az Mttv.-ben közszolgálati médiaszolgáltatóként meghatározott médiaszolgáltató;
 
-28. Multiplex: a digitális műsorterjesztés céljára szolgáló, televíziós és rádiós műsorszolgáltatásokat, kiegészítő digitális szolgáltatásokat, elektronikus hírközlési szolgáltatásokat valamint ehhez kapcsolódó más azonosító jeleket és adatokat tartalmazó szabványosított jelfolyam;
+28. Multiplex: a digitális műsorterjesztés céljára szolgáló, audiovizuális és rádiós médiaszolgáltatásokat, kiegészítő médiaszolgáltatásokat, elektronikus hírközlési szolgáltatásokat, valamint ehhez kapcsolódó más azonosító jeleket és adatokat tartalmazó szabványosított jelfolyam;
 
 29. Multiplex technikai szolgáltató: az Eht. 188. §-ának 73. pontja szerinti szolgáltatást nyújtó;
 
 30. Műsor: rádió-, illetve televízió-műsorszámok, és más audiovizuális mozgóképek megszerkesztett és nyilvánosan közzétett sorozata;
 
-31. Műsorszolgáltatás: az Rttv. 2. §-ának 30. pontjában meghatározott műsorszolgáltatás, kivéve az információs csatorna üzemeltetését;
+31. Médiaszolgáltatás: az Mttv. 203. §-ában meghatározott médiaszolgáltatás, kivéve az információs csatorna üzemeltetését;
 
-32. Műsorszolgáltató: a 31. pont szerinti műsorszolgáltatást nyújtó;
+32. Médiaszolgáltató: a 31. pont szerinti médiaszolgáltatást nyújtó;
 
 33. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is;
 
-34. Műsorterjesztés: a 2. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a műsorszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a műsorszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek;
+34. Műsorterjesztés: a 2. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek;
 
 35. Műsorterjesztő: a 34. pont szerinti szolgáltatást nyújtó, ideértve a digitális műsorszóró hálózat üzemeltetőjét is, ha a műsorterjesztést saját maga végzi. Amennyiben az átviteli hálózatot nem a műsorterjesztő üzemelteti, az előfizetőnek, vagy felhasználónak nyújtott szolgáltatás feltételeit meghatározó, illetve az előfizetővel szerződést kötő szolgáltató minősül műsorterjesztőnek;
 
@@ -76,18 +74,24 @@
 
 37. Rendelkezésre álló adatátviteli kapacitás: digitális műsorszórás vonatkozásában az adott frekvencián rendelkezésre álló bruttó adatátviteli kapacitás;
 
-38. Saját műsorterjesztés: olyan műsorterjesztés, amelyet a műsorszolgáltató saját, vagy bérelt elektronikus hírközlő eszközeivel maga végez;
+38. Saját műsorterjesztés: olyan műsorterjesztés, amelyet a médiaszolgáltató saját, vagy bérelt elektronikus hírközlő eszközeivel maga végez;
 
 39. Széles képformátumú műsorszám: olyan televízió-műsorszám, amely a képernyőt teljes magasságban és szélességben kitöltő 16:9-es vagy 16:10-es képformátumú (a televízió kép szélességének és magasságának aránya) megjelenítésre készült;
 
 40. Széles képformátumú digitális televíziós szolgáltatás: olyan digitális televíziós szolgáltatás, amely teljes egészében vagy részben széles képformátumban történő megjelenítésre készített és szerkesztett műsorokból áll;
 
-41. Televíziós vásárlás: az Rttv. 2. § 22. pontjában meghatározott szolgáltatás;
+41. Televíziós vásárlás: az Mttv. 203. § 65. pontjában meghatározott szolgáltatás;
 
 42. Vételkörzet:
 
-a) műsorszórás és műholdas műsorterjesztés esetében az a földrajzilag meghatározható terület, amelyen a műsor közzétételét megvalósító műsorszóró szolgáltatás hasznos jeleinek szintje és az interferenciavédelem számított mértéke eléri a Nemzetközi Távközlési Egyesület hatályos ajánlásaiban meghatározott minimális értéket,
+a) műsorszórás és műholdas műsorterjesztés révén végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében azon a földrajzilag meghatározható területen élő lakosság száma, amelyen a műsor közzétételét megvalósító műsorszóró szolgáltatás hasznos jeleinek szintje és az interferenciavédelem számított mértéke eléri a Nemzetközi Távközlési Egyesület érvényes ajánlásaiban meghatározott minimális értéket,
 
-b) más műsorterjesztés esetében az a lakott terület, amelyen az átviteli rendszer kiépült és a terület lakosságának lehetősége van e rendszerhez az adott lakott területen szokásos díj ellenében csatlakozást létesíteni.
+b) más műsorterjesztő átviteli rendszerrel végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében az átviteli rendszerhez csatlakoztatott háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata, vagy
+
+c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások esetében az adott médiaszolgáltatásra előfizetett vagy az adott médiaszolgáltatást tartalmazó műsorterjesztési szolgáltatásra előfizetett háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata.
+
+43. Televíziós médiaszolgáltató és televízió médiaszolgáltató: az Mttv. szerinti lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltató;
+
+44. Televíziós médiaszolgáltatás és televízió médiaszolgáltatás: az Mttv. szerinti lineáris audiovizuális médiaszolgáltatás.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az Eht. 188. §-ának megfelelően kell értelmezni.

@@ -2,7 +2,7 @@
 
 45. § (1) A digitális átállás költségeit az elkülönített források felhasználásával kell fedezni. Ezek
 
-a) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Rttv. 131. § (3) bekezdésében meghatározott forrása,
+a) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Mttv.-ben meghatározott forrása,
 
 b) az analóg földfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjának külön jogszabályban meghatározott mértéke,
 

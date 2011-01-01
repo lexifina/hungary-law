@@ -10,9 +10,9 @@
 
 a) a részben vagy egészben a Magyar Köztársaság területén telepített elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
 
-b) a műsorszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
+b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
 
-c) a kiegészítő digitális szolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére,
+c) a kiegészítő médiaszolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére,
 
 d) a gyártónak és a forgalomba hozatalért felelős személynek, a feltételes hozzáférési rendszeren és alkalmazási program interfészen fennálló jogi oltalom jogosultjának a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére.
 

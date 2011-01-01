@@ -1,6 +1,6 @@
 ## Műsorterjesztéshez kapcsolódó egyes elektronikus hírközlési szolgáltatások
 
-7. § (1) Amennyiben az elektronikus hírközlési szolgáltató nem a Magyar Köztársaság területére irányuló műsorterjesztés érdekében valamely műsorszolgáltató műsorjelei átvitelét
+7. § (1) Amennyiben az elektronikus hírközlési szolgáltató nem a Magyar Köztársaság területére irányuló műsorterjesztés érdekében valamely médiaszolgáltató műsorjelei átvitelét
 
 a) a Hatóság által kijelölt frekvencia, vagy
 
