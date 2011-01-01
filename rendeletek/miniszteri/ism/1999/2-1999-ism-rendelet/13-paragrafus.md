@@ -1,4 +1,4 @@
-13. §[^28] (1) A kezelő szerv feladata:
+13. §[^34] (1) A kezelő szerv feladata:
 
 a) az Alapprogram éves költségvetési tervének és költségvetési beszámolójának elkészítése,
 
@@ -12,8 +12,10 @@ e) szerződéskötés a kedvezményezettekkel,
 
 f) a támogatások felhasználása jogszerűségének és szakszerűségének ellenőrzése, szükség szerint a Tanács, illetve a Regionális Ifjúsági Tanácsok tagjainak közreműködésével.
 
-(2) A Mobilitás Országos Ifjúsági Szolgálat megállapodás alapján együttműködik az érintett önkormányzatokkal az Irodák működési feltételeinek biztosításában.
+(2)[^35] Az Intézet megállapodás alapján együttműködik az érintett önkormányzatokkal az Irodák működési feltételeinek biztosításában.
 
-(3) Az Irodák működésének rendjét és a Regionális Ifjúsági Tanácsokkal való együttműködési kötelezettségük szabályait a Foglalkoztatási és Szociális Hivatal szervezeti és működési szabályzata állapítja meg.
+(3)[^36] Az Irodák működésének rendjét és a Regionális Ifjúsági Tanácsokkal való együttműködési kötelezettségük szabályait az Intézet szervezeti és működési szabályzata állapítja meg.
 
-[^28]: A 13. § a 8/2006. (XII. 27.) SZMM rendelet 6. §-ával megállapított szöveg.
+[^34]: A 13. § a 8/2006. (XII. 27.) SZMM rendelet 6. §-ával megállapított szöveg.
+[^35]: A 13. § (2) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 3. § g) pontja szerint módosított szöveg.
+[^36]: A 13. § (3) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 3. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-9. §[^25] (1) A Regionális Ifjúsági Tanács tagjai:
+9. §[^26] (1) A Regionális Ifjúsági Tanács tagjai:
 
 a) a régió területén működő megyei önkormányzatok közgyűléseinek képviseletében közösen jelölt egy személy;
 
@@ -18,6 +18,7 @@ f) a miniszter képviseletében két személy.
 
 (4) A Regionális Ifjúsági Tanács tagja nem lehet az a személy, aki a Nemzeti Gyermek és Ifjúsági Közalapítvány kuratóriumának, illetve felügyelő bizottságának, a Tanácsnak, vagy más régió területén illetékességgel rendelkező Regionális Ifjúsági Tanácsnak a tagja.
 
-(5) A Regionális Ifjúsági Tanács (1) bekezdés d)–e) pontjaiban megjelölt tagjai – a Regionális Ifjúsági Tanács munkájában való részvételükkel kapcsolatban ténylegesen felmerült kiadásaik mértékéig – költségtérítésre jogosultak, amelyet a Mobilitás Országos Ifjúsági Szolgálat működési költségéből kell biztosítani. A költségtérítés mértékére, folyósítására és elszámolására vonatkozó szabályokat a Regionális Ifjúsági Tanács ügyrendjében kell megállapítani.
+(5)[^27] A Regionális Ifjúsági Tanács (1) bekezdés d)–e) pontjaiban megjelölt tagjai – a Regionális Ifjúsági Tanács munkájában való részvételükkel kapcsolatban ténylegesen felmerült kiadásaik mértékéig – költségtérítésre jogosultak, amelyet az Intézet működési költségéből kell biztosítani. A költségtérítés mértékére, folyósítására és elszámolására vonatkozó szabályokat a Regionális Ifjúsági Tanács ügyrendjében kell megállapítani.
 
-[^25]: A 9. § a 29/2007. (XII. 11.) SZMM rendelet 2. §-ával megállapított szöveg.
+[^26]: A 9. § a 29/2007. (XII. 11.) SZMM rendelet 2. §-ával megállapított szöveg.
+[^27]: A 9. § (5) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 3. § d) pontja szerint módosított szöveg.

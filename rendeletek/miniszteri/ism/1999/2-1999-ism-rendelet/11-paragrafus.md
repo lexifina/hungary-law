@@ -2,7 +2,7 @@
 
 ## működése
 
-11. §[^26] (1) A Tanács, illetve a Regionális Ifjúsági Tanács jogosultságait az ülésein testületileg gyakorolja, az üléseit szükség szerint, de legalább negyedévenként tartja, üléseiről jegyzőkönyv készül.
+11. §[^28] (1) A Tanács, illetve a Regionális Ifjúsági Tanács jogosultságait az ülésein testületileg gyakorolja, az üléseit szükség szerint, de legalább negyedévenként tartja, üléseiről jegyzőkönyv készül.
 
 (2) A Tanács alakuló ülését az Elnöke, a Regionális Ifjúsági Tanács alakuló ülését pedig az önkormányzatokat és ifjúsági szervezeteket képviselő tagjainak korelnöke hívja össze a napirendet tartalmazó írásos meghívóval, amelyet az ülést megelőző 5. munkanapig kell az érintetteknek megküldeni.
 
@@ -18,8 +18,9 @@
 
 (8) A Regionális Ifjúsági Tanácsot egy fő képviselheti tanácskozási joggal a Tanács ülésén.
 
-(9) A Regionális Ifjúsági Tanács működési költségeit – ideértve a tagok költségtérítését az ügyrendben meghatározottak szerint – a miniszter a Mobilitás Országos Ifjúsági Szolgálat éves költségvetési támogatásának keretében biztosítja.
+(9)[^29] A Regionális Ifjúsági Tanács működési költségeit – ideértve a tagok költségtérítését az ügyrendben meghatározottak szerint – a miniszter az Intézet éves költségvetési támogatásának keretében biztosítja.
 
 (10) A Tanács, illetve a Regionális Ifjúsági Tanács ülésein tanácskozási joggal részt vehetnek az Elnök által meghívott személyek.
 
-[^26]: A 11. § a 29/2007. (XII. 11.) SZMM rendelet 3. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 4. § (3) bekezdését.
+[^28]: A 11. § a 29/2007. (XII. 11.) SZMM rendelet 3. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 4. § (3) bekezdését.
+[^29]: A 11. § (9) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 3. § d) pontja szerint módosított szöveg.
