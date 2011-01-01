@@ -1,3 +1,5 @@
+## 4/B. §[^10]
+
 ## Környezetvédelmi, természetvédelmi és vízügyi felügyelőség
 
 5. § (1) A környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség)
@@ -16,6 +18,7 @@ b)[^12] önállóan működő és gazdálkodó, közhatalmi központi költségv
 
 (6) Az 1. számú melléklet II. pontja szerinti felügyelőség székhelyén kívüli kirendeltsége útján is elláthatja az e rendelet 35. §-ában meghatározott igazgatási feladatokat.
 
+[^10]: A 4/B. §-t a 344/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 172. §-a.
 [^11]: Az 5. § (1) bekezdés a) pontja a 219/2010. (VII. 27.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^12]: Az 5. § (1) bekezdés b) pontja a 344/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^13]: Az 5. § (3) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.

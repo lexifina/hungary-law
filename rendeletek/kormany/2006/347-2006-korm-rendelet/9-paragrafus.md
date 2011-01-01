@@ -14,11 +14,10 @@ a) 4. §-a szerinti környezetvédelmi hatóságként az OMSZ,
 
 b) 5. §-a és 13/A–13/E. §-a szerinti környezetvédelmi hatóságként az OKTVF,
 
-c) 13. §-a szerinti környezetvédelmi hatóságként a miniszter
-
-jár el.
+c)[^24]
 
 [^20]: A 9. § (1) bekezdés b) pontja a 344/2009. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^21]: A 9. § (2) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^22]: A 9. § (3) bekezdése a 345/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^23]: A 9. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 517. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 9. § (4) bekezdés c) pontját a 362/2010. (XII. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.

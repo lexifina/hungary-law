@@ -1,3 +1,5 @@
+## 33/C. §[^92]
+
 ## A felügyelőség feladatai
 
 34. § (1) A felügyelőség állami alaptevékenysége körében
@@ -17,3 +19,5 @@ e) részt vesz a környezeti tudat- és szemléletformáló feladatok ellátás�
 a) a hatósági tevékenység ellátásához szükséges regionális laboratóriumot, valamint
 
 b) a rendkívüli szennyezések észlelése céljából a mérő-megfigyelő rendszert.
+
+[^92]: A 33/C. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 172. §-a.
