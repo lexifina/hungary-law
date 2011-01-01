@@ -1,4 +1,4 @@
-## 18. §[^4]
+## 18. §[^12]
 
 1. melléklet a 180/2010. (V. 13.) Korm. rendelethez
 
@@ -24,4 +24,4 @@
 
 10. A technológia hatásosságát, eredményességét, költséghatékonyságát alátámasztó tudományos bizonyítékok bemutatása (kutatás, átfogó technológia-elemzés, hazai és külföldi referenciák, publikációs jegyzék, szakorvosi vélemény)
 
-[^4]: A 18. § a (2) bekezdés alapján hatályát vesztette.
+[^12]: A 18. § a (2) bekezdés alapján hatályát vesztette.
