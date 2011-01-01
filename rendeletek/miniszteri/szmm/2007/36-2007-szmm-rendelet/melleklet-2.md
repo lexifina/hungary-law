@@ -1,3 +1,3 @@
-2. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^10]
+2. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^17]
 
-[^10]: A 2. számú mellékletet a 8/2010. (IX. 3.) NEFMI rendelet 9. § b) pontja hatályon kívül helyezte.
+[^17]: A 2. számú mellékletet a 8/2010. (IX. 3.) NEFMI rendelet 9. § b) pontja hatályon kívül helyezte.

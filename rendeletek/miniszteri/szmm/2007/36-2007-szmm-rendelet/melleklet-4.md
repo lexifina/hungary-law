@@ -56,7 +56,7 @@
 
 ## Bentlakásos intézményben élők gondozási szükségletének – az egyes szociális tárgyú törvények módosításáról szóló 2007. évi CXXI. törvény 81. §-ának (6) bekezdése szerinti – vizsgálata során a 8. pont szerinti szempontok vizsgálatára irányadó szempontokat figyelmen kívül kell hagyni. Az irányadó gondozási szükséglet 35 pont felett 4 órát meghaladó.
 
-4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^11]
+4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^18]
 
 Igazolás
 
@@ -90,7 +90,7 @@ A gondozási szükséglet felülvizsgálatát a szolgáltató, intézmény fennt
 
 3. Idősotthoni ellátás (az intézményvezető tölti ki):
 
-3.1. Az idősotthoni ellátást igénylő gondozási szükséglete a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló miniszteri rendelet 4. § (1) bekezdésének ............... pontja/alpontja szerinti egyéb körülmények alapján áll fenn ◻
+3.1. Az idősotthoni ellátást igénylő gondozási szükséglete gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló miniszteri rendelet 4. § (1) bekezdésének ............... pontja/alpontja szerinti egyéb körülmények alapján áll fenn ◻
 
 3.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete:
 
@@ -114,7 +114,7 @@ nincs  ◻ 1 óra  ◻ 2 óra ◻ 3 óra  ◻ 4 óra  ◻ 4 órát meg
 
 4.2. Idősotthoni ellátás (az intézmény fenntartója tölti ki):
 
-4.2.1. Az idősotthoni ellátást igénylő gondozási szükséglete a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló miniszteri rendelet 4. § (1) bekezdésének ..... pontja/alpontja szerinti egyéb körülmények alapján áll fenn.
+4.2.1. Az idősotthoni ellátást igénylő gondozási szükséglete gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló miniszteri rendelet 4. § (1) bekezdésének ..... pontja/alpontja szerinti egyéb körülmények alapján áll fenn.
 
 4.2.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete:
 
@@ -126,4 +126,4 @@ A napi 4 órát nem haladja meg ◻ A gondozási szükséglet órában kifejez
 
 fenntartó képviselője
 
-[^11]: A 4. számú melléklet a 8/2010. (IX. 3.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^18]: A 4. számú melléklet a 8/2010. (IX. 3.) NEFMI rendelet 7. §-ával megállapított, a 21/2010. (XII. 30.) NEFMI rendelet 3. § c) pontja szerint módosított szöveg.
