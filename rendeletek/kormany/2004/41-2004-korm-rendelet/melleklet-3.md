@@ -1,4 +1,4 @@
-3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^19]
+3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^20]
 
 ## KÉRELEM a sportról szóló 2004. évi I. törvény alapján folyósítandó edzői járadékhoz
 
@@ -78,4 +78,4 @@ Kelt: ........... év .............................. hó .............. 
 
 2 A szövetség elnöke a nyomtatvány aláírásával igazolja az edző kérelmének támogatását.
 
-[^19]: A 3. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^20]: A 3. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.

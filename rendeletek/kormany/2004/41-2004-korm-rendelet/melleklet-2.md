@@ -1,4 +1,4 @@
-2. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^18]
+2. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^19]
 
 ## KÉRELEM a sportról szóló 2004. évi I. törvény alapján folyósítandó özvegyi járadékhoz
 
@@ -44,4 +44,4 @@ Kelt: ........... év .............................. hó .............. 
 
 aláírás
 
-[^18]: A 2. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^19]: A 2. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
