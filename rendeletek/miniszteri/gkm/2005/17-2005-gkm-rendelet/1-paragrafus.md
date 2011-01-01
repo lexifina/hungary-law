@@ -10,6 +10,8 @@
 
 (6) A termékkategóriában öt, a vizuális kommunikáció-, a terv- és a diákkategóriában három-három Díj adható.
 
-(7) A Díjban részesülő személyek nevét kategóriánként, továbbá – termékkategória esetén – a gyártó nevét a minisztérium, valamint a Magyar Szabadalmi Hivatal (a továbbiakban: MSZH) hivatalos lapjában közzé kell tenni.
+(7)[^1] A Díjban részesülő személyek nevét kategóriánként, továbbá – termékkategória esetén – a gyártó nevét a minisztérium, valamint a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) hivatalos lapjában közzé kell tenni.
 
 (8) A Díjat a gazdasági és közlekedési miniszter (a továbbiakban: miniszter) adja át ünnepélyes keretek között.
+
+[^1]: Az 1. § (7) bekezdése a 27/2010. (XII. 28.) KIM rendelet 13. § (1) bekezdése szerint módosított szöveg.
