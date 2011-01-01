@@ -20,7 +20,7 @@ d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaer
 
 (7) A helyi önkormányzatok jogi személyiséggel rendelkező társulása az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha a társulást alkotó helyi önkormányzatok mindegyike az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
 
-(8) A hatóság a polgármester, a megyei közgyűlés elnöke, illetve a többcélú kistérségi társulás esetében a társulási tanács elnökének kérelmére megvizsgálja, hogy a helyi önkormányzat, illetve a többcélú kistérségi társulás rendelkezik-e az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal, és ezt a tényt a kérelem beérkezését követő negyvenöt munkanapon belül hatósági bizonyítvánnyal igazolja. A hatóság a hatósági bizonyítványokat a honlapján közzéteszi.
+(8) A hatóság a polgármester, a megyei közgyűlés elnöke, illetve a többcélú kistérségi társulás esetében a társulási tanács elnökének kérelmére megvizsgálja, hogy a helyi önkormányzat, illetve a többcélú kistérségi társulás rendelkezik-e az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal, és ezt a tényt a kérelem beérkezését követő naptól számított két hónapon belül hatósági bizonyítvánnyal igazolja. A hatóság a hatósági bizonyítványokat a honlapján közzéteszi.
 
 (9) A Kormány által rendeletben kijelölt szerv az esélyegyenlőségi szakértőkről névjegyzéket vezet, amely tartalmazza a szakértő
 
@@ -62,4 +62,4 @@ kezeli.
 
 (15) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az (1) bekezdésben meghatározott szempontokat, az esélyegyenlőségi szakértői tevékenység végzésére és annak feltételeire, a szakértő képesítésére, továbbképzésére, működésére és a szakmai gyakorlatra vonatkozó rendelkezéseket, a névjegyzékbe vétel, a névjegyzékről történő kirendelés, a szüneteltetés, a panaszeljárás és a névjegyzékből való törlés szabályait, továbbá a névjegyzéket vezető szerv kijelölését.
 
-(16) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben állapítsa meg – az adópolitikáért felelős miniszter egyetértésével – az esélyegyenlőségi szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.
+(16) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy – a társadalmi esélyegyenlőség előmozdításáért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott – rendeletben állapítsa meg az esélyegyenlőségi szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.

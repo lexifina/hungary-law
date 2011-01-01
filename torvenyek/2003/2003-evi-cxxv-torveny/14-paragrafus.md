@@ -4,7 +4,7 @@ a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatal
 
 b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
 
-c) véleményezi az egyenlő bánásmódot érintő jogszabályok, állami irányítás egyéb jogi eszközei és jelentések tervezeteit;
+c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szervezetszabályozó eszközök és jelentések tervezeteit;
 
 d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
 
