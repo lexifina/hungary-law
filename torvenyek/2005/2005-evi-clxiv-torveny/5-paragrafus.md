@@ -1,6 +1,6 @@
 ## A kereskedelmi tevékenységek folytatásának egyéb feltételei
 
-5. § (1) A kereskedőnek rendelkeznie kell a forgalmazott termék – saját előállítású termék esetén a termékhez felhasznált nem saját előállítású termék – eredetét hitelt érdemlően igazoló bizonylattal. A kereskedő az ellenőrzést végző hatóság felhívására köteles az eredeti bizonylatokat, dokumentumokat három munkanapon belül bemutatni.
+5. § (1) A kereskedőnek rendelkeznie kell a forgalmazott termék – saját előállítású termék esetén a termékhez felhasznált nem saját előállítású termék – eredetét hitelt érdemlően igazoló bizonylattal. A kereskedő az ellenőrzést végző hatóság felhívására köteles az eredeti bizonylatokat, dokumentumokat öt napon belül bemutatni.
 
 (2) A kereskedő köteles biztosítani, hogy a vásárló a megvásárolni kívánt termék jellegétől függően, annak méretét, súlyát, illetve használhatóságát ellenőrizhesse az üzletben vagy – egyéb kereskedési formák esetében – ha a termék rendelkezésre bocsátásakor mind a kereskedő vagy annak képviselője, mind pedig a vásárló jelen van.
 

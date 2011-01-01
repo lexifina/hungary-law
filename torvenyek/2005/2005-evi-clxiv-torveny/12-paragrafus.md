@@ -32,7 +32,7 @@ d) a vidámparki, mutatványos és hasonló szórakoztató berendezések és sze
 
 e)
 
-f) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben, az irányítása alá tartozó kereskedelmi hatóság részére az e hatóság által lefolytatott eljárásokért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint az annak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+f) az adópolitikáért felelős miniszterrel egyetértésben, az irányítása alá tartozó kereskedelmi hatóság részére az e hatóság által lefolytatott eljárásokért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint az annak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -60,4 +60,4 @@ rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
-(7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+(7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.

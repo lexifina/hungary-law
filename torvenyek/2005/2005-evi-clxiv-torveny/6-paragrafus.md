@@ -4,7 +4,7 @@
 
 (2) A kereskedő köteles
 
-a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző öt munkanapon belül a kereskedelmi hatóságnak bejelenteni;
+a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni;
 
 b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokról a vásárlókat tájékoztatni.
 
