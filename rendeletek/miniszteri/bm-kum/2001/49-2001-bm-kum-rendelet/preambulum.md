@@ -1,1 +1,0 @@
-A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) 29. §-ának (1) bekezdésében kapott felhatalmazás alapján – az oktatási kedvezményekre vonatkozóan az oktatási miniszterrel egyetértésben – a következőket rendeljük el:
