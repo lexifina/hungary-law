@@ -1,3 +1,3 @@
-## 5–6. §[^14]
+## 5–6. §[^15]
 
-[^14]: Az 5–6. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: Az 5–6. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
