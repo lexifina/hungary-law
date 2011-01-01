@@ -4,6 +4,6 @@
 
 (3) Az űrlapokat legkésőbb az elektronikus közszolgáltatást nyújtó szervezet központi rendszerhez történő csatlakozásától számított 15 napon belül kell közzétenni.
 
-(4)[^3] Az ügyeik állásáról elektronikus űrlap benyújtásával tájékoztatást kérő ügyfelek kérésére adott választ az érintett hatósági ügyben eljáró hatóság haladéktalanul, de legkésőbb az elektronikus űrlap beérkezésétől számított 3 munkanapon belül elektronikusan, a központi rendszer útján az ügyfelek számára megküldi.
+(4)[^3] Az ügyeik állásáról elektronikus űrlap benyújtásával tájékoztatást kérő ügyfelek kérésére adott választ az érintett hatósági ügyben eljáró hatóság haladéktalanul, de legkésőbb az elektronikus űrlap beérkezésétől számított öt napon belül elektronikusan, a központi rendszer útján az ügyfelek számára megküldi.
 
-[^3]: A 21. § (4) bekezdését a 160/2010. (V. 6.) Korm. rendelet 13. §-a iktatta be.
+[^3]: A 21. § (4) bekezdését a 160/2010. (V. 6.) Korm. rendelet 13. §-a iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (128) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
