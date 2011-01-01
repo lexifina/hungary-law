@@ -24,7 +24,7 @@ d) az adatszolgáltatásban közölt személyi vagy lakcímadatok megegyeznek az
 
 (7)[^3] A fellebbezés díja 5000 Ft. A díj megfizetését, ha az ügyben első fokon
 
-a) a személyiadat- és lakcímnyilvántartás központi szerve járt el, az IRM-nek a Magyar Államkincstárnál vezetett, 10032000–01483305–00000000 számú előirányzat-felhasználási keretszámlájára,
+a)[^4] a személyiadat- és lakcímnyilvántartás központi szerve járt el, a KIM-nek a Magyar Államkincstárnál vezetett 10032000-01397136 számú előirányzat-felhasználási keretszámlájára,
 
 b) a települési (fővárosi kerületi) önkormányzat jegyzője vagy a körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője járt el, a Kormány általános hatáskörű területi államigazgatási szervének a Magyar Államkincstárnál vezetett – az eljárt szerv által megjelölt – előirányzat-felhasználási keretszámlájára
 
@@ -33,3 +33,4 @@ b) a települési (fővárosi kerületi) önkormányzat jegyzője vagy a körzet
 [^1]: A 4. § (1) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 2. §-ával megállapított szöveg.
 [^2]: A 4. § (6) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 3. §-ával megállapított szöveg.
 [^3]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^4]: A 4. § (7) bekezdés a) pontja a 17/2010. (XII. 17.) KIM rendelet 2. § (8) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
