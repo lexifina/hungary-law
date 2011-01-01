@@ -102,7 +102,7 @@
 
 1. dohánytermékek;
 
-2.[^10] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
+2.[^25] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
 
 3. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló kormányrendelet hatálya alá tartozó termékek;
 
@@ -116,4 +116,4 @@
 
 8. „A” és „B” tűzveszélyességi osztályba sorolt anyag, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag.
 
-[^10]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^25]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
