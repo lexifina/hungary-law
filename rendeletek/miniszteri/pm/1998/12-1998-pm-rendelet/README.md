@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-12-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1998-12-20-53.13 | 12/1998. (III. 27.) PM rendelet |
+| 2011-01-01 | 1998-12-20-53.14 | 8/2010. (XII. 14.) NGM rendelet |
