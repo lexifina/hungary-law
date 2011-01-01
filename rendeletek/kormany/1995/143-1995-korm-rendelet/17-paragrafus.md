@@ -6,10 +6,12 @@ a) ahol a Vht. ingóságot említ, azon járművet, illetőleg a járműben tal�
 
 b) az árverési hirdetményt a jármű őrzési helyén és a Vht. 122. §-a (1) bekezdésének c) pontjában meghatározott helyen kell kifüggeszteni;
 
-c) az árverési hirdetményt (Vht. 121. §), valamint az árverési jegyzőkönyv másolatát [Vht. 128. § (2) bek.] kézbesíteni kell — külföldi rendszámú, hatósági jelzés nélküli külföldi államjelzésű jármű értékesítése esetén — a vám- és pénzügyőrség területileg illetékes szervének is;
+c)[^4] az árverési hirdetményt (Vht. 121. §), valamint az árverési jegyzőkönyv másolatát [Vht. 128. § (2) bek.] kézbesíteni kell – külföldi rendszámú, hatósági jelzés nélküli külföldi államjelzésű jármű értékesítése esetén – a Nemzeti Adó- és Vámhivatal területileg illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóságának is;
 
 d) a Vht. 123. §-ának (2) bekezdése alkalmazásában nem lehet árverező a rendőrség személyi állományába tartozó személy és annak közeli hozzátartozója [Ptk. 685. § b) pont].
 
 (3) Az első árverésen el nem adott járművet második árverésen kell értékesíteni. A második árverést az első árveréstől számított három hónapon belül olyan időpontban kell kitűzni, amely a helyi körülmények szerint a legcélszerűbb.
 
 (4) A második árverésen el nem adott jármű értékesítés céljából a használt autókereskedelmi tevékenység végzésére jogosult gazdálkodó szervezet részére is átadható. Az ily módon sem értékesíthető jármű alkatrészként is értékesíthető.
+
+[^4]: A 17. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
