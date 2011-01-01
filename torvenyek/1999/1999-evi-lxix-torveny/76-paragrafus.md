@@ -12,7 +12,7 @@ b) akivel szemben az eljárás azonnal lefolytatható;
 
 c) akitől szabálysértés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel szükséges.
 
-(2) A vámhatóság szolgálati jogviszonyban álló tagja jogosult a vámhatóság hatáskörébe tartozó szabálysértés elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható személy kilétét megállapítani. Ebből a célból jogosult az ilyen személyeket feltartóztatni, a vámhatóság szerveihez vagy a rendőrséghez előállítani.
+(2) A Nemzeti Adó- és Vámhivatal szolgálati jogviszonyban álló tagja jogosult a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozó szabálysértés elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható személy kilétét megállapítani. Ebből a célból jogosult az ilyen személyeket feltartóztatni, a Nemzeti Adó- és Vámhivatal vámszerveihez vagy a rendőrséghez előállítani.
 
 (3) A Rendőrség a külföldiek rendészetével, az útlevéllel és úti okmánnyal kapcsolatos, a tiltott határátlépés, a határrendészeti, a határjel-hamisítás és a határjel-rongálás szabálysértések elkövetése esetén jogosult az elkövetők előállítására.
 

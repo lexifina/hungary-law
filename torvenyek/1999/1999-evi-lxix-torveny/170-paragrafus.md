@@ -54,91 +54,63 @@ A II. tábla adatai
 
 Az adatszolgáltatás módja
 
-15. Az önkormányzati szabálysértési hatóságok a nyomtatvány kitöltésével két példányban készítik el adatszolgáltatásukat. A nyomtatvány egy példányát a Kormány általános hatáskörű területi államigazgatási szervéhez felterjesztik, a másik példányt irattározzák.
+15. Az önkormányzati szabálysértési hatóságok a nyomtatvány számítógépes programmal, vagy papíralapon történő kitöltésével készítik el az adatszolgáltatásukat. A számítógépes programmal kitöltött nyomtatványt elektronikus úton, a papíralapon kitöltött nyomtatványt kézbesítő útján minden év január 15. napjáig felterjesztik a megyei (fővárosi) kormányhivatalnak, egy kinyomtatott példányát irattárazzák.
 
-16. A felterjesztett nyomtatványok I. és II. táblája alapján a Kormány általános hatáskörű területi államigazgatási szerve külön-külön összesíti a községi (nagyközségi) önkormányzati szabálysértési hatóságok, valamint a városi (megyei jogú városi) önkormányzati szabálysértési hatóságok adatszolgáltatását.
+16. A felterjesztett, kitöltött nyomtatványok I. és II. táblája alapján a megyei (fővárosi) kormányhivatal számítógépes programmal külön-külön összesíti a községi önkormányzati szabálysértési hatóságok, valamint a városi (megyei jogú városi) önkormányzati szabálysértési hatóságok adatszolgáltatását.
 
-17. A Kormány általános hatáskörű területi államigazgatási szerve háromféle összesítést készít. Külön összesíti a községi (nagyközségi) szabálysértési hatóságok tevékenységének adatait, és külön összesíti a városi (megyei jogú városi) szabálysértési hatóságok jelentéseit, végül az összes önkormányzati szabálysértési hatóságra vonatkozóan (községi és városi adatok együtt) készítenek megyei összesítést. A Kormánynak a fővárosra kiterjedő illetékességű általános hatáskörű területi államigazgatási szerve a fővárosi kerületi (kerületközi) szabálysértési hatóságok adatairól készít összesített jelentést.
+17. A megyei kormányhivatal számítógépes programmal háromféle összesítést készít. Külön összesíti a községi szabálysértési hatóságok tevékenységének adatait, és külön összesíti a városi (megyei jogú városi) szabálysértési hatóságok jelentéseit, végül az összes önkormányzati szabálysértési hatóságra vonatkozóan (községi és városi adatok együtt) készít megyei összesítést. A Fővárosi Kormányhivatal a fővárosi kerületi (kerületközi) szabálysértési hatóságok adatairól készít számítógépes programmal összesítést.
 
-18. A Kormány általános hatáskörű területi államigazgatási szerve az összesített jelentéseket elektronikus úton, minden év január 31-ig az Igazságügyi és Rendészeti Minisztériumhoz terjeszti fel.
+18. A megyei (fővárosi) kormányhivatal a számítógépes programmal összesített adatokat, elektronikus úton, minden év január 31-ig a Belügyminisztériumnak terjeszti fel.
 
-19. Az önkormányzati szabálysértési ügyintézés adatszolgáltatásához kapcsolódóan továbbra is jelenteni kell a fenti határidőig:
+19. Az önkormányzati szabálysértési ügyintézés adatszolgáltatásához kapcsolódóan továbbra is jelenteni kell a 18. pontban írt határidőig a közterület-felügyelők, valamint a helyi önkormányzat képviselő-testülete hivatala erre felhatalmazott ügyintézője helyszíni bírságolásának ügyfajtánkénti és összesített adatait.
 
-a) a tulajdon elleni szabálysértés miatt bírságolt elkövetők és ebből a lopás miatt bírságoltak számát,
-
-b) a közterület-felügyelők helyszíni bírságolásának, valamint a helyi önkormányzat képviselő-testülete hivatala erre felhatalmazott ügyintézője helyszíni bírságolásának ügyfajtánkénti és összesített adatait.
+I. tábla
 
 I. tábla
 
 Önkormányzati szabálysértési ügyintézés
 
-2000. év ..................
+…………év
 
 ÖSSZEFOGLALÓ ADATOK
 
 |
 
-1.
-
-|
-
-Tárgyévben beérkezett feljelentések (ügyek) száma összesen:
+1. Tárgyévben beérkezett feljelentések (ügyek) száma összesen
 
 |
 
 |
 
-2.
-
-|
-
-Tárgyévben feljelentett személyek száma összesen:
+2. Tárgyévben feljelentett személyek száma összesen
 
 |
 
 |
 
-3.
-
-|
-
-Áttétel más szervhez, Sztv. 40. §
+3. Áttétel más szervhez (Sztv. 40. §)
 
 |
 
 |
 
-4.
-
-|
-
-Megszüntetés száma összesen:
+4. Megszüntetések száma összesen
 
 |
 
 |
 
-5.
+5. Ebből: – szabálysértés hiánya [Sztv. 84. § (1) bek.
+
+a) pont]
 
 |
 
 |
 
-szabálysértés hiánya, Sztv. 84. § (1) a) pont
+6. – bizonyíték hiánya stb. [Sztv. 84. § (1) bek.
 
-|
-
-|
-
-6.
-
-|
-
-Ebből:
-
-|
-
-bizonyíték hiánya stb., Sztv. 84. § (1) b) pont
+b) pont]
 
 |
 
@@ -148,53 +120,31 @@ bizonyíték hiánya stb., Sztv. 84. § (1) b) pont
 
 |
 
-|
-
-egyéb ok miatt
+– egyéb ok miatt
 
 |
 
 |
 
-8.
-
-|
-
-Figyelmeztetés száma összesen:
+8. Figyelmeztetések száma összesen
 
 |
 
 |
 
-9.
-
-|
-
-Pénzbírságot kiszabó határozatok száma
+9. Pénzbírságot kiszabó határozatok száma
 
 |
 
 |
 
-10.
-
-|
-
-Kifogások száma
+10. Kifogások száma
 
 |
 
 |
 
-11.
-
-|
-
-Elfogadva:
-
-|
-
-visszavonással
+11. Elfogadva – visszavonással
 
 |
 
@@ -204,93 +154,61 @@ visszavonással
 
 |
 
-|
-
-módosítással
+– módosítással
 
 |
 
 |
 
-13.
+13. Elkésett, nem jogosult kifogás, elutasítás [Sztv. 90. §
 
-|
-
-Elkésett, nem jogosult kifogás, elutasítás száma, Sztv. 90. § (1)
-
-|
-
-|
-
-14.
-
-|
-
-Bírósághoz áttett kifogás száma
+(1) bek.]
 
 |
 
 |
 
-15.
-
-|
-
-Panaszok száma a szabálysértési hatóság határozata ellen, Sztv. 86. §
+14. Bírósághoz áttett kifogások száma
 
 |
 
 |
 
-16.
-
-|
-
-Elfogadott panasz száma
+15. Panaszok száma a szabálysértési hatóság határozata ellen (Sztv. 86. §)
 
 |
 
 |
 
-17.
-
-|
-
-Ügyészi intézkedés száma az el nem fogadott panasz alapján
+16. Elfogadott panaszok száma
 
 |
 
 |
 
-18.
-
-|
-
-Bíróság intézkedése a kifogás alapján, Sztv. 93. §
+17. Ügyészi intézkedések száma az el nem fogadott panasz alapján
 
 |
 
 |
 
-19.
-
-|
-
-Bíróság határozata a kifogás elbírálásáról, Sztv. 94. §
+18. Bíróság intézkedése a kifogás alapján (Sztv. 93. §)
 
 |
 
 |
 
-20.
+19. Bíróság határozata a kifogás elbírálásáról (Sztv. 94. §)
 
 |
 
-Ebből:
+|
+
+20. Ebből:
 
 |
 
-határozat hatálybantartása, kifogás elutasítása
+– határozat hatályban tartása, kifogás elutasítása
 
 |
 
@@ -300,9 +218,7 @@ határozat hatálybantartása, kifogás elutasítása
 
 |
 
-|
-
-határozat megváltoztatása
+– határozat megváltoztatása
 
 |
 
@@ -314,89 +230,61 @@ határozat megváltoztatása
 
 |
 
-|
-
-23.
-
-|
-
-Adók módjára történő behajtás száma
+23. Adók módjára történő behajtások száma
 
 |
 
 |
 
-24.
-
-|
-
-Közérdekű munkára átváltoztató határozat száma
+24. Közérdekű munkára átváltoztató határozatok száma
 
 |
 
 |
 
-25.
-
-|
-
-Bíróság által elzárásra átváltoztatott bírságolás száma
+25. Bíróság által elzárásra átváltoztatott bírságolások száma
 
 |
 
 |
 
-26.
-
-|
-
-Letöltött elzárások száma
+26. Letöltött elzárások száma
 
 |
 
 |
 
-27.
+27. Végrehajtás mellőzése méltányosságból [Sztv. 116. §
 
-|
-
-Végrehajtás mellőzése méltányosságból, Sztv. 116. § (2) a) pont
-
-|
-
-|
-
-28.
-
-|
-
-Feljelentett fiatalkorúak száma
+(2) bek. a) pont]
 
 |
 
 |
 
-29.
-
-|
-
-Külföldi állampolgárok száma
+28. Feljelentett fiatalkorúak száma
 
 |
 
 |
 
-30.
+29. Feljelentett külföldiek száma
 
 |
 
-Fennálló hátralék a kiszabott pénzbírság %-ában összesen:
+|
+
+30. Fennálló hátralék a kiszabott pénzbírság %-ában összesen
 
 |
 
 II. tábla
 
-Egyes szabálysértések 2000. év
+II. tábla
+
+Egyes szabálysértések
+
+…………év
 
 |
 
@@ -404,37 +292,21 @@ Szabálysértési ügyfajták
 
 |
 
-Tárgyévben
-
-beérkezett
-
-feljelentések
-
-(ügyek)
-
-száma
+Tárgyévben beérkezett feljelentések (ügyek) száma
 
 |
 
-Tárgyévben
-
-feljelentett
-
-személyek
-
-száma
+Tárgyévben feljelentett személyek száma
 
 |
 
-Áttétel más
-
-szervhez
+Áttétel más szervhez
 
 |
 
-Megszüntetés
+Megszünte-
 
-száma
+tés száma
 
 |
 
@@ -442,45 +314,41 @@ Ebből
 
 |
 
+Figyelmez-
+
+tetés száma
+
+|
+
+Pénzbírságot kiszabó határozatok száma
+
+|
+
+Elbírált ügyekben szereplő személyek száma mindössz.
+
+|
+
 Bírságolt
 
 |
 
-Kiszabott pénzbírság
-
-összege
-
-(Ft)
+Kiszabott pénzbírság összege (Ft)
 
 |
 
-Átlaga
-
-13/9
+Átlaga 13/9
 
 |
 
-Fennálló
-
-hátralék
-
-a kiszabott
-
-pénzbírság
-
-százalékában
+Fennálló hátralék a kiszabott pénzbírság százalékában
 
 |
 
-szabálysértés
-
-hiánya
+szabálysértés hiánya
 
 |
 
-bizonyíték
-
-hiánya
+bizonyíték hiánya
 
 |
 
@@ -488,43 +356,11 @@ egyéb ok
 
 |
 
-figyelmez-
-
-tetés száma
-
-|
-
-pénzbírságot
-
-kiszabó
-
-határozatok
-
-száma
-
-|
-
-elbírált
-
-ügyekben
-
-szereplő
-
-személyek
-
-száma
-
-mindössz.
-
-|
-
 fiatalkorú
 
 |
 
-külföldi
-
-állampolgár
+külföldi állampolgár
 
 |
 
@@ -588,7 +424,7 @@ külföldi
 
 |
 
-Becsületsértés, Sztv. 138. §
+Becsületsértés (Sztv. 138. §)
 
 |
 
@@ -622,7 +458,7 @@ Becsületsértés, Sztv. 138. §
 
 |
 
-Magánlaksértés, Sztv. 139. §
+Természetvédelmi szabálysértés (Sztv. 147. §), Környezetvédelmi szabálysértés (148. §)
 
 |
 
@@ -656,10 +492,40 @@ Magánlaksértés, Sztv. 139. §
 
 |
 
-Természetvédelmi és környezetvédelmi szabálysértés, Sztv. 147–148. §-ok
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
+Csendháborítás (R. 6. §)
+
+|
+
 |
 
 |
@@ -690,9 +556,9 @@ Természetvédelmi és környezetvédelmi szabálysértés, Sztv. 147–148. §-
 
 |
 
-Tulajdon elleni szabálysértések,
+Köztisztasági szabálysértés
 
-Sztv. 157. §
+(R. 7. §)
 
 |
 
@@ -725,8 +591,12 @@ Sztv. 157. §
 |
 
 |
+
+Tűzvédelmi szabálysértés
+
+(R. 20. §)
 
-Csendháborítás, R. 6. §
+|
 
 |
 
@@ -757,10 +627,12 @@ Csendháborítás, R. 6. §
 |
 
 |
+
+A honvédelmi, a polgári védelmi és a rendészeti igazgatás rendjét veszélyeztető szabálysértések (R. 32–40. §)
 
 |
 
-Köztisztasági szabálysértés, R. 7. §
+|
 
 |
 
@@ -790,11 +662,13 @@ Köztisztasági szabálysértés, R. 7. §
 
 |
 
+Közlekedésügyi szabálysértések (kivéve R. 61. §, 64. §, 64/A. §)
+
 |
 
 |
 
-Tűzvédelmi szabálysértés, R. 20. §
+|
 
 |
 
@@ -822,13 +696,15 @@ Tűzvédelmi szabálysértés, R. 20. §
 
 |
 
+Áru hamis megjelölése (R. 71. §), Árdrágítás (R. 72. §)
+
 |
 
 |
 
 |
 
-Honvédelmi és polgári védelmi szabálysértés, R. 32–40. §-ok
+|
 
 |
 
@@ -854,6 +730,8 @@ Honvédelmi és polgári védelmi szabálysértés, R. 32–40. §-ok
 
 |
 
+Fogyasztóvédelmi szabálysértések (kivéve R. 71. §, 72. §, 77. §, 78. §, 84. §, 85. § és 86. §)l
+
 |
 
 |
@@ -862,9 +740,9 @@ Honvédelmi és polgári védelmi szabálysértés, R. 32–40. §-ok
 
 |
 
-Közlekedésügyi szabálysértések,
+|
 
-R. 60–66. §-ok
+|
 
 |
 
@@ -898,9 +776,9 @@ R. 60–66. §-ok
 
 |
 
-Árdrágítás, R. 72. § és
+|
 
-Árak hamis megjelölése, R. 71. §
+|
 
 |
 
@@ -916,6 +794,8 @@ R. 60–66. §-ok
 
 |
 
+Jogosulatlan kereskedés (R. 77. §)
+
 |
 
 |
@@ -934,9 +814,9 @@ R. 60–66. §-ok
 
 |
 
-Fogyasztóvédelmi szabálysértések,
+|
 
-R. 71., 72., 76., 78., 84. §-ok kivételével
+|
 
 |
 
@@ -947,6 +827,8 @@ R. 71., 72., 76., 78., 84. §-ok kivételével
 |
 
 |
+
+Vásárlók megkárosítása (R. 78. §)
 
 |
 
@@ -970,7 +852,7 @@ R. 71., 72., 76., 78., 84. §-ok kivételével
 
 |
 
-Jogosulatlan kereskedés, R. 77. §
+|
 
 |
 
@@ -980,6 +862,8 @@ Jogosulatlan kereskedés, R. 77. §
 
 |
 
+Élelmiszer minőségének megrontása (R. 84. §)
+
 |
 
 |
@@ -1004,7 +888,7 @@ Jogosulatlan kereskedés, R. 77. §
 
 |
 
-Vásárlók megkárosítása, R. 78. §
+|
 
 |
 
@@ -1012,6 +896,8 @@ Vásárlók megkárosítása, R. 78. §
 
 |
 
+Élelmiszer jogosulatlan előállítása (R. 85. §), forgalomba hozatala, Élelmezés-egészségügyi szabálysértés (R. 86. §)
+
 |
 
 |
@@ -1038,9 +924,9 @@ Vásárlók megkárosítása, R. 78. §
 
 |
 
-Élelmiszer minőségének megrontása,
+|
 
-R. 84. §
+|
 
 |
 
@@ -1073,12 +959,16 @@ R. 84. §
 |
 
 |
+
+Munkaügyi szabálysértések
+
+(R. 93–100. §)
 
-Élelmiszer jogosulatlan előállítása, forgalomba hozatala
+|
 
-Élelmezésügyi szabálysértés,
+|
 
-R. 85., 86. §- ok
+|
 
 |
 
@@ -1105,6 +995,8 @@ R. 85., 86. §- ok
 |
 
 |
+
+Egészségügyi és szociális szabálysértések (R. 101–105. §)
 
 |
 
@@ -1112,9 +1004,9 @@ R. 85., 86. §- ok
 
 |
 
-Munkaügyi szabálysértések,
+|
 
-R. 93–100. §-ok
+|
 
 |
 
@@ -1138,6 +1030,8 @@ R. 93–100. §-ok
 
 |
 
+Mező-, erdő-, és vízgazdálkodási szabálysértések (R. 106–127. §)
+
 |
 
 |
@@ -1148,9 +1042,9 @@ R. 93–100. §-ok
 
 |
 
-Egészségügyi és szociális szabálysértések,
+|
 
-R. 99–103. §-ok
+|
 
 |
 
@@ -1184,9 +1078,9 @@ R. 99–103. §-ok
 
 |
 
-Mező-, erdő- és vízgazdálkodás,
+|
 
-R. 106–127. §-ok
+|
 
 |
 
@@ -1200,6 +1094,8 @@ R. 106–127. §-ok
 
 |
 
+Vállalkozói, ipari szabálysértések (R. 128–134. §)
+
 |
 
 |
@@ -1220,9 +1116,9 @@ R. 106–127. §-ok
 
 |
 
-Ipari szabálysértések,
+|
 
-R. 128–134. §-ok
+|
 
 |
 
@@ -1232,6 +1128,8 @@ R. 128–134. §-ok
 
 |
 
+Építésügyi szabálysértések (R. 136–140. §)
+
 |
 
 |
@@ -1256,7 +1154,7 @@ R. 128–134. §-ok
 
 |
 
-Építésügyi, R. 136–140. §-ok
+|
 
 |
 
@@ -1264,6 +1162,8 @@ R. 128–134. §-ok
 
 |
 
+A közoktatási törvényben meghatározott kötelezettségek megszegése (R. 141. §)
+
 |
 
 |
@@ -1290,9 +1190,9 @@ R. 128–134. §-ok
 
 |
 
-Tankötelezettség megszegése,
+|
 
-R. 141. §
+|
 
 |
 
@@ -1360,7 +1260,7 @@ R. 141. §
 
 |
 
-Egyéb, fel nem sorolt
+Egyéb, fel nem sorolt szabálysértések
 
 |
 
@@ -1394,7 +1294,7 @@ Egyéb, fel nem sorolt
 
 |
 
-Összesen:
+Összesen
 
 |
 

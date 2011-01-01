@@ -4,7 +4,7 @@
 
 (2) Helyszíni bírság kiszabására jogosult
 
-a) a rendőrség, a vám- és pénzügyőrség, a hivatásos tűzoltóság;
+a) a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a hivatásos tűzoltóság;
 
 b) a helyi önkormányzat képviselő-testülete hivatalának erre felhatalmazott ügyintézője;
 

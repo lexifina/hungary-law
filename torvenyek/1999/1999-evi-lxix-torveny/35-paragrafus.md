@@ -16,7 +16,7 @@ f)
 
 g) a védett természeti területek természetvédelmi kezeléséért felelős szerv;
 
-h) az állami adóhatóság;
+h) a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve;
 
 i) a közoktatási feladatkörében eljáró oktatási hivatal;
 

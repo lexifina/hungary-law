@@ -1,8 +1,8 @@
 167. § (1) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy a helyszíni bírságolásra vonatkozó részletes szabályokat az érintett miniszterekkel egyetértésben megállapítsa.
 
-(2) Felhatalmazást kap a szabálysértési szabályozásért és a büntetésvégrehajtásért felelős miniszter, hogy együttes rendeletben a legfőbb ügyésszel egyetértésben az elzárás, illetőleg a pénzbírságot helyettesítő elzárás végrehajtásának részletes szabályait megállapítsa.
+(2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy a büntetésvégrehajtásért felelős miniszter egyetértésben kiadott rendeletben, a legfőbb ügyész véleményének kikérésével az elzárás, illetőleg a pénzbírságot helyettesítő elzárás végrehajtásának részletes szabályait megállapítsa.
 
-(3) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen rendeletben szabályozza a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének részletes szabályait.
+(3) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének részletes szabályait.
 
 (4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben, rendeletben szabályozza a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelését és értékesítését.
 

@@ -8,4 +8,4 @@
 
 (4)
 
-(5) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás az állami adóhatóság és a fogyasztóvédelmi hatóság hatáskörébe is tartozik.
+(5) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve és a fogyasztóvédelmi hatóság hatáskörébe is tartozik.
