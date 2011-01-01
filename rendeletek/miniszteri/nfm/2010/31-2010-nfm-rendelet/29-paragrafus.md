@@ -1,0 +1,9 @@
+29. § (1) A vasúti jármű gyártása, javítása során keletkező, a jármű megfelelőségének igazolására szolgáló, mérési és vizsgálati eredményeket tartalmazó dokumentumokon – mint azonosító jelet – a jármű pályaszámát vagy – ha a jármű rendelkezik vele – alvázszámát kell feltüntetni.
+
+(2) Amennyiben a gyártást, vagy javítást végző szervezet más – a pályaszámtól, vagy alvázszámtól eltérő, a járművek azonosítására szolgáló – jelölési rendszert alkalmaz, akkor annak olyannak kell lennie, hogy a jármű és a dokumentációja utólag is, pontosan és hitelt érdemlően azonosítható legyen és a pályaszámmal, vagy – ha a jármű rendelkezik vele – alvázszámmal egyértelműen összerendelhető legyen.
+
+(3) A vasúti jármű pályaszámának közelében tilos olyan feliratot, jelet vagy reklámot elhelyezni, amely a pályaszámot eltakarja, vagy annak tartalma miatt azzal összetéveszthető.
+
+(4) A vasúti jármű alvázszámát a jármű alvázának legalább két átellenes helyén, jól azonosíthatóan és olyan módon kell elhelyezni, hogy az roncsolásmentes eljárással ne legyen eltávolítható.
+
+(5) A vasúti jármű pályaszámának megváltozása esetében az alvázszámot áthúzással kell érvényteleníteni, és az új alvázszámot a (4) bekezdésben előírtak szerint – az alvázszám közelében – kell feltüntetni.

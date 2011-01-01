@@ -1,0 +1,29 @@
+## I. Fejezet
+
+## ÁLTALÁNOS RENDELKEZÉSEK
+
+## 1. A rendelet hatálya
+
+1. § (1) E rendelet határozza meg a vasúti járművek
+
+a) üzembehelyezésével kapcsolatos hatósági engedélyekre,
+
+b) időszakos hatósági vizsgálatára, valamint
+
+c) hatósági nyilvántartására
+
+vonatkozó szabályokat.
+
+(2) E rendelet hatálya – a sífelvonó kivételével – a vasúti pályahálózaton közlekedő, magyarországi pályaszámmal rendelkező következő járművekre és berendezésekre terjed ki:
+
+a) motorvonatok, motorkocsik,
+
+b) vontatójárművek,
+
+c) személykocsik,
+
+d) teherkocsik, ideértve a tehergépkocsik szállítására tervezett járműveket,
+
+e) a vasúti pálya, pályahálózat és tartozékai építését és karbantartását szolgáló mobil berendezések,
+
+f) segély- és mentőszerelvényekbe sorozott járművek.
