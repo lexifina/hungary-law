@@ -1,0 +1,1 @@
+## 20. § Helyszíni ellenőrzésre a Szolgálat vagy a megyei népegészségügyi szakigazgatási szerv, illetve kistérségi népegészségügyi intézet fényképes igazolvánnyal ellátott kormánytisztviselője jogosult.
