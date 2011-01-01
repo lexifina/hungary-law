@@ -40,7 +40,7 @@ c) amennyiben a taxaméter több általános forgalmiadó-adóalany (a továbbia
 
 d) az adómemóriába a napi forgalom záráskényszerrel rögzítődjön (a nap 24. órájában vagy az első bekapcsoláskor).
 
-(6) A taxaméter típusjóváhagyásának további feltétele, hogy a forgalmazó rendelkezzen az Országos Mérésügyi Hivatal érvényes hitelesítési engedélyével.
+(6)[^20] A taxaméter típusjóváhagyásának további feltétele, hogy a forgalmazó rendelkezzen az mérésügyi hatóság érvényes hitelesítési engedélyével.
 
 (7) A pénztárgép, taxaméter típusjóváhagyásának egyéb feltételeit, részletes technikai követelményeket, nyilvántartási és adatközlési kötelezettségeket az APEH elnöke közleményben írja elő.
 
@@ -51,3 +51,4 @@ d) az adómemóriába a napi forgalom záráskényszerrel rögzítődjön (a nap
 [^17]: A 2. § (2) bekezdésének a) pontja a 34/1999. (XII. 26.) PM rendelet 2. §-ával megállapított szöveg.
 [^18]: A 2. § (2) bekezdésének i) pontját a 34/1999. (XII. 26.) PM rendelet 2. §-a iktatta be.
 [^19]: A 2. § (4) bekezdése a 8/1999. (III. 5.) PM rendelet 3. §-ával megállapított szöveg.
+[^20]: A 2. § (6) bekezdése a 27/2010. (XII. 31.) NGM rendelet 5. §-a szerint módosított szöveg.
