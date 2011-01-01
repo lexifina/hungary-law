@@ -1,4 +1,4 @@
-23. § (1)[^29] A gyermek tényleges tartózkodási helye szerint illetékes települési önkormányzat jegyzője – a Gyvt. 68. §-ában foglalt feltételek fennállása esetén – elrendeli a gyermek védelembe vételét és dönt a védelembe vételhez kapcsolódó kérdésekről, a felülvizsgálatról, és az erről szóló határozatát haladéktalanul közli a 21. § szerinti települési önkormányzat jegyzőjével.
+23. § (1)[^33] A gyermek tényleges tartózkodási helye szerint illetékes települési önkormányzat jegyzője – a Gyvt. 68. §-ában foglalt feltételek fennállása esetén – elrendeli a gyermek védelembe vételét és dönt a védelembe vételhez kapcsolódó kérdésekről, a felülvizsgálatról, és az erről szóló határozatát haladéktalanul közli a 21. § szerinti települési önkormányzat jegyzőjével.
 
 (2) Ha a gyermeket a városi gyámhivatal ideiglenes hatállyal a különélő másik szülőnél, másik hozzátartozónál vagy arra alkalmas más személynél helyezte el, a gyermek ügyében – a gyermek elhelyezésére irányuló per jogerős befejezéséig – az a gyámhivatal jár el, amelynél az elsőfokú eljárás indult.
 
@@ -16,16 +16,16 @@
 
 (9) Ha az örökbefogadás felbontásakor az örökbefogadott nagykorú, az illetékességet lakóhelye, ennek hiányában az örökbefogadó lakóhelye határozza meg.
 
-(10)[^30] A nevelésbe vett gyermek örökbefogadásának engedélyezése esetén a volt gyám végszámadásának elfogadására az örökbefogadást engedélyező gyámhivatal az illetékes. Az elfogadott végszámadás alapján a vagyonnal rendelkező gyermekről és vagyonáról a városi gyámhivatal értesíti az örökbefogadó szülő lakóhelye szerinti gyámhivatalt.
+(10)[^34] A nevelésbe vett gyermek örökbefogadásának engedélyezése esetén a volt gyám végszámadásának elfogadására az örökbefogadást engedélyező gyámhivatal az illetékes. Az elfogadott végszámadás alapján a vagyonnal rendelkező gyermekről és vagyonáról a városi gyámhivatal értesíti az örökbefogadó szülő lakóhelye szerinti gyámhivatalt.
 
-(11)[^31] Az örökbefogadás engedélyezéséhez kapcsolódó, a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 46. § (6) bekezdése szerinti határozat meghozatalára az örökbefogadás engedélyezéséről határozatot hozó gyámhivatal illetékes.
+(11)[^35] Az örökbefogadás engedélyezéséhez kapcsolódó, a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 46. § (6) bekezdése szerinti határozat meghozatalára az örökbefogadás engedélyezéséről határozatot hozó gyámhivatal illetékes.
 
-(12)[^32] A kisajátításról szóló törvény alapján kirendelt ügygondnok kirendelésére az ingatlan fekvése szerinti gyámhatóság illetékes.
+(12)[^36] A kisajátításról szóló törvény alapján kirendelt ügygondnok kirendelésére az ingatlan fekvése szerinti gyámhatóság illetékes.
 
-(13)[^33] A családi pótlék természetbeni formában történő nyújtásáról és az iskoláztatási támogatás folyósításának felfüggesztéséről az a jegyző dönt, aki a védelembe vételi eljárás lefolytatására illetékes.
+(13)[^37] A családi pótlék természetbeni formában történő nyújtásáról és az iskoláztatási támogatás folyósításának felfüggesztéséről az a jegyző dönt, aki a védelembe vételi eljárás lefolytatására illetékes.
 
-[^29]: A 23. § (1) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 23. § (6) bekezdés b) pontja, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés e) pontja, a 237/2010. (IX. 13.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^30]: A 23. § (10) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 21. §-a iktatta be.
-[^31]: A 23. § (11) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^32]: A 23. § (12) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^33]: A 23. § (13) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, szövege a 237/2010. (IX. 13.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^33]: A 23. § (1) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 23. § (6) bekezdés b) pontja, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés e) pontja, a 237/2010. (IX. 13.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^34]: A 23. § (10) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 21. §-a iktatta be.
+[^35]: A 23. § (11) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^36]: A 23. § (12) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^37]: A 23. § (13) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, szövege a 237/2010. (IX. 13.) Korm. rendelet 19. §-ával megállapított szöveg.

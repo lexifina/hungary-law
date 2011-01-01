@@ -8,14 +8,15 @@
 
 (4)[^6] A szociális és gyámhivatalnak
 
-a)[^7] a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezésével kapcsolatos hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság a Foglalkoztatási és Szociális Hivatal,
+a)[^7] a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezésével kapcsolatos hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság a Nemzeti Rehabilitációs és Szociális Hivatal,
 
-b) az a) pont szerinti hatósági ügyeiben a felügyeleti szerv a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter),
+b)[^8] az a) pont szerinti hatósági ügyeiben a felügyeleti szerv miniszter,
 
-c)[^8] az a) pontban nem említett gyermekvédelmi és gyámügyi hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti hatóság a miniszter.
+c)[^9] az a) pontban nem említett gyermekvédelmi és gyámügyi hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti hatóság a miniszter.
 
 [^4]: Az 1/A. §-t a 207/2009. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
 [^5]: A 2. § (3) bekezdése az 53/2007. (III. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 2. § (4) bekezdését az 53/2007. (III. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be, 2007. július 1. napján lépett hatályba. E módosító rendelet 17. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^7]: A 2. § (4) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A 2. § (4) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 2. § (4) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés b) pontja, a 332/2010. (XII. 27.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (4) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

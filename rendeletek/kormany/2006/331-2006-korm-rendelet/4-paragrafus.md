@@ -6,7 +6,7 @@ a) elhelyezi a gyermeket ideiglenes hatállyal a különélő másik szülőnél
 
 b) megállapítja a szülői felügyeleti jog feléledését,
 
-c)[^14] dönt az általa elrendelt és a más szerv által alkalmazott ideiglenes hatályú elhelyezés felülvizsgálatáról, megszüntetéséről és megváltoztatásáról,
+c)[^15] dönt az általa elrendelt és a más szerv által alkalmazott ideiglenes hatályú elhelyezés felülvizsgálatáról, megszüntetéséről és megváltoztatásáról,
 
 d) átmeneti nevelésbe veszi a gyermeket, és egyidejűleg gyámot (hivatásos gyámot) rendel,
 
@@ -24,12 +24,12 @@ j) dönt a gondozásidíj-fizetési kötelezettség megállapításáról, illet
 
 k) megállapítja az átmeneti vagy a tartós nevelésbe vett gyermek lakóhelyét,
 
-l)[^15] dönt az ideiglenes hatállyal elhelyezett, az átmeneti vagy tartós nevelésbe vett, speciális szükségletű gyermek nevelési felügyeletéről,
+l)[^16] dönt az ideiglenes hatállyal elhelyezett, az átmeneti vagy tartós nevelésbe vett, speciális szükségletű gyermek nevelési felügyeletéről,
 
 m) közreműködik a bírósági végrehajtási eljárásban,
 
-n)[^16] eljár az eredménytelen védelembe vételről szóló jegyzői értesítés alapján.
+n)[^17] eljár az eredménytelen védelembe vételről szóló jegyzői értesítés alapján.
 
-[^14]: A 4. § c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^15]: A 4. § l) pontja a 173/2009. (VIII. 29.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^16]: A 4. § n) pontját a 173/2009. (VIII. 29.) Korm. rendelet 48. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^15]: A 4. § c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: A 4. § l) pontja a 173/2009. (VIII. 29.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^17]: A 4. § n) pontját a 173/2009. (VIII. 29.) Korm. rendelet 48. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
