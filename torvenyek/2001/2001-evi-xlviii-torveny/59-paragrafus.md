@@ -1,6 +1,6 @@
 ## A nemleges megállapítási eljárás
 
-59. § (1) A nemleges megállapításra (24. §) irányuló kérelmet eggyel több példányban kell benyújtani a Magyar Szabadalmi Hivatalhoz, mint ahány jogosultja van a mintaoltalomnak. A kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék, valamint a megjelölt mintaoltalom mintájának ábrázolását.
+59. § (1) A nemleges megállapításra irányuló kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak. A kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék, valamint a megjelölt mintaoltalom mintájának ábrázolását. A hasznosított vagy hasznosítani kívánt terméket a megjelölt mintaoltalom mintájának a mintaoltalmi lajstromban szereplő ábrázolásával megegyező egy vagy több nézetben kell bemutatni.
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy mintaoltalom és egy hasznosított vagy hasznosítani kívánt termék tekintetében lehet benyújtani.
 

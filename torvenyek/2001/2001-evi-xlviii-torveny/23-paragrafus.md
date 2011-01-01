@@ -4,4 +4,4 @@
 
 (2) A mintaoltalom jogosultja a bitorlóval szemben azokat a polgári jogi igényeket támaszthatja, amelyeket a szabadalmi törvény értelmében a szabadalmas érvényesíthet a bitorlóval szemben. A mintaoltalom bitorlása esetén a jogosult – külön jogszabály rendelkezései szerint – követelheti a vámhatóság intézkedését a bitorlással érintett vámáruk forgalomba kerülésének megakadályozására.
 
-(3) A mintaoltalom bitorlása esetén a bejelentő és a licenciaszerződés alapján hasznosító jogaira a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.
+(3) A mintaoltalom bitorlása esetén a licenciaszerződés alapján hasznosító jogaira a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.

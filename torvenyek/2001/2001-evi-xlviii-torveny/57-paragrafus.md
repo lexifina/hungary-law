@@ -4,7 +4,7 @@
 
 (2) A 9–10. §-ok alapján csak a korábbi akadályozó jog jogosultja, a 28. § (1) bekezdésének d) pontja alapján pedig csak az kérheti a mintaoltalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A megsemmisítési kérelmet eggyel több példányban kell benyújtani a Magyar Szabadalmi Hivatalhoz, mint ahány jogosultja van a mintaoltalomnak és – szolgálati mintára adott mintaoltalom esetén – ahány szerzője van a mintának. A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A megsemmisítési kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak és – szolgálati mintára adott mintaoltalom esetén – ahány szerzője van a mintának. A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
 (4) A megsemmisítési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 

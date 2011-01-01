@@ -1,6 +1,6 @@
 ## A bejelentés napja
 
-37. § (1) A mintaoltalmi bejelentés napja az a nap, amelyen a Magyar Szabadalmi Hivatalhoz beérkezett bejelentés legalább a következőket tartalmazza:
+37. § (1) A mintaoltalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 a) utalást a mintaoltalom iránti igényre,
 

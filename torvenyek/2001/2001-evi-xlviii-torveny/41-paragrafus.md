@@ -1,6 +1,6 @@
 ## A bejelentés benyújtását követő vizsgálat
 
-41. § (1) A Magyar Szabadalmi Hivatal a mintaoltalmi bejelentés benyújtását követően megvizsgálja, hogy
+41. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi bejelentés benyújtását követően megvizsgálja, hogy
 
 a) a bejelentés megfelel-e a bejelentési nap elismeréséhez előírt feltételeknek (37. §),
 

@@ -1,14 +1,14 @@
 ## A mintaoltalmi bejelentés elektronikus úton való benyújtása
 
-36/A. § (1) A mintaoltalmi bejelentést – a Magyar Szabadalmi Hivatal által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
+36/A. § (1) A mintaoltalmi bejelentést – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
 
-(2) Az elektronikus úton benyújtott mintaoltalmi bejelentés megérkezéséről a Magyar Szabadalmi Hivatal – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a bejelentőnek.
+(2) Az elektronikus úton benyújtott mintaoltalmi bejelentés megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a bejelentőnek.
 
-(3) A Magyar Szabadalmi Hivatal az elektronikus úton benyújtott mintaoltalmi bejelentés megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
+(3) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott mintaoltalmi bejelentés megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
 
-(4) Elektronikus beküldés esetén a mintaoltalmi bejelentés az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a bejelentő részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Magyar Szabadalmi Hivatal a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
+(4) Elektronikus beküldés esetén a mintaoltalmi bejelentés az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a bejelentő részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
 
-(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Magyar Szabadalmi Hivatal postai úton továbbítja számára az iratot.
+(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
 
 (6)
 

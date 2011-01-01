@@ -1,6 +1,6 @@
-## A végleges mintaoltalom megszűnése
+## A mintaoltalom megszűnése
 
-26. § A végleges mintaoltalom megszűnik, ha
+26. § A mintaoltalom megszűnik, ha
 
 a) az oltalmi idő megújítás nélkül lejárt, az oltalmi idő lejártát követő napon;
 

@@ -4,7 +4,7 @@
 
 ## Bejelentési nyilvántartás, mintaoltalmi lajstrom
 
-34. § (1) A Magyar Szabadalmi Hivatal a mintaoltalmi bejelentésekről nyilvántartást, a mintaoltalom megadását követően a minták oltalmáról lajstromot vezet, amelyekbe be kell jegyezni a mintaoltalmi jogokkal kapcsolatos minden tényt és körülményt.
+34. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi bejelentésekről nyilvántartást, a mintaoltalom megadását követően a minták oltalmáról lajstromot vezet, amelyekbe be kell jegyezni a mintaoltalmi jogokkal kapcsolatos minden tényt és körülményt.
 
 (2) A mintaoltalmi lajstromban fel kell tüntetni különösen
 

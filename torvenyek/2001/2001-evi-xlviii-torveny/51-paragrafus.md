@@ -4,7 +4,7 @@
 
 ## A megújítási eljárás
 
-51. § (1) A mintaoltalom megújítását [19. § (2) bek.] a mintaoltalom jogosultja kérheti a Magyar Szabadalmi Hivataltól. A több mintára adott oltalom megújítását a minták egy része tekintetében is lehet kérni (részleges megújítás).
+51. § (1) A mintaoltalom megújítását [19. § (2) bek.] a mintaoltalom jogosultja kérheti a Szellemi Tulajdon Nemzeti Hivatalától. A több mintára adott oltalom megújítását a minták egy része tekintetében is lehet kérni (részleges megújítás).
 
 (2) A megújítási kérelemben meg kell jelölni a megújítani kívánt mintaoltalom lajstromszámát, valamint – részleges megújítás esetén – az érintett mintákat.
 

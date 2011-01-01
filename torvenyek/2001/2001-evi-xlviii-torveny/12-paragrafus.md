@@ -16,4 +16,4 @@
 
 (6) A szerző a Polgári Törvénykönyv szabályai szerint léphet fel azzal szemben, aki e minőségét kétségbe vonja, vagy a mintával kapcsolatos személyhez fűződő jogát egyébként megsérti.
 
-(7) A mintaoltalmi bejelentés közzététele előtt a mintát csak a szerző, illetve jogutódja hozzájárulásával szabad nyilvánosságra hozni.
+(7) A mintaoltalom megadása előtt a mintát csak a szerző, illetve jogutódja hozzájárulásával szabad nyilvánosságra hozni.

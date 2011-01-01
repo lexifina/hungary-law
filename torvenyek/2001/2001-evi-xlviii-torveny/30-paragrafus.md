@@ -1,14 +1,14 @@
 ## MÁSODIK RÉSZ
 
-## A MAGYAR SZABADALMI HIVATAL ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
+## A SZELLEMI TULAJDON NEMZETI HIVATALÁNAK ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
 
 ## V. Fejezet
 
 ## A MINTAOLTALMI ELJÁRÁSOK ÁLTALÁNOS SZABÁLYAI
 
-## A Magyar Szabadalmi Hivatal hatásköre
+## A Szellemi Tulajdon Nemzeti Hivatala hatásköre
 
-30. § (1) A Magyar Szabadalmi Hivatal hatáskörébe a következő mintaoltalmi ügyek tartoznak:
+30. § (1) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe a következő mintaoltalmi ügyek tartoznak:
 
 a) a mintaoltalom megadása,
 
@@ -22,8 +22,8 @@ e) a mintaoltalom megsemmisítése,
 
 f) a nemleges megállapítás,
 
-g) a mintaoltalmi bejelentések és a minták oltalmának nyilvántartása,
+g) a mintaoltalmak nyilvántartása,
 
 h) a hatósági tájékoztatás.
 
-(2) A Magyar Szabadalmi Hivatal hatáskörébe tartoznak a formatervezési minták közösségi oltalmának rendszerére (VIII/A. fejezet) és az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak a formatervezési minták közösségi oltalmának rendszerére (VIII/A. fejezet) és az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
