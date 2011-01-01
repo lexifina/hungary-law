@@ -4,7 +4,7 @@ a) tájékoztatni az Európai Bizottságot arról, hogy az információs társad
 
 b) ötévenként jelentést tenni az Európai Bizottságnak a kivételek alkalmazásáról, és abban megindokolni, hogy miért tartja a Magyar Köztársaság szükségesnek bírósági, hatósági vagy egyéb közhatalmat gyakorló személyek jogszabályban előírt kötelező közreműködésével kötött szerződésekre a kivétel fenntartását.
 
-(2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az érintett miniszterekkel egyetértésben – a kormányzati informatika vonatkozásában a közigazgatási informatikáért felelős miniszterrel együttesen – rendeletben szabályozza
+(2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 a)
 
