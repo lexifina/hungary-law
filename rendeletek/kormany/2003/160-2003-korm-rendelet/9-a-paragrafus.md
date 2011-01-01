@@ -1,6 +1,6 @@
-## A támogatás ellenőrzése[^45]
+## A támogatás ellenőrzése[^47]
 
-9/A. §[^46] (1) Az Alapprogram kezelő szervének gondoskodnia kell a pályázó által a beszámolás keretében benyújtott dokumentumok formai és tartalmi ellenőrzésének lefolytatásáról (a továbbiakban: dokumentumalapú ellenőrzés).
+9/A. §[^48] (1) Az Alapprogram kezelő szervének gondoskodnia kell a pályázó által a beszámolás keretében benyújtott dokumentumok formai és tartalmi ellenőrzésének lefolytatásáról (a továbbiakban: dokumentumalapú ellenőrzés).
 
 (2) A dokumentumalapú ellenőrzés keretében legalább a következőket kell ellenőrizni:
 
@@ -10,5 +10,5 @@ b) azt, hogy a benyújtott számla, vagy egyéb, a gazdasági eseményt hitelese
 
 c) a kettős finanszírozás elkerülésére vonatkozó előírások betartását (záradékolás).
 
-[^45]: A 9/A. §-t megelőző alcímet a 130/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
-[^46]: A 9/A. §-t a 130/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A 9/A. §-t megelőző alcímet a 130/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 9/A. §-t a 130/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
