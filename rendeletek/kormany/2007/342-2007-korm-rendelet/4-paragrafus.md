@@ -1,6 +1,6 @@
 4. § (1) Az e rendelet szerinti eljárásban – az 5. §-ban foglaltak kivételével – az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (a továbbiakban: OMFI) szakértőként jár el.
 
-(2)[^7] Az OMFI a szakértői véleményét
+(2)[^8] Az OMFI a szakértői véleményét
 
 a) az állapotfelmérés, valamint
 
@@ -14,4 +14,4 @@ a) ellenőrzi, hogy az állapotfelmérésben foglalt körülmények a valóságn
 
 b) megvizsgálja, hogy a kérelemben megjelölt munkakörben foglalkoztatottak esetében a vizsgált munkahelyen a Tv. 355. §-ának (1) bekezdésében foglaltak fennállnak-e, illetve milyen mértékben állnak fenn.
 
-[^7]: A 4. § (2) bekezdés második mondatát a 182/2009. (IX. 10.) Korm. rendelet 598. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 4. § (2) bekezdés második mondatát a 182/2009. (IX. 10.) Korm. rendelet 598. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

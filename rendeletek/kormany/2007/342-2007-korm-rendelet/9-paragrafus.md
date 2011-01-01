@@ -1,8 +1,8 @@
 9. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2)–(3)[^13]
+(2)–(3)[^16]
 
-(4)[^14]
+(4)[^17]
 
 Melléklet a 342/2007. (XII. 19.) Korm. rendelethez
 
@@ -44,5 +44,5 @@ II.
 
 | Név (családi és utónév, valamint születési név) | Lakóhely | Tartózkodási hely |
 
-[^13]: A 9. § (2)–(3) bekezdése e rendelet 9. § (4) bekezdése alapján hatályát vesztette.
-[^14]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^16]: A 9. § (2)–(3) bekezdése e rendelet 9. § (4) bekezdése alapján hatályát vesztette.
+[^17]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

@@ -2,7 +2,7 @@
 
 a) ionizáló sugárzás hatása alatt végzett munka esetében az Országos „Frederic Joliot Curie” Sugárbiológiai és Sugáregészségügyi Kutató Intézet,
 
-b) közlekedésnél végzett munka esetében a Nemzeti Közlekedési Hatóság Pályaalkalmasság Vizsgálati Igazgatósága,
+b)[^9] közlekedésnél végzett munka esetében a Nemzeti Közlekedési Hatóság Közúti Gépjármű-közlekedési Hivatala,
 
 c) bányászatban végzett munka esetén a Magyar Bányászati és Földtani Hivatal,
 
@@ -10,6 +10,7 @@ d) villamosenergia-iparban végzett munka esetén a Magyar Kereskedelmi Engedél
 
 ## szakhatóságként vesz részt.
 
-(2)[^8] A szakhatóság az állásfoglalását – a 4. § (3) bekezdésének a)–b) pontjában foglaltak vizsgálatára figyelemmel – huszonkét munkanapon belül adja meg.
+(2)[^10] A szakhatóság az állásfoglalását – a 4. § (3) bekezdésének a)–b) pontjában foglaltak vizsgálatára figyelemmel – harminc napon belül adja meg.
 
-[^8]: A 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 597. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: Az 5. § (1) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 200. §-a szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (99) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
