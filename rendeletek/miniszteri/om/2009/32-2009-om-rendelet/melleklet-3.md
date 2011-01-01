@@ -242,6 +242,6 @@
 
 | 7792 fő | 871 fő | 369 fő | 9032 fő |
 
-3. melléklet a 32/2009. (XI. 30.) ÖM rendelethez[^6]
+3. melléklet a 32/2009. (XI. 30.) ÖM rendelethez[^7]
 
-[^6]: A 3. melléklet a 34/2009. (XII. 29.) ÖM rendelet 6. §-a és 8. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 3. melléklet a 34/2009. (XII. 29.) ÖM rendelet 6. §-a és 8. § (1) bekezdése szerint módosított szöveg.

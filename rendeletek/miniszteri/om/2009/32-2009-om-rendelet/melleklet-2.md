@@ -342,6 +342,6 @@
 
 ## 3 A HÖT veszélyeztetettségét mutató pontérték 2008. december 1-jével, az elsődleges működési körzet változásával módosul, a HÖT a megállapított türelmi időre tekintettel nem kerül más szervezési kategóriába.
 
-2. melléklet a 32/2009. (XI. 30.) ÖM rendelethez[^5]
+2. melléklet a 32/2009. (XI. 30.) ÖM rendelethez[^6]
 
-[^5]: A 2. melléklet a 34/2009. (XII. 29.) ÖM rendelet 5. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 34/2009. (XII. 29.) ÖM rendelet 5. §-a szerint módosított szöveg.

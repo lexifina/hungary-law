@@ -5423,5 +5423,3 @@ Fényeslitke
 Gégény
 
 Gyulaháza
-
-Jéke

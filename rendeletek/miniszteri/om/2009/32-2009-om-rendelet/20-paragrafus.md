@@ -1,3 +1,3 @@
-## 18–19. §[^2]
+## 18–19. §[^3]
 
-[^2]: A 18–19. §-t a 20. § hatályon kívül helyezte.
+[^3]: A 18–19. §-t a 20. § hatályon kívül helyezte.
