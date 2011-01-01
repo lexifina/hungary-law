@@ -18,7 +18,7 @@ c) gyógyszertár: a biztonságos és gazdaságos gyógyszer- és gyógyászatis
 
 d) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. §-ának 1. pontjában meghatározott termék és a különleges táplálkozási igényt kielégítő tápszer,
 
-e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. §-ának 6. pontja szerinti eszköz,
+e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (továbbiakban: Gyftv.) 3. §-ának 6. pontja szerinti eszköz,
 
 f)
 
@@ -38,4 +38,14 @@ m) betegfogadási lista: az adott járóbeteg szakellátó intézményben – am
 
 n) próbavásárlás: az egészségbiztosító által végzett olyan helyszíni ellenőrzés, melynek során az ellenőrzést végző személy vásárlói szerepben vagy – a gyógyító-megelőző egészségügyi ellátás kivételével – szolgáltatást igénybe vevő szerepben lép fel,
 
-o) gyógyító-megelőző eljárások során alkalmazott egészségügyi technológia: az egészség megőrzésére, helyreállítására, illetve az egészségi állapot diagnosztizálására irányuló tevékenységek, illetve ezek kapcsán felhasznált eszközök, anyagok összessége, ide nem értve gyógyászati segédeszköz alkalmazását és gyógyszer gyógyító-megelőző ellátáson kívüli alkalmazását.
+o) gyógyító-megelőző eljárások során alkalmazott egészségügyi technológia: az egészség megőrzésére, helyreállítására, illetve az egészségi állapot diagnosztizálására irányuló tevékenységek, illetve ezek kapcsán felhasznált eszközök, anyagok összessége, ide nem értve az E. Alap által támogatott azon gyógyszerek és gyógyászati segédeszközök alkalmazását, amelyek vényen rendelhetőek és ártámogatással vehetők igénybe.
+
+p) szülő:
+
+pa) a vér szerinti és az örökbefogadó szülő, továbbá az együtt élő házastárs,
+
+pb) az a személy, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
+
+pc) a gyám,
+
+pd) a nevelőszülő és a helyettes szülő.

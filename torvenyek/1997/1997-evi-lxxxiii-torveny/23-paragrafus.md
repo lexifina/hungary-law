@@ -10,14 +10,14 @@ d) a fekvőbeteg-gyógyintézeti ellátásra, ha azt a biztosított beutaló né
 
 e) a fekvőbeteg-gyógyintézeti ellátásnak a beutalási rendtől eltérő igénybevételére, ide nem értve az Eütv. 3. §-ának i) pontja szerinti sürgős szükség körébe tartozó – külön jogszabályban megnevezett – ellátásokat;
 
-f) saját kezdeményezésére az ellátás 19. § (1) bekezdésében foglaltaktól – többletköltséget okozó – eltérő tartalommal történő igénybevételére;
+f)
 
 g)
 
-h) amennyiben állapota indokolja az e feladatra finanszírozott szolgáltatónál ápolás céljából történő elhelyezésre és ápolásra, ideértve a szükséges gyógyszereket és az étkezést is;
+h)
 
 i) az egészségbiztosításért felelős miniszter rendeletében foglalt esetekben szanatóriumi ellátásra;
 
-j) az egészségügyi ellátás keretében igénybe vett egyéb kényelmi szolgáltatásokra;
+j)
 
 k) külsődleges nemi jellegek megváltoztatására irányuló beavatkozásra, kivéve, ha fejlődési rendellenesség miatt a genetikailag meghatározott nem külsődleges jegyeinek kialakítása a cél;

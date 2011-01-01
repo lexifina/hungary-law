@@ -3,3 +3,5 @@
 (2) Abban az esetben, ha a gyermekgondozási díjra jogosult a jogosultság megszerzésekor vagy azt megelőző 2 éven belül jogosult volt gyermekgondozási díjra, a gyermekgondozási díj folyósításának időtartama nem lehet rövidebb a korábbi gyermekgondozási díj (1) bekezdés alapján megállapított időtartamánál, és ezen gyermekgondozási díj folyósításának időtartama nem hosszabbodik meg a korábbi terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély jogosultsági idejével.
 
 (3) Ha a gyermeket szülő nő – ideértve a gyermeket örökbe fogadni szándékozó nőt is – meghal, vagy a gyermek nem az ő háztartásában nevelkedik, úgy a gyermekgondozási díj az arra jogosult személynek a terhességi-gyermekágyi segélyre jogosító időtartamra, illetőleg annak fennmaradó részére is jár.
+
+(4) Amennyiben a gyermekgondozási díj iránti kérelem a szülési szabadság vagy az annak megfelelő időtartam lejártát megelőzően kerül benyújtásra, a kérelem elbírálására vonatkozó határidő kezdőnapja a szülési szabadság, illetve az annak megfelelő időtartam lejártát követő nap.

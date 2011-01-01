@@ -8,13 +8,7 @@ b) a terhességi-gyermekágyi segélyben részesült anya, akinek a biztosítás
 
 és a gyermeket saját háztartásában neveli.
 
-(2) A 39. § (3)–(5) bekezdése, valamint az (1) bekezdés a) pontjának alkalmazásakor szülő alatt érteni kell
-
-a) a vér szerinti és az örökbefogadó szülőt, továbbá a szülővel együtt élő házastársat,
-
-b) azt a személyt, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
-
-c) a gyámot.
+(2) Az (1) bekezdés a) pontjának alkalmazásakor nem tekinthető szülőnek a nevelőszülő és a helyettes szülő.
 
 (3)
 

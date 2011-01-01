@@ -14,6 +14,6 @@ b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évné
 
 c) a rehabilitációs járadék folyósításának idejét.
 
-(3) A terhességi-gyermekágyi segély a szülési szabadságnak megfelelő időtartamra jár.
+(3) A terhességi-gyermekágyi segély a szülési szabadságnak megfelelő időtartamra jár. Ha a terhességi-gyermekágyi segély iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
 
 (4) Terhességi-gyermekágyi segély a gondozásba vétel napjától a szülési szabadság még hátralevő tartamára annak a nőnek is jár, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette, ha az (1) bekezdésben foglalt feltételek a gondozásba vétel napján fennállnak.

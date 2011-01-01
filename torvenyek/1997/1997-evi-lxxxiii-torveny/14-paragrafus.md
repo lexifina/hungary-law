@@ -16,6 +16,6 @@ e) étkezésre, ideértve az orvos által rendelt diétát is,
 
 f) a rendelkezésre álló, az ellátás szakmai és etikai követelményeinek megfelelő színvonalú elhelyezésre arra az időtartamra, amíg az ellátás fekvőbeteg-gyógyintézeti körülmények között indokolt.
 
-(3) A biztosított külön jogszabályban foglaltak szerint jogosult fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra és otthoni hospice ellátásra.
+(3) A biztosított külön jogszabályban foglaltak szerint jogosult fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra (ideértve az otthoni rehabilitációs ellátást is) és otthoni hospice ellátásra.
 
 (4) A biztosított jogosult társadalombiztosítási ellátásra vagy szociális juttatásra, illetve külön jogszabályban meghatározott kedvezményre való jogosultság megállapítására, annak ellenőrzésére irányuló orvos szakértői véleményt megalapozó kivizsgálásra.

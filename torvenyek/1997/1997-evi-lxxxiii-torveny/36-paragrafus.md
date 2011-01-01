@@ -4,7 +4,7 @@
 
 (2) Az egészségbiztosító jogosult a szolgáltatásokhoz szükséges személyi és tárgyi feltételek vizsgálatára – ideértve a helyszíni ellenőrzést is –, a biztosított ellátására vonatkozó dokumentumokba és az elszámolás alapjául szolgáló nyilvántartásokba való betekintésre, a külön jogszabályban foglaltak szerint a biztosított vizsgálatára, a biztosított ellátása orvosszakmai indokoltságának felülvizsgálatára, valamint a (3) bekezdésben foglaltak ellenőrzésére.
 
-(3) Az egészségbiztosító ellenőrzi a finanszírozott egészségügyi szolgáltatások elszámolási rendjét, az elszámolások valódiságát, a folyósított pénzeszközök felhasználásának pénzügyi szabályszerűségét és elkülönítését. Az egészségbiztosító ellenőrzi, hogy az egészségügyi szolgáltató az elszámolási nyilatkozattal kapcsolatos kötelezettségeit teljesíti-e.
+(3) Az egészségbiztosító ellenőrzi a finanszírozott egészségügyi szolgáltatások elszámolási rendjét, az elszámolások valódiságát, a folyósított pénzeszközök felhasználásának pénzügyi szabályszerűségét és elkülönítését.
 
 (4) Az egészségbiztosító ellenőrzi az egészségügyi dokumentáció vezetésére, a beutalás rendjére, továbbá a támogatással rendelhető gyógyszer, gyógyászati segédeszköz rendelésére, készletben tartására, kiszolgáltatására és nyilvántartására, valamint gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás támogatással történő rendelésére és nyújtására vonatkozó előírások megtartását, érvényesülését. A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás támogatással történő rendelésére a 32. § alapján jogosult orvos az ellenőrzést végző személy rendelkezésére bocsátja az érintett biztosítottra vonatkozó, az ellenőrzés lefolytatásához szükséges egészségügyi dokumentációt.
 

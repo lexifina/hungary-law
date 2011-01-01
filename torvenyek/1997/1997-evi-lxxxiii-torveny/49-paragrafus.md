@@ -1,6 +1,6 @@
-49. § (1) A gyermekgondozási segély, a gyermeknevelési támogatás vagy az ápolási díj mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
+49. § (1) A gyermeknevelési támogatás vagy az ápolási díj mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
 
-a) a táppénzfolyósítás időtartamának megállapításánál biztosítási időként csak a gyermekgondozási segély, a gyermeknevelési támogatás vagy az ápolási díj folyósításának időtartama alatt biztosítási jogviszonyban töltött napokat lehet figyelembe venni,
+a) a táppénzfolyósítás időtartamának megállapításánál biztosítási időként csak a gyermeknevelési támogatás vagy az ápolási díj folyósításának időtartama alatt biztosítási jogviszonyban töltött napokat lehet figyelembe venni,
 
 b) a táppénz összegének megállapításánál a biztosítási jogviszonynak az a) pontban meghatározott időtartam alatt elért, biztosítási jogviszonyból származó pénzbeli egészségbiztosítási járulék alapját képező jövedelmet kell figyelembe venni a 48. §-ban foglaltak szerint.
 

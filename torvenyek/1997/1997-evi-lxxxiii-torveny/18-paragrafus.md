@@ -48,7 +48,7 @@ o) a lőfegyvertartásra vonatkozó orvosi alkalmassági vizsgálatok,
 
 p) alkohol, illetve kábítószer hatása alatt állás esetén a detoxikálás,
 
-q) alkohol, illetve kábítószer szintjének kimutatása érdekében végzett vérvizsgálatok,
+q) hatósági eljárásban alkohol, illetve kábítószer szintjének kimutatása érdekében végzett vérvizsgálatok, vizeletvizsgálatok,
 
 r) látlelet kiadása,
 
@@ -62,25 +62,23 @@ u) az a)–t) pontban meghatározott ellátások keretében, annak részeként k
 
 (8)
 
-(9) A járóbeteg-szakellátást, valamint a fogászati alapellátást nyújtó egészségügyi szolgáltató – a külön jogszabályban meghatározott esetek kivételével – a biztosítottat – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatja
+(9) A járóbeteg-szakellátást, valamint a fogászati alapellátást nyújtó egészségügyi szolgáltató – e törvény végrehajtására kiadott kormányrendeletben meghatározott esetek kivételével – a biztosítottat kérésére köteles – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatni
 
-a) a biztosított által igénybe vett ellátásról (a külön jogszabály szerinti OENO-kóddal együtt),
+a) a biztosított által igénybe vett ellátásról (az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet szerinti OENO-kóddal együtt),
 
-b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében külön jogszabály alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
+b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
 
-c)
+c) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
 
-d) az ellátásért fizetendő külön jogszabály szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
+(10) A fekvőbeteg-gyógyintézet a biztosítottat kérésére köteles az elbocsátásakor – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatni
 
-(10) A fekvőbeteg-gyógyintézet a biztosítottat elbocsátásakor – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatja
+a) a biztosított által igénybe vett ellátásról (az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet szerinti BNO- és HBCs-kóddal együtt),
 
-a) a biztosított által igénybe vett ellátásról (a külön jogszabály szerinti BNO- és HBCs-kóddal együtt),
-
-b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében külön jogszabály alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
+b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
 
 c) az ellátási napok számáról,
 
-d) az ellátásért fizetendő külön jogszabály szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
+d) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
 
 (11) Az elszámolási nyilatkozatot egy példányban kell kiállítani, amelyen a kiállító orvos aláírásával igazolja, hogy a biztosított az abban megnevezett ellátást igénybe vette. Az aláírt elszámolási nyilatkozatot a biztosítottnak át kell adni, ennek tényét az egészségügyi szolgáltató elektronikus formában rögzíti.
 

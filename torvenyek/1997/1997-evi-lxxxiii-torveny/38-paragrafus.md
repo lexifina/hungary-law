@@ -16,7 +16,7 @@ g) az egészségbiztosító és a szolgáltató közötti szerződésben foglalt
 
 (2) Gyógyászati ellátás támogatással történő nyújtásának az ellenőrzése során az egészségbiztosító az (1) bekezdés c)–d) pontjában foglaltakat vizsgálja.
 
-(3) Ha az (1)–(2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, az az így elszámolt támogatásnak a jegybanki alapkamat kétszeresével növelt összegét visszatéríti. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 2 éven belül támogatás elszámolása során is érvényesíthető.
+(3) Ha az (1)–(2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, az az így elszámolt támogatásnak a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét visszatéríti. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 2 éven belül támogatás elszámolása során is érvényesíthető.
 
 (4) Amennyiben a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó előírásokat
 
@@ -36,6 +36,6 @@ b) a gyógyszer-kiszolgáltatás gyógyszerkeret összegéig terjedő mértéké
 
 c) a közgyógyellátás keretében elszámolt térítési díj kiszámításának jogszerűségét és pontosságát.
 
-(7) Ha megállapításra kerül, hogy a kiszolgáltató, forgalmazó, ellátást nyújtó a közgyógyellátásra vonatkozó szabályokat megszegte, az elszámolt támogatásnak a (3) bekezdés szerinti összegén túlmenően a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összegnek a jegybanki alapkamat kétszeresével növelt összegét is visszatéríti.
+(7) Ha megállapításra kerül, hogy a kiszolgáltató, forgalmazó, ellátást nyújtó a közgyógyellátásra vonatkozó szabályokat megszegte, az elszámolt támogatásnak a (3) bekezdés szerinti összegén túlmenően a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összegnek a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét is visszatéríti.
 
 (8) Amennyiben a gyógyszerek és gyógyászati segédeszközök forgalmazására jogosult személy a külön törvényben és annak felhatalmazása alapján kiadott rendeletben foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő forgalmazást legfeljebb egy év időtartamra fel kell függeszteni.

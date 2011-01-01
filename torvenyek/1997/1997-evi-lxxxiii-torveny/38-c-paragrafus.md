@@ -1,1 +1,3 @@
-### 38/C. §
+## Záró ellenőrzés
+
+38/C. § Ha az egészségügyi szolgáltató 30. § (1)–(2) bekezdése szerinti szerződése megszűnik, és az abból származó jogok és kötelezettségek teljes köre tekintetében jogutód személy a 30. § (1) vagy (2) bekezdése szerinti szerződéssel nem rendelkezik, vagy ha a szerződés megszűnését követően nem következik be jogutódlás, az egészségbiztosító a szerződés megszűnését követő 90 napon belül záró ellenőrzést végez. A záró ellenőrzés tekintetében a 36. §, a 37. § (1)–(8) és (12)–(14) bekezdés, a 38. § (1)–(3) és (6)–(7) bekezdés, valamint a 38/A. § szerinti, a szerződés teljesítésének ellenőrzésére vonatkozó szabályok alkalmazandók. A záró ellenőrzést követően az egészségbiztosító a szolgáltató által kezelt adatokat, az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, és kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.

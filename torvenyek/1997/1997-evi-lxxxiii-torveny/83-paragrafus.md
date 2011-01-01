@@ -32,7 +32,7 @@ m) a foglalkoztatóknak és egyéb szerveknek az egészségbiztosítási ellát�
 
 n) az eltartott hozzátartozók jövedelemszámítási szabályainak,
 
-o) a részleges térítési díjak megállapítási módszerének, az egyes díjtételek képzésénél számításba vehető költségelemeknek, valamint a díjak befizetésére és elszámolására vonatkozó szabályoknak, a térítési díjak egészségügyi szolgáltató általi megállapítása szabályainak, illetve egyes ellátások részleges térítési díjának,
+o) a részleges és kiegészítő térítési díjak megállapítási módszerének, az egyes díjtételek képzésénél számításba vehető költségelemeknek, valamint a díjak befizetésére és elszámolására vonatkozó szabályoknak, a térítési díjak egészségügyi szolgáltató általi megállapítása szabályainak, illetve egyes ellátások részleges, kiegészítő térítési díjának,
 
 p) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, az igényjogosultság igazolásának, valamint a külön jogszabályban meghatározott személyek tekintetében fennálló egészségügyi ellátási rend szabályainak,
 
@@ -64,7 +64,7 @@ meghatározására.
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét, az árukhoz nyújtott támogatás alapját és mértékét, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
 
-b) a társadalombiztosítási támogatással kölcsönözhető gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
+b) a társadalombiztosítási támogatással kölcsönözhető, kizárólag kölcsönzés keretében kiszolgáltatható vagy a beteg tulajdonába csak a kölcsönzési időszakot követően adható gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
 
 c) a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának szempontrendszerét, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek hivatalból történő felülvizsgálatának szempontjait,
 
@@ -140,7 +140,9 @@ b) a sürgős szükség körébe tartozó egészségügyi szolgáltatásokat,
 
 c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szabályokat,
 
-d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat.
+d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
+
+e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket.
 
 (7)
 

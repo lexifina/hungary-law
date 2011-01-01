@@ -30,7 +30,15 @@ d) gyógyszer, gyógyászati segédeszköz, valamint gyógyászati ellátás ár
 
 (6) Az egészségbiztosító külön jogszabályban foglaltak szerint gyógyszer, gyógyászati segédeszköz saját maga vagy a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti hozzátartozója részére (pro família) támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdésben foglalt feltételeknek.
 
-(7) Az az orvos, aki rendelkezik a (6) bekezdés szerinti szerződéssel, jogosult saját maga vagy a Ptk. szerinti hozzátartozója szakorvosi ellátásra történő beutalására.
+(7) Az az orvos, aki rendelkezik a (6) bekezdés szerinti szerződéssel, jogosult saját maga vagy a Ptk. szerinti hozzátartozója részére
+
+a) szakorvosi vizsgája vagy szakorvos javaslata alapján olyan szakorvosi szakképesítéshez vagy szakorvosi javaslathoz kötött gyógyszer rendelésére, amelynek rendelési feltételeként miniszteri rendeletben meghatározott munkahelye megkötés nélküli, valamint amelyet járóbeteg-szakrendelésen vagy fekvőbeteg-gyógyintézetben az adott szakorvosi szakképesítéssel rendelkező orvos rendelhet vagy javasolhat,
+
+b) szakorvosi szakképesítéshez vagy szakorvosi javaslathoz kötött gyógyászati segédeszköz rendelésére szakorvosi vizsgája vagy szakorvos javaslata alapján a rendelés feltételeként miniszteri rendeletben meghatározott munkahelyi követelménytől függetlenül,
+
+c) szakorvosi szakképesítéshez vagy szakorvosi javaslathoz nem kötött gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére, és
+
+d) szakorvosi ellátásra jogosító beutaló kiállítására, ha e törvény végrehajtására kiadott kormányrendelet másként nem rendelkezik.
 
 (8) Az egészségbiztosító a külön jogszabályban meghatározott feladatot ellátó nem finanszírozott egészségügyi szolgáltatóval a 18. § (1) bekezdés szerinti beutalásra jogosító szerződést köt.
 

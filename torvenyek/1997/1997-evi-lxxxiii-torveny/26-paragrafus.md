@@ -1,16 +1,18 @@
 26. § (1) Az egészségbiztosító – az E. Alap költségvetésében meghatározott keretek között – méltányosságból
 
-a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárások, a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, illetve a biztosított által részleges térítési díj megfizetése mellett az egészségbiztosítás terhére igénybe vehető egészségügyi szolgáltatások térítési díját vagy annak egy részét átvállalhatja,
+a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárások, a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, illetve a biztosított által részleges, illetve kiegészítő térítési díj megfizetése mellett az egészségbiztosítás terhére igénybe vehető egészségügyi szolgáltatások térítési díját vagy annak egy részét átvállalhatja,
 
 b)
 
-c) a társadalombiztosítási támogatásba még be nem fogadott, támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához támogatást nyújthat.
+c) a társadalombiztosítási támogatásba még be nem fogadott, támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához támogatást nyújthat,
+
+d) támogatást nyújthat méltányosságból már támogatott gyógyászati segédeszköz javítási díjához,
 
 (2) Az egészségbiztosító méltányosságból a gyógyászati segédeszközök árához a külön jogszabályban foglaltaktól eltérő gyakorisággal támogatást nyújthat.
 
 (3) A méltányossági jogkör gyakorlása nem terjed ki
 
-a) a 23. § b), d)–g) és j) pontjai alapján, valamint
+a) a 23. § b), d)–e) és a 23/A. § a)–b) pontjai alapján, valamint
 
 b) a szakmai szempontok figyelembevételével összeállított várólista alapján
 
@@ -20,11 +22,11 @@ c) a külön jogszabály alapján háromhavi terápiás (HTL) alapú támogatás
 
 d) az (1) bekezdés c) pontja szerinti gyógyászati segédeszközre, amennyiben a biztosított adott indikációban a gyógyászati segédeszközt – külön jogszabály alapján – támogatással kölcsönzi.
 
-(4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás olyan gyógyszerhez vagy gyógyászati segédeszközhöz,
+(4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás
 
-a) amelyre vonatkozóan a gyógyszer forgalomba hozatali engedélyének jogosultja, gyógyászati segédeszköz forgalomba hozója a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányára alapult,
+a) olyan gyógyszerhez vagy gyógyászati segédeszközhöz, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányán alapult,
 
-b) amely esetén a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú készítményekkel, azonos funkcionális csoportba tartozó gyógyászati segédeszközökkel méltányosság alapján kezelt betegek száma elérte az 50 főt.
+b) olyan, Magyarországon az adott indikációra forgalomba hozatali engedéllyel rendelkező gyógyszerhez, amely esetén a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú készítményekkel méltányosság alapján kezelt betegek száma elérte az 50 főt, kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van.
 
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 

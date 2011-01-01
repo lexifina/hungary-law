@@ -8,7 +8,7 @@ c) az anya, ha kórházi ápolás alatt álló egyévesnél fiatalabb gyermekét
 
 d)
 
-e) az a szülő, nevelőszülő és helyettes szülő, aki tizenkét évesnél fiatalabb beteg gyermekét ápolja;
+e) a szülő, aki tizenkét évesnél fiatalabb beteg gyermekét ápolja és a gyermeket a saját háztartásában neveli;
 
 f) aki fekvőbeteg-gyógyintézeti ellátásban betegségének megállapítása vagy gyógykezelése miatt részesül;
 
