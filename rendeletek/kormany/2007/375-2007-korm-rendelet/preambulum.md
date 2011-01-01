@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva, a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény (a továbbiakban: Nek. tv.) 64. §-a (5) bekezdésének b) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
