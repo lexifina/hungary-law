@@ -86,4 +86,6 @@
 
 3. § (1) Ez a rendelet 2010. április 1-jén lép hatályba.
 
-(2) Az e rendelet végrehajtásához szükséges intézkedésekről a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(2)[^1] Az e rendelet végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
