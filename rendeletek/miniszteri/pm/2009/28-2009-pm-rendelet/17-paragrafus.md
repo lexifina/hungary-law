@@ -6,6 +6,6 @@ a) az EK végrehajtási rendelet 372. cikk (1) bekezdés d) pontja szerinti enge
 
 b) az EK végrehajtási rendelet 454a. cikk (1) bekezdés szerinti engedélyezett címzetti státusz;
 
-c)[^1] az integrált postaforgalomra vonatkozó egyes vámjogszabályokról szóló PM rendelet szerinti könnyített eljárásra vonatkozó engedély.
+c)[^4] az integrált postaforgalomra vonatkozó egyes vámjogszabályokról szóló PM rendelet szerinti könnyített eljárásra vonatkozó engedély.
 
-[^1]: A 17. § (2) bekezdés c) pontja a 45/2009. (XII. 30.) PM rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 17. § (2) bekezdés c) pontja a 45/2009. (XII. 30.) PM rendelet 4. §-a szerint módosított szöveg.
