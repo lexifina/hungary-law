@@ -6,6 +6,6 @@
 
 (4) A (3) bekezdésben meghatározott közzétételi és letétbe helyezési kötelezettségének a fióktelep magyar nyelven köteles eleget tenni.
 
-(5) A közzétételi, letétbe helyezési és könyvvizsgálati kötelezettség alól az (1)–(2) bekezdés alapján mentesülő fióktelep köteles a fióktelep működéséről készített éves beszámoló és adózási célú kimutatások megtekintését, valamint azokról másolat készítését a fióktelep székhelyén az érintett felek részére lehetővé tenni.
+(5) A közzétételi, letétbe helyezési és könyvvizsgálati kötelezettség alól az (1)–(2) bekezdés alapján mentesülő fióktelep köteles a fióktelep működéséről készített éves beszámoló, egyszerűsített éves beszámoló és adózási célú kimutatások megtekintését, valamint azokról másolat készítését a fióktelep székhelyén az érintett felek részére lehetővé tenni.
 
 (6) A külföldi hitelintézetek és pénzügyi vállalkozások magyarországi fióktelepei éves beszámolója közzétételi, letétbe helyezési és könyvvizsgálati kötelezettségéről az ezen vállalkozásokra vonatkozó, sajátos számviteli szabályokat tartalmazó kormányrendelet rendelkezik.

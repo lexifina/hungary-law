@@ -10,17 +10,17 @@ kiegészítésekkel tér el az 1. számú melléklet
 
 ,,A'' változata szerinti mérleg tagolásától
 
-1. Az A/III. pont kiegészül az alábbi 8. sorral:
+1. Az A/III. pont kiegészül az alábbi 9. sorral:
 
-,,9. Tőkekonszolidációs különbözet
+„9. Tőkekonszolidációs különbözet
 
 – leányvállalatokból
 
-– társult vállalkozásokból''
+– társult vállalkozásokból”
 
-2. A B/II. pont kiegészül az alábbi 6. sorral:
+2. A B/II. pont kiegészül az alábbi 8. sorral:
 
-,,8. Konszolidációból adódó (számított) társasági adó követelés''
+„8. Konszolidációból adódó (számított) társasági adó követelés”
 
 3. A D. Saját tőke sor az alábbi sorokkal egészül ki:
 
@@ -38,9 +38,9 @@ X. Külső tagok (más tulajdonosok) részesedése''
 
 ,,4. Tőkekonszolidációs különbözet leányvállalatokból''
 
-5. Az F/III. pont az alábbi 9. sorral egészül ki:
+5. Az F/III. pont az alábbi 11. sorral egészül ki:
 
-,,11. Konszolidálásból adódó (számított) társasági adó tartozás''
+„11. Konszolidációból adódó (számított) társasági adó tartozás”
 
 A tagolás értelemszerűen alkalmazandó az 1. számú melléklet ,,B'' változata szerinti mérlegnél is.
 

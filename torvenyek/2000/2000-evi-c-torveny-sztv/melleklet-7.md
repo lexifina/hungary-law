@@ -121,5 +121,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 19. A ,,26. Véglegesen átadott pénzeszközök'' soron az adott időszakban, jogszabály alapján, a tőke-, illetve eredménytartalék vagy az eredmény terhére véglegesen átadott pénzeszközöket kell kimutatni.
 
 A konszolidált éves beszámoló kiegészítő mellékletének részét képező cash flow-kimutatást a jelen melléklet szerinti szerkezetben is el lehet készíteni a konszolidált éves beszámoló mérlege és eredménykimutatása adatainak felhasználásával. A konszolidációs különbözeteket, illetve azok állományváltozását a cash-flow azon soránál kell figyelembe venni, amelyikben szereplő tételhez a konszolidált beszámolóba tartoznak.
-
-A 14–27. sorokban kizárólag azokkal a vállalkozásokkal szembeni gazdasági eseményekből eredő adatokat kell feltüntetni, amely vállalkozások nem tartoznak a konszolidálásba bevont vállalkozások közé. Valós értéken történő értékelés alkalmazása esetén további korrekciós tételeket kell figyelembe venni a valós értéken történő értékelés eredményt érintő hatásainak kiszűrésére.

@@ -4,4 +4,4 @@ a) a kereskedési célú pénzügyi eszközöket és pénzügyi kötelezettsége
 
 b) az értékesíthető pénzügyi eszközöket azok könyv szerinti értékén [a bekerülési (beszerzési) érték törlesztésekkel és értékvesztéssel csökkentett, visszaírással növelt értékén] kell kivezetni a könyvekből és egyidejűleg ki kell vezetni az eszközhöz rendelt értékelési különbözetet is a valós értékelés értékelési tartalékával szemben.
 
-(2) A valós értéken történő értékelés alkalmazása esetén be kell mutatni a kiegészítő mellékletben a 90. § (9) bekezdésében és az üzleti jelentésben a 95. § (4) bekezdésében foglalt adatokat.
+(2) A valós értéken történő értékelés alkalmazása esetén be kell mutatni a kiegészítő mellékletben a 90. § (9) bekezdésében és az üzleti jelentésben a 95. § (6) bekezdésében foglalt adatokat.

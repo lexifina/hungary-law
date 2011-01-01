@@ -24,7 +24,7 @@ f) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a k�
 
 g)
 
-h) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap,
+h) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 
 i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
 
@@ -116,7 +116,7 @@ c) amelyre a felszámoló által adott írásbeli igazolás (nyilatkozat) szerin
 
 d) amelyre a felszámolás, az adósságrendezési eljárás befejezésekor a vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet,
 
-e) amelyet eredményesen nem lehet érvényesíteni, amelynél a végrehajtással kapcsolatos költségek nincsenek arányban a követelés várhatóan behajtható összegével (a végrehajtás veszteséget eredményez vagy növeli a veszteséget), amelynél az adós nem lelhető fel, mert a megadott címen nem található és a felkutatása ,,igazoltan'' nem járt eredménnyel,
+e) amelyet eredményesen nem lehet érvényesíteni, amelynél a fizetési meghagyásos eljárással, a végrehajtással kapcsolatos költségek nincsenek arányban a követelés várhatóan behajtható összegével (a fizetési meghagyásos eljárás, a végrehajtás veszteséget eredményez vagy növeli a veszteséget), amelynél az adós nem lelhető fel, mert a megadott címen nem található és a felkutatása „igazoltan” nem járt eredménnyel,
 
 f) amelyet bíróság előtt érvényesíteni nem lehet,
 
@@ -208,7 +208,7 @@ a) valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben leg
 
 b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben a felek megállapodásától függően, a penzió átvevője saját döntése (jogosultsága) alapján egy előre rögzített időpontban (időpontig), vagy az általa megállapított későbbi időpontban vagy egy, a későbbiekben bekövetkező feltétel beállta esetén, annak időpontjában az eladási áron, vagy a felek által meghatározott más áron visszaadja, a penzióba adó pedig visszaveszi a penzió tárgyát. Nem valódi penziós ügyletnek minősül az is, ha a penzió átvevője kötelezi magát, hogy a penzió tárgyát egy előre meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja és a penzióba adó a penzió tárgya feletti ellenőrzési jogokat szerződéses kitételekkel nem tartja fenn. A nem valódi penziós ügylet a pénzügyi eszközök adásvételére vonatkozó általános szabályok szerint kerül elszámolásra.
 
-12. elektronikus pénzeszköz: az elektronikus fizetési eszközök kibocsátására és használatára vonatkozó egyes szabályokról szóló kormányrendeletben meghatározott fogalom;
+12. elektronikus pénzeszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 
 13. pénzügyi lízing: olyan szerződés alapján valósul meg, amely szerződés értelmében a lízingbeadó a lízingbevevő igényei szerint beszerzett és a lízingbeadó tulajdonát képező eszközt lízingdíj ellenében, a szerződésben rögzített időtartamra a lízingbevevő használatába, birtokába adja azzal, hogy a lízingbevevőt terheli a használatból következően minden költség és kockázat, a lízingbevevő jogosult a hasznok szedésére, a szerződés időtartamának végén a lízingelt eszköz tulajdonjogát a lízingbevevő vagy az általa megjelölt megszerzi (vagy megszerezheti), a maradványérték megfizetésével vagy anélkül, illetve a lízingbevevőt elővételi jog illeti meg, a lízingbevevő azonban ezen jogairól a szerződés megszűnése előtt le is mondhat;
 

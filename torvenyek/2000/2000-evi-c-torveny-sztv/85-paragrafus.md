@@ -60,7 +60,7 @@ t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkal
 
 u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök negatív értékelési különbözetét.
 
-(4) A külföldi pénzértékre szóló részesedésnél, hitelviszonyt megtestesítő értékpapírnál az (1) bekezdés, a (2) bekezdés a) pontja, a (3) bekezdés a)–d) pontja szerinti árfolyamveszteséget a deviza árfolyamváltozása hatásának kiszűrésével kell meghatározni.
+(4)
 
 (5) A pénzügyi műveletek egyéb bevételeinek a 84. § (7) bekezdése szerinti tételei a pénzügyi műveletek egyéb ráfordításai (3) bekezdés szerinti tételeivel nem vonhatók össze, azokat bruttó módon kell kimutatni, kivéve a mérlegfordulónapi értékeléskor elszámolt árfolyamkülönbözetet, amelyet összevontan kell kimutatni.
 

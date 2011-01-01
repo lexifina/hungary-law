@@ -2,7 +2,7 @@
 
 a) az exportértékesítés árbevételét termékexport és szolgáltatásexport szerinti, az importbeszerzés értékét termékimport és szolgáltatásimport szerinti tagolásban, továbbá az Európai Unió, valamint más, az Európai Unión kívüli országok szerinti, illetve ezen belül földrajzilag elhatárolt piacok szerinti bontásban (a földrajzi elkülönítést a vállalkozó gazdálkodása sajátosságainak figyelembevételével alakítja ki);
 
-b) az értékesítés nettó árbevételét a létesítő okiratban megjelölt főbb tevékenységenkénti megbontásban, amennyiben az egyes tevékenységek, szolgáltatások jelentősen különböznek egymástól.
+b) az értékesítés nettó árbevételét főbb tevékenységenkénti megbontásban, amennyiben az egyes tevékenységek, szolgáltatások jelentősen különböznek egymástól.
 
 (2) Exporttámogatás esetén a kiegészítő mellékletnek tartalmaznia kell a támogatott exportárbevételhez kapcsolódó közvetlen költségek (közvetlenül elszámolt költségek, az eladott áruk beszerzési értéke) összegét.
 

@@ -78,4 +78,4 @@ t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkal
 
 u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök pozitív értékelési különbözetét.
 
-(8) A külföldi pénzértékre szóló részesedésnél, hitelviszonyt megtestesítő értékpapírnál a (2) bekezdés, a (3) bekezdés a)–b) és e) pontja, a (7) bekezdés a)–d) pontja szerinti árfolyamnyereséget a deviza árfolyamváltozása hatásának kiszűrésével kell meghatározni.
+(8)

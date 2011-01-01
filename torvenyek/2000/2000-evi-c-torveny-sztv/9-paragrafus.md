@@ -8,9 +8,9 @@ b) az éves nettó árbevétel az 1000 millió forintot,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt.
 
-(3) A (2) bekezdés előírásait részvénytársaság, a konszolidálásba bevont vállalkozás, a külföldi székhelyű vállalkozás magyarországi fióktelepe, valamint az olyan vállalkozó, amelynek kibocsátott – a 3. § (6) bekezdésének 2–3. pontja szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett vagy az engedélyezést már kérelmezték, nem alkalmazhatja.
+(3) A (2) bekezdés előírásait a nyilvánosan működő részvénytársaság, az anyavállalat, a konszolidálásba e törvény 120–134. §-a szerint bevont vállalkozás, valamint az olyan vállalkozó, amelynek kibocsátott – a 3. § (6) bekezdés 2–3. pontja szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett vagy az engedélyezést már kérelmezték, nem alkalmazhatja.
 
-(4) Nem készíthet egyszerűsített éves beszámolót az a vállalkozó, ahol az üzleti év a naptári évtől a 11. § (2)–(3) bekezdésében foglaltak alapján tér el.
+(4)
 
 (5) Jogelőd nélkül alapított vállalkozónál – a (2) bekezdés b) pontjában foglaltak alkalmazásakor –, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az éves nettó árbevétel adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható éves nettó árbevételt és – ha van – a megelőző (első) üzleti év éves (éves szintre átszámított) nettó árbevételét kell figyelembe venni. Az előbbiekben foglaltak megfelelő alkalmazásával kell eljárni a (2) bekezdés a) és c) pontja tekintetében is.
 

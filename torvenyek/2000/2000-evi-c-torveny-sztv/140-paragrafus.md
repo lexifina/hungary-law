@@ -8,6 +8,6 @@
 
 (5) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a saját tőkén belül a lekötött tartalék tételében (elkülönítetten) fedezetet kell képezni az átalakulás napjáig várhatóan bekövetkező vagyonvesztésre.
 
-(6) A lekötött tartalék tételben kell fedezetet képezni az átalakulással közvetlenül összefüggően keletkező adófizetési kötelezettségre (a vagyonfelértékelés miatti adóra), ha arra más módon nem képeztek fedezetet.
+(6)
 
 (7) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az eredménytartalék összege – az (1) bekezdésben foglaltak figyelembevételével – csak az (1), (3)–(6) bekezdés, valamint a 138. § (4) bekezdésének a) pontja, illetve a 139. § (3)–(5) bekezdése alapján növelő-csökkentő tételek összevont pozitív értékével haladhatja meg az átalakuló gazdasági társaság vagyonmérleg-tervezetében egyébként szereplő eredménytartalék összegét.

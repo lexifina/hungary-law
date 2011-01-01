@@ -12,7 +12,7 @@ c) az európai részvénytársaságnál, az európai szövetkezetnél, a hitelin
 
 d) a nemzetközi jellegű felsőoktatási intézménynél.
 
-(3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett. Ez esetben a megváltoztatott mérlegfordulónappal készített éves beszámoló kiegészítő mellékletében be kell mutatni a mérleg és az eredménykimutatás adatai mellett az azokkal összehasonlítható (egy üzleti évvel korábbi) bázisadatokat tartalmazó mérleget és eredménykimutatást is.
+(3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett. Ez esetben a megváltoztatott mérlegfordulónappal készített éves beszámoló, egyszerűsített éves beszámoló kiegészítő mellékletében be kell mutatni a mérleg és az eredménykimutatás adatai mellett az azokkal összehasonlítható (egy üzleti évvel korábbi) bázisadatokat tartalmazó mérleget és eredménykimutatást is.
 
 (4) Az üzleti év időtartama – az (5)–(13) bekezdésben foglaltak kivételével – 12 naptári hónap.
 
