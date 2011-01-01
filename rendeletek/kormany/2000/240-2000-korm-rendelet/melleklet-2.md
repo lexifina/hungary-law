@@ -10,7 +10,7 @@
 
 ## Az érzékeny felszíni vizek vízgyűjtő területét kijelölő települések listája
 
-I. Balaton vízgyűjtője
+## I.[^2] Balaton vízgyűjtője
 
 ## Ábrahámhegy
 
@@ -524,6 +524,8 @@ I. Balaton vízgyűjtője
 
 ## Táska
 
+## Tekenye
+
 ## Telekes
 
 ## Teleki
@@ -544,7 +546,7 @@ I. Balaton vízgyűjtője
 
 ## Uzsa
 
-## Újvárfalva
+## Öjvárfalva
 
 ## Vállus
 
@@ -683,3 +685,5 @@ II. Velencei-tó vízgyűjtője
 ## Vértesboglár
 
 III. Fertő-tó vízgyűjtője
+
+[^2]: A 2. számú melléklet I. pontja a 351/2010. (XII. 30.) Korm. rendelet 79. §-ával megállapított szöveg.
