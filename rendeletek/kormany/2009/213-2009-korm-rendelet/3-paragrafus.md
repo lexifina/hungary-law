@@ -1,10 +1,10 @@
 ## Igénylés
 
-3. § (1) A fenntartó a normatíva iránti kérelmet – a (2)–(3) bekezdésben foglaltak kivételével – a 2. § (3) bekezdése szerinti adatlap, illetve elektronikus formanyomtatvány elérhetővé tételét követően, a tárgyévet megelőző év november 30-áig nyújthatja be.
+3. § (1)[^7] A fenntartó a normatíva iránti kérelmet – a (2) bekezdésben foglaltak kivételével – a 2. § (3) bekezdése szerinti adatlap, illetve elektronikus formanyomtatvány elérhetővé tételét követően, a tárgyévet megelőző év november 30-áig nyújthatja be.
 
 (2) A tárgyévet megelőző év november 15-ét megelőzően jogerős működési engedéllyel nem rendelkező fenntartó a normatíva iránti kérelmet a működési engedély jogerőre emelkedését követő egy hónapon belül nyújthatja be.
 
-(3) A fenntartó bázis-szállás után feladatnormatívát az elszámolás során igényelhet. Ha a bázis-szállás működési engedélye iránti kérelmet jogerősen elutasítják, normatíva a működés megkezdése és a kérelem elutasítása közötti időre sem vehető igénybe.
+(3)[^8]
 
 (4) Normatíva iránti kérelem a tárgyév végéig az igénylési határidő elmulasztása esetén is benyújtható.
 
@@ -44,4 +44,8 @@ g) a magyarországi vagy az Európai Gazdasági Térségről szóló megállapod
 
 (7) Ha a fenntartó a (6) bekezdés a)–c) pontja vagy da)–db) alpontja szerinti iratokat nem csatolja, azokat az egyéni vállalkozók nyilvántartását vezető szervtől, illetve a bíróságtól az igazgatóság szerzi be.
 
-(8) Az adatváltozást – a változást követő tizenöt munkanapon belül – az adatváltozással érintett, (6) bekezdés szerinti iratokat mellékelve be kell jelenteni az igazgatóságnak. Ha a fenntartó az adatváltozás bejelentése során a (6) bekezdés a)–c) pontja vagy db) alpontja szerinti iratokat nem csatolja, azokat az igazgatóság a (7) bekezdésben foglaltak szerint szerzi be.
+(8)[^9] Az adatváltozást – a változást követő tizenöt napon belül – az adatváltozással érintett, (6) bekezdés szerinti iratokat mellékelve be kell jelenteni az igazgatóságnak. Ha a fenntartó az adatváltozás bejelentése során a (6) bekezdés a)–c) pontja vagy db) alpontja szerinti iratokat nem csatolja, azokat az igazgatóság a (7) bekezdésben foglaltak szerint szerzi be.
+
+[^7]: A 3. § (1) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § f) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
+[^9]: A 3. § (8) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.

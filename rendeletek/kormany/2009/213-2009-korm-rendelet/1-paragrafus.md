@@ -8,7 +8,7 @@ b) feladatnormatíva: az ellátotti létszám, a férőhelyszám vagy a fenntart
 
 c) képzési támogatás: a szociális továbbképzés és szakvizsga támogatása jogcímen igénybe vehető normatív, kötött felhasználású állami támogatás,
 
-d) igazgatóság: a Magyar Államkincstár regionális igazgatósága,
+d)[^1] igazgatóság: a Magyar Államkincstár területi szerve,
 
 e) fenntartó: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. § (1) bekezdés mb) alpontja, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 5. § sb) alpontja szerinti egyházi fenntartó, valamint az Szt. 4. § (1) bekezdés mc)–me) alpontja, illetve a Gyvt. 5. § sc)–se) alpontja szerinti nem állami fenntartók közül a társadalmi szervezet, az alapítvány, a közalapítvány, az országos kisebbségi önkormányzat, a nonprofit gazdasági társaság, a gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó,
 
@@ -25,3 +25,5 @@ j) megszűnt fenntartó: az a fenntartó, amely valamennyi szolgáltatóját má
 k) jegybanki alapkamat: a tárgyév átlagos jegybanki alapkamata, a tárgyévben megszűnt fenntartó esetén a megszűnés napjáig érvényes átlagos jegybanki alapkamat,
 
 l) korrekció: a tárgyévi költségvetés végrehajtásáról szóló törvény alapján az egyházi fenntartót megillető vagy az egyházi fenntartó által visszafizetendő egyházi kiegészítő támogatás összege.
+
+[^1]: Az 1. § d) pontja a 357/2010. (XII. 30.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
