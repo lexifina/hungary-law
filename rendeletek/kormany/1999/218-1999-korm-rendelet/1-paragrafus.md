@@ -24,8 +24,8 @@ tízezer forintig terjedő pénzbírsággal sújtható.
 
 (6) Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség, a közterület-felügyelő helyszíni bírságot szabhat ki.
 
-(7)[^4] A (2)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
+(7)[^4] A (2)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
 [^2]: Az 1. § (3) bekezdése a 42/2001. (III. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (4) bekezdése a 42/2001. (III. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § (7) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
+[^4]: Az 1. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.

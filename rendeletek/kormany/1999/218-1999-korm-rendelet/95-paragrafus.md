@@ -10,6 +10,6 @@ c) a munkahelyi érdekképviseleti szervezet által kifogásolt intézkedésekke
 
 ## megszegi, százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^127] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, valamint a bányakapitányság hatáskörébe is tartozik.
+(2)[^128] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a munkaügyi felügyelőség, valamint a bányakapitányság hatáskörébe is tartozik.
 
-[^127]: A 95. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a és 6. § a) pontja szerint módosított szöveg.
+[^128]: A 95. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.

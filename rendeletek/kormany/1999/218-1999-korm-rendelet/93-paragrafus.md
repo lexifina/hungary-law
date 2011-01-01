@@ -14,6 +14,6 @@ b) a munkavállalók között az a) pontban foglaltak miatt hátrányos megkül�
 
 ## százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^124] Az (1) bekezdésben meghatározott szabálysértés miatti eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, valamint a bányakapitányság hatáskörébe is tartozik.
+(2)[^125] Az (1) bekezdésben meghatározott szabálysértés miatti eljárás a fővárosi és megyei kormányhivatal munkaügyi és munkavédelmi szakigazgatási szervének munkaügyi felügyelősége (a továbbiakban: munkaügyi felügyelőség), valamint a bányakapitányság hatáskörébe is tartozik.
 
-[^124]: A 93. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a és 6. § a) pontja szerint módosított szöveg.
+[^125]: A 93. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.

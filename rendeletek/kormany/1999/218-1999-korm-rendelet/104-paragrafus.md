@@ -4,6 +4,6 @@
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^142] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az ÁNTSZ regionális vagy kistérségi intézete hatáskörébe is tartozik.
+(2)[^143] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete hatáskörébe is tartozik.
 
-[^142]: A 104. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^143]: A 104. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § b) pontja szerint módosított szöveg.

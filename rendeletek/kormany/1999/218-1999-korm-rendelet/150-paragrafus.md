@@ -22,9 +22,9 @@ d) hamis mérésügyi tanúsító jelet, engedélyt vagy bizonyítványt haszná
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^180] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
+(3)[^181] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-(4)[^181] Az (1) bekezdésben meghatározott szabálysértés miatt a Magyar Kereskedelmi Engedélyezési Hivatal erre feljogosított dolgozója helyszíni bírságot szabhat ki.
+(4)[^182] Az (1) bekezdésben meghatározott szabálysértés miatt a mérésügyi hatóság erre feljogosított dolgozója helyszíni bírságot szabhat ki.
 
-[^180]: A 150. § (3) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
-[^181]: A 150. § (4) bekezdése a 32/2007. (III. 6.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^181]: A 150. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^182]: A 150. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § f) pontja szerint módosított szöveg.

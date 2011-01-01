@@ -12,7 +12,7 @@
 
 42. § (1) Aki
 
-a) vasúti vagy légi járművet, gépi meghajtású vízi járművet, úszó munkagépet, továbbá közúton vagy a közforgalom elől el nem zárt magánúton gépi meghajtású járművet úgy vezet, hogy szervezetében szeszes ital fogyasztásából származó alkohol van,[^53] vagy a jármű vezetését ilyen állapotban lévő személynek engedi át,
+a) vasúti vagy légi járművet, gépi meghajtású vízi járművet, úszó munkagépet, továbbá közúton vagy a közforgalom elől el nem zárt magánúton gépi meghajtású járművet úgy vezet, hogy szervezetében szeszes ital fogyasztásából származó alkohol van,[^54] vagy a jármű vezetését ilyen állapotban lévő személynek engedi át,
 
 b) nem gépi meghajtású járművet szeszes italtól befolyásolt állapotban vezet vagy hajt,
 
@@ -20,10 +20,10 @@ b) nem gépi meghajtású járművet szeszes italtól befolyásolt állapotban v
 
 (2) Az (1) bekezdés a)–b) pontjában meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat.
 
-(3)[^54]
+(3)[^55]
 
-(4)[^55] Az (1) bekezdésben meghatározott közúti közlekedési szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(4)[^56] Az (1) bekezdésben meghatározott közúti közlekedési szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^53]: A Magyar Közlöny 2000. évi 15. számában közzétett helyesbítésnek megfelelő szöveg.
-[^54]: A 42. § (3) bekezdését a 23/2000. (III. 8.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja.
-[^55]: A 42. § (4) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 3. §-a iktatta be.
+[^54]: A Magyar Közlöny 2000. évi 15. számában közzétett helyesbítésnek megfelelő szöveg.
+[^55]: A 42. § (3) bekezdését a 23/2000. (III. 8.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja.
+[^56]: A 42. § (4) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 3. §-a iktatta be.

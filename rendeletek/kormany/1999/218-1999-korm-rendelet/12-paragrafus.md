@@ -12,9 +12,9 @@ d) közterületen vagy nyilvános helyen fiatalkorút szándékosan lerészegít
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^23] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Fogyasztóvédelmi Hatóság illetékes területi szerve hatáskörébe is tartozik.
+(2)[^23] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-(3)[^24] Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség, a közterület-felügyelő, illetőleg az ÁNTSZ regionális vagy kistérségi intézete erre felhatalmazott ügyintézője helyszíni bírságot szabhat ki.
+(3)[^24] Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség, a közterület-felügyelő, illetőleg a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete erre felhatalmazott ügyintézője helyszíni bírságot szabhat ki.
 
-[^23]: A 12. § (2) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
-[^24]: A 12. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^23]: A 12. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^24]: A 12. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § b) pontja szerint módosított szöveg.

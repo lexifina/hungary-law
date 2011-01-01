@@ -2,8 +2,8 @@
 
 ## II. CÍM
 
-## A HONVÉDELMI, A POLGÁRI VÉDELMI ÉS A RENDÉSZETI IGAZGATÁS RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK[^49]
+## A HONVÉDELMI, A POLGÁRI VÉDELMI ÉS A RENDÉSZETI IGAZGATÁS RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK[^50]
 
 ## Jelentkezési kötelezettség elmulasztása
 
-[^49]: A II. fejezet II. Címe a 32/2007. (III. 6.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^50]: A II. fejezet II. Címe a 32/2007. (III. 6.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

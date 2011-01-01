@@ -24,6 +24,6 @@ c) állatgyógyászati készítményt engedély nélkül kipróbál,
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^143] Az (1) bekezdésben meghatározott szabálysértés az ÁNTSZ regionális vagy kistérségi intézete, a (2) bekezdésben meghatározott szabálysértés a Mezőgazdasági Szakigazgatási Hivatal hatáskörébe is tartozik.
+(3)[^144] Az (1) bekezdésben meghatározott szabálysértés a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete és az Országos Tisztifőorvosi Hivatal, a (2) bekezdésben meghatározott szabálysértés a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
 
-[^143]: A 105. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^144]: A 105. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 14. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § c) és i) pontja szerint módosított szöveg.
