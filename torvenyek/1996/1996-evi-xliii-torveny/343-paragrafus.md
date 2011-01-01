@@ -1,0 +1,1 @@
+343. § A 91. §, a 95/A. § és 96. § (1) bekezdés a) pontja az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló 1996. június 3-i 96/34/EK tanácsi irányelv mellékletét képező keretmegállapodás II. fejezet 2. szakasz 1., 4., 5. és 6. bekezdésének való részbeni megfelelést szolgálja.

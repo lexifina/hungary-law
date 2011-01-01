@@ -4,7 +4,7 @@
 
 a) aki szolgálatát más szervnél teljesíti;
 
-b) akinek a beosztása létszámcsökkentés vagy átszervezés miatt megszűnt, a szolgálat felső korhatárának betöltését megelőző 1 éven belül, a korhatár betöltéséig, illetve akinek a beosztása a jelzett okok miatt szűnt meg, de más beosztásba tervezett, legfeljebb 1 évig;
+b) akinek a beosztása létszámcsökkentés vagy átszervezés miatt megszűnt, a szolgálat felső korhatárának betöltését megelőző 1 éven belül, a korhatár betöltéséig, illetve akinek a beosztása a jelzett okok miatt szűnt meg, de más beosztásba tervezett, legfeljebb 2 évig;
 
 c) aki átképzésen vesz részt, a beosztásba helyezéséig;
 

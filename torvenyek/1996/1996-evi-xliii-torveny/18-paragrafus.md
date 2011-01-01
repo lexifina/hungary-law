@@ -1,10 +1,10 @@
 ## A véleménynyilvánítás szabadsága
 
-18. § (1) A rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
+18. § (1)
 
-(2) A hivatásos állomány tagja pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti és az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat.
+(2) A polgári védelem, a vám- és pénzügyőrség, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állományának tagja pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti és az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat.
 
-(3) A szolgálati helyen és szolgálati feladat teljesítése közben a hivatásos állomány tagja politikai tevékenységet nem folytathat.
+(3) A szolgálati helyen és szolgálati feladat teljesítése közben a polgári védelem, a vám- és pénzügyőrség, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állományának tagja politikai tevékenységet nem folytathat.
 
 (4) A hivatásos állomány tagja a részére kiadott parancsot, intézkedést – a 69. § esetét kivéve – nem bírálhatja, azokról a jog- és érdekérvényesítő tevékenysége körén kívül véleményt nem mondhat, a szolgálati rendet és a fegyelmet sértő nyilatkozatot nem tehet, a sajtónyilvánosság igénybevételével hivatalos eljárásban magánvéleményt nem nyilváníthat.
 

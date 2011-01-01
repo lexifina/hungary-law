@@ -1,60 +1,234 @@
 254. § (1) A hivatásos állomány felsőfokú és középfokú végzettségű tagját 10 év elteltével az állományilletékes parancsnok a 82. § (4) bekezdés szerint minősíti, a minősítés alapján kinevezheti a következő beosztási kategória első fizetési fokozatába. Ha az érintett a következő beosztási kategóriához előírt szakirányú végzettséget megszerezte, kinevezésére 10 év letelte előtt is sor kerülhet.
 
-(2) A 104. §-ban meghatározott pótlékokon felül a hivatásos állomány tagját az illetményalap százalékában pótlékok illetik meg. Azon illetménypótlékoknál, ahol a pótlék mértéke alsó és felső határ között állapítható meg, a pótlék tényleges mértékét az érintett munkakörének az általános munkakörülményektől való eltérősége alapján kell meghatározni. A pótlékok mértéke:
+(2) A 104. §-ban meghatározott pótlékokon felül a hivatásos állomány tagját az illetményalap százalékában pótlékok illetik meg. Azon illetménypótlékoknál, ahol a pótlék mértéke alsó és felső határ között állapítható meg, a pótlék tényleges mértékét az érintett munkakörének az általános munkakörülményektől való eltérősége alapján kell meghatározni.
+
+|
+
+A pótlékok mértéke:
+
+|
+
+|
 
 a) egy hónapra számítva:
 
-– különleges bevetési pótlék 100–150%
+|
 
-– lovasjárőri pótlék 25%
+|
 
-– kutyavezetői pótlék 20%
+1. különleges bevetési pótlék
 
-– gépjárművezetői pótlék 13%
+|
 
-– különleges gépjárművezetői pótlék 25%
+100–150%
 
-– díszelgési pótlék 25%
+|
 
-– hajóvezetői pótlék 20%
+2. lovasjárőri pótlék
 
-– nyomozói pótlék 65%
+|
 
-– zenekari pótlék 10%
+25%
 
-– nagyfrekvenciás és ionizáló sugárzásnak, illetőleg mérgezésnek, valamint biológiai anyag feldolgozása közben fertőzés veszélyének kitett beosztásban szolgálatot teljesítők pótléka 45%
+|
 
-– veszélyes katasztrófavédelmi beosztás pótléka 45%
+3. kutyavezetői pótlék
 
-– veszélyes tűzoltói beosztás pótléka 45–50%
+|
 
-– az RSZVSZ állománya belső ellenőrzési pótléka 30%
+20%
 
-– rendőrségi közterületi pótlék 45%
+|
 
-– határrendészeti pótlék 45%
+4. gépjárművezetői pótlék
+
+|
+
+13%
+
+|
+
+5. különleges gépjárművezetői pótlék
+
+|
+
+25%
+
+|
+
+6. díszelgési pótlék
+
+|
+
+25%
+
+|
+
+7. hajóvezetői pótlék
+
+|
+
+20%
+
+|
+
+8. nyomozói pótlék
+
+|
+
+65%
+
+|
+
+9. zenekari pótlék
+
+|
+
+10%
+
+|
+
+10. nagyfrekvenciás és ionizáló sugárzásnak, illetőleg mérgezésnek, valamint biológiai anyag
+
+|
+
+|
+
+feldolgozása közben fertőzés veszélyének kitett beosztásban szolgálatot teljesítők pótléka
+
+|
+
+45%
+
+|
+
+11. veszélyes katasztrófavédelmi beosztás pótléka
+
+|
+
+45%
+
+|
+
+12. veszélyes tűzoltói beosztás pótléka
+
+|
+
+45–50%
+
+|
+
+13. a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó
+
+|
+
+|
+
+szerv állománya belső ellenőrzési pótléka
+
+|
+
+100–250%
+
+|
+
+14. a terrorizmust elhárító szerv állományának pótléka
+
+|
+
+150–450%
+
+|
+
+15. közterületi /határrendészeti/ pótlék
+
+|
+
+45%
+
+|
 
 b) teljesített óránként:
 
-– helikopter-vezetői pótlék 10%
+|
 
-– éjszakai pótlék 0,5%
+|
 
-– délutáni pótlék 0,25%
+1. helikopter-vezetői pótlék
 
-– készenléti pótlék 0,25%
+|
 
-– tűzszerész pótlék 15%
+10%
 
-– búvárpótlék 5%
+|
 
-– akció szolgálati pótlék 0,5%
+2. éjszakai pótlék
+
+|
+
+0,5%
+
+|
+
+3. délutáni pótlék
+
+|
+
+0,25%
+
+|
+
+4. készenléti pótlék
+
+|
+
+0,25%
+
+|
+
+5. tűzszerészpótlék
+
+|
+
+15%
+
+|
+
+6. búvárpótlék
+
+|
+
+5%
+
+|
+
+7. akció szolgálati pótlék
+
+|
+
+0,5%
+
+|
 
 c) szolgálatonként:
 
-– ügyeleti pótlék 3,8–7,4%
+|
 
-– egyéb veszélyességi pótlék 2,1%
+|
+
+1. ügyeleti pótlék
+
+|
+
+3,8–7,4%
+
+|
+
+2. egyéb veszélyességi pótlék
+
+|
+
+2,1%
 
 (3) A (2) bekezdés szerinti pótlék a hivatásos állomány tagjának a pótlékkal elismert tevékenység tényleges kifejtésének, illetve beosztás betöltésének idejére jár.
 

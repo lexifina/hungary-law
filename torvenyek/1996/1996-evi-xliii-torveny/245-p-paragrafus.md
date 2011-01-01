@@ -2,7 +2,7 @@
 
 (2) Ha a Hszt. XIX/A. fejezete alá tartozó hivatásos állomány tagja e törvény hatálybalépésekor személyi illetményben részesül, az megszűnik azzal, hogy a már megszerzett illetmény összege nem csökkenthető, s az 2002. január 1-jétől a Központi Statisztikai Hivatal adatainak figyelembevételével évente legfeljebb az előző évi infláció mértékével és a bruttó hazai össztermék együttes százalékos növekedésének felével emelhető.
 
-(3) A törvény e fejezetének hatálybalépésével a Hszt. 101. § (4) bekezdése szerint megállapított beosztási illetmény eltérítések megszűnnek, emiatt azonban a már megállapított beosztási illetmény összege nem csökkenthető. A feltételek megléte esetén az állományilletékes parancsnok ismételten intézkedhet a beosztási illetmény eltérítésére azzal, hogy az (1) bekezdésben foglaltak alapján számított beosztási illetményt kell az eltérítés alapjának tekinteni.
+(3)
 
 (4) E fejezet hatálya alá tartozó fegyveres szerveknél tiszti beosztásba a 37–37/A. §-ban meghatározott feltételeken túl pályakezdőként csak az a felsőfokú iskolai végzettséggel rendelkező személy nevezhető ki, aki angol vagy francia vagy német nyelvből államilag elismert nyelvvizsgával rendelkezik. Amennyiben a betöltendő szolgálati beosztás ellátásához az előzőekben felsorolt nyelveken kívüli nyelv szükséges, akkor az e nyelvből meglévő államilag elismert nyelvvizsga az angol, francia vagy német nyelvből meglévő nyelvvizsga helyett alkalmazási feltételként elfogadható.
 

@@ -4,4 +4,4 @@
 
 (3) Illetménybesorolás szempontjából pályakezdőnek minősül a hivatásos állomány tagja az első beosztás ellátásához szükséges végzettség megszerzését követő 1 évig.
 
-(4) Az állományilletékes parancsnok a meghatározott személyi juttatások előirányzatán belül a 245/F. §-ban szabályozott teljesítményértékeléstől függően a hivatásos állomány tagjának besorolás szerinti beosztási illetményét legfeljebb 30%-kal magasabban, illetve 20%-kal alacsonyabban állapíthatja meg.
+(4) Az állományilletékes parancsnok a meghatározott személyi juttatások előirányzatán belül a tárgyévet megelőző év szakmai munkája értékelése alapján a hivatásos állomány tagjának besorolás szerinti beosztási illetményét legfeljebb 30%-kal magasabban, illetve 20%-kal alacsonyabban állapíthatja meg.

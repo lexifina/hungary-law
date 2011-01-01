@@ -1,11 +1,11 @@
 ## Értelmező rendelkezések
 
-308. § A 2. § alkalmazásában:
+308. § (1) A Nemzeti Adó- és Vámhivatal elnöke gyakorolja az e törvényben az országos parancsnok részére biztosított jogköröket.
 
-a) munkáltatói jogkört gyakorló elöljáró: az országos parancsnok és helyettesei tekintetében az adópolitikáért felelős miniszter,
+(2) A 2. § alkalmazásában:
 
-b) állományilletékes parancsnok: az országos parancsnok és a középfokú szerv parancsnoka, kivéve a regionális nyomozóhivatal parancsnoka,
+a) munkáltatói jogkört gyakorló elöljáró: a Nemzeti Adó- és Vámhivatalról szóló törvény alapján munkáltatói jogkört gyakorló vezető,
 
-c) területi szerv: a középfokú szerv,
+b) állományilletékes parancsnok: az elnök, az elnökhelyettes, az informatikai feladatokat ellátó intézetek, a humánerőforrás-fejlesztési feladatokat ellátó intézet, a bűnügyi főigazgatóság, a középfokú vámszervek főigazgatója, és a regionális bűnügyi igazgatóság, valamint az alsó fokú vámszervek igazgatója,
 
-d) helyi szerv: a vám- és pénzügyőrség szervezetéről, valamint egyes szervek kijelöléséről szóló kormányrendelet által meghatározott alsó fokú szervek.
+c) országos parancsnokság: a Nemzeti Adó- és Vámhivatal Központi Hivatala.

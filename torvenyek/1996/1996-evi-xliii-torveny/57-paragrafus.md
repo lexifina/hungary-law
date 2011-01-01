@@ -18,7 +18,7 @@ meghosszabbodik.
 
 (3) Amennyiben a felmentés oka a minősítése alapján hivatásos szolgálatra való alkalmatlanság, a felmentési idő – a hivatásos szolgálati viszonyban töltött időre tekintet nélkül – harminc nap.
 
-(4) A hivatásos szolgálatra méltatlanná vált vagy nemzetbiztonsági szempontból neki felróható, illetve a 258. § (4) bekezdésében meghatározott okból beosztásának ellátására alkalmatlanná vált személy szolgálati viszonyát felmentési idő nélkül kell megszüntetni.
+(4) A nemzetbiztonsági szempontból neki felróható okból beosztásának ellátására alkalmatlanná vált, illetve az 56. § (2) bekezdés b) pontjában meghatározott okból hivatásos szolgálatra alkalmatlanná vált személy szolgálati viszonyát felmentési idő nélkül kell megszüntetni.
 
 (5) A felmentés időtartamának felére a hivatásos állomány tagját a szolgálati kötelezettség teljesítése alól mentesíteni kell. Indokolt esetben a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagját a teljes felmentési időre mentesítheti a szolgálati kötelezettség teljesítése alól.
 

@@ -16,14 +16,14 @@ b) 25 év tényleges szolgálati viszonyban eltöltött idővel rendelkezik, és
 
 (6) Ha a hivatásos állomány 25 év szolgálati viszonyban eltöltött idővel rendelkező tagjának a szolgálati viszonyát az 50. életéve betöltése előtt közös megegyezéssel szüntetik meg, részére a szolgálati nyugdíj 50%-a folyósítható az 50. életéve betöltéséig, illetve az egészségkárosodás 40%-os mértékének eléréséig. Ettől kezdve a szolgálati nyugdíjat a (4) bekezdés b) pontja szerint kell folyósítani.
 
-(7) A miniszter a szolgálati érdemekre, illetve a szociális helyzetre figyelemmel, az (5) bekezdés esetében az érintett javára eltérést engedélyezhet.
+(7) A miniszter a szolgálati érdemekre, illetve a szociális helyzetre figyelemmel, az (6) bekezdés esetében az érintett javára eltérést engedélyezhet.
 
-(8) Nem folyósítható a felső korhatár betöltése vagy megrokkanása előtt a szolgálati nyugdíj annak, akit hivatásos szolgálattal összefüggő kifogásolható életvitele miatti alkalmatlansága, továbbá méltatlanná válása miatt felmentettek, vagy akinek a szolgálati viszonya az 53. § b), f), g) pontja, illetve az 59. § (1) bekezdésének d) pontja alapján szűnt meg.
+(8) Nem folyósítható a felső korhatár betöltése vagy megrokkanása előtt a szolgálati nyugdíj annak, akinek a szolgálati viszonya az 53. § b), f), g) pontja, az 56. § (2) bekezdés b) pontja, illetve az 59. § (1) bekezdésének d) pontja alapján szűnt meg.
 
 (9) A hivatásos állomány azon tagjának, aki a szolgálati nyugdíjra jogosultsághoz szükséges, az (1) bekezdésében meghatározott 25 év tényleges szolgálati időt megszerzi, a szolgálati nyugdíja összegét – annak folyósítása nélkül 6 hónapon belül – hivatalból meg kell állapítani.
 
 (10) A szolgálati nyugdíj összegének megállapítása alapján a hivatásos állományú nem minősül nyugdíjasnak.
 
-(11) A hivatásos állomány tagja a tényleges nyugállományba helyezésekor választhat a (8) bekezdés és a 182/A. § szerint rögzített, valamint a tényleges nyugállományba helyezésekor megállapított nyugdíjak között azzal, hogy ha a rögzítést követően szolgálati időt szerez, akkor a rögzített nyugdíjat az évenkénti emelésekkel növelve kell figyelembe venni.
+(11) A hivatásos állomány tagja a tényleges nyugállományba helyezésekor választhat a (9) bekezdés és a 182/A. § szerint rögzített, valamint a tényleges nyugállományba helyezésekor megállapított nyugdíjak között azzal, hogy ha a rögzítést követően szolgálati időt szerez, akkor a rögzített nyugdíjat az évenkénti emelésekkel növelve kell figyelembe venni.
 
 (12) Ha a hivatásos állomány tagja a 64. § alapján történt visszavételét követően legalább 365 nap tényleges szolgálati időt szerez, a szolgálati viszonyának megszüntetésekor kiszámított szolgálati nyugdíj helyett – amennyiben ez számára kedvezőbb – választhatja a korábbi vagy rögzített nyugdíjának az évenkénti emelésekkel növelt összegét.

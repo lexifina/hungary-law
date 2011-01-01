@@ -1,8 +1,6 @@
 2. számú melléklet az 1996. évi XLIII. törvényhez
 
-Táblázat
-
-a kiemelt munkáltatói jogkörök gyakorlásának rendjéről
+Táblázat a kiemelt munkáltatói jogkörök gyakorlásának rendjéről
 
 |
 
@@ -26,11 +24,17 @@ országos parancsnok
 
 |
 
+a bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv vezetője
+
+|
+
 Szolgálati viszonnyal kapcsolatos intézkedések
 
 |
 
 Hivatásos állományba vétel
+
+|
 
 |
 
@@ -52,6 +56,8 @@ X
 
 |
 
+|
+
 – főtiszt, tiszt esetében
 
 |
@@ -59,6 +65,8 @@ X
 |
 
 X
+
+|
 
 |
 
@@ -74,11 +82,15 @@ Szolgálati viszony megszüntetése
 
 |
 
+|
+
 – tábornokra vonatkozó javaslat előterjesztése a KE-höz
 
 |
 
 X
+
+|
 
 |
 
@@ -98,7 +110,11 @@ X
 
 |
 
+|
+
 Szolgálati viszony szüneteltetése
+
+|
 
 |
 
@@ -120,6 +136,8 @@ X
 
 |
 
+|
+
 – főtiszt, tiszt, zászlós, tiszthelyettes esetében
 
 |
@@ -130,9 +148,15 @@ X
 
 |
 
+X
+
+|
+
 |
 
 Hivatásos állományba visszavétel
+
+|
 
 |
 
@@ -154,6 +178,8 @@ X
 
 |
 
+|
+
 – főtiszt, tiszt, zászlós, tiszthelyettes esetében
 
 |
@@ -161,6 +187,8 @@ X
 |
 
 X
+
+|
 
 |
 
@@ -180,7 +208,11 @@ X
 
 |
 
+|
+
 Magasabb rendfokozatba történő kinevezés, előléptetés
+
+|
 
 |
 
@@ -202,6 +234,8 @@ X
 
 |
 
+|
+
 – ezredesi előléptetés
 
 |
@@ -214,7 +248,13 @@ X
 
 |
 
-– főtiszt, tiszt soron kívüli előléptetése
+|
+
+– főtiszt, tiszt soron kívüli előléptetése
+
+|
+
+X
 
 |
 
@@ -242,7 +282,11 @@ X
 
 |
 
+|
+
 Beosztásba történő kinevezés
+
+|
 
 |
 
@@ -264,6 +308,22 @@ X
 
 |
 
+|
+
+– a terrorizmust elhárító szerv főigazgatója kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
 – tábornoki beosztásokba történő kinevezés, felmentés, megbízás
 
 |
@@ -276,7 +336,13 @@ X
 
 |
 
+|
+
 – ezredesi beosztásokba történő kinevezés, felmentés, megbízás
+
+|
+
+X
 
 |
 
@@ -302,6 +368,8 @@ X
 
 |
 
+|
+
 – főtiszt, tiszt, zászlós, tiszthelyettes más fegyveres szervhez történő áthelyezése
 
 |
@@ -312,11 +380,15 @@ X
 
 |
 
+|
+
 Fegyelmi hatáskörök
 
 |
 
 Rendfokozatot, szolgálati viszonyt érintő fegyelmi fenyítések kiszabása
+
+|
 
 |
 
@@ -338,6 +410,8 @@ X
 
 |
 
+|
+
 – főtiszt, tiszt esetében
 
 |
@@ -347,6 +421,12 @@ X
 |
 
 X
+
+|
+
+rend-
+
+fokozatot érintő
 
 |
 
@@ -362,11 +442,15 @@ Egyéb fegyelmi fenyítések kiszabása
 
 |
 
+|
+
 – tábornok esetében
 
 |
 
 X
+
+|
 
 |
 
@@ -388,11 +472,15 @@ X
 
 |
 
+|
+
 – tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külföldi tanintézetbe tanfolyamra történő vezénylése
 
 |
 
 X
+
+|
 
 |
 
@@ -414,7 +502,25 @@ X
 
 |
 
+|
+
+49/A. § szerinti vezénylés
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
 Hazai tanintézet alaptagozatára, tanfolyamaira történő vezénylés
+
+|
 
 |
 
@@ -436,7 +542,13 @@ X
 
 |
 
+|
+
 – főtiszt, tiszt esetében
+
+|
+
+X
 
 |
 
@@ -460,6 +572,10 @@ X
 
 |
 
+X
+
+|
+
 Egyéb döntések
 
 |
@@ -474,26 +590,6 @@ Egyenruha-viselési jog megvonása
 
 |
 
-– tábornok esetében
-
-|
-
-X
-
-|
-
-|
-
-|
-
-Illetménynélküli szabadság engedélyezése
-
-|
-
-|
-
-|
-
 |
 
 – tábornok esetében
@@ -501,6 +597,34 @@ Illetménynélküli szabadság engedélyezése
 |
 
 X
+
+|
+
+|
+
+|
+
+|
+
+Illetmény nélküli szabadság engedélyezése
+
+|
+
+|
+
+|
+
+|
+
+|
+
+– tábornok esetében
+
+|
+
+X
+
+|
 
 |
 
@@ -509,6 +633,8 @@ X
 |
 
 Elhunytak minősítése
+
+|
 
 |
 
@@ -530,6 +656,8 @@ X
 
 |
 
+|
+
 – a fegyveres szerv halottjává nyilvánítás
 
 |
@@ -540,9 +668,15 @@ X
 
 |
 
+X
+
+|
+
 |
 
 Elismerések adományozása
+
+|
 
 |
 
@@ -564,11 +698,15 @@ X
 
 |
 
+|
+
 – miniszteri elismerések odaítélése
 
 |
 
 X
+
+|
 
 |
 
@@ -588,10 +726,14 @@ X
 
 |
 
+|
+
 Ágazati, Tárcaközi Érdekegyeztető Fórummal történő egyeztetés
 
 |
 
 X
+
+|
 
 |

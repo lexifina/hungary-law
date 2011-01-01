@@ -1,6 +1,6 @@
 ## XXVII. Fejezet
 
-## FELHATALMAZÁSOK
+## FELHATALMAZÁSOK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
 342. § (1) Felhatalmazást kap a Kormány, hogy rendeletben részletesen szabályozza:
 
@@ -14,9 +14,9 @@ d) a fokozottan veszélyes beosztások meghatározását a 85. § (2) bekezdése
 
 e) az állami készfizető kezesség vállalásra vonatkozó további szabályokat;
 
-f) A 258. §-ban meghatározott biztonsági ellenőrzés végrehajtásának szabályait;
+f) a kifogástalan életvitel ellenőrzése végrehajtásának szabályait;
 
-g) a Vám- és Pénzügyőrség hivatásos állományának egészségügyi, pszichikai és fizikai alkalmasságát vizsgáló és minősítő szerv kijelölését;
+g) a Nemzeti Adó- és Vámhivatal hivatásos állományának egészségügyi, pszichikai és fizikai alkalmasságát vizsgáló és minősítő szerv kijelölését;
 
 h) az Európai Unió magyar soros elnökségében közvetlenül résztvevő hivatásos szolgálati jogviszonyban állók kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat;
 
@@ -26,7 +26,7 @@ i) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hiva
 
 j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét.
 
-(2) Felhatalmazást kap a rendészetért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a vám- és pénzügyőrség irányításáért, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza:
+(2) Felhatalmazást kap a rendészetért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a Nemzeti Adó- és Vámhivatal felügyeletéért, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza:
 
 1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel, a teljesítményértékelés, a minősítés és a szolgálati jellemzés készítésének szabályait, a visszavétel, az áthelyezés, a megbízás, a berendelés, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
 
@@ -38,7 +38,7 @@ j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és 
 
 5. a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét;
 
-6. a ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
+6. a ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
 
 7. a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel összefüggő szabályait, az őr-, ügyeleti, a részben vagy egészben készenléti és a készültségi szolgálatok körét, a túlszolgálat, illetve a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, a nyilvántartás szabályait, a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját;
 
@@ -54,7 +54,7 @@ j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és 
 
 13. a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át- és továbbképzési és vezetőképzési rendszerét, valamint a rendészeti szakvizsgára vonatkozó szabályokat;
 
-14. a fegyelmi, valamint a méltatlansági eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét;
+14. a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét;
 
 15. a fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, megállapításának módját, mérséklésének és mellőzésének részletes szabályait;
 
@@ -76,7 +76,7 @@ j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és 
 
 (5) A miniszter – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel egyetértésben – a 3. § (3) bekezdése szerinti munkaköröket is hivatásos beosztásként határozhat meg, ha ez a fegyveres szerv biztonságos működésének biztosítása, illetőleg a rendvédelmi ismeretek szükségessége miatt elengedhetetlenül szükséges. A polgári nemzetbiztonsági szolgálatok esetében a 3. § (3) bekezdésétől való eltérésre a 291. § rendelkezése alkalmazandó.
 
-(6) Az érintett miniszterek a (2) bekezdés 9. és 10. pontjában foglaltakat együttes rendelet kiadásával is szabályozhatják.
+(6)
 
 (7) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztások beosztási kategóriába sorolását, a beosztásban elérhető rendfokozatot, valamint a betöltéséhez szükséges képzettségi (végzettségi) feltételeket rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 

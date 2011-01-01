@@ -32,7 +32,7 @@ a) a szolgálati viszony megszűnésekor nyugellátásra jogosult,
 
 b) alkalmatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre és nyugdíjjogosultságot nem szerzett.
 
-c) a hivatásos szolgálatra méltatlanná vált.
+c) nem felel meg a kifogástalan életvitel követelményének, ezért a hivatásos szolgálatra alkalmatlanná vált.
 
 (7) Ha a hivatásos állomány tagja a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 

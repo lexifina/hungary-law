@@ -103,3 +103,17 @@ V. Az alkalmazási feltételek fontosabb adatai:
 – fizikai, pszichikai állapotra vonatkozó adatok.
 
 VI. A szolgálat teljesítésének adatai:
+
+– állományviszony,
+
+– a szolgálati viszony kezdete, kinevezés ideje,
+
+– a szolgálati viszonyra és a szolgálati időre vonatkozó adatok,
+
+– a FEOR száma,
+
+– elért rendfokozat(ok),
+
+– a szolgálat során elért címek,
+
+– betöltött beosztás(ok),

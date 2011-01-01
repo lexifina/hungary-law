@@ -8,7 +8,7 @@ c) azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata sz
 
 d) azokat a szolgálati beosztásokat, amelyeknél a szolgálati viszonyban töltött idő számítása a 329. § (1) bekezdésében meghatározott szorzószámok alkalmazásával történik;
 
-e) a fegyelmi, valamint a méltatlansági eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét.
+e) a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét.
 
 (2) A polgári nemzetbiztonsági szolgálatok esetében a 342. § (2) bekezdésében, valamint a
 
@@ -26,4 +26,4 @@ e) a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel �
 
 f) a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át- és továbbképzési és vezetőképzési rendszerét.
 
-(3) A polgári nemzetbiztonsági szolgálatokat irányító miniszter a kihelyezett állományra vonatkozó különös szabályokat utasításban állapítja meg.
+(3) A polgári nemzetbiztonsági szolgálatok esetében a miniszter a kihelyezett állományra vonatkozó különös szabályokat utasításban állapítja meg.

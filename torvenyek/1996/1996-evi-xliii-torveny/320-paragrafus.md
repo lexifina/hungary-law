@@ -4,6 +4,8 @@
 
 (2)
 
-(3) A 86. § (6) bekezdésének alkalmazásában a vám- és pénzügyőrség tekintetében munkaszüneti napnak minősül január 26-a, a nemzetközi vámnap.
+(3) A 86. § (6) bekezdésének alkalmazásában a Nemzeti Adó- és Vámhivatal tekintetében munkaszüneti napnak minősül január 26-a, a nemzetközi vámnap.
 
-(4) A túlszolgálat elrendelésére a vám- és pénzügyőrségnél a szolgálati elöljáró jogosult.
+(4) A túlszolgálat elrendelésére a Nemzeti Adó- és Vámhivatalnál a szolgálati elöljáró jogosult.
+
+(5) Hszt. 88. § (2) bekezdésének második mondatában meghatározott engedély abban az esetben adható meg, ha a túlszolgálat pénzbeni megváltásához szükséges pénzügyi fedezet előzetesen biztosított.

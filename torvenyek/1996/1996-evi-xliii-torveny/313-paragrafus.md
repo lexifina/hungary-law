@@ -1,1 +1,1 @@
-313. § A vám- és pénzügyőrségnél pályázat kiírására az országos parancsnok jogosult.
+313. § A Nemzeti Adó- és Vámhivatalnál pályázat kiírására az országos parancsnok jogosult.

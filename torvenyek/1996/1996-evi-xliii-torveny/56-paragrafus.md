@@ -12,9 +12,9 @@ d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél vé
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
-a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján, illetve – ha ez feltétel – nemzetbiztonsági szempontból beosztásának ellátására, valamint a 258. § (4) bekezdésben meghatározott okból hivatásos szolgálatra alkalmatlanná vált,
+a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján, illetve – ha ez feltétel – nemzetbiztonsági szempontból beosztásának ellátására, alkalmatlanná vált,
 
-b) a hivatásos szolgálatra méltatlanná vált;
+b) nem felel meg a kifogástalan életvitel követelményének, ezért a hivatásos szolgálatra alkalmatlanná vált;
 
 c) a vezetői kinevezés visszavonását követően a 245/D. § (2) bekezdése szerinti beosztás nem biztosítható.
 
@@ -34,16 +34,8 @@ ac) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett;
 
 b) a hivatásos állomány átszervezés miatt megszűnt beosztást betöltő tagja a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el.
 
-(6) A hivatásos szolgálatra méltatlan az:
+(6) A (2) bekezdés b) pontjában meghatározott alkalmatlanság miatt felmentéssel szűnik meg a szolgálati viszonya annak, aki nem felel meg a kifogástalan életvitel 37/B. § (2) bekezdésben meghatározott követelményeinek, kivéve, ha a büntetőjogi felelősséget megállapító jogerős ítélet katonai bűncselekmény miatt született és mentesítés folytán mentesült a büntetett előélethez fűződő hátrányok alól.
 
-a) akit – a d) pontban meghatározott eseteken kívül – jogerősen végrehajtandó szabadságvesztésre ítéltek, kivéve, ha a bíróság katonai fogdában rendelte azt végrehajtani;
-
-b) akit – a d) pontban meghatározott eseteken kívül – a bíróság jogerősen felfüggesztett szabadságvesztésre ítélt és előzetesen nem mentesített a büntetett előélethez fűződő hátrányok alól;
-
-c) aki szolgálaton kívüli magatartásával a fegyveres szerv működéséhez szükséges közbizalom fenntartását súlyosan veszélyezteti;
-
-d) akivel szemben a bíróság – katonai bűntett kivételével – szolgálati viszony keretében vagy annak felhasználásával, 2009. december 31-ét követően elkövetett bűntett miatt jogerősen büntetést szabott ki, és a szolgálati viszonya az a)–c) pontban, valamint az 53. § g) pontban foglaltak alapján nem szűnt meg.
-
-(7) A miniszter a (6) bekezdés a) és b) pontja esetén a méltatlanság megállapításától eltekinthet. A (6) bekezdés a) pontja esetén erre csak akkor kerülhet sor, ha a szabadságvesztés mértéke az 1 évet nem haladja meg.
+(7)
 
 (8) A munkáltatói jogkört gyakorló elöljáró a felmentést köteles megindokolni. Ebből világosan ki kell tűnnie, hogy a felmentés indoka valós és okszerű.

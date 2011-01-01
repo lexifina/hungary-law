@@ -1,17 +1,31 @@
-37/A. § (1) Nem létesíthető szolgálati viszony azzal, aki
+37/A. § (1) Nem létesíthető szolgálati viszony azzal,
 
-a) büntetett előéletű,
+a) aki büntetett előéletű,
 
-b) a betöltendő szolgálati beosztás ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
+b) aki a betöltendő munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt áll,
 
-c) büntetőeljárás – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – hatálya alatt áll,
+c) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
 
-d) korábban már rendelkezett hivatásos szolgálati viszonnyal, és az az 53. § f) és g) pontja, illetve 56. § (6) bekezdése alapján szűnt meg.
+ca) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
 
-(2) Azt a tényt, hogy az (1) bekezdés a)–c) pontjában meghatározott körülmény vele szemben nem áll fenn,
+cb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
 
-a) a szolgálati viszony létesítését megelőzően a hivatásos állomány tagjaként szolgálati viszonyt létesíteni szándékozó személy,
+cc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett vagy részben felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
 
-b) a hivatásos állomány tagja – a szolgálati viszony fennállása alatt – a munkáltatói jogkört gyakorló elöljáró írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a hivatásos állomány tagján kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul
+cd) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
 
-hatósági bizonyítvánnyal igazolja.
+ce) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
+
+cf) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+
+cg) gondatlan bűncselekmény miatt kiszabott, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
+
+d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
+
+e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
+
+f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
+
+g) korábban már állt hivatásos szolgálati viszonyban, és az 53. § f) vagy g) pontja, vagy az 56. § (6) bekezdése alapján szűnt meg.
+
+(2) A cc)–cg) és az e) pontban foglalt kizáró októl a munkáltató eltekinthet, ha az eljárásra kizárólag katonai bűncselekmény miatt került sor.

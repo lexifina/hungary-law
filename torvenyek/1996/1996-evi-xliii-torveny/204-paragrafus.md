@@ -10,4 +10,4 @@
 
 (4) A nyugállomány tagja rendfokozatban egy alkalommal előléptethető (kinevezhető), ha a fegyveres szerv célja érdekében kifejtett tevékenységével arra érdemesült.
 
-(5) Az egyenruha viselésének és a rendfokozat használatának a joga, továbbá a lakás bérleti joga nem illeti meg a nyugállomány tagját, ha a szolgálati viszonya az 53. § b), e)–f) pontja alapján vagy a hivatásos szolgálatra méltatlanná váláson alapuló felmentés miatt szűnt meg.
+(5) Az egyenruha viselésének és a rendfokozat használatának a joga, továbbá a lakás bérleti joga nem illeti meg a nyugállomány tagját, ha a szolgálati viszonya az 53. § b), e)–f) pontja vagy az 56. § (2) bekezdés b) pontja alapján szűnt meg.

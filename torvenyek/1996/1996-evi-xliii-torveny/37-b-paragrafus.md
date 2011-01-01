@@ -1,13 +1,25 @@
-37/B. § (1) A munkáltatói jogkört gyakorló elöljáró a szolgálati viszony fennállása alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hivatásos állomány tagját annak igazolására, hogy a hivatásos állomány tagjával szemben nem áll fenn a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény.
+37/B. § (1) Hivatásos szolgálati viszony a 37. § (1) bekezdésében meghatározott feltételeken túl akkor létesíthető vagy tartható fenn, ha a hivatásos állomány tagja vagy a jelentkező
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra a hivatásos állomány tagja igazolja, hogy vele szemben – a munkáltatói jogkört gyakorló elöljáró által hivatalosan ismert adatokon túl – a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, a fegyveres szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a hivatásos állomány tagja részére megtéríti.
+a) életvitele kifogástalan, és
 
-(3) A fegyveres szerv a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény fennállásának megállapítása céljából kezeli
+b) írásban hozzájárul
 
-a) a hivatásos állomány tagjaként szolgálati viszonyt létesíteni szándékozó személy,
+ba) a 7. számú mellékletben meghatározott személyes adatai és bűnügyi személyes adatai kezeléséhez,
 
-b) a hivatásos állomány tagja
+bb) életvitele kifogástalanságának ellenőrzése érdekében a felvételét megelőzően és a szolgálati viszony tartama alatt a (2) bekezdésben meghatározottak ellenőrzéséhez.
 
-azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény igazolásának céljából kiállított hatósági bizonyítvány tartalmaz.
+(2) Az életvitel kifogástalan, ha a hivatásos állomány tagja vagy a jelentkező
 
-(4) A 37/A. § (2) bekezdésében, valamint az (1) és (2) bekezdésben meghatározottak alapján megismert személyes adatokat a fegyveres szerv a szolgálati viszony létesítéséről meghozott döntés időpontjáig vagy – szolgálati viszony létesítése és fennállása esetén – a szolgálati viszony megszűnéséig kezeli.
+a) esetében nem állnak fenn – a hivatásos állomány tagja esetében a folyamatban lévő büntetőeljárás kivételével – a 37/A. § (1) bekezdésében meghatározottak, és
+
+b) megfelel – különös tekintettel a szolgálaton kívüli magatartására, családi és lakókörnyezeti kapcsolataira, anyagi, jövedelmi viszonyaira, valamint a bűncselekményt elkövető vagy azzal gyanúsítható személyekkel fenntartott kapcsolatára – a szolgálat törvényes, befolyástól mentes ellátására.
+
+(3) A (2) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett külön törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
+
+(4) A rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a (2) bekezdésben foglaltak ellenőrzése során
+
+a) a hivatásos állományba jelentkezőről, valamint a hivatásos állomány tagjáról, továbbá a vele közös háztartásban élő hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a rendészeti szervek nyilvántartásaiból adatot igényelhet, az e szerveknél folyamatban lévő vagy befejezett fegyelmi eljárás irataiba betekinthet,
+
+b) a hivatásos állományba jelentkezőről, vagy a hivatásos állomány tagjáról lakóhelyén, tartózkodási helyén, munkahelyén – nyíltan vagy a rendőri jelleg leplezésével – környezettanulmányt készíthet.
+
+(5) A hivatásos állomány tagjának vagy a jelentkezőnek a kifogástalan életvitel ellenőrzéséhez csatolni kell a vele közös háztartásban élő hozzátartozójának nyilatkozatát, amelynek szövegét a törvény 8. számú melléklete tartalmazza.

@@ -1,3 +1,3 @@
 ## Összeférhetetlenség
 
-316. § A vám- és pénzügyőrség hivatásos állományú tagja nem végezhet olyan gazdasági tevékenységet, amely a vám- és pénzügyőrség alaptevékenységéhez kapcsolódik.
+316. § A Nemzeti Adó- és Vámhivatal hivatásos állományú tagja nem végezhet olyan gazdasági tevékenységet, amely a Nemzeti Adó- és Vámhivatal alaptevékenységéhez kapcsolódik.

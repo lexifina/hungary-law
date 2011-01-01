@@ -1,6 +1,6 @@
 ## Pályázati rendszer
 
-45. § (1) A magasabb szolgálati beosztáshoz előírt iskolai végzettség (szakképesítés) megszerzése érdekében, a megfelelő oktatási intézménybe való felvételhez, továbbá – a polgári nemzetbiztonsági szolgálatok kivételével – a regionális, területi, helyi szervek vezetőjének kinevezéséhez pályázatot kell, jogszabályban meghatározott szolgálati beosztások betöltéséhez pályázatot lehet kiírni. A vezetői kinevezés visszavonására tekintettel felajánlott másik vezetői beosztás pályázat kiírása nélkül betölthető.
+45. § (1) A magasabb szolgálati beosztáshoz előírt iskolai végzettség (szakképesítés) megszerzése érdekében, a megfelelő oktatási intézménybe való felvételhez, továbbá – a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal kivételével – a regionális, területi, helyi szervek vezetőjének kinevezéséhez, továbbá jogszabályban meghatározott szolgálati beosztások betöltéséhez pályázatot lehet kiírni. A vezetői kinevezés visszavonására tekintettel felajánlott másik vezetői beosztás pályázat kiírása nélkül betölthető.
 
 (2) A pályázatot a katonai és rendvédelmi oktatási intézmény vezetője, a megpályázható vezetői beosztásba való kinevezésre, illetve szolgálati beosztás betöltésére jogosult munkáltatói jogkört gyakorló elöljáró írja ki.
 

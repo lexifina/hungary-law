@@ -1,6 +1,6 @@
 127/A. § (1) A rendelkezési állományba tartozóval szemben a fegyelmi jogkör gyakorlója, amennyiben a törvény eltérő rendelkezést nem tartalmaz
 
-a) ha a szolgálatát a fegyveres szervet irányító miniszter irányítása alatt álló más szervnél vagy katonai, rendvédelmi oktatási intézménynél teljesíti, a miniszter által kijelölt vezető,
+a) ha a szolgálatát a miniszter irányítása alatt álló más szervnél vagy katonai, rendvédelmi oktatási intézménynél teljesíti, a miniszter által kijelölt vezető,
 
 b) ha a rendelkezési állományba helyezés a 44. § (1) bekezdés b)–c), e)–h) pontja alapján történt, az országos parancsnok vagy az általa kijelölt vezető.
 
