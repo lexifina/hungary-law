@@ -6,11 +6,11 @@
 
 3. § (1) A 6. § szerinti közzétételi listákon meghatározott adatait saját honlapján – ha törvény másként nem rendelkezik – közzéteszi
 
-a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság hivatala, az Országgyűlési Biztos Hivatala, az Állami Számvevőszék, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség, a Magyar Tudományos Akadémia,
+a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Országgyűlési Biztos Hivatala, az Állami Számvevőszék, a Pénzügyi Szervezetek Állami Felügyelete, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség, a Magyar Tudományos Akadémia,
 
 b) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
 
-c) a közigazgatási hivatal.
+c) a Kormány általános hatáskörű területi államigazgatási szerve.
 
 (2) Az (1) bekezdésben nem szereplő, jogszabályban meghatározott közfeladatot ellátó egyéb szervek a 6. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
 

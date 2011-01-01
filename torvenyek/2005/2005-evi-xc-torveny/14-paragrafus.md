@@ -1,4 +1,4 @@
-14. § (1) A Hatályos Jogszabályok Elektronikus Gyűjteményében (a továbbiakban: jogszabálygyűjtemény) a Miniszterelnöki Hivatalt vezető miniszter és az igazságügyért felelős miniszter gondoskodik
+14. § (1) A Hatályos Jogszabályok Elektronikus Gyűjteményében (a továbbiakban: jogszabálygyűjtemény) a kormányzati tevékenység összehangolásáért felelős miniszter és az igazságügyért felelős miniszter gondoskodik
 
 a) az önkormányzati rendeletek kivételével az adott naptári napon hatályos valamennyi jogszabály hatályos szövegének az esetleges módosításokkal egységes szerkezetben, továbbá
 

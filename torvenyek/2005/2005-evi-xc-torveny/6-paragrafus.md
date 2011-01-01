@@ -6,7 +6,7 @@
 
 (3) A közfeladatot ellátó szerv vezetője – az adatvédelmi biztos véleményének kikérésével –, valamint jogszabály a közfeladatot ellátó szervre, azok irányítása, felügyelete alá tartozó szervekre vagy azok egy részére kiterjedő hatállyal további kötelezően közzéteendő adatkört határozhat meg (egyedi közzétételi lista).
 
-(4) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatokat irányító miniszter az adatvédelmi biztos véleményének előzetes kikérésével e törvénytől eltérően szabályozhatja.
+(4) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter az adatvédelmi biztos véleményének előzetes kikérésével e törvénytől eltérően szabályozhatja.
 
 (5) Testületi szervként működő közfeladatot ellátó szerv esetén az egyedi közzétételi lista megállapítása és módosítása – az adatvédelmi biztos véleményének kikérésével – a testület hatáskörébe tartozik.
 

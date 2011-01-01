@@ -12,12 +12,12 @@ c) a 12. § (7) bekezdése szerinti másolatot készítő szerv kijelölését.
 
 a) az ágazati miniszter, hogy rendeletben adja ki a 6. § (2) bekezdésében foglalt különös közzétételi listát,
 
-b) az informatikáért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
+b) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
 
-c) a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg a polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét,
+c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy rendeletben állapítsa meg az irányítása alá tartozó polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét,
 
-d) az igazságügyért felelős miniszter, hogy az Országos Igazságszolgáltatási Tanáccsal egyetértésben rendeletben határozza meg az e törvény alapján közzétett bírósági határozatoknak a gyűjteményben történő megjelölésének szabályait,
+d) az igazságügyért felelős miniszter, hogy az Országos Igazságszolgáltatási Tanács véleményének kikérésével rendeletben határozza meg az e törvény alapján közzétett bírósági határozatoknak a gyűjteményben történő megjelölésének szabályait,
 
-e) a Miniszterelnöki Hivatalt vezető miniszter, hogy az előfizetőknek a 13. § (4) bekezdése szerinti számát rendeletben állapítsa meg,
+e) a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az előfizetőknek a 13. § (4) bekezdése szerinti számát rendeletben állapítsa meg,
 
-f) a Miniszterelnöki Hivatalt vezető miniszter, hogy a 12. § (7) bekezdésében meghatározott igazgatási szolgáltatási díjat rendeletben állapítsa meg.
+f) a kormányzati tevékenység összehangolásáért felelős miniszter, hogy a 12. § (7) bekezdésében meghatározott igazgatási szolgáltatási díjat rendeletben állapítsa meg.

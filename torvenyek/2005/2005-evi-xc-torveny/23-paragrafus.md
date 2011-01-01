@@ -252,7 +252,7 @@ archívumban tartásával
 
 |
 
-Az országos illetékességű szervek, valamint a közigazgatási hivatalok esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven
+Az országos illetékességű szervek, valamint a Kormány általános hatáskörű területi államigazgatási szerve esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven
 
 |
 
