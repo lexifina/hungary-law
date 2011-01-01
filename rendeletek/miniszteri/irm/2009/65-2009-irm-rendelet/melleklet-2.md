@@ -14,229 +14,157 @@
 
 ## 6. Anyja utóneve
 
-## 7. Születési ország
+## 7. Születési hely
 
-## 8. Születési település
+## 8. Születési idő
 
-## 9. Születési idő
+## 9. Lakcím
 
-## 10. Lakcím irányítószám
+## 10. Állampolgárság
 
-## 11. Lakcím – település
+## 11. Adóazonosító jel
 
-## 12. Lakcím – közterület neve
+## 12. Értesítési cím
 
-## 13. Lakcím – közterület jellege
+## II. Egyéni vállalkozói tevékenységgel kapcsolatos nyilatkozatok
 
-## 14. Lakcím – Házszám/helyrajzi szám
+## 1. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evtv.) 3. § (2) bekezdésében meghatározott kizáró okokról szóló nyilatkozat
 
-## 15. Állampolgárság
-
-## 16. Adóazonosító jel
-
-## 17. Elektronikus levélcím @
-
-## 18. Értesítési cím – irányítószám
-
-## 19. Értesítési cím – település
-
-## 20. Értesítési cím – közterület neve
-
-## 21. Értesítési cím – közterület jellege
-
-## 22. Értesítési cím – házszám/helyrajzi szám
-
-## 23. Vállalkozói igazolvány kiállítását: Kérem: ⬜ Nem kérem: ⬜
-
-## II. Büntetőjogi felelősségem tudatában kijelentem, hogy személyemmel szemben nem állnak fenn az egyéni vállalkozói tevékenységemet kizáró alábbi okok:
-
-## 1. korlátozott cselekvőképesség,
-
-## 2. közélet tisztasága elleni, a nemzetközi közélet tisztasága elleni, vagyon elleni bűncselekmény miatt jogerős, végrehajtandó szabadságvesztést kiszabó ítélet hatálya, amíg az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesül,
-
-## 3. szándékos bűncselekmény miatt jogerősen egy évet meghaladó, végrehajtandó szabadságvesztést kiszabó ítélet hatálya, amíg az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesül,
-
-## 4. egyéni cég tagja vagy gazdasági társaság korlátlanul felelős tagja.
+## 2. Engedély- és bejelentésköteles tevékenységek végzéséhez kapcsolódó nyilatkozatok
 
 ## III. Vállalkozó tevékenységére vonatkozó adatok
 
-## 1. Főtevékenység (szakmakód szerint megjelölve)
+## 1. Főtevékenység
 
-## 2. Ténylegesen végzett további tevékenységek (szakmakód szerint megjelölve)
+## 2. Egyéb tevékenységi körök
 
-## 3. Székhely irányítószám
+## 3. Székhely
 
-## 4. Székhely település
+## 4. Telephely
 
-## 5. Székhely közterület neve
+## 5. Fióktelep
 
-## 6. Székhely közterület jellege
+## 6. Iratok őrzési helye, ha nem azonos a székhellyel vagy lakóhellyel
 
-## 7. Székhely házszám/helyrajzi szám
+## 7. Kézbesítési megbízott neve
 
-## 8. Telephely irányítószám
+## 8. Kézbesítési megbízott születési neve
 
-## 9. Telephely település
+## 9. Kézbesítési megbízott anyja neve
 
-## 10. Telephely közterület neve
+## 10. Kézbesítési megbízott születési helye
 
-## 11. Telephely közterület jellege
+## 11. Kézbesítési megbízott születési ideje
 
-## 12. Telephely házszám/helyrajzi szám
+## 12. Kézbesítési megbízott címe
 
-## 13. Fióktelep irányítószám
+## 13. Kézbesítési megbízott elektronikus levelezési címe
 
-## 14. Fióktelep település
+## 13. Vállalkozói igazolvány kiállítását: Kérem: □  Nem kérem: □
 
-## 15. Fióktelep közterület neve
+## IV. A Nemzeti Adó- és Vámhivatal számára előterjesztendő nyilatkozat
 
-## 16. Fióktelep közterület jellege
+## Az Evtv. 6. § (1) bekezdés e) pontja alapján az adózás rendjéről szóló 2003. évi XCII. törvényben meghatározott, az állami adóhatósághoz történő bejelentkezési kötelezettség teljesítéséhez szükséges további adatok és nyilatkozatok
 
-## 17. Fióktelep házszám/helyrajzi szám
+## V. Számvitellel és biztosítási jogviszonnyal kapcsolatos egyéb adat
 
-## 18. Iratok őrzési helye, ha nem azonos a székhellyel vagy lakóhellyel
+## – Munkavégzés jellege
 
-## 19. Levelezési cím, ha nem azonos az értesítési címmel
+## VI. Özvegyi, örökösi jogon folytatott vállalkozás esetén a folytatni kívánt vállalkozás adatai
 
-## 20. Kézbesítési megbízott neve
+## 1. Az egyéni vállalkozói tevékenység továbbfolytatásának jogcíme
 
-## 21. Kézbesítési megbízott anyja neve
+## a) Özvegy □
 
-## 22. Kézbesítési megbízott születési helye
+## b) Örökös (özvegy hiányában vagy annak egyetértésével)  □
 
-## 23. Kézbesítési megbízott születési ideje
+## 2. Folytatni kívánt egyéni vállalkozás adatai
 
-## 24. Kézbesítési megbízott címe
+## a) Nyilvántartási szám
 
-## 25. Engedélyhez kötött tevékenységet folytat Igen: ⬜ Nem: ⬜
+## b) Adószám
 
-## 26. Engedély megnevezése, száma
+## c) KSH szám
 
-## 27. Engedélyt kiállító szerv megnevezése
+## d) Egyéni vállalkozó családi neve
 
-## IV. Az áfa-fizetési kötelezettséget az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (Áfa-törvény) rendelkezései alapján az alábbiak szerint állapítom meg.
+## e) Egyéni vállalkozó utóneve
 
-## 1. Az áfa-fizetési kötelezettséget az általános szabályok alapján állapítom meg. ⬜
+## f) Székhely
 
-## 2. Viszonteladóként ezen tevékenységemre az Áfa-törvény XVI/2. alfejezetének rendelkezéseit alkalmazom. ⬜
+## g) Az egyéni vállalkozói tevékenység megkezdésének ideje
 
-## 3. Viszonteladóként ezen tevékenységem egészére nem alkalmazom az Áfa-törvény XVI/2. alfejezetének rendelkezéseit. ⬜
+## 3. Kiskorú örökös esetén a törvényes képviselő adatai
 
-## 4. Az adó összegének megállapítása érdekében a globális nyilvántartáson alapuló módszert alkalmazom. ⬜
+## a) Törvényes képviselő neve
 
-## 5. Műalkotásnak, gyűjteménydarabnak vagy régiségnek a viszonteladó általi közvetlen importja esetében, illetve műalkotás annak alkotójától vagy az alkotó jogutódjától történő közvetlen beszerzése esetében a termék értékesítésének adóalapját az Áfa-törvény 217. §-a alapján állapítom meg. ⬜
+## b) Lakcíme
 
-## 6. Az áfa-fizetési kötelezettséget a nyilvános árverés szervezőjére vonatkozó különös szabályok alapján állapítom meg. ⬜
+## c) Adóazonosító jele
 
-## 7. Az áfa-fizetési kötelezettséget az utazásszervezési szolgáltatásra vonatkozó egyedi nyilvántartáson alapuló módszer alapján állapítom meg. ⬜
+## VII. Adatvédelmi tájékoztatás
 
-## 8. Utazásszervezési tevékenységemre az adó megállapítása érdekében az önálló pozíciószámonkénti nyilvántartáson alapuló módszert alkalmazom. ⬜
+## A nyilvántartást vezető szerv az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (Evtv.) alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek megfelelően adatokat rögzít az egyéni vállalkozói nyilvántartásban. A nyilvántartás a bejelentett adatok közül az egyéni vállalkozók nyilvántartási számmal történő azonosítása, más egyéni vállalkozótól való megkülönböztetése céljából, illetve az egyéni vállalkozók tevékenységének átláthatóbbá tétele, jogszerű működésük ellenőrzése céljából az alábbi adatokra terjed ki:
 
-## 9. Befektetési arany más adóalany részére történő értékesítésére az általános szabályokat alkalmazom. ⬜
+## –  az egyéni vállalkozó természetes személyazonosító adatait, lakcímét, állampolgárságát, értesítési címét, szükség szerint a kézbesítési megbízott személyazonosító adatait, lakcímét, értesítési címét és elektronikus levélcímét,
 
-## 10. Befektetési aranyat értékesítő fél nevében és javára folytatott közvetítői tevékenységemet adókötelessé teszem. ⬜
+## –  az egyéni vállalkozók nyilvántartásába történő felvétel napját,
 
-## 11. Az áfa-fizetési kötelezettséget mezőgazdasági kompenzációs rendszer helyett az általános áfa-fizetési szabályok szerint állapítom meg. ⬜
+## –  az egyéni vállalkozó főtevékenységét és egyéb tevékenységi köreit az Evtv. 6. § (1) bekezdés c) pontjának megfelelően,
 
-## 12. A lakóingatlannak nem minősülő ingatlan [ingatlanrész] bérbeadása, haszonbérbeadása tevékenységemre adómentesség helyett az általános szabályok szerinti adókötelessé tételt választom. ⬜
+## –  a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 
-## 13. A lakóingatlannak minősülő és a lakóingatlannak nem minősülő ingatlan [ingatlanrész] bérbeadása, haszonbérbeadása tevékenységemre adómentesség helyett az általános szabályok szerinti adókötelessé tételt választom. ⬜
+## –  szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
 
-## 14. A lakóingatlannak nem minősülő egyes beépített ingatlan [ingatlanrész] és az ehhez tartozó földrészlet értékesítése, illetve az egyes beépítetlen ingatlan [ingatlanrész] értékesítése tevékenységemre az adómentesség helyett az általános szabályok szerinti adókötelessé tételt választom. ⬜
+## –  az egyéni vállalkozó adószámát, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítése vagy hatályon kívül helyezése tényét, továbbá a határozat jogerőre emelkedésének napját,
 
-## 15. A lakóingatlannak minősülő és a lakóingatlannak nem minősülő egyes beépített ingatlan [ingatlanrész] és az ehhez tartozó földrészlet értékesítése, illetve az egyes beépítetlen ingatlan [ingatlanrész] értékesítése tevékenységemre az adómentesség helyett az általános szabályok szerinti adókötelessé tételt választom. ⬜
+## –  az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 
-## V. Nyilatkozat az áfa-mentességről
+## –  ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét, valamint
 
-## 1. Kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet folytatok. ⬜
-
-## 2. Alanyi adómentességet választok. ⬜
-
-## 3. Az Áfa-törvény XIV. fejezete alapján mezőgazdasági tevékenységnek minősülő tevékenységet folytatok és a kompenzációs felár megtéríttetésére tartok igényt. ⬜
-
-## 4. Mezőgazdasági kompenzációs rendszer mellett alanyi adómentességet választok. ⬜
-
-## 5. Lemondok a mezőgazdasági kompenzációs rendszer alkalmazásáról és alanyi adómentességet választok. ⬜
-
-## VI. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény alapján az átalányadózást
-
-## választom:   ⬜ nem választom: ⬜
-
-## VII. Közösségi adószám megállapítását
-
-## kérem: ⬜ nem kérem: ⬜
-
-## VIII. Már rendelkezem adószámmal, az Szja-törvény 3. § 17. pontja alapján egyéni vállalkozónak minősülök és az egyszerűsített vállalkozói adó (eva) hatálya alá tartozom.
-
-## IX. Számvitellel és biztosítási jogviszonnyal kapcsolatos egyéb adatok
-
-## 1. Naptári évtől eltérő üzleti év mérlegforduló napja
-
-## 2. Jogelőd adószám
-
-## 3. Biztosítási jogviszony kódja
-
-## 4. Munkavégzés jellege
-
-## 5. FEOR szám
-
-## 6. Magánnyugdíjpénztár neve
-
-## 7. Magánnyugdíjpénztár azonosítója
-
-## A egyéni vállalkozóról és az egyéni cégről szóló törvény alapján a személyes adatok védelméről és a közérdekű adatok nyilvántartásáról szóló törvénynek megfelelően a bejelentett adatai közül a nyilvántartást vezető szerv az alábbi adatokat rögzíti az egyéni vállalkozói nyilvántartásba az egyéni vállalkozók nyilvántartási számmal történő azonosítása, más egyéni vállalkozóktól való megkülönböztetése céljából, illetve az egyéni vállalkozók tevékenységének átláthatóbbá tétele, jogszerű működésük ellenőrzése céljából:
-
-## – az egyéni vállalkozó természetes személyazonosító adatait, lakcímét, állampolgárságát, értesítési címét, szükség szerint a kézbesítési megbízott személyazonosító adatait, lakcímét, értesítési címét és elektronikus levélcímét,
-
-## – az egyéni vállalkozók nyilvántartásába történő felvétel napját,
-
-## – az egyéni vállalkozó főtevékenységét és tevékenységi köreit a 6 . § (1) bekezdésének c) pontjának megfelelően,
-
-## – a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
-
-## – szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
-
-## – az egyéni vállalkozó adószámát, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítése vagy hatályon kívül helyezése tényét, továbbá a határozat jogerőre emelkedésének napját,
-
-## – az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
-
-## – ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlás a megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét, valamint
-
-## – a törlés időpontját és okát.
+## –  a törlés időpontját és okát.
 
 ## A nyilvántartást vezető szerv köteles az alábbi adatokat naprakészen, bárki számára díjmentesen megtekinthetően az interneten folyamatosan közzétenni:
 
-## – az egyéni vállalkozó családi neve és utóneve,
+## –  az egyéni vállalkozó családi neve és utóneve,
 
-## – az egyéni vállalkozók nyilvántartásába történő felvétel napja,
+## –  az egyéni vállalkozók nyilvántartásába történő felvétel napja,
 
-## – az egyéni vállalkozó főtevékenysége és tevékenységi körei,
+## –  az egyéni vállalkozó főtevékenysége és tevékenységi körei,
 
-## – az egyéni vállalkozó székhelye, telephelye(i), fióktelepe(i) címe,
+## –  az egyéni vállalkozó székhelye, telephelye(i), fióktelepe(i) címe,
 
-## – szükség szerint egyéni vállalkozói tevékenység szüneteltetésének ténye, kezdő- és zárónapja,
+## –  szükség szerint egyéni vállalkozói tevékenység szüneteltetésének ténye, kezdő- és zárónapja,
 
-## – az egyéni vállalkozó adószáma, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének vagy hatályon kívül helyezésének ténye, továbbá a határozat jogerőre emelkedésének napja,
+## –  az egyéni vállalkozó adószáma, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének vagy hatályon kívül helyezésének ténye, továbbá a határozat jogerőre emelkedésének napja,
 
-## – az egyéni vállalkozó statisztikai számjele és nyilvántartási száma,
+## –  az egyéni vállalkozó statisztikai számjele és nyilvántartási száma,
 
-## – ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány száma, kiállításának helye és kelte, a kiállító hatóság megnevezése, az igazolvány cseréje, pótlása megtagadásának ténye, az igazolvány visszavonásának és érvénytelenségének ténye,
+## –  ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány száma, kiállításának helye és kelte, a kiállító hatóság megnevezése, az igazolvány cseréje, pótlása megtagadásának ténye, az igazolvány visszavonásának és érvénytelenségének ténye,
 
-## – az egyéni vállalkozói tevékenységre való jogosultság megszűnése esetén a megszűnés időpontja – ha az egyéni cég alapítása miatt történt, akkor az egyéni cég alapításának ténye,
+## –  az egyéni vállalkozói tevékenységre való jogosultság megszűnése esetén a megszűnés időpontja – ha az egyéni cég alapítása miatt történt, akkor az egyéni cég alapításának ténye,
 
-## – a nyilvántartásból törölt egyéni vállalkozó családi és utóneve, valamint nyilvántartási száma.
+## –  a nyilvántartásból törölt egyéni vállalkozó családi és utóneve, valamint nyilvántartási száma.
 
-2. melléklet a 65/2009. (XII. 17.) IRM rendelethez
+2. melléklet a 65/2009. (XII. 17.) IRM rendelethez[^2]
 
 Változás bejelentés az egyéni vállalkozói nyilvántartáshoz
 
-I. Vállalkozó személyes adatai
+I. A vállalkozás azonosításához szükséges adatok
 
-1. Családi név
+1. Nyilvántartási szám
 
-2. Utónév
+2. Családi név
 
-3. Nyilvántartási szám
+3. Utónév
+
+4. Székhely
+
+5. Anyja neve
+
+6. Születési hely
+
+7. Születési idő
 
 II. Megváltozott adatok
 
@@ -252,130 +180,110 @@ II. Megváltozott adatok
 
 6. Anyja utóneve
 
-7. Születési ország
+7. Születési hely
 
-8. Születési település
+8. Születési idő
 
-9. Születési idő
+9. Lakcím
 
-10. Lakcím – irányítószám
+10. Értesítési cím
 
-11. Lakcím – település
+11. Állampolgárság
 
-12. Lakcím – közterület neve
+12. Főtevékenység
 
-13. Lakcím – közterület jellege
+13. Egyéb tevékenységi körök
 
-14. Elektronikus levélcím @
+14. Székhely
 
-15. Értesítési cím – irányítószám
+15. Telephely
 
-16. Értesítési cím – település
+16. Fióktelep
 
-17. Értesítési cím – közterület neve
+17. Kézbesítési megbízott neve
 
-18. Értesítési cím – közterület jellege
+18. Kézbesítési megbízott születési neve
 
-19. Házszám/helyrajzi szám
+19. Kézbesítési megbízott anyja neve
 
-20. Állampolgárság
+20. Kézbesítési megbízott születési helye
 
-21. Adószám
+21. Kézbesítési megbízott születési ideje
 
-22. Főtevékenység
+22. Kézbesítési megbízott címe
 
-23. Folytatott további tevékenységek
+23. Kézbesítési megbízott elektronikus levelezési címe
 
-24. Székhely irányítószám
+III. A Nemzeti Adó- és Vámhivatal számára előterjesztendő nyilatkozat
 
-25. Székhely település
+Az Evtv. 14. § (1) bekezdése alapján az adózás rendjéről szóló 2003. évi XCII. törvényben meghatározott, az állami adóhatóság által vezetett nyilvántartáshoz szükséges további adatok
 
-26. Székhely közterület neve
+IV. Vállalkozói igazolványhoz kapcsolódó adatok, nyilatkozatok
 
-27. Székhely közterület jellege
+1. Vállalkozói igazolvánnyal rendelkezem Igen: □  Nem: □
 
-28. Székhely házszám/helyrajzi szám
+2. Vállalkozói igazolvány kiállítását Kérem: □  Nem kérem□
 
-29. Telephely irányítószám
+3. Vállalkozói igazolványom pótlását kérem:
 
-30. Telephely település
+a) Elveszett □
 
-31. Telephely közterület neve
+b) Eltulajdonították □
 
-32. Telephely közterület jellege
+c) Megsemmisült □
 
-33. Telephely házszám/helyrajzi szám
+4. Vállalkozói igazolványom cseréjét kérem
 
-34. Fióktelep irányítószám
+a) Adatváltozás miatt □
 
-35. Fióktelep település
+b) Megrongálódott □
 
-36. Fióktelep közterület neve
+5. Az adatváltozás által érintett, a korábbi vállalkozói igazolványomat
 
-37. Fióktelep közterület jellege
+a) személyesen leadom □
 
-38. Fióktelep házszám/helyrajzi szám
+b) postai úton juttatom vissza □
 
-39. Iratok őrzési helye, ha nem azonos a székhellyel vagy lakóhellyel
+c) leadni nem tudom, mert
 
-40. Kézbesítési megbízott neve
+ca) az okmány elveszett □
 
-41. Kézbesítési megbízott anyja neve
+cb) eltulajdonították □
 
-42. Kézbesítési megbízott születési helye
+cc) megsemmisült □
 
-43. Kézbesítési megbízott születési ideje
+V. Nyilatkozat az egyéni vállalkozói tevékenység szüneteltetéséről, megszüntetéséről
 
-44. Kézbesítési megbízott címe
+1. Kijelentem, hogy egyéni vállalkozói tevékenységemet ... év ............ hó ... naptól szüneteltetni kívánom.
 
-45. Engedélyhez kötött tevékenységet
+2. Kijelentem, hogy szüneteltetett egyéni vállalkozói tevékenységemet ... év .......... hó ... naptól ismételten meg kívánom kezdeni.
 
-kívánok folytatni Igen:   ⬜ Nem: ⬜
+3. Kijelentem, hogy egyéni vállalkozói tevékenységemet ... év ........... hó ... napjával megszüntetem.
 
-46. Engedély megnevezése, száma, engedélyt kiállító szerv megnevezése
+VI. Egyéni vállalkozói tevékenységgel kapcsolatos nyilatkozatok
 
-47. Engedélyköteles, bejelentésköteles tevékenységemet
+1. Az Evtv. 3. § (2) bekezdésében meghatározott kizáró okokról szóló nyilatkozat
 
-megszüntetem Igen: ⬜  Nem: ⬜
+2. Az engedély- és bejelentésköteles tevékenységekhez kapcsolódó nyilatkozatok
 
-48. Rendelkezik-e már vállalkozói igazolvánnyal Igen: ⬜  Nem: ⬜
+VII. Vállalkozó cselekvőképességéhez kapcsolódó adatok, nyilatkozatok
 
-49. Vállalkozói igazolvány kiállítását Kérem: ⬜  Nem kérem: ⬜
+1. Nyilatkozat egyéni vállalkozói tevékenység törvényes képviselőként történő továbbfolytatásáról
 
-50. Vállalkozói igazolványom pótlását kérem ⬜ Elveszett ⬜ Eltulajdonították
+a) Törvényes képviselő neve
 
-51. Vállalkozói igazolványom cseréjét kérem ⬜ Adatváltozás miatt ⬜ Megrongálódott
+b) Törvényes képviselő lakcíme
 
-52. Változás bejelentése esetén: a korábbi vállalkozói igazolványomat leadom, illetve postai úton juttatom vissza ⬜
+c) Törvényes képviselő adóazonosító jele
 
-53. Változás bejelentése esetén: az egyéni vállalkozói igazolványt leadni nem tudom, mert az okmány elveszett, eltulajdonították ⬜
+d) Az egyéni vállalkozó cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó, és a törvényes képviselőt kijelölő okirat száma
 
-III. Nyilatkozat az egyéni vállalkozói tevékenység szüneteltetéséről, megszüntetéséről
+e) A cselekvőképtelenség vagy a korlátozott cselekvőképesség hatálybalépésének ideje
 
-1. Vállalkozói tevékenység szüneteltetése esetén kell kitölteni:
+2. Nyilatkozat egyéni vállalkozói tevékenység folytatásáról az egyéni vállalkozó cselekvőképessé válása esetén
 
-Kijelentem, hogy az egyéni vállalkozói tevékenységemet ....... naptól szüneteltetni kívánom.
+a) A cselekvőképesség korlátozását megszüntető okirat száma
 
-Szüneteltetés időtartama: határozott ideig ⬜ -ig
+b) A cselekvőképesség korlátozását megszüntető határozat jogerőre emelkedésének ideje, vagy a határozatban foglalt azon időpont, amikortól a cselekvőképesség korlátozásának megszüntetése hatályos
 
-határozatlan ideig ⬜
-
-2. Vállalkozói tevékenység folytatásával való felhagyás esetén kell kitölteni:
-
-Kijelentem, hogy egyéni vállalkozói tevékenységemet ......... napjával megszüntetem.
-
-IV. Nyilatkozat szünetelő egyéni vállalkozói tevékenység ismételt megkezdéséről
-
-Vállalkozói tevékenység ismételt megkezdése esetén kell kitölteni:
-
-Kijelentem, hogy az egyéni vállalkozói tevékenységemet ......... naptól ismételten meg kívánom kezdeni.
-
-Büntetőjogi felelősségem tudatában kijelentem, hogy személyemmel szemben továbbra sem állnak fenn az egyéni vállalkozói tevékenységemet kizáró alábbi okok:
-
-1. korlátozott cselekvőképesség,
-
-2. közélet tisztasága elleni, a nemzetközi közélet tisztasága elleni, vagyon elleni bűncselekmény miatt jogerős, végrehajtandó szabadságvesztést kiszabó ítélet hatálya, amíg az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesül,
-
-3. szándékos bűncselekmény miatt jogerősen egy évet meghaladó, végrehajtandó szabadságvesztést kiszabó ítélet hatálya, amíg az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesül,
-
-4. egyéni cég tagja vagy gazdasági társaság korlátlanul felelős tagja.
+[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
