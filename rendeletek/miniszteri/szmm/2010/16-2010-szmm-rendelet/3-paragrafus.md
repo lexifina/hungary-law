@@ -2,4 +2,6 @@
 
 (2) Az egyidejűleg engedéllyel foglalkoztatott harmadik országbeli állampolgárok számába be kell számítani a foglalkoztatás kölcsönös cseréjéről szóló nemzetközi szerződések alapján kiadott engedély alapján foglalkoztatható harmadik országbeli állampolgárok számát is.
 
-(3) Az egyidejűleg engedéllyel foglalkoztatott harmadik országbeli állampolgárok legmagasabb számára vonatkozó – az (1)–(2) bekezdés szerint kiszámított – létszámadatot tartalmazó közleményt a szociális és munkaügyi miniszter a tárgyév február 1-jéig a Magyar Közlönyben teszi közzé.
+(3)[^3] Az egyidejűleg engedéllyel foglalkoztatott harmadik országbeli állampolgárok legmagasabb számára vonatkozó – az (1)–(2) bekezdés szerint kiszámított – létszámadatot tartalmazó közleményt a nemzetgazdasági miniszter a tárgyév február 1-jéig a Magyar Közlönyben teszi közzé.
+
+[^3]: A 3. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 72. § (1) bekezdése szerint módosított szöveg.

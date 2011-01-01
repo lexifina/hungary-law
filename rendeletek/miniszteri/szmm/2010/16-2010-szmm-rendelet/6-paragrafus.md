@@ -26,6 +26,8 @@ b) a feltételeknek megfelelő kiközvetíthető munkaerő foglalkoztatásától
 
 c) a kérelem benyújtását megelőzően érvényes munkaerőigénnyel rendelkezett, de közvetítést nem kért.
 
-(3) Az (1) bekezdés h) pontjában meghatározott körülmény fennállásáról a munkaügyi központokat a szociális és munkaügyi miniszter tájékoztatja.
+(3)[^4] Az (1) bekezdés h) pontjában meghatározott körülmény fennállásáról a munkaügyi központokat a nemzetgazdasági miniszter tájékoztatja.
 
 (4) Az (1) bekezdés i) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt személyi alapbér – ideértve illetmény, díjazás – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
+
+[^4]: A 6. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 72. § (1) bekezdése szerint módosított szöveg.

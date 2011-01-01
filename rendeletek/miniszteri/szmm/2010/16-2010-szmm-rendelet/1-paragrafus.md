@@ -40,6 +40,8 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 10. külföldi munkáltató: a Magyar Köztársaság területén kívüli székhellyel rendelkező olyan foglalkoztató, aki a harmadik országbeli állampolgárt munkaviszonyban vagy olyan jogviszonyban foglalkoztatja, amelyre tekintettel az adott ország jogszabályai szerint a harmadik országbeli állampolgár alkalmazásban állónak minősül,
 
-11. országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszerében megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Foglalkoztatási és Szociális Hivatal által meghatározott – országos átlaga,
+11.[^2] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszerében megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Foglalkoztatási Hivatal által meghatározott – országos átlaga,
 
 12. mezőgazdaság: a növénytermesztési, erdőgazdálkodási, állattenyésztési, és halászati ágazat.
+
+[^2]: Az 1. § (3) bekezdés 11. pontja a 27/2010. (XII. 31.) NGM rendelet 72. § (3) bekezdése szerint módosított szöveg.

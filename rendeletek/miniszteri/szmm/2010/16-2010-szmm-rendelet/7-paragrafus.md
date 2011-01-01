@@ -6,10 +6,12 @@ a) a foglalkoztatóval szemben a kérelem benyújtását megelőző egy éven be
 
 b) a foglalkoztatót a kérelem benyújtását megelőző három éven belül harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt a munkaügyi ellenőrzésről szóló törvényben meghatározott, a Munkaerőpiaci Alapba történő befizetésre kötelezték, és fizetési kötelezettségének nem tett eleget,
 
-c) a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységre vonatkozóan a regionális munkaügyi központ (a továbbiakban: munkaügyi központ) által támogatott olyan képzés van folyamatban, amely a harmadik országbeli állampolgár foglalkoztatásának tervezett megkezdését megelőzően befejeződik,
+c)[^5] a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységre vonatkozóan a fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) által támogatott olyan képzés van folyamatban, amely a harmadik országbeli állampolgár foglalkoztatásának tervezett megkezdését megelőzően befejeződik,
 
 d) a foglalkoztatónál a foglalkoztatási feltételek nyilvánvalóan nem biztosítottak,
 
 e) a foglalkoztatónál a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységet is érintő sztrájk van folyamatban,
 
 f) a foglalkoztató a kérelem benyújtását megelőző egy évben csoportos létszámcsökkentést hajtott végre.
+
+[^5]: A 7. § (2) bekezdés c) pontja a 27/2010. (XII. 31.) NGM rendelet 72. § (2) bekezdése szerint módosított szöveg.
