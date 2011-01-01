@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-8. § (1)[^34] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 21. § (6) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője olyan telekkel, építménnyel kapcsolatban lát el építésügyi vagy építésfelügyeleti hatósági feladatokat, amellyel összefüggésben
+8. § (1)[^38] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 21. § (6) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője olyan telekkel, építménnyel kapcsolatban lát el építésügyi vagy építésfelügyeleti hatósági feladatokat, amellyel összefüggésben
 
 a) építészeti-műszaki tervezési,
 
@@ -24,9 +24,9 @@ j) igazságügyi szakértői
 
 ## tevékenységet végez, vagy öt éven belül végzett.
 
-(2)[^35]
+(2)[^39]
 
 (3) Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
 
-[^34]: A 8. § (1) bekezdése a 393/2007. (XII. 27.) Korm. rendelet 3. §-ával megállapított, bevezető szövegrésze a 311/2009. (XII. 28.) Korm. rendelet 25. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^35]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^38]: A 8. § (1) bekezdése a 393/2007. (XII. 27.) Korm. rendelet 3. §-ával megállapított, bevezető szövegrésze a 311/2009. (XII. 28.) Korm. rendelet 25. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^39]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.

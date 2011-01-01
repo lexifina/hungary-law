@@ -1,4 +1,4 @@
-1/C. §[^12] (1) Az 1/B. mellékletben felsorolt települések közül az elsőfokú építésügyi hatósági hatáskört önállóan gyakorolja annak a
+1/C. §[^13] (1) Az 1/B. mellékletben felsorolt települések közül az elsőfokú építésügyi hatósági hatáskört önállóan gyakorolja annak a
 
 a) települési önkormányzatnak a jegyzője, akit a hatáskör ellátására a település,
 
@@ -26,4 +26,4 @@ c) ha a társulási központ településen az építésügyi hatósági hatásk�
 
 d) ha a társulás megszűnik, a társulás valamennyi tagtelepülése
 
-[^12]: Az 1/C. §-t a 207/2008. (VIII. 27.) Korm. rendelet 15. §-a iktatta be; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
+[^13]: Az 1/C. §-t a 207/2008. (VIII. 27.) Korm. rendelet 15. §-a iktatta be; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.

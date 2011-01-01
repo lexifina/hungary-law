@@ -1,6 +1,6 @@
-## 2/B. §[^16] A miniszter az Étv. 5. § (1) bekezdés b) pont bb) alpontjában meghatározott helyszíni ellenőrzést a Kormány általános hatáskörű területi államigazgatási szerve bevonásával végzi.
+## 2/B. §[^17]
 
-2/C. §[^17] (1) Az építésügyi hatóság a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott esetekben szakhatóságként
+2/C. §[^18] (1) Az építésügyi hatóság a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott esetekben szakhatóságként
 
 a) helyszíni szemlét tart,
 
@@ -26,5 +26,5 @@ g) fennmaradási engedélyezés esetén vizsgálja az Elj.R. 40. § (2)–(6) be
 
 (4) Az előzetes szakhatósági állásfoglalás kiadására a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a szakhatóság az előzetes szakhatósági állásfoglalást nem küldi meg az eljáró hatóságnak.
 
-[^16]: A 2/B. §-t a 311/2009. (XII. 28.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
-[^17]: A 2/C. §-t a 177/2010. (V. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^17]: A 2/B. §-t a 311/2009. (XII. 28.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 329/2010. (XII. 27.) Korm. rendelet 5. § a) pontja.
+[^18]: A 2/C. §-t a 177/2010. (V. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be.
