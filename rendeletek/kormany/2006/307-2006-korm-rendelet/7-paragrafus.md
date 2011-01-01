@@ -1,4 +1,4 @@
-## 7. §[^17] A Hivatal a Kt. 95/A. §-a (2) bekezdésének c) pontjában meghatározott feladatkörében továbbá
+## 7. §[^26] A Hivatal a Kt. 95/A. §-a (2) bekezdésének c) pontjában meghatározott feladatkörében továbbá
 
 a) az érettségi vizsga vizsgaszabályzatában meghatározottak szerint elkészítteti
 
@@ -8,17 +8,20 @@ ab) a központi vizsgakövetelményekre épülő vizsgatárgyak emelt szintű sz
 
 b) ellátja a vizsgatantárgyak akkreditálásával összefüggő feladatokat;
 
-c) megbízza az érettségi vizsga vizsgabizottságának elnökét, és ellenőrzi a vizsgabizottság tevékenységét;
+c)[^27] megbízza a közoktatási feladatkörében eljáró fővárosi és megyei kormányhivatal által működtetett érettségi vizsga vizsgabizottság elnökét, és ellenőrzi a vizsgabizottság tevékenységét;
 
-d) másodfokon elbírálja a vizsgabizottság döntése ellen benyújtott törvényességi kérelmet;
+d)[^28] az érettségi vizsga vizsgaszabályzatában meghatározott esetben másodfokon elbírálja a vizsgabizottság döntése ellen benyújtott törvényességi kérelmet;
 
-e) működteti a tanulmányok alatti vizsgáztatás céljából a független vizsgabizottságot;
+e)[^29]
 
-f)[^18] a Kt. 131. § (7) bekezdése szerint közreműködik a kerettanterv jóváhagyása céljából indított eljárásban;
+f)[^30] a Kt. 131. § (7) bekezdése szerint közreműködik a kerettanterv jóváhagyása céljából indított eljárásban;
 
 g) előkészíti és szervezi a középfokú beiskolázás központi írásbeli felvételi vizsgáit;
 
 h) ellátja a Minisztérium által meghirdetett és finanszírozott országos tanulmányi versenyek előkészítésével, szervezésével összefüggő feladatokat.
 
-[^17]: A 7. § bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^18]: A 7. § f) pontja a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés f) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^26]: A 7. § bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^27]: A 7. § c) pontja a 325/2010. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^28]: A 7. § d) pontja a 325/2010. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^29]: A 7. § e) pontját a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^30]: A 7. § f) pontja a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés f) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

@@ -1,6 +1,8 @@
-## A Hivatal közoktatással kapcsolatos feladatai
+## 4/B. §[^15] A Kt. szerinti közoktatási feladatkörében eljáró oktatási hivatal feladatainak ellátására a Kormány a Hivatalt, valamint e rendelet 41–41/D. §-ában és külön jogszabályban foglaltak szerint a közoktatási feladatkörében eljáró fővárosi és megyei kormányhivatalt jelöli ki.
 
-5. § (1)[^11] A Hivatal
+## A Hivatal közoktatással és szakképzéssel kapcsolatos feladatai[^16]
+
+5. § (1)[^17] A Hivatal
 
 a) a Kt. 95/A. §-a (2) bekezdésének a) pontjában meghatározott feladatkörében
 
@@ -12,26 +14,31 @@ ac) feldolgozza és nyilvántartja az ellenőrzések, értékelések eredményei
 
 b) a Kt. 107. §-a alapján a fenntartó, a közoktatási intézmény, a települési kisebbségi önkormányzat, továbbá az országos kisebbségi önkormányzat megrendelésére – a megrendelő költségére – megyei, fővárosi, települési, intézményi szintű szakmai ellenőrzést végez;
 
-c)[^12] az országos mérés, értékelés eredményét a Hivatal honlapján közzéteszi, és a mérés, értékelés során szerzett intézményi szintű adatokat – a további feldolgozhatóság céljából – hozzáférhetővé teszi;
+c)[^18] az országos mérés, értékelés eredményét a Hivatal honlapján közzéteszi, és a mérés, értékelés során szerzett intézményi szintű adatokat – a további feldolgozhatóság céljából – hozzáférhetővé teszi;
 
 d) az országos mérési, értékelési feladatkörében ellátja a Kt. 99. § (7) bekezdésében meghatározott feladatokat.
 
-(2)[^13] A Hivatal az ágazati irányítás keretében közoktatási állami ellenőrzés szerveként
+(2)[^19] A Hivatal az ágazati irányítás keretében közoktatási állami ellenőrzés szerveként
 
 a) ellátja az országos mérés, értékelés feladatait [Kt. 99. §-ának (3) bekezdése],
 
-b) országos és regionális szakmai ellenőrzést végez [Kt. 99. §-ának (3) bekezdése],
+b)[^20] országos és megyei szakmai ellenőrzést végez [Kt. 99. §-ának (3) bekezdése],
 
-c) hatósági ellenőrzési feladatokat lát el [Kt. 95/A. §-ának (4) bekezdése],
+c)[^21] közreműködik a külön jogszabályokban meghatározott hatósági ellenőrzésekben.
 
-d) szabálysértési hatóságként jár el [Kt. 95/A. §-a (6) bekezdésének d) pontja].
+d)[^22] szabálysértési hatóságként jár el [az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 142. § (4) bekezdés a) pont].
 
-(3)[^14] A Hivatal a miniszter intézkedésének megfelelően a nevelési-oktatási intézményekben szakmai ellenőrzést szervez, pedagógiai-szakmai mérést, értékelést, elemzést készít, amennyiben a fenntartó a Minisztérium felkérésére ezeket nem végezte el.
+(3)[^23] A Hivatal a miniszter intézkedésének megfelelően a nevelési-oktatási intézményekben szakmai ellenőrzést szervez, pedagógiai-szakmai mérést, értékelést, elemzést készít, amennyiben a fenntartó a Minisztérium felkérésére ezeket nem végezte el.
 
-(4)[^15] A Hivatal – a Kt. 72. §-ának (2) bekezdése alapján – gondoskodik a bizonyítványnyomtatvány kiállításának alapjául szolgáló nyomtatványok engedélyezésének előkészítéséről és a bizonyítványok előállításáról.
+(4)[^24] A Hivatal – a Kt. 72. §-ának (2) bekezdése alapján – gondoskodik a bizonyítványnyomtatvány kiállításának alapjául szolgáló nyomtatványok engedélyezésének előkészítéséről és a bizonyítványok előállításáról.
 
-[^11]: Az 5. § (1) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^12]: Az 5. § (1) bekezdés c) pontja a 4/2010. (I. 14.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^13]: Az 5. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^14]: Az 5. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^15]: Az 5. § (4) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 20. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^15]: A 4/B. §-t a 325/2010. (XII. 27.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: Az 5. §-t megelőző alcím a 325/2010. (XII. 27.) Korm. rendelet 9. § d) pontjával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^17]: Az 5. § (1) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^18]: Az 5. § (1) bekezdés c) pontja a 4/2010. (I. 14.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^19]: Az 5. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^20]: Az 5. § (2) bekezdés b) pontja a 325/2010. (XII. 27.) Korm. rendelet 9. § e) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^21]: Az 5. § (2) bekezdés c) pontja a 325/2010. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: Az 5. § (2) bekezdés d) pontja a 325/2010. (XII. 27.) Korm. rendelet 9. § f) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^23]: Az 5. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^24]: Az 5. § (4) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 20. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
