@@ -4,7 +4,7 @@
 
 ## 1. A fizetések a Befogadó és az Értékesítő viszonylatában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, a tárgyhót követő hónap 7. munkanapján az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, a Befogadó és a kereskedők viszonylatában a külön jogszabály szerint meghatározott menetrend szerinti villamosenergia-mennyiségen alapuló számla alapján történnek.
 
-## 2. A jogosult köteles számláját a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt banki nappal megelőzően kézhez vehesse.
+## 2.[^88] A jogosult köteles számláját a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse.
 
 ## 3. A fizetési kötelezettségekkel kapcsolatos számlákra vonatkozó kifogásokat a számla kézhezvételétől számított négy munkanapon belül lehet a jogosulttal közölni. A számlára vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
 
@@ -22,13 +22,9 @@
 
 ## 3. A havi számlát az Értékesítő a tárgyhónapot követő hónap nyolcadik munkanapjától nyújthatja be a Befogadó részére.
 
-## 4. Ha az Értékesítő engedélyében vagy a kötelező átvételi jogosultságát megállapító határozatban meghatározott éves kötelező átvétel alá eső villamos energia mennyisége a 30 000 MWh-t meghaladja, az Értékesítő hó közben egy egyszerűsített számlát (a továbbiakban: havi előlegszámlát), és havonta egy számlát állít ki a Befogadó részére. Ha a külön jogszabály alapján az Értékesítő által a Befogadónak kötelezően benyújtandó éves villamosenergia-termelési prognózis ezt a mennyiséget nem éri el, a Befogadó megtagadhatja a prognózissal érintett évre előlegszámla elfogadását.
+## 4–6.[^89]
 
-## 5. A havi előlegszámla a havi menetrend szerinti villamosenergia-mennyiség 50%-a alapján – esetleges szabályozási pótdíj nélkül – számított összeget tartalmazza.
-
-## 6. A havi előlegszámlát az Értékesítő legkorábban a tárgyhónap tizenötödik napját követő második munkanapon nyújthatja be a Befogadó részére.
-
-## 7. Az Értékesítő a havi számla és a havi előlegszámla tekintetében köteles telephelyenként, a telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként (például ellennyomású kapcsolt, gázmotoros kapcsolt) külön számlát kiállítani.
+## 7.[^90] Az Értékesítő a havi számla tekintetében köteles telephelyenként, a telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként (például ellennyomású kapcsolt, gázmotoros kapcsolt) külön számlát kiállítani.
 
 ## 8. Hóközi árváltozás esetén az Értékesítőnek az árváltozással érintett időszakoknak megfelelően megbontva kell a számlát kiállítania.
 
@@ -41,3 +37,7 @@
 2. A 4. § (2)–(6) bekezdése szerinti villamos energia tárgyévre vonatkozó, január 1-jétől érvényes – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos kötelező átvételi árát a tárgyévet megelőző év – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos átvételi ára és a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex 1% pontos hatékonyságjavítási tényezővel csökkentett értékének szorzata alapján kell meghatározni.
 
 3. E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan, a tárgyévet megelőző évben havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
+
+[^88]: A 4. számú melléklet I. fejezet 2. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^89]: A 4. számú melléklet II. fejezet 4–6. pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^90]: A 4. számú melléklet II. fejezet 7. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.

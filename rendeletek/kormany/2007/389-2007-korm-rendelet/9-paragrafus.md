@@ -1,34 +1,35 @@
 ## Ellenőrzés
 
-9. § (1) Ha a Hivatal ellenőrzés során megállapítja a megfelelő eredetigazolás hiányát, vagy azt hogy az adott éves termelési időszakban, vagy az ezen időszak vége óta eltelt időszakban, vagy adott időpontban az Értékesítő, vagy az általa e rendelet hatálya alatt értékesített villamos energia (vagy annak egy része) nem felelt meg a jogszabályi feltételeknek, akkor határozatában
+9. §[^67] (1) Ha a Hivatal ellenőrzése során megállapítja a megfelelő eredetigazolás hiányát, vagy azt, hogy az adott éves termelési időszakban, vagy az ezen időszak vége óta eltelt időszakban, vagy adott időpontban az Értékesítő, vagy az általa e rendelet hatálya alatt értékesített villamos energia (vagy annak egy része) nem felelt meg a jogszabályi feltételeknek, akkor határozatában
 
 a) megállapítja, hogy hány kWh értékesítése történt a kötelező átvétel keretében e rendelet előírásainak megsértésével összefüggésben,
 
-b) meghatározza azokat a feltételeket, amelyek teljesítése esetén az Értékesítő továbbra is értékesíthet villamos energiát a kötelező átvétel keretében, valamint
+b) a (2)–(3) bekezdésben foglaltakra figyelemmel megállapítja a Befogadó részére fizetendő visszatérítés pontos összegét, valamint a visszatérítés időbeli ütemezését a teljesítésre (részteljesítésre) nyitva álló határidő megállapításával,
 
-c) meghatározza, hogy Értékesítővel szemben bírság kiszabása mellett, melyik további, VET szerinti jogkövetkezményt alkalmazza.
+c) meghatározza azokat a feltételeket, amelyek teljesítése esetén az Értékesítő továbbra is értékesíthet villamos energiát a kötelező átvétel keretében, valamint
 
-(2)[^59] Az Értékesítő az (1) bekezdés szerinti határozat közlését követő 30 napon belül köteles a határozatban megállapított villamosenergia-mennyiség minden kWh-ja után
+d) a VET 96. § (1) bekezdés b) pontja szerinti bírságot szab ki az Értékesítővel szemben, és szükség esetén további, VET szerinti jogkövetkezményt alkalmaz.
 
-a)[^60] megújuló energiaforrásból nyert energiával termelt villamos energia esetén az általa kapott – a 4. § (1)–(2) bekezdés alapján alkalmazott – árak és a 4. § (4) bekezdése alapján alkalmazott árak
+(2) Az Értékesítő köteles az (1) bekezdés szerinti határozatban megállapított villamosenergia-mennyiség minden kWh-ja után
 
-b) kapcsoltan termelt villamos energia esetén az általa kapott – az 5. § (1)–(2) és (4) bekezdés alapján alkalmazott – árak és az 5. § (3) bekezdése alapján alkalmazott árak
+a) megújuló energiaforrásból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (1)–(2) bekezdés alapján alkalmazott árak és a 4. § (4) bekezdése alapján alkalmazott árak, továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. § (1)–(2) és (4) bekezdés alapján alkalmazott árak és az 5. § (3) bekezdése alapján alkalmazott árak különbségét,
 
-különbségét,
+b) megújuló energiaforrásból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (3)–(4) és (6)–(8) bekezdése alapján alkalmazott árak, hulladékból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (5)–(6) bekezdése alapján alkalmazott árak, továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. § (3) és (6) bekezdése alapján alkalmazott árak 0,17-szeresét
 
-c)[^61] megújuló energiaforrásból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (3)–(4) és (6)–(7) bekezdése alapján alkalmazott árak
+visszatéríteni a Befogadónak.
 
-d) hulladékból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (5)–(6) bekezdése alapján alkalmazott árak
+(3) Mentesül a (2) bekezdés szerinti visszatérítési kötelezettség alól az az Értékesítő, aki a jogszabályi feltételeknek nem megfelelő villamosenergia-értékesítés során a jogszabályi feltételeknek megfelelő villamosenergia-értékesítéshez viszonyítva nem jutott vagyoni előnyhöz, és a felhasználóknak kárt nem okozott.
 
-e) kapcsoltan termelt villamos energia esetén az általa kapott, az 5. § (3) és (6) bekezdése alapján alkalmazott árak
+(4) Az Értékesítő köteles a határozatban megállapított visszatérítést a Befogadó részére megfizetni, aki a visszatérítés összegét a 7. § (11) bekezdésében foglaltaknak megfelelően köteles kezelni.
 
-## 0,17-szeresét visszatéríteni a Befogadónak.
+(5) Határidőben történő önkéntes teljesítés hiányában követelését a Befogadó
 
-(3)[^62] Amennyiben az Értékesítő határidőben teljes egészében nem tesz eleget az (2) bekezdés szerinti visszatérítési kötelezettségének vagy nem teljesíti az (1) bekezdés b) pontja szerinti feltételeket, akkor az Értékesítő mindaddig nem jogosult kötelező átvétel keretében villamos energiát értékesíteni, amíg a visszatérítési kötelezettségének teljes egészében eleget nem tesz, és az (1) bekezdés b) pontja szerinti feltételeket nem teljesíti.
+a) megújuló energiaforrásból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (1)–(2) bekezdés alapján alkalmazott árak és a 4. § (4) bekezdése alapján alkalmazott árak, továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. § (1)–(2) és (4) bekezdés alapján alkalmazott árak és az 5. § (3) bekezdése alapján alkalmazott árak különbségének,
 
-A Befogadó a (2) bekezdés szerinti összeget a 7. § (11) bekezdésében leírtaknak megfelelően köteles kezelni.
+b) megújuló energiaforrásból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (3)–(4) és (6)–(8) bekezdése alapján alkalmazott árak, hulladékból nyert energiával termelt villamos energia esetén az általa kapott, a 4. § (5)–(6) bekezdése alapján alkalmazott árak, továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. § (3) és (6) bekezdése alapján alkalmazott árak 0,17-szeresének
 
-[^59]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^60]: A 9. § (2) bekezdésének a) pontja a 287/2008. (XI. 28.) Korm. rendelet 11. § (13) bekezdése szerint módosított szöveg.
-[^61]: A 9. § (2) bekezdésének c) pontja a 287/2008. (XI. 28.) Korm. rendelet 11. § (14) bekezdése szerint módosított szöveg.
-[^62]: A 9. § (3) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 11. § (15) bekezdése szerint módosított szöveg.
+mértékéig az Értékesítőnek fizetendő árba történő beszámítással érvényesítheti.
+
+(6) Amennyiben az Értékesítő nem teljesíti az (1) bekezdés c) pontja szerinti feltételeket, akkor mindaddig nem jogosult kötelező átvétel keretében villamos energiát értékesíteni, amíg e feltételeket nem teljesíti.
+
+[^67]: A 9. § a 270/2010. (XII. 8.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,16 +1,28 @@
-2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^76]
+2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^85]
 
 ## A kapcsoltan termelt átvételi kötelezettség alá eső villamos energia átvételi bázisárai (ÁFA nélkül)
 
-1. Az 5. § (1) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai:
+1. Az 5. § (1) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai (2011. január 1-jei árszinten)
 
-|  | Ft/kWh* |
+a) földgáztüzelés esetében:
 
-| Csúcsidőszak | 32,59 |
+|  |  | Ft/kWh |
 
-| Völgyidőszak | 20,82 |
+|  | Csúcsidőszak | 31,95 |
 
-| Mélyvölgy időszak | 3,00 |
+|  | Völgyidőszak | 20,41 |
+
+|  | Mélyvölgyi időszak | 3,00 |
+
+b) nem földgáztüzelés esetében:
+
+|  |  | Ft/kWh |
+
+|  | Csúcsidőszak | 30,02 |
+
+|  | Völgyidőszak | 19,18 |
+
+|  | Mélyvölgyi időszak | 3,00 |
 
 2. Az 5. § (2) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai:
 
@@ -32,34 +44,50 @@
 
 | Mélyvölgyidőszak | 3,00 |
 
-4. a) Az 5. § (4) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai, ha az erőműegység névleges villamos teljesítőképessége 100 és 190 MW közé esik:
+4. Az 5. § (4) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai (2011. január 1-jei árszinten), ha az erőműegység névleges villamos teljesítőképessége
 
-|  | Ft/kWh |
+a) 100 és 190 MW közé esik:
 
-| Csúcsidőszak | 36,08 |
+|  |  | Ft/kWh |
 
-| Völgyidőszak | 23,69 |
+|  | Csúcsidőszak | 31,13 |
 
-| Mélyvölgyidőszak | 3,00 |
+|  | Völgyidőszak | 20,44 |
 
-b) Az 5. § (4) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai, ha az erőműegység névleges villamos teljesítőképessége 50 és 100 MW közé esik:
+|  | Mélyvölgyi időszak | 3,00 |
 
-|  | Ft/kWh |
+b) 50 és 100 MW közé esik:
 
-| Csúcsidőszak | 30,46 |
+|  |  | Ft/kWh |
 
-| Völgyidőszak | 19,15 |
+|  | Csúcsidőszak | 26,28 |
 
-| Mélyvölgyidőszak | 3,00 |
+|  | Völgyidőszak | 16,52 |
 
-5. Az 5. § (5a) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai:
+|  | Mélyvölgyi időszak | 3,00 |
 
-|  | Ft/kWh |
+5.
 
-| Csúcsidőszak | 36,08 |
+6. Az 5. § (3a) bekezdése alá tartozó villamos energia kötelező átvételi bázisárai (2011. január 1-jei árszinten)
 
-| Völgyidőszak | 23,69 |
+a) földgáztüzelés esetében:
 
-| Mélyvölgy időszak | 3,00 |
+|  |  | Ft/kWh |
 
-[^76]: A 2. számú melléklet a 349/2008. (XII. 31.) Korm. rendelet 2. §-a, a 29/2010. (II. 17.) Korm. rendelet 2. §-a szerint módosított szöveg.
+|  | Csúcsidőszak | 18,28 |
+
+|  | Völgyidőszak | 11,41 |
+
+|  | Mélyvölgyi időszak | 3,00 |
+
+b) nem földgáztüzelés esetében:
+
+|  |  | Ft/kWh |
+
+|  | Csúcsidőszak | 17,17 |
+
+|  | Völgyidőszak | 10,72 |
+
+|  | Mélyvölgyi időszak | 3,00 |
+
+[^85]: A 2. számú melléklet a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése, a 369/2010. (XII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.

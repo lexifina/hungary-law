@@ -36,4 +36,8 @@ p) tárgyév: a kötelező átvételi rendszerben történő értékesítés ár
 
 q) telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye.
 
+r)[^4] módosítási pótdíj: a leadott havi termelési menetrend alapján összesített villamos energia mennyiségétől való eltérés esetén, a havi termelési menetrend alapján meghatározott összesített villamos energia mennyiség és a ténylegesen értékesített összesített villamos energia mennyiség különbsége alapján az Értékesítő által a Befogadó számára fizetendő díj.
+
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, valamint a felhatalmazásuk alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
+
+[^4]: A 2. § (1) bekezdés r) pontját a 270/2010. (XII. 8.) Korm. rendelet 1. §-a iktatta be.
