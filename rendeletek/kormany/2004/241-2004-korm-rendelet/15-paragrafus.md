@@ -14,6 +14,6 @@ f) a postai szolgáltatók védelmi felkészítésével összefüggő fejleszté
 
 g) a védelmi céloknak megfelelően elsőbbséggel rendelkező szervezetek igényeinek folyamatos biztosítása érdekében a postai szolgáltatók munkarendje szükséges mértékű átszervezésének előkészítését,
 
-h)[^14] a védelmi igények kielégítése érdekében, a postai szolgáltatásoknak a Hvt. harmadik része szerinti, differenciált korlátozásának előkészítését.
+h)[^15] a védelmi igények kielégítése érdekében, a postai szolgáltatásoknak a Hvt. harmadik része szerinti, differenciált korlátozásának előkészítését.
 
-[^14]: A 15. § h) pontja a 71/2006. (IV. 3.) Korm. rendelet 61. § (4) bekezdésének g) pontja szerint módosított szöveg.
+[^15]: A 15. § h) pontja a 71/2006. (IV. 3.) Korm. rendelet 61. § (4) bekezdésének g) pontja szerint módosított szöveg.

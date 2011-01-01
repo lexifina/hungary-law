@@ -8,6 +8,6 @@ c) gondoskodik a védelmi igazgatás területi és helyi szervei veszélyeztetet
 
 d) részt vesz a postai szolgáltatók felkészítésével kapcsolatos ellenőrzések és gyakorlatok megszervezésében és végrehajtásában.
 
-e)[^9]
+e)[^10]
 
-[^9]: A 6. § e) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének m) pontja hatályon kívül helyezte.
+[^10]: A 6. § e) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének m) pontja hatályon kívül helyezte.

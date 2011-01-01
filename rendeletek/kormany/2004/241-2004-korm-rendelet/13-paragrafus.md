@@ -14,6 +14,6 @@ d) az egyetemes postai hálózat a védelmi, biztonsági igényeket az ország e
 
 (3) A postai szolgáltató a veszélyeztetettségi és minősített időszaki feladatai teljesítéséhez a saját állományából kialakított és felkészített szervezetet működtet, a szükség szerinti folyamatos munkarendben.
 
-(4) A szervezetbe kijelölt állomány a részére meghatározott feladatok elvégzésével teljesíti a külön jogszabályokban[^13] meghatározott polgári védelmi és honvédelmi munkakötelezettségét.
+(4) A szervezetbe kijelölt állomány a részére meghatározott feladatok elvégzésével teljesíti a külön jogszabályokban[^14] meghatározott polgári védelmi és honvédelmi munkakötelezettségét.
 
-[^13]: A polgári védelemről szóló 1996. évi XXXVII. törvény, Hvt.
+[^14]: A polgári védelemről szóló 1996. évi XXXVII. törvény, Hvt.

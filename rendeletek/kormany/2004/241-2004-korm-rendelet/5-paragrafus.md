@@ -6,7 +6,7 @@ a) az érintett miniszterekkel egyetértésben kialakítja a postai szolgáltat�
 
 b) a postai szolgáltatás működésének folyamatossága érdekében irányítja a postai szolgáltatók védelmi célú felkészítését, és végzi az ezzel kapcsolatos állami feladatokat,
 
-c)[^8] a Hvt.-ben és a Vhr.-ben, valamint a Pt.-ben foglaltakra figyelemmel kijelöli a védelmi felkészülésben részt vevő postai szolgáltatókat, és meghatározza feladataikat,
+c)[^9] a Hvt.-ben és a Vhr.-ben, valamint a Pt.-ben foglaltakra figyelemmel kijelöli a védelmi felkészülésben részt vevő postai szolgáltatókat, és meghatározza feladataikat,
 
 d) a postai szolgáltatásokra vonatkozó követelmények meghatározásánál gondoskodik a védelmi érdekek érvényre juttatásáról,
 
@@ -24,4 +24,4 @@ j) az érintett miniszterekkel egyeztetve gondoskodik a jóváhagyott költségv
 
 k) gondoskodik a NATO Polgári Hírközlési Tervező Bizottság (SCEPC) munkájában történő részvétellel összefüggő feladatok ellátásáról.
 
-[^8]: Az 5. § c) pontja a 71/2006. (IV. 3.) Korm. rendelet 61. § (4) bekezdésének f) pontja szerint módosított szöveg.
+[^9]: Az 5. § c) pontja a 71/2006. (IV. 3.) Korm. rendelet 61. § (4) bekezdésének f) pontja szerint módosított szöveg.
