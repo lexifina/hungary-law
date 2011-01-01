@@ -92,7 +92,7 @@
 
 ## a) Az engedélyező hatóság a létesítési engedély iránti kérelem elbírálása során meggyőződik arról, hogy az építtető a kérelemhez csatolta-e az előírt mellékleteket, s azok megfelelnek-e az előírt követelményeknek.
 
-## b)[^40] Ha a kérelem vagy a mellékletek nem felelnek meg az előírásoknak és a követelményeknek, az engedélyező hatóság a kérelmezőt — határidő kitűzésével — 5 munkanapon belül a kérelem kiegészítésére, illetőleg hiánypótlásra hívja fel.
+## b)[^40] Ha a kérelem vagy a mellékletek nem felelnek meg az előírásoknak és a követelményeknek, az engedélyező hatóság a kérelmezőt — határidő kitűzésével — nyolc napon belül a kérelem kiegészítésére, illetőleg hiánypótlásra hívja fel.
 
 ## c) Az engedélyező hatóságnak, figyelemmel arra, hogy az előírásszerű tervekért a tervező felelős, a 4. pontban foglaltakat kell ellenőriznie.
 
@@ -219,7 +219,7 @@
 [^37]: A 4. számú melléklet 4. pont e) alpontja a 10/2010. (III. 2.) NFGM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^38]: A 4. számú melléklet 4. pont g) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^39]: A 4. számú melléklet 7. pontját a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^40]: A 4. számú melléklet 8. pont b) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 4. számú melléklet 8. pont b) alpontja a 26/2010. (XII. 31.) NGM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^41]: A 4. számú melléklet 8. pont fb) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^42]: A 4. számú melléklet 9. pont ab) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^43]: A 4. számú melléklet 9. pont b) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
