@@ -6,6 +6,6 @@ b) irányítja a különösen veszélyes állatbetegségek és növényi káros�
 
 c) veszélyhelyzetben közreműködik az ellátatlanná vált lakosság élelmiszer-ellátásában;
 
-d) szervezi és irányítja a vetőmagvak és szaporítóanyagok mentését.[^16]
+d) szervezi és irányítja a vetőmagvak és szaporítóanyagok mentését.[^17]
 
-[^16]: Végrehajtására lásd a 2/1998. (I. 12.) FM rendeletet.
+[^17]: Végrehajtására lásd a 2/1998. (I. 12.) FM rendeletet.

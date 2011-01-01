@@ -2,6 +2,6 @@
 
 28. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^34]
+(2)[^35]
 
-[^34]: A 28. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1362. pontja hatályon kívül helyezte.
+[^35]: A 28. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1362. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 19. §[^21] A feladatkörében az iparügyekért felelős miniszter és a kereskedelemért felelős miniszter
+## 19. §[^22] A feladatkörében az iparügyekért felelős miniszter és a kereskedelemért felelős miniszter
 
 a) megállapítja és érvényesíti a kereskedelmi forgalomban lévő élelmiszerek megelőző rbv. védelmére vonatkozó hatósági előírásokat;
 
@@ -12,7 +12,7 @@ e) közreműködik az átmenetileg ellátatlanná vált lakosság élelmiszerekk
 
 f) biztosítja az életvédelmi létesítmények megépítéséhez, megerősítéséhez, felszereléséhez szükséges építőipari anyagok, valamint technikai eszközök gyártásához, beszerzéséhez és forgalomba hozatalához szükséges feltételeket;
 
-g)[^22] gondoskodik – a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a polgári védelmi eszközök, felszerelések előállításáról, készletezéséről, elosztásáról és forgalomba hozataláról.
+g)[^23] gondoskodik – a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a polgári védelmi eszközök, felszerelések előállításáról, készletezéséről, elosztásáról és forgalomba hozataláról.
 
-[^21]: A 19. § bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 94. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 19. § g) pontja a 182/2009. (IX. 10.) Korm. rendelet 94. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 19. § bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 94. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 19. § g) pontja a 182/2009. (IX. 10.) Korm. rendelet 94. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

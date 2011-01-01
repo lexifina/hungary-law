@@ -1,6 +1,6 @@
 ## A hivatásos polgári védelmi szervek feladatai
 
-## 6. §[^7] Az Országos Katasztrófavédelmi Főigazgatóság a főigazgató vezetésével:
+## 6. §[^8] Az Országos Katasztrófavédelmi Főigazgatóság a főigazgató vezetésével:
 
 a) működteti a Baleseti Információs Központot és a főügyeleti szolgálatot;
 
@@ -12,4 +12,4 @@ d) gondoskodik a mentés irányítására létrehozott operatív csoport működ
 
 e) több megyét (fővárost) érintő mentési feladat esetén koordinálja a polgári védelmi szakmai tevékenységet.
 
-[^7]: A 6. § bevezető szövegrésze a 97/2008. (IV. 29.) Korm. rendelet 4. § 66. pontja szerint módosított szöveg.
+[^8]: A 6. § bevezető szövegrésze a 97/2008. (IV. 29.) Korm. rendelet 4. § 66. pontja szerint módosított szöveg.
