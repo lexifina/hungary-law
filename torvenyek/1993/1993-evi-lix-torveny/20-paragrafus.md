@@ -4,4 +4,4 @@
 
 (3) Ha az országgyűlési biztos az ajánlást módosítja, azt a megteendő intézkedések szempontjából új ajánlásnak kell tekinteni.
 
-(4) A Kormány tagja, autonóm államigazgatási szerv, illetve kormányhivatal esetében az országgyűlési biztos a visszásságot előidéző szerv számára tesz ajánlást.
+(4) A Kormány tagja, autonóm államigazgatási szerv, a Pénzügyi Szervezetek Állami Felügyelete, illetve kormányhivatal esetében az országgyűlési biztos a visszásságot előidéző szerv számára tesz ajánlást.

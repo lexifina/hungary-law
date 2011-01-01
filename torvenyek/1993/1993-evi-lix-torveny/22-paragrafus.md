@@ -1,8 +1,8 @@
 22. § Az országgyűlési biztos indítványozhatja az Alkotmánybíróságnál:
 
-a) a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálatát;
+a) a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálatát;
 
-b) a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálatát;
+b) a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálatát;
 
 c)
 

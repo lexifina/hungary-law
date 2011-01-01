@@ -40,7 +40,7 @@ f) az ügyészség, kivéve az ügyészségi nyomozást végző ügyészségi sz
 
 (4) E törvény alkalmazásában alapvető joggal kapcsolatos visszásság: alapvető jog sérelme vagy annak közvetlen veszélye, függetlenül attól, hogy az cselekvés vagy mulasztás eredménye.
 
-(5)
+(5) Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét is érteni kell.
 
 (6) A külön biztosra törvény e törvénytől eltérő szabályokat állapíthat meg.
 
