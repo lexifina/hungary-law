@@ -1,5 +1,3 @@
-## 10. §[^36]
+## 10. §[^29]
 
-## A népkonyhán történő étkeztetés térítésmentesen vehető igénybe.
-
-[^36]: A 10. § a 169/1999. (XI. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^29]: A 10. §-t a 357/2010. (XII. 30.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.

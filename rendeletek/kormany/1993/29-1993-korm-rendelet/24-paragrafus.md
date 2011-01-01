@@ -1,7 +1,5 @@
-## 23/A. §[^66]
-
-## Az éjjeli menedékhelyen nyújtott alapszolgáltatások térítésmentesen vehetők igénybe.
+## 23/A. §[^60]
 
 ## Tartós bentlakásos intézmények
 
-[^66]: A 23/A. §-t a 169/1999. (XI. 24.) Korm. rendelet 8. §-a iktatta be, szövege a 312/2002. (XII. 29.) Korm. rendelet 7. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
+[^60]: A 23/A. §-t a 169/1999. (XI. 24.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 357/2010. (XII. 30.) Korm. rendelet 12. § h) pontja.

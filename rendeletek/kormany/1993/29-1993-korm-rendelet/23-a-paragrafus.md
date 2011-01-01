@@ -1,3 +1,5 @@
-## 23. §
+## 23. §[^59]
 
-## Ha a hajléktalanok átmeneti szállásán elhelyezett étkeztetésben is részesül, az étkezésért a 9—10. § szerinti térítési díjat kell fizetni.
+## A hajléktalan személyek átmeneti szállásán nyújtott étkezésért az étkeztetésre vonatkozó szabályok szerint kell térítési díjat fizetni.
+
+[^59]: A 23. § a 357/2010. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

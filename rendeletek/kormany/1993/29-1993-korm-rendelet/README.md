@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-29-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1993-29-20-22.19 | 29/1993. (II. 17.) Korm. rendelet |
+| 2011-01-01 | 1993-29-20-22.20 | 357/2010. (XII. 30.) Korm. rendelet |

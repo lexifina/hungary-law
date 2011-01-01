@@ -1,8 +1,13 @@
+## 16. §[^48]
+
+## Ha az ellátott a bentlakásos intézményi ellátást a hónap nem mindegyik napján veszi igénybe, a távolléti napok számát meg kell szorozni a 28. §-ban foglaltak szerint számított csökkentett összegű napi személyi térítési díjjal, a jelenléti napok számát pedig meg kell szorozni a teljes összegű napi személyi térítési díjjal. A két szorzat összege az adott hónapra fizetendő térítési díj. A jelenléti napok számát – az adott hónap naptári napjainak számától függetlenül – úgy kell meghatározni, hogy 30 napból le kell vonni a távolléti napok számát, valamint azoknak a napoknak a számát, amelyeken az intézményi jogviszony nem állt fenn.
+
 ## 17. §
 
-(1)–(3)[^57]
+(1)–(3)[^49]
 
-(4)[^58] Idősotthoni ellátás esetében a költőpénzt a személyi térítési díj megállapítását követően kell meghatározni, és az ellátott rendszeres jövedelméből visszahagyni, illetve a költőpénz minimális összegére kiegészíteni.
+(4)[^50]
 
-[^57]: A 17. § (1)–(3) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése a) pontjának ac) alpontja hatályon kívül helyezte.
-[^58]: A 17. § (4) bekezdését a 10/1994. (I. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 339/2007. (XII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^48]: A 16. § a 357/2010. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^49]: A 17. § (1)–(3) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése a) pontjának ac) alpontja hatályon kívül helyezte.
+[^50]: A 17. § (4) bekezdését a 10/1994. (I. 30.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 357/2010. (XII. 30.) Korm. rendelet 12. § f) pontja.

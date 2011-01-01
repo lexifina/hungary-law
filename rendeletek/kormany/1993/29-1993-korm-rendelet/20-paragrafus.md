@@ -1,13 +1,13 @@
-## 19. §[^61]
+## 19. §[^53]
 
-## Az Szt. 20. §-ának b)–c) pontjában, valamint 119. §-ának (3) bekezdésében meghatározott nyilvántartást a 3. számú melléklet tartalmazza.
+## A fizetendő személyi térítési díj összegét, a pénz- és ingatlanvagyon terhelését, a fizetési kötelezettség teljesítését, valamint a folyó évi hátralékot a 3. számú melléklet szerinti törzslapon kell nyilvántartani. Az Szt. 117/B. § szerinti esetben nem kell vezetni a 3. számú melléklet szerinti törzslapot.
 
 ## 20. §
 
-(1)–(2)[^62]
+(1)–(2)[^54]
 
-(3)[^63]
+(3)[^55]
 
-[^61]: A 19. § a 339/2007. (XII. 15.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^62]: A 20. § (1)–(2) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése a) pontjának ad) alpontja hatályon kívül helyezte.
-[^63]: A 20. § (3) bekezdését az 52/1996. (IV. 10.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^53]: A 19. § a 357/2010. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^54]: A 20. § (1)–(2) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése a) pontjának ad) alpontja hatályon kívül helyezte.
+[^55]: A 20. § (3) bekezdését az 52/1996. (IV. 10.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
