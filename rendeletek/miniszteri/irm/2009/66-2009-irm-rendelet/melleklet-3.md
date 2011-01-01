@@ -92,6 +92,6 @@
 
 | ........................................................ Épület, lépcsőház, szint, ajtó |
 
-3. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^6]
+3. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^12]
 
-[^6]: A 3. mellékletet a 13. § (4) bekezdése hatályon kívül helyezte.
+[^12]: A 3. mellékletet a 13. § (4) bekezdése hatályon kívül helyezte.

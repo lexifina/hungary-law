@@ -12,6 +12,8 @@ d) az abba bejegyzett adatok megváltoztak,
 
 e) az igazolványt a vállalkozó a körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzőjének (a továbbiakban: körzetközponti jegyző) leadta,
 
-f) az elveszett, eltulajdonították, vagy
+f)[^3] az elveszett, eltulajdonították vagy megsemmisült, vagy
 
 g) azt a körzetközponti jegyző határozattal visszavonta.
+
+[^3]: A 4. § f) pontja a 21/2010. (XII. 22.) KIM rendelet 2. § (1) bekezdésével megállapított szöveg.

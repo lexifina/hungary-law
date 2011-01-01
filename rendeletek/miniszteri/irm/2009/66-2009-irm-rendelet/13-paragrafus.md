@@ -4,6 +4,6 @@
 
 (2) A 2. § (4) bekezdés és az 1.– 2. melléklet 2010. július 1-jén lép hatályba.
 
-(3) A 14. § 2010. január 2-án hatályát veszti.
+(3)–(4)[^8]
 
-(4) A 2. § (5) bekezdés és a 3. és 4. melléklet 2010. július 1-jén hatályát veszti.
+[^8]: A 13. § (3)–(4) bekezdését a 21/2010. (XII. 22.) KIM rendelet 3. §-a hatályon kívül helyezte.

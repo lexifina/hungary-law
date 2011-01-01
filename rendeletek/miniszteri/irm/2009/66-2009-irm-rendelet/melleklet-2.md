@@ -84,6 +84,6 @@
 
 | ........................................................ Épület, lépcsőház, szint, ajtó |
 
-2. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^5]
+2. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^11]
 
-[^5]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.
+[^11]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.

@@ -4,4 +4,6 @@
 
 12. § (1) Az e rendelet hatálybalépésekor érvényes vállalkozói igazolvány cseréje vagy pótlása esetén az igazolvány kiállítására az új igazolványra vonatkozó szabályokat kell alkalmazni.
 
-(2) A 3. és 4 számú mellékletben szereplő igazolványt 2010. június 30-ig lehet kiállítani.
+(2)[^7]
+
+[^7]: A 12. § (2) bekezdését a 21/2010. (XII. 22.) KIM rendelet 3. §-a hatályon kívül helyezte.
