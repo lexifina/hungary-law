@@ -8,7 +8,7 @@ b) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérk
 
 c) a termék vasúti-, vízi- vagy légiközlekedési eszközön történő értékesítésére a 33. §-ban említett feltételek teljesülnek;
 
-d) a gáz földgázcsővezeték-hálózaton keresztüli vagy a villamos energia értékesítésére a 34. vagy 35. §-ban említett feltételek teljesülnek;
+d) a gáz Közösség területén levő földgázrendszeren vagy bármely más, ilyen rendszerhez kapcsolt hálózaton keresztüli, a hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli, valamint a villamos energia értékesítésére a 34. vagy 35. § alkalmazandó;
 
 e) a termék értékesítése a 89., 98–104. és 107–109. §-ok szerint történik;
 

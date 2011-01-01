@@ -26,4 +26,4 @@ Közhatalmi tevékenységnek nem minősülő tevékenységek
 
 12. Munkahelyi és egyéb vendéglátás
 
-13. Rádiós és televíziós műsorszolgáltatások keretében végzett kereskedelmi jellegű tevékenység
+13. Rádiós és audiovizuális médiaszolgáltatások keretében végzett kereskedelmi jellegű tevékenység

@@ -10,7 +10,7 @@ d) a terméket belföldön rendeltetésszerűen nem használják, egyéb módon 
 
 e) a terméket a vámhatóság felhívására bemutatják.
 
-(2) A termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat megtétele során megfelelő okirat (így különösen: szerződés, egyéb kereskedelmi okmány) bemutatásával valószínűsíteni kell az (1) bekezdés a) pontjában meghatározott feltétel teljesülését úgy, hogy abból kitűnjön a Közösség valamely más tagállamában adófizetésre kötelezettként nyilvántartásba vett beszerző neve, címe és az az adószáma, amely alatt e beszerzése után adót kell fizetnie e tagállam joga szerint.
+(2) A termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat megtétele során az importálónak meg kell adnia közösségi adószámát, valamint megfelelő okirat (így különösen: szerződés, egyéb kereskedelmi okmány) bemutatásával valószínűsítenie kell az (1) bekezdés a) pontjában meghatározott feltétel teljesülését úgy, hogy abból kitűnjön a Közösség valamely más tagállamában adófizetésre kötelezettként nyilvántartásba vett beszerző neve, címe és az az adószáma, amely alatt e beszerzése után adót kell fizetnie e tagállam joga szerint.
 
 (3) Az (1) bekezdés b) pontjában említett határidő 30 nap, amelyet az importáló indokolt kérelmére a vámhatóság legfeljebb egyszer, további 30 nappal meghosszabbíthat.
 

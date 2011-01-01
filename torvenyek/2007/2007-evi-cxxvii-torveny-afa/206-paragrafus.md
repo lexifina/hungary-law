@@ -6,20 +6,22 @@ a) utazásszervezési szolgáltatás: adóalany által – saját nevében – u
 
 b) utazásszervező: az utazásszervezési szolgáltatást nyújtó adóalany;
 
-c) utas: az, aki (amely) az utazásszervezési szolgáltatást
+c) utas: az utazásszervezőnek tett nyilatkozata alapján az az ügyfél, aki (amely) a szolgáltatást
 
 ca) nem adóalanyként vagy nem adóalanyi minőségében, illetőleg
 
 cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és javára
 
-veszi igénybe, és erről a teljesítést megelőzően az utazásszervezőnek nyilatkozik;
+veszi igénybe;
 
 d) önálló pozíciószám: olyan – külön nyilvántartott – utazásszervezési szolgáltatásokat foglal magában, amelyek azonos földrajzi területre (helyszínre) irányulnak, azonos tartalmúak és színvonalukat tekintve azonos minőségűek.
 
-(2) Az egyéb feltételek teljesülésének sérelme nélkül szintén utazásszervezési szolgáltatás az is,
+(2) Az utazásszervező köteles ügyfelét a teljesítést megelőzően nyilatkozattételre felhívni, és annak keretében nyilatkoztatni arról, hogy a szolgáltatást utasként vagy nem utasként kívánja igénybe venni.
+
+(3) Az egyéb feltételek teljesülésének sérelme nélkül szintén utazásszervezési szolgáltatás az is,
 
 a) amelynek időtartama nem haladja meg a 24 órát, illetőleg
 
 b) amely éjszakai szálláshelyadást nem tartalmaz.
 
-(3) E fejezet rendelkezései nem alkalmazhatók az utazásközvetítő tevékenységére, aki (amely) az utazásszervező megbízásából és annak nevében köt megállapodást az utassal.
+(4) E fejezet rendelkezései nem alkalmazhatók az utazásközvetítő tevékenységére, aki (amely) az utazásszervező megbízásából és annak nevében köt megállapodást az utassal.

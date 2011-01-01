@@ -1,0 +1,5 @@
+270. § (1) Az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010 . évi CXXIII. törvénnyel (a továbbiakban: Mód1. törvény) módosított 206. § (1) bekezdés c) pontját és a Mód1. törvénnyel megállapított 206. § (2) bekezdését azokban az esetekben kell alkalmazni először, amelyekben az utazásszervezőnek fizetett előleg jóváírása, kézhezvétele, előlegfizetés hiányában pedig az utazásszervezési szolgáltatás teljesítése 2011 . január 1-jére vagy azt követő napra esik.
+
+(2) A Mód1. törvénnyel megállapított 257/A. §-t azokban az esetekben kell alkalmazni először, amelyekben a pénzbeni adomány, segély felhasználása 2011. január 1-jén vagy azt követően beszerzett termék, igénybe vett szolgáltatás érdekében történik.
+
+(3) A 3. számú melléklet I. részének a Mód1. törvénnyel megállapított 18. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2011. január 1-jére vagy azt követő napra esik.

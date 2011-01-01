@@ -1,4 +1,4 @@
-249. § (1) Az adó-visszatéríttetési jog érvényesítése a belföldön nem letelepedett adóalany erre irányuló, az állami adóhatóság jogszabályban kijelölt szervéhez (e fejezet alkalmazásában a továbbiakban: állami adóhatóság) címzett írásos kérelmére történik (a továbbiakban: adó-visszatéríttetési kérelem).
+249. § (1) Az adó-visszatéríttetési jog érvényesítése a belföldön nem letelepedett adóalany erre irányuló, az állami adóhatóság jogszabályban kijelölt szervéhez címzett írásos kérelmére történik (a továbbiakban: adó-visszatéríttetési kérelem).
 
 (2) A Közösség más tagállamában letelepedett adóalany esetében az adó-visszatéríttetési jog érvényesítésének feltétele, hogy adó-visszatéríttetési kérelme a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK tanácsi irányelv (a továbbiakban: Héavisszatérítési-irányelv) rendelkezéseit átültető tagállami jogszabálynak megfelelően az állami adóhatóság rendelkezésére álljon.
 

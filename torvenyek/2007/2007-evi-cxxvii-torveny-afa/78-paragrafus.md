@@ -15,3 +15,5 @@ b) adattartalmának módosításáról gondoskodjon az a) pont alá nem tartozó
 a) az eredeti számlát érvénytelenítő számla vagy az azt módosító számla a jogosult személyes rendelkezésére áll;
 
 b) a kötelezett a jogosultnak az ellenértéket visszatéríti, az előleget visszafizeti, vagy a betétdíjat visszatéríti az a) pont alá nem tartozó esetekben.
+
+(4) A (3) bekezdést kell megfelelően alkalmazni abban az esetben is, ha az adó alapjának utólagos csökkenése azért nem eredményez fizetendőadó-csökkenést, mert az ügylet – e törvény rendelkezései szerint – mentes az adó alól.

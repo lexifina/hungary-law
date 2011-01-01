@@ -1,9 +1,11 @@
-34. § (1) Abban az esetben, ha adóalany-kereskedő részére
+34. § (1) Ha adóalany-kereskedő részére
 
-a) gáz értékesítése földgázcsővezeték-hálózaton keresztül, vagy
+a) gáz Közösség területén levő földgázrendszeren vagy bármely más, ilyen rendszerhez kapcsolt hálózaton keresztüli,
 
-b) villamos energia értékesítése
+b) hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli, valamint
 
-történik, a termék értékesítésének teljesítési helye az a hely, ahol az adóalany-kereskedő gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig az a hely, ahol lakóhelye vagy szokásos tartózkodási helye van.
+c) villamos energia
 
-(2) E § alkalmazásában adóalany-kereskedő az, aki (amely) gáz vagy villamos energia továbbértékesítésével főtevékenységként foglalkozik, és akinek (amelynek) saját felhasználása (fogyasztása) ezekből a termékekből elhanyagolható mértékű.
+értékesítése történik, a termék értékesítésének teljesítési helye az a hely, ahol az adóalany-kereskedő gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig az a hely, ahol lakóhelye vagy szokásos tartózkodási helye van.
+
+(2) Adóalany-kereskedő az, aki (amely) gáz, hő- vagy hűtési energia, valamint villamos energia továbbértékesítésével főtevékenységként foglalkozik, és akinek (amelynek) saját felhasználása (fogyasztása) e termékekből elhanyagolható mértékű.

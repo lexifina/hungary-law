@@ -20,7 +20,7 @@ bb) a jogosult ár- vagy díjleszállítást kap.
 
 a) teljesítés hiánya miatt az előleget visszafizetik;
 
-b) a kötelezett a termék 10. § a) pontja szerinti értékesítése vagy bérbeadása esetében az ellenérték maradéktalan megtérítésének hiánya miatt eláll az ügylettől, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a felek a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
+b) a termék 10. § a) pontja szerinti értékesítése, a bérbeadás vagy a vagyoni értékű jog időleges használatának átengedése akár az ügyletben érintett bármely félnek felróható okból, akár a tevékenységi körükön kívül eső elháríthatatlan okból meghiúsul, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
 
 c) betétdíjas termék visszaváltásakor a betétdíjat visszatérítik.
 

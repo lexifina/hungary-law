@@ -44,7 +44,17 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
 
 n) a népművészeti, népi iparművészeti és iparművészeti termékek kiállításának, vásárának és bemutatójának szervezése, rendezése és az ahhoz szorosan kapcsolódó, jogszabály által meghatározott minősítés szerint zsűriszámmal ellátott, egyedi vagy meghatározott példányszámban, nem ipari gyártástechnológiával előállított népművészeti, népi iparművészeti és iparművészeti termék értékesítése, amelyet közszolgáltató vagy népi iparművész minősítéssel rendelkező személy, szervezet – ilyen minőségében – teljesít;
 
-o) a közszolgálati rádiós és televíziós műsorszolgáltatások nyújtása, ide nem értve az annak keretében nyújtott kereskedelmi jellegű szolgáltatásokat.
+o) a közszolgálati rádiós és audiovizuális médiaszolgáltatások nyújtása, ide nem értve az annak keretében nyújtott kereskedelmi jellegű szolgáltatásokat;
+
+p) a közös cél elérése érdekében együttműködő közösség (a továbbiakban: együttműködő közösség) által a közös cél elérésére nyújtott szolgáltatás az együttműködő közösség tagjának, feltéve, hogy a következő feltételek teljesülnek:
+
+pa) az együttműködő közösség tagja nem adóalany, vagy a szolgáltatás igénybevétele során nem adóalanyi minőségében jár el, vagy
+
+pb) a szolgáltatás igénybevétele az együttműködő közösség adóalany tagjának kizárólag olyan, az a)-o) pont vagy a 86. § (1) bekezdése szerint mentes termékértékesítése, szolgáltatásnyújtása érdekében történik, amelyhez kapcsolódóan az együttműködő közösség adóalany tagját adólevonási jog egészben vagy részben nem illeti meg, továbbá
+
+pc) az ellenérték, amelyet az együttműködő közösség kap vagy kapnia kell, nem több annál, mint a nála ezzel összefüggésben felmerült igazolt költség, valamint
+
+pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozzájárulást, amelyet az együttműködő közösség tagjának kell a közös cél elérése érdekében az együttműködő közösségnek rendelkezésre bocsátania.
 
 (2) Az egyéb oktatás körébe tartoznak:
 
@@ -95,3 +105,17 @@ b) elrendelte a törvénybe ütköző állapot megszüntetését, megtiltotta a 
 c) a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt okozó törvénybe ütköző tevékenysége miatt, kötelezett az ár leszállítására, az áru kijavítására vagy kicserélésére, illetőleg az ár visszafizetésére [Tpvt. 92. §-a], a határozat jogerőre emelkedésétől az azt követő harmadik naptári év végéig
 
 nem minősül közszolgáltatónak.
+
+(6) E § és a 85/A. § alkalmazásában
+
+a) együttműködő közösség:
+
+aa) az együttműködő közösség leendő tagjai által a közös cél elérésére, a Ptk. rendelkezései szerint létrehozott polgári jogi társaság, amelynek kizárólag e cél elérésére szolgáló adóalanyisága – e törvény egyéb rendelkezéseitől függetlenül – valamennyi szerződő fél közös, kifejezett és egybehangzó írásos kérelmére az állami adóhatóság engedélyével, annak jogerőre emelkedésének napjával jön létre, vagy
+
+ab) az a személy, szervezet, aki (amely) egyébként adóalany;
+
+b) együttműködő közösség tagja: az a személy, szervezet, aki (amely) az a) pont
+
+ba) aa) alpontja szerinti együttműködő közösséget létrehozó polgári jogi társaság tagja,
+
+bb) ab) alpontja szerinti együttműködő közösséggel névre szóló tulajdonosi (tagsági) jogviszonyban áll.

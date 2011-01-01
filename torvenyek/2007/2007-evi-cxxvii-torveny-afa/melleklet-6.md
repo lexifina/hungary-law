@@ -353,3 +353,15 @@ Használt vagy új rongy, zsineg-, kötél-, hajókötél-hulladék és használ
 |
 
 6310
+
+|
+
+29.
+
+|
+
+Használt primer cella, primer elem és elektromos akkumulátor, ezeknek hulladéka; kimerült primer elem és kimerült elektromos akkumulátor
+
+|
+
+8548 10

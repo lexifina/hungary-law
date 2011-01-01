@@ -242,6 +242,16 @@ Kotta
 
 4904
 
+|
+
+18.
+
+|
+
+A 15. és 17. pontban meghatározott termékek bármely más fizikai adathordozón reprodukált formája
+
+|
+
 II. rész: szolgálatások
 
 |

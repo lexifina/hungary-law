@@ -16,11 +16,11 @@ f) munkaerő kölcsönzése, kirendelése, illetőleg személyzet rendelkezésre
 
 g) termék – ide nem értve az ingatlant és a közlekedési eszközök bármely fajtáját – bérbeadása;
 
-h) földgázcsővezeték- és villamosenergiaelosztó-hálózatokhoz való csatlakozás biztosítása, valamint a hálózatokon keresztüli földgáz- és villamosenergia-továbbítás biztosítása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
+h) a Közösség területén levő földgázrendszerhez vagy bármely más, ilyen rendszerhez kapcsolt hálózathoz, hő- vagy hűtési hálózathoz, villamosenergia-rendszerhez való csatlakozás, egyéb hozzáférés biztosítása, valamint ilyen rendszeren, hálózaton keresztül földgáz, hő- vagy hűtési energia, valamint villamos energia szállítása (átvitele), elosztása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
 
 i) telekommunikációs szolgáltatások;
 
-j) rádiós és televíziós műsorszolgáltatások;
+j) rádiós és audiovizuális médiaszolgáltatások;
 
 k) elektronikus úton nyújtott szolgáltatások.
 
@@ -36,7 +36,7 @@ b) szoftver rendelkezésre bocsátása és frissítése,
 
 c) kép, szöveg és egyéb információ rendelkezésre bocsátása, valamint adatbázis elérhetővé tétele,
 
-d) zene, film és játék – ideértve a szerencsejátékot is – rendelkezésre bocsátása, valamint politikai, kulturális, művészeti, tudományos, sport és szórakoztatási célú műsorszolgáltatás, illetőleg ilyen célú események közvetítése, sugárzása,
+d) zene, film és játék – ideértve a szerencsejátékot is – rendelkezésre bocsátása, valamint politikai, kulturális, művészeti, tudományos, sport és szórakoztatási célú médiaszolgáltatás, illetőleg ilyen célú események közvetítése, sugárzása,
 
 e) távoktatás,
 
