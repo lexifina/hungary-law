@@ -64,18 +64,20 @@
 
 | Építménynek nem minősülő felszíni létesítmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Nemzeti Közlekedési Hatóság illetékes regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
-2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez
+2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^2]
 
 Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
-|  | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+|  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
 | Közlekedés |  |  |
 
-| a) gyorsforgalmi utak esetében és 30 méter szabad nyílást meghaladó közúti hidak esetén b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága b) Nemzeti Közlekedési Hatóság Illetékes regionális igazgatóság | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| a) gyorsforgalmi utak esetében, és 30 méter szabad nyílást meghaladó közúti hidak esetén b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala b) fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| vasút, hajózás | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| légi közlekedés | Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| légiközlekedés a) Polgári célú b) Állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-| Kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal | Kulturális Örökségvédelmi Hivatal elnöke |
+| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 207. §-ával megállapított szöveg.
