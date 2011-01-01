@@ -1,3 +1,3 @@
-## 10. § Az R1. 8/B. §-a helyébe a következő rendelkezés lép:
+## 1–10. §[^2]
 
-## „8/B. § A védett személy hivatalos programja során a rohamkocsi szintű mentési készenlét biztosításáról a Terrorelhárítási Központ vagy a Köztársasági Őrezred, akadályoztatásuk, illetve kapacitásukat meghaladó feladat esetén a Terrorelhárítási Központ vagy a Köztársasági Őrezred felkérésére a Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ (a továbbiakban: MH HEK) Sürgősségi Mentőosztálya vagy az Országos Mentőszolgálat kijelölt egysége gondoskodik.”
+[^2]: Az 1–10. §-t a 295/2010. (XII. 22.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
