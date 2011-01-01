@@ -6,7 +6,7 @@
 
 (3) A végzést az elismerését kérővel írásban kell közölni.
 
-(4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő öt munkanapon belül köteles gondoskodni.
+(4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő nyolc napon belül köteles gondoskodni.
 
 (5) A hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő nyolcadik napon kell közöltnek tekinteni. A hirdetmény nem tartalmazhatja az ügy tárgyát, az elismerését kérő személyes adatai közül pedig kizárólag családi és utóneve tüntethető fel. A hirdetmény kizárólag a menekültügyi hatóság hirdetőtábláján helyezhető el. Hirdetményi közlést követően a döntés közlésére vonatkozóan a kapcsolattartás általános szabályai nem alkalmazhatók.
 

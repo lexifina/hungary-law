@@ -6,6 +6,6 @@ a) nem igazolja vagy valószínűsíti, hogy a 19. § a) vagy b) pontja szerint 
 
 b) menedékeskénti elismerése a 21. § alapján kizárt.
 
-(3) A külföldi menedékeskénti elismerésére irányuló eljárást harminc munkanapon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
+(3) A külföldi menedékeskénti elismerésére irányuló eljárást negyvenöt napon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
 
 (4) A menedékeskénti elismerésre irányuló eljárásban e törvény VII. Fejezetének rendelkezései megfelelően alkalmazandók.

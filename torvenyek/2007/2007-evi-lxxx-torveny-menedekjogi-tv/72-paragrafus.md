@@ -6,7 +6,7 @@
 
 (3) A menekültügyi hatóság a kérelmezőt a repülőtér tranzitterületén található szálláshelyen helyezi el.
 
-(4) A repülőtéri eljárásban az előzetes vizsgálati eljárást öt munkanapon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
+(4) A repülőtéri eljárásban az előzetes vizsgálati eljárást nyolc napon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
 
 (5) A kérelmezőt a Magyar Köztársaság területére be kell léptetni, ha
 
