@@ -538,6 +538,6 @@
 
 |  |  |  | 15.3.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
 
-3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^215]
+3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^219]
 
-[^215]: A 3. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 18. §-a és a 396/2007. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+[^219]: A 3. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 18. §-a és a 396/2007. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.

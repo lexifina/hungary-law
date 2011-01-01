@@ -30,7 +30,7 @@ d) a pénztár saját tevékenysége keretében végzett vagyonkezelés és nyug
 
 e) a pénztárból más pénztárba történő átlépés, illetve a pénztári tagság egyéb módon való megszűnése esetén a pénztártaggal, az örökössel vagy kedvezményezettel való elszámolás során a visszatérítendő összegnek, valamint a nyugdíjszolgáltatás megkezdésekor a szolgáltatás fedezetének az értékelési különbözet figyelembevételével történő megállapításánál alkalmazott elveket és módszereket tartalmazó szabályzatot;
 
-f)[^13] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 41. §-ának (3) bekezdésében, továbbá a Tbj. végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 20. §-ának (1) bekezdésében előírt, az Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: adóhatóság) által teljesített adatszolgáltatás és a pénztár saját nyilvántartásában szereplő adatok egyeztetésének eljárási szabályait tartalmazó szabályzatot;
+f)[^13] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 41. §-ának (3) bekezdésében, továbbá a Tbj. végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 20. §-ának (1) bekezdésében előírt, a Nemzeti Adó- és Vámhivatal, mint állami adóhatóság a (a továbbiakban: adóhatóság) által teljesített adatszolgáltatás és a pénztár saját nyilvántartásában szereplő adatok egyeztetésének eljárási szabályait tartalmazó szabályzatot;
 
 g)[^14] a választható portfoliós rendszer működése esetén a pénztártagok választása, illetve besorolása szerinti befektetési portfoliók hozamának és a befektetésekkel kapcsolatos költségeknek pénztártagonként elkülönített nyilvántartására vonatkozó szabályzatot;
 
@@ -46,7 +46,7 @@ h)[^15] az elszámoló egységek képzésének, árfolyam meghatározásának, f
 
 [^11]: A 7. § (4) bekezdésének a) pontja a 287/2002. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
 [^12]: A 7. § (4) bekezdésének b) pontja a 285/2005. (XII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^13]: A 7. § (4) bekezdésének f) pontját a 285/2005. (XII. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 358/2006. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 49. § (1) bekezdését.
+[^13]: A 7. § (4) bekezdésének f) pontját a 285/2005. (XII. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 358/2006. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 91. §-a szerint módosított szöveg.
 [^14]: A 7. § (4) bekezdésének g) pontját a 358/2006. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
 [^15]: A 7. § (4) bekezdésének h) pontját a 396/2007. (XII. 27.) Korm. rendelet 3. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
 [^16]: A 7. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 199. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

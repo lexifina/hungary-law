@@ -76,7 +76,7 @@
 
 ## B) Likviditási és kockázati tartalékok
 
-## I. [^217]
+## I. [^221]
 
 ## II. Demográfiai kockázatokra
 
@@ -186,7 +186,7 @@
 
 ## Összesen:
 
-5. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^218]
+5. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^222]
 
-[^217]: A 4. számú melléklet „Pénztári céltartalékok alakulása” „B) Likviditási és kockázati céltartalékok” „I. Befektetési kockázatra” részét a 358/2006. (XII. 27.) Korm. rendelet 50. § (3) bekezdése hatályon kívül helyezte.
-[^218]: Az 5. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 8. §-ának (1) bekezdése és a 287/2002. (XII. 23.) Korm. rendelet 27. § (3) bekezdése, valamint a 358/2006. (XII. 27.) Korm. rendelet 20. §-a és a 396/2007. (XII. 27.) Korm. rendelet 34. §-a, a 325/2009. (XII. 29.) Korm. rendelet 33. §-a szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.
+[^221]: A 4. számú melléklet „Pénztári céltartalékok alakulása” „B) Likviditási és kockázati céltartalékok” „I. Befektetési kockázatra” részét a 358/2006. (XII. 27.) Korm. rendelet 50. § (3) bekezdése hatályon kívül helyezte.
+[^222]: Az 5. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 8. §-ának (1) bekezdése és a 287/2002. (XII. 23.) Korm. rendelet 27. § (3) bekezdése, valamint a 358/2006. (XII. 27.) Korm. rendelet 20. §-a és a 396/2007. (XII. 27.) Korm. rendelet 34. §-a, a 325/2009. (XII. 29.) Korm. rendelet 33. §-a szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.

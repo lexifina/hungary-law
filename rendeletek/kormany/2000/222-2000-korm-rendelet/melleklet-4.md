@@ -98,6 +98,6 @@
 
 ## 42.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állomány változása
 
-4. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^216]
+4. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^220]
 
-[^216]: A 4. számú melléklet a 287/2002. (XII. 23.) Korm. rendelet 27. § (2) bekezdése és a 358/2006. (XII. 27.) Korm. rendelet 19. §-a, valamint a 396/2007. (XII. 27.) Korm. rendelet 33. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+[^220]: A 4. számú melléklet a 287/2002. (XII. 23.) Korm. rendelet 27. § (2) bekezdése és a 358/2006. (XII. 27.) Korm. rendelet 19. §-a, valamint a 396/2007. (XII. 27.) Korm. rendelet 33. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
