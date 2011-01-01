@@ -1,0 +1,1 @@
+## 11. § A visszatérítendő adó átutalás útján történő teljesítéséhez a közhasznú tevékenységet folytató személy, szervezet, valamint a kedvezményezett (a továbbiakban együtt: kérelmező) csak olyan fizetési számlát adhat meg, amellyel mint annak jogosultja rendelkezik.

@@ -1,0 +1,7 @@
+## 16. § A visszatérítendő adó forintban illeti meg a kérelmezőt, amelynek átutalás útján történő teljesítéséről az állami adóhatóság hivatalból intézkedik.
+
+17. § (1) Ha az az adóösszeg, amelyre az adó-visszatéríttetési jog eredetileg vonatkozott, utólag változik, a változással megegyező összegben a visszatéríteni kért vagy a visszatérített adó összege is változik.
+
+(2) Ha az adó-visszatéríttetési kérelem benyújtását követően, az (1) bekezdésben meghatározott változás eredményeként az adó összege csökken, a kérelmező köteles azt az állami adóhatóságnak haladéktalanul, de legkésőbb attól az időponttól számított 15 napon belül bejelenteni, amelytől kezdődően a különbözet alapjául szolgáló okirat személyes rendelkezésére áll, és a különbözettel – az adó-visszatéríttetési jog érvényesítéséhez fűződő egyéb feltételektől függetlenül – a visszatérítendő adót mérsékelni, vagy ha a különbözetet elbírált igényként az állami adóhatóság már visszatérítette, azt visszafizetni.
+
+(3) Ha az adó-visszatéríttetési kérelem benyújtását követően, az (1) bekezdésben meghatározott változás eredményeként az adó összege nő, a kérelmező jogosult azt az állami adóhatóságnak bejelenteni, és a különbözettel – a különbözet alapjául szolgáló okirat eredeti példányának egyidejű csatolásával – a visszatéríteni kért adót növelni, vagy ha kérelmét már elbírálták, az adó-visszatéríttetési kérelmet – az adó visszatéríttetése iránti jog érvényesítéséhez fűződő egyéb feltételek teljesítése mellett – a különbözettel módosított tartalommal benyújtani.

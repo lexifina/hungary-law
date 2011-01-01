@@ -1,0 +1,1 @@
+## 15. § Ha az állami adóhatóság rendelkezésre álló adatok, egyéb információk alapján úgy ítéli meg, hogy az adó-visszatéríttetési kérelemről megalapozott döntés nem hozható, írásbeli megkeresés útján kiegészítő adatokat, egyéb információkat kérhet a kérelmezőtől.
