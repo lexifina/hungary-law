@@ -8,9 +8,9 @@
 
 ## Szándéknyilatkozat a kollégiumok és a szakiskolák számára a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programja megvalósítására
 
-## (szakiskolánként külön szándéknyilatkozat készítendő)[^3]
+## (szakiskolánként külön szándéknyilatkozat készítendő)[^4]
 
-## Jelen szándéknyilatkozat[^4] aláírásával a ................................................................................................................................. kollégium és ................................................................................................................................................................ közoktatási intézmény vállalják, hogy partneri együttműködést alakítanak ki a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Program keretében a Programban részt vevő tanulók iskolai sikeressége érdekében.
+## Jelen szándéknyilatkozat[^5] aláírásával a ................................................................................................................................. kollégium és ................................................................................................................................................................ közoktatási intézmény vállalják, hogy partneri együttműködést alakítanak ki a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Program keretében a Programban részt vevő tanulók iskolai sikeressége érdekében.
 
 | Kollégium adatai | A Programban részt vevő kollégium neve: |  |
 
@@ -70,7 +70,7 @@
 
 |  | a Programban részt vevő tanulók tervezett létszáma a 12. évfolyamon3 (a 2010/2011. tanévben) (fő): |  |
 
-## A partneri együttműködés keretében a kollégium és a szakiskola a következő vállalásokat teszi (indikátorral mérendő állapotok és változásaik)[^5]
+## A partneri együttműködés keretében a kollégium és a szakiskola a következő vállalásokat teszi (indikátorral mérendő állapotok és változásaik)[^6]
 
 | Tevékenység* | Határidő, időtartam* | Induló érték (amennyiben van)* | Célérték* |
 
@@ -86,6 +86,6 @@
 
 11. számú melléklet a 17/2010. (III. 30.) OKM rendelethez
 
-[^3]: A szándéknyilatkozatot az igénylés részeként határidőre a 6. számú melléklettel együtt a kollégiumi fenntartó küldi meg.
-[^4]: Amennyiben egy többcélú intézmény keretein belül zajlik a tanulók iskolai és kollégiumi oktatása, nevelése, nem kell a szándéknyilatkozatot kitölteni.
-[^5]: A vállalásokat tartalmazó táblázatot az igénylés részeként határidőre a 9. számú melléklettel együtt a kollégiumi fenntartó küldi meg, a vállalásokat akkor is ki kell tölteni, ha többcélú intézmény keretein belül zajlik a tanulók iskolai és kollégiumi oktatása, nevelése.
+[^4]: A szándéknyilatkozatot az igénylés részeként határidőre a 6. számú melléklettel együtt a kollégiumi fenntartó küldi meg.
+[^5]: Amennyiben egy többcélú intézmény keretein belül zajlik a tanulók iskolai és kollégiumi oktatása, nevelése, nem kell a szándéknyilatkozatot kitölteni.
+[^6]: A vállalásokat tartalmazó táblázatot az igénylés részeként határidőre a 9. számú melléklettel együtt a kollégiumi fenntartó küldi meg, a vállalásokat akkor is ki kell tölteni, ha többcélú intézmény keretein belül zajlik a tanulók iskolai és kollégiumi oktatása, nevelése.

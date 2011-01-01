@@ -36,7 +36,7 @@ a jelen rendelet alapján támogatásban részesült fenntartó/intézmény jogu
 
 Fenntartó megnevezése:
 
-Alulírott ............................................................................................ polgármester/a fent nevezett önkormányzati társulás elnöke büntetőjogi felelősségem tudatában kijelentem, hogy a testület ................ számú határozatával az intézmény fenntartói jogát átadta/az intézményt jogutódlással megszüntette/az intézményt átszervezte[^6].
+Alulírott ............................................................................................ polgármester/a fent nevezett önkormányzati társulás elnöke büntetőjogi felelősségem tudatában kijelentem, hogy a testület ................ számú határozatával az intézmény fenntartói jogát átadta/az intézményt jogutódlással megszüntette/az intézményt átszervezte[^7].
 
 Fenntartói jog átadása esetén az átadást követően a fenntartói jogokat gyakorolja:
 
@@ -65,4 +65,4 @@ eljáró személy aláírása
 P. H.
 
 [^*]: Kitöltendő, ha az igénylés időpontjában az intézmény jogutóddal történő megszűnéséről már határozat született.
-[^6]: A megfelelőt kérjük aláhúzni.
+[^7]: A megfelelőt kérjük aláhúzni.
