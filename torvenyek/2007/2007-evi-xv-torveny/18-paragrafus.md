@@ -4,6 +4,6 @@
 
 (3)–(4)
 
-(5) E törvény hatálybalépésével egyidejűleg hatályát veszti a jogalkotásról szóló 1987. évi XI. törvény 51/A. §-a és az azt megelőző cím.
+(5)
 
 (6)
