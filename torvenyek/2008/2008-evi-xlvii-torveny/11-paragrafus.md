@@ -6,7 +6,7 @@ b) a jogsértésért felelős vállalkozás mérete a nettó árbevétel nagysá
 
 (2) A gazdasági verseny érdemi érintettsége minden egyéb körülményre tekintet nélkül fennáll, ha
 
-a) a kereskedelmi gyakorlat országos műsorszolgáltatást végző műsorszolgáltatón keresztül valósul meg,
+a) a kereskedelmi gyakorlat országos médiaszolgáltatást végző médiaszolgáltatón keresztül valósul meg
 
 b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három megyében terjesztett napilap útján valósul meg,
 

@@ -2,7 +2,7 @@
 
 10. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (2) és a (3) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a Pénzügyi Szervezetek Állami Felügyelete jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény (a továbbiakban: Psztv.) alapján a Pénzügyi Szervezetek Állami Felügyelete felügyel.
+(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a Pénzügyi Szervezetek Állami Felügyelete jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény (a továbbiakban: Psztv.) alapján a Pénzügyi Szervezetek Állami Felügyelete felügyel.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Gazdasági Versenyhivatal jár el, ha a kereskedelmi gyakorlat a gazdasági verseny érdemi befolyásolására alkalmas.
 

@@ -4,4 +4,4 @@
 
 (3) A Tpvt. 75. §-a szerinti kötelezettségvállalás alkalmazásának akkor is helye lehet, ha az ügyfél a vizsgált magatartással időközben felhagyott. Ilyen esetben a magatartás megismétlésétől való tartózkodásra lehet kötelezettséget vállalni.
 
-(4) A Tpvt. 88/B. §-ának (1)–(6) bekezdését a 15. § (1) bekezdése szerinti perekben is megfelelően alkalmazni kell.
+(4)
