@@ -4,7 +4,7 @@ a) előkészíti a nemzetbiztonsági szolgálatok működésével, feladataival 
 
 b) biztosítja a Magyar Köztársaság érdekeinek érvényesítésével és védelmével kapcsolatos nemzetbiztonsági feladatok végrehajtását;
 
-c) rendeletek és az állami irányítás egyéb jogi eszközei által szabályozza a nemzetbiztonsági szolgálatok tevékenységét és működését;
+c) rendeletek és normatív utasítások által szabályozza a nemzetbiztonsági szolgálatok tevékenységét és működését;
 
 d) kapcsolatot tart fenn a nemzetbiztonsági szolgálatok nemzetközi együttműködésének elősegítése érdekében.
 
@@ -48,6 +48,6 @@ p) gyakorolja a törvényben, kormányrendeletben vagy kormányhatározatban sz�
 
 (5) A miniszter kivizsgálja a nemzetbiztonsági szolgálatok tevékenységével kapcsolatos panaszokat, a vizsgálat eredményéről és a megtett intézkedésekről 30 napon belül tájékoztatja a panaszost. Ez a határidő egy esetben 30 nappal meghosszabbítható.
 
-(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntéselőkészítést támogató munkát.
+(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat tekintetében, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal tekintetében irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntéselőkészítést támogató munkát.
 
-(7) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat irányításáért felelős miniszter gondoskodik e szervek belső bűnmegelőzési ellenőrzéséről.
+(7) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat belső bűnmegelőzési és bűnfelderítési ellenőrzését a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.

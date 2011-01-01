@@ -18,4 +18,4 @@ c) mindazokat az eljárásokat, amelyeket a költségvetés alapján gazdálkod�
 
 d) a nemzetbiztonsági szolgálatok védelemre jogosult vezetőinek körét, a védelmi intézkedések részletes szabályait.
 
-(3) Felhatalmazást kap az illetékes miniszter, hogy – a miniszterrel egyetértésben – rendeletben megállapítsa azon munkaköröket, amelyek – a 2. számú melléklet 18. pontja alapján – fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét.
+(3) Felhatalmazást kap az illetékes miniszter, hogy – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter egyetértésével kiadott – rendeletben megállapítsa azon munkaköröket, amelyek – a 2. számú melléklet 18. pontja alapján – fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét.

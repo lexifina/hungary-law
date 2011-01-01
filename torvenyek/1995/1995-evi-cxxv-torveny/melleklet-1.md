@@ -26,4 +26,6 @@ A védelem alá eső tisztségek:
 
 12. a legfőbb ügyész által az 54. § alapján kijelölt ügyész,
 
-13. a Magyar Nemzeti Bank elnöke és alelnökei.
+13. a Magyar Nemzeti Bank elnöke és alelnökei,
+
+14. a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei.

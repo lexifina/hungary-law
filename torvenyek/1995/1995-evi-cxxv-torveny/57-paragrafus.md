@@ -1,4 +1,4 @@
-57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, a Alkotmányvédelmi Hivatal, a Katonai Felderítő Hivatal, a Katonai Biztonsági Hivatal és – a 8. § (1) bekezdésének f), valamint a 9. § d) pontjában meghatározott feladat ellátása tekintetében – a Nemzetbiztonsági Szakszolgálat főigazgatója nyújthat be.
+57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, az Alkotmányvédelmi Hivatal, a Katonai Felderítő Hivatal, a Katonai Biztonsági Hivatal és – a 8. § (1) bekezdésének f) pontjában meghatározott feladat ellátása tekintetében – a Nemzetbiztonsági Szakszolgálat főigazgatója nyújthat be.
 
 (2) Az előterjesztésnek tartalmaznia kell
 

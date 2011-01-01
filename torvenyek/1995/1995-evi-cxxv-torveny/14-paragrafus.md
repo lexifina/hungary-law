@@ -10,7 +10,7 @@
 
 a) tájékoztatást kérhet a minisztertől és a miniszter egyidejű értesítése mellett a nemzetbiztonsági szolgálatok főigazgatóitól az ország nemzetbiztonsági helyzetéről, a nemzetbiztonsági szolgálatok működéséről és tevékenységéről;
 
-b) tájékoztatást kérhet az igazságügyért felelős minisztertől, a polgári nemzetbiztonsági szolgálatokat irányító minisztertől, a honvédelemért felelős minisztertől és a főigazgatóktól az 56. §-ban és az 59. §-ban meghatározott engedélyezési eljárásról;
+b) tájékoztatást kérhet az igazságügyért felelős minisztertől, a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztertől, a polgári hírszerzési tevékenység irányításáért felelős minisztertől, a honvédelemért felelős minisztertől és a főigazgatóktól az 56. §-ban és az 59. §-ban meghatározott engedélyezési eljárásról;
 
 c) kivizsgálhatja a nemzetbiztonsági szolgálatok jogellenes tevékenységére utaló panaszokat, ha a panaszos a 11. § (5) bekezdésében meghatározott vizsgálat eredményét nem fogadja el, és a panasz súlya a bizottsági tagok legalább egyharmadának szavazata szerint a vizsgálatot indokolttá teszi, a Bizottság megállapításairól tájékoztatja az érintettet;
 

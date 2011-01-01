@@ -4,7 +4,7 @@
 
 a) az Információs Hivatal,
 
-b) a Alkotmányvédelmi Hivatal,
+b) az Alkotmányvédelmi Hivatal,
 
 c) a Katonai Felderítő Hivatal,
 

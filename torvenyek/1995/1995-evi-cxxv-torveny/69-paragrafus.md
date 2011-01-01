@@ -76,4 +76,8 @@ tekintetében.
 
 (13) A minősített adatot kezelő szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének f) és g) pontjában, valamint a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
 
-(14) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
+(14) A Pénzügyi Szervezetek Állami Felügyeletének elnöke kezdeményezi az ellenőrzést az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek tekintetében.
+
+(15) Az (1)–(14) bekezdésben meghatározott kezdeményezésre jogosult kezdeményezi az ellenőrzést az általa olyan munkakörbe kinevezett személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, amennyiben a kezdeményezésre jogosult az (1)–(14) bekezdés alapján nem állapítható meg.
+
+(16) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.

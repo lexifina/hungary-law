@@ -1,0 +1,3 @@
+71/D. § (1) Az ellenőrzés alá vont személy a 71. § (4) bekezdésében foglalt intézkedés, az ellenőrzés szüneteltetése, annak megszüntetése, valamint az ellenőrzésnek a 71/C. § szerinti megszüntetése ellen a miniszternél az értesítés kézhezvételétől számított 8 napon belül panasszal élhet. A panasznak a jogorvoslattal érintett intézkedésre halasztó hatálya nincs.
+
+(2) A miniszter a panaszt 15 napon belül kivizsgálja, annak eredményéről a panaszost és a kezdeményezőt, valamint az eljáró nemzetbiztonsági szolgálat vezetőjét írásban tájékoztatja. A miniszter döntése ellen további jogorvoslatnak nincs helye.

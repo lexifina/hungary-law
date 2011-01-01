@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 1995-125-00-00.23 |
 | 2010-05-29 | 2010. évi XLII. törvény | 1995-125-00-00.24 |
 | 2010-08-19 | 2010. évi LXXXVI. törvény | 1995-125-00-00.25 |
+| 2011-01-01 | 2010. évi CXLVII. törvény | 1995-125-00-00.26 |

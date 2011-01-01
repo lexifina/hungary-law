@@ -14,4 +14,6 @@ f) biztosítja a Honvéd Vezérkar hadászati-hadműveleti tervező munkájához
 
 g) ellátja a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar katonai szervek és létesítmények (intézmények) biztonsági védelmét;
 
-h) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait.
+h) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
+
+i) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat.
