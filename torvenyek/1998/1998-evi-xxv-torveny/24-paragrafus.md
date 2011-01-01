@@ -126,6 +126,18 @@ N-metil-1-(1,3-benzo-dioxol-5-il)-2-bután-amin°
 
 |
 
+mephedrone**
+
+(mefedron)
+
+|
+
+(RS)-1-(4-methylphenyl)-2-methylaminopropan-1-one,
+
+4-methylmethcathinone, 4-methylephedrone, 4-MMC
+
+|
+
 N-Me-1-PEA
 
 |
@@ -232,11 +244,13 @@ butenyl)-2,6-methano-3-benzazocin-8-ol
 
 |
 
-Poppy straw(mákszalma)
+Poppy straw
+
+(mákszalma)
 
 |
 
-A máknövény minden része a magok kivételével
+A levágott máknövény minden része; azonban a magok a tokból való kifejtés és tisztítás után nem minősülnek ellenőrzött szernek
 
 – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
