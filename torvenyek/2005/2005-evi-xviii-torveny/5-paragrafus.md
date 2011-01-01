@@ -4,9 +4,9 @@
 
 (3) A Hivatal eljárásáért igazgatási-szolgáltatási díjat kell fizetni.
 
-(4) A Hivatal az eljárás megindításáról az ügyfelet 10 munkanapon belül értesíti.
+(4) A Hivatal az eljárás megindításáról az ügyfelet tizenöt napon belül értesíti.
 
-(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezésétől számított 15 munkanapon belül hiánypótlásra hívja fel.
+(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított húsz napon belül hiánypótlásra hívja fel.
 
 (6)–(7)
 

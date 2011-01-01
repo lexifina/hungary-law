@@ -32,7 +32,7 @@ a) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a H
 
 b) az adópolitikáért felelős miniszterrel egyetértésben ellátja a távhőtermeléshez kapcsolódó, törvény által hatáskörébe utalt árhatósági feladatokat (61. §);
 
-c) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
 d) az államháztartásért felelős miniszterrel egyetértésben meghatározza az 57. § (3) bekezdése szerinti szempontokat,
 

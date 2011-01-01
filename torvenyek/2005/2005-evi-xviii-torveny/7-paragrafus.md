@@ -18,4 +18,4 @@ g) határozatában elrendelheti – az 51. § (8) bekezdésében foglalt esetekb
 
 h)
 
-(2) Az önkormányzat jegyzőjének eljárásában az ügyintézés határideje 45 munkanap, engedélyezési eljárások esetében három hónap. Az önkormányzat jegyzőjének határozata ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének határozatát jogosult megváltoztatni.
+(2) Az önkormányzat jegyzőjének eljárásában az ügyintézés határideje két hónap, engedélyezési eljárások esetében három hónap. Az önkormányzat jegyzőjének határozata ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének határozatát jogosult megváltoztatni.

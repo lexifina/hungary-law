@@ -2,7 +2,7 @@
 
 (2) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezésében köteles részletesen és teljes körűen alátámasztani, hogy – az 57. § (3) bekezdésében meghatározottakra tekintettel – az adott díj megváltoztatását mely körülmények és milyen mértékben indokolják.
 
-(3) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezést a Hivatalnak megküldi, amely közigazgatási hatósági eljárás keretében 22 munkanapon belül dönt arról, hogy a díj a távhőszolgáltató által alátámasztott megváltozása esetén megfelel-e az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. A Hivatal eljárásáért igazgatási-szolgáltatási díjat kell fizetni. A Hivatal a határozatát nyilvánosan közzéteszi.
+(3) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezést a Hivatalnak megküldi, amely közigazgatási hatósági eljárás keretében harminc napon belül dönt arról, hogy a díj a távhőszolgáltató által alátámasztott megváltozása esetén megfelel-e az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. A Hivatal eljárásáért igazgatási-szolgáltatási díjat kell fizetni. A Hivatal a határozatát nyilvánosan közzéteszi.
 
 (4) A (3) bekezdésben meghatározott eljárás során ügyfélnek minősül
 
