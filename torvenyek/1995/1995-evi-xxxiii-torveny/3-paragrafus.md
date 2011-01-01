@@ -2,4 +2,4 @@
 
 a) a bejelentővel vagy jogelődjével szemben elkövetett jogsértés következménye, vagy
 
-b) annak eredménye, hogy a bejelentő vagy jogelődje a találmányt a Magyar Szabadalmi Hivatal elnökének a Magyar Közlönyben közzétett közleményében megjelölt kiállításon bemutatta.
+b) annak eredménye, hogy a bejelentő vagy jogelődje a találmányt a Szellemi Tulajdon Nemzeti Hivatala elnökének a Magyar Közlönyben közzétett közleményében megjelölt kiállításon bemutatta.

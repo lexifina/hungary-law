@@ -4,6 +4,6 @@
 
 (3) Az (1)–(2) bekezdésekben nem szabályozott kérdésekben a kényszerengedélynek az (1) bekezdés szerinti módosítására egyebekben a 83/F. § rendelkezéseit kell megfelelően alkalmazni, a következő eltérésekkel:
 
-a) a Magyar Szabadalmi Hivatal a kényszerengedély módosításáról vagy a kérelem elutasításáról határoz;
+a) a Szellemi Tulajdon Nemzeti Hivatala a kényszerengedély módosításáról vagy a kérelem elutasításáról határoz;
 
-b) a Magyar Szabadalmi Hivatal az írásbeli előkészítést követően csak akkor tart szóbeli tárgyalást, ha a tényállás tisztázásához szükség van a felek együttes meghallgatására, vagy bármelyik fél ezt kellő időben kéri.
+b) a Szellemi Tulajdon Nemzeti Hivatala az írásbeli előkészítést követően csak akkor tart szóbeli tárgyalást, ha a tényállás tisztázásához szükség van a felek együttes meghallgatására, vagy bármelyik fél ezt kellő időben kéri.

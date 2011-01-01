@@ -1,6 +1,6 @@
 ## Érdemi vizsgálat
 
-74. § (1) A Magyar Szabadalmi Hivatal a bejelentő külön kérelmére végzi el a közzétett szabadalmi bejelentés érdemi vizsgálatát.
+74. § (1) A Szellemi Tulajdon Nemzeti Hivatala a bejelentő külön kérelmére végzi el a közzétett szabadalmi bejelentés érdemi vizsgálatát.
 
 (2) Az érdemi vizsgálat arra terjed ki, hogy a találmány
 

@@ -8,10 +8,10 @@
 
 (4) Az eljárás folytatása iránti kérelem előterjesztésével egyidejűleg pótolni kell az elmulasztott cselekményt is.
 
-(5) Ha a Magyar Szabadalmi Hivatal az eljárás folytatása iránti kérelemnek helyt ad, a mulasztó által pótolt cselekményt az elmulasztott határidőn belül teljesítettnek kell tekinteni, és a mulasztás folytán hozott döntést – a szükséghez képest – részben vagy egészben vissza kell vonni vagy módosítani kell.
+(5) Ha a Szellemi Tulajdon Nemzeti Hivatala az eljárás folytatása iránti kérelemnek helyt ad, a mulasztó által pótolt cselekményt az elmulasztott határidőn belül teljesítettnek kell tekinteni, és a mulasztás folytán hozott döntést – a szükséghez képest – részben vagy egészben vissza kell vonni vagy módosítani kell.
 
 (6) Az eljárás folytatása iránt nem terjeszthető elő kérelem a megsemmisítési eljárásban, a nemleges megállapítási eljárásban és a 83/E–83/G. §-okban szabályozott eljárásokban.
 
 (7) A szabadalmi eljárásokban nem érvényesül a Ket.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók a Ket.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
 
-(8) Szabadalmi ügyekben a postán küldött beadvány előterjesztési ideje a Magyar Szabadalmi Hivatalhoz való beérkezés napja. A Magyar Szabadalmi Hivatal által kitűzött határidőhöz képest elkésetten beérkező beadványt azonban határidőben beérkezettnek kell tekinteni, ha azt ajánlott küldeményként a határidő lejárta előtt postára adták, kivéve, ha a beadvány a határidő lejártát követő két hónap eltelte után érkezett be.
+(8) Szabadalmi ügyekben a postán küldött beadvány előterjesztési ideje a Szellemi Tulajdon Nemzeti Hivatalához való beérkezés napja. A Szellemi Tulajdon Nemzeti Hivatala által kitűzött határidőhöz képest elkésetten beérkező beadványt azonban határidőben beérkezettnek kell tekinteni, ha azt ajánlott küldeményként a határidő lejárta előtt postára adták, kivéve, ha a beadvány a határidő lejártát követő két hónap eltelte után érkezett be.

@@ -14,7 +14,7 @@ c) a bejelentő azonos tárgykörű korábbi, folyamatban lévő szabadalmi beje
 
 (4) Az uniós elsőbbséget megalapozó okiratot (az elsőbbségi iratot) a legkorábbi igényelt elsőbbség napjától számított tizenhat hónapon belül kell benyújtani.
 
-(5) Az elsőbbségi iratot – a külföldi bejelentés másolatát – benyújtottnak kell tekinteni, ha az a Magyar Szabadalmi Hivatal számára egyéb úton hozzáférhető, és ha nemzetközi szerződés vagy a Magyar Szabadalmi Hivatal elnökének a nemzetközi együttműködésre figyelemmel hozott és a Magyar Szabadalmi Hivatal hivatalos lapjában közzétett döntése alapján – külön benyújtása nélkül is – a szabadalmi bejelentés mellékletének minősül.
+(5) Az elsőbbségi iratot – a külföldi bejelentés másolatát – benyújtottnak kell tekinteni, ha az a Szellemi Tulajdon Nemzeti Hivatala számára egyéb úton hozzáférhető, és ha nemzetközi szerződés vagy a Szellemi Tulajdon Nemzeti Hivatala elnökének a nemzetközi együttműködésre figyelemmel hozott és a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában közzétett döntése alapján – külön benyújtása nélkül is – a szabadalmi bejelentés mellékletének minősül.
 
 (6) A belső elsőbbséget a szabadalmi bejelentés benyújtásától számított négy hónapon belül kell igényelni. Belső elsőbbség érvényesítése esetén a korábbi szabadalmi bejelentést visszavontnak kell tekinteni.
 
@@ -22,4 +22,4 @@ c) a bejelentő azonos tárgykörű korábbi, folyamatban lévő szabadalmi beje
 
 (8) Az egyes igényelt elsőbbségek a szabadalmi bejelentésnek csak azokra a részeire terjednek ki, amelyeket az adott elsőbbséget megalapozó bejelentés a 60. § (1) és (2) bekezdésének megfelelően feltár.
 
-(9) Az uniós elsőbbség – a Párizsi Uniós Egyezményben meghatározott egyéb feltételekkel – akkor is igényelhető, ha a külföldi bejelentést a Kereskedelmi Világszervezetnek a Párizsi Uniós Egyezmény hatálya alá nem tartozó Tagjában vagy – viszonosság esetén – más államban tették. A viszonosság kérdésében a Magyar Szabadalmi Hivatal elnökének állásfoglalása az irányadó.
+(9) Az uniós elsőbbség – a Párizsi Uniós Egyezményben meghatározott egyéb feltételekkel – akkor is igényelhető, ha a külföldi bejelentést a Kereskedelmi Világszervezetnek a Párizsi Uniós Egyezmény hatálya alá nem tartozó Tagjában vagy – viszonosság esetén – más államban tették. A viszonosság kérdésében a Szellemi Tulajdon Nemzeti Hivatala elnökének állásfoglalása az irányadó.

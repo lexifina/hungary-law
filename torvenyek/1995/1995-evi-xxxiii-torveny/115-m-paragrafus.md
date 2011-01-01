@@ -1,6 +1,6 @@
 ## XIV/D. Fejezet
 
-## A Magyar Szabadalmi Hivatal előtti iparjogvédelmi eljárások igazgatási szolgáltatási díjaira, valamint az iparjogvédelmi oltalom fenntartásáért vagy megújításáért fizetendő díjakra vonatkozó közös szabályok
+## A Szellemi Tulajdon Nemzeti Hivatala előtti iparjogvédelmi eljárások igazgatási szolgáltatási díjaira, valamint az iparjogvédelmi oltalom fenntartásáért vagy megújításáért fizetendő díjakra vonatkozó közös szabályok
 
 ## A fenntartási díjak megfizetése és az újra érvénybe helyezési kérelem díja
 

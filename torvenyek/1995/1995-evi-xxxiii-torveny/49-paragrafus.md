@@ -8,7 +8,7 @@
 
 (4) Határidő elmulasztása esetén az igazolási kérelem előterjesztésével egyidejűleg pótolni kell az elmulasztott cselekményt is.
 
-(5) Ha a Magyar Szabadalmi Hivatal az igazolási kérelemnek helyt ad, a mulasztó által pótolt cselekményt az elmulasztott határidőn belül teljesítettnek kell tekinteni, az elmulasztott határnapon megtartott tárgyalást pedig a szükséges keretben meg kell ismételni. A mulasztás folytán hozott döntést – a szükséghez képest, illetve az új tárgyalás eredményétől függően – részben vagy egészben vissza kell vonni, módosítani kell vagy hatályban kell tartani.
+(5) Ha a Szellemi Tulajdon Nemzeti Hivatala az igazolási kérelemnek helyt ad, a mulasztó által pótolt cselekményt az elmulasztott határidőn belül teljesítettnek kell tekinteni, az elmulasztott határnapon megtartott tárgyalást pedig a szükséges keretben meg kell ismételni. A mulasztás folytán hozott döntést – a szükséghez képest, illetve az új tárgyalás eredményétől függően – részben vagy egészben vissza kell vonni, módosítani kell vagy hatályban kell tartani.
 
 (6) Az igazolás ki van zárva a következő határidők elmulasztása esetén:
 

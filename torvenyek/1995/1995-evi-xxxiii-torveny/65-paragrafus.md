@@ -1,6 +1,6 @@
 ## A bejelentés benyújtását követő vizsgálat
 
-65. § A Magyar Szabadalmi Hivatal a szabadalmi bejelentés benyújtását követően megvizsgálja, hogy
+65. § A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentés benyújtását követően megvizsgálja, hogy
 
 a) a bejelentés megfelel-e a bejelentési nap elismeréséhez előírt feltételeknek (58. §),
 

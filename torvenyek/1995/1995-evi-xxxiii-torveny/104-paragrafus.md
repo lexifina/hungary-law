@@ -12,7 +12,7 @@ b) az előhasználati és a továbbhasználati jog, továbbá a 84/K. § (6) bek
 
 c) a találmány- vagy szabadalombitorlás miatt indított perek.
 
-(2) Szabadalombitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a kérelmező különös méltánylást érdemlő jogvédelméhez szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a találmány szabadalmi oltalom alatt áll, és ő a szabadalmas vagy olyan hasznosító, aki jogosult saját nevében fellépni a bitorlással szemben. Az ellenkező valószínűsítése során figyelembe kell venni az eset összes körülményeit, különösen azt, hogy a szabadalmat a Magyar Szabadalmi Hivatal vagy az első fokon eljáró bíróság megsemmisítette, vagy hogy a Magyar Köztársaságban is hatályos európai szabadalmat az Európai Szabadalmi Hivatal felszólalási osztálya megvonta, illetve azt az Európai Szabadalmi Szervezet másik tagállamában megsemmisítették. A kérelmező különös méltánylást érdemlő jogvédelmének szükségességét megalapozó vélelemre vonatkozó rendelkezés nem alkalmazható, ha a szabadalombitorlás megkezdése óta hat hónap, illetve a kérelmezőnek a bitorlásról és a bitorló személyéről való tudomásszerzése óta hatvan nap már eltelt.
+(2) Szabadalombitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a kérelmező különös méltánylást érdemlő jogvédelméhez szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a találmány szabadalmi oltalom alatt áll, és ő a szabadalmas vagy olyan hasznosító, aki jogosult saját nevében fellépni a bitorlással szemben. Az ellenkező valószínűsítése során figyelembe kell venni az eset összes körülményeit, különösen azt, hogy a szabadalmat a Szellemi Tulajdon Nemzeti Hivatala vagy az első fokon eljáró bíróság megsemmisítette, vagy hogy a Magyar Köztársaságban is hatályos európai szabadalmat az Európai Szabadalmi Hivatal felszólalási osztálya megvonta, illetve azt az Európai Szabadalmi Szervezet másik tagállamában megsemmisítették. A kérelmező különös méltánylást érdemlő jogvédelmének szükségességét megalapozó vélelemre vonatkozó rendelkezés nem alkalmazható, ha a szabadalombitorlás megkezdése óta hat hónap, illetve a kérelmezőnek a bitorlásról és a bitorló személyéről való tudomásszerzése óta hatvan nap már eltelt.
 
 (3) Az ideiglenes intézkedéssel okozott hátrány és az azzal elérhető előnyök mérlegelése során figyelembe kell venni azt is, ha az intézkedés nyilvánvalóan és jelentős mértékben sérti a közérdeket, illetve harmadik személyek jogos érdekeit.
 
@@ -48,6 +48,10 @@ b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában
 
 (14) Ha az (5) bekezdés c) pontjában, a (6) bekezdésben és a (13) bekezdésben meghatározott esetekben a biztosíték összegéből való kielégítésre jogosult fél igényét az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező határozat, illetve az ítélet (permegszüntető végzés) jogerőre emelkedésétől számított három hónapon belül nem érvényesíti, a letevő a biztosíték visszaadását kérheti a bíróságtól.
 
-(15) Az (1) bekezdésben nem említett, szabadalommal kapcsolatos minden más jogvitás ügy a megyei bíróság (Fővárosi Bíróság) hatáskörébe tartozik.
+(15) Ha az európai szabadalom szövegének magyar nyelvű fordítását a szabadalmas nem nyújtotta be a 84/H. § alapján, és nem bocsátotta – a 84/G. § (2) bekezdésében foglaltak szerint – a feltételezett bitorló rendelkezésére annak kérésére sem, azt úgy kell tekinteni, hogy az alperes a perre okot nem adott.
 
-(16) Az (1) és a (15) bekezdésben említett perekben egyebekben a Pp. általános szabályait kell alkalmazni az e törvény 89. és 94. §-ában, valamint 95. §-ának (3) bekezdésében foglalt eltérésekkel.
+(16) Európai szabadalom esetében a keresetlevélhez – hiánypótlás terhe mellett – csatolni kell a szabadalom szövegének magyar nyelvű fordítását. E fordítás költségét a szabadalmas viseli.
+
+(17) Az (1) bekezdésben nem említett, szabadalommal kapcsolatos minden más jogvitás ügy a megyei bíróság (Fővárosi Bíróság) hatáskörébe tartozik.
+
+(18) Az (1) és a (17) bekezdésben említett perekben egyebekben a Pp. általános szabályait kell alkalmazni az e törvény 89. és 94. §-ában, valamint 95. §-ának (3) bekezdésében foglalt eltérésekkel.

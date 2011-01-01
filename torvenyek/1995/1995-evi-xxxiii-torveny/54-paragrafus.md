@@ -4,7 +4,7 @@
 
 ## Bejelentési nyilvántartás, szabadalmi lajstrom
 
-54. § (1) A Magyar Szabadalmi Hivatal a szabadalmi bejelentésekről nyilvántartást, a szabadalmakról lajstromot vezet, amelyekbe be kell jegyezni a szabadalmi jogokkal kapcsolatos minden tényt és körülményt. Az európai szabadalmakat (X/A. fejezet) a lajstrom külön részében kell feltüntetni.
+54. § (1) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentésekről nyilvántartást, a szabadalmakról lajstromot vezet, amelyekbe be kell jegyezni a szabadalmi jogokkal kapcsolatos minden tényt és körülményt. Az európai szabadalmakat (X/A. fejezet) a lajstrom külön részében kell feltüntetni.
 
 (2) A szabadalmi lajstromban fel kell tüntetni különösen
 

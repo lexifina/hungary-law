@@ -1,6 +1,6 @@
 ## A bejelentés napja
 
-114/J. § (1) A növényfajta-oltalmi bejelentés napja az a nap, amelyen a Magyar Szabadalmi Hivatalhoz beérkezett bejelentés legalább a következőket tartalmazza:
+114/J. § (1) A növényfajta-oltalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 a) utalást a növényfajta-oltalom iránti igényre;
 

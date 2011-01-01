@@ -1,6 +1,6 @@
 ## Alaki vizsgálat
 
-68. § (1) Ha a szabadalmi bejelentés megfelel a 65. § alapján vizsgált feltételeknek, a Magyar Szabadalmi Hivatal megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 57. § (2) és (3) bekezdésében meghatározott alaki követelményeket.
+68. § (1) Ha a szabadalmi bejelentés megfelel a 65. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 57. § (2) és (3) bekezdésében meghatározott alaki követelményeket.
 
 (2) Ha a bejelentés nem felel meg az (1) bekezdés alapján vizsgált követelményeknek, a bejelentőt fel kell hívni a hiányok pótlására.
 

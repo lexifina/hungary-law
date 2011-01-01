@@ -4,7 +4,7 @@
 
 ## A szabadalmi bejelentés benyújtása és kellékei
 
-57. § (1) A szabadalom megadására irányuló eljárás a Magyar Szabadalmi Hivatalhoz benyújtott bejelentéssel indul meg.
+57. § (1) A szabadalom megadására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához benyújtott bejelentéssel indul meg.
 
 (2) A szabadalmi bejelentésnek bejelentési kérelmet, szabadalmi leírást igényponttal, kivonatot, továbbá — a szükséghez képest — rajzot és egyéb mellékletet kell tartalmaznia.
 

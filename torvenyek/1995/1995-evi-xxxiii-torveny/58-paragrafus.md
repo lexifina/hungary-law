@@ -1,6 +1,6 @@
 ## A bejelentés napja
 
-58. § (1) A szabadalmi bejelentés napja az a nap, amelyen a Magyar Szabadalmi Hivatalhoz beérkezett bejelentés legalább a következőket tartalmazza:
+58. § (1) A szabadalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 a) utalást a szabadalom iránti igényre,
 

@@ -1,14 +1,14 @@
 ## HATODIK RÉSZ
 
-## A MAGYAR SZABADALMI HIVATALRA VONATKOZÓ RENDELKEZÉSEK
+## A SZELLEMI TULAJDON NEMZETI HIVATALÁRA VONATKOZÓ RENDELKEZÉSEK
 
 ## XIV/C. Fejezet
 
-## A MAGYAR SZABADALMI HIVATAL
+## A SZELLEMI TULAJDON NEMZETI HIVATALA
 
-## A Magyar Szabadalmi Hivatal jogállása
+## A Szellemi Tulajdon Nemzeti Hivatalának jogállása
 
-115/D. § (1) A Magyar Szabadalmi Hivatal (a továbbiakban e fejezeten belül: Hivatal) a szellemi tulajdon védelméért felelős kormányhivatal.
+115/D. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban e fejezeten belül: Hivatal) a szellemi tulajdon védelméért felelős kormányhivatal.
 
 (2) A Hivatal elnökét a miniszterelnök, két elnökhelyettesét – az elnök javaslatára – a felügyeletet gyakorló miniszter (a továbbiakban: miniszter) nevezi ki és menti fel.
 

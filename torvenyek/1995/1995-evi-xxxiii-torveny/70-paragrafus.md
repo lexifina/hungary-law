@@ -4,6 +4,6 @@
 
 (2) A bejelentő kérelmére korábbi időpontban is közzétehető a szabadalmi bejelentés, ha megfelel a 65. § alapján vizsgált feltételeknek.
 
-(3) A közzétételre az 56. § b) pontjában meghatározott hatósági tájékoztatásnak a Magyar Szabadalmi Hivatal hivatalos lapjában történő közlésével kerül sor.
+(3) A közzétételre az 56. § b) pontjában meghatározott hatósági tájékoztatásnak a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában történő közlésével kerül sor.
 
 (4) A közzétételről a bejelentőt értesíteni kell.

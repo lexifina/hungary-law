@@ -1,4 +1,4 @@
-83/C. § (1) A Magyar Szabadalmi Hivatal a kényszerengedély iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a szabadalmast, majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a kényszerengedély megadásáról vagy a kérelem elutasításáról. Az eljárást befejező végzés tárgyaláson kívül is meghozható.
+83/C. § (1) A Szellemi Tulajdon Nemzeti Hivatala a kényszerengedély iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a szabadalmast, majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a kényszerengedély megadásáról vagy a kérelem elutasításáról. Az eljárást befejező végzés tárgyaláson kívül is meghozható.
 
 (2) A kényszerengedély megadásáról szóló határozatnak tartalmaznia kell
 
@@ -14,4 +14,4 @@ e) figyelmeztetést arra vonatkozóan, hogy a kényszerengedélyes könyveinek �
 
 f) a szabadalmasnak fizetendő díjat.
 
-(3) A kényszerengedély megadását be kell jegyezni a szabadalmi lajstromba, és arról hatósági tájékoztatást kell közölni a Magyar Szabadalmi Hivatal hivatalos lapjában.
+(3) A kényszerengedély megadását be kell jegyezni a szabadalmi lajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
