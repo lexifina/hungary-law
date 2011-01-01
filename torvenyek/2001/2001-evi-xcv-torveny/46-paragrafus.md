@@ -34,11 +34,11 @@ l) az egészségügyi intézményeknél
 
 (4) Ha az állomány tagját állami vezetővé nevezik ki, rendfokozatát nem használhatja és az állami vezetőkre vonatkozó illetményrendszer szerinti illetményre jogosult. Az állomány kinevezett tagjának szolgálati viszonyát folyamatosnak kell tekinteni. Ha állami vezetői beosztásából felmentik, akkor a 69. § (2) bekezdésben leírtakat kell alkalmazni.
 
-(5) A miniszter által vezetett minisztériumban, valamint hivatalainál, ügynökségeinél és háttérintézményeinél a megüresedett szolgálati beosztás katonával történő feltöltésére kizárólag akkor kerülhet sor, ha a beosztás elemzése alapján a feladatok ellátásához katonai-szakmai ismeretek szükségesek.
+(5)
 
 (6) Katonai bíró és katonai ügyész a (3) bekezdés g) pontja alapján csak az igazságügyért felelős miniszter által vezetett minisztériumban teljesíthet szolgálatot.
 
-(7) A katonai-szakmai ismeretek (5) bekezdés szerinti szükségessége vonatkozásában az ország fegyveres védelmére történő felkészítéséből, a béke- és minősített időszaki honvédségi feladatrendszerből, különösen a rendeltetés szerinti alkalmazás és a szövetségi kötelezettségek sajátosságaiból következő, különleges ismereteken, jártasságokon, készségeken és képességeken, szakmai gyakorlaton, tapasztalaton alapuló követelményeket, illetve a feladatellátás függelmi rendszerhez és fokozott felelősséghez kötöttségét kell érvényesíteni.
+(7)
 
 (8) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, katonai feladat végrehajtása közben meghatározott egészségügyi tevékenységet a harctéri egészségügyi katonán túl harctéri életmentő katona is végezhet
 

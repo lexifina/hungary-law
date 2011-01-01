@@ -40,6 +40,8 @@ b) akit a bíróság jogerősen felfüggesztett szabadságvesztésre ítélt és
 
 c) aki magatartásával a Honvédség működéséhez szükséges közbizalom fenntartását súlyosan veszélyezteti.
 
+(6a) Méltatlanság megállapítása esetén a hivatásos állomány volt tagja egyenruhát nem viselhet.
+
 (7) A miniszter a (6) bekezdés a) és b) pontja esetén a méltatlanság megállapításától eltekinthet, ha a szabadságvesztés mértéke az 1 évet nem haladja meg.
 
 (8) A munkáltatói jogkört gyakorló elöljáró a felmentést írásban köteles megindokolni. Ebből világosan ki kell tűnnie, hogy a felmentés indoka valós és okszerű.

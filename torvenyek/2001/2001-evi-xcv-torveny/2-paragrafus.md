@@ -96,7 +96,7 @@ j) külföldi állomásozás.
 
 (37) A polgári perrendtartásról szóló 1952. évi III. törvény 349/B. §-ának (3) bekezdése szerinti elsőfokú döntés: a 217. § (1) bekezdése szerinti döntés.
 
-(38) Az önkéntes tartalékos állomány tagja: az a honvéd (rendfokozat nélküli), tisztesi, tiszthelyettesi, tiszti rendfokozatú katona, aki meghatározott ideig – szerződés alapján – önként vállalja a katonai szolgálatra rendelkezésre állást és a tényleges katonai szolgálatot.
+(38) Az önkéntes tartalékos állomány tagja: az a honvéd (rendfokozat nélküli), tisztesi, tiszthelyettesi, tiszti rendfokozatú katona, aki meghatározott ideig – szerződés alapján – önkéntes műveleti tartalékosként vagy önkéntes védelmi tartalékosként vállalja a katonai szolgálatra rendelkezésre állást és a tényleges katonai szolgálatot.
 
 (39) Készenléti jellegű beosztás: azok a külön jogszabályban meghatározott beosztások, ahol a beosztási feladat nem kíván állandó szolgálatteljesítést a szolgálat teljes időtartama alatt, hanem olyan igénybevétellel jár, amely részben lehetővé teszi az állomány tagjának pihentetését.
 

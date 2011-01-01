@@ -42,7 +42,9 @@ t) a jogszabályban meghatározott beosztásban szolgálatot teljesítő egészs
 
 u) díszelgési pótlék havonta 50%;
 
-v) zenekari pótlék havonta 50%.
+v) zenekari pótlék havonta 50%;
+
+w) önkéntes műveleti tartalékos legénységi állomány külön pótléka a beosztásra való felkészítés idejére havonta 36%.
 
 (2) Az (1) bekezdés h) pontja szerinti ügyeleti díjazás nem illeti meg a folyamatos szolgálat ellátására szervezett beosztásokat betöltőket.
 

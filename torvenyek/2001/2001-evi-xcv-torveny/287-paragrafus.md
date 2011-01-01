@@ -8,7 +8,7 @@ a) az állami készfizető kezesség vállalásra,
 
 b) a más szervhez történő vezénylésre (a vezénylésre vonatkozó megállapodás megkötésének kezdeményezésére, a vezénylésre kerülők kiválasztására, a vezénylésre vonatkozó megállapodás kötelező tartalmi elemeire, a Honvédségre és a más szerv közötti együttműködés feladataira, a költségek viselésére) vonatkozó szabályokat, valamint
 
-c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjének részletes szabályait,
+c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjének részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza:
 
@@ -42,7 +42,7 @@ c) a katonai szolgálathoz, valamint az egyes beosztásokhoz kapcsolódó:
 
 d) az egészségi, pszichikai, fizikai alkalmassági követelmények felmérésének szabályait, a felmérést végző szervezetek kijelölését, valamint az egészségi követelmények felmérésének költségeit, továbbá az egészségügyi szabadságra és szolgálatmentességre, valamint a hosszabb betegséget követő – lábadozási időszak alatti – csökkentett napi szolgálati időre vonatkozó szabályokat;
 
-e) az illetmény, a túlszolgálati díj, a végkielégítés, a leszerelési segély, szerződés-hosszabbítási díj és a jubileumi jutalom, a külön juttatás, a szabadságmegváltás megállapításával, folyósításával, az illetménypótlékok és a megbízási díj jogosultságával, megállapításával, kifizetésével, valamint a toborzópénz visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét;
+e) az illetmény, a túlszolgálati díj, a végkielégítés, a leszerelési segély, szerződés-hosszabbítási díj, szerződéskötési díj, szerződés-hosszabbítási díj és a jubileumi jutalom, a külön juttatás, a szabadságmegváltás megállapításával, folyósításával, az illetménypótlékok és a megbízási díj jogosultságával, megállapításával, kifizetésével, valamint a toborzópénz és a szerződéskötési díj visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét;
 
 f) a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, ideértve különösen
 
@@ -50,7 +50,7 @@ fa) a szerződéses állomány 5 évet már szolgálatban töltött és legaláb
 
 fb) a lemondási időre a lakhatási támogatások vonatkozásában eltérő szabályok megállapítását,
 
-fc) a lakhatási támogatások egyéb feltételeit, a végleges letelepedés támogatásának eltérő szabályait, a végrehajtás részletes szabályozását, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének részletes szabályait,
+fc) a lakhatási támogatások egyéb feltételeit, a végleges letelepedés támogatásának eltérő szabályait, a végrehajtás részletes szabályozását, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait,
 
 fd) a Honvédség létszámigénye kielégítését támogató, ösztönző rendszer részletes szabályait,
 
@@ -64,7 +64,7 @@ h) a nyugellátásra, baleseti járadékra, továbbá a társadalombiztosítási
 
 i) a külföldi szolgálattal, azon belül különösen a műveleti területen ellátott szolgálattal, a különféle típusú külföldi szolgálatot teljesítők ellátásával, többletjuttatásaival (ellátmányával és egyéb költségtérítéseivel), a külföldi munkavégzéssel, a fegyelmi eljárás rendjével kapcsolatos szabályokat;
 
-j) a kártérítési eljárás részletes szabályait, a kártérítés megállapításának módját, összeghatárait, mérséklésének és elengedésének részletes szabályait, a külföldi szolgálat során felmerülő kártérítési eljárás rendjére vonatkozó különös szabályokat, valamint a meg nem térülő károk rendezésének és nyilvántartásának sajátos szabályait;
+j) a kártérítési eljárás részletes szabályait, a kártérítés megállapításának módját, összeghatárait, mérséklésének és elengedésének részletes szabályait, a külföldi szolgálat során felmerülő kártérítési eljárás rendjére vonatkozó különös szabályokat;
 
 k) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását;
 
@@ -72,7 +72,7 @@ l) a toborzási rendszer kialakítását, feladatait, feltételrendszerét és e
 
 (3) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg az Európai Unió magyar soros elnökségében közvetlenül résztvevő katonai szolgálati jogviszonyban állók kiválasztására, valamint többletmunkájukhoz és képzési többlet terhükhöz kapcsolódó jutalmazásuk/anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat.
 
-(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel együttes rendeletben szabályozza
+(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 a) azon fertőző betegségek körét, amelyek esetében a megbetegedési veszély, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, így különösen a szolgálati célból külföldre történő kiutazáskor a kötelező védőoltás elrendelésének van helye, továbbá a Magyar Honvédségnél járványügyi feladatokat ellátó szerv védőoltásokkal kapcsolatos feladatait, az oltóanyagok beszerzésének és a védőoltások felvételének rendjét,
 

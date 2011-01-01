@@ -1,4 +1,4 @@
-41/A. § (1) Azt a tényt, hogy a 41. § (2) bekezdés a)–e) pontjában meghatározott, a szolgálati viszony létesítését kizáró ok (a továbbiakban: kizáró ok) vele szemben nem áll fenn,
+41/A. § (1) Azt a tényt, hogy a 41. § (2) bekezdés a)–e) pontjában meghatározott, a szolgálati viszony létesítését kizáró ok vele szemben nem áll fenn,
 
 a) a szolgálati viszony létesítését megelőzően, az állomány tagjaként szolgálati viszonyt létesíteni szándékozó személy,
 

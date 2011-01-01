@@ -26,6 +26,8 @@ i) az illetmény számfejtését végző szervek, illetve személyek, a feladat 
 
 j) a törvényben meghatározott egyéb szervek és személyek;
 
+k) az önkéntes tartalékosok adatai tekintetében, azok behívásának előkészítése és végrehajtása érdekében a katonai igazgatás lakóhely szerint illetékes területi szervei.
+
 (2) A központi személyügyi nyilvántartásba történő betekintéshez az (1) bekezdés d)–g) pontjában meghatározott személyek kivételével a központi személyügyi nyilvántartás vezetését felügyelő személyügyi vezető hozzájárulása szükséges, aki ezt a jogkörét átruházhatja.
 
 (3) A központi nyilvántartásban kezelt adatok statisztikai, illetve tudományos kutatási célra felhasználhatók, és e célra személyazonosításra alkalmatlan módon átadhatók. Az adatállományok átadásához minden esetben a központi személyügyi nyilvántartás vezetését felügyelő személyügyi vezető írásbeli engedélye szükséges.

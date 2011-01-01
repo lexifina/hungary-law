@@ -9,3 +9,5 @@ b) az állomány tagja külföldön tartózkodik, a visszaérkezéséig, figyele
 c) a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a döntéséig.
 
 (3) A fegyelmi eljárás felfüggesztésének tartama nem számít be a fegyelmi eljárás lefolytatására nyitva álló, illetve az elévülési időbe.
+
+(4) Az önkéntes tartalékos katona ellen indított fegyelmi eljárásban – annak lefolytatása szempontjából – a rendelkezésre állás időszaka nem minősül tartós távollétnek, illetve akadályoztatásnak.

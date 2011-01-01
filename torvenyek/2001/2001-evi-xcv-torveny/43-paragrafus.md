@@ -2,7 +2,7 @@
 
 43. § (1) A szolgálati viszony az állományba való felvétellel és annak elfogadásával határozott vagy határozatlan időre létesül. Az állományba kinevezett személy esküt tesz, melynek szövegét a törvény 1. számú melléklete tartalmazza.
 
-(2) A szerződéses szolgálati idő együttes tartama tiszti, és tiszthelyettesi beosztás esetén a 20 évet, tisztesi beosztás esetén a 15 évet nem haladhatja meg, és nem lépheti túl az 55. §-ban meghatározott felső korhatárt.
+(2) A szerződéses szolgálati idő együttes tartama a 20 évet nem haladhatja meg, és nem lépheti túl az 55. §-ban meghatározott felső korhatárt.
 
 (3) Az állományba való felvétellel egyidejűleg az állomány tagját befejezett tanulmányainak megfelelően hadnaggyá vagy őrmesterré kell kinevezni.
 
