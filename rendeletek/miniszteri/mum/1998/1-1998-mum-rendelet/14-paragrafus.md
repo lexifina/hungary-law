@@ -18,4 +18,6 @@ f) a behajthatatlanságot igazoló okiratokat.
 
 (2) Az (1) bekezdésben meghatározott belső bizonylatot – a (3) bekezdésben foglalt kivétellel – a törlésre jogosult állítja ki.
 
-(3) Ha a behajthatatlan követelés olyan, a GM hatáskörébe tartozó támogatással függ össze, amelyre vonatkozóan a megállapodást a munkaügyi központ, illetőleg annak kirendeltsége kötötte a támogatásban részesülővel, az (1) bekezdésben meghatározott bizonylatot a munkaügyi központ igazgatója állítja ki. Az így kiállított bizonylatot jóváhagyásra meg kell küldeni a GM-nek. A behajthatatlan követelést a munkaügyi központ a jóváhagyott bizonylat alapján törli a nyilvántartásból.
+(3)[^19] Ha a behajthatatlan követelés olyan, a minisztérium hatáskörébe tartozó támogatással függ össze, amelyre vonatkozóan a megállapodást a munkaügyi központ, illetőleg annak kirendeltsége kötötte a támogatásban részesülővel, az (1) bekezdésben meghatározott bizonylatot a munkaügyi központ igazgatója állítja ki. Az így kiállított bizonylatot jóváhagyásra meg kell küldeni a GM-nek. A behajthatatlan követelést a munkaügyi központ a jóváhagyott bizonylat alapján törli a nyilvántartásból.
+
+[^19]: A 14. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 12. § (2) bekezdése szerint módosított szöveg.
