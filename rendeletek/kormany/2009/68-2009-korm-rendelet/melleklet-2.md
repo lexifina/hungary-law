@@ -16,7 +16,7 @@
 
 ## 7. az Országos Igazságszolgáltatási Tanács elnöke és tagjai,
 
-## 8. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 6. § (1) bekezdésében meghatározott állami vezetők,
+## 8.[^12] a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott állami vezetők,
 
 ## 9. megyei (fővárosi) védelmi bizottság titkára,
 
@@ -44,7 +44,7 @@
 
 ## 9. az ügyészségek,
 
-## 10. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény szerinti központi államigazgatási szervek,
+## 10.[^13] a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervek,
 
 ## 11. a területi államigazgatási szervek,
 
@@ -65,3 +65,6 @@
 ## A megyei (fővárosi) védelmi bizottság által egyedileg, határozattal kijelölt meghagyásba bevont szervek.
 
 2. melléklet a 68/2009. (IV. 2.) Korm. rendelethez
+
+[^12]: Az 1. melléklet I. kategória 8. pontja a 273/2010. (XII. 9.) Korm. rendelet 126. § (4) bekezdése szerint módosított szöveg.
+[^13]: Az 1. melléklet I. kategória 10. pontja a 273/2010. (XII. 9.) Korm. rendelet 126. § (4) bekezdése szerint módosított szöveg.

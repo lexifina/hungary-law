@@ -6,6 +6,6 @@
 
 (3) A megyei (fővárosi) védelmi bizottság határozata elleni fellebbezést másodfokon a honvédelemért felelős miniszter bírálja el.
 
-(4)[^1] A megyei (fővárosi) védelmi bizottság a jogerős határozatot megküldi a honvédelemért felelős miniszternek, a Magyar Honvédség központi adatfeldolgozó szervének (a továbbiakban: adatfeldolgozó szerv), valamint a meghagyásba bevont szerv székhelye szerinti település, fővárosi kerület polgármesterének is.
+(4)[^2] A megyei (fővárosi) védelmi bizottság a jogerős határozatot megküldi a honvédelemért felelős miniszternek, a Magyar Honvédség központi adatfeldolgozó szervének (a továbbiakban: adatfeldolgozó szerv), valamint a meghagyásba bevont szerv székhelye szerinti település, fővárosi kerület polgármesterének is.
 
-[^1]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 675. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 675. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
