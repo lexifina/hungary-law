@@ -2,9 +2,9 @@
 
 ## A közterület-felügyelet jogállása, szervezete és feladata
 
-1. § (1) A közterületi rend és tisztaság védelméről a települési önkormányzat közterület-felügyelet, illetőleg közterület-felügyelő útján gondoskodhat.
+1. § (1) A közterületi rend és tisztaság védelméről, a tömegközlekedési eszközök használati rendjének fenntartásáról, az önkormányzati vagyon védelméről a települési önkormányzat közterület-felügyelet, illetőleg közterület-felügyelő útján gondoskodhat.
 
-(2) Közterület-felügyeletet a községi, a városi képviselő-testület, a megyei jogú városi közgyűlés, a fővárosban – a helyi önkormányzatokról szóló törvény keretei között – a fővárosi kerületi képviselő-testület és a közgyűlés (a továbbiakban együtt: képviselő-testület) hozhat létre a polgármesteri (főpolgármesteri) hivatal belső szervezeti egységeként vagy önálló költségvetési szervként közterület-felügyelet elnevezéssel. Közterület-felügyeletet több önkormányzat társulásos formában is működtethet.
+(2) Közterület-felügyeletet a községi, a városi képviselő-testület, a megyei jogú városi közgyűlés, a fővárosban – a helyi önkormányzatokról szóló törvény keretei között – a fővárosi kerületi képviselő-testület és a közgyűlés (a továbbiakban együtt: képviselő-testület) hozhat létre a polgármesteri (főpolgármesteri) hivatal belső szervezeti egységeként, önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként. Közterület-felügyeletet több önkormányzat társulásos formában is működtethet.
 
 (3) A közterület-felügyelet (a továbbiakban: felügyelet) feladatait a polgármesteri, a főpolgármesteri (a továbbiakban: polgármesteri) hivatalban alkalmazott egy vagy több közterület-felügyelő (a továbbiakban: felügyelő) is elláthatja.
 

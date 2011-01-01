@@ -24,7 +24,7 @@ használható fel.
 
 a) a (2) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
 
-b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével
+b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő nyolc nap elteltével
 
 haladéktalanul törli.
 

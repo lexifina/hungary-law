@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdés szerinti értesítés elhelyezésétől számított 30 napot követően a felügyelő az érintett járművet elszállítással eltávolíthatja.
 
-(4) A felügyelet a jármű elszállításáról az intézkedéssel egyidejűleg értesíti a rendőrséget. A felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát – tájékoztatás céljából – a felügyeletet működtető önkormányzat polgármesteri hivatalának honlapján közzéteszi. Az önálló költségvetési szervként alapított felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát saját honlapján is közzéteszi.
+(4) A felügyelet a jármű elszállításáról az intézkedéssel egyidejűleg értesíti a rendőrséget. A felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát – tájékoztatás céljából – a felügyeletet működtető önkormányzat polgármesteri hivatalának honlapján közzéteszi. Az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát a költségvetési szerv saját honlapján is közzéteszi.
 
 (5) Ha a tulajdonos (üzemben tartó) nem állapítható meg, vagy a felszólítás ellenére az elszállított járművet az elszállítástól számított hat hónapon belül nem veszi birtokba, a felügyelet a járművet értékesítheti vagy más módon hasznosíthatja. Ha az elszállított jármű tulajdonosa a jármű értékesítését követő hat hónapon belül jelentkezik, részére az értékesítésből befolyt, a tárolási költséggel csökkentett ellenértéket ki kell fizetni.
 
