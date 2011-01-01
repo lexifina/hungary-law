@@ -1,11 +1,11 @@
 ## Az átviteli rendszerirányító közzétételi kötelezettségei
 
-11. § (1) Az átviteli rendszerirányító köteles meghatározni és honlapján közzétenni
+11. § (1)[^21] Az átviteli rendszerirányító köteles meghatározni és a honlapján közzétenni
 
-a)[^6] minden második hónap 10. munkanapjáig a közzétételt követő időszakban alkalmazandó átadási profil jellemzőit,
+a) minden hónap 10. munkanapjáig a közzétételt követő időszakban alkalmazandó átadási profil jellemzőit,
 
-b) minden év szeptember 25. napjáig közzétételt követő évben az átvételi kötelezettség alá tartozó termelői engedélyesek összesített havonta várható termelését.
+b) minden naptári hónap 17. munkanapjáig az engedélyes Értékesítőknek a közzétételt követő 12 hónapra várható, összesített termelését havi, zónaidőnkénti és energiaforrások (megújuló energiaforrásból nyert energiával, hulladékból nyert energiával és kapcsoltan termelt villamos energia) szerinti bontásban.
 
 (2) Az (1) bekezdés a) pont szerinti adatok honlapon történő elérhetőségét azok teljes érvényességi ideje alatt biztosítani kell.
 
-[^6]: A 11. § (1) bekezdés a) pontja a 34/2008. (XI. 28.) KHEM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^21]: A 11. § (1) bekezdése a 20/2010. (XII. 8.) NFM rendelet 7. §-ával megállapított szöveg.

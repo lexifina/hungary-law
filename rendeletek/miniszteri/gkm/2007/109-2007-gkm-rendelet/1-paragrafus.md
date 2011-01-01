@@ -28,6 +28,10 @@ k) havi termelési menetrend: az Értékesítő által a Befogadó részére el�
 
 l) összesített KÁT termelés: a havi termelési menetrendek alapján meghatározott összesített villamos energia,
 
-m) KÁT egységára: a KÁT átvevők részére szétosztott, átvételi kötelezettség alá eső villamos energia adott hónapra megállapított elszámolási ára.
+m) KÁT egységára: a KÁT átvevők részére szétosztott, átvételi kötelezettség alá eső villamos energia adott hónapra megállapított elszámolási ára,
+
+n)[^1] tervezési pótdíj: a KÁT átvevő tervezett fogyasztási adatától való eltérés esetén a KÁT átvevő tervezett és tényleges fogyasztási adatainak különbsége alapján a KÁT átvevő által a Befogadó számára fizetendő díj.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, valamint az annak felhatalmazása alapján kiadott jogszabályok, különösen a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről szóló jogszabály rendelkezései szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés n) pontját a 20/2010. (XII. 8.) NFM rendelet 1. §-a iktatta be.

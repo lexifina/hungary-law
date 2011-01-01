@@ -6,10 +6,14 @@ a) az egyes Értékesítők tervezett havi termelése zónaidőnkénti bontásba
 
 b) az Értékesítő előző havi termelési menetrendje szerint tervezett termelés és az Értékesítő előző havi tény termelésének a különbözete zónaidőnkénti bontásban és az adott Értékesítőre vonatkozó hatósági ár szorzatainak az összege,
 
-c)[^4] a KÁT mérlegkör kiegyenlítése során előző hónapban igénybe vett szabályozási energia költsége, csökkentve az Értékesítőktől befolyt szabályozási pótdíjak, valamint a jogosulatlanul értékesített villamos energia után fizetett visszatérítések összegével,
+c)[^12] a KÁT mérlegkör kiegyenlítése során előző hónapban igénybe vett szabályozási energia költsége csökkentve az Értékesítőktől befolyt szabályozási pótdíjak és módosítási pótdíjak, valamint a jogosulatlanul értékesített villamos energia után fizetett visszatérítések összegével,
 
-d) a KÁT mérlegkör pénzforgalmának likviditását biztosító pénzügyi költségek,
+d)[^13] a KÁT mérlegkör pénzforgalmának likviditását biztosító pénzügyi jellegű bevételek és költségek,
 
-e) a KÁT mérlegkör működtetésének, a KÁT mérlegkör-felelősi feladatok elvégzésének a Magyar Energia Hivatal által elismert, indokolt költségei.
+e) a KÁT mérlegkör működtetésének, a KÁT mérlegkör-felelősi feladatok elvégzésének a Magyar Energia Hivatal által elismert, indokolt költségei,
 
-[^4]: Az 5. § (2) bekezdés c) pontja a 34/2008. (XI. 28.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+f)[^14] csökkentő tételként a KÁT átvevőktől befolyt tervezési pótdíjak összege.
+
+[^12]: Az 5. § (2) bekezdés c) pontja a 20/2010. (XII. 8.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (2) bekezdés d) pontja a 20/2010. (XII. 8.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (2) bekezdés f) pontját a 20/2010. (XII. 8.) NFM rendelet 5. § (2) bekezdése iktatta be.

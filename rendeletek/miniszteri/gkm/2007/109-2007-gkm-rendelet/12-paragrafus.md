@@ -2,4 +2,9 @@
 
 12. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2) A Befogadó – a 4. § (2) bekezdésben meghatározott határidőktől eltérően – a 2008. január során alkalmazandó havi KÁT mérlegköri allokálási menetrendet, KÁT átadási menetrendet, valamint a KÁT szétosztási aránytényezőket e rendelet hatálybalépésének napján küldi meg a 4. § (2) bekezdés szerinti érintetteknek, és teszi közzé honlapján.
+(2)[^22]
+
+(3)[^23] A KÁT átvevők vonatkozásában a 3. § (1a) bekezdésében foglaltakat 2011. február 1-jétől kell alkalmazni.
+
+[^22]: A 12. § (2) bekezdését a 20/2010. (XII. 8.) NFM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^23]: A 12. § (3) bekezdését a 32/2010. (XII. 23.) NFM rendelet 5. §-a iktatta be.
