@@ -1,9 +1,15 @@
-2. § (1)[^4] A jogi szakvizsgát megelőző joggyakorlat ideje legalább 3 év. A joggyakorlat idejébe csak a jogi végzettséget igazoló doktori oklevél megszerzése után jogi képesítéshez kötött főállású munkakörben töltött idő számítható be. A különböző jogi munkaterületen szerzett joggyakorlat idejét össze kell adni. Külföldön szerzett diploma esetén, az annak magyarországi elismerését követően szerzett hazai joggyakorlat vehető figyelembe.
+2. §[^3] (1) A jogi szakvizsgát megelőző joggyakorlat ideje legalább 3 év; a különböző jogi munkaterületen szerzett joggyakorlatok idejét össze kell adni.
 
-(2)[^5] A joggyakorlat ideje alatt a jelölt a munkáltatója által szervezett vagy más jogi szakmai oktatásban vehet részt. A munkáltató, illetve a szakmai kamara a szakmai oktatásban való részvételt kötelezővé teheti.
+(2) A joggyakorlat idejébe – a (3) és (5) bekezdésben foglalt eltérésekkel – csak a jogi végzettséget igazoló doktori oklevél megszerzését követően jogi képesítéshez kötött főállású munkakörben, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatás keretében eltöltött idő számítható be.
 
-(3)[^6] A joggyakorlat megkezdése után a fizetés nélküli és a rendkívüli szabadság, a munkaviszony szünetelése, a katonai szolgálat, a szülési szabadság, a gyermekgondozási díj, a gyermekgondozási segély és a táppénz, valamint az ösztöndíj folyósításának idejét összesen legfeljebb 3 hónap, az egyetemi doktori (PhD) képzés idejét legfeljebb 12 hónap tartamáig lehet a joggyakorlat idejébe beszámítani.
+(3) A jogi szakvizsga letételéhez szükséges joggyakorlati idő számításánál
 
-[^4]: A 2. § (1) bekezdésének első mondata a 24/1997. (IX. 30.) IM rendelet 1. §-ával megállapított szöveg, utolsó mondatát a 17/2001. (XI. 23.) IM rendelet 2. §-a iktatta be.
-[^5]: A 2. § (2) bekezdése a 21/1995. ( XII.29.) IM rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § (3) bekezdése a 19/1994. (XII. 15.) IM rendelet 1.§-ával megállapított szöveg.
+a) külföldön szerzett diploma esetén az annak hazai elismerését követően szerzett, a (2) bekezdés szerinti joggyakorlat vehető figyelembe,
+
+b) külföldön folytatott joggyakorlat esetén az a jogi képesítéshez kötött, főállású munkakörben eltöltött idő számítható be, amelyet az Európai Unió valamely intézményénél, vagy olyan nemzetközi szervezetnél teljesítenek, melynek a Magyar Köztársaság is tagja.
+
+(4) A joggyakorlat ideje alatt a jelölt a munkáltatója által szervezett vagy más jogi szakmai oktatásban vehet részt. A munkáltató, illetve a szakmai kamara a szakmai oktatásban való részvételt kötelezővé teheti.
+
+(5) A joggyakorlat megkezdése után a fizetés nélküli és a rendkívüli szabadság, a szülési szabadság, a gyermekgondozási díj, a gyermekgondozási segély és a táppénz, valamint az ösztöndíj folyósításának idejét összesen legfeljebb 3 hónap, az egyetemi doktori (PhD) képzés idejét legfeljebb 12 hónap tartamáig lehet a joggyakorlat idejébe beszámítani.
+
+[^3]: A 2. § a 31/2010. (XII. 31.) KIM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.

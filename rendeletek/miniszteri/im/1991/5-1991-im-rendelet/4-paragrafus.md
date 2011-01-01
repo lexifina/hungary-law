@@ -1,18 +1,21 @@
-4. § (1)[^12] A jogi szakvizsgára bocsátás iránti kérelmet a vizsga időpontjának megjelölésével a Szakvizsga Bizottsághoz kell benyújtani.
+4. §[^9] (1) A jogi szakvizsgára az igazságügyért felelős miniszternél kell jelentkezni.
 
-(2) A vizsgára bocsátás iránti kérelemhez csatolni kell
+(2) A jelentkezésben a jelöltnek fel kell tüntetnie
 
-a) a jogi végzettséget igazoló doktori oklevelet a közjegyző által hitelesített másolatban,
+a) a személyazonosító adatait és értesítési címét,
 
-b) a joggyakorlat, illetőleg az abba beszámítható működés teljesítését igazoló tanúsítványt,
+b) a jogi végzettségét igazoló doktori oklevél megszerzésének helyét, keltét, az oklevél sorszámát, valamint a 2007. március 1-jét követően megszerzett végzettség esetében a hozzájárulást ahhoz, hogy ezeket az adatokat a minisztérium a felsőoktatási információs rendszerben kezelt adatok beszerzésével ellenőrizze,
 
-c) a vizsgadíj befizetéséről szóló igazolást.
+c) a joggyakorlat és az abba beszámítható működés teljesítésére vonatkozó adatokat, és
 
-(3) A jelöltnek a kérelemben meg kell jelölnie, hogy elsőként a vizsga melyik részéből (a továbbiakban: részvizsga) kíván vizsgát tenni, illetve, hogy a részvizsga tárgyai közül melyikből tesz írásbeli vizsgát.
+d) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
 
-(3a)[^13] A vizsgát az arra való jelentkezéstől számított négy hónapon belüli időpontra, a jelentkezés sorrendjében kell kitűzni azzal, hogy az időtartam számítása során figyelmen kívül kell hagyni azon időszakokat, amelyekre vizsga nem tűzhető ki.
+(3) Az első vizsgára jelentkezéskor meg kell jelölni azt is, hogy elsőként a vizsga melyik részéből (a továbbiakban: részvizsga) kíván a jelölt vizsgát tenni, illetve, hogy a részvizsga tárgyai közül melyikből tesz írásbeli vizsgát.
 
-(4) A kérelemről a Szakvizsga Bizottság titkára dönt. A vizsgára bocsátás iránti kérelmet elutasító határozat ellen nyolc napon belül felülvizsgálatra irányuló kérelmet lehet benyújtani. A kérelemről a Szakvizsga Bizottság elnöke harminc nap alatt dönt.
+(4) Legkésőbb az első vizsga napjáig a joggyakorlatot és az abba beszámítható működés teljesítését igazoló okiratot be kell nyújtani, valamint a jogi végzettséget igazoló doktori oklevelet be kell mutatni.
 
-[^12]: A 4. § (1) bekezdése a 37/2010. (V. 14.) IRM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 4. § (3a) bekezdését a 37/2010. (V. 14.) IRM rendelet 2. § (1) bekezdése iktatta be.
+(5) A vizsgára legkorábban a választott vizsgaidőpontot 30 nappal megelőzően lehet jelentkezni. A jelentkezésben csak az annak időpontjától számított négy hónapon belüli vizsgaidőpontot lehet megjelölni. A négy hónapos időtartam számítása során figyelmen kívül kell hagyni azon időszakokat, amelyekre vizsga nem tűzhető ki.
+
+(6) A jelentkezésről a Szakvizsga Bizottság titkára a jelölt joggyakorlati idejére, a jogi szakvizsga díjának befizetésére, valamint a kért vizsgaidőpontra jelentkezők számára vonatkozó, rendelkezésére álló adatok alapján dönt. A jelentkezés elutasítása ellen nyolc napon belül felülvizsgálatra irányuló kérelemnek van helye; a kérelemről a Szakvizsga Bizottság elnöke harminc nap alatt dönt.
+
+[^9]: A 4. § a 31/2010. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.
