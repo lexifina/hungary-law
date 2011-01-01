@@ -16,7 +16,7 @@
 
 | Nyilvántartási száma: |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A személyes gondoskodást végző személyek adatainak nyilvántartását vezető Nemzeti Szakképzési és Felnőttképzési Intézet nevében igazolom, hogy a fent nevezettet felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
+| A személyes gondoskodást végző személyek adatainak nyilvántartását vezető Nemzeti Család- és Szociálpolitikai Intézet nevében igazolom, hogy a fent nevezettet felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
 
 | Az igazolás érvényes: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -ig |
 
@@ -28,4 +28,4 @@
 
 6. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^15]
 
-[^15]: A 6. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^15]: A 6. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 | Igazolás a személyes gondoskodást végző munkavállalók nyilvántartásba vételéről |
 
-| A személyes gondoskodást végző személyek működési nyilvántartását vezető Nemzeti Szakképzési és Felnőttképzési Intézet nevében igazolom, hogy az alább felsorolt munkavállalóikat, a feltüntetett nyilvántartási számokon felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
+| A személyes gondoskodást végző személyek működési nyilvántartását vezető Nemzeti Család- és Szociálpolitikai Intézet nevében igazolom, hogy az alább felsorolt munkavállalóikat, a feltüntetett nyilvántartási számokon felvettük a személyes gondoskodást végző személyek működési nyilvántartásába. |
 
 | Név | Születési idő | Nyilvántartási szám |
 
