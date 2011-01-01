@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-12-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-04-03 | 2010-12-20-2M.1 | 12/2010. (III. 4.) KHEM rendelet |
+| 2011-01-01 | 2010-12-20-2M.2 | 91/2011. (XII. 30.) NFM rendelet |
