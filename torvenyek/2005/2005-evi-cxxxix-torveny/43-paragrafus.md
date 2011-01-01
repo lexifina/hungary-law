@@ -1,4 +1,4 @@
-43. § (1) Mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
+43. § (1) Alapszakhoz kapcsolódó mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett. Mesterfokozatot eredményező képzésre épülő mesterképzésre az vehető fel, aki mesterképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
 
 (2) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 

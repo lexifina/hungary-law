@@ -1,4 +1,4 @@
-26. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg – a (2) és (3) bekezdésben meghatározott okok esetében – visszahívásával. A lemondás elfogadása, illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
+26. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg visszahívásával. A gazdasági tanácsba delegálási joggal rendelkező jogosult az általa delegált tagot visszahívni. A lemondás elfogadása, illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
 
 (2) A gazdasági tanács elnökének – az elnök esetén a tanács tagjának – kezdeményezésére vissza kell hívni azt a tagot,
 
@@ -16,4 +16,4 @@ b) a 23. § (11) bekezdésben meghatározott igazolási kötelezettségét elmul
 
 (4) Lemondás és visszahívás esetén az, aki az érintett tagot delegálta, harminc napon belül új tagot köteles delegálni. Az eljárásra alkalmazni kell a 23. §-ban meghatározottakat. Az újonnan megválasztott tag megbízatása öt évre szól függetlenül attól, hogy a lemondott, illetve visszahívott tag megbízatásából mennyi idő telt el.
 
-(5) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére vonatkozó rendelkezéseket nem kell alkalmazni.
+(5) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, az államháztartásért felelős miniszter 23. §-ban és 26. §-ban meghatározott jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére vonatkozó rendelkezéseket nem kell alkalmazni.

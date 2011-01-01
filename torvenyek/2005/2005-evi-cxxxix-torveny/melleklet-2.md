@@ -181,3 +181,25 @@ aa) a hallgató (doktorjelölt) neve, születési neve, anyja neve, születési 
 ab) nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ac) a jogviszony keletkezésének és megszűnésének időpontja és módja,
+
+ad) a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje,
+
+ae) a képzés során, illetve azt megelőzően igénybe vett támogatási idő,
+
+af) a külföldi felsőoktatási résztanulmányok helye, ideje,
+
+ag) az előnyben részesítési követelmények teljesülésére vonatkozó adatok,
+
+ah) kollégiumi elhelyezés esetén a kollégium megnevezése, az elhelyezés kezdete és vége,
+
+ai) diákotthoni elhelyezés esetén a diákotthon megnevezése és OM-azonosítója, az elhelyezés kezdete és vége,
+
+aj) a fogyatékossággal élőket megillető különleges bánásmód elbírálásához szükséges adatok,
+
+ak) a hallgatói balesetre vonatkozó adatok,
+
+al) a hallgató diákigazolványának sorszáma,
+
+am) a törzslap azonosító száma,
+
+an) a hallgató azonosító száma, társadalombiztosítási azonosító jele,

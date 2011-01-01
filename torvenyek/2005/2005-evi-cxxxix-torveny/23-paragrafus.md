@@ -6,27 +6,33 @@
 
 (2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható.
 
-(3) A gazdasági tanácsnak hét vagy kilenc tagja van. A gazdasági tanács létszámát a működés megkezdéséhez szükséges engedélyben meghatározott hallgatói létszám adatai alapján kell meghatározni a következők szerint: ha a felsőoktatási intézmény maximális hallgatói létszáma
+(3) A gazdasági tanácsnak kilenc tagja van. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik. A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
 
-a) nem éri el a tizenötezret, hét,
+(4) A gazdasági tanácsba három főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában a gazdasági igazgató. A szenátus által delegált tagok egyike
 
-b) eléri a tizenötezret, kilenc
+a) jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell hogy rendelkezzen,
 
-tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik. A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
+b) nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
 
-(4) A gazdasági tanácsba – a (3) bekezdésben meghatározott sorrend szerint – három, illetve négy főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában gazdasági igazgató. A szenátus által delegáltak közül legalább egy tagnak jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell rendelkeznie. A szenátus által delegált tagok legalább fele nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
+(5) A gazdasági tanácsba egy-egy tagot delegál
 
-(5) A miniszter – a (3) bekezdésben meghatározott sorrend szerint – a gazdasági tanácsba két, illetve három főt, ebből egy tagot az állami vagyon felügyeletéért felelős miniszter javaslata alapján delegál. A miniszter által delegált tagok közül legalább egynek a felsőoktatási intézmény oktatási, tudományos kutatási, művészeti tevékenységének megfelelő felsőfokú végzettséggel, továbbá a szakképzettségének megfelelő területen szerzett legalább öt év vezetői gyakorlattal kell rendelkeznie.
+a) a miniszter,
 
-(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. 2010. január 1-jétől kezdődően a (4) és (5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
+b) a kormányzati tevékenység összehangolásáért felelős miniszter,
+
+c) az állami vagyon felügyeletéért felelős miniszter,
+
+d) az államháztartásért felelős miniszter.
+
+(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. A gazdasági tanács 23. § (5) bekezdése szerint delegált tagjai tevékenységükért díjazásra nem jogosultak. 2010. január 1-jétől kezdődően a (4)–(5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
 
 (7) Nem lehet tagja a gazdasági tanácsnak az, aki
 
 a) büntetett előéletű,
 
-b) köztisztviselő, vagy polgármesteri tisztséget tölt be,
+b) polgármesteri tisztséget tölt be,
 
-c) a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozik,
+c) a központi államigazgatási szervekről, valamint a Kormány tagja és az államtitkárok jogállásáról szóló törvény szerint politikai vezetőnek minősülő állami vezetői tisztséget tölt be,
 
 d) politikai pártban tisztséget tölt, illetve töltött be, fizetett pártalkalmazottként foglalkoztatták vagy foglalkoztatják, feltéve, hogy a kizáró ok megszűnése óta még nem telt el legalább öt év,
 
@@ -34,11 +40,15 @@ e) önkormányzati, országgyűlési vagy európai parlamenti képviselő,
 
 f) tagja a szenátusnak,
 
-g) tagja más felsőoktatási intézmény gazdasági tanácsának,
+g) tagja – a 23. § (5) bekezdés szerint delegált tagok kivételével – más felsőoktatási intézmény gazdasági tanácsának,
 
 h) az állami felsőoktatási intézmények kivételével, a miniszter felügyelete alatt álló költségvetési szervvel közalkalmazotti jogviszonyban áll,
 
-i) betöltötte a hetvenedik életévét.
+i) betöltötte a hetvenedik életévét,
+
+j) más felsőoktatási intézmény szenátusának a tagja,
+
+k) más felsőoktatási intézmény vezető beosztású alkalmazottja.
 
 (8) A rektor tekintetében – az a) és a g)–i) pont kivételével – a (7) bekezdésben foglaltakat nem kell alkalmazni.
 

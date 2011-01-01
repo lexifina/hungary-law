@@ -4,9 +4,9 @@
 
 (2) A Magyar Köztársaság címere elhelyezhető a felsőoktatási intézmény alapfeladatának ellátását szolgáló helyiségekben, címtábláján, épületeinek homlokzatán, továbbá feltüntethető a körbélyegzőjén és a felsőoktatási intézmény által kiadott okleveleken, oklevélmellékleteken.
 
-(3) Az Idegennyelvi Továbbképző Központ, az Eötvös Loránd Tudományegyetem Jogi és Továbbképző Intézete és a Budapesti Corvinus Egyetem Közgazdasági Továbbképző Intézete a felsőoktatási intézmény részeként működnek. A továbbképző intézetek a felsőoktatási intézménnyel kötött megállapodás alapján részt vehetnek idegennyelvi képzésben és vizsgáztatásban, szakirányú továbbképzés és iskolarendszeren kívüli képzések szervezésében. A továbbképző intézetek a felsőoktatási intézmény keretei között önálló jogi személyként működnek részjogkörű költségvetési egységként.
+(3) Az Idegennyelvi Továbbképző Központ, az Eötvös Loránd Tudományegyetem Jogi és Továbbképző Intézete és a Budapesti Corvinus Egyetem Közgazdasági Továbbképző Intézete a felsőoktatási intézmény részeként működnek. A továbbképző intézetek a felsőoktatási intézménnyel kötött megállapodás alapján részt vehetnek idegennyelvi képzésben és vizsgáztatásban, szakirányú továbbképzés és iskolarendszeren kívüli képzések szervezésében.
 
-(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete 2010. december 31-ig főiskolaként működhet tovább oly módon, hogy legalább egy képzési területen, egy szakon folytathat képzést. A főiskola 2011. január 1-jétől e törvény rendelkezései alapján folytatja működését. Ha a főiskola e feltételnek nem tesz eleget, a 2011. szeptember 1-jén induló tanévben nem vehet fel hallgatót az első évfolyamra. Az előző években felvett hallgatók tanulmányaikat változatlan feltételek mellett befejezhetik.
+(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete főiskolaként működő felsőoktatási intézmény.
 
 (5) A Zrínyi Miklós Nemzetvédelmi Egyetem akkor is használhatja az egyetem elnevezést, ha egy képzési területen jogosult mesterképzés folytatására, valamint legalább egy tudományterületen doktori képzésre, illetve doktori fokozat odaítélésére.
 

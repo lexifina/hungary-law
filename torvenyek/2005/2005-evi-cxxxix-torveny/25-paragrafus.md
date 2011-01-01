@@ -22,13 +22,11 @@ ai) együttműködési megállapodás megkötését,
 
 aj) a felsőoktatási intézmény szervezete, szervezeti egysége létesítését, átalakítását, megszüntetését,
 
-ak) a költségvetési szervként működő felsőoktatási intézmény 30. § (3) bekezdés szerinti szervezeti egységének jogi személyiséggel történő felruházásával kapcsolatos kezdeményezést,
+ak)
 
-al) az intézmény 7. § (8) bekezdés szerinti átsorolását;
+al)
 
-b) gazdasági szempontból véleményezi
-
-ba) a felsőoktatási intézmény által készített, egy milliárd forintot meghaladó támogatási igényű, illetve az intézmény költségvetését önrész biztosításával terhelő pályázatokat,
+ba) a felsőoktatási intézmény vagy az intézmény tulajdonában álló, vagy többségi részesedésével működő jogi személyek által készített, egymilliárd forintot meghaladó támogatási igényű, illetve az intézmény költségvetését önrész biztosításával terhelő pályázatokat,
 
 bb) a felsőoktatási intézmény kutatási-fejlesztési-innovációs stratégiáját,
 
@@ -38,7 +36,7 @@ c) dönt azokban az ügyekben, amelyek ellátására a szenátus felhatalmazta.
 
 (2) A gazdasági tanács figyelemmel kíséri a felsőoktatási intézmény gazdálkodásában a szakmai hatékonyság és a gazdaságosság követelményeinek érvényesítését. Rendszeresen – de évente legalább két alkalommal – áttekinti a felsőoktatási intézmény működését, gazdálkodását, az alapító okiratában meghatározott feladatok végrehajtását. Figyelemmel kíséri, hogy a felsőoktatási intézmény szervezeti rendje igazodik-e a feladatok hatékony ellátásához.
 
-(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
+(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál köteles jelezni, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
 
 (4) A szervezeti és működési szabályzatban meg kell határozni azt az összeget, amely felett a gazdasági tanács véleményét a kötelezettségvállaláshoz be kell szerezni.
 

@@ -28,7 +28,7 @@ a) a hallgatói tanácsadás rendszerét,
 
 b) az oktatói munka hallgatói véleményezési rendszerét.
 
-(8) A szenátus az a)–m) és r)–s) pont tekintetében dönt, illetve az n)–q) pont tekintetében dönthet
+(8) A szenátus az a)-m) pont tekintetében dönt, illetve az n)-q) pont tekintetében dönthet
 
 a) fejlesztés indításáról,
 
@@ -68,9 +68,9 @@ p) a habilitációs eljárás szabályozásáról,
 
 q) címek és kitüntetések adományozásáról,
 
-r) a költségvetési szervként működő felsőoktatási intézmény 30. § (3) bekezdés szerinti szervezeti egységének jogi személyiséggel történő felruházásával kapcsolatos kezdeményezésről,
+r)
 
-s) az e törvény 7. §-ának (8) bekezdése szerinti átsorolás kezdeményezéséről.
+s)
 
 (9) A szenátus hatáskörébe tartozik továbbá
 

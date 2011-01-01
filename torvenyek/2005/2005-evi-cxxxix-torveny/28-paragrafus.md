@@ -1,6 +1,6 @@
 28. § (1) Az állami felsőoktatási intézményben a szenátus tagjai – a rektor kivételével – választás útján nyerik el megbízatásukat. A szenátus létrehozásával, működésével, tagjai megbízatásának megszűnésével, a megbízás, a delegálás jogszerűségének vizsgálatával, a kapcsolódó jogorvoslattal, a szenátus napirendjének előkészítésével kapcsolatos kérdéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni, a következők figyelembevételével:
 
-a) a szenátus létszáma – a 23. § (3) bekezdésében meghatározottak figyelembevételével – nem lehet kevesebb hét, illetve kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk,
+a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk,
 
 b) a hallgatói önkormányzat a 78. § (4) bekezdésében meghatározottak szerint delegálja képviselőit,
 
@@ -22,6 +22,6 @@ j) a szenátus ülésére a gazdasági tanács elnökét tanácskozási joggal m
 
 (2) A szenátus a feladatkörébe tartozó ügyek előkészítésére, meghatározott időre vagy alkalmilag bizottságot hozhat létre.
 
-(3) A szenátus döntéseinek meghozatalát és végrehajtását átruházhatja a felsőoktatási intézmény egyes szervezeti egységeire, illetve a szervezeti egységekben foglalkoztatott oktatók és hallgatók közösségére, a szervezeti egységekben létrehozott testületekre. Nem ruházhatók át a 27. § (3)–(4) és (6)–(7) bekezdésében, a (8) bekezdés a)–i) pontjában, valamint a k)–l) pontjában és az o)–p), r)–s) pontjában, a (9) bekezdés a)–b) és d) pontjában meghatározott jogkörök. A hallgatói önkormányzat részvételét a döntéshozatali eljárásban – az (1) bekezdés b) pontjában és a 27. § (11) bekezdésében meghatározottak szerint – biztosítani kell akkor is, ha a szenátus döntésének meghozatalát átruházta.
+(3) A szenátus döntéseinek meghozatalát és végrehajtását átruházhatja a felsőoktatási intézmény egyes szervezeti egységeire, illetve a szervezeti egységekben foglalkoztatott oktatók és hallgatók közösségére, a szervezeti egységekben létrehozott testületekre. Nem ruházhatók át a 27. § (3)–(4) és (6)–(7) bekezdésében, a (8) bekezdés a)–i) pontjában, valamint a k)–l) pontjában és az o)–p) pontjában, a (9) bekezdés a)–b) és d) pontjában meghatározott jogkörök. A hallgatói önkormányzat részvételét a döntéshozatali eljárásban – az (1) bekezdés b) pontjában és a 27. § (11) bekezdésében meghatározottak szerint – biztosítani kell akkor is, ha a szenátus döntésének meghozatalát átruházta.
 
 (4) A 25. § (1) bekezdésben meghatározott kérdésekben – a szenátus, vagy a szenátus felhatalmazása alapján más szervezeti egység, közösség, testület által – hozott döntések előkészítése során a döntési javaslathoz a gazdasági tanács által megfogalmazott írásos véleményt is mellékelni kell.
