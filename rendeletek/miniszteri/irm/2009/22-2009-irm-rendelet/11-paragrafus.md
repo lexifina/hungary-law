@@ -1,6 +1,6 @@
-11. § (1) Ha az erkölcsi bizonyítvány iránti kérelemnek a Központi Hivatal helyt ad, a kérelemnek megfelelő hatósági erkölcsi bizonyítványt – az erkölcsi bizonyítvány iránti kérelem beérkezésétől számított öt munkanapon belül – megküldi a kérelmezőnek, egyidejűleg adatvédelmi záradékban hívja fel figyelmét az adatok jogszerű felhasználására.
+11. § (1)[^12] Ha az erkölcsi bizonyítvány iránti kérelemnek a Központi Hivatal helyt ad, a kérelemnek megfelelő hatósági erkölcsi bizonyítványt – az erkölcsi bizonyítvány iránti kérelem beérkezésétől számított nyolc napon belül – megküldi a kérelmezőnek, egyidejűleg adatvédelmi záradékban hívja fel figyelmét az adatok jogszerű felhasználására.
 
-(2) Ha az erkölcsi bizonyítvány iránti kérelmet a Központi Hivatal – a kérelem szerint – soron kívül teljesíti, az erkölcsi bizonyítványt a kérelmező három munkanapon belül személyesen vagy meghatalmazottja útján átveheti a Központi Hivatalban.
+(2)[^13] Ha az erkölcsi bizonyítvány iránti kérelmet a Központi Hivatal – a kérelem szerint – soron kívül teljesíti, az erkölcsi bizonyítványt a kérelmező öt napon belül személyesen vagy meghatalmazottja útján átveheti a Központi Hivatalban.
 
 (3) A hatósági erkölcsi bizonyítvány a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl tartalmazza:
 
@@ -11,3 +11,6 @@ b) a Bnytv. 72. § (2) bekezdés a)–d) pontjában meghatározott azon tény ig
 c) a hatósági erkölcsi bizonyítvány érvényességének idejét.
 
 (4) A hatósági erkölcsi bizonyítványt postai úton, ajánlott küldeményként – a kérelemben foglaltaknak megfelelően – a kérelmező részére a kérelemben megjelölt címre kell kézbesíteni.
+
+[^12]: A 11. § (1) bekezdése a 17/2010. (XII. 17.) KIM rendelet 2. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^13]: A 11. § (2) bekezdése a 17/2010. (XII. 17.) KIM rendelet 2. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
