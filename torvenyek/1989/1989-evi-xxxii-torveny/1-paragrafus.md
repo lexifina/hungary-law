@@ -6,9 +6,9 @@
 
 a) a már elfogadott, de még ki nem hirdetett törvény, az Országgyűlés ügyrendje és a nemzetközi szerződés egyes rendelkezései alkotmányellenességének előzetes vizsgálata;
 
-b) a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálata;
+b) a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálata;
 
-c) a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálata;
+c) a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálata;
 
 d) az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálása;
 
