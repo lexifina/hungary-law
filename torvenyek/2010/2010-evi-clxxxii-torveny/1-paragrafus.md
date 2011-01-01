@@ -1,0 +1,19 @@
+## 1. Az Alap célja, kedvezményezettjei
+
+1. § (1) A Bethlen Gábor Alap (a továbbiakban: Alap) elkülönített állami pénzalap. Célja a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében támogatások nyújtása.
+
+(2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
+
+a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
+
+b) magyarországi vagy szomszédos államban lévő önkormányzat,
+
+c) más állam területén működő szervezet, intézmény, továbbá
+
+d) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis-, és középvállalkozás, valamint
+
+e) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+
+(3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
+
+(4) Nem jogosult az Alap támogatására politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet.

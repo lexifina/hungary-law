@@ -1,0 +1,3 @@
+11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésen hozott döntés-előkészítő javaslatot is nyilvánosságra kell hozni.
+
+(2) Az Alap működésének nyilvánosságát internetes honlap is biztosítja. A honlapon közzé kell tenni a Bizottság és a Kollégium Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervezetének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a kezelő szerven keresztül a Kollégium elnöke gondoskodik.
