@@ -1,4 +1,4 @@
-8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított negyvenöt munkanap
+8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított két hónap
 
 a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére,
 

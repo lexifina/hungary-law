@@ -56,4 +56,4 @@ b) emellett a munkáltató részéről eljáró természetes személy ellen szab
 
 (10) Ha a foglalkoztató magánszemély vagy egyéni vállalkozó, kizárólag a (9) bekezdés a) pontjában meghatározott jogkövetkezmény alkalmazására kerülhet sor.
 
-(11) A munkaügyi határozatban, a Munkaerőpiaci Alap javára előírt pénzfizetési kötelezettség esetén a kiadmányozó szerv a hozzá befolyt bírság, teljesített befizetési kötelezettség 100%-át a Munkaerőpiaci Alap kezeléséről szóló jogszabályban foglaltak szerint átutalja a Munkaerőpiaci Alap számlájára.
+(11)

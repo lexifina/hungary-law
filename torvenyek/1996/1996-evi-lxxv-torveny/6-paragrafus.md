@@ -6,7 +6,7 @@ b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül t
 
 c) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztatás a 3. § (1) bekezdése a) pontjának első fordulata, továbbá b), e), f), i), k) és q) pontjai esetében a jogszabálysértés súlyossága miatt nem tartható fenn, és a sérelem rövid időn belül nem orvosolható. Ha a további foglalkoztatás megtiltására azért került sor, mert a foglalkoztató megsértette a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vagy a jogviszony bejelentésére, illetőleg munkaerő-kölcsönzés esetén a munkaszerződés kölcsönbevevő részére történő átadására vonatkozó rendelkezéseket, a felügyelő az eltiltás időtartamára kötelezi a Munka Törvénykönyve 151. §-ának (4) bekezdése szerinti díjazásnak a munkavállaló részére történő megfizetésére,
 
-d) kötelezi a külföldi munkavállalót munkavállalási engedély nélkül foglalkoztatót a Munkaerőpiaci Alapba történő befizetésre a 7/A. §-ban foglaltak szerint,
+d) kötelezi a külföldi munkavállalót munkavállalási engedély nélkül foglalkoztatót a központi költségvetésbe történő befizetésre a 7/A. §-ban foglaltak szerint,
 
 e) kezdeményezi a munkanélküli ellátás jogalap nélküli igénybevétele esetén az ellátás szüneteltetését, illetve megszüntetését,
 

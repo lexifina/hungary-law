@@ -1,6 +1,6 @@
-7/A. § (1) Amennyiben annak megállapítására kerül sor, hogy a foglalkoztató munkavállalási engedély nélkül külföldit foglalkoztat, kötelezni kell a Munkaerőpiaci Alap foglalkoztatási alaprészébe történő befizetésre. A kötelezettség a foglalkoztatót annyi esetben terheli, ahány külföldi tekintetében az engedély nélkül történő foglalkoztatást megállapították.
+7/A. § (1) Amennyiben annak megállapítására kerül sor, hogy a foglalkoztató munkavállalási engedély nélkül külföldit foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre. A kötelezettség a foglalkoztatót annyi esetben terheli, ahány külföldi tekintetében az engedély nélkül történő foglalkoztatást megállapították.
 
-(2) A Munkaerőpiaci Alapba történő befizetés mértéke
+(2) A központi költségvetésbe történő befizetés mértéke
 
 a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén az engedély nélkül alkalmazott külföldi részére a foglalkoztatás megkezdésétől az engedély nélküli foglalkoztatás megállapításáig kifizetett munkabér (munkadíj) négyszeresének, de legalább a kötelező legkisebb munkabér (a továbbiakban: minimálbér) nyolcszorosának,
 
@@ -16,7 +16,7 @@ b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jog
 
 megfelelő összeg terheli.
 
-(4) A (2) bekezdés a) pontjában foglaltaktól eltérően, a foglalkoztatót a kifizetett munkabér (munkadíj), de legalább a minimálbér kétszeresének megfelelő összeg Munkaerőpiaci Alapba történő megfizetésére kell kötelezni akkor, ha a foglalkoztató külföldit úgy foglalkoztat tovább, hogy a munkavállalási engedély érvényességének lejártát megelőzően a külföldi számára új munkavállalási engedély iránti kérelmet az illetékes hatósághoz benyújtott, azonban a hatóság az ügyben nem hozott határozatot.
+(4) A (2) bekezdés a) pontjában foglaltaktól eltérően, a foglalkoztatót a kifizetett munkabér (munkadíj), de legalább a minimálbér kétszeresének megfelelő összeg központi költségvetésbe történő megfizetésére kell kötelezni akkor, ha a foglalkoztató külföldit úgy foglalkoztat tovább, hogy a munkavállalási engedély érvényességének lejártát megelőzően a külföldi számára új munkavállalási engedély iránti kérelmet az illetékes hatósághoz benyújtott, azonban a hatóság az ügyben nem hozott határozatot.
 
 (5) Ha a külföldi részére kifizetett munkabér (munkadíj) összege nem állapítható meg,
 
@@ -28,4 +28,4 @@ c) a (4) bekezdésben foglalt esetben a minimálbér kétszeresének
 
 megfelelő összeg terheli a foglalkoztatót.
 
-(6) Amennyiben a munkaügyi hatóság a munkáltatót külföldi engedély nélkül történő foglalkoztatása miatt a Munkaerőpiaci Alapba történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
+(6) Amennyiben a munkaügyi hatóság a munkáltatót külföldi engedély nélkül történő foglalkoztatása miatt a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
