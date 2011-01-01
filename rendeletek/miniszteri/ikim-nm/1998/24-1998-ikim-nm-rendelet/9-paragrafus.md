@@ -1,6 +1,6 @@
-9. § (1)[^23][^24] A gyártó köteles megőrizni és a Nemzeti Fogyasztóvédelmi Hatóság részére ellenőrzés céljából bármikor hozzáférhetővé tenni a (2) vagy a (3) bekezdés szerinti dokumentumokat.
+9. § (1)[^24] A gyártó köteles megőrizni és a fogyasztóvédelmi hatóság részére ellenőrzés céljából bármikor hozzáférhetővé tenni a (2) vagy a (3) bekezdés szerinti dokumentumokat.
 
-(2)[^25] Ha a játékot a szabványoknak megfelelően gyártották, az alábbi adatokat és dokumentumokat kell a Nemzeti Fogyasztóvédelmi Hatóság részére hozzáférhetővé tenni:
+(2)[^25] Ha a játékot a szabványoknak megfelelően gyártották, az alábbi adatokat és dokumentumokat kell a fogyasztóvédelmi hatóság részére hozzáférhetővé tenni:
 
 a)[^26] a gyártó nevét és címét, a játék gyártásának és raktározásának helyét;
 
@@ -18,7 +18,7 @@ eb)[^27] amennyiben történt tanúsítás, annak a dokumentumnak a másolatát,
 
 ec) azon intézkedések leírását, amelyek igazolják, hogy a gyártó biztosította a vizsgált mintadarabbal való megfelelést.
 
-(3)[^28] Ha a játékot nem vagy nem teljes mértékben a szabványoknak megfelelően gyártották, az alábbi adatokat és dokumentumokat kell a Nemzeti Fogyasztóvédelmi Hatóság részére hozzáférhetővé tenni:
+(3)[^28] Ha a játékot nem vagy nem teljes mértékben a szabványoknak megfelelően gyártották, az alábbi adatokat és dokumentumokat kell a fogyasztóvédelmi hatóság részére hozzáférhetővé tenni:
 
 a) a játék gyártásának és raktározásának helyét,
 
@@ -34,12 +34,11 @@ e) a tanúsító szervezet által kiállított EK típusvizsgálati tanúsítvá
 
 (5)[^31]
 
-[^23]: A 9. § (1) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének b) pontja, a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 8. §-ának e) pontja és 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^24]: Az 1. § (1) bekezdése a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 8. §-ának a) pontja szerint módosított szöveg.
-[^25]: A 9. § (2) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 3. §-ának (1) bekezdésével megállapított, bevezető szöveegrésze a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 8. §-ának e) pontja szerint módosított szöveg.
+[^24]: A 9. § (1) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének b) pontja, a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 8. §-ának a) pontja és 9. § (2) bekezdésének b) pontja, a 27/2010. (XII. 31.) NGM rendelet 14. §-a szerint módosított szöveg.
+[^25]: A 9. § (2) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 3. §-ának (1) bekezdésével megállapított, nyitó szövegrésze a 27/2010. (XII. 31.) NGM rendelet 14. §-a szerint módosított szöveg.
 [^26]: A 9. § (2) bekezdésének a) pontja a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^27]: A 9. § (2) bekezdésének eb) alpontja a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^28]: A 9. § (3) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 3. §-ának (1) bekezdésével megállapított, bevezető szövegrésze a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 8. §-ának e) pontja szerint módosított szöveg.
+[^28]: A 9. § (3) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 3. §-ának (1) bekezdésével megállapított, nyitó szövegrésze a 27/2010. (XII. 31.) NGM rendelet 14. §-a szerint módosított szöveg.
 [^29]: A 9. § (3) bekezdésének c) pontja a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^30]: A 9. § (4) bekezdését a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének c) pontja hatályon kívül helyezte.
 [^31]: A 9. § (5) bekezdését az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 3. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének c) pontja.

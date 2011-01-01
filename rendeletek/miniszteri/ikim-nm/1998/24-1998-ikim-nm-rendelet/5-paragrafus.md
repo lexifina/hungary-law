@@ -1,4 +1,4 @@
-5. § (1)[^15] A tanúsító szervezet a következők szerint végzi el az EK típusvizsgálatot:
+5. § (1)[^16] A tanúsító szervezet a következők szerint végzi el az EK típusvizsgálatot:
 
 a) ellenőrzi a megrendelő által mellékelt dokumentumokat,
 
@@ -8,13 +8,13 @@ c) elvégzi – amennyire csak lehet a szabványok alkalmazásával – a megfel
 
 d) szükség esetén további mintadarabokat kérhet a megrendelőtől.
 
-(2)[^16] Ha a játék mintadarabja megfelel a 2. § (1) bekezdése szerinti lényeges biztonságossági és egészségügyi követelményeknek, akkor a tanúsító szervezet kiállítja az EK típusvizsgálati tanúsítványt.
+(2)[^17] Ha a játék mintadarabja megfelel a 2. § (1) bekezdése szerinti lényeges biztonságossági és egészségügyi követelményeknek, akkor a tanúsító szervezet kiállítja az EK típusvizsgálati tanúsítványt.
 
 (3) A tanúsítványnak a következő adatokat kell tartalmaznia:
 
 a) a tanúsító szervezet nevét, illetve jelét és címét,
 
-b)[^17] a gyártó nevét és címét,
+b)[^18] a gyártó nevét és címét,
 
 c) a vizsgált játék megnevezését és típusát,
 
@@ -24,6 +24,6 @@ e) azon szabványok megnevezését, amelyeknek a vizsgált játék megfelel,
 
 f) a vizsgálat eredményeit.
 
-[^15]: Az 5. § (1) bekezdésének felvezető szövege az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^16]: Az 5. § (2) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^17]: Az 5. § (3) bekezdésének b) pontja az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének b) pontja, a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdésének felvezető szövege az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^17]: Az 5. § (2) bekezdése az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^18]: Az 5. § (3) bekezdésének b) pontja az 56/2004. (IV. 24.) GKM–ESZCSM együttes rendelet 5. § (2) bekezdésének b) pontja, a 26/2008. (XII. 20.) NFGM–EüM együttes rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
