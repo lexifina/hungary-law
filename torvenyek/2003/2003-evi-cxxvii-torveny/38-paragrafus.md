@@ -4,7 +4,7 @@
 
 (2) A jövedéki biztosíték összegét – a (3) bekezdésben foglalt eltéréssel – az e törvényben meghatározott értékhatárok között, a jövedéki termék 37. § (1) bekezdés b) pontja szerinti mennyiségére számított adótartalom egytizenketted részének alapulvételével kell meghatározni. A 37. § (2) bekezdésében foglalt esetben a jövedéki biztosítékot az adóraktárakra összesített adatokat figyelembe véve, az adóraktár engedélyesére kell megállapítani.
 
-(3) A 72. § (2) bekezdés b) pontja szerinti adóraktári engedély esetében jövedéki biztosítékként a külön jogszabályban előírt és teljesített vámbiztosíték szolgál.
+(3)
 
 (4) Ha az adóraktár engedélyesének adóraktárában vagy adóraktárainak egyikében a 37. § (6) bekezdés szerint többféle jövedéki termékcsoport is előállítható, raktározható, tárolható, a nyújtandó jövedéki biztosíték értékhatárainál – a 37. § (6) bekezdés d) pontja szerinti eset kivételével – a termékcsoportokra meghatározott értékhatárok közül a legmagasabbat kell figyelembe venni.
 

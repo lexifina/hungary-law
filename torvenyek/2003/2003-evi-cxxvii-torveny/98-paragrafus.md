@@ -28,14 +28,12 @@ c) a bejegyzett kereskedő.
 
 (11) Az importáló adófizetési kötelezettségének vámhatóság általi megállapításakor az adóból és az általános forgalmi adóból le kell vonni az importált dohánygyártmányra felragasztott adójeggyel megfizetett vagy megfizetésre kerülő összeget, feltéve, hogy az importáló a vámjogi szabadforgalomba bocsátáskor az adójegy kivitelét igazolja, vagy – az adójegy nélkül importált dohánygyártmány esetében – a dohánygyártmány vámjogi szabadforgalomba bocsátása előtt az adójegyet az (5)–(6) bekezdés szerint vette át.
 
-(12) Amennyiben az adó mértéke emelkedik, az új adómérték hatálybalépését megelőző 2 hónapban – amennyiben ennél az új adómérték kihirdetése és hatálybalépése közötti időszak rövidebb, ez utóbbi időszak alatt – (a továbbiakban: referencia-időszak) az adóraktár engedélyese és a 24. § (1) bekezdés szerinti bejegyzett kereskedő havonta nem rendelhet és részére a vámhatóság nem adhat ki a cigarettára és a fogyasztási dohányra több adójegyet, mint az új adómérték kihirdetése hónapját megelőző 12 hónapban (a továbbiakban: bázisidőszak) átvett és a bázisidőszakban visszahozott adójegyekkel csökkentett adójegyek mennyiségéből a bázisidőszakra számított egyhavi átlag 1,15-szöröse.
+(12)–(13)
 
-(13) A (12) bekezdés rendelkezését az importáló és az eseti bejegyzett kereskedő esetében is alkalmazni kell azzal az eltéréssel, hogy az átvett adójegyek egyhavi átlagát a bázisidőszak azon hónapjaira kell számítani, amelyben az importáló, illetve az eseti bejegyzett kereskedő adójegyet vett át.
-
-(14) Amennyiben az adóraktár engedélyese, a bejegyzett kereskedő és az importáló (a továbbiakban együtt: adójegy-felhasználó) a tevékenységét az új adómérték kihirdetésének hónapját megelőző 12 hónapnál rövidebb ideig folytatta, a referencia-időszakban rendelhető, illetve kiadható adójegy mennyiségének meghatározásához figyelembe veendő egyhavi átlagot ezen időszakra vonatkozóan kell – figyelemmel a (13) bekezdés rendelkezéseire is – megállapítani. Amennyiben az adójegy-felhasználó a tevékenységét az új adómérték kihirdetésének hónapját megelőzően 6 hónapnál rövidebb ideig folytatta, vagy tevékenységét az új adómérték kihirdetését követően kezdte meg, számára a vámhatóság a referencia-időszakban nem adhat ki több adójegyet, mint a legalább 12 hónapja működő adójegy-felhasználók esetében számított kiadható mennyiségek közül a legkisebb mennyiség.
+(14)
 
 (15)
 
-(16) Az adómérték változásának hatálybalépését követően az adóraktárból a változás előtti adójeggyel – legfeljebb még 15 napon belül – csak az a dohánygyártmány tárolható ki, amelyre az adójegyet az adómérték változásának hatálybalépése előtt helyezték fel. A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel importálható a szabad forgalom számára és hozható be más tagállamból.
+(16)
 
-(17) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.
+(17)

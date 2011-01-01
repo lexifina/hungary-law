@@ -10,13 +10,13 @@ d) aki a 38. § szerinti jövedéki biztosítékot nyújtja (rendelkezésre bocs
 
 e) aki az adóraktári engedély kiadása évét követő évtől független könyvvizsgáló által hitelesített (auditált) mérleggel rendelkezik;
 
-f) aki a 40. § (9) bekezdésében előírt adatszolgáltatási kötelezettségét elektronikus úton, a vámhatósággal létesített közvetlen számítógépes kapcsolati rendszerben teljesíti;
+f)
 
 g) aki
 
 ga) jövedéki ügyintézői szakképesítéssel rendelkezik, vagy
 
-gb) külön jogszabályban meghatározott egyéb szakképesítést vagy szakmai végzettséget igazoló bizonyítvánnyal és szakmai gyakorlatot elismerő igazolással rendelkezik [a továbbiakban ga)–gb) pont együtt: jövedéki ügyintéző], vagy
+gb) külön jogszabályban meghatározott egyéb szakképesítést vagy szakmai végzettséget igazoló bizonyítvánnyal és szakmai gyakorlattal rendelkezik [a továbbiakban ga)–gb) pont együtt: jövedéki ügyintéző], vagy
 
 gc) jövedéki ügyintézőt foglalkoztat.
 

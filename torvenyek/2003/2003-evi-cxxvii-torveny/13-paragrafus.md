@@ -38,7 +38,7 @@ ab) az 53. § (1) bekezdés b) és c) pont, illetve a 68. § (1) bekezdés b) po
 
 ac) – amennyiben az ásványolajtermék – az ásványolaj-adóraktárban az ásványolajtermék előállításához kapcsolódó célra
 
-használ fel;
+használnak fel;
 
 b) amelyet az adóraktárban a belső minőség-ellenőrzéshez szükséges vizsgálatok céljára – a hatályos jogszabályoknak, valamint szabványoknak megfelelő – mintavételi szabályzat szerint felhasználtak;
 

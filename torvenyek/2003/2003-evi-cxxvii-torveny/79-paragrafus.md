@@ -32,11 +32,9 @@ c) a 2206 vámtarifaszám alá tartozó terméket – a sör kivételével –, 
 
 3. kizárólagos erjedés: a bor tényleges alkoholtartalmának a külön jogszabály rendelkezései szerinti kialakulása;
 
-4. borkísérő okmány: a vámhatóság által kiadott szigorú számadású bizonylat, amelyet e törvény és a külön jogszabály rendelkezései szerint a szőlőbor szállításakor kell alkalmazni;
+4. borkísérő okmány: a szőlőbor szállításához alkalmazandó, a vámhatóság által kiadott, vagy a vámhatóság engedélyével formanyomtatványként, illetve számítógéppel előállított, szigorú számadású bizonylat;
 
-5. borvidék: a szőlőtermesztésről és a borgazdálkodásról szóló törvényben (a továbbiakban: bortörvény) ekként meghatározott szőlőtermő hely;
-
-6. bortermőhely: a bortörvényben ekként meghatározott szőlőtermő hely;
+5–6.
 
 7. mobil palackozó: olyan önjáró vagy vontatott közúti járműre felszerelt, zárt rendszerű technológiai berendezés, amely bor palackozására alkalmas;
 

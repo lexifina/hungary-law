@@ -8,7 +8,7 @@ b) a 101. §, a 105. § (3) bekezdésének, a 110. § (9), (12) és (15) bekezd�
 
 (2) Nem kell alkalmazni az (1) bekezdésben foglalt intézkedést, amennyiben a jövedéki termék mennyisége, amelyre az (1) bekezdésben említett jogsértést elkövették, nem éri el a 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget, illetve az üzemanyagok esetében az 500 litert, és a jogsértést első ízben követték el. Az üzemanyagtöltő állomás, kiskereskedelmi tárolótelep esetében a vámhatóság továbbá mérlegelheti az (1) bekezdésben foglalt intézkedés alkalmazását, amennyiben az üzemanyagtöltő állomás, kiskereskedelmi tárolótelep jövedéki termékkészletének ellenőrzése során megállapított, a külön jogszabály szerint el nem számolható üzemanyag többlet mennyisége termékenként nem haladja meg az 1000 litert.
 
-(3) Nem kell alkalmazni az (1) bekezdésben foglalt intézkedést, amennyiben a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el a jövedéki termék vagy jövedéki termékek beszerzése során.
+(3) Nem kell alkalmazni az (1) és (5) bekezdésben foglalt intézkedést, amennyiben a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el a jövedéki termék vagy jövedéki termékek beszerzése során.
 
 (4) A (3) bekezdés rendelkezésének alkalmazásánál az eset összes körülményét vizsgálni kell, különösen a jövedéki termék beszerzésének körülményeit, a jövedéki termék származását igazoló okmányokat, a jogsértő személy jogellenes magatartásának súlyát.
 

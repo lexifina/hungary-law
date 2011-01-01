@@ -4,7 +4,7 @@
 
 a) az e törvény szerinti engedélyek kiadása, módosítása iránti kérelemnek, valamint a jövedéki üggyel kapcsolatos egyéb kérelmek közokiratként vagy eredeti bizonylatként (ezek hiteles másolataként) csatolandó mellékleteinek benyújtását,
 
-b) az 58. § (11) bekezdés, az 59. § (2) bekezdés és a 71. § (1) bekezdés szerinti tevékenység folytatásának bejelentését,
+b) a 31. § (2) bekezdés, a 32. § (1) bekezdés, az 58. § (11) bekezdés, az 59. § (2) bekezdés és a 71. § (1) bekezdés szerinti tevékenység folytatásának bejelentését,
 
 c)–d)
 

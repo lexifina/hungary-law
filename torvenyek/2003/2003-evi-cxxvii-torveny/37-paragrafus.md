@@ -16,7 +16,7 @@ g) a kérelmező nyilatkozatát a felajánlott jövedéki biztosíték összegé
 
 h) a kérelmező nyilatkozatát arról, hogy vállalja az engedély kiadását követő évtől a mérleg hitelesítési kötelezettséget;
 
-i) a kérelmező nyilatkozatát a közvetlen számítógépes kapcsolati rendszernek a 35. § (1) bekezdés f) pontja szerint történő kialakításáról;
+i)
 
 j)
 

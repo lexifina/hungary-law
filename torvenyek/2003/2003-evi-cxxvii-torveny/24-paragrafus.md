@@ -12,15 +12,15 @@ d) megfelel a 35. § (1) bekezdésének b)–c) és – a 35. § (2) bekezdésé
 
 e)
 
-f) – az (5)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő jövedéki termék mennyiségére számított adótartalom egytizenketted részének megfelelő összegben.
+f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő jövedéki termék mennyiségére számított adótartalom – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó – egytizenketted részének megfelelő összegben.
 
-(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
+(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adónak – megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
 
 (3) Az (1) bekezdés szerinti bejegyzett kereskedő által egy hónap alatt ténylegesen beszerzett jövedéki termék mennyisége – a (7) bekezdésben foglalt eltéréssel – nem haladhatja meg annak a mennyiségnek a másfélszeresét, amelynek adókockázatára a jövedéki biztosíték fedezetet nyújt, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
 
 (4) Az e § szerinti jövedéki biztosítékra a 19. § (5) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a vámhatóság akkor hagyja jóvá, illetve engedi meg a pénzügyi biztosítékban, illetve a készpénzben nyújtott jövedéki biztosíték visszavonását, ha a bejegyzett kereskedő a 25. § szerinti adófizetési kötelezettségét teljesítette.
 
-(5)
+(5) Az (1) bekezdés szerinti bejegyzett kereskedő jövedéki biztosítékára a 38. § (6)–(9) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
 
 (6) Amennyiben olyan személy kéri a bejegyzett kereskedőként való működés engedélyezését, aki érvényes
 

@@ -1,6 +1,6 @@
 ## Az egyszerűsített adóraktár bizonylatolási, nyilvántartási, elszámolási és adóbevallási kötelezettsége
 
-83. § (1) Az egyszerűsített adóraktárból a szőlőbor – az e törvény 40. § (1) bekezdésében foglalt rendelkezéstől eltérően – borkísérő okmánnyal és annak a szállítást végző részére történő átadásával tárolható ki.
+83. § (1)
 
 (2) A borkísérő okmánnyal kapcsolatban elkövetett jogsértés esetén a számlára, a nyugtára vonatkozó rendelkezéseket kell alkalmazni.
 

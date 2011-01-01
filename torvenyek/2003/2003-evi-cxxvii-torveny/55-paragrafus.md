@@ -22,7 +22,7 @@ a) bányászati tevékenység során bányaterületen, valamint
 
 b) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerinti közfeladat ellátása során
 
-közúti forgalomban nem használt gépek és mechanikus berendezések üzemeltetéséhez ténylegesen felhasznált, adózottan beszerzett biodízel után a beszerzéskor megfizetett adóból literenként 79 Ft.
+közúti forgalomban nem használt gépek és mechanikus berendezések üzemeltetéséhez ténylegesen felhasznált, adózottan beszerzett, fenntartható módon előállítottnak minősülő biodízel után a beszerzéskor megfizetett adóból literenként 79 Ft.
 
 (5) A visszaigénylésre a (4) bekezdés a) pont szerinti esetben a bányászatról szóló 1993. évi XLVIII. törvény szerinti hatósági engedéllyel rendelkező azon bányavállalkozó jogosult, amelynek (akinek) a bányatörvény szerint megállapított bányatelekre jogosultsága van, és ott a bányafelügyelet által jóváhagyott műszaki üzemi terv alapján bányászati tevékenységet folytat.
 

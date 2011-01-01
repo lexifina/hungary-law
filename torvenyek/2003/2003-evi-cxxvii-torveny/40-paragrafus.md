@@ -32,4 +32,6 @@ b) szabad forgalomba – kivéve a sűrítettgáz-töltő adóraktárból tört�
 
 (12) Az (1) bekezdés alkalmazásában egyszerűsített kísérő okmányként EKO-t kell alkalmazni, azzal, hogy jogszabály egyéb bizonylat egyszerűsített kísérő okmányként való elfogadásáról is rendelkezhet.
 
-[(13) A (9) bekezdésben előírt adatszolgáltatási kötelezettséget – a sörfőzde kivételével – a 20. § (1) bekezdés szerinti elektronikus úton kell teljesíteni.]
+(13) A (9) bekezdésben előírt adatszolgáltatási kötelezettséget – a sörfőzde kivételével – a 20. § (1) bekezdés szerinti elektronikus úton kell teljesíteni.
+
+(14) Adóraktárból a szőlőbor belföldi rendeltetéssel vagy harmadik országba belföldről történő kiléptetés céljára adófelfüggesztés mellett történő kitárolása, valamint – a külön jogszabályban foglalt eltéréssel – szabadforgalomba bocsátása borkísérő okmány [79. § (2) bekezdés 4. pont] kiállítása mellett történhet.

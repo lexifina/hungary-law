@@ -12,7 +12,7 @@ adókötelezettsége keletkezik, amely egyidejűleg – a 10–11. § rendelkez�
 
 (3) Az adóraktár-engedélyesnek a más tagállamból közösségi adófelfüggesztési eljárásban behozott, ténylegesen átvett jövedéki terméket az e-TKO-n feltüntetett rendeltetési helyen történt betárolással egyidejűleg az adóraktári készletébe fel kell vennie.
 
-(4) Az adóraktár-engedélyes a más tagállamból közösségi adófelfüggesztési eljárásban szállított jövedéki termék adóraktárba történt betárolását követő 5 munkanapon belül köteles a 20. § (1) bekezdés a) vagy b) pontja szerinti elektronikus úton a jövedéki termék betárolásáról elektronikus átvételi elismervényt a vámhatósághoz benyújtani.
+(4) Az adóraktár-engedélyes a más tagállamból közösségi adófelfüggesztési eljárásban szállított jövedéki termék adóraktárba történt betárolását követő 5 munkanapon belül köteles a 20. § (1) bekezdés a) vagy b) pontja szerinti elektronikus úton a jövedéki termék betárolásáról elektronikus átvételi elismervényt – a külön jogszabály szerinti kiegészítő adatok megadásával – a vámhatósághoz benyújtani.
 
 (5) A vámhatóság az uniós számítógépes rendszer alkalmazásával – alaki-formai szempontból, illetve a jövedéki termék feladására és fogadására való jogosultság, valamint e törvény vonatkozó rendelkezéseinek betartása szempontjából – ellenőrzi az elektronikus átvételi elismervényben szereplő adatokat. Amennyiben az adatok
 

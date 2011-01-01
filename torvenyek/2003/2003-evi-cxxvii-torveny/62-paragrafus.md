@@ -10,7 +10,7 @@ ba) adóraktár-engedélyes, a 38. § szerinti,
 
 bb) bejegyzett feladó, a 10. § (3) bekezdés b) pont bb) alpont szerinti,
 
-bc) felhasználói engedélyes, az e § (6) bekezdés szerinti
+bc) felhasználói engedélyes, az 59. § (6) bekezdés szerinti
 
 jövedéki biztosítéka fedezetet nyújt az 59. § (6) bekezdése szerint figyelembe veendő adómértékkel számított adó összegére.
 
@@ -22,7 +22,7 @@ jövedéki biztosítéka fedezetet nyújt az 59. § (6) bekezdése szerint figye
 
 (5) Az egyéb ellenőrzött ásványolaj közösségi adófelfüggesztési eljárásban e-TKO-val szállítható, kivéve a 2710 11 21, a 2710 11 25 és a 2710 19 29 vámtarifaszám alá tartozó, nem ömlesztetten szállított ásványolajtermékeket, melyeket EKO-val kell szállítani. A szabad forgalomba bocsátott egyéb ellenőrzött ásványolaj más tagállamba történő szállítása esetén EKO-t kell alkalmazni.
 
-(6) Az 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj és a megfigyelt termék más tagállamból való behozatalát adóraktár-engedélyes és felhasználói engedélyes végezheti, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő abban az esetben, ha a behozatalt adóraktár-engedélyes, felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére, írásban rögzített megbízás alapján végzi. Az üzemanyagadalék és a biodízel behozatalát továbbá a bejegyzett kereskedő – az adó 25. § szerinti megfizetése esetén –, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő is – az adó 27. § szerinti megfizetése esetén – végezheti. A termék átvételének napján a behozatalt be kell jelenteni a vámhatósághoz, kivéve ha a behozatal közösségi adófelfüggesztési eljárásban, adóraktárba, e-TKO-val történt.
+(6) Az 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj és a megfigyelt termék más tagállamból való behozatalát adóraktár-engedélyes és felhasználói engedélyes végezheti, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő abban az esetben, ha a behozatalt adóraktár-engedélyes, felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére, írásban rögzített megbízás alapján végzi. Az üzemanyag-adalék és a biodízel behozatalát továbbá a bejegyzett kereskedő – az adó 25. § szerinti megfizetése esetén –, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő is – az adó 27. § szerinti megfizetése esetén – végezheti. Egyéb ellenőrzött ásványolajat más tagállamból bejegyzett kereskedő is behozhat, figyelemmel a 25. § (1) bekezdésének rendelkezésére. A termék átvételének napján a behozatalt be kell jelenteni a vámhatósághoz, kivéve, ha a behozatal közösségi adófelfüggesztési eljárásban, adóraktárba, e-TKO-val történt.
 
 (7) A közösségi kereskedelmi tevékenység folytatására jogosult jövedéki engedélyes kereskedő a más tagállamból behozott 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat és a megfigyelt terméket csak adóraktár-engedélyes, felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére értékesítheti az adó 27. § szerinti megfizetése nélkül.
 

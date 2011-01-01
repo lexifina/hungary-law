@@ -6,7 +6,7 @@
 
 (4) A kereskedelmi hatóság a jövedéki termékek kereskedelmi forgalmazására jogosító működési engedélyről szóló döntéseket a működési engedélyről szóló döntés meghozatalával egyidejűleg, a nem kizárólag üzletben forgalmazható jövedéki termék forgalmazására irányuló, a Kertv. szerinti bejelentések másolatát pedig legkésőbb a bejelentés nyilvántartásba vételét követő munkanapon küldi meg a vámhatóságnak.
 
-(5) A nem jövedéki engedélyes kereskedő jövedéki terméket – a dohánygyártmány kivételével, illetve figyelemmel a (6) bekezdésben foglalt feltételre – mozgóbolt útján is értékesíthet, ha a székhelye szerint illetékes vámhatóságnak a mozgóbolton keresztül történő értékesítés megkezdését legkésőbb 6 munkanappal megelőzően írásban, a (7) bekezdés szerint bejelenti.
+(5) A nem jövedéki engedélyes kereskedő jövedéki terméket – a dohánygyártmány kivételével, illetve figyelemmel a (6) bekezdésben foglalt feltételre – mozgóbolt útján is értékesíthet, ha a székhelye szerint illetékes vámhatóságnak a mozgóbolton keresztül történő értékesítés megkezdését legkésőbb nyolc nappal megelőzően írásban, a (7) bekezdés szerint bejelenti.
 
 (6) Mozgóbolt útján
 

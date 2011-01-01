@@ -48,7 +48,7 @@ b) az a külön jogszabályban foglaltak szerint gyógyszer-nagykereskedelmi tev
 
 (12) Az országos közforgalmú vasút üzemeltetője mentesül a (4) bekezdés a) pontjában előírt feltétel teljesítése alól, ha a gázolajat kizárólag a vasúti pályához kötött járművek, munkagépek vasúti szállítási főtevékenységhez közvetlenül kapcsolódó üzemeltetése céljára értékesíti.
 
-(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5) és (11) bekezdésének rendelkezéseit is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki bírságtartozás esetén – külön végzés nélkül – jogosult.
+(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5) és (11) bekezdésének rendelkezéseit is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki vagy mulasztási bírság tartozás esetén – külön végzés nélkül – jogosult, illetve – a 26/A. § (6) bekezdése szerinti esetben – a 38. § (12) bekezdését kell alkalmazni.
 
 (14) A jövedéki engedély megszűnik, ha
 

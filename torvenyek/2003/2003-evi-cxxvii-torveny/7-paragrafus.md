@@ -30,7 +30,7 @@ l) a biológiai ecetet előállító üzemben a kettős fermentáció első lép
 
 m) hígító, oldószer célra gyártott egyéb ellenőrzött ásványolaj előállítását nem jövedéki termék és/vagy egyéb ellenőrzött ásványolaj és/vagy megfigyelt termék komponensekből, összekeveréssel,
 
-n) a 63. § (1) bekezdés c) pontja szerinti alkoholtermékek közül a 64. § (4) bekezdés a)–b) pontja alá eső alkoholtermék előállítását (keletkezését),
+n) a 63. § (1) bekezdés c) pontja szerinti alkoholtermékek közül a 64. § (4) bekezdés a)–b) pontja, továbbá a 63. § (1) bekezdés b) pontja szerinti alkoholtermékek közül a 64. § (9) bekezdése alá eső alkoholtermék előállítását (keletkezését),
 
 o) a cseppfolyósított szénhidrogénnek a külön jogszabály szerint pébégázpalackból turistahasználatú, legfeljebb 3 kg töltettömegű palackba történő átfejtését,
 
@@ -84,9 +84,9 @@ a) az ásványolaj, az ETBE, valamint az 50. § (4) bekezdés d)–f) pontjában
 
 b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. október 19-én hatályos 1. számú mellékletében meghatározott Kombinált Nomenklatúrával megegyező tartalmú, külön PM rendeletben kihirdetett áruazonosító számok. A nyolc számjegynél kevesebb számjeggyel megadott vámtarifaszám esetén annak valamennyi alszámos bontása is ideértendő;
 
-10. adóhatóság: az állami adóhatóság;
+10. adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve;
 
-11.
+11. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve vagy annak kirendeltsége;
 
 12. adóraktár (ideértve a 82. § szerinti egyszerűsített adóraktárt is): az a fizikailag (pl. fallal, kerítéssel, mérési ponttal) elkülönített, – a terméktávvezeték adóraktár és a kikötői adóraktár kivételével – helyrajzi számmal beazonosított, egy technológiai egységet képező üzem, raktár, továbbá a 72. § (2) bekezdés a) pontja szerinti helyen kialakított üzlethelyiség a hozzá tartozó raktárral, ahol az e törvényben meghatározott engedély birtokában jövedéki termék előállítása folyik, illetve ahol olyan jövedéki termék tárolását, raktározását végzik, amely után az adót még nem fizették meg;
 
@@ -144,7 +144,7 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 37/A. biodízel: növényi olajból vagy állati olajból átészterezéssel előállított, a 3824 90 99 vámtarifaszám alá tartozó termék;
 
-37/B. E85: a 3824 90 99 vámtarifaszám alá tartozó, üzemanyag célra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag Közösségben termelt, mezőgazdasági eredetű alapanyagból gyártottak;
+37/B. E85: a 3824 90 99 vámtarifaszám alá tartozó, üzemanyagcélra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag Közösségben termelt, mezőgazdasági eredetű alapanyagból gyártottak, és amely a biomassza, a köztes termékek és a bioüzemanyag fenntartható előállítására vonatkozó követelményekre vonatkozó részletes szabályokról szóló kormányrendeletben meghatározottak szerint fenntartható módon előállítottnak minősül;
 
 37/C. tiszta növényi olaj: a 1507-1518 vámtarifaszám alá tartozó növényi olaj, amennyiben üzemanyagkénti vagy tüzelő-, fűtőanyagkénti felhasználásra vagy üzemanyagba való közvetlen bekeverés céljára állítják elő;
 
@@ -174,4 +174,16 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 47. magánszemély: jövedéki termékkel gazdasági tevékenységet nem folytató természetes személy;
 
-48. termelői borkimérés: az egyszerűsített adóraktárban a saját termelésű szőlőbornak elvitelre vagy borkóstolás céljából helyben fogyasztásra, nem a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. § 30. pontja szerinti vendéglátás keretében történő értékesítése.
+48. termelői borkimérés: az egyszerűsített adóraktárban a saját termelésű szőlőbornak elvitelre vagy borkóstolás céljából helyben fogyasztásra, nem a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. § 30. pontja szerinti vendéglátás keretében történő értékesítése;
+
+49. fenntarthatósági bizonyítvány: a bioüzemanyagok fenntartható előállításának szabályairól szóló jogszabályban foglaltak szerint kiállított, a bioüzemanyag fenntartható módon történt előállítását igazoló okmány.
+
+50. motorfejlesztés: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008.8.9.) (a továbbiakban: csoportmentességi rendelet) 30. cikk 4. pontja szerinti kísérleti fejlesztés keretében a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztés;
+
+51. kereskedelmi gázolaj: az 52. § (1) bekezdés d) pontja alá tartozó gázolaj, amelyet
+
+a) ellenszolgáltatás fejében vagy saját költségre kizárólag közúti árufuvarozásra szolgáló, legalább 7,5 tonna megengedett legnagyobb össztömegű gépjárművel vagy nyerges járműszerelvénnyel (nyerges vontatóval) végzett közúti árufuvarozáshoz, vagy
+
+b) akár menetrendszerű, akár nem menetrendszerű forgalomban, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 vagy M3 kategóriába tartozó gépjárművel végzett személyszállításhoz
+
+használnak fel.

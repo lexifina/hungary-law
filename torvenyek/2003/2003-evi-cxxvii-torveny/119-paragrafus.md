@@ -18,7 +18,7 @@ f) a termékek, a zárjegy előállítására használt eszközt,
 
 g) a termékek, a zárjegy felhasználására, tárolására és szállítására használt eszközt [e fejezet alkalmazásában az e)–g) pontokban meghatározottak a továbbiakban: eszközök] – a (4) bekezdésben foglalt eltéréssel –
 
-h) magánfőzésre használt desztillálóberendezést, ha
+h) a magánfőzésre használt desztillálóberendezést, ha
 
 ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében az adó megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
 

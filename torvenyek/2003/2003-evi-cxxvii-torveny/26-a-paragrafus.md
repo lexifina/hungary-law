@@ -12,6 +12,8 @@ c) a (2) bekezdés szerint jövedéki biztosítékot nyújt.
 
 (3) A bejegyzett feladó jövedéki biztosítékára a 19. § (5) és (7) bekezdését kell értelemszerűen alkalmazni.
 
-(4) A bejegyzett feladó engedélyének benyújtására, kiadására a 24. § (9) bekezdését, az engedély megszűnésére és visszavonására a 39. § rendelkezéseit kell – értelemszerűen – alkalmazni azzal, hogy a vámhatóság tizenöt munkanapon belül bírálja el a kérelmet.
+(4) A bejegyzett feladó engedélyének benyújtására, kiadására a 24. § (9) bekezdését, az engedély megszűnésére és visszavonására a 39. § rendelkezéseit kell – értelemszerűen – alkalmazni azzal, hogy a vámhatóság húsz napon belül bírálja el a kérelmet.
 
 (5) A bejegyzett feladó köteles – a külön jogszabály szerinti adattartalommal – a felfüggesztett adófizetési kötelezettsége beálltának megállapítására alkalmas nyilvántartást vezetni, amelyet havonta köteles lezárni.
+
+(6) Ha a bejegyzett feladó egyúttal jövedéki engedéllyel rendelkező importáló vagy adóraktár-engedélyes, a bejegyzett feladói tevékenységre a (2) bekezdés szerinti jövedéki biztosítékot nem kell külön teljesítenie, amennyiben azt az import tevékenységére, illetve az adóraktári engedélyéhez nyújtott jövedéki biztosítéka meghaladja. Ellenkező esetben a bejegyzett feladói engedély megadásához, illetve érvényességéhez a különbözetre kell jövedéki biztosítékot nyújtani.

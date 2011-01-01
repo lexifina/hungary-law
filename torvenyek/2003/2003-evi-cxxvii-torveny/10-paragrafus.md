@@ -30,4 +30,4 @@ bb) bejegyzett feladó, a bejegyzett feladó jövedéki biztosítékot nyújt a 
 
 (8) Amennyiben az adóraktári engedélynek vagy az adómentes felhasználó keretengedélyének megszűnését követő 30 napon belül felszámolási vagy végelszámolási eljárás indul, a készleten maradt jövedéki termék utáni adómegállapítási és adófizetési kötelezettségre a (6)–(7) bekezdés rendelkezését kell alkalmazni.
 
-(9) A jövedéki terméket belföldi rendeltetéssel feladó bejegyzett feladóra a 26/A. § (1), (3)–(5) bekezdés rendelkezéseit értelemszerűen alkalmazni kell azzal, hogy jövedéki biztosítéka az elektronikus átvételi elismervény 11. § (8) bekezdés szerint részére történő továbbításával egyidejűleg szabadul fel, illetve válik ismételten felhasználhatóvá.
+(9) A jövedéki terméket belföldi rendeltetéssel feladó bejegyzett feladóra a 26/A. § (1), (3)–(6) bekezdés rendelkezéseit értelemszerűen alkalmazni kell azzal, hogy jövedéki biztosítéka az elektronikus átvételi elismervény 11. § (8) bekezdés szerint részére történő továbbításával egyidejűleg szabadul fel, illetve válik ismételten felhasználhatóvá.

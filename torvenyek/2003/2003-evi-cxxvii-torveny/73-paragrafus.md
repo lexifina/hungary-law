@@ -24,7 +24,9 @@ d) a teljesen denaturált alkoholtermékre,
 
 e) a 2207 vámtarifaszám alá tartozó, nyomdaipari célokat szolgáló hígítóra, oldószerre,
 
-f) a 2207 és 2208 vámtarifaszámú alkoholtermékre, amennyiben az adózottan, a 63. § (1) bekezdés c) pontja szerinti alkoholtermék előállítása céljára kerül értékesítésre.
+f) a 2207 és 2208 vámtarifaszámú alkoholtermékre, amennyiben az adózottan, a 63. § (1) bekezdés c) pontja szerinti alkoholtermék előállítása céljára kerül értékesítésre,
+
+g) a 2208 vámtarifaszámú, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú termékre, ha az keretengedéllyel előállított vagy más tagállamból, harmadik országból behozott, a 68. § (1) bekezdés a) pontjában megnevezett termék.
 
 (3) A zárjegy az alkoholtermék palackjára vagy legkisebb fogyasztói csomagolási egységére felhelyezett olyan bélyeg, amely igazolja, hogy a termék adóraktárban került előállításra (palackozásra), és onnan került kiszállításra, – a bérfőzött párlat és a magánfőzésben előállított párlat esetén – továbbá azt, hogy a 64. § (5), illetve (6) bekezdés szerinti adót megfizették, továbbá azt, hogy a harmadik országból, illetve tagállamból a közösségi vámjog, illetve e törvény rendelkezései szerint került behozatalra.
 
@@ -46,7 +48,7 @@ c) a zárjegy igénylőjének tevékenységi körén kívül eső elháríthatat
 
 (9) Az alkoholtermék – a 63. § (1) bekezdés c) pontja szerinti termék, valamint a (2) bekezdés a) és c)–f) pontjaiban foglalt esetek kivételével, illetve a (10) bekezdésben foglalt eltéréssel – 2 liter űrtartalmat meg nem haladó göngyölegben palackozva bocsátható szabad forgalomba, illetve hozható forgalomba a más tagállamból behozatalt követően.
 
-(10) Az alkoholtermék reklám, kiállítás céljából, valamint alkalmi, eseti kereskedelmi forgalmazásra 2 litert meghaladó, egyedileg beazonosítható göngyölegben való szabad forgalomba bocsátása, illetve más tagállamból történt behozatalt követően a forgalomba hozatala az adóraktár, a bejegyzett kereskedő, az importáló vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által a vámhatósághoz teljesített előzetes bejelentés és annak a vámhatóság általi nyilvántartásba vételét követően lehetséges. A bejelentést esetenként, legkésőbb a forgalmazást, tagállamból történő behozatal esetében a behozatalt, importálás esetében pedig az importálást megelőző harmadik munkanapig kell elektronikus úton, az ügyfélkapun keresztül megtenni. A vámhatóság a bejelentést legkésőbb a bejelentést követő munkanapon nyilvántartásba veszi és arról a bejelentőt elektronikus úton, az ügyfélkapun keresztül értesíti.
+(10) Az alkoholtermék reklám, kiállítás céljából, valamint alkalmi, eseti kereskedelmi forgalmazásra 2 litert meghaladó, egyedileg beazonosítható göngyölegben való szabad forgalomba bocsátása, illetve más tagállamból történt behozatalt követően a forgalomba hozatala az adóraktár, a bejegyzett kereskedő, az importáló vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által a vámhatósághoz teljesített előzetes bejelentés és annak a vámhatóság általi nyilvántartásba vételét követően lehetséges. A bejelentést esetenként, legkésőbb a forgalmazást, tagállamból történő behozatal esetében a behozatalt, importálás esetében pedig az importálást megelőző ötödik napig kell elektronikus úton, az ügyfélkapun keresztül megtenni. A vámhatóság a bejelentést legkésőbb a bejelentést követő munkanapon nyilvántartásba veszi és arról a bejelentőt elektronikus úton, az ügyfélkapun keresztül értesíti.
 
 (11) Az alkoholtermék tranzitadóraktárba kizárólag zárjegy nélkül tárolható be, és a tranzitadóraktárból kizárólag zárjegy nélkül értékesíthető.
 
