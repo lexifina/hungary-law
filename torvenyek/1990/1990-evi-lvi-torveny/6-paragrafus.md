@@ -12,7 +12,7 @@ d) 30%-a után a II. besorolási osztály 10. fizetési fokozata
 
 szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is figyelembe vevő illetménykeretre jogosultak. Az illetménykeret terhére megbízási jogviszony is létesíthető.
 
-A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott cafetéria-juttatások fedezetét a köztisztviselői illetményalap hétszereséig az Országgyűlés hivatali szervezetének költségvetéséből kell biztosítani. Ezen túlmenően a hivatali szerv döntési jogkörébe tartozó cafeteria- és egyéb juttatásokra, valamint jutalmazásra a képviselőcsoportok a megállapított éves bérkeretük 10%-ának megfelelő fedezetre jogosultak, amelynek terhére azonban köztisztviselő nem alkalmazható.
+A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott cafetéria-juttatások fedezetére bruttó kettőszázezer forintot az Országgyűlés hivatali szervezetének költségvetéséből kell biztosítani. Ezen túlmenően a hivatali szerv döntési jogkörébe tartozó egyéb juttatásokra, valamint jutalmazásra a képviselőcsoportok a megállapított éves bérkeretük 10%-ának megfelelő fedezetre jogosultak, amelynek terhére azonban köztisztviselő nem alkalmazható.
 
 (3) Az Európai Unióhoz történő csatlakozással összefüggő feladatok céljából a (2) bekezdésen túl, de az ott meghatározott módon és mértékig minden képviselőcsoport további két köztisztviselőre tarthat igényt, valamint minden ötvenedik tagja után további egy köztisztviselő alkalmazására jogosult. Az alkalmazás pénzügyi feltételeit (illetmény, költségtérítések) az Országgyűlés hivatali szervezete költségvetéséből kell biztosítani a (2) bekezdés a)–d) pontja szerinti illetményszámítás, illetve a (2) bekezdés szerint megállapított juttatások figyelembevételével.
 
