@@ -20,4 +20,4 @@ g) névjegyzékbe való felvételéről szóló határozat számát,
 
 h) szolgáltatási szerződése lejáratának időpontját.
 
-(2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot 5 munkanapon belül köteles értesíteni.
+(2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot nyolc napon belül köteles értesíteni.
