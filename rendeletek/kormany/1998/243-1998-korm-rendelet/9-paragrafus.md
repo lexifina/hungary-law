@@ -1,4 +1,4 @@
-## 8. §[^20] Beszállító vagy felhasználó létesítmény állatkísérlet céljára csak tenyésztő vagy beszállító létesítménytől szerezhet be állatot, kivéve ha az MgSzH általános vagy eseti engedélye ettől eltérően rendelkezik, és a beszállító vagy felhasználó létesítmény az abban meghatározott feltételeket teljesíti.
+## 8. §[^20] Beszállító vagy felhasználó létesítmény állatkísérlet céljára csak tenyésztő vagy beszállító létesítménytől szerezhet be állatot, kivéve ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság általános vagy eseti engedélye ettől eltérően rendelkezik, és a beszállító vagy felhasználó létesítmény az abban meghatározott feltételeket teljesíti.
 
 ## Az állatkísérlet jóváhagyása
 
@@ -18,14 +18,14 @@ e) az állatnak okozható fájdalmat, szenvedést, károsodást, illetve ezek me
 
 f) a kísérlet vezetőjének, valamint felügyelőjének nevét, szakképzettségét.
 
-(3)[^23] Az MgSzH – az Etikai Tanács véleménye alapján – kivételesen engedélyezheti a nagyon súlyos fájdalommal járó állatkísérletet. Az ilyen kísérlet iránti kérelmet részletesen indokolni kell, és ahhoz csatolni kell a MÁB-nak a fájdalom súlyossága tekintetében – a kísérletvezető javaslata alapján – kialakított álláspontját.
+(3)[^23] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – az Etikai Tanács véleménye alapján – kivételesen engedélyezheti a nagyon súlyos fájdalommal járó állatkísérletet. Az ilyen kísérlet iránti kérelmet részletesen indokolni kell, és ahhoz csatolni kell a MÁB-nak a fájdalom súlyossága tekintetében – a kísérletvezető javaslata alapján – kialakított álláspontját.
 
 (4) A MÁB nyilvántartást vezet az általa jóváhagyott kísérletekről, valamint az intézményben folyó állatvédelmi oktatásról (az oktatás tematikája, a résztvevők névsora).
 
-(5)[^24] A kísérlet vezetője az MgSzH által engedélyezett kísérletekről a kísérletet jóváhagyó MÁB elnökét írásban köteles tájékoztatni.
+(5)[^24] A kísérlet vezetője az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által engedélyezett kísérletekről a kísérletet jóváhagyó MÁB elnökét írásban köteles tájékoztatni.
 
-[^20]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 154. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 154. § (3) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.
 [^21]: A 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 154. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^22]: A 9. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 155. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^23]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 154. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^24]: A 9. § (5) bekezdését a 103/2002. (V. 10.) Korm. rendelet 7. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 155. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 154. § (5) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.
+[^24]: A 9. § (5) bekezdését a 103/2002. (V. 10.) Korm. rendelet 7. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.

@@ -74,4 +74,4 @@
 
 3. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^32]
 
-[^32]: A 3. számú melléklet a 186/2003. (XI. 5.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 155. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 3. számú melléklet a 186/2003. (XI. 5.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 54. §-a szerint módosított szöveg.

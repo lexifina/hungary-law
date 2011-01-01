@@ -2,7 +2,7 @@
 
 ## Általános elvek
 
-## A MÁB évente (minden év január 31-éig) köteles összesíteni és az MgSzH részére írásban jelenteni az állatkísérletekben felhasznált állatok mennyiségét az 1–5. táblázatban előírt módon. A számlálás akkor kezdődik, amikor az állatokat az eljárás (procedúra, kísérlet) alá vonják. Minden állatot csupán egyszer szabad ugyanabba a táblázatba beszámítani. Azokat az állatokat, melyek nem alanyai a kísérleteknek, nem szabad beszámítani az összesítésbe.
+## A MÁB évente (minden év január 31-éig) köteles összesíteni és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság részére írásban jelenteni az állatkísérletekben felhasznált állatok mennyiségét az 1–5. táblázatban előírt módon. A számlálás akkor kezdődik, amikor az állatokat az eljárás (procedúra, kísérlet) alá vonják. Minden állatot csupán egyszer szabad ugyanabba a táblázatba beszámítani. Azokat az állatokat, melyek nem alanyai a kísérleteknek, nem szabad beszámítani az összesítésbe.
 
 ## 1. táblázat
 
