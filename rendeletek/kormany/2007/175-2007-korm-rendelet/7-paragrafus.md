@@ -1,10 +1,10 @@
 ## 6. § A nem az Egészségbiztosítási Alap terhére igénybe vehető vizsgálatok estében a saját jogú igényjogosultak a részükre szolgálati érdekből – így különösen a különleges feladatellátáshoz, misszióba tervezéshez, kötelező felülvizsgálathoz – előírt ellátás tekintetében a nem saját jogú igényjogosultakkal szemben előnyben részesíthetők azzal, hogy az igényjogosultak ilyen ellátásának sorrendje nem befolyásolja az Egészségbiztosítási Alap terhére, intézményi várólista alapján igénybe vehető ellátások rendjét.
 
-## A HONVÉDKÓRHÁZBAN IGÉNYBE VEHETŐ SPECIÁLIS EGÉSZSÉGÜGYI ELLÁTÁS[^15]
+## A HONVÉDKÓRHÁZBAN IGÉNYBE VEHETŐ SPECIÁLIS EGÉSZSÉGÜGYI ELLÁTÁS[^17]
 
-7. § (1)[^16] A Honvédkórház a honvédelem területén nyújtott speciális tevékenységét a HEK-kel együttműködve az általa meghatározott igények figyelembevételével valósítja meg. A rendvédelem területén nyújtott speciális tevékenységet a Honvédkórház látja el, kivéve, ha azt e rendelet vagy jogszabály a HEK vagy a rendvédelmi szerv feladatkörébe utalja.
+7. § (1)[^18] A Honvédkórház a honvédelem területén nyújtott speciális tevékenységét a HEK-kel együttműködve az általa meghatározott igények figyelembevételével valósítja meg. A rendvédelem területén nyújtott speciális tevékenységet a Honvédkórház látja el, kivéve, ha azt e rendelet vagy jogszabály a HEK vagy a rendvédelmi szerv feladatkörébe utalja.
 
-(2)[^17] A honvédelem és a rendvédelem terén ellátandó speciális állami feladatok különösen:
+(2)[^19] A honvédelem és a rendvédelem terén ellátandó speciális állami feladatok különösen:
 
 a) egészségügyi kiképzés, szakképzés;
 
@@ -58,12 +58,12 @@ i) a hivatásos állomány tagjai erőnléti állapotának felmérését
 
 ## kell érteni.
 
-(4)[^18] A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a HEK bírálja el (FÜV).
+(4)[^20] A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a HEK bírálja el (FÜV).
 
-(5)[^19] A Honvédkórház a saját jogú igényjogosultak munkáltatójának megkeresése alapján szakmai alkalmassági vizsgálatot végez. A szakmai alkalmassági vizsgálat költségeit az azt előíró a Honvédkórháznak külön megállapodás alapján megtéríti.
+(5)[^21] A Honvédkórház a saját jogú igényjogosultak munkáltatójának megkeresése alapján szakmai alkalmassági vizsgálatot végez. A szakmai alkalmassági vizsgálat költségeit az azt előíró a Honvédkórháznak külön megállapodás alapján megtéríti.
 
-[^15]: A 7. §-t megelőző alcím a 282/2010. (XII. 15.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^16]: A 7. § (1) bekezdése 236/2009. (X. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^17]: A 7. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^18]: A 7. § (4) bekezdése e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napjával. A 7. § (4) bekezdését újonnan a 236/2009. (X. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^19]: A 7. § (5) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 18. § c) és f) pontja szerint módosított szöveg.
+[^17]: A 7. §-t megelőző alcím a 282/2010. (XII. 15.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^18]: A 7. § (1) bekezdése a 236/2009. (X. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^20]: A 7. § (4) bekezdése e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napjával. A 7. § (4) bekezdését újonnan a 236/2009. (X. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^21]: A 7. § (5) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 18. § c) és f) pontja szerint módosított szöveg.
