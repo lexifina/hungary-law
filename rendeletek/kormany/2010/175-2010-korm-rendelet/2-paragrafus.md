@@ -1,6 +1,6 @@
-2. § (1) A Programba olyan a KMRMK által álláskeresőként nyilvántartott személy vonható be,
+2. § (1)[^3] A Programba olyan a Budapest Főváros Kormányhivatalának Munkaügyi Központja által álláskeresőként nyilvántartott személy vonható be,
 
-a) akinek munkaviszonya 2008. szeptember 1-jét követően szűnt meg
+a)[^4] aki bérpótló juttatásban részesül
 
 aa) a munkáltató – működési körében felmerülő okból történő – rendes felmondása, felmentése miatt,
 
@@ -20,10 +20,15 @@ c) aki a programban történő részvétele kezdő időpontját megelőző 12 h�
 
 a) aki a Munkaerőpiaci Alap foglalkoztatási alaprészének decentralizált keretéből, valamint képzési keretéből támogatásban részesül,
 
-b) akinek a KMRMK által folyósított és jogerős határozattal visszakövetelt támogatással összefüggő fizetési kötelezettsége áll fenn,
+b)[^5] akinek a Budapest Főváros Kormányhivatalának Munkaügyi Központja által folyósított és jogerős határozattal visszakövetelt támogatással összefüggő fizetési kötelezettsége áll fenn,
 
 c) aki másik munkaügyi központ által lefolytatott programban vesz részt,
 
-d) akivel összefüggésben a KMRMK által korábban indított bármely programot, illetőleg programszakaszt érintően a nyomonkövetés nem zárult le,
+d)[^6] akivel összefüggésben a Budapest Főváros Kormányhivatalának Munkaügyi Központja által korábban indított bármely programot, illetőleg programszakaszt érintően a nyomonkövetés nem zárult le,
 
 e) aki a 2004–2006. évi Humánerőforrás Fejlesztési Operatív Program 1.1 „A munkanélküliség megelőzése és kezelése” intézkedés, – a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció „Megváltozott munkaképességűek munkaerőpiaci programja”, vagy a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció „Decentralizált programok a hátrányos helyzetűek foglalkoztatását”, vagy a Társadalmi Megújulás Operatív Program 1.1.3. konstrukció „ Út a munka világába” programok keretében szakképesítést, vagy munkakör betöltéséhez szükséges képesítést szerzett, vagy közvetlenül munkavégzéssel összefüggésben biztosított támogatásban részesült és a támogatás megszűnését követően két évnél kevesebb idő telt el.
+
+[^3]: A 2. § (1) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 282. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés a) pont nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 282. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 282. §-a szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 282. §-a szerint módosított szöveg.

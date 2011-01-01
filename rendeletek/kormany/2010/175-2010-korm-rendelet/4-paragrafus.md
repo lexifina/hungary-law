@@ -8,6 +8,9 @@ b) a támogatással érintett személy felvétele a vállalkozás munkavállaló
 
 (3) A Program keretében nem nyújtható munkatapasztalat szerzés céljából bérköltség-támogatás a munkaadónak, ha a támogatás iránti kérelem benyújtását megelőző hat hónapban a munkavállaló munkaviszonyát a működési körében felmerülő okból rendes felmondással szüntette meg.
 
-(4) A Program keretében megtéríthető a Programban résztvevő személy foglalkoztatásával, valamint a képzésével összefüggően igénybe vett foglalkozás-egészségügyi és munkaköri alkalmassági vizsgálat költsége. A KMRMK a vizsgálat költségeit közvetlenül a vizsgálatot végző szervnek téríti meg.
+(4)[^7] A Program keretében megtéríthető a Programban résztvevő személy foglalkoztatásával, valamint a képzésével összefüggően igénybe vett foglalkozás-egészségügyi és munkaköri alkalmassági vizsgálat költsége. A Budapest Főváros Kormányhivatalának Munkaügyi Központja a vizsgálat költségeit közvetlenül a vizsgálatot végző szervnek téríti meg.
 
-(5) A Programban részt vevő személy részére megtéríthetők a KMRMK által kezdeményezett foglalkozás-egészségügyi és képzési alkalmassági szakvélemény beszerzéséhez szükséges utazás indokolt és igazolt helyközi, és helyi utazási költségei.
+(5)[^8] A Programban részt vevő személy részére megtéríthetők a Budapest Főváros Kormányhivatalának Munkaügyi Központja által kezdeményezett foglalkozás-egészségügyi és képzési alkalmassági szakvélemény beszerzéséhez szükséges utazás indokolt és igazolt helyközi, és helyi utazási költségei.
+
+[^7]: A 4. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 282. §-a szerint módosított szöveg.
+[^8]: A 4. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 282. §-a szerint módosított szöveg.
