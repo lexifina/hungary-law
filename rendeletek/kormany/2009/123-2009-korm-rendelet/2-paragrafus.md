@@ -2,7 +2,7 @@
 
 2. § (1) A (2) bekezdésben foglalt eltérésekkel a 689/2008/EK rendeletben előírt igazgatási feladatok végrehajtására a Kormány nemzeti hatóságként
 
-a) a növényvédő szerek és termésnövelő anyagok esetében a Mezőgazdasági Szakigazgatási Hivatal Központot, növény- és talajvédelmi jogkörében,
+a)[^1] a növényvédő szerek és termésnövelő anyagok esetében a Mezőgazdasági Szakigazgatási Hivatalt, növény- és talajvédelmi jogkörében,
 
 b) az ipari vegyi anyagok és készítmények esetében az Országos Kémiai Biztonsági Intézetet (a továbbiakban: OKBI)
 
@@ -12,13 +12,13 @@ b) az ipari vegyi anyagok és készítmények esetében az Országos Kémiai Biz
 
 a) a termékek harmadik országba történő kivitelének és onnan történő behozatalának ellenőrzése tekintetében – a (3)–(6) bekezdés szerinti feladatok ellátására – a Vám- és Pénzügyőrséget,
 
-b) az a) pontban foglaltak kivételével a termékek harmadik országba történő kivitelének és onnan történő behozatalának ellenőrzése, valamint a végrehajtás belföldi ellenőrzése tekintetében az Állami Népegészségügyi és Tisztiorvosi Szolgálat kistérségi intézetét
+b)[^2] az a) pontban foglaltak kivételével a termékek harmadik országba történő kivitelének és onnan történő behozatalának ellenőrzése, valamint a végrehajtás belföldi ellenőrzése tekintetében fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetét (továbbiakban: Intézet)
 
 ## jelöli ki.
 
 (3) A 689/2008/EK rendelet hatálya alá tartozó áru behozatala esetén a (2) bekezdés a) pontja szerinti feladatkörében a Vám- és Pénzügyőrség illetékes szerve ellenőrzi a behozatalt lehetővé tevő határozat meglétét.
 
-(4) Ha a Vám- és Pénzügyőrség illetékes szerve a (3) bekezdés szerinti ellenőrzés során a 689/2008/EK rendelet szerinti, a behozatalt lehetővé tevő határozat hiányát állapítja meg vagy valószínűsíti, az árut feltartóztatja, és erről a megfelelő eljárás lefolytatása érdekében haladéktalanul értesíti az Állami Népegészségügyi és Tisztiorvosi Szolgálatnak az ellenőrzés helye szerint illetékes kistérségi intézetét (a továbbiakban: Intézet). Az ilyen árut átmeneti megőrzés alatt álló árunak kell tekinteni.
+(4)[^3] Ha a Vám- és Pénzügyőrség illetékes szerve a (3) bekezdés szerinti ellenőrzés során a 689/2008/EK rendelet szerinti, a behozatalt lehetővé tevő határozat hiányát állapítja meg vagy valószínűsíti, az árut feltartóztatja, és erről a megfelelő eljárás lefolytatása érdekében haladéktalanul értesíti az az ellenőrzés helye szerint illetékes Intézetet. Az ilyen árut átmeneti megőrzés alatt álló árunak kell tekinteni.
 
 (5) A 689/2008/EK rendelet hatálya alá tartozó áru kivitele esetén a (2) bekezdés a) pontja szerinti feladatkörében a Vám- és Pénzügyőrség illetékes szerve
 
@@ -31,3 +31,7 @@ b) a vámáru-nyilatkozat alapján ellenőrzi a kiviteli bejelentés megtételé
 (7) Az Intézet a (4) és a (6) bekezdés szerinti értesítés alapján indított eljárásában – a jogszerű állapot helyreállításáig – elrendelheti az áru visszatartását vagy lefoglalását, külön jogszabály szerint kémiai terhelési bírságot szabhat ki, valamint az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvényben foglalt jogkörében megteheti a lakosság, az állatok és növények egészsége, valamint a környezet védelme érdekében szükséges egyéb intézkedéseket. Az eljárást az Intézet a Vám- és Pénzügyőrség illetékes szervének értesítésétől számított 15 napon belül lefolytatja és annak eredményéről a vámeljárás lezárása érdekében tájékoztatja a Vám- és Pénzügyőrség illetékes szervét.
 
 (8) Amennyiben az áru kivitele, illetve behozatala az Intézet tájékoztatása értelmében nem engedélyezett, a Vám- és Pénzügyőrség illetékes szerve az áruk behozatalára, valamint kivitelére vonatkozó külön jogszabályokban meghatározottak szerint jár el.
+
+[^1]: A 2. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése szerint módosított szöveg.
