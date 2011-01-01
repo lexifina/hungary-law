@@ -192,7 +192,7 @@
 
 ## 2.[^58]
 
-## 3.[^59] A környezetvédelmi hatóság az 1. pontban ismertetett dokumentumokat, szakmai javaslatával együtt, a kérelem kézhezvételét követő 10 munkanapon belül továbbítja a Környezet- és Természetvédelmi Főfelügyelőséghez, amelynek gondoskodnia kell a dokumentumoknak a Bizottság elnökéhez nyolc napon belül történő továbbításáról.
+## 3.[^59] A környezetvédelmi hatóság az 1. pontban ismertetett dokumentumokat, szakmai javaslatával együtt, a kérelem kézhezvételét követő tizenöt napon belül továbbítja a Környezet- és Természetvédelmi Főfelügyelőséghez, amelynek gondoskodnia kell a dokumentumoknak a Bizottság elnökéhez nyolc napon belül történő továbbításáról.
 
 ## 4. Hiányosan benyújtott dokumentáció, illetve a hiányok pótlásának elmaradása esetében a Bizottság a benyújtott dokumentáció alapján alakítja ki állásfoglalását.
 
@@ -597,7 +597,7 @@
 [^56]: Az 1. számú melléklet D) pontjának 1.1.5. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^57]: Az 1. számú melléklet D) pontjának 1.3. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^58]: Az 1. számú melléklet D) pontjának 2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^59]: Az 1. számú melléklet D) pontjának 3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 229. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^59]: Az 1. számú melléklet D) pont 3. alpontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^60]: Az 1. számú melléklet E) fejezetének 1.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
 [^61]: Az 1. számú melléklet E) fejezetének 2.1.4. alpontja a 192/2003. (XI. 26.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
 [^62]: A 2. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.

@@ -380,4 +380,4 @@
 
 3. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^63]
 
-[^63]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 229. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^63]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

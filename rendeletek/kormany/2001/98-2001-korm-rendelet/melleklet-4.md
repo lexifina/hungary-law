@@ -16,7 +16,7 @@
 
 ## Az üzemi gyűjtőhely kialakítható nyílt téri vagy fedett módon az e melléklet előírásai szerint.
 
-## Az üzemi gyűjtőhely működési szabályzatának 1 példányát a használatbavételi engedélyezési eljárást megelőzően meg kell küldeni a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek. A megküldött működési szabályzatra a felügyelőség szükség esetén észrevételt, javaslatot tehet. Amennyiben a felügyelőség a működési szabályzatra 22 munkanapon belül észrevételt nem tesz, úgy azt elfogadottnak kell tekinteni.
+## Az üzemi gyűjtőhely működési szabályzatának 1 példányát a használatbavételi engedélyezési eljárást megelőzően meg kell küldeni a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek. A megküldött működési szabályzatra a felügyelőség szükség esetén észrevételt, javaslatot tehet. Amennyiben a felügyelőség a működési szabályzatra harminc napon belül észrevételt nem tesz, úgy azt elfogadottnak kell tekinteni.
 
 ## A hulladékgyűjtő udvar kialakítható nyílt téri vagy fedett módon az e melléklet előírásai szerint, amelyből a szivárgórendszer elhagyható, ha összefolyóval és nyílt téri megoldásnál övárokkal alakítják ki.
 
