@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-75-00-00.7 |
 | 2010-04-01 | 2009. évi CLV. törvény | 2007-75-00-00.8 |
 | 2010-11-20 | 2010. évi CXXIII. törvény | 2007-75-00-00.9 |
+| 2011-01-01 | 2010. évi CXXIII. törvény | 2007-75-00-00.10 |

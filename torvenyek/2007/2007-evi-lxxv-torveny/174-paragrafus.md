@@ -22,4 +22,6 @@ c) az előírt adatszolgáltatások elmulasztása,
 
 d) az előírt könyvvizsgálói felelősségbiztosítás megkötésének, hatályban tartásának elmulasztása,
 
-e) a jogszabályokban foglalt sajátos kötelezettségek megszegése a 49. § szerinti minősítéssel rendelkező kamarai tag könyvvizsgáló vagy könyvvizsgáló cég esetében.
+e) a jogszabályokban foglalt sajátos kötelezettségek megszegése a 49. § szerinti minősítéssel rendelkező kamarai tag könyvvizsgáló vagy könyvvizsgáló cég esetében,
+
+f) az előírt összeférhetetlenségi szabályokkal ellentétes magatartás tanúsítása.

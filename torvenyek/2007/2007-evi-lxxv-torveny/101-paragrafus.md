@@ -12,4 +12,4 @@ d) elhalálozott.
 
 (3) A névjegyzékből való törléskor a 97. § (6) bekezdése szerinti igazolást vissza kell vonni.
 
-(4) Nem kell törölni a könyvvizsgáló jelöltek névjegyzékéből az (1) bekezdés a) pontja alapján a könyvvizsgáló jelöltet a 98. § (1) bekezdésének c) pontja szerinti munkaviszony megszűnése esetén, ha egy éven belül más kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel ilyen munkaviszonyt létesített.
+(4) Nem kell törölni a könyvvizsgáló jelöltek névjegyzékéből az (1) bekezdés a) pontja alapján a könyvvizsgáló jelöltet a 98. § (1) bekezdésének c) pontja szerinti munkaviszony, munkaviszony jellegű jogviszony megszűnése esetén, ha egy éven belül más kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel ilyen munkaviszonyt, munkaviszony jellegű jogviszonyt létesített.

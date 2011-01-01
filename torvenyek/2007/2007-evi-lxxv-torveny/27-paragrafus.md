@@ -12,4 +12,8 @@ c) jogosult a kamara szolgáltatásait igénybe venni,
 
 d) szakmai továbbképzési kötelezettségeit a 106. §-ban foglaltak, valamint a kamara alapszabálya és szakmai továbbképzési szabályzata szerint köteles teljesíteni,
 
-e) köteles a kamara alapszabályában meghatározott, a kamara által nyújtott szolgáltatásokkal arányos tagdíjat fizetni.
+e) köteles a kamara alapszabályában meghatározott, a kamara által nyújtott szolgáltatásokkal arányos tagdíjat fizetni,
+
+f) köteles megtartani a kamara önkormányzati szabályzataiban a szüneteltető tagokra előírt szabályokat,
+
+g) köteles haladéktalanul, de legkésőbb tizenöt napon belül bejelenteni, ha a 33. § (1) bekezdésében felsorolt adataiban változás következett be.

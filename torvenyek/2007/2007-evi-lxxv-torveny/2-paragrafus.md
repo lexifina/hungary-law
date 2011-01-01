@@ -52,7 +52,7 @@ b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jog
 
 21. Mentor: az a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgáló, aki a könyvvizsgáló jelöltet a szakmai tapasztalatok elsajátításában segíti.
 
-22. Nemzetközi könyvvizsgálati standardok: azok a Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)] és kapcsolódó állásfoglalások, valamint egyéb standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
+22. Nemzetközi könyvvizsgálati standardok: a Nemzetközi Könyvvizsgálati és Bizonyosságot Nyújtó Szolgáltatási Standardok Testület [International Auditing and Assurance Standard Board (IAASB)] által kibocsátott és elfogadott Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)] és kapcsolódó állásfoglalások, valamint egyéb standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
 
 23. Szabályozott piac: a tőkepiacról szóló törvényben meghatározott fogalom.
 

@@ -1,4 +1,4 @@
-29. § (1) A tevékenységét szüneteltető kamarai tag – kérelemre kiadott – engedéllyel kezdhet ismét jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni.
+29. § (1) A tevékenységét szüneteltető tag – kérelemre kiadott – engedéllyel kezdhet ismét jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni. A fegyelmi eljárás során kiszabott büntetés alapján szüneteltető tag a fegyelmi határozatban meghatározott időpontot követően terjesztheti elő erre irányuló kérelmét.
 
 (2) Az (1) bekezdés szerinti engedélyezési eljárás tekintetében a kamara felvételi bizottsága jár el.
 

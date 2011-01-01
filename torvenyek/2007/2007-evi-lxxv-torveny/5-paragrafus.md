@@ -14,7 +14,7 @@ e) kamarai tag könyvvizsgáló, könyvvizsgáló cég minősítésének megadá
 
 f) felvétel az okleveles könyvvizsgálói képzési programba, továbbá a könyvvizsgáló jelöltek névjegyzékébe, valamint az azokból való törlés,
 
-g) az okleveles könyvvizsgálói képzési program részét képező vizsga, a szakmai kompetencia vizsga, valamint a különbözeti vizsga engedélyezése,
+g)
 
 h) külföldi oklevél, bizonyítvány elismerése az okleveles könyvvizsgálói képzési programban történő részvétel céljából,
 
