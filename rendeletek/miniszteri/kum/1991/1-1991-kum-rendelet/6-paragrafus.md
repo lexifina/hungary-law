@@ -1,6 +1,6 @@
 6. § Ez a rendelet 1991. április hó 15. napján lép hatályba; egyidejűleg a konzuli illetékről szóló 1/1984. (III. 10.) KüM rendelet, valamint az azt módosító 1/1988. (III. 29.) KüM rendelet a hatályát veszti.
 
-Melléklet az 1/1991. (IV. 9.) KüM rendelethez[^7]
+Melléklet az 1/1991. (IV. 9.) KüM rendelethez[^5]
 
 Konzuli díjak
 
@@ -94,4 +94,4 @@ Konzuli díjak
 
 | 26. | Jogszabályszöveg megküldése oldalanként | 5 |
 
-[^7]: A melléklet a 2/2005. (I. 13.) KüM rendelet 2. §-ával megállapított szöveg.
+[^5]: A melléklet a 2/2005. (I. 13.) KüM rendelet 2. §-ával megállapított szöveg.
