@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2010-01-01 | 2007-18-20-0B.5 | 18/2007. (IV. 17.) EüM rendelet |
 | 2010-07-08 | 2007-18-20-0B.6 | 15/2010. (IV. 9.) EüM rendelet |
 | 2010-12-25 | 2007-18-20-0B.7 | 15/2010. (IV. 9.) EüM rendelet |
+| 2011-01-01 | 2007-18-20-0B.8 | 50/2009. (XII. 30.) EüM rendelet |
