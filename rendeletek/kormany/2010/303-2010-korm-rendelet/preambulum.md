@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 40. § (2) bekezdésében meghatározott feladatkörében eljárva, a 2. § tekintetében a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 34. § f) pontjában kapott felhatalmazás alapján a következőket rendeli el:
