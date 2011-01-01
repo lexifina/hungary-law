@@ -8,11 +8,11 @@
 
 (5) A szakértői bizottság a helyszíni szemle során vizsgálja az akkreditáció feltételéül szabott követelményeknek való megfelelést, továbbá ellenőrzi a benyújtott dokumentumokban foglaltak valóságtartalmát.
 
-(6)[^22] A szakértői bizottság véleményét a megkeresésétől számított tizenöt munkanapon belül nyújtja be az NSZFI-hez.
+(6)[^22] A szakértői bizottság véleményét a megkeresésétől számított húsz napon belül nyújtja be az NSZFI-hez.
 
 (7)[^23] Ha a FAT az akkreditáció újbóli megadására irányuló kérelemnek helyt ad, akkor az ennek alapján kiállított tanúsítvány 4 évig hatályos.
 
 [^20]: A 12. § (2) bekezdése a 189/2009. (IX. 10.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
 [^21]: A 12. § (4) bekezdése a 294/2006. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított, valamint a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
-[^22]: A 12. § (6) bekezdése a 294/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének b) pontja, a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
+[^22]: A 12. § (6) bekezdése a 294/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének b) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (47) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^23]: A 12. § (7) bekezdése a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének g) pontja és (4) bekezdése szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.

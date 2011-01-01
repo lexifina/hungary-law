@@ -26,7 +26,7 @@ e) a programot indító és regisztrált felsőoktatási intézmény nevét, cí
 
 (7)[^41] A program-akkreditációhoz kapcsolódó tárgyi adómentesség a tanúsítvány kiállításának napjától vehető igénybe.
 
-(8)[^42] Ha a felsőoktatási intézménynek a programakkreditációs tanúsítványban szereplő adataiban változás következik be, erről az Oktatási Hivatal tíz munkanapon belül tájékoztatja a FAT-ot. Ilyen esetben a FAT a 14. § (2) bekezdésének megfelelően jár el.
+(8)[^42] Ha a felsőoktatási intézménynek a programakkreditációs tanúsítványban szereplő adataiban változás következik be, erről az Oktatási Hivatal tizenöt napon belül tájékoztatja a FAT-ot. Ilyen esetben a FAT a 14. § (2) bekezdésének megfelelően jár el.
 
 [^36]: A 16. § (1) bekezdése a 100/2010. (IV. 2.) Korm. rendelet 4. §-ával megállapított, a 175/2010. (V. 12.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^37]: A 16. § (3) bekezdése a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének l) pontja szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
@@ -34,4 +34,4 @@ e) a programot indító és regisztrált felsőoktatási intézmény nevét, cí
 [^39]: A 16. § új (6) bekezdését a 373/2007. (XII. 23.) Korm. rendelet 5. §-a iktatta be, egyidejűleg az eredeti (6) bekezdésének számozását (7) bekezdésre változtatva. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^40]: A 16. § (6) bekezdésének d) pontja a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének m) pontja szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
 [^41]: A 16. § eredeti (6) bekezdésének számozását a 373/2007. (XII. 23.) Korm. rendelet 5. §-a (7) bekezdésre változtatta.
-[^42]: A 16. § (8) bekezdését a 189/2009. (IX. 10.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
+[^42]: A 16. § (8) bekezdését a 189/2009. (IX. 10.) Korm. rendelet 10. §-a iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (47) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
