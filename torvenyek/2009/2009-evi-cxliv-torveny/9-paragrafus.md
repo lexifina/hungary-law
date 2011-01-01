@@ -14,7 +14,7 @@ d) a tagok jogait és kötelességeit;
 
 e) a társulati működési területét hektárban;
 
-f) a tagok társulati hozzájárulásának szabályait;
+f)
 
 g) a társulat testületi szerveire, vezető tisztségviselőire, vezető beosztású dolgozóira, gazdálkodására vonatkozó általános szervezeti és működési szabályokat, valamint a vállalkozási tevékenységének kereteit;
 
@@ -32,6 +32,6 @@ b) a működési területen belül azokat a települési önkormányzatokat (ré
 
 a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését, a képviselt tagok számát, és a képviselt terület nagyságát hektárban;
 
-b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), társulati alap-hozzájárulást megalapozó egységének számát.
+b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát).
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.

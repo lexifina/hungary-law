@@ -54,15 +54,15 @@
 
 26. társulat tagja: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, aki, illetve amely a társulat működési területén ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
-27. társulati hozzájárulás: a társulat tagjainak e törvény szerinti fizetési kötelezettsége a társulati közfeladatok ellátásához (alap- és differenciált hozzájárulás);
+27.
 
-28. társulati alaphozzájárulás: társulat tagjainak e törvény szerinti mértékű fizetési kötelezettsége a társulati közfeladatok ellátásához;
+28.
 
 29. társulati alapszabály: a társulat önkormányzati működésének szabályait meghatározó dokumentum;
 
-30. társulati differenciált hozzájárulás: e törvényben meghatározott elvek szerint a küldöttgyűlés által megállapított fizetési kötelezettség a társulati többlet közfeladatok ellátásához;
+30.
 
-31. társulati alaphozzájárulást megalapozó területi egység: 1 hektár;
+31.
 
 32. társulati közfeladat: a társulat tagjainak érdekeit szolgáló vízgazdálkodási tevékenység, a kizárólagos állami tulajdonban lévő vizek és vízilétesítményekkel összefüggő feladatok a vízügyi hatósági hatáskör gyakorlása kivételével;
 

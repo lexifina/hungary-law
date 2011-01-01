@@ -14,7 +14,7 @@ c) gyakorolja az igazgató feletti munkáltatói jogokat;
 
 d) gondoskodik a tagok kiértesítéséről a 49. § (1) bekezdése szerint;
 
-e) gondoskodik a határidőre be nem fizetett társulati hozzájárulások behajtásáról;
+e)
 
 f) gondoskodik a pénz- és hitelgazdálkodással kapcsolatos tennivalók időben történő elvégzéséről, a társulati vagyon kezeléséről és nyilvántartásáról;
 

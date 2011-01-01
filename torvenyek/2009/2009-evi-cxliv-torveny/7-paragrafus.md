@@ -1,1 +1,1 @@
-7. § A tag a részére megállapított társulati hozzájárulást annak a hónapnak az utolsó napjáig köteles megfizetni, amelyben a 6. § (3) bekezdés szerinti bejelentést megtette. A bejelentés alapján a változást a tagnyilvántartásban kell rögzíteni, és erről a régi és az új tagot az intézőbizottság elnöke a bejelentést követő 90 napon belül írásban értesíti.
+7. §
