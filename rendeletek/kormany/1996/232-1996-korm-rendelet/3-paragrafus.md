@@ -12,10 +12,10 @@
 
 (5)[^4]
 
-(6)[^5] Ha a veszély leküzdése a helyi polgári erők mozgósításával nem biztosítható, a miniszter kezdeményezi a polgári védelemről, valamint a honvédelemről szóló törvény szerint – a honvédelemért felelős miniszter, a rendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter útján – a honvédség és a rendvédelmi szervek közreműködését.
+(6)[^5] Ha a veszély leküzdése a helyi polgári erők mozgósításával nem biztosítható, a miniszter kezdeményezi a polgári védelemről, valamint a honvédelemről szóló törvény szerint – a honvédelemért felelős miniszter, a rendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter útján – a honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal hivatásos állománya közreműködését.
 
 [^1]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 104. §-a szerint módosított szöveg.
 [^2]: Lásd az 1993: CX. törvényt.
 [^3]: A 3. § (4) bekezdése a 179/1999. (XII. 10.) Korm. rendelet 20. § a) pontjával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 104. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^4]: A 3. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 105. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A 3. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 3. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 103. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 84. §-a szerint módosított szöveg.
