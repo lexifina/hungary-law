@@ -25,3 +25,5 @@ i) az összekötő tisztviselő alkalmazása,
 j) a titkos információgyűjtés nemzetközi együttműködés alapján,
 
 k) a Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján.
+
+l) az Európai Unió tagállamának különleges intervenciós egységével való együttműködés.

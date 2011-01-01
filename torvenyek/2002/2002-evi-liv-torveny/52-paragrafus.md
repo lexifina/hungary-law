@@ -22,4 +22,6 @@ c) az Európai Uniónak az Európai Unió tagállamai közötti kölcsönös bű
 
 d) az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek közötti kölcsönös segítségnyújtásról és együttműködésről (Nápoly II Egyezmény);
 
-e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve.
+e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve,
+
+f) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 2. § 9. és 10. pontjával, 8. § l) pontjával, és 42/A–42/D. §-ával.
