@@ -1,0 +1,3 @@
+185. § (1) Az adóterhet nem viselő járandósággal kapcsolatos, 2010. évre vonatkozó adatszolgáltatási kötelezettséget a 2010. december 31-én hatályos szabályok szerint kell teljesíteni.
+
+(2) A költségvetési szervnél foglalkoztatott magánszemély a 2011. évi adó- és járulékváltozások ellentételezésének megállapításához, 2011. január 15.-éig a munkáltatója részére nyilatkozik – a kompenzáció összegének megállapítása érdekében – a családi kedvezmény igénybevételéről, és az annak igénylése során figyelembe vehető kedvezményezett eltartottak számáról. A nyilatkozatra vonatkozó további rendelkezéseket a Kormány rendeletben állapítja meg.

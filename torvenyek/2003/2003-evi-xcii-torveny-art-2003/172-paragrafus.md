@@ -10,7 +10,7 @@ c) bejelentési (bejelentkezési, változásbejelentési), adatszolgáltatási, 
 
 d) adószámhoz kötött tevékenységet vagy adóköteles tevékenységet adószám hiányában folytat,
 
-e) a jogszabályokban előírt bizonylatok kiállítását, illetve könyvek, nyilvántartások vezetését elmulasztja, a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti vagy a számviteli törvényben meghatározott pénzkezelési szabályzatra vonatkozó rendelkezéseket megsérti,
+e) a jogszabályokban előírt bizonylatok kiállítását, illetve könyvek, nyilvántartások vezetését elmulasztja, a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti, a számviteli törvényben meghatározott pénzkezelési szabályzatra vonatkozó rendelkezéseket megsérti, vagy közzétett éves beszámolója, egyszerűsített éves beszámolója egészében vagy részben nem felel meg a számvitelről szóló törvény előírásainak.
 
 f) iratmegőrzési kötelezettségének nem tesz eleget,
 
@@ -30,15 +30,15 @@ m) az e törvény szerint elektronikus bevallás benyújtására kötelezett a r
 
 n) a köztartozásmentes adózói adatbázisba történő felvételhez valótlanul tett külön nyilatkozatot arról, hogy az adatbázis közzétételét megelőző hónap utolsó napjáig esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz/tett,
 
-ny) az általános forgalmi adóról szóló törvény 206. § (1) bekezdés c) pontja szerint utasként az utazásszervezési szolgáltatás nem adóalanyként, nem adóalanyi minőségben vagy saját nevében és javára történő igénybevételéről valótlan nyilatkozatot tesz.
+ny) az általános forgalmi adóról szóló törvény XV. fejezete alkalmazásában az utazásszervezési szolgáltatás igénybevételéről valótlan nyilatkozatot tesz, vagy a nyilatkozattételt elmulasztja.
 
 (2) Az adózó 1 millió forintig terjedő mulasztási bírsággal sújtható, ha a számla-, egyszerűsített számla-, nyugtakibocsátási kötelezettségét elmulasztja, illetőleg a számlát, egyszerűsített számlát, nyugtát nem a tényleges ellenértékről bocsátja ki. Az adózót 1 millió forintig terjedő mulasztási bírsággal kell sújtani, ha be nem jelentett alkalmazottat foglalkoztat vagy foglalkoztatott. Ha az adózó a munkaviszony létesítésének bejelentésére vonatkozó bejelentési kötelezettségét az adóellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette, az adóhatóság a (6) bekezdésben, illetőleg a (21) bekezdésben foglaltak szerint jár el.
 
-(3) A (2) bekezdésben foglaltakon túl, számla, egyszerűsített számla, nyugtakibocsátási kötelezettség elmulasztásáért az adózó mellett az adózó alkalmazottja, képviselője, vagy az a magánszemély is, aki az értékesítésben közreműködik, 10 ezer forinttól 50 ezer forintig, az adózó alkalmazottja, képviselője, az értékesítésben közreműködő magánszemély közvetlen vezetője 500 ezer forintig terjedő mulasztási bírsággal sújtható.
+(3) A (2) bekezdésben foglaltakon túl, számla, egyszerűsített számla, nyugtakibocsátási kötelezettség elmulasztásáért az adózó mellett az adózó alkalmazottja, képviselője, vagy az a magánszemély is, aki az értékesítésben közreműködik, 10 ezer forinttól 50 ezer forintig terjedő mulasztási bírsággal sújtható.
 
 (4) Ha a munkáltató, illetőleg a kifizető a magánszemélynek juttatott adó- és járulékköteles kifizetésről teljesítendő bevallásában hiányos, illetve valótlan adatokat közöl, vagy a bevallás benyújtását elmulasztja, a kiszabható mulasztási bírság felső határa a bevallással érintett magánszemélyek számának és a bírság adózóra egyébként vonatkozó, törvényben rögzített legmagasabb értékének szorzata.
 
-(5) A foglalkoztatót terhelő bejelentési kötelezettség elmulasztása esetén kiszabható mulasztási bírság felső határa a bejelenteni elmulasztott foglalkoztatottak számának és a bírság adózóra egyébként vonatkozó, törvényben rögzített legmagasabb értékének szorzata. E szabályt kell alkalmazni a foglalkoztató mellett arra a személyre, illetve annak a közvetlen vezetőjére, akinek munkaköri kötelezettsége a bejelentési kötelezettség teljesítése, azzal, hogy a kiszabható mulasztási bírság felső határa a bejelenteni elmulasztott foglalkoztatottanként 500 ezer forintig terjedhet.
+(5) A foglalkoztatót terhelő bejelentési kötelezettség elmulasztása esetén kiszabható mulasztási bírság felső határa a bejelenteni elmulasztott foglalkoztatottak számának és a bírság adózóra egyébként vonatkozó, törvényben rögzített legmagasabb értékének szorzata.
 
 (6) Az (1) bekezdés a)–b) pontja szerinti késedelem esetén nincs helye mulasztási bírság megállapításának, ha az adózó késedelmét annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
@@ -66,8 +66,8 @@ ny) az általános forgalmi adóról szóló törvény 206. § (1) bekezdés c) 
 
 (18) Ha jogszabály számlatartási kötelezettséget ír elő, e kötelezettség megsértése esetén az adóhatóság a vevő, illetve a szolgáltatás igénybevevője terhére az áru valamint az igénybevett szolgáltatás forgalmi értékének 20%-áig terjedő összegű mulasztási bírságot szabhat ki.
 
-(19) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének 40%-ával megegyező összegű, de legalább 10 ezer forint mulasztási bírságot szab ki.
+(19) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének 40%-áig terjedő összegű mulasztási bírságot szabhat ki.
 
-(20)
+(20) Ha a magánszemély adózó a 31. § (4) bekezdése szerinti, a személyi jövedelemadó-bevallás késedelmes benyújtására vonatkozó bejelentést tesz, a bevallási késedelem miatt mulasztási bírság a bevallás naptári éve szeptember 20. napjáig nem szabható ki, kivéve ha az adózó bevallását szeptember 20-a előtt nyújtja be és igazolási kérelmet nem nyújt be.
 
 (21) A mulasztási bírság kiszabásánál – különös tekintettel a (4) és (5) bekezdésben meghatározott esetekre – az adóhatóság mérlegeli az eset összes körülményét, az adózó jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az adózó, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján az adóhatóság a mulasztás súlyához igazodó az adózási érdeksérelemmel arányos bírságot szab ki, vagy a bírság kiszabását mellőzi.

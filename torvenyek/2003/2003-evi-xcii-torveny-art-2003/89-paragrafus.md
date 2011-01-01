@@ -2,7 +2,7 @@
 
 89. § (1) Kötelező az ellenőrzést lefolytatni
 
-a) a vállalkozónál, ha ellene csődeljárás indult, felszámolását vagy végelszámolását rendelték el, kivéve, ha a hitelezői követelés bejelentését az adóhatóság a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 80. §-ának (1) bekezdése alapján mellőzte,
+a) a vállalkozónál, ha felszámolását vagy végelszámolását rendelték el, kivéve, ha a hitelezői követelés bejelentését az adóhatóság a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 80. §-ának (1) bekezdése alapján mellőzte,
 
 b) az Állami Számvevőszék elnökének felhívására,
 

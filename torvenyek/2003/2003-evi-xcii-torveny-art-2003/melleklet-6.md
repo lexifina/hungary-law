@@ -6,7 +6,7 @@ A naptári évtől eltérő üzleti évet választó adózók adómegállapítá
 
 A naptári évtől eltérő üzleti évet választó adózó törvényben vagy más jogszabályban előírt adókötelezettségeit a következő eltérésekkel teljesíti:
 
-A naptári évtől eltérő üzleti évet választó adózónak a társasági adó, az osztalékadó, a vállalkozók helyi kommunális adója és az iparűzési adó tekintetében az adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési kötelezettségét az üzleti év első napján hatályos szabályok szerint kell teljesítenie.
+A naptári évtől eltérő üzleti évet választó adózónak a társasági adó, az osztalékadó és az iparűzési adó tekintetében az adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési kötelezettségét az üzleti év első napján hatályos szabályok szerint kell teljesítenie.
 
 1. Az állami adóhatósághoz teljesítendő bevallási kötelezettségek
 
@@ -28,9 +28,9 @@ b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegér
 
 4. Az önkormányzati adóhatósághoz teljesítendő befizetési kötelezettségek
 
-a) A vállalkozó a helyi iparűzési és kommunális adó előlegét két részletben, az adóév harmadik hónapjának 15. napjáig, illetve kilencedik hónapjának 15. napjáig fizeti meg.
+a) A vállalkozó a helyi iparűzési adó előlegét két részletben, az adóév harmadik hónapjának 15. napjáig, illetve kilencedik hónapjának 15. napjáig fizeti meg.
 
-b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi iparűzési és kommunális adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
+b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
 
 c) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét az adóév utolsó napját követő 150. napig fizeti meg, illetőleg ettől az időponttól igényelheti vissza
 

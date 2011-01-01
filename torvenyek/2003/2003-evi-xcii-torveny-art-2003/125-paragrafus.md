@@ -10,9 +10,9 @@ c) a regisztrációs adót,
 
 d) új közlekedési eszköznek minősülő személygépkocsinak, illetőleg regisztrációs adó köteles motorkerékpárnak az Európai Közösség más tagállamából történő beszerzése esetén az általános forgalmi adót, ha a vevő általános forgalmiadó-alanynak nem minősülő magánszemély, illetve egyéb szervezet, általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, alanyi adómentességet választó adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, illetve az egyszerűsített vállalkozói adó alanya.
 
-(2) Az adóhatóság állapítja meg – a vállalkozók kommunális adója, a helyi iparűzési adó és az adóbeszedéssel megállapított idegenforgalmi adó kivételével – a helyi adókat, továbbá – a termőföld bérbeadásából származó személyi jövedelemadó kivételével – az önkormányzat költségvetése javára más törvény alapján fizetendő adókat (kivetéses adózás).
+(2) Az adóhatóság állapítja meg – a helyi iparűzési adó és az adóbeszedéssel megállapított idegenforgalmi adó kivételével – a helyi adókat, továbbá – a termőföld bérbeadásából származó személyi jövedelemadó kivételével – az önkormányzat költségvetése javára más törvény alapján fizetendő adókat (kivetéses adózás).
 
-(3) A vagyonszerzési illetéket, továbbá az illetéktörvény szerint kiszabás alapján fizetendő eljárási illetéket az állami adóhatóság állapítja meg (kiszabás).
+(3) A vagyonszerzési illetéket, továbbá az illetéktörvény szerint kiszabás alapján fizetendő eljárási illetéket az állami adóhatóság állapítja meg (kiszabás). A vagyonszerzési illeték kiszabására irányuló eljárás esetén a határozat meghozatalára nyitva álló határidő 60 nap.
 
 (4) Az adókivetés, -kiszabás az adózó bevallása, bejelentése, illetőleg adatszolgáltatás alapján történik.
 

@@ -22,7 +22,7 @@ c) az adót az önkormányzatnál az e célra szolgáló külön számlára kell
 
 (8) Ha az adómentesség feltételéül szabott időtartamra kötött haszonbérleti szerződés ezen időtartam lejárta előtt adófizetési kötelezettséget keletkeztető módon megszűnik, az adót a magánszemély a (4) bekezdésben meghatározott szabályok szerint állapítja meg, vallja be, és fizeti meg.
 
-(9) A kifizető a termőföld bérbeadásából származó jövedelemből levont adót a föld fekvése szerint illetékes önkormányzati adóhatósághoz utalja át a kifizetést követő hó 12. napjáig. A levont adóról a kifizető adóbevallását a föld fekvése szerint illetékes önkormányzati adóhatósághoz az adóévet követő év február 15-éig nyújtja be.
+(9) A kifizető a termőföld bérbeadásából származó jövedelemből levont adót a föld fekvése szerint illetékes önkormányzati adóhatósághoz utalja át a kifizetést követő hó 12. napjáig. A levont adóról a kifizető adóbevallását a föld fekvése szerint illetékes önkormányzati adóhatósághoz az adóévet követő év február 25-éig nyújtja be.
 
 (10) Ha e törvény a személyi jövedelemadóval összefüggő kötelezettségről rendelkezik, azt a kifizető és a munkáltató – a (11) és (12) bekezdésben foglaltak kivételével – a rá vonatkozó szabályok szerint teljesíti.
 

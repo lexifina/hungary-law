@@ -4,4 +4,4 @@
 
 (2)
 
-(3) Az adótartozás behajtása érdekében a tartozást megállapító vagy nyilvántartó adóhatóság a végrehajtható okirat alapján a végrehajtás iránt haladéktalanul intézkedik.
+(3) Az adótartozás behajtása érdekében a tartozást megállapító vagy nyilvántartó adóhatóság a végrehajtható okirat alapján a végrehajtás iránt intézkedik.

@@ -12,4 +12,4 @@ c) megfelelő képviseletről gondoskodni.
 
 (4) Ha az adóhatóság a vizsgálat megállapításait más adózónál végzett kapcsolódó vizsgálat eredményével támasztja alá, az erről szóló jegyzőkönyvnek, illetőleg határozatnak az adózót érintő részét az adózóval részletesen ismertetni kell.
 
-(5) Az adózó, ha megítélése szerint az ellenőrzés határidejének túllépése az adóhatóságnak felróható okból történik, a határidő lejártát követően kifogással fordulhat a felettes szervhez. A felettes szerv az adózó észrevételeinek figyelembevételével végzésben dönt az eljárási határidő meghosszabbításáról, vagy az eljáró adóhatóságot az ellenőrzés lezárására utasítja.
+(5) Az adózó, ha megítélése szerint az ellenőrzés határidejének túllépése az adóhatóságnak felróható okból történik, a határidő lejártát követően kifogással fordulhat a felettes szervhez. A felettes szerv az adózó észrevételeinek figyelembevételével végzésben dönt a kifogás elutasításáról, az eljárási határidő meghosszabbításáról, vagy az eljáró adóhatóságot az ellenőrzés lezárására utasítja.

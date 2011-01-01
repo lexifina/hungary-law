@@ -14,9 +14,9 @@ e) az Európai Közösség más tagállamában illetőséggel bíró adóalannya
 
 f) az általános forgalmi adóról szóló törvény szerint kizárólag az adómentes termékimportot megalapozó Közösségen belüli termékértékesítés miatt válik az általános forgalmi adó alanyává, és az adómentes termékimportot nem közvetett vámjogi képviselő igénybevételével teljesíti,
 
-g) az általános forgalmi adóról szóló törvény 96. §-ában meghatározott közvetett vámjogi képviselőként jár el.
+g) az általános forgalmi adóról szóló törvény 96. §-ában meghatározott közvetett vámjogi képviselőként jár el,
 
-h)
+h) tevékenységére az adómegállapításnak az általános forgalmi adóról szóló törvényben meghatározott általános szabályait alkalmazza.
 
 (2) Az (1) bekezdés szerinti nyilatkozat megváltoztatását – az e)–g) pontok kivételével – a változtatást megelőző adóév utolsó napjáig kell bejelenteni. Ha az adózó az alanyi adómentességre jogosító értékhatárt az adóév közben lépte túl, a bejelentést a 23. § (3) bekezdés szerint kell megtenni. Az adózó az (1) bekezdés e) pontja szerinti nyilatkozattétel és annak változásának bejelentése alól mentesül, ha kizárólag az általános forgalmi adóról szóló törvényben meghatározott adómentes termékimportot megalapozó közösségi adómentes termékértékesítést, mint közösségi kereskedelmi kapcsolatot közvetett vámjogi képviselő igénybevételével létesít.
 

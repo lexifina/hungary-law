@@ -12,7 +12,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek megfelelően kell teljesíteni.
 
-3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
+3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket, a cégautóadót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve – , a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózó a 100 forintot el nem érő adóját (magán-nyugdíjpénztári tagdíját) nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó (magán-nyugdíjpénztári tagdíj)-visszatérítést, visszaigénylést nem utalja ki és nem tartja nyilván.
 
 Határidők
 
@@ -252,15 +252,9 @@ szeptember 15-éig
 
 fizet.
 
-c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi kommunális és iparűzési adóelőleget a várható éves fizetendő adó összegére
-
-az adóév december 20. napjáig
+c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév december 20. napjáig
 
 kell kiegészítenie.
-
-[c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév december 20. napjáig
-
-kell kiegészítenie.]
 
 d) Az ideiglenes (alkalmi) jelleggel végzett tevékenység utáni iparűzési adót legkésőbb a tevékenység befejezése napját követő hó 15. napjáig kell megfizetni.
 
@@ -274,13 +268,7 @@ f) Az adózó az adóelőleget és az éves tényleges kötelezettség különb�
 
 3. Idegenforgalmi adó
 
-a) Az adóköteles épület utáni adót a magánszemélynek félévenként, két egyenlő részletben
-
-az adóév március 15-éig, illetve
-
-szeptember 15-éig
-
-kell megfizetnie.
+a)
 
 b) Az adóbeszedéssel megfizetett idegenforgalmi adót az adózónak a
 
@@ -344,7 +332,7 @@ kell visszafizetni.
 
 5. Adó-visszaigénylés, adó-visszatérítés
 
-A visszaigényelt általános forgalmi adó kiutalása az igény benyújtását követő hó utolsó napján esedékes, ha az adózó az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő általános forgalmi adót visszaigényelheti, és nem kérte a 22. § (6) bekezdése szerinti visszaigénylést. Egyebekben az adó visszaigénylésének, illetve visszatérítésének határidejére a 37. § (4) bekezdésének a rendelkezéseit kell alkalmazni.
+A visszaigényelt általános forgalmi adó kiutalása az igény benyújtását követő hó utolsó napján esedékes, ha az adózó az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő általános forgalmi adót visszaigényelheti, és nem kérte a 22. § (15) bekezdése szerinti visszaigénylést. Egyebekben az adó visszaigénylésének, illetve visszatérítésének határidejére a 37. § (4) bekezdésének a rendelkezéseit kell alkalmazni.
 
 IV.
 

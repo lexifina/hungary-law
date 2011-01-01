@@ -20,6 +20,6 @@ h) új közlekedési eszköznek minősülő személygépkocsinak, illetőleg reg
 
 i) a környezetvédelmi termékdíjjal
 
-kapcsolatos adóztatási feladatok ellátása.
+kapcsolatos adóztatási feladatok ellátása, ide nem értve a végrehajtási eljárás lefolytatását.
 
 (2)

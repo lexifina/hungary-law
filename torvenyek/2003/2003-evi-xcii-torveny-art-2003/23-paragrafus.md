@@ -2,7 +2,7 @@
 
 23. § (1) Az adózónak az adókötelezettségét érintő olyan változást – a megváltozott természetes személyazonosító adatok, lakcím és a 22. § (2) bekezdésében foglaltak kivételével –, amelyről a cégbíróság, illetve az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság külön jogszabály alapján az adóhatóságot nem köteles értesíteni, annak bekövetkezésétől számított 15 napon belül az előírt nyomtatványon közvetlenül az állami és az önkormányzati adóhatóságnak kell bejelentenie.
 
-(2) Az adókötelezettséget érintő változás különösen a 16. § (3) bekezdésében felsorolt adatok változása, továbbá az adózó végelszámolásának elhatározása, az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése is. A cég létesítő okiratában nem szereplő, de ténylegesen végzett tevékenység esetén a tevékenység megkezdését, illetve a bejelentett vagy bejelenteni elmulasztott tevékenység megszűnését követő 15 napon belül tesz bejelentést.
+(2) Az adókötelezettséget érintő változás különösen a 16. § (3) bekezdésében felsorolt adatok változása, továbbá a cégbejegyzésre nem kötelezett adózó végelszámolása kezdetének és befejezésének időpontja, az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése is. A cég létesítő okiratában nem szereplő, de ténylegesen végzett tevékenység esetén a tevékenység megkezdését, illetve a bejelentett vagy bejelenteni elmulasztott tevékenység megszűnését követő 15 napon belül tesz bejelentést.
 
 (3) Akit törvényben meghatározott értékhatár elérése esetén terhel adókötelezettség, a bejelentést az értékhatár elérését követő 15 napon belül kell megtennie az adóhatósághoz.
 

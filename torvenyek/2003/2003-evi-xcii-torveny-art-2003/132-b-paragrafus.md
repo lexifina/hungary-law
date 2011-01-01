@@ -1,6 +1,6 @@
 ## A szokásos piaci ár megállapítása
 
-132/B. § (1) Az állami adóhatóság kérelemre határozatban állapítja meg a kapcsolt vállalkozási viszonyban álló társaságok közötti jövőbeni ügyletben érvényesíthető szokásos piaci ár meghatározásakor alkalmazandó módszert, a megállapítás alapjául szolgáló tényeket, körülményeket, valamint ha meghatározható, a szokásos piaci árat, ártartományt (szokásos piaci ár).
+132/B. § (1) Az állami adóhatóság kérelemre határozatban állapítja meg a kapcsolt vállalkozások közötti jövőbeni ügyletben érvényesíthető szokásos piaci ár meghatározásakor alkalmazandó módszert, a megállapítás alapjául szolgáló tényeket, körülményeket, valamint ha meghatározható, a szokásos piaci árat, ártartományt (szokásos piaci ár).
 
 (2) A határozat érvényességéhez kétoldalú vagy többoldalú eljárás esetén az állami adóhatóság és az illetékes külföldi hatóság közötti megállapodás megkötése szükséges.
 
@@ -20,7 +20,7 @@
 
 a) egyoldalú eljárás esetén legalább 500 ezer forint, legfeljebb 5 millió forint, ha a szokásos piaci ár az összehasonlító árak módszerével, a viszonteladási árak módszerével, vagy a költség és jövedelem módszerrel állapítható meg,
 
-b) egyoldalú eljárás esetén legalább 2 millió forint, legfeljebb 7 millió forint, ha a szokásos piaci ár egyéb módszer alapján állapítható meg,
+b) egyoldalú eljárás esetén legalább 2 millió forint, legfeljebb 7 millió forint, ha a szokásos piaci ár az a) pontban nem szereplő módszer alapján állapítható meg,
 
 c) kétoldalú eljárás esetén legalább 3 millió forint, legfeljebb 8 millió forint,
 

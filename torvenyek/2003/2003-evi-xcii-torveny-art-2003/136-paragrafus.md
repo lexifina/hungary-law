@@ -2,7 +2,7 @@
 
 136. § (1) Az adózó az ügy érdemében hozott elsőfokú határozat ellen fellebbezhet. A fellebbezés joga megilleti azt is, akire a határozat rendelkezést tartalmaz.
 
-(2) A határozathozatalt megelőző eljárás során hozott végzés csak a határozat ellen benyújtott fellebbezésben támadható meg, kivéve, ha az önálló fellebbezést törvény megengedi.
+(2) A határozathozatalt megelőző eljárás során hozott végzés csak a határozat ellen benyújtott fellebbezésben támadható meg, kivéve, ha az önálló fellebbezést e törvény megengedi.
 
 (3) Önálló fellebbezésnek van helye az első fokon hozott,
 

@@ -14,7 +14,7 @@ c) az ellenőrzési típusok tervezett arányszámait, különös tekintettel a 
 
 (5)
 
-(6) Az állami adóhatóság az adózókat – a kötelezően, illetőleg a véletlenszerű kiválasztás alapján lefolytatandó ellenőrzéseken túl – célzott kiválasztási rendszerek alkalmazásával választja ki ellenőrzésre. A célzott kiválasztási rendszerben az állami adóhatóság
+(6) Az állami adóhatóság az adózókat – a kötelezően, illetőleg a kiválasztás alapján lefolytatandó ellenőrzéseken túl – célzott kiválasztási rendszerek alkalmazásával választja ki ellenőrzésre. A célzott kiválasztási rendszerben az állami adóhatóság
 
 a) az adózó által benyújtott bevallások,
 

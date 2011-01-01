@@ -58,7 +58,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 22. a magánszeméllyel elszámolandó adókülönbözetről,
 
-23. a külön jogszabály szerint Start-, Start Plusz-, Start Extra kártyával rendelkező személy után a kedvezmény figyelembevétele nélkül számított társadalombiztosítási (nyugdíj-biztosítási, természetbeni, pénzbeli egészségbiztosítási és munkaerő-piaci) járulék alapjáról és összegéről, továbbá a külön jogszabály szerint a bruttó munkabér alapján számított nulla százalékos kötelezettség alapjáról, illetőleg a 10 vagy 20 százalékos mértékű kötelezettség alapjáról és összegéről,
+23. a külön jogszabály szerint Start-, Start Plusz-, Start Extra kártyával rendelkező személy után a kedvezmény figyelembevétele nélkül számított társadalombiztosítási (nyugdíjbiztosítási, természetbeni, pénzbeli egészségbiztosítási és munkaerő-piaci) járulék alapjáról és összegéről, továbbá a külön jogszabály szerint a bruttó munkabér alapján számított nulla százalékos kötelezettség alapjáról, illetőleg a 10 vagy 20 százalékos mértékű kötelezettség alapjáról és összegéről, valamint a külön jogszabály szerint gyermekgondozási szabadságról visszatérő munkavállaló és az ő gyermekgondozási szabadságának időtartama alatt munkakörében foglalkoztatott vagy gyermekgondozási szabadságának lejártát követően a vele azonos vagy hasonló munkakörben foglalkoztatott munkavállaló részmunkaidős foglalkoztatása után a foglalkoztatót terhelő kedvezményes társadalombiztosítási járulék összegéről,
 
 24. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 31. § (5) bekezdése szerinti nyilatkozatában foglalt választásáról,
 
@@ -72,7 +72,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (3) Az adózó az adóbevallásban az adózó azonosításához szükséges adatok között feltünteti adóazonosító számát. Az adózó adóazonosító szám birtokában olyan időszakról is tehet adóbevallást, amelyben adóazonosító számmal nem rendelkezett, adó-visszaigénylést, adó- visszatérítést ezen időszakra csak a 24. § (7) bekezdésében foglalt korlátokkal érvényesíthet.
 
-(4) Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megszűnését követő 15 napon belül tesz adóbevallást. A késedelem igazolására vonatkozó kérelmet (a továbbiakban: igazolási kérelem) a bevallással egyidejűleg kell benyújtani.
+(4) Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megszűnését követő 15 napon belül tesz adóbevallást. A késedelem igazolására vonatkozó kérelmet (a továbbiakban: igazolási kérelem) a bevallással egyidejűleg kell benyújtani. Ha a vállalkozási tevékenységet nem folytató és általános forgalmi adó fizetésére nem kötelezett magánszemélynek a személyi jövedelemadó-bevallás elkészítéséhez szükséges iratok, igazolások önhibáján kívül nem állnak rendelkezésére és ezért bevallását előreláthatóan nem tudja határidőben benyújtani, a bevallási késedelemről a bevallás benyújtására előírt határidőn belül bejelentést tesz. A magánszemély adózó a bejelentéshez kapcsolódó adóbevallást a bevallási késedelmet kimentő igazolási kérelemmel együtt nyújtja be.
 
 (5) A társasági adóbevallás helyett az adóévet követő év február 25-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosítópénztár, a közhasznú, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény, az európai területi együttműködési csoportosulás, feltéve, hogy az adóévben vállalkozási tevékenységből (az önkéntes kölcsönös biztosítópénztár kiegészítő vállalkozási tevékenységéből) származó bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el.
 
@@ -84,9 +84,9 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (9) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett a (2) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 30/A. §-ának (1)–(2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat.
 
-(10) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett – adóterhet nem viselő járandóságnak minősülő – nyugdíj, rehabilitációs járadék, illetőleg a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
+(10) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett nyugdíj, rehabilitációs járadék, illetőleg a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
 
-(11) Az adóhatóság a (2) bekezdés 5. pontja szerinti nyugdíjas státusszal rendelkező magánszemélyt illetően, a magánszemély által fizetendő nyugdíjjárulék alapjára vonatkozó tárgyévi adatokat összesíti, és amennyiben a magánszemély által fizetendő nyugdíjjárulék alapja a tárgyévben meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér (minimálbér) havi összegének tizenkét hónapra számított összegét (a továbbiakban: éves keretösszeg) a nyugdíjfolyósító szerv részére – a bevallásra előírt határidőt követő hónap utolsó napjáig – adatszolgáltatást teljesít.
+(11)
 
 (12) Az adó megfizetése, a költségvetési támogatás igénybevétele az adóbevallást nem pótolja. Az erre kötelezett adózónak akkor is kell adóbevallást tennie, ha az adót megfizette, vagy később fizetheti meg.
 

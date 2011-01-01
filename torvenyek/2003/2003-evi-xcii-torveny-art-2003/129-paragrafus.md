@@ -4,7 +4,7 @@ a) adónként, költségvetési támogatásonként az egyes bevallási időszako
 
 b) az adózót a terhére megállapított adókülönbözet és a jogkövetkezmények megfizetésére kötelezi azzal, hogy az adózó a befizetés teljesítésekor figyelembe veheti a befizetéskor az adott adónemen fennálló esetleges túlfizetését,
 
-c) rendelkezik továbbá az adózó javára mutatkozó különbözet kiutalásáról akkor, ha a javára feltárt különbözet az adózó adófolyószámláján egyenlegében túlfizetést eredményez, és az adózónak nincsen más adóhatóság, vámhatóság megkeresésén alapuló egyéb köztartozása,
+c)
 
 d) teljesítési határidő tűzésével rendelkezik az ellenőrzés során feltárt, könyvvezetési, nyilvántartási szabálytalanságok, illetve az adóköteles tevékenység ellenőrzése szempontjából jelentőséggel bíró mulasztások megszüntetéséről.
 

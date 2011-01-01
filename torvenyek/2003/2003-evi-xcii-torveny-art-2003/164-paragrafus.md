@@ -18,6 +18,10 @@
 
 (9) Ha az adóhatóság az adót megállapító határozat vagy a végrehajtás során hozott végzés kézbesítése tekintetében ad helyt a vélelem megdöntése iránti kérelemnek, nyugszik az adómegállapításhoz, illetve a végrehajtáshoz való jog elévülése a kézbesítési vélelem beálltától az annak megdöntésére irányuló kérelemnek helyt adó végzés jogerőre emelkedéséig.
 
-(10) Ha az adóhatóság az adóellenőrzés során az adókötelezettség megállapításához szükséges tény vagy körülmény tisztázása érdekében a kettős adózás elkerüléséről szóló egyezmények, illetőleg az Európai Közösség adóügyi együttműködési szabályai alapján külföldi adóhatóságot keres meg, az erről szóló értesítés postára adásától a külföldi adóhatóság válaszának megérkezéséig az adó megállapításához való jog elévülése nyugszik.
+(10)
 
 (11) A kettős adóztatás elkerüléséről szóló nemzetközi szerződés alapján – ha a nemzetközi szerződés másként nem rendelkezik – a kölcsönös egyeztetési eljárás lefolytatásának feltétele, hogy az eljárás megindítására irányuló kérelem vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen. A kölcsönös egyeztetési eljárás során az adóhatóság az elévülési időn túl is végezhet az eljárás lefolytatásához szükséges ellenőrzési cselekményeket. A kölcsönös egyeztetési eljárás eredményeként létrejött megállapodást azon adómegállapítási időszakok vonatkozásában is végre kell hajtani, amelyek a megállapodás megkötésének időpontjában már elévültek.
+
+(12) Amennyiben hagyatéki eljárás lefolytatására kerül sor, úgy az adó megállapításához, az adótartozás végrehajtásához és a költségvetési támogatás igényléséhez való jog elévülése az adózó halálának napjától a hagyatéki eljárást lezáró döntés jogerőre emelkedésének időpontjáig nyugszik.
+
+(13) Az adó megállapításához való jog elévülése 6 hónappal meghosszabbodik, ha a felettes adóhatóság illetve az adópolitikáért felelős miniszter felügyeleti intézkedés keretében megállapítja, hogy a felülvizsgált döntés súlyosításának lenne helye, és ezért új eljárás lefolytatását rendeli el.

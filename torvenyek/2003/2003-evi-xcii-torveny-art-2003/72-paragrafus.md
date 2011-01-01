@@ -18,9 +18,9 @@ e) az önkormányzatokat megillető helyi adóval, illetve a gépjárműadóval 
 
 (3) A csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a vagyonrendezési és adósságrendezési eljárásban
 
-a) a központi költségvetést megillető követelések tekintetében hitelezőként,
+a) az állami adó- és vámhatóság hatáskörébe tartozó követelések tekintetében hitelezőként,
 
-b) a vámhatóság hatáskörébe tartozó, továbbá a magánnyugdíjpénztárt megillető tagdíjjal (tagdíj-kiegészítéssel), késedelmi pótlékkal, önellenőrzési pótlékkal összefüggő követelések tekintetében a hitelezők képviselőjeként
+b) a magánnyugdíjpénztárt megillető tagdíjjal (tagdíj-kiegészítéssel), késedelmi pótlékkal, önellenőrzési pótlékkal összefüggő követelések tekintetében a hitelezők képviselőjeként
 
 az állami adóhatóság jár el.
 

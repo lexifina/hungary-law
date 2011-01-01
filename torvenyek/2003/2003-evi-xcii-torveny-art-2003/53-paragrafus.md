@@ -7,5 +7,3 @@
 (3) A (2) bekezdésben megjelölt személy megsérti a titoktartási kötelezettséget, ha az adózás vagy bírósági eljárás során megismert adótitkot vagy más titkot alapos ok nélkül illetéktelen személy részére hozzáférhetővé teszi, felhasználja vagy közzéteszi.
 
 (4) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak a nyilvános cégadat, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálattól kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.
-
-[(4) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak alapítványok esetében a 16. § (3) bekezdés szerinti adata, a bírósági nyilvántartás nyilvános adata, valamint az alapítványok bírósági nyilvántartásának üzemeltetőjétől kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.]

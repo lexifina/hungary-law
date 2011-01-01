@@ -8,7 +8,9 @@ b) az önadózás esetén a fizetendő adót (adóelőleget) tartalmazó bevall�
 
 c) a behajtási eljárás során a behajtást kérő megkeresése,
 
-d) az adózóval közölt adóhatósági adómegállapítás.
+d) az adózóval közölt adóhatósági adómegállapítás,
+
+f) a bírósági eljárási illetéket megállapító bírósági határozat.
 
 (2) Az okirat végrehajthatóságához külön intézkedésre (záradékolás, végrehajtási lap kiállítása stb.) nincs szükség.
 

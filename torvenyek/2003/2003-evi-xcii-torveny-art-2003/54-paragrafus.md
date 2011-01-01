@@ -10,9 +10,9 @@ d) a vállalkozási tevékenységet folytató adózó nevére, elnevezésére, s
 
 (2) Az adózással összefüggő tényt, adatot, iratot a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
 
-(3) Az adóhatóság jogosult a hatáskörébe tartozó, adóval kapcsolatos, a titoktartási kötelezettség alá tartozó adatról, tényről, körülményről vagy iratról más adóhatóság (vámhatóság) tájékoztatására, ha az valamely adó (vámteher) vagy adóhiány feltárását, behajthatóságának megállapítását, illetve adóigazgatási eljárás lefolytatását lehetővé teszi vagy valószínűsíti. A tájékoztatás joga a Nyugdíjbiztosítási Alap, az Egészségbiztosítási Alap és az elkülönített állami pénzalap kezelőjét is megilleti az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggésben. Az állami foglalkoztatási szervet a tájékoztatás joga – megkeresés alapján – megilleti arról is, hogy a magánszemélynek a munkanélküli-ellátás mellett van-e keresőtevékenységből származó jövedelme, és az meghaladja-e a törvényben meghatározott mértéket.
+(3) Az adóhatóság jogosult a hatáskörébe tartozó, adóval kapcsolatos, a titoktartási kötelezettség alá tartozó adatról, tényről, körülményről vagy iratról más adóhatóság tájékoztatására, ha az valamely adó (vámteher) vagy adóhiány feltárását, behajthatóságának megállapítását, illetve adóigazgatási eljárás lefolytatását lehetővé teszi vagy valószínűsíti. A tájékoztatás joga a Nyugdíjbiztosítási Alap, az Egészségbiztosítási Alap és az elkülönített állami pénzalap kezelőjét is megilleti az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggésben. Az állami foglalkoztatási szervet a tájékoztatás joga – megkeresés alapján – megilleti arról is, hogy a magánszemélynek a munkanélküli-ellátás mellett van-e keresőtevékenységből származó jövedelme, és az meghaladja-e a törvényben meghatározott mértéket.
 
-(4) Az adóhatóság az adóztatási tevékenységéhez megkérheti az állami adóhatóságtól a vállalkozási tevékenységet folytató adózók bejelentkezése, illetőleg változásbejelentése alapján nyilvántartott adatokat. Az adóhatóság a tevékenysége során tudomására jutott, titoktartási kötelezettség alá tartozó adatról, tényről, iratról, körülményről hivatalból tájékoztatja a másik adóhatóságot, ha az lehetővé teszi, vagy valószínűsíti valamely adó (vámteher) vagy adóhiány feltárását, behajtását.
+(4) Az önkormányzati adóhatóság az adóztatási tevékenységéhez megkérheti az állami adóhatóságtól a vállalkozási tevékenységet folytató adózók bejelentkezése, illetőleg változásbejelentése alapján nyilvántartott adatokat. Az adóhatóság a tevékenysége során tudomására jutott, titoktartási kötelezettség alá tartozó adatról, tényről, iratról, körülményről hivatalból tájékoztatja a másik adóhatóságot, ha az lehetővé teszi, vagy valószínűsíti valamely adó (vámteher) vagy adóhiány feltárását, behajtását.
 
 (5) Az állami adóhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi
 
@@ -32,17 +32,19 @@ e) az adóköteles tevékenységet adószám birtokában végző magánszemélye
 
 a) a bíróságot;
 
-b) az ügyész által jóváhagyott megkeresésre a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+b) a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 
 c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 
 d) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), ha a tájékoztatás az ellenőrzéshez szükséges,
 
-e) az adópolitikáért felelős minisztert, ha a tájékoztatás az adóztatáshoz, az adóztatás ellenőrzéséhez, felügyeletéhez szükséges,
+e) az adópolitikáért felelős minisztert, ha a tájékoztatás jogszabályban meghatározott feladata ellátásához szükséges,
 
-f) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges.
+f) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges,
 
-(8) Az adóhatóság a nyomozó hatóságot a ,,halaszthatatlan intézkedés'' jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, adótitoknak minősülő adatokról.
+g) a központi költségvetésből vagy Európai Uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges.
+
+(8)
 
 (9) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetőleg a személyi jövedelemadóról szóló törvény 3. §-ának 41. pontjában meghatározott és 39. §-ának (1) bekezdése alapján igénybevett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.
 

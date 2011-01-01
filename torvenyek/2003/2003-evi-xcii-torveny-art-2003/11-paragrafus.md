@@ -12,7 +12,7 @@ d) a törvényesség és szakszerűség ellenőrzése érdekében az adóhatós�
 
 e) meghatározza az állami adóhatóság és a vámhatóság feladatai teljesítésének éves követelményeit,
 
-f) adóügyben megváltoztatja, megsemmisíti az állami adóhatóság vezetőjének, a vámhatóság vezetőjének és a közigazgatási hivatal jogszabálysértő határozatát (végzését), illetőleg a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja,
+f) adóügyben megváltoztatja, megsemmisíti az állami adóhatóság vezetőjének, a vámhatóság vezetőjének és a Kormány általános hatáskörű területi államigazgatási szervének jogszabálysértő határozatát (végzését), illetőleg a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja,
 
 g) az állami adóhatóság vezetőjének különösen az adóztatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást ad.
 

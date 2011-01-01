@@ -8,9 +8,9 @@
 
 (1a) Az állami adóhatóság és a vámhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában szereplő adatot az adóhatóság csak az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, ellenőrzéséhez, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel. Amennyiben törvény megengedi az adóhatóságok vagy az állami adóhatóság és a társadalombiztosítás pénzügyi alapjainak kezelői között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
+(2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel. Amennyiben törvény megengedi az adóhatóságok vagy az állami adóhatóság és a társadalombiztosítás pénzügyi alapjainak kezelői között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
 
-(3) A (2) bekezdés alkalmazása során a személyi adat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a gépjármű-nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más, jogszabály alapján közhiteles nyilvántartás felhasználható. Az adóhatóság a személyi adat- és lakcímnyilvántartásból adatot természetes személyazonosító adattal, lakcímmel, illetőleg kapcsolati kódon igényelhet.
+(3) A (2) bekezdés alkalmazása során a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a gépjármű-nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más, jogszabály alapján közhiteles nyilvántartás térítés nélkül felhasználható. Az adóhatóság a személyiadat- és lakcímnyilvántartásból adatot természetes személyazonosító adattal, lakcímmel, illetőleg kapcsolati kódon igényelhet.
 
 (4) A 31. §-ban és a 3. számú mellékletben meghatározott tartalommal az adóhatósághoz bevallást teljesít, illetőleg adatot szolgáltat:
 
@@ -28,7 +28,7 @@ f) külön törvény szerint befektetési szolgáltatási tevékenység végzés
 
 g) a vámhatóság és a jegyző,
 
-h) egyes adóterhet nem viselő járandóságot (nyugdíjat, rehabilitációs járadékot, anyasági támogatást) folyósító szerv,
+h) nyugdíjat, rehabilitációs járadékot, folyósító szerv,
 
 i) az engedélyt kiadó hatóság,
 
@@ -50,7 +50,7 @@ r) a Magyarországon bejegyzett egyház,
 
 s) a szakképző iskolai tanulót tanulószerződés alapján foglalkoztató adózó,
 
-t) a Tbj. 56/A. §-ában meghatározott, Magyarországon be nem jegyzett foglalkoztató képviselője vagy a foglalkoztató képviseletében eljáró foglalkoztatott,
+t) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett,
 
 u) a Pénzügyi Szervezetek Állami Felügyelete.
 
@@ -62,7 +62,7 @@ u) a Pénzügyi Szervezetek Állami Felügyelete.
 
 a) megkeresésre adatot szolgáltat
 
-aa) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, továbbá
+aa) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, továbbá
 
 ab) az állami foglalkoztatási szerv részére, ha statisztikai célú adatfeldolgozás érdekében
 
@@ -82,13 +82,21 @@ be) a 31. § (2) bekezdése szerinti bevallásokból a Nyugdíjbiztosítási Ala
 
 c) elektronikus úton hivatalból átadja a (4) bekezdésben meghatározott bevallásra kötelezettek által a 31. § (2) bekezdés 1–3., 5., 12. és a – korkedvezményre jogosító munkakör tartama kivételével – 13., továbbá 27. pontjaiban meghatározott adatokat, valamint 10. pontjából a tárgyhónaptól eltérő biztosítási jogviszony időtartamára vonatkozó adatot a munkajogviszonyok jogszerűségének ellenőrzése céljából a munkaügyi hatóság részére a bevallásra előírt határidőt követő hónap utolsó napjáig,
 
-d) elektronikus úton hivatalból átadja a személyi jövedelemadóról benyújtott bevallásban bevallott, a Tbj. 5. § (3) bekezdés szerint biztosított által fizetett nyugdíj-biztosítási és nyugdíjjárulék (tagdíj) alapjára és összegére vonatkozó adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, illetőleg – a tagdíj vonatkozásában – a magánnyugdíjpénztár részére, a pénzbeli és természetbeni egészségbiztosítási járulék alapjára és összegére vonatkozó adatokat az egészségbiztosítási szerv részére, a munkaerő-piaci járulék alapjára és összegére vonatkozó adatokat az álláskeresési támogatások és a foglalkoztatást elősegítő támogatások megállapításához és ellenőrzéséhez az állami foglalkoztatási szerv és a munkaügyi hatóság részére a tárgyévet követő év augusztus 31. napjáig, a vendéglátó üzlet felszolgálója által a borravaló után fizetett nyugdíjbiztosítási járulék alapjára és összegére vonatkozó adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére a tárgyévet követő év augusztus 31. napjáig,
+d) a társadalombiztosítási ellátások és a foglalkoztatást elősegítő támogatások megállapítása és ellenőrzése céljából, a tárgyévet követő év augusztus 31. napjáig elektronikus úton hivatalból átadja
 
-e) elektronikus úton hivatalból átadja a nyugdíjas státusszal rendelkező magánszemélyre vonatkozó tárgyévi nyugdíjjárulék-alapot képező összesített jövedelmi adatokat a nyugdíjfolyósító szerv részére abban az időpontban, amikor a magánszemély tárgyévi nyugdíjjárulék-alapot képező jövedelme meghaladja az éves keretösszeget,
+da) a vendéglátó üzlet felszolgálója által a személyi jövedelemadóról benyújtott bevallásban bevallott borravaló után fizetett nyugdíjbiztosítási járulék alapjára és összegére vonatkozó adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
 
-f) elektronikus úton hivatalból átadja a kiegészítő tevékenységet folytató egyéni vállalkozó által a személyi jövedelemadó-bevallásban bevallott nyugdíjjárulék alapját és összegét a Nyugdíjbiztosítási Alap kezeléséért felelős szerv részére az adóévet követő év agusztus 31. napjáig,
+db) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett által a 31. § (2) bekezdésében meghatározott bevallásban bevallott, a Tbj. 56/A. § (1) bekezdésében felsorolt járulékok közül a Nyugdíjbiztosítási Alapot megillető nyugdíjbiztosítási és nyugdíjjárulék alapját és összegét a Nyugdíjbiztosítási Alap kezeléséért felelős szerv, továbbá a magán-nyugdíjpénztári tagdíj alapjára és összegére vonatkozó adatokat a magánnyugdíjpénztár,
 
-g) a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntetésének, az őstermelői igazolvány visszaadásának, visszavonásának időpontjáról, az egyéni vállalkozói, illetve az ügyvédi, szabadalmi ügyvivői tevékenység, valamint a közjegyzői szolgálat szünetelésének időtartamáról hivatalból tájékoztatja az egészségbiztosítási szervet, a nyugdíjbiztosítási szervet, illetve a magánnyugdíjpénztárat, ha a magánszemélyre vonatkozóan a munkáltató, kifizető (ideértve a saját biztosítási jogviszonyának tekintetében az egyéni vállalkozót, a biztosított mezőgazdasági őstermelőt és a Tbj. 56/A. §-a szerinti személyt is) biztosítási jogviszony létesítésével kapcsolatos adatot közölt (bejelentést tett), de a biztosítási jogviszony megszűnésének időpontját a foglalkoztatónak minősülő személy nem jelentette be és arról az adóhatóságnak hivatalos tudomása van. Az állami adóhatóság tájékoztatja továbbá a magánnyugdíjpénztárat arról a tényről is, hogy a mezőgazdasági őstermelő a tárgyévben kezdte-e meg őstermelői tevékenységét, illetve tárgyévet megelőző évben elért bevétele meghaladta-e a Tbj. 30/A. § (2) bekezdése szerinti értékhatárt.
+dc) a db) alpontban említett kötelezett által a 31. § (2) bekezdésében meghatározott bevallásban bevallott, a Tbj. 56/A. § (1) bekezdésében felsorolt járulékok közül az Egészségbiztosítási Alapot megillető járulékok alapját és összegét az egészségbiztosítási szerv,
+
+dd) a db) alpontban említett kötelezett által a 31. § (2) bekezdésében meghatározott bevallásban bevallott, a Tbj. 56/A. § (1) bekezdésében felsorolt járulékok közül a Munkaerőpiaci Alapot megillető járulék alapját és összegét az állami foglalkoztatási szerv és a munkaügyi hatóság részére;
+
+e) a bevallásra előírt határidőt követő hónap utolsó napjáig, a nyugdíjfolyósító szerv részére elektronikus úton hivatalból átadja a 31. § (2) bekezdés 5. pontja szerinti nyugdíjas státusszal rendelkező magánszemélyre vonatkozó tárgyévi nyugdíjjárulék-alapot képező összesített jövedelmi adatokat ahhoz az időponthoz igazodva, amikor a magánszemély tárgyévi nyugdíjjárulék-alapot képező jövedelme meghaladja a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (továbbiakban: Tny. törvény) 83/B. §-ában meghatározott éves keretösszeget;
+
+f) elektronikus úton hivatalból átadja a személyi jövedelemadóról szóló törvény hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által a személyi jövedelemadó-bevallásban bevallott valamint az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által az eva-bevallásban bevallott nyugdíjjárulék alapját és összegét a Nyugdíjbiztosítási Alap kezeléséért felelős szerv részére az adóévet követő év augusztus 31. napjáig.
+
+g) a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntetésének, az őstermelői igazolvány visszaadásának, visszavonásának időpontjáról, az egyéni vállalkozói, illetve az ügyvédi, szabadalmi ügyvivői tevékenység, valamint a közjegyzői szolgálat szünetelésének időtartamáról hivatalból tájékoztatja az egészségbiztosítási szervet, a nyugdíjbiztosítási szervet, illetve a magánnyugdíjpénztárat, ha a magánszemélyre vonatkozóan a munkáltató, kifizető (ideértve a saját biztosítási jogviszonyának tekintetében az egyéni vállalkozót, a biztosított mezőgazdasági őstermelőt és a Tbj. 56/A. § (4) bekezdése szerinti kötelezettet is) biztosítási jogviszony létesítésével kapcsolatos adatot közölt (bejelentést tett), de a biztosítási jogviszony megszűnésének időpontját a foglalkoztatónak minősülő személy nem jelentette be és arról az adóhatóságnak hivatalos tudomása van. Az állami adóhatóság tájékoztatja továbbá a magánnyugdíjpénztárat arról a tényről is, hogy a mezőgazdasági őstermelő a tárgyévben kezdte-e meg őstermelői tevékenységét, illetve tárgyévet megelőző évben elért bevétele meghaladta-e a Tbj. 30/A. § (2) bekezdése szerinti értékhatárt.
 
 h) elektronikus úton hivatalból adatot szolgáltat a Pénzügyi Szervezetek Állami Felügyelete részére
 
@@ -110,13 +118,13 @@ ia) a munkaügyi hatóság részére ellenőrzésre történő kiválasztás cé
 
 ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való jogszerzés érdekében köthető megállapodás jogalapjának kontrollja céljából.
 
-(8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, valamint a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
+(8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, valamint a rendelkezésére álló hozzátartozói adatokról (név, cím). Az állami adóhatóság a jegyző által megküldött hozzátartozói adatokat nyilvántartásából soron kívül törli, amennyiben az eljárás eredményeként nem állapít meg adót, költségvetési támogatást az elhunyt terhére vagy javára. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 
 (9) A területi ügyvédi kamara, illetőleg a Magyar Szabadalmi Ügyvivői Kamara az ügyvédi, szabadalmi ügyvivői tevékenység szünetelésének kezdő napjáról, valamint a szünetelés megszűnésének napjáról az ügyvéd, szabadalmi ügyvivő természetes személyazonosító adatainak, lakcímének feltüntetésével a bejegyzést követő hó 15. napjáig adatot szolgáltat az ügyvéd, szabadalmi ügyvivő illetékes állami adóhatóságához.
 
 (10) A közjegyző székhelye szerint illetékes területi közjegyzői kamara a közjegyző szolgálata szünetelésének kezdő napjáról, valamint a szolgálat szünetelése megszűnésének napjáról a közjegyző természetes személyazonosító adatainak, lakcímének feltüntetésével, a szolgálat szünetelésének kezdő napját, illetőleg a szolgálat szünetelése megszűnésének napját követő hó 15. napjáig adatot szolgáltat a közjegyző illetékes állami adóhatóságához.
 
-(11) Az állami adóhatóság vezetője a nemzetgazdaság aktuális állapotának, illetőleg az azt befolyásoló hatások, folyamatok elemzése, értékelése érdekében a 10 000 legnagyobb adóteljesítménnyel rendelkező adózót soron kívüli adatszolgáltatásra kötelezheti gazdasági tevékenységének olyan adatairól, amelyek a jogszabály alapján vezetett nyilvántartásaiból megállapíthatók és adókötelezettségeivel összefüggésben állnak.
+(11) Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapotának, illetőleg az azt befolyásoló hatások, folyamatok elemzése, értékelése érdekében a 10 000 legnagyobb adóteljesítménnyel rendelkező adózót soron kívüli adatszolgáltatásra kötelezheti gazdasági tevékenységének olyan adatairól, amelyek a jogszabály alapján vezetett nyilvántartásaiból megállapíthatók és adókötelezettségeivel összefüggésben állnak.
 
 (12) E törvény 7. számú mellékletében meghatározott kamatjövedelem kifizetője, illetve az ezzel összefüggésben adatszolgáltatásra kötelezett más személy a 7. számú melléklet szerinti módon és tartalommal adatot szolgáltat az állami adóhatósághoz.
 

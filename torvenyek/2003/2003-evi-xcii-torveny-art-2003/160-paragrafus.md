@@ -2,7 +2,7 @@
 
 160. § (1) Az adóhatóság az adós kérelmére vagy felettes szerve rendelkezésére a határozat (végzés) végrehajtását felfüggeszti, ha a fizetési kötelezettséget előíró határozat (végzés) megváltoztatása vagy megsemmisítése várható.
 
-(2)
+(2) Az állami adóhatóság illetékügyekben a végrehajtási eljárást kérelemre felfüggesztheti, ha az illetékfizetési kötelezettség megszűnése várható.
 
 (3) A végrehajtás felfüggesztéséről a bíróság az adózó kérelmére végzéssel határoz. A bírósági felülvizsgálat az adóhatósági határozat végrehajthatóságát nem érinti.
 
@@ -16,11 +16,13 @@ c) az adózó meghalt, illetőleg megszűnt, az adó megfizetésére határozatt
 
 d) az adóhatósági határozat bírósági felülvizsgálata során az első alkalommal előterjesztett végrehajtás felfüggesztése iránti kérelmet jogerősen még nem bírálták el,
 
-e) külön törvény így rendelkezik.
+e) az adó megfizetésére való kötelezésre e törvény 35. § (2) bekezdésének f) pontja alapján került sor és az adó megfizetésére kötelezettel szemben felszámolási eljárás indult, a felszámolási eljárás megindításának közzétételétől a felszámolás jogerős befejezéséig,
+
+f) külön törvény így rendelkezik.
 
 (5) Nem eredményezi a végrehajtási eljárás szünetelését az adózó fizetési könnyítésre vagy adótartozás mérséklésre irányuló kérelmének benyújtása, ha
 
-a) az adózó korábbi, ilyen tárgyú kérelmét az adóhatóság jogerős határozattal elbírálta vagy a kérelmet az adózó visszavonta,
+a) az adózó korábbi, ilyen tárgyú kérelmét az adóhatóság jogerős határozattal elbírálta, a kérelmet az adózó visszavonta vagy az adóhatóság az eljárást jogerős végzéssel megszüntette,
 
 b) arra az adóhatósági árverés kitűzését, illetőleg pályázat meghirdetését követően kerül sor, vagy
 

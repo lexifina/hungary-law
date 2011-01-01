@@ -1,6 +1,6 @@
 19. § (1) Az önkormányzati adóhatóság hatáskörébe tartozó adó esetében – az önadózás és az adóbeszedés kivételével – az adózó bevallásának benyújtásával jelenti be adókötelezettségét.
 
-(2) Az önadózás és az adóbeszedés útján megállapított adó esetén az adókötelezettség keletkezését annak bekövetkeztétől (a tevékenység megkezdésétől) számított 15 napon belül az erre a célra rendszeresített nyomtatványon jelenti be az adózó az önkormányzati adóhatóságnál. Az iparűzési tevékenységet ideiglenes, alkalmi jelleggel folytató adózó, adóköteles tevékenységének megkezdésekor köteles ezt az önkormányzati adóhatóságnál bejelenteni. A bejelentési kötelezettséget az erre a célra rendszeresített nyomtatványon kell teljesíteni, ha az önkormányzati adóhatóságnál a bejelentésre nyomtatványt rendszeresítettek.
+(2) Az önadózás és az adóbeszedés útján megállapított adó esetén az adókötelezettség keletkezését annak bekövetkeztétől (a tevékenység megkezdésétől) számított 15 napon belül az erre a célra rendszeresített nyomtatványon jelenti be az adózó az önkormányzati adóhatóságnál. Az iparűzési tevékenységet ideiglenes jelleggel folytató adózó, adóköteles tevékenységének megkezdésekor köteles ezt az önkormányzati adóhatóságnál bejelenteni. A bejelentési kötelezettséget az erre a célra rendszeresített nyomtatványon kell teljesíteni.
 
 (3) Az adózó az önkormányzati adóhatósághoz bejelenti a 16. § (3) bekezdésében megjelölt adatokat a j) pont kivételével.
 

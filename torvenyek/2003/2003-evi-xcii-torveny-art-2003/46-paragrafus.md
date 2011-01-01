@@ -8,7 +8,7 @@ c) az a)–b) pontokban meghatározott esetekben önellenőrzéssel
 
 veheti igénybe.
 
-(2) Az állami vagy törvényben meghatározott más végkielégítés kifizetése esetén az igazolásnak tartalmaznia kell a végkielégítés teljes összegét, a kifizetéskor az ebből levont adóelőleg összegét, továbbá – ha a magánszemély nyilatkozatában kéri – azt is, hogy a végkielégítést mely adóévekre és milyen összegben kell a magánszemély jövedelmének tekinteni, illetve a már levont adóelőlegből milyen összeget kell az egyes adóévek adóelőlegeként számításba venni.
+(2)
 
 (3) A társadalombiztosítási szerv az általa kifizetett adóköteles társadalombiztosítási ellátás teljes összegéről, a kifizetett összegről és a levont adóelőlegről a magánszemély részére a kifizetéskor igazolást ad.
 

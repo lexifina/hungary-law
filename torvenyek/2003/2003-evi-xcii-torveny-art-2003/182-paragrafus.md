@@ -18,4 +18,4 @@
 
 (9) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben szabályozza a szokásos piaci ár megállapítása iránti kérelem benyújtásának, nyilvántartásának, az éves jelentéstételi kötelezettségnek, a díj kezelésének, nyilvántartásának módját és feltételeit, továbbá az eljárás részletes szabályait.
 
-(10) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az állami adóhatóságot vagy adóhatóságokat.
+(10)

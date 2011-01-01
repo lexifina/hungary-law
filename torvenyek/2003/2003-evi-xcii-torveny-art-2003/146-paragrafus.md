@@ -1,6 +1,6 @@
 ## Eljáró hatóságok
 
-146. § (1) A végrehajtást az első fokon eljáró adóhatóság folytatja le.
+146. § (1) A végrehajtást – a vámhatóság elsőfokú szervei kivételével – az első fokon eljáró adóhatóság folytatja le.
 
 (2) Az adók módjára behajtandó köztartozás jogosultjának megkeresése alapján
 

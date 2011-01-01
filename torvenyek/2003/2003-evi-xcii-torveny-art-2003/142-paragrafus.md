@@ -12,4 +12,4 @@ c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami S
 
 d) ha az adóhatóság az ellenőrzést a társadalombiztosítási igazgatási szerv megkeresésének teljesítése érdekében, illetőleg a magánnyugdíjpénztár megkeresésére soron kívül folytatja le, és az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
 
-e) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adóhatóság vezetője, illetőleg a vámhatóság vezetője utasítást ad.
+e) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője utasítást ad.

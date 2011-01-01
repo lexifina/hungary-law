@@ -33,3 +33,5 @@ hb) az ügyfél a tudomásszerzéstől számított 8 napon belül jelentheti be;
 i) az eljárási cselekményhez kapcsolódó igazolási kérelmet a mulasztásról való tudomásszerzést vagy az akadály megszűnését követő 8 napon belül, de legkésőbb az elmulasztott határnaptól vagy az elmulasztott határidő utolsó napjától számított hat hónapon belül lehet előterjeszteni.
 
 (4) A hiánypótlási felhívás kibocsátására nyitva álló határidőre vonatkozó, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben, valamint a (3) bekezdés g) pontjában foglalt rendelkezéseket a feltételes adómegállapításra, a szokásos piaci ár megállapítására, valamint a fejlesztési adókedvezmény iránti kérelem elbírálására irányuló eljárásokban nem kell alkalmazni.
+
+(5) Az adóhatósági igazolás kiállítására irányuló kérelmet a kérelem beérkezésétől számított 8 napon belül kell teljesíteni.

@@ -8,13 +8,11 @@ c) ha adókötelezettsége, adóköteles bevételszerző tevékenysége nem tart
 
 (2) A cégbíróság, illetve az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság az erre a célra szolgáló számítógépes rendszer útján közli az állami adóhatósággal azokat a 16. § (3) bekezdésében felsorolt adatokat, amelyek a cégbejegyzés, vállalkozói tevékenység bejelentése iránt kitöltött nyomtatványon rendelkezésre állnak, ideértve a 16. § (3) bekezdésének j) és k) pontjában megjelölt nyilatkozat, valamint a 17. § (1) bekezdés b) pontja szerinti adózó esetén az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adóhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék száma, illetve a 22. § (1) bekezdés szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, illetőleg az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatósággal az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adóhatóság az adószám megállapításának megtagadásáról szóló jogerős határozat egy példányának megküldésével és elektronikus úton is értesíti a cégbíróságot, illetőleg az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóságot.
 
-[(2) A cégbíróság, illetve a körzetközponti jegyző, illetve alapítványok esetében a bíróság az erre a célra szolgáló számítógépes rendszer útján közli az állami adóhatósággal azokat a 16. § (3) bekezdésében felsorolt adatokat, amelyek a cégbejegyzés, alapítványok nyilvántartásba vétele, vállalkozói igazolvány kiállítása iránt kitöltött nyomtatványon rendelkezésre állnak, ideértve a 16. § (3) bekezdésének j) és k) pontjában megjelölt nyilatkozat, valamint az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adóhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék- vagy egyéni vállalkozói nyilvántartási száma, illetve alapítványok esetében azok bírósági nyilvántartási száma, illetve a 22. § (1) bekezdés szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, illetve alapítványok esetében a bírósággal, illetőleg a körzetközponti jegyzővel az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adóhatóság az adószám megállapításának megtagadásáról szóló jogerős határozat egy példányának megküldésével értesíti a cégbíróságot, illetve alapítványok esetében a bíróságot, illetőleg a körzetközponti jegyzőt.]
-
 (3) Az (1) bekezdés a) pontjában megjelölt adózó a bejelentkezéssel egyidejűleg, az (1) bekezdés b) pontjában megjelölt adózó a bejelentkezés napjától számított 15 napon belül a 16. § (3) bekezdésében felsorolt adatok közül az állami adóhatósághoz írásban bejelenti:
 
 a) iratai őrzésének helyét, ha az nem azonos az adózó székhelyével vagy lakóhelyével;
 
-b) a rá vonatkozó jogszabály szerinti képviselőjének adóazonosító számát, illetőleg az adóazonosító jellel nem rendelkező képviselő esetén az adóazonosító jel megállapításához szükséges adatokat;
+b)
 
 c) jogelődjének adóazonosító számát;
 
@@ -24,17 +22,19 @@ e) a magánszemély adózó levelezési címét, ha az nem azonos székhelyével
 
 f) a ténylegesen végzett tevékenységi köröket az 1893/2006/EK rendelet szerint;
 
-g) székhelyszolgáltatás esetén az ügyvéd, ügyvédi iroda nevét, elnevezését, adószámát, a székhely biztosítására kötött megbízási szerződés időtartamát és a székhelyszolgáltatás kezdő időpontját, valamint azoknak az iratoknak a körét, amelyekre e megbízási szerződés kiterjed.
+g) székhelyszolgáltatás esetén az ügyvéd, ügyvédi iroda nevét, elnevezését, adószámát, a székhely biztosítására kötött megbízási szerződés időtartamát és a székhelyszolgáltatás kezdő időpontját, valamint azoknak az iratoknak a körét, amelyekre e megbízási szerződés kiterjed;
+
+h) a cégbírósághoz be nem jelentett, az e törvény 178. § 27. pontjában foglaltaknak megfelelő telephelyét.
 
 (4) Ha az adóköteles (bevételszerző) tevékenység folytatásához engedély, jóváhagyás, záradék szükséges, ennek megszerzését – az (1) bekezdés a) pontjában megjelölt adózók kivételével – a jogerős engedély, jóváhagyás, záradék közlésétől számított 15 napon belül az adóhatóságnak be kell jelenteni.
 
-(5) A 31. § (2) bekezdése szerinti bevallás, illetőleg adatszolgáltatás, illetve az összesítő nyilatkozat benyújtására kötelezett adózó az adószám megszerzését követően 8 napon belül köteles az okmányirodánál ügyfélkapu létesítését kezdeményezni, és erről a létesítést követő 8 napon belül bejelentést tesz az állami adóhatósághoz. Ha az adózó állandó meghatalmazással vagy megbízással rendelkező képviselője útján elektronikus úton teljesíti adóbevallási és adatszolgáltatási kötelezettségét, az állandó meghatalmazott vagy megbízott a megbízást követő 8 napon belül köteles az adóhatósághoz bejelenteni a képviselt adózó nevét, elnevezését és adóazonosító számát.
+(5) A 31. § (2) bekezdése szerinti bevallás, illetőleg adatszolgáltatás, illetve az összesítő nyilatkozat benyújtására kötelezett adózó az adószám megszerzését követően 8 napon belül köteles az okmányirodánál ügyfélkapu létesítését kezdeményezni, és erről a létesítést követő 8 napon belül bejelentést tesz az állami adóhatósághoz. Amennyiben az adózó az adószám megszerzését megelőzően már létesített ügyfélkaput, úgy a 8 napos bejelentési határidőt az adószám megszerzésétől kell számítani. Ha az adózó állandó meghatalmazással vagy megbízással rendelkező képviselője útján elektronikus úton teljesíti adóbevallási és adatszolgáltatási kötelezettségét, az állandó meghatalmazott vagy megbízott a megbízást követő 8 napon belül köteles az adóhatósághoz bejelenteni a képviselt adózó nevét, elnevezését és adóazonosító számát.
 
 (6) A munkáltatónak és a kifizetőnek e minőségét akkor is be kell az állami adóhatósághoz jelentenie, ha más adókötelezettség nem terheli. Ebben az esetben a bejelentést az első adóköteles kifizetéstől számított 15 napon belül kell megtenni.
 
 (7) Ha a magánszemély adózó az állami adóhatóságnál történő bejelentkezéskor adóazonosító jellel még nem rendelkezik, akkor a bejelentkezéssel egyidejűleg teljesíti a 20. § (1) bekezdésében meghatározott kötelezettségét is.
 
-(8) Az állami adóhatóság az adózót nyilvántartásba vételéről 30 napon belül értesíti, és ebben tájékoztatja valamennyi nyilvántartásban szereplő adatáról.
+(8) Az állami adóhatóság az ügyfélkapu létesítésére nem kötelezett adózót nyilvántartásba vételéről 30 napon belül értesíti, és ebben tájékoztatja valamennyi nyilvántartásban szereplő adatáról.
 
 (9) A készpénzfizetés napjától számított 15 napon belül az állami adóhatósághoz a vevőnek, a szolgáltatás igénybe vevőjének – a vállalkozási tevékenységet nem folytató magánszemélyek kivételével – be kell jelentenie
 
@@ -65,7 +65,5 @@ c) a munkavégzésre megbízást adó és a munkavégzéssel kapcsolatos költs�
 (14) Az egyéni vállalkozó adózó tevékenységi köreinek a 1893/2006/EK rendeletnek megfelelő bejelentését a statisztikai hivatal elnökének a Szakmakód jegyzékről szóló közleménye szerinti szakmakódokon (a továbbiakban: szakmakód) teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szakmakód szerint jelenti be az állami adóhatósághoz.
 
 (15)
-
-[(15) Az állami adóhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti alapítványok esetében az adószám megállapításáról az alapítvány adatainak közlésével a nyilvántartásba vételt elrendelő bíróságot.]
 
 (16) Az adózó évente augusztus 31-éig bejelenti, hogy a társasági adóról és az osztalékadóról szóló törvény szerint ingatlannal rendelkező társaságnak minősül illetve azt, hogy e minősége megszűnt. Az ingatlannal rendelkező társaság bejelentésében – a benyújtás időpontját megelőző naptári év vonatkozásában – nyilatkozik a társaság külföldi tagjai általi részesedés elidegenítéséről, az elidegenítés időpontjáról, a részesedés névértékéről, illetve a tag illetőségéről.

@@ -8,7 +8,7 @@
 
 (4) A megkeresést követő változásról a behajtást kérő az adóhatóságot haladéktalanul értesíteni köteles.
 
-(5) Az adóhatóság a behajthatatlan tartozásról a behajtást kérőt tájékoztatja. A végrehajtás során felmerült ki nem egyenlített költségeket az adóhatóság állapítja meg, melyet az adóhatóság és a behajtást kérők követelésarányosan viselnek. Az adóhatóság eredménytelen felszólítást követően határozattal kötelezi a behajtást kérőt a költségek megfizetésére. A határozat az adóigazgatási eljárásban végrehajtható okiratnak minősül.
+(5) Az adóhatóság a végrehajtás eredménytelenségéről és az eljárás megszüntetéséről a behajtást kérőt tájékoztatja. A végrehajtás során felmerült ki nem egyenlített költségeket az adóhatóság állapítja meg, melyet az adóhatóság és a behajtást kérők követelésarányosan viselnek. Az adóhatóság eredménytelen felszólítást követően határozattal kötelezi a behajtást kérőt a költségek megfizetésére. A határozat az adóigazgatási eljárásban végrehajtható okiratnak minősül.
 
 (6) Amennyiben a behajtást kérőnek tudomása van a fizetésre kötelezettnek más adóhatóság illetékességi területén található vagyontárgyáról, jogosult közvetlenül ezt az adóhatóságot is megkeresni.
 
@@ -18,4 +18,4 @@
 
 (9) Az adók módjára behajtandó köztartozásra az adóhatóság fizetési könnyítést nem engedélyezhet, a tartozást nem mérsékelheti illetőleg – a szabálysértési helyszíni bírság kivételével – nem minősítheti behajthatatlannak.
 
-(10) Nem kell alkalmazni az e § alatti szabályokat a központi költségvetés terhére kifizetett azon összeg vonatkozásában, amely összeg az állami kezességvállalás miatt vált a tartozás kötelezettjének az állammal szemben fennálló tartozásává – ideértve a kezességvállalási díjat is – és amely összeget adók módjára kell behajtani.
+(10) Nem kell alkalmazni az e § alatti szabályokat a központi költségvetés terhére kifizetett azon összeg vonatkozásában, amely összeg állami kezességvállalás, garancia, vagy viszontgarancia érvényesítése miatt vált a tartozás kötelezettjének az állammal szemben fennálló tartozásává – ideértve a kezességvállalási díjat is – és amely összeget adók módjára kell behajtani.

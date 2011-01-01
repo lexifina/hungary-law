@@ -10,9 +10,9 @@ c) az általános forgalmi adó,
 
 d) a biztosítási díjakra kiszabott adó,
 
-e) az a)–d) pontban meghatározott tartozás végrehajtásával kapcsolatban felmerült költség, továbbá
+e) az a)–d) pontban meghatározott tartozás végrehajtásával kapcsolatban felmerült költség, továbbá a kamat, igazgatási pénzbüntetés és pénzbírság megállapításához szükségesek és az állami adóhatóság nyilvántartásában rendelkezésre állnak. Amennyiben a megkeresés teljesítéséhez más hatóságtól kell az adatot beszerezni, a beszerzést követően a kapcsolattartó közigazgatási szerv az adóadatot a megkereső hatóságnak haladéktalanul továbbítja. Az adatátadás akadályáról, megtagadásának okáról a kapcsolattartó közigazgatási szerv értesíti a megkereső hatóságot. Az általános forgalmi adóval összefüggésben a kapcsolattartó közigazgatási szerv az 1798/2003/EK rendelet és végrehajtási rendelete szabályai szerint jár el.
 
-f) a kamat, igazgatási pénzbüntetés és pénzbírság
+f)
 
 megállapításához szükségesek és az állami adóhatóság nyilvántartásában rendelkezésre állnak. Amennyiben a megkeresés teljesítéséhez más hatóságtól kell az adatot beszerezni, a beszerzést követően a kapcsolattartó közigazgatási szerv az adóadatot a megkereső hatóságnak haladéktalanul továbbítja. Az adatátadás akadályáról, megtagadásának okáról a kapcsolattartó közigazgatási szerv értesíti a megkereső hatóságot. Az általános forgalmi adóval összefüggésben a kapcsolattartó közigazgatási szerv a 1798/2003/EK rendelet és végrehajtási rendelete szabályai szerint jár el.
 
@@ -38,6 +38,6 @@ e) a korábban átadott adóadatokhoz képest olyan új tények, körülmények 
 
 (7) A kapcsolattartó közigazgatási szerv az Európai Közösség tagállamai illetékes hatóságának egyidejű ellenőrzésre irányuló megkeresését továbbítja az illetékes adóhatóságnak. Az adóhatóság határoz az egyidejű ellenőrzésben való részvételről, elutasító döntését indokolni köteles. A kapcsolattartó közigazgatási szerv értesíti a megkereső hatóságot az adóhatóság döntéséről.
 
-(8) A kapcsolattartó közigazgatási szerv az Európai Közösség tagállamai illetékes hatóságának megkeresésére – az e törvényben meghatározott szabályoknak megfelelően – kézbesíti az adózónak a tagállami adóhatóságok által az (1) bekezdés b)–d) pontjában meghatározott adókkal kapcsolatban kibocsátott határozatot, illetve egyéb okiratot. A kézbesítés iránti megkeresésben fel kell tüntetni a határozat vagy egyéb okirat tárgyát, az adózó nevét, címét, valamint minden egyéb, a címzett azonosításához szükséges információt. A kapcsolattartó közigazgatási szerv haladéktalanul értesíti a megkereső hatóságot az általa tett intézkedésről, különösen a kézbesítés időpontjáról.
+(8) A kapcsolattartó közigazgatási szerv az Európai Közösség tagállamai illetékes hatóságának megkeresésére – az e törvényben meghatározott szabályoknak megfelelően – kézbesíti az adózónak a tagállami adóhatóságok által az (1) bekezdésben meghatározottakkal kapcsolatban kibocsátott határozatot, illetve egyéb okiratot. A kézbesítés iránti megkeresésben fel kell tüntetni a határozat vagy egyéb okirat tárgyát, az adózó nevét, címét, valamint minden egyéb, a címzett azonosításához szükséges információt. A kapcsolattartó közigazgatási szerv haladéktalanul értesíti a megkereső hatóságot az általa tett intézkedésről, különösen a kézbesítés időpontjáról.
 
 (9) A kapcsolattartó közigazgatási szerv a 7. számú mellékletben meghatározott kifizetőtől, illetve az ezzel összefüggésben adatot szolgáltató más személytől beérkezett adóadatot a haszonhúzó illetősége szerinti tagállam illetékes hatóságának az adóévet követő év június 20-ig továbbítja.

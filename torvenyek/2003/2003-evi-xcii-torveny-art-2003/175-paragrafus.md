@@ -6,7 +6,7 @@
 
 175. § (1) Az adóhatóság az adókötelezettségek teljesítéséhez nyomtatványt, elektronikus űrlapot rendszeresíthet különösen a bejelentésre, a bevallásra, a költségvetési támogatás előlegének, gyakoribb igénybevételének igénylésére, az adatszolgáltatásra, a bevallás kiegészítésére szóló felhívásra tett nyilatkozatra, az önellenőrzésre, az adófizetésre, átvezetésre és az adófolyószámla egyeztetésére. A rendszeresített nyomtatványon történő teljesítéssel azonos értékű, ha az iratot az adózó az adóhatóság honlapján közzétett számítógépes program segítségével tölti ki és állítja elő, és a kinyomtatott iratot aláírva az adóhatósághoz benyújtja, illetőleg elektronikus úton küldi meg az adóhatósághoz.
 
-(2)
+(2) A helyi iparűzési adóval illetve az idegenforgalmi adóval kapcsolatos bejelentési (változásbejelentési) kötelezettségeket az adópolitikáért felelős miniszter által az erre a célra rendszeresített nyomtatványon kell teljesíteni.
 
 (3) E törvény alkalmazásában az (1) bekezdésben említett, kitöltött és az adózó – illetőleg az e törvényben meghatározott képviselője, meghatalmazottja – által aláírt nyomtatvány, illetőleg az elektronikus úton benyújtott irat magánokiratnak minősül. Az eredeti okiratéval azonos bizonyító ereje van az okiratról – műszaki vagy vegyi úton – készült felvételnek (fénykép, film, hang stb.), úgyszintén az eredeti okiratról bármely adathordozó (mágneslap, mágnesszalag stb.) útján készült okiratnak, ha a felvételt, illetőleg az adathordozóról az okiratot az adóhatóság vagy az ellenőrzése mellett más szerv készítette.
 
@@ -22,9 +22,9 @@
 
 (9) A 31. § (2) bekezdésében meghatározott bevallás benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adóhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét elektronikus úton teljesíti.
 
-(10) A bevallási, adatszolgáltatási kötelezettségét elektronikus úton teljesítő adózó az állami adóhatósághoz teljesítendő bejelentési, változásbejelentési kötelezettségének elektronikus úton is eleget tehet, illetőleg az adóügyeiben az adóhatóságnál a beadványait elektronikus úton is előterjesztheti.
+(10) Az adóazonosító számmal rendelkező adózó az állami adóhatósághoz teljesítendő bejelentési, változásbejelentési kötelezettségének elektronikus úton is eleget tehet, illetőleg adóügyeiben az adóhatóságnál a (13) bekezdés szerinti beadványait elektronikus úton is előterjesztheti.
 
-(11) Az adózó általános, nemleges adóigazolás, illetőleg az együttes adóigazolás iránti kérelmét az állami adóhatósághoz elektronikus úton is előterjesztheti. Ez esetben az állami adóhatóság az igazolást elektronikus űrlapon állítja ki és küldi meg az adózó részére.
+(11) Az adózó általános, nemleges adóigazolás, a jövedelemigazolás, illetve az együttes adóigazolás iránti kérelmét az adó- és vámhatósághoz elektronikus úton is előterjesztheti. Ez esetben az adó- és vámhatóság az igazolást elektronikus űrlapon állítja ki és küldi meg az adózó részére.
 
 (12) Az adópolitikáért felelős miniszter rendeletben határozza meg azokat az értékhatárokat és feltételeket, amelyek alapján
 
@@ -44,15 +44,15 @@ c) az adóhatósági igazolás, a fizetési könnyítés, illetőleg a köztarto
 
 d) az adófizetés teljesítésének,
 
-e) az adózó folyószámlájának megtekintése,
+e) az állami adóhatóság által a központi elektronikus szolgáltató rendszeren keresztül az adózók számára biztosított lekérdezések,
 
-f) az adózó által a bejelentési (változásbejelentési) kötelezettség alkalmával bejelentett és az adóhatóság által nyilvántartott adatok megtekintésének, illetőleg ezen adatok letöltésének,
+f) az adóhatóság által nyilvántartott adatok megtekintésének, illetőleg ezen adatok letöltésének,
 
 g) a végrehajtás során teljesítendő fizetési kötelezettségek teljesítésének,
 
 h) egyes adóügyek távbeszélőn történő ügyintézésének, az elektronikus kézbesítés szabályainak,
 
-i) a végrehajtási eljárás során az elektronikus ügyintézés,
+i) végrehajtási eljárás során az elektronikus ügyintézés,
 
 j) az Európai Közösség más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, illetve a belföldön letelepedett adóalanynak az Európai Közösség más tagállamában érvényesített visszatéríttetési kérelmével (kiigazítási nyilatkozatával) kapcsolatos eljárás rendjének, ideértve az elektronikus levélben (e-mailen) történő ügyintézés
 
@@ -86,9 +86,9 @@ i) az államilag elismert idegennyelv-tudást igazoló nyelvvizsga (nyelvvizsgá
 
 (19) A (16) bekezdés szerinti nyilvántartásban szereplő adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység folytatására jogosult személy neve, levelezési címe, nyilvántartási száma, adótanácsadói, adószakértői, okleveles adószakértői igazolványának száma, valamint hozzájárulása esetén egyéb, a nyilvántartásban szereplő adata nyilvános. A tárgyévben nyilvántartásba vettek nyilvános adatait, illetve a nyilvántartásban szereplő nyilvános adatokban bekövetkezett változásokat az adópolitikáért felelős miniszter a Pénzügyi Közlönyben évente – a tárgyévet követő év március 31-ig – közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett személy nyilvános adatait nyilvánosságra hozza.
 
-(20) A (16) bekezdés szerinti hatósági eljárás ügyintézési határideje 45 munkanap azzal, hogy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – ha a (16) bekezdés szerinti engedélyező szerv a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
+(20) A (16) bekezdés szerinti hatósági eljárás ügyintézési határideje 60 nap azzal, hogy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – ha a (16) bekezdés szerinti engedélyező szerv a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
-(21) Amennyiben a kérelmező az eljárás iránti kérelmét hibásan, hiányosan, vagy nem a (17) bekezdésben hivatkozott rendelet szerinti mellékletekkel felszerelve terjeszti elő, akkor a kérelmezőt az adópolitikáért felelős miniszter a kérelem előterjesztését követő 22 munkanapon belül hiánypótlásra hívja fel.
+(21) Amennyiben a kérelmező az eljárás iránti kérelmét hibásan, hiányosan, vagy nem a (17) bekezdésben hivatkozott rendelet szerinti mellékletekkel felszerelve terjeszti elő, akkor a kérelmezőt az adópolitikáért felelős miniszter a kérelem előterjesztését követő 30 napon belül hiánypótlásra hívja fel.
 
 (22) A (16) bekezdés szerinti eljárás iránti kérelmet az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett külön közleményben megjelölt címen, az adópolitikáért felelős miniszter által vezetett minisztérium e feladatra kijelölt szervezeti egységénél, valamint a kincstár területi szervezeti egységeinél lehet előterjeszteni.
 
