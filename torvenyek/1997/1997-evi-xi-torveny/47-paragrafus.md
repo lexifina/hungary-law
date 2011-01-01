@@ -4,7 +4,7 @@
 
 ## Bejelentési nyilvántartás, védjegylajstrom
 
-47. § (1) A Magyar Szabadalmi Hivatal a védjegybejelentésekről nyilvántartást, a védjegyekről pedig lajstromot vezet, amelyekbe be kell jegyezni a védjegyjogokkal kapcsolatos minden tényt és körülményt.
+47. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentésekről nyilvántartást, a védjegyekről pedig lajstromot vezet, amelyekbe be kell jegyezni a védjegyjogokkal kapcsolatos minden tényt és körülményt.
 
 (2) A védjegylajstromban fel kell tüntetni különösen
 

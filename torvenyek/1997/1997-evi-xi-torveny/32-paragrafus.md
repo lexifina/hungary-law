@@ -1,6 +1,6 @@
 ## Lemondás a védjegyoltalomról
 
-32. § (1) A védjegylajstromban feltüntetett védjegyjogosult a Magyar Szabadalmi Hivatalhoz intézett írásbeli nyilatkozattal a védjegyoltalomról lemondhat.
+32. § (1) A védjegylajstromban feltüntetett védjegyjogosult a Szellemi Tulajdon Nemzeti Hivatalához intézett írásbeli nyilatkozattal a védjegyoltalomról lemondhat.
 
 (2) Ha a lemondás más személynek jogszabályon, hatósági határozaton, a védjegylajstromba bejegyzett használati vagy egyéb szerződésen alapuló jogát érinti, vagy ha a védjegylajstromba per van bejegyezve, a lemondás csak az érintett személy hozzájárulásával hatályos.
 

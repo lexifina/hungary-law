@@ -4,7 +4,7 @@
 
 ## A védjegybejelentés benyújtása és kellékei
 
-50. § (1) A védjegy lajstromozására irányuló eljárás a Magyar Szabadalmi Hivatalhoz benyújtott bejelentéssel indul meg.
+50. § (1) A védjegy lajstromozására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához benyújtott bejelentéssel indul meg.
 
 (2) A védjegybejelentésnek bejelentési kérelmet, megjelölést, árujegyzéket, továbbá – a szükséghez képest – egyéb mellékletet kell tartalmaznia.
 
@@ -12,6 +12,6 @@
 
 (4) A védjegybejelentésért külön jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
-(5) Ha a bejelentés mellékletei idegen nyelven készültek, a magyar nyelvű árujegyzéket a bejelentés napjától számított négy hónapon belül kell benyújtani.
+(5) Ha a bejelentés árujegyzéke idegen nyelven készült, a magyar nyelvű árujegyzéket a bejelentés napjától számított négy hónapon belül kell benyújtani.
 
 (6) A bejelentő a lajstromozásig – a 32. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a védjegybejelentést.

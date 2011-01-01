@@ -1,6 +1,6 @@
 ## A bejelentés benyújtását követő vizsgálat
 
-55. § A Magyar Szabadalmi Hivatal a védjegybejelentés benyújtását követően megvizsgálja, hogy
+55. § A Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentés benyújtását követően megvizsgálja, hogy
 
 a) a bejelentés megfelel-e a bejelentési nap elismeréséhez előírt feltételeknek (51. §),
 

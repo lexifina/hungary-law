@@ -1,6 +1,6 @@
 ## Alaki vizsgálat
 
-59. § (1) Ha a védjegybejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Magyar Szabadalmi Hivatal megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 50. § (2) és (3) bekezdésében meghatározott alaki követelményeket, továbbá, hogy a megjelölés egységes-e [52. § (1) bek.].
+59. § (1) Ha a védjegybejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 50. § (2) és (3) bekezdésében meghatározott alaki követelményeket, továbbá, hogy a megjelölés egységes-e [52. § (1) bek.].
 
 (2) Ha a bejelentés nem felel meg az (1) bekezdés alapján vizsgált követelményeknek, a bejelentőt fel kell hívni a hiányok pótlására, illetve a bejelentés megosztására.
 

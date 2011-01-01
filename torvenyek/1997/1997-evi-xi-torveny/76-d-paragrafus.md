@@ -1,3 +1,3 @@
 ## A közösségi védjegy bitorlásának jogkövetkezményei
 
-76/D. § A közösségi védjegy bitorlására – a közösségi védjegyrendelet 14. cikkében foglaltakkal összhangban – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Magyar Szabadalmi Hivatal által e törvény alapján lajstromozott védjegy bitorlására.
+76/D. § A közösségi védjegy bitorlására – a közösségi védjegyrendelet 14. cikkében foglaltakkal összhangban – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy bitorlására.

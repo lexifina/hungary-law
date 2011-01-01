@@ -4,7 +4,7 @@
 
 (3) A felszólalás kapcsán felmerülő költségek viselésére a vesztes felet kell kötelezni; a felszólaló nem minősül vesztes félnek, ha a felszólalást a 61/G. § (3) bekezdése alapján kell visszavontnak tekinteni.
 
-(4) A felszólalás díját [61/B. § (4) bek.] a Magyar Szabadalmi Hivatal – kérelemre – külön jogszabályban meghatározott mértékben és feltételekkel visszatéríti, ha
+(4) A felszólalás díját [61/B. § (4) bek.] a Szellemi Tulajdon Nemzeti Hivatala – kérelemre – külön jogszabályban meghatározott mértékben és feltételekkel visszatéríti, ha
 
 a) a védjegybejelentést a 61. § (4) bekezdése alapján elutasítják;
 

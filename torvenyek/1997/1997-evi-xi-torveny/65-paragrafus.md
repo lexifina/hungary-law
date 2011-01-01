@@ -4,7 +4,7 @@
 
 ## A megújítási eljárás
 
-65. § (1) A védjegyoltalom megújítását [11. § (2) bek.] a védjegyjogosult kérheti a Magyar Szabadalmi Hivataltól.
+65. § (1) A védjegyoltalom megújítását [11. § (2) bek.] a védjegyjogosult kérheti a Szellemi Tulajdon Nemzeti Hivatalától.
 
 (2) A megújítási kérelemben meg kell jelölni az érintett védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2), (3) bek.] kell megfelelően alkalmazni.
 

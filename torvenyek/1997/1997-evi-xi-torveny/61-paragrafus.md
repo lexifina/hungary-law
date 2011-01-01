@@ -1,6 +1,6 @@
 ## Érdemi vizsgálat hivatalból
 
-61. § (1) Ha a védjegybejelentés megfelel az 59. § alapján vizsgált feltételeknek, a Magyar Szabadalmi Hivatal elvégzi a védjegybejelentés érdemi vizsgálatát.
+61. § (1) Ha a védjegybejelentés megfelel az 59. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala elvégzi a védjegybejelentés érdemi vizsgálatát.
 
 (2) Az érdemi vizsgálat arra terjed ki, hogy a megjelölés
 

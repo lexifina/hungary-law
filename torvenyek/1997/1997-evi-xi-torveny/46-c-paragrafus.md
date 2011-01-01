@@ -8,4 +8,4 @@ a) a módosítási, a határidő-hosszabbítási és az igazolási kérelemért;
 
 b) a jogutódlás, a jelzálogjog és a használati engedély tárgyában a tudomásulvételre irányuló kérelemért.
 
-(3) A Magyar Szabadalmi Hivatal a képviselő munkadíjának összegét indokolt esetben mérsékelheti, ha az nem áll arányban a ténylegesen elvégzett képviseleti tevékenységgel. Ennek során a bírósági eljárásban megállapítható ügyvédi és szabadalmi ügyvivői költségekről szóló rendelkezések megfelelő alkalmazásával jár el.
+(3) A Szellemi Tulajdon Nemzeti Hivatala a képviselő munkadíjának összegét indokolt esetben mérsékelheti, ha az nem áll arányban a ténylegesen elvégzett képviseleti tevékenységgel. Ennek során a bírósági eljárásban megállapítható ügyvédi és szabadalmi ügyvivői költségekről szóló rendelkezések megfelelő alkalmazásával jár el.

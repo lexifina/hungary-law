@@ -4,7 +4,7 @@
 
 (2) A földrajzi árujelző bejelentéséért külön jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentési naptól számított két hónapon belül.
 
-(3) A földrajzi árujelző lajstromozására irányuló bejelentésről, ha az – a benyújtáskor vagy a hiánypótlás eredményeként – kielégíti a bejelentési nap elismeréséhez előírt feltételeket, a Magyar Szabadalmi Hivatal hivatalos lapjában hatósági tájékoztatást tesz közzé (adatközlés). Az adatközlés különösen a következő adatokat tartalmazza:
+(3) A földrajzi árujelző lajstromozására irányuló bejelentésről, ha az – a benyújtáskor vagy a hiánypótlás eredményeként – kielégíti a bejelentési nap elismeréséhez előírt feltételeket, a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában hatósági tájékoztatást tesz közzé (adatközlés). Az adatközlés különösen a következő adatokat tartalmazza:
 
 a) a földrajzi árujelző megnevezése;
 
@@ -12,9 +12,9 @@ b) a bejelentés napja;
 
 c) a termékjegyzék.
 
-(4) A földrajzi árujelző lajstromozására irányuló eljárásban az adatközlést követően észrevételt lehet benyújtani a Magyar Szabadalmi Hivatalhoz arra vonatkozóan, hogy a megjelölés, illetve annak bejelentése nem felel meg az e törvényben meghatározott valamely oltalomképességi feltételnek.
+(4) A földrajzi árujelző lajstromozására irányuló eljárásban az adatközlést követően észrevételt lehet benyújtani a Szellemi Tulajdon Nemzeti Hivatalához arra vonatkozóan, hogy a megjelölés, illetve annak bejelentése nem felel meg az e törvényben meghatározott valamely oltalomképességi feltételnek.
 
-(5) Ha a földrajzi árujelző lajstromozására irányuló bejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Magyar Szabadalmi Hivatal elvégzi a bejelentés érdemi vizsgálatát. Az érdemi vizsgálat arra terjed ki, hogy a földrajzi árujelző
+(5) Ha a földrajzi árujelző lajstromozására irányuló bejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala elvégzi a bejelentés érdemi vizsgálatát. Az érdemi vizsgálat arra terjed ki, hogy a földrajzi árujelző
 
 a) megfelel-e a 103. §-ban meghatározott követelményeknek, és a 105. és 106. § alapján nincs-e kizárva az oltalomból; valamint
 

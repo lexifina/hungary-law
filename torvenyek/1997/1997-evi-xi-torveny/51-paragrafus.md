@@ -1,6 +1,6 @@
 ## A bejelentés napja
 
-51. § (1) A védjegybejelentés napja az a nap, amelyen a Magyar Szabadalmi Hivatalhoz beérkezett bejelentés legalább a következőket tartalmazza:
+51. § (1) A védjegybejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 a) utalást a védjegyoltalom iránti igényre,
 

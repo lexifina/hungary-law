@@ -8,4 +8,4 @@ c) a feltételek betartását ellenőrzik.
 
 (2) Az (1) bekezdés szerinti hagyományos élelmiszerek földrajzi árujelzőire e törvény hatálybalépésétől számított két éven belül igényelhető oltalom.
 
-(3) E törvény alapján oltalomban részesülnek azok az eredetmegjelölések is, amelyeket a hatálybalépés előtt bejegyeztek az eredetmegjelölések oltalmáról és nemzetközi lajstromozásáról szóló Lisszaboni Megállapodás alapján vezetett külön hazai lajstromba. Ezeket az eredetmegjelöléseket be kell jegyezni a földrajzi árujelzők lajstromába, és meg kell hirdetni a Magyar Szabadalmi Hivatal hivatalos lapjában.
+(3) E törvény alapján oltalomban részesülnek azok az eredetmegjelölések is, amelyeket a hatálybalépés előtt bejegyeztek az eredetmegjelölések oltalmáról és nemzetközi lajstromozásáról szóló Lisszaboni Megállapodás alapján vezetett külön hazai lajstromba. Ezeket az eredetmegjelöléseket be kell jegyezni a földrajzi árujelzők lajstromába, és meg kell hirdetni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.

@@ -10,4 +10,4 @@ b) bejelentése megfelel az e törvényben megszabott feltételeknek.
 
 (3) A földrajzi árujelző oltalma együttesen illeti meg azokat, akik a (2) bekezdésnek megfelelően termelnek, dolgoznak fel vagy állítanak elő termékeket (a továbbiakban: jogosultak).
 
-(4) Külföldi személyt csak nemzetközi szerződés vagy viszonosság esetén illeti meg a földrajzi árujelzőre az oltalom. A viszonosság kérdésében a Magyar Szabadalmi Hivatal elnökének állásfoglalása irányadó.
+(4) Külföldi személyt csak nemzetközi szerződés vagy viszonosság esetén illeti meg a földrajzi árujelzőre az oltalom. A viszonosság kérdésében a Szellemi Tulajdon Nemzeti Hivatala elnökének állásfoglalása irányadó.

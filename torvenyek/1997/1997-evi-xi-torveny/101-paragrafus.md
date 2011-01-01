@@ -34,6 +34,6 @@ f) a jogosulatlan védjegyhasználattal szembeni fellépés rendjét.
 
 (6) A tanúsító védjegy szabályzatára, bejelentésére és lajstromozására, használatára, átruházására, a tanúsító védjegy oltalmának megszűnésére és az ilyen védjegy oltalmából eredő jogok érvényesítésére az együttes védjegyre és oltalmára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-(7) A tanúsító védjegyet törölni kell akkor is, ha a bejelentést a 101. § (2) bekezdése alapján arra nem jogosult nyújtotta be.
+(7) A tanúsító védjegyet törölni kell akkor is, ha a bejelentést a (2) bekezdés alapján arra nem jogosult nyújtotta be.
 
 (8) A tanúsító védjegy használatára alkalmazni kell a minőség vagy egyéb jellemzők tanúsításáról rendelkező külön jogszabályok előírásait is.

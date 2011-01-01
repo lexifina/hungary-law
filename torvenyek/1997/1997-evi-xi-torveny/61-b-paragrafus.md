@@ -10,9 +10,9 @@ c) az 5. § (2) bekezdésének a) pontja alapján a korábbi használó;
 
 d) a 6. § alapján a jogosult, akinek az engedélye nélkül a képviselő, illetve az ügynök saját nevében jelentette be a megjelölést lajstromozásra.
 
-(2) A felszólalás benyújtható a bejelentés módosításáról vagy megosztásáról a 61/A. § (4) bekezdése alapján történő hatósági tájékoztatás közlésétől számított három hónapon belül is.
+(2)
 
-(3) A felszólalást eggyel több példányban kell benyújtani a Magyar Szabadalmi Hivatalhoz, mint ahány bejelentője van a védjegybejelentésnek. A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), és mellékelni kell az okirati bizonyítékokat.
+(3) A felszólalást eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány bejelentője van a védjegybejelentésnek. A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), és mellékelni kell az okirati bizonyítékokat.
 
 (4) A felszólalásért külön jogszabályban meghatározott díjat kell fizetni a felszólalás benyújtásától számított egy hónapon belül.
 

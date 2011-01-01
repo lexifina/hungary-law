@@ -4,6 +4,6 @@
 
 (2)
 
-(3) A megtekinthető iratokról a Magyar Szabadalmi Hivatal díjfizetés ellenében másolatot ad.
+(3) A megtekinthető iratokról a Szellemi Tulajdon Nemzeti Hivatala díjfizetés ellenében másolatot ad.
 
 (4) Védjegyügyekben az eljárás csak akkor nyilvános, ha abban ellenérdekű fél is részt vesz.

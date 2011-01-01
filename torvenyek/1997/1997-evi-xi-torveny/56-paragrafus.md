@@ -4,4 +4,4 @@
 
 (3) Az elismert bejelentési napról a bejelentőt értesíteni kell.
 
-(4) Ha a bejelentési díjat nem fizették meg, illetve a magyar nyelvű árujegyzéket nem nyújtották be, a Magyar Szabadalmi Hivatal figyelmezteti a bejelentőt a törvény által meghatározott határidőben [50. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
+(4) Ha a bejelentési díjat nem fizették meg, illetve a magyar nyelvű árujegyzéket nem nyújtották be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben [50. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
