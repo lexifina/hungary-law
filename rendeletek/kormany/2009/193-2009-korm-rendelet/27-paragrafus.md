@@ -1,10 +1,10 @@
-## Az építési és az egyszerűsített építési engedélyezési eljárás[^16]
+## Az építési és az egyszerűsített építési engedélyezési eljárás[^27]
 
-27. § (1)[^17] Az Engr. 1. mellékletében meghatározott építési tevékenység építési engedélyezési eljárás, egyszerűsített építési engedélyezési eljárás lefolytatását követő építési engedély alapján végezhető.
+27. § (1)[^28] Az Engr. 1. mellékletében meghatározott építési tevékenység építési engedélyezési eljárás, egyszerűsített építési engedélyezési eljárás lefolytatását követő építési engedély alapján végezhető.
 
-(2)[^18] Egy telekre vonatkozóan az építési engedélyt az egy időben, illetve folyamatosan vagy ütemezve elvégezni kívánt építési tevékenység egészére kell kérni. Több megvalósulási szakaszra bontott építkezés esetén az egyes szakaszokban megépítendő építményekre – az építési tevékenység egészének bemutatása mellett – szakaszonként külön-külön is lehet építési engedélyt kérni.
+(2)[^29] Egy telekre vonatkozóan az építési engedélyt az egy időben, illetve folyamatosan vagy ütemezve elvégezni kívánt építési tevékenység egészére kell kérni. Több megvalósulási szakaszra bontott építkezés esetén az egyes szakaszokban megépítendő építményekre – az építési tevékenység egészének bemutatása mellett – szakaszonként külön-külön is lehet építési engedélyt kérni.
 
-(3)[^19] Egy telekre vonatkozóan a tervezett építési tevékenység végzésére több építési engedély is kérhető, azonban ugyanazon építési tevékenység vonatkozásában csak egy építési engedély alapján végezhető építési tevékenység.
+(3)[^30] Egy telekre vonatkozóan a tervezett építési tevékenység végzésére több építési engedély is kérhető, azonban ugyanazon építési tevékenység vonatkozásában csak egy építési engedély alapján végezhető építési tevékenység.
 
 (4) Az OTÉK előírásaitól eltérő műszaki megoldásra irányuló kérelem az építési engedélykérelemmel együtt is benyújtható, arról az építési engedélyezés tárgyában kelt érdemi határozatban kell dönteni.
 
@@ -32,10 +32,10 @@ f) az 1. melléklet szerinti tartalmú kitöltött statisztikai adatlapot,
 
 g) termőföld esetén a termőföld más célú hasznosításának engedélyezéséről szóló hatósági határozatot.
 
-(6)[^20]
+(6)[^31]
 
-[^16]: A 27. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^17]: A 27. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^18]: A 27. § (2) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
-[^19]: A 27. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
-[^20]: A 27. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^27]: A 27. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^28]: A 27. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^29]: A 27. § (2) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^30]: A 27. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^31]: A 27. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

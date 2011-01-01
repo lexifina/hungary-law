@@ -1,8 +1,8 @@
-26. § (1) Az elvi építési engedélyezési eljárásban a döntést a kérelem előterjesztésétől számított
+26. § (1)[^24] Az elvi építési engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított
 
-a) huszonkét munkanapon belül kell meghozni az Engr. szerinti építési engedélyezéshez kötött,
+a)[^25] harminc napon belül kell meghozni az Engr. szerinti építési engedélyezéshez kötött,
 
-b) tíz munkanapon belül kell meghozni az Engr. szerinti egyszerűsített építési engedélyezéshez kötött
+b)[^26] tizenöt napon belül kell meghozni az Engr. szerinti egyszerűsített építési engedélyezéshez kötött
 
 építési tevékenységek elvi építési engedélyezésekor.
 
@@ -17,3 +17,7 @@ c) az építésügyi jogszabályokban előírt szakmai követelményektől elté
 d) a külön jogszabály szerint a tervezett építményt a környezetébe illeszkedően helyezték-e el.
 
 (3) Az elvi építési engedély iránti kérelem elbírálása során – az Étv. 36. § (1) bekezdés b) pontjában foglaltakra is figyelemmel – az építési tevékenységgel érintett telek kialakítottnak minősül, ha a külön jogszabály szerinti telekalakítási engedéllyel rendelkezik.
+
+[^24]: A 26. § (1) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^25]: A 26. § (1) bekezdés a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^26]: A 26. § (1) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

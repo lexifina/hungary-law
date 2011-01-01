@@ -22,7 +22,7 @@ b) az építtető – építésügyi hatósági engedély hatályosságának lej
 
 (7) Az elsőfokú építésügyi hatóság az építésügyi hatósági engedély hatályának lejártát követően – legkésőbb hatvan napon belül – helyszíni ellenőrzést tart, és az ott tapasztaltak alapján a következő intézkedést teszi:
 
-a)[^13] ha szemrevételezés és a rendelkezésre álló építési napló tartalma alapján az építmény készültségi fokánál fogva használatbavételi engedély megadására alkalmasnak látszik, úgy az építésügyi hatóság az előírt kérelem és mellékletek benyújtására, valamint illeték megfizetésére való figyelmeztetés mellett – szankciók kilátásba helyezésével – használatbavételi engedélyezési eljárás megindítására vagy bejelentés megtételére hívja fel az építtetőt,
+a)[^21] ha szemrevételezés és a rendelkezésre álló építési napló tartalma alapján az építmény készültségi fokánál fogva használatbavételi engedély megadására alkalmasnak látszik, úgy az építésügyi hatóság az előírt kérelem és mellékletek benyújtására, valamint illeték megfizetésére való figyelmeztetés mellett – szankciók kilátásba helyezésével – használatbavételi engedélyezési eljárás megindítására vagy bejelentés megtételére hívja fel az építtetőt,
 
 b) ha az építmény használatbavételi engedély megadására még nem alkalmas, úgy az építésügyi hatóság
 
@@ -32,4 +32,4 @@ bb) intézkedik az építési tevékenység végzésének azonnali leállítása
 
 (8) Az építésügyi hatóság engedélye, illetve a bejelentés nem mentesíti az építtetőt az építési tevékenység megkezdéséhez a külön jogszabályok szerint szükséges más hatósági engedélyek megszerzésének kötelezettsége alól.
 
-[^13]: A 23. § (7) bekezdés a) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^21]: A 23. § (7) bekezdés a) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.

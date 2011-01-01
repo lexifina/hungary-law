@@ -26,6 +26,6 @@
 
 ## A fenti esetekben a közútkezelő hozzájárulását is csatolni szükséges.
 
-5. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^46]
+5. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^71]
 
-[^46]: Az 5. melléklet a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés i) pontja, a 177/2010. (V. 13.) Korm. rendelet 19. § i) pontja és 20. §-a szerint módosított szöveg.
+[^71]: Az 5. melléklet a 351/2010. (XII. 30.) Korm. rendelet 253. §-ával megállapított szöveg.

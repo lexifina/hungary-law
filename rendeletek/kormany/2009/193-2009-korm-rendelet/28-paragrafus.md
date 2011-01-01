@@ -1,10 +1,10 @@
-28. § (1) Az építési engedélyezési eljárásban a döntést a kérelem előterjesztésétől számított negyvenöt munkanapon belül kell meghozni az Engr. 1 melléklet I. oszlopa szerinti építési engedélyezési eljáráshoz kötött építési tevékenység építési engedélyezése esetén.
+28. § (1)[^32] Az építési engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított két hónapon belül kell meghozni az Engr. 1 melléklet I. oszlopa szerinti építési engedélyezési eljáráshoz kötött építési tevékenység építési engedélyezése esetén.
 
-(2) Az egyszerűsített építési engedélyezési eljárásban a döntést a kérelem előterjesztésétől számított
+(2)[^33] Az egyszerűsített építési engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított
 
-a) huszonkét munkanapon belül kell meghozni az Engr. 1. melléklet II. oszlopában,
+a)[^34] harminc napon belül kell meghozni az Engr. 1. melléklet II. oszlopában,
 
-b) tíz munkanapon belül kell meghozni az Engr. 1. melléklet III. oszlopában
+b)[^35] tizenöt napon belül kell meghozni az Engr. 1. melléklet III. oszlopában
 
 meghatározott építési tevékenység esetében.
 
@@ -21,3 +21,8 @@ d) az építménnyel összefüggő tervezett tereprendezési munkálatok megval�
 (4) Az építésügyi hatóság az építési engedélyezés és az egyszerűsített építési engedélyezés során a (3) bekezdésben foglaltakon túlmenően – külön jogszabályban előírt esetekben a tervtanács szakmai véleményét is figyelembe véve – a külön jogszabályban előírtak szerint vizsgálja, hogy a tervező a település beépítésének jellegét, sajátos építészeti arculatát a tervezett építmény, épületegyüttes (építményrész) elhelyezése és kialakítása, tervezése során figyelembe vette-e, az építményt a környezetébe és a tájba illeszkedően helyezte-e el.
 
 (5) Az építési tevékenységgel érintett telek akkor minősül rendezettnek, ha a helyi építési szabályzat, szabályozási terv, ezek hiányában az illeszkedés szabályai szerint – ha szükséges, telekalakítási eljárást követően – alakították ki, és az ingatlan-nyilvántartásba bejegyezték.
+
+[^32]: A 28. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^33]: A 28. § (2) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^34]: A 28. § (2) bekezdés a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^35]: A 28. § (2) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

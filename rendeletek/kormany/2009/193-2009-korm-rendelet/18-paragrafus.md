@@ -1,6 +1,6 @@
 ## Az építési jogosultság megállapítása
 
-18. § (1)[^11] Az elvi építési és a használatbavételi engedélyezés kivételével az építésügyi hatósági engedély megadásához az ingatlannal rendelkezni jogosult hozzájárulása szükséges a (2) és (3) bekezdésben foglaltak szerint.
+18. § (1)[^19] Az elvi építési és a használatbavételi engedélyezés kivételével az építésügyi hatósági engedély megadásához az ingatlannal rendelkezni jogosult hozzájárulása szükséges a (2) és (3) bekezdésben foglaltak szerint.
 
 (2) Az építési (továbbépítési), bontási és fennmaradási (a továbbiakban együtt: építési) jogosultság a következő okiratokkal igazolható:
 
@@ -22,7 +22,7 @@ d) társasház esetén az a) pontban meghatározottakon túl
 
 da) a társasházi közös tulajdonban tervezett építési tevékenységhez, a közös tulajdon beépítésével, a közös tulajdonra történő ráépítéssel járó építési tevékenységhez a társasház közgyűlésének a külön jogszabályban meghatározottak szerint meghozott határozatával,
 
-db)[^12] a társasházi külön tulajdonban tervezett építési tevékenység esetén, ha az építési tevékenység az alapító okiratban közös tulajdonként megjelölt építményrészt érinti, a tulajdonostársak tulajdoni hányad szerinti 2/3-ának hozzájáruló nyilatkozatával,
+db)[^20] a társasházi külön tulajdonban tervezett építési tevékenység esetén, ha az építési tevékenység az alapító okiratban közös tulajdonként megjelölt építményrészt érinti, a tulajdonostársak tulajdoni hányad szerinti 2/3-ának hozzájáruló nyilatkozatával,
 
 dc) a társasházi külön tulajdonban tervezett, közös tulajdont nem érintő építési tevékenységhez a külön tulajdonnal rendelkezni jogosultak hozzájáruló nyilatkozatával,
 
@@ -40,5 +40,5 @@ f) jelzálogjoggal terhelt ingatlan esetén építmény bontására irányuló �
 
 (4) Ha a kérelmező a (2) bekezdés a) pont aa) alpontban meghatározott adatokat nem igazolja, a hatóság az engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
-[^11]: A 18. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^12]: A 18. § (2) bekezdés db) alpontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^19]: A 18. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^20]: A 18. § (2) bekezdés db) alpontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.

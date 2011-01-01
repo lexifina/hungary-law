@@ -1,4 +1,4 @@
-40. § (1) A fennmaradási engedélyezési eljárásban a döntést a kérelem előterjesztésétől számított negyvenöt munkanapon belül kell meghozni.
+40. § (1)[^59] A fennmaradási engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított két hónapon belül kell meghozni.
 
 (2) A határozat rendelkező részének tartalmaznia kell:
 
@@ -35,3 +35,5 @@ b) szükség szerint az építésügy hatósági kötelezési eljárásokra vona
 c) az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet rendelkezéseit
 
 is alkalmazni kell.
+
+[^59]: A 40. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

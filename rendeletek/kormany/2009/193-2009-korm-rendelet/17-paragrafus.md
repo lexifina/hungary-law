@@ -1,4 +1,4 @@
-## Az építésügyi hatósági engedélykérelem[^9]
+## Az építésügyi hatósági engedélykérelem[^17]
 
 17. § (1) Az építésügyi hatósági engedély iránti kérelem tartalmazza:
 
@@ -54,7 +54,7 @@ g) az építtető aláírását.
 
 (2) A kérelmező az (1) bekezdés szerinti adatokon túlmenően az ingatlannal rendelkezni jogosultak nevét, lakcímét vagy székhelyét is megadhatja a gyorsabb ügyintézés érdekében az alapkérelemben.
 
-(3)[^10]
+(3)[^18]
 
-[^9]: A 17. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^10]: A 17. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^17]: A 17. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^18]: A 17. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
