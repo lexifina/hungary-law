@@ -174,7 +174,7 @@
 
 ## e) a veszélyes hulladékkezelési tevékenységnek megfelelő környezetvédelmi hatósági engedélyek az EWC 16. főcsoportjának 1601 alcsoportjába sorolt (veszélyes) hulladékokra, valamint a 160601*, a 160604, a 160606*, a160801 és a 160807* kódszám alá sorolt (veszélyes) hulladékokra, továbbá a 13. főcsoport 1301, 1302, 1307, és 1308 alcsoportjaiba sorolt olajhulladékok és folyékony üzemanyagok hulladékaira vonatkozóan;
 
-## f)[^143] a külön jogszabály szerinti bontási átvételi igazolás kiadását megelőző vizsgálathoz szükséges eszközök: kézilámpa, tükör, (gép)rongy, kézi nagyító, festék rétegvastagság vizsgáló készülék (acél- és fém alaphoz), okmányvizsgáló UV lámpa, kézi anyagfolytonosság és tömörségvizsgáló eszköz, digitális fényképezőgép (legalább: 3,0 Megapixel felbontás, 512 MByte méretű memória kártya, közvetlen PC-re töltés lehetősége, az alvázszám rögzítéséhez alkalmas makro-funkció),
+## f)[^143]
 
 ## g)[^144] a közlekedési hatóság információs rendszerével történő adatcseréhez szükséges eszközök:
 
@@ -405,7 +405,7 @@ szerelő a szakműhely nevében
 [^140]: A 3. számú melléklet 11.1. pont a) pontjának második franciabekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
 [^141]: A 3. számú melléklet 11.1. pont a) pontjának negyedik franciabekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 4. és 14. pontja szerint módosított szöveg.
 [^142]: A 3. számú melléklet 11.1. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 22. pontja szerint módosított szöveg.
-[^143]: A 3. számú melléklet 11.1. pontjának f) alpontját a 63/2009. (XI. 23.) KHEM rendelet 6. §-a iktatta be.
+[^143]: A 3. számú melléklet 11.1. pontjának f) alpontját a 63/2009. (XI. 23.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés c) pontja.
 [^144]: A 3. számú melléklet 11.1. pontjának g) alpontját a 63/2009. (XI. 23.) KHEM rendelet 6. §-a iktatta be.
 [^145]: A 3. számú melléklet 11.2. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. és 35. pontja szerint módosított szöveg.
 [^146]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 25. §-a.
