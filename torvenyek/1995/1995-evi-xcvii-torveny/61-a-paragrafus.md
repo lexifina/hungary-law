@@ -30,7 +30,7 @@ h) a Magyar Köztársaságban az ellenőrzött légtéren kívül (a repülőté
 
 i) a feladatainak ellátásával kapcsolatos fejlesztés;
 
-j) a légiforgalmi irányító és körzeti repüléstájékoztató szakszemélyzet szakmai képzése, illetve továbbképzése;
+j) a légiforgalmi irányító és körzeti repüléstájékoztató szakszemélyzet munkahelyi képzése, illetve továbbképzése;
 
 k) műszaki dokumentációs és ahhoz kapcsolódó tájékoztató tevékenység ellátása;
 

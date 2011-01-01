@@ -26,15 +26,17 @@ k) a bajba jutott vagy eltűnt légijárművek megsegítésére, valamint a kata
 
 l) az állami tulajdonú kereskedelmi repülőterek és a nem állami tulajdonú repülőterek létesítésének engedélyezése és szakmai felügyelete;
 
-m) a légiforgalmi irányító és körzeti repüléstájékoztató szakszemélyzet képzése, képzésének koordinálása;
+m) a légiforgalmi irányító szakszemélyzet képzéséről való gondoskodás;
 
-n) a légiközlekedéssel összefüggő tudományos kutatások koordinálása.
+n) a légiközlekedéssel összefüggő tudományos kutatások koordinálása;
+
+o) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében kidolgozott teljesítménytervek elfogadása és az Európai Bizottság számára történő elküldése.
 
 (2) Az (1) bekezdésnek
 
 a) az a), a b), az e) és a g) pontjaiban említett feladatokat a Kormány;
 
-b) a d), az l) és az n) pontjaiban felsorolt feladatokat közlekedésért felelős miniszter (a továbbiakban: a miniszter);
+b) a d), az l), az n) és az o) pontjaiban felsorolt feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter);
 
 c)
 

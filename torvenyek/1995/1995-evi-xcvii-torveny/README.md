@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2010-04-29 | 2009. évi CXLVII. törvény | 1995-97-00-00.31 |
 | 2010-08-11 | 2010. évi LXXXII. törvény | 1995-97-00-00.32 |
 | 2010-11-18 | 2009. évi CXLVII. törvény | 1995-97-00-00.33 |
+| 2011-01-01 | 2010. évi CLXXII. törvény | 1995-97-00-00.34 |

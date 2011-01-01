@@ -2,7 +2,7 @@
 
 ## A légiközlekedés szabályai
 
-52. § (1) A lajstromozásra kötelezett légijármű, illetve állami légijármű vezetéséhez, e légijárművek és berendezéseik légialkalmasságának, üzemképességének tanúsításához, továbbá az 53. § (6) bekezdése szerinti rendeletben meghatározott egyéb tevékenységek ellátásához szakszolgálati engedély szükséges.
+52. § (1) A lajstromozásra kötelezett légijármű, illetve állami légijármű vezetéséhez, e légijárművek és berendezéseik légialkalmasságának, üzemképességének tanúsításához, továbbá az 53. § (7) bekezdése szerinti rendeletben meghatározott egyéb tevékenységek ellátásához szakszolgálati engedély szükséges.
 
 (2) A légi személyszállításra és a légi árufuvarozásra használt légijármű esetében a szakszolgálati engedély tulajdonosa a jogosultságával abban az esetben élhet, ha arra a légijármű üzemben tartója, illetve karbantartója írásban külön felhatalmazta.
 

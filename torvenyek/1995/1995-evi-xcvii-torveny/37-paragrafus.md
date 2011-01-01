@@ -20,6 +20,6 @@ bb) állami repülések céljára szolgáló repülőtér.
 
 (2) A kereskedelmi repülőteret a miniszter határozatával nemzetközi repülőtérnek nyilváníthatja (nemzetközi kereskedelmi repülőtér).
 
-(3) Nemzetközi kereskedelmi repülőtér fejlesztésére és megszüntetésére a miniszter az illetékes települési (fővárosban a fővárosi) önkormányzat véleményének megkérésével ad engedélyt.
+(3) Nemzetközi kereskedelmi repülőtér fejlesztésére és megszüntetésére a miniszter a repülőtér hatásterületén lévő települési (a fővárosban a fővárosi és az érintett kerületi) önkormányzat véleményének figyelembevételével ad engedélyt. A települési önkormányzat véleményét a megkeresés kézbesítésétől számított 30 napon belül adja meg. A határidő eredménytelen eltelte esetén úgy kell tekinteni, hogy az önkormányzat a megkeresésben foglaltakkal egyetért.
 
 (4) Az (1) bekezdés b) pontjának bb) alpontjában említett repülőtér létesítésére, fejlesztésére és megszüntetésére – az illetékes települési önkormányzat véleményének megkérésével – a honvédelemért felelős miniszter ad engedélyt.

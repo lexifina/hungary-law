@@ -20,15 +20,23 @@ g) légiközlekedés védelmére,
 
 h) zajkorlátozásra
 
-vonatkozó rendelkezések megsértőivel szemben 3 000 000 Ft-ig terjedő bírság szabható ki. A hatóság a bírság kiszabását akkor mellőzi, ha a bírság kiszabására okot adó tevékenység vagy mulasztás az életet, a testi épséget, a vagyonbiztonságot, a közlekedés biztonságát vagy a közteherviselési kötelezettség teljesítését közvetlenül nem veszélyezteti, harmadik személynek kárt nem okoz, a tevékenység vagy mulasztás tekintetében a rosszhiszeműség, a hatóság félrevezetésének szándéka nem állapítható meg, és a tevékenység vagy mulasztás első ízben fordul elő.
+vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló miniszteri rendeletben meghatározottak szerint – 100 000 000 Ft-ig terjedő bírság szabható ki. A bírság kiszabásáról szóló határozattal szemben előterjesztett jogorvoslatnak a bírság megfizetésére nincs halasztó hatálya.
 
-(2) A bírságolással kapcsolatos eljárást a légiközlekedési hatóság folytatja le. A bírság összegét az eset összes körülményére – így különösen a jogsértés által érintettek körének nagyságára, a jogsértés súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértés veszélyességére vagy károsító hatására, a bekövetkezett kár mértékére, a helyreállíthatóság lehetőségére és a jogsértéssel elért jogtalan előny mértékére – tekintettel kell meghatározni.
+(2) A bírságolással kapcsolatos eljárást:
+
+a) a légiközlekedési hatóság, állami célú légiközlekedés tekintetében a katonai légügyi hatóság,
+
+b) az (1) bekezdés g) pontjába tartozó esetekben – amennyiben az eljárás a rendőrségnél indult – a rendőrség
+
+folytatja le.
+
+(2a) A bírság összegét az eset összes körülményére – így különösen a jogsértés által érintettek körének nagyságára, a jogsértés súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértés veszélyességére vagy károsító hatására, a bekövetkezett kár mértékére, a helyreállíthatóság lehetőségére és a jogsértéssel elért jogtalan előny mértékére – tekintettel kell meghatározni.
 
 (3) A bírság ismételten is kiszabható.
 
-(4) A bírság összege a légiközlekedési hatóságot illeti meg.
+(4) A bírság összege az eljáró hatóságot illeti meg.
 
-(5) A bírság kivetésének részletes szabályait és a beszedett bírság összegének felhasználási rendjét a miniszter az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+(5) A bírság kivetésének részletes szabályait és a beszedett bírság összegének felhasználási rendjét a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 
 (6) Nyilvános repülőtér üzemben tartója e törvényben, valamint a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló kormányrendeletben előírt tennivalók ellátásához szükséges anyagi fedezet biztosítása érdekében a repülőtér-használat díjának elemei között a zajt okozó légijárművek járatóival szemben zajvédelmi költségeit érvényesítheti.
 

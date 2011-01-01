@@ -52,7 +52,7 @@ c) a légiközlekedési szakszemélyzet szakirányú földi képzése,
 
 d) a repülőtér és a légiközlekedést kiszolgáló földi létesítmények létesítése, fenntartása, üzemben tartása,
 
-e) a légiforgalmi szolgálat ellátása — ideértve a légiforgalom irányítását — a légiforgalmi tájékoztatás és a légiközlekedési meteorológiai szolgálat, az ehhez szükséges létesítmények és berendezések létesítése, fenntartása és üzemben tartása,
+e) a léginavigációs szolgálat és légiforgalmi szolgáltatások ellátása,
 
 f) a légijármű földi kiszolgálása;
 

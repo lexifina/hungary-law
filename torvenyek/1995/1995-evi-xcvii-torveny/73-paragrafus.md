@@ -28,7 +28,7 @@ m)
 
 n) a légvédelmi készenléti gyakorlórepülések végrehajtásának általános szabályait,
 
-o) a légijármű fel- és leszállásának, valamint a leszállóhely létesítésének és megszüntetésének engedélyezésére vonatkozó szabályokat,
+o) a légijármű fel- és leszállásának, valamint a leszállóhely létesítésének engedélyezésére vonatkozó szabályokat,
 
 p) a külföldi szakszolgálati engedélyek elfogadásának általános szabályait és a gazdasági célú légiközlekedési tevékenység ellátásához a szakszolgálati engedéllyel rendelkező által teljesítendő általános feltételeket,
 
@@ -61,3 +61,5 @@ b) a katonai légügyi hatóságot vagy hatóságokat,
 c) a közlekedésbiztonsági szervet vagy szerveket, valamint
 
 d) az állami közlekedésbiztonsági szervet vagy szerveket.
+
+(3) Felhatalmazást kap a Kormány, hogy a légiközlekedés védelmével kapcsolatos feladatok rendőrség általi átvételének és a rendőrség indokolt költségei megtérítésének szabályait rendeletben állapítsa meg.
