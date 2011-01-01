@@ -6,6 +6,6 @@
 
 (3) Az igazolvány az egyéni vállalkozói tevékenység bejelentésekor vagy a tevékenység folytatása során bármikor (ideértve az adatok megváltozása miatt kért igazolvány kiállítását is) kérhető.
 
-(4) Ha az igazolvány kiállítását személyesen kérik, azt haladéktalanul ki kell állítani az egyéni vállalkozó részére. Egyéb esetben az egyéni vállalkozói igazolványt az egyéni vállalkozó részére a kérelem beérkezését követő munkanaptól számított öt munkanapon belül kézbesíteni kell.
+(4) Ha az igazolvány kiállítását személyesen kérik, azt haladéktalanul ki kell állítani az egyéni vállalkozó részére. Egyéb esetben az egyéni vállalkozói igazolványt az egyéni vállalkozó részére a kérelem beérkezését követő naptól számított nyolc napon belül kézbesíteni kell.
 
 (5) Az igazolvány az egyéni vállalkozói tevékenység megkezdésének és folytatásának nem feltétele.

@@ -32,4 +32,4 @@ c) egyéni cég alapítása esetén az egyéni cég székhelye szerint illetéke
 
 elektronikus úton értesíti a nyilvántartást vezető szervet.
 
-(5) A nyilvántartást vezető szerv azt az egyéni vállalkozót, amelynek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja az adóhatóságot és a Központi Statisztikai Hivatalt.
+(5) A nyilvántartást vezető szerv azt az egyéni vállalkozót, amelynek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja az adóhatóságot, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet és a Központi Statisztikai Hivatalt.
