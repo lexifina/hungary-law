@@ -1,4 +1,4 @@
-5. §[^9] (1) A nyilvántartó szerv a felszámoló gazdasági társaságot törli a névjegyzékből
+5. §[^13] (1) A nyilvántartó szerv a felszámoló gazdasági társaságot törli a névjegyzékből
 
 a) a Cstv. által törlési okként nevesített esetekben,
 
@@ -10,8 +10,9 @@ d) ha a felszámoló gazdasági társaság ezt kéri,
 
 e) az új névjegyzék felállítására irányuló eljárások lezárásakor, a (2) bekezdés szerinti módon, amennyiben a felszámoló társaságnak az új névjegyzékbe való vételére nem kerül sor.
 
-(2) Az új névjegyzék felállítására irányuló eljárásokat lezáró utolsó határozat jogerőre emelkedését követő 15 munkanapon belül kell határozatot hozni azon felszámoló társaságok névjegyzékből való törléséről, amelyeknek a névjegyzékbe vételére nem került sor. A határozatban a törlés időpontja megegyezik az új névjegyzék felállításának időpontjával.
+(2)[^14] Az új névjegyzék felállítására irányuló eljárásokat lezáró utolsó határozat jogerőre emelkedését követő húsz napon belül kell határozatot hozni azon felszámoló társaságok névjegyzékből való törléséről, amelyeknek a névjegyzékbe vételére nem került sor. A határozatban a törlés időpontja megegyezik az új névjegyzék felállításának időpontjával.
 
 (3) A névjegyzékből való törlésről szóló jogerős határozatot a nyilvántartó szerv megküldi minden megyei bíróságnak, a Fővárosi Bíróságnak, továbbá az ítélőtábláknak.
 
-[^9]: Az 5. § a 275/2009. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: Az 5. § a 275/2009. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: Az 5. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (78) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
