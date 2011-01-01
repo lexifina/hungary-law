@@ -1,0 +1,1 @@
+## 20. § Az R5. 11. §-át megelőző alcímben a „248. §-aihoz” szövegrész helyébe a „43/B. §-aihoz” szöveg, 14. §-át megelőző alcímben a „248. §” szövegrész helyébe a „43/B. §” szöveg, 18. §-át megelőző alcímben a „248. §-aihoz” szövegrész helyébe a „43/B. §-aihoz” szöveg lép.

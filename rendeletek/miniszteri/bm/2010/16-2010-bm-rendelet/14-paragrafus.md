@@ -1,0 +1,3 @@
+## 13. § Hatályát veszti az R4. 1. melléklet „I. A Rendőrségnél rendszeresített hivatásos szolgálati beosztások, munkakörök, az ahhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények” pont „II. Besorolási osztály” táblázat „Területi” szerv „III.” beosztási kategória „felszámoló (KR terrorelhárítási)” munkakör (beosztás) sora, 4. melléklet I. Őr-, ügyeleti, készenléti és készültségi szolgálatok a Rendőrségnél alcím 3. pont c) alpontjában a „műveleti alosztály” szövegrész.
+
+## 5. A hivatásos katasztrófavédelmi szervek, valamint a hivatásos önkormányzati tűzoltóság szolgálati viszonyban álló tagjai szolgálati viszonyának egyes kérdéseiről és a személyügyi igazgatás rendjéről szóló 11/2009. (III. 6.) ÖM rendelet módosítása
