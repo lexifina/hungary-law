@@ -6,7 +6,7 @@ a) a Kormány által kijelölt hat személy,
 
 b) a Magyar Tudományos Akadémia elnöke által kijelölt személy,
 
-c) a Nemzeti Kutatási és Technológiai Hivatal elnöke által kijelölt személy,
+c)[^2] a Nemzeti Innovációs Hivatal elnöke által kijelölt személy,
 
 d) az Országos Tudományos Kutatási Alapprogramok Bizottsága által kijelölt személy, valamint
 
@@ -35,3 +35,5 @@ h) javaslatot tesz a Műszaki Tanács tagjaira és elnökére.
 (5) A Programtanács az ügyrendje alapján működik, amelyet maga határoz meg. A Programtanács ügyrendjét a Magyar Tudományos Akadémia elnöke hagyja jóvá.
 
 (6) A Programtanács tagjának megbízatása megszűnik a tag halálával, lemondásával, valamint visszahívásával.
+
+[^2]: A 3. § (2) bekezdés c) pontja a 303/2010. (XII. 23.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
