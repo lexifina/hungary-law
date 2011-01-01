@@ -1,111 +1,109 @@
-2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^15]
+2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^19]
 
-| 1. Lőfegyvert munkakörükből eredően tartani szándékozó, illetve tartó személyek (I. csoport) lőfegyvertartásra való egészségi alkalmasságának pszichológiai vizsgálata |
+|  | A | B |
 
-| a) | első fokon | 6 550 Ft |
+| 1. | Lőfegyvert munkakörükből eredően tartani szándékozó, illetve tartó személyek (I. csoport) lőfegyvertartásra való egészségi alkalmasságának pszichológiai vizsgálata |  |
 
-| b) | másodfokon | 10 900 Ft |
+|  | a) első fokon | 6 800 Ft |
 
-| 2. | Lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való |
+|  | b) másodfokon | 11 300 Ft |
 
-| a) | orvosi alkalmassági vizsgálata |  |
+| 2. | Lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való |  |
 
-|  | aa) | első fokon | 4 350 Ft |
+|  | a) orvosi alkalmassági vizsgálata |  |
 
-|  | ab) | másodfokon | 5 400 Ft |
+|  | aa) első fokon | 6 800 Ft |
 
-| b) | pszichológiai alkalmassági vizsgálata |  |
+|  | ab) másodfokon | 11 300 Ft |
 
-|  | ba) | első fokon | 6 550 Ft |
+|  | b) pszichológiai alkalmassági vizsgálata |  |
 
-|  | bb) | másodfokon | 10 900 Ft |
+|  | ba) első fokon | 6 800 Ft |
 
-| 3. Gépjármű-vezetői, belvízi hajózási szolgálati és belvízi kedvtelési célú vízijármű-vezetői alkalmassági vizsgálat, III. és IV. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők időszakos és soron kívüli alkalmassági vizsgálata |
+|  | bb) másodfokon | 11 300 Ft |
 
-| a) | ha a 40. életévét még nem töltötte be: |  |
+| 3. | Gépjármű-vezetői, belvízi hajózási szolgálati és belvízi kedvtelési célú vízijármű-vezetői alkalmassági vizsgálat, III. és IV. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők időszakos és soron kívüli alkalmassági vizsgálata |  |
 
-|  | aa) | első fokon | 6 550 Ft |
+|  | a) ha a 40. életévét még nem töltötte be: |  |
 
-|  | ab) | másodfokon | 9 750 Ft |
+|  | aa) első fokon | 6 800 Ft |
 
-| b) | ha a 40. életévét betöltötte, de a 60. életévét még nem érte el: |  |
+|  | ab) másodfokon | 10 100 Ft |
 
-|  | ba) | első fokon | 4 350 Ft |
+|  | b) ha a 40. életévét betöltötte, de a 60. életévét még nem érte el: |  |
 
-|  | bb) | másodfokon | 6 550 Ft |
+|  | ba) első fokon | 4 500 Ft |
 
-| c) | ha a 60. életévét betöltötte, de a 70. életévét még nem érte el: |  |
+|  | bb) másodfokon | 6 800 Ft |
 
-|  | ca) | első fokon | 2 200 Ft |
+|  | c) ha a 60. életévét betöltötte: |  |
 
-|  | cb) | másodfokon | 4 350 Ft |
+|  | ca) első fokon | 2 300 Ft |
 
-| d) | ha a 70. életévét betöltötte: |  |
+|  | cb) másodfokon | 4 500 Ft |
 
-|  | da) | első fokon | 1 150 Ft |
+| 4. | Alkohol szintjének kimutatása érdekében végzett vér- és vizeletvétel | 4 500 Ft |
 
-|  | db) | másodfokon | 2 200 Ft |
+| 5. | Kábítószer szintjének kimutatása érdekében végzett |  |
 
-| 4. | Véralkohol-vizsgálathoz vérvétel | 4 350 Ft |
+|  | a) vérvétel | 3 000 Ft |
 
-| 5. | Kábítószer szintjének kimutatása érdekében végzett vérvizsgálat | 5 400 Ft |
+|  | b) vizeletvétel | 1 500 Ft |
 
-| 6. | Látlelet kiadása | 3 200 Ft |
+| 6. | Látlelet kiadása | 3 300 Ft |
 
-| 7. | Részeg személy detoxikálása | 6 550 Ft |
+| 7. | Részeg személy detoxikálása | 6 800 Ft |
 
-| 8. | Kábítószer hatása alatt álló személy akut ellátása | 6 550 Ft |
+| 8. | Kábítószer hatása alatt álló személy akut ellátása | 6 800 Ft |
 
 | 9. | Tengeri hajózási egészségi alkalmassági vizsgálat |  |
 
-| a) | tengeri hajózási szolgálatot teljesítő személy alkalmassági vizsgálata |  |
+|  | a) tengeri hajózási szolgálatot teljesítő személy alkalmassági vizsgálata |  |
 
-|  | aa) | az egészségi alkalmasság első vizsgálata | 17 350 Ft |
+|  | aa) az egészségi alkalmasság első vizsgálata | 18 000 Ft |
 
-|  | ab) | az egészségi alkalmasság időszakos vizsgálata | 14 150 Ft |
+|  | ab) az egészségi alkalmasság időszakos vizsgálata | 14 600 Ft |
 
-|  | ac) | az egészségi alkalmasság soron kívüli vizsgálata | 11 950 Ft |
+|  | ac) az egészségi alkalmasság soron kívüli vizsgálata | 12 400 Ft |
 
-| b) | I. és II. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők alkalmassági vizsgálata |  |
+|  | b) I. és II. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők alkalmassági vizsgálata |  |
 
-|  | ba) | az egészségi alkalmasság első vizsgálata | 10 900 Ft |
+|  | ba) az egészségi alkalmasság első vizsgálata | 11 300 Ft |
 
-|  | bb) | az egészségi alkalmasság időszakos vizsgálata | 8 750 Ft |
+|  | bb) az egészségi alkalmasság időszakos vizsgálata | 9 100 Ft |
 
-|  | bc) | az egészségi alkalmasság soron kívüli vizsgálata | 6 550 Ft |
+|  | bc) az egészségi alkalmasság soron kívüli vizsgálata | 6 800 Ft |
 
-| c) | III. és IV. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők első alkalmassági vizsgálata | 8 750 Ft |
+|  | c) III. és IV. osztályú tengeri kedvtelési célú tengeri vízijármű-vezetők első alkalmassági vizsgálata | 9 100 Ft |
 
-| 10. Külön jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve, ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra, kedvezményre való jogosultság megállapítása céljából kerül sor | 6 550 Ft |
+| 10. | Jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve, ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra, kedvezményre való jogosultság megállapítása céljából kerül sor | 6 800 Ft |
 
-| 11. | Hivatásos sportolók sportegészségügyi vizsgálata | 8 750 Ft |
+| 11. | Hivatásos sportolók sportegészségügyi vizsgálata | 9 100 Ft |
 
-| 12. | Hivatásos sportolók további sportegészségügyi szakvizsgálata | Az adott ellátásnak az egészségbiztosító felé külön jogszabály szerint elszámolható összege |
+| 12. | Hivatásos sportolók további sportegészségügyi szakvizsgálata | Az adott ellátásnak a közfinan- szírozásban érvényesíthető díja |
 
-| 13. | Repülő-egészségügyi alkalmassági vizsgálat |
+| 13. | Repülő-egészségügyi alkalmassági vizsgálat |  |
 
-| a) | 1. egészségügyi osztály |  |
+|  | a) 1. egészségügyi osztály |  |
 
-|  | aa) | első, illetve kibővített (terheléses EKG, teljes körű szemészeti vagy teljes körű fül-orr-gégészeti vizsgálatra is kiterjedő) vizsgálat | 26 000 Ft |
+|  | aa) első, illetve kibővített (terheléses EKG, teljes körű szemészeti vagy teljes körű fül-orr-gégészeti vizsgálatra is kiterjedő) vizsgálat | 26 900 Ft |
 
-|  | ab) | időszakos vizsgálat | 14 550 Ft |
+|  | ab) időszakos vizsgálat | 15 100 Ft |
 
-| b) | 2. egészségügyi osztály |  |
+|  | b) 2. egészségügyi osztály |  |
 
-|  | ba) | első, illetve kibővített (terheléses EKG vizsgálatra is kiterjedő) vizsgálat | 12 450 Ft |
+|  | ba) első, illetve kibővített (terheléses EKG vizsgálatra is kiterjedő) vizsgálat | 12 900 Ft |
 
-|  | bb) | időszakos vizsgálat | 8 300 Ft |
+|  | bb) időszakos vizsgálat | 8 600 Ft |
 
-| c) | 3. egészségügyi osztály |  |
+|  | c) 3. egészségügyi osztály |  |
 
-|  | ca) | első, illetve kibővített (terheléses EKG, teljes körű szemészeti vagy teljes körű fül-orr-gégészeti vizsgálatra is kiterjedő) vizsgálat | 26 000 Ft |
+|  | ca) első, illetve kibővített (terheléses EKG, teljes körű szemészeti vagy teljes körű fül-orr-gégészeti vizsgálatra is kiterjedő) vizsgálat | 26 900 Ft |
 
-|  | cb) | időszakos vizsgálat | 14 550 Ft |
+|  | cb) időszakos vizsgálat | 15 100 Ft |
 
-| 14. Az a mellkas-szűrővizsgálat (tüdőszűrés), melynek igénybevételére nem az egészségügyi hatóság által külön jogszabály szerint kötelezően elrendelt szűrővizsgálat keretében, vagy nem a külön jogszabály szerinti korhoz kötött szűrővizsgálat keretében, vagy nem a külön jogszabály által előírt, a szakképzésről szóló 1993. évi LXXVI. törvény 2. § (1) bekezdés a)–c) pontja szerinti szakképzési intézményekben oktatásban részesülők szakmai alkalmassági vizsgálatai |
+| 14. | Az a mellkas-szűrővizsgálat (tüdőszűrés), melynek igénybevételére nem az egészségügyi hatóság által a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerint kötelezően elrendelt szűrővizsgálat keretében, vagy nem a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti korhoz kötött szűrővizsgálat keretében, vagy nem jogszabály által előírt, a szakképzésről szóló 1993. évi LXXVI. törvény 2. § (1) bekezdés a)–c) pontja szerinti szakképzési intézményekben oktatásban részesülők szakmai alkalmassági vizsgálatai keretében kerül sor. | A mellkas- szűrővizsgálat közfinan- szírozásban érvényesíthető díja |
 
-| keretében kerül sor. | A mellkas-szűrővizsgálat közfinanszírozásban érvényesíthető díja |
+| 15. | A foglalkoztathatóság szakvéleményezése | 3 100 Ft/fő/eset |
 
-| 15. | A foglalkoztathatóság szakvéleményezése | 3000 Ft/fő/eset |
-
-[^15]: A 2. számú melléklet a 336/2009. (XII. 29.) Korm. rendelet 18. §-ával megállapított, a 87/2010. (III. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^19]: A 2. számú melléklet a 366/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.

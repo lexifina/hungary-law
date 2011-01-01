@@ -1,8 +1,8 @@
 1. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez
 
-## Az Ebtv. 23. §-ában foglalt, egyes részleges térítési díj mellett igénybe vehető egészségügyi szolgáltatások térítési díja
+## Az Ebtv. 23. §-ában foglalt egyes részleges, valamint 23/A. §-ában foglalt egyes kiegészítő térítési díj mellett igénybe vehető egészségügyi szolgáltatások térítési díja[^13]
 
-1.[^11] Az Ebtv. 23. §-ának a) pontjában foglaltak alapján a 18 éven aluliak a fogszabályozó készülékre való jogosultságuk keretében a fogorvosi munkára térítésmentesen, a fogszabályozó készülékre pedig a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendeletben (a továbbiakban: R.) foglaltak szerint jogosultak.
+1.[^14] Az Ebtv. 23. §-ának a) pontjában foglaltak alapján a 18 éven aluliak a fogszabályozó készülékre való jogosultságuk keretében a fogorvosi munkára térítésmentesen, a fogszabályozó készülékre pedig a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendeletben (a továbbiakban: R.) foglaltak szerint jogosultak.
 
 2. Az Ebtv. 23. §-ának c) pontjában foglaltak alapján
 
@@ -18,15 +18,17 @@ e) az arc, állcsont, illetve szájüreg fejlődési rendellenességében, dagan
 
 jogosultak.
 
-3.[^12]
+3.[^15]
 
-4.[^13]
+4.[^16]
 
-5. Az Ebtv. 23. §-ának h) pontja alapján az ápolási osztályon orvosi beutalás alapján történő elhelyezés és ápolás részleges térítési díja 400 Ft/nap.
+5.[^17] Az Ebtv. 23/A. § c) pontja alapján az ápolási osztályon orvosi beutalás alapján történő elhelyezés és ápolás esetén, illetve krónikus fekvőbeteg-ellátásban ápolási díjjal finanszírozott biztosított után a részleges térítési díj 600 Ft/nap.
 
-6.[^14] Az Ebtv. 23. §-ának k) pontja alapján a külsődleges nemi jellegek megváltoztatására irányuló beavatkozásért fizetendő részleges térítési díj mértéke annak az összegnek a 90 százaléka, amely az ellátásért a külön jogszabályban foglaltak szerint az egészségbiztosító felé elszámolható.
+6.[^18] Az Ebtv. 23. §-ának k) pontja alapján a külsődleges nemi jellegek megváltoztatására irányuló beavatkozásért fizetendő részleges térítési díj mértéke annak az összegnek a 90 százaléka, amely az ellátásért a külön jogszabályban foglaltak szerint az egészségbiztosító felé elszámolható.
 
-[^11]: Az 1. számú melléklet 1. pontja a 173/2007. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^12]: Az 1. számú melléklet 3. pontját a 320/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
-[^13]: Az 1. számú melléklet 4. pontját a 63/2007. (III. 31.) Korm. rendelet 6. § (6) bekezdésének c) pontja hatályon kívül helyezte.
-[^14]: A 1. számú melléklet 6. pontját a 320/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2007. január 1. napját követően megkezdett vizsgálatok vonatkozásában kell alkalmazni.
+[^13]: Az 1. számú melléklet címe a 366/2010. (XII. 30.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 1. számú melléklet 1. pontja a 173/2007. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: Az 1. számú melléklet 3. pontját a 320/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^16]: Az 1. számú melléklet 4. pontját a 63/2007. (III. 31.) Korm. rendelet 6. § (6) bekezdésének c) pontja hatályon kívül helyezte.
+[^17]: Az 1. számú melléklet 5. pontja a 366/2010. (XII. 30.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg. [Az 1. számú melléklet 5. pontjának a 366/2010. (XII. 30.) Korm. rendelet 18. § (2) bekezdésével megállapított, a 19. § (2) bekezdése alapján 2011. július 1-jétől hatályos szövege: „5. Az Ebtv. 23/A. § c) pontja alapján az ápolási osztályon orvosi beutalás alapján történő elhelyezés és ápolás esetén, illetve krónikus fekvőbeteg-ellátásban ápolási díjjal finanszírozott biztosított után a részleges térítési díj 800 Ft/nap.”.]
+[^18]: A 1. számú melléklet 6. pontját a 320/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2007. január 1. napját követően megkezdett vizsgálatok vonatkozásában kell alkalmazni.
