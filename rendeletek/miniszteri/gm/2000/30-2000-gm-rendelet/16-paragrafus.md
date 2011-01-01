@@ -1,4 +1,4 @@
-16. § (1)[^11] A munkaadó a 15. § (1) bekezdésében meghatározott bejelentési kötelezettségének teljesítése során a következő adatokat jelenti be a székhelye (telephelye) szerint illetékes kirendeltség részére:
+16. § (1)[^13] A munkaadó a 15. § (1) bekezdésében meghatározott bejelentési kötelezettségének teljesítése során a következő adatokat jelenti be a székhelye (telephelye) szerint illetékes kirendeltség részére:
 
 a) a cégbíróságon bejegyzett teljes név,
 
@@ -42,16 +42,17 @@ nf) a munka természetéből adódó speciális körülmények,
 
 ng) a munkakörhöz kapcsolódó juttatások,
 
-o) a munkaerőigény-bejelentéshez várhatóan kapcsolódik-e külföldi állampolgár foglalkoztatására irányuló kérelem,
+o)[^14] a munkaerőigény-bejelentéshez várhatóan kapcsolódik-e harmadik országbeli állampolgár állampolgár foglalkoztatására irányuló kérelem,
 
 p) várható-e a munkakör betöltéséhez kapcsolódóan munkaerő-kölcsönzés, kirendelés, kiküldetés,
 
 q) az állást kínáló kívánja-e az állást külön törvényben meghatározott szabad mozgás és tartózkodás jogával rendelkező személy figyelmébe ajánlani.
 
-(2)[^12] A munkaadónak az (1) bekezdés a)–i) pontjában meghatározott adatait az első alkalommal történő munkaerő-igény bejelentésekor kell közölnie a székhelye (telephelye) szerint illetékes kirendeltséggel. Ezt követően ezekről az adatokról a munkaadó akkor tájékoztatja a kirendeltséget, ha azokban változás történik.
+(2)[^15] A munkaadónak az (1) bekezdés a)–i) pontjában meghatározott adatait az első alkalommal történő munkaerő-igény bejelentésekor kell közölnie a székhelye (telephelye) szerint illetékes kirendeltséggel. Ezt követően ezekről az adatokról a munkaadó akkor tájékoztatja a kirendeltséget, ha azokban változás történik.
 
-(3)[^13] A munkaerőigény a bejelentés napjától számított legfeljebb 60 napig érvényes. A munkaerőigény érvényessége annak lejárta előtt meghosszabbítható.
+(3)[^16] A munkaerőigény a bejelentés napjától számított legfeljebb 60 napig érvényes. A munkaerőigény érvényessége annak lejárta előtt meghosszabbítható.
 
-[^11]: A 16. § (1) bekezdése a 6/2008. (IV. 23.) SZMM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^12]: A 16. § új (2) bekezdését a 6/2008. (IV. 23.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
-[^13]: A 16. § eredeti (2) bekezdésének számozását a 6/2008. (IV. 23.) SZMM rendelet 2. § (2) bekezdése (3) bekezdésre változtatta.
+[^13]: A 16. § (1) bekezdése a 6/2008. (IV. 23.) SZMM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 16. § (1) bekezdés o) pontja a 27/2010. (XII. 31.) NGM rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 16. § új (2) bekezdését a 6/2008. (IV. 23.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
+[^16]: A 16. § eredeti (2) bekezdésének számozását a 6/2008. (IV. 23.) SZMM rendelet 2. § (2) bekezdése (3) bekezdésre változtatta.

@@ -1,4 +1,4 @@
-25. § (1)[^26] A 21. § (1) bekezdésében meghatározott támogatás összegének kiszámításánál a szellemi foglalkozásúak tekintetében a Központi Statisztikai Hivatal által a támogatás megállapításának évét mint tárgyévet megelőző második évre vonatkozóan meghatározott havi bruttó átlagkereset és a tanácsadás típusának szorzóját kell alapul venni. Ennek megfelelően a költségnorma
+25. § (1)[^30] A 21. § (1) bekezdésében meghatározott támogatás összegének kiszámításánál a szellemi foglalkozásúak tekintetében a Központi Statisztikai Hivatal által a támogatás megállapításának évét mint tárgyévet megelőző második évre vonatkozóan meghatározott havi bruttó átlagkereset és a tanácsadás típusának szorzóját kell alapul venni. Ennek megfelelően a költségnorma
 
 a) egyéni tanácsadás esetén a tárgyévet megelőző második évre vonatkozóan megállapított nemzetgazdasági átlagkereset x 0,026–0,035 Ft/fő/óra,
 
@@ -10,4 +10,4 @@ c) mentori szolgáltatás esetén (ideértve a külön jogszabályban meghatáro
 
 (3) A támogatásban részesülő az általa végzett szolgáltatási tevékenységről tájékoztatja a munkaügyi központ központi szervezeti egységét az általuk kötött megállapodásban meghatározott módon.
 
-[^26]: A 25. § (1) bekezdése a 6/2008. (IV. 23.) SZMM rendelet 6. §-ával megállapított szöveg.
+[^30]: A 25. § (1) bekezdése a 6/2008. (IV. 23.) SZMM rendelet 6. §-ával megállapított szöveg.
